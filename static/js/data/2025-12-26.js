@@ -1,6 +1,6 @@
 window.newsData_2025_12_26 = {
   "date": "2025-12-26",
-  "lastUpdated": "2025-12-26T05:12:03.821587+07:00",
+  "lastUpdated": "2025-12-26T07:59:39.855093+07:00",
   "articles": [
     {
       "id": "d9c67b151c232b4ac9051b12f52d7611",
@@ -171,6 +171,406 @@ window.newsData_2025_12_26 = {
       "category": "Tổng hợp",
       "published": "2025-12-26T01:17:52.850426+07:00",
       "fetched": "2025-12-26T01:17:52.850633+07:00"
+    },
+    {
+      "id": "c81839fd4f16ac3f6e11285761266b6a",
+      "title": "Mỹ mất dấu hàng tỷ USD viện trợ quân sự cho Israel",
+      "link": "https://vnexpress.net/my-mat-dau-hang-ty-usd-vien-tro-quan-su-cho-israel-4998308.html",
+      "summary": "Tổng thanh tra Lầu Năm Góc cho biết cơ quan này đã \"theo dõi không đúng cách\" hàng tỷ USD viện trợ quân sự cho Israel trong hơn một năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-26T00:55:16+07:00",
+      "fetched": "2025-12-26T07:59:32.492078+07:00"
+    },
+    {
+      "id": "a7a93a3964659c2b938c6672b2485d6b",
+      "title": "Tổng thống Trump tuyên bố vừa tấn công mục tiêu IS ở Nigeria",
+      "link": "https://thanhnien.vn/tong-thong-trump-tuyen-bo-vua-tan-cong-muc-tieu-is-o-nigeria-185251226065148363.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 26.12 (giờ Việt Nam) thông báo đã chỉ đạo quân đội tấn công các thành viên tổ chức Nhà nước Hồi giáo tự xưng (IS) tại Nigeria.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T00:47:00+07:00",
+      "fetched": "2025-12-26T07:59:29.334937+07:00"
+    },
+    {
+      "id": "937006fb8e25e6acf4866543b3cd188a",
+      "title": "Báo Thanh Niên trao tặng 3 căn Nhà Nhân Ái ở Đồng Nai",
+      "link": "https://thanhnien.vn/bao-thanh-nien-trao-tang-3-can-nha-nhan-ai-o-dong-nai-185251225201025063.htm",
+      "summary": "Sau hơn 1 tháng rưỡi thi công, 3 căn Nhà Nhân Ái trên địa bàn tỉnh Đồng Nai đã hoàn thành và được bàn giao, trao tặng cho 3 hộ gia đình có hoàn cảnh đặc biệt khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T00:46:00+07:00",
+      "fetched": "2025-12-26T07:59:29.335114+07:00"
+    },
+    {
+      "id": "70c13a81018b0bae9a98c50454de6ab5",
+      "title": "Kha Ly, Nhật Kim Anh đến mừng Đoàn Minh Tài cưới vợ kém 16 tuổi",
+      "link": "https://thanhnien.vn/kha-ly-nhat-kim-anh-den-mung-doan-minh-tai-cuoi-vo-kem-16-tuoi-185251226021438821.htm",
+      "summary": "Đoàn Minh Tài - Sunny Đan Ngọc xúc động khi đông đảo đồng nghiệp đến chúc mừng cả hai trong lễ cưới được tổ chức tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T00:34:00+07:00",
+      "fetched": "2025-12-26T07:59:29.335274+07:00"
+    },
+    {
+      "id": "01b672869673094653f82a0eb9515c20",
+      "title": "'Lò rèn' và mái nhà thanh xuân",
+      "link": "https://thanhnien.vn/lo-ren-va-mai-nha-thanh-xuan-185251225185216443.htm",
+      "summary": "Từ lúc vẫn còn gắn bó với nghề phấn bảng, tôi đã có duyên phận với Báo Thanh Niên, khi đăng bài đầu tiên trên tờ báo thân quen này. Mới đó mà đã 20 năm!",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T00:30:00+07:00",
+      "fetched": "2025-12-26T07:59:29.335433+07:00"
+    },
+    {
+      "id": "fe9e36c30a16a8eabf7d7fefc7073b80",
+      "title": "Mỹ mở chiến dịch tập kích IS tại Nigeria",
+      "link": "https://vnexpress.net/my-mo-chien-dich-tap-kich-is-tai-nigeria-4998440.html",
+      "summary": "Tổng thống Trump cho biết Mỹ đã mở chiến dịch tập kích lực lượng IS tại Nigeria theo đề nghị của nước chủ nhà, chưa rõ thương vong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-26T00:29:19+07:00",
+      "fetched": "2025-12-26T07:59:32.492258+07:00"
+    },
+    {
+      "id": "be0d9a3e9327272ab227df3e13a74f98",
+      "title": "Bạn đọc cho tôi niềm tự hào và yêu thương",
+      "link": "https://thanhnien.vn/ban-doc-cho-toi-niem-tu-hao-va-yeu-thuong-185251225184448192.htm",
+      "summary": "Những buổi sáng Hà Nội còn chìm trong hơi sương, khi tiếng chổi tre của cô lao công khua nhẹ dưới chân phố, khi ánh đèn vàng hắt lên những ô cửa còn đang ngủ… thì chúng tôi - những người phát hành báo - đã bắt đầu chuyến đi của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T00:26:00+07:00",
+      "fetched": "2025-12-26T07:59:29.335591+07:00"
+    },
+    {
+      "id": "6c1fd15eb58bab5f814e825bc4e3590c",
+      "title": "Lê Thành Phương và cuộc khởi nghĩa ở Phú Yên",
+      "link": "https://thanhnien.vn/le-thanh-phuong-va-cuoc-khoi-nghia-o-phu-yen-185251225222824748.htm",
+      "summary": "Tháng 7.1885, khi chiếu Cần Vương được đưa đến Phú Yên, nhiều sĩ phu, văn thân yêu nước đứng ra thành lập các đạo quân ứng nghĩa để chống giặc, trong đó có Thống soái Bình Tây Lê Thành Phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T00:22:00+07:00",
+      "fetched": "2025-12-26T07:59:29.335747+07:00"
+    },
+    {
+      "id": "388b318382ef6d20a79b3710cae202ee",
+      "title": "'Chuyển hóa' xe vi phạm thành của riêng, 3 cựu CSGT bị truy tố",
+      "link": "https://thanhnien.vn/chuyen-hoa-xe-vi-pham-thanh-cua-rieng-3-cuu-csgt-bi-truy-to-185251225230823616.htm",
+      "summary": "Sau khi lập biên bản, đưa xe vi phạm về trụ sở, 3 cựu CSGT ở TP.HCM bàn bạc thay thông tin người vi phạm, đổi màu xe, thay biển số để sử dụng cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T00:09:00+07:00",
+      "fetched": "2025-12-26T07:59:29.335928+07:00"
+    },
+    {
+      "id": "8194120fd690f05fb9c64490aca65332",
+      "title": "Điều gì xảy ra khi bạn ăn quả quýt?",
+      "link": "https://vnexpress.net/suc-khoe-dinh-duong-quyt-4997183.html",
+      "summary": "Thêm quả quýt vào các món như ăn vặt, nước ép, sinh tố, mứt hay salad tốt cho não bộ, tim mạch và hỗ trợ giảm cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T00:00:00+07:00",
+      "fetched": "2025-12-26T07:59:25.507043+07:00"
+    },
+    {
+      "id": "14b293fe1e95b693fd84850a32ae4694",
+      "title": "Dàn xe đặc biệt xuất hiện tại Vietnam Mobility Show 2025",
+      "link": "https://vnexpress.net/dan-xe-dac-biet-xuat-hien-tai-vietnam-mobility-show-2025-4998405.html",
+      "summary": "Ngoài những mẫu xe thể thao, còn có sự xuất hiện của xe điện Jaecoo J6 chưa ra mắt trên thị trường, hay xe tải điện VinFast EC Van.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T00:00:00+07:00",
+      "fetched": "2025-12-26T07:59:25.507229+07:00"
+    },
+    {
+      "id": "8fdaa44a9810c1e8436c9e67a9c60b90",
+      "title": "Hong Kong Air Cargo nối lại chuyến bay chở hàng tới Singapore",
+      "link": "https://vnexpress.net/hong-kong-air-cargo-noi-lai-chuyen-bay-cho-hang-toi-singapore-4995240.html",
+      "summary": "Hong Kong Air Cargo (HKAC) mở rộng mạng lưới tại châu Á với việc nối lại các chuyến bay chở hàng đến Singapore và đưa Chennai vào khai thác theo lịch bay định kỳ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T00:00:00+07:00",
+      "fetched": "2025-12-26T07:59:25.507397+07:00"
+    },
+    {
+      "id": "0e7a0f06017102e52842d6b48c383351",
+      "title": "'Bông hoa' quân báo đất thép: Hy sinh vì đất nước là niềm vinh dự",
+      "link": "https://thanhnien.vn/bong-hoa-quan-bao-dat-thep-hy-sinh-vi-dat-nuoc-la-niem-vinh-du-18525122522025351.htm",
+      "summary": "Trong những năm tháng kháng chiến, có những con người lặng lẽ đi vào nơi nguy hiểm nhất, không mang quân phục, không đứng trên chiến hào nhưng vẫn trực tiếp đối mặt với kẻ thù mỗi ngày. Tuy thầm lặng nhưng mỗi hành động của họ đều mang ý nghĩa sống còn đối với cách mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T00:00:00+07:00",
+      "fetched": "2025-12-26T07:59:29.336084+07:00"
+    },
+    {
+      "id": "1f4ddf9c01059af3b5f74c1f77c6d53a",
+      "title": "Thiện Nhân - Điểm đến du lịch y tế mới của kiều bào và khách quốc tế",
+      "link": "https://thanhnien.vn/thien-nhan-diem-den-du-lich-y-te-moi-cua-kieu-bao-va-khach-quoc-te-185251225163207638.htm",
+      "summary": "Tại khu vực miền Trung, Thiện Nhân Healthcare đang nổi lên như một lựa chọn đáng chú ý của nhiều Việt kiều và khách quốc tế trong hành trình kiểm tra sức khỏe toàn diện và tầm soát sớm các bệnh lý nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T00:00:00+07:00",
+      "fetched": "2025-12-26T07:59:29.336234+07:00"
+    },
+    {
+      "id": "21add8ed37f7e1a498c94b4053d0cb31",
+      "title": "Cảm miền Trung qua ‘chuyến tàu vị giác’ - Cơm Việt trên mâm gỗ",
+      "link": "https://thanhnien.vn/cam-mien-trung-qua-chuyen-tau-vi-giac-com-viet-tren-mam-go-185251225161806469.htm",
+      "summary": "'Cơm Việt trên mâm gỗ' tại Danaksara (Furama Villas Đà Nẵng) bắt đầu từ chính sự mộc mạc của bữa cơm nhà người miền Trung, như một chuyến đi nhẹ nhàng đưa thực khách trở về với sự chân phương, đủ sâu để neo lại trong ký ức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T00:00:00+07:00",
+      "fetched": "2025-12-26T07:59:29.336380+07:00"
+    },
+    {
+      "id": "91a6b8fee5fc9c1593e71b230c4a1ada",
+      "title": "Trang sức kim cương không còn 'khó với'",
+      "link": "https://thanhnien.vn/trang-suc-kim-cuong-khong-con-kho-voi-185251225153518834.htm",
+      "summary": "Với ngân sách 8 - 30 triệu đồng, các cô nàng có gu, đa phong cách đã có thể tỏa sáng cùng trang sức kim cương với bộ sưu tập TrenD by DOJI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T00:00:00+07:00",
+      "fetched": "2025-12-26T07:59:29.336526+07:00"
+    },
+    {
+      "id": "a696d6fa740ab3a9af2b74d7a5d2915e",
+      "title": "Nga sẵn sàng ký cam kết không tấn công NATO",
+      "link": "https://vnexpress.net/nga-san-sang-ky-cam-ket-khong-tan-cong-nato-4998433.html",
+      "summary": "Quan chức Nga cho biết nước này sẵn sàng \"chính thức hóa bằng văn bản\" các cam kết về không tấn công NATO, bác bỏ lo ngại của phương Tây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:59:34+07:00",
+      "fetched": "2025-12-26T07:59:25.507562+07:00"
+    },
+    {
+      "id": "a696d6fa740ab3a9af2b74d7a5d2915e",
+      "title": "Nga sẵn sàng ký cam kết không tấn công NATO",
+      "link": "https://vnexpress.net/nga-san-sang-ky-cam-ket-khong-tan-cong-nato-4998433.html",
+      "summary": "Quan chức Nga cho biết nước này sẵn sàng \"chính thức hóa bằng văn bản\" các cam kết về không tấn công NATO, bác bỏ lo ngại của phương Tây.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-25T23:59:34+07:00",
+      "fetched": "2025-12-26T07:59:32.492422+07:00"
+    },
+    {
+      "id": "0ef624fea02cb98ac727c0fd4a05f772",
+      "title": "Thổ Nhĩ Kỳ bắt hơn 100 thành viên IS đang âm mưu tấn công",
+      "link": "https://thanhnien.vn/tho-nhi-ky-bat-hon-100-thanh-vien-is-dang-am-muu-tan-cong-185251226065650973.htm",
+      "summary": "Ngày 25.12, cảnh sát Istanbul (Thổ Nhĩ Kỳ) đã tiến hành một loạt cuộc đột kích trong ngày 25.12, bắt giữ hơn 100 đối tượng thành viên tổ chức Nhà nước Hồi giáo tự xưng (IS) đang âm mưu tấn công dịp lễ Giáng sinh và năm mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:59:00+07:00",
+      "fetched": "2025-12-26T07:59:29.336678+07:00"
+    },
+    {
+      "id": "a0e73020d1dfcdb147c1acf71b5d8377",
+      "title": "Miền Bắc chìm trong rét đậm, vùng núi cao sẽ có băng giá, sương muối",
+      "link": "https://thanhnien.vn/mien-bac-chim-trong-ret-dam-vung-nui-cao-se-co-bang-gia-suong-muoi-185251226063826558.htm",
+      "summary": "Thời tiết các tỉnh miền Bắc hôm nay tiếp tục tục chìm trong rét đậm. Trong đó, vùng núi cao nguy cơ xảy ra băng giá, sương muối trong những ngày cuối tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:53:00+07:00",
+      "fetched": "2025-12-26T07:59:29.336826+07:00"
+    },
+    {
+      "id": "6c5a5879571fa68ca9e10362c820fead",
+      "title": "Bắt giám đốc điều hành đường dây gas giả: Sang chiết 'lụi' từ xe bồn, dán tem giả tại chỗ",
+      "link": "https://thanhnien.vn/bat-giam-doc-dieu-hanh-duong-day-gas-gia-sang-chiet-lui-tu-xe-bon-dan-tem-gia-tai-cho-185251225194401506.htm",
+      "summary": "Công an TP.HCM cho biết đã ra quyết định khởi tố bị can đối với 4 bị can để điều tra về hành vi sản xuất, buôn bán hàng giả, cụ thể là gas giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:52:00+07:00",
+      "fetched": "2025-12-26T07:59:29.337000+07:00"
+    },
+    {
+      "id": "c2efb74c0274769a7fc9031f231b3f87",
+      "title": "Người trẻ khởi nghiệp với nghề nông",
+      "link": "https://thanhnien.vn/nguoi-tre-khoi-nghiep-voi-nghe-nong-1852512251819224.htm",
+      "summary": "Nhiều người trẻ ở Tuyên Quang chọn quay về khởi nghiệp với nông nghiệp và đã có nhiều mô hình thành công. Họ phát huy vai trò năng động, sáng tạo trong lao động sản xuất, sớm trở thành ông chủ, tạo việc làm cho bà con, góp phần phát triển kinh tế địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:48:00+07:00",
+      "fetched": "2025-12-26T07:59:29.337150+07:00"
+    },
+    {
+      "id": "a0eb862b3f061c27118e29ba1b79a91b",
+      "title": "Điểm tin 6h: Công chức được đánh giá theo thang điểm 100 | 'Truy' tài sản người nhà nếu hộ kinh doanh không đủ tiền nộp phạt hành chính",
+      "link": "https://vnexpress.net/diem-tin-6h-cong-chuc-duoc-danh-gia-theo-thang-diem-100-truy-tai-san-nguoi-nha-neu-ho-kinh-doanh-khong-du-tien-nop-phat-hanh-chinh-4998434.html",
+      "summary": "Thiếu niên tử vong sau hai ngày vào trung tâm công tác xã hội; Chứng khoán hôm nay có thể lùi về 1.700 điểm...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:23:37+07:00",
+      "fetched": "2025-12-26T07:59:25.507719+07:00"
+    },
+    {
+      "id": "bdb091c566477ab05b90097c0acdf676",
+      "title": "Miễn học phí, phụ huynh vẫn 'còng lưng' đóng tiền triệu môn liên kết",
+      "link": "https://vnexpress.net/mien-hoc-phi-phu-huynh-van-cong-lung-dong-tien-trieu-mon-lien-ket-4998432.html",
+      "summary": "Chị Thanh Mai ở TP HCM phải đóng gần 2 triệu đồng mỗi tháng cho các khoản thu, hoặc chấp nhận con ra hành lang ngồi chờ khi bạn bè học các môn 'tự nguyện' được cài cắm giờ chính khóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:22:09+07:00",
+      "fetched": "2025-12-26T07:59:25.507895+07:00"
+    },
+    {
+      "id": "99835a1a1c25b97e36318ea17a80f613",
+      "title": "'Truy' tài sản người nhà nếu hộ kinh doanh không đủ tiền nộp phạt hành chính, từ 1/1/2026",
+      "link": "https://vnexpress.net/truy-tai-san-nguoi-nha-neu-ho-kinh-doanh-khong-du-tien-nop-phat-hanh-chinh-tu-1-1-2026-4998389.html",
+      "summary": "Theo quy định mới, nếu tài sản chung không đủ, nhà chức trách sẽ khấu trừ tiền, kê biên tài sản của các thành viên trong hộ kinh doanh, hộ gia đình để cưỡng chế xử phạt vi phạm hành chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:00:00+07:00",
+      "fetched": "2025-12-26T07:59:25.508059+07:00"
+    },
+    {
+      "id": "6b7595fcb62d3a4e18a51047267a6bf3",
+      "title": "Các dự án tỷ phú Phạm Nhật Vượng đang theo đuổi lớn thế nào?",
+      "link": "https://vnexpress.net/cac-du-an-ty-phu-pham-nhat-vuong-dang-theo-duoi-lon-the-nao-4998352.html",
+      "summary": "Vingroup vừa xin rút đầu tư đường sắt tốc độ cao Bắc Nam để dồn lực cho loạt dự án trọng điểm có tổng vốn hơn 1,7 triệu tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:00:00+07:00",
+      "fetched": "2025-12-26T07:59:25.508229+07:00"
+    },
+    {
+      "id": "4675f8c6fd2f2a2639fc76578f4143a5",
+      "title": "Lời giải cho những chung cư cấm sạc xe điện",
+      "link": "https://vnexpress.net/loi-giai-cho-nhung-chung-cu-cam-sac-xe-dien-4997952.html",
+      "summary": "Thay vì để cư dân mang pin lên nhà hay ban quản lý tự mày mò lắp đặt, nhiều chung cư đã thuê đơn vị chuyên nghiệp xây dựng, vận hành trạm sạc để giải bài toán an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:00:00+07:00",
+      "fetched": "2025-12-26T07:59:25.508392+07:00"
+    },
+    {
+      "id": "4cb02f2cf77bf892479826aacd55bb6d",
+      "title": "Gánh nặng 'kiếm tiền thay cả gia đình' bào mòn người xa xứ",
+      "link": "https://vnexpress.net/ganh-nang-kiem-tien-thay-ca-gia-dinh-bao-mon-nguoi-xa-xu-4997074.html",
+      "summary": "Rời quê hương sang xứ người với ước mơ đổi đời, không ít lao động Việt Nam rơi vào tình trạng kiệt sức tài chính, dẫn đến trầm cảm khi áp lực kinh tế vượt quá sức chịu đựng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:00:00+07:00",
+      "fetched": "2025-12-26T07:59:25.508552+07:00"
+    },
+    {
+      "id": "2096653e8afc0b3df7f6fadc4e73d38d",
+      "title": "Người 'mặc cả' học phí đưa hàng trăm tiến sĩ Việt du học Mỹ",
+      "link": "https://vnexpress.net/ong-pham-duc-trung-kien-nguoi-mac-ca-hoc-phi-cho-hang-tram-tien-si-viet-4995260.html",
+      "summary": "Từng làm việc tại Nhà Trắng và Bộ Quốc phòng Mỹ, ông Phạm Đức Trung Kiên còn nổi tiếng vì đã \"mặc cả\" học phí, đưa hàng trăm nghiên cứu sinh sang Mỹ, với niềm tin \"người Việt giỏi có tiếng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:00:00+07:00",
+      "fetched": "2025-12-26T07:59:25.508707+07:00"
+    },
+    {
+      "id": "38560a197495f5f9cb50e6fe8657a9ee",
+      "title": "HLV bơi Trung Quốc ba lần cưới học trò",
+      "link": "https://vnexpress.net/hlv-boi-trung-quoc-ba-lan-cuoi-hoc-tro-4998306.html",
+      "summary": "Từng là một HLV mát tay, đào tạo ra nhiều học trò giỏi, nhưng Kim Wei sau đó trượt dài trong các bê bối liên quan đến hôn nhân với học trò và doping.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:00:00+07:00",
+      "fetched": "2025-12-26T07:59:25.508882+07:00"
+    },
+    {
+      "id": "a47ec3f6b9e03b596873cb531c11690f",
+      "title": "Lách qua hai ôtô, người đi xe máy bị ôtô khác đâm trúng",
+      "link": "https://vnexpress.net/lach-qua-hai-oto-nguoi-di-xe-may-bi-oto-khac-dam-trung-4997999.html",
+      "summary": "Luồn qua ôtô để quay đầu, xe máy bị một ôtô khác chẹt qua hôm 24/12 tại Trần Quang Diệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:00:00+07:00",
+      "fetched": "2025-12-26T07:59:25.509051+07:00"
+    },
+    {
+      "id": "6b7595fcb62d3a4e18a51047267a6bf3",
+      "title": "Các dự án tỷ phú Phạm Nhật Vượng đang theo đuổi lớn thế nào?",
+      "link": "https://vnexpress.net/cac-du-an-ty-phu-pham-nhat-vuong-dang-theo-duoi-lon-the-nao-4998352.html",
+      "summary": "Vingroup vừa xin rút đầu tư đường sắt tốc độ cao Bắc Nam để dồn lực cho loạt dự án trọng điểm có tổng vốn hơn 1,7 triệu tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-25T23:00:00+07:00",
+      "fetched": "2025-12-26T07:59:34.599318+07:00"
+    },
+    {
+      "id": "38560a197495f5f9cb50e6fe8657a9ee",
+      "title": "HLV bơi Trung Quốc ba lần cưới học trò",
+      "link": "https://vnexpress.net/hlv-boi-trung-quoc-ba-lan-cuoi-hoc-tro-4998306.html",
+      "summary": "Từng là một HLV mát tay, đào tạo ra nhiều học trò giỏi, nhưng Kim Wei sau đó trượt dài trong các bê bối liên quan đến hôn nhân với học trò và doping.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-25T23:00:00+07:00",
+      "fetched": "2025-12-26T07:59:39.849343+07:00"
+    },
+    {
+      "id": "3eba88d6f6ddf80101ea75b3b099363c",
+      "title": "Indonesia chọn HLV từng đạt thành tích cực hiếm ở World Cup",
+      "link": "https://vnexpress.net/indonesia-chon-hlv-tung-dat-thanh-tich-cuc-hiem-o-world-cup-4998423.html",
+      "summary": "LĐBĐ Indonesia (PSSI) thay thế Patrick Kluivert bằng cách chiêu mộ John Herdman, HLV đầu tiên trong lịch sử dẫn dắt cả đội tuyển nữ và nam của cùng một quốc gia giành quyền tham dự World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T22:42:53+07:00",
+      "fetched": "2025-12-26T07:59:25.509205+07:00"
+    },
+    {
+      "id": "3eba88d6f6ddf80101ea75b3b099363c",
+      "title": "Indonesia chọn HLV từng đạt thành tích cực hiếm ở World Cup",
+      "link": "https://vnexpress.net/indonesia-chon-hlv-tung-dat-thanh-tich-cuc-hiem-o-world-cup-4998423.html",
+      "summary": "LĐBĐ Indonesia (PSSI) thay thế Patrick Kluivert bằng cách chiêu mộ John Herdman, HLV đầu tiên trong lịch sử dẫn dắt cả đội tuyển nữ và nam của cùng một quốc gia giành quyền tham dự World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-25T22:42:53+07:00",
+      "fetched": "2025-12-26T07:59:39.849506+07:00"
+    },
+    {
+      "id": "b63386c4eb4e1969771da80bc3ec9526",
+      "title": "LĐBĐ Malaysia nguy cơ nợ nần vì vụ gian lận nhập tịch",
+      "link": "https://vnexpress.net/ldbd-malaysia-nguy-co-no-nan-vi-vu-gian-lan-nhap-tich-4998422.html",
+      "summary": "LĐBĐ Malaysia (FAM) phải chi hàng triệu ringgit án phí, nguy cơ bị nhà tài trợ cắt hợp đồng từ vụ 7 cầu thủ nhập tịch giả mạo hồ sơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T22:30:38+07:00",
+      "fetched": "2025-12-26T07:59:25.509360+07:00"
+    },
+    {
+      "id": "b63386c4eb4e1969771da80bc3ec9526",
+      "title": "LĐBĐ Malaysia nguy cơ nợ nần vì vụ gian lận nhập tịch",
+      "link": "https://vnexpress.net/ldbd-malaysia-nguy-co-no-nan-vi-vu-gian-lan-nhap-tich-4998422.html",
+      "summary": "LĐBĐ Malaysia (FAM) phải chi hàng triệu ringgit án phí, nguy cơ bị nhà tài trợ cắt hợp đồng từ vụ 7 cầu thủ nhập tịch giả mạo hồ sơ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-25T22:30:38+07:00",
+      "fetched": "2025-12-26T07:59:39.849662+07:00"
+    },
+    {
+      "id": "e94d5cf3b136f5c94b35725c23365b9d",
+      "title": "Cầu thủ mù một mắt tỏa sáng ở Cup châu Phi",
+      "link": "https://vnexpress.net/cau-thu-mu-mot-mat-toa-sang-o-cup-chau-phi-4998430.html",
+      "summary": "Georgi Minoungou, tiền đạo mù mắt trái, ghi bàn ở phút bù giúp Burkina Faso thắng ngược Guinea Xích đạo 2-1 ở bảng E Cup châu Phi 2025 (AFCON) ngày 24/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-25T22:24:47+07:00",
+      "fetched": "2025-12-26T07:59:39.849165+07:00"
+    },
+    {
+      "id": "6ec9bfe0c285705d395b5049b98d28b6",
+      "title": "Anthony Joshua xin lỗi vì đấm vỡ hàm Jake Paul",
+      "link": "https://vnexpress.net/anthony-joshua-xin-loi-vi-dam-vo-ham-jake-paul-4998410.html",
+      "summary": "Bà Pam Stepnick, mẹ của Jake Paul, tiết lộ nhận được lời xin lỗi từ Anthony Joshua, đồng thời chỉ trích ông bầu Eddie Hearn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-25T22:17:43+07:00",
+      "fetched": "2025-12-26T07:59:39.849819+07:00"
+    },
+    {
+      "id": "2d12bc3f32e85a5c23f9aa42aafa279f",
+      "title": "Slot bực vì thành tích cố định kém của Liverpool",
+      "link": "https://vnexpress.net/slot-buc-vi-thanh-tich-co-dinh-kem-cua-liverpool-4998431.html",
+      "summary": "HLV Arne Slot cho rằng Liverpool khó có thể chen chân vào top 4 Ngoại hạng Anh mùa này nếu tiếp tục tận dụng kém các tình huống cố định.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-25T22:14:49+07:00",
+      "fetched": "2025-12-26T07:59:39.849992+07:00"
     },
     {
       "id": "6a2ce4b78c302fd80b67e26b28d8431a",
