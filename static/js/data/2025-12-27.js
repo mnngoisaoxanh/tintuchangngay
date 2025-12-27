@@ -1,7 +1,157 @@
 window.newsData_2025_12_27 = {
   "date": "2025-12-27",
-  "lastUpdated": "2025-12-27T15:16:17.628366+07:00",
+  "lastUpdated": "2025-12-27T17:12:19.683986+07:00",
   "articles": [
+    {
+      "id": "fc6653becc8024ea0a772ed30fb0d139",
+      "title": "TS Trần Du Lịch ra mắt hồi ký cuộc đời và hành trình nhận thức về mô hình phát triển kinh tế",
+      "link": "https://tuoitre.vn/ts-tran-du-lich-ra-mat-hoi-ky-cuoc-doi-va-hanh-trinh-nhan-thuc-ve-mo-hinh-phat-trien-kinh-te-20251227122049083.htm",
+      "summary": "Ông Trần Du Lịch tổng kết lại cuộc đời mình và nói: \"Tôi không hổ thẹn với quãng đời mình từng qua\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.558975+07:00",
+      "fetched": "2025-12-27T17:12:12.559115+07:00"
+    },
+    {
+      "id": "49f9ebe6baec8df20cfbb1fb7a92dbd5",
+      "title": "TP.HCM diễn tập ứng phó sự cố bức xạ và hạt nhân từ tình huống tai nạn giao thông",
+      "link": "https://tuoitre.vn/tp-hcm-dien-tap-ung-pho-su-co-buc-xa-va-hat-nhan-tu-tinh-huong-tai-nan-giao-thong-20251227082922999.htm",
+      "summary": "Sáng 27-12, TP.HCM tổ chức chương trình diễn tập \"Ứng phó sự cố bức xạ và hạt nhân\" tại Bệnh viện Ung bướu TP.HCM (cơ sở 2).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.558842+07:00",
+      "fetched": "2025-12-27T17:12:12.558960+07:00"
+    },
+    {
+      "id": "351d1ebe1acf456b6428f907513bc084",
+      "title": "Phát biểu của Tổng Bí thư Tô Lâm tại Đại hội Thi đua yêu nước",
+      "link": "https://tuoitre.vn/phat-bieu-cua-tong-bi-thu-to-lam-tai-dai-hoi-thi-dua-yeu-nuoc-20251227132405796.htm",
+      "summary": "Toàn văn bài phát biểu của Tổng Bí thư Tô Lâm tại Đại hội Thi đua yêu nước toàn quốc lần thứ XI khai mạc sáng 27-12 tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.558711+07:00",
+      "fetched": "2025-12-27T17:12:12.558830+07:00"
+    },
+    {
+      "id": "1107c03685912e17c2d8ff17f3b8d3e5",
+      "title": "Lịch trả lương hưu tháng 1-2026 sẽ lùi lại do nghỉ Tết dương lịch 4 ngày",
+      "link": "https://tuoitre.vn/lich-tra-luong-huu-thang-1-2026-se-lui-lai-do-nghi-tet-duong-lich-4-ngay-20251227140116178.htm",
+      "summary": "Lịch chi trả lương hưu tháng 1-2026 ở các địa phương, trong đó có Hà Nội và TP.HCM sẽ lùi lại so với bình thường do nghỉ Tết dương lịch 4 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.558582+07:00",
+      "fetched": "2025-12-27T17:12:12.558700+07:00"
+    },
+    {
+      "id": "306aaba8b1041ff43467d9bdd5de0ae8",
+      "title": "Đề xuất hệ số tiền lương riêng, phụ cấp đặc thù, thâm niên cho ngành y",
+      "link": "https://tuoitre.vn/de-xuat-he-so-tien-luong-rieng-phu-cap-dac-thu-tham-nien-cho-nganh-y-20251227132747181.htm",
+      "summary": "Công đoàn Y tế đề xuất đẩy nhanh cải cách tiền lương thông qua xây dựng hệ số tiền lương, phụ cấp đặc thù với công chức, viên chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.558446+07:00",
+      "fetched": "2025-12-27T17:12:12.558570+07:00"
+    },
+    {
+      "id": "ef553743dcaf218628dd0c996244ec38",
+      "title": "Đình Bắc, Yamal và chuyện 'đi chậm' ở Quả bóng vàng",
+      "link": "https://tuoitre.vn/dinh-bac-yamal-va-chuyen-di-cham-o-qua-bong-vang-2025122708571384.htm",
+      "summary": "Tranh cãi đã nổ ra khi tiền đạo Đình Bắc chỉ về đích thứ 2 trong cuộc đua Quả bóng vàng 2025, sau đàn anh Nguyễn Hoàng Đức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.558316+07:00",
+      "fetched": "2025-12-27T17:12:12.558434+07:00"
+    },
+    {
+      "id": "4eb877125ed19f4ee6f57c7a52d6d04d",
+      "title": "Tài xế yêu cầu khách nôn hỗ trợ 400.000 đồng phí rửa xe: Bị đánh, đạp gãy kính chiếu hậu",
+      "link": "https://tuoitre.vn/tai-xe-yeu-cau-khach-non-ho-tro-400-000-dong-phi-rua-xe-bi-danh-dap-gay-kinh-chieu-hau-20251227115328681.htm",
+      "summary": "Tài xế ô tô công nghệ yêu cầu hành khách nôn ói trên xe cần hỗ trợ phí rửa xe 400.000 đồng đã bị chửi bới, hành hung và đạp gãy kính chiếu hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.558184+07:00",
+      "fetched": "2025-12-27T17:12:12.558305+07:00"
+    },
+    {
+      "id": "aea86669a5eb3a86d678ea3523849404",
+      "title": "Myanmar gỡ lệnh giới nghiêm tại thành phố Yangon, chuẩn bị bầu cử",
+      "link": "https://tuoitre.vn/myanmar-go-lenh-gioi-nghiem-tai-thanh-pho-yangon-chuan-bi-bau-cu-20251227143015124.htm",
+      "summary": "Myanmar dỡ lệnh giới nghiêm tại thành phố Yangon lớn nhất cả nước, trước thềm cuộc bầu cử ngày 28-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.558034+07:00",
+      "fetched": "2025-12-27T17:12:12.558171+07:00"
+    },
+    {
+      "id": "234d26f49c7dfe3957b952b387bd8032",
+      "title": "Khảo sát: Gần 50% nam giới gặp vấn đề về chất lượng tinh trùng",
+      "link": "https://tuoitre.vn/khao-sat-gan-50-nam-gioi-gap-van-de-ve-chat-luong-tinh-trung-20251227135638604.htm",
+      "summary": "Tuổi trung bình của nam giới tham gia khảo sát là 28 tuổi, độ tuổi được đánh giá phù hợp cho hôn nhân và sinh sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.557908+07:00",
+      "fetched": "2025-12-27T17:12:12.558022+07:00"
+    },
+    {
+      "id": "850205fe71e41746f98d0e11406e287e",
+      "title": "Chủ đầu tư nói không thể tháo dỡ 3 trạm thu phí quốc lộ 51 vì ‘dính nợ’: Cưỡng chế được không?",
+      "link": "https://tuoitre.vn/chu-dau-tu-noi-khong-the-thao-do-3-tram-thu-phi-quoc-lo-51-vi-dinh-no-cuong-che-duoc-khong-20251227142437212.htm",
+      "summary": "Chủ đầu tư 3 trạm thu phí trên quốc lộ 51 cho rằng không thể tự ý tháo dỡ trạm khi chưa có ý kiến ngân hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.557781+07:00",
+      "fetched": "2025-12-27T17:12:12.557896+07:00"
+    },
+    {
+      "id": "48c5474865897dbddfc094f89914fe91",
+      "title": "Bộ Quốc phòng huy động thiết bị khắc phục sự cố tràn dầu ở Dung Quất",
+      "link": "https://tuoitre.vn/bo-quoc-phong-huy-dong-thiet-bi-khac-phuc-su-co-tran-dau-o-dung-quat-20251227141537475.htm",
+      "summary": "Đến sáng 27-12, váng dầu trên mặt nước không còn nhiều, phấn đấu hoàn thành khắc phục xong sự cố tràn dầu trước ngày 31-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.557651+07:00",
+      "fetched": "2025-12-27T17:12:12.557769+07:00"
+    },
+    {
+      "id": "e78b04144a2b6a0eacb636221a3b97e7",
+      "title": "Tài xế ‘trăn trở’ chọn phương thức thanh toán cho tài khoản giao thông",
+      "link": "https://tuoitre.vn/tai-xe-tran-tro-chon-phuong-thuc-thanh-toan-cho-tai-khoan-giao-thong-2025122711401868.htm",
+      "summary": "Việc chọn phương thức thanh toán liên kết tài khoản giao thông ảnh hưởng đến trải nghiệm qua trạm, chi phí phát sinh và khả năng lưu thông liên tục của chủ xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.557517+07:00",
+      "fetched": "2025-12-27T17:12:12.557639+07:00"
+    },
+    {
+      "id": "297fbc91ac6216a793aab81fdfdab4d9",
+      "title": "Hiện đại hóa hạ tầng công nghệ thông tin: nền móng cho tăng trưởng dài hạn",
+      "link": "https://tuoitre.vn/hien-dai-hoa-ha-tang-cong-nghe-thong-tin-nen-mong-cho-tang-truong-dai-han-20251227124426544.htm",
+      "summary": "Với Tổng công ty Bưu điện Việt Nam (Vietnam Post), hiện đại hóa hạ tầng công nghệ thông tin là nhiệm vụ trọng tâm trong giai đoạn mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.557380+07:00",
+      "fetched": "2025-12-27T17:12:12.557505+07:00"
+    },
+    {
+      "id": "70609eb538af84d49284a4a63011286f",
+      "title": "Việt Nam đang thiếu khoảng 80.000 nhân lực các ngành công nghệ chiến lược",
+      "link": "https://tuoitre.vn/viet-nam-dang-thieu-khoang-80-000-nhan-luc-cac-nganh-cong-nghe-chien-luoc-20251227144428075.htm",
+      "summary": "Nhiều lĩnh vực công nghệ chiến lược đang thiếu hụt nhân lực nghiêm trọng, nhất là nhân lực chất lượng cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.557219+07:00",
+      "fetched": "2025-12-27T17:12:12.557367+07:00"
+    },
+    {
+      "id": "42fb26910bec5e62af0ec6865dff3d58",
+      "title": "Bắt quả tang nhiều tụ điểm đánh bạc trực tuyến do người Trung Quốc tổ chức ở Nha Trang",
+      "link": "https://tuoitre.vn/bat-qua-tang-nhieu-tu-diem-danh-bac-truc-tuyen-do-nguoi-trung-quoc-to-chuc-o-nha-trang-20251227134025061.htm",
+      "summary": "Công an tỉnh Khánh Hòa bắt quả tang nhiều tụ điểm đánh bạc trực tuyến, với sự tham gia của nhiều người Trung Quốc ở Nha Trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T17:12:12.556952+07:00",
+      "fetched": "2025-12-27T17:12:12.557201+07:00"
+    },
     {
       "id": "332e4d1843bc9be60f4971c57fea4689",
       "title": "Giải golf HTV Swing Cup 2025 có Hole in One ngay ngày thi đấu đầu tiên",
@@ -453,6 +603,276 @@ window.newsData_2025_12_27 = {
       "fetched": "2025-12-27T10:16:44.142849+07:00"
     },
     {
+      "id": "78c46113b66f890ae9908129b717f811",
+      "title": "Sinh viên ngành sư phạm tiếng Trung có việc làm đạt mức ấn tượng",
+      "link": "https://thanhnien.vn/sinh-vien-nganh-su-pham-tieng-trung-co-viec-lam-dat-muc-an-tuong-185251227161537639.htm",
+      "summary": "Sinh viên ngành sư phạm tiếng Trung Quốc tốt nghiệp có việc làm đạt mức ấn tượng. Tỷ lệ này được ghi nhận tại Trường ĐH Sư phạm TP.HCM giai đoạn 2019-2023.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T10:04:00+07:00",
+      "fetched": "2025-12-27T17:12:11.549743+07:00"
+    },
+    {
+      "id": "ac3a047adfb54cbc22413fd80a80f503",
+      "title": "Học bổng tiếng Anh S80 vừa ra mắt đã gây sốt, chỉ còn gần 4.000 suất",
+      "link": "https://thanhnien.vn/hoc-bong-tieng-anh-s80-vua-ra-mat-da-gay-sot-chi-con-gan-4000-suat-185251227164403018.htm",
+      "summary": "Sau 5 tuần triển khai toàn quốc, chương trình Học bổng tiếng Anh S80 International Education Scholarship do Báo Thanh Niên và SunUni Academy đồng khởi xướng ghi nhận hơn 6.000 hồ sơ đăng ký. Trong đó, khoảng 4.000 hồ sơ đã được xét duyệt đạt điều kiện và nhận thông báo mức hỗ trợ học phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T10:02:00+07:00",
+      "fetched": "2025-12-27T17:12:11.549917+07:00"
+    },
+    {
+      "id": "a9f4f4159a354a1da1d8232104f26994",
+      "title": "Khoai mỡ hay khoai lang tốt cho sức khỏe hơn?",
+      "link": "https://thanhnien.vn/khoai-mo-hay-khoai-lang-tot-cho-suc-khoe-hon-185251226160839399.htm",
+      "summary": "Khoai mỡ và khoai lang đều là thực phẩm bổ dưỡng, dễ sử dụng và phù hợp với nhiều chế độ ăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T10:02:00+07:00",
+      "fetched": "2025-12-27T17:12:11.550095+07:00"
+    },
+    {
+      "id": "f2850066e5e90d85f878e35a6ab18aa3",
+      "title": "Toàn cảnh 17h :Lật xe tại Lào Cai, 9 người tử vong | 4 người thiệt mạng trong vụ cháy tại Đắk Lắk",
+      "link": "https://thanhnien.vn/toan-canh-17h-lat-xe-tai-lao-cai-9-nguoi-tu-vong-4-nguoi-thiet-mang-trong-vu-chay-tai-dak-lak-185251227154537193.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T10:00:00+07:00",
+      "fetched": "2025-12-27T17:12:11.550263+07:00"
+    },
+    {
+      "id": "257a151d4989e25bba39aaa68875a5a2",
+      "title": "Độ chịu chi của fan trước concert 'Anh trai say hi' và buổi tổng duyệt 'bất ổn'",
+      "link": "https://thanhnien.vn/do-chiu-chi-cua-fan-truoc-concert-anh-trai-say-hi-va-buoi-tong-duyet-bat-on-185251227160920836.htm",
+      "summary": "Chỉ còn ít giờ nữa, concert Anh trai say hi mùa 2 sẽ chính thức sáng đèn. Sức nóng của sự kiện không chỉ đến từ những màn trình diễn được mong đợi mà còn từ \"cuộc chiến\" tiếp lửa hoành tráng của người hâm mộ và không khí hậu trường đầy hài hước của dàn anh trai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:58:00+07:00",
+      "fetched": "2025-12-27T17:12:11.550417+07:00"
+    },
+    {
+      "id": "327b91b9dbb51fdec1426360afd1f801",
+      "title": "Hẹn hò 'chỉ tìm người lương trên 30 triệu'",
+      "link": "https://vnexpress.net/hen-ho-chi-tim-nguoi-luong-tren-30-trieu-4998882.html",
+      "summary": "Hẹn hò không chỉ là so thu nhập, mà là quá trình quan sát để tìm một người thật sự phù hợp để đi cùng nhau lâu dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:56:25+07:00",
+      "fetched": "2025-12-27T17:12:08.518282+07:00"
+    },
+    {
+      "id": "e4c6e85ca51ea44ad5d22c0cb3327789",
+      "title": "Gần 70 xe đâm liên hoàn trên cao tốc Nhật Bản",
+      "link": "https://vnexpress.net/gan-70-xe-dam-lien-hoan-tren-cao-toc-nhat-ban-4999035.html",
+      "summary": "67 phương tiện đâm dồn toa trên cao tốc ở tỉnh Gunma của Nhật Bản, khiến hai người thiệt mạng và 26 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:38:28+07:00",
+      "fetched": "2025-12-27T17:12:08.518468+07:00"
+    },
+    {
+      "id": "e4c6e85ca51ea44ad5d22c0cb3327789",
+      "title": "Gần 70 xe đâm liên hoàn trên cao tốc Nhật Bản",
+      "link": "https://vnexpress.net/gan-70-xe-dam-lien-hoan-tren-cao-toc-nhat-ban-4999035.html",
+      "summary": "67 phương tiện đâm dồn toa trên cao tốc ở tỉnh Gunma của Nhật Bản, khiến hai người thiệt mạng và 26 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-27T09:38:28+07:00",
+      "fetched": "2025-12-27T17:12:14.332940+07:00"
+    },
+    {
+      "id": "bf1206277fa3248b00d0c7028d8ada8d",
+      "title": "Vì sao người huyết áp cao không nên nhịn tiểu lâu?",
+      "link": "https://thanhnien.vn/vi-sao-nguoi-huyet-ap-cao-khong-nen-nhin-tieu-lau-185251227143859942.htm",
+      "summary": "Nhiều người có thói quen nhịn tiểu vì bận công việc, ngại nhà vệ sinh công cộng hoặc khó tìm nhà vệ sinh do thường xuyên đi ngoài đường. Với người huyết áp cao, nhịn tiểu lâu có thể trở thành một yếu tố bất lợi cho thận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:35:00+07:00",
+      "fetched": "2025-12-27T17:12:11.550578+07:00"
+    },
+    {
+      "id": "b57202f498aaa5f9f9db3b0fa24da13b",
+      "title": "Sự đánh đổi khi dùng tai nghe không dây",
+      "link": "https://thanhnien.vn/su-danh-doi-khi-dung-tai-nghe-khong-day-185251227083111731.htm",
+      "summary": "Tai nghe không dây (TWS) đã trở thành một phần không thể thiếu trong cuộc sống hằng ngày của nhiều người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:29:00+07:00",
+      "fetched": "2025-12-27T17:12:11.550728+07:00"
+    },
+    {
+      "id": "a21c83dd36c06fdc38247c45e44841c9",
+      "title": "‘Muay TP.HCM phải nâng tầm có nhiều mũi nhọn như Nguyễn Trần Duy Nhất’",
+      "link": "https://thanhnien.vn/muay-tphcm-phai-nang-tam-co-nhieu-mui-nhon-nhu-nguyen-tran-duy-nhat-185251227160231902.htm",
+      "summary": "Đó là phát biểu của ông Nguyễn Nam Nhân, Phó giám đốc Sở Văn hóa Thể thao TP.HCM tại Đại hội Liên đoàn Muay TP.HCM nhiệm kỳ 1 năm 2025-2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:24:00+07:00",
+      "fetched": "2025-12-27T17:12:11.550877+07:00"
+    },
+    {
+      "id": "bcab06ea97f23dc89912a8b5bc9333a4",
+      "title": "Điều tra vụ nam thanh niên tử vong trong căn nhà trên đường Lê Đình Cẩn",
+      "link": "https://thanhnien.vn/dieu-tra-vu-nam-thanh-nien-tu-vong-trong-can-nha-tren-duong-le-dinh-can-185251227154001699.htm",
+      "summary": "Sự việc nam thanh niên tử vong trong căn nhà trên đường Lê Đình Cẩn (phường Tân Tạo) đang được Công an phường Tân Tạo phối hợp cùng các đơn vị nghiệp vụ Công an TP.HCM khẩn trương điều tra, làm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:16:00+07:00",
+      "fetched": "2025-12-27T17:12:11.551034+07:00"
+    },
+    {
+      "id": "cf7294612917e69d8ca4435c2fceb7da",
+      "title": "Kasparov vĩ đại thế nào trong cờ vua",
+      "link": "https://vnexpress.net/kasparov-vi-dai-the-nao-trong-co-vua-4998733.html",
+      "summary": "Garry Kasparov, cựu Vua cờ vừa bị Nga phát lệnh truy nã, giữ kỷ lục đứng vị trí số một thế giới trong tổng cộng hơn 21 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:08:52+07:00",
+      "fetched": "2025-12-27T17:12:08.518640+07:00"
+    },
+    {
+      "id": "cf7294612917e69d8ca4435c2fceb7da",
+      "title": "Kasparov vĩ đại thế nào trong cờ vua",
+      "link": "https://vnexpress.net/kasparov-vi-dai-the-nao-trong-co-vua-4998733.html",
+      "summary": "Garry Kasparov, cựu Vua cờ vừa bị Nga phát lệnh truy nã, giữ kỷ lục đứng vị trí số một thế giới trong tổng cộng hơn 21 năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-27T09:08:52+07:00",
+      "fetched": "2025-12-27T17:12:19.673361+07:00"
+    },
+    {
+      "id": "d7d27c71ed89a1dcee16dd8a912a11c8",
+      "title": "TS Trần Du Lịch: Tôi không hổ thẹn với quãng đời mình đã từng qua",
+      "link": "https://thanhnien.vn/ts-tran-du-lich-ra-mat-hoi-ky-185251227153725212.htm",
+      "summary": "Trong cuốn \"Ký ức niềm tin và khát vọng - hành trình nhận thức về mô hình phát triển kinh tế Việt Nam\", TS Trần Du Lịch kể lại hành trình từ cậu bé mồ côi, nghèo khó đến khi trở thành người tư vấn cho Thủ tướng và quá trình nhận thức về mô hình phát triển kinh tế Việt Nam. Nhìn lại hành trình nhiều ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:07:00+07:00",
+      "fetched": "2025-12-27T17:12:11.551206+07:00"
+    },
+    {
+      "id": "9569f9968e8a79f5b09d08c0550de895",
+      "title": "Ôtô chở đoàn thiện nguyện bị vò nát sau khi đâm hộ lan, văng hơn 50 m",
+      "link": "https://vnexpress.net/oto-cho-doan-thien-nguyen-bi-vo-nat-sau-khi-dam-ho-lan-vang-hon-50-m-4999001.html",
+      "summary": "Sau khi đâm vào hộ lan ở cua dốc trên đèo, xe chở đoàn thiện nguyện văng hơn 50 m rồi lật lửa, khung và nóc xe biến dạng, khiến 9 người tử vong và 9 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:06:29+07:00",
+      "fetched": "2025-12-27T17:12:08.518807+07:00"
+    },
+    {
+      "id": "6084fb79ec95f49a7dc6c31090fdd1f2",
+      "title": "FUTA Land: Top 10 thương hiệu xuất sắc châu Á – Thái Bình Dương 2025",
+      "link": "https://thanhnien.vn/futa-land-top-10-thuong-hieu-xuat-sac-chau-a-thai-binh-duong-2025-185251227155920672.htm",
+      "summary": "Ngày 27.12, Lễ công bố Thương hiệu xuất sắc châu Á - Thái Bình Dương lần 11, sự kiện uy tín truyền hình trực tiếp trên HTV1, vinh danh Công ty CP Bất động sản (BĐS) FUTA Land.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:04:00+07:00",
+      "fetched": "2025-12-27T17:12:11.551356+07:00"
+    },
+    {
+      "id": "59ef95316eb71ccae434c4b28d4be972",
+      "title": "Nhiều tỉnh/thành vào đường đua trạm sạc xe điện",
+      "link": "https://thanhnien.vn/nhieu-tinh-thanh-vao-duong-dua-tram-sac-xe-dien-185251227154924479.htm",
+      "summary": "Quá trình 'xanh hóa' giao thông tại Việt Nam đang bước vào giai đoạn tăng tốc, đòi hỏi cấp bách phủ mạng lưới trạm sạc và các mô hình đổi pin cho xe điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:04:00+07:00",
+      "fetched": "2025-12-27T17:12:11.551515+07:00"
+    },
+    {
+      "id": "6b984aa025be3aeaa9bbc3744b611472",
+      "title": "Wren Evans ra sao sau scandal tình ái?",
+      "link": "https://thanhnien.vn/wren-evans-ra-sao-sau-scandal-tinh-ai-185251227154548901.htm",
+      "summary": "Tối 26.12, Wren Evans chính thức phát hành ca khúc 'Thu đợi' trên các nền tảng nhạc số. Đây là một sáng tác của nam ca sĩ, từng được 'nhá hàng' qua bản demo trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:01:00+07:00",
+      "fetched": "2025-12-27T17:12:11.551668+07:00"
+    },
+    {
+      "id": "43d11aa6493e270b58397a81e6c1d24d",
+      "title": "Nguyên nhân bàng quang tăng hoạt trở nặng khi trời lạnh",
+      "link": "https://vnexpress.net/nguyen-nhan-bang-quang-tang-hoat-tro-nang-khi-troi-lanh-4998986.html",
+      "summary": "Thời tiết lạnh làm cho các cơ quanh bàng quang nhạy cảm hơn, co thắt đột ngột nên dễ gây tiểu khó kiểm soát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:00:00+07:00",
+      "fetched": "2025-12-27T17:12:08.518966+07:00"
+    },
+    {
+      "id": "025c62325493b0909840be9067b43a96",
+      "title": "Xổ số miền Nam ngày 27 tháng 12: Kết quả xổ số hôm nay thứ bảy",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-27-thang-12-ket-qua-xo-so-hom-nay-thu-bay-185251227160105379.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 27 tháng 12. Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ bảy ngày 27.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T09:00:00+07:00",
+      "fetched": "2025-12-27T17:12:11.551820+07:00"
+    },
+    {
+      "id": "e7f451a2ee9c1b5877ececa1ad747413",
+      "title": "Lịch nghỉ Tết Nguyên đán 2026 của học sinh TP.HCM sẽ không quá 2 tuần",
+      "link": "https://thanhnien.vn/lich-nghi-tet-nguyen-dan-2026-cua-hoc-sinh-tphcm-se-khong-qua-2-tuan-185251227153433583.htm",
+      "summary": "Ngày 27.12, Sở GD-ĐT TP.HCM thông báo lịch nghỉ Tết Nguyên đán Bính Ngọ 2026 của học sinh, giáo viên, nhân viên ngành giáo dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:53:00+07:00",
+      "fetched": "2025-12-27T17:12:11.551969+07:00"
+    },
+    {
+      "id": "0d421db27c21192ab5452c307cfebf95",
+      "title": "Sở Giáo dục TP HCM: Hiệu trưởng có thể cho nghỉ Tết 14 ngày",
+      "link": "https://vnexpress.net/lich-nghi-tet-nguyen-dan-2026-chinh-thuc-cua-hoc-sinh-tp-hcm-4999023.html",
+      "summary": "Ngoài 11 ngày nghỉ Tết chính thức, hiệu trưởng được cho học sinh nghỉ thêm ba ngày, kể từ 9/2, nếu đảm bảo chương trình học, theo Sở Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:49:13+07:00",
+      "fetched": "2025-12-27T17:12:08.519143+07:00"
+    },
+    {
+      "id": "1d733a42152e056ba73c3a357428d253",
+      "title": "Khách tham quan triển lãm ôtô trải nghiệm xe cổ Volkswagen",
+      "link": "https://vnexpress.net/khach-tham-quan-trien-lam-oto-trai-nghiem-xe-co-volkswagen-4998945.html",
+      "summary": "Nhiều người dân thích thú trải nghiệm các mẫu xe cổ của Volkswagen tại Vietnam Mobility Show 2025 đang diễn ra ở VEC.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:33:22+07:00",
+      "fetched": "2025-12-27T17:12:08.519300+07:00"
+    },
+    {
+      "id": "b56974eddd14125ffa022e56d441c555",
+      "title": "Motul ra mắt dầu nhớt thế hệ mới tại Vietnam Mobility Show 2025",
+      "link": "https://vnexpress.net/motul-ra-mat-dau-nhot-the-he-moi-tai-vietnam-mobility-show-2025-4998963.html",
+      "summary": "Thương hiệu dầu nhớt đồng hành cùng Triển lãm Phương tiện Di chuyển 2025 với đa dạng dòng sản phẩm cho cả ôtô, xe máy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:26:58+07:00",
+      "fetched": "2025-12-27T17:12:08.519454+07:00"
+    },
+    {
+      "id": "abbf8952df83a0c6243c5e88f49dc738",
+      "title": "Ông Trump: Ông Zelensky sẽ không có gì nếu tôi chưa đồng ý",
+      "link": "https://vnexpress.net/ong-trump-ong-zelensky-se-khong-co-gi-neu-toi-chua-dong-y-4999012.html",
+      "summary": "Tổng thống Trump hy vọng cuộc gặp người đồng cấp Zelensky sẽ diễn ra hiệu quả, song cho biết Ukraine sẽ không có gì nếu ông chưa chấp thuận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:20:18+07:00",
+      "fetched": "2025-12-27T17:12:08.519614+07:00"
+    },
+    {
+      "id": "abbf8952df83a0c6243c5e88f49dc738",
+      "title": "Ông Trump: Ông Zelensky sẽ không có gì nếu tôi chưa đồng ý",
+      "link": "https://vnexpress.net/ong-trump-ong-zelensky-se-khong-co-gi-neu-toi-chua-dong-y-4999012.html",
+      "summary": "Tổng thống Trump hy vọng cuộc gặp người đồng cấp Zelensky sẽ diễn ra hiệu quả, song cho biết Ukraine sẽ không có gì nếu ông chưa chấp thuận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-27T08:20:18+07:00",
+      "fetched": "2025-12-27T17:12:14.333146+07:00"
+    },
+    {
       "id": "4a95395978fb721485f77803a27b4912",
       "title": "TP.HCM: Đòi phí vệ sinh, tài xế taxi bị nhóm khách hành hung, đập phá xe",
       "link": "https://thanhnien.vn/tphcm-doi-phi-ve-sinh-tai-xe-taxi-bi-nhom-khach-hanh-hung-dap-pha-xe-185251227135852836.htm",
@@ -471,6 +891,66 @@ window.newsData_2025_12_27 = {
       "category": "Tổng hợp",
       "published": "2025-12-27T08:04:00+07:00",
       "fetched": "2025-12-27T15:16:08.062161+07:00"
+    },
+    {
+      "id": "3dfc10f3849f228ac33b7bb75365b20f",
+      "title": "Đang bình thường, chồng bỗng đòi ly thân và dọn ra ngoài sống",
+      "link": "https://vnexpress.net/dang-binh-thuong-chong-bong-doi-ly-than-va-don-ra-ngoai-song-4998948.html",
+      "summary": "Tôi hỏi lý do nhưng anh không nói, chỉ bảo mệt mỏi rồi tạm thời ly thân một thời gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:00:00+07:00",
+      "fetched": "2025-12-27T17:12:08.519774+07:00"
+    },
+    {
+      "id": "672ccfa0f22852d2b7cf932527a6e274",
+      "title": "Em sống có nguyên tắc, thích làm việc theo kế hoạch",
+      "link": "https://vnexpress.net/em-song-co-nguyen-tac-thich-lam-viec-theo-ke-hoach-4998816.html",
+      "summary": "Em khá hướng nội, chỉ trò chuyện được nhiều sau khi đã thân thiết; độ hài hước chỉ có ai hợp gu mới thấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:00:00+07:00",
+      "fetched": "2025-12-27T17:12:08.519883+07:00"
+    },
+    {
+      "id": "aa9594340dd31a0ef4e0cd4b0ec76dc0",
+      "title": "Trung Quốc thông xe hầm cao tốc dài nhất thế giới",
+      "link": "https://vnexpress.net/trung-quoc-thong-xe-ham-cao-toc-dai-nhat-the-gioi-4998949.html",
+      "summary": "Thiên Sơn Thắng Lợi, hầm cao tốc dài 22,13 km chạy xuyên qua trung tâm dãy núi Thiên Sơn ở Tân Cương, đi vào hoạt động hôm 26/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:00:00+07:00",
+      "fetched": "2025-12-27T17:12:08.520048+07:00"
+    },
+    {
+      "id": "7c355d89c3820e18c25de49f41da69e5",
+      "title": "Mẹ đơn thân thụ tinh ống nghiệm có được chọn 'gene tốt' không?",
+      "link": "https://vnexpress.net/me-don-than-thu-tinh-ong-nghiem-co-duoc-chon-gene-tot-khong-4998985.html",
+      "summary": "Tôi 35 tuổi, muốn làm mẹ đơn thân bằng phương pháp thụ tinh ống nghiệm. Tôi có thể lựa chọn tinh trùng kết hợp sàng lọc phôi để tăng cơ hội sinh con có \"gene tinh hoa\" không? (Thùy Linh, Hà Nam)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:00:00+07:00",
+      "fetched": "2025-12-27T17:12:08.520223+07:00"
+    },
+    {
+      "id": "5bc0959a424904c9574da38145524200",
+      "title": "7 lợi ích từ đậu đen",
+      "link": "https://vnexpress.net/7-loi-ich-tu-dau-den-4998964.html",
+      "summary": "Đậu đen giàu chất dinh dưỡng như protein, sắt, canxi, chất xơ và mang lại nhiều lợi ích cho tim mạch, gan, thận, làn da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:00:00+07:00",
+      "fetched": "2025-12-27T17:12:08.520380+07:00"
+    },
+    {
+      "id": "aa9594340dd31a0ef4e0cd4b0ec76dc0",
+      "title": "Trung Quốc thông xe hầm cao tốc dài nhất thế giới",
+      "link": "https://vnexpress.net/trung-quoc-thong-xe-ham-cao-toc-dai-nhat-the-gioi-4998949.html",
+      "summary": "Thiên Sơn Thắng Lợi, hầm cao tốc dài 22,13 km chạy xuyên qua trung tâm dãy núi Thiên Sơn ở Tân Cương, đi vào hoạt động hôm 26/12.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-27T08:00:00+07:00",
+      "fetched": "2025-12-27T17:12:18.778254+07:00"
     },
     {
       "id": "db15f96ec97d7e37030679948491010e",
@@ -581,6 +1061,16 @@ window.newsData_2025_12_27 = {
       "category": "Tổng hợp",
       "published": "2025-12-27T07:58:09.939438+07:00",
       "fetched": "2025-12-27T07:58:09.939663+07:00"
+    },
+    {
+      "id": "789f66385a5d1cab26ecf7dae6a6a151",
+      "title": "9 nạn nhân vụ lật xe đoàn từ thiện đều đa chấn thương",
+      "link": "https://vnexpress.net/9-nan-nhan-vu-lat-xe-doan-tu-thien-deu-da-chan-thuong-4999013.html",
+      "summary": "8 nạn nhân trong vụ lật xe chở đoàn thiện nguyện ở Lào Cai đều đa chấn thương vùng bụng, ngực, gãy xương, cột sống; một người chấn thương sọ não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:55:58+07:00",
+      "fetched": "2025-12-27T17:12:08.520538+07:00"
     },
     {
       "id": "76e2fb107327aef891f34fa547e670e7",
