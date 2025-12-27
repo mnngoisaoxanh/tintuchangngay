@@ -1,7 +1,17 @@
 window.newsData_2025_12_28 = {
   "date": "2025-12-28",
-  "lastUpdated": "2025-12-28T03:13:36.539051+07:00",
+  "lastUpdated": "2025-12-28T05:11:33.743105+07:00",
   "articles": [
+    {
+      "id": "8854a0cb3407722b1260b84f00e027e8",
+      "title": "Thời tiết hôm nay 28-12: Không khí lạnh chi phối thời tiết cả nước",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-28-12-khong-khi-lanh-chi-phoi-thoi-tiet-ca-nuoc-20251227154018276.htm",
+      "summary": "Hôm nay 28-12, không khí lạnh khiến miền Bắc rét mướt, miền Trung mưa rào nhẹ, miền Nam mát mẻ đầu ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:11:27.180179+07:00",
+      "fetched": "2025-12-28T05:11:27.180384+07:00"
+    },
     {
       "id": "c48c41ab6395f70528d189a4e7377899",
       "title": "Những câu hỏi 'tặng quà' trong đề sát hạch lý thuyết lái mô tô",
@@ -161,6 +171,186 @@ window.newsData_2025_12_28 = {
       "category": "Tổng hợp",
       "published": "2025-12-28T01:17:05.439564+07:00",
       "fetched": "2025-12-28T01:17:05.439802+07:00"
+    },
+    {
+      "id": "c78ed3024f745e62f295f7f8e3521285",
+      "title": "Người đang hưởng trợ cấp hằng tháng được bảo hiểm y tế miễn phí?",
+      "link": "https://thanhnien.vn/nguoi-dang-huong-tro-cap-hang-thang-duoc-bao-hiem-y-te-mien-phi-185251227095559711.htm",
+      "summary": "Người hưởng trợ cấp hằng tháng có thẻ bảo hiểm y tế miễn phí để sử dụng trong khi khám, chữa bệnh theo đúng quyền lợi, mức hưởng của thẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T22:11:00+07:00",
+      "fetched": "2025-12-28T05:11:26.194203+07:00"
+    },
+    {
+      "id": "71a23adefc112ef3be336c486bf030e6",
+      "title": "‘Siêu sân bay’ Long Thành tăng tốc cho cột mốc đặc biệt 2026",
+      "link": "https://thanhnien.vn/sieu-san-bay-long-thanh-tang-toc-cho-cot-moc-dac-biet-2026-18525122515444731.htm",
+      "summary": "Sau khi đón 3 chuyến bay khai trương ngày 19.12.2025, Cảng hàng không quốc tế Long Thành (sân bay Long Thành) đang khẩn trương hoàn thiện để chính thức vận hành thương mại vào giữa năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T22:09:00+07:00",
+      "fetched": "2025-12-28T05:11:26.194353+07:00"
+    },
+    {
+      "id": "afaf93d258398dcb89b37d14396a7070",
+      "title": "Kyiv rung chuyển trước thềm thượng đỉnh Mỹ - Ukraine",
+      "link": "https://thanhnien.vn/kyiv-rung-chuyen-truoc-them-thuong-dinh-my-ukraine-18525122719501788.htm",
+      "summary": "Thủ đô Kyiv hứng đợt không kích lớn của Nga trước cuộc gặp dự kiến giữa lãnh đạo Mỹ và Ukraine nhằm nỗ lực đạt thỏa thuận hòa bình cho cuộc xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T22:00:00+07:00",
+      "fetched": "2025-12-28T05:11:26.194489+07:00"
+    },
+    {
+      "id": "501a150f0f1be61f3d5be5ac106f2f14",
+      "title": "Sẽ cân bằng quyền ly hôn cho người chồng khi vợ mang thai con người khác?",
+      "link": "https://thanhnien.vn/se-can-bang-quyen-ly-hon-cho-nguoi-chong-khi-vo-mang-thai-con-nguoi-khac-185251226144015347.htm",
+      "summary": "Quy định cấm chồng ly hôn khi vợ mang thai, không phân biệt thai nhi là con của ai, đang bộc lộ nhiều bất cập. TAND tối cao đề xuất sửa quy định này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T22:00:00+07:00",
+      "fetched": "2025-12-28T05:11:26.194631+07:00"
+    },
+    {
+      "id": "e9e9ea7604b12caee9499bd2eb9ea359",
+      "title": "Những bí ẩn cổ xưa được giải mã năm 2025",
+      "link": "https://vnexpress.net/nhung-bi-an-co-xua-duoc-giai-ma-nam-2025-4998837.html",
+      "summary": "Nhờ nghiên cứu khoa học, nhiều bí ẩn được giải mã trong năm như núi lửa từng làm nguội Trái Đất hay danh tính xác ướp 300 năm trước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-27T22:00:00+07:00",
+      "fetched": "2025-12-28T05:11:32.636507+07:00"
+    },
+    {
+      "id": "f1c5dd09e4e58a9cffce7b0f9bd55e24",
+      "title": "Aston Villa thắng ngược Chelsea",
+      "link": "https://vnexpress.net/aston-villa-thang-nguoc-chelsea-4999120.html",
+      "summary": "Ngược dòng hạ chủ nhà Chelsea 2-1 ở vòng 18 Ngoại hạng Anh, Aston Villa nâng mạch toàn thắng lên 11 trận trên mọi đấu trường.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-27T21:49:40+07:00",
+      "fetched": "2025-12-28T05:11:33.738561+07:00"
+    },
+    {
+      "id": "f940c505765fc9dc8630499985aa63b6",
+      "title": "Cha chạy xe ôm 'còn 2 triệu đồng' cứu con ung thư: Được giúp 601 triệu đồng",
+      "link": "https://thanhnien.vn/cha-chay-xe-om-con-2-trieu-dong-cuu-con-ung-thu-duoc-giup-601-trieu-dong-18525122718013568.htm",
+      "summary": "Từ bài viết của Báo Thanh Niên, anh Chinh nhận gần 601 triệu đồng từ bạn đọc và các nhà hảo tâm, tiếp thêm hy vọng trên hành trình điều trị ung thư cho Băng Vi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T21:46:00+07:00",
+      "fetched": "2025-12-28T05:11:26.194761+07:00"
+    },
+    {
+      "id": "47abd04cc819049216ee00f798199da7",
+      "title": "Đình Bắc lần đầu tiên phát ngôn sau khi giành Quả bóng bạc Việt Nam, khiêm tốn và chân thành…",
+      "link": "https://thanhnien.vn/dinh-bac-lan-dau-tien-phat-ngon-sau-khi-gianh-qua-bong-bac-viet-nam-khiem-ton-va-chan-thanh-185251228043655269.htm",
+      "summary": "Như Thanh Niên đã đưa tin, chiều 27.12 theo giờ địa phương, đội tuyển U.23 Việt Nam đã chính thức bước vào buổi tập đầu tiên trong đợt tập huấn tại Doha (Qatar), khởi động giai đoạn chuẩn bị quan trọng trước thềm VCK U.23 châu Á 2026. Đình Bắc đã trả lời phỏng vấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T21:45:00+07:00",
+      "fetched": "2025-12-28T05:11:26.194891+07:00"
+    },
+    {
+      "id": "51ef41abd2884da11a9358d269d07c00",
+      "title": "Truy thu tài sản thành viên hộ kinh doanh: Công bằng hay rủi ro pháp lý?",
+      "link": "https://thanhnien.vn/truy-thu-tai-san-thanh-vien-ho-kinh-doanh-cong-bang-hay-rui-ro-phap-ly-1852512271543418.htm",
+      "summary": "Việc Nghị định 296 năm 2025 cho phép kê biên tài sản của thành viên hộ kinh doanh khi không đủ tiền nộp phạt đang làm dấy lên tranh luận về bản chất pháp lý của hộ kinh doanh và nguy cơ đẩy rủi ro pháp luật sang cả gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T21:40:00+07:00",
+      "fetched": "2025-12-28T05:11:26.195019+07:00"
+    },
+    {
+      "id": "9b9463bf8fe9980db48d0bacd7c61544",
+      "title": "Guardiola: 'Man City thắng như những mùa giải vô địch'",
+      "link": "https://vnexpress.net/guardiola-man-city-thang-nhu-nhung-mua-giai-vo-dich-4999117.html",
+      "summary": "HLV Pep Guardiola khẳng định Man City đang thi đấu với tinh thần như các mùa giải đội vô địch, sau khi thắng 2-1 trên sân Nottingham Forest ở vòng 18 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T21:36:43+07:00",
+      "fetched": "2025-12-28T05:11:22.979089+07:00"
+    },
+    {
+      "id": "9b9463bf8fe9980db48d0bacd7c61544",
+      "title": "Guardiola: 'Man City thắng như những mùa giải vô địch'",
+      "link": "https://vnexpress.net/guardiola-man-city-thang-nhu-nhung-mua-giai-vo-dich-4999117.html",
+      "summary": "HLV Pep Guardiola khẳng định Man City đang thi đấu với tinh thần như các mùa giải đội vô địch, sau khi thắng 2-1 trên sân Nottingham Forest ở vòng 18 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-27T21:36:43+07:00",
+      "fetched": "2025-12-28T05:11:33.738730+07:00"
+    },
+    {
+      "id": "418ac62be8a76739258fb8106fbed4ac",
+      "title": "Arteta kinh ngạc với pha cứu thua của Raya",
+      "link": "https://vnexpress.net/arteta-kinh-ngac-voi-pha-cuu-thua-cua-raya-4999118.html",
+      "summary": "HLV Mikel Arteta ca ngợi thủ môn đồng hương David Raya về pha bay người cản phá quyết định, giúp Arsenal thắng Brighton 2-1 ở vòng 18 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T21:31:16+07:00",
+      "fetched": "2025-12-28T05:11:22.979245+07:00"
+    },
+    {
+      "id": "418ac62be8a76739258fb8106fbed4ac",
+      "title": "Arteta kinh ngạc với pha cứu thua của Raya",
+      "link": "https://vnexpress.net/arteta-kinh-ngac-voi-pha-cuu-thua-cua-raya-4999118.html",
+      "summary": "HLV Mikel Arteta ca ngợi thủ môn đồng hương David Raya về pha bay người cản phá quyết định, giúp Arsenal thắng Brighton 2-1 ở vòng 18 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-27T21:31:16+07:00",
+      "fetched": "2025-12-28T05:11:33.738869+07:00"
+    },
+    {
+      "id": "a5bd70d69fa4795d225226ed5cbf7780",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 28.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-28122025-185251227233628421.htm",
+      "summary": "Tin tức Khi mỗi người tốt lên, mỗi tổ chức mạnh lên, cả đất nước sẽ tiến lên; Camera AI dựa vào cơ sở nào để xử phạt?; Khi Biển Đông đầy rủi ro trong năm 2025... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 28.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T21:30:00+07:00",
+      "fetched": "2025-12-28T05:11:26.195153+07:00"
+    },
+    {
+      "id": "c4137fce136e6e630f98da06239d4540",
+      "title": "Trì hoãn hôn nhân do thay đổi quan niệm sống",
+      "link": "https://thanhnien.vn/tri-hoan-hon-nhan-do-thay-doi-quan-niem-song-185251227201600823.htm",
+      "summary": "Tại Việt Nam (VN), tuổi kết hôn trung bình lần đầu tăng nhanh trong những năm gần đây cho thấy xu hướng kết hôn muộn ngày càng phổ biến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T21:10:00+07:00",
+      "fetched": "2025-12-28T05:11:26.195281+07:00"
+    },
+    {
+      "id": "b1be3cc70f4a261fb86cbda5f85db102",
+      "title": "Khi Biển Đông đầy rủi ro trong năm 2025",
+      "link": "https://thanhnien.vn/khi-bien-dong-day-rui-ro-trong-nam-2025-185251227220804623.htm",
+      "summary": "Tình hình Biển Đông trải qua một năm đầy biến động với nhiều rủi ro chực chờ giữa bối cảnh Trung Quốc không ngừng tìm cách tăng cường khả năng kiểm soát vùng biển này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T21:04:00+07:00",
+      "fetched": "2025-12-28T05:11:26.195405+07:00"
+    },
+    {
+      "id": "4cf60b28617ec70d23a3f2ea952ee0f5",
+      "title": "Giá heo gần tết tăng mạnh",
+      "link": "https://thanhnien.vn/gia-heo-gan-tet-tang-manh-18525122718052104.htm",
+      "summary": "Giá heo hơi tăng nhanh, mức giá trung bình hiện cao hơn tháng trước trên 15.000 đồng/kg. Trong bối cảnh Tết Nguyên đán đang cận kề, nhiều người lo lắng giá cả hàng hóa dịch vụ sẽ \"lên cơn sốt\" vào cao điểm mua sắm cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T21:02:00+07:00",
+      "fetched": "2025-12-28T05:11:26.195531+07:00"
+    },
+    {
+      "id": "df3aab5a4c30536099f8bade0bebb523",
+      "title": "10 sự kiện kinh tế nổi bật năm 2025",
+      "link": "https://thanhnien.vn/10-su-kien-kinh-te-noi-bat-nam-2025-185251227221516125.htm",
+      "summary": "VN kết thúc năm 2025 đạt nhiều kỳ tích chưa từng có, những kỷ lục mới được thiết lập, từ quy mô GDP đến bứt phá hạ tầng, thể chế, thị trường và động lực tăng trưởng mới, từ đó tạo nền tảng vững chắc để cả nước bước vào kỷ nguyên mới, hướng đến mục tiêu trở thành nước phát triển, có thu nhập cao vào ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T21:00:00+07:00",
+      "fetched": "2025-12-28T05:11:26.195671+07:00"
     },
     {
       "id": "7fb138f42b3b9e7b4aad0667d15b0a0e",
