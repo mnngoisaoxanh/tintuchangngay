@@ -1,7 +1,17 @@
 window.newsData_2025_12_28 = {
   "date": "2025-12-28",
-  "lastUpdated": "2025-12-28T01:17:14.871112+07:00",
+  "lastUpdated": "2025-12-28T03:13:36.539051+07:00",
   "articles": [
+    {
+      "id": "c48c41ab6395f70528d189a4e7377899",
+      "title": "Những câu hỏi 'tặng quà' trong đề sát hạch lý thuyết lái mô tô",
+      "link": "https://tuoitre.vn/nhung-cau-hoi-tang-qua-trong-de-sat-hach-ly-thuyet-lai-mo-to-20251226170029001.htm",
+      "summary": "Mới đây, cơ quan chức năng đã có đề xuất bổ sung nội dung sát hạch thực hành lái mô tô theo hướng nâng cao kỹ năng và yêu cầu an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:13:30.081393+07:00",
+      "fetched": "2025-12-28T03:13:30.081599+07:00"
+    },
     {
       "id": "db8d0a622d7a96427e11316c4a25b456",
       "title": "Du khách nô nức trước thềm khai mạc Festival hoa kiểng Sa Đéc",
