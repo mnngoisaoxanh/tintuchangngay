@@ -1,7 +1,107 @@
 window.newsData_2025_12_27 = {
   "date": "2025-12-27",
-  "lastUpdated": "2025-12-27T21:11:25.798589+07:00",
+  "lastUpdated": "2025-12-27T23:13:57.256931+07:00",
   "articles": [
+    {
+      "id": "712f95497cb76dc235cd298072dc93b4",
+      "title": "Tập đoàn Phú Cường: 30 năm một hành trình phát triển cùng đất Chín Rồng",
+      "link": "https://tuoitre.vn/tap-doan-phu-cuong-30-nam-mot-hanh-trinh-phat-trien-cung-dat-chin-rong-20251227130145858.htm",
+      "summary": "Quá trình phát triển của Tập đoàn Phú Cường trong 30 năm qua gắn liền với chiến lược đầu tư dài hạn tại Đồng bằng sông Cửu Long, đóng góp vào chuyển dịch kinh tế và phát triển hạ tầng của khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:13:49.369014+07:00",
+      "fetched": "2025-12-27T23:13:49.369128+07:00"
+    },
+    {
+      "id": "6226ae2445c97f44b45c0c9b80a63a8f",
+      "title": "Huỳnh Kim Tho trượt quán quân Bông lúa vàng 2025 đáng tiếc",
+      "link": "https://tuoitre.vn/huynh-kim-tho-truot-quan-quan-bong-lua-vang-2025-dang-tiec-20251227192611728.htm",
+      "summary": "Giải Bông lúa vàng 2025 khép lại chiều 27-12 tại Nhà hát VOH khiến nhiều khán giả nuối tiếc vì ngôi quán quân đã vuột khỏi tầm tay thí sinh Huỳnh Kim Tho.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:13:49.368887+07:00",
+      "fetched": "2025-12-27T23:13:49.369002+07:00"
+    },
+    {
+      "id": "4ceb4f60b09fd59965483514a3d40e8e",
+      "title": "Nguồn lực quý giá từ GREENFEED hỗ trợ bà con tái thiết sau bão lũ",
+      "link": "https://tuoitre.vn/nguon-luc-quy-gia-tu-greenfeed-ho-tro-ba-con-tai-thiet-sau-bao-lu-20251227184435443.htm",
+      "summary": "Nối dài chương trình lợp lại mái nhà, người dân vùng bão lũ Nghệ An vui mừng được tiếp sức hỗ trợ tái thiết cuộc sống sau bão lũ từ báo Tuổi Trẻ và Công ty cổ phần GREENFEED Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:13:49.368742+07:00",
+      "fetched": "2025-12-27T23:13:49.368875+07:00"
+    },
+    {
+      "id": "db8d0a622d7a96427e11316c4a25b456",
+      "title": "Du khách nô nức trước thềm khai mạc Festival hoa kiểng Sa Đéc",
+      "link": "https://tuoitre.vn/du-khach-no-nuc-truoc-them-khai-mac-festival-hoa-kieng-sa-dec-20251227192221843.htm",
+      "summary": "Đêm 27-12, Festival hoa kiểng Sa Đéc lần thứ 2 khai mạc lúc 20h tại Quảng trường Sa Đéc, tỉnh Đồng Tháp. Từ sáng sớm, du khách nô nức kéo về chụp hình, tham quan nhộn nhịp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:13:49.368614+07:00",
+      "fetched": "2025-12-27T23:13:49.368730+07:00"
+    },
+    {
+      "id": "5c3692a77fdfa2761ed9782b6b1af6b9",
+      "title": "Vụ lật xe làm 9 người chết ở Lào Cai: Đoàn thiện nguyện Bếp Củi trên đường đi nấu ăn cho trẻ",
+      "link": "https://tuoitre.vn/vu-lat-xe-lam-9-nguoi-chet-o-lao-cai-doan-thien-nguyen-bep-cui-tren-duong-di-nau-an-cho-tre-20251227195929398.htm",
+      "summary": "Đoàn thiện nguyện Bếp Củi gồm 18 người đi từ Hà Nội đến điểm trường mầm non Tà Ghênh (xã Phình Hồ, tỉnh Lào Cai) để nấu ăn và tặng quà cho trẻ thì gặp tai nạn khiến 9 người tử vong, 9 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:13:49.368488+07:00",
+      "fetched": "2025-12-27T23:13:49.368603+07:00"
+    },
+    {
+      "id": "76ae5f90573c9d4a361e7ba65f5c8e98",
+      "title": "Tạm giữ hình sự 2 cha con vụ thả chó cắn vợ chồng hàng xóm bị thương sau mâu thuẫn",
+      "link": "https://tuoitre.vn/tam-giu-hinh-su-2-cha-con-vu-tha-cho-can-vo-chong-hang-xom-bi-thuong-sau-mau-thuan-20251227201504876.htm",
+      "summary": "Công an TP Hà Nội đã tạm giữ hình sự hai cha con liên quan vụ thả chó cắn người sau mâu thuẫn khiến vợ chồng hàng xóm bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:13:49.368361+07:00",
+      "fetched": "2025-12-27T23:13:49.368476+07:00"
+    },
+    {
+      "id": "e37653a5b23467e5fd3a8d8acf4fa276",
+      "title": "Liên hợp quốc, EU lên tiếng sau khi Thái Lan và Campuchia đạt thỏa thuận ngừng bắn",
+      "link": "https://tuoitre.vn/lien-hop-quoc-eu-len-tieng-sau-khi-thai-lan-va-campuchia-dat-thoa-thuan-ngung-ban-20251227200728791.htm",
+      "summary": "Ngày 27-12, Liên hợp quốc hy vọng thỏa thuận ngừng bắn mà Thái Lan và Campuchia vừa đạt được sẽ mở đường cho việc xây dựng lòng tin và hòa bình giữa hai quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:13:49.368228+07:00",
+      "fetched": "2025-12-27T23:13:49.368348+07:00"
+    },
+    {
+      "id": "3b94d2709864b60ba123ef7c1245f174",
+      "title": "Hoài niệm tuổi thơ cùng tour ‘Hà Nội - chạm miền ký ức’",
+      "link": "https://tuoitre.vn/hoai-niem-tuoi-tho-cung-tour-ha-noi-cham-mien-ky-uc-20251227194201383.htm",
+      "summary": "Dạo quanh hồ Trúc Bạch, khám phá đời sống người dân thủ đô từ thời bao cấp đến hiện đại là trải nghiệm dành cho du khách trong tour 'Hà Nội - chạm miền ký ức’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:13:49.368096+07:00",
+      "fetched": "2025-12-27T23:13:49.368216+07:00"
+    },
+    {
+      "id": "f628765fabbdb63afd2955cdb63e9dad",
+      "title": "300 VĐV, HLV nhận bằng khen của Thủ tướng nhờ thành tích xuất sắc tại SEA Games",
+      "link": "https://tuoitre.vn/300-vdv-hlv-nhan-bang-khen-cua-thu-tuong-nho-thanh-tich-xuat-sac-tai-sea-games-20251227203956744.htm",
+      "summary": "Chiều 27-12, Thủ tướng Chính phủ Phạm Minh Chính đã trao bằng khen cho các cá nhân, tập thể có đóng góp quan trọng tại kỳ SEA Games 33 vừa qua tại Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:13:49.367955+07:00",
+      "fetched": "2025-12-27T23:13:49.368083+07:00"
+    },
+    {
+      "id": "4dab3a963523c8760116260a22030077",
+      "title": "Việt Nam hoan nghênh Thái Lan - Campuchia đạt thỏa thuận ngừng bắn",
+      "link": "https://tuoitre.vn/viet-nam-hoan-nghenh-thai-lan-campuchia-dat-thoa-thuan-ngung-ban-20251227210433793.htm",
+      "summary": "Người phát ngôn Bộ Ngoại giao Phạm Thu Hằng nhấn mạnh Việt Nam tin tưởng Thái Lan và Campuchia sẽ thực hiện hiệu quả các thỏa thuận được nêu trong tuyên bố chung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:13:49.367711+07:00",
+      "fetched": "2025-12-27T23:13:49.367940+07:00"
+    },
     {
       "id": "7e80c73a52a66402b514376d24b84666",
       "title": "Thị trường lao động 2026 dự báo phân hóa, lương nhiều vị trí đi lùi, nhân sự số tăng nóng",
@@ -563,6 +663,96 @@ window.newsData_2025_12_27 = {
       "fetched": "2025-12-27T15:16:09.163999+07:00"
     },
     {
+      "id": "48966c6adc10d619b10a1a7ea16b1eab",
+      "title": "Vinh danh 150 học sinh, sinh viên, thanh niên dân tộc thiểu số tiêu biểu",
+      "link": "https://thanhnien.vn/vinh-danh-150-hoc-sinh-sinh-vien-thanh-nien-dan-toc-thieu-so-tieu-bieu-185251227214926492.htm",
+      "summary": "Tối nay 27.12, tại Hà Nội đã diễn ra lễ tuyên dương 150 học sinh, sinh viên, thanh niên dân tộc thiểu số xuất sắc, tiêu biểu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T15:07:00+07:00",
+      "fetched": "2025-12-27T23:13:48.333185+07:00"
+    },
+    {
+      "id": "cbc7a630cec17c0b9cb4e09f19b178f1",
+      "title": "TP.HCM: Va chạm với xe trộn bê tông, bà nội tử vong, 2 cháu nhỏ bị thương nặng",
+      "link": "https://thanhnien.vn/tphcm-va-cham-voi-xe-tron-be-tong-ba-noi-tu-vong-2-chau-nho-bi-thuong-nang-18525122721335293.htm",
+      "summary": "Bà nội điều khiển xe máy đón 2 cháu trên đường về nhà thì xảy ra tai nạn giao thông với xe trộn bê tông khiến 1 người tử vong, 2 người bị thương nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:53:00+07:00",
+      "fetched": "2025-12-27T23:13:48.333353+07:00"
+    },
+    {
+      "id": "4d91b984b6d1d647a6483fe160ecb253",
+      "title": "Đông nghịt người xem khai mạc lễ hội văn hóa sông nước Cần Thơ",
+      "link": "https://thanhnien.vn/dong-nghit-nguoi-xem-khai-mac-le-hoi-van-hoa-song-nuoc-can-tho-185251227151646245.htm",
+      "summary": "Trong lần đầu tiên tổ chức, lễ hội văn hóa sông nước Cần Thơ 2025 đã diễn ra trong sự chào đón nồng nhiệt của người dân địa phương và khách du lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:46:00+07:00",
+      "fetched": "2025-12-27T23:13:48.333508+07:00"
+    },
+    {
+      "id": "10943d4af2e49beaf2fed40d65a626ce",
+      "title": "Man City thắng trận thứ tám liên tiếp",
+      "link": "https://vnexpress.net/man-city-thang-tran-thu-tam-lien-tiep-4999089.html",
+      "summary": "Tiền vệ Rayan Cherki tỏa sáng giúp Man City thắng chủ nhà Nottingham Forest 2-1 ở vòng 18 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:36:30+07:00",
+      "fetched": "2025-12-27T23:13:45.187233+07:00"
+    },
+    {
+      "id": "10943d4af2e49beaf2fed40d65a626ce",
+      "title": "Man City thắng trận thứ tám liên tiếp",
+      "link": "https://vnexpress.net/man-city-thang-tran-thu-tam-lien-tiep-4999089.html",
+      "summary": "Tiền vệ Rayan Cherki tỏa sáng giúp Man City thắng chủ nhà Nottingham Forest 2-1 ở vòng 18 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-27T14:36:30+07:00",
+      "fetched": "2025-12-27T23:13:57.244237+07:00"
+    },
+    {
+      "id": "e9d6616eaeea120027bf7010fe2741d2",
+      "title": "Khách Tây chứng kiến 14 năm 'lột xác' của phố đường tàu Hà Nội",
+      "link": "https://vnexpress.net/khach-tay-chung-kien-14-nam-lot-xac-cua-pho-duong-tau-ha-noi-4995343.html",
+      "summary": "Chuyên gia du lịch Mark Bowyer chia sẻ sự thay đổi của phố đường tàu từ nơi sinh hoạt bình dị thành điểm đến nổi tiếng toàn cầu sau hơn một thập kỷ gắn bó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:34:38+07:00",
+      "fetched": "2025-12-27T23:13:45.187412+07:00"
+    },
+    {
+      "id": "3083ff9c828ce1c6cbf94254513c3481",
+      "title": "Hà Nội: Phát hiện loạt vi phạm trong cung cấp suất ăn bán trú cho học sinh",
+      "link": "https://thanhnien.vn/ha-noi-phat-hien-loat-vi-pham-trong-cung-cap-suat-an-ban-tru-cho-hoc-sinh-185251227210601199.htm",
+      "summary": "Qua kiểm tra, Công an Hà Nội xác định đơn vị cung cấp suất ăn bán trú cho 4 trường tiểu học ở xã Mỹ Đức có hàng loạt vi phạm nghiêm trọng liên quan đến an toàn thực phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:32:00+07:00",
+      "fetched": "2025-12-27T23:13:48.333660+07:00"
+    },
+    {
+      "id": "07c6e3c1a09dd2803641208fd85ded0c",
+      "title": "Hà Nội hưởng ứng thực hiện 'xây dựng môi trường văn hóa trong lễ hội truyền thống'",
+      "link": "https://thanhnien.vn/ha-noi-huong-ung-thuc-hien-xay-dung-moi-truong-van-hoa-trong-le-hoi-truyen-thong-185251227185824457.htm",
+      "summary": "Sáng 27.12, tại Hồ Văn thuộc di tích Quốc gia đặc biệt Văn Miếu - Quốc Tử Giám, Sở VH-TT Hà Nội tổ chức lễ phát động hưởng ứng thực hiện 'Bộ tiêu chí về môi trường văn hóa trong lễ hội truyền thống' trên địa bàn TP.Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:25:00+07:00",
+      "fetched": "2025-12-27T23:13:48.333829+07:00"
+    },
+    {
+      "id": "a7671ced61318a770c72ac32cf42844b",
+      "title": "Sa Pa bắn pháo hoa, tổ chức countdown đón Tết Dương lịch 2026",
+      "link": "https://vnexpress.net/sa-pa-ban-phao-hoa-to-chuc-countdown-don-tet-duong-lich-2026-4999082.html",
+      "summary": "Du khách sẽ được tham gia nhiều chương trình, khám phá những trải nghiệm tại Sun World Fansipan Legend hay tham gia sự kiện coundown và bắn pháo hoa đón năm mới 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:15:00+07:00",
+      "fetched": "2025-12-27T23:13:45.187585+07:00"
+    },
+    {
       "id": "900a6d80b46770ad45d59955e4b594c8",
       "title": "Việt Nam hoan nghênh Campuchia - Thái Lan ngừng bắn",
       "link": "https://vnexpress.net/viet-nam-hoan-nghenh-campuchia-thai-lan-ngung-ban-4999083.html",
@@ -601,6 +791,36 @@ window.newsData_2025_12_27 = {
       "category": "Tổng hợp",
       "published": "2025-12-27T14:06:00+07:00",
       "fetched": "2025-12-27T21:11:15.759049+07:00"
+    },
+    {
+      "id": "9024ce4ef675cfd0a96355c62112e3b7",
+      "title": "Hai cha con thả chó dữ cắn hàng xóm bị tạm giữ",
+      "link": "https://vnexpress.net/hai-cha-con-tha-cho-du-can-hang-xom-bi-tam-giu-4999081.html",
+      "summary": "Trần Quốc Lương cùng bố bị tạm giữ hình sự để điều tra hành vi thả chó vào đám đông đang xô xát để cắn trọng thương \"đối thủ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:04:42+07:00",
+      "fetched": "2025-12-27T23:13:45.187939+07:00"
+    },
+    {
+      "id": "d221a5d4a287f58d75f62ca3548d1856",
+      "title": "Phát hiện bạn trai từng có hàng trăm 'bóng hồng'",
+      "link": "https://vnexpress.net/phat-hien-ban-trai-tung-co-hang-tram-bong-hong-4998955.html",
+      "summary": "Có thời gian hai người bạn gái của anh cùng có thai tìm đến, anh không đủ trách nhiệm để giữ lại đứa con nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:00:00+07:00",
+      "fetched": "2025-12-27T23:13:45.188095+07:00"
+    },
+    {
+      "id": "8d17665851b0dc2c4b921314f123d89c",
+      "title": "Cùng em viết những câu chuyện thường ngày, anh nhé",
+      "link": "https://vnexpress.net/cung-em-viet-nhung-cau-chuyen-thuong-ngay-anh-nhe-4998181.html",
+      "summary": "Em không quá khéo léo trong những lời làm quen ban đầu, nhưng em tin sự chân thành và tử tế sẽ chạm đến trái tim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:00:00+07:00",
+      "fetched": "2025-12-27T23:13:45.188195+07:00"
     },
     {
       "id": "f1e14249175f2fa878796273a2392e9f",
@@ -761,6 +981,16 @@ window.newsData_2025_12_27 = {
       "category": "Tổng hợp",
       "published": "2025-12-27T12:41:16+07:00",
       "fetched": "2025-12-27T21:11:12.612773+07:00"
+    },
+    {
+      "id": "ab44edd399f312f0a34ae14865936245",
+      "title": "Xe chở đoàn thiện nguyện lật ở Lào Cai do mất phanh khi xuống dốc",
+      "link": "https://vnexpress.net/xe-cho-doan-thien-nguyen-lat-o-lao-cai-do-mat-phanh-khi-xuong-doc-4999073.html",
+      "summary": "Công an tỉnh Lào Cai cho biết kết quả xác minh sơ bộ xác định xe khách 29 chỗ bị lật tại xã Phình Hồ do mất phanh khi xuống dốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T12:41:16+07:00",
+      "fetched": "2025-12-27T23:13:45.189494+07:00"
     },
     {
       "id": "d6e382d27237b9613576d255c6d07d51",
