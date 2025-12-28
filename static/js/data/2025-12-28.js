@@ -1,7 +1,157 @@
 window.newsData_2025_12_28 = {
   "date": "2025-12-28",
-  "lastUpdated": "2025-12-28T05:11:33.743105+07:00",
+  "lastUpdated": "2025-12-28T08:07:15.082809+07:00",
   "articles": [
+    {
+      "id": "d4b5df451aba58f7114c202127ceee23",
+      "title": "Trần Quyết Chiến thắng 100%, Bao Phương Vinh có chiến thắng đầu tiên tại Giải billiards đồng đội",
+      "link": "https://tuoitre.vn/tran-quyet-chien-thang-100-bao-phuong-vinh-co-chien-thang-dau-tien-tai-giai-billiards-dong-doi-20251228022225286.htm",
+      "summary": "Cơ thủ số 1 Việt Nam Trần Quyết Chiến vẫn cho thấy được phong độ vượt trội bằng những chiến thắng tại Giải billiards carom 3 băng Team League (VBTL) hôm 27-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.385381+07:00",
+      "fetched": "2025-12-28T08:07:06.385497+07:00"
+    },
+    {
+      "id": "4c6dc267895ef0e1076ff78bf60c3031",
+      "title": "Ronaldo 2 lần sút tung lưới… Bồ Đào Nha",
+      "link": "https://tuoitre.vn/ronaldo-2-lan-sut-tung-luoi-bo-dao-nha-20251228030928333.htm",
+      "summary": "Ngôi sao Cristiano Ronaldo thật sự đã sút tung lưới Bồ Đào Nha, nhưng không phải theo cách mà nhiều người nghĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.385252+07:00",
+      "fetched": "2025-12-28T08:07:06.385369+07:00"
+    },
+    {
+      "id": "3fa5d1f91d66d88dcccd3c7f5be42850",
+      "title": "Công ty không xác nhận thu nhập để mua nhà ở xã hội, phải làm sao?",
+      "link": "https://tuoitre.vn/cong-ty-khong-xac-nhan-thu-nhap-de-mua-nha-o-xa-hoi-phai-lam-sao-20251227005409064.htm",
+      "summary": "Tôi muốn mua nhà ở xã hội nên nhờ công ty xác nhận thu nhập nhưng công ty không xác nhận. Vậy tôi phải khiếu nại, phản ảnh ở đâu nếu gặp tình trạng này? Bạn đọc N. (TP.HCM)",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.385106+07:00",
+      "fetched": "2025-12-28T08:07:06.385238+07:00"
+    },
+    {
+      "id": "336d0065d25054226317b470f6696582",
+      "title": "Tin tức sáng 28-12: Năm 2025 có 47.000 người Việt lao động tại Đài Loan; FLC sẽ lãi 635 tỉ đồng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-28-12-nam-2025-co-47-000-nguoi-viet-lao-dong-tai-dai-loan-flc-se-lai-635-ti-dong-2025122716204308.htm",
+      "summary": "Một số tin tức đáng chú ý: Tăng lương cơ bản cho lao động làm việc ở Đài Loan từ 1-1-2026; Vietinbank phát hành gần 2,4 tỉ cổ phiếu trả cổ tức 55.846 cổ đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.384947+07:00",
+      "fetched": "2025-12-28T08:07:06.385092+07:00"
+    },
+    {
+      "id": "7ae97eb7918289139e02842470638b68",
+      "title": "Đánh bại 'thần đồng' Trung Quốc, kỳ thủ Việt Nam vào chung kết giải cờ tướng tiền tỉ",
+      "link": "https://tuoitre.vn/danh-bai-than-dong-trung-quoc-ky-thu-viet-nam-vao-chung-ket-giai-co-tuong-tien-ti-20251227090022649.htm",
+      "summary": "Ngày 27-12, kỳ thủ Nguyễn Thành Bảo đã xuất sắc đánh bại 'thần đồng' làng cờ tướng Trung Quốc là Hoa Thần Hạo ở bán kết Cúp Phương Trang 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.384812+07:00",
+      "fetched": "2025-12-28T08:07:06.384927+07:00"
+    },
+    {
+      "id": "12a7235d59906ee5687a23446fd779f8",
+      "title": "Ba 'đại gia' cùng thắng 2-1, ngôi đầu Premier League không đổi",
+      "link": "https://tuoitre.vn/ba-dai-gia-cung-thang-2-1-ngoi-dau-premier-league-khong-doi-20251228013419978.htm",
+      "summary": "Ngôi vị đầu tiên trên bảng xếp hạng Giải ngoại hạng Anh (Premier League) không đổi khi hai đội dẫn đầu bảng cùng tiến ở vòng 18.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.384683+07:00",
+      "fetched": "2025-12-28T08:07:06.384799+07:00"
+    },
+    {
+      "id": "f8f96a75daa5b59a604a55c7fb8350ca",
+      "title": "16 tuổi, học lái xe thì được, chưa nên có bằng lái xe?",
+      "link": "https://tuoitre.vn/16-tuoi-hoc-lai-xe-thi-duoc-chua-nen-co-bang-lai-xe-20251228002620654.htm",
+      "summary": "Nhiều ý kiến khác nhau xung quanh đề xuất cho học sinh từ 16 tuổi được học và thi cấp giấy phép lái xe của cử tri tỉnh An Giang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.384559+07:00",
+      "fetched": "2025-12-28T08:07:06.384672+07:00"
+    },
+    {
+      "id": "f8a2fa5d2ddca628d4e55944819e667b",
+      "title": "Quán quân Negav khóc nấc, cảm ơn các fan tại concert Anh trai say hi",
+      "link": "https://tuoitre.vn/quan-quan-negav-khoc-nac-cam-on-cac-fan-tai-concert-anh-trai-say-hi-20251228045828427.htm",
+      "summary": "Trong concert đầu tiên của Anh trai say hi mùa 2, Negav bật khóc và cảm ơn fan của mình khi anh tiếp tục được bình chọn là người chiến thắng thêm một hạng mục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.384433+07:00",
+      "fetched": "2025-12-28T08:07:06.384548+07:00"
+    },
+    {
+      "id": "f3915ac6a06f93ae1a70b200b28d804b",
+      "title": "DTAP, Phương Mỹ Chi lần đầu trình diễn 'Nhà tôi có treo một lá cờ' tại HOZO 2025",
+      "link": "https://tuoitre.vn/dtap-phuong-my-chi-lan-dau-trinh-dien-nha-toi-co-treo-mot-la-co-tai-hozo-2025-20251227142928842.htm",
+      "summary": "Tối 27-12, tại công viên Bờ sông Sài Gòn (TP.HCM), Maze-ing Việt Nam mở màn chuỗi đêm nhạc của HOZO City Tết Fest 2025, mang đến không gian âm nhạc sôi động, đậm bản sắc Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.384298+07:00",
+      "fetched": "2025-12-28T08:07:06.384422+07:00"
+    },
+    {
+      "id": "8f229f7046399f708a75161f7ffc0aca",
+      "title": "Một tháng 'thần tốc' dựng lại mái nhà ở những ngôi làng tan hoang, nụ cười của dân ấm lại",
+      "link": "https://tuoitre.vn/mot-thang-than-toc-dung-lai-mai-nha-o-nhung-ngoi-lang-tan-hoang-nu-cuoi-cua-dan-am-lai-20251228003859029.htm",
+      "summary": "Chưa đầy 1 tháng từ lúc Thủ tướng Phạm Minh Chính phát lệnh thực hiện 'Chiến dịch Quang Trung' thần tốc dựng lại mái nhà cho dân vùng bão lũ, những ngôi nhà kiên cố đã mọc lên, mang lại sự sống cho những ngôi làng tan hoang sau thiên tai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.384165+07:00",
+      "fetched": "2025-12-28T08:07:06.384286+07:00"
+    },
+    {
+      "id": "8b99154b13eaf03fb8683dcbe51eb01e",
+      "title": "Tin tức thế giới 28-12: Mỹ thúc Thái Lan, Campuchia triển khai ngừng bắn; Đức nghi Nga quấy rối",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-27-12-my-thuc-thai-lan-campuchia-trien-khai-ngung-ban-duc-nghi-nga-quay-roi-20251228063935383.htm",
+      "summary": "Ông Zelensky đi Mỹ gặp ông Trump, giao tranh Nga- Ukraine vẫn tiếp diễn; Mỹ kêu gọi Thái Lan, Campuchia triển khai ngừng bắn ngay lập tức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.384005+07:00",
+      "fetched": "2025-12-28T08:07:06.384149+07:00"
+    },
+    {
+      "id": "8c69bfa76b3d9c6f5ce9705ee6707a50",
+      "title": "Trấn Thành, Huỳnh Lập 'đấu khẩu' hài hước trong Running man",
+      "link": "https://tuoitre.vn/tran-thanh-huynh-lap-dau-khau-hai-huoc-trong-running-man-20251227144429931.htm",
+      "summary": "Với chủ đề Ký ức bị đánh mất, đặt các thành viên vào bối cảnh bị lạc giữa thành phố R bí ẩn, nơi ký ức bị xáo trộn và những thử thách liên tiếp được đặt ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.383868+07:00",
+      "fetched": "2025-12-28T08:07:06.383989+07:00"
+    },
+    {
+      "id": "25a1edc8affd6b5d3bbd6c16aa48eed7",
+      "title": "Vì sao xuất hiện các Thánh tổ dưới triều Lý?",
+      "link": "https://tuoitre.vn/vi-sao-xuat-hien-cac-thanh-to-duoi-trieu-ly-20251227224635825.htm",
+      "summary": "Dưới triều Lý, do Phật giáo phát triển rực rỡ, dung hợp mạnh mẽ với tín ngưỡng bản địa, tạo tiền đề cho sự xuất hiện của lớp nhân vật đặc biệt: các Thánh tổ - những Thiền sư vừa hộ quốc an dân, vừa có khả năng phi thường trong tâm thức dân gian.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.383718+07:00",
+      "fetched": "2025-12-28T08:07:06.383854+07:00"
+    },
+    {
+      "id": "e28068c7e21aae5d5d60a1184906ea91",
+      "title": "Carlsen nổi nóng, hất camera của phóng viên sau khi thua trận",
+      "link": "https://tuoitre.vn/carlsen-noi-nong-hat-camera-cua-phong-vien-sau-khi-thua-tran-20251228001942291.htm",
+      "summary": "Ngày thi đấu thứ hai của giải vô địch cờ nhanh, chớp thế giới 2025 đã khép lại bằng một khoảnh khắc bất ngờ khi Magnus Carlsen không chỉ đứt chuỗi bất bại mà còn để lại hình ảnh xấu xí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.383575+07:00",
+      "fetched": "2025-12-28T08:07:06.383705+07:00"
+    },
+    {
+      "id": "e0914027055a2a5f7ccae9c742e073bf",
+      "title": "Lê Quang Liêm nhận hai thất bại liên tiếp tại Giải cờ vua nhanh và cờ chớp thế giới 2025",
+      "link": "https://tuoitre.vn/le-quang-liem-nhan-hai-that-bai-lien-tiep-tai-giai-co-vua-nhanh-va-co-chop-the-gioi-2025-20251228011724071.htm",
+      "summary": "Sau hai ngày thi đấu tại Giải vô địch cờ nhanh và cờ chớp thế giới 2025, đoàn cờ vua Việt Nam đã trải qua những khoảnh khắc đầy khó khăn. Đại kiện tướng Lê Quang Liêm đã phải nhận hai thất bại liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:07:06.383320+07:00",
+      "fetched": "2025-12-28T08:07:06.383559+07:00"
+    },
     {
       "id": "8854a0cb3407722b1260b84f00e027e8",
       "title": "Thời tiết hôm nay 28-12: Không khí lạnh chi phối thời tiết cả nước",
@@ -173,6 +323,266 @@ window.newsData_2025_12_28 = {
       "fetched": "2025-12-28T01:17:05.439802+07:00"
     },
     {
+      "id": "faecb94b9c95d0665f31ea1c52a8495b",
+      "title": "Không khí lạnh gây rét từ miền Bắc vào Huế, Biển Đông gió giật cấp 8",
+      "link": "https://thanhnien.vn/khong-khi-lanh-gay-ret-tu-mien-bac-vao-hue-bien-dong-gio-giat-cap-8-18525122806513254.htm",
+      "summary": "Dự báo thời tiết hôm nay 28.12, không khí lạnh tiếp tục gây ra thời tiết rét bao trùm các tỉnh miền Bắc, kéo dài đến TP.Huế. Vùng biển nam Biển Đông, từ Khánh Hòa - Cà Mau gió giật cấp 8, sóng biển cao đến 5 m.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T01:05:00+07:00",
+      "fetched": "2025-12-28T08:07:03.248628+07:00"
+    },
+    {
+      "id": "ed85b1204c449004cef13d95fd3885ee",
+      "title": "Tin nhắn - Thơ của Đào Đức Tuấn",
+      "link": "https://thanhnien.vn/tin-nhan-tho-cua-dao-duc-tuan-185251227155112713.htm",
+      "summary": "Đến một lúc nào đó dòng đờilầm thầmtrôi về hư ảophía trước xênh xang phía trước xềnh xàngvẫn khao khátcháy bỏng không thôi chân lý đời mình",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T01:05:00+07:00",
+      "fetched": "2025-12-28T08:07:04.922786+07:00"
+    },
+    {
+      "id": "6d4fa06198266435ffbf5dc50dc4e733",
+      "title": "Giá USD hôm nay 28.12.2025: Giảm ngược chiều euro, bảng Anh",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-28122025-giam-nguoc-chieu-euro-bang-anh-185251228075401551.htm",
+      "summary": "Giá USD trong các ngân hàng đi xuống, ngược chiều với một số ngoại tệ như euro, bảng Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T01:03:00+07:00",
+      "fetched": "2025-12-28T08:07:04.923025+07:00"
+    },
+    {
+      "id": "5fb3a004398faff2244235c1a6a42f3e",
+      "title": "Du thuyền hạng sang mắc cạn ngoài khơi bờ biển",
+      "link": "https://thanhnien.vn/du-thuyen-hang-sang-mac-can-ngoai-khoi-bo-bien-185251228075026534.htm",
+      "summary": "Chiếc du thuyền sang trọng trở thành tâm điểm chú ý sau khi mắc cạn ở ngoài khơi vào hôm qua 27.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T01:02:00+07:00",
+      "fetched": "2025-12-28T08:07:04.923207+07:00"
+    },
+    {
+      "id": "adbfe05c6fc31da715fd0fb24e58ae59",
+      "title": "Bứt phá thi đua, đưa đất nước vào kỷ nguyên phát triển giàu mạnh",
+      "link": "https://thanhnien.vn/but-pha-thi-dua-dua-dat-nuoc-vao-ky-nguyen-phat-trien-giau-manh-1852512272334327.htm",
+      "summary": "Thay mặt Hội đồng Thi đua - Khen thưởng T.Ư, tại đại hội, Thủ tướng Phạm Minh Chính đã phát động phong trào Thi đua yêu nước với chủ đề: 'Thi đua đổi mới, sáng tạo, tăng tốc, bứt phá đưa đất nước vào kỷ nguyên phát triển giàu mạnh, phồn vinh, văn minh, hạnh phúc'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T01:00:00+07:00",
+      "fetched": "2025-12-28T08:07:04.923364+07:00"
+    },
+    {
+      "id": "faee2f392209fac38981a93cd1bba1fd",
+      "title": "Hiến gần 7.000 m² đất làm đường, 18 năm vẫn 'án binh bất động'",
+      "link": "https://thanhnien.vn/hien-gan-7000-m-dat-lam-duong-18-nam-van-an-binh-bat-dong-1852512272143206.htm",
+      "summary": "Gần 18 năm trôi qua, 25 hộ dân ở tổ 2, P.Đăk Cấm (tỉnh Quảng Ngãi) vẫn đi lại trên con đường đất lầy lội mỗi khi mưa xuống dù họ từng tự nguyện hiến gần 7.000 m² đất để chính quyền mở đường liên tổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T01:00:00+07:00",
+      "fetched": "2025-12-28T08:07:04.923521+07:00"
+    },
+    {
+      "id": "ebfdd079001b10b9f2717d37b6b507a6",
+      "title": "Chứng kiến người dân khám bệnh với túi tiền trống rỗng, chàng trai làm điều bất ngờ...",
+      "link": "https://thanhnien.vn/chung-kien-nguoi-dan-kham-benh-voi-tui-tien-trong-rong-chang-trai-lam-dieu-bat-ngo-185251227192245119.htm",
+      "summary": "\"Mỗi lần thấy bà con đến khám bệnh với túi tiền gần như trống rỗng, tôi chỉ mong làm được điều gì đó để giúp bà con bớt đi gánh nặng\". Với tâm niệm đó, nhóm thiện nguyện \"Bầu trời xanh\" do y sĩ Ngô Văn Quí (33 tuổi, ngụ xã Mỹ Hiệp - trước đây là xã Mỹ Hiệp, H.Cao Lãnh, Đồng Tháp) thành lập đã mang đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T01:00:00+07:00",
+      "fetched": "2025-12-28T08:07:04.923678+07:00"
+    },
+    {
+      "id": "ced26b1050aa394f46ea06c96605e81c",
+      "title": "Quy hoạch đô thị Khánh Hòa: Đột phá từ phát triển kinh tế đêm",
+      "link": "https://thanhnien.vn/quy-hoach-do-thi-khanh-hoa-dot-pha-tu-phat-trien-kinh-te-dem-185251227162711138.htm",
+      "summary": "Quy hoạch đô thị được xem là bước đi tất yếu để Khánh Hòa phát triển không gian, nâng cao năng lực cạnh tranh du lịch. Trong đó, mô hình đô thị du lịch gắn với kinh tế đêm đang mở ra dư địa tăng trưởng mới, góp phần xây dựng đô thị biển hiện đại và đáng sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T01:00:00+07:00",
+      "fetched": "2025-12-28T08:07:04.923828+07:00"
+    },
+    {
+      "id": "33956e9ad99e8e01df0db1ee7f2f854b",
+      "title": "Nhàn đàm: Mùa mứt xứ mình",
+      "link": "https://thanhnien.vn/nhan-dam-mua-mut-xu-minh-185251227154515604.htm",
+      "summary": "Chị gọi qua kể, sau trận lụt trăm năm có một làm ngập cả TX.Ninh Hòa cũ, hoa bìm bìm nở trắng một khúc sông Dinh, báo hiệu mùa lũ năm nay đã chấm dứt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T01:00:00+07:00",
+      "fetched": "2025-12-28T08:07:04.923987+07:00"
+    },
+    {
+      "id": "c976ddb94ee9619a4f3250eb510a584c",
+      "title": "Váy denim, áo khoác jean, lựa chọn thông minh cho những ngày cuối đông",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-denim-ao-khoac-jean-lua-chon-thong-minh-cho-nhung-ngay-cuoi-dong-185251223121658124.htm",
+      "summary": "Bước vào những ngày cuối đông, các thiết kế váy denim và áo khoác jean đem đến diện mạo mới vừa cá tính vừa thanh lịch khiến quý cô khó có thể nói lời từ chối. Nếu các thiết kế quen thuộc từ denim khắc họa vẻ ngoài bụi bặm, hoang dã thì những bản phối mới dưới đây cho thấy sự mềm mại, dịu dàng tinh ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T01:00:00+07:00",
+      "fetched": "2025-12-28T08:07:04.924161+07:00"
+    },
+    {
+      "id": "d0509fec32295a2eea237563e14211e3",
+      "title": "Vẻ quyến rũ của Ngọc Nga 'Những cô gái chân dài' ở tuổi U.50",
+      "link": "https://thanhnien.vn/ve-quyen-ru-cua-ngoc-nga-nhung-co-gai-chan-dai-o-tuoi-u50-185251228074448518.htm",
+      "summary": "Tái xuất làng giải trí sau quãng thời gian im ắng, Ngọc Nga gây ấn tượng bởi vẻ ngoài trẻ trung. Cô không ngại biến hóa ở nhiều phong cách khác nhau khi xuất hiện trước công chúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T00:51:00+07:00",
+      "fetched": "2025-12-28T08:07:04.924313+07:00"
+    },
+    {
+      "id": "11d216204d474de96bfc6f6262e80939",
+      "title": "5 'trứng phục sinh' thú vị đang ẩn mình trên iOS",
+      "link": "https://thanhnien.vn/5-trung-phuc-sinh-thu-vi-dang-an-minh-tren-ios-185251227123054178.htm",
+      "summary": "Chỉ cần thuộc lòng 5 tính năng ẩn trên iOS dưới đây sẽ giúp bạn thành 'phù thủy iPhone'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T00:51:00+07:00",
+      "fetched": "2025-12-28T08:07:04.924470+07:00"
+    },
+    {
+      "id": "eb05f711aa69b68a740e94ae7b520823",
+      "title": "Giá vàng hôm nay 28.12.2025: Vàng nhẫn tăng vọt vượt mặt vàng miếng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-28122025-vang-nhan-tang-vot-vuot-mat-vang-mieng-185251228071141969.htm",
+      "summary": "Giá vàng nhảy vọt lên mức kỷ lục mới và ghi nhận mức tăng cao sau một tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T00:49:00+07:00",
+      "fetched": "2025-12-28T08:07:04.924623+07:00"
+    },
+    {
+      "id": "e29b56a9adc27db0e9d1a9d0474f88a6",
+      "title": "Tổng thống Iran bất ngờ tuyên bố đang chiến tranh toàn diện với Israel, Mỹ, châu Âu",
+      "link": "https://thanhnien.vn/tong-thong-iran-bat-ngo-tuyen-bo-dang-chien-tranh-toan-dien-voi-israel-my-chau-au-185251228074353612.htm",
+      "summary": "Tổng thống Iran Masoud Pezeshkian tuyên bố nước ông đang trong cuộc chiến tranh toàn diện với Mỹ, Israel và châu Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T00:46:00+07:00",
+      "fetched": "2025-12-28T08:07:04.924770+07:00"
+    },
+    {
+      "id": "860b4655c53a5bba9e5790fb47d73a38",
+      "title": "Điều ít biết sau Học viện 'như thần thoại Hy Lạp'",
+      "link": "https://thanhnien.vn/dieu-it-biet-sau-hoc-vien-nhu-than-thoai-hy-lap-185251227201240168.htm",
+      "summary": "Là điểm chụp hình check-in gây sốt gần đây, Học viện Don Bosco (36 Bùi Thị Xuân, P.Xuân Hương - Đà Lạt, tỉnh Lâm Đồng) còn nhiều điều thú vị ít người biết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T00:45:00+07:00",
+      "fetched": "2025-12-28T08:07:04.924919+07:00"
+    },
+    {
+      "id": "fe052933b84647e1ca1f02afd8a9a3f0",
+      "title": "Ba Lan chi hàng tỷ USD xây dựng 'thành trì' chống drone",
+      "link": "https://vnexpress.net/ba-lan-chi-hang-ty-usd-xay-dung-thanh-tri-chong-drone-4999125.html",
+      "summary": "Ba Lan lên kế hoạch triển khai trận địa chống drone mới dọc biên giới phía đông, sau nhiều vụ xâm phạm không phận từ chiến sự Nga - Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T00:27:23+07:00",
+      "fetched": "2025-12-28T08:06:59.455685+07:00"
+    },
+    {
+      "id": "fe052933b84647e1ca1f02afd8a9a3f0",
+      "title": "Ba Lan chi hàng tỷ USD xây dựng 'thành trì' chống drone",
+      "link": "https://vnexpress.net/ba-lan-chi-hang-ty-usd-xay-dung-thanh-tri-chong-drone-4999125.html",
+      "summary": "Ba Lan lên kế hoạch triển khai trận địa chống drone mới dọc biên giới phía đông, sau nhiều vụ xâm phạm không phận từ chiến sự Nga - Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-28T00:27:23+07:00",
+      "fetched": "2025-12-28T08:07:08.404813+07:00"
+    },
+    {
+      "id": "9f0426a205cf8693c602a28f0944277d",
+      "title": "'Chuyên gia rò rỉ' hé lộ hình ảnh iPhone gập dù đang bị Apple kiện",
+      "link": "https://vnexpress.net/chuyen-gia-ro-ri-he-lo-hinh-anh-iphone-gap-du-dang-bi-apple-kien-4999112.html",
+      "summary": "Dù đang gặp rắc rối pháp lý với Apple, Jon Prosser, chủ kênh Front Page Tech, vẫn tung ra loạt ảnh dựng cho thấy thiết kế của iPhone màn hình gập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T00:26:59+07:00",
+      "fetched": "2025-12-28T08:06:59.455870+07:00"
+    },
+    {
+      "id": "9f0426a205cf8693c602a28f0944277d",
+      "title": "'Chuyên gia rò rỉ' hé lộ hình ảnh iPhone gập dù đang bị Apple kiện",
+      "link": "https://vnexpress.net/chuyen-gia-ro-ri-he-lo-hinh-anh-iphone-gap-du-dang-bi-apple-kien-4999112.html",
+      "summary": "Dù đang gặp rắc rối pháp lý với Apple, Jon Prosser, chủ kênh Front Page Tech, vẫn tung ra loạt ảnh dựng cho thấy thiết kế của iPhone màn hình gập.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-28T00:26:59+07:00",
+      "fetched": "2025-12-28T08:07:13.127041+07:00"
+    },
+    {
+      "id": "344fd074ac833c5fa2b074d39a1cafbb",
+      "title": "Ba mẫu xe của Geely tại Vietnam Mobility Show 2025",
+      "link": "https://vnexpress.net/ba-mau-xe-cua-geely-tai-vietnam-mobility-show-2025-4999014.html",
+      "summary": "Geely Coolray, Monjaro, EX5 - ba mẫu xe đang kinh doanh của hãng xe Trung Quốc - tham dự Vietnam Mobility Show 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T00:00:00+07:00",
+      "fetched": "2025-12-28T08:06:59.456036+07:00"
+    },
+    {
+      "id": "bbdbc38af52ce794383bd1aecf8d8b9c",
+      "title": "MSC và cảng Sơn Đông khai trương bãi container tại Thanh Đảo",
+      "link": "https://vnexpress.net/msc-va-cang-son-dong-khai-truong-bai-container-tai-thanh-dao-4997164.html",
+      "summary": "Liên doanh mới giữa MSC và cảng Sơn Đông được kỳ vọng tăng kết nối logistics khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T00:00:00+07:00",
+      "fetched": "2025-12-28T08:06:59.456229+07:00"
+    },
+    {
+      "id": "015e87691d816984d4a81f1d5d368917",
+      "title": "Cuộc sống du mục của cặp vợ chồng Việt - Australia",
+      "link": "https://vnexpress.net/cuoc-song-du-muc-cua-cap-vo-chong-viet-australia-4997239.html",
+      "summary": "6h sáng, chị Ngô Thị Bắc bị đánh thức bởi tiếng đập cánh của hàng nghìn con vẹt trắng vây quanh chiếc xe caravan đỗ ven hồ Bogan Weir.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:30:00+07:00",
+      "fetched": "2025-12-28T08:06:59.456391+07:00"
+    },
+    {
+      "id": "4b5bfc9128bc7eb7c013984adc9be74a",
+      "title": "Chủ nhà ở Mỹ bị phạt tiền vì đậu ôtô đè lên cỏ trong đất của mình",
+      "link": "https://vnexpress.net/chu-nha-o-my-bi-phat-tien-vi-dau-oto-de-len-co-trong-dat-cua-minh-4999025.html",
+      "summary": "Bà Sandy Martinez bị phạt 250 USD mỗi ngày trong hơn một năm chỉ vì lỗi vi phạm tưởng chừng rất nhỏ: Đậu ôtô với 2 bánh xe đè lên bãi cỏ sân nhà mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:00:00+07:00",
+      "fetched": "2025-12-28T08:06:59.456555+07:00"
+    },
+    {
+      "id": "43931736342945ff32a844dc0f4f0f7c",
+      "title": "Những vết sẹo tinh thần sau thiên tai",
+      "link": "https://vnexpress.net/nhung-vet-seo-tinh-than-sau-thien-tai-4998104.html",
+      "summary": "Sắp tới 49 ngày của ba, nhưng gia đình anh Lê Tấn Đường (39 tuổi) không biết giờ, ngày chính xác ông qua đời để làm lễ cúng. Họ chỉ đoán ông đi vào đêm nước lớn 19/11 - lũ “đánh úp” khu phố Nam Bình 1, phường Đông Hoà, Đăk Lăk.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:00:00+07:00",
+      "fetched": "2025-12-28T08:06:59.456715+07:00"
+    },
+    {
+      "id": "055c1a9ecb60c88b75b02f7e60d383cc",
+      "title": "Nữ huấn luyện viên giữ dáng săn chắc nhờ gym, pilates",
+      "link": "https://vnexpress.net/nu-huan-luyen-vien-giu-dang-san-chac-nho-gym-pilates-4997509.html",
+      "summary": "Từng suy nhược nhiều năm, chị Huế, 31 tuổi, rẽ hướng làm huấn luyện viên, giữ dáng chắc khỏe nhờ duy trì tập gym, pilates.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:00:00+07:00",
+      "fetched": "2025-12-28T08:06:59.456874+07:00"
+    },
+    {
+      "id": "69cb675fa583437303b35513803f0d6f",
+      "title": "Trẻ em học kỹ năng thoát hiểm trên ôtô tại Vietnam Mobility Show 2025",
+      "link": "https://vnexpress.net/tre-em-hoc-ky-nang-thoat-hiem-tren-oto-tai-vietnam-mobility-show-2025-4999037.html",
+      "summary": "Workshop thoát hiểm trên xe tại Vietnam Mobility Show 2025 hướng dẫn kỹ năng an toàn cho hàng trăm trẻ nhỏ cùng bậc phụ huynh trong tình huống khẩn cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T23:00:00+07:00",
+      "fetched": "2025-12-28T08:06:59.457041+07:00"
+    },
+    {
       "id": "c78ed3024f745e62f295f7f8e3521285",
       "title": "Người đang hưởng trợ cấp hằng tháng được bảo hiểm y tế miễn phí?",
       "link": "https://thanhnien.vn/nguoi-dang-huong-tro-cap-hang-thang-duoc-bao-hiem-y-te-mien-phi-185251227095559711.htm",
@@ -221,6 +631,46 @@ window.newsData_2025_12_28 = {
       "category": "Công nghệ",
       "published": "2025-12-27T22:00:00+07:00",
       "fetched": "2025-12-28T05:11:32.636507+07:00"
+    },
+    {
+      "id": "256ef74083ccfe64c4b1da6130a073d0",
+      "title": "Em bé đầu tiên của ngôi làng trong ba thập kỷ",
+      "link": "https://vnexpress.net/em-be-dau-tien-cua-ngoi-lang-trong-ba-thap-ky-4999032.html",
+      "summary": "Giữa không gian tĩnh lặng hàng chục năm chỉ có tiếng mèo kêu, sự ra đời của bé Lara ở làng Pagliara dei Marsi là một sự kiện, thắp lên hy vọng cho ngôi làng cổ đang dần bị xóa sổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T22:00:00+07:00",
+      "fetched": "2025-12-28T08:06:59.457222+07:00"
+    },
+    {
+      "id": "07d3e32b6929f784e01490c9315cfa9d",
+      "title": "Rủi ro với Mỹ nếu đảm bảo an ninh kiểu NATO cho Ukraine",
+      "link": "https://vnexpress.net/rui-ro-voi-my-neu-dam-bao-an-ninh-kieu-nato-cho-ukraine-4998852.html",
+      "summary": "Cam kết đảm bảo an ninh kiểu NATO cho Ukraine có thể đẩy Mỹ vào nguy cơ đối đầu trực diện với Nga, trong khi khả năng răn đe chưa rõ ràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T22:00:00+07:00",
+      "fetched": "2025-12-28T08:06:59.457382+07:00"
+    },
+    {
+      "id": "4f2980415cb27b945716481718ab53e8",
+      "title": "H'Hen Niê: 'Làm bố mẹ tốt là điều không dễ'",
+      "link": "https://vnexpress.net/h-hen-nie-lam-bo-me-tot-la-dieu-khong-de-4997372.html",
+      "summary": "H'Hen Niê cho biết kiên nhẫn, mạnh mẽ hơn khi làm mẹ, và vợ chồng cô học hỏi, rút kinh nghiệm sống để làm điều tốt nhất cho con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T22:00:00+07:00",
+      "fetched": "2025-12-28T08:06:59.457695+07:00"
+    },
+    {
+      "id": "07d3e32b6929f784e01490c9315cfa9d",
+      "title": "Rủi ro với Mỹ nếu đảm bảo an ninh kiểu NATO cho Ukraine",
+      "link": "https://vnexpress.net/rui-ro-voi-my-neu-dam-bao-an-ninh-kieu-nato-cho-ukraine-4998852.html",
+      "summary": "Cam kết đảm bảo an ninh kiểu NATO cho Ukraine có thể đẩy Mỹ vào nguy cơ đối đầu trực diện với Nga, trong khi khả năng răn đe chưa rõ ràng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-27T22:00:00+07:00",
+      "fetched": "2025-12-28T08:07:08.404991+07:00"
     },
     {
       "id": "f1c5dd09e4e58a9cffce7b0f9bd55e24",
