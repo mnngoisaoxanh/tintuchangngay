@@ -1,7 +1,27 @@
 window.newsData_2025_12_29 = {
   "date": "2025-12-29",
-  "lastUpdated": "2025-12-29T01:18:02.259191+07:00",
+  "lastUpdated": "2025-12-29T03:13:45.583519+07:00",
   "articles": [
+    {
+      "id": "49f04cd22b18c2d2b153480c6ea96536",
+      "title": "Hải Phòng biểu dương 225 học sinh, sinh viên xuất sắc tiêu biểu",
+      "link": "https://tuoitre.vn/hai-phong-bieu-duong-225-hoc-sinh-sinh-vien-xuat-sac-tieu-bieu-20251228231115223.htm",
+      "summary": "Tối 28-12, thành phố Hải Phòng tổ chức lễ biểu dương học sinh, sinh viên xuất sắc tiêu biểu năm 2025 và vận động viên, huấn luyện viên đạt thành tích cao tại SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T03:13:36.176055+07:00",
+      "fetched": "2025-12-29T03:13:36.176187+07:00"
+    },
+    {
+      "id": "a734cdf78e2a913e61ed9030a62a0c12",
+      "title": "Tổng thống Iran: 'Chúng tôi đã mạnh mẽ hơn trước'",
+      "link": "https://tuoitre.vn/tong-thong-iran-chung-toi-da-manh-me-hon-truoc-20251228235132528.htm",
+      "summary": "Tổng thống Iran nói nước này đang đối diện cuộc chiến tổng lực với phương Tây, nhưng tiềm lực quân sự đã mạnh mẽ hơn trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T03:13:36.175804+07:00",
+      "fetched": "2025-12-29T03:13:36.176039+07:00"
+    },
     {
       "id": "f5ba0ba7b17afbcc09da73a25d3d3a21",
       "title": "2 vụ bê bối bóng đá lớn nhất năm 2025: Việt Nam đều là nạn nhân",
@@ -161,6 +181,36 @@ window.newsData_2025_12_29 = {
       "category": "Thế giới",
       "published": "2025-12-28T18:00:00+07:00",
       "fetched": "2025-12-29T01:17:54.041730+07:00"
+    },
+    {
+      "id": "779ca2aa17bb3de5cfa99b8dfe0461e0",
+      "title": "Sự thật y khoa về lời đồn 'thủ dâm sẽ lùn đi'",
+      "link": "https://vnexpress.net/su-that-y-khoa-ve-loi-don-thu-dam-se-lun-di-4999175.html",
+      "summary": "\"Thủ dâm nhiều sẽ lùn đi\" là lời đồn phổ biến khiến không ít bạn trẻ lo lắng, song bác sĩ cho rằng chiều cao phụ thuộc chủ yếu vào gene, hormone, dinh dưỡng và giấc ngủ, không liên quan đến thủ dâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T18:00:00+07:00",
+      "fetched": "2025-12-29T03:13:31.635127+07:00"
+    },
+    {
+      "id": "7013dd32ea78a20ca79f7bc9d6e54a49",
+      "title": "Dấu hiệu sớm cảnh báo sa sút trí tuệ",
+      "link": "https://vnexpress.net/dau-hieu-som-canh-bao-sa-sut-tri-tue-4997868.html",
+      "summary": "Người bị sa sút trí tuệ thường gặp khó khăn trong giải quyết vấn đề, thay đổi tâm trạng và vận động, có thể suy giảm thính lực nhiều năm trước khi được chẩn đoán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T18:00:00+07:00",
+      "fetched": "2025-12-29T03:13:31.635477+07:00"
+    },
+    {
+      "id": "63a6d5e2d88269faad2ce5d5c2f64fa6",
+      "title": "Nhóm lừa tiền hơn 1.000 người bị bắt tại sân bay, cửa khẩu",
+      "link": "https://vnexpress.net/nhom-lua-tien-hon-1-000-nguoi-bi-bat-tai-san-bay-cua-khau-4999305.html",
+      "summary": "22 người làm việc trong \"đại bản doanh lừa đảo\" tại Myanmar, Campuchia chuyên giả danh cán bộ nhà nước dụ đầu tư qua mạng đã bị công an bắt tại sân bay và cửa khẩu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T17:35:17+07:00",
+      "fetched": "2025-12-29T03:13:31.635637+07:00"
     },
     {
       "id": "33df5faf147309c63092d6bd167b88ad",
