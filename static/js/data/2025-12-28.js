@@ -1,7 +1,17 @@
 window.newsData_2025_12_28 = {
   "date": "2025-12-28",
-  "lastUpdated": "2025-12-28T11:37:40.727099+07:00",
+  "lastUpdated": "2025-12-28T13:19:04.776076+07:00",
   "articles": [
+    {
+      "id": "10cbc76cb45658652ecffdf738be1bf1",
+      "title": "Thị trấn ở Anh hủy bắn pháo hoa đêm giao thừa vì một con hải mã?",
+      "link": "https://tuoitre.vn/thi-tran-o-anh-huy-ban-phao-hoa-dem-giao-thua-vi-mot-con-hai-ma-20251227102029602.htm",
+      "summary": "Câu chuyện Scarborough hủy bắn pháo hoa đêm giao thừa để tránh làm phiền giấc ngủ của một con hải mã lan truyền trên nhiều mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:18:56.395605+07:00",
+      "fetched": "2025-12-28T13:18:56.395719+07:00"
+    },
     {
       "id": "74b09683dc28edafe1b697012aa302f3",
       "title": "Áo xanh đưa công nghệ đến từng nhà",
@@ -453,6 +463,276 @@ window.newsData_2025_12_28 = {
       "fetched": "2025-12-28T08:07:06.383559+07:00"
     },
     {
+      "id": "fe26bdabeb8208008bcdd6161b5e6b9a",
+      "title": "Xe cẩu húc đổ thanh chắn trên cầu vượt, rơi trúng hai xe máy",
+      "link": "https://vnexpress.net/xe-cau-huc-do-thanh-chan-tren-cau-vuot-roi-trung-hai-xe-may-4999208.html",
+      "summary": "Xe cẩu đi lên cầu vượt Thái Hà – Chùa Bộc làm đổ thanh giới hạn chiều cao, rơi trúng hai người đi xe máy, sáng 28/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T06:10:49+07:00",
+      "fetched": "2025-12-28T13:18:51.757194+07:00"
+    },
+    {
+      "id": "5a6e6f3e8606228b44cc31cc9278b652",
+      "title": "Cháy cửa hàng điện máy ở trung tâm Vĩnh Long",
+      "link": "https://vnexpress.net/chay-cua-hang-dien-may-o-trung-tam-vinh-long-4999206.html",
+      "summary": "Cửa hàng điện máy rộng hàng trăm m2 ở trung tâm tỉnh Vĩnh Long bốc cháy trong đêm, khói lửa lan nhanh khiến người dân xung quanh hoảng loạn tháo chạy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T06:07:00+07:00",
+      "fetched": "2025-12-28T13:18:51.757373+07:00"
+    },
+    {
+      "id": "633c0ea421a238afad88ceca7f3cdc99",
+      "title": "Xe tải tông sập nhà, một người tử vong",
+      "link": "https://vnexpress.net/xe-tai-tong-sap-nha-mot-nguoi-tu-vong-4999205.html",
+      "summary": "Xe tải chở gỗ keo tràm đi trên đường tỉnh lộ tông vào xe máy và lao vào nhà dân khiến một người chết, 4 người bị thương, ngày 28/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T06:06:11+07:00",
+      "fetched": "2025-12-28T13:18:51.757557+07:00"
+    },
+    {
+      "id": "41fdeb6dc75d61596d5c1b621f371823",
+      "title": "Cựu nhân viên Samsung tuồn công nghệ tỷ USD sang Trung Quốc thế nào",
+      "link": "https://vnexpress.net/cuu-nhan-vien-samsung-tuon-cong-nghe-ty-usd-sang-trung-quoc-the-nao-4999168.html",
+      "summary": "Cựu nhân viên Samsung chép tay 600 bước của quy trình sản xuất DRAM 10 nm trị giá tỷ USD để vượt rào bảo mật, rồi chuyển cho công ty Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T06:00:00+07:00",
+      "fetched": "2025-12-28T13:18:51.757742+07:00"
+    },
+    {
+      "id": "8e9a1e9155b6fb349675f428b7a8dcea",
+      "title": "'Vua du khảo' Đào Kim Trang đam mê khám phá những miền di sản văn hóa",
+      "link": "https://thanhnien.vn/vua-du-khao-dao-kim-trang-dam-me-kham-pha-nhung-mien-di-san-van-hoa-185251228112124678.htm",
+      "summary": "Từng là thành viên sáng lập Hội Du khảo trẻ TP.HCM và nổi tiếng với biệt danh \"vua du khảo\", Đào Kim Trang trở thành  nhân vật truyền cảm hứng cho giới trẻ đam mê xê dịch. Từ tình yêu khám phá những miền di sản văn hóa, ông vừa cho ra mắt bộ lịch treo tường 'Bản đồ Việt Nam 2026: hương rừng – gió bi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:58:00+07:00",
+      "fetched": "2025-12-28T13:18:55.075821+07:00"
+    },
+    {
+      "id": "ecfce547549673629bcbda2851fe16cb",
+      "title": "Nhà cửa chao đảo sau trận động đất gần 7 độ ở Đài Loan",
+      "link": "https://vnexpress.net/nha-cua-chao-dao-sau-tran-dong-dat-gan-7-do-o-dai-loan-4999201.html",
+      "summary": "Trận động đất gần 7 độ ngoài khơi đông bắc Đài Loan khuya 27/12 làm rung lắc mạnh nhiều khu vực, người dân hoảng loạn bỏ chạy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:50:55+07:00",
+      "fetched": "2025-12-28T13:18:51.757906+07:00"
+    },
+    {
+      "id": "e02d31b67f39ab0799be9d5d1b925592",
+      "title": "Thách thức pháp luật, mua bán chim trời công khai",
+      "link": "https://thanhnien.vn/thach-thuc-phap-luat-mua-ban-chim-troi-cong-khai-185251227132626264.htm",
+      "summary": "Dù pháp luật đã có những quy định nghiêm ngặt, việc buôn bán chim trời, thú rừng vẫn diễn ra công khai cả trên mạng xã hội lẫn ngoài đời thực. Từ các “chợ đen” online chỉ cần một cú click chuột, đến những tuyến đường ngoại thành TP.HCM, chim cò, thú rừng bị bày bán, giao dịch ngang nhiên, cho thấy m...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:49:00+07:00",
+      "fetched": "2025-12-28T13:18:55.075989+07:00"
+    },
+    {
+      "id": "531571ff940405174ffeec30c6e5c0fa",
+      "title": "Vụ lật xe chở đoàn thiện nguyện tại Lào Cai: Diễn biến sức khỏe 9 bệnh nhân",
+      "link": "https://thanhnien.vn/vu-lat-xe-cho-doan-thien-nguyen-tai-lao-cai-dien-bien-suc-khoe-9-benh-nhan-185251228123026887.htm",
+      "summary": "Nam bệnh nhân đa chấn thương vẫn rất nguy kịch đang được điều trị tích cực tại Bệnh viện Bạch Mai. Tại Bệnh viện hữu nghị Việt Đức, hai trong số 7 bệnh nhân được chuyển về đang được theo dõi đặc biệt do đa chấn thương, có chấn thương sọ não.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:45:00+07:00",
+      "fetched": "2025-12-28T13:18:55.076147+07:00"
+    },
+    {
+      "id": "50f4a01c7faf98b5fda82f3176dc5fad",
+      "title": "Bất ngờ: Giá vé máy bay Tết Dương lịch hạ nhiệt ngày vàng, chặng hot",
+      "link": "https://thanhnien.vn/bat-ngo-gia-ve-may-bay-tet-duong-lich-ha-nhiet-ngay-vang-chang-hot-185251228123624713.htm",
+      "summary": "Kỳ nghỉ Tết Dương lịch 2026 bất ngờ được thông báo kéo dài tới 4 ngày, nhiều gia đình 'quay xe' đổi kế hoạch đi chơi xa kéo theo lo ngại giá vé máy bay tăng cao ngất ngưởng. Tuy nhiên, thực tế, một số chặng bay 'hot' vẫn còn nhiều chỗ và giá vé khá 'mềm'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:44:00+07:00",
+      "fetched": "2025-12-28T13:18:55.076299+07:00"
+    },
+    {
+      "id": "ab63dbae08b752501134c850aae1d26d",
+      "title": "Mong có 'phép màu' đến với nạn nhân vụ lật xe chở đoàn thiện nguyện",
+      "link": "https://thanhnien.vn/mong-co-phep-mau-den-voi-nan-nhan-vu-lat-xe-cho-doan-thien-nguyen-18525122811391915.htm",
+      "summary": "Ngồi lặng lẽ bên giường bệnh, anh T. (tên nhân vật đã thay đổi) mong có 'phép màu' xảy ra, để em mình sớm hồi phục. Em anh T. là một trong số những nạn nhân vụ lật xe chở đoàn thiện nguyện ở Lào Cai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:43:00+07:00",
+      "fetched": "2025-12-28T13:18:55.076449+07:00"
+    },
+    {
+      "id": "8c9c89c067fff5d1772924be8cbda6cb",
+      "title": "Điểm nhấn khu trưng bày Ford tại triển lãm Vietnam Mobility Show 2025",
+      "link": "https://vnexpress.net/diem-nhan-khu-trung-bay-ford-tai-trien-lam-vietnam-mobility-show-2025-4999058.html",
+      "summary": "Ford Việt Nam mang đến triển lãm dải sản phẩm đa dạng từ hiệu suất cao đến điện hoá, hút hàng nghìn lượt khách tham quan, lái thử, ngày 26-28/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:30:00+07:00",
+      "fetched": "2025-12-28T13:18:51.758067+07:00"
+    },
+    {
+      "id": "d5379b0a73fa06087cf4cfbcd58c39f5",
+      "title": "'Thủ phủ' công nghiệp phường Chơn Thành ở Đồng Nai có 2 dự án cao tốc",
+      "link": "https://thanhnien.vn/thu-phu-cong-nghiep-phuong-chon-thanh-o-dong-nai-co-2-du-an-cao-toc-185251228110037039.htm",
+      "summary": "Là địa phương có 2 dự án cao tốc đi qua, phường Chơn Thành, tỉnh Đồng Nai đang trở thành điểm sáng trong giải phóng mặt bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:29:00+07:00",
+      "fetched": "2025-12-28T13:18:55.076616+07:00"
+    },
+    {
+      "id": "6d426f1ce471b75ac09c2cd65b6996c3",
+      "title": "Những cầu thủ nổi tiếng nào từng công khai chỉ trích CLB?",
+      "link": "https://vnexpress.net/nhung-cau-thu-noi-tieng-nao-tung-cong-khai-chi-trich-clb-4991830.html",
+      "summary": "Trước Mohamed Salah, một số ngôi sao lớn như Roy Keane, Luis Suarez, Romelu Lukaku hay Cristiano Ronaldo từng gây sốc khi công khai chỉ trích CLB chủ quản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:28:41+07:00",
+      "fetched": "2025-12-28T13:18:51.758221+07:00"
+    },
+    {
+      "id": "6d426f1ce471b75ac09c2cd65b6996c3",
+      "title": "Những cầu thủ nổi tiếng nào từng công khai chỉ trích CLB?",
+      "link": "https://vnexpress.net/nhung-cau-thu-noi-tieng-nao-tung-cong-khai-chi-trich-clb-4991830.html",
+      "summary": "Trước Mohamed Salah, một số ngôi sao lớn như Roy Keane, Luis Suarez, Romelu Lukaku hay Cristiano Ronaldo từng gây sốc khi công khai chỉ trích CLB chủ quản.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-28T05:28:41+07:00",
+      "fetched": "2025-12-28T13:19:04.767970+07:00"
+    },
+    {
+      "id": "b18fad31cf3dae34464fa3b34ae6b58d",
+      "title": "10 đôi giày chạy tốt cho runner trình độ trung bình",
+      "link": "https://vnexpress.net/10-doi-giay-chay-tot-cho-runner-trinh-do-trung-binh-4999204.html",
+      "summary": "Runner đã có tích lũy về sức bền, tốc độ cần những đôi giày sở hữu lớp đệm vừa đủ thoải mái và độ nẩy phù hợp cho phép tăng tốc mà không tạo cảm giác nặng nề .",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:26:14+07:00",
+      "fetched": "2025-12-28T13:18:51.758377+07:00"
+    },
+    {
+      "id": "b18fad31cf3dae34464fa3b34ae6b58d",
+      "title": "10 đôi giày chạy tốt cho runner trình độ trung bình",
+      "link": "https://vnexpress.net/10-doi-giay-chay-tot-cho-runner-trinh-do-trung-binh-4999204.html",
+      "summary": "Runner đã có tích lũy về sức bền, tốc độ cần những đôi giày sở hữu lớp đệm vừa đủ thoải mái và độ nẩy phù hợp cho phép tăng tốc mà không tạo cảm giác nặng nề .",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-28T05:26:14+07:00",
+      "fetched": "2025-12-28T13:19:04.769390+07:00"
+    },
+    {
+      "id": "798ac8b669e2051d3cabe673e7c88ecf",
+      "title": "5 review chân thực cho thấy Scar Esthetique vượt trội trong phục hồi da sau mụn",
+      "link": "https://thanhnien.vn/5-review-chan-thuc-cho-thay-scar-esthetique-vuot-troi-trong-phuc-hoi-da-sau-mun-185251228123729344.htm",
+      "summary": "Loạt bằng chứng phục hồi tổn thương sau viêm mụn đầy thuyết phục của kem làm mờ sẹo thâm, rỗ lõm Scar Esthetique.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:24:00+07:00",
+      "fetched": "2025-12-28T13:18:55.076768+07:00"
+    },
+    {
+      "id": "e16dd186f5c6644a66a5a1f0ecf7ed23",
+      "title": "HLV Bồ Đào Nha: 'Ronaldo lan tỏa khát khao trở thành người giỏi nhất'",
+      "link": "https://vnexpress.net/hlv-bo-dao-nha-ronaldo-lan-toa-khat-khao-tro-thanh-nguoi-gioi-nhat-4998589.html",
+      "summary": "Trả lời phỏng vấn tờ Marca, HLV Roberto Martinez nói về tầm ảnh hưởng của Cristiano Ronaldo, việc Diogo Jota qua đời và chiến thắng trước đội tuyển quê hương Tây Ban Nha ở chung kết Nations League 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:22:38+07:00",
+      "fetched": "2025-12-28T13:18:51.758546+07:00"
+    },
+    {
+      "id": "e16dd186f5c6644a66a5a1f0ecf7ed23",
+      "title": "HLV Bồ Đào Nha: 'Ronaldo lan tỏa khát khao trở thành người giỏi nhất'",
+      "link": "https://vnexpress.net/hlv-bo-dao-nha-ronaldo-lan-toa-khat-khao-tro-thanh-nguoi-gioi-nhat-4998589.html",
+      "summary": "Trả lời phỏng vấn tờ Marca, HLV Roberto Martinez nói về tầm ảnh hưởng của Cristiano Ronaldo, việc Diogo Jota qua đời và chiến thắng trước đội tuyển quê hương Tây Ban Nha ở chung kết Nations League 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-28T05:22:38+07:00",
+      "fetched": "2025-12-28T13:19:04.768143+07:00"
+    },
+    {
+      "id": "2ded948b9b912423ae0e8da82f929e64",
+      "title": "Carlympic Family Run 2025 - giải chạy gắn kết gia đình",
+      "link": "https://vnexpress.net/carlympic-family-run-2025-giai-chay-gan-ket-gia-dinh-4999187.html",
+      "summary": "Giải chạy dành cho mọi thành viên trong gia đình bắt đầu trong tiếng cười rộn ràng, những bước chân bé nhỏ xen lẫn nhịp sải đều đặn của ông bà, bố mẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:22:03+07:00",
+      "fetched": "2025-12-28T13:18:51.758711+07:00"
+    },
+    {
+      "id": "cbf81376cbf6be50f4fef400cca87e67",
+      "title": "Mách nước cách chụp ảnh đẹp, sẵn sàng vi vu dịp Tết Dương lịch",
+      "link": "https://thanhnien.vn/mach-nuoc-cach-chup-anh-dep-san-sang-vi-vu-dip-tet-duong-lich-185251228121007158.htm",
+      "summary": "Không cần máy ảnh đắt tiền, chỉ với một chiếc điện thoại thông minh, nhiều người trẻ vẫn có thể sở hữu bộ ảnh xịn sò nếu nắm được vài bí quyết cơ bản về ánh sáng, bố cục và góc chụp. Nên \"lận lưng\" những cách chụp ảnh đẹp để sẵn sàng vi vu dịp Tết Dương lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:22:00+07:00",
+      "fetched": "2025-12-28T13:18:55.076916+07:00"
+    },
+    {
+      "id": "5c337b7a77c3b7be0bb5a700ddd23fa0",
+      "title": "CĐV Thái Lan lại trầm trồ khen bóng đá Việt Nam đi trước thời đại khi cử đội U.21 đá ASIAD",
+      "link": "https://thanhnien.vn/cdv-thai-lan-lai-tram-tro-khen-bong-da-viet-nam-di-truoc-thoi-dai-khi-cu-doi-u21-da-asiad-185251228121519735.htm",
+      "summary": "Thông tin VFF cử đội U.21 Việt Nam tham dự ASIAD năm 2026 khiến giới bóng đá và người hâm mộ bóng đá Thái Lan xôn xao. Nhiều ý kiến cho rằng bóng đá Việt Nam có tầm nhìn đi trước thời đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:21:00+07:00",
+      "fetched": "2025-12-28T13:18:55.077075+07:00"
+    },
+    {
+      "id": "2dda35f078dac17c44e848fd9d8fae90",
+      "title": "Trung vệ Phạm Lý Đức: 'Tôi không thể bỏ cuộc khi nhìn thấy ánh mắt tự hào của cha mẹ'",
+      "link": "https://vnexpress.net/trung-ve-pham-ly-duc-toi-khong-the-bo-cuoc-khi-nhin-thay-anh-mat-tu-hao-cua-cha-me-4998841.html",
+      "summary": "Trung vệ Phạm Lý Đức từng muốn bỏ bóng đá ở tuổi 17, nhưng chỗ dựa từ gia đình cùng sự tin tưởng của các thầy đã giúp anh không đánh rơi vinh quang ở SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:15:32+07:00",
+      "fetched": "2025-12-28T13:18:51.758864+07:00"
+    },
+    {
+      "id": "2dda35f078dac17c44e848fd9d8fae90",
+      "title": "Trung vệ Phạm Lý Đức: 'Tôi không thể bỏ cuộc khi nhìn thấy ánh mắt tự hào của cha mẹ'",
+      "link": "https://vnexpress.net/trung-ve-pham-ly-duc-toi-khong-the-bo-cuoc-khi-nhin-thay-anh-mat-tu-hao-cua-cha-me-4998841.html",
+      "summary": "Trung vệ Phạm Lý Đức từng muốn bỏ bóng đá ở tuổi 17, nhưng chỗ dựa từ gia đình cùng sự tin tưởng của các thầy đã giúp anh không đánh rơi vinh quang ở SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-28T05:15:32+07:00",
+      "fetched": "2025-12-28T13:19:04.768303+07:00"
+    },
+    {
+      "id": "58e5f3554bf276027f2080de81af8e27",
+      "title": "Giải Thanh Niên sinh viên Việt Nam: Vòng loại sẽ khốc liệt với nhiều nhân tố mới",
+      "link": "https://thanhnien.vn/giai-thanh-nien-sinh-vien-viet-nam-vong-loai-se-khoc-liet-voi-nhieu-nhan-to-moi-185251228115538274.htm",
+      "summary": "Có khoảng 10 đội bóng mới xuất hiện tại vòng loại giải bóng đá Thanh Niên sinh viên Việt Nam mùa 4 năm 2026 Cúp Thaco, hứa hẹn sẽ tạo nên nhiều trận đấu rất gay cấn, lôi cuốn và mang lại nhiều bất ngờ, hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:15:00+07:00",
+      "fetched": "2025-12-28T13:18:55.077226+07:00"
+    },
+    {
+      "id": "ff57cbb451638fffecd4d0a6f427de2f",
+      "title": "U.23 Việt Nam và cuộc cạnh tranh nơi hàng công",
+      "link": "https://thanhnien.vn/u23-viet-nam-va-cuoc-canh-tranh-noi-hang-cong-185251225211658592.htm",
+      "summary": "Với sự trở lại của Bùi Vĩ Hào, hàng công đội U.23 VN sẽ trở nên chật chội hơn. HLV Kim Sang-sik sẽ phải rất đau đầu để chọn ra những nhân tố chất lượng cho hành trình tạo tiếng vang ở VCK U.23 châu Á 2026 tại Ả Rập Xê Út.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:15:00+07:00",
+      "fetched": "2025-12-28T13:18:55.077370+07:00"
+    },
+    {
+      "id": "adfb09d5d2f24776dd35da53ada815eb",
+      "title": "Quán ăn ở trung tâm TP.HCM đóng cửa trước thềm 2026: Bà chủ bật khóc tạm biệt khách",
+      "link": "https://thanhnien.vn/quan-an-o-trung-tam-tphcm-dong-cua-truoc-them-2026-ba-chu-bat-khoc-tam-biet-khach-185251227074738895.htm",
+      "summary": "Một quán ăn ở trung tâm TP.HCM, có thâm niên hơn 35 năm bất ngờ thông báo đóng cửa trước thềm tết dương lịch 2026 khiến nhiều khách quen… sốc và nuối tiếc. Trước những lời hỏi thăm của khách, bà chủ đã bật khóc xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:12:00+07:00",
+      "fetched": "2025-12-28T13:18:55.077514+07:00"
+    },
+    {
       "id": "8854a0cb3407722b1260b84f00e027e8",
       "title": "Thời tiết hôm nay 28-12: Không khí lạnh chi phối thời tiết cả nước",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-28-12-khong-khi-lanh-chi-phoi-thoi-tiet-ca-nuoc-20251227154018276.htm",
@@ -461,6 +741,96 @@ window.newsData_2025_12_28 = {
       "category": "Tổng hợp",
       "published": "2025-12-28T05:11:27.180179+07:00",
       "fetched": "2025-12-28T05:11:27.180384+07:00"
+    },
+    {
+      "id": "44f3efa988eb4d5be0dd110544c909b0",
+      "title": "Plasma lạnh chăm sóc vết thương tốt không: Hiệu quả thực tế và ứng dụng lâm sàng",
+      "link": "https://thanhnien.vn/plasma-lanh-cham-soc-vet-thuong-tot-khong-hieu-qua-thuc-te-va-ung-dung-lam-sang-185251228122052876.htm",
+      "summary": "Trong y học hiện đại, điều trị vết thương không còn đơn thuần là kiểm soát nhiễm khuẩn mà hướng tới mục tiêu thúc đẩy quá trình lành thương sinh học, rút ngắn thời gian phục hồi và tối ưu chất lượng mô sau lành ngăn ngừa sẹo xấu. Và Plasma Lạnh (Cold Plasma) đang được xem là một trong những công ngh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:10:00+07:00",
+      "fetched": "2025-12-28T13:18:55.077687+07:00"
+    },
+    {
+      "id": "b424119245ea181a45cdc3b4d08beb2d",
+      "title": "Sai lầm loại Thạc sĩ IELTS 7.5 để tuyển cử nhân nhiều kinh nghiệm",
+      "link": "https://vnexpress.net/sai-lam-loai-thac-si-ielts-7-5-de-tuyen-cu-nhan-nhieu-kinh-nghiem-4999199.html",
+      "summary": "Nhiều doanh nghiệp muốn tiết kiệm thời gian đào tạo, tuyển người làm được việc ngay, thay vì chọn người có học vấn cao nhưng chưa va chạm thực tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:09:43+07:00",
+      "fetched": "2025-12-28T13:18:51.759014+07:00"
+    },
+    {
+      "id": "3c85728e9c1b76e8e60580f6b7ade374",
+      "title": "U.23 Việt Nam bí ẩn trước giờ G, cơ hội cho Bùi Vĩ Hào...",
+      "link": "https://thanhnien.vn/u23-viet-nam-bi-an-truoc-gio-g-co-hoi-cho-bui-vi-hao-185251228115604024.htm",
+      "summary": "Đội tuyển U.23 Việt Nam đang tích cực tập luyện tại Qatar trước khi sang Ả Rập Xê Út, nơi tất cả đang nín thở chờ HLV Kim Sang-sik có chọn Vĩ Hào làm 'quân bài tẩy' đặc biệt hay không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:03:00+07:00",
+      "fetched": "2025-12-28T13:18:55.077835+07:00"
+    },
+    {
+      "id": "771e87c849b16275185b4a6b879d065d",
+      "title": "'Lý Mạc Sầu đẹp nhất màn ảnh' bình yên sau sóng gió",
+      "link": "https://vnexpress.net/ly-mac-sau-dep-nhat-man-anh-binh-yen-sau-song-gio-4999148.html",
+      "summary": "Diễn viên Hong Kong Tuyết Lê, nổi tiếng với vai Lý Mạc Sầu, nói hiện sống thảnh thơi sau nhiều năm vất vả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:00:00+07:00",
+      "fetched": "2025-12-28T13:18:51.759170+07:00"
+    },
+    {
+      "id": "36575e38e7fc861d68b168d4d23848ba",
+      "title": "Mệt mỏi khi phải sắp xếp về cả hai bên nội ngoại mỗi dịp lễ",
+      "link": "https://vnexpress.net/met-moi-khi-phai-sap-xep-ve-ca-hai-ben-noi-ngoai-moi-dip-le-4999059.html",
+      "summary": "Có những kỳ nghỉ lễ được ba, bốn ngày, thay vì được nghỉ ngơi, tôi lại bắt đầu tính toán lịch trình: nay về bên này, mai sang bên kia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:00:00+07:00",
+      "fetched": "2025-12-28T13:18:51.759325+07:00"
+    },
+    {
+      "id": "9599111a502e744d785663ad309b7d22",
+      "title": "Gạo nước nào ngon nhất thế giới?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-gao-nuoc-nao-ngon-nhat-the-gioi-4998048.html",
+      "summary": "Sau hai lần giành giải nhất (2019 và 2023), giống gạo của quốc gia này một lần nữa đạt giải Nhất cuộc thi 'Gạo ngon nhất thế giới' năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:00:00+07:00",
+      "fetched": "2025-12-28T13:18:51.759478+07:00"
+    },
+    {
+      "id": "e10e5cd323520de9bbdc0e584eacf4c8",
+      "title": "Chân váy midi nhẹ nhàng nhưng đủ tạo dấu ấn thời trang riêng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chan-vay-midi-nhe-nhang-nhung-du-tao-dau-an-thoi-trang-rieng-185251226210853094.htm",
+      "summary": "Không phô trương nhưng luôn cuốn hút, chân váy midi chinh phục nàng bằng vẻ đẹp nhẹ nhàng, thanh lịch và khả năng tạo dấu ấn riêng cho mỗi bản phối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T05:00:00+07:00",
+      "fetched": "2025-12-28T13:18:55.077984+07:00"
+    },
+    {
+      "id": "c2b2c9215add178065c563283688e1b3",
+      "title": "Loạt điện thoại AI cận cao cấp năm 2025",
+      "link": "https://vnexpress.net/loat-dien-thoai-ai-can-cao-cap-nam-2025-4999115.html",
+      "summary": "Nhiều smartphone cận cao cấp 2025 được trang bị bộ công cụ AI hỗ trợ đầy đủ cho công việc, sáng tạo nội dung và chơi game.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-28T04:55:00+07:00",
+      "fetched": "2025-12-28T13:19:03.679187+07:00"
+    },
+    {
+      "id": "5ccfb59d9366167954f134c16621d60d",
+      "title": "Mexico bất ngờ hưởng lợi từ thuế nhập khẩu của ông Trump",
+      "link": "https://vnexpress.net/mexico-bat-ngo-huong-loi-tu-thue-nhap-khau-cua-ong-trump-4999153.html",
+      "summary": "Khi Tổng thống Mỹ nâng thuế nhập khẩu đầu năm nay, giới chức lo ngại Mexico sẽ chịu cú sốc nghiêm trọng, nhưng thực tế lại ngược lại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-28T04:39:26+07:00",
+      "fetched": "2025-12-28T13:19:00.682255+07:00"
     },
     {
       "id": "d4c08066eb30a5ac6a430df8ac724c58",
