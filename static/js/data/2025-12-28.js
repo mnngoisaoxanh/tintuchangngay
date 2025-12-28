@@ -1,7 +1,157 @@
 window.newsData_2025_12_28 = {
   "date": "2025-12-28",
-  "lastUpdated": "2025-12-28T17:12:20.525701+07:00",
+  "lastUpdated": "2025-12-28T19:22:37.990935+07:00",
   "articles": [
+    {
+      "id": "8b804d643a7fb3c0dca23412bdd4ad27",
+      "title": "Mùa xuân trong Tết Bính Ngọ được kể qua văn, thơ, nhạc, họa",
+      "link": "https://tuoitre.vn/mua-xuan-trong-tet-binh-ngo-duoc-ke-qua-van-tho-nhac-hoa-202512281400547.htm",
+      "summary": "Tiếp nối hành trình từ năm 2019, dự án Sách Tết do Đông A thực hiện tiếp tục ra mắt ấn phẩm mới mang tên 'Sách Tết Bính Ngọ 2026', hội tụ văn chương, thơ ca, âm nhạc và hội họa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.571982+07:00",
+      "fetched": "2025-12-28T19:22:30.572091+07:00"
+    },
+    {
+      "id": "83c26f2718fe77da6252c6374e06e74e",
+      "title": "Bóng bàn Việt Nam gặt hái thành tích trên đất Mỹ",
+      "link": "https://tuoitre.vn/bong-ban-viet-nam-gat-hai-thanh-tich-tren-dat-my-20251228084605451.htm",
+      "summary": "Sau hơn 10 ngày tập huấn và thi đấu trên đất Mỹ, đội bóng bàn trẻ Việt Nam đã khép lại hành trình ở giải Mỹ mở rộng với thành tích 3 HCB, 1 HCĐ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.571861+07:00",
+      "fetched": "2025-12-28T19:22:30.571971+07:00"
+    },
+    {
+      "id": "dd8cd6334c67ad8b79743aec1f12a378",
+      "title": "Trụ sở dôi dư ở Cần Thơ ưu tiên phục vụ cộng đồng",
+      "link": "https://tuoitre.vn/tru-so-doi-du-o-can-tho-uu-tien-phuc-vu-cong-dong-20251228154658999.htm",
+      "summary": "Cần Thơ ưu tiên bố trí, chuyển đổi công năng các trụ sở, nhà đất dôi dư phục vụ y tế, giáo dục - đào tạo, văn hóa, thể thao và các mục đích công cộng khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.571739+07:00",
+      "fetched": "2025-12-28T19:22:30.571850+07:00"
+    },
+    {
+      "id": "b9da01ab33b36304708912be3affa3cb",
+      "title": "Thêm một trường đại học ở TP.HCM đào tạo bác sĩ",
+      "link": "https://tuoitre.vn/them-mot-truong-dai-hoc-o-tphcm-dao-tao-bac-si-20251228160559766.htm",
+      "summary": "Trường đại học Công nghệ TP.HCM sẽ tuyển sinh, đào tạo bác sĩ với hai ngành y khoa và y học cổ truyền trình độ đại học chính quy từ năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.571617+07:00",
+      "fetched": "2025-12-28T19:22:30.571728+07:00"
+    },
+    {
+      "id": "665aa2ee4d0abe909f6f2b7465747f6a",
+      "title": "Bộ trưởng Bộ Y tế báo tin vui cho người dân miền Tây",
+      "link": "https://tuoitre.vn/bo-truong-bo-y-te-bao-tin-vui-cho-nguoi-dan-mien-tay-20251228161043984.htm",
+      "summary": "Bộ trưởng Bộ Y tế Đào Hồng Lan thông tin về việc mua hai máy xạ trị cho Bệnh viện Ung bướu Cần Thơ hiện hữu và tiến độ khởi động lại dự án Bệnh viện Ung bướu Cần Thơ đang xây dở dang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.571493+07:00",
+      "fetched": "2025-12-28T19:22:30.571606+07:00"
+    },
+    {
+      "id": "b17a5a4d2dc689a8f5cbabcf68c7b7e5",
+      "title": "Yamal khoe 'nút vàng' Youtube chỉ sau 5 ngày ra mắt kênh",
+      "link": "https://tuoitre.vn/yamal-khoe-nut-vang-youtube-chi-sau-5-ngay-ra-mat-kenh-20251228163120429.htm",
+      "summary": "Ngôi sao 18 tuổi Lamine Yamal tự hào khoe nút vàng Youtube chỉ sau 5 ngày ra mắt kênh, khi số người đăng ký đạt mốc 1 triệu. Tuy nhiên thành tích của Yamal còn lâu mới sánh kịp Cristiano Ronaldo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.571364+07:00",
+      "fetched": "2025-12-28T19:22:30.571481+07:00"
+    },
+    {
+      "id": "fd399275424ec729f06f8c223221e071",
+      "title": "Người dân đảo Phú Quý chi gần 500 triệu đồng thuê trực thăng đưa bệnh nhân vào đất liền",
+      "link": "https://tuoitre.vn/nguoi-dan-dao-phu-quy-chi-gan-500-trieu-dong-thue-truc-thang-dua-benh-nhan-vao-dat-lien-20251228162838391.htm",
+      "summary": "Do điều kiện y tế tại đảo Phú Quý còn khó khăn, trong lúc tàu cao tốc tạm dừng hoạt động do sóng to nên người dân bỏ ra gần 500 triệu đồng thuê trực thăng chở bệnh nhân vào đất liền điều trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.571228+07:00",
+      "fetched": "2025-12-28T19:22:30.571348+07:00"
+    },
+    {
+      "id": "8d77139fad70f60d7df9eb670d43f826",
+      "title": "15.000 người tham gia Giải Việt dã TP.HCM chào năm mới 2026",
+      "link": "https://tuoitre.vn/15-000-nguoi-tham-gia-giai-viet-da-tp-hcm-chao-nam-moi-2026-20251228163751522.htm",
+      "summary": "Ngày 28-12, Giải Việt dã TP.HCM chào năm mới 2026 – Cúp HTV – Becamex với chủ đề \"Tiến vào kỷ nguyên mới\" đã diễn ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.571061+07:00",
+      "fetched": "2025-12-28T19:22:30.571215+07:00"
+    },
+    {
+      "id": "7b38a6c04ba158cfca3490bf0c936fc3",
+      "title": "Hàng trăm cây bonsai trưng bày dịp Festival hoa kiểng Sa Đéc",
+      "link": "https://tuoitre.vn/hang-tram-cay-bonsai-trung-bay-dip-festival-hoa-kieng-sa-dec-20251228163448236.htm",
+      "summary": "Tại Bảo tàng Bonsai Sa Đéc, phường Sa Đéc, tỉnh Đồng Tháp đang trưng bày hơn 200 tác phẩm tham gia hội thi Bonsai Đồng bằng sông Cửu Long mở rộng. Cuộc thi nhằm hưởng hứng Festival hoa kiểng Sa Đéc lần thứ 2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.570935+07:00",
+      "fetched": "2025-12-28T19:22:30.571049+07:00"
+    },
+    {
+      "id": "b7600216b25a0d01c1a14a4d3bed96ce",
+      "title": "Lương 8 triệu mà xài hết 9 triệu rồi bỏ phố về quê, đừng lấy lý do chăm sóc cha mẹ",
+      "link": "https://tuoitre.vn/luong-8-trieu-ma-xai-het-9-trieu-roi-bo-pho-ve-que-dung-lay-ly-do-cham-soc-cha-me-20251224094803231.htm",
+      "summary": "Nhiều bạn đọc cho rằng hiện trạng nhiều bạn trẻ bỏ phố về quê xuất phát từ việc không có kỹ năng quản lý chi tiêu, về để 'ăn bám' cha mẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.570802+07:00",
+      "fetched": "2025-12-28T19:22:30.570923+07:00"
+    },
+    {
+      "id": "d4392e67be4f656840f238140fcde526",
+      "title": "Xe hết xăng giữa đêm, đặt mang cả trạm xăng đến tận nhà",
+      "link": "https://tuoitre.vn/xe-het-xang-giua-dem-dat-mang-ca-tram-xang-den-tan-nha-20251228090110824.htm",
+      "summary": "Một đoạn video ghi lại cảnh chiếc Rolls-Royce hết xăng được tiếp nhiên liệu ngay trước cửa nhà tại Dubai đang lan truyền mạnh trên mạng xã hội, thu hút hàng chục triệu lượt xem và nhiều bình luận hài hước từ cộng đồng mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.570670+07:00",
+      "fetched": "2025-12-28T19:22:30.570787+07:00"
+    },
+    {
+      "id": "63b447b3b042f5c27b249c639a467f40",
+      "title": "Nhiều video sai sự thật liên quan người Hồi giáo phá cây thông Noel dịp Giáng sinh",
+      "link": "https://tuoitre.vn/nhieu-video-sai-su-that-lien-quan-nguoi-hoi-giao-pha-cay-thong-noel-dip-giang-sinh-20251227102135095.htm",
+      "summary": "Các video ghi lại sự kiện hay tai nạn liên quan đến cây thông Noel đang lan truyền sai sự thật tại châu Âu và Bắc Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.570536+07:00",
+      "fetched": "2025-12-28T19:22:30.570658+07:00"
+    },
+    {
+      "id": "0f26dd78e8632e70f3484a4cd08033ef",
+      "title": "Công an 'đột kích' quán bar Maybach và Qlounge 135 ở Ninh Bình phát hiện 30 người dương tính ma túy",
+      "link": "https://tuoitre.vn/cong-an-dot-kich-quan-bar-maybach-va-qlounge-135-o-ninh-binh-phat-hien-30-nguoi-duong-tinh-ma-tuy-20251228165515552.htm",
+      "summary": "Công an tỉnh Ninh Bình kiểm tra hai quán bar Maybach và Qlounge 135, phát hiện 30 người dương tính ma túy và đã bắt giữ những người sử dụng, tổ chức sử dụng trái phép ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.570405+07:00",
+      "fetched": "2025-12-28T19:22:30.570524+07:00"
+    },
+    {
+      "id": "26d019d33fd8ca45263f605d3bb22eb7",
+      "title": "2 cú hole in one bất ngờ xuất hiện tại Giải golf phong trào HTV Swing Cup",
+      "link": "https://tuoitre.vn/2-cu-hole-in-one-bat-ngo-xuat-hien-tai-giai-golf-phong-trao-htv-swing-cup-20251228165542636.htm",
+      "summary": "Dù là một giải phong trào, nhưng Giải golf HTV Swing Cup lại ghi nhận thành tích khó tin với 2 cú hole in one chỉ sau 2 ngày tranh tài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.570262+07:00",
+      "fetched": "2025-12-28T19:22:30.570392+07:00"
+    },
+    {
+      "id": "3b34d1b4963db7eeff0bbc8dda788a85",
+      "title": "Báo Tuổi Trẻ và GREENFEED giúp đồng bào vùng cao tái thiết sau bão lũ",
+      "link": "https://tuoitre.vn/bao-tuoi-tre-va-greenfeed-giup-dong-bao-vung-cao-tai-thiet-sau-bao-lu-20251228164604404.htm",
+      "summary": "Ngày 28-12, báo Tuổi Trẻ, Tỉnh Đoàn Thanh Hóa cùng với Công ty cổ phần GREENFEED Việt Nam tổ chức chương trình trao vốn \"Tiếp sức đồng bào miền Bắc - miền Trung tái thiết cuộc sống sau bão lũ\" cho người dân hai xã vùng cao Yên Thắng, Đồng Lương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T19:22:30.570017+07:00",
+      "fetched": "2025-12-28T19:22:30.570245+07:00"
+    },
     {
       "id": "cdb2e3ecbd48692ded0601ba8c619a0b",
       "title": "Thủ tướng yêu cầu thi công cầu vượt biển ra Hòn Khoai phải đẹp để gắn với du lịch",
@@ -283,6 +433,96 @@ window.newsData_2025_12_28 = {
       "fetched": "2025-12-28T13:18:56.395719+07:00"
     },
     {
+      "id": "9aee3bdecf1d6fb7d75f05e19f91afc8",
+      "title": "Huyền thoại điện ảnh Pháp Brigitte Bardot qua đời",
+      "link": "https://thanhnien.vn/huyen-thoai-dien-anh-phap-brigitte-bardot-qua-doi-185251228191613015.htm",
+      "summary": "Brigitte Bardot, nữ diễn viên huyền thoại của điện ảnh Pháp và biểu tượng văn hóa thế kỷ 20, đã qua đời ở tuổi 91 tại nhà riêng ở miền Nam nước Pháp, người đại diện của Brigitte Bardot Foundation xác nhận hôm nay. Theo hãng tin AP, Bardot qua đời ngày 28.12 và nguyên nhân tử vong chưa được tiết lộ c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T12:15:00+07:00",
+      "fetched": "2025-12-28T19:22:29.239161+07:00"
+    },
+    {
+      "id": "0e6ec13d1255fef67d0c51eb75f98501",
+      "title": "Chờ đợi gì ở U.23 Việt Nam tại VCK châu Á?",
+      "link": "https://thanhnien.vn/cho-doi-gi-o-u23-viet-nam-tai-vck-chau-a-185251227213748477.htm",
+      "summary": "Lần thứ 6 liên tiếp góp mặt ở VCK U.23 châu Á, U.23 VN không còn là cái tên 'dự cho đủ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T12:05:00+07:00",
+      "fetched": "2025-12-28T19:22:29.239341+07:00"
+    },
+    {
+      "id": "e72dab04eca4912b3fa3503aef3d543a",
+      "title": "Vượt đèn đỏ, tài xế taxi bị phạt nặng",
+      "link": "https://thanhnien.vn/vuot-den-do-tai-xe-taxi-bi-phat-nang-185251228174400831.htm",
+      "summary": "Từ phản ánh của người dân gửi qua ứng dụng VNeTraffic và fanpage Cục CSGT, Phòng CSGT Công an TP.Đà Nẵng đã xác minh, xử phạt nặng đối với tài xế taxi vượt đèn đỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:57:00+07:00",
+      "fetched": "2025-12-28T19:22:29.239502+07:00"
+    },
+    {
+      "id": "da1b863c92f41786c3c0486ba19ec1ad",
+      "title": "22 người trong băng tội phạm mạng lừa hơn 1.000 tỷ đồng bị bắt",
+      "link": "https://vnexpress.net/22-nguoi-trong-bang-nhom-lua-hon-1-000-ty-dong-qua-goi-dien-thoai-bi-bat-4999262.html",
+      "summary": "Lương Xuân Duyên và Phạm Văn Diệm bị cáo buộc tham gia tổ chức tội phạm hoạt động tại Myanmar và Campuchia, lừa hơn 1.000 người, chiếm đoạt 120 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:56:41+07:00",
+      "fetched": "2025-12-28T19:22:26.322657+07:00"
+    },
+    {
+      "id": "8be39e50fe252f781493798b566db437",
+      "title": "3 cháu bé đuối nước tử vong khi tắm hồ ở Đắk Lắk",
+      "link": "https://thanhnien.vn/3-chau-be-duoi-nuoc-tu-vong-khi-tam-ho-o-dak-lak-185251228172827383.htm",
+      "summary": "Ba cháu bé ở Đắk Lắk đi tắm hồ gần nhà, bị đuối nước tử vong, dù người dân đã đến ứng cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:53:00+07:00",
+      "fetched": "2025-12-28T19:22:29.239658+07:00"
+    },
+    {
+      "id": "112cf6dac9a3dff8b5b0fbdeee5e42b9",
+      "title": "Đỗ Thị Hà ngưng kinh doanh để vun vén hôn nhân",
+      "link": "https://vnexpress.net/do-thi-ha-ngung-kinh-doanh-de-vun-ven-hon-nhan-4999257.html",
+      "summary": "Hoa hậu Đỗ Thị Hà cho biết dừng vị trí CEO của một công ty về mỹ phẩm để chu toàn vai trò người vợ sau khi kết hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:48:19+07:00",
+      "fetched": "2025-12-28T19:22:26.322843+07:00"
+    },
+    {
+      "id": "5f945ee20a3554279815eab509a2d327",
+      "title": "Quảng Trị: Hai bố con lao xuống kênh nước xiết cứu 3 người đuối nước",
+      "link": "https://thanhnien.vn/quang-tri-hai-bo-con-lao-xuong-kenh-nuoc-xiet-cuu-3-nguoi-duoi-nuoc-185251228174202882.htm",
+      "summary": "Trong lúc đi trên đường thì phát hiện có người đuối nước dưới kênh, hai bố con ông Nguyễn Thành Viên không do dự lao xuống dòng nước xiết, cứu 3 người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:46:00+07:00",
+      "fetched": "2025-12-28T19:22:29.239819+07:00"
+    },
+    {
+      "id": "901ecfa7ae8f3982466c3c8b7f1dfebe",
+      "title": "Chuyên gia chia sẻ cách chăm sóc vết mổ sau phẫu thuật phục hồi nhanh, ngừa sẹo",
+      "link": "https://thanhnien.vn/chuyen-gia-chia-se-cach-cham-soc-vet-mo-sau-phau-thuat-phuc-hoi-nhanh-ngua-seo-185251228185710537.htm",
+      "summary": "Trong thực hành lâm sàng, không ít ca phẫu thuật được đánh giá thành công về mặt kỹ thuật nhưng kết quả thẩm mỹ cuối cùng lại không đạt kỳ vọng do sẹo sau mổ. Thực tế này cho thấy, bên cạnh tay nghề phẫu thuật, quy trình chăm sóc vết mổ hậu phẫu đóng vai trò then chốt, quyết định tốc độ phục hồi và ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:44:00+07:00",
+      "fetched": "2025-12-28T19:22:29.239972+07:00"
+    },
+    {
+      "id": "ba0d4f842640eace45c21dfd7059fc2f",
+      "title": "Đạo diễn Nguyễn Quang Dũng lên tiếng về ồn ào ‘tuyển trợ lý không lương’",
+      "link": "https://thanhnien.vn/dao-dien-nguyen-quang-dung-len-tieng-ve-on-ao-tuyen-tro-ly-khong-luong-185251228133351726.htm",
+      "summary": "Trước những tranh cãi liên quan đến bài đăng tuyển trợ lý không lương, Nguyễn Quang Dũng đã có những phản hồi gây chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:44:00+07:00",
+      "fetched": "2025-12-28T19:22:29.240135+07:00"
+    },
+    {
       "id": "74b09683dc28edafe1b697012aa302f3",
       "title": "Áo xanh đưa công nghệ đến từng nhà",
       "link": "https://tuoitre.vn/ao-xanh-dua-cong-nghe-den-tung-nha-20251228094322389.htm",
@@ -431,6 +671,116 @@ window.newsData_2025_12_28 = {
       "category": "Tổng hợp",
       "published": "2025-12-28T11:37:34.101415+07:00",
       "fetched": "2025-12-28T11:37:34.101618+07:00"
+    },
+    {
+      "id": "e496dde79c0737623cfb0fb3550fa714",
+      "title": "Nhiều doanh nghiệp Mỹ không muốn tuyển nhân viên năm 2026",
+      "link": "https://vnexpress.net/nhieu-doanh-nghiep-my-khong-muon-tuyen-nhan-vien-nam-2026-4999244.html",
+      "summary": "Bất ổn kinh tế và sự phát triển của AI khiến nhiều công ty Mỹ muốn duy trì bộ máy hiện tại sang năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:29:31+07:00",
+      "fetched": "2025-12-28T19:22:26.323009+07:00"
+    },
+    {
+      "id": "e496dde79c0737623cfb0fb3550fa714",
+      "title": "Nhiều doanh nghiệp Mỹ không muốn tuyển nhân viên năm 2026",
+      "link": "https://vnexpress.net/nhieu-doanh-nghiep-my-khong-muon-tuyen-nhan-vien-nam-2026-4999244.html",
+      "summary": "Bất ổn kinh tế và sự phát triển của AI khiến nhiều công ty Mỹ muốn duy trì bộ máy hiện tại sang năm 2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-28T11:29:31+07:00",
+      "fetched": "2025-12-28T19:22:34.046770+07:00"
+    },
+    {
+      "id": "dad68f4bb4c16224795078a125d91bda",
+      "title": "'Công thức đòn bẩy giúp tôi tích sản dù chỉ làm công ăn lương'",
+      "link": "https://vnexpress.net/cong-thuc-don-bay-giup-toi-tich-san-du-chi-lam-cong-an-luong-4999240.html",
+      "summary": "'Sau 15 năm, vợ chồng tôi vẫn làm đúng một công việc ở công ty cũ và tiết kiệm đều, nhưng đã có trong tay nhiều nhà, đất, xe hơi'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:23:34+07:00",
+      "fetched": "2025-12-28T19:22:26.323190+07:00"
+    },
+    {
+      "id": "fa063db7c5e6447d900d79954c2556f8",
+      "title": "Chia tay 3 năm nhưng tôi và anh đều chưa thể quên nhau",
+      "link": "https://vnexpress.net/chia-tay-3-nam-nhung-toi-va-anh-deu-chua-the-quen-nhau-4999127.html",
+      "summary": "Tôi chưa biết làm thế nào để bắt đầu cuộc tình mới, dù xung quanh có một vài người muốn tìm hiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:23:13+07:00",
+      "fetched": "2025-12-28T19:22:26.323350+07:00"
+    },
+    {
+      "id": "c02590e7ba2bb6366123fbd2da2031e1",
+      "title": "Triệt phá đường dây sản xuất dầu gió từ hóa chất",
+      "link": "https://vnexpress.net/triet-pha-duong-day-san-xuat-dau-gio-tu-hoa-chat-4999248.html",
+      "summary": "Sử dụng hóa chất trôi nổi, vợ chồng Nguyễn Phương Hoàn, 36 tuổi, cầm đầu đường dây pha chế, sang chiết dầu gió giả với quy mô lớn, đưa ra thị trường tiêu thụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:23:04+07:00",
+      "fetched": "2025-12-28T19:22:26.323511+07:00"
+    },
+    {
+      "id": "99ad25c0623a4ecd02b52a2df2029676",
+      "title": "Nghề trồng hoa kiểng ở Sa Đéc là di sản văn hóa phi vật thể quốc gia",
+      "link": "https://thanhnien.vn/nghe-trong-hoa-kieng-o-sa-dec-la-di-san-van-hoa-phi-vat-the-quoc-gia-18525122814212274.htm",
+      "summary": "Hơn 100 năm lưu giữ tinh hoa tri thức dân gian, lịch sử và ký ức cộng đồng, nghề trồng hoa kiểng ở Sa Đéc (Đồng Tháp) đã được công nhận là di sản văn hóa phi vật thể quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:02:00+07:00",
+      "fetched": "2025-12-28T19:22:29.240294+07:00"
+    },
+    {
+      "id": "1d6d51aa30a48e8f05dbe082bbe2553e",
+      "title": "Chương Tử Di viết thư cho con gái",
+      "link": "https://vnexpress.net/chuong-tu-di-viet-thu-cho-con-gai-4999229.html",
+      "summary": "Diễn viên Trung Quốc Chương Tử Di viết cho con nhân sinh nhật, tự hỏi \"mẹ cần yêu thương con thế nào?\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:00:00+07:00",
+      "fetched": "2025-12-28T19:22:26.323668+07:00"
+    },
+    {
+      "id": "28b0b1ad10549e2bdc0e3d6d53fc19e5",
+      "title": "Người dùng bối rối vì Zalo bất ngờ cập nhật điều khoản sử dụng",
+      "link": "https://vnexpress.net/vi-sao-zalo-bat-ngo-cap-nhat-dieu-khoan-su-dung-4999181.html",
+      "summary": "Nhiều người dùng cảm thấy bối rối khi Zalo cập nhật điều khoản sử dụng, yêu cầu đồng ý, nếu không sẽ xóa tài khoản, trong khi nền tảng nói \"muốn minh bạch\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:00:00+07:00",
+      "fetched": "2025-12-28T19:22:26.323826+07:00"
+    },
+    {
+      "id": "28b0b1ad10549e2bdc0e3d6d53fc19e5",
+      "title": "Người dùng bối rối vì Zalo bất ngờ cập nhật điều khoản sử dụng",
+      "link": "https://vnexpress.net/vi-sao-zalo-bat-ngo-cap-nhat-dieu-khoan-su-dung-4999181.html",
+      "summary": "Nhiều người dùng cảm thấy bối rối khi Zalo cập nhật điều khoản sử dụng, yêu cầu đồng ý, nếu không sẽ xóa tài khoản, trong khi nền tảng nói \"muốn minh bạch\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-28T11:00:00+07:00",
+      "fetched": "2025-12-28T19:22:36.602650+07:00"
+    },
+    {
+      "id": "ac6ae35e9fff04277857218cae4aef2d",
+      "title": "Đại tướng Phan Văn Giang trao Huân chương Bảo vệ Tổ quốc hạng nhất cho Quân khu 7",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-trao-huan-chuong-bao-ve-to-quoc-hang-nhat-cho-quan-khu-7-185251228143057335.htm",
+      "summary": "Thừa ủy quyền của Chủ tịch nước, đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng đã trao tặng Huân chương Bảo vệ Tổ quốc hạng nhất cho Quân khu 7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:57:00+07:00",
+      "fetched": "2025-12-28T19:22:29.240444+07:00"
+    },
+    {
+      "id": "0e50837522f5df45db46891c80e8427c",
+      "title": "Ba đứa trẻ tử vong dưới hồ",
+      "link": "https://vnexpress.net/ba-dua-tre-tu-vong-duoi-ho-4999251.html",
+      "summary": "Ba cháu nhỏ 7 và 8 tuổi tắm ở hồ tưới cà phê gần nhà bị đuối nước, trong đó có hai anh em, trưa 28/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:44:52+07:00",
+      "fetched": "2025-12-28T19:22:26.323986+07:00"
     },
     {
       "id": "c6d17aa096fe4a95b5c0388849a8437f",
@@ -583,6 +933,56 @@ window.newsData_2025_12_28 = {
       "fetched": "2025-12-28T10:30:12.126750+07:00"
     },
     {
+      "id": "081ffb3f5c89192ab4d27ef4e04769f8",
+      "title": "Cửa hàng điện máy bốc cháy giữa đêm, cả khu dân cư hốt hoảng",
+      "link": "https://thanhnien.vn/cua-hang-dien-may-boc-chay-giua-dem-ca-khu-dan-cu-hot-hoang-185251228125202571.htm",
+      "summary": "Ngày 28.12.2025, Phòng cảnh sát PCCC-CNCH (PC07) Công an tỉnh Vĩnh Long cho biết, đơn vị đang tiếp tục phối hợp với các đơn vị nghiệp vụ xác định thiệt hại và điều tra nguyên nhân vụ cháy cửa hàng điện máy tối qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:22:00+07:00",
+      "fetched": "2025-12-28T19:22:29.240593+07:00"
+    },
+    {
+      "id": "f9ef85863be1625e29e3615e3e5c4a56",
+      "title": "U.23 Việt Nam khao khát chinh phục đấu trường châu lục, khán giả thưởng thức ở kênh nào?",
+      "link": "https://thanhnien.vn/u23-viet-nam-khao-khat-chinh-phuc-dau-truong-chau-luc-khan-gia-thuong-thuc-o-kenh-nao-185251226234314795.htm",
+      "summary": "Với những gì đã thể hiện trong thời gian qua, U.23 Việt Nam được kỳ vọng sẽ duy trì vị thế đội bóng Đông Nam Á thành công nhất VCK U.23 châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:19:00+07:00",
+      "fetched": "2025-12-28T19:22:29.240750+07:00"
+    },
+    {
+      "id": "077fe37e9fa8a56ca2e6b99275d25a0f",
+      "title": "Cử tri kiến nghị bỏ tính phí BHYT theo lương cơ sở",
+      "link": "https://vnexpress.net/cu-tri-kien-nghi-bo-tinh-phi-bhyt-theo-luong-co-so-4999246.html",
+      "summary": "Cho rằng việc tính phí bảo hiểm y tế theo lương cơ sở không phản ánh đúng thu nhập thực tế, cử tri An Giang đề nghị điều chỉnh mức thu, nhưng Bộ Y tế khẳng định cách tính hiện nay đảm bảo công bằng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:16:10+07:00",
+      "fetched": "2025-12-28T19:22:26.324156+07:00"
+    },
+    {
+      "id": "e8401bc5f3745645ebcb5a409f2dcca5",
+      "title": "Tổng thống Iran tố Israel, Mỹ, châu Âu gây 'chiến tranh toàn diện'",
+      "link": "https://thanhnien.vn/tong-thong-iran-to-israel-my-chau-au-gay-chien-tranh-toan-dien-185251228164641192.htm",
+      "summary": "Tổng thống Iran Masoud Pezeshkian tuyên bố nước này đang ở trong tình trạng chiến tranh toàn diện với Mỹ, Israel và châu Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:12:00+07:00",
+      "fetched": "2025-12-28T19:22:29.240898+07:00"
+    },
+    {
+      "id": "f85ce7135412604797978acb836e0fd4",
+      "title": "Bị cáo buộc biển thủ, nữ nghị sĩ Mỹ sửa ảnh xóa nhẫn kim cương 100.000 USD",
+      "link": "https://vnexpress.net/bi-cao-buoc-bien-thu-nu-nghi-si-sua-anh-de-xoa-nhan-kim-cuong-100-000-usd-4999242.html",
+      "summary": "Bà Sheila Cherfilus-McCormick bị cáo buộc đã sử dụng một phần trong 5 triệu USD biển thủ từ quỹ cứu trợ để mua chiếc nhẫn kim cương vàng 3,14 carat.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:09:18+07:00",
+      "fetched": "2025-12-28T19:22:26.324312+07:00"
+    },
+    {
       "id": "349c140681194b873ef6b0b2441c2eea",
       "title": "Tình hình Yemen có thể xấu đi nhanh chóng, Ả Rập Xê Út lên tiếng",
       "link": "https://thanhnien.vn/tinh-hinh-yemen-co-the-xau-di-nhanh-chong-a-rap-xe-ut-len-tieng-185251228165119972.htm",
@@ -591,6 +991,26 @@ window.newsData_2025_12_28 = {
       "category": "Tổng hợp",
       "published": "2025-12-28T10:09:00+07:00",
       "fetched": "2025-12-28T17:12:13.287922+07:00"
+    },
+    {
+      "id": "bf7f7665691eb8cbeaeb8a64dde847b6",
+      "title": "Sự thật về bí quyết 'dao sắc ngọt thịt'",
+      "link": "https://vnexpress.net/su-that-ve-bi-quyet-dao-sac-ngot-thit-4999249.html",
+      "summary": "Nhiều người cho rằng thịt dai, khô là do chất lượng thực phẩm hoặc nấu quá lửa, nhưng ít ai ngờ nguyên nhân đôi khi bắt đầu từ lưỡi dao cùn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:08:55+07:00",
+      "fetched": "2025-12-28T19:22:26.324472+07:00"
+    },
+    {
+      "id": "04098b0431813eaa3d5e3dba1c4a48a0",
+      "title": "Tranh Đông Hồ được tái hiện bằng xiếc",
+      "link": "https://vnexpress.net/tranh-dong-ho-duoc-tai-hien-bang-xiec-4999230.html",
+      "summary": "Nhiều tranh Đông Hồ nổi tiếng như \"Đám cưới chuột\", \"Vinh quy bái tổ\" được tái hiện bằng ngôn ngữ xiếc trong vở \"Ký ức làng Hồ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:08:25+07:00",
+      "fetched": "2025-12-28T19:22:26.324623+07:00"
     },
     {
       "id": "59cea5c5cfbdbbdcbb4476cd385e0a80",
@@ -621,6 +1041,26 @@ window.newsData_2025_12_28 = {
       "category": "Tổng hợp",
       "published": "2025-12-28T10:00:00+07:00",
       "fetched": "2025-12-28T17:12:13.288405+07:00"
+    },
+    {
+      "id": "fbb1d7483a2b455c980cdb561233ba2e",
+      "title": "Điểm tin 17h: Không khí lạnh tăng cường dịp Tết Dương lịch | Từ 2026, người dân có quyền yêu cầu xóa dữ liệu cá nhân",
+      "link": "https://vnexpress.net/diem-tin-17h-khong-khi-lanh-tang-cuong-dip-tet-duong-lich-tu-2026-nguoi-dan-co-quyen-yeu-cau-xoa-du-lieu-ca-nhan-4999247.html",
+      "summary": "Xe buýt, metro ở TP HCM miễn vé ngày Tết Dương lịch; Việt Nam nguy cơ thiếu 1,3 triệu phụ nữ kết hôn trong 20 năm tới...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:58:38+07:00",
+      "fetched": "2025-12-28T19:22:26.324773+07:00"
+    },
+    {
+      "id": "485db193f9bbd51d29da264817e4bae2",
+      "title": "Đua xe chòi chân - giải đấu tốc độ của các tay lái nhí",
+      "link": "https://vnexpress.net/dua-xe-choi-chan-giai-dau-toc-do-cua-cac-tay-lai-nhi-4999225.html",
+      "summary": "Điểm nhấn thú vị của Vietnam Mobility Show 2025 là những màn tăng tốc và bứt phá giữa các vận động viên nhí ở khu vực đua xe chòi chân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:54:16+07:00",
+      "fetched": "2025-12-28T19:22:26.324929+07:00"
     },
     {
       "id": "6c805d5e72f2d25cd52cc3a6f164d8ab",
