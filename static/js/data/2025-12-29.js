@@ -1,6 +1,6 @@
 window.newsData_2025_12_29 = {
   "date": "2025-12-29",
-  "lastUpdated": "2025-12-29T03:13:45.583519+07:00",
+  "lastUpdated": "2025-12-29T05:12:06.411279+07:00",
   "articles": [
     {
       "id": "49f04cd22b18c2d2b153480c6ea96536",
@@ -171,6 +171,186 @@ window.newsData_2025_12_29 = {
       "category": "Tổng hợp",
       "published": "2025-12-29T01:17:51.991558+07:00",
       "fetched": "2025-12-29T01:17:51.991772+07:00"
+    },
+    {
+      "id": "cab3f406c9ad684ebd5a044237c14968",
+      "title": "Làn đường cho xe đạp đầu tiên tại TP HCM hoàn thành",
+      "link": "https://vnexpress.net/lan-duong-cho-xe-dap-dau-tien-tai-tp-hcm-hoan-thanh-4999293.html",
+      "summary": "Sau hơn hai tháng thi công, làn đường dài gần 6 km dành riêng cho xe đạp trên đại lộ Mai Chí Thọ đã thành hình, sẽ bàn giao ngày 31/12,",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T22:00:00+07:00",
+      "fetched": "2025-12-29T05:11:51.076229+07:00"
+    },
+    {
+      "id": "30ef2b75f7348bb21ef4304013776ed0",
+      "title": "Tương lai chiến sự Nga – Ukraine trong năm 2026",
+      "link": "https://vnexpress.net/tuong-lai-chien-su-nga-ukraine-trong-nam-2026-4998870.html",
+      "summary": "Xung đột Nga - Ukraine có thể chấm dứt vào cuối năm 2026, nhưng giới phân tích lo ngại Kiev có nguy cơ đối mặt với những kịch bản bất lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T22:00:00+07:00",
+      "fetched": "2025-12-29T05:11:51.076413+07:00"
+    },
+    {
+      "id": "38966c31c2f50cc91d2a3607607aabb5",
+      "title": "Quishing - chiêu lừa đảo qua mã QR tăng trở lại",
+      "link": "https://vnexpress.net/quishing-chieu-lua-dao-qua-ma-qr-tang-tro-lai-4998515.html",
+      "summary": "Việc \"vô tư\" quét mã QR nơi công cộng có thể khiến người dùng bị dẫn đến website độc hại, lừa đảo hoặc mất tiền nếu thanh toán hóa đơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T22:00:00+07:00",
+      "fetched": "2025-12-29T05:11:51.076599+07:00"
+    },
+    {
+      "id": "a3f1ceda9d987f79d5788d375375adbd",
+      "title": "Năm Bitcoin không còn là 'tiền ảo'",
+      "link": "https://vnexpress.net/nam-bitcoin-khong-con-la-tien-ao-4997887.html",
+      "summary": "Thị trường Bitcoin và tài sản số tại Việt Nam ghi nhận bước ngoặt khi có khung pháp lý rõ ràng, giúp khai phá tiềm lực và tạo sân chơi tài chính mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T22:00:00+07:00",
+      "fetched": "2025-12-29T05:11:51.076767+07:00"
+    },
+    {
+      "id": "45e4c883942ffb268a3c290132a2ca1b",
+      "title": "5 lý do nên uống nước cam thường xuyên",
+      "link": "https://vnexpress.net/5-ly-do-nen-uong-nuoc-cam-thuong-xuyen-4995772.html",
+      "summary": "Nước cam giúp cải thiện hệ miễn dịch, phòng chống ung thư, bảo vệ tim mạch, kháng viêm và giảm nguy cơ mắc sỏi thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T22:00:00+07:00",
+      "fetched": "2025-12-29T05:11:51.076939+07:00"
+    },
+    {
+      "id": "a9c91d5af7b835986fd2dab20ac9c509",
+      "title": "Mặt bằng 'đất vàng' thành gánh nặng gồng lỗ",
+      "link": "https://vnexpress.net/mat-bang-dat-vang-thanh-ganh-nang-gong-lo-4998709.html",
+      "summary": "Thuê mặt bằng 45 triệu đồng mỗi tháng để mở quán cafe đón khách khu Sala, Mỹ Ngọc ở TP HCM có ngày lỗ 3 triệu đồng, buộc phải xin chủ nhà không tăng giá và đi làm marketing thuê bên ngoài để \"lấy ngắn nuôi dài\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T22:00:00+07:00",
+      "fetched": "2025-12-29T05:11:51.077109+07:00"
+    },
+    {
+      "id": "5a324bd8a6e4f99116458b596530b6f4",
+      "title": "Myanmar tiến hành tổng tuyển cử",
+      "link": "https://thanhnien.vn/myanmar-tien-hanh-tong-tuyen-cu-185251228205609915.htm",
+      "summary": "Từ 6 giờ sáng 28.12, cử tri Myanmar đã có mặt tại các phòng phiếu để tham gia cuộc tổng tuyển cử đầu tiên sau 5 năm, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T22:00:00+07:00",
+      "fetched": "2025-12-29T05:11:55.063966+07:00"
+    },
+    {
+      "id": "70731f276c2986fafdbc2309a8b690a5",
+      "title": "Kết quả xổ số Mega 6/45 của Vietlott tối chủ nhật cuối cùng của năm 2025",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mega-6-45-cua-vietlott-toi-chu-nhat-cuoi-cung-cua-nam-2025-185251228190133327.htm",
+      "summary": "Tối 28.12, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không ghi nhận người trúng giải độc đắc nào nên số tiền cộng dồn hơn 15 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T22:00:00+07:00",
+      "fetched": "2025-12-29T05:11:55.064141+07:00"
+    },
+    {
+      "id": "3c2592861214d13d6824288fd15b8fe9",
+      "title": "Bản tin sức khỏe 29.12: Loại rau củ nào giúp chống ung thư? | Mỗi ngày một ly nước ép, liệu có tốt?",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-2912-loai-rau-cu-nao-giup-chong-ung-thu-moi-ngay-mot-ly-nuoc-ep-lieu-co-tot-18525122814384996.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T22:00:00+07:00",
+      "fetched": "2025-12-29T05:11:55.064303+07:00"
+    },
+    {
+      "id": "38966c31c2f50cc91d2a3607607aabb5",
+      "title": "Quishing - chiêu lừa đảo qua mã QR tăng trở lại",
+      "link": "https://vnexpress.net/quishing-chieu-lua-dao-qua-ma-qr-tang-tro-lai-4998515.html",
+      "summary": "Việc \"vô tư\" quét mã QR nơi công cộng có thể khiến người dùng bị dẫn đến website độc hại, lừa đảo hoặc mất tiền nếu thanh toán hóa đơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-28T22:00:00+07:00",
+      "fetched": "2025-12-29T05:12:04.279486+07:00"
+    },
+    {
+      "id": "93757e0227d90c341d8d4e9915a052ca",
+      "title": "Văn Khang tiết lộ bất ngờ về mục tiêu khủng của U.23 Việt Nam: ‘Chúng tôi chắc chắn sẽ…’",
+      "link": "https://thanhnien.vn/van-khang-tiet-lo-bat-ngo-ve-muc-tieu-khung-cua-u23-viet-nam-chung-toi-chac-chan-se-18525122904311996.htm",
+      "summary": "Trước buổi tập tối 28.12 theo giờ địa phương tại Doha (Qatar), tiền vệ Khuất Văn Khang đã có những chia sẻ về quá trình chuẩn bị của đội tuyển U.23 Việt Nam, cũng như cảm xúc cá nhân khi lần thứ ba liên tiếp góp mặt tại VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T21:44:00+07:00",
+      "fetched": "2025-12-29T05:11:55.064461+07:00"
+    },
+    {
+      "id": "b162609b959645fa482d36f182cc33c3",
+      "title": "Chờ đột phá từ thượng đỉnh Mỹ - Ukraine",
+      "link": "https://thanhnien.vn/cho-dot-pha-tu-thuong-dinh-my-ukraine-185251228205118304.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky đã hé lộ trọng tâm của cuộc gặp với Tổng thống Mỹ Donald Trump dự kiến diễn ra hôm nay, trong khi Nga gửi thông điệp cho Mỹ, Ukraine lẫn châu Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T21:15:00+07:00",
+      "fetched": "2025-12-29T05:11:55.064640+07:00"
+    },
+    {
+      "id": "c0a652433260f4f5a2c91b9e574966cd",
+      "title": "Dữ liệu cá nhân 'nóng' trước ngày được luật bảo vệ",
+      "link": "https://thanhnien.vn/du-lieu-ca-nhan-nong-truoc-ngay-duoc-luat-bao-ve-185251228221725252.htm",
+      "summary": "Chỉ còn vài ngày nữa, người dùng có quyền yêu cầu xóa hay hạn chế xử lý dữ liệu cá nhân và hành vi mua bán dữ liệu cá nhân trái phép bị nghiêm cấm… Đây là một số quy định tại luật Bảo vệ dữ liệu cá nhân 2025 sẽ có hiệu lực từ ngày 1.1.2026. Trước thềm luật có hiệu lực, dư luận lại xôn xao với yêu cầ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T21:00:00+07:00",
+      "fetched": "2025-12-29T05:11:55.064803+07:00"
+    },
+    {
+      "id": "08a4f61d46677eca8bb552240eaee35f",
+      "title": "Hộ kinh doanh vừa rối vừa lo trước giờ G",
+      "link": "https://thanhnien.vn/ho-kinh-doanh-vua-roi-vua-lo-truoc-gio-g-18525122821271067.htm",
+      "summary": "Càng sát ngày kết thúc chính sách thuế khoán, hộ kinh doanh càng thấy \"lúng túng, bối rối, lo lắng, băn khoăn\" khi vẫn còn nhiều vấn đề chưa được hướng dẫn cụ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T21:00:00+07:00",
+      "fetched": "2025-12-29T05:11:55.064966+07:00"
+    },
+    {
+      "id": "667169691d3ba26ed7bde2e1e0a0569c",
+      "title": "TP.HCM 'chơi lớn' hút khách dịp tết Dương lịch",
+      "link": "https://thanhnien.vn/tphcm-choi-lon-hut-khach-dip-tet-duong-lich-185251228212113493.htm",
+      "summary": "Tết Dương lịch 2026 được nghỉ 4 ngày, song nhiều gia đình vẫn chọn ở lại TP.HCM thay vì đi du lịch xa. Không chỉ các điểm vui chơi mà ngành giao thông cũng đã lên kế hoạch tăng cường vận tải hành khách công cộng để phục vụ người dân và du khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T21:00:00+07:00",
+      "fetched": "2025-12-29T05:11:55.065122+07:00"
+    },
+    {
+      "id": "cfe4b2bebb3fee5a7c7284150aa8d9b4",
+      "title": "Giảm muối để bảo vệ thận nhưng ăn quá nhạt có thể phản tác dụng",
+      "link": "https://thanhnien.vn/giam-muoi-de-bao-ve-than-nhung-an-qua-nhat-co-the-phan-tac-dung-18525122818113721.htm",
+      "summary": "Ăn mặn kéo dài làm cơ thể tăng giữ nước, tăng huyết áp và khiến bệnh thận mạn tiến triển nhanh hơn. Thế nhưng, ăn quá nhạt không phải lúc nào cũng là lựa chọn tối ưu cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T21:00:00+07:00",
+      "fetched": "2025-12-29T05:11:55.065273+07:00"
+    },
+    {
+      "id": "87fa89f6548128d73eacf748c6b32035",
+      "title": "Sứ mệnh với sinh viên",
+      "link": "https://thanhnien.vn/su-menh-voi-sinh-vien-185251228222158377.htm",
+      "summary": "Hôm nay (29.12) diễn ra lễ công bố và bốc thăm vòng loại giải bóng đá Thanh Niên sinh viên Việt Nam lần thứ IV - 2026 cúp THACO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T20:59:00+07:00",
+      "fetched": "2025-12-29T05:11:55.065423+07:00"
+    },
+    {
+      "id": "5088aecbd522f28bc8f9674265536af9",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 29.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-29122025-185251228224508074.htm",
+      "summary": "Tin tức Dữ liệu cá nhân 'nóng' trước ngày được luật bảo vệ; Một bộ sách giáo khoa thống nhất: Dạy học, thi cử có thay đổi?; Giải bóng đá Thanh Niên sinh viên VN lần IV - 2026 cúp THACO: Cạnh tranh khốc liệt ở khu vực TP.HCM… là những thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T20:57:00+07:00",
+      "fetched": "2025-12-29T05:11:55.065598+07:00"
     },
     {
       "id": "955fbcf212ec74737a7ccd28b74b2e4a",
