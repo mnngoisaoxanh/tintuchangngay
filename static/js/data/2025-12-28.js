@@ -1,7 +1,157 @@
 window.newsData_2025_12_28 = {
   "date": "2025-12-28",
-  "lastUpdated": "2025-12-28T10:30:21.263093+07:00",
+  "lastUpdated": "2025-12-28T11:37:40.727099+07:00",
   "articles": [
+    {
+      "id": "74b09683dc28edafe1b697012aa302f3",
+      "title": "Áo xanh đưa công nghệ đến từng nhà",
+      "link": "https://tuoitre.vn/ao-xanh-dua-cong-nghe-den-tung-nha-20251228094322389.htm",
+      "summary": "Đồng loạt tại các phường, xã, đặc khu của TP.HCM sau sáp nhập, đội hình \"Bình dân học vụ số\" do Đoàn thành lập đang tạo nên dòng chảy mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.103379+07:00",
+      "fetched": "2025-12-28T11:37:34.103493+07:00"
+    },
+    {
+      "id": "feb103d4db9165ff29f3808a3dd5427e",
+      "title": "Dương Thiệu Tước - 'giòng suối tơ vương' còn vọng mãi - Kỳ 5: Người thầy mẫu mực",
+      "link": "https://tuoitre.vn/duong-thieu-tuoc-giong-suoi-to-vuong-con-vong-mai-ky-5-nguoi-thay-mau-muc-20251228102039732.htm",
+      "summary": "Dương Thiệu Tước là một trong những giáo sư đầu tiên tại Trường Quốc gia Âm nhạc và Kịch nghệ Sài Gòn (tiền thân Nhạc viện TP.HCM) với vai trò trưởng khoa guitare.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.103255+07:00",
+      "fetched": "2025-12-28T11:37:34.103368+07:00"
+    },
+    {
+      "id": "df174c43bd6cbe995e48d7149b5412d5",
+      "title": "Thuyền trưởng và thuyền viên sử dụng ma túy khi đang lái sà lan",
+      "link": "https://tuoitre.vn/thuyen-truong-va-thuyen-vien-su-dung-ma-tuy-khi-dang-lai-sa-lan-20251228102745192.htm",
+      "summary": "Nam thuyền trưởng 39 tuổi quê Hải Phòng cùng với thuyền viên lái sà lan chở cát đi trên tuyến kênh Chợ Gạo thì bị Công an tỉnh Đồng Tháp phát hiện cả hai dương tính với ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.103130+07:00",
+      "fetched": "2025-12-28T11:37:34.103244+07:00"
+    },
+    {
+      "id": "22de299115b52d0ed975295e80311814",
+      "title": "Trường nêu lý do mất phí dịch vụ khi nộp học phí, phụ huynh nói 'nghe chưa lọt tai'",
+      "link": "https://tuoitre.vn/truong-neu-ly-do-mat-phi-dich-vu-khi-nop-hoc-phi-phu-huynh-noi-nghe-chua-lot-tai-20251227054724395.htm",
+      "summary": "Những lý do trường biện minh cho thu phí dịch vụ khi nộp học phí là tránh nhầm lẫn, chuyển dư, chuyển thiếu và thuận lợi trong việc gạch nợ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.103000+07:00",
+      "fetched": "2025-12-28T11:37:34.103119+07:00"
+    },
+    {
+      "id": "b98eb332c02bc560acbf932632e0c563",
+      "title": "Quốc tế hoan nghênh thỏa thuận ngừng bắn Campuchia - Thái Lan",
+      "link": "https://tuoitre.vn/quoc-te-hoan-nghenh-thoa-thuan-ngung-ban-campuchia-thai-lan-20251228105330531.htm",
+      "summary": "Nhiều nước và EU đánh giá cao thỏa thuận ngừng bắn vừa đạt được giữa Campuchia và Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.102856+07:00",
+      "fetched": "2025-12-28T11:37:34.102987+07:00"
+    },
+    {
+      "id": "73c5a7ccda0ef49edea8dc8245b744cf",
+      "title": "Hải quan với tầm nhìn chiến lược nâng cao năng lực cạnh tranh quốc gia",
+      "link": "https://tuoitre.vn/hai-quan-voi-tam-nhin-chien-luoc-nang-cao-nang-luc-canh-tranh-quoc-gia-20251228092021897.htm",
+      "summary": "Năm 2025 đánh dấu bước chuyển mình lịch sử của ngành Hải quan Việt Nam khi chuyển sang mô hình hải quan số và hải quan thông minh; mở toang cánh cửa hội nhập quốc tế và thu hút vốn đầu tư trực tiếp nước ngoài (FDI).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.102730+07:00",
+      "fetched": "2025-12-28T11:37:34.102845+07:00"
+    },
+    {
+      "id": "8df1924fe1f7a217ebb781fe729ea29c",
+      "title": "Thanh tra Chính phủ nêu loạt thiếu sót tại dự án sân bay Quảng Trị",
+      "link": "https://tuoitre.vn/thanh-tra-chinh-phu-neu-loat-thieu-sot-tai-du-an-san-bay-quang-tri-20251228104751418.htm",
+      "summary": "Dự án sân bay Quảng Trị theo hình thức BOT bị Thanh tra Chính phủ chỉ ra nhiều tồn tại, vi phạm nghiêm trọng về tài chính, thi công, giải phóng mặt bằng và trách nhiệm quản lý nhà nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.102595+07:00",
+      "fetched": "2025-12-28T11:37:34.102720+07:00"
+    },
+    {
+      "id": "844a3ddee699ca542d76833d5b5b5574",
+      "title": "Công an TP.HCM có 5 tập thể, 1 cá nhân được vinh danh tại Đại hội Thi đua yêu nước",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-co-5-tap-the-1-ca-nhan-duoc-vinh-danh-tai-dai-hoi-thi-dua-yeu-nuoc-20251228103823093.htm",
+      "summary": "Tại Đại hội Thi đua yêu nước toàn quốc lần thứ XI, diễn ra từ ngày 26 đến 27-12 tại Hà Nội, Công an TP.HCM vinh dự có 5 tập thể và 1 cá nhân được Đảng, Nhà nước vinh danh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.102459+07:00",
+      "fetched": "2025-12-28T11:37:34.102583+07:00"
+    },
+    {
+      "id": "1afe5e06815cb4d923258a102911ee33",
+      "title": "Tài xế lo lắng trước thông báo ngưng bán xăng dầu trên tuyến cao tốc TP.HCM - Long Thành - Dầu Giây",
+      "link": "https://tuoitre.vn/tai-xe-lo-lang-truoc-thong-bao-ngung-ban-xang-dau-tren-tuyen-cao-toc-tp-hcm-long-thanh-dau-giay-20251228102138794.htm",
+      "summary": "Những ngày qua, nhiều tài xế chạy trên tuyến cao tốc TP.HCM - Long Thành - Dầu Giây bất ngờ với thông báo từ Công ty xăng dầu Châu Thành về việc ngưng bán xăng kể từ ngày 30-12-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.102330+07:00",
+      "fetched": "2025-12-28T11:37:34.102447+07:00"
+    },
+    {
+      "id": "2645126f1a463d41b9325c8da86044d8",
+      "title": "TIN BUỒN",
+      "link": "https://tuoitre.vn/tin-buon-20251228102809247.htm",
+      "summary": "Gia đình chúng tôi vô cùng thương tiếc báo tin: Cụ bà: VỎ THỊ KIM HƯƠNG. Sinh ngày: 1-1-1933 (Quý Dậu). Nguyên quán: Vĩnh Long. Từ trần hồi 00:00 ngày 28-12-2025 (nhằm ngày 9 tháng 11 năm Ất Tỵ). Thượng thọ 93 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.102196+07:00",
+      "fetched": "2025-12-28T11:37:34.102318+07:00"
+    },
+    {
+      "id": "8084978114b106e5afbe5b75c7a0a109",
+      "title": "Met Gala 2026 đổi thay sau nhiều năm gây tranh cãi hạ thấp giá trị phụ nữ",
+      "link": "https://tuoitre.vn/met-gala-2026-doi-thay-sau-nhieu-nam-gay-tranh-cai-ha-thap-gia-tri-phu-nu-20251228104033603.htm",
+      "summary": "Met Gala 2026 chứng kiến khoảnh khắc hiếm có khi 4 người phụ nữ quyền lực đảm nhận vai trò đồng chủ trì. Họ đại diện cho các lĩnh vực gồm âm nhạc, điện ảnh, thể thao và truyền thông thời trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.102064+07:00",
+      "fetched": "2025-12-28T11:37:34.102185+07:00"
+    },
+    {
+      "id": "ed919553456a5408b04ff05c40ec033a",
+      "title": "Công an TP.HCM bắt 5 người làm giả dầu gió 'Siang Pure Oil', thu giữ hơn 4.300 chai",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-bat-5-nguoi-lam-gia-dau-gio-siang-pure-oil-thu-giu-hon-4-300-chai-20251228110159203.htm",
+      "summary": "Công an TP.HCM vừa khởi tố, bắt tạm giam 5 người sản xuất và đưa ra thị trường hàng trăm ngàn sản phẩm dầu gió giả hiệu Siang Pure Oil, gây ảnh hưởng nghiêm trọng đến sức khỏe cộng đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.101910+07:00",
+      "fetched": "2025-12-28T11:37:34.102051+07:00"
+    },
+    {
+      "id": "3e604e59a73bfde6cf8c15a5318b0662",
+      "title": "Đắk Lắk đề xuất đầu tư quốc lộ 29 và cao tốc Đông - Tây hơn 38.000 tỉ đồng",
+      "link": "https://tuoitre.vn/dak-lak-de-xuat-dau-tu-quoc-lo-29-va-cao-toc-dong-tay-hon-38-000-ti-dong-20251228105635548.htm",
+      "summary": "Tỉnh Đắk Lắk đang đề xuất nâng cấp, mở rộng quốc lộ 29 và đầu tư tuyến cao tốc kết nối khu vực phía Đông và phía Tây của tỉnh, với tổng mức đầu tư dự kiến hơn 38.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.101774+07:00",
+      "fetched": "2025-12-28T11:37:34.101897+07:00"
+    },
+    {
+      "id": "7cc868f331b8bc646aa6f3d4dffb7ef1",
+      "title": "Nữ nhà báo gặp nạn trong chuyến thiện nguyện ở Lào Cai",
+      "link": "https://tuoitre.vn/nu-nha-bao-gap-nan-trong-chuyen-thien-nguyen-o-lao-cai-20251228104726583.htm",
+      "summary": "Biên tập viên Nguyễn Phương Thảo (Tạp chí Công Thương) không may gặp nạn trong chuyến thiện nguyện ở xã Phình Hồ, tỉnh Lào Cai ngày 27-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.101633+07:00",
+      "fetched": "2025-12-28T11:37:34.101762+07:00"
+    },
+    {
+      "id": "d3648b59d68c611325839c6c31319fc9",
+      "title": "Nghệ sĩ hủy 'sô' vì ông Trump, bị dọa bồi thường 1 triệu USD",
+      "link": "https://tuoitre.vn/nghe-si-huy-so-vi-ong-trump-bi-doa-boi-thuong-1-trieu-usd-20251228111057668.htm",
+      "summary": "Chủ tịch Trung tâm Trump - Kennedy kiện nghệ sĩ Chuck Redd 1 triệu USD vì hủy diễn đêm Giáng sinh, gọi đây là chiêu trò chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T11:37:34.101415+07:00",
+      "fetched": "2025-12-28T11:37:34.101618+07:00"
+    },
     {
       "id": "c6d17aa096fe4a95b5c0388849a8437f",
       "title": "Kinh tế - xã hội Nga soi qua các con số",
@@ -311,6 +461,196 @@ window.newsData_2025_12_28 = {
       "category": "Tổng hợp",
       "published": "2025-12-28T05:11:27.180179+07:00",
       "fetched": "2025-12-28T05:11:27.180384+07:00"
+    },
+    {
+      "id": "d4c08066eb30a5ac6a430df8ac724c58",
+      "title": "Từ năm 2026, người dùng có quyền gì liên quan đến dữ liệu cá nhân của mình?",
+      "link": "https://thanhnien.vn/tu-nam-2026-nguoi-dung-co-quyen-gi-lien-quan-den-du-lieu-ca-nhan-cua-minh-185251228103742832.htm",
+      "summary": "Chỉ vài ngày nữa, luật Bảo vệ dữ liệu cá nhân 2025 sẽ chính thức có hiệu lực và lần đầu tiên người dân có quyền yêu cầu các doanh nghiệp xóa dữ liệu của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T04:27:00+07:00",
+      "fetched": "2025-12-28T11:37:33.210566+07:00"
+    },
+    {
+      "id": "ae779f7f1a91ab2bd7ca83669b439dfb",
+      "title": "Chi tiền tỷ tặng sinh viên áo blouse cao cấp, Y Hà Nội gây 'sốt'",
+      "link": "https://vnexpress.net/chi-tien-ty-tang-sinh-vien-ao-blouse-cao-cap-y-ha-noi-gay-sot-4999004.html",
+      "summary": "Lần đầu tiên, gần 9.000 sinh viên Đại học Y Hà Nội được tặng áo blouse trắng thiết kế riêng, tạo nên làn sóng thích thú trong cộng đồng học Y khoa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T04:13:56+07:00",
+      "fetched": "2025-12-28T11:37:29.860470+07:00"
+    },
+    {
+      "id": "47a9d63bcbf40e88faede450f467ab4a",
+      "title": "Xe buýt, metro ở TP HCM miễn vé ngày Tết Dương lịch",
+      "link": "https://vnexpress.net/xe-buyt-metro-o-tp-hcm-mien-ve-ngay-tet-duong-lich-4999182.html",
+      "summary": "Xe buýt và tàu điện Bến Thành - Suối Tiên ở TP HCM sẽ miễn vé ngày 1/1, nhằm đáp ứng nhu cầu đi lại, vui chơi tăng cao của người dân dịp đón năm mới 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T04:10:14+07:00",
+      "fetched": "2025-12-28T11:37:29.860651+07:00"
+    },
+    {
+      "id": "ce549a9766e463d24be8df642ee85cd2",
+      "title": "7 nhóm thực phẩm quen thuộc làm tăng nguy cơ ung thư",
+      "link": "https://vnexpress.net/7-nhom-thuc-pham-quen-thuoc-lam-tang-nguy-co-ung-thu-4998728.html",
+      "summary": "Thịt chế biến sẵn, thịt đỏ, đồ chiên rán, đường tinh chế, thực phẩm siêu chế biến, rượu bia và đồ cháy xém làm tăng nguy cơ ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T04:00:00+07:00",
+      "fetched": "2025-12-28T11:37:29.860818+07:00"
+    },
+    {
+      "id": "4081e9a6dbe118f500e6e2fa3c5e0d36",
+      "title": "Hồi ký 'vua vũ khí' Trần Đại Nghĩa (kỳ cuối): Chế thuốc pháo từ phân dơi",
+      "link": "https://vnexpress.net/hoi-ky-vua-vu-khi-tran-dai-nghia-ky-cuoi-che-thuoc-phao-tu-phan-doi-4999030.html",
+      "summary": "Thời chiến, Giáo sư Trần Đại Nghĩa từng dùng phân dơi trong hang núi, trộn với diêm sinh và than để tạo thuốc đen cho súng SKZ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T04:00:00+07:00",
+      "fetched": "2025-12-28T11:37:29.860999+07:00"
+    },
+    {
+      "id": "b451f3c65fc417c886696753171739bb",
+      "title": "Phụ nữ chưa sinh con nên ngừa thai bằng cách nào?",
+      "link": "https://vnexpress.net/phu-nu-chua-sinh-con-nen-ngua-thai-bang-cach-nao-4999101.html",
+      "summary": "Tôi 23 tuổi, chuẩn bị kết hôn chưa có ý định sinh con, xin bác sĩ tư vấn nên chọn phương pháp tránh thai nào an toàn, hiệu quả? (Ngân Anh, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T04:00:00+07:00",
+      "fetched": "2025-12-28T11:37:29.861167+07:00"
+    },
+    {
+      "id": "e31f6682f9f39bcda9ebcd785dff0e44",
+      "title": "Các hoạt động thú vị giúp trẻ xa thiết bị điện tử",
+      "link": "https://vnexpress.net/cac-hoat-dong-thu-vi-giup-tre-xa-thiet-bi-dien-tu-4999093.html",
+      "summary": "Đọc sách, xếp hình, vẽ tranh hay nấu ăn cùng gia đình phát triển trí tưởng tượng của trẻ và tăng thời gian chơi sáng tạo thay vì dùng thiết bị điện tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T04:00:00+07:00",
+      "fetched": "2025-12-28T11:37:29.861323+07:00"
+    },
+    {
+      "id": "0aa7197bb3436402b92096501dd46131",
+      "title": "Bài tập hai phút tốt cho phổi",
+      "link": "https://vnexpress.net/bai-tap-hai-phut-tot-cho-phoi-4999043.html",
+      "summary": "Các bài tập thở cơ hoành, mím môi kết hợp vận động nhẹ giúp làm thông thoáng đường thở, tăng cường chức năng phổi, chỉ mất khoảng hai phút mỗi lần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T04:00:00+07:00",
+      "fetched": "2025-12-28T11:37:29.861484+07:00"
+    },
+    {
+      "id": "460520b58834c23dcd9f90128f18ad95",
+      "title": "7 việc nên làm mỗi tuần giúp ngủ ngon",
+      "link": "https://vnexpress.net/7-viec-nen-lam-moi-tuan-giup-ngu-ngon-4998969.html",
+      "summary": "Uống đủ nước, thức dậy cùng một giờ mỗi ngày và phơi nắng 10 phút vào buổi sáng giúp điều chỉnh đồng hồ sinh học, ngủ ngon hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T04:00:00+07:00",
+      "fetched": "2025-12-28T11:37:29.861640+07:00"
+    },
+    {
+      "id": "1702b36b950f2916b06dc9504ccf7e95",
+      "title": "Những công nghệ thúc đẩy thẩm mỹ không xâm lấn tại Việt Nam",
+      "link": "https://vnexpress.net/nhung-cong-nghe-thuc-day-tham-my-khong-xam-lan-tai-viet-nam-4998689.html",
+      "summary": "Các giải pháp thẩm mỹ không xâm lấn ứng dụng tần số cao, tái tạo collagen và tác động cơ - thần kinh dần được nhiều người ưu tiên sử dụng, thay cho những phương pháp can thiệp sâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T04:00:00+07:00",
+      "fetched": "2025-12-28T11:37:29.861798+07:00"
+    },
+    {
+      "id": "9094df96316a94cc5fe8750e10939a72",
+      "title": "Xem nhanh 12h: Kết quả điều tra vụ lật xe thiện nguyện | Tạm giữ 2 cha con thả chó cắn người",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-ket-qua-dieu-tra-vu-lat-xe-thien-nguyen-tam-giu-2-cha-con-tha-cho-can-nguoi-185251228105805179.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 28.12.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T04:00:00+07:00",
+      "fetched": "2025-12-28T11:37:33.210736+07:00"
+    },
+    {
+      "id": "187a83ce8c214e925b6bb0e3ff1556c4",
+      "title": "Sân bay Phú Quốc được mở rộng thế nào",
+      "link": "https://vnexpress.net/san-bay-phu-quoc-duoc-mo-rong-the-nao-4998924.html",
+      "summary": "Dự án mở rộng sân bay Phú Quốc được khởi công trên diện tích hơn 1.050 ha, với điểm nhấn là nhà ga VVIP có thiết kế lấy cảm hứng từ cá đại bàng biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:58:53+07:00",
+      "fetched": "2025-12-28T11:37:29.861973+07:00"
+    },
+    {
+      "id": "f7df52116f9d5e4c721d87b1f4ae76b3",
+      "title": "Đánh sập 'chợ tình' trên Telegram ở Hạ Long",
+      "link": "https://thanhnien.vn/danh-sap-cho-tinh-tren-telegram-o-ha-long-185251228102757441.htm",
+      "summary": "Lợi dụng ứng dụng nhắn tin Telegram với tính năng ẩn danh cao, một đường dây môi giới mại dâm liên tỉnh hoạt động tinh vi tại Hạ Long vừa bị Công an Quảng Ninh triệt phá, bắt giữ các đối tượng cầm đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:56:00+07:00",
+      "fetched": "2025-12-28T11:37:33.210896+07:00"
+    },
+    {
+      "id": "441b2d4566c2c33309659421f0000d26",
+      "title": "Chủ tọa lãnh án tù vì nhận hối lộ, bản án đã tuyên xử lý ra sao?",
+      "link": "https://thanhnien.vn/chu-toa-lanh-an-tu-vi-nhan-hoi-lo-ban-an-da-tuyen-xu-ly-ra-sao-185251227223753179.htm",
+      "summary": "Trong vụ 'chạy án' ở TAND cấp cao tại Đà Nẵng, 2 cựu phó chánh bị tuyên án tù về tội nhận hối lộ. Vậy những bản án liên quan trước đó mà họ từng làm chủ tọa sẽ xử lý ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:55:00+07:00",
+      "fetched": "2025-12-28T11:37:33.211075+07:00"
+    },
+    {
+      "id": "7b550f77307a2ce592a036e2d07f28fe",
+      "title": "Phút hoảng loạn khi xe chở đoàn thiện nguyện mất phanh khiến 9 người tử vong",
+      "link": "https://vnexpress.net/phut-hoang-loan-khi-xe-cho-doan-thien-nguyen-mat-phanh-khien-9-nguoi-tu-vong-4999180.html",
+      "summary": "Thấy xe lao đi sầm sập khi trên đường tới điểm trường Tả Ghềnh, anh Phùng Mạnh Quân cùng những người trên xe đồng thanh hét gọi hỏi tài xế, song không nhận được câu trả lời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:45:56+07:00",
+      "fetched": "2025-12-28T11:37:29.862140+07:00"
+    },
+    {
+      "id": "23eb558d46fb3390c934de0be63ee485",
+      "title": "Chung cư ở TP.HCM: 2.500 cư dân 7 năm mòn mỏi đi nhờ đường xe container",
+      "link": "https://thanhnien.vn/chung-cu-o-tphcm-2500-cu-dan-7-nam-mon-moi-di-nho-duong-xe-container-185251227110012294.htm",
+      "summary": "Suốt 7 năm qua, hơn 2.500 cư dân chung cư Luxgarden (TP.HCM) phải đi nhờ đường nội bộ cảng, sống giữa xe container, bụi bẩn và nỗi lo tai nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:41:00+07:00",
+      "fetched": "2025-12-28T11:37:33.211232+07:00"
+    },
+    {
+      "id": "641134a3feac884364f08576e1cd8d2f",
+      "title": "Vĩnh Long: Cửa hàng điện máy bốc cháy giữa đêm, cả khu dân cư hốt hoảng",
+      "link": "https://thanhnien.vn/vinh-long-cua-hang-dien-may-boc-chay-giua-dem-ca-khu-dan-cu-hot-hoang-185251228092348025.htm",
+      "summary": "Cửa hàng điện máy tọa lạc P.Phước Hậu (Vĩnh Long) bất ngờ bốc cháy dữ dội giữa đêm, khiến cả khu dân cư hốt hoảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:34:00+07:00",
+      "fetched": "2025-12-28T11:37:33.211391+07:00"
+    },
+    {
+      "id": "f2c84f97f5992ab96bea8e741fc26068",
+      "title": "Bố giải cứu con gái bị bắt cóc nhờ truy dấu điện thoại",
+      "link": "https://vnexpress.net/bo-giai-cuu-con-gai-bi-bat-coc-nho-truy-dau-dien-thoai-4999176.html",
+      "summary": "Bị kẻ cầm dao bắt cóc trên phố vào ngày Giáng sinh, thiếu nữ 15 tuổi được bố nhanh trí tìm thấy nhờ theo dõi vị trí điện thoại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:32:35+07:00",
+      "fetched": "2025-12-28T11:37:29.862300+07:00"
+    },
+    {
+      "id": "575bca13247fa69f575db3df137d5298",
+      "title": "T&amp;T Group vận hành thương mại nhà máy điện gió quy mô lớn tại Lào",
+      "link": "https://vnexpress.net/t-t-group-van-hanh-thuong-mai-nha-may-dien-gio-quy-mo-lon-tai-lao-4999166.html",
+      "summary": "Nhà máy điện gió Savan 1 giai đoạn 1 với công suất 300MW do T&T Group đầu tư bắt đầu vận hành từ ngày 26/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:30:00+07:00",
+      "fetched": "2025-12-28T11:37:29.862464+07:00"
     },
     {
       "id": "f0fcc4f193c2acb671cea585ba3ba123",
@@ -2111,6 +2451,16 @@ window.newsData_2025_12_28 = {
       "category": "Kinh doanh",
       "published": "2025-12-26T17:00:00+07:00",
       "fetched": "2025-12-28T01:17:09.133346+07:00"
+    },
+    {
+      "id": "811688837e6c972b58b622aea8b8f735",
+      "title": "Hàng loạt cựu nhân viên Samsung bị truy tố vì tuồn bí mật sang Trung Quốc",
+      "link": "https://vnexpress.net/hang-loat-cuu-nhan-vien-samsung-bi-truy-to-vi-tuon-bi-mat-sang-trung-quoc-4999183.html",
+      "summary": "10 cựu nhân viên và nhà nghiên cứu của Samsung Electronics bị Hàn Quốc truy tố vì cung cấp công nghệ DRAM 10 nm cho một doanh nghiệp Trung Quốc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-26T16:00:00+07:00",
+      "fetched": "2025-12-28T11:37:39.714404+07:00"
     },
     {
       "id": "dccb4f67b8e761cb8e9aab6749927393",
