@@ -1,7 +1,157 @@
 window.newsData_2025_12_29 = {
   "date": "2025-12-29",
-  "lastUpdated": "2025-12-29T05:12:06.411279+07:00",
+  "lastUpdated": "2025-12-29T08:05:02.696122+07:00",
   "articles": [
+    {
+      "id": "c072b51999bb9badb3ba11980f8e4221",
+      "title": "Rưng rưng nghe lại những khúc hát ân tình của nhạc sĩ Lư Nhất Vũ và nhà thơ Lê Giang",
+      "link": "https://tuoitre.vn/rung-rung-nghe-lai-nhung-khuc-hat-an-tinh-cua-nhac-si-lu-nhat-vu-va-nha-tho-le-giang-2025122900591893.htm",
+      "summary": "Tối 28-12, tại Nhà hát Thành phố đã diễn ra chương trình giao lưu, biểu diễn nghệ thuật, giới thiệu chân dung nhạc sĩ Lư Nhất Vũ - nhà thơ Lê Giang mang tên Khúc hát ân tình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.435062+07:00",
+      "fetched": "2025-12-29T08:04:55.435156+07:00"
+    },
+    {
+      "id": "22904371be0818bcf6d89adc33db25b2",
+      "title": "Nguyễn Phương Thanh là Hoa hậu Sinh viên Hòa bình Việt Nam 2025",
+      "link": "https://tuoitre.vn/nguyen-phuong-thanh-la-hoa-hau-sinh-vien-hoa-binh-viet-nam-2025-202512290022416.htm",
+      "summary": "Sinh viên Nguyễn Phương Thanh đến từ Trường đại học Đại Nam (Hà Nội) giành vương miện Hoa hậu Sinh viên Hòa bình Việt Nam mùa đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.434954+07:00",
+      "fetched": "2025-12-29T08:04:55.435053+07:00"
+    },
+    {
+      "id": "482236d67ebef1c85f473c0c4880ec21",
+      "title": "Phim Việt chốt sổ năm 2025 bị Avatar 3 áp đảo, đứng trước nguy cơ thua lỗ",
+      "link": "https://tuoitre.vn/phim-viet-chot-so-nam-2025-bi-avatar-3-ap-dao-dung-truoc-nguy-co-thua-lo-20251228235732857.htm",
+      "summary": "Giữa 'cơn bão' của Avatar 3 và Zootopia 2, các phim Việt chốt sổ năm 2025 gần như lép vế hoàn toàn, đứng trước nguy cơ thua lỗ khi sức hút phòng vé ngày càng suy giảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.434820+07:00",
+      "fetched": "2025-12-29T08:04:55.434944+07:00"
+    },
+    {
+      "id": "61864b9625bf7a92b4df1c276b7b2407",
+      "title": "Từ Chi, người được Tổng thống Pháp Jacques Chirac coi là 'gương mặt lớn của dân tộc học Việt Nam'",
+      "link": "https://tuoitre.vn/tu-chi-nguoi-duoc-tong-thong-phap-jacques-chirac-coi-la-guong-mat-lon-cua-dan-toc-hoc-viet-nam-2025122822294956.htm",
+      "summary": "Trong diễn văn tại lễ khai trương Bảo tàng Dân tộc học Việt Nam ngày 12-11-1997, Tổng thống Cộng hòa Pháp lúc bấy giờ Jacques Chirac đã đề cập tới Từ Chi (cùng Nguyễn Văn Huyên), là ‘gương mặt lớn của dân tộc học Việt Nam’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.434695+07:00",
+      "fetched": "2025-12-29T08:04:55.434811+07:00"
+    },
+    {
+      "id": "c910336e0a03c0ffea07fc75d9c8fb00",
+      "title": "Tin tức sáng 29-12: Người lao động đi làm dịp Tết dương lịch được hưởng lương thưởng ra sao?",
+      "link": "https://tuoitre.vn/tin-tuc-sang-29-12-nguoi-lao-dong-di-lam-dip-tet-duong-lich-duoc-huong-luong-thuong-ra-sao-20251228225600.htm",
+      "summary": "Tin tức đáng chú ý: Người lao động đi làm dịp Tết dương lịch được hưởng lương thưởng ra sao?; Bộ Công an đề xuất phạt nặng các hành vi kết nối, chia sẻ dữ liệu trái phép...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.434486+07:00",
+      "fetched": "2025-12-29T08:04:55.434675+07:00"
+    },
+    {
+      "id": "4a0c023c8dd53528f9120f4935385e63",
+      "title": "Cú sốc ở Giải Billiards đồng đội, Trần Quyết Chiến thua trận",
+      "link": "https://tuoitre.vn/cu-soc-o-giai-billiards-dong-doi-tran-quyet-chien-thua-tran-20251229060853322.htm",
+      "summary": "Trong ngày 28-12, Giải Billiards Carom 3 băng Team League (VBTL) 2025 tiếp tục diễn ra ngày thi đấu thứ 4. Trong đó, ngôi sao Trần Quyết Chiến đã phải nhận thất bại đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.434103+07:00",
+      "fetched": "2025-12-29T08:04:55.434465+07:00"
+    },
+    {
+      "id": "49390ea8f1841b10d6eb4fdf3498a15f",
+      "title": "Tin tức thế giới 29-12: Trước cuộc gặp ông Zelensky tại Mỹ, ông Trump điện đàm với ông Putin",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-29-12-truoc-cuoc-gap-ong-zelensky-tai-my-ong-trump-dien-dam-voi-ong-putin-20251229052150958.htm",
+      "summary": "Cuộc điện đàm giữa ông Trump và ông Putin cho thấy những trở ngại đối với hòa bình vẫn còn tồn tại; Ông Kim giám sát phóng tên lửa hành trình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.433924+07:00",
+      "fetched": "2025-12-29T08:04:55.434084+07:00"
+    },
+    {
+      "id": "9b9984b3003610333fc4d047057b0781",
+      "title": "AFC đưa ra đánh giá bất ngờ về Việt Nam trước thềm Giải U23 châu Á",
+      "link": "https://tuoitre.vn/afc-dua-ra-danh-gia-bat-ngo-ve-viet-nam-truoc-them-giai-u23-chau-a-20251228180421653.htm",
+      "summary": "Fanpage của Liên đoàn Bóng đá châu Á (AFC) mới đây đã đăng tải một đoạn clip buổi tập của thầy trò ông Kim Sang Sik trước thềm Giải U23 châu Á, và đưa ra đánh giá bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.433776+07:00",
+      "fetched": "2025-12-29T08:04:55.433909+07:00"
+    },
+    {
+      "id": "95c512dcec5069adfeba8d4b83953f60",
+      "title": "Ronaldo trao giải cho Djokovic tại Quả bóng vàng Dubai",
+      "link": "https://tuoitre.vn/ronaldo-trao-giai-cho-djokovic-tai-qua-bong-vang-dubai-20251229063401578.htm",
+      "summary": "Tại sự kiện lễ trao giải Globe Soccer Awards diễn ra tại Dubai, cả hai huyền thoại thể thao là Cristiano Ronaldo và Novak Djokovic cùng nhận danh hiệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.433626+07:00",
+      "fetched": "2025-12-29T08:04:55.433763+07:00"
+    },
+    {
+      "id": "39d2f295e3d5acedda85fa2c6a511248",
+      "title": "Carlsen trở thành nhà vô địch cờ nhanh thế giới 2025",
+      "link": "https://tuoitre.vn/carlsen-tro-thanh-nha-vo-dich-co-nhanh-the-gioi-2025-20251229002509659.htm",
+      "summary": "Sau 3 ngày tranh tài tại Qatar, nội dung cờ nhanh của Giải vô địch thế giới 2025 đã chính thức khép lại vào khuya 28-12 với chức vô địch dành cho siêu Đại kiện tướng Magnus Carlsen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.433480+07:00",
+      "fetched": "2025-12-29T08:04:55.433613+07:00"
+    },
+    {
+      "id": "1ce4e895c31cb30fbf13d864a8a31810",
+      "title": "Chờ đợi kỳ tích của Việt Nam tại nội dung cờ chớp thế giới 2025",
+      "link": "https://tuoitre.vn/cho-doi-ky-tich-cua-viet-nam-tai-noi-dung-co-chop-the-gioi-2025-20251229010051097.htm",
+      "summary": "Ngày thứ 3 của nội dung cờ nhanh kết thúc cũng là lúc người hâm mộ Việt Nam chờ đợi vào một kỳ tích tại nội dung cờ chớp thế giới 2025, diễn ra vào ngày 29 và 30-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.433318+07:00",
+      "fetched": "2025-12-29T08:04:55.433466+07:00"
+    },
+    {
+      "id": "73a0eb28562c4accaa0a793fb3309598",
+      "title": "Nga phóng cùng lúc 52 vệ tinh, có cả vệ tinh sinh viên và vệ tinh Iran",
+      "link": "https://tuoitre.vn/nga-phong-cung-luc-52-ve-tinh-co-ca-ve-tinh-sinh-vien-va-ve-tinh-iran-20251229065104129.htm",
+      "summary": "Nga vừa phóng thành công tên lửa Soyuz-2.1b, đưa 52 vệ tinh lên quỹ đạo, trong đó có vệ tinh quan sát Trái đất, vệ tinh sinh viên và 3 vệ tinh do Iran chế tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.433107+07:00",
+      "fetched": "2025-12-29T08:04:55.433301+07:00"
+    },
+    {
+      "id": "cf2bdc7bf7698080f525deb558cf6fb3",
+      "title": "Soobin 'tiếp khách quốc tế' như thế nào ở HOZO City Tết Fest 2025?",
+      "link": "https://tuoitre.vn/soobin-tiep-khach-quoc-te-nhu-the-nao-o-hozo-city-tet-fest-2025-20251229063806044.htm",
+      "summary": "Màn kết show của Soobin với set diễn đa thể loại, 'đốt cháy' sân khấu được khán giả ủng hộ nồng nhiệt nhất trong đêm HOZO City Tết Fest 2025 tối 28-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.432922+07:00",
+      "fetched": "2025-12-29T08:04:55.433089+07:00"
+    },
+    {
+      "id": "e08c25597aae196f2156dc7dc6b22ef9",
+      "title": "Toàn cảnh cuộc hội đàm giữa ông Trump và ông Zelensky tại Florida",
+      "link": "https://tuoitre.vn/toan-canh-cuoc-hoi-dam-giua-ong-trump-va-ong-zelensky-tai-florida-20251229065539454.htm",
+      "summary": "Ông Trump và ông Zelensky đã dự cuộc họp báo chung sau hội đàm tại khu nghỉ dưỡng Mar-a-Lago ở bang Florida. Ông Trump cho biết trong vài tuần tới sẽ rõ liệu có thể chấm dứt cuộc chiến ở Ukraine hay không.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.432721+07:00",
+      "fetched": "2025-12-29T08:04:55.432899+07:00"
+    },
+    {
+      "id": "7ada596194334ff154ff69f3d0ba7d65",
+      "title": "Hàn Quốc mở điểm giữ trẻ đến nửa đêm, phí 5.000 won/ngày",
+      "link": "https://tuoitre.vn/han-quoc-mo-diem-giu-tre-den-nua-dem-phi-5-000-won-ngay-20251229070605634.htm",
+      "summary": "Hàn Quốc triển khai dịch vụ công cho phụ huynh gửi trẻ 6-12 tuổi đến 22h, thậm chí nửa đêm, tại 360 trung tâm trên toàn quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T08:04:55.432408+07:00",
+      "fetched": "2025-12-29T08:04:55.432703+07:00"
+    },
     {
       "id": "49f04cd22b18c2d2b153480c6ea96536",
       "title": "Hải Phòng biểu dương 225 học sinh, sinh viên xuất sắc tiêu biểu",
@@ -171,6 +321,366 @@ window.newsData_2025_12_29 = {
       "category": "Tổng hợp",
       "published": "2025-12-29T01:17:51.991558+07:00",
       "fetched": "2025-12-29T01:17:51.991772+07:00"
+    },
+    {
+      "id": "7ef42d33a7730741376fdbe523efd113",
+      "title": "Cô gái bơ vơ giữa đường vì lên nhầm xe trai lạ",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-co-gai-bo-vo-giua-duong-vi-len-nham-xe-trai-la-4999286.html",
+      "summary": "Mất tập trung, cô gái vô tư lên xe máy của người lạ, để rồi đứng bơ vơ giữa đường khi nhận ra bạn trai thật đã đi đâu mất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T01:00:00+07:00",
+      "fetched": "2025-12-29T08:04:48.916350+07:00"
+    },
+    {
+      "id": "d01bf43ec538097942355a5cabc1e6ca",
+      "title": "5 đồ uống buổi sáng giúp xương chắc khỏe",
+      "link": "https://vnexpress.net/5-do-uong-buoi-sang-giup-xuong-chac-khoe-4998547.html",
+      "summary": "Uống sữa nghệ ấm, nước cam tươi hoặc sinh tố sữa hạnh nhân vào buổi sáng cung cấp canxi, vitamin D và các hợp chất chống viêm, hỗ trợ sức khỏe xương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T01:00:00+07:00",
+      "fetched": "2025-12-29T08:04:48.916525+07:00"
+    },
+    {
+      "id": "ec555763aa539814fafdfa3f6b0aeffd",
+      "title": "Ung thư tuyến giáp ở tuổi 16",
+      "link": "https://vnexpress.net/ung-thu-tuyen-giap-o-tuoi-16-4999287.html",
+      "summary": "My, 16 tuổi, khám sức khỏe định kỳ bác sĩ phát hiện tổn thương bất thường ở tuyến giáp và phẫu thuật chặn ung thư từ giai đoạn sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T01:00:00+07:00",
+      "fetched": "2025-12-29T08:04:48.916670+07:00"
+    },
+    {
+      "id": "139aa4cc4c7cb8cffd8523b58835d349",
+      "title": "Cách VIB biến 'tiền ngủ' thành dòng vốn sinh lời",
+      "link": "https://vnexpress.net/cach-vib-bien-tien-ngu-thanh-dong-von-sinh-loi-4999268.html",
+      "summary": "Bộ đôi sinh lời của VIB gồm tài khoản Siêu lợi suất và thẻ thanh toán toàn cầu VIB Smart Card, giúp tiền trong tài khoản hưởng lợi đến 9,3%",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T01:00:00+07:00",
+      "fetched": "2025-12-29T08:04:48.916802+07:00"
+    },
+    {
+      "id": "1f04b2d66cfb1cd2c4608511331faa09",
+      "title": "Bệnh viện Hữu nghị Lạc Việt áp dụng bảo hiểm y tế 100% cho người chạy thận",
+      "link": "https://vnexpress.net/benh-vien-huu-nghi-lac-viet-ap-dung-bao-hiem-y-te-100-cho-nguoi-chay-than-4998958.html",
+      "summary": "Người bệnh chạy thận nhân tạo tại Bệnh viện Hữu nghị Lạc Việt được bảo hiểm y tế thanh toán 100%, không cần trả thêm chi phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T01:00:00+07:00",
+      "fetched": "2025-12-29T08:04:48.916931+07:00"
+    },
+    {
+      "id": "abfe8c2e831d6490467e8dd41a12f543",
+      "title": "Căn hộ hàng hiệu đầu tiên theo chuẩn WorldHotels tại Việt Nam",
+      "link": "https://vnexpress.net/can-ho-hang-hieu-dau-tien-theo-chuan-worldhotels-tai-viet-nam-4998826.html",
+      "summary": "Noble Crystal Tay Ho WorldHotels Residences là dự án bất động sản hàng hiệu đầu tiên tại Việt Nam áp dụng mô hình quản lý và vận hành theo tiêu chuẩn WorldHotels.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T01:00:00+07:00",
+      "fetched": "2025-12-29T08:04:48.917065+07:00"
+    },
+    {
+      "id": "43389408c1f9c539837965ffe014f12d",
+      "title": "Trung tâm trị liệu toàn diện tại Việt Nam được tư vấn vận hành bởi Chiva-Som",
+      "link": "https://thanhnien.vn/trung-tam-tri-lieu-toan-dien-tai-viet-nam-duoc-tu-van-van-hanh-boi-chiva-som-18525122822231309.htm",
+      "summary": "Nằm trong tổ hợp HAUS Da Lat, HAUS Wellness Center là trung tâm wellness toàn diện tiên phong tại Việt Nam được tư vấn vận hành bởi Chiva-Som - biểu tượng toàn cầu của triết lý chăm sóc sức khỏe cá nhân hóa và bền vững suốt hơn ba thập kỷ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T01:00:00+07:00",
+      "fetched": "2025-12-29T08:04:52.680297+07:00"
+    },
+    {
+      "id": "fac6c463a3e847b6fff0ab2b4a6fb5f4",
+      "title": "5 điều lưu ý để phòng ngừa cúm khi vào mùa đông xuân",
+      "link": "https://thanhnien.vn/5-dieu-luu-y-de-phong-ngua-cum-khi-vao-mua-dong-xuan-185251228151406332.htm",
+      "summary": "Mùa cúm năm nay có khả năng diễn biến nghiêm trọng hơn các năm trước do ảnh hưởng của thời tiết cực đoan. Do đó, mỗi gia đình nên chủ động phòng ngừa và bảo vệ sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T01:00:00+07:00",
+      "fetched": "2025-12-29T08:04:52.680452+07:00"
+    },
+    {
+      "id": "ea35d2413de37e5ef9596e9e643ebb71",
+      "title": "Hạ tầng tỉ đô và tham vọng hình thành trung tâm mới bên sông Đồng Nai",
+      "link": "https://thanhnien.vn/ha-tang-ti-do-va-tham-vong-hinh-thanh-trung-tam-moi-ben-song-dong-nai-185251228120413017.htm",
+      "summary": "Trong bối cảnh hạ tầng phía Đông TP.HCM đồng loạt tăng tốc, bất động sản ven sông Đồng Nai bước vào giai đoạn tái định vị giá trị, những dự án như Izumi City là lựa chọn chiến lược, đón đầu \"chu kỳ vàng\" của thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T01:00:00+07:00",
+      "fetched": "2025-12-29T08:04:52.680586+07:00"
+    },
+    {
+      "id": "0b3f2a30abc73a549f2d34907115212f",
+      "title": "Đẹp cả tuần chỉ với ba gam màu trắng, đen, beige",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dep-ca-tuan-chi-voi-ba-gam-mau-trang-den-beige-185251223095327377.htm",
+      "summary": "Chỉ diện ba gam màu trắng, đen, beige, nàng vẫn có cả một tuần lễ tươi sáng, rạng rỡ, tràn đầy niềm vui và những nụ cười. Váy dài xếp ly, đầm dự tiệc, các bản phối linh hoạt mang các gam màu tinh giản này khắc họa hình ảnh quý cô vừa năng động tinh tế vừa quý phái và có phong cách cá nhân riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T01:00:00+07:00",
+      "fetched": "2025-12-29T08:04:52.680711+07:00"
+    },
+    {
+      "id": "b4c17c072c6568daab1c6aa9d47d03d9",
+      "title": "Các tổng lãnh sự nói về Báo Thanh Niên: Uy tín, tin cậy, nhiều triển vọng hợp tác",
+      "link": "https://thanhnien.vn/cac-tong-lanh-su-noi-ve-bao-thanh-nien-uy-tin-tin-cay-nhieu-trien-vong-hop-tac-185251209110129376.htm",
+      "summary": "Trong hành trình 40 năm qua, Báo Thanh Niên có những độc giả và đối tác đặc biệt: các đại diện ngoại giao tại Việt Nam từ khắp nơi trên thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T01:00:00+07:00",
+      "fetched": "2025-12-29T08:04:52.680836+07:00"
+    },
+    {
+      "id": "1d0684f51fe43c7e4b1279d431043402",
+      "title": "Không làm chủ tốc độ, xe tải gây tai nạn trên cao tốc",
+      "link": "https://vnexpress.net/khong-lam-chu-toc-do-xe-tai-gay-tai-nan-tren-cao-toc-4999321.html",
+      "summary": "Chiếc xe tải lao nhanh đâm mạnh vào một xe tải khác đang dừng ở làn phải, hôm 28/2 trên cao tốc Pháp Vân - Cầu Giẽ, Duy Tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:54:00+07:00",
+      "fetched": "2025-12-29T08:04:48.917192+07:00"
+    },
+    {
+      "id": "39c685c9ca7493dbeb1c21a7b4004aca",
+      "title": "Rò rỉ hình ảnh Honor Power 2 có thiết kế giống hệt iPhone 17 Pro",
+      "link": "https://thanhnien.vn/ro-ri-hinh-anh-honor-power-2-co-thiet-ke-giong-het-iphone-17-pro-185251228181011685.htm",
+      "summary": "Thông tin về chiếc điện thoại Honor Power 2 đã thu hút sự chú ý của người dùng, đặc biệt khi sản phẩm được cho là có thiết kế tương tự iPhone 17 Pro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:45:00+07:00",
+      "fetched": "2025-12-29T08:04:52.680956+07:00"
+    },
+    {
+      "id": "5d49a3e6d1570f5f784cdd10a02ec839",
+      "title": "Đường bong tróc nhựa, đi lại khó khăn",
+      "link": "https://thanhnien.vn/duong-bong-troc-nhua-di-lai-kho-khan-185251228181431722.htm",
+      "summary": "Bạn đọc phản ánh đường Tân Thới Nhất 08, P.Đông Hưng Thuận (trước đây thuộc P.Tân Thới Nhất, Q.12), TP.HCM, xuống cấp nghiêm trọng, lòng đường bị bong tróc lớp nhựa và trũng nhiều chỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:43:00+07:00",
+      "fetched": "2025-12-29T08:04:54.477598+07:00"
+    },
+    {
+      "id": "ef404926de1d4c1befda81a934dd71c4",
+      "title": "Dựng mái nhà nghĩa tình giữa 2 bờ biên giới",
+      "link": "https://thanhnien.vn/dung-mai-nha-nghia-tinh-giua-2-bo-bien-gioi-185251228181137235.htm",
+      "summary": "Giữa đại ngàn Trường Sơn mây phủ, nơi biên giới Việt - Lào lặng lẽ đi qua từng mùa mưa nắng, có những con người bền bỉ gieo mầm yêu thương bằng những việc làm rất đỗi giản dị. Từ bước chân âm thầm của người lính biên phòng đến những mái nhà nghĩa tình dựng lên bên kia biên giới, câu chuyện về sự sẻ ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:43:00+07:00",
+      "fetched": "2025-12-29T08:04:54.478014+07:00"
+    },
+    {
+      "id": "2ad1c03c2a9b2c19afb78d046746532d",
+      "title": "Ông Trump điện đàm với ông Putin trước khi gặp lãnh đạo Ukraine",
+      "link": "https://vnexpress.net/ong-trump-dien-dam-voi-ong-putin-truoc-khi-gap-lanh-dao-ukraine-4999320.html",
+      "summary": "Điện Kremlin thông báo lãnh đạo Nga - Mỹ điện đàm theo sáng kiến của ông Trump, hai bên không ủng hộ lệnh ngừng bắn do Ukraine và châu Âu đề xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:42:39+07:00",
+      "fetched": "2025-12-29T08:04:48.917342+07:00"
+    },
+    {
+      "id": "90a43222fbf495c9204c366b59155bce",
+      "title": "Gia đình 4 người có 400 triệu nên mua xe gì?",
+      "link": "https://vnexpress.net/gia-dinh-4-nguoi-co-400-trieu-nen-mua-xe-gi-4999323.html",
+      "summary": "Tôi muốn mua xe để cả gia đình có thể thường xuyên cuối tuần về quê cách Hà Nội khoảng 50 km. (Tuệ Nhàn)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:41:11+07:00",
+      "fetched": "2025-12-29T08:04:48.917471+07:00"
+    },
+    {
+      "id": "e48579dce95856d81b969c86236e2a38",
+      "title": "Apple làm gì với những chiếc iPhone bị trả lại sau khi mở hộp?",
+      "link": "https://thanhnien.vn/apple-lam-gi-voi-nhung-chiec-iphone-bi-tra-lai-sau-khi-mo-hop-185251228200105808.htm",
+      "summary": "Apple không chỉ bán các sản phẩm điện tử qua các cửa hàng điện tử toàn cầu mà còn trực tiếp tại các cửa hàng Apple Store.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:37:00+07:00",
+      "fetched": "2025-12-29T08:04:54.478161+07:00"
+    },
+    {
+      "id": "9c40fe7a6f3aa210420bd68ec0793a66",
+      "title": "Ngắm SVĐ Quân khu 5 'lột xác', sẵn sàng mùa giải TNSV THACO cup 2026",
+      "link": "https://thanhnien.vn/ngam-svd-quan-khu-5-lot-xac-san-sang-mua-giai-tnsv-thaco-cup-2026-185251229071852279.htm",
+      "summary": "Với diện mạo khang trang sau đợt cải tạo, SVĐ Quân khu 5 (TP.Đà Nẵng) đã sẵn sàng trở thành điểm hẹn của những trận cầu sôi động tại vòng loại giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO, khu vực Duyên hải miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:31:00+07:00",
+      "fetched": "2025-12-29T08:04:54.478318+07:00"
+    },
+    {
+      "id": "78bbf7486a5d042d4c1ed8c1f1e09317",
+      "title": "Kyrgios thắng Sabalenka ở 'đại chiến giới tính'",
+      "link": "https://vnexpress.net/kyrgios-thang-sabalenka-o-dai-chien-gioi-tinh-4999322.html",
+      "summary": "Tay vợt nam số 671 thế giới Nick Kyrgios hạ tay vợt nữ số một thế giới Aryna Sabalenka 6-3, 6-3 ở trận đấu đặc biệt giữa hai giới tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:28:41+07:00",
+      "fetched": "2025-12-29T08:04:48.917592+07:00"
+    },
+    {
+      "id": "78bbf7486a5d042d4c1ed8c1f1e09317",
+      "title": "Kyrgios thắng Sabalenka ở 'đại chiến giới tính'",
+      "link": "https://vnexpress.net/kyrgios-thang-sabalenka-o-dai-chien-gioi-tinh-4999322.html",
+      "summary": "Tay vợt nam số 671 thế giới Nick Kyrgios hạ tay vợt nữ số một thế giới Aryna Sabalenka 6-3, 6-3 ở trận đấu đặc biệt giữa hai giới tính.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-29T00:28:41+07:00",
+      "fetched": "2025-12-29T08:05:02.690519+07:00"
+    },
+    {
+      "id": "62475aa620f2e087830de59eddb35c59",
+      "title": "Chuyên gia Malaysia: 'Nhiều người trong FAM biết vụ nhập tịch lậu nhưng... miệng như bị bịt kín'",
+      "link": "https://thanhnien.vn/chuyen-gia-malaysia-nhieu-nguoi-trong-fam-biet-vu-nhap-tich-lau-nhung-mieng-nhu-bi-bit-kin-185251229000253621.htm",
+      "summary": "Chuyên gia bóng đá Dr Pekan Ramli nhận định, bê bối làm giả giấy tờ của 7 cầu thủ nhập tịch đang phơi bày những góc khuất đáng lo ngại trong nội bộ Liên đoàn Bóng đá Malaysia (FAM): nhiều người biết rõ sự việc, thậm chí không đồng tình với cách xử lý hiện nay nhưng không thể lên tiếng, trong khi Ban...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:28:00+07:00",
+      "fetched": "2025-12-29T08:04:54.478450+07:00"
+    },
+    {
+      "id": "51832e78ac2ced220c290817cff248c8",
+      "title": "Cảnh báo 2 đợt sóng lớn, nguy cơ sạt lở bờ biển Quảng Trị đến Cà Mau",
+      "link": "https://thanhnien.vn/canh-bao-2-dot-song-lon-nguy-co-sat-lo-bo-bien-quang-tri-den-ca-mau-185251229062953903.htm",
+      "summary": "Trung tâm Dự báo khí tượng thủy văn quốc gia cảnh báo về 2 đợt sóng lớn trên nhiều vùng biển trong những ngày cuối năm 2025 và đầu năm 2026, nguy cơ cao gây ra sạt lở bờ biển từ Quảng Trị đến Cà Mau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:27:00+07:00",
+      "fetched": "2025-12-29T08:04:54.478576+07:00"
+    },
+    {
+      "id": "b7b466b2f6df224e1c6bfeb6bf4e82a0",
+      "title": "Điều khoản của mạng xã hội quốc tế khác gì cách Zalo triển khai?",
+      "link": "https://thanhnien.vn/dieu-khoan-cua-mang-xa-hoi-quoc-te-khac-gi-cach-zalo-trien-khai-185251228163548928.htm",
+      "summary": "Khi Zalo cập nhật điều khoản, nhiều câu hỏi được đặt ra về sự khác biệt giữa nền tảng nội địa và các dịch vụ mạng xã hội quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:27:00+07:00",
+      "fetched": "2025-12-29T08:04:54.478697+07:00"
+    },
+    {
+      "id": "8d42e42d2bc48240c2e37410e8297b1f",
+      "title": "Tuyệt chiêu dùng RAM laptop lắp 'chữa cháy' cho máy bàn trong thời bão giá",
+      "link": "https://thanhnien.vn/tuyet-chieu-dung-ram-laptop-lap-chua-chay-cho-may-ban-trong-thoi-bao-gia-185251228130421591.htm",
+      "summary": "Bí kíp 'sống sót' qua mùa bão giá là sử dụng RAM Laptop lắp cho máy bàn, hiệu năng khiến nhiều người bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:19:00+07:00",
+      "fetched": "2025-12-29T08:04:54.478821+07:00"
+    },
+    {
+      "id": "44a4afa48e646ad33a0bca6ce8b7b657",
+      "title": "Ông Trump và ông Zelensky vừa đàm phán xong, tình hình ra sao?",
+      "link": "https://thanhnien.vn/ong-trump-va-ong-zelensky-vua-dam-phan-xong-tinh-hinh-ra-sao-185251229070109684.htm",
+      "summary": "Mỹ và Ukraine cho biết đã có tiến triển và hai bên tiến gần đến thỏa thuận nhằm chấm dứt chiến sự ở Ukraine, trong khi Nga cho rằng 'thế giới đánh giá cao' nỗ lực hòa bình của Tổng thống Mỹ Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:16:00+07:00",
+      "fetched": "2025-12-29T08:04:54.478951+07:00"
+    },
+    {
+      "id": "d0c6474c4f1ffe51f36b07cfc8ce01fa",
+      "title": "Hầm cao tốc dài nhất thế giới xuyên dãy Thiên Sơn Trung Quốc",
+      "link": "https://vnexpress.net/ham-cao-toc-dai-nhat-the-gioi-xuyen-day-thien-son-trung-quoc-4999301.html",
+      "summary": "Hành trình vượt dãy Thiên Sơn từng mất hàng giờ nay chỉ còn 20 phút, khi hầm cao tốc dài nhất thế giới trên tuyến cao tốc G0711 Urumqi – Yuli đi vào hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:00:00+07:00",
+      "fetched": "2025-12-29T08:04:48.917719+07:00"
+    },
+    {
+      "id": "313215796c5cdd856d2782e0084f8113",
+      "title": "Điều gì xảy ra khi ăn rau cải?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-an-rau-cai-4998572.html",
+      "summary": "Rau họ cải rất giàu vitamin và khoáng chất cần thiết cho cơ thể, hỗ trợ tăng cường sức khỏe tim, miễn dịch, giảm nguy cơ mắc nhiều bệnh mạn tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:00:00+07:00",
+      "fetched": "2025-12-29T08:04:48.917837+07:00"
+    },
+    {
+      "id": "b51eef46e309ef304add616cbab7558a",
+      "title": "Năm 2025 du lịch Việt bứt phá trở lại thời hoàng kim",
+      "link": "https://vnexpress.net/nam-2025-du-lich-viet-but-pha-tro-lai-thoi-hoang-kim-4993966.html",
+      "summary": "Với hơn 21 triệu lượt khách quốc tế, năm 2025 mở ra kỷ nguyên du lịch mới cho Việt Nam khi đạt kỷ lục đón khách cao nhất từ trước đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:00:00+07:00",
+      "fetched": "2025-12-29T08:04:48.917952+07:00"
+    },
+    {
+      "id": "c879306def9234dda1c89fd40c0dd0b3",
+      "title": "ANA tái cơ cấu mảng hàng hóa sau thương vụ thâu tóm NCA",
+      "link": "https://vnexpress.net/ana-tai-co-cau-mang-hang-hoa-sau-thuong-vu-thau-tom-nca-4998304.html",
+      "summary": "Tập đoàn ANA đặt mục tiêu hoàn tất tái cơ cấu mảng hàng hóa vào năm tài chính 2026, nhằm tận dụng năng lực mạng bay hợp nhất trên các đường bay Bắc Mỹ và châu Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T00:00:00+07:00",
+      "fetched": "2025-12-29T08:04:48.918073+07:00"
+    },
+    {
+      "id": "90c89e2e3b946ea6c79535c6d6918165",
+      "title": "Ông Trump tuyên bố đạt rất nhiều tiến triển sau khi gặp ông Zelensky",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-dat-rat-nhieu-tien-trien-sau-khi-gap-ong-zelensky-4999314.html",
+      "summary": "Tổng thống Trump gặp người đồng cấp Zelensky tại Florida, tuyên bố đàm phán đạt \"rất nhiều tiến triển\" dù vẫn chưa thống nhất về tương lai vùng Donbass.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T23:56:56+07:00",
+      "fetched": "2025-12-29T08:04:48.918191+07:00"
+    },
+    {
+      "id": "90c89e2e3b946ea6c79535c6d6918165",
+      "title": "Ông Trump tuyên bố đạt rất nhiều tiến triển sau khi gặp ông Zelensky",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-dat-rat-nhieu-tien-trien-sau-khi-gap-ong-zelensky-4999314.html",
+      "summary": "Tổng thống Trump gặp người đồng cấp Zelensky tại Florida, tuyên bố đàm phán đạt \"rất nhiều tiến triển\" dù vẫn chưa thống nhất về tương lai vùng Donbass.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-28T23:56:56+07:00",
+      "fetched": "2025-12-29T08:04:56.832081+07:00"
+    },
+    {
+      "id": "86e8711bfd50ac9e5c2e08f40f1304a9",
+      "title": "'Khái niệm mới giúp thay đổi tư duy phát triển khoa học và công nghệ",
+      "link": "https://vnexpress.net/khai-niem-moi-giup-thay-doi-tu-duy-phat-trien-khoa-hoc-va-cong-nghe-4999253.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, việc hình thành và lan tỏa một hệ thống khái niệm mới của Bộ Khoa học và Công nghệ từng bước thay đổi căn bản cách tư duy về ngành và con đường phát triển của đất nước trong kỷ nguyên số và tri thức.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-28T23:00:00+07:00",
+      "fetched": "2025-12-29T08:05:01.528539+07:00"
+    },
+    {
+      "id": "be76055dafd668ecb9a3f2affc7c2e2d",
+      "title": "Real bị chê lạc lối vì Vinicius",
+      "link": "https://vnexpress.net/real-bi-che-lac-loi-vi-vinicius-4999309.html",
+      "summary": "Theo cựu tiền đạo Real Madrid Poli Rincon, Vinicius Junior đang nhận được quá nhiều sự ưu ái từ đội bóng Hoàng gia Tây Ban Nha.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-28T22:58:58+07:00",
+      "fetched": "2025-12-29T08:05:02.690672+07:00"
+    },
+    {
+      "id": "1c80ccbc3d39f143c58699121fc76ac9",
+      "title": "Man Utd thanh lý Zirkzee",
+      "link": "https://vnexpress.net/man-utd-thanh-ly-zirkzee-4999310.html",
+      "summary": "Tiền đạo Joshua Zirkzee sắp chia tay Man Utd sau chưa đầy hai mùa giải gắn bó, khi đồng ý gia nhập AS Roma ngay trong kỳ chuyển nhượng tháng 1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-28T22:46:43+07:00",
+      "fetched": "2025-12-29T08:05:02.690809+07:00"
+    },
+    {
+      "id": "3c473088601f8221b9f5a181c646f61e",
+      "title": "Ronaldo đoạt giải Cầu thủ hay nhất Trung Đông 2025",
+      "link": "https://vnexpress.net/ronaldo-doat-giai-cau-thu-hay-nhat-trung-dong-2025-4999312.html",
+      "summary": "Cristiano Ronaldo khẳng định động lực thi đấu và tham vọng chạm mốc 1.000 bàn, khi được vinh danh tại Globe Soccer Awards 2025 ở Dubai.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-28T22:42:21+07:00",
+      "fetched": "2025-12-29T08:05:02.690940+07:00"
     },
     {
       "id": "cab3f406c9ad684ebd5a044237c14968",
