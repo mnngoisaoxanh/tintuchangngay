@@ -1,7 +1,157 @@
 window.newsData_2025_12_29 = {
   "date": "2025-12-29",
-  "lastUpdated": "2025-12-29T19:26:32.375254+07:00",
+  "lastUpdated": "2025-12-29T21:14:27.121630+07:00",
   "articles": [
+    {
+      "id": "197ff8a416ad97bc7698361ed5542c46",
+      "title": "Dân vùng lũ nhận quà tái thiết của Tuổi Trẻ và GREENFEED: Có thêm tiền mua lúa giống cho vụ mùa mới",
+      "link": "https://tuoitre.vn/dan-vung-lu-nhan-qua-tai-thiet-cua-tuoi-tre-va-greenfeed-co-them-tien-mua-lua-giong-cho-vu-mua-moi-20251229181406962.htm",
+      "summary": "Hôm nay, chương trình 'Tiếp sức đồng bào miền Bắc - miền Trung tái thiết cuộc sống sau bão lũ' tiếp tục đến với người dân bị thiệt hại nặng nề do mưa lũ lịch sử tại xã Diên Điền, tỉnh Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.808814+07:00",
+      "fetched": "2025-12-29T21:14:17.808947+07:00"
+    },
+    {
+      "id": "652ea86c4f7dfde63491261d20ed5504",
+      "title": "Ngành kim cương nhân tạo Ấn Độ tăng trưởng mạnh nhờ nhu cầu đá quý giá rẻ",
+      "link": "https://tuoitre.vn/nganh-kim-cuong-nhan-tao-an-do-tang-truong-manh-nho-nhu-cau-da-quy-gia-re-2025122917253381.htm",
+      "summary": "Kim cương nhân tạo hiện được bán với mức giá thấp hơn từ 50% đến 90% so với kim cương tự nhiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.808686+07:00",
+      "fetched": "2025-12-29T21:14:17.808798+07:00"
+    },
+    {
+      "id": "3b8115882d2404b314ce0c81a8c1ede2",
+      "title": "Kỳ thủ 17 tuổi vươn lên đứng đầu làng cờ tướng đỉnh cao",
+      "link": "https://tuoitre.vn/ky-thu-17-tuoi-vuon-len-dung-dau-lang-co-tuong-dinh-cao-20251229174427449.htm",
+      "summary": "Mạnh Phồn Duệ - kỳ thủ 17 tuổi từng đánh bại Lại Lý Huynh 1 tháng trước - đã vươn lên đứng đầu bảng xếp hạng cờ tướng Trung Quốc hiện tại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.808563+07:00",
+      "fetched": "2025-12-29T21:14:17.808675+07:00"
+    },
+    {
+      "id": "96ae3d193eba6584a5acf5ddf340a333",
+      "title": "Phó thủ tướng thường trực: Không để cán bộ 'mần thinh, chỉ ngồi chờ, quan hệ tốt' dễ dàng thăng tiến",
+      "link": "https://tuoitre.vn/pho-thu-tuong-thuong-truc-khong-de-can-bo-man-thinh-chi-ngoi-cho-quan-he-tot-de-dang-thang-tien-20251229182454941.htm",
+      "summary": "Phó thủ tướng thường trực Nguyễn Hòa Bình lưu ý Bộ Nội vụ việc cần ban hành các chính sách để phát hiện, thu hút, giữ chân và sử dụng người tài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.808433+07:00",
+      "fetched": "2025-12-29T21:14:17.808551+07:00"
+    },
+    {
+      "id": "3e7cac3b897c5377999ccf281cb25f64",
+      "title": "Hàn Quốc: Người 2 lần vi phạm nồng độ cồn phải lắp thiết bị giám sát trên xe",
+      "link": "https://tuoitre.vn/han-quoc-nguoi-2-lan-vi-pham-nong-do-con-phai-lap-thiet-bi-giam-sat-tren-xe-20251229135726978.htm",
+      "summary": "Từ tháng 10-2026, những người từng nhiều lần vượt nồng độ cồn cho phép khi lái xe buộc phải lắp đặt thiết bị \"phòng chống lái xe khi uống rượu\" nếu muốn được cấp lại bằng lái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.808299+07:00",
+      "fetched": "2025-12-29T21:14:17.808411+07:00"
+    },
+    {
+      "id": "291d466f82cdee3d691c25b86fd334d9",
+      "title": "Phân Bón Cà Mau - cùng nhau san sẻ dựng lại mái ấm mới sau mưa lũ",
+      "link": "https://tuoitre.vn/phan-bon-ca-mau-cung-nhau-san-se-dung-lai-mai-am-moi-sau-mua-lu-20251229145127495.htm",
+      "summary": "Sau đợt mưa lũ vừa qua, nhiều địa phương tại Khánh Hoà và khu vực Tây Nguyên vẫn còn đối mặt với vô vàn khó khăn. Không chỉ ruộng vườn, tài sản bị hư hại, mà nhiều gia đình còn mất đi mái nhà - chỗ dựa cuối cùng để an tâm sống qua ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.808173+07:00",
+      "fetched": "2025-12-29T21:14:17.808287+07:00"
+    },
+    {
+      "id": "85bb9234a29268d942d814eecc31c76d",
+      "title": "Những bàn tay làm nên điều kỳ diệu",
+      "link": "https://tuoitre.vn/nhung-ban-tay-lam-nen-dieu-ky-dieu-20251229163739409.htm",
+      "summary": "Từ phòng mổ rực sáng đến những chuyến xe thiện nguyện vùng sâu, “Những bàn tay làm nên điều kỳ diệu” kể hành trình nơi y đức và lòng nhân ái chạm nhau: bác sĩ Bệnh viện Đại học Y Dược TP.HCM cùng các mạnh thường quân níu lại sự sống...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.808048+07:00",
+      "fetched": "2025-12-29T21:14:17.808161+07:00"
+    },
+    {
+      "id": "726932c210c984d16927d8ea65dc771c",
+      "title": "Phó cục trưởng CSGT: 'Đích đến là sự an toàn của mỗi gia đình'",
+      "link": "https://tuoitre.vn/pho-cuc-truong-csgt-dich-den-la-su-an-toan-cua-moi-gia-dinh-20251223111712613.htm",
+      "summary": "Đại tá Phạm Quang Huy trao đổi với Tuổi Trẻ Online về công tác đảm bảo trật tự an toàn giao thông trong năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.807923+07:00",
+      "fetched": "2025-12-29T21:14:17.808036+07:00"
+    },
+    {
+      "id": "a40245d29cf9d4ec31c20be24e9af610",
+      "title": "Mưa đỏ, Đức Phúc, Tổ quốc trong tim vào bình chọn 15 sự kiện văn học nghệ thuật tiêu biểu của năm",
+      "link": "https://tuoitre.vn/mua-do-duc-phuc-to-quoc-trong-tim-vao-binh-chon-15-su-kien-van-hoc-nghe-thuat-tieu-bieu-cua-nam-20251229184727043.htm",
+      "summary": "Chiến thắng của ca sĩ Đức Phúc tại Cuộc thi âm nhạc quốc tế Intervision 2025 tại Nga và thành công của phim ‘Mưa đỏ’ là 1 trong 20 sự kiện được đề cử để bình chọn 15 sự kiện văn học nghệ thuật tiêu biểu năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.807777+07:00",
+      "fetched": "2025-12-29T21:14:17.807910+07:00"
+    },
+    {
+      "id": "369cd7031cc9d975ac510e27f80d72e7",
+      "title": "Bà Paetongtarn thăm ông Thaksin, thu hút chú ý trước thềm tổng tuyển cử",
+      "link": "https://tuoitre.vn/ba-paetongtarn-tham-ong-thaksin-thu-hut-chu-y-truoc-them-tong-tuyen-cu-20251229190223728.htm",
+      "summary": "Ngày 29-12, bà Paetongtarn đã có chuyến thăm cha mình là cựu Thủ tướng Thaksin đang thụ án một năm trong tù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.807652+07:00",
+      "fetched": "2025-12-29T21:14:17.807766+07:00"
+    },
+    {
+      "id": "23c4e1f9783f2641d05d4d937cdf801b",
+      "title": "Bỏ xa Zootopia 2, Avatar 3 bá chủ phòng vé toàn cầu những ngày cuối năm 2025",
+      "link": "https://tuoitre.vn/bo-xa-zootopia-2-avatar-3-ba-chu-phong-ve-toan-cau-nhung-ngay-cuoi-nam-2025-20251229185659844.htm",
+      "summary": "Avatar 3 của đạo diễn James Cameron tiếp tục khẳng định sức hút áp đảo khi dẫn đầu phòng vé tại nhiều thị trường lớn trong những ngày cuối cùng của năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.807524+07:00",
+      "fetched": "2025-12-29T21:14:17.807640+07:00"
+    },
+    {
+      "id": "b6d0303a35489c7f3b7778832dd95cc5",
+      "title": "13 Trung tâm Y tế khu vực tại TP.HCM sẽ được chuyển đổi thành bệnh viện",
+      "link": "https://tuoitre.vn/13-trung-tam-y-te-khu-vuc-tai-tp-hcm-se-duoc-chuyen-doi-thanh-benh-vien-20251229184543287.htm",
+      "summary": "Từ ngày 1-1-2026, 38 Trung tâm Y tế khu vực trực thuộc Sở Y tế TP.HCM sẽ được sắp xếp giao về 168 trạm y tế xã, phường, đặc khu trực thuộc UBND xã, phường, đặc khu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.807396+07:00",
+      "fetched": "2025-12-29T21:14:17.807512+07:00"
+    },
+    {
+      "id": "5c88ccde3ba31ac145ef5239fdb8a3b6",
+      "title": "Chủ tịch Hà Nội: Thay thế cán bộ gây cản trở sự phát triển của thủ đô",
+      "link": "https://tuoitre.vn/chu-tich-ha-noi-thay-the-can-bo-gay-can-tro-su-phat-trien-cua-thu-do-20251229184632988.htm",
+      "summary": "Chủ tịch UBND TP Hà Nội Vũ Đại Thắng nói như vậy khi trình bày tham luận tại Hội nghị tổng kết công tác năm 2025, triển khai nhiệm vụ năm 2026 của TP diễn ra vào chiều 29-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.807263+07:00",
+      "fetched": "2025-12-29T21:14:17.807384+07:00"
+    },
+    {
+      "id": "4249fc078b6ea37fbbf9fae2b1135906",
+      "title": "Tước giấy phép tài xế lao qua đường sắt, đâm hỏng cả cần chắn tự động",
+      "link": "https://tuoitre.vn/tuoc-giay-phep-tai-xe-lao-qua-duong-sat-dam-hong-ca-can-chan-tu-dong-20251229185736787.htm",
+      "summary": "Phòng Cảnh sát giao thông Công an tỉnh Ninh Bình đã triệu tập, xử phạt và tước giấy phép tài xế xe chở rác lao qua đường sắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.807117+07:00",
+      "fetched": "2025-12-29T21:14:17.807250+07:00"
+    },
+    {
+      "id": "5413d9890c0a1874c215829237987d2d",
+      "title": "Danh ngôn về hạnh phúc của người thông minh có thực là của Hemingway?",
+      "link": "https://tuoitre.vn/danh-ngon-ve-hanh-phuc-cua-nguoi-thong-minh-co-thuc-la-cua-hemingway-20251229185730515.htm",
+      "summary": "Câu nói 'hạnh phúc là điều hiếm hoi với người thông minh' thường được lan truyền như một danh ngôn của nhà văn Ernest Hemingway.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T21:14:17.806885+07:00",
+      "fetched": "2025-12-29T21:14:17.807101+07:00"
+    },
     {
       "id": "ba60034d2d6febc1b8cf5ac70741f8c7",
       "title": "Trai đẹp, gái đẹp nhất thế giới năm 2025, gọi tên ai?",
@@ -453,6 +603,56 @@ window.newsData_2025_12_29 = {
       "fetched": "2025-12-29T15:19:48.558996+07:00"
     },
     {
+      "id": "bd3580c11a28b83f68609ca06ea4d2c8",
+      "title": "Cẩm Ly tái xuất, NSƯT Như Huỳnh xúc động khi trình diễn trước khán giả Cần Thơ",
+      "link": "https://thanhnien.vn/cam-ly-tai-xuat-nsut-nhu-huynh-xuc-dong-khi-trinh-dien-truoc-khan-gia-can-tho-185251229190620976.htm",
+      "summary": "Góp mặt trong chương trình 'Cần Thơ: Sắc màu sông nước', Cẩm Ly có dịp hòa giọng cùng Quốc Đại, nhận được sự ủng hộ của đông đảo khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T14:00:00+07:00",
+      "fetched": "2025-12-29T21:14:16.627468+07:00"
+    },
+    {
+      "id": "cd9285c0566a168f28ae8984f8b9a3c1",
+      "title": "Lốp xe thông minh tăng an toàn, cải thiện cảm giác lái",
+      "link": "https://thanhnien.vn/lop-xe-thong-minh-tang-an-toan-cai-thien-cam-giac-lai-185240724140323113.htm",
+      "summary": "Các hãng lốp xe đang nghiên cứu tạo ra hệ thống cảm biến thông minh gắn trong lốp có thể ngăn chặn trước các bất thường xảy ra trong quá trình vận hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:57:00+07:00",
+      "fetched": "2025-12-29T21:14:16.627647+07:00"
+    },
+    {
+      "id": "d641807dab0d7e218eb4d463985476d2",
+      "title": "Nhà thiết kế Nguyễn Minh Công lần thứ hai nhận kỷ lục Việt Nam",
+      "link": "https://thanhnien.vn/nha-thiet-ke-nguyen-minh-cong-lan-thu-hai-nhan-ky-luc-viet-nam-185251229202952085.htm",
+      "summary": "Chiều 29.12 tại Bảo tàng Phụ nữ Nam bộ (TP.HCM), Tổ chức Kỷ lục Việt Nam - VietKings công bố và trao kỷ lục Việt Nam cho nhà thiết kế, kỷ lục gia Nguyễn Minh Công nhân kỷ niệm 10 năm bền bỉ hoạt động sáng tạo nghệ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:46:00+07:00",
+      "fetched": "2025-12-29T21:14:16.627808+07:00"
+    },
+    {
+      "id": "8a4cabf9a64146cbc17249af5efa6569",
+      "title": "500 đại biểu di chuyển bằng metro dự Đại hội Đoàn TP.HCM",
+      "link": "https://thanhnien.vn/500-dai-bieu-di-chuyen-bang-metro-du-dai-hoi-doan-tphcm-185251229191608026.htm",
+      "summary": "Điểm nhấn rất đặc sắc của Đại hội đại biểu Đoàn TNCS Hồ Chí Minh TP.HCM lần thứ I, nhiệm kỳ 2025 – 2030 là 500 đại biểu di chuyển trên metro hiện đại đến với các diễn đàn thanh niên hành động trong khuôn khổ của đại hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:40:00+07:00",
+      "fetched": "2025-12-29T21:14:16.627985+07:00"
+    },
+    {
+      "id": "f82791c05fde21c5a5afd7fe977854c4",
+      "title": "Xe thư báo 'cướp làn' vượt ẩu, ép ô tô khác vào lề đường",
+      "link": "https://thanhnien.vn/xe-thu-bao-cuop-lan-vuot-au-ep-o-to-khac-vao-le-duong-185251229151842836.htm",
+      "summary": "Bất chấp đường đèo cong cua khuất tầm nhìn, tài xế vẫn liều lĩnh lái xe thư báo phóng nhanh, lấn hẳn sang làn đường dành cho các phương tiện lưu thông chiều ngược lại, thậm chí liều lĩnh ép ô tô khác di chuyển đúng luật phải nép sát lề đường để tránh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:39:00+07:00",
+      "fetched": "2025-12-29T21:14:16.628140+07:00"
+    },
+    {
       "id": "3b251e274e13d14e68e61b703c5dd282",
       "title": "800 triệu đồng từ Báo Tuổi Trẻ và GREENFEED Việt Nam hỗ trợ đồng bào bị bão, lũ ở đông Gia Lai",
       "link": "https://tuoitre.vn/800-trieu-dong-tu-bao-tuoi-tre-va-greenfeed-viet-nam-ho-tro-dong-bao-bi-bao-lu-o-dong-gia-lai-20251229105259966.htm",
@@ -463,6 +663,196 @@ window.newsData_2025_12_29 = {
       "fetched": "2025-12-29T13:22:28.557124+07:00"
     },
     {
+      "id": "6d1d48d2cbb74dd1bd8d24280cbca9f5",
+      "title": "Cặp song sinh chào đời trong bọc điều tại Bệnh viện Phương Nam",
+      "link": "https://thanhnien.vn/cap-song-sinh-chao-doi-trong-boc-dieu-tai-benh-vien-phuong-nam-185251229202915924.htm",
+      "summary": "Trong dân gian, trẻ 'sinh bọc điều' được xem là mang lại may mắn, cuộc đời thuận lợi. Nhưng dưới góc nhìn y khoa, đây là trường hợp hiếm gặp, chỉ khoảng 1/80.000 ca sinh. Khi em bé chào đời vẫn còn nguyên túi ối, là do túi ối dày và dai hơn bình thường, không vỡ trong quá trình chuyển dạ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:20:00+07:00",
+      "fetched": "2025-12-29T21:14:16.628292+07:00"
+    },
+    {
+      "id": "8296bbcf9e4b84f2d7f71365059fe935",
+      "title": "Ủy ban Cạnh tranh quốc gia yêu cầu VNG giải trình về Zalo",
+      "link": "https://vnexpress.net/uy-ban-canh-tranh-quoc-gia-yeu-cau-vng-giai-trinh-ve-zalo-4999711.html",
+      "summary": "Ủy ban Cạnh tranh Quốc gia mời VNG làm việc sau khi ứng dụng Zalo của hãng bất ngờ cập nhật điều khoản sử dụng, yêu cầu đồng ý, nếu không sẽ xóa tài khoản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:18:25+07:00",
+      "fetched": "2025-12-29T21:14:12.714633+07:00"
+    },
+    {
+      "id": "8296bbcf9e4b84f2d7f71365059fe935",
+      "title": "Ủy ban Cạnh tranh quốc gia yêu cầu VNG giải trình về Zalo",
+      "link": "https://vnexpress.net/uy-ban-canh-tranh-quoc-gia-yeu-cau-vng-giai-trinh-ve-zalo-4999711.html",
+      "summary": "Ủy ban Cạnh tranh quốc gia mời VNG làm việc sau khi ứng dụng Zalo của hãng bất ngờ cập nhật điều khoản sử dụng, yêu cầu đồng ý, nếu không sẽ xóa tài khoản.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-29T13:18:25+07:00",
+      "fetched": "2025-12-29T21:14:21.577208+07:00"
+    },
+    {
+      "id": "2d4300b3b531312cd37f721460265fe5",
+      "title": "10 sự kiện công nghệ thông tin nổi bật năm 2025",
+      "link": "https://thanhnien.vn/10-su-kien-cong-nghe-thong-tin-noi-bat-nam-2025-185251229142408547.htm",
+      "summary": "Năm 2025, Việt Nam có nhiều thay đổi liên quan đến chính sách, góp phần định hình \"bộ khung\" cho lĩnh vực công nghệ thông tin và truyền thông (ICT).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:16:00+07:00",
+      "fetched": "2025-12-29T21:14:16.628440+07:00"
+    },
+    {
+      "id": "fc8891606c9cf8e492d53bd9b5c6b346",
+      "title": "Nước nào là mỏ 'vàng đen' lớn nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-la-mo-vang-den-lon-nhat-the-gioi-4999679.html",
+      "summary": "Nước này có hơn 300 tỷ thùng dầu mỏ - vàng đen, từng chiếm 1/10 sản lượng của thế giới. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:12:08+07:00",
+      "fetched": "2025-12-29T21:14:12.714829+07:00"
+    },
+    {
+      "id": "701df8554273c1efb37bae243e24db76",
+      "title": "Từ tháng 2.2026, mua bán vàng tại cửa hàng không giấy phép bị phạt tới 20 triệu",
+      "link": "https://thanhnien.vn/tu-thang-22026-mua-ban-vang-tai-cua-hang-khong-giay-phep-bi-phat-toi-20-trieu-185251229195944915.htm",
+      "summary": "Nghị định 340/2025/NĐ-CP vừa được Chính phủ ban hành, quy định mức phạt cao đối với các hành vi vi phạm quy định về hoạt động kinh doanh vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:10:00+07:00",
+      "fetched": "2025-12-29T21:14:16.628598+07:00"
+    },
+    {
+      "id": "7e8c1f39415fc0c54db2a8fc03b48947",
+      "title": "Lý do phim Việt chưa vào danh sách rút gọn Oscar",
+      "link": "https://vnexpress.net/ly-do-phim-viet-chua-vao-danh-sach-rut-gon-oscar-4996631.html",
+      "summary": "Chuyên gia cho rằng nhiều phim Việt chưa vào đề cử Oscar do lối kể chuyện còn thiếu ngôn ngữ điện ảnh, đồng thời chưa có chiến lược quảng bá toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:07:11+07:00",
+      "fetched": "2025-12-29T21:14:12.715026+07:00"
+    },
+    {
+      "id": "93084ec6a80b7e37646214245520aeb0",
+      "title": "Chủ tịch Hà Nội: Thay thế cán bộ né tránh, cản trở bước tiến của thủ đô",
+      "link": "https://thanhnien.vn/chu-tich-ha-noi-thay-the-can-bo-ne-tranh-can-tro-buoc-tien-cua-thu-do-185251229173109422.htm",
+      "summary": "Chủ tịch Hà Nội Vũ Đại Thắng cho biết, trong năm 2026, UBND thành phố cam kết tiếp tục tăng cường phân cấp, phân quyền rạch ròi gắn với kiểm tra, giám sát và thay thế những cán bộ né tránh, cản trở bước tiến của thủ đô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:05:00+07:00",
+      "fetched": "2025-12-29T21:14:16.628756+07:00"
+    },
+    {
+      "id": "cdc55f06593189d3835a930838529fd1",
+      "title": "Habanos Specialist ra mắt cửa hàng flagship tại TP HCM",
+      "link": "https://vnexpress.net/habanos-specialist-ra-mat-cua-hang-flagship-tai-tp-hcm-4999697.html",
+      "summary": "Habanos Specialist khai trương cửa hàng flagship đầu tiên tại TP HCM, mang đến không gian mua sắm và trải nghiệm tập trung cho các sản phẩm, phụ kiện cao cấp...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:00:00+07:00",
+      "fetched": "2025-12-29T21:14:12.715190+07:00"
+    },
+    {
+      "id": "181a9b226eb51a006947e0547a964d84",
+      "title": "Xem nhanh 20h ngày 29.12: Không đồng ý điều khoản mới, tài khoản Zalo sẽ bị xóa? | Làm gì nếu nợ thuế oan?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2912-khong-dong-y-dieu-khoan-moi-tai-khoan-zalo-se-bi-xoa-lam-gi-neu-no-thue-oan-185251229192543847.htm",
+      "summary": "'Xem nhanh 20h' ngày 29.12 có nhiều tin tức đáng chú ý về: Bộ Tài chính nói về việc người dân bị 'nợ thuế oan'; điều gì xảy ra nếu người dùng 'Không đồng ý' điều khoản mới của Zalo;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:00:00+07:00",
+      "fetched": "2025-12-29T21:14:16.628930+07:00"
+    },
+    {
+      "id": "742a84edfac46d35f516037217843011",
+      "title": "Áo kẻ sọc ngang khuấy đảo đường phố bằng hơi thở phóng khoáng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-ke-soc-ngang-khuay-dao-duong-pho-bang-hoi-tho-phong-khoang-185251222155231707.htm",
+      "summary": "Ra đời từ trang phục thủy thủ kiên định, họa tiết kẻ sọc ngang đã nhanh chóng bước lên sàn diễn và đường phố, được giới mộ điệu ưu ái như một tuyên ngôn của sự đơn giản, thanh lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:00:00+07:00",
+      "fetched": "2025-12-29T21:14:16.629086+07:00"
+    },
+    {
+      "id": "545b0a73ad274ddd42fc448e2036602a",
+      "title": "16 người chết trong vụ cháy viện dưỡng lão ở Indonesia",
+      "link": "https://vnexpress.net/16-nguoi-chet-trong-vu-chay-vien-duong-lao-o-indonesia-4999706.html",
+      "summary": "Đám cháy bùng lên dữ dội tại viện dưỡng lão Werdha Damai ở Manado, Indonesia, khiến 16 người chết, 12 người được cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T12:52:14+07:00",
+      "fetched": "2025-12-29T21:14:12.715346+07:00"
+    },
+    {
+      "id": "46915d0c8088f5ed5f338cc873818295",
+      "title": "Ra mắt ấn bản 'Kim Vân Kiều' sau hơn 100 năm",
+      "link": "https://vnexpress.net/ra-mat-an-ban-kim-van-kieu-sau-hon-100-nam-4999613.html",
+      "summary": "''Kim Vân Kiều\" được ra mắt dựa theo nội dung bản dịch của học giả Nguyễn Văn Vĩnh hơn 100 năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T12:46:48+07:00",
+      "fetched": "2025-12-29T21:14:12.715516+07:00"
+    },
+    {
+      "id": "ba17823c9a8192b4bbba3d78a0d10059",
+      "title": "Tổng Bí thư: Đưa dữ liệu thành nguồn tài nguyên mới",
+      "link": "https://thanhnien.vn/tong-bi-thu-dua-du-lieu-thanh-nguon-tai-nguyen-moi-18525122919222589.htm",
+      "summary": "Chiều 29.12, Tổng Bí thư Tô Lâm đến thăm và làm việc tại Trung tâm Dữ liệu quốc gia số 1. Trung tâm được xác định vị trí trung tâm, then chốt, đóng vai trò là 'bộ não', 'trái tim' của quá trình chuyển đổi số quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T12:45:00+07:00",
+      "fetched": "2025-12-29T21:14:16.629236+07:00"
+    },
+    {
+      "id": "413cb5c411d17ed19b6fdf55c8c9845c",
+      "title": "Tái diễn nạn rải đinh trên đường từ TP.HCM về miền Tây, nguy cơ tai nạn rình rập",
+      "link": "https://thanhnien.vn/tai-dien-nan-rai-dinh-tren-duong-tu-tphcm-ve-mien-tay-nguy-co-tai-nan-rinh-rap-185251229155426593.htm",
+      "summary": "Những ngày cận tết, CSGT và nhóm hút đinh lại ghi nhận tái diễn nạn rải đinh trên đường từ TP.HCM. Những mảnh kim loại hình thoi sắc nhọn như dao, người đi xe máy cán phải dễ bị té ngã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T12:44:00+07:00",
+      "fetched": "2025-12-29T21:14:16.629385+07:00"
+    },
+    {
+      "id": "fa7818223f0a51f38eb3df66f803b799",
+      "title": "Đánh giá cán bộ vẫn là khâu yếu của toàn hệ thống",
+      "link": "https://thanhnien.vn/danh-gia-can-bo-van-la-khau-yeu-cua-toan-he-thong-185251229191656839.htm",
+      "summary": "'Chúng ta chỉ có thể sử dụng, bố trí cán bộ hợp lý trên cơ sở đánh giá cán bộ tốt. Làm thế nào để người được đề bạt phải thực sự tâm phục, khẩu phục; tránh tình trạng người không làm gì, không va chạm, chỉ ngồi chờ, lo quan hệ thì lại vượt lên, trong khi người có cống hiến không được ghi nhận'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T12:43:00+07:00",
+      "fetched": "2025-12-29T21:14:16.629542+07:00"
+    },
+    {
+      "id": "c463d083780ae82a8ea87f63012c21d3",
+      "title": "Những sai lầm khi sử dụng đèn nội thất ô tô",
+      "link": "https://thanhnien.vn/nhung-sai-lam-khi-su-dung-den-noi-that-o-to-185251224135047254.htm",
+      "summary": "Đèn nội thất ô tô đóng vai trò hỗ trợ chiếu sáng trong khoang ca-bin, tuy nhiên nếu sử dụng không đúng cách, chi tiết này có thể ảnh hưởng trực tiếp đến an toàn khi lái xe, tuổi thọ ắc-quy…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T12:31:00+07:00",
+      "fetched": "2025-12-29T21:14:16.629701+07:00"
+    },
+    {
+      "id": "e32427f156d4070d71eb5676a08f0728",
+      "title": "Ngoại trưởng Trung Quốc gặp người đồng cấp Campuchia, Thái Lan",
+      "link": "https://vnexpress.net/ngoai-truong-trung-quoc-gap-nguoi-dong-cap-campuchia-thai-lan-4999702.html",
+      "summary": "Ngoại trưởng Campuchia, Thái Lan tới Trung Quốc gặp ông Vương Nghị, trong lúc Bắc Kinh muốn thể hiện vai trò trung gian hòa giải giữa hai nước láng giềng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T12:26:17+07:00",
+      "fetched": "2025-12-29T21:14:12.715674+07:00"
+    },
+    {
+      "id": "e32427f156d4070d71eb5676a08f0728",
+      "title": "Ngoại trưởng Trung Quốc gặp người đồng cấp Campuchia, Thái Lan",
+      "link": "https://vnexpress.net/ngoai-truong-trung-quoc-gap-nguoi-dong-cap-campuchia-thai-lan-4999702.html",
+      "summary": "Ngoại trưởng Campuchia, Thái Lan tới Trung Quốc gặp ông Vương Nghị, trong lúc Bắc Kinh muốn thể hiện vai trò trung gian hòa giải giữa hai nước láng giềng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-29T12:26:17+07:00",
+      "fetched": "2025-12-29T21:14:19.729005+07:00"
+    },
+    {
       "id": "f69bf0df9636ce0e7dfec5d869e1d5d3",
       "title": "Nhà máy ở TP.HCM thông báo đóng cửa trước tết, công nhân ngừng làm việc chờ hỗ trợ",
       "link": "https://thanhnien.vn/nha-may-o-tphcm-thong-bao-dong-cua-truoc-tet-cong-nhan-ngung-lam-viec-cho-ho-tro-185251229190134269.htm",
@@ -471,6 +861,26 @@ window.newsData_2025_12_29 = {
       "category": "Tổng hợp",
       "published": "2025-12-29T12:24:00+07:00",
       "fetched": "2025-12-29T19:26:24.421804+07:00"
+    },
+    {
+      "id": "2a3399fd90b66604a21a00fa10e8a1fe",
+      "title": "Khách 'đỏ mắt' tìm phòng khách sạn ở Phú Quốc dịp Tết Dương lịch",
+      "link": "https://vnexpress.net/khach-do-mat-tim-phong-khach-san-o-phu-quoc-dip-tet-duong-lich-4999612.html",
+      "summary": "Các khách sạn, khu nghỉ dưỡng tại Phú Quốc đạt công suất tối đa dịp Tết Dương lịch khi đón lượng khách tăng vọt, khiến việc đặt phòng trên các ứng dụng trực tuyến gần như thất bại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T12:23:58+07:00",
+      "fetched": "2025-12-29T21:14:12.715858+07:00"
+    },
+    {
+      "id": "aad3964c0170591684e0ee0e8dfb596d",
+      "title": "Phó thủ tướng: Không để người không làm vượt lên người cống hiến",
+      "link": "https://vnexpress.net/pho-thu-tuong-khong-de-nguoi-khong-lam-vuot-len-nguoi-cong-hien-4999688.html",
+      "summary": "Phó thủ tướng Nguyễn Hòa Bình yêu cầu đổi mới phương pháp đánh giá cán bộ, khắc phục tình trạng người không làm, không va chạm nhưng nhờ quan hệ lại được đề bạt, trong khi người cống hiến không được ghi nhận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T12:18:36+07:00",
+      "fetched": "2025-12-29T21:14:12.716025+07:00"
     },
     {
       "id": "bbae6461cb5826852cb2b987b63648ef",
@@ -543,6 +953,16 @@ window.newsData_2025_12_29 = {
       "fetched": "2025-12-29T19:26:24.422938+07:00"
     },
     {
+      "id": "a717a74f2c4b5ce8c8b5fca9143f57d3",
+      "title": "Bốc thăm giành suất mua nhà xã hội giá 21 triệu đồng một m2",
+      "link": "https://vnexpress.net/boc-tham-gianh-suat-mua-nha-xa-hoi-gia-21-trieu-dong-mot-m2-4999636.html",
+      "summary": "Để giành suất mua 80 căn nhà xã hội tại xã Đông Anh, Hà Nội giá 21 triệu một m2, gần 500 người đã tham gia bốc thăm chiều nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T12:03:20+07:00",
+      "fetched": "2025-12-29T21:14:12.716184+07:00"
+    },
+    {
       "id": "689f7c2ba8af77324be950397cdebb27",
       "title": "Tiger Remix 2026 mang đến countdown TP.HCM loạt trải nghiệm chưa từng có",
       "link": "https://thanhnien.vn/tiger-remix-2026-mang-den-countdown-tphcm-loat-trai-nghiem-chua-tung-co-185251229182108262.htm",
@@ -581,6 +1001,46 @@ window.newsData_2025_12_29 = {
       "category": "Kinh doanh",
       "published": "2025-12-29T12:00:00+07:00",
       "fetched": "2025-12-29T19:26:28.487704+07:00"
+    },
+    {
+      "id": "026858f70361271e32992953ac35bd65",
+      "title": "Trang trại điện mặt trời ngoài khơi lớn nhất thế giới hoạt động",
+      "link": "https://vnexpress.net/trang-trai-dien-mat-troi-ngoai-khoi-lon-nhat-the-gioi-hoat-dong-4999435.html",
+      "summary": "Trang trại điện mặt trời công suất 1 GW đầu tiên của Trung Quốc, công trình lớn nhất thế giới thuộc loại này, kết nối hoàn toàn với lưới điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T12:00:00+07:00",
+      "fetched": "2025-12-29T21:14:12.716496+07:00"
+    },
+    {
+      "id": "4c650afe98fd33ddd6b0ecfe3a4bbb69",
+      "title": "Vietbank tăng vốn điều lệ lên hơn 10.700 tỷ đồng",
+      "link": "https://vnexpress.net/vietbank-tang-von-dieu-le-len-hon-10-700-ty-dong-4999699.html",
+      "summary": "Vietbank hoàn tất đợt phát hành cổ phiếu ra công chúng trong tháng 12, qua đó nâng vốn điều lệ lên 10.769 tỷ đồng, mở rộng dư địa tăng trưởng và năng lực tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T12:00:00+07:00",
+      "fetched": "2025-12-29T21:14:12.716810+07:00"
+    },
+    {
+      "id": "aefac6483dd72570e1689fa67b2c2f02",
+      "title": "Xiaomi mở rộng hợp tác Thế Giới Di Động, nâng tiêu chuẩn dịch vụ",
+      "link": "https://vnexpress.net/xiaomi-mo-rong-hop-tac-the-gioi-di-dong-nang-tieu-chuan-dich-vu-4999692.html",
+      "summary": "Xiaomi và Thế Giới Di Động thống nhất chiến lược hợp tác 2026, tập trung nâng cấp tiêu chuẩn dịch vụ với triết lý lấy khách hàng làm trọng tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T12:00:00+07:00",
+      "fetched": "2025-12-29T21:14:12.717004+07:00"
+    },
+    {
+      "id": "026858f70361271e32992953ac35bd65",
+      "title": "Trang trại điện mặt trời ngoài khơi lớn nhất thế giới hoạt động",
+      "link": "https://vnexpress.net/trang-trai-dien-mat-troi-ngoai-khoi-lon-nhat-the-gioi-hoat-dong-4999435.html",
+      "summary": "Trang trại điện mặt trời công suất 1 GW đầu tiên của Trung Quốc, công trình lớn nhất thế giới thuộc loại này, kết nối hoàn toàn với lưới điện.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-29T12:00:00+07:00",
+      "fetched": "2025-12-29T21:14:25.217471+07:00"
     },
     {
       "id": "850356de6b49e9f215d1a54c603b49c8",
