@@ -1,6 +1,6 @@
 window.newsData_2025_12_30 = {
   "date": "2025-12-30",
-  "lastUpdated": "2025-12-30T10:21:05.949853+07:00",
+  "lastUpdated": "2025-12-30T11:31:33.618311+07:00",
   "articles": [
     {
       "id": "987b7a1c0cbef06f05cba8d606987359",
@@ -301,6 +301,256 @@ window.newsData_2025_12_30 = {
       "category": "Tổng hợp",
       "published": "2025-12-30T07:59:47.922196+07:00",
       "fetched": "2025-12-30T07:59:47.922404+07:00"
+    },
+    {
+      "id": "3235d7dd7c49218fa7cb224b0ff4b398",
+      "title": "Lời kể của nhân chứng vụ học viên trung tâm công tác xã hội tử vong",
+      "link": "https://thanhnien.vn/loi-ke-cua-nhan-chung-vu-hoc-vien-trung-tam-cong-tac-xa-hoi-tu-vong-185251230092955163.htm",
+      "summary": "Một học viên đang điều trị tại Trung tâm Công tác xã hội Hải Hà (Quảng Ninh) kể lại những gì chứng kiến trước khi nam sinh 17 tuổi tử vong chỉ sau 2 ngày nhập học, hé lộ nhiều tình tiết khiến gia đình nạn nhân và dư luận bức xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T04:27:00+07:00",
+      "fetched": "2025-12-30T11:31:22.245385+07:00"
+    },
+    {
+      "id": "1e5858efeb5aeff0a187425246319d13",
+      "title": "Báo động tình trạng hút thuốc lá thụ động nơi làm việc, quán cà phê",
+      "link": "https://thanhnien.vn/bao-dong-tinh-trang-hut-thuoc-la-thu-dong-noi-lam-viec-quan-ca-phe-185251230100221375.htm",
+      "summary": "Tình trạng hút thuốc lá chung có giảm, nhưng tình trạng hút thuốc lá thụ động gia tăng báo động, nhất là ở nơi làm việc, quán cà phê...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T04:24:00+07:00",
+      "fetched": "2025-12-30T11:31:22.245556+07:00"
+    },
+    {
+      "id": "4d2e40a34c0e4edf1ced00d27f2baca3",
+      "title": "Bất ngờ khi tiết canh vịt được xếp vào top món ngon thế giới",
+      "link": "https://thanhnien.vn/bat-ngo-khi-tiet-canh-vit-duoc-xep-vao-top-mon-ngon-the-gioi-185251230110501992.htm",
+      "summary": "Danh sách 50 món từ vịt ngon nhất thế giới do trang ẩm thực Taste Atlas vừa công bố, tiết canh vịt của Việt Nam xuất hiện bên cạnh những tên tuổi lẫy lừng như vịt Bắc Kinh hay cơm vịt Singapore…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T04:18:00+07:00",
+      "fetched": "2025-12-30T11:31:22.245717+07:00"
+    },
+    {
+      "id": "78825f86cc082fb20c17f534208575c9",
+      "title": "FAM cải tổ với HLV ‘mê’ bóng đá trẻ Việt Nam và giải Thanh Niên sinh viên",
+      "link": "https://thanhnien.vn/fam-cai-to-voi-hlv-me-bong-da-tre-viet-nam-va-giai-thanh-nien-sinh-vien-185251230110632648.htm",
+      "summary": "Quyền Chủ tịch Liên đoàn Bóng đá Malaysia (FAM), Yusoff Mahadi khẳng định, HLV Ong Kim Swee, người được bổ nhiệm làm giám đốc kỹ thuật, sẽ có toàn quyền quyết định việc xây dựng lại hệ thống đào tạo cầu thủ trẻ của bóng đá nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T04:15:00+07:00",
+      "fetched": "2025-12-30T11:31:22.245879+07:00"
+    },
+    {
+      "id": "e312d1b2f16a98fceb0388a0ec664f32",
+      "title": "Ông Trump 'rất giận' sau thông tin nhà ông Putin bị Ukraine tấn công",
+      "link": "https://thanhnien.vn/ong-trump-rat-gian-sau-thong-tin-nha-ong-putin-bi-ukraine-tan-cong-185251230110544459.htm",
+      "summary": "Hôm 29.12, Nga cáo buộc Ukraine âm mưu tấn công dinh thự của Tổng thống Vladimir Putin ở miền bắc nước Nga, trong khi Kyiv bác bỏ cáo buộc này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T04:08:00+07:00",
+      "fetched": "2025-12-30T11:31:22.246030+07:00"
+    },
+    {
+      "id": "f4597e52bd038613fd3cae7500b6b04b",
+      "title": "Đối thủ của U23 Việt Nam hủy đá tập với Trung Quốc",
+      "link": "https://vnexpress.net/doi-thu-cua-u23-viet-nam-huy-da-tap-voi-trung-quoc-4999888.html",
+      "summary": "Kyrgyzstan thông báo hủy trận đá tập kín thứ hai với Trung Quốc, trước khi dự VCK U23 châu Á 2026 cùng Việt Nam ở bảng A.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-30T04:03:43+07:00",
+      "fetched": "2025-12-30T11:31:33.611252+07:00"
+    },
+    {
+      "id": "dcb5907bce046d5ad1c1ee238b3e1116",
+      "title": "Ả Rập Xê Út không kích thành phố cảng Yemen",
+      "link": "https://thanhnien.vn/a-rap-xe-ut-khong-kich-thanh-pho-cang-yemen-185251230101858029.htm",
+      "summary": "Ả Rập Xê Út ngày 30.12 thông báo ném bom thành phố Mukalla ở Yemen, cho biết đã nhằm vào lô vũ khí được chở từ Các tiểu vương quốc Ả Rập Thống nhất (UAE) để hỗ trợ lực lượng ly khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T04:03:00+07:00",
+      "fetched": "2025-12-30T11:31:22.246194+07:00"
+    },
+    {
+      "id": "fda09922677abd5f2bcb43822afa8f95",
+      "title": "Công an TP.HCM bắt chủ Công ty TNHH Mua bán nợ Lê Phong Gia Lai",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-chu-cong-ty-tnhh-mua-ban-no-le-phong-gia-lai-185251230094514348.htm",
+      "summary": "Ngày 30.12, Cơ quan CSĐT Công an TP.HCM cho biết vừa khởi tố, bắt tạm giam Lê Tuấn Phong (tức Phong \"Lê\"), chủ Công ty TNHH Mua bán nợ Lê Phong Gia Lai về hành vi cưỡng đoạt tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T04:03:00+07:00",
+      "fetched": "2025-12-30T11:31:22.246358+07:00"
+    },
+    {
+      "id": "bd90c8b21ccbac072d929d5e272206b5",
+      "title": "Xem nhanh 12h: Bà Nguyễn Thị Thanh Nhàn tiếp tục bị truy tố | VNG phải giải trình về Zalo",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-ba-nguyen-thi-thanh-nhan-tiep-tuc-bi-truy-to-vng-phai-giai-trinh-ve-zalo-185251230105333364.htm",
+      "summary": "Vụ án liên quan bà Nguyễn Thị Thanh Nhàn, VNG được mời làm việc về Zalo, mua bán vàng không giấy phép bị xử phạt ra sao… sẽ là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh 12h' ngày 30.12.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T04:00:00+07:00",
+      "fetched": "2025-12-30T11:31:22.246517+07:00"
+    },
+    {
+      "id": "22f7fd6e218e3b961443e6d8a5daed93",
+      "title": "Đại lễ cầu quốc thái dân an trên đỉnh núi Bà Đen",
+      "link": "https://thanhnien.vn/dai-le-cau-quoc-thai-dan-an-tren-dinh-nui-ba-den-185251230081040727.htm",
+      "summary": "Trước thềm năm 2026, đại lễ cầu quốc thái dân an tại núi Bà Đen không chỉ là hoạt động tín ngưỡng quan trọng mà còn góp phần lan tỏa sâu rộng những giá trị nhân văn về từ bi, hòa hợp, hướng thiện và phụng sự cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:58:00+07:00",
+      "fetched": "2025-12-30T11:31:22.246667+07:00"
+    },
+    {
+      "id": "7f6a1a7d03b91c54fd5e8f2400125ea4",
+      "title": "Sở VH-TT TP.HCM 'lì xì' sách mừng năm mới",
+      "link": "https://thanhnien.vn/so-vh-tt-tphcm-li-xi-sach-mung-nam-moi-185251230102733885.htm",
+      "summary": "Sáng 30.12 tại xã Bắc Tân Uyên, Sở VH-TT TP.HCM phối hợp cùng UBND xã Bắc Tân Uyên tổ chức lễ bàn giao sách cho các cơ sở trên toàn địa bàn TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:53:00+07:00",
+      "fetched": "2025-12-30T11:31:22.246817+07:00"
+    },
+    {
+      "id": "9ba2d1085ae6891298a2e9c31479d7fa",
+      "title": "Sát hại bạn gái rồi lao xe vào container bên đường",
+      "link": "https://vnexpress.net/sat-hai-ban-gai-roi-lao-xe-vao-container-ben-duong-4999894.html",
+      "summary": "Sau khi sát hại bạn gái trước nhà trọ, gã đàn ông chạy xe máy khỏi hiện trường 3 km thì tông vào container trên đường, tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:47:10+07:00",
+      "fetched": "2025-12-30T11:31:18.765835+07:00"
+    },
+    {
+      "id": "a808f63f0a29b017486363d6146480c2",
+      "title": "TP.HCM: Giáo viên đơn vị liên kết không có chứng chỉ nghiệp vụ sư phạm",
+      "link": "https://thanhnien.vn/tphcm-giao-vien-don-vi-lien-ket-khong-co-chung-chi-nghiep-vu-su-pham-185251230093259909.htm",
+      "summary": "Theo thông báo kết quả kiểm tra về việc tổ chức thực hiện chương trình nhà trường và các hoạt động ngoài giờ chính khóa trên địa bàn cụm 2 của Sở GD-ĐT TP.HCM, có giáo viên ở đơn vị liên kết không có chứng chỉ nghiệp vụ sư phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:44:00+07:00",
+      "fetched": "2025-12-30T11:31:22.246968+07:00"
+    },
+    {
+      "id": "a07f4d729ff5dca16c8c2503f8df16af",
+      "title": "Kiều hối về TP.HCM dự kiến lên kỷ lục 10,5 tỉ USD",
+      "link": "https://thanhnien.vn/kieu-hoi-ve-tphcm-du-kien-len-ky-luc-105-ti-usd-185251230103404391.htm",
+      "summary": "Theo bà Trần Thị Ngọc Liên - Phó giám đốc Ngân hàng Nhà nước chi nhánh khu vực 2, lượng kiều hối về TP.HCM trong năm 2025 dự kiến đạt khoảng 10,5 tỉ USD, cao nhất từ trước đến nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:43:00+07:00",
+      "fetched": "2025-12-30T11:31:22.247116+07:00"
+    },
+    {
+      "id": "9cb6033d6cf048f9e867a25db339091f",
+      "title": "Nhà ga T3 Tân Sơn Nhất 'lên đồ' lung linh đón hàng vạn khách đầu năm mới",
+      "link": "https://thanhnien.vn/nha-ga-t3-tan-son-nhat-len-do-lung-linh-don-hang-van-khach-dau-nam-moi-185251230103346311.htm",
+      "summary": "Dịp tết Dương lịch 2026, Cảng HKQT Tân Sơn Nhất dự kiến trung bình một ngày khoảng 131.000 hành khách. Đây cũng là năm đầu tiên nhà ga T3 đón năm mới nên được chăm chút trang trí rất lộng lẫy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:42:00+07:00",
+      "fetched": "2025-12-30T11:31:22.247291+07:00"
+    },
+    {
+      "id": "9c26a442de02977415317c8f556d71ad",
+      "title": "Anh Ngô Minh Hải được chỉ định giữ chức Bí thư Thành đoàn TP.HCM",
+      "link": "https://thanhnien.vn/anh-ngo-minh-hai-duoc-chi-dinh-giu-chuc-bi-thu-thanh-doan-tphcm-185251230005503552.htm",
+      "summary": "Sáng 30.12, tại không gian mở của Nhà văn hóa Thanh niên TP.HCM đã diễn ra phiên trọng thể Đại hội đại biểu Đoàn TNCS Hồ Chí Minh TP.HCM lần thứ I, nhiệm kỳ 2025 – 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:42:00+07:00",
+      "fetched": "2025-12-30T11:31:22.247442+07:00"
+    },
+    {
+      "id": "f427f1e6363313adfdcb0ad892014194",
+      "title": "10 tính năng mặc định trên Chrome nên vô hiệu hóa ngay lập tức",
+      "link": "https://thanhnien.vn/10-tinh-nang-mac-dinh-tren-chrome-nen-vo-hieu-hoa-ngay-lap-tuc-185251228145636995.htm",
+      "summary": "Những cài đặt mặc định trên Google Chrome bạn cần tắt ngay để bảo vệ dữ liệu và tăng tốc máy tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:42:00+07:00",
+      "fetched": "2025-12-30T11:31:22.247594+07:00"
+    },
+    {
+      "id": "7074412a1d5249310cef3960900549da",
+      "title": "UAV Mỹ mang tên lửa nhiều chưa từng thấy khi triển khai gần Venezuela",
+      "link": "https://vnexpress.net/uav-my-mang-ten-lua-nhieu-chua-tung-thay-khi-trien-khai-gan-venezuela-4999865.html",
+      "summary": "UAV MQ-9 Mỹ triển khai tại Puerto Rico mang tới 10 tên lửa chống tăng AGM-114, cấu hình vũ khí rất hiếm gặp với dòng phi cơ này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:38:50+07:00",
+      "fetched": "2025-12-30T11:31:18.766029+07:00"
+    },
+    {
+      "id": "7074412a1d5249310cef3960900549da",
+      "title": "UAV Mỹ mang tên lửa nhiều chưa từng thấy khi triển khai gần Venezuela",
+      "link": "https://vnexpress.net/uav-my-mang-ten-lua-nhieu-chua-tung-thay-khi-trien-khai-gan-venezuela-4999865.html",
+      "summary": "UAV MQ-9 Mỹ triển khai tại Puerto Rico mang tới 10 tên lửa chống tăng AGM-114, cấu hình vũ khí rất hiếm gặp với dòng phi cơ này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-30T03:38:50+07:00",
+      "fetched": "2025-12-30T11:31:26.095746+07:00"
+    },
+    {
+      "id": "d100c1cfbb744d90070a1dff66b9074b",
+      "title": "Thanh niên xung phong được tăng gần gấp đôi trợ cấp",
+      "link": "https://vnexpress.net/thanh-nien-xung-phong-duoc-tang-gan-gap-doi-tro-cap-4999874.html",
+      "summary": "Chính phủ nâng mức trợ cấp với thanh niên xung phong từ 540.000 đồng lên một triệu đồng mỗi tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:33:02+07:00",
+      "fetched": "2025-12-30T11:31:18.766213+07:00"
+    },
+    {
+      "id": "95ab71e79c975063543af3a35a8ffb9a",
+      "title": "Chồng để tôi lo tiền và tự đi chữa hiếm muộn suốt 7 năm",
+      "link": "https://vnexpress.net/chong-de-toi-lo-tien-va-tu-di-chua-hiem-muon-suot-7-nam-4999796.html",
+      "summary": "Đến khi chuyển dạ, gọi chồng đưa vào viện nhưng anh bỏ đi; tôi sinh mổ xong anh cũng không vào, 19h mới xuất hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:32:59+07:00",
+      "fetched": "2025-12-30T11:31:18.766380+07:00"
+    },
+    {
+      "id": "0e014047aff7b07e2414d7b2ba436c1a",
+      "title": "Danh sách gần 550 ôtô, xe máy bị phạt nguội đợt 1",
+      "link": "https://vnexpress.net/danh-sach-gan-550-oto-xe-may-bi-phat-nguoi-dot-1-4999731.html",
+      "summary": "Hàng trăm phương tiện gồm ôtô, xe máy bị camera AI phát hiện vi phạm trong đợt 1 vận hành, ngày 10-18/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:30:17+07:00",
+      "fetched": "2025-12-30T11:31:18.766540+07:00"
+    },
+    {
+      "id": "66bba151ff1e51e430c65da76d1f2217",
+      "title": "Techcombank hợp tác Hội tư vấn thuế Việt Nam hỗ trợ hộ kinh doanh",
+      "link": "https://vnexpress.net/techcombank-hop-tac-hoi-tu-van-thue-viet-nam-ho-tro-ho-kinh-doanh-4999897.html",
+      "summary": "Techcombank phối hợp Hội tư vấn thuế Việt Nam triển khai chương trình truyền thông, chia sẻ và tư vấn kiến thức thuế cho cộng đồng hộ kinh doanh có nhu cầu chuyển đổi lên doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:30:00+07:00",
+      "fetched": "2025-12-30T11:31:18.766698+07:00"
+    },
+    {
+      "id": "07f569768779b6f986aae9948a84d447",
+      "title": "Vì sao phụ nữ nên ăn rau bina thường xuyên?",
+      "link": "https://vnexpress.net/vi-sao-phu-nu-nen-an-rau-bina-thuong-xuyen-4999602.html",
+      "summary": "Rau bina giàu sắt, magie, kali và axit folic mang lại nhiều lợi ích cho xương, hệ miễn dịch và khả năng sinh sản của phụ nữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:30:00+07:00",
+      "fetched": "2025-12-30T11:31:18.766863+07:00"
+    },
+    {
+      "id": "3783c2b17370467c6b7920075be89bbf",
+      "title": "Cha mẹ Mỹ lùng mua điện thoại 'cục gạch' cho con",
+      "link": "https://vnexpress.net/cha-me-my-lung-mua-dien-thoai-cuc-gach-cho-con-4997632.html",
+      "summary": "Bỏ TikTok và các thiết bị giám sát, nhiều phụ huynh tại Mỹ đang quay lại cách nuôi dạy truyền thống: cho con dùng điện thoại cơ bản và đẩy chúng ra sân chơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T03:19:34+07:00",
+      "fetched": "2025-12-30T11:31:18.767025+07:00"
     },
     {
       "id": "8428594d6fc3334e1bdb8ede953a2075",
