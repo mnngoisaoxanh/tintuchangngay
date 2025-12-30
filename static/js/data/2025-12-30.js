@@ -1,7 +1,157 @@
 window.newsData_2025_12_30 = {
   "date": "2025-12-30",
-  "lastUpdated": "2025-12-30T17:14:08.350190+07:00",
+  "lastUpdated": "2025-12-30T19:25:58.093344+07:00",
   "articles": [
+    {
+      "id": "6f1fe49f1ee8a016fe88618cf7795dbe",
+      "title": "Công an TP.HCM xử lý hàng loạt cơ sở vi phạm an toàn thực phẩm, phạt hơn 1,6 tỉ đồng",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-xu-ly-hang-loat-co-so-vi-pham-an-toan-thuc-pham-phat-hon-1-6-ti-dong-20251230155612633.htm",
+      "summary": "Phòng Cảnh sát kinh tế Công an TP.HCM phát hiện các cơ sở lưu chứa hơn 30,5 tấn nội tạng và thịt động vật các loại không rõ nguồn gốc xuất xứ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.997948+07:00",
+      "fetched": "2025-12-30T19:25:47.998060+07:00"
+    },
+    {
+      "id": "ea785f713eda689fba90665be04ca5d0",
+      "title": "TP.HCM thực hiện 3 nhóm hoạt động để học sinh hạn chế sử dụng điện thoại",
+      "link": "https://tuoitre.vn/tp-hcm-thuc-hien-3-nhom-hoat-dong-de-hoc-sinh-han-che-su-dung-dien-thoai-20251230160407669.htm",
+      "summary": "Sở Giáo dục và Đào tạo TP.HCM yêu cầu các nhà trường thực hiện nhiều hoạt động bổ ích cho học sinh, để các em hạn chế sử dụng điện thoại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.997824+07:00",
+      "fetched": "2025-12-30T19:25:47.997937+07:00"
+    },
+    {
+      "id": "fbb54dbdaad376396471323941ebf661",
+      "title": "Tặng hơn 4.200 vé xe ô tô cho sinh viên, thanh niên công nhân, người lao động về quê dịp Tết 2026",
+      "link": "https://tuoitre.vn/tang-hon-4-200-ve-xe-o-to-cho-sinh-vien-thanh-nien-cong-nhan-nguoi-lao-dong-ve-que-dip-tet-2026-20251230134000692.htm",
+      "summary": "Ngày 30-12, Trung ương Đoàn cho biết chương trình \"Mang Tết về nhà\" năm 2026 sẽ dành tặng 4.230 vé xe ô tô cho sinh viên, thanh niên công nhân và người lao động về quê đón Tết Nguyên đán Bính Ngọ năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.997692+07:00",
+      "fetched": "2025-12-30T19:25:47.997812+07:00"
+    },
+    {
+      "id": "80fd27d486dbabd964c8bd0cd010b6a5",
+      "title": "Khởi tố chủ và lái xe máy múc tông, hất văng nữ sinh trên quốc lộ",
+      "link": "https://tuoitre.vn/khoi-to-chu-va-lai-xe-may-muc-tong-hat-vang-nu-sinh-tren-quoc-lo-20251230161347429.htm",
+      "summary": "Công an tỉnh Phú Thọ đã khởi tố, bắt tạm giam chủ xe và lái xe máy múc tông, hất văng nữ sinh trên quốc lộ 32 khiến nạn nhân bị thương nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.997563+07:00",
+      "fetched": "2025-12-30T19:25:47.997680+07:00"
+    },
+    {
+      "id": "2518fbfa617b14d7b211e23a956a659a",
+      "title": "Đo gia đình hạnh phúc bằng khả năng sống tốt và nụ cười",
+      "link": "https://tuoitre.vn/do-gia-dinh-hanh-phuc-bang-kha-nang-song-tot-va-nu-cuoi-20251230153434055.htm",
+      "summary": "Chúng ta không nên đo hạnh phúc bằng đạo đức mà bằng khả năng sống tốt (phồn vinh) và nụ cười.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.997425+07:00",
+      "fetched": "2025-12-30T19:25:47.997548+07:00"
+    },
+    {
+      "id": "b9c51855280594342227ce6d6b7dd928",
+      "title": "Trung Quốc công bố video drone bay trên tòa nhà biểu tượng của Đài Loan",
+      "link": "https://tuoitre.vn/trung-quoc-cong-bo-video-drone-bay-tren-toa-nha-bieu-tuong-cua-dai-loan-20251230163922021.htm",
+      "summary": "Đoạn video nhanh chóng trở thành tâm điểm chú ý trong cuộc tập trận của Trung Quốc quanh Đài Loan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.997277+07:00",
+      "fetched": "2025-12-30T19:25:47.997412+07:00"
+    },
+    {
+      "id": "9c853abfdac485a1e44838f07a6272c4",
+      "title": "Chính thức sáp nhập Bệnh viện Đa khoa Sài Gòn vào Bệnh viện Nhân dân Gia Định",
+      "link": "https://tuoitre.vn/benh-vien-nhan-dan-gia-dinh-duoc-mo-rong-nguoi-dan-huong-loi-y-te-chuyen-sau-20251230163559377.htm",
+      "summary": "Việc giao nhiệm vụ cho bệnh viện tuyến cuối mở rộng hoạt động sang địa điểm mới là giải pháp giúp nhanh chóng nâng cơ sở y tế từ tầng điều trị cơ bản lên tầng chuyên sâu, qua đó đưa dịch vụ y tế chất lượng cao đến gần người dân trung tâm TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.997113+07:00",
+      "fetched": "2025-12-30T19:25:47.997264+07:00"
+    },
+    {
+      "id": "09974bd752e0d6a9a5946f887e370f47",
+      "title": "Nghi vợ nói dối, người đàn ông ở Cần Thơ dùng kéo đâm vợ suýt chết",
+      "link": "https://tuoitre.vn/nghi-vo-noi-doi-nguoi-dan-ong-o-can-tho-dung-keo-dam-vo-suyt-chet-20251225182110443.htm",
+      "summary": "Chỉ vì nghi ngờ vợ đi \"tiếp khách\", Nguyễn Hải Long không kiềm chế được cơn ghen đã cầm kéo lao vào đâm vợ liên tiếp nhiều nhát vào vùng bụng và ngực, gây thương tích 49%. Bị hại không chết là ngoài ý muốn của Long.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.996974+07:00",
+      "fetched": "2025-12-30T19:25:47.997101+07:00"
+    },
+    {
+      "id": "f151eddccba97ff0162eb34bdd78a751",
+      "title": "Hàn Quốc phát triển xe lăn điện cho người cao tuổi và người khuyết tật",
+      "link": "https://tuoitre.vn/han-quoc-phat-trien-xe-lan-dien-cho-nguoi-cao-tuoi-va-nguoi-khuyet-tat-2025123010595162.htm",
+      "summary": "Chiếc xe điện ngồi thông minh được phát triển lần này sử dụng các công nghệ như lidar (cảm biến xe tự lái), camera, cảm biến siêu âm để có thể tự lái cả trong nhà và ngoài trời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.996848+07:00",
+      "fetched": "2025-12-30T19:25:47.996963+07:00"
+    },
+    {
+      "id": "3d22493e4cb1533865a682d34e3ff683",
+      "title": "Rec Rec đưa đạm dế vào thực đơn người trẻ hiện đại",
+      "link": "https://tuoitre.vn/rec-rec-dua-dam-de-vao-thuc-don-nguoi-tre-hien-dai-20251230155739712.htm",
+      "summary": "Tại châu Âu, dế đã được sử dụng như một nguồn đạm sạch, an toàn với môi trường. Tại Việt Nam, Rec Rec đang đưa đạm dế vào đời sống hiện đại thông qua chuỗi sản phẩm tiện lợi được sản xuất tại nhà máy Cricket One.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.996712+07:00",
+      "fetched": "2025-12-30T19:25:47.996837+07:00"
+    },
+    {
+      "id": "e70e7ded502824accce691e6552520ba",
+      "title": "Khởi tố vụ án chồng chém chết vợ và bé 2 tuổi rồi nhảy lầu tự tử",
+      "link": "https://tuoitre.vn/khoi-to-vu-an-chong-chem-chet-vo-va-be-2-tuoi-roi-nhay-lau-tu-tu-20251230164310109.htm",
+      "summary": "Chiều 30-12, Cơ quan cảnh sát điều tra Công an tỉnh Thanh Hóa đã khởi tố vụ án hình sự về tội “giết người”, liên quan đến vụ Dương Văn Khánh chém chết vợ và bé 2 tuổi rồi nhảy lầu tự tử, xảy ra sáng cùng ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.996580+07:00",
+      "fetched": "2025-12-30T19:25:47.996700+07:00"
+    },
+    {
+      "id": "c6882e1bfa77644567e5f47bf8bb2f4f",
+      "title": "CLB Công An Hà Nội xác định đối thủ ở vòng knock-out cúp châu Á",
+      "link": "https://tuoitre.vn/clb-cong-an-ha-noi-xac-dinh-doi-thu-o-vong-knock-out-cup-chau-a-20251230165733711.htm",
+      "summary": "Theo kết quả bốc thăm, CLB Công An Hà Nội gặp Tampines Rovers (Singapore) ở vòng loại trực tiếp AFC Champions League Two 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.996412+07:00",
+      "fetched": "2025-12-30T19:25:47.996567+07:00"
+    },
+    {
+      "id": "2f6a156fe55ae551014f6922b724ab35",
+      "title": "Lên đồ ngắm mùa hoa mai anh đào ở Hà Giang",
+      "link": "https://tuoitre.vn/len-do-ngam-mua-hoa-mai-anh-dao-o-ha-giang-20251230164915633.htm",
+      "summary": "Hoa mai anh đào nở hồng rực cả góc trời cực Bắc Tổ quốc, thu hút du khách đến check-in. Thợ chụp ảnh Hà Giang chạy sô không kịp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.996261+07:00",
+      "fetched": "2025-12-30T19:25:47.996391+07:00"
+    },
+    {
+      "id": "6009604e558831a5fd62384f52abec69",
+      "title": "Bổ nhiệm ông Nguyễn Tuấn Anh làm Giám đốc Trung tâm phục vụ hành chính công TP.HCM",
+      "link": "https://tuoitre.vn/bo-nhiem-ong-nguyen-tuan-anh-lam-giam-doc-trung-tam-phuc-vu-hanh-chinh-cong-tp-hcm-20251230165014742.htm",
+      "summary": "Chiều 30-12, UBND TP.HCM tổ chức lễ trao quyết định điều động, bổ nhiệm cán bộ. Trong đó ông Nguyễn Tuấn Anh được bổ nhiệm giữ chức Giám đốc Trung tâm phục vụ hành chính công TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.996083+07:00",
+      "fetched": "2025-12-30T19:25:47.996247+07:00"
+    },
+    {
+      "id": "f738b5cbdd60cc4590169b9c078ea466",
+      "title": "Malaysia bất ngờ tìm ra chiến lược kháng cáo mới, có thể thoát án xử thua tuyển Việt Nam",
+      "link": "https://tuoitre.vn/malaysia-bat-ngo-tim-ra-chien-luoc-khang-cao-moi-co-the-thoat-an-xu-thua-tuyen-viet-nam-20251230171014698.htm",
+      "summary": "Chuyên gia pháp lý người Malaysia, luật sư Erman Nik Roseli cho biết Liên đoàn Bóng đá Malaysia có thể sẽ tính đến phương án kháng cáo lần 3 trong vụ bê bối nhập tịch cầu thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:25:47.995845+07:00",
+      "fetched": "2025-12-30T19:25:47.996067+07:00"
+    },
     {
       "id": "21c0987a207c24ef2e32034388aa176b",
       "title": "Châu Âu đối mặt cuộc khủng hoảng nhà ở trầm trọng",
@@ -453,6 +603,346 @@ window.newsData_2025_12_30 = {
       "fetched": "2025-12-30T13:20:21.886936+07:00"
     },
     {
+      "id": "8542e42518ead1fab10c12256ce13437",
+      "title": "Căn bệnh tốn tiền tỉ điều trị: Có thể xét nghiệm sàng lọc tại y tế xã",
+      "link": "https://thanhnien.vn/can-benh-ton-tien-ti-dieu-tri-co-the-xet-nghiem-sang-loc-tai-y-te-xa-185251230184414274.htm",
+      "summary": "Bị tan máu bẩm sinh (bệnh thalassemia) thể nặng, người bệnh cần điều trị lâu dài, với chi phí khoảng 3 tỉ đồng. Sáng kiến xét nghiệm sàng lọc phòng bệnh ngay tại y tế tuyến xã, giúp người mang gen bệnh được phát hiện, ngăn ngừa bệnh cho thế hệ sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T12:22:00+07:00",
+      "fetched": "2025-12-30T19:25:46.716069+07:00"
+    },
+    {
+      "id": "d6838870ab33a195e0aa2c84d275651c",
+      "title": "Volkswagen Golf nhập từ Đức giá dưới 1 tỉ đồng: 'Xe chơi' cho người thích lái",
+      "link": "https://thanhnien.vn/volkswagen-golf-nhap-tu-duc-gia-duoi-1-ti-dong-xe-choi-cho-nguoi-thich-lai-185251229090400539.htm",
+      "summary": "Nổi tiếng với tên gọi \"Hot Hatch\", Volkswagen Golf mang đến trải nghiệm lái thú vị, lanh lẹ và phấn khích với người cầm lái. Đây là một trong những lần hiếm hoi xe nhập từ Đức về Việt Nam với giá dễ chịu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T12:21:00+07:00",
+      "fetched": "2025-12-30T19:25:46.716264+07:00"
+    },
+    {
+      "id": "2b56362e6d78dd9111380a4de7a979c0",
+      "title": "Arsenal vô địch lượt đi nếu thắng Aston Villa, HLV Amorim cùng M.U sẽ lại mạo hiểm?",
+      "link": "https://thanhnien.vn/arsenal-vo-dich-luot-di-neu-thang-aston-villa-hlv-amorim-cung-mu-se-lai-mao-hiem-185251230190221993.htm",
+      "summary": "Rạng sáng mai (31.12), vòng 19 Ngoại hạng Anh sẽ diễn ra hai trận cầu tâm điểm khi M.U tiếp Wolves trong nỗ lực duy trì đà ổn định, còn Arsenal đối đầu Aston Villa với mục tiêu giành chiến thắng để vô địch lượt đi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T12:10:00+07:00",
+      "fetched": "2025-12-30T19:25:46.716431+07:00"
+    },
+    {
+      "id": "2d4f1e258c08b100df3382476439a8cb",
+      "title": "Đại tướng Nguyễn Trọng Nghĩa thăm Bệnh viện Quân y 121 và tặng quà bệnh nhân",
+      "link": "https://thanhnien.vn/dai-tuong-nguyen-trong-nghia-tham-benh-vien-quan-y-121-va-tang-qua-benh-nhan-185251230130151404.htm",
+      "summary": "Đến thăm và tặng quà cho bệnh nhân tại Bệnh viện Quân y 121, đại tướng Nguyễn Trọng Nghĩa đánh giá rất cao cơ sở vật chất, trang thiết bị hiện đại, đội ngũ y - bác sĩ, điều dưỡng của bệnh viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T12:10:00+07:00",
+      "fetched": "2025-12-30T19:25:46.716597+07:00"
+    },
+    {
+      "id": "cfd8f027876f51ec8099afd16912a275",
+      "title": "Giá tăng vọt, nhiều người Úc đổ xô đi đào vàng",
+      "link": "https://thanhnien.vn/gia-tang-vot-nhieu-nguoi-uc-do-xo-di-dao-vang-185251230172647205.htm",
+      "summary": "Những người đam mê đang đổ xô đến \"tam giác vàng\" của Úc ở trung tâm bang Victoria, nổi tiếng là một trong những vùng giàu có nhất thế giới về vàng cốm. Cảm hứng của họ là giá vàng tăng kỷ lục, mạng xã hội, sự thành công của chương trình truyền hình \"Aussie Gold Hunters\" (Những người săn vàng Úc), v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T12:08:00+07:00",
+      "fetched": "2025-12-30T19:25:46.716758+07:00"
+    },
+    {
+      "id": "e44dcdbcc494263f83af63cda557f663",
+      "title": "Chị Nguyễn Thị Kim Anh giữ chức Bí thư Đoàn Thanh niên Quốc hội khóa I",
+      "link": "https://thanhnien.vn/chi-nguyen-thi-kim-anh-giu-chuc-bi-thu-doan-thanh-nien-quoc-hoi-khoa-i-185251230172359176.htm",
+      "summary": "T.Ư Đoàn đã công bố quyết định chỉ định chị Nguyễn Thị Kim Anh giữ chức Bí thư Đoàn Thanh niên Quốc hội khóa I.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T12:06:00+07:00",
+      "fetched": "2025-12-30T19:25:46.716912+07:00"
+    },
+    {
+      "id": "82bcce2a92b4ba3e46f922fd98f28d0e",
+      "title": "VPN trả phí có thực sự xứng đáng để 'xuống tiền'?",
+      "link": "https://thanhnien.vn/vpn-tra-phi-co-thuc-su-xung-dang-de-xuong-tien-185251229131530367.htm",
+      "summary": "Tại sao chuyên gia khuyên nên 'xuống tiền' cho VPN trả phí thay vì dùng hàng miễn phí?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T12:02:00+07:00",
+      "fetched": "2025-12-30T19:25:46.717064+07:00"
+    },
+    {
+      "id": "ad8d907ff7420bfe6d114bf7dc467e37",
+      "title": "MSB ưu đãi tỷ giá và phí cho khách nhận kiều hối",
+      "link": "https://vnexpress.net/msb-uu-dai-ty-gia-va-phi-cho-khach-nhan-kieu-hoi-5000241.html",
+      "summary": "MSB triển khai chương trình \"Kiều hối sinh lời, x2 ưu đãi\", áp dụng mức ưu đãi tỷ giá đến 50 điểm và giảm phí giao dịch cho khách hàng nhận tiền từ nước ngoài.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-30T12:00:00+07:00",
+      "fetched": "2025-12-30T19:25:52.103388+07:00"
+    },
+    {
+      "id": "a29b46703de18e64f0f990485383a34f",
+      "title": "Ông Lê Quốc Phong: Cảnh báo sớm để ngăn ngừa sai phạm mới",
+      "link": "https://thanhnien.vn/ong-le-quoc-phong-canh-bao-som-de-ngan-ngua-sai-pham-moi-185251230145443201.htm",
+      "summary": "Phó bí thư Thường trực Thành ủy TP.HCM Lê Quốc Phong cho rằng, nếu không tăng cường giám sát thường xuyên, giám sát chuyên đề để cảnh báo sớm, kịp thời nhắc nhở, chấn chỉnh, sẽ dễ phát sinh sai phạm mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:58:00+07:00",
+      "fetched": "2025-12-30T19:25:46.717234+07:00"
+    },
+    {
+      "id": "2add2b9cdca289f9b6337317a500c27e",
+      "title": "Cà Mau thành lập Bảo tàng lịch sử Đảng bộ tỉnh",
+      "link": "https://thanhnien.vn/ca-mau-thanh-lap-bao-tang-lich-su-dang-bo-tinh-18525123015174872.htm",
+      "summary": "Tỉnh Cà Mau vừa công bố quyết định thành lập Bảo tàng lịch sử Đảng bộ tỉnh Cà Mau, nơi sẽ lưu giữ, bảo tồn và trưng bày tư liệu, hiện vật, hình ảnh Đảng bộ, quân và dân tỉnh Cà Mau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:57:00+07:00",
+      "fetched": "2025-12-30T19:25:46.717398+07:00"
+    },
+    {
+      "id": "4f807769eb3ee2505340d7b7864922ad",
+      "title": "Doanh thu toàn ngành công nghệ số ước đạt gần 200 tỉ USD, tăng gần 26%",
+      "link": "https://thanhnien.vn/doanh-thu-toan-nganh-cong-nghe-so-uoc-dat-gan-200-ti-usd-tang-gan-26-185251230182813865.htm",
+      "summary": "Từ chỗ chỉ gia công, lắp ráp, Việt Nam đã tự chủ nghiên cứu và làm chủ công nghệ lõi chiến lược và bước đầu tham gia chuỗi cung ứng bán dẫn toàn cầu. Đây chính là nền tảng vững chắc để doanh nghiệp công nghệ Việt tự tin chuyển đổi từ mục tiêu 'làm chủ' sang mục tiêu 'dẫn dắt, dẫn đầu'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:56:00+07:00",
+      "fetched": "2025-12-30T19:25:46.717551+07:00"
+    },
+    {
+      "id": "f829a73e776257b4f5a993172cfc2201",
+      "title": "Điều động Chủ nhiệm Ủy ban Kiểm tra Tỉnh ủy Gia Lai và Quảng Ngãi",
+      "link": "https://thanhnien.vn/dieu-dong-chu-nhiem-uy-ban-kiem-tra-tinh-uy-gia-lai-va-quang-ngai-185251230175123591.htm",
+      "summary": "Ban Bí thư Trung ương Đảng điều động, chỉ định Chủ nhiệm Ủy ban Kiểm tra Tỉnh ủy Gia Lai và Quảng Ngãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:53:00+07:00",
+      "fetched": "2025-12-30T19:25:46.717703+07:00"
+    },
+    {
+      "id": "5986c2bb444a016436cb1aa7153c4353",
+      "title": "Arab Saudi không kích cảng ở Yemen, cảnh báo UAE",
+      "link": "https://vnexpress.net/arab-saudi-khong-kich-cang-o-yemen-canh-bao-uae-5000246.html",
+      "summary": "Arab Saudi tuyên bố không kích cảng Mukalla tại Yemen để nhắm vào lô vũ khí UAE chuyển cho phe ly khai, sau đó phát cảnh báo với Abu Dhabi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:50:04+07:00",
+      "fetched": "2025-12-30T19:25:43.397977+07:00"
+    },
+    {
+      "id": "5986c2bb444a016436cb1aa7153c4353",
+      "title": "Arab Saudi không kích cảng ở Yemen, cảnh báo UAE",
+      "link": "https://vnexpress.net/arab-saudi-khong-kich-cang-o-yemen-canh-bao-uae-5000246.html",
+      "summary": "Arab Saudi tuyên bố không kích cảng Mukalla tại Yemen để nhắm vào lô vũ khí UAE chuyển cho phe ly khai, sau đó phát cảnh báo với Abu Dhabi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-30T11:50:04+07:00",
+      "fetched": "2025-12-30T19:25:50.160730+07:00"
+    },
+    {
+      "id": "165f99238e00bea047ee9fd5ca070372",
+      "title": "Tuyên án cựu Phó giám đốc Sở VH-TT-DL Bến Tre vụ 'năng khiếu dự bị'",
+      "link": "https://thanhnien.vn/tuyen-an-cuu-pho-giam-doc-so-vh-tt-dl-ben-tre-vu-nang-khieu-du-bi-185251230163235207.htm",
+      "summary": "Ngày 30.12, TAND Khu vực 5 (tỉnh Vĩnh Long) tuyên án sơ thẩm đối với các bị cáo trong vụ án 'năng khiếu dự bị tập trung' xảy ra tại Sở VH-TT-DL Bến Tre (nay là Vĩnh Long).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:50:00+07:00",
+      "fetched": "2025-12-30T19:25:46.717850+07:00"
+    },
+    {
+      "id": "0a89d28d5a2f7f91b4c069d584f89da9",
+      "title": "Sinh viên chương trình đào tạo đặc biệt Trường ĐH Văn Lang bắt đầu học kỳ tại tòa soạn Báo Thanh Niên",
+      "link": "https://thanhnien.vn/sinh-vien-chuong-trinh-dao-tao-dac-biet-truong-dh-van-lang-bat-dau-hoc-ky-tai-toa-soan-bao-thanh-nien-185251230114547976.htm",
+      "summary": "Sáng nay 30.12, tại Báo Thanh Niên đã diễn ra lễ khai giảng học phần thẩm định tin tức dành cho sinh viên ngành quan hệ công chúng Trường ĐH Văn Lang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:46:00+07:00",
+      "fetched": "2025-12-30T19:25:46.718004+07:00"
+    },
+    {
+      "id": "9428996de0a3fe93f9a80c23a862a0f6",
+      "title": "Zalo có dấu hiệu vi phạm nguyên tắc tự nguyện trong thu thập dữ liệu người dùng?",
+      "link": "https://thanhnien.vn/zalo-co-dau-hieu-vi-pham-nguyen-tac-tu-nguyen-trong-thu-thap-du-lieu-nguoi-dung-185251230170620923.htm",
+      "summary": "Việc yêu cầu người dùng 'đồng ý tất cả' các điều khoản dữ liệu mới, kèm nguy cơ bị xóa tài khoản nếu từ chối, đang khiến Zalo đối mặt với nhiều ý kiến cho rằng nền tảng này chưa đảm bảo tính minh bạch và nguyên tắc tự nguyện theo quy định pháp luật về bảo vệ dữ liệu cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:37:00+07:00",
+      "fetched": "2025-12-30T19:25:46.718161+07:00"
+    },
+    {
+      "id": "bd098ccc736210410f2711b019aa7952",
+      "title": "Mắc bệnh lý ‘khó nói’, người bệnh cần hơn cả là sự riêng tư và tin cậy",
+      "link": "https://thanhnien.vn/mac-benh-ly-kho-noi-nguoi-benh-can-hon-ca-la-su-rieng-tu-va-tin-cay-185251230184909965.htm",
+      "summary": "Các bệnh lý lây truyền qua đường tình dục như sùi mào gà, giang mai, lậu… không chỉ ảnh hưởng trực tiếp đến sức khỏe thể chất mà còn để lại gánh nặng tâm lý lớn cho người mắc phải. Cảm giác xấu hổ, e ngại, sợ bị đánh giá khiến không ít người chậm trễ trong việc thăm khám, dẫn đến nguy cơ biến chứng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:36:00+07:00",
+      "fetched": "2025-12-30T19:25:46.718334+07:00"
+    },
+    {
+      "id": "66cbcf89c2c17aae9d08b0dcd8984647",
+      "title": "Bộ Y tế nhắc bác sĩ kê đơn thuốc 90 ngày giúp bệnh nhân ăn Tết",
+      "link": "https://vnexpress.net/bo-y-te-nhac-bac-si-ke-don-thuoc-90-ngay-giup-benh-nhan-an-tet-5000234.html",
+      "summary": "Bộ Y tế nhắc bác sĩ kê toa thuốc 60 ngày đối với bệnh nhân điều trị bệnh mạn tính đã ổn định, nhất là dịp lễ Tết để không phải đi lại lĩnh thuốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:33:01+07:00",
+      "fetched": "2025-12-30T19:25:43.398154+07:00"
+    },
+    {
+      "id": "455ac5f61dfaf83e9fc98d70f98f5065",
+      "title": "Nhiều khu tái định cư ở TP HCM chậm hàng chục năm",
+      "link": "https://vnexpress.net/nhieu-khu-tai-dinh-cu-o-tp-hcm-cham-hang-chuc-nam-4999922.html",
+      "summary": "Loạt dự án hạ tầng khu tái định cư tại TP HCM chậm tiến độ kéo dài, có nơi hơn 20 năm, làm nghẽn giải phóng mặt bằng và ảnh hưởng các dự án trọng điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:27:44+07:00",
+      "fetched": "2025-12-30T19:25:43.398375+07:00"
+    },
+    {
+      "id": "4fad23b32e2d37dbbc7d2a2ee82058c5",
+      "title": "Cuộc hôn nhân không viên mãn của thiếu phụ bị chồng sát hại",
+      "link": "https://vnexpress.net/cuoc-hon-nhan-khong-vien-man-cua-thieu-phu-bi-chong-sat-hai-5000235.html",
+      "summary": "Ngày tòa án hẹn đến hòa giải do Ngọc Anh có đơn ly hôn cũng là hôm cô bị chồng sát hại cùng cháu trai hai tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:19:14+07:00",
+      "fetched": "2025-12-30T19:25:43.398540+07:00"
+    },
+    {
+      "id": "aa0acbef44b2e8ec743cba6dfdb68208",
+      "title": "Trình diễn thiết bị Make in Viet Nam tại Diễn đàn Quốc gia phát triển doanh nghiệp công nghệ",
+      "link": "https://vnexpress.net/trinh-dien-thiet-bi-make-in-viet-nam-tai-dien-dan-quoc-gia-phat-trien-doanh-nghiep-cong-nghe-5000213.html",
+      "summary": "Xe tự hành, robot chữa cháy hay giải pháp nông nghiệp thông minh bằng UAV được trình diễn tại Diễn đàn Quốc gia phát triển doanh nghiệp công nghệ Việt Nam 2025, chiều 30/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:02:03+07:00",
+      "fetched": "2025-12-30T19:25:43.398702+07:00"
+    },
+    {
+      "id": "aa0acbef44b2e8ec743cba6dfdb68208",
+      "title": "Trình diễn thiết bị Make in Viet Nam tại Diễn đàn Quốc gia phát triển doanh nghiệp công nghệ",
+      "link": "https://vnexpress.net/trinh-dien-thiet-bi-make-in-viet-nam-tai-dien-dan-quoc-gia-phat-trien-doanh-nghiep-cong-nghe-5000213.html",
+      "summary": "Xe tự hành, robot chữa cháy hay giải pháp nông nghiệp thông minh bằng UAV được trình diễn tại Diễn đàn Quốc gia phát triển doanh nghiệp công nghệ Việt Nam 2025, chiều 30/12.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-30T11:02:03+07:00",
+      "fetched": "2025-12-30T19:25:56.131606+07:00"
+    },
+    {
+      "id": "7d11b8a3b778e7835fd849722d17813f",
+      "title": "Bộ Công an giải cứu hai thiếu nữ khỏi ổ lừa đảo tại Campuchia",
+      "link": "https://vnexpress.net/bo-cong-an-giai-cuu-hai-thieu-nu-khoi-o-lua-dao-tai-campuchia-5000237.html",
+      "summary": "Hai thiếu nữ Cần Thơ 14 tuổi tin lời dụ dỗ làm \"việc lương cao\", đón taxi đến biên giới và bị đưa vào công ty lừa đảo ở Campuchia, may mắn được Cục cảnh sát Hình sự giải cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:01:33+07:00",
+      "fetched": "2025-12-30T19:25:43.398803+07:00"
+    },
+    {
+      "id": "e677caa35dc1226612fcb896f305189c",
+      "title": "Soạn giả Lê Duy Hạnh được vinh danh giải Đào Tấn",
+      "link": "https://vnexpress.net/soan-gia-le-duy-hanh-duoc-vinh-danh-giai-dao-tan-5000201.html",
+      "summary": "Cố soạn giả Lê Duy Hạnh, nổi tiếng qua vở ''Chiếc áo Thiên Nga\", được trao tặng Giải thưởng Lớn ở giải Đào Tấn 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:00:42+07:00",
+      "fetched": "2025-12-30T19:25:43.398956+07:00"
+    },
+    {
+      "id": "38614016c379a9e4c3c7e9dc7e23c250",
+      "title": "Thái Sơn - gương mặt hài trên màn ảnh",
+      "link": "https://vnexpress.net/thai-son-guong-mat-hai-tren-man-anh-4998109.html",
+      "summary": "Diễn viên Thái Sơn hóa thân khách hàng đồng bóng trong \"Gia đình trái dấu\" hay ông bố có tính cách hài hước của \"Cha tôi người ở lại\", tạo tiếng cười cho người xem.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:00:00+07:00",
+      "fetched": "2025-12-30T19:25:43.399115+07:00"
+    },
+    {
+      "id": "16a3eb6a496969b194eeb7acda46690d",
+      "title": "Ứng dụng AI trong lớp học nghệ thuật cho trẻ tự kỷ",
+      "link": "https://vnexpress.net/ung-dung-ai-trong-lop-hoc-nghe-thuat-cho-tre-tu-ky-5000243.html",
+      "summary": "Lớp học vẽ của chị Tâm Trang, TP HCM dùng công cụ AI để biến những mô tả trừu tượng thành hình ảnh sinh động, giúp trẻ tự kỷ dễ hình dung, bắt nhịp bài học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:00:00+07:00",
+      "fetched": "2025-12-30T19:25:43.399299+07:00"
+    },
+    {
+      "id": "68909d616054e841268cbfde1ceac721",
+      "title": "Thêm trải nghiệm du lịch, giải trí nhờ công nghệ trên Galaxy S25 FE",
+      "link": "https://vnexpress.net/them-trai-nghiem-du-lich-giai-tri-nho-cong-nghe-tren-galaxy-s25-fe-5000222.html",
+      "summary": "Nhiều bạn trẻ tận dụng camera chụp đêm, ProVisual Engine cùng khả năng lọc tạp âm của Galaxy S25 FE để ghi lại khoảnh khắc, video rõ nét dù bối cảnh ánh sáng phức tạp, nhiều tiếng ồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:00:00+07:00",
+      "fetched": "2025-12-30T19:25:43.399468+07:00"
+    },
+    {
+      "id": "4e1fee349ee59372e895f0a4aba52d6e",
+      "title": "Giải pháp tiếp cận thuốc và tính bền vững quỹ bảo hiểm y tế",
+      "link": "https://vnexpress.net/giai-phap-tiep-can-thuoc-va-tinh-ben-vung-quy-bao-hiem-y-te-4999975.html",
+      "summary": "Chi phí thuốc tăng nhanh đặt ra thách thức cân bằng giữa mở rộng tiếp cận điều trị và bảo đảm quỹ bảo hiểm y tế, cần cơ chế tài chính linh hoạt hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:00:00+07:00",
+      "fetched": "2025-12-30T19:25:43.399634+07:00"
+    },
+    {
+      "id": "636a2daf24750ef6509b5f935b4a24c2",
+      "title": "FPT Play bổ sung loạt phim 'bom tấn' dịp Tết dương lịch",
+      "link": "https://vnexpress.net/fpt-play-bo-sung-loat-phim-bom-tan-dip-tet-duong-lich-5000154.html",
+      "summary": "\"Fast & Furious\", \"M3gan\", \"50 sắc thái\" cùng nhiều phim truyền hình châu Á được FPT Play bổ sung trong tháng 12, thêm lựa chọn giải trí dịp lễ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T11:00:00+07:00",
+      "fetched": "2025-12-30T19:25:43.399796+07:00"
+    },
+    {
+      "id": "20fbcf378502d744dc95c983e26b63bc",
+      "title": "Loạt robot, UAV tại triển lãm Make in Viet Nam",
+      "link": "https://vnexpress.net/loat-robot-uav-tai-trien-lam-make-in-viet-nam-5000198.html",
+      "summary": "Loạt thiết bị bay không người lái với nhiều kiểu dáng và ứng dụng, robot hình người, xe tự hành, được trình diễn tại triển lãm thiết bị Make in Viet Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T10:55:59+07:00",
+      "fetched": "2025-12-30T19:25:43.399952+07:00"
+    },
+    {
+      "id": "20fbcf378502d744dc95c983e26b63bc",
+      "title": "Loạt robot, UAV tại triển lãm Make in Viet Nam",
+      "link": "https://vnexpress.net/loat-robot-uav-tai-trien-lam-make-in-viet-nam-5000198.html",
+      "summary": "Loạt thiết bị bay không người lái với nhiều kiểu dáng và ứng dụng, robot hình người, xe tự hành, được trình diễn tại triển lãm thiết bị Make in Viet Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-30T10:55:59+07:00",
+      "fetched": "2025-12-30T19:25:56.132088+07:00"
+    },
+    {
+      "id": "17f45d05644966ef4757fe7b513b706a",
+      "title": "Khai đàn pháp hội tại bảo tháp Mandala Tây Thiên",
+      "link": "https://vnexpress.net/khai-dan-phap-hoi-tai-bao-thap-mandala-tay-thien-5000220.html",
+      "summary": "Pháp hội đón năm mới tại bảo tháp Mandala Tây Thiên, xã Tam Đảo, do thượng sư Gyalwa Dokhampa của Truyền thừa Drukpa chủ trì từ 31/12/2025 đến 2/1/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T10:52:11+07:00",
+      "fetched": "2025-12-30T19:25:43.400108+07:00"
+    },
+    {
+      "id": "71cf264ebe613e69ccc39f8d90a40e29",
+      "title": "Không khí lạnh đang xuống miền Bắc",
+      "link": "https://vnexpress.net/khong-khi-lanh-dang-xuong-mien-bac-5000225.html",
+      "summary": "Một đợt không khí lạnh cường độ mạnh sẽ tác động Bắc Bộ trong ngày đầu tiên của năm 2026, đẩy nhiệt độ xuống thấp, ở vùng cao xuống dưới 7 độ C.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T10:36:15+07:00",
+      "fetched": "2025-12-30T19:25:43.400283+07:00"
+    },
+    {
       "id": "987b7a1c0cbef06f05cba8d606987359",
       "title": "Hơn 6 triệu người trẻ, TP.HCM phải bật lên nguồn lực trẻ",
       "link": "https://tuoitre.vn/hon-6-trieu-nguoi-tre-tp-hcm-phai-bat-len-nguon-luc-tre-20251230075904416.htm",
@@ -681,6 +1171,16 @@ window.newsData_2025_12_30 = {
       "category": "Kinh doanh",
       "published": "2025-12-30T09:40:28+07:00",
       "fetched": "2025-12-30T17:14:04.724679+07:00"
+    },
+    {
+      "id": "0c6de29c4ca0d110e7bc9dfac4dff028",
+      "title": "Doanh nghiệp trả phí giao thông không dừng qua Vietcombank, BIDV từ 2026",
+      "link": "https://vnexpress.net/doanh-nghiep-tra-phi-giao-thong-khong-dung-qua-vietcombank-bidv-tu-2026-4999912.html",
+      "summary": "Từ đầu năm 2026, doanh nghiệp dùng VETC, ePass có thể liên kết tài khoản giao thông với ngân hàng BIDV, Vietcombank để trả phí không dừng ETC.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-30T09:40:28+07:00",
+      "fetched": "2025-12-30T19:25:52.101724+07:00"
     },
     {
       "id": "160630e809bb5dad3327a795cf48d20d",
@@ -1991,6 +2491,16 @@ window.newsData_2025_12_30 = {
       "category": "Thế giới",
       "published": "2025-12-30T04:19:09+07:00",
       "fetched": "2025-12-30T13:20:24.140120+07:00"
+    },
+    {
+      "id": "33c5c5a58ec87e0b5480a87e4e36fb36",
+      "title": "Xu hướng tiệc sáng không cồn ở Hàn Quốc",
+      "link": "https://vnexpress.net/xu-huong-tiec-sang-khong-con-o-han-quoc-4999596.html",
+      "summary": "Thay vì những bữa nhậu thâu đêm, người trẻ Hàn Quốc giờ lựa chọn những buổi tiệc sáng không rượu bia để bắt đầu ngày mới lành mạnh và hạnh phúc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-30T04:19:09+07:00",
+      "fetched": "2025-12-30T19:25:50.162567+07:00"
     },
     {
       "id": "3a90e2ce0742b1173f07a26e429ce226",
