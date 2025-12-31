@@ -1,7 +1,157 @@
 window.newsData_2025_12_31 = {
   "date": "2025-12-31",
-  "lastUpdated": "2025-12-31T11:31:33.133570+07:00",
+  "lastUpdated": "2025-12-31T13:20:44.782485+07:00",
   "articles": [
+    {
+      "id": "1124e73e57f6a59c453341d38411be11",
+      "title": "Honda dự kiến đưa xe máy điện mới vào Việt Nam: Pin đầy đi 150km, sạc nhanh như ô tô",
+      "link": "https://tuoitre.vn/honda-du-kien-dua-xe-may-dien-moi-vao-viet-nam-pin-day-di-150km-sac-nhanh-nhu-o-to-2025123109300847.htm",
+      "summary": "Honda WN7, mẫu mô tô điện cỡ lớn, vừa xuất hiện trong hồ sơ đăng ký tại Việt Nam, sở hữu công suất tương đương mô tô xăng 600cc, khả năng tăng tốc 0 - 100km/h trong 4,6 giây, hỗ trợ sạc nhanh CCS2 và tầm hoạt động trên 150km.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.306092+07:00",
+      "fetched": "2025-12-31T13:20:38.306218+07:00"
+    },
+    {
+      "id": "1aa15c4ff766cf5c3bf4084a7e2c76fb",
+      "title": "'Ảnh đế' Ahn Sung Ki ngừng tim, rơi vào trạng thái nguy kịch",
+      "link": "https://tuoitre.vn/anh-de-ahn-sung-ki-ngung-tim-roi-vao-trang-thai-nguy-kich-2025123111092675.htm",
+      "summary": "Theo Star News, diễn viên gạo cội Ahn Sung Ki (73 tuổi) đã chuyển đến bệnh viện vào ngày 30-12 trong tình trạng ngừng tim và hiện đang trong tình trạng nguy kịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.305971+07:00",
+      "fetched": "2025-12-31T13:20:38.306080+07:00"
+    },
+    {
+      "id": "3756bec4fd7cb24312d77d7b9e3f12b9",
+      "title": "Bắt một phụ nữ lừa đảo hơn 1 tỉ đồng qua việc tổ chức chơi hụi ở Phú Quốc",
+      "link": "https://tuoitre.vn/bat-mot-phu-nu-lua-dao-hon-1-ti-dong-qua-viec-to-chuc-choi-hui-o-phu-quoc-2025123110394273.htm",
+      "summary": "Ngày 31-12, Cơ quan cảnh sát điều tra Công an tỉnh An Giang cho biết đã bắt tạm giam và khám xét chỗ ở Phạm Huỳnh Tuyết Phượng (48 tuổi, ở Dương Đông, đặc khu Phú Quốc, tỉnh An Giang) vì lừa đảo  chiếm đoạt tài sản hơn 1 tỉ đồng qua tổ chức chơi hụi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.305844+07:00",
+      "fetched": "2025-12-31T13:20:38.305960+07:00"
+    },
+    {
+      "id": "c05649e5d0cc135db0723b7c5eab31b0",
+      "title": "Cục Thuế: Đã xử lý dứt điểm kiến nghị của Thanh tra Chính phủ",
+      "link": "https://tuoitre.vn/cuc-thue-da-xu-ly-dut-diem-kien-nghi-cua-thanh-tra-chinh-phu-20251231105724858.htm",
+      "summary": "Sau kết luận của Thanh tra Chính phủ, Cục Thuế cho biết đã xử lý dứt điểm các kiến nghị, giải ngân 100% kế hoạch vốn được giao, đồng thời thu hồi và giảm trừ hơn 6,5 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.305723+07:00",
+      "fetched": "2025-12-31T13:20:38.305833+07:00"
+    },
+    {
+      "id": "be757cf89dc8101733065361b5a05867",
+      "title": "Những lời chúc năm mới 2026 đầy yêu thương, mỗi câu chữ một niềm vui!",
+      "link": "https://tuoitre.vn/nhung-loi-chuc-nam-moi-2026-day-yeu-thuong-moi-cau-chu-mot-niem-vui-2025121618014259.htm",
+      "summary": "Năm mới 2026 đang gõ cửa, mang theo những khởi đầu mới tràn đầy hy vọng. Hãy dành những lời chúc tốt đẹp nhất gửi đến những người thân yêu trong năm mới đều tràn ngập niềm vui, sức khỏe và thành công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.305601+07:00",
+      "fetched": "2025-12-31T13:20:38.305712+07:00"
+    },
+    {
+      "id": "1770dbeba5715023d6953ed32ab02ab5",
+      "title": "Từ 'khoảng lặng cúi đầu' đến giờ ra chơi đầy tiếng cười ở sân trường TP.HCM",
+      "link": "https://tuoitre.vn/tu-khoang-lang-cui-dau-den-gio-ra-choi-day-tieng-cuoi-o-san-truong-tp-hcm-20251231093630532.htm",
+      "summary": "Sau thời gian thí điểm, nhiều trường TP.HCM ghi nhận học sinh vận động, giao tiếp trực tiếp nhiều hơn khi giờ ra chơi hạn chế dùng điện thoại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.305480+07:00",
+      "fetched": "2025-12-31T13:20:38.305590+07:00"
+    },
+    {
+      "id": "65171eac58969a1504f26012e8c5326c",
+      "title": "Denise Richards và chồng cũ bị đuổi khỏi nhà ở Los Angeles vì nợ tiền thuê",
+      "link": "https://tuoitre.vn/denise-richards-va-chong-cu-bi-duoi-khoi-nha-o-los-angeles-vi-no-tien-thue-20251231102013757.htm",
+      "summary": "Ngôi sao Hollywood Denise Richards và chồng cũ Aaron Phypers vừa đối mặt quyết định pháp lý khi Tòa án Los Angeles cho phép chủ nhà thu hồi căn nhà do nợ gần 84.000 USD tiền thuê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.305353+07:00",
+      "fetched": "2025-12-31T13:20:38.305468+07:00"
+    },
+    {
+      "id": "0b042b7d5752d05437587679768c1320",
+      "title": "Bóc tách video 'phơi bày' cảnh làm hải sâm giả tại Trung Quốc",
+      "link": "https://tuoitre.vn/boc-tach-video-phoi-bay-canh-lam-hai-sam-gia-tai-trung-quoc-20251231110028361.htm",
+      "summary": "Một đoạn video đang được chia sẻ rầm rộ, kèm thông tin cho rằng đây là cảnh làm hải sâm giả ở Trung Quốc, khiến nhiều người hiểu nhầm đây là vụ gian lận thực phẩm mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.305206+07:00",
+      "fetched": "2025-12-31T13:20:38.305340+07:00"
+    },
+    {
+      "id": "9946ea74f2472d34eabe0076d7daaf5f",
+      "title": "Đà Nẵng tung loạt sự kiện du lịch dịp Tết dương, khách hưởng siêu ưu đãi combo 2 ngày 1 đêm",
+      "link": "https://tuoitre.vn/da-nang-tung-loat-su-kien-du-lich-dip-tet-duong-khach-huong-sieu-uu-dai-combo-2-ngay-1-dem-20251231102938431.htm",
+      "summary": "Thành phố Đà Nẵng đang tổ chức loạt sự kiện, trang hoàng không gian đường phố và các điểm tham quan để đón chào du khách trong dịp Tết dương lịch, chào năm mới 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.305082+07:00",
+      "fetched": "2025-12-31T13:20:38.305195+07:00"
+    },
+    {
+      "id": "ed1e0459108f58b84e739664c8b27925",
+      "title": "Thái Lan thả 18 binh sĩ Campuchia sau 155 ngày giam giữ",
+      "link": "https://tuoitre.vn/thai-lan-tha-18-binh-si-campuchia-sau-155-ngay-giam-giu-20251231110820137.htm",
+      "summary": "Thái Lan nói rằng việc họ thả 18 binh sĩ Campuchia là hành động 'thể hiện thiện chí và xây dựng lòng tin'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.304957+07:00",
+      "fetched": "2025-12-31T13:20:38.305070+07:00"
+    },
+    {
+      "id": "7c3572d2444e95ee7375b2085f000a27",
+      "title": "Vì sao xã giao trẻ bị bỏ rơi cho vợ chồng có 3 con mà không giao cho gia đình hiếm muộn?",
+      "link": "https://tuoitre.vn/vi-sao-xa-giao-tre-bi-bo-roi-cho-vo-chong-co-3-con-ma-khong-giao-cho-gia-dinh-hiem-muon-20251231105921609.htm",
+      "summary": "Lãnh đạo UBND tỉnh Gia Lai yêu cầu cơ quan chức năng phối hợp làm rõ việc nhận con nuôi đối với cháu bé sơ sinh bị bỏ rơi trong rẫy cao su tại xã Ia Mơ sau khi có dư luận trái chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.304832+07:00",
+      "fetched": "2025-12-31T13:20:38.304945+07:00"
+    },
+    {
+      "id": "c2ac5cc484223424e5527b54fd7e0bef",
+      "title": "Ớn lạnh tháp cẩu công trình cao chục mét đổ xuống đường giữa trung tâm Đà Nẵng",
+      "link": "https://tuoitre.vn/on-lanh-thap-cau-cong-trinh-cao-chuc-met-do-xuong-duong-giua-trung-tam-da-nang-20251231111004768.htm",
+      "summary": "Một tháp cẩu công trình cao hàng chục mét đổ xuống đường giữa trung tâm Đà Nẵng ngày 31-12. Hiện trường đang được phong tỏa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.304706+07:00",
+      "fetched": "2025-12-31T13:20:38.304820+07:00"
+    },
+    {
+      "id": "2f17915dd0e80f268255730b2ec91135",
+      "title": "Dàn cựu lãnh đạo Vicem gây thất thoát hơn 381 tỉ trong vụ xây 'tòa tháp' ngàn tỉ rồi bỏ hoang",
+      "link": "https://tuoitre.vn/dan-cuu-lanh-dao-vicem-gay-that-thoat-hon-381-ti-trong-vu-xay-toa-thap-ngan-ti-roi-bo-hoang-20251231111449873.htm",
+      "summary": "Dàn cựu lãnh đạo Tổng Công ty Xi măng Việt Nam (Vicem) bị truy tố với cáo buộc có nhiều sai phạm trong quá trình thực hiện dự án xây tòa tháp ngàn tỉ là trung tâm điều hành và giao dịch gây thất thoát hơn 381 tỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.304561+07:00",
+      "fetched": "2025-12-31T13:20:38.304687+07:00"
+    },
+    {
+      "id": "f13638efc4b7142ab60af917136da359",
+      "title": "Bệnh viện Nhân dân Gia Định cơ sở 2 chính thức hoạt động",
+      "link": "https://tuoitre.vn/benh-vien-nhan-dan-gia-dinh-co-so-2-chinh-thuc-hoat-dong-20251231095321492.htm",
+      "summary": "Với lợi thế vị trí trung tâm TP.HCM, cơ sở 2 của Bệnh viện Nhân dân Gia Định góp phần mở rộng năng lực cung ứng dịch vụ y tế chất lượng cao, đáp ứng nhu cầu chăm sóc sức khỏe của người dân và khách du lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.304420+07:00",
+      "fetched": "2025-12-31T13:20:38.304549+07:00"
+    },
+    {
+      "id": "4123f7c752617ee0aa0f91962224da2f",
+      "title": "Gỡ điểm nghẽn phát triển kinh tế số",
+      "link": "https://tuoitre.vn/go-diem-nghen-phat-trien-kinh-te-so-20251230230209587.htm",
+      "summary": "Với tốc độ tăng trưởng trung bình 20%/năm, kinh tế số được xem là chìa khóa giúp TP.HCM tăng trưởng 2 con số. Để mô hình này phát triển, TP.HCM cần sớm tháo gỡ 2 điểm nghẽn lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:20:38.304172+07:00",
+      "fetched": "2025-12-31T13:20:38.304405+07:00"
+    },
     {
       "id": "96714a2adace4a61c1e385f372c42422",
       "title": "Bóng đá thế giới năm 2025: Bất ngờ lên ngôi",
@@ -303,6 +453,386 @@ window.newsData_2025_12_31 = {
       "fetched": "2025-12-31T08:01:03.084142+07:00"
     },
     {
+      "id": "aa7af4b4ddc45594b047ff25856f299e",
+      "title": "Nhìn lại 2025: Những phát hiện khảo cổ nổi bật",
+      "link": "https://thanhnien.vn/nhin-lai-2025-nhung-phat-hien-khao-co-noi-bat-185251231010943427.htm",
+      "summary": "Nhờ vào sự kết hợp giữa các công cụ hiện đại và phương pháp khai quật truyền thống, năm 2025 chứng kiến những phát hiện ấn tượng trong ngành khảo cổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T06:15:00+07:00",
+      "fetched": "2025-12-31T13:20:37.413994+07:00"
+    },
+    {
+      "id": "a4d2c8d835587de2b1d198201480896f",
+      "title": "2.706 công nhân Panko Vina mất việc được tặng thêm 1 triệu đồng ăn tết",
+      "link": "https://thanhnien.vn/2706-cong-nhan-panko-vina-mat-viec-duoc-tang-them-1-trieu-dong-an-tet-18525123111032116.htm",
+      "summary": "Toàn bộ 2.706 công nhân Panko Vina bị mất việc sau khi nhà máy đóng cửa ngày 1.2.2026 sẽ được Liên đoàn Lao động TP.HCM hỗ trợ 1 triệu đồng ăn tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T06:13:00+07:00",
+      "fetched": "2025-12-31T13:20:37.414165+07:00"
+    },
+    {
+      "id": "4139cc636d60e03fd22524885356adcf",
+      "title": "Hai chiến sĩ công an hỗ trợ người dân đi cấp cứu và lá thư cảm ơn",
+      "link": "https://thanhnien.vn/hai-chien-si-cong-an-ho-tro-nguoi-dan-di-cap-cuu-va-la-thu-cam-on-185251231120648571.htm",
+      "summary": "Hai chiến sĩ công an ở Đồng Nai vừa kịp thời hỗ trợ người dân đi cấp cứu và nhận lại món quà tinh thần là lá thư cảm ơn từ người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T06:12:00+07:00",
+      "fetched": "2025-12-31T13:20:37.414343+07:00"
+    },
+    {
+      "id": "a06577e1b4a3a14df134c8c9748d2509",
+      "title": "Trùm giang hồ Vi 'ngộ' 2 lần đưa tiền 'chạy án'",
+      "link": "https://thanhnien.vn/trum-giang-ho-vi-ngo-2-lan-dua-tien-chay-an-185251231114548875.htm",
+      "summary": "Trùm giang hồ Vi 'ngộ' đã 2 lần đưa tổng số tiền 350 triệu đồng cho Hoàng Nam Liên, nguyên Chỉ huy trưởng Ban Chỉ huy quân sự H.Nghi Lộc cũ (Nghệ An), sau đó Liên đưa tiền cho một lãnh đạo Viện KSND tỉnh Nghệ An để xin giảm án cho Nguyễn Ngọc Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T06:10:00+07:00",
+      "fetched": "2025-12-31T13:20:37.414501+07:00"
+    },
+    {
+      "id": "8d606b9a9b8d2dc4353e913f152f8552",
+      "title": "Phát hành Báo Thanh Niên đến mỗi gia đình đã trở thành 'thương hiệu'!",
+      "link": "https://thanhnien.vn/phat-hanh-bao-thanh-nien-den-moi-gia-dinh-da-tro-thanh-thuong-hieu-185251231130929726.htm",
+      "summary": "Năm 2026 sắp đến, cũng tròn 40 năm Báo Thanh Niên ra số báo đầu tiên (3.1.1986-3.1.2026), trong chặng đường đó tôi có vinh dự góp phần sức lực nhỏ bé của mình vào sự lớn mạnh, trưởng thành của tờ báo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T06:09:00+07:00",
+      "fetched": "2025-12-31T13:20:37.414657+07:00"
+    },
+    {
+      "id": "aff88b0149688504f739d12167bb2797",
+      "title": "Đồng Nai: Bắt đối tượng bị truy nã đặc biệt nguy hiểm về tội giết người",
+      "link": "https://thanhnien.vn/dong-nai-bat-doi-tuong-bi-truy-na-dac-biet-nguy-hiem-ve-toi-giet-nguoi-185251231122202368.htm",
+      "summary": "Công an xã Long Hà, tỉnh Đồng Nai vừa bắt giữ đối tượng bị truy nã đặc biệt nguy hiểm về tội giết người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T06:07:00+07:00",
+      "fetched": "2025-12-31T13:20:37.414815+07:00"
+    },
+    {
+      "id": "887038839d9e81b2081fe1a38347acf9",
+      "title": "Chỉnh trang xong đường Lê Lợi, Khang Điền muốn 'làm đẹp' thêm 2 tuyến đắt nhất TP.HCM",
+      "link": "https://thanhnien.vn/chinh-trang-xong-duong-le-loi-khang-dien-muon-lam-dep-them-2-tuyen-dat-nhat-tphcm-185251231122446605.htm",
+      "summary": "Tại lễ khánh thành dự án chỉnh trang đường Lê Lợi, nhà tài trợ Khang Điền đề xuất TP.HCM cho phép chỉnh trang lại chợ Bến Thành và 2 đường Đồng Khởi, Nguyễn Huệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T06:00:00+07:00",
+      "fetched": "2025-12-31T13:20:37.414963+07:00"
+    },
+    {
+      "id": "86732973af2af6d097e56c2362f2a684",
+      "title": "Gãy cần cẩu tại dự án The One Tower đè sập tường bao Bảo tàng điêu khắc Chăm",
+      "link": "https://thanhnien.vn/gay-can-cau-tai-du-an-the-one-tower-de-sap-tuong-bao-bao-tang-dieu-khac-cham-185251231121145652.htm",
+      "summary": "Vụ gãy cần cẩu đang thi công dự án The One Tower (tại trung tâm TP.Đà Nẵng) làm sập một đoạn tường bao Bảo tàng điêu khắc Chăm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T06:00:00+07:00",
+      "fetched": "2025-12-31T13:20:37.415109+07:00"
+    },
+    {
+      "id": "71ff920dcc64eb4f923652304842d0e8",
+      "title": "Mẹo phối đồ với kiểu quần bo gấu sành điệu như ở sàn diễn cao cấp",
+      "link": "https://thanhnien.vn/thoi-trang-tre/meo-phoi-do-voi-kieu-quan-bo-gau-sanh-dieu-nhu-o-san-dien-cao-cap-185251231004925596.htm",
+      "summary": "Từng gắn liền với phòng tập và phong cách thể thao đường phố, quần bo gấu - jogger ngày nay đã bước ra khỏi 'vùng an toàn' quen thuộc để trở thành tuyên ngôn thời trang mới trên các sàn diễn cao cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T06:00:00+07:00",
+      "fetched": "2025-12-31T13:20:37.415255+07:00"
+    },
+    {
+      "id": "12e19babf7c7c4fabbc6a49e8f651e44",
+      "title": "Tòa nhà nghìn tỉ 'đắp chiếu' 10 năm, truy tố cựu chủ tịch, tổng giám đốc VICEM",
+      "link": "https://thanhnien.vn/toa-nha-nghin-ti-dap-chieu-10-nam-truy-to-cuu-chu-tich-tong-giam-doc-vicem-185251231115354175.htm",
+      "summary": "Cựu chủ tịch HĐTV, cựu Tổng giám đốc và nhiều cựu lãnh đạo VICEM bị truy tố do liên quan đến tòa nhà nghìn tỉ 'đắp chiếu' suốt 10 năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:39:00+07:00",
+      "fetched": "2025-12-31T13:20:37.415422+07:00"
+    },
+    {
+      "id": "8a64de7c8e8ca89e43b6b61097648173",
+      "title": "Ông Nguyễn Xuân Trường giữ chức Phó trưởng ban Nội chính T.Ư",
+      "link": "https://thanhnien.vn/ong-nguyen-xuan-truong-giu-chuc-pho-truong-ban-noi-chinh-tu-185251231120624914.htm",
+      "summary": "Ngày 31.12, Ban Nội chính T.Ư tổ chức hội nghị triển khai quyết định của Ban Bí thư bổ nhiệm ông Nguyễn Xuân Trường giữ chức Phó trưởng ban Nội chính T.Ư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:37:00+07:00",
+      "fetched": "2025-12-31T13:20:37.415594+07:00"
+    },
+    {
+      "id": "58580e4f2c388d355a925a2aeb5f64d4",
+      "title": "Phó thủ tướng Chính phủ trao quyết định bổ nhiệm Giám đốc ĐH Quốc gia TP.HCM",
+      "link": "https://thanhnien.vn/pho-thu-tuong-chinh-phu-trao-quyet-dinh-bo-nhiem-giam-doc-dh-quoc-gia-tphcm-185251231111855727.htm",
+      "summary": "Phó thủ tướng Chính phủ Lê Thành Long trao quyết định bổ nhiệm chính thức cho GS-TS Nguyễn Thị Thanh Mai - nữ giám đốc đầu tiên trong lịch sử của ĐH Quốc gia TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:33:00+07:00",
+      "fetched": "2025-12-31T13:20:37.415743+07:00"
+    },
+    {
+      "id": "502a0efa1893fa2894fe77c9eb8fa219",
+      "title": "Ông Medvedev: Tổng thống Ukraine sẽ phải 'ẩn náu suốt đời'",
+      "link": "https://vnexpress.net/ong-medvedev-tong-thong-ukraine-se-phai-an-nau-suot-doi-5000350.html",
+      "summary": "Ông Medvedev tuyên bố Tổng thống Ukraine sẽ phải \"ẩn náu suốt quãng đời còn lại\", sau khi Kiev bị cáo buộc tập kích UAV vào dinh thự của Tổng thống Putin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:31:10+07:00",
+      "fetched": "2025-12-31T13:20:33.958661+07:00"
+    },
+    {
+      "id": "502a0efa1893fa2894fe77c9eb8fa219",
+      "title": "Ông Medvedev: Tổng thống Ukraine sẽ phải 'ẩn náu suốt đời'",
+      "link": "https://vnexpress.net/ong-medvedev-tong-thong-ukraine-se-phai-an-nau-suot-doi-5000350.html",
+      "summary": "Ông Medvedev tuyên bố Tổng thống Ukraine sẽ phải \"ẩn náu suốt quãng đời còn lại\", sau khi Kiev bị cáo buộc tập kích UAV vào dinh thự của Tổng thống Putin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-31T05:31:10+07:00",
+      "fetched": "2025-12-31T13:20:39.464905+07:00"
+    },
+    {
+      "id": "c26db2bb5238d3d4872de48099264d45",
+      "title": "\"View khám bệnh triệu đô\" ở trung tâm TP.HCM",
+      "link": "https://thanhnien.vn/view-kham-benh-trieu-do-o-trung-tam-tphcm-185251231115427972.htm",
+      "summary": "Bệnh viện Nhân dân Gia Định cơ sở 2 có một \"view khám bệnh triệu đô\", có thể thấy toàn bộ Công trường Quách Thị Trang, chợ Bến Thành, thậm chí là nhà ga metro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:31:00+07:00",
+      "fetched": "2025-12-31T13:20:37.415894+07:00"
+    },
+    {
+      "id": "555c26fe2fea2ff78aa365d338d1aaf6",
+      "title": "Hội đàm Trump - Zelensky tính khả năng triển khai quân Mỹ ở Ukraine",
+      "link": "https://thanhnien.vn/hoi-dam-trump-zelensky-tinh-kha-nang-trien-khai-quan-my-o-ukraine-185251231121835825.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky hôm 30.12 cho biết Kyiv đang thảo luận với Washington về khả năng triển khai quân đội Mỹ tại Ukraine như một phần của các đảm bảo an ninh, đồng thời cũng đề cập đến điều mà ông cho là vụ tấn công giả mạo nhằm vào dinh thự của Tổng thống Nga Vladimir Putin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:30:00+07:00",
+      "fetched": "2025-12-31T13:20:37.416040+07:00"
+    },
+    {
+      "id": "5d84e355c73040440ce5ab26f84bcbf3",
+      "title": "Thủ đoạn thao túng tâm lý của băng nhóm lừa đảo trong phi vụ 'bắt cóc online'",
+      "link": "https://thanhnien.vn/thu-doan-thao-tung-tam-ly-cua-bang-nhom-lua-dao-trong-phi-vu-bat-coc-online-185251231112450715.htm",
+      "summary": "Vì sao nhiều nạn nhân răm rắp làm theo 'chỉ đạo' của nhóm lừa đảo, như: tự rời nơi ở, nhốt mình trong khách sạn, rồi nhắn tin cho gia đình hối thúc chuyển tiền?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:25:00+07:00",
+      "fetched": "2025-12-31T13:20:37.416184+07:00"
+    },
+    {
+      "id": "b4f34529fafbc5c8ccc20078e947dc18",
+      "title": "Bí quyết giúp Real sinh lời hơn 180 triệu USD từ cầu thủ trẻ",
+      "link": "https://vnexpress.net/bi-quyet-giup-real-sinh-loi-hon-180-trieu-usd-tu-cau-thu-tre-5000535.html",
+      "summary": "Công thức bán cầu thủ tự đào tạo nhưng giữ lại 50% quyền sở hữu đang mang lại kết quả tích cực về tài chính cho Real Madrid vài năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:08:34+07:00",
+      "fetched": "2025-12-31T13:20:33.958840+07:00"
+    },
+    {
+      "id": "b4f34529fafbc5c8ccc20078e947dc18",
+      "title": "Bí quyết giúp Real sinh lời hơn 180 triệu USD từ cầu thủ trẻ",
+      "link": "https://vnexpress.net/bi-quyet-giup-real-sinh-loi-hon-180-trieu-usd-tu-cau-thu-tre-5000535.html",
+      "summary": "Công thức bán cầu thủ tự đào tạo nhưng giữ lại 50% quyền sở hữu đang mang lại kết quả tích cực về tài chính cho Real Madrid vài năm qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-31T05:08:34+07:00",
+      "fetched": "2025-12-31T13:20:44.775556+07:00"
+    },
+    {
+      "id": "a218166361a8303b77db5f4bbb7e3f43",
+      "title": "Giới trẻ TP HCM 'đu trend' ăn nho ăn gầm bàn đón năm mới",
+      "link": "https://vnexpress.net/gioi-tre-tp-hcm-du-trend-an-nho-an-gam-ban-don-nam-moi-5000304.html",
+      "summary": "Tan làm chiều cuối năm, Thanh Vy, 28 tuổi, lao ngay đến siêu thị gần nhà ở phường An Khánh để tìm mua chùm nho xanh không hạt, chuẩn bị cho \"nghi thức\" giao thừa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:04:41+07:00",
+      "fetched": "2025-12-31T13:20:33.959005+07:00"
+    },
+    {
+      "id": "5983ce5296b04823fd7e5de843029425",
+      "title": "Nhân viên ngân hàng lừa khách ký khống để chiếm đoạt tiền",
+      "link": "https://vnexpress.net/nhan-vien-ngan-hang-lua-khach-ky-khong-de-chiem-doat-tien-5000433.html",
+      "summary": "Lò Minh Phương bị cáo buộc lợi dụng được giao quản lý hồ sơ vay vốn khách hàng tại ngân hàng SHB chi nhánh Sơn La để chiếm đoạt 600 triệu đồng thông qua các khoản vay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:04:10+07:00",
+      "fetched": "2025-12-31T13:20:33.959162+07:00"
+    },
+    {
+      "id": "564fc3c8062b0077851ef6502ab346ca",
+      "title": "Các điểm ngắm pháo hoa Tết Dương lịch tại Hà Nội",
+      "link": "https://vnexpress.net/cac-diem-ngam-phao-hoa-tet-duong-lich-tai-ha-noi-4998154.html",
+      "summary": "Nhiều nhà hàng, khách sạn, quán cà phê, quán bar mở cửa qua đêm 31/12, phục vụ khách ngắm pháo hoa, thưởng thức chương trình ca nhạc, đếm ngược chào năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:00:00+07:00",
+      "fetched": "2025-12-31T13:20:33.959334+07:00"
+    },
+    {
+      "id": "9e36bb89f94d1836ae67941db5ac8d76",
+      "title": "Thanh Thủy tôn sắc vóc với đầm hoa văn cung đình",
+      "link": "https://vnexpress.net/thanh-thuy-ton-sac-voc-voi-dam-hoa-van-cung-dinh-5000427.html",
+      "summary": "Hoa hậu Thanh Thủy thể hiện các bộ đầm hiện đại kết hợp hoa văn cung đình của Lê Thanh Hòa trong bộ ảnh thời trang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:00:00+07:00",
+      "fetched": "2025-12-31T13:20:33.959489+07:00"
+    },
+    {
+      "id": "5b5fb7b8bb49e10e87a0aff6f44fb467",
+      "title": "Ứng dụng AI vào quản lý dữ liệu, chăm sóc sức khỏe",
+      "link": "https://vnexpress.net/ung-dung-ai-vao-quan-ly-du-lieu-cham-soc-suc-khoe-5000506.html",
+      "summary": "AI được bác sĩ ứng dụng để quản lý dữ liệu, hỗ trợ theo dõi, phòng ngừa và nghiên cứu y tế, nâng cao khả năng ra quyết định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:00:00+07:00",
+      "fetched": "2025-12-31T13:20:33.959656+07:00"
+    },
+    {
+      "id": "309cd8cf243243034d32239c77d06ad2",
+      "title": "Trẻ hóa da đa tầng là gì?",
+      "link": "https://vnexpress.net/tre-hoa-da-da-tang-la-gi-5000503.html",
+      "summary": "Tôi muốn trẻ hóa da, nghe bạn giới thiệu phương pháp trẻ hóa da đa tầng. Tôi chưa rõ tác dụng và hiệu quả cụ thể ra sao? (Ngọc Linh, Thái Nguyên)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:00:00+07:00",
+      "fetched": "2025-12-31T13:20:33.959823+07:00"
+    },
+    {
+      "id": "c9509178a6ae39b6be58ba03d82873e8",
+      "title": "Hiểu nhầm zona thần kinh không tái phát",
+      "link": "https://vnexpress.net/hieu-nham-zona-than-kinh-khong-tai-phat-5000475.html",
+      "summary": "Ông Nguyễn Đức Lâm, 85 tuổi, TP HCM, từng nghĩ mắc zona thần kinh sẽ có miễn dịch suốt đời, nhưng bệnh tái phát sau 15 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:00:00+07:00",
+      "fetched": "2025-12-31T13:20:33.959978+07:00"
+    },
+    {
+      "id": "e255ff1e17005c9671497c0df468a705",
+      "title": "Phục hồi chức năng cho người bệnh thoái hóa thắt lưng",
+      "link": "https://vnexpress.net/phuc-hoi-chuc-nang-cho-nguoi-benh-thoai-hoa-that-lung-5000450.html",
+      "summary": "Các bài tập, vật lý trị liệu chuyên biệt, liệu pháp nhiệt giúp phục hồi chức năng cho người bệnh thoái hóa thắt lưng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:00:00+07:00",
+      "fetched": "2025-12-31T13:20:33.960131+07:00"
+    },
+    {
+      "id": "f9ec26f46c847290d4d6179420df4411",
+      "title": "Mất cơ bắp do giảm cân sai cách",
+      "link": "https://vnexpress.net/mat-co-bap-do-giam-can-sai-cach-5000178.html",
+      "summary": "Chị Xuyên, 28 tuổi, nhịn ăn, ăn kiêng, tập gym cường độ cao để giảm cân nhanh nhưng mất cơ, mệt mỏi kéo dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T05:00:00+07:00",
+      "fetched": "2025-12-31T13:20:33.960302+07:00"
+    },
+    {
+      "id": "c20b25a483efa4c5f2f28722f86568bd",
+      "title": "Ông Nguyễn Xuân Trường làm Phó ban Nội chính Trung ương",
+      "link": "https://vnexpress.net/ong-nguyen-xuan-truong-lam-pho-ban-noi-chinh-trung-uong-5000524.html",
+      "summary": "Ông Nguyễn Xuân Trường, Vụ trưởng Cơ quan Nội chính, được Ban Bí thư bổ nhiệm giữ chức Phó ban Nội chính Trung ương, theo quyết định công bố sáng 31/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T04:59:45+07:00",
+      "fetched": "2025-12-31T13:20:33.960461+07:00"
+    },
+    {
+      "id": "aab8967542fc0cda0af66c1ab1a39a01",
+      "title": "Hàn Quốc ban hành luật mới sau cái chết của Goo Hara",
+      "link": "https://vnexpress.net/han-quoc-ban-hanh-luat-moi-sau-cai-chet-cua-goo-hara-5000521.html",
+      "summary": "6 năm sau khi Goo Hara qua đời, luật Dân sự sửa đổi của Hàn Quốc cho phép tước thừa kế của cha mẹ vi phạm nghĩa vụ nuôi dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T04:59:23+07:00",
+      "fetched": "2025-12-31T13:20:33.960620+07:00"
+    },
+    {
+      "id": "4c63297c728791b1c25f68efcbd19a4e",
+      "title": "Đội tuyển dùng ba thủ môn trong một trận ở Cup châu Phi",
+      "link": "https://vnexpress.net/doi-tuyen-dung-ba-thu-mon-trong-mot-tran-o-cup-chau-phi-5000495.html",
+      "summary": "Uganda dùng ba thủ môn nhưng vẫn thua Nigeria 1-3 ở lượt cuối bảng C và sớm bị loại khỏi Cup châu Phi 2025 (AFCON).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T04:54:11+07:00",
+      "fetched": "2025-12-31T13:20:33.960778+07:00"
+    },
+    {
+      "id": "4c63297c728791b1c25f68efcbd19a4e",
+      "title": "Đội tuyển dùng ba thủ môn trong một trận ở Cup châu Phi",
+      "link": "https://vnexpress.net/doi-tuyen-dung-ba-thu-mon-trong-mot-tran-o-cup-chau-phi-5000495.html",
+      "summary": "Uganda dùng ba thủ môn nhưng vẫn thua Nigeria 1-3 ở lượt cuối bảng C và sớm bị loại khỏi Cup châu Phi 2025 (AFCON).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-31T04:54:11+07:00",
+      "fetched": "2025-12-31T13:20:44.774464+07:00"
+    },
+    {
+      "id": "4b67fd327fe3eb828fcd62bbe84b9435",
+      "title": "Thái Lan trao trả 18 tù binh Campuchia",
+      "link": "https://vnexpress.net/thai-lan-trao-tra-18-tu-binh-campuchia-5000469.html",
+      "summary": "Thái Lan trao trả 18 binh sĩ Campuchia bị giam 155 ngày, không lâu sau khi hai bên nhất trí ngừng bắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T04:53:37+07:00",
+      "fetched": "2025-12-31T13:20:33.960935+07:00"
+    },
+    {
+      "id": "4b67fd327fe3eb828fcd62bbe84b9435",
+      "title": "Thái Lan trao trả 18 tù binh Campuchia",
+      "link": "https://vnexpress.net/thai-lan-trao-tra-18-tu-binh-campuchia-5000469.html",
+      "summary": "Thái Lan trao trả 18 binh sĩ Campuchia bị giam 155 ngày, không lâu sau khi hai bên nhất trí ngừng bắn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-31T04:53:37+07:00",
+      "fetched": "2025-12-31T13:20:39.465080+07:00"
+    },
+    {
+      "id": "1cebdd1106a9ee8d7948289f0115c82e",
+      "title": "Tổng Bí thư yêu cầu trả lời 3 câu hỏi về khoa học công nghệ năm 2026",
+      "link": "https://vnexpress.net/tong-bi-thu-yeu-cau-tra-loi-3-cau-hoi-ve-khoa-hoc-cong-nghe-nam-2026-5000407.html",
+      "summary": "Tổng Bí thư Tô Lâm nhấn mạnh phương châm năm 2026 là hành động đột phá, lan tỏa kết quả và trả lời được ba câu hỏi trọng tâm về khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-31T04:45:40+07:00",
+      "fetched": "2025-12-31T13:20:43.658029+07:00"
+    },
+    {
+      "id": "66ee118ede4609152d112e2e44e17839",
+      "title": "'Quả cầu chòm sao' sẽ thắp sáng Quảng trường Thời đại lúc giao thừa",
+      "link": "https://vnexpress.net/qua-cau-chom-sao-se-thap-sang-quang-truong-thoi-dai-luc-giao-thua-5000448.html",
+      "summary": "Quảng trường Thời đại sẽ thả \"quả cầu chòm sao\" cùng các hiệu ứng đặc biệt vào khoảnh khắc giao thừa, mở đầu dịp kỷ niệm 250 năm quốc khánh Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-31T04:45:08+07:00",
+      "fetched": "2025-12-31T13:20:39.465246+07:00"
+    },
+    {
+      "id": "7ad6b63b53d5dbf4aaba52a81476779c",
+      "title": "Neville bức xúc khi Amorim dùng lại sơ đồ 3-4-3 ở Man Utd",
+      "link": "https://vnexpress.net/neville-buc-xuc-khi-amorim-dung-lai-so-do-3-4-3-o-man-utd-5000388.html",
+      "summary": "Theo cựu đội trưởng Man Utd Gary Neville, việc dùng lại sơ đồ 3-4-3 trong trận hòa Wolves 1-1 ở vòng 19 Ngoại hạng Anh là sai lầm của HLV Ruben Amorim.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-31T04:44:19+07:00",
+      "fetched": "2025-12-31T13:20:44.774619+07:00"
+    },
+    {
+      "id": "5f1c8b5f396e4127009d2606e3742688",
+      "title": "Amorim: 'Man Utd trả giá vì những chi tiết nhỏ'",
+      "link": "https://vnexpress.net/amorim-man-utd-tra-gia-vi-nhung-chi-tiet-nho-5000419.html",
+      "summary": "Sau trận hòa Wolves 1-1 ở vòng 19 Ngoại hạng Anh, HLV Ruben Amorim cho rằng Man Utd không thua kém về thế trận nhưng trả giá vì thiếu chính xác và kém hiệu quả trong các tình huống then chốt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-31T04:30:59+07:00",
+      "fetched": "2025-12-31T13:20:44.774773+07:00"
+    },
+    {
       "id": "fa09038808c59576ce7b0181dad6721c",
       "title": "Ngọc Lan an ủi nữ kế toán trưởng khi bị đàng trai từ chối hẹn hò",
       "link": "https://thanhnien.vn/ngoc-lan-an-ui-nu-ke-toan-truong-khi-bi-dang-trai-tu-choi-hen-ho-185251231110832778.htm",
@@ -311,6 +841,16 @@ window.newsData_2025_12_31 = {
       "category": "Tổng hợp",
       "published": "2025-12-31T04:29:00+07:00",
       "fetched": "2025-12-31T11:31:21.628541+07:00"
+    },
+    {
+      "id": "7b3eff5b86112c3416be4c6c72673744",
+      "title": "Ông Putin chúc mừng năm mới lãnh đạo Trung, Mỹ",
+      "link": "https://vnexpress.net/ong-putin-chuc-mung-nam-moi-lanh-dao-trung-my-5000437.html",
+      "summary": "Ông Putin gửi lời chúc mừng năm mới tới Chủ tịch Trung Quốc và Tổng thống Mỹ cùng một số lãnh đạo quốc gia khác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-31T04:28:29+07:00",
+      "fetched": "2025-12-31T13:20:39.465430+07:00"
     },
     {
       "id": "187623aa97261a2ba98b0efc6239afd8",
@@ -773,6 +1313,16 @@ window.newsData_2025_12_31 = {
       "fetched": "2025-12-31T10:19:57.797545+07:00"
     },
     {
+      "id": "20714631d33247521123f0244d826ca4",
+      "title": "Arteta: 'Arsenal hạ Aston Villa nhờ sự lạnh lùng'",
+      "link": "https://vnexpress.net/arteta-arsenal-ha-aston-villa-nho-su-lanh-lung-5000409.html",
+      "summary": "Theo HLV Mikel Arteta, hiệu quả trong hiệp hai và niềm tin vào tập thể là chìa khóa giúp Arsenal đè bẹp Aston Villa 4-1 ở vòng 19 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-31T02:54:31+07:00",
+      "fetched": "2025-12-31T13:20:44.773793+07:00"
+    },
+    {
       "id": "bf9ff9ced3c86376b66ff46843c4f41b",
       "title": "Chồng giảng viên muốn an nhàn, không chịu tìm cách tăng thu nhập",
       "link": "https://vnexpress.net/chong-luoi-bieng-chong-giang-vien-muon-an-nhan-khong-chiu-tim-cach-tang-thu-nhap-5000273.html",
@@ -931,6 +1481,16 @@ window.newsData_2025_12_31 = {
       "category": "Kinh doanh",
       "published": "2025-12-31T02:14:20+07:00",
       "fetched": "2025-12-31T10:19:51.940496+07:00"
+    },
+    {
+      "id": "17d08342e5e9bcbc48b295b29dd8c960",
+      "title": "Mua vàng từ 20 triệu đồng không chuyển khoản sẽ bị phạt",
+      "link": "https://vnexpress.net/mua-vang-tu-20-trieu-dong-khong-chuyen-khoan-se-bi-phat-5000256.html",
+      "summary": "Người dân có thể bị phạt từ 10 đến 20 triệu đồng nếu mua bán vàng giá trị 20 triệu đồng trở lên mà không chuyển khoản.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-31T02:14:20+07:00",
+      "fetched": "2025-12-31T13:20:40.813377+07:00"
     },
     {
       "id": "c9475dc1188377fb129aaab8d560037c",
