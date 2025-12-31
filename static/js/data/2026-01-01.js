@@ -1,6 +1,6 @@
 window.newsData_2026_01_01 = {
   "date": "2026-01-01",
-  "lastUpdated": "2026-01-01T03:13:25.629215+07:00",
+  "lastUpdated": "2026-01-01T05:12:28.571350+07:00",
   "articles": [
     {
       "id": "2d9c7c991446331a0a15790e70bfdcca",
@@ -153,6 +153,146 @@ window.newsData_2026_01_01 = {
       "fetched": "2026-01-01T01:18:11.269244+07:00"
     },
     {
+      "id": "17e476239767c1f34754df1da80de4f5",
+      "title": "Định hình nền tảng cho kỷ nguyên vươn mình",
+      "link": "https://thanhnien.vn/dinh-hinh-nen-tang-cho-ky-nguyen-vuon-minh-185251231231109387.htm",
+      "summary": "Nhìn lại nhiệm kỳ Đại hội XIII của Đảng, điều đọng lại không chỉ là những con số tăng trưởng hay thứ hạng của nền kinh tế, mà là cách VN đã đi qua một giai đoạn \"gió ngược\" hiếm thấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T22:11:00+07:00",
+      "fetched": "2026-01-01T05:12:18.892201+07:00"
+    },
+    {
+      "id": "06e74982cbdd69b1dd1596a15425fda5",
+      "title": "Tập cardio nhiều có làm mất cơ không?",
+      "link": "https://thanhnien.vn/tap-cardio-nhieu-co-lam-mat-co-khong-185251216130331501.htm",
+      "summary": "Các bài tập cardio như chạy bộ, đạp xe, bơi lội có tác dụng giảm cân rất hiệu quả. Nhưng với người muốn tăng cơ, họ thường hạn chế cardio vì lo ngại tập quá nhiều sẽ khiến cơ khó phát triển, thậm chí mất cơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T22:10:00+07:00",
+      "fetched": "2026-01-01T05:12:18.892376+07:00"
+    },
+    {
+      "id": "f57dfb5916f291b225889ded90a1fae2",
+      "title": "Tại sao suy thận tăng vọt vào mùa đông: Bác sĩ chỉ cách phòng bệnh",
+      "link": "https://thanhnien.vn/tai-sao-suy-than-tang-vot-vao-mua-dong-bac-si-chi-cach-phong-benh-185260101050343052.htm",
+      "summary": "Khi mùa đông đến, thận có nguy cơ gặp rắc rối do tình trạng mất nước, lưu thông máu giảm và căng thẳng vì nhiễm trùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T22:03:00+07:00",
+      "fetched": "2026-01-01T05:12:18.892536+07:00"
+    },
+    {
+      "id": "a3494e20d9c319a4b1f4dd782fcf60ea",
+      "title": "Căng thẳng leo thang quanh eo biển Đài Loan",
+      "link": "https://thanhnien.vn/cang-thang-leo-thang-quanh-eo-bien-dai-loan-185251231233535526.htm",
+      "summary": "CNA đưa tin trong khuôn khổ cuộc tập trận mang tên \"Sứ mệnh Công lý 2025\", Bộ Tư lệnh Chiến khu miền Đông của Quân giải phóng Nhân dân Trung Quốc (PLA) ngày 30.12.2025 đã chọn 5 khu vực để diễn tập bắn đạn thật đến 18 giờ cùng ngày. Sau đó, Cục An toàn Hàng hải Trung Quốc bổ sung thêm 2 khu vực bắn ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T22:00:00+07:00",
+      "fetched": "2026-01-01T05:12:18.892691+07:00"
+    },
+    {
+      "id": "6ca0b043b28a0aebc86e19261860479d",
+      "title": "Lời tòa soạn",
+      "link": "https://thanhnien.vn/loi-toa-soan-185251231225840307.htm",
+      "summary": "Quý độc giả đang cầm trên tay tờ báo in tân niên phát hành ngày 1.1.2026. Sau số báo này, Thanh Niên sẽ gộp các số ra ngày 2, 3 và 4.1 vào Chuyên đề kỷ niệm 40 năm Thanh Niên phát hành số báo đầu tiên, phát hành vào ngày 2.1.2026. Ngày 5.1.2026 báo in Thanh Niên sẽ trở lại với quý độc giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T22:00:00+07:00",
+      "fetched": "2026-01-01T05:12:18.892845+07:00"
+    },
+    {
+      "id": "9d9572c62188830107312c32f0adc2b9",
+      "title": "Bản tin sức khỏe ngày 1.1.2026: Uống nước thế nào là tốt? | Làm đẹp, trang điểm có hại gì cho nội tiết?",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-ngay-112026-uong-nuoc-the-nao-la-tot-lam-dep-trang-diem-co-hai-gi-cho-noi-tiet-185251231191618001.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T22:00:00+07:00",
+      "fetched": "2026-01-01T05:12:18.893034+07:00"
+    },
+    {
+      "id": "0b7ab4b43e3b3be9fffb6f1866e6f17c",
+      "title": "Xu hướng công nghệ 2026",
+      "link": "https://vnexpress.net/xu-huong-cong-nghe-2026-4999739.html",
+      "summary": "2026 được dự đoán là năm AI trở nên chuyên biệt, robot hình người thâm nhập sâu vào đời sống, máy tính lượng tử và giao diện não - máy tính được ứng dụng thực tế.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-31T22:00:00+07:00",
+      "fetched": "2026-01-01T05:12:27.390434+07:00"
+    },
+    {
+      "id": "d4466c3d0148babe1911072d67ff48cc",
+      "title": "Có ‘thầy ngoại’ xịn, Trường ĐH Đồng Tháp quyết tâm ‘lột xác’ ở TNSV THACO cúp 2026",
+      "link": "https://thanhnien.vn/co-thay-ngoai-xin-truong-dh-dong-thap-quyet-tam-lot-xac-o-tnsv-thaco-cup-2026-185251231185113519.htm",
+      "summary": "Sau một năm rời giải sớm đầy tiếc nuối, Trường ĐH Đồng Tháp hứa hẹn mang đến một hình ảnh mới tại vòng loại Tây Nam bộ giải bóng đá giải bóng đá Thanh Niên sinh viên Việt Nam cúp THACO 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T21:57:00+07:00",
+      "fetched": "2026-01-01T05:12:18.893193+07:00"
+    },
+    {
+      "id": "4e7a95519f41f13fa3c8459878264220",
+      "title": "Chiêm ngưỡng bản đồ Việt Nam làm từ 1.000 giống hoa, cây kiểng ở miền Tây",
+      "link": "https://thanhnien.vn/chiem-nguong-ban-do-viet-nam-lam-tu-1000-giong-hoa-cay-kieng-o-mien-tay-185251231174904426.htm",
+      "summary": "Tại Festival Hoa - Kiểng Sa Đéc năm 2025, một công trình nghệ thuật đặc biệt đã thu hút sự chú ý của đông đảo người dân và du khách: bản đồ Việt Nam được tạo hình từ khoảng 1.000 giống hoa, cây kiểng đặc trưng của Làng hoa Sa Đéc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T21:57:00+07:00",
+      "fetched": "2026-01-01T05:12:18.893344+07:00"
+    },
+    {
+      "id": "e48bcd7f954bb32670d22a10f69ef01b",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 1.1.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-112026-185251231235829686.htm",
+      "summary": "Tin tức Phát huy trí tuệ và bản lĩnh Việt Nam vững bước tiến mạnh trong kỷ nguyên phát triển mới; Kiến tạo động lực cho kỷ nguyên phát triển mới; Những cuộc đời đổi thay sau bài báo... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 1.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T21:30:00+07:00",
+      "fetched": "2026-01-01T05:12:18.893493+07:00"
+    },
+    {
+      "id": "ee1c4f41a237392ff15e3560ca911144",
+      "title": "Chiến sự Ukraine ngày 1.407: Chỉ đạo mới của Tổng tham mưu trưởng Nga",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1407-chi-dao-moi-cua-tong-tham-muu-truong-nga-185251231214018669.htm",
+      "summary": "Trước thềm năm 2026, Tướng Valery Gerasimov, Tổng tham mưu trưởng quân đội Nga, đã yêu cầu các lực lượng nước này ở Ukraine tiếp tục thiết lập những 'vùng đệm' tại các tỉnh Sumy và Kharkiv.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T21:29:00+07:00",
+      "fetched": "2026-01-01T05:12:18.893643+07:00"
+    },
+    {
+      "id": "7cd84b491c7ac0d22f6cef09abbbf7ea",
+      "title": "Kỹ năng sống còn khi hàng hóa từ xe tải rơi vãi xuống đường",
+      "link": "https://vnexpress.net/ky-nang-song-con-khi-hang-hoa-tu-xe-tai-roi-vai-xuong-duong-5000533.html",
+      "summary": "Khi gặp tình huống hàng hóa từ xe tải rơi trên cao tốc, tài xế cần nhả ga, giữ thẳng lái, phanh đúng thời điểm để tránh trượt, mất lái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T21:00:00+07:00",
+      "fetched": "2026-01-01T05:12:15.581599+07:00"
+    },
+    {
+      "id": "7660b4b9aa9fce53fe212f6d0b6ed8b4",
+      "title": "Khoảnh khắc đếm ngược, vỡ òa pháo hoa chào năm 2026",
+      "link": "https://vnexpress.net/khoanh-khac-dem-nguoc-vo-oa-phao-hoa-chao-nam-2026-5000767.html",
+      "summary": "Hàng chục nghìn người tập trung về trung tâm Hà Nội, TP HCM cùng đếm ngược đón khoảnh khắc giao thừa, thưởng thức màn bắn pháo hoa chào năm mới 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T20:34:06+07:00",
+      "fetched": "2026-01-01T05:12:15.581781+07:00"
+    },
+    {
+      "id": "ec3e3b54c35ba26d5a07c29122621126",
+      "title": "‘Mồi lửa’ cho sự phát triển bền vững",
+      "link": "https://thanhnien.vn/moi-lua-cho-su-phat-trien-ben-vung-185251231222056088.htm",
+      "summary": "Qua 3 mùa giải, giải bóng đá Thanh Niên sinh viên VN (TNSV) đã trở thành biểu tượng mới của tinh thần rèn luyện thể chất và sự chuyên nghiệp trong thể thao học đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T20:16:00+07:00",
+      "fetched": "2026-01-01T05:12:18.893801+07:00"
+    },
+    {
       "id": "b9337d33ecf910a6b6a953fb9c3fffc2",
       "title": "Dựng nhà rường trái phép ở lăng mộ hoàng thái hậu Từ Dụ",
       "link": "https://vnexpress.net/dung-nha-ruong-trai-phep-o-lang-mo-hoang-thai-hau-tu-du-5000682.html",
@@ -231,6 +371,16 @@ window.newsData_2026_01_01 = {
       "category": "Tổng hợp",
       "published": "2025-12-31T17:29:42+07:00",
       "fetched": "2026-01-01T01:18:06.932407+07:00"
+    },
+    {
+      "id": "20e9c4548f65c5623d5826ee3dd2f853",
+      "title": "Dòng người chen lấn ở Hồ Gươm",
+      "link": "https://vnexpress.net/dong-nguoi-chen-lan-o-ho-guom-5000762.html",
+      "summary": "Trên các tuyến đường Đinh Tiên Hoàng, Hàng Khay và Tràng Tiền, dòng người đông nghẹt, chen lấn và xô đẩy trước giờ bắn pháo hoa, tối 31/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T17:29:42+07:00",
+      "fetched": "2026-01-01T05:12:15.582953+07:00"
     },
     {
       "id": "6197b3d2c803286ab55b32e73fd52236",
