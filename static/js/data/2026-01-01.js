@@ -1,7 +1,157 @@
 window.newsData_2026_01_01 = {
   "date": "2026-01-01",
-  "lastUpdated": "2026-01-01T13:20:56.128510+07:00",
+  "lastUpdated": "2026-01-01T15:18:07.026123+07:00",
   "articles": [
+    {
+      "id": "d49cf97683c315f66decf7033a21e8c5",
+      "title": "Tái hiện lễ ban lịch dưới triều Nguyễn ngày đầu năm mới, mở màn cho mùa lễ hội Huế 2026",
+      "link": "https://tuoitre.vn/tai-hien-le-ban-lich-duoi-trieu-nguyen-ngay-dau-nam-moi-mo-man-cho-mua-le-hoi-hue-2026-20260101114847561.htm",
+      "summary": "Trung tâm Bảo tồn di tích cố đô Huế đã tái hiện lễ ban sóc (phát lịch) dưới triều Nguyễn dưới hình thức sân khấu hóa ngày đầu năm mới để mở màn cho mùa lễ hội 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.396181+07:00",
+      "fetched": "2026-01-01T15:18:00.396297+07:00"
+    },
+    {
+      "id": "ccf689fe436264fa9dac12b893f5da32",
+      "title": "Nhà di động ngắn và rẻ hơn cả Hyundai Grand i10: Vẫn có nhà tắm, ở được 4 người",
+      "link": "https://tuoitre.vn/nha-di-dong-ngan-va-re-hon-ca-hyundai-grand-i10-van-co-nha-tam-o-duoc-4-nguoi-20260101122056865.htm",
+      "summary": "Nhà di động Cafito Serie 3.5 gây chú ý với kích thước nhỏ gọn, thiết kế dễ thương nhưng vẫn đầy đủ tiện nghi cho 2 - 4 người ở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.396050+07:00",
+      "fetched": "2026-01-01T15:18:00.396169+07:00"
+    },
+    {
+      "id": "a0e93f7f652e4503998680042e7cdd0b",
+      "title": "Tạm giữ thanh niên 'thông chốt', hất văng thiếu tá cảnh sát giao thông ra đường",
+      "link": "https://tuoitre.vn/tam-giu-thanh-nien-thong-chot-hat-vang-thieu-ta-canh-sat-giao-thong-ra-duong-20260101120203022.htm",
+      "summary": "Khi lực lượng cảnh sát giao thông ra hiệu lệnh dừng xe để kiểm tra, Nguyễn Anh Tuấn đã điều khiển xe máy tăng ga bỏ chạy, khiến thiếu tá Đỗ Văn Hùng bị hất văng ra đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.395917+07:00",
+      "fetched": "2026-01-01T15:18:00.396038+07:00"
+    },
+    {
+      "id": "620c8eb61d9df83fb7ed6647679df38f",
+      "title": "Đồng Tháp quyết liệt xử lý hơn 45.000 trường hợp lấn chiếm sông, kênh, rạch",
+      "link": "https://tuoitre.vn/dong-thap-quyet-liet-xu-ly-hon-45-000-truong-hop-lan-chiem-song-kenh-rach-2026010110473592.htm",
+      "summary": "UBND tỉnh Đồng Tháp vừa có văn bản giao Sở Xây dựng chịu trách nhiệm hướng dẫn, đôn đốc các cơ quan, đơn vị tiếp tục thực hiện chương trình giải quyết tình trạng xây dựng công trình, nhà ở lấn, chiếm sông, kênh, rạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.395786+07:00",
+      "fetched": "2026-01-01T15:18:00.395906+07:00"
+    },
+    {
+      "id": "c9c9c6232ae88bc3fa504b9f7759cd9a",
+      "title": "Nam A Bank kết nối nhân lực và tài lực kiều bào, thúc đẩy tài chính xanh",
+      "link": "https://tuoitre.vn/nam-a-bank-ket-noi-nhan-luc-va-tai-luc-kieu-bao-thuc-day-tai-chinh-xanh-20260101113431977.htm",
+      "summary": "Ngày 31-12, Nam A Bank và Trung tâm Cách mạng Công nghiệp lần thứ 4 tại TP.HCM (HCMC C4IR) đã chính thức ký kết Biên bản ghi nhớ hợp tác chiến lược giai đoạn 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.395624+07:00",
+      "fetched": "2026-01-01T15:18:00.395773+07:00"
+    },
+    {
+      "id": "4e2e19c783cbb845797ab1e5509ba23f",
+      "title": "Thông xe 13km cao tốc Vân Phong - Nha Trang: Cao tốc Bắc - Nam thông suốt từ TP.HCM đến Vân Phong",
+      "link": "https://tuoitre.vn/thong-xe-13km-cao-toc-van-phong-nha-trang-cao-toc-bac-nam-thong-suot-tu-tp-hcm-den-van-phong-20260101125229976.htm",
+      "summary": "13km còn lại của cao tốc Vân Phong - Nha Trang (đoạn qua tỉnh Khánh Hòa) đã chính thức thông xe sau thời gian khắc phục hư hỏng do mưa lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.395490+07:00",
+      "fetched": "2026-01-01T15:18:00.395613+07:00"
+    },
+    {
+      "id": "c0c78d8dddbf06dca2a0a7df6d478f36",
+      "title": "Người dân TP.HCM đạp xe trên làn ưu tiên, tận hưởng không khí ngày đầu năm",
+      "link": "https://tuoitre.vn/nguoi-dan-tp-hcm-dap-xe-tren-lan-uu-tien-tan-huong-khong-khi-ngay-dau-nam-20260101112610061.htm",
+      "summary": "Ngày đầu năm mới, người dân TP.HCM thích thú đạp xe trên làn đường ưu tiên vừa khánh thành dọc đại lộ Mai Chí Thọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.395362+07:00",
+      "fetched": "2026-01-01T15:18:00.395478+07:00"
+    },
+    {
+      "id": "f8b46353f1e319301aef2b7a755fea1e",
+      "title": "Thiếu niên 14 tuổi mắc bệnh dại sau 1 tháng bị chó cắn",
+      "link": "https://tuoitre.vn/thieu-nien-14-tuoi-mac-benh-dai-sau-1-thang-bi-cho-can-20260101124634963.htm",
+      "summary": "Ngày 1-1, Bệnh viện Bệnh Nhiệt đới Trung ương thông tin vừa tiếp nhận thiếu niên 14 tuổi nhập viện nguy kịch sau 1 tháng bị chó cắn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.395235+07:00",
+      "fetched": "2026-01-01T15:18:00.395350+07:00"
+    },
+    {
+      "id": "e4a43c365de0b20c2223b5198f2ff77a",
+      "title": "Lý Tiểu Long chịu được bao nhiêu đấm của Mike Tyson?",
+      "link": "https://tuoitre.vn/ly-tieu-long-chiu-duoc-bao-nhieu-dam-cua-mike-tyson-20260101121230955.htm",
+      "summary": "Trận đấu giả tưởng giữa Mike Tyson và Lý Tiểu Long luôn là một trong những chủ đề thú vị trong lúc \"trà dư tửu hậu\" của làng võ thuật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.395110+07:00",
+      "fetched": "2026-01-01T15:18:00.395224+07:00"
+    },
+    {
+      "id": "4a277e4419221d2252e418dba146848a",
+      "title": "Ông Trump tổ chức tiệc giao thừa ở Mar-a-Lago, có Thủ tướng Israel Netanyahu dự",
+      "link": "https://tuoitre.vn/ong-trump-to-chuc-tiec-giao-thua-o-mar-a-lago-co-thu-tuong-israel-netanyahu-20260101124433738.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã tổ chức buổi tiệc đón năm mới tại khu nghỉ dưỡng xa hoa Mar-a-Lago hôm 31-12, đặc biệt có sự tham gia của Thủ tướng Israel Benjamin Netanyahu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.394983+07:00",
+      "fetched": "2026-01-01T15:18:00.395098+07:00"
+    },
+    {
+      "id": "46821dddd428e042b75a8e8d3965e549",
+      "title": "TP.HCM tuyên dương 12 Công dân trẻ tiêu biểu 2025",
+      "link": "https://tuoitre.vn/tp-hcm-tuyen-duong-12-cong-dan-tre-tieu-bieu-2025-20251231171528049.htm",
+      "summary": "12 Công dân trẻ tiêu biểu TP.HCM 2025 đã được tuyên dương trong ngày đầu năm mới (1-1), vinh danh những gương mặt trẻ xuất sắc của TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.394854+07:00",
+      "fetched": "2026-01-01T15:18:00.394971+07:00"
+    },
+    {
+      "id": "5f0d161835aafcc6c137fde762400ee7",
+      "title": "Ông Kim Jong Un cùng con gái dự lễ năm mới, gửi thông điệp đến binh sĩ ở Nga",
+      "link": "https://tuoitre.vn/ong-kim-jong-un-cung-con-gai-du-le-nam-moi-gui-thong-diep-den-binh-si-o-nga-20260101122123057.htm",
+      "summary": "Nhà lãnh đạo Triều Tiên Kim Jong Un đã tham dự lễ mừng năm mới 2026 tại Bình Nhưỡng cùng con gái Ju Ae.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.394722+07:00",
+      "fetched": "2026-01-01T15:18:00.394843+07:00"
+    },
+    {
+      "id": "d8cdc745a41c0266c384ea86f913cba5",
+      "title": "AI đe dọa 200.000 việc làm trong ngành ngân hàng châu Âu vào năm 2030",
+      "link": "https://tuoitre.vn/ai-de-doa-200-000-viec-lam-trong-nganh-ngan-hang-chau-au-vao-nam-2030-20260101130556813.htm",
+      "summary": "Nhiều chuyên gia nhận định các vị trí thuộc khối hỗ trợ và trung gian sẽ là nhóm chịu tác động nặng nề nhất khi AI được triển khai sâu trong ngành ngân hàng châu Âu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.394564+07:00",
+      "fetched": "2026-01-01T15:18:00.394709+07:00"
+    },
+    {
+      "id": "8c07798e92acebc5ef06f6d0e8f600d2",
+      "title": "Có thật các turbine điện gió giết chết tất cả đại bàng đầu trọc biểu tượng của Mỹ?",
+      "link": "https://tuoitre.vn/tong-thong-trump-cao-buoc-turbine-gio-giet-chet-tat-ca-dai-bang-dau-troc-bieu-tuong-cua-my-2026010113151682.htm",
+      "summary": "Tổng thống Mỹ Donald Trump tuyên bố rằng các turbine điện gió đang “giết chết tất cả những con đại bàng đầu trọc xinh đẹp của nước Mỹ”, kèm theo một bức ảnh chim bị cánh quạt gió sát hại. Tuy nhiên, kiểm chứng cho thấy điều này không đúng sự thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.394420+07:00",
+      "fetched": "2026-01-01T15:18:00.394551+07:00"
+    },
+    {
+      "id": "5e575af817421a70b367e6e75ecb8208",
+      "title": "Cua Cà Mau tăng hơn 200.000 đồng/kg trong dịp Tết dương lịch",
+      "link": "https://tuoitre.vn/cua-ca-mau-tang-hon-200-000-dong-kg-trong-dip-tet-duong-lich-20260101122920514.htm",
+      "summary": "Giá cua Cà Mau đang tăng mạnh, mức tăng lên đến 200.000 đồng/kg đối với cua gạch so với vài ngày trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:18:00.394181+07:00",
+      "fetched": "2026-01-01T15:18:00.394403+07:00"
+    },
     {
       "id": "89a364f5333129f6ad7057cd8b45c3d0",
       "title": "Báo Financial Times dự báo tình hình thế giới năm 2026",
@@ -313,6 +463,26 @@ window.newsData_2026_01_01 = {
       "fetched": "2026-01-01T10:42:49.362258+07:00"
     },
     {
+      "id": "4e556b008c5989282f540da366e6e168",
+      "title": "Cà Mau: Khởi tố 3 bị can tổ chức cho nhiều người trốn đi nước ngoài",
+      "link": "https://thanhnien.vn/ca-mau-khoi-to-3-bi-can-to-chuc-cho-nhieu-nguoi-tron-di-nuoc-ngoai-185260101134307482.htm",
+      "summary": "Công an tỉnh Cà Mau vừa khởi tố 3 bị can cùng ngụ ở tỉnh này để điều tra về hành vi tổ chức cho người khác trốn đi nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T08:12:00+07:00",
+      "fetched": "2026-01-01T15:17:59.406344+07:00"
+    },
+    {
+      "id": "eb051d4120ad1ba8107af8f2a2c3b1ef",
+      "title": "Điều tra nguyên nhân vụ cháy xưởng gỗ tại TP.HCM trong ngày đầu năm",
+      "link": "https://thanhnien.vn/dieu-tra-nguyen-nhan-vu-chay-xuong-go-tai-tphcm-trong-ngay-dau-nam-185260101145514524.htm",
+      "summary": "Lực lượng chức năng đã kịp thời khống chế vụ cháy xưởng gỗ trên địa bàn xã Xuân Thới Sơn (TP.HCM), ngăn chặn ngọn lửa cháy lan sang các nhà dân lân cận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T08:10:00+07:00",
+      "fetched": "2026-01-01T15:17:59.406515+07:00"
+    },
+    {
       "id": "e605277c58f14a1198dfd2210ed24984",
       "title": "Thời tiết hôm nay 1-1-2026: Nam Bộ nhiều nơi dưới 20 độ C, Bắc Bộ rét đậm",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-1-1-2026-nam-bo-nhieu-noi-duoi-20-do-c-bac-bo-ret-dam-20251231191026263.htm",
@@ -433,6 +603,286 @@ window.newsData_2026_01_01 = {
       "fetched": "2026-01-01T08:06:51.340817+07:00"
     },
     {
+      "id": "0f1368aa24652edac0bf1d748cb15f40",
+      "title": "Ngày đầu năm mới 2026, vùng ven Đà Lạt nhuộm hồng sắc mai anh đào",
+      "link": "https://thanhnien.vn/ngay-dau-nam-moi-2026-vung-ven-da-lat-nhuom-hong-sac-mai-anh-dao-185260101100033905.htm",
+      "summary": "Ngày đầu năm mới 2026, cái lạnh dịu đặc trưng, nhiệt độ khoảng 11 độ C, mai anh đào - 'sứ giả mùa xuân' của phố núi - đồng loạt bung nở, nhuộm hồng nhiều không gian vùng ven Đà Lạt, thu hút người dân và du khách check-in.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T08:06:00+07:00",
+      "fetched": "2026-01-01T15:17:59.406698+07:00"
+    },
+    {
+      "id": "d80b661baf9ee97550a24a37afc1a549",
+      "title": "Donnarumma dập tắt cuộc tranh luận tại Man City",
+      "link": "https://vnexpress.net/donnarumma-dap-tat-cuoc-tranh-luan-tai-man-city-5000850.html",
+      "summary": "Từng khơi mào tranh luận vì khác biệt phong cách với các thủ môn tiền nhiệm, nhưng chỉ sau vài tháng, Gianluigi Donnarumma đã thuyết phục tất cả bằng phong độ xuất thần.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-01T08:00:00+07:00",
+      "fetched": "2026-01-01T15:18:07.017519+07:00"
+    },
+    {
+      "id": "7fad38c331458c25f779f9d27232261f",
+      "title": "Ăn tối sau 20 giờ ảnh hưởng đến gan và mỡ bụng ra sao?",
+      "link": "https://thanhnien.vn/an-toi-sau-20-gio-anh-huong-den-gan-va-mo-bung-ra-sao-185260101132328472.htm",
+      "summary": "Với nhiều người, bữa tối là lúc họ thực sự có thể ngồi xuống và ăn uống cho đàng hoàng. Nhưng nếu bữa tối thường xuyên rơi vào sau 20 giờ, vấn đề không chỉ có tăng cân mà còn tác động tiêu cực đến gan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:44:00+07:00",
+      "fetched": "2026-01-01T15:17:59.406861+07:00"
+    },
+    {
+      "id": "4e3e81762d2983b9167495c5dad5858e",
+      "title": "Bóng đá Việt Nam năm 2026 chờ đợi điều gì sau cú hích 2025?",
+      "link": "https://thanhnien.vn/bong-da-viet-nam-nam-2026-cho-doi-dieu-gi-sau-cu-hich-2025-185260101133202265.htm",
+      "summary": "Sau một năm 2025 gặt hái nhiều danh hiệu ở cả đội tuyển quốc gia lẫn các tuyến trẻ, bóng đá Việt Nam bước vào năm 2026 với tâm thế tự tin hơn, đồng thời đứng trước những bài toán quan trọng của giai đoạn bản lề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:41:00+07:00",
+      "fetched": "2026-01-01T15:17:59.407016+07:00"
+    },
+    {
+      "id": "3237cc1b3a2297747ebe28d7dfada633",
+      "title": "Phú Quốc: Kiên quyết xử lý nghiêm vi phạm về giá, xâm hại quyền lợi du khách",
+      "link": "https://thanhnien.vn/phu-quoc-kien-quyet-xu-ly-nghiem-vi-pham-ve-gia-xam-hai-quyen-loi-du-khach-185260101101456758.htm",
+      "summary": "Chính quyền đặc khu Phú Quốc khẳng định sẽ xử lý nghiêm các hành vi vi phạm về giá, xâm hại quyền lợi khách du lịch; đồng thời khuyến cáo chỉ nên đặt phòng qua các nền tảng uy tín, có thông tin pháp lý rõ ràng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:33:00+07:00",
+      "fetched": "2026-01-01T15:17:59.407189+07:00"
+    },
+    {
+      "id": "41de8c554923719fc929f8d4548bf6b4",
+      "title": "Hiến thận cho đồng nghiệp",
+      "link": "https://vnexpress.net/hien-than-cho-dong-nghiep-5000860.html",
+      "summary": "Chứng kiến đồng nghiệp vật vã với bệnh suy thận giai đoạn cuối, Tew Jian En, 32 tuổi, quyết định hiến một quả thận cứu bạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:31:41+07:00",
+      "fetched": "2026-01-01T15:17:56.429355+07:00"
+    },
+    {
+      "id": "e7f1dce6aa7a2837c4dba619f182e44d",
+      "title": "Nổ lớn ở khu nghỉ dưỡng Thụy Sĩ, nhiều người thiệt mạng",
+      "link": "https://vnexpress.net/no-lon-o-khu-nghi-duong-thuy-si-nhieu-nguoi-thiet-mang-5000869.html",
+      "summary": "Vụ nổ lớn tại quán bar trong một khu trượt tuyết nghỉ dưỡng cao cấp ở Thụy Sĩ khiến nhiều người chết và bị thương, chưa rõ nguyên nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:30:44+07:00",
+      "fetched": "2026-01-01T15:17:56.429534+07:00"
+    },
+    {
+      "id": "e7f1dce6aa7a2837c4dba619f182e44d",
+      "title": "Nổ lớn ở khu nghỉ dưỡng Thụy Sĩ, nhiều người thiệt mạng",
+      "link": "https://vnexpress.net/no-lon-o-khu-nghi-duong-thuy-si-nhieu-nguoi-thiet-mang-5000869.html",
+      "summary": "Vụ nổ lớn tại quán bar trong một khu trượt tuyết nghỉ dưỡng cao cấp ở Thụy Sĩ khiến nhiều người chết và bị thương, chưa rõ nguyên nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-01T07:30:44+07:00",
+      "fetched": "2026-01-01T15:18:01.406590+07:00"
+    },
+    {
+      "id": "0499dee4efd4f7f538d63f622f60cfb5",
+      "title": "Giải cứu nạn nhân 'bắt cóc online', công an Đà Nẵng chặn giao dịch 500 triệu đồng",
+      "link": "https://thanhnien.vn/giai-cuu-nan-nhan-bat-coc-online-cong-an-da-nang-chan-giao-dich-500-trieu-dong-185260101101634555.htm",
+      "summary": "Công an TP.Đà Nẵng kịp thời giải cứu nạn nhân 'bắt cóc online' với chiêu lừa đảo ép lập sổ tiết kiệm online. Lực lượng chức năng tức tốc chặn giao dịch 500 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:30:00+07:00",
+      "fetched": "2026-01-01T15:17:59.407352+07:00"
+    },
+    {
+      "id": "017e00fbb3234b56de2538d00877b199",
+      "title": "Hàng nghìn du khách quốc tế 'xông đất' Việt Nam ngày đầu năm",
+      "link": "https://vnexpress.net/hang-nghin-du-khach-quoc-te-xong-dat-viet-nam-ngay-dau-nam-5000883.html",
+      "summary": "Khách quốc tế \"xông đất\" các tỉnh, thành phố và điểm đến nổi tiếng Việt Nam vào ngày đầu tiên năm mới được tặng nhiều voucher giá trị và tận hưởng kỳ nghỉ theo cách riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:26:50+07:00",
+      "fetched": "2026-01-01T15:17:56.429720+07:00"
+    },
+    {
+      "id": "7e78fb184d4a1b00a7032e4cc8abefef",
+      "title": "Công dân trẻ tiêu biểu TP.HCM: Điểm khởi đầu của hành trình cống hiến lớn hơn",
+      "link": "https://thanhnien.vn/cong-dan-tre-tieu-bieu-tphcm-diem-khoi-dau-cua-hanh-trinh-cong-hien-lon-hon-185260101130600016.htm",
+      "summary": "Trong không khí tươi vui và đầy phấn khởi của ngày đầu năm mới 2026, 12 gương mặt trẻ xuất sắc đã được tuyên dương Công dân trẻ tiêu biểu TP.HCM năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:13:00+07:00",
+      "fetched": "2026-01-01T15:17:59.407503+07:00"
+    },
+    {
+      "id": "c978f4cb8ceb173eedbdf285f352dcb0",
+      "title": "Thị trưởng New York tuyên thệ nhậm chức dưới ga tàu bỏ hoang",
+      "link": "https://vnexpress.net/thi-truong-new-york-tuyen-the-nham-chuc-duoi-ga-tau-bo-hoang-5000861.html",
+      "summary": "Ông Zohran Mamdani tuyên thệ nhậm chức thị trưởng New York, trở thành lãnh đạo trẻ tuổi nhất của thành phố trong hơn một thế kỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:12:09+07:00",
+      "fetched": "2026-01-01T15:17:56.429884+07:00"
+    },
+    {
+      "id": "c978f4cb8ceb173eedbdf285f352dcb0",
+      "title": "Thị trưởng New York tuyên thệ nhậm chức dưới ga tàu bỏ hoang",
+      "link": "https://vnexpress.net/thi-truong-new-york-tuyen-the-nham-chuc-duoi-ga-tau-bo-hoang-5000861.html",
+      "summary": "Ông Zohran Mamdani tuyên thệ nhậm chức thị trưởng New York, trở thành lãnh đạo trẻ tuổi nhất của thành phố trong hơn một thế kỷ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-01T07:12:09+07:00",
+      "fetched": "2026-01-01T15:18:01.406786+07:00"
+    },
+    {
+      "id": "5e732665948d75935820556d268b68bb",
+      "title": "Người dân Đà Nẵng dậy sớm dạo phố sáng đầu năm: 'Tôi rất yêu thành phố'",
+      "link": "https://thanhnien.vn/nguoi-dan-da-nang-day-som-dao-pho-sang-dau-nam-toi-rat-yeu-thanh-pho-185260101140655579.htm",
+      "summary": "Sáng 1.1.2026, thành phố Đà Nẵng đón năm mới trong tiết trời mát mẻ, dễ chịu. Không khí se lạnh nhẹ của buổi sáng đầu năm, hòa cùng nắng sớm dịu dàng, tạo nên một không gian trong lành, yên bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:10:00+07:00",
+      "fetched": "2026-01-01T15:17:59.407669+07:00"
+    },
+    {
+      "id": "4d17294b062a4c6d6be41103c8171985",
+      "title": "Nhan sắc cô gái xinh đẹp nhất thế giới 2025",
+      "link": "https://vnexpress.net/nhan-sac-co-gai-xinh-dep-nhat-the-gioi-2025-5000847.html",
+      "summary": "Ca sĩ Rosé (nhóm Blackpink) - gương mặt đẹp nhất 2025 - hút fan với phong cách và sắc vóc năng động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:02:20+07:00",
+      "fetched": "2026-01-01T15:17:56.430040+07:00"
+    },
+    {
+      "id": "38c46bf9f52ed2645c27d187f5c69082",
+      "title": "Guardiola: '2025 là một trong những năm hay nhất của tôi tại Man City'",
+      "link": "https://vnexpress.net/guardiola-2025-la-mot-trong-nhung-nam-hay-nhat-cua-toi-tai-man-city-5000857.html",
+      "summary": "Dù trắng tay mùa trước, HLV Pep Guardiola cho rằng những gì Man City làm được trong năm 2025 vẫn rất đáng tự hào, đặc biệt trong bối cảnh liên tục chịu tổn thất vì chấn thương và thiếu hụt lực lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:00:00+07:00",
+      "fetched": "2026-01-01T15:17:56.430195+07:00"
+    },
+    {
+      "id": "3d80ef325d054409f9d74a9b27e2577c",
+      "title": "Công việc lương nửa triệu USD 'khó khả thi' tại OpenAI",
+      "link": "https://vnexpress.net/cong-viec-luong-nua-trieu-usd-kho-kha-thi-tai-openai-5000403.html",
+      "summary": "OpenAI tuyển vị trí ngăn chặn rủi ro AI với mức lương 555.000 USD mỗi năm, nhưng được đánh giá là \"nhiệm vụ gần như bất khả thi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:00:00+07:00",
+      "fetched": "2026-01-01T15:17:56.430347+07:00"
+    },
+    {
+      "id": "90bdf9234ebba246557e3d1de5bf07b0",
+      "title": "Chạy bộ vẽ số 2026 ở trung tâm TP.HCM: Cách đón năm mới đầy năng lượng",
+      "link": "https://thanhnien.vn/chay-bo-ve-so-2026-o-trung-tam-tphcm-cach-don-nam-moi-day-nang-luong-185260101110513538.htm",
+      "summary": "Sáng nay 1.1, hơn 50 người rủ nhau cùng chạy bộ ở trung tâm TP.HCM, vẽ lại hành trình có hình số 2026 bằng những bước chạy để chào đón năm mới bằng sức khỏe và niềm vui.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:00:00+07:00",
+      "fetched": "2026-01-01T15:17:59.407825+07:00"
+    },
+    {
+      "id": "22680baca052d569ee5dedd871778b28",
+      "title": "Phạm Sông Thu và hành trình 'Gió ngược'",
+      "link": "https://thanhnien.vn/pham-song-thu-va-hanh-trinh-gio-nguoc-185260101092618289.htm",
+      "summary": "Từ một chàng trai nghèo xứ Quảng đặt chân vào Sài Gòn với 500 ngàn đồng và tấm giấy báo nhập học, Phạm Sông Thu đã tự mở lối đi trong nghề báo. Và ‘Gió ngược’ là hành trình vượt nghịch cảnh, dấn thân, chiêm nghiệm về giá trị sống mà anh muốn gửi lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:00:00+07:00",
+      "fetched": "2026-01-01T15:17:59.408028+07:00"
+    },
+    {
+      "id": "5f49f9c3ca97532d28fdf1b458e5d848",
+      "title": "Nâng tầm phong cách cùng những thiết kế từ vải ren",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nang-tam-phong-cach-cung-nhung-thiet-ke-tu-vai-ren-18525123110341455.htm",
+      "summary": "Có những chất liệu dù trải qua bao xu hướng vẫn luôn giữ được sức hút riêng và vải ren là một trong số đó. Nhẹ nhàng, tinh xảo và nữ tính, ren là 'ngôn ngữ' giúp phái đẹp thể hiện khí chất và gu thẩm mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T07:00:00+07:00",
+      "fetched": "2026-01-01T15:17:59.408233+07:00"
+    },
+    {
+      "id": "3d80ef325d054409f9d74a9b27e2577c",
+      "title": "Công việc lương nửa triệu USD 'khó khả thi' tại OpenAI",
+      "link": "https://vnexpress.net/cong-viec-luong-nua-trieu-usd-kho-kha-thi-tai-openai-5000403.html",
+      "summary": "OpenAI tuyển vị trí ngăn chặn rủi ro AI với mức lương 555.000 USD mỗi năm, nhưng được đánh giá là \"nhiệm vụ gần như bất khả thi\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-01T07:00:00+07:00",
+      "fetched": "2026-01-01T15:18:06.013011+07:00"
+    },
+    {
+      "id": "38c46bf9f52ed2645c27d187f5c69082",
+      "title": "Guardiola: '2025 là một trong những năm hay nhất của tôi tại Man City'",
+      "link": "https://vnexpress.net/guardiola-2025-la-mot-trong-nhung-nam-hay-nhat-cua-toi-tai-man-city-5000857.html",
+      "summary": "Dù trắng tay mùa trước, HLV Pep Guardiola cho rằng những gì Man City làm được trong năm 2025 vẫn rất đáng tự hào, đặc biệt trong bối cảnh liên tục chịu tổn thất vì chấn thương và thiếu hụt lực lượng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-01T07:00:00+07:00",
+      "fetched": "2026-01-01T15:18:07.017695+07:00"
+    },
+    {
+      "id": "2956f468dc49cbe52b5270146c3e6812",
+      "title": "Bánh ôtô đầu kéo văng trúng người phụ nữ",
+      "link": "https://vnexpress.net/banh-oto-dau-keo-vang-trung-nguoi-phu-nu-5000865.html",
+      "summary": "Xe đầu kéo chở xi măng chạy trên quốc lộ 53 bất ngờ văng bánh, lăn qua đường đâm vào cửa hàng ven đường, khiến một phụ nữ 44 tuổi nguy kịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T06:58:41+07:00",
+      "fetched": "2026-01-01T15:17:56.430511+07:00"
+    },
+    {
+      "id": "40283d1c259b38d1af34607a72dd6ef7",
+      "title": "Luật Công nghiệp công nghệ số mở đường cho AI, chip, Bitcoin tại Việt Nam",
+      "link": "https://thanhnien.vn/luat-cong-nghiep-cong-nghe-so-mo-duong-cho-ai-chip-bitcoin-tai-viet-nam-185260101131509047.htm",
+      "summary": "Luật Công nghiệp công nghệ số chính thức có hiệu lực từ hôm nay 1.1.2026, sẽ góp phần định hình lại bộ mặt công nghệ Việt, lấy công nghiệp bán dẫn, trí tuệ nhân tạo (AI), tài sản số làm nền tảng phát triển cốt lõi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T06:56:00+07:00",
+      "fetched": "2026-01-01T15:17:59.408401+07:00"
+    },
+    {
+      "id": "f090c8ab4558b44c65211a2e76a6325c",
+      "title": "Thị trường card đồ họa đối mặt đợt tăng giá lớn trong quý 1/2026",
+      "link": "https://thanhnien.vn/thi-truong-card-do-hoa-doi-mat-dot-tang-gia-lon-trong-quy-1-2026-185251231225525463.htm",
+      "summary": "Giá card đồ họa RTX 5090 có thể tăng từ 1.999 USD lên 5.000 USD do nhiều yếu tố cung ứng và sản xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T06:49:00+07:00",
+      "fetched": "2026-01-01T15:17:59.408552+07:00"
+    },
+    {
+      "id": "81bc6e71f66c671bf642e11f73f8cf48",
+      "title": "Nhạc sĩ khiếm thị tiết lộ hôn nhân bên vợ kém 18 tuổi",
+      "link": "https://thanhnien.vn/nhac-si-khiem-thi-tiet-lo-hon-nhan-ben-vo-kem-18-tuoi-185260101132139283.htm",
+      "summary": "Hành trình hôn nhân nhiều thăng trầm được nhạc sĩ Hà Chương và vợ là Thúy An chia sẻ trong chương trình 'Thuận vợ thuận chồng', lên sóng trên VTV9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T06:43:00+07:00",
+      "fetched": "2026-01-01T15:17:59.408719+07:00"
+    },
+    {
+      "id": "e0e00e906782582e83983ecdd5ff3404",
+      "title": "TP HCM hỗ trợ 100% phí BHYT cho 6 nhóm từ 2026",
+      "link": "https://vnexpress.net/tp-hcm-ho-tro-100-phi-bhyt-cho-6-nhom-tu-2026-5000829.html",
+      "summary": "Từ ngày 1/1/2026, TP HCM mở rộng diện cấp thẻ BHYT miễn phí, hỗ trợ 100% mức đóng cho 6 nhóm, gồm trẻ em, người nghèo, người cao tuổi sống đơn thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T06:27:32+07:00",
+      "fetched": "2026-01-01T15:17:56.430699+07:00"
+    },
+    {
+      "id": "1374b2d2d18ac075ae5cc2ecd62f5f60",
+      "title": "Di chuyển que diêm nào để cứu vớt phép tính '2 + 8 = 9'",
+      "link": "https://vnexpress.net/di-chuyen-que-diem-nao-de-cuu-vot-phep-tinh-2-8-9-4999512.html",
+      "summary": "Chào mừng các \"thánh soi\" và những bộ óc logic siêu hạng đến với đấu trường của những con số đang \"vô lý\" một cách hài hước!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T06:27:00+07:00",
+      "fetched": "2026-01-01T15:17:56.430866+07:00"
+    },
+    {
       "id": "68fc33b6a1bc2bcdfddf44b3339e52b2",
       "title": "Diễn biến mới vụ Mỹ bán vũ khí cho Đài Loan, Trung Quốc lên tiếng gay gắt",
       "link": "https://thanhnien.vn/dien-bien-moi-vu-my-ban-vu-khi-cho-dai-loan-trung-quoc-len-tieng-gay-gat-185260101113856437.htm",
@@ -441,6 +891,26 @@ window.newsData_2026_01_01 = {
       "category": "Tổng hợp",
       "published": "2026-01-01T06:16:00+07:00",
       "fetched": "2026-01-01T13:20:46.479363+07:00"
+    },
+    {
+      "id": "85fce3ef861daef55dcf6dd0ff0cf684",
+      "title": "Loạt nữ nghị sĩ Nhật yêu cầu xây thêm toilet ở tòa nhà quốc hội",
+      "link": "https://vnexpress.net/loat-nu-nghi-si-nhat-yeu-cau-xay-them-toilet-o-toa-nha-quoc-hoi-5000853.html",
+      "summary": "Tình trạng thiếu toilet cho nữ ở tòa nhà quốc hội Nhật khiến nhiều nghị sĩ, trong đó có Thủ tướng Takaichi, yêu cầu cải thiện cơ sở vật chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T06:15:50+07:00",
+      "fetched": "2026-01-01T15:17:56.431019+07:00"
+    },
+    {
+      "id": "85fce3ef861daef55dcf6dd0ff0cf684",
+      "title": "Loạt nữ nghị sĩ Nhật yêu cầu xây thêm toilet ở tòa nhà quốc hội",
+      "link": "https://vnexpress.net/loat-nu-nghi-si-nhat-yeu-cau-xay-them-toilet-o-toa-nha-quoc-hoi-5000853.html",
+      "summary": "Tình trạng thiếu toilet cho nữ ở tòa nhà quốc hội Nhật khiến nhiều nghị sĩ, trong đó có Thủ tướng Takaichi, yêu cầu cải thiện cơ sở vật chất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-01T06:15:50+07:00",
+      "fetched": "2026-01-01T15:18:01.406956+07:00"
     },
     {
       "id": "1c30221b873547944ce843199a8095fe",
@@ -471,6 +941,46 @@ window.newsData_2026_01_01 = {
       "category": "Tổng hợp",
       "published": "2026-01-01T06:01:00+07:00",
       "fetched": "2026-01-01T13:20:46.479841+07:00"
+    },
+    {
+      "id": "433d061b007b41dfb06175a62cf0866a",
+      "title": "Giám đốc doanh nghiệp đặt túi tiền 10 tỷ đồng sau cửa nhà quyền cục trưởng",
+      "link": "https://vnexpress.net/giam-doc-doanh-nghiep-dat-tui-tien-10-ty-dong-sau-cua-nha-quyen-cuc-truong-5000835.html",
+      "summary": "Giám đốc Công ty Hoàng Dân xách túi tiền 10 tỷ đồng đến nhà quyền cục trưởng Hoàng Tố Nghị của Bộ Nông nghiệp, đặt sau cánh cửa phòng khách rồi chào ra về.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T06:00:38+07:00",
+      "fetched": "2026-01-01T15:17:56.431175+07:00"
+    },
+    {
+      "id": "8ac928b7add8265ddbd7f5d86d508bea",
+      "title": "Tôi 'bỏ của chạy lấy người' sau hai buổi tập gym bị PT đeo bám",
+      "link": "https://vnexpress.net/toi-bo-cua-chay-lay-nguoi-sau-hai-buoi-tap-gym-bi-pt-deo-bam-5000827.html",
+      "summary": "'Bị PT tìm cách chèo kéo, gạ mua gói tập, tôi sợ hãi, phải tìm cách chặn liên lạc của anh ta và nghỉ tập ngang'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T06:00:00+07:00",
+      "fetched": "2026-01-01T15:17:56.431327+07:00"
+    },
+    {
+      "id": "356f4c78bc2c1e1f86aba44004b99a6f",
+      "title": "Nữ du khách đi khắp thế giới với 400 USD một tháng",
+      "link": "https://vnexpress.net/nu-du-khach-di-khap-the-gioi-voi-400-usd-mot-thang-5000811.html",
+      "summary": "Với 400 USD lương hưu mỗi tháng, nữ du khách Tierra St. Claire tiết lộ cách đi du lịch khắp thế giới suốt 20 năm qua nhờ kết hợp công việc chăm sóc vật nuôi tại các điểm đến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T06:00:00+07:00",
+      "fetched": "2026-01-01T15:17:56.431477+07:00"
+    },
+    {
+      "id": "6268a0494f7209fba1731d91ea35febe",
+      "title": "5 thay đổi hành vi ở trẻ có thể do thiếu vitamin",
+      "link": "https://vnexpress.net/5-thay-doi-hanh-vi-o-tre-co-the-do-thieu-vitamin-5000739.html",
+      "summary": "Thiếu vitamin B6, B12, sắt và một số vitamin khác có thể ảnh hưởng đến tâm trạng, khả năng tập trung, mức năng lượng và giấc ngủ của trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T06:00:00+07:00",
+      "fetched": "2026-01-01T15:17:56.431633+07:00"
     },
     {
       "id": "c76c8ce67ce5a6da58e36022c6775a7b",
