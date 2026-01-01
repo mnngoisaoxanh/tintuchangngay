@@ -1,7 +1,157 @@
 window.newsData_2026_01_01 = {
   "date": "2026-01-01",
-  "lastUpdated": "2026-01-01T17:14:25.155314+07:00",
+  "lastUpdated": "2026-01-01T19:25:05.546173+07:00",
   "articles": [
+    {
+      "id": "3b5788cdd3fb8e1312fbf43778a2ab71",
+      "title": "Từ 1-1-2026, 12 nhóm loài thủy sản đánh bắt bằng lưới rê, lưới kéo... không được xuất khẩu vào Mỹ",
+      "link": "https://tuoitre.vn/tu-1-1-2026-12-nhom-loai-thuy-san-danh-bat-bang-luoi-re-luoi-keo-khong-duoc-xuat-khau-vao-my-20260101110740976.htm",
+      "summary": "Từ hôm nay, 12 nhóm thủy sản, sản phẩm thủy sản đánh bắt bằng lưới rê, lưới kéo, lưới vây... không được xuất khẩu vào Mỹ do không được công nhận tương đương với Đạo luật Bảo vệ thú biển của Mỹ (MMPA).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.134765+07:00",
+      "fetched": "2026-01-01T19:24:58.134882+07:00"
+    },
+    {
+      "id": "524e39cdcc4816ad9dfa4305393dea29",
+      "title": "Ngày đầu năm, nghệ sĩ Thanh Điền tung bài tân cổ cuối cùng của Thanh Kim Huệ",
+      "link": "https://tuoitre.vn/ngay-dau-nam-nghe-si-thanh-dien-tung-bai-tan-co-cuoi-cung-cua-thanh-kim-hue-20260101155054054.htm",
+      "summary": "Nhân ngày đầu năm mới 2026, NSND Thanh Điền đã giới thiệu đến khán giả bản thâu cuối cùng của vợ ông, NSND Thanh Kim Huệ, với bài Tâm sự nàng xuân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.134615+07:00",
+      "fetched": "2026-01-01T19:24:58.134752+07:00"
+    },
+    {
+      "id": "057f20db50fc5f0d2ea3414a68250983",
+      "title": "Nam thợ hồ đi nhậu ngày Tết dương lịch 2026, 'giật mình' khi nghe mức phạt nồng độ cồn kịch khung",
+      "link": "https://tuoitre.vn/nam-tho-ho-di-nhau-ngay-tet-duong-lich-2026-giat-minh-khi-nghe-muc-phat-nong-do-con-kich-khung-2026010116131316.htm",
+      "summary": "Chiều 1-1-2026, lực lượng cảnh sát giao thông Rạch Chiếc tuần tra, phát hiện xử lý nhiều trường hợp vi phạm nồng độ cồn mức kịch khung khi nhậu trong ngày đầu nghỉ Tết dương lịch 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.134488+07:00",
+      "fetched": "2026-01-01T19:24:58.134603+07:00"
+    },
+    {
+      "id": "0c0f84b718aa680d99022d1c9a67b3d7",
+      "title": "Trung Quốc chỉ trích phát biểu năm mới của lãnh đạo Đài Loan",
+      "link": "https://tuoitre.vn/trung-quoc-chi-trich-phat-bieu-nam-moi-cua-lanh-dao-dai-loan-20260101161229886.htm",
+      "summary": "Trung Quốc chỉ trích phát biểu của ông Lại Thanh Đức là 'dối trá, sai sự thật, thù địch và ác ý' khi nhà lãnh đạo Đài Loan cam kết tăng cường phòng thủ cho hòn đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.134360+07:00",
+      "fetched": "2026-01-01T19:24:58.134477+07:00"
+    },
+    {
+      "id": "550928a29c5aef6914a386891b74f50f",
+      "title": "Xây dựng đề án chấm dứt hoạt động của Ủy ban An toàn giao thông quốc gia",
+      "link": "https://tuoitre.vn/xay-dung-de-an-cham-dut-hoat-dong-cua-uy-ban-an-toan-giao-thong-quoc-gia-20260101160501478.htm",
+      "summary": "Bộ Xây dựng giao các đơn vị liên quan xây dựng đề án chấm dứt hoạt động của Ủy ban An toàn giao thông quốc gia và ban an toàn giao thông các địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.134231+07:00",
+      "fetched": "2026-01-01T19:24:58.134344+07:00"
+    },
+    {
+      "id": "d504220cffbd5d622b46261a4a0e374e",
+      "title": "Trung tâm TP.HCM đông vui khách quốc tế đón năm mới 2026 từ sáng sớm",
+      "link": "https://tuoitre.vn/trung-tam-tp-hcm-dong-vui-khach-quoc-te-don-nam-moi-2026-tu-sang-som-20260101162043377.htm",
+      "summary": "Đầu năm mới 2026, nhiều du khách quốc tế hào hứng hòa vào dòng người xếp hàng trước các quán ăn đường phố TP.HCM, tham quan những địa điểm nổi bật, cảm nhận không khí lễ hội rộn ràng của một thành phố sôi động và hiếu khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.134098+07:00",
+      "fetched": "2026-01-01T19:24:58.134219+07:00"
+    },
+    {
+      "id": "2bff053db6c12b1376abbc595463150c",
+      "title": "Hai sân bay lớn ở Đà Nẵng tăng gần 15% số chuyến bay đến tuần đầu năm mới",
+      "link": "https://tuoitre.vn/hai-san-bay-lon-o-da-nang-tang-gan-15-so-chuyen-bay-den-tuan-dau-nam-moi-20260101163236425.htm",
+      "summary": "Ngày đầu năm, sân bay quốc tế Đà Nẵng và sân bay Chu Lai đón dồn dập các chuyến bay quốc tế và nội địa, đón khách tham quan các điểm đến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.133973+07:00",
+      "fetched": "2026-01-01T19:24:58.134087+07:00"
+    },
+    {
+      "id": "544db10e0821a00ac8954eef4da4854b",
+      "title": "Cầu thủ gốc Việt đắt giá chói sáng ở giải châu Phi",
+      "link": "https://tuoitre.vn/cau-thu-goc-viet-dat-gia-choi-sang-o-giai-chau-phi-20260101160711207.htm",
+      "summary": "Ngôi sao gốc Việt Ibrahim Maza vừa có màn thể hiện rực sáng ở vòng chung kết Cúp bóng đá châu Phi (CAN Cup) 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.133846+07:00",
+      "fetched": "2026-01-01T19:24:58.133961+07:00"
+    },
+    {
+      "id": "8e3cc4148adf985944857f18be766c71",
+      "title": "3 người ở Cà Mau bị khởi tố vì đưa hơn 25 người qua Hàn Quốc làm việc theo đường du lịch",
+      "link": "https://tuoitre.vn/3-nguoi-o-ca-mau-bi-khoi-to-vi-dua-hon-25-nguoi-qua-han-quoc-lam-viec-theo-duong-du-lich-20260101154921982.htm",
+      "summary": "Cơ quan an ninh điều tra Công an tỉnh Cà Mau khởi tố 3 bị can để điều tra hành vi tổ chức cho hơn 25 người xuất cảnh sang đảo Jeju (Hàn Quốc) bằng hình thức du lịch, nhưng thực chất ở lại lao động trái phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.133715+07:00",
+      "fetched": "2026-01-01T19:24:58.133834+07:00"
+    },
+    {
+      "id": "7cab60b283c136e0367efdf4ff0dc938",
+      "title": "Làng hoa Sa Đéc có thêm khinh khí cầu nên đông kín khách",
+      "link": "https://tuoitre.vn/lang-hoa-sa-dec-co-them-khinh-khi-cau-nen-dong-kin-khach-20260101154807677.htm",
+      "summary": "Du khách đổ về Sa Đéc, tỉnh Đồng Tháp đông nghịt trong ngày đầu tiên nghỉ Tết dương lịch 1-1. Nhiều tuyến đường vào quảng trường Sa Đéc chật kín người và xe, du khách phải đi bộ cho kịp giờ ngắm khinh khí cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.133570+07:00",
+      "fetched": "2026-01-01T19:24:58.133702+07:00"
+    },
+    {
+      "id": "de70774a481451797bc43ee26bd586d5",
+      "title": "Xử lý gần 10.500 tài xế vi phạm trong ngày đầu năm, tai nạn giảm mạnh",
+      "link": "https://tuoitre.vn/xu-ly-gan-10-500-tai-xe-vi-pham-trong-ngay-dau-nam-tai-nan-giam-manh-20260101170438817.htm",
+      "summary": "So với ngày cùng kỳ năm ngoái, số tai nạn giảm 24 vụ (-32,88%), giảm 23 người chết (-56,10%), giảm 2 người bị thương (-4,65%).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.133447+07:00",
+      "fetched": "2026-01-01T19:24:58.133559+07:00"
+    },
+    {
+      "id": "c3878f4928b10ca26b9b4842898cdabe",
+      "title": "Vì sao 'hiệp sĩ' Nguyễn Thanh Hải bị khởi tố, tạm giam?",
+      "link": "https://tuoitre.vn/vi-sao-hiep-si-nguyen-thanh-hai-bi-khoi-to-tam-giam-20260101131140979.htm",
+      "summary": "Công an TP.HCM đã khởi tố, tạm giam đối với \"hiệp sĩ\" Nguyễn Thanh Hải vì lợi dụng danh nghĩa cứu người để thực hiện nhiều hành vi vi phạm pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.133319+07:00",
+      "fetched": "2026-01-01T19:24:58.133435+07:00"
+    },
+    {
+      "id": "02fa2855e6cc123900400aaaecd31b55",
+      "title": "Ô tô tông loạt xe máy trên phố Hà Nội, một người bị thương",
+      "link": "https://tuoitre.vn/o-to-tong-loat-xe-may-tren-pho-ha-noi-mot-nguoi-bi-thuong-20260101172203801.htm",
+      "summary": "Ô tô con tông một xe máy đang chạy và 6 chiếc xe máy khác đậu trên vỉa hè chiều 1-1. Một người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.133185+07:00",
+      "fetched": "2026-01-01T19:24:58.133307+07:00"
+    },
+    {
+      "id": "a949e7e6e11bc419d0bb0dbe3d1ff0ec",
+      "title": "Sun Group tiếp nhận và vận hành cảng hàng không quốc tế Phú Quốc",
+      "link": "https://tuoitre.vn/sun-group-tiep-nhan-va-van-hanh-cang-hang-khong-quoc-te-phu-quoc-2026010116364746.htm",
+      "summary": "Chiều 1-1, Tập đoàn Sun Group tổ chức lễ công bố tiếp nhận, vận hành và đảm nhận vai trò quản lý, khai thác cảng hàng không quốc tế Phú Quốc theo đúng các quy định của pháp luật Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.133042+07:00",
+      "fetched": "2026-01-01T19:24:58.133172+07:00"
+    },
+    {
+      "id": "2eb572cf7d16c0e0741e1eee9d7c597e",
+      "title": "TikToker Huỳnh Cao Cường trục lợi từ việc cứu người bên Campuchia",
+      "link": "https://tuoitre.vn/tiktoker-huynh-cao-cuong-truc-loi-tu-viec-cuu-nguoi-ben-campuchia-20260101170539208.htm",
+      "summary": "Huỳnh Cao Cường lợi dụng mạng xã hội để tạo hình ảnh người chuyên cứu giúp nạn nhân bị lừa sang Campuchia nhưng thực tế là trục lợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T19:24:58.132816+07:00",
+      "fetched": "2026-01-01T19:24:58.133026+07:00"
+    },
     {
       "id": "174a36de9691725577c98b0f864018ff",
       "title": "U23 Saudi Arabia gọi 3 đồng đội của Ronaldo đấu U23 Việt Nam",
@@ -453,6 +603,116 @@ window.newsData_2026_01_01 = {
       "fetched": "2026-01-01T13:20:47.925358+07:00"
     },
     {
+      "id": "ae03ecf30d4d60f67c3aa03aefaaaa09",
+      "title": "Lịch thi đấu U.23 Việt Nam mới nhất: Báo Trung Á muốn U.23 Kyrgyzstan đưa thầy Kim 'vào bẫy'!",
+      "link": "https://thanhnien.vn/lich-thi-dau-u23-viet-nam-moi-nhat-bao-trung-a-muon-u23-kyrgyzstan-dua-thay-kim-vao-bay-185251230193635686.htm",
+      "summary": "Lịch thi đấu bảng A, VCK U.23 châu Á 2026 mang đến cho U.23 Việt Nam một hành trình có độ khó tăng dần, trong đó mỗi trận đấu đều chứa đựng ý nghĩa chiến lược riêng. Việc hiểu rõ đối thủ ở từng thời điểm sẽ quyết định trực tiếp cơ hội đi tiếp của thầy trò HLV Kim Sang-sik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T12:24:00+07:00",
+      "fetched": "2026-01-01T19:24:56.727365+07:00"
+    },
+    {
+      "id": "23b4e8de5a6e4a4bb6bd4bdfaf705839",
+      "title": "Công an TP.HCM bắt TikToker Huỳnh Cao Cường trục lợi giải cứu người từ Campuchia",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-tiktoker-huynh-cao-cuong-truc-loi-giai-cuu-nguoi-tu-campuchia-185260101185033204.htm",
+      "summary": "Huỳnh Cao Cường được biết đến là một TikToker núp bóng danh nghĩa hiệp sĩ giải cứu nạn nhân từ Campuchia, song sự thật lại trục lợi số tiền lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T12:17:00+07:00",
+      "fetched": "2026-01-01T19:24:56.727536+07:00"
+    },
+    {
+      "id": "8c4bd6fb942bc267e123fbf01c13ffa0",
+      "title": "5 chính sách thuế quan trọng có hiệu lực từ 1.1",
+      "link": "https://thanhnien.vn/5-chinh-sach-thue-quan-trong-co-hieu-luc-tu-11-185260101183748046.htm",
+      "summary": "Xóa thuế khoán, chấm dứt thu, nộp lệ phí môn bài; tăng mức giảm trừ gia cảnh; nâng ngưỡng doanh thu miễn thuế với hộ kinh doanh lên 500 triệu đồng… là một số chính sách thuế quan trọng có hiệu lực từ ngày 1.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T12:15:00+07:00",
+      "fetched": "2026-01-01T19:24:56.727711+07:00"
+    },
+    {
+      "id": "4cc4a2588e22ae2f52f9634daae290c8",
+      "title": "Sau MV đầu tay mờ nhạt, Vstar nói gì khi tiếp tục ra mắt MV nhạc xuân?",
+      "link": "https://thanhnien.vn/sau-mv-dau-tay-mo-nhat-vstar-noi-gi-khi-tiep-tuc-ra-mat-mv-nhac-xuan-185260101143916978.htm",
+      "summary": "Sau MV đầu tay 'Một Việt Nam mới tinh', nhóm nhạc nữ Vstar vừa ra mắt cuối năm 2025 nhanh chóng trở thành cái tên gây chú ý khi sản phẩm nhận về nhiều luồng ý kiến trái chiều. 5 cô gái tiếp tục ra mắt MV xuân 'Về miền Tây chơi', chia sẻ thẳng thắn về áp lực tồn tại giữa thị trường giải trí cạnh tran...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T12:14:00+07:00",
+      "fetched": "2026-01-01T19:24:56.727874+07:00"
+    },
+    {
+      "id": "308642b2ae99cd9a5057de10fba6eba7",
+      "title": "Giao thông Hà Nội sáng đầu năm: Các nút trọng điểm vẫn đông phương tiện",
+      "link": "https://thanhnien.vn/giao-thong-ha-noi-sang-dau-nam-cac-nut-trong-diem-van-dong-phuong-tien-185260101132640223.htm",
+      "summary": "Nhìn chung, giao thông Hà Nội sáng nay không xảy ra tình trạng ùn tắc nghiêm trọng kéo dài. Tuy vậy, áp lực phương tiện tại các nút giao lớn và trục đường trung tâm vẫn hiện hữu khi nhu cầu đi lại, vui chơi và ăn uống của người dân tăng lên trong ngày đầu tiên của năm mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T12:11:00+07:00",
+      "fetched": "2026-01-01T19:24:56.728029+07:00"
+    },
+    {
+      "id": "cc376f2928f3a0c97e9bbab8f5af7e4d",
+      "title": "Đường phố Cần Thơ rộn ràng ngày đầu năm mới",
+      "link": "https://thanhnien.vn/duong-pho-can-tho-ron-rang-ngay-dau-nam-moi-185260101124203862.htm",
+      "summary": "Không khí xuân sớm lan tỏa khắp các tuyến phố Cần Thơ, mở đầu năm mới 2026 đầy năng lượng và kỳ vọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T12:11:00+07:00",
+      "fetched": "2026-01-01T19:24:56.728182+07:00"
+    },
+    {
+      "id": "09a1ea50dcef6da74e4492cd581d5668",
+      "title": "Giám đốc đại học, hiệu trưởng không thay đổi trong giai đoạn 'chuyển tiếp'",
+      "link": "https://thanhnien.vn/giam-doc-dai-hoc-hieu-truong-khong-thay-doi-trong-giai-doan-chuyen-tiep-185260101183518137.htm",
+      "summary": "Theo hướng dẫn của Bộ GD-ĐT, giám đốc đại học, hiệu trưởng trường đại học, hiệu trưởng trường nghề vẫn tiếp tục thực hiện chức trách trong khi chờ hướng dẫn mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T12:07:00+07:00",
+      "fetched": "2026-01-01T19:24:56.728335+07:00"
+    },
+    {
+      "id": "d53223387e37d09f5d46a171663b6aa5",
+      "title": "Nhan sắc nữ diễn viên 43 tuổi đảm nhận vai Hoàng hậu Dương Vân Nga",
+      "link": "https://thanhnien.vn/nhan-sac-nu-dien-vien-43-tuoi-dam-nhan-vai-hoang-hau-duong-van-nga-185260101183315532.htm",
+      "summary": "Theo diễn viên Đỗ Thị Hải Yến, điều khó nhất khi vào vai Hoàng hậu Dương Vân Nga là mỗi khán giả đều có hình dung riêng về bà. Tuy nhiên, với tình yêu và sự nhiệt huyết của mình, Đỗ Thị Hải Yến tin rằng mình có thể hoàn thành tốt nhân vật này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T12:00:00+07:00",
+      "fetched": "2026-01-01T19:24:56.728498+07:00"
+    },
+    {
+      "id": "96a3d6e774ef2128692d7a9fb5f2538c",
+      "title": "Tết Dương lịch 2026, khách Tây gửi lời chúc bình an: 'Chúng tôi yêu Việt Nam'",
+      "link": "https://thanhnien.vn/tet-duong-lich-2026-khach-tay-gui-loi-chuc-binh-an-chung-toi-yeu-viet-nam-185260101075546375.htm",
+      "summary": "Nhân dịp Tết Dương lịch 2026, nhiều khách Tây tại TP.HCM gửi những lời chúc ý nghĩa, ấm áp đến người dân Việt Nam, mong một năm mới bình an và hạnh phúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T12:00:00+07:00",
+      "fetched": "2026-01-01T19:24:56.728655+07:00"
+    },
+    {
+      "id": "477b11c960560de4ee35a8c15c5e8c6f",
+      "title": "Mandala Tây Thiên tái hiện vũ trụ trong Phật giáo Kim cương thừa",
+      "link": "https://vnexpress.net/mandala-tay-thien-tai-hien-vu-tru-trong-phat-giao-kim-cuong-thua-4999504.html",
+      "summary": "Đại bảo tháp Kim cương thừa lớn nhất Việt Nam tái hiện 5 yếu tố cấu thành vũ trụ, giúp người tham quan “đọc” triết lý nhà Phật qua hình khối và không gian trải nghiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T11:53:06+07:00",
+      "fetched": "2026-01-01T19:24:53.540016+07:00"
+    },
+    {
+      "id": "87ad0b2a4f868d6fa1dbb624085ed534",
+      "title": "Tiến sĩ người Việt bảo vệ quyền riêng tư cho ứng dụng y tế",
+      "link": "https://thanhnien.vn/tien-si-nguoi-viet-bao-ve-quyen-rieng-tu-cho-ung-dung-y-te-185260101172522073.htm",
+      "summary": "Chứng kiến các bác cao tuổi ở khu phố nhấn nút 'Đồng ý' liên tục trên điện thoại khi sử dụng các ứng dụng y tế theo dõi sức khỏe do không hiểu những dòng chữ tiếng Anh, cũng không biết mình đang cho phép điều gì, tiến sĩ Phiên nhen nhóm ý tưởng một cho nghiên cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T11:49:00+07:00",
+      "fetched": "2026-01-01T19:24:56.728832+07:00"
+    },
+    {
       "id": "fe0053339f9ec6cf1158ec8ee54895e2",
       "title": "Lee Je Hoon giành Daesang lần 2 nhờ Taxi Driver",
       "link": "https://tuoitre.vn/lee-je-hoon-gianh-daesang-lan-2-nho-taxi-driver-20260101084045612.htm",
@@ -461,6 +721,76 @@ window.newsData_2026_01_01 = {
       "category": "Tổng hợp",
       "published": "2026-01-01T11:40:30.703597+07:00",
       "fetched": "2026-01-01T11:40:30.703720+07:00"
+    },
+    {
+      "id": "e6af2c6da4c63b1d481207942df1398a",
+      "title": "Bắt 'hiệp sĩ' Nguyễn Thanh Hải vì lợi dụng giải cứu người từ Campuchia để cưỡng đoạt tài sản",
+      "link": "https://thanhnien.vn/bat-hiep-si-nguyen-thanh-hai-vi-loi-dung-giai-cuu-nguoi-tu-campuchia-de-cuong-doat-tai-san-185260101180552916.htm",
+      "summary": "Nguyễn Thanh Hải (biệt danh Hải hiệp sĩ) nổi tiếng với các clip giải cứu nạn nhân từ Campuchia về Việt Nam đã bị Công an TP.HCM khởi tố, bắt tạm giam về nhiều hành vi vi phạm pháp luật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T11:38:00+07:00",
+      "fetched": "2026-01-01T19:24:56.728986+07:00"
+    },
+    {
+      "id": "6302d0c0631c474bc6e422f434720756",
+      "title": "iPhone 11 Pro trở thành 'đồ cổ' dù đang chạy iOS 26",
+      "link": "https://thanhnien.vn/iphone-11-pro-tro-thanh-do-co-du-dang-chay-ios-26-185260101164343853.htm",
+      "summary": "Trong ngày cuối cùng của năm 2025, Apple đã chính thức đưa iPhone 11 Pro vào danh sách sản phẩm cổ điển, đánh dấu một bước quan trọng trong vòng đời của thiết bị này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T11:33:00+07:00",
+      "fetched": "2026-01-01T19:24:56.729138+07:00"
+    },
+    {
+      "id": "c4335b6ee46e5328cdba1869e653d969",
+      "title": "Sun Group chính thức tiếp nhận Cảng Phú Quốc",
+      "link": "https://thanhnien.vn/sun-group-chinh-thuc-tiep-nhan-cang-phu-quoc-185260101182707704.htm",
+      "summary": "Chiều nay (1.1), Tập đoàn Sun Group chính thức đảm nhận vai trò quản lý, khai thác Cảng hàng không quốc tế Phú Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T11:29:00+07:00",
+      "fetched": "2026-01-01T19:24:56.729296+07:00"
+    },
+    {
+      "id": "70ae5a58207ef8d903535e6bd6259456",
+      "title": "Đằng sau tách cà phê đắt đỏ hàng đầu thế giới",
+      "link": "https://thanhnien.vn/dang-sau-tach-ca-phe-dat-do-hang-dau-the-gioi-185260101181919531.htm",
+      "summary": "Cà phê chồn vốn nổi tiếng là loại thức uống đắt đỏ hàng đầu thế giới nhờ quy trình sản xuất độc lạ. Nhưng giá trị dinh dưỡng và hương vị của cà phê chồn có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T11:19:00+07:00",
+      "fetched": "2026-01-01T19:24:56.729452+07:00"
+    },
+    {
+      "id": "c8d2dcef9e9ce5996146cedbfd6a59fa",
+      "title": "Đối thủ mạnh nhất của U.23 Việt Nam công bố danh sách: Sao 'khủng' cả 3 tuyến!",
+      "link": "https://thanhnien.vn/doi-thu-manh-nhat-cua-u23-viet-nam-cong-bo-danh-sach-sao-khung-ca-3-tuyen-185260101172635885.htm",
+      "summary": "U.23 Ả Rập Xê Út - đối thủ được xem là khó chịu nhất của U.23 Việt Nam mới đây vừa công bố danh sách 23 cầu thủ chính thức, dự giải U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T11:19:00+07:00",
+      "fetched": "2026-01-01T19:24:56.729605+07:00"
+    },
+    {
+      "id": "81bef630b1a50198d8476a12691cd1f7",
+      "title": "5 loại rau xanh 'khắc tinh' của người bệnh thận",
+      "link": "https://vnexpress.net/5-loai-rau-xanh-khac-tinh-cua-nguoi-benh-than-5000417.html",
+      "summary": "Dù là \"siêu thực phẩm\", rau dền, mồng tơi, nấm rơm, cải bó xôi và rau muống thuộc nhóm giàu kali có thể gây ngưng tim đột ngột với người mắc bệnh thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T11:14:12+07:00",
+      "fetched": "2026-01-01T19:24:53.540194+07:00"
+    },
+    {
+      "id": "668f278704ce377414378bb4c55595e9",
+      "title": "Uống mật ong ngâm hoa đu đủ đực có trị ho được không?",
+      "link": "https://vnexpress.net/uong-mat-ong-ngam-hoa-du-du-duc-co-tri-ho-duoc-khong-5000442.html",
+      "summary": "Bé nhà tôi ba tuổi, bị ho kéo dài nửa tháng nay, nghe nói dùng mật ong ngâm với hoa đu đủ đực uống giúp trị ho, bài thuốc này đúng không? (Thanh Thảo, 26 tuổi, Lạng Sơn)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T11:00:00+07:00",
+      "fetched": "2026-01-01T19:24:53.540358+07:00"
     },
     {
       "id": "d3dc1f3b5190cc77f700eb7e3655cd29",
@@ -613,6 +943,106 @@ window.newsData_2026_01_01 = {
       "fetched": "2026-01-01T10:42:49.362258+07:00"
     },
     {
+      "id": "7ef60c930ecd1d3905bc623f35e3c219",
+      "title": "Tôi vỡ mộng làm ít, tiền nhiều sau một năm bỏ việc văn phòng làm freelancer",
+      "link": "https://vnexpress.net/toi-vo-mong-lam-it-tien-nhieu-sau-mot-nam-bo-viec-van-phong-lam-freelancer-5000867.html",
+      "summary": "Nhiều người nghĩ freelancer làm việc ít hơn dân văn phòng. Thực tế, tôi làm nhiều hơn, trong khi thu nhập không theo lịch cố định, tháng có tháng không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:39:00+07:00",
+      "fetched": "2026-01-01T19:24:53.540523+07:00"
+    },
+    {
+      "id": "da9659719323272e3df1fe61aa568c25",
+      "title": "Hiệp sĩ đường phố Nguyễn Thanh Hải bị bắt",
+      "link": "https://vnexpress.net/hiep-si-duong-pho-nguyen-thanh-hai-bi-bat-4954332.html",
+      "summary": "Nguyễn Thanh Hải, 55 tuổi, từng được gọi là Hiệp sĩ đường phố, bị cáo buộc cùng 40 người dàn dựng cảnh giải cứu người Việt ở Campuchia để chiếm đoạt 16,7 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:37:35+07:00",
+      "fetched": "2026-01-01T19:24:53.540709+07:00"
+    },
+    {
+      "id": "1ebd4e2cf06395004002e35b0f91b223",
+      "title": "Đại học Sư phạm Hà Nội mở ngành Trí tuệ nhân tạo",
+      "link": "https://vnexpress.net/dai-hoc-su-pham-ha-noi-mo-nganh-tri-tue-nhan-tao-5000939.html",
+      "summary": "Trường Đại học Sư phạm Hà Nội (HNUE) mở thêm 7 ngành, trong đó có Trí tuệ nhân tạo, Khoa học dữ liệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:33:01+07:00",
+      "fetched": "2026-01-01T19:24:53.540884+07:00"
+    },
+    {
+      "id": "86af1afe5664c3ff0357abaf025b37f6",
+      "title": "Rượu giả khiến 7 người ở Hải Phòng ngộ độc, một người chết",
+      "link": "https://vnexpress.net/ruou-gia-khien-7-nguoi-o-hai-phong-ngo-doc-mot-nguoi-chet-5000906.html",
+      "summary": "Mẫu rượu chứa 30,3% methanol (cồn công nghiệp) và chỉ 1,84% ethanol, được xác định là rượu giả gây ngộ độc cho 7 người uống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:27:48+07:00",
+      "fetched": "2026-01-01T19:24:53.541045+07:00"
+    },
+    {
+      "id": "8bb221ce31d1514c4b4378e2d7797810",
+      "title": "40 người có thể đã chết trong vụ nổ ở khu nghỉ dưỡng Thụy Sĩ",
+      "link": "https://vnexpress.net/40-nguoi-co-the-da-chet-trong-vu-no-o-khu-nghi-duong-thuy-si-5000921.html",
+      "summary": "Cảnh sát Thụy Sĩ cho biết hàng chục người được cho là đã chết và khoảng 100 người bị thương trong vụ nổ tại khu nghỉ dưỡng Crans-Montana.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:25:31+07:00",
+      "fetched": "2026-01-01T19:24:53.541210+07:00"
+    },
+    {
+      "id": "8bb221ce31d1514c4b4378e2d7797810",
+      "title": "40 người có thể đã chết trong vụ nổ ở khu nghỉ dưỡng Thụy Sĩ",
+      "link": "https://vnexpress.net/40-nguoi-co-the-da-chet-trong-vu-no-o-khu-nghi-duong-thuy-si-5000921.html",
+      "summary": "Cảnh sát Thụy Sĩ cho biết hàng chục người được cho là đã chết và khoảng 100 người bị thương trong vụ nổ tại khu nghỉ dưỡng Crans-Montana.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-01T10:25:31+07:00",
+      "fetched": "2026-01-01T19:25:00.117268+07:00"
+    },
+    {
+      "id": "5d177a0d870ccc79f90f93c8b1b5d5d7",
+      "title": "Chuột cho game thủ siêu nhẹ giá gần 3 triệu đồng",
+      "link": "https://vnexpress.net/chuot-cho-game-thu-sieu-nhe-gia-gan-3-trieu-dong-5000926.html",
+      "summary": "Corsair Sabre v2 Pro Ultralight có trọng lượng chỉ 36 gram, tương đương một nắp ống kính máy ảnh cùng độ nhạy tới 33.000 DPI tối ưu cho game thủ FPS.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:05:37+07:00",
+      "fetched": "2026-01-01T19:24:53.541371+07:00"
+    },
+    {
+      "id": "5d177a0d870ccc79f90f93c8b1b5d5d7",
+      "title": "Chuột cho game thủ siêu nhẹ giá gần 3 triệu đồng",
+      "link": "https://vnexpress.net/chuot-cho-game-thu-sieu-nhe-gia-gan-3-trieu-dong-5000926.html",
+      "summary": "Corsair Sabre v2 Pro Ultralight có trọng lượng chỉ 36 gram, tương đương một nắp ống kính máy ảnh cùng độ nhạy tới 33.000 DPI tối ưu cho game thủ FPS.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-01T10:05:37+07:00",
+      "fetched": "2026-01-01T19:25:04.178350+07:00"
+    },
+    {
+      "id": "e3c480770a67496ecf6bd2889098b0ef",
+      "title": "Hai thanh niên bắt cóc, tống tiền lao động Việt ở Campuchia sa lưới",
+      "link": "https://vnexpress.net/hai-thanh-nien-bat-coc-tong-tien-lao-dong-viet-o-campuchia-sa-luoi-5000923.html",
+      "summary": "Lê Quyết Tiến, Vũ Đức Việt (cùng 31 tuổi) và các đồng phạm bị cáo buộc bắt cóc, tra tấn lao động Việt Nam tại Campuchia, quay video gửi về gia đình đòi tiền chuộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:01:16+07:00",
+      "fetched": "2026-01-01T19:24:53.541612+07:00"
+    },
+    {
+      "id": "9a0213e7c80e40dadee33f6edd871d76",
+      "title": "Điểm tin 17h: Giá vàng, bạc thế giới quay đầu giảm phiên cuối năm | TP HCM hỗ trợ 100% phí BHYT cho 6 nhóm từ 2026",
+      "link": "https://vnexpress.net/diem-tin-17h-gia-vang-bac-the-gioi-quay-dau-giam-phien-cuoi-nam-tp-hcm-ho-tro-100-phi-bhyt-cho-6-nhom-tu-2026-5000927.html",
+      "summary": "Trả gộp hai tháng lương hưu trước Tết Bính Ngọ; Bộ Công Thương yêu cầu K+ giải trình việc ngừng dịch vụ từ 2026...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:00:25+07:00",
+      "fetched": "2026-01-01T19:24:53.541866+07:00"
+    },
+    {
       "id": "ec1e8b41fb7944751589f806e8513e09",
       "title": "Toàn cảnh 17h: Không khí ngày đầu năm ở 3 miền | Năm 2026 người lao động có số ngày nghỉ lễ, tết cao kỷ lục",
       "link": "https://thanhnien.vn/toan-canh-17h-khong-khi-ngay-dau-nam-o-3-mien-nam-2026-nguoi-lao-dong-co-so-ngay-nghi-le-tet-cao-ky-luc-185260101155106455.htm",
@@ -631,6 +1061,16 @@ window.newsData_2026_01_01 = {
       "category": "Tổng hợp",
       "published": "2026-01-01T09:58:00+07:00",
       "fetched": "2026-01-01T17:14:16.345951+07:00"
+    },
+    {
+      "id": "300670016b136f9a7b49eb6cec493005",
+      "title": "Lý do khiến quán lẩu được xếp hạng 1 Bắc Kinh",
+      "link": "https://vnexpress.net/ly-do-khien-quan-lau-duoc-xep-hang-1-bac-kinh-5000915.html",
+      "summary": "Quán lẩu xương cừu của Luan Liuwei luôn kín chỗ không chỉ bởi hương vị, mà vì thực khách muốn tri ân người chủ đã hy sinh tính mạng để cứu 3 đứa trẻ đuối nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T09:57:29+07:00",
+      "fetched": "2026-01-01T19:24:53.542102+07:00"
     },
     {
       "id": "2982d8748217b207dcdb5598e55c448e",
