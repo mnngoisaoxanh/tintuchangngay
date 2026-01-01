@@ -1,7 +1,27 @@
 window.newsData_2026_01_02 = {
   "date": "2026-01-02",
-  "lastUpdated": "2026-01-02T01:18:27.018458+07:00",
+  "lastUpdated": "2026-01-02T03:14:10.850468+07:00",
   "articles": [
+    {
+      "id": "4ea92b742caae46927aafc8d97666aee",
+      "title": "Ông Trump tự tin giải thích về tình hình sức khỏe của mình",
+      "link": "https://tuoitre.vn/ong-trump-tu-tin-giai-thich-ve-tinh-hinh-suc-khoe-cua-minh-20260101232813452.htm",
+      "summary": "Tổng thống Mỹ Donald Trump giải thích các vết bầm trên tay, nói rằng đó là do ông uống liều aspirin cao hơn so với khuyến cáo của bác sĩ để làm loãng máu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:14:03.662485+07:00",
+      "fetched": "2026-01-02T03:14:03.662618+07:00"
+    },
+    {
+      "id": "9674749b63d97ec7df362c27bb825450",
+      "title": "Tin tức sáng 2-1: Cấp sở cao nhất có 10 phó giám đốc; Phạt tiền nếu chứa người hút thuốc lá điện tử",
+      "link": "https://tuoitre.vn/tin-tuc-sang-2-1-cap-so-cao-nhat-co-10-pho-giam-doc-phat-tien-neu-chua-nguoi-hut-thuoc-la-dien-tu-20260101232130852.htm",
+      "summary": "Tin tức đáng chú ý: Mỗi sở có thể có 3-10 phó giám đốc; Chứa người dùng thuốc lá điện tử bị phạt tới 10 triệu đồng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:14:03.662236+07:00",
+      "fetched": "2026-01-02T03:14:03.662468+07:00"
+    },
     {
       "id": "dbd5cd1ad1c21598e73e8a6e8390e1d0",
       "title": "Miễn phí metro, xe buýt ngày đầu năm 2026: Người dân hào hứng trải nghiệm, metro đông nghịt người",
@@ -151,6 +171,26 @@ window.newsData_2026_01_02 = {
       "category": "Tổng hợp",
       "published": "2026-01-02T01:18:20.504141+07:00",
       "fetched": "2026-01-02T01:18:20.504376+07:00"
+    },
+    {
+      "id": "bf05e94024cd174fa59141ef19337f0c",
+      "title": "Cải tạo nhà phố 40 năm thành không gian sống đương đại",
+      "link": "https://vnexpress.net/cai-tao-nha-pho-40-nam-thanh-khong-gian-song-duong-dai-5000672.html",
+      "summary": "Không can thiệp vào kết cấu cũ, nhóm thiết kế tổ chức lại không gian sống bằng cách tận dụng ánh sáng tự nhiên, chất liệu mộc mạc và bố cục mở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T18:38:28+07:00",
+      "fetched": "2026-01-02T03:13:59.509753+07:00"
+    },
+    {
+      "id": "bd2dc3c024c51a7ece98c8e1893ee2d9",
+      "title": "TP HCM khơi thông hơn 130.000 tỷ đồng vốn đầu tư từ các dự án tồn đọng",
+      "link": "https://vnexpress.net/tp-hcm-khoi-thong-hon-130-000-ty-dong-von-dau-tu-tu-cac-du-an-ton-dong-5000882.html",
+      "summary": "Hơn 85% dự án tồn đọng tại TP HCM đã được tháo gỡ hoặc định hướng xử lý sau sắp xếp đơn vị hành chính, góp phần khơi thông hơn 131.000 tỷ đồng vốn đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T18:33:41+07:00",
+      "fetched": "2026-01-02T03:13:59.509939+07:00"
     },
     {
       "id": "72a022fd2343a9af0aa774f627cc5097",
