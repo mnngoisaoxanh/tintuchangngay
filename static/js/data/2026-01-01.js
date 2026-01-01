@@ -1,7 +1,17 @@
 window.newsData_2026_01_01 = {
   "date": "2026-01-01",
-  "lastUpdated": "2026-01-01T10:42:57.668853+07:00",
+  "lastUpdated": "2026-01-01T11:40:40.579536+07:00",
   "articles": [
+    {
+      "id": "fe0053339f9ec6cf1158ec8ee54895e2",
+      "title": "Lee Je Hoon giành Daesang lần 2 nhờ Taxi Driver",
+      "link": "https://tuoitre.vn/lee-je-hoon-gianh-daesang-lan-2-nho-taxi-driver-20260101084045612.htm",
+      "summary": "Lee Je Hoon tiếp tục được xướng tên ở giải thưởng cao nhất tại SBS Drama Awards, tất cả đều nhờ Taxi Driver, cho thấy sức bền hiếm có của series phim truyền hình kéo dài hơn 5 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T11:40:30.703597+07:00",
+      "fetched": "2026-01-01T11:40:30.703720+07:00"
+    },
     {
       "id": "d3dc1f3b5190cc77f700eb7e3655cd29",
       "title": "Ngày đầu năm 2026, 'Thiên đường máu' bất ngờ thắng ở phòng vé",
@@ -273,6 +283,196 @@ window.newsData_2026_01_01 = {
       "fetched": "2026-01-01T08:06:51.340817+07:00"
     },
     {
+      "id": "a2f656fb189e8d19d0a9cda6e2a4bd14",
+      "title": "Ghép tim xuyên đêm cứu bé trai 15 tuổi tại Bệnh viện Đại học Y Dược TP.HCM",
+      "link": "https://thanhnien.vn/ghep-tim-xuyen-dem-cuu-be-trai-15-tuoi-tai-benh-vien-dai-hoc-y-duoc-tphcm-185260101113709203.htm",
+      "summary": "Ngày 31.12.2025, Bệnh viện Đại học Y Dược TP.HCM đã thực hiện thành công ca ghép tim cho một bé trai 15 tuổi bị suy tim giai đoạn cuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T04:37:00+07:00",
+      "fetched": "2026-01-01T11:40:29.573997+07:00"
+    },
+    {
+      "id": "85fbb80fc174b1f47b333bde1706fa57",
+      "title": "Vé trúng độc đắc Vietlott ngày cuối cùng năm 2025 được bán ra tại TP.HCM",
+      "link": "https://thanhnien.vn/ve-trung-doc-dac-vietlott-ngay-cuoi-cung-nam-2025-duoc-ban-ra-tai-tphcm-185260101110932389.htm",
+      "summary": "Sáng 1.1.2026, Vietlott thông báo chiếc vé số trúng giải độc đắc hơn 17 tỉ đồng trong ngày cuối cùng của năm 2025 được bán ra tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T04:32:00+07:00",
+      "fetched": "2026-01-01T11:40:29.574175+07:00"
+    },
+    {
+      "id": "8617e413044f539f491f510bf3a0110d",
+      "title": "Thời tiết TP.HCM se lạnh, Đà Lạt còn 9 độ C kéo dài đến khi nào?",
+      "link": "https://thanhnien.vn/thoi-tiet-tphcm-se-lanh-da-lat-con-9-do-c-keo-dai-den-khi-nao-185260101112614808.htm",
+      "summary": "Đợt không khí lạnh mới đang về và tiếp tục được bổ sung vào ngày 6 - 7.11, sẽ khuếch tán sâu xuống Nam bộ khiến thời tiết TP.HCM se lạnh; trong khi Đà Lạt 8 - 9 độ C kéo dài nhiều ngày tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T04:31:00+07:00",
+      "fetched": "2026-01-01T11:40:29.574335+07:00"
+    },
+    {
+      "id": "8a5035d4ee1e6caa7c0189b872462c51",
+      "title": "Chuyến bay đầu năm đưa 250 du khách đến Đà Lạt",
+      "link": "https://thanhnien.vn/chuyen-bay-dau-nam-dua-250-du-khach-den-da-lat-185260101104656793.htm",
+      "summary": "Chuyến bay đầu năm 2026 'xông đất' du lịch Lâm Đồng với 250 hành khách đến Đà Lạt, khởi đầu năm mới đầy hứa hẹn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T04:23:00+07:00",
+      "fetched": "2026-01-01T11:40:29.574509+07:00"
+    },
+    {
+      "id": "0416d9e55a4db363b6c3e22d063998db",
+      "title": "Cổ phiếu Berkshire tăng 61.000 lần khi Warren Buffett làm CEO",
+      "link": "https://vnexpress.net/co-phieu-berkshire-tang-61-000-lan-khi-warren-buffett-lam-ceo-5000795.html",
+      "summary": "Cổ phiếu Berkshire Hathaway giảm nhẹ trong ngày cuối huyền thoại đầu tư Warren Buffett làm CEO, nhưng vẫn tăng 61.000 lần trong 60 năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T04:18:53+07:00",
+      "fetched": "2026-01-01T11:40:26.371534+07:00"
+    },
+    {
+      "id": "0416d9e55a4db363b6c3e22d063998db",
+      "title": "Cổ phiếu Berkshire tăng 61.000 lần khi Warren Buffett làm CEO",
+      "link": "https://vnexpress.net/co-phieu-berkshire-tang-61-000-lan-khi-warren-buffett-lam-ceo-5000795.html",
+      "summary": "Cổ phiếu Berkshire Hathaway giảm nhẹ trong ngày cuối huyền thoại đầu tư Warren Buffett làm CEO, nhưng vẫn tăng 61.000 lần trong 60 năm qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-01T04:18:53+07:00",
+      "fetched": "2026-01-01T11:40:34.954935+07:00"
+    },
+    {
+      "id": "37abd3350e0e312a83d9fb86f2fd237d",
+      "title": "Bí quyết chọn bữa sáng giúp giảm mỡ bụng",
+      "link": "https://thanhnien.vn/bi-quyet-chon-bua-sang-giup-giam-mo-bung-185260101111659798.htm",
+      "summary": "'Sáng nên ăn gì để giảm mỡ bụng?' là câu hỏi mà nhiều người đang tìm cách cải thiện vóc dáng đặc biệt quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T04:16:00+07:00",
+      "fetched": "2026-01-01T11:40:29.574666+07:00"
+    },
+    {
+      "id": "94106f0765fe47b676ca536aa3c75bdc",
+      "title": "Báo chí Malaysia chỉ điểm cho FAM lách 'cửa hẹp' khi vụ kiện lên CAS thất bại",
+      "link": "https://thanhnien.vn/bao-chi-malaysia-chi-diem-cho-fam-lach-cua-hep-khi-vu-kien-len-cas-that-bai-185260101110356022.htm",
+      "summary": "Theo nhà báo T.Avineshwaran của The Star, Liên đoàn Bóng đá Malaysia (FAM) vẫn còn một lựa chọn khác nếu vụ kháng cáo FIFA tại CAS thất bại, nhưng trong một phạm vi rất hẹp. AFC sắp quyết định số phận của đội tuyển Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T04:13:00+07:00",
+      "fetched": "2026-01-01T11:40:29.574819+07:00"
+    },
+    {
+      "id": "17d408fedadeccfb373d226d91e872c0",
+      "title": "Năm 2026, thể thao thế giới có gì đáng chờ đợi?",
+      "link": "https://thanhnien.vn/nam-2026-the-thao-the-gioi-co-gi-dang-cho-doi-185260101110036903.htm",
+      "summary": "Năm 2026 được xem là điểm nhấn lớn của thể thao thế giới khi hàng loạt sự kiện đỉnh cao như World Cup mở rộng, Olympic mùa đông và Asian Games cùng diễn ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T04:01:00+07:00",
+      "fetched": "2026-01-01T11:40:29.574969+07:00"
+    },
+    {
+      "id": "2141cb26daf8a00b5a6ab430f20b2cf3",
+      "title": "Những mảnh đời khốn khó sau khi xuất hiện trên Báo Thanh Niên: Đã hồi sinh",
+      "link": "https://thanhnien.vn/nhung-manh-doi-khon-kho-sau-khi-xuat-hien-tren-bao-thanh-nien-da-hoi-sinh-185251231141059303.htm",
+      "summary": "Hàng tuần, chuyên mục Lá lành đùm lá rách trên trang bạn đọc Báo Thanh Niên chuyển tải đến độc giả một hoặc hai hoàn cảnh với những thân phận khốn khó ngặt nghèo cần giúp đỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T04:01:00+07:00",
+      "fetched": "2026-01-01T11:40:29.575129+07:00"
+    },
+    {
+      "id": "c748dd769c140e66ccfe5a5fe769cd43",
+      "title": "Ăn cơm như thế nào giúp giảm cân",
+      "link": "https://vnexpress.net/an-com-nhu-the-nao-giup-giam-can-5000643.html",
+      "summary": "Người giảm cân nên chọn gạo lứt hoặc gạo có chỉ số đường huyết thấp, kết hợp rau xanh, uống đủ nước khi ăn cơm để hỗ trợ đốt mỡ, tăng cường trao đổi chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T04:00:00+07:00",
+      "fetched": "2026-01-01T11:40:26.371723+07:00"
+    },
+    {
+      "id": "4da2d67c37588ba24e8d232589585cfc",
+      "title": "Chủ động tiêm ngừa dại vì chó mèo hàng xóm thả rông",
+      "link": "https://vnexpress.net/chu-dong-tiem-ngua-dai-vi-cho-meo-hang-xom-tha-rong-5000434.html",
+      "summary": "Anh Trịnh Minh Tuyến, 27 tuổi (TP HCM) chủ động tiêm vaccine dại vì lo sợ trước nguy cơ bị chó, mèo nhà hàng xóm thả rông tấn công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T04:00:00+07:00",
+      "fetched": "2026-01-01T11:40:26.371891+07:00"
+    },
+    {
+      "id": "d88e3132a5fea8023d1add3e3f8b9f9e",
+      "title": "Xem nhanh 12h: Rực rỡ pháo hoa năm mới 2026 | Đổi ngoại tệ ở đâu để không bị phạt 100 triệu đồng?",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-ruc-ro-phao-hoa-nam-moi-2026-doi-ngoai-te-o-dau-de-khong-bi-phat-100-trieu-dong-185260101105120622.htm",
+      "summary": "Pháo hoa năm mới 2026, tin tức thời tiết, đổi ngoại tệ… sẽ là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh' 12h ngày 1.1.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T04:00:00+07:00",
+      "fetched": "2026-01-01T11:40:29.575281+07:00"
+    },
+    {
+      "id": "7678750b9e3ce8a69d320430bcaa2f93",
+      "title": "Ngổn ngang rác sau đêm giao thừa 2026, sáng nay trung tâm TP.HCM lại xanh sạch đẹp",
+      "link": "https://thanhnien.vn/ngon-ngang-rac-sau-dem-giao-thua-2026-sang-nay-trung-tam-tphcm-lai-xanh-sach-dep-185260101033535693.htm",
+      "summary": "Sau màn pháo hoa rực rỡ đón năm mới 2026, rác xuất hiện ở nhiều khu vực trung tâm TP.HCM. Nhờ công nhân vệ sinh môi trường làm việc xuyên đêm, sáng 1.1, thành phố nhanh chóng trở lại xanh sạch đẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T04:00:00+07:00",
+      "fetched": "2026-01-01T11:40:29.575435+07:00"
+    },
+    {
+      "id": "81897a3ecdc90df1f4c31f7dcfb7f34c",
+      "title": "Trả gộp hai tháng lương hưu trước Tết Bính Ngọ",
+      "link": "https://vnexpress.net/tra-gop-hai-thang-luong-huu-truoc-tet-binh-ngo-5000834.html",
+      "summary": "Lương hưu, trợ cấp bảo hiểm xã hội tháng 1 và 2/2026 sẽ được chi trả gộp trước Tết Bính Ngọ, giúp hơn 3,4 triệu người thụ hưởng có thêm nguồn chi tiêu, ổn định đời sống dịp đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:56:12+07:00",
+      "fetched": "2026-01-01T11:40:26.372064+07:00"
+    },
+    {
+      "id": "2a2b2bf6cb9f75fe862a74ce2847f3ab",
+      "title": "Báo Indonesia bất ngờ nhắc về HLV Kim Sang-sik: Việt Nam vượt trội Indonesia",
+      "link": "https://thanhnien.vn/bao-indonesia-bat-ngo-nhac-ve-hlv-kim-sang-sik-viet-nam-vuot-troi-indonesia-185260101104611179.htm",
+      "summary": "Trang báo của Indonesia đã dành những lời 'có cánh' cho HLV Kim Sang-sik sau một năm 2025 thành công với bóng đá Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:52:00+07:00",
+      "fetched": "2026-01-01T11:40:29.575610+07:00"
+    },
+    {
+      "id": "59986f7dc9bfa9773f66d470fdb9de8b",
+      "title": "Những em bé ‘0 giờ’ chào đón năm mới 2026, mong thành nhân tài",
+      "link": "https://thanhnien.vn/nhung-em-be-0-gio-chao-don-nam-moi-2026-mong-thanh-nhan-tai-18526010104532974.htm",
+      "summary": "Khi mọi người hân hoan bước sang năm mới 2026 trong tiếng pháo hoa rộn ràng cũng là lúc những em bé đầu tiên của năm 2026 cất tiếng khóc chào đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:49:00+07:00",
+      "fetched": "2026-01-01T11:40:29.575763+07:00"
+    },
+    {
+      "id": "629ca9ca540178ac2001153072b6c809",
+      "title": "Từ 1/1, người dân TP HCM xin giấy phép xây dựng tại xã, phường",
+      "link": "https://vnexpress.net/tu-1-1-nguoi-dan-tp-hcm-xin-giay-phep-xay-dung-tai-xa-phuong-5000784.html",
+      "summary": "Từ đầu năm nay, người dân TP HCM có thể nộp hồ sơ xin giấy phép xây dựng nhà ở riêng lẻ trực tiếp tại UBND xã, phường và đặc khu nơi có công trình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:44:51+07:00",
+      "fetched": "2026-01-01T11:40:26.372228+07:00"
+    },
+    {
+      "id": "9075a91db3d69b03c25497abb85f6a97",
+      "title": "Duyên Quỳnh, Bảo Ngọc là công dân trẻ tiêu biểu TP HCM",
+      "link": "https://vnexpress.net/duyen-quynh-bao-ngoc-la-cong-dan-tre-tieu-bieu-tp-hcm-5000819.html",
+      "summary": "Ca sĩ Duyên Quỳnh, Hoa hậu Bảo Ngọc cùng 10 công dân trẻ có thành tích xuất sắc trong hoạt động cộng đồng, nghiên cứu, học tập được tuyên dương, sáng 1/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:44:07+07:00",
+      "fetched": "2026-01-01T11:40:26.372398+07:00"
+    },
+    {
       "id": "17a0117af3f24d207935320e345faa45",
       "title": "Công an TP.HCM xử lý 7 thiếu niên gây rối quanh Bệnh viện Chợ Rẫy",
       "link": "https://thanhnien.vn/cong-an-tphcm-xu-ly-7-thieu-nien-gay-roi-quanh-benh-vien-cho-ray-185260101060521858.htm",
@@ -313,6 +513,46 @@ window.newsData_2026_01_01 = {
       "fetched": "2026-01-01T10:42:47.947051+07:00"
     },
     {
+      "id": "41fcda695de78686f91bd93334594d8b",
+      "title": "Mẹo giữ sức khỏe khi nghỉ Tết",
+      "link": "https://vnexpress.net/meo-giu-suc-khoe-khi-nghi-tet-5000341.html",
+      "summary": "Ăn uống khoa học, vận động hợp lý, chuẩn bị đầy đủ vật dụng y tế cần thiết và chủ động phòng bệnh theo mùa là \"chìa khóa\" nghỉ Tết an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:21:23+07:00",
+      "fetched": "2026-01-01T11:40:26.372579+07:00"
+    },
+    {
+      "id": "52a1549165c993d7eb08683020c21816",
+      "title": "Hàn Quốc gia hạn miễn phí visa cho khách đoàn Việt Nam",
+      "link": "https://vnexpress.net/han-quoc-gia-han-mien-phi-visa-cho-khach-doan-viet-nam-5000670.html",
+      "summary": "Hàn Quốc gia hạn chính sách miễn lệ phí thị thực với các đoàn khách du lịch đến từ 6 quốc gia, trong đó có Việt Nam, đến hết tháng 6/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:12:45+07:00",
+      "fetched": "2026-01-01T11:40:26.372739+07:00"
+    },
+    {
+      "id": "d9b442b5a04406bd20a5c2775d8f69c8",
+      "title": "Lý do pin dự phòng bán ở Việt Nam không có chuẩn CCC?",
+      "link": "https://vnexpress.net/ly-do-pin-du-phong-ban-o-viet-nam-khong-co-chuan-ccc-5000751.html",
+      "summary": "Tôi chuẩn bị đi du lịch Trung Quốc ít ngày nhưng phát hiện sạc dự phòng mua chính hãng ở Việt Nam đều không có chuẩn CCC (Ngọc Huy).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:12:06+07:00",
+      "fetched": "2026-01-01T11:40:26.372904+07:00"
+    },
+    {
+      "id": "d9b442b5a04406bd20a5c2775d8f69c8",
+      "title": "Lý do pin dự phòng bán ở Việt Nam không có chuẩn CCC?",
+      "link": "https://vnexpress.net/ly-do-pin-du-phong-ban-o-viet-nam-khong-co-chuan-ccc-5000751.html",
+      "summary": "Tôi chuẩn bị đi du lịch Trung Quốc ít ngày nhưng phát hiện sạc dự phòng mua chính hãng ở Việt Nam đều không có chuẩn CCC (Ngọc Huy).",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-01T03:12:06+07:00",
+      "fetched": "2026-01-01T11:40:38.448942+07:00"
+    },
+    {
       "id": "807262a2bc2857826a714c0afc62b52c",
       "title": "'Nữ hoàng đi bộ' Thanh Phúc phẫu thuật thành công sau ca chấn thương nặng: Tôi sẽ trở lại mạnh mẽ",
       "link": "https://thanhnien.vn/nu-hoang-di-bo-thanh-phuc-phau-thuat-thanh-cong-sau-ca-chan-thuong-nang-toi-se-tro-lai-manh-me-185260101100602383.htm",
@@ -321,6 +561,16 @@ window.newsData_2026_01_01 = {
       "category": "Tổng hợp",
       "published": "2026-01-01T03:12:00+07:00",
       "fetched": "2026-01-01T10:42:47.947203+07:00"
+    },
+    {
+      "id": "c92c9e41d0b856f10d215858c810351d",
+      "title": "David Beckham đăng ảnh với Brooklyn",
+      "link": "https://vnexpress.net/david-beckham-dang-anh-voi-brooklyn-5000810.html",
+      "summary": "Cựu danh thủ David Beckham đăng ảnh với con cả Brooklyn lúc nhỏ và nói \"Yêu con nhiều\", sau khi bị anh chặn trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:09:39+07:00",
+      "fetched": "2026-01-01T11:40:26.373069+07:00"
     },
     {
       "id": "d84369b60e98cd4197a7a8d91f03038a",
