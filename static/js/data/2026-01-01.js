@@ -1,7 +1,157 @@
 window.newsData_2026_01_01 = {
   "date": "2026-01-01",
-  "lastUpdated": "2026-01-01T08:06:59.320581+07:00",
+  "lastUpdated": "2026-01-01T10:42:57.668853+07:00",
   "articles": [
+    {
+      "id": "d3dc1f3b5190cc77f700eb7e3655cd29",
+      "title": "Ngày đầu năm 2026, 'Thiên đường máu' bất ngờ thắng ở phòng vé",
+      "link": "https://tuoitre.vn/ngay-dau-nam-2026-thien-duong-mau-bat-ngo-thang-o-phong-ve-20260101075522984.htm",
+      "summary": "Sáng 1-1, 'Thiên đường máu' - phim Việt về vấn nạn lừa đảo - thu 15 tỉ sau hơn một ngày chiếu và đang là phim Việt ăn khách nhất đầu năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.364014+07:00",
+      "fetched": "2026-01-01T10:42:49.364127+07:00"
+    },
+    {
+      "id": "ead0eed3ccf496f107314f9478d112a9",
+      "title": "Phát hiện hai người dân bơm hút cát trái phép ở Phú Quốc",
+      "link": "https://tuoitre.vn/phat-hien-hai-nguoi-dan-bom-hut-cat-trai-phep-o-phu-quoc-20260101084009247.htm",
+      "summary": "Lực lượng Bộ đội biên phòng An Giang vừa phát hiện hai người dân bơm hút cát biển trái phép ở Hàm Ninh (đặc khu Phú Quốc, An Giang).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.363889+07:00",
+      "fetched": "2026-01-01T10:42:49.364003+07:00"
+    },
+    {
+      "id": "36021483c39e36e6104407ab4a1fc733",
+      "title": "Mỹ bất ngờ gỡ lệnh trừng phạt lên công ty năng lượng Nga kiểm soát",
+      "link": "https://tuoitre.vn/my-bat-ngo-go-lenh-trung-phat-len-cong-ty-nang-luong-nga-kiem-soat-20260101090251897.htm",
+      "summary": "Tập đoàn dầu khí Serbia, công ty cổ đông Nga chiếm phần lớn cổ phần, được Mỹ cấp phép hoạt động tạm thời sau thời gian phải dừng hoạt động vì lệnh trừng phạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.363763+07:00",
+      "fetched": "2026-01-01T10:42:49.363878+07:00"
+    },
+    {
+      "id": "45c0d63e96a396a595bc586324b159f0",
+      "title": "Thông điệp đầu năm: Ông Macron tuyên bố phục vụ đến 'giây phút cuối cùng'",
+      "link": "https://tuoitre.vn/thong-diep-dau-nam-ong-macron-tuyen-bo-phuc-vu-den-giay-phut-cuoi-cung-20260101082711197.htm",
+      "summary": "Trong thông điệp mừng năm mới 2026, tổng thống Pháp khẳng định sẽ không từ chức và phục vụ hết nhiệm kỳ, bất chấp những lời kêu gọi bầu cử sớm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.363632+07:00",
+      "fetched": "2026-01-01T10:42:49.363752+07:00"
+    },
+    {
+      "id": "3f7de76c7dc00f04e51b48db931be1ee",
+      "title": "Phong cách phô trương sự giàu có sẽ dẫn đầu xu hướng thời trang năm 2026?",
+      "link": "https://tuoitre.vn/phong-cach-pho-truong-su-giau-co-se-dan-dau-xu-huong-thoi-trang-nam-2026-20251230161823987.htm",
+      "summary": "Từ 'loud luxury', tua rua, trench coat cho tới phong cách công sở mới mẻ, các sàn diễn lớn cho thấy thời trang đang bước vào kỷ nguyên táo bạo và phô trương hơn bao giờ hết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.363476+07:00",
+      "fetched": "2026-01-01T10:42:49.363616+07:00"
+    },
+    {
+      "id": "5d799afdb2d24caacda4b53b5da9f814",
+      "title": "Khi bão dông dừng lại sau thanh gỗ lim mòn vẹt",
+      "link": "https://tuoitre.vn/khi-bao-giong-dung-lai-sau-thanh-go-lim-mon-vet-20251231200216504.htm",
+      "summary": "Có bao giờ bạn để ý không, ngôi nhà nào dù to lớn đến đâu, linh hồn của nó cũng thường tụ lại ở một nơi khiêm nhường nhất: cái ngưỡng cửa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.363353+07:00",
+      "fetched": "2026-01-01T10:42:49.363466+07:00"
+    },
+    {
+      "id": "a3c9ed49757f7aeef96c1a964c5e950f",
+      "title": "Nút giao An Phú, vòng xoay Phú Hữu ùn ứ, cao tốc thông thoáng trong ngày đầu năm mới",
+      "link": "https://tuoitre.vn/nut-giao-an-phu-vong-xoay-phu-huu-un-u-cao-toc-thong-thoang-trong-ngay-dau-nam-moi-20260101090326887.htm",
+      "summary": "Sáng 1-1, người dân tại TP.HCM tiếp tục về quê nghỉ Tết dương lịch 2026 khiến nút giao An Phú, vòng xoay Phú Hữu ùn ứ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.363228+07:00",
+      "fetched": "2026-01-01T10:42:49.363342+07:00"
+    },
+    {
+      "id": "1d96c74c07b5215dee36c18128d32d7f",
+      "title": "BTS xác nhận ngày tái xuất: 'Chúng tôi mong chờ khoảnh khắc này hơn ai hết'",
+      "link": "https://tuoitre.vn/bts-xac-nhan-ngay-tai-xuat-chung-toi-mong-cho-khoanh-khac-nay-hon-ai-het-20260101092449367.htm",
+      "summary": "BTS chính thức ấn định ngày trở lại vào 20-3, đánh dấu màn tái xuất với đội hình đầy đủ đầu tiên của nhóm sau khoảng 3 năm 9 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.363103+07:00",
+      "fetched": "2026-01-01T10:42:49.363216+07:00"
+    },
+    {
+      "id": "44c241b030036595cac2270311d57e7d",
+      "title": "Greenland - đảo quốc băng giá khổng lổ - Kỳ 2: Tiền đồn hiểm yếu",
+      "link": "https://tuoitre.vn/greenland-dao-quoc-bang-gia-khong-lo-ky-2-tien-don-hiem-yeu-20251231235429852.htm",
+      "summary": "Mặc dù quá xa xôi, cách trở và điều kiện sống cực kỳ khắc nghiệt, Greenland vẫn được nhiều cường quốc nhắm đến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.362978+07:00",
+      "fetched": "2026-01-01T10:42:49.363091+07:00"
+    },
+    {
+      "id": "cbee3b02e93b1869d6e8743ae1359385",
+      "title": "Giờ ăn, giờ ngủ cũng thấp thỏm vì tin nhắn trong nhóm chat, không còn ghét thứ Hai mà ghét Chủ nhật",
+      "link": "https://tuoitre.vn/gio-an-gio-ngu-cung-thap-thom-vi-tin-nhan-trong-nhom-chat-khong-con-ghet-thu-hai-ma-ghet-chu-nhat-20251219233041416.htm",
+      "summary": "Quản lý có thể giao việc qua nhóm chat vào ban đêm, cuối tuần. Nhân viên không dám tắt chuông báo vì lo bỏ lỡ việc của công ty.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.362851+07:00",
+      "fetched": "2026-01-01T10:42:49.362967+07:00"
+    },
+    {
+      "id": "7e686547529ac797b25b18f4f3f5bd79",
+      "title": "Cơ hội sở hữu kiệt tác Picasso trị giá 1 triệu euro chỉ với 100 euro",
+      "link": "https://tuoitre.vn/co-hoi-so-huu-kiet-tac-picasso-tri-gia-1-trieu-euro-chi-voi-100-euro-2026010109112651.htm",
+      "summary": "Tác phẩm của một trong những nghệ sĩ có ảnh hưởng nhất thế kỷ 20 được đem bốc thăm từ thiện nhằm gây quỹ nghiên cứu bệnh Alzheimer.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.362719+07:00",
+      "fetched": "2026-01-01T10:42:49.362839+07:00"
+    },
+    {
+      "id": "beee87166ceaca65dcf1d8d543e8c266",
+      "title": "Bài toán khó cho ông Kim Sang Sik",
+      "link": "https://tuoitre.vn/bai-toan-kho-cho-ong-kim-sang-sik-20260101085819334.htm",
+      "summary": "Ngày 31-12, HLV Kim Sang Sik phải triệu tập bổ sung thủ môn Phạm Đình Hải cho tuyển U23 Việt Nam do thủ môn số 3 Nguyễn Tân bị chấn thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.362581+07:00",
+      "fetched": "2026-01-01T10:42:49.362703+07:00"
+    },
+    {
+      "id": "6a4823f21382e7a3547c52b8676b58bf",
+      "title": "Tiết kiệm để có Tết vui",
+      "link": "https://tuoitre.vn/tiet-kiem-de-co-tet-vui-20260101092742779.htm",
+      "summary": "Về quê ăn Tết luôn khiến bà con miền Trung mưu sinh phương xa trăn trở: nào vé xe, nào quà cáp và cả tiền biếu cha mẹ, ông bà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.362421+07:00",
+      "fetched": "2026-01-01T10:42:49.362568+07:00"
+    },
+    {
+      "id": "a40ea6f60c86ee19f3daec3f1514bdac",
+      "title": "Chiến thắng xứng đáng cho Trịnh Thu Vinh",
+      "link": "https://tuoitre.vn/chien-thang-xung-dang-cho-trinh-thu-vinh-20260101085447172.htm",
+      "summary": "Sau một năm thành công, việc ngôi sao bắn súng Trịnh Thu Vinh được vinh danh ở danh hiệu VĐV tiêu biểu toàn quốc là điều hợp lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.362272+07:00",
+      "fetched": "2026-01-01T10:42:49.362408+07:00"
+    },
+    {
+      "id": "68ffbb2679ab2336fb27c63df6cdfacb",
+      "title": "Nhà dân bốc cháy dữ dội ngay sát giao thừa Tết dương lịch",
+      "link": "https://tuoitre.vn/nha-dan-boc-chay-du-doi-ngay-sat-giao-thua-tet-duong-lich-20260101090451954.htm",
+      "summary": "Một nhà dân ở phường Bình Khê, tỉnh Quảng Ninh đã bùng cháy dữ dội trong đêm, ngay sát giao thừa Tết dương lịch 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T10:42:49.362039+07:00",
+      "fetched": "2026-01-01T10:42:49.362258+07:00"
+    },
     {
       "id": "e605277c58f14a1198dfd2210ed24984",
       "title": "Thời tiết hôm nay 1-1-2026: Nam Bộ nhiều nơi dưới 20 độ C, Bắc Bộ rét đậm",
@@ -121,6 +271,396 @@ window.newsData_2026_01_01 = {
       "category": "Tổng hợp",
       "published": "2026-01-01T08:06:51.340660+07:00",
       "fetched": "2026-01-01T08:06:51.340817+07:00"
+    },
+    {
+      "id": "17a0117af3f24d207935320e345faa45",
+      "title": "Công an TP.HCM xử lý 7 thiếu niên gây rối quanh Bệnh viện Chợ Rẫy",
+      "link": "https://thanhnien.vn/cong-an-tphcm-xu-ly-7-thieu-nien-gay-roi-quanh-benh-vien-cho-ray-185260101060521858.htm",
+      "summary": "Qua nắm tình hình không gian mạng, Công an TP.HCM đã truy xét, xử lý 7 thiếu niên có hành động ném vỏ chai, gây mất an ninh trật tự quanh Bệnh viện Chợ Rẫy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:36:00+07:00",
+      "fetched": "2026-01-01T10:42:47.946565+07:00"
+    },
+    {
+      "id": "5fa88c29f376d3127b326fd44a812c0e",
+      "title": "Thảo Cầm Viên Sài Gòn: 80 gian hàng ẩm thực, văn hóa suốt kỳ nghỉ Tết Dương lịch",
+      "link": "https://thanhnien.vn/thao-cam-vien-sai-gon-80-gian-hang-am-thuc-van-hoa-suot-ky-nghi-tet-duong-lich-185251230151519518.htm",
+      "summary": "Hơn 80 gian hàng ẩm thực, văn hóa tại Thảo Cầm Viên Sài Gòn với đa dạng món ăn đặc sắc, nghệ thuật dân gian... phục vụ người dân trong kỳ nghỉ Tết Dương lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:32:00+07:00",
+      "fetched": "2026-01-01T10:42:47.946738+07:00"
+    },
+    {
+      "id": "dcd76a89b5ffb9222eea5d52f8907126",
+      "title": "Phú Quốc, Gia Lai tưng bừng đón chuyến bay 'xông đất' đầu năm",
+      "link": "https://thanhnien.vn/phu-quoc-gia-lai-tung-bung-don-chuyen-bay-xong-dat-dau-nam-185260101092352039.htm",
+      "summary": "Rạng sáng 1.1, những vị khách quốc tế đầu tiên từ Hàn Quốc chính thức đặt chân đến Cảng hàng không quốc tế Phú Quốc, mở màn cho một năm du lịch đầy triển vọng của đảo ngọc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:26:00+07:00",
+      "fetched": "2026-01-01T10:42:47.946897+07:00"
+    },
+    {
+      "id": "4945a87107b50adc364cdb7299f7aa11",
+      "title": "Bức tranh thị trường lao động IT Việt trong năm 2026",
+      "link": "https://thanhnien.vn/buc-tranh-thi-truong-lao-dong-it-viet-trong-nam-2026-185251231154942235.htm",
+      "summary": "Nhân sự công nghệ Việt nằm trong nhóm được nhận đãi ngộ tốt nhưng vẫn thiếu hụt nhân tài, trong khi đó AI đang định hình lại thị trường, ảnh hưởng đến nhiều nhóm lao động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:25:00+07:00",
+      "fetched": "2026-01-01T10:42:47.947051+07:00"
+    },
+    {
+      "id": "807262a2bc2857826a714c0afc62b52c",
+      "title": "'Nữ hoàng đi bộ' Thanh Phúc phẫu thuật thành công sau ca chấn thương nặng: Tôi sẽ trở lại mạnh mẽ",
+      "link": "https://thanhnien.vn/nu-hoang-di-bo-thanh-phuc-phau-thuat-thanh-cong-sau-ca-chan-thuong-nang-toi-se-tro-lai-manh-me-185260101100602383.htm",
+      "summary": "Ngôi sao hàng đầu điền kinh Việt Nam Nguyễn Thị Thanh Phúc báo tin vui phẫu thuật thành công chấn thương sụn chêm đồng thời thể hiện quyết tâm sớm trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:12:00+07:00",
+      "fetched": "2026-01-01T10:42:47.947203+07:00"
+    },
+    {
+      "id": "d84369b60e98cd4197a7a8d91f03038a",
+      "title": "Giá vàng, bạc thế giới quay đầu giảm phiên cuối năm",
+      "link": "https://vnexpress.net/gia-vang-bac-the-gioi-quay-dau-giam-phien-cuoi-nam-5000788.html",
+      "summary": "Giá các kim loại quý cùng đi xuống trong phiên 31/12, một phần do nhà đầu tư bán chốt lời sau năm bùng nổ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-01T03:06:52+07:00",
+      "fetched": "2026-01-01T10:42:53.273578+07:00"
+    },
+    {
+      "id": "9bc4a8cd51baf3bdb3afcae8cdbf201c",
+      "title": "Trung tâm dữ liệu mới của tỉ phú Elon Musk ngốn điện ngang ngửa một đô thị",
+      "link": "https://thanhnien.vn/trung-tam-du-lieu-moi-cua-ti-phu-elon-musk-ngon-dien-ngang-ngua-mot-do-thi-185251231232853222.htm",
+      "summary": "Dự án mới cho thấy tỉ phú Elon Musk đang đẩy nhanh tiến độ phát triển xAI bằng cách tăng cường đầu tư vào hạ tầng AI tại các vị trí chiến lược.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:05:00+07:00",
+      "fetched": "2026-01-01T10:42:47.947351+07:00"
+    },
+    {
+      "id": "85831682184052a3560cda83ae2d9868",
+      "title": "Mô tô điện Honda đăng ký bản quyền kiểu dáng, liệu có phân phối tại Việt Nam?",
+      "link": "https://thanhnien.vn/mo-to-dien-honda-dang-ky-ban-quyen-kieu-dang-lieu-co-phan-phoi-tai-viet-nam-185251230132147914.htm",
+      "summary": "Dữ liệu Cục sở hữu trí tuệ Việt Nam vừa xuất hiện thông tin đăng ký bản quyền kiểu dáng mẫu mô tô điện Honda WN7 làm dấy lên thông tin Honda sẽ phân phối mẫu xe này tại Việt Nam trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:05:00+07:00",
+      "fetched": "2026-01-01T10:42:47.947499+07:00"
+    },
+    {
+      "id": "af5f4ba4aaf7b4a1938e8e500bd9720a",
+      "title": "Plasma Lạnh có thật sự giúp diệt khuẩn cho vết thương mau lành, ngừa sẹo hiệu quả?",
+      "link": "https://thanhnien.vn/plasma-lanh-co-that-su-giup-diet-khuan-cho-vet-thuong-mau-lanh-ngua-seo-hieu-qua-185260101101620942.htm",
+      "summary": "Trong bối cảnh ngành thẩm mỹ da liễu và y tế ngày càng hướng tới các phương pháp không xâm lấn, an toàn và hiệu quả cao, công nghệ Plasma Lạnh (Cold Atmospheric Plasma - CAP) đang nổi lên như một 'vũ khí bí mật' giúp đẩy nhanh quá trình lành vết thương, diệt khuẩn và ngăn ngừa sẹo một cách tối ưu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:03:00+07:00",
+      "fetched": "2026-01-01T10:42:47.947673+07:00"
+    },
+    {
+      "id": "589b6e163636714b93cda7baf12ecfee",
+      "title": "Giáo sư Mỹ dùng cách thi 'cổ xưa' để chấm điểm sinh viên",
+      "link": "https://vnexpress.net/giao-su-my-dung-cach-thi-co-xua-de-cham-diem-sinh-vien-4997912.html",
+      "summary": "Nhiều giáo sư Mỹ và Canada quay lại hình thức thi hỏi - đáp \"cổ xưa\" để xem sinh viên có thực sự hiểu bài hay không, khi việc lạm dụng AI ngày càng phổ biến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:00:27+07:00",
+      "fetched": "2026-01-01T10:42:44.275899+07:00"
+    },
+    {
+      "id": "589b6e163636714b93cda7baf12ecfee",
+      "title": "Giáo sư Mỹ dùng cách thi 'cổ xưa' để chấm điểm sinh viên",
+      "link": "https://vnexpress.net/giao-su-my-dung-cach-thi-co-xua-de-cham-diem-sinh-vien-4997912.html",
+      "summary": "Nhiều giáo sư Mỹ và Canada quay lại hình thức thi hỏi - đáp \"cổ xưa\" để xem sinh viên có thực sự hiểu bài hay không, khi việc lạm dụng AI ngày càng phổ biến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-01T03:00:27+07:00",
+      "fetched": "2026-01-01T10:42:51.208037+07:00"
+    },
+    {
+      "id": "ac7290ceca41613ff0da6d5843cfcece",
+      "title": "Những vấn đề sẽ định hình địa chính trị thế giới năm 2026",
+      "link": "https://vnexpress.net/nhung-van-de-se-dinh-hinh-dia-chinh-tri-the-gioi-nam-2026-4994511.html",
+      "summary": "Thế giới năm 2026 được dự đoán tiếp tục biến động mạnh, khi xung đột Ukraine vẫn căng thẳng và cạnh tranh Mỹ - Trung tác động sâu sắc hơn tới toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:00:00+07:00",
+      "fetched": "2026-01-01T10:42:44.276080+07:00"
+    },
+    {
+      "id": "a34e06d22bb5df69eec7598a7d61ec25",
+      "title": "Trump Mobile nêu lý do điện thoại T1 Phone trễ hẹn",
+      "link": "https://vnexpress.net/trump-mobile-neu-ly-do-dien-thoai-t1-phone-tre-hen-5000775.html",
+      "summary": "Trump Mobile thông báo lùi ngày bàn giao mẫu T1 Phone được hứa hẹn từ lâu, nói rằng do chính phủ Mỹ đóng cửa cuối năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:00:00+07:00",
+      "fetched": "2026-01-01T10:42:44.276253+07:00"
+    },
+    {
+      "id": "b14fa0265cf85c85dacd9849b97845d7",
+      "title": "Ba ngày trải nghiệm Ba Na Hills chỉ với một tấm vé",
+      "link": "https://vnexpress.net/ba-ngay-trai-nghiem-ba-na-hills-chi-voi-mot-tam-ve-5000820.html",
+      "summary": "Du khách có thể lên xuống cáp treo không giới hạn số lần, trải nghiệm các trò chơi… tại Sun World Ba Na Hills chỉ với một tấm vé trong 3 ngày liên tiếp, áp dụng từ 1/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:00:00+07:00",
+      "fetched": "2026-01-01T10:42:44.276416+07:00"
+    },
+    {
+      "id": "cb27e1c4510beaa40b33e0a8b7861774",
+      "title": "Lợi ích khi ăn dầu ô liu thường xuyên",
+      "link": "https://vnexpress.net/loi-ich-khi-an-dau-o-liu-thuong-xuyen-5000602.html",
+      "summary": "Chế độ ăn bổ sung dầu ô liu giúp bảo vệ tim mạch, hỗ trợ sức khỏe xương, giảm viêm và phòng nguy cơ suy giảm chức năng nhận thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:00:00+07:00",
+      "fetched": "2026-01-01T10:42:44.276594+07:00"
+    },
+    {
+      "id": "b445f1be761d1afaa7ba88609fb83228",
+      "title": "Rimowa ra mắt hai màu vali mới theo mùa",
+      "link": "https://vnexpress.net/rimowa-ra-mat-hai-mau-vali-moi-theo-mua-5000570.html",
+      "summary": "Sự kiện ra mắt màu mới của dòng vali Essential của Rimowa tại Hà Nội và TP HCM có sự tham gia của các \"tín đồ dịch chuyển\" như diễn viên Đỗ Nhật Hoàng, ca sĩ Quang Vinh, rapper Suboi…",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:00:00+07:00",
+      "fetched": "2026-01-01T10:42:44.276778+07:00"
+    },
+    {
+      "id": "6e6b3615f02810b01a612bf45fa2955a",
+      "title": "6 dấu hiệu tim tổn thương dễ bỏ qua",
+      "link": "https://vnexpress.net/6-dau-hieu-tim-ton-thuong-de-bo-qua-5000487.html",
+      "summary": "Khó chịu ở ngực, mệt mỏi bất thường, khó thở là những dấu hiệu bệnh tim dễ bỏ qua, khiến người bệnh khó nhận biết sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:00:00+07:00",
+      "fetched": "2026-01-01T10:42:44.276977+07:00"
+    },
+    {
+      "id": "bb7e098373867bb43abb0d9ba940fac8",
+      "title": "VietinBank ra mắt website Quan hệ Nhà đầu tư mới: Minh bạch kiến tạo niềm tin",
+      "link": "https://thanhnien.vn/vietinbank-ra-mat-website-quan-he-nha-dau-tu-moi-minh-bach-kien-tao-niem-tin-185260101064405124.htm",
+      "summary": "Từ ngày 1.1.2026, VietinBank chính thức ra mắt website Quan hệ Nhà đầu tư mới, hứa hẹn trở thành điểm chạm thú vị và thu hút nhà đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:00:00+07:00",
+      "fetched": "2026-01-01T10:42:47.947829+07:00"
+    },
+    {
+      "id": "c577db037daeb305f3e5bdf3d18d5c52",
+      "title": "Năm 2026: Khi thành công không còn đo bằng danh hiệu",
+      "link": "https://thanhnien.vn/nam-2026-khi-thanh-cong-khong-con-do-bang-danh-hieu-185251231225818436.htm",
+      "summary": "Năm 2026, gen Z đã viết lại cách hiểu về thành công. Không còn đặt nặng danh xưng hay ánh hào quang ngắn ngủi, người trẻ chọn đo thành công bằng mức độ trưởng thành, giá trị tạo ra và những đóng góp bền bỉ cho cộng đồng. Những câu chuyện của gen Z hôm nay cho thấy một thế hệ đang lớn lên cùng khát v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:00:00+07:00",
+      "fetched": "2026-01-01T10:42:47.947980+07:00"
+    },
+    {
+      "id": "fba97a407bd255fcff602a8ef7f174e7",
+      "title": "Áo polo, áo dệt kim, điểm sáng cho phong cách đời thường sành điệu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-polo-ao-det-kim-diem-sang-cho-phong-cach-doi-thuong-sanh-dieu-185251230122341513.htm",
+      "summary": "Để ghi dấu phong cách thời trang đời thường sành điệu và trẻ trung, quý cô không thể bỏ qua các bản phối từ áo polo kẻ ngang, áo dệt kim mềm mại và ấm áp. Mùa này các mẫu áo xinh yêu được ưa chuộng phối cùng chân váy dài và quần ống rộng cá tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:00:00+07:00",
+      "fetched": "2026-01-01T10:42:47.948129+07:00"
+    },
+    {
+      "id": "3ae7c2bd853c7d89319a14f5fba1baf5",
+      "title": "Trung Quốc phát hành bộ tiền xu năm Bính Ngọ 2026, có đồng vàng nặng 10 kg",
+      "link": "https://thanhnien.vn/trung-quoc-phat-hanh-bo-tien-xu-nam-binh-ngo-2026-co-dong-vang-nang-10-kg-185251120145950662.htm",
+      "summary": "Bộ tiền xu chào mừng năm Bính Ngọ 2026 của Trung Quốc khiến giới sưu tầm phát sốt với phiên bản giới hạn 18 đồng xu vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T03:00:00+07:00",
+      "fetched": "2026-01-01T10:42:47.948276+07:00"
+    },
+    {
+      "id": "ac7290ceca41613ff0da6d5843cfcece",
+      "title": "Những vấn đề sẽ định hình địa chính trị thế giới năm 2026",
+      "link": "https://vnexpress.net/nhung-van-de-se-dinh-hinh-dia-chinh-tri-the-gioi-nam-2026-4994511.html",
+      "summary": "Thế giới năm 2026 được dự đoán tiếp tục biến động mạnh, khi xung đột Ukraine vẫn căng thẳng và cạnh tranh Mỹ - Trung tác động sâu sắc hơn tới toàn cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-01T03:00:00+07:00",
+      "fetched": "2026-01-01T10:42:51.208210+07:00"
+    },
+    {
+      "id": "a34e06d22bb5df69eec7598a7d61ec25",
+      "title": "Trump Mobile nêu lý do điện thoại T1 Phone trễ hẹn",
+      "link": "https://vnexpress.net/trump-mobile-neu-ly-do-dien-thoai-t1-phone-tre-hen-5000775.html",
+      "summary": "Trump Mobile thông báo lùi ngày bàn giao mẫu T1 Phone được hứa hẹn từ lâu, nói rằng do chính phủ Mỹ đóng cửa cuối năm 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-01T03:00:00+07:00",
+      "fetched": "2026-01-01T10:42:56.560947+07:00"
+    },
+    {
+      "id": "c0efa9d34d902ff3745b3f33208bce96",
+      "title": "Triệu hồi hơn 2.200 xe Toyota giá hàng tỉ đồng tại Việt Nam dính lỗi phần mềm",
+      "link": "https://thanhnien.vn/trieu-hoi-hon-2200-xe-toyota-gia-hang-ti-dong-tai-viet-nam-dinh-loi-phan-mem-185251231113903559.htm",
+      "summary": "Hơn 2.200 xe Toyota, gồm các mẫu mã có giá hàng tỉ đồng như Toyota Alphard, Camry, Land Cruiser và Land Cruiser Prado tại Việt Nam vừa được hãng xe Nhật Bản thông báo triệu hồi để khắc phục lỗi liên quan đến phần mềm hỗ trợ đỗ xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T02:58:00+07:00",
+      "fetched": "2026-01-01T10:42:47.948423+07:00"
+    },
+    {
+      "id": "3bd3949f03531863e9ccf45215f9ba18",
+      "title": "Người Nhật đón năm mới thế nào sau 150 năm bỏ Tết truyền thống?",
+      "link": "https://vnexpress.net/nguoi-nhat-don-nam-moi-the-nao-sau-150-nam-bo-tet-truyen-thong-5000804.html",
+      "summary": "Thời điểm đón năm mới đã chuyển sang lịch Dương, nhưng nhiều tập tục hình thành từ Tết Âm lịch vẫn được người Nhật thực hành trong khuôn khổ Tết Dương cho đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T02:57:46+07:00",
+      "fetched": "2026-01-01T10:42:44.277151+07:00"
+    },
+    {
+      "id": "63f3ec0983c64d03e17c9d5d79319e0b",
+      "title": "Hy hữu: Người phụ nữ nguy kịch do bánh xe đầu kéo rơi ra, lăn trúng",
+      "link": "https://thanhnien.vn/hy-huu-nguoi-phu-nu-nguy-kich-do-banh-xe-dau-keo-roi-ra-lan-trung-185260101092617057.htm",
+      "summary": "Người phụ nữ đứng bán bông cho khách ven quốc lộ 53 bất ngờ bị bánh xe đầu kéo đang lưu thông rơi ra và lăn trúng khiến nạn nhân nguy kịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T02:57:00+07:00",
+      "fetched": "2026-01-01T10:42:47.948600+07:00"
+    },
+    {
+      "id": "86e0c7edf3906f0c5e3370de60827875",
+      "title": "6 chính sách mới liên quan đến ô tô, xe máy có hiệu lực từ năm 2026",
+      "link": "https://thanhnien.vn/6-chinh-sach-moi-lien-quan-den-o-to-xe-may-co-hieu-luc-tu-nam-2026-185251229132038.htm",
+      "summary": "Bắt đầu từ năm 2026, một số chính sách, quy định mới liên quan đến lĩnh vực ô tô xe máy sẽ chính thức có hiệu lực, do đó người dân đang sử dụng cũng như có ý định mua ô tô xe máy mới cần chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T02:56:00+07:00",
+      "fetched": "2026-01-01T10:42:47.948756+07:00"
+    },
+    {
+      "id": "37e61ffafc41dd734f1ba7715439e838",
+      "title": "Người dân thế giới đón bình minh đầu tiên của năm 2026",
+      "link": "https://vnexpress.net/nguoi-dan-the-gioi-don-binh-minh-dau-tien-cua-nam-2026-5000773.html",
+      "summary": "Người dân nhiều nước trên thế giới ngắm bình minh, thả bóng bay, cầu nguyện cho năm mới 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T02:54:04+07:00",
+      "fetched": "2026-01-01T10:42:44.277335+07:00"
+    },
+    {
+      "id": "d664041856a59642bc6fcf76ca6f4713",
+      "title": "Người dân thế giới đón bình minh đầu tiên của năm mới",
+      "link": "https://vnexpress.net/nguoi-dan-the-gioi-don-binh-minh-dau-tien-cua-nam-moi-5000773.html",
+      "summary": "Người dân nhiều nước trên thế giới ngắm bình minh, thả bóng bay, cầu nguyện cho năm mới 2026.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-01T02:54:04+07:00",
+      "fetched": "2026-01-01T10:42:51.208372+07:00"
+    },
+    {
+      "id": "3d6503925aef925f71005fe927f1ae33",
+      "title": "U50 'lên cơn vật' sau một ngày thiếu Facebook, Tiktok",
+      "link": "https://vnexpress.net/u50-len-con-vat-sau-mot-ngay-thieu-facebook-tiktok-5000797.html",
+      "summary": "Những ngày đầu cai mạng xã hội, đầu óc tôi trống rỗng, 'đói' thông tin, vô thức tìm điện thoại, rồi chợt nhớ ra mình đã xóa ứng dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T02:48:46+07:00",
+      "fetched": "2026-01-01T10:42:44.277493+07:00"
+    },
+    {
+      "id": "707ab7f5341571018b7fc6ec7e397fb0",
+      "title": "Dòng xe ùn tắc hơn 3 km ở cửa ngõ phía đông TP HCM",
+      "link": "https://vnexpress.net/dong-xe-un-tac-hon-3-km-o-cua-ngo-phia-dong-tp-hcm-5000803.html",
+      "summary": "Dòng ôtô dồn về cao tốc TP HCM - Long Thành - Dầu Giây ở cửa ngõ phía đông thành phố, CSGT phải linh hoạt hạn chế xe từ xa, sáng 1/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T02:44:23+07:00",
+      "fetched": "2026-01-01T10:42:44.277674+07:00"
+    },
+    {
+      "id": "162863145b0cd62c44fa69789e80adb6",
+      "title": "Nhan sắc vợ của 'thiên thần' Kaka",
+      "link": "https://vnexpress.net/nhan-sac-vo-cua-thien-than-kaka-5000781.html",
+      "summary": "Người mẫu Carolina Dias - vợ kém \"thiên thần\" Kaka 13 tuổi - có gương mặt góc cạnh và vẻ bốc lửa đậm nét Mỹ Latin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T02:43:51+07:00",
+      "fetched": "2026-01-01T10:42:44.277835+07:00"
+    },
+    {
+      "id": "c7eac47f7ae022f0fadde84e717ab9e8",
+      "title": "Từ nào trong tiếng Việt có 13 chữ 'Y'?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-tu-nao-trong-tieng-viet-co-13-chu-y-4997536.html",
+      "summary": "Một câu đố nghe qua tưởng vô lý nhưng lại cho thấy sự dí dỏm và phong phú của tiếng Việt khiến người nghe vừa tò mò vừa thích thú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T02:35:00+07:00",
+      "fetched": "2026-01-01T10:42:44.277989+07:00"
+    },
+    {
+      "id": "87664409f552fb38f634cc6f1162d451",
+      "title": "Cặp vợ chồng quyết sinh 10 con để 'cứu nhân loại'",
+      "link": "https://vnexpress.net/cap-vo-chong-quyet-sinh-10-con-de-cuu-nhan-loai-5000516.html",
+      "summary": "Ngay đầu năm mới, Simone Collins, 37 tuổi, bước vào lần mang thai thứ 6, nhắm đến mục tiêu sinh từ 7 đến 10 người con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T02:30:00+07:00",
+      "fetched": "2026-01-01T10:42:44.278143+07:00"
+    },
+    {
+      "id": "90665d2f13d7cbde1ac72c4201efd11e",
+      "title": "Mỹ Tâm cùng hàng nghìn người đếm ngược đón 2026",
+      "link": "https://vnexpress.net/my-tam-cung-hang-nghin-nguoi-dem-nguoc-don-2026-5000758.html",
+      "summary": "Ca sĩ Mỹ Tâm, Đức Phúc, Vũ Cát Tường cùng nhiều nghệ sĩ thể hiện các hit, cùng khán giả đón năm mới, tối 31/12/2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T02:29:10+07:00",
+      "fetched": "2026-01-01T10:42:44.278303+07:00"
+    },
+    {
+      "id": "27b9252c34e95ed079f2bd9568eadded",
+      "title": "Yếu tố thúc đẩy kim ngạch xuất nhập khẩu tăng trưởng sau hơn một thập niên",
+      "link": "https://vnexpress.net/yeu-to-thuc-day-kim-ngach-xuat-nhap-khau-tang-truong-sau-hon-mot-thap-nien-5000690.html",
+      "summary": "Chuyển đổi số giúp hải quan rút ngắn thời gian thông quan, giảm chi phí cho doanh nghiệp, góp phần đưa kim ngạch xuất nhập khẩu tăng gần 290% từ 2014 đến nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-01T02:00:00+07:00",
+      "fetched": "2026-01-01T10:42:53.274084+07:00"
+    },
+    {
+      "id": "5651ab8fea5eb965aecb8a05fd53257b",
+      "title": "Dấu hỏi lớn cho tương lai quyền Anh của Joshua",
+      "link": "https://vnexpress.net/dau-hoi-lon-cho-tuong-lai-quyen-anh-cua-joshua-5000286.html",
+      "summary": "Sau khi chứng kiến cái chết của hai người bạn thân trong vụ tai nạn xe kinh hoàng ở Sagamu, cựu vô địch quyền Anh hạng nặng thế giới Anthony Joshua đứng trước ngã rẽ lớn của sự nghiệp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-01T01:55:39+07:00",
+      "fetched": "2026-01-01T10:42:57.662615+07:00"
+    },
+    {
+      "id": "425d6f4bdb2aa8e081386109ab6fd131",
+      "title": "Ông Zelensky: Ukraine còn cách thỏa thuận hòa bình 10%",
+      "link": "https://vnexpress.net/ong-zelensky-ukraine-con-cach-thoa-thuan-hoa-binh-10-5000779.html",
+      "summary": "Tổng thống Zelensky tuyên bố Ukraine còn cách thỏa thuận hòa bình với Nga \"khoảng 10%\", nhưng lưu ý hai bên chưa nhất trí về nhiều vấn đề then chốt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-01T01:49:52+07:00",
+      "fetched": "2026-01-01T10:42:51.208549+07:00"
+    },
+    {
+      "id": "aab10129613da755d8a477546f006384",
+      "title": "Bộ Khoa học và Công nghệ một năm làm 10 luật, 23 nghị định",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-mot-nam-lam-10-luat-23-nghi-dinh-5000705.html",
+      "summary": "Thứ trưởng Bùi Hoàng Phương cho biết Bộ Khoa học và Công nghệ đã xây dựng 10 luật, 23 nghị định và 71 thông tư trong năm 2025 nhằm \"đột phá về thể chế\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-01T01:29:39+07:00",
+      "fetched": "2026-01-01T10:42:56.561108+07:00"
     },
     {
       "id": "2d9c7c991446331a0a15790e70bfdcca",
@@ -271,6 +811,16 @@ window.newsData_2026_01_01 = {
       "category": "Tổng hợp",
       "published": "2026-01-01T01:18:11.269012+07:00",
       "fetched": "2026-01-01T01:18:11.269244+07:00"
+    },
+    {
+      "id": "d88a66b0bd8771d3ed4a63c0270f4090",
+      "title": "Ông Nguyễn Đức Thụy thoái vốn khỏi LPBank",
+      "link": "https://vnexpress.net/ong-nguyen-duc-thuy-thoai-von-khoi-lpbank-5000765.html",
+      "summary": "Ông Nguyễn Đức Thụy, Cựu chủ tịch ngân hàng Lộc Phát, không còn nằm trong danh sách cổ đông nắm trên 1% vốn của nhà băng này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-01T01:02:17+07:00",
+      "fetched": "2026-01-01T10:42:53.273758+07:00"
     },
     {
       "id": "1a529d9986b1b3b52e2b84979b627e42",
