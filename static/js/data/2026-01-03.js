@@ -1,7 +1,17 @@
 window.newsData_2026_01_03 = {
   "date": "2026-01-03",
-  "lastUpdated": "2026-01-03T01:18:39.937542+07:00",
+  "lastUpdated": "2026-01-03T03:13:40.820036+07:00",
   "articles": [
+    {
+      "id": "f8d07a77d4b9865ebc21d3bd793f9679",
+      "title": "Tesla mất ngôi hãng xe điện số 1 thế giới vào tay hãng xe Trung Quốc",
+      "link": "https://tuoitre.vn/tesla-mat-ngoi-hang-xe-dien-so-1-the-gioi-vao-tay-hang-xe-trung-quoc-20260102220907118.htm",
+      "summary": "Tesla đã chính thức đánh mất danh hiệu nhà sản xuất xe điện lớn nhất thế giới sau khi doanh số toàn cầu tiếp tục sụt giảm trong năm 2025, trong bối cảnh cạnh tranh gay gắt và thị trường xe điện chững lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:13:31.881585+07:00",
+      "fetched": "2026-01-03T03:13:31.881798+07:00"
+    },
     {
       "id": "828af5f49e43e7a147ba684c9ca073da",
       "title": "Ông lớn 100 Entertainment nợ thù lao của Baekhyun, Taemin hàng tỉ won",
@@ -151,6 +161,46 @@ window.newsData_2026_01_03 = {
       "category": "Tổng hợp",
       "published": "2026-01-03T01:18:32.502049+07:00",
       "fetched": "2026-01-03T01:18:32.502266+07:00"
+    },
+    {
+      "id": "60339a74663a5f5b7d6f17ebb19bd3d7",
+      "title": "Phát hiện điều bí mật trong máu của những người sống thọ hơn 100 tuổi",
+      "link": "https://thanhnien.vn/phat-hien-dieu-bi-mat-trong-mau-cua-nhung-nguoi-song-tho-hon-100-tuoi-185260103020355684.htm",
+      "summary": "Sống thọ và khỏe mạnh là mong muốn chung của con người, nhưng vì sao một số người có thể sống đến hơn 100 vẫn còn là câu hỏi lớn của khoa học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T19:03:00+07:00",
+      "fetched": "2026-01-03T03:13:30.277411+07:00"
+    },
+    {
+      "id": "63496e9d616a6e52da9334be9eb44e1f",
+      "title": "6 thực phẩm giúp giải rượu bia nhanh chóng",
+      "link": "https://vnexpress.net/6-thuc-pham-giup-giai-ruou-bia-nhanh-chong-5001120.html",
+      "summary": "Nước dừa, chuối, nước ép lê, trà xanh, dưa chuột muối và cam giúp giảm nhẹ triệu chứng say, giải rượu bia nhanh chóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T19:00:00+07:00",
+      "fetched": "2026-01-03T03:13:26.896007+07:00"
+    },
+    {
+      "id": "3d195573593b2a53dcf74e573ab4acac",
+      "title": "Nghiên cứu: Có một cách đi bộ cực kỳ cần cho người lớn tuổi",
+      "link": "https://thanhnien.vn/nghien-cuu-co-mot-cach-di-bo-cuc-ky-can-cho-nguoi-lon-tuoi-185260103015006552.htm",
+      "summary": "Té ngã là 'kẻ thù số một' đối với người lớn tuổi, thường dẫn đến những hậu quả khó lường như gãy xương, chấn thương sọ não, thậm chí gây tử vong. Vì vậy, tìm kiếm giải pháp ngăn ngừa là vô cùng cấp thiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T18:50:00+07:00",
+      "fetched": "2026-01-03T03:13:30.277578+07:00"
+    },
+    {
+      "id": "2bac7106e88ab393ec50103434a2aaf2",
+      "title": "Ăn cay thường xuyên: Đâu là dấu hiệu dạ dày bắt đầu ‘chịu không nổi’?",
+      "link": "https://thanhnien.vn/an-cay-thuong-xuyen-dau-la-dau-hieu-da-day-bat-dau-chiu-khong-noi-185260102231954417.htm",
+      "summary": "Ớt, sa tế hay các món cay giúp bữa ăn thêm hấp dẫn và kích thích vị giác. Thế nhưng, đây cũng chính là nguyên nhân khiến nhiều người gặp cảm giác nóng rát, đầy bụng hoặc ợ chua sau ăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T18:26:00+07:00",
+      "fetched": "2026-01-03T03:13:30.277731+07:00"
     },
     {
       "id": "e601cc6bdd245e92f0292e719fd97a39",
