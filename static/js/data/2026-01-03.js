@@ -1,6 +1,6 @@
 window.newsData_2026_01_03 = {
   "date": "2026-01-03",
-  "lastUpdated": "2026-01-03T03:13:40.820036+07:00",
+  "lastUpdated": "2026-01-03T05:12:31.783480+07:00",
   "articles": [
     {
       "id": "f8d07a77d4b9865ebc21d3bd793f9679",
@@ -161,6 +161,56 @@ window.newsData_2026_01_03 = {
       "category": "Tổng hợp",
       "published": "2026-01-03T01:18:32.502049+07:00",
       "fetched": "2026-01-03T01:18:32.502266+07:00"
+    },
+    {
+      "id": "54b1ceb72282c1e67e55f36a6c086629",
+      "title": "Diện mạo đường ven sông Đồng Nai qua nhà cổ",
+      "link": "https://vnexpress.net/dien-mao-duong-ven-song-dong-nai-qua-nha-co-5001064.html",
+      "summary": "Dự án đường ven sông đi qua nhà cổ 100 tuổi đang hoàn thiện những công đoạn cuối cùng để thông xe trước Tết Nguyên đán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T22:00:00+07:00",
+      "fetched": "2026-01-03T05:12:17.032723+07:00"
+    },
+    {
+      "id": "92cc91acf0aee402a522f4114f3f4fb5",
+      "title": "6 sản phẩm Apple có thể ra mắt năm 2026",
+      "link": "https://vnexpress.net/6-san-pham-apple-co-the-ra-mat-nam-2026-4999605.html",
+      "summary": "Apple được dự đoán công bố nhiều nâng cấp đột phá cho các dòng thiết bị hiện có như iPhone gập, HomeHub hay Studio Display.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T22:00:00+07:00",
+      "fetched": "2026-01-03T05:12:17.032901+07:00"
+    },
+    {
+      "id": "53b3aaac1858bae19e9ddd76b02ddb55",
+      "title": "Ôtô con húc như trời giáng vào xe bồn tưới cây",
+      "link": "https://vnexpress.net/oto-con-huc-nhu-troi-giang-vao-xe-bon-tuoi-cay-5001224.html",
+      "summary": "Chiếc xe con húc mạnh vào đuôi xe bồn đang tưới cây ở đường dẫn từ cao tốc Pháp Vân lên vành đai 3 trên cao, hôm 31/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T22:00:00+07:00",
+      "fetched": "2026-01-03T05:12:17.033068+07:00"
+    },
+    {
+      "id": "063781ddd6c09c25afcdb5150c693cc5",
+      "title": "Ngày thứ hai của năm mới 2026, giải độc đắc của Vietlott tăng lên 13,4 tỉ đồng",
+      "link": "https://thanhnien.vn/ngay-thu-hai-cua-nam-moi-2026-giai-doc-dac-cua-vietlott-tang-len-134-ti-dong-185260102192000855.htm",
+      "summary": "Tối 2.1, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, không ghi nhận người trúng giải độc đắc nào nên số tiền cộng dồn hiện tại là hơn 13,4 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T22:00:00+07:00",
+      "fetched": "2026-01-03T05:12:20.607331+07:00"
+    },
+    {
+      "id": "9b432c0eb22d1335ffa8e4c19ef88a38",
+      "title": "Chiến sự Ukraine ngày 1.409: Nga giành thêm 4.300 km2, Ukraine mất 20 máy bay năm 2025",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1409-nga-gianh-them-4300-km2-ukraine-mat-20-may-bay-nam-2025-185260102211101975.htm",
+      "summary": "Số liệu do Nga và Ukraine tự công bố đầu năm 2026 cho thấy đối phương đều tổn thất nặng nề trong năm 2025, trong khi Nga giành kiểm soát thêm hàng ngàn km2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:34:00+07:00",
+      "fetched": "2026-01-03T05:12:20.607498+07:00"
     },
     {
       "id": "60339a74663a5f5b7d6f17ebb19bd3d7",
