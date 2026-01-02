@@ -1,7 +1,57 @@
 window.newsData_2026_01_02 = {
   "date": "2026-01-02",
-  "lastUpdated": "2026-01-02T21:13:19.127554+07:00",
+  "lastUpdated": "2026-01-02T23:15:04.137390+07:00",
   "articles": [
+    {
+      "id": "e293f61fd54c7ac1d58716de9dc63d57",
+      "title": "Huyền Lizzie hết 'mắt toét' sau khi chia tay Cách em 1 milimet",
+      "link": "https://tuoitre.vn/huyen-lizzie-het-mat-toet-sau-khi-chia-tay-cach-em-1-milimet-2026010219463513.htm",
+      "summary": "Hoàn thành những cảnh quay trong bộ phim Cách em 1 milimet, Huyền Lizzie - Phan Minh Huyền, viết lại cảm xúc trên Facebook.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T23:14:56.443717+07:00",
+      "fetched": "2026-01-02T23:14:56.443834+07:00"
+    },
+    {
+      "id": "2201c971beeaef32e3a57386f3223415",
+      "title": "Lần đầu có 'bản đồ dữ liệu' thống nhất về nhà ở và thị trường bất động sản",
+      "link": "https://tuoitre.vn/lan-dau-co-ban-do-du-lieu-thong-nhat-ve-nha-o-va-thi-truong-bat-dong-san-20260102191829888.htm",
+      "summary": "Dữ liệu nhà ở, giao dịch, dự án bất động sản trên cả nước sẽ được thu thập, chuẩn hóa và kết nối vào một hệ thống thống nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T23:14:56.443584+07:00",
+      "fetched": "2026-01-02T23:14:56.443705+07:00"
+    },
+    {
+      "id": "c06511640e6d23e155f374e4e22da982",
+      "title": "Trung Quốc quyết liệt đưa AI vào chẩn đoán bệnh, những câu hỏi đặt ra",
+      "link": "https://tuoitre.vn/trung-quoc-quyet-liet-dua-ai-vao-chan-doan-benh-nhung-cau-hoi-dat-ra-2026010219442022.htm",
+      "summary": "Trong cuộc đua ứng dụng AI vào y học, Trung Quốc đang nổi lên như một trong những quốc gia triển khai nhanh và quyết liệt nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T23:14:56.443444+07:00",
+      "fetched": "2026-01-02T23:14:56.443572+07:00"
+    },
+    {
+      "id": "0cd2d3c5329079def42eb97e852c46c3",
+      "title": "Trùm tình báo 39 tuổi được Tổng thống Ukraine chọn vào vị trí quyền lực hơn",
+      "link": "https://tuoitre.vn/trum-tinh-bao-39-tuoi-duoc-tong-thong-ukraine-chon-vao-vi-tri-quyen-luc-hon-20260102202204769.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky thông báo đã chọn Giám đốc tình báo quốc phòng Kyrylo Budanov làm tân Chánh Văn phòng Tổng thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T23:14:56.443279+07:00",
+      "fetched": "2026-01-02T23:14:56.443430+07:00"
+    },
+    {
+      "id": "317896ec729edbc8d1c941bbdf898286",
+      "title": "Những chuyến đi vừa chơi, vừa học dịp nghỉ Tết dương lịch",
+      "link": "https://tuoitre.vn/nhung-chuyen-di-vua-choi-vua-hoc-dip-nghi-tet-duong-lich-20260102193754447.htm",
+      "summary": "Trong kỳ nghỉ Tết dương lịch 2026, nhiều gia đình đưa con tham quan di tích, bảo tàng và làng nghề. Những chuyến đi vừa chơi, vừa học được phụ huynh xem là cách giúp trẻ tiếp cận kiến thức lịch sử, văn hóa một cách trực quan, sinh động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T23:14:56.443051+07:00",
+      "fetched": "2026-01-02T23:14:56.443263+07:00"
+    },
     {
       "id": "968f08d9f8a7143ab7b6ccb11a6de6ee",
       "title": "Đưa logo và chữ ký doanh nghiệp vào tượng Thoại Ngọc Hầu chẳng khác nào 'thương mại hóa tín ngưỡng'",
@@ -413,6 +463,66 @@ window.newsData_2026_01_02 = {
       "fetched": "2026-01-02T17:13:09.451912+07:00"
     },
     {
+      "id": "388f761d9d9b44a3fefe2da072b9e7fe",
+      "title": "Sri Lanka điều tra vụ sách giáo khoa hướng dẫn học sinh truy cập web đồng tính",
+      "link": "https://vnexpress.net/sri-lanka-dieu-tra-vu-sach-giao-khoa-huong-dan-hoc-sinh-truy-cap-web-dong-tinh-5001226.html",
+      "summary": "Sri Lanka mở cuộc điều tra vụ sách giáo khoa lớp 6 hướng dẫn học sinh vào web trò chuyện dành cho người đồng tính để cải thiện kỹ năng tiếng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T15:39:36+07:00",
+      "fetched": "2026-01-02T23:14:51.510996+07:00"
+    },
+    {
+      "id": "388f761d9d9b44a3fefe2da072b9e7fe",
+      "title": "Sri Lanka điều tra vụ sách giáo khoa hướng dẫn học sinh truy cập web đồng tính",
+      "link": "https://vnexpress.net/sri-lanka-dieu-tra-vu-sach-giao-khoa-huong-dan-hoc-sinh-truy-cap-web-dong-tinh-5001226.html",
+      "summary": "Sri Lanka mở cuộc điều tra vụ sách giáo khoa lớp 6 hướng dẫn học sinh vào web trò chuyện dành cho người đồng tính để cải thiện kỹ năng tiếng Anh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-02T15:39:36+07:00",
+      "fetched": "2026-01-02T23:14:58.318917+07:00"
+    },
+    {
+      "id": "9d48f3f68ca044f6eb6b53479443fc43",
+      "title": "Cà Mau: Triệu tập nghi phạm sát hại bé gái 13 tuổi",
+      "link": "https://thanhnien.vn/ca-mau-trieu-tap-nghi-pham-sat-hai-be-gai-13-tuoi-185260102194923347.htm",
+      "summary": "Cơ quan CSĐT Công an tỉnh Cà Mau đã triệu tập một nghi phạm 16 tuổi để thẩm vấn, phục vụ điều tra liên quan vụ bé gái 13 tuổi bị sát hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T15:39:00+07:00",
+      "fetched": "2026-01-02T23:14:54.908106+07:00"
+    },
+    {
+      "id": "6686d807fd57c9f4db1e1816d037de4b",
+      "title": "Tà Xùa vào top 26 điểm đến toàn cầu năm 2026",
+      "link": "https://vnexpress.net/ta-xua-vao-top-26-diem-den-toan-cau-nam-2026-5001225.html",
+      "summary": "Cảnh quan hoang sơ, ít thương mại hóa giúp Tà Xùa thành đại diện Việt Nam duy nhất vào danh sách gợi ý du lịch năm 2026 của kênh truyền hình Ấn Độ NDTV.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T15:34:47+07:00",
+      "fetched": "2026-01-02T23:14:51.511180+07:00"
+    },
+    {
+      "id": "9a5988c808398479f5bf023318638da8",
+      "title": "Đà Nẵng: Xử lý nhiều tài xế xe khách uống rượu bia, dương tính ma túy dịp Tết dương lịch",
+      "link": "https://thanhnien.vn/da-nang-xu-ly-nhieu-tai-xe-xe-khach-uong-ruou-bia-duong-tinh-ma-tuy-dip-tet-duong-lich-185260102190642267.htm",
+      "summary": "CSGT TP.Đà Nẵng phát hiện 6 tài xế xe khách vi phạm nồng độ cồn và dương tính ma túy trong dịp nghỉ Tết dương lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T15:33:00+07:00",
+      "fetched": "2026-01-02T23:14:54.908280+07:00"
+    },
+    {
+      "id": "f546047feffed514d41cdee8aa14bfbc",
+      "title": "Động đất rung chuyển Mexico, Tổng thống Sheinbaum sơ tán giữa họp báo",
+      "link": "https://thanhnien.vn/dong-dat-rung-chuyen-mexico-tong-thong-sheinbaum-so-tan-giua-hop-bao-185260102214259751.htm",
+      "summary": "Trận động đất mạnh với tâm chấn nông làm rung chuyển nhiều khu vực miền nam và miền trung Mexico, trong khi chưa có thông tin về thiệt hại nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T15:20:00+07:00",
+      "fetched": "2026-01-02T23:14:54.908460+07:00"
+    },
+    {
       "id": "23d81593f09f858d0c4f5a46b6e2f3df",
       "title": "Khách hàng nào dự kiến mang về cho BSR tới hơn 42.000 tỉ đồng?",
       "link": "https://tuoitre.vn/khach-hang-nao-du-kien-mang-ve-cho-bsr-toi-hon-42-000-ti-dong-20260102110654892.htm",
@@ -563,6 +673,86 @@ window.newsData_2026_01_02 = {
       "fetched": "2026-01-02T15:18:17.376077+07:00"
     },
     {
+      "id": "28c4b0cc765acd6dd2862cd7cc0ff6b3",
+      "title": "Trung Quốc chế tạo máy ly tâm mạnh nhất thế giới",
+      "link": "https://vnexpress.net/trung-quoc-che-tao-may-ly-tam-manh-nhat-the-gioi-5001239.html",
+      "summary": "Trung Quốc chế tạo máy ly tâm khổng lồ CHIEF1900 có thể \"nén\" không gian và thời gian, tái tạo những sự kiện lớn như vỡ đập, động đất, ngay trong phòng thí nghiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T15:01:20+07:00",
+      "fetched": "2026-01-02T23:14:51.511354+07:00"
+    },
+    {
+      "id": "28c4b0cc765acd6dd2862cd7cc0ff6b3",
+      "title": "Trung Quốc chế tạo máy ly tâm mạnh nhất thế giới",
+      "link": "https://vnexpress.net/trung-quoc-che-tao-may-ly-tam-manh-nhat-the-gioi-5001239.html",
+      "summary": "Trung Quốc chế tạo máy ly tâm khổng lồ CHIEF1900 có thể \"nén\" không gian và thời gian, tái tạo những sự kiện lớn như vỡ đập, động đất, ngay trong phòng thí nghiệm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-02T15:01:20+07:00",
+      "fetched": "2026-01-02T23:15:02.927629+07:00"
+    },
+    {
+      "id": "d9c22dc3b6e8f1325d9faa2e8936c274",
+      "title": "Jang Won Young (IVE) đối mặt chỉ trích vì phát ngôn liên quan đến Hồng Kông",
+      "link": "https://thanhnien.vn/jang-won-young-ive-doi-mat-chi-trich-vi-phat-ngon-lien-quan-den-hong-kong-185260102172716504.htm",
+      "summary": "Một câu nói trong video hậu trường MAMA 2025 khiến Jang Won Young vướng tranh cãi dữ dội. Cư dân mạng Trung Quốc phản ứng mạnh mẽ trước cách nữ idol 10X gọi Hồng Kông là 'quốc gia'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T15:01:00+07:00",
+      "fetched": "2026-01-02T23:14:54.908621+07:00"
+    },
+    {
+      "id": "d5bc9b4dfd002d8061f53881849f2300",
+      "title": "Người đàn ông khỏa thân gây rối trong lễ phát biểu của Nhật hoàng",
+      "link": "https://vnexpress.net/nguoi-dan-ong-khoa-than-gay-roi-trong-le-phat-bieu-cua-nhat-hoang-5001216.html",
+      "summary": "Một người đàn ông bị bắt sau khi cởi toàn bộ quần áo và trèo qua hàng rào trong buổi lễ phát biểu mừng năm mới 2026 của Nhật hoàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T14:59:20+07:00",
+      "fetched": "2026-01-02T23:14:51.511560+07:00"
+    },
+    {
+      "id": "d5bc9b4dfd002d8061f53881849f2300",
+      "title": "Người đàn ông khỏa thân gây rối trong lễ phát biểu của Nhật hoàng",
+      "link": "https://vnexpress.net/nguoi-dan-ong-khoa-than-gay-roi-trong-le-phat-bieu-cua-nhat-hoang-5001216.html",
+      "summary": "Một người đàn ông bị bắt sau khi cởi toàn bộ quần áo và trèo qua hàng rào trong buổi lễ phát biểu mừng năm mới 2026 của Nhật hoàng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-02T14:59:20+07:00",
+      "fetched": "2026-01-02T23:14:58.319095+07:00"
+    },
+    {
+      "id": "44119688199303aeec41352356102ac5",
+      "title": "Con trai của Tình Nhi 'Hoàn Châu cách cách' gây sốt với vẻ ngoài cực phẩm",
+      "link": "https://thanhnien.vn/con-trai-cua-tinh-nhi-hoan-chau-cach-cach-gay-sot-voi-ve-ngoai-cuc-pham-185260102182557891.htm",
+      "summary": "Vương Hoằng Khâm, con trai của nữ diễn viên Vương Diễm - người thủ vai Tình Nhi trong 'Hoàn Châu cách cách' bất ngờ gây chú ý nhờ ngoại hình nổi bật cùng thành tích học tập và thể thao ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T14:49:00+07:00",
+      "fetched": "2026-01-02T23:14:54.908772+07:00"
+    },
+    {
+      "id": "7200a58be7b5d4aab3ef119f751b212d",
+      "title": "U.23 Việt Nam đến Ả Rập Xê Út an toàn, Thanh Nhàn vẫn chưa đi lại được bình thường",
+      "link": "https://thanhnien.vn/u23-viet-nam-den-a-rap-xe-ut-an-toan-thanh-nhan-van-chua-di-lai-duoc-binh-thuong-185260102213017699.htm",
+      "summary": "Đội tuyển U.23 Việt Nam đã có mặt tại Ả Rập Xê Út an toàn, chính thức bước vào giai đoạn chuẩn bị cuối cùng cho vòng chung kết U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T14:46:00+07:00",
+      "fetched": "2026-01-02T23:14:54.908923+07:00"
+    },
+    {
+      "id": "d6ea5f17a525359450b890224bc511b7",
+      "title": "Tiếp viên hàng không 366 lần chiếm đoạt tiền bán đồ ăn, thức uống trên máy bay",
+      "link": "https://thanhnien.vn/tiep-vien-hang-khong-366-lan-chiem-doat-tien-ban-do-an-thuc-uong-tren-may-bay-185260102201513357.htm",
+      "summary": "Sau khi làm mất 2 túi tiền thu được từ việc bán đồ ăn và thức uống trên máy bay mà không bị chất vấn, một tiếp viên hàng không đã chiếm đoạt những khoản tiền này hàng trăm lần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T14:21:00+07:00",
+      "fetched": "2026-01-02T23:14:54.909081+07:00"
+    },
+    {
       "id": "eb78160b43f1d7f68bc87468a3197754",
       "title": "Ông Zelensky bổ nhiệm trùm tình báo làm Chánh văn phòng Tổng thống",
       "link": "https://vnexpress.net/ong-zelensky-bo-nhiem-trum-tinh-bao-lam-chanh-van-phong-tong-thong-5001229.html",
@@ -581,6 +771,26 @@ window.newsData_2026_01_02 = {
       "category": "Thế giới",
       "published": "2026-01-02T14:00:35+07:00",
       "fetched": "2026-01-02T21:13:12.406616+07:00"
+    },
+    {
+      "id": "f127798f7a42ce1afeedb05a24e2477a",
+      "title": "Ukraine bổ nhiệm trùm tình báo làm Chánh văn phòng Tổng thống",
+      "link": "https://vnexpress.net/ukraine-bo-nhiem-trum-tinh-bao-lam-chanh-van-phong-tong-thong-5001229.html",
+      "summary": "Tổng thống Zelensky bổ nhiệm lãnh đạo cơ quan tình báo quân đội Budanov làm chánh văn phòng thay cho ông Yermak, người từ chức hồi tháng 11/2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T14:00:35+07:00",
+      "fetched": "2026-01-02T23:14:51.511726+07:00"
+    },
+    {
+      "id": "f127798f7a42ce1afeedb05a24e2477a",
+      "title": "Ukraine bổ nhiệm trùm tình báo làm Chánh văn phòng Tổng thống",
+      "link": "https://vnexpress.net/ukraine-bo-nhiem-trum-tinh-bao-lam-chanh-van-phong-tong-thong-5001229.html",
+      "summary": "Tổng thống Zelensky bổ nhiệm lãnh đạo cơ quan tình báo quân đội Budanov làm chánh văn phòng thay cho ông Yermak, người từ chức hồi tháng 11/2025.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-02T14:00:35+07:00",
+      "fetched": "2026-01-02T23:14:58.319265+07:00"
     },
     {
       "id": "f7dbfe3fb1a7c05656499b422ef6acad",
@@ -621,6 +831,16 @@ window.newsData_2026_01_02 = {
       "category": "Tổng hợp",
       "published": "2026-01-02T13:33:02+07:00",
       "fetched": "2026-01-02T21:13:05.923785+07:00"
+    },
+    {
+      "id": "3044d575ac72d05917e113b0d0a3a89a",
+      "title": "Phí ra biển số ôtô tại Hà Nội, TP HCM giảm còn 14 triệu đồng",
+      "link": "https://vnexpress.net/phi-ra-bien-so-oto-tai-ha-noi-tp-hcm-giam-con-14-trieu-dong-5000967.html",
+      "summary": "Từ 1/1/2026, người mua ôtô con tại Hà Nội và TP HCM sẽ trả 14 triệu đồng tiền ra biển, thay vì 20 triệu như mức trước đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T13:33:02+07:00",
+      "fetched": "2026-01-02T23:14:51.512375+07:00"
     },
     {
       "id": "148d80fd182a7931555e35415039710d",
