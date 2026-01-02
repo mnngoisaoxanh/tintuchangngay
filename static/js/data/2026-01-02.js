@@ -1,6 +1,6 @@
 window.newsData_2026_01_02 = {
   "date": "2026-01-02",
-  "lastUpdated": "2026-01-02T10:23:16.596763+07:00",
+  "lastUpdated": "2026-01-02T11:32:45.114077+07:00",
   "articles": [
     {
       "id": "ff4bb335cb2feeceec4a57bd47162370",
@@ -253,6 +253,256 @@ window.newsData_2026_01_02 = {
       "fetched": "2026-01-02T05:12:03.726722+07:00"
     },
     {
+      "id": "b2efbc8bdb01825e2349c2da24b69604",
+      "title": "Phượng vàng rực rỡ đầu năm ở Bảo Lộc: 'Sứ giả mùa xuân' trên cao nguyên",
+      "link": "https://thanhnien.vn/phuong-vang-ruc-ro-dau-nam-o-bao-loc-su-gia-mua-xuan-tren-cao-nguyen-185260101213831617.htm",
+      "summary": "Nếu như phượng đỏ là âm thanh của mùa hè rực cháy, thì phượng vàng ở Bảo Lộc, Lâm Đồng lại là 'sứ giả của mùa xuân', là nét bút tài hoa vẽ lên bức tranh khởi đầu năm mới đầy hy vọng trên cao nguyên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T04:28:00+07:00",
+      "fetched": "2026-01-02T11:32:36.716829+07:00"
+    },
+    {
+      "id": "d9c209059ebaceb10aecf30d7a1107b6",
+      "title": "Cháy dữ dội chi nhánh cửa hàng xe ở TP.HCM trong tối đầu năm 2026",
+      "link": "https://thanhnien.vn/chay-du-doi-chi-nhanh-cua-hang-xe-o-tphcm-trong-toi-dau-nam-2026-185260102083848421.htm",
+      "summary": "Vụ cháy tại chi nhánh cửa hàng xe Isuzu ở xã Xuân Thới Sơn (TP.HCM) đã được dập tắt kịp thời. Công an đang điều tra nguyên nhân và mức độ thiệt hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T04:24:00+07:00",
+      "fetched": "2026-01-02T11:32:36.716995+07:00"
+    },
+    {
+      "id": "4cf7342fcb9216f2572e10424a35ed7d",
+      "title": "Năm mới trên chiến tuyến miền đông Ukraine",
+      "link": "https://vnexpress.net/nam-moi-tren-chien-tuyen-mien-dong-ukraine-5000943.html",
+      "summary": "Đối với thế giới, những ngày đầu năm mới ngập tràn niềm vui, nhưng với những người lính trên chiến tuyến miền đông Ukraine, đó chỉ đơn giản là thêm một ngày xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-02T04:22:48+07:00",
+      "fetched": "2026-01-02T11:32:39.463630+07:00"
+    },
+    {
+      "id": "a002b03689f4ed9aedffe428b4f6ba9c",
+      "title": "EVN yêu cầu nâng cấp hệ thống xử lý khí thải tại nhà máy nhiệt điện",
+      "link": "https://thanhnien.vn/evn-yeu-cau-nang-cap-he-thong-xu-ly-khi-thai-tai-nha-may-nhiet-dien-185260102111254009.htm",
+      "summary": "Đây là một trong những yêu cầu tại Chỉ thị số 8306 của Tập đoàn Điện lực Việt Nam gửi các đơn vị thành viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T04:20:00+07:00",
+      "fetched": "2026-01-02T11:32:36.717150+07:00"
+    },
+    {
+      "id": "43f9c992bcfa0af4abbf423e106f1e31",
+      "title": "Guardiola: 'Man City không ghi bàn trước Sunderland là điều bí ẩn'",
+      "link": "https://vnexpress.net/guardiola-man-city-khong-ghi-ban-truoc-sunderland-la-dieu-bi-an-5001051.html",
+      "summary": "HLV Pep Guardiola khó lý giải việc Man City không thể ghi bàn dù tạo ra nhiều cơ hội và để Sunderland cầm hòa 0-0 ở vòng 19 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-02T04:08:34+07:00",
+      "fetched": "2026-01-02T11:32:45.107894+07:00"
+    },
+    {
+      "id": "878d10ddf65f8330f17617bbc919de34",
+      "title": "Thêm những phát biểu mới về cuộc tập trận của Trung Quốc quanh Đài Loan",
+      "link": "https://thanhnien.vn/them-nhung-phat-bieu-moi-ve-cuoc-tap-tran-cua-trung-quoc-quanh-dai-loan-185260102081729731.htm",
+      "summary": "Mỹ tiếp tục lên tiếng về cuộc tập trận của Trung Quốc quanh đảo Đài Loan, trong khi Bắc Kinh tiếp tục nhắc lại lập trường cứng rắn về Đài Loan, khẳng định sự thống nhất của Trung Quốc là không thể ngăn cản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T04:06:00+07:00",
+      "fetched": "2026-01-02T11:32:36.717304+07:00"
+    },
+    {
+      "id": "c0384ebe29d20dfd4e17bcf1f44efcd3",
+      "title": "Lợi ích bất ngờ của trò chơi điện tử",
+      "link": "https://thanhnien.vn/loi-ich-bat-ngo-cua-tro-choi-dien-tu-185260101155506836.htm",
+      "summary": "Nghiên cứu gần đây được công bố trên tạp chí Nature Communications chỉ ra rằng, ngoài mục đích giải trí, trò chơi điện tử còn mang lại nhiều lợi ích cho nhận thức của não bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T04:04:00+07:00",
+      "fetched": "2026-01-02T11:32:36.717452+07:00"
+    },
+    {
+      "id": "b30a059094e55fadf4796310fb7a0989",
+      "title": "CIA không tin Ukraine tấn công dinh thự ông Putin, Nga nói sẽ chuyển dữ liệu",
+      "link": "https://thanhnien.vn/cia-khong-tin-ukraine-tan-cong-dinh-thu-ong-putin-nga-noi-se-chuyen-du-lieu-185260102111254962.htm",
+      "summary": "Cơ quan Tình báo trung ương Mỹ (CIA) kết luận rằng Ukraine không nhắm vào Tổng thống Nga Vladimir Putin hay bất kỳ dinh thự nào của ông trong vụ tấn công bằng máy bay không người lái (UAV) gây tranh cãi gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T04:03:00+07:00",
+      "fetched": "2026-01-02T11:32:36.717621+07:00"
+    },
+    {
+      "id": "fe6516f9d562e630a17fb7bae9d82786",
+      "title": "Xem nhanh 12h: ‘Hiệp sĩ’ Nguyễn Thanh Hải bị bắt | Ai được tăng lương tối thiểu vùng từ 2026?",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-hiep-si-nguyen-thanh-hai-bi-bat-ai-duoc-tang-luong-toi-thieu-vung-tu-2026-185260102105241981.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 2.1.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T04:00:00+07:00",
+      "fetched": "2026-01-02T11:32:36.717776+07:00"
+    },
+    {
+      "id": "68824360cfdf6329b784eff161ba624e",
+      "title": "Chính phủ Gabon đình chỉ đội tuyển sau màn trình diễn 'xấu hổ', FIFA sẽ vào cuộc?",
+      "link": "https://thanhnien.vn/chinh-phu-gabon-dinh-chi-doi-tuyen-sau-man-trinh-dien-xau-ho-fifa-se-vao-cuoc-185260102105639428.htm",
+      "summary": "Chính phủ Gabon đã đưa ra quyết định gây sốc khi đình chỉ toàn bộ đội tuyển quốc gia, giải tán ban huấn luyện và loại Pierre-Emerick Aubameyang khỏi đội hình sau thất bại toàn diện tại vòng chung kết Cúp bóng đá châu Phi (AFCON) diễn ra ở Ma Rốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:58:00+07:00",
+      "fetched": "2026-01-02T11:32:36.717928+07:00"
+    },
+    {
+      "id": "f92af469484b67fcbb5b36087d5c6645",
+      "title": "Tổng thống Venezuela dịu giọng với Mỹ giữa căng thẳng",
+      "link": "https://vnexpress.net/tong-thong-venezuela-diu-giong-voi-my-giua-cang-thang-5001055.html",
+      "summary": "Tổng thống Maduro không trả lời về vụ Mỹ tấn công bến tàu Venezuela, nhưng khẳng định sẵn sàng hợp tác với Washington trong lúc quan hệ căng thẳng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-02T03:50:12+07:00",
+      "fetched": "2026-01-02T11:32:39.463802+07:00"
+    },
+    {
+      "id": "94ea7e4e33e17ceba3ca4cc423f8ded5",
+      "title": "6 chính sách giao thông thay đổi ý thức tài xế",
+      "link": "https://thanhnien.vn/6-chinh-sach-giao-thong-thay-doi-y-thuc-tai-xe-18526010200211764.htm",
+      "summary": "6 chính sách lớn về trật tự, an toàn giao thông được triển khai, từ việc tăng mức xử phạt, quy định điểm GPLX, cho đến ứng dụng AI…, qua đó tác động trực tiếp đến ý thức tài xế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:49:00+07:00",
+      "fetched": "2026-01-02T11:32:36.718074+07:00"
+    },
+    {
+      "id": "88d2d83c3cca0d3b4ed9338729a5f22f",
+      "title": "FAM lại gây tranh cãi gay gắt vì một quyết định táo bạo, chưa biết bao giờ hết rối ren",
+      "link": "https://thanhnien.vn/fam-lai-gay-tranh-cai-gay-gat-vi-mot-quyet-dinh-tao-bao-chua-biet-bao-gio-het-roi-ren-185260102102000355.htm",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) quyết liệt bảo vệ HLV Ong Kim Swee, nhà cầm quân rất mê bóng đá trẻ Việt Nam và giải Thanh Niên sinh viên, trong chiến lược xây dựng lại nền bóng đá nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:48:00+07:00",
+      "fetched": "2026-01-02T11:32:36.718225+07:00"
+    },
+    {
+      "id": "676220972836dcb2f8cb288645fa2e25",
+      "title": "Giá USD hôm nay 2.1.2026: Đô tự do tăng",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-212026-do-tu-do-tang-185260102085120403.htm",
+      "summary": "Giá USD tự do tăng nhẹ trong ngày 2.1, dẫn đến cao hơn ngân hàng lên 770 đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:43:00+07:00",
+      "fetched": "2026-01-02T11:32:36.718369+07:00"
+    },
+    {
+      "id": "e85cbca4ad4a4fbdb8237fae4177d6d9",
+      "title": "Indonesia chưa chốt hợp đồng với HLV lý lịch 'khủng': Lương tháng có thể còn cao hơn 1 tỉ",
+      "link": "https://thanhnien.vn/indonesia-chua-chot-hop-dong-voi-hlv-ly-lich-khung-luong-thang-co-the-con-cao-hon-1-ti-185260102094237258.htm",
+      "summary": "Bóng đá Indonesia ban đầu dự kiến công bố tân HLV vào ngày đầu năm 2026. Nhưng đến lúc này, đội bóng xứ sở vạn đảo vẫn chưa có thuyền trưởng mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:41:00+07:00",
+      "fetched": "2026-01-02T11:32:36.718531+07:00"
+    },
+    {
+      "id": "5c759033548f110f9dc12452ae545331",
+      "title": "EVNSPC về đích vượt chỉ tiêu đầu tư xây dựng lưới điện năm 2025",
+      "link": "https://thanhnien.vn/evnspc-ve-dich-vuot-chi-tieu-dau-tu-xay-dung-luoi-dien-nam-2025-185260102105713834.htm",
+      "summary": "Chủ động đổi mới tư duy quản trị, linh hoạt trong điều hành và tổ chức thực hiện, Tổng công ty Điện lực miền Nam (EVNSPC) đã hoàn thành xuất sắc, vượt chỉ tiêu công tác đầu tư xây dựng lưới điện năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:40:00+07:00",
+      "fetched": "2026-01-02T11:32:36.718684+07:00"
+    },
+    {
+      "id": "40744de7f09514e94aa0d1a00e760c11",
+      "title": "Vợ Cổ Cự Cơ sinh con ở tuổi 57",
+      "link": "https://vnexpress.net/vo-co-cu-co-sinh-con-o-tuoi-57-5001059.html",
+      "summary": "Tài tử Hong Kong Cổ Cự Cơ cho biết vợ - Trần Vận Tình - sinh con trai thứ hai ở tuổi 57.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:32:52+07:00",
+      "fetched": "2026-01-02T11:32:33.676859+07:00"
+    },
+    {
+      "id": "4a7d7ae51c38ec48c8255479695374cb",
+      "title": "Cháy dữ dội quán bar Thụy Sĩ, hàng chục người thiệt mạng",
+      "link": "https://thanhnien.vn/chay-du-doi-quan-bar-thuy-si-hang-chuc-nguoi-thiet-mang-185260102101011454.htm",
+      "summary": "Giới chức Thụy Sĩ hôm 1.1 cho biết hàng chục người đã thiệt mạng và hơn 100 người bị thương, hầu hết đều bị thương nặng, sau khi một vụ hỏa hoạn bùng phát tại một quán bar trong bữa tiệc đêm giao thừa ở khu nghỉ dưỡng trượt tuyết Crans-Montana.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:30:00+07:00",
+      "fetched": "2026-01-02T11:32:36.718832+07:00"
+    },
+    {
+      "id": "1d71c59931fbdd80e2729b5775cd090b",
+      "title": "6 người thiệt mạng trong hỗn loạn biểu tình ở Iran",
+      "link": "https://vnexpress.net/6-nguoi-thiet-mang-trong-hon-loan-bieu-tinh-o-iran-5001005.html",
+      "summary": "Người biểu tình và lực lượng an ninh Iran đụng độ tại một số thành phố, khiến ít nhất 6 người chết, là những trường hợp thiệt mạng đầu tiên trong đợt bất ổn đã diễn ra nhiều ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:29:45+07:00",
+      "fetched": "2026-01-02T11:32:33.677039+07:00"
+    },
+    {
+      "id": "1d71c59931fbdd80e2729b5775cd090b",
+      "title": "6 người thiệt mạng trong hỗn loạn biểu tình ở Iran",
+      "link": "https://vnexpress.net/6-nguoi-thiet-mang-trong-hon-loan-bieu-tinh-o-iran-5001005.html",
+      "summary": "Người biểu tình và lực lượng an ninh Iran đụng độ tại một số thành phố, khiến ít nhất 6 người chết, là những trường hợp thiệt mạng đầu tiên trong đợt bất ổn đã diễn ra nhiều ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-02T03:29:45+07:00",
+      "fetched": "2026-01-02T11:32:39.463962+07:00"
+    },
+    {
+      "id": "cf7fe3049a79f79b7383f8a93b0cd005",
+      "title": "Lô nước tắm gội trẻ em bị thu hồi vì nhiễm vi sinh vật",
+      "link": "https://vnexpress.net/lo-nuoc-tam-goi-tre-em-bi-thu-hoi-vi-nhiem-vi-sinh-vat-5001048.html",
+      "summary": "Bộ Y tế vừa yêu cầu đình chỉ lưu hành, thu hồi trên toàn quốc lô nước tắm gội thảo dược Dr. Papie do không đạt tiêu chuẩn về giới hạn vi sinh vật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:25:15+07:00",
+      "fetched": "2026-01-02T11:32:33.677205+07:00"
+    },
+    {
+      "id": "7d7ed320a9f768bcbe975ab8ed5b827f",
+      "title": "Apple Maps hay Google Maps tốt hơn cho người dùng iPhone?",
+      "link": "https://thanhnien.vn/apple-maps-hay-google-maps-tot-hon-cho-nguoi-dung-iphone-185260101225904061.htm",
+      "summary": "Người dùng iPhone thường phải đối mặt với câu hỏi quan trọng khi cần chỉ đường: Nên dùng Apple Maps được cài sẵn hay chuyển sang Google Maps?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:23:00+07:00",
+      "fetched": "2026-01-02T11:32:36.718977+07:00"
+    },
+    {
+      "id": "a543a3d8a30b634cf94c1db1c40f3ce7",
+      "title": "Chạy thế nào cho đúng cách từ đầu năm mới",
+      "link": "https://vnexpress.net/chay-the-nao-cho-dung-cach-tu-dau-nam-moi-5001063.html",
+      "summary": "Chạy bộ là một trong những mục tiêu năm mới phổ biến nhất, nhưng cũng là thói quen dễ bị bỏ dở nhất, không hẳn vì các newbie thiếu ý chí, mà thường do bắt đầu sai cách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:20:48+07:00",
+      "fetched": "2026-01-02T11:32:33.677366+07:00"
+    },
+    {
+      "id": "a543a3d8a30b634cf94c1db1c40f3ce7",
+      "title": "Chạy thế nào cho đúng cách từ đầu năm mới",
+      "link": "https://vnexpress.net/chay-the-nao-cho-dung-cach-tu-dau-nam-moi-5001063.html",
+      "summary": "Chạy bộ là một trong những mục tiêu năm mới phổ biến nhất, nhưng cũng là thói quen dễ bị bỏ dở nhất, không hẳn vì các newbie thiếu ý chí, mà thường do bắt đầu sai cách.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-02T03:20:48+07:00",
+      "fetched": "2026-01-02T11:32:45.108048+07:00"
+    },
+    {
+      "id": "8f4d515be3ad48ce7c37a7cc0080238f",
+      "title": "Diễn viên 'Tuyệt đỉnh kungfu' qua đời",
+      "link": "https://vnexpress.net/dien-vien-tuyet-dinh-kungfu-qua-doi-5001035.html",
+      "summary": "Tài tử Hong Kong Viên Tường Nhân, đóng \"Tuyệt đỉnh kungfu\", \"Tinh Võ anh hùng\", qua đời ở tuổi 69.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:15:31+07:00",
+      "fetched": "2026-01-02T11:32:33.677537+07:00"
+    },
+    {
       "id": "8402441ba4f501d8af0760cbf7d788e8",
       "title": "Jennifer Lopez đáp trả khi bị chỉ trích mặc hở bạo ở tuổi U.60",
       "link": "https://thanhnien.vn/jennifer-lopez-dap-tra-khi-bi-chi-trich-mac-ho-bao-o-tuoi-u60-185260102100741007.htm",
@@ -303,6 +553,26 @@ window.newsData_2026_01_02 = {
       "fetched": "2026-01-02T10:23:05.231793+07:00"
     },
     {
+      "id": "3e40485b43d40d80b6b726338aa4041c",
+      "title": "Musk: Neuralink sẽ 'phẫu thuật gần như tự động' năm nay",
+      "link": "https://vnexpress.net/musk-neuralink-se-phau-thuat-gan-nhu-tu-dong-nam-nay-5000831.html",
+      "summary": "Elon Musk thông báo những mục tiêu mới của công ty Neuralink do ông đồng sáng lập, trong đó có quy trình phẫu thuật tự động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:02:46+07:00",
+      "fetched": "2026-01-02T11:32:33.677698+07:00"
+    },
+    {
+      "id": "3e40485b43d40d80b6b726338aa4041c",
+      "title": "Musk: Neuralink sẽ 'phẫu thuật gần như tự động' năm nay",
+      "link": "https://vnexpress.net/musk-neuralink-se-phau-thuat-gan-nhu-tu-dong-nam-nay-5000831.html",
+      "summary": "Elon Musk thông báo những mục tiêu mới của công ty Neuralink do ông đồng sáng lập, trong đó có quy trình phẫu thuật tự động.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-02T03:02:46+07:00",
+      "fetched": "2026-01-02T11:32:44.103743+07:00"
+    },
+    {
       "id": "618e31ae8fd2cce6ab83b8c944bd6af2",
       "title": "Ô tô điện Mercedes có nguy cơ cháy, hãng cảnh báo không nên sạc pin quá 80%",
       "link": "https://thanhnien.vn/o-to-dien-mercedes-co-nguy-co-chay-hang-canh-bao-khong-nen-sac-pin-qua-80-185260101114742102.htm",
@@ -311,6 +581,16 @@ window.newsData_2026_01_02 = {
       "category": "Tổng hợp",
       "published": "2026-01-02T03:02:00+07:00",
       "fetched": "2026-01-02T10:23:05.231959+07:00"
+    },
+    {
+      "id": "166c7fbb2d97cc96db998e5d5aa52924",
+      "title": "M&amp;A bất động sản dự báo sôi động trong 2026",
+      "link": "https://vnexpress.net/m-a-bat-dong-san-du-bao-soi-dong-trong-2026-5000963.html",
+      "summary": "Các chuyên gia dự báo nhà đầu tư trong và ngoài nước tiếp tục cuộc đua gom quỹ đất, đẩy mạnh M&A vào lĩnh vực nhà ở, khách sạn, công nghiệp trong năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:01:29+07:00",
+      "fetched": "2026-01-02T11:32:33.677859+07:00"
     },
     {
       "id": "f18b8e82b9489d5998980ea2cbd46000",
@@ -353,6 +633,86 @@ window.newsData_2026_01_02 = {
       "fetched": "2026-01-02T10:23:05.232584+07:00"
     },
     {
+      "id": "ba9644cfd8c870191307303093a1217b",
+      "title": "Vì sao ít người Anh nghĩ mình giàu có?",
+      "link": "https://vnexpress.net/vi-sao-it-nguoi-anh-nghi-minh-giau-co-5000173.html",
+      "summary": "Dù thu nhập gấp 7 lần mức trung bình và sở hữu tài sản triệu bảng, phần lớn tầng lớp tinh hoa tại Anh vẫn cảm thấy bất an và không thừa nhận mình giàu có.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:00:00+07:00",
+      "fetched": "2026-01-02T11:32:33.678021+07:00"
+    },
+    {
+      "id": "951499550c1a7a94b5050c4052fb437f",
+      "title": "Keo 502 gắn với thành ngữ quen thuộc nào?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-keo-502-gan-voi-thanh-ngu-quen-thuoc-nao-4999506.html",
+      "summary": "Thành ngữ còn chỉ mối quan hệ khăng khít, không thể chia rẽ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:00:00+07:00",
+      "fetched": "2026-01-02T11:32:33.678188+07:00"
+    },
+    {
+      "id": "2d1064f26010b9091eae476570b2e56f",
+      "title": "Bé 14 tháng tuổi nuốt thuốc hạ đường huyết vì tưởng kẹo",
+      "link": "https://vnexpress.net/be-14-thang-tuoi-nuot-thuoc-ha-duong-huyet-vi-tuong-keo-5001030.html",
+      "summary": "Bé Khang, 14 tháng tuổi, nuốt viên thuốc hạ đường huyết của bà nội để trên bàn vì tưởng kẹo, quá thời gian rửa dạ dày nên bác sĩ theo dõi chỉ số đường huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:00:00+07:00",
+      "fetched": "2026-01-02T11:32:33.678355+07:00"
+    },
+    {
+      "id": "3ab8a6480b57d18dd0a22479ca405a72",
+      "title": "Tế bào miễn dịch tấn công nhầm mô gây tăng áp phổi",
+      "link": "https://vnexpress.net/te-bao-mien-dich-tan-cong-nham-mo-gay-tang-ap-phoi-5001014.html",
+      "summary": "Bà Nghiệp, 76 tuổi, khó thở, sút cân, bác sĩ chẩn đoán tăng áp phổi do bệnh lý mô liên kết khiến hệ miễn dịch tấn công vào mạch máu phổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:00:00+07:00",
+      "fetched": "2026-01-02T11:32:33.678510+07:00"
+    },
+    {
+      "id": "7341783c9d59d483b312f8b01ad7b422",
+      "title": "Nguyên nhân gây tràn dịch màng phổi dịch tiết",
+      "link": "https://vnexpress.net/nguyen-nhan-gay-tran-dich-mang-phoi-dich-tiet-5001010.html",
+      "summary": "Tràn dịch màng phổi dịch tiết là biểu hiện của nhiều bệnh lý như nhiễm trùng, ung thư, rối loạn miễn dịch, ảnh hưởng đến chức năng hô hấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T03:00:00+07:00",
+      "fetched": "2026-01-02T11:32:33.678706+07:00"
+    },
+    {
+      "id": "32f5157994507e854d524f11bffb2e17",
+      "title": "Giá vàng, bạc thế giới tăng trở lại",
+      "link": "https://vnexpress.net/gia-vang-bac-the-gioi-tang-tro-lai-5001024.html",
+      "summary": "Mở cửa phiên giao dịch đầu tiên của năm 2026, giá vàng, giá bạc thế giới giao ngay đồng loạt đi lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T02:53:27+07:00",
+      "fetched": "2026-01-02T11:32:33.678865+07:00"
+    },
+    {
+      "id": "32f5157994507e854d524f11bffb2e17",
+      "title": "Giá vàng, bạc thế giới tăng trở lại",
+      "link": "https://vnexpress.net/gia-vang-bac-the-gioi-tang-tro-lai-5001024.html",
+      "summary": "Mở cửa phiên giao dịch đầu tiên của năm 2026, giá vàng, giá bạc thế giới giao ngay đồng loạt đi lên.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-02T02:53:27+07:00",
+      "fetched": "2026-01-02T11:32:40.475148+07:00"
+    },
+    {
+      "id": "65a6fac98e7533a8bb98f4da75419913",
+      "title": "Hơn 80% ca nhiễm HIV mới ở TP HCM lây qua đường tình dục",
+      "link": "https://vnexpress.net/hon-80-ca-nhiem-hiv-moi-o-tp-hcm-lay-qua-duong-tinh-duc-5000925.html",
+      "summary": "Tỷ lệ lây nhiễm HIV qua đường tình dục chiếm tới 81% tổng số ca phát hiện mới, trong đó nhóm nam quan hệ tình dục đồng giới (MSM) chiếm hơn một nửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T02:53:17+07:00",
+      "fetched": "2026-01-02T11:32:33.679024+07:00"
+    },
+    {
       "id": "296bf1fda12649470844026d0e40b84a",
       "title": "Nếu được thông qua, đề xuất này sẽ giúp giảm giá bất động sản",
       "link": "https://thanhnien.vn/neu-duoc-thong-qua-de-xuat-nay-se-giup-giam-gia-bat-dong-san-185260102092459189.htm",
@@ -361,6 +721,26 @@ window.newsData_2026_01_02 = {
       "category": "Tổng hợp",
       "published": "2026-01-02T02:52:00+07:00",
       "fetched": "2026-01-02T10:23:05.232737+07:00"
+    },
+    {
+      "id": "4c33be927dc31c78afa6dea0d2025177",
+      "title": "'Trả hàng hoàn tiền' - phương thức mua sắm gây ô nhiễm",
+      "link": "https://vnexpress.net/tra-hang-hoan-tien-phuong-thuc-mua-sam-gay-o-nhiem-5000639.html",
+      "summary": "Sau mùa mua sắm cuối năm, ngành bán lẻ bước vào mùa “trả hàng hoàn tiền”, với một phần ba số hàng hoàn không thể bán lại, đồng nghĩa phần lớn thải ra bãi rác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T02:49:38+07:00",
+      "fetched": "2026-01-02T11:32:33.679175+07:00"
+    },
+    {
+      "id": "4c33be927dc31c78afa6dea0d2025177",
+      "title": "'Trả hàng hoàn tiền' - phương thức mua sắm gây ô nhiễm",
+      "link": "https://vnexpress.net/tra-hang-hoan-tien-phuong-thuc-mua-sam-gay-o-nhiem-5000639.html",
+      "summary": "Sau mùa mua sắm cuối năm, ngành bán lẻ bước vào mùa “trả hàng hoàn tiền”, với một phần ba số hàng hoàn không thể bán lại, đồng nghĩa phần lớn thải ra bãi rác.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-02T02:49:38+07:00",
+      "fetched": "2026-01-02T11:32:40.475319+07:00"
     },
     {
       "id": "51dfec32c92c3f1181f8bfe7378eac00",
