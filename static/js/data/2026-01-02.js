@@ -1,7 +1,157 @@
 window.newsData_2026_01_02 = {
   "date": "2026-01-02",
-  "lastUpdated": "2026-01-02T19:24:04.216211+07:00",
+  "lastUpdated": "2026-01-02T21:13:19.127554+07:00",
   "articles": [
+    {
+      "id": "968f08d9f8a7143ab7b6ccb11a6de6ee",
+      "title": "Đưa logo và chữ ký doanh nghiệp vào tượng Thoại Ngọc Hầu chẳng khác nào 'thương mại hóa tín ngưỡng'",
+      "link": "https://tuoitre.vn/dua-logo-va-chu-ky-doanh-nghiep-vao-tuong-thoai-ngoc-hau-chang-khac-nao-thuong-mai-hoa-tin-nguong-20260102135120092.htm",
+      "summary": "Bài viết 'Vì sao thay tượng Thoại Ngọc Hầu mới có tên, logo và chữ ký doanh nghiệp cho tượng cũ tại đền thờ?' trên Tuổi Trẻ Online thu hút nhiều ý kiến của bạn đọc, trong đó không ít ý kiến bức xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.399383+07:00",
+      "fetched": "2026-01-02T21:13:10.399498+07:00"
+    },
+    {
+      "id": "516482d3062481d3300ce07c731df2d8",
+      "title": "Tham quan vườn quýt hồng Lai Vung, du khách khen nông dân sáng tạo",
+      "link": "https://tuoitre.vn/tham-quan-vuon-quyt-hong-lai-vung-du-khach-khen-nong-dan-sang-tao-20260102170450313.htm",
+      "summary": "Dịp Tết tây năm nay, Đồng Tháp tiếp tục đón lượng lớn du khách. Từ làng hoa Sa Đéc đến vườn quýt hồng Lai Vung tấp nập khách tham quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.399254+07:00",
+      "fetched": "2026-01-02T21:13:10.399368+07:00"
+    },
+    {
+      "id": "e5c1f586f26b42b0875e15bfdb056da0",
+      "title": "Uống bia sau khi chơi pickleball không tốt chút nào",
+      "link": "https://tuoitre.vn/uong-bia-sau-khi-choi-pickleball-khong-tot-chut-nao-20260102160050675.htm",
+      "summary": "Nhiều người cho rằng sau vài hiệp đánh pickleball, uống bia sẽ giúp giải khát, sảng khoái, tỉnh táo. Tuy nhiên về mặt sức khỏe, hành động này có thể gây ảnh hưởng đến sức khỏe như thế nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.399129+07:00",
+      "fetched": "2026-01-02T21:13:10.399243+07:00"
+    },
+    {
+      "id": "d2d77fa57c6cd9400551d7c2194f56d3",
+      "title": "Mỹ giải thể một phi đội quân đồn trú, Hàn Quốc cũng bất ngờ",
+      "link": "https://tuoitre.vn/my-giai-the-mot-phi-doi-quan-don-tru-han-quoc-cung-bat-ngo-20260102181604802.htm",
+      "summary": "Hàn Quốc cho rằng việc giải thể phi đội lục quân Mỹ nhiều khả năng không liên quan đến việc cắt giảm quân đồn trú ở nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.398993+07:00",
+      "fetched": "2026-01-02T21:13:10.399117+07:00"
+    },
+    {
+      "id": "7fcb28d35290805dd1fb4ab7e8b2835f",
+      "title": "Bóng đá Lào chia tay HLV Hàn Quốc",
+      "link": "https://tuoitre.vn/bong-da-lao-chia-tay-hlv-han-quoc-20260102182628865.htm",
+      "summary": "Liên đoàn Bóng đá Lào (LFF) không tiếp tục gia hạn hợp đồng với HLV Ha Hyeok Jun sau SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.398850+07:00",
+      "fetched": "2026-01-02T21:13:10.398981+07:00"
+    },
+    {
+      "id": "1a3099965223c906e837603071153df3",
+      "title": "Phi công hãng Air India có độ cồn vượt mức cho phép mà vẫn lên buồng lái",
+      "link": "https://tuoitre.vn/phi-cong-hang-air-india-co-do-con-vuot-muc-cho-phep-ma-van-len-buong-lai-20260102173702972.htm",
+      "summary": "Cơ quan quản lý giao thông Canada đã yêu cầu Hãng hàng không Air India điều tra sự cố liên quan đến việc một phi công bị phát hiện có dấu hiệu sử dụng rượu khi đến nhận nhiệm vụ bay tại sân bay Vancouver.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.398727+07:00",
+      "fetched": "2026-01-02T21:13:10.398839+07:00"
+    },
+    {
+      "id": "bcd5a923b35732c93c9c6c05b1cc3142",
+      "title": "Vitamin C 'nuôi' làn da từ bên trong ra sao?",
+      "link": "https://tuoitre.vn/vitamin-c-nuoi-lan-da-tu-ben-trong-ra-sao-20260102173228117.htm",
+      "summary": "Các nhà khoa học phát hiện vitamin C từ thực phẩm có thể đi theo dòng máu đến mọi lớp của da, thúc đẩy sản sinh collagen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.398603+07:00",
+      "fetched": "2026-01-02T21:13:10.398716+07:00"
+    },
+    {
+      "id": "30871db5deb1513661bfabc615edd8ca",
+      "title": "Bộ Giáo dục và Đào tạo bác thông tin ‘không dạy về Quang Trung' trong sách giáo khoa chung toàn quốc",
+      "link": "https://tuoitre.vn/bo-giao-duc-va-dao-tao-bac-thong-tin-khong-day-ve-quang-trung-trong-sach-giao-khoa-chung-toan-quoc-20260102184707649.htm",
+      "summary": "Trước thông tin cho rằng sách Lịch sử và Địa lý lớp 5 của bộ sách \"Kết nối tri thức với cuộc sống\" không dạy về Quang Trung nhưng có nội dung về Nguyễn Ánh, Bộ Giáo dục và Đào tạo nói gì?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.398477+07:00",
+      "fetched": "2026-01-02T21:13:10.398592+07:00"
+    },
+    {
+      "id": "2c08fd8f259046d0cb72fce9f3e01247",
+      "title": "Bê bối cải tạo chung cư ở Hong Kong: có hối lộ, có xã hội đen",
+      "link": "https://tuoitre.vn/be-boi-cai-tao-chung-cu-o-hong-kong-co-hoi-lo-co-xa-hoi-den-20260102190001162.htm",
+      "summary": "Cơ quan chống tham nhũng Hong Kong ngày 2-1 đã bắt 21 người bị tình nghi liên quan đến tham nhũng trong hoạt động cải tạo, sửa chữa tại hai khu nhà ở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.398351+07:00",
+      "fetched": "2026-01-02T21:13:10.398466+07:00"
+    },
+    {
+      "id": "6fca2f10ab3cc44648e2ec6006f09e71",
+      "title": "Việt Nam bị xem 'cửa dưới' trong trận ra quân Giải U23 châu Á",
+      "link": "https://tuoitre.vn/viet-nam-bi-xem-cua-duoi-trong-tran-ra-quan-giai-u23-chau-a-20260102132227457.htm",
+      "summary": "Lúc 18h30 chiều 6-1 (giờ Việt Nam), Việt Nam sẽ chạm trán Jordan trong trận khai mạc Giải U23 châu Á 2026. Đây là đối thủ cực mạnh, được xếp vào nhóm những nền bóng đá đang lên của châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.398223+07:00",
+      "fetched": "2026-01-02T21:13:10.398340+07:00"
+    },
+    {
+      "id": "a4a8f7e114f394909f23c9e485ac1e29",
+      "title": "Chiến dịch Xuân tình nguyện 2026 'chốt đơn' dàn đại sứ cực chất",
+      "link": "https://tuoitre.vn/chien-dich-xuan-tinh-nguyen-2026-chot-don-dan-dai-su-cuc-chat-20260102191120387.htm",
+      "summary": "Chiến dịch Xuân tình nguyện 2026 được tiếp lửa với những gương mặt đại sứ tiêu biểu, đại diện cho trí tuệ, xung kích, tài năng và trái tim nhân ái của thế hệ trẻ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.398096+07:00",
+      "fetched": "2026-01-02T21:13:10.398212+07:00"
+    },
+    {
+      "id": "828af5f49e43e7a147ba684c9ca073da",
+      "title": "Ông lớn 100 Entertainment nợ thù lao của Baekhyun, Taemin hàng tỉ won",
+      "link": "https://tuoitre.vn/ong-lon-100-entertainment-no-thu-lao-cua-baekhyun-taemin-hang-ti-won-20260102182638896.htm",
+      "summary": "Thông tin nhiều nghệ sĩ K-pop nổi tiếng như Baekhyun, Taemin và The Boyz bị chậm thanh toán thù lao với tổng số tiền lên đến khoảng 5 tỉ won đang gây xôn xao dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.397968+07:00",
+      "fetched": "2026-01-02T21:13:10.398084+07:00"
+    },
+    {
+      "id": "14a09f0965d5f82dd970ab5b3a66a09b",
+      "title": "‘Hố tử thần’ sâu 3m xuất hiện trên quốc lộ tại Quảng Trị",
+      "link": "https://tuoitre.vn/ho-tu-than-sau-3m-xuat-hien-tren-quoc-lo-tai-quang-tri-20260102164307413.htm",
+      "summary": "Trên quốc lộ 9B đoạn qua xã Lệ Ninh (tỉnh Quảng Trị), một “hố tử thần” sâu 3m xuất hiện ngay giữa đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.397812+07:00",
+      "fetched": "2026-01-02T21:13:10.397955+07:00"
+    },
+    {
+      "id": "4d86a73e173ae5ef201dfca644afe532",
+      "title": "Bé trai chảy máu mũi cả tuần vì con vắt sống ký sinh trong hốc mũi",
+      "link": "https://tuoitre.vn/be-trai-chay-mau-mui-ca-tuan-vi-con-vat-song-ky-sinh-trong-hoc-mui-20260102162834387.htm",
+      "summary": "Chảy máu mũi kéo dài, khó thở khi ngủ suốt nhiều ngày, một bé trai 30 tháng tuổi ở Quảng Ngãi được gia đình đưa đi khám và bất ngờ phát hiện một con vắt đang sống ký sinh trong hốc mũi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.397664+07:00",
+      "fetched": "2026-01-02T21:13:10.397799+07:00"
+    },
+    {
+      "id": "1a74b110ef2faf697255a94732c0a818",
+      "title": "Giá vàng bạc tăng mạnh ngay ngày giao dịch đầu năm mới",
+      "link": "https://tuoitre.vn/gia-vang-bac-tang-manh-ngay-ngay-giao-dich-dau-nam-moi-2026010219283901.htm",
+      "summary": "Sau đợt suy giảm vào cuối năm 2025, giá vàng và giá bạc đã hồi phục mạnh ngay ngày đầu tiên giao dịch trở lại trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T21:13:10.397437+07:00",
+      "fetched": "2026-01-02T21:13:10.397648+07:00"
+    },
     {
       "id": "5c04c154e0edbf480b59b6f324177799",
       "title": "Bắt kẻ bị truy nã đặc biệt, từng trốn trại cùng Triệu Quân Sự",
@@ -413,6 +563,76 @@ window.newsData_2026_01_02 = {
       "fetched": "2026-01-02T15:18:17.376077+07:00"
     },
     {
+      "id": "eb78160b43f1d7f68bc87468a3197754",
+      "title": "Ông Zelensky bổ nhiệm trùm tình báo làm Chánh văn phòng Tổng thống",
+      "link": "https://vnexpress.net/ong-zelensky-bo-nhiem-trum-tinh-bao-lam-chanh-van-phong-tong-thong-5001229.html",
+      "summary": "Tổng thống Zelensky bổ nhiệm lãnh đạo cơ quan tình báo quân đội Budanov làm chánh văn phòng thay cho ông Yermak, người từ chức hồi tháng 11/2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T14:00:35+07:00",
+      "fetched": "2026-01-02T21:13:05.923121+07:00"
+    },
+    {
+      "id": "eb78160b43f1d7f68bc87468a3197754",
+      "title": "Ông Zelensky bổ nhiệm trùm tình báo làm Chánh văn phòng Tổng thống",
+      "link": "https://vnexpress.net/ong-zelensky-bo-nhiem-trum-tinh-bao-lam-chanh-van-phong-tong-thong-5001229.html",
+      "summary": "Tổng thống Zelensky bổ nhiệm lãnh đạo cơ quan tình báo quân đội Budanov làm chánh văn phòng thay cho ông Yermak, người từ chức hồi tháng 11/2025.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-02T14:00:35+07:00",
+      "fetched": "2026-01-02T21:13:12.406616+07:00"
+    },
+    {
+      "id": "f7dbfe3fb1a7c05656499b422ef6acad",
+      "title": "Mẹ chồng nói tôi không biết giữ chồng khi anh ngoại tình",
+      "link": "https://vnexpress.net/me-chong-noi-toi-khong-biet-giu-chong-khi-anh-ngoai-tinh-5001211.html",
+      "summary": "Hóa ra, sự phản bội của con trai bà là chuyện có thể bỏ qua, còn nỗi đau của tôi thì bị quy về hai chữ \"không khéo\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T14:00:00+07:00",
+      "fetched": "2026-01-02T21:13:05.923306+07:00"
+    },
+    {
+      "id": "c3347e4f3f9dbd6260436bf308d39069",
+      "title": "Người dân nước nào uống bia nhiều nhất thế giới?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-uong-bia-nhieu-nhat-the-gioi-5001228.html",
+      "summary": "Trung bình mỗi người dân nước này uống hơn 152 lít bia mỗi năm, cao nhất thế giới suốt 31 năm qua. Bạn có biết đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T13:39:44+07:00",
+      "fetched": "2026-01-02T21:13:05.923469+07:00"
+    },
+    {
+      "id": "b7dd2e2c1be33d03bedb81e66e0e0136",
+      "title": "Vẻ đẹp mùa xuân trong 'Sách Tết Bính Ngọ 2026'",
+      "link": "https://vnexpress.net/ve-dep-mua-xuan-trong-sach-tet-binh-ngo-2026-5000724.html",
+      "summary": "Mùa xuân và ngày Tết hiện lên qua trang văn, câu thơ, giai điệu, nét vẽ trong cuốn \"Sách Tết Bính Ngọ 2026\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T13:37:29+07:00",
+      "fetched": "2026-01-02T21:13:05.923629+07:00"
+    },
+    {
+      "id": "12163db4e8183a349213c0e7442f930d",
+      "title": "Phí ra biển số ôtô tại Hà Nội, TP HCM dự kiến giảm còn 14 triệu đồng từ 2026",
+      "link": "https://vnexpress.net/phi-ra-bien-so-oto-tai-ha-noi-tp-hcm-du-kien-giam-con-14-trieu-dong-tu-2026-5000967.html",
+      "summary": "Theo dự thảo, từ năm 2026, người mua ôtô con tại Hà Nội và TP HCM sẽ trả 14 triệu đồng tiền ra biển, thay vì 20 triệu như mức trước đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T13:33:02+07:00",
+      "fetched": "2026-01-02T21:13:05.923785+07:00"
+    },
+    {
+      "id": "148d80fd182a7931555e35415039710d",
+      "title": "Giá vàng thế giới tăng trong ngày đầu năm",
+      "link": "https://thanhnien.vn/gia-vang-the-gioi-tang-trong-ngay-dau-nam-185260102195004784.htm",
+      "summary": "Trong phiên giao dịch Mỹ (đêm 2.1), giá vàng thế giới đã tăng thêm 7 USD mỗi ounce, nâng tổng mức tăng trong ngày lên 80 USD/ounce, có thời điểm lên 4.400 USD. Giá vàng trong nước cũng đã tăng từ 700.000 đến 1,2 triệu đồng mỗi lượng trong ngày 2.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T13:21:00+07:00",
+      "fetched": "2026-01-02T21:13:09.232321+07:00"
+    },
+    {
       "id": "3616423cca7e0bf2fe70d88cd1649059",
       "title": "Phản ứng hành vi khiếm nhã, cô gái bị người đàn ông đánh tét đầu trong quán cà phê",
       "link": "https://tuoitre.vn/phan-ung-hanh-vi-khiem-nha-co-gai-bi-nguoi-dan-ong-danh-tet-dau-trong-quan-ca-phe-20260102100303569.htm",
@@ -563,6 +783,76 @@ window.newsData_2026_01_02 = {
       "fetched": "2026-01-02T13:20:47.715674+07:00"
     },
     {
+      "id": "8328d574a7f144818610257270be879c",
+      "title": "Phía sau 'chồng đầu bếp học dốt thu nhập cao hơn kỹ sư, thạc sĩ'",
+      "link": "https://vnexpress.net/phia-sau-chong-dau-bep-hoc-dot-thu-nhap-cao-hon-ky-su-thac-si-5001123.html",
+      "summary": "Vì sao chuyện cô vợ trêu đùa 'chồng học dốt nhưng thu nhập ổn định nhờ giỏi nghề đầu bếp' gây tranh luận mạnh mẽ'?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T13:11:55+07:00",
+      "fetched": "2026-01-02T21:13:05.923989+07:00"
+    },
+    {
+      "id": "2b14f8640acad842fc43ec42944ed00c",
+      "title": "Thiếu quân, Ukraine chịu áp lực 'dữ dội' ở miền nam",
+      "link": "https://thanhnien.vn/thieu-quan-ukraine-chiu-ap-luc-du-doi-o-mien-nam-185260102171743156.htm",
+      "summary": "Theo đài CNN, lực lượng Ukraine đang chịu áp lực ngày càng tăng ở miền nam, nơi các đơn vị được trang bị kém hơn đang bị các lữ đoàn Nga áp đảo., những lực lượng đã chiếm giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T13:01:00+07:00",
+      "fetched": "2026-01-02T21:13:09.232496+07:00"
+    },
+    {
+      "id": "87a8ce4586783ba05d26c02a13e449d9",
+      "title": "Xem nhanh 20h ngày 2.1: Hàng loạt ô tô đỗ vỉa hè chung cư bị phạt nguội | Ngày mai nhiệt độ TP.HCM 19 độ C",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-21-hang-loat-o-to-do-via-he-chung-cu-bi-phat-nguoi-ngay-mai-nhiet-do-tphcm-19-do-c-185260102160649407.htm",
+      "summary": "'Xem nhanh 20h' ngày 2.1 có nhiều tin tức đáng chú ý về: Ngày mai, nhiệt độ TP.HCM có thể giảm còn 19 độ C; hàng loạt ô tô đỗ trên vỉa hè chung cư, trong hẻm bị CSGT TP.HCM phạt nguội;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T13:00:00+07:00",
+      "fetched": "2026-01-02T21:13:09.232653+07:00"
+    },
+    {
+      "id": "8ba31d1ae3b8b7256ea47f02f15faf75",
+      "title": "Thụy Sĩ công bố quốc tang sau thảm kịch đêm giao thừa khiến 40 người thiệt mạng",
+      "link": "https://thanhnien.vn/thuy-si-cong-bo-quoc-tang-sau-tham-kich-dem-giao-thua-khien-40-nguoi-thiet-mang-185260102183317195.htm",
+      "summary": "Tổng thống Thụy Sĩ công bố quốc tang sau thảm kịch cháy quán bar khiến khoảng 40 người thiệt mạng và 115 người bị thương, một trong những thảm kịch đau thương nhất tại nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T12:47:00+07:00",
+      "fetched": "2026-01-02T21:13:09.232805+07:00"
+    },
+    {
+      "id": "72f6c231bbc140fb263759d36dc3a5cd",
+      "title": "Bà Melania Trump diện đầm ôm trong tiệc đón năm mới",
+      "link": "https://vnexpress.net/ba-melania-trump-dien-dam-om-trong-tiec-don-nam-moi-5001191.html",
+      "summary": "Bà Melania Trump - vợ Tổng thống Mỹ Donald Trump - mặc đầm ôm đính sequin khi cùng chồng dự tiệc giao thừa ở dinh thự Mar-a-Lago.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T12:34:12+07:00",
+      "fetched": "2026-01-02T21:13:05.924153+07:00"
+    },
+    {
+      "id": "5ba2159afa168586c5a53e5f750fc3a1",
+      "title": "‘Chiến dịch Quang Trung’: Người đàn ông neo đơn nhận nhà mới đầu năm",
+      "link": "https://thanhnien.vn/chien-dich-quang-trung-nguoi-dan-ong-neo-don-nhan-nha-moi-dau-nam-185260102180442337.htm",
+      "summary": "'Chiến dịch Quang Trung' tiếp tục lan tỏa tinh thần xung kích, nghĩa tình khi cán bộ, chiến sĩ Công an tỉnh Gia Lai thần tốc hoàn thành, bàn giao nhà mới cho ông Nguyễn Văn Thuận, người neo đơn, mất nhà do bão số 13.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T12:33:00+07:00",
+      "fetched": "2026-01-02T21:13:09.232978+07:00"
+    },
+    {
+      "id": "6e3b71a783a51f0c4b1d1974ec1d7d62",
+      "title": "Tranh các loài vật sống động như thật",
+      "link": "https://vnexpress.net/tranh-cac-loai-vat-song-dong-nhu-that-5001135.html",
+      "summary": "Họa sĩ Hàn Quốc Kim Young-sung vẽ ốc sên, cá, Leon Fouche khắc họa các loài động vật hoang dã chân thực như ảnh chụp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T12:30:40+07:00",
+      "fetched": "2026-01-02T21:13:05.924307+07:00"
+    },
+    {
       "id": "0fb41a6d54f8a64b22887433e90da9f9",
       "title": "Hào hứng check-in cùng linh vật 'Ngựa Vui Vẻ' miễn phí dịp nghỉ Tết Dương lịch 2026",
       "link": "https://thanhnien.vn/hao-hung-check-in-cung-linh-vat-ngua-vui-ve-mien-phi-dip-nghi-tet-duong-lich-2026-185260102155725716.htm",
@@ -603,6 +893,16 @@ window.newsData_2026_01_02 = {
       "fetched": "2026-01-02T19:23:57.099489+07:00"
     },
     {
+      "id": "53896707879ecb24fd289579e5483eaa",
+      "title": "Hiện trạng Bến du thuyền Vũ Nhôm trước khi thành công trình công cộng",
+      "link": "https://vnexpress.net/hien-trang-ben-du-thuyen-vu-nhom-truoc-khi-thanh-cong-trinh-cong-cong-5001156.html",
+      "summary": "Bến du thuyền do doanh nghiệp của Phan Văn Anh Vũ đầu tư, hoàn thành từ năm 2017, nay xuống cấp, nhếch nhác nên đã được thành phố thống nhất chuyển đổi công năng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T12:03:47+07:00",
+      "fetched": "2026-01-02T21:13:05.924632+07:00"
+    },
+    {
       "id": "c754be1d290f82991bd086b95da4ff22",
       "title": "Niềm tin doanh nghiệp sản xuất cao nhất gần 2 năm",
       "link": "https://vnexpress.net/niem-tin-doanh-nghiep-san-xuat-cao-nhat-gan-2-nam-5001168.html",
@@ -641,6 +941,16 @@ window.newsData_2026_01_02 = {
       "category": "Công nghệ",
       "published": "2026-01-02T12:00:00+07:00",
       "fetched": "2026-01-02T19:24:02.140638+07:00"
+    },
+    {
+      "id": "42e4195ed7a22c59562c9a7a337730bb",
+      "title": "Hàng nghìn người dự lễ cầu siêu theo truyền thống Kim cương thừa",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-du-le-cau-sieu-theo-truyen-thong-kim-cuong-thua-5001179.html",
+      "summary": "Người dân, Phật tử tỉnh xa về bảo tháp Mandala Tây Thiên, xã Tam Đảo dự lễ cầu siêu đầu năm mới theo truyền thống Phật giáo Kim cương thừa, ngày 2/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T11:58:03+07:00",
+      "fetched": "2026-01-02T21:13:05.925283+07:00"
     },
     {
       "id": "08d4b74cc4f344059233f0339805c8b2",
