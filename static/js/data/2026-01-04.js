@@ -1,6 +1,6 @@
 window.newsData_2026_01_04 = {
   "date": "2026-01-04",
-  "lastUpdated": "2026-01-04T03:13:33.251932+07:00",
+  "lastUpdated": "2026-01-04T05:11:41.957079+07:00",
   "articles": [
     {
       "id": "9c75f57eea86fe9c335ac7abbcc612df",
@@ -151,6 +151,76 @@ window.newsData_2026_01_04 = {
       "category": "Tổng hợp",
       "published": "2026-01-04T01:17:15.968455+07:00",
       "fetched": "2026-01-04T01:17:15.968670+07:00"
+    },
+    {
+      "id": "27a6520979fea6f94544e6bd1ea311cc",
+      "title": "Chiến sự Ukraine ngày 1.410: Nga đạt được bước tiến lớn trong năm 2025",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1410-nga-dat-duoc-buoc-tien-lon-trong-nam-2025-185260103214425028.htm",
+      "summary": "Phân tích mới công bố cho thấy quân đội Nga đã mở rộng kiểm soát trên lãnh thổ Ukraine trong năm 2025, thậm chí còn nhiều hơn hai năm trước đó gộp lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T22:00:00+07:00",
+      "fetched": "2026-01-04T05:11:30.523622+07:00"
+    },
+    {
+      "id": "ad94db719fa3c5189a35e80dce0ff135",
+      "title": "Anthony Joshua thoát chết nhờ quyết định vào phút chót",
+      "link": "https://vnexpress.net/anthony-joshua-thoat-chet-nho-quyet-dinh-vao-phut-chot-5001522.html",
+      "summary": "Cựu vô địch quyền Anh hạng nặng thế giới Anthony Joshua đổi chỗ ngồi chỉ ít phút trước vụ tai nạn giao thông nghiêm trọng khiến hai người bạn thiệt mạng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-03T21:47:43+07:00",
+      "fetched": "2026-01-04T05:11:41.952176+07:00"
+    },
+    {
+      "id": "a0c48dc8ebd885718458347799ebedbb",
+      "title": "Arteta: 'Tôi mê cá tính và sự điềm tĩnh của Arsenal'",
+      "link": "https://vnexpress.net/arteta-toi-me-ca-tinh-va-su-diem-tinh-cua-arsenal-5001525.html",
+      "summary": "HLV Mikel Arteta ca ngợi bản lĩnh và sự kiên cường của Arsenal sau trận thắng ngược 3-2 trên sân Bournemouth ở vòng 20 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-03T21:43:19+07:00",
+      "fetched": "2026-01-04T05:11:41.952360+07:00"
+    },
+    {
+      "id": "57c0abf57c926be0e6cc16ed8eb5bac0",
+      "title": "Từ ngày 1.1, người lao động TP.HCM và Hà Nội được tăng lương như thế nào?",
+      "link": "https://thanhnien.vn/tu-ngay-11-nguoi-lao-dong-tphcm-va-ha-noi-duoc-tang-luong-nhu-the-nao-185260103151220519.htm",
+      "summary": "Cùng sống ở TP.HCM và Hà Nội nhưng không phải người lao động nào cũng được tăng mức lương tối thiểu với số tiền như nhau mà phải phụ thuộc vào địa bàn cấp xã, phường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T21:31:00+07:00",
+      "fetched": "2026-01-04T05:11:30.523796+07:00"
+    },
+    {
+      "id": "e0239ec92c982226070f7a883b7c0f4c",
+      "title": "Nước rau má: Uống mỗi ngày có tốt cho gan?",
+      "link": "https://thanhnien.vn/nuoc-rau-ma-uong-moi-ngay-co-tot-cho-gan-185260103205324958.htm",
+      "summary": "Rau má thường được xem như 'thức uống mát gan' quen thuộc của người Việt. Nhưng việc uống nước rau má mỗi ngày liệu có thực sự giúp gan khỏe hơn hay ngược lại?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T21:09:00+07:00",
+      "fetched": "2026-01-04T05:11:30.523955+07:00"
+    },
+    {
+      "id": "af18cfea60ac91155be8a2f48126a811",
+      "title": "Arsenal hơn Man City 7 điểm",
+      "link": "https://vnexpress.net/arsenal-hon-man-city-7-diem-5001524.html",
+      "summary": "Arsenal thắng chủ nhà Bournemouth 3-2 ở vòng 20 Ngoại hạng Anh để nới rộng cách biệt với Man City lên bảy điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T20:35:51+07:00",
+      "fetched": "2026-01-04T05:11:27.132193+07:00"
+    },
+    {
+      "id": "af18cfea60ac91155be8a2f48126a811",
+      "title": "Arsenal hơn Man City 7 điểm",
+      "link": "https://vnexpress.net/arsenal-hon-man-city-7-diem-5001524.html",
+      "summary": "Arsenal thắng chủ nhà Bournemouth 3-2 ở vòng 20 Ngoại hạng Anh để nới rộng cách biệt với Man City lên bảy điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-03T20:35:51+07:00",
+      "fetched": "2026-01-04T05:11:41.952002+07:00"
     },
     {
       "id": "edc33206a59301350360188c62e458db",
