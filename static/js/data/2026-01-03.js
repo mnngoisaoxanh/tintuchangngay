@@ -1,7 +1,157 @@
 window.newsData_2026_01_03 = {
   "date": "2026-01-03",
-  "lastUpdated": "2026-01-03T15:16:20.972811+07:00",
+  "lastUpdated": "2026-01-03T17:12:13.515798+07:00",
   "articles": [
+    {
+      "id": "9bff131eaae6a6344907728327a9dc55",
+      "title": "Công nhân 'đội' rét 13 độ hối hả thi công đường vành đai 1 xuyên ngày nghỉ lễ",
+      "link": "https://tuoitre.vn/cong-nhan-doi-ret-13-do-hoi-ha-thi-cong-duong-vanh-dai-1-xuyen-ngay-nghi-le-2026010313183367.htm",
+      "summary": "Bất chấp thời tiết, hàng trăm công nhân trên tuyến vành đai 1, đoạn Hoàng Cầu - Voi Phục, vẫn bám công trường, làm việc xuyên lễ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.984527+07:00",
+      "fetched": "2026-01-03T17:12:07.984639+07:00"
+    },
+    {
+      "id": "ddee9fc566d0a1931aa55121eeac5123",
+      "title": "Ăn nhiều chất béo, giảm tinh bột có 'nuôi' ung thư gan?",
+      "link": "https://tuoitre.vn/an-nhieu-chat-beo-giam-tinh-bot-co-nuoi-ung-thu-gan-20260103001127965.htm",
+      "summary": "Một nghiên cứu mới cho thấy chế độ ăn nhiều chất béo và rất ít tinh bột (kiểu keto) có thể khiến tế bào gan thay đổi theo hướng dễ tổn thương hơn trước bệnh ung thư về lâu dài, đặt ra câu hỏi về độ an toàn sinh học của trào lưu ăn keto kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.984401+07:00",
+      "fetched": "2026-01-03T17:12:07.984516+07:00"
+    },
+    {
+      "id": "721b81c54a5a4c1a2593377dc8487930",
+      "title": "Hai lính Hải quân Mỹ bị tố nhận hàng chục nghìn USD để kết hôn giả với người Trung Quốc",
+      "link": "https://tuoitre.vn/hai-linh-hai-quan-my-bi-to-nhan-hang-chuc-nghin-usd-de-ket-hon-gia-voi-nguoi-trung-quoc-20260103135803238.htm",
+      "summary": "Hai nữ quân nhân Hải quân Mỹ đối mặt mức án 5 năm tù vì tội kết hôn giả để giúp công dân Trung Quốc lấy thẻ xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.984269+07:00",
+      "fetched": "2026-01-03T17:12:07.984389+07:00"
+    },
+    {
+      "id": "db78228e690f21a1a965c53094bc3620",
+      "title": "Ngôi nhà gỗ ‘lạ’ trước lăng mộ Hoàng thái hậu Từ Dụ",
+      "link": "https://tuoitre.vn/ngoi-nha-go-la-truoc-lang-mo-hoang-thai-hau-tu-du-20260103100646675.htm",
+      "summary": "Một ngôi nhà gỗ được dựng lên ngay trước lối ra vào Xương Thọ lăng - nơi yên nghỉ của Hoàng thái hậu Từ Dụ (vợ vua Thiệu Trị, mẹ của vua Tự Đức).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.984143+07:00",
+      "fetched": "2026-01-03T17:12:07.984258+07:00"
+    },
+    {
+      "id": "872c5bcd762ae45795f33ac9307e1b86",
+      "title": "Ngắm những chiếc vương miện quý hiếm của Hoàng gia châu Âu",
+      "link": "https://tuoitre.vn/ngam-nhung-chiec-vuong-mien-quy-hiem-cua-hoang-gia-chau-au-20260103113017284.htm",
+      "summary": "Năm vừa qua, khán giả có cơ hội chứng kiến những chiếc vương miện nổi bật, quý hiếm từng được các nữ hoàng và công chúa châu Âu sử dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.984013+07:00",
+      "fetched": "2026-01-03T17:12:07.984131+07:00"
+    },
+    {
+      "id": "b2c0e71dec34c5982542e7a227778cc2",
+      "title": "Phim truyền hình Việt 2026: Vẫn sẽ nhọc nhằn kéo khán giả",
+      "link": "https://tuoitre.vn/phim-truyen-hinh-viet-2026-van-se-nhoc-nhan-keo-khan-gia-20260103104216455.htm",
+      "summary": "Năm 2026 hứa hẹn những tín hiệu lạc quan khi nhiều phim truyền hình Việt Nam đang được sản xuất với đề tài đa dạng hơn và có sự tham gia của các đạo diễn trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.983886+07:00",
+      "fetched": "2026-01-03T17:12:07.984002+07:00"
+    },
+    {
+      "id": "09e92610260a9abf8058925e67bcf2b0",
+      "title": "'Thiên đường du lịch' Bali yêu cầu du khách chứng minh tài chính từ 2026",
+      "link": "https://tuoitre.vn/thien-duong-du-lich-bali-yeu-cau-du-khach-chung-minh-tai-chinh-tu-2026-20260103143758406.htm",
+      "summary": "Đây là giải pháp mà tỉnh đảo Bali của Indonesia đưa ra, sau khi lượng khách du lịch tăng vọt kéo theo hàng loạt vấn đề.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.983754+07:00",
+      "fetched": "2026-01-03T17:12:07.983875+07:00"
+    },
+    {
+      "id": "9a604ca8b905ca29077149664ecd672e",
+      "title": "Đắk Lắk yêu cầu tăng cường giải pháp an toàn sau vụ sập bờ kè 4 người thiệt mạng",
+      "link": "https://tuoitre.vn/dak-lak-yeu-cau-tang-cuong-giai-phap-an-toan-sau-vu-sap-bo-ke-4-nguoi-thiet-mang-20260103123854727.htm",
+      "summary": "UBND tỉnh Đắk Lắk ban hành công điện yêu cầu các sở, ngành và địa phương rà soát, triển khai biện pháp bảo đảm an toàn cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.983607+07:00",
+      "fetched": "2026-01-03T17:12:07.983741+07:00"
+    },
+    {
+      "id": "652de75902d52eb6ef682854aa0ba441",
+      "title": "Ảnh ông Obama cởi trần trên đảo của 'tỉ phú ấu dâm' Jeffrey Epstein là giả",
+      "link": "https://tuoitre.vn/anh-ong-obama-coi-tran-tren-dao-cua-ti-phu-au-dam-jeffrey-epstein-la-gia-20260103135620201.htm",
+      "summary": "Trang Snopes bị mạo danh để tung ảnh giả chụp cựu Tổng thống Mỹ Barack Obama cởi trần trên hòn đảo riêng của tỉ phú Jeffrey Epstein.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.983466+07:00",
+      "fetched": "2026-01-03T17:12:07.983595+07:00"
+    },
+    {
+      "id": "a329ed77193e9c3eb0b623b92df64a70",
+      "title": "Đại diện AFC thăm tuyển U23 Việt Nam tại Saudi Arabia",
+      "link": "https://tuoitre.vn/dai-dien-afc-tham-tuyen-u23-viet-nam-tai-saudi-arabia-20260103151412521.htm",
+      "summary": "Ngày 3-1, đại diện Liên đoàn Bóng đá châu Á (AFC) cùng Ban tổ chức U23 châu Á 2026 đã đến thăm và làm việc với đội tuyển U23 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.983338+07:00",
+      "fetched": "2026-01-03T17:12:07.983455+07:00"
+    },
+    {
+      "id": "d635fdf32685a2b607fd3becd4841345",
+      "title": "Xe máy Honda sẽ tự né được tai nạn trong gang tấc",
+      "link": "https://tuoitre.vn/xe-may-honda-se-tu-ne-duoc-tai-nan-trong-gang-tac-20260103114600712.htm",
+      "summary": "Xe máy Honda có thể được trang bị hệ thống tự động hỗ trợ đánh lái để né va chạm. Nhưng ý tưởng đưa công nghệ an toàn chủ động lên xe hai bánh vẫn đặt ra nhiều tranh luận về tính khả thi và an toàn thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.983209+07:00",
+      "fetched": "2026-01-03T17:12:07.983326+07:00"
+    },
+    {
+      "id": "d590c097e152d5a2274117f2138b2730",
+      "title": "Khởi tố 11 bị can giả làm 'cò lúa' để chiếm đoạt hơn 3,3 tỉ đồng",
+      "link": "https://tuoitre.vn/khoi-to-11-bi-can-gia-lam-co-lua-de-chiem-doat-hon-3-3-ti-dong-20260103151051203.htm",
+      "summary": "Danh Quanh giả làm “cò lúa” để dẫn người mua đến địa bàn, trong khi các bị can còn lại giả làm chủ lúa, đưa người mua đến các thửa đất khác rồi ký hợp đồng mua bán lúa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.983078+07:00",
+      "fetched": "2026-01-03T17:12:07.983198+07:00"
+    },
+    {
+      "id": "dea66667f3c80f8b65e1927922c57193",
+      "title": "Truy tìm người đàn ông cướp tiệm vàng ở Lâm Đồng ngày đầu năm",
+      "link": "https://tuoitre.vn/truy-tim-nguoi-dan-ong-cuop-tiem-vang-o-lam-dong-ngay-dau-nam-20260103151613328.htm",
+      "summary": "Cơ quan cảnh sát điều tra Công an tỉnh Lâm Đồng đang phối hợp truy tìm người đàn ông cướp tiệm vàng tại xã Nhân Cơ ngày đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.982934+07:00",
+      "fetched": "2026-01-03T17:12:07.983066+07:00"
+    },
+    {
+      "id": "70b7822c9030f8f5f8b1d5eba523dedb",
+      "title": "61 tác phẩm của một danh họa nổi tiếng vừa được hiến tặng cho Bảo tàng Paris",
+      "link": "https://tuoitre.vn/61-tac-pham-cua-mot-danh-hoa-noi-tieng-vua-duoc-hien-tang-cho-bao-tang-paris-20260103153407936.htm",
+      "summary": "Bảo tàng Nghệ thuật hiện đại Paris vừa tiếp nhận 61 tác phẩm của danh họa Henri Matisse, một trong những tên tuổi lớn của hội họa hiện đại thế kỷ 20, trong đó phần lớn khắc họa con gái ông là Marguerite.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.982787+07:00",
+      "fetched": "2026-01-03T17:12:07.982922+07:00"
+    },
+    {
+      "id": "de1ef9b4bb42949cd383d05c726761af",
+      "title": "Bị bắt về tội 'sử dụng trái phép chất ma túy’, khai ra vụ giao cấu với trẻ em",
+      "link": "https://tuoitre.vn/bi-bat-ve-toi-su-dung-trai-phep-chat-ma-tuy-khai-ra-vu-giao-cau-voi-tre-em-20260103144623801.htm",
+      "summary": "Công an phường Long Xuyên phát hiện, bắt quả tang Đại và N. tổ chức sử dụng trái phép chất ma túy. Làm việc với cảnh sát, Đại còn khai nhận đã quan hệ tình dục với N. khi em này dưới 16 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:12:07.982531+07:00",
+      "fetched": "2026-01-03T17:12:07.982770+07:00"
+    },
     {
       "id": "e758abb35b4af98b25c0f087644cfece",
       "title": "‘Trồng cây chuối’ phản cảm trước cổng chùa Linh Ứng để quay phim",
@@ -543,6 +693,266 @@ window.newsData_2026_01_03 = {
       "fetched": "2026-01-03T10:15:53.018308+07:00"
     },
     {
+      "id": "62fb06e10857722d9f61d0c9c8e21c77",
+      "title": "Tesla mất 'ngôi vương' xe điện vào tay đối thủ Trung Quốc",
+      "link": "https://vnexpress.net/tesla-mat-ngoi-vuong-xe-dien-vao-tay-doi-thu-trung-quoc-5001367.html",
+      "summary": "BYD lần đầu tiên vượt Tesla, trở thành nhà sản xuất xe điện lớn nhất thế giới, với gần 2,3 triệu xe bán ra trong năm 2025.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-03T10:01:32+07:00",
+      "fetched": "2026-01-03T17:12:10.653381+07:00"
+    },
+    {
+      "id": "45bfa98340c170bab5c6f06cbb0f2a9d",
+      "title": "Đào tạo thực chiến tại tòa soạn Thanh Niên",
+      "link": "https://thanhnien.vn/dao-tao-thuc-chien-tai-toa-soan-thanh-nien-185251229170949611.htm",
+      "summary": "Hàng trăm sinh viên từ các trường đại học lớn tại TP.HCM đã 'khăn gói' đến Báo Thanh Niên để học nghề. Tại đây, khái niệm \"thực học, thực làm\" được cụ thể hóa bằng những giờ biên tập tin nóng, thẩm định tin giả và sản xuất video ngay tại trường quay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T10:00:00+07:00",
+      "fetched": "2026-01-03T17:12:07.113930+07:00"
+    },
+    {
+      "id": "7358a8ebf6348367f8925664683d04e2",
+      "title": "Ông Trump chặn thương vụ chip 3 triệu USD",
+      "link": "https://vnexpress.net/ong-trump-chan-thuong-vu-chip-3-trieu-usd-5001407.html",
+      "summary": "Một thương vụ thâu tóm ngành chip trị giá 3 triệu USD vừa bị Tổng thống Mỹ Donald Trump ngăn chặn vì cho rằng đe dọa an ninh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-03T09:59:03+07:00",
+      "fetched": "2026-01-03T17:12:10.653556+07:00"
+    },
+    {
+      "id": "05a1ea1453f6c2200088655563f42907",
+      "title": "Việt Nam có hai đề cử giải thưởng futsal thế giới",
+      "link": "https://vnexpress.net/viet-nam-co-hai-de-cu-giai-thuong-futsal-the-gioi-5001405.html",
+      "summary": "Đội tuyển futsal nữ Việt Nam và HLV Nguyễn Đình Hoàng cùng được đề cử tại giải thưởng uy tín của tạp chí Futsal Planet.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-03T09:57:32+07:00",
+      "fetched": "2026-01-03T17:12:13.505748+07:00"
+    },
+    {
+      "id": "f37e693b62a3a41bfaf1e6c279600b09",
+      "title": "Ông Trump nói bắt được Tổng thống Venezuela Maduro",
+      "link": "https://thanhnien.vn/ong-trump-noi-bat-duoc-tong-thong-venezuela-185260103163228001.htm",
+      "summary": "Tổng thống Mỹ Donald Trump vừa tuyên bố Washington đã tiến hành thành công một cuộc tấn công quy mô lớn nhằm vào Venezuela và ban lãnh đạo nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:36:00+07:00",
+      "fetched": "2026-01-03T17:12:07.114101+07:00"
+    },
+    {
+      "id": "cdeffc1bc48eb52a92a4b22f75466aac",
+      "title": "Venezuela tố Mỹ tấn công, Tổng thống Maduro tuyên bố tình trạng khẩn cấp",
+      "link": "https://thanhnien.vn/venezuela-to-my-tan-cong-tong-thong-maduro-tuyen-bo-tinh-trang-khan-cap-185260103161116424.htm",
+      "summary": "Người dân cho biết đã nghe thấy ít nhất 7 vụ nổ cùng âm thanh máy bay bay qua vào khoảng 2 giờ sáng 3.1 (giờ địa phương) tại thủ đô Caracas của Venezuela.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:35:00+07:00",
+      "fetched": "2026-01-03T17:12:07.114259+07:00"
+    },
+    {
+      "id": "203f745936b97ac3a733a3bbfb5cea74",
+      "title": "Tài xế ô tô biển xanh vượt xe tại đường đèo dốc suýt gây tai nạn",
+      "link": "https://thanhnien.vn/tai-xe-o-to-bien-xanh-vuot-xe-tai-duong-deo-doc-suyt-gay-tai-nan-185260103154246433.htm",
+      "summary": "Dù tầm nhìn hạn chế vì trời mưa và đang di chuyển trên đoạn đường đèo dốc ở Lào Cai nhưng tài xế điều khiển xe ô tô biển xanh vẫn vượt xe sai quy định, suýt xảy ra tai nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:30:00+07:00",
+      "fetched": "2026-01-03T17:12:07.114414+07:00"
+    },
+    {
+      "id": "eb2ad5367bb2fc51b404a5898dd58a17",
+      "title": "Dấu ấn Thanh Niên nơi biên cương Tổ quốc: Những 'mái ấm' ở thôn cao nhất Việt Nam",
+      "link": "https://thanhnien.vn/dau-an-thanh-nien-noi-bien-cuong-to-quoc-nhung-mai-am-o-thon-cao-nhat-viet-nam-185260103084459063.htm",
+      "summary": "Chưa đầy 1 năm sau đợt mưa lũ kinh hoàng do bão số 3 (Yagi) gây ra (tháng 9.2024), 28 hộ dân xã Y Tý (Lào Cai) đã được Báo Thanh Niên, Tập đoàn Hòa Phát, Ban Chỉ huy Bộ đội biên phòng tỉnh Lào Cai xây tặng nhà mới khang trang, kiên cố; giúp đồng bào dân tộc thiểu số trên vùng đất biên cương phía bắc...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:30:00+07:00",
+      "fetched": "2026-01-03T17:12:07.114569+07:00"
+    },
+    {
+      "id": "3b366a0e450d3745571db917aa4a9efc",
+      "title": "Nam VĐV thú nhận 'chơi hộ' hotgirl esports Thái Lan ở SEA Games 33",
+      "link": "https://vnexpress.net/nam-vdv-thu-nhan-choi-ho-hotgirl-esports-thai-lan-o-sea-games-33-5001402.html",
+      "summary": "Cheerio thừa nhận đã tiếp tay cho tuyển thủ esports Thái Lan Wasarin Naraphat, để gian lận trong lúc tranh tài tại SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-03T09:28:16+07:00",
+      "fetched": "2026-01-03T17:12:13.505933+07:00"
+    },
+    {
+      "id": "34ac93492c506f39285bdbaa1e4a307f",
+      "title": "Indonesia chốt HLV mới: Nhân vật 'có một không hai', sắp đấu thầy Kim ở AFF Cup",
+      "link": "https://thanhnien.vn/indonesia-chot-hlv-moi-nhan-vat-co-mot-khong-hai-sap-dau-thay-kim-o-aff-cup-185260103162315624.htm",
+      "summary": "Đội tuyển Indonesia đã có HLV trưởng mới, đó là ông John Herdman (người Anh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:26:00+07:00",
+      "fetched": "2026-01-03T17:12:07.114736+07:00"
+    },
+    {
+      "id": "5b8c5e7f48194298df4dba2a425a6994",
+      "title": "16 người chết vì tai nạn giao thông trong ngày 3.1",
+      "link": "https://thanhnien.vn/16-nguoi-chet-vi-tai-nan-giao-thong-trong-ngay-31-185260103160740461.htm",
+      "summary": "Trong ngày thứ 3 kỳ nghỉ tết Dương lịch 2026, toàn quốc xảy ra 35 vụ tai nạn giao thông, làm 16 người chết, 27 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:24:00+07:00",
+      "fetched": "2026-01-03T17:12:07.114899+07:00"
+    },
+    {
+      "id": "161833a49737bee390fd1bd9b9d50f5c",
+      "title": "Tổng thống Maduro kích hoạt kế hoạch phòng thủ, FAA cấm bay từ không phận Venezuela",
+      "link": "https://thanhnien.vn/tong-thong-maduro-kich-hoat-ke-hoach-phong-thu-faa-cam-bay-tu-khong-phan-venezuela-185260103162233754.htm",
+      "summary": "Tổng thống Venezuela Nicolas Maduro đã ký sắc lệnh ban bố tình trạng khẩn cấp, ra lệnh triển khai toàn bộ các kế hoạch phòng thủ quốc gia, trong khi Ủy ban Quân vụ Thượng vụ Mỹ không nhận thông báo về khả năng không kích Venezuela.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:16:00+07:00",
+      "fetched": "2026-01-03T17:12:07.115053+07:00"
+    },
+    {
+      "id": "72b9ca31b127a0024d920187a6456b9a",
+      "title": "Nữ diễn viên muốn được trợ tử sau 34 năm chữa bệnh tâm thần không khỏi",
+      "link": "https://thanhnien.vn/nu-dien-vien-muon-duoc-tro-tu-sau-34-nam-chua-benh-tam-than-khong-khoi-185260103142919068.htm",
+      "summary": "Claire Brosseau đã sống chung với nhiều chứng bệnh tâm thần trong suốt 34 năm mà các phương pháp điều trị không thể chữa khỏi. Nữ diễn viên 48 tuổi mong được hỗ trợ về mặt y tế để có thể kết thúc cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:11:00+07:00",
+      "fetched": "2026-01-03T17:12:07.115216+07:00"
+    },
+    {
+      "id": "a9532d60a39715885a4fa8f9261be4a8",
+      "title": "Báo Thanh Niên dựng bia tưởng niệm 18 liệt sĩ tại Trung đoàn Không quân 917",
+      "link": "https://thanhnien.vn/bao-thanh-nien-dung-bia-tuong-niem-18-liet-si-tai-trung-doan-khong-quan-917-185260103140146305.htm",
+      "summary": "Báo Thanh Niên cùng nhà tài trợ dựng bia tưởng niệm 18 liệt sĩ Trung đoàn Không quân 917 đã anh dũng hy sinh khi làm nhiệm bảo vệ Tổ quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:10:00+07:00",
+      "fetched": "2026-01-03T17:12:07.115370+07:00"
+    },
+    {
+      "id": "53c9550fa9797ba38c2845fb26a2d560",
+      "title": "Ấn Độ trưng bày di vật Đức Phật sau 127 năm lưu lạc",
+      "link": "https://vnexpress.net/an-do-trung-bay-di-vat-duc-phat-sau-127-nam-luu-lac-5001387.html",
+      "summary": "Ấn Độ lần đầu trưng bày bộ sưu tập đá quý chôn cùng xá lị của Đức Phật được khai quật năm 1898 và lưu lạc ở nước ngoài nhiều năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:07:09+07:00",
+      "fetched": "2026-01-03T17:12:04.087843+07:00"
+    },
+    {
+      "id": "53c9550fa9797ba38c2845fb26a2d560",
+      "title": "Ấn Độ trưng bày di vật Đức Phật sau 127 năm lưu lạc",
+      "link": "https://vnexpress.net/an-do-trung-bay-di-vat-duc-phat-sau-127-nam-luu-lac-5001387.html",
+      "summary": "Ấn Độ lần đầu trưng bày bộ sưu tập đá quý chôn cùng xá lị của Đức Phật được khai quật năm 1898 và lưu lạc ở nước ngoài nhiều năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-03T09:07:09+07:00",
+      "fetched": "2026-01-03T17:12:09.088660+07:00"
+    },
+    {
+      "id": "0a655a985b46a751d8cb5ea8eb41ff95",
+      "title": "Vinhomes dự kiến làm khu đô thị đại học quốc tế ở TP HCM từ tháng 7/2026",
+      "link": "https://vnexpress.net/vinhomes-du-kien-lam-khu-do-thi-dai-hoc-quoc-te-o-tp-hcm-tu-thang-7-2026-5001371.html",
+      "summary": "Dự án khu đô thị đại học quốc tế Berjaya rộng 880 ha tại TP HCM có thể bắt đầu triển khai thi công từ tháng 7/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:00:00+07:00",
+      "fetched": "2026-01-03T17:12:04.088028+07:00"
+    },
+    {
+      "id": "f61529a5438c076389c8dab2074605d6",
+      "title": "Đôi lúc thấy tội nghiệp chồng cũ",
+      "link": "https://vnexpress.net/doi-luc-thay-toi-nghiep-chong-cu-5001185.html",
+      "summary": "Anh không có tiền nhưng tôi không hỗ trợ gì được vì đang làm mẹ đơn thân, một mình lo mọi thứ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:00:00+07:00",
+      "fetched": "2026-01-03T17:12:04.088194+07:00"
+    },
+    {
+      "id": "cf86a04b0a4b4679db6b4dcba4e678ed",
+      "title": "10 ca sĩ có thu nhập cao nhất thế giới",
+      "link": "https://vnexpress.net/10-ca-si-co-thu-nhap-cao-nhat-the-gioi-5001172.html",
+      "summary": "The Weeknd, Taylor Swift và Beyoncé đứng đầu top ca sĩ có thu nhập cao nhất năm, với phần lớn tiền kiếm được là từ tour lưu diễn quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:00:00+07:00",
+      "fetched": "2026-01-03T17:12:04.088356+07:00"
+    },
+    {
+      "id": "797adcdbfaab36d6a9c0057db4d5da02",
+      "title": "Xổ số miền Nam ngày 3 tháng 1: Kết quả xổ số hôm nay thứ bảy",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-3-thang-1-ket-qua-xo-so-hom-nay-thu-bay-1852601031551515.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 3 tháng 1. Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ bảy ngày 3.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:00:00+07:00",
+      "fetched": "2026-01-03T17:12:07.115526+07:00"
+    },
+    {
+      "id": "da2578e453b5d57c15421a268230935f",
+      "title": "Áo không cổ ghi điểm cho vẻ ngoài thanh lịch nhờ sự giản đơn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-khong-co-ghi-diem-cho-ve-ngoai-thanh-lich-nho-su-gian-don-185260102155743121.htm",
+      "summary": "Áo không cổ mang đến vẻ ngoài thanh lịch cho phái đẹp hiện đại. Kiểu áo này dễ dàng tôn dáng, tạo cảm giác gọn gàng và phù hợp nhiều phong cách từ công sở đến dạo phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:00:00+07:00",
+      "fetched": "2026-01-03T17:12:07.115679+07:00"
+    },
+    {
+      "id": "dd01fa33250b4f19eca25be4e32c0f48",
+      "title": "Tình hậu phương tiếp sức Hoàng Sa",
+      "link": "https://thanhnien.vn/tinh-hau-phuong-tiep-suc-hoang-sa-185251229173725195.htm",
+      "summary": "Nếu không có sự quan tâm, hỗ trợ đặc biệt từ \"đại gia đình\" Báo Thanh Niên, tôi khó lòng hoàn thành tốt nhiệm vụ thông tin trong sự kiện đẩy đuổi giàn khoan Hải Dương - 981 (HD-981) do Trung Quốc hạ đặt trái phép trong vùng đặc quyền kinh tế biển Việt Nam hồi tháng 5.2014.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:00:00+07:00",
+      "fetched": "2026-01-03T17:12:07.115860+07:00"
+    },
+    {
+      "id": "2ddd041c3d7a0aef150d47bd292cadd4",
+      "title": "Giải bóng đá Thanh Niên sinh viên VN: Tinh hoa bóng đá học đường",
+      "link": "https://thanhnien.vn/giai-bong-da-thanh-nien-sinh-vien-vn-tinh-hoa-bong-da-hoc-duong-18525121214483281.htm",
+      "summary": "Đi qua 3 mùa giải tổ chức, giải bóng đá Thanh Niên sinh viên (TNSV) VN đã khẳng định vị thế vững chắc trong làng thể thao học đường, góp phần nâng tầm bóng đá phong trào nói chung và bóng đá sinh viên nói riêng, lan tỏa tinh thần, đam mê, nhiệt huyết cháy bỏng của tuổi trẻ, đồng thời thắt chặt tình ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T09:00:00+07:00",
+      "fetched": "2026-01-03T17:12:07.116030+07:00"
+    },
+    {
+      "id": "0a655a985b46a751d8cb5ea8eb41ff95",
+      "title": "Vinhomes dự kiến làm khu đô thị đại học quốc tế ở TP HCM từ tháng 7/2026",
+      "link": "https://vnexpress.net/vinhomes-du-kien-lam-khu-do-thi-dai-hoc-quoc-te-o-tp-hcm-tu-thang-7-2026-5001371.html",
+      "summary": "Dự án khu đô thị đại học quốc tế Berjaya rộng 880 ha tại TP HCM có thể bắt đầu triển khai thi công từ tháng 7/2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-03T09:00:00+07:00",
+      "fetched": "2026-01-03T17:12:10.653733+07:00"
+    },
+    {
+      "id": "095edf6ffa9a6a6b5f250872cc2c7125",
+      "title": "Chiếc MacBook cũ đáng mua hơn nhiều laptop Windows giá rẻ",
+      "link": "https://thanhnien.vn/chiec-macbook-cu-dang-mua-hon-nhieu-laptop-windows-gia-re-185260102154046732.htm",
+      "summary": "Vào năm 2020, Apple đã tạo ra một bước đột phá lớn trong ngành công nghiệp máy tính khi ra mắt MacBook với dòng chip Apple Silicon đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:51:00+07:00",
+      "fetched": "2026-01-03T17:12:07.116183+07:00"
+    },
+    {
+      "id": "849422a614733acaeda081e92fb59915",
+      "title": "Hưng Yên có thêm khu đô thị hơn 15.600 tỷ đồng",
+      "link": "https://vnexpress.net/hung-yen-co-them-khu-do-thi-hon-15-600-ty-dong-5001355.html",
+      "summary": "Khu đô thị mới Mễ Sở ở huyện Văn Giang cũ đang được tìm nhà đầu tư với quy mô vốn hơn 15.600 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:44:44+07:00",
+      "fetched": "2026-01-03T17:12:04.088520+07:00"
+    },
+    {
       "id": "95479c5d6018146a28f50819e8fe14be",
       "title": "Chương trình 'Giới thiệu mùa thi 1998': Khi cơn khát được thỏa mãn",
       "link": "https://thanhnien.vn/chuong-trinh-gioi-thieu-mua-thi-1998-khi-con-khat-duoc-thoa-man-185251229211057161.htm",
@@ -551,6 +961,26 @@ window.newsData_2026_01_03 = {
       "category": "Tổng hợp",
       "published": "2026-01-03T08:15:00+07:00",
       "fetched": "2026-01-03T15:16:13.048107+07:00"
+    },
+    {
+      "id": "f7108c548b75e1edb502db3dd1f66160",
+      "title": "Tin đồn 'xóa ảnh đại diện Facebook để tránh bị hack'",
+      "link": "https://vnexpress.net/tin-don-xoa-anh-dai-dien-facebook-de-tranh-bi-hack-5001378.html",
+      "summary": "Nhiều người dùng Facebook xóa ảnh đại diện (avatar) và ảnh bìa (cover) với lý do tránh bị hacker tấn công, nhưng chuyên gia khẳng định thông tin không chính xác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:14:12+07:00",
+      "fetched": "2026-01-03T17:12:04.088677+07:00"
+    },
+    {
+      "id": "f7108c548b75e1edb502db3dd1f66160",
+      "title": "Tin đồn 'xóa ảnh đại diện Facebook để tránh bị hack'",
+      "link": "https://vnexpress.net/tin-don-xoa-anh-dai-dien-facebook-de-tranh-bi-hack-5001378.html",
+      "summary": "Nhiều người dùng Facebook xóa ảnh đại diện (avatar) và ảnh bìa (cover) với lý do tránh bị hacker tấn công, nhưng chuyên gia khẳng định thông tin không chính xác.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-03T08:14:12+07:00",
+      "fetched": "2026-01-03T17:12:12.399763+07:00"
     },
     {
       "id": "da103a068d3499d7ec90e28972ae4cef",
@@ -621,6 +1051,36 @@ window.newsData_2026_01_03 = {
       "category": "Tổng hợp",
       "published": "2026-01-03T08:00:00+07:00",
       "fetched": "2026-01-03T15:16:13.049098+07:00"
+    },
+    {
+      "id": "a45e9976927b0f75610ce4e1ee7defd2",
+      "title": "Khổ sở đòi nợ bạn thân 48 triệu đồng trước Tết",
+      "link": "https://vnexpress.net/kho-so-doi-no-ban-than-48-trieu-dong-truoc-tet-5001360.html",
+      "summary": "Càng gần Tết, tin nhắn từ bạn thưa dần, mỗi lần tôi hối trả nợ đều phải đợi vài ngày mới nhận được phản hồi ngắn gọn: 'Mình đang cố'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:00:00+07:00",
+      "fetched": "2026-01-03T17:12:04.089013+07:00"
+    },
+    {
+      "id": "594e4a6ed5243cb5c5be7cf06096e1ff",
+      "title": "Sốc nhiễm khuẩn, thủng tạng sau khi tự tiêm thuốc giảm đau",
+      "link": "https://vnexpress.net/soc-nhiem-khuan-thung-tang-sau-khi-tu-tiem-thuoc-giam-dau-5001308.html",
+      "summary": "Người đàn ông 70 tuổi nhập viện trong tình trạng sốc nhiễm khuẩn, thủng tạng rỗng do tự ý tiêm hỗn hợp thuốc giảm đau, canxi và trợ tim để trị đau nhức xương khớp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:00:00+07:00",
+      "fetched": "2026-01-03T17:12:04.089185+07:00"
+    },
+    {
+      "id": "e6a19cdf4ba96affbf1d3af69782566f",
+      "title": "Ba loại tiếng ồn có lợi cho giấc ngủ",
+      "link": "https://vnexpress.net/ba-loai-tieng-on-co-loi-cho-giac-ngu-5001173.html",
+      "summary": "Tiếng ồn trắng, hồng và nâu giúp thư giãn, che lấp các âm thanh xung quanh, trong đó các tần số thấp tạo cảm giác dễ chịu và thoải mái hơn cho cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:00:00+07:00",
+      "fetched": "2026-01-03T17:12:04.089342+07:00"
     },
     {
       "id": "151b62d5caf23d062d026e5ff4fc5481",
