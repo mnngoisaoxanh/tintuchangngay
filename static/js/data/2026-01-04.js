@@ -1,6 +1,6 @@
 window.newsData_2026_01_04 = {
   "date": "2026-01-04",
-  "lastUpdated": "2026-01-04T01:17:22.771647+07:00",
+  "lastUpdated": "2026-01-04T03:13:33.251932+07:00",
   "articles": [
     {
       "id": "9c75f57eea86fe9c335ac7abbcc612df",
@@ -151,6 +151,76 @@ window.newsData_2026_01_04 = {
       "category": "Tổng hợp",
       "published": "2026-01-04T01:17:15.968455+07:00",
       "fetched": "2026-01-04T01:17:15.968670+07:00"
+    },
+    {
+      "id": "edc33206a59301350360188c62e458db",
+      "title": "Ông Trump: Các công ty dầu khí Mỹ sẽ rót hàng tỷ USD vào Venezuela",
+      "link": "https://vnexpress.net/ong-trump-cac-cong-ty-dau-khi-my-se-rot-hang-ty-usd-vao-venezuela-5001517.html",
+      "summary": "Tổng thống Donald Trump cho biết các doanh nghiệp dầu mỏ của Mỹ sẽ đầu tư hàng tỷ USD để tái thiết lĩnh vực năng lượng tại Venezuela.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T19:24:04+07:00",
+      "fetched": "2026-01-04T03:13:24.304653+07:00"
+    },
+    {
+      "id": "edc33206a59301350360188c62e458db",
+      "title": "Ông Trump: Các công ty dầu khí Mỹ sẽ rót hàng tỷ USD vào Venezuela",
+      "link": "https://vnexpress.net/ong-trump-cac-cong-ty-dau-khi-my-se-rot-hang-ty-usd-vao-venezuela-5001517.html",
+      "summary": "Tổng thống Donald Trump cho biết các doanh nghiệp dầu mỏ của Mỹ sẽ đầu tư hàng tỷ USD để tái thiết lĩnh vực năng lượng tại Venezuela.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-03T19:24:04+07:00",
+      "fetched": "2026-01-04T03:13:30.376479+07:00"
+    },
+    {
+      "id": "01f27bbaaab85bbb953640f86c5164cb",
+      "title": "Hà Giang 'thất thủ', khách bỏ cuộc giữa chừng",
+      "link": "https://vnexpress.net/ha-giang-that-thu-khach-bo-cuoc-giua-chung-5001425.html",
+      "summary": "Các điểm du lịch chính ở Hà Giang như cột cờ Lũng Cú, sông Nho Quế chật kín khách từ ngày 2/1, nhiều người bỏ cuộc ra về vì không đủ kiên nhẫn chờ tới lượt tham quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T19:01:22+07:00",
+      "fetched": "2026-01-04T03:13:24.304852+07:00"
+    },
+    {
+      "id": "bf6662ffe20cb99d0002461df2484c52",
+      "title": "Tập thể dục khi đói: Lợi ích thật sự hay nguy cơ tụt đường huyết?",
+      "link": "https://thanhnien.vn/tap-the-duc-khi-doi-loi-ich-that-su-hay-nguy-co-tut-duong-huyet-185260102232327871.htm",
+      "summary": "Tập thể dục lúc bụng đói thường được xem là cách giúp đốt mỡ nhanh hơn, đặc biệt phổ biến ở những người tập trước bữa sáng. Nhưng bên cạnh đó, tập lúc bụng đói cũng tiềm ẩn nguy cơ hạ đường huyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T18:36:00+07:00",
+      "fetched": "2026-01-04T03:13:27.187189+07:00"
+    },
+    {
+      "id": "c58258618c24487b8af94cdbcb82b9be",
+      "title": "Ăn trứng: Chuyên gia chỉ mẹo 'lạ mà quen' để tăng thêm lợi ích",
+      "link": "https://thanhnien.vn/an-trung-chuyen-gia-chi-meo-la-ma-quen-de-tang-them-loi-ich-18526010401294657.htm",
+      "summary": "Trứng là một trong những thực phẩm linh hoạt nhất và là nguồn cung cấp protein tuyệt vời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T18:29:00+07:00",
+      "fetched": "2026-01-04T03:13:27.187373+07:00"
+    },
+    {
+      "id": "e55c3a65add641d53eb4d320cf576c47",
+      "title": "Việt Nam quan ngại về tình hình Venezuela",
+      "link": "https://vnexpress.net/viet-nam-quan-ngai-ve-tinh-hinh-venezuela-5001513.html",
+      "summary": "Việt Nam bày tỏ quan ngại về tình hình Venezuela, kêu gọi các bên kiềm chế, giải quyết tranh chấp, bất đồng trên cơ sở luật pháp quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:41:02+07:00",
+      "fetched": "2026-01-04T03:13:24.305032+07:00"
+    },
+    {
+      "id": "e55c3a65add641d53eb4d320cf576c47",
+      "title": "Việt Nam quan ngại về tình hình Venezuela",
+      "link": "https://vnexpress.net/viet-nam-quan-ngai-ve-tinh-hinh-venezuela-5001513.html",
+      "summary": "Việt Nam bày tỏ quan ngại về tình hình Venezuela, kêu gọi các bên kiềm chế, giải quyết tranh chấp, bất đồng trên cơ sở luật pháp quốc tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-03T17:41:02+07:00",
+      "fetched": "2026-01-04T03:13:29.280695+07:00"
     },
     {
       "id": "846041fe8e14ea4be2c8725d4d537f64",
@@ -323,6 +393,26 @@ window.newsData_2026_01_04 = {
       "fetched": "2026-01-04T01:17:17.421983+07:00"
     },
     {
+      "id": "a63f0f5302832db022f4fddc50ee9bf9",
+      "title": "Hình ảnh ông Maduro trên tàu chiến Mỹ",
+      "link": "https://vnexpress.net/hinh-anh-ong-maduro-tren-tau-chien-my-5001510.html",
+      "summary": "Tổng thống Trump đăng hình ảnh ông Maduro bị còng tay, bịt mắt trên tàu đổ bộ USS Iwo Jima của Mỹ đang trên đường đến New York.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T17:00:41+07:00",
+      "fetched": "2026-01-04T03:13:24.306522+07:00"
+    },
+    {
+      "id": "a63f0f5302832db022f4fddc50ee9bf9",
+      "title": "Hình ảnh ông Maduro trên tàu chiến Mỹ",
+      "link": "https://vnexpress.net/hinh-anh-ong-maduro-tren-tau-chien-my-5001510.html",
+      "summary": "Tổng thống Trump đăng hình ảnh ông Maduro bị còng tay, bịt mắt trên tàu đổ bộ USS Iwo Jima của Mỹ đang trên đường đến New York.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-03T17:00:41+07:00",
+      "fetched": "2026-01-04T03:13:29.281041+07:00"
+    },
+    {
       "id": "b70578540cb5df96d8685ab6add26ef4",
       "title": "Quy trình hoạt động của camera và đèn giao thông AI",
       "link": "https://vnexpress.net/quy-trinh-hoat-dong-cua-camera-va-den-giao-thong-ai-4997940.html",
@@ -411,6 +501,16 @@ window.newsData_2026_01_04 = {
       "category": "Thế giới",
       "published": "2026-01-03T15:47:44+07:00",
       "fetched": "2026-01-04T01:17:17.422149+07:00"
+    },
+    {
+      "id": "a7944cbeec3418db0f238f1d670203c8",
+      "title": "Ông Trump: 'Mỹ sẽ điều quân tới Venezuela bảo vệ dầu'",
+      "link": "https://vnexpress.net/tong-thong-trump-sap-hop-bao-ve-cuoc-dot-kich-venezuela-5001485-tong-thuat.html",
+      "summary": "Tổng thống Trump họp báo tại dinh thự Mar-a-Lago, tuyên bố Mỹ sẽ điều hành Venezuela và triển khai quân đến bảo vệ mỏ dầu sau khi ông Maduro bị bắt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-03T15:47:44+07:00",
+      "fetched": "2026-01-04T03:13:29.281205+07:00"
     },
     {
       "id": "c7487d3295e0fad38e145b70db71e35a",
