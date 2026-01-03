@@ -1,7 +1,157 @@
 window.newsData_2026_01_03 = {
   "date": "2026-01-03",
-  "lastUpdated": "2026-01-03T21:11:39.496446+07:00",
+  "lastUpdated": "2026-01-03T23:14:30.084921+07:00",
   "articles": [
+    {
+      "id": "8dc4dea0ce3674cb7d2bdf593118bafc",
+      "title": "Siêu trăng Sói rực sáng bầu trời đêm nay, tại Việt Nam có thể xem trăng không cần thiết bị",
+      "link": "https://tuoitre.vn/sieu-trang-soi-ruc-sang-bau-troi-dem-nay-tai-viet-nam-co-the-xem-trang-khong-can-thiet-bi-20260103193551821.htm",
+      "summary": "Tối 3-1, người dân Việt Nam có cơ hội chiêm ngưỡng siêu trăng Sói, cũng là siêu trăng đầu tiên của năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.639494+07:00",
+      "fetched": "2026-01-03T23:14:22.639590+07:00"
+    },
+    {
+      "id": "cd6ad2e070abb327efa011a1d50d11ca",
+      "title": "Xe khách chạy trên cao tốc Phan Thiết - Vĩnh Hảo vi phạm 4 lỗi, bị phạt hơn 61 triệu đồng",
+      "link": "https://tuoitre.vn/xe-khach-chay-tren-cao-toc-phan-thiet-vinh-hao-vi-pham-4-loi-bi-phat-hon-61-trieu-dong-20260103202631898.htm",
+      "summary": "Xe khách chạy trên cao tốc Phan Thiết - Vĩnh Hảo vi phạm giao thông nghiêm trọng bị Cục Cảnh sát giao thông kiểm tra, xử lý 4 lỗi với tổng tiền phạt hơn 60 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.639389+07:00",
+      "fetched": "2026-01-03T23:14:22.639484+07:00"
+    },
+    {
+      "id": "9c75f57eea86fe9c335ac7abbcc612df",
+      "title": "Đạo diễn Khải Anh nghỉ VFC để làm phim ngắn: ‘Giới trẻ đang rời bỏ tivi truyền thống’",
+      "link": "https://tuoitre.vn/dao-dien-khai-anh-nghi-vfc-de-lam-phim-ngan-gioi-tre-dang-roi-bo-ti-vi-truyen-thong-2026010320052168.htm",
+      "summary": "Rời Trung tâm Phim truyền hình Việt Nam (VFC) sau 25 năm gắn bó, đạo diễn Khải Anh gây bất ngờ khi xuất hiện ở vị trí mới, đồng sáng lập một trung tâm điện ảnh, hướng tới đào tạo hệ thống nhân sự cho phim ngắn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.639280+07:00",
+      "fetched": "2026-01-03T23:14:22.639379+07:00"
+    },
+    {
+      "id": "6f62db9d38af70e916ad1feb21ad594c",
+      "title": "Hậu vệ trái số một của HLV Troussier gia nhập CLB Công An TP.HCM",
+      "link": "https://tuoitre.vn/hau-ve-trai-so-mot-cua-hlv-troussier-gia-nhap-clb-cong-an-tp-hcm-20260103203226166.htm",
+      "summary": "Hậu vệ trái số một đội tuyển Việt Nam dưới thời HLV Philippe Troussier đã gia nhập CLB Công An TP.HCM để thi đấu kể từ vòng 12 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.639172+07:00",
+      "fetched": "2026-01-03T23:14:22.639270+07:00"
+    },
+    {
+      "id": "6131277bd5386d3eaee9a71d420063f0",
+      "title": "Giá cà phê tiếp tục tăng, mốc kỷ lục quay lại?",
+      "link": "https://tuoitre.vn/gia-ca-phe-tiep-tuc-tang-moc-ky-luc-quay-lai-20260103200856213.htm",
+      "summary": "Nhiều doanh nghiệp cho rằng giá cà phê nhân xô sẽ sớm chạm mốc 100.000 đồng/kg nhưng khó có giá 135.000 đồng/kg như trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.639064+07:00",
+      "fetched": "2026-01-03T23:14:22.639161+07:00"
+    },
+    {
+      "id": "e330f700f621856b737e82fbdd0ae5f0",
+      "title": "Tài xế taxi ở Nha Trang thừa nhận tráo tờ 200.000 đồng của du khách Hàn",
+      "link": "https://tuoitre.vn/tai-xe-taxi-o-nha-trang-thua-nhan-trao-to-200-000-dong-cua-du-khach-han-20260103204742302.htm",
+      "summary": "Liên quan đến đoạn clip tài xế taxi ở Nha Trang (tỉnh Khánh Hòa) bị tố tráo tiền của du khách Hàn Quốc lan truyền trên mạng xã hội, Công an phường Nha Trang đang làm việc với tài xế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.638958+07:00",
+      "fetched": "2026-01-03T23:14:22.639055+07:00"
+    },
+    {
+      "id": "7c0388c158e369b9942095d96d45d67c",
+      "title": "Chính quyền ông Trump thông báo với Quốc hội Mỹ về vụ tấn công Venezuela",
+      "link": "https://tuoitre.vn/chinh-quyen-ong-trump-thong-bao-voi-quoc-hoi-my-ve-vu-tan-cong-venezuela-20260103212632342.htm",
+      "summary": "Ngày 3-1, ít giờ sau khi lực lượng Mỹ tiến hành chiến dịch quân sự tại Venezuela, chính quyền Tổng thống Donald Trump cho biết đã bắt đầu thông báo với lãnh đạo Quốc hội Mỹ và các ủy ban chủ chốt về việc bắt giữ Tổng thống Venezuela Nicolas Maduro.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.638850+07:00",
+      "fetched": "2026-01-03T23:14:22.638948+07:00"
+    },
+    {
+      "id": "c35aeb7e7b799f0bda6e50e2ef645eeb",
+      "title": "Ông Trump công bố: Lực lượng Mỹ đột nhập bắt Tổng thống Venezuela trong một pháo đài",
+      "link": "https://tuoitre.vn/ong-trump-cong-bo-luc-luong-my-dot-nhap-bat-tong-thong-venezuela-trong-mot-phao-dai-20260103203610269.htm",
+      "summary": "Tổng thống Trump cho biết ông Maduro đã bị bắt giữ tại một pháo đài được canh phòng nghiêm ngặt. Tuổi Trẻ Online tiếp tục cập nhật họp báo của ông Trump sắp diễn ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.638732+07:00",
+      "fetched": "2026-01-03T23:14:22.638840+07:00"
+    },
+    {
+      "id": "60d12bab842e82ead0cc2c582d0d3aae",
+      "title": "Phim Trung Quốc Tôi như ánh dương rực rỡ chứa đường lưỡi bò, yêu cầu ngưng phổ biến",
+      "link": "https://tuoitre.vn/phim-trung-quoc-toi-nhu-anh-duong-ruc-ro-chua-duong-luoi-bo-yeu-cau-ngung-pho-bien-2026010321271432.htm",
+      "summary": "Tối 3-1, nhiều fanpage phim Trung Quốc đồng loạt đăng tải bài viết thông báo ngưng cập nhật phim Tôi như ánh dương rực rỡ vì nghi có chứa đường lưỡi bò phi pháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.638612+07:00",
+      "fetched": "2026-01-03T23:14:22.638723+07:00"
+    },
+    {
+      "id": "b09541ee4f9b8a65956104bce76ca2b4",
+      "title": "Cao tốc Hậu Giang - Cà Mau khai thác chậm trễ vì các nhà thầu không làm đúng cam kết",
+      "link": "https://tuoitre.vn/cao-toc-hau-giang-ca-mau-khai-thac-cham-tre-vi-cac-nha-thau-khong-lam-dung-cam-ket-20260103204450031.htm",
+      "summary": "Bộ Xây dựng chỉ rõ việc không thể đưa cao tốc Hậu Giang - Cà Mau vào khai thác trước ngày 1-1-2026 là do một số nhà thầu chưa bố trí đầy đủ nhân lực, vật tư, vật liệu, không thực hiện đúng các cam kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.638505+07:00",
+      "fetched": "2026-01-03T23:14:22.638603+07:00"
+    },
+    {
+      "id": "0aa9fc04bd85e1af251f797d4de38ffe",
+      "title": "Tài xế xe tải tạt đầu, chặn xe buýt Phương Trang, cầm cây sắt hù dọa",
+      "link": "https://tuoitre.vn/tai-xe-xe-tai-tat-dau-chan-xe-buyt-phuong-trang-cam-cay-sat-hu-doa-20260103215352606.htm",
+      "summary": "Công an đã làm việc với tài xế xe tải chặn đầu xe buýt Phương Trang, sau đó cầm cây sắt hù dọa lái xe buýt xảy ra ở Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.638395+07:00",
+      "fetched": "2026-01-03T23:14:22.638495+07:00"
+    },
+    {
+      "id": "dbe46a25c7c9e67717f9d3ce8f3dd213",
+      "title": "Xử phạt cặp vợ chồng nướng đồ ăn trên đường ray, con gái quay clip đăng TikTok",
+      "link": "https://tuoitre.vn/xu-phat-cap-vo-chong-nuong-do-an-tren-duong-ray-con-gai-quay-clip-dang-tiktok-20260103220028146.htm",
+      "summary": "Công an tỉnh Quảng Ninh đã xác minh, làm rõ và ra quyết định xử phạt cặp vợ chồng nướng đồ ăn trên đường ray, con gái quay clip đăng TikTok.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.638284+07:00",
+      "fetched": "2026-01-03T23:14:22.638385+07:00"
+    },
+    {
+      "id": "a0e8e512e48ba7370b33b1c89712218c",
+      "title": "Bộ Ngoại giao khuyến cáo người Việt về tình hình Venezuela",
+      "link": "https://tuoitre.vn/bo-ngoai-giao-khuyen-cao-nguoi-viet-ve-tinh-hinh-venezuela-20260103222916786.htm",
+      "summary": "Công dân Việt Nam cân nhắc kỹ việc đến Venezuela vào thời điểm hiện tại. Với người đang ở Venezuela, cần rời các khu vực nguy hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.638169+07:00",
+      "fetched": "2026-01-03T23:14:22.638273+07:00"
+    },
+    {
+      "id": "e83fb4b2778b31f92aab66f10ddb219e",
+      "title": "Người Venezuela lo âu sau đêm không ngủ ở Caracas",
+      "link": "https://tuoitre.vn/nguoi-venezuela-lo-au-sau-dem-khong-ngu-o-caracas-20260103210420627.htm",
+      "summary": "Sau khi Mỹ bất ngờ tấn công Venezuela, người dân nước này giờ đây rơi vào trạng thái lo lắng, hoang mang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.638047+07:00",
+      "fetched": "2026-01-03T23:14:22.638158+07:00"
+    },
+    {
+      "id": "2c293949198fbf5839e8de9a352b12d4",
+      "title": "Trung Quốc 'vô cùng sốc, phản đối hành vi bá quyền', Nga kêu gọi Mỹ thả ông Maduro",
+      "link": "https://tuoitre.vn/trung-quoc-vo-cung-soc-phan-doi-hanh-vi-ba-quyen-nga-keu-goi-my-tha-ong-maduro-20260103224403492.htm",
+      "summary": "Bộ Ngoại giao Trung Quốc lên án cuộc tấn công của Mỹ tại Venezuela, cho rằng hành động này vi phạm luật quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T23:14:22.637835+07:00",
+      "fetched": "2026-01-03T23:14:22.638034+07:00"
+    },
     {
       "id": "001183dc307c562517b02723beb41214",
       "title": "Thảo cầm viên hút khách đến trải nghiệm tuần lễ văn hóa ngày đầu năm mới",
@@ -333,6 +483,76 @@ window.newsData_2026_01_03 = {
       "fetched": "2026-01-03T17:12:07.982770+07:00"
     },
     {
+      "id": "dd8c18a7366d60c0ba695a49a594478c",
+      "title": "Tổng thống Trump theo dõi trực tiếp vụ bắt giữ ông Maduro khỏi pháo đài Venezuela",
+      "link": "https://thanhnien.vn/tong-thong-trump-theo-doi-truc-tiep-vu-bat-giu-ong-maduro-khoi-phao-dai-venezuela-185260103222410597.htm",
+      "summary": "Từ khu nghỉ dưỡng Mar-a-Lago (bang Florida, Mỹ),Tổng thống Mỹ Donald Trump cho biết đã cùng với các tướng lĩnh theo dõi toàn bộ diễn biến theo thời gian thực của chiến dịch đầy phức tạp nhằm bắt giữ người đồng cấp Venezuela Nicolás Maduro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T16:03:00+07:00",
+      "fetched": "2026-01-03T23:14:21.201383+07:00"
+    },
+    {
+      "id": "04a776bb7f9a7716e759943afff42065",
+      "title": "Tổng thống Trump sắp họp báo về cuộc đột kích Venezuela",
+      "link": "https://vnexpress.net/tong-thong-trump-sap-hop-bao-ve-cuoc-dot-kich-venezuela-5001485.html",
+      "summary": "Tổng thống Mỹ sắp bắt đầu họp báo tại dinh thự Mar-a-Lago để công bố thông tin chi tiết về chiến dịch đột kích để bắt Tổng thống Nicolas Maduro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T15:47:44+07:00",
+      "fetched": "2026-01-03T23:14:17.938940+07:00"
+    },
+    {
+      "id": "04a776bb7f9a7716e759943afff42065",
+      "title": "Tổng thống Trump sắp họp báo về cuộc đột kích Venezuela",
+      "link": "https://vnexpress.net/tong-thong-trump-sap-hop-bao-ve-cuoc-dot-kich-venezuela-5001485.html",
+      "summary": "Tổng thống Mỹ sắp bắt đầu họp báo tại dinh thự Mar-a-Lago để công bố thông tin chi tiết về chiến dịch đột kích để bắt Tổng thống Nicolas Maduro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-03T15:47:44+07:00",
+      "fetched": "2026-01-03T23:14:24.521066+07:00"
+    },
+    {
+      "id": "c7487d3295e0fad38e145b70db71e35a",
+      "title": "Ông Trump: 'Trực thăng Mỹ trúng đạn khi tập kích Venezuela'",
+      "link": "https://vnexpress.net/ong-trump-truc-thang-my-trung-dan-khi-tap-kich-venezuela-5001456.html",
+      "summary": "Tổng thống Trump cho biết một trực thăng Mỹ đã trúng đạn khi tiến hành chiến dịch tập kích Venezuela, nhưng vẫn trở về an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T15:36:31+07:00",
+      "fetched": "2026-01-03T23:14:17.939095+07:00"
+    },
+    {
+      "id": "c7487d3295e0fad38e145b70db71e35a",
+      "title": "Ông Trump: 'Trực thăng Mỹ trúng đạn khi tập kích Venezuela'",
+      "link": "https://vnexpress.net/ong-trump-truc-thang-my-trung-dan-khi-tap-kich-venezuela-5001456.html",
+      "summary": "Tổng thống Trump cho biết một trực thăng Mỹ đã trúng đạn khi tiến hành chiến dịch tập kích Venezuela, nhưng vẫn trở về an toàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-03T15:36:31+07:00",
+      "fetched": "2026-01-03T23:14:24.521217+07:00"
+    },
+    {
+      "id": "5fc6335117cfa2122dd6a810aeaaa36d",
+      "title": "BYD lần đầu chiếm ngôi vua xe điện của Tesla",
+      "link": "https://vnexpress.net/byd-lan-dau-chiem-ngoi-vua-xe-dien-cua-tesla-5001443.html",
+      "summary": "Doanh số xe chạy pin của BYD tăng 28% trong 2025, đạt 2,26 triệu xe, trong khi Tesla giảm 8% xuống còn 1,64 triệu xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T15:33:33+07:00",
+      "fetched": "2026-01-03T23:14:17.939236+07:00"
+    },
+    {
+      "id": "b900576d6859e897bd2c07ed492193d7",
+      "title": "Đôi vợ chồng đốt lửa nướng đồ ăn trên đường sắt Quảng Ninh",
+      "link": "https://vnexpress.net/doi-vo-chong-dot-lua-nuong-do-an-tren-duong-sat-quang-ninh-5001477.html",
+      "summary": "Cặp vợ chồng ở phường Tuần Châu bị công an xử phạt hành chính 800.000 đồng do đốt lửa nướng đồ ăn trên đường sắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T15:20:37+07:00",
+      "fetched": "2026-01-03T23:14:17.939374+07:00"
+    },
+    {
       "id": "e758abb35b4af98b25c0f087644cfece",
       "title": "‘Trồng cây chuối’ phản cảm trước cổng chùa Linh Ứng để quay phim",
       "link": "https://tuoitre.vn/trong-cay-chuoi-phan-cam-truoc-cong-chua-linh-ung-de-quay-phim-20260103095123918.htm",
@@ -481,6 +701,106 @@ window.newsData_2026_01_03 = {
       "category": "Tổng hợp",
       "published": "2026-01-03T15:16:13.791246+07:00",
       "fetched": "2026-01-03T15:16:13.791479+07:00"
+    },
+    {
+      "id": "a9b333bb251456e63a6e14e8d1f4fb8e",
+      "title": "Venezuela nói Mỹ 'bắt cóc' ông Maduro tại căn cứ quân sự",
+      "link": "https://vnexpress.net/venezuela-noi-my-bat-coc-ong-maduro-tai-can-cu-quan-su-5001455.html",
+      "summary": "Giới chức Venezuela cho hay lực lượng Mỹ đã tập kích căn cứ Fort Tiuna ở Caracas, \"bắt cóc\" vợ chồng Tổng thống Maduro khi họ đang ngủ tại đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T15:09:08+07:00",
+      "fetched": "2026-01-03T23:14:17.939506+07:00"
+    },
+    {
+      "id": "a9b333bb251456e63a6e14e8d1f4fb8e",
+      "title": "Venezuela nói Mỹ 'bắt cóc' ông Maduro tại căn cứ quân sự",
+      "link": "https://vnexpress.net/venezuela-noi-my-bat-coc-ong-maduro-tai-can-cu-quan-su-5001455.html",
+      "summary": "Giới chức Venezuela cho hay lực lượng Mỹ đã tập kích căn cứ Fort Tiuna ở Caracas, \"bắt cóc\" vợ chồng Tổng thống Maduro khi họ đang ngủ tại đây.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-03T15:09:08+07:00",
+      "fetched": "2026-01-03T23:14:24.521358+07:00"
+    },
+    {
+      "id": "1714f8b03ae55bca489be56a1174256c",
+      "title": "Diễn viên 'Mưa đỏ' hóa hoàng tử trong các thiết kế menswear mê hoặc",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dien-vien-mua-do-hoa-hoang-tu-trong-cac-thiet-ke-menswear-me-hoac-185260103191828873.htm",
+      "summary": "Bước ra từ dấu ấn điện ảnh 'Mưa đỏ', diễn viên Lâm Thanh Nhã ngày càng ghi dấu nhờ những hình ảnh khác biệt và thuyết phục trên bản đồ thời trang nam từ menswear đến cổ điển đa phong cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T15:00:00+07:00",
+      "fetched": "2026-01-03T23:14:21.201529+07:00"
+    },
+    {
+      "id": "9d348c8b4665bce8138f8a8b131d6025",
+      "title": "Đại sứ quán Việt Nam tại Venezuela lập kênh liên lạc khẩn cấp",
+      "link": "https://vnexpress.net/dai-su-quan-viet-nam-tai-venezuela-lap-kenh-lien-lac-khan-cap-5001450.html",
+      "summary": "Đại sứ quán Việt Nam tại Venezuela đã lập kênh liên lạc khẩn cấp để cập nhật tình hình sau khi Mỹ tập kích quốc gia Nam Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T14:46:12+07:00",
+      "fetched": "2026-01-03T23:14:17.939638+07:00"
+    },
+    {
+      "id": "9d348c8b4665bce8138f8a8b131d6025",
+      "title": "Đại sứ quán Việt Nam tại Venezuela lập kênh liên lạc khẩn cấp",
+      "link": "https://vnexpress.net/dai-su-quan-viet-nam-tai-venezuela-lap-kenh-lien-lac-khan-cap-5001450.html",
+      "summary": "Đại sứ quán Việt Nam tại Venezuela đã lập kênh liên lạc khẩn cấp để cập nhật tình hình sau khi Mỹ tập kích quốc gia Nam Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-03T14:46:12+07:00",
+      "fetched": "2026-01-03T23:14:24.521497+07:00"
+    },
+    {
+      "id": "03732ae948ac7a3c91a474e8fdef9b29",
+      "title": "Người Venezuela biểu tình, yêu cầu Mỹ thả ông Maduro",
+      "link": "https://vnexpress.net/nguoi-venezuela-bieu-tinh-yeu-cau-my-tha-ong-maduro-5001442.html",
+      "summary": "Những người ủng hộ Tổng thống Venezuela tập hợp tại thủ đô Caracas, yêu cầu Mỹ trả tự do ngay lập tức cho ông Maduro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T14:32:32+07:00",
+      "fetched": "2026-01-03T23:14:17.939776+07:00"
+    },
+    {
+      "id": "03732ae948ac7a3c91a474e8fdef9b29",
+      "title": "Người Venezuela biểu tình, yêu cầu Mỹ thả ông Maduro",
+      "link": "https://vnexpress.net/nguoi-venezuela-bieu-tinh-yeu-cau-my-tha-ong-maduro-5001442.html",
+      "summary": "Những người ủng hộ Tổng thống Venezuela tập hợp tại thủ đô Caracas, yêu cầu Mỹ trả tự do ngay lập tức cho ông Maduro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-03T14:32:32+07:00",
+      "fetched": "2026-01-03T23:14:24.521631+07:00"
+    },
+    {
+      "id": "d241403e87088c43a71eb3f168d128fb",
+      "title": "U.23 Jordan đón nhân vật đặc biệt, 'ra sân với 200% khả năng': Thầy Kim và U.23 Việt Nam cẩn trọng!",
+      "link": "https://thanhnien.vn/u23-jordan-don-nhan-vat-dac-biet-ra-san-voi-200-kha-nang-thay-kim-va-u23-viet-nam-can-trong-185260103212243874.htm",
+      "summary": "Theo truyền thông Jordan, ngày mai (4.1), đội tuyển U.23 nước này sẽ đón một 'vị khách đặc biệt' tại Jeddah (Ả Rập Xê Út).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T14:25:00+07:00",
+      "fetched": "2026-01-03T23:14:21.201661+07:00"
+    },
+    {
+      "id": "418f9ddd840fd4f5e40c9cca276e121d",
+      "title": "Căn cứ không quân Venezuela sau đòn tập kích của Mỹ",
+      "link": "https://vnexpress.net/can-cu-khong-quan-venezuela-sau-don-tap-kich-cua-my-5001437.html",
+      "summary": "Truyền hình nhà nước Venezuela đăng hình ảnh cho thấy căn cứ không quân La Carlota hứng chịu thiệt hại sau khi bị Mỹ tập kích rạng sáng 3/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T14:17:28+07:00",
+      "fetched": "2026-01-03T23:14:17.939910+07:00"
+    },
+    {
+      "id": "418f9ddd840fd4f5e40c9cca276e121d",
+      "title": "Căn cứ không quân Venezuela sau đòn tập kích của Mỹ",
+      "link": "https://vnexpress.net/can-cu-khong-quan-venezuela-sau-don-tap-kich-cua-my-5001437.html",
+      "summary": "Truyền hình nhà nước Venezuela đăng hình ảnh cho thấy căn cứ không quân La Carlota hứng chịu thiệt hại sau khi bị Mỹ tập kích rạng sáng 3/1.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-03T14:17:28+07:00",
+      "fetched": "2026-01-03T23:14:24.521764+07:00"
     },
     {
       "id": "24a5b6f3c4b9d9ee1b283e94d0507e35",
@@ -761,6 +1081,16 @@ window.newsData_2026_01_03 = {
       "category": "Tổng hợp",
       "published": "2026-01-03T13:00:00+07:00",
       "fetched": "2026-01-03T21:11:30.740863+07:00"
+    },
+    {
+      "id": "378c70d37c974f2c4a3725cb86bee424",
+      "title": "Campuchia, Thái Lan tranh cãi về cáo buộc ‘sáp nhập’ làng biên giới",
+      "link": "https://thanhnien.vn/campuchia-thai-lan-tranh-cai-ve-cao-buoc-sap-nhap-lang-bien-gioi-185260103171032769.htm",
+      "summary": "Campuchia cho rằng lực lượng Thái Lan bắt đầu 'sáp nhập bất hợp pháp' các khu vực lãnh thổ của Campuchia, trong khi Thái Lan khẳng định chỉ kiểm soát những khu vực vốn luôn thuộc về mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T13:00:00+07:00",
+      "fetched": "2026-01-03T23:14:21.203081+07:00"
     },
     {
       "id": "a070497825815f04a4d4fdf8d3d2b4af",
