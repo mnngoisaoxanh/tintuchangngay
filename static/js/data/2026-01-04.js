@@ -1,7 +1,157 @@
 window.newsData_2026_01_04 = {
   "date": "2026-01-04",
-  "lastUpdated": "2026-01-04T11:41:31.957988+07:00",
+  "lastUpdated": "2026-01-04T13:19:11.926103+07:00",
   "articles": [
+    {
+      "id": "a1753d95d6338cd1e53902650735176b",
+      "title": "Dự báo thời tiết từ 4 đến 10-1: Thêm không khí lạnh tràn về, cả nước lạnh và rét",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-4-den-10-1-them-khong-khi-lanh-tran-ve-ca-nuoc-lanh-va-ret-20260103164453393.htm",
+      "summary": "Tuần nay không khí lạnh vẫn là hình thái chi phối thời tiết cả nước, khoảng nửa cuối tuần nhiệt độ lại giảm mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.673575+07:00",
+      "fetched": "2026-01-04T13:19:05.673691+07:00"
+    },
+    {
+      "id": "8f07e58a4bdc0bf826c9c846490dfd77",
+      "title": "Đảng Dân chủ nói vụ bắt giữ ông Maduro không có sự cho phép của Quốc hội là liều lĩnh",
+      "link": "https://tuoitre.vn/dang-dan-chu-noi-vu-bat-giu-ong-maduro-khong-co-su-cho-phep-cua-quoc-hoi-la-lieu-linh-20260104094647432.htm",
+      "summary": "Chiến dịch quân sự tại Venezuela và việc bắt giữ ông Nicolas Maduro đã lập tức gây chia rẽ sâu sắc trong chính trường Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.673450+07:00",
+      "fetched": "2026-01-04T13:19:05.673561+07:00"
+    },
+    {
+      "id": "63133d29e1f570a47ad4de11608c6eb3",
+      "title": "Hành trình mùa xuân lên rừng xuống biển: Hành trình của yêu thương",
+      "link": "https://tuoitre.vn/hanh-trinh-mua-xuan-len-rung-xuong-bien-hanh-trinh-cua-yeu-thuong-20260104091408051.htm",
+      "summary": "Hơn 66 tỉ đồng đã được đăng ký ủng hộ cho Hành trình mùa xuân lên rừng xuống biển để chăm lo Tết cho quân dân vùng biển, đảo và biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.673328+07:00",
+      "fetched": "2026-01-04T13:19:05.673439+07:00"
+    },
+    {
+      "id": "62f687a5b602922f8d458d2620822608",
+      "title": "45.000 hộ gia đình tại Berlin đối mặt cảnh mất điện kéo dài nhiều ngày",
+      "link": "https://tuoitre.vn/45-000-ho-gia-dinh-tai-berlin-doi-mat-canh-mat-dien-keo-dai-nhieu-ngay-20260104083342386.htm",
+      "summary": "Mất điện có thể làm mất hệ thống sưởi, trong lúc Berlin phủ tuyết và nhiệt độ giảm xuống ngưỡng đóng băng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.673201+07:00",
+      "fetched": "2026-01-04T13:19:05.673317+07:00"
+    },
+    {
+      "id": "c20041d92a1dc9980565e239f9122a8d",
+      "title": "Ngắm tiêu bản nhớ hổ trắng Ngộ Không ở Thảo cầm viên Sài Gòn",
+      "link": "https://tuoitre.vn/ngam-tieu-ban-nho-ho-trang-ngo-khong-o-thao-cam-vien-sai-gon-20260103151246519.htm",
+      "summary": "Thảo cầm viên Sài Gòn đã trưng bày tiêu bản tại bảo tàng như lời hứa hẹn ngày Ngộ Không chia tay người hâm mộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.673061+07:00",
+      "fetched": "2026-01-04T13:19:05.673186+07:00"
+    },
+    {
+      "id": "7a69afa0f07fdac781be4ac64dfd2bce",
+      "title": "10 sự kiện nổi bật của ĐH Duy Tân trong năm 2025",
+      "link": "https://tuoitre.vn/10-su-kien-noi-bat-cua-dh-duy-tan-trong-nam-2025-20260104094230015.htm",
+      "summary": "Năm 2025 đánh dấu sự bứt phá mạnh mẽ của Đại học (ĐH) Duy Tân (DTU) với nhiều sự kiện nổi bật trong các hoạt động đào tạo, nghiên cứu và hợp tác quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.672937+07:00",
+      "fetched": "2026-01-04T13:19:05.673050+07:00"
+    },
+    {
+      "id": "254362f2d4a37fef73dfcee94c832de7",
+      "title": "Trung Quốc: Gần 100 vụ phóng tàu vũ trụ trong năm 2025",
+      "link": "https://tuoitre.vn/trung-quoc-gan-100-vu-phong-tau-vu-tru-trong-nam-2025-20260104101916938.htm",
+      "summary": "Trung Quốc lập kỷ lục 92 đợt phóng năm 2025, tăng tốc hướng tới mục tiêu cường quốc vũ trụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.672811+07:00",
+      "fetched": "2026-01-04T13:19:05.672926+07:00"
+    },
+    {
+      "id": "ae0bcb9dd4949b4032550ec6d707cabb",
+      "title": "Niềm vui trước giờ bàn giao nhà mới của người dân vùng lũ Phú Yên cũ",
+      "link": "https://tuoitre.vn/niem-vui-truoc-gio-ban-giao-nha-moi-cua-nguoi-dan-vung-lu-phu-yen-cu-20260103202836731.htm",
+      "summary": "Những ngày đầu năm 2026, không khí tại các xã, phường Phú Yên cũ (nay thuộc Đắk Lắk) rộn ràng hơn khi nhiều hộ dân được bàn giao nhà mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.672666+07:00",
+      "fetched": "2026-01-04T13:19:05.672798+07:00"
+    },
+    {
+      "id": "f776d37a09228987fbb4331f09dc081c",
+      "title": "Gọi tên là một, hai, ba",
+      "link": "https://tuoitre.vn/goi-ten-la-mot-hai-ba-20260104080756671.htm",
+      "summary": "Càn Long là một ông vua vĩ đại với Trung Quốc, thời gian tại vị của ông cũng thuộc hàng dài nhất (hơn 60 năm).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.672542+07:00",
+      "fetched": "2026-01-04T13:19:05.672654+07:00"
+    },
+    {
+      "id": "d83f92fb48a5dc50558acacc33de064e",
+      "title": "Xe điện Toyota giá rẻ hơn Kia Morning dù cùng cỡ Corolla Altis, 600km/sạc, ADAS như xe cao cấp",
+      "link": "https://tuoitre.vn/xe-dien-toyota-gia-re-hon-kia-morning-du-cung-co-corolla-altis-600km-sac-adas-nhu-xe-cao-cap-20260104110420221.htm",
+      "summary": "Mẫu xe điện Toyota bZ3 vừa được nâng cấp ở Trung Quốc. Dù được bổ sung cảm biến LiDAR và nhiều công nghệ mới, giá bán vẫn ở mức rất thấp, chỉ bằng gần một nửa Toyota Corolla (Corolla Altis ở Việt Nam) chạy xăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.672415+07:00",
+      "fetched": "2026-01-04T13:19:05.672531+07:00"
+    },
+    {
+      "id": "651a6e69564e585c6ec97066c193899f",
+      "title": "Tuyển U23 Trung Quốc khốn khổ vì bị cắt giảm chi tiêu",
+      "link": "https://tuoitre.vn/tuyen-u23-trung-quoc-khon-kho-vi-bi-cat-giam-chi-tieu-20260104111039615.htm",
+      "summary": "Tuyển U23 Trung Quốc đến với Giải U23 châu Á 2026 mà không nhận được sự đầu tư mạnh mẽ như mọi năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.672287+07:00",
+      "fetched": "2026-01-04T13:19:05.672403+07:00"
+    },
+    {
+      "id": "99b73dca53179f12aedd3ff08f961ef2",
+      "title": "Tổng thống Maduro sẽ bị giam giữ tại nhà giam ở New York",
+      "link": "https://tuoitre.vn/tong-thong-maduro-se-bi-giam-giu-tai-nha-giam-o-new-york-20260104104928044.htm",
+      "summary": "Tổng thống Venezuela Nicolas Maduro sẽ bị giam giữ tại Trung tâm Giam giữ Metropolitan ở Brooklyn, New York trong thời gian chờ xét xử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.672158+07:00",
+      "fetched": "2026-01-04T13:19:05.672275+07:00"
+    },
+    {
+      "id": "62f1d4dc28e207b5ae667746f748c999",
+      "title": "Lòng thành có cần được nhìn thấy?",
+      "link": "https://tuoitre.vn/long-thanh-co-can-duoc-nhin-thay-20260104105731876.htm",
+      "summary": "Phải chăng ngày nay ngay cả lòng thành cũng phải để lại thông tin cho người khác nhìn thấy?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.672026+07:00",
+      "fetched": "2026-01-04T13:19:05.672146+07:00"
+    },
+    {
+      "id": "c1358b50c43228a2dce5a91e65bdc9f5",
+      "title": "Về nhà thôi, mẹ nhớ bếp cà ràng và cái cự củi lắm út ơi!",
+      "link": "https://tuoitre.vn/ve-nha-thoi-me-nho-bep-ca-rang-va-cai-cu-cui-lam-ut-oi-20260101232624769.htm",
+      "summary": "Giữa thời buổi đang dần hiện đại hoá mọi thứ hiện nay có còn mấy ai vẫn thủy chung với một chái bếp lá ám đầy khói.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.671884+07:00",
+      "fetched": "2026-01-04T13:19:05.672013+07:00"
+    },
+    {
+      "id": "38f445c8de25ee107901062a39c63044",
+      "title": "Bộ Nội vụ hướng dẫn phụ cấp người hoạt động không chuyên trách, xếp lương cán bộ, công chức xã",
+      "link": "https://tuoitre.vn/bo-noi-vu-huong-dan-phu-cap-nguoi-hoat-dong-khong-chuyen-trach-xep-luong-can-bo-cong-chuc-xa-20260104103848377.htm",
+      "summary": "Bộ Nội vụ đã có hướng dẫn về phụ cấp đối với người hoạt động không chuyên trách cấp xã và xếp lương cán bộ, công chức cấp xã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:19:05.671628+07:00",
+      "fetched": "2026-01-04T13:19:05.671869+07:00"
+    },
     {
       "id": "71049a309216282274919fd309e15ffa",
       "title": "Tại sao là Venezuela và tại sao lúc này?",
@@ -253,6 +403,296 @@ window.newsData_2026_01_04 = {
       "fetched": "2026-01-04T08:07:24.737423+07:00"
     },
     {
+      "id": "07ab38581bfdc5d1311832868d213952",
+      "title": "Ổ cắm chống sét không 'thần thánh' như nhiều người vẫn nghĩ",
+      "link": "https://thanhnien.vn/o-cam-chong-set-khong-than-thanh-nhu-nhieu-nguoi-van-nghi-185260104080526504.htm",
+      "summary": "Nhiều người thường được khuyên nên sử dụng ổ cắm chống sét lan truyền để bảo vệ các thiết bị điện tử nhạy cảm khỏi sự tăng đột biến điện áp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T06:12:00+07:00",
+      "fetched": "2026-01-04T13:19:04.827331+07:00"
+    },
+    {
+      "id": "a3dbad2844ebadd8eb21a0ea6b07f584",
+      "title": "CSGT xác minh xe máy biển số 567.89 chở 3, buông 2 tay trên cầu Ba Son",
+      "link": "https://thanhnien.vn/csgt-xac-minh-xe-may-bien-so-56789-cho-3-buong-2-tay-tren-cau-ba-son-185260104125623965.htm",
+      "summary": "CSGT Bến Thành đang vào cuộc xác minh xe máy biển số 567.89 chở 3, buông 2 tay trên cầu Ba Son gây bức xúc trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T06:06:00+07:00",
+      "fetched": "2026-01-04T13:19:04.827500+07:00"
+    },
+    {
+      "id": "ecb1eb3c12f7fafcba4d784c238c2ec2",
+      "title": "Lịch các kỳ thi đánh giá năng lực tuyển sinh đại học năm 2026",
+      "link": "https://thanhnien.vn/lich-cac-ky-thi-danh-gia-nang-luc-tuyen-sinh-dai-hoc-nam-2026-185260104114028503.htm",
+      "summary": "Năm 2026, nhiều cơ sở giáo dục đại học (ĐH) tổ chức kỳ thi đánh giá năng lực phục vụ tuyển sinh. Từng trường có kế hoạch tổ chức riêng, thí sinh cần theo dõi lịch thi cụ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T05:45:00+07:00",
+      "fetched": "2026-01-04T13:19:04.827661+07:00"
+    },
+    {
+      "id": "5f1e8a111841343d2094e3045b0ce075",
+      "title": "Phú Quốc: Cá heo hơn 100 kg chết, trôi dạt vào bờ biển Bãi Thơm",
+      "link": "https://thanhnien.vn/phu-quoc-ca-heo-hon-100-kg-chet-troi-dat-vao-bo-bien-bai-thom-18526010412232858.htm",
+      "summary": "Một con cá heo trọng lượng hơn 100 kg được người dân phát hiện đã chết và trôi dạt vào bờ biển Bãi Thơm (đặc khu Phú Quốc, An Giang).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T05:34:00+07:00",
+      "fetched": "2026-01-04T13:19:04.827836+07:00"
+    },
+    {
+      "id": "76dcf88d71ce62d2131295da72ac9f26",
+      "title": "Amorim ám chỉ mâu thuẫn với ban lãnh đạo Man Utd",
+      "link": "https://vnexpress.net/amorim-am-chi-mau-thuan-voi-ban-lanh-dao-man-utd-5001567.html",
+      "summary": "HLV Ruben Amorim liên tiếp từ chối bình luận về kế hoạch mua sắm của Man Utd trong tháng Một, qua đó làm dấy lên nghi vấn rạn nứt giữa ông và ban lãnh đạo đội bóng, đặc biệt là giám đốc bóng đá Jason Wilcox.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-04T05:29:48+07:00",
+      "fetched": "2026-01-04T13:19:11.919064+07:00"
+    },
+    {
+      "id": "55699c011c3d3e078fc2e44bbad361bd",
+      "title": "Phó tổng thống Venezuela được chỉ định làm Tổng thống lâm thời",
+      "link": "https://vnexpress.net/pho-tong-thong-venezuela-duoc-chi-dinh-lam-tong-thong-lam-thoi-5001573.html",
+      "summary": "Tòa án Tối cao Venezuela yêu cầu Phó tổng thống Delcy Rodriguez tiếp nhận vai trò lãnh đạo lâm thời của đất nước sau vụ Mỹ bắt Tổng thống Maduro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-04T05:27:13+07:00",
+      "fetched": "2026-01-04T13:19:07.072061+07:00"
+    },
+    {
+      "id": "3d1f7b4435ed4e1d0fd2893853ef0f64",
+      "title": "Cuộc so kè chênh lệch trên băng ghế chỉ đạo trận Man City - Chelsea",
+      "link": "https://vnexpress.net/cuoc-so-ke-chenh-lech-tren-bang-ghe-chi-dao-tran-man-city-chelsea-5001588.html",
+      "summary": "Từng không được phép vào khu nhà đội một cách đây 7 ngày, giờ HLV tạm quyền Calum McFarlane phải dẫn dắt Chelsea đấu Man City của Pep Guardiola - người đã có hơn 1.000 trận cầm quân - trong màn ra mắt được xem là chênh lệch bậc nhất Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-04T05:25:29+07:00",
+      "fetched": "2026-01-04T13:19:11.918224+07:00"
+    },
+    {
+      "id": "96f85ffd961c6f7f77c780c70677acc5",
+      "title": "Sơn La: Tử vong sau khi ăn hoa quả và một số loại sữa",
+      "link": "https://thanhnien.vn/son-la-tu-vong-sau-khi-an-hoa-qua-va-mot-so-loai-sua-185260104111416851.htm",
+      "summary": "Sau khi cùng ăn trái cây và một số loại sữa chua, sữa tươi thanh trùng, các thành viên trong cùng gia đình tại xã Mường Giôn, tỉnh Sơn La nhập viện nghi do ngộ độc thực phẩm, trong đó một trẻ tử vong trên đường đi cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T05:24:00+07:00",
+      "fetched": "2026-01-04T13:19:04.827990+07:00"
+    },
+    {
+      "id": "66c90778d1e7d2111371929451b09b03",
+      "title": "Leonardo DiCaprio kẹt ở Caribbean do Mỹ tập kích Venezuela",
+      "link": "https://vnexpress.net/leonardo-dicaprio-ket-o-caribbean-do-my-tap-kich-venezuela-5001569.html",
+      "summary": "Leonardo DiCaprio không thể rời đảo St. Barts ở vùng Caribbe do hạn chế không phận sau khi Mỹ tập kích quốc gia Nam Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T05:20:21+07:00",
+      "fetched": "2026-01-04T13:19:01.859712+07:00"
+    },
+    {
+      "id": "ce97c861f8a9ad95d060cf849f070de8",
+      "title": "Tòa án Tối cao Venezuela ra lệnh bà Rodriguez tạm thời thay ông Maduro làm tổng thống",
+      "link": "https://thanhnien.vn/toa-an-toi-cao-venezuela-ra-lenh-ba-rodriguez-tam-thoi-thay-ong-maduro-lam-tong-thong-185260104115434481.htm",
+      "summary": "Tòa án Tối cao Venezuela đã ra lệnh cho Phó tổng thống Delcy Rodriguez làm tổng thống tạm quyền sau khi Tổng thống Nicolas Maduro bị bắt sang Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T05:14:00+07:00",
+      "fetched": "2026-01-04T13:19:04.828141+07:00"
+    },
+    {
+      "id": "5781724c606e36c9970a4c7da74e9773",
+      "title": "Ông Maduro nói 'chúc mừng năm mới' khi bị áp giải ở New York",
+      "link": "https://vnexpress.net/ong-maduro-noi-chuc-mung-nam-moi-khi-bi-ap-giai-o-new-york-5001563.html",
+      "summary": "Nhà Trắng công bố video Tổng thống Maduro bị lực lượng hành pháp Mỹ áp giải ở New York, trước khi đến nhà giam ở khu Brooklyn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T05:13:41+07:00",
+      "fetched": "2026-01-04T13:19:01.859915+07:00"
+    },
+    {
+      "id": "5781724c606e36c9970a4c7da74e9773",
+      "title": "Ông Maduro nói 'chúc mừng năm mới' khi bị áp giải ở New York",
+      "link": "https://vnexpress.net/ong-maduro-noi-chuc-mung-nam-moi-khi-bi-ap-giai-o-new-york-5001563.html",
+      "summary": "Nhà Trắng công bố video Tổng thống Maduro bị lực lượng hành pháp Mỹ áp giải ở New York, trước khi đến nhà giam ở khu Brooklyn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-04T05:13:41+07:00",
+      "fetched": "2026-01-04T13:19:07.072238+07:00"
+    },
+    {
+      "id": "2c418d0a391f92b043444b205a23a8f1",
+      "title": "Biểu tình khắp nước Mỹ phản đối vụ bắt Tổng thống Venezuela",
+      "link": "https://vnexpress.net/bieu-tinh-khap-nuoc-my-phan-doi-vu-bat-tong-thong-venezuela-5001576.html",
+      "summary": "Biểu tình diễn ra tại nhiều thành phố lớn ở Mỹ sau khi chính quyền Trump tiến hành cuộc đột kích bắt Tổng thống Venezuela và phu nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T05:11:27+07:00",
+      "fetched": "2026-01-04T13:19:01.860081+07:00"
+    },
+    {
+      "id": "2c418d0a391f92b043444b205a23a8f1",
+      "title": "Biểu tình khắp nước Mỹ phản đối vụ bắt Tổng thống Venezuela",
+      "link": "https://vnexpress.net/bieu-tinh-khap-nuoc-my-phan-doi-vu-bat-tong-thong-venezuela-5001576.html",
+      "summary": "Biểu tình diễn ra tại nhiều thành phố lớn ở Mỹ sau khi chính quyền Trump tiến hành cuộc đột kích bắt Tổng thống Venezuela và phu nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-04T05:11:27+07:00",
+      "fetched": "2026-01-04T13:19:07.072408+07:00"
+    },
+    {
+      "id": "c35575031228d4beb335980e73a75020",
+      "title": "Chàng vận động viên khiến các fan girl hò reo: ‘Đẹp trai quá anh ơi!’",
+      "link": "https://thanhnien.vn/chang-van-dong-vien-khien-cac-fan-girl-ho-reo-dep-trai-qua-anh-oi-185260104121432382.htm",
+      "summary": "Chàng trai vàng trong làng aerobic gymnastic của đội tuyển quốc gia Việt Nam vừa xuất hiện đã khiến các cô nàng hò reo vì độ điển trai và nụ cười đầy thiện cảm. Nhiều fan girl như \"lịm tim\" với chàng vận động viên và thốt lên: \"Đẹp trai quá anh ơi!\", \"Như tài tử điện ảnh Hàn Quốc\"…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T05:10:00+07:00",
+      "fetched": "2026-01-04T13:19:04.828289+07:00"
+    },
+    {
+      "id": "a5f2d45dce592ec69b2a6f1dae9d066a",
+      "title": "Tậu mai vàng trăm triệu trưng Tết ở biệt thự nhưng không ai ngắm",
+      "link": "https://vnexpress.net/tau-mai-vang-tram-trieu-trung-tet-o-biet-thu-nhung-khong-ai-ngam-5001556.html",
+      "summary": "Căn biệt thự sáng đèn, trang hoàng đón Tết nhưng buồn hiu vì vắng vẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T05:08:28+07:00",
+      "fetched": "2026-01-04T13:19:01.860241+07:00"
+    },
+    {
+      "id": "de13c129fd41bd3782dea67b7839d06d",
+      "title": "Bắt nghi phạm cướp tiệm vàng ở chợ Nhân Cơ, Lâm Đồng",
+      "link": "https://thanhnien.vn/bat-nghi-pham-cuop-tiem-vang-o-cho-nhan-co-lam-dong-185260104110530413.htm",
+      "summary": "Công an tỉnh Lâm Đồng vừa bắt giữ nghi phạm cướp tiệm vàng ở chợ Nhân Cơ, khi nghi phạm chuẩn bị vượt biên qua Lào tại cửa khẩu Bờ Y.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T05:06:00+07:00",
+      "fetched": "2026-01-04T13:19:04.828437+07:00"
+    },
+    {
+      "id": "fdd2e9bbf57af749f35c05b8d549c915",
+      "title": "Tìm cô gái cùng hướng đến mái ấm bình yên",
+      "link": "https://vnexpress.net/tim-co-gai-cung-huong-den-mai-am-binh-yen-5001497.html",
+      "summary": "Anh 34 tuổi, làm công việc quản lý, cuộc sống khá giản dị và ổn định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T05:05:40+07:00",
+      "fetched": "2026-01-04T13:19:01.860347+07:00"
+    },
+    {
+      "id": "88a530b330f4e45e5ea35c4c9e2d2e9a",
+      "title": "Tôi chỉ yêu cầu chồng đóng học phí cho con nhưng anh từ chối",
+      "link": "https://vnexpress.net/toi-chi-yeu-cau-chong-dong-hoc-phi-cho-con-nhung-anh-tu-choi-5001507.html",
+      "summary": "Tôi cảm thấy rất cô đơn khi chỉ một mình lo cho con như người không chồng, vậy mang tiếng có chồng để làm gì?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T05:00:00+07:00",
+      "fetched": "2026-01-04T13:19:01.860517+07:00"
+    },
+    {
+      "id": "02d63b36b3711a903a5d9f6c3dddf240",
+      "title": "Di chuyển một que diêm để '2 + 5 = 9' đúng",
+      "link": "https://vnexpress.net/di-chuyen-mot-que-diem-de-2-5-9-dung-4999588.html",
+      "summary": "Một cú chạm nhẹ, một sự thay đổi vị trí nhỏ xíu cũng có thể tạo ra một phép màu toán học đấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T05:00:00+07:00",
+      "fetched": "2026-01-04T13:19:01.860673+07:00"
+    },
+    {
+      "id": "208e84f6df88b1787fb8c9318d325d82",
+      "title": "Váy đuôi tôm dáng dài khắc họa trọn vẹn khí chất kiêu sa",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-duoi-tom-dang-dai-khac-hoa-tron-ven-khi-chat-kieu-sa-185260102215519403.htm",
+      "summary": "Giữa bối cảnh thời trang đương đại ngày càng ưu ái những tuyên ngôn trực diện, váy đuôi tôm dáng dài xuất hiện như một lựa chọn mang tính dẫn dắt thị giác. Không phô trương bằng chi tiết cầu kỳ, thiết kế này chinh phục bằng cấu trúc phom dáng đặc trưng: phần thân trên gọn gàng, ôm sát và phần chân v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T05:00:00+07:00",
+      "fetched": "2026-01-04T13:19:04.828592+07:00"
+    },
+    {
+      "id": "38e73e1671d6cba1c51844e7b08f6cb8",
+      "title": "Triển lãm ánh sáng thu hút giới trẻ Hà Nội",
+      "link": "https://vnexpress.net/trien-lam-anh-sang-thu-hut-gioi-tre-ha-noi-5001365.html",
+      "summary": "Không gian triển lãm gồm 8 phòng với concept riêng, kết hợp đèn LED và hệ thống gương, tạo hiệu ứng thị giác 3D như đưa người xem bước vào thế giới ánh sáng đa chiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:58:36+07:00",
+      "fetched": "2026-01-04T13:19:01.860851+07:00"
+    },
+    {
+      "id": "b209a93d89fa6b49964e23588c6bd92e",
+      "title": "Gu mặc sánh đôi của vợ chồng 'Sao đẹp nhất Philippines'",
+      "link": "https://vnexpress.net/gu-mac-sanh-doi-cua-vo-chong-sao-dep-nhat-philippines-5001577.html",
+      "summary": "\"Mỹ nhân đẹp nhất Philippines\" Marian Rivera ưu tiên trang phục gợi cảm, còn tài tử Dingdong Dantes khi phong khoáng, lúc lịch lãm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:53:21+07:00",
+      "fetched": "2026-01-04T13:19:01.861015+07:00"
+    },
+    {
+      "id": "6d776483582e0f25b5a78ccce5342073",
+      "title": "Vừa xong bữa đã vội rót ngay tách trà: Điều gì xảy ra cho cơ thể?",
+      "link": "https://thanhnien.vn/vua-xong-bua-da-voi-rot-ngay-tach-tra-dieu-gi-xay-ra-cho-co-the-185260104115347696.htm",
+      "summary": "Nhiều người có thói quen vừa xong tô phở buổi sáng hay bữa cơm buổi trưa đã vội rót ngay cho mình một tách trà. Vậy, điều gì sẽ xảy ra cho cơ thể nếu uống trà ngay sau bữa ăn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:53:00+07:00",
+      "fetched": "2026-01-04T13:19:04.828756+07:00"
+    },
+    {
+      "id": "ea312e89327be685c2aa613a438886a4",
+      "title": "Tàu có chữ Trung Quốc trôi dạt vào bờ biển Quảng Ngãi",
+      "link": "https://vnexpress.net/tau-co-chu-trung-quoc-troi-dat-vao-bo-bien-quang-ngai-5001579.html",
+      "summary": "Tàu vỏ sắt màu xanh dương, trọng tải khoảng 300 tấn, trên thân ghi chữ Trung Quốc, trôi dạt vào bờ biển Vạn Tường, sáng 4/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:52:00+07:00",
+      "fetched": "2026-01-04T13:19:01.861174+07:00"
+    },
+    {
+      "id": "c5e1ba030351b460033cd6813c5b8942",
+      "title": "Ông Trump tuyên bố Mỹ sẽ điều hành Venezuela sau khi bắt giữ Tổng thống Maduro",
+      "link": "https://thanhnien.vn/ong-trump-tuyen-bo-my-se-dieu-hanh-venezuela-sau-khi-bat-giu-tong-thong-maduro-185260104111040588.htm",
+      "summary": "Tổng thống Donald Trump cho biết Mỹ đã tấn công Venezuela và bắt giữ Tổng thống Nicolas Maduro trong một chiến dịch diễn ra suốt đêm 3.1, đồng thời cam kết sẽ đặt quốc gia này dưới sự kiểm soát của Mỹ trong thời điểm hiện tại, bao gồm cả việc triển khai lực lượng Mỹ nếu cần thiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:46:00+07:00",
+      "fetched": "2026-01-04T13:19:04.828910+07:00"
+    },
+    {
+      "id": "098230fe70746a7afae6e5c6bbf6198c",
+      "title": "U.23 Việt Nam nguy cơ chỉ có 22 cầu thủ tại giải U.23 châu Á, Thanh Nhàn sẽ không bị loại?",
+      "link": "https://thanhnien.vn/u23-viet-nam-nguy-co-chi-co-22-cau-thu-tai-giai-u23-chau-a-thanh-nhan-se-khong-bi-loai-185260104113749855.htm",
+      "summary": "U.23 Việt Nam đang đối mặt với tình huống khá đặc biệt trước thềm giải U.23 châu Á 2026, khi khả năng chỉ mang sang Ả Rập Xê Út 22 cầu thủ thay vì đủ 23 người như quy định của AFC hoàn toàn có thể xảy ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:43:00+07:00",
+      "fetched": "2026-01-04T13:19:04.829058+07:00"
+    },
+    {
+      "id": "36ffd305ebca2ef46e0c0118c81d8766",
+      "title": "Tuần tới miền Bắc đón không khí lạnh tăng cường",
+      "link": "https://vnexpress.net/tuan-toi-mien-bac-don-khong-khi-lanh-tang-cuong-5001580.html",
+      "summary": "Các đợt không khí lạnh tăng cường liên tiếp khiến miền Bắc duy trì rét đậm, vùng núi cao có nơi rét hại trong tuần tới, nhiệt độ thấp nhất phổ biến dưới 15 độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:41:00+07:00",
+      "fetched": "2026-01-04T13:19:01.861332+07:00"
+    },
+    {
+      "id": "b8aa5fa9cfed1b62e1969891c09c1df6",
+      "title": "5 xu hướng du lịch năm 2026",
+      "link": "https://vnexpress.net/5-xu-huong-du-lich-nam-2026-5001568.html",
+      "summary": "Các chuyên gia từ CNBC phân tích nhiều báo cáo thị trường để tìm ra 5 thay đổi lớn trong thói quen chọn điểm đến của du khách thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:39:43+07:00",
+      "fetched": "2026-01-04T13:19:01.861490+07:00"
+    },
+    {
       "id": "03ec0e3f1ac5ef37362edaff926a5895",
       "title": "Xác minh clip chạy xe SH buông 2 tay trên cầu Ba Son, TP.HCM",
       "link": "https://thanhnien.vn/xac-minh-clip-chay-xe-sh-buong-2-tay-tren-cau-ba-son-tphcm-185260104110445422.htm",
@@ -263,6 +703,16 @@ window.newsData_2026_01_04 = {
       "fetched": "2026-01-04T11:41:23.674029+07:00"
     },
     {
+      "id": "b1703ae17bcc142fd301cb8854b2d2ef",
+      "title": "Chuyên gia Harvard chỉ ra 6 lầm tưởng về ăn uống",
+      "link": "https://vnexpress.net/chuyen-gia-harvard-chi-ra-6-lam-tuong-ve-an-uong-5001531.html",
+      "summary": "Nhiều người tin ăn càng nhiều đạm càng tốt hay tập thể dục có thể bù đắp cho việc ăn uống vô độ, nhưng chuyên gia Đại học Harvard khẳng định điều ngược lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:31:00+07:00",
+      "fetched": "2026-01-04T13:19:01.861649+07:00"
+    },
+    {
       "id": "37dfba591fec3679847d68c2b711da8e",
       "title": "Sâm Ngọc Linh: Khi tinh hoa dược liệu Việt đồng hành cùng nhịp sống hiện đại",
       "link": "https://thanhnien.vn/sam-ngoc-linh-khi-tinh-hoa-duoc-lieu-viet-dong-hanh-cung-nhip-song-hien-dai-185260104100417573.htm",
@@ -271,6 +721,16 @@ window.newsData_2026_01_04 = {
       "category": "Tổng hợp",
       "published": "2026-01-04T04:30:00+07:00",
       "fetched": "2026-01-04T11:41:23.674202+07:00"
+    },
+    {
+      "id": "7d60bdea6cf2821711f4963dd1291df3",
+      "title": "Mua bạc miếng tích lũy 10 năm bán lại có dễ như vàng?",
+      "link": "https://vnexpress.net/mua-bac-mieng-tich-luy-10-nam-ban-lai-co-de-nhu-vang-5001564.html",
+      "summary": "Tôi định đầu tư và tích lũy bạc miếng, nhưng lo ngại tính thanh khoản không cao như vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:26:36+07:00",
+      "fetched": "2026-01-04T13:19:01.861829+07:00"
     },
     {
       "id": "b61969f94dc1be69c3c09f633b8ead77",
