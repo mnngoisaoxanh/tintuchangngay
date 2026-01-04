@@ -1,6 +1,6 @@
 window.newsData_2026_01_04 = {
   "date": "2026-01-04",
-  "lastUpdated": "2026-01-04T10:43:09.360203+07:00",
+  "lastUpdated": "2026-01-04T11:41:31.957988+07:00",
   "articles": [
     {
       "id": "71049a309216282274919fd309e15ffa",
@@ -253,6 +253,116 @@ window.newsData_2026_01_04 = {
       "fetched": "2026-01-04T08:07:24.737423+07:00"
     },
     {
+      "id": "03ec0e3f1ac5ef37362edaff926a5895",
+      "title": "Xác minh clip chạy xe SH buông 2 tay trên cầu Ba Son, TP.HCM",
+      "link": "https://thanhnien.vn/xac-minh-clip-chay-xe-sh-buong-2-tay-tren-cau-ba-son-tphcm-185260104110445422.htm",
+      "summary": "Cơ quan chức năng TP.HCM đang vào cuộc xác minh clip ghi lại cảnh nam thanh niên chạy xe SH buông 2 tay khi qua cầu Ba Son.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:33:00+07:00",
+      "fetched": "2026-01-04T11:41:23.674029+07:00"
+    },
+    {
+      "id": "37dfba591fec3679847d68c2b711da8e",
+      "title": "Sâm Ngọc Linh: Khi tinh hoa dược liệu Việt đồng hành cùng nhịp sống hiện đại",
+      "link": "https://thanhnien.vn/sam-ngoc-linh-khi-tinh-hoa-duoc-lieu-viet-dong-hanh-cung-nhip-song-hien-dai-185260104100417573.htm",
+      "summary": "Trong nhịp sống hối hả, việc tìm kiếm các giải pháp sức khỏe chủ động, hiệu quả và phù hợp với lối sống hiện đại đã trở thành xu hướng. Đáp ứng nhu cầu này, Công ty cổ phần Sâm Ngọc Linh Tu Mơ Rông Kon Tum đã không ngừng nghiên cứu, phát triển để mang đến cho người tiêu dùng Việt một hệ sinh thái sả...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:30:00+07:00",
+      "fetched": "2026-01-04T11:41:23.674202+07:00"
+    },
+    {
+      "id": "b61969f94dc1be69c3c09f633b8ead77",
+      "title": "Loạt nước lên án vụ Mỹ bắt Tổng thống Maduro",
+      "link": "https://vnexpress.net/loat-nuoc-len-an-vu-my-bat-tong-thong-maduro-5001541.html",
+      "summary": "Tổng thư ký LHQ cùng lãnh đạo nhiều nước chỉ trích chiến dịch đột kích Venezuela do Mỹ tiến hành, trong khi Hội đồng Bảo an sắp họp khẩn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-04T04:14:04+07:00",
+      "fetched": "2026-01-04T11:41:25.906376+07:00"
+    },
+    {
+      "id": "16862b317e0c734716cea725667efef0",
+      "title": "Dự án đường dẫn cầu Giá Rai mới chậm 6 năm, 35 tỉ đồng tạm ứng chưa thu hồi được",
+      "link": "https://thanhnien.vn/du-an-duong-dan-cau-gia-rai-moi-cham-6-nam-35-ti-dong-tam-ung-chua-thu-hoi-duoc-185260103234355721.htm",
+      "summary": "Khởi công năm 2018, đến nay, dự án đường dẫn vào cầu Giá Rai mới chỉ đạt khoảng 19% khối lượng, và khoản tiền tạm ứng 35 tỉ đồng cho nhà thầu chưa thu hồi được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:10:00+07:00",
+      "fetched": "2026-01-04T11:41:23.674360+07:00"
+    },
+    {
+      "id": "21f4460f2c3b411b9c98a1f7377b2397",
+      "title": "Đi công chứng sẽ không cần nhiều loại giấy tờ: Thuận tiện đủ đường",
+      "link": "https://thanhnien.vn/di-cong-chung-se-khong-can-nhieu-loai-giay-to-thuan-tien-du-duong-18526010410493314.htm",
+      "summary": "Tới đây khi người dân đi công chứng sẽ không cần phải mang theo các loại giấy tờ, đặc biệt là không cần xác nhận tình trạng hôn nhân vốn đang gây nhiều phiền toái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:04:00+07:00",
+      "fetched": "2026-01-04T11:41:23.674511+07:00"
+    },
+    {
+      "id": "141ddd993c23aa633b29717337b026ef",
+      "title": "Em chờ người điềm đạm, chân thành và thật lòng",
+      "link": "https://vnexpress.net/em-cho-nguoi-diem-dam-chan-thanh-va-that-long-5000937.html",
+      "summary": "Em cao 1m55 và nặng khoảng 52 kg; luôn cố gắng giữ lối sống lành mạnh để luôn khỏe mạnh và tích cực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:00:00+07:00",
+      "fetched": "2026-01-04T11:41:20.738829+07:00"
+    },
+    {
+      "id": "447902e331c243205200046afeada1a3",
+      "title": "Sau tiêm botox có thể trẻ hóa da bằng sóng siêu âm không?",
+      "link": "https://vnexpress.net/sau-tiem-botox-co-the-tre-hoa-da-bang-song-sieu-am-khong-5001540.html",
+      "summary": "Tôi vừa tiêm botox thon gọn mặt được một tháng. Giờ tôi muốn thực hiện công nghệ sóng siêu âm (HIFU) để nâng cơ thì có bị tan botox không? (Phương Mai, 38 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:00:00+07:00",
+      "fetched": "2026-01-04T11:41:20.739049+07:00"
+    },
+    {
+      "id": "05336a49cb6e31c16f1d6df62fcc7e66",
+      "title": "Sai lầm khi xử trí trẻ sốt cao co giật",
+      "link": "https://vnexpress.net/sai-lam-khi-xu-tri-tre-sot-cao-co-giat-5001453.html",
+      "summary": "Nhét vật cứng vào miệng hoặc giữ tay chân khi trẻ sốt cao có thể gây sặc dị vật, gãy răng, trật khớp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:00:00+07:00",
+      "fetched": "2026-01-04T11:41:20.739220+07:00"
+    },
+    {
+      "id": "798cce5d6e4c99dccc9db4c0874b66dc",
+      "title": "Xem nhanh 12h: Tạo dáng phản cảm trước chùa Linh Ứng | Căng thẳng Mỹ - Venezuela leo thang",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-tao-dang-phan-cam-truoc-chua-linh-ung-cang-thang-my-venezuela-leo-thang-185260104105835514.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 4.1.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T04:00:00+07:00",
+      "fetched": "2026-01-04T11:41:23.674664+07:00"
+    },
+    {
+      "id": "99c0b2ea5c780c4a89c7321f4d56748e",
+      "title": "Trải nghiệm Razer Huntsman V3 Pro 8KHz: Phím quang học cho môi trường thi đấu chuyên nghiệp",
+      "link": "https://thanhnien.vn/trai-nghiem-razer-huntsman-v3-pro-8khz-phim-quang-hoc-cho-moi-truong-thi-dau-chuyen-nghiep-185251216225833783.htm",
+      "summary": "Thay vì chạy theo phím cơ học truyền thống, Razer kiên định với phím quang học trên Huntsman V3 Pro 8KHz, tập trung vào độ ổn định và kiểm soát thao tác khi thi đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T03:53:00+07:00",
+      "fetched": "2026-01-04T11:41:23.674842+07:00"
+    },
+    {
+      "id": "807162146c4d02ecf1255f855f526f59",
+      "title": "Khách chơi tết đổ về ồ ạt, sân bay Tân Sơn Nhất lập kỷ lục đầu năm",
+      "link": "https://thanhnien.vn/khach-choi-tet-do-ve-o-at-san-bay-tan-son-nhat-lap-ky-luc-dau-nam-185260104104405279.htm",
+      "summary": "Hôm nay (4.1) - ngày cuối cùng của kỳ nghỉ Tết Dương lịch 2026, sân bay Tân Sơn Nhất dự kiến đón lượng khách tăng mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T03:47:00+07:00",
+      "fetched": "2026-01-04T11:41:23.675000+07:00"
+    },
+    {
       "id": "cb9e4cfad3f52ef5a11a34a3f5b9629b",
       "title": "Ngày cuối kỳ nghỉ Tết Dương lịch, vì sao nhiều người mới bắt đầu về miền Tây?",
       "link": "https://thanhnien.vn/ngay-cuoi-ky-nghi-tet-duong-lich-vi-sao-nhieu-nguoi-moi-bat-dau-ve-mien-tay-185260103181751019.htm",
@@ -271,6 +381,36 @@ window.newsData_2026_01_04 = {
       "category": "Tổng hợp",
       "published": "2026-01-04T03:38:00+07:00",
       "fetched": "2026-01-04T10:42:59.220929+07:00"
+    },
+    {
+      "id": "07e759b776586a5ef2a28d322d3d589b",
+      "title": "40 người có thể đã thiệt mạng khi Mỹ tập kích bắt ông Maduro",
+      "link": "https://vnexpress.net/40-nguoi-co-the-da-thiet-mang-khi-my-tap-kich-bat-ong-maduro-5001554.html",
+      "summary": "Ít nhất 40 người Venezuela, gồm quân nhân và dân thường, được cho là đã thiệt mạng khi lực lượng Mỹ đột kích và bắt vợ chồng Tổng thống Maduro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T03:36:23+07:00",
+      "fetched": "2026-01-04T11:41:20.739390+07:00"
+    },
+    {
+      "id": "07e759b776586a5ef2a28d322d3d589b",
+      "title": "40 người có thể đã thiệt mạng khi Mỹ tập kích bắt ông Maduro",
+      "link": "https://vnexpress.net/40-nguoi-co-the-da-thiet-mang-khi-my-tap-kich-bat-ong-maduro-5001554.html",
+      "summary": "Ít nhất 40 người Venezuela, gồm quân nhân và dân thường, được cho là đã thiệt mạng khi lực lượng Mỹ đột kích và bắt vợ chồng Tổng thống Maduro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-04T03:36:23+07:00",
+      "fetched": "2026-01-04T11:41:25.906561+07:00"
+    },
+    {
+      "id": "b6c4c5cbb71850e4bd444a18f834739f",
+      "title": "7 chi tiết nhận biết quần jeans cao cấp, tôn dáng",
+      "link": "https://vnexpress.net/7-chi-tiet-nhan-biet-quan-jeans-cao-cap-ton-dang-5001535.html",
+      "summary": "Không chỉ khác biệt về giá, những chiếc quần jeans cao cấp thường sở hữu \"tỷ lệ vàng\" về chất liệu và đường cắt may, giúp người mặc che giấu nhược điểm cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T03:32:37+07:00",
+      "fetched": "2026-01-04T11:41:20.739554+07:00"
     },
     {
       "id": "1c85e474e02f1dc56a3aae686a247456",
@@ -303,6 +443,16 @@ window.newsData_2026_01_04 = {
       "fetched": "2026-01-04T10:42:59.221399+07:00"
     },
     {
+      "id": "ff50b8756770956b0477e2aa7648c1a2",
+      "title": "Phim 'Tôi như ánh dương rực rỡ' có bản đồ đường đứt đoạn",
+      "link": "https://vnexpress.net/phim-toi-nhu-anh-duong-ruc-ro-co-ban-do-duong-dut-doan-5001559.html",
+      "summary": "Phim Trung Quốc \"Tôi như ánh dương rực rỡ\" bị khán giả kêu gọi ngưng phổ biến sau khi \"bản đồ có đường đứt đoạn\" xuất hiện trong tập 25.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T03:25:22+07:00",
+      "fetched": "2026-01-04T11:41:20.739713+07:00"
+    },
+    {
       "id": "95acfbae629a5785421c85458a14574c",
       "title": "Tổng thống Venezuela Maduro bị bắt đến New York, phó tổng thống lên tiếng",
       "link": "https://thanhnien.vn/tong-thong-venezuela-maduro-bi-bat-den-new-york-pho-tong-thong-len-tieng-185260104092641653.htm",
@@ -311,6 +461,16 @@ window.newsData_2026_01_04 = {
       "category": "Tổng hợp",
       "published": "2026-01-04T03:15:00+07:00",
       "fetched": "2026-01-04T10:42:59.221549+07:00"
+    },
+    {
+      "id": "8d040f60ed8adea040a63c62b65be481",
+      "title": "Công viên Hà Nội lột xác sau chỉnh trang",
+      "link": "https://vnexpress.net/cong-vien-ha-noi-lot-xac-sau-chinh-trang-5001521.html",
+      "summary": "Nhiều công viên Hà Nội đã lột xác sau các dự án chỉnh trang hàng chục tỷ đồng, bổ sung cây xanh, chiếu sáng, khu vui chơi và không gian sinh hoạt cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T03:08:54+07:00",
+      "fetched": "2026-01-04T11:41:20.739902+07:00"
     },
     {
       "id": "0debf11836028119206678ceedacb968",
