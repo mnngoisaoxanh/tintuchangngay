@@ -1,6 +1,6 @@
 window.newsData_2026_01_05 = {
   "date": "2026-01-05",
-  "lastUpdated": "2026-01-05T01:17:32.184185+07:00",
+  "lastUpdated": "2026-01-05T03:13:49.938180+07:00",
   "articles": [
     {
       "id": "b27d8bbfffe364c5e3f069649dde5203",
@@ -151,6 +151,36 @@ window.newsData_2026_01_05 = {
       "category": "Tổng hợp",
       "published": "2026-01-05T01:17:22.192686+07:00",
       "fetched": "2026-01-05T01:17:22.192898+07:00"
+    },
+    {
+      "id": "68486449c48d4a9c9753e39546bc6a5f",
+      "title": "U.23 Jordan tập cực nặng trước trận đại chiến U.23 Việt Nam, sẵn sàng chơi pressing đè bẹp đối thủ",
+      "link": "https://thanhnien.vn/u23-jordan-tap-cuc-nang-truoc-tran-dai-chien-u23-viet-nam-san-sang-choi-pressing-de-bep-doi-thu-185260105002411357.htm",
+      "summary": "U.23 Jordan đang tăng cường tối đa công tác chuẩn bị cho trận ra quân gặp U.23 Việt Nam (6.1) tại VCK U.23 châu Á 2026. Theo truyền thông Jordan, thầy trò HLV Omar Najhi xem đây là bước khởi đầu mang ý nghĩa then chốt trong cuộc đua giành vé vào vòng tứ kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T18:47:00+07:00",
+      "fetched": "2026-01-05T03:13:41.800651+07:00"
+    },
+    {
+      "id": "2eb13d51e4e9a9401a7b397f4d83da23",
+      "title": "Nhạc sĩ Đoàn Bổng qua đời",
+      "link": "https://vnexpress.net/nhac-si-doan-bong-qua-doi-5001701.html",
+      "summary": "Nhạc sĩ Đoàn Bổng, tác giả ca khúc \"Dòng sông quê anh, dòng sông quê em\", qua đời ở tuổi 83, ngày 4/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T18:38:29+07:00",
+      "fetched": "2026-01-05T03:13:38.970086+07:00"
+    },
+    {
+      "id": "48744900c1a1ff3c93d0049cbe8e40d5",
+      "title": "9 dấu hiệu thận yếu dễ bị nhầm lẫn",
+      "link": "https://vnexpress.net/9-dau-hieu-than-yeu-de-bi-nham-lan-5001246.html",
+      "summary": "Thận quá tải hoặc suy giảm chức năng có thể gây mệt mỏi liên tục, sưng ở bàn chân, đau lưng dưới, nước tiểu sẫm màu và ngứa dai dẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T18:05:00+07:00",
+      "fetched": "2026-01-05T03:13:38.970267+07:00"
     },
     {
       "id": "dbb4b52cfeda03595b312bd318623a2c",
