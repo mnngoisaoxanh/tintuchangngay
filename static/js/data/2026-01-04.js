@@ -1,7 +1,157 @@
 window.newsData_2026_01_04 = {
   "date": "2026-01-04",
-  "lastUpdated": "2026-01-04T21:11:26.048776+07:00",
+  "lastUpdated": "2026-01-04T23:14:29.198264+07:00",
   "articles": [
+    {
+      "id": "a290784e52998cf94634c70530a5f38e",
+      "title": "Giả trai để trốn truy nã sau khi trộm vàng người yêu đồng giới",
+      "link": "https://tuoitre.vn/gia-trai-de-tron-truy-na-sau-khi-trom-vang-nguoi-yeu-dong-gioi-20260104191318047.htm",
+      "summary": "Cơ quan cảnh sát điều tra Công an tỉnh Cà Mau vừa bắt giữ Lê Phương Yến (29 tuổi) bị truy nã về tội trộm cắp tài sản, sau thời gian bỏ trốn và thay đổi diện mạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.388080+07:00",
+      "fetched": "2026-01-04T23:14:22.388194+07:00"
+    },
+    {
+      "id": "bca93ab311678b426eda629ca5a86d54",
+      "title": "Vụ sập bờ kè làm 4 người chết: Bờ kè bị lũ gây hư hỏng, đã khảo sát nhưng chưa kịp sửa chữa",
+      "link": "https://tuoitre.vn/vu-sap-bo-ke-lam-4-nguoi-chet-bo-ke-bi-lu-gay-hu-hong-da-khao-sat-nhung-chua-kip-sua-chua-20260103180403543.htm",
+      "summary": "Bờ kè sông Ba ở thôn Lạc Mỹ, xã Sơn Thành, Đắk Lắk (trước thuộc huyện Tây Hòa, tỉnh Phú Yên) bị lũ xói bay nền móng, địa phương và các ngành đã khảo sát, nhưng chưa giao cho nơi nào khắc phục, xử lý thì xảy ra tai nạn làm chết hai cặp vợ chồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.387951+07:00",
+      "fetched": "2026-01-04T23:14:22.388069+07:00"
+    },
+    {
+      "id": "065a66e0434961ecacb3aaf6667951bd",
+      "title": "Báo chí khu vực bức xúc: Malaysia chỉ muốn làm khó bóng đá Việt Nam",
+      "link": "https://tuoitre.vn/bao-chi-khu-vuc-buc-xuc-malaysia-chi-muon-lam-kho-bong-da-viet-nam-20260104174617244.htm",
+      "summary": "Truyền thông nhiều quốc gia trong khu vực tỏ thái độ bức xúc khi nghe tin Liên đoàn Bóng đá Malaysia (FAM) có thể kháng cáo lần thứ 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.387806+07:00",
+      "fetched": "2026-01-04T23:14:22.387939+07:00"
+    },
+    {
+      "id": "e9d87b9af15eb6b98f2d55ed7b1ec0fb",
+      "title": "Jujutsu Kaisen, Frieren trong top 5 anime hấp dẫn nhất đầu năm 2026",
+      "link": "https://tuoitre.vn/jujutsu-kaisen-frieren-trong-top-5-anime-hap-dan-nhat-dau-nam-2026-20260104070826462.htm",
+      "summary": "Sau một năm 2025 rực rỡ với hàng loạt bom tấn anime cả trên màn ảnh rộng lẫn truyền hình, mùa đông 2026 được kỳ vọng sẽ tiếp tục duy trì sức nóng với những cái tên đình đám như Jujutsu Kaisen,  Frieren: Beyond Journey's End.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.387682+07:00",
+      "fetched": "2026-01-04T23:14:22.387795+07:00"
+    },
+    {
+      "id": "8789cb3c070b05cd4dc4258afcc5db9f",
+      "title": "Tỉnh, thành nào đón khách đông nhất dịp Tết dương lịch?",
+      "link": "https://tuoitre.vn/dia-phuong-don-khach-dong-nhat-dip-tet-duong-lich-20260104190406258.htm",
+      "summary": "Kỳ nghỉ Tết dương lịch diễn ra sôi động trên khắp mọi miền, cả nước ước đón 3,5 triệu lượt khách, riêng TP.HCM phục vụ trên 30% tổng lượng khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.387558+07:00",
+      "fetched": "2026-01-04T23:14:22.387671+07:00"
+    },
+    {
+      "id": "6eca1554c35e04b96c11b23d05da6bed",
+      "title": "Điều tra, xử lý vụ nghi ngộ độc thực phẩm khiến nhiều người nhập viện tại Vĩnh Long",
+      "link": "https://tuoitre.vn/dieu-tra-xu-ly-vu-nghi-ngo-ngo-doc-thuc-pham-khien-nhieu-nguoi-nhap-vien-tai-vinh-long-20260104195549324.htm",
+      "summary": "Ngày 4-1, Cục An toàn thực phẩm, Bộ Y tế cho hay đã nhận được thông tin sau bữa ăn trưa tại Công ty TNHH Unisoll Vina, tỉnh Vĩnh Long đã xảy ra vụ nghi ngờ ngộ độc thực phẩm làm nhiều người nhập viện với các triệu chứng như đỏ người, nóng ran...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.387433+07:00",
+      "fetched": "2026-01-04T23:14:22.387547+07:00"
+    },
+    {
+      "id": "d12088454390ef06be224d650accb0fb",
+      "title": "AFC đưa ra 3 đánh giá bất ngờ về U23 Việt Nam",
+      "link": "https://tuoitre.vn/afc-dua-ra-3-danh-gia-bat-ngo-ve-u23-viet-nam-20260104200530411.htm",
+      "summary": "Trước thềm Giải U23 châu Á, Liên đoàn Bóng đá châu Á (AFC) đăng bài viết tổng quan, giới thiệu những điểm đáng chú ý nhất. Việt Nam bất ngờ trở thành đội được nhắc đến nhiều nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.387308+07:00",
+      "fetched": "2026-01-04T23:14:22.387422+07:00"
+    },
+    {
+      "id": "b27d8bbfffe364c5e3f069649dde5203",
+      "title": "Tai nạn tại dự án mở rộng cao tốc TP.HCM - Long Thành, một công nhân tử vong",
+      "link": "https://tuoitre.vn/tai-nan-tai-du-an-mo-rong-cao-toc-tp-hcm-long-thanh-mot-cong-nhan-tu-vong-20260104202126241.htm",
+      "summary": "Trong lúc thi công tại dự án mở rộng đường cao tốc TP.HCM - Long Thành, một công nhân không may bị trụ sắt lớn đè trúng tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.387182+07:00",
+      "fetched": "2026-01-04T23:14:22.387296+07:00"
+    },
+    {
+      "id": "321696500020c1f9ebd4839666cb09f9",
+      "title": "Hơn 100 thành phố Mỹ có biểu tình phản đối chiến dịch quân sự tại Venezuela",
+      "link": "https://tuoitre.vn/hon-100-thanh-pho-my-co-bieu-tinh-phan-doi-chien-dich-quan-su-tai-venezuela-20260104205322192.htm",
+      "summary": "Trong hai ngày 3 và 4-1, ít nhất 100 thành phố lớn nhỏ tại Mỹ đã tổ chức các cuộc biểu tình phản đối chiến dịch quân sự của Mỹ tại Venezuela. Làn sóng biểu tình có thể tiếp tục lan rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.387057+07:00",
+      "fetched": "2026-01-04T23:14:22.387171+07:00"
+    },
+    {
+      "id": "963290238502cfe83ee6fcd6462b864d",
+      "title": "Mỗi bất động sản sẽ có 'chứng minh thư' điện tử riêng",
+      "link": "https://tuoitre.vn/moi-bat-dong-san-se-co-chung-minh-thu-dien-tu-rieng-20260104212542274.htm",
+      "summary": "Từ ngày 1-3-2026, mỗi căn nhà, căn hộ, mỗi bất động sản sẽ được gắn một mã định danh điện tử duy nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.386927+07:00",
+      "fetched": "2026-01-04T23:14:22.387046+07:00"
+    },
+    {
+      "id": "1c79a5260c2784cc83426ff74663c553",
+      "title": "Nhạc sĩ Đoàn Bổng qua đời",
+      "link": "https://tuoitre.vn/nhac-si-doan-bong-qua-doi-2026010421164596.htm",
+      "summary": "Nhạc sĩ Đoàn Bổng, tác giả của nhiều ca khúc nổi tiếng như Hát về Người, Dòng sông quê anh, dòng sông quê em; Hà Nội những kỷ niệm trong tôi, Đêm sông Cầu, qua đời sáng 4-1, hưởng thọ 83 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.386775+07:00",
+      "fetched": "2026-01-04T23:14:22.386914+07:00"
+    },
+    {
+      "id": "19ce21fafb6fd40ebdfa649e6a400046",
+      "title": "Festival hoa kiểng Sa Đéc đón gần 1,2 triệu lượt khách, doanh thu hơn 468 tỉ đồng",
+      "link": "https://tuoitre.vn/festival-hoa-kieng-sa-dec-don-gan-1-2-trieu-luot-khach-doanh-thu-hon-468-ti-dong-20260104211342955.htm",
+      "summary": "Tối 4-1, UBND tỉnh Đồng Tháp tổ chức bế mạc Festival hoa kiểng Sa Đéc lần thứ 2 sau 9 ngày. Ước đón gần 1,2 triệu khách trải nghiệm các hoạt động, tham quan làng hoa, xem trình diễn khinh khí cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.386644+07:00",
+      "fetched": "2026-01-04T23:14:22.386764+07:00"
+    },
+    {
+      "id": "5bb4b62cac41163dcf5d909fbb699aeb",
+      "title": "Ông Trump ra lệnh bắt Tổng thống Venezuela đưa về Mỹ xét xử: Pháp luật Mỹ quy định thế nào?",
+      "link": "https://tuoitre.vn/ong-trump-ra-lenh-bat-tong-thong-venezuela-dua-ve-my-xet-xu-phap-luat-my-quy-dinh-the-nao-20260103192905849.htm",
+      "summary": "Cuộc tấn công của Washington vào Venezuela và bắt giữ, đưa ông Maduro về Mỹ xét xử dẫn đến nhiều phản ứng trái chiều về tính hợp pháp của hành động này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.386508+07:00",
+      "fetched": "2026-01-04T23:14:22.386632+07:00"
+    },
+    {
+      "id": "1cccff6ee613cddf9db55d82fa41e251",
+      "title": "Nhiều điểm vui chơi đón lượng khách lớn, tung chương trình mới thu hút khách",
+      "link": "https://tuoitre.vn/nhieu-diem-vui-choi-don-luong-khach-lon-tung-chuong-trinh-moi-thu-hut-khach-20260104213852869.htm",
+      "summary": "Nhiều điểm vui chơi đã đón lượng lớn khách dịp Tết dương lịch, vượt chỉ tiêu đề ra. Để hút khách, không ít các điểm tung ra nhiều chương trình mới lạ, giảm thêm giá vé.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.386363+07:00",
+      "fetched": "2026-01-04T23:14:22.386496+07:00"
+    },
+    {
+      "id": "aea9091c2c429d319c4f224869f0329b",
+      "title": "CONGB như thể từng chia tay 100 lần với 'Bài hát này dành riêng cho mình em'",
+      "link": "https://tuoitre.vn/congb-nhu-the-tung-chia-tay-100-lan-voi-bai-hat-nay-danh-rieng-cho-minh-em-20260104215636042.htm",
+      "summary": "CONGB trở lại với Bài hát này dành riêng cho mình em, kết hợp với á quân buitruonglinh. Ca khúc mang màu sắc nhẹ nhàng, đánh dấu bước chuyển mình của nam sĩ sau Anh trai say hi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T23:14:22.386131+07:00",
+      "fetched": "2026-01-04T23:14:22.386348+07:00"
+    },
     {
       "id": "d5c2f5b6636b7d8a520f0c7ee85bb748",
       "title": "FIFA khốn khổ vì Tổng thống Donald Trump",
@@ -443,6 +593,26 @@ window.newsData_2026_01_04 = {
       "fetched": "2026-01-04T17:12:27.195701+07:00"
     },
     {
+      "id": "bce0dab6e7dae4cf2d18e6cd1d8dcc7f",
+      "title": "Vợ quan chức Mỹ đăng ảnh cờ Mỹ phủ kín Greenland, Đan Mạch phản đối",
+      "link": "https://vnexpress.net/vo-quan-chuc-my-dang-anh-co-my-phu-kin-greenland-dan-mach-phan-doi-5001686.html",
+      "summary": "Vợ của Phó chánh văn phòng Nhà Trắng đăng ảnh ngụ ý đảo Greenland sẽ sớm thuộc về Mỹ, khiến quan chức Đan Mạch lên tiếng phản đối.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-04T15:53:12+07:00",
+      "fetched": "2026-01-04T23:14:24.139601+07:00"
+    },
+    {
+      "id": "e83b69c64741ce27544fabe73884c5b9",
+      "title": "Khánh Hòa: Xác minh vụ dọa đánh du khách nước ngoài ở bãi biển Nha Trang",
+      "link": "https://thanhnien.vn/khanh-hoa-xac-minh-vu-doa-danh-du-khach-nuoc-ngoai-o-bai-bien-nha-trang-185260104202337434.htm",
+      "summary": "Công an P.Nha Trang (Khánh Hòa) đang xác minh clip ghi cảnh nhóm người mặc đồng phục áo xanh cầm xẻng, ghế dọa đánh du khách nước ngoài tại công viên bãi biển, gây ảnh hưởng xấu đến hình ảnh du lịch Nha Trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T15:18:00+07:00",
+      "fetched": "2026-01-04T23:14:21.261288+07:00"
+    },
+    {
       "id": "f3dcfb82b1c73cf07ab0f4d82de09aed",
       "title": "Gieo mầm năng khiếu từ tổ ấm",
       "link": "https://tuoitre.vn/gieo-mam-nang-khieu-tu-to-am-20260104093840352.htm",
@@ -593,6 +763,136 @@ window.newsData_2026_01_04 = {
       "fetched": "2026-01-04T15:16:43.269646+07:00"
     },
     {
+      "id": "c77cf50a2d10af5f378f6ef9b6cf371d",
+      "title": "Công nhân bị cọc sắt đè chết khi xây cao tốc TP HCM - Long Thành",
+      "link": "https://vnexpress.net/cong-nhan-bi-coc-sat-de-chet-khi-xay-cao-toc-tp-hcm-long-thanh-5001687.html",
+      "summary": "Trong quá trình thi công dự án mở rộng cao tốc TP HCM - Long Thành, nam công nhân bị cọc sắt rơi trúng tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T15:04:20+07:00",
+      "fetched": "2026-01-04T23:14:18.323143+07:00"
+    },
+    {
+      "id": "b68499ba025ca8ac40eecf5ba2add029",
+      "title": "Ảnh vệ tinh căn cứ lớn nhất Venezuela trước và sau cuộc tập kích của Mỹ",
+      "link": "https://vnexpress.net/anh-ve-tinh-can-cu-lon-nhat-venezuela-truoc-va-sau-cuoc-tap-kich-cua-my-5001680.html",
+      "summary": "Ảnh vệ tinh cho thấy căn cứ Fuerte Tiuna, nơi Tổng thống Maduro trú ẩn vào rạng sáng 3/1, chịu thiệt hại nặng sau chiến dịch của Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T14:57:12+07:00",
+      "fetched": "2026-01-04T23:14:18.323324+07:00"
+    },
+    {
+      "id": "b68499ba025ca8ac40eecf5ba2add029",
+      "title": "Ảnh vệ tinh căn cứ lớn nhất Venezuela trước và sau cuộc tập kích của Mỹ",
+      "link": "https://vnexpress.net/anh-ve-tinh-can-cu-lon-nhat-venezuela-truoc-va-sau-cuoc-tap-kich-cua-my-5001680.html",
+      "summary": "Ảnh vệ tinh cho thấy căn cứ Fuerte Tiuna, nơi Tổng thống Maduro trú ẩn vào rạng sáng 3/1, chịu thiệt hại nặng sau chiến dịch của Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-04T14:57:12+07:00",
+      "fetched": "2026-01-04T23:14:24.139792+07:00"
+    },
+    {
+      "id": "6ac5d59a6feb265525abcd27bee3a691",
+      "title": "Du học sinh trường top cũng 'khó thở' vì việc làm",
+      "link": "https://vnexpress.net/du-hoc-sinh-truong-top-cung-kho-tho-vi-viec-lam-5001666.html",
+      "summary": "Dù tốt nghiệp đại học danh tiếng, nhiều du học sinh vẫn chật vật tìm việc, do rào cản ngôn ngữ và quy trình bảo lãnh visa phức tạp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T14:46:27+07:00",
+      "fetched": "2026-01-04T23:14:18.323492+07:00"
+    },
+    {
+      "id": "d4198847d8d399cf59bbe942ea3dabb6",
+      "title": "30 con bạc bị bắt tại vịnh Hạ Long trong cuộc đột kích sòng bạc",
+      "link": "https://thanhnien.vn/30-con-bac-bi-bat-tai-vinh-ha-long-trong-cuoc-dot-kich-song-bac-185260104205100255.htm",
+      "summary": "Một đường dây tổ chức đánh bạc quy mô lớn, hoạt động tinh vi trên vùng biển vịnh Hạ Long vừa bị Công an tỉnh Quảng Ninh triệt phá, bắt giữ 30 đối tượng cùng số tiền mặt hơn 430 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T14:35:00+07:00",
+      "fetched": "2026-01-04T23:14:21.261459+07:00"
+    },
+    {
+      "id": "1abe961993788192ca9c72a4db4fbf62",
+      "title": "Tạm đình chỉ hướng dẫn viên di tích Lam Kinh thuyết minh sai về quân Tây Sơn",
+      "link": "https://thanhnien.vn/tam-dinh-chi-huong-dan-vien-di-tich-lam-kinh-thuyet-minh-sai-ve-quan-tay-son-185260104184110473.htm",
+      "summary": "Khi diễn đạt thông tin chính điện Lam Kinh từng trải qua thăng trầm, biến cố của nhiều triều đại khác nhau, hướng dẫn viên của di tích Lam Kinh này đã nói vấp, nhầm thành 'phản động Tây Sơn'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T14:34:00+07:00",
+      "fetched": "2026-01-04T23:14:21.261621+07:00"
+    },
+    {
+      "id": "c0cb19ec750ec26ded1b791729c4bf3d",
+      "title": "Nhiều công nhân Công ty Unisoll Vina nhập viện sau bữa ăn trưa",
+      "link": "https://thanhnien.vn/nhieu-cong-nhan-cong-ty-unisoll-vina-nhap-vien-sau-bua-an-trua-185260104193256129.htm",
+      "summary": "Nhiều người phải nhập viện với các triệu chứng như đỏ người, nóng ran, đau đầu, nghi do ngộ độc thực phẩm, sau bữa ăn trưa tại Công ty TNHH Unisoll Vina, Vĩnh Long.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T14:32:00+07:00",
+      "fetched": "2026-01-04T23:14:21.261782+07:00"
+    },
+    {
+      "id": "d4096eab2c59c847ed6a4a4718d2f7e3",
+      "title": "Hồ Trung Dũng: Tôi không thấy mình nhạt, bởi không bao giờ so sánh với ai",
+      "link": "https://thanhnien.vn/ho-trung-dung-toi-khong-thay-minh-nhat-boi-khong-bao-gio-so-sanh-voi-ai-185260104211228692.htm",
+      "summary": "Giữa một thị trường âm nhạc sôi động, nơi nghệ sĩ dễ bị cuốn vào vòng xoáy của lượt xem, xu hướng và những cuộc so kè ngầm, Hồ Trung Dũng chọn cho mình một nhịp đi khác. Chậm rãi, điềm đạm và nhất quán, nam ca sĩ không tìm cách làm mình nổi bật bằng chiêu trò.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T14:31:00+07:00",
+      "fetched": "2026-01-04T23:14:21.261956+07:00"
+    },
+    {
+      "id": "0d1b70223a8f52a48c6015d977468938",
+      "title": "Bộ Xây dựng nghiên cứu phương án đầu tư dự án đường sắt tốc độ cao Bắc - Nam",
+      "link": "https://thanhnien.vn/bo-xay-dung-nghien-cuu-phuong-an-dau-tu-du-an-duong-sat-toc-do-cao-bac-nam-185260104185010906.htm",
+      "summary": "Chính phủ yêu cầu Bộ Xây dựng chủ trì nghiên cứu phương thức đầu tư (đầu tư công, đầu tư theo phương thức PPP, đầu tư kinh doanh) dự án đường sắt tốc độ cao Bắc - Nam, báo cáo trước 10.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T14:28:00+07:00",
+      "fetched": "2026-01-04T23:14:21.262111+07:00"
+    },
+    {
+      "id": "66ed49d5a6e9a4761588aac40030205c",
+      "title": "Chàng quân nhân tham gia show hẹn hò khiến Ngọc Lan phấn khích, ước được trẻ lại",
+      "link": "https://thanhnien.vn/chang-quan-nhan-tham-gia-show-hen-ho-khien-ngoc-lan-phan-khich-uoc-duoc-tre-lai-185260104192825795.htm",
+      "summary": "Xuất hiện tại chương trình 'Bạn muốn hẹn hò', chàng quân nhân Võ Huỳnh Kỳ chiếm thiện cảm của Ngọc Lan bởi sự hiền lành, chững chạc. Sau những chia sẻ thẳng thắn về tình yêu và hôn nhân, anh đã cùng cô gái ở TP.HCM bấm nút để tìm hiểu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T14:23:00+07:00",
+      "fetched": "2026-01-04T23:14:21.262260+07:00"
+    },
+    {
+      "id": "fa17098c33a8c290d97525cf9e50bf95",
+      "title": "Man Utd cầm hòa Leeds ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-cam-hoa-leeds-o-ngoai-hang-anh-5001681.html",
+      "summary": "Tiền đạo Matheus Cunha ghi bàn, giúp Man Utd hòa chủ nhà Leeds 1-1 ở vòng 20 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T14:22:05+07:00",
+      "fetched": "2026-01-04T23:14:18.323657+07:00"
+    },
+    {
+      "id": "fa17098c33a8c290d97525cf9e50bf95",
+      "title": "Man Utd cầm hoà Leeds ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-cam-hoa-leeds-o-ngoai-hang-anh-5001681.html",
+      "summary": "Tiền đạo Matheus Cunha ghi bàn, nhưng Man Utd chỉ có thể hòa chủ nhà Leeds 1-1 ở vòng 20 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-04T14:22:05+07:00",
+      "fetched": "2026-01-04T23:14:29.186335+07:00"
+    },
+    {
+      "id": "ca80e9a83377ff2130ce04f25f1685fb",
+      "title": "Vẻ nóng bỏng của cô gái vừa đăng quang Hoa hậu biển Việt Nam",
+      "link": "https://thanhnien.vn/ve-nong-bong-cua-co-gai-vua-dang-quang-hoa-hau-bien-viet-nam-185260104192416788.htm",
+      "summary": "Trong đêm chung kết Hoa hậu biển Việt Nam, thí sinh Vũ Thu Hằng vượt qua 24 ứng viên còn lại để giành danh hiệu cao nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T14:19:00+07:00",
+      "fetched": "2026-01-04T23:14:21.262413+07:00"
+    },
+    {
       "id": "15ccf8a7be52ff567a16cab72c978750",
       "title": "Nóng: Vĩ Hào lại tái phát chấn thương nên sớm chia tay giải U.23 châu Á, ông Kim đau đầu",
       "link": "https://thanhnien.vn/nong-vi-hao-lai-tai-phat-chan-thuong-nen-som-chia-tay-giai-u23-chau-a-ong-kim-dau-dau-185260104205743063.htm",
@@ -601,6 +901,56 @@ window.newsData_2026_01_04 = {
       "category": "Tổng hợp",
       "published": "2026-01-04T14:02:00+07:00",
       "fetched": "2026-01-04T21:11:17.460659+07:00"
+    },
+    {
+      "id": "b675d6bddd7d40f79623a2418b0aee4f",
+      "title": "Tôi có nên thuê bạn trai vì lỡ hứa với bố mẹ Tết dẫn về ra mắt",
+      "link": "https://vnexpress.net/toi-co-nen-thue-ban-trai-vi-lo-hua-voi-bo-me-tet-dan-ve-ra-mat-5001506.html",
+      "summary": "Bây giờ mà nói đã chia tay, có thể không bị mắng, nhưng tôi không muốn làm ba buồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T14:00:00+07:00",
+      "fetched": "2026-01-04T23:14:18.323817+07:00"
+    },
+    {
+      "id": "13343235a5c4fee66312cb821994b309",
+      "title": "'Good Goodbye' - lời chia tay trong kiêu hãnh của Hwasa",
+      "link": "https://vnexpress.net/good-goodbye-loi-chia-tay-trong-kieu-hanh-cua-hwasa-5001317.html",
+      "summary": "\"Good Goodbye\" - MV chủ đề đôi lứa chia tay của Hwasa - gây tiếng vang, giúp cô trở thành hiện tượng làng nhạc Hàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T14:00:00+07:00",
+      "fetched": "2026-01-04T23:14:18.324002+07:00"
+    },
+    {
+      "id": "6cded655c381eab43cbc66adeaad70f6",
+      "title": "Một câu chuyện bắt đầu từ sự chân thành và tử tế",
+      "link": "https://vnexpress.net/mot-cau-chuyen-bat-dau-tu-su-chan-thanh-va-tu-te-5000931.html",
+      "summary": "Nếu lá thư này đủ duyên kết nối mẹ và ba con, vài năm nữa mẹ có thể kể con nghe rằng mẹ gặp ba theo một cách rất đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T14:00:00+07:00",
+      "fetched": "2026-01-04T23:14:18.324116+07:00"
+    },
+    {
+      "id": "68676673a5949a450105043550674011",
+      "title": "Đầu năm rồi, mình quen nhau đi, cuối năm mình cưới",
+      "link": "https://vnexpress.net/dau-nam-roi-minh-quen-nhau-di-cuoi-nam-minh-cuoi-5001499.html",
+      "summary": "Đầu năm mình bắt đầu bằng một lời chào, để cuối năm mình kết thúc bằng một lễ đường ngập hoa, anh nhé.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:59:19+07:00",
+      "fetched": "2026-01-04T23:14:18.324209+07:00"
+    },
+    {
+      "id": "6706e147566a5cae986438bfa59f244a",
+      "title": "Ông Trump nói về chiến dịch 140 phút bắt Tổng thống Maduro",
+      "link": "https://vnexpress.net/ong-trump-noi-ve-chien-dich-140-phut-bat-tong-thong-maduro-5001655.html",
+      "summary": "Tại cuộc họp báo, ông Trump tiết lộ rằng trong chiến dịch đột kích Venezuela kéo dài khoảng 2 giờ 20 phút, đặc nhiệm Mỹ đã chuẩn bị kịch bản \"hạ gục\" Tổng thống Maduro nếu không thể khống chế mục tiêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:47:05+07:00",
+      "fetched": "2026-01-04T23:14:18.324364+07:00"
     },
     {
       "id": "14167395d46c1b239eaa222a47924a5f",
@@ -621,6 +971,16 @@ window.newsData_2026_01_04 = {
       "category": "Tổng hợp",
       "published": "2026-01-04T13:23:29+07:00",
       "fetched": "2026-01-04T21:11:14.380877+07:00"
+    },
+    {
+      "id": "1dd4f005a5c3c75495b0c7c5f132f7a3",
+      "title": "5 tỉnh thành vượt nghìn tỷ đồng doanh thu du lịch dịp Tết Dương lịch",
+      "link": "https://vnexpress.net/5-tinh-thanh-vuot-nghin-ty-dong-doanh-thu-du-lich-dip-tet-duong-lich-5001624.html",
+      "summary": "TP HCM, Đà Nẵng, Hà Nội, Quảng Ninh và Lâm Đồng đạt doanh thu du lịch trên 1.000 tỷ đồng sau 4 ngày nghỉ lễ Tết Dương lịch 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:23:29+07:00",
+      "fetched": "2026-01-04T23:14:18.324528+07:00"
     },
     {
       "id": "a1753d95d6338cd1e53902650735176b",
