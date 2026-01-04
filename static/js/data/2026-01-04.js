@@ -1,7 +1,157 @@
 window.newsData_2026_01_04 = {
   "date": "2026-01-04",
-  "lastUpdated": "2026-01-04T15:16:52.580146+07:00",
+  "lastUpdated": "2026-01-04T17:12:35.406152+07:00",
   "articles": [
+    {
+      "id": "eac6da013c5073f207221cac50c5484b",
+      "title": "TPBank chi 3.600 tỉ đồng nắm quyền chi phối một công ty chứng khoán",
+      "link": "https://tuoitre.vn/tpbank-chi-3-600-ti-dong-nam-quyen-chi-phoi-mot-cong-ty-chung-khoan-20260104103359259.htm",
+      "summary": "TPBank vừa thông báo đã hoàn tất việc mua 288 triệu cổ phiếu phát hành riêng lẻ của Công ty CP Chứng khoán Tiên Phong (TPS), với tổng giá trị thương vụ khoảng 3.600 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.197140+07:00",
+      "fetched": "2026-01-04T17:12:27.197238+07:00"
+    },
+    {
+      "id": "8719645a57b7d88ba7407156e81c7985",
+      "title": "Việt kiều Úc về khoác áo CLB Công An TP.HCM",
+      "link": "https://tuoitre.vn/viet-kieu-uc-ve-khoac-ao-clb-cong-an-tp-hcm-20260104133859782.htm",
+      "summary": "Khoa Ngo gia nhập CLB bóng đá Công An TP.HCM chỉ 2 ngày sau khi ghi bàn cho CLB Perth Glory ở Giải vô địch quốc gia Úc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.197035+07:00",
+      "fetched": "2026-01-04T17:12:27.197131+07:00"
+    },
+    {
+      "id": "e23e0e3b52cc49cf78f5f0f23302c773",
+      "title": "Đánh pickleball để trồng hoa anh đào ở Măng Đen, du lịch Quảng Ngãi bội thu dịp Tết dương lịch",
+      "link": "https://tuoitre.vn/danh-pickleball-de-trong-hoa-anh-dao-o-mang-den-du-lich-quang-ngai-boi-thu-dip-tet-duong-lich-20260104132329816.htm",
+      "summary": "Giải pickleball tỉnh Quảng Ngãi mở rộng 2026 tổ chức tại Măng Đen đã để lại dấu ấn đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.196931+07:00",
+      "fetched": "2026-01-04T17:12:27.197026+07:00"
+    },
+    {
+      "id": "947fc045f6f523e62905a93b9ff0bb80",
+      "title": "Lương tháng 18 triệu, trừ chi tiêu còn 3-4 triệu, mua nhà khó như 'hái sao trên trời'",
+      "link": "https://tuoitre.vn/luong-thang-18-trieu-tru-chi-tieu-con-3-4-trieu-mua-nha-kho-nhu-hai-sao-tren-troi-20251224232342168.htm",
+      "summary": "Lương tháng hơn 18 triệu đồng, sau khi trừ tiền thuê trọ, ăn uống, đi lại, số tiền tiết kiệm mỗi tháng chỉ khoảng 3-4 triệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.196827+07:00",
+      "fetched": "2026-01-04T17:12:27.196922+07:00"
+    },
+    {
+      "id": "33f596dcb3adda543485763712909626",
+      "title": "Tin tức giá xe: MG HS giảm mạnh còn 529 triệu đồng, cỡ Hyundai Tucson nhưng giá ngang xe hạng A",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-mg-hs-giam-manh-con-529-trieu-dong-co-hyundai-tucson-nhung-gia-ngang-xe-hang-a-20260104082038095.htm",
+      "summary": "MG HS đang được các đại lý áp dụng mức giảm sâu, đưa giá bán xuống ngưỡng thấp kỷ lục, tương đương tầm tiền của xe cỡ A dù thuộc phân khúc SUV hạng C. Diễn biến này được kỳ vọng sẽ thu hút nhóm khách hàng đề cao trang bị và không gian sử dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.196709+07:00",
+      "fetched": "2026-01-04T17:12:27.196814+07:00"
+    },
+    {
+      "id": "4f313a210331db6fad8c9fc25a7a2d4f",
+      "title": "Hà Nội phá vỡ mọi kỷ lục lượng khách dịp Tết dương lịch",
+      "link": "https://tuoitre.vn/ha-noi-pha-vo-moi-ky-luc-luong-khach-dip-tet-duong-lich-20260104131152604.htm",
+      "summary": "Lượng khách tăng cao đột biến, Hà Nội đón trên 560.000 lượt khách trong dịp Tết dương lịch, thu về 2.100 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.196605+07:00",
+      "fetched": "2026-01-04T17:12:27.196700+07:00"
+    },
+    {
+      "id": "77eb180026870caf317319811bfc5ce6",
+      "title": "Thanh Thúy 'phục thù' thành công 1 ngày sau thất bại",
+      "link": "https://tuoitre.vn/thanh-thuy-phuc-thu-thanh-cong-1-ngay-sau-that-bai-20260104135553721.htm",
+      "summary": "Trần Thị Thanh Thúy cùng CLB Gunma Green Wings đã tìm được niềm vui chiến thắng trước Astemo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.196501+07:00",
+      "fetched": "2026-01-04T17:12:27.196596+07:00"
+    },
+    {
+      "id": "a59e3dac81328e1e03f8fb7547899073",
+      "title": "Ái Như đi tìm người trẻ cho sân khấu",
+      "link": "https://tuoitre.vn/ai-nhu-di-tim-nguoi-tre-cho-san-khau-20260104103321883.htm",
+      "summary": "Nghệ sĩ Ái Như vừa thở phào nhẹ nhõm, vở kịch Tết 2026 Hẹn nhau ở cuối con đường hứa hẹn sẽ chinh phục khán giả mùa Tết này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.196395+07:00",
+      "fetched": "2026-01-04T17:12:27.196492+07:00"
+    },
+    {
+      "id": "7194476b2bf6e4e3c1d0e4b131ccd38b",
+      "title": "Hướng dẫn viên ở Lam Kinh nhắc tới nhà Tây Sơn gây tranh cãi, ban quản lý nói do 'sai sót cá nhân'",
+      "link": "https://tuoitre.vn/huong-dan-vien-o-lam-kinh-nhac-toi-nha-tay-son-gay-tranh-cai-ban-quan-ly-noi-do-sai-sot-ca-nhan-20260104135007774.htm",
+      "summary": "Đoạn video về hướng dẫn viên ở di tích Lam Kinh, Thanh Hóa nhắc tới nhà Tây Sơn tạo tranh cãi, phản ứng gay gắt trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.196290+07:00",
+      "fetched": "2026-01-04T17:12:27.196386+07:00"
+    },
+    {
+      "id": "f8769cd2fe2f94c5201c82644ced6229",
+      "title": "Cấm xe tải trên 10 tấn vào vành đai 3 để tránh ùn tắc trong ngày dân trở lại Hà Nội sau nghỉ lễ",
+      "link": "https://tuoitre.vn/cam-xe-tai-tren-10-tan-vao-vanh-dai-3-de-tranh-un-tac-trong-ngay-dan-tro-lai-ha-noi-sau-nghi-le-20260104121438255.htm",
+      "summary": "Cấm xe tải hơn 10 tấn lưu thông trên đường vành đai 3 trên cao đoạn từ cầu Thăng Long đến nút giao quốc lộ 5 cũ và ngược lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.196185+07:00",
+      "fetched": "2026-01-04T17:12:27.196281+07:00"
+    },
+    {
+      "id": "fe3c1c2c47cb6f246202aba2022f6de3",
+      "title": "Lật ghe chở nhóm người đi làm rẫy, 1 người chết đuối",
+      "link": "https://tuoitre.vn/lat-ghe-cho-nhom-nguoi-di-lam-ray-1-nguoi-chet-duoi-20260104144740298.htm",
+      "summary": "Lật ghe chở một nhóm người dân ở xã miền núi Đà Nẵng trong lúc bơi qua sông đi làm rẫy, 1 người chết đuối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.196066+07:00",
+      "fetched": "2026-01-04T17:12:27.196175+07:00"
+    },
+    {
+      "id": "2f1639de72eca6dce72e78eedc77e463",
+      "title": "'Cuộc chiến sầu riêng': Việt Nam sắp chạm 50% thị phần tại Trung Quốc, Thái Lan lo mất ngôi",
+      "link": "https://tuoitre.vn/cuoc-chien-sau-rieng-viet-nam-sap-cham-50-thi-phan-tai-trung-quoc-thai-lan-lo-mat-ngoi-20260104145932814.htm",
+      "summary": "Truyền thông Thái Lan nêu lo ngại sầu riêng tươi Việt Nam sẽ sớm 'vượt mặt' sầu riêng Thái tại thị trường Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.195958+07:00",
+      "fetched": "2026-01-04T17:12:27.196057+07:00"
+    },
+    {
+      "id": "42fe08cd54ccff75bf0b2868072f4786",
+      "title": "Bắt nhanh nhóm trộm cà phê, giá tăng cao kéo theo nỗi lo mất trộm",
+      "link": "https://tuoitre.vn/bat-nhanh-nhom-trom-ca-phe-gia-tang-cao-keo-theo-noi-lo-mat-trom-20260104140003166.htm",
+      "summary": "Giá cà phê tăng cao, người dân phấn khởi nhưng kèm nỗi lo trộm cắp. Công an xã Đăk Ui, Quảng Ngãi vừa bắt giữ nhóm trộm cà phê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.195846+07:00",
+      "fetched": "2026-01-04T17:12:27.195948+07:00"
+    },
+    {
+      "id": "794571e4c6b1a851dca4c5fe22aac2ac",
+      "title": "Phú Quốc đón gần 176.000 lượt khách dịp Tết dương lịch",
+      "link": "https://tuoitre.vn/phu-quoc-don-gan-176-000-luot-khach-dip-tet-duong-lich-20260104150835524.htm",
+      "summary": "Trong 4 ngày nghỉ Tết dương lịch, Phú Quốc đón gần 176.000 lượt khách (tăng hơn 156% so với cùng kỳ), khách quốc tế gần 30.000 lượt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.195724+07:00",
+      "fetched": "2026-01-04T17:12:27.195835+07:00"
+    },
+    {
+      "id": "47ca5594dbe87c34151bea9a7526d7f6",
+      "title": "Trung Quốc yêu cầu Mỹ 'thả ngay lập tức' ông Maduro",
+      "link": "https://tuoitre.vn/trung-quoc-yeu-cau-my-tha-ngay-lap-tuc-ong-maduro-20260104154048493.htm",
+      "summary": "Trung Quốc yêu cầu Mỹ bảo đảm an toàn cho Tổng thống Venezuela Nicolas Maduro và vợ, đồng thời phải thả họ \"ngay lập tức\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T17:12:27.195503+07:00",
+      "fetched": "2026-01-04T17:12:27.195701+07:00"
+    },
     {
       "id": "f3dcfb82b1c73cf07ab0f4d82de09aed",
       "title": "Gieo mầm năng khiếu từ tổ ấm",
@@ -403,6 +553,316 @@ window.newsData_2026_01_04 = {
       "fetched": "2026-01-04T10:43:00.412235+07:00"
     },
     {
+      "id": "c6e99422497fe3b73723cfa583dcbf7c",
+      "title": "Vụ bé gái 13 tuổi bị sát hại: Lời khai ban đầu của nghi phạm",
+      "link": "https://thanhnien.vn/vu-be-gai-13-tuoi-bi-sat-hai-loi-khai-ban-dau-cua-nghi-pham-185260104162257923.htm",
+      "summary": "Liên quan vụ bé gái 13 tuổi bị sát hại, Cơ quan CSĐT Công an tỉnh Cà Mau đã khởi tố vụ án giết người. Nghi phạm là thiếu niên 16 tuổi cũng có lời khai lần đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T10:08:00+07:00",
+      "fetched": "2026-01-04T17:12:26.150374+07:00"
+    },
+    {
+      "id": "de36a7dceb459a546465e1288bc4a281",
+      "title": "Kiện tướng Thu Hương: Không nhảy với Phan Hiển nếu không có Khánh Thi",
+      "link": "https://thanhnien.vn/kien-tuong-thu-huong-khong-nhay-voi-phan-hien-neu-khong-co-khanh-thi-18526010416442288.htm",
+      "summary": "Kiện tướng Thu Hương cho biết mình và Phan Hiển luôn giữ khoảng cách với nhau. Thậm chí, cả hai không trò chuyện riêng tư để tránh gây hiểu lầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T10:07:00+07:00",
+      "fetched": "2026-01-04T17:12:26.150517+07:00"
+    },
+    {
+      "id": "64307220d7fc10646594c6611127bc74",
+      "title": "Lễ hội xuống đồng: Khách Tây mê tít khi lội ruộng cấy lúa cùng nông dân",
+      "link": "https://thanhnien.vn/le-hoi-xuong-dong-khach-tay-me-tit-khi-loi-ruong-cay-lua-cung-nong-dan-185260104160844896.htm",
+      "summary": "Hào hứng cấy lúa, tát nước, nhóm bếp rơm nấu cơm..., nhiều du khách quốc tế đã có trải nghiệm khó quên khi hòa mình vào lễ hội 'Xuống đồng Hội An Đông 2026', mở đầu cho chuỗi sự kiện văn hóa – du lịch của TP.Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T10:05:00+07:00",
+      "fetched": "2026-01-04T17:12:26.150650+07:00"
+    },
+    {
+      "id": "a582ebed9acfc3bc1a1f184068b15442",
+      "title": "Phi cơ nghi là UAV 30 triệu USD của Mỹ rơi ở Afghanistan",
+      "link": "https://vnexpress.net/phi-co-nghi-la-uav-30-trieu-usd-cua-my-roi-o-afghanistan-5001337.html",
+      "summary": "UAV được cho là MQ-9 Reaper của Mỹ rơi xuống miền trung Afghanistan, chưa rõ gặp sự cố hay bị bắn hạ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-04T10:02:08+07:00",
+      "fetched": "2026-01-04T17:12:28.875112+07:00"
+    },
+    {
+      "id": "7f4fca55e876779bb64d24e5c00c6424",
+      "title": "Bản tin chiều: 50 giờ phá án vụ cướp tiệm vàng | Bí ẩn tàu sắt trôi dạt bờ biển Quảng Ngãi",
+      "link": "https://thanhnien.vn/ban-tin-chieu-50-gio-pha-an-vu-cuop-tiem-vang-bi-an-tau-sat-troi-dat-bo-bien-quang-ngai-185260104155250869.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T10:00:00+07:00",
+      "fetched": "2026-01-04T17:12:26.150791+07:00"
+    },
+    {
+      "id": "7eb1dd573a46eccf332327d52e3fb1b3",
+      "title": "Soobin gây áp lực cho học trò?",
+      "link": "https://thanhnien.vn/soobin-gay-ap-luc-cho-hoc-tro-185260104123837885.htm",
+      "summary": "Với vai trò nhà sản xuất toàn năng, Soobin tiếp tục dẫn dắt dàn 'Tân binh toàn năng' vượt qua loạt thử thách căng thẳng ở vòng chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:58:00+07:00",
+      "fetched": "2026-01-04T17:12:26.150918+07:00"
+    },
+    {
+      "id": "16df2905a6d9a6ebecac803aaa6ad7ff",
+      "title": "Tàu hàng Trung Quốc mang ống tên lửa vừa có thêm máy phóng UAV?",
+      "link": "https://thanhnien.vn/tau-hang-trung-quoc-mang-ong-ten-lua-vua-co-them-may-phong-uav-185260104162909709.htm",
+      "summary": "Con tàu chở hàng từng gây xôn xao khi được trang bị nhiều khí tài kiểu quân sự vừa được phát hiện lắp thêm bệ phóng máy bay không người lái (UAV).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:52:00+07:00",
+      "fetched": "2026-01-04T17:12:26.151044+07:00"
+    },
+    {
+      "id": "9361a6e6982d4157475ef22422722a38",
+      "title": "‘Tân binh’ phim giờ vàng được ‘đẩy thuyền’ với nữ chính là ai?",
+      "link": "https://thanhnien.vn/tan-binh-phim-gio-vang-duoc-day-thuyen-voi-nu-chinh-la-ai-185260104161407723.htm",
+      "summary": "Trong 'Cách em 1 milimet' đang phát sóng giờ vàng, cặp đôi Hiếu - Tú do diễn viên Lê Hải và Quỳnh Châu đóng đang tạo sức hút. Khán giả liên tục 'đẩy thuyền' cho 'tân binh' phim giờ vàng với nữ chính của phim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:50:00+07:00",
+      "fetched": "2026-01-04T17:12:26.151170+07:00"
+    },
+    {
+      "id": "3e4c10cb0adab69b6ba01d6cd3280524",
+      "title": "Bảy xe tông liên hoàn trên cao tốc Phan Thiết - Dầu Giây",
+      "link": "https://vnexpress.net/bay-xe-tong-lien-hoan-tren-cao-toc-phan-thiet-dau-giay-5001638.html",
+      "summary": "Ôtô 16 chỗ tông xe khách giường nằm rồi va chạm dây chuyền khiến nhiều phương tiện hư hỏng nặng, cao tốc ùn tắc kéo dài trong chiều cuối cùng dịp nghỉ lễ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:47:23+07:00",
+      "fetched": "2026-01-04T17:12:22.911413+07:00"
+    },
+    {
+      "id": "626581c9b7a2f784953e7158a9a70156",
+      "title": "Lý do Angelina Jolie rời bỏ cuộc sống hào nhoáng ở Hollywood?",
+      "link": "https://thanhnien.vn/ly-do-angelina-jolie-roi-bo-cuoc-song-hao-nhoang-o-hollywood-185260104145143935.htm",
+      "summary": "Khi các con dần trưởng thành, Angelina Jolie không còn mặn mà với cuộc sống hào nhoáng ở Los Angeles (Mỹ). Minh tinh được cho là đang lên kế hoạch rời Hollywood, bắt đầu chương mới của đời mình ở một nơi yên bình hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:43:00+07:00",
+      "fetched": "2026-01-04T17:12:26.151306+07:00"
+    },
+    {
+      "id": "aacf6471f4dc11717f84d2bb4e9ca386",
+      "title": "Chiều nay, các tuyến đường cửa ngõ và trong nội đô Hà Nội đều ùn ứ",
+      "link": "https://thanhnien.vn/chieu-nay-cac-tuyen-duong-cua-ngo-va-trong-noi-do-ha-noi-deu-un-u-185260104162156161.htm",
+      "summary": "Trong chiều 4.1, ngày cuối cùng của kỳ nghỉ tết Dương lịch 2026, cao điểm người dân trở lại Hà Nội khiến nhiều tuyến đường giao thông huyết mạch xảy ra ùn ứ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:39:00+07:00",
+      "fetched": "2026-01-04T17:12:26.151458+07:00"
+    },
+    {
+      "id": "02404658ef0457611c34fc0a4a7bef2a",
+      "title": "Váy áo tôn chiều cao 1,57 m của vợ Messi",
+      "link": "https://vnexpress.net/vay-ao-ton-chieu-cao-1-57-m-cua-vo-messi-5000958.html",
+      "summary": "Người mẫu Antonella Roccuzzo - bà xã siêu sao Messi - chuộng đầm xẻ ngực sâu, áo khoét eo để trông thon gọn, \"ăn gian\" chiều cao 1,57 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:25:40+07:00",
+      "fetched": "2026-01-04T17:12:22.911573+07:00"
+    },
+    {
+      "id": "afc004f3c2f1eed6b28b719fc4b6017d",
+      "title": "Hai xe cùng rẽ trái va quệt, ai sai?",
+      "link": "https://vnexpress.net/hai-xe-cung-re-trai-va-quet-ai-sai-5001610.html",
+      "summary": "Hai ôtô cùng rẽ trái tại ngã tư Láng - Trần Duy Hưng thì xảy ra va chạm, hôm 3/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:23:55+07:00",
+      "fetched": "2026-01-04T17:12:22.911731+07:00"
+    },
+    {
+      "id": "808429702b6a1828d9aedaf250b39e21",
+      "title": "Đà Nẵng: Lật ghe trên sông Nước Xa, cứu được 6 người, 1 người tử vong",
+      "link": "https://thanhnien.vn/da-nang-lat-ghe-tren-song-nuoc-xa-cuu-duoc-6-nguoi-1-nguoi-tu-vong-185260104153844342.htm",
+      "summary": "Vụ lật ghe chở 7 người dân ở xã vùng cao TP.Đà Nẵng trên sông Nước Xa, khiến 1 người tử vong, 6 người được cứu sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:19:00+07:00",
+      "fetched": "2026-01-04T17:12:26.151588+07:00"
+    },
+    {
+      "id": "9857ff98424114bf068ffb2694b61e28",
+      "title": "UAV tàng hình Mỹ xuất hiện sau chiến dịch bắt ông Maduro",
+      "link": "https://vnexpress.net/uav-tang-hinh-my-xuat-hien-sau-chien-dich-bat-ong-maduro-5001608.html",
+      "summary": "Video mới công bố cho thấy Mỹ dường như đã triển khai RQ-170, mẫu UAV tàng hình luôn được giữ bí mật, để hỗ trợ chiến dịch tại Venezuela.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:16:58+07:00",
+      "fetched": "2026-01-04T17:12:22.911873+07:00"
+    },
+    {
+      "id": "9857ff98424114bf068ffb2694b61e28",
+      "title": "UAV tàng hình Mỹ xuất hiện sau chiến dịch bắt ông Maduro",
+      "link": "https://vnexpress.net/uav-tang-hinh-my-xuat-hien-sau-chien-dich-bat-ong-maduro-5001608.html",
+      "summary": "Video mới công bố cho thấy Mỹ dường như đã triển khai RQ-170, mẫu UAV tàng hình luôn được giữ bí mật, để hỗ trợ chiến dịch tại Venezuela.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-04T09:16:58+07:00",
+      "fetched": "2026-01-04T17:12:28.875264+07:00"
+    },
+    {
+      "id": "f758a4fde98284b72faef8b27d2290cd",
+      "title": "Thủ môn Barca đẩy ngã đồng đội để chắn cú sút",
+      "link": "https://vnexpress.net/thu-mon-barca-day-nga-dong-doi-de-chan-cu-sut-5001616.html",
+      "summary": "Trận derby xứ Catalonia giữa Espanyol và Barca gây chú ý với tình huống thủ môn đội khách Joan Garcia đẩy Gerard Martin ngã để dùng đồng đội làm vật chắn bóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:03:12+07:00",
+      "fetched": "2026-01-04T17:12:22.912009+07:00"
+    },
+    {
+      "id": "f758a4fde98284b72faef8b27d2290cd",
+      "title": "Thủ môn Barca đẩy ngã đồng đội để chắn cú sút",
+      "link": "https://vnexpress.net/thu-mon-barca-day-nga-dong-doi-de-chan-cu-sut-5001616.html",
+      "summary": "Trận derby xứ Catalonia giữa Espanyol và Barca gây chú ý với tình huống thủ môn đội khách Joan Garcia đẩy Gerard Martin ngã để dùng đồng đội làm vật chắn bóng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-04T09:03:12+07:00",
+      "fetched": "2026-01-04T17:12:35.397218+07:00"
+    },
+    {
+      "id": "1589debbe9cf0c6821c8ec7cbf7adb99",
+      "title": "Điều gì xảy ra khi bạn thường xuyên ăn hành tây?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-ban-thuong-xuyen-an-hanh-tay-5001432.html",
+      "summary": "Các chất chống oxy hóa trong hành tây như quercetin, anthocyanin có thể làm giảm mức chất béo trung tính, cholesterol, giảm nguy cơ mắc bệnh tim, đột quỵ và ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:00:00+07:00",
+      "fetched": "2026-01-04T17:12:22.912142+07:00"
+    },
+    {
+      "id": "bbce7071de3c198ae51fe493ca412afc",
+      "title": "Điện thoại giống BlackBerry sắp ra mắt",
+      "link": "https://vnexpress.net/dien-thoai-giong-blackberry-sap-ra-mat-5001520.html",
+      "summary": "Clicks Communicator, điện thoại có ngoại hình giống BlackBerry, được thiết kế để làm máy phụ, giá dự kiến khoảng 13 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:00:00+07:00",
+      "fetched": "2026-01-04T17:12:22.912279+07:00"
+    },
+    {
+      "id": "5db7d53d19b2d78b4322522634e33417",
+      "title": "Xổ số miền Nam ngày 4 tháng 1 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-4-thang-1-ket-qua-xo-so-hom-nay-chu-nhat-185260104155358846.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 4 tháng 1; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 4.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:00:00+07:00",
+      "fetched": "2026-01-04T17:12:26.151724+07:00"
+    },
+    {
+      "id": "bbeca4eb12e001f05ad281aa86b48b1b",
+      "title": "Giày búp bê đế bệt mang đến sự thoải mái mà vẫn tinh tế",
+      "link": "https://thanhnien.vn/thoi-trang-tre/giay-bup-be-de-bet-mang-den-su-thoai-mai-ma-van-tinh-te-185260103125312003.htm",
+      "summary": "Nhẹ nhàng, êm ái và dễ phối đồ, giày búp bê đế bệt trở thành lựa chọn lý tưởng giúp nàng bước đi thoải mái suốt ngày dài mà vẫn giữ trọn vẻ tinh tế, nữ tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T09:00:00+07:00",
+      "fetched": "2026-01-04T17:12:26.151852+07:00"
+    },
+    {
+      "id": "bbce7071de3c198ae51fe493ca412afc",
+      "title": "Điện thoại giống BlackBerry sắp ra mắt",
+      "link": "https://vnexpress.net/dien-thoai-giong-blackberry-sap-ra-mat-5001520.html",
+      "summary": "Clicks Communicator, điện thoại có ngoại hình giống BlackBerry, được thiết kế để làm máy phụ, giá dự kiến khoảng 13 triệu đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-04T09:00:00+07:00",
+      "fetched": "2026-01-04T17:12:34.406125+07:00"
+    },
+    {
+      "id": "dd52cf12e06a22a1cd64926cac49d8c9",
+      "title": "Đón Tết Dương lịch ở Hội An, khách Tây thả hoa đăng trên sông Hoài",
+      "link": "https://thanhnien.vn/don-tet-duong-lich-o-hoi-an-khach-tay-tha-hoa-dang-tren-song-hoai-185260104121029483.htm",
+      "summary": "Dịp Tết Dương lịch trùng ngày rằm âm lịch, phố cổ Hội An trở thành điểm hẹn văn hóa của du khách quốc tế. Bên sông Hoài, nhiều người lần đầu trải nghiệm thả hoa đăng, gửi gắm ước nguyện đầu năm may mắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T08:54:00+07:00",
+      "fetched": "2026-01-04T17:12:26.151979+07:00"
+    },
+    {
+      "id": "9ae76199bc60c4980dadfd55da807641",
+      "title": "Sao bóng chuyền Thanh Thúy chơi bùng nổ, cùng CLB Gunma Green Wings thắng 'hủy diệt'",
+      "link": "https://thanhnien.vn/sao-bong-chuyen-thanh-thuy-choi-bung-no-cung-clb-gunma-green-wings-thang-huy-diet-185260104144538547.htm",
+      "summary": "Trần Thị Thanh Thúy tỏa sáng giúp CLB Gunma Green Wings 'đòi nợ' thành công trước CLB Hitachi ở lượt trận thứ 22 giải bóng chuyền Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T08:39:00+07:00",
+      "fetched": "2026-01-04T17:12:26.152107+07:00"
+    },
+    {
+      "id": "7a86c91ee06080f7e36ac43365d8c7a6",
+      "title": "Sân bóng Trường ĐH Đồng Tháp đã sẵn sàng cho TNSV THACO cup 2026",
+      "link": "https://thanhnien.vn/san-bong-truong-dh-dong-thap-da-san-sang-cho-tnsv-thaco-cup-2026-185260104144121181.htm",
+      "summary": "Nhận đăng cai vòng loại khu vực Tây Nam bộ TNSV THACO cup 2026, Ban giám hiệu Trường ĐH Đồng Tháp quyết định đầu tư hơn 1 tỉ đồng trang bị cơ sở vật chất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T08:39:00+07:00",
+      "fetched": "2026-01-04T17:12:26.152234+07:00"
+    },
+    {
+      "id": "6e2d080cfbfdcbbb118cdb022a7a64ab",
+      "title": "Làm sao để may mắn hơn?",
+      "link": "https://vnexpress.net/lam-sao-de-may-man-hon-5001578.html",
+      "summary": "May mắn thường được hình dung như món quà bất ngờ của số phận, nhưng trên thực tế, phần lớn được hình thành từ thói quen, cách con người tương tác với thế giới xung quanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T08:36:15+07:00",
+      "fetched": "2026-01-04T17:12:22.912416+07:00"
+    },
+    {
+      "id": "4355267550bac33c0558ee76a556a514",
+      "title": "Ông Trump nêu kịch bản không điều quân tới Venezuela",
+      "link": "https://vnexpress.net/ong-trump-neu-kich-ban-khong-dieu-quan-toi-venezuela-5001611.html",
+      "summary": "Tổng thống Trump cho biết sẽ không triển khai lực lượng đến Venezuela nếu Phó tổng thống Rodriguez \"làm theo những gì chúng tôi muốn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T08:15:10+07:00",
+      "fetched": "2026-01-04T17:12:22.912548+07:00"
+    },
+    {
+      "id": "4355267550bac33c0558ee76a556a514",
+      "title": "Ông Trump nêu kịch bản không điều quân tới Venezuela",
+      "link": "https://vnexpress.net/ong-trump-neu-kich-ban-khong-dieu-quan-toi-venezuela-5001611.html",
+      "summary": "Tổng thống Trump cho biết sẽ không triển khai lực lượng đến Venezuela nếu Phó tổng thống Rodriguez \"làm theo những gì chúng tôi muốn\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-04T08:15:10+07:00",
+      "fetched": "2026-01-04T17:12:28.875400+07:00"
+    },
+    {
+      "id": "261af2d37e7e2f38bf572a9c0ae16b95",
+      "title": "Việt Nam nhẹ cân nhất ở VCK U23 châu Á 2026",
+      "link": "https://vnexpress.net/viet-nam-nhe-can-nhat-o-vck-u23-chau-a-2026-5001613.html",
+      "summary": "Việt Nam cùng Thái Lan là hai đội thấp bé nhẹ cân nhất, trong 16 đoàn dự VCK U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T08:14:10+07:00",
+      "fetched": "2026-01-04T17:12:22.912678+07:00"
+    },
+    {
+      "id": "261af2d37e7e2f38bf572a9c0ae16b95",
+      "title": "Việt Nam nhẹ cân nhất ở VCK U23 châu Á 2026",
+      "link": "https://vnexpress.net/viet-nam-nhe-can-nhat-o-vck-u23-chau-a-2026-5001613.html",
+      "summary": "Việt Nam cùng Thái Lan là hai đội thấp bé nhẹ cân nhất, trong 16 đoàn dự VCK U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-04T08:14:10+07:00",
+      "fetched": "2026-01-04T17:12:35.397372+07:00"
+    },
+    {
       "id": "d5683a904b4e2f098a05be66f2c2d129",
       "title": "Điểm đặc biệt của các loại vũ khí, phương tiện giúp Hải quân Việt Nam hiện đại",
       "link": "https://thanhnien.vn/diem-dac-biet-cua-cac-loai-vu-khi-phuong-tien-giup-hai-quan-viet-nam-hien-dai-185260104112655545.htm",
@@ -611,6 +1071,56 @@ window.newsData_2026_01_04 = {
       "category": "Tổng hợp",
       "published": "2026-01-04T08:05:00+07:00",
       "fetched": "2026-01-04T15:16:42.161637+07:00"
+    },
+    {
+      "id": "a68add5777e1112e6c52476ba5220c62",
+      "title": "Nghịch lý vứt 120 chiếc khẩu trang y tế để bảo vệ sức khỏe",
+      "link": "https://vnexpress.net/nghich-ly-vut-120-chiec-khau-trang-y-te-de-bao-ve-suc-khoe-5001574.html",
+      "summary": "Một gia đình bốn người mỗi tháng dùng hơn 120 chiếc khẩu trang y tế dùng một lần là vứt bỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T08:00:00+07:00",
+      "fetched": "2026-01-04T17:12:22.912953+07:00"
+    },
+    {
+      "id": "bae20839b2be77f4d5acce91c64a6247",
+      "title": "Đã ký nhận 400 triệu không chu cấp, có nên yêu cầu chồng cũ cấp dưỡng cho con?",
+      "link": "https://vnexpress.net/da-ky-nhan-400-trieu-khong-chu-cap-co-nen-yeu-cau-chong-cu-cap-duong-cho-con-5001511.html",
+      "summary": "Thời gian đầu chồng cũ thỉnh thoảng gọi điện hỏi thăm con, nhưng càng về sau càng thưa dần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T08:00:00+07:00",
+      "fetched": "2026-01-04T17:12:22.913086+07:00"
+    },
+    {
+      "id": "5118de1226e6386423bf49f81e43d127",
+      "title": "Nữ giáo viên xinh xắn tìm bạn đời",
+      "link": "https://vnexpress.net/nu-giao-vien-xinh-xan-tim-ban-doi-5000935.html",
+      "summary": "Em mong anh chín chắn, nghiêm túc khi làm quen em, có kinh tế ổn định, nếu anh có ý đồ không tốt thì bỏ qua bài viết này nhé.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T08:00:00+07:00",
+      "fetched": "2026-01-04T17:12:22.913172+07:00"
+    },
+    {
+      "id": "1ab1e60c7fd6ac215e582eb76b1cd9b3",
+      "title": "Hà Nội thu ngân sách hơn 700.000 tỷ đồng năm 2025",
+      "link": "https://vnexpress.net/ha-noi-thu-ngan-sach-hon-700-000-ty-dong-nam-2025-5001612.html",
+      "summary": "Năm 2025, tổng thu ngân sách của Thủ đô tiếp tục lập kỷ lục với 704.579 tỷ đồng, tăng hơn 37% so với năm trước đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T07:51:22+07:00",
+      "fetched": "2026-01-04T17:12:22.913301+07:00"
+    },
+    {
+      "id": "1ab1e60c7fd6ac215e582eb76b1cd9b3",
+      "title": "Hà Nội thu ngân sách hơn 700.000 tỷ đồng năm 2025",
+      "link": "https://vnexpress.net/ha-noi-thu-ngan-sach-hon-700-000-ty-dong-nam-2025-5001612.html",
+      "summary": "Năm 2025, tổng thu ngân sách của Thủ đô tiếp tục lập kỷ lục với 704.579 tỷ đồng, tăng hơn 37% so với năm trước đó.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-04T07:51:22+07:00",
+      "fetched": "2026-01-04T17:12:30.748639+07:00"
     },
     {
       "id": "0088128dedefe35e1f2213a762a8e023",
