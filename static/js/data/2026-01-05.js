@@ -1,7 +1,157 @@
 window.newsData_2026_01_05 = {
   "date": "2026-01-05",
-  "lastUpdated": "2026-01-05T17:16:17.922292+07:00",
+  "lastUpdated": "2026-01-05T19:26:58.268212+07:00",
   "articles": [
+    {
+      "id": "b1dd6ca295d78adea84b7d40f1ee582d",
+      "title": "Tiết lộ danh tính trọng tài cầm còi trận U23 Việt Nam gặp U23 Jordan",
+      "link": "https://tuoitre.vn/tiet-lo-danh-tinh-trong-tai-cam-coi-tran-u23-viet-nam-gap-u23-jordan-20260105163400489.htm",
+      "summary": "Trận đấu đầu tiên của U23 Việt Nam tại VCK U23 châu Á, gặp U23 Jordan sẽ được điều khiển bởi trọng tài Hàn Quốc, Choi Hyun Jai - vị vua áo đen \"lắm duyên\" với bóng đá Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.065438+07:00",
+      "fetched": "2026-01-05T19:26:50.065551+07:00"
+    },
+    {
+      "id": "5ae457db945020c3ee1e6638cee0864a",
+      "title": "Iran yêu cầu Mỹ thả tự do ngay lập tức cho vợ chồng ông Maduro",
+      "link": "https://tuoitre.vn/iran-yeu-cau-my-tha-tu-do-ngay-lap-tuc-cho-vo-chong-ong-maduro-20260105163406464.htm",
+      "summary": "Ngày 5-1, Iran khẳng định quan hệ với Venezuela không đổi, yêu cầu Mỹ trả tự do cho vợ chồng Tổng thống Venezuela.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.065310+07:00",
+      "fetched": "2026-01-05T19:26:50.065426+07:00"
+    },
+    {
+      "id": "3e8cd45f9cf3b810817352249a5fdd65",
+      "title": "Cảnh sát giao thông xử phạt người chạy xe máy vào làn dành riêng cho xe đạp trên đường Mai Chí Thọ",
+      "link": "https://tuoitre.vn/canh-sat-giao-thong-xu-phat-nguoi-chay-xe-may-vao-lan-danh-rieng-cho-xe-dap-tren-duong-mai-chi-tho-20260105163939338.htm",
+      "summary": "Ngày 5-1, cảnh sát đã tăng cường xử lý những trường hợp chạy xe máy vào làn đường dành riêng cho xe đạp trên đường Mai Chí Thọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.065185+07:00",
+      "fetched": "2026-01-05T19:26:50.065299+07:00"
+    },
+    {
+      "id": "4c75a5bcf36601280f602d05a0e1962b",
+      "title": "HLV U23 Jordan khen 3 cầu thủ U23 Việt Nam",
+      "link": "https://tuoitre.vn/hlv-u23-jordan-khen-3-cau-thu-u23-viet-nam-20260105164727634.htm",
+      "summary": "HLV trưởng Omar Najhi của U23 Jordan chỉ ra 3 cầu thủ mà ông coi là nguy hiểm nhất bên phía U23 Việt Nam, trước thềm trận ra quân bảng A U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.065055+07:00",
+      "fetched": "2026-01-05T19:26:50.065174+07:00"
+    },
+    {
+      "id": "da9fa1dcd38e57022489a1179db0c375",
+      "title": "Chọn nhà thi đấu Rạch Miễu làm trụ sở Trung tâm cung ứng dịch vụ công phường Cầu Kiệu",
+      "link": "https://tuoitre.vn/chon-nha-thi-dau-rach-mieu-lam-tru-so-trung-tam-cung-ung-dich-vu-cong-phuong-cau-kieu-20260105155817262.htm",
+      "summary": "Chiều 5-1, phường Cầu Kiệu (TP.HCM) công bố quyết định thành lập và trao quyết định bổ nhiệm cán bộ lãnh đạo quản lý Trạm y tế phường và Trung tâm cung ứng dịch vụ công phường Cầu Kiệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.064922+07:00",
+      "fetched": "2026-01-05T19:26:50.065038+07:00"
+    },
+    {
+      "id": "69b47078b7ece6c7859efb0c9194a3b1",
+      "title": "Sốc: Man United sa thải HLV Amorim",
+      "link": "https://tuoitre.vn/soc-man-united-sa-thai-hlv-amorim-20260105171633477.htm",
+      "summary": "Chiều 5-1 (giờ Việt Nam), truyền thông nước Anh đưa tin gây sốc, cho biết ban lãnh đạo Man United đã quyết định sa thải HLV Ruben Amorim.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.064781+07:00",
+      "fetched": "2026-01-05T19:26:50.064909+07:00"
+    },
+    {
+      "id": "52821d82d62f44132aa0616ef951850b",
+      "title": "Thứ trưởng Bộ Xây dựng thông tin về các công trình được miễn giấy phép xây dựng từ 1-7",
+      "link": "https://tuoitre.vn/thu-truong-bo-xay-dung-thong-tin-ve-cac-cong-trinh-duoc-mien-giay-phep-xay-dung-tu-1-7-20260105172708655.htm",
+      "summary": "Từ 1-7 tới, công trình nhà ở riêng lẻ, quy mô dưới 7 tầng có tổng diện tích sàn xây dựng dưới 500m2 được miễn giấy phép xây dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.064658+07:00",
+      "fetched": "2026-01-05T19:26:50.064769+07:00"
+    },
+    {
+      "id": "c7965bbfb4c7e1d138a22f70e55a6c9e",
+      "title": "Xe tải đang chạy trên quốc lộ 1 bốc cháy dữ dội",
+      "link": "https://tuoitre.vn/xe-tai-dang-chay-tren-quoc-lo-1-boc-chay-du-doi-20260105154818362.htm",
+      "summary": "Xe tải đang chạy trên quốc lộ 1 (đoạn qua xã Long Phụng, Quảng Ngãi) bất ngờ bốc cháy dữ dội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.064534+07:00",
+      "fetched": "2026-01-05T19:26:50.064647+07:00"
+    },
+    {
+      "id": "e28917e769b2235b9b8262fad20a3458",
+      "title": "Thị trường chứng khoán Việt Nam tăng điểm trong năm 2026 khá cao",
+      "link": "https://tuoitre.vn/thi-truong-chung-khoan-viet-nam-tang-diem-trong-nam-2026-kha-cao-2026010516542216.htm",
+      "summary": "Năm 2026 được đánh giá là giai đoạn nhiều cơ hội đối với thị trường chứng khoán Việt Nam, song cũng đi kèm không ít thách thức từ lãi suất, tỉ giá và biến động toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.064409+07:00",
+      "fetched": "2026-01-05T19:26:50.064522+07:00"
+    },
+    {
+      "id": "7f8a40fd4472f2272100fdc14dd7a872",
+      "title": "Cửa hàng vật liệu xây dựng ở Đà Nẵng bốc cháy, khói đen cuồn cuộn",
+      "link": "https://tuoitre.vn/cua-hang-vat-lieu-xay-dung-o-da-nang-boc-chay-khoi-den-cuon-cuon-20260105171151295.htm",
+      "summary": "Chiều 5-1, một cửa hàng kinh doanh vật liệu xây dựng trên đường 29-3 (phường Hòa Xuân, TP Đà Nẵng) bất ngờ bốc cháy dữ dội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.064281+07:00",
+      "fetched": "2026-01-05T19:26:50.064397+07:00"
+    },
+    {
+      "id": "ce4a71634f6b7e519f961ed89c43799f",
+      "title": "Tăng trưởng GDP năm 2025 đạt kết quả ấn tượng, tăng 8,02%",
+      "link": "https://tuoitre.vn/tang-truong-gdp-nam-2025-dat-ket-qua-an-tuong-tang-8-02-2026010516474503.htm",
+      "summary": "Số liệu được Cục Thống kê công bố chiều nay (5-1) cho thấy tăng trưởng GDP năm 2025 đạt 8,02% so với năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.064152+07:00",
+      "fetched": "2026-01-05T19:26:50.064269+07:00"
+    },
+    {
+      "id": "d437b1e506a695b11a55cb31509f22ed",
+      "title": "Chủ tịch Cần Thơ phân công từng thành viên UBND thành phố theo dõi 103 xã, phường",
+      "link": "https://tuoitre.vn/chu-tich-can-tho-phan-cong-tung-thanh-vien-ubnd-thanh-pho-theo-doi-103-xa-phuong-20260105172200882.htm",
+      "summary": "Chủ tịch UBND TP Cần Thơ tiếp tục phân công các Phó chủ tịch và các thành viên UBND thành phố phụ trách theo dõi 103 xã, phường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.064021+07:00",
+      "fetched": "2026-01-05T19:26:50.064141+07:00"
+    },
+    {
+      "id": "d6f33c346ea17ac74b80212e90bfbdd5",
+      "title": "‘Chiến dịch Quang Trung’ chưa kết thúc, nhiều gia đình vùng lũ Lâm Đồng đã có nhà mới",
+      "link": "https://tuoitre.vn/chien-dich-quang-trung-chua-ket-thuc-nhieu-gia-dinh-vung-lu-lam-dong-da-co-nha-moi-20260105173840969.htm",
+      "summary": "Nhiều lực lượng tại Lâm Đồng chung tay, chạy đua để dựng lại mái nhà cho dân vùng lũ. Vì thế nhiều người dân đã có nhà mới dù “Chiến dịch Quang Trung” vẫn chưa kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.063865+07:00",
+      "fetched": "2026-01-05T19:26:50.064007+07:00"
+    },
+    {
+      "id": "1f2affb4a11f804ea3ff402b7653c175",
+      "title": "Hút thuốc lá suốt 30 năm, người đàn ông tại TP.HCM tiểu ra máu",
+      "link": "https://tuoitre.vn/hut-thuoc-la-suot-30-nam-nguoi-dan-ong-tai-tp-hcm-tieu-ra-mau-20260105172142427.htm",
+      "summary": "Có thói quen hút thuốc lá suốt 30 năm, người đàn ông 57 tuổi tại TP.HCM bất ngờ tiểu ra máu tươi kéo dài và sụt cân nhanh chóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.063725+07:00",
+      "fetched": "2026-01-05T19:26:50.063853+07:00"
+    },
+    {
+      "id": "08e6df5fef8d77d3602dad695a36c11d",
+      "title": "Điểm tin 18h: Giá vàng, bạc bứt phá ngay đầu tuần; Trung - Hàn tìm lại nhịp hợp tác",
+      "link": "https://tuoitre.vn/diem-tin-18h-gia-vang-bac-but-pha-ngay-dau-tuan-trung-han-tim-lai-nhip-hop-tac-20260105153106427.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 18h\" hôm nay, ngày 5-1-2026",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T19:26:50.063510+07:00",
+      "fetched": "2026-01-05T19:26:50.063710+07:00"
+    },
     {
       "id": "b747f1a3654c96c9e75623e220e89ea4",
       "title": "Những sai phạm điển hình qua kiểm nghiệm mỹ phẩm",
@@ -453,6 +603,86 @@ window.newsData_2026_01_05 = {
       "fetched": "2026-01-05T13:26:07.213515+07:00"
     },
     {
+      "id": "f85fac5228f9d5b1d9e4723909a5d53e",
+      "title": "Quảng Ninh, Hải Phòng tăng trưởng GRDP cao nhất cả nước",
+      "link": "https://vnexpress.net/quang-ninh-hai-phong-tang-truong-grdp-cao-nhat-ca-nuoc-5002099.html",
+      "summary": "GRDP của Quảng Ninh và Hải Phòng tăng cao nhất, lần lượt là 11,89% và 11,81%, phản ánh khả năng tận dụng hiệu quả các dòng vốn đầu tư, đặc biệt là FDI.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-05T12:16:20+07:00",
+      "fetched": "2026-01-05T19:26:54.289633+07:00"
+    },
+    {
+      "id": "1647c7b129c1d4edf962b189b2005a25",
+      "title": "Giám đốc trung tâm xã hội nơi thiếu niên tử vong bị khởi tố",
+      "link": "https://vnexpress.net/giam-doc-trung-tam-xa-hoi-noi-thieu-nien-tu-vong-bi-khoi-to-5002129.html",
+      "summary": "Công an khởi tố Nguyễn Văn Hải, Giám đốc Trung tâm công tác xã hội Hải Hà, cùng 10 người do liên quan cái chết của học viên 17 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T12:01:21+07:00",
+      "fetched": "2026-01-05T19:26:45.527087+07:00"
+    },
+    {
+      "id": "75e9b1bc0a4a8dbb62b744232ee35b8a",
+      "title": "Nhà nước sẽ mua công nghệ y tế nước ngoài để phục vụ người dân",
+      "link": "https://vnexpress.net/nha-nuoc-se-mua-cong-nghe-y-te-nuoc-ngoai-de-phuc-vu-nguoi-dan-5002037.html",
+      "summary": "Theo Luật mới, Nhà nước sẽ mua công nghệ cao cả trong và ngoài nước để phục vụ xã hội và công ích, nhất là các phương pháp điều trị y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T12:00:00+07:00",
+      "fetched": "2026-01-05T19:26:45.527264+07:00"
+    },
+    {
+      "id": "c4ac61d0d39d41ce90aad4ac6f6d4b4a",
+      "title": "Mỹ miễn visa cho những điểm đến nào ở châu Á?",
+      "link": "https://vnexpress.net/my-mien-visa-cho-nhung-diem-den-nao-o-chau-a-5001880.html",
+      "summary": "Theo website của Bộ Ngoại giao Mỹ, hiện có 42 quốc gia, vùng lãnh thổ nằm trong Chương trình Miễn thị thực (Visa Waiver Program) của Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T12:00:00+07:00",
+      "fetched": "2026-01-05T19:26:45.527427+07:00"
+    },
+    {
+      "id": "174a6308ec34c80c8ddf006c9bbbf834",
+      "title": "3 ngày thế giới chấn động vì vụ Mỹ bắt Tổng thống Venezuela",
+      "link": "https://vnexpress.net/3-ngay-the-gioi-chan-dong-vi-vu-my-bat-tong-thong-venezuela-5001789.html",
+      "summary": "Cuộc tập kích bất ngờ của Mỹ rạng sáng 3/1 để bắt Tổng thống Maduro khiến Venezuela rung chuyển, làm dấy lên làn sóng phản ứng khắp toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T12:00:00+07:00",
+      "fetched": "2026-01-05T19:26:45.527586+07:00"
+    },
+    {
+      "id": "d3ec19d719669f31ec2f23f042904814",
+      "title": "Trang phục cưới thêu hoa cúc của Trương Thảo Nhi",
+      "link": "https://vnexpress.net/trang-phuc-cuoi-theu-hoa-cuc-cua-truong-thao-nhi-5002047.html",
+      "summary": "Ca sĩ Trương Thảo Nhi mặc đầm cưới tôn dáng kết hợp khăn voan thêu họa tiết hoa cúc mang ý nghĩa bình an tại lễ cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T12:00:00+07:00",
+      "fetched": "2026-01-05T19:26:45.527748+07:00"
+    },
+    {
+      "id": "1cf51bab556f22c77f8ff84f633f0532",
+      "title": "DHL và CMA CGM hợp tác thúc đẩy nhiên liệu sinh học hàng hải",
+      "link": "https://vnexpress.net/dhl-va-cma-cgm-hop-tac-thuc-day-nhien-lieu-sinh-hoc-hang-hai-5001963.html",
+      "summary": "DHL và CMA CGM triển khai sáng kiến nhiên liệu sinh học chung nhằm đẩy nhanh quá trình giảm phát thải CO2 trong vận tải biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T12:00:00+07:00",
+      "fetched": "2026-01-05T19:26:45.527920+07:00"
+    },
+    {
+      "id": "1879a8ded9cbfa4dd26c2f1b2786953d",
+      "title": "Vì sao runner xấu hổ khi chạy cuối đoàn?",
+      "link": "https://vnexpress.net/vi-sao-runner-xau-ho-khi-chay-cuoi-doan-5000680.html",
+      "summary": "Bị bỏ lại phía sau khi chạy nhóm khiến nhiều runner cảm thấy xấu hổ và lạc lõng, dù không ai thực sự bỏ rơi họ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T12:00:00+07:00",
+      "fetched": "2026-01-05T19:26:45.528078+07:00"
+    },
+    {
       "id": "8743780e50334e024fdecb61b9529bcf",
       "title": "Tiền vệ U23 Việt Nam: U23 Jordan thiên về sức mạnh, tốc độ",
       "link": "https://tuoitre.vn/tien-ve-u23-viet-nam-u23-jordan-thien-ve-suc-manh-toc-do-20260105092740714.htm",
@@ -481,6 +711,176 @@ window.newsData_2026_01_05 = {
       "category": "Tổng hợp",
       "published": "2026-01-05T11:49:49.460125+07:00",
       "fetched": "2026-01-05T11:49:49.460330+07:00"
+    },
+    {
+      "id": "51596b0ed48f082f100788368d793d4f",
+      "title": "Hà Nội chi khẩn cấp 8.400 tỉ khép kín đường Vành đai 2,5",
+      "link": "https://thanhnien.vn/ha-noi-chi-khan-cap-8400-ti-khep-kin-duong-vanh-dai-25-18526010517502289.htm",
+      "summary": "Hà Nội đã ban hành lệnh xây dựng khẩn cấp đối với 3 đoạn trong dự án đường Vành đai 2,5 với tổng mức đầu tư dự kiến khoảng 8.400 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T11:49:00+07:00",
+      "fetched": "2026-01-05T19:26:49.008269+07:00"
+    },
+    {
+      "id": "72863309b717a32ff3f6ffd41736f2d3",
+      "title": "Đại tướng Nguyễn Tân Cương: Nghiên cứu nghệ thuật tác chiến đối phó phương tiện không người lái",
+      "link": "https://thanhnien.vn/dai-tuong-nguyen-tan-cuong-nghien-cuu-nghe-thuat-tac-chien-doi-pho-phuong-tien-khong-nguoi-lai-185260105170156758.htm",
+      "summary": "Đại tướng Nguyễn Tân Cương yêu cầu nghiên cứu nghệ thuật tác chiến, tổ chức lực lượng phù hợp, đáp ứng yêu cầu đối phó với các phương tiện chiến tranh công nghệ cao, không người lái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T11:48:00+07:00",
+      "fetched": "2026-01-05T19:26:49.008437+07:00"
+    },
+    {
+      "id": "bca8ef0c9f0b3afa134c36ad1a59a3d8",
+      "title": "Chủ nhiều dự án 'ma' sa lưới sau 17 năm trốn nã",
+      "link": "https://vnexpress.net/chu-nhieu-du-an-ma-sa-luoi-sau-17-nam-tron-na-5002121.html",
+      "summary": "Ông Dương Văn Toàn, 69 tuổi, cùng đồng phạm dựng lên các dự án để lừa đảo hàng chục tỷ đồng, sau đó bỏ trốn suốt 17 năm thì bị bắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T11:39:47+07:00",
+      "fetched": "2026-01-05T19:26:45.528240+07:00"
+    },
+    {
+      "id": "2eea9b6729480b690e6304795d815d48",
+      "title": "Cựu Cục trưởng Nguyễn Thanh Phong khai không đề cập tiền mà ‘đưa bao nhiêu thì đưa’",
+      "link": "https://thanhnien.vn/cuu-cuc-truong-nguyen-thanh-phong-khai-khong-de-cap-tien-ma-dua-bao-nhieu-thi-dua-185260105172213287.htm",
+      "summary": "Cựu Cục trưởng An toàn thực phẩm Nguyễn Thanh Phong thừa nhận cáo trạng song nói rằng bản thân không đề cập số tiền mà \"anh em đưa bao nhiêu thì đưa\". Sau đó, ông Phong được cấp dưới đưa từ 1 - 2,5 triệu đồng/hồ sơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T11:36:00+07:00",
+      "fetched": "2026-01-05T19:26:49.008594+07:00"
+    },
+    {
+      "id": "e20534432ce10946339266a8984f32b3",
+      "title": "Vì sao Man Utd bất ngờ sa thải Amorim?",
+      "link": "https://vnexpress.net/vi-sao-man-utd-bat-ngo-sa-thai-amorim-5002120.html",
+      "summary": "Các nguồn tin thân Man Utd cho rằng HLV Ruben Amorim bị sa thải không phải vì cuộc chiến quyền lực ở thượng tầng, mà bởi màn thể hiện không khởi sắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T11:33:58+07:00",
+      "fetched": "2026-01-05T19:26:45.528393+07:00"
+    },
+    {
+      "id": "e20534432ce10946339266a8984f32b3",
+      "title": "Vì sao Man Utd bất ngờ sa thải Amorim?",
+      "link": "https://vnexpress.net/vi-sao-man-utd-bat-ngo-sa-thai-amorim-5002120.html",
+      "summary": "Các nguồn tin thân Man Utd cho rằng HLV Ruben Amorim bị sa thải không phải vì cuộc chiến quyền lực ở thượng tầng, mà bởi màn thể hiện không khởi sắc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-05T11:33:58+07:00",
+      "fetched": "2026-01-05T19:26:58.256512+07:00"
+    },
+    {
+      "id": "6ae52ac2924fe4402d407917febf625b",
+      "title": "Nga phóng loạt tên lửa Iskander-M, S-300 tập kích Ukraine trong đêm",
+      "link": "https://vnexpress.net/nga-phong-loat-ten-lua-iskander-m-s-300-tap-kich-ukraine-trong-dem-5002097.html",
+      "summary": "Quân đội Ukraine cho biết Nga phóng loạt tên lửa Iskander-M và S-300 trong trận tập kích ban đêm, khiến ít nhất hai người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T11:29:05+07:00",
+      "fetched": "2026-01-05T19:26:45.528547+07:00"
+    },
+    {
+      "id": "6ae52ac2924fe4402d407917febf625b",
+      "title": "Nga phóng loạt tên lửa Iskander-M, S-300 tập kích Ukraine trong đêm",
+      "link": "https://vnexpress.net/nga-phong-loat-ten-lua-iskander-m-s-300-tap-kich-ukraine-trong-dem-5002097.html",
+      "summary": "Quân đội Ukraine cho biết Nga phóng loạt tên lửa Iskander-M và S-300 trong trận tập kích ban đêm, khiến ít nhất hai người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T11:29:05+07:00",
+      "fetched": "2026-01-05T19:26:52.010778+07:00"
+    },
+    {
+      "id": "2b8438d87a5bbcaa3355e41d4f741f41",
+      "title": "Ban hành hướng dẫn ưu đãi nhà ở xã hội cho phụ nữ sinh đủ 2 con trước 15/5",
+      "link": "https://vnexpress.net/ban-hanh-huong-dan-uu-dai-nha-o-xa-hoi-cho-phu-nu-sinh-du-2-con-truoc-15-5-5002060.html",
+      "summary": "Lãnh đạo Cục Dân số cho biết Bộ Y tế đang phối hợp với Bộ Xây dựng ban hành thông tư hướng dẫn ưu đãi nhà ở xã hội đối với phụ nữ sinh đủ 2 con, dự kiến hoàn thành trước ngày 15/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T11:27:18+07:00",
+      "fetched": "2026-01-05T19:26:45.528705+07:00"
+    },
+    {
+      "id": "e4da5506a7bef15f6b17f06b6b3288a7",
+      "title": "Đà Nẵng: Cháy lớn ở cửa hàng vật liệu xây dựng, người dân hoảng loạn",
+      "link": "https://thanhnien.vn/da-nang-chay-lon-o-cua-hang-vat-lieu-xay-dung-nguoi-dan-hoang-loan-185260105175334549.htm",
+      "summary": "Cửa hàng vật liệu xây dựng tại P.Hòa Xuân (TP.Đà Nẵng) xảy ra cháy lớn, khói đen bốc cao khiến người dân hoảng loạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T11:25:00+07:00",
+      "fetched": "2026-01-05T19:26:49.008753+07:00"
+    },
+    {
+      "id": "d01ce9844f93bc05accd6aa577143504",
+      "title": "Tàu có chữ Trung Quốc dạt vào biển Quảng Ngãi nguy cơ tràn dầu",
+      "link": "https://vnexpress.net/tau-co-chu-trung-quoc-dat-vao-bien-quang-ngai-nguy-co-tran-dau-5002062.html",
+      "summary": "Tàu cá Trung Quốc mắc cạn chứa nhiều dầu diesel dễ phát sinh nguy cơ sự cố tràn nhiên liệu, ảnh hưởng môi trường biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T11:09:54+07:00",
+      "fetched": "2026-01-05T19:26:45.528867+07:00"
+    },
+    {
+      "id": "1a2f959dd496028b3e9aea863a6e8caa",
+      "title": "Caracas sau khi ông Maduro bị Mỹ bắt",
+      "link": "https://vnexpress.net/caracas-sau-khi-ong-maduro-bi-my-bat-5002021.html",
+      "summary": "Khoảng 2.000 người xuống đường tại một số tuyến phố để bày tỏ ủng hộ với ông Maduro, nhưng ở những nơi khác của Caracas, cảnh tượng khá vắng vẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T11:07:28+07:00",
+      "fetched": "2026-01-05T19:26:45.529047+07:00"
+    },
+    {
+      "id": "913dfb2e1073ad45dc433aba0efabf4a",
+      "title": "Cảnh tượng đối lập ở Caracas sau khi ông Maduro bị Mỹ bắt",
+      "link": "https://vnexpress.net/canh-tuong-doi-lap-o-caracas-sau-khi-ong-maduro-bi-my-bat-5002021.html",
+      "summary": "Khoảng 2.000 người xuống đường tại một số tuyến phố để bày tỏ ủng hộ với ông Maduro, nhưng ở những nơi khác của Caracas, cảnh tượng khá vắng vẻ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T11:07:28+07:00",
+      "fetched": "2026-01-05T19:26:52.010968+07:00"
+    },
+    {
+      "id": "15533f1fd7e48e3b3d5304414a798f6a",
+      "title": "Quách Phú Thành: 'Tim tan chảy khi về nhà với con gái'",
+      "link": "https://vnexpress.net/quach-phu-thanh-tim-tan-chay-khi-ve-nha-voi-con-gai-5002039.html",
+      "summary": "Tài tử Hong Kong Quách Phú Thành, 61 tuổi, nói quên hết mệt nhọc mỗi khi bế con mới chào đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T11:07:10+07:00",
+      "fetched": "2026-01-05T19:26:45.529201+07:00"
+    },
+    {
+      "id": "9151e19ee1a02232788de1bec6937913",
+      "title": "Thực đơn của những người sống thọ nhất thế giới",
+      "link": "https://vnexpress.net/thuc-don-cua-nhung-nguoi-song-tho-nhat-the-gioi-5001986.html",
+      "summary": "Người dân Vùng Xanh sống thọ nhờ chế độ ăn 95% thực vật, ưu tiên đậu, rau lá xanh, trái cây, hạt, ngũ cốc và dầu ôliu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T11:00:00+07:00",
+      "fetched": "2026-01-05T19:26:45.529359+07:00"
+    },
+    {
+      "id": "e84e641a4b348387501caac4e7600c5a",
+      "title": "Quần trắng, món đồ cơ bản giúp tổng thể trang phục sáng bừng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/quan-trang-mon-do-co-ban-giup-tong-the-trang-phuc-sang-bung-18526010423434235.htm",
+      "summary": "Quần trắng là món đồ cơ bản nhưng luôn có sức 'bật sáng' cho mọi bản phối. Chỉ cần khéo léo kết hợp, nàng đã dễ dàng tạo nên tổng thể trang phục thanh thoát, hiện đại và đầy cuốn hút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T11:00:00+07:00",
+      "fetched": "2026-01-05T19:26:49.008927+07:00"
+    },
+    {
+      "id": "26351477fb4918436699fc999e0de6cd",
+      "title": "Lý Đức bất ngờ nhắc đến con số 200% khiến khán giả tò mò, còn nhận xét sắc sảo về Jordan",
+      "link": "https://thanhnien.vn/ly-duc-bat-ngo-nhac-den-con-so-200-khien-khan-gia-to-mo-con-nhan-xet-sac-sao-ve-jordan-185260105172306008.htm",
+      "summary": "Trước thềm trận ra quân tại VCK U.23 châu Á 2026 của U.23 Việt Nam, trung vệ Phạm Lý Đức khẳng định toàn đội đang có tinh thần lên cao và sẵn sàng tạo nên bất ngờ trước đối thủ mạnh Jordan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:51:00+07:00",
+      "fetched": "2026-01-05T19:26:49.009082+07:00"
     },
     {
       "id": "cfcda92b85b5e031b6b9e3c7ce50f436",
@@ -633,6 +1033,126 @@ window.newsData_2026_01_05 = {
       "fetched": "2026-01-05T10:47:07.432742+07:00"
     },
     {
+      "id": "56297c64e5ff2ab6f1c82e3eb488face",
+      "title": "GDP 2025 tăng hơn 8%, bình quân 5.026 USD/người",
+      "link": "https://thanhnien.vn/gdp-2025-tang-hon-8-binh-quan-5026-usd-nguoi-185260105161451703.htm",
+      "summary": "GDP 2025 tăng trưởng khá với mức tăng ước đạt 8,02% so với năm trước. GDP bình quân đầu người năm 2025 theo giá hiện hành ước đạt 125,5 triệu đồng/người, tương đương 5.026 USD, theo Cục Thống kê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:43:00+07:00",
+      "fetched": "2026-01-05T19:26:49.009240+07:00"
+    },
+    {
+      "id": "34ba4ecb67fe7f5be2743eaf712cd438",
+      "title": "Cựu tướng Philippines bị bắt vì kêu gọi lật đổ Tổng thống",
+      "link": "https://vnexpress.net/cuu-tuong-philippines-bi-bat-vi-keu-goi-lat-do-tong-thong-5002067.html",
+      "summary": "Cảnh sát Philippines bắt cựu tướng không quân Romeo Poquiz với cáo buộc kích động nổi loạn, sau khi ông kêu gọi quân đội ngừng ủng hộ Tổng thống.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T10:37:26+07:00",
+      "fetched": "2026-01-05T19:26:52.011134+07:00"
+    },
+    {
+      "id": "6a81bf81ed563ffa8fee64d2ddf5a210",
+      "title": "Đồng Tháp: Nam sinh thoát chết 'thần kỳ' dưới gầm xe đầu kéo",
+      "link": "https://thanhnien.vn/dong-thap-nam-sinh-thoat-chet-than-ky-duoi-gam-xe-dau-keo-185260105095625956.htm",
+      "summary": "Nam sinh ở Đồng Tháp chạy xe đạp điện bị cuốn vào gầm xe đầu kéo nhưng may mắn bò được ra ngoài, thoát chết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:33:00+07:00",
+      "fetched": "2026-01-05T19:26:49.009392+07:00"
+    },
+    {
+      "id": "eba46fddc0842315b228cc66b39cdd2c",
+      "title": "Quảng Trị: Tìm thấy thi thể ngư dân bị sóng đánh mất tích trên biển",
+      "link": "https://thanhnien.vn/quang-tri-tim-thay-thi-the-ngu-dan-bi-song-danh-mat-tich-tren-bien-185260105113301008.htm",
+      "summary": "Sau gần 4 ngày tổ chức tìm kiếm, lực lượng chức năng đã phát hiện thi thể của ngư dân bị sóng đánh khi đang chèo ghe đánh bắt hải sản trên biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:32:00+07:00",
+      "fetched": "2026-01-05T19:26:49.009542+07:00"
+    },
+    {
+      "id": "0c1f0e23085a238a727ecb2b7f782b28",
+      "title": "Mưa lớn, triều cường biến đường phố California thành sông",
+      "link": "https://vnexpress.net/mua-lon-trieu-cuong-bien-duong-pho-california-thanh-song-5002086.html",
+      "summary": "Triều cường gây lũ cao nhất nhiều thập kỷ ở vùng Vịnh San Francisco, cô lập đường sá, giới chức phải giải cứu người dân mắc kẹt trong xe.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T10:25:04+07:00",
+      "fetched": "2026-01-05T19:26:52.011290+07:00"
+    },
+    {
+      "id": "ca2f2184edb369be74d1cfbc687876f1",
+      "title": "Xổ số miền Nam ngày 5 tháng 1: Khách may mắn trúng 14 tờ đài Cà Mau",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-5-thang-1-khach-may-man-trung-14-to-dai-ca-mau-185260105171350821.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 5 tháng 1, một đại lý vé số ở Vĩnh Long ngay lập tức đổi thưởng cho khách có 14 tờ trúng số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:24:00+07:00",
+      "fetched": "2026-01-05T19:26:49.009689+07:00"
+    },
+    {
+      "id": "c174a39e3352971606d96019c036282e",
+      "title": "Bộ Y tế nói về việc ưu tiên mua nhà xã hội với người sinh 2 con",
+      "link": "https://thanhnien.vn/bo-y-te-noi-ve-viec-uu-tien-mua-nha-xa-hoi-voi-nguoi-sinh-2-con-185260105165041471.htm",
+      "summary": "Đại diện Bộ Y tế cho biết đang tham mưu Chính phủ ban hành văn bản hướng dẫn luật Dân số, trong đó có việc hướng dẫn thực hiện chính sách ưu tiên mua nhà ở xã hội với gia đình sinh từ 2 con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:23:00+07:00",
+      "fetched": "2026-01-05T19:26:49.009835+07:00"
+    },
+    {
+      "id": "8644084f65108ee37f11150437824337",
+      "title": "Sốc: HLV Amorim bị M.U sa thải vì 'gây hấn' với ban lãnh đạo, người tạm ngồi ghế nóng là…",
+      "link": "https://thanhnien.vn/soc-hlv-ruben-amorim-bi-mu-sa-thai-vi-gay-han-voi-ban-lanh-dao-185260105172123188.htm",
+      "summary": "Chiều 5.1, M.U đã bất ngờ sa thải HLV Ruben Amorim sau khi chiến lược gia người Bồ Đào Nha có những phát biểu thẳng thắn, nhắm vào ban lãnh đạo đội bóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:21:00+07:00",
+      "fetched": "2026-01-05T19:26:49.010007+07:00"
+    },
+    {
+      "id": "6ed189c6c60c20e9ae8f23114a1329fb",
+      "title": "Ai làm trọng tài và điều hành VAR trận U.23 Việt Nam gặp U.23 Jordan, AFC công khai danh tính",
+      "link": "https://thanhnien.vn/ai-lam-trong-tai-va-dieu-hanh-var-tran-u23-viet-nam-gap-u23-jordan-afc-cong-khai-danh-tinh-185260105171751074.htm",
+      "summary": "Như Thanh Niên đã đưa tin, theo công bố mới nhất từ Liên đoàn Bóng đá châu Á (AFC), trận đấu giữa U.23 Việt Nam và U.23 Jordan tại vòng chung kết U.23 châu Á 2026 sẽ do tổ trọng tài đến từ Hàn Quốc và khu vực Tây Á điều hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:21:00+07:00",
+      "fetched": "2026-01-05T19:26:49.010164+07:00"
+    },
+    {
+      "id": "591380f5b8fca9eb3f39e584f045ece7",
+      "title": "Gần 1 triệu lon sữa HIUP giả đã bán cho người tiêu dùng",
+      "link": "https://thanhnien.vn/gan-1-trieu-lon-sua-hiup-gia-da-ban-cho-nguoi-tieu-dung-1852601051529077.htm",
+      "summary": "Chủ tịch Z Holding Hoàng Quang Thịnh phân bua, sản phẩm sữa HIUP chỉ không đạt 70% chất lượng như công bố chứ không có thành phần gây độc hại, con bị cáo cũng uống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:21:00+07:00",
+      "fetched": "2026-01-05T19:26:49.010311+07:00"
+    },
+    {
+      "id": "c7332362dac45fcc518c15307dbd9ebd",
+      "title": "Bộ GD-ĐT công bố dự thảo sửa đổi Thông tư 29 về dạy thêm, học thêm",
+      "link": "https://thanhnien.vn/bo-gd-dt-cong-bo-du-thao-sua-doi-thong-tu-29-ve-day-them-hoc-them-185260105151849117.htm",
+      "summary": "Bộ GD-ĐT vừa công bố dự thảo Thông tư sửa đổi, bổ sung Thông tư số 29 quy định về dạy thêm, học thêm với nhiều điểm mới, sửa đổi, bổ sung so với quy định hiện hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:19:00+07:00",
+      "fetched": "2026-01-05T19:26:49.010457+07:00"
+    },
+    {
+      "id": "d3cbcf644be3b212952d0ba10eb10c3c",
+      "title": "Loạt quà tặng công nghệ cho người tham dự Tech Awards 2025",
+      "link": "https://vnexpress.net/loat-qua-tang-cong-nghe-cho-nguoi-tham-du-tech-awards-2025-5001853.html",
+      "summary": "Khách check-in sớm tại Tech Awards 2025 ngày 8/1 có cơ hội nhận quạt mini, máy sấy tóc, bếp từ đơn, quạt tĩnh điện cầm tay...",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-05T10:16:35+07:00",
+      "fetched": "2026-01-05T19:26:57.093485+07:00"
+    },
+    {
       "id": "faecafc1feac7aa96b9cec7327921e05",
       "title": "Cháy nhà tại Đồng Tháp khiến 2 bé gái tử vong",
       "link": "https://thanhnien.vn/chay-nha-tai-dong-thap-khien-2-be-gai-tu-vong-18526010511014849.htm",
@@ -651,6 +1171,26 @@ window.newsData_2026_01_05 = {
       "category": "Tổng hợp",
       "published": "2026-01-05T10:14:00+07:00",
       "fetched": "2026-01-05T17:16:10.506846+07:00"
+    },
+    {
+      "id": "50191a31e65acba27a878ed10daa91bf",
+      "title": "Man Utd sa thải HLV Amorim",
+      "link": "https://vnexpress.net/man-utd-sa-thai-hlv-amorim-5002109.html",
+      "summary": "Man Utd quyết định sa thải HLV Ruben Amorim sau 14 tháng gắn bó, chiều 5/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-05T10:11:34+07:00",
+      "fetched": "2026-01-05T19:26:58.256684+07:00"
+    },
+    {
+      "id": "c26b3d3b382d33cd0515288a507175c7",
+      "title": "HLV Jordan: 'U23 Việt Nam nguy hiểm với mọi đối thủ'",
+      "link": "https://vnexpress.net/hlv-jordan-u23-viet-nam-nguy-hiem-voi-moi-doi-thu-5002064.html",
+      "summary": "Trong cuộc họp báo trước trận ra quân vòng chung kết U23 châu Á 2026, HLV Omar Najhi đánh giá cao lối chơi của Việt Nam, với miêu tả là nhanh và hiện đại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-05T10:01:38+07:00",
+      "fetched": "2026-01-05T19:26:58.256844+07:00"
     },
     {
       "id": "5a3538f66d58b8415ceec789ab2d08e9",
