@@ -1,7 +1,157 @@
 window.newsData_2026_01_05 = {
   "date": "2026-01-05",
-  "lastUpdated": "2026-01-05T11:49:54.686102+07:00",
+  "lastUpdated": "2026-01-05T13:26:12.615287+07:00",
   "articles": [
+    {
+      "id": "4db4154b70bd3d84fd3d994e467a31de",
+      "title": "Khoảnh khắc thót tim: Camera hành trình ghi lại vụ tông xe liên hoàn trên cao tốc La Sơn - Hòa Liên",
+      "link": "https://tuoitre.vn/khoanh-khac-thot-tim-camera-hanh-trinh-ghi-lai-vu-tong-xe-lien-hoan-tren-cao-toc-la-son-hoa-lien-20260105110416316.htm",
+      "summary": "Lực lượng chức năng tại Đà Nẵng cho biết đã thông xe, giải phóng đường khu vực xảy ra tai nạn trên cao tốc La Sơn - Hòa Liên (đoạn qua địa phận Đà Nẵng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.215239+07:00",
+      "fetched": "2026-01-05T13:26:07.215353+07:00"
+    },
+    {
+      "id": "ebab6793ea1efe0ecb96caf80a53fbb3",
+      "title": "Trường đại học Ngoại thương dự kiến mở mới 10 ngành, có cả trí tuệ nhân tạo",
+      "link": "https://tuoitre.vn/truong-dai-hoc-ngoai-thuong-du-kien-mo-moi-10-nganh-co-ca-tri-tue-nhan-tao-20260105105626287.htm",
+      "summary": "Trong 10 ngành dự kiến mở mới của Trường đại học Ngoại thương, có các ngành hot thuộc lĩnh vực công nghệ như trí tuệ nhân tạo, khoa học dữ liệu, công nghệ tài chính...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.215108+07:00",
+      "fetched": "2026-01-05T13:26:07.215227+07:00"
+    },
+    {
+      "id": "2df7f2301f8d140b462a3d8a83710786",
+      "title": "Giá vàng, bạc bứt phá ngay đầu tuần",
+      "link": "https://tuoitre.vn/gia-vang-bac-but-pha-ngay-dau-tuan-20260105112158445.htm",
+      "summary": "Ngay từ khi mở cửa giá vàng và giá bạc đã tăng mạnh. Trưa nay, 5-1, giá vàng thế giới đã tăng 80 USD/ounce và chạm mốc 4.412,7 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.214961+07:00",
+      "fetched": "2026-01-05T13:26:07.215095+07:00"
+    },
+    {
+      "id": "d7626b10e1d7e87909e6b441d07d99ba",
+      "title": "Vòng chung kết U23 châu Á 2026: Kỳ vọng gì vào U23 Việt Nam?",
+      "link": "https://tuoitre.vn/vong-chung-ket-u23-chau-a-2026-ky-vong-gi-vao-u23-viet-nam-20260105094908703.htm",
+      "summary": "Với 2 chức vô địch sân chơi khu vực trong năm 2025, U23 Việt Nam được kỳ vọng làm nên bất ngờ ở sân chơi U23 châu Á 2026, nơi thầy trò HLV Kim Sang Sik phải cạnh tranh ở bảng đấu tương đối khó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.214832+07:00",
+      "fetched": "2026-01-05T13:26:07.214949+07:00"
+    },
+    {
+      "id": "043d2bf1e05ebe94b957870a3d3d5a7e",
+      "title": "Thiết bị bay không người lái 'cất cánh' giao hàng tại TP.HCM",
+      "link": "https://tuoitre.vn/thiet-bi-bay-khong-nguoi-lai-cat-canh-giao-hang-tai-tp-hcm-20260105095650696.htm",
+      "summary": "Sáng 5-1, chương trình thử nghiệm ứng dụng thiết bị bay không người lái (UAV) vào hoạt động giao hàng chính thức được khởi động với phạm vi triển khai có kiểm soát trong Khu công nghệ cao TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.214702+07:00",
+      "fetched": "2026-01-05T13:26:07.214818+07:00"
+    },
+    {
+      "id": "705b729cd79b885421cdabf32ed74c79",
+      "title": "Cứng hàm tưởng uốn ván, người đàn ông khỏe mạnh phát hiện bị nấm đen ăn mòn xương",
+      "link": "https://tuoitre.vn/cung-ham-tuong-uon-van-nguoi-dan-ong-khoe-manh-phat-hien-bi-nam-den-an-mon-xuong-20260105104036432.htm",
+      "summary": "Nam bệnh nhân 55 tuổi ở Phú Thọ không bệnh nền, nhập viện vì đau xoang, cứng hàm nhẹ, được phát hiện mắc nấm đen xâm lấn nguy hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.214578+07:00",
+      "fetched": "2026-01-05T13:26:07.214691+07:00"
+    },
+    {
+      "id": "3e3f16694e903b6da844f8f9c422a4e4",
+      "title": "Chi tiết số tiền 34 cựu lãnh đạo, cán bộ Cục An toàn thực phẩm nhận hối lộ",
+      "link": "https://tuoitre.vn/chi-tiet-so-tien-34-cuu-lanh-dao-can-bo-cuc-an-toan-thuc-pham-nhan-hoi-lo-20260104162422061.htm",
+      "summary": "34 người, từ cục trưởng, cục phó đến chuyên viên Cục An toàn thực phẩm bị tòa án đưa ra xét xử với cáo buộc nhận hối lộ tổng hơn 100 tỉ. Ngoài ra còn có 25 cán bộ khác nhận hàng tỉ đồng nhưng không bị xử lý hình sự vì “phạm tội với vai trò thứ yếu”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.214443+07:00",
+      "fetched": "2026-01-05T13:26:07.214566+07:00"
+    },
+    {
+      "id": "694cd95ffdbbb8533cdf172cd4844322",
+      "title": "Điểm mới trong danh mục thuốc bảo vệ thực vật được phép sử dụng tại Việt Nam",
+      "link": "https://tuoitre.vn/diem-moi-trong-danh-muc-thuoc-bao-ve-thuc-vat-duoc-phep-su-dung-tai-viet-nam-20260105104748743.htm",
+      "summary": "Theo thông tư mới về danh mục thuốc bảo vệ thực vật được phép sử dụng tại Việt Nam, hoạt chất carbosulfan và benfuracarb được tiếp tục sản xuất 3 tháng và buôn bán, sử dụng từ 1 hoặc 2 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.214321+07:00",
+      "fetched": "2026-01-05T13:26:07.214433+07:00"
+    },
+    {
+      "id": "b010be2fc9d9aebec71225bb301d78a6",
+      "title": "One Battle After Another của Leonardo DiCaprio chiến thắng Critics Choice Awards 2026",
+      "link": "https://tuoitre.vn/one-battle-after-another-cua-leonardo-dicaprio-chien-thang-critics-choice-awards-2026-20260105110141096.htm",
+      "summary": "One Battle After Another của Leonardo DiCaprio giành giải Phim hay nhất, trong khi các giải thưởng diễn xuất hàng đầu thuộc về Timothée Chalamet (Marty Supreme) và Jessie Buckley (Hamnet).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.214196+07:00",
+      "fetched": "2026-01-05T13:26:07.214310+07:00"
+    },
+    {
+      "id": "8955e12890aed07c6dc2e4c20d3defde",
+      "title": "Gọi tên cảm xúc để không còn đơn độc trước áp lực học đường",
+      "link": "https://tuoitre.vn/goi-ten-cam-xuc-de-khong-con-don-doc-truoc-ap-luc-hoc-duong-20260105100544639.htm",
+      "summary": "Có những cảm xúc rất thật, nhưng lại rất khó gọi tên. Và cũng có những lúc, vì không được lắng nghe kịp thời, chúng đã trở thành gánh nặng tâm lý, đeo bám chúng ta suốt thời cắp sách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.214064+07:00",
+      "fetched": "2026-01-05T13:26:07.214184+07:00"
+    },
+    {
+      "id": "61550335c316795f943d4a78f814a168",
+      "title": "Tổng Bí thư và các lãnh đạo Đảng, Nhà nước dự kỷ niệm 60 năm ngày truyền thống ngành Nội chính Đảng",
+      "link": "https://tuoitre.vn/tong-bi-thu-va-cac-lanh-dao-dang-nha-nuoc-du-ky-niem-60-nam-ngay-truyen-thong-nganh-noi-chinh-dang-20260105112553694.htm",
+      "summary": "Sáng 5-1, Tổng Bí thư Tô Lâm, Chủ tịch nước Lương Cường, Thủ tướng Phạm Minh Chính, Chủ tịch Quốc hội Trần Thanh Mẫn và lãnh đạo Đảng, Nhà nước dự kỷ niệm 60 năm ngày truyền thống ngành Nội chính Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.213921+07:00",
+      "fetched": "2026-01-05T13:26:07.214051+07:00"
+    },
+    {
+      "id": "1eefe10964adb0fd13d4d111d486a6a1",
+      "title": "Xe máy chạy ào ào vào làn xe đạp Mai Chí Thọ",
+      "link": "https://tuoitre.vn/xe-may-chay-ao-ao-vao-lan-xe-dap-mai-chi-tho-20260105110338456.htm",
+      "summary": "Dù có vạch sơn, biển báo rõ ràng, làn xe đạp trên đường Mai Chí Thọ, TP.HCM vẫn bị xe máy, ô tô lấn chiếm, tiềm ẩn nhiều rủi ro mất an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.213794+07:00",
+      "fetched": "2026-01-05T13:26:07.213910+07:00"
+    },
+    {
+      "id": "d1eb8fac408725e77b1a9967ebe658c5",
+      "title": "Gỡ 'nút thắt' thủy sản vào Mỹ",
+      "link": "https://tuoitre.vn/go-nut-that-thuy-san-vao-my-20260105073638267.htm",
+      "summary": "Từ ngày 1-1-2026, Mỹ chính thức áp dụng lệnh cấm nhập khẩu 12 nhóm loài thủy sản đánh bắt bằng lưới rê, lưới kéo, lưới vây... của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.213667+07:00",
+      "fetched": "2026-01-05T13:26:07.213782+07:00"
+    },
+    {
+      "id": "7dd2080173685ac684bae48c39febb11",
+      "title": "Điểm tương đồng giữa lính đặc nhiệm Mỹ và võ sĩ MMA",
+      "link": "https://tuoitre.vn/diem-tuong-dong-giua-linh-dac-nhiem-my-va-vo-si-mma-20260105111501954.htm",
+      "summary": "Người hâm mộ võ thuật ắt hẳn không xa lạ những tên tuổi như Dale Comstock hay Tim Kennedy, những võ sĩ MMA lừng lẫy đi kèm quá khứ nhiều năm phục vụ trong quân ngũ nước Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.213530+07:00",
+      "fetched": "2026-01-05T13:26:07.213655+07:00"
+    },
+    {
+      "id": "470b86a2e028b7e3d7d455a064551259",
+      "title": "Mateus Mane sẽ giúp Wolverhampton \"đào tẩu\"?",
+      "link": "https://tuoitre.vn/mateus-mane-se-giup-wolverhampton-dao-tau-20260105100919607.htm",
+      "summary": "Chỉ sau một đêm, cái tên Mateus Mane bỗng chốc trở thành hiện tượng nhờ thiết lập kỷ lục trong màu áo CLB Wolverhampton (Wolves).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T13:26:07.213355+07:00",
+      "fetched": "2026-01-05T13:26:07.213515+07:00"
+    },
     {
       "id": "8743780e50334e024fdecb61b9529bcf",
       "title": "Tiền vệ U23 Việt Nam: U23 Jordan thiên về sức mạnh, tốc độ",
@@ -333,6 +483,336 @@ window.newsData_2026_01_05 = {
       "fetched": "2026-01-05T08:06:34.014427+07:00"
     },
     {
+      "id": "012f6dd349e013cc5319c2dd9ac43ccf",
+      "title": "Trường ĐH Ngoại thương mở thêm 10 ngành mới",
+      "link": "https://thanhnien.vn/truong-dh-ngoai-thuong-mo-them-10-nganh-moi-185260105114132679.htm",
+      "summary": "Năm 2026, Trường ĐH Ngoại thương dự kiến sẽ mở thêm và phát triển nhiều ngành mới, dự kiến sẽ tuyển thêm 370 chỉ tiêu cho các ngành mới này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T06:22:00+07:00",
+      "fetched": "2026-01-05T13:26:06.567718+07:00"
+    },
+    {
+      "id": "04bc4ca746076bef10ca46533475acf4",
+      "title": "'Đối tượng mới' trong luật GDNN: Tiêu chuẩn để chuyên gia, thợ giỏi đứng lớp",
+      "link": "https://thanhnien.vn/doi-tuong-moi-trong-luat-gdnn-tieu-chuan-de-chuyen-gia-tho-gioi-dung-lop-185260101223747381.htm",
+      "summary": "Luật Giáo dục nghề nghiệp (sửa đổi) đã bổ sung, điều chỉnh nhiều quy định liên quan đến giảng viên, giáo viên và người dạy nghề. Điểm mới đáng chú ý là lần đầu tiên đưa giảng viên đồng cơ hữu vào luật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T06:18:00+07:00",
+      "fetched": "2026-01-05T13:26:06.567891+07:00"
+    },
+    {
+      "id": "aeea9a8e417257b84e6fa08e30e6ee51",
+      "title": "Biến phép tính '3 + 9 = 5' đúng bằng cách di chuyển một que diêm",
+      "link": "https://vnexpress.net/bien-phep-tinh-3-9-5-dung-bang-cach-di-chuyen-mot-que-diem-4999611.html",
+      "summary": "Không cần đến máy tính hay công thức phức tạp, chỉ cần một đôi mắt tinh anh và một tâm hồn cởi mở là đáp án sẽ hiện ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T06:15:00+07:00",
+      "fetched": "2026-01-05T13:26:03.906373+07:00"
+    },
+    {
+      "id": "0847ee8b9c16435b988a1b5dc5d27b0d",
+      "title": "‘Ngành nội chính là hiện thân cho quyết tâm phòng, chống tham nhũng, lãng phí, tiêu cực’",
+      "link": "https://thanhnien.vn/nganh-noi-chinh-la-hien-than-cho-quyet-tam-phong-chong-tham-nhung-lang-phi-tieu-cuc-185260105122655143.htm",
+      "summary": "Tổng Bí thư yêu cầu, ngành Nội chính Đảng phải là hiện thân cho quyết tâm của Đảng trong đấu tranh phòng, chống tham nhũng, lãng phí, tiêu cực \"không có vùng cấm, không có ngoại lệ\", \"mọi người đều bình đẳng trước pháp luật\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T06:11:00+07:00",
+      "fetched": "2026-01-05T13:26:06.568069+07:00"
+    },
+    {
+      "id": "55a8096cd25b73020c4c8e7656086fe3",
+      "title": "Nhớ thời vừa tác nghiệp cách ly và hành động triệu like",
+      "link": "https://thanhnien.vn/nho-thoi-vua-tac-nghiep-cach-ly-va-hanh-dong-trieu-like-185251231154615129.htm",
+      "summary": "Thời Covid, cánh nhà báo như tôi vừa tác nghiệp qua hàng rào, vừa phát gạo, phát tiền giữa tâm dịch, có bài báo triệu view mà vẫn phải… test nhanh mỗi ngày. Một giai đoạn 'tác nghiệp có một không hai', nhớ lại vừa buồn, vừa thương mến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T06:08:00+07:00",
+      "fetched": "2026-01-05T13:26:06.568225+07:00"
+    },
+    {
+      "id": "7db94a925388a162c2864fdb169a9f08",
+      "title": "Trường ĐH Mở TP.HCM bổ nhiệm 2 tân phó giáo sư khoa Luật",
+      "link": "https://thanhnien.vn/truong-dh-mo-tphcm-bo-nhiem-2-tan-pho-giao-su-khoa-luat-185260105123032545.htm",
+      "summary": "Sáng 5.1, Trường ĐH Mở TP.HCM (OU) đã tổ chức lễ công bố quyết định và bổ nhiệm chức danh phó giáo sư năm 2025. Trong đợt này, khoa Luật của trường có 2 giảng viên được công nhận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T06:07:00+07:00",
+      "fetched": "2026-01-05T13:26:06.568374+07:00"
+    },
+    {
+      "id": "039347aa55ea6d508157c055d7c3386a",
+      "title": "CSGT TP.HCM xác minh clip xe tải chạy ngược chiều trên đường Trần Văn Giàu",
+      "link": "https://thanhnien.vn/csgt-tphcm-xac-minh-clip-xe-tai-chay-nguoc-chieu-tren-duong-tran-van-giau-185260105113143717.htm",
+      "summary": "CSGT TP.HCM cho biết đang xác minh clip xe tải chạy ngược chiều trên đường Trần Văn Giàu khiến nhiều người đi đường phải thắng gấp, gây bức xúc dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T06:04:00+07:00",
+      "fetched": "2026-01-05T13:26:06.568523+07:00"
+    },
+    {
+      "id": "6284366f70676fb14811e0a3497b8b34",
+      "title": "'Tìm mãi chưa thấy đường xuống bãi biển' ở Phú Quốc",
+      "link": "https://vnexpress.net/tet-ta-di-phu-quoc-choi-gi-bai-tam-phu-quoc-bai-bien-dep-o-phu-quoc-thu-tien-xuong-bai-bien-o-phu-quoc-5001816.html",
+      "summary": "Muốn xuống biển phải đi xuyên qua nhà hàng, khách sạn. Đâu là ranh giới hợp lý giữa không gian công cộng và kinh doanh dịch vụ?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T06:00:00+07:00",
+      "fetched": "2026-01-05T13:26:03.906554+07:00"
+    },
+    {
+      "id": "392d57083a0161d1a3c9d5a15df1b69c",
+      "title": "Cô bạn thân không nhớ đến tôi những lúc vui vẻ",
+      "link": "https://vnexpress.net/co-ban-than-khong-nho-den-toi-nhung-luc-vui-ve-5001761.html",
+      "summary": "Rút cuộc thân cho mấy cũng thân ai nấy lo, mỗi khi chạm đến quyền lợi đều có thể xù lông nhím lên bảo vệ lấy thứ của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T06:00:00+07:00",
+      "fetched": "2026-01-05T13:26:03.906714+07:00"
+    },
+    {
+      "id": "897cf5f382a85fb1999347813a63371e",
+      "title": "Ăn táo đỏ có tăng cường miễn dịch, ngừa mắc cúm A?",
+      "link": "https://vnexpress.net/an-tao-do-co-tang-cuong-mien-dich-ngua-mac-cum-a-5001908.html",
+      "summary": "Nhiều người quảng cáo ăn táo đỏ giúp tăng cường miễn dịch, cung cấp vitamin C cho cơ thể, liệu có giúp phòng mắc cúm A không? (Phạm Châu, 40 tuổi, Thanh Hóa)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T06:00:00+07:00",
+      "fetched": "2026-01-05T13:26:03.906871+07:00"
+    },
+    {
+      "id": "724035fd512e11abad870d3c8468cc9c",
+      "title": "Văn Khang vẫn được đeo băng đội trưởng U.23 Việt Nam: Đình Bắc và Hiểu Minh cùng làm đội phó",
+      "link": "https://thanhnien.vn/van-khang-van-duoc-deo-bang-doi-truong-u23-viet-nam-dinh-bac-va-hieu-minh-cung-lam-doi-pho-185260105125858912.htm",
+      "summary": "HLV Kim Sang-sik đã chính thức chốt danh sách ban cán sự của U.23 Việt Nam tại VCK U.23 châu Á, qua đó thể hiện sự ổn định và niềm tin vào những gương mặt trụ cột trước thềm giải đấu lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:58:00+07:00",
+      "fetched": "2026-01-05T13:26:06.568670+07:00"
+    },
+    {
+      "id": "35cae6cc0078416240663c20d95f8bb8",
+      "title": "Tiết lộ lương 'khủng' của phi công Mỹ gây choáng",
+      "link": "https://thanhnien.vn/tiet-lo-luong-khung-cua-phi-cong-my-gay-choang-18526010507552557.htm",
+      "summary": "Lương của phi công thay đổi tùy thuộc vào hãng hàng không họ làm việc và số giờ bay trong một năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:47:00+07:00",
+      "fetched": "2026-01-05T13:26:06.568816+07:00"
+    },
+    {
+      "id": "00532a2f1a8e908b541c4e93a37d1651",
+      "title": "VinFast tung loạt ưu đãi siêu hấp dẫn: Mua xe 0 đồng, miễn phí sạc...",
+      "link": "https://thanhnien.vn/vinfast-tung-loat-uu-dai-sieu-hap-dan-mua-xe-0-dong-mien-phi-sac-185260105123823763.htm",
+      "summary": "Các chính sách hấp dẫn nằm trong chương trình \"Mãnh liệt vì tương lai Xanh\" năm 2026 mà VinFast vừa công bố triển khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:46:00+07:00",
+      "fetched": "2026-01-05T13:26:06.568959+07:00"
+    },
+    {
+      "id": "9fcdeb6a1bb60c414fbc01d502333f1d",
+      "title": "Tết Bính Ngọ 2026: Người có công được đề xuất nhận quà đến 600.000 đồng",
+      "link": "https://thanhnien.vn/tet-binh-ngo-2026-nguoi-co-cong-duoc-de-xuat-nhan-qua-den-600000-dong-185260105113349539.htm",
+      "summary": "Chính phủ đề xuất tặng quà tết Nguyên đán 2026 cho người có công với cách mạng và thân nhân liệt sĩ, với hai mức 600.000 đồng và 300.000 đồng, tùy từng nhóm đối tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:45:00+07:00",
+      "fetched": "2026-01-05T13:26:06.569120+07:00"
+    },
+    {
+      "id": "dbfc83d6c708372cdd32d538035777a5",
+      "title": "40 năm Báo Thanh Niên - Đột phá: Dấu ấn qua 8 kỳ World Cup và EURO",
+      "link": "https://thanhnien.vn/40-nam-bao-thanh-nien-dot-pha-dau-an-qua-8-ky-world-cup-va-euro-185260105124200959.htm",
+      "summary": "Từ chỗ tường thuật các giải bóng đá quốc tế lớn như World Cup hay EURO một cách gián tiếp, phóng viên Thanh Niên đã trực tiếp có mặt tại gần 10 vòng chung kết để mang không khí hội hè bóng đá đến với cho độc giả, khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:42:00+07:00",
+      "fetched": "2026-01-05T13:26:06.569273+07:00"
+    },
+    {
+      "id": "9df0d93db3410c167f9eae039bf8d52e",
+      "title": "Một trường xét học sinh 149 trường THPT diện ưu tiên xét tuyển ĐH Quốc gia TP.HCM",
+      "link": "https://thanhnien.vn/mot-truong-xet-hoc-sinh-149-truong-thpt-dien-uu-tien-xet-tuyen-dh-quoc-gia-tphcm-185260105121359632.htm",
+      "summary": "Năm 2026, một trường ĐH tại TP.HCM dự kiến xét tuyển học sinh 149 trường THPT thuộc diện ưu tiên xét tuyển năm 2025 của ĐH Quốc gia TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:39:00+07:00",
+      "fetched": "2026-01-05T13:26:06.569417+07:00"
+    },
+    {
+      "id": "470893444b63453e9617d0e55b98c4b8",
+      "title": "Tên tôi gắn với kỷ niệm cuộc tổng tuyển cử bầu Quốc hội đầu tiên",
+      "link": "https://thanhnien.vn/ten-toi-gan-voi-ky-niem-cuoc-tong-tuyen-cu-bau-quoc-hoi-dau-tien-185260105112624705.htm",
+      "summary": "Bây giờ ai cũng biết ngày 6.1.1946 là ngày tổng tuyển cử bầu Quốc hội đầu tiên (khóa 1) của nước Việt Nam Dân chủ Cộng hòa. Và tên tôi cũng gắn với cuộc tổng tuyển cử bầu Quốc hội đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:39:00+07:00",
+      "fetched": "2026-01-05T13:26:06.569567+07:00"
+    },
+    {
+      "id": "890213c0c41c01c05d61193907025d88",
+      "title": "Hà Nội thưởng Tết cao nhất 614 triệu đồng, gấp đôi năm ngoái",
+      "link": "https://vnexpress.net/ha-noi-thuong-tet-cao-nhat-614-trieu-dong-gap-doi-nam-ngoai-5001943.html",
+      "summary": "Mức thưởng Tết Nguyên đán Bính Ngọ cao nhất tại Hà Nội là 614 triệu đồng, thuộc khối doanh nghiệp dân doanh, tăng gấp đôi so với năm ngoái; tiền thưởng bình quân ở các khối đều tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:38:43+07:00",
+      "fetched": "2026-01-05T13:26:03.907022+07:00"
+    },
+    {
+      "id": "65babfbcb93e4140a5e39f14c0b5e812",
+      "title": "Quy định mới cần lưu ý với tài xế xe dịch vụ năm 2026",
+      "link": "https://thanhnien.vn/quy-dinh-moi-can-luu-y-voi-tai-xe-xe-dich-vu-nam-2026-185260104125813867.htm",
+      "summary": "Luật số 118/2025/QH15 có hiệu lực từ ngày 1.7.2026 có nhiều thay đổi quan trọng với hoạt động kinh doanh vận tải dịch vụ. Tài xế cần lưu ý về lộ trình lắp thiết bị giám sát để tránh bị phạt theo quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:31:00+07:00",
+      "fetched": "2026-01-05T13:26:06.569717+07:00"
+    },
+    {
+      "id": "7ba0679f6ce353b638ac8eb6081f061e",
+      "title": "Na Uy thành quốc gia 'điện hóa' ô tô nhanh nhất thế giới, nhờ đâu?",
+      "link": "https://thanhnien.vn/na-uy-thanh-quoc-gia-dien-hoa-o-to-nhanh-nhat-the-gioi-nho-dau-185260104070947412.htm",
+      "summary": "Chỉ hơn 10 năm, tỉ lệ xe thuần điện trên thị trường xe mới tại Na Uy tăng vọt từ 1% lên đến 96%; trở thành quốc gia có tốc độ \"điện hóa\" ô tô nhanh nhất toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:29:00+07:00",
+      "fetched": "2026-01-05T13:26:06.569865+07:00"
+    },
+    {
+      "id": "c0e49718ec3eb76e02945057db909a6a",
+      "title": "Trùm sữa giả HIUP khai: Hàm lượng chưa đạt song không có chất độc hại",
+      "link": "https://vnexpress.net/trum-sua-gia-hiup-khai-ham-luong-khong-dat-song-khong-co-chat-doc-hai-5001895.html",
+      "summary": "Ông chủ Z Holding Hoàng Quang Thịnh khai các con và người nhà đều dùng sữa HIUP do công ty sản xuất; sản phẩm chỉ thiếu, sai thành phần nhưng không độc hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:21:37+07:00",
+      "fetched": "2026-01-05T13:26:03.907204+07:00"
+    },
+    {
+      "id": "2f43bb58c46da55c3230eef3df219276",
+      "title": "9 điểm nhấn vòng 20 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/9-diem-nhan-vong-20-ngoai-hang-anh-5001703.html",
+      "summary": "Arsenal thể hiện bản lĩnh, Man City thiếu hậu vệ trái, hay đội hình thiếu sức tấn công của Liverpool thuộc danh sách những điểm nhấn tại Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:13:04+07:00",
+      "fetched": "2026-01-05T13:26:03.907361+07:00"
+    },
+    {
+      "id": "2f43bb58c46da55c3230eef3df219276",
+      "title": "9 điểm nhấn vòng 20 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/9-diem-nhan-vong-20-ngoai-hang-anh-5001703.html",
+      "summary": "Arsenal thể hiện bản lĩnh, Man City thiếu hậu vệ trái, hay đội hình thiếu sức tấn công của Liverpool thuộc danh sách những điểm nhấn tại Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-05T05:13:04+07:00",
+      "fetched": "2026-01-05T13:26:12.606692+07:00"
+    },
+    {
+      "id": "7c55e222606b86f1cd6d730bac48983b",
+      "title": "Elon Musk miễn phí Internet Starlink tại Venezuela",
+      "link": "https://vnexpress.net/elon-musk-mien-phi-internet-starlink-tai-venezuela-5001879.html",
+      "summary": "Elon Musk, chủ sở hữu Starlink, thông báo cung cấp Internet miễn phí tại Venezuela sau khi Mỹ phát động chiến dịch không kích, bắt vợ chồng Tổng thống Maduro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:00:57+07:00",
+      "fetched": "2026-01-05T13:26:03.907514+07:00"
+    },
+    {
+      "id": "7c55e222606b86f1cd6d730bac48983b",
+      "title": "Elon Musk miễn phí Internet Starlink tại Venezuela",
+      "link": "https://vnexpress.net/elon-musk-mien-phi-internet-starlink-tai-venezuela-5001879.html",
+      "summary": "Elon Musk, chủ sở hữu Starlink, thông báo cung cấp Internet miễn phí tại Venezuela sau khi Mỹ phát động chiến dịch không kích, bắt vợ chồng Tổng thống Maduro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T05:00:57+07:00",
+      "fetched": "2026-01-05T13:26:08.327263+07:00"
+    },
+    {
+      "id": "6b552957b5ede26c3ab1749395c35f0f",
+      "title": "Nội tạng cá có thực sự bổ dưỡng?",
+      "link": "https://vnexpress.net/noi-tang-ca-co-thuc-su-bo-duong-5001550.html",
+      "summary": "Nhiều người cho rằng nên kiêng nội tạng để tránh mỡ máu, song gan và trứng cá lại được xem là ngoại lệ nhờ giá trị dinh dưỡng cao, liệu quan điểm này có đúng? (Hồng, 35 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:00:00+07:00",
+      "fetched": "2026-01-05T13:26:03.907665+07:00"
+    },
+    {
+      "id": "f258275132db1f6ee984c8249a3a3bd7",
+      "title": "Potech cung cấp đèn LED chất lượng cao cho môi trường công nghiệp",
+      "link": "https://vnexpress.net/potech-cung-cap-den-led-chat-luong-cao-cho-moi-truong-cong-nghiep-5001903.html",
+      "summary": "Potech tập trung vào chất lượng kỹ thuật, tối ưu hiệu suất chiếu sáng, độ bền sản phẩm thông qua hợp tác các nhà cung cấp công nghệ như Nichia (Nhật Bản) và Meanwell (Đài Loan).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:00:00+07:00",
+      "fetched": "2026-01-05T13:26:03.907817+07:00"
+    },
+    {
+      "id": "08c73430e0795d7afec8d43b310980bb",
+      "title": "5 thực phẩm giàu vitamin E nên ăn hàng ngày",
+      "link": "https://vnexpress.net/5-thuc-pham-giau-vitamin-e-nen-an-hang-ngay-5001893.html",
+      "summary": "Rau bina, kiwi, khoai lang và hạt hướng dương giàu vitamin E, góp phần giảm stress oxy hóa và hỗ trợ duy trì làn da khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:00:00+07:00",
+      "fetched": "2026-01-05T13:26:03.907967+07:00"
+    },
+    {
+      "id": "852d82895c67ade9d59e5b58f2080819",
+      "title": "Africa Global Logistics xây ba cầu cảng tại cảng Bagamoyo",
+      "link": "https://vnexpress.net/africa-global-logistics-xay-ba-cau-cang-tai-cang-bagamoyo-5001857.html",
+      "summary": "Africa Global Logistics, đơn vị thuộc tập đoàn vận tải biển MSC sẽ tham gia thiết kế, xây dựng và vận hành giai đoạn đầu của cảng Bagamoyo, tổng vốn dự án 2,1 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:00:00+07:00",
+      "fetched": "2026-01-05T13:26:03.908154+07:00"
+    },
+    {
+      "id": "574fe7515516ebedb84bcc1cb30674c4",
+      "title": "Nguyên nhân gây đau nhức mắt",
+      "link": "https://vnexpress.net/nguyen-nhan-gay-dau-nhuc-mat-5001813.html",
+      "summary": "Đau nhức mắt xảy ra khi mắt bị viêm, nhiễm trùng, rối loạn thị lực hoặc chấn thương, dẫn đến cảm giác đau, cộm hoặc khó chịu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:00:00+07:00",
+      "fetched": "2026-01-05T13:26:03.908316+07:00"
+    },
+    {
+      "id": "3e1fb0495fcc92258f7256c2a01658b7",
+      "title": "Isuzu Việt Nam hỗ trợ đầu tư xe đào tạo và sát hạch lái xe",
+      "link": "https://vnexpress.net/isuzu-viet-nam-ho-tro-dau-tu-xe-dao-tao-va-sat-hach-lai-xe-5000558.html",
+      "summary": "Isuzu Việt Nam mở rộng chương trình hỗ trợ các doanh nghiệp, cá nhân đầu tư phương tiện cho mục đích đào tạo, sát hạch lái xe, từ nay đến 31/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T05:00:00+07:00",
+      "fetched": "2026-01-05T13:26:03.908470+07:00"
+    },
+    {
+      "id": "2f05082b1ffb13be195dd2f0d9616b2d",
+      "title": "TP HCM thử nghiệm 'thiết bị bay không người lái' giao hàng",
+      "link": "https://vnexpress.net/tp-hcm-thu-nghiem-thiet-bi-bay-khong-nguoi-lai-giao-hang-5001919.html",
+      "summary": "TP HCM lần đầu thử nghiệm thiết bị bay không người lái (UAV) giao hàng, mở hướng ứng dụng trong logistics đô thị và kỳ vọng sớm bay chặng dài Cần Giờ - Vũng Tàu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:53:00+07:00",
+      "fetched": "2026-01-05T13:26:03.908628+07:00"
+    },
+    {
+      "id": "2f05082b1ffb13be195dd2f0d9616b2d",
+      "title": "TP HCM thử nghiệm 'thiết bị bay không người lái' giao hàng",
+      "link": "https://vnexpress.net/tp-hcm-thu-nghiem-thiet-bi-bay-khong-nguoi-lai-giao-hang-5001919.html",
+      "summary": "TP HCM lần đầu thử nghiệm thiết bị bay không người lái (UAV) giao hàng, mở hướng ứng dụng trong logistics đô thị và kỳ vọng sớm bay chặng dài Cần Giờ - Vũng Tàu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-05T04:53:00+07:00",
+      "fetched": "2026-01-05T13:26:11.498192+07:00"
+    },
+    {
       "id": "e04349db68788a57a5789346b26b8c51",
       "title": "Cận cảnh khu đô thị gần 4.500 tỉ đồng ở Đà Nẵng dính hàng loạt vi phạm",
       "link": "https://thanhnien.vn/can-canh-khu-do-thi-gan-4500-ti-dong-o-da-nang-dinh-hang-loat-vi-pham-185260105111757579.htm",
@@ -341,6 +821,16 @@ window.newsData_2026_01_05 = {
       "category": "Tổng hợp",
       "published": "2026-01-05T04:46:00+07:00",
       "fetched": "2026-01-05T11:49:47.406242+07:00"
+    },
+    {
+      "id": "d3703da28309d1f05345dad6d5d6a5f7",
+      "title": "Tổng thống lâm thời Venezuela muốn 'hợp tác cùng phát triển' với Mỹ",
+      "link": "https://vnexpress.net/tong-thong-lam-thoi-venezuela-muon-hop-tac-cung-phat-trien-voi-my-5001882.html",
+      "summary": "Tổng thống lâm thời Venezuela Delcy Rodriguez tuyên bố nước này mong muốn đối thoại và hợp tác với Mỹ trên cơ sở luật pháp quốc tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T04:43:55+07:00",
+      "fetched": "2026-01-05T13:26:08.327436+07:00"
     },
     {
       "id": "92d969aa9103d2173440296bf70d3693",
