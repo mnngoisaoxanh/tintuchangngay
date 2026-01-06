@@ -1,7 +1,27 @@
 window.newsData_2026_01_07 = {
   "date": "2026-01-07",
-  "lastUpdated": "2026-01-07T03:14:29.172096+07:00",
+  "lastUpdated": "2026-01-07T05:13:09.943155+07:00",
   "articles": [
+    {
+      "id": "cfd6d93a654cfff54360a9b3a8300f60",
+      "title": "Bộ Tư pháp Mỹ rút cáo buộc ông Maduro là trùm băng đảng ma túy  ‘Cartel de los Soles’",
+      "link": "https://tuoitre.vn/my-thua-nhan-bang-dang-ma-tuy-cartel-de-los-soles-gan-voi-ong-maduro-khong-ton-tai-20260106181849313.htm",
+      "summary": "Bộ Tư pháp Mỹ vừa rút lại một cáo buộc gây tranh cãi từng được chính quyền Tổng thống Trump thúc đẩy nhằm vào Tổng thống Venezuela Nicolas Maduro: rằng ông là thủ lĩnh của một băng đảng ma túy có tên \"Cartel de los Soles\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T05:13:01.995738+07:00",
+      "fetched": "2026-01-07T05:13:01.995866+07:00"
+    },
+    {
+      "id": "3e58c8fcbb01b85ce7f84aa22bdb4cd2",
+      "title": "U23 Việt Nam đã ghi bao nhiêu bàn từ đá phạt góc?",
+      "link": "https://tuoitre.vn/u23-viet-nam-da-ghi-bao-nhieu-ban-tu-da-phat-goc-20260106234432388.htm",
+      "summary": "Nếu tính luôn bàn thắng của Hiểu Minh ở trận thắng U23 Jordan tại Vòng chung kết U23 châu Á 2026, đội tuyển U23 Việt Nam đã ghi đến 8 bàn từ đá phạt góc ở 4 giải đấu chính thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T05:13:01.995515+07:00",
+      "fetched": "2026-01-07T05:13:01.995723+07:00"
+    },
     {
       "id": "d303baa0bc57302e369ccbbf7ea007d8",
       "title": "Ban Bí thư điều động, chỉ định Phó bí thư Tỉnh ủy Lạng Sơn",
@@ -153,6 +173,116 @@ window.newsData_2026_01_07 = {
       "fetched": "2026-01-07T01:19:14.834118+07:00"
     },
     {
+      "id": "8112f746aacfa0bfe869a1e6c9f1fd85",
+      "title": "Chặt hạ, dịch chuyển hàng xà cừ cổ thụ trên đường 70",
+      "link": "https://thanhnien.vn/chat-ha-dich-chuyen-hang-xa-cu-co-thu-tren-duong-70-185260106184107167.htm",
+      "summary": "Hàng cây xà cừ cổ thụ cùng nhiều loại cây khác nhau trên tuyến đường 70 (Hà Nội) đang được chặt hạ, dịch chuyển để phục vụ dự án mở rộng, nâng cấp tuyến đường có tổng mức đầu tư gần 3.400 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T22:00:00+07:00",
+      "fetched": "2026-01-07T05:13:01.093513+07:00"
+    },
+    {
+      "id": "690636e027960a24c51a0926e88b4983",
+      "title": "Cơ sở phế liệu, gia công đá 'bủa vây' khu tái định cư",
+      "link": "https://thanhnien.vn/co-so-phe-lieu-gia-cong-da-bua-vay-khu-tai-dinh-cu-185260106165912406.htm",
+      "summary": "Phế liệu ngổn ngang, tiếng ồn chói tai từ cơ sở gia công đá giữa khu tái định cư ở Gia Lai trong thời gian dài nhưng việc xử lý vẫn chậm, khiến người dân lo ngại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T22:00:00+07:00",
+      "fetched": "2026-01-07T05:13:01.093695+07:00"
+    },
+    {
+      "id": "25751ee5a40a1e7bee4d8da48f2d4ae1",
+      "title": "Ông Maduro ra tòa, Venezuela có tổng thống mới",
+      "link": "https://thanhnien.vn/ong-maduro-ra-toa-venezuela-co-tong-thong-moi-185260106214333572.htm",
+      "summary": "Ngày 5.1, Mỹ đã mở phiên tòa xét xử ông Nicolas Maduro và vợ là bà Cilia Flores về các cáo buộc điều hành đường dây buôn lậu ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:41:00+07:00",
+      "fetched": "2026-01-07T05:13:01.093850+07:00"
+    },
+    {
+      "id": "e9a5d0e93eddc51fc001690cdb8216a3",
+      "title": "Tình hữu nghị VN - Campuchia và tầm nhìn thời đại mới",
+      "link": "https://thanhnien.vn/tinh-huu-nghi-vn-campuchia-va-tam-nhin-thoi-dai-moi-185260106213827619.htm",
+      "summary": "Kỷ niệm 47 năm chiến thắng lịch sử này (7.1.1979 - 7.1.2026), truyền thông Campuchia như DAP News, Koh Santepheap Daily đã có bài viết nhìn lại chặng đường đã qua để trân trọng những gì đang có và định hình xây dựng tương lai Campuchia phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:00+07:00",
+      "fetched": "2026-01-07T05:13:01.094020+07:00"
+    },
+    {
+      "id": "1b05360265cafcd47ab8ff6e21171397",
+      "title": "Thận yếu: Uống nước rau mùi tây liệu có tốt?",
+      "link": "https://thanhnien.vn/than-yeu-uong-nuoc-rau-mui-tay-lieu-co-tot-185260107021527682.htm",
+      "summary": "Thận hoạt động âm thầm mỗi ngày để trao đổi chất thải và cân bằng chất lỏng cho cơ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:15:00+07:00",
+      "fetched": "2026-01-07T05:13:01.094174+07:00"
+    },
+    {
+      "id": "1a7add13ff163eead8cb5a3080161351",
+      "title": "Làm gì để du khách chi tiêu nhiều hơn?",
+      "link": "https://thanhnien.vn/lam-gi-de-du-khach-chi-tieu-nhieu-hon-185260106211117319.htm",
+      "summary": "Đó là câu hỏi không mới nhưng chưa bao giờ cũ với ngành du lịch VN. Trong bối cảnh thu hút khách quốc tế tăng mạnh, vấn đề cần làm gì để khách tự nguyện móc hầu bao lại \"nóng\" lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:00:00+07:00",
+      "fetched": "2026-01-07T05:13:01.094323+07:00"
+    },
+    {
+      "id": "ea110ad4b3fb191cd7b80a6583dc158f",
+      "title": "'Thót tim' với vàng",
+      "link": "https://thanhnien.vn/thot-tim-voi-vang-185260106210629904.htm",
+      "summary": "Trong 1 tháng trở lại đây, giá vàng tăng giảm như tàu cao tốc, biến động trong biên độ rộng, tới khoảng 7 triệu đồng/lượng đối với vàng miếng. Rủi ro biến động giá trên thị trường hiện ở mức cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:00:00+07:00",
+      "fetched": "2026-01-07T05:13:01.094468+07:00"
+    },
+    {
+      "id": "68b6a5ed0ba8db141745be27baec8699",
+      "title": "Thủy sản xuất khẩu lại vướng",
+      "link": "https://thanhnien.vn/thuy-san-xuat-khau-lai-vuong-185260106202803409.htm",
+      "summary": "Năm 2025, xuất khẩu thủy sản VN sang Mỹ vẫn đạt kết quả bùng nổ dù phải đối mặt với thuế đối ứng và các loại thuế khác. Tuy nhiên, ngay từ đầu năm 2026, thị trường Mỹ lại đặt thêm một rào cản kỹ thuật nặng ký khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:00:00+07:00",
+      "fetched": "2026-01-07T05:13:01.094618+07:00"
+    },
+    {
+      "id": "c121bf9b1116056fcfb3acc71128aca4",
+      "title": "Việt Nam giữ ngôi đầu sau khi Arab Saudi chật vật thắng Kyrgyzstan",
+      "link": "https://vnexpress.net/viet-nam-giu-ngoi-dau-sau-khi-arab-saudi-chat-vat-thang-kyrgyzstan-5002624.html",
+      "summary": "Chủ nhà U23 châu Á 2026 chơi hơn người từ phút 33 nhưng phải đến cuối trận mới thắng Kyrgyzstan 1-0 ở lượt ra quân bảng A, tối 6/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T20:29:36+07:00",
+      "fetched": "2026-01-07T05:12:57.797334+07:00"
+    },
+    {
+      "id": "c121bf9b1116056fcfb3acc71128aca4",
+      "title": "Việt Nam giữ ngôi đầu sau khi Arab Saudi chật vật thắng Kyrgyzstan",
+      "link": "https://vnexpress.net/viet-nam-giu-ngoi-dau-sau-khi-arab-saudi-chat-vat-thang-kyrgyzstan-5002624.html",
+      "summary": "Chủ nhà U23 châu Á 2026 chơi hơn người từ phút 33 nhưng phải đến cuối trận mới thắng Kyrgyzstan 1-0 ở lượt ra quân bảng A, tối 6/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T20:29:36+07:00",
+      "fetched": "2026-01-07T05:13:09.938244+07:00"
+    },
+    {
+      "id": "22c05acf040b90d48c742d594c3c6ba5",
+      "title": "5 loại hạt giúp giảm acid uric",
+      "link": "https://vnexpress.net/5-loai-hat-giup-giam-acid-uric-5002517.html",
+      "summary": "Hạt điều, óc chó, hạnh nhân giàu omega-3, ít purin, hỗ trợ đào thải acid uric tự nhiên, giảm nguy cơ mắc bệnh gout.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T20:00:00+07:00",
+      "fetched": "2026-01-07T05:12:57.797515+07:00"
+    },
+    {
       "id": "c10472ebb7d61fa9a7b3246437b49dae",
       "title": "Sáng nào cũng 1 tô phở bò: Điều gì xảy ra với huyết áp?",
       "link": "https://thanhnien.vn/sang-nao-cung-1-to-pho-bo-dieu-gi-xay-ra-voi-huyet-ap-185260107015846262.htm",
@@ -181,6 +311,16 @@ window.newsData_2026_01_07 = {
       "category": "Tổng hợp",
       "published": "2026-01-06T18:07:00+07:00",
       "fetched": "2026-01-07T01:19:13.502215+07:00"
+    },
+    {
+      "id": "f8f165f4604655cf094c509906829a4c",
+      "title": "Phó thủ tướng: Cần coi lái xe có nồng độ cồn là tội phạm",
+      "link": "https://vnexpress.net/pho-thu-tuong-can-coi-lai-xe-co-nong-do-con-la-toi-pham-5002609.html",
+      "summary": "Phó thủ tướng Trần Hồng Hà nhấn mạnh cần coi hành vi điều khiển phương tiện khi có nồng độ cồn là nguy hiểm, tội phạm, để đảm bảo an toàn giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T17:35:00+07:00",
+      "fetched": "2026-01-07T05:12:57.797679+07:00"
     },
     {
       "id": "ba7777cd91438e60684b622a6e43d662",
