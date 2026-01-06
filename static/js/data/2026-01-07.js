@@ -1,6 +1,6 @@
 window.newsData_2026_01_07 = {
   "date": "2026-01-07",
-  "lastUpdated": "2026-01-07T01:19:21.342018+07:00",
+  "lastUpdated": "2026-01-07T03:14:29.172096+07:00",
   "articles": [
     {
       "id": "d303baa0bc57302e369ccbbf7ea007d8",
@@ -151,6 +151,16 @@ window.newsData_2026_01_07 = {
       "category": "Tổng hợp",
       "published": "2026-01-07T01:19:14.833903+07:00",
       "fetched": "2026-01-07T01:19:14.834118+07:00"
+    },
+    {
+      "id": "c10472ebb7d61fa9a7b3246437b49dae",
+      "title": "Sáng nào cũng 1 tô phở bò: Điều gì xảy ra với huyết áp?",
+      "link": "https://thanhnien.vn/sang-nao-cung-1-to-pho-bo-dieu-gi-xay-ra-voi-huyet-ap-185260107015846262.htm",
+      "summary": "Mỗi sáng 1 tô phở là thói quen yêu thích của nhiều người. Tuy nhiên, liệu việc tiêu thụ thịt bò thường xuyên trong món ăn này có là mối lo ngại về huyết áp?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T18:58:00+07:00",
+      "fetched": "2026-01-07T03:14:21.937430+07:00"
     },
     {
       "id": "bef1e53e2901a6fad6b309bae5857db1",
