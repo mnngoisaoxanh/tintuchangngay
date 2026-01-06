@@ -1,7 +1,17 @@
 window.newsData_2026_01_06 = {
   "date": "2026-01-06",
-  "lastUpdated": "2026-01-06T10:22:16.890621+07:00",
+  "lastUpdated": "2026-01-06T11:32:18.879585+07:00",
   "articles": [
+    {
+      "id": "d8ce9de8bb5e4fb4d4a27e2ad5922ee7",
+      "title": "Hơn 684.800 tỉ đồng vốn đầu tư đổ vào TP.HCM",
+      "link": "https://tuoitre.vn/hon-684-800-ti-dong-von-dau-tu-do-vao-tp-hcm-20260106092737057.htm",
+      "summary": "Năm 2025, tổng vốn đầu tư thực hiện toàn xã hội của TP.HCM ước đạt 684.877 tỉ đồng, tăng 11,9% so với năm 2024. Trong bối cảnh kinh tế phục hồi, đầu tư hạ tầng tiếp tục là \"đầu kéo\", tạo dư địa cho công nghiệp, dịch vụ, bất động sản thu hút dòng vốn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T11:32:08.798110+07:00",
+      "fetched": "2026-01-06T11:32:08.798316+07:00"
+    },
     {
       "id": "b799cee81570379050120983e9bc633f",
       "title": "Cấm ô tô từ Trường Chinh vào Phạm Văn Bạch để lắp ống nước HDPE metro 2",
@@ -223,6 +233,296 @@ window.newsData_2026_01_06 = {
       "fetched": "2026-01-06T08:01:14.220798+07:00"
     },
     {
+      "id": "3544790d440a651e9ac874acc03d8abe",
+      "title": "Người bệnh tiểu đường có nên dùng la hán quả thay đường?",
+      "link": "https://thanhnien.vn/nguoi-benh-tieu-duong-co-nen-dung-la-han-qua-thay-duong-185260103102953393.htm",
+      "summary": "Nhiều người bệnh tiểu đường tìm đến la hán quả như một chất tạo ngọt tự nhiên không calo. Nhưng liệu la hán quả có thực sự an toàn và phù hợp thay thế đường trong khẩu phần hằng ngày của người bệnh?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T04:31:00+07:00",
+      "fetched": "2026-01-06T11:32:07.601774+07:00"
+    },
+    {
+      "id": "8a16b9a64021cb6ea8f0dc7facd5f156",
+      "title": "Mebi Group - Hành trình từ chuẩn mực đến hệ sinh thái nông nghiệp bền vững",
+      "link": "https://thanhnien.vn/mebi-group-hanh-trinh-tu-chuan-muc-den-he-sinh-thai-nong-nghiep-ben-vung-185260106110923852.htm",
+      "summary": "Năm 2025 đánh dấu một cột mốc đặc biệt trong hành trình phát triển của hệ sinh thái Mebi Group, khi Mebipha lần thứ ba liên tiếp được vinh danh Doanh nghiệp Xanh TP.HCM và Mebi Farm, đơn vị nông nghiệp công nghệ cao của hệ sinh thái - lần đầu tiên tham dự và cũng được xướng tên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T04:29:00+07:00",
+      "fetched": "2026-01-06T11:32:07.601969+07:00"
+    },
+    {
+      "id": "4b57fe374ed83c363783befff20e6f84",
+      "title": "Đơn vị quản lý giải thích công trình ‘lạ’ trong di tích Huế",
+      "link": "https://thanhnien.vn/don-vi-quan-ly-giai-thich-cong-trinh-la-trong-di-tich-hue-185260106084715906.htm",
+      "summary": "Trung tâm Bảo tồn di tích cố đô Huế vừa có văn bản báo cáo các nội dung liên quan đến 2 công trình 'lạ' xuất hiện tại di tích khu lăng vua Thiệu Trị và thái hậu Từ Dũ triều Nguyễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T04:29:00+07:00",
+      "fetched": "2026-01-06T11:32:07.602145+07:00"
+    },
+    {
+      "id": "6d967ce014e9ba158d4051ddf554a92f",
+      "title": "TP.HCM: Ra đồng cắt rau, phát hiện người đàn ông treo cổ trên cây",
+      "link": "https://thanhnien.vn/tphcm-ra-dong-cat-rau-phat-hien-nguoi-dan-ong-treo-co-tren-cay-185260106103602648.htm",
+      "summary": "Một người đàn ông được người dân phát hiện tử vong trong tư thế treo cổ trên cây nên trình báo công an.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T04:25:00+07:00",
+      "fetched": "2026-01-06T11:32:07.602306+07:00"
+    },
+    {
+      "id": "b46f1af0889f92f15136eefc8fae0686",
+      "title": "Mỹ có thể hoàn chi phí cho các hãng dầu đầu tư vào Venezuela",
+      "link": "https://vnexpress.net/my-co-the-hoan-chi-phi-cho-cac-hang-dau-dau-tu-vao-venezuela-5002337.html",
+      "summary": "Tổng thống Mỹ Donald Trump cho rằng việc tái thiết ngành dầu mỏ Venezuela sẽ cần rất nhiều tiền, nhưng doanh nghiệp Mỹ có thể được chính phủ hoàn lại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-06T04:23:07+07:00",
+      "fetched": "2026-01-06T11:32:12.686959+07:00"
+    },
+    {
+      "id": "948071071f2be33271114f08ed1c8090",
+      "title": "Xem nhanh 12h: Tình tiết đáng chú ý tại tòa xử vụ sữa giả HIUP | Giao hàng iPhone xịn bằng UAV",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-tinh-tiet-dang-chu-y-tai-toa-xu-vu-sua-gia-hiup-giao-hang-iphone-xin-bang-uav-185260106111044681.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Xem nhanh 12h' ngày 6.1.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T04:10:00+07:00",
+      "fetched": "2026-01-06T11:32:07.602467+07:00"
+    },
+    {
+      "id": "f36dc080ddf7fe192b5af2852efcb0bf",
+      "title": "NCB triển khai nền tảng tài trợ chuỗi cung ứng Corp360",
+      "link": "https://thanhnien.vn/ncb-trien-khai-nen-tang-tai-tro-chuoi-cung-ung-corp360-185260106110615384.htm",
+      "summary": "Ngân hàng TMCP Quốc Dân (NCB) tiếp tục đẩy mạnh chuyển đổi số, mang đến các giải pháp tài chính toàn diện, linh hoạt cho các Tập đoàn và doanh nghiệp lớn tại Việt Nam với việc triển khai nền tảng tài trợ chuỗi cung ứng hiện đại Corp360 Platform.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T04:00:00+07:00",
+      "fetched": "2026-01-06T11:32:07.602621+07:00"
+    },
+    {
+      "id": "b31b988e9f9ebf46fc575078acc363ce",
+      "title": "Khi váy suông chọn đứng ngoài cuộc đua phom dáng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/khi-vay-suong-chon-dung-ngoai-cuoc-dua-phom-dang-18526010522312777.htm",
+      "summary": "Giữa dòng chảy không ngừng của những xu hướng thắt eo hay cắt xẻ táo bạo, những chiếc váy suông lại chọn đứng ngoài những khuôn mẫu gò bó để tìm về sự tự do tuyệt đối của cơ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T04:00:00+07:00",
+      "fetched": "2026-01-06T11:32:07.602774+07:00"
+    },
+    {
+      "id": "52a4de33fe53ddb99f07cfdebe47db89",
+      "title": "Nông sản Việt tham gia vào chuỗi giá trị toàn cầu của PepsiCo",
+      "link": "https://vnexpress.net/nong-san-viet-tham-gia-vao-chuoi-gia-tri-toan-cau-cua-pepsico-4986383.html",
+      "summary": "Với việc khánh thành nhà máy thực phẩm tại Ninh Bình và xây dựng vùng nguyên liệu khoai tây, Pepsico đưa nông sản Việt tham gia sâu hơn vào chuỗi sản xuất và xuất khẩu toàn cầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-06T04:00:00+07:00",
+      "fetched": "2026-01-06T11:32:12.687987+07:00"
+    },
+    {
+      "id": "036ace54d4baadb9e0dd1e510204306d",
+      "title": "Bồ câu đưa thư bay 40 phút từ Tây Ninh đến TP.HCM, mang theo lời chúc năm mới",
+      "link": "https://thanhnien.vn/bo-cau-dua-thu-bay-40-phut-tu-tay-ninh-den-tphcm-mang-theo-loi-chuc-nam-moi-185260105094454982.htm",
+      "summary": "Ngày 4.1, trong lễ ra mắt Chi hội Bồ câu tỉnh Tây Ninh, anh Nguyễn Văn Thuận cho bồ câu đưa thư mang theo lời chúc năm mới đến TP.HCM trong 40 phút khiến nhiều người bất ngờ, xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:58:00+07:00",
+      "fetched": "2026-01-06T11:32:07.602948+07:00"
+    },
+    {
+      "id": "23e2ab9119b40d05aa8039b3b02bb48b",
+      "title": "Giá vàng miếng tăng gần 1 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-trong-nuoc-moi-nhat-hom-nay-ngay-6-1-5002317.html",
+      "summary": "Các thương hiệu tăng giá bán vàng miếng 900.000 đồng một lượng, theo đà tăng của thị trường quốc tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-06T03:57:30+07:00",
+      "fetched": "2026-01-06T11:32:12.687138+07:00"
+    },
+    {
+      "id": "b35fc31cfed6e6a8059099e4e612b54b",
+      "title": "U.23 Jordan tính rất kỹ khi đấu U.23 Việt Nam, xem đại chiến trên các kênh nào?",
+      "link": "https://thanhnien.vn/u23-jordan-tinh-rat-ky-khi-dau-u23-viet-nam-xem-dai-chien-tren-cac-kenh-nao-185260105214509416.htm",
+      "summary": "U.23 Jordan bước vào trận ra quân gặp U.23 VN với hành trang là một hệ thống thi đấu kỷ luật, nền tảng thể lực vượt trội và bản lĩnh được kế thừa từ thành công của bóng đá nước này. Đây là đối thủ không ồn ào, nhưng tiềm ẩn nhiều thách thức cho thầy trò HLV Kim Sang-sik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:57:00+07:00",
+      "fetched": "2026-01-06T11:32:07.603123+07:00"
+    },
+    {
+      "id": "e4fb0fac6a838d841a02ee9d93b3f943",
+      "title": "30 năm Unilever có mặt tại Việt Nam: Tầm nhìn quốc tế gặp khát vọng Việt",
+      "link": "https://thanhnien.vn/30-nam-unilever-co-mat-tai-viet-nam-tam-nhin-quoc-te-gap-khat-vong-viet-185260106105858352.htm",
+      "summary": "Năm 1995, Việt Nam vẫn là một ẩn số trong mắt nhiều tập đoàn toàn cầu còn Unilever là một Tập đoàn hàng tiêu dùng hàng đầu thế giới đã có mặt tại hơn 140 quốc gia lúc bấy giờ. Nhìn lại một chặng đường đã qua, Unilever đã đồng hành suốt hành trình phát triển của Việt Nam, từ lúc còn thị trường sơ kha...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:52:00+07:00",
+      "fetched": "2026-01-06T11:32:07.603277+07:00"
+    },
+    {
+      "id": "776cc43118ff5c61445810614c090f62",
+      "title": "Iran sẽ trợ cấp cho công dân để giảm bớt áp lực kinh tế",
+      "link": "https://thanhnien.vn/iran-se-tro-cap-cho-cong-dan-de-giam-bot-ap-luc-kinh-te-185260105105049201.htm",
+      "summary": "Chính phủ Iran ngày 4.1 thông báo sẽ trợ cấp hằng tháng cho mọi công dân để giảm bớt áp lực kinh tế, sau một tuần biểu tình, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:48:00+07:00",
+      "fetched": "2026-01-06T11:32:07.603425+07:00"
+    },
+    {
+      "id": "da5213bcfb73306488f6f68ee650b09c",
+      "title": "Neville: 'Man Utd nên chấm dứt việc thử nghiệm HLV'",
+      "link": "https://vnexpress.net/neville-man-utd-nen-cham-dut-viec-thu-nghiem-hlv-5002183.html",
+      "summary": "Theo cựu đội trưởng Gary Neville, đội bóng cũ Man Utd cần bổ nhiệm một HLV giàu kinh nghiệm, trung thành với lối chơi tấn công và những giá trị cốt lõi từng làm nên tên tuổi CLB.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:46:10+07:00",
+      "fetched": "2026-01-06T11:32:04.049928+07:00"
+    },
+    {
+      "id": "da5213bcfb73306488f6f68ee650b09c",
+      "title": "Neville: 'Man Utd nên chấm dứt việc thử nghiệm HLV'",
+      "link": "https://vnexpress.net/neville-man-utd-nen-cham-dut-viec-thu-nghiem-hlv-5002183.html",
+      "summary": "Theo cựu đội trưởng Gary Neville, đội bóng cũ Man Utd cần bổ nhiệm một HLV giàu kinh nghiệm, trung thành với lối chơi tấn công và những giá trị cốt lõi từng làm nên tên tuổi CLB.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T03:46:10+07:00",
+      "fetched": "2026-01-06T11:32:18.872183+07:00"
+    },
+    {
+      "id": "8c38f5e7794ed8a209ca18826184ff52",
+      "title": "Phú Quốc hoàn thiện hạ tầng chiến lược: Sân bay - tàu đô thị - trung tâm hội nghị quốc tế",
+      "link": "https://thanhnien.vn/phu-quoc-hoan-thien-ha-tang-chien-luoc-san-bay-tau-do-thi-trung-tam-hoi-nghi-quoc-te-185260106110037691.htm",
+      "summary": "Hạ tầng giao thông hiện đại, các trung tâm hội nghị quy mô lớn và mô hình giải trí mang tầm quốc tế phục vụ APEC hứa hẹn đưa Phú Quốc trở thành một siêu đô thị cạnh tranh với Singapore trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:46:00+07:00",
+      "fetched": "2026-01-06T11:32:07.603582+07:00"
+    },
+    {
+      "id": "4200b352ddf431f8c9e886ffeef6b325",
+      "title": "Mỹ có thể đã dùng phi cơ 'bản sao UAV Iran' khi bắt ông Maduro",
+      "link": "https://vnexpress.net/my-co-the-da-dung-phi-co-ban-sao-uav-iran-khi-bat-ong-maduro-5002202.html",
+      "summary": "Video mới công bố cho thấy Mỹ dường như đã triển khai UAV tự sát LUCAS trong chiến dịch tập kích, bắt Tổng thống Venezuela hôm 3/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:42:44+07:00",
+      "fetched": "2026-01-06T11:32:04.050113+07:00"
+    },
+    {
+      "id": "4200b352ddf431f8c9e886ffeef6b325",
+      "title": "Mỹ có thể đã dùng phi cơ 'bản sao UAV Iran' khi bắt ông Maduro",
+      "link": "https://vnexpress.net/my-co-the-da-dung-phi-co-ban-sao-uav-iran-khi-bat-ong-maduro-5002202.html",
+      "summary": "Video mới công bố cho thấy Mỹ dường như đã triển khai UAV tự sát LUCAS trong chiến dịch tập kích, bắt Tổng thống Venezuela hôm 3/1.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-06T03:42:44+07:00",
+      "fetched": "2026-01-06T11:32:10.687938+07:00"
+    },
+    {
+      "id": "a0114e56227eeb3cc39a419e34351cb2",
+      "title": "Phấn đấu giải phóng mặt bằng công viên phía đông hồ Hoàn Kiếm trong tháng 3",
+      "link": "https://thanhnien.vn/phan-dau-giai-phong-mat-bang-cong-vien-phia-dong-ho-hoan-kiem-trong-thang-3-185260106104841774.htm",
+      "summary": "Chính quyền sở tại đã phê duyệt toàn bộ phương án bồi thường, hỗ trợ, tái định cư đối với các tổ chức, cá nhân nằm trong phạm vi dự án công viên - quảng trường phía đông hồ Hoàn Kiếm (Hà Nội), đồng thời đặt mục tiêu hoàn thành công tác giải phóng mặt bằng trong tháng 3.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:42:00+07:00",
+      "fetched": "2026-01-06T11:32:07.603734+07:00"
+    },
+    {
+      "id": "53a05f1eea5a778ec8e69972c805ea0a",
+      "title": "Khoảnh khắc phòng không Venezuela bắn trượt trực thăng Mỹ",
+      "link": "https://vnexpress.net/khoanh-khac-phong-khong-venezuela-ban-truot-truc-thang-my-5002283.html",
+      "summary": "Video mới công bố cho thấy một trực thăng Mỹ suýt trúng tên lửa phòng không tại Caracas khi tham gia chiến dịch bắt Tổng thống Maduro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:39:27+07:00",
+      "fetched": "2026-01-06T11:32:04.050277+07:00"
+    },
+    {
+      "id": "53a05f1eea5a778ec8e69972c805ea0a",
+      "title": "Khoảnh khắc phòng không Venezuela bắn trượt trực thăng Mỹ",
+      "link": "https://vnexpress.net/khoanh-khac-phong-khong-venezuela-ban-truot-truc-thang-my-5002283.html",
+      "summary": "Video mới công bố cho thấy một trực thăng Mỹ suýt trúng tên lửa phòng không tại Caracas khi tham gia chiến dịch bắt Tổng thống Maduro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-06T03:39:27+07:00",
+      "fetched": "2026-01-06T11:32:10.688119+07:00"
+    },
+    {
+      "id": "6a66897eeb57d413449eb4c0a3ddd379",
+      "title": "Nhan sắc Hoàng Thùy Linh ở tuổi 38",
+      "link": "https://thanhnien.vn/nhan-sac-hoang-thuy-linh-o-tuoi-38-185260106102530262.htm",
+      "summary": "Trải qua nhiều thăng trầm, Hoàng Thùy Linh vẫn giữ vững được phong độ trình diễn và khiến nhiều khán giả xuýt xoa vì nhan sắc tươi trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:38:00+07:00",
+      "fetched": "2026-01-06T11:32:07.603914+07:00"
+    },
+    {
+      "id": "0959f869f1b3439311536616c043e7e3",
+      "title": "Đường dây lập web cho vay lãi hơn 600% một năm",
+      "link": "https://vnexpress.net/duong-day-lap-web-cho-vay-lai-hon-600-mot-nam-5002254.html",
+      "summary": "Năm thanh niên từ Hà Nội vào Quảng Trị lập web như một \"sổ cái online\", phân quyền quản trị cho vay lãi suất từ 365% đến hơn 600%/năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:37:53+07:00",
+      "fetched": "2026-01-06T11:32:04.050447+07:00"
+    },
+    {
+      "id": "a50ed4698f7c90ae223f7b16a525935b",
+      "title": "Con sông duy nhất nào ở Việt Nam bắt nguồn từ trung tâm thành phố?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-con-song-duy-nhat-nao-o-viet-nam-bat-nguon-tu-trung-tam-thanh-pho-5001590.html",
+      "summary": "Thường thì các con sông bắt nguồn từ suối trên núi nhưng tại Việt Nam có một dòng sông đặc biệt, bắt nguồn từ trung tâm thành phố Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:37:00+07:00",
+      "fetched": "2026-01-06T11:32:04.051219+07:00"
+    },
+    {
+      "id": "8b19c8c8ec7401ef5633e10ed1b9d4fc",
+      "title": "Loạt ôtô mới chuẩn bị ra mắt trước Tết Nguyên đán 2026",
+      "link": "https://vnexpress.net/loat-oto-moi-chuan-bi-ra-mat-truoc-tet-nguyen-dan-2026-5002221.html",
+      "summary": "Toyota Hilux thế hệ mới, Honda CR-V hybrid bản lắp ráp trong nước, VinFast Lạc Hồng 900 LX hay Lynk & Co 900 dự kiến xuất hiện đầu 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:35:00+07:00",
+      "fetched": "2026-01-06T11:32:04.051402+07:00"
+    },
+    {
+      "id": "193a194ef72fbb841f5542ae6e5d8413",
+      "title": "Cuba xác nhận 32 công dân thiệt mạng khi Mỹ tấn công Venezuela",
+      "link": "https://thanhnien.vn/cuba-xac-nhan-32-cong-dan-thiet-mang-khi-my-tan-cong-venezuela-18526010611070904.htm",
+      "summary": "Chính phủ Cuba hôm 4.1 thông báo rằng 32 công dân Cuba đã thiệt mạng trong cuộc đột kích của lực lượng Mỹ vào Venezuela hôm 3.1 nhằm bắt Tổng thống Venezuela Nicolas Maduro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:34:00+07:00",
+      "fetched": "2026-01-06T11:32:07.604068+07:00"
+    },
+    {
+      "id": "b4bedb5921d27936d6e7f2ece3bab1db",
+      "title": "Sách về sự giao thoa Phật giáo và khoa học",
+      "link": "https://vnexpress.net/sach-ve-su-giao-thoa-phat-giao-va-khoa-hoc-5001979.html",
+      "summary": "Tác giả Nguyễn Hoàng Hải cho rằng Phật giáo và khoa học hiện đại không phủ nhận nhau bởi đều giúp con người hiểu bản chất của thực tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:33:17+07:00",
+      "fetched": "2026-01-06T11:32:04.051565+07:00"
+    },
+    {
+      "id": "6837bf5cca59143134399f419ed96c29",
+      "title": "Xe máy tràn vào làn đường ưu tiên xe đạp ở TP HCM",
+      "link": "https://vnexpress.net/xe-may-tran-vao-lan-duong-uu-tien-xe-dap-o-tp-hcm-5002280.html",
+      "summary": "Làn dành riêng cho xe đạp trên đường Mai Chí Thọ dù mới đưa vào khai thác nhưng thường xuyên bị xe máy lấn chiếm, CSGT cho biết sẽ tăng cường tuần tra và phạt nguội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:18:23+07:00",
+      "fetched": "2026-01-06T11:32:04.051724+07:00"
+    },
+    {
       "id": "adeeccd8ce3b0973a802956842f61719",
       "title": "Cà Mau: Bắt tạm giam cựu nhân viên ngân hàng lừa đảo hơn 1 tỉ đồng",
       "link": "https://thanhnien.vn/ca-mau-bat-tam-giam-cuu-nhan-vien-ngan-hang-lua-dao-hon-1-ti-dong-185260105181309668.htm",
@@ -273,6 +573,16 @@ window.newsData_2026_01_06 = {
       "fetched": "2026-01-06T03:15:21.849757+07:00"
     },
     {
+      "id": "58e32a8758039de6b376bea3c3115cbf",
+      "title": "Vợ có tiền tỷ nhưng đòi ly hôn vì tôi nhờ đóng tiền học cho con",
+      "link": "https://vnexpress.net/tai-chinh-gia-dinh-chi-vi-chu-tien-toi-phai-ky-vao-don-ly-hon-5002211.html",
+      "summary": "Tôi là người đàn ông yêu vợ, yêu con, lo làm ăn, cũng chẳng lăng nhăng gì nhưng lại có kết cục buồn trong hôn nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:09:21+07:00",
+      "fetched": "2026-01-06T11:32:04.051907+07:00"
+    },
+    {
       "id": "6b196cc411a1f6d0649d06f306b5fdd9",
       "title": "Nỗi niềm của ca sĩ Hồ Trung Dũng ở tuổi 44",
       "link": "https://thanhnien.vn/noi-niem-cua-ca-si-ho-trung-dung-o-tuoi-44-185260106082736684.htm",
@@ -303,6 +613,16 @@ window.newsData_2026_01_06 = {
       "fetched": "2026-01-06T10:22:11.288216+07:00"
     },
     {
+      "id": "a2cf7c94303110d68e08e2acc117c78a",
+      "title": "7 mốt thời trang công sở hot nửa đầu 2026",
+      "link": "https://vnexpress.net/7-mot-thoi-trang-cong-so-hot-nua-dau-2026-5001938.html",
+      "summary": "Color block, denim, áo tay bồng nằm trong nhóm thiết kế được lăng xê cho dân văn phòng mùa Xuân Hè năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:01:29+07:00",
+      "fetched": "2026-01-06T11:32:04.052227+07:00"
+    },
+    {
       "id": "1e845f5c565c231c551ab17b96e2c407",
       "title": "Gần 600 runner dự giải chạy 21km bằng dép Goya Photon",
       "link": "https://vnexpress.net/gan-600-runner-du-giai-chay-21km-bang-dep-goya-photon-5002246.html",
@@ -311,6 +631,26 @@ window.newsData_2026_01_06 = {
       "category": "Thể thao",
       "published": "2026-01-06T03:00:00+07:00",
       "fetched": "2026-01-06T10:22:16.885006+07:00"
+    },
+    {
+      "id": "5bcd83b3934ca8f32fb6d2749e30b924",
+      "title": "Khám phá đàn tế trời đất - nơi nhà Tây Sơn nhận thiên mệnh",
+      "link": "https://vnexpress.net/kham-pha-dan-te-troi-dat-noi-nha-tay-son-nhan-thien-menh-5000782.html",
+      "summary": "Đài Kính Thiên, di tích lịch sử nằm trên đỉnh Ấn Sơn, tái hiện không gian tế lễ trang trọng và truyền thuyết Nguyễn Nhạc được trời trao \"xã tắc\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:00:00+07:00",
+      "fetched": "2026-01-06T11:32:04.052386+07:00"
+    },
+    {
+      "id": "763de7ae2153a3abbcc43f4adb41209c",
+      "title": "Từ Mỹ về Việt Nam mổ cột sống",
+      "link": "https://vnexpress.net/tu-my-ve-viet-nam-mo-cot-song-5002240.html",
+      "summary": "Ông Sang, 60 tuổi, về Việt Nam mổ cột sống lần ba, bác sĩ đánh giá tình trạng phức tạp do thoát vị đĩa đệm, gãy mấu khớp, hẹp ống sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:00:00+07:00",
+      "fetched": "2026-01-06T11:32:04.052715+07:00"
     },
     {
       "id": "ec148ae42d38ff4a6d633b8d7b0e0da9",
@@ -1351,6 +1691,16 @@ window.newsData_2026_01_06 = {
       "category": "Tổng hợp",
       "published": "2026-01-05T17:02:00+07:00",
       "fetched": "2026-01-06T01:20:26.761873+07:00"
+    },
+    {
+      "id": "8d796c9a3efb02653b7619b328214ed1",
+      "title": "Việt Nam lần đầu tổ chức giải golf đồng đội quốc tế",
+      "link": "https://vnexpress.net/viet-nam-lan-dau-to-chuc-giai-golf-dong-doi-quoc-te-4993772.html",
+      "summary": "Giải Vietnam International Team Golf Championship 2026 (VITGC) sẽ diễn ra từ ngày 9 đến 11/1 tại NovaWorld Phan Thiet Golf Club.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-05T17:00:50+07:00",
+      "fetched": "2026-01-06T11:32:18.873998+07:00"
     },
     {
       "id": "75fc0ed22ff9fa25a80adae07c6ec7ff",
