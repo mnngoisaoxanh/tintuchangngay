@@ -1,7 +1,157 @@
 window.newsData_2026_01_06 = {
   "date": "2026-01-06",
-  "lastUpdated": "2026-01-06T08:01:19.400405+07:00",
+  "lastUpdated": "2026-01-06T10:22:16.890621+07:00",
   "articles": [
+    {
+      "id": "b799cee81570379050120983e9bc633f",
+      "title": "Cấm ô tô từ Trường Chinh vào Phạm Văn Bạch để lắp ống nước HDPE metro 2",
+      "link": "https://tuoitre.vn/cam-o-to-tu-truong-chinh-vao-pham-van-bach-de-lap-ong-nuoc-hdpe-metro-2-20260106084727461.htm",
+      "summary": "Cơ quan chức năng có điều chỉnh giao thông khá lớn trên tuyến đường Trường Chinh vào Phạm Văn Bạch và sẽ cấm xe để thi công ống cấp nước cho dự án metro 2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.371313+07:00",
+      "fetched": "2026-01-06T10:22:09.371436+07:00"
+    },
+    {
+      "id": "721ebe5462ebd7800e11404a63306581",
+      "title": "Những cầu thủ triệu đô tại Vòng chung kết U23 châu Á",
+      "link": "https://tuoitre.vn/nhung-cau-thu-trieu-do-tai-vong-chung-ket-u23-chau-a-20260105175426861.htm",
+      "summary": "Vòng chung kết U23 châu Á 2026 quy tụ nhiều tài năng trẻ hàng đầu khu vực, trong đó không ít cầu thủ được Transfermarkt định giá hàng triệu đô la. Điều này cho thấy giá trị và chất lượng của các cầu thủ trẻ châu Á ngày càng nâng cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.371186+07:00",
+      "fetched": "2026-01-06T10:22:09.371297+07:00"
+    },
+    {
+      "id": "37fd5ce1c871062f71211902a35d8c4c",
+      "title": "Lãnh đạo Đảng, Nhà nước vào lăng viếng Chủ tịch Hồ Chí Minh dịp kỷ niệm 80 năm Ngày Tổng tuyển cử",
+      "link": "https://tuoitre.vn/lanh-dao-dang-nha-nuoc-vao-lang-vieng-chu-tich-ho-chi-minh-dip-ky-niem-80-nam-ngay-tong-tuyen-cu-20260106084806964.htm",
+      "summary": "Sáng 6-1, lãnh đạo Đảng, Nhà nước đã vào lăng viếng Chủ tịch Hồ Chí Minh và đặt vòng hoa, tưởng nhớ các anh hùng liệt sĩ nhân dịp kỷ niệm 80 năm Ngày Tổng tuyển cử đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.371065+07:00",
+      "fetched": "2026-01-06T10:22:09.371175+07:00"
+    },
+    {
+      "id": "8589d01d88f6bf97d1670c82a2a839ca",
+      "title": "Vụ nhận hối lộ hơn 100 tỉ tại Cục An toàn thực phẩm: Mỗi chữ ký duyệt nhận 2-3 triệu đồng",
+      "link": "https://tuoitre.vn/vu-nhan-hoi-lo-hon-100-ti-tai-cuc-an-toan-thuc-pham-moi-chu-ky-duyet-nhan-2-3-trieu-dong-20260106085637268.htm",
+      "summary": "Trong suốt 6 năm, ông Nguyễn Thanh Phong khi đương chức Cục trưởng Cục An toàn thực phẩm (Bộ Y tế) ký duyệt hơn 20.000 hồ sơ công bố sản phẩm bảo vệ sức khỏe của doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.370940+07:00",
+      "fetched": "2026-01-06T10:22:09.371054+07:00"
+    },
+    {
+      "id": "3ebe2af530c5ab2892e47bc472f3857f",
+      "title": "Gvardiol bị gãy chân, Man City chiêu mộ trung vệ tuyển Anh?",
+      "link": "https://tuoitre.vn/gvardiol-bi-gay-chan-man-city-chieu-mo-trung-ve-tuyen-anh-2026010609001857.htm",
+      "summary": "CLB Man City xác nhận trung vệ Josko Gvardiol bị gãy chân trong trận hòa 1-1 với Chelsea. Trong bối cảnh đó, truyền thông Anh cho rằng đội bóng của Pep Guardiola đang cân nhắc chiêu mộ trung vệ tuyển Anh - Marc Guehi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.370810+07:00",
+      "fetched": "2026-01-06T10:22:09.370924+07:00"
+    },
+    {
+      "id": "a012cdcc1ac5dbc92a2de50f1342cb91",
+      "title": "Ukraine thay giám đốc SBU, người chỉ đạo vụ tập kích căn cứ không quân Nga",
+      "link": "https://tuoitre.vn/ukraine-thay-giam-doc-sbu-nguoi-chi-dao-vu-tap-kich-can-cu-khong-quan-nga-20260106082417128.htm",
+      "summary": "Ông Vasyl Maliuk rời ghế giám đốc SBU nhưng vẫn ở lại triển khai một số chiến dịch chống Nga, trong bối cảnh Tổng thống Zelensky cải tổ bộ máy an ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.370663+07:00",
+      "fetched": "2026-01-06T10:22:09.370797+07:00"
+    },
+    {
+      "id": "691e708886671caf996ad04c0570c090",
+      "title": "Venezuela tuyên bố chiến thắng tại Liên hợp quốc",
+      "link": "https://tuoitre.vn/venezuela-tuyen-bo-chien-thang-tai-lien-hop-quoc-20260106085506243.htm",
+      "summary": "Ngoại trưởng Venezuela chỉ ra cộng đồng quốc tế đã chính thức thừa nhận chiến dịch tập kích của Mỹ là trái với luật pháp quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.370536+07:00",
+      "fetched": "2026-01-06T10:22:09.370652+07:00"
+    },
+    {
+      "id": "fcf1a4076fdb4e7f5fb46ce724260dac",
+      "title": "Chủ tịch nước tặng quà Tết Nguyên đán 2026 cho hơn 1,6 triệu người có công",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-tang-qua-tet-nguyen-dan-2026-cho-hon-1-6-trieu-nguoi-co-cong-20260106090336084.htm",
+      "summary": "Chủ tịch nước Lương Cường vừa có quyết định tặng quà Tết Nguyên đán 2026 cho người có công với cách mạng, với hai mức 600.000 đồng và 300.000 đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.370408+07:00",
+      "fetched": "2026-01-06T10:22:09.370525+07:00"
+    },
+    {
+      "id": "df43e54e38e2a8965aee33401952471f",
+      "title": "Khoa học Đức gây bất ngờ: Dùng nấm thay bê tông để xây nhà",
+      "link": "https://tuoitre.vn/khoa-hoc-duc-gay-bat-ngo-dung-nam-thay-be-tong-de-xay-nha-20260104173249022.htm",
+      "summary": "Trước áp lực phát thải từ xây dựng, các nhà khoa học Đức thử nghiệm vật liệu từ nấm: nhẹ, bền, ít CO₂, hướng tới thay thế bê tông trong tương lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.370273+07:00",
+      "fetched": "2026-01-06T10:22:09.370397+07:00"
+    },
+    {
+      "id": "29e8e0c55a63aef6bd22a6f488c9e11a",
+      "title": "Có thật một chính trị gia phe Dân chủ Mỹ đã 'báo tin' cho Tổng thống Maduro trước khi bị bắt?",
+      "link": "https://tuoitre.vn/co-that-mot-chinh-tri-gia-phe-dan-chu-my-da-bao-tin-cho-tong-thong-maduro-truoc-khi-bi-bat-20260106083903142.htm",
+      "summary": "Trên mạng lan truyền tin lãnh đạo phe thiểu số Hạ viện Mỹ Hakeem Jeffries từng “báo tin” cho Tổng thống Maduro trước khi bị bắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.370147+07:00",
+      "fetched": "2026-01-06T10:22:09.370262+07:00"
+    },
+    {
+      "id": "ea2a53192a76ac99b5cb211962578552",
+      "title": "Quảng Trị ra hạn chót để doanh nghiệp điện gió nộp tiền 'giải cứu' tuyến đường ngập ngụa bùn",
+      "link": "https://tuoitre.vn/quang-tri-ra-han-chot-de-doanh-nghiep-dien-gio-nop-tien-giai-cuu-tuyen-duong-ngap-ngua-bun-20260106090744093.htm",
+      "summary": "Phó chủ tịch UBND tỉnh Quảng Trị yêu cầu các doanh nghiệp điện gió khẩn trương nộp đủ vốn cam kết trong tháng 1-2026 để nâng cấp đường Tân Liên - Thuận đang xuống cấp nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.370019+07:00",
+      "fetched": "2026-01-06T10:22:09.370135+07:00"
+    },
+    {
+      "id": "f3d5ef25d6a6b59f7a1e281b69bd43c4",
+      "title": "Wren Evans ra album mới, fan đùa 'phải chui gầm giường nghe'",
+      "link": "https://tuoitre.vn/wren-evans-ra-album-moi-fan-dua-phai-chui-gam-giuong-nghe-20260106085259398.htm",
+      "summary": "'Nổ' là tên album thứ hai của Wren Evans, được anh bất ngờ công bố vào tối 5-1. Anh tiếp tục hợp tác với nhà sản xuất ăn ý itsnk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.369892+07:00",
+      "fetched": "2026-01-06T10:22:09.370007+07:00"
+    },
+    {
+      "id": "c91dfc0d342caecdb7ae7f24bb60ef50",
+      "title": "Chủ tịch Quốc hội: Quốc hội là nơi kết tinh trí tuệ, ý chí, khát vọng của cả dân tộc",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-quoc-hoi-la-noi-ket-tinh-tri-tue-y-chi-khat-vong-cua-ca-dan-toc-2026010609222498.htm",
+      "summary": "Tổng Bí thư Tô Lâm, Chủ tịch nước Lương Cường, Thủ tướng Phạm Minh Chính, Chủ tịch Quốc hội Trần Thanh Mẫn và các lãnh đạo Đảng, Nhà nước dự lễ kỷ niệm 80 năm Ngày Tổng tuyển cử đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.369754+07:00",
+      "fetched": "2026-01-06T10:22:09.369880+07:00"
+    },
+    {
+      "id": "73d1150a64964622d609542640676434",
+      "title": "Làn đường ưu tiên cho xe đạp: Cần nhân rộng",
+      "link": "https://tuoitre.vn/lan-duong-uu-tien-cho-xe-dap-can-nhan-rong-20260106000514094.htm",
+      "summary": "Thông tin TP.HCM vừa khánh thành làn đường ưu tiên cho xe đạp dọc tuyến đường Mai Chí Thọ nhân dịp đầu năm mới (Tuổi Trẻ Online ngày 1-1) đã thu hút nhiều bạn đọc quan tâm, ủng hộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.369594+07:00",
+      "fetched": "2026-01-06T10:22:09.369740+07:00"
+    },
+    {
+      "id": "65bdb601c37a45be24d81cfd0fb9a273",
+      "title": "'Cú hích' cho giao thông công cộng TP.HCM",
+      "link": "https://tuoitre.vn/cu-hich-cho-giao-thong-cong-cong-tp-hcm-20260106001500188.htm",
+      "summary": "19 triệu lượt hành khách đi metro số 1 Bến Thành - Suối Tiên (TP.HCM) trong năm đầu tiên khai thác. Con số mang đến niềm vui và 'cú hích' cho phương tiện công cộng TP đông dân nhất nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T10:22:09.369357+07:00",
+      "fetched": "2026-01-06T10:22:09.369579+07:00"
+    },
     {
       "id": "7e90c6993a33b6758cc57fe9a5ae33ec",
       "title": "Thời tiết hôm nay 6-1: Trung Bộ có nơi mưa to, Nam Bộ mưa rào về chiều",
@@ -73,6 +223,36 @@ window.newsData_2026_01_06 = {
       "fetched": "2026-01-06T08:01:14.220798+07:00"
     },
     {
+      "id": "adeeccd8ce3b0973a802956842f61719",
+      "title": "Cà Mau: Bắt tạm giam cựu nhân viên ngân hàng lừa đảo hơn 1 tỉ đồng",
+      "link": "https://thanhnien.vn/ca-mau-bat-tam-giam-cuu-nhan-vien-ngan-hang-lua-dao-hon-1-ti-dong-185260105181309668.htm",
+      "summary": "Lợi dụng vỏ bọc nhân viên ngân hàng, Lê Trần Thảo Vy (32 tuổi, ở Cà Mau) dựng \"kịch bản\" đáo hạn để lừa đảo chiếm đoạt hơn 1 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:18:00+07:00",
+      "fetched": "2026-01-06T10:22:08.096082+07:00"
+    },
+    {
+      "id": "4c604c04a7bf8b59aac4f18ecca1c7b4",
+      "title": "Vì sao FAM lo ‘sốt vó’ khi CAS chưa lên lịch xét xử vụ kháng cáo FIFA?",
+      "link": "https://thanhnien.vn/vi-sao-fam-lo-sot-vo-khi-cas-chua-len-lich-xet-xu-vu-khang-cao-fifa-185260106101052797.htm",
+      "summary": "Theo New Straits Times, kiểm tra lịch xét xử của CAS (Tòa án Trọng tài Thể thao quốc tế) trong tháng 1.2026, vẫn chưa thấy có vụ việc nào liên quan đến FAM đang kháng cáo án phạt FIFA vụ 7 cầu thủ nhập tịch 'lậu'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:17:00+07:00",
+      "fetched": "2026-01-06T10:22:08.096260+07:00"
+    },
+    {
+      "id": "d863ae6cdbb1f202d406e2853dd9a404",
+      "title": "Những thay đổi trên iOS 27 giúp định nghĩa lại iPhone",
+      "link": "https://thanhnien.vn/nhung-thay-doi-tren-ios-27-giup-dinh-nghia-lai-iphone-185260106010141853.htm",
+      "summary": "Apple đang lên kế hoạch cho một cuộc cách mạng phần cứng trong năm nay cũng như thay đổi chu kỳ ra mắt các dòng iPhone chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:17:00+07:00",
+      "fetched": "2026-01-06T10:22:08.096423+07:00"
+    },
+    {
       "id": "f6252b40061fda33aa322ac09f69b078",
       "title": "Vụ học viên bị đánh đến chết: Khởi tố Giám đốc Trung tâm công tác xã hội Hải Hà cùng 9 bị can",
       "link": "https://tuoitre.vn/vu-hoc-vien-bi-danh-den-chet-khoi-to-giam-doc-trung-tam-cong-tac-xa-hoi-hai-ha-cung-9-bi-can-20260105234106943.htm",
@@ -91,6 +271,376 @@ window.newsData_2026_01_06 = {
       "category": "Tổng hợp",
       "published": "2026-01-06T03:15:21.849547+07:00",
       "fetched": "2026-01-06T03:15:21.849757+07:00"
+    },
+    {
+      "id": "6b196cc411a1f6d0649d06f306b5fdd9",
+      "title": "Nỗi niềm của ca sĩ Hồ Trung Dũng ở tuổi 44",
+      "link": "https://thanhnien.vn/noi-niem-cua-ca-si-ho-trung-dung-o-tuoi-44-185260106082736684.htm",
+      "summary": "Theo Hồ Trung Dũng, mỗi người sống và hành động dựa trên 2 cảm xúc là yêu và sợ. Anh khẳng định: 'Tôi chọn yêu'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:08:00+07:00",
+      "fetched": "2026-01-06T10:22:08.096577+07:00"
+    },
+    {
+      "id": "0c71db69282998c9bb0487d540e19e23",
+      "title": "'Giáo sư Xoay' Đinh Tiến Dũng rời 'Ai là triệu phú' sau 5 năm",
+      "link": "https://thanhnien.vn/giao-su-xoay-dinh-tien-dung-roi-ai-la-trieu-phu-sau-5-nam-185260106092622634.htm",
+      "summary": "MC Đinh Tiến Dũng sẽ ngưng đảm nhận vai trò dẫn dắt 'Ai là triệu phú' sau 5 năm gắn bó. Theo nhà đài, vị trí này được giao lại cho biên tập viên Quốc Khánh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T03:04:00+07:00",
+      "fetched": "2026-01-06T10:22:08.096744+07:00"
+    },
+    {
+      "id": "58bff0d6de1f95601eb002ba97190aab",
+      "title": "Dùng búa phá kính để đột nhập nhà Phó tổng thống Mỹ",
+      "link": "https://vnexpress.net/dung-bua-pha-kinh-de-dot-nhap-nha-pho-tong-thong-my-5002242.html",
+      "summary": "William DeFoor, 26 tuổi, bị bắt khi dùng búa phá cửa sổ để đột nhập nhà riêng của Phó tổng thống JD Vance ở Cincinnati lúc nửa đêm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-06T03:03:52+07:00",
+      "fetched": "2026-01-06T10:22:11.288216+07:00"
+    },
+    {
+      "id": "1e845f5c565c231c551ab17b96e2c407",
+      "title": "Gần 600 runner dự giải chạy 21km bằng dép Goya Photon",
+      "link": "https://vnexpress.net/gan-600-runner-du-giai-chay-21km-bang-dep-goya-photon-5002246.html",
+      "summary": "584 runner từ 159 CLB cả nước thi đấu 21km trên dép Goya, tính điểm theo nhóm hai người, tạo nên giải đấu đặc biệt ngày 4/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T03:00:00+07:00",
+      "fetched": "2026-01-06T10:22:16.885006+07:00"
+    },
+    {
+      "id": "ec148ae42d38ff4a6d633b8d7b0e0da9",
+      "title": "Thái Lan tuyên bố phát hiện trung tâm lừa đảo đang xây dở ở Campuchia",
+      "link": "https://vnexpress.net/thai-lan-tuyen-bo-phat-hien-trung-tam-lua-dao-dang-xay-do-o-campuchia-5002222.html",
+      "summary": "Giới chức Thái Lan tuyên bố phát hiện trung tâm lừa đảo mới tại tỉnh Banteay Meanchey, có thể được xây sau đợt trấn áp gần đây dọc biên giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:52:38+07:00",
+      "fetched": "2026-01-06T10:22:04.722598+07:00"
+    },
+    {
+      "id": "b74566a7ce13d3f881924617ac195891",
+      "title": "Thái Lan tuyên bố phát hiện trung tâm lừa đảo đang xây ở Campuchia",
+      "link": "https://vnexpress.net/thai-lan-tuyen-bo-phat-hien-trung-tam-lua-dao-dang-xay-o-campuchia-5002222.html",
+      "summary": "Giới chức Thái Lan tuyên bố phát hiện trung tâm lừa đảo mới tại tỉnh Banteay Meanchey, có thể được xây sau đợt trấn áp gần đây dọc biên giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-06T02:52:38+07:00",
+      "fetched": "2026-01-06T10:22:11.288391+07:00"
+    },
+    {
+      "id": "a894276d8716be4ce3e8fac28151a5cf",
+      "title": "Trải nghiệm Dreame H15 Pro FoamWash với công nghệ phun bọt chuyên dụng",
+      "link": "https://thanhnien.vn/trai-nghiem-dreame-h15-pro-foamwash-voi-cong-nghe-phun-bot-chuyen-dung-185260106095043119.htm",
+      "summary": "Dreame H15 Pro FoamWash là mẫu máy hút bụi lau nhà đầu tiên của Dreame được trang bị công nghệ phun bọt tập trung FoamWash, kết hợp lực hút 23.000Pa và hệ thống cảm biến thông minh. Video review ghi nhận hiệu quả làm sạch thực tế với các vết bẩn cứng đầu, làm sạch sát mép, dưới gầm thấp, chống rối l...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:50:00+07:00",
+      "fetched": "2026-01-06T10:22:08.096901+07:00"
+    },
+    {
+      "id": "ae734c9beffe2bff33dad53eb349e7f4",
+      "title": "Samsung, Fukang… mở rộng quy mô, Bắc Ninh tăng trưởng vượt bậc",
+      "link": "https://thanhnien.vn/samsung-fukang-mo-rong-quy-mo-bac-ninh-tang-truong-vuot-bac-185260105220303977.htm",
+      "summary": "Tăng trưởng sản phẩm trên địa bàn (GRDP) của Bắc Ninh năm 2025 ước đạt 10,3%, đứng thứ 5/34 địa phương, chủ yếu do các doanh nghiệp như Hana Micon, Fuyu, Fukang, Samsung electric… mở rộng quy mô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:49:00+07:00",
+      "fetched": "2026-01-06T10:22:08.097048+07:00"
+    },
+    {
+      "id": "1a9f27cbdf87e502e04489ccf29412ee",
+      "title": "Đạo diễn Trung Quốc 23 tuổi tử vong",
+      "link": "https://vnexpress.net/dao-dien-trung-quoc-23-tuoi-tu-vong-5002248.html",
+      "summary": "Lại Vũ Tình, đạo diễn 23 tuổi người Trung Quốc, tử vong do trọng thương sau khi rơi xuống từ ngôi nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:47:21+07:00",
+      "fetched": "2026-01-06T10:22:04.722842+07:00"
+    },
+    {
+      "id": "0ee1bfc7c4c89caa98a90ac53c414119",
+      "title": "Xét xử 2 cựu thiếu tướng quân đội liên quan dự án sân bay Nha Trang",
+      "link": "https://thanhnien.vn/xet-xu-2-cuu-thieu-tuong-quan-doi-lien-quan-du-an-san-bay-nha-trang-185260106085018099.htm",
+      "summary": "2 cựu thiếu tướng là ông Hoàng Viết Quang, cựu Phó cục trưởng Cục Tác chiến và Nguyễn Duy Cường, cựu Hiệu trưởng Trường sĩ quan Không quân, cùng bị xét xử trong vụ án liên quan đến dự án sân bay Nha Trang (cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:46:00+07:00",
+      "fetched": "2026-01-06T10:22:08.097197+07:00"
+    },
+    {
+      "id": "4b4ba47233933b7eaa473551f97209d6",
+      "title": "Bộ Xây dựng thúc tiến độ cao tốc Cần Thơ - Cà Mau",
+      "link": "https://vnexpress.net/bo-xay-dung-thuc-tien-do-cao-toc-can-tho-ca-mau-5002164.html",
+      "summary": "Bộ Xây dựng đề nghị Ban Quản lý dự án Mỹ Thuận, nhà thầu đẩy nhanh tiến độ thi công hai đoạn Cần Thơ - Hậu Giang và Hậu Giang - Cà Mau để đảm bảo an toàn khai thác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:45:31+07:00",
+      "fetched": "2026-01-06T10:22:04.723031+07:00"
+    },
+    {
+      "id": "efa861337ff218e81076e096ba9bb213",
+      "title": "'AI nói dối đại tài, vẽ ra chuyện lịch sử cực logic nhưng không có thật'",
+      "link": "https://thanhnien.vn/ai-noi-doi-dai-tai-ve-ra-chuyen-lich-su-cuc-logic-nhung-khong-co-that-185260106080606889.htm",
+      "summary": "Các thủ khoa cũng choáng về khả năng 'nói dối đại tài' của các công cụ AI. Từ trải nghiệm trong quá trình ôn thi lịch sử, một thủ khoa phát hiện AI vẽ ra chuyện lịch sử đọc thì thấy cực kỳ logic nhưng kiểm tra lại thì nó không có thật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:44:00+07:00",
+      "fetched": "2026-01-06T10:22:08.097353+07:00"
+    },
+    {
+      "id": "527b65f2a5cec8e3d3e0629bb0ff61d6",
+      "title": "Bộ Quốc phòng giao nhiệm vụ cho lực lượng kiểm phiếu Đại hội 14 của Đảng",
+      "link": "https://thanhnien.vn/bo-quoc-phong-giao-nhiem-vu-cho-luc-luong-kiem-phieu-dai-hoi-14-cua-dang-185260106081856299.htm",
+      "summary": "Ngày 5.1, tại Hà Nội, thượng tướng Đỗ Xuân Tụng, Phó chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam chủ trì hội nghị giao nhiệm vụ cho lực lượng kiểm phiếu phục vụ Đại hội Đại biểu toàn quốc lần thứ 14 của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:42:00+07:00",
+      "fetched": "2026-01-06T10:22:08.097507+07:00"
+    },
+    {
+      "id": "8e56c688c2b7707f53efc8eed24b99e5",
+      "title": "Cảnh sát đặc nhiệm Hà Nội thu hơn 6 tấn pháo nổ Trung Quốc",
+      "link": "https://thanhnien.vn/canh-sat-dac-nhiem-ha-noi-thu-hon-6-tan-phao-no-trung-quoc-185260105222504726.htm",
+      "summary": "Từ tháng 3.2025, Nguyễn Văn Yên đã gom hơn 6 tấn pháo nổ từ Trung Quốc về kho với giá 200.000 đồng/hộp rồi đợi dịp cuối năm bán ra với giá gấp 4 lần để kiếm lời bất chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:41:00+07:00",
+      "fetched": "2026-01-06T10:22:08.097659+07:00"
+    },
+    {
+      "id": "0ae9fbad88522166c6cc1d9a89401e46",
+      "title": "Nuốt thanh nam châm, bé trai 32 tháng tuổi bị thủng ruột",
+      "link": "https://thanhnien.vn/nuot-thanh-nam-cham-be-trai-32-thang-tuoi-bi-thung-ruot-185260105124242798.htm",
+      "summary": "Sau khi xử lý 8 lỗ thủng ở ruột của bệnh nhi 32 tháng tuổi, các bác sĩ phát hiện và lấy ra một thanh nam châm dài 5 cm, gồm 24 viên nhỏ tạo thành, đã rỉ sét.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:39:00+07:00",
+      "fetched": "2026-01-06T10:22:08.097832+07:00"
+    },
+    {
+      "id": "d5582df9a95389f7215a3a5613213329",
+      "title": "Mỹ lần đầu tiết lộ số binh sĩ tiến vào Caracas để bắt ông Maduro",
+      "link": "https://vnexpress.net/my-lan-dau-tiet-lo-so-binh-si-tien-vao-caracas-de-bat-ong-maduro-5002189.html",
+      "summary": "Bộ trưởng Quốc phòng Hegseth cho biết gần 200 binh sĩ Mỹ triển khai đến thủ đô Caracas rạng sáng 3/1 để bắt giữ Tổng thống Maduro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:37:56+07:00",
+      "fetched": "2026-01-06T10:22:04.723202+07:00"
+    },
+    {
+      "id": "d5582df9a95389f7215a3a5613213329",
+      "title": "Mỹ lần đầu tiết lộ số binh sĩ tiến vào Caracas để bắt ông Maduro",
+      "link": "https://vnexpress.net/my-lan-dau-tiet-lo-so-binh-si-tien-vao-caracas-de-bat-ong-maduro-5002189.html",
+      "summary": "Bộ trưởng Quốc phòng Hegseth cho biết gần 200 binh sĩ Mỹ triển khai đến thủ đô Caracas rạng sáng 3/1 để bắt giữ Tổng thống Maduro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-06T02:37:56+07:00",
+      "fetched": "2026-01-06T10:22:11.288553+07:00"
+    },
+    {
+      "id": "a324aa39a1a11fcd39e34b783e03ffb4",
+      "title": "Hàng loạt vé trúng xổ số miền Nam, khách TP.HCM 'rinh lộc' đầu năm về nhà",
+      "link": "https://thanhnien.vn/hang-loat-ve-trung-xo-so-mien-nam-khach-tphcm-rinh-loc-dau-nam-ve-nha-185260105110340442.htm",
+      "summary": "Những ngày đầu năm 2026, một đại lý vé số ở TP.HCM liền đổi thưởng hàng chục tờ trúng xổ số miền Nam ngày 4 tháng 1 cho khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:33:00+07:00",
+      "fetched": "2026-01-06T10:22:08.097989+07:00"
+    },
+    {
+      "id": "a1c4a46486b029f0365dcedf38745bff",
+      "title": "OCB triển khai chương trình khuyến mại dịp Tết",
+      "link": "https://vnexpress.net/ocb-trien-khai-chuong-trinh-khuyen-mai-dip-tet-5002253.html",
+      "summary": "OCB ra mắt chương trình \"Tết tự tin - đón thịnh vượng\" với tổng giá trị giải thưởng hơn 3,5 tỷ đồng, mang đến nhiều ưu đãi, quà tặng cho khách giao dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:30:00+07:00",
+      "fetched": "2026-01-06T10:22:04.723369+07:00"
+    },
+    {
+      "id": "8f61f249955086d91f763b775361e953",
+      "title": "Vì sao quán bún chả Hà Nội, cơm tấm Sài Gòn không dùng lò nướng điện?",
+      "link": "https://vnexpress.net/thit-nuong-com-tam-sai-gon-bun-cha-ha-noi-ngon-gan-day-nuong-thit-o-nhiem-khong-khi-5002244.html",
+      "summary": "Để bớt cảnh xả khói xộc thẳng vào người đi đường, ảnh hưởng người sống gần, các hàng quán nên giã từ nướng than, chuyển qua lò nướng điện?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:23:23+07:00",
+      "fetched": "2026-01-06T10:22:04.723527+07:00"
+    },
+    {
+      "id": "b57bdfe4cad240665ea6b306b42b339c",
+      "title": "Giá Bitcoin hôm nay 6.1.2026: Tiếp tục tăng mạnh bất chấp tín hiệu rủi ro",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-612026-tiep-tuc-tang-manh-bat-chap-tin-hieu-rui-ro-185260106072811501.htm",
+      "summary": "Giá Bitcoin hôm nay đã tăng mạnh, tiến sát ngưỡng 95.000 USD. Nhiều chuyên gia dự báo giá Bitcoin có thể sớm đạt mốc 100.000 USD, bất chấp các tín hiệu rủi ro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:23:00+07:00",
+      "fetched": "2026-01-06T10:22:08.098140+07:00"
+    },
+    {
+      "id": "8f1bf3d531fa61439234de64a58f6c5b",
+      "title": "Mỹ - Nhật: Vừa tranh thủ vừa kiềm chế",
+      "link": "https://thanhnien.vn/my-nhat-vua-tranh-thu-vua-kiem-che-185260105234529565.htm",
+      "summary": "Thủ tướng Nhật Bản Sanae Takaichi cho biết trong cuộc điện đàm vừa đây với Tổng thống Mỹ Donald Trump, ông Trump đã mời bà Takaichi sang thăm Mỹ trong năm nay. Ông Trump đã thăm Nhật Bản hồi cuối tháng 10 vừa qua - chỉ ít ngày sau khi bà Takaichi chính thức nhậm chức Thủ tướng Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:22:00+07:00",
+      "fetched": "2026-01-06T10:22:08.098289+07:00"
+    },
+    {
+      "id": "2b235f9a57f4187286ec451b50ac3c34",
+      "title": "FIFA từ chối bình luận về Tổng thống Trump",
+      "link": "https://vnexpress.net/fifa-tu-choi-binh-luan-ve-tong-thong-trump-5002200.html",
+      "summary": "LĐBĐ thế giới không bình luận về cuộc đột kích của Mỹ vào Venezuela do Tổng thống Donald Trump chỉ đạo, một tháng sau khi ông nhận giải Hòa bình FIFA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:20:06+07:00",
+      "fetched": "2026-01-06T10:22:04.723683+07:00"
+    },
+    {
+      "id": "2b235f9a57f4187286ec451b50ac3c34",
+      "title": "FIFA từ chối bình luận về Tổng thống Trump",
+      "link": "https://vnexpress.net/fifa-tu-choi-binh-luan-ve-tong-thong-trump-5002200.html",
+      "summary": "LĐBĐ thế giới không bình luận về cuộc đột kích của Mỹ vào Venezuela do Tổng thống Donald Trump chỉ đạo, một tháng sau khi ông nhận giải Hòa bình FIFA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T02:20:06+07:00",
+      "fetched": "2026-01-06T10:22:16.884521+07:00"
+    },
+    {
+      "id": "861ef1a0e2d896fe2c63c30e403de54a",
+      "title": "Hà Nội hoàn thành đường Vành đai 2,5 trong năm 2026",
+      "link": "https://vnexpress.net/ha-noi-hoan-thanh-duong-vanh-dai-2-5-trong-nam-2026-5002031.html",
+      "summary": "Hà Nội dự kiến hoàn thành đường Vành đai 2,5 trong năm 2026 sau khi chi hơn 8.400 tỷ đồng giải phóng mặt bằng, xây dựng ba đoạn tuyến còn thiếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:16:54+07:00",
+      "fetched": "2026-01-06T10:22:04.723918+07:00"
+    },
+    {
+      "id": "2a2018a31bd63bda14df63c41138c196",
+      "title": "Hyundai và Kia lập kỷ lục doanh số ở Mỹ",
+      "link": "https://vnexpress.net/hyundai-va-kia-lap-ky-luc-doanh-so-o-my-5002034.html",
+      "summary": "Cả Hyundai và thương hiệu con là Kia đều ghi nhận doanh số tăng trưởng mạnh mẽ, chủ yếu nhờ nhu cầu cao đối với xe điện hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:15:29+07:00",
+      "fetched": "2026-01-06T10:22:04.724091+07:00"
+    },
+    {
+      "id": "92507dc8ff62cab5a855396d0b7b1363",
+      "title": "Miền Bắc thấp nhất 3 độ, cảnh báo ảnh hưởng sức khỏe cộng đồng",
+      "link": "https://vnexpress.net/mien-bac-thap-nhat-3-do-canh-bao-anh-huong-suc-khoe-cong-dong-5002215.html",
+      "summary": "Nhiệt độ của 15 tỉnh, thành miền Bắc đều xuống dưới 15 độ, tại Hà Nội 12 độ, vùng núi cao 3 độ C, cơ quan khí tượng cảnh báo ảnh hưởng sức khỏe cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:10:43+07:00",
+      "fetched": "2026-01-06T10:22:04.724248+07:00"
+    },
+    {
+      "id": "3f8cba9761c053ed354b98a82e6bbe5e",
+      "title": "Tỉnh nào ở Việt Nam có tên của một con vật?",
+      "link": "https://vnexpress.net/cau-do-dia-danh-doan-ten-tinh-thanh-tra-cuu-tinh-thanh-sap-nhap-tinh-nao-o-viet-nam-co-ten-cua-mot-con-vat-5001823.html",
+      "summary": "Chỉ cần để ý một chút tên tỉnh, bạn sẽ phát hiện ra những “nhân vật” bốn chân quen thuộc... Vừa học vừa chơi, xem bạn nghĩ ra không nhé!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:05:49+07:00",
+      "fetched": "2026-01-06T10:22:04.724407+07:00"
+    },
+    {
+      "id": "9986e85bd3586669658ae7da27de2294",
+      "title": "9.000 runner đăng ký Giải chạy đêm TP HCM sau 20 ngày",
+      "link": "https://vnexpress.net/9000-runner-dang-ky-giai-chay-dem-tp-hcm-5002227.html",
+      "summary": "VnExpress Marathon Ho Chi Minh City Midnight 2026 ghi nhận 9.000 lượt đăng ký giai đoạn Super Early Bird, báo hiệu sức nóng của giải chạy đêm lớn nhất Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:05:00+07:00",
+      "fetched": "2026-01-06T10:22:04.724563+07:00"
+    },
+    {
+      "id": "03e0553bf7358bac4a8bfb9cdf8ca000",
+      "title": "Điện thoại Robot Phone được bán vào tháng 3",
+      "link": "https://vnexpress.net/dien-thoai-robot-phone-duoc-ban-vao-thang-3-5002163.html",
+      "summary": "Honor trưng bày Robot Phone - điện thoại gắn cánh tay robot chứa ống kính - tại CES 2026 và cho biết sẽ bán máy vào tháng 3 tại Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:02:17+07:00",
+      "fetched": "2026-01-06T10:22:04.724736+07:00"
+    },
+    {
+      "id": "03e0553bf7358bac4a8bfb9cdf8ca000",
+      "title": "Điện thoại Robot Phone được bán vào tháng 3",
+      "link": "https://vnexpress.net/dien-thoai-robot-phone-duoc-ban-vao-thang-3-5002163.html",
+      "summary": "Honor trưng bày Robot Phone - điện thoại gắn cánh tay robot chứa ống kính - tại CES 2026 và cho biết sẽ bán máy vào tháng 3 tại Trung Quốc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-06T02:02:17+07:00",
+      "fetched": "2026-01-06T10:22:15.164830+07:00"
+    },
+    {
+      "id": "5a52fff7c4aba60158c077781e701703",
+      "title": "Anh em tôi chưa biết cách mở lời hỏi ba vì sao đuổi mẹ khỏi nhà",
+      "link": "https://vnexpress.net/chin-nguoi-con-du-suc-nuoi-me-79-tuoi-nhung-chung-toi-can-mot-cuoc-hop-de-doi-lai-cong-bang-cho-ba-5001509.html",
+      "summary": "Hiện giờ, mẹ muốn làm rõ với ba thông qua các con vì mẹ không muốn bản thân bị oan ức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:00:00+07:00",
+      "fetched": "2026-01-06T10:22:04.724894+07:00"
+    },
+    {
+      "id": "5c0b6ffcb4095f45ed9a6f6365e44ac6",
+      "title": "'Quy mô vượt 1.000 cửa hàng giúp Con Cưng bán ngày càng rẻ'",
+      "link": "https://vnexpress.net/quy-mo-vuot-1-000-cua-hang-giup-con-cung-ban-ngay-cang-re-5002233.html",
+      "summary": "Mô hình từ nhà máy đến người dùng cùng cửa hàng liên tục mở rộng giúp Con Cưng tối ưu chi phí, giá \"ngày càng rẻ\", tạo nền tảng đạt doanh thu tỷ USD, theo CEO Lưu Anh Tiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T02:00:00+07:00",
+      "fetched": "2026-01-06T10:22:04.725050+07:00"
+    },
+    {
+      "id": "3c89bb9b62c93f00e717a7045cb2bb50",
+      "title": "Sự mong manh của hệ thống định vị GPS",
+      "link": "https://vnexpress.net/su-mong-manh-cua-he-thong-dinh-vi-gps-5002102.html",
+      "summary": "Hệ thống định vị toàn cầu (GPS) có mặt trong nhiều thiết bị dân sự và quân sự, nhưng hiện đối mặt nguy cơ nhiễu, dễ bị tấn công.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-06T01:44:12+07:00",
+      "fetched": "2026-01-06T10:22:15.164625+07:00"
+    },
+    {
+      "id": "6d97e67bcb72901ed884a04465a31526",
+      "title": "Ông Trump: Mỹ không trong chiến tranh với Venezuela",
+      "link": "https://vnexpress.net/ong-trump-my-khong-trong-chien-tranh-voi-venezuela-5002186.html",
+      "summary": "Tổng thống Trump khẳng định Mỹ không trong chiến tranh với Venezuela, thêm rằng Caracas sẽ chưa thể tổ chức bầu cử mới trong vòng 30 ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-06T01:35:29+07:00",
+      "fetched": "2026-01-06T10:22:11.288728+07:00"
+    },
+    {
+      "id": "7f83b8ffc8c6644812b44a037d913454",
+      "title": "Maguire tri ân Amorim",
+      "link": "https://vnexpress.net/maguire-tri-an-amorim-5002187.html",
+      "summary": "Trung vệ Harry Maguire là cầu thủ Man Utd đầu tiên lên tiếng sau khi Ruben Amorim bị sa thải, gửi lời cảm ơn và chúc HLV người Bồ Đào Nha thành công trong chặng đường tiếp theo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T01:26:13+07:00",
+      "fetched": "2026-01-06T10:22:16.885160+07:00"
+    },
+    {
+      "id": "4f75386da2dd8eb88c1136a5655c47b1",
+      "title": "Drone lạ bay qua Phủ Tổng thống Venezuela, lực lượng an ninh khai hỏa",
+      "link": "https://vnexpress.net/drone-la-bay-qua-phu-tong-thong-venezuela-luc-luong-an-ninh-khai-hoa-5002208.html",
+      "summary": "Tiếng súng vang lên gần Phủ Tổng thống Venezuela, nguồn tin giấu tên nói rằng lực lượng an ninh đã khai hỏa sau khi phát hiện một số drone lạ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-06T01:23:42+07:00",
+      "fetched": "2026-01-06T10:22:11.288890+07:00"
     },
     {
       "id": "c81119b225956bb29079c76f1e1c158e",
@@ -243,6 +793,26 @@ window.newsData_2026_01_06 = {
       "fetched": "2026-01-06T01:20:31.347830+07:00"
     },
     {
+      "id": "da8e6518b3cf97e9afd098ec64fdf84a",
+      "title": "Amorim tệ nhất Man Utd trong kỷ nguyên Ngoại hạng Anh",
+      "link": "https://vnexpress.net/amorim-te-nhat-man-utd-trong-ky-nguyen-ngoai-hang-anh-5002178.html",
+      "summary": "Ruben Amorim bị sa thải khi chỉ giành trung bình 1,23 điểm mỗi trận ở Ngoại hạng Anh, thấp nhất trong những HLV Man Utd ở lịch sử giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T01:10:11+07:00",
+      "fetched": "2026-01-06T10:22:16.883867+07:00"
+    },
+    {
+      "id": "ffafed1433bed60530b8330184d8fc9c",
+      "title": "Huyền thoại bơi Mỹ bán ba HC vàng Olympic",
+      "link": "https://vnexpress.net/huyen-thoai-boi-my-ban-ba-hc-vang-olympic-5002192.html",
+      "summary": "Huyền thoại bơi lội Mỹ Ryan Lochte vừa bán ba HC vàng Olympic với tổng giá gần 400.000 USD, khi vừa ly hôn sau 7 năm chung sống.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T01:06:05+07:00",
+      "fetched": "2026-01-06T10:22:16.885313+07:00"
+    },
+    {
       "id": "de50f3be6c032543d5259db9147b2bca",
       "title": "An sinh xã hội - 'điểm tựa' vững chắc cho hàng triệu người dân",
       "link": "https://thanhnien.vn/an-sinh-xa-hoi-diem-tua-vung-chac-cho-hang-trieu-nguoi-dan-1852601052307131.htm",
@@ -271,6 +841,26 @@ window.newsData_2026_01_06 = {
       "category": "Tổng hợp",
       "published": "2026-01-06T01:00:00+07:00",
       "fetched": "2026-01-06T08:01:13.172735+07:00"
+    },
+    {
+      "id": "b7fafa86513abb51d5ffb45c2339b7fa",
+      "title": "18 năm dược mỹ phẩm Ziaja ghi dấu ấn 'lành tính' tại Việt Nam",
+      "link": "https://vnexpress.net/18-nam-duoc-my-pham-ziaja-ghi-dau-an-lanh-tinh-tai-viet-nam-4996839.html",
+      "summary": "Từ một thương hiệu xa lạ với người dùng, Ziaja - thương hiệu dược mỹ phẩm đến từ Ba Lan từng bước khẳng định vị thế sản phẩm an toàn, minh bạch với người dùng Việt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-06T01:00:00+07:00",
+      "fetched": "2026-01-06T10:22:13.176024+07:00"
+    },
+    {
+      "id": "5f4968811a9867d7a6bb67dbd0eebe9c",
+      "title": "Giá vàng thế giới tăng hơn 100 USD, chứng khoán Mỹ lập kỷ lục",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-hon-100-usd-chung-khoan-my-lap-ky-luc-5002197.html",
+      "summary": "Việc Mỹ tập kích Venezuela tiếp tục làm tăng nhu cầu mua vàng trú ẩn, đồng thời kéo nhóm cổ phiếu năng lượng tại Mỹ lên cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-06T00:55:38+07:00",
+      "fetched": "2026-01-06T10:22:13.175337+07:00"
     },
     {
       "id": "f05b4dbef290dd474b42c1fe25010311",
@@ -951,6 +1541,16 @@ window.newsData_2026_01_06 = {
       "category": "Thế giới",
       "published": "2026-01-05T15:09:24+07:00",
       "fetched": "2026-01-06T01:20:33.420904+07:00"
+    },
+    {
+      "id": "eeddbc1dc4171075ff91c5d7e08656bd",
+      "title": "Ông Maduro tuyên bố 'tôi vô tội' ở tòa án Mỹ",
+      "link": "https://vnexpress.net/ong-maduro-lan-dau-xuat-hien-o-toa-an-my-5002156-tong-thuat.html",
+      "summary": "Ông Nicolas Maduro bác bỏ cáo trạng do Mỹ đưa ra, khẳng định mình vô tội, khi dự phiên điều trần tại tòa án ở New York với cáo buộc buôn ma túy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T15:09:24+07:00",
+      "fetched": "2026-01-06T10:22:11.289520+07:00"
     },
     {
       "id": "a0ff8d88bc4b120ca63fa7ef8cdf4b38",
