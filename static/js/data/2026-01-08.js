@@ -1,6 +1,6 @@
 window.newsData_2026_01_08 = {
   "date": "2026-01-08",
-  "lastUpdated": "2026-01-08T01:20:19.741760+07:00",
+  "lastUpdated": "2026-01-08T03:14:52.820465+07:00",
   "articles": [
     {
       "id": "1371aa0403bc3775b4f72786b4aea9aa",
@@ -151,6 +151,26 @@ window.newsData_2026_01_08 = {
       "category": "Tổng hợp",
       "published": "2026-01-08T01:20:14.484238+07:00",
       "fetched": "2026-01-08T01:20:14.484441+07:00"
+    },
+    {
+      "id": "c70a9cd94be82c7e8251c2f8f5659b38",
+      "title": "Hơn 26.800 tỷ đồng đầu tư phòng, chống sạt lở tại Cà Mau",
+      "link": "https://vnexpress.net/hon-26-800-ty-dong-dau-tu-phong-chong-sat-lo-tai-ca-mau-5002982.html",
+      "summary": "Tỉnh Cà Mau dự kiến đầu tư hơn 26.800 tỷ đồng triển khai 29 dự án phòng, chống sạt lở bờ biển, bờ sông nhằm bảo vệ khu dân cư, hạ tầng và ứng phó biến đổi khí hậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T18:00:00+07:00",
+      "fetched": "2026-01-08T03:14:42.143571+07:00"
+    },
+    {
+      "id": "29ca3fd02e34824660f11049f5141ad7",
+      "title": "Bệnh Hashimoto",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/benh-hashimoto-393",
+      "summary": "Hashimoto là bệnh tự miễn gây viêm và tổn thương tuyến giáp, làm giảm chức năng, có thể dẫn đến suy giáp, bướu cổ cũng như ảnh hưởng tim mạch, thần kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T18:00:00+07:00",
+      "fetched": "2026-01-08T03:14:42.143750+07:00"
     },
     {
       "id": "dd73f3ba82022194196e90b653f5a809",
