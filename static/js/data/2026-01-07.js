@@ -1,7 +1,157 @@
 window.newsData_2026_01_07 = {
   "date": "2026-01-07",
-  "lastUpdated": "2026-01-07T17:15:38.041344+07:00",
+  "lastUpdated": "2026-01-07T19:27:09.039093+07:00",
   "articles": [
+    {
+      "id": "f82c97f34b6d8b7ddb62848a42139ed6",
+      "title": "'Cô hầu gái' của Sydney Sweeney có phần tiếp theo sau thành công phòng vé",
+      "link": "https://tuoitre.vn/co-hau-gai-cua-sydney-sweeney-co-phan-tiep-theo-sau-thanh-cong-phong-ve-20260107151812801.htm",
+      "summary": "Sau màn ra mắt gây chú ý, 'Cô hầu gái' chính thức được xác nhận sản xuất phần tiếp theo mang tên 'Cô hầu gái: Bí mật phía sau'. Dự án tiếp tục có sự tham gia của Sydney Sweeney và dự kiến khởi quay trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.241308+07:00",
+      "fetched": "2026-01-07T19:27:03.241423+07:00"
+    },
+    {
+      "id": "5df66095e0e8894556844e681612fdc6",
+      "title": "Điểm tin 18h: TP.HCM đặt mục tiêu tăng trưởng 10%; Trung Quốc tăng nhập sầu riêng Việt Nam",
+      "link": "https://tuoitre.vn/diem-tin-18h-tp-hcm-dat-muc-tieu-tang-truong-10-trung-quoc-tang-nhap-sau-rieng-viet-nam-20260107164230755.htm",
+      "summary": "Điểm tin 18h ngày 7-1-2026: TP.HCM đặt mục tiêu tăng trưởng 10%; Trung Quốc tăng nhập sầu riêng Việt Nam",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.241160+07:00",
+      "fetched": "2026-01-07T19:27:03.241295+07:00"
+    },
+    {
+      "id": "bc602d81bb0f27b044d6c48d0f2da7f4",
+      "title": "Video người Venezuela ăn mừng khi ông Maduro bị bắt là giả",
+      "link": "https://tuoitre.vn/video-nguoi-venezuela-an-mung-khi-ong-maduro-bi-bat-la-gia-20260107125300367.htm",
+      "summary": "Video lan truyền trên mạng xã hội được cho là cảnh người dân Venezuela ăn mừng việc Tổng thống Maduro bị Mỹ bắt giữ là giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.241029+07:00",
+      "fetched": "2026-01-07T19:27:03.241148+07:00"
+    },
+    {
+      "id": "a2f1c2a261a588698ee17fcacd9485f1",
+      "title": "Làn sóng săn tìm quốc tịch thứ hai trên toàn thế giới",
+      "link": "https://tuoitre.vn/lan-song-san-tim-quoc-tich-thu-hai-tren-toan-the-gioi-20260107170727876.htm",
+      "summary": "Từ lâu, mang quốc tịch của hai hay nhiều quốc gia là giấc mơ của giới đam mê du lịch hoặc những người sống ở nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.240904+07:00",
+      "fetched": "2026-01-07T19:27:03.241018+07:00"
+    },
+    {
+      "id": "02d2d425228cf2c2e12761ca85abb3df",
+      "title": "Uống nước ngọt thay nước lọc nhiều năm, nữ bệnh nhân mới 20 tuổi đã suy thận",
+      "link": "https://tuoitre.vn/uong-nuoc-ngot-thay-nuoc-loc-nhieu-nam-nu-benh-nhan-moi-20-tuoi-da-suy-than-2026010717153948.htm",
+      "summary": "Bệnh thận đang có xu hướng trẻ hóa, thay vì thường gặp ở người lớn tuổi thì hiện nay do lối sống không lành mạnh khiến nhiều người trẻ đã suy thận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.240770+07:00",
+      "fetched": "2026-01-07T19:27:03.240883+07:00"
+    },
+    {
+      "id": "4db337193b8b00911ffe263e6b00923e",
+      "title": "Lùm xùm 'Nuôi em Nghệ An' và dự án trung tâm hành chính gây sốt đất, tỉnh nói gì?",
+      "link": "https://tuoitre.vn/lum-xum-nuoi-em-nghe-an-va-du-an-trung-tam-hanh-chinh-gay-sot-dat-tinh-noi-gi-20260107174603842.htm",
+      "summary": "Ông Hồ Bá Thái, Phó giám đốc Sở Xây dựng Nghệ An, cho biết chưa có chủ trương xây trung tâm hành chính tỉnh tại cuộc họp báo tình hình kinh tế, xã hội, quốc phòng - an ninh năm 2025 của Nghệ An tổ chức chiều 7-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.240645+07:00",
+      "fetched": "2026-01-07T19:27:03.240759+07:00"
+    },
+    {
+      "id": "4ed7d1cc3fcc34fea28d873ea6c86d9b",
+      "title": "Bê bối nhập tịch bóng đá Malaysia có bước ngoặt, cảnh sát tiếp nhận 45 báo cáo",
+      "link": "https://tuoitre.vn/be-boi-nhap-tich-bong-da-malaysia-co-buoc-ngoat-canh-sat-tiep-nhan-45-bao-cao-20260107175235626.htm",
+      "summary": "Chiều 7-1, Cơ quan cảnh sát Hoàng gia Malaysia (PDRM) đã tiếp nhận 45 báo cáo liên quan đến vụ làm giả giấy tờ cầu thủ, trong bê bối nhập tịch của Liên đoàn Bóng đá nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.240519+07:00",
+      "fetched": "2026-01-07T19:27:03.240634+07:00"
+    },
+    {
+      "id": "0cb0daeedff52c6c442d7aa81cab4ea9",
+      "title": "Hà Nội tặng 3 tỉ đồng cho đoàn thể thao thủ đô dự SEA Games 33",
+      "link": "https://tuoitre.vn/ha-noi-tang-3-ti-dong-cho-doan-the-thao-thu-do-du-sea-games-33-20260107165241466.htm",
+      "summary": "Hà Nội đã trao mức thưởng 3 tỉ đồng cho Đoàn thể thao Hà Nội đạt thành tích xuất sắc tại SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.240391+07:00",
+      "fetched": "2026-01-07T19:27:03.240508+07:00"
+    },
+    {
+      "id": "b42a0815be01a6c5401e480d4ea91db5",
+      "title": "ĐH Quốc gia TP.HCM đổi mới tuyển sinh, đẩy mạnh đào tạo tích hợp, liên ngành, liên trường",
+      "link": "https://tuoitre.vn/dh-quoc-gia-tphcm-doi-moi-tuyen-sinh-day-manh-dao-tao-tich-hop-lien-nganh-lien-truong-20260107174827769.htm",
+      "summary": "Đổi mới tuyển sinh gắn với đào tạo tích hợp, liên ngành, liên trường là định hướng trọng tâm của Đại học Quốc gia TP.HCM từ năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.240261+07:00",
+      "fetched": "2026-01-07T19:27:03.240380+07:00"
+    },
+    {
+      "id": "f87061874be0f952e6c4ba244a163143",
+      "title": "Nhật Bản xem xét nới lỏng quy định về thời gian làm việc",
+      "link": "https://tuoitre.vn/nhat-ban-xem-xet-noi-long-quy-dinh-ve-thoi-gian-lam-viec-20260107170903548.htm",
+      "summary": "Thủ tướng Nhật Bản Sanae Takaichi đề xuất nới lỏng các quy định về thời gian làm việc, cùng nâng cao năng suất lao động trong bối cảnh cả hai chỉ số này của Nhật Bản đều ở mức thấp khiến năng lực cung ứng của nền kinh tế đối mặt với nhiều thách thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.240117+07:00",
+      "fetched": "2026-01-07T19:27:03.240249+07:00"
+    },
+    {
+      "id": "8c25cb7a76b9975cc056b9a01caeb4e4",
+      "title": "Vợ của cố vấn Nhà Trắng Stephen Miller đăng bản đồ Greenland trên nền cờ Mỹ",
+      "link": "https://tuoitre.vn/vo-cua-co-van-nha-trang-stephen-miller-dang-ban-do-greenland-tren-nen-co-my-20260107101332111.htm",
+      "summary": "Thông tin lan truyền tuyên bố bà Katie Miller, vợ cố vấn Nhà Trắng Stephen Miller, đăng ảnh bản đồ Greenland trên nền cờ Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.239988+07:00",
+      "fetched": "2026-01-07T19:27:03.240105+07:00"
+    },
+    {
+      "id": "c56ff0a561b7284fdb8794aeb7f5b505",
+      "title": "Phó thủ tướng Trần Hồng Hà: Hoàn thiện khung pháp lý, chuyển sang nhật ký khai thác thủy sản điện tử",
+      "link": "https://tuoitre.vn/pho-thu-tuong-tran-hong-ha-hoan-thien-khung-phap-ly-chuyen-sang-nhat-ky-khai-thac-thuy-san-dien-tu-20260107181821476.htm",
+      "summary": "Phó thủ tướng Trần Hồng Hà yêu cầu cập nhật số liệu thực chất, ban hành ngay hướng dẫn nhật ký khai thác thủy sản điện tử trong tháng 1-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.239856+07:00",
+      "fetched": "2026-01-07T19:27:03.239976+07:00"
+    },
+    {
+      "id": "d6d7b359659341a846c99184d2b5703e",
+      "title": "Phở yêu thương nổi lửa giữa vùng rốn lũ Hòa Thịnh",
+      "link": "https://tuoitre.vn/pho-yeu-thuong-noi-lua-giua-vung-ron-lu-hoa-thinh-20260107173551166.htm",
+      "summary": "Giữa không khí ấm áp của ngày hội Phở yêu thương tại xã Hòa Thịnh, Đắk Lắk (Phú Yên cũ), nghi thức thổi lửa nấu phở được thực hiện, không chỉ khởi đầu cho những nồi phở nghĩa tình mà còn thắp lên niềm tin, sự sẻ chia dành cho người dân vùng lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.239720+07:00",
+      "fetched": "2026-01-07T19:27:03.239844+07:00"
+    },
+    {
+      "id": "a0792dcbe8c44a72ecffa88bde118dae",
+      "title": "Các ông lớn dầu mỏ Mỹ có 'mặn mà' với Venezuela như  Nhà Trắng nói?",
+      "link": "https://tuoitre.vn/cac-ong-lon-dau-mo-my-co-man-ma-voi-venezuela-nhu-nha-trang-noi-20260107112654117.htm",
+      "summary": "Dù Tổng thống Mỹ Donald Trump tuyên bố các tập đoàn dầu mỏ Mỹ đã sẵn sàng đầu tư hàng tỉ USD vào Venezuela, thực tế cho thấy ngành dầu khí vẫn dè dặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.239576+07:00",
+      "fetched": "2026-01-07T19:27:03.239707+07:00"
+    },
+    {
+      "id": "a2d9d04fd2afc95bf42943b6d1123a6e",
+      "title": "Xe đạp điện có tính năng đặc biệt: Trở thành 'sắt vụn' ngay khi bị trộm cắp",
+      "link": "https://tuoitre.vn/xe-dap-dien-co-tinh-nang-dac-biet-tro-thanh-sat-vun-ngay-khi-bi-trom-cap-20260106181705791.htm",
+      "summary": "Bosch phát triển tính năng miễn phí mới cho phép xe đạp điện không còn là món ngon của những tay trộm cắp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T19:27:03.239354+07:00",
+      "fetched": "2026-01-07T19:27:03.239561+07:00"
+    },
     {
       "id": "600f7184eac03f175cc86ee48ebc822b",
       "title": "200 vận động viên tranh tài tại Giải lướt ván diều Mỹ Hòa - Khánh Hòa 2026",
@@ -453,6 +603,166 @@ window.newsData_2026_01_07 = {
       "fetched": "2026-01-07T13:20:45.616532+07:00"
     },
     {
+      "id": "6e9a239e7c7859b07142dd6eb41f1cd5",
+      "title": "Trung học nghề: Học sinh sau lớp 9 vẫn rộng cửa liên thông đại học",
+      "link": "https://thanhnien.vn/trung-hoc-nghe-hoc-sinh-sau-lop-9-van-rong-cua-lien-thong-dai-hoc-18526010716055415.htm",
+      "summary": "Việc bổ sung trung học nghề vào hệ thống giáo dục quốc dân đã mở thêm một lựa chọn học tập cho học sinh sau THCS, tạo hành lang pháp lý rõ ràng cho con đường liên thông từ trung học nghề lên cao đẳng, đại học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T12:15:00+07:00",
+      "fetched": "2026-01-07T19:27:02.232972+07:00"
+    },
+    {
+      "id": "b85317eebf571617cc5c6827637df815",
+      "title": "Vụ bé gái 13 tuổi bị sát hại: Khởi tố bị can với 2 hành vi",
+      "link": "https://thanhnien.vn/vu-be-gai-13-tuoi-bi-sat-hai-khoi-to-bi-can-voi-2-hanh-vi-185260107184125385.htm",
+      "summary": "Liên quan vụ bé gái 13 tuổi bị sát hại, Cơ quan CSĐT Công an tỉnh Cà Mau đã khởi tố bị can về hành vi  giết người và hiếp dâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T12:12:00+07:00",
+      "fetched": "2026-01-07T19:27:02.233148+07:00"
+    },
+    {
+      "id": "1f96e5ac19b27642996035463009949f",
+      "title": "Cuộc sống hiện tại của sao nhí phim 'Tân Ô Long Viện'",
+      "link": "https://thanhnien.vn/cuoc-song-hien-tai-cua-sao-nhi-phim-tan-o-long-vien-185260107181001619.htm",
+      "summary": "Từng là sao nhí được trả cát sê cao nhất Đài Loan nhờ bộ phim 'Tân Ô Long Viện', Hác Thiệu Văn sớm nếm trải hào quang lẫn những thăng trầm khắc nghiệt của làng giải trí. Sau nhiều năm chật vật, hiện nam diễn viên đã tìm thấy sự bình yên và một hướng đi mới ngoài màn ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T12:10:00+07:00",
+      "fetched": "2026-01-07T19:27:02.233334+07:00"
+    },
+    {
+      "id": "6dab34f282a5da498c1a92cab3512b48",
+      "title": "SATRA và FPT bắt tay hợp tác toàn diện",
+      "link": "https://thanhnien.vn/satra-va-fpt-bat-tay-hop-tac-toan-dien-185260107153519619.htm",
+      "summary": "SATRA và FPT ký hợp tác chiến lược để cùng thúc đẩy phát triển, ứng dụng chuyển đổi số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T12:07:00+07:00",
+      "fetched": "2026-01-07T19:27:02.233493+07:00"
+    },
+    {
+      "id": "6b15b51a5938ab96c74044bc5b8cc458",
+      "title": "Gần 100 điều dưỡng Quân y phía nam tranh tài ở hội thi điều dưỡng giỏi",
+      "link": "https://thanhnien.vn/gan-100-dieu-duong-quan-y-phia-nam-tranh-tai-o-hoi-thi-dieu-duong-gioi-185260107182948557.htm",
+      "summary": "Hội thi 'Điều dưỡng giỏi các bệnh viện Quân đội năm 2026' thu hút sự tranh tài của gần 100 điều dưỡng viên tiêu biểu tại các bệnh viện Quân y trong toàn quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T12:06:00+07:00",
+      "fetched": "2026-01-07T19:27:02.233653+07:00"
+    },
+    {
+      "id": "dc4bab0f999eb120f85f909be842b5f2",
+      "title": "CSGT mở đường đưa bệnh nhân nguy kịch trên cao tốc đến Bệnh viện Chợ Rẫy",
+      "link": "https://thanhnien.vn/csgt-mo-duong-dua-benh-nhan-nguy-kich-tren-cao-toc-den-benh-vien-cho-ray-185260107183643025.htm",
+      "summary": "Tổ CSGT số 4 thuộc Đội CSGT đường bộ cao tốc số 7 (Cục CSGT, Bộ Công an) mở đường, hỗ trợ đưa một bệnh nhân bị bệnh tim chuyển biến nặng đến Bệnh viện Chợ Rẫy cấp cứu an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T12:04:00+07:00",
+      "fetched": "2026-01-07T19:27:02.233806+07:00"
+    },
+    {
+      "id": "0d39b361efac2148767daf1932a3f4c1",
+      "title": "Kinh hoàng vụ người đàn ông nghi tưới xăng đốt người phụ nữ ở Tây Ninh",
+      "link": "https://thanhnien.vn/kinh-hoang-vu-nguoi-dan-ong-nghi-tuoi-xang-dot-nguoi-phu-nu-o-tay-ninh-185260107163507088.htm",
+      "summary": "Ngày 7.1, tin từ UBND phường Long Hoa (tỉnh Tây Ninh), cho biết liên quan đến vụ phóng hỏa xảy ra trên địa bàn vào tối qua, cả hai người trong vụ việc đều đã tử vong do vết thương quá nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T12:03:00+07:00",
+      "fetched": "2026-01-07T19:27:02.233957+07:00"
+    },
+    {
+      "id": "ceb01ceca44d67a8f109ea3b7e477ab5",
+      "title": "Có nên dừng chạy tàu qua trung tâm Hà Nội?",
+      "link": "https://thanhnien.vn/co-nen-dung-chay-tau-qua-trung-tam-ha-noi-185260107172627119.htm",
+      "summary": "Trên thế giới, đa số các ga đường sắt đều nằm tại khu vực trung tâm thành phố, với các tuyến đường sắt xuyên tâm, thuận tiện cho người dân đi lại cũng như kết nối với mạng lưới đường sắt và giao thông công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T12:02:00+07:00",
+      "fetched": "2026-01-07T19:27:02.234108+07:00"
+    },
+    {
+      "id": "be7815a7397e54e75ecb967b791491d5",
+      "title": "Sự thật phía sau các đánh giá 'xuất sắc' trên App Store",
+      "link": "https://thanhnien.vn/su-that-phia-sau-cac-danh-gia-xuat-sac-tren-app-store-1852601071554404.htm",
+      "summary": "Khi nói đến các đánh giá xuất sắc trên App Store, số sao đánh giá có thể gây hiểu lầm cho người dùng về ứng dụng nào đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T12:01:00+07:00",
+      "fetched": "2026-01-07T19:27:02.234279+07:00"
+    },
+    {
+      "id": "87ed36e2cca61d5fc1817dcba1e72dd1",
+      "title": "Central Retail cung ứng hơn 3.000 giỏ quà Tết hàng đặc sản địa phương",
+      "link": "https://thanhnien.vn/central-retail-cung-ung-hon-3000-gio-qua-tet-hang-dac-san-dia-phuong-185260107173345416.htm",
+      "summary": "Nhằm ủng hộ sản phẩm đặc sản vùng miền, giúp hàng Việt ngày càng khẳng định được chất lượng, uy tín thương hiệu tại hệ thống bán lẻ hiện đại, nhân dịp tết Bính Ngọ 2026 sắp tới, hệ thống siêu thị GO! Tops Market, mini go! trên toàn quốc sẽ cung ứng đến người tiêu dùng hơn 3.000 giỏ quà Tết hàng nhãn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T12:00:00+07:00",
+      "fetched": "2026-01-07T19:27:02.234446+07:00"
+    },
+    {
+      "id": "1878e941671e0ebf6a5ebae401c6faf4",
+      "title": "Nỗi bất an của châu Âu khi Mỹ tăng sức ép về Greenland",
+      "link": "https://vnexpress.net/noi-bat-an-cua-chau-au-khi-my-tang-suc-ep-ve-greenland-5002642.html",
+      "summary": "Mỹ gia tăng sức ép nhằm kiểm soát Greenland khiến châu Âu lo ngại, dấy lên hoài nghi về tương lai NATO và sự gắn kết của phương Tây.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T12:00:00+07:00",
+      "fetched": "2026-01-07T19:27:04.321137+07:00"
+    },
+    {
+      "id": "2fd189c16479d56053e63831ffd18f9f",
+      "title": "Ngày mai diễn ra Tech Awards 2025",
+      "link": "https://vnexpress.net/ngay-mai-dien-ra-tech-awards-2025-5002687.html",
+      "summary": "Sự kiện Tech Awards 2025, do VnExpress tổ chức, có chủ đề Tech Up - Life Up, với hai phiên Tech Show và Lễ trao Giải thưởng Công nghệ Xuất sắc ngày 8/1.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-07T12:00:00+07:00",
+      "fetched": "2026-01-07T19:27:07.935987+07:00"
+    },
+    {
+      "id": "85671c5ef35d4fa557a57d5a86f646bd",
+      "title": "Sút pennalty không trượt phát nào, sút phạt góc quá hay, chơi bóng bổng hoàn hảo: U.23 Việt Nam!",
+      "link": "https://thanhnien.vn/sut-pennalty-khong-truot-phat-nao-sut-phat-goc-qua-hay-choi-bong-bong-hoan-hao-u23-viet-nam-185260107020344434.htm",
+      "summary": "Nếu chỉ nhìn vào thể hình của cầu thủ U.23 Việt Nam so với cầu thủ U.23 Jordan, không ít người cho rằng đội bóng của HLV Kim Sang-sik gần như không có cơ hội trong các pha bóng bổng, từ những tình huống cố định. Thế nhưng thực tế diễn ra ngược lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T11:58:00+07:00",
+      "fetched": "2026-01-07T19:27:02.234604+07:00"
+    },
+    {
+      "id": "4fa97ecd67aae59602bb67302a57ed1b",
+      "title": "Xã Củ Chi tổ chức trao quà tết cho các hộ dân khó khăn",
+      "link": "https://thanhnien.vn/xa-cu-chi-to-chuc-trao-qua-tet-cho-cac-ho-dan-kho-khan-185260107173132506.htm",
+      "summary": "Với chương trình “Xuân gắn kết - Tết sẻ chia”, xã Củ Chi đã trao 200 phần quà tết cho các hộ dân khó khăn. Đây là hoạt động thiết thực thể hiện tinh thần sẻ chia, đoàn kết của cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T11:56:00+07:00",
+      "fetched": "2026-01-07T19:27:02.234752+07:00"
+    },
+    {
+      "id": "97c7bdfabbc96316ead9639ac5f80746",
+      "title": "Hà Nội cho phép nộp phạt giao thông trực tuyến qua ứng dụng iHanoi",
+      "link": "https://vnexpress.net/ha-noi-cho-phep-nop-phat-giao-thong-truc-tuyen-qua-ung-dung-ihanoi-5003025.html",
+      "summary": "Thông qua ứng dụng iHanoi, người vi phạm giao thông tại Hà Nội có thể nộp phạt trực tuyến với các lỗi bị camera AI phát hiện, không phải đến cơ quan công an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T11:50:11+07:00",
+      "fetched": "2026-01-07T19:26:59.554260+07:00"
+    },
+    {
+      "id": "5dadd191a46353fe973a680e2a8866db",
+      "title": "Xây hầm chui tại nút giao Mễ Trì - Dương Đình Nghệ - Vành đai 3",
+      "link": "https://vnexpress.net/xay-ham-chui-tai-nut-giao-me-tri-duong-dinh-nghe-vanh-dai-3-5003024.html",
+      "summary": "Hầm dài 655 m với 6 làn xe được kỳ vọng giải quyết xung đột giao thông, giảm thiểu ùn tắc tại nút giao đường Mễ Trì - Dương Đình Nghệ - Vành đai 3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T11:49:15+07:00",
+      "fetched": "2026-01-07T19:26:59.554469+07:00"
+    },
+    {
       "id": "4e8b96115556c7f941316a56abbe9e0d",
       "title": "Xe đồ chơi kéo được ô tô nặng cả tấn gây sốc cộng đồng mạng",
       "link": "https://tuoitre.vn/xe-do-choi-keo-duoc-o-to-nang-ca-tan-gay-soc-cong-dong-mang-20260106171048093.htm",
@@ -541,6 +851,126 @@ window.newsData_2026_01_07 = {
       "category": "Tổng hợp",
       "published": "2026-01-07T11:32:35.262513+07:00",
       "fetched": "2026-01-07T11:32:35.262750+07:00"
+    },
+    {
+      "id": "798483b73bf882f6cc3f2a116c2bc6a1",
+      "title": "Đảo Hy Lạp tuyển khách chăm 3.000 con mèo",
+      "link": "https://vnexpress.net/dao-hy-lap-tuyen-khach-cham-3-000-con-meo-5002804.html",
+      "summary": "Các ứng viên sau khi được nhận sẽ được cung cấp chỗ ở, điện nước cùng chi phí sinh hoạt cơ bản để chăm 3.000 con mèo trên đảo Syros ít nhất một tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T11:30:00+07:00",
+      "fetched": "2026-01-07T19:26:59.554640+07:00"
+    },
+    {
+      "id": "91e3af15426912a2cc1977fe8d9babec",
+      "title": "Động đất Nhật Bản: Người Việt ám ảnh tiếng chuông cảnh báo và khoảnh khắc sinh tử",
+      "link": "https://thanhnien.vn/dong-dat-nhat-ban-nguoi-viet-am-anh-tieng-chuong-canh-bao-va-khoanh-khac-sinh-tu-185250628181931931.htm",
+      "summary": "Sống tại Nhật Bản, nhiều người Việt không quên nỗi ám ảnh tiếng chuông cảnh báo động đất và những phản xạ sinh tồn trong khoảnh khắc nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T11:27:00+07:00",
+      "fetched": "2026-01-07T19:27:02.234906+07:00"
+    },
+    {
+      "id": "507d25c12628e097143432f0b8677991",
+      "title": "Vì sao chăm sóc vết thương đúng chuẩn giúp giảm sẹo ngay từ đầu?",
+      "link": "https://thanhnien.vn/vi-sao-cham-soc-vet-thuong-dung-chuan-giup-giam-seo-ngay-tu-dau-185260107183110822.htm",
+      "summary": "Dù kỹ thuật phẫu thuật và thủ thuật y khoa ngày càng chính xác, sẹo xấu sau can thiệp vẫn là biến chứng khiến nhiều người lo ngại. Thực tế cho thấy, hình thái sẹo không chỉ phụ thuộc vào tay nghề phẫu thuật, mà chịu ảnh hưởng lớn từ cách chăm sóc vết thương trong giai đoạn đầu sau can thiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T11:21:00+07:00",
+      "fetched": "2026-01-07T19:27:02.235059+07:00"
+    },
+    {
+      "id": "ad6d6a1013bcfcd236fd72bf0922e58f",
+      "title": "Đồng Nai: Công an tuần tra, phát hiện động vật quý hiếm đang bò trên quốc lộ 13",
+      "link": "https://thanhnien.vn/dong-nai-cong-an-tuan-tra-phat-hien-dong-vat-quy-hiem-dang-bo-tren-quoc-lo-13-185260107171725097.htm",
+      "summary": "Đang tuần tra trên đường, lực lượng Công an xã Tân Khai phát hiện 1 cá thể tê tê là động vật quý hiếm bò trên quốc lộ 13 nên đã đưa về trụ sở chăm sóc, bàn giao đơn vị chức năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T11:20:00+07:00",
+      "fetched": "2026-01-07T19:27:02.235231+07:00"
+    },
+    {
+      "id": "7f8f383eb55f11963163b14ceb2fe453",
+      "title": "Hiện trường lửa thiêu rụi du thuyền trên sông Sài Gòn",
+      "link": "https://vnexpress.net/hien-truong-lua-thieu-rui-du-thuyen-tren-song-sai-gon-5003008.html",
+      "summary": "Ngọn lửa bao trùm du thuyền, khốc đen mù mịt, lan sang khu dân cư ở ven sông Sài Gòn, chiều 7/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T11:12:25+07:00",
+      "fetched": "2026-01-07T19:26:59.554806+07:00"
+    },
+    {
+      "id": "63826eae48faee16c677c13ccad9807d",
+      "title": "4 bài tập yoga giúp runner chinh phục dốc, đồi",
+      "link": "https://vnexpress.net/yoga-giup-runner-chinh-phuc-doc-doi-5002916.html",
+      "summary": "Các bài tập yoga tập trung vào mông, core và độ linh hoạt hông giúp runner leo dốc hiệu quả, vững chân và hồi phục tốt hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T11:00:00+07:00",
+      "fetched": "2026-01-07T19:26:59.554976+07:00"
+    },
+    {
+      "id": "955dde34a54103c90d9c03fe974092ae",
+      "title": "Thức khuya hại tim thế nào",
+      "link": "https://vnexpress.net/thuc-khuya-hai-tim-the-nao-5002790.html",
+      "summary": "Thức khuya liên tục và thiếu ngủ kéo dài làm tăng nhịp tim, huyết áp, gây căng thẳng cho tim mạch, từ đó dễ dẫn đến nhồi máu cơ tim và đột quỵ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T11:00:00+07:00",
+      "fetched": "2026-01-07T19:26:59.555134+07:00"
+    },
+    {
+      "id": "a5615625184425239fd92ac3bd510bb5",
+      "title": "Câu chuyện phía sau tấm ảnh cô gái Venezuela chạy trốn hỏa lực Mỹ",
+      "link": "https://vnexpress.net/cau-chuyen-phia-sau-tam-anh-co-gai-venezuela-chay-tron-hoa-luc-my-5002922.html",
+      "summary": "Khi tiếng nổ xé toạc bầu trời đêm thủ đô Venezuela, Mariana Camargo vội vàng chạy thoát thân trên con phố ở phía đông Caracas.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:48:30+07:00",
+      "fetched": "2026-01-07T19:26:59.555314+07:00"
+    },
+    {
+      "id": "a5615625184425239fd92ac3bd510bb5",
+      "title": "Câu chuyện phía sau tấm ảnh cô gái Venezuela chạy trốn hỏa lực Mỹ",
+      "link": "https://vnexpress.net/cau-chuyen-phia-sau-tam-anh-co-gai-venezuela-chay-tron-hoa-luc-my-5002922.html",
+      "summary": "Khi tiếng nổ xé toạc bầu trời đêm thủ đô Venezuela, Mariana Camargo vội vàng chạy thoát thân trên con phố ở phía đông Caracas.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T10:48:30+07:00",
+      "fetched": "2026-01-07T19:27:04.321336+07:00"
+    },
+    {
+      "id": "b0cc2dfa494a2ae5d618959a64728d12",
+      "title": "Bộ trưởng Nguyễn Mạnh Hùng: 'Việt Nam nên có triết học về AI'",
+      "link": "https://vnexpress.net/bo-truong-nguyen-manh-hung-viet-nam-nen-co-triet-hoc-ve-ai-5002621.html",
+      "summary": "Khoa học trả lời câu hỏi \"chúng ta có thể làm gì\", nhưng triết học giúp trả lời câu hỏi lớn hơn là \"chúng ta nên làm gì\" trong thời đại AI, theo Bộ trưởng Nguyễn Mạnh Hùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:28:36+07:00",
+      "fetched": "2026-01-07T19:26:59.555479+07:00"
+    },
+    {
+      "id": "b0cc2dfa494a2ae5d618959a64728d12",
+      "title": "Bộ trưởng Nguyễn Mạnh Hùng: 'Việt Nam nên có triết học về AI'",
+      "link": "https://vnexpress.net/bo-truong-nguyen-manh-hung-viet-nam-nen-co-triet-hoc-ve-ai-5002621.html",
+      "summary": "Khoa học trả lời câu hỏi \"chúng ta có thể làm gì\", nhưng triết học giúp trả lời câu hỏi lớn hơn là \"chúng ta nên làm gì\" trong thời đại AI, theo Bộ trưởng Nguyễn Mạnh Hùng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-07T10:28:36+07:00",
+      "fetched": "2026-01-07T19:27:07.935318+07:00"
+    },
+    {
+      "id": "af600742be592f8ef4dad315a018fed7",
+      "title": "Du thuyền trên sông Sài Gòn cháy ngùn ngụt",
+      "link": "https://vnexpress.net/du-thuyen-tren-song-sai-gon-chay-ngun-ngut-5003006.html",
+      "summary": "Lửa bất ngờ bùng phát từ du thuyền đang neo đậu trên sông Sài Gòn, cách tòa nhà Landmark 81 khoảng một km, tạo cột khói đen giữa trung tâm TP HCM, chiều 7/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:25:45+07:00",
+      "fetched": "2026-01-07T19:26:59.555642+07:00"
     },
     {
       "id": "a6e6c702a1b889e73a178f1879740e73",
@@ -693,6 +1123,16 @@ window.newsData_2026_01_07 = {
       "fetched": "2026-01-07T10:22:05.425225+07:00"
     },
     {
+      "id": "c9a02fbbd88469fc4c0b57dba0abcc75",
+      "title": "Ba con số tạo bước ngoặt cho Canifa gần ba thập niên",
+      "link": "https://vnexpress.net/ba-con-so-tao-buoc-ngoat-cho-canifa-gan-ba-thap-nien-5002993.html",
+      "summary": "Những chi tiết nhỏ như dệt mặt sau áo len dài hơn thân trước 2 cm, quy tắc \"ba khác\" hay bốn nguyên tắc thiện nguyện tạo bước ngoặt cho Canifa qua gần 30 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:15:00+07:00",
+      "fetched": "2026-01-07T19:26:59.555803+07:00"
+    },
+    {
       "id": "7da9eced3e61578b880cc58fd0ef0c10",
       "title": "Giả danh giảng viên, lừa đảo sinh viên mua đồng phục chiếm đoạt hơn 700 triệu đồng",
       "link": "https://thanhnien.vn/gia-danh-giang-vien-lua-dao-sinh-vien-mua-dong-phuc-chiem-doat-hon-700-trieu-dong-185260107152559627.htm",
@@ -731,6 +1171,16 @@ window.newsData_2026_01_07 = {
       "category": "Tổng hợp",
       "published": "2026-01-07T10:07:00+07:00",
       "fetched": "2026-01-07T17:15:29.870471+07:00"
+    },
+    {
+      "id": "b65bf965f97669fe0a740c9f1f8e3870",
+      "title": "Người Mỹ không dám nghỉ hưu vì sợ thiếu tiền dưỡng già",
+      "link": "https://vnexpress.net/nguoi-my-khong-dam-nghi-huu-vi-so-thieu-tien-duong-gia-5002817.html",
+      "summary": "Sở hữu 1,5 triệu USD và không nợ nần, vợ chồng Jim vẫn hoãn kế hoạch nghỉ hưu vì lo lạm phát và chi phí y tế sẽ bào mòn khối tài sản suốt 30 năm tuổi già.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:05:33+07:00",
+      "fetched": "2026-01-07T19:26:59.555957+07:00"
     },
     {
       "id": "0488acd5af3db6cddbf4546ec391e1a4",
