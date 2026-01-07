@@ -1,7 +1,27 @@
 window.newsData_2026_01_08 = {
   "date": "2026-01-08",
-  "lastUpdated": "2026-01-08T03:14:52.820465+07:00",
+  "lastUpdated": "2026-01-08T05:12:43.318637+07:00",
   "articles": [
+    {
+      "id": "bfb10c5c2ddce1cc4bcf9207b2009a2a",
+      "title": "Vì sao Trung Quốc mua nhiều phế liệu từ EU?",
+      "link": "https://tuoitre.vn/vi-sao-trung-quoc-mua-nhieu-phe-lieu-tu-eu-20260107231627515.htm",
+      "summary": "Liên minh châu Âu (EU) từng là hình mẫu về kinh tế tuần hoàn với ngành tái chế nhôm hiệu quả cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:12:37.513338+07:00",
+      "fetched": "2026-01-08T05:12:37.513466+07:00"
+    },
+    {
+      "id": "73610437bd4573031da4b49d541073c6",
+      "title": "Tin tức sáng 8-1: Quy định mới về mức đóng và hưởng bảo hiểm thất nghiệp",
+      "link": "https://tuoitre.vn/tin-tuc-sang-8-1-quy-dinh-moi-ve-muc-dong-va-huong-bao-hiem-that-nghiep-20260107221637915.htm",
+      "summary": "Tin tức đáng chú ý: Người lao động đóng bảo hiểm thất nghiệp bằng 1% tiền lương tháng; Cà Mau tổ chức Hội thi gạo ngon vùng Đồng bằng sông Cửu Long; Vụ ngộ độc tại Lâm Đồng: Xử phạt hành chính chủ xe bán bánh mì...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:12:37.513151+07:00",
+      "fetched": "2026-01-08T05:12:37.513324+07:00"
+    },
     {
       "id": "1371aa0403bc3775b4f72786b4aea9aa",
       "title": "Cổ phiếu giảm giá mạnh nhất sàn HoSE năm qua: Nếu rót 1 tỉ mất hơn 600 triệu",
@@ -151,6 +171,126 @@ window.newsData_2026_01_08 = {
       "category": "Tổng hợp",
       "published": "2026-01-08T01:20:14.484238+07:00",
       "fetched": "2026-01-08T01:20:14.484441+07:00"
+    },
+    {
+      "id": "e8c47356bb9b5c71a9e05b6e4cac36e9",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 8.1.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-812026-185260107233632311.htm",
+      "summary": "Tin tức Hộ kinh doanh lúng túng với sổ sách kế toán; Chuyện \"chiêng có hồn\"; Giải mã tham vọng lãnh thổ của Tổng thống Trump... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 8.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T22:00:00+07:00",
+      "fetched": "2026-01-08T05:12:36.742027+07:00"
+    },
+    {
+      "id": "e9f11d06d051a969eb1050761e465808",
+      "title": "Về xứ Mường: Chuyện 'chiêng có hồn'",
+      "link": "https://thanhnien.vn/ve-xu-muong-chuyen-chieng-co-hon-185260107200206933.htm",
+      "summary": "Chỉ bằng cái xoa nhẹ, chiếc chiêng cổ bỗng ngân lên thứ âm thanh lạnh sống lưng. Nhưng lạ thay, cũng chiếc chiêng ấy, người khác xoa mãi, chiêng vẫn im lặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T22:00:00+07:00",
+      "fetched": "2026-01-08T05:12:36.742180+07:00"
+    },
+    {
+      "id": "503e24d3fd0e7285067f1b4383a5ebfa",
+      "title": "Báo chí Kyrgyzstan e ngại ‘chiêu’ đặc biệt của U.23 Việt Nam, cảnh báo nóng về một điều…",
+      "link": "https://thanhnien.vn/bao-chi-kyrgyzstan-e-ngai-chieu-dac-biet-cua-u23-viet-nam-canh-bao-nong-ve-mot-dieu-185260108012920115.htm",
+      "summary": "Theo truyền thông Kyrgyzstan, nhiều lãnh đạo cấp cao của bóng đá nước này đã bất ngờ đến sân tập của U.23 Kyzykistan tại Ả Rập Xê Út.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:48:00+07:00",
+      "fetched": "2026-01-08T05:12:36.742320+07:00"
+    },
+    {
+      "id": "b41b1f01ee5e4dff12a857eb945b0a44",
+      "title": "CAS lên tiếng vụ FAM kiện FIFA, AFC cảnh báo bóng đá Malaysia sắp 'đóng băng'",
+      "link": "https://thanhnien.vn/cas-len-tieng-vu-fam-kien-fifa-afc-canh-bao-bong-da-malaysia-sap-dong-bang-185260108001420008.htm",
+      "summary": "Tòa án Trọng tài Thể thao (CAS) mới đây đã có những cập nhật về vụ việc FAM kiện FIFA trong vấn đề nhập tịch của 7 cầu thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:39:00+07:00",
+      "fetched": "2026-01-08T05:12:36.742458+07:00"
+    },
+    {
+      "id": "7d4af94fe23701614f541c32b060331c",
+      "title": "Thị trường việc làm TP.HCM đang đối diện với thách thức lớn nào?",
+      "link": "https://thanhnien.vn/thi-truong-viec-lam-tphcm-dang-doi-dien-voi-thach-thuc-lon-nao-185260107113638984.htm",
+      "summary": "Sau khi thực hiện sáp nhập địa giới hành chính, cung - cầu lao động trong thị trường việc làm TP.HCM đang có sự phân hóa rất lớn theo khu vực. Vậy, thách thức quan trọng trong năm 2026 là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:34:00+07:00",
+      "fetched": "2026-01-08T05:12:36.742597+07:00"
+    },
+    {
+      "id": "cc50234840c76fb907c400b7732383a4",
+      "title": "Chiến sự Ukraine ngày 1.414: Mỹ - Ukraine bàn vấn đề lãnh thổ và nhà máy Zaporizhzhia",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1414-my-ukraine-ban-van-de-lanh-tho-va-nha-may-zaporizhzhia-185260107220439029.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky cho biết các phái đoàn đàm phán của Mỹ và Ukraine tại Paris dự kiến sẽ thảo luận những 'vấn đề khó khăn nhất' trong tiến trình tìm kiếm giải pháp chấm dứt xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:30:00+07:00",
+      "fetched": "2026-01-08T05:12:36.742752+07:00"
+    },
+    {
+      "id": "d7537c6e7bb40c538ae6bf7848733d31",
+      "title": "TP.HCM: Vì sao hầm chui hơn 1.000 tỉ đồng qua quốc lộ 13 chưa được thi công?",
+      "link": "https://thanhnien.vn/tphcm-vi-sao-ham-chui-hon-1000-ti-dong-qua-quoc-lo-13-chua-duoc-thi-cong-185260107152922432.htm",
+      "summary": "Dự án xây dựng hầm chui ngã năm Phước Kiến (phường Phú Lợi và phường Thủ Dầu Một, TP.HCM) qua quốc lộ 13 có tổng vốn đầu tư 1.050 tỉ đồng, được khởi công từ tháng 8.2025 nhưng đến nay chưa được thi công với nhiều lý do.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:27:00+07:00",
+      "fetched": "2026-01-08T05:12:36.742890+07:00"
+    },
+    {
+      "id": "5c2363a427a0b742fa7cd2294bc1783f",
+      "title": "Nước tiểu thay đổi thế nào khi thận suy?",
+      "link": "https://vnexpress.net/nuoc-tieu-thay-doi-the-nao-khi-than-suy-5002436.html",
+      "summary": "Thận khỏe tạo nước tiểu vàng nhạt đến hổ phách, trong khi nước tiểu sẫm, bọt, đỏ hoặc đục có thể cảnh báo vấn đề như bệnh thận mãn tính hoặc tổn thương thận cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:00:00+07:00",
+      "fetched": "2026-01-08T05:12:34.139372+07:00"
+    },
+    {
+      "id": "1de0e3c7562eef7c374ba53d69678c3f",
+      "title": "So sánh ưu đãi thuế xe hybrid giữa Việt Nam, Thái Lan và Indonesia",
+      "link": "https://vnexpress.net/so-sanh-uu-dai-thue-xe-hybrid-giua-viet-nam-thai-lan-va-indonesia-5002883.html",
+      "summary": "So với Việt Nam, hai nước láng giềng có mức ưu đãi thuế tiêu thụ đặc biệt cho xe hybrid thấp hơn, nhưng với nhiều quy định khắt khe hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:00:00+07:00",
+      "fetched": "2026-01-08T05:12:34.139553+07:00"
+    },
+    {
+      "id": "6e202dddfdd5d860791655c11feb3d21",
+      "title": "Hoa tết tấp nập xuống phố, giá không tăng",
+      "link": "https://thanhnien.vn/hoa-tet-tap-nap-xuong-pho-gia-khong-tang-185260107220157779.htm",
+      "summary": "Từ vườn lớn đến vựa nhỏ, hoa tết đang tấp nập đổ về TP.HCM, dù vẫn còn hơn một tháng nữa mới đến Tết Nguyên đán Bính Ngọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:00:00+07:00",
+      "fetched": "2026-01-08T05:12:36.743025+07:00"
+    },
+    {
+      "id": "8b87c873a5cfd9f4c32cbecae3549c62",
+      "title": "Làm gì để du khách chi tiêu nhiều hơn?:  'Cỗ máy in tiền' vẫn chờ kích hoạt",
+      "link": "https://thanhnien.vn/lam-gi-de-du-khach-chi-tieu-nhieu-hon-co-may-in-tien-van-cho-kich-hoat-185260107220019357.htm",
+      "summary": "Trong khi thế giới đã thu về hàng tỉ USD từ kinh tế đêm, thì tại VN, \"cỗ máy in tiền\" này vẫn chưa được kích hoạt đúng mức, vẫn chỗ \"sáng đèn\", chỗ le lói.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:00:00+07:00",
+      "fetched": "2026-01-08T05:12:36.743161+07:00"
+    },
+    {
+      "id": "0d781a88a43650772e199bea05203c45",
+      "title": "Tiền sử dụng đất tăng, lại phập phồng vì hệ số K",
+      "link": "https://thanhnien.vn/tien-su-dung-dat-tang-lai-phap-phong-vi-he-so-k-185260107180236585.htm",
+      "summary": "Bảng giá đất mới áp dụng từ 1.1.2026 tăng, thêm tiền sử dụng đất sẽ được xác định bằng hệ số K khiến nỗi lo lại đè lên người dân, doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:00:00+07:00",
+      "fetched": "2026-01-08T05:12:36.743294+07:00"
     },
     {
       "id": "c70a9cd94be82c7e8251c2f8f5659b38",
