@@ -1,7 +1,157 @@
 window.newsData_2026_01_07 = {
   "date": "2026-01-07",
-  "lastUpdated": "2026-01-07T21:16:05.774735+07:00",
+  "lastUpdated": "2026-01-07T23:19:04.480843+07:00",
   "articles": [
+    {
+      "id": "30003ed3e31faacbf0382354dd2d1436",
+      "title": "Bắc Kinh lên tiếng sau khi ông Trump nói nhận 50 triệu thùng dầu từ Venezuela",
+      "link": "https://tuoitre.vn/bac-kinh-len-tieng-sau-khi-ong-trump-noi-nhan-50-trieu-thung-dau-tu-venezuela-20260107210202919.htm",
+      "summary": "Ngày 7-1, Bộ Ngoại giao Trung Quốc đã cáo buộc các hành động của Mỹ đối với dầu mỏ Venezuela là hành động “vi phạm chuẩn mực quốc tế”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.903343+07:00",
+      "fetched": "2026-01-07T23:18:56.903470+07:00"
+    },
+    {
+      "id": "e562c2927d184d4340b87d45ca6d3984",
+      "title": "Ứng viên vô địch Hàn Quốc và Iran gây nhàm chán tại U23 châu Á",
+      "link": "https://tuoitre.vn/ung-vien-vo-dich-han-quoc-va-iran-gay-nham-chan-tai-u23-chau-a-20260107210854791.htm",
+      "summary": "Dù là hai ứng viên vô địch của Giải U23 châu Á 2026, U23 Hàn Quốc và U23 Iran lại chỉ mang đến một trận đấu tẻ nhạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.903213+07:00",
+      "fetched": "2026-01-07T23:18:56.903332+07:00"
+    },
+    {
+      "id": "1371aa0403bc3775b4f72786b4aea9aa",
+      "title": "Cổ phiếu giảm giá mạnh nhất sàn HoSE năm qua: Nếu rót 1 tỉ mất hơn 600 triệu",
+      "link": "https://tuoitre.vn/co-phieu-giam-gia-manh-nhat-san-hose-nam-qua-neu-rot-1-ti-mat-hon-600-trieu-20260107211504559.htm",
+      "summary": "VN-Index khép lại năm 2025 với mức tăng gần 41% nhưng nhiều nhà đầu tư vẫn ngậm ngùi nếu không may đầu tư vào top 20 mã giảm mạnh nhất sàn này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.903088+07:00",
+      "fetched": "2026-01-07T23:18:56.903202+07:00"
+    },
+    {
+      "id": "68d808b9dc976d4d6be0ccdcf18fee6e",
+      "title": "Cháy tàu du lịch King Yacht trên sông Sài Gòn: Lửa bùng từ hầm máy khi đang sửa tàu",
+      "link": "https://tuoitre.vn/chay-tau-du-lich-king-yacht-tren-song-sai-gon-lua-bung-tu-ham-may-khi-dang-sua-tau-20260107214148883.htm",
+      "summary": "Liên quan vụ tàu du lịch neo đậu trên sông Sài Gòn bất ngờ cháy lớn, lực lượng chức năng xác định tàu này đang trong quá trình sửa chữa, lửa bùng phát từ hầm động cơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.902956+07:00",
+      "fetched": "2026-01-07T23:18:56.903077+07:00"
+    },
+    {
+      "id": "1b3ab220fc173dc265ba073ed2eb6039",
+      "title": "Ngăn chặn kịp thời vụ giả danh công an lừa đảo 160 triệu đồng",
+      "link": "https://tuoitre.vn/ngan-chan-kip-thoi-vu-gia-danh-cong-an-lua-dao-160-trieu-dong-20260107214138393.htm",
+      "summary": "Công an phường Hoành Bồ phối hợp với Ngân hàng LPBank - chi nhánh Hoành Bồ, tỉnh Quảng Ninh đã ngăn chặn kịp thời vụ giả danh cán bộ công an lừa đảo 160 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.902827+07:00",
+      "fetched": "2026-01-07T23:18:56.902945+07:00"
+    },
+    {
+      "id": "6959f637778a8378d656e27a2016dfab",
+      "title": "TP.HCM còn khoảng 40% nội dung thanh tra, kiểm tra phải sớm thực hiện",
+      "link": "https://tuoitre.vn/tp-hcm-con-khoang-40-noi-dung-thanh-tra-kiem-tra-phai-som-thuc-hien-2026010718352278.htm",
+      "summary": "Thanh tra TP.HCM hiện theo dõi thực hiện hơn 200 kết luận thanh tra, kiểm tra. Đến nay mới thực hiện được khoảng 60%, còn 40% nội dung phải tiếp tục đôn đốc hoàn thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.902696+07:00",
+      "fetched": "2026-01-07T23:18:56.902816+07:00"
+    },
+    {
+      "id": "e2b45fb01ff98b744f229eae19ec8278",
+      "title": "Visa bắt tay VPBank, Shinhan Việt Nam và MB ra mắt Nền tảng thanh toán thương mại toàn cầu",
+      "link": "https://tuoitre.vn/visa-bat-tay-vpbank-shinhan-viet-nam-va-mb-ra-mat-nen-tang-thanh-toan-thuong-mai-toan-cau-20260107190540278.htm",
+      "summary": "Ngày 7-1, Visa (NYSE: V) hợp tác cùng VPBank, Shinhan Việt Nam và MB chính thức ra mắt Nền tảng thanh toán thương mại toàn cầu (Global Trade Payment Platform - GTPP) hỗ trợ thanh toán thẻ thương mại toàn cầu đầu tiên tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.902570+07:00",
+      "fetched": "2026-01-07T23:18:56.902685+07:00"
+    },
+    {
+      "id": "82fb41062b73bdd4cc475a16e78fbaa7",
+      "title": "Từng nặng hơn 100kg, người đàn ông Hà Nội giảm 23kg và truyền cảm hứng cho mẹ",
+      "link": "https://tuoitre.vn/tung-nang-hon-100kg-nguoi-dan-ong-ha-noi-giam-23kg-va-truyen-cam-hung-cho-me-20260107214142627.htm",
+      "summary": "Từng nặng hơn 100kg và mang theo nhiều nguy cơ bệnh tật, anh Ngô Xuân Bách (35 tuổi, Hà Nội) đã giảm 23kg sau thời gian thay đổi lối sống. Điều anh nhận lại không chỉ là vóc dáng gọn gàng, mà còn là sức khỏe và truyền cảm hứng cho gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.902425+07:00",
+      "fetched": "2026-01-07T23:18:56.902557+07:00"
+    },
+    {
+      "id": "5dfc8e70be33f777dd934a52ede84e60",
+      "title": "Thủ tướng: Sớm đàm phán, ký hiệp định hợp tác đầu tư dự án điện hạt nhân Ninh Thuận",
+      "link": "https://tuoitre.vn/thu-tuong-som-dam-phan-ky-hiep-dinh-hop-tac-dau-tu-du-an-dien-hat-nhan-ninh-thuan-20260107215223617.htm",
+      "summary": "Tối 7-1, Thủ tướng Phạm Minh Chính, Trưởng Ban Chỉ đạo xây dựng nhà máy điện hạt nhân, chủ trì phiên họp thứ tư của Ban Chỉ đạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.902300+07:00",
+      "fetched": "2026-01-07T23:18:56.902414+07:00"
+    },
+    {
+      "id": "c9f98934ff4e5406c3d6776584e5c5a3",
+      "title": "120 tấn thịt heo nhiễm bệnh dịch tả châu Phi suýt được 'hô biến' thành thịt hộp",
+      "link": "https://tuoitre.vn/120-tan-thit-heo-nhiem-benh-dich-ta-chau-phi-suyt-duoc-ho-bien-thanh-thit-hop-20260107220923329.htm",
+      "summary": "Công an thành phố Hải Phòng vừa khởi tố vụ án, khởi tố 9 bị can để điều tra về hành vi vi phạm các điều kiện về an toàn thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.902169+07:00",
+      "fetched": "2026-01-07T23:18:56.902289+07:00"
+    },
+    {
+      "id": "71af414ce9150bc690c6ad1aedacc307",
+      "title": "Từ 5h ngày 9-1, cấm lưu thông một đoạn đèo Prenn Đà Lạt",
+      "link": "https://tuoitre.vn/tu-5h-ngay-9-1-cam-luu-thong-mot-doan-deo-prenn-da-lat-20260107221236987.htm",
+      "summary": "Sở Xây dựng Lâm Đồng thông báo tạm cấm người và xe cộ trên đoạn từ chân đèo Prenn đến trước khu du lịch thác Datanla nhằm khắc phục sạt trượt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.902036+07:00",
+      "fetched": "2026-01-07T23:18:56.902154+07:00"
+    },
+    {
+      "id": "4702e3d170b2ac113c2fa95471fd3fef",
+      "title": "Giới thiệu Đại tướng Nguyễn Trọng Nghĩa, Đại tướng Nguyễn Tân Cương ứng cử đại biểu Quốc hội",
+      "link": "https://tuoitre.vn/gioi-thieu-dai-tuong-nguyen-trong-nghia-dai-tuong-nguyen-tan-cuong-ung-cu-dai-bieu-quoc-hoi-20260107220059237.htm",
+      "summary": "Tại các hội nghị đã biểu quyết nhất trí 100% giới thiệu Đại tướng Nguyễn Trọng Nghĩa và Đại tướng Nguyễn Tân Cương tham gia ứng cử đại biểu Quốc hội khóa XVI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.901901+07:00",
+      "fetched": "2026-01-07T23:18:56.902024+07:00"
+    },
+    {
+      "id": "44b4204c5ddd4bc2018bddd679e42115",
+      "title": "Mỹ giữ tàu chở dầu treo cờ Nga ở Bắc Đại Tây Dương, Matxcơva lên tiếng",
+      "link": "https://tuoitre.vn/my-giu-tau-cho-dau-treo-co-nga-o-bac-dai-tay-duong-matxcova-len-tieng-2026010722273265.htm",
+      "summary": "Ngày 7-1, quân đội Mỹ thông báo đã giữ một tàu chở dầu treo cờ Nga tại khu vực Bắc Đại Tây Dương, với cáo buộc vi phạm các lệnh trừng phạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.901769+07:00",
+      "fetched": "2026-01-07T23:18:56.901889+07:00"
+    },
+    {
+      "id": "bcc748e456822152e3dddc3172c3abe7",
+      "title": "Thanh Nhàn báo tin vui trước trận U23 Việt Nam đấu U23 Kyrgyzstan",
+      "link": "https://tuoitre.vn/thanh-nhan-bao-tin-vui-truoc-tran-u23-viet-nam-dau-u23-kyrgyzstan-20260107221534798.htm",
+      "summary": "Tiền đạo Nguyễn Thanh Nhàn bắt đầu tập luyện với bóng để lấy lại cảm giác sau những ngày phải tập trị liệu với bác sĩ, qua đó có khả năng trở lại thi đấu cho U23 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.901628+07:00",
+      "fetched": "2026-01-07T23:18:56.901756+07:00"
+    },
+    {
+      "id": "1aa90a5143461f371bba49605d455a00",
+      "title": "NÓNG: Ông trùm 'tập đoàn tội phạm' Prince Group đã bị bắt và đưa sang Trung Quốc",
+      "link": "https://tuoitre.vn/nong-ong-trum-tap-doan-toi-pham-prince-group-da-bi-bat-va-dua-sang-trung-quoc-2026010722274934.htm",
+      "summary": "Bộ trưởng Bộ Thông tin Campuchia Neth Pheaktra xác nhận thông tin tỉ phú Chen Zhi, chủ tịch Tập đoàn Prince Group, đã bị bắt giữ và đưa sang Trung Quốc phục vụ điều tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:18:56.901432+07:00",
+      "fetched": "2026-01-07T23:18:56.901613+07:00"
+    },
     {
       "id": "b5e0c28e8cb704eb48890897b157d3f7",
       "title": "Trung Quốc chuẩn bị săn băng nước ở cực nam Mặt trăng",
@@ -443,6 +593,86 @@ window.newsData_2026_01_07 = {
       "fetched": "2026-01-07T17:15:30.650555+07:00"
     },
     {
+      "id": "5e8dc4f14e19ff2df07126b959e2ce47",
+      "title": "Mỹ bắt tàu chở dầu treo cờ Nga sau hơn 2 tuần truy đuổi",
+      "link": "https://thanhnien.vn/my-bat-tau-cho-dau-treo-co-nga-sau-hon-2-tuan-truy-duoi-18526010722242433.htm",
+      "summary": "Mỹ ngày 7.1 đã bắt giữ một tàu chở dầu treo cờ Nga sau hơn 2 tuần truy đuổi trên Đại Tây Dương, trong khuôn khổ chiến dịch gây sức ép lên xuất khẩu dầu mỏ của Venezuela.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T16:16:00+07:00",
+      "fetched": "2026-01-07T23:18:55.820344+07:00"
+    },
+    {
+      "id": "0e539d3ba6c40886593d61c9f894ae15",
+      "title": "Khách nước ngoài bị lạc, quay lại sân bay Nội Bài cầu cứu",
+      "link": "https://vnexpress.net/khach-nuoc-ngoai-bi-lac-quay-lai-san-bay-noi-bai-cau-cuu-5003060.html",
+      "summary": "Nam du khách Philippines đi lạc ở khu vực bờ hồ Hoàn Kiếm, sau đó đi taxi gần 26 km đến sân bay Nội Bài chờ qua đêm, mong gặp lại người thân khi đoàn quay về nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T16:03:09+07:00",
+      "fetched": "2026-01-07T23:18:52.634762+07:00"
+    },
+    {
+      "id": "b021137f8446ecc405637d92a6465e5a",
+      "title": "Campuchia bắt và dẫn độ 'ông trùm lừa đảo' Chen Zhi về Trung Quốc",
+      "link": "https://thanhnien.vn/campuchia-bat-va-dan-do-ong-trum-lua-dao-chen-zhi-ve-trung-quoc-185260107224331535.htm",
+      "summary": "Doanh nhân Vincent Chen Zhi, người bị cáo buộc đứng sau mạng lưới lừa đảo trực tuyến sử dụng lao động buôn người tại Campuchia, đã bị bắt giữ và dẫn độ về Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T16:02:00+07:00",
+      "fetched": "2026-01-07T23:18:55.820533+07:00"
+    },
+    {
+      "id": "ac1ae0d39a7dcbe850a6af8cccde01e1",
+      "title": "Việt Nam thông tin về Đại hội Đảng lần thứ 14 tới quốc tế",
+      "link": "https://vnexpress.net/viet-nam-thong-tin-ve-dai-hoi-dang-lan-thu-14-toi-quoc-te-5003056.html",
+      "summary": "Việt Nam thông báo về Đại hội Đảng lần thứ 14 tới các cơ quan đại diện ngoại giao nước ngoài, các tổ chức quốc tế, cho biết đây là sự kiện mang tính bước ngoặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T16:00:16+07:00",
+      "fetched": "2026-01-07T23:18:52.634941+07:00"
+    },
+    {
+      "id": "36ba752eb6aa796407217179659b4f0e",
+      "title": "Campuchia bắt ông trùm Chen Zhi",
+      "link": "https://vnexpress.net/campuchia-bat-ong-trum-chen-zhi-5003068.html",
+      "summary": "Campuchia cho biết ông trùm Chen Zhi đã bị bắt và dẫn độ về Trung Quốc để điều tra cáo buộc về hoạt động tội phạm xuyên quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T15:58:04+07:00",
+      "fetched": "2026-01-07T23:18:52.635109+07:00"
+    },
+    {
+      "id": "9aba1f64cc756dcf9ac9f916eecfe2bd",
+      "title": "Tuấn Hưng nói lý do hát live chưa tốt",
+      "link": "https://vnexpress.net/tuan-hung-noi-ly-do-hat-live-chua-tot-5003043.html",
+      "summary": "Tuấn Hưng cho biết màn song ca \"Vẫn nhớ\" với Bùi Lan Hương kém do tâm lý căng thẳng và chưa quen không gian biểu diễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T15:45:57+07:00",
+      "fetched": "2026-01-07T23:18:52.635272+07:00"
+    },
+    {
+      "id": "fa0846c695f6731d411832d1237f6e1c",
+      "title": "Đại học Mở TP HCM xét học bạ trở lại sau một năm bỏ",
+      "link": "https://vnexpress.net/dai-hoc-mo-tp-hcm-xet-hoc-ba-tro-lai-sau-mot-nam-bo-5003035.html",
+      "summary": "Trường Đại học Mở TP HCM (OU) quay lại dùng kết quả học bạ để tuyển sinh sau một năm bỏ, lần đầu cộng điểm cho thí sinh đạt giải cấp tỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T15:35:29+07:00",
+      "fetched": "2026-01-07T23:18:52.635432+07:00"
+    },
+    {
+      "id": "58579733d76b317ab7ae231b4b4c8e13",
+      "title": "Vẻ quyến rũ của Sydney Sweeney",
+      "link": "https://vnexpress.net/ve-quyen-ru-cua-sydney-sweeney-5002662.html",
+      "summary": "Sao \"Euphoria\" Sydney Sweeney gây ấn tượng khán giả với phong cách gợi cảm trước ống kính lẫn đời thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T15:24:32+07:00",
+      "fetched": "2026-01-07T23:18:52.635606+07:00"
+    },
+    {
       "id": "ef2ccbfc8fcac60b176218c6646e3926",
       "title": "Ấm tình người đêm trở lạnh",
       "link": "https://tuoitre.vn/am-tinh-nguoi-dem-tro-lanh-20260107102036575.htm",
@@ -593,6 +823,96 @@ window.newsData_2026_01_07 = {
       "fetched": "2026-01-07T15:19:12.800186+07:00"
     },
     {
+      "id": "c4c9b3bc25fe9d01d1b8286076b14797",
+      "title": "Trả lương 500 nghìn vẫn đỏ mắt tìm thanh niên làm phụ hồ",
+      "link": "https://vnexpress.net/tra-luong-500-nghin-van-do-mat-tim-thanh-nien-lam-phu-ho-5002981.html",
+      "summary": "Tại sao lại 'trách móc' người trẻ không chịu làm những công việc bán sức nhưng bấp bênh?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T15:00:00+07:00",
+      "fetched": "2026-01-07T23:18:52.635758+07:00"
+    },
+    {
+      "id": "87f90870b592e8e58757765c035f1521",
+      "title": "Tiếp tục rà soát, hoàn thiện hồ sơ nhân sự Đại hội XIV",
+      "link": "https://thanhnien.vn/tiep-tuc-ra-soat-hoan-thien-ho-so-nhan-su-dai-hoi-xiv-18526010721460239.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú  yêu cầu Tiểu ban nhân sự và Ban Tổ chức Trung ương tiếp tục rà soát, hoàn thiện hồ sơ nhân sự Đại hội XIV, các tài liệu liên quan và phối hợp hoàn thiện báo cáo thẩm tra tư cách đại biểu tham dự đại hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T14:59:00+07:00",
+      "fetched": "2026-01-07T23:18:55.820694+07:00"
+    },
+    {
+      "id": "183133e696180ac0d677f794ddad7505",
+      "title": "Mỗi lần bấm nút đều gắn với kỳ vọng của hàng triệu cử tri",
+      "link": "https://thanhnien.vn/moi-lan-bam-nut-deu-gan-voi-ky-vong-cua-hang-trieu-cu-tri-185260106215909253.htm",
+      "summary": "Nhìn lại chặng đường phát triển, nguyên Phó chủ tịch thường trực Quốc hội Tòng Thị Phóng khẳng định Quốc hội đã thể hiện đúng đắn đường lối chiến lược của Đảng về đoàn kết các dân tộc anh em trong xây dựng Quốc hội và cơ cấu đại biểu Quốc hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T14:56:00+07:00",
+      "fetched": "2026-01-07T23:18:55.820848+07:00"
+    },
+    {
+      "id": "492f18f77e7f238304d9568fad71cd2b",
+      "title": "Nước mắm Phan Thiết vào siêu thị lớn ở Mỹ",
+      "link": "https://vnexpress.net/nuoc-mam-phan-thiet-vao-sieu-thi-lon-o-my-5003021.html",
+      "summary": "Sau gần 10 năm phục hồi thương hiệu trong nước, dòng nước mắm Tĩn Phan Thiết có truyền thống hơn 300 năm, lần đầu được bán trong hệ thống siêu thị Costco tại Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T14:52:04+07:00",
+      "fetched": "2026-01-07T23:18:52.635917+07:00"
+    },
+    {
+      "id": "492f18f77e7f238304d9568fad71cd2b",
+      "title": "Nước mắm Phan Thiết vào siêu thị lớn ở Mỹ",
+      "link": "https://vnexpress.net/nuoc-mam-phan-thiet-vao-sieu-thi-lon-o-my-5003021.html",
+      "summary": "Sau gần 10 năm phục hồi thương hiệu trong nước, dòng nước mắm Tĩn Phan Thiết có truyền thống hơn 300 năm, lần đầu được bán trong hệ thống siêu thị Costco tại Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-07T14:52:04+07:00",
+      "fetched": "2026-01-07T23:19:00.571806+07:00"
+    },
+    {
+      "id": "cbfd388335688fb0b1f13f723653e384",
+      "title": "Chuyển giao 2 bệnh viện T.Ư về Trường đại học Y Hà Nội trước 20.1",
+      "link": "https://thanhnien.vn/chuyen-giao-2-benh-vien-tu-ve-truong-dai-hoc-y-ha-noi-truoc-201-185260107211134691.htm",
+      "summary": "Trước 20.1, chuyển giao Bệnh viện 71 T.Ư và Bệnh viện Điều dưỡng - phục hồi chức năng T.Ư về Trường đại học Y Hà Nội, theo yêu cầu của lãnh đạo Bộ Y tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T14:50:00+07:00",
+      "fetched": "2026-01-07T23:18:55.820998+07:00"
+    },
+    {
+      "id": "0a7e6ba8d83c520be7457b2e7a90ecc8",
+      "title": "Xe điện 'hạt tiêu' Honda U-Be bán tại Việt Nam, giá gấp đôi thị trường Trung Quốc",
+      "link": "https://thanhnien.vn/xe-dien-hat-tieu-honda-u-be-ban-tai-viet-nam-gia-gap-doi-thi-truong-trung-quoc-18526010614542912.htm",
+      "summary": "Dù gây chú ý nhờ thiết kế gọn gàng và mang thương hiệu Nhật Bản, tuy nhiên mức giá khá cao khiến Honda U-Be 2026 chỉ hợp với nhóm thiểu số người dùng, chủ yếu tìm kiếm sự khác biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T14:20:00+07:00",
+      "fetched": "2026-01-07T23:18:55.821147+07:00"
+    },
+    {
+      "id": "cfc8a827d60e5191b8c0faf43296ddb1",
+      "title": "Tổng thống Iran yêu cầu lực lượng an ninh không nhắm vào người biểu tình ôn hòa",
+      "link": "https://vnexpress.net/tong-thong-iran-yeu-cau-luc-luong-an-ninh-khong-nham-vao-nguoi-bieu-tinh-on-hoa-5003041.html",
+      "summary": "Tổng thống Iran ra lệnh cho lực lượng an ninh không sử dụng biện pháp trấn áp với người tuần hành ôn hòa, khi các cuộc biểu tình kéo dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T14:15:06+07:00",
+      "fetched": "2026-01-07T23:18:52.636075+07:00"
+    },
+    {
+      "id": "fd4823dcc9fdfe1ae087cdd1b08b599d",
+      "title": "Iran yêu cầu lực lượng an ninh không nhắm vào người biểu tình ôn hòa",
+      "link": "https://vnexpress.net/iran-yeu-cau-luc-luong-an-ninh-khong-nham-vao-nguoi-bieu-tinh-on-hoa-5003041.html",
+      "summary": "Tổng thống Iran ra lệnh cho lực lượng an ninh không sử dụng biện pháp trấn áp với người tuần hành ôn hòa, khi các cuộc biểu tình kéo dài.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T14:15:06+07:00",
+      "fetched": "2026-01-07T23:18:58.802524+07:00"
+    },
+    {
       "id": "bcca29fcd3ba3183726bceb04f1a229b",
       "title": "AFC chỉ định 'vua thẻ' người Iran cầm còi trận U.23 Việt Nam đại chiến Kyrgyzstan, trọng tài VAR là ai?",
       "link": "https://thanhnien.vn/afc-chi-dinh-vua-the-nguoi-iran-cam-coi-tran-u23-viet-nam-dai-chien-kyrgyzstan-trong-tai-var-la-ai-185260107210717255.htm",
@@ -611,6 +931,26 @@ window.newsData_2026_01_07 = {
       "category": "Tổng hợp",
       "published": "2026-01-07T14:01:00+07:00",
       "fetched": "2026-01-07T21:15:57.294665+07:00"
+    },
+    {
+      "id": "c1026b2a11a5bed5c830d6cf5a26ffe8",
+      "title": "Giá xe MG HS lập 'đáy' mới, xuống còn 530 triệu đồng",
+      "link": "https://thanhnien.vn/gia-xe-mg-hs-lap-day-moi-xuong-con-530-trieu-dong-185260107111642664.htm",
+      "summary": "Nhằm kích cầu tiêu dùng, MG HS mạnh tay ưu đãi giá xuống còn 530 triệu đồng, tạo áp lực cạnh tranh lên các mẫu xe trong phân khúc SUV đô thị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T14:01:00+07:00",
+      "fetched": "2026-01-07T23:18:55.821446+07:00"
+    },
+    {
+      "id": "d77cccf32adeec1527e541e869052126",
+      "title": "Tech Awards 2025 hoàn thiện sân khấu, khu triển lãm",
+      "link": "https://vnexpress.net/tech-awards-2025-hoan-thien-san-khau-khu-trien-lam-5003010.html",
+      "summary": "Êkíp Tech Awards 2025 kiểm tra hệ thống sân khấu, hạng mục kỹ thuật, âm thanh, ánh sáng, gian hàng triển lãm vào tối 7/1, sẵn sàng đón cộng đồng yêu công nghệ từ 9h ngày 8/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T14:00:00+07:00",
+      "fetched": "2026-01-07T23:18:52.636236+07:00"
     },
     {
       "id": "54b4a996b61c3349c21c485ee9342034",
@@ -671,6 +1011,16 @@ window.newsData_2026_01_07 = {
       "category": "Tổng hợp",
       "published": "2026-01-07T13:42:00+07:00",
       "fetched": "2026-01-07T21:15:57.294980+07:00"
+    },
+    {
+      "id": "e27c44d0c6815b81d51522b27b61ad6d",
+      "title": "Tàu ngầm Nga hộ tống tàu dầu đang bị Mỹ truy đuổi?",
+      "link": "https://thanhnien.vn/tau-ngam-nga-ho-tong-tau-dau-dang-bi-my-truy-duoi-185260107180818459.htm",
+      "summary": "Nga được cho là đã triển khai tàu ngầm đến hộ tống tàu dầu bị Mỹ truy bắt ngoài khơi Venezuela nhiều ngày qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:39:00+07:00",
+      "fetched": "2026-01-07T23:18:55.821928+07:00"
     },
     {
       "id": "00f7ea7dad1697f5bdcd7f99963a7fba",
