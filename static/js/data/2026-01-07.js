@@ -1,7 +1,147 @@
 window.newsData_2026_01_07 = {
   "date": "2026-01-07",
-  "lastUpdated": "2026-01-07T19:27:09.039093+07:00",
+  "lastUpdated": "2026-01-07T21:16:05.774735+07:00",
   "articles": [
+    {
+      "id": "b5e0c28e8cb704eb48890897b157d3f7",
+      "title": "Trung Quốc chuẩn bị săn băng nước ở cực nam Mặt trăng",
+      "link": "https://tuoitre.vn/trung-quoc-chuan-bi-san-bang-nuoc-o-cuc-nam-mat-trang-20260107113707386.htm",
+      "summary": "Dự kiến phóng nửa cuối 2026, sứ mệnh Chang’e 7 sẽ tìm băng nước ở cực nam Mặt trăng - bước then chốt cho tham vọng xây dựng căn cứ lâu dài của Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:15:58.381621+07:00",
+      "fetched": "2026-01-07T21:15:58.381735+07:00"
+    },
+    {
+      "id": "7aea7a0e4f9c4ecf1fe6e6965c50ada5",
+      "title": "Xây dựng TP.HCM thành trung tâm dịch vụ lớn của cả nước và khu vực theo 4 giai đoạn",
+      "link": "https://tuoitre.vn/xay-dung-tp-hcm-thanh-trung-tam-dich-vu-lon-cua-ca-nuoc-va-khu-vuc-theo-4-giai-doan-20260107180814698.htm",
+      "summary": "Sẽ có 7 nhóm giải pháp, 12 chương trình, dự án ưu tiên đầu tư từ 2025-2030 để phát triển ngành dịch vụ TP.HCM. Lộ trình xây dựng TP.HCM thành trung tâm dịch vụ tầm cỡ khu vực được triển khai theo 4 giai đoạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:15:58.381461+07:00",
+      "fetched": "2026-01-07T21:15:58.381607+07:00"
+    },
+    {
+      "id": "2cc6a0c202f113293904f6dfed8e2430",
+      "title": "Báo chí và trường đại học bàn giải pháp thúc đẩy khoa học công nghệ",
+      "link": "https://tuoitre.vn/bao-chi-va-truong-dai-hoc-ban-giai-phap-thuc-day-khoa-hoc-cong-nghe-20260107185949652.htm",
+      "summary": "Khoa học công nghệ giúp hiện đại hóa giáo dục và đào tạo, trong khi giáo dục và đào tạo cung cấp nguồn nhân lực chất lượng cao cho khoa học công nghệ, thực hiện đổi mới sáng tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:15:58.381334+07:00",
+      "fetched": "2026-01-07T21:15:58.381449+07:00"
+    },
+    {
+      "id": "b434c475deb73f86e10e5056ac6afa45",
+      "title": "VNeID mở rộng dịch vụ số: Đăng ký Internet, truyền hình, camera không cần giấy tờ",
+      "link": "https://tuoitre.vn/vneid-mo-rong-dich-vu-so-dang-ky-internet-truyen-hinh-camera-khong-can-giay-to-20260107190940395.htm",
+      "summary": "Việc tích hợp VNeID giúp người dùng đăng ký và sử dụng dịch vụ thuận tiện hơn, đồng thời đảm bảo an toàn, minh bạch, chuẩn xác cao hơn trong môi trường số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:15:58.381202+07:00",
+      "fetched": "2026-01-07T21:15:58.381322+07:00"
+    },
+    {
+      "id": "596efda4210bc298fadaa69c73b24ece",
+      "title": "Eleven có thật sự chết trong tập cuối Stranger Things?",
+      "link": "https://tuoitre.vn/eleven-co-that-su-chet-trong-tap-cuoi-stranger-things-2026010718360671.htm",
+      "summary": "Nhiều ngày sau khi phần cuối của series Stranger Things lên sóng Netflix, Sadie Sink - diễn viên thủ vai Max - đã gây chú ý khi chia sẻ quan điểm cá nhân về số phận của Eleven, nhân vật do Millie Bobby Brown đảm nhận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:15:58.381069+07:00",
+      "fetched": "2026-01-07T21:15:58.381190+07:00"
+    },
+    {
+      "id": "f54ca4198bcc0acf3ec49da000b540a7",
+      "title": "Trước Đại hội Đảng XIV: Nhiều đại sứ đánh giá cao thành tựu phát triển của Việt Nam",
+      "link": "https://tuoitre.vn/truoc-dai-hoi-dang-xiv-nhieu-dai-su-danh-gia-cao-thanh-tuu-phat-trien-cua-viet-nam-20260107192641073.htm",
+      "summary": "Các đại sứ, các trưởng đại diện tổ chức quốc tế tại Việt Nam đánh giá cao thành tựu phát triển thời gian qua và kỳ vọng vào những định hướng sắp tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:15:58.380942+07:00",
+      "fetched": "2026-01-07T21:15:58.381057+07:00"
+    },
+    {
+      "id": "478e3f232f0f7615959398cbc8df26f4",
+      "title": "Á khôi Hoài Phương vô địch thể thức pickleball mới lạ",
+      "link": "https://tuoitre.vn/a-khoi-hoai-phuong-vo-dich-the-thuc-pickleball-moi-la-20260107100900985.htm",
+      "summary": "Hoài Phương và 3 đồng đội vô địch ở giải AJ Pickleball theo thể thức MLP lạ, lần đầu được khởi xướng bởi chị em pickleball Việt kiều Alix và Jonathan Trương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:15:58.380812+07:00",
+      "fetched": "2026-01-07T21:15:58.380931+07:00"
+    },
+    {
+      "id": "039a15b35443e71d8a5aecdba49cfba7",
+      "title": "Trung Quốc điều tra chống bán phá giá với hóa chất bán dẫn dichlorosilane từ Nhật Bản",
+      "link": "https://tuoitre.vn/trung-quoc-dieu-tra-chong-ban-pha-gia-voi-hoa-chat-ban-dan-dichlorosilane-tu-nhat-ban-20260107194009538.htm",
+      "summary": "Trung Quốc đã khởi động cuộc điều tra chống bán phá giá liên quan đến hóa chất dichlorosilane nhập khẩu từ Nhật Bản, đánh dấu bước leo thang mới trong căng thẳng Bắc Kinh - Tokyo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:15:58.380677+07:00",
+      "fetched": "2026-01-07T21:15:58.380800+07:00"
+    },
+    {
+      "id": "598dcea5c151ad7ae34a0e1a6efedfcd",
+      "title": "Anh lập kỷ lục xe điện khi châu Âu 'đạp thắng' chuyển đổi xanh",
+      "link": "https://tuoitre.vn/anh-lap-ky-luc-xe-dien-khi-chau-au-dap-thang-chuyen-doi-xanh-20260107121007732.htm",
+      "summary": "Thị trường ô tô Anh đã ghi nhận một cột mốc lịch sử khi doanh số xe điện đạt mức kỷ lục trong năm 2025, chiếm gần 1/4 tổng số xe mới bán ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:15:58.380540+07:00",
+      "fetched": "2026-01-07T21:15:58.380665+07:00"
+    },
+    {
+      "id": "5798de5bfc56a11bc37392330e3620dd",
+      "title": "20 thanh niên khiêng võng băng rừng cứu cụ ông lâm bệnh giữa vùng bị cô lập",
+      "link": "https://tuoitre.vn/20-thanh-nien-khieng-vong-bang-rung-cuu-cu-ong-lam-benh-giua-vung-bi-co-lap-20260107202100078.htm",
+      "summary": "Giữa đêm, đường sá vào thôn Trỉa bị chia cắt do mưa lũ, người dân xã Hướng Phùng phải dùng võng khiêng một cụ ông 76 tuổi băng rừng, vượt suối nhiều giờ để kịp thời đi cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:15:58.380389+07:00",
+      "fetched": "2026-01-07T21:15:58.380504+07:00"
+    },
+    {
+      "id": "ccaf86d410610016a1eb93d4cbe57be4",
+      "title": "AFC: Bóng đá Malaysia đang ở tình huống 'rất nghiêm trọng', có thể bị FIFA tiếp quản",
+      "link": "https://tuoitre.vn/afc-bong-da-malaysia-dang-o-tinh-huong-rat-nghiem-trong-co-the-bi-fifa-tiep-quan-20260107202313193.htm",
+      "summary": "Sau điều tra vụ bê bối nhập tịch, AFC xác nhận bóng đá Malaysia đang ở tình huống 'rất nghiêm trọng', không loại trừ khả năng FIFA tiếp quản Liên đoàn Bóng đá nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:15:58.380257+07:00",
+      "fetched": "2026-01-07T21:15:58.380376+07:00"
+    },
+    {
+      "id": "290eb848519f4592fbf03a77a4b89d1d",
+      "title": "Yêu cầu tổng rà soát các cơ sở trợ giúp xã hội sau vụ học viên bị đánh chết",
+      "link": "https://tuoitre.vn/yeu-cau-tong-ra-soat-cac-co-so-tro-giup-xa-hoi-sau-vu-hoc-vien-bi-danh-chet-2026010720182623.htm",
+      "summary": "Cục Bảo trợ xã hội đề nghị các địa phương khẩn trương kiểm tra, chấn chỉnh cơ sở trợ giúp xã hội, nhất là ngoài công lập, sau vụ học viên bị đánh chết ở Quảng Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:15:58.380123+07:00",
+      "fetched": "2026-01-07T21:15:58.380245+07:00"
+    },
+    {
+      "id": "2413d95fcab3802dfa61786a4e80c1ed",
+      "title": "Hà Nội đặt mục tiêu phải xét xử 100 vụ án liên quan tới mại dâm trong năm 2026",
+      "link": "https://tuoitre.vn/ha-noi-dat-muc-tieu-phai-xet-xu-100-vu-an-lien-quan-toi-mai-dam-trong-nam-2026-20260107203009901.htm",
+      "summary": "Thông tin trên nằm trong kế hoạch về phòng chống mại dâm tại thủ đô năm 2026 do UBND TP Hà Nội ban hành ngày 7-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:15:58.379977+07:00",
+      "fetched": "2026-01-07T21:15:58.380110+07:00"
+    },
+    {
+      "id": "08033d15dd7694ab1413f7a047a6bc48",
+      "title": "Lợi nhuận Sacombank 'bốc hơi' 40% vì đâu?",
+      "link": "https://tuoitre.vn/loi-nhuan-sacombank-boc-hoi-40-vi-dau-20260107204118956.htm",
+      "summary": "Lợi nhuận trước thuế năm 2025 giảm 40% khiến Sacombank chỉ thực hiện được hơn 50% kế hoạch năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T21:15:58.379752+07:00",
+      "fetched": "2026-01-07T21:15:58.379961+07:00"
+    },
     {
       "id": "f82c97f34b6d8b7ddb62848a42139ed6",
       "title": "'Cô hầu gái' của Sydney Sweeney có phần tiếp theo sau thành công phòng vé",
@@ -453,6 +593,116 @@ window.newsData_2026_01_07 = {
       "fetched": "2026-01-07T15:19:12.800186+07:00"
     },
     {
+      "id": "bcca29fcd3ba3183726bceb04f1a229b",
+      "title": "AFC chỉ định 'vua thẻ' người Iran cầm còi trận U.23 Việt Nam đại chiến Kyrgyzstan, trọng tài VAR là ai?",
+      "link": "https://thanhnien.vn/afc-chi-dinh-vua-the-nguoi-iran-cam-coi-tran-u23-viet-nam-dai-chien-kyrgyzstan-trong-tai-var-la-ai-185260107210717255.htm",
+      "summary": "Liên đoàn Bóng đá châu Á (AFC) mới đây chính thức công bố tổ trọng tài sẽ điều hành trận U.23 Việt Nam gặp U.23 Kyrgyzstan tại lượt trận thứ hai bảng A vòng chung kết U23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T14:11:00+07:00",
+      "fetched": "2026-01-07T21:15:57.294475+07:00"
+    },
+    {
+      "id": "d28b829f46319f12d2d132d72fb40db3",
+      "title": "Giá xe MG HS lập 'đáy' giá mới, xuống còn 530 triệu đồng",
+      "link": "https://thanhnien.vn/gia-xe-mg-hs-lap-day-gia-moi-xuong-con-530-trieu-dong-185260107111642664.htm",
+      "summary": "Nhằm kích cầu tiêu dùng, MG HS mạnh tay ưu đãi giá xuống còn 530 triệu đồng, tạo áp lực cạnh tranh lên các mẫu xe trong phân khúc SUV đô thị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T14:01:00+07:00",
+      "fetched": "2026-01-07T21:15:57.294665+07:00"
+    },
+    {
+      "id": "54b4a996b61c3349c21c485ee9342034",
+      "title": "Cấm lưu thông qua đèo Prenn trong 1 tuần để khắc phục sạt lở",
+      "link": "https://thanhnien.vn/cam-luu-thong-qua-deo-prenn-trong-1-tuan-de-khac-phuc-sat-lo-185260107202812039.htm",
+      "summary": "Sở Xây dựng tỉnh Lâm Đồng vừa ban hành thông báo tạm cấm các phương tiện lưu thông qua đèo Prenn, đoạn từ chân đèo đến thác Datanla, trong 1 tuần để tiếp tục khắc phục sạt lở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:54:00+07:00",
+      "fetched": "2026-01-07T21:15:57.294826+07:00"
+    },
+    {
+      "id": "3c255c400dc043ceb0d66c7556cbe43e",
+      "title": "Ngôi sao AI bỏ ghế giáo sư Mỹ về Trung Quốc",
+      "link": "https://vnexpress.net/ngoi-sao-ai-bo-ghe-giao-su-my-ve-trung-quoc-5002933.html",
+      "summary": "Ling Haibin - \"cha đẻ\" ứng dụng di động nhận diện thực vật đầu tiên thế giới với hơn 51.000 lượt trích dẫn, rời Đại học Stony Brook về đầu quân cho Đại học Tây Hồ, Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:52:21+07:00",
+      "fetched": "2026-01-07T21:15:54.122966+07:00"
+    },
+    {
+      "id": "7c985da033742911e77719654ed62b8c",
+      "title": "Chiến dịch đột kích, bắt Tổng thống Venezuela của Mỹ qua ảnh",
+      "link": "https://vnexpress.net/chien-dich-dot-kich-bat-tong-thong-venezuela-cua-my-qua-anh-5003023.html",
+      "summary": "Cuộc tập kích lúc rạng sáng của đặc nhiệm Mỹ để bắt vợ chồng ông Maduro gây chấn động dư luận, khiến bầu không khí căng thẳng bao trùm Caracas.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:51:56+07:00",
+      "fetched": "2026-01-07T21:15:54.123149+07:00"
+    },
+    {
+      "id": "7c985da033742911e77719654ed62b8c",
+      "title": "Chiến dịch đột kích, bắt Tổng thống Venezuela của Mỹ qua ảnh",
+      "link": "https://vnexpress.net/chien-dich-dot-kich-bat-tong-thong-venezuela-cua-my-qua-anh-5003023.html",
+      "summary": "Cuộc tập kích lúc rạng sáng của đặc nhiệm Mỹ để bắt vợ chồng ông Maduro gây chấn động dư luận, khiến bầu không khí căng thẳng bao trùm Caracas.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T13:51:56+07:00",
+      "fetched": "2026-01-07T21:15:59.664774+07:00"
+    },
+    {
+      "id": "922a92fdbf2c85233e829cf248a80533",
+      "title": "Sân bay Đồng Hới tạm dừng tiếp nhận máy bay buổi tối",
+      "link": "https://vnexpress.net/san-bay-dong-hoi-tam-dung-tiep-nhan-may-bay-buoi-toi-5003039.html",
+      "summary": "Trong các buổi tối từ 7 đến 9/1, sân bay Đồng Hới tại tỉnh Quảng Bình sẽ tạm dừng tiếp nhận máy bay để phục vụ thi công hệ thống điện, theo Cục Hàng không Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:48:42+07:00",
+      "fetched": "2026-01-07T21:15:54.123311+07:00"
+    },
+    {
+      "id": "a88cc8cc880718cfae9c3a09e05c8c3d",
+      "title": "'BTV màu tím' của VTV giờ ra sao?",
+      "link": "https://thanhnien.vn/btv-mau-tim-cua-vtv-gio-ra-sao-185260107204251958.htm",
+      "summary": "Gần 17 năm làm nghề, trong đó có gần 5 năm lên sóng talk show Phố Tài chính trên VTV8, hình ảnh biên tập viên (BTV) Mùi Khánh Ly đã gắn chặt với thị trường chứng khoán. Cô cũng đã nhận được nhiều giải thưởng và khán giả ưu ái gọi cô là 'BTV màu tím', 'thiên thần áo tím'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:42:00+07:00",
+      "fetched": "2026-01-07T21:15:57.294980+07:00"
+    },
+    {
+      "id": "00f7ea7dad1697f5bdcd7f99963a7fba",
+      "title": "U.23 Nhật Bản thị uy sức mạnh bằng chiến thắng 5 sao, U.23 Hàn Quốc hòa nhạt Iran",
+      "link": "https://thanhnien.vn/u23-nhat-ban-thi-uy-suc-manh-bang-chien-thang-5-sao-u23-han-quoc-hoa-nhat-iran-185260107202920441.htm",
+      "summary": "U.23 Nhật Bản đã thể hiện sức mạnh, thắng dễ U.23 Syria 5-0 ở trận ra quân diễn ra tối 7.1. Trong khi đó, U.23 Hàn Quốc gặp nhiều khó khăn và chỉ có được 1 điểm ở trận gặp U.23 Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:32:00+07:00",
+      "fetched": "2026-01-07T21:15:57.295131+07:00"
+    },
+    {
+      "id": "d8fa2e7c0ddb5ff82556b97e9e773ca1",
+      "title": "Tổng thống Hàn Quốc đề xuất đóng băng chương trình hạt nhân Triều Tiên",
+      "link": "https://thanhnien.vn/tong-thong-han-quoc-de-xuat-dong-bang-chuong-trinh-hat-nhan-trieu-tien-185260107171033354.htm",
+      "summary": "Tổng thống Hàn Quốc Lee Jae Myung đã đề nghị Chủ tịch nước Trung Quốc Tập Cận Bình làm trung gian hòa giải với CHDCND Triều Tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:23:00+07:00",
+      "fetched": "2026-01-07T21:15:57.295285+07:00"
+    },
+    {
+      "id": "df863abfc81a6459fc17991fda8d5ade",
+      "title": "Bắt quả tang 2 người vận chuyển 357 kg pháo lậu từ Campuchia qua Việt Nam",
+      "link": "https://thanhnien.vn/bat-qua-tang-2-nguoi-van-chuyen-357-kg-phao-lau-tu-campuchia-qua-viet-nam-185260107184332591.htm",
+      "summary": "Dùng thuyền gỗ vận chuyển 357 kg pháo lậu từ Campuchia qua Việt Nam, hai nghi phạm bị Công an tỉnh Quảng Ngãi tạm giữ để điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:21:00+07:00",
+      "fetched": "2026-01-07T21:15:57.295437+07:00"
+    },
+    {
       "id": "1ad9030a153a5b1b8c593e6b97c5bc37",
       "title": "Đại gia bí ẩn 'chơi lớn', mua cổ phần Miliket giá gấp 3 lần giá thị trường",
       "link": "https://tuoitre.vn/dai-gia-bi-an-choi-lon-mua-co-phan-miliket-gia-gap-3-lan-gia-thi-truong-20260107113430541.htm",
@@ -601,6 +851,236 @@ window.newsData_2026_01_07 = {
       "category": "Tổng hợp",
       "published": "2026-01-07T13:20:45.616323+07:00",
       "fetched": "2026-01-07T13:20:45.616532+07:00"
+    },
+    {
+      "id": "56187272d727a220880587911e6f4bb5",
+      "title": "'Đại hội XIV là dấu mốc đặc biệt quan trọng trong quá trình phát triển đất nước'",
+      "link": "https://thanhnien.vn/dai-hoi-xiv-la-dau-moc-dac-biet-quan-trong-trong-qua-trinh-phat-trien-dat-nuoc-185260107191807322.htm",
+      "summary": "Bộ trưởng Bộ Ngoại giao Lê Hoài Trung khẳng định, Đại hội Đảng toàn quốc lần thứ XIV mang ý nghĩa bước ngoặt, là dấu mốc đặc biệt quan trọng trong quá trình phát triển đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:15:00+07:00",
+      "fetched": "2026-01-07T21:15:57.295608+07:00"
+    },
+    {
+      "id": "a5c4fdae848a5ab41a1d2c41f6929d85",
+      "title": "Tiệm bánh mì gây ngộ độc ở Phan Thiết bị đình chỉ 4 tháng",
+      "link": "https://vnexpress.net/tiem-banh-mi-gay-ngo-doc-o-phan-thiet-bi-dinh-chi-4-thang-5003027.html",
+      "summary": "Sau vụ ngộ độc thực phẩm khiến 97 người nhập viện ở Phan Thiết, chủ tiệm bánh mì Bibone bị UBND tỉnh Lâm Đồng phạt 92 triệu đồng và đình chỉ hoạt động trong 4 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:14:03+07:00",
+      "fetched": "2026-01-07T21:15:54.123471+07:00"
+    },
+    {
+      "id": "ec882c955ffc703ca5110b1ab2f22f9a",
+      "title": "Ngoại hình của Kiều Minh Tuấn sau khi giảm 26kg",
+      "link": "https://thanhnien.vn/ngoai-hinh-cua-kieu-minh-tuan-sau-khi-giam-26kg-185260107162021057.htm",
+      "summary": "Nhằm hóa thân thành nghệ sĩ xiếc trong 'Con kể ba nghe', Kiều Minh Tuấn phải giảm hơn 26kg, đồng thời tập luyện các động tác mạo hiểm để phục vụ cho vai diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:14:00+07:00",
+      "fetched": "2026-01-07T21:15:57.295765+07:00"
+    },
+    {
+      "id": "4623aa79e3781d4036064fba8da17f4b",
+      "title": "Quảng Ninh tặng tiền cho thôn, tổ dân phố chuẩn bị Tết",
+      "link": "https://vnexpress.net/quang-ninh-tang-tien-cho-thon-to-dan-pho-chuan-bi-tet-5003038.html",
+      "summary": "Dịp Tết Nguyên đán Bính Ngọ 2026, tỉnh Quảng Ninh hỗ trợ mỗi thôn, khu phố 10 triệu đồng để trang trí, tổ chức các hoạt động văn hóa, văn nghệ đón giao thừa, phục vụ nhân dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:13:28+07:00",
+      "fetched": "2026-01-07T21:15:54.123659+07:00"
+    },
+    {
+      "id": "dc91a4dcd28eac798b74fe57aa9edbc3",
+      "title": "Làm rõ đường dây lừa đảo đầu tư vàng trực tuyến, rửa tiền",
+      "link": "https://thanhnien.vn/lam-ro-duong-day-lua-dao-dau-tu-vang-truc-tuyen-rua-tien-185260107191628615.htm",
+      "summary": "Công an TP.Đà Nẵng đang làm rõ đường dây lừa đảo đầu tư vàng trực tuyến, rửa tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:10:00+07:00",
+      "fetched": "2026-01-07T21:15:57.295915+07:00"
+    },
+    {
+      "id": "9abacac9ac6ebb0d709c98982aa32114",
+      "title": "Venezuela thay tư lệnh đội cận vệ Tổng thống",
+      "link": "https://vnexpress.net/venezuela-thay-tu-lenh-doi-can-ve-tong-thong-5003036.html",
+      "summary": "Tổng thống lâm thời Venezuela Rodriguez bổ nhiệm tướng Gonzalez Lopez làm chỉ huy mới của Đội cận vệ Phủ Tổng thống kiêm lãnh đạo tình báo quân sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:07:12+07:00",
+      "fetched": "2026-01-07T21:15:54.123824+07:00"
+    },
+    {
+      "id": "9abacac9ac6ebb0d709c98982aa32114",
+      "title": "Venezuela thay tư lệnh đội cận vệ Tổng thống",
+      "link": "https://vnexpress.net/venezuela-thay-tu-lenh-doi-can-ve-tong-thong-5003036.html",
+      "summary": "Tổng thống lâm thời Venezuela Rodriguez bổ nhiệm tướng Gonzalez Lopez làm chỉ huy mới của Đội cận vệ Phủ Tổng thống kiêm lãnh đạo tình báo quân sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T13:07:12+07:00",
+      "fetched": "2026-01-07T21:15:59.664962+07:00"
+    },
+    {
+      "id": "742d03519b41df10714e4a423f9c5913",
+      "title": "Thống kê bất ngờ ở giải U.23 châu Á: U.23 Việt Nam xếp trên Thái Lan",
+      "link": "https://thanhnien.vn/thong-ke-bat-ngo-o-giai-u23-chau-a-u23-viet-nam-xep-tren-thai-lan-185260107195741781.htm",
+      "summary": "Thống kê cho thấy, các đội bóng thuộc khu vực Đông Nam Á vẫn thua thiệt về thể hình so với đại diện của khu vực Tây Á và Đông Á. Ở chỉ số này, U.23 Việt Nam, xếp trên Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:07:00+07:00",
+      "fetched": "2026-01-07T21:15:57.296068+07:00"
+    },
+    {
+      "id": "814f9887aa2bfe2178710a3c571cf93b",
+      "title": "Tên chợ Hàng Da bắt nguồn từ hàng hoá nào?",
+      "link": "https://vnexpress.net/ten-cho-hang-da-bat-nguon-tu-hang-hoa-nao-5002835.html",
+      "summary": "Chợ Hàng Da có lịch sử từ thế kỷ 15-17, từng là khu chợ trời, sau đó được xây dựng kiên cố, đến năm 2010 thành Trung tâm Thương mại Hàng Da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:05:41+07:00",
+      "fetched": "2026-01-07T21:15:54.123985+07:00"
+    },
+    {
+      "id": "e04b2a5dd11fdefaf1d50781ddf68821",
+      "title": "Những đánh đổi ít được nhắc đến khi mua laptop chơi game",
+      "link": "https://thanhnien.vn/nhung-danh-doi-it-duoc-nhac-den-khi-mua-laptop-choi-game-185260105130001536.htm",
+      "summary": "Laptop chơi game đang trở thành lựa chọn phổ biến cho những ai tìm kiếm thiết bị hiệu năng cao mà vẫn đảm bảo tính di động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:05:00+07:00",
+      "fetched": "2026-01-07T21:15:57.296216+07:00"
+    },
+    {
+      "id": "42a243f077f90ede1c6486ba9b57805c",
+      "title": "Lễ tang huyền thoại điện ảnh Brigitte Bardot",
+      "link": "https://vnexpress.net/le-tang-huyen-thoai-dien-anh-brigitte-bardot-5002939.html",
+      "summary": "Đại diện của minh tinh Brigitte Bardot cho biết tang lễ được tổ chức đơn giản, phản ánh đúng con người lúc sinh thời của bà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:02:59+07:00",
+      "fetched": "2026-01-07T21:15:54.124160+07:00"
+    },
+    {
+      "id": "8931be7a6b6738de54b83547f8ba29e7",
+      "title": "50 giờ truy vết kẻ cướp giật tiệm vàng ở Lâm Đồng",
+      "link": "https://vnexpress.net/cuop-tiem-vang-o-cho-nhan-co-lam-dong-5002995.html",
+      "summary": "Cướp giật số vàng trị giá 500 triệu đồng, Phan Bảo Nhật, 33 tuổi, liên tục đổi phương tiện, thay trang phục, di chuyển hơn 450 km định trốn sang Lào nhưng bị bắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:00:00+07:00",
+      "fetched": "2026-01-07T21:15:54.124322+07:00"
+    },
+    {
+      "id": "0c51300bd564eeae582b40e5ae850a72",
+      "title": "Xoay xở trong những chung cư chưa sẵn sàng đón nhận xe điện",
+      "link": "https://vnexpress.net/xoay-xo-trong-nhung-chung-cu-chua-san-sang-don-nhan-xe-dien-5002905.html",
+      "summary": "Hầm xe chung cư vốn luôn trong tình trạng căng thẳng, chỉ cần thay đổi một chút về phân khu hay quy định là lập tức nảy sinh bất tiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:00:00+07:00",
+      "fetched": "2026-01-07T21:15:54.124478+07:00"
+    },
+    {
+      "id": "d05f6c111da48bc3a58f42feab18c7ca",
+      "title": "Chơi vơi khi tiếp cận người cũ dù cả hai đều có gia đình hạnh phúc",
+      "link": "https://vnexpress.net/choi-voi-khi-tiep-can-nguoi-cu-du-ca-hai-deu-co-gia-dinh-hanh-phuc-5001763.html",
+      "summary": "Em có chồng con, kinh tế vững vàng.; tôi cũng có vợ, con, sự nghiệp và kinh tế vững chắc ở nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:00:00+07:00",
+      "fetched": "2026-01-07T21:15:54.124656+07:00"
+    },
+    {
+      "id": "7000ff205447aece247f640c994bb5f7",
+      "title": "Hoãn mang bầu sau khi phát hiện nhiễm HPV",
+      "link": "https://vnexpress.net/hoan-mang-bau-sau-khi-phat-hien-nhiem-hpv-5003030.html",
+      "summary": "Loan, 28 tuổi, ở Lâm Đồng, nhiễm HPV type nguy cơ cao trong lần đi khám sức khỏe định kỳ, tiếp tục hoãn kế hoạch sinh con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:00:00+07:00",
+      "fetched": "2026-01-07T21:15:54.124810+07:00"
+    },
+    {
+      "id": "ee64e108ae4464dac0e7df2577462bb9",
+      "title": "Xem nhanh 20h ngày 7.1: Cháy du thuyền trên sông Sài Gòn | LHQ lên tiếng vụ Mỹ tấn công Venezuela",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-71-chay-du-thuyen-tren-song-sai-gon-lhq-len-tieng-vu-my-tan-cong-venezuela-185260107194334809.htm",
+      "summary": "'Xem nhanh 20h' ngày 7.1 có nhiều tin tức đáng chú ý về: Cháy du thuyền trên sông Sài Gòn, khói đen bốc cao ngùn ngụt; Liên Hiệp Quốc: Mỹ vi phạm nghiêm trọng luật quốc tế khi tấn công Venezuela;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:00:00+07:00",
+      "fetched": "2026-01-07T21:15:57.296368+07:00"
+    },
+    {
+      "id": "b9140705dcfffb6c7c93caa14ccbc4aa",
+      "title": "Mai Phương hát 'Hò Vươn Mình' mừng sinh nhật 40 năm Báo Thanh Niên",
+      "link": "https://thanhnien.vn/mai-phuong-hat-ho-vuon-minh-mung-sinh-nhat-40-nam-bao-thanh-nien-185260106220051027.htm",
+      "summary": "Hoa hậu - ca sĩ Mai Phương mang âm hưởng dân gian đương đại đến lễ kỷ niệm 40 năm ngày Báo Thanh Niên ra số báo đầu tiên qua tiết mục \"Hò Vươn Mình\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:00:00+07:00",
+      "fetched": "2026-01-07T21:15:57.296539+07:00"
+    },
+    {
+      "id": "e55a130d9c2722a676e4a8fd90cfd2fd",
+      "title": "Mũ beanie và áo trắng: sự kết hợp ‘ngỡ không hợp mà hợp không tưởng’",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mu-beanie-va-ao-trang-su-ket-hop-ngo-khong-hop-ma-hop-khong-tuong-185260106163802231.htm",
+      "summary": "Không cần quá nhiều chi tiết cầu kỳ, đôi khi chính những lựa chọn tối giản lại tạo nên dấu ấn mạnh mẽ nhất. Sự kết hợp giữa mũ beanie và áo trắng là minh chứng rõ ràng cho tinh thần 'less is more' trong thời trang hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T13:00:00+07:00",
+      "fetched": "2026-01-07T21:15:57.296693+07:00"
+    },
+    {
+      "id": "ce174d725167e59a9594b1d9dce68ba4",
+      "title": "Hãng RAM, SSD cam kết không tăng giá ở Việt Nam",
+      "link": "https://vnexpress.net/hang-ram-ssd-cam-ket-khong-tang-gia-o-viet-nam-5002399.html",
+      "summary": "Hãng Kingmax cùng các nhà phân phối tại Việt Nam thỏa thuận không tăng giá sản phẩm với người dùng cuối trong quý 1/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T12:55:00+07:00",
+      "fetched": "2026-01-07T21:15:54.124965+07:00"
+    },
+    {
+      "id": "ce174d725167e59a9594b1d9dce68ba4",
+      "title": "Hãng RAM, SSD cam kết không tăng giá ở Việt Nam",
+      "link": "https://vnexpress.net/hang-ram-ssd-cam-ket-khong-tang-gia-o-viet-nam-5002399.html",
+      "summary": "Hãng Kingmax cùng các nhà phân phối tại Việt Nam thỏa thuận không tăng giá sản phẩm với người dùng cuối trong quý 1/2026.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-07T12:55:00+07:00",
+      "fetched": "2026-01-07T21:16:04.034088+07:00"
+    },
+    {
+      "id": "2c5ec1f6cbc59e511e171e683d6289c3",
+      "title": "Nhà thôi miên xâm hại tình dục hàng loạt phụ nữ",
+      "link": "https://vnexpress.net/nha-thoi-mien-xam-hai-tinh-duc-hang-loat-phu-nu-5003028.html",
+      "summary": "Cyril Zattara, 47 tuổi, đang bị xét xử với cáo buộc chuốc thuốc mê và lạm dụng tình dục 14 phụ nữ trong vòng một thập kỷ, đồng thời quay video quá trình tấn công 20 nạn nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T12:42:54+07:00",
+      "fetched": "2026-01-07T21:15:54.125125+07:00"
+    },
+    {
+      "id": "ffc6d2ce05e425188bc766048e4d68ae",
+      "title": "Chuyên gia Đông y nêu 5 'sát thủ' thầm lặng phá hủy dạ dày",
+      "link": "https://vnexpress.net/chuyen-gia-dong-y-neu-5-sat-thu-tham-lang-pha-huy-da-day-5002997.html",
+      "summary": "Tránh ăn quá no, lười vận động, uống lạnh, ăn khuya và đồ cực đoan có thể giúp giữ hệ tiêu hóa khỏe mạnh, theo chuyên gia Chee Hee Seng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T12:40:56+07:00",
+      "fetched": "2026-01-07T21:15:54.125285+07:00"
+    },
+    {
+      "id": "6332030bb5912e998199d934274c893d",
+      "title": "Rosenior ra mắt Chelsea, ký hợp đồng đến 2032",
+      "link": "https://vnexpress.net/rosenior-ra-mat-chelsea-ky-hop-dong-den-2032-5003022.html",
+      "summary": "Sáng 7/1, HLV người Anh Liam Rosenior có mặt tại trung tâm huấn luyện Cobham để hoàn tất thủ tục ký kết và bắt đầu hành trình mới cùng Chelsea.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-07T12:26:21+07:00",
+      "fetched": "2026-01-07T21:16:05.762555+07:00"
     },
     {
       "id": "6e9a239e7c7859b07142dd6eb41f1cd5",
