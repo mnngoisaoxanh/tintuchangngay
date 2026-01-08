@@ -1,7 +1,117 @@
 window.newsData_2026_01_08 = {
   "date": "2026-01-08",
-  "lastUpdated": "2026-01-08T05:12:43.318637+07:00",
+  "lastUpdated": "2026-01-08T08:01:22.098992+07:00",
   "articles": [
+    {
+      "id": "27a6b8cc5299062dcc86f256e84965d8",
+      "title": "Thời tiết hôm nay 8-1: Không khí lạnh đã lan tới Nam Trung Bộ, Bắc Bộ giá rét",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-8-1-khong-khi-lanh-da-lan-toi-nam-trung-bo-bac-bo-gia-ret-20260107154848476.htm",
+      "summary": "Hôm nay 8-1, không khí lạnh đã tràn tới Nam Trung Bộ và tiếp tục khuếch tán sâu vào phía Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T08:01:15.888918+07:00",
+      "fetched": "2026-01-08T08:01:15.889028+07:00"
+    },
+    {
+      "id": "9a5428bdfa9b83c4f3275da4f3bd1f4f",
+      "title": "Mỹ cấm nhập 12 nhóm loài thủy sản: Nghề biển phải chuyển đổi, thích nghi",
+      "link": "https://tuoitre.vn/my-cam-nhap-12-nhom-loai-thuy-san-nghe-bien-phai-chuyen-doi-thich-nghi-20260107225709259.htm",
+      "summary": "Do Mỹ cấm nhập 12 nhóm loài thủy sản đánh bắt bằng lưới rê, lưới ké và lưới vây, ngư dân và doanh nghiệp thủy sản đứng trước nhiều băn khoăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T08:01:15.888794+07:00",
+      "fetched": "2026-01-08T08:01:15.888907+07:00"
+    },
+    {
+      "id": "dbbb9f5b9717d3d62d47fb1d702ac69d",
+      "title": "Brighton trói chân Man City trong cuộc đua vô địch",
+      "link": "https://tuoitre.vn/brighton-troi-chan-man-city-trong-cuoc-dua-vo-dich-20260108050755697.htm",
+      "summary": "Rạng sáng 8-1, Man City đã để Brighton cầm chân 1-1 ở vòng 21 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T08:01:15.888663+07:00",
+      "fetched": "2026-01-08T08:01:15.888779+07:00"
+    },
+    {
+      "id": "bce13f67ac9c33cbe1fc623979021930",
+      "title": "Lịch trực tiếp U23 châu Á 2026: U23 Thái Lan gặp Úc, Trung Quốc đụng Iraq",
+      "link": "https://tuoitre.vn/lich-truc-tiep-u23-chau-a-2026-u23-thai-lan-gap-uc-trung-quoc-dung-iraq-20260107162816373.htm",
+      "summary": "Từ lúc 18h30 hôm nay 8-1, mọi sự chú ý của các CĐV sẽ đổ dồn về 2 trận đấu ở bảng D Giải U23 châu Á 2026: U23 Úc gặp Thái Lan, và U23 Iraq đụng Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T08:01:15.888512+07:00",
+      "fetched": "2026-01-08T08:01:15.888650+07:00"
+    },
+    {
+      "id": "76feec4be61f43d0cce3fce2b1be4a0e",
+      "title": "Ông Bùi Đức Lập làm Phó cục trưởng Cục An toàn thực phẩm",
+      "link": "https://tuoitre.vn/ong-bui-duc-lap-lam-pho-cuc-truong-cuc-an-toan-thuc-pham-20260107232737272.htm",
+      "summary": "Bộ trưởng Bộ Y tế Đào Hồng Lan vừa có quyết định số 01 điều động, bổ nhiệm ông Bùi Đức Lập - dược sĩ, Chánh Văn phòng Cục Quản lý dược, Bộ Y tế - làm Phó cục trưởng Cục An toàn thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T08:01:15.888390+07:00",
+      "fetched": "2026-01-08T08:01:15.888500+07:00"
+    },
+    {
+      "id": "fbc96238821791181b3e242a85df61c8",
+      "title": "Giải thưởng Con đường Thiên Lý đầu tiên trao cho tác phẩm ‘giống’ tranh Lê Phổ?",
+      "link": "https://tuoitre.vn/giai-thuong-con-duong-thien-ly-dau-tien-trao-cho-tac-pham-giong-tranh-le-pho-20260107222222067.htm",
+      "summary": "Giải thưởng mỹ thuật Con đường Thiên Lý vừa được trao cho ‘Trốn tìm’ của Nguyễn Nguyệt Anh và ‘Nguyện đường An Nam’ của Lâm Gia Huấn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T08:01:15.888264+07:00",
+      "fetched": "2026-01-08T08:01:15.888379+07:00"
+    },
+    {
+      "id": "aa595cf13bb18372895f43406854346c",
+      "title": "Đỏ lửa trong sớm rét mướt, phở nóng sẵn sàng cho trẻ em Hòa Thịnh",
+      "link": "https://tuoitre.vn/do-lua-trong-som-ret-muot-pho-nong-san-sang-cho-tre-em-hoa-thinh-20260108054330875.htm",
+      "summary": "Từ sáng sớm ở vùng lũ xã Hòa Thịnh, Đắk Lắk (trước là Phú Yên cũ), những nồi phở nghi ngút khói được nhóm lửa từ hôm trước đã sẵn sàng phục vụ những tô phở yêu thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T08:01:15.888139+07:00",
+      "fetched": "2026-01-08T08:01:15.888252+07:00"
+    },
+    {
+      "id": "43523a3035b89df8582f6746d3676525",
+      "title": "Sesko lập cú đúp, Man United vẫn bị cầm chân ở trận ra mắt của Fletcher",
+      "link": "https://tuoitre.vn/sesko-lap-cu-dup-man-united-van-bi-cam-chan-o-tran-ra-mat-cua-fletcher-20260108060552633.htm",
+      "summary": "Rạng sáng 8-1, Man United đã để Burnley cầm chân 2-2 ở vòng 21 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T08:01:15.888014+07:00",
+      "fetched": "2026-01-08T08:01:15.888128+07:00"
+    },
+    {
+      "id": "84d0bd74e60d1f07ff7a2402cc200340",
+      "title": "Tin tức thế giới 8-1: Mỹ rút khỏi 66 tổ chức quốc tế; Venezuela mua hàng hóa Mỹ",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-8-1-my-rut-khoi-66-to-chuc-quoc-te-venezuela-mua-hang-hoa-my-20260108060704861.htm",
+      "summary": "Venezuela sẽ mua hàng hóa Mỹ bằng tiền thu được từ dầu mỏ; Ông Trump đề xuất tăng ngân sách quốc phòng thêm 50%, lên 1.500 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T08:01:15.887885+07:00",
+      "fetched": "2026-01-08T08:01:15.888003+07:00"
+    },
+    {
+      "id": "f62f59379a684cfd225bf64462e00700",
+      "title": "Sự sống trên Trái đất có thể không khởi đầu từ ADN như ta tưởng",
+      "link": "https://tuoitre.vn/su-song-tren-trai-dat-co-the-khong-khoi-dau-tu-adn-nhu-ta-tuong-2026010709384475.htm",
+      "summary": "Kết quả nghiên cứu mới củng cố giả thuyết ARN xuất hiện trước ADN, thay đổi cách nhìn về lịch sử sự sống trên Trái đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T08:01:15.887748+07:00",
+      "fetched": "2026-01-08T08:01:15.887873+07:00"
+    },
+    {
+      "id": "985bdfa543e6f106344faa1f6a525246",
+      "title": "TP.HCM ủng hộ Khang Điền chỉnh trang chợ Bến Thành, đường Nguyễn Huệ, Đồng Khởi trước Tết",
+      "link": "https://tuoitre.vn/tp-hcm-ung-ho-khang-dien-chinh-trang-cho-ben-thanh-duong-nguyen-hue-dong-khoi-truoc-tet-2026010722350327.htm",
+      "summary": "Thành ủy TP.HCM vừa có văn bản ủng hộ đề xuất của Công ty cổ phần đầu tư và kinh doanh nhà  Khang Điền tiếp tục chỉnh trang chợ Bến Thành, tuyến đường Nguyễn Huệ, Đồng Khởi, các vòng xoay ở khu trung tâm thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T08:01:15.887497+07:00",
+      "fetched": "2026-01-08T08:01:15.887733+07:00"
+    },
     {
       "id": "bfb10c5c2ddce1cc4bcf9207b2009a2a",
       "title": "Vì sao Trung Quốc mua nhiều phế liệu từ EU?",
@@ -173,6 +283,406 @@ window.newsData_2026_01_08 = {
       "fetched": "2026-01-08T01:20:14.484441+07:00"
     },
     {
+      "id": "30f9011eb13b328a9e3ab12388f2a889",
+      "title": "GAC Việt Nam khởi đầu năm mới với ngập tràn ưu đãi",
+      "link": "https://thanhnien.vn/gac-viet-nam-khoi-dau-nam-moi-voi-ngap-tran-uu-dai-185260107202238494.htm",
+      "summary": "Như một lời chúc khởi đầu năm mới 2026 tràn đầy may mắn và sung túc, GAC Việt Nam mang đến chương trình 'Cùng GAC Đón Xuân Như Ý' đối với toàn bộ các phiên bản của bộ đôi GAC All-New M8 và GAC All-New GS8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T01:00:00+07:00",
+      "fetched": "2026-01-08T08:01:15.111047+07:00"
+    },
+    {
+      "id": "82e8200d51cf7ae038ac2419f7cea583",
+      "title": "Những kép độc... dễ thương",
+      "link": "https://thanhnien.vn/nhung-kep-doc-de-thuong-185260107201054559.htm",
+      "summary": "Trên sân khấu, có những nam nghệ sĩ sở trường đóng vai kép độc, là dạng nhân vật khiến người xem \"thấy ghét\". Nhưng kỳ thật, ngoài đời họ rất dễ thương, hiền lành, tử tế, chuẩn mực. Con đường sự nghiệp có khi éo le như thế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T01:00:00+07:00",
+      "fetched": "2026-01-08T08:01:15.111213+07:00"
+    },
+    {
+      "id": "6f50148ea0e403f8f71783cb5e6236dd",
+      "title": "TBS Group - Hành trình từ đôi giày vững chãi, đến những bước sống êm ái",
+      "link": "https://thanhnien.vn/tbs-group-hanh-trinh-tu-doi-giay-vung-chai-den-nhung-buoc-song-em-ai-185260107191717947.htm",
+      "summary": "Với Green Skyline, TBS Land chọn cách chứng minh hiện hữu: khách hàng không cần đặt niềm tin vào lời hứa, mà có thể trực tiếp nhìn thấy, chạm vào và cảm nhận không gian sống tương lai của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T01:00:00+07:00",
+      "fetched": "2026-01-08T08:01:15.111371+07:00"
+    },
+    {
+      "id": "bb7c6cdd8f6b60323e012c217625130c",
+      "title": "Những kỹ năng nào được doanh nghiệp săn đón năm 2026 ?",
+      "link": "https://thanhnien.vn/nhung-ky-nang-nao-duoc-doanh-nghiep-san-don-nam-2026-185260107182946491.htm",
+      "summary": "Đại diện không ít doanh nghiệp cho biết bước sang năm 2026, thị trường lao động không còn ưu ái những hồ sơ \"đẹp bề ngoài\" mà chuyển sang săn lùng những nhóm kỹ năng rất cụ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T01:00:00+07:00",
+      "fetched": "2026-01-08T08:01:15.111528+07:00"
+    },
+    {
+      "id": "01c10573699faf9424df94f22bbb5aaf",
+      "title": "Dấu ấn doanh số năm 2025: Ecovacs tăng 67%, Tineco tăng gấp 4,5 lần tại Việt Nam",
+      "link": "https://thanhnien.vn/dau-an-doanh-so-nam-2025-ecovacs-tang-67-tineco-tang-gap-45-lan-tai-viet-nam-185260107155209131.htm",
+      "summary": "Theo nhà phân phối Hợp Long, năm 2025 chứng kiến sự tăng tốc mạnh mẽ trên đường đua gia dụng thông minh Việt Nam, với phân khúc làm sạch ghi nhận mức tăng trưởng ấn tượng, bán ra gần 70.000 sản phẩm Ecovacs.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T01:00:00+07:00",
+      "fetched": "2026-01-08T08:01:15.111703+07:00"
+    },
+    {
+      "id": "c76d797984bf70a6595bf8cb86efde2e",
+      "title": "Tư vấn sức khỏe: K thanh quản, vòm họng, lưỡi, tuyến mang tai",
+      "link": "https://thanhnien.vn/tu-van-suc-khoe-k-thanh-quan-vom-hong-luoi-tuyen-mang-tai-185260107144349147.htm",
+      "summary": "Ung thư tai mũi họng có xu hướng gia tăng và trẻ hóa tại Việt Nam. Nếu được điều trị sớm, người bệnh có thể kiểm soát bệnh, bảo tồn tối đa giọng nói, chức năng nhai nuốt, hồi phục nhanh, nâng cao chất lượng sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T01:00:00+07:00",
+      "fetched": "2026-01-08T08:01:15.111860+07:00"
+    },
+    {
+      "id": "f2cfa9b4999fcc26657cca17a5a4c2a5",
+      "title": "Váy sơ mi thắt eo đơn giản mà đẹp xuất sắc",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-so-mi-that-eo-don-gian-ma-dep-xuat-sac-185260107085330435.htm",
+      "summary": "Váy chiết eo là kiểu trang phục hoàn hảo để nàng khoe khéo những đường cong mềm mại và quyến rũ. Váy sơ mi thắt eo là sự tổng hòa của vẻ ngoài đơn giản, linh hoạt nhưng lại có thể tạo cho nàng hình ảnh cực kỳ xinh đẹp, rạng rỡ và gây ấn tượng thị giác mạnh mẽ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T01:00:00+07:00",
+      "fetched": "2026-01-08T08:01:15.112014+07:00"
+    },
+    {
+      "id": "cdcbf99b657f7f4067f37bb42de8f618",
+      "title": "Lý do Bạch Công Khanh bật khóc trên truyền hình",
+      "link": "https://thanhnien.vn/ly-do-bach-cong-khanh-bat-khoc-tren-truyen-hinh-18526010800141489.htm",
+      "summary": "Xót xa trước hoàn cảnh của em nhỏ trong 'Mái ấm gia đình Việt', diễn viên Bạch Công Khanh có những chia sẻ động viên đầy xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T00:55:00+07:00",
+      "fetched": "2026-01-08T08:01:15.112164+07:00"
+    },
+    {
+      "id": "6f94f0d8b76f8191305a8426d1fa144c",
+      "title": "Cuộc sống của 'Ngọc Hoàng' Quốc Khánh ở tuổi 64",
+      "link": "https://thanhnien.vn/cuoc-song-cua-ngoc-hoang-quoc-khanh-o-tuoi-64-185260108045122007.htm",
+      "summary": "Ở tuổi ngoài 60, NSND Quốc Khánh vẫn lựa chọn cuộc sống độc thân. Nam nghệ sĩ cho biết bản thân yêu thích sự tự do và không muốn bị ràng buộc bởi trách nhiệm gia đình. Gần đây, mạng xã hội lan truyền thông tin cho rằng ông mắc bạo bệnh. Trước những tin đồn thất thiệt, NSND Quốc Khánh đã lên tiếng bá...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T00:51:00+07:00",
+      "fetched": "2026-01-08T08:01:15.112316+07:00"
+    },
+    {
+      "id": "2a394a28ecf3d5f705b4872803417c82",
+      "title": "Các thiết bị 'khó tin nhưng có thật' xuất hiện tại CES 2026",
+      "link": "https://thanhnien.vn/cac-thiet-bi-kho-tin-nhung-co-that-xuat-hien-tai-ces-2026-185260108055535125.htm",
+      "summary": "Tại CES 2026, những sản phẩm trưng bày không chỉ mang đến cái nhìn về tương lai mà còn khiến người xem phải ngạc nhiên bởi các ý tưởng độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T00:45:00+07:00",
+      "fetched": "2026-01-08T08:01:15.112467+07:00"
+    },
+    {
+      "id": "65c9bee7244ffa6c30e11124ef0a6ab2",
+      "title": "Omega-3, vitamin D, sắt: Thiếu là mệt - ngủ kém",
+      "link": "https://thanhnien.vn/omega-3-vitamin-d-sat-thieu-la-met-ngu-kem-185260108074111519.htm",
+      "summary": "Thiếu omega-3, vitamin D, sắt là nguyên nhân khá phổ biến dễ bị bỏ sót gây mệt mỏi, mất ngủ; đặc biệt ở người ăn uống thất thường, ăn kiêng kéo dài, người trung niên và cao tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T00:40:00+07:00",
+      "fetched": "2026-01-08T08:01:15.112634+07:00"
+    },
+    {
+      "id": "7a891fa4c5a4fac9574b62672eb5f8d2",
+      "title": "Màn hình gaming 1.000 Hz xuất hiện tại CES 2026",
+      "link": "https://thanhnien.vn/man-hinh-gaming-1000-hz-xuat-hien-tai-ces-2026-185260108014202135.htm",
+      "summary": "Mốc tần số quét 1.000 Hz lần đầu được giới thiệu tại CES 2026, cho thấy xu hướng tiếp tục nâng giới hạn thông số tối đa của màn hình gaming.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T00:40:00+07:00",
+      "fetched": "2026-01-08T08:01:15.112787+07:00"
+    },
+    {
+      "id": "eb439bc6f12c1a3d57161b935e42145c",
+      "title": "Giá heo hơi hôm nay 8.2026: Có thể đạt mốc 75.000 đồng/kg",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-82026-co-the-dat-moc-75000-dong-kg-185260107210942333.htm",
+      "summary": "Giá heo hơi hết giảm lại tưng bừng tăng ở nhiều tỉnh thành khắp cả nước, mức tăng cao nhất đến 2.000 đồng/kg. Cục Chăn nuôi và Thú y dự báo giá heo hơi có xu hướng tăng và đạt mức cao nhất vào giai đoạn cận tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T00:40:00+07:00",
+      "fetched": "2026-01-08T08:01:15.112941+07:00"
+    },
+    {
+      "id": "87965c3b066f93e97ab3b5287c5541a0",
+      "title": "Tự làm sổ sách kế toán, hộ kinh doanh cần lưu ý gì?",
+      "link": "https://thanhnien.vn/tu-lam-so-sach-ke-toan-ho-kinh-doanh-can-luu-y-gi-185260107212244363.htm",
+      "summary": "Chế độ kế toán mới với hộ kinh doanh được nhìn nhận có nhiều thay đổi theo hướng đơn giản hơn, phần lớn hộ kinh doanh có thể tự triển khai nếu được hướng dẫn cụ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T00:39:00+07:00",
+      "fetched": "2026-01-08T08:01:15.113090+07:00"
+    },
+    {
+      "id": "e8f191d14d777b76fed5b0c496868ce5",
+      "title": "Admin Công 'hàu' bị bắt vì cưỡng đoạt tài sản",
+      "link": "https://thanhnien.vn/admin-cong-hau-bi-bat-vi-cuong-doat-tai-san-185260107211029082.htm",
+      "summary": "Nguyễn Minh Công (35 tuổi; tức Công 'hàu'), là admin (quản trị viên) các nhóm mạng xã hội mang tên 'Phó Thường Dân' bị Công an TP.Hà Nội bắt giữ để điều tra về hành vi cưỡng đoạt tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T00:33:00+07:00",
+      "fetched": "2026-01-08T08:01:15.113238+07:00"
+    },
+    {
+      "id": "fbe528ed1546f5e2fc42c2a92f6c648e",
+      "title": "Thói quen uống nước ngọt thay nước lọc khiến thiếu nữ suy thận",
+      "link": "https://vnexpress.net/thoi-quen-uong-nuoc-ngot-thay-nuoc-loc-khien-thieu-nu-suy-than-5002972.html",
+      "summary": "Cô gái 20 tuổi suy thận giai đoạn cuối buộc phải lọc máu lâu dài, sau nhiều năm uống nước ngọt, trà sữa thay nước lọc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T00:00:00+07:00",
+      "fetched": "2026-01-08T08:01:12.043269+07:00"
+    },
+    {
+      "id": "c5a86f216cccac9ac3511eb14dfd9bee",
+      "title": "Dấu ấn 15 khóa Quốc hội qua 5 bản Hiến pháp",
+      "link": "https://vnexpress.net/dau-an-15-khoa-quoc-hoi-qua-5-ban-hien-phap-5002245.html",
+      "summary": "Từ Tổng tuyển cử năm 1946 đến nay, 15 khóa Quốc hội gắn với 5 bản Hiến pháp phản ánh những bước chuyển căn bản của đất nước, từ giành độc lập, thống nhất đến đổi mới, hội nhập và hoàn thiện Nhà nước pháp quyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T00:00:00+07:00",
+      "fetched": "2026-01-08T08:01:12.043455+07:00"
+    },
+    {
+      "id": "c1f07bc1cb48143923e6ac0557ef9604",
+      "title": "'Khối ngoại bán ròng kỷ lục không vì chứng khoán Việt kém hấp dẫn'",
+      "link": "https://vnexpress.net/khoi-ngoai-ban-rong-ky-luc-khong-vi-chung-khoan-viet-kem-hap-dan-5002111.html",
+      "summary": "Năm 2025, khối ngoại bán ròng kỷ lục 134.787 tỷ đồng nhưng chủ yếu do các tác động bên ngoài, không phải nội tại kém hấp dẫn, theo giới chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T00:00:00+07:00",
+      "fetched": "2026-01-08T08:01:12.043641+07:00"
+    },
+    {
+      "id": "4ee9662746d3c172c1335b161ac0daff",
+      "title": "Jingdong thuê kho hạng A",
+      "link": "https://vnexpress.net/jingdong-thue-kho-hang-a-5001999.html",
+      "summary": "Jingdong Property đầu tư xây dựng kho logistics hạng A tại khu logistics tích hợp đặc biệt Riyadh, củng cố hạ tầng chuỗi cung ứng và phù hợp với tầm nhìn 2030 của Saudi Arabia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T00:00:00+07:00",
+      "fetched": "2026-01-08T08:01:12.043805+07:00"
+    },
+    {
+      "id": "c1f07bc1cb48143923e6ac0557ef9604",
+      "title": "'Khối ngoại bán ròng kỷ lục không vì chứng khoán Việt kém hấp dẫn'",
+      "link": "https://vnexpress.net/khoi-ngoai-ban-rong-ky-luc-khong-vi-chung-khoan-viet-kem-hap-dan-5002111.html",
+      "summary": "Năm 2025, khối ngoại bán ròng kỷ lục 134.787 tỷ đồng nhưng chủ yếu do các tác động bên ngoài, không phải nội tại kém hấp dẫn, theo giới chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-08T00:00:00+07:00",
+      "fetched": "2026-01-08T08:01:18.441686+07:00"
+    },
+    {
+      "id": "99bbd2fef847b64b0971e6d09bbd8d6e",
+      "title": "Ông Trump chỉ trích Na Uy không trao Nobel Hòa bình cho mình",
+      "link": "https://vnexpress.net/ong-trump-chi-trich-na-uy-khong-trao-nobel-hoa-binh-cho-minh-5003089.html",
+      "summary": "Tổng thống Trump tuyên bố đã giúp kết thúc 8 cuộc xung đột và chỉ trích Na Uy là \"ngớ ngẩn\" vì đã không trao giải Nobel Hòa bình cho ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:59:36+07:00",
+      "fetched": "2026-01-08T08:01:12.043973+07:00"
+    },
+    {
+      "id": "99bbd2fef847b64b0971e6d09bbd8d6e",
+      "title": "Ông Trump chỉ trích Na Uy không trao Nobel Hòa bình cho mình",
+      "link": "https://vnexpress.net/ong-trump-chi-trich-na-uy-khong-trao-nobel-hoa-binh-cho-minh-5003089.html",
+      "summary": "Tổng thống Trump tuyên bố đã giúp kết thúc 8 cuộc xung đột và chỉ trích Na Uy là \"ngớ ngẩn\" vì đã không trao giải Nobel Hòa bình cho ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T23:59:36+07:00",
+      "fetched": "2026-01-08T08:01:17.292539+07:00"
+    },
+    {
+      "id": "e1d9a998212eb3034aaefd4fbca970ab",
+      "title": "Điểm tin 6h: Định danh điện tử bất động sản là cơ sở thu thuế | Campuchia bắt ông trùm Chen Zhi",
+      "link": "https://vnexpress.net/diem-tin-6h-dinh-danh-dien-tu-bat-dong-san-la-co-so-thu-thue-campuchia-bat-ong-trum-chen-zhi-5003088.html",
+      "summary": "Sống trong sợ hãi, đòn roi ở Trung tâm công tác xã hội Hải Hà; Đóng đèo Prenn cửa ngõ Đà Lạt 6 ngày để khắc phục sạt lở....",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:24:39+07:00",
+      "fetched": "2026-01-08T08:01:12.044131+07:00"
+    },
+    {
+      "id": "6ecf35c211109cb807bd8c95557423a0",
+      "title": "Chelsea thua trong thế thiếu người ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/chelsea-thua-trong-the-thieu-nguoi-o-ngoai-hang-anh-5003086.html",
+      "summary": "Chelsea thua chủ nhà Fulham 1-2 ở vòng 21 Ngoại hạng Anh, trong trận đấu mà họ thi đấu thiếu người từ phút 22 và tân HLV Liam Rosenior chỉ có thể theo dõi từ khán đài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:16:21+07:00",
+      "fetched": "2026-01-08T08:01:12.044287+07:00"
+    },
+    {
+      "id": "6ecf35c211109cb807bd8c95557423a0",
+      "title": "Chelsea thua trong thế thiếu người ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/chelsea-thua-trong-the-thieu-nguoi-o-ngoai-hang-anh-5003086.html",
+      "summary": "Chelsea thua chủ nhà Fulham 1-2 ở vòng 21 Ngoại hạng Anh, trong trận đấu mà họ thi đấu thiếu người từ phút 22 và tân HLV Liam Rosenior chỉ có thể theo dõi từ khán đài.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-07T23:16:21+07:00",
+      "fetched": "2026-01-08T08:01:22.094368+07:00"
+    },
+    {
+      "id": "9f3f049ceb6e31318a9b21b3b56d9e4e",
+      "title": "Trùng hợp thú vị giữa HLV Park Hang-seo, Troussier và Kim Sang-sik",
+      "link": "https://vnexpress.net/trung-hop-thu-vi-giua-hlv-park-hang-seo-troussier-va-kim-sang-sik-5003080.html",
+      "summary": "Ba HLV gần nhất của đội tuyển Việt Nam từng cùng tham gia một trận đấu giao hữu giữa Nhật Bản và Hàn Quốc ở Tokyo năm 2000.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:06:40+07:00",
+      "fetched": "2026-01-08T08:01:12.044449+07:00"
+    },
+    {
+      "id": "9f3f049ceb6e31318a9b21b3b56d9e4e",
+      "title": "Trùng hợp thú vị giữa HLV Park Hang-seo, Troussier và Kim Sang-sik",
+      "link": "https://vnexpress.net/trung-hop-thu-vi-giua-hlv-park-hang-seo-troussier-va-kim-sang-sik-5003080.html",
+      "summary": "Ba HLV gần nhất của đội tuyển Việt Nam từng cùng tham gia một trận đấu giao hữu giữa Nhật Bản và Hàn Quốc ở Tokyo năm 2000.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-07T23:06:40+07:00",
+      "fetched": "2026-01-08T08:01:22.093760+07:00"
+    },
+    {
+      "id": "4cee136aa4dd4e5b81ab2ea0fc4fc1f3",
+      "title": "Neville: 'Man Utd lặp lại vòng luẩn quẩn nếu bổ nhiệm Solskjaer'",
+      "link": "https://vnexpress.net/neville-man-utd-lap-lai-vong-luan-quan-neu-bo-nhiem-solskjaer-5003083.html",
+      "summary": "Cựu đội trưởng Gary Neville cho rằng khả năng Ole Gunnar Solskjaer trở lại Man Utd theo dạng tạm quyền phản ánh vòng luẩn quẩn mà CLB đã trải qua hơn một thập kỷ qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:01:56+07:00",
+      "fetched": "2026-01-08T08:01:12.044623+07:00"
+    },
+    {
+      "id": "4cee136aa4dd4e5b81ab2ea0fc4fc1f3",
+      "title": "Neville: 'Man Utd lặp lại vòng luẩn quẩn nếu bổ nhiệm Solskjaer'",
+      "link": "https://vnexpress.net/neville-man-utd-lap-lai-vong-luan-quan-neu-bo-nhiem-solskjaer-5003083.html",
+      "summary": "Cựu đội trưởng Gary Neville cho rằng khả năng Ole Gunnar Solskjaer trở lại Man Utd theo dạng tạm quyền phản ánh vòng luẩn quẩn mà CLB đã trải qua hơn một thập kỷ qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-07T23:01:56+07:00",
+      "fetched": "2026-01-08T08:01:22.093916+07:00"
+    },
+    {
+      "id": "ed522f4e172753b4d549545f883b4192",
+      "title": "'Căn cước' bất động sản được áp dụng thế nào?",
+      "link": "https://vnexpress.net/can-cuoc-bat-dong-san-duoc-ap-dung-the-nao-5003015.html",
+      "summary": "Từ ngày 1/3/2026, mỗi sản phẩm bất động sản sẽ được cấp một mã định danh điện tử, hoạt động như \"chìa khóa\" kết nối với hệ thống dữ liệu chi tiết về dự án và sản phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:00:00+07:00",
+      "fetched": "2026-01-08T08:01:12.044782+07:00"
+    },
+    {
+      "id": "84a51bb424a7503f9e3a6da542ff7db6",
+      "title": "Người Việt đi Campuchia, Nhật Bản nhiều nhất năm 2025",
+      "link": "https://vnexpress.net/nguoi-viet-di-campuchia-nhat-ban-nhieu-nhat-nam-2025-5002919.html",
+      "summary": "Gần hai triệu người Việt đi Campuchia và Nhật Bản trong năm 2025, chiếm gần 30% tổng số lượt người Việt xuất ngoại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:00:00+07:00",
+      "fetched": "2026-01-08T08:01:12.044940+07:00"
+    },
+    {
+      "id": "16fe581019f4dcc9927105e2d453264a",
+      "title": "Nghệ An sốt đất đấu giá",
+      "link": "https://vnexpress.net/nghe-an-sot-dat-dau-gia-5002741.html",
+      "summary": "Hàng chục lô đất đấu giá ở xã Đại Huệ trong ba ngày qua tăng giá hơn nửa tỷ đồng, sau khi doanh nghiệp đề xuất tỉnh Nghệ An khảo sát đầu tư khu công nghiệp VSIP 4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:00:00+07:00",
+      "fetched": "2026-01-08T08:01:12.045101+07:00"
+    },
+    {
+      "id": "f1e241f5e0237d65f1deb74c32c8fbfc",
+      "title": "BMW biến trợ lý ảo trên ôtô thành người bạn tâm sự",
+      "link": "https://vnexpress.net/bmw-bien-tro-ly-ao-tren-oto-thanh-nguoi-ban-tam-su-5002635.html",
+      "summary": "Mẫu BMW iX3 trang bị AI hỗ trợ bởi Alexa với khả năng phản hồi ngoài những lệnh thoại được định sẵn, với nhiều chủ đề kiến thức tổng quát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T23:00:00+07:00",
+      "fetched": "2026-01-08T08:01:12.045263+07:00"
+    },
+    {
+      "id": "48f348ad00c4080dbcbdffd8d258cdea",
+      "title": "Barca trút cơn mưa bàn thắng ở Siêu Cup Tây Ban Nha",
+      "link": "https://vnexpress.net/barca-trut-con-mua-ban-thang-o-sieu-cup-tay-ban-nha-5003084.html",
+      "summary": "Thầy trò Hansi Flick đè bẹp Bilbao 5-0 trong trận bán kết Siêu Cup Tây Ban Nha, tối 7/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T22:46:18+07:00",
+      "fetched": "2026-01-08T08:01:12.045422+07:00"
+    },
+    {
+      "id": "48f348ad00c4080dbcbdffd8d258cdea",
+      "title": "Barca trút cơn mưa bàn thắng ở Siêu Cup Tây Ban Nha",
+      "link": "https://vnexpress.net/barca-trut-con-mua-ban-thang-o-sieu-cup-tay-ban-nha-5003084.html",
+      "summary": "Thầy trò Hansi Flick đè bẹp Bilbao 5-0 trong trận bán kết Siêu Cup Tây Ban Nha, tối 7/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-07T22:46:18+07:00",
+      "fetched": "2026-01-08T08:01:22.094067+07:00"
+    },
+    {
+      "id": "08885b75ddcc395db4ac75f7fc1dce17",
+      "title": "Truyền thông Arab: 'Việt Nam hay hơn Jordan ở mọi mặt'",
+      "link": "https://vnexpress.net/truyen-thong-arab-viet-nam-hay-hon-jordan-o-moi-mat-5003026.html",
+      "summary": "Tờ báo hàng đầu về thể thao trong các quốc gia Arab Winwin thừa nhận Việt Nam thắng xứng đáng trước một Jordan thiếu sự chuẩn bị về chuyên môn và tinh thần ở lượt ra quân U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T22:43:17+07:00",
+      "fetched": "2026-01-08T08:01:12.045581+07:00"
+    },
+    {
+      "id": "08885b75ddcc395db4ac75f7fc1dce17",
+      "title": "Truyền thông Arab: 'Việt Nam hay hơn Jordan ở mọi mặt'",
+      "link": "https://vnexpress.net/truyen-thong-arab-viet-nam-hay-hon-jordan-o-moi-mat-5003026.html",
+      "summary": "Tờ báo hàng đầu về thể thao trong các quốc gia Arab Winwin thừa nhận Việt Nam thắng xứng đáng trước một Jordan thiếu sự chuẩn bị về chuyên môn và tinh thần ở lượt ra quân U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-07T22:43:17+07:00",
+      "fetched": "2026-01-08T08:01:22.094219+07:00"
+    },
+    {
+      "id": "3f0009c1fdf168fba8e71aec1152b4a2",
+      "title": "World Cup 2026 quét cơ thể cầu thủ để bắt việt vị",
+      "link": "https://vnexpress.net/world-cup-2026-quet-co-the-cau-thu-de-bat-viet-vi-5003081.html",
+      "summary": "Toàn bộ 1.248 cầu thủ tham dự World Cup 2026 sẽ được FIFA quét cơ thể để tạo các avatar 3D tích hợp trí tuệ nhân tạo AI, phục vụ công nghệ việt vị bán tự động (SAOT).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-07T22:28:03+07:00",
+      "fetched": "2026-01-08T08:01:22.093244+07:00"
+    },
+    {
+      "id": "608a397aed7f39e0caad1feec53b48bc",
+      "title": "Man City hòa trận thứ ba liên tiếp ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-city-hoa-tran-thu-ba-lien-tiep-o-ngoai-hang-anh-5003085.html",
+      "summary": "Man City để Brighton cầm chân 1-1 ngay trên sân nhà ở vòng 21 Ngoại hạng Anh và nguy cơ bị Arsenal nới rộng cách biệt lên tám điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-07T22:19:56+07:00",
+      "fetched": "2026-01-08T08:01:22.093417+07:00"
+    },
+    {
+      "id": "d06af6fae417216940d26f016a337043",
+      "title": "Man Utd rơi điểm trước đội áp chót Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-roi-diem-truoc-doi-ap-chot-ngoai-hang-anh-5003082.html",
+      "summary": "Tiền đạo Benjamin Sesko lập cú đúp nhưng Man Utd vẫn bị chủ nhà Burnley cầm hòa 2-2 ở vòng 21 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-07T22:11:02+07:00",
+      "fetched": "2026-01-08T08:01:22.093576+07:00"
+    },
+    {
       "id": "e8c47356bb9b5c71a9e05b6e4cac36e9",
       "title": "Tin tức đặc biệt trên báo in Thanh Niên 8.1.2026",
       "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-812026-185260107233632311.htm",
@@ -191,6 +701,16 @@ window.newsData_2026_01_08 = {
       "category": "Tổng hợp",
       "published": "2026-01-07T22:00:00+07:00",
       "fetched": "2026-01-08T05:12:36.742180+07:00"
+    },
+    {
+      "id": "1e25d55ecaff8f926188b52e46d13bd0",
+      "title": "Xu hướng 'cởi giày' tại các công ty công nghệ",
+      "link": "https://vnexpress.net/xu-huong-coi-giay-tai-cac-cong-ty-cong-nghe-5002580.html",
+      "summary": "Xu hướng không đi giày trong văn phòng lan rộng khi các lãnh đạo công nghệ tìm cách tạo ra môi trường làm việc thoải mái hơn cho nhân viên.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-07T22:00:00+07:00",
+      "fetched": "2026-01-08T08:01:20.278049+07:00"
     },
     {
       "id": "503e24d3fd0e7285067f1b4383a5ebfa",
