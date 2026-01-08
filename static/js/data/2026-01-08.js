@@ -1,7 +1,157 @@
 window.newsData_2026_01_08 = {
   "date": "2026-01-08",
-  "lastUpdated": "2026-01-08T19:27:30.113006+07:00",
+  "lastUpdated": "2026-01-08T21:17:13.552586+07:00",
   "articles": [
+    {
+      "id": "96614a67ca64adcec6b90862c41e5f2a",
+      "title": "Phê duyệt quy hoạch sân bay Tuy Hòa đến 2050 có công suất 5 triệu hành khách/năm",
+      "link": "https://tuoitre.vn/phe-duyet-quy-hoach-san-bay-tuy-hoa-den-2050-co-cong-suat-5-trieu-hanh-khach-nam-2026010816393416.htm",
+      "summary": "Bộ trưởng Bộ Xây dựng vừa phê duyệt quy hoạch sân bay Tuy Hòa, với công suất 3 triệu khách/năm thời kỳ 2021-2030 và 5 triệu khách/năm đến năm 2050.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.798029+07:00",
+      "fetched": "2026-01-08T21:17:08.798150+07:00"
+    },
+    {
+      "id": "a0d4dd2bbe6612dec501c2528b9c4e0e",
+      "title": "Bộ Tài chính nêu giải pháp đạt tăng trưởng 2 con số trong 5 năm tới",
+      "link": "https://tuoitre.vn/bo-tai-chinh-neu-giai-phap-dat-tang-truong-2-con-so-trong-5-nam-toi-20260108180623229.htm",
+      "summary": "\"Trong những năm vừa qua, kinh tế Việt Nam đã chứng tỏ khả năng đủ sức chống chịu trước các cú sốc bên ngoài, duy trì tốc độ tăng trưởng thuộc nhóm cao hàng đầu thế giới\", theo Thứ trưởng Bộ Tài chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.797901+07:00",
+      "fetched": "2026-01-08T21:17:08.798014+07:00"
+    },
+    {
+      "id": "218f579aacf8489c75da5aff173be432",
+      "title": "Lý Hoàng Nam rớt khỏi bảng xếp hạng quần vợt Việt Nam",
+      "link": "https://tuoitre.vn/ly-hoang-nam-rot-khoi-bang-xep-hang-quan-vot-viet-nam-20260108181413555.htm",
+      "summary": "Lý Hoàng Nam và nhiều tay vợt tên tuổi không còn tên trên bảng xếp hạng đơn nam của Liên đoàn Quần vợt Việt Nam (VTF) từ đầu năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.797777+07:00",
+      "fetched": "2026-01-08T21:17:08.797890+07:00"
+    },
+    {
+      "id": "2d8173d7d7867b2d0832b644e80bec56",
+      "title": "SATRA và FPT bắt tay đưa AI tiến sâu vào ngành bán lẻ",
+      "link": "https://tuoitre.vn/satra-va-fpt-bat-tay-dua-ai-tien-sau-vao-nganh-ban-le-20260108171440124.htm",
+      "summary": "SATRA và FPT bắt tay tạo “đòn bẩy\" công nghệ cho hệ sinh thái thương mại bền vững, khởi động chiến lược chuyển đổi số toàn diện ngành bán lẻ cho giai đoạn 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.797650+07:00",
+      "fetched": "2026-01-08T21:17:08.797766+07:00"
+    },
+    {
+      "id": "0b8d8dd7996c5ee8c15cc75fe07e36e4",
+      "title": "Cháy căn nhà 7 tầng ở Hà Nội: Chủ nhà nhảy từ tầng 6 xuống đã tử vong tại bệnh viện",
+      "link": "https://tuoitre.vn/chay-can-nha-7-tang-o-ha-noi-chu-nha-nhay-tu-tang-6-xuong-da-tu-vong-tai-benh-vien-20260108183905262.htm",
+      "summary": "Trao đổi với Tuổi Trẻ Online tối 8-1, lãnh đạo Bệnh viện Đa khoa Hà Đông (Hà Nội) cho hay nạn nhân trong vụ cháy được cấp cứu tại bệnh viện đã tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.797520+07:00",
+      "fetched": "2026-01-08T21:17:08.797638+07:00"
+    },
+    {
+      "id": "f6b239e33ff8dcd4049bc4fd81f878ec",
+      "title": "Bạn đọc bức xúc vụ heo bệnh tại Đồ hộp Hạ Long: Nhiều câu hỏi cần làm rõ",
+      "link": "https://tuoitre.vn/ban-doc-buc-xuc-vu-heo-benh-tai-do-hop-ha-long-nhieu-cau-hoi-can-lam-ro-20260108181833189.htm",
+      "summary": "Độc giả Tuổi Trẻ mong muốn cơ quan chức năng sớm làm rõ bản chất vụ 130 tấn thịt heo bệnh ở Đồ hộp Hạ Long. Xác định cụ thể trách nhiệm từng bên, đồng thời kiểm tra các lô hàng khác của doanh nghiệp này có chất lượng ra sao...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.797391+07:00",
+      "fetched": "2026-01-08T21:17:08.797508+07:00"
+    },
+    {
+      "id": "bbe44ddc40681a376536811341ba2df7",
+      "title": "Tài xế xe tải chết sau khi va vào đuôi container trên cao tốc",
+      "link": "https://tuoitre.vn/tai-xe-xe-tai-chet-sau-khi-va-vao-duoi-container-tren-cao-toc-2026010818451985.htm",
+      "summary": "Tai nạn giao thông giữa xe tải và xe container trên cao tốc TP.HCM - Trung Lương khiến tài xế xe tải tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.797244+07:00",
+      "fetched": "2026-01-08T21:17:08.797378+07:00"
+    },
+    {
+      "id": "7e155696df58aa28973355b0139f1ebc",
+      "title": "Tổng Bí thư Tô Lâm chúc mừng Tổng Bí thư Đảng Nhân dân cách mạng Lào",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-chuc-mung-tong-bi-thu-dang-nhan-dan-cach-mang-lao-20260108195713792.htm",
+      "summary": "Tổng Bí thư Tô Lâm đã gửi thư chúc mừng nhân dịp ông Thongloun Sisoulith được bầu lại làm Tổng Bí thư Ban Chấp hành Trung ương Đảng Nhân dân cách mạng Lào khóa XII.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.797116+07:00",
+      "fetched": "2026-01-08T21:17:08.797232+07:00"
+    },
+    {
+      "id": "1e17a42e9b494a5a870c9d5c29f184a0",
+      "title": "Trung Quốc công bố video áp giải trùm lừa đảo Trần Chí về nước",
+      "link": "https://tuoitre.vn/trung-quoc-cong-bo-video-ap-giai-trum-lua-dao-tran-chi-ve-nuoc-20260108200055343.htm",
+      "summary": "Trần Chí - Chủ tịch Tập đoàn Thái Tử (Prince Group) - đã bị áp giải thành công về Trung Quốc, sau khi bị bắt giữ tại Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.796984+07:00",
+      "fetched": "2026-01-08T21:17:08.797105+07:00"
+    },
+    {
+      "id": "41d585ff0e5efcb113b7e0eab81a45d9",
+      "title": "TP.HCM yêu cầu hoàn tất bồi thường, thu hồi đất để mở rộng quốc lộ 13 trong quý 1-2026",
+      "link": "https://tuoitre.vn/tp-hcm-yeu-cau-hoan-tat-boi-thuong-thu-hoi-dat-de-mo-rong-quoc-lo-13-trong-quy-1-2026-20260108182443297.htm",
+      "summary": "UBND TP.HCM giao Ban Quản lý dự án đầu tư xây dựng khu vực TP Thủ Đức chi trả kinh phí bồi thường phần còn lại và thu hồi đất đối với dự án nâng cấp, mở rộng quốc lộ 13. Hoàn thành dứt điểm trong quý 1-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.796838+07:00",
+      "fetched": "2026-01-08T21:17:08.796972+07:00"
+    },
+    {
+      "id": "e6bb90c26f3c5a27cb4122b3668b7346",
+      "title": "Cứu sống hai em bé nuốt kim băng và cây kẹo mút",
+      "link": "https://tuoitre.vn/cuu-song-hai-em-be-nuot-kim-bang-va-cay-keo-mut-20260108184902432.htm",
+      "summary": "Ngày 8-1, Bệnh viện Sản Nhi Cà Mau cho biết các bác sĩ vừa tiếp nhận và xử trí thành công hai trường hợp bệnh nhi nuốt dị vật đặc biệt nguy hiểm, trong đó có ca thủng tá tràng và ca dị vật sắc nhọn nằm sát động mạch chủ, đe dọa đến tính mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.796707+07:00",
+      "fetched": "2026-01-08T21:17:08.796825+07:00"
+    },
+    {
+      "id": "9704442ae86314ff1728cb2281180f8b",
+      "title": "Học bổng GREAT 2026 hỗ trợ tối thiểu 10.000 bảng Anh sau đại học",
+      "link": "https://tuoitre.vn/hoc-bong-great-2026-ho-tro-toi-thieu-10-000-bang-anh-sau-dai-hoc-20260108171523718.htm",
+      "summary": "Học bổng GREAT 2026 chính thức mở đơn, mang đến cơ hội hỗ trợ tài chính cho sinh viên Việt Nam theo học các chương trình sau đại học tại Vương quốc Anh từ mùa thu tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.796576+07:00",
+      "fetched": "2026-01-08T21:17:08.796696+07:00"
+    },
+    {
+      "id": "af8f6a0aa3053a7f922fb64b9c2fd442",
+      "title": "Lực lượng cảnh sát giao thông đón nhận Huân chương Quân công hạng nhất",
+      "link": "https://tuoitre.vn/luc-luong-canh-sat-giao-thong-don-nhan-huan-chuong-quan-cong-hang-nhat-20260108193146486.htm",
+      "summary": "Bộ trưởng Bộ Công an yêu cầu lực lượng cảnh sát giao thông vươn lên, xứng đáng là một trong những trụ cột quan trọng, góp phần thực hiện thắng lợi mục tiêu của Đảng về xây dựng xã hội lành mạnh, kỷ cương, kỷ luật, văn minh, an toàn và phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.796440+07:00",
+      "fetched": "2026-01-08T21:17:08.796564+07:00"
+    },
+    {
+      "id": "c31985c7b9a6df9a1cbe689056f34296",
+      "title": "Không có giấy phép lái xe chạy trên cao tốc, tài xế và chủ xe bị phạt 81,5 triệu đồng",
+      "link": "https://tuoitre.vn/khong-co-giay-phep-lai-xe-chay-tren-cao-toc-tai-xe-va-chu-xe-bi-phat-81-5-trieu-dong-20260108192859519.htm",
+      "summary": "Tài xế xe khách và chủ xe vi phạm khi chạy trên cao tốc bị Cục Cảnh sát giao thông xử lý, lập biên bản và sẽ phạt tiền hơn 80 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.796272+07:00",
+      "fetched": "2026-01-08T21:17:08.796427+07:00"
+    },
+    {
+      "id": "762c92822bd33c8c0f7512c41a93466f",
+      "title": "Bé trai 3 tuổi dùng gậy đánh vào chó nhà nuôi, chó cắn thấu ngực, tràn máu",
+      "link": "https://tuoitre.vn/be-trai-3-tuoi-dung-gay-danh-vao-cho-nha-nuoi-cho-can-thau-nguc-tran-mau-20260108192838163.htm",
+      "summary": "Bé trai 3 tuổi, ở Hải Phòng bị chó nuôi trong gia đình cắn, gây ra vết thương thấu ngực và tràn máu, tràn khí màng phổi bên phải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:17:08.796045+07:00",
+      "fetched": "2026-01-08T21:17:08.796256+07:00"
+    },
     {
       "id": "d74bb9e65acfb7ad184497df63aae571",
       "title": "Phạt 114 triệu đồng 3 người hút cát lậu xuyên đêm trên sông Thạch Hãn",
@@ -453,6 +603,176 @@ window.newsData_2026_01_08 = {
       "fetched": "2026-01-08T15:18:54.814133+07:00"
     },
     {
+      "id": "c371997f9f35aa9893069f4fe86b5862",
+      "title": "Hồng Diễm nói gì về vai diễn gây tranh cãi trong ‘Lằn ranh’?",
+      "link": "https://thanhnien.vn/hong-diem-noi-gi-ve-vai-dien-gay-tranh-cai-trong-lan-ranh-185260108202643777.htm",
+      "summary": "Vai diễn Phó viện trưởng Viện Kiểm sát nhân dân tỉnh Việt Đông của Hồng Diễm trong phim 'Lằn ranh' đang phát sóng giờ vàng nhận về nhiều ý kiến trái chiều. Trong đó, có ý kiến cho rằng diễn xuất và tạo hình của nữ diễn viên chưa phù hợp với nhân vật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T14:12:00+07:00",
+      "fetched": "2026-01-08T21:17:07.441357+07:00"
+    },
+    {
+      "id": "6f2b094add198b2880a21eba9662c64f",
+      "title": "Lãnh đạo Pháp, Đức nói Mỹ 'quay lưng' với đồng minh và quy tắc quốc tế",
+      "link": "https://thanhnien.vn/lanh-dao-phap-duc-noi-my-quay-lung-voi-dong-minh-va-quy-tac-quoc-te-185260108204330602.htm",
+      "summary": "Tổng thống Pháp Emmanuel Macron cáo buộc Mỹ 'quay lưng' với đồng minh, còn Tổng thống Đức Frank-Walter Steinmeier nói Mỹ 'phá hủy trật tự thế giới', trong phản ứng mới nhất về chính sách đối ngoại của Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T14:05:00+07:00",
+      "fetched": "2026-01-08T21:17:07.441537+07:00"
+    },
+    {
+      "id": "172b24fe29bf28c59d7fea9e70113be2",
+      "title": "Điều tra vụ tai nạn chết người trên cao tốc TP.HCM - Trung Lương",
+      "link": "https://thanhnien.vn/dieu-tra-vu-tai-nan-chet-nguoi-tren-cao-toc-tphcm-trung-luong-185260108195116624.htm",
+      "summary": "Một vụ tai nạn giao thông xảy ra trên cao tốc TP.HCM - Trung Lương giữa xe đầu kéo và xe tải khiến một tài xế tử vong tại chỗ, 2 phương tiện bị hư hỏng nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T14:01:00+07:00",
+      "fetched": "2026-01-08T21:17:07.441697+07:00"
+    },
+    {
+      "id": "748b3a26e6266f4fa462ce46785de19e",
+      "title": "Tổng thư ký FAM được phục chức nhưng lương không tăng trong 2 năm, đội tuyển Malaysia nơm nớp chờ đợi",
+      "link": "https://thanhnien.vn/tong-thu-ky-fam-duoc-phuc-chuc-nhung-luong-khong-tang-trong-2-nam-doi-tuyen-malaysia-nom-nop-cho-doi-185260108204402784.htm",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) cho phép ông Noor Azman Rahman trở lại vị trí tổng thư ký sau quá trình xem xét kỷ luật, song áp dụng biện pháp 'đóng băng' lương trong 2 năm và đánh giá hiệu suất trong 6 tháng tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:58:00+07:00",
+      "fetched": "2026-01-08T21:17:07.441856+07:00"
+    },
+    {
+      "id": "11c68d6329ee2142ccbfd182b4ffc38f",
+      "title": "Tổng Bí thư Tô Lâm chúc mừng Tổng Bí thư Lào tái đắc cử",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-chuc-mung-tong-bi-thu-lao-tai-dac-cu-5003488.html",
+      "summary": "Tổng Bí thư Tô Lâm gửi thư chúc mừng ông Thongloun Sisoulith tái đắc cử Tổng Bí thư Lào và mời ông thăm Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-08T13:48:08+07:00",
+      "fetched": "2026-01-08T21:17:09.701188+07:00"
+    },
+    {
+      "id": "7b9d2c8f5a87dde2d098b6c6fdd01034",
+      "title": "Sự kiện nào của Đoàn Thanh niên năm 2025 đã đạt hơn 10 tỉ lượt người xem?",
+      "link": "https://thanhnien.vn/su-kien-nao-cua-doan-thanh-nien-nam-2025-da-dat-hon-10-ti-luot-nguoi-xem-185260108195932216.htm",
+      "summary": "Báo cáo tại Hội nghị Ban Chấp hành T.Ư Đoàn lần thứ 8, khóa XII, T.Ư Đoàn cho biết, công tác Đoàn, phong trào thanh thiếu nhi năm 2025 đã có nhiều con số ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:35:00+07:00",
+      "fetched": "2026-01-08T21:17:07.442014+07:00"
+    },
+    {
+      "id": "bee9472596eb4b23c9f3967abf171850",
+      "title": "Tài xế 'chuyến xe bão táp' ở Đồng Tháp khai gì tại cơ quan công an?",
+      "link": "https://thanhnien.vn/tai-xe-chuyen-xe-bao-tap-o-dong-thap-khai-gi-tai-co-quan-cong-an-185260108193732205.htm",
+      "summary": "Bị cơ quan công an mời đến trụ sở để làm rõ vụ việc, tài xế 'chuyến xe bão táp' ở Đồng Tháp thừa nhận đã bất chấp nguy hiểm rượt đuổi xe tải vì sợ nhà xe bắt đền chiếc kính chiếu hậu bị gãy sau va chạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:35:00+07:00",
+      "fetched": "2026-01-08T21:17:07.442165+07:00"
+    },
+    {
+      "id": "a79a831d81d631dafc9a531527e4db2f",
+      "title": "Honda 'tăng lực' vào cuộc đua xe máy điện tại Việt Nam",
+      "link": "https://thanhnien.vn/honda-tang-luc-vao-cuoc-dua-xe-may-dien-tai-viet-nam-185260107171148511.htm",
+      "summary": "\"Tân binh\" của Honda tại Việt Nam dự kiến sẽ trình làng ngay trong tháng 1.2026; được xem là mảnh ghép quan trọng, giúp Honda Việt Nam phát triển dải sản phẩm \"điện hóa\", đồng thời mở rộng khách hàng mục tiêu trong mảng xe máy điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:32:00+07:00",
+      "fetched": "2026-01-08T21:17:07.442335+07:00"
+    },
+    {
+      "id": "93114a759e7ea6d73bb44c6dee13e355",
+      "title": "Toyota Việt Nam đặt nhiều kỳ vọng vào tân chủ tịch gốc Việt",
+      "link": "https://thanhnien.vn/toyota-viet-nam-dat-nhieu-ky-vong-vao-tan-chu-tich-goc-viet-185260108143419237.htm",
+      "summary": "Lần đầu tiên Toyota Việt Nam có chủ tịch là người gốc Việt, đánh dấu bước chuyển đáng chú ý trong chiến lược nhân sự cấp cao. Quyết định này được đưa ra trong bối cảnh thị trường ô tô ngày càng cạnh tranh, đòi hỏi doanh nghiệp không chỉ giữ vững vị thế mà còn thích ứng linh hoạt với những thay đổi m...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:31:00+07:00",
+      "fetched": "2026-01-08T21:17:07.442508+07:00"
+    },
+    {
+      "id": "c72de36e7ed2335d374fb6928d4088f9",
+      "title": "Dung mạo ca sĩ Kpop được khen như 'tổng tài'",
+      "link": "https://vnexpress.net/dung-mao-ca-si-kpop-duoc-khen-nhu-tong-tai-5003184.html",
+      "summary": "James - 20 tuổi, thành viên nhóm Kpop Cortis - được khen thần thái khi diện vest, gây ấn tượng với gương mặt góc cạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:00+07:00",
+      "fetched": "2026-01-08T21:17:04.505741+07:00"
+    },
+    {
+      "id": "7de3d782e9f861f25d5cb8a64667b984",
+      "title": "U.23 Thái Lan vừa ghi bàn đã dính thẻ đỏ, thua ngược đau đớn U.23 Úc",
+      "link": "https://thanhnien.vn/u23-thai-lan-vua-ghi-ban-da-dinh-the-do-thua-nguoc-dau-don-u23-uc-185260108192449925.htm",
+      "summary": "Thi đấu đầy cố gắng nhưng U.23 Thái Lan đã trắng tay ngày ra quân giải U.23 châu Á, diễn ra tối 8.1 khi thua ngược U.23 Úc 1-2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:00+07:00",
+      "fetched": "2026-01-08T21:17:07.442659+07:00"
+    },
+    {
+      "id": "c231576cf327e454314c47b6c61900b7",
+      "title": "Ông trùm Chen Zhi bị trùm mặt, áp giải về Trung Quốc",
+      "link": "https://vnexpress.net/ong-trum-chen-zhi-bi-trum-mat-ap-giai-ve-trung-quoc-5003498.html",
+      "summary": "Đài truyền hình quốc gia Trung Quốc CCTV công bố video ông trùm Chen Zhi bị áp giải về nước ngày 7/1 trên phi cơ hãng hàng không China Southern.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:28:35+07:00",
+      "fetched": "2026-01-08T21:17:04.505927+07:00"
+    },
+    {
+      "id": "3feec0510350927a7fe9bed67ca566c7",
+      "title": "Giới thiệu 145 người ứng cử đại biểu Quốc hội chuyên trách khóa XVI ở Trung ương",
+      "link": "https://thanhnien.vn/gioi-thieu-145-nguoi-ung-cu-dai-bieu-quoc-hoi-chuyen-trach-khoa-xvi-o-trung-uong-18526010819392011.htm",
+      "summary": "145 nhân sự sẽ được giới thiệu ứng cử làm đại biểu Quốc hội hoạt động chuyên trách khóa XVI ở Trung ương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:28:00+07:00",
+      "fetched": "2026-01-08T21:17:07.442807+07:00"
+    },
+    {
+      "id": "f0be498c4041334dd8d067601a0347a7",
+      "title": "U.23 Việt Nam mở 1 cánh cửa tứ kết: Dấu ấn Kim Sang-sik và thách thức mang tên Kyrgyzstan",
+      "link": "https://thanhnien.vn/u23-viet-nam-mo-1-canh-cua-tu-ket-dau-an-kim-sang-sik-va-thach-thuc-mang-ten-kyrgyzstan-185260108202736966.htm",
+      "summary": "Chiến thắng trước U.23 Jordan không chỉ mang về 3 điểm cho U.23 Việt Nam mà còn khẳng định sự trưởng thành về bản lĩnh và tầm vóc. Tuy nhiên, phía trước thầy trò HLV Kim Sang-sik vẫn là thử thách không dễ vượt qua mang tên U.23 Kyrgyzstan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:27:00+07:00",
+      "fetched": "2026-01-08T21:17:07.442954+07:00"
+    },
+    {
+      "id": "0a50dc35b7da40d4d749c827e0594da4",
+      "title": "Tài xế tử vong trong cabin xe tải dúm dó trên cao tốc Trung Lương",
+      "link": "https://vnexpress.net/tai-xe-tu-vong-trong-cabin-xe-tai-dum-do-tren-cao-toc-trung-luong-5003491.html",
+      "summary": "Sau cú tông vào đuôi ôtô đầu kéo, cabin xe tải bị dúm dó, nát bét, tài xế tử vong, cao tốc TP HCM - Trung Lương ùn tắc nhiều km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:25:13+07:00",
+      "fetched": "2026-01-08T21:17:04.506089+07:00"
+    },
+    {
+      "id": "67d7ce2f75b27363323594593828ee24",
+      "title": "Sai lầm thường gặp của nhiều người khi đổi điện thoại mới",
+      "link": "https://thanhnien.vn/sai-lam-thuong-gap-cua-nhieu-nguoi-khi-doi-dien-thoai-moi-185260107095208927.htm",
+      "summary": "Có những thao tác sai lầm thường thấy của nhiều người khiến chiếc điện thoại mới biến thành 'cục gạch' đời cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:24:00+07:00",
+      "fetched": "2026-01-08T21:17:07.443106+07:00"
+    },
+    {
+      "id": "84b7c480c8e344d0c6e4e1c76c86e1ce",
+      "title": "Xử lý người đăng video AI cưỡi trăn khổng lồ bơi ở hồ Hoàn Kiếm",
+      "link": "https://thanhnien.vn/xu-ly-nguoi-dang-video-ai-cuoi-tran-khong-lo-boi-o-ho-hoan-kiem-185260108194642091.htm",
+      "summary": "Công an Hà Nội vừa xử lý một trường hợp dùng công nghệ AI dựng video sai sự thật về việc người cưỡi trăn khổng lồ bơi trên mặt hồ Hoàn Kiếm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:21:00+07:00",
+      "fetched": "2026-01-08T21:17:07.443254+07:00"
+    },
+    {
       "id": "4c6f1c16f396733259a01ff0dc83c162",
       "title": "Rừng keo - Kỳ cuối: Làm gì để cây keo là nồi cơm của dân và giá trị sinh thái?",
       "link": "https://tuoitre.vn/rung-keo-ky-cuoi-lam-gi-de-cay-keo-la-noi-com-cua-dan-va-gia-tri-sinh-thai-20260108061601519.htm",
@@ -523,6 +843,116 @@ window.newsData_2026_01_08 = {
       "fetched": "2026-01-08T13:20:48.857160+07:00"
     },
     {
+      "id": "a10092a2f9804406e4bae99f142313fa",
+      "title": "Tổng Bí thư Tô Lâm gửi thư chúc mừng ông Thongloun Sisoulith tái đắc cử Tổng Bí thư Lào",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-gui-thu-chuc-mung-ong-thongloun-sisoulith-tai-dac-cu-tong-bi-thu-lao-185260108193933542.htm",
+      "summary": "Nhân dịp ông Thongloun Sisoulith được bầu lại làm Tổng Bí thư Ban Chấp hành T.Ư Đảng Nhân dân cách mạng Lào khóa XII, ngày 8.1, Tổng Bí thư Tô Lâm đã gửi thư chúc mừng ông Thongloun Sisoulith.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:18:00+07:00",
+      "fetched": "2026-01-08T21:17:07.443431+07:00"
+    },
+    {
+      "id": "324876fbfaa73690663f6dcd2c78c686",
+      "title": "Nước nào 25 lần vô địch kỳ thi Toán lớn nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-25-lan-vo-dich-ky-thi-toan-lon-nhat-the-gioi-5003477.html",
+      "summary": "Trong 40 lần góp mặt ở Olympic Toán quốc tế (IMO), đội tuyển nước này về nhất 25 lần, giành 191 huy chương vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:15:18+07:00",
+      "fetched": "2026-01-08T21:17:04.506248+07:00"
+    },
+    {
+      "id": "9d456a385cb470ce468254e6974427f2",
+      "title": "WHO khuyến nghị về các món cá khoái khẩu có thể gây ung thư",
+      "link": "https://thanhnien.vn/who-khuyen-nghi-ve-cac-mon-ca-khoai-khau-co-the-gay-ung-thu-185260108170746495.htm",
+      "summary": "Cá là thực phẩm quen thuộc trong bữa ăn của người Việt, cung cấp protein chất lượng cao, axit béo omega-3, vitamin D và nhiều vi chất cần thiết. Tuy nhiên, việc bảo quản và chế biến cá không an toàn có thể dẫn đến ung thư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:12:00+07:00",
+      "fetched": "2026-01-08T21:17:07.443590+07:00"
+    },
+    {
+      "id": "1a1ab59ab84e07a7448df1c348b6d597",
+      "title": "Chiếc kim băng găm vào thực quản bé 7 tháng tuổi",
+      "link": "https://vnexpress.net/chiec-kim-bang-gam-vao-thuc-quan-be-7-thang-tuoi-5003490.html",
+      "summary": "Bé trai 7 tháng tuổi sốt, ho kéo dài hai ngày, bác sĩ phát hiện chiếc kim băng mắc ở thực quản bé, sát động mạch chủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:02:30+07:00",
+      "fetched": "2026-01-08T21:17:04.506447+07:00"
+    },
+    {
+      "id": "8178f97a8e6e9ca00b8c807e6b54b137",
+      "title": "Lý do Nepal đang sống trong năm 2083",
+      "link": "https://vnexpress.net/ly-do-nepal-dang-song-trong-nam-2083-5003001.html",
+      "summary": "Du khách đến Nepal năm 2026 có thể ngạc nhiên khi thấy hạn sử dụng thực phẩm in năm 2083 hay ngày tháng trên hóa đơn đi trước gần 60 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:00:00+07:00",
+      "fetched": "2026-01-08T21:17:04.506612+07:00"
+    },
+    {
+      "id": "8512f7328f293e5c8e018fdcdf18dadf",
+      "title": "Ra mắt sàn thương mại điện tử nông sản Freso",
+      "link": "https://vnexpress.net/ra-mat-san-thuong-mai-dien-tu-nong-san-freso-5003474.html",
+      "summary": "Sàn thương mại điện tử nông sản Freso quy tụ hơn 100 nhà cung cấp với quy trình giao dịch được chuẩn hóa, minh bạch nguồn gốc, được Viettel Digital ra mắt ngày 5/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:00:00+07:00",
+      "fetched": "2026-01-08T21:17:04.506769+07:00"
+    },
+    {
+      "id": "2e429f6709122112ee0848953a1158a1",
+      "title": "Bé trai bị chó cắn thấu ngực, tổn thương phổi",
+      "link": "https://vnexpress.net/be-trai-bi-cho-can-thau-nguc-ton-thuong-phoi-5003479.html",
+      "summary": "Bé trai 3 tuổi dùng một chiếc gậy đánh vào con chó khiến con vật kích động tấn công liên tục vào vùng ngực của trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:55:36+07:00",
+      "fetched": "2026-01-08T21:17:04.506924+07:00"
+    },
+    {
+      "id": "2b244c75e54a54f3b9f974a420b845ec",
+      "title": "Mỹ công bố ảnh nguyên mẫu xe tăng Abrams thế hệ mới",
+      "link": "https://vnexpress.net/my-cong-bo-anh-nguyen-mau-xe-tang-abrams-the-he-moi-5003445.html",
+      "summary": "Lục quân Mỹ đã nhận nguyên mẫu xe tăng chủ lực thế hệ mới M1E3 Abrams và công bố ảnh chụp một phần của phương tiện này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:45:32+07:00",
+      "fetched": "2026-01-08T21:17:04.507085+07:00"
+    },
+    {
+      "id": "2b244c75e54a54f3b9f974a420b845ec",
+      "title": "Mỹ công bố ảnh nguyên mẫu xe tăng Abrams thế hệ mới",
+      "link": "https://vnexpress.net/my-cong-bo-anh-nguyen-mau-xe-tang-abrams-the-he-moi-5003445.html",
+      "summary": "Lục quân Mỹ đã nhận nguyên mẫu xe tăng chủ lực thế hệ mới M1E3 Abrams và công bố ảnh chụp một phần của phương tiện này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-08T12:45:32+07:00",
+      "fetched": "2026-01-08T21:17:09.701384+07:00"
+    },
+    {
+      "id": "6e9800231b2be8e3f0f7615fae94e523",
+      "title": "Thu hồi lô dung dịch vệ sinh phụ nữ do chứa chất ngoài thành phần",
+      "link": "https://vnexpress.net/thu-hoi-lo-dung-dich-ve-sinh-phu-nu-do-chua-chat-ngoai-thanh-phan-5003417.html",
+      "summary": "Cục Quản lý Dược thu hồi lô sản phẩm Fresh & Care Dung dịch vệ sinh phụ nữ Odor Fresh+ do mẫu kiểm nghiệm chứa Natri benzoate không có trong thành phần công thức sản phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:36:35+07:00",
+      "fetched": "2026-01-08T21:17:04.507196+07:00"
+    },
+    {
+      "id": "89c7fca7ea7179dacf1d9b1be5060933",
+      "title": "Ba thanh thiếu niên bị thương khi xe máy va chạm ôtô khách",
+      "link": "https://vnexpress.net/ba-thanh-thieu-nien-bi-thuong-khi-xe-may-va-cham-oto-khach-5003451.html",
+      "summary": "Ba thanh thiếu niên 16-19 tuổi đi xe máy trên quốc lộ 1 va chạm ôtô khách đang quay đầu khiến một người nguy kịch, hai người bị thương nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:28:47+07:00",
+      "fetched": "2026-01-08T21:17:04.507369+07:00"
+    },
+    {
       "id": "284f025182246d6f09df0d7e05046a60",
       "title": "Đâu là vị trí tốt nhất để cắm sạc pin điện thoại qua đêm?",
       "link": "https://thanhnien.vn/dau-la-vi-tri-tot-nhat-de-cam-sac-pin-dien-thoai-qua-dem-185260107080655475.htm",
@@ -561,6 +991,26 @@ window.newsData_2026_01_08 = {
       "category": "Thế giới",
       "published": "2026-01-08T12:14:04+07:00",
       "fetched": "2026-01-08T19:27:24.444834+07:00"
+    },
+    {
+      "id": "aeaf9f99482bca1c45f761bcf30bfedc",
+      "title": "Mỹ hứng chỉ trích vì rút khỏi công ước khí hậu LHQ",
+      "link": "https://vnexpress.net/my-hung-chi-trich-vi-rut-khoi-cong-uoc-khi-hau-lhq-5003335.html",
+      "summary": "Giới chuyên gia cảnh báo ông Trump đang \"tự làm hại\" nước Mỹ khi rút khỏi công ước nền tảng cho hàng loạt hợp tác khí hậu toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:14:04+07:00",
+      "fetched": "2026-01-08T21:17:04.507531+07:00"
+    },
+    {
+      "id": "aeaf9f99482bca1c45f761bcf30bfedc",
+      "title": "Mỹ hứng chỉ trích vì rút khỏi công ước khí hậu LHQ",
+      "link": "https://vnexpress.net/my-hung-chi-trich-vi-rut-khoi-cong-uoc-khi-hau-lhq-5003335.html",
+      "summary": "Giới chuyên gia cảnh báo ông Trump đang \"tự làm hại\" nước Mỹ khi rút khỏi công ước nền tảng cho hàng loạt hợp tác khí hậu toàn cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-08T12:14:04+07:00",
+      "fetched": "2026-01-08T21:17:09.701550+07:00"
     },
     {
       "id": "723f01c621a9ffdea5e2943dfd1cfd2c",
@@ -621,6 +1071,16 @@ window.newsData_2026_01_08 = {
       "category": "Tổng hợp",
       "published": "2026-01-08T12:01:36+07:00",
       "fetched": "2026-01-08T19:27:18.811793+07:00"
+    },
+    {
+      "id": "d8a4188eab45b1dd631beb87e6d11bb7",
+      "title": "Lộ chuyện ngoại tình từ video quảng cáo trên TikTok",
+      "link": "https://vnexpress.net/lo-chuyen-ngoai-tinh-tu-video-quang-cao-tren-tiktok-5003410.html",
+      "summary": "Nói dối vợ đi bàn chuyện công việc, người đàn ông 42 tuổi không ngờ bí mật của mình bị phơi bày trước hàng triệu người chỉ vì một video quảng cáo trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:01:36+07:00",
+      "fetched": "2026-01-08T21:17:04.507841+07:00"
     },
     {
       "id": "823e844ba7d6290ed74bbf2e2af70af2",
@@ -1561,6 +2021,16 @@ window.newsData_2026_01_08 = {
       "category": "Công nghệ",
       "published": "2026-01-08T08:41:07+07:00",
       "fetched": "2026-01-08T17:15:26.114684+07:00"
+    },
+    {
+      "id": "0648f3b6ebb1a2362c2f63a3897f0a49",
+      "title": "Viettel là thương hiệu công nghệ của năm",
+      "link": "https://vnexpress.net/giai-thuong-cong-nghe-xuat-sac-tech-awards-2025-5002702-tong-thuat.html",
+      "summary": "Viettel được vinh danh thương hiệu công nghệ của năm, Samsung là thương hiệu gia dụng của năm, Vivo X300 Pro là điện thoại xuất sắc tại Tech Awards 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-08T08:41:07+07:00",
+      "fetched": "2026-01-08T21:17:12.631519+07:00"
     },
     {
       "id": "3fcd094e21793e6303a475d8a5b07e60",
