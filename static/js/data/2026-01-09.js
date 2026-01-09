@@ -1,7 +1,157 @@
 window.newsData_2026_01_09 = {
   "date": "2026-01-09",
-  "lastUpdated": "2026-01-09T11:32:21.000358+07:00",
+  "lastUpdated": "2026-01-09T13:20:47.916142+07:00",
   "articles": [
+    {
+      "id": "d39c2eeb388b7a4aee3b655e65002415",
+      "title": "Nóng: Ông Trump tuyên bố Mỹ 'sẽ bắt đầu tấn công trên bộ' các băng đảng ma túy ở Mexico",
+      "link": "https://tuoitre.vn/nong-ong-trump-tuyen-bo-my-se-bat-dau-tan-cong-tren-bo-cac-bang-dang-ma-tuy-o-mexico-20260109115316153.htm",
+      "summary": "Tổng thống Trump hôm 8-1 tuyên bố Mỹ sẽ mở rộng chiến dịch chống ma túy sang các cuộc tấn công trên đất liền tại Mexico.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.983318+07:00",
+      "fetched": "2026-01-09T13:20:41.983449+07:00"
+    },
+    {
+      "id": "5ac3e438c18fe1c4dbd257ba201dfc36",
+      "title": "Săn bạc nóng theo vàng",
+      "link": "https://tuoitre.vn/san-bac-nong-theo-vang-20260109110624294.htm",
+      "summary": "Trong lúc thị trường vàng vẫn đang nóng, nhiều người hứng thú với kênh đầu tư bạc và giá bạc miếng, bạc thỏi cũng nhảy múa theo vũ điệu cung cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.983195+07:00",
+      "fetched": "2026-01-09T13:20:41.983307+07:00"
+    },
+    {
+      "id": "e36f900e3989a71ecb3e5b4c291742fb",
+      "title": "Cướp biển lại hoành hành - Kỳ 1: Tàu thuyền nín thở qua eo biển Singapore",
+      "link": "https://tuoitre.vn/cuop-bien-lai-hoanh-hanh-ky-1-tau-thuyen-nin-tho-qua-eo-bien-singapore-20260109111653551.htm",
+      "summary": "Sau 10 năm yên ắng, nạn cướp biển đã bùng phát trở lại. Eo biển Singapore trở thành tuyến đường thủy nguy hiểm nhất thế giới. Cướp biển vịnh Guinea gia tăng bắt cóc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.983071+07:00",
+      "fetched": "2026-01-09T13:20:41.983184+07:00"
+    },
+    {
+      "id": "99a007310b38e93c79389667a68fe3fd",
+      "title": "TP.HCM lạnh dưới 18 độ C, nhiều nơi phá mốc lịch sử 30 năm",
+      "link": "https://tuoitre.vn/tp-hcm-lanh-duoi-18-do-c-nhieu-noi-pha-moc-lich-su-30-nam-20260109120018743.htm",
+      "summary": "Với sự bao trùm của khối không khí lạnh mạnh, sáng nay nhiều nơi ở Nam Bộ có nhiệt độ thấp vượt mốc lịch sử đã ghi nhận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.982937+07:00",
+      "fetched": "2026-01-09T13:20:41.983059+07:00"
+    },
+    {
+      "id": "dda0a041dfbab10039af0ee85d94d835",
+      "title": "Hà Nội tạm dừng đào đường, vỉa hè để phục vụ Đại hội Đảng XIV",
+      "link": "https://tuoitre.vn/ha-noi-tam-dung-dao-duong-via-he-de-phuc-vu-dai-hoi-dang-xiv-20260109115207123.htm",
+      "summary": "Hà Nội yêu cầu tạm dừng thi công đào đường, hè đường phục vụ Đại hội đại biểu toàn quốc lần thứ XIV của Đảng trên một số tuyến đường trục chính từ ngày 16 đến hết 26-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.982797+07:00",
+      "fetched": "2026-01-09T13:20:41.982925+07:00"
+    },
+    {
+      "id": "0a7d2d50dc45dd78179a740c1806a0cf",
+      "title": "Canada tiếp tục đầu tư mạnh cho Việt Nam: Gói 81 triệu CAD cho giai đoạn mới",
+      "link": "https://tuoitre.vn/canada-tiep-tuc-dau-tu-manh-cho-viet-nam-goi-81-trieu-cad-cho-giai-doan-moi-20260109104447087.htm",
+      "summary": "Canada công bố khoản tài trợ hơn 81 triệu CAD cho Việt Nam, đánh dấu bước chuyển mới trong quan hệ đối tác khi Việt Nam trở thành quốc gia có thu nhập trung bình cao và nhiều nhà tài trợ đã cắt giảm viện trợ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.982672+07:00",
+      "fetched": "2026-01-09T13:20:41.982786+07:00"
+    },
+    {
+      "id": "26ed67dba393ef53d6a28d32ac8a2573",
+      "title": "Nhận 95 tỉ, cựu Cục trưởng Nguyễn Thanh Phong nói 'không tiếp tay cho hàng giả'",
+      "link": "https://tuoitre.vn/nhan-95-ti-cuu-cuc-truong-nguyen-thanh-phong-noi-khong-tiep-tay-cho-hang-gia-20260109120524691.htm",
+      "summary": "Bị đề nghị 20 năm tù, cựu Cục trưởng Nguyễn Thanh Phong thừa nhận cáo buộc nhận hối lộ là đúng người, đúng tội nhưng phân trần rằng 'không tiếp tay cho hàng giả'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.982542+07:00",
+      "fetched": "2026-01-09T13:20:41.982661+07:00"
+    },
+    {
+      "id": "732e3943953af0ca713b49e2aab3eddc",
+      "title": "Nạn nhân tai nạn giao thông tự tử sau 3 năm, tòa buộc tài xế gây tai nạn bồi thường",
+      "link": "https://tuoitre.vn/nan-nhan-tai-nan-giao-thong-tu-tu-sau-3-nam-toa-buoc-tai-xe-gay-tai-nan-boi-thuong-20260108192302449.htm",
+      "summary": "Tòa án Hàn Quốc xác định cái chết của nạn nhân tai nạn giao thông xảy ra sau 3 năm có mối quan hệ nhân quả trực tiếp với chấn thương và đau khổ kéo dài, buộc phía gây tai nạn phải bồi thường cho gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.982390+07:00",
+      "fetched": "2026-01-09T13:20:41.982529+07:00"
+    },
+    {
+      "id": "085d4e40a75f29c9f58ffa5dfa67f104",
+      "title": "Kyrgyzstan - nền bóng đá đang lên của Trung Á",
+      "link": "https://tuoitre.vn/kyrgyzstan-nen-bong-da-dang-len-cua-trung-a-20260109102909899.htm",
+      "summary": "Bên cạnh nền bóng đá mới nổi là Uzbekistan, khu vực Trung Á còn chứng kiến một Kyrgyzstan đang trỗi dậy từng ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.982263+07:00",
+      "fetched": "2026-01-09T13:20:41.982378+07:00"
+    },
+    {
+      "id": "d3b78e706f5750aa6837c94c3b8d41fc",
+      "title": "Người phụ nữ bị túm tóc, hành hung tại hành lang chung cư",
+      "link": "https://tuoitre.vn/nguoi-phu-nu-bi-tum-toc-hanh-hung-tai-hanh-lang-chung-cu-20260109121700656.htm",
+      "summary": "Chị H. sau khi đăng tải lên nhóm cư dân phản ánh về một nam thanh niên có biểu hiện sàm sỡ phụ nữ trong thang máy chung cư, thì bị một số người được cho là người thân của thanh niên này hành hung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.982134+07:00",
+      "fetched": "2026-01-09T13:20:41.982251+07:00"
+    },
+    {
+      "id": "2c5fb8b0854dc081ed7a0c5a1db0705f",
+      "title": "Bùng nổ khóa học tiếng Anh cho trẻ mầm non: Có nên cho con học 'như con người ta'?",
+      "link": "https://tuoitre.vn/bung-no-khoa-hoc-tieng-anh-cho-tre-mam-non-co-nen-cho-con-hoc-nhu-con-nguoi-ta-2026010910172938.htm",
+      "summary": "Từ lớp học nhận trẻ ngay sau thôi nôi đến cam kết 'học sớm nói sớm', các khóa tiếng Anh mầm non nở rộ ở TP.HCM, khiến nhiều phụ huynh băn khoăn nên theo trào lưu hay chọn đúng thời điểm cho con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.982004+07:00",
+      "fetched": "2026-01-09T13:20:41.982122+07:00"
+    },
+    {
+      "id": "8629283fd6d3331f3fdb065054c213f6",
+      "title": "Lập quy hoạch bảo tồn di tích Tháp Nhạn định hướng tạo thành tuyến du lịch văn hóa Chăm",
+      "link": "https://tuoitre.vn/lap-quy-hoach-bao-ton-di-tich-thap-nhan-dinh-huong-tao-thanh-tuyen-du-lich-van-hoa-cham-20260109113053988.htm",
+      "summary": "Phó thủ tướng Chính phủ Mai Văn Chính đã ký quyết định phê duyệt nhiệm vụ lập Quy hoạch bảo quản, tu bổ, phục hồi Di tích kiến trúc - nghệ thuật quốc gia đặc biệt Tháp Nhạn (tỉnh Đắk Lắk).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.981874+07:00",
+      "fetched": "2026-01-09T13:20:41.981993+07:00"
+    },
+    {
+      "id": "1c85053719cf3936aa3a9a237c8b4bdf",
+      "title": "Cảnh Mỹ tập trận bị gán sai thông tin là động thái sơ tán của Nga ở Venezuela",
+      "link": "https://tuoitre.vn/canh-my-tap-tran-bi-gan-sai-thong-tin-la-dong-thai-so-tan-cua-nga-o-venezuela-20260109104445901.htm",
+      "summary": "Mạng xã hội lan truyền video máy bay quân sự bay theo đội hình, được cho là Nga sơ tán gia đình các nhà ngoại giao khỏi Venezuela.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.981738+07:00",
+      "fetched": "2026-01-09T13:20:41.981861+07:00"
+    },
+    {
+      "id": "d32b4715c404cdd7a8d405b71feaed7e",
+      "title": "Dựng vở cải lương Gánh cải trạng nguyên, nhớ má Bảy Phùng Há, nhớ Vũ Linh",
+      "link": "https://tuoitre.vn/dung-vo-cai-luong-ganh-cai-trang-nguyen-nho-ma-bay-phung-ha-nho-vu-linh-20260109120408083.htm",
+      "summary": "Khán giả ái mộ Sân khấu cải lương mới Đại Việt nôn nao trước thông tin sân khấu sẽ làm lại vở cải lương Gánh cải trạng nguyên. Đây là tuồng mà NSND Phùng Há từng khởi xướng dàn dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.981588+07:00",
+      "fetched": "2026-01-09T13:20:41.981725+07:00"
+    },
+    {
+      "id": "ae1019712ef6f99a0fd126218dc2da3a",
+      "title": "Ba dự án điện gió hơn 19.000 tỉ đồng tại Gia Lai được nhà đầu tư quan tâm",
+      "link": "https://tuoitre.vn/ba-du-an-dien-gio-hon-19-000-ti-dong-tai-gia-lai-duoc-nha-dau-tu-quan-tam-20260109121649346.htm",
+      "summary": "Tỉnh Gia Lai đang mời gọi đầu tư 3 dự án điện gió quy mô 19.354 tỉ đồng. Hai nhà đầu tư đang quan tâm là Công ty cổ phần Khu công nghiệp Sài Gòn - Bắc Giang và Công ty cổ phần năng lượng Vinenergo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:20:41.981328+07:00",
+      "fetched": "2026-01-09T13:20:41.981572+07:00"
+    },
     {
       "id": "66b2311a5893e7402ad26590b29f3636",
       "title": "Hình ảnh xấu xí của HLV Simeone và màn đáp trả đến từ Xabi Alonso",
@@ -441,6 +591,396 @@ window.newsData_2026_01_09 = {
       "category": "Tổng hợp",
       "published": "2026-01-09T08:01:42.190874+07:00",
       "fetched": "2026-01-09T08:01:42.191093+07:00"
+    },
+    {
+      "id": "8c6be17453216a0431b12b58cafd2d8b",
+      "title": "Quy định mới chi tiết về vị trí việc làm công chức từ T.Ư đến cấp xã",
+      "link": "https://thanhnien.vn/quy-dinh-moi-chi-tiet-ve-vi-tri-viec-lam-cong-chuc-tu-tu-den-cap-xa-185260109122126989.htm",
+      "summary": "Chính phủ quy định rõ tỷ lệ công chức bố trí theo vị trí việc làm ở bộ, cấp tỉnh và cấp xã, trong đó 100% vị trí lãnh đạo, quản lý được bố trí theo vị trí việc làm, kèm các mức trần cụ thể đối với từng ngạch công chức chuyên môn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T06:15:00+07:00",
+      "fetched": "2026-01-09T13:20:40.850338+07:00"
+    },
+    {
+      "id": "87aa49e13203b2343e75711dc863d21a",
+      "title": "Cần hết sức quan tâm đến công tác cán bộ Đoàn",
+      "link": "https://thanhnien.vn/can-het-suc-quan-tam-den-cong-tac-can-bo-doan-185260109120245565.htm",
+      "summary": "Tại Hội nghị Ban Chấp hành T.Ư Đoàn lần thứ 8, khóa XII, Bí thư thứ nhất T.Ư Đoàn Bùi Quang Huy nhấn mạnh cần hết sức quan tâm đến công tác cán bộ Đoàn trong bối cảnh tổ chức bộ máy có nhiều thay đổi mạnh mẽ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T06:12:00+07:00",
+      "fetched": "2026-01-09T13:20:40.850567+07:00"
+    },
+    {
+      "id": "8ae64dffd5231aa5b53de5c07cee0b7b",
+      "title": "Tài xế buông vô lăng để xem điện thoại khi đang lái xe",
+      "link": "https://thanhnien.vn/tai-xe-buong-vo-lang-de-xem-dien-thoai-khi-dang-lai-xe-185260109110027947.htm",
+      "summary": "Chưa hết bàng hoàng với tài xế nhà xe H.H gây ra 'chuyến xe bão táp', dư luận lại phẫn nộ trước clip tài xế khác của chính nhà xe này buông vô lăng, 2 tay sử dụng điện thoại trong lúc lái xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T06:01:00+07:00",
+      "fetched": "2026-01-09T13:20:40.850744+07:00"
+    },
+    {
+      "id": "8f52caf5b8f54f2ffcc67d9ffeed712f",
+      "title": "Anh tin mình sẽ mang lại hạnh phúc cho em",
+      "link": "https://vnexpress.net/anh-tin-minh-se-mang-lai-hanh-phuc-cho-em-5003682.html",
+      "summary": "Chiều nay đi làm về, anh tranh thủ viết thư gửi lên VnExpress, hy vọng có thể tìm được thấy em, một nửa của anh sau này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:51:45+07:00",
+      "fetched": "2026-01-09T13:20:37.655054+07:00"
+    },
+    {
+      "id": "8e5f834e217d1ca410f4b4471a084f03",
+      "title": "Ô tô đời cũ rầm rộ 'đại hạ giá' xả hàng tồn kho ngay đầu năm 2026",
+      "link": "https://thanhnien.vn/o-to-doi-cu-ram-ro-dai-ha-gia-xa-hang-ton-kho-ngay-dau-nam-2026-185260108105919392.htm",
+      "summary": "Ngay trong tháng đầu năm 2026, nhiều phiên bản, mẫu mã ô tô đời cũ được các nhà sản xuất, phân phối \"đại hạ giá\" giảm từ vài chục đến hàng trăm triệu đồng thông qua các chương trình ưu đãi nhằm xả hàng tồn kho.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:48:00+07:00",
+      "fetched": "2026-01-09T13:20:40.850909+07:00"
+    },
+    {
+      "id": "f51182603f7071f7c897d00f3811460b",
+      "title": "Lùi xe khi đi 'lố' đường rẽ: Phạt cao nhất 40 triệu đồng?",
+      "link": "https://thanhnien.vn/lui-xe-khi-di-lo-duong-re-phat-cao-nhat-40-trieu-dong-185260106191404499.htm",
+      "summary": "Nhiều tài xế chỉ vì muốn tiết kiệm thời gian, sẵn sàng lùi xe khi đi quá lối rẽ mà không lường trước hậu quả. Theo luật mới, hành vi đi lùi trên cao tốc, đường một chiều bị phạt tiền khá nặng và trừ điểm giấy phép lái xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:48:00+07:00",
+      "fetched": "2026-01-09T13:20:40.851068+07:00"
+    },
+    {
+      "id": "8483574fab3a40cda93bed920ebf029c",
+      "title": "Việt Nam - Kyrgyzstan: Giải mã tân binh của VCK U23 châu Á",
+      "link": "https://vnexpress.net/viet-nam-kyrgyzstan-giai-ma-tan-binh-cua-vck-u23-chau-a-5003742.html",
+      "summary": "Thua chủ nhà Arab Saudi ngày ra quân, nhưng tân binh Kyrgyzstan cho thấy họ không dễ bị bắt nạt và hứa hẹn thách thức Việt Nam ở lượt hai bảng A U23 châu Á 2026 hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:45:08+07:00",
+      "fetched": "2026-01-09T13:20:37.655281+07:00"
+    },
+    {
+      "id": "8483574fab3a40cda93bed920ebf029c",
+      "title": "Việt Nam - Kyrgyzstan: Giải mã tân binh của VCK U23 châu Á",
+      "link": "https://vnexpress.net/viet-nam-kyrgyzstan-giai-ma-tan-binh-cua-vck-u23-chau-a-5003742.html",
+      "summary": "Thua chủ nhà Arab Saudi ngày ra quân, nhưng tân binh Kyrgyzstan cho thấy họ không dễ bị bắt nạt và hứa hẹn thách thức Việt Nam ở lượt hai bảng A U23 châu Á 2026 hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-09T05:45:08+07:00",
+      "fetched": "2026-01-09T13:20:47.906694+07:00"
+    },
+    {
+      "id": "ae75bb1b1b458910c7dd8b60bbaef645",
+      "title": "Cuộc đua thị phần môi giới chứng khoán quyết liệt",
+      "link": "https://vnexpress.net/cuoc-dua-thi-phan-moi-gioi-chung-khoan-quyet-liet-5003692.html",
+      "summary": "Trật tự xếp hạng thị phần môi giới chứng khoán năm ngoái không nhiều xáo trộn, nhưng khoảng cách nhóm dẫn đầu thu hẹp khi VPS giảm mạnh, còn SSI lên mức cao nhất 5 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:38:39+07:00",
+      "fetched": "2026-01-09T13:20:37.655497+07:00"
+    },
+    {
+      "id": "ae75bb1b1b458910c7dd8b60bbaef645",
+      "title": "Cuộc đua thị phần môi giới chứng khoán quyết liệt",
+      "link": "https://vnexpress.net/cuoc-dua-thi-phan-moi-gioi-chung-khoan-quyet-liet-5003692.html",
+      "summary": "Trật tự xếp hạng thị phần môi giới chứng khoán năm ngoái không nhiều xáo trộn, nhưng khoảng cách nhóm dẫn đầu thu hẹp khi VPS giảm mạnh, còn SSI lên mức cao nhất 5 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-09T05:38:39+07:00",
+      "fetched": "2026-01-09T13:20:44.441103+07:00"
+    },
+    {
+      "id": "231653859fbd61fb97da1e4b92166d52",
+      "title": "Windows 11 26H1 bất ngờ ra mắt vào mùa xuân này",
+      "link": "https://thanhnien.vn/windows-11-26h1-bat-ngo-ra-mat-vao-mua-xuan-nay-185260109102624434.htm",
+      "summary": "Lộ diện bản cập nhật đặc biệt Windows 11 26H1 dành riêng cho thế hệ chip mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:19:00+07:00",
+      "fetched": "2026-01-09T13:20:40.851227+07:00"
+    },
+    {
+      "id": "4fc6d3a7344bed1573364b15de88a95a",
+      "title": "Nhiệt độ xuống dưới 0 độ C, băng giá xuất hiện ở miền núi Nghệ An",
+      "link": "https://thanhnien.vn/nhiet-do-xuong-duoi-0-do-c-bang-gia-xuat-hien-o-mien-nui-nghe-an-185260109115859864.htm",
+      "summary": "Nhiệt độ xuống thấp trong 2 ngày qua, có thời điểm xuống -5 độ C ở vùng cao Nghệ An khiến băng giá xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:17:00+07:00",
+      "fetched": "2026-01-09T13:20:40.851379+07:00"
+    },
+    {
+      "id": "7040ced6802754292e6f66e0828bf232",
+      "title": "Ba nơi ở Nam bộ ghi nhận nhiệt độ thấp lịch sử",
+      "link": "https://thanhnien.vn/ba-noi-o-nam-bo-ghi-nhan-nhiet-do-thap-lich-su-185260109113233587.htm",
+      "summary": "TP.HCM có 2 nơi ghi nhận nhiệt độ thấp lịch sử, địa điểm còn lại ở Tây Ninh. Mức nhiệt thấp nhất ở Nam bộ là 14,3 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:13:00+07:00",
+      "fetched": "2026-01-09T13:20:40.851557+07:00"
+    },
+    {
+      "id": "53abd190a3b8802b7f12f1a4a901bb06",
+      "title": "Tây Ninh bàn giao 70% mặt bằng dự án Vành đai 4 trong tháng 6.2026",
+      "link": "https://thanhnien.vn/tay-ninh-ban-giao-70-mat-bang-du-an-vanh-dai-4-trong-thang-62026-185260109111627584.htm",
+      "summary": "Tỉnh Tây Ninh đặt mục tiêu bàn giao 70% mặt bằng dự án Vành đai 4 TP.HCM trong tháng 6.2026 để kịp khởi công các gói thầu xây lắp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:13:00+07:00",
+      "fetched": "2026-01-09T13:20:40.851718+07:00"
+    },
+    {
+      "id": "76bd5e15d2b472bca9e47bee5c90c7b4",
+      "title": "Triệt phá đường dây trộm chó quy mô lớn, thu giữ hơn 1,5 tấn tang vật",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-trom-cho-quy-mo-lon-thu-giu-hon-15-tan-tang-vat-185260109102514697.htm",
+      "summary": "Phòng Cảnh sát cơ động phối hợp Phòng Cảnh sát hình sự, Công an tỉnh Tây Ninh đồng loạt ra quân, triệt phá chuyên án liên quan đến các tụ điểm trộm chó, tiêu thụ chó với quy mô lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:12:00+07:00",
+      "fetched": "2026-01-09T13:20:40.851885+07:00"
+    },
+    {
+      "id": "7c89ed56b1fe87f7795b3169bfe87ba3",
+      "title": "Ngộ độc do nhầm nấm rơm với nấm dại: Bác sĩ lên tiếng cảnh báo",
+      "link": "https://thanhnien.vn/ngo-doc-do-nham-nam-rom-voi-nam-dai-bac-si-len-tieng-canh-bao-185260109094937774.htm",
+      "summary": "Thấy nấm mọc dại có hình dáng giống nấm rơm, bà H. hái về ăn và bị ngộ độc. Bác sĩ khuyến cáo người dân không hái và sử dụng nấm mọc hoang, dù hình dáng có vẻ quen thuộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:11:00+07:00",
+      "fetched": "2026-01-09T13:20:40.852036+07:00"
+    },
+    {
+      "id": "f35fa53e812e23c394237fd94ef31459",
+      "title": "Tòa Tối cao Mỹ có thể phán quyết thế nào về thuế của ông Trump",
+      "link": "https://vnexpress.net/toa-toi-cao-my-co-the-phan-quyet-the-nao-ve-thue-cua-ong-trump-5003660.html",
+      "summary": "Giới phân tích dự báo Tòa án Tối cao Mỹ ra phán quyết trung gian, không bỏ thuế hoàn toàn và chỉ yêu cầu chính phủ hoàn một phần thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:10:38+07:00",
+      "fetched": "2026-01-09T13:20:37.655678+07:00"
+    },
+    {
+      "id": "f35fa53e812e23c394237fd94ef31459",
+      "title": "Tòa Tối cao Mỹ có thể phán quyết thế nào về thuế của ông Trump",
+      "link": "https://vnexpress.net/toa-toi-cao-my-co-the-phan-quyet-the-nao-ve-thue-cua-ong-trump-5003660.html",
+      "summary": "Giới phân tích dự báo Tòa án Tối cao Mỹ ra phán quyết trung gian, không bỏ thuế hoàn toàn và chỉ yêu cầu chính phủ hoàn một phần thuế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-09T05:10:38+07:00",
+      "fetched": "2026-01-09T13:20:44.441287+07:00"
+    },
+    {
+      "id": "6b676d585b0e356e5b7fce3276c2e44f",
+      "title": "Hà Nội: Chặt hạ, dịch chuyển hàng xà cừ cổ thụ trên đường 70",
+      "link": "https://thanhnien.vn/ha-noi-chat-ha-dich-chuyen-hang-xa-cu-co-thu-tren-duong-70-185260105012950676.htm",
+      "summary": "Hàng xà cừ cổ thụ trên tuyến đường 70 (Hà Nội) đang được chặt hạ, di dời để phục vụ dự án mở rộng, nâng cấp tuyến đường có tổng mức đầu tư gần 3.400 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:09:00+07:00",
+      "fetched": "2026-01-09T13:20:40.852193+07:00"
+    },
+    {
+      "id": "36ec1077a3211c0d459b318229cfb6d3",
+      "title": "Chợ đêm Phú Quốc dừng hoạt động sau Tết Nguyên đán",
+      "link": "https://vnexpress.net/cho-dem-phu-quoc-dung-hoat-dong-sau-tet-nguyen-dan-5003719.html",
+      "summary": "Khu chợ nổi tiếng dành cho khách du lịch vui chơi và mua sắm ban đêm ở phường Dương Đông, sẽ dừng hoạt động sau Tết Nguyên đán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:07:37+07:00",
+      "fetched": "2026-01-09T13:20:37.655846+07:00"
+    },
+    {
+      "id": "b48cbadbe0d305d31aa6b2f2319ad1fc",
+      "title": "100 VĐV tham dự giải Pickleball Paralympic Việt Nam 2026 – 'Gắn kết yêu thương'",
+      "link": "https://thanhnien.vn/100-vdv-tham-du-giai-pickleball-paralympic-viet-nam-2026-gan-ket-yeu-thuong-185260109114848265.htm",
+      "summary": "Giải Pickleball Paralympic Việt Nam 2026 với chủ đề 'Gắn kết yêu thương' diễn ra ngày 7, 8.2 tại TP.HCM là sân chơi đầy ý nghĩa dành cho cộng đồng thể thao người khuyết tật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:07:00+07:00",
+      "fetched": "2026-01-09T13:20:40.852353+07:00"
+    },
+    {
+      "id": "3b9a285f521c3e78c04ac9c6c5b9c048",
+      "title": "Brooklyn Beckham 'yêu cầu chỉ liên lạc bố mẹ qua luật sư'",
+      "link": "https://vnexpress.net/brooklyn-beckham-yeu-cau-chi-lien-lac-bo-me-qua-luat-su-5003606.html",
+      "summary": "Cậu cả nhà Beckham - Brooklyn, 27 tuổi - gửi thư đề nghị bố mẹ chỉ liên lạc qua luật sư, không nhắc đến anh trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:06:43+07:00",
+      "fetched": "2026-01-09T13:20:37.656003+07:00"
+    },
+    {
+      "id": "765a13ed58f9cdd08d564c3fcf532428",
+      "title": "Giải U.19 quốc gia có nhà tài trợ mới, đã xác định xong 3 bảng đấu hấp dẫn",
+      "link": "https://thanhnien.vn/giai-u19-quoc-gia-co-nha-tai-tro-moi-da-xac-dinh-xong-3-bang-dau-hap-dan-185260109115157618.htm",
+      "summary": "Liên đoàn Bóng đá Việt Nam (VFF) và Công ty CP Acecook Việt Nam đã phối hợp tổ chức công bố nhà tài trợ chính và bốc thăm xếp lịch thi đấu VCK giải U.19 quốc gia – Cúp Modern 2025 - 2026 vào sáng 9.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:05:00+07:00",
+      "fetched": "2026-01-09T13:20:40.852537+07:00"
+    },
+    {
+      "id": "48302f308d45b3328fcd81d64d8df632",
+      "title": "Tài xế người Hàn Quốc lái ô tô va chạm xe rùa khiến cụ ông tử vong",
+      "link": "https://thanhnien.vn/tai-xe-nguoi-han-quoc-lai-o-to-va-cham-xe-rua-khien-cu-ong-tu-vong-185260109102715637.htm",
+      "summary": "Công an xã Mỹ Hạnh (Tây Ninh) đang phối hợp cơ quan chức năng điều tra nguyên nhân vụ tai nạn giao thông giữa xe ô tô do một người đàn ông Hàn Quốc điều khiển va chạm với xe rùa, khiến cụ ông 76 tuổi tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:04:00+07:00",
+      "fetched": "2026-01-09T13:20:40.852706+07:00"
+    },
+    {
+      "id": "a43529d47b56e7110303bd2e05c0fae3",
+      "title": "Mỹ có thể phát 100.000 USD cho người Greenland để lay chuyển dân đảo",
+      "link": "https://vnexpress.net/my-co-the-phat-100-000-usd-cho-nguoi-greenland-de-lay-chuyen-dan-dao-5003732.html",
+      "summary": "Các quan chức Mỹ đang thảo luận kế hoạch chi cho mỗi người Greenland tới 100.000 USD để thuyết phục họ tách khỏi Đan Mạch, theo Reuters.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:02:10+07:00",
+      "fetched": "2026-01-09T13:20:37.656171+07:00"
+    },
+    {
+      "id": "a43529d47b56e7110303bd2e05c0fae3",
+      "title": "Mỹ có thể phát 100.000 USD cho người Greenland để lay chuyển dân đảo",
+      "link": "https://vnexpress.net/my-co-the-phat-100-000-usd-cho-nguoi-greenland-de-lay-chuyen-dan-dao-5003732.html",
+      "summary": "Các quan chức Mỹ đang thảo luận kế hoạch chi cho mỗi người Greenland tới 100.000 USD để thuyết phục họ tách khỏi Đan Mạch, theo Reuters.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-09T05:02:10+07:00",
+      "fetched": "2026-01-09T13:20:43.084700+07:00"
+    },
+    {
+      "id": "e6debf5ef5649002d217cca5ae0d9e7b",
+      "title": "Các nhà khoa học dịch chuyển cột mốc cực nam Trái Đất",
+      "link": "https://vnexpress.net/cac-nha-khoa-hoc-dich-chuyen-cot-moc-cuc-nam-trai-dat-5003397.html",
+      "summary": "Cực nam địa lý của Trái Đất cố định nhưng lớp băng bên trên thường xuyên dịch chuyển, khiến các nhà khoa học phải đặt lại cột mốc đánh dấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:00:00+07:00",
+      "fetched": "2026-01-09T13:20:37.656326+07:00"
+    },
+    {
+      "id": "31c031dfc85013f4a45fd1be14ea8268",
+      "title": "Tại sao sáng sớm là 'khung giờ tử thần' với mạch máu?",
+      "link": "https://vnexpress.net/tai-sao-sang-som-la-khung-gio-tu-than-voi-mach-mau-5003167.html",
+      "summary": "Thay đổi nhiệt độ đột ngột từ phòng ngủ ấm ra ngoài trời lạnh, tập thể dục, tắm sớm... có thể khiến mạch máu co đột ngột, tăng nguy cơ đột quỵ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:00:00+07:00",
+      "fetched": "2026-01-09T13:20:37.656512+07:00"
+    },
+    {
+      "id": "883f2d91e990d0520eeabb2c51af9f45",
+      "title": "Nguyên nhân gây đau đầu, mờ mắt",
+      "link": "https://vnexpress.net/nguyen-nhan-gay-dau-dau-mo-mat-5003661.html",
+      "summary": "Mờ mắt, đau đầu thường do đau nửa đầu hoặc tật viễn thị, nhưng đôi khi cũng có thể là dấu hiệu của đột quỵ hoặc chấn thương sọ não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:00:00+07:00",
+      "fetched": "2026-01-09T13:20:37.656678+07:00"
+    },
+    {
+      "id": "e6debf5ef5649002d217cca5ae0d9e7b",
+      "title": "Các nhà khoa học dịch chuyển cột mốc cực nam Trái Đất",
+      "link": "https://vnexpress.net/cac-nha-khoa-hoc-dich-chuyen-cot-moc-cuc-nam-trai-dat-5003397.html",
+      "summary": "Cực nam địa lý của Trái Đất cố định nhưng lớp băng bên trên thường xuyên dịch chuyển, khiến các nhà khoa học phải đặt lại cột mốc đánh dấu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-09T05:00:00+07:00",
+      "fetched": "2026-01-09T13:20:47.019736+07:00"
+    },
+    {
+      "id": "16866852a262e614d7ce1c835114cc7d",
+      "title": "Danh tính người phụ nữ trên logo cá hộp 'Ba Cô Gái'",
+      "link": "https://vnexpress.net/danh-tinh-nguoi-phu-nu-tren-logo-ca-hop-ba-co-gai-5003711.html",
+      "summary": "Hơn 50 năm sau bức ảnh quảng cáo với thù lao 500 baht, danh tính người phụ nữ đứng giữa logo cá hộp \"Ba Cô Gái\" quen thuộc với hàng triệu gia đình Việt mới được hé lộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:55:20+07:00",
+      "fetched": "2026-01-09T13:20:37.656835+07:00"
+    },
+    {
+      "id": "c58b2c519c0dc252a2b7fe6d5d9b562b",
+      "title": "Thâm hụt thương mại của Mỹ thấp nhất 17 năm",
+      "link": "https://vnexpress.net/tham-hut-thuong-mai-cua-my-thap-nhat-17-nam-5003604.html",
+      "summary": "Nhập khẩu giảm sút khiến thâm hụt thương mại Mỹ trong tháng 10/2025 xuống thấp nhất kể từ giữa năm 2009.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:51:02+07:00",
+      "fetched": "2026-01-09T13:20:37.657004+07:00"
+    },
+    {
+      "id": "c58b2c519c0dc252a2b7fe6d5d9b562b",
+      "title": "Thâm hụt thương mại của Mỹ thấp nhất 17 năm",
+      "link": "https://vnexpress.net/tham-hut-thuong-mai-cua-my-thap-nhat-17-nam-5003604.html",
+      "summary": "Nhập khẩu giảm sút khiến thâm hụt thương mại Mỹ trong tháng 10/2025 xuống thấp nhất kể từ giữa năm 2009.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-09T04:51:02+07:00",
+      "fetched": "2026-01-09T13:20:44.441469+07:00"
+    },
+    {
+      "id": "b10c41c55d8e678555cb6243068fb305",
+      "title": "Cảnh sát giao thông dùng AI lập báo cáo - lỗ hổng thực thi pháp luật",
+      "link": "https://vnexpress.net/canh-sat-giao-thong-dung-ai-lap-bao-cao-lo-hong-thuc-thi-phap-luat-5003543.html",
+      "summary": "Báo cáo của cảnh sát thành phố Heber, bang Utah, nói rằng một sĩ quan biến thành một con ếch khiến đơn vị này phải đưa ra lời giải thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:44:13+07:00",
+      "fetched": "2026-01-09T13:20:37.657170+07:00"
+    },
+    {
+      "id": "281db9b470ac68400dd7fcff3b55c258",
+      "title": "Ông Trump: Mỹ sẽ tấn công trên bộ vào băng đảng ma túy ở Mexico",
+      "link": "https://vnexpress.net/ong-trump-my-se-tan-cong-tren-bo-vao-bang-dang-ma-tuy-o-mexico-5003620.html",
+      "summary": "Ông Trump cho biết cuộc tấn công trên bộ nhằm vào băng đảng ma túy ở Mexico sắp diễn ra, sau hoạt động trên biển ở đông Thái Bình Dương và Caribe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:37:44+07:00",
+      "fetched": "2026-01-09T13:20:37.657325+07:00"
+    },
+    {
+      "id": "281db9b470ac68400dd7fcff3b55c258",
+      "title": "Ông Trump: Mỹ sẽ tấn công trên bộ vào băng đảng ma túy ở Mexico",
+      "link": "https://vnexpress.net/ong-trump-my-se-tan-cong-tren-bo-vao-bang-dang-ma-tuy-o-mexico-5003620.html",
+      "summary": "Ông Trump cho biết cuộc tấn công trên bộ nhằm vào băng đảng ma túy ở Mexico sắp diễn ra, sau hoạt động trên biển ở đông Thái Bình Dương và Caribe.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-09T04:37:44+07:00",
+      "fetched": "2026-01-09T13:20:43.084900+07:00"
+    },
+    {
+      "id": "f9ea8eeab2d03510fd6e46873ff9e452",
+      "title": "Alcaraz - Sinner 'hốt bạc' khi giao hữu tại Hàn Quốc",
+      "link": "https://vnexpress.net/alcaraz-sinner-hot-bac-khi-giao-huu-tai-han-quoc-5003729.html",
+      "summary": "Carlos Alcaraz và Jannik Sinner bắt đầu mùa 2026 bằng màn chạm trán trong một trận đấu biểu diễn ở Seoul ngày 10/1 với khoản thù lao béo bở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:36:14+07:00",
+      "fetched": "2026-01-09T13:20:37.657511+07:00"
+    },
+    {
+      "id": "f9ea8eeab2d03510fd6e46873ff9e452",
+      "title": "Alcaraz - Sinner 'hốt bạc' khi giao hữu tại Hàn Quốc",
+      "link": "https://vnexpress.net/alcaraz-sinner-hot-bac-khi-giao-huu-tai-han-quoc-5003729.html",
+      "summary": "Carlos Alcaraz và Jannik Sinner bắt đầu mùa 2026 bằng màn chạm trán trong một trận đấu biểu diễn ở Seoul ngày 10/1 với khoản thù lao béo bở.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-09T04:36:14+07:00",
+      "fetched": "2026-01-09T13:20:47.907214+07:00"
+    },
+    {
+      "id": "e3833145fd189ba099484d7291bbd8e5",
+      "title": "HLV Simeone cảnh báo Vinicius sắp bị Real tống cổ",
+      "link": "https://vnexpress.net/hlv-simeone-canh-bao-vinicius-sap-bi-real-tong-co-5003560.html",
+      "summary": "Bị tiền đạo Real chọc tức trong trận bán kết Siêu Cup Tây Ban Nha, HLV của Atletico Diego Simeone cuốn vào tranh cãi tay đôi rồi đáp trả bằng dự báo Vinicius sẽ bị tống cổ khỏi Real.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-09T04:35:35+07:00",
+      "fetched": "2026-01-09T13:20:47.907373+07:00"
     },
     {
       "id": "4fc3737402358ec6551f3d901a2a18b5",
