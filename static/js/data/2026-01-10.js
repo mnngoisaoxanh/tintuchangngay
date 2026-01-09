@@ -1,6 +1,6 @@
 window.newsData_2026_01_10 = {
   "date": "2026-01-10",
-  "lastUpdated": "2026-01-10T03:15:11.275480+07:00",
+  "lastUpdated": "2026-01-10T05:13:04.836507+07:00",
   "articles": [
     {
       "id": "b086403bbe3407f381de0f0e11d261de",
@@ -171,6 +171,176 @@ window.newsData_2026_01_10 = {
       "category": "Tổng hợp",
       "published": "2026-01-10T01:19:44.700716+07:00",
       "fetched": "2026-01-10T01:19:44.700939+07:00"
+    },
+    {
+      "id": "78aad46b568a1c5618be8bbd91e1c4da",
+      "title": "Phường Cầu Kiệu duy trì nhóm 5 đơn vị dẫn đầu chất lượng phục vụ người dân",
+      "link": "https://thanhnien.vn/phuong-cau-kieu-duy-tri-nhom-5-don-vi-dan-dau-chat-luong-phuc-vu-nguoi-dan-185260109185352001.htm",
+      "summary": "Phường Cầu Kiệu duy trì nhóm 5 đơn vị dẫn đầu chất lượng phục vụ người dân; xếp hạng 1/168 ở TP.HCM về giải quyết thủ tục hành chính trên Cổng dịch vụ công quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T22:05:00+07:00",
+      "fetched": "2026-01-10T05:12:54.751265+07:00"
+    },
+    {
+      "id": "2b332e314dce45aafd827e472fa59216",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 10.1.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1012026-185260110001119585.htm",
+      "summary": "Tin tức Gác tàu giữa lòng TP.HCM; Khóa học chữa lành: Nhiều dấu hiệu biến tướng; Tham vọng quân sự \"khủng\" của ông Trump... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 10.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T22:00:00+07:00",
+      "fetched": "2026-01-10T05:12:54.751433+07:00"
+    },
+    {
+      "id": "2bfda97a8887eab3db673d8fa3cf3741",
+      "title": "Thêm nhiều diễn biến mới về tình hình Venezuela",
+      "link": "https://thanhnien.vn/them-nhieu-dien-bien-moi-ve-tinh-hinh-venezuela-185260109231510148.htm",
+      "summary": "Thượng viện Mỹ ngày 8.1 đã bỏ phiếu thông qua một bước thủ tục quan trọng nhằm thúc đẩy nghị quyết cấm Tổng thống Donald Trump tiến hành thêm các hành động quân sự tại Venezuela nếu không có sự cho phép của Quốc hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T22:00:00+07:00",
+      "fetched": "2026-01-10T05:12:54.751571+07:00"
+    },
+    {
+      "id": "72ed124e0e331735b998949580f17f3b",
+      "title": "Giữ tôn nghiêm trong trường học",
+      "link": "https://thanhnien.vn/giu-ton-nghiem-trong-truong-hoc-185260109223930663.htm",
+      "summary": "Bạn đọc mong muốn mọi giáo viên liên kết đều phải chuẩn hóa chứng chỉ nghiệp vụ sư phạm để đảm bảo sự tôn nghiêm trong môi trường giáo dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T22:00:00+07:00",
+      "fetched": "2026-01-10T05:12:54.751702+07:00"
+    },
+    {
+      "id": "1622d04e19538af6e108384bbf917c39",
+      "title": "Bật mí các bí quyết dưỡng da khỏe khi trời lạnh",
+      "link": "https://thanhnien.vn/bat-mi-cac-bi-quyet-duong-da-khoe-khi-troi-lanh-185260109212903954.htm",
+      "summary": "Mùa đông với gió lạnh, không khí khô và nhiệt độ thấp có thể khiến làn da mất nước nhanh chóng, trở nên khô, nứt nẻ và dễ kích ứng hơn. Để dưỡng da ẩm mượt và khỏe mạnh trong trời lạnh, việc chăm sóc da đúng cách là điều rất quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T22:00:00+07:00",
+      "fetched": "2026-01-10T05:12:54.751826+07:00"
+    },
+    {
+      "id": "6e1b99ef43881c9423a88a41101c3838",
+      "title": "Người phụ nữ ở TP.HCM bị tố lượm 5 tờ vé số trúng giải đặc biệt",
+      "link": "https://thanhnien.vn/nguoi-phu-nu-o-tphcm-bi-to-luom-5-to-ve-so-trung-giai-dac-biet-185260109164324859.htm",
+      "summary": "Bà P. ở xã Xuân Sơn, TP.HCM bị tố lượm 5 tờ vé số trúng giải đặc biệt nhưng không trả lại 'chủ nhân', dù người này đến xin lại mà không cho.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T22:00:00+07:00",
+      "fetched": "2026-01-10T05:12:54.751948+07:00"
+    },
+    {
+      "id": "c5c2cebb9c56c838fb45ec238115504d",
+      "title": "Vì sao cần chiến lược bài bản khi tận dụng 'đất vàng' bỏ trống ở TP.HCM?",
+      "link": "https://thanhnien.vn/vi-sao-can-chien-luoc-bai-ban-khi-tan-dung-dat-vang-bo-trong-o-tphcm-18526010921102331.htm",
+      "summary": "Đại biểu khuyến nghị TP.HCM sớm có kế hoạch bài bản cho 'đất vàng' đang bỏ trống, thay vì chỉ sử dụng làm vườn hoa, công viên theo mùa vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T21:46:00+07:00",
+      "fetched": "2026-01-10T05:12:54.752069+07:00"
+    },
+    {
+      "id": "ccf7421af19b084c4bcc30dfa4c098b3",
+      "title": "TP.HCM chuyển đổi phòng công chứng sang tư nhân",
+      "link": "https://thanhnien.vn/tphcm-chuyen-doi-phong-cong-chung-sang-tu-nhan-18526010920344684.htm",
+      "summary": "Sở Tư pháp TP.HCM đã tinh gọn được bộ máy so với trước kia và đang chuyển đổi phòng công chứng (nhà nước) sang văn phòng công chứng (tư nhân).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T21:38:00+07:00",
+      "fetched": "2026-01-10T05:12:54.752191+07:00"
+    },
+    {
+      "id": "f3c7aab6cb9fb55063bd158757793776",
+      "title": "Chiến sự Ukraine ngày 1.416: Nga trả đũa bằng tên lửa 'không thể đánh chặn'",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1416-nga-tra-dua-bang-ten-lua-khong-the-danh-chan-185260109192647674.htm",
+      "summary": "Bộ Quốc phòng Nga tuyên bố quân đội nước này đã phát động cuộc tấn công quy mô lớn nhắm vào các mục tiêu trọng yếu của Ukraine nhằm đáp trả vụ tấn công vào dinh thự của Tổng thống Nga Vladimir Putin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T21:30:00+07:00",
+      "fetched": "2026-01-10T05:12:54.752313+07:00"
+    },
+    {
+      "id": "7db7b4dd96bdeb2fd4425ff2198e2437",
+      "title": "Cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành vì sao chậm mặt bằng?",
+      "link": "https://thanhnien.vn/cao-toc-tphcm-thu-dau-mot-chon-thanh-vi-sao-cham-mat-bang-185260109161031268.htm",
+      "summary": "Chiều 9.1, lãnh đạo UBND TP.HCM làm việc với Ban Quản lý dự án đầu tư xây dựng các công trình giao thông và 10 xã, phường về tiến độ giải phóng mặt bằng đường cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T21:20:00+07:00",
+      "fetched": "2026-01-10T05:12:54.752447+07:00"
+    },
+    {
+      "id": "7a057a46c37ec9b4216a8fce4132402c",
+      "title": "Bữa ăn nên kéo dài trong bao lâu, vì sao nên ăn chậm nhai kỹ?",
+      "link": "https://thanhnien.vn/bua-an-nen-keo-dai-trong-bao-lau-vi-sao-nen-an-cham-nhai-ky-185260109084455926.htm",
+      "summary": "Theo bác sĩ, ăn nhanh - nuốt vội về lâu dài sẽ gây ra nhiều tác hại cho sức khỏe, mặt khác, việc ăn chậm nhai kỹ sẽ giúp cơ thể tiêu hóa và điều hòa năng lượng hiệu quả hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T21:05:00+07:00",
+      "fetched": "2026-01-10T05:12:54.752569+07:00"
+    },
+    {
+      "id": "3915a50b8a013d1eb6a5ef1cc8f4a777",
+      "title": "Roy Keane: 'Ferguson bốc mùi ở Man Utd'",
+      "link": "https://vnexpress.net/roy-keane-ferguson-boc-mui-o-man-utd-5003862.html",
+      "summary": "Danh thủ Roy Keane cho rằng cựu HLV Alex Ferguson vẫn có nhiều ảnh hưởng tiêu cực khiến Man Utd không thể phát triển như kỳ vọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T21:00:00+07:00",
+      "fetched": "2026-01-10T05:12:51.317776+07:00"
+    },
+    {
+      "id": "406ebbaf59819159604a07d8f4d6cc60",
+      "title": "Gác tàu giữa lòng TP.HCM",
+      "link": "https://thanhnien.vn/gac-tau-giua-long-tphcm-185260109224023601.htm",
+      "summary": "Đoàn tàu SE lại hú còi chạy trong lòng thành phố. Bên ngoài, dòng xe lại cuồn cuộn tràn qua. Thanh chắn nâng lên, chị Tâm, anh Hoàng bước vào trạm chắn, lau mồ hôi, ghi chép giờ tàu; trên bàn, tách trà còn nghi ngút khói.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T21:00:00+07:00",
+      "fetched": "2026-01-10T05:12:54.752698+07:00"
+    },
+    {
+      "id": "ca514877aa2be6b07c0383dc4f12a3bb",
+      "title": "Người dân thích thú trong ngày TP.HCM lạnh như Đà Lạt",
+      "link": "https://thanhnien.vn/nguoi-dan-thich-thu-trong-ngay-tphcm-lanh-nhu-da-lat-185260109220733447.htm",
+      "summary": "Trong ngày tiết trời bất ngờ lạnh như Đà Lạt, nhiều người dân TP.HCM thích thú \"check-in\" mức nhiệt độ thấp lịch sử trên mạng xã hội với nhiều dòng cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T21:00:00+07:00",
+      "fetched": "2026-01-10T05:12:54.752820+07:00"
+    },
+    {
+      "id": "ba1cc5e39666429b300a3fa244ca093d",
+      "title": "Mức giảm trừ gia cảnh mới áp dụng ngay từ đầu năm",
+      "link": "https://thanhnien.vn/muc-giam-tru-gia-canh-moi-ap-dung-ngay-tu-dau-nam-185260109185112098.htm",
+      "summary": "Theo quy định, mức giảm trừ gia cảnh tăng, biểu thuế lũy tiến rút xuống còn 5 bậc áp dụng cho thu nhập từ tiền lương, tiền công sẽ được áp dụng ngay từ đầu năm 2026. Tuy nhiên, do chưa có hướng dẫn nên nhiều người vẫn băn khoăn không biết, liệu lương thưởng tết có được áp dụng biểu thuế và mức giảm ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T21:00:00+07:00",
+      "fetched": "2026-01-10T05:12:54.752940+07:00"
+    },
+    {
+      "id": "f8c878ffdd389cb3e64ba59f21e041f7",
+      "title": "Vì sao giá trứng gà, thịt heo tăng mạnh?",
+      "link": "https://thanhnien.vn/vi-sao-gia-trung-ga-thit-heo-tang-manh-185260109184828581.htm",
+      "summary": "Bất chấp thịt nhập tăng mạnh, giá thịt heo trên thị trường vẫn âm thầm và liên tục tăng. Một mặt hàng khác cũng rơi vào tình trạng tương tự là trứng gà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T21:00:00+07:00",
+      "fetched": "2026-01-10T05:12:54.753065+07:00"
+    },
+    {
+      "id": "3915a50b8a013d1eb6a5ef1cc8f4a777",
+      "title": "Roy Keane: 'Ferguson bốc mùi ở Man Utd'",
+      "link": "https://vnexpress.net/roy-keane-ferguson-boc-mui-o-man-utd-5003862.html",
+      "summary": "Danh thủ Roy Keane cho rằng cựu HLV Alex Ferguson vẫn có nhiều ảnh hưởng tiêu cực khiến Man Utd không thể phát triển như kỳ vọng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-09T21:00:00+07:00",
+      "fetched": "2026-01-10T05:13:04.831767+07:00"
     },
     {
       "id": "11e72e13b7242c540ecad2b247a99370",
