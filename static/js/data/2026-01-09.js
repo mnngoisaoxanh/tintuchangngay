@@ -1,7 +1,157 @@
 window.newsData_2026_01_09 = {
   "date": "2026-01-09",
-  "lastUpdated": "2026-01-09T21:15:59.765847+07:00",
+  "lastUpdated": "2026-01-09T23:16:25.125572+07:00",
   "articles": [
+    {
+      "id": "75a7a11fd139e77ae07b37902309ea0e",
+      "title": "Chủ tịch Nguyễn Văn Được: Sắp xếp báo chí là bước chuyển mình tất yếu để tinh gọn và mạnh mẽ hơn",
+      "link": "https://tuoitre.vn/chu-tich-nguyen-van-duoc-sap-xep-bao-chi-la-buoc-chuyen-minh-tat-yeu-de-tinh-gon-va-manh-me-hon-20260109202344882.htm",
+      "summary": "Chủ tịch Nguyễn Văn Được mong các cơ quan báo chí và người làm báo xem việc sắp xếp báo chí lần này là bước chuyển mình tất yếu, để tinh gọn và mạnh mẽ hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.053707+07:00",
+      "fetched": "2026-01-09T23:16:16.053818+07:00"
+    },
+    {
+      "id": "98122ca272ac80bfbea41d8f6154f887",
+      "title": "Xây cao tốc kết nối 3 tỉnh Cao Bằng - Lạng Sơn - Thái Nguyên",
+      "link": "https://tuoitre.vn/xay-cao-toc-ket-noi-3-tinh-cao-bang-lang-son-thai-nguyen-20260109185457811.htm",
+      "summary": "Lãnh đạo ba tỉnh Cao Bằng, Lạng Sơn và Thái Nguyên đã thống nhất nhiều nội dung hợp tác phát triển kinh tế - xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.053576+07:00",
+      "fetched": "2026-01-09T23:16:16.053696+07:00"
+    },
+    {
+      "id": "107cbcbe4e6cc9b8cb1270e1ec3fb402",
+      "title": "Bộ trưởng Bộ Công an Lương Tam Quang làm việc với Bắc Ninh, gỡ vướng mắc của sân bay Gia Bình",
+      "link": "https://tuoitre.vn/bo-truong-bo-cong-an-luong-tam-quang-lam-viec-voi-bac-ninh-go-vuong-mac-cua-san-bay-gia-binh-2026010920151058.htm",
+      "summary": "Đoàn công tác của Bộ Công an do Đại tướng Lương Tam Quang, Bộ trưởng Bộ Công an, làm Trưởng đoàn làm việc với tỉnh Bắc Ninh về tiến độ Cảng hàng không quốc tế Gia Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.053446+07:00",
+      "fetched": "2026-01-09T23:16:16.053565+07:00"
+    },
+    {
+      "id": "2de1fb7050b76a90c9215c95627ea29b",
+      "title": "Đà Nẵng mở đầu chuỗi sự kiện tầm cỡ quốc tế 2026 bằng không gian Tết Việt",
+      "link": "https://tuoitre.vn/da-nang-mo-dau-chuoi-su-kien-tam-co-quoc-te-2026-bang-khong-gian-tet-viet-20260109203546135.htm",
+      "summary": "Tối 9-1, đại diện lãnh đạo các cơ quan ngoại giao, tổ chức quốc tế, cộng đồng người nước ngoài tại Đà Nẵng đã trải nghiệm không khí Tết cổ truyền Việt Nam thông qua các hoạt động gói bánh chưng, viết thư pháp tại sự kiện \"Gặp gỡ Đà Nẵng 2026\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.053322+07:00",
+      "fetched": "2026-01-09T23:16:16.053435+07:00"
+    },
+    {
+      "id": "351c3e7d4de054812a6443b669ae4171",
+      "title": "TP.HCM thành lập hội đồng bộ môn với hơn 800 cán bộ, giáo viên giỏi",
+      "link": "https://tuoitre.vn/tp-hcm-thanh-lap-hoi-dong-bo-mon-voi-hon-800-can-bo-giao-vien-gioi-20260109202659276.htm",
+      "summary": "Hơn 800 cán bộ, giáo viên giỏi chuyên môn đã được lựa chọn vào Hội đồng bộ môn giáo dục phổ thông năm học 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.053198+07:00",
+      "fetched": "2026-01-09T23:16:16.053311+07:00"
+    },
+    {
+      "id": "ad8f5b09726c433530333520441553a1",
+      "title": "Anh trai say hi là game show 'hot' nhất mạng xã hội năm 2025",
+      "link": "https://tuoitre.vn/anh-trai-say-hi-la-gameshow-hot-nhat-mang-xa-hoi-nam-2025-20260109205447091.htm",
+      "summary": "Socialite hé lộ bảng xếp hạng được cộng đồng mạng đặc biệt quan tâm trong năm qua: Top 10 game show nhận được nhiều sự chú ý nhất trên mạng xã hội, với sự xuất hiện của những cái tên đình đám như Anh trai say hi, Em xinh say hi...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.053070+07:00",
+      "fetched": "2026-01-09T23:16:16.053188+07:00"
+    },
+    {
+      "id": "4076475584faeb5c95d0943013fbada1",
+      "title": "Thủ tướng: Hỗ trợ tivi, tủ lạnh cho gia đình vùng lũ khó khăn",
+      "link": "https://tuoitre.vn/thu-tuong-ho-tro-tivi-tu-lanh-cho-gia-dinh-vung-lu-kho-khan-20260109205350056.htm",
+      "summary": "Văn phòng Chính phủ ban hành thông báo số 14 kết luận của Thủ tướng Chính phủ Phạm Minh Chính tại cuộc họp đánh giá tiến độ thực hiện \"Chiến dịch Quang Trung\" thần tốc xây dựng lại, sửa chữa nhà ở cho các hộ dân bị thiệt hại do bão lũ vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.052937+07:00",
+      "fetched": "2026-01-09T23:16:16.053059+07:00"
+    },
+    {
+      "id": "ce5fff97cce4271ee2720cac8afd35db",
+      "title": "Phát triển TP.HCM thành trung tâm dịch vụ lớn, thí điểm giao dịch thịt heo qua sàn",
+      "link": "https://tuoitre.vn/phat-trien-tp-hcm-thanh-trung-tam-dich-vu-lon-thi-diem-giao-dich-thit-heo-qua-san-2026010920391644.htm",
+      "summary": "Ngành Công thương phải tập trung triển khai hiệu quả các chương trình, đề án đã được phê duyệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.052796+07:00",
+      "fetched": "2026-01-09T23:16:16.052910+07:00"
+    },
+    {
+      "id": "0f10e75d324f44d38c6c1ca61a080570",
+      "title": "Ukraine xác nhận tên lửa Oreshnik tấn công Lviv, công bố hình ảnh mảnh vỡ",
+      "link": "https://tuoitre.vn/ukraine-xac-nhan-ten-lua-oreshnik-tan-cong-lviv-cong-bo-hinh-anh-manh-vo-2026010921072878.htm",
+      "summary": "Ukraine xác nhận Nga đã phóng tên lửa Oreshnik vào vùng Lviv, đồng thời công bố hình ảnh các mảnh vỡ được cho là bộ dẫn đường và động cơ của vũ khí này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.052672+07:00",
+      "fetched": "2026-01-09T23:16:16.052785+07:00"
+    },
+    {
+      "id": "be54697b2f61283302de1e0c8d7456aa",
+      "title": "Lâm Đồng ký hợp tác truyền thông với 29 cơ quan báo chí",
+      "link": "https://tuoitre.vn/lam-dong-ky-hop-tac-truyen-thong-voi-29-co-quan-bao-chi-2026010917374903.htm",
+      "summary": "Sở Văn hóa, Thể thao và Du lịch tỉnh Lâm Đồng ký thỏa thuận hợp tác truyền thông năm 2026 với 29 cơ quan báo chí, tăng cường kênh thông tin chính thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.052546+07:00",
+      "fetched": "2026-01-09T23:16:16.052661+07:00"
+    },
+    {
+      "id": "925ac6d21b1cca7c38ecb8fed3d61358",
+      "title": "Gia đình 6 người nhập viện nghi ngộ độc sau khi ăn hạt cây củ đậu",
+      "link": "https://tuoitre.vn/gia-dinh-6-nguoi-nhap-vien-nghi-ngo-doc-sau-khi-an-hat-cay-cu-dau-2026010920514925.htm",
+      "summary": "Sáu người trong cùng gia đình xuất hiện các triệu chứng bất thường như buồn nôn, đau bụng, kích thích, vật vã sau khi ăn hạt trong quả cây củ đậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.052417+07:00",
+      "fetched": "2026-01-09T23:16:16.052535+07:00"
+    },
+    {
+      "id": "1744f24c43ec703233b7acd1f59b7100",
+      "title": "Hai cha con hết xăng dắt bộ, người lạ tấp xe vào lề đường rút xăng ra cho",
+      "link": "https://tuoitre.vn/hai-cha-con-het-xang-dat-bo-nguoi-la-tap-xe-vao-le-duong-rut-xang-ra-cho-20260109214813554.htm",
+      "summary": "Chứng kiến cảnh người dắt bộ xe máy vì hết xăng được người đi đường tận tình giúp đỡ, anh Lương Văn Luật (ở xã Xuân Thới Sơn, TP.HCM) đã trích xuất clip do camera ghi lại và chia sẻ lên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.052286+07:00",
+      "fetched": "2026-01-09T23:16:16.052406+07:00"
+    },
+    {
+      "id": "3119e8cae08188c0ffe10e9cc609f8b2",
+      "title": "Khởi tố kẻ trộm 9 điện thoại trị giá hơn 300 triệu đồng trong Thế giới di động",
+      "link": "https://tuoitre.vn/khoi-to-ke-trom-9-dien-thoai-tri-gia-hon-300-trieu-dong-trong-the-gioi-di-dong-2026010921072995.htm",
+      "summary": "Công an TP Hải Phòng bắt kẻ trộm 9 chiếc điện thoại trị giá hơn 300 triệu đồng trong Thế giới di động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.052150+07:00",
+      "fetched": "2026-01-09T23:16:16.052270+07:00"
+    },
+    {
+      "id": "498c8635714d8da9ae67e1262c569928",
+      "title": "Quân đội huy động trực thăng bảo đảm an ninh cho Đại hội Đảng lần thứ XIV",
+      "link": "https://tuoitre.vn/quan-doi-huy-dong-truc-thang-bao-dam-an-ninh-cho-dai-hoi-dang-lan-thu-xiv-20260109215910643.htm",
+      "summary": "Nhiều tổ bay trực thăng thuộc Trung đoàn 916, Sư đoàn 371 (Quân chủng Phòng không - Không quân), đã cơ động chuyển từ sân bay Hòa Lạc về sân bay Gia Lâm, sẵn sàng tham gia các nhiệm vụ đảm bảo an ninh cho Đại hội Đảng lần thứ XIV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.052006+07:00",
+      "fetched": "2026-01-09T23:16:16.052138+07:00"
+    },
+    {
+      "id": "8ef42a1abb9aedbcbf8f99d45fdacb82",
+      "title": "Tạm giữ kẻ cho vay lãi suất 'cắt cổ' 365%/năm",
+      "link": "https://tuoitre.vn/tam-giu-ke-cho-vay-lai-suat-cat-co-365-nam-20260109212348225.htm",
+      "summary": "Công an tỉnh Quảng Ninh đã tạm giữ hình sự kẻ cho vay với lãi suất 365%/năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:16:16.051752+07:00",
+      "fetched": "2026-01-09T23:16:16.051990+07:00"
+    },
     {
       "id": "85fa61d26d8625e89db064df788ec33f",
       "title": "Tin tức giá xe: MG RX5 giảm tới 244 triệu, SUV hạng C giá nay chỉ ngang Mitsubishi Xforce",
@@ -443,6 +593,116 @@ window.newsData_2026_01_09 = {
       "fetched": "2026-01-09T17:14:24.484973+07:00"
     },
     {
+      "id": "0cef0ad22f2e4f7b3503b06808c41e2b",
+      "title": "Dân futsal lập hat-trick sân 11: Câu chuyện tiếc nuối của chàng sinh viên năm cuối",
+      "link": "https://thanhnien.vn/dan-futsal-lap-hat-trick-san-11-cau-chuyen-tiec-nuoi-cua-chang-sinh-vien-nam-cuoi-185260109225941226.htm",
+      "summary": "Chủ nhà Trường ĐH Tôn Đức Thắng tạo ngay cơn địa chấn với chiến thắng 6 sao trước Trường ĐH Ngân hàng TP.HCM tại vòng loại khu vực TP.HCM giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO. Ngôi sao sáng nhất gọi tên Sỹ Oai với cú hat-trick ngay ngày chào sân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T16:13:00+07:00",
+      "fetched": "2026-01-09T23:16:14.931759+07:00"
+    },
+    {
+      "id": "464cfd26b4fb099d698d26dc7d406a1e",
+      "title": "Ông 'Sáu Sang' vẫn quá son với Thuận và Phát, U.23 Việt Nam càng đá càng hay!",
+      "link": "https://thanhnien.vn/anh-sau-sang-van-qua-son-voi-thuan-va-phat-u23-viet-nam-cang-da-cang-hay-185260109231021851.htm",
+      "summary": "Nhận thử thách cực đại trước U.23 Kyrgyzstan máu lửa và không còn gì để mất, HLV Kim Sang-sik vẫn hay và cả may giúp U.23 Việt Nam giành trọn 3 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T16:11:00+07:00",
+      "fetched": "2026-01-09T23:16:14.931942+07:00"
+    },
+    {
+      "id": "5a41c08bbdab54e201790f00de3d649e",
+      "title": "HLV Kim Sang-sik họp báo sau trận thắng Kyrgyzstan",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-hop-bao-sau-tran-thang-kyrgyzstan-5003946.html",
+      "summary": "HLV Kim Sang-sik đưa ra những đánh giá sau khi Việt Nam hạ Kyrgyzstan 2-1 ở lượt hai bảng A U23 châu Á 2026, vào tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-09T16:01:00+07:00",
+      "fetched": "2026-01-09T23:16:25.111479+07:00"
+    },
+    {
+      "id": "fa90e7bb9ce59330c3b37994fe2061bb",
+      "title": "HLV đội Trường ĐH Tôn Đức Thắng giải mã trận thắng 6 sao ngày khai màn",
+      "link": "https://thanhnien.vn/hlv-doi-truong-dh-ton-duc-thang-giai-ma-tran-thang-6-sao-ngay-khai-man-185260109213439054.htm",
+      "summary": "Đánh bại đội Trường ĐH Ngân hàng TP.HCM với tỷ số 6-0, chủ nhà Trường ĐH Tôn Đức Thắng đã có ngày ra quân không thể ngọt ngào hơn. Tuy nhiên, đằng sau cơn mưa bàn thắng ấy là những khoảnh khắc 'thót tim' mà chính HLV trưởng Nguyễn Đình Long cũng phải thừa nhận là đầy may mắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T15:57:00+07:00",
+      "fetched": "2026-01-09T23:16:14.932108+07:00"
+    },
+    {
+      "id": "acc581a000980ce64e32f354caffa7c3",
+      "title": "HLV Kim Sang-sik lại thay người như thần, U.23 Việt Nam đánh bại Kyrgyzstan nghẹt thở phút chót",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-lai-thay-nguoi-nhu-than-u23-viet-nam-danh-bai-kyrgyzstan-nghet-tho-phut-chot-185260109225441839.htm",
+      "summary": "U.23 Việt Nam vượt qua U.23 Kyrgyzstan nhờ bàn thắng muộn. Những điều chỉnh nhân sự hợp lý của HLV Kim Sang-sik tiếp tục phát huy hiệu quả, giúp đội tuyển giành trọn 3 điểm quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T15:56:00+07:00",
+      "fetched": "2026-01-09T23:16:14.932264+07:00"
+    },
+    {
+      "id": "e2d0efd291cea75325fc4b3df8b126bd",
+      "title": "Dàn người đẹp thập niên 2000 hội ngộ tại triển lãm của họa sĩ Lê Minh Khoa",
+      "link": "https://thanhnien.vn/dan-nguoi-dep-thap-nien-2000-hoi-ngo-tai-trien-lam-cua-hoa-si-le-minh-khoa-185260109212323745.htm",
+      "summary": "Không gian triển lãm của họa sĩ Lê Minh Khoa bỗng trở thành điểm hẹn ký ức khi dàn người đẹp đình đám thập niên 2000 cùng hội tụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T15:55:00+07:00",
+      "fetched": "2026-01-09T23:16:14.932418+07:00"
+    },
+    {
+      "id": "0b5734dfa0dcad2de7290053ee29bc0f",
+      "title": "Đài Loan chính thức trở thành 'xã hội siêu già'",
+      "link": "https://thanhnien.vn/dai-loan-chinh-thuc-tro-thanh-xa-hoi-sieu-gia-18526010919360426.htm",
+      "summary": "Đài Loan đã chính thức trở thành 'xã hội siêu già' theo tiêu chí của Liên Hiệp Quốc, với người từ 65 tuổi trở lên chiếm hơn 20% dân số, theo thống kê do Cơ quan Nội vụ Đài Loan công bố ngày 9.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T15:43:00+07:00",
+      "fetched": "2026-01-09T23:16:14.932572+07:00"
+    },
+    {
+      "id": "0e86dcdd962786d4ba5f70fd04dee1e6",
+      "title": "Cháy lớn trên đường Quách Điêu ở TP.HCM",
+      "link": "https://thanhnien.vn/chay-lon-tren-duong-quach-dieu-o-tphcm-185260109220435042.htm",
+      "summary": "Một vụ cháy vừa xảy ra trên đường Quách Điêu (TP.HCM) làm nhiều hộ kinh doanh bị ảnh hưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T15:41:00+07:00",
+      "fetched": "2026-01-09T23:16:14.932722+07:00"
+    },
+    {
+      "id": "c821d49ed30944f93eb7008828a2fe6d",
+      "title": "Bố Tạ Đình Phong từng có 3 năm không 'đụng chạm' tình trẻ kém 49 tuổi",
+      "link": "https://thanhnien.vn/bo-ta-dinh-phong-tung-co-3-nam-khong-dung-cham-tinh-tre-kem-49-tuoi-185260109220619797.htm",
+      "summary": "Ở tuổi 89, Tạ Hiền là một trong những nhân chứng sống của lịch sử điện ảnh Hồng Kông. Ông đã gắn bó với làng giải trí hơn nửa thế kỷ, trải qua nhiều giai đoạn thăng trầm, từ phim tiếng Quảng Đông sang tiếng Quan Thoại, từ phim đen trắng đến phim màu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T15:28:00+07:00",
+      "fetched": "2026-01-09T23:16:14.932878+07:00"
+    },
+    {
+      "id": "1a04e041114a65b52c6dfab38bbc01cc",
+      "title": "Dàn hoa hậu, á hậu đọ sắc tại thảm đỏ VUNGOC&SON",
+      "link": "https://thanhnien.vn/dan-hoa-hau-a-hau-do-sac-tai-tham-do-vungocson-185260109204059437.htm",
+      "summary": "Dạ tiệc cuối năm Haute Holiday do nhà thiết kế VUNGOC&SON tổ chức tối 8.1 tại TP.HCM, quy tụ gần 200 khách mời nghệ sĩ, người mẫu, doanh nhân cùng các đối tác quốc tế...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T15:20:00+07:00",
+      "fetched": "2026-01-09T23:16:14.933067+07:00"
+    },
+    {
+      "id": "f67a3ff16652bc0496ba2221c0da65fe",
+      "title": "Thủ tướng đề nghị tập đoàn Trung Quốc làm tàu điện ngầm Tân Sơn Nhất - Long Thành",
+      "link": "https://vnexpress.net/thu-tuong-de-nghi-tap-doan-trung-quoc-lam-tau-dien-ngam-tan-son-nhat-long-thanh-5003949.html",
+      "summary": "Thủ tướng Phạm Minh Chính đề nghị Tập đoàn xây dựng Thái Bình Dương nghiên cứu tham gia xây dựng dự án tàu điện ngầm từ sân bay Tân Sơn Nhất tới Long Thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T15:19:00+07:00",
+      "fetched": "2026-01-09T23:16:11.318270+07:00"
+    },
+    {
       "id": "0cd9faa9b76eea6a1e03d080cdeabdde",
       "title": "Giới thiệu ông Phạm Đức Ấn ứng cử đại biểu HĐND TP Đà Nẵng",
       "link": "https://tuoitre.vn/gioi-thieu-ong-pham-duc-an-ung-cu-dai-bieu-hdnd-tp-da-nang-20260109142458826.htm",
@@ -591,6 +851,46 @@ window.newsData_2026_01_09 = {
       "category": "Tổng hợp",
       "published": "2026-01-09T15:18:59.253824+07:00",
       "fetched": "2026-01-09T15:18:59.254031+07:00"
+    },
+    {
+      "id": "9700b5255718d1b9eb28107ab62fc952",
+      "title": "Mỹ chặn bắt tàu dầu liên quan đến Venezuela",
+      "link": "https://vnexpress.net/my-chan-bat-tau-dau-lien-quan-den-venezuela-5003941.html",
+      "summary": "Mỹ bắt tàu dầu Olina ở vùng biển Caribe, đánh dấu vụ chặn bắt thứ năm những tuần gần đây trong nỗ lực kiểm soát xuất khẩu dầu mỏ của Venezuela.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T14:32:52+07:00",
+      "fetched": "2026-01-09T23:16:11.318451+07:00"
+    },
+    {
+      "id": "9700b5255718d1b9eb28107ab62fc952",
+      "title": "Mỹ chặn bắt tàu dầu liên quan đến Venezuela",
+      "link": "https://vnexpress.net/my-chan-bat-tau-dau-lien-quan-den-venezuela-5003941.html",
+      "summary": "Mỹ bắt tàu dầu Olina ở vùng biển Caribe, đánh dấu vụ chặn bắt thứ năm những tuần gần đây trong nỗ lực kiểm soát xuất khẩu dầu mỏ của Venezuela.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-09T14:32:52+07:00",
+      "fetched": "2026-01-09T23:16:18.139759+07:00"
+    },
+    {
+      "id": "3e7cf8972ffbbfd4b3bbc9d5c3ce3259",
+      "title": "Lý Hoàng Nam cùng 700 VĐV tranh tài tại giải pickleball ở Đà Lạt",
+      "link": "https://thanhnien.vn/ly-hoang-nam-cung-700-vdv-tranh-tai-tai-giai-pickleball-o-da-lat-185260109202622434.htm",
+      "summary": "Giải Pickleball tỉnh Lâm Đồng mở rộng 2026 quy tụ gần 700 VĐV, trong đó có Lý Hoàng Nam, góp phần khuấy động không khí thể thao - du lịch Đà Lạt dịp đầu năm mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T14:23:00+07:00",
+      "fetched": "2026-01-09T23:16:14.933219+07:00"
+    },
+    {
+      "id": "469185e0feaa05007aabf559e87d0e93",
+      "title": "Những hình ảnh đẹp, tràn đầy năng lượng tại ngày khai mạc TNSV THACO cup 2026",
+      "link": "https://thanhnien.vn/nhung-hinh-anh-dep-tran-day-nang-luong-tai-ngay-khai-mac-tnsv-thaco-cup-2026-185260109203825505.htm",
+      "summary": "Lễ khai mạc giải bóng đá Thanh Niên sinh viên Việt Nam lần 4, năm 2026 cúp THACO (TNSV THACO cup 2026) đã chính thức diễn ra chiều 9.1, trên sân Trường ĐH Tôn Đức Thắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T14:22:00+07:00",
+      "fetched": "2026-01-09T23:16:14.933367+07:00"
     },
     {
       "id": "644536fc266d9341ffc6b61045c4ed31",
@@ -903,6 +1203,16 @@ window.newsData_2026_01_09 = {
       "fetched": "2026-01-09T21:15:52.517031+07:00"
     },
     {
+      "id": "00774800ed4a8837b524f05dd9249ea4",
+      "title": "Tranh cãi đề xuất du khách phải chứng minh tài chính khi đến Bali",
+      "link": "https://vnexpress.net/tranh-cai-de-xuat-du-khach-phai-chung-minh-tai-chinh-khi-den-bali-5003787.html",
+      "summary": "Thống đốc Bali cho rằng đề xuất mới nhằm hạn chế nhóm du khách chi tiêu thấp, nhưng việc thực thi có thể vấp phải nhiều rào cản pháp lý và thực tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T13:00:00+07:00",
+      "fetched": "2026-01-09T23:16:11.319761+07:00"
+    },
+    {
       "id": "3be7f77c9ba7600018ef443dd8ad5ac8",
       "title": "Em là cô gái vui vẻ và hay cười",
       "link": "https://vnexpress.net/em-la-co-gai-vui-ve-va-hay-cuoi-5003705.html",
@@ -1041,6 +1351,16 @@ window.newsData_2026_01_09 = {
       "category": "Kinh doanh",
       "published": "2026-01-09T12:39:20+07:00",
       "fetched": "2026-01-09T21:15:55.641463+07:00"
+    },
+    {
+      "id": "bff0f0f112f2e63882469aa8d267304d",
+      "title": "Siêu thị, cửa hàng tiện lợi gỡ sữa NAN thuộc diện thu hồi khỏi kệ",
+      "link": "https://vnexpress.net/sieu-thi-cua-hang-tien-loi-go-sua-nan-thuoc-dien-thu-hoi-khoi-ke-5003912.html",
+      "summary": "Sau thông báo thu hồi 17 lô sữa NAN, các hệ thống bán lẻ tại Hà Nội và TP HCM đồng loạt gỡ hàng thuộc diện thu hồi, rà soát mã lô.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-09T12:39:20+07:00",
+      "fetched": "2026-01-09T23:16:20.215936+07:00"
     },
     {
       "id": "da2030e8ea3b64c66f200c0c43452300",
