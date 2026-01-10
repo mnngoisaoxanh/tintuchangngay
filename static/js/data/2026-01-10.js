@@ -1,7 +1,157 @@
 window.newsData_2026_01_10 = {
   "date": "2026-01-10",
-  "lastUpdated": "2026-01-10T17:12:49.286351+07:00",
+  "lastUpdated": "2026-01-10T19:22:44.532776+07:00",
   "articles": [
+    {
+      "id": "ff7b1ff24aa76872cc107b4495993d4a",
+      "title": "Giao Công an tỉnh, các sở giám sát việc đấu giá khu ‘đất vàng’ bên biển Nha Trang",
+      "link": "https://tuoitre.vn/giao-cong-an-tinh-cac-so-giam-sat-viec-dau-gia-khu-dat-vang-ben-bien-nha-trang-20260110165522521.htm",
+      "summary": "Khu đất tại địa chỉ 48 - 48A Trần Phú, Nha Trang, có giá khởi điểm gần 691,5 tỉ đồng trong quá trình đấu giá quyền sử dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.990281+07:00",
+      "fetched": "2026-01-10T19:22:34.990393+07:00"
+    },
+    {
+      "id": "bfed87b5c8c9b2fd76a3e218507f15b0",
+      "title": "Trung Quốc, Nga, Iran tập trận hải quân, Nam Phi giải thích 'không nhằm đối đầu Mỹ'",
+      "link": "https://tuoitre.vn/trung-quoc-nga-iran-tap-tran-hai-quan-nam-phi-giai-thich-khong-nham-doi-dau-my-20260110170915983.htm",
+      "summary": "Trung Quốc, Nga và Iran chính thức khởi động cuộc tập trận hải quân chung tại vùng biển Nam Phi, trong chiến dịch mang tên 'BRICS Plus'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.990155+07:00",
+      "fetched": "2026-01-10T19:22:34.990270+07:00"
+    },
+    {
+      "id": "ce6e05cf42f9f3b3b94c132e8580661f",
+      "title": "Tăng trưởng GDP năm 2026 dự báo vượt 7%, nhờ xuất khẩu và FDI",
+      "link": "https://tuoitre.vn/tang-truong-gdp-nam-2026-du-bao-vuot-7-nho-xuat-khau-va-fdi-2026011016303462.htm",
+      "summary": "Ngân hàng UOB (Singapore) nâng dự báo tăng trưởng GDP Việt Nam 2026 đạt 7,5%, với nhận định của nhiều nhà quan sát cho rằng động lực sẽ tiếp tục đến từ xuất khẩu và dòng vốn đầu tư nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.990025+07:00",
+      "fetched": "2026-01-10T19:22:34.990140+07:00"
+    },
+    {
+      "id": "26ecac115a7790f4baee237a2a4d9db2",
+      "title": "Đại tướng Lê Văn Dũng, nguyên Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam từ trần",
+      "link": "https://tuoitre.vn/dai-tuong-le-van-dung-nguyen-chu-nhiem-tong-cuc-chinh-tri-quan-doi-nhan-dan-viet-nam-tu-tran-20260110173050241.htm",
+      "summary": "Đại tướng Lê Văn Dũng, nguyên Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam, đã từ trần hồi 15h40 ngày 9-1-2026 tại nhà riêng, hưởng thọ 81 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.989877+07:00",
+      "fetched": "2026-01-10T19:22:34.990013+07:00"
+    },
+    {
+      "id": "7b6d2dcf19df880791dd7bf60f7c90e9",
+      "title": "Doanh nghiệp du lịch đề nghị Phú Quốc lập 'cảnh sát du lịch'",
+      "link": "https://tuoitre.vn/doanh-nghiep-du-lich-de-nghi-phu-quoc-lap-canh-sat-du-lich-20260110155904286.htm",
+      "summary": "Nhiều doanh nghiệp làm du lịch ở Phú Quốc (tỉnh An Giang) đề xuất địa phương cần phát triển du lịch xanh, cao cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.989747+07:00",
+      "fetched": "2026-01-10T19:22:34.989865+07:00"
+    },
+    {
+      "id": "5e67b741244d5cb6c34cb4b3c090f860",
+      "title": "Tổng giám đốc Công ty cổ phần đồ hộp Hạ Long Trương Sỹ Toàn bị bắt",
+      "link": "https://tuoitre.vn/bat-tong-giam-doc-cong-ty-co-phan-do-hop-ha-long-20260110173714813.htm",
+      "summary": "Công an TP Hải Phòng đã bắt giữ ông Trương Sỹ Toàn, Tổng giám đốc Công ty cổ phần đồ hộp Hạ Long.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.989622+07:00",
+      "fetched": "2026-01-10T19:22:34.989736+07:00"
+    },
+    {
+      "id": "0779a3243d0eed7ab43024d982bde35c",
+      "title": "Thủ tướng yêu cầu khởi công đường sắt Bến Thành - Tham Lương trước ngày 19-1",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-khoi-cong-duong-sat-ben-thanh-tham-luong-truoc-ngay-19-1-2026011017380628.htm",
+      "summary": "'TP.HCM khẩn trương hoàn thiện thủ tục, khởi công tuyến Bến Thành - Tham Lương trước ngày 19-1; ưu tiên tuyến đường sắt kết nối Cảng hàng không quốc tế Long Thành và Cảng hàng không quốc tế Tân Sơn Nhất', Thủ tướng yêu cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.989495+07:00",
+      "fetched": "2026-01-10T19:22:34.989610+07:00"
+    },
+    {
+      "id": "9cb447408915d6b9b8553067fcdcbae2",
+      "title": "Liên minh Niềm tin số khẳng định vai trò kiến tạo 'không gian mạng an toàn'",
+      "link": "https://tuoitre.vn/lien-minh-niem-tin-so-khang-dinh-vai-tro-kien-tao-khong-gian-mang-an-toan-20260110173434291.htm",
+      "summary": "Phó cục trưởng Cục A05 cho rằng niềm tin số chính là nền tảng của xã hội số, không có niềm tin không thể phát triển kinh tế số, văn hóa số, chuyển đổi số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.989368+07:00",
+      "fetched": "2026-01-10T19:22:34.989484+07:00"
+    },
+    {
+      "id": "cf124a3e48900fe9a211c11698d36ba7",
+      "title": "Lập danh sách hơn 400 món ngon tại TP.HCM: Phòng khi thèm ăn gì thì vô tìm thử",
+      "link": "https://tuoitre.vn/lap-danh-sach-hon-400-mon-ngon-tai-tp-hcm-phong-khi-them-an-gi-thi-vo-tim-thu-20260110172117345.htm",
+      "summary": "Giữa nhịp sống bận rộn của TP.HCM, câu hỏi quen thuộc 'ăn gì hôm nay?' nhiều khi trở thành nỗi ám ảnh không của riêng ai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.989236+07:00",
+      "fetched": "2026-01-10T19:22:34.989357+07:00"
+    },
+    {
+      "id": "622ce37bb0c69e37f55e4e1aa51bdd3d",
+      "title": "Điểm tin 18h: 12 dấu ấn nổi bật của TP.HCM năm 2025; Mỹ siết vòng phong tỏa dầu Venezuela",
+      "link": "https://tuoitre.vn/diem-tin-18h-12-dau-an-noi-bat-cua-tp-hcm-nam-2025-my-siet-vong-phong-toa-dau-venezuela-20260110170012401.htm",
+      "summary": "Điểm tin 18h ngày 10-1-2026: 12 dấu ấn nổi bật của TP.HCM năm 2025; Mỹ siết vòng phong tỏa dầu Venezuela",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.989094+07:00",
+      "fetched": "2026-01-10T19:22:34.989224+07:00"
+    },
+    {
+      "id": "11401b21ce5e7417df882fab1560ec28",
+      "title": "Quân đoàn 34 hoàn thành thắng lợi 'Chiến dịch Quang Trung'",
+      "link": "https://tuoitre.vn/quan-doan-34-hoan-thanh-thang-loi-chien-dich-quang-trung-20260110175502277.htm",
+      "summary": "Khép lại 'Chiến dịch Quang Trung' thần tốc, các đơn vị thuộc Quân đoàn 34 đã khánh thành, bàn giao 80 căn nhà cho người dân hai tỉnh Gia Lai, Đắk Lắk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.988904+07:00",
+      "fetched": "2026-01-10T19:22:34.989080+07:00"
+    },
+    {
+      "id": "96f22aa51cd33c18540b352fcdbccf86",
+      "title": "Nữ sinh lớp 6 bị bạn đánh ngay trong phòng học vào giờ nghỉ trưa",
+      "link": "https://tuoitre.vn/nu-sinh-lop-6-bi-ban-danh-ngay-trong-phong-hoc-vao-gio-nghi-trua-20260110175911877.htm",
+      "summary": "Một nữ sinh lớp 6 ở Lào Cai bị bạn dùng tay, chân tác động vật lý ở lớp học trong thời gian nghỉ trưa. Hiện cơ quan chức năng đang giải quyết vụ việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.988760+07:00",
+      "fetched": "2026-01-10T19:22:34.988891+07:00"
+    },
+    {
+      "id": "b7dd186267d5240e560d202fdf3e5fec",
+      "title": "Nhấn mạnh tranh tụng giữa thẩm phán và luật sư để nâng cao chất lượng xét xử",
+      "link": "https://tuoitre.vn/nhan-manh-tranh-tung-giua-tham-phan-va-luat-su-de-nang-cao-chat-luong-xet-xu-20260110174427715.htm",
+      "summary": "Nhiều thẩm phán cấp cao cùng ngồi lại với các luật sư có tiếng để tọa đàm về việc tăng cường tranh tụng tại tòa án nhằm nâng cao chất lượng xét xử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.988625+07:00",
+      "fetched": "2026-01-10T19:22:34.988748+07:00"
+    },
+    {
+      "id": "bb29f352e5eb3220dcd4f3ff28cb5a1f",
+      "title": "Học gói bánh chưng, làm mứt dừa, nấu cỗ ở Thảo Điền, cảm giác 'Tết đến sớm dữ'",
+      "link": "https://tuoitre.vn/hoc-goi-banh-chung-lam-mut-dua-nau-co-o-thao-dien-cam-giac-tet-den-som-du-20260110174228484.htm",
+      "summary": "Không khí Tết rần rần tại Rosemary Hill Garden (Thảo Điền) ngày 10-1. Bạn trẻ tập gói bánh chưng, hai bà đồ ngồi viết chữ thư pháp, đầu bếp tất bật chuẩn bị mâm cỗ ngày xuân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.988481+07:00",
+      "fetched": "2026-01-10T19:22:34.988612+07:00"
+    },
+    {
+      "id": "9a2aa692601160880fa07ed11f8d464f",
+      "title": "Phấn đấu đưa cao tốc Biên Hòa - Vũng Tàu vào khai thác trước Tết Nguyên đán 2026",
+      "link": "https://tuoitre.vn/phan-dau-dua-cao-toc-bien-hoa-vung-tau-vao-khai-thac-truoc-tet-nguyen-dan-2026-20260110180404971.htm",
+      "summary": "Cao tốc Biên Hòa - Vũng Tàu từ nút giao với cao tốc TP.HCM - Long Thành (tỉnh Đồng Nai) đến quốc lộ 56 (TP.HCM) dự kiến đưa vào khai thác trước Tết Nguyên đán 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T19:22:34.988259+07:00",
+      "fetched": "2026-01-10T19:22:34.988465+07:00"
+    },
     {
       "id": "f672a67d10a6f9b2009d2dbd04174db4",
       "title": "Chưa đầy 70 ngày, bộ đội Quân khu 5 đã xây xong 610 căn nhà, hoàn thành Chiến dịch Quang Trung",
@@ -453,6 +603,156 @@ window.newsData_2026_01_10 = {
       "fetched": "2026-01-10T13:18:27.085581+07:00"
     },
     {
+      "id": "010c777a20bf293f5fee5147945c25f1",
+      "title": "Truy nã đặc biệt kế toán Phòng khám đa khoa quốc tế Đà Nẵng",
+      "link": "https://thanhnien.vn/truy-na-dac-biet-ke-toan-phong-kham-da-khoa-quoc-te-da-nang-185260110173951265.htm",
+      "summary": "Công an TP.Đà Nẵng khởi tố bổ sung vụ án xảy ra tại Phòng khám đa khoa quốc tế Đà Nẵng. Đồng thời truy nã đặc biệt nữ kế toán bỏ trốn và truy tìm 3 người nước ngoài có liên quan để phục vụ công tác điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:21:00+07:00",
+      "fetched": "2026-01-10T19:22:33.895861+07:00"
+    },
+    {
+      "id": "247d1767a6c8e3a75e22213004bc18a3",
+      "title": "21 thiếu nữ được giải cứu trong đường dây mua bán người liên tỉnh",
+      "link": "https://vnexpress.net/21-thieu-nu-duoc-giai-cuu-trong-duong-day-mua-ban-nguoi-lien-tinh-5004163.html",
+      "summary": "Khi điều tra đường dây mua bán người dưới 16 tuổi núp bóng làm tiếp tiên quán karaoke, massage, công an đã giải cứu 21 thiếu nữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:11:32+07:00",
+      "fetched": "2026-01-10T19:22:30.463801+07:00"
+    },
+    {
+      "id": "2e083f076a21737e14dcb4490d5d927b",
+      "title": "'Chỉ một cú nhấp chuột một người có thể thành nạn nhân của lừa đảo'",
+      "link": "https://thanhnien.vn/chi-mot-cu-nhap-chuot-mot-nguoi-co-the-thanh-nan-nhan-cua-lua-dao-185260110175626397.htm",
+      "summary": "Theo Cục phó Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, chỉ vài giây thông tin sai lệch có thể lan truyền tới hàng triệu người và chỉ một cú nhấp chuột một người có thể thành nạn nhân của lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:07:00+07:00",
+      "fetched": "2026-01-10T19:22:33.896056+07:00"
+    },
+    {
+      "id": "c641c14b85a597aa606c89ea55c19c32",
+      "title": "'Đòn giáng kép' vào đảng Cộng hòa ngay đầu năm bầu cử giữa kỳ",
+      "link": "https://vnexpress.net/don-giang-kep-vao-dang-cong-hoa-ngay-dau-nam-bau-cu-giua-ky-5002664.html",
+      "summary": "Cái chết bất ngờ của một nghị sĩ và rạn nứt nội bộ giáng đòn kép vào đảng Cộng hòa, khiến phe này khó giữ thế kiểm soát Hạ viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:05:00+07:00",
+      "fetched": "2026-01-10T19:22:30.464004+07:00"
+    },
+    {
+      "id": "c641c14b85a597aa606c89ea55c19c32",
+      "title": "'Đòn giáng kép' vào đảng Cộng hòa ngay đầu năm bầu cử giữa kỳ",
+      "link": "https://vnexpress.net/don-giang-kep-vao-dang-cong-hoa-ngay-dau-nam-bau-cu-giua-ky-5002664.html",
+      "summary": "Cái chết bất ngờ của một nghị sĩ và rạn nứt nội bộ giáng đòn kép vào đảng Cộng hòa, khiến phe này khó giữ thế kiểm soát Hạ viện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-10T12:05:00+07:00",
+      "fetched": "2026-01-10T19:22:36.847542+07:00"
+    },
+    {
+      "id": "ae486aa633bf919109cb77200dc61eef",
+      "title": "Cách gọi đặt bàn bằng tiếng Anh",
+      "link": "https://vnexpress.net/cach-goi-dat-ban-bang-tieng-anh-5003873.html",
+      "summary": "Bạn có thể dùng \"reserve\" hoặc \"reservation\" để đặt bàn ở nhà hàng bằng tiếng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:00:00+07:00",
+      "fetched": "2026-01-10T19:22:30.464171+07:00"
+    },
+    {
+      "id": "f1a4b3c53a6259303b0d4966c5694f80",
+      "title": "Nhiễm nhiều chủng HPV cùng lúc",
+      "link": "https://vnexpress.net/nhiem-nhieu-chung-hpv-cung-luc-5004099.html",
+      "summary": "Nhận kết quả xét nghiệm nhiễm 4 chủng virus HPV nguy cơ cao, gồm 16, 31, 39, 58, khiến Diệp Lam, 26 tuổi, Gia Lai sốc, lo mắc ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:00:00+07:00",
+      "fetched": "2026-01-10T19:22:30.464331+07:00"
+    },
+    {
+      "id": "773c180d1740f18e2888dc899f5a36ee",
+      "title": "Vì sao chạy bộ trở thành một phần lối sống hiện đại",
+      "link": "https://vnexpress.net/vi-sao-chay-bo-tro-thanh-loi-song-hien-dai-5002915.html",
+      "summary": "Dễ tiếp cận, mang lại lợi ích thể chất lẫn tinh thần, chạy bộ dần vượt khỏi khuôn khổ thể thao để trở thành lựa chọn sống của nhiều người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:00:00+07:00",
+      "fetched": "2026-01-10T19:22:30.464490+07:00"
+    },
+    {
+      "id": "30bda55f88744f4b40b09816c6c31c6a",
+      "title": "Sinh viên Trường ĐH Tôn Đức Thắng tự hào khi giải TNSV tổ chức ngay trên sân nhà",
+      "link": "https://thanhnien.vn/sinh-vien-truong-dh-ton-duc-thang-tu-hao-khi-giai-tnsv-to-chuc-ngay-tai-185260110173132418.htm",
+      "summary": "Sinh viên Trường ĐH Tôn Đức Thắng bày tỏ sự tự hào khi giải bóng đá TNSV THACO CUP 2026 được tổ chức ngay tại sân trường, vừa tạo nên không khí sôi động quen mà lạ, vừa tiếp thêm niềm tin rằng đây là một sân chơi lớn, mở ra những giấc mơ xa hơn cho các cầu thủ sinh viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T11:55:00+07:00",
+      "fetched": "2026-01-10T19:22:33.896221+07:00"
+    },
+    {
+      "id": "c061e9cd2c31525d5a215096afc3b885",
+      "title": "Lý do không nên buộc nơ to lên tay nắm vali khi du lịch",
+      "link": "https://vnexpress.net/ly-do-khong-nen-buoc-no-to-len-tay-nam-vali-khi-du-lich-5004065.html",
+      "summary": "Nhiều khách thường buộc nơ to lên tay nắm vali để dễ nhận diện hành lý trên băng chuyền, nhưng đây cũng có thể thành nguyên nhân chính khiến đồ bị thất lạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T11:46:31+07:00",
+      "fetched": "2026-01-10T19:22:30.464646+07:00"
+    },
+    {
+      "id": "1d16b6232ef8ef7a3db243c122d2c1ea",
+      "title": "Cựu vương Trường ĐH Sư phạm TDTT TP.HCM thắng rất đậm: Màn tái xuất ấn tượng",
+      "link": "https://thanhnien.vn/cuu-vuong-truong-dh-su-pham-tdtt-tphcm-thang-rat-dam-man-tai-xuat-an-tuong-185260110183854413.htm",
+      "summary": "Với chiến thắng đậm đà 7-0 trước đội Trường ĐH Quản lý và Công nghệ TP.HCM chiều 10.1, cựu vương Trường ĐH Sư phạm TDTT TP.HCM đã xóa bỏ 'dớp' khởi đầu chậm chạp và khẳng định quyết tâm lấy lại vị thế tại giải bóng đá Thanh Niên sinh viên Việt Nam lần IV – 2026 cúp THACO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T11:44:00+07:00",
+      "fetched": "2026-01-10T19:22:33.896380+07:00"
+    },
+    {
+      "id": "1dde8cedd0ebc251da966fa8175a02a6",
+      "title": "Đại tướng Lê Văn Dũng từ trần",
+      "link": "https://vnexpress.net/dai-tuong-le-van-dung-tu-tran-5004158.html",
+      "summary": "Đại tướng, Anh hùng Lực lượng vũ trang nhân dân Lê Văn Dũng, nguyên Bí thư Trung ương Đảng, nguyên Chủ nhiệm Tổng cục Chính trị, từ trần chiều 9/1 tại nhà riêng, hưởng thọ 81 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T11:37:22+07:00",
+      "fetched": "2026-01-10T19:22:30.464801+07:00"
+    },
+    {
+      "id": "968b10cbbf6fbadc67abdcf9bac83c11",
+      "title": "TS.Nguyễn Thị Phương Thảo kêu gọi nhà đầu tư toàn cầu cùng kiến tạo tương lai thịnh vượng tại Đà Nẵng",
+      "link": "https://thanhnien.vn/tsnguyen-thi-phuong-thao-keu-goi-nha-dau-tu-toan-cau-cung-kien-tao-tuong-lai-thinh-vuong-tai-da-nang-185260110180507748.htm",
+      "summary": "Chiều 9.1, tại Cung Hội nghị quốc tế Ariyana Đà Nẵng, Hội nghị Công bố Nghị quyết số 259/2025/QH15 của Quốc hội và Xúc tiến đầu tư vào thành phố Đà Nẵng năm 2026 đã diễn ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T11:31:00+07:00",
+      "fetched": "2026-01-10T19:22:33.896535+07:00"
+    },
+    {
+      "id": "8a48bbbe8e0869632d3282ebda3f9035",
+      "title": "Thời tiết TP.HCM se lạnh đến khi nào? Dự báo chi tiết từ nay đến 20.1",
+      "link": "https://thanhnien.vn/thoi-tiet-tphcm-se-lanh-den-khi-nao-du-bao-chi-tiet-tu-nay-den-201-1852601101814342.htm",
+      "summary": "Thời tiết TP.HCM những ngày qua se lạnh hiếm thấy, nhất là về đêm và sáng sớm. Người dân quan tâm đợt lạnh này kéo dài bao lâu, dưới đây là dự báo chi tiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T11:30:00+07:00",
+      "fetched": "2026-01-10T19:22:33.896692+07:00"
+    },
+    {
+      "id": "7a6432bca8d807ef24336df10b7212ed",
+      "title": "Nghĩa trang thái giám duy nhất ở Việt Nam nằm ở đâu?",
+      "link": "https://vnexpress.net/nghia-trang-thai-giam-duy-nhat-o-viet-nam-nam-o-dau-5004068.html",
+      "summary": "Nghĩa trang tồn tại gần 180 năm trong khuôn viên ngôi chùa cổ, do các thái giám triều Nguyễn góp công xây dựng để làm nơi an nghỉ vào cuối đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T11:28:07+07:00",
+      "fetched": "2026-01-10T19:22:30.464978+07:00"
+    },
+    {
       "id": "b566840dfaadf6f9e16d9be4570801f8",
       "title": "Mỹ ban hành hướng dẫn mới về chế độ dinh dưỡng",
       "link": "https://tuoitre.vn/my-ban-hanh-huong-dan-moi-ve-che-do-dinh-duong-20260109145000898.htm",
@@ -601,6 +901,186 @@ window.newsData_2026_01_10 = {
       "category": "Tổng hợp",
       "published": "2026-01-10T11:27:06.301217+07:00",
       "fetched": "2026-01-10T11:27:06.301440+07:00"
+    },
+    {
+      "id": "539019d69e7b61d84c52bb4795677376",
+      "title": "Lộ danh tính ông ‘vua’ bắt trận U.23 Việt Nam quyết đấu Ả Rập Xê Út, nữ trọng tài VAR người Úc",
+      "link": "https://thanhnien.vn/lo-danh-tinh-ong-vua-bat-tran-u23-viet-nam-quyet-dau-a-rap-xe-ut-nu-trong-tai-var-nguoi-uc-185260110181444325.htm",
+      "summary": "Tối 10.1, Liên đoàn Bóng đá châu Á (AFC) đã công bố tổ trọng tài điều khiển trận đấu đáng chú ý giữa U.23 Việt Nam và U.23 Ả Rập Xê Út, diễn ra ngày 12.1 tại sân Prince Abdullah Al Faisal Sports City.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T11:22:00+07:00",
+      "fetched": "2026-01-10T19:22:33.896853+07:00"
+    },
+    {
+      "id": "ebdd6df427d8d1f54dd2e4499fcf0cd4",
+      "title": "Tay vợt tennis và pickleball Lê Công Tiển qua đời",
+      "link": "https://vnexpress.net/tay-vot-tennis-va-pickleball-le-cong-tien-qua-doi-5004161.html",
+      "summary": "Vận động viên Lê Công Tiển qua đời chiều 10/1, sau ba ngày điều trị tích cực tại bệnh viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T11:12:31+07:00",
+      "fetched": "2026-01-10T19:22:30.465137+07:00"
+    },
+    {
+      "id": "e54b3a15f08915e43dd26661372561e4",
+      "title": "NASA phải đưa phi hành gia trên trạm vũ trụ ISS về sớm vì sự cố bất ngờ",
+      "link": "https://thanhnien.vn/nasa-phai-dua-phi-hanh-gia-tren-tram-vu-tru-iss-ve-som-vi-su-co-bat-ngo-185260110101446674.htm",
+      "summary": "Một thành viên phi hành đoàn trên Trạm Vũ trụ Quốc tế (ISS) gặp ‘tình trạng sức khỏe nghiêm trọng’ đã khiến NASA phải đưa phi hành gia này và ba đồng đội trở về trái đất sớm hơn dự kiến vài tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T11:02:00+07:00",
+      "fetched": "2026-01-10T19:22:33.897028+07:00"
+    },
+    {
+      "id": "d1b26b5f7f467d6deb4d5bc3d228c8aa",
+      "title": "Bạn trai tôi yêu hai năm làm người yêu cũ có thai bốn tháng",
+      "link": "https://vnexpress.net/ban-trai-toi-yeu-hai-nam-lam-nguoi-yeu-cu-co-thai-bon-thang-5004160.html",
+      "summary": "Anh nói hai người đã chia tay trước khi quen tôi, nhưng sau đó có một lần gặp lại, yếu lòng và chuyện đã xảy ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T11:00:00+07:00",
+      "fetched": "2026-01-10T19:22:30.465295+07:00"
+    },
+    {
+      "id": "bc3bfb8abb5b6dcfd389ef0adbe29904",
+      "title": "Lửa bùng lên từ quả pháo nổ đốt mặt bé trai cháy đen",
+      "link": "https://vnexpress.net/lua-bung-len-tu-qua-phao-no-dot-mat-be-trai-chay-den-5004063.html",
+      "summary": "Bé trai 13 tuổi cùng bạn đốt quả pháo vừa mua qua mạng, pháo phát nổ và lửa bất ngờ bùng lên ập vào mặt bé gây bỏng nặng, cháy đen.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T11:00:00+07:00",
+      "fetched": "2026-01-10T19:22:30.465457+07:00"
+    },
+    {
+      "id": "38d88390f774746144cb9af8273a04d1",
+      "title": "Đau lưng do căng cơ khác bệnh cột sống thế nào",
+      "link": "https://vnexpress.net/dau-lung-do-cang-co-khac-benh-cot-song-the-nao-5004142.html",
+      "summary": "Đau lưng do căng cơ thường xuất hiện đột ngột, giảm rõ rệt sau nghỉ ngơi, còn các bệnh lý cột sống gây đau lưng kéo dài, có thể lan xuống mông, tay chân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T11:00:00+07:00",
+      "fetched": "2026-01-10T19:22:30.465608+07:00"
+    },
+    {
+      "id": "42a89999213d40aace1bf5b8ca119d97",
+      "title": "Chăm sóc môi đúng cách khi hanh khô",
+      "link": "https://vnexpress.net/cham-soc-moi-dung-cach-khi-hanh-kho-5004139.html",
+      "summary": "Thoa son dưỡng ẩm, uống đủ nước, tránh liếm môi hoặc bóc vảy, dùng mặt nạ môi, massage để giữ cho đôi môi luôn mềm mại trong mùa đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T11:00:00+07:00",
+      "fetched": "2026-01-10T19:22:30.465773+07:00"
+    },
+    {
+      "id": "d099d9d9024e2d2574964cad158c75bb",
+      "title": "Không lẽ cả đời cơm nhà tự nấu để né thực phẩm bẩn?",
+      "link": "https://vnexpress.net/khong-le-ca-doi-com-nha-tu-nau-de-ne-thuc-pham-ban-5004131.html",
+      "summary": "Người đồng nghiệp của tôi bỗng dưng mang cơm đi làm và khoe 'đồ dưới quê gửi lên'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:57:29+07:00",
+      "fetched": "2026-01-10T19:22:30.465969+07:00"
+    },
+    {
+      "id": "4ede0855ea267cab1f076e7dc471c845",
+      "title": "Đại tướng Lê Văn Dũng từ trần",
+      "link": "https://thanhnien.vn/dai-tuong-le-van-dung-tu-tran-185260110172820526.htm",
+      "summary": "Đại tướng, Anh hùng Lực lượng vũ trang nhân dân Lê Văn Dũng, nguyên Bí thư T.Ư Đảng, nguyên Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam, đã từ trần hồi 15 giờ 40 ngày 9.1.2026 tại nhà riêng, hưởng thọ 81 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:55:00+07:00",
+      "fetched": "2026-01-10T19:22:33.897181+07:00"
+    },
+    {
+      "id": "b2b19d7689f6688a2eec73e8e94d8998",
+      "title": "Bắt khẩn cấp Tổng giám đốc Công ty CP Đồ hộp Hạ Long",
+      "link": "https://thanhnien.vn/bat-khan-cap-tong-giam-doc-cong-ty-cp-do-hop-ha-long-185260110173531826.htm",
+      "summary": "Viện KSND TP.Hải Phòng vừa phê chuẩn lệnh bắt người bị giữ trong trường hợp khẩn cấp của Cơ quan CSĐT Công an TP.Hải Phòng đối với ông Trương Sỹ Toàn, Tổng giám đốc Công ty CP Đồ hộp Hạ Long, để điều tra liên quan vụ việc hơn 130 tấn thịt lợn nhiễm dịch tả lợn châu Phi bị phát hiện tại địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:52:00+07:00",
+      "fetched": "2026-01-10T19:22:33.897337+07:00"
+    },
+    {
+      "id": "3de9543b4f14f751d3db8c795bb2edf1",
+      "title": "'Hà Nội phải được định vị là trung tâm kiến tạo phát triển quốc gia'",
+      "link": "https://vnexpress.net/ha-noi-phai-duoc-dinh-vi-la-trung-tam-kien-tao-phat-trien-quoc-gia-5004125.html",
+      "summary": "Tổng Bí thư Tô Lâm nhấn mạnh Hà Nội không thể phát triển theo tư duy một địa phương lớn mà phải được định vị và vận hành như trung tâm kiến tạo phát triển quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:49:46+07:00",
+      "fetched": "2026-01-10T19:22:30.466129+07:00"
+    },
+    {
+      "id": "fe687748abeb5f5f52d247b6ea6a58d0",
+      "title": "Rao bán hàng hóa không có thật trên mạng xã hội chiếm đoạt 1,3 tỉ đồng",
+      "link": "https://thanhnien.vn/rao-ban-hang-hoa-khong-co-that-tren-mang-xa-hoi-chiem-doat-13-ti-dong-185260110170828332.htm",
+      "summary": "Với thủ đoạn rao bán hàng hóa không có thật trên mạng xã hội, Nguyễn Tấn Hoàng đã thành công lừa hơn 100 người để chiếm đoạt 1,3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:35:00+07:00",
+      "fetched": "2026-01-10T19:22:33.897490+07:00"
+    },
+    {
+      "id": "533853079fbd020c6aebbbcc1bae68cd",
+      "title": "Bất ngờ vé trúng độc đắc xổ số miền Nam ngày 10 tháng 1: Trúng 2 giải!",
+      "link": "https://thanhnien.vn/bat-ngo-ve-trung-doc-dac-xo-so-mien-nam-ngay-10-thang-1-trung-2-giai-185260110164627133.htm",
+      "summary": "Theo kết quả xổ số miền Nam ngày 10 tháng 1, vé trúng độc đắc đài TP.HCM còn... trúng thêm một giải. Hôm nay, nhiều người cũng truy tìm dãy số 777777 đài Long An.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:33:00+07:00",
+      "fetched": "2026-01-10T19:22:33.897638+07:00"
+    },
+    {
+      "id": "e34b9da686371cda79ce8496d4094660",
+      "title": "Các đảng phái Greenland tuyên bố không muốn bị Mỹ kiểm soát",
+      "link": "https://vnexpress.net/cac-dang-phai-greenland-tuyen-bo-khong-muon-bi-my-kiem-soat-5004136.html",
+      "summary": "Các đảng phái chính trị tại Greenland phản đối ý tưởng nằm dưới quyền kiểm soát của Mỹ khi Tổng thống Trump thể hiện quyết tâm muốn có được hòn đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-10T10:31:33+07:00",
+      "fetched": "2026-01-10T19:22:36.847720+07:00"
+    },
+    {
+      "id": "d7467fb43f94c96c56dcf8b34ec5a285",
+      "title": "Triệt xóa ổ mại dâm 'VIP' trong khách sạn Mường Thanh, Samdi",
+      "link": "https://thanhnien.vn/triet-xoa-o-mai-dam-vip-trong-khach-san-muong-thanh-samdi-185260110165959145.htm",
+      "summary": "Công an TP.Đà Nẵng đồng loạt đột kích lúc rạng sáng, triệt xóa 2 tụ điểm mại dâm 'VIP' hoạt động tinh vi, khép kín trong khách sạn Mường Thanh và Samdi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:30:00+07:00",
+      "fetched": "2026-01-10T19:22:33.897789+07:00"
+    },
+    {
+      "id": "fa7fdc0a784a4b3f85504d1173d6c686",
+      "title": "Đà Nẵng sẽ xử lý trách nhiệm người đứng đầu nếu còn 'thủ tục con'",
+      "link": "https://thanhnien.vn/da-nang-se-xu-ly-trach-nhiem-nguoi-dung-dau-neu-con-thu-tuc-con-185260110164525629.htm",
+      "summary": "Chủ tịch UBND TP.Đà Nẵng yêu cầu rà soát, xóa bỏ các loại giấy tờ, hồ sơ phát sinh không có căn cứ pháp lý; đồng thời xử lý nghiêm trách nhiệm người đứng đầu nếu cố tình duy trì các 'thủ tục con' gây phiền hà cho người dân và doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:30:00+07:00",
+      "fetched": "2026-01-10T19:22:33.897957+07:00"
+    },
+    {
+      "id": "109c2f04a8cc5227656d06d3e94ca7a3",
+      "title": "'Thay đổi tư duy, cách làm là yếu tố quyết định thành công'",
+      "link": "https://vnexpress.net/thay-doi-tu-duy-cach-lam-la-yeu-to-quyet-dinh-thanh-cong-5004126.html",
+      "summary": "Theo Bí thư Đảng ủy Bộ Khoa học và Công nghệ Nguyễn Mạnh Hùng, việc thay đổi tư duy, nhận thức, cách tiếp cận và cách làm là yếu tố quyết định thành công của những chủ trương lớn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-10T10:18:22+07:00",
+      "fetched": "2026-01-10T19:22:42.589201+07:00"
+    },
+    {
+      "id": "339cc24ad2c577f5ba094d40bce58897",
+      "title": "Ông Trump nói Mỹ cần sở hữu Greenland để ngăn chặn Nga, Trung Quốc",
+      "link": "https://thanhnien.vn/ong-trump-noi-my-can-so-huu-greenland-de-ngan-chan-nga-trung-quoc-185260110155057088.htm",
+      "summary": "Tổng thống Mỹ Donald Trump nói Mỹ sẽ 'làm điều gì đó với Greenland, dù là theo cách dễ dàng hay khó khăn', nhằm răn đe Nga và Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:18:00+07:00",
+      "fetched": "2026-01-10T19:22:33.898128+07:00"
     },
     {
       "id": "a50842428f59de969d44c1911b60c8df",
