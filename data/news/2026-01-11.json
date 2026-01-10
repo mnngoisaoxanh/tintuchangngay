@@ -1,5 +1,15 @@
 [
   {
+    "id": "9bd6bfa51d2132299cb14c044859686c",
+    "title": "Cùng 6 điểm như Việt Nam, U23 Nhật Bản đã giành vé vào tứ kết Giải U23 châu Á",
+    "link": "https://tuoitre.vn/cung-6-diem-nhu-viet-nam-u23-nhat-ban-da-gianh-ve-vao-tu-ket-giai-u23-chau-a-20260110204251401.htm",
+    "summary": "Rạng sáng 11-1, U23 Nhật Bản đã trở thành đội đầu tiên vượt qua vòng bảng Giải U23 châu Á 2026 nhờ kết quả có lợi từ trận Syria thắng Qatar 1-0.",
+    "source": "Tuổi Trẻ",
+    "category": "Tổng hợp",
+    "published": "2026-01-11T03:13:15.161259+07:00",
+    "fetched": "2026-01-11T03:13:15.161376+07:00"
+  },
+  {
     "id": "01578e6ef060846c4c092da692e2c41c",
     "title": "Trước ngưỡng cửa đại học, học sinh vùng sâu hỏi thẳng chuyện đam mê, việc làm và… lấy chồng",
     "link": "https://tuoitre.vn/truoc-nguong-cua-dai-hoc-hoc-sinh-vung-sau-hoi-thang-chuyen-dam-me-viec-lam-va-lay-chong-20260110191010127.htm",
@@ -148,6 +158,66 @@
     "category": "Tổng hợp",
     "published": "2026-01-11T01:17:32.164452+07:00",
     "fetched": "2026-01-11T01:17:32.164665+07:00"
+  },
+  {
+    "id": "7a60d0baf613a8cc5cfe698c9b0651e6",
+    "title": "U23 Việt Nam tránh gặp Nhật Bản ở tứ kết nếu đứng nhất bảng",
+    "link": "https://vnexpress.net/u23-viet-nam-tranh-gap-nhat-ban-o-tu-ket-neu-dung-nhat-bang-5004210.html",
+    "summary": "Nhật Bản đánh bại UAE 3-0 ở lượt hai để chắc chắn vào tứ kết với tư cách nhất bảng B U23 châu Á 2026, tối 10/1.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-01-10T19:09:29+07:00",
+    "fetched": "2026-01-11T03:13:11.471172+07:00"
+  },
+  {
+    "id": "7a60d0baf613a8cc5cfe698c9b0651e6",
+    "title": "U23 Việt Nam tránh gặp Nhật Bản ở tứ kết nếu đứng nhất bảng",
+    "link": "https://vnexpress.net/u23-viet-nam-tranh-gap-nhat-ban-o-tu-ket-neu-dung-nhat-bang-5004210.html",
+    "summary": "Nhật Bản đánh bại UAE 3-0 ở lượt hai để chắc chắn vào tứ kết với tư cách nhất bảng B U23 châu Á 2026, tối 10/1.",
+    "source": "VnExpress - Thể Thao",
+    "category": "Thể thao",
+    "published": "2026-01-10T19:09:29+07:00",
+    "fetched": "2026-01-11T03:13:23.425578+07:00"
+  },
+  {
+    "id": "1bf019a86731f01acbc63d282dd73b87",
+    "title": "Hội chứng mệt mỏi mạn tính",
+    "link": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-met-moi-man-tinh-394",
+    "summary": "Hội chứng mệt mỏi mạn tính là rối loạn đặc trưng bởi mệt mỏi hoặc kiệt sức kéo dài ít nhất 6 tháng và không giảm sau khi nghỉ ngơi.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-01-10T19:00:00+07:00",
+    "fetched": "2026-01-11T03:13:11.471353+07:00"
+  },
+  {
+    "id": "cddd150a9686289ebe7a2acf83d42d22",
+    "title": "Sau bữa ăn, chờ bao lâu mới đánh răng để không mòn men?",
+    "link": "https://thanhnien.vn/sau-bua-an-cho-bao-lau-moi-danh-rang-de-khong-mon-men-185260109190843277.htm",
+    "summary": "Men răng là mô cứng nhất trong cơ thể. Tuy nhiên, chúng không phải lúc nào cũng ở trạng thái khó bị tổn thương. Sau khi ăn các thực phẩm có tính a xít, bề mặt men răng tạm thời mềm hơn và dễ bị mài mòn.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-01-10T18:38:00+07:00",
+    "fetched": "2026-01-11T03:13:14.371034+07:00"
+  },
+  {
+    "id": "3b8e7c3032f22ac8c1b7bd6522bd4f25",
+    "title": "Trứng với thịt đỏ: Loại nào tốt cho đường huyết hơn?",
+    "link": "https://thanhnien.vn/trung-voi-thit-do-loai-nao-tot-cho-duong-huyet-hon-185260109191404544.htm",
+    "summary": "Khi so sánh trứng và thịt đỏ về mức độ ảnh hưởng đến đường huyết, nhiều người thường nghĩ đến việc giữa 2 món này, món nào làm tăng đường nhiều hơn. Tuy nhiên, điều cần lưu ý là cả 2 món này đều không chứa đường bột.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-01-10T18:35:00+07:00",
+    "fetched": "2026-01-11T03:13:14.371244+07:00"
+  },
+  {
+    "id": "a80ad45f7f7f060666f5f8145d2179b5",
+    "title": "Chú bảo vệ 50 tuổi lương 6 triệu đồng nhất quyết dắt xe dù tôi từ chối",
+    "link": "https://vnexpress.net/chu-bao-ve-50-tuoi-luong-6-trieu-dong-nhat-quyet-dat-xe-du-toi-tu-choi-5004147.html",
+    "summary": "Ông chú bảo vệ ở cửa hàng quần áo tôi hay mua phải mở cửa, dắt xe cho khách và nhiều việc lặt vặt khác.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-01-10T18:32:47+07:00",
+    "fetched": "2026-01-11T03:13:11.471516+07:00"
   },
   {
     "id": "1decd4334cea1472d564c9148cb9923d",
@@ -348,6 +418,16 @@
     "category": "Công nghệ",
     "published": "2026-01-10T17:00:00+07:00",
     "fetched": "2026-01-11T01:17:37.925822+07:00"
+  },
+  {
+    "id": "8414e853ad119ce48bacc75881bb5cd5",
+    "title": "Từng chứng kiến bạn gái với người khác, tôi không dám kết hôn",
+    "link": "https://vnexpress.net/tung-chung-kien-ban-gai-voi-nguoi-khac-toi-khong-dam-ket-hon-5004174.html",
+    "summary": "Tôi vẫn quen người mới, vẫn đi ăn, đi chơi nhưng không thể tiến xa thêm, tôi sợ mình lại bị phản bội lần nữa.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-01-10T17:00:00+07:00",
+    "fetched": "2026-01-11T03:13:11.472972+07:00"
   },
   {
     "id": "ec2108bb4737d7e90b3647559fb856ce",
