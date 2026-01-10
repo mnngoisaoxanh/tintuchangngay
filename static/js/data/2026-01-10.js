@@ -1,7 +1,157 @@
 window.newsData_2026_01_10 = {
   "date": "2026-01-10",
-  "lastUpdated": "2026-01-10T07:59:29.017188+07:00",
+  "lastUpdated": "2026-01-10T10:17:24.118118+07:00",
   "articles": [
+    {
+      "id": "a50842428f59de969d44c1911b60c8df",
+      "title": "Bị phạt vì đăng tin ‘con rể ngủ với mẹ vợ' nhằm tăng tương tác để bán hàng online",
+      "link": "https://tuoitre.vn/dang-tin-con-re-ngu-voi-me-vo-nam-thanh-nien-bi-cong-an-trieu-tap-20260109225323656.htm",
+      "summary": "Đăng tin 'con rể ngủ với mẹ vợ' để câu view bán hàng online, nam thanh niên bị lực lượng công an triệu tập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.800790+07:00",
+      "fetched": "2026-01-10T10:17:18.800904+07:00"
+    },
+    {
+      "id": "c256ba28e9b672a03b400bcccc3a04fc",
+      "title": "Toàn cảnh 9 khu ‘đất vàng’ trung tâm TP.HCM đang chờ trở thành công viên, vườn hoa Tết",
+      "link": "https://tuoitre.vn/toan-canh-9-khu-dat-vang-trung-tam-tp-hcm-dang-cho-tro-thanh-cong-vien-vuon-hoa-tet-20260109184131135.htm",
+      "summary": "Hiện trạng các “khu đất vàng” vừa được Sở Nông nghiệp và Môi trường đề xuất UBND TP.HCM  “dỡ rào” làm công viên, vườn hoa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.800643+07:00",
+      "fetched": "2026-01-10T10:17:18.800779+07:00"
+    },
+    {
+      "id": "67c64564d692892c4a2b8dd7591e3b07",
+      "title": "Triều Tiên tố drone Hàn Quốc xâm nhập không phận, cảnh báo Seoul phải trả giá đắt",
+      "link": "https://tuoitre.vn/trieu-tien-to-drone-han-quoc-xam-nhap-khong-phan-canh-bao-seoul-phai-tra-gia-dat-20260110072035044.htm",
+      "summary": "Triều Tiên cáo buộc Hàn Quốc vi phạm nghiêm trọng chủ quyền quốc gia và làm leo thang căng thẳng hai bên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.800502+07:00",
+      "fetched": "2026-01-10T10:17:18.800616+07:00"
+    },
+    {
+      "id": "546d6654914a23725412115b5ee7e95d",
+      "title": "Hoa bưởi ngát hương",
+      "link": "https://tuoitre.vn/hoa-buoi-ngat-huong-2026010916551014.htm",
+      "summary": "Năm nay, khi bước vào sân ngôi nhà cũ ở cuối con ngõ nhỏ, tôi biết mình đang trở về một cái Tết đã khác xưa. Đây là cái Tết đầu tiên mà ông nội không còn nữa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.800377+07:00",
+      "fetched": "2026-01-10T10:17:18.800491+07:00"
+    },
+    {
+      "id": "32a08580bfcedc4d3e4ed973418cead6",
+      "title": "Nhà thiết kế áo cưới nổi tiếng Lê Minh Khoa triển lãm tranh Giữa lao xao, thả mình trôi",
+      "link": "https://tuoitre.vn/nha-thiet-ke-ao-cuoi-noi-tieng-le-minh-khoa-trien-lam-tranh-giua-lao-xao-tha-minh-troi-20260110020745078.htm",
+      "summary": "Sau hơn ba thập kỷ đi giữa mỹ thuật ứng dụng và sáng tác, Lê Minh Khoa lần đầu ra mắt triển lãm cá nhân ‘Giữa lao xao, thả mình trôi’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.800252+07:00",
+      "fetched": "2026-01-10T10:17:18.800366+07:00"
+    },
+    {
+      "id": "edf3b445ac278925ca1130e61143b537",
+      "title": "Xe bay không cần bằng lái phi công, gập gọn để trên thùng bán tải, giá rẻ hơn Toyota Fortuner",
+      "link": "https://tuoitre.vn/xe-bay-khong-can-bang-lai-phi-cong-gap-gon-de-tren-thung-ban-tai-gia-re-hon-toyota-fortuner-20260109182147592.htm",
+      "summary": "Trình làng tại CES 2026, mẫu xe bay cá nhân Rictor X4 gây chú ý khi có giá chỉ 39.900 USD (1,048 tỉ đồng), khả năng cất hạ cánh thẳng đứng, bay tự động ở độ cao thấp và có thể giao tới tay khách hàng ngay trong năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.800127+07:00",
+      "fetched": "2026-01-10T10:17:18.800241+07:00"
+    },
+    {
+      "id": "7091ff730ce86d9780201dc1d3e3e71c",
+      "title": "Trời chuyển lạnh, cẩn trọng đột quỵ ở người cao tuổi",
+      "link": "https://tuoitre.vn/troi-chuyen-lanh-can-trong-dot-quy-o-nguoi-cao-tuoi-20260109193751089.htm",
+      "summary": "Những ngày này, miền Bắc rơi vào giá rét, miền Nam cũng ghi nhận nhiệt độ thấp vượt mốc lịch sử. Thời tiết chuyển lạnh tiềm ẩn nguy cơ gia tăng các ca cấp cứu đột quỵ, đặc biệt ở người cao tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.800002+07:00",
+      "fetched": "2026-01-10T10:17:18.800116+07:00"
+    },
+    {
+      "id": "125f9c2e8301f4b47af56e3a2da4332d",
+      "title": "2026 - năm bùng nổ sứ mệnh không gian: Trở lại Mặt trăng, chạm sao Thủy, thử lá chắn bảo vệ Trái đất",
+      "link": "https://tuoitre.vn/2026-nam-bung-no-su-menh-khong-gian-tro-lai-mat-trang-cham-sao-thuy-thu-la-chan-bao-ve-trai-dat-20260108092633337.htm",
+      "summary": "Từ chuyến bay có người lái quanh Mặt trăng đến các tàu thăm dò hành tinh và tiểu hành tinh, năm 2026 được kỳ vọng mang về nhiều dữ liệu khoa học đột phá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.799877+07:00",
+      "fetched": "2026-01-10T10:17:18.799991+07:00"
+    },
+    {
+      "id": "aa84361539920214a944a18250b4dd00",
+      "title": "TP.HCM công bố 12 dấu ấn nổi bật năm 2025",
+      "link": "https://tuoitre.vn/tp-hcm-cong-bo-12-dau-an-noi-bat-nam-2025-20260105135117439.htm",
+      "summary": "Ngày 10-1, TP.HCM công bố 12 dấu ấn nổi bật của TP.HCM trong năm 2025 ở các lĩnh vực: chính trị, kinh tế, chuyển đổi số và cải cách hành chính, giao thông, đô thị, quốc phòng, an ninh, văn hóa, xã hội…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.799748+07:00",
+      "fetched": "2026-01-10T10:17:18.799865+07:00"
+    },
+    {
+      "id": "a91c74145faa6230e2fb912cfc55c61d",
+      "title": "Trục Đông Bắc TP.HCM và dư địa mới cho bất động sản an cư",
+      "link": "https://tuoitre.vn/truc-dong-bac-tp-hcm-va-du-dia-moi-cho-bat-dong-san-an-cu-20260108140957396.htm",
+      "summary": "Thực tế thị trường cho thấy bất động sản thường gắn chặt với các trục hạ tầng được đầu tư bài bản, đặc biệt là những khu vực có khả năng kết nối trực tiếp với lõi đô thị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.799595+07:00",
+      "fetched": "2026-01-10T10:17:18.799736+07:00"
+    },
+    {
+      "id": "01bfe4f84c0d65c84ae259fac8ed862e",
+      "title": "Công ty TNHH Sen Đại Dương chấm dứt hoạt động dịch vụ việc làm",
+      "link": "https://tuoitre.vn/cong-ty-tnhh-sen-dai-duong-cham-dut-hoat-dong-dich-vu-viec-lam-20260109184151788.htm",
+      "summary": "Công ty TNHH Sen Đại Dương chấm dứt hoạt động dịch vụ việc làm",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.799468+07:00",
+      "fetched": "2026-01-10T10:17:18.799584+07:00"
+    },
+    {
+      "id": "d84faa11dc512d609538319730b00b22",
+      "title": "SMC bứt phá, ghi dấu trên bản đồ logistics Việt Nam và quốc tế",
+      "link": "https://tuoitre.vn/smc-but-pha-ghi-dau-tren-ban-do-logisitics-viet-nam-va-quoc-te-20260109190859668.htm",
+      "summary": "SMC Services and Engineering (SMC) vừa được vinh danh Top 500 doanh nghiệp tư nhân lớn nhất Việt Nam năm 2025 (VNR500) và Top 5 công ty logistics uy tín năm 2025 - nhóm ngành vận tải siêu trường siêu trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.799337+07:00",
+      "fetched": "2026-01-10T10:17:18.799456+07:00"
+    },
+    {
+      "id": "21b330aa1087e113d8f885129d83a4d7",
+      "title": "Điểm tin 8h: Thủ phủ quất cảnh Hội An vào vụ Tết; Đại dương hấp thụ lượng nhiệt kỷ lục",
+      "link": "https://tuoitre.vn/diem-tin-8h-thu-phu-quat-canh-hoi-an-vao-vu-tet-dai-duong-hap-thu-luong-nhiet-ky-luc-20260110043854424.htm",
+      "summary": "Điểm tin 8h ngày 10-1-2026: Thủ phủ quất cảnh Hội An vào vụ Tết; Đại dương hấp thụ lượng nhiệt kỷ lục",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.799203+07:00",
+      "fetched": "2026-01-10T10:17:18.799326+07:00"
+    },
+    {
+      "id": "742d07402284af48a92d380aeea8e199",
+      "title": "Nhân, Lễ, Nghĩa, Trí, Tín thời nào cũng cần khắc ghi",
+      "link": "https://tuoitre.vn/nhan-le-nghia-tri-tin-thoi-nao-cung-can-khac-ghi-20260110073945204.htm",
+      "summary": "Trung tâm Hoạt động văn hóa khoa học Văn Miếu - Quốc Tử Giám đã chọn mở màn chuỗi hoạt động trong năm kỷ niệm 950 năm thành lập Quốc Tử Giám (1076-2026) bằng chương trình nghệ thuật ‘Đạo học’, tôn vinh ‘ngũ thường’ Nhân, Lễ, Nghĩa, Trí, Tín.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.799057+07:00",
+      "fetched": "2026-01-10T10:17:18.799190+07:00"
+    },
+    {
+      "id": "75fc26d512ce87a20a75e5b5df0fd2ff",
+      "title": "Samsung đạt lợi nhuận 'khủng' nhờ chip nhớ",
+      "link": "https://tuoitre.vn/samsung-dat-loi-nhuan-khung-nho-chip-nho-20260109224128411.htm",
+      "summary": "Mức lợi nhuận kỷ lục của Samsung phản ánh sự bùng nổ của trí tuệ nhân tạo (AI) thời gian qua và cuộc đua dữ liệu toàn cầu, tạo ra bước ngoặt cho thị trường chip nhớ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T10:17:18.798817+07:00",
+      "fetched": "2026-01-10T10:17:18.799042+07:00"
+    },
     {
       "id": "e7a6d378601bc0718d09ac1fb9a89615",
       "title": "Vụ heo bệnh ở Công ty Đồ hộp Hạ Long: Khách hàng có thể yêu cầu bồi thường",
@@ -103,6 +253,16 @@ window.newsData_2026_01_10 = {
       "fetched": "2026-01-10T07:59:21.109943+07:00"
     },
     {
+      "id": "1b620918dcd25d49f197cf80100cc49d",
+      "title": "Nữ tài xế ô tô gây tai nạn liên hoàn trên cầu vượt, 1 người tử vong",
+      "link": "https://thanhnien.vn/nu-tai-xe-o-to-gay-tai-nan-lien-hoan-tren-cau-vuot-1-nguoi-tu-vong-185260110094055754.htm",
+      "summary": "Khi điều khiển xe ô tô trên cầu vượt, nữ tài xế T. (Hà Nội) đã gây ra tai nạn liên hoàn với 1 xe máy, 2 xe ô tô đi cùng chiều khiến người đi xe máy tử vong tại chỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T03:17:00+07:00",
+      "fetched": "2026-01-10T10:17:17.444028+07:00"
+    },
+    {
       "id": "b086403bbe3407f381de0f0e11d261de",
       "title": "Văn Thuận được FIFA so sánh với Bellingham",
       "link": "https://tuoitre.vn/van-thuan-duoc-fifa-so-sanh-voi-bellingham-20260110011822823.htm",
@@ -121,6 +281,286 @@ window.newsData_2026_01_10 = {
       "category": "Tổng hợp",
       "published": "2026-01-10T03:15:04.269109+07:00",
       "fetched": "2026-01-10T03:15:04.269333+07:00"
+    },
+    {
+      "id": "ea6e955fb01b03d885c55c80e457206a",
+      "title": "Doanh nghiệp Mỹ lo dầu mỏ ở Venezuela 'không thể đầu tư được'",
+      "link": "https://thanhnien.vn/doanh-nghiep-my-lo-dau-mo-o-venezuela-khong-the-dau-tu-duoc-185260110095152171.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã đưa ra những cam kết Washington sẽ kiểm soát hoạt động khai thác dầu mỏ ở Venezuela, song nhiều doanh nghiệp hàng đầu tỏ ra hoài nghi về triển vọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T03:15:00+07:00",
+      "fetched": "2026-01-10T10:17:17.444196+07:00"
+    },
+    {
+      "id": "3620f4ca672830a9bba4a4bd2a68a56b",
+      "title": "Mỹ sắp có nữ đại sứ đầu tiên ở Việt Nam?",
+      "link": "https://thanhnien.vn/my-sap-co-nu-dai-su-dau-tien-o-viet-nam-185260110100155629.htm",
+      "summary": "Bà Jennifer Wicks McNamara hiện là ứng viên Đại sứ Mỹ tại Việt Nam và đang chờ Thượng viện phê chuẩn để chính thức nhậm chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T03:13:00+07:00",
+      "fetched": "2026-01-10T10:17:17.444355+07:00"
+    },
+    {
+      "id": "ba64ad542c8a924b1fc280758f970d21",
+      "title": "Nhiều smartphone sắp không chạy được ứng dụng ngân hàng",
+      "link": "https://thanhnien.vn/nhieu-smartphone-sap-khong-chay-duoc-ung-dung-ngan-hang-185260110095207808.htm",
+      "summary": "Theo quy định mới, kể từ ngày 1.3, các ứng dụng ngân hàng bắt buộc tự động ngừng hoạt động nếu phát hiện thiết bị di động của người dùng đã bị can thiệp hệ điều hành (root/jailbreak) hoặc đang chạy trên môi trường giả lập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T03:11:00+07:00",
+      "fetched": "2026-01-10T10:17:17.444516+07:00"
+    },
+    {
+      "id": "9ada3443e21596977d6f5e70161f61f3",
+      "title": "Mã định danh bất động sản sẽ giúp thu thuế dễ hơn, ngăn đầu cơ?",
+      "link": "https://thanhnien.vn/ma-dinh-danh-bat-dong-san-se-giup-thu-thue-de-hon-ngan-dau-co-185260109193750772.htm",
+      "summary": "Theo các chuyên gia, mã định danh tương tự như \"căn cước\" với mỗi bất động sản, giúp quản lý thuế và đánh thuế bất động sản trong tương lai chính xác, minh bạch hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T03:11:00+07:00",
+      "fetched": "2026-01-10T10:17:17.444704+07:00"
+    },
+    {
+      "id": "ba10d1d8b80041feb1aef0e5c6e8ce99",
+      "title": "Đường mai tết đẹp lung linh ở Nhà văn hóa Thanh niên khi nào đón khách?",
+      "link": "https://thanhnien.vn/duong-mai-tet-dep-lung-linh-o-nha-van-hoa-thanh-nien-khi-nao-mo-cua-185260110100221274.htm",
+      "summary": "Lễ hội Tết Việt Bính Ngọ 2026 tại Nhà văn hóa Thanh niên TP.HCM (số 04 Phạm Ngọc Thạch, Phường Sài Gòn, TP.HCM) sẽ được tổ chức từ ngày 1.2.2026 đến ngày 21.2.2026 (nhằm ngày 14 tháng Chạp đến mùng 5 tết), với nhiều hoạt động mừng tết đặc sắc, nhất là đường mai thu hút nhiều người trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T03:02:00+07:00",
+      "fetched": "2026-01-10T10:17:17.444878+07:00"
+    },
+    {
+      "id": "460bcfe0731040bf9d64acc79949df38",
+      "title": "Báo Indonesia: 'U23 Việt Nam được Nữ thần May mắn phù hộ'",
+      "link": "https://vnexpress.net/bao-indonesia-u23-viet-nam-duoc-nu-than-may-man-phu-ho-5003998.html",
+      "summary": "Theo Bolasport và nhiều báo Indonesia khác, chiến thắng 2-1 của Việt Nam trước Kyrgyzstan ở lượt hai vòng bảng U23 châu Á 2026 đến nhờ may mắn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-10T03:01:52+07:00",
+      "fetched": "2026-01-10T10:17:24.110374+07:00"
+    },
+    {
+      "id": "9c61f9b530b94c9bdee8e4ea7a018aaf",
+      "title": "Nữ tài xế Grab bền bỉ chạy xe vì ước mơ đến trường của em trai",
+      "link": "https://thanhnien.vn/nu-tai-xe-grab-ben-bi-chay-xe-vi-uoc-mo-den-truong-cua-em-trai-18526010918264187.htm",
+      "summary": "Rong ruổi chạy xe mưu sinh trên khắp các nẻo đường, nữ tài xế Grab Trần Thị Diễm My kiên trì bám nghề để nuôi ước mơ đến trường của em trai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T03:00:00+07:00",
+      "fetched": "2026-01-10T10:17:17.445028+07:00"
+    },
+    {
+      "id": "0f2306b4ff62db7fc248d0c0728c7296",
+      "title": "Vụ cháy trên đường Quách Điêu: Nhiều người trắng tay, công an phong tỏa điều tra",
+      "link": "https://thanhnien.vn/vu-chay-tren-duong-quach-dieu-nguoi-dan-trang-tay-cong-an-phong-toa-dieu-tra-185260110091844655.htm",
+      "summary": "Liên quan vụ cháy trên đường Quách Điêu (xã Vĩnh Lộc, TP.HCM), sáng 10.1, cơ quan chức năng vẫn đang phong tỏa hiện trường để điều tra làm rõ nguyên nhân và thống kê thiệt hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:58:00+07:00",
+      "fetched": "2026-01-10T10:17:17.445185+07:00"
+    },
+    {
+      "id": "30c1a55a95d3f3f5cef328d56a1d5cff",
+      "title": "Trường ĐH Tây Đô nỗ lực ‘thăng hạng’ tại TNSV THACO cup 2026",
+      "link": "https://thanhnien.vn/truong-dh-tay-do-no-luc-thang-hang-tai-tnsv-thaco-cup-2026-185260110091803903.htm",
+      "summary": "Qua 2 năm đã tham gia, Trường ĐH Tây Đô không thua trắng nhưng đều bị loại ở vòng bảng. Đội đặt quyết tâm sẽ 'thăng hạng' tại vòng loại Tây Nam bộ giải bóng đá Thanh Niên sinh viên Việt Nam lần IV – 2026 cúp THACO (TNSV THACO cup 2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:55:00+07:00",
+      "fetched": "2026-01-10T10:17:17.445338+07:00"
+    },
+    {
+      "id": "322553412ed0cd970d666442a8f8061c",
+      "title": "Đình Bắc, Văn Khang không quên nỗi đau U.20 châu Á: Đừng đưa U.23 Việt Nam vào thế khó",
+      "link": "https://thanhnien.vn/dinh-bac-van-khang-khong-quen-noi-dau-u20-chau-a-dung-dua-u23-viet-nam-vao-the-kho-18526011009272839.htm",
+      "summary": "Tình thế của đội tuyển U.23 Việt Nam sau 2 lượt trận tại vòng chung kết giải U.23 châu Á 2026 hệt như đội tuyển U.20 cũng tại sân chơi châu lục cách đây 3 năm. Nhưng lần này ở lượt cuối sẽ khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:51:00+07:00",
+      "fetched": "2026-01-10T10:17:17.445489+07:00"
+    },
+    {
+      "id": "53ed7543d40b8628dbffa289d170ec84",
+      "title": "TP.HCM: Nam sinh 19 tuổi tử vong trong khuôn viên trường đại học",
+      "link": "https://thanhnien.vn/tphcm-nam-sinh-19-tuoi-tu-vong-trong-khuon-vien-truong-dai-hoc-185260110085946316.htm",
+      "summary": "Cơ quan chức năng TP.HCM đang điều tra nguyên nhân tử vong của một nam sinh 19 tuổi được phát hiện tại khuôn viên một trường đại học thuộc Đại học Quốc gia TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:51:00+07:00",
+      "fetched": "2026-01-10T10:17:17.445659+07:00"
+    },
+    {
+      "id": "ddbf01561fa095c28aa8ac50fa812906",
+      "title": "Venezuela đàm phán khôi phục quan hệ với Mỹ",
+      "link": "https://vnexpress.net/venezuela-dam-phan-khoi-phuc-quan-he-voi-my-5004012.html",
+      "summary": "Chính phủ Venezuela khởi động các cuộc đàm phán khôi phục quan hệ ngoại giao với Mỹ nhằm giải quyết những hệ quả từ vụ đột kích ngày 3/1.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-10T02:43:16+07:00",
+      "fetched": "2026-01-10T10:17:19.902665+07:00"
+    },
+    {
+      "id": "31c99839b2cb555faba259c5e0b68daa",
+      "title": "SanDisk sắp tăng gấp đôi giá SSD trong quý 1/2026",
+      "link": "https://thanhnien.vn/sandisk-sap-tang-gap-doi-gia-ssd-trong-quy-1-2026-185260110000703726.htm",
+      "summary": "SanDisk chuẩn bị tăng giá chip nhớ 3D NAND doanh nghiệp hơn 100% do nhu cầu lưu trữ phục vụ AI (trí tuệ nhân tạo) và trung tâm dữ liệu gia tăng nhanh chóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:43:00+07:00",
+      "fetched": "2026-01-10T10:17:17.445816+07:00"
+    },
+    {
+      "id": "44de88a27ac39aef3269e9bea6dcedb4",
+      "title": "Tấm sắt đặt chênh trên đường nguy hiểm",
+      "link": "https://thanhnien.vn/tam-sat-dat-chenh-tren-duong-nguy-hiem-185260109204335729.htm",
+      "summary": "Đơn vị thi công công trình ngầm đầu hẻm 56 đường Liên khu 4 - 5 nối với đường số 1, P.Bình Tân (trước đây thuộc P.Bình Hưng Hòa B, Q.Bình Tân), TP.HCM, đặt tấm sắt trên miệng hố giữa đường bị chênh, gây khó khăn và nguy hiểm cho người đi đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:40:00+07:00",
+      "fetched": "2026-01-10T10:17:17.445965+07:00"
+    },
+    {
+      "id": "854d0cf348477b66b4747e38ea773fe7",
+      "title": "Review miếng dán sẹo lồi Rejuvaskin Scar FX có hiệu quả với cả sẹo lâu năm?",
+      "link": "https://thanhnien.vn/review-mieng-dan-seo-loi-rejuvaskin-scar-fx-co-hieu-qua-voi-ca-seo-lau-nam-185260110085701803.htm",
+      "summary": "Sẹo lồi không chỉ ảnh hưởng đến thẩm mỹ mà còn gây khó chịu, tự ti cho nhiều người. Miếng dán silicone y tế Rejuvaskin Scar FX nổi lên như sản phẩm không xâm lấn, giúp làm mờ sẹo nhanh chóng sau 4-8 tuần. Liệu sản phẩm này có thực sự hiệu quả với cả sẹo lâu năm? Bài viết sẽ review chi tiết từ A-Z, d...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:38:00+07:00",
+      "fetched": "2026-01-10T10:17:17.446113+07:00"
+    },
+    {
+      "id": "eef7e52f11c08690445fd3f02ec79253",
+      "title": "Apple phát hành bản cập nhật 'bí mật' cho người dùng iPhone",
+      "link": "https://thanhnien.vn/apple-phat-hanh-ban-cap-nhat-bi-mat-cho-nguoi-dung-iphone-185260110082222314.htm",
+      "summary": "Apple vừa bất ngờ phát hành một bản cập nhật bảo mật \"bí mật\" dành cho một nhóm người dùng iPhone được chọn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:38:00+07:00",
+      "fetched": "2026-01-10T10:17:17.446264+07:00"
+    },
+    {
+      "id": "ba40aa62a23613267664ae8fb347da84",
+      "title": "Giữa trận đồ ma túy (kỳ 1): Triệt phá đường dây trị giá 1.400 tỷ đồng",
+      "link": "https://vnexpress.net/giua-tran-do-ma-tuy-ky-1-triet-pha-duong-day-tri-gia-1-400-ty-dong-4999655.html",
+      "summary": "Tướng Nguyễn Văn Viện cùng lực lượng C04 ngày đêm điều tra, truy vết chân dung bà trùm bí ẩn đứng sau đường dây buôn bán ma túy xuyên quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:19:59+07:00",
+      "fetched": "2026-01-10T10:17:14.277391+07:00"
+    },
+    {
+      "id": "ac5a2de267fc2d31eb441ad265e670f5",
+      "title": "Chiến thuật 'luyện' người thừa kế của ông chủ Louis Vuitton",
+      "link": "https://vnexpress.net/chien-thuat-luyen-nguoi-thua-ke-cua-ong-chu-louis-vuitton-5003516.html",
+      "summary": "Mỗi tháng một lần, Bernard Arnault triệu tập 5 người con về trụ sở LVMH ăn trưa, không phải để hàn huyên mà để kiểm tra năng lực tiếp quản đế chế hơn 300 tỷ euro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:12:22+07:00",
+      "fetched": "2026-01-10T10:17:14.277569+07:00"
+    },
+    {
+      "id": "8d1c416d69fb6269e49c606ab7031f21",
+      "title": "Ông Trump đọc to lời nhắn riêng từ Ngoại trưởng Rubio giữa cuộc họp",
+      "link": "https://vnexpress.net/ong-trump-doc-to-loi-nhan-rieng-tu-ngoai-truong-rubio-giua-cuoc-hop-5003977.html",
+      "summary": "Ngoại trưởng Rubio đưa Tổng thống Trump tờ giấy ghi lời nhắn riêng khi họp báo, nhưng ông chủ Nhà Trắng lại đọc to trước mọi người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:11:11+07:00",
+      "fetched": "2026-01-10T10:17:14.277756+07:00"
+    },
+    {
+      "id": "8d1c416d69fb6269e49c606ab7031f21",
+      "title": "Ông Trump đọc to lời nhắn riêng từ Ngoại trưởng Rubio giữa cuộc họp",
+      "link": "https://vnexpress.net/ong-trump-doc-to-loi-nhan-rieng-tu-ngoai-truong-rubio-giua-cuoc-hop-5003977.html",
+      "summary": "Ngoại trưởng Rubio đưa Tổng thống Trump tờ giấy ghi lời nhắn riêng khi họp báo, nhưng ông chủ Nhà Trắng lại đọc to trước mọi người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-10T02:11:11+07:00",
+      "fetched": "2026-01-10T10:17:19.902870+07:00"
+    },
+    {
+      "id": "888b891411ec828e8cddfa2790f32524",
+      "title": "Cú sốc con đi làm sớm, thu nhập cao, kinh nghiệm nhiều nhưng bị đuổi học",
+      "link": "https://vnexpress.net/cu-soc-con-di-lam-som-thu-nhap-cao-kinh-nghiem-nhieu-nhung-bi-duoi-hoc-5003989.html",
+      "summary": "Con trai tôi tập tành đi làm ngay từ những năm đầu đại học nhưng trớ trêu thay tấm bằng đại học vuột khỏi tầm tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:10:37+07:00",
+      "fetched": "2026-01-10T10:17:14.277923+07:00"
+    },
+    {
+      "id": "21eec6c64a4beafe980e75b0bb7dc4b9",
+      "title": "Triển lãm ôtô Mỹ chỉ có một màn ra mắt xe mới",
+      "link": "https://vnexpress.net/trien-lam-oto-my-chi-co-mot-man-ra-mat-xe-moi-5003976.html",
+      "summary": "Detroit Auto Show 2026 chỉ có một mẫu xe mới được xác nhận ra mắt, trong khi số thương hiệu tham dự nhiều hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:09:48+07:00",
+      "fetched": "2026-01-10T10:17:14.278080+07:00"
+    },
+    {
+      "id": "8a88b6e48c043b5c6649674657026715",
+      "title": "Chồng để tôi nuôi 3 năm, bố mẹ chồng vẫn bảo phải động viên anh",
+      "link": "https://vnexpress.net/chong-de-toi-nuoi-3-nam-bo-me-chong-van-bao-phai-dong-vien-anh-5003982.html",
+      "summary": "Mỗi lần tôi nhắc đến chuyện tiền bạc hay tương lai, anh cáu gắt, bảo tôi coi thường anh, tạo áp lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:00:00+07:00",
+      "fetched": "2026-01-10T10:17:14.278239+07:00"
+    },
+    {
+      "id": "d563d1057eecc4e5c7b0e4e3c496a866",
+      "title": "Làm mới trải nghiệm đón Tết với AI",
+      "link": "https://vnexpress.net/lam-moi-trai-nghiem-don-tet-voi-ai-5003990.html",
+      "summary": "Nhiều người trẻ chụp ảnh căn nhà sau đó dùng AI để gợi ý trang trí theo sở thích hay tận dụng công nghệ để học công thức nấu ăn lành mạnh dịp Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T02:00:00+07:00",
+      "fetched": "2026-01-10T10:17:14.278392+07:00"
+    },
+    {
+      "id": "530e603abc0b32601cfe3866b33806e9",
+      "title": "6 lợi ích ít biết của sữa chua Hy Lạp",
+      "link": "https://vnexpress.net/6-loi-ich-it-biet-cua-sua-chua-hy-lap-5003847.html",
+      "summary": "Sữa chua Hy Lạp cung cấp protein chất lượng cao hơn loại thông thường, chứa nhiều vitamin B12, canxi, selen, tốt cho xương và cơ bắp, hỗ trợ giảm cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T01:39:50+07:00",
+      "fetched": "2026-01-10T10:17:14.278546+07:00"
+    },
+    {
+      "id": "dd88dce3112ad6c6b92dae11f4130e44",
+      "title": "9 kiểu áo dài hot dịp Tết 2026",
+      "link": "https://vnexpress.net/9-kieu-ao-dai-hot-dip-tet-2026-5003721.html",
+      "summary": "Áo \"phú bà\", áo dài Y2K, áo tà kép là những mẫu đang được đẩy mạnh cho thị trường mua sắm thời trang dịp Tết Bính Ngọ 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T01:30:47+07:00",
+      "fetched": "2026-01-10T10:17:14.278750+07:00"
+    },
+    {
+      "id": "44b5d585329ab8c295678e80f9ab006c",
+      "title": "Ông Trump nêu thời điểm gặp Tổng thống Colombia",
+      "link": "https://vnexpress.net/ong-trump-neu-thoi-diem-gap-tong-thong-colombia-5003975.html",
+      "summary": "Tổng thống Trump thông báo người đồng cấp Colombia sẽ đến Mỹ vào đầu tháng 2, bày tỏ lạc quan về quan hệ giữa Washington và Bogota.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T01:25:44+07:00",
+      "fetched": "2026-01-10T10:17:14.278918+07:00"
+    },
+    {
+      "id": "44b5d585329ab8c295678e80f9ab006c",
+      "title": "Ông Trump nêu thời điểm gặp Tổng thống Colombia",
+      "link": "https://vnexpress.net/ong-trump-neu-thoi-diem-gap-tong-thong-colombia-5003975.html",
+      "summary": "Tổng thống Trump thông báo người đồng cấp Colombia sẽ đến Mỹ vào đầu tháng 2, bày tỏ lạc quan về quan hệ giữa Washington và Bogota.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-10T01:25:44+07:00",
+      "fetched": "2026-01-10T10:17:19.903043+07:00"
     },
     {
       "id": "3119e8cae08188c0ffe10e9cc609f8b2",
@@ -271,6 +711,66 @@ window.newsData_2026_01_10 = {
       "category": "Tổng hợp",
       "published": "2026-01-10T01:19:44.700716+07:00",
       "fetched": "2026-01-10T01:19:44.700939+07:00"
+    },
+    {
+      "id": "8ad1592c28ad045b6358bb287be6c2df",
+      "title": "Triều Tiên tuyên bố bắn hạ UAV Hàn Quốc",
+      "link": "https://vnexpress.net/trieu-tien-tuyen-bo-ban-ha-uav-han-quoc-5003973.html",
+      "summary": "Triều Tiên thông báo đã bắn hạ UAV Hàn Quốc được trang bị cảm biến trinh sát, khi nó xâm phạm không phận nước này hồi đầu tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T01:14:42+07:00",
+      "fetched": "2026-01-10T10:17:14.279075+07:00"
+    },
+    {
+      "id": "8ad1592c28ad045b6358bb287be6c2df",
+      "title": "Triều Tiên tuyên bố bắn hạ UAV Hàn Quốc",
+      "link": "https://vnexpress.net/trieu-tien-tuyen-bo-ban-ha-uav-han-quoc-5003973.html",
+      "summary": "Triều Tiên thông báo đã bắn hạ UAV Hàn Quốc được trang bị cảm biến trinh sát, khi nó xâm phạm không phận nước này hồi đầu tháng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-10T01:14:42+07:00",
+      "fetched": "2026-01-10T10:17:19.903217+07:00"
+    },
+    {
+      "id": "a7287f46225a93cf9d43abee0e337a7b",
+      "title": "Nhiều đại học thưởng Tết giảng viên 20-40 triệu đồng",
+      "link": "https://vnexpress.net/nhieu-dai-hoc-thuong-tet-giang-vien-20-40-trieu-dong-5003734.html",
+      "summary": "Mức thưởng Tết ở các đại học thường căn cứ thâm niên và vị trí công tác, phổ biến ở mức 20-40 triệu đồng, giữ vững hoặc tăng nhẹ so với năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T01:13:44+07:00",
+      "fetched": "2026-01-10T10:17:14.279226+07:00"
+    },
+    {
+      "id": "45805e6ed037d81f168135bb60183e96",
+      "title": "Phú Quý vào danh sách điểm đến hàng đầu Đông Nam Á năm 2026",
+      "link": "https://vnexpress.net/phu-quy-vao-danh-sach-diem-den-hang-dau-dong-nam-a-nam-2026-5003929.html",
+      "summary": "Đảo Phú Quý, tỉnh Lâm Đồng vào top 10 điểm đáng đến nhất Đông Nam Á 2026 do báo Thái bình chọn, với vẻ hoang sơ, \"đẹp như thước phim điện ảnh\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T01:05:27+07:00",
+      "fetched": "2026-01-10T10:17:14.279376+07:00"
+    },
+    {
+      "id": "68d41ad889f666cbaa68aeca75fcbf55",
+      "title": "Cô vợ đánh ghen nhầm nhà hàng xóm",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-co-vo-danh-ghen-nham-nha-hang-xom-5003662.html",
+      "summary": "Chỉ vì một phút bốc đồng và nước mắt lưng tròng, cô vợ đã tạo ra một pha đánh ghen nhầm nhà khiến ông chồng ngơ ngác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T01:00:00+07:00",
+      "fetched": "2026-01-10T10:17:14.279539+07:00"
+    },
+    {
+      "id": "d4de6b677033f5bdf5ee39ed1a5a0764",
+      "title": "60 giây giảm hơi thở có mùi vào buổi sáng",
+      "link": "https://vnexpress.net/60-giay-giam-hoi-tho-co-mui-vao-buoi-sang-5003920.html",
+      "summary": "Cạo lưỡi, dùng chỉ nha khoa, súc miệng là những cách đơn giản giúp hơi thở dễ chịu hơn sau một giấc ngủ dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T01:00:00+07:00",
+      "fetched": "2026-01-10T10:17:14.279713+07:00"
     },
     {
       "id": "9bda3abff0c43b910ed2a9e58a3c7855",
