@@ -1,7 +1,147 @@
 window.newsData_2026_01_10 = {
   "date": "2026-01-10",
-  "lastUpdated": "2026-01-10T21:11:48.706962+07:00",
+  "lastUpdated": "2026-01-10T23:14:09.329636+07:00",
   "articles": [
+    {
+      "id": "f53c63ea64d1009aac417e65a5cee81c",
+      "title": "Phòng khám Visi khám và phẫu thuật mắt miễn phí tại Thủ Đức",
+      "link": "https://tuoitre.vn/phong-kham-visi-kham-va-phau-thuat-mat-mien-phi-tai-thu-duc-20260110211343157.htm",
+      "summary": "Ngày 9-1, Phòng khám chuyên khoa mắt Visi (phường Linh Xuân, TP.HCM) chính thức khai trương và đi vào hoạt động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:14:02.188454+07:00",
+      "fetched": "2026-01-10T23:14:02.188570+07:00"
+    },
+    {
+      "id": "01578e6ef060846c4c092da692e2c41c",
+      "title": "Trước ngưỡng cửa đại học, học sinh vùng sâu hỏi thẳng chuyện đam mê, việc làm và… lấy chồng",
+      "link": "https://tuoitre.vn/truoc-nguong-cua-dai-hoc-hoc-sinh-vung-sau-hoi-thang-chuyen-dam-me-viec-lam-va-lay-chong-20260110191010127.htm",
+      "summary": "Buổi tư vấn đặc biệt đầu tiên dành cho học sinh khu vực vùng sâu, vùng xa được tổ chức tại Trường THPT Võ Văn Kiệt (tỉnh Đắk Lắk) chiều 10-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:14:02.188195+07:00",
+      "fetched": "2026-01-10T23:14:02.188307+07:00"
+    },
+    {
+      "id": "822997d862cc836a7034108b030cf4b6",
+      "title": "Lý do Pháp có ý định đưa 6.000 binh sĩ tới Ukraine",
+      "link": "https://tuoitre.vn/ly-do-phap-co-y-dinh-dua-6-000-binh-si-toi-ukraine-20260110203120009.htm",
+      "summary": "Bà Marine Le Pen, lãnh đạo Đảng Tập hợp quốc gia (RN) tại Quốc hội Pháp, nói rằng các đồng minh không thể trông cậy vào Mỹ sau vụ Washington bắt Tổng thống Venezuela Nicolas Maduro.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:14:02.188070+07:00",
+      "fetched": "2026-01-10T23:14:02.188184+07:00"
+    },
+    {
+      "id": "7d3762d6b60c2f25ab4065ef2e0064b7",
+      "title": "Nhật Bản rơi vào tình thế hệt Việt Nam ở Giải U23 châu Á 2026",
+      "link": "https://tuoitre.vn/nhat-ban-roi-vao-tinh-the-het-viet-nam-o-giai-u23-chau-a-2026-20260110204251401.htm",
+      "summary": "Dù có 6 điểm nhưng U23 Nhật Bản vẫn chưa thể giành vé đi tiếp ở Giải U23 châu Á 2026. Một trường hợp tương tự với U23 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:14:02.187942+07:00",
+      "fetched": "2026-01-10T23:14:02.188058+07:00"
+    },
+    {
+      "id": "cb22d2e4a19b9b1b952e0c47bced4787",
+      "title": "Đồng Nai đã chọn được nhà đầu tư cho dự án cầu Cát Lái, cầu Long Hưng",
+      "link": "https://tuoitre.vn/dong-nai-da-chon-duoc-nha-dau-tu-cho-du-an-cau-cat-lai-cau-long-hung-20260110203439236.htm",
+      "summary": "UBND tỉnh Đồng Nai đã quyết định phê duyệt kết quả lựa chọn nhà đầu tư dự án cầu Cát Lái và cầu Long Hưng (cầu Đồng Nai 2) theo phương thức đối tác công tư (PPP).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:14:02.187792+07:00",
+      "fetched": "2026-01-10T23:14:02.187930+07:00"
+    },
+    {
+      "id": "676cd7eabd86dcad4c556172f427f1ad",
+      "title": "Lãnh đạo VFF: U23 Việt Nam không được chủ quan trước U23 Saudi Arabia",
+      "link": "https://tuoitre.vn/lanh-dao-vff-u23-viet-nam-khong-duoc-chu-quan-truoc-u23-saudi-arabia-20260110211055503.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá Việt Nam (VFF), ông Trần Quốc Tuấn, đã gặp mặt động viên và dặn dò U23 Việt Nam trước trận đấu với U23 Saudi Arabia tại VCK U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:14:02.187672+07:00",
+      "fetched": "2026-01-10T23:14:02.187781+07:00"
+    },
+    {
+      "id": "793e86e600e9ecef9d70d5817671dc55",
+      "title": "Đại sứ Mỹ Knapper: Dù ở cương vị nào cũng sẽ là người bạn của Việt Nam",
+      "link": "https://tuoitre.vn/dai-su-my-knapper-du-o-cuong-vi-nao-cung-se-la-nguoi-ban-cua-viet-nam-20260110211958697.htm",
+      "summary": "Trước thềm kết thúc nhiệm kỳ tại Việt Nam, Đại sứ Mỹ Marc  Knapper khẳng định tiếp tục đóng góp cho quan hệ Mỹ - Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:14:02.187550+07:00",
+      "fetched": "2026-01-10T23:14:02.187661+07:00"
+    },
+    {
+      "id": "102622f015785bbcd0fa5691cd41bc00",
+      "title": "Măng Đen ngày mới qua ống kính: Cao nguyên mộng mơ giữa đại ngàn",
+      "link": "https://tuoitre.vn/mang-den-ngay-moi-qua-ong-kinh-cao-nguyen-mong-mo-giua-dai-ngan-20260110212716699.htm",
+      "summary": "Hơn 300 tác phẩm dự thi đã khắc họa sinh động vẻ đẹp thiên nhiên, nhịp sống mới và tiềm năng du lịch bền vững của cao nguyên Măng Đen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:14:02.187428+07:00",
+      "fetched": "2026-01-10T23:14:02.187539+07:00"
+    },
+    {
+      "id": "b5b1e28770ceeba0b667b25e5da9785d",
+      "title": "Cầu thủ Nguyễn Lê Phát: U23 Việt Nam phấn đấu nhất bảng U23 châu Á 2026",
+      "link": "https://tuoitre.vn/cau-thu-nguyen-le-phat-u23-viet-nam-phan-dau-nhat-bang-u23-chau-a-2026-20260110212941717.htm",
+      "summary": "Cầu thủ Nguyễn Lê Phát của U23 Việt Nam chia sẻ về mục tiêu trước trận gặp U23 Saudi Arabia tại lượt cuối bảng A Vòng chung kết U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:14:02.187301+07:00",
+      "fetched": "2026-01-10T23:14:02.187416+07:00"
+    },
+    {
+      "id": "00397752d250ebedea8071c905ad7292",
+      "title": "Thái Lan bắt 3 người Trung Quốc lừa đảo 10.000 nạn nhân, chiếm đoạt hơn 220 triệu USD",
+      "link": "https://tuoitre.vn/thai-lan-bat-3-nguoi-trung-quoc-lua-dao-10-000-nan-nhan-chiem-doat-hon-220-trieu-usd-20260110213022406.htm",
+      "summary": "Thái Lan vừa bắt giữ 3 công dân Trung Quốc bị cáo buộc chủ mưu một vụ lừa đảo đầu tư quy mô lớn, chiếm đoạt 7 tỉ baht (hơn 220 triệu USD) của 10.000 nạn nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:14:02.187170+07:00",
+      "fetched": "2026-01-10T23:14:02.187289+07:00"
+    },
+    {
+      "id": "66ece91aeceea1ea69279a0f36abc06c",
+      "title": "Công bố tổ trọng tài trận U23 Việt Nam - Saudi Arabia",
+      "link": "https://tuoitre.vn/cong-bo-to-trong-tai-tran-u23-viet-nam-saudi-arabia-2026011021295846.htm",
+      "summary": "Tối 10-1, Liên đoàn Bóng đá châu Á (AFC) đã công bố danh tính trọng tài điều khiển trận U23 Việt Nam gặp Saudi Arabia ở lượt cuối bảng A Giải U23 châu Á 2026 diễn ra khuya 12-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:14:02.187038+07:00",
+      "fetched": "2026-01-10T23:14:02.187158+07:00"
+    },
+    {
+      "id": "04f8c7b77656d8dc9b4734b200d0124e",
+      "title": "Cuốn sách không né tránh những ‘vết xước’ của bóng đá Việt Nam",
+      "link": "https://tuoitre.vn/cuon-sach-khong-ne-tranh-nhung-vet-xuoc-cua-bong-da-viet-nam-20260110214357348.htm",
+      "summary": "Ký ức bóng đá Việt Nam không chỉ có vàng son với những chiếc cúp danh giá, mà còn có những bài học đắt về niềm tin, những bóng tối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:14:02.186901+07:00",
+      "fetched": "2026-01-10T23:14:02.187020+07:00"
+    },
+    {
+      "id": "48dc7655226b13298f192067023fb79f",
+      "title": "Sinh viên được tặng tiền số USDT để trải nghiệm chuyển đổi sang Việt Nam đồng để mua sắm",
+      "link": "https://tuoitre.vn/sinh-vien-duoc-tang-tien-so-usdt-de-trai-nghiem-chuyen-doi-sang-viet-nam-dong-de-mua-sam-2026011021302849.htm",
+      "summary": "Sinh viên tham dự hội nghị về Blockchain vừa được tặng tiền số USDT và trải nghiệm đổi sang tiền Việt Nam đồng trong khu vực cấp phép thử nghiệm có kiểm soát (sandbox) tại Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:14:02.186739+07:00",
+      "fetched": "2026-01-10T23:14:02.186887+07:00"
+    },
+    {
+      "id": "e7ce932765545d71334a241228f2a9c7",
+      "title": "Thủ tướng: Ngoại giao kinh tế phải chân thành, lấy đối thoại làm nền tảng",
+      "link": "https://tuoitre.vn/thu-tuong-ngoai-giao-kinh-te-phai-chan-thanh-lay-doi-thoai-lam-nen-tang-20260110220314715.htm",
+      "summary": "Thủ tướng Phạm Minh Chính khẳng định ngoại giao kinh tế cần triển khai trên tinh thần chân thành, đối thoại, hợp tác vì lợi ích hài hòa, rủi ro chia sẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:14:02.186527+07:00",
+      "fetched": "2026-01-10T23:14:02.186724+07:00"
+    },
     {
       "id": "2d150b13b9e3af56c296ecfc7ba13ecc",
       "title": "Gia Lai đặt mục tiêu phấn đấu tăng trưởng 10% trong năm 2026",
@@ -443,6 +583,66 @@ window.newsData_2026_01_10 = {
       "fetched": "2026-01-10T17:12:42.822763+07:00"
     },
     {
+      "id": "ec2108bb4737d7e90b3647559fb856ce",
+      "title": "Đà Nẵng: Bệnh viện tuyến cơ sở cứu bệnh nhân sốc tim nguy kịch nhờ VA-ECMO",
+      "link": "https://thanhnien.vn/da-nang-benh-vien-tuyen-co-so-cuu-benh-nhan-soc-tim-nguy-kich-nho-va-ecmo-185260110174320626.htm",
+      "summary": "Bệnh viện đa khoa khu vực miền núi phía Bắc Quảng Nam (ở TP.Đà Nẵng) vừa cứu sống một bệnh nhân bị viêm cơ tim cấp biến chứng sốc tim nặng nhờ ứng dụng kỹ thuật tim phổi nhân tạo VA-ECMO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T15:58:00+07:00",
+      "fetched": "2026-01-10T23:14:01.306197+07:00"
+    },
+    {
+      "id": "2809bb960b8779e172a0e91e2cca622b",
+      "title": "Mạng xã hội Mỹ dậy sóng vì máy bay 'Ngày tận thế' xuất hiện ở Los Angeles",
+      "link": "https://vnexpress.net/mang-xa-hoi-my-day-song-vi-may-bay-ngay-tan-the-xuat-hien-o-los-angeles-5004194.html",
+      "summary": "Phi cơ \"Ngày tận thế\" E-4B Nightwatch xuất hiện tại Los Angeles, làm dấy lên hàng loạt đồn đoán và thuyết âm mưu trên mạng xã hội Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T15:46:25+07:00",
+      "fetched": "2026-01-10T23:13:58.391932+07:00"
+    },
+    {
+      "id": "2809bb960b8779e172a0e91e2cca622b",
+      "title": "Mạng xã hội Mỹ dậy sóng vì máy bay 'Ngày tận thế' xuất hiện ở Los Angeles",
+      "link": "https://vnexpress.net/mang-xa-hoi-my-day-song-vi-may-bay-ngay-tan-the-xuat-hien-o-los-angeles-5004194.html",
+      "summary": "Phi cơ \"Ngày tận thế\" E-4B Nightwatch xuất hiện tại Los Angeles, làm dấy lên hàng loạt đồn đoán và thuyết âm mưu trên mạng xã hội Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-10T15:46:25+07:00",
+      "fetched": "2026-01-10T23:14:03.359001+07:00"
+    },
+    {
+      "id": "2c68e3aa90e8459071ce11eac567b2ff",
+      "title": "Bí mật chiến thắng của HUFLIT: Thầy dẫn đi Đà Lạt về là thắng luôn",
+      "link": "https://thanhnien.vn/bi-mat-chien-thang-cua-huflit-thay-dan-di-da-lat-ve-la-thang-luon-185260110204622011.htm",
+      "summary": "Thắng nhẹ nhàng 2-0 ngày ra quân. Đội Trường ĐH Ngoại ngữ tin học cho thấy \"khác biệt\" với những mùa giải trước. Đằng sau chiến thắng đó là bí mật về sự chuẩn bị đặc biệt của đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T15:43:00+07:00",
+      "fetched": "2026-01-10T23:14:01.306362+07:00"
+    },
+    {
+      "id": "1ee5ecea5dc8c99f399504ba115ab70a",
+      "title": "Khởi tố nữ bị can sát hại bác, cướp tài sản",
+      "link": "https://thanhnien.vn/khoi-to-nu-bi-can-sat-hai-bac-cuop-tai-san-185260110220350195.htm",
+      "summary": "Sau khi sát hại người bác của mình, Đinh Thị Kim (ngụ xã Thọ Long, tỉnh Thanh Hóa) đã cướp đôi khuyên tai bằng vàng tây rồi rời khỏi hiện trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T15:23:00+07:00",
+      "fetched": "2026-01-10T23:14:01.306519+07:00"
+    },
+    {
+      "id": "d667baca0ef1eccf14a35bc45258bba8",
+      "title": "Sở Y tế Hải Phòng nói gì sau vụ đồ hộp Hạ Long",
+      "link": "https://thanhnien.vn/so-y-te-hai-phong-noi-gi-sau-vu-do-hop-ha-long-185260110213233387.htm",
+      "summary": "Sau vụ Công ty CP Đồ hộp Hạ Long sử dụng thịt heo nhiễm dịch tả heo châu Phi làm nguyên liệu chế biến, Sở Y tế Hải Phòng đã lên tiếng cảnh báo nguy cơ mất an toàn thực phẩm; đồng thời đề xuất giải pháp siết chặt quản lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T15:22:00+07:00",
+      "fetched": "2026-01-10T23:14:01.306674+07:00"
+    },
+    {
       "id": "740373a9490c5f14f31059728c79f0ec",
       "title": "The Coffee House thông báo dừng bán trà vải liên quan Đồ hộp Hạ Long",
       "link": "https://tuoitre.vn/the-coffee-house-thong-bao-dung-ban-tra-vai-lien-quan-do-hop-ha-long-20260110132504569.htm",
@@ -593,6 +793,76 @@ window.newsData_2026_01_10 = {
       "fetched": "2026-01-10T15:16:02.090371+07:00"
     },
     {
+      "id": "5d5272a3e119d6c30ebef557d37932a4",
+      "title": "Đề và lời giải môn Toán lớp 9 thi học sinh giỏi thành phố Hà Nội",
+      "link": "https://vnexpress.net/loi-giai-de-toan-thi-hoc-sinh-gioi-lop-9-cap-thanh-pho-ha-noi-nam-hoc-2025-2026-5004190.html",
+      "summary": "Đề Toán dành cho hơn 400 thí sinh thi học sinh giỏi thành phố lớp 9 của Hà Nội gồm 5 bài, làm trong 150 phút với điểm tối đa 20.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T15:01:29+07:00",
+      "fetched": "2026-01-10T23:13:58.392109+07:00"
+    },
+    {
+      "id": "838dcb9e9f65b6b4ce971c12da5122ce",
+      "title": "Khởi tố, bắt tạm giam tài xế 'chuyến xe bão táp' ở Đồng Tháp",
+      "link": "https://thanhnien.vn/khoi-to-bat-tam-giam-tai-xe-chuyen-xe-bao-tap-o-dong-thap-185260110205701643.htm",
+      "summary": "Bức xúc vì va chạm giao thông, tài xế xe khách ở Đồng Tháp đang chở 25 người đã bất chấp nguy hiểm, lái xe tốc độ cao, quay đầu liên tục để rượt đuổi xe tải. Cơ quan CSĐT Công an tỉnh Đồng Tháp đã khởi tố tài xế 'chuyến xe bão táp'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T14:51:00+07:00",
+      "fetched": "2026-01-10T23:14:01.306849+07:00"
+    },
+    {
+      "id": "72efaa16efe67c94baf5e307da75cc6b",
+      "title": "Hoa hậu biển Việt Nam toàn cầu 2026 sẽ nhận thưởng trị giá 500 triệu đồng",
+      "link": "https://thanhnien.vn/hoa-hau-bien-viet-nam-toan-cau-2026-se-nhan-thuong-tri-gia-500-trieu-dong-185260110203957806.htm",
+      "summary": "Ngoài phần thưởng dành Hoa hậu biển Việt Nam toàn cầu 2026, các thí sinh xuất sắc khác còn nhận nhiều giải hấp dẫn từ ban tổ chức cuộc thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T14:45:00+07:00",
+      "fetched": "2026-01-10T23:14:01.307006+07:00"
+    },
+    {
+      "id": "7c4fd5ebb1ed6d7ea4e8f2e3a5f18e9c",
+      "title": "‘Quả ngọt’ của diễn viên Vân Trang sau 10 năm kết hôn",
+      "link": "https://thanhnien.vn/qua-ngot-cua-dien-vien-van-trang-sau-10-nam-ket-hon-185260110210537799.htm",
+      "summary": "Mới đây, nữ diễn viên Vân Trang kỷ niệm 10 năm ngày cưới với ông xã doanh nhân. Cô cũng vừa tái xuất màn ảnh rộng trong phim 'Nhà ma xó', sau thời gian dài vắng bóng để tập trung vào vai trò làm vợ, làm mẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T14:27:00+07:00",
+      "fetched": "2026-01-10T23:14:01.307159+07:00"
+    },
+    {
+      "id": "3b6a0272b58c031cc70244ceba983d5b",
+      "title": "Chủ tịch VFF đặt kỳ vọng lớn lao vào U.23 Việt Nam trước trận sinh tử: ‘Đối thủ áp lực nặng hơn’",
+      "link": "https://thanhnien.vn/chu-tich-vff-dat-ky-vong-lon-lao-vao-u23-viet-nam-truoc-tran-sinh-tu-doi-thu-ap-luc-nang-hon-185260110211327021.htm",
+      "summary": "Trước thềm lượt trận cuối vòng bảng gặp U.23 Ả Rập Xê Út tại VCK U.23 châu Á 2026, Chủ tịch VFF Trần Quốc Tuấn đã có cuộc gặp gỡ, động viên và nhắc nhở các thành viên đội tuyển U.23 Việt Nam về tinh thần, trách nhiệm cũng như sự tập trung cần thiết trong thời điểm mang tính quyết định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T14:19:00+07:00",
+      "fetched": "2026-01-10T23:14:01.307316+07:00"
+    },
+    {
+      "id": "9ccb7ef980008c6dc5e7dd59d92c7a42",
+      "title": "Vào tiệm vàng vờ mua trang sức rồi cướp giật nhẫn, lắc vàng",
+      "link": "https://thanhnien.vn/vao-tiem-vang-vo-mua-trang-suc-roi-cuop-giat-nhan-lac-vang-185260110203742353.htm",
+      "summary": "Giả vờ vào mua trang sức tại một tiệm vàng ở chợ Hòa Cầm (P.Cẩm Lệ, TP.Đà Nẵng), một nam thanh niên cướp giật nhẫn và lắc tay vàng trị giá gần 30 triệu đồng rồi nhanh chóng tẩu thoát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T14:14:00+07:00",
+      "fetched": "2026-01-10T23:14:01.307465+07:00"
+    },
+    {
+      "id": "7218a8ffe04b8781599dfb9a113b7557",
+      "title": "Chồng sao 'Ngôi nhà nhỏ trên thảo nguyên' vướng cáo buộc lạm dụng trẻ em",
+      "link": "https://vnexpress.net/chong-sao-ngoi-nha-nho-tren-thao-nguyen-vuong-cao-buoc-lam-dung-tre-em-5004114.html",
+      "summary": "Đạo diễn Timothy Busfield - 69 tuổi, chồng minh tinh Melissa Gilbert - bị tố cáo sàm sỡ diễn viên nhí trên phim trường \"The Cleaning Lady\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T14:11:10+07:00",
+      "fetched": "2026-01-10T23:13:58.392271+07:00"
+    },
+    {
       "id": "05957f13f4288decaff002af3aa9baef",
       "title": "Đội U.19 Hà Nội thắng ngược ngoạn mục tại giải U.19 nữ quốc gia",
       "link": "https://thanhnien.vn/doi-u19-ha-noi-thang-nguoc-ngoan-muc-tai-giai-u19-nu-quoc-gia-185260110210622346.htm",
@@ -601,6 +871,36 @@ window.newsData_2026_01_10 = {
       "category": "Tổng hợp",
       "published": "2026-01-10T14:06:00+07:00",
       "fetched": "2026-01-10T21:11:41.030289+07:00"
+    },
+    {
+      "id": "622b1be95f3d5bdbbcfbf57b62907c6b",
+      "title": "Xưởng gỗ ngoại thành Hà Nội bốc cháy ngùn ngụt",
+      "link": "https://vnexpress.net/xuong-go-ngoai-thanh-ha-noi-boc-chay-ngun-ngut-5004180.html",
+      "summary": "Xưởng sản xuất gỗ và khung tranh trong cụm công nghiệp Sông Cùng, xã Đan Phượng, bốc cháy ngùn ngụt, tối 10/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T13:54:39+07:00",
+      "fetched": "2026-01-10T23:13:58.392427+07:00"
+    },
+    {
+      "id": "22b3890740f417ae29bf0653724118b3",
+      "title": "Thủ môn Thái Lan vào chung kết giải bóng đá THPT Nhật Bản",
+      "link": "https://vnexpress.net/thu-mon-thai-lan-vao-chung-ket-giai-bong-da-thpt-nhat-ban-5004172.html",
+      "summary": "Poomrapee Siribunyakul cùng Kashima Gakuen đánh bại Ryutsu Keizai Kashiwa 1-0 để vào chung kết giải bóng đá THPT toàn Nhật Bản 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T13:46:02+07:00",
+      "fetched": "2026-01-10T23:13:58.392583+07:00"
+    },
+    {
+      "id": "22b3890740f417ae29bf0653724118b3",
+      "title": "Thủ môn Thái Lan vào chung kết giải bóng đá THPT Nhật Bản",
+      "link": "https://vnexpress.net/thu-mon-thai-lan-vao-chung-ket-giai-bong-da-thpt-nhat-ban-5004172.html",
+      "summary": "Poomrapee Siribunyakul cùng Kashima Gakuen đánh bại Ryutsu Keizai Kashiwa 1-0 để vào chung kết giải bóng đá THPT toàn Nhật Bản 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-10T13:46:02+07:00",
+      "fetched": "2026-01-10T23:14:09.317050+07:00"
     },
     {
       "id": "bb5ef58a57de4c4c811836b6b490d8dc",
@@ -891,6 +1191,26 @@ window.newsData_2026_01_10 = {
       "category": "Kinh doanh",
       "published": "2026-01-10T12:46:21+07:00",
       "fetched": "2026-01-10T21:11:44.592972+07:00"
+    },
+    {
+      "id": "6113e9152499d8362be19ef9f059dfd7",
+      "title": "Nhiều chuỗi cafe dừng bán trà có vải của Công ty Đồ hộp Hạ Long",
+      "link": "https://vnexpress.net/nhieu-chuoi-cafe-dung-ban-tra-co-vai-cua-cong-ty-do-hop-ha-long-5004173.html",
+      "summary": "The Coffee House ngừng bán các dòng trà, cà phê từ vải mua của Công ty Đồ hộp Hạ Long, còn Phúc Long cũng ngừng nhập nguyên liệu vải từ đơn vị này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:46:21+07:00",
+      "fetched": "2026-01-10T23:13:58.393700+07:00"
+    },
+    {
+      "id": "6113e9152499d8362be19ef9f059dfd7",
+      "title": "Nhiều chuỗi cafe dừng bán trà có vải của Công ty Đồ hộp Hạ Long",
+      "link": "https://vnexpress.net/nhieu-chuoi-cafe-dung-ban-tra-co-vai-cua-cong-ty-do-hop-ha-long-5004173.html",
+      "summary": "The Coffee House ngừng bán các dòng trà, cà phê từ vải mua của Công ty Đồ hộp Hạ Long, còn Phúc Long cũng ngừng nhập nguyên liệu vải từ đơn vị này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-10T12:46:21+07:00",
+      "fetched": "2026-01-10T23:14:04.938590+07:00"
     },
     {
       "id": "47791203baa1310155962418802c6262",
