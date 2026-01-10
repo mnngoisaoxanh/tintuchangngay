@@ -1,7 +1,107 @@
 window.newsData_2026_01_10 = {
   "date": "2026-01-10",
-  "lastUpdated": "2026-01-10T05:13:04.836507+07:00",
+  "lastUpdated": "2026-01-10T07:59:29.017188+07:00",
   "articles": [
+    {
+      "id": "e7a6d378601bc0718d09ac1fb9a89615",
+      "title": "Vụ heo bệnh ở Công ty Đồ hộp Hạ Long: Khách hàng có thể yêu cầu bồi thường",
+      "link": "https://tuoitre.vn/vu-heo-benh-o-cong-ty-do-hop-ha-long-khach-hang-co-the-yeu-cau-boi-thuong-2026010922191782.htm",
+      "summary": "Những ngày qua, việc Công an TP Hải Phòng phát hiện hơn 130 tấn thịt heo nhiễm dịch tả heo châu Phi được đưa vào nhà máy của Công ty cổ phần Đồ hộp Hạ Long khiến dư luận đặc biệt quan tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T07:59:21.111042+07:00",
+      "fetched": "2026-01-10T07:59:21.111171+07:00"
+    },
+    {
+      "id": "58d309b9257cc007d70bfa3555c8490f",
+      "title": "TP.HCM chọn 5 ngành dịch vụ động lực để vươn tầm quốc tế",
+      "link": "https://tuoitre.vn/tp-hcm-chon-5-nganh-dich-vu-dong-luc-de-vuon-tam-quoc-te-20260109221108868.htm",
+      "summary": "TP.HCM vừa thông qua đề án phát triển các ngành dịch vụ cao cấp, hiện đại nhằm nâng tỉ trọng dịch vụ lên 60 - 65% vào năm 2030 và 70 - 75% vào năm 2040, hướng tới vai trò trung tâm dịch vụ tầm khu vực và quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T07:59:21.110903+07:00",
+      "fetched": "2026-01-10T07:59:21.111030+07:00"
+    },
+    {
+      "id": "e118aa6b3a5c2481342b2c59661a5e74",
+      "title": "Thời tiết hôm nay 10-1: Bắc Bộ tiếp tục rét đậm; Nam Bộ, TP.HCM thêm một ngày lạnh buổi sáng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-10-1-bac-bo-tiep-tuc-ret-dam-nam-bo-tp-hcm-them-mot-ngay-lanh-buoi-sang-20260109173159309.htm",
+      "summary": "Hôm nay 10-1, không khí lạnh vẫn còn chi phối mạnh đến thời tiết nước ta, Bắc Bộ và Trung Bộ rét đậm, Nam Bộ đầu sáng trời lạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T07:59:21.110779+07:00",
+      "fetched": "2026-01-10T07:59:21.110891+07:00"
+    },
+    {
+      "id": "a24214fea3db6fe1286b7796d70347a6",
+      "title": "Tin tức sáng 10-1: Tăng lương tối thiểu, mức đóng BHXH, y tế, thất nghiệp thay đổi từ năm 2026",
+      "link": "https://tuoitre.vn/tin-tuc-sang-10-1-tang-luong-toi-thieu-muc-dong-bhxh-y-te-that-nghiep-thay-doi-tu-nam-2026-20260109223531638.htm",
+      "summary": "Tin tức đáng chú ý: Tăng lương tối thiểu, mức đóng bảo hiểm xã hội, y tế, thất nghiệp thay đổi từ 2026; Đề xuất bổ sung trường hợp được hưởng phụ cấp trách nhiệm với nhà giáo...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T07:59:21.110655+07:00",
+      "fetched": "2026-01-10T07:59:21.110768+07:00"
+    },
+    {
+      "id": "4bb9f1b0480c18e1a7fc597f3dd22096",
+      "title": "Ngọn lửa không tắt trong đêm 9-1 ở Trường THCS Trần Văn Ơn",
+      "link": "https://tuoitre.vn/ngon-lua-khong-tat-trong-dem-9-1-o-truong-thcs-tran-van-on-20260109224507606.htm",
+      "summary": "Gần 2.000 giáo viên, học sinh Trường THCS Trần Văn Ơn, phường Tân Định, TP.HCM đã trải qua một buổi tối đầy tự hào với lễ kỷ niệm ngày truyền thống học sinh - sinh viên (9-1-1950 – 9-1-2026).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T07:59:21.110521+07:00",
+      "fetched": "2026-01-10T07:59:21.110643+07:00"
+    },
+    {
+      "id": "e8bb9b20c9caf5c3978a62c0f39bafc3",
+      "title": "Thắng hai trận liên tiếp, U23 Việt Nam vẫn có thể bị loại trong trường hợp nào?",
+      "link": "https://tuoitre.vn/thang-hai-tran-lien-tiep-u23-viet-nam-van-co-the-bi-loai-trong-truong-hop-nao-20260110052736404.htm",
+      "summary": "Dù đã thắng hai trận liên tiếp ở Giải U23 châu Á 2026, nhưng U23 Việt Nam vẫn có thể bị loại nếu điều này xảy ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T07:59:21.110394+07:00",
+      "fetched": "2026-01-10T07:59:21.110509+07:00"
+    },
+    {
+      "id": "06780e24fb67fa4b43538378bd8f183c",
+      "title": "Lịch trực tiếp Giải U23 châu Á 2026: Iran chạm trán Uzbekistan",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-u23-chau-a-2026-iran-cham-tran-uzbekistan-20260109232820996.htm",
+      "summary": "Tâm điểm của lượt đấu ngày 10-1 là trận đấu giữa U23 Iran gặp U23 Uzbekistan ở bảng C VCK U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T07:59:21.110265+07:00",
+      "fetched": "2026-01-10T07:59:21.110382+07:00"
+    },
+    {
+      "id": "286c2ed514fa3a0bd85306cf8349a258",
+      "title": "Tin tức thế giới 10-1: Mỹ cảnh báo tấn công quân sự Iran; Khả năng đầu tư vào dầu Venezuela ra sao?",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-10-1-my-canh-bao-tan-cong-quan-su-iran-kha-nang-dau-tu-vao-dau-venezuela-ra-sao-20260110055411024.htm",
+      "summary": "Mỹ cảnh báo tấn công quân sự Iran nếu người biểu tình bị giết hại; Israel muốn giảm dần viện trợ quân sự từ Mỹ trong 10 năm tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T07:59:21.110111+07:00",
+      "fetched": "2026-01-10T07:59:21.110252+07:00"
+    },
+    {
+      "id": "16677cdd7fd042d61086c1e01c23e205",
+      "title": "Muốn chuyển sổ đỏ từ hộ gia đình sang tên cá nhân cần chuẩn bị những gì?",
+      "link": "https://tuoitre.vn/muon-chuyen-so-do-tu-ho-gia-dinh-sang-ten-ca-nhan-can-chuan-bi-nhung-gi-20260109081157446.htm",
+      "summary": "Theo Bộ Nông nghiệp và Môi trường, các loại giấy tờ trong đó có sổ đỏ liên quan đến nội dung đăng ký biến động đất đai, tài sản gắn liền với đất được ban hành kèm theo Nghị định số 151/2025 của Chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T07:59:21.109958+07:00",
+      "fetched": "2026-01-10T07:59:21.110098+07:00"
+    },
+    {
+      "id": "470ce7ee235c20fa16e84f4235803738",
+      "title": "Xếp hạng bảng A Giải U23 châu Á 2026: Việt Nam đứng đầu, Jordan lên hạng nhì",
+      "link": "https://tuoitre.vn/xep-hang-bang-a-giai-u23-chau-a-2026-viet-nam-dung-dau-jordan-len-hang-nhi-2026011005573467.htm",
+      "summary": "U23 Việt Nam tạm dẫn đầu bảng A Giải U23 châu Á 2026 sau hai lượt trận với 6 điểm tuyệt đối, đứng trên cả Jordan lẫn Saudi Arabia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T07:59:21.109715+07:00",
+      "fetched": "2026-01-10T07:59:21.109943+07:00"
+    },
     {
       "id": "b086403bbe3407f381de0f0e11d261de",
       "title": "Văn Thuận được FIFA so sánh với Bellingham",
@@ -173,6 +273,386 @@ window.newsData_2026_01_10 = {
       "fetched": "2026-01-10T01:19:44.700939+07:00"
     },
     {
+      "id": "9bda3abff0c43b910ed2a9e58a3c7855",
+      "title": "Thế chấp, xóa thế chấp không cần ghi trên sổ hồng có rủi ro?",
+      "link": "https://thanhnien.vn/the-chap-xoa-the-chap-khong-can-ghi-tren-so-hong-co-rui-ro-18526010918454489.htm",
+      "summary": "Nhiều người lo ngại, việc thế chấp, xóa thế chấp sẽ không cần phải ghi trực tiếp thông tin lên sổ hồng mà được cập nhật biến động vào cơ sở dữ liệu đất đai có thể dẫn đến rủi ro giao dịch với những tài sản đang thế chấp mà không biết. Thế nhưng theo các chuyên gia, rất khó để xảy ra điều này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:57:00+07:00",
+      "fetched": "2026-01-10T07:59:20.346258+07:00"
+    },
+    {
+      "id": "ac2fe7630232be57ef94a194197696d9",
+      "title": "Kịch bản nào để Việt Nam đi tiếp ở giải U23 châu Á 2026?",
+      "link": "https://vnexpress.net/kich-ban-nao-de-viet-nam-di-tiep-o-giai-u23-chau-a-2026-5003965.html",
+      "summary": "Cả Việt Nam, Arab Saudi, Jordan và Kyrgyzstan ở bảng A đều còn cơ hội giành vé vào tứ kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-10T00:55:11+07:00",
+      "fetched": "2026-01-10T07:59:29.011098+07:00"
+    },
+    {
+      "id": "d1434e09c08f28073e03cf3a3b1382b1",
+      "title": "Mỹ bắt giữ tàu dầu thứ 5, lãnh đạo Venezuela kiên trì ngoại giao",
+      "link": "https://thanhnien.vn/my-bat-giu-tau-dau-thu-5-lanh-dao-venezuela-kien-tri-ngoai-giao-185260110075101064.htm",
+      "summary": "Mỹ bắt giữ tàu dầu Olina về cáo buộc vi phạm lệnh phong tỏa trên biển của Mỹ tại Venezuela, trong khi Tổng thống lâm thời Venezuela Delcy Rodriguez cho biết nước này sẽ kiên trì biện pháp ngoại giao với Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:54:00+07:00",
+      "fetched": "2026-01-10T07:59:20.346427+07:00"
+    },
+    {
+      "id": "2bd26faf98cc076be78901feb1a01fa4",
+      "title": "NSƯT Chí Trung trải lòng chuyện hôn nhân ở tuổi 65",
+      "link": "https://thanhnien.vn/nsut-chi-trung-trai-long-chuyen-hon-nhan-o-tuoi-65-185260110044049507.htm",
+      "summary": "NSƯT Chí Trung nhìn lại hôn nhân đã qua bằng sự điềm tĩnh của người từng trải, nhấn mạnh rằng tình yêu không đủ để giữ một cuộc hôn nhân nếu thiếu chữ nghĩa và sự nhẫn nhịn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:52:00+07:00",
+      "fetched": "2026-01-10T07:59:20.346588+07:00"
+    },
+    {
+      "id": "d2a79747b6fb9bbd7cc0504a03e21f03",
+      "title": "Rosenior: 'Tôi không đến Chelsea để làm theo lệnh của giới chủ'",
+      "link": "https://vnexpress.net/rosenior-toi-khong-den-chelsea-de-lam-theo-lenh-cua-gioi-chu-5003969.html",
+      "summary": "Trong buổi họp báo ra mắt, HLV Liam Rosenior khẳng định sẽ tự đưa ra các quyết định chuyên môn tại Chelsea, đồng thời nhấn mạnh tham vọng và niềm tin rằng đội bóng có tiềm năng không giới hạn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-10T00:48:55+07:00",
+      "fetched": "2026-01-10T07:59:29.012451+07:00"
+    },
+    {
+      "id": "9848b07b03b68fd6feccb0c0ee190c38",
+      "title": "Ông Trump quyết kiểm soát Greenland, 'không để Nga hay Trung Quốc chiếm đóng'",
+      "link": "https://thanhnien.vn/ong-trump-quyet-kiem-soat-greenland-khong-de-nga-hay-trung-quoc-chiem-dong-185260110071649703.htm",
+      "summary": "Tổng thống Mỹ Donald Trump nói Mỹ sẽ 'làm điều gì đó với Greenland, dù là theo cách dễ dàng hay khó khăn', nhằm răn đe Nga và Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:48:00+07:00",
+      "fetched": "2026-01-10T07:59:20.346740+07:00"
+    },
+    {
+      "id": "348165762a760a13a0e74a26bd630065",
+      "title": "Triều Tiên tố Hàn Quốc điều UAV xâm phạm không phận",
+      "link": "https://thanhnien.vn/trieu-tien-to-han-quoc-dieu-uav-xam-pham-khong-phan-185260110073713432.htm",
+      "summary": "CHDCND Triều Tiên ngày 10.1 cáo buộc Hàn Quốc đã điều một máy bay không người lái (UAV) xâm nhập không phận Triều Tiên vào ngày 4.1, và gọi đây là hành động 'xâm phạm chủ quyền nghiêm trọng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:46:00+07:00",
+      "fetched": "2026-01-10T07:59:20.346891+07:00"
+    },
+    {
+      "id": "a4e0e4055411d50f8c75b19a08b12543",
+      "title": "Giá Bitcoin hôm nay 10.1.2026: Rung lắc dữ dội",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1012026-rung-lac-du-doi-185260110072957189.htm",
+      "summary": "Giá Bitcoin hôm nay được giao dịch quanh mốc 90.000 USD sau khi liên tục điều chỉnh mạnh trong bối cảnh dòng tiền chảy khỏi các ETF Bitcoin, cổ phiếu liên quan đến tài sản mã hóa giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:42:00+07:00",
+      "fetched": "2026-01-10T07:59:20.347052+07:00"
+    },
+    {
+      "id": "8924e502dc1a191435204ff5e18d05c2",
+      "title": "Đầu bếp Michelin khuyên ăn côn trùng",
+      "link": "https://vnexpress.net/dau-bep-michelin-khuyen-an-con-trung-5003834.html",
+      "summary": "Sittikorn \"Au\" Chantop ăn côn trùng từ nhỏ, coi đây là thực phẩm của tương lai nhờ nguồn protein tự nhiên, dễ nuôi, sinh trưởng nhanh và khuyên mọi người nên thử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:26:30+07:00",
+      "fetched": "2026-01-10T07:59:17.044906+07:00"
+    },
+    {
+      "id": "422cfe485625f7334d2ce3ba443e15d4",
+      "title": "Hai cầu thủ Việt Nam bị kiểm tra doping",
+      "link": "https://vnexpress.net/hai-cau-thu-viet-nam-bi-kiem-tra-doping-5003968.html",
+      "summary": "Nguyễn Đình Bắc và Nguyễn Xuân Bắc được đưa đi kiểm tra doping sau trận Việt Nam thắng Kyrgyzstan 2-1 ở lượt hai bảng A giải U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:15:10+07:00",
+      "fetched": "2026-01-10T07:59:17.045084+07:00"
+    },
+    {
+      "id": "422cfe485625f7334d2ce3ba443e15d4",
+      "title": "Hai cầu thủ Việt Nam bị kiểm tra doping",
+      "link": "https://vnexpress.net/hai-cau-thu-viet-nam-bi-kiem-tra-doping-5003968.html",
+      "summary": "Nguyễn Đình Bắc và Nguyễn Xuân Bắc được đưa đi kiểm tra doping sau trận Việt Nam thắng Kyrgyzstan 2-1 ở lượt hai bảng A giải U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-10T00:15:10+07:00",
+      "fetched": "2026-01-10T07:59:29.011292+07:00"
+    },
+    {
+      "id": "34c0e6d068398296812a390a6081345d",
+      "title": "Giây phút chạm trán khiến đặc vụ ICE bắn chết người ở Minnesota",
+      "link": "https://vnexpress.net/giay-phut-cham-tran-khien-dac-vu-ice-ban-chet-nguoi-o-minnesota-5003972.html",
+      "summary": "Video mới công bố cho thấy cuộc trao đổi trước khi đặc vụ ICE nổ súng khiến nữ tài xế thiệt mạng ở bang Minnesota.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:12:50+07:00",
+      "fetched": "2026-01-10T07:59:17.045272+07:00"
+    },
+    {
+      "id": "34c0e6d068398296812a390a6081345d",
+      "title": "Giây phút chạm trán khiến đặc vụ ICE bắn chết người ở Minnesota",
+      "link": "https://vnexpress.net/giay-phut-cham-tran-khien-dac-vu-ice-ban-chet-nguoi-o-minnesota-5003972.html",
+      "summary": "Video mới công bố cho thấy cuộc trao đổi trước khi đặc vụ ICE nổ súng khiến nữ tài xế thiệt mạng ở bang Minnesota.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-10T00:12:50+07:00",
+      "fetched": "2026-01-10T07:59:22.205363+07:00"
+    },
+    {
+      "id": "cce86ff17d56d9cf3bf2a7def9d6ca1e",
+      "title": "Suy kiệt sau 6 tháng uống chanh muối, nhịn ăn trị ung thư",
+      "link": "https://vnexpress.net/suy-kiet-sau-6-thang-uong-chanh-muoi-nhin-an-tri-ung-thu-5003836.html",
+      "summary": "Người đàn ông 68 tuổi mắc ung thư trực tràng di căn, song từ chối điều trị, tự về uống nước cốt chanh muối và ăn thực dưỡng, kết quả sụt 20 kg, suy kiệt nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:00:00+07:00",
+      "fetched": "2026-01-10T07:59:17.045434+07:00"
+    },
+    {
+      "id": "08994fc51d36eaa895a6691aa9061ea4",
+      "title": "Tập thể dục mùa lạnh - con dao hai lưỡi",
+      "link": "https://vnexpress.net/tap-the-duc-mua-lanh-con-dao-hai-luoi-5003087.html",
+      "summary": "Tập luyện với cường độ cao trong thời tiết lạnh và ô nhiễm làm tăng nguy cơ mắc bệnh đường hô hấp, thậm chí đột quỵ, tăng huyết áp, tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:00:00+07:00",
+      "fetched": "2026-01-10T07:59:17.045591+07:00"
+    },
+    {
+      "id": "fb6bd7b95d54a7cdd3bc5c3adeba3a19",
+      "title": "Xe máy đi vào làn dành cho xe đạp bị xử phạt",
+      "link": "https://vnexpress.net/xe-may-di-vao-lan-danh-cho-xe-dap-bi-xu-phat-5003079.html",
+      "summary": "Hàng loạt trường hợp vi phạm bị công an xử phạt vì chạy xe vào làn đường sơn màu đỏ dành cho xe đạp trên đại lộ Mai Chí Thọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:00:00+07:00",
+      "fetched": "2026-01-10T07:59:17.045749+07:00"
+    },
+    {
+      "id": "2f8582810a4d2394c25898a36f5e63d5",
+      "title": "Royal Air Maroc Cargo khai thác chuyên bay chở hàng đến Dakar",
+      "link": "https://vnexpress.net/royal-air-maroc-cargo-khai-thac-chuyen-bay-cho-hang-den-dakar-5002235.html",
+      "summary": "Hãng hàng không Royal Air Maroc Cargo khai trương tuyến bay chở hàng chuyên dụng mới giữa sân bay quốc tế Mohammed V (CMN, Morocco) gần Casablanca và Dakar (DSS, Senegal).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:00:00+07:00",
+      "fetched": "2026-01-10T07:59:17.045907+07:00"
+    },
+    {
+      "id": "9357dc9daa117118949edc7b5e5c3ab3",
+      "title": "Món Việt là nhà - tình yêu bếp của người phụ nữ Việt",
+      "link": "https://thanhnien.vn/mon-viet-la-nha-tinh-yeu-bep-cua-nguoi-phu-nu-viet-185260109230729859.htm",
+      "summary": "\"Chúng ta làm sao có thể không lớn lên và mãi thương nhớ những món Việt dù ở đâu cũng nhắc ta nhớ đến quê nhà?\". Mang trăn trở đó, cùng với nỗi niềm của người phụ nữ Việt yêu những món ăn quê, tác giả Ann Lee đã chắt chiu những tình cảm đẹp đẽ nhất của mình gói gọn trong cuốn tản văn về ẩm thực Món ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:00:00+07:00",
+      "fetched": "2026-01-10T07:59:20.347223+07:00"
+    },
+    {
+      "id": "9888bb4eaa962e035985841423b52c50",
+      "title": "Những lỗi vi phạm bị CSGT tịch thu xe máy năm 2026 người dân cần biết",
+      "link": "https://thanhnien.vn/nhung-loi-vi-pham-bi-csgt-tich-thu-xe-may-nam-2026-nguoi-dan-can-biet-185260109194932685.htm",
+      "summary": "Mới đây, CSGT TP.HCM liên tục tịch thu xe máy của một số trường hợp vi phạm giao thông. Vậy những lỗi vi phạm nào sẽ bị tịch thu xe?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T00:00:00+07:00",
+      "fetched": "2026-01-10T07:59:20.347377+07:00"
+    },
+    {
+      "id": "94ba86c219405f36c960d3f6547ad2e1",
+      "title": "Thời tiết hôm nay 10.1: 18 tỉnh, thành chìm trong rét đậm, rét hại",
+      "link": "https://thanhnien.vn/thoi-tiet-hom-nay-101-18-tinh-thanh-chim-trong-ret-dam-ret-hai-185260110064311403.htm",
+      "summary": "Dự báo thời tiết hôm nay 10.1, 18 tỉnh, thành phố có thời tiết rét đậm, rét hại; trong đó vùng núi cao các tỉnh phía bắc có nguy cơ xảy ra băng giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:53:00+07:00",
+      "fetched": "2026-01-10T07:59:20.347538+07:00"
+    },
+    {
+      "id": "2c1a1bc91089287e59a8699432a9b402",
+      "title": "Khởi tố Tổng giám đốc Tập đoàn Ngọc Thiên Global",
+      "link": "https://thanhnien.vn/khoi-to-tong-giam-doc-tap-doan-ngoc-thien-global-185260109213939561.htm",
+      "summary": "Ông Trịnh Phan Thiên, Tổng giám đốc Công ty CP Tập đoàn Ngọc Thiên Global, vừa bị khởi tố về tội lừa đảo chiếm đoạt tài sản, với cáo buộc phát hành trái phiếu trái quy định để huy động hơn 456 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:52:00+07:00",
+      "fetched": "2026-01-10T07:59:20.347694+07:00"
+    },
+    {
+      "id": "f3de66730a9d80b24f7072d4ba334834",
+      "title": "Làn ưu tiên hay làn riêng cho xe đạp: Người dân TP.HCM còn nhiều băn khoăn",
+      "link": "https://thanhnien.vn/lan-uu-tien-hay-lan-rieng-cho-xe-dap-nguoi-dan-tphcm-con-nhieu-ban-khoan-185260109221639163.htm",
+      "summary": "Làn đường riêng cho xe đạp lần đầu xuất hiện trên trục đường Mai Chí Thọ (TP.HCM) đang thu hút sự quan tâm lớn của người dân. Bên cạnh kỳ vọng thúc đẩy giao thông xanh, mô hình này cũng đặt ra nhiều băn khoăn về tính an toàn, nguy cơ ùn tắc và cách sử dụng đúng làn đường giữa xe đạp và xe máy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:48:00+07:00",
+      "fetched": "2026-01-10T07:59:20.347845+07:00"
+    },
+    {
+      "id": "07319f6c9a702b2181187f124ba8bdfc",
+      "title": "Giải mã 'dị nhân' thách thức giá rét 8 độ C bơi sông Hồng sáng sớm",
+      "link": "https://thanhnien.vn/giai-ma-di-nhan-thach-thuc-gia-ret-8-do-c-boi-song-hong-sang-som-185260109215940403.htm",
+      "summary": "Trời còn chưa sáng, Hà Nội chìm trong cái rét 8 độ C nhưng tại sông Hồng, dưới chân cầu Long Biên, hàng chục người dân đã có mặt để bơi lội, rèn luyện sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:48:00+07:00",
+      "fetched": "2026-01-10T07:59:20.347991+07:00"
+    },
+    {
+      "id": "93aada517acfdf9dbfd18d5e19ccd254",
+      "title": "Giảng viên đồng cơ hữu khác gì giảng viên thỉnh giảng?",
+      "link": "https://thanhnien.vn/giang-vien-dong-co-huu-khac-gi-giang-vien-thinh-giang-185260109212505932.htm",
+      "summary": "Thiếu đội ngũ giảng viên vừa giỏi nghề, giàu kinh nghiệm thực tiễn, vừa đáp ứng đầy đủ chuẩn theo quy định là bài toán dai dẳng của giáo dục nghề nghiệp (GDNN) trong nhiều năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:45:00+07:00",
+      "fetched": "2026-01-10T07:59:20.348159+07:00"
+    },
+    {
+      "id": "c969d2e8acdaf6d3ab34e6d87cea9e20",
+      "title": "Ông Trump phủ nhận chủ quyền của Đan Mạch đối với Greenland",
+      "link": "https://vnexpress.net/ong-trump-phu-nhan-chu-quyen-cua-dan-mach-doi-voi-greenland-5003971.html",
+      "summary": "Tổng thống Trump tiếp tục ám chỉ khả năng dùng vũ lực để giành Greenland, đồng thời bác bỏ chủ quyền của Đan Mạch đối với hòn đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:42:26+07:00",
+      "fetched": "2026-01-10T07:59:17.046073+07:00"
+    },
+    {
+      "id": "c969d2e8acdaf6d3ab34e6d87cea9e20",
+      "title": "Ông Trump phủ nhận chủ quyền của Đan Mạch đối với Greenland",
+      "link": "https://vnexpress.net/ong-trump-phu-nhan-chu-quyen-cua-dan-mach-doi-voi-greenland-5003971.html",
+      "summary": "Tổng thống Trump tiếp tục ám chỉ khả năng dùng vũ lực để giành Greenland, đồng thời bác bỏ chủ quyền của Đan Mạch đối với hòn đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-09T23:42:26+07:00",
+      "fetched": "2026-01-10T07:59:22.205537+07:00"
+    },
+    {
+      "id": "be1a87ab5aedb967a4cc3919a401f53b",
+      "title": "Guardiola: 'Man City vượt mặt nhiều CLB lớn để chiêu mộ Semenyo'",
+      "link": "https://vnexpress.net/guardiola-man-city-vuot-mat-nhieu-clb-lon-de-chieu-mo-semenyo-5003967.html",
+      "summary": "HLV Pep Guardiola hài lòng khi Man City tuyển mộ tiền đạo Antoine Semenyo từ Bournemouth, dù bị nhiều đội bóng hàng đầu cạnh tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:41:22+07:00",
+      "fetched": "2026-01-10T07:59:17.046270+07:00"
+    },
+    {
+      "id": "be1a87ab5aedb967a4cc3919a401f53b",
+      "title": "Guardiola: 'Man City vượt mặt nhiều CLB lớn để chiêu mộ Semenyo'",
+      "link": "https://vnexpress.net/guardiola-man-city-vuot-mat-nhieu-clb-lon-de-chieu-mo-semenyo-5003967.html",
+      "summary": "HLV Pep Guardiola hài lòng khi Man City tuyển mộ tiền đạo Antoine Semenyo từ Bournemouth, dù bị nhiều đội bóng hàng đầu cạnh tranh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-09T23:41:22+07:00",
+      "fetched": "2026-01-10T07:59:29.012090+07:00"
+    },
+    {
+      "id": "483e190aa56a0ffcea7eb26202c685c2",
+      "title": "Fletcher mù mờ về tương lai tại Man Utd",
+      "link": "https://vnexpress.net/fletcher-mu-mo-ve-tuong-lai-tai-man-utd-5003966.html",
+      "summary": "Trước trận gặp Brighton ở vòng ba FA Cup, HLV tạm quyền Darren Fletcher thừa nhận chưa nói chuyện với đồng chủ sở hữu Jim Ratcliffe về tương lai cũng như kế hoạch dài hạn của Man Utd.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:37:54+07:00",
+      "fetched": "2026-01-10T07:59:17.046470+07:00"
+    },
+    {
+      "id": "483e190aa56a0ffcea7eb26202c685c2",
+      "title": "Fletcher mù mờ về tương lai tại Man Utd",
+      "link": "https://vnexpress.net/fletcher-mu-mo-ve-tuong-lai-tai-man-utd-5003966.html",
+      "summary": "Trước trận gặp Brighton ở vòng ba FA Cup, HLV tạm quyền Darren Fletcher thừa nhận chưa nói chuyện với đồng chủ sở hữu Jim Ratcliffe về tương lai cũng như kế hoạch dài hạn của Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-09T23:37:54+07:00",
+      "fetched": "2026-01-10T07:59:29.012285+07:00"
+    },
+    {
+      "id": "da521742dc09136c4aee3b75f9003737",
+      "title": "HLV Arab Saudi: 'Phải cố thắng dù Việt Nam rất mạnh'",
+      "link": "https://vnexpress.net/hlv-arab-saudi-phai-co-thang-du-viet-nam-rat-manh-5003970.html",
+      "summary": "HLV Luigi Di Biagio cho rằng Arab Saudi phải khắc phục ngay các sai lầm trước khi đấu Việt Nam ở lượt cuối bảng A U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:30:54+07:00",
+      "fetched": "2026-01-10T07:59:17.046702+07:00"
+    },
+    {
+      "id": "da521742dc09136c4aee3b75f9003737",
+      "title": "HLV Arab Saudi: 'Phải cố thắng dù Việt Nam rất mạnh'",
+      "link": "https://vnexpress.net/hlv-arab-saudi-phai-co-thang-du-viet-nam-rat-manh-5003970.html",
+      "summary": "HLV Luigi Di Biagio cho rằng Arab Saudi phải khắc phục ngay các sai lầm trước khi đấu Việt Nam ở lượt cuối bảng A U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-09T23:30:54+07:00",
+      "fetched": "2026-01-10T07:59:29.011463+07:00"
+    },
+    {
+      "id": "24436ae6b32a4be85fb712f0479fe511",
+      "title": "Gần 60% lao động mất hơn 1 năm tìm việc mới: Áp lực đa nhiệm ngày càng lớn",
+      "link": "https://thanhnien.vn/gan-60-lao-dong-mat-hon-1-nam-tim-viec-moi-ap-luc-da-nhiem-ngay-cang-lon-185260109124558607.htm",
+      "summary": "Những người thay đổi công việc kể từ quý 2.2025 cho biết thời gian tìm việc của họ là... khá dài, gần 60% lao động mất hơn 1 năm để tìm được việc làm mới, theo TopCV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:30:00+07:00",
+      "fetched": "2026-01-10T07:59:20.348317+07:00"
+    },
+    {
+      "id": "d74d680fdad0f37f29b3f65272e4058f",
+      "title": "TP.HCM có thêm nhiều 'tọa độ xanh' đón xuân",
+      "link": "https://thanhnien.vn/tphcm-co-them-nhieu-toa-do-xanh-don-xuan-185260109220141793.htm",
+      "summary": "Bên cạnh đường hoa Nguyễn Huệ hoành tráng và những điểm chơi xuân quen thuộc, năm nay người dân TP.HCM sẽ đón Tết Bính Ngọ 2026 rực rỡ với hàng chục điểm check-in mới ngập tràn sắc hoa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:29:00+07:00",
+      "fetched": "2026-01-10T07:59:20.348479+07:00"
+    },
+    {
+      "id": "f6f68f55ce2fb1d22e2349255324b07b",
+      "title": "Bạn 30 năm không gặp mời cưới con trai trong buổi họp lớp",
+      "link": "https://vnexpress.net/ban-30-nam-khong-gap-moi-cuoi-con-trai-trong-buoi-hop-lop-5003861.html",
+      "summary": "Chi 300 triệu đồng tổ chức, bạn tôi in hơn 600 thiệp mời, mong đủ mặt bạn bè, người quen để 'ấm cỗ', nở mày nở mặt với họ hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:07:07+07:00",
+      "fetched": "2026-01-10T07:59:17.046871+07:00"
+    },
+    {
+      "id": "c6b8f5c8f40ddde9112df903c0b0abe9",
+      "title": "Người mẹ Lạng Sơn tìm thấy con trai mất tích 31 năm",
+      "link": "https://vnexpress.net/nguoi-me-lang-son-tim-thay-con-trai-mat-tich-31-nam-5002811.html",
+      "summary": "Nhìn chàng trai qua điện thoại có đôi mắt, khóe miệng giống hệt chồng mình thời trẻ, bà Âu Thị Minh tin ngay đó là đứa con thất lạc từ năm 1994.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:02:45+07:00",
+      "fetched": "2026-01-10T07:59:17.047024+07:00"
+    },
+    {
+      "id": "67b7d45645ddd6590036c6cc9f509eee",
+      "title": "Nằm lái xe kiểu Siêu nhân, tay lái môtô gặp nạn trên cao tốc",
+      "link": "https://vnexpress.net/nam-lai-xe-kieu-sieu-nhan-tay-lai-moto-gap-nan-tren-cao-toc-5003809.html",
+      "summary": "Bắt chước cảnh Superman đang bay, tay lái môtô ngồi thẳng trở lại khi phía trước có nhiều phương tiện nhưng không kịp tránh ôtô cùng chiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T23:00:00+07:00",
+      "fetched": "2026-01-10T07:59:17.047206+07:00"
+    },
+    {
+      "id": "5235e8fd486c845eec67cac637a69bc3",
+      "title": "Hostel hết thời: Khi giới trẻ không còn muốn kết bạn",
+      "link": "https://vnexpress.net/hostel-het-thoi-khi-gioi-tre-khong-con-muon-ket-ban-5003286.html",
+      "summary": "Từng là biểu tượng của sự tự do và kết nối nhưng các nhà trọ thanh niên (hostel) đang dần lụi tàn khi tệp khách cũ già đi, còn giới trẻ từ chối giao lưu cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T22:29:00+07:00",
+      "fetched": "2026-01-10T07:59:17.047374+07:00"
+    },
+    {
       "id": "78aad46b568a1c5618be8bbd91e1c4da",
       "title": "Phường Cầu Kiệu duy trì nhóm 5 đơn vị dẫn đầu chất lượng phục vụ người dân",
       "link": "https://thanhnien.vn/phuong-cau-kieu-duy-tri-nhom-5-don-vi-dan-dau-chat-luong-phuc-vu-nguoi-dan-185260109185352001.htm",
@@ -231,6 +711,16 @@ window.newsData_2026_01_10 = {
       "category": "Tổng hợp",
       "published": "2026-01-09T22:00:00+07:00",
       "fetched": "2026-01-10T05:12:54.751948+07:00"
+    },
+    {
+      "id": "01dbabbc6dc0cba0202dd8ddba71073a",
+      "title": "Quốc hội Mỹ tìm cách ghìm cương quyền lực của ông Trump",
+      "link": "https://vnexpress.net/quoc-hoi-my-tim-cach-ghim-cuong-quyen-luc-cua-ong-trump-5003596.html",
+      "summary": "Quốc hội Mỹ tìm cách tái khẳng định quyền lực bằng các dự luật quyết liệt, khi Tổng thống Trump phớt lờ cơ quan lập pháp trong các quyết sách của mình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-09T22:00:00+07:00",
+      "fetched": "2026-01-10T07:59:22.205696+07:00"
     },
     {
       "id": "c5c2cebb9c56c838fb45ec238115504d",
