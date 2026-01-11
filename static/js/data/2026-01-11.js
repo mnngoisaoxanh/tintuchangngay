@@ -1,7 +1,107 @@
 window.newsData_2026_01_11 = {
   "date": "2026-01-11",
-  "lastUpdated": "2026-01-11T05:11:55.017422+07:00",
+  "lastUpdated": "2026-01-11T08:07:29.269806+07:00",
   "articles": [
+    {
+      "id": "f8dfd3706b44326395ef62ae62c3279b",
+      "title": "U23 Saudi Arabia không phải là 'ngọn núi' quá cao với U23 Việt Nam",
+      "link": "https://tuoitre.vn/u23-saudi-arabia-khong-phai-la-ngon-nui-qua-cao-voi-u23-viet-nam-20260110181314281.htm",
+      "summary": "Dù sở hữu dàn sao nổi bật cùng với điểm nhấn là chức vô địch năm 2022, Saudi Arabia lại đang khiến người hâm mộ lo lắng khi thể hiện một bộ mặt thiếu ổn định ở giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:07:18.971673+07:00",
+      "fetched": "2026-01-11T08:07:18.971792+07:00"
+    },
+    {
+      "id": "1a97249284010dd5dc9b9e5a30fd07af",
+      "title": "Thời tiết hôm nay 11-1: TP.HCM sáng 18 độ C, miền Bắc vẫn rét dưới 5 độ C",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-11-1-tp-hcm-sang-18-do-c-mien-bac-van-ret-duoi-5-do-c-20260110170719046.htm",
+      "summary": "Mức nhiệt hiếm gặp 18 độ C dự báo lại xuất hiện ở TP.HCM vào đêm đến sáng sớm, các nơi khác trên cả nước thời tiết vẫn chịu sự chi phối bởi không khí lạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:07:18.971547+07:00",
+      "fetched": "2026-01-11T08:07:18.971662+07:00"
+    },
+    {
+      "id": "93e221ca5cf4936674594e7b2d606dbd",
+      "title": "Salah tỏa sáng đưa Ai Cập vào bán kết AFCON 2025",
+      "link": "https://tuoitre.vn/salah-toa-sang-dua-ai-cap-vao-ban-ket-afcon-2025-20260111034404589.htm",
+      "summary": "Tiền đạo 33 tuổi Mohamed Salah đã tỏa sáng với 1 bàn thắng và 1 pha kiến tạo giúp Ai Cập đánh bại Bờ Biển Ngà 3-2 ở tứ kết Cúp bóng đá châu Phi (AFCON) 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:07:18.971418+07:00",
+      "fetched": "2026-01-11T08:07:18.971535+07:00"
+    },
+    {
+      "id": "1555d7d48de8c7a607eff89212ee738a",
+      "title": "Lịch trực tiếp Giải U23 châu Á 2026: U23 Thái Lan gặp Iraq, Trung Quốc đấu Úc",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-u23-chau-a-2026-u23-thai-lan-gap-iraq-trung-quoc-dau-uc-20260110180203338.htm",
+      "summary": "Hôm nay, lượt trận thứ 2 vòng bảng Giải U23 châu Á 2026 sẽ khép lại với các trận đấu ở bảng D: U23 Thái Lan gặp Iraq, Trung Quốc đấu Úc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:07:18.971289+07:00",
+      "fetched": "2026-01-11T08:07:18.971407+07:00"
+    },
+    {
+      "id": "949df05592e70f8582d4a69804500fbd",
+      "title": "Iran không phải là Venezuela, khó tái diễn Caracas tại Tehran",
+      "link": "https://tuoitre.vn/iran-khong-phai-la-venezuela-kho-tai-dien-caracas-tai-tehran-20260110220500498.htm",
+      "summary": "Biểu tình. Bất ổn. Can thiệp từ bên ngoài. Rồi trật tự tái lập. Tất cả đã trở thành một chu kỳ quá đỗi quen thuộc ở Iran. Liệu lần này có khác biệt?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:07:18.971153+07:00",
+      "fetched": "2026-01-11T08:07:18.971277+07:00"
+    },
+    {
+      "id": "96e6e4f7dbe2ef71d77701ba9ba11ee9",
+      "title": "Dự đoán tỉ số: U23 Thái Lan nhận nhiều bàn thua trước Iraq",
+      "link": "https://tuoitre.vn/du-doan-ti-so-u23-thai-lan-nhan-nhieu-ban-thua-truoc-iraq-20260110181652307.htm",
+      "summary": "21h ngày 11-1 (giờ Việt Nam), Thái Lan sẽ có trận đấu thứ 2 ở bảng D, Giải U23 châu Á 2026 khi chạm trán đối thủ mạnh là Iraq.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:07:18.971014+07:00",
+      "fetched": "2026-01-11T08:07:18.971140+07:00"
+    },
+    {
+      "id": "d007b148df754ccac1c58d3d6f38e220",
+      "title": "Dự đoán tỉ số: U23 Trung Quốc vỡ mộng trước Úc",
+      "link": "https://tuoitre.vn/du-doan-ti-so-u23-trung-quoc-vo-mong-truoc-uc-20260110195129832.htm",
+      "summary": "18h30 ngày 11-1 (giờ Việt Nam), U23 Trung Quốc sẽ chạm trán Úc trong lượt trận thứ 2, bảng D Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:07:18.970869+07:00",
+      "fetched": "2026-01-11T08:07:18.970987+07:00"
+    },
+    {
+      "id": "4a45b8e713474bc56396096daed9afcd",
+      "title": "Địa chấn làng bóng bàn: tay vợt 42 tuổi quật ngã hàng loạt cao thủ Trung Quốc",
+      "link": "https://tuoitre.vn/dia-chan-lang-bong-ban-tay-vot-42-tuoi-quat-nga-hang-loat-cao-thu-trung-quoc-20260110214329971.htm",
+      "summary": "Địa chấn đã xuất hiện ở giải đấu lớn nhất làng bóng bàn giai đoạn đàu năm - WTT Champions Doha 2026, khi tay vợt người Đức Han Ying đánh bại một loạt hạt giống hàng đầu đến từ Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:07:18.970733+07:00",
+      "fetched": "2026-01-11T08:07:18.970856+07:00"
+    },
+    {
+      "id": "a75431f9848f951a2f1a20c36467482d",
+      "title": "Hàng Tết đã lên kệ chợ và siêu thị TP.HCM, giá cả có tăng không?",
+      "link": "https://tuoitre.vn/hang-tet-da-len-ke-cho-va-sieu-thi-tp-hcm-gia-ca-co-tang-khong-20260110215613875.htm",
+      "summary": "Sở Công Thương TP.HCM vừa có công văn gửi các đơn vị về việc triển khai giải pháp bảo đảm cân đối cung cầu, bình ổn thị trường Tết Bính Ngọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:07:18.970591+07:00",
+      "fetched": "2026-01-11T08:07:18.970721+07:00"
+    },
+    {
+      "id": "6a76c99438e31d4ac54fc06ad7e41e2e",
+      "title": "Dự báo thời tiết từ 11-1 đến 17-1: Một tuần không khí lạnh bao trùm từ Bắc vào Nam",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-11-1-den-17-1-mot-tuan-khong-khi-lanh-bao-trum-tu-bac-vao-nam-20260110172243894.htm",
+      "summary": "Tuần này, thời tiết cả nước vẫn chịu sự chi phối mạnh mẽ của không khí lạnh, về cuối tuần cường độ lạnh có giảm đôi chút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:07:18.970371+07:00",
+      "fetched": "2026-01-11T08:07:18.970576+07:00"
+    },
     {
       "id": "6cf92a01aaf1b896d980d26b43da68b3",
       "title": "Tin tức sáng 11-1: Hà Nội đáp ứng y tế phục vụ Đại hội Đảng toàn quốc lần thứ XIV",
@@ -183,6 +283,376 @@ window.newsData_2026_01_11 = {
       "fetched": "2026-01-11T01:17:32.164665+07:00"
     },
     {
+      "id": "8c19e8100792f0051a16c04c74908cd3",
+      "title": "Tháng mười hai bâng quơ... - Thơ của Nguyễn Kinh Huy",
+      "link": "https://thanhnien.vn/thang-muoi-hai-bang-quo-tho-cua-nguyen-kinh-huy-185260110163553148.htm",
+      "summary": "Tháng mười hai hờ hữngĐến rồi đi, nhạt nhòaEm buồn, em ngồi hátVới bóng mình trong gương",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T01:05:00+07:00",
+      "fetched": "2026-01-11T08:07:17.770697+07:00"
+    },
+    {
+      "id": "86f1be280d70f8bdcde06ba1a7226ff1",
+      "title": "Ứng dụng công nghệ chi trả hơn 9.000 tỷ đồng vụ Trương Mỹ Lan bằng ‘một lệnh’",
+      "link": "https://thanhnien.vn/ung-dung-cong-nghe-chi-tra-hon-9000-ty-dong-vu-truong-my-lan-bang-mot-lenh-185260111031358251.htm",
+      "summary": "Sáng 10.1, Cục Thi hành án dân sự TP.HCM tổng kết công tác năm 2025 với điểm sáng đặc biệt về chuyển đổi số. Nổi bật nhất là việc ứng dụng phần mềm trong vụ án Trương Mỹ Lan: chỉ bằng một lệnh duy nhất, hệ thống đã chi trả thành công hơn 9.000 tỷ đồng cho 43.000 đương sự. Thành tích này giúp đơn vị ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T01:04:00+07:00",
+      "fetched": "2026-01-11T08:07:17.770945+07:00"
+    },
+    {
+      "id": "fab1f583562ddcbd1a630e585048de4f",
+      "title": "Cận cảnh cầu vượt cửa biển 2.400 tỉ đồng ở Huế vướng mặt bằng",
+      "link": "https://thanhnien.vn/can-canh-cau-vuot-cua-bien-2400-ti-dong-o-hue-vuong-mat-bang-185260110170617145.htm",
+      "summary": "Dù đã hợp long, các kết cấu hạ tầng cơ bản hoàn thiện nhưng cầu vượt cửa biển Thuận An ở TP.Huế chưa thể thông xe, phải rào chắn hai đầu vì còn vướng mặt bằng đường dẫn đoạn tuyến 1B.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T01:04:00+07:00",
+      "fetched": "2026-01-11T08:07:17.771128+07:00"
+    },
+    {
+      "id": "ddff814642cd24b2611c1b3de30fe883",
+      "title": "Cô gái đưa hoa giấy ra thế giới",
+      "link": "https://thanhnien.vn/co-gai-dua-hoa-giay-ra-the-gioi-185260110210018531.htm",
+      "summary": "Tốt nghiệp Trường ĐH Kinh tế Đà Nẵng, Phan Ngọc Hiếu đã từ bỏ công việc ngân hàng ổn định tại TP.HCM để viết tiếp ước mơ từ nhỏ: sáng tạo các sản phẩm từ hoa giấy truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T01:00:00+07:00",
+      "fetched": "2026-01-11T08:07:17.771290+07:00"
+    },
+    {
+      "id": "cc045048e6a28fb3cc37ce252b407820",
+      "title": "Nhàn đàm: Xuyên qua những tầng cây",
+      "link": "https://thanhnien.vn/nhan-dam-xuyen-qua-nhung-tang-cay-185260110164206051.htm",
+      "summary": "Cây sao trước mắt tôi chỉ hơn 20 năm tuổi, chưa xứng tầm là cổ thụ nhưng cũng đã cao vượt quá 3 tầng lầu. Tôi đang đứng ở tầng hai và bị cuốn vào hình ảnh chiếc lá vàng lặng lẽ rời cành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T01:00:00+07:00",
+      "fetched": "2026-01-11T08:07:17.771446+07:00"
+    },
+    {
+      "id": "a224888b22794cafa051eeb8c4083714",
+      "title": "Váy dáng dài từ lụa, nhung the, organza đặc sắc, hoàn hảo cho mùa lạnh",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-dang-dai-tu-lua-nhung-the-organza-dac-sac-hoan-hao-cho-mua-lanh-185260109080455336.htm",
+      "summary": "Mùa lạnh chính là mùa để diện váy dáng dài. Tùy theo nhiệt độ ngoài trời hôm nay để nàng chọn cho mình thiết kế váy lụa, voan tơ hay vải nhung the mềm mại, dày dặn nhưng sang trọng và ấm áp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T01:00:00+07:00",
+      "fetched": "2026-01-11T08:07:17.771600+07:00"
+    },
+    {
+      "id": "8d7f966188e77ad7527e24bf4f42ca0b",
+      "title": "TP.HCM vẫn se lạnh, ô nhiễm không khí quay trở lại",
+      "link": "https://thanhnien.vn/tphcm-van-se-lanh-o-nhiem-khong-khi-quay-tro-lai-185260111074125781.htm",
+      "summary": "Sáng (11.1), thời tiết TP.HCM tiếp tục trạng thái se lạnh. Đáng chú ý, so với những ngày trước đó, chất lượng không khí chuyển sang mức kém. Còn Hà Nội và nhiều nơi khác rơi xuống mức rất kém.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:50:00+07:00",
+      "fetched": "2026-01-11T08:07:17.771757+07:00"
+    },
+    {
+      "id": "b9d71540736a81642f94eae2d4970894",
+      "title": "Highlands Coffee bán lại trà sen vàng, trà vải ở một số cửa hàng",
+      "link": "https://thanhnien.vn/highlands-coffee-ban-lai-tra-sen-vang-tra-vai-o-mot-so-cua-hang-185260110233547272.htm",
+      "summary": "Highlands Coffee phát đi thông báo vào đêm 10.1 nhằm làm rõ những hiểu lầm liên quan đến nguồn nguyên liệu, đồng thời cập nhật tình trạng phục vụ các sản phẩm trà sen vàng, trà vải tại hệ thống cửa hàng trên toàn quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:41:00+07:00",
+      "fetched": "2026-01-11T08:07:17.771916+07:00"
+    },
+    {
+      "id": "e9fb653a138e74ac06794e2b86044724",
+      "title": "Giá USD hôm nay 11.1.2026: Đô tự lo lao dốc trong tuần",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1112026-do-tu-lo-lao-doc-trong-tuan-185260111073457668.htm",
+      "summary": "Giá USD trong ngân hàng hồi phục nhưng thị trường tự do giảm mạnh trong tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:40:00+07:00",
+      "fetched": "2026-01-11T08:07:17.772088+07:00"
+    },
+    {
+      "id": "968873530dc52311b7e4a5a4f008b088",
+      "title": "Chủ tịch tỉnh An Giang: Doanh nghiệp bị 'hành' thì phản ánh trực tiếp cho Chủ tịch",
+      "link": "https://thanhnien.vn/chu-tich-tinh-an-giang-doanh-nghiep-bi-hanh-thi-phan-anh-truc-tiep-cho-chu-tich-185260110202135453.htm",
+      "summary": "Chủ tịch UBND tỉnh An Giang Hồ Văn Mừng cho biết, An Giang đang đề xuất nâng cấp sân bay Rạch Giá để thu hút đầu tư, phát triển du lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:40:00+07:00",
+      "fetched": "2026-01-11T08:07:17.772244+07:00"
+    },
+    {
+      "id": "5da451633ece9ee89a7dd361d475fa11",
+      "title": "Đàm phán Hiệp định thương mại đối ứng Việt Nam - Mỹ  công bằng và cân bằng",
+      "link": "https://thanhnien.vn/dam-phan-hiep-dinh-thuong-mai-doi-ung-viet-nam-my-cong-bang-va-can-bang-185260110230200078.htm",
+      "summary": "Ngày 10.1, Thủ tướng Phạm Minh Chính đã tiếp Đại sứ Mỹ tại VN Marc Knapper đến chào từ biệt nhân dịp kết thúc nhiệm kỳ công tác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:37:00+07:00",
+      "fetched": "2026-01-11T08:07:17.772391+07:00"
+    },
+    {
+      "id": "99469b3c6ddb852823d502ee914ddc56",
+      "title": "Giá vàng hôm nay 11.1.2026: Tăng 7 triệu đồng trong tuần nhưng người mua lãi bao nhiêu?",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1112026-tang-7-trieu-dong-trong-tuan-nhung-nguoi-mua-lai-bao-nhieu-185260111071440349.htm",
+      "summary": "Giá vàng trong nước cuối tuần đã tiến lên kỷ lục mới gần sát 160 triệu đồng một lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:31:00+07:00",
+      "fetched": "2026-01-11T08:07:17.772541+07:00"
+    },
+    {
+      "id": "72ea87d7727ba9369ad68ecfd67d7740",
+      "title": "Viện 'nghiên cứu vi trùng' có gì độc lạ?",
+      "link": "https://thanhnien.vn/vien-nghien-cuu-vi-trung-co-gi-doc-la-185260110205128293.htm",
+      "summary": "Viện Vệ sinh dịch tễ T.Ư (số 1 Yersin, Hà Nội) là nơi nghiên cứu vắc xin, xấp xỉ 100 năm tuổi, có gác chuông và chòi gác khác lạ đến khó hiểu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:30:00+07:00",
+      "fetched": "2026-01-11T08:07:17.772696+07:00"
+    },
+    {
+      "id": "20282090d8dd7bfd3f75b22f05cc6017",
+      "title": "Đừng bỏ trống 'đất vàng'",
+      "link": "https://thanhnien.vn/dung-bo-trong-dat-vang-185260110224446993.htm",
+      "summary": "Bạn đọc đánh giá việc phải bỏ trống các khu 'đất vàng' vì bất cứ lý do gì cũng là một sự lãng phí nguồn lực đất đai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:27:00+07:00",
+      "fetched": "2026-01-11T08:07:17.772841+07:00"
+    },
+    {
+      "id": "5fcc8559c3095fe0b351ff6b75007990",
+      "title": "Gác tàu giữa lòng TP.HCM: Đón giao thừa bên gác chắn",
+      "link": "https://thanhnien.vn/gac-tau-giua-long-tphcm-don-giao-thua-ben-gac-chan-18526011018251547.htm",
+      "summary": "Giữa những đêm dài, khi TP.HCM đã chìm vào giấc ngủ, ánh đèn trong trạm gác của chị Tâm, anh Hoàng vẫn sáng. Tiếng còi tàu từ xa vọng lại, họ chỉnh lại bộ đồng phục màu xanh, cầm lá cờ, ngọn đèn bước ra ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:22:00+07:00",
+      "fetched": "2026-01-11T08:07:17.772991+07:00"
+    },
+    {
+      "id": "06ef9ff24496ae6ce2d6ea5d38ca641e",
+      "title": "Thành tích của Việt Nam ở U23 châu Á hơn cả Đông Nam Á gộp lại",
+      "link": "https://vnexpress.net/thanh-tich-cua-viet-nam-o-u23-chau-a-hon-ca-dong-nam-a-gop-lai-5004213.html",
+      "summary": "Việt Nam đã thắng tổng cộng 8 trận tại các VCK U23 châu Á, nhiều hơn thành tích của các đội khác ở Đông Nam Á gộp vào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:15:15+07:00",
+      "fetched": "2026-01-11T08:07:12.390436+07:00"
+    },
+    {
+      "id": "06ef9ff24496ae6ce2d6ea5d38ca641e",
+      "title": "Thành tích của Việt Nam ở U23 châu Á hơn cả Đông Nam Á gộp lại",
+      "link": "https://vnexpress.net/thanh-tich-cua-viet-nam-o-u23-chau-a-hon-ca-dong-nam-a-gop-lai-5004213.html",
+      "summary": "Việt Nam đã thắng tổng cộng 8 trận tại các VCK U23 châu Á, nhiều hơn thành tích của các đội khác ở Đông Nam Á gộp vào.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-11T00:15:15+07:00",
+      "fetched": "2026-01-11T08:07:29.263991+07:00"
+    },
+    {
+      "id": "51107bc5509804feb2eb63c3d92d179d",
+      "title": "Mỹ không kích quy mô lớn đáp trả IS ở Syria",
+      "link": "https://vnexpress.net/my-khong-kich-quy-mo-lon-dap-tra-is-o-syria-5004217.html",
+      "summary": "Quân đội Mỹ tiến hành cuộc không kích \"quy mô lớn\" nhằm vào phiến quân IS trên khắp Syria để trả đũa các vụ tấn công lực lượng Mỹ trước đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:09:20+07:00",
+      "fetched": "2026-01-11T08:07:12.390613+07:00"
+    },
+    {
+      "id": "51107bc5509804feb2eb63c3d92d179d",
+      "title": "Mỹ không kích quy mô lớn đáp trả IS ở Syria",
+      "link": "https://vnexpress.net/my-khong-kich-quy-mo-lon-dap-tra-is-o-syria-5004217.html",
+      "summary": "Quân đội Mỹ tiến hành cuộc không kích \"quy mô lớn\" nhằm vào phiến quân IS trên khắp Syria để trả đũa các vụ tấn công lực lượng Mỹ trước đó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-11T00:09:20+07:00",
+      "fetched": "2026-01-11T08:07:21.256895+07:00"
+    },
+    {
+      "id": "a9889c7d00a6146edec64157f62a43c1",
+      "title": "U23 Việt Nam được nhắc nhở về sai lầm ở giải U20 châu Á 2023",
+      "link": "https://vnexpress.net/u23-viet-nam-duoc-nhac-nho-ve-sai-lam-o-giai-u20-chau-a-2023-5004209.html",
+      "summary": "Chủ tịch LĐBĐ Việt Nam Trần Quốc Tuấn kỳ vọng thầy trò HLV Kim Sang-sik tận dụng tốt lợi thế tại bảng A để vào tứ kết U23 châu Á 2026, thay vì bị loại dù toàn thắng hai trận đầu ở giải U20 châu Á 2023.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:06:21+07:00",
+      "fetched": "2026-01-11T08:07:12.390780+07:00"
+    },
+    {
+      "id": "a9889c7d00a6146edec64157f62a43c1",
+      "title": "U23 Việt Nam được nhắc nhở về sai lầm ở giải U20 châu Á 2023",
+      "link": "https://vnexpress.net/u23-viet-nam-duoc-nhac-nho-ve-sai-lam-o-giai-u20-chau-a-2023-5004209.html",
+      "summary": "Chủ tịch LĐBĐ Việt Nam Trần Quốc Tuấn kỳ vọng thầy trò HLV Kim Sang-sik tận dụng tốt lợi thế tại bảng A để vào tứ kết U23 châu Á 2026, thay vì bị loại dù toàn thắng hai trận đầu ở giải U20 châu Á 2023.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-11T00:06:21+07:00",
+      "fetched": "2026-01-11T08:07:29.264186+07:00"
+    },
+    {
+      "id": "5dc1996e1528cf1f64965cc4a9cffd96",
+      "title": "Cách kiểm tra nợ thuế trước khi đi du lịch",
+      "link": "https://vnexpress.net/cach-kiem-tra-no-thue-truoc-khi-di-du-lich-5004035.html",
+      "summary": "Du khách có thể tra cứu tình trạng nợ thuế qua website của ngành thuế hoặc ứng dụng eTax Mobile nhằm chủ động xử lý các khoản nợ phát sinh trước khi đi nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:00:00+07:00",
+      "fetched": "2026-01-11T08:07:12.390941+07:00"
+    },
+    {
+      "id": "e5555fcb3853d4819c7fbc7d45c3d6c3",
+      "title": "Toyota lần đầu tiên bán nhiều xe điện hơn Honda",
+      "link": "https://vnexpress.net/toyota-lan-dau-tien-ban-nhieu-xe-dien-hon-honda-5003697.html",
+      "summary": "Lần đầu tiên, Toyota vượt hãng đồng hương về doanh số xe điện tại thị trường nội địa trong một quý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:00:00+07:00",
+      "fetched": "2026-01-11T08:07:12.391069+07:00"
+    },
+    {
+      "id": "439ebe0b7990d71305e61740bbf21430",
+      "title": "Trigana Air bổ sung máy bay chở hàng",
+      "link": "https://vnexpress.net/trigana-air-bo-sung-may-bay-cho-hang-5002040.html",
+      "summary": "Hãng hàng không Indonesia mở rộng đội bay chở hàng trong bối cảnh các hãng hàng không nội địa tăng cường năng lực vận chuyển hàng hóa toàn khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T00:00:00+07:00",
+      "fetched": "2026-01-11T08:07:12.391248+07:00"
+    },
+    {
+      "id": "52e3685918712feded29f03768c779b2",
+      "title": "Lại Lý Huynh xếp chót bảng ở giải cờ tướng Trung Quốc",
+      "link": "https://vnexpress.net/lai-ly-huynh-xep-chot-bang-o-giai-co-tuong-trung-quoc-5004215.html",
+      "summary": "Đương kim vô địch thế giới người Việt Nam, Lại Lý Huynh thua cả bốn trận đầu tiên tại giải cờ tướng Tửu Tố Đỗ Khang, sớm hết cửa thắng giải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:51:13+07:00",
+      "fetched": "2026-01-11T08:07:12.391412+07:00"
+    },
+    {
+      "id": "52e3685918712feded29f03768c779b2",
+      "title": "Lại Lý Huynh xếp chót bảng ở giải cờ tướng Trung Quốc",
+      "link": "https://vnexpress.net/lai-ly-huynh-xep-chot-bang-o-giai-co-tuong-trung-quoc-5004215.html",
+      "summary": "Đương kim vô địch thế giới người Việt Nam, Lại Lý Huynh thua cả bốn trận đầu tiên tại giải cờ tướng Tửu Tố Đỗ Khang, sớm hết cửa thắng giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-10T23:51:13+07:00",
+      "fetched": "2026-01-11T08:07:29.264349+07:00"
+    },
+    {
+      "id": "50051386e5a4afce4bf453dfde1a3c34",
+      "title": "Mỹ kêu gọi công dân lập tức rời Venezuela",
+      "link": "https://vnexpress.net/my-keu-goi-cong-dan-lap-tuc-roi-venezuela-5004216.html",
+      "summary": "Washington kêu gọi công dân nước này ở Venezuela lập tức rời đi do nguy cơ các nhóm dân quân vũ trang khám xét xe cộ để truy tìm người Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:27:00+07:00",
+      "fetched": "2026-01-11T08:07:12.391570+07:00"
+    },
+    {
+      "id": "50051386e5a4afce4bf453dfde1a3c34",
+      "title": "Mỹ kêu gọi công dân lập tức rời Venezuela",
+      "link": "https://vnexpress.net/my-keu-goi-cong-dan-lap-tuc-roi-venezuela-5004216.html",
+      "summary": "Washington kêu gọi công dân nước này ở Venezuela lập tức rời đi do nguy cơ các nhóm dân quân vũ trang khám xét xe cộ để truy tìm người Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-10T23:27:00+07:00",
+      "fetched": "2026-01-11T08:07:21.257103+07:00"
+    },
+    {
+      "id": "f8e58ff9a16d84b02819fe00874e9752",
+      "title": "10 tỉnh, thành công bố lịch nghỉ Tết Bính Ngọ cho học sinh",
+      "link": "https://vnexpress.net/lich-nghi-tet-nguyen-dan-binh-ngo-2026-cua-hoc-sinh-34-tinh-thanh-5004048.html",
+      "summary": "Các địa phương cho học sinh nghỉ Tết phổ biến 11-14 ngày, riêng Hà Nội tối đa chỉ 9 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:00:00+07:00",
+      "fetched": "2026-01-11T08:07:12.391728+07:00"
+    },
+    {
+      "id": "5c3f5b683506b53042c3b003d8d185dc",
+      "title": "Quy tắc sống còn khi sơ cứu đột quỵ tại nhà",
+      "link": "https://vnexpress.net/quy-tac-song-con-khi-so-cuu-dot-quy-tai-nha-5003203.html",
+      "summary": "Khi có người xuất hiện dấu hiệu đột quỵ như méo miệng, yếu tay chân, nói ngọng, mọi người cần bình tĩnh thực hiện theo quy tắc \"4 nên - 5 tránh\" để cứu sống bệnh nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:00:00+07:00",
+      "fetched": "2026-01-11T08:07:12.391887+07:00"
+    },
+    {
+      "id": "c9cfa5965b6f8d1ead7ee32948085751",
+      "title": "Lao động Việt tìm đường 'xuất khẩu chất xám' thay vì 'cơ bắp'",
+      "link": "https://vnexpress.net/lao-dong-viet-tim-duong-xuat-khau-chat-xam-thay-vi-co-bap-5001942.html",
+      "summary": "Không muốn tốn tiền để sang Nhật làm lao động phổ thông, nhiều người trẻ đầu tư ngoại ngữ, bằng cấp để xuất khẩu lao động diện kỹ sư thu nhập cao, lộ trình thăng tiến bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:00:00+07:00",
+      "fetched": "2026-01-11T08:07:12.392062+07:00"
+    },
+    {
+      "id": "837f6223c68a3cf1bfd1cffb4a0dc420",
+      "title": "Cấm cầm điện thoại khi đang lái xe dù không sử dụng",
+      "link": "https://vnexpress.net/cam-cam-dien-thoai-khi-dang-lai-xe-du-khong-su-dung-5004009.html",
+      "summary": "Dự luật tại Florida nếu được thông qua sẽ cấm tài xế cầm các thiết bị liên lạc không dây trên tay dù không sử dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T23:00:00+07:00",
+      "fetched": "2026-01-11T08:07:12.392225+07:00"
+    },
+    {
+      "id": "fc28e226f0d3493e310a21b73d044c41",
+      "title": "Lĩnh án 15 năm tù vì trả thù tình địch",
+      "link": "https://vnexpress.net/linh-an-15-nam-tu-vi-tra-thu-tinh-dich-5004188.html",
+      "summary": "Lắp camera để canh đàn gia súc, người đàn ông ở tỉnh Hà Nam chết lặng khi thấy vợ ân ái với hàng xóm, dẫn đến vụ tấn công khiến 3 người trọng thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T22:47:00+07:00",
+      "fetched": "2026-01-11T08:07:12.392380+07:00"
+    },
+    {
+      "id": "92bbd47ff2566690c46c0d7610f8a071",
+      "title": "Chelsea đại thắng trận đầu dưới trướng HLV Rosenior",
+      "link": "https://vnexpress.net/chelsea-dai-thang-tran-dau-duoi-truong-hlv-rosenior-5004214.html",
+      "summary": "Tân HLV Liam Rosenior gây ấn tượng trong trận ra mắt khi Chelsea thắng chủ nhà Charlton 5-1 ở vòng ba Cup FA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T22:43:42+07:00",
+      "fetched": "2026-01-11T08:07:12.392540+07:00"
+    },
+    {
+      "id": "92bbd47ff2566690c46c0d7610f8a071",
+      "title": "Chelsea đại thắng trận đầu dưới trướng HLV Rosenior",
+      "link": "https://vnexpress.net/chelsea-dai-thang-tran-dau-duoi-truong-hlv-rosenior-5004214.html",
+      "summary": "Tân HLV Liam Rosenior gây ấn tượng trong trận ra mắt khi Chelsea thắng chủ nhà Charlton 5-1 ở vòng ba Cup FA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-10T22:43:42+07:00",
+      "fetched": "2026-01-11T08:07:29.264974+07:00"
+    },
+    {
+      "id": "d31964697ab60217d509cad1c42522a6",
+      "title": "Cup FA chứng kiến cú sốc lớn bậc nhất lịch sử",
+      "link": "https://vnexpress.net/cup-fa-chung-kien-cu-soc-lon-bac-nhat-lich-su-5004212.html",
+      "summary": "Đội hạng Sáu Macclesfield tạo cú sốc lớn bậc nhất lịch sử Cup FA, khi đánh bại đương kim vô địch Crystal Palace 2-1 ở vòng ba ngày 10/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T22:43:06+07:00",
+      "fetched": "2026-01-11T08:07:12.392704+07:00"
+    },
+    {
+      "id": "d31964697ab60217d509cad1c42522a6",
+      "title": "Cup FA chứng kiến cú sốc lớn bậc nhất lịch sử",
+      "link": "https://vnexpress.net/cup-fa-chung-kien-cu-soc-lon-bac-nhat-lich-su-5004212.html",
+      "summary": "Đội hạng Sáu Macclesfield tạo cú sốc lớn bậc nhất lịch sử Cup FA, khi đánh bại đương kim vô địch Crystal Palace 2-1 ở vòng ba ngày 10/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-10T22:43:06+07:00",
+      "fetched": "2026-01-11T08:07:29.264507+07:00"
+    },
+    {
       "id": "34dae479ec909deaf1e24f278c7c3236",
       "title": "Chiến sự Ukraine ngày 1.417: Điện, nhiệt bị cúp giữa thời tiết âm độ C",
       "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1417-dien-nhiet-bi-cup-giua-thoi-tiet-am-do-c-185260110185951772.htm",
@@ -351,6 +821,16 @@ window.newsData_2026_01_11 = {
       "category": "Thể thao",
       "published": "2026-01-10T19:09:29+07:00",
       "fetched": "2026-01-11T03:13:23.425578+07:00"
+    },
+    {
+      "id": "9f306c8db03631b52ac6e56b26de84dc",
+      "title": "Việt Nam sẽ tránh được Nhật Bản nếu nhất bảng ở U23 châu Á",
+      "link": "https://vnexpress.net/viet-nam-se-tranh-duoc-nhat-ban-neu-nhat-bang-o-u23-chau-a-5004210.html",
+      "summary": "Nhật Bản đánh bại UAE 3-0 ở lượt hai để chắc chắn vào tứ kết với tư cách nhất bảng B U23 châu Á 2026, tối 10/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-10T19:09:29+07:00",
+      "fetched": "2026-01-11T08:07:29.264820+07:00"
     },
     {
       "id": "1bf019a86731f01acbc63d282dd73b87",
