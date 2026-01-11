@@ -1,7 +1,17 @@
 window.newsData_2026_01_12 = {
   "date": "2026-01-12",
-  "lastUpdated": "2026-01-12T01:17:33.014151+07:00",
+  "lastUpdated": "2026-01-12T03:13:41.273494+07:00",
   "articles": [
+    {
+      "id": "dbab677053323420a5a987cdbeb13099",
+      "title": "Khó tin: 1 điểm nhưng Thái Lan lại nắm quyền tự quyết ở Giải U23 châu Á 2026",
+      "link": "https://tuoitre.vn/kho-tin-1-diem-nhung-thai-lan-lai-nam-quyen-tu-quyet-o-giai-u23-chau-a-2026-20260112000506917.htm",
+      "summary": "Chỉ cần thắng U23 Trung Quốc ở lượt cuối bảng D Giải U23 châu Á 2026, U23 Thái Lan sẽ đi tiếp bất chấp kết quả trận đấu còn lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T03:13:34.568047+07:00",
+      "fetched": "2026-01-12T03:13:34.568277+07:00"
+    },
     {
       "id": "e7b150b6afd5abfa4668219466a3f889",
       "title": "Trao 1 tỉ đồng cùng học bổng 1 triệu USD cho đội giành giải nhất cuộc thi AI thực chiến",
@@ -151,6 +161,116 @@ window.newsData_2026_01_12 = {
       "category": "Tổng hợp",
       "published": "2026-01-12T01:17:24.160470+07:00",
       "fetched": "2026-01-12T01:17:24.160682+07:00"
+    },
+    {
+      "id": "9095b053861efb3644b7f25c26bcc14c",
+      "title": "Giá vàng được dự báo tiếp tục tăng tuần này",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-12-1-5004411.html",
+      "summary": "Những bất ổn về địa chính trị, lãi suất thấp, các ngân hàng trung ương liên tục mua vào là những nguyên nhân giúp giá vàng có thể tăng tiếp tuần này, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:25:34+07:00",
+      "fetched": "2026-01-12T03:13:31.425722+07:00"
+    },
+    {
+      "id": "9095b053861efb3644b7f25c26bcc14c",
+      "title": "Giá vàng được dự báo tiếp tục tăng tuần này",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-12-1-5004411.html",
+      "summary": "Những bất ổn về địa chính trị, lãi suất thấp, các ngân hàng trung ương liên tục mua vào là những nguyên nhân giúp giá vàng có thể tăng tiếp tuần này, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-11T19:25:34+07:00",
+      "fetched": "2026-01-12T03:13:36.826908+07:00"
+    },
+    {
+      "id": "5d3ec9902ac6ed1b81f20c5cd6bf3c69",
+      "title": "AFC dự đoán HLV Kim Sang-sik sẽ đổi kế hoạch, giúp U.23 Việt Nam có ngôi đầu",
+      "link": "https://thanhnien.vn/afc-du-doan-hlv-kim-sang-sik-se-doi-ke-hoach-giup-u23-viet-nam-co-ngoi-dau-185260112011926848.htm",
+      "summary": "Liên đoàn Bóng đá châu Á (AFC) đánh giá, màn so tài giữa U.23 Việt Nam và U.23 Ả Rập Xê Út (23 giờ 30 ngày 12.1) sẽ rất hấp dẫn, có nhiều diễn biến khó lường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:24:00+07:00",
+      "fetched": "2026-01-12T03:13:33.799083+07:00"
+    },
+    {
+      "id": "b1f4d966fdf44d1f7f61b37224ecdf68",
+      "title": "‘Kể cả Ban Chấp hành FAM từ chức, FIFA cũng sẽ không thay đổi án phạt nặng’",
+      "link": "https://thanhnien.vn/ke-ca-ban-chap-hanh-fam-tu-chuc-fifa-cung-se-khong-thay-doi-an-phat-nang-185260112015202202.htm",
+      "summary": "Trước nguy cơ bị Liên đoàn Bóng đá thế giới (FIFA) đình chỉ hoạt động, việc Ban Chấp hành Liên đoàn Bóng đá Malaysia (FAM) cân nhắc từ chức hàng loạt đang tạo ra nhiều ý kiến trái chiều cho dư luận nước này. Các chuyên gia Malaysia cho rằng, động thái mang tính 'hy sinh tập thể' này khó có thể làm F...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:23:00+07:00",
+      "fetched": "2026-01-12T03:13:33.799274+07:00"
+    },
+    {
+      "id": "d2d5d939a95c35c48c9245c153e48cda",
+      "title": "HLV Thawatchai: ‘Dù chỉ còn 1% cơ hội, vào tứ kết, U.23 Thái Lan cũng quyết thắng Trung Quốc’",
+      "link": "https://thanhnien.vn/hlv-thawatchai-du-chi-con-1-co-hoi-vao-tu-ket-u23-thai-lan-cung-quyet-thang-trung-quoc-185260112003254434.htm",
+      "summary": "HLV Thawatchai đã dành nhiều lời khen cho các cầu thủ U.23 Thái Lan sau trận gặp U.23 Iraq. Đồng thời, ông cũng có những tuyên bố đầy đanh thép khi được hỏi về trận gặp U.23 Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:23:00+07:00",
+      "fetched": "2026-01-12T03:13:33.799439+07:00"
+    },
+    {
+      "id": "225a4881cbf2dbcb8a37beebfc1ab12c",
+      "title": "Bayern thắng 8-1 ở Bundesliga",
+      "link": "https://vnexpress.net/bayern-thang-8-1-o-bundesliga-5004417.html",
+      "summary": "Sau ba tuần nghỉ đông, Bayern Munich trở lại bằng màn vùi dập đội khách Wolfsburg ở vòng 16 Bundesliga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:21:44+07:00",
+      "fetched": "2026-01-12T03:13:31.425907+07:00"
+    },
+    {
+      "id": "225a4881cbf2dbcb8a37beebfc1ab12c",
+      "title": "Bayern thắng 8-1 ở Bundesliga",
+      "link": "https://vnexpress.net/bayern-thang-8-1-o-bundesliga-5004417.html",
+      "summary": "Sau ba tuần nghỉ đông, Bayern Munich trở lại bằng màn vùi dập đội khách Wolfsburg ở vòng 16 Bundesliga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-11T19:21:44+07:00",
+      "fetched": "2026-01-12T03:13:41.268596+07:00"
+    },
+    {
+      "id": "2553958ceda99ea314a8301afc0da36c",
+      "title": "Trứng tốt nhưng ăn bao nhiêu là đủ?",
+      "link": "https://vnexpress.net/trung-tot-nhung-an-bao-nhieu-la-du-5004334.html",
+      "summary": "Không có một công thức chung áp dụng cho tất cả mọi người, việc có nên ăn trứng hàng ngày hay không của mỗi cá nhân phải căn cứ vào tổng thể chế độ ăn, thói quen ăn uống, tình trạng sức khỏe và các yếu tố nguy cơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:00:00+07:00",
+      "fetched": "2026-01-12T03:13:31.426100+07:00"
+    },
+    {
+      "id": "3e85b5adfb23f668400c0377df050ae2",
+      "title": "Man Utd bị loại ngay vòng ba Cup FA",
+      "link": "https://vnexpress.net/man-utd-bi-loai-ngay-vong-ba-cup-fa-5004412.html",
+      "summary": "\"Người cũ\" Danny Welbeck ghi bàn giúp Brighton thắng chủ nhà Man Utd 2-1, ở vòng ba Cup FA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T18:23:55+07:00",
+      "fetched": "2026-01-12T03:13:31.426264+07:00"
+    },
+    {
+      "id": "3e85b5adfb23f668400c0377df050ae2",
+      "title": "Man Utd bị loại ngay vòng ba Cup FA",
+      "link": "https://vnexpress.net/man-utd-bi-loai-ngay-vong-ba-cup-fa-5004412.html",
+      "summary": "\"Người cũ\" Danny Welbeck ghi bàn giúp Brighton thắng chủ nhà Man Utd 2-1, ở vòng ba Cup FA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-11T18:23:55+07:00",
+      "fetched": "2026-01-12T03:13:41.268404+07:00"
+    },
+    {
+      "id": "6bb351f21e31dfbd2828600d8847b446",
+      "title": "Lợi ích khi uống một cốc nước sau thức dậy",
+      "link": "https://vnexpress.net/loi-ich-khi-uong-mot-coc-nuoc-sau-thuc-day-5004204.html",
+      "summary": "Uống nước sau khi thức dậy giúp bù nước, tăng cường trao đổi chất, hỗ trợ tiêu hóa và thận thải độc hiệu quả hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T18:00:00+07:00",
+      "fetched": "2026-01-12T03:13:31.426436+07:00"
     },
     {
       "id": "33e3de10b0d4e6d93f315f527920ac10",
