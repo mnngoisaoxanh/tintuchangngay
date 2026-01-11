@@ -1,7 +1,107 @@
 window.newsData_2026_01_11 = {
   "date": "2026-01-11",
-  "lastUpdated": "2026-01-11T21:11:30.028471+07:00",
+  "lastUpdated": "2026-01-11T23:14:22.363480+07:00",
   "articles": [
+    {
+      "id": "e7b150b6afd5abfa4668219466a3f889",
+      "title": "Trao 1 tỉ đồng cùng học bổng 1 triệu USD cho đội giành giải nhất cuộc thi AI thực chiến",
+      "link": "https://tuoitre.vn/trao-1-ti-dong-cung-hoc-bong-1-trieu-usd-cho-doi-gianh-giai-nhat-cuoc-thi-ai-thuc-chien-20260111201428058.htm",
+      "summary": "AI thực chiến nhằm phát hiện, bồi dưỡng tài năng AI; thúc đẩy ứng dụng AI giải quyết bài toán thực tiễn, đóng góp cho tiến trình chuyển đổi số quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:14:14.714747+07:00",
+      "fetched": "2026-01-11T23:14:14.714885+07:00"
+    },
+    {
+      "id": "f557c461dcc3658e5c10cfebd71edbd3",
+      "title": "Vụ người đi xe máy ngăn cản cảnh sát giao thông: Không chấp hành đo nồng độ cồn",
+      "link": "https://tuoitre.vn/vu-nguoi-di-xe-may-ngan-can-canh-sat-giao-thong-khong-chap-hanh-do-nong-do-con-2026011120243412.htm",
+      "summary": "Liên quan vụ người đi xe máy ngăn cản cảnh sát giao thông ở phường Bảy Hiền, TP.HCM, cảnh sát giao thông đã lập biên bản hành vi không chấp hành yêu cầu đo nồng độ cồn, điều khiển xe không có giấy phép lái xe...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:14:14.714619+07:00",
+      "fetched": "2026-01-11T23:14:14.714735+07:00"
+    },
+    {
+      "id": "8edc28ded17cc0b89c93650a160bfda1",
+      "title": "Giải bóng đá Thanh Hóa miền Nam xây dựng nhà nhân ái cho hộ nghèo",
+      "link": "https://tuoitre.vn/giai-bong-da-thanh-hoa-mien-nam-xay-dung-nha-nhan-ai-cho-ho-ngheo-20260111201916379.htm",
+      "summary": "Ngoài việc tạo sân chơi cho những người con xa quê, Giải bóng đá vô địch Thanh Hóa miền Nam Cúp Hoàng Nông lần thứ 12-2026 còn gây quỹ xây dựng nhà nhân ái cho hộ nghèo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:14:14.714490+07:00",
+      "fetched": "2026-01-11T23:14:14.714607+07:00"
+    },
+    {
+      "id": "b6d1b361e278cccbb808c28af14f06ec",
+      "title": "Cầu thủ Nguyễn Phi Hoàng: 'Hàng công U23 Saudi Arabia nhanh và khéo'",
+      "link": "https://tuoitre.vn/cau-thu-nguyen-phi-hoang-hang-cong-u23-saudi-arabia-nhanh-va-kheo-20260111205352307.htm",
+      "summary": "Cầu thủ U23 Việt Nam Nguyễn Phi Hoàng nói về điểm mạnh của hàng công U23 Saudi Arabia trước cuộc đối đầu với đội chủ nhà VCK U23 châu Á 2026 ngày 12-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:14:14.714361+07:00",
+      "fetched": "2026-01-11T23:14:14.714479+07:00"
+    },
+    {
+      "id": "1d76d04bf71fc18024194861c77ed092",
+      "title": "Đoàn phim 'Án mạng núi cấm' phủ nhận phim liên quan đến Núi Cấm của An Giang",
+      "link": "https://tuoitre.vn/doan-phim-an-mang-nui-cam-phu-nhan-phim-lien-quan-den-nui-cam-cua-an-giang-20260111205024063.htm",
+      "summary": "Nhà sản xuất 89s Group cho biết tên phim 'Án mạng núi cấm' chỉ là tạm thời, địa điểm trong phim không phải Núi Cấm tại An Giang và phim cũng không quay tại đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:14:14.714228+07:00",
+      "fetched": "2026-01-11T23:14:14.714349+07:00"
+    },
+    {
+      "id": "257d4cc07047ab57bee8f3929ea5009e",
+      "title": "U23 Trung Quốc lập kỷ lục sau trận thắng 'sốc' U23 Úc",
+      "link": "https://tuoitre.vn/u23-trung-quoc-lap-ky-luc-sau-tran-thang-soc-u23-uc-2026011120594465.htm",
+      "summary": "Chiến thắng bất ngờ trước U23 Úc tại bảng D Giải U23 châu Á 2026 giúp cho U23 Trung Quốc tạo ra lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:14:14.714059+07:00",
+      "fetched": "2026-01-11T23:14:14.714213+07:00"
+    },
+    {
+      "id": "2b1b4a3f88aa73eeda077df40d34a3c4",
+      "title": "Tiệm giặt ủi ở Đồng Nai bốc cháy dữ dội, một người được giải cứu",
+      "link": "https://tuoitre.vn/tiem-giat-ui-o-dong-nai-boc-chay-du-doi-mot-nguoi-duoc-giai-cuu-20260111211404196.htm",
+      "summary": "Tối 11-1, tiệm giặt ủi trên đường Nguyễn Ái Quốc (phường Tam Hiệp, Đồng Nai) bốc cháy dữ dội, một người đàn ông mắc kẹt được giải cứu kịp thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:14:14.713923+07:00",
+      "fetched": "2026-01-11T23:14:14.714047+07:00"
+    },
+    {
+      "id": "9b880ddc36d1d534d0c17b1b06b7163c",
+      "title": "U23 Trung Quốc 'sống sót' nhờ có siêu thủ môn",
+      "link": "https://tuoitre.vn/u23-trung-quoc-song-sot-nho-co-sieu-thu-mon-20260111210856735.htm",
+      "summary": "Dù U23 Trung Quốc đánh bại Úc và sáng cửa đi tiếp ở bảng D Giải U23 châu Á 2026, người hâm mộ bóng đá đại lục vẫn chưa thể vui nổi khi đội nhà quá trông cậy vào thủ môn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:14:14.713762+07:00",
+      "fetched": "2026-01-11T23:14:14.713909+07:00"
+    },
+    {
+      "id": "a30aa3aeb6a4df5ea646cfee1872d0af",
+      "title": "Nhà bà ngoại, nơi trái tim đón những 'khúc ruột' trở về",
+      "link": "https://tuoitre.vn/nha-ba-ngoai-noi-trai-tim-don-nhung-khuc-ruot-tro-ve-20260111151328999.htm",
+      "summary": "Bà tôi có dáng người nhỏ xíu, căn nhà của bà cũng vậy. Thế mà Tết đến, các con, cháu, chắt tổng cộng hơn 30 người cứ thích chen chúc' trong mái ấm tí hon đó thôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:14:14.713618+07:00",
+      "fetched": "2026-01-11T23:14:14.713749+07:00"
+    },
+    {
+      "id": "a083d3895cec8797c2994fbb76dc2742",
+      "title": "Đánh bom 11 cây xăng: Thủ tướng Thái Lan đưa nhận định về thủ phạm",
+      "link": "https://tuoitre.vn/danh-bom-11-cay-xang-thu-tuong-thai-lan-dua-nhan-dinh-ve-thu-pham-20260111215511794.htm",
+      "summary": "Vụ đánh bom 11 cây xăng tại cực Nam Thái Lan khả năng cao do phe đối lập trong nước hoặc đơn thuần là tranh chấp trong kinh doanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:14:14.713365+07:00",
+      "fetched": "2026-01-11T23:14:14.713603+07:00"
+    },
     {
       "id": "a82b8f230c7e8c56673a73dec3cf2d7f",
       "title": "Lệ Quyên nói không làm gì sai, luôn bị xúc phạm vô cớ",
@@ -423,6 +523,66 @@ window.newsData_2026_01_11 = {
       "fetched": "2026-01-11T17:12:43.587712+07:00"
     },
     {
+      "id": "5df34eab5eabb5a8d1dc71e2dfada995",
+      "title": "U.23 Thái Lan thoát thua Iraq trong gang tấc, níu giữ hy vọng mong manh vào tứ kết",
+      "link": "https://thanhnien.vn/u23-thai-lan-thoat-thua-iraq-trong-gang-tac-niu-giu-hy-vong-mong-manh-vao-tu-ket-185260111230424445.htm",
+      "summary": "U.23 Thái Lan đã có trận đấu đầy cố gắng, cầm chân U.23 Iraq 1-1 ở lượt đấu thứ 2 bảng D, diễn ra vào tối 11.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T16:07:00+07:00",
+      "fetched": "2026-01-11T23:14:13.583517+07:00"
+    },
+    {
+      "id": "35c27213143b946cb53c11a907f84680",
+      "title": "ĐH Quy Nhơn khởi đầu như “trận chung kết”, vượt qua ĐH Sài Gòn ở vòng loại TNSV THACO Cup 2026",
+      "link": "https://thanhnien.vn/dh-quy-nhon-khoi-dau-nhu-tran-chung-ket-vuot-qua-dh-sai-gon-o-vong-loai-tnsv-thaco-cup-2026-185260111230143794.htm",
+      "summary": "Sáng 11.1, đội bóng Trường ĐH Quy Nhơn có chiến thắng quan trọng 1-0 trước Trường ĐH Sài Gòn ở lượt trận mở màn vòng loại giải bóng đá Thanh Niên sinh viên Việt Nam lần thứ IV năm 2026. Kết quả này mang ý nghĩa đặc biệt trong bối cảnh đội bóng Trường ĐH Quy Nhơn đang đối mặt nhiều thách thức khi lần...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T16:03:00+07:00",
+      "fetched": "2026-01-11T23:14:13.583689+07:00"
+    },
+    {
+      "id": "b304fc52e27b7b12b0af419846138539",
+      "title": "Bài phạt góc đưa Arsenal đi tiếp ở Cup FA",
+      "link": "https://vnexpress.net/bai-phat-goc-dua-arsenal-di-tiep-o-cup-fa-5004400.html",
+      "summary": "Arsenal ghi ba bàn từ phạt góc để thắng ngược chủ nhà Portsmouth 4-1 ở vòng ba Cup FA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-11T15:58:09+07:00",
+      "fetched": "2026-01-11T23:14:22.350894+07:00"
+    },
+    {
+      "id": "edc9fad8fdbc2f60b9674a860974e2f6",
+      "title": "Nguyên nhân ô tô tông 6 xe máy trước nhà thiếu nhi Thủ Đức",
+      "link": "https://thanhnien.vn/nguyen-nhan-o-to-tong-6-xe-may-truoc-nha-thieu-nhi-thu-duc-185260111220338561.htm",
+      "summary": "Liên quan vụ tai nạn giao thông liên hoàn giữa ô tô với nhiều xe máy trước nhà thiếu nhi Thủ Đức, TP.HCM, cơ quan chức năng xác định nguyên nhân ban đầu do tài xế đạp nhầm chân ga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T15:25:00+07:00",
+      "fetched": "2026-01-11T23:14:13.583874+07:00"
+    },
+    {
+      "id": "8e2691a1c0ddd76d2bf66f22f940b227",
+      "title": "Chủ nhân Nobel Hòa bình không được phép tặng lại giải cho ông Trump",
+      "link": "https://vnexpress.net/chu-nhan-nobel-hoa-binh-khong-duoc-phep-tang-lai-giai-cho-ong-trump-5004373.html",
+      "summary": "Ủy ban Nobel phản đối chủ nhân giải Nobel Hòa bình năm 2025 tặng lại giải thưởng cho người khác vì kết quả không thể thay đổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T15:17:09+07:00",
+      "fetched": "2026-01-11T23:14:10.274203+07:00"
+    },
+    {
+      "id": "8e2691a1c0ddd76d2bf66f22f940b227",
+      "title": "Chủ nhân Nobel Hòa bình không được phép tặng lại giải cho ông Trump",
+      "link": "https://vnexpress.net/chu-nhan-nobel-hoa-binh-khong-duoc-phep-tang-lai-giai-cho-ong-trump-5004373.html",
+      "summary": "Ủy ban Nobel phản đối chủ nhân giải Nobel Hòa bình năm 2025 tặng lại giải thưởng cho người khác vì kết quả không thể thay đổi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-11T15:17:09+07:00",
+      "fetched": "2026-01-11T23:14:16.766659+07:00"
+    },
+    {
       "id": "7c25fb477f339558311e68617d83a5c4",
       "title": "Làng cầu lông Trung Quốc 'tơi tả' trước An Se Young",
       "link": "https://tuoitre.vn/lang-cau-long-trung-quoc-toi-ta-truoc-an-se-young-20260111122449223.htm",
@@ -563,6 +723,76 @@ window.newsData_2026_01_11 = {
       "fetched": "2026-01-11T15:16:38.724894+07:00"
     },
     {
+      "id": "eccae9deba534d97877937353d2958b7",
+      "title": "Khán giả phản đối tên phim 'Án mạng Núi Cấm'",
+      "link": "https://vnexpress.net/khan-gia-phan-doi-ten-phim-an-mang-nui-cam-5004383.html",
+      "summary": "Nhiều người cho rằng phim \"Án mạng Núi Cấm\" nhạy cảm khi gắn với địa danh nổi tiếng An Giang, còn đoàn phim nói xin lỗi chỉ là \"hiểu nhầm\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T14:53:47+07:00",
+      "fetched": "2026-01-11T23:14:10.274385+07:00"
+    },
+    {
+      "id": "d33c3c3a53d2f62e520e5a96e90298a2",
+      "title": "Nghệ sĩ Khắc Triệu lần đầu ra MV",
+      "link": "https://vnexpress.net/nghe-si-khac-trieu-lan-dau-ra-mv-5004321.html",
+      "summary": "Tay trống Khắc Triệu thực hiện MV đầu tay \"Khi\" sau 55 năm hoạt động showbiz nhờ vợ - ca sĩ Cẩm Vân và hai con gái động viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T14:47:31+07:00",
+      "fetched": "2026-01-11T23:14:10.274560+07:00"
+    },
+    {
+      "id": "57cf9689449953d19e093d1f0e229e0e",
+      "title": "Ô tô đang chạy bỗng tông liên hoàn trước nhà thiếu nhi Thủ Đức",
+      "link": "https://thanhnien.vn/o-to-dang-chay-bong-tong-lien-hoan-truoc-nha-thieu-nhi-thu-duc-185260111213736833.htm",
+      "summary": "Cơ quan chức năng TP.HCM đang làm rõ nguyên nhân vụ tai nạn liên hoàn ô tô tông 6 xe máy trước đoạn nhà thiếu nhi Thủ Đức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T14:37:00+07:00",
+      "fetched": "2026-01-11T23:14:13.584031+07:00"
+    },
+    {
+      "id": "b84356d38c02b98272397ed7b1053144",
+      "title": "Bé trai 10 tuổi ở TP.HCM đạt 8.0 IELTS",
+      "link": "https://thanhnien.vn/be-trai-10-tuoi-o-tphcm-dat-80-ielts-185260111175753563.htm",
+      "summary": "Trần Đình Hoàng Phúc, bé trai 10 tuổi ở TP.HCM, mới đây đạt 8.0 IELTS. Đáng chú ý, Phúc có 4 năm học trường công lập, khi vào lớp 5 Phúc có học bổng vào một trường ngoài công lập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T14:16:00+07:00",
+      "fetched": "2026-01-11T23:14:13.584182+07:00"
+    },
+    {
+      "id": "63e8c2248a5fb7d0ca9a516880d8fcfd",
+      "title": "Nhiều siêu thị, tạp hóa hoàn tiền cho người mua sản phẩm Đồ hộp Hạ Long",
+      "link": "https://vnexpress.net/nhieu-sieu-thi-tap-hoa-hoan-tien-cho-nguoi-mua-san-pham-do-hop-ha-long-5004359.html",
+      "summary": "Nhiều siêu thị lớn như Winmart, Bách Hóa Xanh, GO! và các tiệm tạp hóa nhận trả hàng, hoàn tiền cho các loại pate, cá ngừ Đồ hộp Hạ Long còn nguyên vẹn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T14:14:16+07:00",
+      "fetched": "2026-01-11T23:14:10.274721+07:00"
+    },
+    {
+      "id": "63e8c2248a5fb7d0ca9a516880d8fcfd",
+      "title": "Nhiều siêu thị, tạp hóa hoàn tiền cho người mua sản phẩm Đồ hộp Hạ Long",
+      "link": "https://vnexpress.net/nhieu-sieu-thi-tap-hoa-hoan-tien-cho-nguoi-mua-san-pham-do-hop-ha-long-5004359.html",
+      "summary": "Nhiều siêu thị lớn như Winmart, Bách Hóa Xanh, GO! và các tiệm tạp hóa nhận trả hàng, hoàn tiền cho các loại pate, cá ngừ Đồ hộp Hạ Long còn nguyên vẹn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-11T14:14:16+07:00",
+      "fetched": "2026-01-11T23:14:18.114841+07:00"
+    },
+    {
+      "id": "a6164f0edcffd684aa4db0eb9a0966ab",
+      "title": "Giằng co với CSGT để bạn bỏ chạy khi bị đo nồng độ cồn",
+      "link": "https://vnexpress.net/giang-co-voi-csgt-de-ban-bo-chay-khi-bi-do-nong-do-con-5004377.html",
+      "summary": "Bị CSGT chặn lại đo nồng độ cồn, hai thanh niên không chấp hành; người ngồi sau liên tục giằng co, ôm giữ cảnh sát để bạn lấy xe bỏ đi nhằm \"né\" đo nồng độ cồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T14:08:21+07:00",
+      "fetched": "2026-01-11T23:14:10.274922+07:00"
+    },
+    {
       "id": "9645ffcdecaa5651fa4a7d850a29742b",
       "title": "Công an TP.HCM đột kích 4 cơ sở spa núp bóng mại dâm ở trung tâm",
       "link": "https://thanhnien.vn/cong-an-tphcm-dot-kich-4-co-so-spa-nup-bong-mai-dam-o-trung-tam-185260111210048648.htm",
@@ -591,6 +821,16 @@ window.newsData_2026_01_11 = {
       "category": "Tổng hợp",
       "published": "2026-01-11T14:01:00+07:00",
       "fetched": "2026-01-11T21:11:21.612495+07:00"
+    },
+    {
+      "id": "e3fdab9db89ab34652e37039c01e0975",
+      "title": "Bỏ mọi thứ về quê yêu anh, tôi nhận lại cái kết không mong muốn",
+      "link": "https://vnexpress.net/bo-moi-thu-ve-que-yeu-anh-toi-nhan-lai-cai-ket-khong-mong-muon-5003570.html",
+      "summary": "Anh không hơn những người từng theo đuổi tôi, nhưng khi yêu rồi, với tôi anh là tất cả; tôi yêu anh rất chân thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T14:00:00+07:00",
+      "fetched": "2026-01-11T23:14:10.275102+07:00"
     },
     {
       "id": "f22ca13bf11f1e0b36d503820f9279a4",
