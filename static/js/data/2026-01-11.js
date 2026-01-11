@@ -1,7 +1,127 @@
 window.newsData_2026_01_11 = {
   "date": "2026-01-11",
-  "lastUpdated": "2026-01-11T19:23:21.549813+07:00",
+  "lastUpdated": "2026-01-11T21:11:30.028471+07:00",
   "articles": [
+    {
+      "id": "a82b8f230c7e8c56673a73dec3cf2d7f",
+      "title": "Lệ Quyên nói không làm gì sai, luôn bị xúc phạm vô cớ",
+      "link": "https://tuoitre.vn/le-quyen-noi-khong-lam-gi-sai-luon-bi-xuc-pham-vo-co-20260111183015968.htm",
+      "summary": "Lệ Quyên cho biết mình là nghệ sĩ, luôn hiểu và chịu đựng mặt trái của nghề nghiệp. Cô mong mọi người nói đúng, nói công bằng là đủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T21:11:22.474201+07:00",
+      "fetched": "2026-01-11T21:11:22.474334+07:00"
+    },
+    {
+      "id": "5a2402c7d7240cc05091e5fc9ceb8ca2",
+      "title": "Bóng đá Malaysia lại đối mặt nghi án mới, dư luận phẫn nộ",
+      "link": "https://tuoitre.vn/bong-da-malaysia-lai-doi-mat-nghi-an-moi-du-luan-phan-no-20260111181542506.htm",
+      "summary": "Truyền thông Malaysia bày tỏ sự phẫn nộ trước một thông tin mà Liên đoàn Bóng đá Malaysia (FAM) vừa cung cấp trong ngày hôm nay, liên quan đến chuyện bầu cử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T21:11:22.474063+07:00",
+      "fetched": "2026-01-11T21:11:22.474189+07:00"
+    },
+    {
+      "id": "bb9cdc185e5a998d82ddc570adf32240",
+      "title": "Nghệ sĩ Hồng Vân hóa cô đào cải lương trong vở kịch Tết",
+      "link": "https://tuoitre.vn/nghe-si-hong-van-hoa-co-dao-cai-luong-trong-vo-kich-tet-20260111182302645.htm",
+      "summary": "Sân khấu Hồng Vân đã phúc khảo xong vở kịch Tết Tương đối rối tương phùng. Chị vào vai cô đào cải lương dang dở ước mơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T21:11:22.473941+07:00",
+      "fetched": "2026-01-11T21:11:22.474052+07:00"
+    },
+    {
+      "id": "703c076bb1bbe6bb6be40df9c0c6b565",
+      "title": "Phản ứng mạnh vì tên phim Án mạng Núi Cấm",
+      "link": "https://tuoitre.vn/phan-ung-manh-vi-ten-phim-an-mang-nui-cam-20260111162311308.htm",
+      "summary": "Ngày 11-1, nhiều người dùng mạng xã hội phản ứng trước thông tin khai máy phim Án mạng Núi Cấm. Đã có hàng ngàn lượt chia sẻ, bình luận bức xúc trước cách đặt tên phim này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T21:11:22.473819+07:00",
+      "fetched": "2026-01-11T21:11:22.473930+07:00"
+    },
+    {
+      "id": "13b5d4642d2b420cd23e0cadc31225f7",
+      "title": "Giải marathon TP.HCM 2026 khép lại thành công với 11.000 VĐV tham dự",
+      "link": "https://tuoitre.vn/giai-marathon-tp-hcm-2026-khep-lai-thanh-cong-voi-11-000-vdv-tham-du-20260111184411003.htm",
+      "summary": "Ngày 11-1, Giải marathon TP.HCM (HCMC Marathon) 2026 lần thứ 13 đã chính thức khép lại với nhiều ấn tượng sâu sắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T21:11:22.473698+07:00",
+      "fetched": "2026-01-11T21:11:22.473808+07:00"
+    },
+    {
+      "id": "1e80fe09fcedfd183421ab0933450718",
+      "title": "Nhà máy Đồ hộp Hạ Long tạm dừng sản xuất sau khi tổng giám đốc bị bắt",
+      "link": "https://tuoitre.vn/nha-may-do-hop-ha-long-tam-dung-san-xuat-sau-khi-tong-giam-doc-bi-bat-20260111190320621.htm",
+      "summary": "Hội đồng quản trị của Công ty Đồ hộp Hạ Long vừa thông qua chủ trương tạm dừng ngắn hạn hoạt động sản xuất tại nhà máy Đồ hộp Hạ Long - Hải Phòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T21:11:22.473576+07:00",
+      "fetched": "2026-01-11T21:11:22.473687+07:00"
+    },
+    {
+      "id": "c7cbf9a0a8655a237048a84af2c1d376",
+      "title": "U23 Thái Lan đấu Iraq (21h): Thắng hoặc 'xách vali' về nước",
+      "link": "https://tuoitre.vn/u23-thai-lan-dau-iraq-21h-thang-hoac-xach-vali-ve-nuoc-20260111161013396.htm",
+      "summary": "Mời bạn đọc theo dõi trực tuyến trận U23 Thái Lan gặp Iraq lúc 21h hôm nay 11-1 tại bảng D Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T21:11:22.473451+07:00",
+      "fetched": "2026-01-11T21:11:22.473565+07:00"
+    },
+    {
+      "id": "90b55c65b676eb4f3ab8a74c75ade137",
+      "title": "Nóng cổ phiếu doanh nghiệp nhà nước, giải mã ‘cơn sóng’ đang diễn ra",
+      "link": "https://tuoitre.vn/nong-co-phieu-doanh-nghiep-nha-nuoc-giai-ma-con-song-dang-dien-ra-20260111193054006.htm",
+      "summary": "Những phiên giao dịch đầu năm 2026 ghi nhận sự trở lại rõ nét của dòng tiền vào nhóm cổ phiếu doanh nghiệp nhà nước, phản ánh kỳ vọng của thị trường trước tác động từ Nghị quyết 79.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T21:11:22.473322+07:00",
+      "fetched": "2026-01-11T21:11:22.473439+07:00"
+    },
+    {
+      "id": "ac04ae3d94a9deae7fe1a2807f6b90ee",
+      "title": "Đức nhắc Mỹ ai cũng phải tuân thủ luật pháp quốc tế",
+      "link": "https://tuoitre.vn/duc-nhac-my-ai-cung-phai-tuan-thu-luat-phap-quoc-te-20260111194615703.htm",
+      "summary": "Phó thủ tướng Đức nhấn mạnh nước nào cũng cần tuân thủ luật pháp quốc tế, trong khi nhiều nhà ngoại giao Bắc Âu phủ nhận việc tàu Nga và Trung Quốc hiện diện gần Greenland.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T21:11:22.473164+07:00",
+      "fetched": "2026-01-11T21:11:22.473309+07:00"
+    },
+    {
+      "id": "22fe8590693bd2f002fbd264fbbd9278",
+      "title": "Á hậu Thu Ngân mang văn hóa đồng bào Châu Ro đến Hoa hậu Liên lục địa 2026",
+      "link": "https://tuoitre.vn/a-hau-thu-ngan-mang-van-hoa-dong-bao-chau-ro-den-hoa-hau-lien-luc-dia-2026-20260111195113774.htm",
+      "summary": "Châu Ro cầu mùa là thiết kế trang phục dân tộc được á hậu Thu Ngân chọn trình diễn tại cuộc thi Hoa hậu Liên lục địa 2026 - Miss Intercontinental.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T21:11:22.473032+07:00",
+      "fetched": "2026-01-11T21:11:22.473152+07:00"
+    },
+    {
+      "id": "16c0a7b3f93ad32e97a317b11019de26",
+      "title": "Thủ tướng dự khởi công các công trình của 'tình dân tộc, nghĩa đồng bào'",
+      "link": "https://tuoitre.vn/thu-tuong-du-khoi-cong-cac-cong-trinh-cua-tinh-dan-toc-nghia-dong-bao-20260111194834326.htm",
+      "summary": "Chiều 11-1, tại Thái Nguyên, Thủ tướng Phạm Minh Chính dự lễ khởi công 3 dự án đầu tư cơ sở vật chất cho các trường chuyên biệt, gồm Trường Phổ thông Vùng cao Việt Bắc, Trường Dự bị đại học TP.HCM và Trường Dự bị đại học dân tộc Sầm Sơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T21:11:22.472888+07:00",
+      "fetched": "2026-01-11T21:11:22.473019+07:00"
+    },
+    {
+      "id": "49ad4292870db8c0c69cf1e3cd84fab0",
+      "title": "Tổ chức lễ tang Đại tướng Lê Văn Dũng theo nghi thức cấp Nhà nước",
+      "link": "https://tuoitre.vn/to-chuc-le-tang-dai-tuong-le-van-dung-theo-nghi-thuc-cap-nha-nuoc-20260111201927527.htm",
+      "summary": "Lễ tang Đại tướng Lê Văn Dũng, nguyên Chủ nhiệm Tổng Cục Chính trị Quân đội nhân dân Việt Nam, được tổ chức với nghi thức lễ tang cấp Nhà nước tại TP.HCM vào ngày 14-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T21:11:22.472655+07:00",
+      "fetched": "2026-01-11T21:11:22.472873+07:00"
+    },
     {
       "id": "ac50be7a32ec3019f0ee504320c5ffe0",
       "title": "Tác giả Attack on Titan kiệt sức, đã đổ cạn ý tưởng vào manga đầu tay",
@@ -443,6 +563,96 @@ window.newsData_2026_01_11 = {
       "fetched": "2026-01-11T15:16:38.724894+07:00"
     },
     {
+      "id": "9645ffcdecaa5651fa4a7d850a29742b",
+      "title": "Công an TP.HCM đột kích 4 cơ sở spa núp bóng mại dâm ở trung tâm",
+      "link": "https://thanhnien.vn/cong-an-tphcm-dot-kich-4-co-so-spa-nup-bong-mai-dam-o-trung-tam-185260111210048648.htm",
+      "summary": "4 cơ sở spa, massage trên đường Đề Thám, Bùi Viện, Phạm Ngũ Lão núp bóng hoạt động mại dâm vừa bị Công an TP.HCM triệt phá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T14:05:00+07:00",
+      "fetched": "2026-01-11T21:11:21.612150+07:00"
+    },
+    {
+      "id": "f1913084bcd92179b260070d30ca6c61",
+      "title": "Cháy kho hàng trên đường Trần Đại nghĩa, khu dân cư nháo nhào",
+      "link": "https://thanhnien.vn/chay-kho-hang-tren-duong-tran-dai-nghia-khu-dan-cu-nhao-nhao-185260111191334006.htm",
+      "summary": "Một vụ cháy kho hàng vừa xảy ra vào trưa 11.1.2026 trên đường Trần Đại Nghĩa, phường Tân Tạo, TP.HCM, khiến nhiều hộ dân trong khu vực hoảng hốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T14:02:00+07:00",
+      "fetched": "2026-01-11T21:11:21.612336+07:00"
+    },
+    {
+      "id": "1ad0610e09d9605785699533ff4839b2",
+      "title": "2 người giằng co với CSGT khi kiểm tra nồng độ cồn: Công an TP.HCM lên tiếng",
+      "link": "https://thanhnien.vn/2-nguoi-giang-co-voi-csgt-khi-kiem-tra-nong-do-con-cong-an-tphcm-len-tieng-185260111205421487.htm",
+      "summary": "Liên quan clip 2 người giằng co, có hành vi cản trở CSGT khi bị yêu cầu kiểm tra nồng độ cồn gây xôn xao mạng xã hội, Công an TP.HCM vừa chính thức lên tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T14:01:00+07:00",
+      "fetched": "2026-01-11T21:11:21.612495+07:00"
+    },
+    {
+      "id": "f22ca13bf11f1e0b36d503820f9279a4",
+      "title": "Đồng Nai: Cháy cơ sở giặt ủi cao cấp ở phường Tam Hiệp",
+      "link": "https://thanhnien.vn/dong-nai-chay-co-so-giat-ui-cao-cap-o-phuong-tam-hiep-185260111195921601.htm",
+      "summary": "Một cơ sở giặt ủi ở phường Tam Hiệp (Đồng Nai) đã bốc cháy dữ dội. Lực lượng Cảnh sát PCCC và cứu nạn cứu hộ đã khống chế ngay sau đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T13:56:00+07:00",
+      "fetched": "2026-01-11T21:11:21.612646+07:00"
+    },
+    {
+      "id": "d11c33bce7f8a462998a0855393bb3f0",
+      "title": "VinFast VF 6 nhận giải 'Mẫu xe đáng tiền nhất năm'",
+      "link": "https://vnexpress.net/vinfast-vf-6-nhan-giai-mau-xe-dang-tien-nhat-nam-5004368.html",
+      "summary": "VinFast VF 6 đạt giải \"Mẫu xe đáng tiền nhất năm\" tại Autocar India Awards 2026, nhờ sự cân bằng giữa mức giá, trang bị và khả năng vận hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T13:40:00+07:00",
+      "fetched": "2026-01-11T21:11:18.451888+07:00"
+    },
+    {
+      "id": "f4dc71f331ca786707bb58f43e89e4df",
+      "title": "Thái Lan - Iraq: Quyết thắng trận đầu ở U23 châu Á 2026",
+      "link": "https://vnexpress.net/u23-thai-lan-v-u23-iraq-5004370.html",
+      "summary": "Thái Lan quyết chiến Iraq ở lượt hai bảng D U23 châu Á 2026 trên sân Prince Faisal bin Fahd ở Arab Saudi, vào lúc 21h (giờ Hà Nội) hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T13:31:20+07:00",
+      "fetched": "2026-01-11T21:11:18.452068+07:00"
+    },
+    {
+      "id": "f4dc71f331ca786707bb58f43e89e4df",
+      "title": "Thái Lan - Iraq: Quyết thắng trận đầu ở U23 châu Á 2026",
+      "link": "https://vnexpress.net/u23-thai-lan-v-u23-iraq-5004370.html",
+      "summary": "Thái Lan quyết chiến Iraq ở lượt hai bảng D U23 châu Á 2026 trên sân Prince Faisal bin Fahd ở Arab Saudi, vào lúc 21h (giờ Hà Nội) hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-11T13:31:20+07:00",
+      "fetched": "2026-01-11T21:11:30.016795+07:00"
+    },
+    {
+      "id": "0e2e1888832809ed18c4f67b84fd5be2",
+      "title": "Được VAR 'cứu' phút 90+3, U.23 Trung Quốc thắng sát nút U.23 Úc: Bảng D cực khó đoán",
+      "link": "https://thanhnien.vn/duoc-var-cuu-phut-903-u23-trung-quoc-danh-bai-u23-uc-bang-d-cuc-kho-doan-185260111203024812.htm",
+      "summary": "Bị đánh giá thấp hơn nhưng U.23 Trung Quốc bất ngờ đánh bại U.23 Úc 1-0 ở lượt đấu thứ 2 VCK U.23 châu Á diễn ra tối 11.1, qua đó vươn lên dẫn đầu bảng D.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T13:31:00+07:00",
+      "fetched": "2026-01-11T21:11:21.612800+07:00"
+    },
+    {
+      "id": "8a959efa6374c9df9e6afaad37afe9c0",
+      "title": "Giải cứu người đàn ông kẹt trong đám cháy tiệm giặt đồ",
+      "link": "https://vnexpress.net/giai-cuu-nguoi-dan-ong-ket-trong-dam-chay-tiem-giat-do-5004366.html",
+      "summary": "Lửa bùng phát tại tiệm giặt ủi trên đường Nguyễn Ái Quốc, phường Tam Hiệp, rồi lan sang nhà bên cạnh, cảnh sát kịp thời giải cứu người mắc kẹt, tối 11/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T13:23:49+07:00",
+      "fetched": "2026-01-11T21:11:18.452251+07:00"
+    },
+    {
       "id": "faaad59024934587578b7b1142669bbd",
       "title": "Cảnh sát giao thông phá cửa cứu 11 người khỏi đám cháy rạng sáng",
       "link": "https://tuoitre.vn/canh-sat-giao-thong-pha-cua-cuu-11-nguoi-khoi-dam-chay-rang-sang-202601111045328.htm",
@@ -593,6 +803,136 @@ window.newsData_2026_01_11 = {
       "fetched": "2026-01-11T13:19:20.239817+07:00"
     },
     {
+      "id": "b7ebe59a690c030a915e370ab678e4e1",
+      "title": "Tài xế chạy dịch vụ 'lách' luật bị phạt đến 7 triệu đồng",
+      "link": "https://thanhnien.vn/tai-xe-chay-dich-vu-lach-luat-bi-phat-den-7-trieu-dong-18526010313571273.htm",
+      "summary": "Tình trạng tài xế sử dụng xe biển trắng để chở khách, kinh doanh vận tải khá phổ biến tại các bệnh viện lớn, sân bay... Hành vi lách luật này không chỉ tiềm ẩn rủi ro an toàn mà còn khiến tài xế đối mặt mức phạt khá nặng, lên đến 7 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T13:14:00+07:00",
+      "fetched": "2026-01-11T21:11:21.612951+07:00"
+    },
+    {
+      "id": "ebb6d7639b22ea71fc1932f9cd03e782",
+      "title": "Lô xe Honda Vario 125 2026 đầu tiên về Việt Nam",
+      "link": "https://thanhnien.vn/lo-xe-honda-vario-125-2026-dau-tien-ve-viet-nam-185260109215424577.htm",
+      "summary": "Bản nâng cấp mới nhất của dòng xe tay ga Honda Vario 125 2026 với diện mạo thể thao, mạnh mẽ đi kèm 4 lựa chọn màu sắc, nhập khẩu nguyên chiếc từ Indonesia vừa được một đơn vị chuyên kinh doanh xe máy đưa về Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T13:11:00+07:00",
+      "fetched": "2026-01-11T21:11:21.613100+07:00"
+    },
+    {
+      "id": "796bfd88d13cf5f29a87d19708b0a2f1",
+      "title": "Hồng Phượng tái hiện tiết mục từng giành giải ở Sao nối ngôi, ai là người thay thế NSƯT Vũ Linh?",
+      "link": "https://thanhnien.vn/hong-phuong-tai-hien-tiet-muc-tung-gianh-giai-o-sao-noi-ngoi-ai-la-nguoi-thay-the-nsut-vu-linh-185260111182540026.htm",
+      "summary": "Đối với Hồng Phượng, việc tổ chức minishow Ơn đời ơn người là một điều không hề dễ dàng, đặc biệt là khi quyết định tái hiện lại trích đoạn Duyên kiếp từng diễn chung với cố nghệ sĩ Vũ Linh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T13:00:00+07:00",
+      "fetched": "2026-01-11T21:11:21.613275+07:00"
+    },
+    {
+      "id": "92918f75980af47d5e83e41580fce074",
+      "title": "Xem nhanh 20h ngày 11.1: Giữa trưa, TP.HCM vẫn mịt mù | Tiểu thương loay hoay khai thuế, sổ sách kế toán",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-111-giua-trua-tphcm-van-mit-mu-tieu-thuong-loay-hoay-khai-thue-so-sach-ke-toan-185260111155602379.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 11.1 có nhiều tin tức đáng chú ý về: TP.HCM giữa trưa vẫn mịt mù, người dân thấy khó thở khi ra đường; tiểu thương chợ truyền thống học thích nghi thuế mới;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T13:00:00+07:00",
+      "fetched": "2026-01-11T21:11:21.613427+07:00"
+    },
+    {
+      "id": "8a5eac61211e32f5d23c0e9a013fd239",
+      "title": "Áo tank top, áo hai dây dáng ôm mang đến vẻ ngoài gọn gàng và hiện đại",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-tank-top-ao-hai-day-dang-om-mang-den-ve-ngoai-gon-gang-va-hien-dai-185260110200452494.htm",
+      "summary": "Áo tank top, áo hai dây dáng ôm giúp nàng ghi điểm với vẻ ngoài gọn gàng, tôn dáng tinh tế và mang đến hơi thở hiện đại, trẻ trung trong những bản phối thường ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T13:00:00+07:00",
+      "fetched": "2026-01-11T21:11:21.613577+07:00"
+    },
+    {
+      "id": "079b52f7a15086f317c04abde8ab7c9f",
+      "title": "Thủ tướng kể chuyện lớn lên ở miền núi, được Nhà nước chăm lo học hành",
+      "link": "https://thanhnien.vn/thu-tuong-ke-chuyen-lon-len-o-mien-nui-duoc-nha-nuoc-cham-lo-hoc-hanh-185260111192143004.htm",
+      "summary": "Chia sẻ với các em học sinh, Thủ tướng Phạm Minh Chính kể câu chuyện của chính bản thân khi sinh ra ở miền biển, lớn lên ở miền núi, nếu không được Đảng, Nhà nước quan tâm thì rất khó được học hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T12:58:00+07:00",
+      "fetched": "2026-01-11T21:11:21.613730+07:00"
+    },
+    {
+      "id": "1ecb5fc71f1766929ca2cb976acbfa44",
+      "title": "Nghịch lý U.23 Ả Rập Xê Út: Hàng công cao to hơn hẳn hàng thủ, U.23 Việt Nam tính sao?",
+      "link": "https://thanhnien.vn/nghich-ly-u23-a-rap-xe-ut-hang-cong-cao-to-hon-han-hang-thu-u23-viet-nam-tinh-sao-18526011115145402.htm",
+      "summary": "Khác với hầu hết các đội bóng khác trên thế giới, U.23 Ả Rập Xê Út sở hữu hàng tấn công gồm nhiều cầu thủ to con hơn hẳn các cầu thủ ở hàng phòng ngự. Khác biệt này là chi tiết mà U.23 Việt Nam có thể nghiên cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T12:52:00+07:00",
+      "fetched": "2026-01-11T21:11:21.613884+07:00"
+    },
+    {
+      "id": "4c54ab67d175b44f3b7ec99f9375eb54",
+      "title": "Kết thúc thành công giải chạy Vietnam Highlands Trail – Hoa Sen Home Cup Lâm Đồng 2026",
+      "link": "https://thanhnien.vn/ket-thuc-thanh-cong-giai-chay-vietnam-highlands-trail-hoa-sen-home-cup-lam-dong-2026-185260111193549477.htm",
+      "summary": "Giải chạy bộ địa hình Vietnam Highlands Trail – Hoa Sen Home Cup Lâm Đồng 2026 vừa khép lại với những trải nghiệm đặc biệt với hơn 1.000 VĐV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T12:47:00+07:00",
+      "fetched": "2026-01-11T21:11:21.614043+07:00"
+    },
+    {
+      "id": "262a8c1a30edc9c6652caed2e43d0b08",
+      "title": "Thông tin nhạy cảm của hơn 17 triệu tài khoản Instagram bị phát tán trên mạng",
+      "link": "https://thanhnien.vn/thong-tin-nhay-cam-cua-hon-17-trieu-tai-khoan-instagram-bi-phat-tan-tren-mang-185260111192747058.htm",
+      "summary": "Công ty an ninh mạng Malwarebytes vừa báo cáo về việc bộ dữ liệu chứa thông tin cá nhân của 17,5 triệu người dùng mạng xã hội Instagram đang bị lan truyền trên mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T12:39:00+07:00",
+      "fetched": "2026-01-11T21:11:21.614191+07:00"
+    },
+    {
+      "id": "0e4ee69286779d4fcc85d55b5ed788d6",
+      "title": "Chủ nhật ngày 11.1, giải độc đắc của Vietlott cộng dồn lên hơn 20 tỉ đồng",
+      "link": "https://thanhnien.vn/chu-nhat-ngay-111-giai-doc-dac-cua-vietlott-cong-don-len-hon-20-ti-dong-185260111184558265.htm",
+      "summary": "Tối 11.1, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, không ghi nhận người trúng giải độc đắc nào nên số tiền cộng dồn hiện tại hơn 20 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T12:39:00+07:00",
+      "fetched": "2026-01-11T21:11:21.614363+07:00"
+    },
+    {
+      "id": "9b3d082f374012f84fcefe73161f031e",
+      "title": "Nước nào trải dài 4.800 km nhưng chỉ dùng một múi giờ?",
+      "link": "https://vnexpress.net/nuoc-nao-trai-dai-4-800-km-nhung-chi-dung-mot-mui-gio-5004311.html",
+      "summary": "Trải dài trên 60 kinh độ, nước này đáng ra sẽ có 5 múi giờ, nhưng chỉ dùng một, khiến có nơi mặt trời mọc lúc 10h và lặn vào nửa đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T12:32:23+07:00",
+      "fetched": "2026-01-11T21:11:18.452416+07:00"
+    },
+    {
+      "id": "3363cfb0bc0466fda87cfa2bac5bfc87",
+      "title": "Mải tranh thứ hạng, nữ runner hụt sub3 hai giây",
+      "link": "https://vnexpress.net/mai-tranh-thu-hang-nu-runner-hut-sub3-hai-giay-5003600.html",
+      "summary": "Hụt sub3 hai giây ở VnExpress Marathon Hải Phòng vì ưu tiên tranh thứ hạng hơn kiểm soát thời gian, Phạm Thị Mỹ Duyên coi đây là bài học quan trọng cho mục tiêu tại VM All-Star.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T12:30:00+07:00",
+      "fetched": "2026-01-11T21:11:18.452575+07:00"
+    },
+    {
+      "id": "fd14cd270eace62a95a1b7614d842b20",
+      "title": "Quán chè ở Singapore hút khách Việt",
+      "link": "https://vnexpress.net/quan-che-o-singapore-hut-khach-viet-5002330.html",
+      "summary": "Ah Chew Dessert mang phong cách cổ điển, với nhiều đồ tráng miệng truyền thống Singapore, luôn đông khách xếp hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T12:17:38+07:00",
+      "fetched": "2026-01-11T21:11:18.452740+07:00"
+    },
+    {
       "id": "6ce8f669de340da1d50c1233b6f100f3",
       "title": "Iran ghi nhận hơn 100 nhân viên an ninh thiệt mạng trong làn sóng biểu tình",
       "link": "https://vnexpress.net/iran-ghi-nhan-hon-100-nhan-vien-an-ninh-thiet-mang-trong-lan-song-bieu-tinh-5004358.html",
@@ -603,6 +943,16 @@ window.newsData_2026_01_11 = {
       "fetched": "2026-01-11T19:23:16.175113+07:00"
     },
     {
+      "id": "bd063aa7777296976b1b2df47de02ad7",
+      "title": "Dự kiến siết điểm cộng IELTS, giới hạn 10 nguyện vọng đại học",
+      "link": "https://vnexpress.net/du-kien-siet-diem-cong-ielts-gioi-han-10-nguyen-vong-dai-hoc-5004353.html",
+      "summary": "Thí sinh chỉ được đăng ký 10 nguyện vọng đại học, điểm cộng chứng chỉ ngoại ngữ như IELTS còn tối đa 1-2, đều giảm so với hiện nay, theo dự kiến của Bộ Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T12:08:09+07:00",
+      "fetched": "2026-01-11T21:11:18.453052+07:00"
+    },
+    {
       "id": "47a681c932f3c816a105124c978d680f",
       "title": "Vườn hoa xuân ở TP.HCM chuẩn bị bung nở, hứa hẹn điểm check-in hot Tết 2026",
       "link": "https://thanhnien.vn/vuon-hoa-xuan-o-tphcm-chuan-bi-bung-no-hua-hen-diem-check-in-hot-tet-2026-185260111120414382.htm",
@@ -611,6 +961,26 @@ window.newsData_2026_01_11 = {
       "category": "Tổng hợp",
       "published": "2026-01-11T12:00:00+07:00",
       "fetched": "2026-01-11T19:23:13.628577+07:00"
+    },
+    {
+      "id": "26c2bf99aa7bb6f0e50c49c7e0cfe317",
+      "title": "Con trai 18 tuổi của Hoa hậu Hà Kiều Anh",
+      "link": "https://vnexpress.net/con-trai-18-tuoi-cua-hoa-hau-ha-kieu-anh-5003392.html",
+      "summary": "Hoa hậu Hà Kiều Anh cho biết con trai - Vương Khang - 18 tuổi cao 1,8 m, du học tại Anh, mê nấu ăn và kinh doanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T12:00:00+07:00",
+      "fetched": "2026-01-11T21:11:18.453237+07:00"
+    },
+    {
+      "id": "1a926f0b05908d245d8b25e9c21c8de5",
+      "title": "Uống kháng sinh khi sốt do virus có hại không?",
+      "link": "https://vnexpress.net/uong-khang-sinh-khi-sot-do-virus-co-hai-khong-5004103.html",
+      "summary": "Tôi đang sốt cao 38 độ, hắt hơi, sổ mũi do mắc cúm A, uống kháng sinh có diệt được virus và gây hại gì không? (Thái Sơn, 29 tuổi, Lâm Đồng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T12:00:00+07:00",
+      "fetched": "2026-01-11T21:11:18.453421+07:00"
     },
     {
       "id": "24150692e7b75b84206fb264008a9faf",
@@ -681,6 +1051,16 @@ window.newsData_2026_01_11 = {
       "category": "Tổng hợp",
       "published": "2026-01-11T11:44:13+07:00",
       "fetched": "2026-01-11T19:23:10.439373+07:00"
+    },
+    {
+      "id": "f0bee13f4ce8e40d14364fa9b1b33b77",
+      "title": "Ôtô tông 6 xe dừng đèn đỏ ở TP HCM",
+      "link": "https://vnexpress.net/oto-tong-6-xe-dung-den-do-o-tp-hcm-5004357.html",
+      "summary": "Xe 7 chỗ tông 6 xe máy dừng đèn đỏ gây cảnh hỗn loạn trên đường phố ở phường Thủ Đức, nhiều người bị thương, chiều 11/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T11:44:13+07:00",
+      "fetched": "2026-01-11T21:11:18.453741+07:00"
     },
     {
       "id": "236b50d5d3f6a221f5d7498bc458b78b",
