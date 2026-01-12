@@ -1,7 +1,147 @@
 window.newsData_2026_01_12 = {
   "date": "2026-01-12",
-  "lastUpdated": "2026-01-12T05:11:45.672593+07:00",
+  "lastUpdated": "2026-01-12T08:04:31.621536+07:00",
   "articles": [
+    {
+      "id": "cd3feb45f2b5495d8c504ffe8818f34a",
+      "title": "Lịch trực tiếp Giải U23 châu Á 2026: U23 Việt Nam đấu với Saudi Arabia",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-u23-chau-a-2026-u23-viet-nam-dau-voi-saudi-arabia-20260111185256119.htm",
+      "summary": "Lúc 23h30 hôm nay 12-1, mọi sự chú ý của các CĐV sẽ đổ dồn về trận U23 Việt Nam chạm trán U23 Saudi Arabia ở lượt trận cuối cùng bảng D Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T08:04:23.774082+07:00",
+      "fetched": "2026-01-12T08:04:23.774204+07:00"
+    },
+    {
+      "id": "c744e04b6e85612d314630f7079cf6de",
+      "title": "Thời tiết hôm nay 12-1: Nam Bộ ngày nắng, sớm se lạnh; Bắc Bộ rét đậm",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-12-1-nam-bo-ngay-nang-som-se-lanh-bac-bo-ret-dam-20260111153646156.htm",
+      "summary": "Hôm nay 12-1, thời tiết cả nước không có nhiều biến chuyển, nhiệt độ tăng nhẹ do không khí lạnh yếu bớt nhưng nhiều nơi vẫn dưới 10 độ C.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T08:04:23.773923+07:00",
+      "fetched": "2026-01-12T08:04:23.774069+07:00"
+    },
+    {
+      "id": "dd2302454369f52fef43ead058ad7388",
+      "title": "Vì sao số ca ung thư tuyến giáp ở Việt Nam tăng?",
+      "link": "https://tuoitre.vn/vi-sao-so-ca-ung-thu-tuyen-giap-o-viet-nam-tang-20260111223239736.htm",
+      "summary": "Ung thư tuyến giáp là căn bệnh ác tính phổ biến nhất, chiếm 90% tổng số bệnh nhân mắc các bệnh ung thư về tuyến nội tiết. Hiện tại, ung thư tuyến giáp nằm trong 10 loại ung thư phổ biến nhất Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T08:04:23.773794+07:00",
+      "fetched": "2026-01-12T08:04:23.773912+07:00"
+    },
+    {
+      "id": "f80bbae73b8412e381cb7d92d2e5a6a9",
+      "title": "Thiên đường máu là phim Việt đầu tiên thu 100 tỉ đồng  trong năm 2026",
+      "link": "https://tuoitre.vn/thien-duong-mau-la-phim-viet-dau-tien-thu-100-ti-dong-trong-nam-2026-20260111143854584.htm",
+      "summary": "Vượt qua nhiều đối thủ, Thiên đường máu vươn lên dẫn đầu phòng vé và vượt mốc 100 tỉ đồng chỉ sau 12 ngày công chiếu, trở thành phim Việt đầu tiên đạt doanh thu trăm tỉ trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T08:04:23.773660+07:00",
+      "fetched": "2026-01-12T08:04:23.773782+07:00"
+    },
+    {
+      "id": "03c98fa00df8489ea7b58e2036572465",
+      "title": "Mang cơm đi làm, vừa ngon lại chủ động mỗi ngày",
+      "link": "https://tuoitre.vn/mang-com-di-lam-vua-ngon-lai-chu-dong-moi-ngay-20260111222847899.htm",
+      "summary": "Giữa nhịp sống công sở gấp gáp, mang cơm đi làm không còn là thói quen của riêng những người \"siêng\" hay có thời gian đứng bếp. Với nhiều bạn trẻ, đó đơn giản là cách để chủ động trong bữa ăn mỗi ngày, sạch sẽ, tiết kiệm và hợp khẩu vị hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T08:04:23.773531+07:00",
+      "fetched": "2026-01-12T08:04:23.773649+07:00"
+    },
+    {
+      "id": "c117c670d32511816a73bb80cc8ec9ed",
+      "title": "Chuyện các con về thăm Tết phải đâu năm nào cũng thuận",
+      "link": "https://tuoitre.vn/chuyen-cac-con-ve-tham-tet-phai-dau-nam-nao-cung-thuan-2026011121490638.htm",
+      "summary": "Ngày Tết đến, thắp nén hương thơm trên bàn thờ, tôi lại nhớ chuyện xưa và hiểu hơn ai cũng có một miền quê, một gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T08:04:23.773403+07:00",
+      "fetched": "2026-01-12T08:04:23.773519+07:00"
+    },
+    {
+      "id": "8032dc056a3582e483f059676ab7a031",
+      "title": "Tin tức sáng 12-1: Hãng taxi xanh của ông Phạm Nhật Vượng trở thành công ty tỉ USD",
+      "link": "https://tuoitre.vn/tin-tuc-sang-12-1-hang-taxi-xanh-cua-ong-pham-nhat-vuong-tro-thanh-cong-ty-ti-usd-20260111083518491.htm",
+      "summary": "Một số tin tức đáng chú ý: Gần 590.000 tỉ đồng được vay qua trái phiếu doanh nghiệp; Khối tự doanh bán ròng, vốn hóa sàn UpCOM sụt giảm; Nhật Bản sẽ xóa bỏ chương trình thực tập kỹ năng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T08:04:23.773275+07:00",
+      "fetched": "2026-01-12T08:04:23.773391+07:00"
+    },
+    {
+      "id": "b41fe0a01b06f13ee0e97d8117d92740",
+      "title": "Tương quan sức mạnh U23 Việt Nam - Saudi Arabia ở Giải U23 châu Á 2026",
+      "link": "https://tuoitre.vn/tuong-quan-suc-manh-u23-viet-nam-saudi-arabia-o-giai-u23-chau-a-2026-2026011120024356.htm",
+      "summary": "U23 Saudi Arabia vượt trội U23 Việt Nam ở nhiều mặt trước cuộc đọ sức quyết định lúc 23h30 tối nay 12-1 tại lượt trận cuối cùng bảng D Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T08:04:23.773144+07:00",
+      "fetched": "2026-01-12T08:04:23.773264+07:00"
+    },
+    {
+      "id": "83a191d4df2271dee013ac32144895d1",
+      "title": "Barca thắng nghẹt thở Real Madrid, vô địch Siêu cúp Tây Ban Nha",
+      "link": "https://tuoitre.vn/barca-thang-nghet-tho-real-madrid-vo-dich-sieu-cup-tay-ban-nha-20260112055343045.htm",
+      "summary": "Rạng sáng 12-1, tại chung kết Siêu cúp Tây Ban Nha, Barca giành chiến thắng đầy kịch tính 3-2 trước đại kình địch Real Madrid.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T08:04:23.772998+07:00",
+      "fetched": "2026-01-12T08:04:23.773131+07:00"
+    },
+    {
+      "id": "3aa4d7fb738d55ea79029d1491d9c040",
+      "title": "Chung kết Sinh viên thế hệ mới nghẹt thở, dự án nào đoạt quán quân?",
+      "link": "https://tuoitre.vn/chung-ket-sinh-vien-the-he-moi-nghet-tho-du-an-nao-doat-quan-quan-20260112055543883.htm",
+      "summary": "Vượt qua hai đội còn lại, nhóm sinh viên Trường Quản trị và Kinh doanh (thuộc Đại học Quốc gia Hà Nội) trở thành quán quân Sinh viên thế hệ mới với dự án hướng tới người khuyết tật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T08:04:23.772839+07:00",
+      "fetched": "2026-01-12T08:04:23.772957+07:00"
+    },
+    {
+      "id": "ec8443f32482230e1e3100337f2ed196",
+      "title": "Dự đoán tỉ số: U23 Việt Nam tiễn Saudi Arabia rời giải",
+      "link": "https://tuoitre.vn/du-doan-ti-so-u23-viet-nam-tien-saudi-arabia-roi-giai-20260111194939985.htm",
+      "summary": "23h30 ngày 12-1 (giờ Việt Nam), U23 Việt Nam và U23 Saudi Arabia sẽ chạm trán nhau ở lượt trận cuối cùng của bảng A, Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T08:04:23.772709+07:00",
+      "fetched": "2026-01-12T08:04:23.772827+07:00"
+    },
+    {
+      "id": "2e6d680ef290dad5d4d785b901efaafe",
+      "title": "Báo Trung Quốc tuyên bố sở hữu 'thế hệ vàng U23', mơ mộng World Cup",
+      "link": "https://tuoitre.vn/bao-trung-quoc-tuyen-bo-so-huu-the-he-vang-u23-mo-mong-world-cup-20260111223540129.htm",
+      "summary": "Sau chiến thắng của đội nhà với tỉ số 1-0 trước Úc ở lượt trận thứ 2 Giải U23 châu Á 2026, truyền thông Trung Quốc bắt đầu nói nhiều về giấc mơ World Cup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T08:04:23.772573+07:00",
+      "fetched": "2026-01-12T08:04:23.772696+07:00"
+    },
+    {
+      "id": "9eff2a4bb734227ac1262605c38419e4",
+      "title": "Dự đoán tỉ số: U23 Jordan tận dụng 'món quà' của U23 Việt Nam",
+      "link": "https://tuoitre.vn/du-doan-ti-so-u23-jordan-tan-dung-mon-qua-cua-u23-viet-nam-20260111204719733.htm",
+      "summary": "Diễn ra cùng giờ với trận U23 Việt Nam - Saudi Arabia là đại chiến hứa hẹn hấp dẫn chẳng kém giữa Jordan và Kyrgyzstan, trong lượt trận cuối bảng A Giải U23 châu Á lúc 23h30 ngày 12-1 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T08:04:23.772425+07:00",
+      "fetched": "2026-01-12T08:04:23.772561+07:00"
+    },
+    {
+      "id": "9c4f37625e13268f945d7375ee3ce36c",
+      "title": "Tin tức thế giới 12-1: Thủ tướng Đan Mạch nói về tình hình Greenland; Biểu tình lớn ở Mỹ chống ICE",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-12-1-thu-tuong-dan-mach-noi-ve-tinh-hinh-greenland-bieu-tinh-lon-o-my-chong-ice-20260112051301958.htm",
+      "summary": "Hơn 500 người chết, chính phủ Iran kêu gọi tuần hành lên án bạo lực; Bộ trưởng An ninh Nội địa Mỹ cáo buộc đảng Dân chủ kích động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T08:04:23.772159+07:00",
+      "fetched": "2026-01-12T08:04:23.772409+07:00"
+    },
     {
       "id": "dbab677053323420a5a987cdbeb13099",
       "title": "Khó tin: 1 điểm nhưng Thái Lan lại nắm quyền tự quyết ở Giải U23 châu Á 2026",
@@ -163,6 +303,396 @@ window.newsData_2026_01_12 = {
       "fetched": "2026-01-12T01:17:24.160682+07:00"
     },
     {
+      "id": "8a6e972745db15484e7cb7f7b479938f",
+      "title": "Á hậu Nguyễn Thị Thu Ngân thi Miss Intercontinental 2025",
+      "link": "https://thanhnien.vn/a-hau-nguyen-thi-thu-ngan-thi-miss-intercontinental-2025-18526011121485237.htm",
+      "summary": "Á hậu 1 Miss Grand Vietnam 2025 Nguyễn Thị Thu Ngân chính thức đại diện VN tham dự cuộc thi Miss Intercontinental (Hoa hậu Liên lục địa) lần thứ 53 tại Ai Cập vào cuối tháng 1.2026. Thông tin này vừa được đơn vị nắm bản quyền công bố vào chiều 11.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T01:00:00+07:00",
+      "fetched": "2026-01-12T08:04:22.658778+07:00"
+    },
+    {
+      "id": "36c9c9e302191939b76663e0627bded6",
+      "title": "BVĐK Tâm Anh sẵn sàng nguồn lực tham gia mạng lưới ghép tạng quốc gia từ 2026",
+      "link": "https://thanhnien.vn/bvdk-tam-anh-san-sang-nguon-luc-tham-gia-mang-luoi-ghep-tang-quoc-gia-tu-2026-185260111174321341.htm",
+      "summary": "Hệ thống Bệnh viện Đa khoa Tâm Anh công bố kế hoạch tham gia mạng lưới ghép tạng quốc gia từ năm 2026, góp phần mở rộng cơ hội ghép tạng cho người bệnh suy tạng giai đoạn cuối tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T01:00:00+07:00",
+      "fetched": "2026-01-12T08:04:22.658944+07:00"
+    },
+    {
+      "id": "5ad2254e43e863631f63e18a7ada10d0",
+      "title": "Tuần cuối chiến thắng các giải thưởng lên đến 200 triệu tại Vietcap Invest",
+      "link": "https://thanhnien.vn/tuan-cuoi-chien-thang-cac-giai-thuong-len-den-200-trieu-tai-vietcap-invest-185260111154311087.htm",
+      "summary": "Chỉ còn đúng 1 tuần trước khi cuộc thi Vietcap Invest: \"Nâng tầm đầu tư, thắng lớn mỗi tuần cùng Warren\" chính thức khép lại. Sau 5 tuần diễn ra sôi động, \"đấu trường\" đầu tư thực chiến do Vietcap khởi xướng đang bước vào giai đoạn quyết định, nhà đầu tư vẫn có thể tham gia và giành chiến thắng tron...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T01:00:00+07:00",
+      "fetched": "2026-01-12T08:04:22.659124+07:00"
+    },
+    {
+      "id": "9aa4a4ddebbc359e4ad3320db0a3ef9f",
+      "title": "Pharmacity cùng Haleon VN và BVĐK tỉnh Thanh Hóa triển khai Ngày hội sức khỏe cộng đồng",
+      "link": "https://thanhnien.vn/pharmacity-cung-haleon-vn-va-bvdk-tinh-thanh-hoa-trien-khai-ngay-hoi-suc-khoe-cong-dong-185260111111028858.htm",
+      "summary": "Ngày 7.1.2026, tại Thanh Hóa, Công ty cổ phần Dược phẩm Pharmacity phối hợp cùng đối tác chiến lược Haleon Việt Nam và Bệnh viện Đa khoa (BVĐK) tỉnh Thanh Hóa, tổ chức chương trình 'Doctor tour - Ngày hội sức khỏe'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T01:00:00+07:00",
+      "fetched": "2026-01-12T08:04:22.659278+07:00"
+    },
+    {
+      "id": "4e96ff05d844088ab8c72c779682b53f",
+      "title": "Gam màu không thể thiếu vào mùa đông, giúp nàng thể hiện cá tính riêng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/gam-mau-khong-the-thieu-vao-mua-dong-giup-nang-the-hien-ca-tinh-rieng-185260109092541789.htm",
+      "summary": "Từ sắc đỏ cờ đến đỏ rượu vang, tông màu vàng pastel đến sắc xanh băng mát rượi... những gam màu làm nên tủ đồ giao mùa đầy ắp sự thú vị, nguồn năng lượng mới và niềm vui.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T01:00:00+07:00",
+      "fetched": "2026-01-12T08:04:22.659434+07:00"
+    },
+    {
+      "id": "b9146ffcd9436ab2f98462614ebad769",
+      "title": "LPBank lọt Top 50 Doanh nghiệp xuất sắc Việt Nam",
+      "link": "https://vnexpress.net/lpbank-lot-top-50-doanh-nghiep-xuat-sac-viet-nam-5004343.html",
+      "summary": "Vượt qua các tiêu chí về doanh thu, hiệu quả và quản trị, LPBank giữ vị trí thứ 17 trong Top 50 Doanh nghiệp xuất sắc Việt Nam năm 2025.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-12T01:00:00+07:00",
+      "fetched": "2026-01-12T08:04:26.535195+07:00"
+    },
+    {
+      "id": "d35161d0923d85d709201624f947b9ce",
+      "title": "Bác sĩ Nguyễn Tấn Gi Trọng 41 năm liên tục gắn bó với Quốc hội",
+      "link": "https://thanhnien.vn/bac-si-nguyen-tan-gi-trong-41-nam-lien-tuc-gan-bo-voi-quoc-hoi-18526011122010724.htm",
+      "summary": "GS-BS Nguyễn Tấn Gi Trọng (1913 - 2006) sinh ở Mỹ Tho (nay thuộc tỉnh Đồng Tháp). Ông làm đại biểu Quốc hội 7 khóa liên tục (1946 - 1987) và 25 năm làm Ủy viên Ủy ban Thường vụ Quốc hội (khóa I, khóa III và khóa IV).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T00:54:00+07:00",
+      "fetched": "2026-01-12T08:04:22.659589+07:00"
+    },
+    {
+      "id": "7a8841e85aed035091a565ae8a39db18",
+      "title": "Nghệ sĩ Bảo Chung tiết lộ điều ơn với NSND Thanh Điền và Thanh Kim Huệ",
+      "link": "https://thanhnien.vn/nghe-si-bao-chung-tiet-lo-dieu-on-voi-nsnd-thanh-dien-va-thanh-kim-hue-185260112052054021.htm",
+      "summary": "Với nghệ sĩ Bảo Chung, vợ chồng NSND Thanh Điền - Thanh Kim Huệ không chỉ là đàn anh, đàn chị trong nghề mà còn là những người đã tạo bước ngoặt quan trọng, đưa ông đến với hào quang sân khấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T00:51:00+07:00",
+      "fetched": "2026-01-12T08:04:22.659749+07:00"
+    },
+    {
+      "id": "bfca7c8038aa1e03152e603ff40101c7",
+      "title": "Phim truyền hình đề tài siêu thực lên sóng",
+      "link": "https://thanhnien.vn/phim-truyen-hinh-de-tai-sieu-thuc-len-song-185260111215221176.htm",
+      "summary": "Sau loạt phim gia đình, tâm lý quen thuộc, khung giờ phim Việt trên VTV3 sắp ra mắt một dự án mang màu sắc mới: bộ phim truyền hình đề tài siêu thực Đồng hồ đếm ngược do đạo diễn Bùi Tiến Huy thực hiện. Phim dự kiến phát sóng vào 20 giờ thứ năm và thứ sáu hằng tuần, từ cuối tháng 1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T00:50:00+07:00",
+      "fetched": "2026-01-12T08:04:22.659901+07:00"
+    },
+    {
+      "id": "d9265babc0b613d02b44d204a6744aa9",
+      "title": "Trụ đèn giữa đường",
+      "link": "https://thanhnien.vn/tru-den-giua-duong-185260111204446932.htm",
+      "summary": "Bạn đọc phản ánh trụ đèn tín hiệu giao thông tại giao lộ hẻm 389 Lê Trọng Tấn - Tây Thạnh, P.Tây Thạnh, TP.HCM, án ngữ giữa đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T00:48:00+07:00",
+      "fetched": "2026-01-12T08:04:22.660074+07:00"
+    },
+    {
+      "id": "50a37dded28138a2036fa1de3e12879a",
+      "title": "Chợ gà tự phát gây mất vệ sinh, cản trở giao thông",
+      "link": "https://thanhnien.vn/cho-ga-tu-phat-gay-mat-ve-sinh-can-tro-giao-thong-185260111202512543.htm",
+      "summary": "Nhiều bạn đọc phản ánh trên đường Phạm Hùng (đoạn giáp ranh xã Bình Hưng và P.Chánh Hưng, TP.HCM) tồn tại một chợ bán gà gây mất vệ sinh, cản trở giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T00:48:00+07:00",
+      "fetched": "2026-01-12T08:04:22.660225+07:00"
+    },
+    {
+      "id": "1ecf821202f0bb7c4930567ed9bcd55f",
+      "title": "Sống trong nỗi lo núi lở",
+      "link": "https://thanhnien.vn/song-trong-noi-lo-nui-lo-185260111201617855.htm",
+      "summary": "Sau trận sạt lở nghiêm trọng xảy ra cuối tháng 10.2025, nhiều hộ dân sống dưới chân núi ở xã Quế Phước (TP.Đà Nẵng) luôn cảm thấy bất an vì đất đá trên sườn núi sau nhà có nguy cơ tiếp tục sạt xuống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T00:48:00+07:00",
+      "fetched": "2026-01-12T08:04:22.660388+07:00"
+    },
+    {
+      "id": "36994ed1b30b7c117860ae094675e366",
+      "title": "Người mẫu Lý Công Chiều ra sao sau tai nạn lật xe ở Lào Cai?",
+      "link": "https://thanhnien.vn/nguoi-mau-ly-cong-chieu-ra-sao-sau-tai-nan-lat-xe-o-lao-cai-185260111235412582.htm",
+      "summary": "Sau quãng thời gian điều trị vì vụ tai nạn lật xe ở Lào Cai, phía người mẫu Lý Công Chiều vừa có bài đăng chia sẻ về tình trạng sức khỏe hiện tại của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T00:44:00+07:00",
+      "fetched": "2026-01-12T08:04:22.660535+07:00"
+    },
+    {
+      "id": "5c040b2e09373c9b13d83c4da9375fe3",
+      "title": "Guardiola vượt mốc 2 tỷ euro mua sắm cùng Man City",
+      "link": "https://vnexpress.net/guardiola-vuot-moc-2-ty-euro-mua-sam-cung-man-city-5004406.html",
+      "summary": "Với thương vụ Antoine Semenyo trị giá 72 triệu euro, Man City đã vượt mốc chi 2 tỷ euro trên sàn chuyển nhượng dưới triều đại của Pep Guardiola.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T00:43:43+07:00",
+      "fetched": "2026-01-12T08:04:19.375316+07:00"
+    },
+    {
+      "id": "5c040b2e09373c9b13d83c4da9375fe3",
+      "title": "Guardiola vượt mốc 2 tỷ euro mua sắm cùng Man City",
+      "link": "https://vnexpress.net/guardiola-vuot-moc-2-ty-euro-mua-sam-cung-man-city-5004406.html",
+      "summary": "Với thương vụ Antoine Semenyo trị giá 72 triệu euro, Man City đã vượt mốc chi 2 tỷ euro trên sàn chuyển nhượng dưới triều đại của Pep Guardiola.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-12T00:43:43+07:00",
+      "fetched": "2026-01-12T08:04:31.616361+07:00"
+    },
+    {
+      "id": "e4d68637d59f543236cca8f3af5b522b",
+      "title": "HLV Kim Sang-sik và Đình Bắc sẽ giúp Việt Nam 'phá dớp' trước Ả Rập Xê Út",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-va-dinh-bac-se-giup-viet-nam-pha-dop-truoc-a-rap-xe-ut-185260112073255762.htm",
+      "summary": "Bóng đá Việt Nam vài năm qua đối đầu với Ả Rập Xê Út từ cấp độ đội tuyển đến U.23, lần nào cũng bị \"dớp\". Lần này tài thao lược của HLV Kim Sang-sik và khả năng truyền cảm hứng của Đình Bắc có thể sẽ giúp viết lại lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T00:43:00+07:00",
+      "fetched": "2026-01-12T08:04:22.660683+07:00"
+    },
+    {
+      "id": "91253faba01dceee95be1c2e315b8e94",
+      "title": "Phim 'Thiên đường máu' có Quang Tuấn, Thanh Hương... vượt mốc 100 tỉ đồng",
+      "link": "https://thanhnien.vn/phim-thien-duong-mau-co-quang-tuan-thanh-huong-vuot-moc-100-ti-dong-185260112043959306.htm",
+      "summary": "'Thiên đường máu' chính thức trở thành phim Việt đầu tiên vượt mốc doanh thu 100 tỉ đồng trong năm 2026. Trong nhiều ngày qua, phim do Hoàng Tuấn Cường đạo diễn liên tiếp dẫn đầu phòng vé, bỏ xa nhiều đối thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T00:41:00+07:00",
+      "fetched": "2026-01-12T08:04:22.660840+07:00"
+    },
+    {
+      "id": "6e9d40f3c310f6a1048f549dbc1cd9a9",
+      "title": "'Triều đại' Rosenior khởi đầu thành công",
+      "link": "https://thanhnien.vn/trieu-dai-rosenior-khoi-dau-thanh-cong-185260111204454248.htm",
+      "summary": "Liam Rosenior là HLV chưa có nhiều tên tuổi, và ông phải chịu áp lực không nhỏ khi đến Chelsea thay chỗ Enzo Maresca. Giới bóng đá Anh dồn hết mọi sự chú ý vào nhân vật này, trong lần đầu dẫn dắt Chelsea.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T00:39:00+07:00",
+      "fetched": "2026-01-12T08:04:22.661003+07:00"
+    },
+    {
+      "id": "65dcc5742eaca30a9dac875a836178ec",
+      "title": "Châu Âu cân nhắc 'đưa lực lượng NATO đến Greenland'",
+      "link": "https://vnexpress.net/chau-au-can-nhac-dua-luc-luong-nato-den-greenland-5004426.html",
+      "summary": "Một số nước châu Âu, dẫn đầu bởi Anh và Đức, dường như đang thảo luận đề xuất đưa lực lượng NATO đến Greenland để tăng giám sát Bắc Cực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T00:17:27+07:00",
+      "fetched": "2026-01-12T08:04:19.375494+07:00"
+    },
+    {
+      "id": "65dcc5742eaca30a9dac875a836178ec",
+      "title": "Châu Âu cân nhắc 'đưa lực lượng NATO đến Greenland'",
+      "link": "https://vnexpress.net/chau-au-can-nhac-dua-luc-luong-nato-den-greenland-5004426.html",
+      "summary": "Một số nước châu Âu, dẫn đầu bởi Anh và Đức, dường như đang thảo luận đề xuất đưa lực lượng NATO đến Greenland để tăng giám sát Bắc Cực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-12T00:17:27+07:00",
+      "fetched": "2026-01-12T08:04:24.914874+07:00"
+    },
+    {
+      "id": "b1f084758cf6c9d3f93c9aecd08bd302",
+      "title": "Giữ ấm chân - chốt chặn bảo vệ sức khỏe ngày giá rét",
+      "link": "https://vnexpress.net/giu-am-chan-chot-chan-bao-ve-suc-khoe-ngay-gia-ret-5003753.html",
+      "summary": "Bàn chân đóng vai trò như \"cửa xả và giữ nhiệt\" của cơ thể, nếu không được giữ ấm đúng cách có thể làm suy yếu hệ miễn dịch, tạo điều kiện bùng phát các bệnh hô hấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T00:00:00+07:00",
+      "fetched": "2026-01-12T08:04:19.375658+07:00"
+    },
+    {
+      "id": "efc4a00436cfd57a8c3ba9bbeefa19a6",
+      "title": "Mỹ điều thêm hàng trăm đặc vụ đến Minneapolis sau vụ nổ súng chết người",
+      "link": "https://vnexpress.net/my-dieu-them-hang-tram-dac-vu-den-minneapolis-sau-vu-no-sung-chet-nguoi-5004422.html",
+      "summary": "Hàng trăm đặc vụ liên bang Mỹ được điều đến Minneapolis, sau vụ nữ tài xế bị thành viên ICE bắn chết dẫn đến hàng loạt cuộc biểu tình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:56:18+07:00",
+      "fetched": "2026-01-12T08:04:19.375815+07:00"
+    },
+    {
+      "id": "efc4a00436cfd57a8c3ba9bbeefa19a6",
+      "title": "Mỹ điều thêm hàng trăm đặc vụ đến Minneapolis sau vụ nổ súng chết người",
+      "link": "https://vnexpress.net/my-dieu-them-hang-tram-dac-vu-den-minneapolis-sau-vu-no-sung-chet-nguoi-5004422.html",
+      "summary": "Hàng trăm đặc vụ liên bang Mỹ được điều đến Minneapolis, sau vụ nữ tài xế bị thành viên ICE bắn chết dẫn đến hàng loạt cuộc biểu tình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-11T23:56:18+07:00",
+      "fetched": "2026-01-12T08:04:24.915069+07:00"
+    },
+    {
+      "id": "236b50d5d3f6a221f5d7498bc458b78b",
+      "title": "Đặt phòng ở Việt Nam qua ứng dụng có dễ bị 'bùng'?",
+      "link": "https://vnexpress.net/dat-phong-o-viet-nam-qua-ung-dung-co-de-bi-bung-5002774.html",
+      "summary": "Chuyên gia nhận định sự cố hủy chỗ khi đặt phòng trực tuyến chủ yếu xuất phát từ quy trình quản lý thủ công và sự thiếu chuyên nghiệp của các cơ sở lưu trú nhỏ lẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:30:45+07:00",
+      "fetched": "2026-01-12T08:04:19.375993+07:00"
+    },
+    {
+      "id": "eabc58f66c1700a1b6b94c3a1ad684fd",
+      "title": "Gửi con về quê 'trốn' bụi mịn",
+      "link": "https://vnexpress.net/gui-con-ve-que-tron-bui-min-5004418.html",
+      "summary": "Nghe con 5 tuổi khóc quấy vì đau ốm, uống thuốc mãi không dứt trong những ngày bầu trời Hà Nội đặc quánh, chị Hà Mây quyết định cho con nghỉ học, về quê \"cứu phổi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:11:36+07:00",
+      "fetched": "2026-01-12T08:04:19.376156+07:00"
+    },
+    {
+      "id": "59f2a603de4e261b5a72e1cb178359e3",
+      "title": "Điểm tin 6h: Nhiều siêu thị hoàn tiền cho người mua Đồ hộp Hạ Long | Giá vàng dự báo tiếp tục tăng",
+      "link": "https://vnexpress.net/diem-tin-6h-nhieu-sieu-thi-hoan-tien-cho-nguoi-mua-do-hop-ha-long-gia-vang-du-bao-tiep-tuc-tang-5004423.html",
+      "summary": "Siêu dự án sân bay Long Thành 16 tỷ USD chốt mốc hoàn thành trước tháng 6/2026; Giằng co với CSGT để bạn bỏ chạy khi bị đo nồng độ cồn...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:03:18+07:00",
+      "fetched": "2026-01-12T08:04:19.376310+07:00"
+    },
+    {
+      "id": "6c3e022ef5ca2139a948ab807c30745b",
+      "title": "Các hoạt động chính tại Hội nghị Bộ trưởng số ASEAN",
+      "link": "https://vnexpress.net/cac-hoat-dong-chinh-tai-hoi-nghi-bo-truong-so-asean-5004414.html",
+      "summary": "Hội nghị Bộ trưởng Số ASEAN (ADGMIN) lần thứ sáu diễn ra ngày 12-16/1 tại Hà Nội, với nhiều hoạt động như hội nghị, lễ trao Giải thưởng Số ASEAN, triển lãm...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:00:00+07:00",
+      "fetched": "2026-01-12T08:04:19.376467+07:00"
+    },
+    {
+      "id": "90424a38f6b4aa0f544967cc7b747ac5",
+      "title": "'Viễn thông, bưu chính cần đổi mới trước khi già'",
+      "link": "https://vnexpress.net/vien-thong-buu-chinh-can-doi-moi-truoc-khi-gia-5004369.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, ngành viễn thông Việt Nam không yếu nhưng nếu không đổi mới sẽ thành \"ông già\", còn bưu chính đang trẻ lại nhưng cần đổi mới ngay từ khi đang tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:00:00+07:00",
+      "fetched": "2026-01-12T08:04:19.376629+07:00"
+    },
+    {
+      "id": "b55e3e00aae34e9365593a40f8966448",
+      "title": "Mẹ đơn thân 30 tuổi coi khối u di căn như 'mụn nhọt'",
+      "link": "https://vnexpress.net/me-don-than-30-tuoi-coi-khoi-u-di-can-nhu-mun-nhot-5004259.html",
+      "summary": "Phát hiện ung thư vú giai đoạn 4 di căn phổi khi vừa tròn 30 tuổi, Nhật Thương chọn cách đối diện bằng nụ cười, xem khối u như \"cái mụn nhọt\" để nuôi hai con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:00:00+07:00",
+      "fetched": "2026-01-12T08:04:19.376794+07:00"
+    },
+    {
+      "id": "1e35a41141168be4bcee1b8d5b4ee8a0",
+      "title": "Cô gái Việt 'chốt đơn' chàng trai Nga sau ánh nhìn đầu tiên",
+      "link": "https://vnexpress.net/co-gai-viet-chot-don-chang-trai-nga-sau-anh-nhin-dau-tien-5004083.html",
+      "summary": "Từng tôn thờ chủ nghĩa độc thân, nhưng sau một ánh nhìn tại buổi hòa nhạc, Huyền lên kế hoạch chinh phục chàng trai Nga bởi tin đây là định mệnh đời mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:00:00+07:00",
+      "fetched": "2026-01-12T08:04:19.376950+07:00"
+    },
+    {
+      "id": "007960a09e5636f84bf2c149b5e08d10",
+      "title": "Nghịch lý giáo viên hợp đồng 10-20 năm vẫn đứng ngoài biên chế",
+      "link": "https://vnexpress.net/nghich-ly-giao-vien-hop-dong-10-20-nam-van-dung-ngoai-bien-che-5003276.html",
+      "summary": "13 năm đi dạy, chật vật sống với lương hợp đồng 4,4 triệu đồng, cô Oanh vẫn chưa có cơ hội vào biên chế, dù cả nước thiếu 45.000 giáo viên mầm non.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T23:00:00+07:00",
+      "fetched": "2026-01-12T08:04:19.377138+07:00"
+    },
+    {
+      "id": "6c3e022ef5ca2139a948ab807c30745b",
+      "title": "Các hoạt động chính tại Hội nghị Bộ trưởng số ASEAN",
+      "link": "https://vnexpress.net/cac-hoat-dong-chinh-tai-hoi-nghi-bo-truong-so-asean-5004414.html",
+      "summary": "Hội nghị Bộ trưởng Số ASEAN (ADGMIN) lần thứ sáu diễn ra ngày 12-16/1 tại Hà Nội, với nhiều hoạt động như hội nghị, lễ trao Giải thưởng Số ASEAN, triển lãm...",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-11T23:00:00+07:00",
+      "fetched": "2026-01-12T08:04:29.694870+07:00"
+    },
+    {
+      "id": "90424a38f6b4aa0f544967cc7b747ac5",
+      "title": "'Viễn thông, bưu chính cần đổi mới trước khi già'",
+      "link": "https://vnexpress.net/vien-thong-buu-chinh-can-doi-moi-truoc-khi-gia-5004369.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, ngành viễn thông Việt Nam không yếu nhưng nếu không đổi mới sẽ thành \"ông già\", còn bưu chính đang trẻ lại nhưng cần đổi mới ngay từ khi đang tốt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-11T23:00:00+07:00",
+      "fetched": "2026-01-12T08:04:29.695069+07:00"
+    },
+    {
+      "id": "c05c2a724d8979284f90df6be00565e7",
+      "title": "Raphinha giúp Barca hạ Real, đoạt Siêu Cup Tây Ban Nha",
+      "link": "https://vnexpress.net/raphinha-giup-barca-ha-real-doat-sieu-cup-tay-ban-nha-5004421.html",
+      "summary": "Tiền đạo Brazil Raphinha ghi bàn mở tỷ số, rồi ấn định kết quả 3-2 trước Real Madrid trong trận chung kết tối 11/1, giúp Barca đoạt Siêu Cup Tây Ban Nha thứ 16 trong lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T22:56:20+07:00",
+      "fetched": "2026-01-12T08:04:19.377296+07:00"
+    },
+    {
+      "id": "c05c2a724d8979284f90df6be00565e7",
+      "title": "Raphinha giúp Barca hạ Real, đoạt Siêu Cup Tây Ban Nha",
+      "link": "https://vnexpress.net/raphinha-giup-barca-ha-real-doat-sieu-cup-tay-ban-nha-5004421.html",
+      "summary": "Tiền đạo Brazil Raphinha ghi bàn mở tỷ số, rồi ấn định kết quả 3-2 trước Real Madrid trong trận chung kết tối 11/1, giúp Barca đoạt Siêu Cup Tây Ban Nha thứ 16 trong lịch sử.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-11T22:56:20+07:00",
+      "fetched": "2026-01-12T08:04:31.615528+07:00"
+    },
+    {
+      "id": "f6f5b290fceb5900c0f0cd7eba31c6f6",
+      "title": "11 trạm xăng bị đánh bom trong 40 phút ở Thái Lan",
+      "link": "https://vnexpress.net/11-tram-xang-bi-danh-bom-trong-40-phut-o-thai-lan-5004410.html",
+      "summary": "Loạt vụ nổ nhắm vào 11 trạm xăng ở ba tỉnh miền nam Thái Lan rạng sáng 11/1, khiến 4 người bị thương, nhà chức trách đang truy tìm nghi phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T22:42:29+07:00",
+      "fetched": "2026-01-12T08:04:19.377452+07:00"
+    },
+    {
+      "id": "f62b62b31eb2912261370988a7091412",
+      "title": "Fletcher: 'Man Utd phải tự vực dậy nếu muốn cứu vãn mùa giải'",
+      "link": "https://vnexpress.net/fletcher-man-utd-phai-tu-vuc-day-neu-muon-cuu-van-mua-giai-5004419.html",
+      "summary": "HLV tạm quyền Darren Fletcher thừa nhận Man Utd đang rơi vào trạng thái mong manh về tinh thần sau trận thua Brighton 1-2 ở vòng ba Cup FA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T22:39:54+07:00",
+      "fetched": "2026-01-12T08:04:19.377610+07:00"
+    },
+    {
+      "id": "f62b62b31eb2912261370988a7091412",
+      "title": "Fletcher: 'Man Utd phải tự vực dậy nếu muốn cứu vãn mùa giải'",
+      "link": "https://vnexpress.net/fletcher-man-utd-phai-tu-vuc-day-neu-muon-cuu-van-mua-giai-5004419.html",
+      "summary": "HLV tạm quyền Darren Fletcher thừa nhận Man Utd đang rơi vào trạng thái mong manh về tinh thần sau trận thua Brighton 1-2 ở vòng ba Cup FA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-11T22:39:54+07:00",
+      "fetched": "2026-01-12T08:04:31.615866+07:00"
+    },
+    {
+      "id": "8667ad80acb8654819f071ad57678662",
+      "title": "Arteta tự hào với sức mạnh chiều sâu của Arsenal",
+      "link": "https://vnexpress.net/arteta-tu-hao-voi-suc-manh-chieu-sau-cua-arsenal-5004415.html",
+      "summary": "HLV Mikel Arteta nhấn mạnh chất lượng đội hình giúp Arsenal vẫn áp đảo dù xoay tua mạnh tay trong trận thắng Portsmouth 4-1 ở vòng ba Cup FA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-11T22:32:35+07:00",
+      "fetched": "2026-01-12T08:04:31.616046+07:00"
+    },
+    {
       "id": "801e763f0b8deea398a00d01ecae4777",
       "title": "Bản tin sức khỏe 12.1: Giảm mỡ bụng để tránh ung thư vú | Thừa vitamin có tác hại gì?",
       "link": "https://thanhnien.vn/ban-tin-suc-khoe-121-giam-mo-bung-de-tranh-ung-thu-vu-thua-vitamin-co-tac-hai-gi-185260111234329611.htm",
@@ -191,6 +721,16 @@ window.newsData_2026_01_12 = {
       "category": "Công nghệ",
       "published": "2026-01-11T22:00:00+07:00",
       "fetched": "2026-01-12T05:11:43.946144+07:00"
+    },
+    {
+      "id": "8621f7231b94bbd12579b6259479813f",
+      "title": "ICE - lực lượng trấn áp nhập cư nhiều tranh cãi của Mỹ",
+      "link": "https://vnexpress.net/ice-luc-luong-tran-ap-nhap-cu-nhieu-tranh-cai-cua-my-5003854.html",
+      "summary": "ICE có vai trò quan trọng trong chính sách trấn áp người nhập cư trái phép của Tổng thống Trump, nhưng lực lượng này cũng làm dấy lên nhiều tranh cãi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-11T22:00:00+07:00",
+      "fetched": "2026-01-12T08:04:24.915237+07:00"
     },
     {
       "id": "039dd10952da821225d27bac92702799",
