@@ -1,7 +1,47 @@
 window.newsData_2026_01_13 = {
   "date": "2026-01-13",
-  "lastUpdated": "2026-01-13T01:19:57.872625+07:00",
+  "lastUpdated": "2026-01-13T03:15:24.899129+07:00",
   "articles": [
+    {
+      "id": "47ce0cf3e9e1d670a355c528aa5f291c",
+      "title": "Đánh bại Saudi Arabia, Việt Nam vào tứ kết Giải U23 châu Á 2026 với ngôi đầu bảng",
+      "link": "https://tuoitre.vn/danh-bai-saudi-arabia-viet-nam-vao-tu-ket-giai-u23-chau-a-2026-voi-ngoi-dau-bang-20260112145929087.htm",
+      "summary": "Khuya 13-1, U23 Việt Nam đã đánh bại U23 Saudi Arabia 1-0 ở lượt trận cuối cùng bảng A Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T03:15:16.431363+07:00",
+      "fetched": "2026-01-13T03:15:16.431479+07:00"
+    },
+    {
+      "id": "2c190deaa984f6ed6463718fbdb13a56",
+      "title": "Real Madrid sa thải HLV Xabi Alonso",
+      "link": "https://tuoitre.vn/real-madrid-sa-thai-hlv-xabi-alonso-20260113004620848.htm",
+      "summary": "Chỉ chưa đầy 24 giờ sau thất bại cay đắng với tỉ số 2-3 trước Barcelona tại chung kết Siêu cúp Tây Ban Nha, Real Madrid đã chính thức ra thông báo chấm dứt hợp đồng với HLV Xabi Alonso.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T03:15:16.430564+07:00",
+      "fetched": "2026-01-13T03:15:16.430687+07:00"
+    },
+    {
+      "id": "92843eb7079abee0505842ee949b3b52",
+      "title": "Xếp hạng U23 châu Á 2026: U23 Việt Nam và Jordan đi tiếp, chủ nhà Saudi Arabia bị loại",
+      "link": "https://tuoitre.vn/xep-hang-u23-chau-a-2026-u23-viet-nam-va-jordan-di-tiep-chu-nha-saudi-arabia-bi-loai-20260113014501308.htm",
+      "summary": "U23 Việt Nam và Jordan là hai đội tiếp vào tứ kết ở bảng A VCK U23 châu Á 2026. Việt Nam toàn thắng cả 3 trận đứng đầu bảng sẽ gặp đội nhì bảng B ở vòng bán kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T03:15:16.430422+07:00",
+      "fetched": "2026-01-13T03:15:16.430552+07:00"
+    },
+    {
+      "id": "37d2d01ba65342c3430ffcac5ecc5ce3",
+      "title": "Việt Nam làm điều chưa từng có trong lịch sử tham dự Giải U23 châu Á",
+      "link": "https://tuoitre.vn/viet-nam-lam-dieu-chua-tung-co-trong-lich-su-tham-du-giai-u23-chau-a-20260113015359359.htm",
+      "summary": "Với chiến thắng 1-0 trước U23 Saudi Arabia ở lượt trận cuối cùng bảng A Giải U23 châu Á 2026, U23 Việt Nam đã làm được điều chưa từng có trong lịch sử tham dự giải đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T03:15:16.430185+07:00",
+      "fetched": "2026-01-13T03:15:16.430407+07:00"
+    },
     {
       "id": "5d8d63ccdef990eccf63397c7d8a0159",
       "title": "Trường quốc tế AISVN chính thức bị giải thể sau thời gian dài đình chỉ hoạt động",
@@ -153,6 +193,226 @@ window.newsData_2026_01_13 = {
       "fetched": "2026-01-13T01:19:50.004184+07:00"
     },
     {
+      "id": "8735a78de06068d4d94d79d4ad680dbc",
+      "title": "AFC làm điều đặc biệt với Đình Bắc, một sự thật về U.23 Việt Nam lần đầu được ‘vén màn’",
+      "link": "https://thanhnien.vn/afc-lam-dieu-dac-biet-voi-dinh-bac-mot-su-that-ve-u23-viet-nam-lan-dau-duoc-ven-man-185260113024806507.htm",
+      "summary": "Bàn thắng từ khoảnh khắc tỏa sáng của Đình Bắc giúp U.23 Việt Nam tạo địa chấn trước U.23 Ả Rập Xê Út, đồng thời khẳng định bản lĩnh và tinh thần thi đấu kiên cường của thầy trò HLV Kim Sang-sik tại giải đấu châu lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T20:00:00+07:00",
+      "fetched": "2026-01-13T03:15:15.497417+07:00"
+    },
+    {
+      "id": "8b09561284c56ed96427c6e97cf57dd8",
+      "title": "Việt Nam sẽ gặp đối thủ nào ở tứ kết U23 châu Á 2026?",
+      "link": "https://vnexpress.net/viet-nam-se-gap-doi-thu-nao-o-tu-ket-u23-chau-a-2026-5004872.html",
+      "summary": "Với vị trí nhất bảng A, Việt Nam sẽ gặp UAE hoặc Syria ở tứ kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-12T19:57:36+07:00",
+      "fetched": "2026-01-13T03:15:24.893895+07:00"
+    },
+    {
+      "id": "a6403eccdabc8c941c0ddcdea16cce12",
+      "title": "HLV Kim: 'Tôi cũng không ngờ Việt Nam toàn thắng ở vòng bảng U23 châu Á'",
+      "link": "https://vnexpress.net/hlv-kim-toi-cung-khong-ngo-viet-nam-toan-thang-o-vong-bang-u23-chau-a-5004865.html",
+      "summary": "Sau khi đánh bại chủ nhà Arab Saudi tối 12/1, HLV Kim Sang-sik thừa nhận trước đây không nghĩ đến khả năng Việt Nam thắng cả ba trận vòng bảng U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-12T19:50:43+07:00",
+      "fetched": "2026-01-13T03:15:24.894075+07:00"
+    },
+    {
+      "id": "13f38eba8b88f54bab8fe0c6c124a2a5",
+      "title": "Báo Thái Lan ngợi ca U.23 Việt Nam: 'Thầy trò HLV Kim Sang-sik quá bản lĩnh và hoàn hảo’",
+      "link": "https://thanhnien.vn/bao-thai-lan-ngoi-ca-u23-viet-nam-thay-tro-hlv-kim-sang-sik-qua-ban-linh-va-hoan-hao-185260113024314908.htm",
+      "summary": "Truyền thông Thái Lan đánh giá, chiến thắng của U.23 Việt Nam trước U.23 Ả Rập Xê Út ngay trên sân nhà của đối thủ là minh chứng rõ nét cho bản lĩnh, chiều sâu lực lượng và sự ổn định của đội bóng trẻ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:46:00+07:00",
+      "fetched": "2026-01-13T03:15:15.497597+07:00"
+    },
+    {
+      "id": "b88f1b5c6a8d53ee34d99f6c50894d3a",
+      "title": "U.23 Việt Nam liên tục phá kỷ lục châu Á: Thầy Kim viết lại lịch sử",
+      "link": "https://thanhnien.vn/u23-viet-nam-lien-tuc-pha-ky-luc-chau-a-thay-kim-viet-lai-lich-su-185260113022753163.htm",
+      "summary": "Lần đầu tiên trong lịch sử U.23 châu Á, U.23 Việt Nam vượt qua vòng bảng với thành tích toàn thắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:42:00+07:00",
+      "fetched": "2026-01-13T03:15:15.497779+07:00"
+    },
+    {
+      "id": "01df8f7851bddfbcdb679462228dd515",
+      "title": "U.23 Việt Nam tạo địa chấn trước Ả Rập Xê Út: HLV Kim Sang-sik quá 'cao tay'",
+      "link": "https://thanhnien.vn/u23-viet-nam-tao-dia-chan-truoc-a-rap-xe-ut-hlv-kim-sang-sik-qua-cao-tay-185260113021508485.htm",
+      "summary": "Bằng chiến thuật cách sử dụng nhân sự linh hoạt, HLV Kim Sang-sik đã cùng các học trò tạo nên một cú sốc khi đánh bại U.23 Ả Rập Xê Út. Qua đó, U.23 Việt Nam tiến vào tứ kết U.23 châu Á 2026 với vị trí đầu bảng A.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:36:00+07:00",
+      "fetched": "2026-01-13T03:15:15.497942+07:00"
+    },
+    {
+      "id": "baffd1c547635b1cc9367468d7004140",
+      "title": "Highlight U.23 Jordan 1-0 U.23 Kyrgtzstan: Đánh đầu đẳng cấp, lộ diện vé tứ kết thứ hai bảng A",
+      "link": "https://thanhnien.vn/highlight-u23-jordan-1-0-u23-kyrgtzstan-danh-dau-dang-cap-lo-dien-ve-tu-ket-thu-hai-bang-a-18526011302271766.htm",
+      "summary": "Bàn thắng bằng pha đánh đầu đẳng cấp giúp U.23 Jordan đánh bại U.23 Kyrgyzstan 1-0, qua đó giành vé vào tứ kết và trở thành đội thứ hai của bảng A góp mặt ở vòng knock-out.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:27:00+07:00",
+      "fetched": "2026-01-13T03:15:15.498098+07:00"
+    },
+    {
+      "id": "a8234aa0c02e99f5efb1c87f2671f252",
+      "title": "HLV Ả Rập Xê Út phục tài Trung Kiên, đau đớn vì bị U.23 Việt Nam loại: ‘Chúng tôi đã rất kiên nhẫn…’",
+      "link": "https://thanhnien.vn/hlv-a-rap-xe-ut-phuc-tai-trung-kien-dau-don-vi-bi-u23-viet-nam-loai-chung-toi-da-rat-kien-nhan-185260113021656591.htm",
+      "summary": "HLV Luigi di Biago buồn bã khi U.23 Ả Rập Xê Út phải rời cuộc chơi sau thất bại 0-1 trước U.23 Việt Nam ở trận hạ màn bảng A VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:22:00+07:00",
+      "fetched": "2026-01-13T03:15:15.498258+07:00"
+    },
+    {
+      "id": "5158277aaed4602b71cd72652b55e870",
+      "title": "Việt Nam lần đầu toàn thắng ở vòng bảng giải châu Á",
+      "link": "https://vnexpress.net/viet-nam-lan-dau-toan-thang-o-vong-bang-giai-chau-a-5004867.html",
+      "summary": "Thầy trò HLV Kim Sang-sik giúp bóng đá Việt Nam lập một loạt kỷ lục khi thắng Arab Saudi 1-0 ở lượt cuối bảng A giải U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:18:47+07:00",
+      "fetched": "2026-01-13T03:15:12.508638+07:00"
+    },
+    {
+      "id": "5158277aaed4602b71cd72652b55e870",
+      "title": "Việt Nam lần đầu toàn thắng ở vòng bảng giải châu Á",
+      "link": "https://vnexpress.net/viet-nam-lan-dau-toan-thang-o-vong-bang-giai-chau-a-5004867.html",
+      "summary": "Thầy trò HLV Kim Sang-sik giúp bóng đá Việt Nam lập một loạt kỷ lục khi thắng Arab Saudi 1-0 ở lượt cuối bảng A giải U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-12T19:18:47+07:00",
+      "fetched": "2026-01-13T03:15:24.894239+07:00"
+    },
+    {
+      "id": "04217334a5c4fe01345ddab5d5b381d2",
+      "title": "HLV Kim Sang-sik: ‘U.23 Việt Nam cực kỳ xuất sắc, sẽ tiếp tục chơi tốt ở tứ kết’",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-u23-viet-nam-cuc-ky-xuat-sac-se-choi-tot-o-tu-ket-185260113021021255.htm",
+      "summary": "Rạng sáng 13.1 (giờ Việt Nam), HLV Kim Sang-sik hạnh phúc sau chiến thắng 1-0 của đội U.23 Việt Nam trước Ả Rập Xê Út ở lượt cuối bảng A VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:14:00+07:00",
+      "fetched": "2026-01-13T03:15:15.498414+07:00"
+    },
+    {
+      "id": "123df0362aec38f774a6a9ef09d6666a",
+      "title": "Highlight U.23 Ả Rập Xê Út 0-1 U.23 Việt Nam: Vé tứ kết xứng đáng, chủ nhà bị loại",
+      "link": "https://thanhnien.vn/highlight-u23-a-rap-xe-ut-0-1-u23-viet-nam-ve-tu-ket-xung-dang-chu-nha-bi-loai-185260113020752319.htm",
+      "summary": "Thắng chủ nhà Ả Rập Xê Út, ngoài việc chính thức giành vé tứ kết, U.23 Việt Nam cũng lập kỷ lục mới khi lần đầu tiên toàn thắng vòng bảng ở VCK U.23 châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:07:00+07:00",
+      "fetched": "2026-01-13T03:15:15.498567+07:00"
+    },
+    {
+      "id": "05d35e332f30737dc6608e1455c31d39",
+      "title": "Đình Bắc ghi bàn cực đẹp, nhưng đây mới là người hùng thực sự của U.23 Việt Nam",
+      "link": "https://thanhnien.vn/dinh-bac-ghi-ban-cuc-dep-nhung-day-moi-la-nguoi-hung-thuc-su-cua-u23-viet-nam-185260113014357119.htm",
+      "summary": "Thủ thành Trần Trung Kiên đã có trận đấu hay nhất từ đầu sự nghiệp với 5 pha cứu thua đẳng cấp, giúp U.23 Việt Nam đánh bại U.23 Ả Rập Xê Út 1-0 ở lượt cuối bảng A VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:07:00+07:00",
+      "fetched": "2026-01-13T03:15:15.498725+07:00"
+    },
+    {
+      "id": "73b0c6c306f488bcbd66b3b74b16db8e",
+      "title": "FIFA và AFC thi nhau khen U.23 Việt Nam: 'Bay như TK1, sút như ĐB7'",
+      "link": "https://thanhnien.vn/fifa-va-afc-thi-nhau-khen-u23-viet-nam-bay-nhu-tk1-sut-nhu-db7-185260113020336123.htm",
+      "summary": "Ngay sau chiến thắng 1-0 của đội tuyển U.23 Việt Nam trước đội tuyển U.23 Ả Rập Xê Út tại VCK U.23 châu Á 2026, trang chủ AFC và fanpage chính thức của FIFA đồng loạt đăng bài, dành nhiều lời khen cho màn trình diễn xuất sắc của thủ môn Trung Kiên cùng bàn thắng quyết định của Đình Bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:06:00+07:00",
+      "fetched": "2026-01-13T03:15:15.498898+07:00"
+    },
+    {
+      "id": "822e47cfc7257c3ba05c9dbb380af1e0",
+      "title": "Màn trình diễn xuất thần của thủ môn Trung Kiên",
+      "link": "https://vnexpress.net/man-trinh-dien-xuat-than-cua-thu-mon-trung-kien-5004870.html",
+      "summary": "Thủ thành Trần Trung Kiên có không dưới 5 pha cứu thua, góp công quan trọng giúp Việt Nam thắng Arab Saudi 1-0 ở lượt cuối bảng A giải U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:03:53+07:00",
+      "fetched": "2026-01-13T03:15:12.508841+07:00"
+    },
+    {
+      "id": "f36342b0361d4b0c442298f985d68565",
+      "title": "Hào hứng khởi tranh khu vực phía bắc",
+      "link": "https://thanhnien.vn/hao-hung-khoi-tranh-khu-vuc-phia-bac-185260112222801144.htm",
+      "summary": "Hôm qua (12.1), giải bóng đá Thanh Niên sinh viên VN lần IV - 2026 cúp THACO (TNSV THACO cup 2026) khởi tranh vòng loại khu vực phía bắc, đồng thời tiếp tục diễn ra các trận đấu hấp dẫn tại vòng loại khu vực TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:00:00+07:00",
+      "fetched": "2026-01-13T03:15:15.499055+07:00"
+    },
+    {
+      "id": "9deef68c172cb7015f3049790fb0ddb0",
+      "title": "Báo Ả Rập Xê Út ca ngợi: 'U.23 Việt Nam xứng đáng thắng vì quá khôn ngoan và đẳng cấp'",
+      "link": "https://thanhnien.vn/bao-a-rap-xe-ut-ca-ngoi-u23-viet-nam-xung-dang-thang-vi-qua-khon-ngoan-va-dang-cap-185260113015015467.htm",
+      "summary": "Truyền thông Ả Rập Xê Út tỏ ra thất vọng khi đội U.23 bị loại ngay từ vòng bảng U.23 châu Á 2026. Song song đó, các ký giả nước này cũng dành lời khen cho thầy trò HLV Kim Sang-sik, đánh giá U.23 Việt Nam xứng đáng giành ngôi đầu bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T18:55:00+07:00",
+      "fetched": "2026-01-13T03:15:15.499212+07:00"
+    },
+    {
+      "id": "6fd056c024e212b4a77366132f781f28",
+      "title": "Arab Saudi 0-1 Việt Nam",
+      "link": "https://vnexpress.net/arab-saudi-0-1-viet-nam-5004869.html",
+      "summary": "Bàn thắng duy nhất của Nguyễn Đình Bắc giúp Việt Nam hạ chủ nhà ở lượt cuối bảng A tối 12/1, giành vé vào tứ kết giải U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T18:53:41+07:00",
+      "fetched": "2026-01-13T03:15:12.509011+07:00"
+    },
+    {
+      "id": "54001c279c27c04de21009d1b5797525",
+      "title": "Thủ môn Trung Kiên nói cực hay khi thắng sốc Ả Rập Xê Út: U.23 Việt Nam không dừng lại ở đây…",
+      "link": "https://thanhnien.vn/thu-mon-trung-kien-noi-cuc-hay-khi-thang-soc-a-rap-xe-ut-u23-viet-nam-khong-dung-lai-o-day-185260113015047166.htm",
+      "summary": "Sau chiến thắng ấn tượng trước U.23 Ả Rập Xê Út để khép lại vòng bảng với thành tích toàn thắng, thủ môn Trần Trung Kiên đã có những chia sẻ đầy cảm xúc về tinh thần chiến đấu của U.23 Việt Nam và mục tiêu tại vòng tứ kết U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T18:53:00+07:00",
+      "fetched": "2026-01-13T03:15:15.499368+07:00"
+    },
+    {
+      "id": "0e3b90ef8d450915de1a12bafb8ee1cf",
+      "title": "Những pha cứu thua xuất thần của Trung Kiên",
+      "link": "https://vnexpress.net/nhung-pha-cuu-thua-xuat-than-cua-trung-kien-5004868.html",
+      "summary": "Thủ môn Trung Kiên tỏa sáng với hàng loạt pha cản phá, góp công giúp Việt Nam đánh bại chủ nhà Arab Saudi 1-0, qua đó khép lại vòng bảng U23 châu Á 2026 với thành tích toàn thắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T18:45:25+07:00",
+      "fetched": "2026-01-13T03:15:12.509183+07:00"
+    },
+    {
+      "id": "120d7b642121ec96b45c68ce2cd807bd",
+      "title": "Lịch thi đấu tứ kết của U.23 Việt Nam: Gặp đối thủ đến từ Tây Á, giờ ‘lạ’",
+      "link": "https://thanhnien.vn/lich-thi-dau-tu-ket-cua-u23-viet-nam-gap-doi-thu-den-tu-tay-a-185260113010927464.htm",
+      "summary": "U.23 Việt Nam đã xuất sắc vượt qua bảng A VCK U.23 châu Á 2026 với ngôi đầu, nhờ vậy thẳng tiến tới vòng tứ kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T18:35:00+07:00",
+      "fetched": "2026-01-13T03:15:15.499517+07:00"
+    },
+    {
+      "id": "9c9dc7af05545b5b7d755f18d91fa6c3",
+      "title": "Trung Kiên thủ chắc - Đình Bắc công hay, U.23 Việt Nam đánh bại Ả Rập Xê Út: VFF thưởng lớn",
+      "link": "https://thanhnien.vn/trung-kien-thu-chac-dinh-bac-cong-hay-u23-viet-nam-danh-bai-a-rap-xe-ut-vff-thuong-lon-185260113012641807.htm",
+      "summary": "Trong thế trận chịu sức ép lớn suốt phần lớn thời gian, đội tuyển U.23 Việt Nam vẫn giữ được sự chắc chắn, với điểm tựa là thủ môn Trung Kiên. Khoảnh khắc tỏa sáng của Đình Bắc đã mang về chiến thắng cho U.23 Việt Nam. chính thức giành vé tứ kết U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T18:29:00+07:00",
+      "fetched": "2026-01-13T03:15:15.499666+07:00"
+    },
+    {
       "id": "9145ca78ae2dcd52943f9adb7e800aa1",
       "title": "Chiến dịch thảm họa ở Iran năm 1980 khiến Mỹ cải tổ đặc nhiệm Delta",
       "link": "https://vnexpress.net/chien-dich-tham-hoa-o-iran-nam-1980-khien-my-cai-to-dac-nhiem-delta-5003678.html",
@@ -161,6 +421,26 @@ window.newsData_2026_01_13 = {
       "category": "Thế giới",
       "published": "2026-01-12T18:00:00+07:00",
       "fetched": "2026-01-13T01:19:51.904505+07:00"
+    },
+    {
+      "id": "4a8f450eebc9f8cfa8e795cf4fad4857",
+      "title": "4 dấu hiệu gan nhiễm mỡ dễ nhầm với đau dạ dày",
+      "link": "https://vnexpress.net/4-dau-hieu-gan-nhiem-mo-de-nham-voi-dau-da-day-5004746.html",
+      "summary": "Khó tiêu, đầy hơi dai dẳng, cảm giác no sau bữa ăn nhẹ và khó chịu ở vùng bụng trên bên phải có thể là dấu hiệu của bệnh gan nhiễm mỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T18:00:00+07:00",
+      "fetched": "2026-01-13T03:15:12.509341+07:00"
+    },
+    {
+      "id": "da88aced07ec5c6c28d971e9444e5d0b",
+      "title": "Nhà phố tân cổ điển trong con hẻm rộng 3 m",
+      "link": "https://vnexpress.net/nha-pho-tan-co-dien-trong-con-hem-rong-3-m-5004716.html",
+      "summary": "Công trình nhà phố 4 tầng áp dụng phong cách tân cổ điển trên mặt bằng hẹp, tập trung vào tổ chức không gian và kiểm soát chi tiết nội thất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T17:51:13+07:00",
+      "fetched": "2026-01-13T03:15:12.509657+07:00"
     },
     {
       "id": "ad3b5c09c62ab563b4c0a563d5c83010",
@@ -483,6 +763,16 @@ window.newsData_2026_01_13 = {
       "fetched": "2026-01-13T01:19:57.868849+07:00"
     },
     {
+      "id": "581bd69b1fb5fbceb73d93515aaec06b",
+      "title": "Hạ Arab Saudi, Việt Nam vào tứ kết U23 châu Á",
+      "link": "https://vnexpress.net/ket-qua-arab-saudi-viet-nam-5004836.html",
+      "summary": "Tiền đạo Nguyễn Đình Bắc lập siêu phẩm giúp Việt Nam hạ Arab Saudi 1-0 tại lượt cuối bảng A U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-12T15:19:07+07:00",
+      "fetched": "2026-01-13T03:15:24.894555+07:00"
+    },
+    {
       "id": "5c06fda64e47333d9dea68316deb1b22",
       "title": "Nga nói tên lửa Oreshnik đánh trúng xưởng sửa máy bay Ukraine",
       "link": "https://vnexpress.net/nga-noi-ten-lua-oreshnik-danh-trung-xuong-sua-may-bay-ukraine-5004847.html",
@@ -631,6 +921,16 @@ window.newsData_2026_01_13 = {
       "category": "Thể thao",
       "published": "2026-01-12T11:19:22+07:00",
       "fetched": "2026-01-13T01:19:57.870202+07:00"
+    },
+    {
+      "id": "39797a6caf99e2fcee3e59ab474f7518",
+      "title": "Cầu thủ Real bẽ mặt khi trút giận vào chai nước",
+      "link": "https://vnexpress.net/cau-thu-real-be-mat-khi-trut-gian-vao-chai-nuoc-5004798.html",
+      "summary": "Arda Guler trượt chân, ngã ngửa khi sút vào chai nước sau trận Real thua Barca 2-3 ở chung kết Siêu Cup Tây Ban Nha ngày 11/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-12T11:19:22+07:00",
+      "fetched": "2026-01-13T03:15:24.895203+07:00"
     },
     {
       "id": "0ba24e53eb0481709e01fd078a34f993",
