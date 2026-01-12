@@ -1,7 +1,157 @@
 window.newsData_2026_01_12 = {
   "date": "2026-01-12",
-  "lastUpdated": "2026-01-12T17:16:55.024082+07:00",
+  "lastUpdated": "2026-01-12T19:28:13.293845+07:00",
   "articles": [
+    {
+      "id": "ef9d927c83e2c9dc68a2f3dcf7efdc14",
+      "title": "Thực hư video người Ấn Độ 'thờ đầu đạn hạt nhân' lan truyền trên mạng xã hội",
+      "link": "https://tuoitre.vn/thuc-hu-video-nguoi-an-do-tho-dau-dan-hat-nhan-lan-truyen-tren-mang-xa-hoi-20260112120600086.htm",
+      "summary": "Video lan truyền trên mạng cho rằng người Ấn Độ đang thờ phụng một đầu đạn hạt nhân khi vật thể này được vận chuyển trên xe tải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.555271+07:00",
+      "fetched": "2026-01-12T19:28:04.555387+07:00"
+    },
+    {
+      "id": "d4be7a295b010a62691be445580ee26f",
+      "title": "Hà Nội dự kiến sẽ chấm dứt hoàn toàn việc xử lý đơn thư tố cáo, khiếu nại bằng văn bản giấy",
+      "link": "https://tuoitre.vn/ha-noi-du-kien-se-cham-dut-hoan-toan-viec-xu-ly-don-thu-to-cao-khieu-nai-bang-van-ban-giay-2026011217121088.htm",
+      "summary": "Dự kiến từ 1-3-2026, Hà Nội sẽ chấm dứt hoàn toàn việc xử lý đơn, thư bằng văn bản giấy, chuyển sang môi trường số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.555148+07:00",
+      "fetched": "2026-01-12T19:28:04.555260+07:00"
+    },
+    {
+      "id": "48ca977f5289821a2a8a114df27b5808",
+      "title": "Khởi tố nghi phạm truyền bá văn hóa phẩm đồi trụy trên mạng xã hội",
+      "link": "https://tuoitre.vn/khoi-to-nghi-pham-truyen-ba-van-hoa-pham-doi-truy-tren-mang-xa-hoi-20260112172428013.htm",
+      "summary": "Công an Hà Tĩnh đã ra quyết định khởi tố với P.P.L. (44 tuổi, ngụ tại TP HCM) để điều tra về hành vi \"truyền bá văn hóa phẩm đồi trụy\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.555022+07:00",
+      "fetched": "2026-01-12T19:28:04.555137+07:00"
+    },
+    {
+      "id": "eb824f6e44cef33e4e09706ba48b4b5f",
+      "title": "Bẫy lừa đảo từ các cuộc gọi nháy máy đầu số 022, 024, 028",
+      "link": "https://tuoitre.vn/bay-lua-dao-tu-cac-cuoc-goi-nhay-may-dau-so-022-024-028-20260112172841299.htm",
+      "summary": "Công an thành phố Hải Phòng đã đưa ra cảnh báo lừa đảo tinh vi từ các cuộc gọi nháy máy đầu số 022, 024, 028.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.554875+07:00",
+      "fetched": "2026-01-12T19:28:04.555010+07:00"
+    },
+    {
+      "id": "9e4b6994b5db9d49901e739fa89335e6",
+      "title": "Lee Joo Bin nỗ lực thoát mác 'bình hoa di động' qua Spring fever",
+      "link": "https://tuoitre.vn/lee-joo-bin-no-luc-thoat-mac-binh-hoa-di-dong-qua-spring-fever-20260112164150465.htm",
+      "summary": "Lee Joo Bin đang đứng trước áp lực khi đảm nhận vai chính trong Spring fever. Đây được xem là cơ hội hiếm hoi để chứng minh năng lực 'gánh phim' của cô sau chuỗi dự án thất bại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.554753+07:00",
+      "fetched": "2026-01-12T19:28:04.554864+07:00"
+    },
+    {
+      "id": "746dcea8f4ca5ba9598e28c34b1f3a9a",
+      "title": "Dịp Tết, người dân về quê bằng xe khách hãy ra bến xe, đừng đón dọc đường",
+      "link": "https://tuoitre.vn/dip-tet-nguoi-dan-ve-que-bang-xe-khach-hay-ra-ben-xe-dung-don-doc-duong-20260112171344668.htm",
+      "summary": "Ngày 12-1, đại diện Phòng Cảnh sát giao thông TP.HCM cho biết sẽ tăng cường quản lý tình trạng 'bến cóc, xe dù' dịp cận Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.554626+07:00",
+      "fetched": "2026-01-12T19:28:04.554741+07:00"
+    },
+    {
+      "id": "2d0abe87c05f446ba390afb148b2ea11",
+      "title": "125 người ở TP.HCM nhập viện sau khi ăn bánh mì, chủ cơ sở bị phạt hành chính",
+      "link": "https://tuoitre.vn/125-nguoi-o-tp-hcm-nhap-vien-sau-khi-an-banh-mi-chu-co-so-bi-phat-hanh-chinh-20260112170655167.htm",
+      "summary": "Liên quan vụ 125 người nhập viện sau khi ăn bánh mì, chủ cơ sở bán bánh mì N.H. (phường Phú Mỹ, TP.HCM) bị phạt hành chính số tiền 15 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.554495+07:00",
+      "fetched": "2026-01-12T19:28:04.554611+07:00"
+    },
+    {
+      "id": "4dc27f2d576cc9f823fb53eb9acb9d4e",
+      "title": "Điểm tin 18h: Hải Phòng lên tiếng về pate Cột Đèn; Cậu bé nhận giải Quả cầu vàng ở tuổi 16",
+      "link": "https://tuoitre.vn/diem-tin-18h-hai-phong-len-tieng-ve-pate-cot-den-cau-be-nhan-giai-qua-cau-vang-o-tuoi-16-20260112164115162.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin 18h ngày 12-1-2026",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.554369+07:00",
+      "fetched": "2026-01-12T19:28:04.554483+07:00"
+    },
+    {
+      "id": "1983e62ef92488d0fd48cd5f605378f8",
+      "title": "Phát hiện công ty chia gạo từ bao 50kg sang các bao 10kg mang thương hiệu ST25, Sén Cù…",
+      "link": "https://tuoitre.vn/phat-hien-cong-ty-chia-gao-tu-bao-50kg-sang-cac-bao-10kg-mang-thuong-hieu-st25-sen-cu-20260112162732728.htm",
+      "summary": "Cơ quan chức năng phát hiện một công ty chia, đóng gói gạo từ bao 50kg sang bao có khối lượng 10kg của các thương hiệu nổi tiếng như ST25, Sén Cù, gạo Tám.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.554241+07:00",
+      "fetched": "2026-01-12T19:28:04.554358+07:00"
+    },
+    {
+      "id": "07f770f48275994f414e8d41b4421eac",
+      "title": "Vụ khách Tây suýt bị 'chặt chém' chiếc nón lá giá 850.000 đồng: Người bán hàng rong khai gì?",
+      "link": "https://tuoitre.vn/khach-tay-suyt-bi-chat-chem-chiec-non-la-gia-850-000-dong-nguoi-ban-hang-rong-khai-gi-20260112175030248.htm",
+      "summary": "Tại trụ sở công an, bà T. cho rằng định bán cho nữ du khách chiếc nón lá với giá 250.000 đồng. Tuy nhiên hình ảnh từ camera ghi lại cho thấy bà đã chủ động rút 2 tờ 500.000 đồng từ tay khách và chỉ trả lại 150.000 đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.554104+07:00",
+      "fetched": "2026-01-12T19:28:04.554229+07:00"
+    },
+    {
+      "id": "422d4d510f89774394485175bd76cdfa",
+      "title": "Ứng phó thuế quan, doanh nghiệp dệt may Việt Nam chủ động nguồn cung nguyên phụ liệu",
+      "link": "https://tuoitre.vn/ung-pho-thue-quan-doanh-nghiep-det-may-viet-nam-chu-dong-nguon-cung-nguyen-phu-lieu-20260112175152741.htm",
+      "summary": "May Việt Tiến cho biết doanh nghiệp đẩy mạnh việc đầu tư để đáp ứng các tiêu chuẩn ngày càng cao của bạn hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.553972+07:00",
+      "fetched": "2026-01-12T19:28:04.554093+07:00"
+    },
+    {
+      "id": "bbda8da7ebc8e71fb9987a9562d841c2",
+      "title": "83 xã, phường ở TP.HCM bắt đầu được bố trí thêm phó chủ tịch UBND",
+      "link": "https://tuoitre.vn/83-xa-phuong-o-tp-hcm-bat-dau-duoc-bo-tri-them-pho-chu-tich-ubnd-20260112171413015.htm",
+      "summary": "UBND TP.HCM vừa triển khai, hướng dẫn việc thực hiện số lượng cấp phó các cơ quan chuyên môn thuộc UBND TP.HCM và số lượng phó chủ tịch UBND cấp xã theo các kết luận của Bộ Chính trị, Chính phủ và Ban Thường vụ Thành ủy TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.553818+07:00",
+      "fetched": "2026-01-12T19:28:04.553959+07:00"
+    },
+    {
+      "id": "4c8a02b325ab8bd0203940bdf62f5dfa",
+      "title": "Đồng Nai bổ nhiệm chức vụ chỉ huy trưởng 95 phường, xã",
+      "link": "https://tuoitre.vn/dong-nai-bo-nhiem-chuc-vu-chi-huy-truong-95-phuong-xa-20260112173858605.htm",
+      "summary": "Đồng Nai công bố quyết định bổ nhiệm 95 sĩ quan chính quy làm chỉ huy trưởng ban chỉ huy quân sự cấp xã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.553684+07:00",
+      "fetched": "2026-01-12T19:28:04.553806+07:00"
+    },
+    {
+      "id": "ef2d1339509fd7aff491714a63e2737e",
+      "title": "Cựu tướng NATO có nói châu Âu 'sẵn sàng chiến đấu với Mỹ' vì Greenland?",
+      "link": "https://tuoitre.vn/cuu-tuong-nato-co-noi-chau-au-san-sang-chien-dau-voi-my-vi-greenland-20260111110752157.htm",
+      "summary": "Thông tin lan truyền trên mạng xã hội về việc cựu tướng NATO Michel Yakovleff kêu gọi châu Âu “sẵn sàng chiến đấu với Mỹ” nếu ông Donald Trump hành động nhằm vào Greenland. Song sự thật không phải như vậy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.553539+07:00",
+      "fetched": "2026-01-12T19:28:04.553671+07:00"
+    },
+    {
+      "id": "1e58e027b4fbdba0a9538f980feac442",
+      "title": "Vì sao Bệnh viện Ung bướu Cần Thơ tái khởi động nhưng vẫn 'kẹt' thủ tục?",
+      "link": "https://tuoitre.vn/vi-sao-benh-vien-ung-buou-can-tho-tai-khoi-dong-nhung-van-ket-thu-tuc-20260112173504027.htm",
+      "summary": "Thủ tướng yêu cầu khởi động lại dự án Bệnh viện Ung bướu Cần Thơ từ tháng 11-2025 nhưng vì sao đến nay Sở Y tế thành phố vẫn còn đang trong giai đoạn làm thủ tục khởi động bệnh viện này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T19:28:04.553303+07:00",
+      "fetched": "2026-01-12T19:28:04.553523+07:00"
+    },
     {
       "id": "eb021d23c3cf4332ffb5938c70ac3b14",
       "title": "Ba căn nhà một mái ấm",
@@ -453,6 +603,286 @@ window.newsData_2026_01_12 = {
       "fetched": "2026-01-12T13:23:41.316342+07:00"
     },
     {
+      "id": "e6ad460f6c715ea85853b3940f894b89",
+      "title": "Ngân hàng ngoại đầu tiên vào trung tâm tài chính Việt Nam",
+      "link": "https://vnexpress.net/ngan-hang-ngoai-dau-tien-vao-trung-tam-tai-chinh-viet-nam-5004823.html",
+      "summary": "Ngân hàng UOB của Singapore sẽ sớm khởi công Tòa trụ sở UOB trong trung tâm tài chính quốc tế tại TP HCM.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-12T12:20:16+07:00",
+      "fetched": "2026-01-12T19:28:08.417412+07:00"
+    },
+    {
+      "id": "7f41ba38b0c190c7fd0df717ca1a8802",
+      "title": "Điện mừng nhân dịp kỷ niệm 76 năm thiết lập quan hệ ngoại giao Việt Nam - Trung Quốc",
+      "link": "https://thanhnien.vn/dien-mung-nhan-dip-ky-niem-76-nam-thiet-lap-quan-he-ngoai-giao-viet-nam-trung-quoc-185260112185630522.htm",
+      "summary": "Nhân dịp kỷ niệm 76 năm thiết lập quan hệ ngoại giao Việt Nam - Trung Quốc (18.1.1950 - 18.1.2026), Ủy viên Bộ Chính trị, Bí thư T.Ư Đảng, Chủ tịch Ủy ban T.Ư MTTQ Việt Nam Bùi Thị Minh Hoài đã có điện mừng gửi ông Vương Hộ Ninh, Chủ tịch Ủy ban toàn quốc Hội nghị Hiệp thương Chính trị nhân dân Trun...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T12:17:00+07:00",
+      "fetched": "2026-01-12T19:28:03.822551+07:00"
+    },
+    {
+      "id": "3159f041585970c6cf416fda4600444a",
+      "title": "Ấn Độ lại ra yêu cầu lạ với Apple, Samsung",
+      "link": "https://thanhnien.vn/an-do-lai-ra-yeu-cau-la-voi-apple-samsung-185260112162727728.htm",
+      "summary": "Ấn Độ viện lý do an ninh, đề xuất yêu cầu các nhà sản xuất smartphone như Apple, Samsung phải chia sẻ mã nguồn với chính phủ và thực hiện một số thay đổi phần mềm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T12:17:00+07:00",
+      "fetched": "2026-01-12T19:28:03.822730+07:00"
+    },
+    {
+      "id": "de1d20ea5aa078c82876b6b9c426b6d2",
+      "title": "Hội đồng Vàng thế giới: 'Giá vàng không lặp lại đà tăng mạnh như 2025'",
+      "link": "https://thanhnien.vn/hoi-dong-vang-the-gioi-gia-vang-khong-lap-lai-da-tang-manh-nhu-2025-185260112164914134.htm",
+      "summary": "Theo Hội đồng Vàng thế giới, năm 2026, giá vàng có thể không lặp lại đà tăng mạnh như năm 2025, nhưng các động lực củng cố vai trò của vàng vẫn duy trì vững chắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T12:15:00+07:00",
+      "fetched": "2026-01-12T19:28:03.822908+07:00"
+    },
+    {
+      "id": "6c8cc8e9c09c58b665fbb88fc017a889",
+      "title": "Nhật Bản vừa tổn thất một tinh tinh ở mức độ 'thiên tài'",
+      "link": "https://thanhnien.vn/nhat-ban-vua-ton-that-mot-tinh-tinh-o-muc-do-thien-tai-185260112190045422.htm",
+      "summary": "Ai, một con tinh tinh cái được các nhà khoa học công nhận là 'thiên tài' so với đồng loại, đã qua đời tại Nhật Bản ở tuổi 49.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T12:13:00+07:00",
+      "fetched": "2026-01-12T19:28:03.823070+07:00"
+    },
+    {
+      "id": "e8f88946721225311f5cc4af7cf0268e",
+      "title": "Giải thưởng 1 triệu USD tôn vinh sản phẩm, giải pháp AI Việt Nam",
+      "link": "https://thanhnien.vn/giai-thuong-1-trieu-usd-ton-vinh-san-pham-giai-phap-ai-viet-nam-18526011218261588.htm",
+      "summary": "Âu Lạc Grand Prize - giải thưởng công nghệ có giá trị 1 triệu USD chính thức được khởi động nhằm tôn vinh các sản phẩm, giải pháp AI do người Việt phát triển và làm chủ, tạo tác động tích cực, lâu dài cho kinh tế - xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T12:10:00+07:00",
+      "fetched": "2026-01-12T19:28:03.823225+07:00"
+    },
+    {
+      "id": "cd79dd6c78e10236be5b75559db1f661",
+      "title": "Trường đại học Việt Pháp nhận hồ sơ xét tuyển đại học từ 28.1",
+      "link": "https://thanhnien.vn/truong-dai-hoc-viet-phap-nhan-ho-so-xet-tuyen-dai-hoc-tu-281-185260112182601597.htm",
+      "summary": "Trường đại học Việt Pháp dự kiến tuyển 1.200 chỉ tiêu, bắt đầu nhận hồ sơ xét tuyển đại học từ 28.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T12:05:00+07:00",
+      "fetched": "2026-01-12T19:28:03.823376+07:00"
+    },
+    {
+      "id": "cbf3ecf65e577bc2386c86a2d09a652f",
+      "title": "Loạt dự đoán của Elon Musk về tương lai",
+      "link": "https://vnexpress.net/loat-du-doan-cua-elon-musk-ve-tuong-lai-5004782.html",
+      "summary": "Elon Musk cho rằng trí tuệ nhân tạo tổng quát (AGI) có thể xuất hiện năm 2026, robot hình người vượt bác sĩ hàng đầu, hay Trung Quốc sẽ vượt Mỹ về AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-12T12:03:51+07:00",
+      "fetched": "2026-01-12T19:28:11.491967+07:00"
+    },
+    {
+      "id": "75aadb860d912efef70c13e937d0014b",
+      "title": "Bí thư thứ nhất T.Ư Đoàn tiếp Đại sứ Ấn Độ tại Việt Nam",
+      "link": "https://thanhnien.vn/bi-thu-thu-nhat-tu-doan-tiep-dai-su-an-do-tai-viet-nam-185260112181901965.htm",
+      "summary": "Bí thư thứ nhất T.Ư Đoàn Bùi Quang Huy và Đại sứ Ấn Độ tại Việt Nam Tshering W. Sherpa đã đề xuất nhiều chương trình hợp tác và thống nhất phối hợp triển khai ngay trong năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T12:03:00+07:00",
+      "fetched": "2026-01-12T19:28:03.823526+07:00"
+    },
+    {
+      "id": "a93839d16f4f22094639f6059e90ead8",
+      "title": "Giới thiệu Thứ trưởng Bộ Quốc phòng Lê Đức Thái ứng cử ĐBQH khóa XVI",
+      "link": "https://thanhnien.vn/gioi-thieu-thu-truong-bo-quoc-phong-le-duc-thai-ung-cu-dbqh-khoa-xvi-185260112180507863.htm",
+      "summary": "Chiều 12.1, tại Hà Nội, Văn phòng Bộ Quốc phòng tổ chức hội nghị lấy ý kiến cử tri nơi công tác đối với thượng tướng Lê Đức Thái, Thứ trưởng Bộ Quốc phòng - người được giới thiệu ứng cử đại biểu Quốc hội (ĐBQH) khóa XVI, nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T12:02:00+07:00",
+      "fetched": "2026-01-12T19:28:03.823675+07:00"
+    },
+    {
+      "id": "9b94ce0191ddd04db3051e04920e0735",
+      "title": "Tảng băng trôi 40 tuổi chuyển màu xanh khi sắp 'chết'",
+      "link": "https://vnexpress.net/tang-bang-troi-40-tuoi-chuyen-mau-xanh-khi-sap-chet-5004632.html",
+      "summary": "A23a, tảng băng trôi từng rộng 4.000 km2 khi tách khỏi châu Nam Cực năm 1986, chuyển màu xanh lam và đang trên bờ vực tan rã hoàn toàn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-12T12:00:00+07:00",
+      "fetched": "2026-01-12T19:28:11.492151+07:00"
+    },
+    {
+      "id": "a298e97992ed327ce348ecf6247da0d7",
+      "title": "Tuyển sinh ĐH 2026: Bỏ tổ hợp xét tuyển truyền thống tác động gì tới thí sinh?",
+      "link": "https://thanhnien.vn/tuyen-sinh-dh-2026-bo-to-hop-xet-tuyen-truyen-thong-tac-dong-gi-toi-thi-sinh-185260112111454074.htm",
+      "summary": "Năm 2026 nhiều trường đại học (ĐH) có điều chỉnh tổ hợp môn xét tuyển, đáng chú ý là loại bỏ một số tổ hợp môn xét tuyển truyền thống và thay thế bằng các tổ hợp môn mới. Sự điều chỉnh này tác động như thế nào đến thí sinh?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T11:42:00+07:00",
+      "fetched": "2026-01-12T19:28:03.823824+07:00"
+    },
+    {
+      "id": "150c694e3db65f60440d5377f428d864",
+      "title": "Lâm Đồng kiến nghị huy động tối đa sản lượng điện tại Điện lực Vĩnh Tân",
+      "link": "https://thanhnien.vn/lam-dong-kien-nghi-huy-dong-toi-da-san-luong-dien-tai-dien-luc-vinh-tan-185260112164604581.htm",
+      "summary": "Để góp phần phát triển kinh tế - xã hội của địa phương; đảm bảo tăng trưởng GRDP từ 10% trở lên, Lâm Đồng kiến nghị Bộ Công thương cho tăng tối đa sản lượng điện tại Trung tâm Điện lực Vĩnh Tân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T11:24:00+07:00",
+      "fetched": "2026-01-12T19:28:03.824010+07:00"
+    },
+    {
+      "id": "ad367ce01fbe30a4004525c744d4cbf0",
+      "title": "Đề xuất cho doanh nghiệp tự kê khai, tự nộp tiền sử dụng đất",
+      "link": "https://thanhnien.vn/de-xuat-cho-doanh-nghiep-tu-ke-khai-tu-nop-tien-su-dung-dat-185260112173349042.htm",
+      "summary": "Để gỡ vướng cho các dự án bất động sản, đã có kiến nghị để doanh nghiệp tự kê khai, tự nộp nghĩa vụ tài chính, tiền sử dụng đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T11:23:00+07:00",
+      "fetched": "2026-01-12T19:28:03.824171+07:00"
+    },
+    {
+      "id": "9c18b304e886155c5cd1fe05ba35c31e",
+      "title": "May Việt Tiến đặt mục tiêu doanh thu 1 tỉ USD vào năm 2029 - 2030",
+      "link": "https://thanhnien.vn/may-viet-tien-dat-muc-tieu-doanh-thu-1-ti-usd-vao-nam-2029-2030-18526011217111847.htm",
+      "summary": "Tổng công ty CP May Việt Tiến kỷ niệm 50 năm hình thành và phát triển đã đặt ra những mục tiêu mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T11:23:00+07:00",
+      "fetched": "2026-01-12T19:28:03.824319+07:00"
+    },
+    {
+      "id": "e8c466afbdde31211dc2cc3f87ad752d",
+      "title": "TP.HCM sắp có sân vận động 65.000 - 75.000 chỗ ngồi",
+      "link": "https://thanhnien.vn/tphcm-sap-co-san-van-dong-65000-75000-cho-ngoi-185260112180805644.htm",
+      "summary": "Ngày 12.1, UBND phường Bình Trưng, TP.HCM tổ chức hội nghị công bố quy hoạch 1/500 khu liên hợp thể dục thể thao Rạch Chiếc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T11:22:00+07:00",
+      "fetched": "2026-01-12T19:28:03.824470+07:00"
+    },
+    {
+      "id": "9eb92ba3f9968277621b1e02f58b68e7",
+      "title": "83 phường, xã ở TP.HCM tăng phó chủ tịch UBND từ nguồn tại chỗ",
+      "link": "https://thanhnien.vn/83-phuong-xa-o-tphcm-tang-pho-chu-tich-ubnd-tu-nguon-tai-cho-185260112175211044.htm",
+      "summary": "TP.HCM yêu cầu bổ sung phó chủ tịch UBND từ nguồn tại chỗ cho 83 xã, phường đông dân, diện tích rộng, địa bàn trọng điểm, phức tạp về an ninh trật tự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T11:22:00+07:00",
+      "fetched": "2026-01-12T19:28:03.824623+07:00"
+    },
+    {
+      "id": "2716beb65b087de8db7ed5f9588eedd5",
+      "title": "Yêu cầu triệu hồi sản phẩm không đảm bảo vụ Đồ hộp Hạ Long",
+      "link": "https://vnexpress.net/yeu-cau-trieu-hoi-san-pham-khong-dam-bao-vu-do-hop-ha-long-5004812.html",
+      "summary": "Cơ quan quản lý của Bộ Nông nghiệp và Môi trường đề nghị Hải Phòng báo cáo và triệu hồi sản phẩm vụ thịt bẩn của Công ty Đồ hộp Hạ Long.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T11:21:58+07:00",
+      "fetched": "2026-01-12T19:28:00.740902+07:00"
+    },
+    {
+      "id": "3b487f12ca213dad55cc95173a94872e",
+      "title": "Yêu cầu 'triệu hồi các lô hàng không đảm bảo an toàn' vụ Đồ hộp Hạ Long",
+      "link": "https://vnexpress.net/yeu-cau-trieu-hoi-cac-lo-hang-khong-dam-bao-an-toan-vu-do-hop-ha-long-5004812.html",
+      "summary": "Cơ quan quản lý của Bộ Nông nghiệp và Môi trường đề nghị Hải Phòng báo cáo, truy xuất và triệu hồi các lô sản phẩm vụ thịt bẩn của Công ty Đồ hộp Hạ Long.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-12T11:21:58+07:00",
+      "fetched": "2026-01-12T19:28:08.417588+07:00"
+    },
+    {
+      "id": "f8ece8b42fd47d7475c233bd40c094bb",
+      "title": "Chuyển đổi đơn vị chuẩn bị Dự án đường sắt tốc độ cao Bắc Nam",
+      "link": "https://vnexpress.net/chuyen-doi-don-vi-chuan-bi-du-an-duong-sat-toc-do-cao-bac-nam-5004815.html",
+      "summary": "Ban quản lý dự án Thăng Long (Bộ Xây dựng) được giao nhiệm vụ chủ đầu tư lập Báo cáo nghiên cứu khả thi Dự án đường sắt tốc độ cao Bắc Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T11:20:51+07:00",
+      "fetched": "2026-01-12T19:28:00.741091+07:00"
+    },
+    {
+      "id": "ce472a211a2dbf3f1f15104c3a01a4a5",
+      "title": "Ông Trump 'không biết gì' về việc Chủ tịch Fed bị điều tra",
+      "link": "https://vnexpress.net/ong-trump-khong-biet-gi-ve-viec-chu-tich-fed-bi-dieu-tra-5004808.html",
+      "summary": "Tổng thống Trump nói ông không biết trước thông tin Bộ Tư pháp Mỹ điều tra Chủ tịch Fed, khẳng định không gây áp lực với lãnh đạo cơ quan này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T11:20:50+07:00",
+      "fetched": "2026-01-12T19:28:00.741257+07:00"
+    },
+    {
+      "id": "ce472a211a2dbf3f1f15104c3a01a4a5",
+      "title": "Ông Trump 'không biết gì' về việc Chủ tịch Fed bị điều tra",
+      "link": "https://vnexpress.net/ong-trump-khong-biet-gi-ve-viec-chu-tich-fed-bi-dieu-tra-5004808.html",
+      "summary": "Tổng thống Trump nói ông không biết trước thông tin Bộ Tư pháp Mỹ điều tra Chủ tịch Fed, khẳng định không gây áp lực với lãnh đạo cơ quan này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-12T11:20:50+07:00",
+      "fetched": "2026-01-12T19:28:06.319507+07:00"
+    },
+    {
+      "id": "5eae292809cd6ab3d42893704e821be5",
+      "title": "Sao Real bẽ mặt khi trút giận vào chai nước",
+      "link": "https://vnexpress.net/sao-real-be-mat-khi-trut-gian-vao-chai-nuoc-5004798.html",
+      "summary": "Arda Guler trượt chân, ngã ngửa khi sút vào chai nước sau trận Real thua Barca 2-3 ở chung kết Siêu Cup Tây Ban Nha ngày 11/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T11:19:22+07:00",
+      "fetched": "2026-01-12T19:28:00.741423+07:00"
+    },
+    {
+      "id": "5eae292809cd6ab3d42893704e821be5",
+      "title": "Sao Real bẽ mặt khi trút giận vào chai nước",
+      "link": "https://vnexpress.net/sao-real-be-mat-khi-trut-gian-vao-chai-nuoc-5004798.html",
+      "summary": "Arda Guler trượt chân, ngã ngửa khi sút vào chai nước sau trận Real thua Barca 2-3 ở chung kết Siêu Cup Tây Ban Nha ngày 11/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-12T11:19:22+07:00",
+      "fetched": "2026-01-12T19:28:13.283027+07:00"
+    },
+    {
+      "id": "c9b9a182f0506eaf3b4482b35e63f0cd",
+      "title": "Bắt đầu đăng ký tài khoản dự thi đánh giá năng lực chuyên biệt năm 2026",
+      "link": "https://thanhnien.vn/bat-dau-dang-ky-tai-khoan-du-thi-danh-gia-nang-luc-chuyen-biet-nam-2026-185260112175743792.htm",
+      "summary": "Năm 2026, nhiều cơ sở giáo dục đại học (ĐH) tổ chức kỳ thi đánh giá năng lực phục vụ tuyển sinh. Trong đó, một kỳ thi đã mở cổng cho thí sinh đăng ký tài khoản dự thi đợt 1 năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T11:16:00+07:00",
+      "fetched": "2026-01-12T19:28:03.824779+07:00"
+    },
+    {
+      "id": "0ba24e53eb0481709e01fd078a34f993",
+      "title": "Tài khoản của Bruno Fernandes bị hack",
+      "link": "https://vnexpress.net/tai-khoan-cua-bruno-fernandes-bi-hack-5004792.html",
+      "summary": "Tiền vệ Bruno Fernandes trở thành nạn nhân của vụ tấn công mạng trên nền tảng X, khi hàng loạt bài đăng kỳ lạ, phản cảm và nhắm vào giới chủ đội bóng bất ngờ xuất hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T11:14:32+07:00",
+      "fetched": "2026-01-12T19:28:00.741588+07:00"
+    },
+    {
+      "id": "0ba24e53eb0481709e01fd078a34f993",
+      "title": "Tài khoản của Bruno Fernandes bị hack",
+      "link": "https://vnexpress.net/tai-khoan-cua-bruno-fernandes-bi-hack-5004792.html",
+      "summary": "Tiền vệ Bruno Fernandes trở thành nạn nhân của vụ tấn công mạng trên nền tảng X, khi hàng loạt bài đăng kỳ lạ, phản cảm và nhắm vào giới chủ đội bóng bất ngờ xuất hiện.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-12T11:14:32+07:00",
+      "fetched": "2026-01-12T19:28:13.283186+07:00"
+    },
+    {
+      "id": "53ba6575a6c6d2c6d4b04349f5f7376e",
+      "title": "Kết nối biển - cao nguyên mở không gian phát triển cho phía Đông Đăk Lăk",
+      "link": "https://vnexpress.net/ket-noi-bien-cao-nguyen-mo-khong-gian-phat-trien-cho-phia-dong-dak-lak-5004723.html",
+      "summary": "Hành lang biển - cao nguyên, kết hợp động lực công nghiệp và logistics vùng góp phần mở nền tảng tăng trưởng mới cho bất động sản phía Đông Đăk Lăk.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T11:00:00+07:00",
+      "fetched": "2026-01-12T19:28:00.741753+07:00"
+    },
+    {
       "id": "b9c5edda8d1474608421a77e6d28cb28",
       "title": "Nhà 31m² nhưng không được đăng ký thường trú cho 4 người, có đúng không?",
       "link": "https://tuoitre.vn/nha-31m2-nhung-khong-duoc-dang-ky-thuong-tru-cho-4-nguoi-co-dung-khong-20260108105123535.htm",
@@ -603,6 +1033,46 @@ window.newsData_2026_01_12 = {
       "fetched": "2026-01-12T10:41:27.019382+07:00"
     },
     {
+      "id": "4d379c457f0874108edb9d4273108c19",
+      "title": "Người ủng hộ ông Trump bất đồng về vụ ICE bắn chết người",
+      "link": "https://vnexpress.net/nguoi-ung-ho-ong-trump-bat-dong-ve-vu-ice-ban-chet-nguoi-5004635.html",
+      "summary": "Nhiều người ủng hộ ông Trump cho rằng đặc vụ ICE bắn chết người ở Minnesota là \"tự vệ chính đáng\", trong khi số khác nói chính sách cứng rắn của Tổng thống \"đi quá xa\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T10:37:34+07:00",
+      "fetched": "2026-01-12T19:28:00.741928+07:00"
+    },
+    {
+      "id": "4d379c457f0874108edb9d4273108c19",
+      "title": "Người ủng hộ ông Trump bất đồng về vụ ICE bắn chết người",
+      "link": "https://vnexpress.net/nguoi-ung-ho-ong-trump-bat-dong-ve-vu-ice-ban-chet-nguoi-5004635.html",
+      "summary": "Nhiều người ủng hộ ông Trump cho rằng đặc vụ ICE bắn chết người ở Minnesota là \"tự vệ chính đáng\", trong khi số khác nói chính sách cứng rắn của Tổng thống \"đi quá xa\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-12T10:37:34+07:00",
+      "fetched": "2026-01-12T19:28:06.319687+07:00"
+    },
+    {
+      "id": "c062877c9796a75ac8983cd853286d29",
+      "title": "Bị phạt vì bình luận sai sự thật trên Facebook của Lê Trung Khoa",
+      "link": "https://vnexpress.net/bi-phat-vi-binh-luan-sai-su-that-tren-facebook-cua-le-trung-khoa-5004797.html",
+      "summary": "Bình luận sai sự thật, xuyên tạc theo một bài viết trên Fanpage do Lê Trung Khoa tạo lập, người đàn ông bị phạt hành chính 7,5 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T10:31:17+07:00",
+      "fetched": "2026-01-12T19:28:00.742089+07:00"
+    },
+    {
+      "id": "bbe541938bfb234c0e6794bbe1b63f6d",
+      "title": "Điểm tin 17h: 5 dự án cao tốc Bắc Nam bắt đầu thu phí từ cuối tháng 2 | Loạt cổ phiếu ngân hàng, chứng khoán tăng trần",
+      "link": "https://vnexpress.net/diem-tin-17h-5-du-an-cao-toc-bac-nam-bat-dau-thu-phi-tu-cuoi-thang-2-loat-co-phieu-ngan-hang-chung-khoan-tang-tran-5004793.html",
+      "summary": "Cấm xe tải từ 10 tấn, xe khách 45 chỗ vào trung tâm Hà Nội dịp Đại hội Đảng; Chủ lò sản xuất 800 tấn mì tươi trộn hàn the ở TP HCM bị bắt...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T10:14:36+07:00",
+      "fetched": "2026-01-12T19:28:00.742242+07:00"
+    },
+    {
       "id": "2c61de4425de24109ad882f7a59d2e0a",
       "title": "CEO Đình Triển và Core Media xây dựng thương hiệu dịch vụ mạng xã hội uy tín",
       "link": "https://thanhnien.vn/ceo-dinh-trien-va-core-media-xay-dung-thuong-hieu-dich-vu-mang-xa-hoi-uy-tin-185260112171158875.htm",
@@ -671,6 +1141,56 @@ window.newsData_2026_01_12 = {
       "category": "Tổng hợp",
       "published": "2026-01-12T10:00:00+07:00",
       "fetched": "2026-01-12T17:16:46.010478+07:00"
+    },
+    {
+      "id": "4f14370873cf5ce97c438ab88fa50e5a",
+      "title": "PVCFC đạt doanh thu hơn 17.300 tỷ năm 2025",
+      "link": "https://vnexpress.net/pvcfc-dat-doanh-thu-hon-17-300-ty-nam-2025-5004785.html",
+      "summary": "PVCFC ghi nhận doanh thu hợp nhất 2025 đạt 17.367 tỷ đồng, tăng 24% so với năm 2024, nhờ chuyển dịch cơ cấu sản phẩm như tăng sản lượng NPK, mở rộng hệ sinh thái tự doanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T10:00:00+07:00",
+      "fetched": "2026-01-12T19:28:00.742399+07:00"
+    },
+    {
+      "id": "9c2132d95a3d28b2f6b945a9ba799081",
+      "title": "Kim Oanh Group đạt giải Nhất thiết kế nhà xã hội theo hướng bền vững",
+      "link": "https://vnexpress.net/kim-oanh-group-dat-giai-nhat-thiet-ke-nha-xa-hoi-theo-huong-ben-vung-5004775.html",
+      "summary": "Kim Oanh phát triển thương hiệu K-Home theo chuẩn Singapore, mục tiêu đáp ứng yêu cầu công trình xanh EDGE, giành giải Nhất cuộc thi Ý tưởng thiết kế mẫu nhà ở xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T10:00:00+07:00",
+      "fetched": "2026-01-12T19:28:00.742554+07:00"
+    },
+    {
+      "id": "c8b246cb02de79773e8633a60794ca36",
+      "title": "Người lớn bị chân vòng kiềng có chữa được không?",
+      "link": "https://vnexpress.net/nguoi-lon-bi-chan-vong-kieng-co-chua-duoc-khong-5004742.html",
+      "summary": "Tôi 29 tuổi, chân vòng kiềng nhiều năm thì điều trị được không, để lâu có gây biến chứng nguy hiểm? (Nga Nguyễn, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T10:00:00+07:00",
+      "fetched": "2026-01-12T19:28:00.742708+07:00"
+    },
+    {
+      "id": "68e5ca10b38d75b1c9180d8ada151126",
+      "title": "Mẹo đơn giản giúp trẻ nhớ điều đã học",
+      "link": "https://vnexpress.net/meo-don-gian-giup-tre-nho-dieu-da-hoc-5004738.html",
+      "summary": "Liên hệ bài học với kinh nghiệm thực tế, khuyến khích trẻ ghi chép và ôn tập sẽ tăng khả năng ghi nhớ, nâng cao kết quả học tập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T10:00:00+07:00",
+      "fetched": "2026-01-12T19:28:00.742860+07:00"
+    },
+    {
+      "id": "b377332fe6e23fa481473515273964ed",
+      "title": "Cách giảm viêm tai giữa không cần thuốc",
+      "link": "https://vnexpress.net/cach-giam-viem-tai-giua-khong-can-thuoc-5004691.html",
+      "summary": "Chườm nóng hoặc lạnh, kê gối cao khi ngủ, uống đủ nước và súc miệng bằng nước muối giúp giảm đau tai, khó chịu do viêm tai giữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T10:00:00+07:00",
+      "fetched": "2026-01-12T19:28:00.743064+07:00"
     },
     {
       "id": "c38ff53dc60ef61fe35dc9aa46ce93b0",
