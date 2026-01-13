@@ -1,7 +1,17 @@
 window.newsData_2026_01_13 = {
   "date": "2026-01-13",
-  "lastUpdated": "2026-01-13T10:21:15.398780+07:00",
+  "lastUpdated": "2026-01-13T11:32:22.503645+07:00",
   "articles": [
+    {
+      "id": "39f180b2b285db1e6c29a1e6c6a8cbd0",
+      "title": "Giới thiệu Bí thư Hà Nội Nguyễn Duy Ngọc ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://tuoitre.vn/gioi-thieu-bi-thu-ha-noi-nguyen-duy-ngoc-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-20260113085743644.htm",
+      "summary": "Cử tri cơ quan Thành ủy đã thống nhất giới thiệu Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc ứng cử đại biểu Quốc hội khóa XVI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:32:14.228199+07:00",
+      "fetched": "2026-01-13T11:32:14.228315+07:00"
+    },
     {
       "id": "35e1ee1b26b346dabe11b0eac1fc6409",
       "title": "Tổng thống Moldova muốn sáp nhập nước mình vào Romania",
@@ -321,6 +331,346 @@ window.newsData_2026_01_13 = {
       "category": "Tổng hợp",
       "published": "2026-01-13T05:12:15.287683+07:00",
       "fetched": "2026-01-13T05:12:15.287912+07:00"
+    },
+    {
+      "id": "2f8e896964909317b3aa324d3273100c",
+      "title": "Phòng khám Sài Gòn Tâm Đức xin giảm chuyên khoa để 'bảo đảm chất lượng'",
+      "link": "https://thanhnien.vn/phong-kham-sai-gon-tam-duc-xin-giam-chuyen-khoa-de-bao-dam-chat-luong-185260113074941543.htm",
+      "summary": "Phòng khám Sài Gòn Tâm Đức (Cà Mau) xin giảm hai chuyên khoa tai mũi họng và da liễu nhằm 'bảo đảm chất lượng khám chữa bệnh và góp phần chăm sóc, bảo vệ, nâng cao sức khỏe nhân dân'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:26:00+07:00",
+      "fetched": "2026-01-13T11:32:13.177682+07:00"
+    },
+    {
+      "id": "9ab4d09233f0abeea26ba99ff134d021",
+      "title": "Nghị quyết của Bộ Chính trị về phát triển văn hóa Việt Nam",
+      "link": "https://thanhnien.vn/nghi-quyet-cua-bo-chinh-tri-ve-phat-trien-van-hoa-viet-nam-185260113111150294.htm",
+      "summary": "Ngày 7.1, thay mặt Bộ Chính trị, Tổng Bí thư Tô Lâm đã ký ban hành Nghị quyết số 80-NQ/TW của Bộ Chính trị về phát triển văn hóa Việt Nam. Báo Thanh Niên xin trân trọng giới thiệu toàn văn Nghị quyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:25:00+07:00",
+      "fetched": "2026-01-13T11:32:13.177854+07:00"
+    },
+    {
+      "id": "ecc0225a1d183ed4dab001c7aab90b3d",
+      "title": "Cảnh báo 3 trình duyệt di động âm thầm 'móc túi' dữ liệu người dùng",
+      "link": "https://thanhnien.vn/canh-bao-3-trinh-duyet-di-dong-am-tham-moc-tui-du-lieu-nguoi-dung-185260113102116505.htm",
+      "summary": "Danh sách những trình duyệt di động đang xâm phạm quyền riêng tư người dùng nhiều nhất hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:23:00+07:00",
+      "fetched": "2026-01-13T11:32:13.178014+07:00"
+    },
+    {
+      "id": "d0be52376ea07fd3741892e1cd838b08",
+      "title": "Chủ tịch Ủy ban T.Ư MTTQ Việt Nam được giới thiệu ứng cử đại biểu Quốc hội",
+      "link": "https://thanhnien.vn/chu-tich-uy-ban-tu-mttq-viet-nam-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-185260113105143148.htm",
+      "summary": "Cơ quan Ủy ban T.Ư MTTQ Việt Nam thống nhất giới thiệu 5 nhân sự của Cơ quan Ủy ban T.Ư MTTQ Việt Nam và Cơ quan Đảng ủy MTTQ Việt Nam và các đoàn thể T.Ư ứng cử đại biểu quốc hội khóa XVI. Trong đó, có bà Bùi Thị Minh Hoài, Ủy viên Bộ Chính trị, Bí thư T.Ư Đảng, Bí thư Đảng ủy MTTQ, các đoàn thể T....",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:16:00+07:00",
+      "fetched": "2026-01-13T11:32:13.178172+07:00"
+    },
+    {
+      "id": "fb1033657c4656c380982419a5bdb5f4",
+      "title": "Lisa bị chê mặc xấu ở Quả Cầu Vàng",
+      "link": "https://vnexpress.net/lisa-bi-che-mac-xau-o-qua-cau-vang-5005030.html",
+      "summary": "Truyền thông, khán giả quốc tế nhận xét ca sĩ Lisa nhóm Blackpink mặc không phù hợp khi tới Quả Cầu Vàng 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:15:33+07:00",
+      "fetched": "2026-01-13T11:32:09.801751+07:00"
+    },
+    {
+      "id": "bc34992aa8a5114d9ef3ff2710aafd62",
+      "title": "Bác sĩ Nhật Bản cảnh báo rủi ro khi dùng thuốc trị tiểu đường để giảm cân",
+      "link": "https://thanhnien.vn/bac-si-nhat-ban-canh-bao-rui-ro-khi-dung-thuoc-tri-tieu-duong-de-giam-can-185260113101936724.htm",
+      "summary": "Nhật Bản đang ghi nhận sự gia tăng số lượng sử dụng thuốc Mounjaro, loại dược phẩm điều trị tiểu đường, để giảm cân thẩm mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:14:00+07:00",
+      "fetched": "2026-01-13T11:32:13.178327+07:00"
+    },
+    {
+      "id": "c672c5dd4db498651b77a18bb89fe2e6",
+      "title": "Ukraine điều tổ hợp Patriot đến Kharkov để đối phó Iskander-M",
+      "link": "https://vnexpress.net/ukraine-dieu-to-hop-patriot-den-kharkov-de-doi-pho-iskander-m-5004977.html",
+      "summary": "Mảnh tên lửa PAC-3 MSE rơi xuống thành phố Kharkov, cho thấy Ukraine đang triển khai tổ hợp Patriot ở khu vực để đối phó đòn tập kích của Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:11:37+07:00",
+      "fetched": "2026-01-13T11:32:09.801937+07:00"
+    },
+    {
+      "id": "b16b0c0e1ddc4bee8f98755df98e8936",
+      "title": "Năm 2026 có thể ít bão nhưng thiên tai khó dự báo hơn",
+      "link": "https://vnexpress.net/nam-2026-co-the-it-bao-nhung-thien-tai-kho-du-bao-hon-5005001.html",
+      "summary": "2026 được dự báo là năm chuyển pha ENSO từ lạnh qua trung tính rồi sang nóng nên số lượng bão có thể ít hơn, nhưng khó dự báo hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:11:14+07:00",
+      "fetched": "2026-01-13T11:32:09.802102+07:00"
+    },
+    {
+      "id": "20c4e05358abfd820c8deac8a97897c0",
+      "title": "Sáng nào cũng 1 ổ bánh mì: Khoa học phát hiện tin vui bất ngờ",
+      "link": "https://thanhnien.vn/sang-nao-cung-1-o-banh-mi-khoa-hoc-phat-hien-tin-vui-bat-ngo-185260113111130201.htm",
+      "summary": "Trong bối cảnh xu hướng tiêu thụ ngũ cốc nguyên hạt được khuyến khích, thì bánh mì trắng lại bị gắn mác 'không lành mạnh'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:11:00+07:00",
+      "fetched": "2026-01-13T11:32:13.178504+07:00"
+    },
+    {
+      "id": "bc7138bff17365be8231adda0c86d863",
+      "title": "Quân đội huy động 121 phương tiện đưa đón đại biểu dự Đại hội 14",
+      "link": "https://vnexpress.net/quan-doi-huy-dong-121-phuong-tien-dua-don-dai-bieu-du-dai-hoi-14-5005037.html",
+      "summary": "Cục Xe máy - Vận tải phối hợp các lực lượng điều động 286 cán bộ, lái xe và 121 phương tiện để tập huấn, chuẩn bị thực hiện nhiệm vụ đưa đón đại biểu dự Đại hội Đảng 14.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:09:33+07:00",
+      "fetched": "2026-01-13T11:32:09.802262+07:00"
+    },
+    {
+      "id": "60def33f4e1cba6ed33067cfdec7a2a1",
+      "title": "3 người được hồi sinh từ tạng hiến của nữ điều dưỡng ở Hà Nội",
+      "link": "https://thanhnien.vn/3-nguoi-duoc-hoi-sinh-tu-tang-hien-cua-nu-dieu-duong-o-ha-noi-185260113103633568.htm",
+      "summary": "Nữ điều dưỡng 46 tuổi, Hà Nội, được chẩn đoán chết não do đột quỵ. Dù các bác sĩ can thiệp ngay lập tức nhưng tình trạng bệnh nhân không cải thiện, tình trạng xấu đi. Gia đình chị đã đồng ý hiến tạng để hồi sinh nhiều sự sống khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:08:00+07:00",
+      "fetched": "2026-01-13T11:32:13.178665+07:00"
+    },
+    {
+      "id": "21c987705a43d3b143ea5ffc60552cf0",
+      "title": "Hé lộ phòng thay đồ U.23 Việt Nam sau trận thắng Ả Rập Xê Út, Chủ tịch VFF hỏi... thẻ phạt",
+      "link": "https://thanhnien.vn/he-lo-phong-thay-do-u23-viet-nam-sau-tran-thang-a-rap-xe-ut-chu-tich-vff-hoi-the-phat-185260113110237039.htm",
+      "summary": "Ngay sau chiến thắng 1-0 trước Ả Rập Xê Út ở lượt trận cuối bảng A VCK U.23 châu Á 2026, không khí trong phòng thay đồ U.23 Việt Nam ngập tràn niềm vui và sự tự hào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:05:00+07:00",
+      "fetched": "2026-01-13T11:32:13.178816+07:00"
+    },
+    {
+      "id": "c7755a02f4082799bdfa774fa9e4cf77",
+      "title": "TP HCM cần xây nhà xã hội nhiều nhất cả nước",
+      "link": "https://vnexpress.net/tp-hcm-can-xay-nha-xa-hoi-nhieu-nhat-ca-nuoc-5005031.html",
+      "summary": "Từ nay đến 2030, Thủ tướng giao TP HCM phát triển 181.257 căn nhà ở xã hội, mức cao nhất cả nước và gấp 4 lần trước sáp nhập với Bình Dương, Bà Rịa - Vũng Tàu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:04:59+07:00",
+      "fetched": "2026-01-13T11:32:09.802420+07:00"
+    },
+    {
+      "id": "db041251f273ea85fc2bb7afe26ba571",
+      "title": "Chỉ số Niềm tin kinh doanh tại Việt Nam lên cao nhất 7 năm qua",
+      "link": "https://thanhnien.vn/chi-so-niem-tin-kinh-doanh-tai-viet-nam-len-cao-nhat-7-nam-qua-18526011310574112.htm",
+      "summary": "Ngày 13.1, EuroCham công bố Chỉ số Niềm tin kinh doanh quý 4/2025 đạt mức cao nhất trong 7 năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:03:00+07:00",
+      "fetched": "2026-01-13T11:32:13.178966+07:00"
+    },
+    {
+      "id": "05303a6fd2f268662fcb826d91c8d825",
+      "title": "10 ô tô điện qua sử dụng được ưa chuộng nhất năm 2025: Xe Mỹ áp đảo",
+      "link": "https://thanhnien.vn/10-o-to-dien-qua-su-dung-duoc-ua-chuong-nhat-nam-2025-xe-my-ap-dao-185260113105144349.htm",
+      "summary": "Phần lớn khách hàng mua ô tô điện qua sử dụng tại Mỹ trong năm 2025 thường ưa chuộng các mẫu xe Mỹ thuộc các thương hiệu như Tesla, Chevrolet… theo kết quả khảo sát vừa được iSeeCars công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:03:00+07:00",
+      "fetched": "2026-01-13T11:32:13.179123+07:00"
+    },
+    {
+      "id": "ed2a60c74ca4b67572567945e5b4bbb9",
+      "title": "Xem nhanh 12h: Bị bắt vì 'ẵm' 500 triệu người khác chuyển nhầm | TP.HCM bán đấu giá hơn 24.000 xe vi phạm",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-bi-bat-vi-am-500-trieu-nguoi-khac-chuyen-nham-tphcm-ban-dau-gia-hon-24000-xe-vi-pham-185260113110216244.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Xem nhanh 12h' ngày 13.1.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:02:00+07:00",
+      "fetched": "2026-01-13T11:32:13.179280+07:00"
+    },
+    {
+      "id": "485f4b02c4b9bb9d950a8267f9d93fd6",
+      "title": "Rẽ phải ở làn đi thẳng khi đèn đỏ vi phạm lỗi gì?",
+      "link": "https://vnexpress.net/re-phai-o-lan-di-thang-khi-den-do-vi-pham-loi-gi-5005016.html",
+      "summary": "Ngã tư cho phép rẽ phải khi đèn đỏ, nhưng tôi rẽ từ làn đi thẳng có phạm lỗi vượt đèn đỏ hay lỗi không tuân thủ vạch kẻ đường. (Nguyễn Thắng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:01:44+07:00",
+      "fetched": "2026-01-13T11:32:09.802615+07:00"
+    },
+    {
+      "id": "13fc3b040066edaaccde725cfe7d786f",
+      "title": "Những tình huống oái oăm phải tiêm ngừa dại",
+      "link": "https://vnexpress.net/nhung-tinh-huong-oai-oam-phai-tiem-ngua-dai-5005027.html",
+      "summary": "Anh Tuấn, phường Tân Định, TP HCM bối rối khi vợ yêu cầu đi tiêm ngừa dại sau khi rửa tay bị thương chảy máu bằng cục xà bông chuột gặm dở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:00:00+07:00",
+      "fetched": "2026-01-13T11:32:09.802776+07:00"
+    },
+    {
+      "id": "ab62d2824d1a1da88ef75843ccc94c5e",
+      "title": "Chiếc phôi duy nhất mang lại hạnh phúc cho vợ chồng hiếm muộn",
+      "link": "https://vnexpress.net/chiec-phoi-duy-nhat-mang-lai-hanh-phuc-cho-vo-chong-hiem-muon-5005022.html",
+      "summary": "Chị Hoài vô sinh 4 năm, chuyển phôi 5 lần liên tiếp thất bại, cuối cùng có con ở tuổi 41 nhờ phôi duy nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:00:00+07:00",
+      "fetched": "2026-01-13T11:32:09.802932+07:00"
+    },
+    {
+      "id": "d3692b449da9a07dc9966c53bdd76477",
+      "title": "Du lịch tiện lợi với ứng dụng đặt xe trực tuyến redBus",
+      "link": "https://vnexpress.net/du-lich-tien-loi-voi-ung-dung-dat-xe-truc-tuyen-redbus-5002469.html",
+      "summary": "Nền tảng này giúp du khách du lịch miền Nam đặt vé thuận tiện với nhiều nhà xe và dễ dàng thanh toán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:00:00+07:00",
+      "fetched": "2026-01-13T11:32:09.803095+07:00"
+    },
+    {
+      "id": "d73603137631aec0a2ecde5b311fe917",
+      "title": "Vì sao Sinh viên thế hệ mới là chương trình giáo dục trọng điểm trên VTV3?",
+      "link": "https://thanhnien.vn/vi-sao-sinh-vien-the-he-moi-la-chuong-trinh-giao-duc-trong-diem-tren-vtv3-185260113103644992.htm",
+      "summary": "Đêm chung kết Sinh viên thế hệ mới 2025 (SVTHM 2025) đã khép lại với danh hiệu Quán quân được trao cho đội sinh viên đến từ Trường Quản trị và Kinh doanh Hà Nội (HSB), với tổng điểm ấn tượng 135 điểm. Bên cạnh đó, chương trình cũng ghi nhận cột mốc ấn tượng khi sinh viên gọi vốn dự án thành công gần...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:00:00+07:00",
+      "fetched": "2026-01-13T11:32:13.179442+07:00"
+    },
+    {
+      "id": "1978ad4acfc6e7aeac52daed35140692",
+      "title": "Lệ Quyên gây tranh cãi: Ranh giới ứng xử của nghệ sĩ trên mạng xã hội",
+      "link": "https://thanhnien.vn/le-quyen-gay-tranh-cai-ranh-gioi-ung-xu-cua-nghe-si-tren-mang-xa-hoi-185260113100400411.htm",
+      "summary": "Ca sĩ Lệ Quyên đang gây tranh cãi vì câu chuyện phát ngôn trên mạng xã hội. Việc nữ ca sĩ dùng những từ ngữ nặng nề khi đáp trả bình luận khán giả đã gây phản ứng mạnh và đặt ra vấn đề về ranh giới ứng xử của nghệ sĩ trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:00:00+07:00",
+      "fetched": "2026-01-13T11:32:13.179618+07:00"
+    },
+    {
+      "id": "b8b84ac79b262421b77deb18301e8480",
+      "title": "Thanh Thúy chinh phục đỉnh cao",
+      "link": "https://thanhnien.vn/thanh-thuy-chinh-phuc-dinh-cao-185260112211832708.htm",
+      "summary": "Ngoài việc khoác áo CLB Gunma Green Wings tranh tài ở giải bóng chuyền Nhật Bản, Trần Thị Thanh Thúy còn cùng đội tuyển bóng chuyền nữ VN chinh phục nhiều giải quốc tế trong năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T03:59:00+07:00",
+      "fetched": "2026-01-13T11:32:13.179769+07:00"
+    },
+    {
+      "id": "c2b47a699e780bb70a3b212a66ccf915",
+      "title": "27 năm đi bộ vòng quanh thế giới",
+      "link": "https://vnexpress.net/27-nam-di-bo-vong-quanh-the-gioi-5004687.html",
+      "summary": "Rời nhà với 500 USD và lời thề không quay lại nếu chưa đi hết vòng trái đất, Karl Bushby đã dành 27 năm để đi bộ 58.000 km qua 25 quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T03:57:15+07:00",
+      "fetched": "2026-01-13T11:32:09.803257+07:00"
+    },
+    {
+      "id": "fbdf85e4a5123c484fcdd2b4904e82ad",
+      "title": "Cầu thủ Jordan nhảy múa ăn mừng, cảm ơn Việt Nam",
+      "link": "https://vnexpress.net/cau-thu-jordan-nhay-mua-an-mung-cam-on-viet-nam-5005004.html",
+      "summary": "Các cầu thủ Jordan hát hò, nhảy nhót ăn mừng từ sân về khách sạn, đập tay HLV Kim Sang-sik cảm ơn vì Việt Nam thắng Arab Saudi, giúp họ vào tứ kết U23 châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T03:54:05+07:00",
+      "fetched": "2026-01-13T11:32:09.803412+07:00"
+    },
+    {
+      "id": "3b9f839346babdf749e84a85f4477494",
+      "title": "Ứng dụng Mobile Banking tự động thoát hoặc dừng hoạt động khi có 3 dấu hiệu sau",
+      "link": "https://thanhnien.vn/ung-dung-mobile-banking-tu-dong-thoat-hoac-dung-hoat-dong-khi-co-3-dau-hieu-sau-185260112183026604.htm",
+      "summary": "Đây là một trong những nội dung được bổ sung tại Thông tư số 77/2025 của Ngân hàng Nhà nước (NHNN) sửa đổi, bổ sung một số điều của Thông tư 50/2024 quy định về an toàn, bảo mật cho việc cung cấp dịch vụ trực tuyến trong ngành ngân hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T03:50:00+07:00",
+      "fetched": "2026-01-13T11:32:13.179920+07:00"
+    },
+    {
+      "id": "855cadc98df0fd47cf765328e9ffccf6",
+      "title": "Em sẵn sàng đổi cuộc sống tự do, nếu gặp đúng người",
+      "link": "https://vnexpress.net/em-san-sang-doi-cuoc-song-tu-do-neu-gap-dung-nguoi-5004963.html",
+      "summary": "Em là người phụ nữ đang cố gắng mỗi ngày để cuộc sống của mình trở nên hạnh phúc và trọn vẹn hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T03:42:50+07:00",
+      "fetched": "2026-01-13T11:32:09.803532+07:00"
+    },
+    {
+      "id": "cabeb9e4adfb7986049633affe16ee48",
+      "title": "Em coi trọng sự chung thủy trong tình yêu và hôn nhân",
+      "link": "https://vnexpress.net/em-coi-trong-su-chung-thuy-trong-tinh-yeu-va-hon-nhan-5004954.html",
+      "summary": "Tình cờ em biết đến chuyên mục Hẹn hò này và có cảm giác có thể gặp anh ở đây nên em mạnh dạn viết đôi lời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T03:37:25+07:00",
+      "fetched": "2026-01-13T11:32:09.803637+07:00"
+    },
+    {
+      "id": "d92710a42b5a1e75c8de48668efb2fc3",
+      "title": "Em dễ rung động trước người đàn ông ấm áp, chân thành",
+      "link": "https://vnexpress.net/em-de-rung-dong-truoc-nguoi-dan-ong-am-ap-chan-thanh-5004938.html",
+      "summary": "Em tin rằng duyên có thể đến muộn, nhưng khi đã đến sẽ rất đáng để trân trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T03:34:47+07:00",
+      "fetched": "2026-01-13T11:32:09.803728+07:00"
+    },
+    {
+      "id": "c6da9b7a2e8c5423217fa7b96a60788f",
+      "title": "Vừa lo con nhỏ vừa chăm mẹ già yếu, tôi quá mệt mỏi",
+      "link": "https://vnexpress.net/me-don-than-that-nghiep-the-he-banh-mi-kep-34-tuoi-toi-so-moi-sang-thuc-day-lam-sao-nuoi-con-7-tuoi-khi-me-gia-cu-ra-vao-vien-suot-5004999.html",
+      "summary": "Tôi muốn buông nhưng nhìn con nhỏ và mẹ già lại không đành, không biết làm gì để thoát ra khi nỗi lo \"cơm áo gạo tiền\" đè nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T03:34:25+07:00",
+      "fetched": "2026-01-13T11:32:09.803890+07:00"
+    },
+    {
+      "id": "6366a3342e89d4edc05eb9955e8878bf",
+      "title": "Hermès sắp khai trương cửa hàng tại Hà Nội",
+      "link": "https://vnexpress.net/hermes-sap-khai-truong-cua-hang-tai-ha-noi-5005003.html",
+      "summary": "Cửa hàng mới của thương hiệu thời trang Pháp dự kiến khai trương trong tháng 1, tại số 24 Tràng Thi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-13T03:30:00+07:00",
+      "fetched": "2026-01-13T11:32:17.185417+07:00"
+    },
+    {
+      "id": "8e061a98fb878074eeca41bf7f6ba970",
+      "title": "Ông Trump 'đang xem xét phương án không kích Iran'",
+      "link": "https://vnexpress.net/ong-trump-dang-xem-xet-phuong-an-khong-kich-iran-5004925.html",
+      "summary": "Nhà Trắng cho biết Tổng thống Trump \"không ngại sử dụng vũ lực với Iran\" và đang xem xét phương án không kích, dù ngoại giao vẫn là lựa chọn ưu tiên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-13T03:27:13+07:00",
+      "fetched": "2026-01-13T11:32:16.062161+07:00"
+    },
+    {
+      "id": "2f9e872a063fb4d6ddf887ebfa7e0324",
+      "title": "Ukraine có thể đã dùng tên lửa 150.000 USD để chặn UAV Nga",
+      "link": "https://vnexpress.net/ukraine-co-the-da-dung-ten-lua-150-000-usd-de-chan-uav-nga-5004907.html",
+      "summary": "Ảnh mới công bố cho thấy Ukraine dùng tổ hợp phòng không V2X Tempest để đối phó UAV Nga, dù Washington chưa thông báo chuyển vũ khí này cho Kiev.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-13T03:21:21+07:00",
+      "fetched": "2026-01-13T11:32:16.062346+07:00"
+    },
+    {
+      "id": "aab9551a6bfa5fbaa73ef5af16644c11",
+      "title": "Dragon Capital lên sàn trong tháng 1 với định giá hơn 2.000 tỷ đồng",
+      "link": "https://vnexpress.net/dragon-capital-len-san-trong-thang-1-voi-dinh-gia-hon-2-000-ty-dong-5004995.html",
+      "summary": "Công ty quản lý quỹ lớn nhất Việt Nam - Dragon Capital - sẽ lên UPCoM trong tháng 1 với giá tham chiếu 68.000 đồng, tương đương định giá hơn 2.000 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-13T03:20:34+07:00",
+      "fetched": "2026-01-13T11:32:17.184511+07:00"
     },
     {
       "id": "47ce0cf3e9e1d670a355c528aa5f291c",
