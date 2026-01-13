@@ -1,7 +1,157 @@
 window.newsData_2026_01_13 = {
   "date": "2026-01-13",
-  "lastUpdated": "2026-01-13T17:15:15.176043+07:00",
+  "lastUpdated": "2026-01-13T19:27:51.764695+07:00",
   "articles": [
+    {
+      "id": "dc59adc06aa11bdf52c7ad3d88c4f86d",
+      "title": "CLB Ninh Bình chiêu mộ 3 tuyển thủ U23 Việt Nam",
+      "link": "https://tuoitre.vn/clb-ninh-binh-chieu-mo-3-tuyen-thu-u23-viet-nam-2026011316404549.htm",
+      "summary": "Bộ 3 cầu thủ U23 Việt Nam gồm Nguyễn Thái Sơn, Nguyễn Ngọc Mỹ và Lê Văn Thuận sẽ gia nhập CLB Ninh Bình sau VCK U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.643439+07:00",
+      "fetched": "2026-01-13T19:27:42.643559+07:00"
+    },
+    {
+      "id": "af797b4a6595b17f68cf966ecf45a2ad",
+      "title": "Nữ SV không còn tiền ăn bánh mì, nam SV làm thêm quần quật... được bạn đọc giúp thêm hàng chục triệu",
+      "link": "https://tuoitre.vn/nu-sv-khong-con-tien-an-banh-mi-nam-sv-lam-them-quan-quat-duoc-ban-doc-giup-them-hang-chuc-trieu-20260113115459486.htm",
+      "summary": "Huỳnh Nhất Huy, đã bước chân vào giảng đường Trường đại học Công Thương TP.HCM, được nhận học bổng Tiếp sức đến trường của báo Tuổi Trẻ năm 2025 và bạn đọc hỗ trợ thêm 91 triệu đồng qua tài khoản báo Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.643307+07:00",
+      "fetched": "2026-01-13T19:27:42.643427+07:00"
+    },
+    {
+      "id": "05fa8782c333723e7243cbfa433a022c",
+      "title": "Honda Scoopy 2026 ra mắt: 9 màu mới, 3 phong cách, giá quy đổi ngang Lead",
+      "link": "https://tuoitre.vn/honda-scoopy-2026-ra-mat-9-mau-moi-3-phong-cach-gia-quy-doi-ngang-lead-20260113171418611.htm",
+      "summary": "Honda Scoopy 2026 ra mắt Thái Lan với điểm nhấn là 9 tùy chọn màu sắc mới, chia theo 3 phong cách khác nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.643182+07:00",
+      "fetched": "2026-01-13T19:27:42.643296+07:00"
+    },
+    {
+      "id": "e1a71bc8fb4053c390b6a1017b37107c",
+      "title": "Ngày 15-1, công bố hình thành đô thị khoa học công nghệ Bắc TP.HCM tại Bình Dương",
+      "link": "https://tuoitre.vn/ngay-15-1-cong-bo-hinh-thanh-do-thi-khoa-hoc-cong-nghe-bac-tp-hcm-tai-binh-duong-20260113170437385.htm",
+      "summary": "Trung tâm hành chính tỉnh Bình Dương (cũ) có thể được chuyển đổi công năng, theo đề án đô thị khoa học công nghệ Bắc TP.HCM với cơ chế đặc thù để thúc đẩy đổi mới sáng tạo và sử dụng hiệu quả tài sản công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.643053+07:00",
+      "fetched": "2026-01-13T19:27:42.643171+07:00"
+    },
+    {
+      "id": "c488735763b9a56fe09d381620d3eca5",
+      "title": "Australia phát triển liệu pháp miễn dịch mới cho ung thư máu hiếm gặp",
+      "link": "https://tuoitre.vn/australia-phat-trien-lieu-phap-mien-dich-moi-cho-ung-thu-mau-hiem-gap-20260113143946962.htm",
+      "summary": "Các nhà khoa học Australia tìm ra hướng điều trị mới nhắm trực tiếp vào tế bào gây bệnh xơ tủy - dạng ung thư máu hiếm và nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.642911+07:00",
+      "fetched": "2026-01-13T19:27:42.643040+07:00"
+    },
+    {
+      "id": "6794057a704a7deb121c25df1d5e4183",
+      "title": "Ngày 24-11 thành 'Ngày Văn hóa Việt Nam': Hơn 95% người lao động được hỏi đồng tình",
+      "link": "https://tuoitre.vn/ngay-24-11-thanh-ngay-van-hoa-viet-nam-hon-95-nguoi-lao-dong-duoc-hoi-dong-tinh-20260113142056866.htm",
+      "summary": "Với việc Bộ Chính trị ban hành nghị quyết 80, lấy ngày 24-11 hằng năm là “Ngày Văn hóa Việt Nam” và cho người lao động nghỉ hưởng nguyên lương, chủ trương này nhận được sự ủng hộ, hoan nghênh của tổ chức Công đoàn và đông đảo người lao động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.642762+07:00",
+      "fetched": "2026-01-13T19:27:42.642898+07:00"
+    },
+    {
+      "id": "49b7c88e513e87ae47cb8f662f8d73b6",
+      "title": "Thủ tướng bổ nhiệm Phó chủ tịch Viện hàn lâm Khoa học và Công nghệ Việt Nam",
+      "link": "https://tuoitre.vn/thu-tuong-bo-nhiem-pho-chu-tich-vien-han-lam-khoa-hoc-va-cong-nghe-viet-nam-20260113172456436.htm",
+      "summary": "Ông Bùi Thế Duy - Thứ trưởng Bộ Khoa học và Công nghệ - được bổ nhiệm, giữ chức Phó chủ tịch Viện hàn lâm Khoa học và Công nghệ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.642635+07:00",
+      "fetched": "2026-01-13T19:27:42.642751+07:00"
+    },
+    {
+      "id": "6e70ce7be039c98f42c238d5f755b1e5",
+      "title": "Cựu Giám đốc Trung tâm đăng kiểm 50-04V nhận 7 năm tù",
+      "link": "https://tuoitre.vn/cuu-giam-doc-trung-tam-dang-kiem-50-04v-nhan-7-nam-tu-20260113151240869.htm",
+      "summary": "Chiều 13-1, TAND TP.HCM đã tuyên phạt ông Nguyễn Xuân Hải (cựu Giám đốc Trung tâm đăng kiểm 50-04V) 7 năm tù về tội nhận hối lộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.642508+07:00",
+      "fetched": "2026-01-13T19:27:42.642623+07:00"
+    },
+    {
+      "id": "feb5178cf459038c3edfaca4797fb71b",
+      "title": "Giải phóng mặt bằng vành đai 4 TP.HCM: thu hồi đất, kê biên 6/15 xã tỉnh Tây Ninh",
+      "link": "https://tuoitre.vn/giai-phong-mat-bang-vanh-dai-4-tp-hcm-thu-hoi-dat-ke-bien-6-15-xa-tinh-tay-ninh-20260113164237684.htm",
+      "summary": "6/15 xã Tây Ninh đã họp dân công bố chủ trương đầu tư, ra thông báo thu hồi đất và đang kê biên, kiểm đếm. 9/15 xã cũng đã thành lập hội đồng bồi thường, hỗ trợ, tái định cư cho dự án xây dựng tuyến đường vành đai 4 TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.642383+07:00",
+      "fetched": "2026-01-13T19:27:42.642497+07:00"
+    },
+    {
+      "id": "04dfa6567bf8dc6bfd9ec446daeb134e",
+      "title": "Điểm tin 18h: Đề xuất mở rộng điểm cấm hút thuốc lá; Sẽ 'phạt nguội' cả hành vi xả rác bừa bãi",
+      "link": "https://tuoitre.vn/diem-tin-18h-de-xuat-mo-rong-diem-cam-hut-thuoc-la-se-phat-nguoi-ca-hanh-vi-xa-rac-bua-bai-20260113163637433.htm",
+      "summary": "Điểm tin 18h ngày 13-1-2026: Đề xuất mở rộng điểm cấm hút thuốc lá; Sẽ 'phạt nguội' cả hành vi xả rác bừa bãi",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.642252+07:00",
+      "fetched": "2026-01-13T19:27:42.642371+07:00"
+    },
+    {
+      "id": "c92a01adcb71d66af713972ab069044c",
+      "title": "Người phụ nữ nguy kịch sau hút mỡ bụng, ghép mỡ mặt",
+      "link": "https://tuoitre.vn/nguoi-phu-nu-nguy-kich-sau-hut-mo-bung-ghep-mo-mat-20260113170629003.htm",
+      "summary": "Sau khi thực hiện hút mỡ bụng, ghép mỡ mặt, ghép mỡ mông tại một cơ sở tư nhân ở Hà Nội, người phụ nữ xuất hiện tình trạng choáng, máu chảy liên tục tại vùng hút mỡ và nhanh chóng được đưa đến bệnh viện trong tình trạng nguy hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.642117+07:00",
+      "fetched": "2026-01-13T19:27:42.642240+07:00"
+    },
+    {
+      "id": "6e117de6bf0d88899a32e6341a7f5439",
+      "title": "Vụ heo bệnh ở Công ty Đồ hộp Hạ Long: 3 năm liên tục kiểm tra, không phát hiện vi phạm",
+      "link": "https://tuoitre.vn/vu-heo-benh-o-cong-ty-do-hop-ha-long-3-nam-lien-tuc-kiem-tra-khong-phat-hien-vi-pham-20260113170936471.htm",
+      "summary": "Trong các năm 2023, 2024 và 2025, đoàn kiểm tra liên ngành về an toàn thực phẩm của thành phố Hải Phòng kiểm tra Công ty Đồ hộp Hạ Long, kết luận cơ sở thực hiện các quy định của pháp luật về an toàn thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.641983+07:00",
+      "fetched": "2026-01-13T19:27:42.642105+07:00"
+    },
+    {
+      "id": "249c710d6d3165f85abcb64fecd580a4",
+      "title": "Israel dấy lên tranh cãi về cách nuôi gia súc đã bị châu Âu cấm hoàn toàn",
+      "link": "https://tuoitre.vn/israel-day-len-tranh-cai-ve-cach-nuoi-gia-suc-da-bi-chau-au-cam-hoan-toan-20260113144118052.htm",
+      "summary": "Israel hiện vẫn cho phép nông dân sử dụng phân gia cầm, lông gà và thức ăn thừa trong chuồng gà làm thức ăn cho gia súc, bất chấp nhiều nước đã cấm hoàn toàn hình thức này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.641839+07:00",
+      "fetched": "2026-01-13T19:27:42.641970+07:00"
+    },
+    {
+      "id": "d2fe14b1060376c11b7cd7740085182c",
+      "title": "Pháp chính thức triển khai hóa đơn điện tử từ tháng 9-2026",
+      "link": "https://tuoitre.vn/phap-chinh-thuc-trien-khai-hoa-don-dien-tu-tu-thang-9-2026-2026011314442438.htm",
+      "summary": "Từ ngày 1-9-2026, tất cả doanh nghiệp đăng ký hoạt động tại Pháp, không phân biệt quy mô hay hình thức pháp lý, sẽ bắt buộc phải có khả năng tiếp nhận hóa đơn điện tử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.641674+07:00",
+      "fetched": "2026-01-13T19:27:42.641825+07:00"
+    },
+    {
+      "id": "9f43004777c66f5cacb37e21963d126a",
+      "title": "New York Times công bố 52 điểm đến đáng đi nhất thế giới 2026: Việt Nam - cường quốc du lịch",
+      "link": "https://tuoitre.vn/new-york-times-cong-bo-52-diem-den-dang-di-nhat-the-gioi-2026-viet-nam-cuong-quoc-du-lich-20260113171102223.htm",
+      "summary": "Đứng số 34 trong danh sách gồm 52 điểm đến, Việt Nam được vinh danh là một \"cường quốc du lịch\" đang chuyển mình mạnh mẽ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:27:42.641431+07:00",
+      "fetched": "2026-01-13T19:27:42.641657+07:00"
+    },
     {
       "id": "286ee16fa25d3d66b25528931fef2622",
       "title": "Thực hiện thuế kê khai: Hộ kinh doanh cần lưu ý gì?",
@@ -453,6 +603,116 @@ window.newsData_2026_01_13 = {
       "fetched": "2026-01-13T13:20:44.924203+07:00"
     },
     {
+      "id": "1439c2e4fe0fccc8b50bd4dcc03e70e0",
+      "title": "Điểm công dân số không áp dụng để xử phạt",
+      "link": "https://thanhnien.vn/diem-cong-dan-so-khong-ap-dung-de-xu-phat-185260113180425728.htm",
+      "summary": "Bộ Công an cho biết, điểm công dân số không áp dụng để xử phạt, không hạn chế quyền và lợi ích hợp pháp của công dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T12:23:00+07:00",
+      "fetched": "2026-01-13T19:27:41.615540+07:00"
+    },
+    {
+      "id": "c6414e428bdd7a32557132e0ebf6bdc0",
+      "title": "Công an sân bay Tân Sơn Nhất tìm được vàng, tiền cho khách chỉ sau 3 giờ thất lạc",
+      "link": "https://thanhnien.vn/cong-an-san-bay-tan-son-nhat-tim-duoc-vang-tien-cho-khach-chi-sau-3-gio-that-lac-1852601131826487.htm",
+      "summary": "Công an cửa khẩu Cảng hàng không quốc tế Tân Sơn Nhất vừa trao trả lại vàng, tiền cho khách chỉ sau 3 giờ nỗ lực tìm kiếm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T12:20:00+07:00",
+      "fetched": "2026-01-13T19:27:41.615724+07:00"
+    },
+    {
+      "id": "a3d525562c13479abbdff8d13aa40ebd",
+      "title": "Chủ tịch Hội đồng Trường ĐH Sư phạm làm Giám đốc sở GD-ĐT Hà Nội",
+      "link": "https://thanhnien.vn/chu-tich-hoi-dong-truong-dh-su-pham-lam-giam-doc-so-gd-dt-ha-noi-185260113184045488.htm",
+      "summary": "Chủ tịch UBND TP.Hà Nội vừa trao quyết định tiếp nhận, bổ nhiệm PGS-TS Nguyễn Văn Hiền, Chủ tịch Hội đồng Trường ĐH Sư phạm Hà Nội, giữ chức Giám đốc Sở GD-ĐT Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T12:18:00+07:00",
+      "fetched": "2026-01-13T19:27:41.615911+07:00"
+    },
+    {
+      "id": "670e3bde9c101db91691e75589331a9b",
+      "title": "'Lộ diện' nhà tài trợ chỉnh trang 9 khu 'đất vàng' trung tâm TP.HCM",
+      "link": "https://thanhnien.vn/lo-dien-nha-tai-tro-chinh-trang-9-khu-dat-vang-trung-tam-tphcm-185260113183658493.htm",
+      "summary": "Sở Xây dựng cho biết đã làm việc với doanh nghiệp tài trợ kinh phí cải tạo 9 khu 'đất vàng' ở trung tâm TP.HCM thành vườn hoa, công viên tạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T12:08:00+07:00",
+      "fetched": "2026-01-13T19:27:41.616072+07:00"
+    },
+    {
+      "id": "a9c17a8706353b07a5e6ac438eb7044c",
+      "title": "CLB bóng chuyền VTV Bình Điền Long An được thưởng tiền tỉ, vì sao?",
+      "link": "https://thanhnien.vn/clb-bong-chuyen-vtv-binh-dien-long-an-duoc-thuong-tien-ti-vi-sao-185260113190343559.htm",
+      "summary": "CLB bóng chuyền VTV Bình Điền Long An được UBND tỉnh Tây Ninh, Công ty CP phân bón Bình Điền thưởng gần 2 tỉ đồng nhờ thành tích thi đấu xuất sắc trong năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T12:05:00+07:00",
+      "fetched": "2026-01-13T19:27:41.616226+07:00"
+    },
+    {
+      "id": "a4565271f95057556e7383ce1569efac",
+      "title": "Tầm soát ung thư sớm bằng công nghệ giải trình tự gien thế hệ mới",
+      "link": "https://thanhnien.vn/tam-soat-ung-thu-som-bang-cong-nghe-giai-trinh-tu-gien-the-he-moi-185260113172400468.htm",
+      "summary": "Hội nghị khoa học tại Bệnh viện Quân y 120 cập nhật nhiều tiến bộ trong tầm soát, phát hiện sớm ung thư bằng công nghệ gien, góp phần nâng cao chất lượng chăm sóc sức khỏe cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T12:05:00+07:00",
+      "fetched": "2026-01-13T19:27:41.616380+07:00"
+    },
+    {
+      "id": "a6bdf6863afa970503da6a5a562a35fe",
+      "title": "Chứng khoán Venezuela tăng hơn 130% từ đầu năm",
+      "link": "https://vnexpress.net/chung-khoan-venezuela-tang-hon-130-tu-dau-nam-5005159.html",
+      "summary": "Chứng khoán Venezuela tăng tốc khi nhà đầu tư đặt cược kinh tế sẽ có bước ngoặt sau vụ Mỹ tập kích và bắt giữ Tổng thống Nicolas Maduro.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-13T12:00:00+07:00",
+      "fetched": "2026-01-13T19:27:46.029534+07:00"
+    },
+    {
+      "id": "70373961f447007d0ead97ae96ac0226",
+      "title": "Agribank làm đầu mối thu xếp vốn xây dựng đường Vành đai 4 Hà Nội",
+      "link": "https://vnexpress.net/agribank-lam-dau-moi-thu-xep-von-xay-dung-duong-vanh-dai-4-ha-noi-5005268.html",
+      "summary": "Với 15.453 tỷ đồng vốn, tương ứng 60% tổng giá trị hợp đồng vay, Agribank được giao làm đầu mối thu xếp vốn cho Dự án đầu tư xây dựng đường Vành đai 4 - Vùng Thủ đô Hà Nội.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-13T12:00:00+07:00",
+      "fetched": "2026-01-13T19:27:46.031791+07:00"
+    },
+    {
+      "id": "82ed97bfc539732ca8bf7079ecf65e8b",
+      "title": "Miếng dán màn hình iPhone đang bị thổi phồng công dụng",
+      "link": "https://thanhnien.vn/mieng-dan-man-hinh-iphone-dang-bi-thoi-phong-cong-dung-1852601131333059.htm",
+      "summary": "Mỗi khi mua một iPhone mới, nhiều người thường chi tiền thêm cho miếng dán màn hình cùng với ốp lưng để bảo vệ thiết bị khỏi hư hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:49:00+07:00",
+      "fetched": "2026-01-13T19:27:41.616534+07:00"
+    },
+    {
+      "id": "d41db937cbcca1049a868eb06bc26f46",
+      "title": "Concert 760 tỉ đồng của Thái Y Lâm bị khiếu nại vì lý do tâm linh",
+      "link": "https://thanhnien.vn/concert-760-ti-dong-cua-thai-y-lam-bi-khieu-nai-vi-ly-do-tam-linh-185260113154805828.htm",
+      "summary": "Tour diễn 'Pleasure' với mức đầu tư lớn của Thái Y Lâm đang đối mặt với làn sóng chỉ trích gay gắt, sau khi hàng trăm người được cho là đã gửi đơn khiếu nại tới cơ quan quản lý văn hóa để kêu gọi thu hồi giấy phép biểu diễn, với cáo buộc concert chứa nhiều yếu tố tâm linh và tôn giáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:47:00+07:00",
+      "fetched": "2026-01-13T19:27:41.616688+07:00"
+    },
+    {
+      "id": "eb3f0ea5cde565eab73de557839e859b",
+      "title": "Thăng hoa tại U.23 châu Á, Thái Sơn và Văn Thuận cùng Ngọc Mỹ bất ngờ có bến đỗ mới",
+      "link": "https://thanhnien.vn/thang-hoa-tai-u23-chau-a-thai-son-va-van-thuan-cung-ngoc-my-bat-ngo-co-ben-do-moi-185260113182934344.htm",
+      "summary": "Giữa sức nóng của vòng chung kết U.23 châu Á 2026, CLB Ninh Bình vừa gây bất ngờ lớn khi chính thức chiêu mộ thành công bộ ba tuyển thủ U.23 Việt Nam là Nguyễn Thái Sơn, Lê Văn Thuận và Nguyễn Ngọc Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:34:00+07:00",
+      "fetched": "2026-01-13T19:27:41.616866+07:00"
+    },
+    {
       "id": "39f180b2b285db1e6c29a1e6c6a8cbd0",
       "title": "Giới thiệu Bí thư Hà Nội Nguyễn Duy Ngọc ứng cử đại biểu Quốc hội khóa XVI",
       "link": "https://tuoitre.vn/gioi-thieu-bi-thu-ha-noi-nguyen-duy-ngoc-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-20260113085743644.htm",
@@ -461,6 +721,206 @@ window.newsData_2026_01_13 = {
       "category": "Tổng hợp",
       "published": "2026-01-13T11:32:14.228199+07:00",
       "fetched": "2026-01-13T11:32:14.228315+07:00"
+    },
+    {
+      "id": "637d3442104cca35d6737fbf46884d44",
+      "title": "‘Người thừa kế’ và sự ra đời của sân khấu Kịch Nghệ",
+      "link": "https://thanhnien.vn/nguoi-thua-ke-va-su-ra-doi-cua-san-khau-kich-nghe-185260113180941081.htm",
+      "summary": "Làng kịch TP.HCM vừa đón chào một điểm hẹn nghệ thuật mới: sân khấu Kịch Nghệ, tọa lạc tại số 17 đường Núi Thành, phường Tân Bình. Vở diễn khai trương là Người thừa kế (tác giả - đạo diễn Châu Đỗ) - một tác phẩm hình sự, tâm lý ly kỳ đầy sức nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:30:00+07:00",
+      "fetched": "2026-01-13T19:27:41.617024+07:00"
+    },
+    {
+      "id": "8e595d7f2c81b1440e01e0e82feddbfa",
+      "title": "THACO triệu hồi gần 1.000 xe sang BMW đời cũ khắc phục lỗi kỹ thuật",
+      "link": "https://thanhnien.vn/thaco-trieu-hoi-gan-1000-xe-sang-bmw-doi-cu-khac-phuc-loi-ky-thuat-185260113120501397.htm",
+      "summary": "Nhằm đảm bảo an toàn cho người dùng, THACO AUTO vừa thông báo triển khai chương trình triệu hồi gần 1.000 xe BMW nhập khẩu đời cũ tại Việt Nam, liên quan đến lỗi kỹ thuật ở bộ phận máy khởi động, có thể ảnh hưởng đến an toàn trong một số điều kiện sử dụng nhất định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:27:00+07:00",
+      "fetched": "2026-01-13T19:27:41.617173+07:00"
+    },
+    {
+      "id": "bddd29f7c6d72d6c997db5fb774f9b7c",
+      "title": "TP.HCM tổng rà soát đất bỏ trống để làm vườn hoa đón tết",
+      "link": "https://thanhnien.vn/tphcm-tong-ra-soat-dat-bo-trong-de-lam-vuon-hoa-don-tet-185260113175731079.htm",
+      "summary": "Chủ tịch UBND TP.HCM yêu cầu rà soát toàn bộ đất bỏ trống, kể cả dự án chậm triển khai, để sử dụng tạm thời làm mảng xanh, công viên, không gian cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:24:00+07:00",
+      "fetched": "2026-01-13T19:27:41.617328+07:00"
+    },
+    {
+      "id": "1623d5190e51315cec41cec1bb63a32b",
+      "title": "Người lao động có thể nghỉ lễ, tết tới 26 ngày trong năm 2026",
+      "link": "https://thanhnien.vn/nguoi-lao-dong-co-the-nghi-le-tet-toi-26-ngay-trong-nam-2026-185260113172347178.htm",
+      "summary": "Với việc bổ sung Ngày Văn hóa Việt Nam (24.11) là ngày nghỉ lễ hưởng nguyên lương, năm 2026 được dự báo sẽ trở thành năm có số ngày nghỉ lễ, tết nhiều nhất từ trước đến nay đối với công chức, viên chức và người lao động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:24:00+07:00",
+      "fetched": "2026-01-13T19:27:41.617481+07:00"
+    },
+    {
+      "id": "2b3be51690059c28b8e70e42ae96bac1",
+      "title": "Màn 'đụng hàng' trang sức triệu đô của Rihanna, Karina (aespa) và bạn gái Ronaldo",
+      "link": "https://thanhnien.vn/man-dung-hang-trang-suc-trieu-do-cua-rihanna-karina-aespa-va-ban-gai-ronaldo-185260113164453851.htm",
+      "summary": "Cùng diện một mẫu vòng cổ xa xỉ trị giá 1,2 triệu USD của thương hiệu Chopard, Rihanna, Karina (aespa) và Georgina Rodríguez đã vô tình tạo nên màn so kè hiếm thấy, xoay quanh câu chuyện về khả năng làm chủ hình ảnh và khí chất thời trang của mỗi ngôi sao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:24:00+07:00",
+      "fetched": "2026-01-13T19:27:41.617637+07:00"
+    },
+    {
+      "id": "27f1c8c625dc855aa1e3789cb8082627",
+      "title": "U.23 Việt Nam vừa khỏe lại vừa khéo, các đối thủ trở tay không kịp",
+      "link": "https://thanhnien.vn/u23-viet-nam-vua-khoe-lai-vua-kheo-cac-doi-thu-tro-tay-khong-kip-185260113111913362.htm",
+      "summary": "So với các thế hệ trước đó, đội hình hiện tại của U.23 Việt Nam có sự kết hợp hài hòa của nhiều yếu tố khác nhau. Điều đó giúp cho đội bóng của HLV Kim Sang-sik trở nên rất khác biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:19:00+07:00",
+      "fetched": "2026-01-13T19:27:41.617789+07:00"
+    },
+    {
+      "id": "2aa49c040cbd21b0c9594355c1061259",
+      "title": "Ninh Bình chiêu mộ ba ngôi sao U23 Việt Nam",
+      "link": "https://vnexpress.net/ninh-binh-chieu-mo-ba-ngoi-sao-u23-viet-nam-5005298.html",
+      "summary": "Bộ ba tuyển thủ Nguyễn Thái Sơn, Nguyễn Ngọc Mỹ và Lê Văn Thuận sẽ gia nhập Ninh Bình sau vòng chung kết U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:11:30+07:00",
+      "fetched": "2026-01-13T19:27:37.919244+07:00"
+    },
+    {
+      "id": "2aa49c040cbd21b0c9594355c1061259",
+      "title": "Ninh Bình chiêu mộ ba ngôi sao U23 Việt Nam",
+      "link": "https://vnexpress.net/ninh-binh-chieu-mo-ba-ngoi-sao-u23-viet-nam-5005298.html",
+      "summary": "Bộ ba tuyển thủ Nguyễn Thái Sơn, Nguyễn Ngọc Mỹ và Lê Văn Thuận sẽ gia nhập Ninh Bình sau vòng chung kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-13T11:11:30+07:00",
+      "fetched": "2026-01-13T19:27:51.752944+07:00"
+    },
+    {
+      "id": "a9e82a2131242fc8edc628f2785f9f88",
+      "title": "Làm 'luật ngầm' tại Trung tâm đăng kiểm 50-04V, hơn 60 người lĩnh án",
+      "link": "https://vnexpress.net/lam-luat-ngam-tai-trung-tam-dang-kiem-50-04v-hon-60-nguoi-linh-an-5005282.html",
+      "summary": "Tòa xác định ông Nguyễn Xuân Hải và cấp phó phải chịu trách nhiệm về toàn bộ số tiền nhận hối lộ 6,4 tỷ của Trung tâm đăng kiểm 50-04V, tuyên phạt 7 năm tù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:03:55+07:00",
+      "fetched": "2026-01-13T19:27:37.919446+07:00"
+    },
+    {
+      "id": "ce82d0ee05b40d2359a9e6388925eb2c",
+      "title": "Canada bắt chủ mưu vụ cướp 6.600 thỏi vàng",
+      "link": "https://vnexpress.net/canada-bat-chu-muu-vu-cuop-66-000-thoi-vang-5005283.html",
+      "summary": "Nhà chức trách vừa bắt chủ mưu vụ cướp vàng lớn nhất trong lịch sử Canada - 6.600 thỏi vàng nặng tổng cộng 400 kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:02:41+07:00",
+      "fetched": "2026-01-13T19:27:37.919620+07:00"
+    },
+    {
+      "id": "86f2e8760ddaad30e008906942edc4de",
+      "title": "Quán bánh mì khiến khách xếp hàng cả tiếng ở ngoại thành Hà Nội",
+      "link": "https://vnexpress.net/quan-banh-mi-khien-khach-xep-hang-ca-tieng-o-ngoai-thanh-ha-noi-5005277.html",
+      "summary": "Hàng dài khách xếp hàng cả tiếng tại cửa hàng ở Phúc Xá, xã Đan Phượng để mua loại bánh mì đặc ruột nóng hổi dù chủ tiệm giới hạn ba chiếc mỗi người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:00:00+07:00",
+      "fetched": "2026-01-13T19:27:37.919784+07:00"
+    },
+    {
+      "id": "0aeda97b2e22e373a0078b62ac39af7c",
+      "title": "Ám ảnh 'chiến dịch' dọn nhà đón Tết",
+      "link": "https://vnexpress.net/am-anh-chien-dich-don-nha-don-tet-5005211.html",
+      "summary": "Tôi từng nghĩ: 'Chỉ có ba ngày Tết, sao phải khổ sở dọn dẹp nhà cửa nhiều như vậy làm gì?'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:00:00+07:00",
+      "fetched": "2026-01-13T19:27:37.920003+07:00"
+    },
+    {
+      "id": "616c9aa43edd597c092b1883df9b1aa6",
+      "title": "Techcombank trao học bổng 1 triệu USD cho quán quân 'A.I thực chiến'",
+      "link": "https://vnexpress.net/techcombank-trao-hoc-bong-1-trieu-usd-cho-quan-quan-a-i-thuc-chien-5005279.html",
+      "summary": "Techcombank trao học bổng du học quốc tế \"Điều kỳ diệu\" trị giá 1 triệu USD cho đội Converged, quán quân chương trình \"A.I thực chiến\" mùa đầu, tại đêm chung kết diễn ra tối 10/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T11:00:00+07:00",
+      "fetched": "2026-01-13T19:27:37.920173+07:00"
+    },
+    {
+      "id": "0740fd79089220da7010ebaedea98597",
+      "title": "Hà Nội cấm xe tải, xe khách 16 chỗ vào nhiều tuyến đường dịp Đại hội Đảng",
+      "link": "https://vnexpress.net/ha-noi-cam-xe-tai-xe-khach-16-cho-vao-nhieu-tuyen-duong-dip-dai-hoi-dang-5005292.html",
+      "summary": "Từ 14/1 đến 25/1, Hà Nội tạm cấm xe tải và ôtô khách từ 16 chỗ vào nhiều tuyến phố trung tâm theo từng khung giờ, để phục vụ Đại hội đại biểu toàn quốc lần thứ XIV của Đảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T10:53:28+07:00",
+      "fetched": "2026-01-13T19:27:37.920331+07:00"
+    },
+    {
+      "id": "2c985a9c6d963a65e00c9b435646d115",
+      "title": "Lãnh đạo Venezuela phẫn nộ với ảnh chế 'quyền tổng thống' của ông Trump",
+      "link": "https://vnexpress.net/lanh-dao-venezuela-phan-no-voi-anh-che-quyen-tong-thong-cua-ong-trump-5005242.html",
+      "summary": "Ông Trump đăng ảnh chế với chức vụ \"quyền tổng thống Venezuela\" trên Truth Social, khiến lãnh đạo lâm thời nước này phẫn nộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T10:43:43+07:00",
+      "fetched": "2026-01-13T19:27:37.920505+07:00"
+    },
+    {
+      "id": "2c985a9c6d963a65e00c9b435646d115",
+      "title": "Lãnh đạo Venezuela phẫn nộ với ảnh chế 'quyền tổng thống' của ông Trump",
+      "link": "https://vnexpress.net/lanh-dao-venezuela-phan-no-voi-anh-che-quyen-tong-thong-cua-ong-trump-5005242.html",
+      "summary": "Ông Trump đăng ảnh chế với chức vụ \"quyền tổng thống Venezuela\" trên Truth Social, khiến lãnh đạo lâm thời nước này phẫn nộ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-13T10:43:43+07:00",
+      "fetched": "2026-01-13T19:27:44.856585+07:00"
+    },
+    {
+      "id": "af9b0897ccccbe6460f28c643ed9d801",
+      "title": "Thứ trưởng Bùi Thế Duy giữ chức Phó chủ tịch Viện Hàn lâm Khoa học và Công nghệ Việt Nam",
+      "link": "https://vnexpress.net/thu-truong-bui-the-duy-giu-chuc-pho-chu-tich-vien-han-lam-khoa-hoc-va-cong-nghe-viet-nam-5004549.html",
+      "summary": "Thủ tướng Phạm Minh Chính điều động, bổ nhiệm Thứ trưởng Bộ Khoa học và Công nghệ Bùi Thế Duy giữ chức Phó chủ tịch Viện Hàn lâm Khoa học và Công nghệ Việt Nam, thời hạn 5 năm, từ 11/1/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T10:34:15+07:00",
+      "fetched": "2026-01-13T19:27:37.920661+07:00"
+    },
+    {
+      "id": "af9b0897ccccbe6460f28c643ed9d801",
+      "title": "Thứ trưởng Bùi Thế Duy giữ chức Phó chủ tịch Viện Hàn lâm Khoa học và Công nghệ Việt Nam",
+      "link": "https://vnexpress.net/thu-truong-bui-the-duy-giu-chuc-pho-chu-tich-vien-han-lam-khoa-hoc-va-cong-nghe-viet-nam-5004549.html",
+      "summary": "Thủ tướng Phạm Minh Chính điều động, bổ nhiệm Thứ trưởng Bộ Khoa học và Công nghệ Bùi Thế Duy giữ chức Phó chủ tịch Viện Hàn lâm Khoa học và Công nghệ Việt Nam, thời hạn 5 năm, từ 11/1/2026.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-13T10:34:15+07:00",
+      "fetched": "2026-01-13T19:27:49.529995+07:00"
+    },
+    {
+      "id": "e48c12db7cbd000d72b56d253c4e3b77",
+      "title": "Iran nêu lý do cắt Internet giữa sóng biểu tình",
+      "link": "https://vnexpress.net/iran-neu-ly-do-cat-internet-giua-song-bieu-tinh-5005238.html",
+      "summary": "Ngoại trưởng Iran cho biết chính phủ nước này đã ra lệnh cắt Internet trong 4 ngày qua do xảy ra \"hoạt động khủng bố\" trong các cuộc biểu tình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T10:23:42+07:00",
+      "fetched": "2026-01-13T19:27:37.920851+07:00"
+    },
+    {
+      "id": "e48c12db7cbd000d72b56d253c4e3b77",
+      "title": "Iran nêu lý do cắt Internet giữa sóng biểu tình",
+      "link": "https://vnexpress.net/iran-neu-ly-do-cat-internet-giua-song-bieu-tinh-5005238.html",
+      "summary": "Ngoại trưởng Iran cho biết chính phủ nước này đã ra lệnh cắt Internet trong 4 ngày qua do xảy ra \"hoạt động khủng bố\" trong các cuộc biểu tình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-13T10:23:42+07:00",
+      "fetched": "2026-01-13T19:27:44.856776+07:00"
     },
     {
       "id": "35e1ee1b26b346dabe11b0eac1fc6409",
@@ -623,6 +1083,66 @@ window.newsData_2026_01_13 = {
       "fetched": "2026-01-13T17:15:06.432342+07:00"
     },
     {
+      "id": "6157f6440643eea325a98ed5f1c41717",
+      "title": "Toàn cảnh Tech Awards 2025",
+      "link": "https://vnexpress.net/toan-canh-tech-awards-2025-5005250.html",
+      "summary": "Tech Awards 2025, diễn ra ngày 8/1, mở màn với Tech Show thu hút 1.000 người tham dự, trong khi Lễ trao giải vào buổi chiều cũng có sự tham gia của hơn 1.500 khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T10:09:13+07:00",
+      "fetched": "2026-01-13T19:27:37.921019+07:00"
+    },
+    {
+      "id": "6157f6440643eea325a98ed5f1c41717",
+      "title": "Toàn cảnh Tech Awards 2025",
+      "link": "https://vnexpress.net/toan-canh-tech-awards-2025-5005250.html",
+      "summary": "Tech Awards 2025, diễn ra ngày 8/1, mở màn với Tech Show thu hút 1.000 người tham dự, trong khi Lễ trao giải vào buổi chiều cũng có sự tham gia của hơn 1.500 khách.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-13T10:09:13+07:00",
+      "fetched": "2026-01-13T19:27:49.531025+07:00"
+    },
+    {
+      "id": "d986bed77cde4fc5fa8610a27b2a44d8",
+      "title": "Vỡ mộng làm 'bố tổng tài' lương khủng",
+      "link": "https://vnexpress.net/vo-mong-lam-bo-tong-tai-luong-khung-5004193.html",
+      "summary": "Thấy mạng xã hội tràn ngập thông báo tuyển vai \"bố tổng tài\", \"mẹ chủ tịch\" với thù lao hàng nghìn tệ mỗi ngày, Liu Qi nghĩ ngay đến cơ hội đổi đời cho bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T10:07:14+07:00",
+      "fetched": "2026-01-13T19:27:37.921173+07:00"
+    },
+    {
+      "id": "105b1dffc6c60f3eb2d4a507d5965c65",
+      "title": "Điểm tin 17h: Đồ hộp Hạ Long vẫn trả lương công nhân khi dừng sản xuất | Năm 2026 có thể ít bão nhưng thiên tai khó dự báo hơn",
+      "link": "https://vnexpress.net/diem-tin-17h-do-hop-ha-long-van-tra-luong-cong-nhan-khi-dung-san-xuat-nam-2026-co-the-it-bao-nhung-thien-tai-kho-du-bao-hon-5005269.html",
+      "summary": "Chọn 24/11 là Ngày Văn hóa Việt Nam, người lao động được nghỉ lễ; Ngoại trưởng Iran: Chúng tôi đã chuẩn bị tốt hơn cho kịch bản chiến tranh...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T10:04:09+07:00",
+      "fetched": "2026-01-13T19:27:37.921326+07:00"
+    },
+    {
+      "id": "8599d5409231b8d50274466da23beca9",
+      "title": "Hà Nội có tân Giám đốc Sở Khoa học và Công nghệ",
+      "link": "https://vnexpress.net/ha-noi-co-tan-giam-doc-so-khoa-hoc-va-cong-nghe-5005251.html",
+      "summary": "Ông Cù Ngọc Trang, Giám đốc Trung tâm Phục vụ hành chính công Hà Nội, được điều động giữ chức Giám đốc Sở Khoa học và Công nghệ, thay ông Nguyễn Anh Tuấn chuyển công tác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T10:00:51+07:00",
+      "fetched": "2026-01-13T19:27:37.921487+07:00"
+    },
+    {
+      "id": "8599d5409231b8d50274466da23beca9",
+      "title": "Hà Nội có tân Giám đốc Sở Khoa học và Công nghệ",
+      "link": "https://vnexpress.net/ha-noi-co-tan-giam-doc-so-khoa-hoc-va-cong-nghe-5005251.html",
+      "summary": "Ông Cù Ngọc Trang, Giám đốc Trung tâm Phục vụ hành chính công Hà Nội, được điều động giữ chức Giám đốc Sở Khoa học và Công nghệ, thay ông Nguyễn Anh Tuấn chuyển công tác.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-13T10:00:51+07:00",
+      "fetched": "2026-01-13T19:27:49.530190+07:00"
+    },
+    {
       "id": "b17a54ab6a6b1a014e860333fbda1c6b",
       "title": "Tài xế lưu ý: Phà Cát Lái tạm cấm ô tô trên 8 tấn",
       "link": "https://thanhnien.vn/tai-xe-luu-y-pha-cat-lai-tam-cam-o-to-tren-8-tan-185260113165900558.htm",
@@ -661,6 +1181,16 @@ window.newsData_2026_01_13 = {
       "category": "Tổng hợp",
       "published": "2026-01-13T10:00:00+07:00",
       "fetched": "2026-01-13T17:15:06.433031+07:00"
+    },
+    {
+      "id": "4eb94db3ee790bc6bf0682dbe0d603b9",
+      "title": "Bế tắc khi yêu người phụ nữ có con riêng",
+      "link": "https://vnexpress.net/be-tac-khi-yeu-nguoi-phu-nu-co-con-rieng-5004133.html",
+      "summary": "Giờ chúng tôi thường xuyên cãi nhau, mỗi lúc như thế em lại đưa ra những thử thách, khiến tôi rất khó thực hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T10:00:00+07:00",
+      "fetched": "2026-01-13T19:27:37.921647+07:00"
     },
     {
       "id": "ed520184dfc78b1bd72b40e62b2cbc0b",
@@ -791,6 +1321,16 @@ window.newsData_2026_01_13 = {
       "category": "Kinh doanh",
       "published": "2026-01-13T09:26:26+07:00",
       "fetched": "2026-01-13T17:15:10.447748+07:00"
+    },
+    {
+      "id": "2519e3ddb0ea575f126491267766bba3",
+      "title": "Sở Nông nghiệp và Môi trường: Ba năm kiểm tra không phát hiện sai phạm tại Đồ hộp Hạ Long",
+      "link": "https://vnexpress.net/so-nong-nghiep-va-moi-truong-ba-nam-kiem-tra-khong-phat-hien-sai-pham-tai-do-hop-ha-long-5005183.html",
+      "summary": "Theo Sở Nông nghiệp và Môi trường Hải Phòng, qua các đợt kiểm tra liên ngành 3 năm (2023-2025) Công ty Đồ hộp Hạ Long \"đã thực hiện các quy định về an toàn thực phẩm\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-13T09:26:26+07:00",
+      "fetched": "2026-01-13T19:27:46.029719+07:00"
     },
     {
       "id": "c55b5e109dd3825d8cc43c3c1aa0c9e0",
