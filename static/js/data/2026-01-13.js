@@ -1,7 +1,157 @@
 window.newsData_2026_01_13 = {
   "date": "2026-01-13",
-  "lastUpdated": "2026-01-13T11:32:22.503645+07:00",
+  "lastUpdated": "2026-01-13T13:20:53.565727+07:00",
   "articles": [
+    {
+      "id": "f564010ec93fd172a51057ee18327033",
+      "title": "Vụ góc khuất sau những sảnh tiệc hào nhoáng",
+      "link": "https://tuoitre.vn/vu-goc-khuat-sau-nhung-sanh-tiec-hao-nhoang-20260113105958285.htm",
+      "summary": "Sẽ tăng cường kiểm tra an toàn vệ sinh thực phẩm tại các nhà hàng tiệc cưới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.925942+07:00",
+      "fetched": "2026-01-13T13:20:44.926053+07:00"
+    },
+    {
+      "id": "7a2e3e94265bc159f6b0edb4b136507f",
+      "title": "121 phương tiện xuất quân sẵn sàng đưa, đón đại biểu dự Đại hội Đảng lần thứ XIV",
+      "link": "https://tuoitre.vn/121-phuong-tien-xuat-quan-san-sang-dua-don-dai-bieu-du-dai-hoi-dang-lan-thu-xiv-20260113105250579.htm",
+      "summary": "Sáng 13-1, tại Lữ đoàn 971, Cục Xe máy - Vận tải (Tổng cục Hậu cần - Kỹ thuật) đã tổ chức lễ xuất quân thực hiện nhiệm vụ đưa, đón đại biểu dự Đại hội Đảng lần thứ XIV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.925819+07:00",
+      "fetched": "2026-01-13T13:20:44.925931+07:00"
+    },
+    {
+      "id": "221adbef76ad390e2283f79b29c5806c",
+      "title": "Trường đại học An ninh nhân dân huấn luyện trực bảo vệ Đại hội Đảng XIV",
+      "link": "https://tuoitre.vn/truong-dai-hoc-an-ninh-nhan-dan-huan-luyen-truc-bao-ve-dai-hoi-dang-xiv-20260113110546882.htm",
+      "summary": "Hướng tới Đại hội đại biểu toàn quốc lần thứ XIV của Đảng Cộng sản Việt Nam, đơn vị dự bị chiến đấu Trường đại học An ninh nhân dân đã tổ chức ra quân huấn luyện, triển khai nhiệm vụ thường trực sẵn sàng chiến đấu, bảo đảm tuyệt đối an toàn đại hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.925693+07:00",
+      "fetched": "2026-01-13T13:20:44.925808+07:00"
+    },
+    {
+      "id": "56f59d149300f500ea32813dfe723464",
+      "title": "Cổ động viên Real Madrid thất vọng vì HLV Xabi Alonso bị sa thải",
+      "link": "https://tuoitre.vn/co-dong-vien-real-madrid-that-vong-vi-hlv-xabi-alonso-bi-sa-thai-20260113111359999.htm",
+      "summary": "Sau khi HLV Xabi Alonso bị sa thải, nhiều cầu thủ Real Madrid cùng người hâm mộ đã bày tỏ sự thất vọng trước quyết định của ban lãnh đạo đội bóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.925564+07:00",
+      "fetched": "2026-01-13T13:20:44.925681+07:00"
+    },
+    {
+      "id": "01aaf85ad9c8d2f3422ae2fd24c12e88",
+      "title": "Công nhân xưởng chế biến thịt heo bị máy xay thịt cuốn nát bàn tay",
+      "link": "https://tuoitre.vn/cong-nhan-xuong-che-bien-thit-heo-bi-may-xay-thit-cuon-nat-ban-tay-20260113105043891.htm",
+      "summary": "Sơ suất trong lúc vệ sinh máy xay thịt đã khiến người đàn ông 40 tuổi (quê Thanh Hóa) phải cắt cụt toàn bộ bàn tay và 1/3 trên cẳng tay trái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.925440+07:00",
+      "fetched": "2026-01-13T13:20:44.925553+07:00"
+    },
+    {
+      "id": "21c89ee11266e3fa4b307ab4a7d41bc3",
+      "title": "Giới thiệu 122 người ứng cử đại biểu Quốc hội khóa XVI chuyên trách ở Trung ương",
+      "link": "https://tuoitre.vn/gioi-thieu-122-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-chuyen-trach-o-trung-uong-20260113110127142.htm",
+      "summary": "Cử tri thống nhất 100% thông qua danh sách 122 người được Ủy ban Thường vụ Quốc hội giới thiệu ứng cử đại biểu Quốc hội hoạt động chuyên trách khóa XVI ở Trung ương thuộc khối các cơ quan của Quốc hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.925310+07:00",
+      "fetched": "2026-01-13T13:20:44.925429+07:00"
+    },
+    {
+      "id": "4327771d6a3d92c958eed675ea0d02c4",
+      "title": "Nhóm thiếu niên xịt hơi cay, ném vỏ chai bia vào mặt người đi đường để cướp xe máy",
+      "link": "https://tuoitre.vn/nhom-thieu-nien-xit-hoi-cay-nem-vo-chai-bia-vao-mat-nguoi-di-duong-de-cuop-xe-may-20260113111329002.htm",
+      "summary": "Một nhóm thiếu niên ở Hà Nội bị công an bắt giữ với cáo buộc xịt hơi cay, ném vỏ chai bia vào mặt hai người đi đường để cướp xe máy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.925160+07:00",
+      "fetched": "2026-01-13T13:20:44.925293+07:00"
+    },
+    {
+      "id": "ed362811966ad7c99d8a93bdb2eae13e",
+      "title": "Xe khách và xe tải rượt đuổi nhau trên cao tốc: Bắt tạm giam cả 2 tài xế",
+      "link": "https://tuoitre.vn/xe-khach-va-xe-tai-ruot-duoi-nhau-tren-cao-toc-bat-tam-giam-ca-2-tai-xe-20260113111238551.htm",
+      "summary": "Sau khi xảy ra va chạm trên cao tốc TP.HCM - Trung Lương giữa xe khách Hùng Hiếu và một xe tải, hai chiếc xe rượt đuổi nhau trên đường. Hiện cả hai tài xế nói trên đã bị khởi tố và tạm giam 3 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.925034+07:00",
+      "fetched": "2026-01-13T13:20:44.925148+07:00"
+    },
+    {
+      "id": "436a299300970106fc04f6da81718bac",
+      "title": "Giáo viên phải vận động học sinh tham gia ngoại khóa để được xếp loại xuất sắc?",
+      "link": "https://tuoitre.vn/giao-vien-phai-van-dong-hoc-sinh-tham-gia-ngoai-khoa-de-duoc-xep-loai-xuat-sac-20260113104447678.htm",
+      "summary": "Trường tiểu học Lê Văn Tám (phường Phú Thọ Hòa, TP.HCM) yêu cầu giáo viên phải vận động học sinh tham gia ngoại khóa, đạt 50% trở lên mới được xếp loại xuất sắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.924907+07:00",
+      "fetched": "2026-01-13T13:20:44.925023+07:00"
+    },
+    {
+      "id": "1f4a1535d2aad34c9703ae53eb9b8ee5",
+      "title": "Chủ tịch Fed bị truy tố: Tiền lệ nguy hiểm cho tính độc lập của ngân hàng trung ương",
+      "link": "https://tuoitre.vn/chu-tich-fed-bi-truy-to-tien-le-nguy-hiem-cho-tinh-doc-lap-cua-ngan-hang-trung-uong-20260113111208958.htm",
+      "summary": "Cuộc điều tra hình sự chưa từng có tiền lệ nhằm vào Chủ tịch Fed Jerome Powell làm dấy lên làn sóng phản ứng mạnh mẽ tại Washington, khi động thái này của chính quyền Tổng thống Trump bị cho là xâm phạm tính độc lập của ngân hàng trung ương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.924773+07:00",
+      "fetched": "2026-01-13T13:20:44.924895+07:00"
+    },
+    {
+      "id": "0f9e77148fdb2dd75ef7dac9dc7764ef",
+      "title": "Truyền thông Trung Quốc mong đội nhà lập thành tích như U23 Việt Nam",
+      "link": "https://tuoitre.vn/truyen-thong-trung-quoc-mong-doi-nha-lap-thanh-tich-nhu-u23-viet-nam-20260113113634208.htm",
+      "summary": "Chiến tích lịch sử của U23 Việt Nam tại VCK U23 châu Á 2026 không chỉ khiến người hâm mộ trong nước phấn khích, mà còn trở thành \"nguồn cảm hứng\" cho các đội bóng xung quanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.924638+07:00",
+      "fetched": "2026-01-13T13:20:44.924755+07:00"
+    },
+    {
+      "id": "1f5a14e8bdbda7f4863653309e579d9d",
+      "title": "Xác minh clip hai người đi xe máy cầm mũ bảo hiểm đánh nhau trên đường Cộng Hòa",
+      "link": "https://tuoitre.vn/xac-minh-clip-hai-nguoi-di-xe-may-cam-mu-bao-hiem-danh-nhau-tren-duong-cong-hoa-20260113113108796.htm",
+      "summary": "Ngày 13-1, mạng xã hội lan truyền đoạn clip ghi lại cảnh hai người đàn ông dùng mũ bảo hiểm lao vào đánh nhau tới tấp trên đường Cộng Hòa, phường Tân Sơn Nhất, TP.HCM. Hiện lực lượng chức năng đang xác minh, xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.924506+07:00",
+      "fetched": "2026-01-13T13:20:44.924626+07:00"
+    },
+    {
+      "id": "96c31a7d316cb923480296c7e9ac1d61",
+      "title": "Mua 'bảo hiểm tình yêu' giá 28 USD lúc mới yêu, 10 năm sau cưới cô gái nhận được đến 1.400 USD",
+      "link": "https://tuoitre.vn/mua-bao-hiem-tinh-yeu-gia-28-usd-luc-moi-yeu-10-nam-sau-cuoi-co-gai-nhan-duoc-den-1-400-usd-20260113114202339.htm",
+      "summary": "Chỉ với 199 nhân dân tệ (28 USD) bỏ ra từ năm 2016, một phụ nữ Trung Quốc nhận lại 10.000 nhân dân tệ (1.400 USD) khi chính thức kết hôn sau 10 năm hẹn hò.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.924368+07:00",
+      "fetched": "2026-01-13T13:20:44.924493+07:00"
+    },
+    {
+      "id": "75ed76fa6ebf9a07b56c1ad60969922d",
+      "title": "Trạm thu phí 'con tin' trên quốc lộ 51",
+      "link": "https://tuoitre.vn/tram-thu-phi-con-tin-tren-quoc-lo-51-20260113085600871.htm",
+      "summary": "Những người đi qua quốc lộ 51 luôn có cảm giác không hài lòng không chỉ vì quốc lộ này thường xuyên hư hỏng, kẹt xe mà cả chuyện thu phí \"người nói dừng, bên nói không\" và nay là chuyện tháo dỡ trạm thu phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.924220+07:00",
+      "fetched": "2026-01-13T13:20:44.924355+07:00"
+    },
+    {
+      "id": "0a9fd6df40e7f7bd7f575de385e555a0",
+      "title": "Sử dụng 'bóng cười' từ khi học cấp 2, nữ sinh đến viện vẫn mang theo 'bình khí cười'",
+      "link": "https://tuoitre.vn/su-dung-bong-cuoi-tu-khi-hoc-cap-2-nu-sinh-den-vien-van-mang-theo-binh-khi-cuoi-20260113115841696.htm",
+      "summary": "Cô gái hiện đang là sinh viên một trường đại học tại Hà Nội, dù đến bệnh viện khám nhưng vẫn phải mang theo bình chứa khí N₂O để dùng. Qua khai thác bệnh sử, cô gái chia sẻ đã bắt đầu sử dụng bóng cười từ khi còn học cấp 2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T13:20:44.923978+07:00",
+      "fetched": "2026-01-13T13:20:44.924203+07:00"
+    },
     {
       "id": "39f180b2b285db1e6c29a1e6c6a8cbd0",
       "title": "Giới thiệu Bí thư Hà Nội Nguyễn Duy Ngọc ứng cử đại biểu Quốc hội khóa XVI",
@@ -283,6 +433,196 @@ window.newsData_2026_01_13 = {
       "fetched": "2026-01-13T07:57:45.390719+07:00"
     },
     {
+      "id": "0a425a653cb87f68482a5eb4873ef2cc",
+      "title": "Đồng Tháp: Hỗ trợ 40 triệu đồng cho mỗi hộ dân bị sập nhà do thiên tai",
+      "link": "https://thanhnien.vn/dong-thap-ho-tro-40-trieu-dong-cho-moi-ho-dan-bi-sap-nha-do-thien-tai-185260113113000623.htm",
+      "summary": "Tỉnh Đồng Tháp đã bố trí kinh phí hỗ trợ cho 54 hộ dân bị sập nhà do thiên tai, mỗi hộ được hỗ trợ 40 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T06:19:00+07:00",
+      "fetched": "2026-01-13T13:20:43.808508+07:00"
+    },
+    {
+      "id": "6a5a8c2f671f701e1d66add76b8b9cf7",
+      "title": "Ca sĩ Colombia thiệt mạng vì tai nạn máy bay",
+      "link": "https://thanhnien.vn/ca-si-colombia-thiet-mang-vi-tai-nan-may-bay-185260113122506405.htm",
+      "summary": "Theo People, chỉ vài giờ trước lịch biểu diễn, Yeison Jiménez đã thiệt mạng trong một tai nạn máy bay. Bên cạnh ca sĩ Colombia, 5 hành khách khác cũng không qua khỏi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T06:12:00+07:00",
+      "fetched": "2026-01-13T13:20:43.808677+07:00"
+    },
+    {
+      "id": "425d552315523db376bcab40746c5627",
+      "title": "Hàng ngàn việc làm cần tìm ứng viên, mức lương lên đến 45 triệu đồng/tháng",
+      "link": "https://thanhnien.vn/hang-ngan-viec-lam-can-tim-ung-vien-muc-luong-len-den-45-trieu-dong-thang-185260113124033442.htm",
+      "summary": "Hàng ngàn cơ hội việc làm với mức thu nhập hấp dẫn đang tuyển đầu năm. Nhiều nhà tuyển dụng cho biết sẵn sàng chi trả mức lương cao để thu hút lao động, có vị trí thu nhập lên đến 45 triệu đồng/tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T06:09:00+07:00",
+      "fetched": "2026-01-13T13:20:43.808832+07:00"
+    },
+    {
+      "id": "dc5c128c7c2f2b92948a96cbe2c441ed",
+      "title": "CĐV Thái Lan thán phục U.23 Việt Nam, Đình Bắc cùng HLV Kim được nhắc đặc biệt",
+      "link": "https://thanhnien.vn/cdv-thai-lan-than-phuc-u23-viet-nam-dinh-bac-cung-hlv-kim-duoc-nhac-dac-biet-185260113124100083.htm",
+      "summary": "CĐV Thái Lan tiếp tục dành nhiều lời khen cho U.23 Việt Nam khi thầy trò HLV Kim Sang-sik giành vé vào tứ kết U.23 châu Á 2026 với ngôi đầu bảng A.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T06:08:00+07:00",
+      "fetched": "2026-01-13T13:20:43.808983+07:00"
+    },
+    {
+      "id": "3221f27110dc9876827034dcf8d75839",
+      "title": "'Ngọc quý' Đông Triều của bầu Đức bay cao cùng đội Trường CĐ FPT Polytechnic",
+      "link": "https://thanhnien.vn/ngoc-quy-dong-trieu-cua-bau-duc-bay-cao-cung-doi-truong-cd-fpt-polytechnic-185260113123235179.htm",
+      "summary": "Trần Hữu Đông Triều vừa có dấu ấn đáng nhớ trong sự nghiệp HLV bóng đá sinh viên, khi giúp đội Trường CĐ FPT Polytechnic đánh bại đối thủ mạnh Trường ĐH Sư phạm TDTT Hà Nội với tỷ số 3-2 ở vòng loại phía bắc giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO cup).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T06:08:00+07:00",
+      "fetched": "2026-01-13T13:20:43.809138+07:00"
+    },
+    {
+      "id": "59617896edde4c73baa967ddee0b93b7",
+      "title": "Công an TP.HCM tạm giữ 19 thanh thiếu niên đuổi đánh nhau náo loạn đường phố",
+      "link": "https://thanhnien.vn/cong-an-tphcm-tam-giu-19-thanh-thieu-nien-duoi-danh-nhau-nao-loan-duong-pho-185260113123620019.htm",
+      "summary": "Từ mâu thuẫn trong giao tiếp, 2 nhóm thanh niên lôi kéo đồng bọn, mang theo hung khí đuổi đánh nhau gây náo loạn đường phố ở phường Chánh Hưng (TP.HCM). Công an TP.HCM đã tạm giữ 19 người để điều tra, làm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T06:07:00+07:00",
+      "fetched": "2026-01-13T13:20:43.809314+07:00"
+    },
+    {
+      "id": "b7d8561abf1c45ca556a3dddc6e60fd7",
+      "title": "Vụ 'chuyến xe bão táp' ở Đồng Tháp: Khởi tố, bắt giam thêm tài xế xe tải",
+      "link": "https://thanhnien.vn/vu-chuyen-xe-bao-tap-o-dong-thap-khoi-to-bat-giam-them-tai-xe-xe-tai-18526011311514249.htm",
+      "summary": "Công an tỉnh Đồng Tháp khởi tố, bắt tạm giam thêm tài xế xe tải Lương Văn Quốc liên quan 'chuyến xe bão táp' gây xôn xao trên mạng xã hội mấy ngày qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T06:04:00+07:00",
+      "fetched": "2026-01-13T13:20:43.809467+07:00"
+    },
+    {
+      "id": "029adadadf92c056046d25f01b7b6e1c",
+      "title": "Viện KSND tối cao phục hồi điều tra việc 'không truy cứu hình sự người có tội' vụ nữ sinh tử vong",
+      "link": "https://thanhnien.vn/vien-ksnd-toi-cao-phuc-hoi-dieu-tra-viec-khong-truy-cuu-hinh-su-nguoi-co-toi-vu-nu-sinh-tu-vong-185260113121748598.htm",
+      "summary": "Viện KSND tối cao phục hồi điều tra vụ không truy cứu trách nhiệm hình sự người có tội, xảy ra tại Công an H.Trà Ôn, tỉnh Vĩnh Long (cũ) sau vụ nữ sinh bị tai nạn tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T06:03:00+07:00",
+      "fetched": "2026-01-13T13:20:43.809621+07:00"
+    },
+    {
+      "id": "07bf3960d74950867516b7175099fd41",
+      "title": "Trường CĐ Công nghệ Quốc tế Lilama 2 – Trường ĐH Đà Lạt: Chờ đợi kịch tính",
+      "link": "https://thanhnien.vn/truong-cd-cong-nghe-quoc-te-lilama-2-truong-dh-da-lat-cho-doi-kich-tinh-185260113112448219.htm",
+      "summary": "Trận mở màn ở nhóm 8, bảng C giải bóng đá Thanh Niên sinh viên Việt Nam lần IV năm 2026 - cúp THACO (TNSV THACO cup 2026) được kỳ vọng diễn ra hấp dẫn bởi đây là cuộc đấu giữa 2 gương mặt còn khá mới: đội Trường ĐH Đà Lạt chạm trán đội Trường CĐ Công nghệ Quốc tế Lilama 2. Trận đấu này diễn ra lúc 1...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T06:00:00+07:00",
+      "fetched": "2026-01-13T13:20:43.809778+07:00"
+    },
+    {
+      "id": "7dcdf21df975d6d4372067411a377a6c",
+      "title": "Trường ĐH Công nghệ Đông Á - Học viện Ngân hàng: Chờ mưa bàn thắng",
+      "link": "https://thanhnien.vn/truong-dh-cong-nghe-dong-a-hoc-vien-ngan-hang-cho-mua-ban-thang-185260113111525184.htm",
+      "summary": "Trận đấu thứ hai nhóm B vòng loại phía bắc giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO diễn ra lúc 14 giờ hôm nay (13.1) giữa Trường ĐH Công nghệ Đông Á và Học viện Ngân hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T06:00:00+07:00",
+      "fetched": "2026-01-13T13:20:43.809925+07:00"
+    },
+    {
+      "id": "bfeecbf06a949f388a6180610c5a7c22",
+      "title": "Vì sao Alonso sớm phải rời Real Madrid?",
+      "link": "https://vnexpress.net/vi-sao-alonso-som-phai-roi-real-madrid-5005011.html",
+      "summary": "Việc HLV Xabi Alonso mất ghế HLV Real Madrid chỉ sau 7 tháng không chỉ đến từ kết quả chuyên môn, mà còn bắt nguồn từ lối chơi, những quyết định nhân sự gây tranh cãi và rạn nứt trong phòng thay đồ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-13T06:00:00+07:00",
+      "fetched": "2026-01-13T13:20:53.556712+07:00"
+    },
+    {
+      "id": "5df540dbfff14d5eafb2df9a6aac2a62",
+      "title": "Thượng tướng Hoàng Xuân Chiến tiếp Tham tán Cảnh vụ Trung Quốc",
+      "link": "https://thanhnien.vn/thuong-tuong-hoang-xuan-chien-tiep-tham-tan-canh-vu-trung-quoc-185260113115425625.htm",
+      "summary": "Ngày 13.1, tại Hà Nội, thượng tướng Hoàng Xuân Chiến, Thứ trưởng Bộ Quốc phòng, đã tiếp bà Đoạn Bình, Tham tán Cảnh vụ Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:53:00+07:00",
+      "fetched": "2026-01-13T13:20:43.810071+07:00"
+    },
+    {
+      "id": "2d8b9708cce6c6f0d82356e0ef29ee50",
+      "title": "Nga công bố mục tiêu của tên lửa Oreshnik ở Ukraine, Mỹ lên án",
+      "link": "https://thanhnien.vn/nga-cong-bo-muc-tieu-cua-ten-lua-oreshnik-o-ukraine-my-len-an-185260113121637293.htm",
+      "summary": "Bộ Quốc phòng Nga ngày 12.1 xác nhận mục tiêu mà họ tấn công tuần trước bằng tên lửa đạn đạo Oreshnik là một nhà máy sửa chữa máy bay của Ukraine, và nhà máy này đã bị vô hiệu hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:44:00+07:00",
+      "fetched": "2026-01-13T13:20:43.810233+07:00"
+    },
+    {
+      "id": "9e391bca6c37d3648c9b266909369ab2",
+      "title": "Đồng minh ông Putin 'hối' ông Trump nhanh chân giành Greenland",
+      "link": "https://thanhnien.vn/dong-minh-ong-putin-hoi-ong-trump-nhanh-chan-gianh-greenland-185260113122234857.htm",
+      "summary": "Cựu Tổng thống Nga Dmitry Medvedev nói rằng người Greenland có thể bỏ phiếu để gia nhập Nga nếu Tổng thống Mỹ Donald Trump không nhanh chân kiểm soát hòn đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:32:00+07:00",
+      "fetched": "2026-01-13T13:20:43.810388+07:00"
+    },
+    {
+      "id": "4426c32538f915ca8a4b9e58d118ef9a",
+      "title": "Đưa học sinh 'chạm' vào thiên nhiên để học bảo tồn di sản",
+      "link": "https://thanhnien.vn/dua-hoc-sinh-cham-vao-thien-nhien-de-hoc-bao-ton-di-san-185260113095940381.htm",
+      "summary": "Từ lợi thế về đa dạng sinh học và di sản thế giới, Quảng Ninh đang đưa giáo dục bảo tồn vào trường học, nhằm giúp học sinh hiểu, yêu và gìn giữ thiên nhiên, đặc biệt là bảo vệ Di sản thiên nhiên thế giới vịnh Hạ Long.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:31:00+07:00",
+      "fetched": "2026-01-13T13:20:43.810542+07:00"
+    },
+    {
+      "id": "ff8812036a2eb55a31feeb0a02e1ac4d",
+      "title": "Phương pháp rèn tiếng Anh của học sinh 10 tuổi đạt 8.0 IELTS",
+      "link": "https://vnexpress.net/phuong-phap-ren-tieng-anh-cua-hoc-sinh-10-tuoi-dat-8-0-ielts-5005087.html",
+      "summary": "Trần Đình Hoàng Phúc (10 tuổi, TP HCM) học theo phương pháp Linearthinking, kết hợp giữa tư duy toán học, kỹ thuật siêu trí nhớ, đạt 8.0 IELTS trong lần thi đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:30:00+07:00",
+      "fetched": "2026-01-13T13:20:40.481580+07:00"
+    },
+    {
+      "id": "bb47cd6022618ec9dee855c25f49c955",
+      "title": "Ồn ào của Lệ Quyên: Nghệ sĩ và khán giả phải chịu trách nhiệm trước pháp luật",
+      "link": "https://thanhnien.vn/on-ao-cua-le-quyen-nghe-si-va-khan-gia-phai-chiu-trach-nhiem-truoc-phap-luat-185260113101754614.htm",
+      "summary": "Những ngày qua, việc Lệ Quyên dùng từ ngữ nặng nề khi đáp trả bình luận khán giả trở thành chủ đề tranh luận trên mạng xã hội. Dưới góc độ pháp lý, các phát ngôn và hành vi của cả Lệ Quyên lẫn một bộ phận người dùng mạng xã hội trong vụ việc này đều có thể bị xem xét nếu vượt quá giới hạn cho phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:30:00+07:00",
+      "fetched": "2026-01-13T13:20:43.810692+07:00"
+    },
+    {
+      "id": "fefbbe78376e416536bea4c5993d7dea",
+      "title": "Con gái 6 tuổi thích catwalk của Trường Giang, Nhã Phương",
+      "link": "https://vnexpress.net/con-gai-6-tuoi-thich-catwalk-cua-truong-giang-nha-phuong-5003823.html",
+      "summary": "Bé Destiny - con gái lớn của diễn viên Trường Giang - gây chú ý với loạt video trình diễn thời trang hút triệu view.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:28:26+07:00",
+      "fetched": "2026-01-13T13:20:40.481762+07:00"
+    },
+    {
+      "id": "1daa2b5b5c63f4380f7d1be9114c3c16",
+      "title": "Bộ Xây dựng: Giá chung cư tăng 20-30% năm ngoái",
+      "link": "https://vnexpress.net/bo-xay-dung-gia-chung-cu-tang-20-30-nam-ngoai-5005071.html",
+      "summary": "Theo Bộ Xây dựng, năm ngoái giá chung cư đắt thêm 20-30% so với 2024, thậm chí một số khu vực tăng hơn 40%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:16:06+07:00",
+      "fetched": "2026-01-13T13:20:40.481929+07:00"
+    },
+    {
       "id": "5c399f7ce9666d2f130d79f561ad147e",
       "title": "Thủ môn Trung Kiên nói gì khi khiến U23 Saudi Arabia thất bại?",
       "link": "https://tuoitre.vn/thu-mon-trung-kien-noi-gi-khi-khien-u23-saudi-arabia-that-bai-20260113021453941.htm",
@@ -331,6 +671,166 @@ window.newsData_2026_01_13 = {
       "category": "Tổng hợp",
       "published": "2026-01-13T05:12:15.287683+07:00",
       "fetched": "2026-01-13T05:12:15.287912+07:00"
+    },
+    {
+      "id": "e0673a8f73961ee25b092c8e6f64d1b5",
+      "title": "Giới thiệu Bí thư Thành ủy Hà Nội ứng cử đại biểu Quốc hội",
+      "link": "https://vnexpress.net/gioi-thieu-bi-thu-thanh-uy-ha-noi-ung-cu-dai-bieu-quoc-hoi-5005058.html",
+      "summary": "Cử tri cơ quan Thành ủy Hà Nội đã nhất trí 100% giới thiệu ông Nguyễn Duy Ngọc, Ủy viên Bộ Chính trị, Bí thư Thành ủy Hà Nội, ứng cử đại biểu Quốc hội khóa 16.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:12:09+07:00",
+      "fetched": "2026-01-13T13:20:40.482088+07:00"
+    },
+    {
+      "id": "22760cacfe048e3e3fd1a6fc71921844",
+      "title": "Nữ cảnh sát bị điều tra vì lộ tài khoản đăng ảnh khiêu dâm",
+      "link": "https://vnexpress.net/nu-canh-sat-bi-dieu-tra-vi-lo-tai-khoan-dang-anh-khieu-dam-5005070.html",
+      "summary": "Tân binh cảnh sát Dannah Battino, 28 tuổi, bị Cục Nội vụ của Sở cảnh sát New York (NYPD) điều tra vì đăng hàng chục ảnh khoe thân tục tĩu lên tài khoản OnlyFans.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:10:26+07:00",
+      "fetched": "2026-01-13T13:20:40.482262+07:00"
+    },
+    {
+      "id": "618b3ed8240527372af17fe4a968f524",
+      "title": "Huawei sẽ bán điện thoại gập Mate X7 tại Việt Nam",
+      "link": "https://vnexpress.net/huawei-se-ban-dien-thoai-gap-mate-x7-tai-viet-nam-5005079.html",
+      "summary": "Sau 5 năm vắng bóng, Huawei cho biết sẽ bán điện thoại trở lại tại Việt Nam với model đầu tiên là mẫu smartphone gập Mate X7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:08:09+07:00",
+      "fetched": "2026-01-13T13:20:40.482419+07:00"
+    },
+    {
+      "id": "618b3ed8240527372af17fe4a968f524",
+      "title": "Huawei sẽ bán điện thoại gập Mate X7 tại Việt Nam",
+      "link": "https://vnexpress.net/huawei-se-ban-dien-thoai-gap-mate-x7-tai-viet-nam-5005079.html",
+      "summary": "Sau 5 năm vắng bóng, Huawei cho biết sẽ bán điện thoại trở lại tại Việt Nam với model đầu tiên là mẫu smartphone gập Mate X7.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-13T05:08:09+07:00",
+      "fetched": "2026-01-13T13:20:51.644966+07:00"
+    },
+    {
+      "id": "4b4becfafdc793cae84396324e1ace69",
+      "title": "Trẻ mắc sỏi tiết niệu tăng, nguy cơ hỏng thận",
+      "link": "https://vnexpress.net/tre-mac-soi-tiet-nieu-tang-nguy-co-hong-than-5004839.html",
+      "summary": "Số trẻ mắc sỏi đường tiết niệu tại Bệnh viện Nhi đồng 2 đang có xu hướng tăng, nhiều trường hợp nhập viện muộn khi đã xuất hiện biến chứng nhiễm trùng, ứ nước thận hoặc suy giảm chức năng thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:00:00+07:00",
+      "fetched": "2026-01-13T13:20:40.482575+07:00"
+    },
+    {
+      "id": "2189d4149e94c96d67f20b2642f3282e",
+      "title": "Uống trà đặc có gây lo âu không?",
+      "link": "https://vnexpress.net/uong-tra-dac-co-gay-lo-au-khong-5005056.html",
+      "summary": "Tôi thường uống trà đặc để tỉnh táo, gần đây bồn chồn, hồi hộp, khó ngủ. Uống trà có gây lo âu không, dùng thế nào an toàn? (Hùng Trần, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:00:00+07:00",
+      "fetched": "2026-01-13T13:20:40.482732+07:00"
+    },
+    {
+      "id": "adb2844276c94d58c23b5a74db8ce3ac",
+      "title": "Viên sỏi rơi xuống niệu quản gây ứ nước thận",
+      "link": "https://vnexpress.net/vien-soi-roi-xuong-nieu-quan-gay-u-nuoc-than-5005051.html",
+      "summary": "Viên sỏi lớn từ thận rơi xuống niệu quản gây tắc nghẽn dòng tiểu lâu ngày khiến thận của bà Hoàng ứ nước, suy giảm chức năng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:00:00+07:00",
+      "fetched": "2026-01-13T13:20:40.482883+07:00"
+    },
+    {
+      "id": "d5f642667292c2dc122783a1d26fb877",
+      "title": "Trinity Logistics mở rộng thị trường qua M&amp;A",
+      "link": "https://vnexpress.net/trinity-logistics-mo-rong-thi-truong-qua-m-a-5002491.html",
+      "summary": "Trinity Logistics vừa mua lại Granite Logistics hôm 5/1 để mở rộng độ phủ và tăng cường năng lực vận chuyển hàng hóa chuyên biệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:00:00+07:00",
+      "fetched": "2026-01-13T13:20:40.483039+07:00"
+    },
+    {
+      "id": "caacfce88978fc53f44e79f2c5ddd43e",
+      "title": "Sinh viên UFM tìm hiểu 'mục đích tồn tại' với lãnh đạo Ajinomoto Việt Nam",
+      "link": "https://vnexpress.net/sinh-vien-ufm-tim-hieu-muc-dich-ton-tai-voi-lanh-dao-ajinomoto-viet-nam-5005082.html",
+      "summary": "Tổng giám đốc Ajinomoto Việt Nam khuyên sinh viên UFM cần xác định điểm mạnh và giá trị của bản thân để tìm ra \"mục đích tồn tại\" cho cuộc sống và công việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T05:00:00+07:00",
+      "fetched": "2026-01-13T13:20:40.483213+07:00"
+    },
+    {
+      "id": "944e8eeffe5f46731f2c461af51d6eb0",
+      "title": "Ngoại trưởng Iran: Chúng tôi đã chuẩn bị tốt hơn cho kịch bản chiến tranh",
+      "link": "https://vnexpress.net/ngoai-truong-iran-chung-toi-da-chuan-bi-tot-hon-cho-kich-ban-chien-tranh-5005019.html",
+      "summary": "Ngoại trưởng Iran cảnh báo Mỹ không nên \"thử nghiệm phương án quân sự\" vì nước này đã có sự chuẩn bị tốt hơn cho các kịch bản chiến tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:54:40+07:00",
+      "fetched": "2026-01-13T13:20:40.483379+07:00"
+    },
+    {
+      "id": "6b76f70975b99412b77b324bbd788184",
+      "title": "Nghệ sĩ Kim Cương tái diễn kịch 'Lá sầu riêng'",
+      "link": "https://vnexpress.net/nghe-si-kim-cuong-tai-dien-kich-la-sau-rieng-5005042.html",
+      "summary": "Nghệ sĩ Kim Cương sẽ diễn trích đoạn \"Lá sầu riêng\" - vở kịch kinh điển làm nên tên tuổi bà - dịp kỷ niệm sinh nhật thứ 89.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:54:31+07:00",
+      "fetched": "2026-01-13T13:20:40.483543+07:00"
+    },
+    {
+      "id": "1a4f95742aa333f74c538c815ddd7afa",
+      "title": "Ấn Độ muốn các hãng smartphone cung cấp mã nguồn hệ điều hành",
+      "link": "https://vnexpress.net/an-do-muon-cac-hang-smartphone-cung-cap-ma-nguon-he-dieu-hanh-5004906.html",
+      "summary": "Ấn Độ muốn các hãng smartphone chia sẻ mã nguồn hệ điều hành và cho phép gỡ ứng dụng cài sẵn, nhưng vấp phải sự phản đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:46:15+07:00",
+      "fetched": "2026-01-13T13:20:40.483697+07:00"
+    },
+    {
+      "id": "1a4f95742aa333f74c538c815ddd7afa",
+      "title": "Ấn Độ muốn các hãng smartphone cung cấp mã nguồn hệ điều hành",
+      "link": "https://vnexpress.net/an-do-muon-cac-hang-smartphone-cung-cap-ma-nguon-he-dieu-hanh-5004906.html",
+      "summary": "Ấn Độ muốn các hãng smartphone chia sẻ mã nguồn hệ điều hành và cho phép gỡ ứng dụng cài sẵn, nhưng vấp phải sự phản đối.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-13T04:46:15+07:00",
+      "fetched": "2026-01-13T13:20:51.645139+07:00"
+    },
+    {
+      "id": "eabe3cdd165b9b12ea14ebe0804b841c",
+      "title": "Bài toán tiết kiệm 15 triệu đồng nhờ không mua đào, mai trưng Tết",
+      "link": "https://vnexpress.net/tiet-kiem-15-trieu-dong-sau-ba-nam-khong-mua-dao-mai-trung-tet-5005045.html",
+      "summary": "Bỏ 3-5 triệu đồng mua đào thế, mai dáng đẹp, trưng được khoảng chục ngày Tết, rồi lại phải nghĩ cách xử lý khi hết 'mùng', tôi thấy quá mệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:38:37+07:00",
+      "fetched": "2026-01-13T13:20:40.483848+07:00"
+    },
+    {
+      "id": "6641ce5141cdca8b12c2e8fab3bb2331",
+      "title": "Mbappe cãi lời Alonso ở chung kết Siêu Cup Tây Ban Nha",
+      "link": "https://vnexpress.net/mbappe-cai-loi-alonso-o-chung-ket-sieu-cup-tay-ban-nha-5005044.html",
+      "summary": "Tiền đạo Kylian Mbappe không nghe yêu cầu của HLV Xabi Alonso về việc xếp hàng danh dự chúc mừng, sau khi Real thua Barca 2-3 ở chung kết Siêu Cup Tây Ban Nha.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-13T04:36:13+07:00",
+      "fetched": "2026-01-13T13:20:53.556871+07:00"
+    },
+    {
+      "id": "3e03fba1214cb36553f296df72214a22",
+      "title": "'Cửa ngõ trung chuyển dầu' thành tâm điểm trong căng thẳng Mỹ - Iran",
+      "link": "https://vnexpress.net/cua-ngo-trung-chuyen-dau-thanh-tam-diem-trong-cang-thang-my-iran-5004950.html",
+      "summary": "Áp thuế nhập khẩu lên đối tác của Iran, Tổng thống Trump đẩy căng thẳng leo thang, khiến eo biển Hormuz - mạch máu dầu mỏ thế giới - đứng trước nguy cơ bị phong tỏa.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-13T04:27:08+07:00",
+      "fetched": "2026-01-13T13:20:48.615542+07:00"
     },
     {
       "id": "2f8e896964909317b3aa324d3273100c",
@@ -1661,6 +2161,16 @@ window.newsData_2026_01_13 = {
       "category": "Thể thao",
       "published": "2026-01-12T22:24:53+07:00",
       "fetched": "2026-01-13T07:57:54.868779+07:00"
+    },
+    {
+      "id": "889d568a0fdebd80c6aab64273cc0b21",
+      "title": "Ronaldo ghi bàn rồi bị thay ra trong thất bại của Al Nassr",
+      "link": "https://vnexpress.net/ronaldo-ghi-ban-roi-bi-thay-ra-trong-that-bai-cua-al-nassr-5004879.html",
+      "summary": "Tiền đạo Cristiano Ronaldo ghi bàn mở tỷ số nhưng tỏ vẻ bất bình khi bị rút ra ở cuối hiệp hai trận Al Nassr thua ngược Al Hilal 1-3 tại vòng 15 Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-12T22:24:53+07:00",
+      "fetched": "2026-01-13T13:20:53.557661+07:00"
     },
     {
       "id": "dcc9d36dd559ddf01d36e6c32139b9ac",
