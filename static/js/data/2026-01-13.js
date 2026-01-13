@@ -1,7 +1,127 @@
 window.newsData_2026_01_13 = {
   "date": "2026-01-13",
-  "lastUpdated": "2026-01-13T05:12:23.273269+07:00",
+  "lastUpdated": "2026-01-13T07:57:54.875228+07:00",
   "articles": [
+    {
+      "id": "45715e0373944d67e5194ef9a301b2ff",
+      "title": "Ảnh chế hài hước về thủ thành Trung Kiên sau khi bắt quá hay trước Saudi Arabia",
+      "link": "https://tuoitre.vn/anh-che-hai-huoc-ve-thu-thanh-trung-kien-sau-khi-bat-qua-hay-truoc-saudi-arabia-2026011302320646.htm",
+      "summary": "Bên cạnh Đình Bắc, thủ thành Trần Trung Kiên là cái tên được nhắc đến nhiều sau chiến thắng của U23 Việt Nam trước Saudi Arabia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T07:57:45.392063+07:00",
+      "fetched": "2026-01-13T07:57:45.392182+07:00"
+    },
+    {
+      "id": "92f028466d042743b9b1ad638134e6a0",
+      "title": "Thời tiết hôm nay 13-1: Bắc Bộ rét, Nam Bộ ngày nắng, chiều mưa dông",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-13-1-bac-bo-ret-nam-bo-ngay-nang-chieu-mua-dong-20260112194008801.htm",
+      "summary": "Hôm nay 13-1, thời tiết cả nước ngày nắng, riêng Nam Trung Bộ mưa rào, Nam Bộ khả năng mưa chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T07:57:45.391926+07:00",
+      "fetched": "2026-01-13T07:57:45.392051+07:00"
+    },
+    {
+      "id": "2339fba53b1ea56d2c2552f6db6d6982",
+      "title": "Ronaldo có cử chỉ khó hiểu, sau khi Al Nassr nhận thất bại thứ ba liên tiếp",
+      "link": "https://tuoitre.vn/ronaldo-co-cu-chi-kho-hieu-sau-khi-al-nassr-nhan-that-bai-thu-ba-lien-tiep-20260113042116389.htm",
+      "summary": "Siêu sao 40 tuổi Cristiano Ronaldo đã ghi được bàn thắng thứ 959 nhưng Al Nassr lại thất bại 1-3 trước Al Hilal rạng sáng 13-1. Sau khi bị thay ra ở phút 83, Ronaldo đã có cử chỉ kỳ lạ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T07:57:45.391798+07:00",
+      "fetched": "2026-01-13T07:57:45.391914+07:00"
+    },
+    {
+      "id": "56bc846361999855f9c93824a64511aa",
+      "title": "Lộ diện đối thủ ở tứ kết của U23 Việt Nam",
+      "link": "https://tuoitre.vn/lo-dien-doi-thu-o-tu-ket-cua-u23-viet-nam-20260113023436253.htm",
+      "summary": "Đối thủ của U23 Việt Nam ở tứ kết Giải U23 châu Á 2026 sẽ được xác định sau loạt trận cuối cùng bảng B diễn ra lúc 23h30 tối nay 13-1, nhưng U23 Việt Nam đã có thể ít nhiều ngắm nghía được đối thủ của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T07:57:45.391670+07:00",
+      "fetched": "2026-01-13T07:57:45.391787+07:00"
+    },
+    {
+      "id": "2b3e3a2efab3de43bc282fa65cb80f0d",
+      "title": "AFC khen ngợi màn trình diễn của thủ môn Trung Kiên",
+      "link": "https://tuoitre.vn/afc-khen-ngoi-man-trinh-dien-cua-thu-mon-trung-kien-20260113032256458.htm",
+      "summary": "Thủ môn Trung Kiên đã có màn trình diễn xuất sắc trước các chân sút Saudi Arabia, góp công lớn vào chiến thắng 1-0 của U23 Việt Nam. Liên đoàn Bóng đá châu Á (AFC) đã hết lời khen ngợi Trung Kiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T07:57:45.391522+07:00",
+      "fetched": "2026-01-13T07:57:45.391658+07:00"
+    },
+    {
+      "id": "3b91fc4bc80a8e2833ddc8369c391d3e",
+      "title": "FIFA vinh danh Trung Kiên và Đình Bắc sau chiến tích lịch sử",
+      "link": "https://tuoitre.vn/fifa-vinh-danh-trung-kien-va-dinh-bac-sau-chien-tich-lich-su-20260113031446255.htm",
+      "summary": "Trang chủ Liên đoàn Bóng đá thế giới (FIFA) đã vinh danh thủ môn Trung Kiên và tiền đạo Đình Bắc của U23 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T07:57:45.391389+07:00",
+      "fetched": "2026-01-13T07:57:45.391510+07:00"
+    },
+    {
+      "id": "dceedf68dbcac166b638d411749e9e06",
+      "title": "Tin tức sáng 13-1: Dự báo các nhóm cổ phiếu 'nóng' năm 2026; Đề xuất mở rộng nơi cấm hút thuốc lá",
+      "link": "https://tuoitre.vn/tin-tuc-sang-13-1-du-bao-cac-nhom-co-phieu-nong-nam-2026-de-xuat-mo-rong-noi-cam-hut-thuoc-la-20260112224131113.htm",
+      "summary": "Tin tức đáng chú ý: Dự báo các nhóm cổ phiếu 'nóng' năm 2026; Đề xuất mở rộng một số địa điểm cấm hút thuốc lá hoàn toàn; Ca sốt xuất huyết và tay chân miệng nặng ở TP.HCM tăng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T07:57:45.391263+07:00",
+      "fetched": "2026-01-13T07:57:45.391378+07:00"
+    },
+    {
+      "id": "f619dbace27e42a60293d485719bdf09",
+      "title": "Người Việt sửng sốt trước băng trôi Greenland",
+      "link": "https://tuoitre.vn/nguoi-viet-sung-sot-truoc-bang-troi-greenland-20260112222152718.htm",
+      "summary": "Sững người, thảng thốt, không nói nên lời trước cảnh tượng kỳ vỹ đẹp đến nao lòng là cảm giác không bao giờ quên của những người Việt ít ỏi từng đặt chân đến đảo băng lớn nhất thế giới Greenland.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T07:57:45.391136+07:00",
+      "fetched": "2026-01-13T07:57:45.391252+07:00"
+    },
+    {
+      "id": "3a005080c773412a0f0d8fa23c07d719",
+      "title": "Vụ heo bệnh ở Công ty Đồ hộp Hạ Long: Bịt ngay lỗ hổng hậu kiểm",
+      "link": "https://tuoitre.vn/vu-heo-benh-o-cong-ty-do-hop-ha-long-bit-ngay-lo-hong-hau-kiem-20260112223104955.htm",
+      "summary": "Những vụ việc liên quan đến an toàn thực phẩm tại các doanh nghiệp có thương hiệu cho thấy vấn đề không chỉ nằm ở quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T07:57:45.391008+07:00",
+      "fetched": "2026-01-13T07:57:45.391125+07:00"
+    },
+    {
+      "id": "787eaae86b28c0ea4a1df7e2e3be9395",
+      "title": "Lịch trực tiếp Giải U23 châu Á 2026: U23 Uzbekistan gặp Hàn Quốc, Nhật Bản đấu Qatar",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-u23-chau-a-2026-u23-uzbekistan-gap-han-quoc-nhat-ban-dau-qatar-20260112203611171.htm",
+      "summary": "Hôm nay (13-1) sẽ diễn ra lượt cuối cùng của hai bảng B và C ở vòng chung kết U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T07:57:45.390877+07:00",
+      "fetched": "2026-01-13T07:57:45.390997+07:00"
+    },
+    {
+      "id": "aa3d8e53f0b86eec2f2a3c673f119290",
+      "title": "Xác định cặp tứ kết đầu tiên Giải U23 châu Á 2026",
+      "link": "https://tuoitre.vn/xac-dinh-cap-tu-ket-dau-tien-giai-u23-chau-a-2026-20260113021531662.htm",
+      "summary": "Dù mới chỉ bảng A hạ màn nhưng vòng tứ kết Giải U23 châu Á 2026 đã xác định được cặp tứ kết đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T07:57:45.390735+07:00",
+      "fetched": "2026-01-13T07:57:45.390864+07:00"
+    },
+    {
+      "id": "86d978346544ff21d63a84bb8be69fca",
+      "title": "Chuyên gia Phan Anh Tú: U23 Việt Nam có bản lĩnh châu Á",
+      "link": "https://tuoitre.vn/chuyen-gia-phan-anh-tu-u23-viet-nam-co-ban-linh-chau-a-20260113021659708.htm",
+      "summary": "Đấu 3 trận giành 9 điểm, U23 Việt Nam chiếm ngôi nhất bảng A để vào tứ kết Giải U23 châu Á 2026 sau khi đánh bại chủ nhà U23 Saudi Arabia 1-0. Thầy trò ông Kim Sang Sik thể hiện bản lĩnh, sự chững chạc trong lối chơi và tâm lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T07:57:45.390484+07:00",
+      "fetched": "2026-01-13T07:57:45.390719+07:00"
+    },
     {
       "id": "5c399f7ce9666d2f130d79f561ad147e",
       "title": "Thủ môn Trung Kiên nói gì khi khiến U23 Saudi Arabia thất bại?",
@@ -243,6 +363,406 @@ window.newsData_2026_01_13 = {
       "fetched": "2026-01-13T01:19:50.004184+07:00"
     },
     {
+      "id": "ac1cea351e95297435318a112ab8a850",
+      "title": "Hai tiểu bang kiện chính quyền ông Trump về chiến dịch trấn áp người nhập cư",
+      "link": "https://thanhnien.vn/hai-tieu-bang-kien-chinh-quyen-ong-trump-ve-chien-dich-tran-ap-nguoi-nhap-cu-18526011307301216.htm",
+      "summary": "Hai tiểu bang tại Mỹ đã khởi kiện chính quyền Tổng thống Donald Trump vì những hành động trong chiến dịch trấn áp người nhập cư bất hợp pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:50:00+07:00",
+      "fetched": "2026-01-13T07:57:44.223036+07:00"
+    },
+    {
+      "id": "ac750fba6c4aeb237abd1e72fb8ec7cc",
+      "title": "Cầu sập, người dân bám dây vượt sông mưu sinh",
+      "link": "https://thanhnien.vn/cau-sap-nguoi-dan-bam-day-vuot-song-muu-sinh-185260112191112766.htm",
+      "summary": "Giữa dòng sông Cái đục ngầu sau nhiều ngày mưa, một chiếc xuồng nhỏ chòng chành rời bờ. Trên xuồng, hai người đứng cạnh nhau, hai tay bám chặt sợi dây thừng căng ngang sông. Mỗi lần con nước xoáy mạnh, chiếc xuồng lại chao nghiêng, tiếng dây cáp ken két giữa không gian núi rừng vắng lặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:49:00+07:00",
+      "fetched": "2026-01-13T07:57:44.223205+07:00"
+    },
+    {
+      "id": "54f362e371e1921174d3f97e9e2a7e5e",
+      "title": "Những tấm lòng vàng 13.1.2026",
+      "link": "https://thanhnien.vn/nhung-tam-long-vang-1312026-185260112181927471.htm",
+      "summary": "Giúp em Nguyễn Hoàng Thành Công - TP.HCM (nhân vật được đề cập trong bài viết: Nghị lực mùa thi - Hoàn cảnh khốn cùng của cậu học trò xin được cứu giúp trên Thanh Niên ngày 5.7.2025):",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:49:00+07:00",
+      "fetched": "2026-01-13T07:57:44.223361+07:00"
+    },
+    {
+      "id": "bdab24e4a97c70ce3c1ec939b73a4eff",
+      "title": "Xin giúp 2 cha con vượt qua bước đường cùng",
+      "link": "https://thanhnien.vn/xin-giup-2-cha-con-vuot-qua-buoc-duong-cung-185260112185914338.htm",
+      "summary": "Suốt 7 năm bám trụ bệnh viện để níu giữ sự sống cho con, người cha trẻ ở Phú Quốc đã kiệt quệ cả sức lực lẫn tài chính. Trước mắt anh và đứa con trai bị bệnh não úng thủy giờ đây chỉ còn trông chờ vào lòng trắc ẩn của cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:48:00+07:00",
+      "fetched": "2026-01-13T07:57:44.223514+07:00"
+    },
+    {
+      "id": "81a33da127da43c72d69c376eb54830b",
+      "title": "Mỹ kêu gọi công dân rời Iran, ông Trump tung đòn thuế gây sức ép Tehran",
+      "link": "https://thanhnien.vn/my-keu-goi-cong-dan-roi-iran-ong-trump-tung-don-thue-gay-suc-ep-tehran-185260113070647408.htm",
+      "summary": "Chính phủ Mỹ ngày 12.1 có những động thái mới liên quan các vụ biểu tình quy mô lớn đang diễn ra tại Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:47:00+07:00",
+      "fetched": "2026-01-13T07:57:44.223688+07:00"
+    },
+    {
+      "id": "7dc5529b7b3a3217c0ce460d91e22ebd",
+      "title": "Mỹ thu hồi số thị thực kỷ lục kể từ khi ông Trump trở lại Nhà Trắng",
+      "link": "https://thanhnien.vn/my-thu-hoi-so-thi-thuc-ky-luc-ke-tu-khi-ong-trump-tro-lai-nha-trang-185260113073356562.htm",
+      "summary": "Bộ Ngoại giao Mỹ cho biết nhiều thị thực đã bị thu hồi vì các tội danh như hành vi hành hung người khác và lái xe khi có nồng độ cồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:44:00+07:00",
+      "fetched": "2026-01-13T07:57:44.223839+07:00"
+    },
+    {
+      "id": "6a95c35b70f01e74218c6e1b15c826b6",
+      "title": "Giá vàng thế giới vượt 4.600 USD, chứng khoán Mỹ lập kỷ lục",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-vuot-4-600-usd-chung-khoan-my-lap-ky-luc-5004890.html",
+      "summary": "Trong phiên đầu tuần, giá vàng có thời điểm chạm 4.629 USD, trong khi chỉ số DJIA và S&P 500 cùng lên đỉnh mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:34:19+07:00",
+      "fetched": "2026-01-13T07:57:40.780585+07:00"
+    },
+    {
+      "id": "cf939593e5faf5f12848c312872be7f8",
+      "title": "Bất ngờ phát hiện 'suối nguồn tươi trẻ' từ món ăn được yêu thích",
+      "link": "https://thanhnien.vn/bat-ngo-phat-hien-suoi-nguon-tuoi-tre-tu-mon-an-duoc-yeu-thich-185260113073244577.htm",
+      "summary": "Con người thường ước mong có phép màu để được 'trẻ mãi không già'. Nhưng làm sao để đạt được điều này vẫn là một câu hỏi lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:32:00+07:00",
+      "fetched": "2026-01-13T07:57:44.223988+07:00"
+    },
+    {
+      "id": "efca3472c91a627f5284766c7779f217",
+      "title": "Vietnam Airlines trong top 25 hãng hàng không an toàn nhất thế giới",
+      "link": "https://vnexpress.net/vietnam-airlines-trong-top-25-hang-hang-khong-an-toan-nhat-the-gioi-5004849.html",
+      "summary": "Hãng hàng không Quốc gia Việt Nam xếp thứ 19 trong danh sách hãng hàng không truyền thống an toàn nhất thế giới 2026, tăng ba bậc so với 2025, theo xếp hạng của AirlineRatings.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:30:00+07:00",
+      "fetched": "2026-01-13T07:57:40.780773+07:00"
+    },
+    {
+      "id": "22229441893ad9eb8fc263fe1ae84110",
+      "title": "Jordan cảm ơn Việt Nam khi vào tứ kết U23 châu Á",
+      "link": "https://vnexpress.net/jordan-cam-on-viet-nam-khi-vao-tu-ket-u23-chau-a-5004886.html",
+      "summary": "Các thành viên Jordan đến bắt tay cảm ơn cầu thủ Việt Nam sau khi vào tứ kết U23 châu Á 2026 với vị trí nhì bảng A nhờ thầy trò ông Kim Sang-sik hạ Arab Saudi 1-0 ở lượt cuối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:29:04+07:00",
+      "fetched": "2026-01-13T07:57:40.780941+07:00"
+    },
+    {
+      "id": "22229441893ad9eb8fc263fe1ae84110",
+      "title": "Jordan cảm ơn Việt Nam khi vào tứ kết U23 châu Á",
+      "link": "https://vnexpress.net/jordan-cam-on-viet-nam-khi-vao-tu-ket-u23-chau-a-5004886.html",
+      "summary": "Các thành viên Jordan đến bắt tay cảm ơn cầu thủ Việt Nam sau khi vào tứ kết U23 châu Á 2026 với vị trí nhì bảng A nhờ thầy trò ông Kim Sang-sik hạ Arab Saudi 1-0 ở lượt cuối.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-13T00:29:04+07:00",
+      "fetched": "2026-01-13T07:57:54.870364+07:00"
+    },
+    {
+      "id": "b2f54ff7a5cad8fad92a243bb3b21c61",
+      "title": "Trường ĐH Bách khoa TP.HCM - Trường CĐ Giao thông Vận tải: Không được chủ quan",
+      "link": "https://thanhnien.vn/truong-dh-bach-khoa-tphcm-truong-cd-giao-thong-van-tai-khong-duoc-chu-quan-185260112212913674.htm",
+      "summary": "Dù được đánh giá cao hơn rất nhiều, đội Trường ĐH Bách khoa – ĐHQG TP.HCM vẫn phải cẩn trọng trước 'ẩn số' Trường CĐ Giao thông vận tải trong ra quân tại nhóm 8 giải bóng đá Thanh Niên sinh viên Việt Nam lần IV năm 2026 - cúp THACO (TNSV THACO cup 2026), lúc 8 giờ 30, 13.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:24:00+07:00",
+      "fetched": "2026-01-13T07:57:44.224150+07:00"
+    },
+    {
+      "id": "4711d02105e1ee5e75399f3b8058593c",
+      "title": "Arbeloa thay Alonso dẫn dắt Real",
+      "link": "https://vnexpress.net/arbeloa-thay-alonso-dan-dat-real-5004889.html",
+      "summary": "Real Madrid bổ nhiệm cựu hậu vệ Alvaro Arbeloa làm tân HLV trưởng đội một, ngay sau khi sa thải Xabi Alonso.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:17:39+07:00",
+      "fetched": "2026-01-13T07:57:40.781106+07:00"
+    },
+    {
+      "id": "4711d02105e1ee5e75399f3b8058593c",
+      "title": "Arbeloa thay Alonso dẫn dắt Real",
+      "link": "https://vnexpress.net/arbeloa-thay-alonso-dan-dat-real-5004889.html",
+      "summary": "Real Madrid bổ nhiệm cựu hậu vệ Alvaro Arbeloa làm tân HLV trưởng đội một, ngay sau khi sa thải Xabi Alonso.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-13T00:17:39+07:00",
+      "fetched": "2026-01-13T07:57:54.869904+07:00"
+    },
+    {
+      "id": "6778a3fe7c95b75b29912d43b99cf9ed",
+      "title": "Nghị sĩ Mỹ kiện Bộ trưởng Quốc phòng",
+      "link": "https://vnexpress.net/nghi-si-my-kien-bo-truong-quoc-phong-5004887.html",
+      "summary": "Thượng nghị sĩ Kelly kiện Bộ trưởng Quốc phòng Hegseth với cáo buộc vi hiến, khi ông Hegseth tìm cách hạ quân hàm của cựu sĩ quan hải quân này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:17:09+07:00",
+      "fetched": "2026-01-13T07:57:40.781271+07:00"
+    },
+    {
+      "id": "6778a3fe7c95b75b29912d43b99cf9ed",
+      "title": "Nghị sĩ Mỹ kiện Bộ trưởng Quốc phòng",
+      "link": "https://vnexpress.net/nghi-si-my-kien-bo-truong-quoc-phong-5004887.html",
+      "summary": "Thượng nghị sĩ Kelly kiện Bộ trưởng Quốc phòng Hegseth với cáo buộc vi hiến, khi ông Hegseth tìm cách hạ quân hàm của cựu sĩ quan hải quân này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-13T00:17:09+07:00",
+      "fetched": "2026-01-13T07:57:47.347183+07:00"
+    },
+    {
+      "id": "b8ae09058d86f961933312fa4c6582a6",
+      "title": "Vietnam Airlines vào Top 25 Hãng hàng không truyền thống an toàn nhất thế giới 2026",
+      "link": "https://thanhnien.vn/vietnam-airlines-vao-top-25-hang-hang-khong-truyen-thong-an-toan-nhat-the-gioi-2026-185260112183959671.htm",
+      "summary": "Vietnam Airlines trở thành đại diện Việt Nam duy nhất được AirlineRatings xếp vào Top 25 Hãng hàng không truyền thống an toàn nhất thế giới năm 2026, đứng thứ 19 toàn cầu và tăng 3 bậc so với năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:15:00+07:00",
+      "fetched": "2026-01-13T07:57:44.224307+07:00"
+    },
+    {
+      "id": "38a264693deb62b1181254822e731b8a",
+      "title": "Mỹ lên án việc Nga phóng tên lửa Oreshnik vào Ukraine",
+      "link": "https://vnexpress.net/my-len-an-viec-nga-phong-ten-lua-oreshnik-vao-ukraine-5004883.html",
+      "summary": "Phó đại sứ Mỹ tại LHQ nói việc Nga sử dụng tên lửa đạn đạo Oreshnik, vốn có khả năng mang đầu đạn hạt nhân, là \"sự leo thang nguy hiểm\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:09:35+07:00",
+      "fetched": "2026-01-13T07:57:40.781440+07:00"
+    },
+    {
+      "id": "38a264693deb62b1181254822e731b8a",
+      "title": "Mỹ lên án việc Nga phóng tên lửa Oreshnik vào Ukraine",
+      "link": "https://vnexpress.net/my-len-an-viec-nga-phong-ten-lua-oreshnik-vao-ukraine-5004883.html",
+      "summary": "Phó đại sứ Mỹ tại LHQ nói việc Nga sử dụng tên lửa đạn đạo Oreshnik, vốn có khả năng mang đầu đạn hạt nhân, là \"sự leo thang nguy hiểm\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-13T00:09:35+07:00",
+      "fetched": "2026-01-13T07:57:47.347358+07:00"
+    },
+    {
+      "id": "dcce3ce6d7fe9508c2d8f4842e4631fe",
+      "title": "Điều gì xảy ra khi thêm mật ong vào cà phê?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-them-mat-ong-vao-ca-phe-5004641.html",
+      "summary": "Thêm mật ong vào cà phê có thể thay đổi hương vị, tăng thêm lượng vitamin và chất dinh dưỡng đồng thời thúc đẩy quá trình giảm cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:00:00+07:00",
+      "fetched": "2026-01-13T07:57:40.781624+07:00"
+    },
+    {
+      "id": "9c5dddf93b5caab001bd2d38a46cf491",
+      "title": "Tổ hợp công viên - quảng trường 3.000 m2 tại Essensia Broadway",
+      "link": "https://vnexpress.net/to-hop-cong-vien-quang-truong-3-000-m2-tai-essensia-broadway-5004770.html",
+      "summary": "Khu quảng trường - công viên quy mô hơn 3.000 m2 là tổ hợp tiện ích lớn nhất Essensia Broadway, chiếm gần 15% tổng diện tích dự án, thiết kế như \"sân khấu ngoài trời\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:00:00+07:00",
+      "fetched": "2026-01-13T07:57:40.781795+07:00"
+    },
+    {
+      "id": "b4695439e8655c50d0ba38a5c7de6c32",
+      "title": "Nữ thủ khoa dược và hành trình chạm tới 'Sao tháng Giêng'",
+      "link": "https://thanhnien.vn/nu-thu-khoa-duoc-va-hanh-trinh-cham-toi-sao-thang-gieng-185260112180817419.htm",
+      "summary": "Nguyễn Trần Thu Uyên, thủ khoa ngành dược, đã đi một hành trình bền bỉ của học tập, rèn luyện và cống hiến, từ giảng đường Trường ĐH Y dược Buôn Ma Thuột đến giải thưởng \"Sao tháng Giêng\" của T.Ư Hội Sinh viên Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T00:00:00+07:00",
+      "fetched": "2026-01-13T07:57:44.224458+07:00"
+    },
+    {
+      "id": "09a25a799a9e1c0bfdaf0abbb75494cd",
+      "title": "Ba người trong một gia đình thoát nguy kịch sau khi ăn hạt củ đậu",
+      "link": "https://vnexpress.net/ba-nguoi-trong-mot-gia-dinh-thoat-nguy-kich-sau-khi-an-hat-cu-dau-5004840.html",
+      "summary": "Ba bệnh nhân ngộ độc nặng do ăn hạt củ đậu, gồm một trẻ em và hai người lớn, đã hồi phục tri giác và cai được máy thở sau 4 ngày điều trị tích cực tại Bệnh viện Bạch Mai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T23:52:06+07:00",
+      "fetched": "2026-01-13T07:57:40.781954+07:00"
+    },
+    {
+      "id": "e94dec363aaeb625260dfa003d945168",
+      "title": "PSG vỡ mộng tái hiện cú ăn 6",
+      "link": "https://vnexpress.net/psg-vo-mong-tai-hien-cu-an-6-5004888.html",
+      "summary": "PSG thua CLB cùng thành phố Paris FC 0-1 và sớm dừng bước ngay vòng 1/16 Cup quốc gia Pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T23:47:04+07:00",
+      "fetched": "2026-01-13T07:57:40.782111+07:00"
+    },
+    {
+      "id": "e94dec363aaeb625260dfa003d945168",
+      "title": "PSG vỡ mộng tái hiện cú ăn 6",
+      "link": "https://vnexpress.net/psg-vo-mong-tai-hien-cu-an-6-5004888.html",
+      "summary": "PSG thua CLB cùng thành phố Paris FC 0-1 và sớm dừng bước ngay vòng 1/16 Cup quốc gia Pháp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-12T23:47:04+07:00",
+      "fetched": "2026-01-13T07:57:54.870057+07:00"
+    },
+    {
+      "id": "c262c204df23216a97e8db7d8a241228",
+      "title": "Người mẫu U50 giữ vóc dáng gợi cảm không cần ăn kiêng",
+      "link": "https://vnexpress.net/nguoi-mau-u50-giu-voc-dang-goi-cam-khong-can-an-kieng-5004706.html",
+      "summary": "Rũ bỏ áp lực ngoại hình cùng những cơn ác mộng ăn kiêng, ngôi sao đa tài Myleene Klass duy trì vóc dáng săn chắc nhờ nhờ lộ trình tập luyện thực tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T23:46:06+07:00",
+      "fetched": "2026-01-13T07:57:40.782263+07:00"
+    },
+    {
+      "id": "d2fe21ba8c690f856b29c0c14f4acad1",
+      "title": "CSGT TP.HCM bán đấu giá hơn 24.000 xe vi phạm: Quy trình ra sao?",
+      "link": "https://thanhnien.vn/csgt-tphcm-ban-dau-gia-hon-24000-xe-vi-pham-quy-trinh-ra-sao-185260112174110911.htm",
+      "summary": "Một công ty đấu giá vừa thông báo đấu giá hơn 24.000 xe vi phạm của CSGT TP.HCM theo hình thức đã qua sử dụng, hư hỏng bán phế liệu. CSGT TP.HCM nói gì về quy trình bán đấu giá này?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T23:45:00+07:00",
+      "fetched": "2026-01-13T07:57:44.224632+07:00"
+    },
+    {
+      "id": "8b8a9f28b812985b9d834a3f33f2e134",
+      "title": "Samsung Galaxy S26 có thể bán ra giữa tháng 3",
+      "link": "https://vnexpress.net/samsung-galaxy-s26-co-the-ban-ra-giua-thang-3-5004403.html",
+      "summary": "Samsung được cho là sẽ công bố Galaxy X26 ngày 25/2 và bán ra ngày 11/3, trễ một tháng so với thế hệ hiện tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T23:44:49+07:00",
+      "fetched": "2026-01-13T07:57:40.782414+07:00"
+    },
+    {
+      "id": "8b8a9f28b812985b9d834a3f33f2e134",
+      "title": "Samsung Galaxy S26 có thể bán ra giữa tháng 3",
+      "link": "https://vnexpress.net/samsung-galaxy-s26-co-the-ban-ra-giua-thang-3-5004403.html",
+      "summary": "Samsung được cho là sẽ công bố Galaxy X26 ngày 25/2 và bán ra ngày 11/3, trễ một tháng so với thế hệ hiện tại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-12T23:44:49+07:00",
+      "fetched": "2026-01-13T07:57:53.044387+07:00"
+    },
+    {
+      "id": "f3bf2de0959acbe274f8d1493c6e211f",
+      "title": "Những người lặng thầm trong lũ dữ Đắk Lắk",
+      "link": "https://thanhnien.vn/nhung-nguoi-lang-tham-trong-lu-du-dak-lak-185260105140754647.htm",
+      "summary": "Cơ sở giáo dục bắt buộc A1 (ở Đắk Lắk) cho biết đang đề nghị Bộ Công an và Cục Cảnh sát quản lý trại giam, cơ sở giáo dục bắt buộc, trường giáo dưỡng C10) tặng thưởng cho tập thể và các cá nhân có thành tích xuất sắc trong công tác phòng chống thiên tai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T23:30:00+07:00",
+      "fetched": "2026-01-13T07:57:44.224787+07:00"
+    },
+    {
+      "id": "cf4bb64789e551f272c4816dbb3b2b59",
+      "title": "Điểm tin 6h: Hạ Arab Saudi, Việt Nam vào tứ kết U23 châu Á | Năm 2026 khó lướt sóng nhà đất",
+      "link": "https://vnexpress.net/diem-tin-6h-ha-arab-saudi-viet-nam-vao-tu-ket-u23-chau-a-nam-2026-kho-luot-song-nha-dat-5004884.html",
+      "summary": "Bị bắt vì không trả lại 499 triệu đồng chuyển nhầm; Bạc tăng vọt, vượt các “big tech” trở thành tài sản lớn thứ hai thế giới...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T23:29:23+07:00",
+      "fetched": "2026-01-13T07:57:40.782624+07:00"
+    },
+    {
+      "id": "765e96c3256b7d540ed52df73a8891b9",
+      "title": "Trọng tài V-League bén duyên với bóng đá sinh viên",
+      "link": "https://thanhnien.vn/trong-tai-v-league-ben-duyen-voi-bong-da-sinh-vien-185260112223227661.htm",
+      "summary": "Tạm chia tay những trận đấu đầy căng thẳng ở V-League, trọng tài quốc gia Trần Ngọc Nhớ gây bất ngờ khi xuất hiện với vai trò HLV trưởng đội Trường CĐ Kinh tế đối ngoại tại TNSV THACO cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T23:29:00+07:00",
+      "fetched": "2026-01-13T07:57:44.224935+07:00"
+    },
+    {
+      "id": "0abc21b1416b66ee68f166274407e17e",
+      "title": "HLV Arab Saudi: 'Một thất bại đau đớn'",
+      "link": "https://vnexpress.net/hlv-arab-saudi-mot-that-bai-dau-don-5004885.html",
+      "summary": "Sau trận thua 0-1, HLV Luigi Di Biagio tiếc nuối khi U23 Saudi Arabia dứt điểm 26 lần nhưng thất bại, trong khi Việt Nam ghi bàn ngay từ tình huống trúng đích đầu tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T23:24:17+07:00",
+      "fetched": "2026-01-13T07:57:40.782866+07:00"
+    },
+    {
+      "id": "59d95869f4159c82f1dc5a88f711cc91",
+      "title": "Ông Trump áp thuế với loạt đối tác thương mại của Iran",
+      "link": "https://vnexpress.net/ong-trump-ap-thue-voi-loat-doi-tac-thuong-mai-cua-iran-5004881.html",
+      "summary": "Tổng thống Mỹ Donald Trump thông báo áp thuế 25% với bất kỳ quốc gia nào giao thương với Iran, khi căng thẳng Washington - Tehran leo thang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T23:15:31+07:00",
+      "fetched": "2026-01-13T07:57:40.783038+07:00"
+    },
+    {
+      "id": "59d95869f4159c82f1dc5a88f711cc91",
+      "title": "Ông Trump áp thuế với loạt đối tác thương mại của Iran",
+      "link": "https://vnexpress.net/ong-trump-ap-thue-voi-loat-doi-tac-thuong-mai-cua-iran-5004881.html",
+      "summary": "Tổng thống Mỹ Donald Trump thông báo áp thuế 25% với bất kỳ quốc gia nào giao thương với Iran, khi căng thẳng Washington - Tehran leo thang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-12T23:15:31+07:00",
+      "fetched": "2026-01-13T07:57:47.347521+07:00"
+    },
+    {
+      "id": "0b99cd21360967fa77fc6c260b339604",
+      "title": "Cú đặt cược 'sống còn' của Trung Quốc",
+      "link": "https://thanhnien.vn/cu-dat-cuoc-song-con-cua-trung-quoc-18526011223400712.htm",
+      "summary": "Trung Quốc đang đầu tư mạnh vào mảng robot hình người để góp phần quan trọng vào cuộc cạnh tranh trong lĩnh vực trí tuệ nhân tạo (AI) vốn đang đầy căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T23:15:00+07:00",
+      "fetched": "2026-01-13T07:57:44.225088+07:00"
+    },
+    {
+      "id": "f59e436575e09d5d48e50feaf9d4eabc",
+      "title": "Nghề xiếc lên màn ảnh rộng trong Con kể ba nghe",
+      "link": "https://thanhnien.vn/nghe-xiec-len-man-anh-rong-trong-con-ke-ba-nghe-1852601122308458.htm",
+      "summary": "Phim Con kể ba nghe dự kiến chính thức khởi chiếu từ ngày 16.1. Bộ phim do đạo diễn Đỗ Quốc Trung thực hiện, lựa chọn một hướng tiếp cận mới mẻ khi lấy nghệ thuật xiếc làm trụ cột nội dung, không chỉ đóng vai trò thị giác mà còn gắn với chiều sâu tâm lý nhân vật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-12T23:15:00+07:00",
+      "fetched": "2026-01-13T07:57:44.225237+07:00"
+    },
+    {
+      "id": "bc7246e73913aa94c46cb0a3900b15fc",
+      "title": "Wirtz giúp Liverpool đi tiếp ở Cup FA",
+      "link": "https://vnexpress.net/wirtz-giup-liverpool-di-tiep-o-cup-fa-5004880.html",
+      "summary": "Tiền vệ 170 triệu USD Florian Wirtz vào sân từ ghế dự bị, góp một bàn và một kiến tạo giúp Liverpool hạ đội khách Barnsley 4-1 ở vòng ba Cup FA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-12T22:54:26+07:00",
+      "fetched": "2026-01-13T07:57:54.870209+07:00"
+    },
+    {
+      "id": "a42656a50c494d83772c19bbf63e1592",
+      "title": "Nguyễn Đình Bắc nghe lời dặn của HLV Kim để ghi siêu phẩm",
+      "link": "https://vnexpress.net/nguyen-dinh-bac-nghe-loi-dan-cua-hlv-kim-de-ghi-sieu-pham-5004877.html",
+      "summary": "Từ chỉ đạo của HLV Kim Sang-sik về việc khai thác hai biên, tiền đạo Nguyễn Đình Bắc ghi bàn tuyệt đẹp, giúp Việt Nam hạ Arab Saudi 1-0 ở lượt cuối bảng A U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-12T22:53:21+07:00",
+      "fetched": "2026-01-13T07:57:54.868603+07:00"
+    },
+    {
+      "id": "ca540df01c80425ce4cc806bcda03e23",
+      "title": "Ronaldo ghi bàn rồi bị thay ra sớm trong thất bại của Al Nassr",
+      "link": "https://vnexpress.net/ronaldo-ghi-ban-roi-bi-thay-ra-som-trong-that-bai-cua-al-nassr-5004879.html",
+      "summary": "Tiền đạo Cristiano Ronaldo ghi bàn mở tỷ số rồi tỏ vẻ bất bình khi bị rút ra sớm ở trận Al Nassr thua ngược Al Hilal 1-3 tại vòng 15 Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-12T22:24:53+07:00",
+      "fetched": "2026-01-13T07:57:54.868779+07:00"
+    },
+    {
       "id": "dcc9d36dd559ddf01d36e6c32139b9ac",
       "title": "Rạp cưới giữa đường",
       "link": "https://thanhnien.vn/rap-cuoi-giua-duong-18526011217204306.htm",
@@ -281,6 +801,16 @@ window.newsData_2026_01_13 = {
       "category": "Tổng hợp",
       "published": "2026-01-12T22:00:00+07:00",
       "fetched": "2026-01-13T05:12:14.282496+07:00"
+    },
+    {
+      "id": "583e2dac9c85c474188d8ca3dcc0055b",
+      "title": "Cách châu Âu có thể ngăn ông Trump kiểm soát Greenland",
+      "link": "https://vnexpress.net/cach-chau-au-co-the-ngan-ong-trump-kiem-soat-greenland-5003817.html",
+      "summary": "Trước ý định mua lại Greenland của Tổng thống Trump, châu Âu đang ráo riết vạch ra loạt phương án nhằm ngăn Mỹ kiểm soát vùng lãnh thổ quan trọng này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-12T22:00:00+07:00",
+      "fetched": "2026-01-13T07:57:47.347711+07:00"
     },
     {
       "id": "ff31a176ecc244b1d0ba2f2891b1ce17",
@@ -401,6 +931,16 @@ window.newsData_2026_01_13 = {
       "category": "Thể thao",
       "published": "2026-01-12T20:56:45+07:00",
       "fetched": "2026-01-13T05:12:23.267531+07:00"
+    },
+    {
+      "id": "3961c98437b85b7d172584874cc58568",
+      "title": "Thủ môn Trung Kiên: 'Việt Nam luôn muốn thắng mọi trận đấu'",
+      "link": "https://vnexpress.net/thu-mon-trung-kien-viet-nam-luon-muon-thang-moi-tran-dau-5004876.html",
+      "summary": "Sau trận thắng chủ nhà 1-0 ở lượt cuối bảng A, thủ môn Trần Trung Kiên khẳng định Việt Nam không có ý định cầu hòa trong bất cứ trận nào ở giải U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-12T20:56:45+07:00",
+      "fetched": "2026-01-13T07:57:54.868941+07:00"
     },
     {
       "id": "d1a36ef19cc5f66b7a806e504cbd9156",
@@ -1371,6 +1911,16 @@ window.newsData_2026_01_13 = {
       "category": "Công nghệ",
       "published": "2026-01-12T06:42:47+07:00",
       "fetched": "2026-01-13T01:19:57.035948+07:00"
+    },
+    {
+      "id": "24c7797d016e7a7029544916f1488cf5",
+      "title": "Rà soát các sáng kiến trọng điểm trước thềm ADGSOM 6",
+      "link": "https://vnexpress.net/ra-soat-cac-sang-kien-trong-diem-truoc-them-adgsom-6-5004638.html",
+      "summary": "Sáng 12/1, phiên họp nhóm công tác chuẩn bị cho Hội nghị Quan chức Cấp cao Số ASEAN (ADGSOM) lần thứ 6 diễn ra tại Hà Nội.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-12T06:42:47+07:00",
+      "fetched": "2026-01-13T07:57:53.046142+07:00"
     },
     {
       "id": "6f58625125761fb958dea0ca0ac571be",
