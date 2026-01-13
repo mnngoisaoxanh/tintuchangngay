@@ -1,7 +1,37 @@
 window.newsData_2026_01_14 = {
   "date": "2026-01-14",
-  "lastUpdated": "2026-01-14T03:15:01.851255+07:00",
+  "lastUpdated": "2026-01-14T05:14:02.056690+07:00",
   "articles": [
+    {
+      "id": "bac2fa0b0767a64c63e19986225ceed4",
+      "title": "Xác định đối thủ của U23 Việt Nam ở tứ kết",
+      "link": "https://tuoitre.vn/xac-dinh-doi-thu-cua-u23-viet-nam-o-tu-ket-20260114020119834.htm",
+      "summary": "Rạng sáng ngày 14-1 (giờ Việt Nam), loạt trận bảng B Giải U23 châu Á 2026 đã kết thúc, qua đó chính thức xác định được cái tên sẽ chạm trán U23 Việt Nam ở vòng tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T05:13:54.972415+07:00",
+      "fetched": "2026-01-14T05:13:54.972544+07:00"
+    },
+    {
+      "id": "1979a9ee127a833d791c1dd3ff5a6462",
+      "title": "U23 Nhật Bản toàn thắng vòng bảng, như U23 Việt Nam",
+      "link": "https://tuoitre.vn/u23-nhat-ban-toan-thang-vong-bang-nhu-u23-viet-nam-20260114022722112.htm",
+      "summary": "Rạng sáng 14-1 (giờ Việt Nam), Nhật Bản đã đánh bại Qatar với tỉ số 2-0 ở lượt trận cuối cùng bảng B, Giải U23 châu Á 2026, qua đó khép lại giai đoạn vòng bảng với thành tích toàn thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T05:13:54.972231+07:00",
+      "fetched": "2026-01-14T05:13:54.972400+07:00"
+    },
+    {
+      "id": "027e9ecae0ceee7e77e6d8d822470eec",
+      "title": "U23 UAE áp đảo U23 Việt Nam về thành tích đối đầu",
+      "link": "https://tuoitre.vn/u23-uae-ap-dao-u23-viet-nam-ve-thanh-tich-doi-dau-2026011402485231.htm",
+      "summary": "Theo ghi nhận của Sofascore, bóng đá nam UAE (Các Tiểu vương quốc Ả rập thống nhất) và Việt Nam từng có 6 lần chạm trán ở cấp độ U23 trước đây, và đội bóng vùng Trung Đông chưa bao giờ bại trận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T05:13:54.971984+07:00",
+      "fetched": "2026-01-14T05:13:54.972214+07:00"
+    },
     {
       "id": "eeb25c54ba359a7a2c369f2cf09e0c0a",
       "title": "Cựu binh sĩ Mỹ gốc Hoa bị kết án 16 năm tù vì bán bí mật quân sự cho Trung Quốc",
@@ -163,6 +193,226 @@ window.newsData_2026_01_14 = {
       "fetched": "2026-01-14T01:20:55.376421+07:00"
     },
     {
+      "id": "6c1a8545340942cd28ecbcb9ddd9b86f",
+      "title": "Phim Hàn 'Đại hồng thủy' gây thất vọng",
+      "link": "https://vnexpress.net/phim-han-dai-hong-thuy-gay-that-vong-5003232.html",
+      "summary": "\"The Great Flood\" (Đại hồng thủy), phim thể loại thảm họa sinh tồn của Hàn Quốc có kịch bản nhiều lỗ hổng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T22:04:00+07:00",
+      "fetched": "2026-01-14T05:13:51.051538+07:00"
+    },
+    {
+      "id": "48ce7f09ef1f8533248e6165b85f31fd",
+      "title": "‘Thủ phủ’ hoa cúc xứ Huế hồi sinh sau 4 trận lũ lịch sử",
+      "link": "https://thanhnien.vn/thu-phu-hoa-cuc-xu-hue-hoi-sinh-sau-4-tran-lu-lich-su-185260113192416348.htm",
+      "summary": "Vượt qua mất mát sau 4 trận lũ liên tiếp, những người nông dân tại làng Vân Thê (TP.Huế) đang tất bật \"ăn cơm đứng\" để hồi sinh những vườn hoa cúc. Giữa cái nắng ấm của những ngày giáp Tết, họ đang hy vọng về một vụ mùa thuận lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T22:02:00+07:00",
+      "fetched": "2026-01-14T05:13:53.998390+07:00"
+    },
+    {
+      "id": "05aef2b7eace5a43f6ee4fef918a995a",
+      "title": "Xưởng chế tác linh vật ngựa tất bật trước Tết Bính Ngọ",
+      "link": "https://vnexpress.net/xuong-che-tac-linh-vat-ngua-tat-bat-truoc-tet-binh-ngo-5004993.html",
+      "summary": "Ngựa chibi, chiến mã, xích thố có kích thước lớn, giá lên đến 120 triệu đồng được xưởng của anh Chí Linh chế tác dịp Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T22:00:00+07:00",
+      "fetched": "2026-01-14T05:13:51.051722+07:00"
+    },
+    {
+      "id": "7f4a34fe4ad733069cc4999c4d3a22ab",
+      "title": "Honda CUV e: lái hay, nhiều công nghệ, quãng đường ngắn",
+      "link": "https://vnexpress.net/honda-cuv-e-lai-hay-nhieu-cong-nghe-quang-duong-ngan-5004649.html",
+      "summary": "Honda CUV e: là mẫu xe điện tích hợp nhiều công nghệ cao cấp hiếm thấy trên xe máy, cùng trải nghiệm lái đầm chắc đặc trưng của hãng Nhật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T22:00:00+07:00",
+      "fetched": "2026-01-14T05:13:51.051890+07:00"
+    },
+    {
+      "id": "a15a2769c7a0a101ab86f7487bab2b00",
+      "title": "Bản tin sức khỏe 14.1: Bổ sung vitamin sao cho đúng? | Dấu hiệu của cơ thể khỏe mạnh",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-141-bo-sung-vitamin-sao-cho-dung-dau-hieu-cua-co-the-khoe-manh-185260114003619212.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T22:00:00+07:00",
+      "fetched": "2026-01-14T05:13:53.998583+07:00"
+    },
+    {
+      "id": "9e579c1f927c742e260b8822799464da",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 14.1.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1412026-185260113222743907.htm",
+      "summary": "Tin tức Những cột mốc rực rỡ của U.23 Việt Nam, Bỏ tổ hợp xét tuyển truyền thống, thí sinh có cần lo lắng?, Nga - Ukraine leo thang đối đầu… có thể đón xem trên Báo Thanh Niên số ra ngày 14.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T22:00:00+07:00",
+      "fetched": "2026-01-14T05:13:53.998754+07:00"
+    },
+    {
+      "id": "dfe33fd750ce7fadd86f081e25a4346a",
+      "title": "Chiến sự Ukraine ngày 1.420: Hạ tầng năng lượng Kyiv hứng đòn nặng nhất từ đầu năm",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1420-ha-tang-nang-luong-kyiv-hung-don-nang-nhat-tu-dau-nam-185260113222229341.htm",
+      "summary": "Ukraine cáo buộc Nga đã tiến hành một trong những đợt tấn công quy mô lớn nhất từ đầu năm 2026 khi phóng hàng loạt tên lửa và máy bay không người lái (UAV) nhằm vào nhiều thành phố trên khắp Ukraine trong đêm 12.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T22:00:00+07:00",
+      "fetched": "2026-01-14T05:13:53.998913+07:00"
+    },
+    {
+      "id": "bac02ac5f79b02d07adde87b1dcbf488",
+      "title": "Người già và dưỡng lão: Chốn nương tựa cuối đời",
+      "link": "https://thanhnien.vn/nguoi-gia-va-duong-lao-chon-nuong-tua-cuoi-doi-185260113161610755.htm",
+      "summary": "Không có con hoặc con làm ăn xa, định cư ở nước ngoài, những cụ già neo đơn chấp nhận vào viện dưỡng lão như nơi nương tựa cuối đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T21:57:00+07:00",
+      "fetched": "2026-01-14T05:13:53.999067+07:00"
+    },
+    {
+      "id": "985044939cf40d12642b86365b5d88bc",
+      "title": "Động thái của nhiều nước giữa biến động tại Iran",
+      "link": "https://thanhnien.vn/dong-thai-cua-nhieu-nuoc-giua-bien-dong-tai-iran-18526011320550259.htm",
+      "summary": "Liên quan làn sóng biểu tình gần đây tại Iran, Bộ Ngoại giao Mỹ ngày 12.1 ban hành cảnh báo an ninh, kêu gọi toàn bộ công dân Mỹ đang có mặt tại Iran rời khỏi nước này ngay lập tức, đồng thời khuyến cáo không đến Iran vì bất kỳ lý do gì, tạp chí Newsweek đưa tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T21:51:00+07:00",
+      "fetched": "2026-01-14T05:13:53.999220+07:00"
+    },
+    {
+      "id": "a5bcbb2ce3a293abb65de2c46c2ffefb",
+      "title": "'Không phải tiền của mình thì đừng lấy'",
+      "link": "https://thanhnien.vn/khong-phai-tien-cua-minh-thi-dung-lay-18526011318380487.htm",
+      "summary": "Việc khởi tố, bắt giam người chiếm giữ gần 500 triệu đồng do chuyển nhầm không chỉ là câu chuyện pháp lý, mà còn gióng lên hồi chuông cảnh tỉnh về đạo đức và sự tử tế, khi lòng tham nhất thời có thể khiến một người trả giá bằng cả tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T21:48:00+07:00",
+      "fetched": "2026-01-14T05:13:53.999396+07:00"
+    },
+    {
+      "id": "4c31c9728094dd01df0296c040bd5073",
+      "title": "Tối ưu khai thác dữ liệu",
+      "link": "https://thanhnien.vn/toi-uu-khai-thac-du-lieu-185260113205012282.htm",
+      "summary": "Nếu như trước đây, dữ liệu được xem như thành phần phụ trong cả nền kinh tế, thì nay, cuộc cách mạng công nghệ đã mở ra quá trình số hóa nền kinh tế và dữ liệu đang ngày càng đóng vai trò quan trọng, thậm chí có thể nói là chìa khóa then chốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T21:40:00+07:00",
+      "fetched": "2026-01-14T05:13:53.999552+07:00"
+    },
+    {
+      "id": "b0227650018ec10b7ed9def5d11f7da4",
+      "title": "Bà Nguyễn Phương Hằng sẽ yêu cầu bồi thường tại tòa trong vụ Đinh Thị Lan?",
+      "link": "https://thanhnien.vn/ba-nguyen-phuong-hang-se-yeu-cau-boi-thuong-tai-toa-trong-vu-dinh-thi-lan-185260113103741318.htm",
+      "summary": "Về việc có yêu cầu bị cáo Đinh Thị Lan bồi thường danh dự, tổn thất và tinh thần hay không, cáo trạng thể hiện, luật sư theo ủy quyền của bà Nguyễn Phương Hằng sẽ trình bày tại tòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T21:20:00+07:00",
+      "fetched": "2026-01-14T05:13:53.999713+07:00"
+    },
+    {
+      "id": "8a2034eba1e7a09bf52791f2f40f79a4",
+      "title": "Từ 2026, những cán bộ, công chức nào được điều chỉnh phụ cấp chức vụ?",
+      "link": "https://thanhnien.vn/tu-2026-nhung-can-bo-cong-chuc-nao-duoc-dieu-chinh-phu-cap-chuc-vu-185260113173956117.htm",
+      "summary": "Không chỉ điều chỉnh hệ số phụ cấp chức vụ, Nghị định 07 năm 2026 còn quy định rõ việc bảo lưu phụ cấp đối với cán bộ chịu tác động của sắp xếp tổ chức bộ máy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T21:10:00+07:00",
+      "fetched": "2026-01-14T05:13:53.999867+07:00"
+    },
+    {
+      "id": "791b76e74719d760074b3cd860bcf5f4",
+      "title": "Thường xuyên bẻ khớp ngón tay có gây hại gì không?",
+      "link": "https://thanhnien.vn/thuong-xuyen-be-khop-ngon-tay-co-gay-hai-gi-khong-185260113160529994.htm",
+      "summary": "'Tôi có thói quen thường xuyên bẻ khớp các ngón tay mặc dù không mỏi. Xin hỏi bác sĩ việc bẻ khớp ngón tay thường xuyên có gây hại gì cho xương khớp không? (Hoàng Minh, 42 tuổi, Đồng Nai).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T21:07:00+07:00",
+      "fetched": "2026-01-14T05:13:54.000019+07:00"
+    },
+    {
+      "id": "0455b16d7b86f8895087cc8f1633ddbe",
+      "title": "HLV Polking: 'Đình Bắc là tương lai của bóng đá Việt Nam'",
+      "link": "https://vnexpress.net/hlv-polking-dinh-bac-la-tuong-lai-cua-bong-da-viet-nam-5005346.html",
+      "summary": "HLV CLB Công an Hà Nọi Mano Polking không bất ngờ với những gì học trò Nguyễn Đình Bắc làm được từ SEA Games 33 đến U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T21:00:00+07:00",
+      "fetched": "2026-01-14T05:13:51.052051+07:00"
+    },
+    {
+      "id": "59bf5df7af29f7723a4a31cdf2af7de2",
+      "title": "Vì sao đất nền khó 'rã băng'?",
+      "link": "https://vnexpress.net/vi-sao-dat-nen-kho-ra-bang-5005015.html",
+      "summary": "Tâm lý người mua dè dặt, nguồn cung mới thiếu hụt, cùng nhiều biến số pháp lý khiến thanh khoản đất nền phục hồi chậm, dù đây là phân khúc được một bộ phận nhà đầu tư quan tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T21:00:00+07:00",
+      "fetched": "2026-01-14T05:13:51.052213+07:00"
+    },
+    {
+      "id": "9aa98032b0a01e8a927a1556df6be4e6",
+      "title": "Cao tốc dài gần 30 km lập kỷ lục Guinness trải nhựa trong 24 giờ",
+      "link": "https://vnexpress.net/cao-toc-dai-gan-30-km-lap-ky-luc-guinness-trai-nhua-trong-24-gio-5005041.html",
+      "summary": "Đoạn đường trải nhựa dài tổng cộng 28,95 km được thi công liên tục trong vòng một ngày với 10.675 tấn vật liệu đã lập kỷ lục vào ngày 6/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T21:00:00+07:00",
+      "fetched": "2026-01-14T05:13:51.052425+07:00"
+    },
+    {
+      "id": "11e205b5f13af2bf66e3577dc242c782",
+      "title": "Cấp bách các 'siêu dự án' phục vụ APEC 2027: Vận hội lịch sử tái định vị thương hiệu du lịch Việt",
+      "link": "https://thanhnien.vn/cap-bach-cac-sieu-du-an-phuc-vu-apec-2027-van-hoi-lich-su-tai-dinh-vi-thuong-hieu-du-lich-viet-185260113221533888.htm",
+      "summary": "Theo các chuyên gia, APEC 2027 không đơn thuần chỉ là một sự kiện quốc tế lớn mà là thời cơ vàng để giới thiệu với thế giới hình ảnh một VN đang vững bước trong kỷ nguyên mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T21:00:00+07:00",
+      "fetched": "2026-01-14T05:13:54.000172+07:00"
+    },
+    {
+      "id": "5cbfd81fc24a8f986209e981050bdb41",
+      "title": "Giải bài toán 'nhân lực vàng' thất nghiệp",
+      "link": "https://thanhnien.vn/giai-bai-toan-nhan-luc-vang-that-nghiep-185260113212831146.htm",
+      "summary": "Con số hơn 1,4 triệu thanh niên \"3 không\" trong quý 4/2025 khiến nhiều người ngỡ ngàng. Thực hư đằng sau con số này là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T21:00:00+07:00",
+      "fetched": "2026-01-14T05:13:54.000349+07:00"
+    },
+    {
+      "id": "d4d3565337fe9ddcd287ee947e0438de",
+      "title": "Tự lực, tự cường để tăng vị thế xuất khẩu cho doanh nghiệp nội",
+      "link": "https://thanhnien.vn/tu-luc-tu-cuong-de-tang-vi-the-xuat-khau-cho-doanh-nghiep-noi-185260113212338801.htm",
+      "summary": "Xuất khẩu là một trong những động lực tăng trưởng, song đến nay, các kỷ lục xuất khẩu của VN đều nhờ khối ngoại (FDI). Muốn bứt phá, VN bắt buộc phải giảm phụ thuộc vào khối ngoại, xây dựng nền kinh tế tự lực, tự cường để khu vực xuất khẩu khối nội ngày càng lớn mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T21:00:00+07:00",
+      "fetched": "2026-01-14T05:13:54.000505+07:00"
+    },
+    {
+      "id": "722eb2151152df9d7f26e1910ae000ff",
+      "title": "Đột nhập nhà dân, phá khóa tủ trộm cắp vàng hơn 600 triệu đồng",
+      "link": "https://thanhnien.vn/dot-nhap-nha-dan-pha-khoa-tu-trom-cap-vang-hon-600-trieu-dong-185260113201843466.htm",
+      "summary": "Lợi dụng thời điểm gia đình vắng người, một phụ nữ đột nhập nhà dân ở xã Bà Nà (TP.Đà Nẵng), dùng búa phá khóa tủ, trộm cắp số lượng lớn vàng, sổ tiết kiệm với tổng giá trị hơn 600 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T21:00:00+07:00",
+      "fetched": "2026-01-14T05:13:54.000656+07:00"
+    },
+    {
+      "id": "0455b16d7b86f8895087cc8f1633ddbe",
+      "title": "HLV Polking: 'Đình Bắc là tương lai của bóng đá Việt Nam'",
+      "link": "https://vnexpress.net/hlv-polking-dinh-bac-la-tuong-lai-cua-bong-da-viet-nam-5005346.html",
+      "summary": "HLV CLB Công an Hà Nọi Mano Polking không bất ngờ với những gì học trò Nguyễn Đình Bắc làm được từ SEA Games 33 đến U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-13T21:00:00+07:00",
+      "fetched": "2026-01-14T05:14:02.051163+07:00"
+    },
+    {
       "id": "4a278d6ea7be1d50ed64aba921207d51",
       "title": "U.23 UAE sở hữu dàn cầu thủ nhập tịch đầy bí ẩn, U.23 Việt Nam phải đặc biệt cẩn trọng",
       "link": "https://thanhnien.vn/u23-uae-so-huu-dan-cau-thu-nhap-tich-day-bi-an-u23-viet-nam-phai-dac-biet-can-trong-185260114030443991.htm",
@@ -201,6 +451,16 @@ window.newsData_2026_01_14 = {
       "category": "Tổng hợp",
       "published": "2026-01-13T19:40:46+07:00",
       "fetched": "2026-01-14T03:14:51.386630+07:00"
+    },
+    {
+      "id": "d2ebd960103f9a7e9ee18a965198ada5",
+      "title": "Chuyến đi không có ngày về của khách tới 'nơi hạnh phúc nhất thế giới'",
+      "link": "https://vnexpress.net/chuyen-di-khong-co-ngay-ve-cua-khach-toi-noi-hanh-phuc-nhat-the-gioi-5005096.html",
+      "summary": "Du khách Anh Tim Bird không hề nghĩ hành trình ngắn ngày đến Phần Lan 40 năm trước lại trở thành chuyến đi dài nhất cuộc đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T19:40:46+07:00",
+      "fetched": "2026-01-14T05:13:51.052928+07:00"
     },
     {
       "id": "444e8b6c254fc03a43011fb3754a4b67",
