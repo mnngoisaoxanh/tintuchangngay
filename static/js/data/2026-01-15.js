@@ -1,6 +1,6 @@
 window.newsData_2026_01_15 = {
   "date": "2026-01-15",
-  "lastUpdated": "2026-01-15T01:21:14.683544+07:00",
+  "lastUpdated": "2026-01-15T03:12:54.037454+07:00",
   "articles": [
     {
       "id": "22bd45bb3ea4e7aae3298a412f6548bf",
