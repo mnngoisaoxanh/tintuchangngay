@@ -1,6 +1,6 @@
 window.newsData_2026_01_15 = {
   "date": "2026-01-15",
-  "lastUpdated": "2026-01-15T03:12:54.037454+07:00",
+  "lastUpdated": "2026-01-15T05:14:03.483296+07:00",
   "articles": [
     {
       "id": "22bd45bb3ea4e7aae3298a412f6548bf",
@@ -151,6 +151,186 @@ window.newsData_2026_01_15 = {
       "category": "Tổng hợp",
       "published": "2026-01-15T01:21:07.756896+07:00",
       "fetched": "2026-01-15T01:21:07.757118+07:00"
+    },
+    {
+      "id": "a1409e41b064f9ff54bd7e193ce9cc74",
+      "title": "Thủ tướng Nhật Bản cùng Tổng thống Hàn Quốc đệm trống cùng nhau",
+      "link": "https://thanhnien.vn/thu-tuong-nhat-ban-cung-tong-thong-han-quoc-dem-trong-cung-nhau-18526011423344269.htm",
+      "summary": "Thủ tướng Nhật Bản Sanae Takaichi và Tổng thống Hàn Quốc Lee Jae-myung đã cùng nhau chơi trống sau cuộc hội đàm tại thành phố Nara (Nhật Bản) hôm 13.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T22:12:00+07:00",
+      "fetched": "2026-01-15T05:13:53.221168+07:00"
+    },
+    {
+      "id": "377a7959b2bc48cb4f7fbe6d9d570a71",
+      "title": "Cựu Tổng thống Hàn Quốc bị đề nghị án tử hình",
+      "link": "https://thanhnien.vn/cuu-tong-thong-han-quoc-bi-de-nghi-an-tu-hinh-18526011422103716.htm",
+      "summary": "Các công tố viên Hàn Quốc ngày 13.1 đã đề nghị tòa án tuyên tử hình đối với cựu Tổng thống Yoon Suk Yeol, trong phiên tòa xét xử vụ ông Yoon ban bố thiết quân luật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T22:11:00+07:00",
+      "fetched": "2026-01-15T05:13:53.221337+07:00"
+    },
+    {
+      "id": "0bf460b2bb980f884b4ef02c45b3c5aa",
+      "title": "Mỹ xúc tiến dự án 'tuyến đường Trump' ở Armenia",
+      "link": "https://thanhnien.vn/my-xuc-tien-du-an-tuyen-duong-trump-o-armenia-185260114180128165.htm",
+      "summary": "Mỹ thông báo Armenia sẽ trao cho Washington quyền kiểm soát 75% cổ phần của doanh nghiệp quản lý tuyến hành lang vắt ngang qua Armenia, nối liền 2 phần lãnh thổ của nước láng giềng Azerbaijan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T22:06:00+07:00",
+      "fetched": "2026-01-15T05:13:53.221493+07:00"
+    },
+    {
+      "id": "f2017d2aa867b0b0265ec9b9467c8530",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 15.1.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1512026-185260114233208065.htm",
+      "summary": "Tin tức Quản thực phẩm tết thế nào?; Mướt mồ hôi với các tờ khai thuế; Tìm đâu dưỡng lão giá rẻ?... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 15.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T22:00:00+07:00",
+      "fetched": "2026-01-15T05:13:53.221645+07:00"
+    },
+    {
+      "id": "1fb24068726675dee7dd97c50e1d713d",
+      "title": "Cơ chế phi thường cho sự kiện phi thường",
+      "link": "https://thanhnien.vn/co-che-phi-thuong-cho-su-kien-phi-thuong-185260114222447658.htm",
+      "summary": "Không chỉ mang về nhiều tỉ USD, lịch sử gần 4 thập niên kể từ khi được thành lập đến nay cho thấy APEC đã biến nhiều thành phố bình thường trở thành biểu tượng khu vực. Phú Quốc đang đứng trước cơ hội lịch sử để ghi tên VN trên bản đồ du lịch thế giới nói riêng và vị thế trên trường quốc tế nói chun...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T22:00:00+07:00",
+      "fetched": "2026-01-15T05:13:53.221795+07:00"
+    },
+    {
+      "id": "677f005e15a08392dd42423a110e0910",
+      "title": "Ông Trump gia tăng sức ép đối với Iran",
+      "link": "https://thanhnien.vn/ong-trump-gia-tang-suc-ep-doi-voi-iran-185260114203330971.htm",
+      "summary": "Tổng thống Mỹ Donald Trump dọa hành động cứng rắn nếu Iran mạnh tay xử lý người biểu tình, trong khi Tehran tăng cường nỗ lực ngoại giao trong khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T22:00:00+07:00",
+      "fetched": "2026-01-15T05:13:53.221950+07:00"
+    },
+    {
+      "id": "b02557bda086a5bc512fdedc34db1b90",
+      "title": "Trì hoãn sinh hơn 8 tuần để cứu em bé trong song thai có 1 thai lưu",
+      "link": "https://thanhnien.vn/tri-hoan-sinh-hon-8-tuan-de-cuu-em-be-trong-song-thai-co-1-thai-luu-185260114190827925.htm",
+      "summary": "Các bác sĩ đã nỗ lực dưỡng thai, trì hoãn sinh hơn 8 tuần để cứu em bé còn lại trong trường hợp song thai có 1 thai lưu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T22:00:00+07:00",
+      "fetched": "2026-01-15T05:13:53.222101+07:00"
+    },
+    {
+      "id": "6dd470fef8f96920a6fe0c0487050479",
+      "title": "Tôn vinh những doanh nghiệp có định hướng phát triển bền vững",
+      "link": "https://thanhnien.vn/ton-vinh-nhung-doanh-nghiep-co-dinh-huong-phat-trien-ben-vung-185260114145011236.htm",
+      "summary": "Tại CEO Circle Forum 2026 với chủ đề 'Nghĩ lớn. Làm chuẩn - Think Big. Do It Right', diễn ra vừa qua, Ban tổ chức công bố Top 9 Next Gen CEO 2026, nhằm tôn vinh các nhà lãnh đạo kế cận tiêu biểu, có tư duy quản trị hiện đại và định hướng phát triển bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T22:00:00+07:00",
+      "fetched": "2026-01-15T05:13:53.222271+07:00"
+    },
+    {
+      "id": "794dbf53800b1f0113ce89b1480892bd",
+      "title": "Jensen Huang: \"AI quyền năng chưa tồn tại'",
+      "link": "https://vnexpress.net/jensen-huang-ai-quyen-nang-chua-ton-tai-5005333.html",
+      "summary": "Jensen Huang, ceo Nvidia, trấn an rằng thế giới còn cách rất xa trí tuệ nhân tạo quyền năng, vượt tầm kiểm soát của con người, hay còn gọi là God AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-14T22:00:00+07:00",
+      "fetched": "2026-01-15T05:14:01.581695+07:00"
+    },
+    {
+      "id": "7e92b471c3ad154b2adcf303435dbfa6",
+      "title": "Cuộc sống của em trai nghệ sĩ Vũ Linh sau biến cố sức khỏe",
+      "link": "https://thanhnien.vn/cuoc-song-cua-em-trai-nghe-si-vu-linh-sau-bien-co-suc-khoe-185260114223858387.htm",
+      "summary": "Tuy sức khỏe không tốt như trước nhưng nghệ sĩ cải lương Tiểu Linh (em trai NSƯT Vũ Linh) vẫn lên sân khấu trình diễn nhằm ủng hộ tinh thần cho cháu gái Hồng Phượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:52:00+07:00",
+      "fetched": "2026-01-15T05:13:53.222421+07:00"
+    },
+    {
+      "id": "2d6637cd5341c86e565ad2b5766c0e79",
+      "title": "Mẹ đơn thân tìm được hạnh phúc mới, từng muốn bỏ đi vì bị ghen tuông",
+      "link": "https://thanhnien.vn/me-don-than-tim-duoc-hanh-phuc-moi-tung-muon-bo-di-vi-bi-ghen-tuong-185260115010206857.htm",
+      "summary": "Hành trình hôn nhân với nhiều thăng trầm của bà Lê Thu Thủy và ông Hà Văn Mẫn được chia sẻ trong chương trình 'Mảnh ghép hoàn hảo', lên sóng trên VTV9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:49:00+07:00",
+      "fetched": "2026-01-15T05:13:53.222566+07:00"
+    },
+    {
+      "id": "4c02c79d31b521d8df5c23aff17ed476",
+      "title": "Quảng Ngãi: Băng rừng, vượt suối để đưa điện về Tu Thôn",
+      "link": "https://thanhnien.vn/quang-ngai-bang-rung-vuot-suoi-de-dua-dien-ve-tu-thon-18526011417463346.htm",
+      "summary": "Trước Tết Nguyên đán 2026, ngành điện sẽ đầu tư xây dựng lưới điện để cấp điện sinh hoạt cho khoảng 30 hộ dân ở thôn Tu Thôn, xã Măng Bút (Quảng Ngãi) sau nhiều năm không có điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:36:00+07:00",
+      "fetched": "2026-01-15T05:13:53.222711+07:00"
+    },
+    {
+      "id": "fc333eb46ecbde74ab2d8f3f8544bf54",
+      "title": "CSGT Lâm Đồng: Kéo giảm người chết do TNGT là 'chỉ tiêu hạnh phúc'",
+      "link": "https://thanhnien.vn/csgt-lam-dong-keo-giam-nguoi-chet-do-tngt-la-chi-tieu-hanh-phuc-185260114200417921.htm",
+      "summary": "Lực lượng CSGT Công an tỉnh Lâm Đồng thực hiện mục tiêu kéo giảm tai nạn giao thông (TNGT) trên cả ba tiêu chí, trong đó kéo giảm số người chết được xác định là 'chỉ tiêu hạnh phúc' của toàn lực lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:32:00+07:00",
+      "fetched": "2026-01-15T05:13:53.222859+07:00"
+    },
+    {
+      "id": "422b956d724f87709a75693076db83ca",
+      "title": "Chiến sự Ukraine ngày 1.421: Kyiv mất điện giữa mùa đông, diễn biến nóng ở biển Đen",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1421-kyiv-mat-dien-giua-mua-dong-dien-bien-nong-o-bien-den-185260114212024795.htm",
+      "summary": "Nhiều khu vực tại Kyiv bị mất điện và sưởi ấm trong cái lạnh 14 độ C, trong khi hai tàu chở dầu bị tấn công trên biển Đen khi trên đường đến một cảng của Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:30:00+07:00",
+      "fetched": "2026-01-15T05:13:53.223003+07:00"
+    },
+    {
+      "id": "1717a48118c741e79f5dfb15ee9f7e67",
+      "title": "U.23 Việt Nam sẵn sàng phá 'dớp' trước U.23 UAE",
+      "link": "https://thanhnien.vn/u23-viet-nam-san-sang-pha-dop-truoc-u23-uae-185260114230257102.htm",
+      "summary": "Chưa từng thắng UAE ở các giải trẻ trước đây, nhưng với phong độ hiện tại, U.23 VN đã sẵn sàng đảo ngược chiều quay lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:10:00+07:00",
+      "fetched": "2026-01-15T05:13:53.223169+07:00"
+    },
+    {
+      "id": "738f3e229f87e6b84217ebcbf3e574ab",
+      "title": "Nhà vô địch khẳng định sức mạnh",
+      "link": "https://thanhnien.vn/nha-vo-dich-khang-dinh-suc-manh-185260114231302695.htm",
+      "summary": "Hôm qua 14.1, đội ĐKVĐ Trường ĐH Văn hóa, Thể thao và Du lịch Thanh Hóa đã có trận ra quân thành công khi giành 3 điểm cùng màn trình diễn rất thuyết phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:08:00+07:00",
+      "fetched": "2026-01-15T05:13:53.223317+07:00"
+    },
+    {
+      "id": "926cd313ee0d9d0eb00a9737a721b371",
+      "title": "Skoda sắp có mẫu xe chủ lực tên Peaq",
+      "link": "https://vnexpress.net/skoda-sap-co-mau-xe-chu-luc-ten-peaq-5005593.html",
+      "summary": "Thương hiệu ôtô CH Czech tiết lộ mẫu SUV điện ba hàng ghế mới với định vị là sản phẩm chủ lực và lớn nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:00:00+07:00",
+      "fetched": "2026-01-15T05:13:50.083083+07:00"
+    },
+    {
+      "id": "30bcb8f5b6c53fce7b056511476ea3c1",
+      "title": "Bị khởi tố vì vào rừng trồng cần sa",
+      "link": "https://vnexpress.net/bi-khoi-to-vi-vao-rung-trong-can-sa-5005752.html",
+      "summary": "Võ Đăng Phương, 32 tuổi, bị khởi tố do trồng trái phép 763 cây cần sa trong khu rừng do Công ty Nam Tây Nguyên quản lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T20:00:00+07:00",
+      "fetched": "2026-01-15T05:13:50.083290+07:00"
     },
     {
       "id": "cbaddd3a32e039eb45614029b951dde9",
