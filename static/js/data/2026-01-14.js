@@ -1,7 +1,157 @@
 window.newsData_2026_01_14 = {
   "date": "2026-01-14",
-  "lastUpdated": "2026-01-14T17:15:56.688637+07:00",
+  "lastUpdated": "2026-01-14T19:26:36.172178+07:00",
   "articles": [
+    {
+      "id": "de3aaf410af928870f698fda95849797",
+      "title": "Vợ chồng cựu Cục trưởng An toàn thực phẩm lãnh 15 năm tù và 5 năm tù",
+      "link": "https://tuoitre.vn/vo-chong-cuu-cuc-truong-an-toan-thuc-pham-lanh-15-nam-tu-va-5-nam-tu-20260114115433818.htm",
+      "summary": "Chiều 14-1, Tòa án nhân dân TP Hà Nội tuyên phạt bà Trần Việt Nga (cựu Cục trưởng Cục An toàn thực phẩm) 15 năm tù, với cáo buộc phải chịu trách nhiệm tổng số tiền cấp dưới nhận hối lộ hơn 12 tỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.139737+07:00",
+      "fetched": "2026-01-14T19:26:28.139855+07:00"
+    },
+    {
+      "id": "893b7f667326008df7ce69e1017c0db4",
+      "title": "Giải pháp mới giúp nuôi trồng thủy sản bền vững hơn",
+      "link": "https://tuoitre.vn/giai-phap-moi-giup-nuoi-trong-thuy-san-ben-vung-hon-20260114150717969.htm",
+      "summary": "Israel thông báo đã phát triển một hệ thống AI có khả năng phát hiện cá đói bằng cách phân tích âm thanh chúng tạo ra, qua đó giúp giảm lãng phí thức ăn, bảo vệ môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.139610+07:00",
+      "fetched": "2026-01-14T19:26:28.139726+07:00"
+    },
+    {
+      "id": "bc61d244cb0d5c72c0047f9324de0241",
+      "title": "Điểm tin 18h: Giá bạc cao nhất từ trước đến nay; TP.HCM phát triển đa cực, siêu kết nối",
+      "link": "https://tuoitre.vn/diem-tin-18h-gia-bac-cao-nhat-tu-truoc-den-nay-tp-hcm-phat-trien-da-cuc-sieu-ket-noi-20260114153722004.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin 18h ngày 14-1-2026",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.139469+07:00",
+      "fetched": "2026-01-14T19:26:28.139598+07:00"
+    },
+    {
+      "id": "e7c0b52cd92d733b498e1017d9962fb5",
+      "title": "Gạt 'luật ngầm' Tết nội hay Tết ngoại: Thuận vợ thuận chồng ở đâu cũng được!",
+      "link": "https://tuoitre.vn/gat-luat-ngam-tet-noi-hay-tet-ngoai-thuan-vo-thuan-chong-o-dau-cung-duoc-20260114120515835.htm",
+      "summary": "Với các gia đình trẻ sống xa quê, việc sắp xếp vài ngày Tết ngắn ngủi sao cho hài hòa giữa hai bên gia đình không hề đơn giản. Bạn đọc liên tục chia sẻ những quan điểm khác nhau linh hoạt để giữ hòa khí, hay giữ nguyên cách luân phiên truyền thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.139342+07:00",
+      "fetched": "2026-01-14T19:26:28.139458+07:00"
+    },
+    {
+      "id": "3f37715606739a0a9aa15478088fee32",
+      "title": "Pháp cấp phép cho thuốc giải độc đầu tiên chống khủng bố sinh học",
+      "link": "https://tuoitre.vn/phap-cap-phep-cho-thuoc-giai-doc-dau-tien-chong-khung-bo-sinh-hoc-20260114150907233.htm",
+      "summary": "Ricimed là loại thuốc giải độc dựa trên kháng thể đa dòng dùng để điều trị phơi nhiễm ricin - chất độc có mức độ nguy hiểm cao hơn cyanide và có thể gây tử vong nhanh chóng khi xâm nhập vào cơ thể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.139216+07:00",
+      "fetched": "2026-01-14T19:26:28.139331+07:00"
+    },
+    {
+      "id": "2252997e28088baa083ae20d209f40a8",
+      "title": "Đến Hội An xem nghệ nhân làm gốc tre biết cười",
+      "link": "https://tuoitre.vn/den-hoi-an-xem-nghe-nhan-lam-goc-tre-biet-cuoi-20260114144725551.htm",
+      "summary": "Giữa phố cổ Hội An, nhiều du khách nán lại trước một cửa hàng nhỏ trên đường Bạch Đằng để xem những gốc tre sần sùi dần biến thành những khuôn mặt biết cười, biết trầm tư dưới đôi tay tài hoa của nghệ nhân Huỳnh Phương Đỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.139084+07:00",
+      "fetched": "2026-01-14T19:26:28.139204+07:00"
+    },
+    {
+      "id": "f80473319f885dc7d0d662f1357c068f",
+      "title": "Chủ tiệm spa ở TP.HCM trả lại 117 triệu đồng cho người đàn ông ở Hải Phòng chuyển nhầm",
+      "link": "https://tuoitre.vn/chu-tiem-spa-o-tp-hcm-tra-lai-117-trieu-dong-cho-nguoi-dan-ong-o-hai-phong-chuyen-nham-20260114170054407.htm",
+      "summary": "Ngày 14-1, chị Đoàn Thị Thanh Ý (chủ tiệm spa) cùng người chuyển tiền nhầm đã đến ngân hàng làm thủ tục chuyển trả lại số tiền 117 triệu đồng chuyển nhầm vào tài khoản công ty do chị này đứng tên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.138954+07:00",
+      "fetched": "2026-01-14T19:26:28.139068+07:00"
+    },
+    {
+      "id": "3dd239ee33419c874a85c6bba96a9bb1",
+      "title": "Geleximco muốn thoái toàn bộ vốn tại Chứng khoán An Bình",
+      "link": "https://tuoitre.vn/geleximco-muon-thoai-toan-bo-von-tai-chung-khoan-an-binh-20260114173058114.htm",
+      "summary": "Geleximco cho biết sẽ đăng ký bán thỏa thuận gần 46,37 triệu cổ phiếu ABW, tương ứng 45,85% vốn điều lệ Chứng khoán An Bình, nhằm cơ cấu lại nguồn vốn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.138829+07:00",
+      "fetched": "2026-01-14T19:26:28.138943+07:00"
+    },
+    {
+      "id": "7e2ba6a1d526901041c78f4bd0fe7f4e",
+      "title": "Vì sao Giải thưởng Văn học nghệ thuật năm 2025 trao cho tác phẩm của năm 2024?",
+      "link": "https://tuoitre.vn/vi-sao-giai-thuong-van-hoc-nghe-thuat-nam-2025-trao-cho-tac-pham-cua-nam-2024-20260114175006203.htm",
+      "summary": "Theo thông lệ, Giải thưởng Văn học nghệ thuật năm 2025 của Liên hiệp các hội Văn học Việt Nam sẽ trao cho tác phẩm ra đời năm 2025 nhưng năm nay đã trao cho cuốn sách ‘Dấu xưa lưng chừng’ của tiến sĩ Nguyễn Đăng Vũ đã xuất bản năm 2024.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.138698+07:00",
+      "fetched": "2026-01-14T19:26:28.138817+07:00"
+    },
+    {
+      "id": "131e51b15207ea971e6fa20931933112",
+      "title": "Phạt tù nhiều người trong đường dây đưa con, cháu tham gia môi giới mại dâm",
+      "link": "https://tuoitre.vn/phat-tu-nhieu-nguoi-trong-duong-day-dua-con-chau-tham-gia-moi-gioi-mai-dam-20260114170908413.htm",
+      "summary": "Tòa án nhân dân tỉnh An Giang đã tuyên phạt 9 năm tù đối với người phụ nữ cầm đầu đường dây \"môi giới mại dâm\" lớn ở An Giang. Đáng chú ý, bà này đã lôi kéo con, cháu cùng tham gia để rồi cả gia đình lãnh án tù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.138540+07:00",
+      "fetched": "2026-01-14T19:26:28.138686+07:00"
+    },
+    {
+      "id": "eab5fa7be88e45af8ecf2bf5fbf17354",
+      "title": "Trung Quốc dùng đất hiếm phát triển chất tạo màu giá rẻ, thân thiện môi trường",
+      "link": "https://tuoitre.vn/trung-quoc-dung-dat-hiem-phat-trien-chat-tao-mau-gia-re-than-thien-moi-truong-20260114151047711.htm",
+      "summary": "Các nhà khoa học Trung Quốc đã phát triển thành công chất tạo màu bằng đất hiếm có chi phí thấp, thân thiện môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.138396+07:00",
+      "fetched": "2026-01-14T19:26:28.138524+07:00"
+    },
+    {
+      "id": "3a8f64b047bcafa331b54e1da02c4f70",
+      "title": "Pháp mở lãnh sự quán tại Greenland, kêu gọi Mỹ chấm dứt gây sức ép",
+      "link": "https://tuoitre.vn/phap-mo-lanh-su-quan-tai-greenland-keu-goi-my-cham-dut-gay-suc-ep-20260114162809676.htm",
+      "summary": "Pháp tuyên bố mở lãnh sự quán tại Greenland từ tháng 2 và lên tiếng phản đối các đe dọa của Mỹ, trong bối cảnh căng thẳng quanh hòn đảo chiến lược leo thang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.138264+07:00",
+      "fetched": "2026-01-14T19:26:28.138385+07:00"
+    },
+    {
+      "id": "f9bd4170b2590405a8e0307824e169b4",
+      "title": "Vấn nạn vàng giả nổi lên giữa cơn sốt giá vàng tại Hàn Quốc",
+      "link": "https://tuoitre.vn/van-nan-vang-gia-noi-len-giua-con-sot-gia-vang-tai-han-quoc-20260114151225183.htm",
+      "summary": "Vấn nạn vàng giả đang có dấu hiệu gia tăng tại thị trường Hàn Quốc trong bối cảnh giá kim loại quý này liên tục leo thang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.138130+07:00",
+      "fetched": "2026-01-14T19:26:28.138253+07:00"
+    },
+    {
+      "id": "486c17badb18a055398a62d0b9e8169a",
+      "title": "Park Na Rae phủ nhận cáo buộc lạm quyền: 'Nếu có, tôi sẽ quỳ gối xin lỗi'",
+      "link": "https://tuoitre.vn/park-na-rae-phu-nhan-cao-buoc-lam-quyen-neu-co-toi-se-quy-goi-xin-loi-2026011418000312.htm",
+      "summary": "MC Park Na Rae lần đầu lên tiếng, bác bỏ toàn bộ cáo buộc liên quan đến bắt nạt nơi làm việc, nợ lương và các nghi vấn tài chính, khẳng định sẵn sàng chịu trách nhiệm nếu có sai phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.137986+07:00",
+      "fetched": "2026-01-14T19:26:28.138117+07:00"
+    },
+    {
+      "id": "2a5a55842cd5d65ae28fc8d381545a71",
+      "title": "Chuyển giao Bệnh viện trực thuộc Bộ Y tế cho UBND thành phố Đà Nẵng quản lý",
+      "link": "https://tuoitre.vn/chuyen-giao-benh-vien-truc-thuoc-bo-y-te-cho-ubnd-thanh-pho-da-nang-quan-ly-20260114171944785.htm",
+      "summary": "Chiều 14-1, Bộ Y tế phối hợp với UBND thành phố Đà Nẵng tổ chức Hội nghị chuyển giao nguyên trạng Bệnh viện Đa khoa Trung ương Quảng Nam từ trực thuộc Bộ Y tế về UBND thành phố Đà Nẵng quản lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T19:26:28.137776+07:00",
+      "fetched": "2026-01-14T19:26:28.137971+07:00"
+    },
     {
       "id": "a0490ed6573331279fe47fd76f294b47",
       "title": "Bí thư Hà Nội yêu cầu xây dựng kịch bản kinh tế thủ đô tăng trưởng 2 con số liên tục trong 20 năm",
@@ -451,6 +601,356 @@ window.newsData_2026_01_14 = {
       "category": "Tổng hợp",
       "published": "2026-01-14T13:21:28.265406+07:00",
       "fetched": "2026-01-14T13:21:28.265623+07:00"
+    },
+    {
+      "id": "642d59dca91c83b0b1d167b057c0a102",
+      "title": "Tài xế xe buýt đột quỵ khi đang lái xe, nhân viên phục vụ phản ứng nhanh",
+      "link": "https://thanhnien.vn/tai-xe-xe-buyt-dot-quy-khi-dang-lai-xe-nhan-vien-phuc-vu-phan-ung-nhanh-185260114174913446.htm",
+      "summary": "Tài xế xe buýt đột quỵ khi đang lái xe, nhân viên phục vụ đã nhanh trí tắt máy xe, đảm bảo an toàn cho hành khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:26:00+07:00",
+      "fetched": "2026-01-14T19:26:26.743373+07:00"
+    },
+    {
+      "id": "8b11d9078770617dde8d6970567c03c4",
+      "title": "Khởi tố người đàn ông bôi nhọ danh dự của lãnh đạo Đảng, Nhà nước",
+      "link": "https://thanhnien.vn/khoi-to-nguoi-dan-ong-boi-nho-danh-du-cua-lanh-dao-dang-nha-nuoc-185260114190701019.htm",
+      "summary": "Từ năm 2023 - 2025, ông Lê Minh Vũ (ngụ Thanh Hóa) đã sử dụng mạng xã hội đăng tải các bài viết có nội dung bôi nhọ danh dự của lãnh đạo Đảng, Nhà nước và lãnh đạo tỉnh Thanh Hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:20:00+07:00",
+      "fetched": "2026-01-14T19:26:26.743543+07:00"
+    },
+    {
+      "id": "d3a75b3c559c80d9e7a97a5826b09f41",
+      "title": "Thứ tư ngày 14.1, giải độc đắc của Vietlott cộng dồn lên hơn 22 tỉ đồng",
+      "link": "https://thanhnien.vn/thu-tu-ngay-141-giai-doc-dac-cua-vietlott-cong-don-len-hon-22-ti-dong-185260114190320849.htm",
+      "summary": "Tối 14.1, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và không ghi nhận người trúng giải độc đắc nào nên số tiền cộng dồn hiện tại hơn 22 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:20:00+07:00",
+      "fetched": "2026-01-14T19:26:26.743723+07:00"
+    },
+    {
+      "id": "6794b7fe81319a288ae5719c741e599f",
+      "title": "Từ bản lĩnh vượt khó đến khát vọng vươn mình trong kỷ nguyên mới",
+      "link": "https://thanhnien.vn/tu-ban-linh-vuot-kho-den-khat-vong-vuon-minh-trong-ky-nguyen-moi-185260114183646446.htm",
+      "summary": "Trước thềm Đại hội XIV của Đảng, Phó bí thư thường trực Đảng ủy Chính phủ, Phó thủ tướng thường trực Chính phủ Nguyễn Hòa Bình đã trả lời phỏng vấn TTXVN về kết quả nhiệm kỳ Đại hội XIII và định hướng, nhiệm vụ trọng tâm để thực hiện thắng lợi Nghị quyết Đại hội XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:17:00+07:00",
+      "fetched": "2026-01-14T19:26:26.743880+07:00"
+    },
+    {
+      "id": "c1c91ca58a476dbfcdf485482ba3264c",
+      "title": "Cận cảnh nơi diễn ra Đại hội XIV của Đảng trước ngày khai mạc",
+      "link": "https://thanhnien.vn/can-canh-noi-dien-ra-dai-hoi-xiv-cua-dang-truoc-ngay-khai-mac-185260114185354897.htm",
+      "summary": "Trung tâm Hội nghị quốc gia (Hà Nội) đã được trang trí khánh tiết, bảo đảm an ninh..., sẵn sàng đón 1.586 đại biểu về dự Đại hội XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:11:00+07:00",
+      "fetched": "2026-01-14T19:26:26.744035+07:00"
+    },
+    {
+      "id": "3d901bec6cc35bed7733819cf36c2f43",
+      "title": "Ô nhiễm không khí ở miền Bắc: Lộ diện 'thủ phạm'",
+      "link": "https://thanhnien.vn/o-nhiem-khong-khi-o-mien-bac-lo-dien-thu-pham-185260114171124945.htm",
+      "summary": "Những ngày qua, ô nhiễm không khí ở Hà Nội và các tỉnh miền Bắc như Bắc Ninh, Hưng Yên… thường xuyên ở mức xấu. Và, 'thủ phạm' gây ô nhiễm không khí vẫn là những 'gương mặt quen thuộc'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:11:00+07:00",
+      "fetched": "2026-01-14T19:26:26.744190+07:00"
+    },
+    {
+      "id": "3ba822e08a57105fa0791624e84bf3be",
+      "title": "Chó cưng sống sót sau gần 2 tháng lạc trên núi",
+      "link": "https://vnexpress.net/cho-cung-song-sot-sau-gan-2-thang-lac-tren-nui-5005722.html",
+      "summary": "Con chó tên Bami được tìm thấy nhờ sự hỗ trợ của cộng đồng sau 54 ngày lang thang trong vùng núi hoang vu North Shore ở Canada.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-14T12:06:46+07:00",
+      "fetched": "2026-01-14T19:26:29.833747+07:00"
+    },
+    {
+      "id": "66601dc51109120fec7c21586dfbf6ff",
+      "title": "Hội nghị mở rộng giới thiệu đại tướng Phan Văn Giang ứng cử ĐBQH khóa XVI",
+      "link": "https://thanhnien.vn/hoi-nghi-mo-rong-gioi-thieu-dai-tuong-phan-van-giang-ung-cu-dbqh-khoa-xvi-185260114182010524.htm",
+      "summary": "Chiều 14.1, Bộ Quốc phòng tổ chức Hội nghị lãnh đạo, chỉ huy mở rộng giới thiệu người ứng cử đại biểu Quốc hội (ĐBQH) khóa XVI đối với đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng; đại tướng Nguyễn Tân Cương, Tổng tham mưu trưởng QĐND Việt Nam, Thứ trưởng Bộ Quốc phòng và thượng tướng Lê Đức Th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:05:00+07:00",
+      "fetched": "2026-01-14T19:26:26.744346+07:00"
+    },
+    {
+      "id": "27c74e60e01d70bd29f31f8e0597549e",
+      "title": "Bộ trưởng Đào Ngọc Dung nhận Huân chương Lao động hạng ba",
+      "link": "https://thanhnien.vn/bo-truong-dao-ngoc-dung-nhan-huan-chuong-lao-dong-hang-ba-185260114174649055.htm",
+      "summary": "Với thành tích xuất sắc trong chương trình xóa nhà tạm, nhà dột nát trên phạm vi cả nước, Bộ trưởng Bộ Dân tộc - Tôn giáo Đào Ngọc Dung được trao tặng Huân chương Lao động hạng ba.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:01:00+07:00",
+      "fetched": "2026-01-14T19:26:26.744502+07:00"
+    },
+    {
+      "id": "bdc236da1745646a0e318a0330bd60d7",
+      "title": "Huế phê duyệt dự án xây cầu qua Cồn Hến 2.200 tỉ đồng",
+      "link": "https://thanhnien.vn/hue-phe-duyet-du-an-xay-cau-qua-con-hen-2200-ti-dong-185260114171247781.htm",
+      "summary": "Chủ tịch UBND TP.Huế Nguyễn Khắc Toàn đã ký quyết định phê duyệt chủ trương đầu tư dự án cầu qua Cồn Hến và đường dẫn hai đầu cầu, với kinh phí 2.200 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:01:00+07:00",
+      "fetched": "2026-01-14T19:26:26.744678+07:00"
+    },
+    {
+      "id": "790d32a94224b7677c778b519cdf0cce",
+      "title": "Chuyển giao nguyên trạng Bệnh viện đa khoa Trung ương Quảng Nam về TP.Đà Nẵng quản lý",
+      "link": "https://thanhnien.vn/chuyen-giao-nguyen-trang-benh-vien-da-khoa-trung-uong-quang-nam-ve-tpda-nang-quan-ly-185260114165314581.htm",
+      "summary": "Bộ Y tế và UBND TP.Đà Nẵng đã chính thức thực hiện bàn giao nguyên trạng Bệnh viện đa khoa Trung ương Quảng Nam về địa phương quản lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:01:00+07:00",
+      "fetched": "2026-01-14T19:26:26.744840+07:00"
+    },
+    {
+      "id": "c6d9297ce536a036472cb6f2be066599",
+      "title": "Tôi chỉ tiêu Tết 10 triệu đồng dù lương tăng từ 15 lên 35 triệu",
+      "link": "https://vnexpress.net/toi-chi-tieu-tet-10-trieu-dong-du-luong-tang-tu-15-len-35-trieu-5005686.html",
+      "summary": "5 năm trước, lương 15 triệu, tôi chỉ mang 10 triệu về quê ăn Tết. Giờ lương tăng lên 35 triệu, tôi vẫn nhất quyết không tiêu nhiều hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:00:00+07:00",
+      "fetched": "2026-01-14T19:26:23.863676+07:00"
+    },
+    {
+      "id": "b9e7ae181907d62493a230df69c9c170",
+      "title": "Tàu vũ trụ thương mại Trung Quốc bay cận quỹ đạo thành công",
+      "link": "https://vnexpress.net/tau-vu-tru-thuong-mai-trung-quoc-bay-can-quy-dao-thanh-cong-5005296.html",
+      "summary": "Lihong-1, tàu vũ trụ do công ty Trung Quốc CAS Space phát triển, hoàn thành thử nghiệm bay cận quỹ đạo và trở về Trái Đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:00:00+07:00",
+      "fetched": "2026-01-14T19:26:23.863866+07:00"
+    },
+    {
+      "id": "a22dd30d7e6da855afed8999863ec71c",
+      "title": "Dịch vụ tiêm trẻ hóa da hút khách cận Tết",
+      "link": "https://vnexpress.net/dich-vu-tiem-tre-hoa-da-hut-khach-can-tet-5005692.html",
+      "summary": "Các phương pháp tiêm trẻ hóa da như mesotherapy, PRP, botulinum toxin hay filler được nhiều người chọn để làm đẹp đón Tết do không phẫu thuật, ít xâm lấn, hiệu quả nhanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:00:00+07:00",
+      "fetched": "2026-01-14T19:26:23.864041+07:00"
+    },
+    {
+      "id": "563e87403ad5e6be2301d46ab1001bc3",
+      "title": "Chưa quan hệ có nhiễm virus HPV không?",
+      "link": "https://vnexpress.net/chua-quan-he-co-nhiem-virus-hpv-khong-5005671.html",
+      "summary": "Nếu chưa phát sinh quan hệ tình dục, thanh thiếu niên có khả năng nhiễm virus HPV không? (Kim Thư, 18 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:00:00+07:00",
+      "fetched": "2026-01-14T19:26:23.864208+07:00"
+    },
+    {
+      "id": "a935563aef9be91a76594dcf994cadc7",
+      "title": "Lựa chọn SUV Mazda cho dịp Tết",
+      "link": "https://vnexpress.net/lua-chon-suv-mazda-cho-dip-tet-5005628.html",
+      "summary": "Mazda sở hữu dải sản phẩm SUV ở nhiều phân khúc, đáp ứng đa dạng nhu cầu cho gia đình Việt, đặc biệt trong những dịp du xuân đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:00:00+07:00",
+      "fetched": "2026-01-14T19:26:23.864366+07:00"
+    },
+    {
+      "id": "5ef0b7ba82aa19acec0be2153c2b04fc",
+      "title": "Đỗ xe máy trên vỉa hè: CSGT TP.HCM ra quân, xử lý hàng loạt người vi phạm",
+      "link": "https://thanhnien.vn/do-xe-may-tren-via-he-csgt-tphcm-ra-quan-xu-ly-hang-loat-nguoi-vi-pham-185260114185438031.htm",
+      "summary": "Trong một buổi tối ra quân, CSGT TP.HCM đã xử lý hàng loạt trường hợp đỗ xe máy trên vỉa hè ở trước các quán nhậu, cà phê, quán ăn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:00:00+07:00",
+      "fetched": "2026-01-14T19:26:26.744987+07:00"
+    },
+    {
+      "id": "c562425235dc5982c7450b24edd37a8b",
+      "title": "EVF được vinh danh ‘Công ty tài chính của năm’ tại FChoice 2025",
+      "link": "https://thanhnien.vn/evf-duoc-vinh-danh-cong-ty-tai-chinh-cua-nam-tai-fchoice-2025-185260114174822738.htm",
+      "summary": "Ngày 13.1.2026, tại Lễ công bố và trao giải FChoice 2025 - Việt Nam vươn mình, do CafeF tổ chức, Công ty Tài chính tổng hợp cổ phần Điện lực (EVF) đã xuất sắc được vinh danh ở hạng mục 'Công ty tài chính của năm'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:00:00+07:00",
+      "fetched": "2026-01-14T19:26:26.745135+07:00"
+    },
+    {
+      "id": "2c8d5de48546866f90fbd6881cf3f80a",
+      "title": "Vợ chồng Cường Seven, Vũ Ngọc Anh khoe street style ấn tượng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vo-chong-cuong-seven-vu-ngoc-anh-khoe-street-style-an-tuong-185260114105334317.htm",
+      "summary": "Phong cách đường phố sang trọng 'luxury streetwear' ngày càng được nhiều nghệ sĩ trẻ ưa chuộng. Vợ chồng rapper Cường Seven - Vũ Ngọc Anh, ca sĩ Hoàng Tôn, Isac, Binz... diện áo dài suông, sơ mi, áo khoác boomber... in họa tiết độc đáo cả trên sân khấu lẫn đời thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:00:00+07:00",
+      "fetched": "2026-01-14T19:26:26.745282+07:00"
+    },
+    {
+      "id": "a42db55a2a2340383e42b8d950a3aef1",
+      "title": "Hủ Tiếu Cung Đình: Hương vị Nam bộ được kể lại bằng sản phẩm hiện đại",
+      "link": "https://thanhnien.vn/hu-tieu-cung-dinh-huong-vi-nam-bo-duoc-ke-lai-bang-san-pham-hien-dai-185260107155320291.htm",
+      "summary": "Trong dòng chảy của ẩm thực hiện đại, khi nhịp sống ngày càng nhanh, việc giữ lại \"chất\" hủ tiếu trong một hình thức tiện lợi trở thành bài toán không dễ. Với Hủ Tiếu Cung Đình Tô Đặc Biệt, Cung Đình Foods tiếp tục hành trình lan tỏa đặc trưng ẩm thực Việt, đồng thời mở ra một cách kể mới cho hương ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T12:00:00+07:00",
+      "fetched": "2026-01-14T19:26:26.745433+07:00"
+    },
+    {
+      "id": "b9e7ae181907d62493a230df69c9c170",
+      "title": "Tàu vũ trụ thương mại Trung Quốc bay cận quỹ đạo thành công",
+      "link": "https://vnexpress.net/tau-vu-tru-thuong-mai-trung-quoc-bay-can-quy-dao-thanh-cong-5005296.html",
+      "summary": "Lihong-1, tàu vũ trụ do công ty Trung Quốc CAS Space phát triển, hoàn thành thử nghiệm bay cận quỹ đạo và trở về Trái Đất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-14T12:00:00+07:00",
+      "fetched": "2026-01-14T19:26:34.355053+07:00"
+    },
+    {
+      "id": "fd568970e4500bea62dd07b8bf4185a3",
+      "title": "U.23 Việt Nam thời ông Kim lợi hại nhất điểm này: Đủ sức quật ngã U.23 UAE",
+      "link": "https://thanhnien.vn/u23-viet-nam-thoi-ong-kim-loi-hai-nhat-diem-nay-du-suc-quat-nga-u23-uae-185260114181310243.htm",
+      "summary": "Toàn thắng vòng bảng, U.23 Việt Nam tiến vào tứ kết gặp U.23 UAE với sự tự tin lớn. Theo HLV Hoàng Anh Tuấn, tính tập thể và sự đồng đều là yếu tố then chốt giúp thầy trò ông Kim Sang-sik tiếp tục 'làm nên chuyện' ở VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T11:51:00+07:00",
+      "fetched": "2026-01-14T19:26:26.745610+07:00"
+    },
+    {
+      "id": "db1d31cda229985a0124b86af9d7a696",
+      "title": "Khách lái môtô, drift ôtô trên sông băng Cáp Nhĩ Tân",
+      "link": "https://vnexpress.net/khach-lai-moto-drift-oto-tren-song-bang-cap-nhi-tan-5005156.html",
+      "summary": "Hàng nghìn du khách trong và ngoài nước đổ về sông Tùng Hoa tại Cáp Nhĩ Tân để trải nghiệm những hoạt động vui chơi, giải trí độc đáo trên mặt băng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T11:46:41+07:00",
+      "fetched": "2026-01-14T19:26:23.864523+07:00"
+    },
+    {
+      "id": "96c9350ae5611ce02af42cfbe1bd6dc6",
+      "title": "Chủ tài khoản Facebook Lê Minh Vũ bị bắt",
+      "link": "https://vnexpress.net/cong-an-bat-le-minh-vu-voi-cao-buoc-loi-dung-quyen-tu-do-dan-chu-5005730.html",
+      "summary": "Bị can Lê Minh Vũ bị cáo buộc đăng bài viết trên Facebook nhằm xâm phạm lợi ích của nhà nước, gây ảnh hưởng tiêu cực và gây nhận thức sai lệch trong dư luận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T11:32:17+07:00",
+      "fetched": "2026-01-14T19:26:23.864699+07:00"
+    },
+    {
+      "id": "c71bdb85282826d275e271b278800f64",
+      "title": "Hơn 3.300 trạm y tế ứng dụng AI trong năm 2026",
+      "link": "https://vnexpress.net/hon-3-300-tram-y-te-ung-dung-ai-trong-nam-2026-5005685.html",
+      "summary": "Bộ Y tế khởi động mạng lưới AI y tế, đặt mục tiêu đưa trí tuệ nhân tạo về hơn 3.300 trạm y tế nhằm hỗ trợ chẩn đoán, điều trị bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T11:29:56+07:00",
+      "fetched": "2026-01-14T19:26:23.864854+07:00"
+    },
+    {
+      "id": "7b3a393b9a361ec7baa1b3861f8faad6",
+      "title": "Văn kiện Đại hội XIV 'thông điệp mạnh, hành động cao'",
+      "link": "https://vnexpress.net/van-kien-dai-hoi-xiv-thong-diep-manh-hanh-dong-cao-5005684.html",
+      "summary": "GS Nguyễn Xuân Thắng đánh giá dự thảo Văn kiện Đại hội XIV phát đi thông điệp mạnh, thể hiện tinh thần hành động cao với các đột phá rõ ràng, nổi bật là xác lập mô hình tăng trưởng mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T11:09:48+07:00",
+      "fetched": "2026-01-14T19:26:23.865006+07:00"
+    },
+    {
+      "id": "66a9674bf7c177e366911c5222d99c19",
+      "title": "Cựu chánh án TAND Cấp cao tại Đà Nẵng bị bắt",
+      "link": "https://vnexpress.net/cuu-chanh-an-tand-cap-cao-tai-da-nang-bi-bat-5005725.html",
+      "summary": "Ông Nguyễn Văn Bường, cựu thẩm phán cao cấp, cựu Chánh án TAND Cấp cao tại Đà Nẵng, bị bắt với cáo buộc nhận hối lộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T11:08:55+07:00",
+      "fetched": "2026-01-14T19:26:23.865173+07:00"
+    },
+    {
+      "id": "19a90a0cc7dace3bd984d9fcc71ff8f9",
+      "title": "Lính Ukraine khoe hạ 21 UAV Nga bằng tên lửa 'Hỏa ngục'",
+      "link": "https://vnexpress.net/linh-ukraine-khoe-ha-21-uav-nga-bang-ten-lua-hoa-nguc-5005698.html",
+      "summary": "Binh sĩ Ukraine cho biết đã phá hủy 21 UAV Nga bằng tên lửa Hellfire phóng từ hệ thống phòng không tầm ngắn Tempest do Mỹ sản xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T11:08:29+07:00",
+      "fetched": "2026-01-14T19:26:23.865334+07:00"
+    },
+    {
+      "id": "19a90a0cc7dace3bd984d9fcc71ff8f9",
+      "title": "Lính Ukraine khoe hạ 21 UAV Nga bằng tên lửa 'Hỏa ngục'",
+      "link": "https://vnexpress.net/linh-ukraine-khoe-ha-21-uav-nga-bang-ten-lua-hoa-nguc-5005698.html",
+      "summary": "Binh sĩ Ukraine cho biết đã phá hủy 21 UAV Nga bằng tên lửa Hellfire phóng từ hệ thống phòng không tầm ngắn Tempest do Mỹ sản xuất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-14T11:08:29+07:00",
+      "fetched": "2026-01-14T19:26:29.833922+07:00"
+    },
+    {
+      "id": "d66d4f3e16e2afe3585d4f7afd7c7c38",
+      "title": "Phát hiện người chồng luôn yêu chiều tôi ngoại tình",
+      "link": "https://vnexpress.net/chong-ngoai-tinh-kiem-tra-dien-thoai-chong-toi-sup-do-khi-phat-hien-nguoi-chong-khong-ruou-bia-va-cham-viec-nha-lai-co-nguoi-thu-ba-5005664.html",
+      "summary": "Trong mắt tôi, đây là cuộc hôn nhân an toàn, là kiểu \"có phúc lắm mới lấy được người chồng như vậy\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T11:00:00+07:00",
+      "fetched": "2026-01-14T19:26:23.865494+07:00"
+    },
+    {
+      "id": "a01f448d951c0ca65db51e331786d2d6",
+      "title": "Chủ quan vết loét miệng, cô gái mắc ung thư lưỡi",
+      "link": "https://vnexpress.net/chu-quan-vet-loet-mieng-co-gai-mac-ung-thu-luoi-5005622.html",
+      "summary": "Chủ quan với vết loét miệng kéo dài suốt hai năm, cô gái 32 tuổi nhập viện khi khối u đã xâm lấn gần toàn bộ lưỡi, buộc bác sĩ phải phẫu thuật lớn và tái tạo lưỡi bằng vi phẫu phức tạp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T11:00:00+07:00",
+      "fetched": "2026-01-14T19:26:23.865682+07:00"
+    },
+    {
+      "id": "107da9c35fdc41a720568a90065dd1c3",
+      "title": "4 dưỡng chất trẻ thường thiếu hụt",
+      "link": "https://vnexpress.net/4-duong-chat-tre-thuong-thieu-hut-5005616.html",
+      "summary": "Chế độ ăn thiếu đa dạng, không tiếp xúc với ánh nắng khiến trẻ thường thiếu vitamin D, chất béo tốt, iốt, ảnh hưởng đến sự phát triển não bộ, thể chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T11:00:00+07:00",
+      "fetched": "2026-01-14T19:26:23.865848+07:00"
+    },
+    {
+      "id": "bac0b822655ee8587f115f38a04bd6d1",
+      "title": "Thái Lan 0-0 Trung Quốc (H1): Đại diện Đông Nam Á lấn lướt",
+      "link": "https://vnexpress.net/u23-thai-lan-v-u23-trung-quoc-5005690.html",
+      "summary": "Thái Lan tranh vé vào tứ kết với Trung Quốc ở lượt cuối bảng D U23 châu Á 2026, trên sân Al Shabab tại Arab Saudi, tối nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:56:35+07:00",
+      "fetched": "2026-01-14T19:26:23.866004+07:00"
+    },
+    {
+      "id": "bac0b822655ee8587f115f38a04bd6d1",
+      "title": "Thái Lan 0-0 Trung Quốc (H1): Thẻ vàng liên tiếp",
+      "link": "https://vnexpress.net/u23-thai-lan-v-u23-trung-quoc-5005690.html",
+      "summary": "Thái Lan tranh vé vào tứ kết với Trung Quốc ở lượt cuối bảng D U23 châu Á 2026, trên sân Al Shabab tại Arab Saudi, tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-14T10:56:35+07:00",
+      "fetched": "2026-01-14T19:26:36.160415+07:00"
+    },
+    {
+      "id": "6579a0e2e8bc89c09826c3dd4075227e",
+      "title": "Boeing thắng cuộc đua đơn hàng máy bay năm 2025",
+      "link": "https://vnexpress.net/boeing-thang-cuoc-dua-don-hang-may-bay-nam-2025-5005666.html",
+      "summary": "Lần đầu tiên kể từ năm 2018, hãng sản xuất máy bay Mỹ Boeing nhận nhiều đơn hàng hơn Airbus, với hơn 1.100 phi cơ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-14T10:38:43+07:00",
+      "fetched": "2026-01-14T19:26:31.247667+07:00"
     },
     {
       "id": "fdd52251fb355cc25d58691a081349d2",
@@ -1801,6 +2301,16 @@ window.newsData_2026_01_14 = {
       "category": "Kinh doanh",
       "published": "2026-01-14T05:03:49+07:00",
       "fetched": "2026-01-14T13:21:31.182363+07:00"
+    },
+    {
+      "id": "122acdfe521186ab6e2ed91bd7daca17",
+      "title": "Trung Quốc thặng dư thương mại kỷ lục hơn 1.100 tỷ USD năm 2025",
+      "link": "https://vnexpress.net/trung-quoc-thang-du-thuong-mai-ky-luc-hon-1-100-ty-usd-nam-2025-5005488.html",
+      "summary": "Bất chấp sức ép từ thuế nhập khẩu của Mỹ, Trung Quốc vẫn đạt thặng dư thương mại kỷ lục 1.189 tỷ USD năm 2025.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-14T05:03:49+07:00",
+      "fetched": "2026-01-14T19:26:31.248478+07:00"
     },
     {
       "id": "8bf8fb753fba15ae8777bea82aec7271",
