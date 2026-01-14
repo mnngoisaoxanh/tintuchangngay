@@ -1,7 +1,157 @@
 window.newsData_2026_01_14 = {
   "date": "2026-01-14",
-  "lastUpdated": "2026-01-14T08:03:19.816895+07:00",
+  "lastUpdated": "2026-01-14T10:29:07.897513+07:00",
   "articles": [
+    {
+      "id": "fdd52251fb355cc25d58691a081349d2",
+      "title": "Yêu cầu giáo viên phải vận động học sinh tham gia ngoại khóa, Sở Giáo dục TP.HCM nói gì?",
+      "link": "https://tuoitre.vn/yeu-cau-giao-vien-phai-van-dong-hoc-sinh-tham-gia-ngoai-khoa-so-giao-duc-tp-hcm-noi-gi-20260114094706941.htm",
+      "summary": "Về vụ việc Trường tiểu học Lê Văn Tám, phường Phú Thọ Hòa, TP.HCM yêu cầu giáo viên phải vận động học sinh tham gia ngoại khóa, Sở Giáo dục và Đào tạo TP.HCM đã lên tiếng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.816957+07:00",
+      "fetched": "2026-01-14T10:28:59.817066+07:00"
+    },
+    {
+      "id": "6e99a9ccc12558d702b275cd094d0cce",
+      "title": "Giao ACV làm chủ đầu tư giai đoạn 2 của dự án sân bay Long Thành",
+      "link": "https://tuoitre.vn/giao-acv-lam-chu-dau-tu-giai-doan-2-cua-du-an-san-bay-long-thanh-20260114094852553.htm",
+      "summary": "Bộ trưởng Bộ Xây dựng vừa ban hành quyết định giao Tổng công ty Cảng hàng không Việt Nam (ACV)  làm chủ đầu tư giai đoạn 2 dự án sân bay Long Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.816842+07:00",
+      "fetched": "2026-01-14T10:28:59.816947+07:00"
+    },
+    {
+      "id": "53b0b44eaa0a69da6f39d8154eb0fb7c",
+      "title": "Amway Việt Nam được vinh danh tại Tech Awards 2025",
+      "link": "https://tuoitre.vn/amway-viet-nam-duoc-vinh-danh-tai-tech-awards-2025-20260112110950134.htm",
+      "summary": "Amway Việt Nam vừa được vinh danh ‘Thương hiệu Máy lọc nước nổi bật của năm’ tại Tech Awards 2025 với sản phẩm New eSpring™ và top 5 Thương hiệu gia dụng của năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.816735+07:00",
+      "fetched": "2026-01-14T10:28:59.816833+07:00"
+    },
+    {
+      "id": "bac78e16b080270db67ed143f3cff3ec",
+      "title": "'Con kể ba nghe': Sau tất cả, cái ôm của bố là điều con cần",
+      "link": "https://tuoitre.vn/con-ke-ba-nghe-sau-tat-ca-cai-om-cua-bo-la-dieu-con-can-20260113114111311.htm",
+      "summary": "Với 'Con kể ba nghe', điện ảnh Việt chào đón bộ phim tâm lý gia đình lấy bối cảnh nghề xiếc, loại hình nghệ thuật hiếm khi được khai thác trên màn ảnh rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.816630+07:00",
+      "fetched": "2026-01-14T10:28:59.816726+07:00"
+    },
+    {
+      "id": "3d0593398139602461d0e89379ca41ea",
+      "title": "Những gương mặt thời gian",
+      "link": "https://tuoitre.vn/nhung-guong-mat-thoi-gian-20260101093518485.htm",
+      "summary": "Nhiếp ảnh gia người Pháp Nicolas Cornet đã có gần 40 năm dõi theo những khuôn mặt con người Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.816526+07:00",
+      "fetched": "2026-01-14T10:28:59.816621+07:00"
+    },
+    {
+      "id": "4215f06d39ace03bc140637f8f317634",
+      "title": "Jude Bellingham tố truyền thông dối trá, đưa thông tin sai sự thật",
+      "link": "https://tuoitre.vn/jude-bellingham-to-truyen-thong-doi-tra-dua-thong-tin-sai-su-that-2026011409571943.htm",
+      "summary": "Tiền vệ Jude Bellingham vừa thẳng thừng chỉ trích truyền thông vì tung tin sai sự thật nhằm đổ lỗi cho các cầu thủ Real Madrid trong sự ra đi của HLV Alonso.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.816421+07:00",
+      "fetched": "2026-01-14T10:28:59.816517+07:00"
+    },
+    {
+      "id": "6fc9a578a0d430d521d20ed47a33d677",
+      "title": "Bóng đá Việt Nam được lấy làm gương cho Trung Quốc, Thái Lan, Malaysia",
+      "link": "https://tuoitre.vn/bong-da-viet-nam-duoc-lay-lam-guong-cho-trung-quoc-thai-lan-malaysia-20260113171415304.htm",
+      "summary": "Nhiều nhân vật tên tuổi, truyền thông cùng dư luận các nước Trung Quốc, Thái Lan và Malaysia cho rằng nền bóng đá nước nhà nên học theo mô hình của bóng đá Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.816317+07:00",
+      "fetched": "2026-01-14T10:28:59.816412+07:00"
+    },
+    {
+      "id": "99cc4210388928c71c46e34e6f514cc8",
+      "title": "Tin vào tuyển U23 Việt Nam",
+      "link": "https://tuoitre.vn/tin-vao-tuyen-u23-viet-nam-20260114095942528.htm",
+      "summary": "Chiến thắng chủ nhà U23 Saudi Arabia ở lượt cuối bảng A Giải U23 châu Á 2026 rạng sáng 13-1 đã giúp tuyển U23 Việt Nam lần đầu tiên vào tứ kết với ngôi nhất bảng cùng 9 điểm tuyệt đối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.816210+07:00",
+      "fetched": "2026-01-14T10:28:59.816307+07:00"
+    },
+    {
+      "id": "60ab533df6aa165e733a85b62df76ff6",
+      "title": "Ứng dụng 'Bạn đã chết chưa?' gây sốt tại Trung Quốc",
+      "link": "https://tuoitre.vn/ung-dung-ban-da-chet-chua-gay-sot-tai-trung-quoc-20260114094434513.htm",
+      "summary": "Ứng dụng được thiết kế nhằm đảm bảo an toàn cho những người phải sống một mình, đặc biệt là người cao tuổi. Tại thị trường quốc tế, ứng dụng này được phát hành với tên gọi Demumu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.816104+07:00",
+      "fetched": "2026-01-14T10:28:59.816201+07:00"
+    },
+    {
+      "id": "5d2104960c9f6169a7f88582088724b8",
+      "title": "Xác minh tin người biểu tình ở Minneapolis được trả tiền để phản đối ICE",
+      "link": "https://tuoitre.vn/thuc-hu-tin-nguoi-bieu-tinh-o-minneapolis-duoc-tra-tien-de-phan-doi-ice-20260114100503828.htm",
+      "summary": "Một đoạn video lan truyền rộng rãi trên mạng xã hội đã gây xôn xao khi được cho là ghi lại cảnh một người đàn ông ở Minneapolis thừa nhận được trả 20 USD mỗi giờ để tham gia biểu tình phản đối ICE.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.815998+07:00",
+      "fetched": "2026-01-14T10:28:59.816095+07:00"
+    },
+    {
+      "id": "3b6b33d2ff5449be5f71c45fafd79924",
+      "title": "Nông dân lái hàng trăm máy kéo vào Paris biểu tình, nấu ăn trước Quốc hội Pháp",
+      "link": "https://tuoitre.vn/nong-dan-lai-hang-tram-may-keo-vao-paris-bieu-tinh-nau-an-truoc-quoc-hoi-phap-20260114100153195.htm",
+      "summary": "Nông dân Pháp đã lái hàng trăm máy kéo vào thủ đô Paris để biểu tình, phản ánh sự bất mãn sâu sắc đang bao trùm ngành nông nghiệp Pháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.815878+07:00",
+      "fetched": "2026-01-14T10:28:59.815988+07:00"
+    },
+    {
+      "id": "2b41a3b430eab78d010da9084c2135f6",
+      "title": "Tốc độ đi bộ lý tưởng để kéo dài tuổi thọ",
+      "link": "https://tuoitre.vn/toc-do-di-bo-ly-tuong-de-keo-dai-tuoi-tho-20260114101237265.htm",
+      "summary": "Một kết quả nghiên cứu được công bố trên British Journal of Sport Medicine cho thấy nếu đi bộ 111 phút mỗi ngày với tốc độ này, họ có thể kéo dài tuổi thọ thêm 11 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.815772+07:00",
+      "fetched": "2026-01-14T10:28:59.815868+07:00"
+    },
+    {
+      "id": "c493ccafe5787619cf31de509a58da4f",
+      "title": "Một tác giả truyện tranh nổi tiếng với 'tiếng cười châm biếm' vừa qua đời",
+      "link": "https://tuoitre.vn/mot-tac-gia-truyen-tranh-noi-tieng-voi-tieng-cuoi-cham-biem-vua-qua-doi-20260114095429826.htm",
+      "summary": "Scott Adams - tác giả bộ truyện tranh văn phòng châm biếm đình đám 'Dilbert' vừa qua đời ở tuổi 68 sau thời gian chống chọi với ung thư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.815661+07:00",
+      "fetched": "2026-01-14T10:28:59.815762+07:00"
+    },
+    {
+      "id": "ad4b14140324fc73440181afef84c4ea",
+      "title": "Khi học sinh tiểu học luyện thi IELTS",
+      "link": "https://tuoitre.vn/khi-hoc-sinh-tieu-hoc-luyen-thi-ielts-20260114094716566.htm",
+      "summary": "Chứng chỉ IELTS gần đây được chú ý trong xét tuyển ĐH, tuyển sinh lớp 10, du học... đã tạo nên sức hút và mối quan tâm lớn khiến nhiều phụ huynh đổ xô cho con luyện thi chứng chỉ này ngay từ bậc tiểu học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.815541+07:00",
+      "fetched": "2026-01-14T10:28:59.815650+07:00"
+    },
+    {
+      "id": "1f081d57c260f58282e253edb2dda799",
+      "title": "Buổi học giữa không gian sáng tạo",
+      "link": "https://tuoitre.vn/buoi-hoc-giua-khong-gian-sang-tao-20260114095454256.htm",
+      "summary": "Không bảng đen hay phấn trắng, buổi học của học sinh với robot, máy in 3D cùng những trạm trải nghiệm công nghệ sinh động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:28:59.815321+07:00",
+      "fetched": "2026-01-14T10:28:59.815528+07:00"
+    },
     {
       "id": "3ce5ca6c333238a325270d0a9786cf63",
       "title": "Thời tiết hôm nay 14-1: Cả nước nắng, nhiều nơi lạnh giá",
@@ -123,6 +273,36 @@ window.newsData_2026_01_14 = {
       "fetched": "2026-01-14T05:13:54.972214+07:00"
     },
     {
+      "id": "c7d4bff82a1c62dce3612598d7d58a13",
+      "title": "Đồng Tháp: Nam sinh lớp 12 đâm hàng xóm trọng thương vì ca hát ồn ào",
+      "link": "https://thanhnien.vn/dong-thap-nam-sinh-lop-12-dam-hang-xom-trong-thuong-vi-ca-hat-on-ao-185260113205249906.htm",
+      "summary": "Bức xúc vì hàng xóm tổ chức ăn nhậu, ca hát ồn ào, một nam sinh lớp 12 tại Đồng Tháp đã cầm dao tấn công khiến một người trọng thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:27:00+07:00",
+      "fetched": "2026-01-14T10:28:58.899158+07:00"
+    },
+    {
+      "id": "374674923221053e8926689dde500ee9",
+      "title": "Nguyên tắc phòng ngự của U23 Việt Nam thời Kim Sang-sik",
+      "link": "https://vnexpress.net/nguyen-tac-phong-ngu-cua-u23-viet-nam-thoi-kim-sang-sik-5005431.html",
+      "summary": "Bên cạnh sự xuất sắc của thủ thành Trần Trung Kiên và phần nào là may mắn, thành tích toàn thắng của Việt Nam ở vòng bảng giải U23 châu Á 2026 đến từ một yếu tố quan trọng là kỷ luật chiến thuật phòng ngự.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-14T03:24:36+07:00",
+      "fetched": "2026-01-14T10:29:07.891019+07:00"
+    },
+    {
+      "id": "eae50b2db4552b54a3e65f363e3a1abf",
+      "title": "Trọng thể lễ viếng đại tướng Lê Văn Dũng",
+      "link": "https://thanhnien.vn/trong-the-le-vieng-dai-tuong-le-van-dung-185260114093346062.htm",
+      "summary": "Trong suốt cuộc đời cách mạng, đại tướng Lê Văn Dũng luôn giữ vững khí tiết, phẩm chất của người chiến sĩ cộng sản, người lãnh đạo quân đội mẫu mực, tận tâm, tận lực, hết lòng vì nước, vì dân, vì sự nghiệp cách mạng của Đảng, Nhà nước, quân đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:20:00+07:00",
+      "fetched": "2026-01-14T10:28:58.899309+07:00"
+    },
+    {
       "id": "eeb25c54ba359a7a2c369f2cf09e0c0a",
       "title": "Cựu binh sĩ Mỹ gốc Hoa bị kết án 16 năm tù vì bán bí mật quân sự cho Trung Quốc",
       "link": "https://tuoitre.vn/cuu-binh-si-my-goc-hoa-bi-ket-an-16-nam-tu-vi-ban-bi-mat-quan-su-cho-trung-quoc-20260114002355634.htm",
@@ -131,6 +311,326 @@ window.newsData_2026_01_14 = {
       "category": "Tổng hợp",
       "published": "2026-01-14T03:14:55.899731+07:00",
       "fetched": "2026-01-14T03:14:55.899895+07:00"
+    },
+    {
+      "id": "f1b91a948f88e059f3512acfa0622e27",
+      "title": "Tổng thống Hàn cùng Thủ tướng Nhật chơi trống",
+      "link": "https://vnexpress.net/tong-thong-han-cung-thu-tuong-nhat-choi-trong-5005437.html",
+      "summary": "Tổng thống Lee Jae-myung cùng chơi trống với Thủ tướng Sanae Takaichi sau cuộc gặp thượng đỉnh, cho thấy mối quan hệ thân thiết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-14T03:14:06+07:00",
+      "fetched": "2026-01-14T10:29:01.098591+07:00"
+    },
+    {
+      "id": "8a1a212834eeb10c99c81b141a6c7789",
+      "title": "Chú chó 'chiếm sóng' khi nhảy cẫng ăn mừng bàn thắng của Đình Bắc đội U.23 Việt Nam",
+      "link": "https://thanhnien.vn/chu-cho-chiem-song-khi-nhay-cang-an-mung-ban-thang-cua-dinh-bac-doi-u23-viet-nam-185260114094452353.htm",
+      "summary": "Khoảnh khắc chú chó nhảy cẫng ăn mừng bàn thắng của Đình Bắc trong trận U.23 Việt Nam gặp U.23 Ả Rập Xê Út vừa qua khiến dân mạng bật cười vì quá dễ thương",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:09:00+07:00",
+      "fetched": "2026-01-14T10:28:58.899449+07:00"
+    },
+    {
+      "id": "d21e52aa044485e0835183892035b516",
+      "title": "Thủ tướng Nhật Bản cùng Tổng thống Hàn Quốc chơi trống",
+      "link": "https://thanhnien.vn/thu-tuong-nhat-ban-cung-tong-thong-han-quoc-choi-trong-185260114092836406.htm",
+      "summary": "Thủ tướng Nhật Bản Takaichi Sanae và Tổng thống Hàn Quốc Lee Jae Myung đã cùng nhau chơi trống sau cuộc hội đàm tại thành phố Nara (Nhật Bản) hôm 13.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:09:00+07:00",
+      "fetched": "2026-01-14T10:28:58.899579+07:00"
+    },
+    {
+      "id": "5867b9b365437e06eda822a614c3ca31",
+      "title": "Ông Trump dọa tước quốc tịch người nhập cư phạm tội lừa đảo",
+      "link": "https://thanhnien.vn/ong-trump-doa-tuoc-quoc-tich-nguoi-nhap-cu-pham-toi-lua-dao-185260114093333922.htm",
+      "summary": "Tổng thống Mỹ Donald Trump tuyên bố sẽ hủy tư cách công dân của những người nhập tịch bị kết tội lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:06:00+07:00",
+      "fetched": "2026-01-14T10:28:58.899705+07:00"
+    },
+    {
+      "id": "1ff0d834623c5b61074ba9802bcdde04",
+      "title": "Việt Nam chưa từng thắng UAE ở cấp U23",
+      "link": "https://vnexpress.net/viet-nam-chua-tung-thang-uae-o-cap-u23-5005434.html",
+      "summary": "Việt Nam hướng tới lần đầu thắng UAE khi hai đội gặp nhau lần thứ chín, ở tứ kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-14T03:04:15+07:00",
+      "fetched": "2026-01-14T10:29:07.891176+07:00"
+    },
+    {
+      "id": "bce2968ba0a9b287c3d5f691b02f6c9c",
+      "title": "Mỹ sẽ kiểm soát cổ phần của ¾ hành lang lãnh thổ giữa Armenia - Azerbaijan",
+      "link": "https://thanhnien.vn/my-se-kiem-soat-co-phan-cua-hanh-lang-lanh-tho-giua-armenia-azerbaijan-185260114092541523.htm",
+      "summary": "Mỹ thông báo Armenia sẽ trao cho Washington quyền kiểm soát cổ phần bao trùm gần ¾ hành lang nối liền lãnh thổ nước này với láng giềng Azerbaijan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:03:00+07:00",
+      "fetched": "2026-01-14T10:28:58.899831+07:00"
+    },
+    {
+      "id": "5718e2f2b462313640d215ed6799b818",
+      "title": "Chính trị gia Thái Lan đề xuất cho phép phụ nữ lấy 4 chồng",
+      "link": "https://vnexpress.net/chinh-tri-gia-thai-lan-de-xuat-cho-phep-phu-nu-lay-4-chong-5005379.html",
+      "summary": "Ông Mongkolkit, ứng viên đảng Thai Alternative tranh cử chức thủ tướng Thái Lan, đề xuất cho phụ nữ lấy tới 4 chồng nhằm thúc đẩy bình đẳng giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-14T03:00:48+07:00",
+      "fetched": "2026-01-14T10:29:01.098743+07:00"
+    },
+    {
+      "id": "d26336d1f69f2c6745ae56b4f3607fe2",
+      "title": "Ứng cử viên thủ tướng Thái Lan đề xuất '1 vợ 4 chồng'",
+      "link": "https://thanhnien.vn/ung-cu-vien-thu-tuong-thai-lan-de-xuat-1-vo-4-chong-185260114094240424.htm",
+      "summary": "Một ứng cử viên thủ tướng Thái Lan đã gây làn sóng tranh luận dữ dội sau khi đưa ra đề xuất cho phép mỗi phụ nữ có tối đa 4 người chồng, với điều kiện tất cả các bên liên quan đều đồng thuận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:00:00+07:00",
+      "fetched": "2026-01-14T10:28:58.899972+07:00"
+    },
+    {
+      "id": "86f1ee8f85e2d9cc3fb12c2915e17fc5",
+      "title": "Áo tay lửng với muôn kiểu biến hóa, làm chủ môi trường công sở",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-tay-lung-voi-muon-kieu-bien-hoa-lam-chu-moi-truong-cong-so-185260113100311583.htm",
+      "summary": "Không quá kín đáo như áo tay dài, cũng chẳng quá phóng khoáng như áo sát nách, áo tay lửng chính là lựa chọn 'vừa đủ' để phái đẹp chinh phục môi trường công sở hiện đại. Với độ dài tay áo vừa phải, áo tay lửng mang đến sự thoải mái trong suốt ngày dài làm việc mà vẫn giữ trọn nét thanh lịch cần có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:00:00+07:00",
+      "fetched": "2026-01-14T10:28:58.900099+07:00"
+    },
+    {
+      "id": "67c37603fb596dc95c20d547a99e0407",
+      "title": "Thiếu tá công an dẫn đường cho xe chở sản phụ chuyển dạ đi cấp cứu",
+      "link": "https://thanhnien.vn/thieu-ta-cong-an-dan-duong-cho-xe-cho-san-phu-chuyen-da-di-cap-cuu-185260114092554531.htm",
+      "summary": "Lực lượng cảnh sát giao thông trên tuyến cao tốc tại Quảng Trị vừa hỗ trợ một sản phụ chuyển dạ đến bệnh viện và sinh nở thành công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:58:00+07:00",
+      "fetched": "2026-01-14T10:28:58.900225+07:00"
+    },
+    {
+      "id": "1d316e69d368ab57bb7d73abd499693d",
+      "title": "Công an TP.HCM bắt nhóm trộm rùa của chùa Triêm Phước",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-nhom-trom-rua-cua-chua-triem-phuoc-18526011409310059.htm",
+      "summary": "Không có tiền tiêu xài, nhóm 4 người rủ nhau vào chùa Triêm Phước (TP.HCM) trộm nhiều rùa đem bán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:54:00+07:00",
+      "fetched": "2026-01-14T10:28:58.900351+07:00"
+    },
+    {
+      "id": "b206caf656df1d0e104093df270c0411",
+      "title": "Người lớn tuổi ăn ít dần: Bác sĩ gợi ý chế độ ăn giúp lão hóa khỏe mạnh",
+      "link": "https://thanhnien.vn/nguoi-lon-tuoi-an-it-dan-bac-si-goi-y-che-do-an-giup-lao-hoa-khoe-manh-185260114095359914.htm",
+      "summary": "Sau tuổi 50, nhu cầu năng lượng của cơ thể giảm dần. Dinh dưỡng hợp lý giai đoạn này sẽ giúp duy trì thể chất, tinh thần ổn định và góp phần phòng ngừa nhiều vấn đề sức khỏe ở người lớn tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:53:00+07:00",
+      "fetched": "2026-01-14T10:28:58.900480+07:00"
+    },
+    {
+      "id": "a4c31e4e1ff8152d1cdbaf265596787f",
+      "title": "TP HCM tổng rà soát đất công bỏ trống làm vườn hoa, công viên",
+      "link": "https://vnexpress.net/tp-hcm-tong-ra-soat-dat-cong-bo-trong-lam-vuon-hoa-cong-vien-5005409.html",
+      "summary": "Thành phố sẽ kiểm kê toàn bộ đất công đang bỏ trống hoặc sử dụng kém hiệu quả, kể cả dự án chậm triển khai để làm vườn hoa, công viên tạm và không gian công cộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:39:55+07:00",
+      "fetched": "2026-01-14T10:28:55.677836+07:00"
+    },
+    {
+      "id": "0abedd98228aa9ad8ac4b20b163a03e5",
+      "title": "Tháng nào ngắn nhất trong năm?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-thang-nao-ngan-nhat-trong-nam-5003593.html",
+      "summary": "Nghe tưởng dễ như đếm ngày trong tháng, nhưng câu hỏi này lại khiến nhiều người bật cười khi biết đáp án.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:30:00+07:00",
+      "fetched": "2026-01-14T10:28:55.678006+07:00"
+    },
+    {
+      "id": "b436a6e926d1af0771bdf0e1399d06ee",
+      "title": "Điểm mặt những 'thủ phạm' gây ô nhiễm không khí miền Bắc",
+      "link": "https://thanhnien.vn/diem-mat-nhung-thu-pham-gay-o-nhiem-khong-khi-mien-bac-18526011408195612.htm",
+      "summary": "Những ngày qua, ô nhiễm không khí ở Hà Nội và các tỉnh miền Bắc như Bắc Ninh, Hưng Yên… thường xuyên ở mức xấu. Và, 'thủ phạm' gây ô nhiễm không khí vẫn là những 'gương mặt quen thuộc' như đốt rác, xây dựng, giao thông...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:28:00+07:00",
+      "fetched": "2026-01-14T10:28:58.900612+07:00"
+    },
+    {
+      "id": "07cbc798999b1475f3b176501df294ae",
+      "title": "Đồng Nai: Bắt đối tượng truy nã nguy hiểm sau thời gian lẩn trốn ở Campuchia",
+      "link": "https://thanhnien.vn/dong-nai-bat-doi-tuong-truy-na-nguy-hiem-sau-thoi-gian-lan-tron-o-campuchia-185260114085658937.htm",
+      "summary": "Sau khi chém người gây thương tích tại một quán karaoke tại Đồng Nai, Lê Phước Hiệp đã trốn truy nã qua Campuchia nhưng bị bắt giữ ngay khi vừa trở về Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:27:00+07:00",
+      "fetched": "2026-01-14T10:28:58.900741+07:00"
+    },
+    {
+      "id": "38c83e8dc1e94e3d82a578e37c554b6f",
+      "title": "Tổng duyệt công tác tổ chức phục vụ Đại hội XIV",
+      "link": "https://vnexpress.net/tong-duyet-cong-tac-to-chuc-phuc-vu-dai-hoi-14-5005388.html",
+      "summary": "Sáng 14/1, hàng trăm phương tiện tham gia tổng duyệt công tác tổ chức phục vụ Đại hội Đảng toàn quốc lần thứ XIV tại Trung tâm Hội nghị Quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:20:34+07:00",
+      "fetched": "2026-01-14T10:28:55.678147+07:00"
+    },
+    {
+      "id": "ee12e661be2608d2fd592902067a6d06",
+      "title": "Ấn Độ truy tìm voi giết 22 người",
+      "link": "https://vnexpress.net/an-do-truy-tim-voi-giet-22-nguoi-5005389.html",
+      "summary": "Voi đực một ngà tấn công nhiều làng mạc ở miền đông Ấn Độ, khiến 22 người chết, buộc giới chức mở chiến dịch truy lùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:18:52+07:00",
+      "fetched": "2026-01-14T10:28:55.678281+07:00"
+    },
+    {
+      "id": "ee12e661be2608d2fd592902067a6d06",
+      "title": "Ấn Độ truy tìm voi giết 22 người",
+      "link": "https://vnexpress.net/an-do-truy-tim-voi-giet-22-nguoi-5005389.html",
+      "summary": "Voi đực một ngà tấn công nhiều làng mạc ở miền đông Ấn Độ, khiến 22 người chết, buộc giới chức mở chiến dịch truy lùng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-14T02:18:52+07:00",
+      "fetched": "2026-01-14T10:29:01.098885+07:00"
+    },
+    {
+      "id": "7c7caed501696b0923e30931c4f7724a",
+      "title": "Chiều nay tuyên án 2 cựu cục trưởng nhận hối lộ hơn 52 tỉ đồng",
+      "link": "https://thanhnien.vn/chieu-nay-tuyen-an-2-cuu-cuc-truong-nhan-hoi-lo-hon-52-ti-dong-185260114084242953.htm",
+      "summary": "2 cựu cục trưởng Nguyễn Thanh Phong và Trần Việt Nga bị cáo buộc nhận hối lộ tổng số tiền hơn 52 tỉ đồng trong vụ bê bối cấp phép an toàn thực phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:15:00+07:00",
+      "fetched": "2026-01-14T10:28:58.900865+07:00"
+    },
+    {
+      "id": "571805c211886ef8cdbf884e4640d312",
+      "title": "Liên tiếp vào tứ kết U.23 châu Á, U.23 Việt Nam có cơ hội lớn giành vé Olympic 2028",
+      "link": "https://thanhnien.vn/lien-tiep-vao-tu-ket-u23-chau-a-u23-viet-nam-co-co-hoi-lon-gianh-ve-olympic-2028-185260114085936828.htm",
+      "summary": "U.23 Việt Nam có lần thứ 3 liên tiếp vào tứ kết U.23 châu Á, thành tích quá ấn tượng này giúp đội chắc chắn sẽ ở một vị trí thuận lợi tại giải đấu vào năm 2028, khi bước vào mục tiêu chinh phục suất dự Olympic.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:05:00+07:00",
+      "fetched": "2026-01-14T10:28:58.901002+07:00"
+    },
+    {
+      "id": "2e41d696a058569b61c2201693daf2f0",
+      "title": "Công ty trả tiền để nhân viên đi chơi với bạn",
+      "link": "https://vnexpress.net/cong-ty-tra-tien-de-nhan-vien-di-choi-voi-ban-5005348.html",
+      "summary": "Để nhân viên bớt cô đơn, một công ty dược phẩm cho phép họ dùng giờ làm việc để đi gặp gỡ bạn bè, đồng thời cấp thêm 100 USD tiêu vặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:00:18+07:00",
+      "fetched": "2026-01-14T10:28:55.678414+07:00"
+    },
+    {
+      "id": "f26b048b4e4cd9725573fed8b7aa3094",
+      "title": "Sở hữu nhiều tài sản nhưng tôi vẫn chông chênh vì công việc không thuận lợi",
+      "link": "https://vnexpress.net/kinh-doanh-kho-khan-viec-kinh-doanh-giup-toi-co-nha-8-ty-hon-28-luong-vang-gap-kho-khan-5004850.html",
+      "summary": "Tôi lo lắng không biết những năm tới mình nên làm gì vừa để ổn định cuộc sống vừa để tinh thần không bị trì trệ hay bế tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:00:00+07:00",
+      "fetched": "2026-01-14T10:28:55.678550+07:00"
+    },
+    {
+      "id": "4cbaf9e2edc118c01f9eeba4cd909d23",
+      "title": "Giải pháp lọc nước hydrogen ion kiềm từ máy lọc nước Hòa Phát",
+      "link": "https://vnexpress.net/giai-phap-loc-nuoc-hydrogen-ion-kiem-tu-may-loc-nuoc-hoa-phat-5005290.html",
+      "summary": "Máy lọc nước Hòa Phát HyperS HPA885 ứng dụng công nghệ điện phân đa tầng, mang đến nguồn nước hàm lượng hydrogen 880-1800 ppb, hướng tới lối sống lành mạnh cho gia đình Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:00:00+07:00",
+      "fetched": "2026-01-14T10:28:55.678683+07:00"
+    },
+    {
+      "id": "b1aed01b34056d1884338d757c46442a",
+      "title": "TMRW Việt Nam hỗ trợ chiến dịch VinFast VF 3 đạt giải vàng marketing",
+      "link": "https://vnexpress.net/tmrw-viet-nam-ho-tro-chien-dich-vinfast-vf-3-dat-giai-vang-marketing-5004727.html",
+      "summary": "Chiến dịch \"Sáng tạo chất riêng, Độc bản cá tính\" thu hút hàng nghìn chủ xe VF 3 tham gia, có sự đồng hành của TMRW Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:00:00+07:00",
+      "fetched": "2026-01-14T10:28:55.678815+07:00"
+    },
+    {
+      "id": "538c6f3e94b3486cc9b0c0a5bdb07a74",
+      "title": "'Hợp tác quốc tế thúc đẩy đổi mới cho giáo dục đại học'",
+      "link": "https://vnexpress.net/hop-tac-quoc-te-thuc-day-doi-moi-cho-giao-duc-dai-hoc-5003830.html",
+      "summary": "Hợp tác với các trường tại Anh giúp Đại học Bách khoa Hà Nội thúc đẩy đổi mới sáng tạo, nâng cao năng lực quản trị, tạo nền tảng cho nghiên cứu, theo PGS.TS Huỳnh Quyết Thắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T02:00:00+07:00",
+      "fetched": "2026-01-14T10:28:55.678959+07:00"
+    },
+    {
+      "id": "418f847e76485a5d8518794d0fc2d427",
+      "title": "Tìm người đàn ông trưởng thành, trách nhiệm",
+      "link": "https://vnexpress.net/tim-nguoi-dan-ong-truong-thanh-trach-nhiem-5004983.html",
+      "summary": "Em không tìm chồng vì đã đến tuổi, mà tìm một người thích hợp để đồng hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T01:55:26+07:00",
+      "fetched": "2026-01-14T10:28:55.679045+07:00"
+    },
+    {
+      "id": "57eeca6542fb646363f1723fde7ddc96",
+      "title": "Luật sư: Rẽ phải ở làn đi thẳng khi đèn đỏ là phạm lỗi vượt đèn đỏ",
+      "link": "https://vnexpress.net/luat-su-re-phai-o-lan-di-thang-khi-den-do-la-pham-loi-vuot-den-do-5005383.html",
+      "summary": "Đang ở làn đường đi thẳng mà rẽ phải dù có biển báo được phép rẽ, phương tiện vẫn phạm lỗi không tuân thủ đèn giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T01:50:00+07:00",
+      "fetched": "2026-01-14T10:28:55.679178+07:00"
+    },
+    {
+      "id": "9a3178c8497927f0d2c167941f8dc5c6",
+      "title": "Em đã sẵn sàng đồng hành và yêu anh",
+      "link": "https://vnexpress.net/em-da-san-sang-dong-hanh-va-yeu-anh-5004981.html",
+      "summary": "Em luôn khao khát cuộc sống gia đình, nơi con trẻ có đủ bố mẹ, một mái nhà quây quần và chuyện trò.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T01:37:04+07:00",
+      "fetched": "2026-01-14T10:28:55.679260+07:00"
+    },
+    {
+      "id": "c019a31f4beece0e0bb480d76d6e7862",
+      "title": "Tư thế plank giúp runner nhận diện nguy cơ chấn thương",
+      "link": "https://vnexpress.net/copenhagen-plank-runner-chan-thuong-5004479.html",
+      "summary": "Động tác Copenhagen plank, một biến thể của side plank, có thể giúp runner đánh giá khả năng chịu lực và nguy cơ chấn thương khi tập luyện cường độ cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T01:37:00+07:00",
+      "fetched": "2026-01-14T10:28:55.679389+07:00"
+    },
+    {
+      "id": "38a6b1bb7bd8353df23cb021f0c37764",
+      "title": "Cùng nhau đón năm mới nhé anh",
+      "link": "https://vnexpress.net/cung-nhau-don-nam-moi-nhe-anh-5004984.html",
+      "summary": "Em tin vào nhân duyên, gặp gỡ là duyên phận, chúng ta đến và gặp nhau đều có ý nghĩa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T01:34:36+07:00",
+      "fetched": "2026-01-14T10:28:55.679466+07:00"
+    },
+    {
+      "id": "873be5a923345e5d6b012b3c4f9ed2d3",
+      "title": "Nhờ dân mạng giúp mổ lợn, cô gái bất ngờ tiếp 10.000 khách",
+      "link": "https://vnexpress.net/nho-dan-mang-giup-mo-lon-co-gai-bat-ngo-tiep-10-000-khach-5005335.html",
+      "summary": "Lo bố mẹ già yếu không giữ nổi lợn Tết, Dai Dai lên mạng tìm người giúp đỡ nhưng không ngờ 10.000 người đã đổ về, tạo nên bữa tiệc \"ăn đụng\" chưa từng có.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T01:33:40+07:00",
+      "fetched": "2026-01-14T10:28:55.679597+07:00"
     },
     {
       "id": "7d1a8e856edf91544df59c66f175f698",
@@ -281,6 +781,16 @@ window.newsData_2026_01_14 = {
       "category": "Tổng hợp",
       "published": "2026-01-14T01:20:55.376145+07:00",
       "fetched": "2026-01-14T01:20:55.376421+07:00"
+    },
+    {
+      "id": "6e2062bf3145e048805f05248164729b",
+      "title": "Apple lên tiếng về việc lựa chọn Gemini",
+      "link": "https://vnexpress.net/apple-len-tieng-ve-viec-lua-chon-gemini-5005334.html",
+      "summary": "Apple cho biết Google \"cung cấp nền tảng năng lực nhất\", trong khi Google khẳng định \"dữ liệu người dùng Apple sẽ không thuộc về chúng tôi\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-14T01:06:35+07:00",
+      "fetched": "2026-01-14T10:29:05.758960+07:00"
     },
     {
       "id": "572fe1f646ed1c9ea297527a73c044d8",
