@@ -1,7 +1,157 @@
 window.newsData_2026_01_14 = {
   "date": "2026-01-14",
-  "lastUpdated": "2026-01-14T21:17:38.150365+07:00",
+  "lastUpdated": "2026-01-14T23:19:09.959166+07:00",
   "articles": [
+    {
+      "id": "1f205f4bff0fc05e142b8fa3090b8d14",
+      "title": "Ban Bí thư kết luận xử lý các trường hợp sai phạm còn tồn tại trong công tác cán bộ, tuyển dụng",
+      "link": "https://tuoitre.vn/ban-bi-thu-ket-luan-xu-ly-cac-truong-hop-sai-pham-con-ton-tai-trong-cong-tac-can-bo-tuyen-dung-20260114204303159.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú đã ký ban hành kết luận của Ban Bí thư về xử lý các trường hợp sai phạm còn tồn tại trong công tác cán bộ (kết luận 232).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.201908+07:00",
+      "fetched": "2026-01-14T23:19:02.202030+07:00"
+    },
+    {
+      "id": "3c68167c0314075ad6ee0fe91b90b253",
+      "title": "Bệnh viện Từ Dũ cứu sống bé sơ sinh trong ca song thai cực hiếm, thế giới chỉ vài chục ca thành công",
+      "link": "https://tuoitre.vn/benh-vien-tu-du-cuu-song-be-so-sinh-trong-ca-song-thai-cuc-hiem-the-gioi-chi-vai-chuc-ca-thanh-cong-20260114201715605.htm",
+      "summary": "Bệnh viện Từ Dũ đã kéo dài thai kỳ 8 tuần, cứu sống trẻ sơ sinh trong ca song thai biến chứng cực hiếm, y văn thế giới mới ghi nhận vài chục trường hợp thành công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.201775+07:00",
+      "fetched": "2026-01-14T23:19:02.201892+07:00"
+    },
+    {
+      "id": "7a692d7f5738e7be71c25357af3d89d5",
+      "title": "Giới thiệu Bí thư Trung ương Đảng Lê Minh Trí ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://tuoitre.vn/gioi-thieu-bi-thu-trung-uong-dang-le-minh-tri-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-20260114210126962.htm",
+      "summary": "100% cử tri nhất trí giới thiệu ông Lê Minh Trí, Bí thư Trung ương Đảng, Phó trưởng Ban thường trực Ban Nội chính Trung ương, ứng cử đại biểu Quốc hội khóa XVI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.201627+07:00",
+      "fetched": "2026-01-14T23:19:02.201762+07:00"
+    },
+    {
+      "id": "8d4b83147d8f5ce8beae040d605a7a43",
+      "title": "Trung Quốc cùng nhánh với Việt Nam ở vòng knock-out Giải U23 châu Á 2026",
+      "link": "https://tuoitre.vn/trung-quoc-cung-nhanh-voi-viet-nam-o-vong-knock-out-giai-u23-chau-a-2026-20260114205921936.htm",
+      "summary": "Với việc tiến vào vòng tứ kết Giải U23 châu Á 2026 với vị trí nhì bảng D, U23 Trung Quốc rơi vào nhánh đấu của U23 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.201485+07:00",
+      "fetched": "2026-01-14T23:19:02.201615+07:00"
+    },
+    {
+      "id": "60a1ece567205d3e942b33b9a2f60c2e",
+      "title": "Xác định 8 đội vào tứ kết U23 châu Á 2026",
+      "link": "https://tuoitre.vn/xac-dinh-8-doi-vao-tu-ket-u23-chau-a-2026-20260114210929402.htm",
+      "summary": "U23 châu Á 2026 đã tìm ra 8 đội bóng xuất sắc nhất bước vào vòng tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.201363+07:00",
+      "fetched": "2026-01-14T23:19:02.201474+07:00"
+    },
+    {
+      "id": "22bd45bb3ea4e7aae3298a412f6548bf",
+      "title": "6 lần dự U23 châu Á, Trung Quốc mới lần đầu vượt qua vòng bảng",
+      "link": "https://tuoitre.vn/6-lan-du-u23-chau-a-trung-quoc-moi-lan-dau-vuot-qua-vong-bang-20260114210836627.htm",
+      "summary": "Dù là một trong những đội thường xuyên góp mặt tại vòng chung kết U23 châu Á, U23 Trung Quốc chỉ mới một lần vượt qua vòng đấu bảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.201238+07:00",
+      "fetched": "2026-01-14T23:19:02.201352+07:00"
+    },
+    {
+      "id": "9dd5ca0e2b9585208403e850221e3ef6",
+      "title": "Vì sao giá vàng và giá bạc tăng không ngừng?",
+      "link": "https://tuoitre.vn/vi-sao-gia-vang-va-gia-bac-tang-khong-ngung-20260114212253911.htm",
+      "summary": "Tối nay, 14-1, giá vàng thế giới đã tăng 50 USD/ounce lên 4.635,6 USD/ounce. Giá bạc cũng vượt 91 USD/ounce - cao nhất từ trước đến nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.201112+07:00",
+      "fetched": "2026-01-14T23:19:02.201227+07:00"
+    },
+    {
+      "id": "a6f1df4fea443f481ce2f678695fb03d",
+      "title": "Tuyển sinh lớp 1, lớp 6 ở TP.HCM: 5 bước đăng ký phụ huynh cần biết",
+      "link": "https://tuoitre.vn/tuyen-sinh-lop-1-lop-6-o-tp-hcm-5-buoc-dang-ky-phu-huynh-can-biet-20260114205806245.htm",
+      "summary": "Tối 14-1, Sở Giáo dục và Đào tạo TP.HCM công bố quy trình 5 bước đăng ký tuyển sinh đầu cấp (lớp 1, lớp 6) năm học 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.200987+07:00",
+      "fetched": "2026-01-14T23:19:02.201101+07:00"
+    },
+    {
+      "id": "43c4711a5e4ed84f62732da86502c7d6",
+      "title": "Hot girl Douyin Bành Thập Lục bị 'phong sát' vì trốn thuế 2,16 triệu tệ",
+      "link": "https://tuoitre.vn/hot-girl-douyin-banh-thap-luc-bi-phong-sat-vi-tron-thue-2-16-trieu-te-20260114203332819.htm",
+      "summary": "Bành Thập Lục, một trong những hot girl cổ trang thành công nhất trên TikTok xứ Trung với hơn 30 triệu người theo dõi, bị phát hiện trốn thuế 2,16 triệu tệ từ năm 2021 đến 2023.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.200861+07:00",
+      "fetched": "2026-01-14T23:19:02.200976+07:00"
+    },
+    {
+      "id": "f15a5c515812fc16cb4769baff65c571",
+      "title": "Cổ động viên: U23 Thái Lan đã thể hiện một bộ mặt đáng thất vọng, xứng đáng bị loại sớm",
+      "link": "https://tuoitre.vn/co-dong-vien-u23-thai-lan-da-the-hien-mot-bo-mat-dang-that-vong-xung-dang-bi-loai-som-20260114212202431.htm",
+      "summary": "Trận hòa trước Trung Quốc tối 14-1 đã khiến U23 Thái Lan bị loại khỏi Giải U23 châu Á. Nhiều cổ động viên Thái Lan cảm thấy thất vọng khi chứng kiến màn trình diễn của đội nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.200726+07:00",
+      "fetched": "2026-01-14T23:19:02.200849+07:00"
+    },
+    {
+      "id": "98af014bd321ec6aec90b8e12c2c0af2",
+      "title": "Những món đồ bỏ đi được tái sử dụng như thế nào?",
+      "link": "https://tuoitre.vn/nhung-mon-do-bo-di-duoc-tai-su-dung-nhu-the-nao-20260114004522746.htm",
+      "summary": "Từ vải vụn và quần áo cũ, nghệ sĩ điêu khắc vải nổi tiếng người Anh Bryony Rose Jennings tạo nên các tác phẩm nghệ thuật textile dựa trên việc tái sử dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.200580+07:00",
+      "fetched": "2026-01-14T23:19:02.200713+07:00"
+    },
+    {
+      "id": "521e36bac5495cd213db350ee328ea5a",
+      "title": "Tết bắt đầu từ những chuyến 'hàng ngoại'",
+      "link": "https://tuoitre.vn/tet-bat-dau-tu-nhung-chuyen-hang-ngoai-20260114202809807.htm",
+      "summary": "Những chuyến 'hàng ngoại' lặng lẽ suốt bốn mùa không chỉ nuôi lớn hai đứa trẻ mà còn giữ ấm mái nhà xa quê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.200449+07:00",
+      "fetched": "2026-01-14T23:19:02.200569+07:00"
+    },
+    {
+      "id": "8db480084533ee01ca452b29dd1bdd6c",
+      "title": "VCK U19 Quốc gia 2025 - 2026 tưng bừng khai mạc",
+      "link": "https://tuoitre.vn/vck-u19-quoc-gia-2025-2026-tung-bung-khai-mac-20260114214453345.htm",
+      "summary": "Tối 14-1, tại sân Trung tâm PVF - Bộ Công an, loạt trận mở màn VCK U19 Quốc gia 2025 - 2026 diễn ra tưng bừng khi tất cả trận đấu đều có bàn thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.200312+07:00",
+      "fetched": "2026-01-14T23:19:02.200436+07:00"
+    },
+    {
+      "id": "3d5b746bc81618457304ebe530e23d2f",
+      "title": "Reuters: Trung Quốc cấm doanh nghiệp trong nước dùng phần mềm an ninh mạng của Mỹ, Israel",
+      "link": "https://tuoitre.vn/reuters-trung-quoc-cam-doanh-nghiep-trong-nuoc-dung-phan-mem-an-ninh-mang-cua-my-israel-20260114214833873.htm",
+      "summary": "Theo nguồn tin của Reuters, giới chức Trung Quốc đã yêu cầu các doanh nghiệp trong nước ngừng sử dụng phần mềm an ninh mạng của các công ty Mỹ và Israel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.200162+07:00",
+      "fetched": "2026-01-14T23:19:02.200298+07:00"
+    },
+    {
+      "id": "d74fbbed2a9cdcec43e08a52cb255bd3",
+      "title": "Viktor Lê: U23 Việt Nam không muốn đá hiệp phụ với UAE",
+      "link": "https://tuoitre.vn/viktor-le-u23-viet-nam-khong-muon-da-hiep-phu-voi-uae-20260114220324629.htm",
+      "summary": "Cầu thủ Việt kiều Viktor Lê cho biết U23 Việt Nam không muốn trận tứ kết U23 châu Á 2026 với U23 UAE bị kéo vào hiệp phụ hoặc luân lưu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T23:19:02.199918+07:00",
+      "fetched": "2026-01-14T23:19:02.200145+07:00"
+    },
     {
       "id": "b61278d498567bc52b65a5a2199410d9",
       "title": "Hành trình ‘Chất nơi đỉnh cực 2025’ chạm đỉnh cực Tây A Pa Chải",
@@ -453,6 +603,76 @@ window.newsData_2026_01_14 = {
       "fetched": "2026-01-14T17:15:47.398936+07:00"
     },
     {
+      "id": "c57d5763624db34b0bacf2e186ed64c1",
+      "title": "Highlight ĐH Kinh tế quốc dân (NEU) 1-1 Trường ĐH Hàng Hải Việt Nam (VMU): Chia điểm đáng tiếc",
+      "link": "https://thanhnien.vn/highlight-dh-kinh-te-quoc-dan-neu-1-1-truong-dh-hang-hai-viet-nam-vmu-chia-diem-dang-tiec-185260114230914195.htm",
+      "summary": "Thế trận giằng co cùng những cơ hội bị bỏ lỡ khiến Trường ĐH Kinh tế quốc dân và Trường ĐH Hàng hải Việt Nam phải chấp nhận kết quả hòa, để lại nhiều tiếc nuối cho cả hai đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T16:09:00+07:00",
+      "fetched": "2026-01-14T23:19:00.888732+07:00"
+    },
+    {
+      "id": "ab434e29191234c939f79f03721d282a",
+      "title": "3 đời mê bóng đá, cha nghỉ bán hàng đi cổ vũ con đá giải sinh viên",
+      "link": "https://thanhnien.vn/3-doi-me-bong-da-cha-nghi-ban-hang-di-co-vu-con-da-giai-sinh-vien-185260114215449022.htm",
+      "summary": "Trên khán đài SVĐ Tao Đàn sáng 14.1, người cha đã tạm gác lại công việc gia đình để có mặt để theo dõi và cổ vũ con trai thi đấu ở giải bóng đá TNSV THACO CUP 2026. Từ khi con còn nhỏ, ông đã chở con đi học đá bóng ngoài giờ và theo con đi thi giải khắp nơi. Bản thân ông cũng mê bóng đá và mong có t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T15:49:00+07:00",
+      "fetched": "2026-01-14T23:19:00.888914+07:00"
+    },
+    {
+      "id": "a9e0219a8a199aa3d6287b1131a2e5a1",
+      "title": "Hậu vệ HUFLIT thừa nhận chủ quan trên thế thắng, quyết đấu Trường ĐH Tôn Đức Thắng để giành vé play-off",
+      "link": "https://thanhnien.vn/hau-ve-huflit-thua-nhan-chu-quan-tren-the-thang-quyet-dau-truong-dh-ton-duc-thang-de-gianh-ve-play-off-185260114214700397.htm",
+      "summary": "Với kết quả hòa trên SVĐ Tao Đàn sáng 14.1, HUFLIT và HUB đều bỏ lỡ cơ hội bứt lên ở nhóm 1, khiến cuộc đua vé đi tiếp vẫn còn rộng mở. HUFLIT trước đó thắng Học viện Hàng không Việt Nam 2-0 và sẽ hướng đến trận gặp Trường ĐH Tôn Đức Thắng ngày 18.1, được xem là màn đối đầu có thể quyết định cục diệ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T15:49:00+07:00",
+      "fetched": "2026-01-14T23:19:00.889074+07:00"
+    },
+    {
+      "id": "cbf7866d371e4809904f88fc2b714b09",
+      "title": "Highlight Trường ĐH Ngân Hàng TP.HCM (HUB) 1-1 Trường ĐH Ngoại Ngữ Tin học TP.HCM (HUFLIT): Cầm vàng mà để vàng rơi",
+      "link": "https://thanhnien.vn/highlight-truong-dh-ngan-hang-tphcm-hub-1-1-truong-dh-ngoai-ngu-tin-hoc-tphcm-huflit-cam-vang-ma-de-vang-roi-185260114224334967.htm",
+      "summary": "Dẫn bàn nhưng không thể bảo toàn lợi thế, Trường ĐH Ngân hàng TP.HCM đành chấp nhận kết quả hòa đầy tiếc nuối trước Trường ĐH Ngoại ngữ Tin học TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T15:43:00+07:00",
+      "fetched": "2026-01-14T23:19:00.889226+07:00"
+    },
+    {
+      "id": "b565718e7d9d2ae26a75e9d0fba7a65b",
+      "title": "'Vua thẻ' người Iran tiếp tục bắt chính tứ kết U.23 Việt Nam đấu UAE, trọng tài VAR cũng rất quen",
+      "link": "https://thanhnien.vn/vua-the-nguoi-iran-tiep-tuc-bat-chinh-tu-ket-u23-viet-nam-dau-uae-trong-tai-var-cung-rat-quen-185260114223534669.htm",
+      "summary": "Liên đoàn Bóng đá châu Á (AFC) mới đây đã công bố tổ trọng tài điều khiển trận tứ kết giữa U.23 Việt Nam và U.23 UAE (22 giờ 30 ngày 16.1).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T15:39:00+07:00",
+      "fetched": "2026-01-14T23:19:00.889375+07:00"
+    },
+    {
+      "id": "0f7cbb31f8fdf3a31973a901e0cb4836",
+      "title": "Hàng nghìn du khách kẹt ở quê ông già Noel vì rét âm 37 độ C",
+      "link": "https://vnexpress.net/hang-nghin-du-khach-ket-o-que-ong-gia-noel-vi-ret-am-37-do-c-5005673.html",
+      "summary": "Hàng nghìn du khách không thể rời đi do các chuyến bay bị hủy hàng loạt trong đợt rét kỷ lục với nhiệt độ gần âm 40 độ C tại Lapland, miền bắc Phần Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T15:26:27+07:00",
+      "fetched": "2026-01-14T23:18:57.706108+07:00"
+    },
+    {
+      "id": "49fc807b747d802ba4ea5090a03ba008",
+      "title": "Highlight Học viện Hàng không Việt Nam (VAA) 0-4 Trường ĐH Tôn Đức Thắng (TDTU): Mở toang cửa đến play-off",
+      "link": "https://thanhnien.vn/highlight-hoc-vien-hang-khong-viet-nam-vaa-0-4-truong-dh-ton-duc-thang-tdtu-mo-toang-cua-den-play-off-185260114222330453.htm",
+      "summary": "Chiến thắng thuyết phục trước Trường Học viện Hàng không Việt Nam đã giúp Trường ĐH Tôn Đức Thắng tạo lợi thế lớn trong cuộc đua giành vé vào vòng play-off của giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T15:23:00+07:00",
+      "fetched": "2026-01-14T23:19:00.889523+07:00"
+    },
+    {
       "id": "7a3ebbe3e698dde8f79daa08bbe09239",
       "title": "Loạt container hóa chất... mắc kẹt vì luật có hiệu lực nhưng thiếu văn bản hướng dẫn",
       "link": "https://tuoitre.vn/loat-container-hoa-chat-mac-ket-vi-luat-co-hieu-luc-nhung-thieu-van-ban-huong-dan-20260114123803079.htm",
@@ -601,6 +821,146 @@ window.newsData_2026_01_14 = {
       "category": "Tổng hợp",
       "published": "2026-01-14T15:18:43.429674+07:00",
       "fetched": "2026-01-14T15:18:43.429882+07:00"
+    },
+    {
+      "id": "bdaa771b357f9d9ef734a89f97fae5b5",
+      "title": "HLV Thawatchai buồn và thất vọng: ‘U.23 Thái Lan đã làm tất cả những gì có thể, nhưng…’",
+      "link": "https://thanhnien.vn/hlv-thawatchai-buon-va-that-vong-u23-thai-lan-da-lam-tat-ca-nhung-gi-co-the-nhung-185260114215327999.htm",
+      "summary": "HLV Thawatchai Damrong-ongtrakul tỏ ra tiếc nuối nhưng vẫn dành nhiều lời khen cho các học trò dù U.23 Thái Lan chính thức bị loại khỏi VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T15:16:00+07:00",
+      "fetched": "2026-01-14T23:19:00.889669+07:00"
+    },
+    {
+      "id": "4ac17da9a995b2e3cb42ae53716e386c",
+      "title": "HLV Kim nói lời gan ruột: ‘3 trận thắng là bất ngờ nhưng chưa phải đích đến của U.23 Việt Nam’",
+      "link": "https://thanhnien.vn/hlv-kim-noi-loi-gan-ruot-3-tran-thang-la-bat-ngo-nhung-chua-phai-dich-den-cua-u23-viet-nam-18526011422104535.htm",
+      "summary": "Trong buổi tập chiều 14.1, HLV Kim Sang-sik đã có những chia sẻ thẳng thắn để động viên các cầu thủ U.23 Việt Nam trước thềm trận tứ kết VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T15:15:00+07:00",
+      "fetched": "2026-01-14T23:19:00.889835+07:00"
+    },
+    {
+      "id": "ad75aae70878c563cafdafe16070534d",
+      "title": "Việt Nam sẵn sàng chia sẻ kinh nghiệm phát triển thể chế, hạ tầng số",
+      "link": "https://vnexpress.net/viet-nam-san-sang-chia-se-kinh-nghiem-phat-trien-the-che-ha-tang-so-5005756.html",
+      "summary": "Bộ trưởng Nguyễn Mạnh Hùng cho biết Việt Nam sẵn sàng chia sẻ với thế giới kinh nghiệm phát triển thể chế số, hạ tầng số, tại buổi tiếp Phó tổng thư ký Liên hợp quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T15:11:31+07:00",
+      "fetched": "2026-01-14T23:18:57.706287+07:00"
+    },
+    {
+      "id": "ad75aae70878c563cafdafe16070534d",
+      "title": "Việt Nam sẵn sàng chia sẻ kinh nghiệm phát triển thể chế, hạ tầng số",
+      "link": "https://vnexpress.net/viet-nam-san-sang-chia-se-kinh-nghiem-phat-trien-the-che-ha-tang-so-5005756.html",
+      "summary": "Bộ trưởng Nguyễn Mạnh Hùng cho biết Việt Nam sẵn sàng chia sẻ với thế giới kinh nghiệm phát triển thể chế số, hạ tầng số, tại buổi tiếp Phó tổng thư ký Liên hợp quốc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-14T15:11:31+07:00",
+      "fetched": "2026-01-14T23:19:08.853160+07:00"
+    },
+    {
+      "id": "a50e3047df2dda563d6b804b977f6242",
+      "title": "Sau sáu tháng tôi chưa tìm được việc, bạn gái nói lời chia tay",
+      "link": "https://vnexpress.net/sau-sau-thang-toi-chua-tim-duoc-viec-ban-gai-noi-loi-chia-tay-5005665.html",
+      "summary": "Tôi hiểu và nói rằng mình có lỗi, vì tôi mà em tốn hai năm thanh xuân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T15:00:00+07:00",
+      "fetched": "2026-01-14T23:18:57.706450+07:00"
+    },
+    {
+      "id": "e79600d4a3b2496e9f012d728857ee61",
+      "title": "Golf bước ra phố, thời trang thể thao thành phong cách sống mới",
+      "link": "https://thanhnien.vn/thoi-trang-tre/golf-buoc-ra-pho-thoi-trang-the-thao-thanh-phong-cach-song-moi-185260113185121735.htm",
+      "summary": "Thời trang thể thao, chơi golff đang rời khỏi khuôn khổ quen thuộc để bước vào đời sống thường nhật. Qua lăng kính thời trang, tinh thần thể thao được làm mềm lại, trở nên gần gũi, tự do và phản ánh rõ nét nhịp sống đô thị đương đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T15:00:00+07:00",
+      "fetched": "2026-01-14T23:19:00.889983+07:00"
+    },
+    {
+      "id": "7a2cbb965e2df81e790401d75b8616e7",
+      "title": "Nga cáo buộc Ukraine tập kích tàu dầu Hy Lạp",
+      "link": "https://vnexpress.net/nga-cao-buoc-ukraine-tap-kich-tau-dau-hy-lap-5005758.html",
+      "summary": "Nga nói Ukraine phóng UAV tấn công tàu chở dầu của Hy Lạp ngoài khơi Biển Đen, vụ mới nhất trong loạt sự cố tương tự ở khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T14:53:34+07:00",
+      "fetched": "2026-01-14T23:18:57.706608+07:00"
+    },
+    {
+      "id": "7a2cbb965e2df81e790401d75b8616e7",
+      "title": "Nga cáo buộc Ukraine tập kích tàu dầu Hy Lạp",
+      "link": "https://vnexpress.net/nga-cao-buoc-ukraine-tap-kich-tau-dau-hy-lap-5005758.html",
+      "summary": "Nga nói Ukraine phóng UAV tấn công tàu chở dầu của Hy Lạp ngoài khơi Biển Đen, vụ mới nhất trong loạt sự cố tương tự ở khu vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-14T14:53:34+07:00",
+      "fetched": "2026-01-14T23:19:03.826098+07:00"
+    },
+    {
+      "id": "e63d9e45f5b820a00402ebdaee19d4aa",
+      "title": "Highlight Trường ĐH Quốc tế Miền Đông (EIU) 0-6 Trường ĐH Văn Hiến (VHU): Cú poker đẳng cấp của Lương Duy Bảo",
+      "link": "https://thanhnien.vn/highlight-truong-dh-quoc-te-mien-dong-eiu-0-6-truong-dh-van-hien-vhu-cu-poker-dang-cap-cua-luong-duy-bao-185260114214504221.htm",
+      "summary": "Màn trình diễn chói sáng với cú poker của Lương Duy Bảo đã giúp Trường ĐH Văn Hiến áp đảo hoàn toàn và giành chiến thắng đậm trước Trường ĐH Quốc tế Miền Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T14:45:00+07:00",
+      "fetched": "2026-01-14T23:19:00.890128+07:00"
+    },
+    {
+      "id": "e422f5d1f7875d6db71ef52204b5b6e0",
+      "title": "U.23 Thái Lan bị loại, truyền thông bản địa ngậm ngùi: ‘Không có phép màu, FAT nên xem lại’",
+      "link": "https://thanhnien.vn/u23-thai-lan-bi-loai-truyen-thong-ban-dia-ngam-ngui-khong-co-phep-mau-fat-nen-xem-lai-185260114212214151.htm",
+      "summary": "Truyền thông Thái Lan đã thể hiện sự tiếc nuối khi thầy trò HLV Thawatchai Damrong-Ongtrakul chính thức nói lời chia tay VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T14:36:00+07:00",
+      "fetched": "2026-01-14T23:19:00.890272+07:00"
+    },
+    {
+      "id": "1bef1d81d452cf754ce6d274889f5fca",
+      "title": "Highlight Trường ĐH Công nghệ Sài Gòn (STU) 1-4 Trường CĐ Kinh tế Đối ngoại (COFER): Quá nhanh quá nguy hiểm",
+      "link": "https://thanhnien.vn/highlight-truong-dh-cong-nghe-sai-gon-stu-1-4-truong-cd-kinh-te-doi-ngoai-cofer-qua-nhanh-qua-nguy-hiem-185260114213206203.htm",
+      "summary": "Bàn thắng chớp nhoáng ngay từ những giây đầu trận đã mở ra thế trận thuận lợi để Trường CĐ Kinh tế Đối ngoại chơi bùng nổ và giành chiến thắng đậm trước Trường ĐH Công nghệ Sài Gòn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T14:32:00+07:00",
+      "fetched": "2026-01-14T23:19:00.890417+07:00"
+    },
+    {
+      "id": "72d31ebef0e8becd8b30f42d10ca7de1",
+      "title": "Ukraine có bộ trưởng quốc phòng 35 tuổi",
+      "link": "https://thanhnien.vn/ukraine-co-bo-truong-quoc-phong-35-tuoi-185260114205759785.htm",
+      "summary": "Quốc hội Ukraine bổ nhiệm ông Mykhailo Fedorov làm bộ trưởng quốc phòng và ông nêu quan điểm của mình là 'càng nhiều rô bốt, càng ít tổn thất và càng nhiều công nghệ, càng ít thương vong'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T14:26:00+07:00",
+      "fetched": "2026-01-14T23:19:00.890565+07:00"
+    },
+    {
+      "id": "f68af6ccc5f565be63d2ac1ae887d020",
+      "title": "Ba nước Ả Rập bí mật thuyết phục Mỹ không tấn công Iran?",
+      "link": "https://thanhnien.vn/ba-nuoc-a-rap-bi-mat-thuyet-phuc-my-khong-tan-cong-iran-185260114203808168.htm",
+      "summary": "Thông tin về động thái của ba nước Ả Rập được đưa ra trong bối cảnh Tổng thống Mỹ Donald Trump đe dọa sẽ có hành động nếu Iran mạnh tay xử lý người biểu tình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T14:25:00+07:00",
+      "fetched": "2026-01-14T23:19:00.890733+07:00"
+    },
+    {
+      "id": "75450d4c94ebff418b3e4ee610e367d2",
+      "title": "U.19 PVF khởi đầu thuận lợi giải U.19 quốc gia",
+      "link": "https://thanhnien.vn/u19-pvf-khoi-dau-thuan-loi-giai-u19-quoc-gia-18526011421180856.htm",
+      "summary": "PVF chứng minh sức mạnh của mình bằng chiến thắng trước Công an TP.HCM ở lượt đầu tiên bảng B giải bóng đá vô địch U.19 quốc gia – Cúp Modern 2025-26.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T14:23:00+07:00",
+      "fetched": "2026-01-14T23:19:00.890883+07:00"
     },
     {
       "id": "31ce972ba51abbca7424a53f13cfe398",
@@ -771,6 +1131,16 @@ window.newsData_2026_01_14 = {
       "category": "Tổng hợp",
       "published": "2026-01-14T13:32:00+07:00",
       "fetched": "2026-01-14T21:17:26.347703+07:00"
+    },
+    {
+      "id": "08b45bda9e1b765168ef4ef00cf89f06",
+      "title": "Càng bất an, 'chuyện ấy' càng thăng hoa",
+      "link": "https://vnexpress.net/cang-bat-an-chuyen-ay-cang-thang-hoa-5005215.html",
+      "summary": "Nhiều người lầm tưởng tình dục cuồng nhiệt là dấu hiệu của hạnh phúc, song thực tế đây có thể là cơ chế phòng vệ của những người luôn lo sợ bị bỏ rơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:32:00+07:00",
+      "fetched": "2026-01-14T23:18:57.707435+07:00"
     },
     {
       "id": "8ee3b14d2bff625307ceebdaeeaaf343",
@@ -1451,6 +1821,16 @@ window.newsData_2026_01_14 = {
       "category": "Thể thao",
       "published": "2026-01-14T10:56:35+07:00",
       "fetched": "2026-01-14T19:26:36.160415+07:00"
+    },
+    {
+      "id": "75f8456610c95f91dc6a5acad50de092",
+      "title": "Hòa Trung Quốc, Thái Lan bị loại ở VCK U23 châu Á 2026",
+      "link": "https://vnexpress.net/u23-thai-lan-v-u23-trung-quoc-5005690-tong-thuat.html",
+      "summary": "Thái Lan dừng bước ở vòng chung kết U23 châu Á 2026 sau khi chỉ hòa Trung Quốc 0-0 ở lượt cuối bảng D, tối 14/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-14T10:56:35+07:00",
+      "fetched": "2026-01-14T23:19:09.945819+07:00"
     },
     {
       "id": "6579a0e2e8bc89c09826c3dd4075227e",
