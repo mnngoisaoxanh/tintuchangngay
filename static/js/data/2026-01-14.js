@@ -1,7 +1,157 @@
 window.newsData_2026_01_14 = {
   "date": "2026-01-14",
-  "lastUpdated": "2026-01-14T15:18:49.988077+07:00",
+  "lastUpdated": "2026-01-14T17:15:56.688637+07:00",
   "articles": [
+    {
+      "id": "a0490ed6573331279fe47fd76f294b47",
+      "title": "Bí thư Hà Nội yêu cầu xây dựng kịch bản kinh tế thủ đô tăng trưởng 2 con số liên tục trong 20 năm",
+      "link": "https://tuoitre.vn/bi-thu-ha-noi-yeu-cau-xay-dung-kich-ban-kinh-te-thu-do-tang-truong-2-con-so-lien-tuc-trong-20-nam-20260114151442711.htm",
+      "summary": "Ngày 14-1, Ban Chấp hành Đảng bộ TP Hà Nội khóa XVIII tổ chức hội nghị lần thứ tư, để bàn 10 nội dung quan trọng phát triển của Hà Nội trong thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.400723+07:00",
+      "fetched": "2026-01-14T17:15:47.400839+07:00"
+    },
+    {
+      "id": "59f829bb0c957efb0f369e6cc1618d2f",
+      "title": "Cận cảnh chuyển tài sản mã hóa USDT sang VNĐ trong khu vực sandbox",
+      "link": "https://tuoitre.vn/can-canh-chuyen-tai-san-ma-hoa-usdt-sang-vnd-trong-khu-vuc-sandbox-20260114153114216.htm",
+      "summary": "Những người dùng tại 3 khu vực cấp phép thử nghiệm có kiểm soát (sandbox) đầu tiên ở nước ta thực hiện chuyển đổi tài sản mã hóa USDT sang VNĐ như thế nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.400568+07:00",
+      "fetched": "2026-01-14T17:15:47.400710+07:00"
+    },
+    {
+      "id": "3ee7b8093835ada72c9b67e4ebb8d217",
+      "title": "Giá xoài tăng cao dịp cận Tết nhưng nhà vườn vẫn ‘khó lời’",
+      "link": "https://tuoitre.vn/gia-xoai-tang-cao-dip-can-tet-nhung-nha-vuon-van-kho-loi-20260114144216824.htm",
+      "summary": "Dù giá xoài năm nay tăng 10.000 đồng/kg so với cùng kỳ làm nhiều nhà vườn tại An Giang phấn khởi, nhưng vẫn không khỏi lo lắng khi thời tiết diễn biến thất thường và sâu bệnh làm hoa xoài rụng hàng loạt, giảm sản lượng, có nguy cơ thua lỗ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.400438+07:00",
+      "fetched": "2026-01-14T17:15:47.400557+07:00"
+    },
+    {
+      "id": "3be280f98266a5a37be02b709fa92529",
+      "title": "Gia Lai bắn pháo hoa đêm giao thừa Tết Bính Ngọ 2026 tại Quy Nhơn và Pleiku",
+      "link": "https://tuoitre.vn/gia-lai-ban-phao-hoa-dem-giao-thua-tet-binh-ngo-2026-tai-quy-nhon-va-pleiku-2026011415011481.htm",
+      "summary": "Đêm giao thừa Tết Bính Ngọ 2026, tỉnh Gia Lai tổ chức bắn pháo hoa tầm thấp chào năm mới tại hai địa điểm là Quy Nhơn và Pleiku.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.400300+07:00",
+      "fetched": "2026-01-14T17:15:47.400415+07:00"
+    },
+    {
+      "id": "06dd7b01552dd066a267a451a3dd09c0",
+      "title": "Dương Tử Quỳnh xác nhận đóng Avatar 4 và 5",
+      "link": "https://tuoitre.vn/duong-tu-quynh-xac-nhan-dong-avatar-4-va-5-20260114151427376.htm",
+      "summary": "Có nhiều bàn tán việc James Cameron có bật đèn xanh để sản xuất Avatar 4 và Avatar 5 trước hiệu ứng doanh thu được cho là không bùng nổ của Avatar 3?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.400173+07:00",
+      "fetched": "2026-01-14T17:15:47.400289+07:00"
+    },
+    {
+      "id": "13bce671aaed086cb0e60870085c1916",
+      "title": "Nghị quyết 80 của Bộ Chính trị về phát triển văn hóa: Thiên thời, địa lợi, nhân hòa",
+      "link": "https://tuoitre.vn/nghi-quyet-80-cua-bo-chinh-tri-ve-phat-trien-van-hoa-thien-thoi-dia-loi-nhan-hoa-20260114090747949.htm",
+      "summary": "Nghị quyết 80 được các doanh nghiệp, nghệ sĩ, chuyên gia trong ngành văn hóa cho là tạo \"thiên thời, địa lợi, nhân hòa\" để phát triển công nghiệp văn hóa tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.400047+07:00",
+      "fetched": "2026-01-14T17:15:47.400162+07:00"
+    },
+    {
+      "id": "8c548ac4df8648cbde0ba9540eda0c93",
+      "title": "Chứng khoán đứt chuỗi tăng, VN-Index rơi khỏi mốc 1.900 điểm",
+      "link": "https://tuoitre.vn/chung-khoan-dut-chuoi-tang-vn-index-roi-khoi-moc-1-900-diem-20260114154009003.htm",
+      "summary": "VN-Index giảm 8,5 điểm trong phiên 14-1 do áp lực điều chỉnh từ nhóm vốn hóa lớn, đặc biệt là cổ phiếu họ Vingroup, dù nhiều mã ngân hàng và tiêu dùng vẫn tăng giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.399919+07:00",
+      "fetched": "2026-01-14T17:15:47.400035+07:00"
+    },
+    {
+      "id": "6850805cf65fbfea498f07ee85ad0d10",
+      "title": "Lửa nhà dài ấm mãi tình đoàn kết",
+      "link": "https://tuoitre.vn/lua-nha-dai-am-mai-tinh-doan-ket-2026011413072119.htm",
+      "summary": "Mỗi mái ấm được xây dựng không chỉ bằng gạch, tôn, xi măng mà còn bằng tình yêu thương, sự chung sức của lực lượng công an, bộ đội và người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.399789+07:00",
+      "fetched": "2026-01-14T17:15:47.399907+07:00"
+    },
+    {
+      "id": "be813df3c8fed9ccb6965f5046190d1d",
+      "title": "Việt Nam khởi động mạng lưới AI y tế, mục tiêu đưa trí tuệ nhân tạo về hơn 3.300 trạm y tế",
+      "link": "https://tuoitre.vn/viet-nam-khoi-dong-mang-luoi-ai-y-te-muc-tieu-dua-tri-tue-nhan-tao-ve-hon-3-300-tram-y-te-20260114151920614.htm",
+      "summary": "Mạng lưới AI y tế có trách nhiệm tại Việt Nam đặt mục tiêu đưa trí tuệ nhân tạo về hơn 3.300 trạm y tế xã, phường, hỗ trợ chẩn đoán, điều trị ngay từ y tế cơ sở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.399655+07:00",
+      "fetched": "2026-01-14T17:15:47.399777+07:00"
+    },
+    {
+      "id": "4a30c202567c90e1e143cd88ae249eab",
+      "title": "MrBeast thừa nhận từng phải vay tiền dù sở hữu khối tài sản tỉ USD",
+      "link": "https://tuoitre.vn/mrbeast-thua-nhan-tung-phai-vay-tien-du-so-huu-khoi-tai-san-ti-usd-20260114153529467.htm",
+      "summary": "Dù sở hữu khối tài sản ròng khổng lồ, MrBeast cho biết anh gần như không có tiền mặt vì toàn bộ thu nhập đều được tái đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.399505+07:00",
+      "fetched": "2026-01-14T17:15:47.399641+07:00"
+    },
+    {
+      "id": "0b9284023e99a059e23106b7f99e973b",
+      "title": "Thường trực Ban Bí thư: Công tác nhân sự Đại hội XIV được chuẩn bị bài bản, chặt chẽ, khách quan",
+      "link": "https://tuoitre.vn/thuong-truc-ban-bi-thu-cong-tac-nhan-su-dai-hoi-xiv-duoc-chuan-bi-bai-ban-chat-che-khach-quan-20260114155104812.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú khẳng định công tác chuẩn bị nhân sự Ban Chấp hành Trung ương khóa XIV được tiến hành theo đúng các quy định, bài bản, chặt chẽ, khách quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.399373+07:00",
+      "fetched": "2026-01-14T17:15:47.399493+07:00"
+    },
+    {
+      "id": "87926ad8b8b5af0f4308d570df96a85e",
+      "title": "Bắc Ninh sẽ thí điểm 3 khu công nghiệp sinh thái, hướng tới net-zero carbon",
+      "link": "https://tuoitre.vn/bac-ninh-se-thi-diem-3-khu-cong-nghiep-sinh-thai-huong-toi-net-zero-carbon-20260114154718845.htm",
+      "summary": "Bắc Ninh dự kiến lựa chọn tối thiểu 3 khu công nghiệp thí điểm khu công nghiệp sinh thái. Lộ trình phát triển được chia thành ba giai đoạn: khu công nghiệp sinh thái, khu công nghiệp trung hòa carbon và tiến tới khu công nghiệp net-zero carbon.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.399232+07:00",
+      "fetched": "2026-01-14T17:15:47.399361+07:00"
+    },
+    {
+      "id": "c879005fe148cc6c79b95685a0fbe70c",
+      "title": "Nổ quen lãnh đạo cấp cao, luật sư 'dỏm' lừa 13 tỉ của 2 người",
+      "link": "https://tuoitre.vn/no-quen-lanh-dao-cap-cao-luat-su-dom-lua-13-ti-cua-2-nguoi-2026011415380492.htm",
+      "summary": "Sáng 14-1, TAND TP.HCM đã tuyên phạt bị cáo Nguyễn Thị Thanh Vân 16 năm tù, Nguyễn Sỹ Huấn 7 năm tù về tội lừa đảo chiếm đoạt tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.399095+07:00",
+      "fetched": "2026-01-14T17:15:47.399219+07:00"
+    },
+    {
+      "id": "3e071f8bf556b92f18036c441b506d23",
+      "title": "Khánh Hòa xây dựng phần mềm theo dõi giải phóng mặt bằng các dự án trọng điểm",
+      "link": "https://tuoitre.vn/khanh-hoa-xay-dung-phan-mem-theo-doi-giai-phong-mat-bang-cac-du-an-trong-diem-20260114153935915.htm",
+      "summary": "Bí thư Tỉnh ủy Khánh Hòa yêu cầu xây dựng phần mềm theo dõi giải phóng mặt bằng các dự án trọng điểm để giám sát, quản lý kịp thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.398951+07:00",
+      "fetched": "2026-01-14T17:15:47.399082+07:00"
+    },
+    {
+      "id": "0a219441a8386f64d0a1e0338c4f22b7",
+      "title": "Những cuộc thi sắc đẹp quốc tế ‘xông đất’ năm 2026",
+      "link": "https://tuoitre.vn/nhung-cuoc-thi-sac-dep-quoc-te-xong-dat-nam-2026-2026011416050263.htm",
+      "summary": "Đó là cuộc thi Hoa hậu Liên lục địa 2026, Hoa hậu Du lịch Thế giới 2026, Miss Grand International All Stars.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T17:15:47.398705+07:00",
+      "fetched": "2026-01-14T17:15:47.398936+07:00"
+    },
     {
       "id": "7a3ebbe3e698dde8f79daa08bbe09239",
       "title": "Loạt container hóa chất... mắc kẹt vì luật có hiệu lực nhưng thiếu văn bản hướng dẫn",
@@ -453,6 +603,366 @@ window.newsData_2026_01_14 = {
       "fetched": "2026-01-14T10:28:59.815528+07:00"
     },
     {
+      "id": "1efd126c0065e1c3a7c025379aba39ed",
+      "title": "Người vừa có tiền lương vừa cho thuê nhà, bán hàng online sẽ nộp thuế ra sao?",
+      "link": "https://thanhnien.vn/nguoi-vua-co-tien-luong-vua-cho-thue-nha-ban-hang-online-se-nop-thue-ra-sao-185260114121137066.htm",
+      "summary": "Nhiều người vừa có thu nhập từ tiền lương đồng thời vừa cho thuê nhà hoặc bán hàng online thì kê khai nộp thuế ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:11:00+07:00",
+      "fetched": "2026-01-14T17:15:45.941863+07:00"
+    },
+    {
+      "id": "2d735ee27108cf7b6dc2370d723d5c8c",
+      "title": "Đại hội XIV của Đảng sẽ đổi mới toàn diện",
+      "link": "https://thanhnien.vn/dai-hoi-xiv-cua-dang-se-doi-moi-toan-dien-185260114161225502.htm",
+      "summary": "Ông Nguyễn Xuân Thắng cho biết, Đại hội XIV của Đảng sẽ có những điểm mới rất toàn diện, từ nội dung xây dựng phát triển, cách thể hiện các văn kiện và cả tổ chức triển khai thực hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:09:00+07:00",
+      "fetched": "2026-01-14T17:15:45.942048+07:00"
+    },
+    {
+      "id": "ec92a5e7897bc6742c45cea3c79c2de3",
+      "title": "Dự án đường Chu Văn An sắp 'về đích', nhiều cột điện vẫn án ngữ lối đi",
+      "link": "https://thanhnien.vn/du-an-duong-chu-van-an-sap-ve-dich-nhieu-cot-dien-van-an-ngu-loi-di-185260112183833371.htm",
+      "summary": "Tuyến đường Chu Văn An (phường Bình Thạnh, TP.HCM) đã được trải thảm nhựa hoàn thiện với diện mạo mới, nhưng nhiều cột điện vẫn 'nằm lỳ' giữa lối đi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:08:00+07:00",
+      "fetched": "2026-01-14T17:15:45.942208+07:00"
+    },
+    {
+      "id": "3c35d1d252af1acccfce2dbea29216d6",
+      "title": "Lời kể của nạn nhân trong vụ tai nạn khiến 4 người chết trên cao tốc",
+      "link": "https://thanhnien.vn/loi-ke-cua-nan-nhan-trong-vu-tai-nan-khien-4-nguoi-chet-tren-cao-toc-185260114160551938.htm",
+      "summary": "Các nạn nhân (trừ tài xế xe khách) trong vụ tai nạn giao thông đặc biệt nghiêm trọng trên cao tốc Bắc - Nam, đoạn qua tỉnh Thanh Hóa khiến 4 người chết, 6 người bị thương, đều là anh em họ hàng và người thân trong gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:03:00+07:00",
+      "fetched": "2026-01-14T17:15:45.942370+07:00"
+    },
+    {
+      "id": "152a55eff6c15339c5548fbc6653ef66",
+      "title": "Toàn cảnh 17h: Nguyên nhân vụ tai nạn liên hoàn trên cao tốc | 'Thủ phạm' gây ô nhiễm không khí miền Bắc",
+      "link": "https://thanhnien.vn/toan-canh-17h-nguyen-nhan-vu-tai-nan-lien-hoan-tren-cao-toc-thu-pham-gay-o-nhiem-khong-khi-mien-bac-185260114161002361.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T10:00:00+07:00",
+      "fetched": "2026-01-14T17:15:45.942526+07:00"
+    },
+    {
+      "id": "2285ed2574729c393a3bd8c50c4caf87",
+      "title": "Công an vào cuộc vụ 6 nữ sinh hành hung bạn trong lớp học",
+      "link": "https://thanhnien.vn/cong-an-vao-cuoc-vu-6-nu-sinh-hanh-hung-ban-trong-lop-hoc-185260114160038733.htm",
+      "summary": "Cơ quan công an đang xác minh, làm rõ vụ việc 6 nữ sinh hành hung bạn trong lớp học ở xã Nam An Phụ (TP.Hải Phòng)",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:54:00+07:00",
+      "fetched": "2026-01-14T17:15:45.942705+07:00"
+    },
+    {
+      "id": "ed84533974dde9ca651228441bc84fd8",
+      "title": "'Ông trùm' sữa HIUP giả bị tuyên phạt 30 năm tù",
+      "link": "https://thanhnien.vn/ong-trum-sua-hiup-gia-bi-tuyen-phat-30-nam-tu-185260114105655744.htm",
+      "summary": "Bị cáo Hoàng Quang Thịnh, Chủ tịch HĐQT Công ty CP Z Holding, doanh nghiệp liên quan đến sản phẩm sữa HIUP giả, bị tòa tuyên phạt 30 năm tù.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:50:00+07:00",
+      "fetched": "2026-01-14T17:15:45.942879+07:00"
+    },
+    {
+      "id": "065f12e284e727c069cf4b573d5d0b50",
+      "title": "Cuộc sống và khối tài sản khổng lồ của dàn sao 'Fast & Furious'",
+      "link": "https://thanhnien.vn/cuoc-song-va-khoi-tai-san-khong-lo-cua-dan-sao-fast-furious-18526011415535077.htm",
+      "summary": "Ra mắt năm 2001 với quy mô khiêm tốn, đến nay 'Fast & Furious' đã trở thành thương hiệu phim ăn khách hàng đầu Hollywood, đưa dàn diễn viên thành các ngôi sao toàn cầu, sở hữu khối tài sản khổng lồ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:46:00+07:00",
+      "fetched": "2026-01-14T17:15:45.943039+07:00"
+    },
+    {
+      "id": "b5fe2586b7b6aa9a22c73945d0d22cdf",
+      "title": "Campuchia, Thái Lan tranh cãi vì cáo buộc 'chiếm làng biên giới'",
+      "link": "https://vnexpress.net/campuchia-thai-lan-tranh-cai-vi-cao-buoc-chiem-lang-bien-gioi-5005618.html",
+      "summary": "Campuchia cáo buộc quân đội Thái Lan tiếp tục kiểm soát các khu dân cư của nước này, Bangkok gọi đây là thông tin \"vô căn cứ\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-14T09:43:10+07:00",
+      "fetched": "2026-01-14T17:15:49.195146+07:00"
+    },
+    {
+      "id": "88d81750c040759995774d4228481136",
+      "title": "Báo chí Thái Lan ấm lòng khi truyền thông Việt Nam nhận định 'voi chiến' vẫn còn cơ hội vào tứ kết",
+      "link": "https://thanhnien.vn/bao-chi-thai-lan-am-long-khi-truyen-thong-viet-nam-nhan-dinh-voi-chien-van-con-co-hoi-vao-tu-ket-185260114163728216.htm",
+      "summary": "Báo chí Thái Lan tỏ ra lạc quan và phần nào được tiếp thêm niềm tin khi truyền thông Việt Nam đưa ra những đánh giá tích cực về cơ hội đi tiếp của U.23 Thái Lan tại VCK U.23 châu Á 2026, trước trận đấu mang tính quyết định với U.23 Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:39:00+07:00",
+      "fetched": "2026-01-14T17:15:45.943197+07:00"
+    },
+    {
+      "id": "22b7c9e76f2e10db148bb4a0434975ff",
+      "title": "Hiện trường vụ cần cẩu rơi trúng tàu hỏa Thái Lan",
+      "link": "https://vnexpress.net/hien-truong-vu-can-cau-roi-trung-tau-hoa-thai-lan-5005625.html",
+      "summary": "Sau khi bị cần cẩu rơi trúng, đoàn tàu ở tỉnh Nakhon Ratchasima bị hư hại, biến dạng nghiêm trọng, nhiều người bị thương ngồi la liệt bên đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:38:44+07:00",
+      "fetched": "2026-01-14T17:15:42.458991+07:00"
+    },
+    {
+      "id": "22b7c9e76f2e10db148bb4a0434975ff",
+      "title": "Hiện trường vụ cần cẩu rơi trúng tàu hỏa Thái Lan",
+      "link": "https://vnexpress.net/hien-truong-vu-can-cau-roi-trung-tau-hoa-thai-lan-5005625.html",
+      "summary": "Sau khi bị cần cẩu rơi trúng, đoàn tàu ở tỉnh Nakhon Ratchasima bị hư hại, biến dạng nghiêm trọng, nhiều người bị thương ngồi la liệt bên đường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-14T09:38:44+07:00",
+      "fetched": "2026-01-14T17:15:49.195326+07:00"
+    },
+    {
+      "id": "98bd5365f40003680dce15b9ee28d4cf",
+      "title": "Thị trường ôtô Việt Nam lập kỷ lục doanh số",
+      "link": "https://vnexpress.net/thi-truong-oto-viet-nam-lap-ky-luc-doanh-so-5005631.html",
+      "summary": "Năm 2025, ngành ôtô trong nước bán ra hơn 604.000 xe, vượt kỷ lục năm 2022 từng thiết lập - 508.547 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:37:48+07:00",
+      "fetched": "2026-01-14T17:15:42.459169+07:00"
+    },
+    {
+      "id": "c1ceb4ddaa122febfa7184ccfd47a2ac",
+      "title": "Sở VH-TT TP.HCM vào cuộc vụ Lệ Quyên phát ngôn gây tranh cãi",
+      "link": "https://thanhnien.vn/so-vh-tt-tphcm-vao-cuoc-vu-le-quyen-phat-ngon-gay-tranh-cai-185260114163214042.htm",
+      "summary": "Vụ ồn ào ca sĩ Lệ Quyên dùng những từ ngữ nặng nề, gay gắt khi đáp trả bình luận khán giả thu hút nhiều sự quan tâm và tranh luận của công chúng. Liên quan đến vấn đề này, Sở VH-TT TP.HCM đã có phản hồi chính thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:37:00+07:00",
+      "fetched": "2026-01-14T17:15:45.943349+07:00"
+    },
+    {
+      "id": "9356bd711b5d26d75769eda22fc67965",
+      "title": "Mong tìm người chân thành, tốt tính để cùng đón xuân mới",
+      "link": "https://vnexpress.net/mong-tim-nguoi-chan-thanh-tot-tinh-de-cung-don-xuan-moi-5004609.html",
+      "summary": "Mình sống và làm việc tại TP HCM, tính tình vui vẻ, hòa đồng, thích du lịch, yêu thiên nhiên, yêu trẻ con, gia đình nề nếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:36:05+07:00",
+      "fetched": "2026-01-14T17:15:42.459279+07:00"
+    },
+    {
+      "id": "985c5c22eb40f67cf7fc6ac2868b9be6",
+      "title": "Hàng hóa tăng giá, nên mua bên ngoài hay mua trên sàn?",
+      "link": "https://thanhnien.vn/hang-hoa-tang-gia-nen-mua-ben-ngoai-hay-mua-tren-san-185260114130112682.htm",
+      "summary": "Thuế phí gia tăng, nhiều mặt hàng mua trên sàn thương mại điện tử còn đắt hơn mua bên ngoài sàn. Nhiều người bắt đầu phân vân khi xuống tiền mua sắm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:33:00+07:00",
+      "fetched": "2026-01-14T17:15:45.943496+07:00"
+    },
+    {
+      "id": "5ab7792920f98da0cb5be521f5e2f8a4",
+      "title": "Hạ rào công viên Thành Công",
+      "link": "https://vnexpress.net/ha-rao-cong-vien-thanh-cong-5005657.html",
+      "summary": "Công viên Indira Gandhi, thường gọi là công viên Thành Công, đang được phá rào, sửa chữa chỉnh trang nhỏ để phục vụ nhân dân đón Tết Nguyên đán Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:31:11+07:00",
+      "fetched": "2026-01-14T17:15:42.459446+07:00"
+    },
+    {
+      "id": "28e8f25abda5806ab171a264a7a93a9e",
+      "title": "Tiểu thư tài phiệt Annie (ALLDAY PROJECT) tạm dừng hoạt động, quay về Mỹ học đại học",
+      "link": "https://thanhnien.vn/tieu-thu-tai-phiet-annie-allday-project-tam-dung-hoat-dong-quay-ve-my-hoc-dai-hoc-185260114161305753.htm",
+      "summary": "Annie, nữ idol Kpop thuộc nhóm nhạc ALLDAY PROJECT và là con gái Chủ tịch Tập đoàn Shinsegae vừa thông báo sẽ tạm dừng hoạt động tại Hàn Quốc để sang Mỹ tập trung cho việc học tập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:31:00+07:00",
+      "fetched": "2026-01-14T17:15:45.943675+07:00"
+    },
+    {
+      "id": "9479bfed22a7fbaabc1c54a01d5b3dda",
+      "title": "Canada - Trung Quốc tìm lại đối tác, gây dựng đối trọng",
+      "link": "https://thanhnien.vn/canada-trung-quoc-tim-lai-doi-tac-gay-dung-doi-trong-185260113203513962.htm",
+      "summary": "Với chuyến thăm của Thủ tướng Canada Mark Carney đến Bắc Kinh, một thủ tướng nước này mới công du Trung Quốc sau gần một thập kỷ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:31:00+07:00",
+      "fetched": "2026-01-14T17:15:45.943829+07:00"
+    },
+    {
+      "id": "769d2be0c587704c6eaed95f0198d1f2",
+      "title": "Đông này có em, có anh, đông năm sau nhất định có chúng ta",
+      "link": "https://vnexpress.net/dong-nay-co-em-co-anh-dong-nam-sau-nhat-dinh-co-chung-ta-5004610.html",
+      "summary": "Em hướng nội, ít nói, chu đáo, luôn quan tâm và chăm sóc người thân bên cạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:28:36+07:00",
+      "fetched": "2026-01-14T17:15:42.459545+07:00"
+    },
+    {
+      "id": "68d67acebd5d7913f18e21cefb17f2cc",
+      "title": "Tìm em chân thành, sẵn sàng mở lòng để cùng nhau trò chuyện",
+      "link": "https://vnexpress.net/tim-em-chan-thanh-san-sang-mo-long-de-cung-nhau-tro-chuyen-5004608.html",
+      "summary": "Mình tin rằng một mối quan hệ bền vững luôn bắt đầu từ sự tôn trọng, thấu hiểu và cùng hướng về tương lai lâu dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:27:42+07:00",
+      "fetched": "2026-01-14T17:15:42.459658+07:00"
+    },
+    {
+      "id": "610b57e6a13a70eec5c26675d1b63297",
+      "title": "Nguyễn Ngọc Thuần ra sách sau 10 năm chống chọi bạo bệnh",
+      "link": "https://vnexpress.net/nguyen-ngoc-thuan-ra-sach-sau-10-nam-chong-choi-bao-benh-5005544.html",
+      "summary": "Nhà văn Nguyễn Ngọc Thuần ra mắt tác phẩm \"Vẻ đẹp của kẻ chán chường\", lấy cảm hứng từ trải nghiệm 10 năm anh vật lộn bệnh tật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:27:05+07:00",
+      "fetched": "2026-01-14T17:15:42.459819+07:00"
+    },
+    {
+      "id": "891732ab43039005ae4af0681a54e674",
+      "title": "Thặng dư thương mại năm 2025 của Trung Quốc đạt mức kỷ lục",
+      "link": "https://thanhnien.vn/thang-du-thuong-mai-nam-2025-cua-trung-quoc-dat-muc-ky-luc-185260114160145089.htm",
+      "summary": "Trung Quốc ngày 14.1 công bố số liệu thương mại khả quan cho năm 2025, khi thặng dư thương mại tăng lên mức kỷ lục 1.200 tỉ USD, bất chấp sự sụt giảm xuất khẩu sang Mỹ sau khi Tổng thống Donald Trump tăng thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:27:00+07:00",
+      "fetched": "2026-01-14T17:15:45.943977+07:00"
+    },
+    {
+      "id": "7ebdda90f79f4db003e5315ba16d40cc",
+      "title": "Lưu Gia Linh thừa nhận chưa từng có vai diễn mang tính biểu tượng",
+      "link": "https://thanhnien.vn/luu-gia-linh-thua-nhan-chua-tung-co-vai-dien-mang-tinh-bieu-tuong-185260114133647031.htm",
+      "summary": "Trong một cuộc trò chuyện mới đây, Lưu Gia Linh thẳng thắn bày tỏ sự tiếc nuối khi nhìn lại sự nghiệp diễn xuất kéo dài hàng chục năm của mình. Cô cho rằng bản thân chưa từng sở hữu một vai diễn mang tính biểu tượng thực sự. Chia sẻ này nhanh chóng gây ra nhiều tranh luận trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:27:00+07:00",
+      "fetched": "2026-01-14T17:15:45.944131+07:00"
+    },
+    {
+      "id": "2af86e9d8348cd015bda2f0b0e2d4007",
+      "title": "Huấn luyện viên cầu lông đột tử trên sân tập",
+      "link": "https://vnexpress.net/huan-luyen-vien-cau-long-dot-tu-tren-san-tap-5005641.html",
+      "summary": "Sau trận cầu lông, nam huấn luyện viên 60 tuổi đột ngột mệt, khó thở rồi ngưng tim ngay trên sân tập, kíp cấp cứu 115 hồi sức tim phổi tích cực suốt 70 phút nhưng không thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:25:21+07:00",
+      "fetched": "2026-01-14T17:15:42.459984+07:00"
+    },
+    {
+      "id": "ae9a1f960b16514c0c0717167fbd35ee",
+      "title": "Giám đốc bị khởi tố trong vụ công nhân tử vong khi hàn điện",
+      "link": "https://vnexpress.net/giam-doc-bi-khoi-to-trong-vu-cong-nhan-tu-vong-khi-han-dien-5005606.html",
+      "summary": "Ông Đinh Quyền bị cáo buộc sử dụng nhóm công nhân chưa được đào tạo về hàn điện, chưa được huấn luyện an toàn lao động dẫn đến tai nạn cháy nổ khiến một người tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:22:20+07:00",
+      "fetched": "2026-01-14T17:15:42.460145+07:00"
+    },
+    {
+      "id": "af08dee6f58b33dded34af56dc111745",
+      "title": "Người Mỹ chi tiền kỷ lục mua xe bán tải",
+      "link": "https://vnexpress.net/nguoi-my-chi-tien-ky-luc-mua-xe-ban-tai-5005367.html",
+      "summary": "Riêng tháng 12/2025, số tiền người Mỹ chi cho dòng bán tải cỡ lớn đạt kỷ lục trong bối cảnh giá xe mới trung bình cũng ở mức cao nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:13:09+07:00",
+      "fetched": "2026-01-14T17:15:42.460307+07:00"
+    },
+    {
+      "id": "712501e6bfcba48f80e125e3fa1f4e14",
+      "title": "Henry: 'Cầu thủ Real nắm 90% quyền lực, chỉ 10% thuộc về HLV'",
+      "link": "https://vnexpress.net/henry-cau-thu-real-nam-90-quyen-luc-chi-10-thuoc-ve-hlv-5005660.html",
+      "summary": "Theo cựu tiền đạo Thierry Henry, HLV Xabi Alonso thất bại ở Real Madrid vì chưa biết cách quản trị cầu thủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:11:38+07:00",
+      "fetched": "2026-01-14T17:15:42.460473+07:00"
+    },
+    {
+      "id": "712501e6bfcba48f80e125e3fa1f4e14",
+      "title": "Henry: 'Cầu thủ Real nắm 90% quyền lực, chỉ 10% thuộc về HLV'",
+      "link": "https://vnexpress.net/henry-cau-thu-real-nam-90-quyen-luc-chi-10-thuoc-ve-hlv-5005660.html",
+      "summary": "Theo cựu tiền đạo Thierry Henry, HLV Xabi Alonso thất bại ở Real Madrid vì chưa biết cách quản trị cầu thủ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-14T09:11:38+07:00",
+      "fetched": "2026-01-14T17:15:56.677835+07:00"
+    },
+    {
+      "id": "3f7e9fc3f7018fe2dfc30b3b92a8cb37",
+      "title": "Nhà Trắng đề cử nữ ứng viên làm đại sứ tại Việt Nam",
+      "link": "https://vnexpress.net/nha-trang-de-cu-nu-ung-vien-lam-dai-su-tai-viet-nam-5005608.html",
+      "summary": "Nhà Trắng đề cử lên Thượng viện bà Jennifer Wicks McNamara, với gần 31 năm kinh nghiệm trong bộ máy chính phủ Mỹ, cho vị trí đại sứ tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:04:38+07:00",
+      "fetched": "2026-01-14T17:15:42.460650+07:00"
+    },
+    {
+      "id": "3f7e9fc3f7018fe2dfc30b3b92a8cb37",
+      "title": "Nhà Trắng đề cử nữ ứng viên làm đại sứ tại Việt Nam",
+      "link": "https://vnexpress.net/nha-trang-de-cu-nu-ung-vien-lam-dai-su-tai-viet-nam-5005608.html",
+      "summary": "Nhà Trắng đề cử lên Thượng viện bà Jennifer Wicks McNamara, với gần 31 năm kinh nghiệm trong bộ máy chính phủ Mỹ, cho vị trí đại sứ tại Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-14T09:04:38+07:00",
+      "fetched": "2026-01-14T17:15:49.195493+07:00"
+    },
+    {
+      "id": "7de604eb7f19cdeba62079f473387164",
+      "title": "Bé gái sập bẫy của 3 thiếu niên",
+      "link": "https://vnexpress.net/be-gai-sap-bay-cua-3-thieu-nien-5005634.html",
+      "summary": "Ba thiếu niên rủ bé gái 15 tuổi đến phòng trọ, sau đó dùng cây chỉa và rựa đe dọa, thực hiện hành vi đồi bại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:04:35+07:00",
+      "fetched": "2026-01-14T17:15:42.460747+07:00"
+    },
+    {
+      "id": "9563479269ab19fe28241f78549d24c1",
+      "title": "Các 'ông lớn' công nghệ Trung Quốc mạnh tay thưởng cuối năm",
+      "link": "https://vnexpress.net/cac-ong-lon-cong-nghe-trung-quoc-manh-tay-thuong-cuoi-nam-5005486.html",
+      "summary": "Các tập đoàn công nghệ Trung Quốc thưởng tới 10 tháng lương nhằm thu hút nhân tài và kích cầu kinh tế theo định hướng mới của chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:00:18+07:00",
+      "fetched": "2026-01-14T17:15:42.460898+07:00"
+    },
+    {
+      "id": "9563479269ab19fe28241f78549d24c1",
+      "title": "Các 'ông lớn' công nghệ Trung Quốc mạnh tay thưởng cuối năm",
+      "link": "https://vnexpress.net/cac-ong-lon-cong-nghe-trung-quoc-manh-tay-thuong-cuoi-nam-5005486.html",
+      "summary": "Các tập đoàn công nghệ Trung Quốc thưởng tới 10 tháng lương nhằm thu hút nhân tài và kích cầu kinh tế theo định hướng mới của chính phủ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-14T09:00:18+07:00",
+      "fetched": "2026-01-14T17:15:49.195683+07:00"
+    },
+    {
+      "id": "968e9a6a6ef0d24714cbcc00fbc94c18",
+      "title": "Mối tình 8 năm tan vỡ ở tuổi 32 là động lực để tôi gặp đúng người",
+      "link": "https://vnexpress.net/cach-vuot-qua-that-tinh-moi-tinh-8-nam-tan-vo-o-tuoi-32-la-dong-luc-de-toi-ra-nuoc-ngoai-va-gap-dung-nguoi-5005642.html",
+      "summary": "Khi tôi 32 tuổi, anh lại từ chối chuyện cưới xin với một lý do rất \"đẹp\": anh không muốn tôi khổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T09:00:00+07:00",
+      "fetched": "2026-01-14T17:15:42.461055+07:00"
+    },
+    {
+      "id": "a3e3cb5744a2b28a5abdfb134cc3842d",
+      "title": "Nhà đầu tư rót mạnh tiền vào chứng khoán",
+      "link": "https://vnexpress.net/nha-dau-tu-rot-manh-tien-vao-chung-khoan-5005637.html",
+      "summary": "Nhà đầu tư trong nước rót mạnh tiền vào các cổ phiếu vốn hóa lớn, đẩy thanh khoản chứng khoán lên 46.000 tỷ đồng, cao nhất 3 tháng qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-14T08:32:42+07:00",
+      "fetched": "2026-01-14T17:15:50.986946+07:00"
+    },
+    {
       "id": "9ef5d3c17e39aa4590341772541f3302",
       "title": "Nguyên nhân vụ tai nạn trên cao tốc khiến 4 người chết, 6 người bị thương",
       "link": "https://thanhnien.vn/nguyen-nhan-vu-tai-nan-tren-cao-toc-khien-4-nguoi-chet-6-nguoi-bi-thuong-185260114144046133.htm",
@@ -461,6 +971,16 @@ window.newsData_2026_01_14 = {
       "category": "Tổng hợp",
       "published": "2026-01-14T08:18:00+07:00",
       "fetched": "2026-01-14T15:18:42.443062+07:00"
+    },
+    {
+      "id": "d8f540074462ff2d60374d42891d1443",
+      "title": "HLV Kim Sang-sik: 'Gặp đối thủ nào, Việt Nam cũng chiến'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-gap-doi-thu-nao-viet-nam-cung-chien-5005613.html",
+      "summary": "Sau khi vượt qua vòng bảng với thành tích ngoài mong đợi, HLV Kim Sang-sik kêu gọi các cầu thủ Việt Nam duy trì tinh thần, tự tin và tập trung trước trận gặp UAE ở tứ kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-14T08:14:13+07:00",
+      "fetched": "2026-01-14T17:15:56.678011+07:00"
     },
     {
       "id": "8464b3e158f575f1fea9fa95f2693ffd",
