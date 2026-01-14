@@ -1,6 +1,6 @@
 window.newsData_2026_01_14 = {
   "date": "2026-01-14",
-  "lastUpdated": "2026-01-14T10:29:07.897513+07:00",
+  "lastUpdated": "2026-01-14T11:39:44.362472+07:00",
   "articles": [
     {
       "id": "fdd52251fb355cc25d58691a081349d2",
@@ -273,6 +273,256 @@ window.newsData_2026_01_14 = {
       "fetched": "2026-01-14T05:13:54.972214+07:00"
     },
     {
+      "id": "ae140076ea38908f0157a2caa2fd991b",
+      "title": "Highlight U.23 Nhật Bản 2-0 U.23 Qatar: Vòng bảng hoàn hảo",
+      "link": "https://thanhnien.vn/highlight-u23-nhat-ban-2-0-u23-qatar-vong-bang-hoan-hao-185260114113903388.htm",
+      "summary": "U.23 Nhật Bản khép lại vòng bảng bằng chiến thắng thuyết phục 2-0 trước U.23 Qatar, qua đó hoàn tất hành trình vòng bảng với phong độ ổn định, lối chơi kỷ luật và hiệu quả đúng chất ứng viên hàng đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T04:39:00+07:00",
+      "fetched": "2026-01-14T11:39:35.963476+07:00"
+    },
+    {
+      "id": "0ad5cff8b57c69a0212005b7a772b0b5",
+      "title": "Một trường đại học bỏ quy định IELTS được thay điểm môn tiếng Anh",
+      "link": "https://thanhnien.vn/mot-truong-dai-hoc-bo-quy-dinh-ielts-duoc-thay-diem-mon-tieng-anh-185260114111816881.htm",
+      "summary": "Điểm mới nổi bật trong quy định tuyển sinh ĐH 2026 của Trường ĐH Giao thông vận tải là bỏ quy định IELTS được thay thế điểm môn tiếng Anh trong các tổ hợp xét tuyển có môn này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T04:37:00+07:00",
+      "fetched": "2026-01-14T11:39:35.963647+07:00"
+    },
+    {
+      "id": "38232a50319e65e88006a294e7eed40c",
+      "title": "Giới thiệu Bí thư Quảng Ninh Quản Minh Cường ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://thanhnien.vn/gioi-thieu-bi-thu-quang-ninh-quan-minh-cuong-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-185260114110427209.htm",
+      "summary": "Cử tri Văn phòng Tỉnh ủy Quảng Ninh đã thống nhất cao, giới thiệu ông Quản Minh Cường, Bí thư Tỉnh ủy Quảng Ninh, ứng cử đại biểu Quốc hội khóa XVI, cùng 3 nhân sự ứng cử HĐND tỉnh Quảng Ninh nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T04:32:00+07:00",
+      "fetched": "2026-01-14T11:39:35.963805+07:00"
+    },
+    {
+      "id": "428fd7a529fac7e8168e1f5481aead1d",
+      "title": "Ông chủ nhà hàng Bình Xuyên viết tâm thư trước ngày đóng cửa vĩnh viễn",
+      "link": "https://thanhnien.vn/ong-chu-nha-hang-binh-xuyen-viet-tam-thu-truoc-ngay-dong-cua-vinh-vien-185260113141206994.htm",
+      "summary": "Nhà hàng sinh thái Bình Xuyên hoạt động 15 năm tại khu vực Bình Chánh sẽ chính thức đóng cửa, ngừng hoạt động để trả lại mặt bằng theo quyết định của UBND TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T04:26:00+07:00",
+      "fetched": "2026-01-14T11:39:35.963958+07:00"
+    },
+    {
+      "id": "bbde9205ee51e7d8295dcbc50fd3ff5c",
+      "title": "Cà Mau chấp thuận dự án nhà máy ván ghép thành viên nén gỗ 132 tỉ đồng",
+      "link": "https://thanhnien.vn/ca-mau-chap-thuan-du-an-nha-may-van-ghep-thanh-vien-nen-go-132-ti-dong-185260114092005968.htm",
+      "summary": "UBND tỉnh Cà Mau chính thức chấp thuận chủ trương đầu tư, đồng thời chấp thuận nhà đầu tư cho dự án nhà máy ván ghép thanh và viên nén gỗ tại xã Biển Bạch với tổng vốn hơn 132 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T04:23:00+07:00",
+      "fetched": "2026-01-14T11:39:35.964112+07:00"
+    },
+    {
+      "id": "279ab84f8feb03b26180921b10c8b52a",
+      "title": "HLV U.23 UAE ‘đã xem cả 3 trận của U.23 Việt Nam, đối thủ rất mạnh và nguy hiểm’",
+      "link": "https://thanhnien.vn/hlv-u23-uae-da-xem-ca-3-tran-cua-u23-viet-nam-doi-thu-rat-manh-va-nguy-hiem-185260114111846794.htm",
+      "summary": "Chính thức giành vé vào tứ kết và gặp U.23 Việt Nam, HLV U.23 UAE thẳng thắn đánh giá đội bóng của HLV Kim Sang-sik là tập thể gắn kết và đặc biệt nguy hiểm ở các tình huống chuyển trạng thái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T04:21:00+07:00",
+      "fetched": "2026-01-14T11:39:35.964302+07:00"
+    },
+    {
+      "id": "2adc6925e5bf81f4030efa5822a9b0a5",
+      "title": "'Không giới hạn' - lát cắt mới về người lính cứu hộ, cứu nạn trong thời bình",
+      "link": "https://thanhnien.vn/khong-gioi-han-lat-cat-moi-ve-nguoi-linh-cuu-ho-cuu-nan-trong-thoi-binh-185260113215201258.htm",
+      "summary": "Không giới hạn - bộ phim truyền hình mới dự kiến lên sóng VTV1 lúc 21 giờ từ ngày 15.1 - mang đến một lát cắt mới mẻ và giàu cảm xúc về hình ảnh người lính Quân đội nhân dân VN trong thời bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T04:15:00+07:00",
+      "fetched": "2026-01-14T11:39:35.964460+07:00"
+    },
+    {
+      "id": "72f227c5b00b1c3cc24ec7458609d63a",
+      "title": "Vụ xây tường chắn ngang đường ở Nga Sơn: Đồng ý đền bù đất cho dân",
+      "link": "https://thanhnien.vn/vu-xay-tuong-chan-ngang-duong-o-nga-son-dong-y-den-bu-dat-cho-dan-185260114095936807.htm",
+      "summary": "UBND tỉnh Thanh Hóa đã đồng ý để UBND xã Nga Sơn cắt 298 m2 đất thuộc mặt bằng đấu giá quyền sử dụng đất Khu dân cư phía đông QL10 để thực hiện đền bù cho 3 hộ dân trước đó bị lấy đất làm đường giao thông nhưng không được đền bù.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T04:13:00+07:00",
+      "fetched": "2026-01-14T11:39:35.964612+07:00"
+    },
+    {
+      "id": "e0b612ea950cf2bf2f503bff5486f500",
+      "title": "Vợ chồng Clinton từ chối điều trần trước Hạ viện Mỹ về hồ sơ Epstein",
+      "link": "https://vnexpress.net/vo-chong-clinton-tu-choi-dieu-tran-truoc-ha-vien-my-ve-ho-so-epstein-5005396.html",
+      "summary": "Cựu tổng thống Bill Clinton và vợ Hillary từ chối lệnh triệu tập của Ủy ban Giám sát Hạ viện về hồ sơ Epstein, đối mặt nguy cơ phạm tội \"khinh thường Quốc hội\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-14T04:11:33+07:00",
+      "fetched": "2026-01-14T11:39:38.367398+07:00"
+    },
+    {
+      "id": "cd79358eda3e8450c63d7037668957a6",
+      "title": "Bất ngờ giá hoa cúc mâm xôi giảm mạnh, vì sao?",
+      "link": "https://thanhnien.vn/bat-ngo-gia-hoa-cuc-mam-xoi-giam-manh-vi-sao-185260114093322703.htm",
+      "summary": "Trong những ngày gần đây, lượng hoa cúc mâm xôi về TP.HCM tăng mạnh và giá cũng giảm đáng kể so với cách đây 2 tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T04:11:00+07:00",
+      "fetched": "2026-01-14T11:39:35.964768+07:00"
+    },
+    {
+      "id": "308b0a709f54fe2fb8517a3495bed820",
+      "title": "TP.HCM tìm nhà đầu tư chiến lược làm 'siêu dự án' Bình Quới - Thanh Đa",
+      "link": "https://thanhnien.vn/tphcm-tim-nha-dau-tu-chien-luoc-lam-sieu-du-an-binh-quoi-thanh-da-185260114095816542.htm",
+      "summary": "TP.HCM tìm kiếm nhà đầu tư chiến lược cho 'siêu dự án' Bình Quới - Thanh Đa với hơn 50.000 tỉ đồng sau hơn 30 năm bị 'treo', ảnh hưởng đến quyền lợi người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T04:06:00+07:00",
+      "fetched": "2026-01-14T11:39:35.964918+07:00"
+    },
+    {
+      "id": "8f8804b3941da38755c2f2f6db1ca082",
+      "title": "HLV Kim Sang-sik tận mắt xem U.23 UAE hòa Syria, lên phương án nhân sự và chiến thuật đấu tứ kết",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-tan-mat-xem-u23-uae-hoa-syria-len-phuong-an-nhan-su-va-chien-thuat-dau-tu-ket-185260114105650498.htm",
+      "summary": "Theo dõi trực tiếp trận U.23 UAE hòa U.23 Syria 1-1, HLV Kim Sang-sik cùng ban huấn luyện đã xác định đối thủ của U.23 Việt Nam ở tứ kết VCK U.23 châu Á 2026, qua đó nhanh chóng bước vào quá trình chuẩn bị cho trận đấu then chốt sắp tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T04:03:00+07:00",
+      "fetched": "2026-01-14T11:39:35.965074+07:00"
+    },
+    {
+      "id": "f772f81468ef493555b3bd6dcb61254c",
+      "title": "Xem nhanh 12h: Bà Nguyễn Phương Hằng sẽ yêu cầu bồi thường? | 'Điểm mặt' những lỗi bị tạm giữ xe máy",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-ba-nguyen-phuong-hang-se-yeu-cau-boi-thuong-diem-mat-nhung-loi-bi-tam-giu-xe-may-185260114105048111.htm",
+      "summary": "Vụ án Đinh Thị Lan, tin tức thời tiết, thông tin với về Công ty Đồ hộp Hạ Long,… sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 14.1.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T04:00:00+07:00",
+      "fetched": "2026-01-14T11:39:35.965251+07:00"
+    },
+    {
+      "id": "4835938428f635ecdf347aae9bd81351",
+      "title": "Thủ phủ quất cảnh miền Trung: Thời tiết thất thường, nhà vườn 'nín thở' chờ tết",
+      "link": "https://thanhnien.vn/thu-phu-quat-canh-mien-trung-thoi-tiet-that-thuong-nha-vuon-nin-tho-cho-tet-185260113141440479.htm",
+      "summary": "Thủ phủ quất cảnh miền Trung ở Đà Nẵng đang bước vào giai đoạn cao điểm. Nhà vườn thức trắng, canh thời tiết từng ngày để xuất vườn đón tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T04:00:00+07:00",
+      "fetched": "2026-01-14T11:39:35.965400+07:00"
+    },
+    {
+      "id": "30fe6422f34ba88ad2ad24a581504f9b",
+      "title": "Ziaja ghi dấu ấn nhờ chiến lược 'giá trị thật'",
+      "link": "https://vnexpress.net/ziaja-ghi-dau-an-nho-chien-luoc-gia-tri-that-5002286.html",
+      "summary": "Ziaja, thương hiệu dược mỹ phẩm Ba Lan, ghi dấu ấn tại Việt Nam sau gần hai thập niên nhờ minh bạch chất lượng, nguồn gốc xuất xứ từ đó người tiêu dùng trong nước tin dùng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-14T04:00:00+07:00",
+      "fetched": "2026-01-14T11:39:39.867836+07:00"
+    },
+    {
+      "id": "ffae87ddb827377d71f3d94d6f986f48",
+      "title": "Miền Bắc đón không khí lạnh mạnh đầu tuần sau, Hà Nội rét 10 độ C",
+      "link": "https://thanhnien.vn/mien-bac-don-khong-khi-lanh-manh-dau-tuan-sau-ha-noi-ret-10-do-c-18526011410465895.htm",
+      "summary": "Theo dự báo, từ ngày 20 - 21.1, miền Bắc sẽ chịu ảnh hưởng của đợt không khí lạnh mạnh, trời chuyển rét đậm, vùng núi rét hại; riêng Hà Nội nhiệt độ thấp nhất khoảng 10 - 12 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:57:00+07:00",
+      "fetched": "2026-01-14T11:39:35.965555+07:00"
+    },
+    {
+      "id": "eb3dfc2e4202d5a54225160242476ae3",
+      "title": "Nợ thuế hơn 600.000 đồng, 2 doanh nghiệp bị cưỡng chế ngưng thủ tục hải quan",
+      "link": "https://thanhnien.vn/no-thue-hon-600000-dong-2-doanh-nghiep-bi-cuong-che-ngung-thu-tuc-hai-quan-185260114090912984.htm",
+      "summary": "Thông tin từ Chi cục Hải quan Khu vực III, đơn vị này vừa ban hành loạt quyết định cưỡng chế dừng làm thủ tục hải quan đối với hàng hóa xuất khẩu, nhập khẩu nhiều doanh nghiệp do nợ thuế quá hạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:57:00+07:00",
+      "fetched": "2026-01-14T11:39:35.965703+07:00"
+    },
+    {
+      "id": "7531c652b4641caeb0c13e90f1f01ec5",
+      "title": "Ông Trump chê Chủ tịch Fed 'không có năng lực'",
+      "link": "https://vnexpress.net/ong-trump-che-chu-tich-fed-khong-co-nang-luc-5005364.html",
+      "summary": "Tổng thống Mỹ Donald Trump cho rằng Chủ tịch Fed Jerome Powell \"không có năng lực, chưa làm tốt việc của mình\" khi chi vượt ngân sách hàng tỷ USD tại dự án cải tạo trụ sở Fed.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-14T03:55:03+07:00",
+      "fetched": "2026-01-14T11:39:39.867177+07:00"
+    },
+    {
+      "id": "f63e67955f3a67feb6351e0b873c4783",
+      "title": "Guardiola phẫn nộ với VAR",
+      "link": "https://vnexpress.net/guardiola-phan-no-voi-var-5005471.html",
+      "summary": "Sau trận thắng Newcastle 2-0 ở lượt đi bán kết Cup Liên đoàn, HLV Pep Guardiola chỉ trích các quyết định VAR thiếu nhất quán, đồng thời dẫn lại nhiều tình huống gây tranh cãi từng khiến Man City bất lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:42:20+07:00",
+      "fetched": "2026-01-14T11:39:32.630306+07:00"
+    },
+    {
+      "id": "f63e67955f3a67feb6351e0b873c4783",
+      "title": "Guardiola phẫn nộ với VAR",
+      "link": "https://vnexpress.net/guardiola-phan-no-voi-var-5005471.html",
+      "summary": "Sau trận thắng Newcastle 2-0 ở lượt đi bán kết Cup Liên đoàn, HLV Pep Guardiola chỉ trích các quyết định VAR thiếu nhất quán, đồng thời dẫn lại nhiều tình huống gây tranh cãi từng khiến Man City bất lợi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-14T03:42:20+07:00",
+      "fetched": "2026-01-14T11:39:44.355386+07:00"
+    },
+    {
+      "id": "384c76391c4d635d6380d9fd0ef1604a",
+      "title": "'Thưởng Tết chỉ 10 triệu đồng dù tôi kỳ vọng ba tháng lương'",
+      "link": "https://vnexpress.net/thuong-tet-10-trieu-du-ky-vong-ba-thang-luong-5005480.html",
+      "summary": "Công ty có lãi, không phải cắt giảm nhân sự, tôi làm việc cật lực cả năm, thường xuyên OT, nhận việc khó...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:36:45+07:00",
+      "fetched": "2026-01-14T11:39:32.630488+07:00"
+    },
+    {
+      "id": "1d30bcf4473f8925f99caa093f590ab3",
+      "title": "Những chiến lược đánh chiếm thị trường xe máy điện của Honda Việt Nam",
+      "link": "https://vnexpress.net/nhung-chien-luoc-danh-chiem-thi-truong-xe-may-dien-cua-honda-viet-nam-5005355.html",
+      "summary": "Năm 2026, Honda bán mẫu xe máy điện thứ ba, gia nhập cuộc đua xây dựng trạm sạc, trạm đổi pin với các đối thủ như VinFast, Yamaha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:32:41+07:00",
+      "fetched": "2026-01-14T11:39:32.630653+07:00"
+    },
+    {
+      "id": "4ea12d63698b4eb410841144fc9835cd",
+      "title": "Chị em song sinh cưới anh em sinh đôi",
+      "link": "https://vnexpress.net/chi-em-song-sinh-cuoi-anh-em-sinh-doi-5005368.html",
+      "summary": "Tại hôn lễ của chị em song sinh họ Shan và hai chú rể họ Song, khách mời thêm ngỡ ngàng khi biết bác của cả nhà trai và gái đều là các cặp sinh đôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:32:30+07:00",
+      "fetched": "2026-01-14T11:39:32.630812+07:00"
+    },
+    {
+      "id": "965fc72cf9c87255f29910c437c84a9d",
+      "title": "Vietjet vào top hãng hàng không giá rẻ an toàn nhất 2026",
+      "link": "https://vnexpress.net/vietjet-vao-top-hang-hang-khong-gia-re-an-toan-nhat-2026-5005469.html",
+      "summary": "Vietjet xếp thứ 8 trong danh sách 25 hãng hàng không giá rẻ an toàn nhất 2026 của AirlineRatings, công bố ngày 13/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:30:00+07:00",
+      "fetched": "2026-01-14T11:39:32.630972+07:00"
+    },
+    {
+      "id": "543a3f64355e934cb20576b61a9550fa",
+      "title": "VPBank NEO triển khai tính năng '365 ngày nhìn lại'",
+      "link": "https://vnexpress.net/vpbank-neo-trien-khai-tinh-nang-365-ngay-nhin-lai-5005289.html",
+      "summary": "VPBank triển khai tính năng \"365 ngày nhìn lại\" trên ứng dụng VPBank NEO, tái hiện bức tranh tài chính năm 2025 và đưa ra gợi ý chi tiêu, tiết kiệm, đầu tư theo chân dung của từng khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:30:00+07:00",
+      "fetched": "2026-01-14T11:39:32.631131+07:00"
+    },
+    {
       "id": "c7d4bff82a1c62dce3612598d7d58a13",
       "title": "Đồng Tháp: Nam sinh lớp 12 đâm hàng xóm trọng thương vì ca hát ồn ào",
       "link": "https://thanhnien.vn/dong-thap-nam-sinh-lop-12-dam-hang-xom-trong-thuong-vi-ca-hat-on-ao-185260113205249906.htm",
@@ -291,6 +541,26 @@ window.newsData_2026_01_14 = {
       "category": "Thể thao",
       "published": "2026-01-14T03:24:36+07:00",
       "fetched": "2026-01-14T10:29:07.891019+07:00"
+    },
+    {
+      "id": "aa28dd38d572fead6a67e574ce7443bf",
+      "title": "Gần 163 triệu đồng một lượng vàng miếng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-14-1-5005461.html",
+      "summary": "Các thương hiệu nâng giá bán ra vàng miếng lên 162,9 triệu đồng, theo đà tăng trên thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:20:55+07:00",
+      "fetched": "2026-01-14T11:39:32.631475+07:00"
+    },
+    {
+      "id": "aa28dd38d572fead6a67e574ce7443bf",
+      "title": "Gần 163 triệu đồng một lượng vàng miếng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-14-1-5005461.html",
+      "summary": "Các thương hiệu nâng giá bán ra vàng miếng lên 162,9 triệu đồng, theo đà tăng trên thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-14T03:20:55+07:00",
+      "fetched": "2026-01-14T11:39:39.867355+07:00"
     },
     {
       "id": "eae50b2db4552b54a3e65f363e3a1abf",
@@ -313,6 +583,16 @@ window.newsData_2026_01_14 = {
       "fetched": "2026-01-14T03:14:55.899895+07:00"
     },
     {
+      "id": "9f0d811048cad8a6a83729078ace777c",
+      "title": "TP HCM thêm xe đạp điện vào mạng lưới giao thông công cộng",
+      "link": "https://vnexpress.net/tp-hcm-them-xe-dap-dien-vao-mang-luoi-giao-thong-cong-cong-5005435.html",
+      "summary": "Thành phố sẽ bổ sung 500 xe đạp điện vào hệ thống giao thông công cộng trước Tết, với giá thuê 20.000 đồng/30 phút, gấp 4 lần giá thuê xe đạp truyền thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:14:18+07:00",
+      "fetched": "2026-01-14T11:39:32.631634+07:00"
+    },
+    {
       "id": "f1b91a948f88e059f3512acfa0622e27",
       "title": "Tổng thống Hàn cùng Thủ tướng Nhật chơi trống",
       "link": "https://vnexpress.net/tong-thong-han-cung-thu-tuong-nhat-choi-trong-5005437.html",
@@ -321,6 +601,26 @@ window.newsData_2026_01_14 = {
       "category": "Thế giới",
       "published": "2026-01-14T03:14:06+07:00",
       "fetched": "2026-01-14T10:29:01.098591+07:00"
+    },
+    {
+      "id": "a9407be9952b2ad1b3a37489c93d9813",
+      "title": "6 người tàn phế vì tự chế pháo nổ trong một tuần",
+      "link": "https://vnexpress.net/6-nguoi-tan-phe-vi-tu-che-phao-no-trong-mot-tuan-5005405.html",
+      "summary": "Bệnh viện Việt Đức tiếp nhận 6 ca đa chấn thương nghiêm trọng do pháo tự chế trong tuần qua, hầu hết nạn nhân phải chịu cảnh tàn phế suốt đời như cụt tay, hỏng mắt dù bác sĩ đã nỗ lực cứu sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:13:32+07:00",
+      "fetched": "2026-01-14T11:39:32.631952+07:00"
+    },
+    {
+      "id": "d7ad04898c78adfceb52a6d79058349f",
+      "title": "Bài thi vào lớp 10 tổ hợp 6 môn quá sức với học sinh?",
+      "link": "https://vnexpress.net/bai-thi-vao-lop-10-voi-to-hop-6-mon-qua-suc-voi-hoc-sinh-5005194.html",
+      "summary": "Bài thi tổ hợp gồm tới 6 môn sẽ giúp giảm học tủ, học lệch, hay chỉ khiến các em phải học dàn trải để vượt qua kỳ thi?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:12:48+07:00",
+      "fetched": "2026-01-14T11:39:32.632110+07:00"
     },
     {
       "id": "8a1a212834eeb10c99c81b141a6c7789",
@@ -343,6 +643,16 @@ window.newsData_2026_01_14 = {
       "fetched": "2026-01-14T10:28:58.899579+07:00"
     },
     {
+      "id": "1f181c973cf24662016da84f098ad8f0",
+      "title": "Hạnh phúc có thật, chỉ là anh chưa tìm thấy em",
+      "link": "https://vnexpress.net/hanh-phuc-co-that-chi-la-anh-chua-tim-thay-em-5004605.html",
+      "summary": "Anh đã 35, có những trải nghiệm thú vị trong cuộc sống nên đủ hiểu những giá trị cần có của một con người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:06:30+07:00",
+      "fetched": "2026-01-14T11:39:32.632229+07:00"
+    },
+    {
       "id": "5867b9b365437e06eda822a614c3ca31",
       "title": "Ông Trump dọa tước quốc tịch người nhập cư phạm tội lừa đảo",
       "link": "https://thanhnien.vn/ong-trump-doa-tuoc-quoc-tich-nguoi-nhap-cu-pham-toi-lua-dao-185260114093333922.htm",
@@ -361,6 +671,16 @@ window.newsData_2026_01_14 = {
       "category": "Thể thao",
       "published": "2026-01-14T03:04:15+07:00",
       "fetched": "2026-01-14T10:29:07.891176+07:00"
+    },
+    {
+      "id": "43430a32297f24f20f97a3b5988f1cc0",
+      "title": "Giữa nhịp sống vội, mong gặp người đồng hành chân thành",
+      "link": "https://vnexpress.net/giua-nhip-song-voi-mong-gap-nguoi-dong-hanh-chan-thanh-5004604.html",
+      "summary": "Mình luôn tìm cách cân bằng, bằng những sở thích giúp bản thân thư giãn và giữ năng lượng tích cực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T03:03:29+07:00",
+      "fetched": "2026-01-14T11:39:32.632487+07:00"
     },
     {
       "id": "bce2968ba0a9b287c3d5f691b02f6c9c",
