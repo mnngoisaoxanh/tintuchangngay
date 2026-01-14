@@ -1,7 +1,157 @@
 window.newsData_2026_01_14 = {
   "date": "2026-01-14",
-  "lastUpdated": "2026-01-14T19:26:36.172178+07:00",
+  "lastUpdated": "2026-01-14T21:17:38.150365+07:00",
   "articles": [
+    {
+      "id": "b61278d498567bc52b65a5a2199410d9",
+      "title": "Hành trình ‘Chất nơi đỉnh cực 2025’ chạm đỉnh cực Tây A Pa Chải",
+      "link": "https://tuoitre.vn/hanh-trinh-chat-noi-dinh-cuc-2025-cham-dinh-cuc-tay-a-pa-chai-20260114112244527.htm",
+      "summary": "Vượt hơn 1.480km qua những cung đường núi hiểm trở, hành trình ‘Chất nơi đỉnh cực 2025’ ghi dấu khoảnh khắc Biệt đội chất Motul chạm cực Tây A Pa Chải (Điện Biên) - điểm cuối cùng trong hành trình chinh phục 4 đỉnh cực của Tổ quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.511283+07:00",
+      "fetched": "2026-01-14T21:17:30.511379+07:00"
+    },
+    {
+      "id": "043ae4d7cbd4c44f5681bc81a59dfc41",
+      "title": "Đường cao tốc dài gần 30km chỉ mất 24 giờ trải nhựa xong, lập kỷ lục Guinness thế giới",
+      "link": "https://tuoitre.vn/duong-cao-toc-dai-gan-30km-chi-mat-24-gio-trai-nhua-xong-lap-ky-luc-guinness-the-gioi-20260114160418121.htm",
+      "summary": "Một dự án đường cao tốc ở Ấn Độ đã được Tổ chức kỷ lục Guinness World Records chứng nhận với thành tích thi công bê tông nhựa liên tục dài nhất trong vòng 24 giờ, thiết lập chuẩn mực mới trong thi công hạ tầng giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.511177+07:00",
+      "fetched": "2026-01-14T21:17:30.511274+07:00"
+    },
+    {
+      "id": "826c4f81b61c08fefbcb89c2fa78dd6c",
+      "title": "Lệ Quyên nói sẵn sàng tiếp thu ý kiến của Sở Văn hóa và Thể thao TP.HCM",
+      "link": "https://tuoitre.vn/le-quyen-noi-san-sang-tiep-thu-y-kien-cua-so-van-hoa-va-the-thao-tp-hcm-20260114185032185.htm",
+      "summary": "Ca sĩ Lệ Quyên trả lời thắc mắc của người hâm mộ sau thông tin Sở Văn hóa và Thể thao TP.HCM cho biết đang phối hợp với các phòng ban xem xét giải quyết việc chị mắng fan trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.511069+07:00",
+      "fetched": "2026-01-14T21:17:30.511167+07:00"
+    },
+    {
+      "id": "858287c64e5acaca232cbe8c34094a58",
+      "title": "Cảnh sát giao thông An Sương, Hàng Xanh xử phạt hàng quán để xe lấn chiếm vỉa hè, lòng đường",
+      "link": "https://tuoitre.vn/canh-sat-giao-thong-an-suong-hang-xanh-xu-phat-hang-quan-de-xe-lan-chiem-via-he-long-duong-20260114190527575.htm",
+      "summary": "Ngày 14-1, đại diện Phòng Cảnh sát giao thông Công an TP.HCM cho biết Đội cảnh sát giao thông An Sương đã ra quân, tăng cường kiểm tra, xử lý hàng quán để xe lấn chiếm vỉa hè, lòng đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.510960+07:00",
+      "fetched": "2026-01-14T21:17:30.511060+07:00"
+    },
+    {
+      "id": "a76c12574304089c445ab6dd940bea4c",
+      "title": "Đại học Công nghiệp Hà Nội tuyển hơn 8.000 sinh viên, thêm 5 tổ hợp mới",
+      "link": "https://tuoitre.vn/dai-hoc-cong-nghiep-ha-noi-tuyen-hon-8-000-sinh-vien-them-5-to-hop-moi-20260114190131151.htm",
+      "summary": "Năm 2026, Đại học Công nghiệp Hà Nội dự kiến xét 19 tổ hợp, trong đó, bỏ xét tổ hợp X27 (toán, tiếng Anh, công nghệ công nghiệp) so với năm ngoái và thêm 5 tổ hợp mới, gồm: A02, C01, C03, C04 và X05.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.510855+07:00",
+      "fetched": "2026-01-14T21:17:30.510951+07:00"
+    },
+    {
+      "id": "3568ee403f68cfc0545a2c395f311fa1",
+      "title": "Ai thay thế Nanno 'Girl from nowhere' trong phiên bản mới?",
+      "link": "https://tuoitre.vn/ai-thay-the-nanno-girl-from-nowhere-trong-phien-ban-moi-20260114180616163.htm",
+      "summary": "'Girl from nowhere' chính thức trở lại với phiên bản mới 'The reset', trong đó Becky Armstrong được công bố là nữ chính của một 'vũ trụ' khác so với bản gốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.510748+07:00",
+      "fetched": "2026-01-14T21:17:30.510846+07:00"
+    },
+    {
+      "id": "b7de046c61034441142112fa8b79f73b",
+      "title": "Thấy nồi bánh của mẹ là biết Tết về",
+      "link": "https://tuoitre.vn/thay-noi-banh-cua-me-la-biet-tet-ve-20260114132848675.htm",
+      "summary": "Tết năm nào mẹ cũng gói bánh cho con cháu. Chỉ cần thấy nồi bánh chưng, bánh tét đặt bên bếp là biết Tết đã về.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.510638+07:00",
+      "fetched": "2026-01-14T21:17:30.510734+07:00"
+    },
+    {
+      "id": "409446e2fe8d2b0cd2ac5f3817cc6ff5",
+      "title": "Thời trang trẻ với tham vọng đưa di sản vào đời sống đương đại",
+      "link": "https://tuoitre.vn/thoi-trang-tre-voi-tham-vong-dua-di-san-vao-doi-song-duong-dai-20260114151608105.htm",
+      "summary": "Bộ sưu tập Nguyen Dynasty của Nguyễn Quốc Đạt - sinh viên ngành thiết kế thời trang - được hình thành từ quá trình nghiên cứu chuyên sâu về di sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.510533+07:00",
+      "fetched": "2026-01-14T21:17:30.510629+07:00"
+    },
+    {
+      "id": "99e01c7852f687ecba1d034da8715cc7",
+      "title": "Từ vụ nhận nhầm 500 triệu, khi nào việc nhận tiền nhầm thành phạm tội?",
+      "link": "https://tuoitre.vn/tu-vu-nhan-nham-500-trieu-khi-nao-viec-nhan-tien-nham-thanh-pham-toi-20260114152855801.htm",
+      "summary": "Từ vụ một người ở Quảng Trị bị bắt vì không trả 500 triệu nhận nhầm, nhiều bạn đọc thắc mắc việc nhận nhầm tiền trong trường hợp nào là vi phạm pháp luật?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.510414+07:00",
+      "fetched": "2026-01-14T21:17:30.510524+07:00"
+    },
+    {
+      "id": "d020fbf35eefa621ac754940bcc744a2",
+      "title": "Ngoại trưởng Nga: Bàn về lệnh ngừng bắn trước thỏa thuận hòa bình là ‘không nghiêm túc'",
+      "link": "https://tuoitre.vn/ngoai-truong-nga-ban-ve-lenh-ngung-ban-truoc-thoa-thuan-hoa-binh-la-khong-nghiem-tuc-20260114191846338.htm",
+      "summary": "Ngày 14-1, Ngoại trưởng Nga Sergei Lavrov khẳng định việc bàn về một lệnh ngừng bắn trước khi đạt được thỏa thuận hòa bình toàn diện tại Ukraine là điều “không nghiêm túc”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.510307+07:00",
+      "fetched": "2026-01-14T21:17:30.510404+07:00"
+    },
+    {
+      "id": "2dd61d7073c5d500b97859918d9ceb43",
+      "title": "Vụ ‘kỳ án ở Bình Thuận’: Hé lộ tình tiết về hai danh tính có cùng dấu vân tay",
+      "link": "https://tuoitre.vn/vu-ky-an-o-binh-thuan-he-lo-tinh-tiet-ve-hai-danh-tinh-co-cung-dau-van-tay-2026011418300873.htm",
+      "summary": "Viện KSND tỉnh Lâm Đồng vừa báo cáo những diễn biến mới về việc xác minh nhân thân nghi phạm trong vụ giết người ở Bình Thuận 45 năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.510199+07:00",
+      "fetched": "2026-01-14T21:17:30.510297+07:00"
+    },
+    {
+      "id": "87435b951c9fa40b5f691013a31ba40d",
+      "title": "TP.HCM thông báo lựa chọn nhà đầu tư chiến lược cho dự án khu đô thị mới Bình Quới - Thanh Đa",
+      "link": "https://tuoitre.vn/tp-hcm-thong-bao-lua-chon-nha-dau-tu-chien-luoc-cho-du-an-khu-do-thi-moi-binh-quoi-thanh-da-20260114194518936.htm",
+      "summary": "UBND TP.HCM vừa công khai thông báo về việc lựa chọn nhà đầu tư cho dự án khu đô thị mới Bình Quới - Thanh Đa, theo cơ chế lựa chọn nhà đầu tư chiến lược quy định tại Nghị quyết 260 của Quốc hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.510090+07:00",
+      "fetched": "2026-01-14T21:17:30.510189+07:00"
+    },
+    {
+      "id": "90d28ab213a37578bad851e2d1f72e2b",
+      "title": "Lại Lý Huynh sa sút sau chức vô địch cờ tướng thế giới",
+      "link": "https://tuoitre.vn/lai-ly-huynh-sa-sut-sau-chuc-vo-dich-co-tuong-the-gioi-20260114193425201.htm",
+      "summary": "Kể từ sau khi lên ngôi vô địch cờ tướng thế giới vào tháng 9-2025, kỳ thủ Việt Nam Lại Lý Huynh đã thất bại ở liên tiếp 5 giải đấu quốc tế danh giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.509978+07:00",
+      "fetched": "2026-01-14T21:17:30.510080+07:00"
+    },
+    {
+      "id": "2f5f6037d2c86b93d32effd12bcb2789",
+      "title": "Thu hồi 8 sản phẩm mỹ phẩm chứa thuốc chống nấm trên toàn quốc",
+      "link": "https://tuoitre.vn/thu-hoi-8-san-pham-my-pham-chua-thuoc-chong-nam-tren-toan-quoc-2026011419511153.htm",
+      "summary": "Cục Quản lý dược, Bộ Y tế ra quyết định đình chỉ lưu hành và thu hồi 8 sản phẩm mỹ phẩm chứa Miconazole, Miconazole nitrate (chất chống nấm) để đảm bảo an toàn cho người tiêu dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.509856+07:00",
+      "fetched": "2026-01-14T21:17:30.509968+07:00"
+    },
+    {
+      "id": "2860808a9081c87aa7ed78712d7a2ecd",
+      "title": "Ấn tượng với đề thi 'văn hay chữ tốt' ở TP.HCM",
+      "link": "https://tuoitre.vn/an-tuong-voi-de-thi-van-hay-chu-tot-o-tp-hcm-202601141948545.htm",
+      "summary": "Đề thi văn dành cho 217 học sinh từ lớp 6 đến lớp 11 ở TP.HCM rất đặc biệt. Vì trước khi đặt bút viết vào tờ giấy thi, các thí sinh đã có những phút giây trải nghiệm quý giá qua 4 trạm khác nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T21:17:30.509643+07:00",
+      "fetched": "2026-01-14T21:17:30.509843+07:00"
+    },
     {
       "id": "de3aaf410af928870f698fda95849797",
       "title": "Vợ chồng cựu Cục trưởng An toàn thực phẩm lãnh 15 năm tù và 5 năm tù",
@@ -453,6 +603,236 @@ window.newsData_2026_01_14 = {
       "fetched": "2026-01-14T15:18:43.429882+07:00"
     },
     {
+      "id": "31ce972ba51abbca7424a53f13cfe398",
+      "title": "Vụ huy động 624 triệu đồng làm mái che, vệ sinh trường học: Hiệu trưởng nói gì?",
+      "link": "https://thanhnien.vn/vu-huy-dong-624-trieu-dong-lam-mai-che-ve-sinh-truong-hoc-hieu-truong-noi-gi-185260114195042206.htm",
+      "summary": "Ban đại diện cha mẹ học sinh Trường tiểu học Nguyễn Văn Cừ (P.Quy Nhơn Nam, Gia Lai) vận động phụ huynh đóng góp 624 triệu đồng làm mái che, thuê dịch vụ dọn dẹp vệ sinh. Hiệu trưởng nói nhà trường không đưa ra chủ trương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T14:11:00+07:00",
+      "fetched": "2026-01-14T21:17:29.737890+07:00"
+    },
+    {
+      "id": "02d9f8482a12d2c9ad946759fb60fa23",
+      "title": "Highlight U.23 Thái Lan 0-0 U.23 Trung Quốc: Hòa nhạt nhòa, 'voi chiến' bị loại",
+      "link": "https://thanhnien.vn/highlight-u23-thai-lan-0-0-u23-trung-quoc-hoa-nhat-nhoa-voi-chien-bi-loai-185260114210745132.htm",
+      "summary": "U.23 Thái Lan bất lực trong việc tìm đường vào khung thành U.23 Trung Quốc, chấp nhận trận hòa không bàn thắng ở lượt đấu quyết định, qua đó sớm dừng bước tại VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T14:07:00+07:00",
+      "fetched": "2026-01-14T21:17:29.738039+07:00"
+    },
+    {
+      "id": "2b9a72a7685d486dae976f3f0482a875",
+      "title": "Highlight U.23 Iraq 1-2 U.23 Úc: Ngược dòng ngoạn mục, vào tứ kết gặp Hàn Quốc",
+      "link": "https://thanhnien.vn/highlight-u23-iraq-1-2-u23-uc-nguoc-dong-ngoan-muc-vao-tu-ket-gap-han-quoc-18526011421052771.htm",
+      "summary": "U.23 Iraq thua ngược U.23 Úc 1-2. Với kết quả này, U.23 Úc có 6 điểm sau 3 trận, vào tứ kết với ngôi đầu bảng D. Đối thủ của họ ở tứ kết là U.23 Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T14:05:00+07:00",
+      "fetched": "2026-01-14T21:17:29.738175+07:00"
+    },
+    {
+      "id": "92946265159a78ce1a01ab61351669fd",
+      "title": "U.19 Thái Nguyên T&T tạo bất ngờ, đánh bại đối thủ mạnh Hà Nội",
+      "link": "https://thanhnien.vn/u19-thai-nguyen-tt-tao-bat-ngo-danh-bai-doi-thu-manh-ha-noi-18526011420590216.htm",
+      "summary": "Thái Nguyên T&T đã tạo nên bất ngờ lớn khi giành chiến thắng 1-0 trước Hà Nội tại lượt trận thứ 3 giải bóng đá nữ vô địch U.19 quốc gia – Cúp Acecook 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T14:01:00+07:00",
+      "fetched": "2026-01-14T21:17:29.738319+07:00"
+    },
+    {
+      "id": "63cfd9bb0c3671c93618249fb289c434",
+      "title": "Microsoft cho xóa Copilot trên Windows nhưng không dễ dàng",
+      "link": "https://thanhnien.vn/microsoft-cho-xoa-copilot-tren-windows-nhung-khong-de-dang-185260114204804401.htm",
+      "summary": "Muốn xóa Copilot trên Windows 11 người dùng sẽ phải vượt qua thử thách 28 ngày của Microsoft.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T14:01:00+07:00",
+      "fetched": "2026-01-14T21:17:29.738464+07:00"
+    },
+    {
+      "id": "e5a584ea546f152ee9362642cb35e8ac",
+      "title": "Ai là phụ nữ quyền lực nhất thế giới?",
+      "link": "https://vnexpress.net/ai-la-phu-nu-quyen-luc-nhat-the-gioi-5005717.html",
+      "summary": "Tính cả năm 2025, bà đã bốn lần liên tiếp dẫn đầu top 100 \"phụ nữ quyền lực nhất thế giới\". Bà là ai?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T14:00:13+07:00",
+      "fetched": "2026-01-14T21:17:26.347112+07:00"
+    },
+    {
+      "id": "10516fa1fb45457ac0fe0e70020c61fe",
+      "title": "Quốc đảo nào ở châu Á không có sông tự nhiên?",
+      "link": "https://vnexpress.net/quoc-dao-nao-o-chau-a-khong-co-song-tu-nhien-5005445.html",
+      "summary": "Quốc đảo không có dòng sông vĩnh cửu vì đặc thù địa hình sa mạc cùng lượng mưa thấp khiến nước mưa không thể hình thành dòng chảy tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:57:13+07:00",
+      "fetched": "2026-01-14T21:17:26.347273+07:00"
+    },
+    {
+      "id": "163860b978c559724eb5d6fa90af771f",
+      "title": "Ông Trump: Không thể chấp nhận việc Mỹ không có Greenland",
+      "link": "https://vnexpress.net/ong-trump-khong-the-chap-nhan-viec-my-khong-co-greenland-5005748.html",
+      "summary": "Tổng thống Trump nói Mỹ sẽ không thể chấp nhận việc không kiểm soát Greenland, bởi hòn đảo quan trọng với hệ thống phòng không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:53:16+07:00",
+      "fetched": "2026-01-14T21:17:26.347416+07:00"
+    },
+    {
+      "id": "163860b978c559724eb5d6fa90af771f",
+      "title": "Ông Trump: Không thể chấp nhận việc Mỹ không có Greenland",
+      "link": "https://vnexpress.net/ong-trump-khong-the-chap-nhan-viec-my-khong-co-greenland-5005748.html",
+      "summary": "Tổng thống Trump nói Mỹ sẽ không thể chấp nhận việc không kiểm soát Greenland, bởi hòn đảo quan trọng với hệ thống phòng không.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-14T13:53:16+07:00",
+      "fetched": "2026-01-14T21:17:31.884651+07:00"
+    },
+    {
+      "id": "21c3d8c2cd4910b8489eba0a6cdd2706",
+      "title": "Xem một trận rồi ‘dính’ luôn, 2 nữ CĐV xinh đẹp không bỏ lỡ trận nào của Trường ĐH Văn Hiến",
+      "link": "https://thanhnien.vn/xem-mot-tran-roi-dinh-luon-2-nu-cdv-xinh-dep-khong-bo-lo-tran-nao-cua-truong-dh-van-hien-1852601142026386.htm",
+      "summary": "Có mặt trên sân từ sớm, hai nữ CĐV cho biết họ gắn bó với đội bóng Trường ĐH Văn Hiến từ mùa trước, bắt đầu chỉ bằng một lời rủ đi xem thử. Trận đấu hôm nay mang đến cho họ những cảm xúc đối lập, hồi hộp trong những phút đầu chưa có bàn thắng, rồi vỡ òa khi các pha lập công liên tiếp xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:52:00+07:00",
+      "fetched": "2026-01-14T21:17:29.738600+07:00"
+    },
+    {
+      "id": "c8576ae2a34ad341ca19b4c702e83848",
+      "title": "CĐV Trường CĐ Kinh tế đối ngoại phủ kín khán đài,  vòng loại ‘nhiệt’ như chung kết",
+      "link": "https://thanhnien.vn/cdv-truong-cd-kinh-te-doi-ngoai-phu-kin-khan-dai-vong-loai-nhiet-nhu-chung-ket-185260114202254974.htm",
+      "summary": "Dù mới ở vòng loại, khán đài sân Tao Đàn chiều 14.1 vẫn được phủ kín bởi CĐV Trường CĐ Kinh tế đối ngoại với tiếng hò reo, kèn trống vang lên liên tục. Không khí cuồng nhiệt trên khán đài tạo điểm tựa tinh thần cho đội bóng, và thực tế họ đã đáp lại niềm tin ấy bằng chiến thắng đậm 4-1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:52:00+07:00",
+      "fetched": "2026-01-14T21:17:29.738731+07:00"
+    },
+    {
+      "id": "10784a49ce6c319af7fbcf122a7bb99e",
+      "title": "Đất sen hồng sẵn sàng đăng cai vòng loại TNSV THACO Cup 2026: Lan tỏa thông điệp ‘3 đẹp’",
+      "link": "https://thanhnien.vn/dat-sen-hong-san-sang-dang-cai-vong-loai-tnsv-thaco-cup-2026-lan-toa-thong-diep-3-dep-185260114204829234.htm",
+      "summary": "Ngày 14.1, tại Trường ĐH Đồng Tháp, BTC, tổ trọng tài, giám sát trận đấu cùng đại diện 8 đội bóng tham dự vòng loại Tây Nam bộ đã có buổi họp kỹ thuật trước khi chính thức bước vào các cuộc tranh tài từ chiều 15.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:51:00+07:00",
+      "fetched": "2026-01-14T21:17:29.738859+07:00"
+    },
+    {
+      "id": "ad42e9d0fd8dd911f4dee0b92c93c966",
+      "title": "Xác định bốn trận tứ kết U23 châu Á 2026",
+      "link": "https://vnexpress.net/xac-dinh-bon-tran-tu-ket-u23-chau-a-2026-5005753.html",
+      "summary": "Việt Nam có cơ hội lớn đi tiếp khi đấu UAE, trong khi Nhật Bản và Uzbekistan được đánh giá dễ thở ở tứ kết U23 Châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:46:28+07:00",
+      "fetched": "2026-01-14T21:17:26.347567+07:00"
+    },
+    {
+      "id": "ad42e9d0fd8dd911f4dee0b92c93c966",
+      "title": "Xác định bốn trận tứ kết U23 châu Á 2026",
+      "link": "https://vnexpress.net/xac-dinh-bon-tran-tu-ket-u23-chau-a-2026-5005753.html",
+      "summary": "Việt Nam có cơ hội lớn đi tiếp khi đấu UAE, trong khi Nhật Bản và Uzbekistan được đánh giá dễ thở ở tứ kết U23 Châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-14T13:46:28+07:00",
+      "fetched": "2026-01-14T21:17:38.138230+07:00"
+    },
+    {
+      "id": "49ffb05b87929b7bb62f5846f3e258aa",
+      "title": "U.23 Thái Lan bị loại vì không thắng Trung Quốc, Úc giật vé đi tiếp khó tin: Đủ 8 đội vào tứ kết",
+      "link": "https://thanhnien.vn/u23-thai-lan-bi-loai-vi-khong-thang-trung-quoc-uc-giat-ve-di-tiep-kho-tin-du-8-doi-vao-tu-ket-18526011420343047.htm",
+      "summary": "Lượt trận cuối bảng D, giải U.23 châu Á diễn ra tối 14.1 đã chính thức xác định 2 chiếc vé cuối cùng vào chơi ở vòng tứ kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:38:00+07:00",
+      "fetched": "2026-01-14T21:17:29.738985+07:00"
+    },
+    {
+      "id": "44c27d78770d575c840a56c7c7708bf9",
+      "title": "Trẻ 'chưa ngoan' được công an hướng dẫn dọn vệ sinh bia tưởng niệm để răn đe",
+      "link": "https://thanhnien.vn/tre-chua-ngoan-duoc-cong-an-huong-dan-don-ve-sinh-bia-tuong-niem-de-ran-de-185260114190226646.htm",
+      "summary": "Nhiều trẻ em \"chưa ngoan\" trên địa bàn xã Gò Công Đông (Đồng Tháp) được công an hướng dẫn dọn vệ sinh tại bia tưởng niệm các anh hùng, liệt sĩ. Việc này nhằm răn đe và giúp các em ghi nhớ công ơn của các anh hùng, liệt sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:38:00+07:00",
+      "fetched": "2026-01-14T21:17:29.739112+07:00"
+    },
+    {
+      "id": "44629dac98b475bee8ef1013ae2bf669",
+      "title": "Nghịch lý: Càng bất an, 'chuyện ấy' càng thăng hoa",
+      "link": "https://vnexpress.net/nghich-ly-cang-bat-an-chuyen-ay-cang-thang-hoa-5005215.html",
+      "summary": "Nhiều người lầm tưởng tình dục cuồng nhiệt là dấu hiệu của hạnh phúc, song thực tế đây có thể là cơ chế phòng vệ của những người luôn lo sợ bị bỏ rơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:32:00+07:00",
+      "fetched": "2026-01-14T21:17:26.347703+07:00"
+    },
+    {
+      "id": "8ee3b14d2bff625307ceebdaeeaaf343",
+      "title": "Phim bị xóa sổ vì tình tiết bé '7 tuổi lấy chồng, 15 tuổi sinh con'",
+      "link": "https://vnexpress.net/phim-bi-xoa-so-vi-tinh-tiet-be-7-tuoi-lay-chong-15-tuoi-sinh-con-5005659.html",
+      "summary": "Phim ngắn biến mất trên nền tảng video sau khi phát những tập xoay quanh bé gái 7 tuổi lấy chồng, sinh con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:30:00+07:00",
+      "fetched": "2026-01-14T21:17:26.347842+07:00"
+    },
+    {
+      "id": "1aaccc4144f0dea4b087e4f77259a4bc",
+      "title": "Thủ tướng Nhật sắp giải tán quốc hội để bầu cử sớm",
+      "link": "https://vnexpress.net/thu-tuong-nhat-sap-giai-tan-quoc-hoi-de-bau-cu-som-5005741.html",
+      "summary": "Thủ tướng Sanae Takaichi dự kiến giải tán Hạ viện để tổ chức bầu cử sớm ngay khi bắt đầu kỳ họp thường niên vào tuần tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:28:12+07:00",
+      "fetched": "2026-01-14T21:17:26.347974+07:00"
+    },
+    {
+      "id": "1aaccc4144f0dea4b087e4f77259a4bc",
+      "title": "Thủ tướng Nhật sắp giải tán quốc hội để bầu cử sớm",
+      "link": "https://vnexpress.net/thu-tuong-nhat-sap-giai-tan-quoc-hoi-de-bau-cu-som-5005741.html",
+      "summary": "Thủ tướng Sanae Takaichi dự kiến giải tán Hạ viện để tổ chức bầu cử sớm ngay khi bắt đầu kỳ họp thường niên vào tuần tới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-14T13:28:12+07:00",
+      "fetched": "2026-01-14T21:17:31.884805+07:00"
+    },
+    {
+      "id": "f005611d0263799db899dde25a6378de",
+      "title": "Huế đấu giá khu đất gần đồi Vọng Cảnh làm khu nghỉ dưỡng sinh thái",
+      "link": "https://vnexpress.net/hue-dau-gia-khu-dat-gan-doi-vong-canh-lam-khu-nghi-duong-sinh-thai-5005336.html",
+      "summary": "Khu đất gần 7 ha cạnh lăng Tự Đức và đồi Vọng Cảnh được TP Huế đấu giá quyền sử dụng đất 50 năm để làm khu nghỉ dưỡng, mức khởi điểm 194 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:27:43+07:00",
+      "fetched": "2026-01-14T21:17:26.348105+07:00"
+    },
+    {
+      "id": "48ae78afcb59dcc91e6e394341c7eb45",
+      "title": "ĐH Kinh tế quốc dân mở rộng mạnh sang khối ngành công nghệ",
+      "link": "https://thanhnien.vn/dh-kinh-te-quoc-dan-mo-rong-manh-sang-khoi-nganh-cong-nghe-185260114201529499.htm",
+      "summary": "Năm nay ĐH Kinh tế quốc dân tiếp tục có các mã ngành công nghệ trong các chương trình đào tạo bằng tiếng Anh: trí tuệ nhân tạo, kỹ thuật phần mềm, khoa học dữ liệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:26:00+07:00",
+      "fetched": "2026-01-14T21:17:29.739237+07:00"
+    },
+    {
+      "id": "c1662a414ed752c5bdcd892a9dc80552",
+      "title": "Hải Phòng có thêm dự án nhà xã hội gần 20 triệu một m2",
+      "link": "https://vnexpress.net/hai-phong-co-them-du-an-nha-xa-hoi-gan-20-trieu-mot-m2-5005711.html",
+      "summary": "Dự án nhà xã hội tại xã Mao Điền, TP Hải Phòng sẽ có giá tạm tính 19,7 triệu đồng một m2, nhận đăng ký mua từ cuối tháng này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:23:07+07:00",
+      "fetched": "2026-01-14T21:17:26.348236+07:00"
+    },
+    {
       "id": "e5889be34e9ddb5dd5e24f0ec752326e",
       "title": "Mỹ chính thức phê duyệt xuất khẩu chip Nvidia H200 sang Trung Quốc kèm quy định khắt khe",
       "link": "https://tuoitre.vn/my-chinh-thuc-phe-duyet-xuat-khau-chip-nvidia-h200-sang-trung-quoc-kem-quy-dinh-khat-khe-20260114105420348.htm",
@@ -601,6 +981,136 @@ window.newsData_2026_01_14 = {
       "category": "Tổng hợp",
       "published": "2026-01-14T13:21:28.265406+07:00",
       "fetched": "2026-01-14T13:21:28.265623+07:00"
+    },
+    {
+      "id": "3e205ddfa2efae8efee2293d3d9c2f11",
+      "title": "Ông Bùi Thế Duy muốn đưa chính sách khoa học công nghệ vào kiểm nghiệm thực tế",
+      "link": "https://vnexpress.net/ong-bui-the-duy-muon-dua-chinh-sach-khoa-hoc-cong-nghe-vao-kiem-nghiem-thuc-te-5005744.html",
+      "summary": "Trong vai trò Phó chủ tịch Viện Hàn lâm Khoa học và Công nghệ Việt Nam, ông Bùi Thế Duy kỳ vọng đưa chính sách vào thực tế nghiên cứu để kiểm nghiệm hiệu quả, từ đó tiếp tục hoàn thiện thể chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:19:50+07:00",
+      "fetched": "2026-01-14T21:17:26.348368+07:00"
+    },
+    {
+      "id": "3e205ddfa2efae8efee2293d3d9c2f11",
+      "title": "Ông Bùi Thế Duy muốn đưa chính sách khoa học công nghệ vào kiểm nghiệm thực tế",
+      "link": "https://vnexpress.net/ong-bui-the-duy-muon-dua-chinh-sach-khoa-hoc-cong-nghe-vao-kiem-nghiem-thuc-te-5005744.html",
+      "summary": "Phát biểu trong vai trò Phó chủ tịch Viện Hàn lâm Khoa học và Công nghệ Việt Nam, ông Bùi Thế Duy kỳ vọng đưa chính sách vào thực tế nghiên cứu để kiểm nghiệm hiệu quả, từ đó tiếp tục hoàn thiện thể chế.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-14T13:19:50+07:00",
+      "fetched": "2026-01-14T21:17:37.030080+07:00"
+    },
+    {
+      "id": "1e9f6e7ec5a1ecdf61e499b306e847d7",
+      "title": "Đại học Công nghiệp Hà Nội thêm 5 tổ hợp mới",
+      "link": "https://vnexpress.net/to-hop-phuong-thuc-xet-tuyen-dai-hoc-cong-nghiep-ha-noi-2026-5005747.html",
+      "summary": "Năm 2026, Đại học Công nghiệp Hà Nội (HaUI) mở mới ngành về trí tuệ nhân tạo, vi mạch bán dẫn, tăng 5 tổ hợp có Văn, Toán, Vật lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:19:24+07:00",
+      "fetched": "2026-01-14T21:17:26.348507+07:00"
+    },
+    {
+      "id": "9d74e12805661ab0c98b2a7751ce26fc",
+      "title": "Hơn 10 triệu người Việt mắc bệnh thận mạn tính",
+      "link": "https://vnexpress.net/hon-10-trieu-nguoi-viet-mac-benh-than-man-tinh-5005708.html",
+      "summary": "Bộ Y tế ước tính hơn 10 triệu người trưởng thành mắc bệnh thận mạn tính, trong đó 90% được chẩn đoán bệnh khi đã ở giai đoạn nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:17:42+07:00",
+      "fetched": "2026-01-14T21:17:26.348637+07:00"
+    },
+    {
+      "id": "074b81350645b7ae4b404a22f435e35c",
+      "title": "Ứng dụng AI trong y tế: Công nghệ cao phải song hành cùng y đức",
+      "link": "https://thanhnien.vn/ung-dung-ai-trong-y-te-cong-nghe-cao-phai-song-hanh-cung-y-duc-185260114203158057.htm",
+      "summary": "Ngày 14.1.2026, tại Bệnh viện Gia An 115 (Khu Y tế kỹ thuật cao TP.HCM), đã diễn ra Hội nghị khoa học 'Ứng dụng công nghệ AI trong chăm sóc sức khỏe thể chất và tinh thần'. Hội nghị thu hút hơn 300 đại biểu là các chuyên gia, bác sĩ, nhà nghiên cứu trong lĩnh vực y tế và công nghệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:16:00+07:00",
+      "fetched": "2026-01-14T21:17:29.739365+07:00"
+    },
+    {
+      "id": "016e084a1e32189e783309e78ffcd637",
+      "title": "Học sinh trải nghiệm các trạm cảm xúc dự thi 'Văn hay chữ tốt'",
+      "link": "https://thanhnien.vn/hoc-sinh-trai-nghiem-cac-tram-cam-xuc-du-thi-van-hay-chu-tot-185260114191035174.htm",
+      "summary": "Cuộc thi 'Văn hay chữ tốt' do Sở GD-ĐT TP.HCM tổ chức vào hôm nay (14.1) là kỳ thi đầu tiên của TP.HCM sau khi sáp nhập với Bình Dương và Bà Rịa-Vũng Tàu cũ với sự tham gia của 217 học sinh diễn ra tại khu vực 3 (Bà Rịa -Vũng Tàu trước đây).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:13:00+07:00",
+      "fetched": "2026-01-14T21:17:29.739500+07:00"
+    },
+    {
+      "id": "97d4394a0e5ec290c348006b000a6ac6",
+      "title": "Cảnh sát truy tìm kẻ liên tiếp sát hại hai phụ nữ",
+      "link": "https://vnexpress.net/canh-sat-truy-tim-ke-lien-tiep-sat-hai-hai-phu-nu-5005750.html",
+      "summary": "Công an đang tung quân truy tìm thanh niên mặc áo đen, đeo khẩu trang, chạy xe máy Vision màu trắng - nghi phạm giết hai phụ nữ cướp tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:10:46+07:00",
+      "fetched": "2026-01-14T21:17:26.348768+07:00"
+    },
+    {
+      "id": "586595b112f700f1a1dca4c905ec955f",
+      "title": "Apple vượt Samsung trên thị trường smartphone toàn cầu",
+      "link": "https://thanhnien.vn/apple-vuot-samsung-tren-thi-truong-smartphone-toan-cau-185260114185731486.htm",
+      "summary": "Apple đã chính thức vượt qua Samsung để trở thành thương hiệu smartphone lớn nhất thế giới về doanh số bán hàng hằng năm vào năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:07:00+07:00",
+      "fetched": "2026-01-14T21:17:29.739627+07:00"
+    },
+    {
+      "id": "a7a8f78bee75673b32ba97af63aeac3e",
+      "title": "Doanh số VinFast xấp xỉ tổng ba hãng xe ngoại",
+      "link": "https://vnexpress.net/doanh-so-vinfast-xap-xi-tong-ba-hang-xe-ngoai-5005728.html",
+      "summary": "Lượng xe VinFast bàn giao năm 2025 chiếm gần 30% toàn ngành, riêng doanh số tháng 12 cao hơn lượng bán cả năm của Mazda hay Kia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:00:00+07:00",
+      "fetched": "2026-01-14T21:17:26.348897+07:00"
+    },
+    {
+      "id": "eb2202fb891bea9164ef0f9ab17d8d65",
+      "title": "Giới trẻ Hà Nội trải nghiệm công nghệ sáng tạo",
+      "link": "https://vnexpress.net/gioi-tre-ha-noi-trai-nghiem-cong-nghe-sang-tao-5005719.html",
+      "summary": "Ngày hội LG x Creativefest 2026 thu hút hàng nghìn bạn trẻ tìm hiểu, khám phá và trải nghiệm những công nghệ hàng đầu trên dòng sản phẩm LG, hôm 10-11/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:00:00+07:00",
+      "fetched": "2026-01-14T21:17:26.349029+07:00"
+    },
+    {
+      "id": "c1f56ba900bb6c0026afd1e616ddad5e",
+      "title": "Xem nhanh 20h ngày 14.1: Nữ nhân viên xử trí nhanh khi tài xế xe buýt đột quỵ | Đề xuất '1 vợ 4 chồng' gây bão Thái Lan",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-131-nu-nhan-vien-xu-tri-nhanh-khi-tai-xe-xe-buyt-dot-quy-de-xuat-1-vo-4-chong-gay-bao-thai-lan-18526011419375503.htm",
+      "summary": "Bản tin \"Xem nhanh 20h\" ngày hôm nay có các tin tức đáng chú ý sau:  Tài xế xe buýt đột quỵ khi đang lái xe, nhân viên phục vụ phản ứng nhanh; ứng viên thủ tướng Thái Lan gây bão với đề xuất '1 vợ 4 chồng';...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T13:00:00+07:00",
+      "fetched": "2026-01-14T21:17:29.739755+07:00"
+    },
+    {
+      "id": "eb2202fb891bea9164ef0f9ab17d8d65",
+      "title": "Giới trẻ Hà Nội trải nghiệm công nghệ sáng tạo",
+      "link": "https://vnexpress.net/gioi-tre-ha-noi-trai-nghiem-cong-nghe-sang-tao-5005719.html",
+      "summary": "Ngày hội LG x Creativefest 2026 thu hút hàng nghìn bạn trẻ tìm hiểu, khám phá và trải nghiệm những công nghệ hàng đầu trên dòng sản phẩm LG, hôm 10-11/1.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-14T13:00:00+07:00",
+      "fetched": "2026-01-14T21:17:37.031604+07:00"
+    },
+    {
+      "id": "342922ffb36db0661027a5edf1ebddf9",
+      "title": "Thùy Linh thắng cựu vô địch thế giới ở giải Ấn Độ",
+      "link": "https://vnexpress.net/thuy-linh-thang-cuu-vo-dich-the-gioi-o-giai-an-do-5005739.html",
+      "summary": "Tay vợt nữ số một Việt Nam hạ huyền thoại Pusarla Venkata Sindhu 2-1 ở vòng một giải cầu lông Ấn Độ Mở rộng, chiều 14/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-14T12:36:29+07:00",
+      "fetched": "2026-01-14T21:17:38.138383+07:00"
     },
     {
       "id": "642d59dca91c83b0b1d167b057c0a102",
