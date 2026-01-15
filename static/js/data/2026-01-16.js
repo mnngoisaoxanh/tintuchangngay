@@ -1,7 +1,27 @@
 window.newsData_2026_01_16 = {
   "date": "2026-01-16",
-  "lastUpdated": "2026-01-16T03:15:41.192322+07:00",
+  "lastUpdated": "2026-01-16T05:14:04.363904+07:00",
   "articles": [
+    {
+      "id": "84e1681737a97c228218f52cbd6cef7f",
+      "title": "Tin tức sáng 16-1: Bổ sung các chức danh thanh tra có quyền xử phạt lĩnh vực hàng không",
+      "link": "https://tuoitre.vn/tin-tuc-sang-16-1-bo-sung-cac-chuc-danh-thanh-tra-co-quyen-xu-phat-linh-vuc-hang-khong-20260115223703886.htm",
+      "summary": "Tin tức đáng chú ý: Mức quan tâm chung cư rao bán tại TP.HCM 'hạ nhiệt'; Đề xuất mới chi trả lương, phụ cấp giáo viên khi dạy liên trường, liên cấp...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T05:13:55.576114+07:00",
+      "fetched": "2026-01-16T05:13:55.576243+07:00"
+    },
+    {
+      "id": "1892759cb749409d3a2dd15292e1fe72",
+      "title": "Thời tiết hôm nay 16-1: Bắc Bộ mưa rét, Nam Bộ sáng nay trời mù kèm bụi",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-16-1-bac-bo-mua-ret-nam-bo-sang-nay-troi-mu-kem-bui-20260115154433619.htm",
+      "summary": "Hôm nay 16-1, thời tiết miền Bắc mưa rét. Miền Nam sáng trời mù, ban ngày nắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T05:13:55.575893+07:00",
+      "fetched": "2026-01-16T05:13:55.576099+07:00"
+    },
     {
       "id": "9f23e68f5a65c688ce151a5c458edf42",
       "title": "Nhà cái, siêu máy tính, CĐV đều tin U23 Việt Nam thắng UAE",
@@ -151,6 +171,166 @@ window.newsData_2026_01_16 = {
       "category": "Tổng hợp",
       "published": "2026-01-16T01:25:02.644769+07:00",
       "fetched": "2026-01-16T01:25:02.644984+07:00"
+    },
+    {
+      "id": "3362b2496a7edc7fe8f409c88c976f9d",
+      "title": "Iran tìm cách tháo ngòi xung đột",
+      "link": "https://thanhnien.vn/iran-tim-cach-thao-ngoi-xung-dot-185260115215654886.htm",
+      "summary": "Các quan chức Iran tuyên bố không hành quyết người biểu tình và khẳng định sẵn sàng đối thoại ngoại giao sau khi Mỹ đe dọa can thiệp quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T22:12:00+07:00",
+      "fetched": "2026-01-16T05:13:54.107410+07:00"
+    },
+    {
+      "id": "47d0385bae4cbf30e1a5fb63181991c2",
+      "title": "Đừng quên bộ quy tắc ứng xử của nghệ sĩ",
+      "link": "https://thanhnien.vn/dung-quen-bo-quy-tac-ung-xu-cua-nghe-si-185260115170245561.htm",
+      "summary": "Trong bối cảnh các hoạt động xã hội trên không gian mạng ngày càng phổ biến thì nghệ sĩ càng phải xem bộ 'Quy tắc ứng xử của người hoạt động trong lĩnh vực nghệ thuật' là kim chỉ nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T22:12:00+07:00",
+      "fetched": "2026-01-16T05:13:54.107606+07:00"
+    },
+    {
+      "id": "8e219055095ab5936e40fa7b0228cab0",
+      "title": "'Chung vị tết Việt - Gắn kết muôn miền' đang diễn ra tại 16 tỉnh, thành phố",
+      "link": "https://thanhnien.vn/chung-vi-tet-viet-gan-ket-muon-mien-dang-dien-ra-tai-16-tinh-thanh-pho-185260115152642427.htm",
+      "summary": "Chương trình 'Chung vị tết Việt - Gắn kết muôn miền' đang diễn ra tại 16 tỉnh, thành phố trên khắp cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T22:10:00+07:00",
+      "fetched": "2026-01-16T05:13:54.107773+07:00"
+    },
+    {
+      "id": "72ff459e52587de6427c1a14ca75dcc6",
+      "title": "Nâng cao chất lượng đời sống người dân",
+      "link": "https://thanhnien.vn/nang-cao-chat-luong-doi-song-nguoi-dan-185260115223510233.htm",
+      "summary": "Không chỉ đột phá hạ tầng, mở rộng liên kết vùng để bứt phá tăng trưởng, đồng thời thiết thực chào mừng Đại hội đại biểu toàn quốc lần thứ XIV của Đảng, việc đồng loạt khởi công 4 dự án lớn hôm qua còn khẳng định một TP.HCM quyết liệt, quyết tâm thực hiện chủ trương, chính sách của Đảng, Nhà nước để...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T22:07:00+07:00",
+      "fetched": "2026-01-16T05:13:54.107941+07:00"
+    },
+    {
+      "id": "44da2b931071515101f06d1d1d670ce4",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 16.1.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1612026-185260115224624793.htm",
+      "summary": "Tin tức Những công trình đưa TP.HCM thành siêu đô thị quốc tế, Tứ kết VCK U.23 châu Á 2026 (22 giờ 30 hôm nay 16.1): U.23 VN đủ sức đánh bại UAE, Iran tìm cách tháo ngòi xung đột… có thể đón xem trên Báo Thanh Niên số ra ngày 16.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T22:00:00+07:00",
+      "fetched": "2026-01-16T05:13:54.108095+07:00"
+    },
+    {
+      "id": "19a704a71153e53911c17e227ed61a0e",
+      "title": "Chiến sự Ukraine ngày 1.422: Nga tấn công mạnh, Ba Lan chuyển chiến đấu cơ cho Ukraine",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1422-nga-tan-cong-manh-ba-lan-chuyen-chien-dau-co-cho-ukraine-185260115182752808.htm",
+      "summary": "Bộ Quốc phòng Nga tuyên bố tấn công vào hơn 160 điểm, khiến quân đội Ukraine tổn thất hơn 1.300 quân trong 24 giờ, trong khi Ukraine khẳng định đã đẩy lùi một cuộc tấn công quy mô lớn của Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T22:00:00+07:00",
+      "fetched": "2026-01-16T05:13:54.108245+07:00"
+    },
+    {
+      "id": "f40fff77e407c9518241ed43a01fc0d3",
+      "title": "4 điểm nghẽn kìm hãm tăng trưởng của TP.HCM",
+      "link": "https://thanhnien.vn/4-diem-nghen-kim-ham-tang-truong-cua-tphcm-185260115175408868.htm",
+      "summary": "Quy hoạch chưa đồng bộ, giao thông quá tải, giải ngân đầu tư công chậm và chuyển đổi số vướng rào cản thể chế đang trở thành 4 điểm nghẽn kìm hãm tăng trưởng của TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T22:00:00+07:00",
+      "fetched": "2026-01-16T05:13:54.108390+07:00"
+    },
+    {
+      "id": "1d6b56b660321b99f3e5fe3f56d80d4a",
+      "title": "Thẩm phán định đoạt số phận cựu tổng thống Hàn Quốc",
+      "link": "https://vnexpress.net/tham-phan-dinh-doat-so-phan-cuu-tong-thong-han-quoc-5005380.html",
+      "summary": "Thẩm phán Jee Kui-youn, người từng xử nhiều vụ án đình đám ở Hàn Quốc, sẽ định đoạt số phận cựu tổng thống Yoon Suk-yeol sau khi ông bị đề nghị án tử hình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-15T22:00:00+07:00",
+      "fetched": "2026-01-16T05:13:57.505108+07:00"
+    },
+    {
+      "id": "392c6f5ae3036d286dcc358847766436",
+      "title": "Apple gặp khủng hoảng vật liệu thô do cơn sốt AI",
+      "link": "https://vnexpress.net/apple-gap-khung-hoang-vat-lieu-tho-do-con-sot-ai-5005770.html",
+      "summary": "Apple đang đối mặt với việc thiếu hụt vải sợi thủy tinh cao cấp, vật liệu chính để sản xuất bảng mạch PCB, đế chip.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-15T22:00:00+07:00",
+      "fetched": "2026-01-16T05:14:03.212183+07:00"
+    },
+    {
+      "id": "af223212e41e52200de74578442c5ede",
+      "title": "Pháp lý 9 khu 'đất vàng' sắp chỉnh trang ở TP.HCM đang thế nào?",
+      "link": "https://thanhnien.vn/phap-ly-9-khu-dat-vang-sap-chinh-trang-o-tphcm-dang-the-nao-185260115180230333.htm",
+      "summary": "Sở Xây dựng TP.HCM cho biết 9 khu 'đất vàng' bỏ trống tại khu vực trung tâm có pháp lý và chủ thể quản lý khác nhau, cần rà soát kỹ trước khi chỉnh trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T21:40:00+07:00",
+      "fetched": "2026-01-16T05:13:54.108534+07:00"
+    },
+    {
+      "id": "a41997ea99bde15463691a9d399b8f14",
+      "title": "Uống nước tưởng đơn giản, vì sao nhiều người vẫn làm sai?",
+      "link": "https://thanhnien.vn/uong-nuoc-tuong-don-gian-vi-sao-nhieu-nguoi-van-lam-sai-185260114224046325.htm",
+      "summary": "Nước chiếm tới 2/3 trọng lượng cơ thể và giữ vai trò thiết yếu trong mọi hoạt động sinh lý, nhưng phần lớn người trưởng thành vẫn chưa hình thành được thói quen uống nước đúng và hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T21:09:00+07:00",
+      "fetched": "2026-01-16T05:13:54.108700+07:00"
+    },
+    {
+      "id": "2ef3b4128eb80aab98a13c7cea4b0634",
+      "title": "Vì sao nhiều dự án bất động sản nghỉ dưỡng 'chết yểu'?",
+      "link": "https://vnexpress.net/vi-sao-nhieu-du-an-bat-dong-san-nghi-duong-chet-yeu-5005052.html",
+      "summary": "Thiếu tiêu chuẩn vận hành, lệch định vị sản phẩm, tiếp cận thị trường theo tư duy bán nhà ở khiến nhiều dự án bất động sản nghỉ dưỡng thất bại, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T21:00:00+07:00",
+      "fetched": "2026-01-16T05:13:50.730051+07:00"
+    },
+    {
+      "id": "166fa1d75772d5ecf906e661608f9028",
+      "title": "Triệt xóa đường dây cho vay qua Zalo, Facebook... với lãi suất 'cắt cổ' 869%/năm",
+      "link": "https://thanhnien.vn/triet-xoa-duong-day-cho-vay-qua-zalo-facebook-voi-lai-suat-cat-co-869-nam-185260115213554361.htm",
+      "summary": "Từ quảng cáo cho vay tiền trên mạng xã hội, sau đó giữ giấy tờ tùy thân người vay..., nhóm cho vay với lãi suất 'cắt cổ' lên tới 869%/năm vừa bị Công an TP.Đà Nẵng tạm giữ hình sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T21:00:00+07:00",
+      "fetched": "2026-01-16T05:13:54.108852+07:00"
+    },
+    {
+      "id": "1c239a1e4490ea3a7da792d9df103a67",
+      "title": "Cá nhân có nhà cho thuê, phải kê khai thuế",
+      "link": "https://thanhnien.vn/ca-nhan-co-nha-cho-thue-phai-ke-khai-thue-185260115205151962.htm",
+      "summary": "Người cho thuê nhà không bắt buộc phải lập hộ kinh doanh, song việc kê khai để đóng thuế thu nhập cá nhân và thuế giá trị gia tăng là bắt buộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T21:00:00+07:00",
+      "fetched": "2026-01-16T05:13:54.108997+07:00"
+    },
+    {
+      "id": "a838da4215f25c0521c9cef1949c9de3",
+      "title": "Việt Nam chủ động giảm lượng gạo xuất khẩu từ 2026",
+      "link": "https://thanhnien.vn/viet-nam-chu-dong-giam-luong-gao-xuat-khau-tu-2026-185260115200306173.htm",
+      "summary": "Chiến lược giảm lượng tăng chất trong xuất khẩu gạo của VN sẽ bắt đầu từ năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T21:00:00+07:00",
+      "fetched": "2026-01-16T05:13:54.109146+07:00"
+    },
+    {
+      "id": "15a0e55c12a5321c3f824e12154f893a",
+      "title": "Giải bài toán 'nhân lực vàng' thất nghiệp: Kết nối cung - cầu trên thị trường lao động",
+      "link": "https://thanhnien.vn/giai-bai-toan-nhan-luc-vang-that-nghiep-ket-noi-cung-cau-tren-thi-truong-lao-dong-185260115180103474.htm",
+      "summary": "Tận dụng tối đa \"nhân lực vàng\" để phục vụ cho kỷ nguyên tăng trưởng mạnh mẽ của đất nước là bài toán cần giải để không lãng phí nguồn lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T21:00:00+07:00",
+      "fetched": "2026-01-16T05:13:54.109290+07:00"
     },
     {
       "id": "65556a4e10302030b9098dfc11e660ee",
