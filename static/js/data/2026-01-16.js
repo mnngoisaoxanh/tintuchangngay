@@ -1,6 +1,6 @@
 window.newsData_2026_01_16 = {
   "date": "2026-01-16",
-  "lastUpdated": "2026-01-16T01:25:10.133919+07:00",
+  "lastUpdated": "2026-01-16T03:15:41.192322+07:00",
   "articles": [
     {
       "id": "9f23e68f5a65c688ce151a5c458edf42",
@@ -151,6 +151,16 @@ window.newsData_2026_01_16 = {
       "category": "Tổng hợp",
       "published": "2026-01-16T01:25:02.644769+07:00",
       "fetched": "2026-01-16T01:25:02.644984+07:00"
+    },
+    {
+      "id": "65556a4e10302030b9098dfc11e660ee",
+      "title": "Tập thể dục thời điểm nào giúp giảm mỡ nội tạng tốt nhất?",
+      "link": "https://vnexpress.net/tap-the-duc-thoi-diem-nao-giup-giam-mo-noi-tang-tot-nhat-5005457.html",
+      "summary": "Tập luyện giúp giảm mỡ nội tạng nguy hiểm, nhưng thói quen dài hạn quan trọng hơn \"giờ hoàng đạo\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T20:00:00+07:00",
+      "fetched": "2026-01-16T03:15:30.972389+07:00"
     },
     {
       "id": "53e7c3d853a10de296b8a7353f3c6510",
