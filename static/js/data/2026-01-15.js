@@ -1,7 +1,107 @@
 window.newsData_2026_01_15 = {
   "date": "2026-01-15",
-  "lastUpdated": "2026-01-15T21:23:31.985011+07:00",
+  "lastUpdated": "2026-01-15T23:23:13.102774+07:00",
   "articles": [
+    {
+      "id": "06a0c2ba716c75187ee518059e4583f7",
+      "title": "Chủ tịch Hội Điện ảnh Việt Nam nói gì về thông tin giải thưởng Cánh diều nợ tiền mặt?",
+      "link": "https://tuoitre.vn/chu-tich-hoi-dien-anh-viet-nam-noi-gi-ve-thong-tin-giai-thuong-canh-dieu-no-tien-mat-20260115200708958.htm",
+      "summary": "Trước thềm lễ trao giải Cánh diều 2025, có thông tin vì gặp khó khăn về kinh phí nên năm nay sẽ trao giải cho các tác phẩm, nghệ sĩ nhưng nợ tiền thưởng. Lãnh đạo Hội Điện ảnh Việt Nam nói gì?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T23:23:05.804410+07:00",
+      "fetched": "2026-01-15T23:23:05.804545+07:00"
+    },
+    {
+      "id": "c9ab9bcb64042fbe7f5f9109ac8edcdd",
+      "title": "Giới thiệu quyền Bộ trưởng Bộ Công Thương ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://tuoitre.vn/gioi-thieu-quyen-bo-truong-bo-cong-thuong-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-20260115194520614.htm",
+      "summary": "Ngày 15-1, Bộ Công Thương triển khai các hội nghị trong quy trình các bước giới thiệu nhân sự tham gia ứng cử đại biểu Quốc hội khóa XVI, nhiệm kỳ 2026 - 2031 theo quy định của pháp luật về bầu cử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T23:23:05.804273+07:00",
+      "fetched": "2026-01-15T23:23:05.804398+07:00"
+    },
+    {
+      "id": "0ef3b096df05de7c68dce22f4550a3c4",
+      "title": "Tuyển Việt Nam tự tin bảo vệ ngôi vô địch ASEAN Cup",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-tu-tin-bao-ve-ngoi-vo-dich-asean-cup-20260115203415339.htm",
+      "summary": "Bình luận sau khi có kết quả bốc thăm ASEAN Cup 2026, chuyên gia Đoàn Minh Xương cho rằng đội tuyển Việt Nam hoàn toàn tự tin bảo vệ ngôi vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T23:23:05.804148+07:00",
+      "fetched": "2026-01-15T23:23:05.804262+07:00"
+    },
+    {
+      "id": "5b15db6673c455da445c83ce7fe1cb0b",
+      "title": "Báo Indonesia: 'Indonesia ngán Thái Lan, Malaysia hơn Việt Nam'",
+      "link": "https://tuoitre.vn/bao-indonesia-indonesia-ngan-thai-lan-malaysia-hon-viet-nam-20260115204101783.htm",
+      "summary": "Báo Tribun News (Indonesia) hài lòng với kết quả bốc thăm chia bảng ASEAN Cup 2026, đưa tuyển Indonesia vào bảng A cùng Việt Nam, Singapore, Campuchia...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T23:23:05.804017+07:00",
+      "fetched": "2026-01-15T23:23:05.804136+07:00"
+    },
+    {
+      "id": "e8110d07fb9f34b81dd3f0e413f72599",
+      "title": "Tây Ninh phá đường dây sản xuất gas giả liên tỉnh, bắt 16 người",
+      "link": "https://tuoitre.vn/tay-ninh-pha-duong-day-san-xuat-gas-gia-lien-tinh-bat-16-nguoi-20260115204009632.htm",
+      "summary": "Hàng ngàn bình gas giả các thương hiệu nổi tiếng tại 12 điểm ở Tây Ninh, Đồng Tháp, Cà Mau, TP.HCM... bị thu giữ trong chuyên án Công an tỉnh Tây Ninh vừa thực hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T23:23:05.803887+07:00",
+      "fetched": "2026-01-15T23:23:05.804005+07:00"
+    },
+    {
+      "id": "74da8195a00490ac894639ff5e5feda3",
+      "title": "Thủ tướng phê chuẩn Phó chủ tịch UBND tỉnh Ninh Bình Đặng Thanh Sơn",
+      "link": "https://tuoitre.vn/thu-tuong-phe-chuan-pho-chu-tich-ubnd-tinh-ninh-binh-dang-thanh-son-20260115203236417.htm",
+      "summary": "Phó thủ tướng thường trực Chính phủ Nguyễn Hòa Bình vừa ký Quyết định số 86/QĐ-TTg của Thủ tướng Chính phủ phê chuẩn kết quả bầu chức vụ Phó chủ tịch UBND tỉnh Ninh Bình nhiệm kỳ 2021-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T23:23:05.803744+07:00",
+      "fetched": "2026-01-15T23:23:05.803863+07:00"
+    },
+    {
+      "id": "67cdc1b6d8988731e1f963d94552882a",
+      "title": "Mỹ giảm báo động tại căn cứ ở Qatar, tình hình Iran có hạ nhiệt?",
+      "link": "https://tuoitre.vn/my-giam-bao-dong-tai-can-cu-o-qatar-tinh-hinh-iran-co-ha-nhiet-20260115212547924.htm",
+      "summary": "Nguồn tin nói Mỹ đã giảm báo động tại căn cứ ở Qatar, trong khi hàng loạt hoạt động ngoại giao diễn ra trước cuộc họp của Liên hợp quốc về tình hình Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T23:23:05.803613+07:00",
+      "fetched": "2026-01-15T23:23:05.803733+07:00"
+    },
+    {
+      "id": "1256974266eaa80744a04b5fed30ac0e",
+      "title": "AI Trung Quốc lần đầu 'thoát' chip Mỹ",
+      "link": "https://tuoitre.vn/ai-trung-quoc-lan-dau-thoat-chip-my-20260115213939417.htm",
+      "summary": "Zhipu AI công bố mô hình tạo ảnh mới được huấn luyện hoàn toàn trên chip Huawei Trung Quốc, đánh dấu bước tiến trong nỗ lực giảm phụ thuộc vào công nghệ bán dẫn Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T23:23:05.803470+07:00",
+      "fetched": "2026-01-15T23:23:05.803601+07:00"
+    },
+    {
+      "id": "405ac5060f35f4bce60c0f9831fd36ac",
+      "title": "Giới thiệu Bộ trưởng Nguyễn Kim Sơn, Nguyễn Văn Thắng ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://tuoitre.vn/gioi-thieu-bo-truong-nguyen-kim-son-nguyen-van-thang-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-20260115220659866.htm",
+      "summary": "Tại các hội nghị, 100% cử tri thống nhất giới thiệu Bộ trưởng Bộ Giáo dục và Đào tạo Nguyễn Kim Sơn, Bộ trưởng Bộ Tài chính Nguyễn Văn Thắng ứng cử đại biểu Quốc hội khóa XVI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T23:23:05.803304+07:00",
+      "fetched": "2026-01-15T23:23:05.803440+07:00"
+    },
+    {
+      "id": "cd6490c11b7e1d7bb6b5900c39deb053",
+      "title": "Đã bắt được hai anh em ruột ở Hà Nội rủ nhau đi trộm cắp phụ tùng ôtô liên tỉnh",
+      "link": "https://tuoitre.vn/da-bat-duoc-hai-anh-em-ruot-o-ha-noi-ru-nhau-di-trom-cap-phu-tung-oto-lien-tinh-20260115214322969.htm",
+      "summary": "Sau thời gian truy nã, cơ quan công an đã bắt giữ được hai anh em ruột ở Hà Nội từng tham gia nhiều vụ trộm cắp phụ tùng ôtô liên tỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T23:23:05.803058+07:00",
+      "fetched": "2026-01-15T23:23:05.803287+07:00"
+    },
     {
       "id": "e7b41ac0500da1995bee5b6bbddddaa8",
       "title": "Xe điện chạy năng lượng mặt trời sẽ thay đổi ngành giao thông vận tải ở châu Phi",
@@ -453,6 +553,46 @@ window.newsData_2026_01_15 = {
       "fetched": "2026-01-15T17:14:52.948663+07:00"
     },
     {
+      "id": "690bf6eb42a2cae9f320682d4662cae5",
+      "title": "'Gánh hát cù lao' và 'Thi thơ' giành giải cao nhất nghệ thuật múa TPHCM 2025",
+      "link": "https://thanhnien.vn/ganh-hat-cu-lao-va-thi-tho-gianh-giai-cao-nhat-nghe-thuat-mua-tphcm-2025-185260115145448007.htm",
+      "summary": "Tác phẩm múa 'Gánh hát cù lao' và 'Thi thơ' đã xuất sắc đoạt giải A tại lễ trao giải và biểu diễn quảng bá các tác phẩm nghệ thuật múa của Hội Nghệ sĩ múa TP.HCM 2025, ghi dấu ấn đậm nét trong đời sống nghệ thuật múa thành phố bằng những câu chuyện giàu chiều sâu văn hóa và cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T15:32:00+07:00",
+      "fetched": "2026-01-15T23:23:05.034419+07:00"
+    },
+    {
+      "id": "9a2729950ed47e967ba105710ea6645f",
+      "title": "Người trẻ cả nước đồng loạt chào cờ trước giờ khai mạc Đại hội XIV của Đảng",
+      "link": "https://thanhnien.vn/nguoi-tre-ca-nuoc-dong-loat-chao-co-truoc-gio-khai-mac-dai-hoi-xiv-cua-dang-185260115212316616.htm",
+      "summary": "Bí thư T.Ư Đoàn Nguyễn Tường Lâm yêu cầu các cấp bộ Đoàn trong cả nước đồng loạt tổ chức chào cờ trước giờ khai mạc Đại hội XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T15:28:00+07:00",
+      "fetched": "2026-01-15T23:23:05.034610+07:00"
+    },
+    {
+      "id": "106504a1f6405d787b165a132365cb01",
+      "title": "Khai mạc vòng loại Tây Nam Bộ TNSV THACO cup 2026: Bùng nổ ngày hội sinh viên",
+      "link": "https://thanhnien.vn/khai-mac-vong-loai-tay-nam-bo-tnsv-thaco-cup-2026-bung-no-ngay-hoi-sinh-vien-185260115202019854.htm",
+      "summary": "Lần đầu tiên tổ chức trên đất sen hồng Đồng Tháp, hàng ngàn sinh viên cùng nhiều vị đại biểu, khách quý đã đến 'tiếp lửa' cho lễ khai mạc vòng Tây Nam bộ giải bóng đá TNSV THACO cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T15:26:00+07:00",
+      "fetched": "2026-01-15T23:23:05.034772+07:00"
+    },
+    {
+      "id": "70f7ad8dd4896fb507f11272263969b9",
+      "title": "Khán đài rực lửa ngày khai mạc TNSV THACO Cup 2026 tại Đồng Tháp",
+      "link": "https://thanhnien.vn/khan-dai-ruc-lua-ngay-khai-mac-tnsv-thaco-cup-2026-tai-dong-thap-185260115201929511.htm",
+      "summary": "Dưới cái nắng gắt, hàng ngàn sinh viên vẫn phủ kín khán đài Trường ĐH Đồng Tháp, tạo nên bầu không khí cuồng nhiệt trong ngày khai mạc vòng loại Tây Nam bộ Giải bóng đá Thanh Niên sinh viên Việt Nam lần IV – 2026 cúp THACO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T15:26:00+07:00",
+      "fetched": "2026-01-15T23:23:05.034927+07:00"
+    },
+    {
       "id": "9942718b975c139dff07ea863184c59d",
       "title": "TP.HCM khởi công Trung tâm Cấp cứu 115 tại cụm y tế Tân Kiên",
       "link": "https://tuoitre.vn/tp-hcm-khoi-cong-trung-tam-cap-cuu-115-tai-cum-y-te-tan-kien-20260115112934098.htm",
@@ -603,6 +743,56 @@ window.newsData_2026_01_15 = {
       "fetched": "2026-01-15T15:19:23.184910+07:00"
     },
     {
+      "id": "1bd0db8ecfab587c87a53ae39acb788a",
+      "title": "Ông Trump dọa dùng luật chống nổi loạn để đối phó biểu tình ở Minnesota",
+      "link": "https://vnexpress.net/ong-trump-doa-dung-luat-chong-noi-loan-de-doi-pho-bieu-tinh-o-minnesota-5006218.html",
+      "summary": "Tổng thống Mỹ cảnh báo sẽ dùng luật chống nổi loạn để điều binh sĩ đối phó biểu tình ở bang Minnesota sau vụ đặc vụ ICE bắn chết người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T15:13:26+07:00",
+      "fetched": "2026-01-15T23:23:01.376276+07:00"
+    },
+    {
+      "id": "1bd0db8ecfab587c87a53ae39acb788a",
+      "title": "Ông Trump dọa dùng luật chống nổi loạn để đối phó biểu tình ở Minnesota",
+      "link": "https://vnexpress.net/ong-trump-doa-dung-luat-chong-noi-loan-de-doi-pho-bieu-tinh-o-minnesota-5006218.html",
+      "summary": "Tổng thống Mỹ cảnh báo sẽ dùng luật chống nổi loạn để điều binh sĩ đối phó biểu tình ở bang Minnesota sau vụ đặc vụ ICE bắn chết người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-15T15:13:26+07:00",
+      "fetched": "2026-01-15T23:23:07.175729+07:00"
+    },
+    {
+      "id": "7bcd46e1945fd74ec5f2bfd767e94999",
+      "title": "Nhóm MTV kết hợp ca sĩ ảo Ann",
+      "link": "https://vnexpress.net/nhom-mtv-ket-hop-ca-si-ao-ann-5006194.html",
+      "summary": "Nhóm MTV lần đầu hát bản pop ballad và diễn xuất cùng ca sĩ ảo Ann trong MV \"Đã có cha rồi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T15:03:49+07:00",
+      "fetched": "2026-01-15T23:23:01.376476+07:00"
+    },
+    {
+      "id": "d151b75ecf0e184e8d64bb656360192b",
+      "title": "Người mẹ 'sững người' khi hỏi con lý do chỉ được 9,75 điểm Toán",
+      "link": "https://vnexpress.net/nguoi-me-sung-nguoi-khi-hoi-con-ly-do-chi-duoc-9-75-diem-toan-5006138.html",
+      "summary": "Nhận tin con đạt 9,75 điểm Toán, thay vì khen ngợi, chị Tú hỏi ngay về 0,25 điểm bị mất, câu trả lời của con gái khiến chị \"sững người\"",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T15:02:18+07:00",
+      "fetched": "2026-01-15T23:23:01.376648+07:00"
+    },
+    {
+      "id": "51eee36690b6892e2746144295f7439d",
+      "title": "Hà Nội bàn liên kết Vùng Thủ đô theo mô hình chùm đô thị hướng tâm",
+      "link": "https://vnexpress.net/ha-noi-ban-lien-ket-vung-thu-do-theo-mo-hinh-chum-do-thi-huong-tam-5006191.html",
+      "summary": "Ban Thường vụ Thành ủy Hà Nội làm việc với các tỉnh, thành phố Vùng Thủ đô về Quy hoạch tổng thể tầm nhìn 100 năm, trong đó xác lập mô hình “chùm đô thị hướng tâm”, chiều 15/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T14:58:00+07:00",
+      "fetched": "2026-01-15T23:23:01.376809+07:00"
+    },
+    {
       "id": "269d20c85259f250fcca84f4235233d2",
       "title": "Rapper Pháo sau MV ‘Sự nghiệp chướng’ gây tranh cãi",
       "link": "https://thanhnien.vn/rapper-phao-sau-mv-su-nghiep-chuong-gay-tranh-cai-185260115211003074.htm",
@@ -663,6 +853,16 @@ window.newsData_2026_01_15 = {
       "fetched": "2026-01-15T21:23:24.269670+07:00"
     },
     {
+      "id": "7dc578a16aae09b1a31eba6b802865cf",
+      "title": "Nhiều Bộ trưởng được giới thiệu ứng cử đại biểu Quốc hội khóa 16",
+      "link": "https://vnexpress.net/nhieu-bo-truong-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-khoa-16-5006166.html",
+      "summary": "Bộ trưởng Lê Hoài Trung, Nguyễn Kim Sơn, Đỗ Thanh Bình được giới thiệu ứng cử đại biểu Quốc hội khóa 16 với tỷ lệ tán thành tuyệt đối từ cử tri nơi công tác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T14:02:54+07:00",
+      "fetched": "2026-01-15T23:23:01.376980+07:00"
+    },
+    {
       "id": "cb63117782e4b99c79c56f6d52c6b1bd",
       "title": "11 phim đặc sắc chiếu tại tuần phim chào mừng Đại hội XIV của Đảng",
       "link": "https://thanhnien.vn/11-phim-dac-sac-chieu-tai-tuan-phim-chao-mung-dai-hoi-xiv-cua-dang-185260115202335321.htm",
@@ -691,6 +891,16 @@ window.newsData_2026_01_15 = {
       "category": "Công nghệ",
       "published": "2026-01-15T13:59:19+07:00",
       "fetched": "2026-01-15T21:23:31.094778+07:00"
+    },
+    {
+      "id": "1ece3fa57791f62b94d602cd77fc68ae",
+      "title": "Cô hàng xóm hay biếu chúng tôi đồ ăn nhưng 'nhiệt tình quá mức'",
+      "link": "https://vnexpress.net/co-hang-xom-hay-bieu-chung-toi-do-an-nhung-nhiet-tinh-qua-muc-5006198.html",
+      "summary": "Ghi nhận lòng tốt của người hàng xóm, nhưng cả vợ chồng tôi đều cảm thấy không thoải mái với những câu hỏi, câu chuyện không liên quan đến mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:55:57+07:00",
+      "fetched": "2026-01-15T23:23:01.377291+07:00"
     },
     {
       "id": "10464853824d77c1ae3d5216665ada64",
