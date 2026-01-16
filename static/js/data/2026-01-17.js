@@ -1,7 +1,67 @@
 window.newsData_2026_01_17 = {
   "date": "2026-01-17",
-  "lastUpdated": "2026-01-17T01:20:05.993261+07:00",
+  "lastUpdated": "2026-01-17T03:13:43.414398+07:00",
   "articles": [
+    {
+      "id": "80796dca69cb8f1ccd98ee52512920e1",
+      "title": "Đăng Dương, Vũ Thắng Lợi, Anh Tú 'Voi Bản Đôn' hát giữa cờ hoa ở Nhà hát Hồ Gươm, mừng Đại hội Đảng",
+      "link": "https://tuoitre.vn/dang-duong-vu-thang-loi-anh-tu-voi-ban-don-hat-giua-co-hoa-o-nha-hat-ho-guom-mung-dai-hoi-dang-202601170029148.htm",
+      "summary": "Nhà hát Hồ Gươm tối 16-1 rực rỡ cờ hoa, nhất là khi những giai điệu Tiến về Hà Nội vang lên trong chương trình Mãi mãi niềm tin theo Đảng, hướng về Đại hội Đảng lần thứ XIV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T03:13:36.151755+07:00",
+      "fetched": "2026-01-17T03:13:36.151869+07:00"
+    },
+    {
+      "id": "6861f9a3f3e66d5cdf155c89c8bd3df5",
+      "title": "Cổ động viên Đông Nam Á thán phục trước sức mạnh của U23 Việt Nam",
+      "link": "https://tuoitre.vn/co-dong-vien-dong-nam-a-than-phuc-truoc-suc-manh-cua-u23-viet-nam-20260117013704699.htm",
+      "summary": "Chứng kiến màn trình diễn của U23 Việt Nam, nhiều cổ động viên Đông Nam Á tỏ ra thán phục trước sức mạnh vượt trội của đoàn quân HLV Kim Sang Sik tại Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T03:13:36.151630+07:00",
+      "fetched": "2026-01-17T03:13:36.151744+07:00"
+    },
+    {
+      "id": "f54238ff4c3283e188474d3f491887b0",
+      "title": "U23 Việt Nam được thưởng 1,2 tỉ đồng sau khi đánh bại U23 UAE",
+      "link": "https://tuoitre.vn/u23-viet-nam-duoc-thuong-1-2-ti-dong-sau-khi-danh-bai-u23-uae-20260117014224494.htm",
+      "summary": "U23 Việt Nam được thưởng nóng 1,2 tỉ đồng với thành tích vào bán kết U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T03:13:36.151503+07:00",
+      "fetched": "2026-01-17T03:13:36.151619+07:00"
+    },
+    {
+      "id": "3cbf0caa6dbac80ddf547559947e12d4",
+      "title": "U23 Việt Nam không còn ám ảnh với số áo 21",
+      "link": "https://tuoitre.vn/u23-viet-nam-khong-con-am-anh-voi-so-ao-21-20260117014402042.htm",
+      "summary": "Ba kỳ U23 châu Á trước đó, U23 Việt Nam bị loại ở vòng bảng hay tứ kết đều có cầu thủ mang áo số 21 nhận thẻ đỏ. Nhưng lần này, áo số 21 lại ghi bàn quyết định đưa U23 Việt Nam đi tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T03:13:36.151368+07:00",
+      "fetched": "2026-01-17T03:13:36.151491+07:00"
+    },
+    {
+      "id": "34e10bca75ba511bcc470915cbec7f61",
+      "title": "HLV Kim Sang Sik: Các cầu thủ đã chơi 120 phút quả cảm, giành chiến thắng cho người hâm mộ Việt Nam",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-cac-cau-thu-da-choi-120-phut-qua-cam-gianh-chien-thang-cho-nguoi-ham-mo-viet-nam-20260117001832591.htm",
+      "summary": "HLV Kim Sang Sik đã có chia sẻ tinh tế sau trận thắng 3-2 trước U23 UAE ở tứ kết Giải U23 châu Á 2026 vào rạng sáng 17-1 tại Saudi Arabia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T03:13:36.151219+07:00",
+      "fetched": "2026-01-17T03:13:36.151355+07:00"
+    },
+    {
+      "id": "7af6e2b0432803d639053852caafc3a2",
+      "title": "AFC: U23 Việt Nam tái hiện 'tuyết trắng Thường Châu' ở Saudi Arabia",
+      "link": "https://tuoitre.vn/afc-u23-viet-nam-tai-hien-tuyet-trang-thuong-chau-o-saudi-arabia-20260117020848227.htm",
+      "summary": "Sau chiến thắng nghẹt thở 3-2 trước U23 UAE vào rạng sáng 17-1, Liên đoàn Bóng đá châu Á (AFC) đã dành những lời tán dương nồng nhiệt cho U23 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T03:13:36.150962+07:00",
+      "fetched": "2026-01-17T03:13:36.151189+07:00"
+    },
     {
       "id": "c818dd539d241e54cb033a0f50704c20",
       "title": "Mất rừng khiến muỗi chuyển sang hút máu người, cảnh báo nguy cơ bùng phát dịch bệnh mới",
@@ -153,6 +213,346 @@ window.newsData_2026_01_17 = {
       "fetched": "2026-01-17T01:19:57.666064+07:00"
     },
     {
+      "id": "1d78b48d99fd9b535b2f97e7e4fbd0fc",
+      "title": "Chuyên gia chỉ cách đi bộ cực tốt cho tuổi 50",
+      "link": "https://thanhnien.vn/chuyen-gia-chi-cach-di-bo-cuc-tot-cho-tuoi-50-18526011702562495.htm",
+      "summary": "Đối với nhiều người trên 50 tuổi, các chuyên gia chỉ ra rằng chỉ cần thay đổi một chút có thể biến việc đi bộ hằng ngày thành công cụ rèn luyện mạnh mẽ, vượt trội hơn tập gym.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:56:00+07:00",
+      "fetched": "2026-01-17T03:13:35.398552+07:00"
+    },
+    {
+      "id": "9e9d4d5188e2287bd7aa87de42abf71e",
+      "title": "'Có giấc mơ chờ thành hiện thực': FIFA và AFC cùng Dortmund rộn ràng với trận thắng UAE của U.23 Việt Nam",
+      "link": "https://thanhnien.vn/co-giac-mo-cho-thanh-hien-thuc-fifa-va-afc-cung-dortmund-ron-rang-voi-tran-thang-uae-cua-u23-viet-nam-185260117023324979.htm",
+      "summary": "Chiến thắng của U.23 Việt Nam ở tứ kết U.23 châu Á 2026 không chỉ tạo tiếng vang trên sân cỏ, mà còn lan tỏa mạnh mẽ trên các nền tảng mạng xã hội quốc tế, từ FIFA tới AFC và CLB Borussia Dortmund.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:47:00+07:00",
+      "fetched": "2026-01-17T03:13:35.398727+07:00"
+    },
+    {
+      "id": "c680d15d9f505ca3edd862e95a4c58bf",
+      "title": "Những pha xử lý của Đình Bắc làm 'khổ' hàng thủ U23 UAE",
+      "link": "https://vnexpress.net/nhung-pha-xu-ly-cua-dinh-bac-lam-kho-hang-thu-u23-uae-5006661.html",
+      "summary": "Từ những pha bứt tốc, tì đè đến các đường chuyền quyết định, Đình Bắc góp công vào cả ba bàn trước khi Minh Phúc kết thúc trận đấu trong hiệp phụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:40:06+07:00",
+      "fetched": "2026-01-17T03:13:32.064877+07:00"
+    },
+    {
+      "id": "717be53c5be4bf1cdbaffdad60d9694c",
+      "title": "Lịch thi đấu bán kết mới nhất U.23 Việt Nam: Đá giờ ‘may mắn’, gặp Trung Quốc hoặc Uzbekistan",
+      "link": "https://thanhnien.vn/lich-thi-dau-ban-ket-moi-nhat-u23-viet-nam-da-gio-may-man-gap-trung-quoc-hoac-uzbekistan-185260117013304574.htm",
+      "summary": "U.23 Việt Nam đã xuất sắc giành vé góp mặt ở bán kết giải U.23 châu Á 2026, sau trận thắng kịch tính trước U.23 UAE ở vòng tứ kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:31:00+07:00",
+      "fetched": "2026-01-17T03:13:35.398882+07:00"
+    },
+    {
+      "id": "8bfd7a479f21474c73e81f46c1cb2ecf",
+      "title": "Cầu thủ UAE 'tận hưởng' sau khi thua U23 Việt Nam",
+      "link": "https://vnexpress.net/cau-thu-uae-tan-huong-sau-khi-thua-u23-viet-nam-5006657.html",
+      "summary": "Khoảnh khắc cầu thủ U23 UAE gối tay lên đầu nằm như đang thư giãn sau trận thua U23 Việt Nam đã 'gây bão' mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:28:39+07:00",
+      "fetched": "2026-01-17T03:13:32.065064+07:00"
+    },
+    {
+      "id": "d20d5b11d9c62be7f4a821b198a9f0aa",
+      "title": "Đình Bắc lại được AFC chọn là cầu thủ hay nhất trận, tiết lộ HLV Kim chỉ đạo cực đỉnh",
+      "link": "https://thanhnien.vn/dinh-bac-lai-duoc-afc-chon-la-cau-thu-hay-nhat-tran-tiet-lo-hlv-kim-chi-dao-cuc-dinh-185260117021138008.htm",
+      "summary": "Sau khi cùng đội U.23 Việt Nam đánh bại UAE ở tứ kết U.23 châu Á 2026, Đình Bắc đã có những chia sẻ thú vị về diễn biến trận đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:24:00+07:00",
+      "fetched": "2026-01-17T03:13:35.399034+07:00"
+    },
+    {
+      "id": "f01c65f06ca4430608877496085923a2",
+      "title": "Truyền thông Đông Nam Á ngợi ca: ‘U.23 Việt Nam đích thực là khắc tinh của đội trẻ Tây Á’",
+      "link": "https://thanhnien.vn/truyen-thong-dong-nam-a-ngoi-ca-u23-viet-nam-dich-thuc-la-khac-tinh-cua-doi-tre-tay-a-185260117021537219.htm",
+      "summary": "Truyền thông khu vực đánh giá U.23 Việt Nam đã có trận tứ kết U.23 châu Á 2026 rất hay và vé vào chơi ở bán kết là điều hoàn toàn xứng đáng với thầy trò HLV Kim Sang-sik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:23:00+07:00",
+      "fetched": "2026-01-17T03:13:35.399186+07:00"
+    },
+    {
+      "id": "dbb81fad48e865d0246e1fda0570198c",
+      "title": "Báo Thái Lan: 'U23 Việt Nam có trái tim sư tử'",
+      "link": "https://vnexpress.net/bao-thai-lan-u23-viet-nam-co-trai-tim-su-tu-5006656.html",
+      "summary": "Truyền thông Thái Lan và Indonesia đều khen ngợi màn trình diễn của Việt Nam trong trận thắng UAE 3-2 ở tứ kết U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:13:34+07:00",
+      "fetched": "2026-01-17T03:13:32.065253+07:00"
+    },
+    {
+      "id": "dbb81fad48e865d0246e1fda0570198c",
+      "title": "Báo Thái Lan: 'U23 Việt Nam có trái tim sư tử'",
+      "link": "https://vnexpress.net/bao-thai-lan-u23-viet-nam-co-trai-tim-su-tu-5006656.html",
+      "summary": "Truyền thông Thái Lan và Indonesia đều khen ngợi màn trình diễn của Việt Nam trong trận thắng UAE 3-2 ở tứ kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-16T19:13:34+07:00",
+      "fetched": "2026-01-17T03:13:43.409009+07:00"
+    },
+    {
+      "id": "b911f2e372d136df693d407eee8fec7f",
+      "title": "Hãy bình chọn bàn thắng đẹp của Đình Bắc thành pha lập công ấn tượng nhất vòng bảng U.23 châu Á 2026!",
+      "link": "https://thanhnien.vn/hay-binh-chon-ban-thang-dep-cua-dinh-bac-thanh-pha-lap-cong-an-tuong-nhat-vong-bang-u23-chau-a-2026-185260117020750559.htm",
+      "summary": "Trang chủ Liên đoàn Bóng đá châu Á (AFC) đã đưa bàn thắng của Đình Bắc vào danh sách những pha lập công đẹp nhất vòng bảng U.23 châu Á 2026, đồng thời kêu gọi người hâm mộ tham gia bình chọn cho bàn thắng ấn tượng nhất",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:11:00+07:00",
+      "fetched": "2026-01-17T03:13:35.399361+07:00"
+    },
+    {
+      "id": "838f32ed45fe81b87eb946c07574c96d",
+      "title": "HLV Kim: 'Trận thắng UAE tái khẳng định Việt Nam vươn tầm châu Á'",
+      "link": "https://vnexpress.net/hlv-kim-tran-thang-uae-tai-khang-dinh-viet-nam-vuon-tam-chau-a-5006634.html",
+      "summary": "HLV Kim Sang-sik hãnh diện khi Việt Nam thắng thuyết phục UAE 3-2 ở tứ kết, và tiếp tục hướng tới mục tiêu vào chung kết U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:05:41+07:00",
+      "fetched": "2026-01-17T03:13:32.065420+07:00"
+    },
+    {
+      "id": "838f32ed45fe81b87eb946c07574c96d",
+      "title": "HLV Kim: 'Trận thắng UAE tái khẳng định Việt Nam vươn tầm châu Á'",
+      "link": "https://vnexpress.net/hlv-kim-tran-thang-uae-tai-khang-dinh-viet-nam-vuon-tam-chau-a-5006634.html",
+      "summary": "HLV Kim Sang-sik hãnh diện khi Việt Nam thắng thuyết phục UAE 3-2 ở tứ kết, và tiếp tục hướng tới mục tiêu vào chung kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-16T19:05:41+07:00",
+      "fetched": "2026-01-17T03:13:43.409181+07:00"
+    },
+    {
+      "id": "e834e1aa2b19b1b517d55d3b5de4d4d8",
+      "title": "HLV UAE thất vọng nặng nề: 'Rất buồn vì chúng tôi đá đúng kế hoạch trước U.23 Việt Nam, vậy mà…",
+      "link": "https://thanhnien.vn/hlv-uae-that-vong-nang-ne-rat-buon-vi-chung-toi-da-dung-ke-hoach-truoc-u23-viet-nam-vay-ma-185260117020005101.htm",
+      "summary": "HLV Marcelo Broli không giấu được nỗi thất vọng khi U.23 UAE đã dừng bước trước U.23 Việt Nam ở tứ kết U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:02:00+07:00",
+      "fetched": "2026-01-17T03:13:35.399511+07:00"
+    },
+    {
+      "id": "ba12cea9764fc07e0974a21ebc5a99d6",
+      "title": "Người Alberta xếp hàng ký kiến nghị ly khai khỏi Canada",
+      "link": "https://vnexpress.net/nguoi-alberta-xep-hang-ky-kien-nghi-ly-khai-khoi-canada-5006571.html",
+      "summary": "Nhiều người dân tỉnh Alberta xếp hàng bên ngoài các hội trường cộng đồng để chờ ký vào bản kiến nghị đòi độc lập khỏi Canada.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:00:00+07:00",
+      "fetched": "2026-01-17T03:13:32.065577+07:00"
+    },
+    {
+      "id": "ba12cea9764fc07e0974a21ebc5a99d6",
+      "title": "Người Alberta xếp hàng ký kiến nghị ly khai khỏi Canada",
+      "link": "https://vnexpress.net/nguoi-alberta-xep-hang-ky-kien-nghi-ly-khai-khoi-canada-5006571.html",
+      "summary": "Nhiều người dân tỉnh Alberta xếp hàng bên ngoài các hội trường cộng đồng để chờ ký vào bản kiến nghị đòi độc lập khỏi Canada.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-16T19:00:00+07:00",
+      "fetched": "2026-01-17T03:13:37.535919+07:00"
+    },
+    {
+      "id": "72fea5b6bd1ce5bb44cac6a00fb12d72",
+      "title": "Người dân đổ ra đường lúc rạng sáng mừng chiến thắng U23 Việt Nam",
+      "link": "https://vnexpress.net/nguoi-dan-do-ra-duong-luc-rang-sang-mung-chien-thang-u23-viet-nam-5006658.html",
+      "summary": "Rạng sáng sớm 17/1, ngay sau chiến thắng 3-2 của Việt Nam trước UAE ở tứ kết giải U23 châu Á, nhiều người dân Hà Nội và TP HCM đổ ra các tuyến phố trung tâm ăn mừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:58:37+07:00",
+      "fetched": "2026-01-17T03:13:32.065731+07:00"
+    },
+    {
+      "id": "144385a5554d9bd4aa3a2f55c3c1d34b",
+      "title": "HLV của UAE: 'Chúng tôi về nước trong thanh thản'",
+      "link": "https://vnexpress.net/hlv-cua-uae-chung-toi-ve-nuoc-trong-thanh-than-5006635.html",
+      "summary": "HLV Marcelo Broli không cảm thấy hối tiếc sau khi UAE thua Việt Nam 2-3 ở tứ kết U23 châu Á 2026, tối 16/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:55:07+07:00",
+      "fetched": "2026-01-17T03:13:32.065882+07:00"
+    },
+    {
+      "id": "144385a5554d9bd4aa3a2f55c3c1d34b",
+      "title": "HLV của UAE: 'Chúng tôi về nước trong thanh thản'",
+      "link": "https://vnexpress.net/hlv-cua-uae-chung-toi-ve-nuoc-trong-thanh-than-5006635.html",
+      "summary": "HLV Marcelo Broli không cảm thấy hối tiếc sau khi UAE thua Việt Nam 2-3 ở tứ kết U23 châu Á 2026, tối 16/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-16T18:55:07+07:00",
+      "fetched": "2026-01-17T03:13:43.409361+07:00"
+    },
+    {
+      "id": "cbb677e88ff45c6e0830a631ea8b8bfa",
+      "title": "AFC dự báo cực nóng: Thắng mãn nhãn UAE, U.23 Việt Nam có hy vọng vô địch U.23 châu Á 2026",
+      "link": "https://thanhnien.vn/afc-du-bao-cuc-nong-thang-man-nhan-uae-u23-viet-nam-co-hy-vong-vo-dich-u23-chau-a-2026-185260117015131548.htm",
+      "summary": "Ngay sau khi U.23 Việt Nam giành quyền vào bán kết, trang chủ Liên đoàn Bóng đá châu Á (AFC) đánh giá thầy trò HLV Kim Sang-sik là một trong những đội có hy vọng vô địch U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:55:00+07:00",
+      "fetched": "2026-01-17T03:13:35.399665+07:00"
+    },
+    {
+      "id": "513b8c7fde5ada01535728628e6383a5",
+      "title": "Khách Tây: 'Người Việt cuồng nhiệt với bóng đá hơn Anh'",
+      "link": "https://vnexpress.net/khach-tay-nguoi-viet-cuong-nhiet-voi-bong-da-hon-anh-5006628.html",
+      "summary": "Thấy đường phố kẹt cứng, cờ đỏ rợp trời, Paul Holland từng hoảng sợ tưởng có chuyện gì bất thường nhưng lập tức nhận ra đó là người Việt ăn mừng chiến thắng bóng đá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:51:18+07:00",
+      "fetched": "2026-01-17T03:13:32.066041+07:00"
+    },
+    {
+      "id": "3882d6471005e8b158a86153f2f8eabc",
+      "title": "Doanh nghiệp xăng dầu sắp được kê khai, tự quyết giá",
+      "link": "https://vnexpress.net/doanh-nghiep-xang-dau-sap-duoc-ke-khai-tu-quyet-gia-5006625.html",
+      "summary": "Chính phủ sẽ ban hành Nghị định mới thay thế các quy định cũ, trao quyền tự quyết định giá bán cho thương nhân đầu mối và cửa hàng bán lẻ xăng dầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:44:04+07:00",
+      "fetched": "2026-01-17T03:13:32.066200+07:00"
+    },
+    {
+      "id": "3882d6471005e8b158a86153f2f8eabc",
+      "title": "Doanh nghiệp xăng dầu sắp được kê khai, tự quyết giá",
+      "link": "https://vnexpress.net/doanh-nghiep-xang-dau-sap-duoc-ke-khai-tu-quyet-gia-5006625.html",
+      "summary": "Chính phủ sẽ ban hành Nghị định mới thay thế các quy định cũ, trao quyền tự quyết định giá bán cho thương nhân đầu mối và cửa hàng bán lẻ xăng dầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-16T18:44:04+07:00",
+      "fetched": "2026-01-17T03:13:39.343049+07:00"
+    },
+    {
+      "id": "afdcdd8ecc80a0d543e61c31a87dbd65",
+      "title": "U.23 Việt Nam tiễn 3 đội Tây Á khỏi đấu trường lớn nhất châu lục: Ứng viên vô địch là đây!",
+      "link": "https://thanhnien.vn/u23-viet-nam-tien-3-doi-tay-a-khoi-dau-truong-lon-nhat-chau-luc-ung-vien-vo-dich-la-day-185260117013717326.htm",
+      "summary": "Chiến thắng 3-2 trước U.23 UAE giúp U.23 Việt Nam trở thành cơn ác mộng của các đội tuyển Tây Á tại sân chơi U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:44:00+07:00",
+      "fetched": "2026-01-17T03:13:35.399812+07:00"
+    },
+    {
+      "id": "abfa43629af809057786e8e4c4278880",
+      "title": "U.23 Việt Nam hiên ngang vào bán kết U.23 châu Á 2026 sau màn rượt đuổi nghẹt thở với UAE",
+      "link": "https://thanhnien.vn/u23-viet-nam-hien-ngang-vao-ban-ket-u23-chau-a-2026-sau-man-ruot-duoi-nghet-tho-voi-uae-185260117014119575.htm",
+      "summary": "3 bàn thắng của Lê Phát, Đình Bắc và Minh Phúc giúp U.23 Việt Nam đánh bại U.23 UAE 3-2 sau 120 phút thi đấu kịch tính, qua đó ghi tên mình vào bán kết VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:41:00+07:00",
+      "fetched": "2026-01-17T03:13:35.399959+07:00"
+    },
+    {
+      "id": "7773ba5a8e7d9efc174ac21040935ce4",
+      "title": "HLV Kim Sang-sik tiết lộ bí kíp cực hay đánh bại UAE, tự hào vô bờ về U.23 Việt Nam…",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-tiet-lo-dieu-cuc-hay-bi-kip-danh-bai-uae-tu-hao-vo-bo-ve-u23-viet-nam-185260117013320638.htm",
+      "summary": "Rạng sáng 17.1 (giờ Việt Nam), HLV Kim Sang-sik phát biểu sau trận thắng 3-2 của đội U.23 Việt Nam trước UAE ở tứ kết U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:40:00+07:00",
+      "fetched": "2026-01-17T03:13:35.400105+07:00"
+    },
+    {
+      "id": "c737b3762e8a373ae677b6e63b90b03c",
+      "title": "Nhà gỗ 26 m2 đặt sát hồ hòa cùng thiên nhiên",
+      "link": "https://vnexpress.net/nha-go-26-m2-dat-sat-ho-hoa-cung-thien-nhien-5004678.html",
+      "summary": "Căn nhà gỗ nhỏ gọn đặt trong rừng ven hồ, thiết kế hướng đến trải nghiệm ngoài trời và có thể di chuyển khi cần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:39:33+07:00",
+      "fetched": "2026-01-17T03:13:32.066376+07:00"
+    },
+    {
+      "id": "b19dee6f72f7d2bd3d1b581371a627fd",
+      "title": "Truyền thông UAE: ‘Thật khó tin với tinh thần, lối chơi và thể lực sung mãn của U.23 Việt Nam'",
+      "link": "https://thanhnien.vn/truyen-thong-uae-that-kho-tin-voi-tinh-than-loi-choi-va-the-luc-sung-man-cua-u23-viet-nam-185260117013420683.htm",
+      "summary": "Truyền thông UAE đã dành nhiều lời khen cho đội U.23, cũng như bày tỏ sự bất ngờ trước những gì mà U.23 Việt Nam đã thể hiện ở trận tứ kết U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:37:00+07:00",
+      "fetched": "2026-01-17T03:13:35.400274+07:00"
+    },
+    {
+      "id": "142eb85df1af3fb40b1e1623aad32746",
+      "title": "Đội trưởng Văn Khang: 'U.23 Việt Nam chiến đấu vì ngôi sao trên ngực áo'",
+      "link": "https://thanhnien.vn/doi-truong-van-khang-u23-viet-nam-chien-dau-vi-ngoi-sao-tren-nguc-ao-185260117013337845.htm",
+      "summary": "Sau khi cùng U.23 Việt Nam đánh bại U.23 UAE để lọt vào bán kết VCK U.23 châu Á 2026, đội trưởng Khuất Văn Khang đã dâng tặng chiến thắng cho toàn thể người hâm mộ nước nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:35:00+07:00",
+      "fetched": "2026-01-17T03:13:35.400430+07:00"
+    },
+    {
+      "id": "ea5e389a82c18b58ffb5e658d52b0f77",
+      "title": "U23 Việt Nam thắng trận chính thức thứ 15 liên tiếp",
+      "link": "https://vnexpress.net/u23-viet-nam-thang-tran-chinh-thuc-thu-15-lien-tiep-5006646.html",
+      "summary": "HLV Kim Sang-sik giúp U23 Việt Nam nối dài mạch thắng kỷ lục 15 trận chính thức, sau khi hạ UAE ở tứ kết U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:25:32+07:00",
+      "fetched": "2026-01-17T03:13:32.066527+07:00"
+    },
+    {
+      "id": "ea5e389a82c18b58ffb5e658d52b0f77",
+      "title": "U23 Việt Nam thắng trận chính thức thứ 15 liên tiếp",
+      "link": "https://vnexpress.net/u23-viet-nam-thang-tran-chinh-thuc-thu-15-lien-tiep-5006646.html",
+      "summary": "HLV Kim Sang-sik giúp U23 Việt Nam nối dài mạch thắng kỷ lục 15 trận chính thức, sau khi hạ UAE ở tứ kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-16T18:25:32+07:00",
+      "fetched": "2026-01-17T03:13:43.409517+07:00"
+    },
+    {
+      "id": "7dc81f0f5276f3bb750b46bcd567e0b5",
+      "title": "Chủ tịch VFF chúc mừng màn biểu diễn xuất sắc của U.23 Việt Nam: ‘Tôi rất hạnh phúc’",
+      "link": "https://thanhnien.vn/chu-tich-vff-chuc-mung-man-bieu-dien-xuat-sac-cua-u23-viet-nam-toi-rat-hanh-phuc-185260116233524583.htm",
+      "summary": "Lê Phát mở tỷ số, Đình Bắc tiếp tục tạo khác biệt trước khi Minh Phúc định đoạt trận đấu giúp U.23 Việt Nam đánh bại U.23 UAE trong trận tứ kết VCK U.23 châu Á 2026 đầy kịch tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:25:00+07:00",
+      "fetched": "2026-01-17T03:13:35.400582+07:00"
+    },
+    {
+      "id": "fb934183968ac120bebf1eee57d5f194",
+      "title": "Hậu vệ Việt Nam phá dớp 'chiếc áo số 21' ở U23 châu Á",
+      "link": "https://vnexpress.net/hau-ve-viet-nam-pha-dop-chiec-ao-so-21-o-u23-chau-a-5006655.html",
+      "summary": "Trước Phạm Minh Phúc - tác giả bàn ấn định 3-2 trước UAE ở tứ kết tối 16/1, đã có ba cầu thủ mang áo số 21 của Việt Nam bị đuổi ở ba giải U23 châu Á gần nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:24:04+07:00",
+      "fetched": "2026-01-17T03:13:32.066687+07:00"
+    },
+    {
+      "id": "fb934183968ac120bebf1eee57d5f194",
+      "title": "Hậu vệ Việt Nam phá dớp 'chiếc áo số 21' ở U23 châu Á",
+      "link": "https://vnexpress.net/hau-ve-viet-nam-pha-dop-chiec-ao-so-21-o-u23-chau-a-5006655.html",
+      "summary": "Trước Phạm Minh Phúc - tác giả bàn ấn định 3-2 trước UAE ở tứ kết tối 16/1, đã có ba cầu thủ mang áo số 21 của Việt Nam bị đuổi ở ba giải U23 châu Á gần nhất.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-16T18:24:04+07:00",
+      "fetched": "2026-01-17T03:13:43.409672+07:00"
+    },
+    {
+      "id": "846304ed9b4bc56c0bb168ae94f9d8ba",
+      "title": "Metro Nhổn - ga Hà Nội áp dụng vé định danh, xác thực điện tử",
+      "link": "https://vnexpress.net/metro-nhon-ga-ha-noi-ap-dung-ve-dinh-danh-xac-thuc-dien-tu-5006639.html",
+      "summary": "Từ ngày 1/2, tuyến đường sắt đô thị Nhổn - ga Hà Nội sẽ áp dụng cổng soát vé định danh, xác thực điện tử và nhận diện sinh trắc học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:23:18+07:00",
+      "fetched": "2026-01-17T03:13:32.066840+07:00"
+    },
+    {
       "id": "a1591a97c7f7cddc3eec836af1e919c9",
       "title": "Highlight U.23 Việt Nam 3-2 U.23 UAE: Lê Phát, Đình Bắc, Minh Phúc đưa 'chiến binh sao vàng' vào bán kết",
       "link": "https://thanhnien.vn/highlight-u23-viet-nam-3-2-u23-uae-le-phat-dinh-bac-minh-phuc-dua-chien-binh-sao-vang-vao-ban-ket-185260117011920296.htm",
@@ -181,6 +581,26 @@ window.newsData_2026_01_17 = {
       "category": "Tổng hợp",
       "published": "2026-01-16T18:11:00+07:00",
       "fetched": "2026-01-17T01:19:56.212402+07:00"
+    },
+    {
+      "id": "5fac0029ec0415f3b538e2126596fc89",
+      "title": "Ba bàn thắng giúp Việt Nam vào bán kết U23 châu Á 2026",
+      "link": "https://vnexpress.net/ba-ban-thang-giup-viet-nam-vao-ban-ket-u23-chau-a-2026-5006651.html",
+      "summary": "Nhờ các pha lập công của Lê Phát, Đình Bắc và Minh Phúc trên sân Prince Abdullah al-Faisal, U23 Việt Nam đánh bại UAE 3-2 ở tứ kết giải châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:08:39+07:00",
+      "fetched": "2026-01-17T03:13:32.067001+07:00"
+    },
+    {
+      "id": "cd06a660d926b783fff785b36caa8590",
+      "title": "5 món ăn giàu magie giúp ngủ ngon giấc",
+      "link": "https://vnexpress.net/5-mon-an-giau-magie-giup-ngu-ngon-giac-5005633.html",
+      "summary": "Ăn quả bơ, chuối, mè đen, khoai lang thường xuyên cung cấp magie, giúp cơ thể thư giãn và dễ đi vào giấc ngủ sâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T18:03:00+07:00",
+      "fetched": "2026-01-17T03:13:32.067156+07:00"
     },
     {
       "id": "661fc82a9c9f6e57eb9d08f5bb91ca1f",
@@ -541,6 +961,16 @@ window.newsData_2026_01_17 = {
       "category": "Thể thao",
       "published": "2026-01-16T14:13:35+07:00",
       "fetched": "2026-01-17T01:20:05.989745+07:00"
+    },
+    {
+      "id": "acd874f1fb2c97d727462abb13888ccf",
+      "title": "Việt Nam hạ UAE, vào bán kết U23 châu Á",
+      "link": "https://vnexpress.net/ket-qua-viet-nam-vs-uae-5006613-tong-thuat.html",
+      "summary": "Hòa ở hai hiệp chính, Việt Nam thắng UAE 3-2 sau hai hiệp phụ trận tứ kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-16T14:13:35+07:00",
+      "fetched": "2026-01-17T03:13:43.410140+07:00"
     },
     {
       "id": "0e42ab953bebacd996558a170aa93cdd",
