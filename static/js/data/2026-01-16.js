@@ -1,7 +1,157 @@
 window.newsData_2026_01_16 = {
   "date": "2026-01-16",
-  "lastUpdated": "2026-01-16T17:14:53.815291+07:00",
+  "lastUpdated": "2026-01-16T19:25:28.802974+07:00",
   "articles": [
+    {
+      "id": "08954e217f1a958f8d45b874abd84da8",
+      "title": "Sacombank và VNPAY hỗ trợ hộ kinh doanh thanh toán, nộp thuế số",
+      "link": "https://tuoitre.vn/sacombank-va-vnpay-ho-tro-ho-kinh-doanh-thanh-toan-nop-thue-so-2026011613304673.htm",
+      "summary": "Sự hợp tác giữa Sacombank và VNPAY nhằm cung cấp giải pháp số kết nối xuyên suốt các khâu bán hàng - thanh toán - hóa đơn - thống kê doanh thu, từ đó hỗ trợ hộ kinh doanh kê khai thuế chính xác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.519326+07:00",
+      "fetched": "2026-01-16T19:25:23.519443+07:00"
+    },
+    {
+      "id": "9ab73610271e600272d3f56382176282",
+      "title": "Điểm tin 18h:  Tăng gần 1.800 chuyến bay phục vụ Tết; Giá xăng dầu đồng loạt tăng",
+      "link": "https://tuoitre.vn/diem-tin-18h-tang-gan-1-800-chuyen-bay-phuc-vu-tet-gia-xang-dau-dong-loat-tang-2026011616510667.htm",
+      "summary": "Điểm tin 18h ngày 16-1-2026:  Tăng gần 1.800 chuyến bay phục vụ Tết; Giá xăng dầu đồng loạt tăng",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.519178+07:00",
+      "fetched": "2026-01-16T19:25:23.519313+07:00"
+    },
+    {
+      "id": "c5a3c0369fd8593324eae3aff7c59594",
+      "title": "Video quay cảnh đám đông biểu tình ở Iran là giả",
+      "link": "https://tuoitre.vn/video-quay-canh-dam-dong-bieu-tinh-o-iran-la-gia-2026011611071295.htm",
+      "summary": "Video lan truyền ghi lại cảnh người biểu tình diễu hành trên đường phố phải dùng đèn trên điện thoại do Chính phủ Iran tắt đèn đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.519046+07:00",
+      "fetched": "2026-01-16T19:25:23.519166+07:00"
+    },
+    {
+      "id": "3c9c8ced315d840ab31e2f714f1b6f36",
+      "title": "3 cựu cảnh sát giao thông ở Nha Trang lãnh án tù vì liên quan đường dây làm giả hồ sơ đăng ký xe",
+      "link": "https://tuoitre.vn/nhieu-cuu-canh-sat-giao-thong-o-nha-trang-lanh-an-tu-vi-lien-quan-duong-day-lam-gia-ho-so-dang-ky-xe-20260116173206298.htm",
+      "summary": "Tòa án nhân dân tỉnh Khánh Hòa đã tuyên án vụ 3 cựu cảnh sát giao thông ở Nha Trang liên quan đường dây làm giả hồ sơ đăng ký xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.518919+07:00",
+      "fetched": "2026-01-16T19:25:23.519035+07:00"
+    },
+    {
+      "id": "1ccfe97058ae7bc69fd9f5a982cf0f27",
+      "title": "Xây dựng, củng cố, phát huy sức mạnh đại đoàn kết toàn dân tộc trong giai đoạn mới",
+      "link": "https://tuoitre.vn/xay-dung-cung-co-phat-huy-suc-manh-dai-doan-ket-toan-dan-toc-trong-giai-doan-moi-20260116173500265.htm",
+      "summary": "Tuổi Trẻ Online trân trọng giới thiệu bài viết của bà Bùi Thị Minh Hoài, Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Bí thư Đảng ủy Mặt trận Tổ quốc, các đoàn thể Trung ương, Chủ tịch Ủy ban Trung ương MTTQ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.518790+07:00",
+      "fetched": "2026-01-16T19:25:23.518907+07:00"
+    },
+    {
+      "id": "9b33a5ca94e202a113a5b4b91bef9682",
+      "title": "Liên đoàn bóng đá Malaysia 'loay hoay' tìm cách tránh giải thể",
+      "link": "https://tuoitre.vn/lien-doan-bong-da-malaysia-loay-hoay-tim-cach-tranh-giai-the-20260116180501009.htm",
+      "summary": "Liên đoàn bóng đá Malaysia (FAM) đang tìm mọi cách trước thoát khỏi nguy cơ bị giải thể trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.518663+07:00",
+      "fetched": "2026-01-16T19:25:23.518778+07:00"
+    },
+    {
+      "id": "a98a56ea882d2e8008c07e6031cdf69c",
+      "title": "Đại học Luật TP.HCM mở hàng loạt ngành mới khối kinh tế, công nghệ",
+      "link": "https://tuoitre.vn/dai-hoc-luat-tphcm-mo-hang-loat-nganh-moi-khoi-kinh-te-cong-nghe-20260116175829764.htm",
+      "summary": "Năm 2026, Trường đại học Luật TP.HCM mở rộng sang các lĩnh vực kinh tế, công nghệ với hàng loạt ngành học mới, và áp dụng nhiều phương thức xét tuyển trong bối cảnh tuyển sinh đại học có nhiều thay đổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.518533+07:00",
+      "fetched": "2026-01-16T19:25:23.518651+07:00"
+    },
+    {
+      "id": "be4c1844bcb92ce881f44fcafbfee0d8",
+      "title": "Tăng liên tục, giá heo hơi ở đỉnh 77.000 đồng/kg, giá dịp Tết sẽ thế nào?",
+      "link": "https://tuoitre.vn/tang-lien-tuc-gia-heo-hoi-o-dinh-77-000-dong-kg-gia-dip-tet-se-the-nao-20260116171337914.htm",
+      "summary": "Giá heo hơi trên cả 3 miền tiếp tục tăng, nhiều nơi phía Bắc được ghi nhận ở mức đỉnh 77.000 đồng/kg. Nguyên nhân là do nhu cầu cận Tết tăng mạnh trong khi nguồn cung nhiều nơi sụt giảm mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.518402+07:00",
+      "fetched": "2026-01-16T19:25:23.518522+07:00"
+    },
+    {
+      "id": "ce75209ac1bc9f1dc4b500eea8e676b9",
+      "title": "Chủ tịch Chứng khoán FPT xin từ nhiệm vì sắp ra nước ngoài sinh sống",
+      "link": "https://tuoitre.vn/chu-tich-chung-khoan-fpt-xin-tu-nhiem-vi-sap-ra-nuoc-ngoai-sinh-song-20260116170852746.htm",
+      "summary": "Chủ tịch Chứng khoán FPT Nguyễn Văn Dũng cho biết sắp tới ông sẽ dành phần lớn thời gian sinh sống và làm việc ở nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.518263+07:00",
+      "fetched": "2026-01-16T19:25:23.518390+07:00"
+    },
+    {
+      "id": "9f20d51016fec11dfc13bea8ecdd8953",
+      "title": "Dẹp trật tự vỉa hè, lòng đường, vẫn còn nhiều 'điểm nóng' vi phạm cần xử lý nghiêm, bền bỉ",
+      "link": "https://tuoitre.vn/dep-trat-tu-via-he-long-duong-van-con-nhieu-diem-nong-vi-pham-can-xu-ly-nghiem-ben-bi-20260116160225938.htm",
+      "summary": "Vẫn còn nhiều khu vực có vỉa hè, lòng đường bị lấn chiếm. Bạn đọc hy vọng lực lượng chức năng xử lý thật nghiêm, quyết liệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.518097+07:00",
+      "fetched": "2026-01-16T19:25:23.518234+07:00"
+    },
+    {
+      "id": "0b128e624490d765b04039d2f95f3ee6",
+      "title": "Mỹ - NATO: Viễn cảnh đồng minh trở thành đối thủ",
+      "link": "https://tuoitre.vn/my-nato-vien-canh-dong-minh-tro-thanh-doi-thu-2026011523200273.htm",
+      "summary": "Vấn đề Greenland đang đẩy NATO và Mỹ vào nghịch lý địa chính trị hiếm thấy, đồng thời đặt ra câu hỏi lớn về tương lai liên minh này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.517966+07:00",
+      "fetched": "2026-01-16T19:25:23.518085+07:00"
+    },
+    {
+      "id": "333c726343b60c1df7a892ba630a77f2",
+      "title": "Bao giờ “cổ phiếu quốc dân” Hòa Phát quay lại vùng đỉnh lịch sử?",
+      "link": "https://tuoitre.vn/bao-gio-co-phieu-quoc-dan-hoa-phat-quay-lai-vung-dinh-lich-su-20260116161111472.htm",
+      "summary": "Các chuyên gia dự báo Hoà Phát được hưởng lợi trực tiếp từ làn sóng đầu tư công trong thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.517831+07:00",
+      "fetched": "2026-01-16T19:25:23.517953+07:00"
+    },
+    {
+      "id": "81c36c6e9157d5c0dc731040ef44e859",
+      "title": "Bốn người trong gia đình bị chó cắn nhưng không tiêm phòng, một người tử vong",
+      "link": "https://tuoitre.vn/bon-nguoi-trong-gia-dinh-bi-cho-can-nhung-khong-tiem-phong-mot-nguoi-tu-vong-20260116175809453.htm",
+      "summary": "Sau hơn 4 tháng bị chó cắn nhưng không tiêm phòng, một người đàn ông ở Lào Cai tử vong nghi do bệnh dại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.517693+07:00",
+      "fetched": "2026-01-16T19:25:23.517819+07:00"
+    },
+    {
+      "id": "74d579f64508c8675a2733b875feba88",
+      "title": "Những chiến sĩ công an chuyên cứu người giữa lằn ranh sinh - tử",
+      "link": "https://tuoitre.vn/nhung-chien-si-cong-an-chuyen-cuu-nguoi-giua-lan-ranh-sinh-tu-20260115215850197.htm",
+      "summary": "Giữa màn đêm mịt mùng mưa và âm thanh ầm ào của dòng lũ dữ, những chiếc xe cứu hỏa màu đỏ rực xé gió lao đi. Đó là cuộc đua giành giật sự sống từ “cửa tử”, nơi lằn ranh sinh - tử được tính bằng giây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.517545+07:00",
+      "fetched": "2026-01-16T19:25:23.517680+07:00"
+    },
+    {
+      "id": "320dbe368bb76457714ce3c7ad8dc324",
+      "title": "Ngân hàng mới lên sàn HoSE kinh doanh ra sao trong năm 2025?",
+      "link": "https://tuoitre.vn/ngan-hang-moi-len-san-hose-kinh-doanh-ra-sao-trong-nam-2025-20260116170055681.htm",
+      "summary": "Năm 2025, ngân hàng mới lên sàn HoSE ghi nhận lợi nhuận tăng mạnh, vượt xa kế hoạch đề ra. Tuy nhiên, nợ có khả năng mất vốn vẫn chiếm gần 50% tổng nợ xấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T19:25:23.517274+07:00",
+      "fetched": "2026-01-16T19:25:23.517528+07:00"
+    },
     {
       "id": "4f319529fe27da5242ee1e19d7f2293f",
       "title": "Con không chịu đi học, mẹ chở thẳng tới đồn công an và cái kết gây bão mạng",
@@ -453,6 +603,266 @@ window.newsData_2026_01_16 = {
       "fetched": "2026-01-16T13:21:14.313444+07:00"
     },
     {
+      "id": "ccbbc2f675660265b6b693e143d7e6e5",
+      "title": "Vợ chồng U.60 đến đất sen hồng cổ vũ 'Ronaldo bé' tại TNSV THACO cup 2026",
+      "link": "https://thanhnien.vn/vo-chong-u60-den-dat-sen-hong-co-vu-ronaldo-be-tai-tnsv-thaco-cup-2026-185260116190353186.htm",
+      "summary": "Trong bầu không khí bóng đá sinh viên sôi động, hình ảnh hai vợ chồng U.60 chăm chú theo dõi màn thể hiện của con trai để lại nhiều cảm xúc tại vòng loại Tây Nam bộ TNSV THACO cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T12:22:00+07:00",
+      "fetched": "2026-01-16T19:25:22.713469+07:00"
+    },
+    {
+      "id": "847c9273a6316f09d1716ccf03dc43bc",
+      "title": "Nguy cơ xăng E10 bị 'khép' tội hàng giả",
+      "link": "https://thanhnien.vn/nguy-co-xang-e10-bi-khep-toi-hang-gia-185260116185120467.htm",
+      "summary": "Từ 1.6 tới đây, xăng sinh học E10 (E10) sẽ được được bán rộng rãi thay thế xăng khoáng, nhưng với quy chuẩn kỹ thuật hiện nay, loại xăng này có nguy cơ bị kiểm tra, xử lý là hàng giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T12:09:00+07:00",
+      "fetched": "2026-01-16T19:25:22.713726+07:00"
+    },
+    {
+      "id": "7abf9fbfb7f8989e5f365f7bcafec735",
+      "title": "Chưa có quy định cấp hóa đơn từng lần phát sinh đối với hộ kinh doanh",
+      "link": "https://thanhnien.vn/chua-co-quy-dinh-cap-hoa-don-tung-lan-phat-sinh-doi-voi-ho-kinh-doanh-18526011618250666.htm",
+      "summary": "Đó là phần trả lời của Thuế cơ sở 6 tỉnh Lâm Đồng hướng dẫn về việc xuất hóa đơn thuế của hộ kinh doanh sau khi thực hiện bỏ thuế khoán, chuyển sang phương pháp kê khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T12:07:00+07:00",
+      "fetched": "2026-01-16T19:25:22.713967+07:00"
+    },
+    {
+      "id": "ffc096974177e989629c328b3d30a292",
+      "title": "Cận cảnh máy bay không người lái thả hạt giống trồng rừng",
+      "link": "https://thanhnien.vn/can-canh-may-bay-khong-nguoi-lai-tha-hat-giong-trong-rung-18526011618073806.htm",
+      "summary": "Ngày 16.1, nhãn hàng OMO thuộc công ty TNHH Quốc tế Unilever Việt Nam đã tiến hành gieo hạt giống cây để trồng rừng bằng công nghệ máy bay không người lái tại Vườn quốc gia Núi Chúa - Phước Bình (tỉnh Khánh Hòa).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T12:07:00+07:00",
+      "fetched": "2026-01-16T19:25:22.714205+07:00"
+    },
+    {
+      "id": "805db2260c0ce6cb2d4718f12936475e",
+      "title": "Hàn Quốc chi 8 triệu USD biến rơm rạ Cần Thơ thành dầu sinh học",
+      "link": "https://vnexpress.net/han-quoc-chi-8-trieu-usd-bien-rom-ra-can-tho-thanh-dau-sinh-hoc-5006577.html",
+      "summary": "Dự án biến rơm rạ thành dầu sinh học có thể sản xuất 17.400 tấn biodiesel từ vùng trồng 144 km2 một năm, giảm phát thải 51.000 tấn CO2, đang trong giai đoạn báo cáo thí nghiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T12:03:36+07:00",
+      "fetched": "2026-01-16T19:25:20.067871+07:00"
+    },
+    {
+      "id": "805db2260c0ce6cb2d4718f12936475e",
+      "title": "Hàn Quốc chi 8 triệu USD biến rơm rạ Cần Thơ thành dầu sinh học",
+      "link": "https://vnexpress.net/han-quoc-chi-8-trieu-usd-bien-rom-ra-can-tho-thanh-dau-sinh-hoc-5006577.html",
+      "summary": "Dự án biến rơm rạ thành dầu sinh học có thể sản xuất 17.400 tấn biodiesel từ vùng trồng 144 km2 một năm, giảm phát thải 51.000 tấn CO2, đang trong giai đoạn báo cáo thí nghiệm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-16T12:03:36+07:00",
+      "fetched": "2026-01-16T19:25:26.158655+07:00"
+    },
+    {
+      "id": "e83689557c43344c383729d131fae640",
+      "title": "Bộ trưởng Công an: 'Tội phạm mạng sẽ tấn công nơi yếu nhất, chủ quan nhất'",
+      "link": "https://vnexpress.net/bo-truong-cong-an-toi-pham-mang-se-tan-cong-noi-yeu-nhat-chu-quan-nhat-5006553.html",
+      "summary": "Theo Đại tướng Lương Tam Quang, tội phạm mạng sẽ không đi \"cửa chính\", không tấn công nơi được bảo vệ tốt nhất, mà sẽ lợi dụng nơi yếu nhất, chủ quan nhất để tấn công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T12:00:48+07:00",
+      "fetched": "2026-01-16T19:25:20.068063+07:00"
+    },
+    {
+      "id": "2b9c2b00e7941516fc22640cdee40016",
+      "title": "Đầu bếp có 500 triệu làm vốn và thạc sĩ nghèo - ai có cơ hội làm giàu nhanh hơn?",
+      "link": "https://vnexpress.net/dau-bep-co-500-trieu-lam-von-va-thac-si-ngheo-ai-co-co-hoi-lam-giau-nhanh-hon-5006554.html",
+      "summary": "Thành công đến từ nhiều yếu tố hội tụ hay làm việc kiểu 'cần mẫn thì sẽ giàu'?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T12:00:00+07:00",
+      "fetched": "2026-01-16T19:25:20.068229+07:00"
+    },
+    {
+      "id": "b97b1d30de54429300a442629d112985",
+      "title": "Khám phá bên trong bảo tàng phở đầu tiên của Việt Nam",
+      "link": "https://vnexpress.net/kham-pha-ben-trong-bao-tang-pho-dau-tien-cua-viet-nam-5006502.html",
+      "summary": "Bảo tàng phở đầu tiên mở cửa đón khách tham quan với giá vé 750.000 đồng mỗi lượt gồm tìm hiểu lịch sử trăm năm của phở Việt và trải nghiệm tô phở bò đặc biệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T12:00:00+07:00",
+      "fetched": "2026-01-16T19:25:20.068434+07:00"
+    },
+    {
+      "id": "bfe87a3496bb015c79be58d355d2d28a",
+      "title": "Gu diện áo dài của Hoa hậu Trương Hồ Phương Nga",
+      "link": "https://vnexpress.net/gu-dien-ao-dai-cua-hoa-hau-truong-ho-phuong-nga-5006384.html",
+      "summary": "Người đẹp Trương Hồ Phương Nga thường chọn áo dài lụa, đính họa tiết hoa khi dự sự kiện, livestream bán hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T12:00:00+07:00",
+      "fetched": "2026-01-16T19:25:20.068598+07:00"
+    },
+    {
+      "id": "a6f1a5fbf9f02a55a3e10e120db2056d",
+      "title": "Thông điệp của châu Âu khi điều binh sĩ đến Greenland",
+      "link": "https://vnexpress.net/thong-diep-cua-chau-au-khi-dieu-binh-si-den-greenland-5006264.html",
+      "summary": "Châu Âu triển khai binh sĩ tới Greenland nhằm phát đi thông điệp đoàn kết và cứng rắn, giữa lúc ông Trump tăng cường sức ép để kiểm soát hòn đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T12:00:00+07:00",
+      "fetched": "2026-01-16T19:25:20.068754+07:00"
+    },
+    {
+      "id": "908594dedc9a0c1f751c75bd215fedee",
+      "title": "Điều gì xảy ra khi ăn củ dền thường xuyên?",
+      "link": "https://vnexpress.net/suc-khoe-dinh-duong-cu-den-5005966.html",
+      "summary": "Ăn củ dền sống hoặc ép lấy nước, nướng có lợi hơn so với luộc trong việc giảm huyết áp, tăng hiệu suất thể thao, thúc đẩy giảm cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T12:00:00+07:00",
+      "fetched": "2026-01-16T19:25:20.068908+07:00"
+    },
+    {
+      "id": "49b9988c558c7a9cfafa9eed68d9655a",
+      "title": "Xịt nước hoa có giúp tránh mắc bệnh vùng kín cho nam giới?",
+      "link": "https://vnexpress.net/xit-nuoc-hoa-co-giup-tranh-mac-benh-vung-kin-cho-nam-gioi-5006541.html",
+      "summary": "Có đúng xịt nước hoa vùng kín sẽ giúp tăng ham muốn và giảm nguy cơ mắc bệnh tình dục cho nam giới? (Trương Hoàn Nguyên, 26 tuổi, Cần Thơ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T12:00:00+07:00",
+      "fetched": "2026-01-16T19:25:20.069062+07:00"
+    },
+    {
+      "id": "d2709f6db1a8a7305fb4f17494505021",
+      "title": "6 chiến thuật tâm lý giúp runner chinh phục marathon",
+      "link": "https://vnexpress.net/6-chien-thuat-tam-ly-chinh-phuc-marathon-5006040.html",
+      "summary": "Nhiều runner tập luyện đủ giáo án nhưng vẫn \"hụt hơi\" hay bỏ cuộc ở nửa sau cuộc đua, nguyên nhân thường không nằm ở đôi chân mà ở khả năng kiểm soát tâm trí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T12:00:00+07:00",
+      "fetched": "2026-01-16T19:25:20.069229+07:00"
+    },
+    {
+      "id": "a6f1a5fbf9f02a55a3e10e120db2056d",
+      "title": "Thông điệp của châu Âu khi điều binh sĩ đến Greenland",
+      "link": "https://vnexpress.net/thong-diep-cua-chau-au-khi-dieu-binh-si-den-greenland-5006264.html",
+      "summary": "Châu Âu triển khai binh sĩ tới Greenland nhằm phát đi thông điệp đoàn kết và cứng rắn, giữa lúc ông Trump tăng cường sức ép để kiểm soát hòn đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-16T12:00:00+07:00",
+      "fetched": "2026-01-16T19:25:25.055936+07:00"
+    },
+    {
+      "id": "5e60cf4151c852081cd116dfe82e60b2",
+      "title": "TP.HCM bắt đầu dạy về trí tuệ nhân tạo: Thí điểm với học sinh trường nào?",
+      "link": "https://thanhnien.vn/tphcm-bat-dau-day-ve-tri-tue-nhan-tao-thi-diem-voi-hoc-sinh-truong-nao-185260116182232706.htm",
+      "summary": "Học sinh các trường THPT chuyên, trường tiên tiến, chất lượng cao, trường học số của TPHCM sẽ bắt đầu học về trí tuệ nhân tạo từ năm học 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:53:00+07:00",
+      "fetched": "2026-01-16T19:25:22.714465+07:00"
+    },
+    {
+      "id": "c5654d8e27ff76fd80d55eb623013483",
+      "title": "4 ngân hàng 'hùn' tiền cho EVN vay làm nhà máy điện khí 2,1 tỉ USD",
+      "link": "https://thanhnien.vn/4-ngan-hang-hun-tien-cho-evn-vay-lam-nha-may-dien-khi-21-ti-usd-185260116172802579.htm",
+      "summary": "Dự án nhà máy điện khí hóa lỏng tự nhiên (LNG) Quảng Trạch 2 của Tập đoàn Điện lực Việt Nam (EVN) có tổng mức đầu tư khoảng 52.490 tỉ đồng (tương đương khoảng 2,1 tỉ USD) đã được 4 ngân hàng thương mại nhà nước bố trí vốn vay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:49:00+07:00",
+      "fetched": "2026-01-16T19:25:22.714691+07:00"
+    },
+    {
+      "id": "07f83380d19d2d526dcf2b7466a7eafe",
+      "title": "Chậm nhất ngày 9.2 ra mắt Trung tâm tài chính quốc tế tại TP.HCM",
+      "link": "https://thanhnien.vn/cham-nhat-ngay-92-ra-mat-trung-tam-tai-chinh-quoc-te-tai-tphcm-185260116181358422.htm",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu chậm nhất ngày 9.2 ra mắt Trung tâm tài chính quốc tế tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:48:00+07:00",
+      "fetched": "2026-01-16T19:25:22.714911+07:00"
+    },
+    {
+      "id": "538f176081f3e65a8ad3eb07ca210117",
+      "title": "Trường ĐH Luật TP.HCM chi nửa tỉ đồng thu hút giáo sư",
+      "link": "https://thanhnien.vn/truong-dh-luat-tphcm-chi-nua-ti-dong-thu-hut-giao-su-185260116182632507.htm",
+      "summary": "Trường ĐH Luật TP.HCM chi nửa tỉ đồng thu hút giáo sư (GS) về trường làm việc. Mức này cũng áp dụng với giảng viên đang làm việc tại trường được công nhận học hàm GS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:45:00+07:00",
+      "fetched": "2026-01-16T19:25:22.715132+07:00"
+    },
+    {
+      "id": "dbe4f2bdc8fd1bdb3cfd3f29ab9a899a",
+      "title": "Quảng Ngãi tổ chức thi trực tuyến, nâng cao nhận thức pháp luật về bầu cử",
+      "link": "https://thanhnien.vn/quang-ngai-to-chuc-thi-truc-tuyen-nang-cao-nhan-thuc-phap-luat-ve-bau-cu-185260116170400656.htm",
+      "summary": "Quảng Ngãi tổ chức cuộc thi trực tuyến tìm hiểu pháp luật về bầu cử đại biểu Quốc hội khóa XVI và HĐND các cấp, nhằm đổi mới công tác tuyên truyền, nâng cao nhận thức, trách nhiệm công dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:43:00+07:00",
+      "fetched": "2026-01-16T19:25:22.715383+07:00"
+    },
+    {
+      "id": "3df11fb27633f11b8ea29480d00849a9",
+      "title": "Gia Lai: Hàng chục trạm cân nông sản sai phạm",
+      "link": "https://thanhnien.vn/gia-lai-hang-chuc-tram-can-nong-san-sai-pham-185260116161400206.htm",
+      "summary": "Nhiều trạm cân nông sản tại H.Krông Pa cũ (Gia Lai) được xây dựng trên đất nông nghiệp, chưa chuyển mục đích sử dụng, trong khi địa phương chưa quy hoạch đất thương mại - dịch vụ, gây thất thu ngân sách và khó khăn cho quản lý đất đai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:39:00+07:00",
+      "fetched": "2026-01-16T19:25:22.715619+07:00"
+    },
+    {
+      "id": "a2aff69fa993be5cb26dff21d8e0bf39",
+      "title": "Thủ đoạn của người đàn bà trộm nữ trang của nhiều tiệm vàng",
+      "link": "https://vnexpress.net/thu-doan-cua-nguoi-dan-ba-trom-nu-trang-cua-nhieu-tiem-vang-5006593.html",
+      "summary": "Vừa ra tù, người phụ nữ 42 tuổi liên tiếp gây ra 2 vụ trộm nữ trang trị giá hàng trăm triệu bằng thủ đoạn giả khách xem hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:38:43+07:00",
+      "fetched": "2026-01-16T19:25:20.069415+07:00"
+    },
+    {
+      "id": "664951a0796d12e08d9055b9a2404fea",
+      "title": "nubia V80 Design và V80 Max: lựa chọn smartphone phổ thông với nhiều trang bị mới",
+      "link": "https://thanhnien.vn/nubia-v80-design-va-v80-max-lua-chon-smartphone-pho-thong-voi-nhieu-trang-bi-moi-18526011618383404.htm",
+      "summary": "Ở tầm giá hơn 3 triệu đồng, nubia V80 Design và nubia V80 Max mang đến nhiều trang bị đáng chú ý như màn hình tần số quét cao, pin 5.000 – 6.000 mAh, nút AI vật lý và khả năng hỗ trợ công việc, giải trí cơ bản. Video review tập trung vào thiết kế, độ bền và những tính năng nổi bật của bộ đôi smartph...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:38:00+07:00",
+      "fetched": "2026-01-16T19:25:22.715855+07:00"
+    },
+    {
+      "id": "bd64e1f1c472e056a7f97412ee70f3f4",
+      "title": "HLV PSG muốn bóng đá dùng thẻ xanh như bóng bầu dục",
+      "link": "https://vnexpress.net/hlv-psg-muon-bong-da-dung-the-xanh-nhu-bong-bau-duc-5006565.html",
+      "summary": "HLV trưởng PSG Luis Enrique hoan nghênh ý tưởng áp dụng cơ chế rút thẻ xanh trong bóng bầu dục vào bóng đá, theo đó các cầu thủ sẽ phải tạm thời rời sân sau khi phạm lỗi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:33:55+07:00",
+      "fetched": "2026-01-16T19:25:20.069582+07:00"
+    },
+    {
+      "id": "bd64e1f1c472e056a7f97412ee70f3f4",
+      "title": "HLV PSG muốn bóng đá dùng thẻ xanh như bóng bầu dục",
+      "link": "https://vnexpress.net/hlv-psg-muon-bong-da-dung-the-xanh-nhu-bong-bau-duc-5006565.html",
+      "summary": "HLV trưởng PSG Luis Enrique hoan nghênh ý tưởng áp dụng cơ chế rút thẻ xanh trong bóng bầu dục vào bóng đá, theo đó các cầu thủ sẽ phải tạm thời rời sân sau khi phạm lỗi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-16T11:33:55+07:00",
+      "fetched": "2026-01-16T19:25:28.791846+07:00"
+    },
+    {
+      "id": "fb2558e3d837b40d5be832d34175b6e3",
+      "title": "Nhóm cướp tài sản người nước ngoài ở Nha Trang bị bắt",
+      "link": "https://vnexpress.net/nhom-cuop-tai-san-nguoi-nuoc-ngoai-o-nha-trang-bi-bat-5006588.html",
+      "summary": "Bốn thanh thiếu niên 15-17 tuổi bị cáo buộc mang hung khí cướp tài sản của người nước ngoài ở Nha Trang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:32:38+07:00",
+      "fetched": "2026-01-16T19:25:20.069681+07:00"
+    },
+    {
       "id": "9ebf177fa47c65113389001263887422",
       "title": "Sáng nay xét xử YouTuber Đinh Lan vì loạt video liên quan bà Nguyễn Phương Hằng",
       "link": "https://tuoitre.vn/sang-nay-xet-xu-youtuber-dinh-lan-vi-loat-video-lien-quan-ba-nguyen-phuong-hang-20260116085719889.htm",
@@ -601,6 +1011,96 @@ window.newsData_2026_01_16 = {
       "category": "Tổng hợp",
       "published": "2026-01-16T11:32:03.231469+07:00",
       "fetched": "2026-01-16T11:32:03.231680+07:00"
+    },
+    {
+      "id": "6efeb984c37d84ce90849463218c0b6d",
+      "title": "Người phụ nữ bị cáo buộc bôi nhọ cán bộ, chính quyền",
+      "link": "https://vnexpress.net/nguoi-phu-nu-bi-cao-buoc-boi-nho-can-bo-chinh-quyen-5006594.html",
+      "summary": "Bà Hồ Thị Hải bị cáo buộc đăng Facebook nhiều bài viết, hình ảnh, video thiếu kiểm chứng về dự án bồi thường quốc lộ; bôi nhọ cán bộ, chính quyền các cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:28:02+07:00",
+      "fetched": "2026-01-16T19:25:20.069852+07:00"
+    },
+    {
+      "id": "8338320861e8cea08233f8928c67e056",
+      "title": "TP.HCM kỷ luật nhiều đảng viên vi phạm",
+      "link": "https://thanhnien.vn/tphcm-ky-luat-nhieu-dang-vien-vi-pham-185260116175530571.htm",
+      "summary": "Ủy ban Kiểm tra Thành ủy TP.HCM đã xem xét, thi hành kỷ luật 8 đảng viên, trong đó có các trường hợp bị khai trừ, cảnh cáo do vi phạm nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:23:00+07:00",
+      "fetched": "2026-01-16T19:25:22.716090+07:00"
+    },
+    {
+      "id": "dab149a17a50b53306f26d8d4781f232",
+      "title": "Bộ Tài chính nói gì về đề xuất nâng mức đặt cược bóng đá lên 100 triệu/ngày?",
+      "link": "https://thanhnien.vn/bo-tai-chinh-noi-gi-ve-de-xuat-nang-muc-dat-cuoc-bong-da-len-100-trieu-ngay-185260116181203648.htm",
+      "summary": "Bộ Tài chính vừa có ý kiến về đề xuất nâng mức trần cho phép số tiền đặt cược bóng đá quốc tế hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:22:00+07:00",
+      "fetched": "2026-01-16T19:25:22.716368+07:00"
+    },
+    {
+      "id": "c5f1e55f6197e9d82eb7f6225c42c1b6",
+      "title": "Khoảnh khắc tiêm kích F-15 Mỹ 'khoác áo choàng hơi nước'",
+      "link": "https://vnexpress.net/khoanh-khac-tiem-kich-f-15-my-khoac-ao-choang-hoi-nuoc-5006485.html",
+      "summary": "Tiêm kích F-15EX Mỹ tăng tốc và hướng thẳng lên trời, khiến hơi nước ngưng tụ và bao phủ toàn thân máy bay như áo choàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:17:06+07:00",
+      "fetched": "2026-01-16T19:25:20.070013+07:00"
+    },
+    {
+      "id": "c5f1e55f6197e9d82eb7f6225c42c1b6",
+      "title": "Khoảnh khắc tiêm kích F-15 Mỹ 'khoác áo choàng hơi nước'",
+      "link": "https://vnexpress.net/khoanh-khac-tiem-kich-f-15-my-khoac-ao-choang-hoi-nuoc-5006485.html",
+      "summary": "Tiêm kích F-15EX Mỹ tăng tốc và hướng thẳng lên trời, khiến hơi nước ngưng tụ và bao phủ toàn thân máy bay như áo choàng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-16T11:17:06+07:00",
+      "fetched": "2026-01-16T19:25:25.056119+07:00"
+    },
+    {
+      "id": "8a2a3364c5b561e34363542d8de779d7",
+      "title": "TP.HCM ngưng nhận hồ sơ lĩnh vực hóa chất vì chưa có hướng dẫn",
+      "link": "https://thanhnien.vn/tphcm-ngung-nhan-ho-so-linh-vuc-hoa-chat-vi-chua-co-huong-dan-185260116173446172.htm",
+      "summary": "Sở Công thương TP.HCM vừa có công văn gửi các tổ chức, cá nhân hoạt động hóa chất đóng trên địa bàn TP.HCM về nội dung trên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:16:00+07:00",
+      "fetched": "2026-01-16T19:25:22.716606+07:00"
+    },
+    {
+      "id": "e2fa41896655b1820c4b9c5403bcfc81",
+      "title": "Đề xuất đầu tư dự án cảng, trạm và kho LNG Dung Quất gần 3.800 tỉ đồng",
+      "link": "https://thanhnien.vn/de-xuat-dau-tu-du-an-cang-tram-va-kho-lng-dung-quat-gan-3800-ti-dong-185260116173254783.htm",
+      "summary": "Theo đề xuất dự án cảng, trạm và kho LNG Dung Quất dự kiến được triển khai tại khu vực phía đông KKT Dung Quất, thuộc xã Vạn Tường (Quảng Ngãi) với quy mô sử dụng đất khoảng 19 ha, tổng vốn đầu tư khoảng 3.769 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:15:00+07:00",
+      "fetched": "2026-01-16T19:25:22.716853+07:00"
+    },
+    {
+      "id": "ae08198d146c31b93506b02c8387d90a",
+      "title": "Nhật Bản 0-1 Jordan: Trả giá vì phung phí cơ hội",
+      "link": "https://vnexpress.net/nhat-ban-jordan-tranh-ve-dau-tien-vao-ban-ket-u23-chau-a-5006529.html",
+      "summary": "Jordan lép vế, nhưng bất ngờ dẫn Nhật Bản 1-0 ở trận tứ kết đầu tiên của VCK U23 châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T11:00:00+07:00",
+      "fetched": "2026-01-16T19:25:20.070174+07:00"
+    },
+    {
+      "id": "ae08198d146c31b93506b02c8387d90a",
+      "title": "Nhật Bản 0-1 Jordan: Trả giá vì phung phí cơ hội",
+      "link": "https://vnexpress.net/nhat-ban-jordan-tranh-ve-dau-tien-vao-ban-ket-u23-chau-a-5006529.html",
+      "summary": "Jordan lép vế, nhưng bất ngờ dẫn Nhật Bản 1-0 ở trận tứ kết đầu tiên của VCK U23 châu Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-16T11:00:00+07:00",
+      "fetched": "2026-01-16T19:25:28.790379+07:00"
     },
     {
       "id": "89a4e957b951f195994e51b1dc8edcd4",
