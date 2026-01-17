@@ -1,7 +1,157 @@
 window.newsData_2026_01_17 = {
   "date": "2026-01-17",
-  "lastUpdated": "2026-01-17T11:25:30.424092+07:00",
+  "lastUpdated": "2026-01-17T13:18:50.744894+07:00",
   "articles": [
+    {
+      "id": "f050631fe1835dc8ff7c169a66686b30",
+      "title": "IELTS gây mất công bằng tuyển sinh đại học thế nào?",
+      "link": "https://tuoitre.vn/ielts-gay-mat-cong-bang-tuyen-sinh-dai-hoc-the-nao-20260117105929857.htm",
+      "summary": "Từ những bất cập kỳ tuyển sinh đại học 2025, năm nay Bộ Giáo dục và Đào tạo dự kiến giảm điểm cộng tối đa của thí sinh có chứng chỉ ngoại ngữ từ 3 xuống còn 1-2 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.326306+07:00",
+      "fetched": "2026-01-17T13:18:45.326422+07:00"
+    },
+    {
+      "id": "9c2e6d5d179e45d9bbc85984c97067ea",
+      "title": "Hạnh phúc không phải thứ để dành",
+      "link": "https://tuoitre.vn/hanh-phuc-khong-phai-thu-de-danh-20260117095615365.htm",
+      "summary": "Nhiều người vẫn cho rằng hạnh phúc gia đình như một đích đến. Chỉ khi đạt được điều này có được điều kia thì hạnh phúc mới trọn vẹn. Để rồi họ cứ sống trong tâm thế đợi chờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.326180+07:00",
+      "fetched": "2026-01-17T13:18:45.326292+07:00"
+    },
+    {
+      "id": "869342571166ec3ae65f3fde7fc629e5",
+      "title": "Lộ diện đường dây mua bán tài khoản ngân hàng tiếp tay tội phạm lừa đảo tại Campuchia",
+      "link": "https://tuoitre.vn/lo-dien-duong-day-mua-ban-tai-khoan-ngan-hang-tiep-tay-toi-pham-lua-dao-tai-campuchia-20260117114032277.htm",
+      "summary": "Một đường dây mua bán trái phép tài khoản ngân hàng cung cấp cho các ổ nhóm tội phạm tại Campuchia để hoạt động lừa đảo vừa bị bóc dỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.326060+07:00",
+      "fetched": "2026-01-17T13:18:45.326169+07:00"
+    },
+    {
+      "id": "c858ade9af5e0ffcff2c2b1843e702ef",
+      "title": "Rosé BlackPink nói về đề cử Grammy: 'Cảm giác như tôi đang sống trong mơ'",
+      "link": "https://tuoitre.vn/rose-blackpink-noi-ve-de-cu-grammy-cam-giac-nhu-toi-dang-song-trong-mo-20260117105823963.htm",
+      "summary": "Xuất hiện trên trang bìa ELLE số tháng 2, Rosé (BlackPink) mang đến hình ảnh cuốn hút, đầy tự tin, đồng thời có những chia sẻ hiếm hoi về đề cử Grammy với siêu hit APT.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.325936+07:00",
+      "fetched": "2026-01-17T13:18:45.326049+07:00"
+    },
+    {
+      "id": "2c2f0e87df16b7e5626812e6e236c5f4",
+      "title": "Nữ nhân viên cửa hàng điện thoại cấu kết với người ngoài trộm 50 điện thoại di động",
+      "link": "https://tuoitre.vn/nu-nhan-vien-cua-hang-dien-thoai-cau-ket-voi-nguoi-ngoai-trom-50-dien-thoai-di-dong-20260117113216618.htm",
+      "summary": "Huệ là nhân viên quản lý cửa hàng điện thoại di động đã cung cấp chìa khoá cửa, chìa khoá két sắt cho Phi để đột nhập, mở két sắt lấy trộm 50 điện thoại di động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.325806+07:00",
+      "fetched": "2026-01-17T13:18:45.325925+07:00"
+    },
+    {
+      "id": "35f1f615e3f81e60a0bc0f5317f5a511",
+      "title": "Đại hội Đảng XIV: Lan tỏa giá trị văn hóa Việt Nam",
+      "link": "https://tuoitre.vn/dai-hoi-dang-xiv-lan-toa-gia-tri-van-hoa-viet-nam-20260117110853643.htm",
+      "summary": "Chị Lê Y Linh - con gái của cố nhạc sĩ Hoàng Vân - chia sẻ quan điểm về vai trò, vị thế của văn hóa trong đời sống người Việt sống ở nước ngoài trước thêm Đại hội đại biểu toàn quốc lần thứ XIV của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.325665+07:00",
+      "fetched": "2026-01-17T13:18:45.325794+07:00"
+    },
+    {
+      "id": "253a605b9cf6a56f6009383e5d3199a5",
+      "title": "Nạn phá rừng, buôn ma túy đang ‘bức tử’ bộ lạc chưa từng tiếp xúc thế giới?",
+      "link": "https://tuoitre.vn/nan-pha-rung-buon-ma-tuy-dang-buc-tu-bo-lac-chua-tung-tiep-xuc-the-gioi-20260117112310584.htm",
+      "summary": "Đoạn video được công bố gần đây của một nhà bảo tồn người Mỹ cho thấy cuộc gặp gỡ của ông với bộ lạc vùng Amazon chưa từng tiếp xúc với thế giới hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.325544+07:00",
+      "fetched": "2026-01-17T13:18:45.325654+07:00"
+    },
+    {
+      "id": "36c67ed8fd21d28fd38fea0a59effeda",
+      "title": "Xe khách chở 18 người bị lật làm 3 người chết: Nghi xe bị kẹt phanh",
+      "link": "https://tuoitre.vn/xe-khach-cho-18-nguoi-bi-lat-lam-3-nguoi-chet-nghi-xe-bi-ket-phanh-20260117115621914.htm",
+      "summary": "Sơ bộ nhận định xe khách bị kẹt phanh, chạy lệch sang bên trái. Tài xế đánh lái sang phải khiến xe đâm vào biển báo và hệ thống hộ lan tôn sóng tại khu vực đầu cầu. Chiếc xe sau đó lật ngang ven đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.325423+07:00",
+      "fetched": "2026-01-17T13:18:45.325533+07:00"
+    },
+    {
+      "id": "18b6a08500edf4a976aa97fa58716d59",
+      "title": "Hóa thân quá đỉnh điện ảnh của cảnh sát Thái Lan",
+      "link": "https://tuoitre.vn/hoa-than-qua-dinh-dien-anh-cua-canh-sat-thai-lan-20260117111100845.htm",
+      "summary": "Dù tương tác hóm hỉnh, cảnh sát khẳng định ưu tiên hàng đầu vẫn là đảm bảo an ninh trật tự và bình yên cho dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.325303+07:00",
+      "fetched": "2026-01-17T13:18:45.325413+07:00"
+    },
+    {
+      "id": "dddda65cc0f2cf8c4c68a93ecc8de37f",
+      "title": "Tạm giữ hình sự thanh niên làm pháo vì 'đam mê', bán kiếm lời dịp Tết",
+      "link": "https://tuoitre.vn/tam-giu-hinh-su-thanh-nien-lam-phao-vi-dam-me-ban-kiem-loi-dip-tet-20260117120050765.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an tỉnh Đắk Lắk đã tạm giữ hình sự một thanh niên làm pháo nổ tự chế, cất giấu tại nhà rẫy và nơi ở, nhằm bán kiếm lời trong dịp Tết Nguyên đán sắp tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.325180+07:00",
+      "fetched": "2026-01-17T13:18:45.325292+07:00"
+    },
+    {
+      "id": "0c1cba6227a670999dfd4686c3472bde",
+      "title": "Tư vấn tuyển sinh hướng nghiệp ở Huế: Muốn không thất nghiệp, cần giỏi tiếng mẹ đẻ",
+      "link": "https://tuoitre.vn/tu-van-tuyen-sinh-huong-nghiep-o-hue-muon-khong-that-nghiep-can-gioi-tieng-me-de-20260117120941042.htm",
+      "summary": "Theo chuyên gia tuyển sinh, muốn tương lai không rơi vào cảnh thất nghiệp, người trẻ cần làm chủ bốn loại “ngôn ngữ”: ngôn ngữ chuyên ngành, ít nhất một ngoại ngữ, ngôn ngữ AI và đặc biệt là tiếng mẹ đẻ - tiếng Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.325054+07:00",
+      "fetched": "2026-01-17T13:18:45.325168+07:00"
+    },
+    {
+      "id": "ca3101a475c8e99d810b690784f75e01",
+      "title": "AI cho tỉ phú Elon Musk hẹn hò nữ diễn viên Sydney Sweeney",
+      "link": "https://tuoitre.vn/ai-cho-ti-phu-elon-musk-hen-ho-nu-dien-vien-sydney-sweeney-20260117110856108.htm",
+      "summary": "Các hình ảnh lan truyền cho thấy tỉ phú Elon Musk và nữ diễn viên Sydney Sweeney đang hẹn hò là sản phẩm AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.324916+07:00",
+      "fetched": "2026-01-17T13:18:45.325042+07:00"
+    },
+    {
+      "id": "70e03a8d19b9e6f5c9185b1c67dfb415",
+      "title": "Về Nha Trang, thấy thương từ món ăn đến con người",
+      "link": "https://tuoitre.vn/ve-nha-trang-thay-thuong-tu-mon-an-den-con-nguoi-20260104224857875.htm",
+      "summary": "Mỗi lần trở về Nha Trang, tôi đều có cảm giác rất quen, mà cũng rất mới. Quen vì đây là nơi tôi lớn lên. Mới vì mỗi lần về, thành phố lại cho tôi thêm những lý do để yêu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.324781+07:00",
+      "fetched": "2026-01-17T13:18:45.324904+07:00"
+    },
+    {
+      "id": "958dac7455acb6e789a907261308ac38",
+      "title": "Honda Accord bị khai tử ở Việt Nam, Toyota Camry sắp 'một mình một chợ'?",
+      "link": "https://tuoitre.vn/honda-accord-bi-khai-tu-o-viet-nam-toyota-camry-sap-mot-minh-mot-cho-20260117093220334.htm",
+      "summary": "Sau thời gian dài doanh số thấp, Honda Accord đã âm thầm rút khỏi danh mục sản phẩm tại Việt Nam. Sự vắng mặt của mẫu sedan này mở ra cơ hội để Toyota Camry gần như độc chiếm phân khúc hạng D.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.324626+07:00",
+      "fetched": "2026-01-17T13:18:45.324766+07:00"
+    },
+    {
+      "id": "5ba8123232884072c9b489df79e2ddd8",
+      "title": "Luật Xây dựng 2025: Cải cách mạnh thủ tục, ưu tiên giải quyết tranh chấp tại Việt Nam",
+      "link": "https://tuoitre.vn/luat-xay-dung-2025-cai-cach-manh-thu-tuc-uu-tien-giai-quyet-tranh-chap-tai-viet-nam-20260117115402809.htm",
+      "summary": "Luật Xây dựng năm 2025 được đánh giá là bước ngoặt trong cải cách thể chế lĩnh vực xây dựng, với trọng tâm tinh giản thủ tục hành chính, trao quyền nhiều hơn cho chủ đầu tư và tiệm cận thông lệ quốc tế trong quản trị hợp đồng, giải quyết tranh chấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T13:18:45.324407+07:00",
+      "fetched": "2026-01-17T13:18:45.324611+07:00"
+    },
     {
       "id": "bcec0492d705e888efb771482a92d1c4",
       "title": "Kinh tế Việt Nam trước ngưỡng phát triển quyết định",
@@ -363,6 +513,146 @@ window.newsData_2026_01_17 = {
       "fetched": "2026-01-17T07:59:09.914895+07:00"
     },
     {
+      "id": "875e9d72c1861cb98d4710cc386f5482",
+      "title": "Trường ĐH Hàng hải Việt Nam - Trường ĐH VH-TT-DL Thanh Hóa: Khó cho nhà vô địch",
+      "link": "https://thanhnien.vn/truong-dh-hang-hai-viet-nam-truong-dh-vh-tt-dl-thanh-hoa-kho-cho-nha-vo-dich-185260117115806615.htm",
+      "summary": "Trường ĐH VH-TT-DL Thanh Hóa đã thắng đậm 5-1 trước Trường ĐH Phương Đông ở trận ra quân, nhưng thử thách ở lượt trận thứ hai nhóm C vòng loại phía bắc mang tên Trường ĐH Hàng hải Việt Nam sẽ rất khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T06:07:00+07:00",
+      "fetched": "2026-01-17T13:18:44.357488+07:00"
+    },
+    {
+      "id": "23443b40e87dd5d03a865d802a3cfe23",
+      "title": "Khi giảng đường trở thành nhà hàng: Sinh viên F&B bước vào “cuộc thử nghề” thật",
+      "link": "https://thanhnien.vn/khi-giang-duong-tro-thanh-nha-hang-sinh-vien-fb-buoc-vao-cuoc-thu-nghe-that-185260117123049988.htm",
+      "summary": "Có những buổi học không diễn ra trong lớp.Ở đó, sinh viên khoác lên mình đồng phục phục vụ, bếp nóng đỏ lửa, bàn tiệc sáng đèn, thực khách gọi món, từng khâu vận hành diễn ra nhịp nhàng như trong một nhà hàng đang hoạt động thật sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T06:01:00+07:00",
+      "fetched": "2026-01-17T13:18:44.357664+07:00"
+    },
+    {
+      "id": "0359723752a15638d4b4a81de00b8bc6",
+      "title": "Whale Logistics đặt mua 1.000 xe tải điện hoán đổi pin",
+      "link": "https://vnexpress.net/whale-logistics-dat-mua-1-000-xe-tai-dien-hoan-doi-pin-5003645.html",
+      "summary": "Doanh nghiệp logistics Thái Lan Whale Logistics đặt mua 1.000 xe đầu kéo điện hoán đổi pin từ U Power, dự kiến triển khai thương mại tại Thái Lan từ năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T06:00:00+07:00",
+      "fetched": "2026-01-17T13:18:41.600823+07:00"
+    },
+    {
+      "id": "a7a052d8ac2b66e7fa62066d412ab7bd",
+      "title": "Trường ĐH Đà Lạt - Trường ĐH Công nghiệp TP.HCM: Khó có bất ngờ?",
+      "link": "https://thanhnien.vn/truong-dh-da-lat-truong-dh-cong-nghiep-tphcm-kho-co-bat-ngo-185260117112804233.htm",
+      "summary": "Sau những gì đã thể hiện ở lượt đầu tiên, đội Trường ĐH Công nghiệp TP.HCM đang được đánh giá cao hơn. Họ nhiều khả năng giành chiến thắng khi đối đầu đội Trường ĐH Đà Lạt ở lượt trận thứ 2 nhóm 8 (lúc 14 giờ ngày 17.1 trên sân Tao Đàn), bảng C giải bóng đá Thanh Niên sinh viên Việt Nam lần IV năm 2...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T06:00:00+07:00",
+      "fetched": "2026-01-17T13:18:44.357840+07:00"
+    },
+    {
+      "id": "ffd8fb2a542d12e5911aa28a45d9b702",
+      "title": "Jennifer Lawrence mất vai diễn vào tay Margot Robbie vì 'không đủ xinh đẹp'?",
+      "link": "https://thanhnien.vn/jennifer-lawrence-mat-vai-dien-vao-tay-margot-robbie-vi-khong-du-xinh-dep-185260117122916796.htm",
+      "summary": "Trong cuộc trò chuyện mới đây, Jennifer Lawrence thẳng thắn chia sẻ rằng mình đã để tuột mất vai diễn lớn ở Hollywood sau những bình luận cho rằng cô 'không đủ xinh đẹp'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:56:00+07:00",
+      "fetched": "2026-01-17T13:18:44.357995+07:00"
+    },
+    {
+      "id": "bee1d8453962a4d133d8e72043d0193b",
+      "title": "Kho vũ khí quy mô lớn ở 4 tỉnh, thành bị triệt phá",
+      "link": "https://vnexpress.net/kho-vu-khi-quy-mo-lon-o-4-tinh-thanh-bi-triet-pha-5006768.html",
+      "summary": "Đột kích 18 địa điểm tại TP HCM, Đồng Nai, Tây Ninh và Lâm Đồng, công an thu giữ 21 khẩu súng, hơn 4.200 viên đạn, 112 hộp tiếp đạn... trong đường dây mua bán, tàng trữ trái phép vũ khí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:48:25+07:00",
+      "fetched": "2026-01-17T13:18:41.601000+07:00"
+    },
+    {
+      "id": "7fb93dd88d5e90faacfb8cf08e2dcc7f",
+      "title": "Con gái Cristiano Ronaldo hát 'My Heart Will Go On'",
+      "link": "https://vnexpress.net/con-gai-cristiano-ronaldo-hat-my-heart-will-go-on-5006759.html",
+      "summary": "Con gái của Cristiano Ronaldo - Alana, chín tuổi - nhận nhiều lời khen khi cover ca khúc \"My Heart Will Go On\" của danh ca Celine Dion.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:28:32+07:00",
+      "fetched": "2026-01-17T13:18:41.601166+07:00"
+    },
+    {
+      "id": "684d6b6b14f65d8146a7c3f2d5fbc588",
+      "title": "Tìm bạn gái tử tế, biết tôn trọng đối phương",
+      "link": "https://vnexpress.net/tim-ban-gai-tu-te-biet-ton-trong-doi-phuong-5005421.html",
+      "summary": "Em cao từ 1m50 trở lên nhé, độ tuổi từ 26-31, đang sinh sống tại Sài Gòn, có công việc ổn định và sẵn sàng cho việc lập gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:22:23+07:00",
+      "fetched": "2026-01-17T13:18:41.601267+07:00"
+    },
+    {
+      "id": "28e55f48d35f059faee87a100040d83e",
+      "title": "Sai lầm chê ứng viên xin việc rụt rè, nhút nhát",
+      "link": "https://vnexpress.net/sai-lam-che-ung-vien-xin-viec-rut-re-nhut-nhat-5006732.html",
+      "summary": "Con người sợ những gì mình không hiểu rõ. Ứng viên xin việc cũng vậy, việc thiếu tự tin khi đi phỏng vấn là chuyện bình thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:21:51+07:00",
+      "fetched": "2026-01-17T13:18:41.601421+07:00"
+    },
+    {
+      "id": "2bbd0a2240d0da82a99428dc9f12b185",
+      "title": "Vietnam ESG Awards vinh danh Tập đoàn Y tế Phương Châu:  Mô hình quản trị bền vững",
+      "link": "https://thanhnien.vn/vietnam-esg-awards-vinh-danh-tap-doan-y-te-phuong-chau-mo-hinh-quan-tri-ben-vung-185260117115722233.htm",
+      "summary": "Tập đoàn Y tế Phương Châu vừa được vinh danh tại Vietnam ESG Awards 2025, ghi nhận những nỗ lực trong xây dựng hệ thống quản trị doanh nghiệp hướng tới phát triển bền vững, đồng thời tiếp tục triển khai các hoạt động ESG (Môi trường - Xã hội - Quản trị) gắn với vận hành bệnh viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:21:00+07:00",
+      "fetched": "2026-01-17T13:18:44.358148+07:00"
+    },
+    {
+      "id": "6444dde76f689bd5cfbac9dccf565e86",
+      "title": "Vụ cầm hung khí chém người náo loạn bờ sông Hương: Truy bắt nghi phạm trong đêm",
+      "link": "https://thanhnien.vn/vu-cam-hung-khi-chem-nguoi-nao-loan-bo-song-huong-truy-bat-nghi-pham-trong-dem-18526011708494356.htm",
+      "summary": "Ngay sau khi tiếp nhận thông tin về một nghi phạm cầm hung khí, chém người gây náo loạn bờ sông Hương (TP.Huế), Công an P.Thuận Hóa đã khẩn trương xác minh, truy bắt nghi phạm ngay trong đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:20:00+07:00",
+      "fetched": "2026-01-17T13:18:44.358297+07:00"
+    },
+    {
+      "id": "b01a43fd2d86101dab9fb0ab0fe52bb7",
+      "title": "Cầu thủ U.23 Việt Nam sẽ giúp CLB của mình mạnh lên?",
+      "link": "https://thanhnien.vn/cau-thu-u23-viet-nam-se-giup-clb-cua-minh-manh-len-185260116220353631.htm",
+      "summary": "Sự thăng hoa của đội U.23 VN tại VCK châu Á 2026 không chỉ mang ý nghĩa về mặt thành tích chung cho cả nền bóng đá VN mà còn giúp nhiều CLB tại V-League mạnh hơn, nhất là CLB Công an Hà Nội và Ninh Bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:19:00+07:00",
+      "fetched": "2026-01-17T13:18:44.358454+07:00"
+    },
+    {
+      "id": "1ebba77433c9a141a6b1d14cf2538888",
+      "title": "Ủy ban Nobel lên tiếng sau khi ông Trump được tặng huy chương",
+      "link": "https://vnexpress.net/uy-ban-nobel-len-tieng-sau-khi-ong-trump-duoc-tang-huy-chuong-5006757.html",
+      "summary": "Ủy ban Nobel cho biết huy chương và bằng chứng nhận có thể được trao tặng hoặc chuyển nhượng, nhưng giải thưởng vĩnh viễn gắn liền với người đoạt giải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:15:29+07:00",
+      "fetched": "2026-01-17T13:18:41.601575+07:00"
+    },
+    {
+      "id": "1ebba77433c9a141a6b1d14cf2538888",
+      "title": "Ủy ban Nobel lên tiếng sau khi ông Trump được tặng huy chương",
+      "link": "https://vnexpress.net/uy-ban-nobel-len-tieng-sau-khi-ong-trump-duoc-tang-huy-chuong-5006757.html",
+      "summary": "Ủy ban Nobel cho biết huy chương và bằng chứng nhận có thể được trao tặng hoặc chuyển nhượng, nhưng giải thưởng vĩnh viễn gắn liền với người đoạt giải.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-17T05:15:29+07:00",
+      "fetched": "2026-01-17T13:18:46.478220+07:00"
+    },
+    {
       "id": "264707fe13815bb67baefbe0dbc958f8",
       "title": "HLV Kim Sang Sik tiết lộ chỉ đạo giúp U23 Việt Nam giành chiến thắng",
       "link": "https://tuoitre.vn/hlv-kim-sang-sik-tiet-lo-chi-dao-giup-u23-viet-nam-gianh-chien-thang-20260117001832591.htm",
@@ -441,6 +731,206 @@ window.newsData_2026_01_17 = {
       "category": "Tổng hợp",
       "published": "2026-01-17T05:13:00.311320+07:00",
       "fetched": "2026-01-17T05:13:00.311544+07:00"
+    },
+    {
+      "id": "c0f053280476e8ceef6ba606e52d765b",
+      "title": "HLV Kim Sang-sik quá giỏi, U.23 Việt Nam sẽ còn hay hơn nữa ở bán kết châu Á",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-qua-gioi-u23-viet-nam-se-con-hay-hon-nua-o-ban-ket-chau-a-185260117114520201.htm",
+      "summary": "Tài năng của HLV Kim Sang-sik lại trở thành kim chỉ nam để đưa U.23 Việt Nam vượt khó tại trận tứ kết U.23 châu Á 2026 với đối thủ 'kỵ rơ' U.23 UAE.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:09:00+07:00",
+      "fetched": "2026-01-17T13:18:44.358600+07:00"
+    },
+    {
+      "id": "69495265c110f207c5352ed2e5a550b7",
+      "title": "Hành trình tìm con ở tuổi xế chiều của những quý cô thành đạt",
+      "link": "https://vnexpress.net/hanh-trinh-tim-con-o-tuoi-xe-chieu-cua-nhung-quy-co-thanh-dat-5006483.html",
+      "summary": "Món quà sinh nhật tuổi 39 của Laura Terry không phải là trang sức đắt tiền hay một chuyến du lịch xa xỉ, mà là một ống tinh trùng hiến tặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:00:00+07:00",
+      "fetched": "2026-01-17T13:18:41.601737+07:00"
+    },
+    {
+      "id": "374e555cdae65ae61801a0a043430969",
+      "title": "Bị người mới từ chối, anh quay lại năn nỉ tôi",
+      "link": "https://vnexpress.net/bi-nguoi-moi-tu-choi-anh-quay-lai-nan-ni-toi-5005878.html",
+      "summary": "Anh khẳng định người mình yêu thật sự vẫn là tôi, xin tôi cho cơ hội sửa sai và bù đắp những tổn thương đã gây ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:00:00+07:00",
+      "fetched": "2026-01-17T13:18:41.601961+07:00"
+    },
+    {
+      "id": "6b46763c5fd2895f9f7e351ae9db3d69",
+      "title": "7 tính năng mới có thể xuất hiện trên Siri",
+      "link": "https://vnexpress.net/7-tinh-nang-moi-co-the-xuat-hien-tren-siri-5005771.html",
+      "summary": "Trợ lý ảo Siri của Apple được cho là sẽ có thêm nhiều tính năng mới nhờ sử dụng mô hình Gemini, như kể chuyện sáng tạo, tự động hóa ghi chú, gợi ý chủ động...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:00:00+07:00",
+      "fetched": "2026-01-17T13:18:41.602124+07:00"
+    },
+    {
+      "id": "552afcb2c9dc1ef9532985cb4c29cb15",
+      "title": "Bác sĩ Trung Quốc hướng dẫn 2 thói quen cải thiện chức năng thận sau 3 tháng",
+      "link": "https://vnexpress.net/bac-si-trung-quoc-huong-dan-2-thoi-quen-cai-thien-chuc-nang-than-sau-3-thang-5005763.html",
+      "summary": "Bác sĩ Hung Yung-hsiang hướng dẫn bệnh nhân suy thận mạn cải thiện sức khỏe bằng cách uống nước theo trọng lượng cơ thể và tập thể dục vừa sức mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:00:00+07:00",
+      "fetched": "2026-01-17T13:18:41.602281+07:00"
+    },
+    {
+      "id": "b6e3e8d4ffa483dd851e814675effb2b",
+      "title": "Da chảy xệ nên nâng cơ mặt hay căng chỉ?",
+      "link": "https://vnexpress.net/da-chay-xe-nen-nang-co-mat-hay-cang-chi-5006753.html",
+      "summary": "Tôi 42 tuổi, da lão hóa, chảy xệ rõ vùng má nhưng sợ can thiệp sâu. Tình trạng này căng chỉ có hiệu quả không hay cần nâng cơ mặt? (Minh Thư, Bắc Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:00:00+07:00",
+      "fetched": "2026-01-17T13:18:41.602440+07:00"
+    },
+    {
+      "id": "6f9ed072936e58251ccd590632d829b3",
+      "title": "5 món chống viêm giúp ngủ ngon nên ăn mỗi tuần",
+      "link": "https://vnexpress.net/5-mon-chong-viem-giup-ngu-ngon-nen-an-moi-tuan-5006551.html",
+      "summary": "Một số loại quả mọng, rau củ, cá béo giúp giảm tình trạng viêm gây khó chịu và đau nhức, tránh gián đoạn giấc ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:00:00+07:00",
+      "fetched": "2026-01-17T13:18:41.602589+07:00"
+    },
+    {
+      "id": "29c1db25545fbeb44d91b5b07a352057",
+      "title": "Váy trắng phối giày bốt, sự giao thoa ngọt ngào đầy sức hút",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-trang-phoi-giay-bot-su-giao-thoa-ngot-ngao-day-suc-hut-185260116113847749.htm",
+      "summary": "Váy trắng và giày bốt từng được xem là hai item thuộc về những phong cách thời trang đối lập nhau. Một bên gắn liền với sự mềm mại, bên còn lại đại diện cho sự cá tính. Thế nhưng, khi đặt cạnh nhau, chúng không tạo nên sự khó chịu mà lại mang đến sự giao thoa đầy cuốn hút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T05:00:00+07:00",
+      "fetched": "2026-01-17T13:18:44.358770+07:00"
+    },
+    {
+      "id": "6b46763c5fd2895f9f7e351ae9db3d69",
+      "title": "7 tính năng mới có thể xuất hiện trên Siri",
+      "link": "https://vnexpress.net/7-tinh-nang-moi-co-the-xuat-hien-tren-siri-5005771.html",
+      "summary": "Trợ lý ảo Siri của Apple được cho là sẽ có thêm nhiều tính năng mới nhờ sử dụng mô hình Gemini, như kể chuyện sáng tạo, tự động hóa ghi chú, gợi ý chủ động...",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-17T05:00:00+07:00",
+      "fetched": "2026-01-17T13:18:49.786223+07:00"
+    },
+    {
+      "id": "bcf60a967e7da4df49cb60fd33795b25",
+      "title": "Ô tô bị xé toạc sau khi đâm lan can đường, tài xế thoát chết",
+      "link": "https://thanhnien.vn/o-to-bi-xe-toac-sau-khi-dam-lan-can-duong-tai-xe-thoat-chet-185260117112515536.htm",
+      "summary": "Đang lưu thông trên đường Hồ Chí Minh đoạn qua xã Thạch Quảng (Thanh Hóa), ô tô 4 chỗ mất lái đâm vào đầu lan can bên đường khiến chiếc xe bị xé toạc phần trên, tài xế may mắn thoát chết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T04:50:00+07:00",
+      "fetched": "2026-01-17T13:18:44.358923+07:00"
+    },
+    {
+      "id": "6cd07c929c47c5d4801e1f6a3527de6e",
+      "title": "Đề xuất luật hóa Ngày Văn hóa Việt Nam thành ngày nghỉ lễ",
+      "link": "https://vnexpress.net/de-xuat-luat-hoa-ngay-van-hoa-viet-nam-thanh-ngay-nghi-le-5006749.html",
+      "summary": "Cục Việc làm đề xuất bổ sung Ngày Văn hóa Việt Nam 24/11 thành ngày nghỉ lễ khi sửa Bộ luật Lao động, người lao động sẽ được nghỉ hưởng nguyên lương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T04:49:13+07:00",
+      "fetched": "2026-01-17T13:18:41.602742+07:00"
+    },
+    {
+      "id": "bca5d41fac0e35ec79391791d61d7c61",
+      "title": "U.23 Việt Nam được thưởng bao nhiêu nếu vô địch hay á quân hoặc thứ ba châu Á, VFF nói gì?",
+      "link": "https://thanhnien.vn/u23-viet-nam-duoc-thuong-bao-nhieu-neu-vo-dich-hay-a-quan-hoac-thu-ba-chau-a-vff-noi-gi-185260117112945822.htm",
+      "summary": "U.23 Việt Nam đã lọt vào tốp 4 đội mạnh nhất tại VCK U.23 châu Á 2026. Đạt thành tích cao, đội có cơ hội nhận các khoản thưởng theo quy định của Nhà nước, cùng những phần thưởng động viên từ các nguồn xã hội hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T04:43:00+07:00",
+      "fetched": "2026-01-17T13:18:44.359069+07:00"
+    },
+    {
+      "id": "7973ba9793f9f886b4bc17afcfe3001b",
+      "title": "Tài xế sang đường ẩu khiến người đi xe máy bay lên nóc ôtô",
+      "link": "https://vnexpress.net/tai-xe-sang-duong-au-khien-nguoi-di-xe-may-bay-len-noc-oto-5006744.html",
+      "summary": "Ôtô cắt qua ngã tư trong khi xe máy chạy thẳng tới ở tốc độ cao dẫn đến va chạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T04:41:03+07:00",
+      "fetched": "2026-01-17T13:18:41.602922+07:00"
+    },
+    {
+      "id": "df4b23c8a3139d9adb83f017089d162e",
+      "title": "Báo Trung Quốc: 'Việt Nam luôn biết cách tung đòn kết liễu ở U23 châu Á'",
+      "link": "https://vnexpress.net/bao-trung-quoc-viet-nam-luon-biet-cach-tung-don-ket-lieu-o-u23-chau-a-5006736.html",
+      "summary": "Thể lực, tinh thần và khả năng định đoạt trận đấu là những điểm mạnh nổi bật của Việt Nam được liệt kê trên các tờ báo lớn của Trung Quốc, sau trận thắng UAE ở tứ kết U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T04:39:42+07:00",
+      "fetched": "2026-01-17T13:18:41.603071+07:00"
+    },
+    {
+      "id": "df4b23c8a3139d9adb83f017089d162e",
+      "title": "Báo Trung Quốc: 'Việt Nam luôn biết cách tung đòn kết liễu ở U23 châu Á'",
+      "link": "https://vnexpress.net/bao-trung-quoc-viet-nam-luon-biet-cach-tung-don-ket-lieu-o-u23-chau-a-5006736.html",
+      "summary": "Thể lực, tinh thần và khả năng định đoạt trận đấu là những điểm mạnh nổi bật của Việt Nam được liệt kê trên các tờ báo lớn của Trung Quốc, sau trận thắng UAE ở tứ kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-17T04:39:42+07:00",
+      "fetched": "2026-01-17T13:18:50.735303+07:00"
+    },
+    {
+      "id": "4f0c8bdd0ed9093574d9b8193ac21a2b",
+      "title": "Ukraine công bố ảnh vệ tinh nhà máy UAV Nga trúng đòn tập kích",
+      "link": "https://vnexpress.net/ukraine-cong-bo-anh-ve-tinh-nha-may-uav-nga-trung-don-tap-kich-5006730.html",
+      "summary": "Ukraine công bố ảnh vệ tinh cho thấy các phân xưởng UAV tại nhà máy Atlant Aero ở Nga bị hư hại trong đòn tập kích tầm xa của Kiev hồi đầu tuần.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-17T04:34:49+07:00",
+      "fetched": "2026-01-17T13:18:46.478390+07:00"
+    },
+    {
+      "id": "03d97a7c93be28318cf9d67c1ef2c46f",
+      "title": "Phú Quốc: Trang bị kỹ năng phòng chống bắt cóc online cho học sinh",
+      "link": "https://thanhnien.vn/phu-quoc-trang-bi-ky-nang-phong-chong-bat-coc-onlinecho-hoc-sinh-185260117111528429.htm",
+      "summary": "Hơn 1.500 học sinh và giáo viên Trường TH-THCS Nguyễn Trung Trực (đặc khu Phú Quốc, An Giang) được trang bị kỹ năng phòng chống bắt cóc online.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T04:31:00+07:00",
+      "fetched": "2026-01-17T13:18:44.359220+07:00"
+    },
+    {
+      "id": "1e744d81bba9650111bad1b9c5d6b51c",
+      "title": "Apple điều chỉnh giá thu mua iPhone, người dùng chịu thiệt",
+      "link": "https://thanhnien.vn/apple-dieu-chinh-gia-thu-mua-iphone-nguoi-dung-chiu-thiet-185260117111025318.htm",
+      "summary": "Apple vừa công bố điều chỉnh giá trị ước tính trong chương trình thu cũ đổi mới cho iPhone với mức giảm lên đến 20 USD so với trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T04:29:00+07:00",
+      "fetched": "2026-01-17T13:18:44.359364+07:00"
+    },
+    {
+      "id": "71b0d33d7c1ad6eab6eec03a073e7cd5",
+      "title": "Cục CSGT khuyến cáo đảm bảo an toàn khi lái xe trong sương mù, đường trơn",
+      "link": "https://thanhnien.vn/cuc-csgt-khuyen-cao-dam-bao-an-toan-khi-lai-xe-trong-suong-mu-duong-tron-185260117110849692.htm",
+      "summary": "Khi di chuyển trên đường miền núi cong cua, trơn trượt, sương mù hạn chế tầm nhìn, tài xế cần chú ý quan sát, giảm tốc độ, giữ khoảng cách và đi số thấp, không rà phanh liên tục để đảm bảo an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T04:26:00+07:00",
+      "fetched": "2026-01-17T13:18:44.359508+07:00"
+    },
+    {
+      "id": "3671ebd77489856d23f06520c312a48e",
+      "title": "Lý do nên tận dụng vỏ hành tây thay vì vứt bỏ",
+      "link": "https://thanhnien.vn/ly-do-nen-tan-dung-vo-hanh-tay-thay-vi-vut-bo-18526011711255477.htm",
+      "summary": "Nhiều người có thói quen vứt vỏ hành tây khi chế biến món ăn, nhưng việc này có thể làm bạn bỏ lỡ hàng loạt lợi ích sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T04:25:00+07:00",
+      "fetched": "2026-01-17T13:18:44.359656+07:00"
     },
     {
       "id": "11a3dd1e698ed75b2936d8d044146d71",
