@@ -1,6 +1,6 @@
 window.newsData_2026_01_18 = {
   "date": "2026-01-18",
-  "lastUpdated": "2026-01-18T03:13:11.408141+07:00",
+  "lastUpdated": "2026-01-18T05:11:56.616877+07:00",
   "articles": [
     {
       "id": "bdc0ec3283ca81da3ff0966cddb8f322",
@@ -191,6 +191,216 @@ window.newsData_2026_01_18 = {
       "category": "Tổng hợp",
       "published": "2026-01-18T01:17:15.057014+07:00",
       "fetched": "2026-01-18T01:17:15.057236+07:00"
+    },
+    {
+      "id": "f10959d688b209e8f11ee8c3089321f4",
+      "title": "Mazda có thể sắp dừng sản xuất CX-3",
+      "link": "https://vnexpress.net/mazda-co-the-sap-dung-san-xuat-cx-3-5006784.html",
+      "summary": "Hãng xe Nhật Bản được cho là sẽ dừng sản xuất mẫu CX-3 trong tháng 3 và Mazda2 vào tháng 6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T22:00:00+07:00",
+      "fetched": "2026-01-18T05:11:45.566465+07:00"
+    },
+    {
+      "id": "6c26567c64edb91eecda263cdef4d936",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 18.1.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1812026-185260117225907088.htm",
+      "summary": "Tin tức Một nhiệm kỳ \"nói cho dân hiểu, làm cho dân tin\"; Căng thẳng vé máy bay tết; U.23 Việt Nam quyết thắng U.23 Trung Quốc để vào chung kết... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 18.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T22:00:00+07:00",
+      "fetched": "2026-01-18T05:11:48.464553+07:00"
+    },
+    {
+      "id": "c596768973f123dae466bcfa1bbd1496",
+      "title": "Hôm nay khu vực Duyên hải miền Trung khởi tranh",
+      "link": "https://thanhnien.vn/hom-nay-khu-vuc-duyen-hai-mien-trung-khoi-tranh-185260117225816948.htm",
+      "summary": "Sân vận động Quân khu 5 (TP.Đà Nẵng) tiếp tục là nơi diễn ra các trận đấu tại khu vực Duyên hải miền Trung TNSV THACO cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T22:00:00+07:00",
+      "fetched": "2026-01-18T05:11:48.464721+07:00"
+    },
+    {
+      "id": "8ea00e8a53d82a08b53ea0dbceea2321",
+      "title": "Ukraine kỳ vọng ký thỏa thuận với Mỹ tại Davos",
+      "link": "https://thanhnien.vn/ukraine-ky-vong-ky-thoa-thuan-voi-my-tai-davos-185260117212932015.htm",
+      "summary": "Tại cuộc họp báo ở Kyiv ngày 16.1, Tổng thống Ukraine Volodymyr Zelensky xác nhận phái đoàn nước này gặp các nhà đàm phán Mỹ ở Miami (bang Florida, Mỹ) ngày 17.1 (theo giờ địa phương).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T22:00:00+07:00",
+      "fetched": "2026-01-18T05:11:48.464903+07:00"
+    },
+    {
+      "id": "f34011a79d8bcc7746c25974cc2c9870",
+      "title": "Không khí trước tết tại làng đào Hà Nội, khách ưa chọn đào huyền, tán tròn",
+      "link": "https://thanhnien.vn/khong-khi-truoc-tet-tai-lang-dao-ha-noi-khach-ua-chon-dao-huyen-tan-tron-185260117150817692.htm",
+      "summary": "Những cành đào không chỉ mang lại sắc xuân cho mỗi gia đình, mà còn là nguồn thu nhập quan trọng của người trồng đào trong dịp cuối năm. Từ đây đến tết Nguyên đán, thị trường đào được dự báo sẽ tiếp tục sôi động hơn nữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T22:00:00+07:00",
+      "fetched": "2026-01-18T05:11:48.465057+07:00"
+    },
+    {
+      "id": "1a3e5bc57699ffb6cd4a4c7103cb2330",
+      "title": "Những phận đời mưu sinh bằng rau đọt choại giữa rừng sậy",
+      "link": "https://thanhnien.vn/nhung-phan-doi-muu-sinh-bang-rau-dot-choai-giua-rung-say-185260117134645523.htm",
+      "summary": "Giữa dòng xe hối hả trên đường Trần Văn Giàu – cửa ngõ phía Tây của TP.HCM, có những mâm rau nhỏ bé lặng lẽ nép mình bên lề đường. Đó là rau đọt choại, thứ rau dại mọc từ đất phèn, và cũng là kế sinh nhai của nhiều phận người lao động nghèo nơi đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T22:00:00+07:00",
+      "fetched": "2026-01-18T05:11:48.465206+07:00"
+    },
+    {
+      "id": "70dc3360d3ef2ec5e553e8a3a8e17a65",
+      "title": "Keane cảnh báo không nên thổi phồng Man Utd",
+      "link": "https://vnexpress.net/keane-canh-bao-khong-nen-thoi-phong-man-utd-5006918.html",
+      "summary": "Cựu đội trưởng Roy Keane kêu gọi người hâm mộ và truyền thông tỉnh táo, tránh vội vàng thổi phồng Man Utd sau trận thắng Man City 2-0 ở vòng 22 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T21:09:03+07:00",
+      "fetched": "2026-01-18T05:11:45.566647+07:00"
+    },
+    {
+      "id": "70dc3360d3ef2ec5e553e8a3a8e17a65",
+      "title": "Keane cảnh báo không nên thổi phồng Man Utd",
+      "link": "https://vnexpress.net/keane-canh-bao-khong-nen-thoi-phong-man-utd-5006918.html",
+      "summary": "Cựu đội trưởng Roy Keane kêu gọi người hâm mộ và truyền thông tỉnh táo, tránh vội vàng thổi phồng Man Utd sau trận thắng Man City 2-0 ở vòng 22 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-17T21:09:03+07:00",
+      "fetched": "2026-01-18T05:11:56.611837+07:00"
+    },
+    {
+      "id": "5abc39e0f40bac3e007a9234704cf5e3",
+      "title": "Carrick: 'Thắng Man City phải là điều bình thường với Man Utd'",
+      "link": "https://vnexpress.net/carrick-thang-man-city-phai-la-dieu-binh-thuong-voi-man-utd-5006915.html",
+      "summary": "HLV tạm quyền Michael Carrick kêu gọi cầu thủ Man Utd duy trì chuẩn mực thi đấu như khi hạ Man City 2-0, thay vì coi màn trình diễn thăng hoa ở derby Manchester chỉ là khoảnh khắc bùng nổ nhất thời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T21:07:06+07:00",
+      "fetched": "2026-01-18T05:11:45.566830+07:00"
+    },
+    {
+      "id": "5abc39e0f40bac3e007a9234704cf5e3",
+      "title": "Carrick: 'Thắng Man City phải là điều bình thường với Man Utd'",
+      "link": "https://vnexpress.net/carrick-thang-man-city-phai-la-dieu-binh-thuong-voi-man-utd-5006915.html",
+      "summary": "HLV tạm quyền Michael Carrick kêu gọi cầu thủ Man Utd duy trì chuẩn mực thi đấu như khi hạ Man City 2-0, thay vì coi màn trình diễn thăng hoa ở derby Manchester chỉ là khoảnh khắc bùng nổ nhất thời.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-17T21:07:06+07:00",
+      "fetched": "2026-01-18T05:11:56.612001+07:00"
+    },
+    {
+      "id": "4e777ba19594315f2c8fd883f4d7cab3",
+      "title": "Tiền vệ Man City ám chỉ trọng tài thiên vị Man Utd",
+      "link": "https://vnexpress.net/tien-ve-man-city-am-chi-trong-tai-thien-vi-man-utd-5006910.html",
+      "summary": "Tiền vệ Bernardo Silva cho rằng Man City nhiều lần chịu bất lợi từ các quyết định trọng tài trong trận thua 0-2 trên sân Man Utd ở vòng 22 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T21:03:53+07:00",
+      "fetched": "2026-01-18T05:11:45.567005+07:00"
+    },
+    {
+      "id": "4e777ba19594315f2c8fd883f4d7cab3",
+      "title": "Tiền vệ Man City ám chỉ trọng tài thiên vị Man Utd",
+      "link": "https://vnexpress.net/tien-ve-man-city-am-chi-trong-tai-thien-vi-man-utd-5006910.html",
+      "summary": "Tiền vệ Bernardo Silva cho rằng Man City nhiều lần chịu bất lợi từ các quyết định trọng tài trong trận thua 0-2 trên sân Man Utd ở vòng 22 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-17T21:03:53+07:00",
+      "fetched": "2026-01-18T05:11:56.612159+07:00"
+    },
+    {
+      "id": "e80bcc1a2873699f09bff0333174002e",
+      "title": "Dàn xe máy điện của VinFast tại Việt Nam",
+      "link": "https://vnexpress.net/dan-xe-may-dien-cua-vinfast-tai-viet-nam-5006712.html",
+      "summary": "Hãng Việt có 12 mẫu xe máy điện bán trong 2026, gồm cả sạc và đổi pin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T21:00:00+07:00",
+      "fetched": "2026-01-18T05:11:45.567166+07:00"
+    },
+    {
+      "id": "920b7ec45f4574eb04c0c30e8ac9c458",
+      "title": "'Tháo nút thắt' để kinh tế nhà nước lớn mạnh",
+      "link": "https://thanhnien.vn/thao-nut-that-de-kinh-te-nha-nuoc-lon-manh-185260117221205113.htm",
+      "summary": "Kinh tế nhà nước giữ vai trò chủ đạo và tiên phong, dẫn dắt các thành phần kinh tế khác cùng phát triển là quan điểm chỉ đạo trong Nghị quyết 79 của Bộ Chính trị vừa ban hành ngay đầu năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T21:00:00+07:00",
+      "fetched": "2026-01-18T05:11:48.465355+07:00"
+    },
+    {
+      "id": "060bdd1a7fef7f817ddaf38cc0f0bf6b",
+      "title": "Căng thẳng vé máy bay tết",
+      "link": "https://thanhnien.vn/cang-thang-ve-may-bay-tet-185260117214938827.htm",
+      "summary": "Chỉ còn gần 1 tháng nữa là tới Tết Nguyên đán 2026 nhưng nhiều gia đình vẫn thấp thỏm chờ vé máy bay, chưa chốt được phương án về quê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T21:00:00+07:00",
+      "fetched": "2026-01-18T05:11:48.465507+07:00"
+    },
+    {
+      "id": "e247178e84cbd7f83ba37acb72f11298",
+      "title": "Sôi động thị trường linh vật ngựa cho Tết Bính Ngọ",
+      "link": "https://thanhnien.vn/soi-dong-thi-truong-linh-vat-ngua-cho-tet-binh-ngo-18526011721430181.htm",
+      "summary": "Bước vào năm Bính Ngọ 2026, thị trường linh vật tết chứng kiến sự trở lại mạnh mẽ của hình tượng con ngựa với hàng loạt biến tấu về tạo hình, chất liệu, kích thước và phân khúc giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T21:00:00+07:00",
+      "fetched": "2026-01-18T05:11:48.465658+07:00"
+    },
+    {
+      "id": "ee015c7913d10b89685d575f4dd3404e",
+      "title": "Quảng Ngãi: 'Kết nối biển - rừng' tiếp sức đồng bào biên giới Đăk Plô",
+      "link": "https://thanhnien.vn/quang-ngai-ket-noi-bien-rung-tiep-suc-dong-bao-bien-gioi-dak-plo-185260117200957671.htm",
+      "summary": "Chương trình 'Kết nối biển - rừng, biên cương vững mạnh' không chỉ mang những phần quà thiết thực đến đồng bào, học sinh vùng biên giới Đăk Plô mà còn thắt chặt tình đoàn kết quân - dân, lan tỏa nghĩa tình Quảng Ngãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T21:00:00+07:00",
+      "fetched": "2026-01-18T05:11:48.465828+07:00"
+    },
+    {
+      "id": "0ea3e1b21e8c5c6d77204132b6e8c8f4",
+      "title": "Bayern vượt mốc 100 bàn mùa này",
+      "link": "https://vnexpress.net/bayern-vuot-moc-100-ban-mua-nay-5006921.html",
+      "summary": "Thắng ngược 5-1 trên sân RB Leipzig ở vòng 18 Bundesliga, Bayern trở thành CLB đầu tiên trong năm giải VĐQG hàng đầu châu Âu cán mốc 100 bàn trên mọi đấu trường mùa này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T20:54:07+07:00",
+      "fetched": "2026-01-18T05:11:45.567319+07:00"
+    },
+    {
+      "id": "0ea3e1b21e8c5c6d77204132b6e8c8f4",
+      "title": "Bayern vượt mốc 100 bàn mùa này",
+      "link": "https://vnexpress.net/bayern-vuot-moc-100-ban-mua-nay-5006921.html",
+      "summary": "Thắng ngược 5-1 trên sân RB Leipzig ở vòng 18 Bundesliga, Bayern trở thành CLB đầu tiên trong năm giải VĐQG hàng đầu châu Âu cán mốc 100 bàn trên mọi đấu trường mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-17T20:54:07+07:00",
+      "fetched": "2026-01-18T05:11:56.612317+07:00"
+    },
+    {
+      "id": "8f0906c2e0648a11806f6af2de359cc6",
+      "title": "Arsenal hơn Man City 7 điểm",
+      "link": "https://vnexpress.net/arsenal-hon-man-city-7-diem-5006920.html",
+      "summary": "Arsenal bị chủ nhà Nottingham Forest cầm hòa 0-0 ở vòng 22 Ngoại hạng Anh, nhưng vẫn có thể nới rộng cách biệt với CLB nhì bảng Man City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T20:26:05+07:00",
+      "fetched": "2026-01-18T05:11:45.567480+07:00"
+    },
+    {
+      "id": "8f0906c2e0648a11806f6af2de359cc6",
+      "title": "Arsenal hơn Man City 7 điểm",
+      "link": "https://vnexpress.net/arsenal-hon-man-city-7-diem-5006920.html",
+      "summary": "Arsenal bị chủ nhà Nottingham Forest cầm hòa 0-0 ở vòng 22 Ngoại hạng Anh, nhưng vẫn có thể nới rộng cách biệt với CLB nhì bảng Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-17T20:26:05+07:00",
+      "fetched": "2026-01-18T05:11:56.612469+07:00"
     },
     {
       "id": "eb76f722c77d7afc9a380c690620f68c",
