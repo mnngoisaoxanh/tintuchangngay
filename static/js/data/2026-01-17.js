@@ -1,7 +1,157 @@
 window.newsData_2026_01_17 = {
   "date": "2026-01-17",
-  "lastUpdated": "2026-01-17T15:15:45.531708+07:00",
+  "lastUpdated": "2026-01-17T17:12:45.947808+07:00",
   "articles": [
+    {
+      "id": "55f083042360996979806462ac546081",
+      "title": "Đặc vụ ICE bị cấm bắt giữ, xịt hơi cay vào người biểu tình ôn hòa ở Minnesota",
+      "link": "https://tuoitre.vn/dac-vu-ice-bi-cam-bat-giu-xit-hoi-cay-vao-nguoi-bieu-tinh-on-hoa-o-minnesota-20260117144854196.htm",
+      "summary": "Thẩm phán liên bang ở Minnesota đã cấm các đặc vụ di trú Mỹ (ICE) bắt giữ, sử dụng hơi cay và chặn xe, trừ khi có cơ sở cho thấy người biểu tình đang cản trở việc thực thi pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.685514+07:00",
+      "fetched": "2026-01-17T17:12:37.685609+07:00"
+    },
+    {
+      "id": "4c8b91b7abc678df83d1265de69ef5e0",
+      "title": "U23 Trung Quốc đấu Uzbekistan (18h30): Chờ đối thủ của U23 Việt Nam",
+      "link": "https://tuoitre.vn/u23-trung-quoc-dau-uzbekistan-18h30-cho-doi-thu-cua-u23-viet-nam-20260117150041968.htm",
+      "summary": "Mời bạn đọc theo dõi trực tuyến trận U23 Trung Quốc gặp U23 Uzbekistan ở trận tứ kết thứ 3 Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.685409+07:00",
+      "fetched": "2026-01-17T17:12:37.685505+07:00"
+    },
+    {
+      "id": "3d2c8ba1984ccafbcfa296a16f1403c3",
+      "title": "Từ công viên, trường học đến chiến lược phát triển bền vững của Phát Đạt",
+      "link": "https://tuoitre.vn/tu-cong-vien-truong-hoc-den-chien-luoc-phat-trien-ben-vung-cua-phat-dat-20260117120500708.htm",
+      "summary": "Những ngày đầu năm 2026, bên cạnh các chuyển động kinh doanh nhộn nhịp, Công ty cổ phần Phát triển Bất động sản Phát Đạt (HOSE: PDR) cũng triển khai các công trình phục vụ cộng đồng với tốc độ cực cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.685303+07:00",
+      "fetched": "2026-01-17T17:12:37.685400+07:00"
+    },
+    {
+      "id": "b4f75377e78f8327002383a1a0bd59ef",
+      "title": "Dân vùng lũ Phú Yên đi chợ 0 đồng, xách hàng trĩu tay",
+      "link": "https://tuoitre.vn/dan-vung-lu-phu-yen-di-cho-0-dong-xach-hang-triu-tay-20260117114524715.htm",
+      "summary": "Những gian hàng “0 đồng” góp phần hỗ trợ người dân các xã vùng lũ Phú Yên cũ (nay thuộc Đắk Lắk) ổn định cuộc sống sau thiên tai, chuẩn bị đón Tết Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.685199+07:00",
+      "fetched": "2026-01-17T17:12:37.685294+07:00"
+    },
+    {
+      "id": "8a28a441adbfb94c422bb2842562ce83",
+      "title": "TP.HCM thu nhận mẫu ADN thân nhân liệt sĩ chưa xác định được danh tính từ ngày 19-1",
+      "link": "https://tuoitre.vn/tp-hcm-thu-nhan-mau-adn-than-nhan-liet-si-chua-xac-dinh-duoc-danh-tinh-tu-ngay-19-1-2026011713580685.htm",
+      "summary": "Công an TP.HCM phối hợp Cục Cảnh sát quản lý hành chính Bộ Công an và các đơn vị chức năng triển khai thu nhận mẫu ADN của thân nhân liệt sĩ chưa xác định được danh tính trên địa bàn TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.685093+07:00",
+      "fetched": "2026-01-17T17:12:37.685189+07:00"
+    },
+    {
+      "id": "e456d76cb55387a4eb2c3e7026d48ecd",
+      "title": "Petrovietnam đầu tư phòng STEM cho 3 trường học tại TP.HCM",
+      "link": "https://tuoitre.vn/petrovietnam-dau-tu-phong-stem-cho-3-truong-hoc-tai-tp-hcm-2026011714180668.htm",
+      "summary": "Ngày 17-1, Tập đoàn Công nghiệp - Năng lượng quốc gia Việt Nam (Petrovietnam) phối hợp khánh thành phòng thực hành giáo cục STEM tại Trường THPT Châu Thành (phường Bà Rịa, TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.684985+07:00",
+      "fetched": "2026-01-17T17:12:37.685083+07:00"
+    },
+    {
+      "id": "f10c820c9abf86be053f7dee1f140146",
+      "title": "'Chỉ điểm' cho du khách những nơi ngắm hoa đẹp mùa này tại Đà Lạt",
+      "link": "https://tuoitre.vn/chi-diem-cho-du-khach-nhung-noi-ngam-hoa-dep-mua-nay-tai-da-lat-20260117114141765.htm",
+      "summary": "Lễ hội hoa mai anh đào Đà Lạt chính thức diễn ra sau đêm khai mạc (16-1), các phường tại Đà Lạt cập nhật liên tục điểm chụp ảnh với mai anh đào cho du khách thông qua bản đồ số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.684877+07:00",
+      "fetched": "2026-01-17T17:12:37.684976+07:00"
+    },
+    {
+      "id": "312ca4270d8b4f13cd43526d10251dbe",
+      "title": "5 tháng phá chuyên án lừa đảo đặc biệt lớn hoạt động từ Campuchia",
+      "link": "https://tuoitre.vn/5-thang-pha-chuyen-an-lua-dao-dac-biet-lon-hoat-dong-tu-campuchia-20260117154528279.htm",
+      "summary": "Chủ tịch UBND tỉnh Tuyên Quang đã khen thưởng đột xuất lực lượng công an đã phá chuyên án đặc biệt lớn, bắt giữ 205 người trong các tổ chức lừa đảo ở Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.684762+07:00",
+      "fetched": "2026-01-17T17:12:37.684857+07:00"
+    },
+    {
+      "id": "394e3a4561a7bc79bef8c9d6c1a13249",
+      "title": "'Con kể ba nghe' và tình cha con trong phim Việt: Vô cùng tàn nhẫn, vô cùng yêu thương",
+      "link": "https://tuoitre.vn/con-ke-ba-nghe-va-tinh-cha-con-trong-phim-viet-vo-cung-tan-nhan-vo-cung-yeu-thuong-20260117101438569.htm",
+      "summary": "Nhân 'Con kể ba nghe', nhìn lại một số phim Việt, không ít phim khai thác yếu tố tình cha và con trai - mối quan hệ đặc biệt và là trụ cột trong nhiều gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.684656+07:00",
+      "fetched": "2026-01-17T17:12:37.684752+07:00"
+    },
+    {
+      "id": "e541457dd42d54efc8edb9aeb7018680",
+      "title": "Mỹ tính áp mô hình Hội đồng hòa bình Gaza cho Ukraine và Venezuela?",
+      "link": "https://tuoitre.vn/my-tinh-ap-mo-hinh-hoi-dong-hoa-binh-gaza-cho-ukraine-va-venezuela-20260117153142385.htm",
+      "summary": "Hội đồng hòa bình Ukraine được đồn đoán sẽ do ông Trump đứng đầu và có đại diện từ Nga, Ukraine, NATO và châu Âu để giám sát việc thực hiện ngừng bắn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.684549+07:00",
+      "fetched": "2026-01-17T17:12:37.684646+07:00"
+    },
+    {
+      "id": "3d3ae8355ae8924b48f66f88b710d312",
+      "title": "Xe lăn biết 'nghe lời' người dùng, tự tìm đường, tự tránh người đi bộ",
+      "link": "https://tuoitre.vn/xe-lan-biet-nghe-loi-nguoi-dung-tu-tim-duong-tu-tranh-nguoi-di-bo-20260117154247387.htm",
+      "summary": "Tại triển lãm công nghệ lớn nhất thế giới CES 2026, công ty khởi nghiệp Strutt từ Singapore trình làng sản phẩm xe lăn thông minh trang bị AI, biết 'nghe lời' người dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.684442+07:00",
+      "fetched": "2026-01-17T17:12:37.684539+07:00"
+    },
+    {
+      "id": "ed8be2ee27e24a6b0eef58c693ccf989",
+      "title": "Hàng hóa ùn ùn cửa khẩu dịp Tết: Tỉnh Lạng Sơn đưa ra lưu ý với doanh nghiệp",
+      "link": "https://tuoitre.vn/hang-hoa-un-un-cua-khau-dip-tet-tinh-lang-son-dua-ra-luu-y-voi-doanh-nghiep-20260117155209075.htm",
+      "summary": "Tỉnh Lạng Sơn vừa có khuyến cáo doanh nghiệp xuất nhập khẩu nông sản, trái cây khi nhu cầu hàng hóa phục vụ dịp Tết Nguyên đán Bính Ngọ tăng đột biến, phía Trung Quốc siết chặt các quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.684334+07:00",
+      "fetched": "2026-01-17T17:12:37.684432+07:00"
+    },
+    {
+      "id": "ef1e1562a44d24c0bb89181ebec7ff4b",
+      "title": "Bắt đối tượng sang Campuchia móc nối tổ chức đường dây lừa đảo tiền ảo, lừa nhiều người Việt",
+      "link": "https://tuoitre.vn/bat-doi-tuong-sang-campuchia-moc-noi-to-chuc-duong-day-lua-dao-tien-ao-lua-nhieu-nguoi-viet-20260117160822081.htm",
+      "summary": "Một đường dây lừa đảo đầu tư tiền ảo móc nối 'đối tác' bên Campuchia để chiếm đoạt nhiều tỉ đồng của các bị hại vừa bị Công an Đà Nẵng bắt giữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.684223+07:00",
+      "fetched": "2026-01-17T17:12:37.684325+07:00"
+    },
+    {
+      "id": "2140a844a202f8090cb9f1e67006e026",
+      "title": "Náo động rừng cổ tích diễn Tết ở Nhà hát kịch 5B",
+      "link": "https://tuoitre.vn/nao-dong-rung-co-tich-dien-tet-o-nha-hat-kich-5b-20260117101712763.htm",
+      "summary": "Để chuẩn bị cho mùa kịch Tết, Nhà hát kịch 5B đưa lên sàn vở kịch thiếu nhi Náo động rừng cổ tích (tác giả Vương Huyền Cơ, đạo diễn Minh Quốc) sẽ diễn suất đầu tiên lúc 15h ngày 18-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.684102+07:00",
+      "fetched": "2026-01-17T17:12:37.684213+07:00"
+    },
+    {
+      "id": "8854eacf00222bc1a89cb9570da0564e",
+      "title": "Pháp thảo luận khả năng rút khỏi NATO vì cách hành xử của Mỹ",
+      "link": "https://tuoitre.vn/phap-thao-luan-kha-nang-rut-khoi-nato-vi-cach-hanh-xu-cua-my-20260117162324746.htm",
+      "summary": "Lần đầu tiên đề xuất rút Pháp khỏi NATO được đưa vào chương trình nghị sự của Quốc hội, trong bối cảnh phe cánh tả Pháp cáo buộc chính sách của Mỹ đặt châu Âu vào vị trí lệ thuộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T17:12:37.683880+07:00",
+      "fetched": "2026-01-17T17:12:37.684088+07:00"
+    },
     {
       "id": "d244422cd248cf9dfe9ba0651ad8e275",
       "title": "Muốn đi xa trong cuộc đua toàn cầu, đại học phải mạnh đến đâu?",
@@ -603,6 +753,306 @@ window.newsData_2026_01_17 = {
       "fetched": "2026-01-17T10:15:59.486211+07:00"
     },
     {
+      "id": "ffb35d03aee66bc0419bcd1113b249a7",
+      "title": "Trường ĐH ở miền Tây chi gần 10 tỉ đồng cho nghiên cứu khoa học",
+      "link": "https://thanhnien.vn/truong-dh-o-mien-tay-chi-gan-10-ti-dong-cho-nghien-cuu-khoa-hoc-185260117152550117.htm",
+      "summary": "Giai đoạn 2023 - 2025, Trường ĐH Cửu Long thực hiện gần 500 đề tài nghiên cứu khoa học  của giảng viên và sinh viên, 323 giáo trình, với tổng kinh phí gần 10 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T10:05:00+07:00",
+      "fetched": "2026-01-17T17:12:36.739302+07:00"
+    },
+    {
+      "id": "c69d4eb8050fdb7f84b17e188c4e032b",
+      "title": "Toàn cảnh 17h: Thảm kịch xe khách lao xuống cống, 3 người chết | Không khí trước tết ở làng đào Nhật Tân",
+      "link": "https://thanhnien.vn/toan-canh-17h-tham-kich-xe-khach-lao-xuong-cong-3-nguoi-chet-khong-khi-truoc-tet-o-lang-dao-nhat-tan-185260117154037725.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T10:00:00+07:00",
+      "fetched": "2026-01-17T17:12:36.739450+07:00"
+    },
+    {
+      "id": "1ae07359a3818d5f7579125e60907c2e",
+      "title": "Sau 5 năm ký hợp đồng, Mỹ vẫn chưa giao thiết bị quân sự cho Nhật",
+      "link": "https://thanhnien.vn/sau-5-nam-ky-hop-dong-my-van-chua-giao-thiet-bi-quan-sucho-nhat-185260117161942328.htm",
+      "summary": "Một cuộc điều tra của Nhật Bản phát hiện 118 đơn đặt hàng mua thiết bị quân sự Mỹ trị giá 1.140 tỉ yên (7,21 tỉ USD) đã không được giao trong ít nhất 5 năm sau khi các hợp đồng được ký kết, theo Nikkei Asia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:59:00+07:00",
+      "fetched": "2026-01-17T17:12:36.739583+07:00"
+    },
+    {
+      "id": "5df38274261bca2b648cfd47a6afec5b",
+      "title": "Giám đốc CIA đến Venezuela gặp người thay thế ông Maduro",
+      "link": "https://thanhnien.vn/giam-doc-cia-den-venezuela-gap-nguoi-thay-the-ong-maduro-185260117163222554.htm",
+      "summary": "Giám đốc Cục Tình báo trung ương Mỹ (CIA) John Ratcliffe đã đến Caracas để gặp Tổng thống lâm thời Venezuela Delcy Rodriguez trong động thái cải thiện quan hệ song phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:57:00+07:00",
+      "fetched": "2026-01-17T17:12:36.739712+07:00"
+    },
+    {
+      "id": "059a2970b4d8c70d3d4209928e0b5059",
+      "title": "Lỗ sâu hay bằng chứng của tiền vũ trụ?",
+      "link": "https://thanhnien.vn/lo-sau-hay-bang-chung-cua-tien-vu-tru-185260117142852463.htm",
+      "summary": "Lỗ sâu thường được hình dung như những đường hầm xuyên không gian - thời gian, mở ra những lối đi tắt trong vũ trụ, nhưng cách hình dung này có thể không đúng, mà lỗ sâu bắt nguồn từ một nguyên nhân sâu xa hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:54:00+07:00",
+      "fetched": "2026-01-17T17:12:36.739839+07:00"
+    },
+    {
+      "id": "a0d8e2ce6d1005cf6984d34fc42691a0",
+      "title": "CĐV và báo chí Thái Lan: 'Đội tuyển Việt Nam sẽ dự World Cup với lứa U.23 có trái tim sư tử’",
+      "link": "https://thanhnien.vn/cdv-va-bao-chi-thai-lan-doi-tuyen-viet-nam-se-du-world-cup-voi-lua-u23-co-trai-tim-su-tu-185260117164524082.htm",
+      "summary": "Truyền thông và người hâm mộ Thái Lan đánh giá rất cao màn thể hiện của U.23 Việt Nam ở sân chơi U.23 châu Á 2026, sau chiến thắng 3-2 của thầy trò HLV Kim Sang-sik trước U.23 UAE.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:51:00+07:00",
+      "fetched": "2026-01-17T17:12:36.739982+07:00"
+    },
+    {
+      "id": "851dff2f76a98b563872821c85ef8048",
+      "title": "Daikin giới thiệu hệ sinh thái mới Air Creator giúp trải nghiệm không khí cá nhân hóa",
+      "link": "https://thanhnien.vn/daikin-gioi-thieu-he-sinh-thai-moi-air-creator-giup-trai-nghiem-khong-khi-ca-nhan-hoa-185260117164552035.htm",
+      "summary": "Mới đây, Daikin Vietnam tổ chức sự kiện Air Unlocked, giới thiệu những định hướng mới và cam kết lâu dài trong việc không ngừng đổi mới sản phẩm, nâng cao chất lượng không gian sống cho người tiêu dùng Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:50:00+07:00",
+      "fetched": "2026-01-17T17:12:36.740114+07:00"
+    },
+    {
+      "id": "c1d48a22bd5149982b78a6ce404e47af",
+      "title": "Từ ‘cậu bé’ lận đận mãi mới trụ lại được CLB CAHN, đến người hùng của U.23 Việt Nam: Minh Phúc!",
+      "link": "https://thanhnien.vn/tu-cau-be-lan-dan-mai-moi-tru-lai-duoc-clb-cahn-den-nguoi-hung-cua-u23-viet-nam-minh-phuc-185260117163001758.htm",
+      "summary": "Từ một hậu vệ trưởng thành trong môi trường kỷ luật của thể thao công an nhân dân, Phạm Minh Phúc đã ghi dấu ấn đậm nét tại VCK U.23 châu Á 2026 bằng bàn thắng quyết định, góp phần đưa U.23 Việt Nam vào bán kết trong một trận đấu giàu cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:45:00+07:00",
+      "fetched": "2026-01-17T17:12:36.740242+07:00"
+    },
+    {
+      "id": "970fd7d3d24c664a1cdc27b0c69b4535",
+      "title": "Bia Saigon Special đạt 'Top 10 Sản phẩm vàng uy tín, chất lượng Việt Nam 2025'",
+      "link": "https://thanhnien.vn/bia-saigon-special-dat-top-10-san-pham-vang-uy-tin-chat-luong-viet-nam-2025-18526011716161947.htm",
+      "summary": "Năm 2025, sản phẩm Bia Saigon Special vinh dự được trao tặng danh hiệu 'Top 10 Sản phẩm vàng uy tín, chất lượng Việt Nam' trong khuôn khổ chương trình bình chọn và quảng bá 'Doanh nghiệp xuất sắc trong xây dựng và quản trị tài sản sở hữu trí tuệ' năm 2025 do Hội Sở hữu Trí tuệ Việt Nam tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:44:00+07:00",
+      "fetched": "2026-01-17T17:12:36.740373+07:00"
+    },
+    {
+      "id": "df97c7aea737d7cdff9c1d1a6fc291e7",
+      "title": "Vợ HLV Vũ Văn Trung tiết lộ về chồng: Ngoài sân nghiêm khắc, về nhà 'hiền và ngoan'",
+      "link": "https://thanhnien.vn/vo-hlv-vu-van-trung-tiet-lo-ve-chong-ngoai-san-nghiem-khac-ve-nha-hien-va-ngoan-185260117122824123.htm",
+      "summary": "HLV Vũ Văn Trung, người đang dẫn dắt 'cơn lốc đỏ' Trường ĐH Thủy lợi trở lại VCK TNSV THACO Cup 2026, hiện lên với một hình ảnh rất khác qua lời kể của vợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:40:00+07:00",
+      "fetched": "2026-01-17T17:12:36.740500+07:00"
+    },
+    {
+      "id": "c0f62b190b886bf804907653b322d482",
+      "title": "Một mình ghi 5 bàn đưa Thủy lợi vào VCK, tiền đạo Trần Đức Hoan: Đây là lần đầu tiên!",
+      "link": "https://thanhnien.vn/mot-minh-ghi-5-ban-dua-thuy-loi-vao-vck-tien-dao-tran-duc-hoan-day-la-lan-dau-tien-185260117122307665.htm",
+      "summary": "Sau mùa giải dừng bước đầy tiếc nuối, Trường ĐH Thủy lợi đã trở lại đầy mạnh mẽ. Chiến thắng 5-0 trước ĐH Phenikaa không chỉ đưa 'lốc đỏ' trở thành đội phía Bắc đầu tiên giành vé dự vòng chung kết Giải bóng đá Thanh Niên sinh viên Việt Nam lần IV – 2026 cúp THACO, mà còn là lời khẳng định cho bản sắ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:40:00+07:00",
+      "fetched": "2026-01-17T17:12:36.740642+07:00"
+    },
+    {
+      "id": "4d5b7eb52429653c2058a62872bd5110",
+      "title": "4 mùa cùng giải TNSV THACO cup, vẫn hồi hộp như ngày đầu",
+      "link": "https://thanhnien.vn/4-mua-cung-giai-tnsv-thaco-cup-van-hoi-hop-nhu-ngay-dau-185260117161942661.htm",
+      "summary": "Đó là những chia sẻ của Tống Viết Thanh Minh, đội trưởng đội bóng ĐH Huế trong buổi tập luyện, làm quen mặt sân Quân khu 5, trước khi bước vào vòng loại Duyên hải miền Trung giải bóng đá Thanh Niên sinh viên Việt Nam lần 4, năm 2026 cúp THACO (TNSV THACO cup 2026)",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:36:00+07:00",
+      "fetched": "2026-01-17T17:12:36.740774+07:00"
+    },
+    {
+      "id": "6aa0edf5e036436178d98284a87652d6",
+      "title": "Những người tháo chạy giữa đợt trấn áp lừa đảo của Campuchia",
+      "link": "https://vnexpress.net/nhung-nguoi-thao-chay-giua-dot-tran-ap-lua-dao-cua-campuchia-5006815.html",
+      "summary": "Nhiều người đang tìm cách rời khỏi những địa điểm bị nghi là trung tâm lừa đảo ở Campuchia, khi chính phủ nước này tăng cường trấn áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:33:13+07:00",
+      "fetched": "2026-01-17T17:12:33.519188+07:00"
+    },
+    {
+      "id": "6aa0edf5e036436178d98284a87652d6",
+      "title": "Những người tháo chạy giữa đợt trấn áp lừa đảo của Campuchia",
+      "link": "https://vnexpress.net/nhung-nguoi-thao-chay-giua-dot-tran-ap-lua-dao-cua-campuchia-5006815.html",
+      "summary": "Nhiều người đang tìm cách rời khỏi những địa điểm bị nghi là trung tâm lừa đảo ở Campuchia, khi chính phủ nước này tăng cường trấn áp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-17T09:33:13+07:00",
+      "fetched": "2026-01-17T17:12:39.255423+07:00"
+    },
+    {
+      "id": "863729292764033d7ed7e7b71470f5f2",
+      "title": "Kiểm tra tại chợ đầu mối Thủ Đức, nhân viên bốc xếp dương tính ma túy",
+      "link": "https://thanhnien.vn/kiem-tra-tai-cho-dau-moi-thu-duc-boc-xep-duong-tinh-ma-tuy-18526011709481944.htm",
+      "summary": "Tối 16.1, lực lượng chức năng đồng loạt ra quân thực hiện cao điểm kiểm tra hành chính và chất ma túy tại chợ đầu mối Thủ Đức, nhằm truy xét ma túy đến cùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:28:00+07:00",
+      "fetched": "2026-01-17T17:12:36.740913+07:00"
+    },
+    {
+      "id": "ef01facc5bd1a1bf00c431fe7f873195",
+      "title": "Triệt xóa đường dây tàng trữ, mua bán trái phép vũ khí quân dụng",
+      "link": "https://thanhnien.vn/triet-xoa-duong-day-tang-tru-mua-ban-trai-phep-vu-khi-quan-dung-185260117142332911.htm",
+      "summary": "Ngày 17.1.2026, Phòng Cảnh sát hình sự (PC02) Công an TP.HCM cho biết đơn vị vừa triệt phá đường dây chế tạo, tàng trữ và mua bán vũ khí quân dụng quy mô lớn, thu giữ hàng chục khẩu súng cùng 4.227 viên đạn các loại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:27:00+07:00",
+      "fetched": "2026-01-17T17:12:36.741041+07:00"
+    },
+    {
+      "id": "9f29fe4b19498d1494570d449932d848",
+      "title": "Netflix nói lời chia tay 'Kung Fu Panda'",
+      "link": "https://thanhnien.vn/netflix-noi-loi-chia-tay-kung-fu-panda-185260117162058383.htm",
+      "summary": "Việc Netflix xác nhận gỡ bỏ ba phần đầu tiên của 'Kung Fu Panda' khỏi nền tảng từ đầu 2026 không chỉ là tin buồn với người hâm mộ hoạt hình, mà còn phản ánh rõ nét những chuyển động sâu hơn của thị trường truyền hình trả phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:21:00+07:00",
+      "fetched": "2026-01-17T17:12:36.741168+07:00"
+    },
+    {
+      "id": "05ab30d284ecf7284b46623751373ea3",
+      "title": "Đầu tư, lướt sóng bất động sản tăng trở lại",
+      "link": "https://vnexpress.net/dau-tu-luot-song-bat-dong-san-tang-tro-lai-5006779.html",
+      "summary": "Nhu cầu mua bất động sản để ở và tích sản có xu hướng giảm, trong khi hoạt động đầu tư, lướt sóng ngắn hạn tăng trở lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:16:09+07:00",
+      "fetched": "2026-01-17T17:12:33.519350+07:00"
+    },
+    {
+      "id": "f486e587bf8f3c8093b2b70d9c8e555e",
+      "title": "Triệt phá đường dây lừa đầu tư tiền ảo giả danh Nasdaq",
+      "link": "https://vnexpress.net/triet-pha-duong-day-lua-dau-tu-tien-ao-gia-danh-nasdaq-5006823.html",
+      "summary": "Công an bắt 7 người trong đường dây lừa đầu tư tiền ảo trên sàn giả mạo Nasdaq, tổ chức từ Campuchia, ước chiếm đoạt 14 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:11:02+07:00",
+      "fetched": "2026-01-17T17:12:33.519492+07:00"
+    },
+    {
+      "id": "a5e3181df3f9e8b33488787ee60a7895",
+      "title": "Vi khuẩn xâm nhập máu tấn công tinh hoàn người đàn ông",
+      "link": "https://vnexpress.net/vi-khuan-xam-nhap-mau-tan-cong-tinh-hoan-nguoi-dan-ong-5006713.html",
+      "summary": "Anh Tuấn, 35 tuổi, đau sưng tinh hoàn, xét nghiệm ghi nhận nhiễm vi khuẩn Klebsiella pneumoniae.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:00:00+07:00",
+      "fetched": "2026-01-17T17:12:33.519626+07:00"
+    },
+    {
+      "id": "2da6dfe962b34162ed590578a5fa25cd",
+      "title": "Mẹo ăn thịt nướng giảm nguy cơ ung thư",
+      "link": "https://vnexpress.net/meo-an-thit-nuong-giam-nguy-co-ung-thu-5006691.html",
+      "summary": "Ướp thịt với các loại thảo mộc, luộc hoặc chần sơ trước khi nướng và kiểm soát nhiệt độ hợp lý có thể giảm nguy cơ hình thành các chất gây ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T09:00:00+07:00",
+      "fetched": "2026-01-17T17:12:33.519759+07:00"
+    },
+    {
+      "id": "6c256c05fa35fbc1f42eee0a02cff255",
+      "title": "Sếp Unilever: Chúng tôi xem trồng 1 triệu cây xanh là khoản đầu tư chiến lược",
+      "link": "https://vnexpress.net/sep-unilever-chung-toi-xem-trong-1-trieu-cay-xanh-la-khoan-dau-tu-chien-luoc-5006615.html",
+      "summary": "Theo Unilever Việt Nam, trồng 1 triệu cây xanh giúp chống biến đổi khí hậu, vừa là khoản đầu tư bảo vệ chuỗi giá trị và sức bền cho doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T08:47:12+07:00",
+      "fetched": "2026-01-17T17:12:33.519907+07:00"
+    },
+    {
+      "id": "6c256c05fa35fbc1f42eee0a02cff255",
+      "title": "Sếp Unilever: Chúng tôi xem trồng 1 triệu cây xanh là khoản đầu tư chiến lược",
+      "link": "https://vnexpress.net/sep-unilever-chung-toi-xem-trong-1-trieu-cay-xanh-la-khoan-dau-tu-chien-luoc-5006615.html",
+      "summary": "Theo Unilever Việt Nam, trồng 1 triệu cây xanh giúp chống biến đổi khí hậu, vừa là khoản đầu tư bảo vệ chuỗi giá trị và sức bền cho doanh nghiệp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-17T08:47:12+07:00",
+      "fetched": "2026-01-17T17:12:41.135042+07:00"
+    },
+    {
+      "id": "3681670157355efe90ebd33cd835148e",
+      "title": "Tài xế bất lực nhìn ôtô Audi cháy ngùn ngụt trong hầm chui",
+      "link": "https://vnexpress.net/tai-xe-bat-luc-nhin-oto-audi-chay-ngun-ngut-trong-ham-chui-5006818.html",
+      "summary": "Ôtô Audi đang chạy vào hầm chui Khuất Duy Tiến – Nguyễn Trãi bất ngờ bốc cháy dữ dội, tài xế bất lực nhìn ngọn lửa lan rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T08:43:27+07:00",
+      "fetched": "2026-01-17T17:12:33.520040+07:00"
+    },
+    {
+      "id": "581337515825fe5dd043cd02768d42ee",
+      "title": "Mỹ cảnh báo Canada vì nhập xe điện Trung Quốc",
+      "link": "https://vnexpress.net/my-canh-bao-canada-vi-nhap-xe-dien-trung-quoc-5006745.html",
+      "summary": "Quan chức Mỹ cho rằng Canada sẽ \"hối hận\" với quyết định cho nhập khẩu tới 49.000 xe điện Trung Quốc, theo thỏa thuận thương mại mới với Bắc Kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T08:20:27+07:00",
+      "fetched": "2026-01-17T17:12:33.520173+07:00"
+    },
+    {
+      "id": "581337515825fe5dd043cd02768d42ee",
+      "title": "Mỹ cảnh báo Canada vì nhập xe điện Trung Quốc",
+      "link": "https://vnexpress.net/my-canh-bao-canada-vi-nhap-xe-dien-trung-quoc-5006745.html",
+      "summary": "Quan chức Mỹ cho rằng Canada sẽ \"hối hận\" với quyết định cho nhập khẩu tới 49.000 xe điện Trung Quốc, theo thỏa thuận thương mại mới với Bắc Kinh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-17T08:20:27+07:00",
+      "fetched": "2026-01-17T17:12:41.134445+07:00"
+    },
+    {
+      "id": "49d0175938b0e226a87bd32346a89f63",
+      "title": "Chủ nhân Nobel Hòa bình có thể tặng giải cho người khác?",
+      "link": "https://vnexpress.net/chu-nhan-nobel-hoa-binh-co-the-tang-giai-cho-nguoi-khac-5006550.html",
+      "summary": "Nobel Hòa bình là giải thưởng danh giá trên thế giới, kèm theo đó là những quy định để đảm bảo vị thế \"không thể chuyển giao\" của nó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T08:20:24+07:00",
+      "fetched": "2026-01-17T17:12:33.520303+07:00"
+    },
+    {
+      "id": "49d0175938b0e226a87bd32346a89f63",
+      "title": "Chủ nhân Nobel Hòa bình có thể tặng giải cho người khác?",
+      "link": "https://vnexpress.net/chu-nhan-nobel-hoa-binh-co-the-tang-giai-cho-nguoi-khac-5006550.html",
+      "summary": "Nobel Hòa bình là giải thưởng danh giá trên thế giới, kèm theo đó là những quy định để đảm bảo vị thế \"không thể chuyển giao\" của nó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-17T08:20:24+07:00",
+      "fetched": "2026-01-17T17:12:39.255572+07:00"
+    },
+    {
+      "id": "676a0f770411fd34974d840c6721e3ed",
+      "title": "Những cuốn sách chào Tết Bính Ngọ",
+      "link": "https://vnexpress.net/nhung-cuon-sach-chao-tet-binh-ngo-5005648.html",
+      "summary": "Không khí Tết ở các vùng miền được thể hiện qua loạt ấn phẩm ''Nhâm Nhi Tết Bính Ngọ'', ''Tết Trường Sa quê em''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T08:19:43+07:00",
+      "fetched": "2026-01-17T17:12:33.520435+07:00"
+    },
+    {
+      "id": "cf194cb674c61a4e844ca82479c2ae9b",
+      "title": "Hạ tầng hàng không, giao thông mở hướng phát triển cho Đông Anh",
+      "link": "https://vnexpress.net/ha-tang-hang-khong-giao-thong-mo-huong-phat-trien-cho-dong-anh-5006811.html",
+      "summary": "Cảng hàng không quốc tế Gia Bình cùng các trục giao thông mới tạo lực đẩy cho khu Đông Bắc Hà Nội, trong đó Cổ Loa (Đông Anh) là điểm kết nối giữa sân bay, đô thị mới và nội đô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T08:15:00+07:00",
+      "fetched": "2026-01-17T17:12:33.520564+07:00"
+    },
+    {
       "id": "7a311d410d24370ea2617915ca5d0701",
       "title": "CSGT Tây Ninh bắt quả tang vụ vận chuyển thuốc lá lậu trong đêm",
       "link": "https://thanhnien.vn/csgt-tay-ninh-bat-qua-tang-vu-van-chuyen-thuoc-la-lau-trong-dem-185260117110456581.htm",
@@ -623,6 +1073,26 @@ window.newsData_2026_01_17 = {
       "fetched": "2026-01-17T15:15:45.521764+07:00"
     },
     {
+      "id": "c5680668adfcdc5efdb73b131b4695e9",
+      "title": "Bộ trưởng Nguyễn Mạnh Hùng: 'Tài sản lớn nhất của startup là tìm được vấn đề'",
+      "link": "https://vnexpress.net/bo-truong-nguyen-manh-hung-tai-san-lon-nhat-cua-startup-la-tim-duoc-van-de-5006716.html",
+      "summary": "Khó cạnh tranh với nước ngoài về vốn, nhân lực hay công nghệ, \"cửa\" cho startup Việt, theo Bộ trưởng Nguyễn Mạnh Hùng, là tìm vấn đề đủ lớn, đủ khó của xã hội và đổi mới sáng tạo để giải quyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T08:03:01+07:00",
+      "fetched": "2026-01-17T17:12:33.520828+07:00"
+    },
+    {
+      "id": "c5680668adfcdc5efdb73b131b4695e9",
+      "title": "Bộ trưởng Nguyễn Mạnh Hùng: 'Tài sản lớn nhất của startup là tìm được vấn đề'",
+      "link": "https://vnexpress.net/bo-truong-nguyen-manh-hung-tai-san-lon-nhat-cua-startup-la-tim-duoc-van-de-5006716.html",
+      "summary": "Khó cạnh tranh với nước ngoài về vốn, nhân lực hay công nghệ, \"cửa\" cho startup Việt, theo Bộ trưởng Nguyễn Mạnh Hùng, là tìm vấn đề đủ lớn, đủ khó của xã hội và đổi mới sáng tạo để giải quyết.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-17T08:03:01+07:00",
+      "fetched": "2026-01-17T17:12:44.105148+07:00"
+    },
+    {
       "id": "b36dbe274b289743a53a2d5fb2a40d63",
       "title": "Chủ tịch FPT: Khu Công viên Công nghệ số mới sẽ thành Silicon Valley Việt Nam",
       "link": "https://thanhnien.vn/chu-tich-fpt-khu-cong-vien-cong-nghe-so-moi-se-thanh-silicon-valley-viet-nam-18526011714081513.htm",
@@ -641,6 +1111,16 @@ window.newsData_2026_01_17 = {
       "category": "Công nghệ",
       "published": "2026-01-17T08:00:00+07:00",
       "fetched": "2026-01-17T15:15:43.538766+07:00"
+    },
+    {
+      "id": "990dafbee0f8114cd55ce58fec13b681",
+      "title": "Tôi kiếm tháng trăm triệu đồng, vợ vẫn 'dành trọn' việc nhà cho chồng",
+      "link": "https://vnexpress.net/toi-kiem-thang-tram-trieu-dong-vo-van-danh-tron-viec-nha-cho-toi-5006437.html",
+      "summary": "Tôi chẳng say nắng ai, không tơ tưởng người khác, mỗi ngày về thấy cảnh nhà cửa lộn xộn, nói hoài vợ vẫn không thay đổi tích cực tí nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T08:00:00+07:00",
+      "fetched": "2026-01-17T17:12:33.520975+07:00"
     },
     {
       "id": "8cba7642c1e88ece3f8b414f28e29197",
