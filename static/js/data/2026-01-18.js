@@ -1,7 +1,157 @@
 window.newsData_2026_01_18 = {
   "date": "2026-01-18",
-  "lastUpdated": "2026-01-18T17:12:58.799816+07:00",
+  "lastUpdated": "2026-01-18T19:22:58.629524+07:00",
   "articles": [
+    {
+      "id": "9d0e87a6b50e88be2ceeee76bbe6b2e5",
+      "title": "Xé bỏ 'bản vẽ hỏng' và hành trình dám đi tiếp của một thủ khoa",
+      "link": "https://tuoitre.vn/xe-bo-ban-ve-hong-va-hanh-trinh-dam-di-tiep-cua-mot-thu-khoa-20260118144410144.htm",
+      "summary": "\"Em muốn kể về một 'bản vẽ hỏng' và hành trình em đã can đảm xé bỏ nó để vẽ lại từ đầu và nuôi dưỡng ước mơ, lý tưởng của bản thân mình\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.932518+07:00",
+      "fetched": "2026-01-18T19:22:50.932631+07:00"
+    },
+    {
+      "id": "51868aa8d4b0e278c9768d80544de647",
+      "title": "CĐV Việt Nam bức xúc khi Đình Bắc vắng mặt ở tốp ngôi sao triển vọng của AFC",
+      "link": "https://tuoitre.vn/cdv-viet-nam-buc-xuc-khi-dinh-bac-vang-mat-o-top-ngoi-sao-trien-vong-cua-afc-20260118164232006.htm",
+      "summary": "Trang chủ của Giải U23 châu Á gây khó hiểu khi bỏ qua Nguyễn Đình Bắc trong danh sách 6 ngôi sao triển vọng tại giải đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.932398+07:00",
+      "fetched": "2026-01-18T19:22:50.932507+07:00"
+    },
+    {
+      "id": "2c26fbcbd7ec76f6e87933431d000662",
+      "title": "Cao thủ 'Tuyệt đỉnh Kung Fu' Lương Tiểu Long qua đời",
+      "link": "https://tuoitre.vn/cao-thu-tuyet-dinh-kung-fu-luong-tieu-long-qua-doi-20260118164257272.htm",
+      "summary": "Siêu sao võ thuật Lương Tiểu Long, nổi tiếng với hình tượng phản diện Hỏa Vân Tà Thần trong Tuyệt đỉnh Kung Fu, đột ngột qua đời ở tuổi 77 mà không rõ nguyên nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.932273+07:00",
+      "fetched": "2026-01-18T19:22:50.932387+07:00"
+    },
+    {
+      "id": "3d6482bb3ea643306a868b4567f5d1c1",
+      "title": "Khuyến khích học tiếng Anh không đồng nghĩa phải cộng điểm IELTS khi xét tuyển đại học?",
+      "link": "https://tuoitre.vn/khuyen-khich-hoc-tieng-anh-khong-dong-nghia-phai-cong-diem-ielts-khi-xet-tuyen-dai-hoc-20260118113348467.htm",
+      "summary": "Ý kiến bạn đọc Tuổi Trẻ Online với 2 luồng ý kiến khác nhau liên quan đến việc cộng điểm cho thí sinh có chứng chỉ IELTS khi xét tuyển đại học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.932150+07:00",
+      "fetched": "2026-01-18T19:22:50.932262+07:00"
+    },
+    {
+      "id": "ef0c72de2e940f07ae873fe995ac4c00",
+      "title": "Công an Đồng Tháp hỗ trợ người dân ở Tây Ninh nhận lại tiền sau khi chuyển nhầm 100 triệu",
+      "link": "https://tuoitre.vn/cong-an-dong-thap-ho-tro-nguoi-dan-o-tay-ninh-nhan-lai-tien-sau-khi-chuyen-nham-100-trieu-20260118164549004.htm",
+      "summary": "Do bất cẩn, anh Hoàng ở Tây Ninh chuyển nhầm 100 triệu đồng vào tài khoản của ông Dũng ở Đồng Tháp. Cả hai đã cùng liên hệ với lực lượng công an để chuyển trả lại số tiền nói trên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.932024+07:00",
+      "fetched": "2026-01-18T19:22:50.932139+07:00"
+    },
+    {
+      "id": "10a850197d3b8b7f4753ed0b8c97a096",
+      "title": "Đại chiến nhạc phim",
+      "link": "https://tuoitre.vn/dai-chien-nhac-phim-20260118100058803.htm",
+      "summary": "Kangding Ray đại diện cho một thế hệ sáng tác nhạc phim thể nghiệm thay vì là phần bổ trợ cho nhân vật, chủ đề, mạch truyện thì lại chủ ý làm mất đi điểm tựa vững chắc để ta diễn giải mạch truyện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.931900+07:00",
+      "fetched": "2026-01-18T19:22:50.932013+07:00"
+    },
+    {
+      "id": "cef2c24dd5d822cceebab20758af5e6f",
+      "title": "Giữa tuần tới, miền Bắc mưa, rét đậm",
+      "link": "https://tuoitre.vn/giua-tuan-toi-mien-bac-mua-ret-dam-20260118164724907.htm",
+      "summary": "Dự báo do ảnh hưởng gió mùa đông bắc (không khí lạnh), từ đêm 20-1 miền Bắc có mưa, sau đó trời chuyển rét đậm, vùng núi có nơi rét hại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.931779+07:00",
+      "fetched": "2026-01-18T19:22:50.931889+07:00"
+    },
+    {
+      "id": "aa1b45a81239ee8f34e6c401fde64843",
+      "title": "Ngôi nhà xây mới giữa làng Lô Lô Chải khiến dân mạng xốn con mắt",
+      "link": "https://tuoitre.vn/ngoi-nha-xay-moi-giua-lang-lo-lo-chai-khien-dan-mang-xon-con-mat-20260118164240716.htm",
+      "summary": "Giữa làng Lô Lô Chải xuất hiện ngôi nhà hai tầng đang trong quá trình xây dựng khiến nhiều người lo nó phá vỡ cảnh quan của ngôi làng cổ tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.931638+07:00",
+      "fetched": "2026-01-18T19:22:50.931767+07:00"
+    },
+    {
+      "id": "1b75f5c29ac45f01351711d12908e17e",
+      "title": "Cầu lông Trung Quốc thua trận chung kết thứ 21 trước An Se Young",
+      "link": "https://tuoitre.vn/cau-long-trung-quoc-thua-tran-chung-ket-thu-21-truoc-an-se-young-20260118172631919.htm",
+      "summary": "Cái tên An Se Young một lần nữa gieo rắc nỗi sợ hãi cho làng cầu lông Trung Quốc, khi tay vợt số 1 thế giới người Hàn Quốc thắng dễ Wang Zhiyi để lên ngôi vô địch Ấn Độ mở rộng 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.931515+07:00",
+      "fetched": "2026-01-18T19:22:50.931627+07:00"
+    },
+    {
+      "id": "47e8ff47066af2b14fd8582947a7ba4c",
+      "title": "Ai cũng xứng có một ngọn đèn soi",
+      "link": "https://tuoitre.vn/ai-cung-xung-co-mot-ngon-den-soi-20260118095118601.htm",
+      "summary": "Tiểu thuyết ngắn Ánh đèn nơi bến cảng đánh dấu sự trở lại của Banana Yoshimoto với độc giả Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.931391+07:00",
+      "fetched": "2026-01-18T19:22:50.931504+07:00"
+    },
+    {
+      "id": "06660eebe966bee4c7475f0863881f1b",
+      "title": "Điểm tin 18h: Sụt lún đường ven kênh Tàu Hủ; Livestream bán cúc mâm xôi giúp nhà vườn",
+      "link": "https://tuoitre.vn/diem-tin-18h-sut-lun-duong-ven-kenh-tau-hu-livestream-ban-cuc-mam-xoi-giup-nha-vuon-20260118164404854.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin 18h ngày 18-1-2026",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.931267+07:00",
+      "fetched": "2026-01-18T19:22:50.931380+07:00"
+    },
+    {
+      "id": "9cb70d2bf3bcfc995ae52282fb1e3847",
+      "title": "Xây dựng Đảng bộ Quân đội mẫu mực, tiêu biểu, ngang tầm nhiệm vụ",
+      "link": "https://tuoitre.vn/xay-dung-dang-bo-quan-doi-mau-muc-tieu-bieu-ngang-tam-nhiem-vu-2026011818122852.htm",
+      "summary": "Đảng bộ Quân đội và toàn quân tiếp tục kiên định nguyên tắc Đảng lãnh đạo tuyệt đối, trực tiếp về mọi mặt đối với Quân đội, xây dựng Đảng bộ Quân đội trong sạch vững mạnh, mẫu mực, tiêu biểu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.931141+07:00",
+      "fetched": "2026-01-18T19:22:50.931255+07:00"
+    },
+    {
+      "id": "22aeace1a8feff4b9e1f7213e66c36f5",
+      "title": "Ngành anime 2026 sẽ bị áp đảo bởi Jujutsu Kaisen, One Piece",
+      "link": "https://tuoitre.vn/nganh-anime-2026-se-bi-ap-dao-boi-jujutsu-kaisen-one-piece-20260118180206702.htm",
+      "summary": "Báo cáo xu hướng mới của ngành anime Nhật Bản trong năm 2026 báo hiệu sự trỗi dậy mạnh mẽ của các thương hiệu lớn như Jujutsu Kaisen, Jojo hay Fire Force.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.931007+07:00",
+      "fetched": "2026-01-18T19:22:50.931129+07:00"
+    },
+    {
+      "id": "a80d1b0bea98e44f58a6104071cb0b2a",
+      "title": "Bóng bàn Trung Quốc lung lay nghiêm trọng",
+      "link": "https://tuoitre.vn/bong-ban-trung-quoc-lung-lay-nghiem-trong-20260118083239213.htm",
+      "summary": "Cuộc khủng hoảng phong độ của bóng bàn Trung Quốc tiếp tục kéo dài, khi hàng loạt tay vợt hùng mạnh của họ lại thất bại tại giải WTT Star Contender Doha 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.930866+07:00",
+      "fetched": "2026-01-18T19:22:50.930995+07:00"
+    },
+    {
+      "id": "940c040928ef2090e9f1d7253ffe2cce",
+      "title": "Ban Vận động cứu trợ Trung ương tiếp nhận ủng hộ đồng bào bị bão lụt đến hết tháng 1-2026",
+      "link": "https://tuoitre.vn/ban-van-dong-cuu-tro-trung-uong-tiep-nhan-ung-ho-dong-bao-bi-bao-lut-den-het-thang-1-2026-20260118183354432.htm",
+      "summary": "Ban Vận động Cứu trợ Trung ương - Ủy ban Trung ương Mặt trận Tổ quốc (MTTQ) Việt Nam đã ra Thông báo về thời gian kết thúc đợt vận động, tiếp nhận ủng hộ đồng bào bị thiệt hại do bão, mưa lũ gây ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T19:22:50.930616+07:00",
+      "fetched": "2026-01-18T19:22:50.930851+07:00"
+    },
     {
       "id": "78c22e1618597d763e950f7f4e94f5db",
       "title": "Thủ môn Trung Quốc tiết lộ chiêu trò, cười nhạo Uzbekistan",
@@ -453,6 +603,126 @@ window.newsData_2026_01_18 = {
       "fetched": "2026-01-18T13:19:32.572736+07:00"
     },
     {
+      "id": "f23e4d3d59d96fb412cbf2ba20cd71ca",
+      "title": "Đặt mục tiêu trao 8.000 suất học bổng cho học sinh, sinh viên vùng biển đảo",
+      "link": "https://thanhnien.vn/dat-muc-tieu-trao-8000-suat-hoc-bong-cho-hoc-sinh-sinh-vien-vung-bien-dao-185260118184240026.htm",
+      "summary": "Ngày 18.1, Quỹ học bổng Vừ A Dính, Câu lạc bộ 'Vì Hoàng Sa - Trường Sa thân yêu' tổ chức tổng kết chương trình UpRace 2025. Đây là sự kiện chạy bộ cộng đồng đã để lại dấu ấn sâu đậm về một hành trình kết nối thể thao, công nghệ và trách nhiệm xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T12:16:00+07:00",
+      "fetched": "2026-01-18T19:22:49.508257+07:00"
+    },
+    {
+      "id": "27d68ea99e783286dd7b250fc82d01f9",
+      "title": "Cà Mau: Điều động trưởng phòng văn hóa làm phó hiệu trưởng trường THCS",
+      "link": "https://thanhnien.vn/ca-mau-dieu-dong-truong-phong-van-hoa-lam-pho-hieu-truong-truong-thcs-185260118124634026.htm",
+      "summary": "Trưởng phòng Văn hóa - Xã hội P.Lý Văn Lâm (Cà Mau) được điều động làm phó hiệu trưởng trường THCS. Lãnh đạo phường khẳng định đây là nguyện vọng cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T12:16:00+07:00",
+      "fetched": "2026-01-18T19:22:49.508426+07:00"
+    },
+    {
+      "id": "6a4f6d3df8932d807b460364d297b545",
+      "title": "Đội Trường ĐH Tôn Đức Thắng giành vé play-off đầu tiên với phong độ hủy diệt",
+      "link": "https://thanhnien.vn/doi-truong-dh-ton-duc-thang-gianh-ve-play-off-dau-tien-voi-phong-do-huy-diet-185260118184353534.htm",
+      "summary": "Đội bóng Trường ĐH Tôn Đức Thắng (TDTU) đã chính thức trở thành cái tên đầu tiên ghi danh vào vòng play-off khu vực TP.HCM, giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T12:09:00+07:00",
+      "fetched": "2026-01-18T19:22:49.508578+07:00"
+    },
+    {
+      "id": "d857e3782f79e9ee35edb8dd5b49f733",
+      "title": "Con không được đóng kịch, bà mẹ Mỹ dọa đánh bom trường học",
+      "link": "https://vnexpress.net/con-khong-duoc-dong-kich-ba-me-my-doa-danh-bom-truong-hoc-5007087.html",
+      "summary": "Crystal Royster, 42 tuổi, bị phạt tù và quản chế vì gọi điện dọa đánh bom trường học khi con gái không được tham gia vở kịch ở trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T12:03:19+07:00",
+      "fetched": "2026-01-18T19:22:46.090997+07:00"
+    },
+    {
+      "id": "7168387db31b73cb1d13e7deff6be460",
+      "title": "'Nhà của mình là của con, tiền của con không phải của mình'",
+      "link": "https://vnexpress.net/nha-cua-minh-la-cua-con-tien-cua-con-khong-phai-cua-minh-5006936.html",
+      "summary": "Tôi có con, có cháu đều trưởng thành, tự lập, có sự nghiệp và sống hiếu thảo. Nhưng khi về hưu, tôi vẫn chọn sống riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T12:00:00+07:00",
+      "fetched": "2026-01-18T19:22:46.091181+07:00"
+    },
+    {
+      "id": "9d5e262d86af81489a14b203c40b6777",
+      "title": "'Ngoại ngữ và chuyển đổi số là chìa khóa hội nhập'",
+      "link": "https://vnexpress.net/ngoai-ngu-va-chuyen-doi-so-la-chia-khoa-hoi-nhap-5007080.html",
+      "summary": "Thứ trưởng Bộ Giáo dục và Đào tạo Phạm Ngọc Thưởng đề cao vai trò ngoại ngữ và chuyển đổi số, giúp học sinh trở thành công dân toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T12:00:00+07:00",
+      "fetched": "2026-01-18T19:22:46.091357+07:00"
+    },
+    {
+      "id": "06448136f3afb452541881f5f3893dd3",
+      "title": "Tiểu bọt như xà phòng có phải mắc bệnh thận không?",
+      "link": "https://vnexpress.net/tieu-bot-nhu-xa-phong-co-phai-mac-benh-than-khong-5006891.html",
+      "summary": "Tôi tiểu nhiều bọt như xà phòng 6 tháng nay nhưng không đau có phải mắc bệnh thận không? (Minh Quân, 58 tuổi, Đồng Tháp)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T12:00:00+07:00",
+      "fetched": "2026-01-18T19:22:46.091515+07:00"
+    },
+    {
+      "id": "e5b15b52e9045f04e360930f63f22c96",
+      "title": "Sử dụng bao cao su hết hạn có lây nhiễm sùi mào gà?",
+      "link": "https://vnexpress.net/su-dung-bao-cao-su-het-han-co-lay-nhiem-sui-mao-ga-5006848.html",
+      "summary": "Tôi sử dụng bao cao su đã hết hạn khi quan hệ tình dục thì có bị lây nhiễm bệnh sùi mào gà không? (Quốc Việt, 26 tuổi, Ninh Bình)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T12:00:00+07:00",
+      "fetched": "2026-01-18T19:22:46.091686+07:00"
+    },
+    {
+      "id": "080b34613b8145969cf6c0a30697c0c1",
+      "title": "Trung tá quân đội gác mục tiêu 2h40 để làm pacer VM All-Star",
+      "link": "https://vnexpress.net/trung-ta-quan-doi-gac-muc-tieu-pr-lam-pacer-sub-3-5006038.html",
+      "summary": "Đang đạt phong độ cao với khả năng chinh phục mốc 2 tiếng 40 phút, Trung tá Phạm Tiến Mạnh hoãn mục tiêu cá nhân để nhận nhiệm vụ dẫn tốc tại VnExpress Marathon All-Star.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T12:00:00+07:00",
+      "fetched": "2026-01-18T19:22:46.091854+07:00"
+    },
+    {
+      "id": "aff7d443ca7372c8e64b00b5c9dde405",
+      "title": "Đưa tiếng Anh trở thành ngôn ngữ thứ hai cần sự\nvào cuộc của ‘ba nhà’",
+      "link": "https://thanhnien.vn/dua-tieng-anh-tro-thanh-ngon-ngu-thu-hai-can-suvao-cuoc-cua-ba-nha-185260118180459318.htm",
+      "summary": "Không còn dừng lại ở một môn học kiến thức, tiếng Anh đang được xác lập là \"năng lực cốt lõi\" để hình thành thế hệ công dân toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T12:00:00+07:00",
+      "fetched": "2026-01-18T19:22:49.508746+07:00"
+    },
+    {
+      "id": "64e489a5b4d1e40750210bf1a9fdaca8",
+      "title": "U.23 Việt Nam nắm lợi thế trước U.23 Trung Quốc tại bán kết châu Á",
+      "link": "https://thanhnien.vn/u23-viet-nam-nam-loi-the-truoc-u23-trung-quoc-tai-ban-ket-chau-a-185260118162006578.htm",
+      "summary": "Sau chiến thắng kịch tính tại tứ kết, U.23 Việt Nam đang đứng trước cơ hội lớn để tái lập kỳ tích Thường Châu. Trước mắt thầy trò HLV Kim Sang-sik lúc này là đối thủ đáng gờm - U.23 Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T12:00:00+07:00",
+      "fetched": "2026-01-18T19:22:49.508899+07:00"
+    },
+    {
+      "id": "ce325898c5103be3a9a606d3e1da7be5",
+      "title": "TP.HCM: Vừa xuất hiện vé trúng xổ số miền Nam ngày 18 tháng 1 đài Tiền Giang",
+      "link": "https://thanhnien.vn/tphcm-vua-xuat-hien-ve-trung-xo-so-mien-nam-ngay-18-thang-1-dai-tien-giang-18526011818363813.htm",
+      "summary": "Những tờ vé trúng xổ số miền Nam ngày 18 tháng 1 đài Tiền Giang vừa lộ diện tại một đại lý vé số ở TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:39:00+07:00",
+      "fetched": "2026-01-18T19:22:49.509046+07:00"
+    },
+    {
       "id": "6ea72c8095aabd5b6f81c232e1d8bf9d",
       "title": "Những công trình mang xuân vào thành phố",
       "link": "https://tuoitre.vn/nhung-cong-trinh-mang-xuan-vao-thanh-pho-20260118081045483.htm",
@@ -603,6 +873,186 @@ window.newsData_2026_01_18 = {
       "fetched": "2026-01-18T11:35:21.428065+07:00"
     },
     {
+      "id": "fde74d72805fa99ea37e0e73decac086",
+      "title": "Phát hiện ngôi mộ gạch 2.000 năm tuổi ở Quảng Ninh",
+      "link": "https://vnexpress.net/phat-hien-ngoi-mo-gach-2-000-nam-tuoi-o-quang-ninh-5007006.html",
+      "summary": "Ngôi mộ cổ có diện tích 150 m2 với cấu trúc phức tạp vừa được khai quật tại Uông Bí, mang nhiều giá trị quý về vùng đất cửa sông Bạch Đằng đầu Công nguyên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:34:12+07:00",
+      "fetched": "2026-01-18T19:22:46.092017+07:00"
+    },
+    {
+      "id": "ec83ece801a103f513dd7e5e7a8d5503",
+      "title": "Hưng Yên có thêm khu nhà xã hội 4.500 tỷ đồng ở Văn Giang",
+      "link": "https://vnexpress.net/hung-yen-co-them-khu-nha-xa-hoi-4-500-ty-dong-o-van-giang-5007051.html",
+      "summary": "Khu nhà xã hội tại xã Phụng Công nằm giáp trục đường trung tâm đô thị Văn Giang đang được tìm nhà đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:28:22+07:00",
+      "fetched": "2026-01-18T19:22:46.092170+07:00"
+    },
+    {
+      "id": "5f15a27ca7e6c68b53b92a6c1182b1ee",
+      "title": "Thỏa thuận thương mại Mỹ - EU rơi vào bế tắc",
+      "link": "https://vnexpress.net/thoa-thuan-thuong-mai-my-eu-roi-vao-be-tac-5007068.html",
+      "summary": "Sau khi ông Trump dọa áp thuế nhập khẩu 8 nước châu Âu vì vấn đề Greenland, giới chức EU định \"đóng băng\" phê duyệt thỏa thuận thương mại với Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:24:19+07:00",
+      "fetched": "2026-01-18T19:22:46.092329+07:00"
+    },
+    {
+      "id": "5f15a27ca7e6c68b53b92a6c1182b1ee",
+      "title": "Thỏa thuận thương mại Mỹ - EU rơi vào bế tắc",
+      "link": "https://vnexpress.net/thoa-thuan-thuong-mai-my-eu-roi-vao-be-tac-5007068.html",
+      "summary": "Sau khi ông Trump dọa áp thuế nhập khẩu 8 nước châu Âu vì vấn đề Greenland, giới chức EU định \"đóng băng\" phê duyệt thỏa thuận thương mại với Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-18T11:24:19+07:00",
+      "fetched": "2026-01-18T19:22:53.727519+07:00"
+    },
+    {
+      "id": "7fa501de655bfbd8f69caa277a47324d",
+      "title": "Làm thế nào để duy trì thói quen tập thể dục đều đặn?",
+      "link": "https://thanhnien.vn/lam-the-nao-de-duy-tri-thoi-quen-tap-the-duc-deu-dan-18526011617582981.htm",
+      "summary": "Ông Yash Agarwal, chuyên gia thể hình ở Ấn Độ, cho biết duy trì lịch tập thể dục ổn định là điều không dễ. Nhiều người dễ nản, nghi ngờ bản thân hoặc chọn nghỉ ngơi thay vì vận động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:12:00+07:00",
+      "fetched": "2026-01-18T19:22:49.509192+07:00"
+    },
+    {
+      "id": "b6e2b736f60618c075fb16ae02765755",
+      "title": "Máy bay Indonesia rơi ở vùng núi, chưa tìm thấy người",
+      "link": "https://thanhnien.vn/may-bay-indonesia-roi-o-vung-nui-chua-tim-thay-nguoi-185260118180605966.htm",
+      "summary": "Lực lượng chức năng Indonesia đã tìm thấy xác chiếc máy bay giám sát bị mất tích tại tỉnh Nam Sulawesi nhưng chưa phát hiện tung tích của những người bên trên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:10:00+07:00",
+      "fetched": "2026-01-18T19:22:49.509342+07:00"
+    },
+    {
+      "id": "8dc63859c476c4f07c9a40e3f0780ed8",
+      "title": "Lầu Năm Góc có thể điều 1.500 quân đến Minnesota",
+      "link": "https://vnexpress.net/lau-nam-goc-co-the-dieu-1-500-quan-den-minnesota-5007078.html",
+      "summary": "Quan chức Lầu Năm Góc cho hay gần 1.500 quân nhân đã được lệnh sẵn sàng triển khai tới bang Minnesota, nơi đang diễn ra biểu tình phản đối ICE.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:07:19+07:00",
+      "fetched": "2026-01-18T19:22:46.092486+07:00"
+    },
+    {
+      "id": "8dc63859c476c4f07c9a40e3f0780ed8",
+      "title": "Lầu Năm Góc có thể điều 1.500 quân đến Minnesota",
+      "link": "https://vnexpress.net/lau-nam-goc-co-the-dieu-1-500-quan-den-minnesota-5007078.html",
+      "summary": "Quan chức Lầu Năm Góc cho hay gần 1.500 quân nhân đã được lệnh sẵn sàng triển khai tới bang Minnesota, nơi đang diễn ra biểu tình phản đối ICE.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-18T11:07:19+07:00",
+      "fetched": "2026-01-18T19:22:52.309031+07:00"
+    },
+    {
+      "id": "d57a6506e961a8f7a3025abe884cb203",
+      "title": "Dư âm trận thắng đội tuyển Trung Quốc đúng mùng 1 Tết ở Mỹ Đình dội về, U.23 Việt Nam cố lên!",
+      "link": "https://thanhnien.vn/du-am-tran-thang-doi-tuyen-trung-quoc-dung-mung-1-o-my-dinh-doi-ve-u23-viet-nam-co-len-185260118144132827.htm",
+      "summary": "Trong những năm gần đây, các đại diện của bóng đá Việt Nam không ít lần chạm trán các đội tuyển của bóng đá Trung Quốc, cả trong các trận đấu chính thức lẫn giao hữu. Điểm chung là chúng ta biết cách ghi bàn vào lưới đối phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:07:00+07:00",
+      "fetched": "2026-01-18T19:22:49.509493+07:00"
+    },
+    {
+      "id": "7f653de905d91ad98497fdd62d3f7a92",
+      "title": "Tôi quen nhiều người nhưng khó yêu sâu đậm",
+      "link": "https://vnexpress.net/toi-quen-nhieu-nguoi-nhung-kho-yeu-sau-dam-5006962.html",
+      "summary": "Tôi quen người này rồi người khác nhưng luôn rõ ràng với nguyên tắc: một thời điểm chỉ tìm hiểu một người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:00:00+07:00",
+      "fetched": "2026-01-18T19:22:46.092636+07:00"
+    },
+    {
+      "id": "ca08a32d7baac80b84a358ee573ef72b",
+      "title": "Phan Đinh Tùng xẻ cá ngừ vây xanh 234kg tại Hatoyama",
+      "link": "https://vnexpress.net/phan-dinh-tung-xe-ca-ngu-vay-xanh-234kg-tai-hatoyama-5007067.html",
+      "summary": "Tối 14/1, ca sĩ Phan Đinh Tùng trực tiếp xẻ cá ngừ vây xanh nặng 234kg tại nhà hàng Nhật Bản Hatoyama (Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:00:00+07:00",
+      "fetched": "2026-01-18T19:22:46.092812+07:00"
+    },
+    {
+      "id": "6f164dc469f556d6498d109d273482cc",
+      "title": "Cảm xúc chiến thắng vỡ òa trên sân Quân khu 5: Tình mẫu tử lay động sân cỏ",
+      "link": "https://thanhnien.vn/cam-xuc-chien-thang-vo-oa-tren-san-quan-khu-5-tinh-mau-tu-lay-dong-san-co-185260118173652491.htm",
+      "summary": "Trận mở màn vòng loại khu vực Duyên hải miền Trung giải TNSV THACO cup 2026 đong đầy cảm xúc với sự tự hào của người cha trên khán đài và thông điệp yêu thương nghẹn ngào gửi đến mẹ từ sân cỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:00:00+07:00",
+      "fetched": "2026-01-18T19:22:49.509643+07:00"
+    },
+    {
+      "id": "2c5f7dc1f5a24c6b0248784d5523e883",
+      "title": "Lãnh tụ tối cao Iran ra cáo buộc mới",
+      "link": "https://thanhnien.vn/lanh-tu-toi-cao-iran-ra-cao-buoc-moi-185260118171450974.htm",
+      "summary": "Lãnh tụ tối cao Iran Ali Khamenei mới đây cáo buộc Mỹ và Israel đứng sau những đối tượng kích động làn sóng biểu tình bạo lực, gây ra cái chết của ‘nhiều ngàn người’ tại Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:00:00+07:00",
+      "fetched": "2026-01-18T19:22:49.509810+07:00"
+    },
+    {
+      "id": "434e031529c0ffe9bda3eab47c0f49bb",
+      "title": "Chuyên gia Trung Quốc: 'Xem U23 Việt Nam ngỡ như Nhật Bản'",
+      "link": "https://vnexpress.net/chuyen-gia-trung-quoc-xem-u23-viet-nam-ngo-nhu-nhat-ban-5007072.html",
+      "summary": "Bình luận viên nổi tiếng Hoàng Kiện Tường đánh giá cao Việt Nam trước trận bán kết U23 châu Á 2026 gặp Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T10:50:00+07:00",
+      "fetched": "2026-01-18T19:22:46.092970+07:00"
+    },
+    {
+      "id": "434e031529c0ffe9bda3eab47c0f49bb",
+      "title": "Chuyên gia Trung Quốc: 'Xem U23 Việt Nam ngỡ như Nhật Bản'",
+      "link": "https://vnexpress.net/chuyen-gia-trung-quoc-xem-u23-viet-nam-ngo-nhu-nhat-ban-5007072.html",
+      "summary": "Bình luận viên nổi tiếng Hoàng Kiện Tường đánh giá cao Việt Nam trước trận bán kết U23 châu Á 2026 gặp Trung Quốc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-18T10:50:00+07:00",
+      "fetched": "2026-01-18T19:22:58.617866+07:00"
+    },
+    {
+      "id": "3aa3012306438bae965dcd3696918087",
+      "title": "Tài tử võ thuật Lương Tiểu Long qua đời",
+      "link": "https://vnexpress.net/tai-tu-vo-thuat-luong-tieu-long-qua-doi-5007059.html",
+      "summary": "Diễn viên Hong Kong Lương Tiểu Long, đóng \"Tuyệt đỉnh kungfu\", qua đời ở tuổi 78.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T10:38:24+07:00",
+      "fetched": "2026-01-18T19:22:46.093121+07:00"
+    },
+    {
+      "id": "680cc8502956f7e7ec21272a04e80f1e",
+      "title": "Đại kỳ Việt Nam tiếp lửa thầy trò HLV Kim Sang-sik đấu bán kết châu Á: Quyết thắng U.23 Trung Quốc",
+      "link": "https://thanhnien.vn/dai-ky-viet-nam-tiep-lua-thay-tro-hlv-kim-sang-sik-dau-ban-ket-chau-a-quyet-thang-u23-trung-quoc-185260118172844734.htm",
+      "summary": "Đại kỳ Việt Nam sẽ xuất hiện trên khán đài, tiếp lửa cho U.23 Việt Nam ở trận bán kết với U.23 Trung Quốc lúc 22 giờ 30 Việt Nam ngày 20.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T10:37:00+07:00",
+      "fetched": "2026-01-18T19:22:49.509958+07:00"
+    },
+    {
+      "id": "047571416134acc37de51e7222db1651",
+      "title": "Từ nghề thuần nông đến di sản quốc gia",
+      "link": "https://thanhnien.vn/tu-nghe-thuan-nong-den-di-san-quoc-gia-185260118144810284.htm",
+      "summary": "Hơn 100 năm lặng lẽ hình thành và phát triển bên bờ sông Sa Giang, ít ai dám nghĩ rằng nghề trồng hoa ở P.Sa Đéc (Đồng Tháp) trở thành di sản văn hóa phi vật thể quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T10:30:00+07:00",
+      "fetched": "2026-01-18T19:22:49.510103+07:00"
+    },
+    {
       "id": "b7325e15d8a2595dbda52c0a1c0b8217",
       "title": "Những sai lầm mà người nước ngoài dễ mắc phải tại Việt Nam",
       "link": "https://tuoitre.vn/nhung-sai-lam-ma-nguoi-nuoc-ngoai-de-mac-phai-tai-viet-nam-20260116190754053.htm",
@@ -751,6 +1201,26 @@ window.newsData_2026_01_18 = {
       "category": "Tổng hợp",
       "published": "2026-01-18T10:29:02.333384+07:00",
       "fetched": "2026-01-18T10:29:02.333599+07:00"
+    },
+    {
+      "id": "c5e962729dfbb6b71d3847bbbc9d9bb1",
+      "title": "Xe điện toàn cầu tăng trưởng kỷ lục, Việt Nam là 'ngôi sao đang lên'",
+      "link": "https://thanhnien.vn/xe-dien-toan-cau-tang-truong-ky-luc-viet-nam-la-ngoi-sao-dang-len-185260118172036112.htm",
+      "summary": "Kết thúc năm 2025, toàn thế giới tiếp tục chứng kiến tỷ lệ tăng trưởng kỷ lục về doanh số bán xe điện. Cuộc cách mạng giao thông xanh toàn cầu vẫn đang diễn tiến tích cực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T10:27:00+07:00",
+      "fetched": "2026-01-18T19:22:49.510256+07:00"
+    },
+    {
+      "id": "b6672627ff1eb86b4fce0ccdffbf8316",
+      "title": "Ngọc Lan phấn khích khi chàng trai Nghệ An chinh phục cô gái chưa từng yêu ai",
+      "link": "https://thanhnien.vn/ngoc-lan-phan-khich-khi-chang-trai-nghe-an-chinh-phuc-co-gai-chua-tung-yeu-ai-185260118170410175.htm",
+      "summary": "Với sự mai mối của MC Quyền Linh và Ngọc Lan, cặp đôi Đức Bằng - Tường Vy chính thức trở thành một đôi khi tham gia chương trình 'Bạn muốn hẹn hò'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T10:27:00+07:00",
+      "fetched": "2026-01-18T19:22:49.510404+07:00"
     },
     {
       "id": "519bdb836f67cce0b6caa7ac3a0a6c37",
