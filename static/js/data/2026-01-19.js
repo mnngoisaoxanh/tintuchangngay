@@ -1,6 +1,6 @@
 window.newsData_2026_01_19 = {
   "date": "2026-01-19",
-  "lastUpdated": "2026-01-19T03:14:04.128040+07:00",
+  "lastUpdated": "2026-01-19T05:12:22.081178+07:00",
   "articles": [
     {
       "id": "f8ee6340107d97766d982d0caa54f192",
@@ -151,6 +151,176 @@ window.newsData_2026_01_19 = {
       "category": "Tổng hợp",
       "published": "2026-01-19T01:16:44.482853+07:00",
       "fetched": "2026-01-19T01:16:44.483069+07:00"
+    },
+    {
+      "id": "f4421cb67f10976c995abb6822e604eb",
+      "title": "NATO 'nội chiến' vì Greenland",
+      "link": "https://thanhnien.vn/nato-noi-chien-vi-greenland-185260118221309762.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã sử dụng thuế quan để đáp trả việc 8 thành viên NATO ở châu Âu vì đã đưa lực lượng quân sự nhỏ đến Greenland - hòn đảo tự trị mà Washington đang muốn thâu tóm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T22:10:00+07:00",
+      "fetched": "2026-01-19T05:12:14.619783+07:00"
+    },
+    {
+      "id": "f6c472017e7b43f0a775d57b2dfde0ff",
+      "title": "Tổng thống Trump phác họa tương lai Hội đồng Hòa bình",
+      "link": "https://thanhnien.vn/tong-thong-trump-phac-hoa-tuong-lai-hoi-dong-hoa-binh-1852601182211044.htm",
+      "summary": "Ban đầu là cơ chế tập trung cho nỗ lực chấm dứt xung đột ở Gaza, Hội đồng Hòa bình do Tổng thống Mỹ Donald Trump khởi xướng đang hướng đến tham vọng lớn hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T22:08:00+07:00",
+      "fetched": "2026-01-19T05:12:14.619952+07:00"
+    },
+    {
+      "id": "bbf754b4a7a634a2bce6775e5951f6b2",
+      "title": "Tiềm năng kinh tế của đảo Greenland lớn đến đâu",
+      "link": "https://vnexpress.net/tiem-nang-kinh-te-cua-dao-greenland-lon-den-dau-5007004.html",
+      "summary": "Kinh tế Greenland đang tăng trưởng chậm lại, phụ thuộc lớn vào xuất khẩu tôm và khoản trợ cấp ngân sách hơn 1 tỷ USD mỗi năm từ Đan Mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T22:05:00+07:00",
+      "fetched": "2026-01-19T05:12:11.829005+07:00"
+    },
+    {
+      "id": "703b947d56caaba962c7d832db0a0198",
+      "title": "Biến đất công vị trí vàng thành quán nước ở Vũng Tàu, buộc ngưng nhưng vẫn bán",
+      "link": "https://thanhnien.vn/bien-dat-cong-vi-tri-vang-thanh-quan-nuoc-o-vung-tau-buoc-ngung-nhung-van-ban-185260118113312869.htm",
+      "summary": "Sau nhiều năm vướng sai phạm lấn chiếm, khu đất công tại số 1A Trần Phú, phường Vũng Tàu, TP.HCM tiếp tục bị sử dụng bán quán nước, trong khi các công trình trái phép cũ vẫn chưa được tháo dỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T22:05:00+07:00",
+      "fetched": "2026-01-19T05:12:14.620134+07:00"
+    },
+    {
+      "id": "f48ae8846acfb536364941c8c04a58a0",
+      "title": "Những mẻ tôm sú khô tiền triệu dịp Tết",
+      "link": "https://vnexpress.net/nhung-me-tom-su-kho-tien-trieu-dip-tet-5006869.html",
+      "summary": "Từ nguyên liệu tươi sống, cơ sở sản xuất ở xã Quách Phẩm chế biến thành tôm sú khô cao cấp, giá bán có loại tới 1,5 triệu đồng mỗi kg, khách đặt mua trước nhiều tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T22:00:00+07:00",
+      "fetched": "2026-01-19T05:12:11.829191+07:00"
+    },
+    {
+      "id": "3d57d3324b6dde6c5776a9e5e29aa693",
+      "title": "Khủng hoảng Greenland đẩy châu Âu rời xa Mỹ",
+      "link": "https://vnexpress.net/khung-hoang-greenland-day-chau-au-roi-xa-my-5006430.html",
+      "summary": "Khao khát kiểm soát Greenland của Tổng thống Trump khiến châu Âu nhận ra không thể tiếp tục phụ thuộc vào Mỹ và họ đang tìm cách thay đổi điều này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T22:00:00+07:00",
+      "fetched": "2026-01-19T05:12:11.829360+07:00"
+    },
+    {
+      "id": "690cc0996c48231dddc8433fb2f7eca3",
+      "title": "Những người đàn ông chỉ dám 'yếu đuối' khi say",
+      "link": "https://vnexpress.net/nhung-nguoi-dan-ong-chi-dam-yeu-duoi-khi-say-5001745.html",
+      "summary": "Sau giờ làm việc, Tuấn, 40 tuổi, tìm thấy khoảng không gian duy nhất để \"thở\" là tại một quán nhậu bình dân, thay vì về nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T22:00:00+07:00",
+      "fetched": "2026-01-19T05:12:11.829522+07:00"
+    },
+    {
+      "id": "f6befc7b9cf1065b4df39aaa45e70e29",
+      "title": "Đức mở lại trợ cấp xe điện để thúc đẩy doanh số",
+      "link": "https://vnexpress.net/duc-mo-lai-tro-cap-xe-dien-de-thuc-day-doanh-so-5006688.html",
+      "summary": "Chương trình trợ cấp xe điện dành cho cá nhân được khôi phục, chủ yếu hỗ trợ những người có thu nhập thấp đến trung bình, với mức 1.500-6.000 euro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T22:00:00+07:00",
+      "fetched": "2026-01-19T05:12:11.829690+07:00"
+    },
+    {
+      "id": "004e14b1e1dcb1335f4933dc9d85e77d",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 19.1.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1912026-185260118231455238.htm",
+      "summary": "Tin tức Chung một niềm tin trong trái tim người trẻ, U.23 VN sẽ vào chung kết bằng sự biến ảo, Tổng thống Trump phác họa tương lai Hội đồng Hòa bình… có thể đón xem trên Báo Thanh Niên số ra ngày 19.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T22:00:00+07:00",
+      "fetched": "2026-01-19T05:12:14.620291+07:00"
+    },
+    {
+      "id": "ca8b5f3609f690be5746c93e81ea0baf",
+      "title": "Tổng thống Ukraine ra lệnh tăng tốc nhập khẩu điện",
+      "link": "https://thanhnien.vn/tong-thong-ukraine-ra-lenh-tang-toc-nhap-khau-dien-185260118220604911.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky ngày 17.1 cho hay ông đã ra lệnh tăng tốc nhập khẩu điện và các thiết bị điện bổ sung khi Ukraine đối mặt với cuộc khủng hoảng năng lượng tồi tệ nhất thời chiến, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T21:50:00+07:00",
+      "fetched": "2026-01-19T05:12:14.620444+07:00"
+    },
+    {
+      "id": "bc4d105a220e04eae435d54e41202863",
+      "title": "Lớp vẽ '3 trong 1' cho trẻ khuyết tật ở TP.HCM",
+      "link": "https://thanhnien.vn/lop-ve-3-trong-1-cho-tre-khuyet-tat-o-tphcm-185260112162104826.htm",
+      "summary": "Lớp vẽ giúp những bạn trẻ khiếm khuyết tìm thấy niềm vui, trị liệu tinh thần, nhen nhóm cơ hội về một nghề nghiệp tự nuôi sống bản thân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T21:48:00+07:00",
+      "fetched": "2026-01-19T05:12:14.620596+07:00"
+    },
+    {
+      "id": "30da3aa07b8d968948a46740f0d67d75",
+      "title": "Tòa nhà cổ 111 năm tuổi gần chợ Bến Thành ở TP.HCM có gì đặc biệt?",
+      "link": "https://thanhnien.vn/toa-nha-co-111-nam-tuoi-gan-cho-ben-thanh-o-tphcm-co-gi-dac-biet-185260115150050833.htm",
+      "summary": "Ít ai biết tòa nhà cổ đối diện chợ Bến Thành từng là trụ sở Hỏa xa Đông Dương, lưu giữ gần như nguyên vẹn kiến trúc Pháp ở TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T21:26:00+07:00",
+      "fetched": "2026-01-19T05:12:14.620747+07:00"
+    },
+    {
+      "id": "d62c804729e4b6e7e83f59a9729900a1",
+      "title": "Chuyển nhầm 100 triệu đồng, người dân được công an giúp nhận lại",
+      "link": "https://thanhnien.vn/chuyen-nham-100-trieu-dong-nguoi-dan-duoc-cong-an-giup-nhan-lai-185260118203628112.htm",
+      "summary": "Một người dân ở Tây Ninh sau khi chuyển nhầm 100 triệu đồng vào tài khoản người khác, đã được người nhận và Công an tỉnh Đồng Tháp hỗ trợ nhận lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T21:22:00+07:00",
+      "fetched": "2026-01-19T05:12:14.620897+07:00"
+    },
+    {
+      "id": "7bf9e534880697789522e43aea400680",
+      "title": "'Ngụy biện không vượt đèn đỏ khi rẽ phải ở làn đi thẳng'",
+      "link": "https://vnexpress.net/nguy-bien-khong-vuot-den-do-khi-re-phai-o-lan-di-thang-5006382.html",
+      "summary": "Việc cố chấp nói rằng không vượt đèn đỏ chỉ là nguỵ biện, vì đang lấy một lỗi này để che lấp đi lỗi khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T21:00:00+07:00",
+      "fetched": "2026-01-19T05:12:11.829849+07:00"
+    },
+    {
+      "id": "7b4347d1c1a4a2de95ee69c6607036f1",
+      "title": "Rủi ro kép khi 'lướt sóng' bạc",
+      "link": "https://thanhnien.vn/rui-ro-kep-khi-luot-song-bac-185260118222031258.htm",
+      "summary": "Giá bạc tăng sốc khiến nhiều người lao vào đầu tư, kể cả dùng tiền vay. Tuy nhiên, các chuyên gia cảnh báo điều này chứa đựng rủi ro kép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T21:00:00+07:00",
+      "fetched": "2026-01-19T05:12:14.621065+07:00"
+    },
+    {
+      "id": "4eedb362c048ca840ab95e422bb061c7",
+      "title": "Chợ tết bắt đầu sôi động",
+      "link": "https://thanhnien.vn/cho-tet-bat-dau-soi-dong-185260118214942134.htm",
+      "summary": "Còn khoảng một vài tuần nữa là đến tết Nguyên đán, ngay từ lúc này tình hình tiêu thụ ở chợ đã bắt đầu sôi động khi bước vào mùa cao điểm mua sắm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T21:00:00+07:00",
+      "fetched": "2026-01-19T05:12:14.621230+07:00"
+    },
+    {
+      "id": "5856081af4b730a3478199ea88d7123b",
+      "title": "Bệ phóng cho doanh nghiệp nhỏ và vừa",
+      "link": "https://thanhnien.vn/be-phong-cho-doanh-nghiep-nho-va-vua-185260118173150159.htm",
+      "summary": "Những hỗ trợ \"đo ni đóng giày\" cho doanh nghiệp nhỏ được xem là bệ phóng để lực lượng \"chim non\" của VN đủ sức bay xa cùng đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T21:00:00+07:00",
+      "fetched": "2026-01-19T05:12:14.621388+07:00"
     },
     {
       "id": "dadc88a06ca9eadf6fec8eb9c502571b",
