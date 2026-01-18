@@ -1,7 +1,157 @@
 window.newsData_2026_01_18 = {
   "date": "2026-01-18",
-  "lastUpdated": "2026-01-18T10:29:08.338701+07:00",
+  "lastUpdated": "2026-01-18T11:35:30.175417+07:00",
   "articles": [
+    {
+      "id": "6ea72c8095aabd5b6f81c232e1d8bf9d",
+      "title": "Những công trình mang xuân vào thành phố",
+      "link": "https://tuoitre.vn/nhung-cong-trinh-mang-xuan-vao-thanh-pho-20260118081045483.htm",
+      "summary": "TP.HCM những ngày này không chỉ chuyển mình với những công trình lớn vừa động thổ khởi công, TP còn chuyển mình từ những góc phố, công viên, những địa điểm thân thuộc đang thay chiếc áo mới tươi tắn, khang trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.429791+07:00",
+      "fetched": "2026-01-18T11:35:21.429912+07:00"
+    },
+    {
+      "id": "50dd07a59699f9db4ac77417a637050e",
+      "title": "Quy trình bầu Bộ Chính trị, Ban Bí thư khóa mới",
+      "link": "https://tuoitre.vn/quy-trinh-bau-bo-chinh-tri-ban-bi-thu-khoa-moi-20260117122048161.htm",
+      "summary": "Quy chế bầu cử trong Đảng ban hành kèm theo quyết định 190/2024 của Ban Chấp hành Trung ương Đảng khóa XIII đã quy định về việc bầu Bộ Chính trị, Ban Bí thư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.429667+07:00",
+      "fetched": "2026-01-18T11:35:21.429780+07:00"
+    },
+    {
+      "id": "6baf704d77164452a5de760ab62ee403",
+      "title": "Mất ngủ vì lo tổ hợp C00 biến mất",
+      "link": "https://tuoitre.vn/mat-ngu-vi-lo-to-hop-c00-bien-mat-20260118092131318.htm",
+      "summary": "'Từ khi biết tổ hợp C00 có thể biến mất ở nhiều ngành, tôi mất ngủ vì lo sợ cơ hội cho con mình bị thu hẹp trong khi con đã có định hướng chọn học các môn này từ lớp 10', một phụ huynh tại Nghệ An băn khoăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.429535+07:00",
+      "fetched": "2026-01-18T11:35:21.429655+07:00"
+    },
+    {
+      "id": "59891b596f4180481efb26838c5ce853",
+      "title": "Cháy xe tải trên cao tốc Cam Lâm - Vĩnh Hảo, khói lửa bốc cao tại km117",
+      "link": "https://tuoitre.vn/chay-xe-tai-tren-cao-toc-cam-lam-vinh-hao-khoi-lua-boc-cao-tai-km117-20260118094926826.htm",
+      "summary": "Xe tải đang chạy trên cao tốc Cam Lâm - Vĩnh Hảo bất ngờ bốc cháy dữ dội. Cột khói đen cuồn cuộn bốc cao, lửa bao trùm phần đầu xe khiến nhiều người đi đường hoảng hốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.429396+07:00",
+      "fetched": "2026-01-18T11:35:21.429510+07:00"
+    },
+    {
+      "id": "6fb564b7863a172e5a8fb27e048a09b0",
+      "title": "Ông Trump công kích sai về điện gió Trung Quốc",
+      "link": "https://tuoitre.vn/ong-trump-cong-kich-sai-ve-dien-gio-trung-quoc-20260116101934633.htm",
+      "summary": "Tổng thống Mỹ Donald Trump gây tranh cãi khi cho rằng Trung Quốc “hầu như không có điện gió” và chỉ sản xuất tua bin để xuất khẩu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.429268+07:00",
+      "fetched": "2026-01-18T11:35:21.429385+07:00"
+    },
+    {
+      "id": "e3e5cf4eb95086c2fff2fc8c12e70c5d",
+      "title": "Top 5 anime dành cho fan của Jujutsu Kaisen",
+      "link": "https://tuoitre.vn/top-5-anime-danh-cho-fan-cua-jujutsu-kaisen-20260117154314119.htm",
+      "summary": "Sau thời gian dài chờ đợi, Jujutsu Kaisen chính thức trở lại với mùa thứ ba vào đầu năm 2026 và nhanh chóng trở thành một trong những anime gây tiếng vang lớn nhất mùa đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.429147+07:00",
+      "fetched": "2026-01-18T11:35:21.429257+07:00"
+    },
+    {
+      "id": "c79ed170ac2c4c805939a7bade0f027c",
+      "title": "Xác minh 'người chuối' chọc ghẹo khỉ hoang dã trên bán đảo Sơn Trà",
+      "link": "https://tuoitre.vn/xac-minh-nguoi-chuoi-choc-gheo-khi-hoang-da-tren-ban-dao-son-tra-20260118095707505.htm",
+      "summary": "Một đoạn clip người nước ngoài quấn quanh mình những quả chuối chín vàng để tiếp cận khỉ hoang dã trên bán đảo Sơn Trà, Đà Nẵng đang lan truyền mạnh trên mạng xã hội gây tranh cãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.429025+07:00",
+      "fetched": "2026-01-18T11:35:21.429136+07:00"
+    },
+    {
+      "id": "8d5044ebd9c9b9365df46f79f3ea4837",
+      "title": "Mùa tổng động viên cưới",
+      "link": "https://tuoitre.vn/mua-tong-dong-vien-cuoi-20260118093538771.htm",
+      "summary": "Những ngày sắp chạm Tết, mạng xã hội đầy ắp hình ảnh bạn bè cùng tuổi: người khoe bụng bầu, người khoe con đầu lòng, người đã hai đứa, ba đứa. Thời gian cũng hối hả gấp gáp hơn. Những tấm thiệp cưới đến dày đặc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.428901+07:00",
+      "fetched": "2026-01-18T11:35:21.429014+07:00"
+    },
+    {
+      "id": "02b3333963aefad77120bec552e94206",
+      "title": "Tết nội hay Tết ngoại: Học cách đi cùng nhau trọn vẹn mùa sum vầy",
+      "link": "https://tuoitre.vn/tet-noi-hay-tet-ngoai-hoc-cach-di-cung-nhau-tron-ven-mua-sum-vay-20260118093014557.htm",
+      "summary": "Cứ mỗi độ Tết về, câu hỏi \"Tết này về nội hay về ngoại?\" lại hiện lên trong nhiều gia đình trẻ như một phép thử âm thầm của yêu thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.428776+07:00",
+      "fetched": "2026-01-18T11:35:21.428890+07:00"
+    },
+    {
+      "id": "44db7b4ea067ea58a8bd30c5dd08fa87",
+      "title": "Pháp, Thụy Điển, Anh lên án đe dọa áp thuế của ông Trump vì Greenland",
+      "link": "https://tuoitre.vn/phap-thuy-dien-anh-len-an-de-doa-ap-thue-cua-ong-trump-vi-greenland-20260118101347509.htm",
+      "summary": "Anh nói lời đe dọa của ông Trump vì Greenland là sai lầm, trong khi Thụy Điển tuyên bố sẽ không bị hù dọa còn Pháp tuyên bố sẽ đáp trả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.428649+07:00",
+      "fetched": "2026-01-18T11:35:21.428765+07:00"
+    },
+    {
+      "id": "336fd14251b0b1c377523ade4b7b5c61",
+      "title": "Bộ Chính trị: Khắc phục triệt để tư tưởng bảo thủ, giáo điều trong nghiên cứu lý luận",
+      "link": "https://tuoitre.vn/bo-chinh-tri-khac-phuc-triet-de-tu-tuong-bao-thu-giao-dieu-trong-nghien-cuu-ly-luan-20260118095741264.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú ký ban hành kết luận 231 của Bộ Chính trị tiếp tục thực hiện nghị quyết 37/2014 của Bộ Chính trị khóa XI về \"Công tác lý luận và định hướng nghiên cứu đến năm 2030\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.428498+07:00",
+      "fetched": "2026-01-18T11:35:21.428635+07:00"
+    },
+    {
+      "id": "c10f8c1311f920f268874d78b159ea66",
+      "title": "Thời điểm vàng để cải cách",
+      "link": "https://tuoitre.vn/thoi-diem-vang-de-cai-cach-20260118000048566.htm",
+      "summary": "Khát vọng tiến bộ và niềm tin đang lan tỏa mạnh mẽ khắp Việt Nam. Sau hơn một năm thực hiện các sáng kiến chính sách táo bạo và những khoản đầu tư hạ tầng đột phá, Đại hội Đảng lần thứ XIV sắp tới sẽ đánh dấu bước ngoặt quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.428368+07:00",
+      "fetched": "2026-01-18T11:35:21.428486+07:00"
+    },
+    {
+      "id": "00b83c5f0c0077430a9f45a7c23c7334",
+      "title": "U23 Việt Nam: Nỗi lo 'bài tủ' bị hóa giải",
+      "link": "https://tuoitre.vn/u23-viet-nam-noi-lo-bai-tu-bi-hoa-giai-20260117233425035.htm",
+      "summary": "U23 Việt Nam cần có phương án B kể từ vòng bán kết Giải U23 châu Á 2026 sau khi \"bài tủ\" từ những tình huống phạt góc dường như đã bị đối thủ bắt bài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.428235+07:00",
+      "fetched": "2026-01-18T11:35:21.428356+07:00"
+    },
+    {
+      "id": "fafe6dc11cc3fd00a288099ef7ee315c",
+      "title": "Real Madrid cần một 'bố già' trên ghế HLV trưởng",
+      "link": "https://tuoitre.vn/real-madrid-can-mot-bo-gia-tren-ghe-hlv-truong-20260118001127147.htm",
+      "summary": "Trong những năm tháng thành công rực rỡ, Real Madrid đi trên một con đường không giống đội bóng nào khác. Và mỗi khi đi vào con đường tương tự những đội bóng khác, Real Madrid lại thất bại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.428081+07:00",
+      "fetched": "2026-01-18T11:35:21.428222+07:00"
+    },
+    {
+      "id": "67d53b6bdcbc8aee130a0226fea07ed8",
+      "title": "Hyundai Palisade có bản mới cho 'chủ tịch': Như Kia Carnival bản xịn nhất Việt Nam",
+      "link": "https://tuoitre.vn/hyundai-palisade-co-ban-moi-cho-chu-tich-nhu-kia-carnival-ban-xin-nhat-viet-nam-20260118075633369.htm",
+      "summary": "Những hình ảnh thực tế của Hyundai Palisade High Roof vừa xuất hiện, cho thấy phiên bản thương mại đã sẵn sàng ra mắt. Sở hữu thiết kế trần cao cùng nội thất hướng tới chuẩn VIP, mẫu xe được kỳ vọng trở thành “chuyên cơ mặt đất” mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T11:35:21.427849+07:00",
+      "fetched": "2026-01-18T11:35:21.428065+07:00"
+    },
     {
       "id": "b7325e15d8a2595dbda52c0a1c0b8217",
       "title": "Những sai lầm mà người nước ngoài dễ mắc phải tại Việt Nam",
@@ -251,6 +401,246 @@ window.newsData_2026_01_18 = {
       "category": "Tổng hợp",
       "published": "2026-01-18T08:06:29.261987+07:00",
       "fetched": "2026-01-18T08:06:29.262193+07:00"
+    },
+    {
+      "id": "b5772738d42caa00aa023b8c32487329",
+      "title": "Tiêu điểm quốc tế 18.1: Giám đốc CIA đến Venezuela | Ukraine cạn vũ khí phòng không?",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-181-giam-doc-cia-den-venezuela-ukraine-can-vu-khi-phong-khong-185260117225434841.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 18.1.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:34:00+07:00",
+      "fetched": "2026-01-18T11:35:20.675733+07:00"
+    },
+    {
+      "id": "10514d7f7adf3475159999472bffae13",
+      "title": "Indonesia phát hiện mảnh vỡ máy bay mất tích, chưa tìm thấy người",
+      "link": "https://thanhnien.vn/indonesia-phat-hien-manh-vo-may-bay-mat-tich-chua-tim-thay-nguoi-185260118111917456.htm",
+      "summary": "Lực lượng chức năng Indonesia đã tìm thấy xác chiếc máy bay giám sát bị mất tích tại tỉnh Nam Sulawesi nhưng chưa phát hiện tung tích của những người bên trên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:31:00+07:00",
+      "fetched": "2026-01-18T11:35:20.675904+07:00"
+    },
+    {
+      "id": "085aebd9f95dc84c05d13268dae56856",
+      "title": "Xem nhanh 12h: Khoảnh khắc CSGT mở đường cấp cứu | Vỉa hè trung tâm TP.HCM sau lễ ra quân cao điểm",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-khoanh-khac-csgt-mo-duong-cap-cuu-via-he-trung-tam-tphcm-sau-le-ra-quan-cao-diem-18526011811165665.htm",
+      "summary": "CSGT mở đường đưa người bệnh đi cấp cứu, tình trạng vỉa hè TP.HCM, giá vàng hôm nay… sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 18.1.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:20:00+07:00",
+      "fetched": "2026-01-18T11:35:20.676066+07:00"
+    },
+    {
+      "id": "5df6e30eb4c4ff6cf535c5d0f04b3618",
+      "title": "Ronaldo dúi đầu đối thủ ở Saudi Pro League",
+      "link": "https://vnexpress.net/ronaldo-dui-dau-doi-thu-o-saudi-pro-league-5006977.html",
+      "summary": "Cristiano Ronaldo có hành động ăn mừng quá khích với thủ môn Marcelo Grohe, trong trận Al Nassr thắng Al Shabab 3-2 ở vòng 16 Saudi Pro League tối 17/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-18T04:19:27+07:00",
+      "fetched": "2026-01-18T11:35:30.167612+07:00"
+    },
+    {
+      "id": "881c00531fbc2a96f2d4d6d9b7e84133",
+      "title": "Hà Anh Tuấn trình diễn thăng hoa cùng Hương Tràm, Nguyễn Hùng trong concert 'The Rose'",
+      "link": "https://thanhnien.vn/ha-anh-tuan-trinh-dien-thang-hoa-cung-huong-tram-nguyen-hung-trong-concert-the-rose-18526011811005923.htm",
+      "summary": "Trong concert The Rose tại Đà Lạt tối 17.1, khán giả đã được chiêm ngưỡng đóa hồng trọn vẹn nhất trong sự nghiệp của Hà Anh Tuấn. Nam ca sĩ đã thăng hoa cùng các nghệ sĩ khách mời Vũ., Vũ Cát Tường, Nguyễn Hùng và Hương Tràm qua 30 ca khúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:11:00+07:00",
+      "fetched": "2026-01-18T11:35:20.676226+07:00"
+    },
+    {
+      "id": "33b685f562a822dde9908105469b5681",
+      "title": "Từng thắng U.23 Trung Quốc nhờ Minh Phúc lập công, U.23 Việt Nam mong tái lập điều kỳ diệu",
+      "link": "https://thanhnien.vn/tung-thang-u23-trung-quoc-nho-minh-phuc-lap-cong-u23-viet-nam-mong-tai-lap-dieu-ky-dieu-185260118103504608.htm",
+      "summary": "Chỉ sau hơn 2 tháng, U.23 Việt Nam tái ngộ U.23 Trung Quốc ở bán kết giải U.23 châu Á 2026 với vị thế khác hẳn, sau những màn trình diễn cho thấy sự trưởng thành rõ rệt về bản lĩnh và lối chơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:09:00+07:00",
+      "fetched": "2026-01-18T11:35:20.676381+07:00"
+    },
+    {
+      "id": "da673ec089d37e35a1fec3c104cc5ad5",
+      "title": "Bộ Xây dựng ra thời hạn khởi công cao tốc Quảng Ngãi - Kon Tum",
+      "link": "https://thanhnien.vn/bo-xay-dung-ra-thoi-han-khoi-cong-cao-toc-quang-ngai-kon-tum-18526011808551311.htm",
+      "summary": "Bộ Xây dựng đề nghị tỉnh Quảng Ngãi đẩy nhanh các thủ tục đầu tư, triển khai giải phóng mặt bằng, phấn đấu khởi công dự án cao tốc Quảng Ngãi - Kon Tum có tổng vốn đầu tư 44.355 tỉ đồng vào ngày 19.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:07:00+07:00",
+      "fetched": "2026-01-18T11:35:20.676552+07:00"
+    },
+    {
+      "id": "b523c0bf164bfc869ae75c7c162aa212",
+      "title": "Việt Nam từng toàn thua Trung Quốc ở các trận chính thức U23",
+      "link": "https://vnexpress.net/viet-nam-tung-toan-thua-trung-quoc-o-cac-tran-chinh-thuc-u23-5006917.html",
+      "summary": "Thành tích đối đầu không đứng về phía Việt Nam, trước trận gặp Trung Quốc ở bán kết U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:05:29+07:00",
+      "fetched": "2026-01-18T11:35:17.584105+07:00"
+    },
+    {
+      "id": "b523c0bf164bfc869ae75c7c162aa212",
+      "title": "Việt Nam từng toàn thua Trung Quốc ở các trận chính thức U23",
+      "link": "https://vnexpress.net/viet-nam-tung-toan-thua-trung-quoc-o-cac-tran-chinh-thuc-u23-5006917.html",
+      "summary": "Thành tích đối đầu không đứng về phía Việt Nam, trước trận gặp Trung Quốc ở bán kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-18T04:05:29+07:00",
+      "fetched": "2026-01-18T11:35:30.167794+07:00"
+    },
+    {
+      "id": "8143002c7bf09c2acbecb197796ecbf3",
+      "title": "Tranh cãi việc ông Trump được tặng huy chương Nobel Hòa bình",
+      "link": "https://vnexpress.net/tranh-cai-viec-ong-trump-duoc-tang-huy-chuong-nobel-hoa-binh-5006672.html",
+      "summary": "Việc lãnh đạo đối lập Venezuela tặng huy chương Nobel Hòa bình cho Tổng thống Trump gây tranh cãi khi làm dấy lên lo ngại giải thưởng bị chính trị hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:02:54+07:00",
+      "fetched": "2026-01-18T11:35:17.584283+07:00"
+    },
+    {
+      "id": "8143002c7bf09c2acbecb197796ecbf3",
+      "title": "Tranh cãi việc ông Trump được tặng huy chương Nobel Hòa bình",
+      "link": "https://vnexpress.net/tranh-cai-viec-ong-trump-duoc-tang-huy-chuong-nobel-hoa-binh-5006672.html",
+      "summary": "Việc lãnh đạo đối lập Venezuela tặng huy chương Nobel Hòa bình cho Tổng thống Trump gây tranh cãi khi làm dấy lên lo ngại giải thưởng bị chính trị hóa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-18T04:02:54+07:00",
+      "fetched": "2026-01-18T11:35:23.245249+07:00"
+    },
+    {
+      "id": "b5fadbd548eae130b99ff84b611cc3c0",
+      "title": "Các ngân hàng Trung Quốc tung sản phẩm tiền gửi gắn với vàng",
+      "link": "https://vnexpress.net/cac-ngan-hang-trung-quoc-tung-san-pham-tien-gui-gan-voi-vang-5006983.html",
+      "summary": "Ngày càng nhiều ngân hàng tại Trung Quốc tung sản phẩm tiền gửi cấu trúc gắn với giá vàng nhằm thu hút nhà đầu tư kỳ vọng lợi suất cao hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:01:10+07:00",
+      "fetched": "2026-01-18T11:35:17.584450+07:00"
+    },
+    {
+      "id": "ffb1ea7198756aaff328986f24c80122",
+      "title": "Nhìn lại một năm khi tôi lương 25 triệu, mỗi ngày xài 150 nghìn đồng",
+      "link": "https://vnexpress.net/nhin-lai-mot-nam-khi-toi-luong-25-trieu-moi-ngay-xai-150-nghin-dong-5006930.html",
+      "summary": "Với tiền mặt thì tôi chi tiêu tiết kiệm từng đồng, còn những dịch vụ thanh toán online thì không thấy xót.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:00:00+07:00",
+      "fetched": "2026-01-18T11:35:17.584632+07:00"
+    },
+    {
+      "id": "62090a2deebb4f0ffc6dd381101c52e6",
+      "title": "Chuyến đi cuối cùng của người mẹ ung thư đến Thụy Sĩ an tử",
+      "link": "https://vnexpress.net/chuyen-di-cuoi-cung-cua-nguoi-me-ung-thu-den-thuy-si-an-tu-5006914.html",
+      "summary": "Mayumi, một người mẹ Nhật Bản 44 tuổi, lặng lẽ chuẩn bị từng tấm thiệp sinh nhật, quay video động viên các con trước khi tự ấn nút tiêm trợ tử, khép lại cuộc đời tại Thụy Sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:00:00+07:00",
+      "fetched": "2026-01-18T11:35:17.584799+07:00"
+    },
+    {
+      "id": "35fedba4cb72000f44b23e7c99c4f005",
+      "title": "Nguyên nhân ít ngờ gây viêm phổi",
+      "link": "https://vnexpress.net/nguyen-nhan-it-ngo-gay-viem-phoi-5006770.html",
+      "summary": "Vệ sinh răng miệng kém, thiếu ngủ, căng thẳng mạn tính, uống nhiều rượu và thường xuyên tiếp xúc với không khí ô nhiễm đều làm tăng nguy cơ mắc bệnh phổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:00:00+07:00",
+      "fetched": "2026-01-18T11:35:17.584964+07:00"
+    },
+    {
+      "id": "79e28ceec2880ecf3e5e0ebf5c575592",
+      "title": "Nữ bí thư xã livestream 'giải cứu' hoa giúp nhà vườn",
+      "link": "https://vnexpress.net/nu-bi-thu-xa-livestream-giai-cuu-hoa-giup-nha-vuon-5006858.html",
+      "summary": "Bí thư xã Chợ Lách Lê Thị Hoàng Oanh tham gia livestream bán hoa cùng nông dân trong bối cảnh nhiều diện tích cúc mâm xôi bán chậm do nở sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T03:55:58+07:00",
+      "fetched": "2026-01-18T11:35:17.585117+07:00"
+    },
+    {
+      "id": "8605331bef0aad28417e72299828d18a",
+      "title": "Miền Bắc sắp đón đợt không khí lạnh cường độ mạnh",
+      "link": "https://vnexpress.net/mien-bac-sap-don-dot-khong-khi-lanh-cuong-do-manh-5006988.html",
+      "summary": "Hai ngày tới, Bắc Bộ duy trì tình trạng sương mù nhẹ trước khi đón đợt không khí lạnh cường độ mạnh gây rét đậm, rét hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T03:53:52+07:00",
+      "fetched": "2026-01-18T11:35:17.585274+07:00"
+    },
+    {
+      "id": "765527d7a2688dc1066f24a3e56e64fe",
+      "title": "Juky San - Gen Z 'phá kén' sau 7 năm ca hát",
+      "link": "https://vnexpress.net/juky-san-gen-z-pha-ken-sau-7-nam-ca-hat-5006117.html",
+      "summary": "Juky San, 28 tuổi, nỗ lực thoát mác \"hiện tượng cover\" để được công nhận là ca sĩ thực lực thông qua loạt sản phẩm đa màu sắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T03:53:34+07:00",
+      "fetched": "2026-01-18T11:35:17.585427+07:00"
+    },
+    {
+      "id": "383df9bc9a1cafff1334cdb1de9aa5ba",
+      "title": "Cẩn trọng khi sử dụng Wi-Fi miễn phí tại khách sạn",
+      "link": "https://thanhnien.vn/can-trong-khi-su-dung-wi-fi-mien-phi-tai-khach-san-185260115091944626.htm",
+      "summary": "Sau một ngày dài di chuyển, nhiều người thường có thói quen kiểm tra tin nhắn và mạng xã hội ngay khi về đến khách sạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T03:53:00+07:00",
+      "fetched": "2026-01-18T11:35:20.676704+07:00"
+    },
+    {
+      "id": "ec5f1bac5a5cabb6ca79a75b4570f700",
+      "title": "Cao tốc Cam Lâm – Vĩnh Hảo ùn tắc sau cháy xe tải",
+      "link": "https://vnexpress.net/cao-toc-cam-lam-vinh-hao-un-tac-sau-chay-xe-tai-5006993.html",
+      "summary": "Xe tải chạy trên cao tốc Cam Lâm – Vĩnh Hảo bốc cháy dữ dội khi qua địa phận xã Phước Hà (Ninh Thuận cũ), gây kẹt xe hơn một km, sáng 18/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T03:48:26+07:00",
+      "fetched": "2026-01-18T11:35:17.585611+07:00"
+    },
+    {
+      "id": "0a4619d726f376a7b3dd75d61f50e617",
+      "title": "Vì sao smartphone không dùng vẫn hao pin?",
+      "link": "https://thanhnien.vn/vi-sao-smartphone-khong-dung-van-hao-pin-185260117153952066.htm",
+      "summary": "Việc pin smartphone hao nhanh trong quá trình sử dụng là điều bình thường, đặc biệt là do màn hình tiêu tốn nhiều năng lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T03:48:00+07:00",
+      "fetched": "2026-01-18T11:35:20.676853+07:00"
+    },
+    {
+      "id": "ae1bf0a835abf44cbb86a27860b1ff59",
+      "title": "Ben Affleck không muốn các con nối nghiệp diễn",
+      "link": "https://vnexpress.net/ben-affleck-khong-muon-cac-con-noi-nghiep-dien-5006953.html",
+      "summary": "Ben Affleck muốn ba con chung với vợ cũ - diễn viên Jennifer Garner - tự quyết định bản thân muốn làm gì thay vì theo nghề của bố mẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T03:41:30+07:00",
+      "fetched": "2026-01-18T11:35:17.585771+07:00"
+    },
+    {
+      "id": "f699d3eb44ca7b771e606ef99d69b671",
+      "title": "Huỳnh Lập lên tiếng về tin đồn bị bắt vì dùng chất cấm",
+      "link": "https://thanhnien.vn/huynh-lap-len-tieng-ve-tin-don-bi-bat-vi-dung-chat-cam-185260118102136275.htm",
+      "summary": "Trước những tin đồn thất thiệt ảnh hưởng đến mình, diễn viên Huỳnh Lập chọn lên tiếng làm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T03:38:00+07:00",
+      "fetched": "2026-01-18T11:35:20.677003+07:00"
+    },
+    {
+      "id": "a0718e6934ae996176b3f815d41b1912",
+      "title": "Một nhiệm kỳ 'nói cho dân hiểu, làm cho dân tin'",
+      "link": "https://thanhnien.vn/mot-nhiem-ky-noi-cho-dan-hieu-lam-cho-dan-tin-185260117214357213.htm",
+      "summary": "Nhiệm kỳ Đại hội XIII là một nhiệm kỳ đặc biệt với ngành tuyên giáo và dân vận, không chỉ bởi khối lượng công việc rất lớn, mà bởi mức độ phức tạp, nhạy cảm và chưa từng có tiền lệ của bối cảnh trong nước và quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T03:29:00+07:00",
+      "fetched": "2026-01-18T11:35:20.677156+07:00"
     },
     {
       "id": "6762a71963efa20f1dc17cd2294a7ee2",
@@ -1371,6 +1761,16 @@ window.newsData_2026_01_18 = {
       "category": "Thể thao",
       "published": "2026-01-17T20:26:05+07:00",
       "fetched": "2026-01-18T05:11:56.612469+07:00"
+    },
+    {
+      "id": "d36eb93e1b07caee1f9489614b05ee7f",
+      "title": "Arsenal lại lỡ cơ hội bỏ xa Man City",
+      "link": "https://vnexpress.net/arsenal-lai-lo-co-hoi-bo-xa-man-city-5006920.html",
+      "summary": "Sau khi Man City sảy chân, đầu bảng Arsenal đứng trước cơ hội nới rộng khoảng cách lên 9 điểm, nhưng bị chủ nhà Nottingham Forest cầm hòa 0-0 ở vòng 22 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-17T20:26:05+07:00",
+      "fetched": "2026-01-18T11:35:30.168277+07:00"
     },
     {
       "id": "eb76f722c77d7afc9a380c690620f68c",
