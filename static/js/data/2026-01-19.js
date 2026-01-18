@@ -1,6 +1,6 @@
 window.newsData_2026_01_19 = {
   "date": "2026-01-19",
-  "lastUpdated": "2026-01-19T01:16:52.925987+07:00",
+  "lastUpdated": "2026-01-19T03:14:04.128040+07:00",
   "articles": [
     {
       "id": "f8ee6340107d97766d982d0caa54f192",
@@ -151,6 +151,16 @@ window.newsData_2026_01_19 = {
       "category": "Tổng hợp",
       "published": "2026-01-19T01:16:44.482853+07:00",
       "fetched": "2026-01-19T01:16:44.483069+07:00"
+    },
+    {
+      "id": "dadc88a06ca9eadf6fec8eb9c502571b",
+      "title": "10 lợi ích sức khỏe khi ăn quả lựu",
+      "link": "https://vnexpress.net/10-loi-ich-suc-khoe-khi-an-qua-luu-5006798.html",
+      "summary": "Quả lựu ít calo và chất béo nhưng giàu chất xơ, vitamin, khoáng chất cùng chất chống oxy hóa, tốt cho tim, não, tăng sức bền khi tập luyện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T18:00:00+07:00",
+      "fetched": "2026-01-19T03:13:51.712068+07:00"
     },
     {
       "id": "383dd1a192d4c2f09aa3a2b8fb154eb4",
