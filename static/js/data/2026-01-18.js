@@ -1,7 +1,157 @@
 window.newsData_2026_01_18 = {
   "date": "2026-01-18",
-  "lastUpdated": "2026-01-18T15:16:26.800829+07:00",
+  "lastUpdated": "2026-01-18T17:12:58.799816+07:00",
   "articles": [
+    {
+      "id": "78c22e1618597d763e950f7f4e94f5db",
+      "title": "Thủ môn Trung Quốc tiết lộ chiêu trò, cười nhạo Uzbekistan",
+      "link": "https://tuoitre.vn/thu-mon-trung-quoc-tiet-lo-chieu-tro-cuoi-nhao-uzbekistan-20260118143759783.htm",
+      "summary": "Thủ thành Li Hao của U23 Trung Quốc mới đây đã lên tiếng tiết lộ sự thật về chiêu trò tâm lý mà anh sử dụng trong trận thắng Uzbekistan ở tứ kết Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.616068+07:00",
+      "fetched": "2026-01-18T17:12:52.616166+07:00"
+    },
+    {
+      "id": "bcf95c77893140f4d3abf06905457dea",
+      "title": "Nicole Kidman mãi mãi là nữ hoàng quyến rũ của Hollywood",
+      "link": "https://tuoitre.vn/nicole-kidman-mai-mai-la-nu-hoang-quyen-ru-cua-hollywood-20260118142606754.htm",
+      "summary": "Trong suốt ba thập kỷ qua, Nicole Kidman luôn khiến công chúng phải ngoái nhìn trên thảm đỏ với những gu ăn mặc táo bạo, không phong cách nào là cô chưa từng thử qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.615960+07:00",
+      "fetched": "2026-01-18T17:12:52.616059+07:00"
+    },
+    {
+      "id": "eb699a116afd252738b642615ae298dc",
+      "title": "Thủ tướng: Ngoại giao kinh tế chuyển mình mạnh mẽ vì sự phát triển hùng cường của dân tộc",
+      "link": "https://tuoitre.vn/thu-tuong-ngoai-giao-kinh-te-chuyen-minh-manh-me-vi-su-phat-trien-hung-cuong-cua-dan-toc-2026011813591961.htm",
+      "summary": "Tuổi Trẻ Online trân trọng giới thiệu bài viết của Thủ tướng Chính phủ Phạm Minh Chính với tiêu đề ''Ngoại giao kinh tế chuyển mình mạnh mẽ vì sự phát triển hùng cường của dân tộc\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.615853+07:00",
+      "fetched": "2026-01-18T17:12:52.615950+07:00"
+    },
+    {
+      "id": "338d3291b4fb30e9a73d97b49d66dea9",
+      "title": "Bán hàng trên Shopee, TikTok: Hộ kinh doanh có phải xuất hóa đơn?",
+      "link": "https://tuoitre.vn/ban-hang-tren-shopee-tiktok-ho-kinh-doanh-co-phai-xuat-hoa-don-20260118151619913.htm",
+      "summary": "Một trong những băn khoăn lớn nhất của hộ kinh doanh, cá nhân bán hàng trên sàn thương mại điện tử hiện nay là có phải xuất hóa đơn điện tử hay không và ai là người xuất?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.615732+07:00",
+      "fetched": "2026-01-18T17:12:52.615844+07:00"
+    },
+    {
+      "id": "dbfd99390ca0f68d62d1834f3fc87093",
+      "title": "Saudi Arabia đang sở hữu nền y tế ‘đến từ tương lai’",
+      "link": "https://tuoitre.vn/saudi-arabia-dang-so-huu-nen-y-te-den-tu-tuong-lai-20260118153136995.htm",
+      "summary": "Đó là nhận định của phóng viên tạp chí Fast Company khi chứng kiến những gì Saudi Arabia có thể làm với một cơ sở hạ tầng y tế ứng dụng hệ thống trí tuệ nhân tạo (AI).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.615622+07:00",
+      "fetched": "2026-01-18T17:12:52.615723+07:00"
+    },
+    {
+      "id": "a75d97d2f6bcc3c5269160867e5ea516",
+      "title": "Nghiên cứu của Chính phủ Anh không khẳng định màn hình gây hại khả năng nói của trẻ nhỏ",
+      "link": "https://tuoitre.vn/nghien-cuu-cua-chinh-phu-anh-khong-khang-dinh-man-hinh-gay-hai-kha-nang-noi-cua-tre-nho-20260116133141386.htm",
+      "summary": "Nghiên cứu mới của Chính phủ Anh bị một số tờ báo diễn giải quá mức khi cho rằng trẻ nhỏ dùng nhiều màn hình sẽ “làm tổn hại” khả năng ngôn ngữ, trong khi thực tế nghiên cứu này chỉ ghi nhận mối liên hệ chứ không chứng minh quan hệ nhân quả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.615516+07:00",
+      "fetched": "2026-01-18T17:12:52.615613+07:00"
+    },
+    {
+      "id": "9517b0148e02ff7c81fd66482de5abe4",
+      "title": "Trend 'nhìn lại 2016' là gì mà nhiều người rần rần đu theo trên mạng xã hội?",
+      "link": "https://tuoitre.vn/trend-nhin-lai-2016-la-gi-ma-nhieu-nguoi-ran-ran-du-theo-tren-mang-xa-hoi-20260118151536183.htm",
+      "summary": "Mạng xã hội gần đây lan rộng trào lưu chia sẻ lại hình ảnh, video và ký ức từ năm 2016, phản ánh tâm lý hoài niệm cùng những thay đổi trong đời sống số và văn hóa đại chúng sau một thập kỷ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.615408+07:00",
+      "fetched": "2026-01-18T17:12:52.615507+07:00"
+    },
+    {
+      "id": "e350922e20203e5df64ff14759aa0288",
+      "title": "Truyền thông Trung Quốc cảnh báo đội nhà 3 điều đáng ngại khi gặp U23 Việt Nam",
+      "link": "https://tuoitre.vn/truyen-thong-trung-quoc-canh-bao-doi-nha-3-dieu-dang-ngai-khi-gap-u23-viet-nam-20260118153111279.htm",
+      "summary": "Đánh giá rất cao sức mạnh của U23 Việt Nam, tờ Sohu vừa chỉ ra 3 bất lợi lớn mà U23 Trung Quốc đang phải đối mặt trước trận bán kết Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.615300+07:00",
+      "fetched": "2026-01-18T17:12:52.615398+07:00"
+    },
+    {
+      "id": "b24728739b47a2eb46d3d372a41d706b",
+      "title": "Cổ phiếu nào thực sự 'đông người chơi' nhất sàn chứng khoán năm 2025?",
+      "link": "https://tuoitre.vn/co-phieu-nao-thuc-su-dong-nguoi-choi-nhat-san-chung-khoan-nam-2025-20260118154222907.htm",
+      "summary": "Trên thị trường chứng khoán, không ít nhà đầu tư vẫn nhầm lẫn giữa khối lượng giao dịch (volume - vol) và thanh khoản. Hai khái niệm này có liên quan chặt chẽ, nhưng phản ánh hai lát cắt khác nhau của dòng tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.615192+07:00",
+      "fetched": "2026-01-18T17:12:52.615291+07:00"
+    },
+    {
+      "id": "ba29e30256310adb002cc5d1fdd2a413",
+      "title": "TP.HCM sẽ mở rộng bay thử UAV giao hàng với kịch bản mưa, gió mạnh",
+      "link": "https://tuoitre.vn/tp-hcm-se-mo-rong-bay-thu-uav-giao-hang-voi-kich-ban-mua-gio-manh-20260118154224046.htm",
+      "summary": "TP.HCM sẽ tiếp tục mở rộng bay thử nghiệm UAV giao hàng với chặng bay dài hơn, đồng thời triển khai các kịch bản vận hành phức tạp như bay trong mưa, gió mạnh, mất tín hiệu điều khiển và sự cố kỹ thuật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.615081+07:00",
+      "fetched": "2026-01-18T17:12:52.615182+07:00"
+    },
+    {
+      "id": "f3b5b3ebbba2469d7aa587781223d02b",
+      "title": "Nhà di động Mitsubishi ngắn hơn cả Kia Morning: Nhỏ, chưa nổi 70 mã lực nhưng vẫn dã ngoại tốt",
+      "link": "https://tuoitre.vn/nha-di-dong-mitsubishi-ngan-hon-ca-kia-morning-nho-chua-noi-70-ma-luc-nhung-van-da-ngoai-tot-20260118112856271.htm",
+      "summary": "Nhà di động cỡ nhỏ Mitsubishi Delica Mini Camper được trang bị lều bật trên nóc, hệ dẫn động 4 bánh và nhiều nâng cấp off-road, hướng đến những người yêu thích du lịch tối giản và khám phá thiên nhiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.614970+07:00",
+      "fetched": "2026-01-18T17:12:52.615071+07:00"
+    },
+    {
+      "id": "83962bf5b6300b2246f7a7b78af32f18",
+      "title": "Lồng bè nuôi thủy sản 'tạm trú' kéo dài lấn luồng hàng hải cảng Dung Quất",
+      "link": "https://tuoitre.vn/long-be-nuoi-thuy-san-tam-tru-keo-dai-lan-luong-hang-hai-cang-dung-quat-20260118155200022.htm",
+      "summary": "Vào mùa mưa bão, nhiều lồng bè nuôi thủy sản được kéo vào tránh trú trong vùng nước cảng Dung Quất. Tuy nhiên, việc \"tạm trú\" kéo dài đang lấn chiếm luồng tàu, tiềm ẩn nguy cơ mất an toàn hàng hải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.614848+07:00",
+      "fetched": "2026-01-18T17:12:52.614960+07:00"
+    },
+    {
+      "id": "8e366b223e785ad0de92552452901edd",
+      "title": "Nhạc phim K-pop Demon Hunters lại nhận giải thưởng lớn tại Mỹ sau Quả cầu vàng",
+      "link": "https://tuoitre.vn/nhac-phim-k-pop-demon-hunters-lai-nhan-giai-thuong-lon-tai-my-sau-qua-cau-vang-20260118155441606.htm",
+      "summary": "Theo EJAE, ca khúc Golden của K-Pop Demon Hunters được viết ra từ giai đoạn u tối nhất trong cuộc đời cô, khi âm nhạc trở thành cách duy nhất để đối diện và chữa lành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.614722+07:00",
+      "fetched": "2026-01-18T17:12:52.614838+07:00"
+    },
+    {
+      "id": "4fe9c6de6f81856a56644763d6c88e0e",
+      "title": "Katy Perry và Justin Trudeau bị nghi lợi dụng chuyện hẹn hò để kinh doanh",
+      "link": "https://tuoitre.vn/katy-perry-va-justin-trudeau-bi-nghi-loi-dung-chuyen-hen-ho-de-kinh-doanh-20260118155025692.htm",
+      "summary": "Những đồn đoán gần đây cho rằng Katy Perry đang hưởng lợi từ mối quan hệ tình cảm mới với cựu Thủ tướng Canada Justin Trudeau đang gây xôn xao dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.614602+07:00",
+      "fetched": "2026-01-18T17:12:52.614712+07:00"
+    },
+    {
+      "id": "76e546d8d4aaebfeccc978794fb22bcf",
+      "title": "Hàng trăm ngàn chậu cúc Tết ở Quảng Ngãi được mua sạch từ khi còn 'ngậm nụ'",
+      "link": "https://tuoitre.vn/hang-tram-ngan-chau-cuc-tet-o-quang-ngai-duoc-mua-sach-tu-khi-con-ngam-nu-20260118103949259.htm",
+      "summary": "Khác với không khí trầm lắng của năm ngoái khi nông dân thấp thỏm lo đầu ra, vụ hoa Tết năm nay ở làng hoa Nghĩa Hiệp (Quảng Ngãi) đã được thương lái đặt cọc mua gần hết dù Tết còn xa và hoa vẫn ngậm nụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T17:12:52.614383+07:00",
+      "fetched": "2026-01-18T17:12:52.614589+07:00"
+    },
     {
       "id": "de0443b4449d9a5f3bab47c872f59fe4",
       "title": "TP.HCM yêu cầu cơ sở đăng kiểm chuẩn bị mặt bằng, thiết bị để kiểm tra khí thải xe máy",
@@ -603,6 +753,296 @@ window.newsData_2026_01_18 = {
       "fetched": "2026-01-18T10:29:02.333599+07:00"
     },
     {
+      "id": "519bdb836f67cce0b6caa7ac3a0a6c37",
+      "title": "Nữ ca sĩ đọ giọng với Đông Nhi trong ca khúc nhạc tết là ai?",
+      "link": "https://thanhnien.vn/nu-ca-si-do-giong-voi-dong-nhi-trong-ca-khuc-nhac-tet-la-ai-185260118161201337.htm",
+      "summary": "Phùng Khánh Linh không giấu được niềm hạnh phúc khi lần đầu được song ca cùng thần tượng là ca sĩ Đông Nhi trên sân khấu lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T10:11:00+07:00",
+      "fetched": "2026-01-18T17:12:51.379378+07:00"
+    },
+    {
+      "id": "4cf0bf75fe90eeffd1abb24467d06a29",
+      "title": "Thủ tướng: Ngoại giao kinh tế 'dẫn lối, mở đường' cho đất nước",
+      "link": "https://vnexpress.net/thu-tuong-ngoai-giao-kinh-te-dan-loi-mo-duong-cho-dat-nuoc-5007048.html",
+      "summary": "Thủ tướng Phạm Minh Chính cho rằng ngoại giao kinh tế có vai trò quan trọng trong thu hút nguồn lực, giúp tạo đột phá về tăng trưởng, phát triển cho đất nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-18T10:04:08+07:00",
+      "fetched": "2026-01-18T17:12:53.881841+07:00"
+    },
+    {
+      "id": "50a40f5c410589b6ec92f95675bdc3ea",
+      "title": "Tuổi trẻ Đà Nẵng hưởng ứng các hoạt động chào mừng Đại hội Đảng toàn quốc",
+      "link": "https://thanhnien.vn/tuoi-tre-da-nang-huong-ung-cac-hoat-dong-chao-mung-dai-hoi-dang-toan-quoc-185260118163150581.htm",
+      "summary": "Tuổi trẻ TP.Đà Nẵng đã đồng loạt ra quân với hàng loạt công trình, phần việc thiết thực hướng tới Đại hội đại biểu toàn quốc lần thứ XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T10:03:00+07:00",
+      "fetched": "2026-01-18T17:12:51.379526+07:00"
+    },
+    {
+      "id": "462561754e3f98a291899a746274c242",
+      "title": "Toàn cảnh 17h: Cháy lớn trong hẻm, cư dân hoảng loạn | Chiêm ngưỡng cây quất hình con ngựa giá chục triệu",
+      "link": "https://thanhnien.vn/toan-canh-17h-chay-lon-trong-hem-cu-dan-hoang-loan-chiem-nguong-cay-quat-hinh-con-ngua-gia-chuc-trieu-185260118161223414.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T10:00:00+07:00",
+      "fetched": "2026-01-18T17:12:51.379661+07:00"
+    },
+    {
+      "id": "052497b2587bfa875060a700a68c8865",
+      "title": "Hội Xuân núi Bà Đen sẽ khai mạc vào mùng 4 tháng giêng",
+      "link": "https://thanhnien.vn/hoi-xuan-nui-ba-den-se-khai-mac-vao-mung-4-thang-gieng-185260118151304813.htm",
+      "summary": "Lễ khai mạc Hội Xuân núi Bà Đen dự kiến diễn ra vào mùng 4 tháng giêng âm lịch, với nhiều chương trình nghệ thuật hấp dẫn và bắn pháo hoa tầm cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:55:00+07:00",
+      "fetched": "2026-01-18T17:12:51.379803+07:00"
+    },
+    {
+      "id": "b590f0f6eca8437fb35332e95065ca1a",
+      "title": "Gia Lai ‘mở hàng’ đầu năm với loạt dự án hơn 27.400 tỉ đồng",
+      "link": "https://thanhnien.vn/gia-lai-mo-hang-dau-nam-voi-loat-du-an-hon-27400-ti-dong-185260118104911846.htm",
+      "summary": "Chỉ trong những tuần đầu năm 2026, Gia Lai đã bứt phá mạnh mẽ khi thu hút thành công 26 dự án mới với tổng vốn đăng ký vượt mốc 27.400 tỉ đồng, trọng tâm là các dự án điện gió.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:55:00+07:00",
+      "fetched": "2026-01-18T17:12:51.379934+07:00"
+    },
+    {
+      "id": "a57c12fee0c24f9b088c50da78fcd23f",
+      "title": "Khai mạc khu vực Duyên hải miền Trung: Lan tỏa không chỉ tình yêu bóng đá...",
+      "link": "https://thanhnien.vn/khai-mac-khu-vuc-duyen-hai-mien-trung-lan-toa-khong-chi-tinh-yeu-bong-da-185260118112544365.htm",
+      "summary": "Chiều nay (18.1), vòng loại khu vực Duyên hải miền Trung (bảng B) giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO cup 2026) chính thức khai mạc tại sân vận động Quân khu 5 (TP.Đà Nẵng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:51:00+07:00",
+      "fetched": "2026-01-18T17:12:51.380068+07:00"
+    },
+    {
+      "id": "a67bc9b19c07e88f3df3a00cf1e4038a",
+      "title": "Bồn cầu tối tân có thể kiểm tra sức khỏe người dùng?",
+      "link": "https://thanhnien.vn/bon-cau-toi-tan-co-the-kiem-tra-suc-khoe-nguoi-dung-185260118163805195.htm",
+      "summary": "Các nhà sản xuất bồn cầu Nhật Bản mới đây đã đưa công nghệ phân tích phân mới vào sản phẩm của mình nhằm thu hút người tiêu dùng quan tâm đến sức khỏe, theo Kyodo News ngày 18.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:44:00+07:00",
+      "fetched": "2026-01-18T17:12:51.380195+07:00"
+    },
+    {
+      "id": "5ba40ca36cef86c3823a013d9b71e147",
+      "title": "Trung Quốc theo dõi tàu hải quân Mỹ qua eo biển Đài Loan lần đầu trong năm 2026",
+      "link": "https://thanhnien.vn/trung-quoc-theo-doi-tau-hai-quan-my-qua-eo-bien-dai-loan-lan-dau-trong-nam-2026-185260118152706185.htm",
+      "summary": "Theo Tân Hoa xã dẫn thông cáo báo chí từ Chiến khu Đông bộ của Quân Giải phóng Nhân dân Trung Quốc (PLA), tàu khu trục mang tên lửa dẫn đường lớp Arleigh Burke USS John Finn và tàu khảo sát hải dương USNS Mary Sears của Hải quân Mỹ đã đi qua eo biển Đài Loan trong khoảng thời gian từ ngày 16-17.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:36:00+07:00",
+      "fetched": "2026-01-18T17:12:51.380322+07:00"
+    },
+    {
+      "id": "88ba9617b7d29cf704ae85dd4724124d",
+      "title": "Cây quất tạo hình ngựa giá 30 triệu đồng, mất 7 năm trồng tại Hà Nội",
+      "link": "https://thanhnien.vn/cay-quat-tao-hinh-ngua-gia-30-trieu-dong-mat-7-nam-trong-tai-ha-noi-185260118145349257.htm",
+      "summary": "Cây quất hình con ngựa tại nhà vườn ở Tứ Liên (phường Hồng Hà, Hà Nội) khiến người dân thích thú thời gian qua đã được bán với giá 30 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:35:00+07:00",
+      "fetched": "2026-01-18T17:12:51.380449+07:00"
+    },
+    {
+      "id": "51da7e4ecc5e9e65108ff3f68d55bd4a",
+      "title": "PSG nẫng tài năng của Barca",
+      "link": "https://vnexpress.net/psg-nang-tai-nang-cua-barca-5006997.html",
+      "summary": "Barca bất lực nhìn tiền vệ Dro Fernandez, 18 tuổi và mẹ là người Philippines, gia nhập nhà đương kim vô địch Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:29:23+07:00",
+      "fetched": "2026-01-18T17:12:48.333320+07:00"
+    },
+    {
+      "id": "51da7e4ecc5e9e65108ff3f68d55bd4a",
+      "title": "PSG nẫng tài năng của Barca",
+      "link": "https://vnexpress.net/psg-nang-tai-nang-cua-barca-5006997.html",
+      "summary": "Barca bất lực nhìn tiền vệ Dro Fernandez, 18 tuổi và mẹ là người Philippines, gia nhập nhà đương kim vô địch Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-18T09:29:23+07:00",
+      "fetched": "2026-01-18T17:12:58.790981+07:00"
+    },
+    {
+      "id": "117f578312ffb09612ca43cee9a1f42f",
+      "title": "Gần 300 nền đất tại dự án Dragon Eden đã có chủ ngay trong ngày mở bán",
+      "link": "https://thanhnien.vn/gan-300-nen-dat-tai-du-an-dragon-eden-da-co-chu-ngay-trong-ngay-mo-ban-185260118161809775.htm",
+      "summary": "Ngày 18.1, Công ty cổ phần Tandoland đã phối hợp cùng Công ty cổ phần Mai Bá Hương mở bán phân khu Dragon Park thuộc dự án Dragon Eden và gần 300 nền đất đã được khách hàng đặt mua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:27:00+07:00",
+      "fetched": "2026-01-18T17:12:51.380577+07:00"
+    },
+    {
+      "id": "294afa90011fb386d0f398f7c328103b",
+      "title": "Đi chợ cây độc lạ: Đủ loại cây giá chỉ vài ngàn đồng",
+      "link": "https://thanhnien.vn/di-cho-cay-doc-la-du-loai-cay-gia-chi-vai-ngan-dong-185260118150134688.htm",
+      "summary": "Cận tết, chợ cây độc lạ với nhiều cây giá rẻ như cho tại TP.HCM thu hút đông người ghé thăm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:27:00+07:00",
+      "fetched": "2026-01-18T17:12:51.380705+07:00"
+    },
+    {
+      "id": "2fd36013d8bfd84d80b245c53e124c1e",
+      "title": "Tài sản của Elon Musk tiến gần mốc 800 tỷ USD",
+      "link": "https://vnexpress.net/tai-san-cua-elon-musk-tien-gan-moc-800-ty-usd-5007049.html",
+      "summary": "CEO hãng xe điện Tesla Elon Musk đang ngày càng tiến gần tới việc trở thành người đầu tiên trong lịch sử sở hữu khối tài sản 800 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:25:00+07:00",
+      "fetched": "2026-01-18T17:12:48.333476+07:00"
+    },
+    {
+      "id": "2fd36013d8bfd84d80b245c53e124c1e",
+      "title": "Tài sản của Elon Musk tiến gần mốc 800 tỷ USD",
+      "link": "https://vnexpress.net/tai-san-cua-elon-musk-tien-gan-moc-800-ty-usd-5007049.html",
+      "summary": "CEO hãng xe điện Tesla Elon Musk đang ngày càng tiến gần tới việc trở thành người đầu tiên trong lịch sử sở hữu khối tài sản 800 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-18T09:25:00+07:00",
+      "fetched": "2026-01-18T17:12:55.185509+07:00"
+    },
+    {
+      "id": "4c0f90f5366ed2b7eca5a3f84408ed9c",
+      "title": "Lý do thịt luộc bị khô bở, xỉn màu",
+      "link": "https://vnexpress.net/ly-do-thit-luoc-bi-kho-bo-xin-mau-5007037.html",
+      "summary": "Luộc thịt tưởng đơn giản nhưng nếu không biết cách dễ bị khô bã, xỉn màu, kém vị. Miếng thịt luộc ngon cần đạt độ mềm, giữ vị ngọt tự nhiên và có màu sắc sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:13:13+07:00",
+      "fetched": "2026-01-18T17:12:48.333619+07:00"
+    },
+    {
+      "id": "be094187e1a9f06ecb0e0f39aa827fcb",
+      "title": "Đường dây cá độ bóng đá giao dịch 1.200 tỷ đồng bị phát hiện",
+      "link": "https://vnexpress.net/duong-day-ca-do-bong-da-1-200-ty-dong-5007050.html",
+      "summary": "Nguyễn Huy Việt (tức Việt 'Bài') bị cáo buộc có vai trò như một tổng đại lý, chia nhỏ mạng lưới cho các con bạc cá độ với tổng tiền giao dịch 1.200 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:11:34+07:00",
+      "fetched": "2026-01-18T17:12:48.333778+07:00"
+    },
+    {
+      "id": "9e30897b1c1a4978e4bdcfc402928ef8",
+      "title": "Thủ môn U.23 Trung Quốc hé lộ bí kíp bắt luân lưu, hàng công Việt Nam phải ‘lấy giấy bút’ ra ghi",
+      "link": "https://thanhnien.vn/thu-mon-u23-trung-quoc-he-lo-bi-kip-bat-luan-luu-hang-cong-viet-nam-phai-lay-giay-but-ra-ghi-185260118160114812.htm",
+      "summary": "Thủ môn Li Hao trở thành người hùng của U.23 Trung Quốc khi trực tiếp góp công quyết định trong loạt sút luân lưu trước U.23 Uzbekistan. Chia sẻ với AFC, thủ thành này đã hé lộ bí kíp cản phá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:08:00+07:00",
+      "fetched": "2026-01-18T17:12:51.380842+07:00"
+    },
+    {
+      "id": "bef490fbcee402872a6e25d76c5eac42",
+      "title": "Sắc vóc Hoa hậu Ngọc Khánh ở tuổi 50",
+      "link": "https://vnexpress.net/sac-voc-hoa-hau-ngoc-khanh-o-tuoi-50-5007035.html",
+      "summary": "Hoa hậu Việt Nam 1998 Ngọc Khánh để tóc bạc tự nhiên, giữ dáng bằng ăn uống, tập luyện lành mạnh ở tuổi trung niên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:00:00+07:00",
+      "fetched": "2026-01-18T17:12:48.333918+07:00"
+    },
+    {
+      "id": "a79bd7bd8bf1a6e74c2a6d1d2d2c4f91",
+      "title": "Chính quyền ông Trump nỗ lực giảm giá ôtô",
+      "link": "https://vnexpress.net/chinh-quyen-ong-trump-no-luc-giam-gia-oto-5006989.html",
+      "summary": "Giới chức Mỹ thời gian qua mạnh tay đảo ngược các quy định về khí thải và ôtô điện, khẳng định sẽ giúp hạ giá xe cho người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:00:00+07:00",
+      "fetched": "2026-01-18T17:12:48.334052+07:00"
+    },
+    {
+      "id": "9dcc4cb2a473d7e7693983e8a505009b",
+      "title": "Kiệt sức sau bốn tháng làm việc ở công ty mới",
+      "link": "https://vnexpress.net/kiet-suc-sau-bon-thang-lam-viec-o-cong-ty-moi-5006650.html",
+      "summary": "Ở độ tuổi hơn 35, mới bốn tháng đã kiệt sức và muốn rời đi, liệu có phải tôi quá yếu hoặc thiếu kiên nhẫn?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:00:00+07:00",
+      "fetched": "2026-01-18T17:12:48.334184+07:00"
+    },
+    {
+      "id": "11a5c51959fd201cb1c6723362a9209d",
+      "title": "Anh sẵn sàng tìm em",
+      "link": "https://vnexpress.net/anh-san-sang-tim-em-5005426.html",
+      "summary": "Sang 2026, anh bắt đầu trên hành trình tìm kiếm người phụ nữ có thể hiểu, thông cảm để đồng hành nốt quãng đường phía trước",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:00:00+07:00",
+      "fetched": "2026-01-18T17:12:48.334271+07:00"
+    },
+    {
+      "id": "06ad31d6c7ea82b6c45a876ac631178f",
+      "title": "Tổng thống Trump đánh thuế 8 đồng minh châu Âu vì Greenland",
+      "link": "https://thanhnien.vn/tong-thong-trump-danh-thue-8-dong-minh-chau-au-vi-greenland-185260118160408134.htm",
+      "summary": "Tổng thống Mỹ Donald Trump vừa tuyên bố sẽ áp dụng một loạt các mức thuế ngày càng tăng đối với các đồng minh châu Âu cho đến khi Mỹ được phép mua Greenland, làm leo thang căng thẳng về tương lai của hòn đảo rộng lớn ở Bắc Cực thuộc Đan Mạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:00:00+07:00",
+      "fetched": "2026-01-18T17:12:51.380969+07:00"
+    },
+    {
+      "id": "4304ff67a236fdf097cee3f47b3037d5",
+      "title": "Xổ số miền Nam ngày 18 tháng 1 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-18-thang-1-ket-qua-xo-so-hom-nay-chu-nhat-185260118155641671.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 18 tháng 1; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 18.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:00:00+07:00",
+      "fetched": "2026-01-18T17:12:51.381097+07:00"
+    },
+    {
+      "id": "8681215ab7eb64fbb507946b87860ca9",
+      "title": "ĐH Cần Thơ – Trường ĐH Cửu Long: Thế trận khó đoán",
+      "link": "https://thanhnien.vn/dh-can-tho-truong-dh-cuu-long-the-tran-kho-doan-185260118121037947.htm",
+      "summary": "Khó để nói trước kết quả với cặp đấu 'duyên nợ' là ĐH Cần Thơ và Trường ĐH Cửu Long vào lúc 17 giờ hôm nay (18.1) ở lượt đấu thứ 2 vòng loại Tây Nam bộ giải bóng đá Thanh Niên sinh viên Việt Nam lần IV – 2026 cúp THACO (TNSV THACO cup 2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T09:00:00+07:00",
+      "fetched": "2026-01-18T17:12:51.381227+07:00"
+    },
+    {
+      "id": "a79bd7bd8bf1a6e74c2a6d1d2d2c4f91",
+      "title": "Chính quyền ông Trump nỗ lực giảm giá ôtô",
+      "link": "https://vnexpress.net/chinh-quyen-ong-trump-no-luc-giam-gia-oto-5006989.html",
+      "summary": "Giới chức Mỹ thời gian qua mạnh tay đảo ngược các quy định về khí thải và ôtô điện, khẳng định sẽ giúp hạ giá xe cho người dân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-18T09:00:00+07:00",
+      "fetched": "2026-01-18T17:12:55.185664+07:00"
+    },
+    {
+      "id": "2fb7cb7f3d39831dee7e5877027e8402",
+      "title": "Cách người Ukraine chống chọi giá rét giữa khủng hoảng năng lượng",
+      "link": "https://vnexpress.net/cach-nguoi-ukraine-chong-choi-gia-ret-giua-khung-hoang-nang-luong-5007036.html",
+      "summary": "Giữa mùa đông -20 độ và hạ tầng năng lượng bị tàn phá, người Ukraine chống chọi giá rét bằng mọi thứ họ có thể tìm thấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T08:30:06+07:00",
+      "fetched": "2026-01-18T17:12:48.334403+07:00"
+    },
+    {
+      "id": "2fb7cb7f3d39831dee7e5877027e8402",
+      "title": "Cách người Ukraine chống chọi giá rét giữa khủng hoảng năng lượng",
+      "link": "https://vnexpress.net/cach-nguoi-ukraine-chong-choi-gia-ret-giua-khung-hoang-nang-luong-5007036.html",
+      "summary": "Giữa mùa đông -20 độ và hạ tầng năng lượng bị tàn phá, người Ukraine chống chọi giá rét bằng mọi thứ họ có thể tìm thấy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-18T08:30:06+07:00",
+      "fetched": "2026-01-18T17:12:53.882002+07:00"
+    },
+    {
       "id": "d0f4c32c235e68e06820b0e6b797fb81",
       "title": "Bị trung tâm y tế từ chối, người đàn ông ở TP.HCM phải đỡ đẻ cho vợ trên taxi",
       "link": "https://thanhnien.vn/bi-trung-tam-y-te-tu-choi-nguoi-dan-ong-o-tphcm-phai-do-de-cho-vo-tren-taxi-185260118141849759.htm",
@@ -733,6 +1173,36 @@ window.newsData_2026_01_18 = {
       "fetched": "2026-01-18T15:16:24.783981+07:00"
     },
     {
+      "id": "f3b3146b236ab0fbf12f3b8cbc77b0ff",
+      "title": "Vì sao quý ông trung niên bỗng hưng phấn như tuổi đôi mươi?",
+      "link": "https://vnexpress.net/vi-sao-quy-ong-trung-nien-bong-hung-phan-nhu-tuoi-doi-muoi-5004929.html",
+      "summary": "Đàn ông tuổi trung niên tăng ham muốn đột ngột có thể do nội tiết bền bỉ, lối sống \"hồi xuân\" hoặc cảnh báo bệnh lý thần kinh và rối loạn nội tiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T08:00:00+07:00",
+      "fetched": "2026-01-18T17:12:48.334484+07:00"
+    },
+    {
+      "id": "87ed2dba0ff43d6d3703039f3ba9012b",
+      "title": "'Của để dành' ở đâu để làm việc 40 tuần mỗi giờ?",
+      "link": "https://vnexpress.net/cua-de-danh-o-dau-de-lam-viec-40-tuan-moi-gio-5006941.html",
+      "summary": "Với chủ doanh nghiệp, thật khó để giảm giờ làm việc nếu năng suất lao động không tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T08:00:00+07:00",
+      "fetched": "2026-01-18T17:12:48.334763+07:00"
+    },
+    {
+      "id": "276e72943c329b972f2e521058d1a2f5",
+      "title": "Inchcape Shipping Services mở rộng hiện diện tại Indonesia",
+      "link": "https://vnexpress.net/inchcape-shipping-services-mo-rong-hien-dien-tai-indonesia-5004713.html",
+      "summary": "Inchcape Shipping Services - hãng đại lý tàu biển có trụ sở chính tại Anh vừa mở thêm hai văn phòng tại Merak và Dumai, bổ sung cho văn phòng hiện có ở Jakarta.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T08:00:00+07:00",
+      "fetched": "2026-01-18T17:12:48.334899+07:00"
+    },
+    {
       "id": "697994c2294a110c4afb405b6b5eee9f",
       "title": "ĐH Huế - Trường CĐ Phương Đông Đà Nẵng: Ứng viên lộ diện",
       "link": "https://thanhnien.vn/dh-hue-truong-cd-phuong-dong-da-nang-ung-vien-lo-dien-18526011811082817.htm",
@@ -751,6 +1221,16 @@ window.newsData_2026_01_18 = {
       "category": "Tổng hợp",
       "published": "2026-01-18T07:55:00+07:00",
       "fetched": "2026-01-18T15:16:15.823960+07:00"
+    },
+    {
+      "id": "26d9875e6955f85e1f1b5ae3172fd2ff",
+      "title": "Sinh viên Đại học Hoa Sen nhận lương khởi điểm khoảng 9-12 triệu đồng",
+      "link": "https://vnexpress.net/sinh-vien-dai-hoc-hoa-sen-nhan-luong-khoi-diem-khoang-9-12-trieu-dong-5006120.html",
+      "summary": "96% sinh viên trường Đại học Hoa Sen (HSU) có việc làm trước khi nhận bằng tốt nghiệp, lương khởi điểm phổ biến 9-12 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T07:53:29+07:00",
+      "fetched": "2026-01-18T17:12:48.335034+07:00"
     },
     {
       "id": "e0d4df3761347b31001922765a50f933",
@@ -791,6 +1271,16 @@ window.newsData_2026_01_18 = {
       "category": "Tổng hợp",
       "published": "2026-01-18T07:49:00+07:00",
       "fetched": "2026-01-18T15:16:15.824576+07:00"
+    },
+    {
+      "id": "d6fdf9c58a92a1881a8e494482efb7f5",
+      "title": "Cuộc sống của Hoa hậu Diễm Hương ở Canada",
+      "link": "https://vnexpress.net/cuoc-song-cua-hoa-hau-diem-huong-o-canada-5004495.html",
+      "summary": "Hoa hậu Diễm Hương trở lại đi làm sau hai tháng sinh con thứ hai, thắt chặt chi tiêu giữa áp lực kinh tế nơi xứ người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T07:45:35+07:00",
+      "fetched": "2026-01-18T17:12:48.335167+07:00"
     },
     {
       "id": "5b667f9499d7e557d6b3a0eaa632fa30",
@@ -1041,6 +1531,16 @@ window.newsData_2026_01_18 = {
       "category": "Tổng hợp",
       "published": "2026-01-18T06:15:00+07:00",
       "fetched": "2026-01-18T13:19:31.567217+07:00"
+    },
+    {
+      "id": "77edc4fc7c276b7b22876a8ba4cb5ab5",
+      "title": "Federer không muốn dẫn dắt Alcaraz vì ưu tiên cho con cái",
+      "link": "https://vnexpress.net/federer-khong-muon-dan-dat-alcaraz-vi-uu-tien-cho-con-cai-5007028.html",
+      "summary": "Huyền thoại tennis người Thụy Sĩ Roger Federer tự gạch tên khỏi danh sách ứng viên làm HLV của Carlos Alcaraz trong tương lai.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-18T06:11:11+07:00",
+      "fetched": "2026-01-18T17:12:58.789990+07:00"
     },
     {
       "id": "ee0620b8d1d9a3a57ddc655614b85ecc",
