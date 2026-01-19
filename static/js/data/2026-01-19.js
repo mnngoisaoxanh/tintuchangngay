@@ -1,7 +1,157 @@
 window.newsData_2026_01_19 = {
   "date": "2026-01-19",
-  "lastUpdated": "2026-01-19T08:05:57.938179+07:00",
+  "lastUpdated": "2026-01-19T10:42:43.092216+07:00",
   "articles": [
+    {
+      "id": "6235d99ecfe4c762e39a717fbe712cbe",
+      "title": "Nguyên nhân nghẽn giao dịch cao điểm và giải pháp từ Bizfly Cloud",
+      "link": "https://tuoitre.vn/nguyen-nhan-nghen-giao-dich-cao-diem-va-giai-phap-tu-bizfly-cloud-20260116101844728.htm",
+      "summary": "Đằng sau bức tranh tăng trưởng của nền kinh tế số là một thách thức chung: khả năng chịu tải và độ ổn định của hệ thống trong những thời điểm cao điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.748510+07:00",
+      "fetched": "2026-01-19T10:42:34.748649+07:00"
+    },
+    {
+      "id": "1d3cdcf67a289ab682f73186d1dc07cb",
+      "title": "Đường Liên Phường thông xe nâng tầm trải nghiệm di chuyển về khu Đông",
+      "link": "https://tuoitre.vn/duong-lien-phuong-thong-xe-nang-tam-trai-nghiem-di-chuyen-ve-khu-dong-20260116145529926.htm",
+      "summary": "Đường Liên Phường dài 6,7km vận hành 2 chiều, góp phần hoàn thiện mạng lưới hạ tầng khu vực phía Đông TP.HCM",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.748384+07:00",
+      "fetched": "2026-01-19T10:42:34.748499+07:00"
+    },
+    {
+      "id": "1f46fdf4bf119cbd9e9a757f12a7caee",
+      "title": "Snack O’star Tết - chinh phục giới trẻ bằng công nghệ và trải nghiệm",
+      "link": "https://tuoitre.vn/snack-ostar-tet-chinh-phuc-gioi-tre-bang-cong-nghe-va-trai-nghiem-20260116173123175.htm",
+      "summary": "Trong thị trường tiêu dùng ngày càng cạnh tranh, sự khác biệt không chỉ đến từ chất lượng sản phẩm mà còn từ trải nghiệm mà thương hiệu mang lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.748257+07:00",
+      "fetched": "2026-01-19T10:42:34.748373+07:00"
+    },
+    {
+      "id": "1b7f04ec9db0d17715ab825ccc605a1a",
+      "title": "‘Mục sở thị’ công trường Khải Hoàn Prime trước thềm Tết Nguyên đán 2026",
+      "link": "https://tuoitre.vn/muc-so-thi-cong-truong-khai-hoan-prime-truoc-them-tet-nguyen-dan-2026-20260118093955506.htm",
+      "summary": "Bên cạnh pháp lý rõ ràng, công trường xây dựng dự án Khải Hoàn Prime được khách hàng đánh giá cao khi vẫn duy trì nhịp thi công khẩn trương, đẩy nhanh tiến độ xây dựng dù đang trong thời điểm cận Tết nguyên đán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.748130+07:00",
+      "fetched": "2026-01-19T10:42:34.748245+07:00"
+    },
+    {
+      "id": "1ce680c0a75250f5a5474a6f015b8e39",
+      "title": "Rừng Mai - mảnh ghép mở ra Mùa Lễ Hội tại Eco Retreat",
+      "link": "https://tuoitre.vn/rung-mai-manh-ghep-mo-ra-mua-le-hoi-tai-eco-retreat-20260118203601425.htm",
+      "summary": "Khởi đầu phân khu Mùa Lễ Hội bằng những vạt mai vàng rực rỡ, tiểu khu Rừng Mai Eco Retreat của nhà sáng lập Ecopark mang đến một không gian sống tươi mới, năng động, tràn đầy năng lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.748004+07:00",
+      "fetched": "2026-01-19T10:42:34.748119+07:00"
+    },
+    {
+      "id": "ef4180cb73d4110ffe192e2d2a3de4a3",
+      "title": "Khoa học công nghệ, đổi mới sáng tạo nâng tầm vị thế Việt Nam trong kỷ nguyên mới",
+      "link": "https://tuoitre.vn/khoa-hoc-cong-nghe-doi-moi-sang-tao-nang-tam-vi-the-viet-nam-trong-ky-nguyen-moi-2026011822222657.htm",
+      "summary": "Bộ trưởng Bộ Khoa học và Công nghệ Nguyễn Mạnh Hùng chia sẻ về vai trò của khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số trong việc trở thành động lực trung tâm cho phát triển nhanh và bền vững của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.747872+07:00",
+      "fetched": "2026-01-19T10:42:34.747992+07:00"
+    },
+    {
+      "id": "b8aaabcdf57f22fb552dedf83398cb1c",
+      "title": "Thủ đô Hà Nội với sứ mệnh tiên phong, sẵn sàng hiện thực hóa tầm nhìn Đại hội XIV của Đảng",
+      "link": "https://tuoitre.vn/thu-do-ha-noi-voi-su-menh-tien-phong-san-sang-hien-thuc-hoa-tam-nhin-dai-hoi-xiv-cua-dang-20260118225823711.htm",
+      "summary": "Tuổi Trẻ Online trân trọng giới thiệu nội dung bài trả lời phỏng vấn của Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.747735+07:00",
+      "fetched": "2026-01-19T10:42:34.747856+07:00"
+    },
+    {
+      "id": "55e92378e13d9359b253991017cf50c6",
+      "title": "Điểm tin 8h: Miền Bắc sắp đón đợt mưa, rét đậm; TP.HCM sẽ mở rộng bay thử UAV giao hàng",
+      "link": "https://tuoitre.vn/diem-tin-8h-mien-bac-sap-don-dot-mua-ret-dam-tp-hcm-se-mo-rong-bay-thu-uav-giao-hang-20260118232951659.htm",
+      "summary": "Điểm tin 8h ngày 19-1-2026: Miền Bắc sắp đón đợt mưa, rét đậm; TP.HCM sẽ mở rộng bay thử UAV giao hàng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.747584+07:00",
+      "fetched": "2026-01-19T10:42:34.747722+07:00"
+    },
+    {
+      "id": "972feeff04440b1d3221cb7c71b67ecf",
+      "title": "Tạo thống nhất nhận thức, quyết tâm và hành động thực hiện thắng lợi Nghị quyết Đại hội XIV",
+      "link": "https://tuoitre.vn/tao-thong-nhat-nhan-thuc-quyet-tam-va-hanh-dong-thuc-hien-thang-loi-nghi-quyet-dai-hoi-xiv-20260119060352975.htm",
+      "summary": "Trước thềm Đại hội XIV, công tác tổng hợp ý kiến góp ý của nhân dân đối với dự thảo các văn kiện trình Đại hội có ý nghĩa đặc biệt quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.747455+07:00",
+      "fetched": "2026-01-19T10:42:34.747572+07:00"
+    },
+    {
+      "id": "0dc183498a3b5d0becacffd20b386ae4",
+      "title": "Bay Tết năm nay khác gì? Những bí kíp bay nhanh, đỡ mệt",
+      "link": "https://tuoitre.vn/bay-tet-nam-nay-khac-gi-nhung-bi-kip-bay-nhanh-do-met-20260119073911191.htm",
+      "summary": "Có nhiều điểm mới trong đi máy bay dịp Tết năm nay, hành khách cần lưu ý gì để bớt vất vả?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.747323+07:00",
+      "fetched": "2026-01-19T10:42:34.747443+07:00"
+    },
+    {
+      "id": "28bb8de59341bdb6b3b3682ec074c75a",
+      "title": "Khơi mở những không gian phát triển mới",
+      "link": "https://tuoitre.vn/khoi-mo-nhung-khong-gian-phat-trien-moi-20260119075456966.htm",
+      "summary": "Trước thềm Đại hội XIV, Phó chủ tịch Quốc hội Lê Minh Hoan nhìn lại 40 năm đổi mới, khẳng định nông nghiệp là trụ cột và kỳ vọng bứt phá bằng khoa học, công nghệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.747186+07:00",
+      "fetched": "2026-01-19T10:42:34.747307+07:00"
+    },
+    {
+      "id": "325272a5ed1316118acac07d4966d66e",
+      "title": "Lãnh đạo Đảng, Nhà nước, đại biểu dự Đại hội XIV của Đảng vào lăng viếng Chủ tịch Hồ Chí Minh",
+      "link": "https://tuoitre.vn/lanh-dao-dang-nha-nuoc-dai-bieu-du-dai-hoi-xiv-cua-dang-vao-lang-vieng-chu-tich-ho-chi-minh-20260119080958529.htm",
+      "summary": "Sáng 19-1, trước giờ khai mạc phiên trù bị Đại hội XIV của Đảng, đoàn lãnh đạo Đảng, Nhà nước, đại biểu dự Đại hội đã vào lăng viếng Chủ tịch Hồ Chí Minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.747040+07:00",
+      "fetched": "2026-01-19T10:42:34.747173+07:00"
+    },
+    {
+      "id": "dab2b688e9f00ba0730038c3a7f1e42c",
+      "title": "Chứng khoán tuần mới: VN-Index đi về đâu sau tuần lập đỉnh kỷ lục?",
+      "link": "https://tuoitre.vn/chung-khoan-tuan-moi-vn-index-di-ve-dau-sau-tuan-lap-dinh-ky-luc-20260119083324809.htm",
+      "summary": "VN-Index bước vào tuần giao dịch mới với xu hướng giằng co, tích lũy sau khi vượt đỉnh lịch sử, trong bối cảnh dòng tiền cải thiện nhưng áp lực chốt lời vẫn hiện hữu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.746904+07:00",
+      "fetched": "2026-01-19T10:42:34.747029+07:00"
+    },
+    {
+      "id": "0782eb13d1b7ee08875346bbbef061de",
+      "title": "Cựu danh thủ Trung Quốc: 'Lối chơi của U23 Trung Quốc tiên tiến và khoa học nhất thế giới'",
+      "link": "https://tuoitre.vn/cuu-danh-thu-trung-quoc-loi-choi-cua-u23-trung-quoc-tien-tien-va-khoa-hoc-nhat-the-gioi-20260119081744457.htm",
+      "summary": "Trước làn sóng chỉ trích lối chơi \"tử thủ\" của U23 Trung Quốc, cựu danh thủ nước này Fan Zhiyi đã lên tiếng khi cho rằng \"lối chơi của U23 Trung Quốc là 'tiên tiến và khoa học nhất thế giới'\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.746753+07:00",
+      "fetched": "2026-01-19T10:42:34.746891+07:00"
+    },
+    {
+      "id": "42d6b104567025831e3d995a17a3f346",
+      "title": "TP.HCM mạnh tay lập lại trật tự vỉa hè, nhiều nơi đã thông thoáng",
+      "link": "https://tuoitre.vn/tp-hcm-manh-tay-lap-lai-trat-tu-via-he-nhieu-noi-da-thong-thoang-2026011908090235.htm",
+      "summary": "Sau lễ ra quân cao điểm kiểm tra xử lý lấn chiếm, sử dụng trái phép lòng đường, vỉa hè, lực lượng chức năng tại TP.HCM tiếp tục kiểm tra xử lý tại nhiều nơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:42:34.746482+07:00",
+      "fetched": "2026-01-19T10:42:34.746736+07:00"
+    },
     {
       "id": "a91c5da5c3d7c1a4bc189822745e9bfb",
       "title": "Mất an toàn vệ sinh thực phẩm từ quán bình dân đến nhà hàng, ngăn chặn thế nào?",
@@ -153,6 +303,416 @@ window.newsData_2026_01_19 = {
       "fetched": "2026-01-19T08:05:52.315965+07:00"
     },
     {
+      "id": "8efa71a667faec7e28433d619f3f1e77",
+      "title": "Cựu cầu thủ Man Utd: 'U23 Trung Quốc giống như kẹo chocolate dở tệ'",
+      "link": "https://vnexpress.net/cuu-cau-thu-man-utd-u23-trung-quoc-giong-nhu-keo-chocolate-do-te-5007132.html",
+      "summary": "Dong Fangzhuo đánh giá thấp lối chơi của Trung Quốc tại vòng chung kết U23 châu Á 2026, dẫn đến cuộc tranh cãi gay gắt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-19T03:37:44+07:00",
+      "fetched": "2026-01-19T10:42:43.085197+07:00"
+    },
+    {
+      "id": "3442c039095c9e42210f2038858e36d0",
+      "title": "Giá vàng miếng lên 165 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-mieng-len-165-trieu-dong-5007247.html",
+      "summary": "Mỗi lượng vàng miếng tiếp tục tăng thêm 2 triệu đồng, lên mức kỷ lục mới 165 triệu đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-19T03:33:31+07:00",
+      "fetched": "2026-01-19T10:42:38.046306+07:00"
+    },
+    {
+      "id": "84dc068115a91fc1cba27e2f33f9e22e",
+      "title": "Kinh tế Trung Quốc tăng trưởng 5% năm 2025",
+      "link": "https://vnexpress.net/kinh-te-trung-quoc-tang-truong-5-nam-2025-5007198.html",
+      "summary": "Nền kinh tế lớn thứ hai thế giới đạt mục tiêu GDP năm ngoái, bất chấp căng thẳng thương mại leo thang với Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-19T03:32:36+07:00",
+      "fetched": "2026-01-19T10:42:38.046483+07:00"
+    },
+    {
+      "id": "56a40c646822c03e35fbaad5d7aae75e",
+      "title": "Phú Thành Holdings và hành trình kiến tạo bền vững ở Utopia Villas & Resort",
+      "link": "https://thanhnien.vn/phu-thanh-holdings-va-hanh-trinh-kien-tao-ben-vung-o-utopia-villas-resort-185260119094927046.htm",
+      "summary": "Trong một thị trường bất động sản ngày càng phân hóa mạnh về phân khúc và giá trị, không thiếu những dự án được tạo ra để bắt nhịp xu hướng ngắn hạn. Tuy nhiên, chỉ một số rất ít chủ đầu tư lựa chọn con đường khó hơn: theo đuổi những giá trị có khả năng đứng vững trước thời gian, ngay cả khi thị trư...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:30:00+07:00",
+      "fetched": "2026-01-19T10:42:33.595795+07:00"
+    },
+    {
+      "id": "89e797d759ecb786f7a6813745f45997",
+      "title": "Trường ĐH Hoa Sen chính thức bổ nhiệm hiệu trưởng mới",
+      "link": "https://thanhnien.vn/truong-dh-hoa-sen-chinh-thuc-bo-nhiem-hieu-truong-moi-185260119100457146.htm",
+      "summary": "Hội đồng trường Trường ĐH Hoa Sen vừa công bố quyết định bổ nhiệm hiệu trưởng đối với PGS-TS Nguyễn Hữu Huy Nhật, Phó hiệu trưởng phụ trách trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:29:00+07:00",
+      "fetched": "2026-01-19T10:42:33.595972+07:00"
+    },
+    {
+      "id": "aedec82e86e4e354fee5b7319dc5d679",
+      "title": "8 điểm nhấn vòng 22 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/8-diem-nhan-vong-22-ngoai-hang-anh-5007135.html",
+      "summary": "Màn ra mắt hoàn hảo của Michael Carrick, Liverpool chạm mốc buồn kể từ 1981 hay lựa chọn nhân sự sai lầm của HLV Mikel Arteta nằm trong danh sách điểm nhấn tại Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-19T03:24:07+07:00",
+      "fetched": "2026-01-19T10:42:43.085888+07:00"
+    },
+    {
+      "id": "29577220aea89628efe4d0fe6c693ef3",
+      "title": "Hỗn loạn ở chung kết Cup châu Phi 2026",
+      "link": "https://vnexpress.net/hon-loan-o-chung-ket-cup-chau-phi-2026-5007214.html",
+      "summary": "Trận chung kết Cup châu Phi (AFCON) bị bao trùm bởi những hình ảnh hỗn loạn hiếm thấy, khi cầu thủ Senegal rời sân phản đối VAR, khán giả tràn xuống đường piste, cảnh sát chống bạo động phải can thiệp và cú Panenka thất bại khiến chủ nhà Morocco ôm hận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-19T03:20:53+07:00",
+      "fetched": "2026-01-19T10:42:43.085375+07:00"
+    },
+    {
+      "id": "8256c3d26ff1348f1dfed4606d64df5d",
+      "title": "Bước tiến nhỏ với hiệu ứng lớn của Nhật Bản - Philippines",
+      "link": "https://thanhnien.vn/buoc-tien-nho-voi-hieu-ung-lon-cua-nhat-ban-philippines-185260118222500188.htm",
+      "summary": "Nhật Bản và Philippines vừa ký kết thêm thỏa thuận hợp tác mới về quân sự, quốc phòng và an ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:20:00+07:00",
+      "fetched": "2026-01-19T10:42:33.596136+07:00"
+    },
+    {
+      "id": "0db325ecdd8a26673e7a3afe2dd2b213",
+      "title": "Thống kê cực bất ngờ, hành trình thầy Kim đang đi giống hệt thầy Park ở điểm này nhưng…",
+      "link": "https://thanhnien.vn/thong-ke-cuc-bat-ngo-hanh-trinh-thay-kim-dang-di-giong-het-thay-park-o-diem-nay-nhung-185260119085127977.htm",
+      "summary": "Cùng với kỳ tích Thường Châu, 8 năm trước tại Asian Games ở Indonesia, đội tuyển Olympic Việt Nam cũng đã vào bán kết giải đấu cấp độ châu Á. Lần này U.23 Việt Nam đang lặp lại hành trình tương tự nhưng có thể sẽ khác về thành quả cuối cùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:17:00+07:00",
+      "fetched": "2026-01-19T10:42:33.596297+07:00"
+    },
+    {
+      "id": "c828c7903d75331338dfa69ece3478b6",
+      "title": "Microsoft phát hành bản cập nhật khẩn cấp cho Windows 11",
+      "link": "https://thanhnien.vn/microsoft-phat-hanh-ban-cap-nhat-khan-cap-cho-windows-11-185260119083135956.htm",
+      "summary": "Microsoft vừa phát hành một bản vá khẩn cấp cho Windows 11 nhằm khắc phục sự cố nghiêm trọng xuất hiện sau bản cập nhật bảo mật tháng 1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:16:00+07:00",
+      "fetched": "2026-01-19T10:42:33.596454+07:00"
+    },
+    {
+      "id": "8b7e964d81c0a0ec4b03a4839526b0c0",
+      "title": "Lần đầu tiên trong lịch sử, con người phải xây 'két sắt' để lưu trữ băng",
+      "link": "https://thanhnien.vn/lan-dau-tien-trong-lich-su-con-nguoi-phai-xay-ket-sat-de-luu-tru-bang-185260119101124744.htm",
+      "summary": "Các nhà khoa học mới đây đã chính thức niêm phong các khối băng cổ đại vào một hầm băng tại trạm Concordia (Nam Cực) với hy vọng lưu giữ những hồ sơ vô giá về trái đất trước khi chúng biến mất vĩnh viễn, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:14:00+07:00",
+      "fetched": "2026-01-19T10:42:33.596612+07:00"
+    },
+    {
+      "id": "9a349e1a2c1a93a59cfbfc9b466b6eaf",
+      "title": "Nhịp tim thấp ở runner do tập luyện hay di truyền?",
+      "link": "https://vnexpress.net/nhip-tim-thap-o-runner-do-tap-luyen-hay-di-truyen-5006859.html",
+      "summary": "Nhịp tim chậm ở runner không chỉ do tập luyện mà còn chịu ảnh hưởng đáng kể từ yếu tố di truyền, và được xem là thích nghi sinh học lành tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:10:00+07:00",
+      "fetched": "2026-01-19T10:42:30.114464+07:00"
+    },
+    {
+      "id": "aff6418e6ca772a1f9fec0576f8aec58",
+      "title": "Quan chức Nga châm chọc châu Âu sau lời đe dọa áp thuế của ông Trump",
+      "link": "https://vnexpress.net/quan-chuc-nga-cham-choc-chau-au-sau-loi-de-doa-ap-thue-cua-ong-trump-5007185.html",
+      "summary": "Đặc phái viên Nga Dmitriev cho rằng châu Âu không nên chọc giận ông Trump, sau khi Tổng thống Mỹ dọa áp thuế 8 nước vì vấn đề Greenland.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:09:32+07:00",
+      "fetched": "2026-01-19T10:42:30.114644+07:00"
+    },
+    {
+      "id": "aff6418e6ca772a1f9fec0576f8aec58",
+      "title": "Quan chức Nga châm chọc châu Âu sau lời đe dọa áp thuế của ông Trump",
+      "link": "https://vnexpress.net/quan-chuc-nga-cham-choc-chau-au-sau-loi-de-doa-ap-thue-cua-ong-trump-5007185.html",
+      "summary": "Đặc phái viên Nga Dmitriev cho rằng châu Âu không nên chọc giận ông Trump, sau khi Tổng thống Mỹ dọa áp thuế 8 nước vì vấn đề Greenland.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T03:09:32+07:00",
+      "fetched": "2026-01-19T10:42:36.125654+07:00"
+    },
+    {
+      "id": "9f44a5ac662412c4fad59c4be17ab98c",
+      "title": "Yếu tố thúc đẩy chuyển dịch dòng tiền về phía Đông TP HCM",
+      "link": "https://vnexpress.net/yeu-to-thuc-day-chuyen-dich-dong-tien-ve-phia-dong-tp-hcm-5007216.html",
+      "summary": "Giá nhà trung tâm neo cao, thúc đẩy dịch chuyển nhu cầu an cư và dòng tiền đầu tư ra các đô thị vệ tinh, đặc biệt ở khu Đông khi hạ tầng được chú trọng đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:00:00+07:00",
+      "fetched": "2026-01-19T10:42:30.114831+07:00"
+    },
+    {
+      "id": "be40a9551f79357df85721fd50bfed44",
+      "title": "Vì sao hoạt động ngoài trời tốt cho mắt trẻ?",
+      "link": "https://vnexpress.net/vi-sao-hoat-dong-ngoai-troi-tot-cho-mat-tre-5007200.html",
+      "summary": "Trẻ thường xuyên hoạt động ngoài trời sẽ tiếp xúc nhiều với ánh sáng tự nhiên, tăng tầm nhìn xa, giúp rèn luyện cơ mắt và hỗ trợ thị lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:00:00+07:00",
+      "fetched": "2026-01-19T10:42:30.114990+07:00"
+    },
+    {
+      "id": "d980d277a8d368085b519dbb7542186c",
+      "title": "Tưởng thiếu máu hóa ung thư đại tràng",
+      "link": "https://vnexpress.net/tuong-thieu-mau-hoa-ung-thu-dai-trang-5007172.html",
+      "summary": "Anh Tùng, 34 tuổi, thường xuyên mệt mỏi, hoa mắt tưởng do thiếu máu, song bác sĩ chẩn đoán ung thư đại tràng với nhiều polyp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:00:00+07:00",
+      "fetched": "2026-01-19T10:42:30.115148+07:00"
+    },
+    {
+      "id": "f68dc2e6a22477ec02420b719cac1f36",
+      "title": "Bé 23 tháng tuổi thoát vị bẹn",
+      "link": "https://vnexpress.net/be-23-thang-tuoi-thoat-vi-ben-5007164.html",
+      "summary": "Khi bé Huy, 23 tháng tuổi, khóc hoặc rặn, vùng bẹn bên trái phồng lên, siêu âm xác định thoát vị bẹn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:00:00+07:00",
+      "fetched": "2026-01-19T10:42:30.115305+07:00"
+    },
+    {
+      "id": "888faeac1740bb1fa0d2196be9396cea",
+      "title": "Masterise Homes giới thiệu dự án cao tầng mới tại The Global City",
+      "link": "https://vnexpress.net/masterise-homes-gioi-thieu-du-an-cao-tang-moi-tai-the-global-city-5006066.html",
+      "summary": "Masteri Cosmo Central, phân khu cao tầng mới nhất do Masterise Homes phát triển, tọa lạc tại khu đô thị The Global City, TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:00:00+07:00",
+      "fetched": "2026-01-19T10:42:30.115482+07:00"
+    },
+    {
+      "id": "ad4cd0bfc3c836e927871f1118b6b752",
+      "title": "5 chiếc váy midi sang trọng, hợp cả đi làm lẫn đi tiệc cuối năm",
+      "link": "https://thanhnien.vn/thoi-trang-tre/5-chiec-vay-midi-sang-trong-hop-ca-di-lam-lan-di-tiec-cuoi-nam-185260115140330519.htm",
+      "summary": "Váy midi tối giản, sang trọng và đa năng khi có thể diện đi làm, đi tiệc và đi bất cứ nơi nào nàng cảm thấy phù hợp. Các thiết kế liền thân có độ dài từ đầu gối trở xuống bắp chân mang lại sự thuận tiện trong nhịp sống năng động đồng thời tạo dáng vẻ thướt tha, nữ tính cho nàng bất chấp thời gian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:00:00+07:00",
+      "fetched": "2026-01-19T10:42:33.596791+07:00"
+    },
+    {
+      "id": "a1fc4ba34034635a31333074fdd543e8",
+      "title": "Xe điện Trung Quốc tìm cơ hội vào thị trường phương Tây khi rào cản hạ nhiệt",
+      "link": "https://vnexpress.net/xe-dien-trung-quoc-tim-co-hoi-vao-thi-truong-phuong-tay-khi-rao-can-ha-nhiet-5007145.html",
+      "summary": "Canada và EU hạ rào cản thương mại, mở mới cơ hội cho xe điện Trung Quốc thâm nhập thị trường phương Tây, dù mức doanh số chưa rõ ràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:59:24+07:00",
+      "fetched": "2026-01-19T10:42:30.115646+07:00"
+    },
+    {
+      "id": "2c37f8f82f7a432190c36f6cd468b155",
+      "title": "Philippines phát hiện lượng lớn khí đốt tự nhiên ở Biển Đông",
+      "link": "https://thanhnien.vn/philippines-phat-hien-luong-lon-khi-dot-tu-nhien-o-bien-dong-185260119090736986.htm",
+      "summary": "Tổng thống Philippines Ferdinand Marcos Jr. hôm nay 19.1 thông báo lượng lớn khí đốt tự nhiên đã được phát hiện gần khu vực khai thác ngoài khơi nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:56:00+07:00",
+      "fetched": "2026-01-19T10:42:33.596946+07:00"
+    },
+    {
+      "id": "6ff215001f657ac3b9a0c64682471a04",
+      "title": "Những tấm lòng vàng 19.1.2026",
+      "link": "https://thanhnien.vn/nhung-tam-long-vang-1912026-1852601181533324.htm",
+      "summary": "Giúp ông Nguyễn Tấn Lực - Bình Định cũ (nhân vật được đề cập trong bài viết Người đàn ông bị tai biến chật vật nuôi con nhỏ trên Thanh Niên ngày 17.7.2024):",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:55:00+07:00",
+      "fetched": "2026-01-19T10:42:33.597104+07:00"
+    },
+    {
+      "id": "8638a469902e7f4178e929cdde1fe5a4",
+      "title": "Dân quân người Kurd bỏ mỏ dầu lớn nhất Syria, đồng ý sáp nhập vào chính phủ",
+      "link": "https://vnexpress.net/dan-quan-nguoi-kurd-bo-mo-dau-lon-nhat-syria-dong-y-sap-nhap-vao-chinh-phu-5007143.html",
+      "summary": "Dân quân người Kurd rút khỏi mỏ dầu Al-Omar lớn nhất Syria sau các đợt giao tranh với quân đội và đồng ý sáp nhập vào bộ máy chính quyền nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:54:54+07:00",
+      "fetched": "2026-01-19T10:42:30.115831+07:00"
+    },
+    {
+      "id": "8638a469902e7f4178e929cdde1fe5a4",
+      "title": "Dân quân người Kurd bỏ mỏ dầu lớn nhất Syria, đồng ý sáp nhập vào chính phủ",
+      "link": "https://vnexpress.net/dan-quan-nguoi-kurd-bo-mo-dau-lon-nhat-syria-dong-y-sap-nhap-vao-chinh-phu-5007143.html",
+      "summary": "Dân quân người Kurd rút khỏi mỏ dầu Al-Omar lớn nhất Syria sau các đợt giao tranh với quân đội và đồng ý sáp nhập vào bộ máy chính quyền nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T02:54:54+07:00",
+      "fetched": "2026-01-19T10:42:36.125859+07:00"
+    },
+    {
+      "id": "b8202c38e45ede91f91c30ed7570ed43",
+      "title": "EU cân nhắc phương án ứng phó đòn thuế quan của Mỹ",
+      "link": "https://thanhnien.vn/eu-can-nhac-phuong-an-ung-pho-don-thue-quan-cua-my-185260119092123502.htm",
+      "summary": "Các nhà ngoại giao Liên minh châu Âu (EU) nhấn mạnh ưu tiên thuyết phục Tổng thống Mỹ Donald Trump rút lại đe dọa áp thuế liên quan vấn đề Greenland, song cũng cân nhắc phương án đối phó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:50:00+07:00",
+      "fetched": "2026-01-19T10:42:33.597264+07:00"
+    },
+    {
+      "id": "b4bd6d50bc23141476ea22e26c81f210",
+      "title": "Thi đua cao điểm lập thành tích chào mừng Đại hội của Đảng",
+      "link": "https://thanhnien.vn/thi-dua-cao-diem-lap-thanh-tich-chao-mung-dai-hoi-cua-dang-185260119090319691.htm",
+      "summary": "Sáng nay 19.1, thanh niên nhiều tỉnh thành tham gia Lễ Chào cờ và tổ chức nhiều hoạt động thi đua cao điểm lập thành tích chào mừng Đại hội của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:49:00+07:00",
+      "fetched": "2026-01-19T10:42:33.597425+07:00"
+    },
+    {
+      "id": "4cb0c1442b0668739009f43dc010d314",
+      "title": "Minh Phúc từng khóc khi bị ‘cấm’ theo bóng đá khiến gia đình phải họp khẩn và cái kết…",
+      "link": "https://thanhnien.vn/minh-phuc-tung-khoc-khi-bi-cam-theo-bong-da-khien-gia-dinh-phai-hop-khan-va-cai-ket-185260119093632776.htm",
+      "summary": "Trước khi trở thành niềm hy vọng của đội tuyển U.23 Việt Nam, Minh Phúc từng đứng trước nguy cơ phải từ bỏ bóng đá. Gia đình đã có một cuộc họp khẩn, và những giọt nước mắt của cậu bé Phúc khi ấy trở thành bước ngoặt cho cả sự nghiệp sau này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:45:00+07:00",
+      "fetched": "2026-01-19T10:42:33.597586+07:00"
+    },
+    {
+      "id": "967bf1006360381b7cbdb2d2d27b4a60",
+      "title": "Lan tỏa trên mạng xã hội: Ngồi xe lăn chinh phục marathon",
+      "link": "https://thanhnien.vn/lan-toa-tren-mang-xa-hoi-ngoi-xe-lan-chinh-phuc-marathon-185260118222855596.htm",
+      "summary": "37 năm phụ thuộc vào xe lăn để di chuyển, anh Phan Mạnh Tân (40 tuổi, ở Tây Ninh) cảm nhận được sự tự do đích thực khi tham gia các giải chạy phong trào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:42:00+07:00",
+      "fetched": "2026-01-19T10:42:33.597761+07:00"
+    },
+    {
+      "id": "7be0664c3cdda74619e4e08f35516e94",
+      "title": "Đan Mạch nói tương lai NATO 'gặp rủi ro' sau đe dọa áp thuế của ông Trump",
+      "link": "https://vnexpress.net/dan-mach-noi-tuong-lai-nato-gap-rui-ro-sau-de-doa-ap-thue-cua-ong-trump-5007154.html",
+      "summary": "Ngoại trưởng Đan Mạch cho rằng NATO đứng trước nguy cơ bị tổn hại trước lời đe dọa áp thuế của ông Trump với các thành viên trong khối, liên quan vấn đề Greenland.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:39:56+07:00",
+      "fetched": "2026-01-19T10:42:30.115995+07:00"
+    },
+    {
+      "id": "7be0664c3cdda74619e4e08f35516e94",
+      "title": "Đan Mạch nói tương lai NATO 'gặp rủi ro' sau đe dọa áp thuế của ông Trump",
+      "link": "https://vnexpress.net/dan-mach-noi-tuong-lai-nato-gap-rui-ro-sau-de-doa-ap-thue-cua-ong-trump-5007154.html",
+      "summary": "Ngoại trưởng Đan Mạch cho rằng NATO đứng trước nguy cơ bị tổn hại trước lời đe dọa áp thuế của ông Trump với các thành viên trong khối, liên quan vấn đề Greenland.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T02:39:56+07:00",
+      "fetched": "2026-01-19T10:42:36.126032+07:00"
+    },
+    {
+      "id": "d273e4b1f43fead051d50eb49c8f8daa",
+      "title": "Đại hội Đảng XIV định hình sự phát triển Việt Nam thế nào?",
+      "link": "https://vnexpress.net/dai-hoi-dang-xiv-dinh-hinh-su-phat-trien-viet-nam-the-nao-5007184.html",
+      "summary": "Tăng trưởng kinh tế trên 10%/năm, chuyển dịch việc làm sang công nghiệp và dịch vụ – những nội dung được thảo luận tại Đại hội Đảng XIV được kỳ vọng định hình Việt Nam đến giữa thế kỷ 21.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:32:01+07:00",
+      "fetched": "2026-01-19T10:42:30.116157+07:00"
+    },
+    {
+      "id": "ad8146b2869d5eaf2519baad78b8201d",
+      "title": "Làm sao ném quả trứng xuống nền bê tông mà không làm nó bị vỡ?",
+      "link": "https://vnexpress.net/tai-sao-vi-sao-lam-sao-nem-qua-trung-xuong-nen-be-tong-ma-khong-lam-no-bi-vo-5006510.html",
+      "summary": "Nghe qua tưởng vô lý, nhưng đây lại là một câu đố mẹo kinh điển khiến rất nhiều người trả lời sai ngay từ đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:31:00+07:00",
+      "fetched": "2026-01-19T10:42:30.116309+07:00"
+    },
+    {
+      "id": "2133df73614847cb221d9959eeabb997",
+      "title": "Cầu Long Hưng khởi công, thêm trục kết nối TP HCM cho Aqua City",
+      "link": "https://vnexpress.net/cau-long-hung-khoi-cong-them-truc-ket-noi-tp-hcm-cho-aqua-city-5007195.html",
+      "summary": "Đồng Nai khởi công cầu Long Hưng tạo thêm trục giao thương nối liền TP HCM, thu hút cư dân và gia tăng giá trị cho các khu đô thị ven sông Đồng Nai như Aqua City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:30:00+07:00",
+      "fetched": "2026-01-19T10:42:30.116465+07:00"
+    },
+    {
+      "id": "503ff6069894388ee9b23e4c6075e678",
+      "title": "Đinh Tiến Đạt ra mắt ca khúc 'Tự hào được làm con'",
+      "link": "https://thanhnien.vn/dinh-tien-dat-ra-mat-ca-khuc-tu-hao-duoc-lam-con-185260118224721978.htm",
+      "summary": "Để khép lại E.P (album ngắn) Tôi 30 - 30 năm tôi vẫn ở đây, ca sĩ - rapper Đinh Tiến Đạt (ảnh) trình làng ca khúc Tự hào được làm con. Bài hát được nhạc sĩ Phạm Việt Hoàng sáng tác riêng cho Đinh Tiến Đạt. Ca khúc có giai điệu ballad chậm rãi, ca từ mộc mạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:30:00+07:00",
+      "fetched": "2026-01-19T10:42:33.597922+07:00"
+    },
+    {
+      "id": "7653cea41cf17a066918c854330e9d90",
+      "title": "Náo động rừng cổ tích - khi trẻ thơ tự thắp sáng phép màu",
+      "link": "https://thanhnien.vn/nao-dong-rung-co-tich-khi-tre-tho-tu-thap-sang-phep-mau-185260118225249714.htm",
+      "summary": "Là đơn vị hiếm hoi dựng kịch tết cho thiếu nhi, Nhà hát Kịch Sân khấu nhỏ 5B (TP.HCM) vừa ra mắt vở Náo động rừng cổ tích (tác giả Vương Huyền Cơ - đạo diễn Minh Quốc). Đây không chỉ là món quà giải trí, mà còn là hành trình gieo mầm nhân cách đầy tinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:28:00+07:00",
+      "fetched": "2026-01-19T10:42:33.598075+07:00"
+    },
+    {
+      "id": "e091d5eb1c5eb75f03ef7e2757072f94",
+      "title": "Lãnh đạo Đảng, Nhà nước dự phiên trù bị Đại hội Đảng XIV",
+      "link": "https://vnexpress.net/lanh-dao-dang-nha-nuoc-du-phien-tru-bi-dai-hoi-dang-xiv-5007191.html",
+      "summary": "Sáng 19/1, Tổng Bí thư Tô Lâm cùng lãnh đạo Đảng, Nhà nước và các đại biểu dự Đại hội XIV đã vào Lăng viếng Chủ tịch Hồ Chí Minh, sau đó dự phiên họp trù bị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:18:56+07:00",
+      "fetched": "2026-01-19T10:42:30.116632+07:00"
+    },
+    {
+      "id": "bee7e7d12c670cd4e19acf7db2fe5007",
+      "title": "Cô gái khổ sở vì bộ ngực nặng 25 kg",
+      "link": "https://vnexpress.net/co-gai-kho-so-vi-bo-nguc-nang-25-kg-5007089.html",
+      "summary": "Mang bộ ngực nặng hơn 25 kg khiến cột sống cong vẹo, Summer Roberts 6 lần xin phẫu thuật thu nhỏ nhưng đều bị bác sĩ từ chối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T02:12:42+07:00",
+      "fetched": "2026-01-19T10:42:30.116825+07:00"
+    },
+    {
+      "id": "71c0526c8ef58d44f88425440b764afb",
+      "title": "Mỹ - EU sẽ cùng tổn thất nếu căng thẳng thương mại tái bùng phát",
+      "link": "https://vnexpress.net/my-eu-se-cung-ton-that-neu-cang-thang-thuong-mai-tai-bung-phat-5007144.html",
+      "summary": "Việc Mỹ dọa áp thuế liên quan Greenland, cùng khả năng châu Âu đáp trả có thể khiến giá hàng nhập khẩu tăng mạnh, gây tổn thất tới cả hai nền kinh tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-19T02:11:06+07:00",
+      "fetched": "2026-01-19T10:42:38.046649+07:00"
+    },
+    {
+      "id": "6dc5605f421663b82d2aa83bf041ab74",
+      "title": "2025 - năm mở rộng đường bay quốc tế 'chưa từng có' của Vietnam Airlines",
+      "link": "https://vnexpress.net/2025-nam-mo-rong-duong-bay-quoc-te-chua-tung-co-cua-vietnam-airlines-5006710.html",
+      "summary": "Chỉ trong một năm, Vietnam Airlines có thêm 14 đường bay mới quốc tế mới, trải dài từ châu Âu sang Đông Bắc Á, Đông Nam Á và Nam Á.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-19T02:00:00+07:00",
+      "fetched": "2026-01-19T10:42:38.047312+07:00"
+    },
+    {
+      "id": "aeba3b927e11f407aab16290c4cc39bb",
+      "title": "Aston Villa lỡ cơ hội qua mặt Man City",
+      "link": "https://vnexpress.net/aston-villa-lo-co-hoi-qua-mat-man-city-5007165.html",
+      "summary": "Thua Everton 0-1 ở vòng 22 Ngoại hạng Anh, Aston Villa lỡ cơ hội vươn lên thứ hai và đứt mạch 11 trận toàn thắng trên sân nhà ở mọi đấu trường.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-19T01:35:29+07:00",
+      "fetched": "2026-01-19T10:42:43.086361+07:00"
+    },
+    {
       "id": "f8ee6340107d97766d982d0caa54f192",
       "title": "Triệt phá đường dây cá độ bóng đá 1.200 tỉ đồng, kẻ cầm đầu kịp bỏ trốn",
       "link": "https://tuoitre.vn/triet-pha-duong-day-ca-do-bong-da-1-200-ti-dong-ke-cam-dau-kip-bo-tron-2026011818320427.htm",
@@ -301,6 +861,36 @@ window.newsData_2026_01_19 = {
       "category": "Tổng hợp",
       "published": "2026-01-19T01:16:44.482853+07:00",
       "fetched": "2026-01-19T01:16:44.483069+07:00"
+    },
+    {
+      "id": "3119e6d5b278f62e098d42f872cfda59",
+      "title": "Tư lệnh Ukraine lo Nga xuất xưởng 1.000 UAV Geran mỗi ngày",
+      "link": "https://vnexpress.net/tu-lenh-ukraine-lo-nga-xuat-xuong-1-000-uav-geran-moi-ngay-5007147.html",
+      "summary": "Tư lệnh quân đội Ukraine cảnh báo nguy cơ Nga đẩy mạnh chế tạo vũ khí, trong đó có mục tiêu tăng gấp 2,5 lần sản lượng UAV Geran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T01:15:20+07:00",
+      "fetched": "2026-01-19T10:42:36.126210+07:00"
+    },
+    {
+      "id": "271b68b207643293a367d4ca2c7a4627",
+      "title": "De Jong chỉ trích trọng tài ngạo mạn sau thất bại của Barca",
+      "link": "https://vnexpress.net/de-jong-chi-trich-trong-tai-ngao-man-sau-that-bai-cua-barca-5007162.html",
+      "summary": "Tiền vệ Frenkie De Jong chỉ trích trọng tài Jesus Gil Manzano có thái độ trịch thượng và không cho cầu thủ Barca quyền trao đổi, sau khi thua Sociedad 1-2 ở vòng 20 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-19T01:13:23+07:00",
+      "fetched": "2026-01-19T10:42:43.086047+07:00"
+    },
+    {
+      "id": "35486b530df5f8a5fbadad9c04c43d8a",
+      "title": "Ứng dụng 'siêu nhỏ' bùng nổ",
+      "link": "https://vnexpress.net/ung-dung-sieu-nho-bung-no-5006964.html",
+      "summary": "Thông qua AI, nhiều người không biết lập trình vẫn tự tạo ứng dụng nhỏ (micro app) phục vụ nhu cầu cá nhân theo \"thời vụ\" thay vì chi tiền mua.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-19T01:07:03+07:00",
+      "fetched": "2026-01-19T10:42:41.967489+07:00"
     },
     {
       "id": "cd6937a2303aa4ca60080e6af7a7adde",
