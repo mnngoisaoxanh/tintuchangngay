@@ -1,7 +1,157 @@
 window.newsData_2026_01_19 = {
   "date": "2026-01-19",
-  "lastUpdated": "2026-01-19T10:42:43.092216+07:00",
+  "lastUpdated": "2026-01-19T11:44:01.441228+07:00",
   "articles": [
+    {
+      "id": "db98a3872a9665d6666f1da1a188ce47",
+      "title": "Lãnh đạo Đảng, Nhà nước và các đại biểu đến dự phiên trù bị Đại hội Đảng XIV",
+      "link": "https://tuoitre.vn/lanh-dao-dang-nha-nuoc-va-cac-dai-bieu-den-du-phien-tru-bi-dai-hoi-dang-xiv-20260117155029438.htm",
+      "summary": "Sáng 19-1, 1.586 đại biểu đại diện cho hơn 5,6 triệu đảng viên cả nước dự Đại hội đại biểu toàn quốc lần thứ XIV của Đảng Cộng sản Việt Nam đã họp phiên trù bị tại Hội trường Trung tâm Hội nghị quốc gia, Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.927387+07:00",
+      "fetched": "2026-01-19T11:43:50.927499+07:00"
+    },
+    {
+      "id": "bbc85a92de46b7dd4aea83a1494b677b",
+      "title": "Hoa Sa Đéc vào mùa, du khách rộn ràng theo xuân về miền Tây",
+      "link": "https://tuoitre.vn/hoa-sa-dec-vao-mua-du-khach-ron-rang-theo-xuan-ve-mien-tay-20260119093834336.htm",
+      "summary": "Đầu tháng Chạp, bao nụ hoa xuân đã e ấp chuẩn bị khoe sắc ở làng hoa Sa Đéc (Đồng Tháp) sau những tháng ngày nhà vườn cần mẫn chăm bón. Du khách cũng rộn ràng theo hoa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.927264+07:00",
+      "fetched": "2026-01-19T11:43:50.927376+07:00"
+    },
+    {
+      "id": "45a4e50eea65bfcac601a7df4840da51",
+      "title": "ASEAN Para Games chuẩn bị tranh tài",
+      "link": "https://tuoitre.vn/asean-para-games-chuan-bi-tranh-tai-2026011823341865.htm",
+      "summary": "Một tháng sau khi bế mạc SEA Games 33, nước chủ nhà Thái Lan lại hướng đến ASEAN Para Games - Đại hội thể thao người khuyết tật Đông Nam Á lần thứ 13.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.927129+07:00",
+      "fetched": "2026-01-19T11:43:50.927253+07:00"
+    },
+    {
+      "id": "0cb05d53cf1c7378c1a1aa9276be8131",
+      "title": "PGS.TS Nguyễn Hữu Huy Nhựt làm hiệu trưởng Trường đại học Hoa Sen",
+      "link": "https://tuoitre.vn/pgs-ts-nguyen-huu-huy-nhut-lam-hieu-truong-truong-dai-hoc-hoa-sen-20260119095334266.htm",
+      "summary": "Sáng nay 19-1, Trường đại học Hoa Sen công bố quyết định của hội đồng trường bổ nhiệm PGS.TS Nguyễn Hữu Huy Nhựt làm Hiệu trưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.926976+07:00",
+      "fetched": "2026-01-19T11:43:50.927112+07:00"
+    },
+    {
+      "id": "9726da9822a139c4d96e7b2f3871b105",
+      "title": "Thích ứng trong biến động toàn cầu",
+      "link": "https://tuoitre.vn/thich-ung-trong-bien-dong-toan-cau-20260119075927562.htm",
+      "summary": "Trước khi đến Việt Nam, tôi biết Việt Nam là một đất nước tăng trưởng nhanh chóng, nhưng là qua số liệu thống kê trên báo chí và các nghiên cứu học thuật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.926845+07:00",
+      "fetched": "2026-01-19T11:43:50.926957+07:00"
+    },
+    {
+      "id": "9601887b911facc60b615b0dd09fc7df",
+      "title": "Tiền vào 'cuồn cuộn như nước', chứng khoán nóng nhất nhóm cổ phiếu nào?",
+      "link": "https://tuoitre.vn/tien-vao-cuon-cuon-nhu-nuoc-chung-khoan-nong-nhat-nhom-co-phieu-nao-20260119090946481.htm",
+      "summary": "Thanh khoản chứng khoán cho biết có bao nhiêu tiền đang thực sự tham gia giao dịch và việc vào - ra thị trường có dễ hay không. Vậy ngành nào hút dòng tiền lớn nhất năm 2025?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.926722+07:00",
+      "fetched": "2026-01-19T11:43:50.926834+07:00"
+    },
+    {
+      "id": "69f80e31c63cebe7c7056f736447a83d",
+      "title": "Đại hội XIV của Đảng: Chuỗi chương trình nghệ thuật lan tỏa khát vọng phát triển Việt Nam",
+      "link": "https://tuoitre.vn/dai-hoi-xiv-cua-dang-chuoi-chuong-trinh-nghe-thuat-lan-toa-khat-vong-phat-trien-viet-nam-20260119101111792.htm",
+      "summary": "Tại Hà Nội, nhiều chương trình nghệ thuật quy mô, được đầu tư công phu, đa dạng về loại hình, giàu chiều sâu tư tưởng; góp phần lan tỏa niềm tin, khơi dậy tinh thần đoàn kết, tự hào dân tộc và khát vọng phát triển đất nước trong giai đoạn mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.926597+07:00",
+      "fetched": "2026-01-19T11:43:50.926711+07:00"
+    },
+    {
+      "id": "e1ca6f5aa6577ea89fed29efd50df86c",
+      "title": "VinFast VF MPV 7 nhận cọc: Giá dự kiến 819 triệu đồng, nhiều trang bị xịn cho gia đình",
+      "link": "https://tuoitre.vn/vinfast-vf-mpv-7-nhan-coc-gia-du-kien-819-trieu-dong-nhieu-trang-bi-xin-cho-gia-dinh-20260119090301412.htm",
+      "summary": "Các đại lý đồng loạt hé lộ VinFast VF MPV 7 trên mạng xã hội. Phiên bản MPV điện cao cấp dự kiến giá 819 triệu đồng, định vị khách hàng gia đình và sẽ được bán song song với Limo Green.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.926468+07:00",
+      "fetched": "2026-01-19T11:43:50.926586+07:00"
+    },
+    {
+      "id": "b24a2135541d1ad005450f14228f76d7",
+      "title": "Trường đại học Y Dược Cần Thơ mở rộng tổ hợp xét tuyển, áp dụng V-SAT cho tất cả ngành",
+      "link": "https://tuoitre.vn/truong-dai-hoc-y-duoc-can-tho-mo-rong-to-hop-xet-tuyen-ap-dung-v-sat-cho-tat-ca-nganh-20260119095237036.htm",
+      "summary": "Năm 2026, Trường đại học Y Dược Cần Thơ bổ sung phương thức xét tuyển bằng kết quả thi đánh giá năng lực V-SAT, áp dụng cho tất cả các ngành với tổ hợp B00.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.926336+07:00",
+      "fetched": "2026-01-19T11:43:50.926456+07:00"
+    },
+    {
+      "id": "9d1a5780c46af3dbebd421d32f758e65",
+      "title": "Đi lễ hội Tết xưa Nha Trang, tìm về miền ký ức cũ",
+      "link": "https://tuoitre.vn/di-le-hoi-tet-xua-nha-trang-tim-ve-mien-ky-uc-cu-20260119100955035.htm",
+      "summary": "Lễ hội Tết xưa diễn ra xuyên suốt đến Tết Nguyên đán Bính Ngọ 2026 tại làng nghề Nha Trang Xưa với nhiều hoạt động trải nghiệm thu hút du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.926209+07:00",
+      "fetched": "2026-01-19T11:43:50.926324+07:00"
+    },
+    {
+      "id": "d4e6c981651ac128ba33ad4870a84e53",
+      "title": "GS.TS Lê Ngọc Thạch: 'Khi không còn tiền, tui vẫn góp sức'",
+      "link": "https://tuoitre.vn/gs-ts-le-ngoc-thach-khi-khong-con-tien-tui-van-gop-suc-2026011910045084.htm",
+      "summary": "Không xe hơi, không biệt thự, tiền chỉ dành làm thiện nguyện. Một năm qua đi, Tuổi Trẻ trò chuyện với GS.TS Lê Ngọc Thạch về 'tấm lòng tiền tỉ' của ông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.926080+07:00",
+      "fetched": "2026-01-19T11:43:50.926196+07:00"
+    },
+    {
+      "id": "5793b936619ce6862c29e28809420d2d",
+      "title": "Đại biểu Đại hội XIV của Đảng dành 1 phút mặc niệm tưởng nhớ cố Tổng Bí thư Nguyễn Phú Trọng",
+      "link": "https://tuoitre.vn/dai-bieu-dai-hoi-xiv-cua-dang-danh-1-phut-mac-niem-tuong-nho-co-tong-bi-thu-nguyen-phu-trong-2026011910192721.htm",
+      "summary": "Tại phiên họp trù bị Đại hội XIV của Đảng, các đại biểu dành 1 phút mặc niệm tưởng nhớ cố Tổng Bí thư Nguyễn Phú Trọng và các ủy viên Ban Chấp hành Trung ương khóa XIII đã từ trần trong nhiệm kỳ Đại hội XIII.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.925929+07:00",
+      "fetched": "2026-01-19T11:43:50.926066+07:00"
+    },
+    {
+      "id": "1b2f87ce86b0bb57dbb13ca55c55fd36",
+      "title": "Chỉ cần nấu chín kỹ là an toàn: Đúng nhưng chưa đủ",
+      "link": "https://tuoitre.vn/chi-can-nau-chin-ky-la-an-toan-dung-nhung-chua-du-20260118232234618.htm",
+      "summary": "Không ít bà con thắc mắc: Thực phẩm nấu chín kỹ rồi có còn nguy hiểm không và cần làm gì để ăn uống an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.925798+07:00",
+      "fetched": "2026-01-19T11:43:50.925917+07:00"
+    },
+    {
+      "id": "7ee5455c2a3c96b96a298e88ae21a014",
+      "title": "Công an, biên phòng phối hợp cứu sống 2 du khách nước ngoài đuối nước",
+      "link": "https://tuoitre.vn/cong-an-bien-phong-phoi-hop-cuu-song-2-du-khach-nuoc-ngoai-duoi-nuoc-20260119102718329.htm",
+      "summary": "Lực lượng công an, biên phòng đã cứu nạn nhóm du khách ngoại quốc tắm biển bị nạn tại khu vực bãi Tiên, xã Hòa Xuân, Đắk Lắk (trước thuộc thị xã Đông Hòa, Phú Yên cũ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.925656+07:00",
+      "fetched": "2026-01-19T11:43:50.925785+07:00"
+    },
+    {
+      "id": "7ab5e9198be570187d538c8da7df434c",
+      "title": "Tây Ban Nha: Hai tàu cao tốc chở 400 khách đâm nhau, ít nhất 21 người chết",
+      "link": "https://tuoitre.vn/tay-ban-nha-hai-tau-cao-toc-cho-400-khach-dam-nhau-it-nhat-21-nguoi-chet-20260119103101168.htm",
+      "summary": "Ít nhất 21 người thiệt mạng và hàng chục người bị thương khi hai tàu cao tốc va chạm nghiêm trọng tại miền nam Tây Ban Nha sáng 19-1 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:43:50.925433+07:00",
+      "fetched": "2026-01-19T11:43:50.925641+07:00"
+    },
     {
       "id": "6235d99ecfe4c762e39a717fbe712cbe",
       "title": "Nguyên nhân nghẽn giao dịch cao điểm và giải pháp từ Bizfly Cloud",
@@ -303,6 +453,256 @@ window.newsData_2026_01_19 = {
       "fetched": "2026-01-19T08:05:52.315965+07:00"
     },
     {
+      "id": "815244e3bc1bd3279fb5c5950d48a9bd",
+      "title": "Ngành thuế giám sát dòng tiền của hộ kinh doanh thế nào?",
+      "link": "https://thanhnien.vn/nganh-thue-giam-sat-dong-tien-cua-ho-kinh-doanh-the-nao-185260119095719362.htm",
+      "summary": "Cơ quan thuế có đầy đủ công cụ, dữ liệu để giám sát nghĩa vụ thuế của người nộp thuế. Hộ kinh doanh cần xác định bài toán kinh doanh lâu dài, dựa trên sự trung thực trong thực hiện nghĩa vụ thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:40:00+07:00",
+      "fetched": "2026-01-19T11:43:49.782774+07:00"
+    },
+    {
+      "id": "970fc686cc3555be874221a671773755",
+      "title": "Toàn cảnh phiên trù bị Đại hội XIV của Đảng",
+      "link": "https://thanhnien.vn/toan-canh-phien-tru-bi-dai-hoi-xiv-cua-dang-18526011910262237.htm",
+      "summary": "Tại phiên trù bị Đại hội XIV của Đảng diễn ra sáng nay 19.1, các đại biểu đã dành phút mặc niệm cố Tổng Bí thư Nguyễn Phú Trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:29:00+07:00",
+      "fetched": "2026-01-19T11:43:49.782946+07:00"
+    },
+    {
+      "id": "141af86862210b59edf40a13edc2f2f7",
+      "title": "Hiện trường vụ tàu cao tốc đâm nhau ở Tây Ban Nha",
+      "link": "https://vnexpress.net/hien-truong-vu-tau-cao-toc-dam-nhau-o-tay-ban-nha-5007201.html",
+      "summary": "Hai đoàn tàu hư hại nghiêm trọng sau vụ va chạm khiến ít nhất 21 người chết và hơn 70 người bị thương ở miền nam Tây Ban Nha.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T04:25:50+07:00",
+      "fetched": "2026-01-19T11:43:53.322463+07:00"
+    },
+    {
+      "id": "02088f54604c04d1a9707abc2ae2fb50",
+      "title": "Người Việt tại Hàn Quốc quây quần đón Tết Bính Ngọ, giữ lửa quê hương nơi xứ người",
+      "link": "https://thanhnien.vn/nguoi-viet-tai-han-quoc-quay-quan-don-tet-binh-ngo-giu-lua-que-huong-noi-xu-nguoi-185260119085114852.htm",
+      "summary": "Cộng đồng người Việt tại Hàn Quốc cùng nhau đón Tết Bính Ngọ 2026 sớm, thắm đượm tinh thần đoàn kết, yêu nước và gìn giữ văn hóa truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:25:00+07:00",
+      "fetched": "2026-01-19T11:43:49.783127+07:00"
+    },
+    {
+      "id": "5bd6b74476990ae525cacdb302bdf082",
+      "title": "Trioderma đồng hành cùng Bệnh viện Thống Nhất tại hội thảo khoa học về liệu pháp Plasma",
+      "link": "https://thanhnien.vn/trioderma-dong-hanh-cung-benh-vien-thong-nhat-tai-hoi-thao-khoa-hoc-ve-lieu-phap-plasma-185260119113526751.htm",
+      "summary": "Thương hiệu dược mỹ phẩm Việt Nam Trioderma chinh phục các khách mời, chuyên gia da liễu tham dự hội thảo tại Bệnh viện Thống Nhất với câu chuyện chăm sóc làn da Việt chuẩn y khoa cùng đa tầng hoạt chất được nghiên cứu và phát triển toàn diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:23:00+07:00",
+      "fetched": "2026-01-19T11:43:49.783283+07:00"
+    },
+    {
+      "id": "66195a821a19a9e5c025e5c54151f5fe",
+      "title": "Cao tốc Hậu Giang - Cà Mau thông xe toàn tuyến từ 11 giờ trưa nay",
+      "link": "https://thanhnien.vn/cao-toc-hau-giang-ca-mau-thong-xe-toan-tuyen-tu-11h-trua-nay-185260119095454345.htm",
+      "summary": "Trưa nay, đoạn cao tốc Hậu Giang - Cà Mau dài 73,2 km thuộc dự án đường bộ cao tốc Bắc - Nam phía đông sẽ chính thức được đưa vào khai thác, giúp nối thông toàn tuyến cao tốc Cần Thơ - Cà Mau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:20:00+07:00",
+      "fetched": "2026-01-19T11:43:49.783441+07:00"
+    },
+    {
+      "id": "52e537338a38e96091b6645cdb4a468a",
+      "title": "Xem nhanh 12h: Đại hội XIV của Đảng bắt đầu ngày làm việc đầu tiên với phiên trù bị",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-dai-hoi-xiv-cua-dang-bat-dau-ngay-lam-viec-dau-tien-voi-phien-tru-bi-185260119111618668.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 19.1.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:16:00+07:00",
+      "fetched": "2026-01-19T11:43:49.783595+07:00"
+    },
+    {
+      "id": "b2cd80a55b9577e038a315e813f2ee99",
+      "title": "Lễ chào cờ đặc biệt của người trẻ",
+      "link": "https://thanhnien.vn/le-chao-co-dac-biet-cua-nguoi-tre-185260119101139149.htm",
+      "summary": "Trong không khí trang nghiêm và đầy xúc động tại trụ sở T.Ư Đoàn, Lễ chào cờ đặc biệt chào mừng Đại hội XIV của Đảng đã diễn ra như một lời hứa sắt son của thế hệ trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:15:00+07:00",
+      "fetched": "2026-01-19T11:43:49.783746+07:00"
+    },
+    {
+      "id": "6b2e607c29ca993066fc59959536f578",
+      "title": "Tổng thống Iran cảnh báo 'chiến tranh' nếu lãnh tụ Khamenei bị nhắm mục tiêu",
+      "link": "https://thanhnien.vn/tong-thong-iran-canh-bao-chien-tranh-neu-lanh-tu-khamenei-bi-nham-muc-tieu-185260119101343616.htm",
+      "summary": "Tổng thống Iran hôm 18.1 cảnh báo bất kỳ cuộc tấn công nào của Mỹ cũng sẽ gây ra \"phản ứng rất nghiêm khắc\" từ Tehran, khi tình hình đã dần trở lại bình thường tại Iran sau đợt biểu tình lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:10:00+07:00",
+      "fetched": "2026-01-19T11:43:49.783901+07:00"
+    },
+    {
+      "id": "64c7d243fbe62b58dc96b3042fd95453",
+      "title": "Đạo diễn 'Vua sư tử' qua đời",
+      "link": "https://vnexpress.net/dao-dien-vua-su-tu-qua-doi-5007229.html",
+      "summary": "Roger Allers, đồng đạo diễn phim hoạt hình \"The Lion King\" (Vua sư tử), qua đời ở tuổi 77.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:02:38+07:00",
+      "fetched": "2026-01-19T11:43:46.294725+07:00"
+    },
+    {
+      "id": "12122e504658fee8efad9146f53728d0",
+      "title": "Trung Quốc 'quan ngại cao độ' về nạn lừa đảo ở Campuchia",
+      "link": "https://vnexpress.net/trung-quoc-quan-ngai-cao-do-ve-nan-lua-dao-o-campuchia-5007208.html",
+      "summary": "Đại sứ Trung Quốc tại Campuchia nêu lo ngại về tình trạng công dân mất tích liên quan tới các trung tâm lừa đảo trực tuyến, kêu gọi Phnom Penh tăng cường truy quét.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:00:22+07:00",
+      "fetched": "2026-01-19T11:43:46.294905+07:00"
+    },
+    {
+      "id": "12122e504658fee8efad9146f53728d0",
+      "title": "Trung Quốc 'quan ngại cao độ' về nạn lừa đảo ở Campuchia",
+      "link": "https://vnexpress.net/trung-quoc-quan-ngai-cao-do-ve-nan-lua-dao-o-campuchia-5007208.html",
+      "summary": "Đại sứ Trung Quốc tại Campuchia nêu lo ngại về tình trạng công dân mất tích liên quan tới các trung tâm lừa đảo trực tuyến, kêu gọi Phnom Penh tăng cường truy quét.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T04:00:22+07:00",
+      "fetched": "2026-01-19T11:43:53.322637+07:00"
+    },
+    {
+      "id": "e26549f70c75b577780dda5dff5a670a",
+      "title": "Ai cần đề phòng trước các đợt ô nhiễm không khí?",
+      "link": "https://vnexpress.net/ai-can-de-phong-truoc-cac-dot-o-nhiem-khong-khi-5007222.html",
+      "summary": "Trẻ nhỏ, người cao tuổi, có bệnh nền hoặc thường xuyên làm việc ngoài trời tăng phòng bệnh khi có các đợt ô nhiễm không khí, để tránh nhiễm bệnh và gặp biến chứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:00:00+07:00",
+      "fetched": "2026-01-19T11:43:46.295089+07:00"
+    },
+    {
+      "id": "cdd7313f3e74cbc40f6248dbd89d8ab5",
+      "title": "Thai nhi bị tràn dịch màng tim chào đời an toàn",
+      "link": "https://vnexpress.net/thai-nhi-bi-tran-dich-mang-tim-chao-doi-an-toan-5007160.html",
+      "summary": "Thai nhi ở tuần 36 bị tràn dịch màng ngoài tim, được bác sĩ theo dõi đến lúc chào đời an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:00:00+07:00",
+      "fetched": "2026-01-19T11:43:46.295253+07:00"
+    },
+    {
+      "id": "bed4bd3b7d4e155dbc7c0ededed69703",
+      "title": "Phát Đạt triển khai loạt công trình tại TP HCM dịp đầu năm",
+      "link": "https://vnexpress.net/phat-dat-trien-khai-loat-cong-trinh-tai-tp-hcm-dip-dau-nam-5007065.html",
+      "summary": "Công ty Cổ phần Phát triển Bất động sản Phát Đạt đang triển khai dự án cảnh quan khu đất Nhà thi đấu Phan Đình Phùng và Trường Tiểu học Bình Chuẩn 3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:00:00+07:00",
+      "fetched": "2026-01-19T11:43:46.295411+07:00"
+    },
+    {
+      "id": "86f001781a3ff5fe2b4fb36b87793ff2",
+      "title": "5 điện thoại Android xuất sắc nhất năm 2025",
+      "link": "https://thanhnien.vn/5-dien-thoai-android-xuat-sac-nhat-nam-2025-18526011715252082.htm",
+      "summary": "Những cái tên thống trị bảng xếp hạng điện thoại Android uy tín nhất năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:00:00+07:00",
+      "fetched": "2026-01-19T11:43:49.784067+07:00"
+    },
+    {
+      "id": "47f6e8edb3d5611e669e6fc4647e36b8",
+      "title": "Tìm cô bé có suy nghĩ giống anh",
+      "link": "https://vnexpress.net/tim-co-be-co-suy-nghi-giong-anh-5007221.html",
+      "summary": "Em à, anh hy vọng phép màu nào đó sẽ mang em đến, để em lắng nghe tiếng lòng của anh nhé.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:55:38+07:00",
+      "fetched": "2026-01-19T11:43:46.295516+07:00"
+    },
+    {
+      "id": "15b07cc94ee55c9623ff590e53d3b436",
+      "title": "Đức tuyên bố hoàn thành nhiệm vụ, rút binh sĩ khỏi Greenland",
+      "link": "https://vnexpress.net/duc-tuyen-bo-hoan-thanh-nhiem-vu-rut-binh-si-khoi-greenland-5007166.html",
+      "summary": "Quân đội Đức thông báo 15 binh sĩ triển khai đến Greenland đã kết thúc nhiệm vụ trinh sát, nhấn mạnh chiến dịch này không bị hủy bỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:53:17+07:00",
+      "fetched": "2026-01-19T11:43:46.295675+07:00"
+    },
+    {
+      "id": "15b07cc94ee55c9623ff590e53d3b436",
+      "title": "Đức tuyên bố hoàn thành nhiệm vụ, rút binh sĩ khỏi Greenland",
+      "link": "https://vnexpress.net/duc-tuyen-bo-hoan-thanh-nhiem-vu-rut-binh-si-khoi-greenland-5007166.html",
+      "summary": "Quân đội Đức thông báo 15 binh sĩ triển khai đến Greenland đã kết thúc nhiệm vụ trinh sát, nhấn mạnh chiến dịch này không bị hủy bỏ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T03:53:17+07:00",
+      "fetched": "2026-01-19T11:43:53.322806+07:00"
+    },
+    {
+      "id": "0cfa12373e29f00a3cae56a72763b4df",
+      "title": "Chuyên gia tiết lộ mẹo ăn tinh bột không lo tăng đường huyết",
+      "link": "https://vnexpress.net/chuyen-gia-tiet-lo-meo-an-tinh-bot-khong-lo-tang-duong-huyet-5007194.html",
+      "summary": "Jessie Inchauspé, nhà sinh hóa học người Pháp, khuyên kết hợp tinh bột với protein, chất xơ hoặc chất béo lành mạnh giúp đường huyết cân bằng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:52:25+07:00",
+      "fetched": "2026-01-19T11:43:46.295832+07:00"
+    },
+    {
+      "id": "afb501478ecabe656a005ab300de8064",
+      "title": "Bộ Tài chính trả lời về thưởng Tết cho giáo viên hợp đồng",
+      "link": "https://vnexpress.net/bo-tai-chinh-tra-loi-viec-giao-vien-hop-dong-co-duoc-thuong-tet-theo-nghi-dinh-73-khong-5007193.html",
+      "summary": "Giáo viên hợp đồng có thể được thưởng Tết theo Nghị định 73, song phải đáp ứng một số điều kiện, theo Bộ Tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:49:44+07:00",
+      "fetched": "2026-01-19T11:43:46.296011+07:00"
+    },
+    {
+      "id": "9aef691e9fd2cffa6f1531387f9c5017",
+      "title": "5 xe gầm cao bán nhiều nhất tháng 12/2025",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-xe-gam-cao-ban-nhieu-nhat-thang-12-2025-5007253.html",
+      "summary": "Ba mẫu crossover nhà VinFast dẫn đầu danh sách xe bàn giao nhiều nhất tháng cuối năm, Xforce và CX-5 lần lượt ở các thứ hạng tiếp theo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:43:38+07:00",
+      "fetched": "2026-01-19T11:43:46.296208+07:00"
+    },
+    {
+      "id": "071ecf82cca4fc621f0202bfb91835b7",
+      "title": "Thời trang thảm đỏ của Kylie Jenner qua 15 năm",
+      "link": "https://vnexpress.net/thoi-trang-tham-do-cua-kylie-jenner-qua-15-nam-5006561.html",
+      "summary": "Ngôi sao truyền hình Kylie Jenner \"lột xác\" hình ảnh, ngày càng ăn mặc táo bạo so với thời tuổi teen.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:43:07+07:00",
+      "fetched": "2026-01-19T11:43:46.296376+07:00"
+    },
+    {
+      "id": "dc0a4ef7e7b9b64c546efe90d21b7b99",
+      "title": "Bản lĩnh trở về và tìm kiếm một bến đỗ bình yên",
+      "link": "https://vnexpress.net/ban-linh-tro-ve-va-tim-kiem-mot-ben-do-binh-yen-5007219.html",
+      "summary": "Anh là người con của Hà Nội, vừa trở về sau hành trình 10 năm học tập và lập nghiệp tại Osaka, Nhật Bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:40:58+07:00",
+      "fetched": "2026-01-19T11:43:46.296470+07:00"
+    },
+    {
+      "id": "ffa1ff4402803a7353adb8e3acd04e64",
+      "title": "Top xe động cơ xăng, dầu bán nhiều nhất tháng 12/2025",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/top-xe-dong-co-xang-dau-ban-nhieu-nhat-thang-12-2025-5007241.html",
+      "summary": "Mitsubishi Xforce bàn giao nhiều xe nhất tháng cuối năm với hơn 3.100 xe, Mada CX-5 giữ hạng hai với gần 2.600 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:40:44+07:00",
+      "fetched": "2026-01-19T11:43:46.296628+07:00"
+    },
+    {
       "id": "8efa71a667faec7e28433d619f3f1e77",
       "title": "Cựu cầu thủ Man Utd: 'U23 Trung Quốc giống như kẹo chocolate dở tệ'",
       "link": "https://vnexpress.net/cuu-cau-thu-man-utd-u23-trung-quoc-giong-nhu-keo-chocolate-do-te-5007132.html",
@@ -311,6 +711,16 @@ window.newsData_2026_01_19 = {
       "category": "Thể thao",
       "published": "2026-01-19T03:37:44+07:00",
       "fetched": "2026-01-19T10:42:43.085197+07:00"
+    },
+    {
+      "id": "919e7920c409b4da84f3ae1669958e3e",
+      "title": "Cánh đồng hoa hơn hai hecta giữa lòng TP HCM",
+      "link": "https://vnexpress.net/canh-dong-hoa-hon-hai-hecta-giua-long-tp-hcm-5007171.html",
+      "summary": "Những ngày đầu năm, vườn hoa rộng hơn 2 ha trong khu đô thị ở phường Hiệp Bình thu hút nhiều người đến dạo chơi, chụp hình với các loài hoa đặc trưng của cả ba miền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T03:36:00+07:00",
+      "fetched": "2026-01-19T11:43:46.296931+07:00"
     },
     {
       "id": "3442c039095c9e42210f2038858e36d0",
@@ -361,6 +771,16 @@ window.newsData_2026_01_19 = {
       "category": "Thể thao",
       "published": "2026-01-19T03:24:07+07:00",
       "fetched": "2026-01-19T10:42:43.085888+07:00"
+    },
+    {
+      "id": "68b16171d0f0d5959c913b3efdc3178e",
+      "title": "Giá tiền ảo Pi 'sập' mạnh đầu năm",
+      "link": "https://vnexpress.net/gia-tien-ao-pi-sap-manh-dau-nam-5007159.html",
+      "summary": "Tiền ảo Pi Network biến động mạnh sáng 19/1, khi giá trị mỗi đồng còn 0,15 USD, thấp nhất từ trước đến nay.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-19T03:20:58+07:00",
+      "fetched": "2026-01-19T11:43:59.023848+07:00"
     },
     {
       "id": "29577220aea89628efe4d0fe6c693ef3",
