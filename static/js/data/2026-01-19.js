@@ -1,7 +1,157 @@
 window.newsData_2026_01_19 = {
   "date": "2026-01-19",
-  "lastUpdated": "2026-01-19T11:44:01.441228+07:00",
+  "lastUpdated": "2026-01-19T13:25:42.601536+07:00",
   "articles": [
+    {
+      "id": "9e3e85933ca025c73339c074c7d47cfa",
+      "title": "Trở về cùng dựng xây quê hương - Kỳ 5: 'Chỉ sống ở Việt Nam, tôi mới hạnh phúc trọn vẹn'",
+      "link": "https://tuoitre.vn/tro-ve-cung-dung-xay-que-huong-ky-5-chi-song-o-viet-nam-toi-moi-hanh-phuc-tron-ven-20260119091120307.htm",
+      "summary": "Ở Hội An (Đà Nẵng) có một chuỗi nhà hàng nằm trong khu phố cổ được nhiều khách quốc tế biết đến với tên gọi Mango.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.671745+07:00",
+      "fetched": "2026-01-19T13:25:32.671861+07:00"
+    },
+    {
+      "id": "0838577e3a1e2ecd37e211becc4bcdc8",
+      "title": "Cổ động viên Trung Quốc tin đội nhà sẽ thắng U23 Việt Nam",
+      "link": "https://tuoitre.vn/co-dong-vien-trung-quoc-tin-doi-nha-se-thang-u23-viet-nam-20260119084339582.htm",
+      "summary": "Trước trận bán kết giữa U23 Trung Quốc với U23 Việt Nam diễn ra ngày 20-1 ở Giải U23 châu Á 2026, nhiều cổ động viên Trung Quốc tin tưởng đội nhà sẽ giành chiến thắng trước thầy trò HLV Kim Sang Sik.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.671609+07:00",
+      "fetched": "2026-01-19T13:25:32.671733+07:00"
+    },
+    {
+      "id": "02fafdb4ba9f2fadd7b869e5284d89ee",
+      "title": "Hình ảnh bên trong Công ty Medistar sản xuất collagen, vitamin giả có doanh thu 1.800 tỉ đồng",
+      "link": "https://tuoitre.vn/hinh-anh-ben-trong-cong-ty-medistar-san-xuat-collagen-vitamin-gia-co-doanh-thu-1-800-ti-dong-20260119100805091.htm",
+      "summary": "Theo Công an tỉnh Lào Cai, từ năm 2012 đến năm 2025, Đoàn Trung Đức, Tổng giám đốc Công ty TNHH Medistar Việt Nam, cùng những người liên quan đã bán ra thị trường hàng trăm tấn thực phẩm chức năng giả các loại với doanh thu gần 1.800 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.671476+07:00",
+      "fetched": "2026-01-19T13:25:32.671597+07:00"
+    },
+    {
+      "id": "f67dc5ebadadd1b27a5d15fdb1ba0fc2",
+      "title": "Marty Supreme của Timothée Chalamet là phim ăn khách nhất Bắc Mỹ của hãng A24",
+      "link": "https://tuoitre.vn/marty-supreme-cua-timothee-chalamet-la-phim-an-khach-nhat-bac-my-cua-hang-a24-20260119110953703.htm",
+      "summary": "Bộ phim 'Marty Supreme' của Timothée Chalamet lập kỷ lục doanh thu nội địa, trở thành bộ phim ăn khách nhất trong lịch sử hãng phát hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.671350+07:00",
+      "fetched": "2026-01-19T13:25:32.671464+07:00"
+    },
+    {
+      "id": "e094938db3e0845ff1f5268c0a014d00",
+      "title": "Hà Anh Tuấn, concert tử tế và tương kính như tân",
+      "link": "https://tuoitre.vn/ha-anh-tuan-concert-tu-te-va-tuong-kinh-nhu-tan-20260119102238333.htm",
+      "summary": "Sau nhiều năm kiên trì, Hà Anh Tuấn đã tạo nên thương hiệu concert tử tế. Anh và ê kíp nỗ lực làm concert chỉn chu, hoành tráng với phần thẩm mỹ luôn vượt trội và sự chăm chút trong giọng hát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.671226+07:00",
+      "fetched": "2026-01-19T13:25:32.671338+07:00"
+    },
+    {
+      "id": "62c47ee95ebf9338ac75622a56ebb12b",
+      "title": "Vừa chào sàn phiên đầu tiên, cổ phiếu 'cá mập' Dragon Capital Việt Nam tăng kịch trần 40%",
+      "link": "https://tuoitre.vn/vua-chao-san-phien-dau-tien-co-phieu-ca-map-dragon-capital-viet-nam-tang-kich-tran-40-20260119105440146.htm",
+      "summary": "Dragon Capital Việt Nam - 'cá mập' quản lý khối tài sản 5,4 tỉ USD, vừa chính thức giao dịch cổ phiếu lần đầu trên UPCoM, lập tức tăng hết biên độ 40%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.671102+07:00",
+      "fetched": "2026-01-19T13:25:32.671215+07:00"
+    },
+    {
+      "id": "3f8a8444794af0f22bd0805be231b3e7",
+      "title": "Đổ bê tông nhựa điểm đầu cao tốc ở An Giang chào mừng Đại hội XIV của Đảng",
+      "link": "https://tuoitre.vn/do-be-tong-nhua-diem-dau-cao-toc-o-an-giang-de-chao-mung-dai-hoi-xiv-cua-dang-20260119111439468.htm",
+      "summary": "Tại điểm đầu cao tốc Châu Đốc - Cần Thơ - Sóc Trăng, đơn vị thi công đã huy động công nhân khẩn trương đổ bê tông nhựa 550m đường chính và đường nhánh để chào mừng Đại hội XIV của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.670972+07:00",
+      "fetched": "2026-01-19T13:25:32.671090+07:00"
+    },
+    {
+      "id": "92d1e6cc811d2acd926d2a27e8c4a639",
+      "title": "Israel chặn thương vụ Mỹ thâu tóm công ty phát triển Vòm Sắt",
+      "link": "https://tuoitre.vn/israel-chan-thuong-vu-my-thau-tom-cong-ty-phat-trien-vom-sat-20260119114332177.htm",
+      "summary": "Bộ Quốc phòng Israel đang tạm dừng phê duyệt thương vụ tập đoàn Mỹ mua lại công ty phát triển hệ thống phòng không Vòm Sắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.670829+07:00",
+      "fetched": "2026-01-19T13:25:32.670959+07:00"
+    },
+    {
+      "id": "655a3aeda13767d265045d9b7d70f883",
+      "title": "Đại biểu trẻ dự Đại hội XIV kỳ vọng Đảng có nhiều quyết sách mang lại cơ hội cho người trẻ",
+      "link": "https://tuoitre.vn/dai-bieu-tre-du-dai-hoi-xiv-ky-vong-dang-co-nhieu-quyet-sach-mang-lai-co-hoi-cho-nguoi-tre-20260119115336829.htm",
+      "summary": "Nhiều đại biểu trẻ là bí thư đoàn các tỉnh, thành bày tỏ kỳ vọng Đại hội XIV của Đảng sẽ đưa ra nhiều chính sách đột phá về thu hút nguồn nhân lực trẻ, chất lượng cao, đặc biệt lĩnh vực khoa học, công nghệ, chuyển đổi số...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.670694+07:00",
+      "fetched": "2026-01-19T13:25:32.670818+07:00"
+    },
+    {
+      "id": "93c47357af033df686dd45a57c2da383",
+      "title": "Bộ Công an đồng tình bỏ 1 bài thi hình khi sát hạch bằng lái xe máy",
+      "link": "https://tuoitre.vn/bo-cong-an-dong-tinh-bo-1-bai-thi-hinh-khi-sat-hach-bang-lai-xe-may-20260119120548489.htm",
+      "summary": "Cơ quan soạn thảo sẽ nghiên cứu phương án thay thế bài thi hình số 2 bằng bài sát hạch xử lý tình huống giả định trên đường, nhằm nâng cao kỹ năng điều khiển của học viên, giảm thiểu tai nạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.670568+07:00",
+      "fetched": "2026-01-19T13:25:32.670683+07:00"
+    },
+    {
+      "id": "266093a2fea299b7d2115c7d26ff9561",
+      "title": "Seoul tăng mức hỗ trợ cho người mua xe điện",
+      "link": "https://tuoitre.vn/seoul-tang-muc-ho-tro-cho-nguoi-mua-xe-dien-20260119090052272.htm",
+      "summary": "Trong nỗ lực làm xanh và sạch môi trường, thủ đô Seoul của Hàn Quốc sẽ mở rộng các ưu đãi mua xe điện trong năm 2026 từ hỗ trợ của ngân sách thành phố cho chương trình chuyển đổi ô tô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.670439+07:00",
+      "fetched": "2026-01-19T13:25:32.670556+07:00"
+    },
+    {
+      "id": "6b07b6a76777c68b9422f8e2d0fc0615",
+      "title": "Báo Trung Quốc điểm tên 4 cầu nguy hiểm nhất của U23 Việt Nam",
+      "link": "https://tuoitre.vn/bao-trung-quoc-diem-ten-4-cau-nguy-hiem-nhat-cua-u23-viet-nam-20260119104509835.htm",
+      "summary": "Tờ Sina (Trung Quốc) đã chỉ ra 4 cầu thủ đáng ngại nhất của U23 Việt Nam mà đội nhà cần lưu tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.670312+07:00",
+      "fetched": "2026-01-19T13:25:32.670427+07:00"
+    },
+    {
+      "id": "4baa4026429811ec0459d5b7be6ed117",
+      "title": "Phụ huynh thắc mắc website tuyển sinh chưa có thông tin, Sở GD-ĐT TP.HCM nói gì?",
+      "link": "https://tuoitre.vn/phu-huynh-thac-mac-website-tuyen-sinh-chua-co-thong-tin-so-gd-dt-tp-hcm-noi-gi-20260119105506912.htm",
+      "summary": "Sở Giáo dục và đào tạo TP.HCM đã công bố các bước đăng ký tuyển sinh đầu cấp năm học 2026-2027. Tuy nhiên, phụ huynh loay hoay khi truy cập website mà không thực hiện được các bước, cũng như không có thông tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.670176+07:00",
+      "fetched": "2026-01-19T13:25:32.670300+07:00"
+    },
+    {
+      "id": "d42c7212aa6cc86345d8618db51aba11",
+      "title": "Lần đầu tiên khán giả Việt có thể xem Hàm cá mập trên màn ảnh rộng",
+      "link": "https://tuoitre.vn/lan-dau-tien-khan-gia-viet-co-the-xem-ham-ca-map-tren-man-anh-rong-20260119115113681.htm",
+      "summary": "Hàm cá mập, một trong những tác phẩm có sức ảnh hưởng sâu rộng nhất trong lịch sử điện ảnh thế giới, sẽ lần đầu tiên ra mắt khán giả Việt Nam trên màn ảnh rộng từ ngày 23-1 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.670028+07:00",
+      "fetched": "2026-01-19T13:25:32.670163+07:00"
+    },
+    {
+      "id": "c04ed61fb13a41066287450180e622da",
+      "title": "EU dọa tung đòn trả đũa thuế Mỹ, giá vàng và bạc tăng kỷ lục",
+      "link": "https://tuoitre.vn/eu-doa-tung-don-tra-dua-thue-my-gia-vang-va-bac-tang-ky-luc-20260119115403161.htm",
+      "summary": "EU cảnh báo trả đũa thuế quan của Mỹ liên quan đến Greenland, khiến căng thẳng thương mại leo thang, nhà đầu tư tìm nơi trú ẩn, đẩy vàng và bạc lên đỉnh mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:25:32.669773+07:00",
+      "fetched": "2026-01-19T13:25:32.670011+07:00"
+    },
     {
       "id": "db98a3872a9665d6666f1da1a188ce47",
       "title": "Lãnh đạo Đảng, Nhà nước và các đại biểu đến dự phiên trù bị Đại hội Đảng XIV",
@@ -453,6 +603,376 @@ window.newsData_2026_01_19 = {
       "fetched": "2026-01-19T08:05:52.315965+07:00"
     },
     {
+      "id": "11cfb3b5d02b72821a16ece8f8af4d33",
+      "title": "Sedan hạng B năm 2025: Doanh số lao dốc, Hyundai Accent mất sức hút",
+      "link": "https://thanhnien.vn/sedan-hang-b-nam-2025-doanh-so-lao-doc-hyundai-accent-mat-suc-hut-185260117140147501.htm",
+      "summary": "Lượng tiêu thụ xe sedan hạng B năm 2025 tiếp tục giảm 16% trong bối cảnh người dùng xe chuyển dần sang xe đa dụng. Toyota Vios dẫn đầu phân khúc, trong khi Honda City bứt phá chiếm vị trí thứ hai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T06:21:00+07:00",
+      "fetched": "2026-01-19T13:25:31.717379+07:00"
+    },
+    {
+      "id": "c4959add0caeb9ecc9e2e08773c1857d",
+      "title": "Đỗ xe máy trên vỉa hè trung tâm TP.HCM, hàng loạt trường hợp bị CSGT phạt",
+      "link": "https://thanhnien.vn/do-xe-may-tren-via-he-trung-tam-tphcm-hang-loat-truong-hop-bi-csgt-phat-185260119131400581.htm",
+      "summary": "Nhiều trường hợp đỗ xe máy trên vỉa hè ở trung tâm TP.HCM đã bị CSGT cùng Công an phường Xuân Hòa lập biên bản, xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T06:16:00+07:00",
+      "fetched": "2026-01-19T13:25:31.717555+07:00"
+    },
+    {
+      "id": "c741c488c9b06d0b0793ebcac1443185",
+      "title": "Tỷ phú có khả năng tham gia chính trị gấp 4.000 lần người thường",
+      "link": "https://vnexpress.net/ty-phu-co-kha-nang-tham-gia-chinh-tri-gap-4-000-lan-nguoi-thuong-5007300.html",
+      "summary": "Khả năng nắm giữ quyền lực chính trị của các tỷ phú cao hơn 4.000 lần so với những người thông thường, theo Oxfam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-19T06:09:02+07:00",
+      "fetched": "2026-01-19T13:25:37.078579+07:00"
+    },
+    {
+      "id": "23c317baab63c2f55cf501a2d2bcdb7e",
+      "title": "Đạo diễn 'Vua sư tử' qua đời",
+      "link": "https://thanhnien.vn/dao-dien-vua-su-tu-qua-doi-18526011912524077.htm",
+      "summary": "Theo The Hollywood Reporter hôm 19.1 (giờ Việt Nam), đạo diễn Roger Allers – nhà làm phim tài danh đứng sau phim hoạt hình ăn khách 'Vua sư tử 'của Disney, vừa qua đời sau thời gian chống chọi với bệnh tật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T06:07:00+07:00",
+      "fetched": "2026-01-19T13:25:31.717716+07:00"
+    },
+    {
+      "id": "e38032a15f9b1be2d0e09f31f11e82d9",
+      "title": "Nhựa Bình Minh lãi kỷ lục khi về tay người Thái",
+      "link": "https://vnexpress.net/nhua-binh-minh-lai-ky-luc-khi-ve-tay-nguoi-thai-5007298.html",
+      "summary": "Doanh thu tăng giúp Nhựa Bình Minh lãi hơn 1.200 tỷ đồng năm 2025, mức kỷ lục 50 năm qua dưới sự điều hành của cổ đông Thái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-19T06:01:27+07:00",
+      "fetched": "2026-01-19T13:25:37.078760+07:00"
+    },
+    {
+      "id": "4956de7eefa53d4249acc7745827cdc6",
+      "title": "Ngân sách đã tiết kiệm được khoảng 1,5 triệu tỉ",
+      "link": "https://thanhnien.vn/ngan-sach-da-tiet-kiem-duoc-khoang-15-trieu-ti-185260119125319399.htm",
+      "summary": "Nguồn tiết kiệm này sẽ bổ sung nguồn lực cho đầu tư phát triển, quốc phòng, an ninh, khoa học - công nghệ, cải cách tiền lương, an sinh xã hội, xóa nhà dột nát và xây dựng trường học tại các vùng biên giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T06:01:00+07:00",
+      "fetched": "2026-01-19T13:25:31.717875+07:00"
+    },
+    {
+      "id": "2a480732c4ad12e61aae3a712a0d4acb",
+      "title": "Venus Williams thua đau ở Australia Mở rộng 2026",
+      "link": "https://vnexpress.net/venus-williams-thua-dau-o-australia-mo-rong-2026-5007334.html",
+      "summary": "Huyền thoại Mỹ Venus Williams bị nhiều CĐV kêu gọi giải nghệ, sau khi thua ngược Olga Danilovic 7-6(5), 3-6, 4-6, ở vòng một đơn nữ Australia Mở rộng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-19T05:56:20+07:00",
+      "fetched": "2026-01-19T13:25:42.592372+07:00"
+    },
+    {
+      "id": "9cc01a1903b4dacc357d26044507332e",
+      "title": "Trường ĐH Quản lý Công nghệ TP.HCM - Trường CĐ Công thương TP.HCM: Chiến đấu đến cùng",
+      "link": "https://thanhnien.vn/truong-dh-quan-ly-cong-nghe-tphcm-truong-cd-cong-thuong-tphcm-chien-dau-den-cung-185260119053837601.htm",
+      "summary": "14 giờ hôm nay trên sân Tao Đàn diễn ra lượt trận cuối nhóm 3 vòng loại khu vực TP.HCM, giải bóng đá Thanh Niên sinh viên Việt Nam lần IV năm 2026 - cúp THACO (TNSV THACO cup 2026) giữa đội Trường ĐH Quản lý Công nghệ TP.HCM với đội Trường CĐ Công thương TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:56:00+07:00",
+      "fetched": "2026-01-19T13:25:31.718053+07:00"
+    },
+    {
+      "id": "1ff2fe8be4d4f1f3b66d8eb4f1215bee",
+      "title": "Trường ĐH Sư phạm TDTT Hà Nội - Trường ĐH Công nghệ Đông Á: Khó lường",
+      "link": "https://thanhnien.vn/truong-dh-su-pham-tdtt-ha-noi-truong-dh-cong-nghe-dong-a-kho-luong-185260119110201907.htm",
+      "summary": "Dù không còn cơ hội đoạt vé dự vòng chung kết TNSV THACO cup 2026, nhưng cả hai đội Trường ĐH Sư phạm TDTT Hà Nội và Trường ĐH Công nghệ Đông Á (14 giờ, 19.1) hứa hẹn tạo nên trận đấu đẹp trong ngày chia tay giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:48:00+07:00",
+      "fetched": "2026-01-19T13:25:31.718208+07:00"
+    },
+    {
+      "id": "ad82be9ed75a38556fb18d0c5cb6e9a9",
+      "title": "Sedan hạng B dưới 600 triệu năm 2025: Toyota Vios dẫn đầu, Honda City vượt Hyundai Accent",
+      "link": "https://thanhnien.vn/sedan-hang-b-duoi-600-trieu-nam-2025-toyota-vios-dan-dau-honda-city-vuot-hyundai-accent-185260116112821569.htm",
+      "summary": "Lượng tiêu thụ ô tô sedan hạng B tầm giá dưới 600 triệu đồng tại Việt Nam trong năm tiếp tục sụt giảm, Toyota Vios giữ vững vị trí dẫn đầu về mặt doanh số, trong khi Honda City tăng trưởng vượt mặt Hyundai Accent vốn đang trên đà sụt giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:48:00+07:00",
+      "fetched": "2026-01-19T13:25:31.718360+07:00"
+    },
+    {
+      "id": "5ec60c0435dbdff5b8e2b01ccd09a950",
+      "title": "Giá Bitcoin hôm nay 19.1.2026: BTC sập sâu thổi bay hơn 800 triệu USD",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1912026-btc-sap-sau-thoi-bay-hon-800-trieu-usd-185260119114454576.htm",
+      "summary": "Giá Bitcoin hôm nay bất ngờ rơi thẳng đứng từ vùng 95.000 USD xuống còn 92.000 USD khiến hơn 800 triệu USD của nhà đầu tư trên thị trường phái sinh bị thanh lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:43:00+07:00",
+      "fetched": "2026-01-19T13:25:31.718510+07:00"
+    },
+    {
+      "id": "0e72e6985fbebf2bcb3f3af6b65a7b2d",
+      "title": "Những học sinh nào của TP.HCM được hỗ trợ tiền ăn, đồng phục, học ngoại khóa...?",
+      "link": "https://thanhnien.vn/nhung-hoc-sinh-nao-cua-tphcm-duoc-ho-tro-tien-an-dong-phuc-hoc-ngoai-khoa-185260119113710398.htm",
+      "summary": "Ngày 19.1, Sở GD-ĐT TP.HCM triển khai chính sách đặc thù hỗ trợ người học có hoàn cảnh đặc biệt theo Nghị quyết 80 của HĐND TP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:34:00+07:00",
+      "fetched": "2026-01-19T13:25:31.718663+07:00"
+    },
+    {
+      "id": "3b963a4b16c52dfb26eae1b158c89f72",
+      "title": "Kiều Minh Tuấn ở tuổi U.40: Tôi không tiếc nuối gì",
+      "link": "https://thanhnien.vn/kieu-minh-tuan-o-tuoi-u40-toi-khong-tiec-nuoi-gi-185260119112613683.htm",
+      "summary": "Tái xuất điện ảnh, Kiều Minh Tuấn gây ấn tượng khi hóa thân vào vai nghệ sĩ xiếc chịu cảnh 'gà trống nuôi con'. Trong cuộc trò chuyện với chúng tôi, nam diễn viên đã có những trải lòng về nhân vật này, đồng thời tiết lộ về cuộc sống ở tuổi U.40.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:32:00+07:00",
+      "fetched": "2026-01-19T13:25:31.718818+07:00"
+    },
+    {
+      "id": "897f0691942a434fb6e84f4972f6acd8",
+      "title": "Lịch cúp nước 6 phường ở TP.HCM từ tối nay đến ngày 22.1",
+      "link": "https://thanhnien.vn/lich-cup-nuoc-6-phuong-o-tphcm-tu-toi-nay-den-ngay-221-18526011912104121.htm",
+      "summary": "Từ tối nay ngày 19.1 đến ngày 22.1, có 6 phường ở TP.HCM cúp nước để thực hiện công tác bảo dưỡng, bảo trì hệ thống đường ống nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:30:00+07:00",
+      "fetched": "2026-01-19T13:25:31.718985+07:00"
+    },
+    {
+      "id": "c915d4bafea19319f13066df6abfd574",
+      "title": "Tổng Bí thư Tô Lâm và đại biểu Đại hội XIV viếng Lăng Bác",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-va-dai-bieu-dai-hoi-xiv-vieng-lang-bac-185260119121303685.htm",
+      "summary": "Ngày 19.1.2026, Tổng Bí thư Tô Lâm dẫn đầu đoàn đại biểu tham dự Đại hội XIV của Đảng đã đặt vòng hoa, vào Lăng viếng Chủ tịch Hồ Chí Minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:25:00+07:00",
+      "fetched": "2026-01-19T13:25:31.719141+07:00"
+    },
+    {
+      "id": "9091d9d9f576d9a75c555adf4364f80f",
+      "title": "Ngân hàng lớn nhất Thụy Sĩ trở thành cổ đông của VPBank",
+      "link": "https://vnexpress.net/ngan-hang-lon-nhat-thuy-si-tro-thanh-co-dong-cua-vpbank-5007285.html",
+      "summary": "UBS AG, ngân hàng lớn nhất Thụy Sĩ, hoàn tất mua 81,5 triệu cổ phiếu VPBank, tương đương 1,03% vốn của nhà băng này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:22:29+07:00",
+      "fetched": "2026-01-19T13:25:28.635510+07:00"
+    },
+    {
+      "id": "9091d9d9f576d9a75c555adf4364f80f",
+      "title": "Ngân hàng lớn nhất Thụy Sĩ trở thành cổ đông của VPBank",
+      "link": "https://vnexpress.net/ngan-hang-lon-nhat-thuy-si-tro-thanh-co-dong-cua-vpbank-5007285.html",
+      "summary": "UBS AG, ngân hàng lớn nhất Thụy Sĩ, hoàn tất mua 81,5 triệu cổ phiếu VPBank, tương đương 1,03% vốn của nhà băng này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-19T05:22:29+07:00",
+      "fetched": "2026-01-19T13:25:37.079886+07:00"
+    },
+    {
+      "id": "ed37697b60465bb43acbfdc8540258a6",
+      "title": "Đỗ xe máy trên vỉa hè: CSGT phạt nhiều trường hợp vi phạm ở trung tâm TP.HCM",
+      "link": "https://thanhnien.vn/do-xe-may-tren-via-he-csgt-phat-nhieu-truong-hop-vi-pham-o-trung-tam-tphcm-185260119112639626.htm",
+      "summary": "Nhiều người đỗ xe máy trên vỉa hè trái phép đã bị lượng CSGT lập biên bản xử lý khi tuần tra, kiểm soát trật tự đô thị trên địa bàn phường Xuân Hòa (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:21:00+07:00",
+      "fetched": "2026-01-19T13:25:31.719296+07:00"
+    },
+    {
+      "id": "12157ecb52c98d986fc9074eaad640f9",
+      "title": "Doanh số tăng kỷ lục, Ford Ranger 'chễm chệ' ngôi vương",
+      "link": "https://thanhnien.vn/doanh-so-tang-ky-luc-ford-ranger-chem-che-ngoi-vuong-185260117135209801.htm",
+      "summary": "Lượng xe bán tải tiêu thụ tại Việt Nam trong năm 2025 đạt 27.093 xe, tăng 14,5% so với năm trước đó. Ford Ranger vẫn giữ vị thế áp đảo, bỏ xa các mẫu xe đối thủ đến từ Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:19:00+07:00",
+      "fetched": "2026-01-19T13:25:31.719454+07:00"
+    },
+    {
+      "id": "a5e7019d5c172fb366a325516518e726",
+      "title": "Cay cú vì không được nhường đường, xe tải lạng lách ‘cà khịa’ ô tô con",
+      "link": "https://thanhnien.vn/cay-cu-vi-khong-duoc-nhuong-duong-xe-tai-lang-lach-ca-khia-o-to-con-185260118161457308.htm",
+      "summary": "Bức xúc vì nghĩ rằng ô tô con phía trước cố tình chèn đường, tài xế lái xe tải tăng tốc vượt lên, sau đó cố tình tạt đầu, lạng lách chèn đường để \"dằn mặt\" người khác bất chấp nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:18:00+07:00",
+      "fetched": "2026-01-19T13:25:31.719607+07:00"
+    },
+    {
+      "id": "aa5cf23d316ee3056de1e5e4e9b857a6",
+      "title": "Ôtô đâm vào dầm cầu rơi giữa đường, tài xế thiệt mạng",
+      "link": "https://vnexpress.net/oto-dam-vao-dam-cau-roi-giua-duong-tai-xe-thiet-mang-5007167.html",
+      "summary": "Chiếc xe đầu kéo va chạm với gầm cầu vượt và một thanh dầm kim loại rơi xuống giữa đường trước khi hai ôtô con chạy tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:06:56+07:00",
+      "fetched": "2026-01-19T13:25:28.635706+07:00"
+    },
+    {
+      "id": "bec1aa4e399b3de517d04317a6016a89",
+      "title": "Tên trộm vụng về ngã 4 lần khi cố tẩu thoát",
+      "link": "https://vnexpress.net/ten-trom-vung-ve-nga-4-lan-khi-co-tau-thoat-5007327.html",
+      "summary": "Andrew Pickering bị camera ghi lại cảnh liên tục ngã đau đớn khi định leo thang trốn khỏi hiện trường qua lỗ hổng trên mái nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:05:50+07:00",
+      "fetched": "2026-01-19T13:25:28.635874+07:00"
+    },
+    {
+      "id": "c42bd07a636827eec19d7d8c976db753",
+      "title": "Tên lửa mạnh nhất của NASA sẵn sàng đưa người lên Mặt Trăng",
+      "link": "https://vnexpress.net/ten-lua-manh-nhat-cua-nasa-san-sang-dua-nguoi-len-mat-trang-5007321.html",
+      "summary": "Tên lửa Hệ thống Phóng Không gian (SLS) của NASA được đưa đến bệ phóng để chuẩn bị cho Artemis 2, nhiệm vụ chở người bay quanh Mặt Trăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:05:09+07:00",
+      "fetched": "2026-01-19T13:25:28.636059+07:00"
+    },
+    {
+      "id": "c42bd07a636827eec19d7d8c976db753",
+      "title": "Tên lửa mạnh nhất của NASA sẵn sàng đưa người lên Mặt Trăng",
+      "link": "https://vnexpress.net/ten-lua-manh-nhat-cua-nasa-san-sang-dua-nguoi-len-mat-trang-5007321.html",
+      "summary": "Tên lửa Hệ thống Phóng Không gian (SLS) của NASA được đưa đến bệ phóng để chuẩn bị cho Artemis 2, nhiệm vụ chở người bay quanh Mặt Trăng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-19T05:05:09+07:00",
+      "fetched": "2026-01-19T13:25:40.606709+07:00"
+    },
+    {
+      "id": "256c054c0598a079cd5cdc3e86b56f00",
+      "title": "'Chính thất' kiện đòi nhân tình của chồng trả quà nhận suốt 7 năm",
+      "link": "https://vnexpress.net/chinh-that-kien-doi-nhan-tinh-cua-chong-tra-qua-nhan-suot-7-nam-5007316.html",
+      "summary": "Chồng qua đời, bà Shen mới phát hiện ông ngoại tình suốt 7 năm và chuyển 20 triệu nhân dân tệ (3 triệu USD) cho tình nhân nên kiện đòi lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:02:50+07:00",
+      "fetched": "2026-01-19T13:25:28.636228+07:00"
+    },
+    {
+      "id": "7ab5e2af1b0508a296c5506fc0b18b87",
+      "title": "Vì sao càng ngoáy tai càng ngứa?",
+      "link": "https://vnexpress.net/vi-sao-cang-ngoay-tai-cang-ngua-5007317.html",
+      "summary": "Tôi thường có thói quen ngoáy tai để giảm ngứa nhưng càng ngoáy càng ngứa nhiều hơn. Vì sao như vậy, nên làm thế nào? (Trâm Ngô, 28 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:00:00+07:00",
+      "fetched": "2026-01-19T13:25:28.636392+07:00"
+    },
+    {
+      "id": "5ecdda9c44a5277706a14f54f6730ca2",
+      "title": "Uống nước dừa có giúp giảm mệt mỏi không?",
+      "link": "https://vnexpress.net/uong-nuoc-dua-co-giup-giam-met-moi-khong-5007296.html",
+      "summary": "Tôi thường xuyên căng thẳng công việc. Uống nước dừa có giúp giải nhiệt, giảm mệt mỏi và căng thẳng không, nên dùng thế nào? (Diệu Vy, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:00:00+07:00",
+      "fetched": "2026-01-19T13:25:28.636548+07:00"
+    },
+    {
+      "id": "b63172601474735c057bb3ebc26689e3",
+      "title": "Cô gái tăng 40 kg trong hai năm",
+      "link": "https://vnexpress.net/co-gai-tang-40-kg-trong-hai-nam-5007249.html",
+      "summary": "My, 21 tuổi, tăng hơn 40 kg trong hai năm, nặng 111 kg do lối sống ăn đêm, thức đến 2h-3h và ngủ bù ban ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:00:00+07:00",
+      "fetched": "2026-01-19T13:25:28.636709+07:00"
+    },
+    {
+      "id": "be8e970d8b030d933dee06d93c263100",
+      "title": "Chiến lược đào tạo thế hệ lãnh đạo kế cận của MSB",
+      "link": "https://vnexpress.net/chien-luoc-dao-tao-the-he-lanh-dao-ke-can-cua-msb-5006995.html",
+      "summary": "Nhằm bồi dưỡng nhân tài đa ngành, xây dựng đội ngũ lãnh đạo kế cận, Ngân hàng TMCP Hàng Hải Việt Nam (MSB) vừa khởi động Chương trình phát triển Lãnh đạo kế cận MSB Great Leaders (MGL).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T05:00:00+07:00",
+      "fetched": "2026-01-19T13:25:28.636871+07:00"
+    },
+    {
+      "id": "be8e970d8b030d933dee06d93c263100",
+      "title": "Chiến lược đào tạo thế hệ lãnh đạo kế cận của MSB",
+      "link": "https://vnexpress.net/chien-luoc-dao-tao-the-he-lanh-dao-ke-can-cua-msb-5006995.html",
+      "summary": "Nhằm bồi dưỡng nhân tài đa ngành, xây dựng đội ngũ lãnh đạo kế cận, Ngân hàng TMCP Hàng Hải Việt Nam (MSB) vừa khởi động Chương trình phát triển Lãnh đạo kế cận MSB Great Leaders (MGL).",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-19T05:00:00+07:00",
+      "fetched": "2026-01-19T13:25:37.080066+07:00"
+    },
+    {
+      "id": "8d308e24904a50cd517930967c90b701",
+      "title": "Áo bà ba nở rộ thành mốt hot dịp Tết 2026",
+      "link": "https://vnexpress.net/ao-ba-ba-no-ro-thanh-mot-hot-dip-tet-2026-5007306.html",
+      "summary": "Áo bà ba - trang phục thôn quê miền Nam - được lăng xê mạnh thành trang phục du xuân năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:59:05+07:00",
+      "fetched": "2026-01-19T13:25:28.637075+07:00"
+    },
+    {
+      "id": "ce44d2394925b5ef362fd8ff2746f9f8",
+      "title": "Lựa chọn của châu Âu để đáp trả đòn thuế từ ông Trump",
+      "link": "https://vnexpress.net/lua-chon-cua-chau-au-de-dap-tra-don-thue-tu-ong-trump-5007155.html",
+      "summary": "Châu Âu có thể hạn chế Mỹ tiếp cận căn cứ quân sự hoặc áp thuế để đáp trả lời đe dọa từ ông Trump, nhưng đối mặt nhiều hệ lụy nếu quan hệ song phương lao dốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:55:42+07:00",
+      "fetched": "2026-01-19T13:25:28.637252+07:00"
+    },
+    {
+      "id": "ce44d2394925b5ef362fd8ff2746f9f8",
+      "title": "Lựa chọn của châu Âu để đáp trả đòn thuế từ ông Trump",
+      "link": "https://vnexpress.net/lua-chon-cua-chau-au-de-dap-tra-don-thue-tu-ong-trump-5007155.html",
+      "summary": "Châu Âu có thể hạn chế Mỹ tiếp cận căn cứ quân sự hoặc áp thuế để đáp trả lời đe dọa từ ông Trump, nhưng đối mặt nhiều hệ lụy nếu quan hệ song phương lao dốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T04:55:42+07:00",
+      "fetched": "2026-01-19T13:25:35.483363+07:00"
+    },
+    {
+      "id": "6eb52a759e7847a7e130c3efdbf97497",
+      "title": "Guatemala ban bố tình trạng khẩn cấp vì băng đảng chiếm loạt nhà tù",
+      "link": "https://vnexpress.net/guatemala-ban-bo-tinh-trang-khan-cap-vi-bang-dang-chiem-loat-nha-tu-5007273.html",
+      "summary": "Tổng thống Guatemala ban bố tình trạng khẩn cấp trong vòng 30 ngày, sau khi bạo lực băng đảng tại nhiều nhà tù làm 8 cảnh sát thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:50:34+07:00",
+      "fetched": "2026-01-19T13:25:28.637407+07:00"
+    },
+    {
+      "id": "6eb52a759e7847a7e130c3efdbf97497",
+      "title": "Guatemala ban bố tình trạng khẩn cấp vì băng đảng chiếm loạt nhà tù",
+      "link": "https://vnexpress.net/guatemala-ban-bo-tinh-trang-khan-cap-vi-bang-dang-chiem-loat-nha-tu-5007273.html",
+      "summary": "Tổng thống Guatemala ban bố tình trạng khẩn cấp trong vòng 30 ngày, sau khi bạo lực băng đảng tại nhiều nhà tù làm 8 cảnh sát thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T04:50:34+07:00",
+      "fetched": "2026-01-19T13:25:35.483550+07:00"
+    },
+    {
+      "id": "eb37abbd4cb386fc4963625ded168b49",
+      "title": "Máy tính AI nhỏ gọn có 2 cổng mạng, ổ đĩa quang",
+      "link": "https://vnexpress.net/may-tinh-ai-nho-gon-co-2-cong-mang-o-dia-quang-5006928.html",
+      "summary": "Mẫu DP80 AI A2G thuộc dòng máy tính chuyên nghiệp MSI, đáp ứng nhu cầu AI với card đồ hoạ Nvidia, cùng nhiều trang bị đặc biệt như hai cổng LAN, ổ đĩa, cảnh báo mở nắp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:40:18+07:00",
+      "fetched": "2026-01-19T13:25:28.637561+07:00"
+    },
+    {
+      "id": "eb37abbd4cb386fc4963625ded168b49",
+      "title": "Máy tính AI nhỏ gọn có 2 cổng mạng, ổ đĩa quang",
+      "link": "https://vnexpress.net/may-tinh-ai-nho-gon-co-2-cong-mang-o-dia-quang-5006928.html",
+      "summary": "Mẫu DP80 AI A2G thuộc dòng máy tính chuyên nghiệp MSI, đáp ứng nhu cầu AI với card đồ hoạ Nvidia, cùng nhiều trang bị đặc biệt như hai cổng LAN, ổ đĩa, cảnh báo mở nắp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-19T04:40:18+07:00",
+      "fetched": "2026-01-19T13:25:40.607061+07:00"
+    },
+    {
       "id": "815244e3bc1bd3279fb5c5950d48a9bd",
       "title": "Ngành thuế giám sát dòng tiền của hộ kinh doanh thế nào?",
       "link": "https://thanhnien.vn/nganh-thue-giam-sat-dong-tien-cua-ho-kinh-doanh-the-nao-185260119095719362.htm",
@@ -461,6 +981,26 @@ window.newsData_2026_01_19 = {
       "category": "Tổng hợp",
       "published": "2026-01-19T04:40:00+07:00",
       "fetched": "2026-01-19T11:43:49.782774+07:00"
+    },
+    {
+      "id": "4fa9d9a44ed0a582fad7af71228e57d4",
+      "title": "Omoda C7 có giá dự kiến từ 839 triệu đồng",
+      "link": "https://vnexpress.net/omoda-c7-co-gia-du-kien-tu-839-trieu-dong-5007233.html",
+      "summary": "Sau loạt sự kiện chào khách Việt, Omoda chính thức mở bán mẫu CUV C7 với hai phiên bản xăng và PHEV.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:34:27+07:00",
+      "fetched": "2026-01-19T13:25:28.637718+07:00"
+    },
+    {
+      "id": "cd68ba1a09dde049654e02fa678b72d1",
+      "title": "Nỗi khổ phải 'vừa chạy vừa họp' của dân công sở",
+      "link": "https://vnexpress.net/noi-kho-phai-vua-chay-vua-hop-cua-dan-cong-so-5007106.html",
+      "summary": "Thay vì ngồi phòng họp hay quán cà phê, nhiều công ty yêu cầu nhân viên vừa chạy bộ vừa trao đổi công việc, biến thể thao thành áp lực sa thải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T04:30:57+07:00",
+      "fetched": "2026-01-19T13:25:28.637868+07:00"
     },
     {
       "id": "970fc686cc3555be874221a671773755",
