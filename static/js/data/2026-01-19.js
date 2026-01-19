@@ -1,7 +1,157 @@
 window.newsData_2026_01_19 = {
   "date": "2026-01-19",
-  "lastUpdated": "2026-01-19T17:20:17.154280+07:00",
+  "lastUpdated": "2026-01-19T19:28:46.532680+07:00",
   "articles": [
+    {
+      "id": "b4cb104549591926d22e9a2eb521ae62",
+      "title": "Tảng băng trôi lớn nhất thế giới sắp tan rã vài ngày tới",
+      "link": "https://tuoitre.vn/tang-bang-troi-lon-nhat-the-gioi-sap-tan-ra-vai-ngay-toi-20260119140825228.htm",
+      "summary": "Các nhà khoa học nhận định tảng băng A-23A sẽ tan rã hoàn toàn chỉ trong vài tuần, hoặc thậm chí là vài ngày tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.370494+07:00",
+      "fetched": "2026-01-19T19:28:40.370603+07:00"
+    },
+    {
+      "id": "03b48216270ebce3ca5284caed1cec72",
+      "title": "Giới trẻ Hàn Quốc chịu áp lực kép từ thất nghiệp và chi phí nhà ở tăng cao",
+      "link": "https://tuoitre.vn/gioi-tre-han-quoc-chiu-ap-luc-kep-tu-that-nghiep-va-chi-phi-nha-o-tang-cao-2026011916323019.htm",
+      "summary": "Thời gian tìm việc ngày càng kéo dài, cùng chi phí nhà ở gia tăng đang làm trầm trọng thêm áp lực kinh tế đối với thanh niên Hàn Quốc, trong bối cảnh nền kinh tế tăng trưởng chậm và các vấn đề mang tính cơ cấu ngày càng rõ nét.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.370371+07:00",
+      "fetched": "2026-01-19T19:28:40.370483+07:00"
+    },
+    {
+      "id": "b34098c6f5d00f70a739b03826b0e126",
+      "title": "Vùng 'rốn' lũ Hòa Thịnh hồi sinh từ tình nghĩa đồng bào và chính sách của Đảng, Nhà nước",
+      "link": "https://tuoitre.vn/vung-ron-lu-hoa-thinh-hoi-sinh-tu-tinh-nghia-dong-bao-va-chinh-sach-cua-dang-nha-nuoc-20260119163519486.htm",
+      "summary": "Nhờ phần lớn vào sự hỗ trợ của đồng bào, chính sách và chỉ đạo hỗ trợ của Đảng, Nhà nước, vùng rốn lũ Hòa Thịnh (trước thuộc tỉnh Phú Yên, nay thuộc Đắk Lắk) 2 tháng trước nay đã nhanh chóng hồi sinh, bước vào mùa xuân mới với nhiều kỳ vọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.370247+07:00",
+      "fetched": "2026-01-19T19:28:40.370360+07:00"
+    },
+    {
+      "id": "5114d801a615c22bf3f8fae51321d85f",
+      "title": "Thử thách lớn của One Piece live-action mùa 2",
+      "link": "https://tuoitre.vn/thu-thach-lon-cua-one-piece-live-action-mua-2-20260119162421768.htm",
+      "summary": "Sau thành công ngoài mong đợi của mùa đầu tiên, One Piece phiên bản người đóng trên Netflix đang bước vào giai đoạn then chốt, với mùa thứ hai mang tên Into the Grand Line.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.370120+07:00",
+      "fetched": "2026-01-19T19:28:40.370236+07:00"
+    },
+    {
+      "id": "19fe2a03275a258ca527b128956e6d68",
+      "title": "Khánh Hòa kêu gọi đầu tư 231 dự án, kỳ vọng vào du lịch, bất động sản và năng lượng tái tạo",
+      "link": "https://tuoitre.vn/khanh-hoa-keu-goi-dau-tu-231-du-an-ky-vong-vao-du-lich-bat-dong-san-va-nang-luong-tai-tao-20260119165503639.htm",
+      "summary": "Các dự án này kỳ vọng tạo sức hút lớn đối với các dòng vốn ngoài ngân sách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.369973+07:00",
+      "fetched": "2026-01-19T19:28:40.370107+07:00"
+    },
+    {
+      "id": "535173f2be3536b22469fd447f9e049f",
+      "title": "Thủ tướng Nhật Bản sẽ kêu gọi bầu cử sớm ngày 8-2",
+      "link": "https://tuoitre.vn/thu-tuong-nhat-ban-se-keu-goi-bau-cu-som-ngay-8-2-20260119173536535.htm",
+      "summary": "Cuộc bầu cử toàn quốc nhằm tìm kiếm sự ủng hộ của cử tri đối với việc tăng chi tiêu, cắt giảm thuế và một chiến lược an ninh mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.369845+07:00",
+      "fetched": "2026-01-19T19:28:40.369962+07:00"
+    },
+    {
+      "id": "c3e61032ccb0a1032e8f541ffee37289",
+      "title": "Đặt báo Tuổi Trẻ Xuân Bính Ngọ, khui lì xì đón lộc đầu năm",
+      "link": "https://tuoitre.vn/dat-bao-tuoi-tre-xuan-binh-ngo-khui-li-xi-don-loc-dau-nam-2026011915104085.htm",
+      "summary": "​​Tết Bính Ngọ 2026 đang đến gần, báo Tuổi Trẻ ra mắt giai phẩm Xuân cùng chương trình “Đặt báo Xuân - Khui lì xì”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.369718+07:00",
+      "fetched": "2026-01-19T19:28:40.369830+07:00"
+    },
+    {
+      "id": "9fc3a813ce00e9d6371f03249a48cb2a",
+      "title": "Điểm tin 18h: Bay Tết năm nay khác gì?; EU triệu tập cuộc họp khẩn về Greenland",
+      "link": "https://tuoitre.vn/diem-tin-18h-bay-tet-nam-nay-khac-gi-eu-trieu-tap-cuoc-hop-khan-ve-greenland-20260119161038178.htm",
+      "summary": "Điểm tin 18h ngày 19-1-2026: Bay Tết năm nay khác gì?; EU triệu tập cuộc họp khẩn về Greenland",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.369591+07:00",
+      "fetched": "2026-01-19T19:28:40.369706+07:00"
+    },
+    {
+      "id": "e4252a81c0ef162ee449725d9a9353b1",
+      "title": "Nga kết nối ngân hàng, viễn thông, chính phủ để chống lừa đảo mạng",
+      "link": "https://tuoitre.vn/nga-ket-noi-ngan-hang-vien-thong-chinh-phu-de-chong-lua-dao-mang-20260119174404197.htm",
+      "summary": "Nga sẽ đưa vào vận hành hệ thống thông tin nhà nước \"Chống gian lận\" năm 2026, kết nối ngân hàng, nhà mạng và cơ quan chính phủ để trao đổi dữ liệu nhanh chóng về các hoạt động đáng ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.369466+07:00",
+      "fetched": "2026-01-19T19:28:40.369581+07:00"
+    },
+    {
+      "id": "2525e8f9a3ea68ed977171ee0a51f308",
+      "title": "TP.HCM dẫn đầu số học sinh giỏi quốc gia năm 2026",
+      "link": "https://tuoitre.vn/tp-hcm-dan-dau-so-hoc-sinh-gioi-quoc-gia-nam-2026-2026011917123259.htm",
+      "summary": "Bộ Giáo dục và Đào tạo vừa công bố kết quả kỳ thi chọn học sinh giỏi quốc gia năm học 2025-2026, thứ hạng tổng số thí sinh đoạt giải của các địa phương có nhiều thay đổi so với năm ngoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.369334+07:00",
+      "fetched": "2026-01-19T19:28:40.369455+07:00"
+    },
+    {
+      "id": "0fe16a955dd1c2a65ce930d02ed7fb29",
+      "title": "Mùa hè đặc biệt, Đình Bắc từ 'yếu nhất' lên 'khỏe bậc nhất' U23 Việt Nam",
+      "link": "https://tuoitre.vn/mua-he-dat-biet-dinh-bac-tu-yeu-nhat-len-khoe-bac-nhat-u23-viet-nam-20260119131012725.htm",
+      "summary": "Mùa hè năm 2022, Đình Bắc và nhiều đồng đội cùng trang lứa trong đội U20 Việt Nam trải qua cuộc tập huấn quan trọng trên đất Nhật Bản. Đó cũng là chuyến tập huấn tạo cột mốc bứt phá của ngôi sao người Nghệ An.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.369199+07:00",
+      "fetched": "2026-01-19T19:28:40.369318+07:00"
+    },
+    {
+      "id": "63b6a5b1119eb6a3aece78dce101dbd3",
+      "title": "Nâng tốc độ tối thiểu và cấm nhiều loại xe đi làn trong cao tốc Phan Thiết - Dầu Giây",
+      "link": "https://tuoitre.vn/nang-toc-do-toi-thieu-va-cam-nhieu-loai-xe-di-lan-trong-cao-toc-phan-thiet-dau-giay-20260119164640197.htm",
+      "summary": "Cục Đường bộ thuộc Bộ Xây dựng có quyết định phê duyệt điều chỉnh, bổ sung phương án tổ chức giao thông phân làn và quy định tốc độ trên đường cao tốc Phan Thiết - Dầu Giây từ 19-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.369045+07:00",
+      "fetched": "2026-01-19T19:28:40.369185+07:00"
+    },
+    {
+      "id": "ca06be12e50568772d28148b9671d5cb",
+      "title": "Âm nhạc hàn lâm hòa âm bên góc Hồ Xuân Hương thơ mộng",
+      "link": "https://tuoitre.vn/am-nhac-han-lam-hoa-am-ben-goc-ho-xuan-huong-tho-mong-20260109095820344.htm",
+      "summary": "Đã lâu lắm rồi tôi lại được trở về cùng bản hòa âm bên góc Hồ Xuân Hương từ nhóm nhạc Dalat5am.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.368912+07:00",
+      "fetched": "2026-01-19T19:28:40.369032+07:00"
+    },
+    {
+      "id": "c1fadf72185727fe4eea8510dc685e49",
+      "title": "Phó giám đốc Công an TP.HCM: Công an không làm việc qua điện thoại, mạng xã hội",
+      "link": "https://tuoitre.vn/pho-giam-doc-cong-an-tp-hcm-cong-an-khong-lam-viec-qua-dien-thoai-mang-xa-hoi-2026011914285095.htm",
+      "summary": "Cơ quan công an khi cần làm việc với người dân, sẽ trực tiếp gửi giấy mời, giấy triệu tập, không làm việc qua điện thoại hay mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.368766+07:00",
+      "fetched": "2026-01-19T19:28:40.368899+07:00"
+    },
+    {
+      "id": "762cb73fc4de2f7b171585e3f07d6159",
+      "title": "Vẫn chưa thể xác lập quyền sở hữu toàn dân dự án BOT quốc lộ 51",
+      "link": "https://tuoitre.vn/van-chua-the-xac-lap-quyen-so-huu-toan-dan-du-an-bot-quoc-lo-51-20260119181817899.htm",
+      "summary": "Do các tài sản của dự án BOT quốc lộ 51 chưa hoàn tất bàn giao đầy đủ cho Cục Đường bộ Việt Nam, đến thời điểm này chưa đủ điều kiện xác lập quyền sở hữu toàn dân đối với tài sản của dự án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:28:40.368536+07:00",
+      "fetched": "2026-01-19T19:28:40.368751+07:00"
+    },
     {
       "id": "c2f9f894587455bd9af6f6e1da4e629d",
       "title": "Ghana hủy hợp đồng, tăng mạnh thuế phí khai thác vàng",
@@ -453,6 +603,106 @@ window.newsData_2026_01_19 = {
       "fetched": "2026-01-19T13:25:32.670011+07:00"
     },
     {
+      "id": "471f7f9b83fcde27e05f18e29c552e45",
+      "title": "Khi công an, bác sĩ, nhà báo cùng lo cho học sinh trước hiểm họa pháo nổ",
+      "link": "https://thanhnien.vn/khi-cong-an-bac-si-nha-bao-cung-lo-cho-hoc-sinh-truoc-hiem-hoa-phao-no-185260119182416153.htm",
+      "summary": "Tò mò, ham vui khiến nhiều học sinh đối mặt nguy cơ tai nạn nghiêm trọng từ pháo nổ tự chế dịp cận tết. Buổi tuyên truyền tại Trường THCS Tây Sơn (TP.Đà Nẵng) đã phát đi thông điệp cảnh báo rõ ràng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T12:06:00+07:00",
+      "fetched": "2026-01-19T19:28:39.058836+07:00"
+    },
+    {
+      "id": "30c1bcd3fef99bfe8ca28ee97e6016d4",
+      "title": "Hơn 100 ĐH, CĐ xét điểm thi đánh giá năng lực ĐH Quốc gia TP.HCM năm 2026",
+      "link": "https://thanhnien.vn/hon-100-dh-cd-xet-diem-thi-danh-gia-nang-luc-dh-quoc-gia-tphcm-nam-2026-185260119172600346.htm",
+      "summary": "Theo thống kê của ĐH Quốc gia TP.HCM đến thời điểm đầu năm 2026, có 112 cơ sở đào tạo ĐH và CĐ sử dụng điểm kỳ thi đánh giá năng lực để xét tuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T12:04:00+07:00",
+      "fetched": "2026-01-19T19:28:39.059011+07:00"
+    },
+    {
+      "id": "44f4582a9a2428c3d6755658517e2f49",
+      "title": "Hội hoa xuân, chợ hoa Tết Bính Ngọ ở TP.HCM có gì đặc biệt?",
+      "link": "https://thanhnien.vn/hoi-hoa-xuan-cho-hoa-tet-binh-ngo-o-tphcm-co-gi-dac-biet-185260119164947434.htm",
+      "summary": "Hội hoa xuân TP.HCM dịp Tết Bính Ngọ năm nay sẽ khai mạc sớm hơn so với mọi năm với không gian trưng bày mới lạ, hứa hẹn là điểm check-in thu hút người dân, du khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T12:00:00+07:00",
+      "fetched": "2026-01-19T19:28:39.059193+07:00"
+    },
+    {
+      "id": "314e83ddc17247d3a74df2cc41f85cea",
+      "title": "Yêu chatbot - xu hướng trốn tránh thực tại thời AI",
+      "link": "https://vnexpress.net/yeu-chatbot-xu-huong-tron-tranh-thuc-tai-thoi-ai-5006492.html",
+      "summary": "Khi nhân cách ảo AI ngày càng trở thành một phần bình thường của cuộc sống, nhiều người muốn gắn bó lâu dài, thậm chí kết hôn với chúng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-19T12:00:00+07:00",
+      "fetched": "2026-01-19T19:28:45.465590+07:00"
+    },
+    {
+      "id": "5e127c90b5e1e37693cabca3a2e16a36",
+      "title": "U.23 Việt Nam tấn công đa dạng, thiên biến vạn hóa: U.23 Trung Quốc sẽ bị thủng lưới và… thua!",
+      "link": "https://thanhnien.vn/u23-viet-nam-tan-cong-da-dang-thien-bien-van-hoa-u23-trung-quoc-se-bi-thung-luoi-va-thua-185260119184459294.htm",
+      "summary": "U.23 Trung Quốc chưa để thủng lưới bàn nào kể từ đầu giải U.23 châu Á 2026. Tuy nhiên, điều này có thể thay đổi ở trận bán kết gặp U.23 Việt Nam, vì đội bóng của HLV Kim Sang-sik chơi rất đa dạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:57:00+07:00",
+      "fetched": "2026-01-19T19:28:39.059348+07:00"
+    },
+    {
+      "id": "7599618661a403e99309584f5dfdf3e5",
+      "title": "Bão tuyết lớn kỷ lục vùi lấp nhà cửa ở vùng Viễn Đông Nga",
+      "link": "https://vnexpress.net/bao-tuyet-lon-ky-luc-vui-lap-nha-cua-o-vung-vien-dong-nga-5007464.html",
+      "summary": "Cơn bão mùa đông dữ dội ở bán đảo Kamchatka vùi lấp nhiều khu vực dưới lớp tuyết dày tới 12 mét, khiến giao thông gián đoạn và ít nhất hai người chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:54:45+07:00",
+      "fetched": "2026-01-19T19:28:35.589553+07:00"
+    },
+    {
+      "id": "7599618661a403e99309584f5dfdf3e5",
+      "title": "Bão tuyết lớn kỷ lục vùi lấp nhà cửa ở vùng Viễn Đông Nga",
+      "link": "https://vnexpress.net/bao-tuyet-lon-ky-luc-vui-lap-nha-cua-o-vung-vien-dong-nga-5007464.html",
+      "summary": "Cơn bão mùa đông dữ dội ở bán đảo Kamchatka vùi lấp nhiều khu vực dưới lớp tuyết dày tới 12 mét, khiến giao thông gián đoạn và ít nhất hai người chết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T11:54:45+07:00",
+      "fetched": "2026-01-19T19:28:41.719872+07:00"
+    },
+    {
+      "id": "7da20ce54097445ca18041495dcd2fb7",
+      "title": "Thi học sinh giỏi quốc gia, trường nào của TP.HCM đoạt nhiều giải nhất?",
+      "link": "https://thanhnien.vn/thi-hoc-sinh-gioi-quoc-gia-truong-nao-cua-tphcm-doat-nhieu-giai-nhat-185260119172551828.htm",
+      "summary": "Ngày 19.1, Sở GD-ĐT TP.HCM công bố kết quả kỳ thi học sinh giỏi quốc gia cấp THPT năm học 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:51:00+07:00",
+      "fetched": "2026-01-19T19:28:39.059495+07:00"
+    },
+    {
+      "id": "40feb3ce56028af421557a28e020973b",
+      "title": "Vì sao nhiều người chọn đồng hồ Casio thay vì smartwatch",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-nguoi-chon-dong-ho-casio-thay-vi-smartwatch-185260119171841782.htm",
+      "summary": "Bất chấp smartwatch đã trở thành một trong những thiết bị phổ biến nhất mà mọi người lựa chọn, đồng hồ truyền thống Casio vẫn thu hút sự quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:47:00+07:00",
+      "fetched": "2026-01-19T19:28:39.059644+07:00"
+    },
+    {
+      "id": "cd9b51d6d6be9bcf7b8b71acd1045a72",
+      "title": "Tây Ninh sửa đường vào thung lũng Ma Thiên Lãnh",
+      "link": "https://thanhnien.vn/tay-ninh-sua-duong-vao-thung-lung-ma-thien-lanh-185260119161252043.htm",
+      "summary": "Tỉnh Tây Ninh đang thi công sửa chữa đường vào thung lũng Ma Thiên Lãnh giúp người dân và khách du lịch đi lại an toàn hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:47:00+07:00",
+      "fetched": "2026-01-19T19:28:39.059793+07:00"
+    },
+    {
       "id": "db98a3872a9665d6666f1da1a188ce47",
       "title": "Lãnh đạo Đảng, Nhà nước và các đại biểu đến dự phiên trù bị Đại hội Đảng XIV",
       "link": "https://tuoitre.vn/lanh-dao-dang-nha-nuoc-va-cac-dai-bieu-den-du-phien-tru-bi-dai-hoi-dang-xiv-20260117155029438.htm",
@@ -601,6 +851,186 @@ window.newsData_2026_01_19 = {
       "category": "Tổng hợp",
       "published": "2026-01-19T11:43:50.925433+07:00",
       "fetched": "2026-01-19T11:43:50.925641+07:00"
+    },
+    {
+      "id": "8b7e39f9f3914d8771d344ba7a3e43b0",
+      "title": "Vietravel Airlines sắp đổi tên sau khi T&amp;T tiếp quản",
+      "link": "https://vnexpress.net/vietravel-airlines-sap-doi-ten-sau-khi-t-t-tiep-quan-5007471.html",
+      "summary": "Hãng hàng không Vietravel Airlines dự kiến đổi tên thương hiệu từ đầu quý II và tăng đội bay lên 10 chiếc trong 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:37:12+07:00",
+      "fetched": "2026-01-19T19:28:35.589737+07:00"
+    },
+    {
+      "id": "8b7e39f9f3914d8771d344ba7a3e43b0",
+      "title": "Vietravel Airlines sắp đổi tên sau khi T&amp;T tiếp quản",
+      "link": "https://vnexpress.net/vietravel-airlines-sap-doi-ten-sau-khi-t-t-tiep-quan-5007471.html",
+      "summary": "Hãng hàng không Vietravel Airlines dự kiến đổi tên thương hiệu từ đầu quý II và tăng đội bay lên 10 chiếc trong 2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-19T11:37:12+07:00",
+      "fetched": "2026-01-19T19:28:42.974995+07:00"
+    },
+    {
+      "id": "67ff88d127eeebf373ae53df1e17ca05",
+      "title": "Cuộc thi tìm 8 gương mặt truyền cảm hứng cho Thế hệ S80 vươn mình",
+      "link": "https://thanhnien.vn/cuoc-thi-tim-8-guong-mat-truyen-cam-hung-cho-the-he-s80-vuon-minh-185260119185227799.htm",
+      "summary": "Chương trình Học Bổng S80 International Education Scholarship ghi nhận hơn 6.000 hồ sơ đăng ký từ nhiều nhóm đối tượng khác nhau chỉ sau hơn 1 tháng công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:37:00+07:00",
+      "fetched": "2026-01-19T19:28:39.059951+07:00"
+    },
+    {
+      "id": "62cb832c3cc1f378c8c4dde665d489c5",
+      "title": "Cô lượm ve chai trình báo công an, trả lại túi xách nhặt được ven đường",
+      "link": "https://thanhnien.vn/co-luom-ve-chai-trinh-bao-cong-an-tra-lai-tui-xach-nhat-duoc-ven-duong-185260119154458737.htm",
+      "summary": "Một phụ nữ tại Quảng Trị làm nghề nhặt ve chai phát hiện túi xách bên trong có nhiều giấy tờ và tài sản đã lập tức mang đến trụ sở công an để xác minh, tìm trả lại cho chủ nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:36:00+07:00",
+      "fetched": "2026-01-19T19:28:39.060118+07:00"
+    },
+    {
+      "id": "d30bd12893c91547e35fcd73da359252",
+      "title": "Đồng Tháp: Bắt 16 người nhập cảnh trái phép, có 1 người đang bị truy nã",
+      "link": "https://thanhnien.vn/dong-thap-bat-16-nguoi-nhap-canh-trai-phep-co-1-nguoi-dang-bi-truy-na-185260119153429535.htm",
+      "summary": "Bộ đội Biên phòng tỉnh Đồng Tháp đã bắt giữ 16 người có hành vi nhập cảnh trái phép từ Campuchia vào Việt Nam, trong đó có 1 người đang bị Công an TP.HCM truy nã liên quan đến ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:26:00+07:00",
+      "fetched": "2026-01-19T19:28:39.060273+07:00"
+    },
+    {
+      "id": "03f6b9a8a838f226b67ec131ebacfd7b",
+      "title": "Ngân hàng ở Gia Lai bị cướp",
+      "link": "https://vnexpress.net/ngan-hang-o-gia-lai-bi-cuop-5007498.html",
+      "summary": "Hai thanh niên xông vào ngân hàng Vietcombank phòng giao dịch Trà Bá, phường Hội Phú, cầm súng (chưa rõ loại) uy hiếp nhân viên, cướp tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:20:08+07:00",
+      "fetched": "2026-01-19T19:28:35.589902+07:00"
+    },
+    {
+      "id": "7fa64aa9058e8595588b84aa38fe3afb",
+      "title": "Điện Kremlin: Ông Putin được mời tham gia Hội đồng Hòa bình Gaza",
+      "link": "https://vnexpress.net/dien-kremlin-ong-putin-duoc-moi-tham-gia-hoi-dong-hoa-binh-gaza-5007467.html",
+      "summary": "Điện Kremlin cho biết Tổng thống Putin được mời tham gia Hội đồng Hòa bình Gaza của ông Trump, cơ quan dự kiến giám sát việc quản lý và tái thiết Gaza.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:12:54+07:00",
+      "fetched": "2026-01-19T19:28:35.590078+07:00"
+    },
+    {
+      "id": "7fa64aa9058e8595588b84aa38fe3afb",
+      "title": "Điện Kremlin: Ông Putin được mời tham gia Hội đồng Hòa bình Gaza",
+      "link": "https://vnexpress.net/dien-kremlin-ong-putin-duoc-moi-tham-gia-hoi-dong-hoa-binh-gaza-5007467.html",
+      "summary": "Điện Kremlin cho biết Tổng thống Putin được mời tham gia Hội đồng Hòa bình Gaza của ông Trump, cơ quan dự kiến giám sát việc quản lý và tái thiết Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T11:12:54+07:00",
+      "fetched": "2026-01-19T19:28:41.720052+07:00"
+    },
+    {
+      "id": "d9d1915ee4a3a5a93278b18834a57932",
+      "title": "Lắp 6 màn hình LED ở phố đi bộ Nguyễn Huệ xem bán kết U23 Việt Nam",
+      "link": "https://vnexpress.net/lap-6-man-hinh-led-o-pho-di-bo-nguyen-hue-xem-ban-ket-u23-viet-nam-5007490.html",
+      "summary": "TP HCM sẽ lắp 6 màn hình LED cỡ lớn tại phố đi bộ Nguyễn Huệ (quận 1 cũ) để người hâm mộ theo dõi, cổ vũ U23 Việt Nam thi đấu bán kết với U23 Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:07:27+07:00",
+      "fetched": "2026-01-19T19:28:35.590250+07:00"
+    },
+    {
+      "id": "25796e72a2d6a96904b6c02d15b06cbc",
+      "title": "Miễn giảm thuế, phí cho công dân số mang lại lợi ích lâu dài",
+      "link": "https://thanhnien.vn/mien-giam-thue-phi-cho-cong-dan-so-mang-lai-loi-ich-lau-dai-185260119165312513.htm",
+      "summary": "Theo Bộ Công an, việc áp dụng chính sách điểm công dân số kèm theo miễn, giảm thuế, phí sẽ mang lại lợi ích lâu dài, lớn hơn nhiều lần so với số tiền giảm thu trước mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:03:00+07:00",
+      "fetched": "2026-01-19T19:28:39.060421+07:00"
+    },
+    {
+      "id": "c59685c2c964992e0358b7b108fd6569",
+      "title": "Vì sao nhiều điểm du lịch 'hét giá' với khách ngoại?",
+      "link": "https://vnexpress.net/vi-sao-nhieu-diem-du-lich-het-gia-voi-khach-ngoai-5007426.html",
+      "summary": "Tại các điểm đến nổi tiếng thế giới, việc áp dụng đa mức giá với khách ngoại đang trở thành chiến lược để giải quyết áp lực ngân sách, điều tiết quá tải và bảo tồn di sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:00:00+07:00",
+      "fetched": "2026-01-19T19:28:35.590415+07:00"
+    },
+    {
+      "id": "e88fd8d88d2e60cd30b683bbd790f2b4",
+      "title": "Rước họa vì làm đẹp da cấp tốc trước Tết",
+      "link": "https://vnexpress.net/ruoc-hoa-vi-lam-dep-da-cap-toc-truoc-tet-5007396.html",
+      "summary": "Các cách làm đẹp cấp tốc như dùng mỹ phẩm không phù hợp, peel da giá rẻ có thể gây tổn thương da nặng, viêm, tăng sắc tố khó phục hồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:00:00+07:00",
+      "fetched": "2026-01-19T19:28:35.590570+07:00"
+    },
+    {
+      "id": "b84f7069e0bd854b21ce7adfff1ea7cb",
+      "title": "5 món giàu vitamin tốt C cho người tiểu đường",
+      "link": "https://vnexpress.net/5-mon-giau-vitamin-tot-c-cho-nguoi-tieu-duong-5007324.html",
+      "summary": "Người bệnh tiểu đường nên tăng cường vitamin C từ đu đủ, rau xanh, ớt chuông để giảm stress oxy hóa, ổn định lượng đường trong máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:00:00+07:00",
+      "fetched": "2026-01-19T19:28:35.590723+07:00"
+    },
+    {
+      "id": "bbfddafc3085b328c36e632e42c5f374",
+      "title": "Chân dài miên man nhờ sự quyến rũ của váy mullet",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chan-dai-mien-man-nho-su-quyen-ru-cua-vay-mullet-185260119091930932.htm",
+      "summary": "Váy mullet gây ấn tượng với phom dáng bất đối xứng độc đáo, giúp các nàng tôn lên đôi chân dài cùng vóc dáng thon gọn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T11:00:00+07:00",
+      "fetched": "2026-01-19T19:28:39.060577+07:00"
+    },
+    {
+      "id": "5284d7aec70c41eff829e50c195734d4",
+      "title": "Toàn thắng vào VCK, Trường ĐH Thủy lợi quyết ‘phá dớp’ luân lưu",
+      "link": "https://thanhnien.vn/toan-thang-vao-vck-truong-dh-thuy-loi-quyet-pha-dop-luan-luu-185260119174116151.htm",
+      "summary": "Toàn thắng sau 3 lượt trận bảng A vòng loại phía bắc, Trường ĐH Thủy lợi giành vé vào VCK TNSV THACO cup 2026. Bước vào giai đoạn khốc liệt, thầy trò HLV Vũ Văn Trung mang theo quyết tâm đặc biệt: sẵn sàng 'phá dớp' đá luân lưu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:53:00+07:00",
+      "fetched": "2026-01-19T19:28:39.060725+07:00"
+    },
+    {
+      "id": "ac5cf20d40daf168a7d77825ffb4de52",
+      "title": "Bác thông tin NOXH ngay trung tâm TP.HCM giá chỉ hơn 20 triệu đồng/m2",
+      "link": "https://thanhnien.vn/bac-thong-tin-noxh-ngay-trung-tam-tphcm-gia-chi-hon-20-trieu-dong-m2-185260119165247177.htm",
+      "summary": "Mới đây, trên các diễn đàn về bất động sản xuất hiện bảng giá bán căn hộ tại dự án nhà ở xã hội Lý Thường Kiệt chỉ hơn 20 triệu đồng/m2. Tuy nhiên, thông tin này là không chính xác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:51:00+07:00",
+      "fetched": "2026-01-19T19:28:39.060876+07:00"
+    },
+    {
+      "id": "1affbb4698ff52957a42a131808cc08b",
+      "title": "HLV Kim Sang-sik muốn gặp U.23 Hàn Quốc ở chung kết, HLV U.23 Trung Quốc nói bán kết sẽ ‘khó nhằn’",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-muon-gap-u23-han-quoc-o-chung-ket-hlv-u23-trung-quoc-noi-ban-ket-se-kho-nhan-185260119174254386.htm",
+      "summary": "Trước trận bán kết U.23 châu Á 2026, HLV Kim Sang-sik và HLV Antonio Puche đều thẳng thắn chia sẻ quan điểm, đánh giá đối thủ và thể hiện rõ quyết tâm giành vé vào chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:49:00+07:00",
+      "fetched": "2026-01-19T19:28:39.061022+07:00"
+    },
+    {
+      "id": "758e05ea31248bb4bcab279dd2e9c154",
+      "title": "Đất nền vọt lên 50 triệu đồng một mét vuông nhưng khó bán",
+      "link": "https://vnexpress.net/dat-nen-vot-len-50-trieu-dong-mot-met-vuong-nhung-kho-ban-5007423.html",
+      "summary": "Năm 2018, nhờ con đường phía trước được chỉnh trang nên giá tăng lên 35 triệu rồi 50 triệu đồng một mét vuông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:48:54+07:00",
+      "fetched": "2026-01-19T19:28:35.590890+07:00"
     },
     {
       "id": "6235d99ecfe4c762e39a717fbe712cbe",
@@ -753,6 +1183,66 @@ window.newsData_2026_01_19 = {
       "fetched": "2026-01-19T10:42:34.746736+07:00"
     },
     {
+      "id": "7330d3fc6a3cb18ea9a17ef7b9168b18",
+      "title": "Chile ban bố tình trạng thảm họa vì cháy rừng",
+      "link": "https://vnexpress.net/chile-ban-bo-tinh-trang-tham-hoa-vi-chay-rung-5007359.html",
+      "summary": "Biển lửa bao trùm nhiều cánh rừng ở Nuble và Biobio, lan sang các khu dân cư, buộc Tổng thống Gabriel Boric tuyên bố tình trạng thảm họa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:41:05+07:00",
+      "fetched": "2026-01-19T19:28:35.591043+07:00"
+    },
+    {
+      "id": "d02cb7660ad0f351ed7d89508865099d",
+      "title": "FPT Digital thay đổi lãnh đạo cấp cao, đẩy mạnh chiến lược chuyển đổi số",
+      "link": "https://vnexpress.net/fpt-digital-thay-doi-lanh-dao-cap-cao-day-manh-chien-luoc-chuyen-doi-so-5007338.html",
+      "summary": "FPT Digital công bố bổ nhiệm lãnh đạo mới, đánh dấu giai đoạn tăng trưởng với trọng tâm nâng cao năng lực thực thi và đồng hành dài hạn cùng doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:40:00+07:00",
+      "fetched": "2026-01-19T19:28:35.591229+07:00"
+    },
+    {
+      "id": "89a7ffa0a78737ec008c2171a96ecc38",
+      "title": "Con trai ông Nguyễn Đức Thụy sắp làm sếp Chứng khoán LPBank",
+      "link": "https://vnexpress.net/con-trai-ong-nguyen-duc-thuy-sap-lam-sep-chung-khoan-lpbank-5007478.html",
+      "summary": "Ông Nguyễn Xuân Thái, con trai ông Nguyễn Đức Thụy, được đề cử vào Hội đồng quản trị Chứng khoán LPBank.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:39:38+07:00",
+      "fetched": "2026-01-19T19:28:35.591385+07:00"
+    },
+    {
+      "id": "89a7ffa0a78737ec008c2171a96ecc38",
+      "title": "Con trai ông Nguyễn Đức Thụy sắp làm sếp Chứng khoán LPBank",
+      "link": "https://vnexpress.net/con-trai-ong-nguyen-duc-thuy-sap-lam-sep-chung-khoan-lpbank-5007478.html",
+      "summary": "Ông Nguyễn Xuân Thái, con trai ông Nguyễn Đức Thụy, được đề cử vào Hội đồng quản trị Chứng khoán LPBank.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-19T10:39:38+07:00",
+      "fetched": "2026-01-19T19:28:42.975200+07:00"
+    },
+    {
+      "id": "4669335f27fb9ca9d4dd5cf14f0e5b72",
+      "title": "Kỳ vọng xe máy điện tiêu chuẩn mới của Dat Bike",
+      "link": "https://vnexpress.net/ky-vong-xe-may-dien-tieu-chuan-moi-cua-dat-bike-5007482.html",
+      "summary": "Dat Bike muốn thay đổi hình ảnh dòng xe máy điện tại Việt Nam với các mẫu có động cơ trên 4.000 W, tầm di chuyển trên 200 km một lần sạc đầy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:30:00+07:00",
+      "fetched": "2026-01-19T19:28:35.591547+07:00"
+    },
+    {
+      "id": "1e261734a724431b96e97684920d3ad4",
+      "title": "Mô hình check in 'chú chim xanh' tại ba thành phố lớn",
+      "link": "https://vnexpress.net/mo-hinh-check-in-chu-chim-xanh-tai-ba-thanh-pho-lon-5007476.html",
+      "summary": "Mô hình \"chú chim xanh\" khổng lồ được đặt tại Hà Nội, TP HCM và Đà Nẵng những ngày gần đây đã thu hút người dân và du khách ghé thăm, chụp ảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:30:00+07:00",
+      "fetched": "2026-01-19T19:28:35.591703+07:00"
+    },
+    {
       "id": "ae318cec0fda4ad46b31f50185e80cbd",
       "title": "Học viện Kỹ thuật quân sự dự kiến mở rộng tuyển sinh ngành dân sự",
       "link": "https://thanhnien.vn/hoc-vien-ky-thuat-quan-su-du-kien-mo-rong-tuyen-sinh-nganh-dan-su-185260119160104525.htm",
@@ -761,6 +1251,26 @@ window.newsData_2026_01_19 = {
       "category": "Tổng hợp",
       "published": "2026-01-19T10:16:00+07:00",
       "fetched": "2026-01-19T17:19:52.604595+07:00"
+    },
+    {
+      "id": "2e1d9111e2ca888f0faf48cf1953fdf8",
+      "title": "'UAV đối thủ của Lancet' gây thất vọng tại chiến trường Ukraine",
+      "link": "https://vnexpress.net/uav-doi-thu-cua-lancet-gay-that-vong-tai-chien-truong-ukraine-5007461.html",
+      "summary": "Quân đội Ukraine từ chối đặt mua thêm UAV HX-2, được ví như đối thủ của Lancet, do phi cơ gặp loạt vấn đề trong thử nghiệm trong thực tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T10:09:53+07:00",
+      "fetched": "2026-01-19T19:28:35.591860+07:00"
+    },
+    {
+      "id": "2e1d9111e2ca888f0faf48cf1953fdf8",
+      "title": "'UAV đối thủ của Lancet' gây thất vọng tại chiến trường Ukraine",
+      "link": "https://vnexpress.net/uav-doi-thu-cua-lancet-gay-that-vong-tai-chien-truong-ukraine-5007461.html",
+      "summary": "Quân đội Ukraine từ chối đặt mua thêm UAV HX-2, được ví như đối thủ của Lancet, do phi cơ gặp loạt vấn đề trong thử nghiệm trong thực tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T10:09:53+07:00",
+      "fetched": "2026-01-19T19:28:41.720246+07:00"
     },
     {
       "id": "35b065cd5e9937f3531a0db98efb900b",
@@ -1123,6 +1633,16 @@ window.newsData_2026_01_19 = {
       "fetched": "2026-01-19T17:20:17.143593+07:00"
     },
     {
+      "id": "b16dd04c58f408b85cc8def98dc865e9",
+      "title": "HLV Trung Quốc lo ngại thể lực khi đối đầu Việt Nam",
+      "link": "https://vnexpress.net/hlv-trung-quoc-lo-ngai-the-luc-khi-doi-dau-viet-nam-5007361.html",
+      "summary": "Theo HLV Antonio Puche Vicente, một trong những vấn đề Trung Quốc cần giải quyết là thể lực, nếu muốn đánh bại Việt Nam ở bán kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-19T08:40:00+07:00",
+      "fetched": "2026-01-19T19:28:46.520740+07:00"
+    },
+    {
       "id": "f2d85cce533c48001108f0a4c3c3c7d9",
       "title": "VN-Index tăng vọt",
       "link": "https://vnexpress.net/vn-index-tang-vot-5007407.html",
@@ -1171,6 +1691,16 @@ window.newsData_2026_01_19 = {
       "category": "Thể thao",
       "published": "2026-01-19T08:10:00+07:00",
       "fetched": "2026-01-19T17:20:17.143757+07:00"
+    },
+    {
+      "id": "731cb5c900cd01116edb3fce37903e41",
+      "title": "HLV Kim mong Việt Nam vào chung kết gặp Hàn Quốc",
+      "link": "https://vnexpress.net/hlv-kim-mong-viet-nam-vao-chung-ket-gap-han-quoc-5007348.html",
+      "summary": "HLV Kim Sang-sik tin Việt Nam sẽ vượt qua Trung Quốc ở bán kết bằng tinh thần cùng lối đá thông minh đã thể hiện từ đầu giải, và hy vọng gặp đội bóng quê hương Hàn Quốc ở chung kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-19T08:10:00+07:00",
+      "fetched": "2026-01-19T19:28:46.520907+07:00"
     },
     {
       "id": "bcd037f686f80ebaffeae2768929b36b",
