@@ -1,7 +1,67 @@
 window.newsData_2026_01_19 = {
   "date": "2026-01-19",
-  "lastUpdated": "2026-01-19T21:19:34.691936+07:00",
+  "lastUpdated": "2026-01-19T23:18:31.501323+07:00",
   "articles": [
+    {
+      "id": "f6b2e6f815720fbf943ece52582baec9",
+      "title": "Vinpearl khởi công sân golf đẳng cấp 6 sao trên đảo Hòn Tre",
+      "link": "https://tuoitre.vn/vinpearl-khoi-cong-san-golf-dang-cap-6-sao-tren-dao-hon-tre-20260119204434428.htm",
+      "summary": "Ngày 19-1, Vinpearl chính thức khởi công sân golf links siêu cao cấp trên đảo Hòn Tre, Nha Trang, quy mô hơn 100ha, sở hữu địa thế hiếm có với địa hình Top Cliff đầu tiên tại Việt Nam, nơi hướng tầm nhìn trực diện ra vịnh biển đẹp bậc nhất hành tinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T23:18:23.616111+07:00",
+      "fetched": "2026-01-19T23:18:23.616231+07:00"
+    },
+    {
+      "id": "b88c5947fadf9441e459d4cc166911ab",
+      "title": "Nhựa Bình Minh báo lãi khủng trên 1.200 tỉ đồng",
+      "link": "https://tuoitre.vn/nhua-binh-minh-bao-lai-khung-tren-1-200-ti-dong-20260119192330488.htm",
+      "summary": "Kết quả kinh doanh năm 2025 cho thấy Nhựa Bình Minh đạt lợi nhuận sau thuế trên 1.200 tỉ đồng, thiết lập kỷ lục mới kể từ khi doanh nghiệp đi vào hoạt động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T23:18:23.615981+07:00",
+      "fetched": "2026-01-19T23:18:23.616099+07:00"
+    },
+    {
+      "id": "2fe4fc1c688cb8942eb961ef89329ba6",
+      "title": "Không được trao Nobel Hòa bình, ông Trump nói sẽ không riêng nghĩ về hòa bình nữa",
+      "link": "https://tuoitre.vn/khong-duoc-trao-nobel-hoa-binh-ong-trump-noi-se-khong-rieng-nghi-ve-hoa-binh-nua-20260119203755115.htm",
+      "summary": "Ông Trump tuyên bố không còn cảm thấy có nghĩa vụ chỉ nghĩ đến hòa bình mà sẽ cân nhắc điều đúng đắn cho nước Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T23:18:23.615849+07:00",
+      "fetched": "2026-01-19T23:18:23.615970+07:00"
+    },
+    {
+      "id": "0737630db3e1c87c9c1dd6eca7a793ec",
+      "title": "Cảng hàng không mới đưa Phú Quốc cất cánh toàn diện",
+      "link": "https://tuoitre.vn/cang-hang-khong-moi-dua-phu-quoc-cat-canh-toan-dien-20260119214344.htm",
+      "summary": "Dự án nâng cấp Cảng hàng không quốc tế Phú Quốc với tổng vốn 22.000 tỉ đồng, nâng công suất lên 20 triệu khách/năm được kỳ vọng tạo động lực bứt phá cho đảo ngọc trước thềm APEC.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T23:18:23.615712+07:00",
+      "fetched": "2026-01-19T23:18:23.615837+07:00"
+    },
+    {
+      "id": "12850ba2ad4a2a70e8a8414f1be89b8f",
+      "title": "Đại sứ các nước vinh dự dự Đại hội Đảng XIV, đánh giá cao thành tựu 40 năm đổi mới của Việt Nam",
+      "link": "https://tuoitre.vn/dai-su-cac-nuoc-vinh-du-du-dai-hoi-dang-xiv-danh-gia-cao-thanh-tuu-40-nam-doi-moi-cua-viet-nam-20260119214903287.htm",
+      "summary": "Ngày 19-1, Thứ trưởng Bộ Ngoại giao tiếp đại sứ các nước đến dự Đại hội XIV của Đảng Cộng sản Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T23:18:23.615559+07:00",
+      "fetched": "2026-01-19T23:18:23.615699+07:00"
+    },
+    {
+      "id": "1ba261c179de2796771adf5ee4b9a939",
+      "title": "2 thanh niên cướp ngân hàng tại Gia Lai lấy đi 1,8 tỉ đồng",
+      "link": "https://tuoitre.vn/2-thanh-nien-cuop-ngan-hang-tai-gia-lai-lay-di-1-8-ti-dong-20260119221741663.htm",
+      "summary": "Công an tỉnh Gia Lai cho hay qua kiểm tra ban đầu xác định số tiền 2 nghi phạm lấy đi sau vụ cướp tại phòng giao dịch Ngân hàng Vietcombank tại phường Hội Phú là khoảng 1,8 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T23:18:23.615308+07:00",
+      "fetched": "2026-01-19T23:18:23.615543+07:00"
+    },
     {
       "id": "6155cc6e4ad0544660b2a1b7328631fe",
       "title": "Truy tìm 2 thanh niên cướp ngân hàng tại Gia Lai",
@@ -413,6 +473,16 @@ window.newsData_2026_01_19 = {
       "fetched": "2026-01-19T17:19:53.582313+07:00"
     },
     {
+      "id": "f7954033b22948f8ac62380eb2d81265",
+      "title": "'Họ và tên' (kỳ một): Tục kiêng húy của người Việt xưa",
+      "link": "https://vnexpress.net/ho-va-ten-ky-mot-tuc-kieng-huy-cua-nguoi-viet-xua-5006573.html",
+      "summary": "Trong xã hội Việt Nam xưa, việc không gọi thẳng tên là một cách thể hiện lòng kính trọng, nhất là ở cung đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T15:24:47+07:00",
+      "fetched": "2026-01-19T23:18:19.092342+07:00"
+    },
+    {
       "id": "a16efe25389b211a024fdb521172f3dd",
       "title": "Hoa hậu Thanh Thủy diện thiết kế mới của Lê Thanh Hòa, gợi không khí Tết 2026",
       "link": "https://tuoitre.vn/hoa-hau-thanh-thuy-dien-thiet-ke-moi-cua-le-thanh-hoa-goi-khong-khi-tet-2026-2026011913325517.htm",
@@ -563,6 +633,116 @@ window.newsData_2026_01_19 = {
       "fetched": "2026-01-19T15:21:06.822675+07:00"
     },
     {
+      "id": "9d4d87956b1a58a1dbadf3c485984660",
+      "title": "Tuyết ngập tới nóc nhà chung cư ở Nga",
+      "link": "https://vnexpress.net/tuyet-ngap-toi-noc-nha-chung-cu-o-nga-5007525.html",
+      "summary": "Bão tuyết kỷ lục phủ lớp tuyết dày chưa từng thấy ở bán đảo Kamchatka, vùng Viễn Đông Nga, cao tới nóc các tòa nhà chung cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T15:16:49+07:00",
+      "fetched": "2026-01-19T23:18:19.092546+07:00"
+    },
+    {
+      "id": "9d4d87956b1a58a1dbadf3c485984660",
+      "title": "Tuyết ngập tới nóc nhà chung cư ở Nga",
+      "link": "https://vnexpress.net/tuyet-ngap-toi-noc-nha-chung-cu-o-nga-5007525.html",
+      "summary": "Bão tuyết kỷ lục phủ lớp tuyết dày chưa từng thấy ở bán đảo Kamchatka, vùng Viễn Đông Nga, cao tới nóc các tòa nhà chung cư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T15:16:49+07:00",
+      "fetched": "2026-01-19T23:18:25.018259+07:00"
+    },
+    {
+      "id": "da7bd914d5457c795406eb076dffaccd",
+      "title": "ĐH Phenikaa dừng bước, cầu thủ trẻ tiếc nuối hẹn trở lại: Chắc chắn là VCK",
+      "link": "https://thanhnien.vn/dh-phenikaa-dung-buoc-cau-thu-tre-tiec-nuoi-hen-tro-lai-chac-chan-la-vck-185260119204617705.htm",
+      "summary": "Dừng bước ở vòng loại TNSV THACO cup 2026 để lại không ít tiếc nuối, nhưng chiến thắng 2-0 trước ĐH Công nghiệp Hà Nội đã giúp ĐH Phenikaa nói lời chia tay giải đấu theo cách đầy tự hào. Từ tinh thần không buông xuôi của thầy trò HLV Trần Hữu Trung đến cú đúp bùng nổ của cầu thủ năm nhất Bùi Nhật Lo...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T14:53:00+07:00",
+      "fetched": "2026-01-19T23:18:22.287437+07:00"
+    },
+    {
+      "id": "e9bfebefd44efe88fa5ce2791df5d69a",
+      "title": "Áo xanh thanh niên ‘phủ sóng’ sân Đồng Tháp giải TNSV THACO cup 2026",
+      "link": "https://thanhnien.vn/ao-xanh-thanh-nien-phu-song-san-dong-thap-giai-tnsv-thaco-cup-2026-185260119214137067.htm",
+      "summary": "Để tiếp sức trẻ cho các thủ, nhiều CĐV Trường ĐH Đồng Tháp đã cùng mặc áo Đoàn thanh niên đến cổ vũ cho đội nhà trong trận đấu tranh tấm vé vào chơi chung kết vòng loại Tây Nam bộ giải bóng đá TNSV THACO cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T14:52:00+07:00",
+      "fetched": "2026-01-19T23:18:22.287626+07:00"
+    },
+    {
+      "id": "61cc4faa7de31a59f6ff2e2b2e191f04",
+      "title": "EU gấp rút đối phó thuế quan của ông Trump, sẵn sàng trả đũa",
+      "link": "https://thanhnien.vn/eu-gap-rut-doi-pho-thue-quan-cua-ong-trump-san-sang-tra-dua-185260119190901794.htm",
+      "summary": "Các nhà lãnh đạo châu Âu đã tổ chức một cuộc họp khẩn sau khi Tổng thống Mỹ Donald Trump đe dọa áp thuế quan mới đối với một số đồng minh NATO, trừ khi Washington được phép mua Greenland. EU đã bác bỏ yêu cầu này và đang chuẩn bị các bước trả đũa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T14:52:00+07:00",
+      "fetched": "2026-01-19T23:18:22.287786+07:00"
+    },
+    {
+      "id": "ca0c78b0d55b4e7089752c388b9431e2",
+      "title": "Bóng hồng đóng chính 'Girl From Nowhere 3'",
+      "link": "https://vnexpress.net/bong-hong-dong-chinh-girl-from-nowhere-3-5007369.html",
+      "summary": "Becky Armstrong, mang hai dòng máu Thái - Anh, thay thế Chicha Amatayakul để đóng nữ sinh Nanno trong phần ba \"Girl From Nowhere: The Reset\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T14:48:09+07:00",
+      "fetched": "2026-01-19T23:18:19.092719+07:00"
+    },
+    {
+      "id": "474602f39b3f1899262d032d668f0f56",
+      "title": "AFC nhận định mới nhất: U.23 Việt Nam để lại dấu ấn rõ nét hơn U.23 Trung Quốc trước bán kết",
+      "link": "https://thanhnien.vn/afc-nhan-dinh-moi-nhat-u23-viet-nam-de-lai-dau-an-ro-net-hon-u23-trung-quoc-truoc-ban-ket-185260119214204953.htm",
+      "summary": "Trang chủ của Liên đoàn Bóng đá châu Á (the-AFC) đánh giá, U.23 Việt Nam đang thể hiện hình ảnh thuyết phục và ấn tượng hơn so với U.23 Trung Quốc trước cuộc chạm trán ở bán kết U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T14:45:00+07:00",
+      "fetched": "2026-01-19T23:18:22.287942+07:00"
+    },
+    {
+      "id": "5b661727f0091c0452a5e595b54585f0",
+      "title": "Hy vọng em luôn sống cho hiện tại và tương lai, không hoài cổ",
+      "link": "https://vnexpress.net/hy-vong-em-luon-song-cho-hien-tai-va-tuong-lai-khong-hoai-co-5007311.html",
+      "summary": "Chào em, người phụ nữ mà anh chưa từng gặp nhưng hy vọng sẽ sớm hiểu nhau và cùng chung đôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T14:37:40+07:00",
+      "fetched": "2026-01-19T23:18:19.092825+07:00"
+    },
+    {
+      "id": "022956ea243bd39a9ed9c28348bd1c20",
+      "title": "Lộ diện 'áo giáp vàng' huyền thoại từ thời Đường",
+      "link": "https://thanhnien.vn/lo-dien-ao-giap-vang-huyen-thoai-tu-thoi-duong-185260119203212446.htm",
+      "summary": "Một nhóm nghiên cứu Trung Quốc vừa công bố phục chế thành công bộ áo giáp mạ vàng thời nhà Đường, được phát hiện trong một lăng mộ hoàng gia trên cao nguyên Tây Tạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T14:33:00+07:00",
+      "fetched": "2026-01-19T23:18:22.288094+07:00"
+    },
+    {
+      "id": "5d35108e08cde9cb7aef842dcd0abebe",
+      "title": "Trượt giải Nobel, ông Trump nói 'không có nghĩa vụ chỉ nghĩ tới hòa bình'",
+      "link": "https://thanhnien.vn/truot-giai-nobel-ong-trump-noi-khong-co-nghia-vu-chi-nghi-toi-hoa-binh-185260119201349025.htm",
+      "summary": "Trong một thông điệp bằng văn bản gửi Thủ tướng Na Uy Jonas Gahr Stoere, Tổng thống Mỹ Donald Trump nhấn mạnh ông không còn cảm thấy có nghĩa vụ 'phải hoàn toàn nghĩ đến hòa bình' sau khi không được trao giải Nobel Hòa bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T14:33:00+07:00",
+      "fetched": "2026-01-19T23:18:22.288244+07:00"
+    },
+    {
+      "id": "83e9b0725b6503d7da696a81e01a2629",
+      "title": "HLV U.23 Hàn Quốc đổ bệnh trước đại chiến Nhật Bản, HLV Kim Sang-sik được truyền thông nhắc tên liên tục",
+      "link": "https://thanhnien.vn/hlv-u23-han-quoc-do-benh-truoc-dai-chien-nhat-ban-hlv-kim-sang-sik-duoc-truyen-thong-nhac-ten-lien-tuc-185260119211252708.htm",
+      "summary": "Trước thềm bán kết U.23 châu Á 2026, những HLV người Hàn Quốc trở thành tâm điểm theo hai chiều trái ngược: HLV Lee Min-sung của U.23 Hàn Quốc bất ngờ đổ bệnh trước đại chiến với U.23 Nhật Bản, trong khi truyền thông xứ kim chi đặc biệt nhắc đến HLV Kim Sang-sik như biểu tượng ‘yêu nước’, khi cùng U...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T14:22:00+07:00",
+      "fetched": "2026-01-19T23:18:22.288394+07:00"
+    },
+    {
       "id": "7c4a21e8047ea0493978829da0d5b29a",
       "title": "Lý do nhiều người Alberta muốn ly khai khỏi Canada",
       "link": "https://vnexpress.net/ly-do-nhieu-nguoi-alberta-muon-ly-khai-khoi-canada-5007240.html",
@@ -571,6 +751,16 @@ window.newsData_2026_01_19 = {
       "category": "Thế giới",
       "published": "2026-01-19T14:00:00+07:00",
       "fetched": "2026-01-19T21:19:26.401371+07:00"
+    },
+    {
+      "id": "8e0f2601e6e742917479b4daf010c37a",
+      "title": "Chính phủ Syria thắng thế, lực lượng người Kurd phải thỏa thuận",
+      "link": "https://thanhnien.vn/chinh-phu-syria-thang-the-luc-luong-nguoi-kurd-phai-thoa-thuan-185260119181022193.htm",
+      "summary": "Chính phủ Syria và lực lượng người Kurd đã đạt được một thỏa thuận toàn diện để đưa chính quyền dân sự và quân sự của người Kurd dưới sự kiểm soát của chính phủ trung ương, chấm dứt nhiều ngày giao tranh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T14:00:00+07:00",
+      "fetched": "2026-01-19T23:18:22.288579+07:00"
     },
     {
       "id": "f6866caa816a5076b5e2a29ce6f6f6b0",
@@ -671,6 +861,16 @@ window.newsData_2026_01_19 = {
       "category": "Tổng hợp",
       "published": "2026-01-19T13:30:53+07:00",
       "fetched": "2026-01-19T21:19:19.838566+07:00"
+    },
+    {
+      "id": "9d4387c6021fa03382783c736a67cdc8",
+      "title": "Trụ sở UBND TP Huế cũ trở thành Bảo tàng Lịch sử",
+      "link": "https://vnexpress.net/tru-so-ubnd-tp-hue-cu-tro-thanh-bao-tang-lich-su-5007491.html",
+      "summary": "Tòa nhà 7 tầng, rộng hơn 20.000 m2 ở phường Vỹ Dạ, vốn là trụ sở của UBND TP Huế, đã được bàn giao cho Bảo tàng lịch sử TP Huế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T13:30:53+07:00",
+      "fetched": "2026-01-19T23:18:19.093314+07:00"
     },
     {
       "id": "0cae92e13212f70919b8611b71c43f15",
