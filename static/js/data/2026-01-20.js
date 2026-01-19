@@ -1,7 +1,97 @@
 window.newsData_2026_01_20 = {
   "date": "2026-01-20",
-  "lastUpdated": "2026-01-20T03:14:54.678181+07:00",
+  "lastUpdated": "2026-01-20T05:13:34.641947+07:00",
   "articles": [
+    {
+      "id": "b1c45488860b211e3f3d26c6b56a8c10",
+      "title": "Sáng nay, khai mạc Đại hội đại biểu toàn quốc lần thứ XIV của Đảng",
+      "link": "https://tuoitre.vn/sang-nay-khai-mac-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-2026011920050576.htm",
+      "summary": "Sáng nay (20-1), Đại hội đại biểu toàn quốc lần thứ XIV của Đảng khai mạc trọng thể tại Hà Nội với sự tham dự của 1.586 đại biểu, đại diện cho hơn 5,6 triệu đảng viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T05:13:28.565078+07:00",
+      "fetched": "2026-01-20T05:13:28.565191+07:00"
+    },
+    {
+      "id": "8160343a61c9ed759c31d41295e87fb0",
+      "title": "Thời tiết hôm nay 20-1: Miền Bắc ban ngày trời đẹp, không khí lạnh tràn về từ buổi tối",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-20-1-mien-bac-ban-ngay-troi-dep-khong-khi-lanh-tran-ve-tu-buoi-toi-2026011916112047.htm",
+      "summary": "Hôm nay 20-1, miền Bắc ban ngày trời đẹp, không khí lạnh tràn về từ buổi tối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T05:13:28.564954+07:00",
+      "fetched": "2026-01-20T05:13:28.565067+07:00"
+    },
+    {
+      "id": "1a6c1ec31f148d44c088edf5be9e951a",
+      "title": "Tin tức sáng 20-1: Cần Thơ lên kế hoạch dạy học 2 buổi/ngày với các cấp học phổ thông",
+      "link": "https://tuoitre.vn/tin-tuc-sang-20-1-can-tho-len-ke-hoach-day-hoc-2-buoi-ngay-voi-cac-cap-hoc-pho-thong-20260119230215597.htm",
+      "summary": "Tin tức đáng chú ý: Cần Thơ lên kế hoạch dạy học 2 buổi/ngày các cấp học phổ thông; Bệnh viện Đà Nẵng cứu sống nam thanh niên Hàn Quốc nguy kịch vì sốc tim, sốc nhiễm khuẩn; Khai mạc lễ hội \"Đào Nhật Tân - Sắc xuân Hồng Hà\"...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T05:13:28.564829+07:00",
+      "fetched": "2026-01-20T05:13:28.564942+07:00"
+    },
+    {
+      "id": "399f7db88dd3188ce0a34ff8973510e7",
+      "title": "Giáo dục TP.HCM thời kỳ đổi mới - Kỳ 1: Mũi nhọn ngoại ngữ",
+      "link": "https://tuoitre.vn/giao-duc-tp-hcm-thoi-ky-doi-moi-ky-1-mui-nhon-ngoai-ngu-20260119225952903.htm",
+      "summary": "Tại sao TP.HCM có 8 năm liền đứng đầu cả nước về điểm thi môn tiếng Anh trong kỳ thi tốt nghiệp THPT? Tại sao TP.HCM có học sinh tiểu học thi toán bằng tiếng Anh và nằm trong top điểm cao nhất thế giới?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T05:13:28.564692+07:00",
+      "fetched": "2026-01-20T05:13:28.564817+07:00"
+    },
+    {
+      "id": "112833b29751c1ce32fe84ed33ac11c1",
+      "title": "Dự đoán tỉ số: U23 Nhật Bản thắng cách biệt Hàn Quốc",
+      "link": "https://tuoitre.vn/du-doan-ti-so-u23-nhat-ban-thang-cach-biet-han-quoc-20260119182858249.htm",
+      "summary": "18h30 ngày 20-1 (giờ Việt Nam) sẽ diễn ra trận bán kết đầu tiên của Giải U23 châu Á 2026, cũng là đại chiến \"kinh điển\" làng bóng đá châu lục, khi Nhật Bản chạm trán Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T05:13:28.564543+07:00",
+      "fetched": "2026-01-20T05:13:28.564662+07:00"
+    },
+    {
+      "id": "83934f0e404ffb851dce33c50518b70d",
+      "title": "Làm sao phá vỡ hàng thủ U23 Trung Quốc?",
+      "link": "https://tuoitre.vn/lam-sao-pha-vo-hang-thu-u23-trung-quoc-20260119231417579.htm",
+      "summary": "Tuyển U23 Việt Nam sẽ đối mặt và tìm cách vượt qua thử thách được xem là lớn nhất cho đến thời điểm này tại Giải U23 châu Á 2026: lối chơi phòng ngự chặt chẽ, vây hãm tối đa đối thủ của U23 Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T05:13:28.564386+07:00",
+      "fetched": "2026-01-20T05:13:28.564529+07:00"
+    },
+    {
+      "id": "4a9a94f5df7ba200ca16b41e97357e23",
+      "title": "Dự đoán tỉ số: U23 Việt Nam vượt qua Trung Quốc trong loạt sút luân lưu",
+      "link": "https://tuoitre.vn/du-doan-ti-so-u23-viet-nam-vuot-qua-trung-quoc-trong-loat-sut-luan-luu-20260119201509474.htm",
+      "summary": "22h30 ngày 20-1 (giờ Việt Nam), U23 Việt Nam sẽ bước vào trận bán kết Giải U23 châu Á 2026, chạm trán Trung Quốc trên sân Prince Abdullah Al-Faisal Sports City.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T05:13:28.564250+07:00",
+      "fetched": "2026-01-20T05:13:28.564374+07:00"
+    },
+    {
+      "id": "6e5b69074bf1c003c761b9ccf8abc9cb",
+      "title": "Huyền tình Dạ Trạch bất ngờ gia nhập đường đua phim Tết, đối đầu phim Trấn Thành, Trường Giang",
+      "link": "https://tuoitre.vn/huyen-tinh-da-trach-bat-ngo-gia-nhap-duong-dua-phim-tet-doi-dau-phim-tran-thanh-truong-giang-2026012001203641.htm",
+      "summary": "Đài Hà Nội gây bất ngờ khi công bố phim ‘Huyền tình Dạ Trạch’ gia nhập đường đua phim Tết 2026, trực tiếp đối đầu với phim của Trấn Thành, Trường Giang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T05:13:28.564098+07:00",
+      "fetched": "2026-01-20T05:13:28.564237+07:00"
+    },
+    {
+      "id": "927c470f6dd1597e28b6a47eb3904765",
+      "title": "Hồng Vân, Việt Trinh nhớ thời quảng cáo cho máy nhắn tin",
+      "link": "https://tuoitre.vn/hong-van-viet-trinh-nho-thoi-quang-cao-cho-may-nhan-tin-20260119181336887.htm",
+      "summary": "Diễn viên điện ảnh Việt Trinh đăng lên trang cá nhân hình ảnh mà người hâm mộ gởi tặng chị. Đó là hình chị, nghệ sĩ Hồng Vân, hoa hậu Lý Thu Thảo quảng cáo cho máy nhắn tin phonelink hơn 30 năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T05:13:28.563851+07:00",
+      "fetched": "2026-01-20T05:13:28.564081+07:00"
+    },
     {
       "id": "17fe61ed13bf0c8af1d289cf5d4ee72f",
       "title": "Đại tướng Phan Văn Giang: Tuyệt đối không để xảy ra sơ suất trong phục vụ đại biểu dự Đại hội Đảng",
@@ -151,6 +241,56 @@ window.newsData_2026_01_20 = {
       "category": "Tổng hợp",
       "published": "2026-01-20T01:19:32.003981+07:00",
       "fetched": "2026-01-20T01:19:32.004196+07:00"
+    },
+    {
+      "id": "bd2aaced85e4d08a94588b3a6ebff1ff",
+      "title": "Lầu Năm Góc chuẩn bị điều quân đến Minnesota",
+      "link": "https://thanhnien.vn/lau-nam-goc-chuan-bi-dieu-quan-den-minnesota-185260119205145428.htm",
+      "summary": "AP ngày 19.1 dẫn thông tin từ 2 quan chức quốc phòng Mỹ cho biết Lầu Năm Góc chuẩn bị khoảng 1.500 quân nhân để sẵn sàng điều động đến bang Minnesota của Mỹ ngay khi có lệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T22:00:00+07:00",
+      "fetched": "2026-01-20T05:13:27.320748+07:00"
+    },
+    {
+      "id": "1c2cd630a11a3873dabfafe2fed26687",
+      "title": "Kỳ vọng tuyến metro số 2 TP.HCM",
+      "link": "https://thanhnien.vn/ky-vong-tuyen-metro-so-2-tphcm-185260119191443341.htm",
+      "summary": "Bạn đọc kỳ vọng hạ tầng giao thông TP.HCM tiếp tục phát triển mạnh mẽ, vượt bậc nhân sự kiện tuyến metro số 2 chính thức khởi công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T22:00:00+07:00",
+      "fetched": "2026-01-20T05:13:27.320927+07:00"
+    },
+    {
+      "id": "1b04e2346a7b577a14b3e8e542b862bf",
+      "title": "Ngắm bộ quýt 'Phúc – Lộc – Thọ' khổng lồ có giá hàng trăm triệu",
+      "link": "https://thanhnien.vn/ngam-bo-quyt-phuc-loc-tho-khong-lo-co-gia-hang-tram-trieu-185260119161702813.htm",
+      "summary": "Giữa thị trường cây cảnh Tết sôi động, bộ quýt \"Phúc – Lộc – Thọ\" khổng lồ của một nhà vườn tại Hưng Yên gây chú ý khi được chào bán với mức giá bạc trăm triệu đồng, khiến nhiều khách hàng sẵn sàng chi tiền sở hữu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T22:00:00+07:00",
+      "fetched": "2026-01-20T05:13:27.321094+07:00"
+    },
+    {
+      "id": "6bb2dcf23730dcab4a02a552f7f3b124",
+      "title": "Người già và dưỡng lão: Chuyện thay tã và những 'nghịch lý'",
+      "link": "https://thanhnien.vn/nguoi-gia-va-duong-lao-chuyen-thay-ta-va-nhung-nghich-ly-185260119173742113.htm",
+      "summary": "Hơn 10 năm làm công việc chăm sóc người cao tuổi tại Úc, chị Huỳnh Ngọc Bích (47 tuổi) chia sẻ những trải nghiệm thú vị và \"nghịch lý\" trong nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T21:30:00+07:00",
+      "fetched": "2026-01-20T05:13:27.321259+07:00"
+    },
+    {
+      "id": "f97f913c24efa8dd55d96a8cecc461d3",
+      "title": "Chiến sự Ukraine ngày 1.426: Kyiv gây thiệt hại tỉ USD cho phòng không Nga?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1426-kyiv-gay-thiet-hai-ti-usd-cho-phong-khong-nga-185260119222133765.htm",
+      "summary": "Cơ quan An ninh Ukraine (SBU) tuyên bố các cuộc tấn công tầm xa trong năm qua đã 'phá hủy hoặc vô hiệu hóa' nhiều hệ thống phòng không của Nga, với tổng giá trị ước tính khoảng 4 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T21:27:00+07:00",
+      "fetched": "2026-01-20T05:13:27.321439+07:00"
     },
     {
       "id": "eaa3f81ebb9c454c1c5e80dda3799060",
