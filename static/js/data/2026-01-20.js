@@ -1,7 +1,157 @@
 window.newsData_2026_01_20 = {
   "date": "2026-01-20",
-  "lastUpdated": "2026-01-20T10:26:39.997194+07:00",
+  "lastUpdated": "2026-01-20T11:37:54.234682+07:00",
   "articles": [
+    {
+      "id": "eb377ce4b0388edc854b3b3e14408802",
+      "title": "Toàn văn Diễn văn khai mạc của Chủ tịch nước Lương Cường tại Đại hội XIV của Đảng",
+      "link": "https://tuoitre.vn/toan-van-dien-van-khai-mac-cua-chu-tich-nuoc-luong-cuong-tai-dai-hoi-xiv-cua-dang-20260120101340438.htm",
+      "summary": "Sáng 20-1, Đại hội XIV của Đảng khai mạc trọng thể tại Hà Nội. Chủ tịch nước Lương Cường trình bày Diễn văn khai mạc trước 1.586 đại biểu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.660155+07:00",
+      "fetched": "2026-01-20T11:37:45.660265+07:00"
+    },
+    {
+      "id": "f17905c65b507a0c81a7cd3c14858c89",
+      "title": "U23 Nhật Bản đấu U23 Hàn Quốc (18h30): Ai giành vé đầu tiên vào chung kết?",
+      "link": "https://tuoitre.vn/u23-nhat-ban-dau-u23-han-quoc-18h30-ai-gianh-ve-dau-tien-vao-chung-ket-20260120095629587.htm",
+      "summary": "Mời bạn đọc theo dõi trực tuyến trận U23 Nhật Bản gặp U23 Hàn Quốc ở trận bán kết đầu tiên Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.660025+07:00",
+      "fetched": "2026-01-20T11:37:45.660143+07:00"
+    },
+    {
+      "id": "b010575926d479db8edc86ff81e30ff9",
+      "title": "Nhiều doanh nghiệp tên tuổi đồng loạt thoái vốn",
+      "link": "https://tuoitre.vn/nhieu-doanh-nghiep-ten-tuoi-dong-loat-thoai-von-20260120100750911.htm",
+      "summary": "Thị trường chứng khoán ghi nhận loạt động thái thoái vốn của cổ đông lớn, trong đó đáng chú ý là kế hoạch bán toàn bộ gần 9,1% vốn của VietinBank tại Cảng Sài Gòn và việc nhóm quỹ Dragon Capital bán ra 1,45 triệu cổ phiếu Tập đoàn Đất Xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.659889+07:00",
+      "fetched": "2026-01-20T11:37:45.660004+07:00"
+    },
+    {
+      "id": "c1e8505f15918cfbc8889416de9a3ea4",
+      "title": "U23 Việt Nam mặc trang phục màu đỏ, U23 Trung Quốc lần đầu diện áo đấu phụ",
+      "link": "https://tuoitre.vn/u23-viet-nam-mac-trang-phuc-mau-do-u23-trung-quoc-lan-dau-dien-ao-dau-phu-20260120103926106.htm",
+      "summary": "U23 Việt Nam sẽ diện trang phục màu đỏ quen thuộc để thi đấu với U23 Trung Quốc ở trận bán kết U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.659748+07:00",
+      "fetched": "2026-01-20T11:37:45.659877+07:00"
+    },
+    {
+      "id": "7eefba00e2e9245d2d26027177fa4abb",
+      "title": "Đường hoa Nguyễn Huệ Tết Bính Ngọ 2026 có gì hấp dẫn?",
+      "link": "https://tuoitre.vn/duong-hoa-nguyen-hue-tet-binh-ngo-2026-co-gi-hap-dan-20260120102513284.htm",
+      "summary": "Với chủ đề “Xuân hội tụ - vững bước vươn mình”, Đường hoa Tết Bính Ngọ 2026 đánh dấu bước chuyển mình đặc biệt sau 23 năm hình thành và phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.659627+07:00",
+      "fetched": "2026-01-20T11:37:45.659737+07:00"
+    },
+    {
+      "id": "905a595a57c8a64f003704940ddbb2ca",
+      "title": "Nhiệt điện Duyên Hải vượt khó, hoàn thành nhiều chỉ tiêu quan trọng",
+      "link": "https://tuoitre.vn/nhiet-dien-duyen-hai-vuot-kho-hoan-thanh-nhieu-chi-tieu-quan-trong-20260120080950874.htm",
+      "summary": "Năm 2025 đánh dấu 10 năm Công ty Nhiệt điện Duyên Hải hình thành và phát triển, đồng thời là năm cuối cùng phấn đấu hoàn thành các mục tiêu của nghị quyết Đại hội Đảng bộ công ty nhiệm kỳ 2020 - 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.659504+07:00",
+      "fetched": "2026-01-20T11:37:45.659616+07:00"
+    },
+    {
+      "id": "2bb64504fe4a85edf83a3528fea76f35",
+      "title": "U23 Việt Nam đấu với Trung Quốc (22h30): Quyết giành vé vào chung kết",
+      "link": "https://tuoitre.vn/u23-viet-nam-dau-voi-trung-quoc-22h30-quyet-gianh-ve-vao-chung-ket-20260120093919424.htm",
+      "summary": "Mời bạn đọc theo dõi trực tuyến trận bán kết Giải U23 châu Á 2026 giữa U23 Việt Nam và U23 Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.659381+07:00",
+      "fetched": "2026-01-20T11:37:45.659493+07:00"
+    },
+    {
+      "id": "1157be1fa8dce8086e8a973e2c4919da",
+      "title": "Trở về cùng dựng xây quê hương - Kỳ 6: Mang tiếng đàn về quê hương Việt Nam",
+      "link": "https://tuoitre.vn/tro-ve-cung-dung-xay-que-huong-ky-6-mang-tieng-dan-ve-que-huong-viet-nam-20260120102158522.htm",
+      "summary": "Làm việc trong môi trường âm nhạc ở Mỹ, TS Trần Tuấn An quay về Việt Nam với hành trang chỉ có cây đàn guitar, kiến thức và mong muốn góp phần phát triển nền âm nhạc nước nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.659258+07:00",
+      "fetched": "2026-01-20T11:37:45.659369+07:00"
+    },
+    {
+      "id": "11088dd2b95fa11a3fa87bdeee49213c",
+      "title": "Video hươu tí hon 'thiết đầu công' với tê giác 1,7 tấn là thật",
+      "link": "https://tuoitre.vn/video-huou-ti-hon-thiet-dau-cong-voi-te-giac-1-7-tan-la-that-2026012010133966.htm",
+      "summary": "Video ghi lại cảnh hươu tí hon liên tục húc đầu tê giác 1,7 tấn gây chú ý và được ví với điển tích David đối đầu Goliath.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.659134+07:00",
+      "fetched": "2026-01-20T11:37:45.659247+07:00"
+    },
+    {
+      "id": "98449669023858ef63bfdd78d5c08bf4",
+      "title": "ICE rút ngắn huấn luyện xuống 47 ngày để tôn vinh Tổng thống Trump?",
+      "link": "https://tuoitre.vn/ice-rut-ngan-huan-luyen-xuong-47-ngay-de-ton-vinh-tong-thong-trump-20260119132633555.htm",
+      "summary": "Trên mạng loan tin cơ quan Thực thi Di trú và Hải quan Mỹ giảm thời gian huấn luyện nhân viên mới còn 47 ngày để “tôn vinh” ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.659009+07:00",
+      "fetched": "2026-01-20T11:37:45.659122+07:00"
+    },
+    {
+      "id": "e7117b26c463576cba58bbe143dc6034",
+      "title": "Tác giả Conan vẽ tặng Frieren nhân dịp anime ra mắt mùa 2",
+      "link": "https://tuoitre.vn/tac-gia-conan-ve-tang-frieren-nhan-dip-anime-ra-mat-mua-2-20260120104735831.htm",
+      "summary": "Nhân dịp anime Frieren: Beyond Journey's End trở lại với mùa thứ hai, cộng đồng manga-anime quốc tế bất ngờ trước những lời chúc mừng đầy tình cảm từ cha đẻ series Thám tử lừng danh Conan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.658880+07:00",
+      "fetched": "2026-01-20T11:37:45.658998+07:00"
+    },
+    {
+      "id": "88571fdc3a40638ef22f2d6102b62843",
+      "title": "Nghệ sĩ Thanh Thủy làm đạo diễn kịch Tết ở Nhà hát kịch Idecaf",
+      "link": "https://tuoitre.vn/nghe-si-thanh-thuy-lam-dao-dien-kich-tet-o-nha-hat-kich-idecaf-20260120103706774.htm",
+      "summary": "Khá lâu sau vở kịch Bí mật giếng làng Khủm, nghệ sĩ Thanh Thủy mới trở lại với vai trò đạo diễn trong vở kịch Tết Làng vô tặc ở Nhà hát kịch Idecaf.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.658736+07:00",
+      "fetched": "2026-01-20T11:37:45.658866+07:00"
+    },
+    {
+      "id": "e26580f150a9ab1f9085d39f6080bf03",
+      "title": "Thời trang lộng lẫy của bạn gái Leonardo DiCaprio",
+      "link": "https://tuoitre.vn/thoi-trang-long-lay-cua-ban-gai-leonardo-dicaprio-2026011922441732.htm",
+      "summary": "Hai năm qua, người mẫu Vittoria Ceretti gây chú ý khi hẹn hò với Leonardo DiCaprio. Dù cả hai khá kín tiếng về mối quan hệ, nhưng có vẻ họ vẫn đang rất hạnh phúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.658605+07:00",
+      "fetched": "2026-01-20T11:37:45.658724+07:00"
+    },
+    {
+      "id": "719a5ff733571271371869e98bee824c",
+      "title": "Bệnh viện tuyến dưới can thiệp tim mạch bằng dụng cụ qua da cho người nước ngoài",
+      "link": "https://tuoitre.vn/benh-vien-tuyen-duoi-can-thiep-tim-mach-bang-dung-cu-qua-da-cho-nguoi-nuoc-ngoai-20260120110008226.htm",
+      "summary": "Bệnh nhân nữ 31 tuổi, quốc tịch Campuchia đã được chẩn đoán thông liên nhĩ tại campuchia và có chỉ định phẫu thuật. Thế nhưng, sau khi được giới thiệu, bệnh nhân đã chọn đến Việt Nam và điều trị tại Bệnh viện Đa khoa Hà Đông, Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.658462+07:00",
+      "fetched": "2026-01-20T11:37:45.658592+07:00"
+    },
+    {
+      "id": "4bbd7d6b4e00f131b24016157e652f11",
+      "title": "Jungkook BTS chỉ quan tâm đến nhảy và hát",
+      "link": "https://tuoitre.vn/jungkook-bts-chi-quan-tam-den-nhay-va-hat-202601201113438.htm",
+      "summary": "Trong cuộc phỏng vấn với Rolling Stone Japan, Jungkook (BTS) nói trên sân khấu, anh ưu tiên luôn tập trung vào hát và nhảy thay vì lo lắng về biểu cảm hay các yếu tố bên ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T11:37:45.658233+07:00",
+      "fetched": "2026-01-20T11:37:45.658447+07:00"
+    },
     {
       "id": "b768fb826f3f5b0a7a72926cddb9b1cb",
       "title": "Khai mạc Đại hội đại biểu toàn quốc lần thứ XIV của Đảng",
@@ -323,6 +473,326 @@ window.newsData_2026_01_20 = {
       "fetched": "2026-01-20T05:13:28.564081+07:00"
     },
     {
+      "id": "b68ec6fa443832d1edae257da499aaf1",
+      "title": "Chứng khoán Rồng Việt báo lãi 2025 hơn 350 tỉ đồng",
+      "link": "https://thanhnien.vn/chung-khoan-rong-viet-bao-lai-2025-hon-350-ti-dong-185260120112219683.htm",
+      "summary": "Công ty CP chứng khoán Rồng Việt (VDSC) vừa công bố báo cáo kết quả kinh doanh năm 2025 với tổng doanh thu đạt 1.054 tỉ đồng, lợi nhuận trước thuế hơn 351 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:32:00+07:00",
+      "fetched": "2026-01-20T11:37:44.626337+07:00"
+    },
+    {
+      "id": "d1017671ab0fa1547fea6651fc3c1ce6",
+      "title": "VinFast sắp trình làng mô tô điện, mạnh ngang xe xăng 1.000 phân khối?",
+      "link": "https://thanhnien.vn/vinfast-sap-trinh-lang-mo-to-dien-manh-ngang-xe-xang-1000-phan-khoi-18526012011075295.htm",
+      "summary": "Trong số các mẫu mô tô điện VinFast đang lên kế hoạch trình làng, đáng chú ý có xe hiệu suất cao, trang bị động cơ sản sinh công suất gần 50.000 Watt, ngang ngửa mô tô dùng máy xăng dung tích lên đến 1.000 phân khối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:28:00+07:00",
+      "fetched": "2026-01-20T11:37:44.626527+07:00"
+    },
+    {
+      "id": "9f1e826c4358917827e418c1aa6296d4",
+      "title": "Mỗi ngày người Việt mua hơn 7.100 xe máy, hãng nào bán chạy nhất 2025?",
+      "link": "https://thanhnien.vn/moi-ngay-nguoi-viet-mua-hon-7100-xe-may-hang-nao-ban-chay-nhat-2025-185260119132919938.htm",
+      "summary": "Bất chấp hàng loạt mẫu xe mới tung ra thị trường kết hợp ưu đãi, giảm giá rầm rộ… lượng tiêu thụ xe máy tại Việt Nam năm 2025 bất ngờ chững lại, doanh số giảm nhẹ so với năm 2024 nhưng trung bình mỗi ngày người Việt vẫn mua sắm hơn 7.100 xe máy mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:27:00+07:00",
+      "fetched": "2026-01-20T11:37:44.626687+07:00"
+    },
+    {
+      "id": "1639e0e45a0bac52f2fc441200ffa0f1",
+      "title": "Cán bộ, chiến sĩ nhà giàn DK1 theo dõi Đại hội Đảng XIV từ nơi đầu sóng",
+      "link": "https://thanhnien.vn/can-bo-chien-si-nha-gian-dk1-theo-doi-dai-hoi-dang-xiv-tu-noi-dau-song-185260120103659101.htm",
+      "summary": "Sáng 20.1, tại nhà giàn DK1/21, các cán bộ, chiến sĩ đã cùng theo dõi phiên khai mạc Đại hội đại biểu toàn quốc lần thứ XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:26:00+07:00",
+      "fetched": "2026-01-20T11:37:44.626861+07:00"
+    },
+    {
+      "id": "d1eae87a529ba75ddbb338a9d8665f4a",
+      "title": "TP.HCM ra quân mạnh tay với thuốc giả, mỹ phẩm trôi nổi, khám chữa bệnh chui",
+      "link": "https://thanhnien.vn/tphcm-ra-quan-manh-tay-voi-thuoc-gia-my-pham-troi-noi-kham-chua-benh-chui-185260120103533113.htm",
+      "summary": "Sở Y tế TP.HCM tập trung kiểm soát các nhóm nguy cơ cao như thuốc, mỹ phẩm giả và hoạt động khám chữa bệnh chui nhằm bảo vệ sức khỏe người dân dịp trước, trong và sau Tết Nguyên đán Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:20:00+07:00",
+      "fetched": "2026-01-20T11:37:44.627028+07:00"
+    },
+    {
+      "id": "2bbc246df012dcd8950a34d51548b121",
+      "title": "Huyền thoại thời trang Valentino Garavani qua đời",
+      "link": "https://thanhnien.vn/huyen-thoai-thoi-trang-valentino-garavani-qua-doi-18526012010082091.htm",
+      "summary": "Valentino Garavani - nhà thiết kế lừng danh với thương hiệu thời trang gắn liền với tên mình, vừa qua đời ở tuổi 93. Sự ra đi của ông là một mất mát không nhỏ với ngành thời trang thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:18:00+07:00",
+      "fetched": "2026-01-20T11:37:44.627188+07:00"
+    },
+    {
+      "id": "39deb47bc2e1b4912f2b3e1e2772e73a",
+      "title": "Người tiền tiểu đường nên ăn giới hạn bao nhiêu chén cơm mỗi bữa?",
+      "link": "https://thanhnien.vn/nguoi-tien-tieu-duong-nen-an-gioi-han-bao-nhieu-chen-com-moi-bua-185260119160514659.htm",
+      "summary": "Với người tiền tiểu đường, câu hỏi mỗi bữa nên ăn bao nhiêu chén cơm tưởng rất bình thường nhưng liên quan trực tiếp đến hiệu quả kiểm soát đường huyết. Nguyên nhân do cơm là nguồn tinh bột trắng chủ yếu trong chế độ ăn hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:15:00+07:00",
+      "fetched": "2026-01-20T11:37:44.627345+07:00"
+    },
+    {
+      "id": "e774fbce09a09d5e69f97de9772c4137",
+      "title": "Morocco kiện Senegal sau chung kết hỗn loạn ở Cup châu Phi",
+      "link": "https://vnexpress.net/morocco-kien-senegal-sau-chung-ket-hon-loan-o-cup-chau-phi-5007680.html",
+      "summary": "LĐBĐ Morocco thông báo sẽ theo đuổi các thủ tục pháp lý với Liên đoàn bóng đá châu Phi và FIFA liên quan đến những diễn biến gây tranh cãi trong trận chung kết Cup châu Phi 2025 (AFCON).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:13:19+07:00",
+      "fetched": "2026-01-20T11:37:41.305659+07:00"
+    },
+    {
+      "id": "7e9a504d7ec09305e7fbd618338a1feb",
+      "title": "Xôn xao tin lặn sông Hương tìm 2 cây vàng trong đêm: Công an đang xác minh",
+      "link": "https://thanhnien.vn/xon-xao-tin-lan-song-huong-tim-2-cay-vang-trong-dem-cong-an-dang-xac-minh-185260120093758456.htm",
+      "summary": "Công an P.Thuận Hóa, TP.Huế đang xác minh thông tin một đội cứu hộ lặn sông Hương để tìm kiếm 2 cây vàng trong đêm gây xôn xao trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:13:00+07:00",
+      "fetched": "2026-01-20T11:37:44.627495+07:00"
+    },
+    {
+      "id": "6b7a5f5e8b5621b2741e15964c1b5077",
+      "title": "Toyota Việt Nam giảm giá 4 dòng xe hybrid 37-200 triệu đồng",
+      "link": "https://vnexpress.net/toyota-viet-nam-giam-gia-4-dong-xe-hybrid-37-200-trieu-dong-5007635.html",
+      "summary": "Hãng Nhật điều chỉnh giá bán lẻ phiên bản hybrid của 4 mẫu, gồm Yaris Cross, Corolla Cross, Camry, Alphard, từ 20/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:11:10+07:00",
+      "fetched": "2026-01-20T11:37:41.305873+07:00"
+    },
+    {
+      "id": "3c1ee9bb0d52aff83b1364a25be79db9",
+      "title": "HLV Kim truyền lửa cực đỉnh khi đấu U.23 Trung Quốc: 'Phải để châu Á biết bóng đá Việt Nam thế nào'",
+      "link": "https://thanhnien.vn/hlv-kim-truyen-lua-cuc-dinh-khi-dau-u23-trung-quoc-phai-de-chau-a-biet-bong-da-viet-nam-the-nao-185260120110549793.htm",
+      "summary": "Trong buổi tập chiều 19.1, HLV Kim Sang-sik đã khích lệ tinh thần U.23 Việt Nam và khẳng định quyết tâm phải để cả châu Á biết thực lực của bóng đá Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:11:00+07:00",
+      "fetched": "2026-01-20T11:37:44.627653+07:00"
+    },
+    {
+      "id": "2c9ace898c7275d0b24046207037b207",
+      "title": "Tàu cao tốc Tây Ban Nha đâm nhau có thể vì lỗi khớp nối ray",
+      "link": "https://vnexpress.net/tau-cao-toc-tay-ban-nha-dam-nhau-co-the-vi-loi-khop-noi-ray-5007602.html",
+      "summary": "Các điều tra viên phát hiện đường ray tại khớp nối bị mất một đoạn, có thể là nguyên nhân khiến đoàn tàu cao tốc trật bánh, gây ra thảm kịch khiến 40 người chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:09:40+07:00",
+      "fetched": "2026-01-20T11:37:41.306066+07:00"
+    },
+    {
+      "id": "2c9ace898c7275d0b24046207037b207",
+      "title": "Tàu cao tốc Tây Ban Nha đâm nhau có thể vì lỗi khớp nối ray",
+      "link": "https://vnexpress.net/tau-cao-toc-tay-ban-nha-dam-nhau-co-the-vi-loi-khop-noi-ray-5007602.html",
+      "summary": "Các điều tra viên phát hiện đường ray tại khớp nối bị mất một đoạn, có thể là nguyên nhân khiến đoàn tàu cao tốc trật bánh, gây ra thảm kịch khiến 40 người chết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-20T04:09:40+07:00",
+      "fetched": "2026-01-20T11:37:47.429750+07:00"
+    },
+    {
+      "id": "f0bfc39eaae55bb907cb6e93d721db41",
+      "title": "Tăng trưởng 8,5 lần, thương mại rau quả Việt - Mỹ lần đầu vượt 1 tỉ USD",
+      "link": "https://thanhnien.vn/tang-truong-85-lan-thuong-mai-rau-qua-viet-my-lan-dau-vuot-1-ti-usd-185260120104947496.htm",
+      "summary": "Kim ngạch thương mại rau quả giữa Việt Nam và Mỹ trong năm 2025 đạt gần 1,5 tỉ USD. Đáng chú ý, xét trong chu kỳ 10 năm qua, thương mại rau quả giữa 2 nước tăng đến 8,5 lần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:08:00+07:00",
+      "fetched": "2026-01-20T11:37:44.627817+07:00"
+    },
+    {
+      "id": "06680e9ec1aa6b958ffe30838d93ba42",
+      "title": "Việt Nam – Trung Quốc: Cuộc chiến giữa hai hiện tượng ở U23 châu Á",
+      "link": "https://vnexpress.net/viet-nam-trung-quoc-cuoc-chien-giua-hai-hien-tuong-o-u23-chau-a-5007552.html",
+      "summary": "Sau khi cùng tạo nên những bất ngờ lớn, hôm nay Việt Nam và Trung Quốc sẽ quyết chiến cho tấm vé vào chung kết giải U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:03:47+07:00",
+      "fetched": "2026-01-20T11:37:41.306228+07:00"
+    },
+    {
+      "id": "701a02f93dbc4f311f12feda8c1c2dee",
+      "title": "112 trường xét điểm thi đánh giá năng lực của Đại học Quốc gia TP HCM",
+      "link": "https://vnexpress.net/danh-sach-cac-truong-xet-diem-thi-danh-gia-nang-luc-dai-hoc-quoc-gia-tp-hcm-nam-2026-5007546.html",
+      "summary": "112 trường đại học, cao đẳng dùng điểm thi đánh giá năng lực (V-ACT) của Đại học Quốc gia TP HCM để xét tuyển đầu vào 2026, tăng một so với năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:02:41+07:00",
+      "fetched": "2026-01-20T11:37:41.306384+07:00"
+    },
+    {
+      "id": "4f5abc7ea4276f497f2a2ddc16043927",
+      "title": "Cuộc đua Sao Hỏa của Mỹ có thể bị hủy vì thiếu ngân sách",
+      "link": "https://vnexpress.net/cuoc-dua-sao-hoa-cua-my-co-the-bi-huy-vi-thieu-ngan-sach-5007535.html",
+      "summary": "Kế hoạch thu thập mẫu vật Sao Hỏa của NASA nhiều khả năng bị hủy do thiếu ngân sách, khiến Trung Quốc không còn đối thủ cạnh tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:00:00+07:00",
+      "fetched": "2026-01-20T11:37:41.306541+07:00"
+    },
+    {
+      "id": "b4625fa9c9b2928dbf4b5c6d8bc9da3d",
+      "title": "Vợ chồng tôi hạnh phúc vì không so đo thu nhập",
+      "link": "https://vnexpress.net/toi-la-truong-phong-kinh-doanh-luong-50-trieu-nhung-co-nguyen-tac-tuyet-doi-khong-di-nhau-tiep-khach-5006653.html",
+      "summary": "Trong gia đình nhỏ của tôi, chưa bao giờ có khái niệm \"việc của ai\", ai cũng có thể làm tốt mọi việc khi cần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:00:00+07:00",
+      "fetched": "2026-01-20T11:37:41.306693+07:00"
+    },
+    {
+      "id": "a0c409c5b6fd951560d9a0511094b125",
+      "title": "Xét nghiệm máu có giúp chẩn đoán viêm gan D?",
+      "link": "https://vnexpress.net/xet-nghiem-mau-co-giup-chan-doan-viem-gan-d-5007667.html",
+      "summary": "Tôi bị viêm gan B, làm thế nào để biết mình có nhiễm thêm viêm gan D? Xét nghiệm máu có chẩn đoán viêm gan D được không? (Ngọc Tiền, 33 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:00:00+07:00",
+      "fetched": "2026-01-20T11:37:41.306858+07:00"
+    },
+    {
+      "id": "c29130c0d07a94045eabf634a9f3b26f",
+      "title": "'Ông lớn' thực phẩm chức năng Nhật Bản mở rộng thị phần tại Việt Nam",
+      "link": "https://vnexpress.net/ong-lon-thuc-pham-chuc-nang-nhat-ban-mo-rong-thi-phan-tai-viet-nam-5007654.html",
+      "summary": "Tập đoàn AFC-HD AMS Life Science mở rộng hoạt động tại Việt Nam, mang đến năng lực gia công thực phẩm chức năng chuẩn Nhật, đáp ứng nhu cầu nâng cao chất lượng của các thương hiệu nội địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:00:00+07:00",
+      "fetched": "2026-01-20T11:37:41.307017+07:00"
+    },
+    {
+      "id": "c782ac8b1f91b57dbe7d17d7a3168052",
+      "title": "Vô sinh do cường giáp",
+      "link": "https://vnexpress.net/vo-sinh-do-cuong-giap-5007634.html",
+      "summary": "Chị Nhung, 29 tuổi, mắc bệnh cường giáp gây vô sinh thứ phát 4 năm, điều trị nội tiết kết hợp thụ tinh ống nghiệm để sinh con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:00:00+07:00",
+      "fetched": "2026-01-20T11:37:41.307180+07:00"
+    },
+    {
+      "id": "79cc984e0c5bc196127c94ac8c8cb18c",
+      "title": "Có nên kết hợp điều trị tăng sắc tố và trẻ hóa da không?",
+      "link": "https://vnexpress.net/co-nen-ket-hop-dieu-tri-tang-sac-to-va-tre-hoa-da-khong-5007627.html",
+      "summary": "Tôi có mảng nám sau sinh và da có dấu hiệu chùng nhẹ, nhất là ở vùng quầng mắt. Có thể điều trị nám kết hợp trẻ hóa da không hay nên tách riêng từng giai đoạn? (Thu Hương, Vĩnh Phúc)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:00:00+07:00",
+      "fetched": "2026-01-20T11:37:41.307331+07:00"
+    },
+    {
+      "id": "f46bee58f35ea423387043fde1a88394",
+      "title": "Xem nhanh 12h: Khai mạc Đại hội đại biểu toàn quốc lần thứ XIV của Đảng",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-khai-mac-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-185260120111119231.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Xem nhanh 12h' ngày 20.1.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:00:00+07:00",
+      "fetched": "2026-01-20T11:37:44.627986+07:00"
+    },
+    {
+      "id": "f4cf783dcb136132b062923f2a89e4be",
+      "title": "Bảo hiểm VietinBank khánh thành điểm trường mới cho học sinh tại Chơ Long, Gia Lai",
+      "link": "https://thanhnien.vn/bao-hiem-vietinbank-khanh-thanh-diem-truong-moi-cho-hoc-sinh-tai-cho-long-gia-lai-185260120092933538.htm",
+      "summary": "Sáng 17.1, Bảo hiểm VietinBank (VBI) và UBND xã Chơ Long (tỉnh Gia Lai) tổ chức lễ khánh thành phòng học tại điểm trường làng Dyrao thuộc Trường tiểu học và THCS Lê Văn Tám.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T04:00:00+07:00",
+      "fetched": "2026-01-20T11:37:44.628135+07:00"
+    },
+    {
+      "id": "4f5abc7ea4276f497f2a2ddc16043927",
+      "title": "Cuộc đua Sao Hỏa của Mỹ có thể bị hủy vì thiếu ngân sách",
+      "link": "https://vnexpress.net/cuoc-dua-sao-hoa-cua-my-co-the-bi-huy-vi-thieu-ngan-sach-5007535.html",
+      "summary": "Kế hoạch thu thập mẫu vật Sao Hỏa của NASA nhiều khả năng bị hủy do thiếu ngân sách, khiến Trung Quốc không còn đối thủ cạnh tranh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-20T04:00:00+07:00",
+      "fetched": "2026-01-20T11:37:53.148118+07:00"
+    },
+    {
+      "id": "34bdcba9b63c979529c6c00eb775b803",
+      "title": "Quà sinh nhật đặc biệt của HLV Bồ Đào Nha tại TNSV THACO cup 2026",
+      "link": "https://thanhnien.vn/qua-sinh-nhat-dac-biet-cua-hlv-bo-dao-nha-tai-tnsv-thaco-cup-2026-185260120104123271.htm",
+      "summary": "Ngày sinh nhật của ông João Pedro Felipe Salgueiro, HLV Trường ĐH Đồng Tháp, trở nên đặc biệt khi cùng ngày đội bóng xứ sen hồng giành quyền vào chung kết vòng loại Tây Nam bộ TNSV THACO cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T03:59:00+07:00",
+      "fetched": "2026-01-20T11:37:44.628281+07:00"
+    },
+    {
+      "id": "dc4f73779fe73b6c9e106513393a2d1d",
+      "title": "Thưởng Tết Bính Ngọ: Công ty PouYuen chi tiền 'khủng' cỡ nào?",
+      "link": "https://thanhnien.vn/thuong-tet-binh-ngo-cong-ty-pouyuen-chi-tien-khung-co-nao-185260119141856703.htm",
+      "summary": "Tết Nguyên đán Bính Ngọ 2026, Công ty PouYuen thưởng tết cho mỗi công nhân cao nhất là 2,2 tháng lương thực lãnh cùng nhiều hỗ trợ thiết thực, con số cụ thể bao nhiêu?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T03:59:00+07:00",
+      "fetched": "2026-01-20T11:37:44.628437+07:00"
+    },
+    {
+      "id": "d8e1f1e9c2b05d6cda58a89ed7891072",
+      "title": "Khoảng 10.000 sinh viên sẽ tham gia sự kiện kết nối việc làm với doanh nghiệp",
+      "link": "https://thanhnien.vn/khoang-10000-sinh-vien-se-tham-gia-su-kien-ket-noi-viec-lam-voi-doanh-nghiep-185260120100705194.htm",
+      "summary": "Ngày hội việc làm sẽ được tổ chức vào đầu tháng 2 tới tại Trường ĐH Thủy lợi không chỉ là sự kiện tuyển dụng mà còn là diễn đàn kết nối doanh nghiệp và trường đại học với sinh viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T03:54:00+07:00",
+      "fetched": "2026-01-20T11:37:44.628585+07:00"
+    },
+    {
+      "id": "d6380e9421865bae6f9ce2530389d527",
+      "title": "Bình luận viên bị 'ném đá' vì trù ẻo Djokovic chấn thương",
+      "link": "https://vnexpress.net/binh-luan-vien-bi-nem-da-vi-tru-eo-djokovic-chan-thuong-5007674.html",
+      "summary": "Bình luận viên Australia Mở rộng 2026 Wally Masur vạ miệng khi ví von Novak Djokovic mạnh đến mức chỉ có trường hợp bị rách cơ thì mới thua Pedro Martinez.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T03:53:53+07:00",
+      "fetched": "2026-01-20T11:37:41.307493+07:00"
+    },
+    {
+      "id": "b18cc121f2872d4654b1e30875e82560",
+      "title": "Người đàn ông 53 tuổi ngừng tim khi chơi tennis",
+      "link": "https://vnexpress.net/nguoi-dan-ong-53-tuoi-ngung-tim-khi-choi-tennis-5007679.html",
+      "summary": "Nam bệnh nhân đột ngột gục ngã, ngừng tuần hoàn trên sân tập do tắc hẹp động mạch vành, được bác sĩ Bệnh viện Đa khoa Đức Giang cứu sống nhờ kỹ thuật ECMO và đặt 3 stent cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T03:52:11+07:00",
+      "fetched": "2026-01-20T11:37:41.307654+07:00"
+    },
+    {
+      "id": "2170a1a07260f80be31ffc23b2dcbcec",
+      "title": "Vợ cũ khen Lý Á Bằng",
+      "link": "https://vnexpress.net/vo-cu-khen-ly-a-bang-5007647.html",
+      "summary": "Người mẫu Hải Hà Kim Hỷ, vợ cũ tài tử Trung Quốc Lý Á Bằng, nói anh là \"người cha vĩ đại\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T03:50:06+07:00",
+      "fetched": "2026-01-20T11:37:41.307814+07:00"
+    },
+    {
+      "id": "eaa4c3bf11f00e07080805fc486d761c",
+      "title": "Camera AI báo 29.000 ca vi phạm giao thông trong một tháng tại thủ đô Hy Lạp",
+      "link": "https://vnexpress.net/camera-ai-bao-29-000-ca-vi-pham-giao-thong-trong-mot-thang-tai-thu-do-hy-lap-5007431.html",
+      "summary": "Trong giai đoạn thử nghiệm từ giữa tháng 12/2025 đến giữa tháng 1/2026, 8 camera AI ở Athens tự động phát hiện 28.973 vi phạm giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T03:43:25+07:00",
+      "fetched": "2026-01-20T11:37:41.307990+07:00"
+    },
+    {
       "id": "6dcd3b6e69958b02889ba5166ba74a23",
       "title": "Đường hoa Nguyễn Huệ Tết Bính Ngọ mở cửa khi nào?: Hé lộ những linh vật ngựa đặc biệt",
       "link": "https://thanhnien.vn/duong-hoa-nguyen-hue-tet-binh-ngo-mo-cua-khi-nao-he-lo-nhung-linh-vat-ngua-dac-biet-185260120090548514.htm",
@@ -501,6 +971,16 @@ window.newsData_2026_01_20 = {
       "category": "Thế giới",
       "published": "2026-01-20T02:21:03+07:00",
       "fetched": "2026-01-20T10:26:32.041849+07:00"
+    },
+    {
+      "id": "b25ddbad637381505ef0e5e21cb3b970",
+      "title": "Nga nói ông Trump sẽ đi vào lịch sử nếu kiểm soát Greenland",
+      "link": "https://vnexpress.net/nga-noi-ong-trump-se-di-vao-lich-su-neu-kiem-soat-greenland-5007570.html",
+      "summary": "Người phát ngôn Điện Kremlin nói rằng Tổng thống Trump sẽ đi vào lịch sử thế giới nếu kiểm soát đảo Greenland của Đan Mạch.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-20T02:21:03+07:00",
+      "fetched": "2026-01-20T11:37:47.430486+07:00"
     },
     {
       "id": "1c3c429c0cf34ae804a0d9e9db7b3ade",
@@ -1601,6 +2081,16 @@ window.newsData_2026_01_20 = {
       "category": "Thế giới",
       "published": "2026-01-19T15:16:49+07:00",
       "fetched": "2026-01-20T01:19:33.301348+07:00"
+    },
+    {
+      "id": "9ae01f9bc697e66b65cfb075a4dd8c2e",
+      "title": "Tuyết ngập nhà chung cư ở Nga",
+      "link": "https://vnexpress.net/tuyet-ngap-nha-chung-cu-o-nga-5007525.html",
+      "summary": "Bão tuyết kỷ lục phủ lớp tuyết dày chưa từng thấy ở bán đảo Kamchatka, vùng Viễn Đông Nga, phủ kín lối vào các tòa nhà chung cư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T15:16:49+07:00",
+      "fetched": "2026-01-20T11:37:47.431661+07:00"
     },
     {
       "id": "da7bd914d5457c795406eb076dffaccd",
