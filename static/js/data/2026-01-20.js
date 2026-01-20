@@ -1,7 +1,157 @@
 window.newsData_2026_01_20 = {
   "date": "2026-01-20",
-  "lastUpdated": "2026-01-20T21:22:46.801523+07:00",
+  "lastUpdated": "2026-01-20T23:23:35.298904+07:00",
   "articles": [
+    {
+      "id": "8d81b8d11d66c57812bab0fd61d28083",
+      "title": "Kiểm tra công tác bảo vệ các mục tiêu phục vụ Đại hội XIV của Đảng",
+      "link": "https://tuoitre.vn/kiem-tra-cong-tac-bao-ve-cac-muc-tieu-phuc-vu-dai-hoi-xiv-cua-dang-20260120192634261.htm",
+      "summary": "Thiếu tướng Lê Văn Sao - Phó tư lệnh Cảnh sát cơ động - đã trực tiếp kiểm tra công tác bảo vệ an ninh, an toàn tại các mục tiêu, khu lưu trú của đại biểu công an tham gia Đại hội XIV của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.869114+07:00",
+      "fetched": "2026-01-20T23:23:26.869228+07:00"
+    },
+    {
+      "id": "903289a5434bea937a0f251bb3e22489",
+      "title": "Thị trường xe điện Hàn Quốc phục hồi, lượng đăng ký mới tăng 50%",
+      "link": "https://tuoitre.vn/thi-truong-xe-dien-han-quoc-phuc-hoi-luong-dang-ky-moi-tang-50-20260120152647567.htm",
+      "summary": "Thị trường xe điện tại Hàn Quốc đã ghi nhận sự phục hồi rõ rệt trong năm 2025 khi số lượng xe đăng ký mới tăng hơn 50% so với năm trước, đảo ngược đà suy giảm kéo dài 2 năm liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.868968+07:00",
+      "fetched": "2026-01-20T23:23:26.869101+07:00"
+    },
+    {
+      "id": "2785efa02b7a5263a9e8a53fbf1a8319",
+      "title": "BlackPink làm điều mà không nghệ sĩ K-pop nào làm được",
+      "link": "https://tuoitre.vn/blackpink-lam-dieu-ma-khong-nghe-si-k-pop-nao-lam-duoc-20260120193551866.htm",
+      "summary": "Billboard công bố danh sách Ngôi sao nhạc pop vĩ đại nhất 2025, trong đó BlackPink trở thành nghệ sĩ K-pop duy nhất được vinh danh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.868844+07:00",
+      "fetched": "2026-01-20T23:23:26.868957+07:00"
+    },
+    {
+      "id": "c5ad957c1bd595b5eda358b806440f9e",
+      "title": "Cực quang 'lạc' sang châu Âu, bầu trời rực sáng giữa mùa đông",
+      "link": "https://tuoitre.vn/cuc-quang-lac-sang-chau-au-bau-troi-ruc-sang-giua-mua-dong-20260120194726767.htm",
+      "summary": "Những dải cực quang xanh, hồng, tím xuất hiện trên bầu trời nước Anh, Ý khiến nhiều người ngỡ ngàng. Vì sao cực quang vốn gắn với Bắc Cực lại 'lạc' tới châu Âu?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.868719+07:00",
+      "fetched": "2026-01-20T23:23:26.868833+07:00"
+    },
+    {
+      "id": "b5769a2b792033e5ab1cd434b740cdfb",
+      "title": "'Người chuối' cho khỉ hoang dã ăn: Coi chừng lòng tốt sai chỗ gây hại lâu dài",
+      "link": "https://tuoitre.vn/nguoi-chuoi-cho-khi-hoang-da-an-coi-chung-long-tot-sai-cho-gay-hai-lau-dai-2026012017004002.htm",
+      "summary": "Sự việc 'người chuối' cho khỉ hoang dã ăn trên bán đảo Sơn Trà, Đà Nẵng được chuyên gia động vật hoang dã cảnh báo có thể gây ra những hậu quả nghiêm trọng và lâu dài cho bầy khỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.868592+07:00",
+      "fetched": "2026-01-20T23:23:26.868707+07:00"
+    },
+    {
+      "id": "9ed364ab23078ce02775ee6ca39ef16b",
+      "title": "Quê hương Đình Bắc, Hiểu Minh, Xuân Bắc 'tiếp lửa' U23 Việt Nam đấu U23 Trung Quốc",
+      "link": "https://tuoitre.vn/que-huong-dinh-bac-hieu-minh-xuan-bac-tiep-lua-u23-viet-nam-dau-u23-trung-quoc-20260120182003813.htm",
+      "summary": "Mời bạn đọc theo dõi cảnh người thân, làng xóm của tiền đạo Nguyễn Đình Bắc và trung vệ Nguyễn Hiểu Minh chuẩn bị cổ vũ cho đội tuyển U23 Việt Nam đối đầu U23 Trung Quốc. Phóng viên Tuổi Trẻ Online sẽ tường thuật trực tiếp từ quê nhà 2 cầu thủ này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.868458+07:00",
+      "fetched": "2026-01-20T23:23:26.868580+07:00"
+    },
+    {
+      "id": "c55db13bc7960274adfe519b8aaf29d5",
+      "title": "Ông Trump mời cả ông Putin và ông Zelensky vào Hội đồng Hòa bình Gaza",
+      "link": "https://tuoitre.vn/ong-trump-moi-ca-ong-putin-va-ong-zelensky-vao-hoi-dong-hoa-binh-gaza-20260120200619781.htm",
+      "summary": "Tổng thống Ukraine Zelensky tiết lộ đã được ông Trump mời tham gia Hội đồng Hòa bình Gaza, ý tưởng mà trước đó Tổng thống Nga Putin cũng được Mỹ mời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.868193+07:00",
+      "fetched": "2026-01-20T23:23:26.868445+07:00"
+    },
+    {
+      "id": "afe4a6e7fd802e516026da232241f6c3",
+      "title": "Cảnh sát giao thông bị xe máy kẹp ba tông gãy đùi khi ra tín hiệu dừng xe",
+      "link": "https://tuoitre.vn/canh-sat-giao-thong-bi-xe-may-kep-ba-tong-gay-dui-khi-ra-tin-hieu-dung-xe-20260120200543606.htm",
+      "summary": "Một thượng úy cảnh sát giao thông tại Quảng Trị bị một xe máy chạy tốc độ cao lao vào khi đang làm nhiệm vụ tuần tra kiểm soát trên đường Hồ Chí Minh nhánh đông qua Quảng Trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.868060+07:00",
+      "fetched": "2026-01-20T23:23:26.868181+07:00"
+    },
+    {
+      "id": "52b6f09a6678b846100536cedcd24b41",
+      "title": "Ra mắt ban nhạc UPRIZE sau Tân binh toàn năng",
+      "link": "https://tuoitre.vn/ra-mat-ban-nhac-uprize-sau-tan-binh-toan-nang-20260120200535498.htm",
+      "summary": "Trả lời câu hỏi của phóng viên nước ngoài về việc đánh giá tiềm năng âm nhạc Việt Nam, ông Kenny Ong, đại diện Sony Music, cho rằng \"hồn Việt' sẽ đưa âm nhạc Việt vươn ra thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.867915+07:00",
+      "fetched": "2026-01-20T23:23:26.868047+07:00"
+    },
+    {
+      "id": "512ad2262e072b97e39f08baa3ad417c",
+      "title": "Trúng Vietlott hơn 257 tỉ đồng, người chơi nhận về hơn 231 tỉ",
+      "link": "https://tuoitre.vn/trung-vietlott-hon-257-ti-dong-nguoi-choi-nhan-ve-hon-231-ti-20260120204228531.htm",
+      "summary": "Tối 20-1, Vietlott xác nhận có một khách hàng đã trúng giải Jackpot 1 sản phẩm Mega 6/55 với số tiền thưởng lên tới hơn 257 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.867787+07:00",
+      "fetched": "2026-01-20T23:23:26.867903+07:00"
+    },
+    {
+      "id": "7321a0890133b681fe638bb4173d1340",
+      "title": "Gia đình Xuân Bắc dọn cỗ chờ 'đại chiến' U23 Việt Nam - U23 Trung Quốc",
+      "link": "https://tuoitre.vn/gia-dinh-xuan-bac-don-co-cho-dai-chien-u23-viet-nam-u23-trung-quoc-20260120185705878.htm",
+      "summary": "Trước trận đấu giữa U23 Việt Nam - U23 Trung Quốc, căn nhà nhỏ của gia đình tiền vệ Nguyễn Xuân Bắc ở Phú Thọ rộn ràng hơn thường ngày. Bố của nam cầu thủ vừa dọn mâm cỗ, vừa gửi gắm lời hứa mộc mạc: nếu vô địch, cả làng chung vui bằng \"trăm mâm cỗ\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.867657+07:00",
+      "fetched": "2026-01-20T23:23:26.867775+07:00"
+    },
+    {
+      "id": "7f8307643d8c92e841548742c6d52ac3",
+      "title": "Công ty dịch vụ hàng hóa lãi lớn trước áp lực sân bay Long Thành",
+      "link": "https://tuoitre.vn/cong-ty-dich-vu-hang-hoa-lai-lon-truoc-ap-luc-san-bay-long-thanh-20260120165347743.htm",
+      "summary": "Dịch vụ Hàng hóa Sài Gòn khép lại năm 2025 với doanh thu và lợi nhuận tăng trưởng, trong bối cảnh môi trường hoạt động dự kiến có nhiều thay đổi từ năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.867524+07:00",
+      "fetched": "2026-01-20T23:23:26.867645+07:00"
+    },
+    {
+      "id": "fb298a2087bfe2e7fb0f9e05f1174540",
+      "title": "Ông Kim tiếp tục bố trí 'đội hình lạ' cho U23 Việt Nam đấu U23 Trung Quốc",
+      "link": "https://tuoitre.vn/ong-kim-tiep-tuc-bo-tri-doi-hinh-la-cho-u23-viet-nam-dau-u23-trung-quoc-20260120193802099.htm",
+      "summary": "HLV Kim Sang Sik đã bố trí đội hình lạ cho đội tuyển U23 Việt Nam trong trận gặp U23 Trung Quốc ở bán kết Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.867379+07:00",
+      "fetched": "2026-01-20T23:23:26.867512+07:00"
+    },
+    {
+      "id": "a4241591613f32a76091235ba076a2cd",
+      "title": "Nghệ sĩ Xuân Hinh: Đừng gọi tôi là vua hài hay đại gia",
+      "link": "https://tuoitre.vn/nghe-si-xuan-hinh-dung-goi-toi-la-vua-hai-hay-dai-gia-20260120210541942.htm",
+      "summary": "Nghệ sĩ Xuân Hinh xin được đính chính: ‘Đừng gọi tôi là ‘vua hài đất Bắc’, tôi cũng không phải đại gia đâu’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.867234+07:00",
+      "fetched": "2026-01-20T23:23:26.867366+07:00"
+    },
+    {
+      "id": "7ac0f01805496cd8f232646044c863ef",
+      "title": "Những nghệ sĩ nào được dự báo sẽ bứt phá trong năm 2026?",
+      "link": "https://tuoitre.vn/nhung-nghe-si-nao-duoc-du-bao-se-but-pha-trong-nam-2026-2026012020583335.htm",
+      "summary": "Shazam vừa công bố danh sách Fast Forward 2026, chọn ra 65 nghệ sĩ quốc tế được dự đoán có khả năng bùng nổ trong năm 2026, trong đó có 7 cái tên đáng chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T23:23:26.866976+07:00",
+      "fetched": "2026-01-20T23:23:26.867218+07:00"
+    },
     {
       "id": "47440bd184cd660475e5b6de7d471772",
       "title": "Đại hội XIV của Đảng: Kết tinh trí tuệ, ý chí tự lực, tự cường của dân tộc",
@@ -453,6 +603,86 @@ window.newsData_2026_01_20 = {
       "fetched": "2026-01-20T17:18:21.495683+07:00"
     },
     {
+      "id": "48ad378f19ba83380f6cbd19d650d90a",
+      "title": "Trung Quốc lo ngại 'thế giới trở lại với luật rừng'",
+      "link": "https://vnexpress.net/trung-quoc-lo-ngai-the-gioi-tro-lai-voi-luat-rung-5007990.html",
+      "summary": "Phó thủ tướng Trung Quốc nêu lo ngại các hành động đơn phương về thương mại từ \"một số nước\" đang khiến thế giới bất ổn hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T15:39:49+07:00",
+      "fetched": "2026-01-20T23:23:13.790132+07:00"
+    },
+    {
+      "id": "48ad378f19ba83380f6cbd19d650d90a",
+      "title": "Trung Quốc lo ngại 'thế giới trở lại với luật rừng'",
+      "link": "https://vnexpress.net/trung-quoc-lo-ngai-the-gioi-tro-lai-voi-luat-rung-5007990.html",
+      "summary": "Phó thủ tướng Trung Quốc nêu lo ngại các hành động đơn phương về thương mại từ \"một số nước\" đang khiến thế giới bất ổn hơn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-20T15:39:49+07:00",
+      "fetched": "2026-01-20T23:23:28.229049+07:00"
+    },
+    {
+      "id": "fa13bb646107a4e16121ac8ebf3a1f62",
+      "title": "Trường ĐH Đồng Tháp nhận thưởng bất ngờ khi vào chung kết vòng loại Tây Nam bộ",
+      "link": "https://thanhnien.vn/truong-dh-dong-thap-nhan-thuong-bat-ngo-khi-vao-chung-ket-vong-loai-tay-nam-bo-185260120211213525.htm",
+      "summary": "Sau khi giành vé vào chơi trận chung kết, đội Trường ĐH Đồng Tháp đã nhận nhiều phần thưởng bất ngờ cho màn trình diễn ấn tượng tại vòng loại Tây Nam bộ giải TNSV THACO cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T15:35:00+07:00",
+      "fetched": "2026-01-20T23:23:19.635482+07:00"
+    },
+    {
+      "id": "af6846615490be209d8e72d0af343ef8",
+      "title": "Xem sinh viên đá bóng, nữ cựu tuyển thủ nhớ về những ngày ăn tập bóng đá",
+      "link": "https://thanhnien.vn/xem-sinh-vien-da-bong-nu-cuu-tuyen-thu-nho-ve-nhung-ngay-an-tap-bong-da-185260120212127689.htm",
+      "summary": "Lặng lẽ trên khán đài, chăm chú theo dõi từng pha bóng của các bạn sinh viên, đó là chị Trần Thị Phương Loan - cựu tiền vệ trung tâm của Đội tuyển bóng đá nữ Việt Nam thế hệ đầu tiên năm 1997. Chị đã nhớ về những kỹ niệm thời còn ăn tập bóng đá với HLV Mai Đức Chung",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T15:34:00+07:00",
+      "fetched": "2026-01-20T23:23:19.635967+07:00"
+    },
+    {
+      "id": "f0df50ad7bf08ac22d244838d9c64292",
+      "title": "Nữ sinh SGU sáng đi cổ vũ trường, tối cổ vũ U23 Việt Nam",
+      "link": "https://thanhnien.vn/nu-sinh-sgu-sang-di-co-vu-truong-toi-co-vu-u23-viet-nam-185260120211909468.htm",
+      "summary": "Sáng 20.1, Trường ĐH Sài Gòn đã giành 3 điểm quý giá để nuôi hy vọng đi tiếp. Trên sân là một chiến thắng của các cầu thủ, còn trên khán đài, SGU cũng gây ấn tượng với lượng cổ động viên đông đảo và nhiệt huyết. Có nhiều lý do để họ đến sân xem và cổ vũ cho các cầu thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T15:34:00+07:00",
+      "fetched": "2026-01-20T23:23:19.636188+07:00"
+    },
+    {
+      "id": "eae46583f8d7bb78e8765b3d5823bc97",
+      "title": "Quà sinh nhật đặc biệt của HLV Bồ Đào Nha tại TNSV THACO cup 2026",
+      "link": "https://thanhnien.vn/qua-sinh-nhat-dac-biet-cua-hlv-bo-dao-nha-tai-tnsv-thaco-cup-2026-18526012021161645.htm",
+      "summary": "Ngày sinh nhật của ông João Pedro Felipe Salgueiro, HLV Trường ĐH Đồng Tháp, trở nên đặc biệt khi cùng ngày đội bóng xứ sen hồng giành quyền vào chung kết vòng loại Tây Nam bộ TNSV THACO cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T15:34:00+07:00",
+      "fetched": "2026-01-20T23:23:19.636358+07:00"
+    },
+    {
+      "id": "7eae2e9d3bf93dc2e570dea397f4efe0",
+      "title": "‘Bóng hồng’ vượt ngàn cây số chụp ảnh cho đội bóng sinh viên quê nhà xứ Huế",
+      "link": "https://thanhnien.vn/bong-hong-vuot-ngan-cay-so-chup-anh-cho-doi-bong-sinh-vien-que-nha-xu-hue-185260120212656361.htm",
+      "summary": "Vì tình yêu với bóng đá và nhiếp ảnh, Nguyễn Thu Thủy (quê TP.Huế, nữ sinh viên đang theo học tại TP.HCM) đã không ngại đường xa, di chuyển ra Đà Nẵng để ghi lại những thước ảnh ấn tượng cho đội bóng quê nhà ĐH Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T15:33:00+07:00",
+      "fetched": "2026-01-20T23:23:19.636520+07:00"
+    },
+    {
+      "id": "5aa531119c66244d609e748377fa493b",
+      "title": "Anh hùng Phạm Tuân trao kỷ lục cho học sinh 7 tuổi xuất bản truyện tranh",
+      "link": "https://thanhnien.vn/anh-hung-pham-tuan-trao-ky-luc-cho-hoc-sinh-7-tuoi-xuat-ban-truyen-tranh-185260120214935773.htm",
+      "summary": "Một học sinh 7 tuổi, đang học lớp 2 tại TP.HCM, đã xác lập Kỷ lục học đường là học sinh nhỏ tuổi nhất sáng tác và xuất bản truyện tranh màu do Tổ chức Kỷ lục Việt Nam (VietKings) công nhận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T15:27:00+07:00",
+      "fetched": "2026-01-20T23:23:19.636686+07:00"
+    },
+    {
       "id": "0db60fa66891c0ce3f5a39c98ad4e041",
       "title": "Tàu Thần Châu 20 trở về Trái đất an toàn sau sự cố hy hữu trên quỹ đạo",
       "link": "https://tuoitre.vn/tau-than-chau-20-tro-ve-trai-dat-an-toan-sau-su-co-hy-huu-tren-quy-dao-2026012012173598.htm",
@@ -603,6 +833,156 @@ window.newsData_2026_01_20 = {
       "fetched": "2026-01-20T15:20:10.404032+07:00"
     },
     {
+      "id": "d425cc1508b804d289981d0553fe4184",
+      "title": "Xe máy chở 3 lao vào chiến sĩ cảnh sát giao thông đang làm nhiệm vụ",
+      "link": "https://thanhnien.vn/xe-may-cho-3-lao-vao-chien-si-canh-sat-giao-thong-dang-lam-nhiem-vu-185260120202618731.htm",
+      "summary": "Trong lúc làm nhiệm vụ, thượng úy cảnh sát giao thông Phan Lâm Phương (ở Quảng Trị) bị một xe máy chở 3 người lao vào trực diện khiến thượng úy Phương bị gãy xương đùi và xương chậu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T15:18:00+07:00",
+      "fetched": "2026-01-20T23:23:19.636847+07:00"
+    },
+    {
+      "id": "555238668650a3121f8e2744207f79d5",
+      "title": "Koizumi tỏa sáng, U.23 Nhật Bản vượt Hàn Quốc để vào chung kết U.23 châu Á",
+      "link": "https://thanhnien.vn/koizumi-toa-sang-u23-nhat-ban-vuot-han-quoc-de-vao-chung-ket-u23-chau-a-185260120211440871.htm",
+      "summary": "Thi đấu chặt chẽ, tận dụng thời điểm quyết định và phòng ngự đầy kỷ luật, đội tuyển U.23 Nhật Bản vượt qua đội tuyển U.23 Hàn Quốc với chiến thắng tối thiểu để giành vé vào chung kết U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T15:17:00+07:00",
+      "fetched": "2026-01-20T23:23:19.637011+07:00"
+    },
+    {
+      "id": "d0f91dd01f2e5c3e1cc213ec068d0d8b",
+      "title": "Nước nào là quê hương của tiền giấy?",
+      "link": "https://vnexpress.net/nuoc-nao-la-que-huong-cua-tien-giay-5007913.html",
+      "summary": "Tiền giấy xuất hiện cách đây khoảng 1.400 năm, dần trở thành công cụ thanh toán chính quy thay thế tiền đồng, bạc, vàng ở nước này. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T15:14:31+07:00",
+      "fetched": "2026-01-20T23:23:13.790314+07:00"
+    },
+    {
+      "id": "388b95c99ffa6b008416a09aec0a390e",
+      "title": "Hội Nhà văn Việt Nam thu hồi giải Tác giả Trẻ 2025",
+      "link": "https://vnexpress.net/hoi-nha-van-viet-nam-thu-hoi-giai-tac-gia-tre-2025-5008000.html",
+      "summary": "Nhà thơ Lâu Văn Mua bị thu hồi giải thưởng sau khi tập ''Nhặt xác em chất chồng bảo tàng'' vi phạm quy chế vì đạo thơ nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T15:13:53+07:00",
+      "fetched": "2026-01-20T23:23:13.790490+07:00"
+    },
+    {
+      "id": "6b50f02c6dc49d8597eba7d5f872e479",
+      "title": "HLV Hàn Quốc đau đớn vì cầu thủ mất tinh thần dẫn đến bại trận, HLV Nhật Bản tuyên bố cứng",
+      "link": "https://thanhnien.vn/hlv-han-quoc-dau-don-vi-cau-thu-mat-tinh-than-dan-den-bai-tran-hlv-nhat-ban-tuyen-bo-cung-185260120220028343.htm",
+      "summary": "HLV Lee Min-sung đã thẳng thắn thừa nhận những sai lầm đã khiến U.23 Hàn Quốc đánh mất tinh thần và phải trả giá bằng việc thua ở bán kết. Trong khi đó, HLV Ōiwa Gō lại bày tỏ sự hài lòng với bản lĩnh của lứa cầu thủ trẻ U.23 Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T15:04:00+07:00",
+      "fetched": "2026-01-20T23:23:19.637222+07:00"
+    },
+    {
+      "id": "153c85a102f1257b8307788455ccd4bb",
+      "title": "Thu hồi nước rửa tay, kem rửa mặt chứa chất bảo quản không công bố",
+      "link": "https://vnexpress.net/thu-hoi-nuoc-rua-tay-kem-rua-mat-chua-chat-bao-quan-khong-cong-bo-5007987.html",
+      "summary": "Cục Quản lý Dược thu hồi lô nước rửa tay On1 Hương Fresh Sakura, Kleen hương trà xanh, kem rửa mặt Acnes do chứa natri benzoate không có trong thành phần công thức sản phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T15:02:59+07:00",
+      "fetched": "2026-01-20T23:23:13.790595+07:00"
+    },
+    {
+      "id": "b6a695c0a469142722d09d81bcc9a6b7",
+      "title": "Phố đi bộ Nguyễn Huệ đông nghịt người cổ vũ U23 Việt Nam",
+      "link": "https://vnexpress.net/pho-di-bo-nguyen-hue-dong-nghit-nguoi-co-vu-u23-viet-nam-5008002.html",
+      "summary": "Trước giờ bóng lăn tối 20/1, đông nghịt cổ động viên đã có mặt tại phố đi bộ Nguyễn Huệ để theo dõi trận bán kết U23 châu Á 2026 giữa Việt Nam và Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T14:58:39+07:00",
+      "fetched": "2026-01-20T23:23:13.790762+07:00"
+    },
+    {
+      "id": "efecadba7550f6aa6e020c396d012e71",
+      "title": "Bác sĩ Bệnh viện Nhi đồng 2 giải đáp câu hỏi thiết thực lứa tuổi học đường",
+      "link": "https://thanhnien.vn/bac-si-benh-vien-nhi-dong-2-giai-dap-cau-hoi-thiet-thuc-lua-tuoi-hoc-duong-185260120195121245.htm",
+      "summary": "Học sinh đặt nhiều câu hỏi hay, thiết thực cho bác sĩ của Bệnh viện Nhi đồng 2, TP.HCM và nhận được nhiều lời giải thích ngắn gọn. dễ hiểu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T14:40:00+07:00",
+      "fetched": "2026-01-20T23:23:19.637375+07:00"
+    },
+    {
+      "id": "a8d8358befc0f258103ead82b417af32",
+      "title": "U.23 Việt Nam 0-0 U.23 Trung Quốc: Xuyên thủng hàng thủ chưa để thua bàn nào",
+      "link": "https://thanhnien.vn/u23-viet-nam-0-0-u23-trung-quoc-xuyen-thung-hang-thu-chua-de-thua-ban-nao-185260120203730952.htm",
+      "summary": "Đội tuyển U.23 Việt Nam tự tin và đầy quyết tâm sẽ trở thành đội bóng đầu tiên xuyên thủng hàng phòng ngự của U.23 Trung Quốc, trong trận bán kết VCK U.23 châu Á 2026 diễn ra lúc 22 giờ 30 hôm nay (20.1, giờ Việt Nam) tại Ả Rập Xê Út.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T14:34:00+07:00",
+      "fetched": "2026-01-20T23:23:19.637536+07:00"
+    },
+    {
+      "id": "b34bf96f12b325509587b51bd44d2e86",
+      "title": "Nhan sắc á hậu được dân mạng 'đẩy thuyền' với cầu thủ Đình Bắc",
+      "link": "https://thanhnien.vn/nhan-sac-a-hau-duoc-dan-mang-day-thuyen-voi-cau-thu-dinh-bac-185260120202147908.htm",
+      "summary": "Á hậu Nguyễn Thị Cẩm Ly bất ngờ gây chú ý khi được 'đẩy thuyền' cùng cầu thủ Đình Bắc. Hiện tại, mối quan hệ của cả hai khiến dân mạng tò mò.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T14:30:00+07:00",
+      "fetched": "2026-01-20T23:23:19.637690+07:00"
+    },
+    {
+      "id": "53aee180cbfebefba7402476e8502a5f",
+      "title": "Vô cớ đánh người đến 'tàn phế' vì bị từ chối lời mời nhậu",
+      "link": "https://vnexpress.net/vo-co-danh-nguoi-den-tan-phe-vi-bi-tu-choi-loi-moi-nhau-5007527.html",
+      "summary": "Anh Võ Mộng Đạt, trú phường Hòa Hiệp, bị nhóm côn đồ của Trần Văn Hội đánh đến liệt tứ chi, thương tích 23% do từ chối lời mời nhậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T14:29:34+07:00",
+      "fetched": "2026-01-20T23:23:13.790919+07:00"
+    },
+    {
+      "id": "d47b01c895f5f2bac73082038e308e89",
+      "title": "Bão bức xạ Mặt Trời mạnh nhất 20 năm hướng tới Trái Đất",
+      "link": "https://vnexpress.net/bao-buc-xa-mat-troi-manh-nhat-20-nam-huong-toi-trai-dat-5007982.html",
+      "summary": "Bão bức xạ Mặt Trời cấp S4 đang hướng về Trái Đất, có thể ảnh hưởng đến hoạt động vệ tinh và tạo ra cực quang rực rỡ khác thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T14:23:09+07:00",
+      "fetched": "2026-01-20T23:23:13.791098+07:00"
+    },
+    {
+      "id": "d47b01c895f5f2bac73082038e308e89",
+      "title": "Bão bức xạ Mặt Trời mạnh nhất 20 năm hướng tới Trái Đất",
+      "link": "https://vnexpress.net/bao-buc-xa-mat-troi-manh-nhat-20-nam-huong-toi-trai-dat-5007982.html",
+      "summary": "Bão bức xạ Mặt Trời cấp S4 đang hướng về Trái Đất, có thể ảnh hưởng đến hoạt động vệ tinh và tạo ra cực quang rực rỡ khác thường.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-20T14:23:09+07:00",
+      "fetched": "2026-01-20T23:23:33.151493+07:00"
+    },
+    {
+      "id": "40154351c31cce063de24e1ea72cf369",
+      "title": "Anh xem Việt Nam là thị trường xuất khẩu giáo dục trọng điểm",
+      "link": "https://thanhnien.vn/anh-xem-viet-nam-la-thi-truong-xuat-khau-giao-duc-trong-diem-185260120135521223.htm",
+      "summary": "Sáng 20.1, chính phủ Anh công bố chiến lược giáo dục quốc tế (IES) mới, trong đó đặt mục tiêu đến năm 2030 nâng giá trị xuất khẩu giáo dục lên 40 tỉ bảng (khoảng 1,41 triệu tỉ đồng) mỗi năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T14:23:00+07:00",
+      "fetched": "2026-01-20T23:23:19.637841+07:00"
+    },
+    {
+      "id": "b4e94e233a19edaead3816777ba9e5cd",
+      "title": "CLB nữ TP.HCM vô địch lượt đi giải U.19 quốc gia - Cúp Acecook 2026",
+      "link": "https://thanhnien.vn/clb-nu-tphcm-vo-dich-luot-di-giai-u19-quoc-gia-cup-acecook-2026-185260120212142317.htm",
+      "summary": "Chiến thắng tối thiểu trước Hà Nội ở lượt trận cuối giúp TP.HCM vươn lên dẫn đầu bảng xếp hạng và giành ngôi vô địch lượt đi giải bóng đá nữ vô địch U.19 quốc gia - Cúp Acecook 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T14:22:00+07:00",
+      "fetched": "2026-01-20T23:23:19.637990+07:00"
+    },
+    {
       "id": "e53965a0ad0144970ea6e51cbd8b586b",
       "title": "Sony bán một phần mảng TV cho TCL",
       "link": "https://vnexpress.net/sony-ban-mot-phan-mang-tv-cho-tcl-5007989.html",
@@ -703,6 +1083,16 @@ window.newsData_2026_01_20 = {
       "fetched": "2026-01-20T21:22:35.885692+07:00"
     },
     {
+      "id": "1a22b796a536a4480fb1d9d3aa8a7952",
+      "title": "Ngày bé của dàn cầu thủ U23 Việt Nam",
+      "link": "https://vnexpress.net/ngay-be-cua-dan-cau-thu-u23-viet-nam-5007973.html",
+      "summary": "Ước mơ như Ronaldo của Hiểu Minh, hay dáng vẻ “nhỏ con” ngày bé của Đình Bắc, Trung Kiên… nhắc lại điểm xuất phát của họ, trước khi khoác áo U23 Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T13:40:45+07:00",
+      "fetched": "2026-01-20T23:23:13.791722+07:00"
+    },
+    {
       "id": "042c2dc6aa7df8587e827a93e90a33cf",
       "title": "Lái xe máy chở 2 người lao vào cảnh sát giao thông khi bị dừng kiểm tra",
       "link": "https://vnexpress.net/lai-xe-may-cho-2-nguoi-lao-vao-canh-sat-giao-thong-khi-bi-dung-kiem-tra-5007985.html",
@@ -711,6 +1101,16 @@ window.newsData_2026_01_20 = {
       "category": "Tổng hợp",
       "published": "2026-01-20T13:39:14+07:00",
       "fetched": "2026-01-20T21:22:35.885851+07:00"
+    },
+    {
+      "id": "e339fd4ac74117872bbad4e96e112a3d",
+      "title": "Thiếu niên tông trúng cảnh sát giao thông khi bị dừng kiểm tra",
+      "link": "https://vnexpress.net/thieu-nien-tong-trung-canh-sat-giao-thong-khi-bi-dung-kiem-tra-5007985.html",
+      "summary": "Bị cảnh sát giao thông ra hiệu dừng kiểm tra, Hoàng Gia Bảo, 16 tuổi, lái xe máy tông trúng một chiến sĩ khiến nạn nhân gãy đùi và xương chậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-20T13:39:14+07:00",
+      "fetched": "2026-01-20T23:23:13.791884+07:00"
     },
     {
       "id": "579173b0ce3698eff0b3a4b0590fb3a3",
