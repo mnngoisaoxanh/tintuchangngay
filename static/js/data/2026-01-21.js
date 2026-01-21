@@ -1,7 +1,157 @@
 window.newsData_2026_01_21 = {
   "date": "2026-01-21",
-  "lastUpdated": "2026-01-21T11:37:17.111663+07:00",
+  "lastUpdated": "2026-01-21T13:22:48.232432+07:00",
   "articles": [
+    {
+      "id": "f2be1a367db78de2edc6bf6167048f3a",
+      "title": "Thu hồi toàn quốc lô sữa rửa mặt Acnes, sữa rửa tay Kleen vi phạm bán tại siêu thị",
+      "link": "https://tuoitre.vn/thu-hoi-toan-quoc-lo-sua-sua-mat-acnes-sua-rua-tay-kleen-vi-pham-ban-tai-sieu-thi-20260121085132335.htm",
+      "summary": "Cục Quản lý dược, Bộ Y tế vừa có thông báo đình chỉ lưu hành, thu hồi trên toàn quốc lô sữa rửa mặt Acnes, lô sản phẩm Kleen Hand Wash (sữa rửa tay Kleen - hương trà xanh) do không đáp ứng quy định về thành phần mỹ phẩm đã công bố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.154732+07:00",
+      "fetched": "2026-01-21T13:22:41.154844+07:00"
+    },
+    {
+      "id": "c0865fe1b0f8bf46bfb3f13b009212a5",
+      "title": "Nhiệt đới buồn của Phạm Trà My",
+      "link": "https://tuoitre.vn/nhiet-doi-buon-cua-pham-tra-my-20260121110348656.htm",
+      "summary": "Gắn bó với hội họa sơn mài, Phạm Trà My chỉ trung thành với một lối: vẽ những khu vườn nhiệt đới rực rỡ sắc màu nhưng phảng phất buồn, nỗi buồn rực rỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.154608+07:00",
+      "fetched": "2026-01-21T13:22:41.154721+07:00"
+    },
+    {
+      "id": "a5656827c760ee06742f9256e36d993f",
+      "title": "Bộ đội Đà Nẵng hoàn công 'Chiến dịch Quang Trung', thần tốc làm 286 nhà chỉ chưa đầy 2 tháng",
+      "link": "https://tuoitre.vn/bo-doi-da-nang-hoan-cong-chien-dich-quang-trung-than-toc-lam-286-nha-chi-chua-day-2-thang-20260121111130558.htm",
+      "summary": "Chỉ chưa đầy 2 tháng, 500 cán bộ chiến sĩ các lực lượng của Bộ Chỉ huy Quân sự TP Đà Nẵng đã lần lượt lên đường và thần tốc làm 286 nhà cho dân vùng lũ ở Đắk Lắk, Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.154483+07:00",
+      "fetched": "2026-01-21T13:22:41.154596+07:00"
+    },
+    {
+      "id": "3c7baec38af377e5ed79d31b3ff6bb25",
+      "title": "Úc siết luật sở hữu súng, triển khai thu hồi vũ khí",
+      "link": "https://tuoitre.vn/uc-siet-luat-so-huu-sung-trien-khai-thu-hoi-vu-khi-20260121114445805.htm",
+      "summary": "Sau vụ xả súng khiến 15 người thiệt mạng, Quốc hội Úc đã thông qua các đạo luật siết chặt kiểm soát súng cùng chống ngôn từ thù hận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.154358+07:00",
+      "fetched": "2026-01-21T13:22:41.154472+07:00"
+    },
+    {
+      "id": "74e0091d7e4c82b33b545a3d67f3f01e",
+      "title": "Kim Seon Ho 'phản ứng hóa học' tuyệt đối với Go Youn Jung trong Tiếng yêu này anh dịch được không?",
+      "link": "https://tuoitre.vn/kim-seon-ho-phan-ung-hoa-hoc-tuyet-doi-voi-go-youn-jung-trong-tieng-yeu-nay-anh-dich-duoc-khong-20260121114356272.htm",
+      "summary": "Kim Seon Ho nói rằng mình rất hài lòng về 'phản ứng hóa học' bùng nổ của anh với bạn diễn Go Youn Jung trong phim Tiếng yêu này anh dịch được không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.154221+07:00",
+      "fetched": "2026-01-21T13:22:41.154335+07:00"
+    },
+    {
+      "id": "ebb3e4b1235c3a064628f33f0a6b5339",
+      "title": "Ông Nguyễn Văn Được: TP.HCM đi trước, mở đường, phát triển không chỉ cho riêng mình",
+      "link": "https://tuoitre.vn/ong-nguyen-van-duoc-tp-hcm-di-truoc-mo-duong-phat-trien-khong-chi-cho-rieng-minh-20260121113658877.htm",
+      "summary": "TP.HCM không chỉ đi trước mà còn mở đường, và không chỉ thành công cho riêng mình mà phải tạo ra động lực lan tỏa cho sự phát triển chung của cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.154093+07:00",
+      "fetched": "2026-01-21T13:22:41.154210+07:00"
+    },
+    {
+      "id": "4e6f04396296df90690b6e28524c8d08",
+      "title": "Đất đã có giấy chứng nhận, sao không được tách thửa?",
+      "link": "https://tuoitre.vn/dat-da-co-giay-chung-nhan-sao-khong-duoc-tach-thua-20260113105301607.htm",
+      "summary": "Đất của dân đã có giấy chứng nhận nhưng cơ quan chức năng không giải quyết tách thửa vì diện tích các thửa đất sau tách quá nhỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.153952+07:00",
+      "fetched": "2026-01-21T13:22:41.154080+07:00"
+    },
+    {
+      "id": "f22c654a77cf0254f28a6f3ff6aca944",
+      "title": "Một năm đặc biệt trong lĩnh vực ghép tạng tại Đồng bằng sông Cửu Long",
+      "link": "https://tuoitre.vn/mot-nam-dac-biet-trong-linh-vuc-ghep-tang-tai-dong-bang-song-cuu-long-2026011514021533.htm",
+      "summary": "Năm 2025, Bệnh viện Đa khoa Trung ương Cần Thơ đã tạo nên một dấu ấn y khoa có ý nghĩa chuyên môn và nhân văn đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.153819+07:00",
+      "fetched": "2026-01-21T13:22:41.153941+07:00"
+    },
+    {
+      "id": "b0a0cc7cb1e4890f6f390b4d42d17bff",
+      "title": "Công an xã và 2 người dân lao xuống kênh nước cứu cô gái nhảy cầu tự tử",
+      "link": "https://tuoitre.vn/cong-an-xa-va-2-nguoi-dan-lao-xuong-kenh-nuoc-cuu-co-gai-nhay-cau-tu-tu-20260121114635827.htm",
+      "summary": "Trong lúc tuần tra đêm tại khu vực kênh dẫn nước của nhà máy thủy điện, các công an xã Buôn Đôn (tỉnh Đắk Lắk) phát hiện cô gái nhảy cầu tự tử nên lập tức cùng 2 người dân lao xuống kênh ứng cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.153696+07:00",
+      "fetched": "2026-01-21T13:22:41.153808+07:00"
+    },
+    {
+      "id": "c88f4023d743bb0df45795d88cc7cfc5",
+      "title": "Nón lá làng Chuông xuất ngoại",
+      "link": "https://tuoitre.vn/non-la-lang-chuong-xuat-ngoai-2026012110510073.htm",
+      "summary": "Nón lá truyền thống làng Chuông đang dần phục hồi sức sống và theo chân giới trẻ, du khách đến nhiều không gian văn hóa khác nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.153574+07:00",
+      "fetched": "2026-01-21T13:22:41.153685+07:00"
+    },
+    {
+      "id": "3a3dd4a08bb7e12cf3d68fdb89856548",
+      "title": "Chuyên cơ chở ông Trump gặp sự cố kỹ thuật, phải ‘quay đầu’ ngay trong đêm",
+      "link": "https://tuoitre.vn/chuyen-co-cho-ong-trump-gap-su-co-ky-thuat-phai-quay-dau-ngay-trong-dem-20260121120104554.htm",
+      "summary": "Chuyên cơ Không lực Một (Air Force One) chở Tổng thống Mỹ Donald Trump đến Thụy Sĩ gặp sự cố kỹ thuật nhỏ, buộc phải quay về căn cứ để đảm bảo an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.153451+07:00",
+      "fetched": "2026-01-21T13:22:41.153562+07:00"
+    },
+    {
+      "id": "6556e5b6058855fd045e223fef53d2c2",
+      "title": "Xác minh clip bé trai bị gió cuốn lên trời trong lễ hội thả diều ở Ấn Độ",
+      "link": "https://tuoitre.vn/xac-minh-clip-be-trai-bi-gio-cuon-len-troi-trong-le-hoi-tha-dieu-o-an-do-20260121120235054.htm",
+      "summary": "Mạng xã hội lan truyền đoạn video được cho là ghi lại cảnh một bé trai bị cuốn bổng lên không trung khi đang thả diều trong dịp lễ Uttarayan tại Ấn Độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.153315+07:00",
+      "fetched": "2026-01-21T13:22:41.153439+07:00"
+    },
+    {
+      "id": "8dbe407ec09d396e94ad83b5716c7636",
+      "title": "Giấc mơ hóa Rồng Xanh: Để mỗi người đều thấy mình trong tương lai của Việt Nam",
+      "link": "https://tuoitre.vn/giac-mo-hoa-rong-xanh-de-moi-nguoi-deu-thay-minh-trong-tuong-lai-cua-viet-nam-20260120214528799.htm",
+      "summary": "Với tác phẩm “Giấc mơ hóa Rồng Xanh - Thương hiệu Việt Nam 2045”, tác giả Trần Tuệ Tri tiếp tục lan tỏa khát vọng chia sẻ tầm nhìn về tương lai của Việt Nam - nơi mỗi người đều nhìn thấy hình ảnh và sự đóng góp của chính mình trong đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.153183+07:00",
+      "fetched": "2026-01-21T13:22:41.153303+07:00"
+    },
+    {
+      "id": "0f77ffa43b20190f2ce9e65e63224fbb",
+      "title": "Lâm Đồng 'phá băng' hạ tầng đường cao tốc, rộng cửa kết nối",
+      "link": "https://tuoitre.vn/lam-dong-pha-bang-ha-tang-duong-cao-toc-rong-cua-ket-noi-20260121111236464.htm",
+      "summary": "Lâm Đồng đang dồn toàn lực thực hiện cuộc”phá băng” hạ tầng đường cao tốc nhằm mở rộng cửa ngõ với Tây Nguyên, TP.HCM và duyên hải Nam Trung Bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.153021+07:00",
+      "fetched": "2026-01-21T13:22:41.153170+07:00"
+    },
+    {
+      "id": "ca0f180f073e32ea767061410f17c979",
+      "title": "TP.HCM phê duyệt đề án ứng dụng AI và dữ liệu lớn vào đào tạo",
+      "link": "https://tuoitre.vn/tp-hcm-phe-duyet-de-an-ung-dung-ai-va-du-lieu-lon-vao-dao-tao-20260121104800187.htm",
+      "summary": "UBND TP.HCM vừa phê duyệt đề án ứng dụng trí tuệ nhân tạo (AI) và dữ liệu lớn nhằm hỗ trợ người lao động học tập, nâng kỹ năng trước nhu cầu nhân lực thay đổi nhanh theo chuyển đổi số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:22:41.152797+07:00",
+      "fetched": "2026-01-21T13:22:41.153006+07:00"
+    },
     {
       "id": "17e1e8c9ce151f6743aed5d1f8dd1682",
       "title": "Tri Việt Hội An bị phạt 389 triệu vì loạt vi phạm môi trường, an toàn thực phẩm tại The Pearl Hội An",
@@ -301,6 +451,366 @@ window.newsData_2026_01_21 = {
       "category": "Tổng hợp",
       "published": "2026-01-21T08:03:02.039198+07:00",
       "fetched": "2026-01-21T08:03:02.039380+07:00"
+    },
+    {
+      "id": "8292628a7a18356db4a5a406a79e3f9e",
+      "title": "Đường hoa Nguyễn Huệ Tết năm nay có gì đặc biệt?",
+      "link": "https://vnexpress.net/duong-hoa-nguyen-hue-tet-nam-nay-co-gi-dac-biet-5008207.html",
+      "summary": "Lần đầu tiên sau 23 năm, đường hoa Nguyễn Huệ mang đến cho người dân hai trải nghiệm khác nhau giữa ngày và đêm trên cùng một không gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T06:00:52+07:00",
+      "fetched": "2026-01-21T13:22:35.808548+07:00"
+    },
+    {
+      "id": "5f7de07a45054a884d056a0d145368db",
+      "title": "Cắt ngang đầu ôtô, người đi xe máy bị đâm bay",
+      "link": "https://vnexpress.net/cat-ngang-dau-oto-nguoi-di-xe-may-bi-dam-bay-5008213.html",
+      "summary": "Vượt qua xe máy chở hàng cồng kềnh, nam thanh niên bị ôtô ở hướng vuông góc đâm bay, hôm 21/1 tại Hoàng Minh Giám giao Lê Văn Lương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T06:00:00+07:00",
+      "fetched": "2026-01-21T13:22:35.808724+07:00"
+    },
+    {
+      "id": "d3445abf8ab7e5cdb55ff27f1a88403f",
+      "title": "Truyền thuốc sinh học chữa viêm khớp kèm gout",
+      "link": "https://vnexpress.net/truyen-thuoc-sinh-hoc-chua-viem-khop-kem-gout-5008162.html",
+      "summary": "Anh Quang, 45 tuổi, vận động khó khăn vì mắc viêm khớp tự miễn chồng lấp gout, sau hai đợt truyền thuốc sinh học đã hồi phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T06:00:00+07:00",
+      "fetched": "2026-01-21T13:22:35.808893+07:00"
+    },
+    {
+      "id": "14d45ba16e8eaf5f0ba0a88a41788c39",
+      "title": "Giá trị độc bản giúp bất động sản hút nhóm cao cấp",
+      "link": "https://vnexpress.net/gia-tri-doc-ban-giup-bat-dong-san-hut-nhom-cao-cap-5007945.html",
+      "summary": "Các bất động sản khan hiếm số lượng, vị trí đẹp gắn liền với trải nghiệm sống độc bản, được giới nhà giàu săn đón như tài sản đầu tư dài hạn, theo báo cáo từ Altrata.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T06:00:00+07:00",
+      "fetched": "2026-01-21T13:22:35.809069+07:00"
+    },
+    {
+      "id": "2bc9115662aaf3c7737cd2a19307d026",
+      "title": "OPPO Reno15 Series cùng Neko Lê và fan khuấy động Tếch Bus giữa trung tâm TP.HCM",
+      "link": "https://thanhnien.vn/oppo-reno15-series-cung-neko-le-va-fan-khuay-dong-tech-bus-giua-trung-tam-tphcm-185260121110834132.htm",
+      "summary": "Chuỗi activation cuối tuần cùng sự xuất hiện của Neko Lê và Tếch Bus Tour mang đến không gian trải nghiệm công nghệ và giải trí khác biệt cho người dùng trẻ tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T06:00:00+07:00",
+      "fetched": "2026-01-21T13:22:40.146195+07:00"
+    },
+    {
+      "id": "b5f4952b9019bf244b0f0177648d2e94",
+      "title": "Trường ĐH Quốc tế Hồng Bàng - Trường ĐH Văn Lang: Đua hiệu số",
+      "link": "https://thanhnien.vn/truong-dh-quoc-te-hong-bang-truong-dh-van-lang-dua-hieu-so-18526012014304521.htm",
+      "summary": "Với quyền tự quyết trong tay, đội bóng Trường ĐH Văn Lang sẽ dốc sức ghi càng thật nhiều bàn thắng càng tốt trong trận cuối vòng bảng trước Trường ĐH Quốc tế Hồng Bàng (14 giờ, 21.1).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:53:00+07:00",
+      "fetched": "2026-01-21T13:22:40.146365+07:00"
+    },
+    {
+      "id": "1cf5f42085035d9be0c08934a545ca53",
+      "title": "Chính phủ yêu cầu địa phương lên kịch bản để GDP tăng trên 10%",
+      "link": "https://vnexpress.net/chinh-phu-yeu-cau-dia-phuong-len-kich-ban-de-gdp-tang-tren-10-5008212.html",
+      "summary": "Chính phủ yêu cầu các bộ, ngành và địa phương xây dựng kịch bản tăng trưởng theo quý và cả năm, phấn đấu đạt mục tiêu GDP tăng trên 10% năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:44:18+07:00",
+      "fetched": "2026-01-21T13:22:35.809231+07:00"
+    },
+    {
+      "id": "1cf5f42085035d9be0c08934a545ca53",
+      "title": "Chính phủ yêu cầu địa phương lên kịch bản để GDP tăng trên 10%",
+      "link": "https://vnexpress.net/chinh-phu-yeu-cau-dia-phuong-len-kich-ban-de-gdp-tang-tren-10-5008212.html",
+      "summary": "Chính phủ yêu cầu các bộ, ngành và địa phương xây dựng kịch bản tăng trưởng theo quý và cả năm, phấn đấu đạt mục tiêu GDP tăng trên 10% năm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-21T05:44:18+07:00",
+      "fetched": "2026-01-21T13:22:44.431450+07:00"
+    },
+    {
+      "id": "378658f5944c3cb69d6e4409d253bbcd",
+      "title": "Công an TP.HCM: Phá đường dây buôn cần sa qua mạng có người nước ngoài tham gia",
+      "link": "https://thanhnien.vn/cong-an-tphcm-pha-duong-day-buon-can-sa-qua-mang-co-nguoi-nuoc-ngoai-tham-gia-185260121121255935.htm",
+      "summary": "Một đường dây mua bán cần sa và thuốc lá điện tử chứa chất cấm qua mạng có sự tham gia của người nước ngoài vừa bị Công an TP.HCM triệt phá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:41:00+07:00",
+      "fetched": "2026-01-21T13:22:40.146521+07:00"
+    },
+    {
+      "id": "68bf2331491ee95661e3ed1ff44daa25",
+      "title": "TP.HCM trả lương gấp 4 lần để thu hút nhân tài",
+      "link": "https://thanhnien.vn/tphcm-tra-luong-gap-4-lan-de-thu-hut-nhan-tai-185260121120056508.htm",
+      "summary": "TP.HCM sẽ tuyển dụng đặc cách, đồng thời trả phụ cấp tăng thêm tối thiểu 3 lần mức lương trong 5 năm để thu hút nhân tài vào làm việc cho các khu vực công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:34:00+07:00",
+      "fetched": "2026-01-21T13:22:40.146679+07:00"
+    },
+    {
+      "id": "0e2eb294ed1117dd3a529f375937382f",
+      "title": "'U23 Việt Nam thua đậm Trung Quốc vì quá tham vọng'",
+      "link": "https://vnexpress.net/ban-ket-u23-chau-a-u23-viet-nam-vs-u23-trung-quoc-hieu-minh-chan-thuong-u23-viet-nam-thua-dam-trung-quoc-vi-qua-tham-vong-5008164.html",
+      "summary": "U23 Trung Quốc chỉ chơi bóng bằng bản năng và nền tảng thể lực hạn chế, nhưng U23 Việt Nam vẫn thua đậm vì tham vọng, chiến thuật sai lầm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:33:00+07:00",
+      "fetched": "2026-01-21T13:22:35.809402+07:00"
+    },
+    {
+      "id": "e14ff46a2bdf630f7b3a7a273b971665",
+      "title": "Xem xét cấp sổ hồng cho 4 dự án nhà ở tại TP HCM",
+      "link": "https://vnexpress.net/xem-xet-cap-so-hong-cho-4-du-an-nha-o-tai-tp-hcm-5008115.html",
+      "summary": "Bốn dự án nhà ở thương mại và nhà ở xã hội trên địa bàn TP HCM vừa được Tổ công tác 1645 xem xét cấp sổ hồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:28:15+07:00",
+      "fetched": "2026-01-21T13:22:35.809558+07:00"
+    },
+    {
+      "id": "ad45e4545e2549e0a6648abb633dd1ff",
+      "title": "Buông 2 tay, ngả lưng vào ghế khi chạy xe máy, người đàn ông bị CSGT phạt tiền, tịch thu xe",
+      "link": "https://thanhnien.vn/buong-2-tay-nga-lung-vao-ghe-khi-chay-xe-may-nguoi-dan-ong-bi-csgt-phat-tien-tich-thu-xe-185260121120306956.htm",
+      "summary": "Ngày 21.1, Đội CSGT Bến Thành, thuộc Phòng CSGT (PC08) Công an TP.HCM cho biết vừa mời làm việc, lập biên bản, tịch thu xe của người đàn ông buông 2 tay, ngả lưng vào ghế khi lái xe máy gây xôn xao mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:23:00+07:00",
+      "fetched": "2026-01-21T13:22:40.146831+07:00"
+    },
+    {
+      "id": "abf636b82ea87d2f32de6af509ae2708",
+      "title": "Pháo HIMARS Ukraine lộ vị trí, hứng đòn của drone Nga",
+      "link": "https://vnexpress.net/phao-himars-ukraine-lo-vi-tri-hung-don-cua-drone-nga-5008189.html",
+      "summary": "Drone FPV của Nga phát hiện tổ hợp HIMARS Ukraine đang khai hỏa ở tỉnh Donetsk, sau đó truy đuổi và tập kích mục tiêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:21:24+07:00",
+      "fetched": "2026-01-21T13:22:35.809710+07:00"
+    },
+    {
+      "id": "abf636b82ea87d2f32de6af509ae2708",
+      "title": "Pháo HIMARS Ukraine lộ vị trí, hứng đòn của drone Nga",
+      "link": "https://vnexpress.net/phao-himars-ukraine-lo-vi-tri-hung-don-cua-drone-nga-5008189.html",
+      "summary": "Drone FPV của Nga phát hiện tổ hợp HIMARS Ukraine đang khai hỏa ở tỉnh Donetsk, sau đó truy đuổi và tập kích mục tiêu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-21T05:21:24+07:00",
+      "fetched": "2026-01-21T13:22:42.687119+07:00"
+    },
+    {
+      "id": "0829cb9a7cd85f650ac570e85903196c",
+      "title": "Highlight ĐH Duy Tân (DTU) 1-0 ĐH Huế (HUE): Cựu vương 'sa lầy'",
+      "link": "https://thanhnien.vn/highlight-dh-duy-tan-dtu-1-0-dh-hue-hue-cuu-vuong-sa-lay-185260121121024053.htm",
+      "summary": "ĐH Duy Tân (DTU) bất ngờ giành chiến thắng 1–0 trước ĐH Huế (HUE) tại vòng loại khu vực Duyên hải miền Trung giải bóng đá Thanh Niên sinh viên Việt Nam – TNSV THACO Cup 2026 nhờ pha lập công của cầu thủ Huỳnh Văn Hiệp, khiến ứng viên cựu vô địch gặp nhiều khó khăn trong cuộc đua giành vé vào vòng ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:21:00+07:00",
+      "fetched": "2026-01-21T13:22:40.146982+07:00"
+    },
+    {
+      "id": "8579ad4059ad2c05c5ea0cd8839d4180",
+      "title": "Hà Nội kiên quyết khắc phục tư tưởng né tránh, sợ sai, đùn đẩy trách nhiệm",
+      "link": "https://thanhnien.vn/ha-noi-kien-quyet-khac-phuc-tu-tuong-ne-tranh-so-sai-dun-day-trach-nhiem-185260121114506692.htm",
+      "summary": "Tại phiên thảo luận về các văn kiện tại Đại hội XIV của Đảng diễn ra sáng nay, ông Nguyễn Văn Phong, Phó bí thư thường trực Thành ủy Hà Nội, đã trình bày tham luận 'Đổi mới phương thức lãnh đạo của Đảng bộ TP.Hà Nội đáp ứng yêu cầu phát triển trong kỷ nguyên mới, góp phần kiến tạo tương lai phát tri...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:19:00+07:00",
+      "fetched": "2026-01-21T13:22:40.147152+07:00"
+    },
+    {
+      "id": "3dc8edcf9b50d8ea526af028477acc8f",
+      "title": "Ông Macron đeo kính râm khi phát biểu tại Davos",
+      "link": "https://vnexpress.net/ong-macron-deo-kinh-ram-khi-phat-bieu-tai-davos-5008147.html",
+      "summary": "Tổng thống Pháp mang cặp kính râm kiểu phi công khi phát biểu tại WEF, có thể vì bệnh lý mắt chưa thuyên giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:18:03+07:00",
+      "fetched": "2026-01-21T13:22:35.809870+07:00"
+    },
+    {
+      "id": "3dc8edcf9b50d8ea526af028477acc8f",
+      "title": "Ông Macron đeo kính râm khi phát biểu tại Davos",
+      "link": "https://vnexpress.net/ong-macron-deo-kinh-ram-khi-phat-bieu-tai-davos-5008147.html",
+      "summary": "Tổng thống Pháp mang cặp kính râm kiểu phi công khi phát biểu tại WEF, có thể vì bệnh lý mắt chưa thuyên giảm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-21T05:18:03+07:00",
+      "fetched": "2026-01-21T13:22:42.687295+07:00"
+    },
+    {
+      "id": "257295bc8a955c1d53919d9a5b28a43c",
+      "title": "Giá Bitcoin hôm nay 21.1.2026: BTC sập sâu, thủng đáy 88.000 USD",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-2112026-btc-sap-sau-thung-day-88000-usd-185260121102243148.htm",
+      "summary": "Giá Bitcoin hôm nay liên tục giảm sốc trong bối cảnh kinh tế vĩ mô bất ổn khi lãi suất trái phiếu của chính phủ Nhật bị bán tháo, cuộc chiến thuế quan của Mỹ và châu Âu có dấu hiệu leo thang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:18:00+07:00",
+      "fetched": "2026-01-21T13:22:40.147308+07:00"
+    },
+    {
+      "id": "025d5bfaa81853a7bbc5ce1e29bc7a85",
+      "title": "Ôtô gắn thêm giá nóc sẽ trượt đăng kiểm nếu thiếu thủ tục",
+      "link": "https://vnexpress.net/oto-gan-them-gia-noc-se-truot-dang-kiem-neu-thieu-thu-tuc-5008193.html",
+      "summary": "Khi gắn giá nóc ôtô, chủ xe cần làm chứng nhận cải tạo, đăng kiểm và cập nhật đăng ký, nếu không có thể bị từ chối đăng kiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:16:58+07:00",
+      "fetched": "2026-01-21T13:22:35.810028+07:00"
+    },
+    {
+      "id": "6138acf99fe9a69159bcbdcc9e523ad5",
+      "title": "Người sát hại cố Thủ tướng Nhật Bản Abe Shinzo lãnh án chung thân",
+      "link": "https://thanhnien.vn/nguoi-sat-hai-co-thu-tuong-nhat-ban-abe-shinzo-lanh-an-chung-than-185260121120722115.htm",
+      "summary": "Tòa án tại Nhật Bản hôm nay (21.1) tuyên án tù chung thân đối với Yamagami Tetsuya, nghi phạm bắn chết cố Thủ tướng Nhật Bản Abe Shinzo hồi năm 2022.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:16:00+07:00",
+      "fetched": "2026-01-21T13:22:40.147459+07:00"
+    },
+    {
+      "id": "808a165ce8b4f08249e16943e50bb05c",
+      "title": "Đường Trần Văn Giàu ùn tắc vì gỡ đèn ưu tiên: Sở Xây dựng TP.HCM nói gì?",
+      "link": "https://thanhnien.vn/duong-tran-van-giau-un-tac-vi-go-den-uu-tien-so-xay-dung-tphcm-noi-gi-185260120141533796.htm",
+      "summary": "Gỡ đèn ưu tiên cho xe máy đi thẳng đã gây ùn tắc trên đường Trần Văn Giàu, người dân kiến nghị lắp lại nhưng phía cơ quan chức năng có lý do riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:10:00+07:00",
+      "fetched": "2026-01-21T13:22:40.147608+07:00"
+    },
+    {
+      "id": "6daa56bf397277b07a2407023040f461",
+      "title": "‘Nam thần phản diện’ Dũng Bino: Từng xem mình là 'cái rốn của vũ trụ'",
+      "link": "https://thanhnien.vn/nam-than-phan-dien-dung-bino-tung-xem-minh-la-cai-ron-cua-vu-tru-185260121102009648.htm",
+      "summary": "Nhắc đến Dũng Bino, khán giả thường nhớ đến hình ảnh hot boy của phim '5S online' hay những vai 'nam thần phản diện' trên màn ảnh nhỏ. Tuy nhiên, đằng sau vẻ ngoài tự tin đó là một quá khứ đầy chông chênh mà ít người biết đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:07:00+07:00",
+      "fetched": "2026-01-21T13:22:40.147756+07:00"
+    },
+    {
+      "id": "f7ee4867a23abedce66646d9a4a8b272",
+      "title": "Không lực Một chở ông Trump đi Davos gặp trục trặc phải quay về đổi máy bay",
+      "link": "https://thanhnien.vn/khong-luc-mot-cho-ong-trump-di-davos-gap-truc-trac-phai-quay-ve-doi-may-bay-185260121114113986.htm",
+      "summary": "Sau khoảng một giờ cất cánh đi Thụy Sĩ, chuyên cơ của Tổng thống Mỹ Donald Trump là Không lực Một phải quay về căn cứ hỗn hợp Andrews ở Maryland sát Washington D.C để đổi máy bay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:03:00+07:00",
+      "fetched": "2026-01-21T13:22:40.147909+07:00"
+    },
+    {
+      "id": "0c14944a01700d352744a47e3da4fb84",
+      "title": "Sức khỏe của 'Vinh thịt lợn' Trịnh Tắc Sĩ sau tin đồn qua đời",
+      "link": "https://thanhnien.vn/suc-khoe-cua-vinh-thit-lon-trinh-tac-si-sau-tin-don-qua-doi-18526012111012755.htm",
+      "summary": "Ở tuổi 74, Trịnh Tắc Sĩ nỗ lực tập chạy bộ để cải thiện sức khỏe sau khi cơ thể gặp nhiều vấn đề bất ổn. Nghệ sĩ kỳ cựu biết ơn Châu Nhuận Phát vì đã đem đến cho mình một cuộc sống lành mạnh, tích cực hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:03:00+07:00",
+      "fetched": "2026-01-21T13:22:40.148075+07:00"
+    },
+    {
+      "id": "b54e19ba4168640c4c33083797b85f19",
+      "title": "Chủ tịch TP.HCM: Thành phố không thể phát triển theo lối mòn",
+      "link": "https://thanhnien.vn/chu-tich-tphcm-thanh-pho-khong-the-phat-trien-theo-loi-mon-185260121113738964.htm",
+      "summary": "TP.HCM hướng đến mô hình thành phố toàn cầu đáng sống, nơi tăng trưởng đi cùng tiến bộ. Một thành phố đáng sống không chỉ được đo bằng quy mô kinh tế mà đo bằng chất lượng cuộc sống, theo Chủ tịch UBND TP.HCM Nguyễn Văn Được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:02:00+07:00",
+      "fetched": "2026-01-21T13:22:40.148228+07:00"
+    },
+    {
+      "id": "3e114b4079a1a409953d51fed95d93ca",
+      "title": "Vì sao trung vệ Lý Đức không được xóa thẻ đỏ?",
+      "link": "https://vnexpress.net/vi-sao-trung-ve-ly-duc-khong-duoc-xoa-the-do-5008201.html",
+      "summary": "VAR hủy bàn thắng của Trung Quốc nhưng trung vệ Phạm Lý Đức vẫn không được gỡ thẻ đỏ vì lỗi hành vi bạo lực, ở bán kết U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:01:46+07:00",
+      "fetched": "2026-01-21T13:22:35.810200+07:00"
+    },
+    {
+      "id": "3e114b4079a1a409953d51fed95d93ca",
+      "title": "Vì sao trung vệ Lý Đức không được xóa thẻ đỏ?",
+      "link": "https://vnexpress.net/vi-sao-trung-ve-ly-duc-khong-duoc-xoa-the-do-5008201.html",
+      "summary": "VAR hủy bàn thắng của Trung Quốc nhưng trung vệ Phạm Lý Đức vẫn không được gỡ thẻ đỏ vì lỗi hành vi bạo lực, ở bán kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-21T05:01:46+07:00",
+      "fetched": "2026-01-21T13:22:48.223078+07:00"
+    },
+    {
+      "id": "1974f9c9107d41868ad7f5919afbb851",
+      "title": "Nữ quản giáo trả giá vì cuộc tình với 2 tù nhân",
+      "link": "https://vnexpress.net/nu-quan-giao-tra-gia-vi-cuoc-tinh-voi-2-tu-nhan-5008203.html",
+      "summary": "Isabelle Dale, 23 tuổi, bị phạt tù sau khi bị phát hiện quan hệ tình dục với hai tù nhân, thậm chí giúp người tình vận chuyển ma túy vào nhà tù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:00:45+07:00",
+      "fetched": "2026-01-21T13:22:35.810357+07:00"
+    },
+    {
+      "id": "ad316b18fa52a8e85348c754568a86f1",
+      "title": "Bé gái 13 tuổi bị áp xe ngực",
+      "link": "https://vnexpress.net/be-gai-13-tuoi-bi-ap-xe-nguc-5008138.html",
+      "summary": "Bé Ân, 13 tuổi, bệnh 3 ngày, sưng đau ngực phải, sốt cao do ngực tụ dịch, có dấu hiệu nhiễm trùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:00:00+07:00",
+      "fetched": "2026-01-21T13:22:35.810510+07:00"
+    },
+    {
+      "id": "7e60db4a7e2d77cb4fa61b4302337160",
+      "title": "Chế độ ăn GM Diet là gì?",
+      "link": "https://vnexpress.net/che-do-an-gm-diet-la-gi-5008089.html",
+      "summary": "Tôi được giới thiệu chế độ ăn kiêng GM Diet giúp giảm cân cấp tốc trong thời gian ngắn. Chế độ ăn này là gì, hiệu quả không? (My Ngọc, tỉnh Tây Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:00:00+07:00",
+      "fetched": "2026-01-21T13:22:35.810657+07:00"
+    },
+    {
+      "id": "75178b5526d489fcc9fa03cf232e143e",
+      "title": "Loạt dự án, quy hoạch tại phía Đông Hải Phòng",
+      "link": "https://vnexpress.net/loat-du-an-quy-hoach-tai-phia-dong-hai-phong-5006812.html",
+      "summary": "Các dự án giao thông, logistics và khu thương mại tự do được triển khai trong giai đoạn 2026-2030 đưa phía Đông Hải Phòng trở thành cực phát triển mới của thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:00:00+07:00",
+      "fetched": "2026-01-21T13:22:35.810817+07:00"
+    },
+    {
+      "id": "4e86f8203864c9a635a1e1c4085ce02d",
+      "title": "Trang phục thắt đai phối quần tất định hình vóc dáng thon gọn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/trang-phuc-that-dai-phoi-quan-tat-dinh-hinh-voc-dang-thon-gon-185260120183818885.htm",
+      "summary": "Không cần đến những thiết kế cầu kỳ, trang phục thắt đai khi kết hợp cùng quần tất mỏng đã trở thành 'công thức vàng' giúp định hình vóc dáng một cách tinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T05:00:00+07:00",
+      "fetched": "2026-01-21T13:22:40.148380+07:00"
+    },
+    {
+      "id": "a225951f57da642e91a9de8c97ac7f34",
+      "title": "Chuyên cơ chở ông Trump phải quay đầu vì sự cố",
+      "link": "https://vnexpress.net/chuyen-co-cho-ong-trump-phai-quay-dau-vi-su-co-5008180.html",
+      "summary": "Chuyên cơ Không lực Một chở ông Trump tới Davos phải quay đầu do \"sự cố nhỏ về điện\", buộc Tổng thống Mỹ phải đổi máy bay để đến Thụy Sĩ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-21T04:44:07+07:00",
+      "fetched": "2026-01-21T13:22:42.687459+07:00"
+    },
+    {
+      "id": "93d9140e38cecad7157607b67b805aef",
+      "title": "Greenland quan trọng với an ninh quốc gia Mỹ đến mức nào?",
+      "link": "https://vnexpress.net/greenland-quan-trong-voi-an-ninh-quoc-gia-my-den-muc-nao-5007905.html",
+      "summary": "Từ phòng thủ tên lửa đến cạnh tranh vị thế ở Bắc Cực, Greenland trở thành mắt xích chiến lược khiến ông Trump sẵn sàng gây sức ép với cả các đồng minh NATO.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-21T04:37:33+07:00",
+      "fetched": "2026-01-21T13:22:42.687631+07:00"
     },
     {
       "id": "b29717f4bd28327c648db05adbe5ad0b",
