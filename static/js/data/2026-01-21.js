@@ -1,7 +1,157 @@
 window.newsData_2026_01_21 = {
   "date": "2026-01-21",
-  "lastUpdated": "2026-01-21T19:29:23.640587+07:00",
+  "lastUpdated": "2026-01-21T21:21:42.893389+07:00",
   "articles": [
+    {
+      "id": "0f2d4a16d004df6d8fce55bbf8f14668",
+      "title": "Ông Kim dự lễ khánh thành khu nghỉ dưỡng suối nước nóng lớn nhất Triều Tiên",
+      "link": "https://tuoitre.vn/ong-kim-du-le-khanh-thanh-khu-nghi-duong-suoi-nuoc-nong-lon-nhat-trieu-tien-20260121190836404.htm",
+      "summary": "Truyền thông nhà nước Triều Tiên (KCNA) ngày 21-1 đưa tin lãnh đạo Kim Jong Un vừa tham dự lễ khánh thành khu nghỉ dưỡng suối nước nóng Onpho tại tỉnh Bắc Hamgyong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.583377+07:00",
+      "fetched": "2026-01-21T21:21:36.583493+07:00"
+    },
+    {
+      "id": "93bcf8310729385a7238212d1eb38aa9",
+      "title": "'I just might' giúp Bruno Mars lập cột mốc mới trên Billboard Hot 100",
+      "link": "https://tuoitre.vn/i-just-might-giup-bruno-mars-lap-cot-moc-moi-tren-billboard-hot-100-20260121191418052.htm",
+      "summary": "Ca khúc 'I just might' vừa mang về cho Bruno Mars một thành tích mới trong sự nghiệp, điều mà các bản hit trước đây của anh chưa từng làm được sau hơn 15 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.583247+07:00",
+      "fetched": "2026-01-21T21:21:36.583362+07:00"
+    },
+    {
+      "id": "aa0ca3aeb876a0e0f06a9b428b25fdab",
+      "title": "Lê Văn Công giành huy chương vàng dù vẫn đang chấn thương",
+      "link": "https://tuoitre.vn/le-van-cong-gianh-huy-chuong-vang-du-van-dang-chan-thuong-20260121191644864.htm",
+      "summary": "Chiều 21-1, lực sĩ Lê Văn Công đã có ngày thi đấu xuất sắc để giành huy chương vàng môn cử tạ tại ASEAN Para Games 13.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.583119+07:00",
+      "fetched": "2026-01-21T21:21:36.583236+07:00"
+    },
+    {
+      "id": "6fabc7df91f96202f8f27b7e6d68ba50",
+      "title": "Lấy được vòng tránh thai nhiều sỏi bám do ‘đi lạc’ vào bàng quang sau 22 năm đặt",
+      "link": "https://tuoitre.vn/lay-duoc-vong-tranh-thai-nhieu-soi-bam-do-di-lac-vao-bang-quang-sau-22-nam-dat-20260121175636393.htm",
+      "summary": "Ngày 21-1, thông tin từ Bệnh viện Đa khoa Cà Mau cho biết bệnh viện vừa phẫu thuật cho bệnh nhân V.T.Đ. (45 tuổi, ngụ xã Phong Hiệp) bị vòng tránh thai lạc vào bàng quang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.582987+07:00",
+      "fetched": "2026-01-21T21:21:36.583107+07:00"
+    },
+    {
+      "id": "7bef3d778f38851803e7dc6dab5b72c3",
+      "title": "An Giang tiếp nhận 78 công dân Việt Nam do Campuchia trao trả",
+      "link": "https://tuoitre.vn/an-giang-tiep-nhan-78-cong-dan-viet-nam-do-campuchia-trao-tra-20260121191047075.htm",
+      "summary": "Công an tỉnh An Giang phối hợp với đơn vị liên quan tiếp nhận 78 công dân Việt Nam do Campuchia trao trả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.582844+07:00",
+      "fetched": "2026-01-21T21:21:36.582956+07:00"
+    },
+    {
+      "id": "9006820d8c81b0f0425259fd12570ad8",
+      "title": "Bắt giữ người Lào vận chuyển hơn 12.000 viên ma túy ở khu vực biên giới Quảng Ngãi",
+      "link": "https://tuoitre.vn/bat-giu-nguoi-lao-van-chuyen-hon-12-000-vien-ma-tuy-o-khu-vuc-bien-gioi-quang-ngai-20260121161144227.htm",
+      "summary": "Một người quốc tịch Lào vận chuyển hơn 12.000 viên ma túy tổng hợp đã bị lực lượng Bộ đội biên phòng tỉnh Quảng Ngãi bắt giữ khi đang lưu thông trên đường Hồ Chí Minh, đoạn qua thôn Lanh Tôn, xã Đăk Môn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.582716+07:00",
+      "fetched": "2026-01-21T21:21:36.582833+07:00"
+    },
+    {
+      "id": "2dfd6ac73efe94311b9a6d6c6394de3e",
+      "title": "Rút ngắn thời gian làm việc Đại hội XIV của Đảng, dự kiến bế mạc 23-1",
+      "link": "https://tuoitre.vn/rut-ngan-thoi-gian-lam-viec-dai-hoi-xiv-cua-dang-du-kien-be-mac-23-1-20260121184939664.htm",
+      "summary": "Chiều 21-1, tại phiên thảo luận ở hội trường, Đại hội đại biểu toàn quốc lần thứ XIV của Đảng đã quyết nghị rút ngắn 1,5 ngày thời gian làm việc của Đại hội. Dự kiến bế mạc vào ngày 23-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.582591+07:00",
+      "fetched": "2026-01-21T21:21:36.582705+07:00"
+    },
+    {
+      "id": "ac75c61753798507f611ae21a066b51a",
+      "title": "Mega Market Việt Nam được mua lại với giá gần 19.000 tỉ đồng",
+      "link": "https://tuoitre.vn/mega-market-viet-nam-duoc-mua-lai-voi-gia-gan-19-000-ti-dong-20260121191129755.htm",
+      "summary": "Con số trên được đưa ra trong giao dịch mua lại MM Mega Market Việt Nam của Tập đoàn bán lẻ Thái Lan BJC. Đáng chú ý, cả hai cái tên này đều trong hệ sinh thái TCC Group của tỉ phú Thái Lan Charoen Sirivadhanabhakd.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.582449+07:00",
+      "fetched": "2026-01-21T21:21:36.582579+07:00"
+    },
+    {
+      "id": "b42edb7100c88b049869784898fe9fc5",
+      "title": "'Xpander khó lật ngược trước Limo Green, MPV xăng vẫn sống nhưng theo kiểu khác'",
+      "link": "https://tuoitre.vn/xpander-kho-lat-nguoc-truoc-limo-green-mpv-xang-van-song-nhung-theo-kieu-khac-20260121151631361.htm",
+      "summary": "Thị trường ô tô Việt Nam năm 2025 ghi nhận nhiều biến động bất ngờ, khi các vị trí quen thuộc liên tục bị xáo trộn. Những thay đổi này cho thấy cuộc cạnh tranh đang bước sang một giai đoạn hoàn toàn mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.582324+07:00",
+      "fetched": "2026-01-21T21:21:36.582438+07:00"
+    },
+    {
+      "id": "94b1570528769df19789bd772fbbee0f",
+      "title": "Từ Singapore về Vinmec tại Việt Nam chữa trị, bệnh nhân chấm dứt cơn đau dai dẳng kéo dài suốt 7 năm",
+      "link": "https://tuoitre.vn/tu-singapore-ve-vinmec-tai-viet-nam-chua-tri-benh-nhan-cham-dut-con-dau-dai-dang-keo-dai-suot-7-nam-20260121191613273.htm",
+      "summary": "Trở về Việt Nam, anh Hòa (37 tuổi, Việt kiều Singapore) không thể ngờ cơn đau vùng đầu mặt suốt 7 năm hành hạ mình có thể được chữa khỏi bởi đội ngũ Vinmec Central Park ở TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.582198+07:00",
+      "fetched": "2026-01-21T21:21:36.582312+07:00"
+    },
+    {
+      "id": "6a0c458a1650f12ca972799d7a93fc0b",
+      "title": "Khánh Hòa chỉ cho xây tối đa 2 tầng với công trình, nhà ở có thời hạn",
+      "link": "https://tuoitre.vn/khanh-hoa-chi-cho-xay-toi-da-2-tang-voi-cong-trinh-nha-o-co-thoi-han-20260121185300444.htm",
+      "summary": "Tỉnh Khánh Hòa vừa có quy định về việc cấp giấy phép xây dựng có thời hạn đối với công trình xây dựng, nhà ở riêng lẻ trên địa bàn tỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.582065+07:00",
+      "fetched": "2026-01-21T21:21:36.582187+07:00"
+    },
+    {
+      "id": "ce0424202575ba7e9c219adb99163bb0",
+      "title": "Báo Trung Quốc thảng thốt: 'Chúng ta đang sa sút ở môn mình giỏi nhất'",
+      "link": "https://tuoitre.vn/bao-trung-quoc-thang-thot-chung-ta-dang-sa-sut-o-mon-minh-gioi-nhat-20260118224131112.htm",
+      "summary": "\"Trung Quốc đang đánh mất thế thống trị ở môn thể thao mình giỏi nhất\", báo 163 của Trung Quốc giật tít đầy thảng thốt, sau khi hàng loạt ngôi sao bóng bàn nước này bại trận ở các giải đấu lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.581909+07:00",
+      "fetched": "2026-01-21T21:21:36.582052+07:00"
+    },
+    {
+      "id": "dd2439632bb692d7eef6c69ce3c5667e",
+      "title": "Đơn vị sự nghiệp công lập ở TP.HCM được quyết cho thuê tài sản công",
+      "link": "https://tuoitre.vn/don-vi-su-nghiep-cong-lap-o-tp-hcm-duoc-quyet-cho-thue-tai-san-cong-20260121182730758.htm",
+      "summary": "Đây là phân cấp có ý nghĩa bởi tháo gỡ được 'điểm nghẽn' về thẩm quyền, thủ tục phê duyệt đề án cho thuê tài sản công của hàng trăm đơn vị sự nghiệp công lập, cơ quan chuyên môn, cơ quan hành chính khác... ở TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.581775+07:00",
+      "fetched": "2026-01-21T21:21:36.581897+07:00"
+    },
+    {
+      "id": "6e911aa8e66cf95af7d09ad4a040dcb7",
+      "title": "Tết con ngựa, khách Việt đi đâu chơi?",
+      "link": "https://tuoitre.vn/tet-con-ngua-khach-viet-di-dau-choi-20260121195220717.htm",
+      "summary": "Từ điểm đến nội địa đến hành trình quốc tế, du khách Việt ưu tiên những điểm đến quen thuộc trong dịp Tết Nguyên đán Bính Ngọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.581635+07:00",
+      "fetched": "2026-01-21T21:21:36.581763+07:00"
+    },
+    {
+      "id": "8b4cf163467f3426336a78031d8faf60",
+      "title": "Tổng thư ký NATO nói về 'cách duy nhất cho vấn đề Greenland'",
+      "link": "https://tuoitre.vn/tong-thu-ky-nato-noi-ve-cach-duy-nhat-cho-van-de-greenland-20260121200024259.htm",
+      "summary": "Ngày 21-1, Tổng thư ký NATO Mark Rutte cho biết “ngoại giao thận trọng” là yếu tố cần thiết để giải quyết những căng thẳng liên quan đến hòn đảo Greenland.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:21:36.581406+07:00",
+      "fetched": "2026-01-21T21:21:36.581619+07:00"
+    },
     {
       "id": "03038292995a8061a92362e525e69e59",
       "title": "Gìn giữ nguồn gene và phục tráng giống lúa chất lượng cao giúp nông dân sinh lợi",
@@ -453,6 +603,46 @@ window.newsData_2026_01_21 = {
       "fetched": "2026-01-21T15:20:23.897810+07:00"
     },
     {
+      "id": "4cf133fca8850705a3a49b08dd7ed92c",
+      "title": "Điện thoại 'đánh cắp' giấc ngủ",
+      "link": "https://thanhnien.vn/dien-thoai-danh-cap-giac-ngu-185260121164903906.htm",
+      "summary": "Điện thoại thông minh đã trở thành vật bất ly thân của nhiều người, từ khi thức dậy cho đến lúc đi ngủ. Tuy nhiên, thói quen sử dụng thiết bị số kéo dài, đặc biệt vào buổi tối, đang âm thầm làm gia tăng tình trạng rối loạn giấc ngủ. Không ít người dù mệt mỏi vẫn khó vào giấc, ngủ chập chờn hoặc thức...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T14:19:00+07:00",
+      "fetched": "2026-01-21T21:21:35.582145+07:00"
+    },
+    {
+      "id": "6e8e23d0bd94be1e814d1459b41af18f",
+      "title": "3 trẻ ngộ độc vì tự ý uống thuốc người lớn",
+      "link": "https://thanhnien.vn/3-tre-ngo-doc-vi-tu-y-uong-thuoc-nguoi-lon-185260121201248968.htm",
+      "summary": "Tự ý lấy thuốc người lớn uống để chữa đau đầu, 3 trẻ em tại Quảng Trị phải nhập viện điều trị vì ngộ độc thuốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T14:06:00+07:00",
+      "fetched": "2026-01-21T21:21:35.582313+07:00"
+    },
+    {
+      "id": "143f41cf5f80d9d0f6a804eb0c06a7da",
+      "title": "Miền Bắc giảm 12 độ C, trời rét",
+      "link": "https://vnexpress.net/mien-bac-giam-12-do-c-troi-ret-5008401.html",
+      "summary": "Trong ngày đầu tiên của đợt không khí lạnh, nhiệt độ thấp nhất đo được tại Mẫu Sơn 2,5 độ C, Hà Nội 12 độ C, giảm mạnh so với hôm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:36:53+07:00",
+      "fetched": "2026-01-21T21:21:32.969263+07:00"
+    },
+    {
+      "id": "7212b4dd86bb11b489b56d3722289137",
+      "title": "Ba người tháo chạy khỏi ôtô 5 chỗ đang cháy",
+      "link": "https://vnexpress.net/ba-nguoi-thao-chay-khoi-oto-5-cho-dang-chay-5008402.html",
+      "summary": "Ngồi bên trong thấy lửa bốc lên từ phần đầu ôtô, hai người lớn và một trẻ em 5 tuổi hốt hoảng bung cửa chạy ra ngoài thoát thân, chiều 21/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:29:14+07:00",
+      "fetched": "2026-01-21T21:21:32.969442+07:00"
+    },
+    {
       "id": "f2be1a367db78de2edc6bf6167048f3a",
       "title": "Thu hồi toàn quốc lô sữa rửa mặt Acnes, sữa rửa tay Kleen vi phạm bán tại siêu thị",
       "link": "https://tuoitre.vn/thu-hoi-toan-quoc-lo-sua-sua-mat-acnes-sua-rua-tay-kleen-vi-pham-ban-tai-sieu-thi-20260121085132335.htm",
@@ -601,6 +791,336 @@ window.newsData_2026_01_21 = {
       "category": "Tổng hợp",
       "published": "2026-01-21T13:22:41.152797+07:00",
       "fetched": "2026-01-21T13:22:41.153006+07:00"
+    },
+    {
+      "id": "2766d5e4bb14df5aa5530c244d797692",
+      "title": "Thời trẻ của Chi Bảo, Phước Sang trong phim 'Lục Vân Tiên'",
+      "link": "https://vnexpress.net/thoi-tre-cua-chi-bao-phuoc-sang-trong-phim-luc-van-tien-5008324.html",
+      "summary": "Diễn viên Chi Bảo, Phước Sang phong độ trong hậu trường \"Lục Vân Tiên\" - phim truyền hình gây sốt thập niên 2000.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:19:24+07:00",
+      "fetched": "2026-01-21T21:21:32.969609+07:00"
+    },
+    {
+      "id": "46dc2c49c35052478812c91476e73a41",
+      "title": "Nguyễn Thùy Linh đánh bại tay vợt Đài Loan hạng 20 thế giới",
+      "link": "https://thanhnien.vn/nguyen-thuy-linh-danh-bai-tay-vot-dai-loan-hang-20-the-gioi-185260121201526918.htm",
+      "summary": "Nguyễn Thùy Linh khởi đầu ấn tượng ở giải cầu lông Indonesia Masters 2026 khi giành chiến thắng khá chóng vánh trước Lin Hsiang-ti (Đài Loan).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:15:00+07:00",
+      "fetched": "2026-01-21T21:21:35.582470+07:00"
+    },
+    {
+      "id": "6ff70083138f002d1f35aff8000d0c27",
+      "title": "Đại hội XIV của Đảng rút ngắn 1,5 ngày làm việc, bế mạc chiều 23.1",
+      "link": "https://thanhnien.vn/dai-hoi-xiv-cua-dang-rut-ngan-15-ngay-lam-viec-be-mac-chieu-231-185260121200550305.htm",
+      "summary": "Chiều 21.1, đại biểu Đại hội XIV đã bỏ phiếu thông qua chương trình đại hội điều chỉnh, rút ngắn 1,5 ngày so với dự kiến ban đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:15:00+07:00",
+      "fetched": "2026-01-21T21:21:35.582621+07:00"
+    },
+    {
+      "id": "f370b4ea50b5d0caa64afb58158dd852",
+      "title": "Chuyên gia Nhật Bản hội chẩn ca bệnh khó tại Bệnh viện Bạch Mai",
+      "link": "https://thanhnien.vn/chuyen-gia-nhat-ban-hoi-chan-ca-benh-kho-tai-benh-vien-bach-mai-185260121191156983.htm",
+      "summary": "Tại Bệnh viện Bạch Mai, các năm qua, chuyên gia Nhật Bản duy trì các buổi hội chẩn trực tuyến hàng tháng về những ca bệnh khó và hiếm trong lĩnh vực thần kinh và đột quỵ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:09:00+07:00",
+      "fetched": "2026-01-21T21:21:35.582772+07:00"
+    },
+    {
+      "id": "8c407b3834cce6852b23d98927d28963",
+      "title": "Chủ trung tâm triển lãm lớn nhất Đông Nam Á báo lỗ",
+      "link": "https://vnexpress.net/chu-trung-tam-trien-lam-lon-nhat-dong-nam-a-bao-lo-5008238.html",
+      "summary": "VEFAC, chủ trung tâm triển lãm quốc gia (VEC), lỗ sau thuế hơn 15 tỷ đồng trong quý IV/2025, trong khi các quý trước đó lãi hàng trăm tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:05:28+07:00",
+      "fetched": "2026-01-21T21:21:32.969768+07:00"
+    },
+    {
+      "id": "8c407b3834cce6852b23d98927d28963",
+      "title": "Chủ trung tâm triển lãm lớn nhất Đông Nam Á báo lỗ",
+      "link": "https://vnexpress.net/chu-trung-tam-trien-lam-lon-nhat-dong-nam-a-bao-lo-5008238.html",
+      "summary": "VEFAC, chủ trung tâm triển lãm quốc gia (VEC), lỗ sau thuế hơn 15 tỷ đồng trong quý IV/2025, trong khi các quý trước đó lãi hàng trăm tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-21T13:05:28+07:00",
+      "fetched": "2026-01-21T21:21:39.167057+07:00"
+    },
+    {
+      "id": "e792821c93102f0997a8ad0057b6a935",
+      "title": "Ông Trump bắt đầu phát biểu tại WEF",
+      "link": "https://vnexpress.net/ong-trump-den-thuy-si-chuan-bi-phat-bieu-tai-wef-5008397.html",
+      "summary": "Tổng thống Trump bắt đầu có bài phát biểu đáng chú ý tại Diễn đàn Kinh tế Thế giới ở Davos, trong bối cảnh vấn đề Greenland nóng lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:05:10+07:00",
+      "fetched": "2026-01-21T21:21:32.969922+07:00"
+    },
+    {
+      "id": "e792821c93102f0997a8ad0057b6a935",
+      "title": "Ông Trump: Châu Âu 'không còn nhận ra nổi'",
+      "link": "https://vnexpress.net/ong-trump-den-thuy-si-chuan-bi-phat-bieu-tai-wef-5008397.html",
+      "summary": "Tổng thống Trump có bài phát biểu đáng chú ý tại Diễn đàn Kinh tế Thế giới ở Davos, chỉ trích mạnh mẽ châu Âu, cho rằng châu lục này \"không thể nhận ra nữa\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-21T13:05:10+07:00",
+      "fetched": "2026-01-21T21:21:38.274529+07:00"
+    },
+    {
+      "id": "d7201751940165d7cc4d5206ec4a06a7",
+      "title": "Lý do chọn Smart TV nhưng xem vẫn không 'đã'",
+      "link": "https://thanhnien.vn/ly-do-chon-smart-tv-nhung-xem-van-khong-da-185260120085903671.htm",
+      "summary": "Khi cân nhắc nâng cấp lên Smart TV, một trong những yếu tố quan trọng nhất mà người dùng cần quan tâm là kích thước của màn hình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:02:00+07:00",
+      "fetched": "2026-01-21T21:21:35.582922+07:00"
+    },
+    {
+      "id": "41c28f2c85ef62dcdb241c73cea7fe5c",
+      "title": "Vì sao thành phố New York có biệt danh 'Big Apple'?",
+      "link": "https://vnexpress.net/vi-sao-thanh-pho-new-york-co-biet-danh-big-apple-5008332.html",
+      "summary": "New York, thành phố du lịch nổi tiếng hàng đầu thế giới, sở hữu nhiều tòa nhà chọc trời, văn hóa đa dạng và những điều bí mật như biệt danh \"Big Apple\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:00:00+07:00",
+      "fetched": "2026-01-21T21:21:32.970098+07:00"
+    },
+    {
+      "id": "3da1e5eb6a9feb4b1b3dc042cd836bcd",
+      "title": "PNJ ra mắt loạt thiết kế vàng trải nghiệm theo phong cách Gen Z",
+      "link": "https://vnexpress.net/pnj-ra-mat-loat-thiet-ke-vang-trai-nghiem-theo-phong-cach-gen-z-5008356.html",
+      "summary": "PNJ ra mắt loạt thiết kế vàng 99,99% mang tinh thần hành động cùng nhiều trải nghiệm theo thị hiếu giới trẻ như \"túi mù\" hay vàng mini với ý nghĩa tích tiểu thành đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:00:00+07:00",
+      "fetched": "2026-01-21T21:21:32.970259+07:00"
+    },
+    {
+      "id": "7c8f996c206fb445294e5a427c0511ed",
+      "title": "Xem nhanh 20h ngày 21.1: Không lực Một chở ông Trump phải quay đầu về Mỹ | Bài toán khó cho hàng thủ U.23 Việt Nam",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-211-khong-luc-mot-cho-ong-trump-phai-quay-dau-ve-my-bai-toan-kho-cho-hang-thu-u23-viet-nam-185260121193639123.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 21.1 có nhiều tin tức đáng chú ý về: TP.HCM yêu cầu không tặng quà tết lãnh đạo; khi nào bão mặt trời mạnh nhất 20 năm đổ bộ;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:00:00+07:00",
+      "fetched": "2026-01-21T21:21:35.583093+07:00"
+    },
+    {
+      "id": "1288575597febba3f51b623f7ff7c3a7",
+      "title": "Đang hát karaoke, bị đặc vụ Mỹ bắt đẩy ra trời tuyết vì tưởng nhập cư lậu",
+      "link": "https://thanhnien.vn/dang-hat-karaoke-bi-dac-vu-my-bat-day-ra-troi-tuyet-vi-tuong-nhap-cu-lau-18526012118201595.htm",
+      "summary": "Các đặc vụ Mỹ đã xông vào nhà và bắt một người đàn ông tại bang Minnesota trong khi người này chỉ mặc chiếc quần đùi giữa trời lạnh âm độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:00:00+07:00",
+      "fetched": "2026-01-21T21:21:35.583243+07:00"
+    },
+    {
+      "id": "6b4254dba64507249f09af2c746537e8",
+      "title": "Vàng trải nghiệm độc - lạ ‘khuấy đảo’ thị trường tết 2026",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vang-trai-nghiem-doc-la-khuay-dao-thi-truong-tet-2026-18526012115502035.htm",
+      "summary": "Tết 2026, thị trường ghi nhận sự xuất hiện của nhiều sản phẩm vàng trải nghiệm 99,99%. Không chỉ là tài sản tích lũy, dòng sản phẩm này còn mang đến trải nghiệm mới lạ với đa dạng thiết kế mang biểu tượng may mắn và khả năng ứng dụng linh hoạt, trở thành người bạn đồng hành trong năm mới",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:00:00+07:00",
+      "fetched": "2026-01-21T21:21:35.583402+07:00"
+    },
+    {
+      "id": "ccb7ad54d481ad80545d782b1b7afc7c",
+      "title": "Sao chổi nào đẹp nhất 2026?: Tối nay 21.1 hãy khám phá sự thật thú vị",
+      "link": "https://thanhnien.vn/sao-choi-nao-dep-nhat-2026-toi-nay-211-hay-kham-pha-su-that-thu-vi-18526012109272516.htm",
+      "summary": "Một sao chổi trên bầu trời vừa tiến đến gần mặt trời nhất ngày 20.1. Liệu nó có phải là sao chổi đẹp nhất năm mà người Việt có thể nhìn thấy?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T13:00:00+07:00",
+      "fetched": "2026-01-21T21:21:35.583560+07:00"
+    },
+    {
+      "id": "40708714af128d0c1f438bf1b1aeef8d",
+      "title": "Anh Tú Atus đóng cặp người đẹp 18 tuổi",
+      "link": "https://vnexpress.net/anh-tu-atus-dong-cap-nguoi-dep-18-tuoi-5008181.html",
+      "summary": "Anh Tú Atus, 33 tuổi, cùng người đẹp Minh Anh đóng trong \"Nhà ba tôi một phòng\" - phim Tết Bính Ngọ do Trường Giang đạo diễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:54:48+07:00",
+      "fetched": "2026-01-21T21:21:32.970413+07:00"
+    },
+    {
+      "id": "2845ae257a188685834478cd8ad3c768",
+      "title": "Việt Nam đại chiến Malaysia trên sân Thiên Trường",
+      "link": "https://vnexpress.net/viet-nam-dai-chien-malaysia-tren-san-thien-truong-5008398.html",
+      "summary": "Liên đoàn bóng đá Việt Nam chọn sân Thiên Trường là nơi tổ chức trận lượt về giữa Việt Nam và Malaysia ở bảng F vòng loại Asian Cup 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:50:20+07:00",
+      "fetched": "2026-01-21T21:21:32.970567+07:00"
+    },
+    {
+      "id": "2845ae257a188685834478cd8ad3c768",
+      "title": "Việt Nam đại chiến Malaysia trên sân Thiên Trường",
+      "link": "https://vnexpress.net/viet-nam-dai-chien-malaysia-tren-san-thien-truong-5008398.html",
+      "summary": "Liên đoàn bóng đá Việt Nam chọn sân Thiên Trường là nơi tổ chức trận lượt về giữa Việt Nam và Malaysia ở bảng F vòng loại Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-21T12:50:20+07:00",
+      "fetched": "2026-01-21T21:21:42.879444+07:00"
+    },
+    {
+      "id": "34cec1a28c6aaf44303a61ee8f551838",
+      "title": "Sacombank sắp bầu 4 người vào Hội đồng quản trị",
+      "link": "https://vnexpress.net/sacombank-sap-bau-4-nguoi-vao-hoi-dong-quan-tri-5008400.html",
+      "summary": "Sacombank dự kiến bầu 4 thành viên Hội đồng quản trị (HĐQT), trong đó một thành viên độc lập, cho thời gian còn lại của nhiệm kỳ 2022-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:47:11+07:00",
+      "fetched": "2026-01-21T21:21:32.970734+07:00"
+    },
+    {
+      "id": "34cec1a28c6aaf44303a61ee8f551838",
+      "title": "Sacombank sắp bầu 4 người vào Hội đồng quản trị",
+      "link": "https://vnexpress.net/sacombank-sap-bau-4-nguoi-vao-hoi-dong-quan-tri-5008400.html",
+      "summary": "Sacombank dự kiến bầu 4 thành viên Hội đồng quản trị (HĐQT), trong đó một thành viên độc lập, cho thời gian còn lại của nhiệm kỳ 2022-2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-21T12:47:11+07:00",
+      "fetched": "2026-01-21T21:21:39.167229+07:00"
+    },
+    {
+      "id": "487202c7a2c224573e3cde29d49dbf04",
+      "title": "Bầu Đức thưởng 3 tỷ đồng nếu Việt Nam thắng Hàn Quốc ở U23 châu Á",
+      "link": "https://vnexpress.net/bau-duc-thuong-3-ty-dong-neu-viet-nam-thang-han-quoc-o-u23-chau-a-5008395.html",
+      "summary": "Ông chủ CLB HAGL muốn vực dậy tinh thần của thầy trò Kim Sang-sik nên treo thưởng tổng cộng 3 tỷ đồng nếu đánh bại Hàn Quốc trong trận tranh giải ba ở U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:46:30+07:00",
+      "fetched": "2026-01-21T21:21:32.970886+07:00"
+    },
+    {
+      "id": "487202c7a2c224573e3cde29d49dbf04",
+      "title": "Bầu Đức thưởng 3 tỷ đồng nếu Việt Nam thắng Hàn Quốc ở U23 châu Á",
+      "link": "https://vnexpress.net/bau-duc-thuong-3-ty-dong-neu-viet-nam-thang-han-quoc-o-u23-chau-a-5008395.html",
+      "summary": "Ông chủ CLB HAGL muốn vực dậy tinh thần của thầy trò Kim Sang-sik nên treo thưởng tổng cộng 3 tỷ đồng nếu đánh bại Hàn Quốc trong trận tranh giải ba ở U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-21T12:46:30+07:00",
+      "fetched": "2026-01-21T21:21:42.879625+07:00"
+    },
+    {
+      "id": "7f3efcf86169ed889729fb0b28bb46e4",
+      "title": "U.23 Việt Nam đừng ‘gặm nhấm’ nỗi buồn quá lâu, hãy lại tỏa sáng trước khi chia tay U.23 châu Á",
+      "link": "https://thanhnien.vn/u23-viet-nam-dung-gam-nham-noi-buon-qua-lau-hay-lai-toa-sang-truoc-khi-chia-tay-u23-chau-a-185260121153158586.htm",
+      "summary": "U.23 Việt Nam không thể viết tiếp kỳ tích Thường Châu tại vòng chung kết giải U.23 châu Á năm 2026, nhưng với những gì đã thể hiện xuyên suốt 5 trận đã qua, thầy trò HLV Kim Sang-sik vẫn đáng nhận nhiều lời khen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:45:00+07:00",
+      "fetched": "2026-01-21T21:21:35.583709+07:00"
+    },
+    {
+      "id": "79079566813add33816caef61e6a1fe8",
+      "title": "Cung thủ xinh đẹp Ánh Nguyệt về chung mái nhà với sao cầu lông Lê Đức Phát",
+      "link": "https://thanhnien.vn/cung-thu-xinh-dep-anh-nguyet-ve-chung-mai-nha-voi-sao-cau-long-le-duc-phat-185260121193904053.htm",
+      "summary": "Cung thủ Đỗ Thị Ánh Nguyệt cùng tuyển thủ cầu lông Lê Đức Phát công bố lịch trình tổ chức đám cưới, về chung mái nhà sau thời gian yêu nhau, tạo nên mối tình đẹp trong làng  thể thao Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:44:00+07:00",
+      "fetched": "2026-01-21T21:21:35.583863+07:00"
+    },
+    {
+      "id": "ffbb57a7372b3ea1146763ec47dce69c",
+      "title": "Bệnh nhân xuất huyết não phải, bác sĩ mổ nhầm não trái",
+      "link": "https://vnexpress.net/benh-nhan-xuat-huyet-nao-phai-bac-si-mo-nham-nao-trai-5008269.html",
+      "summary": "Bệnh viện Trung tâm Bao Đầu khoan nhầm hộp sọ bên trái của bệnh nhân xuất huyết não phải, sau đó thừa nhận sai sót nhưng từ chối bồi thường khoản tiền 10,5 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:42:19+07:00",
+      "fetched": "2026-01-21T21:21:32.971065+07:00"
+    },
+    {
+      "id": "eba7cd2b34173d2291788ac5db165ad8",
+      "title": "Hàng trăm nhân viên công nghệ Mỹ yêu cầu sếp 'gọi cho Nhà Trắng' vì ICE",
+      "link": "https://vnexpress.net/hang-tram-nhan-vien-cong-nghe-my-yeu-cau-sep-goi-cho-nha-trang-vi-ice-5008331.html",
+      "summary": "Hàng trăm nhân viên tại các tập đoàn công nghệ lớn của Mỹ kiến nghị các CEO gây áp lực lên Tổng thống Trump để rút các đặc vụ ICE trong chiến dịch truy quét nhập cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:42:14+07:00",
+      "fetched": "2026-01-21T21:21:32.971227+07:00"
+    },
+    {
+      "id": "eba7cd2b34173d2291788ac5db165ad8",
+      "title": "Hàng trăm nhân viên công nghệ Mỹ yêu cầu sếp 'gọi cho Nhà Trắng' vì ICE",
+      "link": "https://vnexpress.net/hang-tram-nhan-vien-cong-nghe-my-yeu-cau-sep-goi-cho-nha-trang-vi-ice-5008331.html",
+      "summary": "Hàng trăm nhân viên tại các tập đoàn công nghệ lớn của Mỹ kiến nghị các CEO gây áp lực lên Tổng thống Trump để rút các đặc vụ ICE trong chiến dịch truy quét nhập cư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-21T12:42:14+07:00",
+      "fetched": "2026-01-21T21:21:38.274701+07:00"
+    },
+    {
+      "id": "816d70ce2505950955464ad34d48eae6",
+      "title": "Highlight ĐH Trà Vinh (TVU) 2-1 ĐH Cửu Long (UCL): Bản lĩnh 'ông kẹ bóng đá miền Tây'",
+      "link": "https://thanhnien.vn/highlight-dh-tra-vinh-tvu-2-1-dh-cuu-long-ucl-ban-linh-ong-ke-bong-da-mien-tay-185260121181933159.htm",
+      "summary": "ĐH Trà Vinh (TVU) giành chiến thắng 2-1 trước Trường ĐH Cửu Long (UCL) để bỏ túi 3 điểm quan trọng, duy trì nhịp bám đuổi trên bảng xếp hạng. Chiến thắng này giúp TVU rộng cửa trong cuộc đua giành vé vào vòng tiếp theo, đồng thời tạo đà cho màn chạm trán được chờ đợi với chủ nhà Trường ĐH Đồng Tháp ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:40:00+07:00",
+      "fetched": "2026-01-21T21:21:35.584033+07:00"
+    },
+    {
+      "id": "b723094f977bc472bc21bf3c11cf989a",
+      "title": "Nam sinh chuyên Lam Sơn giành ngôi thủ khoa Vật lý quốc gia",
+      "link": "https://vnexpress.net/nam-sinh-chuyen-lam-son-gianh-ngoi-thu-khoa-vat-ly-quoc-gia-5008272.html",
+      "summary": "Lê Duy Khánh, thủ khoa học sinh giỏi quốc gia môn Lý, được đánh giá \"có phẩm chất đặc biệt\" khi tự phát triển được các dạng mới từ bài tập gốc và tìm cách giải khác nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:35:55+07:00",
+      "fetched": "2026-01-21T21:21:32.971375+07:00"
+    },
+    {
+      "id": "cb01004000e2a929a0a974fbae1dd26e",
+      "title": "Trường ĐH Công nghệ thông tin TP.HCM lần đầu tiên triển khai dự án đồng đào tạo",
+      "link": "https://thanhnien.vn/truong-dh-cong-nghe-thong-tin-tphcm-lan-dau-tien-trien-khai-du-an-dong-dao-tao-185260121183752368.htm",
+      "summary": "Lần đầu tiên Trường ĐH Công nghệ thông tin TP.HCM triển khai môn học như một dự án đồng đào tạo, với sự tham gia của cả trường ĐH và doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:33:00+07:00",
+      "fetched": "2026-01-21T21:21:35.584185+07:00"
+    },
+    {
+      "id": "054d82dfcf94a227fdb6d335c0c9ed7f",
+      "title": "Rà soát việc cấp thuốc ngoại trú trên 30 ngày cho người có thẻ BHYT",
+      "link": "https://thanhnien.vn/ra-soat-viec-cap-thuoc-ngoai-tru-tren-30-ngay-cho-nguoi-co-the-bhyt-185260121181138653.htm",
+      "summary": "Từ ngày 1.7.2025, việc kê đơn và cấp thuốc ngoại trú trên 30 ngày đã được cho phép đối với 252 bệnh lý. Tuy nhiên, không ít người bệnh đến nay vẫn phải đi lại nhiều lần, thời gian chờ đợi kéo dài, ảnh hưởng đến quá trình điều trị, đặc biệt là đối với người cao tuổi, người có sức khỏe yếu hoặc mắc bệ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:31:00+07:00",
+      "fetched": "2026-01-21T21:21:35.584332+07:00"
+    },
+    {
+      "id": "63fb84774a23aef9851fa23afe6f802c",
+      "title": "Nga muốn Mỹ làm rõ về 'vũ khí bí mật' trong cuộc đột kích ở Venezuela",
+      "link": "https://vnexpress.net/nga-muon-my-lam-ro-ve-vu-khi-bi-mat-trong-cuoc-dot-kich-o-venezuela-5008389.html",
+      "summary": "Nga muốn Mỹ cung cấp thêm thông tin sau khi Tổng thống Trump đề cập việc Washington sở hữu \"vũ khí sóng âm bí mật\" và đã dùng trong chiến dịch ở Venezuela.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:25:56+07:00",
+      "fetched": "2026-01-21T21:21:32.971523+07:00"
+    },
+    {
+      "id": "63fb84774a23aef9851fa23afe6f802c",
+      "title": "Nga muốn Mỹ làm rõ về 'vũ khí bí mật' trong cuộc đột kích ở Venezuela",
+      "link": "https://vnexpress.net/nga-muon-my-lam-ro-ve-vu-khi-bi-mat-trong-cuoc-dot-kich-o-venezuela-5008389.html",
+      "summary": "Nga muốn Mỹ cung cấp thêm thông tin sau khi Tổng thống Trump đề cập việc Washington sở hữu \"vũ khí sóng âm bí mật\" và đã dùng trong chiến dịch ở Venezuela.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-21T12:25:56+07:00",
+      "fetched": "2026-01-21T21:21:38.274861+07:00"
     },
     {
       "id": "2c6e59222eed4e0a91f7ab6aad4c7675",
