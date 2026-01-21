@@ -1,6 +1,6 @@
 window.newsData_2026_01_22 = {
   "date": "2026-01-22",
-  "lastUpdated": "2026-01-22T03:21:34.246991+07:00",
+  "lastUpdated": "2026-01-22T05:16:16.788145+07:00",
   "articles": [
     {
       "id": "ce0424202575ba7e9c219adb99163bb0",
@@ -151,6 +151,86 @@ window.newsData_2026_01_22 = {
       "category": "Tổng hợp",
       "published": "2026-01-22T01:31:40.417081+07:00",
       "fetched": "2026-01-22T01:31:40.417295+07:00"
+    },
+    {
+      "id": "f54b48821fb48bf6996330f350a5239f",
+      "title": "Tử vi ngày 22 tháng 1: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-22-thang-1-con-giap-nao-may-man-hom-nay-185260121235908511.htm",
+      "summary": "Tử vi ngày 22 tháng 1 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T22:15:00+07:00",
+      "fetched": "2026-01-22T05:16:07.050664+07:00"
+    },
+    {
+      "id": "d0131eea5d7bcc00cec3f4f9eec812a3",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 22.1.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2212026-185260121234328193.htm",
+      "summary": "Tin tức Giải phóng nguồn lực, kiến tạo phát triển đất nước; Tiến đến cứ điểm công nghệ của thế giới; NATO trong hố sâu chia rẽ... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 22.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T22:00:00+07:00",
+      "fetched": "2026-01-22T05:16:07.050862+07:00"
+    },
+    {
+      "id": "b4832c2d71b152fb9f952477c1c71e16",
+      "title": "Syria đạt thỏa thuận ngừng bắn mới",
+      "link": "https://thanhnien.vn/syria-dat-thoa-thuan-ngung-ban-moi-18526012122373715.htm",
+      "summary": "Chính quyền Syria tuyên bố đã đạt thỏa thuận ngừng bắn mới với lực lượng đối lập và lần này có sự ủng hộ của Mỹ trong việc thống nhất quyền lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T22:00:00+07:00",
+      "fetched": "2026-01-22T05:16:07.051069+07:00"
+    },
+    {
+      "id": "a5b415b7d2fddfba94bc9a78a960e2f5",
+      "title": "6 cựu chiến binh kêu oan khi ra tù: Tòa xét xử sơ thẩm lần 3",
+      "link": "https://thanhnien.vn/6-cuu-chien-binh-keu-oan-khi-ra-tu-toa-xet-xu-so-tham-lan-3-185260121152642316.htm",
+      "summary": "Sau 11 năm xảy ra vụ án, nhiều lần trả hồ sơ, ngày 27.1, TAND khu vực 6, tỉnh Lâm Đồng dự kiến mở phiên tòa sơ thẩm lần 3 vụ 6 cựu chiến binh kêu oan về tội hủy hoại rừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T22:00:00+07:00",
+      "fetched": "2026-01-22T05:16:07.051269+07:00"
+    },
+    {
+      "id": "989cfd638350c77a7e51138a9a3a6719",
+      "title": "Nỗi cay đắng của người Đan Mạch với Mỹ",
+      "link": "https://vnexpress.net/noi-cay-dang-cua-nguoi-dan-mach-voi-my-5008048.html",
+      "summary": "Sốc, thất vọng và cay đắng là tâm trạng của nhiều người Đan Mạch khi từng coi Mỹ là đồng minh thân thiết, nhưng nay lại bị chính Washington gây sức ép.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-21T22:00:00+07:00",
+      "fetched": "2026-01-22T05:16:10.715124+07:00"
+    },
+    {
+      "id": "40c69ffc934c4b8ebb2a338b79f96b5b",
+      "title": "Chiến sự Ukraine ngày 1.428: Hơn nửa Kyiv mất điện, hàng trăm ngàn người sơ tán",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1428-hon-nua-kyiv-mat-dien-hang-tram-ngan-nguoi-so-tan-185260121180820057.htm",
+      "summary": "Các đợt tấn công làm tê liệt một nửa nguồn cung dịch vụ thiết yếu cho Kyiv đã đẩy thủ đô Ukraine đến bờ vực khủng hoảng nhân đạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:30:00+07:00",
+      "fetched": "2026-01-22T05:16:07.051427+07:00"
+    },
+    {
+      "id": "037a31d1b52a0416c175981cc1450722",
+      "title": "Nhà ở xã hội phải đến đúng tay người cần",
+      "link": "https://thanhnien.vn/nha-o-xa-hoi-phai-den-dung-tay-nguoi-can-185260121163611259.htm",
+      "summary": "Một khi sản phẩm đã đầy đủ, bạn đọc mong muốn kênh phân phối nhà ở xã hội phải thông thoáng, đến đúng người cần, tránh đầu cơ thổi giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:30:00+07:00",
+      "fetched": "2026-01-22T05:16:07.051583+07:00"
+    },
+    {
+      "id": "f93adf527cabb48836eca4a7b2cd35c1",
+      "title": "Doanh số Kia tụt dốc tại Việt Nam",
+      "link": "https://vnexpress.net/doanh-so-kia-tut-doc-tai-viet-nam-5008258.html",
+      "summary": "Năm 2025, Kia là một trong những thương hiệu giảm doanh số nhiều nhất dù thị trường tăng trưởng 22%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T21:00:00+07:00",
+      "fetched": "2026-01-22T05:16:03.780457+07:00"
     },
     {
       "id": "4555963670f1c66b5be76d50f1b260a4",
