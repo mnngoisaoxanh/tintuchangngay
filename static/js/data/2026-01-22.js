@@ -1,7 +1,17 @@
 window.newsData_2026_01_22 = {
   "date": "2026-01-22",
-  "lastUpdated": "2026-01-22T10:29:42.948667+07:00",
+  "lastUpdated": "2026-01-22T11:40:42.978670+07:00",
   "articles": [
+    {
+      "id": "4352aa95a51fc80338c7aaec021d8a04",
+      "title": "Xe cũ nát bỗng hot toàn mạng: Gần như gãy đôi vẫn chạy suốt 25 năm, cái kết ấm lòng người",
+      "link": "https://tuoitre.vn/xe-cu-nat-bong-hot-toan-mang-gan-nhu-gay-doi-van-chay-suot-25-nam-cai-ket-am-long-nguoi-20260122091027301.htm",
+      "summary": "Từ một chiếc xe cũ méo mó bị chế giễu trên mạng xã hội, câu chuyện tại bang Indiana (Mỹ) đã rẽ sang hướng đầy nhân văn khi hàng trăm người xa lạ góp tiền giúp chủ xe đổi sang chiếc xe an toàn hơn để đi làm và chữa bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T11:40:35.425096+07:00",
+      "fetched": "2026-01-22T11:40:35.425307+07:00"
+    },
     {
       "id": "7ce506263f8690c603dd917cf6147e16",
       "title": "Cúc mâm xôi nở sớm: Người gắng cứu, người nhổ bỏ để 'cắt lỗ'",
@@ -203,6 +213,306 @@ window.newsData_2026_01_22 = {
       "fetched": "2026-01-22T08:03:00.668142+07:00"
     },
     {
+      "id": "0a3490ca4623d4561d879938ff518244",
+      "title": "Khách Việt thích đi Phú Quốc trước tết, đi Đà Lạt xuyên tết",
+      "link": "https://thanhnien.vn/khach-viet-thich-di-phu-quoc-truoc-tet-di-da-lat-xuyen-tet-185260121170306439.htm",
+      "summary": "Dữ liệu tìm kiếm từ Booking.com cho thấy du khách Việt ưu tiên Phú Quốc trước Tết Nguyên đán, Đà Lạt trong cao điểm tết, đồng thời mở rộng hành trình ra nhiều điểm đến quốc tế trong kỳ nghỉ Tết Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T04:37:00+07:00",
+      "fetched": "2026-01-22T11:40:34.275770+07:00"
+    },
+    {
+      "id": "c1e24f7e7756ac6bc43984241d673e1c",
+      "title": "Vợ chồng ông Clinton đối mặt tội danh khinh thường quốc hội về vụ Epstein",
+      "link": "https://thanhnien.vn/vo-chong-ong-clinton-doi-mat-toi-danh-khinh-thuong-quoc-hoi-ve-vu-epstein-185260122105945139.htm",
+      "summary": "Ủy ban Giám sát Hạ viện Mỹ hôm 21.1 đã đề nghị buộc tội khinh thường quốc hội đối với cựu Tổng thống Mỹ Bill Clinton và cựu Ngoại trưởng Hillary Clinton vì từ chối làm chứng về mối liên hệ với tỉ phú ấu dâm Jeffrey Epstein.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T04:35:00+07:00",
+      "fetched": "2026-01-22T11:40:34.275941+07:00"
+    },
+    {
+      "id": "754e86f17d567852a8f19afb337cf7dc",
+      "title": "Chủ quản công viên Đầm Sen lỗ nặng nhất 4 năm",
+      "link": "https://vnexpress.net/chu-quan-cong-vien-dam-sen-lo-nang-nhat-4-nam-5008621.html",
+      "summary": "Doanh thu giảm, giá vốn cao khiến Phú Thọ Tourist - chủ quản công viên Đầm Sen - lỗ hơn 55 tỷ đồng năm 2025, nặng nhất 4 năm qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-22T04:32:00+07:00",
+      "fetched": "2026-01-22T11:40:38.346491+07:00"
+    },
+    {
+      "id": "a5e3060e4d69dfa415869f0a4772bdc2",
+      "title": "Kiếm 30 triệu đồng/tháng nhờ nuôi sinh sản gà rừng tai trắng trong điều kiện nuôi nhốt",
+      "link": "https://thanhnien.vn/kiem-30-trieu-dong-thang-nho-nuoi-sinh-san-ga-rung-tai-trang-trong-dieu-kien-nuoi-nhot-185260121135808455.htm",
+      "summary": "Bắt đầu từ việc nuôi sinh sản gà rừng tai trắng trong điều kiện nuôi nhốt, sử dụng nguồn giống hợp pháp, một chàng trai đã từng bước hoàn thiện mô hình theo đúng quy định, qua đó tạo nguồn thu nhập ổn định tại quê nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T04:31:00+07:00",
+      "fetched": "2026-01-22T11:40:34.276098+07:00"
+    },
+    {
+      "id": "fc65112f6e2a97b2c4d6e75852790829",
+      "title": "Sự khác biệt giữa cáp LAN và Ethernet",
+      "link": "https://thanhnien.vn/su-khac-biet-giua-cap-lan-va-ethernet-185260121090226252.htm",
+      "summary": "Việc hiểu đúng sự khác biệt giữa LAN và Ethernet giúp người dùng tránh mua nhầm cáp và cải thiện chất lượng kết nối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T04:28:00+07:00",
+      "fetched": "2026-01-22T11:40:34.276252+07:00"
+    },
+    {
+      "id": "99141223d7342a9b659a6851f2db45d5",
+      "title": "Trụ sở Rockstar Games cháy nổ, GTA 6 lại dời lịch phát hành?",
+      "link": "https://thanhnien.vn/tru-so-rockstar-games-chay-no-gta-6-lai-doi-lich-phat-hanh-185260122101105326.htm",
+      "summary": "Đã có vụ nổ lớn tại trung tâm phát triển Rockstar Games, liệu số phận siêu phẩm GTA 6 sẽ ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T04:24:00+07:00",
+      "fetched": "2026-01-22T11:40:34.276404+07:00"
+    },
+    {
+      "id": "e18290c611679a40b6cca241807ef665",
+      "title": "Người hâm mộ võ thuật MMA tại Việt Nam nhận tin vui từ UFC và FPT Play",
+      "link": "https://thanhnien.vn/nguoi-ham-mo-vo-thuat-mma-tai-viet-nam-nhan-tin-vui-tu-ufc-va-fpt-play-185260122112234831.htm",
+      "summary": "UFC - tổ chức võ thuật tổng hợp (MMA) hàng đầu thế giới cùng FPT Play hợp tác phát sóng độc quyền các sự kiện UFC tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T04:23:00+07:00",
+      "fetched": "2026-01-22T11:40:34.276576+07:00"
+    },
+    {
+      "id": "283f866d0e877a0ddbcaf47934fa7fcf",
+      "title": "Vì sao Việt Nam thua dễ Trung Quốc ở bán kết U23 châu Á 2026?",
+      "link": "https://vnexpress.net/vi-sao-viet-nam-thua-de-trung-quoc-o-ban-ket-u23-chau-a-2026-5008504.html",
+      "summary": "Thế trận tổ chức gây áp lực thận trọng của thầy trò Kim Sang-sik gián tiếp giúp Trung Quốc kiểm soát cục diện rồi thắng 0-3 ở bán kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-22T04:22:17+07:00",
+      "fetched": "2026-01-22T11:40:42.971013+07:00"
+    },
+    {
+      "id": "e77df0f7961e385b9505b895bc484b04",
+      "title": "Mối hiềm khích giữa Sinner và tay vợt chủ nhà Australia",
+      "link": "https://vnexpress.net/moi-hiem-khich-giua-sinner-va-tay-vot-chu-nha-australia-5008609.html",
+      "summary": "Hạt giống số hai Jannik Sinner sẽ đấu đối thủ James Duckworth ở vòng hai Australia Mở rộng năm nay, làm dấy lên ký ức về mâu thuẫn trong quá khứ giữa họ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-22T04:19:50+07:00",
+      "fetched": "2026-01-22T11:40:42.971209+07:00"
+    },
+    {
+      "id": "c3b1cbb4c947c1c94266906c57719ccb",
+      "title": "Miền Bắc rét đậm rét hại cả ngày lẫn đêm, khi nào nắng ấm?",
+      "link": "https://thanhnien.vn/mien-bac-ret-dam-ret-hai-ca-ngay-lan-dem-khi-nao-nang-am-185260122104403458.htm",
+      "summary": "Thời tiết miền Bắc rét đậm, rét hại cả ngày lẫn đêm. Sáng nay 22.1, khu vực Mẫu Sơn (tỉnh Lạng Sơn) có băng giá khi nhiệt độ ở đây giảm xuống còn 0,2 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T04:16:00+07:00",
+      "fetched": "2026-01-22T11:40:34.276725+07:00"
+    },
+    {
+      "id": "cc435a3e060c13a653a759765f375fff",
+      "title": "Báo Malaysia đồng loạt báo tin vui cho đội tuyển Việt Nam, sắp được AFC xử thắng 3-0",
+      "link": "https://thanhnien.vn/bao-malaysia-dong-loat-bao-tin-vui-cho-doi-tuyen-viet-nam-sap-duoc-afc-xu-thang-3-0-185260122110307876.htm",
+      "summary": "New Straits Times và Berita Harian trong các thông tin gần đây liên quan đến vụ bê bối của FAM nhập tịch 'lậu' 7 cầu thủ cho đội tuyển Malaysia đều xác nhận, AFC sắp xử phạt và trao chiến thắng cho đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T04:15:00+07:00",
+      "fetched": "2026-01-22T11:40:34.276882+07:00"
+    },
+    {
+      "id": "3a172c5d7e44da137b1086b0cc4090f6",
+      "title": "Nga nói Đan Mạch dọa thu hồi đất của đại sứ quán",
+      "link": "https://vnexpress.net/nga-noi-dan-mach-doa-thu-hoi-dat-cua-dai-su-quan-5008591.html",
+      "summary": "Đại sứ Nga cho biết Đan Mạch đe dọa thu hồi khu đất đặt trụ sở đại sứ quán Nga, khi Copenhagen và Moskva \"đối đầu ngày càng gay gắt\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-22T04:13:04+07:00",
+      "fetched": "2026-01-22T11:40:37.248203+07:00"
+    },
+    {
+      "id": "539e1c7e0c7a45721ddb3ead4c0ad929",
+      "title": "Hoa nở sớm, người trồng rơi nước mắt: Clip 'triệu view' cứu vườn hoa Chợ Lách",
+      "link": "https://thanhnien.vn/hoa-no-som-nguoi-trong-roi-nuoc-mat-clip-trieu-view-cuu-vuon-hoa-cho-lach-185260122110715823.htm",
+      "summary": "Những clip 'triệu view' lan tỏa từ Chợ Lách, tỉnh Vĩnh Long (Bến Tre cũ) đã giúp hàng ngàn chậu cúc mâm xôi nở sớm trước Tết Bính Ngọ tìm được người mua, giải cứu cho người nông dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T04:10:00+07:00",
+      "fetched": "2026-01-22T11:40:34.277035+07:00"
+    },
+    {
+      "id": "3646210a595c2e571dff2f18ca745ad3",
+      "title": "Xem nhanh 12h: Danh sách xe máy bị phạt nguội vì đi trên vỉa hè | Clip 'triệu view' cứu vườn hoa Chợ Lách",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-danh-sach-xe-may-bi-phat-nguoi-vi-di-tren-via-he-clip-trieu-view-cuu-vuon-hoa-cho-lach-185260122110156522.htm",
+      "summary": "Ô tô bốc cháy trên cầu, xử lý lấn chiếm vỉa hè, truy thu thuế khoán… sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 22.1.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T04:02:00+07:00",
+      "fetched": "2026-01-22T11:40:34.277190+07:00"
+    },
+    {
+      "id": "60c46bc85f1beb89c8a5ca5ecfa309c4",
+      "title": "Vẻ đẹp của chân dung người lính trong ‘Bước chân tháng năm’",
+      "link": "https://thanhnien.vn/ve-dep-cua-chan-dung-nguoi-linh-trong-buoc-chan-thang-nam-185260122100648068.htm",
+      "summary": "NXB Hội Nhà văn vừa cho ra mắt tập thơ 'Bước chân tháng năm' của nhà thơ - đại tá bộ đội biên phòng Trần Quang Khánh. Tập thơ ra đời đúng vào dịp anh được kết nạp làm hội viên Hội Nhà văn Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T04:00:00+07:00",
+      "fetched": "2026-01-22T11:40:34.277342+07:00"
+    },
+    {
+      "id": "395d40deb9e369530aab32ae34ed6665",
+      "title": "'Tàu sân bay không thể chìm' ở Ấn Độ Dương khiến ông Trump bất bình với Anh",
+      "link": "https://vnexpress.net/tau-san-bay-khong-the-chim-o-an-do-duong-khien-ong-trump-bat-binh-voi-anh-5008255.html",
+      "summary": "Ông Trump tức giận khi Anh \"trao không\" Quần đảo Chagos, nơi có căn cứ quân sự được ví như \"tàu sân bay không thể chìm\" của Mỹ ở Ấn Độ Dương, cho Mauritius.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-22T03:53:27+07:00",
+      "fetched": "2026-01-22T11:40:37.248379+07:00"
+    },
+    {
+      "id": "3a71e0cbab40c52475406f529ddd756d",
+      "title": "Ôtô lấn làn đâm xe đi đúng chiều: tình huống đơn giản trở nên phức tạp",
+      "link": "https://vnexpress.net/oto-lan-lan-dam-xe-di-dung-chieu-tinh-huong-don-gian-tro-nen-phuc-tap-5008506.html",
+      "summary": "Lái xe có gắn camera hành trình nhìn thấy xe con vượt qua xe tải, lớn lấn làn nhưng không kịp tránh, hôm 20/1 tại QL27, Xuân Tiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:50:38+07:00",
+      "fetched": "2026-01-22T11:40:30.863338+07:00"
+    },
+    {
+      "id": "7f287eee4447f1fbea55c57171fb9731",
+      "title": "DeepSeek được chờ đợi 'tái xuất' sau một năm gây sốt toàn cầu",
+      "link": "https://vnexpress.net/deepseek-duoc-cho-doi-tai-xuat-sau-mot-nam-gay-sot-toan-cau-5008344.html",
+      "summary": "Tròn một năm bùng nổ với mô hình huấn luyện chi phí thấp R1 và V3, DeepSeek được giới công nghệ chờ đợi sẽ gây sốt trở lại với các công bố mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:49:14+07:00",
+      "fetched": "2026-01-22T11:40:30.863556+07:00"
+    },
+    {
+      "id": "7f287eee4447f1fbea55c57171fb9731",
+      "title": "DeepSeek được chờ đợi 'tái xuất' sau một năm gây sốt toàn cầu",
+      "link": "https://vnexpress.net/deepseek-duoc-cho-doi-tai-xuat-sau-mot-nam-gay-sot-toan-cau-5008344.html",
+      "summary": "Tròn một năm bùng nổ với mô hình huấn luyện chi phí thấp R1 và V3, DeepSeek được giới công nghệ chờ đợi sẽ gây sốt trở lại với các công bố mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-22T03:49:14+07:00",
+      "fetched": "2026-01-22T11:40:41.877182+07:00"
+    },
+    {
+      "id": "39513137eced735e095e9072eadce8f3",
+      "title": "'Long Châu sẻ chia 2026' mở rộng chuỗi chương trình tầm soát đột quỵ, nâng cao nhận thức cộng đồng",
+      "link": "https://thanhnien.vn/long-chau-se-chia-2026-mo-rong-chuoi-chuong-trinh-tam-soat-dot-quy-nang-cao-nhan-thuc-cong-dong-18526012211010498.htm",
+      "summary": "Vừa qua, Long Châu chính thức khởi động 'Hành trình sức khỏe - Chủ động phòng chống đột quỵ vì một Việt Nam khỏe mạnh' năm 2026. Chương trình mở rộng chuỗi hoạt động tầm soát, dự phòng sức khỏe cho người dân khó khăn trên cả nước, hướng đến giảm thiểu gánh nặng đột quỵ và xây dựng nền tảng sống khỏe...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:48:00+07:00",
+      "fetched": "2026-01-22T11:40:34.277523+07:00"
+    },
+    {
+      "id": "18f5c80e4f82e3eb0c12f34d24a7682e",
+      "title": "Lịch thi đấu mới nhất, kênh phát U.23 Việt Nam - U.23 Hàn Quốc: Cuộc chiến cuối cùng",
+      "link": "https://thanhnien.vn/lich-thi-dau-moi-nhat-kenh-phat-u23-viet-nam-u23-han-quoc-cuoc-chien-cuoi-cung-185260122101345399.htm",
+      "summary": "U.23 Việt Nam sẽ bước vào trận đấu cuối cùng ở giải U.23 châu Á 2026 gặp U.23 Hàn Quốc vào tối 23.1 (theo giờ Việt Nam). Thầy trò HLV Kim Sang-sik sẽ quyết đấu cho vị trí hạng ba, khép lại hành trình đáng nhớ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:48:00+07:00",
+      "fetched": "2026-01-22T11:40:34.277675+07:00"
+    },
+    {
+      "id": "26af01ef4f264954a059683da0e59ccb",
+      "title": "Bộ trưởng Tài chính Đức cảnh báo về thỏa thuận Greenland",
+      "link": "https://vnexpress.net/bo-truong-tai-chinh-duc-canh-bao-ve-thoa-thuan-greenland-5008576.html",
+      "summary": "Ông Lars Klingbeil cho rằng các bên không nên kỳ vọng quá sớm dù ông Trump nói đã đạt thỏa thuận Greenland và rút đe dọa áp thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:47:04+07:00",
+      "fetched": "2026-01-22T11:40:30.863722+07:00"
+    },
+    {
+      "id": "26af01ef4f264954a059683da0e59ccb",
+      "title": "Bộ trưởng Tài chính Đức cảnh báo về thỏa thuận Greenland",
+      "link": "https://vnexpress.net/bo-truong-tai-chinh-duc-canh-bao-ve-thoa-thuan-greenland-5008576.html",
+      "summary": "Ông Lars Klingbeil cho rằng các bên không nên kỳ vọng quá sớm dù ông Trump nói đã đạt thỏa thuận Greenland và rút đe dọa áp thuế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-22T03:47:04+07:00",
+      "fetched": "2026-01-22T11:40:38.346671+07:00"
+    },
+    {
+      "id": "c7c94dda10a33b577d9e380dee95cb8a",
+      "title": "Đại hội XIV tiến hành công tác nhân sự",
+      "link": "https://vnexpress.net/dai-hoi-xiv-tien-hanh-cong-tac-nhan-su-5008608.html",
+      "summary": "Sáng 22/1, Đại hội đại biểu toàn quốc lần thứ XIV của Đảng bước vào ngày làm việc thứ 4, tiến hành công tác nhân sự bầu Ban Chấp hành Trung ương khóa mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:44:43+07:00",
+      "fetched": "2026-01-22T11:40:30.863886+07:00"
+    },
+    {
+      "id": "3cb5b9b0cd2dd71747d853347e57d5f6",
+      "title": "Khi đại đoàn kết được kể bằng 'mít non - cá chuồn'",
+      "link": "https://thanhnien.vn/khi-dai-doan-ket-duoc-ke-bang-mit-non-ca-chuon-185260122095319051.htm",
+      "summary": "Sau khi công chiếu, hệ thống rating của Đài Truyền hình Việt Nam (VTV) ghi nhận lượng người xem 'khủng', lên đến gần 7 triệu lượt xem, dành cho phim tài liệu 'Mít non - cá chuồn'. Một chỉ số trong mơ đối với phim tài liệu phục vụ nhiệm vụ chính trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:41:00+07:00",
+      "fetched": "2026-01-22T11:40:34.277822+07:00"
+    },
+    {
+      "id": "8d15c5c547a93c74a01ede00477265d4",
+      "title": "Ảnh cưới của Á hậu Phương Nhi và thiếu gia Phạm Nhật Minh Hoàng",
+      "link": "https://thanhnien.vn/anh-cuoi-cua-a-hau-phuong-nhi-va-ban-trai-thieu-gia-185260122095241992.htm",
+      "summary": "Bộ ảnh cưới mang hai phong cách khác nhau của Á hậu Phương Nhi và doanh nhân Phạm Nhật Minh Hoàng nhanh chóng trở thành tâm điểm chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:41:00+07:00",
+      "fetched": "2026-01-22T11:40:34.277968+07:00"
+    },
+    {
+      "id": "f3159358dc9f7cb2b3bc5b6538df1175",
+      "title": "'Nàng Bạch Tuyết' nhận đề cử phim tệ nhất",
+      "link": "https://vnexpress.net/nang-bach-tuyet-nhan-de-cu-phim-te-nhat-5008515.html",
+      "summary": "\"Nàng Bạch Tuyết\" - có Rachel Zegler đóng - dẫn đầu Mâm Xôi Vàng 2026 với sáu đề cử, trong đó có Phim tệ nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:34:09+07:00",
+      "fetched": "2026-01-22T11:40:30.864044+07:00"
+    },
+    {
+      "id": "7512023767e972f27028aeb0d40da96c",
+      "title": "Sao 'Hoàng Phi Hồng': Châu Nhuận Phát tặng tôi cuộc đời mới",
+      "link": "https://vnexpress.net/sao-hoang-phi-hong-chau-nhuan-phat-tang-toi-cuoc-doi-moi-5008261.html",
+      "summary": "Tài tử Hong Kong Trịnh Tắc Sĩ, đóng series \"Hoàng Phi Hồng\", cảm ơn Châu Nhuận Phát giúp cuộc đời ông ý nghĩa hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:31:10+07:00",
+      "fetched": "2026-01-22T11:40:30.864198+07:00"
+    },
+    {
+      "id": "79252a64e3574fa8efc05b271e9b321d",
+      "title": "Người bố chết não 'sống lại' trong mỗi bữa cơm của hai con nhỏ",
+      "link": "https://vnexpress.net/nguoi-bo-chet-nao-song-lai-trong-moi-bua-com-cua-hai-con-nho-5008502.html",
+      "summary": "Gần hai năm sau ngày chồng qua đời, chị Nguyễn Thị Hiền vẫn duy trì thói quen đặt thêm một bộ bát đũa trong mỗi bữa ăn để hai con nhỏ mời bố dùng cơm như khi anh còn sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:30:13+07:00",
+      "fetched": "2026-01-22T11:40:30.864351+07:00"
+    },
+    {
+      "id": "e6d75c0ae135de69f394d5cf226c75f4",
+      "title": "Áo dài Tết 'đánh lừa thị giác' của Thủy Nguyễn",
+      "link": "https://vnexpress.net/ao-dai-tet-danh-lua-thi-giac-cua-thuy-nguyen-5008593.html",
+      "summary": "Nhà thiết kế Thủy Nguyễn ra mắt bộ sưu tập áo dài du xuân với phong cách đánh lừa thị giác, họa tiết ngựa và hoa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:29:54+07:00",
+      "fetched": "2026-01-22T11:40:30.864520+07:00"
+    },
+    {
       "id": "6d299252066cecd7774bb790eee70e6a",
       "title": "Máy tính tê liệt và dính mã độc vì tiện ích chặn quảng cáo trên Chrome",
       "link": "https://thanhnien.vn/may-tinh-te-liet-va-dinh-ma-doc-vi-tien-ich-chan-quang-cao-tren-chrome-185260122095655935.htm",
@@ -213,6 +523,26 @@ window.newsData_2026_01_22 = {
       "fetched": "2026-01-22T10:29:35.889532+07:00"
     },
     {
+      "id": "99080e14a9da191d63a477e97e2cd04a",
+      "title": "Cựu cầu thủ Man Utd: 'Trung Quốc thắng Việt Nam là cú tát vào mặt tôi'",
+      "link": "https://vnexpress.net/cuu-cau-thu-man-utd-trung-quoc-thang-viet-nam-la-cu-tat-vao-mat-toi-5008546.html",
+      "summary": "Sau khi chứng kiến Trung Quốc hạ Việt Nam ở bán kết U23 châu Á 2026, cựu danh thủ Dong Fangzhuo thừa nhận sai lầm khi đánh giá thấp đoàn quân của HLV Antonio Puche Vicente.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:17:39+07:00",
+      "fetched": "2026-01-22T11:40:30.864679+07:00"
+    },
+    {
+      "id": "99080e14a9da191d63a477e97e2cd04a",
+      "title": "Cựu cầu thủ Man Utd: 'Trung Quốc thắng Việt Nam là cú tát vào mặt tôi'",
+      "link": "https://vnexpress.net/cuu-cau-thu-man-utd-trung-quoc-thang-viet-nam-la-cu-tat-vao-mat-toi-5008546.html",
+      "summary": "Sau khi chứng kiến Trung Quốc hạ Việt Nam ở bán kết U23 châu Á 2026, cựu danh thủ Dong Fangzhuo thừa nhận sai lầm khi đánh giá thấp đoàn quân của HLV Antonio Puche Vicente.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-22T03:17:39+07:00",
+      "fetched": "2026-01-22T11:40:42.971374+07:00"
+    },
+    {
       "id": "c59ed4f3abda64b7e40d69261f7f91fe",
       "title": "Bí quyết bất ngờ tăng tuổi thọ và chất lượng sống",
       "link": "https://thanhnien.vn/bi-quyet-bat-ngo-tang-tuoi-tho-va-chat-luong-song-185260122095922391.htm",
@@ -221,6 +551,36 @@ window.newsData_2026_01_22 = {
       "category": "Tổng hợp",
       "published": "2026-01-22T03:13:00+07:00",
       "fetched": "2026-01-22T10:29:35.889700+07:00"
+    },
+    {
+      "id": "e3869cdbc0190f993de69e8c8623f902",
+      "title": "Báo Hàn Quốc: Lỡ chung kết không làm lu mờ sự tiến bộ của U23 Việt Nam",
+      "link": "https://vnexpress.net/bao-han-quoc-lo-chung-ket-khong-lam-lu-mo-su-tien-bo-cua-u23-viet-nam-5008393.html",
+      "summary": "Truyền thông Hàn Quốc đánh giá cao sự tiến bộ của lứa cầu thủ dưới tay HLV Kim Sang-sik, dù dừng bước ở bán kết giải U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:09:11+07:00",
+      "fetched": "2026-01-22T11:40:30.864833+07:00"
+    },
+    {
+      "id": "e3869cdbc0190f993de69e8c8623f902",
+      "title": "Báo Hàn Quốc: Lỡ chung kết không làm lu mờ sự tiến bộ của U23 Việt Nam",
+      "link": "https://vnexpress.net/bao-han-quoc-lo-chung-ket-khong-lam-lu-mo-su-tien-bo-cua-u23-viet-nam-5008393.html",
+      "summary": "Truyền thông Hàn Quốc đánh giá cao sự tiến bộ của lứa cầu thủ dưới tay HLV Kim Sang-sik, dù dừng bước ở bán kết giải U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-22T03:09:11+07:00",
+      "fetched": "2026-01-22T11:40:42.971562+07:00"
+    },
+    {
+      "id": "7565fd47fe8db2d6d42d2511ad3551c6",
+      "title": "Cháy trung tâm mua sắm điện máy, hai mẹ con tử vong",
+      "link": "https://vnexpress.net/chay-trung-tam-mua-sam-dien-may-hai-me-con-tu-vong-5008589.html",
+      "summary": "Lửa bùng lên ở trung tâm mua sắm điện máy kết hợp nhà ở trên đường Hoàng Diệu, khiến hai mẹ con tử vong, người chồng bị thương, sáng 22/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:06:32+07:00",
+      "fetched": "2026-01-22T11:40:30.864988+07:00"
     },
     {
       "id": "d9111188a8d7d0cdc85489f2a11fee5a",
@@ -271,6 +631,36 @@ window.newsData_2026_01_22 = {
       "category": "Tổng hợp",
       "published": "2026-01-22T03:00:00+07:00",
       "fetched": "2026-01-22T10:29:35.890344+07:00"
+    },
+    {
+      "id": "01b004df2011e6bdb166b671697d6718",
+      "title": "Cơ thể phát tín hiệu cảnh báo bệnh tật sau tuổi 40",
+      "link": "https://vnexpress.net/co-the-phat-tin-hieu-canh-bao-benh-tat-sau-tuoi-40-5008280.html",
+      "summary": "Bước qua tuổi 40, cơ thể con người diễn ra nhiều biến đổi sinh lý âm thầm, làm gia tăng nguy cơ đột quỵ và ung thư nếu bỏ qua việc tầm soát và kiểm soát sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:00:00+07:00",
+      "fetched": "2026-01-22T11:40:30.865304+07:00"
+    },
+    {
+      "id": "a1fdd2b8928054db852b4b53d68279d0",
+      "title": "Ai dễ mắc bệnh gan nhiễm mỡ?",
+      "link": "https://vnexpress.net/ai-de-mac-benh-gan-nhiem-mo-5008493.html",
+      "summary": "Người thừa cân, béo phì, uống nhiều bia rượu, ít vận động, ăn nhiều đồ chiên rán, rối loạn chuyển hóa có nguy cơ mắc bệnh gan nhiễm mỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:00:00+07:00",
+      "fetched": "2026-01-22T11:40:30.865478+07:00"
+    },
+    {
+      "id": "c2df477ef8d0d388b87c738dd4cdaa6a",
+      "title": "Kết hợp nhiều phương pháp ức chế ung thư vú",
+      "link": "https://vnexpress.net/ket-hop-nhieu-phuong-phap-uc-che-ung-thu-vu-5008488.html",
+      "summary": "Bà Hồng, 50 tuổi, ung thư vú giai đoạn 2B, được điều trị đa mô thức gồm hóa trị, phẫu thuật, dùng thuốc nội tiết ngăn bệnh tiến triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T03:00:00+07:00",
+      "fetched": "2026-01-22T11:40:30.865634+07:00"
     },
     {
       "id": "cbb246ad077e814bd4a1a3782fe2e831",
