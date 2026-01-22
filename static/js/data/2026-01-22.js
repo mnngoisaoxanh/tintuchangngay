@@ -1,7 +1,157 @@
 window.newsData_2026_01_22 = {
   "date": "2026-01-22",
-  "lastUpdated": "2026-01-22T21:22:20.844654+07:00",
+  "lastUpdated": "2026-01-22T23:22:45.399123+07:00",
   "articles": [
+    {
+      "id": "7d25dda2ba748301576090a6eb0d7300",
+      "title": "CTCP Tập đoàn Chị Em Rọt của Quang Linh, Hằng Du Mục nợ thuế hơn 1,5 tỉ",
+      "link": "https://tuoitre.vn/ctcp-tap-doan-chi-em-rot-cua-quang-linh-hang-du-muc-no-thue-hon-1-5-ti-20260122193141441.htm",
+      "summary": "Công ty cổ phần Tập đoàn Chị Em Rọt nợ thuế 1,53 tỉ đồng. Người đại diện theo pháp luật của công ty là Lê Tuấn Linh bị thông báo sẽ bị tạm hoãn xuất cảnh nếu không hoàn thành nghĩa vụ thuế trong vòng 30 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.138277+07:00",
+      "fetched": "2026-01-22T23:22:40.138392+07:00"
+    },
+    {
+      "id": "c4df833d7352e1ec442380a30b0cee22",
+      "title": "Học viện Tài chính mở rộng diện tích, dự kiến tuyển hơn 6.000 sinh viên năm 2026",
+      "link": "https://tuoitre.vn/hoc-vien-tai-chinh-mo-rong-dien-tich-du-kien-tuyen-hon-6-000-sinh-vien-nam-2026-20260122201337254.htm",
+      "summary": "Thông tin được PGS.TS Nguyễn Đào Tùng - Giám đốc Học viện Tài chính - chia sẻ tại buổi gặp mặt báo chí trao đổi thông tin về công tác truyền thông năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.138151+07:00",
+      "fetched": "2026-01-22T23:22:40.138263+07:00"
+    },
+    {
+      "id": "5d1b7677c128f1502620c6ff27743082",
+      "title": "Ông Trump chính thức ra mắt Hội đồng Hòa bình, ca ngợi các thành viên là 'những ngôi sao'",
+      "link": "https://tuoitre.vn/ong-trump-chinh-thuc-ra-mat-hoi-dong-hoa-binh-ca-ngoi-cac-thanh-vien-la-nhung-ngoi-sao-20260122201915227.htm",
+      "summary": "Tổng thống Trump chính thức ra mắt Hội đồng Hòa bình bên lề Diễn đàn Kinh tế thế giới ở Davos ngày 22-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.138027+07:00",
+      "fetched": "2026-01-22T23:22:40.138140+07:00"
+    },
+    {
+      "id": "591027c88cf5c86cd5e057c13f19eb86",
+      "title": "Đối thủ của Thùy Linh là 'hot girl' cầu lông Thái Lan",
+      "link": "https://tuoitre.vn/doi-thu-cua-thuy-linh-la-hot-girl-cau-long-thai-lan-20260122200955356.htm",
+      "summary": "Sau loạt trận diễn ra chiều ngày 22-1, Nguyễn Thùy Linh đã xác định được đối thủ ở vòng tứ kết Giải Indonesia Masters 2026, đó là cái tên đang gây sốt làng cầu lông Thái Lan vài năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.137901+07:00",
+      "fetched": "2026-01-22T23:22:40.138016+07:00"
+    },
+    {
+      "id": "993ddd1733776f2605683ef2f12ad4fd",
+      "title": "Hàng giả, hàng nhái tràn lan trên mạng: Cuộc chiến không đơn giản",
+      "link": "https://tuoitre.vn/hang-gia-hang-nhai-tran-lan-tren-mang-cuoc-chien-khong-don-gian-20260122201434993.htm",
+      "summary": "Chiều 22-1, Liên đoàn Thương mại công nghiệp Việt Nam (VCCI) chỉ đạo Tạp chí Diễn đàn Doanh nghiệp tổ chức diễn đàn Gian lận thương mại trên không gian mạng, thách thức và giải pháp ngăn chặn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.137766+07:00",
+      "fetched": "2026-01-22T23:22:40.137882+07:00"
+    },
+    {
+      "id": "b7fbb73dce376b234ddbb3869d160550",
+      "title": "Nhiệt độ dưới 10°C, học sinh mầm non, tiểu học tại Hà Nội không đến trường",
+      "link": "https://tuoitre.vn/nhiet-do-duoi-10c-hoc-sinh-mam-non-tieu-hoc-tai-ha-noi-khong-den-truong-20260122204150462.htm",
+      "summary": "Sở Giáo dục và Đào tạo Hà Nội thông báo khi nhiệt độ dưới 10 độ C, học sinh mầm non, tiểu học không đến trường, có thể chuyển sang dạy học trực tuyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.137624+07:00",
+      "fetched": "2026-01-22T23:22:40.137753+07:00"
+    },
+    {
+      "id": "2ce4ad3d82c227d75bce6ec77f12de77",
+      "title": "Hải Phòng dự chi 550 tỉ đồng tặng quà Tết người có công",
+      "link": "https://tuoitre.vn/hai-phong-du-chi-550-ti-dong-tang-qua-tet-nguoi-co-cong-20260122161046395.htm",
+      "summary": "Hải Phòng dự kiến chi khoảng 550 tỉ đồng để tặng quà Tết cho trên 99.000 người có công với cách mạng, thân nhân liệt sĩ, người thờ cúng liệt sĩ trên địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.137500+07:00",
+      "fetched": "2026-01-22T23:22:40.137613+07:00"
+    },
+    {
+      "id": "d9a5efbb68d0e15831ed81b02289b08e",
+      "title": "Phạt nặng 3 tài xế không bằng lái vẫn lái xe chạy trên cao tốc Phan Thiết - Vĩnh Hảo",
+      "link": "https://tuoitre.vn/phat-nang-3-tai-xe-khong-bang-lai-van-lai-xe-chay-tren-cao-toc-phan-thiet-vinh-hao-2026012219513327.htm",
+      "summary": "Tài xế xe khách, xe tải, bán tải không có giấy phép lái xe chạy trên cao tốc Phan Thiết - Vĩnh Hảo bị lực lượng Đội cảnh sát giao thông số 6 kiểm tra, lập biên bản xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.137373+07:00",
+      "fetched": "2026-01-22T23:22:40.137488+07:00"
+    },
+    {
+      "id": "d36bf75fcee88554d2fbf5a5170accbb",
+      "title": "Tổng Bí thư Tô Lâm, 2 lãnh đạo chủ chốt và 7 Ủy viên Bộ Chính trị tái cử Trung ương khóa XIV",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-2-lanh-dao-chu-chot-va-7-uy-vien-bo-chinh-tri-tai-cu-trung-uong-khoa-xiv-20260122210154241.htm",
+      "summary": "Tổng Bí thư Tô Lâm, Chủ tịch Quốc hội Trần Thanh Mẫn, Thường trực Ban Bí thư Trần Cẩm Tú cùng 7 Ủy viên Bộ Chính trị khác được tín nhiệm tái cử Trung ương khóa XIV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.137246+07:00",
+      "fetched": "2026-01-22T23:22:40.137362+07:00"
+    },
+    {
+      "id": "5ad2f16cc8889fa8fc928b9b2b0794f8",
+      "title": "Khánh Hòa đã nhận tiền ủng hộ và trao hỗ trợ cho dân bị lũ lụt thế nào?",
+      "link": "https://tuoitre.vn/khanh-hoa-da-nhan-tien-ung-ho-va-trao-ho-tro-cho-dan-bi-lu-lut-the-nao-2026012216462749.htm",
+      "summary": "Trong đợt lũ lụt cuối tháng 11-2025, nhiều cơ quan, tổ chức, doanh nghiệp, cá nhân ở trong nước và nước ngoài rất quan tâm, ủng hộ để giúp đỡ người dân Khánh Hòa. Quỹ Cứu trợ tỉnh đã nhận và chi hỗ trợ cho dân thế nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.137118+07:00",
+      "fetched": "2026-01-22T23:22:40.137234+07:00"
+    },
+    {
+      "id": "9925509fbfabf32bc39e765d7f1791d2",
+      "title": "3 phim mới sắp lên sóng VTV: Có siêu thực và phía sau hào quang hoa hậu lẫn thế giới ngầm ma túy",
+      "link": "https://tuoitre.vn/3-phim-moi-sap-len-song-vtv-co-sieu-thuc-va-phia-sau-hao-quang-hoa-hau-lan-the-gioi-ngam-ma-tuy-2026012220332035.htm",
+      "summary": "Màn ảnh nhỏ sắp đón ba phim mới thuộc dòng phim chất lượng miniseries của VTV: Đồng hồ đếm ngược, Lời hứa đầu tiên và Lửa trắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.136975+07:00",
+      "fetched": "2026-01-22T23:22:40.137096+07:00"
+    },
+    {
+      "id": "888a49042a446a743039769f9a2bb4aa",
+      "title": "Thể thao điện tử Việt Nam hướng đến Asiad 2026",
+      "link": "https://tuoitre.vn/the-thao-dien-tu-viet-nam-huong-den-asiad-2026-20260122211129729.htm",
+      "summary": "Chuẩn bị cho các đội tuyển quốc gia tham dự Asiad là một trong những nhiệm vụ trọng tâm của Hội Thể thao điện tử giải trí Việt Nam trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.136838+07:00",
+      "fetched": "2026-01-22T23:22:40.136962+07:00"
+    },
+    {
+      "id": "4521c5e6f4dafaed53aafb5a3e3ed641",
+      "title": "Đường hoa xuân TP.HCM 2026 sẽ mở rộng quy mô chưa từng có",
+      "link": "https://tuoitre.vn/duong-hoa-xuan-tp-hcm-2026-se-mo-rong-quy-mo-chua-tung-co-2026012221020944.htm",
+      "summary": "Đường hoa xuân TP.HCM 2026 sẽ đồng thời tổ chức tại TP.HCM, Bình Dương và Bà Rịa - Vũng Tàu (cũ) cùng ứng dụng nhiều công nghệ ánh sáng mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.136659+07:00",
+      "fetched": "2026-01-22T23:22:40.136823+07:00"
+    },
+    {
+      "id": "2a07f7ddb5eb5b70d3c9739e392c21b0",
+      "title": "Công bố đề cử Oscar 2026: Sinners lập kỷ lục 'vô tiền khoáng hậu' với 16 đề cử",
+      "link": "https://tuoitre.vn/cong-bo-de-cu-oscar-2026-sinners-lap-ky-luc-vo-tien-khoang-hau-voi-16-de-cu-202601222138041.htm",
+      "summary": "Tối 22-1 (giờ Việt Nam), Viện hàn lâm Khoa học và Nghệ thuật điện ảnh Mỹ đã công bố danh sách các phim, nhà làm phim được đề cử tại giải Oscar 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.136511+07:00",
+      "fetched": "2026-01-22T23:22:40.136645+07:00"
+    },
+    {
+      "id": "1591ebfc9b218182ceb791da528ea51f",
+      "title": "Sẵn sàng trấn áp tội phạm, xử lý buôn bán tự phát tại chợ đầu mối lớn nhất cả nước",
+      "link": "https://tuoitre.vn/san-sang-tran-ap-toi-pham-xu-ly-buon-ban-tu-phat-tai-cho-dau-moi-lon-nhat-ca-nuoc-20260122213455016.htm",
+      "summary": "Với diện tích hơn 65ha, hơn 1.500 thương nhân và 10.000 lao động dịch vụ, chợ đầu mối Bình Điền (TP.HCM) là chợ đầu mối có quy mô lớn nhất cả nước. Để đảm bảo an ninh cho hoạt động của chợ, đơn vị quản lý chợ Bình Điền đã \"bắt tay\" với công an.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T23:22:40.136271+07:00",
+      "fetched": "2026-01-22T23:22:40.136495+07:00"
+    },
     {
       "id": "027b28323af31d42b28e54c09c9c3835",
       "title": "Tăng tốc chuyển đổi xe buýt điện, hướng tới 100% buýt xanh",
@@ -453,6 +603,66 @@ window.newsData_2026_01_22 = {
       "fetched": "2026-01-22T17:18:26.067476+07:00"
     },
     {
+      "id": "093a2d3f648aa44aeceba352b737a8ab",
+      "title": "Kỷ niệm 40 năm Báo Thanh Niên: Bồi đắp thương hiệu trong lòng bạn đọc",
+      "link": "https://thanhnien.vn/ky-niem-40-nam-bao-thanh-nien-boi-dap-thuong-hieu-trong-long-ban-doc-185260122224859384.htm",
+      "summary": "Tối 22.1, Báo Thanh Niên tổ chức lễ kỷ niệm 40 năm ngày phát hành số đầu tiên (3.1.1986 - 3.1.2026) tại P.Nha Trang (Khánh Hòa) - nơi đặt trụ sở Văn phòng đại diện khu vực Nam Trung bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T16:06:00+07:00",
+      "fetched": "2026-01-22T23:22:39.493482+07:00"
+    },
+    {
+      "id": "6cab0e0022bc48c50349f14da41b211e",
+      "title": "Hơn 13.700 gian hàng vi phạm bị gỡ khỏi các nền tảng online",
+      "link": "https://vnexpress.net/hon-13-700-gian-hang-vi-pham-bi-go-khoi-cac-nen-tang-online-5008848.html",
+      "summary": "Năm 2025, có hơn 13.700 gian hàng vi phạm trên các nền tảng bán lẻ trực tuyến bị gỡ, theo Cục Thương mại điện tử và Kinh tế số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T15:36:51+07:00",
+      "fetched": "2026-01-22T23:22:36.573797+07:00"
+    },
+    {
+      "id": "6cab0e0022bc48c50349f14da41b211e",
+      "title": "Hơn 13.700 gian hàng vi phạm bị gỡ khỏi các nền tảng online",
+      "link": "https://vnexpress.net/hon-13-700-gian-hang-vi-pham-bi-go-khoi-cac-nen-tang-online-5008848.html",
+      "summary": "Năm 2025, có hơn 13.700 gian hàng vi phạm trên các nền tảng bán lẻ trực tuyến bị gỡ, theo Cục Thương mại điện tử và Kinh tế số.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-22T15:36:51+07:00",
+      "fetched": "2026-01-22T23:22:42.102661+07:00"
+    },
+    {
+      "id": "643dfcbf6d96bef8c04474ea7d576c13",
+      "title": "Ba khu đô thị hơn 1 tỷ USD tại Măng Đen tìm được nhà đầu tư",
+      "link": "https://vnexpress.net/ba-khu-do-thi-hon-1-ty-usd-tai-mang-den-tim-duoc-nha-dau-tu-5008821.html",
+      "summary": "Ba khu đô thị quy mô lớn tại xã Măng Đen vừa lựa chọn được nhà đầu tư, có tổng diện tích gần 790 ha và tổng vốn đầu tư khoảng 26.500 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T15:30:40+07:00",
+      "fetched": "2026-01-22T23:22:36.573974+07:00"
+    },
+    {
+      "id": "07b9ed636b25c331adc8523850184262",
+      "title": "Ông Zelensky: Đối thoại với ông Trump không đơn giản",
+      "link": "https://vnexpress.net/ong-zelensky-doi-thoai-voi-ong-trump-khong-don-gian-5008874.html",
+      "summary": "Tổng thống Zelensky cho biết đối thoại với người đồng cấp Trump không đơn giản, nhưng khẳng định cuộc gặp ở Thụy Sĩ đã diễn ra \"tốt đẹp\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T15:30:34+07:00",
+      "fetched": "2026-01-22T23:22:36.574142+07:00"
+    },
+    {
+      "id": "07b9ed636b25c331adc8523850184262",
+      "title": "Ông Zelensky: Đối thoại với ông Trump không đơn giản",
+      "link": "https://vnexpress.net/ong-zelensky-doi-thoai-voi-ong-trump-khong-don-gian-5008874.html",
+      "summary": "Tổng thống Zelensky cho biết đối thoại với người đồng cấp Trump không đơn giản, nhưng khẳng định cuộc gặp ở Thụy Sĩ đã diễn ra \"tốt đẹp\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-22T15:30:34+07:00",
+      "fetched": "2026-01-22T23:22:41.207439+07:00"
+    },
+    {
       "id": "8051c74c3d3aa4d234eef4a48123cac0",
       "title": "Antiantiart nổi như cồn với ảnh cưới gây sốt của á hậu Phương Nhi, là ai?",
       "link": "https://tuoitre.vn/antiantiart-noi-nhu-con-voi-anh-cuoi-gay-sot-cua-a-hau-phuong-nhi-la-ai-2026012212275788.htm",
@@ -603,6 +813,96 @@ window.newsData_2026_01_22 = {
       "fetched": "2026-01-22T15:19:45.549787+07:00"
     },
     {
+      "id": "1059efca02224df60aefbce1a1b00770",
+      "title": "3 đại tướng quân đội tái đắc cử Ủy viên Trung ương Đảng khóa XIV",
+      "link": "https://thanhnien.vn/3-dai-tuong-quan-doi-tai-dac-cu-uy-vien-trung-uong-dang-khoa-xiv-185260122212302195.htm",
+      "summary": "Trong danh sách trúng cử Ủy viên Trung ương Đảng khóa XIV có 3 đại tướng quân đội là đại tướng Phan Văn Giang, đại tướng Nguyễn Trọng Nghĩa và đại tướng Nguyễn Tân Cương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T15:10:00+07:00",
+      "fetched": "2026-01-22T23:22:39.493663+07:00"
+    },
+    {
+      "id": "2b3365f8c8be77313823cd994643784d",
+      "title": "Bà Bùi Thị Minh Hoài tái đắc cử Ủy viên Trung ương Đảng khóa XIV",
+      "link": "https://thanhnien.vn/ba-bui-thi-minh-hoai-tai-dac-cu-uy-vien-trung-uong-dang-khoa-xiv-185260122214325877.htm",
+      "summary": "Trong danh sách trúng cử Ủy viên Trung ương Đảng khóa XIV, bà Bùi Thị Minh Hoài, Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng khóa XIII, Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc (MTTQ) Việt Nam, tái đắc cử Ủy viên Trung ương Đảng khóa XIV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T14:58:00+07:00",
+      "fetched": "2026-01-22T23:22:39.493852+07:00"
+    },
+    {
+      "id": "4c1baab19786b79b6e8110ffc3ee0861",
+      "title": "Anh Nguyễn Minh Triết trúng cử Ủy viên dự khuyết Trung ương Đảng khóa XIV",
+      "link": "https://thanhnien.vn/anh-nguyen-minh-triet-trung-cu-uy-vien-du-khuyet-trung-uong-dang-khoa-xiv-185260122205220487.htm",
+      "summary": "Anh Nguyễn Minh Triết, Bí thư thường trực Trung ương Đoàn, được Đại hội XIV của Đảng tín nhiệm bầu giữ chức Ủy viên dự khuyết Trung ương Đảng khóa XIV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T14:52:00+07:00",
+      "fetched": "2026-01-22T23:22:39.494008+07:00"
+    },
+    {
+      "id": "089fdbe49ea1ccf0f13fd866b2fc4dc6",
+      "title": "Quốc kỳ nước nào do một học sinh thiết kế?",
+      "link": "https://vnexpress.net/quoc-ky-nuoc-nao-do-mot-hoc-sinh-thiet-ke-5008834.html",
+      "summary": "Từng bị điểm B trừ ở trường, nam sinh 17 tuổi gửi thiết kế tới Quốc hội và được chọn, khiến giáo viên nâng thành điểm A.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T14:45:42+07:00",
+      "fetched": "2026-01-22T23:22:36.574303+07:00"
+    },
+    {
+      "id": "4ace2b8aaf4679c49e456163f3b3710b",
+      "title": "HLV Malaysia hứng bão chỉ trích vì ‘dám’ tuyên bố sẽ không bị AFC xử thua đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/hlv-malaysia-hung-bao-chi-trich-vi-dam-tuyen-bo-se-khong-bi-afc-xu-thua-doi-tuyen-viet-nam-185260122213030821.htm",
+      "summary": "Bóng đá Malaysia đang lâm vào giai đoạn khủng hoảng khi đội tuyển quốc gia vừa đứng trước nguy cơ bị FIFA trừng phạt nặng nề, vừa rơi vào vòng xoáy suy giảm niềm tin. Ở tâm điểm là những phát ngôn gây tranh cãi của HLV Peter Cklamovski tối 22.1, trong khi FAM cũng liên tục bị đặt dấu hỏi về thái độ ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T14:37:00+07:00",
+      "fetched": "2026-01-22T23:22:39.494169+07:00"
+    },
+    {
+      "id": "047ed1da87a081409565f6f8e0da19f3",
+      "title": "Diễn viên Thanh Hương đón 'tin vui' đầu năm 2026",
+      "link": "https://thanhnien.vn/dien-vien-thanh-huong-don-tin-vui-dau-nam-2026-185260122191502807.htm",
+      "summary": "Đầu năm 2026, Thanh Hương không chỉ được khán giả chú ý khi góp mặt trong phim điện ảnh 'Mùi phở' mà còn trở thành giám đốc truyền thông của một cơ sở làm đẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T14:36:00+07:00",
+      "fetched": "2026-01-22T23:22:39.494324+07:00"
+    },
+    {
+      "id": "8520313dd9fe0ff9deceaa2bb7deaf56",
+      "title": "Nhiệt độ tiếp tục giảm, miền Bắc rét buốt",
+      "link": "https://vnexpress.net/nhiet-do-tiep-tuc-giam-mien-bac-ret-buot-5008868.html",
+      "summary": "Nhiệt độ cao nhất ban ngày ở miền Bắc chỉ nhích lên 1-3 độ C sau đó lại giảm sâu, thấp nhất xuống âm 0,1 độ C, gây cảm giác rét buốt cả ngày lẫn đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T14:32:54+07:00",
+      "fetched": "2026-01-22T23:22:36.574459+07:00"
+    },
+    {
+      "id": "3c5a4022cc0b8250dc826f3ea26298ab",
+      "title": "Phương Mỹ Chi, Đức Phúc tham gia concert quy tụ 50.000 khán giả",
+      "link": "https://thanhnien.vn/phuong-my-chi-duc-phuc-tham-gia-concert-quy-tu-50000-khan-gia-185260122200728702.htm",
+      "summary": "Phương Mỹ Chi, Đức Phúc cùng khoảng 20 nghệ sĩ xác nhận góp mặt trong 'Đấu trường sấm' dự kiến tổ chức tại Trung tâm Hội chợ Triển lãm Việt Nam, thu hút 50.000 khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T14:24:00+07:00",
+      "fetched": "2026-01-22T23:22:39.494474+07:00"
+    },
+    {
+      "id": "413d6fae64f0cee015f9c0e35d0f87b4",
+      "title": "Vợ chồng Đỗ Hà và dàn sao dự đám cưới Á hậu Phương Nhi",
+      "link": "https://vnexpress.net/vo-chong-do-ha-va-dan-sao-du-dam-cuoi-a-hau-phuong-nhi-5008672.html",
+      "summary": "Vợ chồng Đỗ Thị Hà - Viết Vương cùng Lương Thùy Linh, Soobin dự lễ cưới của Á hậu Phương Nhi và doanh nhân Minh Hoàng trên đảo Hòn Tre.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T14:17:51+07:00",
+      "fetched": "2026-01-22T23:22:36.574625+07:00"
+    },
+    {
       "id": "b5d6450a79e0da7dbe2b29e110d4ec0c",
       "title": "Anh Bùi Quang Huy tái đắc cử Ủy viên Trung ương Đảng khóa XIV",
       "link": "https://thanhnien.vn/anh-bui-quang-huy-tai-dac-cu-uy-vien-trung-uong-dang-khoa-xiv-185260122203830378.htm",
@@ -613,6 +913,46 @@ window.newsData_2026_01_22 = {
       "fetched": "2026-01-22T21:22:13.826281+07:00"
     },
     {
+      "id": "652547c5e4ead25dd3907fb21659a116",
+      "title": "Tổng Bí thư Tô Lâm và 9 Ủy viên Bộ Chính trị tái đắc cử Trung ương khóa XIV",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-va-9-uy-vien-bo-chinh-tri-tai-dac-cu-trung-uong-khoa-xiv-5008805.html",
+      "summary": "Tổng Bí thư Tô Lâm cùng 9 Ủy viên Bộ Chính trị khóa XIII được Đại hội Đảng XIV bầu tái cử Ủy viên Ban Chấp hành Trung ương Đảng khóa XIV nhiệm kỳ 2026-2031.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T14:14:33+07:00",
+      "fetched": "2026-01-22T23:22:36.574799+07:00"
+    },
+    {
+      "id": "f2668ac19e6f58aef3cb3b70c5a77e22",
+      "title": "Giằng co vỉa hè vì tư duy 'lấn chiếm để mưu sinh'",
+      "link": "https://vnexpress.net/giang-co-via-he-vi-tu-duy-lan-chiem-de-muu-sinh-5008763.html",
+      "summary": "Khó khăn kinh tế không thể trở thành giấy phép cho việc lấn chiếm vỉa hè, vi phạm pháp luật và xâm phạm quyền lợi của người khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T14:09:48+07:00",
+      "fetched": "2026-01-22T23:22:36.574964+07:00"
+    },
+    {
+      "id": "970d7438c0e4ea20458bc8ba73adea23",
+      "title": "Em chỉ cần một người giản dị và yêu lâu dài",
+      "link": "https://vnexpress.net/em-chi-can-mot-nguoi-gian-di-va-yeu-lau-dai-5008639.html",
+      "summary": "Em trân trọng một người hiểu giá trị của sự bình yên và sẵn sàng đồng hành bằng sự tôn trọng và thấu hiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T14:06:41+07:00",
+      "fetched": "2026-01-22T23:22:36.575072+07:00"
+    },
+    {
+      "id": "fc52408682a7f78bd06d543eddf6ecb0",
+      "title": "Phương châm sống của em là nỗ lực hết mình",
+      "link": "https://vnexpress.net/phuong-cham-song-cua-em-la-no-luc-het-minh-5008638.html",
+      "summary": "Mong anh có công việc ổn định, trách nhiệm, có chí tiến thủ, tình cảm sâu sắc và hài hước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T14:06:30+07:00",
+      "fetched": "2026-01-22T23:22:36.575163+07:00"
+    },
+    {
       "id": "6dc4ef7afc451a99ac2cb1ca74a1c064",
       "title": "Xác định 4 đội vào bán kết giải U.19 quốc gia, U.19 HAGL bị loại sau loạt đá luân lưu",
       "link": "https://thanhnien.vn/xac-dinh-4-doi-vao-ban-ket-giai-u19-quoc-gia-u19-hagl-bi-loai-sau-loat-da-luan-luu-185260122181209119.htm",
@@ -621,6 +961,26 @@ window.newsData_2026_01_22 = {
       "category": "Tổng hợp",
       "published": "2026-01-22T14:00:00+07:00",
       "fetched": "2026-01-22T21:22:13.826487+07:00"
+    },
+    {
+      "id": "398ab0bea0fc9b7a2f2e7d3b0db59838",
+      "title": "Bạn trai giữ gìn cho tôi nhưng lại đi 'bóc bánh trả tiền'",
+      "link": "https://vnexpress.net/ban-trai-giu-gin-cho-toi-nhung-lai-di-boc-banh-tra-tien-5008772.html",
+      "summary": "Tôi từng nghĩ trong thời buổi này, gặp được một người đàn ông biết kiềm chế vì mình là điều rất hiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T14:00:00+07:00",
+      "fetched": "2026-01-22T23:22:36.575316+07:00"
+    },
+    {
+      "id": "0427c4e1ae38b9f3b133b3c9f64b1a4b",
+      "title": "Ủy ban Hạ viện quy kết vợ chồng ông Clinton khinh thường quốc hội",
+      "link": "https://thanhnien.vn/uy-ban-ha-vien-quy-ket-vo-chong-ong-clinton-khinh-thuong-quoc-hoi-185260122182615144.htm",
+      "summary": "Ủy ban Giám sát Hạ viện Mỹ hôm 21.1 đã bỏ phiếu để buộc tội vợ chồng cựu Tổng thống Bill Clinton khinh thường quốc hội vì không tuân thủ trát triệu tập liên quan đến cuộc điều tra về tội phạm tình dục, cố tỉ phú Jeffrey Epstein.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T14:00:00+07:00",
+      "fetched": "2026-01-22T23:22:39.494801+07:00"
     },
     {
       "id": "993922c44c9696a66d1be91ca535bc11",
@@ -673,6 +1033,26 @@ window.newsData_2026_01_22 = {
       "fetched": "2026-01-22T21:22:13.827280+07:00"
     },
     {
+      "id": "71b9160335d25ab656bafea501a2e00e",
+      "title": "Xích đu khổng lồ gãy sập, hàng chục học sinh bị thương ở Ấn Độ",
+      "link": "https://vnexpress.net/xich-du-khong-lo-gay-sap-hang-chuc-hoc-sinh-bi-thuong-o-an-do-5008862.html",
+      "summary": "Chiếc xích đu khổng lồ hình thuyền rồng chở hàng chục học sinh bất ngờ gãy sập khi đang lắc lư trên không tại lễ hội Maharaj No Melo, tỉnh Jhabua, Ấn Độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T13:44:19+07:00",
+      "fetched": "2026-01-22T23:22:36.575483+07:00"
+    },
+    {
+      "id": "b4254df18dd9e899251de4080818baca",
+      "title": "Đội phản ứng nhanh Phú Quốc giúp khách Anh lấy lại 290 triệu đồng",
+      "link": "https://vnexpress.net/doi-phan-ung-nhanh-phu-quoc-giup-khach-anh-lay-lai-290-trieu-dong-5008828.html",
+      "summary": "Công an cùng giới chức địa phương can thiệp buộc một resort hoàn trả hơn 290 triệu đồng cho hai du khách người Anh sau sự cố lễ tân bấm nhầm số tiền khi quẹt thẻ thanh toán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T13:42:45+07:00",
+      "fetched": "2026-01-22T23:22:36.575641+07:00"
+    },
+    {
       "id": "7f8070a26c57290513a36277b1697961",
       "title": "Dân số Việt Nam 102,3 triệu người, đứng thứ 16 thế giới",
       "link": "https://thanhnien.vn/dan-so-viet-nam-1023-trieu-nguoi-dung-thu-16-the-gioi-185260122194541201.htm",
@@ -691,6 +1071,16 @@ window.newsData_2026_01_22 = {
       "category": "Tổng hợp",
       "published": "2026-01-22T13:28:59+07:00",
       "fetched": "2026-01-22T21:22:11.008105+07:00"
+    },
+    {
+      "id": "139337aba489e12dae4b15781904db49",
+      "title": "Danh sách 20 Ủy viên dự khuyết Trung ương khóa XIV",
+      "link": "https://vnexpress.net/danh-sach-20-uy-vien-du-khuyet-trung-uong-khoa-xiv-5008860.html",
+      "summary": "Danh sách 20 Ủy viên dự khuyết Trung ương khóa XIV vừa được Đại hội Đảng XIV công bố sau khi hoàn tất quy trình bầu Ban Chấp hành Trung ương nhiệm kỳ mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T13:28:59+07:00",
+      "fetched": "2026-01-22T23:22:36.575823+07:00"
     },
     {
       "id": "b5e475798922a9027d004344e16bf686",
