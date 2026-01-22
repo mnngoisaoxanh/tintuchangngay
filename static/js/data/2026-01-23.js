@@ -1,7 +1,17 @@
 window.newsData_2026_01_23 = {
   "date": "2026-01-23",
-  "lastUpdated": "2026-01-23T03:16:34.027110+07:00",
+  "lastUpdated": "2026-01-23T05:14:25.615038+07:00",
   "articles": [
+    {
+      "id": "1024744b373946768d908d5a6744e8be",
+      "title": "Thời tiết hôm nay 23-1: Không khí lạnh bao phủ, Nam Bộ sáng lạnh",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-23-1-khong-khi-lanh-bao-phu-nam-bo-sang-lanh-20260122161604466.htm",
+      "summary": "Hôm nay 23-1, không khí lạnh tiếp tục làm thời tiết Bắc Bộ rét thêm, Trung Bộ có những cơn mưa to, Nam Bộ sáng lạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T05:14:18.273579+07:00",
+      "fetched": "2026-01-23T05:14:18.273814+07:00"
+    },
     {
       "id": "d36bf75fcee88554d2fbf5a5170accbb",
       "title": "Tổng Bí thư Tô Lâm, 2 lãnh đạo chủ chốt và 7 Ủy viên Bộ Chính trị tái cử Trung ương khóa XIV",
@@ -151,6 +161,106 @@ window.newsData_2026_01_23 = {
       "category": "Tổng hợp",
       "published": "2026-01-23T01:19:32.722902+07:00",
       "fetched": "2026-01-23T01:19:32.723117+07:00"
+    },
+    {
+      "id": "564f677d5e01b669330917eaa2f1c77d",
+      "title": "Chiến sự Ukraine ngày 1.249: Nga tính đưa thành phố Kharkiv vào tầm pháo kích?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1249-nga-tinh-dua-thanh-pho-kharkiv-vao-tam-phao-kich-185260122210837236.htm",
+      "summary": "Quân đội Nga đang tăng cường mũi tiến công ở mặt trận Kharkiv nhằm 'dọn đường' cho pháo binh, trong khi Ukraine được cho là vẫn giữ vững thế trận phản công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T22:08:00+07:00",
+      "fetched": "2026-01-23T05:14:17.155460+07:00"
+    },
+    {
+      "id": "afab654f0074030a6a99ebc27f6a12ff",
+      "title": "Chàng cảnh sát tương lai và ước mơ thành cầu thủ chuyên nghiệp",
+      "link": "https://thanhnien.vn/chang-canh-sat-tuong-lai-va-uoc-mo-thanh-cau-thu-chuyen-nghiep-185260122220649723.htm",
+      "summary": "Sau 2 năm rèn luyện cùng đội năng khiếu bóng đá, Trương Lâm Chí Hiếu đã chọn dừng lại để tiếp tục con đường học vấn. Dù vậy, ngọn lửa đam mê bóng đá và ý chí từ thần tượng Ronaldo vẫn luôn rực cháy trong tim của tiền vệ gốc Kiên Giang (nay là tỉnh An Giang).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T22:00:00+07:00",
+      "fetched": "2026-01-23T05:14:17.155647+07:00"
+    },
+    {
+      "id": "1329d8cc8694d344f50cae73e31b0939",
+      "title": "Đổ vỡ không thể hàn gắn sau lời đe dọa của ông Trump về Greenland",
+      "link": "https://vnexpress.net/do-vo-khong-the-han-gan-sau-loi-de-doa-cua-ong-trump-ve-greenland-5008503.html",
+      "summary": "Dù Tổng thống Trump đã dịu giọng về vấn đề Greenland, lời đe dọa sử dụng vũ lực của ông đã gây đổ vỡ không thể hàn gắn trong quan hệ với châu Âu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-22T22:00:00+07:00",
+      "fetched": "2026-01-23T05:14:19.753350+07:00"
+    },
+    {
+      "id": "3ebd073fe642b17c19639e6c60e21f35",
+      "title": "Nhiều người chọn ChatGPT thay Google Search làm trang chủ",
+      "link": "https://vnexpress.net/nhieu-nguoi-chon-chatgpt-thay-google-search-lam-trang-chu-5008678.html",
+      "summary": "Khảo sát mới cho thấy nhiều người dùng ChatGPT đặt chatbot này làm trang chủ trình duyệt thay cho lựa chọn truyền thống như Google Search.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-22T22:00:00+07:00",
+      "fetched": "2026-01-23T05:14:24.111232+07:00"
+    },
+    {
+      "id": "0f6db03b36ea0f3789d828967a5d27f5",
+      "title": "Đội Trường ĐH Đồng Tháp lần đầu đoạt vé dự VCK",
+      "link": "https://thanhnien.vn/doi-truong-dh-dong-thap-lan-dau-doat-ve-du-vck-185260122220001985.htm",
+      "summary": "Xuất sắc đánh bại đội Trường ĐH Trà Vinh ở chung kết vòng loại khu vực Tây Nam bộ diễn ra hôm qua 22.1, đội Trường ĐH Đồng Tháp giành vé đến Nha Trang tham dự vòng chung kết giải bóng đá Thanh Niên sinh viên VN lần IV - 2026 cúp THACO (TNSV THACO cup 2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T21:52:00+07:00",
+      "fetched": "2026-01-23T05:14:17.155817+07:00"
+    },
+    {
+      "id": "0726393a32c4155be09affd2cd024583",
+      "title": "Cao tốc góp phần viết nên lịch sử",
+      "link": "https://thanhnien.vn/cao-toc-gop-phan-viet-nen-lich-su-185260122221718267.htm",
+      "summary": "Tuyến Cần Thơ - Cà Mau, đoạn cuối cùng trong dải cao tốc nối từ Lạng Sơn (cực Bắc) tới mũi địa đầu Cà Mau (cực Nam), đã chính thức thông xe. Hơn 3.000 km \"xương sống\" đường bộ cao tốc nối thông một cách thần tốc không chỉ làm nên kỳ tích cho ngành xây dựng mà còn là tiền đề vững chắc để đất nước viế...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T21:08:00+07:00",
+      "fetched": "2026-01-23T05:14:17.155975+07:00"
+    },
+    {
+      "id": "d82a3e1424353de6acb45a51ec7fe9a5",
+      "title": "Tín hiệu tích cực về hòa đàm Ukraine",
+      "link": "https://thanhnien.vn/tin-hieu-tich-cuc-ve-hoa-dam-ukraine-185260122231125933.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky hôm qua dự Diễn đàn kinh tế thế giới Davos (Thụy Sĩ) và gặp người đồng cấp Mỹ Donald Trump tại đây. Reuters đưa tin ông Trump và ông Zelensky đã thảo luận trong vòng 1 tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T21:07:00+07:00",
+      "fetched": "2026-01-23T05:14:17.156128+07:00"
+    },
+    {
+      "id": "e6fc8283d65e8f1bbd0aa40e0e16dda0",
+      "title": "Làng quất cảnh bên phố Tuy Hòa: Hồi sinh sau đợt lũ lụt lịch sử",
+      "link": "https://thanhnien.vn/lang-quat-canh-ben-pho-tuy-hoa-hoi-sinh-sau-dot-lu-lut-lich-su-185260122162012722.htm",
+      "summary": "Cạnh phố Tuy Hòa, làng quất cảnh Liên Trì tất bật vào vụ tết. Mỗi chậu quất trĩu quả là thành quả sau 2 năm người dân miệt mài chăm bón, mong một mùa Tết Bính Ngọ đủ đầy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T21:03:00+07:00",
+      "fetched": "2026-01-23T05:14:17.156283+07:00"
+    },
+    {
+      "id": "4056a079e59418f60cb3cdf198c74579",
+      "title": "Vì sao thuốc mọc tóc thường bị 'đổ oan' làm yếu sinh lý?",
+      "link": "https://vnexpress.net/vi-sao-thuoc-moc-toc-thuong-bi-do-oan-lam-yeu-sinh-ly-5007875.html",
+      "summary": "Nhiều nam giới e ngại thuốc mọc tóc vì sợ gây yếu sinh lý, xuất phát từ hiểu lầm về cơ chế thuốc và tác động tâm lý, trong khi nguy cơ ảnh hưởng tình dục thực tế rất thấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T21:00:00+07:00",
+      "fetched": "2026-01-23T05:14:13.923163+07:00"
+    },
+    {
+      "id": "37f0ef50c6d97d1a551b3d490a033bdb",
+      "title": "Hyundai dừng bán i10 ở châu Âu",
+      "link": "https://vnexpress.net/hyundai-dung-ban-i10-o-chau-au-5008739.html",
+      "summary": "Hãng xe Hàn đã dừng sản xuất mẫu xe đô thị chạy xăng cho thị trường châu Âu sau 18 năm và chưa có sản phẩm thay thế trực tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T21:00:00+07:00",
+      "fetched": "2026-01-23T05:14:13.923376+07:00"
     },
     {
       "id": "4e52cd210ee5746e12e74df3999b87da",
