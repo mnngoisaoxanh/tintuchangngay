@@ -1,7 +1,117 @@
 window.newsData_2026_01_23 = {
   "date": "2026-01-23",
-  "lastUpdated": "2026-01-23T21:17:31.547105+07:00",
+  "lastUpdated": "2026-01-23T23:18:56.117174+07:00",
   "articles": [
+    {
+      "id": "bbf88f9489e5b19f86bf7265e80c73b9",
+      "title": "Điện, thư chúc mừng Tổng Bí thư BCH Trung ương Đảng khóa XIV Tô Lâm",
+      "link": "https://tuoitre.vn/dien-thu-chuc-mung-tong-bi-thu-bch-trung-uong-dang-khoa-xiv-to-lam-20260123202653619.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Cộng hòa dân chủ nhân dân Lào Thongloun Sisoulith; Tổng Bí thư, Chủ tịch nước Cộng hòa nhân dân Trung Hoa Tập Cận Bình; Chủ tịch Đảng Nhân dân Campuchia Hun Sen đã gửi điện mừng Tổng Bí thư Tô Lâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:18:46.409624+07:00",
+      "fetched": "2026-01-23T23:18:46.409737+07:00"
+    },
+    {
+      "id": "5afbbb011fec8a343b874eaa53b0fdf3",
+      "title": "BIDV và KN Holdings ký thỏa thuận hợp tác toàn diện",
+      "link": "https://tuoitre.vn/bidv-va-kn-holdings-ky-thoa-thuan-hop-tac-toan-dien-20260123193127585.htm",
+      "summary": "Ngày 23-1 tại Hà Nội, Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) và Tập đoàn KN Holdings ký kết thỏa thuận hợp tác toàn diện giai đoạn 2026 - 2030, đánh dấu bước phát triển quan trọng trong mối quan hệ giữa hai bên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:18:46.409498+07:00",
+      "fetched": "2026-01-23T23:18:46.409613+07:00"
+    },
+    {
+      "id": "f7da0a2d74af8fc81f29d22507cd4f61",
+      "title": "Việt Nam là ‘điểm sáng đối ngoại’ giữa thế giới biến động",
+      "link": "https://tuoitre.vn/viet-nam-la-diem-sang-doi-ngoai-giua-the-gioi-bien-dong-20260123193359387.htm",
+      "summary": "Chuyên gia quan hệ quốc tế khẳng định dù thế giới biến động, vị thế Việt Nam vẫn được tăng cường nhờ vị trí 'độc nhất chơi được với cả hai bên'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:18:46.409343+07:00",
+      "fetched": "2026-01-23T23:18:46.409485+07:00"
+    },
+    {
+      "id": "f596d1da7eaead4a66f880b9c271f47b",
+      "title": "Lee Min Ho là nghệ sĩ có sức ảnh hưởng tích cực đến hình ảnh Hàn Quốc",
+      "link": "https://tuoitre.vn/lee-min-ho-la-nghe-si-co-suc-anh-huong-tich-cuc-den-hinh-anh-han-quoc-20260123183307044.htm",
+      "summary": "Lee Min Ho đứng thứ 4 trong hạng mục 'Người Hàn Quốc có ảnh hưởng tích cực đến hình ảnh quốc gia', đồng thời là diễn viên có thứ hạng cao nhất trong danh sách này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:18:46.409219+07:00",
+      "fetched": "2026-01-23T23:18:46.409332+07:00"
+    },
+    {
+      "id": "07e4c63c9482607fd0da6551e93b5516",
+      "title": "Trước đàm phán, Nga nhấn mạnh Ukraine phải rút khỏi Donbass",
+      "link": "https://tuoitre.vn/truoc-dam-phan-nga-nhan-manh-ukraine-phai-rut-khoi-donbass-20260123205401377.htm",
+      "summary": "Nga yêu cầu Ukraine phải rút khỏi khu vực Donbass ở phía đông để chấm dứt cuộc chiến, dấu hiệu cho thấy Matxcơva sẽ không nhượng bộ trước cuộc gặp ở UAE.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:18:46.409084+07:00",
+      "fetched": "2026-01-23T23:18:46.409208+07:00"
+    },
+    {
+      "id": "a80afb8b2c13083e45168e9019576794",
+      "title": "Tài xế và chủ xe tải bị phạt tới 103 triệu đồng vì vi phạm khi chạy trên cao tốc Nha Trang - Cam Lâm",
+      "link": "https://tuoitre.vn/tai-xe-va-chu-xe-tai-bi-phat-toi-103-trieu-dong-vi-vi-pham-khi-chay-tren-cao-toc-nha-trang-cam-lam-20260123205651706.htm",
+      "summary": "3 tài xế xe tải chạy trên cao tốc Nha Trang - Cam Lâm vi phạm các lỗi nghiêm trọng bị Đội cảnh sát giao thông số 6 lập biên bản, xử phạt nặng. Có trường hợp bị phạt lên đến 103 triệu đồng, tạm giữ xe 7 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:18:46.408957+07:00",
+      "fetched": "2026-01-23T23:18:46.409073+07:00"
+    },
+    {
+      "id": "1c62f93f8d25b3f838d8387bde585118",
+      "title": "Xe Nhật 'cháy hàng' trước Tết, xuất hiện tình trạng 'xe cũ' bán cao hơn mua mới",
+      "link": "https://tuoitre.vn/xe-nhat-chay-hang-truoc-tet-xuat-hien-tinh-trang-xe-cu-ban-cao-hon-mua-moi-20260123143255582.htm",
+      "summary": "Cận Tết, nhiều hãng xe Nhật như Honda, Toyota, Mitsubishi hay Lexus đồng loạt thiếu xe giao ngay. Không ít mẫu bán chạy đã hết hàng, danh sách khách chờ kéo dài sang sau Tết, cho thấy áp lực nguồn cung đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:18:46.408831+07:00",
+      "fetched": "2026-01-23T23:18:46.408946+07:00"
+    },
+    {
+      "id": "c15d69fede5f152ad88952d8fdb95917",
+      "title": "Ảnh Lisa quảng bá du lịch Thái Lan gây nghi vấn dùng AI, nhà chức trách lên tiếng trấn an",
+      "link": "https://tuoitre.vn/anh-lisa-quang-ba-du-lich-thai-lan-gay-nghi-van-dung-ai-nha-chuc-trach-len-tieng-tran-an-20260123210159932.htm",
+      "summary": "Một poster quảng bá du lịch Thái Lan với hình ảnh Lisa (BlackPink) bất ngờ vấp phải làn sóng nghi ngờ trên mạng xã hội vì bị cho là 'giống ảnh AI'. Cơ quan Du lịch Thái Lan sau đó đã lên tiếng bác bỏ thông tin này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:18:46.408702+07:00",
+      "fetched": "2026-01-23T23:18:46.408819+07:00"
+    },
+    {
+      "id": "04be9fe28ca5788b638ddcbeaa47b903",
+      "title": "Bloomberg: Highlands Coffee đặt mục tiêu IPO 400 triệu USD tại Việt Nam",
+      "link": "https://tuoitre.vn/bloomberg-highlands-coffee-dat-muc-tieu-ipo-400-trieu-usd-tai-viet-nam-20260123200613675.htm",
+      "summary": "Highlands Coffee vừa báo lợi nhuận trước thuế đạt hơn 297 tỉ đồng trong quý 3-2025, mức cao nhất trong 2 năm. Chuỗi này hiện có hơn 900 điểm bán trên khắp Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:18:46.408569+07:00",
+      "fetched": "2026-01-23T23:18:46.408691+07:00"
+    },
+    {
+      "id": "d835424536a93aeb7d306af66c998144",
+      "title": "Hộ kinh doanh bán đơn hàng nhỏ: Lãi 200 đồng, chi phí xuất hóa đơn tới 500 đồng",
+      "link": "https://tuoitre.vn/ho-kinh-doanh-ban-don-hang-nho-lai-200-dong-chi-phi-xuat-hoa-don-toi-500-dong-20260123211250461.htm",
+      "summary": "Nhiều hộ kinh doanh có doanh thu trên 1 tỉ đồng/năm nhưng chủ yếu bán đơn hàng nhỏ cho biết chi phí xuất hóa đơn điện tử đang cao hơn cả lợi nhuận mỗi đơn đơn hàng, thậm chí cao hơn cả số thuế phải nộp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:18:46.408426+07:00",
+      "fetched": "2026-01-23T23:18:46.408557+07:00"
+    },
+    {
+      "id": "0a59179880a05f4dcd2368aa883e5bd8",
+      "title": "Ngắm màn pháo hoa 'tuyệt đối điện ảnh' trên bầu trời Hà Nội mừng Đại hội XIV của Đảng thành công",
+      "link": "https://tuoitre.vn/ngam-man-phao-hoa-tuyet-doi-dien-anh-tren-bau-troi-ha-noi-mung-dai-hoi-xiv-cua-dang-thanh-cong-20260123155757247.htm",
+      "summary": "Tối 23-1, bầu trời Hà Nội rực sáng với hiệu ứng màu sắc đa tầng của màn bắn pháo hoa tầm cao mừng Đại hội XIV của Đảng thành công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:18:46.408178+07:00",
+      "fetched": "2026-01-23T23:18:46.408410+07:00"
+    },
     {
       "id": "4c7e32e3e7d6181ce6f82e4b23dbebce",
       "title": "Giá vàng thế giới tiến sát 5.000 USD/ounce, giá bạc gần chạm 100 USD/ounce",
@@ -443,6 +553,46 @@ window.newsData_2026_01_23 = {
       "fetched": "2026-01-23T17:15:59.639850+07:00"
     },
     {
+      "id": "ebe6e52998f3c1d9528a26a1a2a748aa",
+      "title": "Thứ sáu ngày 23 tháng 1, tiền cộng dồn của Vietlott tăng 31,5 tỉ đồng",
+      "link": "https://thanhnien.vn/thu-sau-ngay-23-thang-1-tien-cong-don-cua-vietlott-tang-315-ti-dong-185260123224747414.htm",
+      "summary": "Tối 23.1, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và không ghi nhận người trúng giải độc đắc nào nên số tiền cộng dồn hiện tại hơn 31,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T15:56:00+07:00",
+      "fetched": "2026-01-23T23:18:45.050864+07:00"
+    },
+    {
+      "id": "9807e186786b4041f1322e694cad43b8",
+      "title": "U.23 Việt Nam ăn mừng tri ân Hiểu Minh: Gắn kết và vô cùng cảm xúc!",
+      "link": "https://thanhnien.vn/u23-viet-nam-an-mung-tri-an-hieu-minh-gan-ket-va-vo-cung-cam-xuc-185260123224700267.htm",
+      "summary": "Tiền đạo Quốc Việt đã ăn mừng tri ân Hiểu Minh sau khi sút tung lưới U.23 Hàn Quốc ở trận tranh HCĐ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T15:56:00+07:00",
+      "fetched": "2026-01-23T23:18:45.051029+07:00"
+    },
+    {
+      "id": "e27aa040f52914cc1c49b189ca52b39f",
+      "title": "Đình Bắc va chạm ở vòng cấm, trọng tài 'quay xe' xóa phạt đền cho U.23 Việt Nam: Tại sao?",
+      "link": "https://thanhnien.vn/dinh-bac-va-cham-o-vong-cam-trong-tai-quay-xe-xoa-phat-den-cho-u23-viet-nam-tai-sao-185260123225121486.htm",
+      "summary": "Trọng tài người Kuwait Abdullah Jamali đã thổi phạt đền U.23 Việt Nam sau pha va chạm giữa Đình Bắc và cầu thủ U.23 Hàn Quốc, nhưng sau đó ông đã 'quay xe' sau khi tham khảo VAR.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T15:54:00+07:00",
+      "fetched": "2026-01-23T23:18:45.051191+07:00"
+    },
+    {
+      "id": "7d34b01a33c4c5e4c2762c4cd0f7fb8a",
+      "title": "Tùng Dương, Hồng Nhung gây xúc động trong chương trình 'Dưới lá cờ vẻ vang của Đảng'",
+      "link": "https://thanhnien.vn/tung-duong-hong-nhung-gay-xuc-dong-trong-chuong-trinh-duoi-la-co-ve-vang-cua-dang-185260123220128008.htm",
+      "summary": "Chương trình nghệ thuật đặc biệt 'Dưới lá cờ vẻ vang của Đảng' được tổ chức tại Sân vận động Quốc gia Mỹ Đình (Hà Nội). Đây là hoạt động được tổ chức nhằm chào mừng thành công Đại hội đại biểu toàn quốc lần thứ XIV của Đảng Cộng sản Việt Nam, đồng thời kỷ niệm 96 năm Ngày thành lập Đảng (3.2.1930 - ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T15:22:00+07:00",
+      "fetched": "2026-01-23T23:18:45.051347+07:00"
+    },
+    {
       "id": "686b4cb3252ba43980e1f175e0731349",
       "title": "Xem xét giải thể 13 quỹ từ thiện, xã hội và hội quần chúng vì không có thông tin hoạt động",
       "link": "https://tuoitre.vn/xem-xet-giai-the-13-quy-tu-thien-xa-hoi-va-hoi-quan-chung-vi-khong-co-thong-tin-hoat-dong-20260123133236983.htm",
@@ -593,6 +743,56 @@ window.newsData_2026_01_23 = {
       "fetched": "2026-01-23T15:18:36.612070+07:00"
     },
     {
+      "id": "ed2e5832ae0419d45fd8428b01f50c7a",
+      "title": "Thứ trưởng Vũ Hải Quân được giới thiệu ứng cử đại biểu Quốc hội",
+      "link": "https://vnexpress.net/thu-truong-vu-hai-quan-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-5009329.html",
+      "summary": "Thứ trưởng Thường trực Vũ Hải Quân được 100% cử tri Bộ Khoa học và Công nghệ thống nhất giới thiệu ứng cử đại biểu Quốc hội khóa XVI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T14:58:46+07:00",
+      "fetched": "2026-01-23T23:18:41.633033+07:00"
+    },
+    {
+      "id": "ed2e5832ae0419d45fd8428b01f50c7a",
+      "title": "Thứ trưởng Vũ Hải Quân được giới thiệu ứng cử đại biểu Quốc hội",
+      "link": "https://vnexpress.net/thu-truong-vu-hai-quan-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-5009329.html",
+      "summary": "Thứ trưởng Thường trực Vũ Hải Quân được 100% cử tri Bộ Khoa học và Công nghệ thống nhất giới thiệu ứng cử đại biểu Quốc hội khóa XVI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-23T14:58:46+07:00",
+      "fetched": "2026-01-23T23:18:55.027284+07:00"
+    },
+    {
+      "id": "0e8b3387bf458a105749a97028b6f439",
+      "title": "Công an làm việc với người chia sẻ thông tin xuyên tạc từ Fanpage Lê Trung Khoa",
+      "link": "https://vnexpress.net/cong-an-lam-viec-voi-nguoi-chia-se-thong-tin-xuyen-tac-tu-fanpage-le-trung-khoa-5009325.html",
+      "summary": "Người đàn ông 65 tuổi thừa nhận do nhận thức hạn chế, thiếu tỉnh táo, nên đã chia sẻ thông tin sai sự thật từ các trang Lê Trung Khoa và Nguyễn Văn Đài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T14:49:32+07:00",
+      "fetched": "2026-01-23T23:18:41.633212+07:00"
+    },
+    {
+      "id": "29a631554afe42cb410be541ee5fae71",
+      "title": "Nga nói Ukraine cần rút khỏi Donbass để chấm dứt xung đột",
+      "link": "https://vnexpress.net/nga-noi-ukraine-can-rut-khoi-donbass-de-cham-dut-xung-dot-5009288.html",
+      "summary": "Điện Kremlin nhắc lại yêu cầu lực lượng Ukraine phải rút khỏi khu vực Donbass để hai bên có thể đạt thỏa thuận chấm dứt xung đột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T14:44:21+07:00",
+      "fetched": "2026-01-23T23:18:41.633402+07:00"
+    },
+    {
+      "id": "29a631554afe42cb410be541ee5fae71",
+      "title": "Nga nói Ukraine cần rút khỏi Donbass để chấm dứt xung đột",
+      "link": "https://vnexpress.net/nga-noi-ukraine-can-rut-khoi-donbass-de-cham-dut-xung-dot-5009288.html",
+      "summary": "Điện Kremlin nhắc lại yêu cầu lực lượng Ukraine phải rút khỏi khu vực Donbass để hai bên có thể đạt thỏa thuận chấm dứt xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-23T14:44:21+07:00",
+      "fetched": "2026-01-23T23:18:48.796605+07:00"
+    },
+    {
       "id": "12e68f65639c87b366193397a2421da7",
       "title": "SUV 7 chỗ năm 2025: Doanh số Ford Everest cao gấp gần 4 lần Toyota Fortuner",
       "link": "https://thanhnien.vn/suv-7-cho-nam-2025-doanh-so-ford-everest-cao-gap-gan-4-lan-toyota-fortuner-185260119111052018.htm",
@@ -601,6 +801,16 @@ window.newsData_2026_01_23 = {
       "category": "Tổng hợp",
       "published": "2026-01-23T14:16:00+07:00",
       "fetched": "2026-01-23T21:17:21.711241+07:00"
+    },
+    {
+      "id": "08952c05b587ab27fb3e9245cf3defbb",
+      "title": "Pháo hoa rực sáng bầu trời Hà Nội mừng thành công Đại hội Đảng XIV",
+      "link": "https://vnexpress.net/phao-hoa-ruc-sang-bau-troi-ha-noi-mung-thanh-cong-dai-hoi-dang-xiv-5009321.html",
+      "summary": "Màn trình diễn pháo hoa nghệ thuật đặc sắc quy mô lớn tại sân Mỹ Đình như bản hòa ca hùng tráng chào mừng thành công Đại hội đại biểu toàn quốc lần thứ XIV của Đảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T14:14:37+07:00",
+      "fetched": "2026-01-23T23:18:41.633567+07:00"
     },
     {
       "id": "9724960dcd1cc7f4c8ec19f4ee9a8543",
@@ -623,6 +833,16 @@ window.newsData_2026_01_23 = {
       "fetched": "2026-01-23T21:17:21.711577+07:00"
     },
     {
+      "id": "1c5bfdcb63f6dbba4ce3167ef38d822b",
+      "title": "Trộm gần 3 cây vàng trong túi xách của nhân viên bệnh viện",
+      "link": "https://vnexpress.net/trom-gan-3-cay-vang-trong-tui-xach-cua-nhan-vien-benh-vien-5009320.html",
+      "summary": "Cảnh sát xác định kẻ trộm đột nhập Khoa Cấp cứu Trung tâm Y tế khu vực Cẩm Lệ vào ban đêm, lấy nhiều vàng trong túi xách của nữ điều dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T14:09:03+07:00",
+      "fetched": "2026-01-23T23:18:41.633726+07:00"
+    },
+    {
       "id": "0ee8d4f1b20022a49719803cf7c1c4c4",
       "title": "Lãnh đạo các nước chúc mừng Tổng Bí thư Tô Lâm tái đắc cử",
       "link": "https://vnexpress.net/lanh-dao-cac-nuoc-chuc-mung-tong-bi-thu-to-lam-tai-dac-cu-5009312.html",
@@ -631,6 +851,16 @@ window.newsData_2026_01_23 = {
       "category": "Thế giới",
       "published": "2026-01-23T14:05:57+07:00",
       "fetched": "2026-01-23T21:17:24.148082+07:00"
+    },
+    {
+      "id": "ef1ea5548fe03aabcb6d0b0fc165f2ac",
+      "title": "Tôi phải vay 30 triệu tiêu Tết vì chồng đem 250 triệu đi mua vàng",
+      "link": "https://vnexpress.net/gia-vang-hom-nay-vay-30-trieu-tieu-tet-vi-chong-dem-250-trieu-di-mua-vang-5009252.html",
+      "summary": "Sợ lỡ cơ hội 'lời vài chục triệu', chồng tôi gom hết tiền tiết kiệm trong năm (180 triệu) cộng thêm thưởng Tết (70 triệu) để đi mua vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T14:00:00+07:00",
+      "fetched": "2026-01-23T23:18:41.634051+07:00"
     },
     {
       "id": "00c3be8dc64af0cf17c69031ed3eb1d4",
@@ -681,6 +911,16 @@ window.newsData_2026_01_23 = {
       "category": "Thể thao",
       "published": "2026-01-23T13:41:21+07:00",
       "fetched": "2026-01-23T21:17:31.534398+07:00"
+    },
+    {
+      "id": "42d4adf9cbc8d9a89cc0d56f3b12d70d",
+      "title": "Việt Nam 1-0 Hàn Quốc (H2): Quốc Việt ghi bàn",
+      "link": "https://vnexpress.net/truc-tiep-viet-nam-vs-han-quoc-5009317.html",
+      "summary": "Việt Nam dẫn trước và thoát một quả penalty, trong trận tranh giải ba U23 châu Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-23T13:41:21+07:00",
+      "fetched": "2026-01-23T23:18:56.103746+07:00"
     },
     {
       "id": "4536fde426be55b6d15ff2771f4eccd2",
