@@ -1,7 +1,97 @@
 window.newsData_2026_01_24 = {
   "date": "2026-01-24",
-  "lastUpdated": "2026-01-24T21:12:08.049653+07:00",
+  "lastUpdated": "2026-01-24T23:14:26.361133+07:00",
   "articles": [
+    {
+      "id": "daeac0e579c36022e2c220fbf738248d",
+      "title": "Lãnh đạo Cuba, Nga và các nước gửi điện, thư chúc mừng Tổng Bí thư Tô Lâm",
+      "link": "https://tuoitre.vn/lanh-dao-cuba-nga-va-cac-nuoc-gui-dien-thu-chuc-mung-tong-bi-thu-to-lam-20260124205935175.htm",
+      "summary": "Lãnh đạo các nước Cuba, Nga, Nhật Bản, Mông Cổ, Belarus và Nicaragua gửi thư chúc mừng Tổng Bí thư Tô Lâm, thể hiện mối quan hệ hữu nghị và tin tưởng trong sự nghiệp phát triển chung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:14:18.110289+07:00",
+      "fetched": "2026-01-24T23:14:18.110429+07:00"
+    },
+    {
+      "id": "2980346ac5ee9d70f2db784cfedd30af",
+      "title": "Ngọc Linh, Duyên Quỳnh, Minh Hoàng hát phục vụ người thu gom rác",
+      "link": "https://tuoitre.vn/ngoc-linh-duyen-quynh-minh-hoang-hat-phuc-vu-nguoi-thu-gom-rac-20260124211252709.htm",
+      "summary": "Nhiều ca sĩ mang đến không khí xuân rộn ràng phục vụ hơn 300 cô chú, anh chị thu gom rác dân lập trên địa bàn TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:14:18.110166+07:00",
+      "fetched": "2026-01-24T23:14:18.110278+07:00"
+    },
+    {
+      "id": "39426d380ed48beecd6ccb418ffe9556",
+      "title": "Hiểu Minh nhọc nhằn rời sân bay Nội Bài khi U23 Việt Nam về nước",
+      "link": "https://tuoitre.vn/hieu-minh-nhoc-nhan-roi-san-bay-noi-bai-khi-u23-viet-nam-ve-nuoc-20260124213147285.htm",
+      "summary": "U23 Việt Nam đem huy chương đồng U23 châu Á 2026 về nước trong sự chào đón của biển người hâm mộ tại sân bay Nội Bài (Hà Nội).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:14:18.110044+07:00",
+      "fetched": "2026-01-24T23:14:18.110155+07:00"
+    },
+    {
+      "id": "b60be068790e9a39f2fe562a0c3cfbf6",
+      "title": "Nghi án giết hai mẹ con 'vợ hờ' ở Cà Mau do ghen tuông",
+      "link": "https://tuoitre.vn/nghi-an-giet-hai-me-con-vo-ho-o-ca-mau-do-ghen-tuong-20260124212147064.htm",
+      "summary": "Ngày 24-1, theo nguồn tin của Tuổi Trẻ Online, Cơ quan cảnh sát điều tra Công an tỉnh Cà Mau đang điều tra vụ án giết “vợ hờ” cùng con gái của nạn nhân xảy ra tại ấp Mỹ Tân, xã Phước Long, tỉnh Cà Mau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:14:18.109922+07:00",
+      "fetched": "2026-01-24T23:14:18.110033+07:00"
+    },
+    {
+      "id": "6cefb2364553088ed5be4161a6ed8793",
+      "title": "Isaac ra nhạc Tết, khán giả nghe xong 'chỉ muốn về nhà liền'",
+      "link": "https://tuoitre.vn/isaac-ra-nhac-tet-khan-gia-nghe-xong-chi-muon-ve-nha-lien-20260124212352501.htm",
+      "summary": "Tối 24-1, ca sĩ Isaac chính thức ra mắt ca khúc mới mang tên 'Hơn ngàn mùa xuân' mang tiết tấu sôi động, vui tươi và giàu năng lượng, gợi không khí rộn ràng của những ngày đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:14:18.109796+07:00",
+      "fetched": "2026-01-24T23:14:18.109910+07:00"
+    },
+    {
+      "id": "711e70ec43657b5712786669251311ef",
+      "title": "Trung vệ Hiểu Minh được đồng đội tri ân ở Cúp Quốc gia",
+      "link": "https://tuoitre.vn/trung-ve-hieu-minh-duoc-dong-doi-tri-an-o-cup-quoc-gia-2026012421085321.htm",
+      "summary": "Các cầu thủ PVF-CAND đã cầm áo của trung vệ Nguyễn Hiểu Minh để ăn mừng chiến thắng trước CLB Hoàng Anh Gia Lai ở Cúp Quốc gia 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:14:18.109666+07:00",
+      "fetched": "2026-01-24T23:14:18.109784+07:00"
+    },
+    {
+      "id": "dec1bb4a1f0b3410480a214e24734f97",
+      "title": "Tổng thống Putin điện đàm với Tổng Bí thư Tô Lâm",
+      "link": "https://tuoitre.vn/tong-thong-putin-dien-dam-voi-tong-bi-thu-to-lam-20260124213433401.htm",
+      "summary": "Tối 24-1, Tổng thống Liên bang Nga Vladimir Putin đã điện đàm với Tổng Bí thư Tô Lâm chúc mừng thành công Đại hội Đảng lần thứ XIV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:14:18.109530+07:00",
+      "fetched": "2026-01-24T23:14:18.109653+07:00"
+    },
+    {
+      "id": "2c74ca9a1607ea61f08bc979c9961270",
+      "title": "Lãnh đạo VFF chủ trì cuộc họp quan trọng của AFC",
+      "link": "https://tuoitre.vn/lanh-dao-vff-chu-tri-cuoc-hop-quan-trong-cua-afc-20260124214222252.htm",
+      "summary": "Hành trình tại U23 châu Á 2026 của U23 Việt Nam đã kết thúc nhưng Chủ tịch Liên đoàn Bóng đá Việt Nam (VFF) chưa về nước cùng thầy trò HLV Kim Sang Sik.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:14:18.109375+07:00",
+      "fetched": "2026-01-24T23:14:18.109517+07:00"
+    },
+    {
+      "id": "b3da6a1c4082d7fd029ce174626c0198",
+      "title": "Ông Trump dọa áp thuế quan 100% lên Canada nếu ký thỏa thuận thương mại với Trung Quốc",
+      "link": "https://tuoitre.vn/ong-trump-doa-ap-thue-quan-100-len-canada-neu-ky-thoa-thuan-thuong-mai-voi-trung-quoc-20260124220115886.htm",
+      "summary": "Tổng thống Mỹ Donald Trump tuyên bố ông sẽ áp thuế quan 100% đối với Canada nếu nước này ký kết thỏa thuận thương mại với Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:14:18.109131+07:00",
+      "fetched": "2026-01-24T23:14:18.109358+07:00"
+    },
     {
       "id": "13cdc367b4a10b55cb5506506997fed0",
       "title": "Chơi game bao nhiêu tiếng mỗi tuần thì bắt đầu ảnh hưởng sức khỏe?",
@@ -453,6 +543,106 @@ window.newsData_2026_01_24 = {
       "fetched": "2026-01-24T17:12:53.948090+07:00"
     },
     {
+      "id": "d14791471d34f44a038903e80752c018",
+      "title": "Celadon Golf Club: Mảnh ghép cuối của hệ sinh thái thể thao rộng 5,43 ha hoạt động",
+      "link": "https://thanhnien.vn/celadon-golf-club-manh-ghep-cuoi-cua-he-sinh-thai-the-thao-rong-543-ha-hoat-dong-185260124225256855.htm",
+      "summary": "Ngày 24.1, Celadon Golf Club chính thức đi vào hoạt động, giúp hoàn thiện hệ thống tiện ích tại Khu Liên hiệp thể thao của đại đô thị Celadon City.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T16:12:00+07:00",
+      "fetched": "2026-01-24T23:14:17.010096+07:00"
+    },
+    {
+      "id": "a8a0958c319fb72c11652d7759e5dae2",
+      "title": "7 lần đoán sai hướng sút luân lưu của U.23 Việt Nam, thủ thành Hàn Quốc bị chỉ trích dữ dội",
+      "link": "https://thanhnien.vn/7-lan-doan-sai-huong-sut-luan-luu-cua-u23-viet-nam-thu-thanh-han-quoc-bi-chi-trich-du-doi-185260124224804479.htm",
+      "summary": "Thất bại 6-7 trên loạt sút luân lưu trước U.23 Việt Nam rạng sáng 24.1 ở trận tranh hạng ba giải U.23 châu Á 2026 không chỉ khiến U.23 Hàn Quốc lỡ hẹn với tấm HCĐ, mà còn thổi bùng làn sóng phẫn nộ trong cộng đồng người hâm mộ xứ kim chi. Hiện tâm điểm của mọi chỉ trích đang dồn về thủ môn Hwang Jae...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:51:00+07:00",
+      "fetched": "2026-01-24T23:14:17.010265+07:00"
+    },
+    {
+      "id": "41b522e4bd3580092ee4e93b098187dd",
+      "title": "HLV Kim cùng CĐV hát 'Việt Nam Hồ Chí Minh'",
+      "link": "https://vnexpress.net/hlv-kim-cung-cdv-hat-viet-nam-ho-chi-minh-5009583.html",
+      "summary": "Trở về từ giải U23 châu Á 2026, HLV Kim Sang-sik cùng hàng trăm CĐV hoà nhịp hát \"Như có Bác trong ngày đại thắng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:30:25+07:00",
+      "fetched": "2026-01-24T23:14:13.881592+07:00"
+    },
+    {
+      "id": "41b522e4bd3580092ee4e93b098187dd",
+      "title": "HLV Kim cùng CĐV hát 'Việt Nam Hồ Chí Minh'",
+      "link": "https://vnexpress.net/hlv-kim-cung-cdv-hat-viet-nam-ho-chi-minh-5009583.html",
+      "summary": "Trở về từ giải U23 châu Á 2026, HLV Kim Sang-sik cùng hàng trăm CĐV hoà nhịp hát \"Như có Bác trong ngày đại thắng\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-24T15:30:25+07:00",
+      "fetched": "2026-01-24T23:14:26.347076+07:00"
+    },
+    {
+      "id": "2fc145e5f76540df7af8f987b3debd4f",
+      "title": "U.23 Việt Nam về nước: Hiểu Minh được người hâm mộ vây kín động viên",
+      "link": "https://thanhnien.vn/u23-viet-nam-ve-nuoc-hieu-minh-duoc-nguoi-ham-mo-vay-kin-dong-vien-185260124223027827.htm",
+      "summary": "Khoảng 20 giờ tối 24.1, HLV Kim Sang-sik cùng U.23 Việt Nam đã hạ cánh xuống sân bay Nội Bài (Hà Nội), chuẩn bị trở về nhà để nghỉ ngơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:30:00+07:00",
+      "fetched": "2026-01-24T23:14:17.010444+07:00"
+    },
+    {
+      "id": "b4e9c6bfb7d1cd5e58aa38a133f26718",
+      "title": "Tổng thống Nga Putin điện đàm với Tổng Bí thư Tô Lâm",
+      "link": "https://thanhnien.vn/tong-thong-nga-putin-dien-dam-voi-tong-bi-thu-to-lam-185260124221000202.htm",
+      "summary": "Tối 24.1, Tổng thống Nga Vladimir Putin đã điện đàm với Tổng Bí thư Tô Lâm chúc mừng thành công Đại hội Đảng lần thứ XIV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:29:00+07:00",
+      "fetched": "2026-01-24T23:14:17.010598+07:00"
+    },
+    {
+      "id": "4ddf6e5b31f1389059f54200829349a9",
+      "title": "Ông Trump dọa áp thuế 100% với Canada",
+      "link": "https://vnexpress.net/ong-trump-doa-ap-thue-100-voi-canada-5009582.html",
+      "summary": "Ngày 24/1, Tổng thống Mỹ Donald Trump cho biết sẽ áp thuế nhập khẩu 100% lên Canada nếu nước này đạt thỏa thuận thương mại với Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:24:32+07:00",
+      "fetched": "2026-01-24T23:14:13.881770+07:00"
+    },
+    {
+      "id": "4ddf6e5b31f1389059f54200829349a9",
+      "title": "Ông Trump dọa áp thuế 100% với Canada",
+      "link": "https://vnexpress.net/ong-trump-doa-ap-thue-100-voi-canada-5009582.html",
+      "summary": "Ngày 24/1, Tổng thống Mỹ Donald Trump cho biết sẽ áp thuế nhập khẩu 100% lên Canada nếu nước này đạt thỏa thuận thương mại với Trung Quốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-24T15:24:32+07:00",
+      "fetched": "2026-01-24T23:14:21.946885+07:00"
+    },
+    {
+      "id": "c07c747a9f234b8f3d93301851fd2651",
+      "title": "Tổng thống Putin điện đàm với Tổng Bí thư Tô Lâm",
+      "link": "https://vnexpress.net/tong-thong-putin-dien-dam-voi-tong-bi-thu-to-lam-5009584.html",
+      "summary": "Tổng thống Putin điện đàm với Tổng Bí thư Tô Lâm, chúc mừng Việt Nam tổ chức thành công Đại hội Đảng lần thứ XIV.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:19:13+07:00",
+      "fetched": "2026-01-24T23:14:13.881938+07:00"
+    },
+    {
+      "id": "c07c747a9f234b8f3d93301851fd2651",
+      "title": "Tổng thống Putin điện đàm với Tổng Bí thư Tô Lâm",
+      "link": "https://vnexpress.net/tong-thong-putin-dien-dam-voi-tong-bi-thu-to-lam-5009584.html",
+      "summary": "Tổng thống Putin điện đàm với Tổng Bí thư Tô Lâm, chúc mừng Việt Nam tổ chức thành công Đại hội Đảng lần thứ XIV.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-24T15:19:13+07:00",
+      "fetched": "2026-01-24T23:14:19.933676+07:00"
+    },
+    {
       "id": "8aa020c9b2ad556ccabf82f9b62fd079",
       "title": "Lý do khiến 2 bệnh viện không được ký hợp đồng khám chữa bệnh bảo hiểm y tế",
       "link": "https://tuoitre.vn/ly-do-khien-2-benh-vien-khong-duoc-ky-hop-dong-kham-chua-benh-bao-hiem-y-te-20260124111016047.htm",
@@ -603,6 +793,196 @@ window.newsData_2026_01_24 = {
       "fetched": "2026-01-24T15:16:26.172326+07:00"
     },
     {
+      "id": "7770e174b5911d4141d9aa90d8cc3157",
+      "title": "Gan nhiễm mỡ: Đi bộ bao lâu thì có lợi?",
+      "link": "https://thanhnien.vn/gan-nhiem-mo-di-bo-bao-lau-thi-co-loi-185260124220103408.htm",
+      "summary": "Gan nhiễm mỡ không chỉ thúc đẩy xơ gan mà còn làm tăng nguy cơ tử vong do bệnh tim mạch và ung thư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:01:00+07:00",
+      "fetched": "2026-01-24T23:14:17.010747+07:00"
+    },
+    {
+      "id": "6ae58a85440e5406cbe5a4d30f312962",
+      "title": "VinFast nhận cú đúp giải thưởng tại Ấn Độ",
+      "link": "https://vnexpress.net/vinfast-nhan-cu-dup-giai-thuong-tai-an-do-5009568.html",
+      "summary": "VinFast được trao giải \"Tân binh của năm\" và \"Xe đáng tiền của năm\" cho mẫu xe VF 6 tại Auto9 Awards 2026, ngày 24/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:00:23+07:00",
+      "fetched": "2026-01-24T23:14:13.882098+07:00"
+    },
+    {
+      "id": "34d76dfa1a54fad06b6b1de58822e5fe",
+      "title": "Truy bắt 2 nghi phạm cướp tiệm vàng ở Ninh Bình",
+      "link": "https://thanhnien.vn/truy-bat-2-nghi-pham-cuop-tiem-vang-o-ninh-binh-185260124214947468.htm",
+      "summary": "Hai nghi phạm đeo khẩu trang, đội mũ bảo hiểm, cầm theo dao bầu xông vào cướp vàng của một tiệm vàng trên địa bàn tỉnh Ninh Bình rồi tẩu thoát khỏi hiện trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:00:00+07:00",
+      "fetched": "2026-01-24T23:14:17.010897+07:00"
+    },
+    {
+      "id": "88e1293054d164011cb76bdc0129e06c",
+      "title": "Ukraine nghi để lọt tên lửa siêu vượt âm Zircon Nga",
+      "link": "https://vnexpress.net/ukraine-nghi-de-lot-ten-lua-sieu-vuot-am-zircon-nga-5009559.html",
+      "summary": "Ukraine tuyên bố chặn 372 mục tiêu trong cuộc tập kích của Nga, nhưng để lọt 24 vũ khí, trong đó có 2 tên lửa siêu vượt âm Zircon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T14:51:18+07:00",
+      "fetched": "2026-01-24T23:14:13.882253+07:00"
+    },
+    {
+      "id": "88e1293054d164011cb76bdc0129e06c",
+      "title": "Ukraine nghi để lọt tên lửa siêu vượt âm Zircon Nga",
+      "link": "https://vnexpress.net/ukraine-nghi-de-lot-ten-lua-sieu-vuot-am-zircon-nga-5009559.html",
+      "summary": "Ukraine tuyên bố chặn 372 mục tiêu trong cuộc tập kích của Nga, nhưng để lọt 24 vũ khí, trong đó có 2 tên lửa siêu vượt âm Zircon.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-24T14:51:18+07:00",
+      "fetched": "2026-01-24T23:14:19.933850+07:00"
+    },
+    {
+      "id": "dee5cd58c1301151b321d110d540a0b6",
+      "title": "Rủi ro cực lớn khi mua bán bạc trên giấy tại 'chợ đen'",
+      "link": "https://thanhnien.vn/rui-ro-cuc-lon-khi-mua-ban-bac-tren-giay-tai-cho-den-185260124204500621.htm",
+      "summary": "Mua bán bạc tại 'chợ đen' đang diễn ra rất sôi động, song tiềm ẩn nhiều rủi ro. Các doanh nghiệp khuyến cáo nhà đầu tư tuyệt đối không nên giao dịch qua hình thức mua bán lại đơn hàng, tránh 'tiền mất tật mang'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T14:49:00+07:00",
+      "fetched": "2026-01-24T23:14:17.011050+07:00"
+    },
+    {
+      "id": "c8da7902cc78b04980305b2f9328bd6d",
+      "title": "6 nhà hàng Việt nổi tiếng ở nước ngoài đóng cửa gây tiếc nuối",
+      "link": "https://vnexpress.net/6-nha-hang-viet-noi-tieng-o-nuoc-ngoai-dong-cua-gay-tiec-nuoi-5009511.html",
+      "summary": "Nhiều nhà hàng Việt lâu năm tại Mỹ, Australia và Anh đóng cửa vì khó khăn, khép lại hành trình quảng bá ẩm thực Việt, để lại nhiều tiếc nuối cho thực khách địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T14:46:41+07:00",
+      "fetched": "2026-01-24T23:14:13.882432+07:00"
+    },
+    {
+      "id": "d5346feaf137377ad21546c1ad3732a1",
+      "title": "Hiểu Minh nhận hoa trên xe lăn, U.23 Việt Nam được 'biển người' chào đón: Thầy Kim tràn cảm xúc",
+      "link": "https://thanhnien.vn/hieu-minh-nhan-hoa-tren-xe-lan-u23-viet-nam-duoc-bien-nguoi-chao-don-thay-kim-tran-cam-xuc-18526012419483273.htm",
+      "summary": "U.23 Việt Nam đã trở về trong sự tiếp đón nồng nhiệt của người hâm mộ, sau thành công vang dội với tấm HCĐ U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T14:45:00+07:00",
+      "fetched": "2026-01-24T23:14:17.011198+07:00"
+    },
+    {
+      "id": "ed002c99772084c771baece645d2b770",
+      "title": "Dép Crocs hình viên gạch Lego",
+      "link": "https://vnexpress.net/dep-crocs-hinh-vien-gach-lego-5009581.html",
+      "summary": "Crocs bắt tay Lego, tung ra mẫu dép hình viên gạch màu đỏ kinh điển theo phong cách quá khổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T14:44:46+07:00",
+      "fetched": "2026-01-24T23:14:13.882587+07:00"
+    },
+    {
+      "id": "ff9fc06ad692379d22b5576e59a4c2df",
+      "title": "Sinh viên quốc tế lúng túng lần đầu gói bánh tét, đón Tết Việt giữa giảng đường",
+      "link": "https://thanhnien.vn/sinh-vien-quoc-te-lung-tung-lan-dau-goi-banh-tet-don-tet-viet-giua-giang-duong-185260124170901622.htm",
+      "summary": "Lần đầu cầm lá chuối, loay hoay buộc lạt và cẩn trọng từ từ xếp từng lớp nếp, đậu, thịt, nhiều sinh viên quốc tế đã có một trải nghiệm Tết Việt rất khác ngay giữa khuôn viên trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T14:44:00+07:00",
+      "fetched": "2026-01-24T23:14:17.011371+07:00"
+    },
+    {
+      "id": "4258a0eafbac3098a2ebd8b1a7e585e7",
+      "title": "Độc đáo buổi học thứ hai ở Trường THPT Đầm Dơi",
+      "link": "https://thanhnien.vn/doc-dao-buoi-hoc-thu-hai-o-truong-thpt-dam-doi-185260124172605028.htm",
+      "summary": "Buổi chiều ở Trường THPT Đầm Dơi không còn là 'giờ trống' sau học văn hóa. Khuôn viên trường trở thành không gian để học sinh rèn luyện, trải nghiệm và nuôi dưỡng đam mê thông qua các câu lạc bộ học đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T14:28:00+07:00",
+      "fetched": "2026-01-24T23:14:17.011523+07:00"
+    },
+    {
+      "id": "59d670355c2a1ffdf6029fc176ba4bb0",
+      "title": "U23 Việt Nam về nước trong vòng vây người hâm mộ",
+      "link": "https://vnexpress.net/u23-viet-nam-ve-nuoc-trong-vong-vay-nguoi-ham-mo-5009579.html",
+      "summary": "Tối 24/1, thầy trò HLV Kim Sang-sik đã về đến Nội Bài trong sự chào đón nồng nhiệt của người hâm mộ sau khi đánh bại Hàn Quốc để giành huy chương đồng U23 châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T14:21:27+07:00",
+      "fetched": "2026-01-24T23:14:13.882741+07:00"
+    },
+    {
+      "id": "0e588ef2b779fb47520449bc5a7d2b96",
+      "title": "Trung Quốc 0-2 Nhật Bản (H2): Vùng lên tìm bàn gỡ",
+      "link": "https://vnexpress.net/truc-tiep-trung-quoc-vs-nhat-ban-5009567.html",
+      "summary": "Sau khi thủng lưới hai bàn, Trung Quốc buộc phải tràn lên ở hiệp hai trận tranh chức vô địch U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T14:19:36+07:00",
+      "fetched": "2026-01-24T23:14:13.882907+07:00"
+    },
+    {
+      "id": "0e588ef2b779fb47520449bc5a7d2b96",
+      "title": "Trung Quốc 0-2 Nhật Bản (H2): Vùng lên tìm bàn gỡ",
+      "link": "https://vnexpress.net/truc-tiep-trung-quoc-vs-nhat-ban-5009567.html",
+      "summary": "Sau khi thủng lưới hai bàn, Trung Quốc buộc phải tràn lên ở hiệp hai trận tranh chức vô địch U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-24T14:19:36+07:00",
+      "fetched": "2026-01-24T23:14:26.347251+07:00"
+    },
+    {
+      "id": "a13d071a99e034e2b29b939f06e0f057",
+      "title": "Nhân viên ngân hàng 'rút lõi' thẻ tín dụng của 39 khách",
+      "link": "https://vnexpress.net/nhan-vien-ngan-hang-rut-loi-the-tin-dung-cua-39-khach-5009576.html",
+      "summary": "Lợi dụng lòng tin và vị trí công tác, Trương Thị Hoài đã lén lút rút tiền từ 39 thẻ tín dụng của khách hàng để tiêu xài cá nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T14:15:02+07:00",
+      "fetched": "2026-01-24T23:14:13.883064+07:00"
+    },
+    {
+      "id": "ac732bff052ff35554a5f21da03336cc",
+      "title": "‘Mã Đằng đừng đi’: Canh bạc của Ngô Kinh",
+      "link": "https://thanhnien.vn/ma-dang-dung-di-canh-bac-cua-ngo-kinh-185260124210720296.htm",
+      "summary": "Sau chuỗi phim hành động 'làm mưa làm gió' phòng vé, sự trở lại của Ngô Kinh trong vai trò nhà đầu tư cho bộ phim ‘Mã Đằng đừng đi’ đang trở thành tâm điểm bàn tán của giới mộ điệu điện ảnh Hoa ngữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T14:14:00+07:00",
+      "fetched": "2026-01-24T23:14:17.011670+07:00"
+    },
+    {
+      "id": "3e6ebc11682ac91e0bf24975108a2a98",
+      "title": "Cảnh sát truy tìm kẻ giết hai mẹ con người tình",
+      "link": "https://vnexpress.net/canh-sat-truy-tim-ke-giet-hai-me-con-nguoi-tinh-5009574.html",
+      "summary": "Người đàn ông 70 tuổi gọi điện cho con trai người tình, thông báo đã giết bà và con gái, đề nghị anh này về \"lo hậu sự\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T14:09:44+07:00",
+      "fetched": "2026-01-24T23:14:13.883169+07:00"
+    },
+    {
+      "id": "aa9ba5b7f61cfbae9a118de8d2eefd57",
+      "title": "Wawrinka giã từ Australia Mở rộng",
+      "link": "https://vnexpress.net/wawrinka-gia-tu-australia-mo-rong-5009566.html",
+      "summary": "Nhà vô địch năm 2014, Stan Wawrinka thua 7-6(5), 2-6, 6-4, 6-4 trước Taylor Fritz ở vòng ba, trong lần cuối tham dự Australia Mở rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T14:07:48+07:00",
+      "fetched": "2026-01-24T23:14:13.883349+07:00"
+    },
+    {
+      "id": "aa9ba5b7f61cfbae9a118de8d2eefd57",
+      "title": "Wawrinka giã từ Australia Mở rộng",
+      "link": "https://vnexpress.net/wawrinka-gia-tu-australia-mo-rong-5009566.html",
+      "summary": "Nhà vô địch năm 2014, Stan Wawrinka thua 7-6(5), 2-6, 6-4, 6-4 trước Taylor Fritz ở vòng ba, trong lần cuối tham dự Australia Mở rộng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-24T14:07:48+07:00",
+      "fetched": "2026-01-24T23:14:26.347435+07:00"
+    },
+    {
       "id": "cb2aca5e778aeb4272e817db9db670d3",
       "title": "Khánh thành nhà bia tưởng niệm các anh hùng liệt sĩ Trung đoàn Không quân 917",
       "link": "https://thanhnien.vn/khanh-thanh-nha-bia-tuong-niem-cac-anh-hung-liet-si-trung-doan-khong-quan-917-185260124185046037.htm",
@@ -621,6 +1001,16 @@ window.newsData_2026_01_24 = {
       "category": "Tổng hợp",
       "published": "2026-01-24T14:00:00+07:00",
       "fetched": "2026-01-24T21:11:57.007937+07:00"
+    },
+    {
+      "id": "7f6802667c1a1180629517807bbde115",
+      "title": "Tôi thích người vợ 'hoang dã' đêm đó thay vì chuẩn mực như lâu nay",
+      "link": "https://vnexpress.net/toi-thich-nguoi-vo-hoang-da-dem-do-thay-vi-chuan-muc-nhu-lau-nay-5009485.html",
+      "summary": "Cô ấy thử những điều trước giờ chưa từng làm, như thể lần đầu cho phép bản thân bước ra khỏi khuôn mẫu tự đặt ra suốt nhiều năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T14:00:00+07:00",
+      "fetched": "2026-01-24T23:14:13.883505+07:00"
     },
     {
       "id": "40f2caccd669caebb0545a878af78a6c",
