@@ -1,7 +1,157 @@
 window.newsData_2026_01_24 = {
   "date": "2026-01-24",
-  "lastUpdated": "2026-01-24T13:19:20.571582+07:00",
+  "lastUpdated": "2026-01-24T15:16:31.884042+07:00",
   "articles": [
+    {
+      "id": "8aa020c9b2ad556ccabf82f9b62fd079",
+      "title": "Lý do khiến 2 bệnh viện không được ký hợp đồng khám chữa bệnh bảo hiểm y tế",
+      "link": "https://tuoitre.vn/ly-do-khien-2-benh-vien-khong-duoc-ky-hop-dong-kham-chua-benh-bao-hiem-y-te-20260124111016047.htm",
+      "summary": "2 trong 3 bệnh viện ngành cao su tại Gia Lai bị Bảo hiểm xã hội tỉnh từ chối ký hợp đồng khám chữa bệnh bảo hiểm y tế năm 2026 vì hồ sơ pháp lý không rõ ràng, không thực hiện đúng cam kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.174040+07:00",
+      "fetched": "2026-01-24T15:16:26.174170+07:00"
+    },
+    {
+      "id": "434756372b395f185bab8dfd038c8104",
+      "title": "Cụ bà 101 tuổi gây sốt với bí quyết sống thọ thách thức y học",
+      "link": "https://tuoitre.vn/cu-ba-101-tuoi-gay-sot-voi-bi-quyet-song-tho-thach-thuc-y-hoc-2026012412362783.htm",
+      "summary": "Ở tuổi 100, cụ bà Trung Quốc sống kiểu giới trẻ, thức khuya xem TV, ăn vặt nhưng vẫn khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.173916+07:00",
+      "fetched": "2026-01-24T15:16:26.174027+07:00"
+    },
+    {
+      "id": "d728867596e14aaf08d09e86ebeeb02c",
+      "title": "Trận chiến đẫm máu của Maki trong Jujutsu Kaisen tập 4 khiến cộng đồng fan rung chuyển",
+      "link": "https://tuoitre.vn/tran-chien-dam-mau-cua-maki-trong-jujutsu-kaisen-tap-4-khien-cong-dong-fan-rung-chuyen-2026012412140962.htm",
+      "summary": "Tập 4 của Jujutsu Kaisen mùa 3 đang tạo nên một cột mốc đáng nhớ cho loạt anime đình đám này khi đạt điểm số 9,8/10 trên IMDb, mức đánh giá cao nhất từ trước đến nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.173793+07:00",
+      "fetched": "2026-01-24T15:16:26.173905+07:00"
+    },
+    {
+      "id": "56561e7425862007ae2435f5341b72ae",
+      "title": "Bị KOL vạch trần, chuỗi kinh doanh lớn phải đóng cửa 100 nhà hàng",
+      "link": "https://tuoitre.vn/bi-kol-vach-tran-chuoi-kinh-doanh-lon-phai-dong-cua-100-nha-hang-20260123204255594.htm",
+      "summary": "Sau bê bối chuỗi Tây Bối, Trung Quốc gấp rút xây dựng tiêu chuẩn quốc gia về thực phẩm chế biến sẵn, siết minh bạch để lấy lại niềm tin người tiêu dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.173662+07:00",
+      "fetched": "2026-01-24T15:16:26.173781+07:00"
+    },
+    {
+      "id": "45e7db403b34f8d9498cce1c4d79e43e",
+      "title": "Bắt hai vợ chồng ở TP.HCM tổ chức sản xuất thuốc đông y giả, chứa chất cấm",
+      "link": "https://tuoitre.vn/bat-hai-vo-chong-o-tp-hcm-to-chuc-san-xuat-thuoc-dong-y-gia-chua-chat-cam-20260124131423389.htm",
+      "summary": "Hoạt chất betamethason khiến người sử dụng cảm nhận hiệu quả giảm đau nhanh, nhưng tiềm ẩn nhiều nguy cơ ảnh hưởng sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.173534+07:00",
+      "fetched": "2026-01-24T15:16:26.173646+07:00"
+    },
+    {
+      "id": "bafb641f890c2cffac081828846093be",
+      "title": "Nông nghiệp Hòa Phát của tỉ phú Trần Đình Long đã nộp hồ sơ niêm yết",
+      "link": "https://tuoitre.vn/nong-nghiep-hoa-phat-cua-ti-phu-tran-dinh-long-da-nop-ho-so-niem-yet-20260124083920651.htm",
+      "summary": "Công ty CP Phát triển Nông nghiệp Hòa Phát (mã: HPA) đã nộp hồ sơ đăng ký niêm yết cổ phiếu lên HoSE vào ngày 22-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.173412+07:00",
+      "fetched": "2026-01-24T15:16:26.173523+07:00"
+    },
+    {
+      "id": "4a4f80ad14cd444035ad66108f7aab19",
+      "title": "Một lớp học ở TP.HCM giành 3/4 giải nhất môn tin học quốc gia",
+      "link": "https://tuoitre.vn/mot-lop-hoc-o-tp-hcm-gianh-3-4-giai-nhat-mon-tin-hoc-quoc-gia-20260123201444341.htm",
+      "summary": "Ba học sinh lớp 12CTIN Trường THPT chuyên Lê Hồng Phong cùng đoạt giải nhất tin học quốc gia, góp 3/4 giải nhất của TP.HCM năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.173290+07:00",
+      "fetched": "2026-01-24T15:16:26.173401+07:00"
+    },
+    {
+      "id": "b10a7fe9d860feea647d7f608a7895c9",
+      "title": "Bài học từ 810 triệu đồng phạt Zalo",
+      "link": "https://tuoitre.vn/bai-hoc-tu-810-trieu-dong-phat-zalo-20260124131816373.htm",
+      "summary": "Quyết định của Ủy ban Cạnh tranh Quốc gia ngày 22-1 đối với VNG (công ty quản lý Zalo) phản ánh một chuyển dịch quan trọng rằng thời kỳ các nền tảng số có thể tự do đặt điều kiện cho người dùng đang dần khép lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.173161+07:00",
+      "fetched": "2026-01-24T15:16:26.173278+07:00"
+    },
+    {
+      "id": "f07421c3f85374b5648746ee80e744a7",
+      "title": "Vòng 23 Premier League: Khốc liệt cuộc đua trụ hạng",
+      "link": "https://tuoitre.vn/vong-23-premier-league-khoc-liet-cuoc-dua-tru-hang-20260124100926193.htm",
+      "summary": "Tối 24-1 sẽ diễn ra loạt trận vòng 23 Premier League. Tâm điểm của vòng này là những trận đấu bị đánh giá \"lệch kèo\" giữa các đội cuối bảng xếp hạng và nhóm đại gia giải đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.173015+07:00",
+      "fetched": "2026-01-24T15:16:26.173149+07:00"
+    },
+    {
+      "id": "6ceadaaea9c5ee858af8133654e63b05",
+      "title": "Sau hơn 3 năm lãi, Xe khách Sài Gòn bất ngờ báo lỗ",
+      "link": "https://tuoitre.vn/sau-hon-3-nam-lai-xe-khach-sai-gon-bat-ngo-bao-lo-20260124140059697.htm",
+      "summary": "Trong quý cuối năm 2025, doanh thu lao dốc đã khiến SaigonBus báo lỗ gần 9 tỉ đồng, chấm dứt chuỗi hơn 3 năm liên tiếp có lãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.172889+07:00",
+      "fetched": "2026-01-24T15:16:26.173004+07:00"
+    },
+    {
+      "id": "bc73b148a0b8d031524e21f986e129c1",
+      "title": "Những dự án mở lối đưa Cần Giờ ‘gần’ hơn với trung tâm TP.HCM",
+      "link": "https://tuoitre.vn/nhung-du-an-mo-loi-dua-can-gio-gan-hon-voi-trung-tam-tp-hcm-20260124131552689.htm",
+      "summary": "Những dự án giao thông có quy mô và kỹ thuật cao đang đồng loạt triển khai, tập trung về Cần Giờ, từng bước thay đổi khả năng kết nối của khu vực này với trung tâm TP.HCM và vùng kinh tế trọng điểm phía Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.172746+07:00",
+      "fetched": "2026-01-24T15:16:26.172877+07:00"
+    },
+    {
+      "id": "cc67cce92f6f18a2ad721076659a968a",
+      "title": "Xe điện ai cũng có thể tự sửa, chạy 220km/sạc",
+      "link": "https://tuoitre.vn/xe-dien-ai-cung-co-the-tu-sua-chay-220km-sac-20260123145145659.htm",
+      "summary": "Không cần thiết bị độc quyền hay phụ thuộc đại lý, một nhóm sinh viên Hà Lan đã phát triển mẫu xe điện cho phép chủ xe tự chẩn đoán và sửa chữa, đặt lại câu hỏi về cách ngành ô tô đang “khóa” người dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.172616+07:00",
+      "fetched": "2026-01-24T15:16:26.172734+07:00"
+    },
+    {
+      "id": "efce29e70cba6fc18cf56cfc4e4fc083",
+      "title": "Từ ngày 26-1, trạm dừng nghỉ cao tốc Vĩnh Hảo - Phan Thiết mở lại, khang trang và sạch sẽ",
+      "link": "https://tuoitre.vn/tu-ngay-26-1-tram-dung-nghi-cao-toc-vinh-hao-phan-thiet-mo-lai-khang-trang-va-sach-se-20260124130319972.htm",
+      "summary": "Ban quản lý dự án 7 (Bộ Xây dựng) cho biết từ ngày 26-1, trạm dừng nghỉ tại Km 205 cao tốc Vĩnh Hảo - Phan Thiết hoạt động trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.172481+07:00",
+      "fetched": "2026-01-24T15:16:26.172601+07:00"
+    },
+    {
+      "id": "ab0f03bf6ec2270383dc139a5c898265",
+      "title": "Báo Pháp: Đại hội XIV đặt bài toán tăng trưởng cao và đổi mới cho Việt Nam",
+      "link": "https://tuoitre.vn/bao-phap-dai-hoi-xiv-dat-bai-toan-tang-truong-cao-va-doi-moi-cho-viet-nam-20260124120030838.htm",
+      "summary": "Nhật báo L’Humanité của Pháp đánh giá Đại hội XIV thể hiện tham vọng duy trì đà phát triển đến 2030, thúc đẩy đổi mới, sáng tạo trong kinh tế thị trường định hướng xã hội chủ nghĩa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.172341+07:00",
+      "fetched": "2026-01-24T15:16:26.172468+07:00"
+    },
+    {
+      "id": "5cac68ae39b68ac2f9e42f87d52459fb",
+      "title": "Dương Bình Nguyên trở lại văn đàn với Gió vẫn thổi qua rừng nhiệt đới",
+      "link": "https://tuoitre.vn/duong-binh-nguyen-tro-lai-van-dan-voi-gio-van-thoi-qua-rung-nhiet-doi-2026012414140615.htm",
+      "summary": "Sau khoảng 10 năm, nhà văn Dương Bình Nguyên mới trở lại văn chương với quyển tiểu thuyết tâm lý - tội phạm Gió vẫn thổi qua rừng nhiệt đới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T15:16:26.172103+07:00",
+      "fetched": "2026-01-24T15:16:26.172326+07:00"
+    },
     {
       "id": "84fe72501e1b334a27945d5479be47e4",
       "title": "Xuân này người ta cưới 'AI'?",
@@ -433,6 +583,36 @@ window.newsData_2026_01_24 = {
       "fetched": "2026-01-24T10:19:56.343672+07:00"
     },
     {
+      "id": "54fd0671858ce349183a125a51c837b3",
+      "title": "12% thí sinh dự thi TSA 2026 đợt 1 là học sinh lớp 10, 11",
+      "link": "https://thanhnien.vn/12-thi-sinh-du-thi-tsa-2026-dot-1-la-hoc-sinh-lop-10-11-185260124143119631.htm",
+      "summary": "Hôm nay 24.1, tại 28 điểm ở 11 tỉnh, thành từ Đà Nẵng trở ra phía bắc đang diễn ra kỳ thi đánh giá tư duy TSA 2026 đợt 1 do ĐH Bách khoa Hà Nội tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T08:07:00+07:00",
+      "fetched": "2026-01-24T15:16:25.343483+07:00"
+    },
+    {
+      "id": "bbaa42ce4950975fb29cc07f77ee17bf",
+      "title": "Còn 'ngọc quý' U.23 Việt Nam đủ điều kiện đá U.23 châu Á 2028: Mơ về Olympic",
+      "link": "https://thanhnien.vn/con-ngoc-quy-u23-viet-nam-du-dieu-kien-da-u23-chau-a-2028-mo-ve-olympic-185260124123936562.htm",
+      "summary": "Sau thành tích giành HCĐ đầy quả cảm tại giải U.23 châu Á 2026, bóng đá Việt Nam đang sở hữu những 'viên ngọc quý' đủ bản lĩnh để tiếp tục dẫn dắt lứa đàn em tại sân chơi châu lục vào 2028.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T08:03:00+07:00",
+      "fetched": "2026-01-24T15:16:25.343662+07:00"
+    },
+    {
+      "id": "0cf24f26ba81f6e19fd3ce016a8e7183",
+      "title": "'Người không phổi' đóng đinh 2 chiến thắng cảm xúc cho U.23 Việt Nam: Quá xuất sắc",
+      "link": "https://thanhnien.vn/nguoi-khong-phoi-dong-dinh-2-chien-thang-cam-xuc-cho-u23-viet-nam-qua-xuat-sac-185260124141433177.htm",
+      "summary": "Thật trùng hợp khi chức vô địch SEA Games 33 và chiếc HCĐ U.23 châu Á đều được một cái tên đóng đinh cuối cùng mang về niềm vui to lớn cho đất nước. Đó là \"người không phổi\" Nguyễn Thanh Nhàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T08:02:00+07:00",
+      "fetched": "2026-01-24T15:16:25.343821+07:00"
+    },
+    {
       "id": "6743486475ee60014772567e1b6afb18",
       "title": "Trần Tiến 'cái thời của tôi'",
       "link": "https://tuoitre.vn/tran-tien-cai-thoi-cua-toi-20260123231430886.htm",
@@ -571,6 +751,306 @@ window.newsData_2026_01_24 = {
       "category": "Tổng hợp",
       "published": "2026-01-24T07:59:53.628417+07:00",
       "fetched": "2026-01-24T07:59:53.628648+07:00"
+    },
+    {
+      "id": "12c8c0063a4f745d5d10cb3480c1b997",
+      "title": "Đầu tư tiền ảo thua lỗ, nhân viên ngân hàng lừa khách hàng chiếm đoạt tiền tỉ",
+      "link": "https://thanhnien.vn/dau-tu-tien-ao-thua-lo-nhan-vien-ngan-hang-lua-khach-hang-chiem-doat-tien-ti-185260124140345817.htm",
+      "summary": "Vay mượn tiền nhiều người để đầu tư tiền ảo nhưng thua lỗ, nhân viên ngân hàng \"bày trò\" giúp khách hàng đáo hạn ngân hàng rồi lừa đảo chiếm đoạt tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:54:00+07:00",
+      "fetched": "2026-01-24T15:16:25.343978+07:00"
+    },
+    {
+      "id": "32c6acb4885b02ffff8f3f2070c4fd24",
+      "title": "Hình ảnh ấn tượng trong 5 ngày Đại hội Đảng XIV",
+      "link": "https://vnexpress.net/hinh-anh-an-tuong-trong-5-ngay-dai-hoi-dang-xiv-5009461.html",
+      "summary": "Trong 5 ngày từ 19 đến 23/1, Đại hội Đảng XIV diễn ra với nhiều hoạt động trọng tâm từ khai mạc, thảo luận văn kiện, bầu Ban Chấp hành Trung ương khóa mới đến những khoảnh khắc bên lề đáng chú ý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:48:38+07:00",
+      "fetched": "2026-01-24T15:16:22.697195+07:00"
+    },
+    {
+      "id": "cc7522c9eeeb9ffd27aeb1160ea404e6",
+      "title": "Trộm gần 8 tỷ đồng khi đi xe khách",
+      "link": "https://vnexpress.net/trom-gan-8-ty-dong-khi-di-xe-khach-5009483.html",
+      "summary": "Ngô Đức Thành và Trần Minh Vũ khi đi xe khách từ Hà Nội đi Đà Nẵng đã lấy trộm hai gói hàng chứa gần 8 tỷ đồng tiền mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:48:25+07:00",
+      "fetched": "2026-01-24T15:16:22.697372+07:00"
+    },
+    {
+      "id": "7c741f66ccac772fc13947f55cc06811",
+      "title": "Tự chỉ chỗ chôn xác bạn tình sau 15 năm giấu tội lỗi",
+      "link": "https://vnexpress.net/tu-chi-cho-chon-xac-ban-tinh-sau-15-nam-giau-toi-loi-5009477.html",
+      "summary": "15 năm sau khi Izabela Zablocka mất tích, người tình của cô bất ngờ viết email cho cảnh sát tiết lộ chỗ chôn xác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:40:23+07:00",
+      "fetched": "2026-01-24T15:16:22.697531+07:00"
+    },
+    {
+      "id": "ee8c342751d663ee61b7e8c87d975c3a",
+      "title": "Vì sao Microsoft luôn phát hành bản vá Windows vào thứ ba?",
+      "link": "https://thanhnien.vn/vi-sao-microsoft-luon-phat-hanh-ban-va-windows-vao-thu-ba-18526012414184515.htm",
+      "summary": "Trong vài thập kỷ qua, cụ thể là từ tháng 10.2003, các bản cập nhật Windows đã trở thành một phần không thể thiếu trong lịch trình của Microsoft.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:40:00+07:00",
+      "fetched": "2026-01-24T15:16:25.344149+07:00"
+    },
+    {
+      "id": "8b4d41109506b42a3b9823c2bbc9266f",
+      "title": "Cuộc sống của Brooklyn Beckham và Nicola Peltz giữa 'tâm bão'",
+      "link": "https://thanhnien.vn/cuoc-song-cua-brooklyn-beckham-va-nicola-peltz-giua-tam-bao-185260124132659815.htm",
+      "summary": "Giữa lúc ồn ào xung đột với cha mẹ đang gây bàn tán rầm rộ, Brooklyn Beckham và Nicola Peltz dành thời gian bên nhau, bày tỏ tình yêu và sự ủng hộ dành cho 'nửa kia'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:35:00+07:00",
+      "fetched": "2026-01-24T15:16:25.344300+07:00"
+    },
+    {
+      "id": "98b26fd58b0ee67b63ddfecce9628f41",
+      "title": "U.23 Việt Nam về nước ngay trong đêm với tấm HCĐ châu Á: Người thèm ngủ, người nhớ lẩu",
+      "link": "https://thanhnien.vn/u23-viet-nam-ve-nuoc-ngay-trong-dem-voi-tam-hcd-chau-a-nguoi-them-ngu-nguoi-nho-lau-185260124142553977.htm",
+      "summary": "Rạng sáng 24.1 (theo giờ Ả Rập Xê Út), các thành viên của U.23 Việt Nam đã có mặt tại sân bay quốc tế Jeddah để bắt đầu hành trình trở về nước, khép lại VCK U.23 châu Á 2026 bằng tấm HCĐ đầy ý nghĩa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:33:00+07:00",
+      "fetched": "2026-01-24T15:16:25.344457+07:00"
+    },
+    {
+      "id": "4eb944781a6d75ca20b3f4faad8b9142",
+      "title": "Báo Indonesia: 'U23 Việt Nam nỗ lực phi thường'",
+      "link": "https://vnexpress.net/bao-indonesia-u23-viet-nam-no-luc-phi-thuong-5009468.html",
+      "summary": "Truyền thông Đông Nam Á đồng loạt khen ngợi tinh thần chiến đấu của Việt Nam trong trận thắng Hàn Quốc để giành giải ba U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:30:00+07:00",
+      "fetched": "2026-01-24T15:16:22.697687+07:00"
+    },
+    {
+      "id": "49ecc081a74b8f1ca3bfcc0c522043ce",
+      "title": "Nếu được chọn, người trẻ mong muốn đón tết như thế nào?",
+      "link": "https://thanhnien.vn/neu-duoc-chon-nguoi-tre-mong-muon-don-tet-nhu-the-nao-185260124131012415.htm",
+      "summary": "Tết là dịp lý tưởng để quây quần và trò chuyện cùng họ hàng xa gần. Thế nhưng, những cuộc gặp gỡ này lại trở thành nỗi ám ảnh với những câu \"hỏi xoáy đáp xoay” khiến nhiều người trẻ áp lực mỗi khi tết đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:30:00+07:00",
+      "fetched": "2026-01-24T15:16:25.344606+07:00"
+    },
+    {
+      "id": "4eb944781a6d75ca20b3f4faad8b9142",
+      "title": "Báo Indonesia: 'U23 Việt Nam nỗ lực phi thường'",
+      "link": "https://vnexpress.net/bao-indonesia-u23-viet-nam-no-luc-phi-thuong-5009468.html",
+      "summary": "Truyền thông Đông Nam Á đồng loạt khen ngợi tinh thần chiến đấu của Việt Nam trong trận thắng Hàn Quốc để giành giải ba U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-24T07:30:00+07:00",
+      "fetched": "2026-01-24T15:16:31.873373+07:00"
+    },
+    {
+      "id": "59bfeedcf177ec8cfd3118c1faee0bba",
+      "title": "Kiev hứng loạt tên lửa đạn đạo giữa lúc Mỹ, Nga, Ukraine đàm phán",
+      "link": "https://vnexpress.net/kiev-hung-loat-ten-lua-dan-dao-giua-luc-my-nga-ukraine-dam-phan-5009444.html",
+      "summary": "Nga phóng hàng loạt UAV và tên lửa nhằm vào thủ đô Ukraine, trong lúc hai nước và Mỹ lần đầu đàm phán ba bên về kế hoạch hòa bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:21:00+07:00",
+      "fetched": "2026-01-24T15:16:22.697852+07:00"
+    },
+    {
+      "id": "59bfeedcf177ec8cfd3118c1faee0bba",
+      "title": "Kiev hứng loạt tên lửa đạn đạo giữa lúc Mỹ, Nga, Ukraine đàm phán",
+      "link": "https://vnexpress.net/kiev-hung-loat-ten-lua-dan-dao-giua-luc-my-nga-ukraine-dam-phan-5009444.html",
+      "summary": "Nga phóng hàng loạt UAV và tên lửa nhằm vào thủ đô Ukraine, trong lúc hai nước và Mỹ lần đầu đàm phán ba bên về kế hoạch hòa bình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-24T07:21:00+07:00",
+      "fetched": "2026-01-24T15:16:27.559823+07:00"
+    },
+    {
+      "id": "59ca9cdcd3d5aa5fc6ef5dfaa97d0fc7",
+      "title": "Công an TP.HCM triệt phá đường dây sản xuất thuốc đông y giả",
+      "link": "https://thanhnien.vn/cong-an-tphcm-triet-pha-duong-day-san-xuat-thuoc-dong-y-gia-18526012413512904.htm",
+      "summary": "Công an TP.HCM triệt phá đường dây sản xuất thuốc đông y giả, thu giữ 13.096 sản phẩm thuốc đông y giả các loại. Các đối tượng tự in bao bì, gắn mác nhập khẩu từ Singapore, Trung Quốc để lừa dối người bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:17:00+07:00",
+      "fetched": "2026-01-24T15:16:25.344760+07:00"
+    },
+    {
+      "id": "6da656fe5de54d3de4930aef484feb59",
+      "title": "Thùng sắt rơi đè bẹp cabin xe đầu kéo trên quốc lộ 51",
+      "link": "https://vnexpress.net/thung-sat-roi-de-bep-cabin-xe-dau-keo-tren-quoc-lo-51-5009480.html",
+      "summary": "Đang chạy trên quốc lộ 51, xe đầu kéo thắng gấp khiến nhiều thùng sắt đứt dây buộc, trượt mạnh về phía trước đè bẹp cabin, tài xế kẹt bên trong, trưa 24/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:16:47+07:00",
+      "fetched": "2026-01-24T15:16:22.698006+07:00"
+    },
+    {
+      "id": "22007a253692169e22bfbc2b57ce5ec6",
+      "title": "Tai nạn đường sắt liên tiếp ở Tây Ban Nha: Thảm họa từ thành công?",
+      "link": "https://thanhnien.vn/tai-nan-duong-sat-lien-tiep-o-tay-ban-nha-tham-hoa-tu-thanh-cong-18526012410551966.htm",
+      "summary": "Hàng loạt tai nạn xảy ra trong vòng một tuần trên đường sắt Tây Ban Nha, trong đó có một vụ tai nạn chết người nhất châu Âu, đã khiến cả nước chao đảo và đặt ra câu hỏi liệu việc đầu tư để duy trì mạng lưới đường sắt có theo kịp nhu cầu hành khách đang tăng vọt hay không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:16:00+07:00",
+      "fetched": "2026-01-24T15:16:25.344915+07:00"
+    },
+    {
+      "id": "921ae3270590c7e5c9a487e3cd539524",
+      "title": "Con trai mê xe đua của Hoa khôi Thu Hương",
+      "link": "https://vnexpress.net/con-trai-me-xe-dua-cua-hoa-khoi-thu-huong-5007366.html",
+      "summary": "Nam Anh, 17 tuổi, con trai Hoa khôi Thu Hương, đỗ vào  một trong những đại học công lập hàng đầu tại Mỹ, chuyên ngành kỹ thuật xe đua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:09:27+07:00",
+      "fetched": "2026-01-24T15:16:22.698193+07:00"
+    },
+    {
+      "id": "f43767ee515bc1ad9fb1d9ba5df565a9",
+      "title": "'Cuộc chiến mùa đông' của người nghèo Trung Quốc",
+      "link": "https://vnexpress.net/cuoc-chien-mua-dong-cua-nguoi-ngheo-trung-quoc-5009139.html",
+      "summary": "Nhiệt độ ban đêm xuống dưới 0 độ C, nhưng ông Liu Ming không dám bật lò sưởi khí đốt vì chi phí một mùa đông gấp ba lần tổng lương hưu cả năm của ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:08:45+07:00",
+      "fetched": "2026-01-24T15:16:22.698361+07:00"
+    },
+    {
+      "id": "ea99dba72c67293fe05e9ac7a5baed0f",
+      "title": "TP.HCM thành lập Hiệp hội Quản lý vận hành nhà chung cư",
+      "link": "https://thanhnien.vn/tphcm-thanh-lap-hiep-hoi-quan-ly-van-hanh-nha-chung-cu-18526012413545238.htm",
+      "summary": "UBND TP.HCM đã có quyết định cho phép thành lập Hiệp hội Quản lý vận hành nhà chung cư TP.HCM (HCMO), có hiệu lực từ ngày 23.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:06:00+07:00",
+      "fetched": "2026-01-24T15:16:25.345061+07:00"
+    },
+    {
+      "id": "912881428a111d6205bfc87197420a74",
+      "title": "Đường dây sản xuất đông dược có chất cấm, gắn mác Singapore bị bắt",
+      "link": "https://vnexpress.net/duong-day-san-xuat-dong-duoc-co-chat-cam-gan-mac-singapore-bi-bat-5009474.html",
+      "summary": "Vợ chồng Nguyễn Duy Hiển bị cáo buộc trộn chất cấm Betamethasone vào thuốc đông y tự chế, in nhãn xuất xứ Singapore, Hong Kong để tiêu thụ ra thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:01:37+07:00",
+      "fetched": "2026-01-24T15:16:22.698524+07:00"
+    },
+    {
+      "id": "0925fb2bd4b7ad0c40542e5f768b0dc1",
+      "title": "Những hành vi khiến thú cưng tấn công chủ nuôi",
+      "link": "https://vnexpress.net/nhung-hanh-vi-khien-thu-cung-tan-cong-chu-nuoi-5009478.html",
+      "summary": "Trêu chọc, ôm ghì, nắm đuôi, bỏ đói... là các hành vi của chủ dễ làm chó, mèo nổi nóng, tức giận, chống trả bằng cách cắn cào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:00:00+07:00",
+      "fetched": "2026-01-24T15:16:22.698686+07:00"
+    },
+    {
+      "id": "d7b828caf06eb786716462ee0adfb055",
+      "title": "Trẻ bị viêm da đầu có nguy hiểm?",
+      "link": "https://vnexpress.net/tre-bi-viem-da-dau-co-nguy-hiem-5009428.html",
+      "summary": "Bé nhà tôi hai tháng tuổi, da đầu xuất hiện nhiều vảy màu trắng giống gàu, lan đến sau tai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:00:00+07:00",
+      "fetched": "2026-01-24T15:16:22.698865+07:00"
+    },
+    {
+      "id": "720b8ec95d8905b56c4ea840e64455c2",
+      "title": "Đố bạn bắt trúng chữ bắt đầu bằng chữ Y",
+      "link": "https://vnexpress.net/do-ban-bat-trung-chu-bat-dau-bang-chu-y-5007691.html",
+      "summary": "Đây là kiểu câu đố nhìn thì vui, nghĩ thì đau đầu nhẹ, nhưng giải được rồi là muốn gật gù \"à ha\" liền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:00:00+07:00",
+      "fetched": "2026-01-24T15:16:22.699014+07:00"
+    },
+    {
+      "id": "8a673c618a946d82e842ef573ba22d47",
+      "title": "Quần nhung trầm ấm, 'chìa khóa' cho vẻ ngoài sang trọng thầm lặng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/quan-nhung-tram-am-chia-khoa-cho-ve-ngoai-sang-trong-tham-lang-185260123231736805.htm",
+      "summary": "Quần nhung trở thành lựa chọn mang sắc thái trầm ấm cho các cô gái yêu phong cách tinh tế. Chất liệu mềm mượt, bảng màu trầm ấm giúp các bạn tự tin thể hiện nét cuốn hút riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:00:00+07:00",
+      "fetched": "2026-01-24T15:16:25.345232+07:00"
+    },
+    {
+      "id": "3fd29872feaf2ebb60a4711b96b4b442",
+      "title": "Văn Khang xúc động sau hành trình U.23 châu Á: ‘Thật khó sát cánh cùng nhau thêm lần nữa’",
+      "link": "https://thanhnien.vn/van-khang-xuc-dong-sau-hanh-trinh-u23-chau-a-18526012413551032.htm",
+      "summary": "Sau chiến thắng nghẹt thở trước U.23 Hàn Quốc ở trận tranh hạng ba VCK U.23 châu Á 2026, đội trưởng Khuất Văn Khang không giấu được xúc động. Với tiền vệ sinh năm 2003, tấm huy chương đồng không chỉ là thành quả chuyên môn, mà còn là lời chia tay đầy cảm xúc của một lứa U.23 khó có cơ hội sát cánh c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T06:55:00+07:00",
+      "fetched": "2026-01-24T15:16:25.345386+07:00"
+    },
+    {
+      "id": "59541d40fd8dd069bd1be64be26965b9",
+      "title": "Người dân Hà Nội có 'đêm không ngủ' giữa giá lạnh, mừng chiến thắng U23 Việt Nam",
+      "link": "https://thanhnien.vn/nguoi-dan-ha-noi-co-dem-khong-ngu-giua-gia-lanh-mung-chien-thang-u23-viet-nam-185260124120157787.htm",
+      "summary": "Sau chiến thắng sau chấm luân lưu của U23 Việt Nam trước U23 Hàn Quốc, đã giúp Thầy trò HLV Kim Sang-sik giành huy chương đồng \"quý hơn vàng\". Ngay khi trận đấu khép lại, hàng nghìn người dân thủ đô đã tràn ra các tuyến phố, cùng xuyên đêm hòa mình vào niềm vui chiến thắng, bất chấp thời tiết rét mư...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T06:54:00+07:00",
+      "fetched": "2026-01-24T15:16:25.345541+07:00"
+    },
+    {
+      "id": "bc4019353a32ab8a4c53eb1e7c506bf1",
+      "title": "Xe tải tông dải phân cách, giao thông cửa ngõ TP.HCM ùn ứ",
+      "link": "https://thanhnien.vn/xe-tai-tong-dai-phan-cach-giao-thong-cua-ngo-tphcm-un-u-185260124121335714.htm",
+      "summary": "Chiếc xe tải tông dải phân cách trên đường Lê Đức Anh (quốc lộ 1 cũ) khiến hàng nghìn phương tiện chôn chân, kéo dài nhiều cây số trong giờ cao điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T06:53:00+07:00",
+      "fetched": "2026-01-24T15:16:25.345687+07:00"
+    },
+    {
+      "id": "aa34e4867ff1ae613d324f463fa9b19b",
+      "title": "Chủ quán hủ tiếu ngày doanh thu 9 triệu nhưng 5 năm không dám nghỉ Tết",
+      "link": "https://vnexpress.net/chu-quan-hu-tieu-ngay-doanh-thu-9-trieu-nhung-5-nam-khong-dam-nghi-tet-5009472.html",
+      "summary": "Nếu nghỉ lễ, Tết rồi sau đó mở lại, có khi phải mất cả tháng mới kéo khách quay về như cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T06:52:17+07:00",
+      "fetched": "2026-01-24T15:16:22.699189+07:00"
+    },
+    {
+      "id": "2775432d190e893e7cc91b7b38cb1703",
+      "title": "Vương phi Kate Middleton tự thiết kế áo khoác",
+      "link": "https://vnexpress.net/vuong-phi-kate-middleton-tu-thiet-ke-ao-khoac-5009268.html",
+      "summary": "Vương phi Anh Kate Middleton diện áo do cô thiết kế trong chuyến đi ở Scotland.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T06:50:39+07:00",
+      "fetched": "2026-01-24T15:16:22.699379+07:00"
+    },
+    {
+      "id": "c8c3e0cfa1dc0ee19d7caa684ba5a5d6",
+      "title": "Báo Hàn Quốc gọi trận thua Việt Nam là ‘thảm họa nhục nhã’",
+      "link": "https://vnexpress.net/bao-han-quoc-goi-tran-thua-viet-nam-la-tham-hoa-nhuc-nha-5009479.html",
+      "summary": "Truyền thông Hàn Quốc chỉ trích nặng nề đội nhà sau khi thua Việt Nam ở trận tranh giải ba U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T06:48:52+07:00",
+      "fetched": "2026-01-24T15:16:22.699536+07:00"
+    },
+    {
+      "id": "c8c3e0cfa1dc0ee19d7caa684ba5a5d6",
+      "title": "Báo Hàn Quốc gọi trận thua Việt Nam là ‘thảm họa nhục nhã’",
+      "link": "https://vnexpress.net/bao-han-quoc-goi-tran-thua-viet-nam-la-tham-hoa-nhuc-nha-5009479.html",
+      "summary": "Truyền thông Hàn Quốc chỉ trích nặng nề đội nhà sau khi thua Việt Nam ở trận tranh giải ba U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-24T06:48:52+07:00",
+      "fetched": "2026-01-24T15:16:31.873545+07:00"
     },
     {
       "id": "4487c56432fe3e20ec8baec0aa0720fc",
