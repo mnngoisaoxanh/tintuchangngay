@@ -1,7 +1,147 @@
 window.newsData_2026_01_24 = {
   "date": "2026-01-24",
-  "lastUpdated": "2026-01-24T05:11:18.872839+07:00",
+  "lastUpdated": "2026-01-24T08:00:01.743132+07:00",
   "articles": [
+    {
+      "id": "6743486475ee60014772567e1b6afb18",
+      "title": "Trần Tiến 'cái thời của tôi'",
+      "link": "https://tuoitre.vn/tran-tien-cai-thoi-cua-toi-20260123231430886.htm",
+      "summary": "Trong cuốn sách Trần Tiến - Người hát thơ mình, văn chương và ca từ của nhạc sĩ Trần Tiến làm người đọc say mê. Còn ông nói dành cả cuốn sách để hoài niệm về \"cái thời của tôi\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:59:53.630291+07:00",
+      "fetched": "2026-01-24T07:59:53.630423+07:00"
+    },
+    {
+      "id": "400cde29a53c0b4fe7d5eadca1c75756",
+      "title": "Tin tức sáng 24-1: Không được hưởng trợ cấp thất nghiệp khi đủ điều kiện hưởng lương hưu",
+      "link": "https://tuoitre.vn/tin-tuc-sang-24-1-khong-duoc-huong-tro-cap-that-nghiep-khi-du-dieu-kien-huong-luong-huu-20260123163924914.htm",
+      "summary": "Một số tin tức đáng chú ý: Lãi suất liên ngân hàng biến động trái chiều; Bầu Đức trả 700 tỉ đồng nợ cho công ty của Bộ Tài chính; Sếp Công ty Sông Đà 2 giao dịch cổ phiếu chui; Cần Thơ mở rộng nhiều tuyến quốc lộ trong 5 năm tới...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:59:53.630166+07:00",
+      "fetched": "2026-01-24T07:59:53.630280+07:00"
+    },
+    {
+      "id": "c3b12bb29f8fd230d437561f069924ec",
+      "title": "Thời tiết hôm nay 24-1: Nhiệt độ Bắc Bộ tăng dần, Nam Bộ đêm và sáng lạnh",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-24-1-nhiet-do-bac-bo-tang-dan-nam-bo-dem-va-sang-lanh-20260123162729332.htm",
+      "summary": "Hôm nay 24-1, tại Bắc Bộ, nhiệt độ đã nhích dần lên, tuy vậy trời vẫn còn rét đậm rét hại. Nam Bộ sáng sớm se mát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:59:53.630036+07:00",
+      "fetched": "2026-01-24T07:59:53.630154+07:00"
+    },
+    {
+      "id": "f5a92ab86ea34520ece151a57b3a96e7",
+      "title": "Giành học bổng công nghệ sinh học nhờ thích nghệ thuật",
+      "link": "https://tuoitre.vn/gianh-hoc-bong-cong-nghe-sinh-hoc-nho-thich-nghe-thuat-20260123221609113.htm",
+      "summary": "Từ niềm đam mê nghệ thuật, Nguyễn Lê Hiền Thư trở thành sinh viên quốc tế duy nhất trúng tuyển học bổng toàn phần Đại học Công nghệ Sydney (UTS) trong kỳ nhập học tháng 2-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:59:53.629892+07:00",
+      "fetched": "2026-01-24T07:59:53.630020+07:00"
+    },
+    {
+      "id": "fce3e592e30622afcf16d7bb74c2e238",
+      "title": "Lịch trực tiếp chung kết Giải U23 châu Á 2026: U23 Nhật Bản đấu Trung Quốc",
+      "link": "https://tuoitre.vn/lich-truc-tiep-chung-ket-giai-u23-chau-a-2026-u23-nhat-ban-dau-trung-quoc-20260123205655509.htm",
+      "summary": "Lúc 22h hôm nay (24-1), Giải U23 châu Á 2026 sẽ chính thức khép lại với trận chung kết giữa U23 Nhật Bản và Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:59:53.629764+07:00",
+      "fetched": "2026-01-24T07:59:53.629881+07:00"
+    },
+    {
+      "id": "060b68ed53848958424c3e7a6d97e34d",
+      "title": "Du khách nước ngoài chung vui cùng người dân Đà Nẵng ăn mừng chiến thắng của U23 Việt Nam",
+      "link": "https://tuoitre.vn/du-khach-nuoc-ngoai-chung-vui-cung-nguoi-dan-da-nang-an-mung-chien-thang-cua-u23-viet-nam-20260124041850986.htm",
+      "summary": "Rạng sáng 24-1, hàng ngàn người dân Đà Nẵng đã đổ ra đường ăn mừng chiến thắng kịch tính của U23 Việt Nam trước U23 Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:59:53.629628+07:00",
+      "fetched": "2026-01-24T07:59:53.629752+07:00"
+    },
+    {
+      "id": "c364198dd084ab7069c1bed78063d692",
+      "title": "Dự đoán tỉ số: U23 Nhật Bản thắng áp đảo U23 Trung Quốc ở chung kết",
+      "link": "https://tuoitre.vn/du-doan-ti-so-u23-nhat-ban-thang-ap-dao-u23-trung-quoc-o-chung-ket-20260123211037797.htm",
+      "summary": "22h ngày 24-1 (giờ Việt Nam) sẽ diễn ra trận chung kết Giải U23 châu Á giữa U23 Nhật Bản và U23 Trung Quốc, một cặp đấu từng bị đánh giá là chênh lệch cực lớn trước thềm giải đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:59:53.629490+07:00",
+      "fetched": "2026-01-24T07:59:53.629616+07:00"
+    },
+    {
+      "id": "103819ec5c1f57d9db30a30f1a8263e6",
+      "title": "Tư vấn tuyển sinh 2026 đến với học sinh Đắk Lắk, Khánh Hòa, Phú Thọ, Ninh Bình",
+      "link": "https://tuoitre.vn/tu-van-tuyen-sinh-2026-den-voi-hoc-sinh-dak-lak-khanh-hoa-phu-tho-ninh-binh-20260123201907857.htm",
+      "summary": "Trong hai ngày 24, 25-1, chương trình tư vấn tuyển sinh - hướng nghiệp 2026 của Tuổi Trẻ đến Đắk Lắk, Khánh Hòa, Phú Thọ, Ninh Bình, quy tụ hàng trăm gian tư vấn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:59:53.629339+07:00",
+      "fetched": "2026-01-24T07:59:53.629477+07:00"
+    },
+    {
+      "id": "ae67ae9ffe1d871352961b80813d6bb8",
+      "title": "FIFA tán dương bản lĩnh của U23 Việt Nam khi đánh bại Hàn Quốc",
+      "link": "https://tuoitre.vn/fifa-tan-duong-ban-linh-cua-u23-viet-nam-khi-danh-bai-han-quoc-20260124025812.htm",
+      "summary": "Trang chủ Liên đoàn Bóng đá thế giới (FIFA) đã dành lời khen ngợi cho U23 Việt Nam sau khi giành chiến thắng trước U23 Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:59:53.629212+07:00",
+      "fetched": "2026-01-24T07:59:53.629327+07:00"
+    },
+    {
+      "id": "d7a704bc475dd9be8fc576c890b4e78e",
+      "title": "Công an đưa thanh thiếu niên 'bất hảo' đi chăm sóc nghĩa trang liệt sĩ",
+      "link": "https://tuoitre.vn/cong-an-dua-thanh-thieu-nien-bat-hao-di-cham-soc-nghia-trang-liet-si-2026012311300307.htm",
+      "summary": "Nhóm thanh thiếu niên có biểu hiện tụ tập, gây rối trật tự công cộng, giao thông được Công an xã Bình Minh, tỉnh Quảng Ngãi giáo dục và cho đi chăm sóc nghĩa trang liệt sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:59:53.629082+07:00",
+      "fetched": "2026-01-24T07:59:53.629200+07:00"
+    },
+    {
+      "id": "f3f85afee40fe41204c2d08ed5641361",
+      "title": "Siêu phẩm đánh bóng giữa 2 chân của Alcaraz tại Giải Úc mở rộng 2026",
+      "link": "https://tuoitre.vn/sieu-pham-danh-bong-giua-2-chan-cua-alcaraz-tai-giai-uc-mo-rong-2026-20260124025341516.htm",
+      "summary": "Không chỉ san bằng kỷ lục do huyền thoại Bjorn Borg thiết lập, Carlos Alcaraz còn để lại ấn tượng với siêu phẩm đánh bóng giữa 2 chân tại vòng 3 Giải Úc mở rộng 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:59:53.628950+07:00",
+      "fetched": "2026-01-24T07:59:53.629070+07:00"
+    },
+    {
+      "id": "aa69f40d338728e48b804ea1caadbefd",
+      "title": "Báo Hàn Quốc: Thua U23 Việt Nam thật đáng xấu hổ",
+      "link": "https://tuoitre.vn/bao-han-quoc-thua-u23-viet-nam-that-dang-xau-ho-20260124031333893.htm",
+      "summary": "Chứng kiến U23 Việt Nam giành chiến thắng với 10 người, báo chí Hàn Quốc cho rằng trận thua trước U23 Việt Nam 'thật đáng xấu hổ'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:59:53.628815+07:00",
+      "fetched": "2026-01-24T07:59:53.628937+07:00"
+    },
+    {
+      "id": "823986b511e2e8812e01becd60d465b5",
+      "title": "Tin tức thế giới 24-1: Ông Trump lại được đề cử Nobel Hòa bình; Hòa đàm Nga - Ukraine vẫn bế tắc",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-24-1-ong-trump-lai-duoc-de-cu-nobel-hoa-binh-hoa-dam-nga-ukraine-van-be-tac-20260124061426587.htm",
+      "summary": "Tiết lộ nguyên nhân tai nạn tàu cao tốc Tây Ban Nha khiến 45 người chết: Đường ray có thể đã bị nứt; Mỹ trừng phạt \"đội tàu bóng tối\" của Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:59:53.628665+07:00",
+      "fetched": "2026-01-24T07:59:53.628801+07:00"
+    },
+    {
+      "id": "052af4b2cd89494d392de76353c596be",
+      "title": "GS Trần Thanh Vân: Chuyển niềm tin của Đại hội XIV thành hành động cụ thể trong khoa học - công nghệ",
+      "link": "https://tuoitre.vn/gs-tran-thanh-van-chuyen-niem-tin-cua-dai-hoi-xiv-thanh-hanh-dong-cu-the-trong-khoa-hoc-cong-nghe-20260123153233992.htm",
+      "summary": "Nhấn mạnh 'nói đi đôi với làm, GS Trần Thanh Vân cho rằng chỉ khi chủ trương được cụ thể hóa bằng cơ chế đột phá, khoa học - công nghệ mới thực sự trở thành động lực phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T07:59:53.628417+07:00",
+      "fetched": "2026-01-24T07:59:53.628648+07:00"
+    },
     {
       "id": "50374a598eef3a82a4261193df5f033b",
       "title": "Thủ môn Cao Văn Bình: 'Tôi nhìn mắt cầu thủ Hàn Quốc rồi cản penalty'",
@@ -301,6 +441,366 @@ window.newsData_2026_01_24 = {
       "category": "Tổng hợp",
       "published": "2026-01-24T01:20:12.720208+07:00",
       "fetched": "2026-01-24T01:20:12.720435+07:00"
+    },
+    {
+      "id": "691311192058725f2df6751d2ae9ef95",
+      "title": "TP.HCM: Tai nạn trên đường Man Thiện, một người tử vong",
+      "link": "https://thanhnien.vn/tphcm-tai-nan-tren-duong-man-thien-mot-nguoi-tu-vong-185260124020528704.htm",
+      "summary": "Người đàn ông chạy xe máy trên đường Man Thiện (thành phố Thủ Đức cũ, TP.HCM) va chạm với một xe tải, tử vong tại chỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T00:45:00+07:00",
+      "fetched": "2026-01-24T07:59:52.616905+07:00"
+    },
+    {
+      "id": "1859572835ebbb1a5d1d502fb8952a97",
+      "title": "Phát hiện 'thời điểm vàng' để uống cà phê",
+      "link": "https://thanhnien.vn/phat-hien-thoi-diem-vang-de-uong-ca-phe-185260123233332512.htm",
+      "summary": "Cà phê là thức uống được nhiều người yêu thích, không chỉ bởi hương vị thơm ngon mà còn vì vô số lợi ích sức khỏe tuyệt vời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T00:40:00+07:00",
+      "fetched": "2026-01-24T07:59:52.617077+07:00"
+    },
+    {
+      "id": "e64edfd04328ab86b1743b3d1a4f6116",
+      "title": "Ukraine bắt 'đặc tình Nga do thám địa điểm trúng tên lửa Oreshnik'",
+      "link": "https://vnexpress.net/ukraine-bat-dac-tinh-nga-do-tham-dia-diem-trung-ten-lua-oreshnik-5009272.html",
+      "summary": "Ukraine thông báo bắt hai người bị nghi thu thập thông tin cho Nga về thiệt hại ở khu vực trúng tên lửa siêu vượt âm Oreshnik tại tỉnh Lviv.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-24T00:21:10+07:00",
+      "fetched": "2026-01-24T07:59:55.106874+07:00"
+    },
+    {
+      "id": "219bfd5173351d9f19ade8e14a058c98",
+      "title": "4 dấu hiệu cho thấy cơ thể đang thiếu omega-3",
+      "link": "https://thanhnien.vn/4-dau-hieu-cho-thay-co-the-dang-thieu-omega-3-185260123195233444.htm",
+      "summary": "A xít béo omega-3 là thành phần thiết yếu cho màng tế bào, não bộ, mắt và hệ miễn dịch. Cơ thể không tự tổng hợp được omega-3 nên chúng ta phải hấp thụ từ thức ăn hoặc thực phẩm bổ sung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T00:18:00+07:00",
+      "fetched": "2026-01-24T07:59:52.617237+07:00"
+    },
+    {
+      "id": "74379681f29487bd351b635eb1891ced",
+      "title": "Arteta dè chừng Man Utd khó lường dưới thời Carrick",
+      "link": "https://vnexpress.net/arteta-de-chung-man-utd-kho-luong-duoi-thoi-carrick-5009352.html",
+      "summary": "HLV Mikel Arteta cho rằng Arsenal sẽ đối mặt Man Utd khó lường và giàu năng lượng hơn dưới thời HLV tạm quyền Michael Carrick, đồng thời cảnh báo sự nguy hiểm của đối thủ ở các tình huống chuyển trạng thái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T00:14:36+07:00",
+      "fetched": "2026-01-24T07:59:49.301643+07:00"
+    },
+    {
+      "id": "74379681f29487bd351b635eb1891ced",
+      "title": "Arteta dè chừng Man Utd khó lường dưới thời Carrick",
+      "link": "https://vnexpress.net/arteta-de-chung-man-utd-kho-luong-duoi-thoi-carrick-5009352.html",
+      "summary": "HLV Mikel Arteta cho rằng Arsenal sẽ đối mặt Man Utd khó lường và giàu năng lượng hơn dưới thời HLV tạm quyền Michael Carrick, đồng thời cảnh báo sự nguy hiểm của đối thủ ở các tình huống chuyển trạng thái.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-24T00:14:36+07:00",
+      "fetched": "2026-01-24T08:00:01.736917+07:00"
+    },
+    {
+      "id": "274197ba27ee3c0290c95c84395e179f",
+      "title": "Guardiola: 'Arsenal đang là đội hay nhất thế giới'",
+      "link": "https://vnexpress.net/guardiola-arsenal-dang-la-doi-hay-nhat-the-gioi-5009346.html",
+      "summary": "HLV Pep Guardiola dành lời khen cho Arsenal, nhưng vẫn tin Man City có thể ngăn đối thủ lên ngôi ở Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T00:06:01+07:00",
+      "fetched": "2026-01-24T07:59:49.301825+07:00"
+    },
+    {
+      "id": "274197ba27ee3c0290c95c84395e179f",
+      "title": "Guardiola: 'Arsenal đang là đội hay nhất thế giới'",
+      "link": "https://vnexpress.net/guardiola-arsenal-dang-la-doi-hay-nhat-the-gioi-5009346.html",
+      "summary": "HLV Pep Guardiola dành lời khen cho Arsenal, nhưng vẫn tin Man City có thể ngăn đối thủ lên ngôi ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-24T00:06:01+07:00",
+      "fetched": "2026-01-24T08:00:01.737079+07:00"
+    },
+    {
+      "id": "eb0f2c57b3f0ded19f55aa14a6901801",
+      "title": "Thủ tướng Italy muốn đề cử Nobel Hòa bình cho ông Trump",
+      "link": "https://vnexpress.net/thu-tuong-italy-muon-de-cu-nobel-hoa-binh-cho-ong-trump-5009358.html",
+      "summary": "Thủ tướng Meloni bày tỏ hy vọng Tổng thống Trump sẽ chấm dứt được xung đột Ukraine để bà có thể đề cử ông cho giải Nobel Hòa bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T00:01:31+07:00",
+      "fetched": "2026-01-24T07:59:49.302005+07:00"
+    },
+    {
+      "id": "eb0f2c57b3f0ded19f55aa14a6901801",
+      "title": "Thủ tướng Italy muốn đề cử Nobel Hòa bình cho ông Trump",
+      "link": "https://vnexpress.net/thu-tuong-italy-muon-de-cu-nobel-hoa-binh-cho-ong-trump-5009358.html",
+      "summary": "Thủ tướng Meloni bày tỏ hy vọng Tổng thống Trump sẽ chấm dứt được xung đột Ukraine để bà có thể đề cử ông cho giải Nobel Hòa bình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-24T00:01:31+07:00",
+      "fetched": "2026-01-24T07:59:55.107055+07:00"
+    },
+    {
+      "id": "e1e9004f1f35bb3967f815ec0b1bc052",
+      "title": "Du khách Việt săn đón 'Dì môi đỏ' bán trà sữa tại Bangkok",
+      "link": "https://vnexpress.net/du-khach-viet-san-don-di-moi-do-ban-tra-sua-tai-bangkok-5009313.html",
+      "summary": "Du khách Việt tìm đến quầy giải khát của dì Nid tại khu Phra Nakhon, Bangkok để check in cùng chủ quán có phong cách trang điểm ấn tượng và cách pha chế nhiều đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T00:00:00+07:00",
+      "fetched": "2026-01-24T07:59:49.302163+07:00"
+    },
+    {
+      "id": "690806a99918b4d41b25f19cd6d6b9b1",
+      "title": "3 bí mật trong tế bào giúp quý ông Brazil sống thọ kỷ lục",
+      "link": "https://vnexpress.net/3-bi-mat-trong-te-bao-giup-quy-ong-brazil-song-tho-ky-luc-5009208.html",
+      "summary": "Thay vì liệu pháp xa xỉ, đàn ông Brazil sống thọ kỷ lục nhờ cơ chế sinh học tự nhiên như bộ gene đa dạng giúp tế bào tự thanh lọc độc tố và hệ miễn dịch thích ứng vượt trội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T00:00:00+07:00",
+      "fetched": "2026-01-24T07:59:49.302324+07:00"
+    },
+    {
+      "id": "042dec1e3bb0842485724aef8af54dab",
+      "title": "Cha mẹ để lại di chúc không rõ ràng, chia thừa kế thế nào?",
+      "link": "https://vnexpress.net/cha-me-de-lai-di-chuc-khong-ro-rang-chia-thua-ke-the-nao-5009162.html",
+      "summary": "Trước khi qua đời, cha mẹ tôi lập di chúc chung, đã được công chứng hợp pháp, để lại toàn bộ tài sản cho ba anh em tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T00:00:00+07:00",
+      "fetched": "2026-01-24T07:59:49.302498+07:00"
+    },
+    {
+      "id": "79776dcb4c7994b671eb7183fbea88ac",
+      "title": "Lắt léo chữ nghĩa: 'Anh hùng' và 'anh thư'",
+      "link": "https://thanhnien.vn/lat-leo-chu-nghia-anh-hung-va-anh-thu-185260123224411381.htm",
+      "summary": "Trên mạng, ta dễ dàng tìm thấy cách viết \"anh hùng Võ Thị Sáu\" hoặc \"chị là bậc anh hùng\". Cách dùng từ này có chuẩn xác không?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T00:00:00+07:00",
+      "fetched": "2026-01-24T07:59:52.617410+07:00"
+    },
+    {
+      "id": "deacc24dccf809afe896ef5a6840dbcd",
+      "title": "Người hùng Cao Văn Bình: Khiến U.23 Hàn Quốc ‘khóc ròng’, tài năng chẳng kém Trung Kiên",
+      "link": "https://thanhnien.vn/nguoi-hung-cao-van-binh-khien-u23-han-quoc-khoc-rong-tai-nang-chang-kem-trung-kien-18526012402150905.htm",
+      "summary": "Thủ môn Cao Văn Bình có trận đấu xuất sắc trong ngày chào sân U.23 châu Á, khi tỏa sáng cả trong 120 phút lẫn chấm luân lưu, giúp U.23 Việt Nam vượt ải Hàn Quốc để lấy HCĐ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:58:00+07:00",
+      "fetched": "2026-01-24T07:59:52.617572+07:00"
+    },
+    {
+      "id": "0087b02daae02d6c1b15db4ae923e228",
+      "title": "Nhà báo Hàn Quốc chua chát: 'U.23 Việt Nam giáng đòn mạnh vào niềm kiêu hãnh của chúng ta'",
+      "link": "https://thanhnien.vn/nha-bao-han-quoc-chua-chat-u23-viet-nam-giang-don-manh-vao-niem-kieu-hanh-cua-chung-ta-185260124023823521.htm",
+      "summary": "Truyền thông Hàn Quốc đồng loạt bày tỏ sự thất vọng và chỉ trích gay gắt màn trình diễn của đội tuyển U.23 nước này sau thất bại trước U.23 Việt Nam ở trận tranh hạng ba giải U.23 châu Á 2026, kết thúc vào rạng sáng 24.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:56:00+07:00",
+      "fetched": "2026-01-24T07:59:52.617725+07:00"
+    },
+    {
+      "id": "21f0fe1ac26e411ebe9916e66b30a3e5",
+      "title": "Mỹ, Nga, Ukraine lần đầu họp trực tiếp để bàn kế hoạch hòa bình",
+      "link": "https://vnexpress.net/my-nga-ukraine-lan-dau-hop-truc-tiep-de-ban-ke-hoach-hoa-binh-5009357.html",
+      "summary": "Các nhà đàm phán Mỹ, Nga, Ukraine lần đầu gặp trực tiếp ba bên để thảo luận về kế hoạch chấm dứt chiến sự do Tổng thống Trump thúc đẩy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:50:38+07:00",
+      "fetched": "2026-01-24T07:59:49.302655+07:00"
+    },
+    {
+      "id": "21f0fe1ac26e411ebe9916e66b30a3e5",
+      "title": "Mỹ, Nga, Ukraine lần đầu họp trực tiếp để bàn kế hoạch hòa bình",
+      "link": "https://vnexpress.net/my-nga-ukraine-lan-dau-hop-truc-tiep-de-ban-ke-hoach-hoa-binh-5009357.html",
+      "summary": "Các nhà đàm phán Mỹ, Nga, Ukraine lần đầu gặp trực tiếp ba bên để thảo luận về kế hoạch chấm dứt chiến sự do Tổng thống Trump thúc đẩy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-23T23:50:38+07:00",
+      "fetched": "2026-01-24T07:59:55.107221+07:00"
+    },
+    {
+      "id": "4edf46634ea7ec2797304b058ec66c04",
+      "title": "Bác thông tin không chính xác về tiền mệnh giá 1.000 đến 5.000 đồng",
+      "link": "https://thanhnien.vn/bac-thong-tin-khong-chinh-xac-ve-tien-menh-gia-1000-den-5000-dong-18526012322274808.htm",
+      "summary": "Tối 23.1, Ngân hàng Nhà nước khẳng định, thông tin trên các trang mạng xã hội liên quan đến tiền mệnh giá 1.000 đồng đến 5.000 đồng là không chính xác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:49:00+07:00",
+      "fetched": "2026-01-24T07:59:52.617878+07:00"
+    },
+    {
+      "id": "487683bdc4dda80cc0ad9ddc0e64f6a5",
+      "title": "Niềm vui vỡ òa khi cầm sổ hồng trên tay",
+      "link": "https://thanhnien.vn/niem-vui-vo-oa-khi-cam-so-hong-tren-tay-185260123183532434.htm",
+      "summary": "Sau nhiều năm mòn mỏi chờ đợi, hàng chục ngàn hộ dân tại các chung cư trên địa bàn TP.HCM đón nhận niềm vui lớn khi được cầm trên tay sổ hồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:46:00+07:00",
+      "fetched": "2026-01-24T07:59:52.618047+07:00"
+    },
+    {
+      "id": "de416acc26797e45209ea75176018882",
+      "title": "Ông Trump nói sẽ thăm Trung Quốc vào tháng 4",
+      "link": "https://thanhnien.vn/ong-trump-noi-se-tham-trung-quoc-vao-thang-4-185260123184623745.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 22.1 thông báo ông sẽ thăm Trung Quốc vào tháng 4 và Chủ tịch nước Trung Quốc Tập Cận Bình sẽ thăm Mỹ vào cuối năm nay, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:45:00+07:00",
+      "fetched": "2026-01-24T07:59:52.618200+07:00"
+    },
+    {
+      "id": "12d16b717b969c5f665b298f48fd982c",
+      "title": "Số người kết hôn gia tăng, Trung Quốc nỗ lực cải thiện tỷ lệ sinh thấp kỷ lục",
+      "link": "https://thanhnien.vn/so-nguoi-ket-hon-gia-tang-trung-quoc-no-luc-cai-thien-ty-le-sinh-thap-ky-luc-185260120133147127.htm",
+      "summary": "Sự gia tăng số người kết hôn đang trở thành điểm sáng trong bức tranh dân số của Trung Quốc, khi số liệu chính thức được công bố hôm 19.1 cho thấy tỷ lệ sinh của nước này đạt mức thấp kỷ lục vào năm 2025 và tổng dân số giảm năm thứ tư liên tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:45:00+07:00",
+      "fetched": "2026-01-24T07:59:52.618349+07:00"
+    },
+    {
+      "id": "ff6aaee017b87d45e67cc98b0dbe8270",
+      "title": "Người nước ngoài 'sốc lạnh' trong mùa đông Hà Nội",
+      "link": "https://vnexpress.net/nguoi-nuoc-ngoai-soc-lanh-trong-mua-dong-ha-noi-5004472.html",
+      "summary": "Xem video hai khách New Zealand run cầm cập vì lạnh ở Hà Giang cuối tháng 12/2025, anh Carey bật cười vì mình cũng từng rơi vào cảnh đó khi \"coi thường mùa đông Việt Nam\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:36:48+07:00",
+      "fetched": "2026-01-24T07:59:49.302817+07:00"
+    },
+    {
+      "id": "9f0c33b09213bb56617c3db1bfb27426",
+      "title": "Bão bức xạ mặt trời mạnh nhất 23 năm vừa tấn công: Dự báo hôm nay 24.1",
+      "link": "https://thanhnien.vn/bao-buc-xa-mat-troi-manh-nhat-23-nam-vua-tan-cong-du-bao-hom-nay-241-185260123210100247.htm",
+      "summary": "Bão bức xạ mặt trời mạnh nhất 23 năm vừa tấn công, dự báo hôm nay 24.1 thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:30:00+07:00",
+      "fetched": "2026-01-24T07:59:52.618515+07:00"
+    },
+    {
+      "id": "72cc6e08d45da74ecc6bd40df7d418e2",
+      "title": "Apple có thể mang đến điều bất ngờ với iPhone 17e",
+      "link": "https://thanhnien.vn/apple-co-the-mang-den-dieu-bat-ngo-voi-iphone-17e-185260124004058415.htm",
+      "summary": "Áp lực từ khủng hoảng bộ nhớ chưa chắc khiến iPhone 17e tăng giá sau khi Apple có phương án kiểm soát chi phí sản xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:27:00+07:00",
+      "fetched": "2026-01-24T07:59:52.618671+07:00"
+    },
+    {
+      "id": "728cbcf47ca7979210928daad3361bb3",
+      "title": "Nỗ lực bảo tồn sếu quý: Sếu 'hữu nghị', chuyện bây giờ mới kể",
+      "link": "https://thanhnien.vn/no-luc-bao-ton-seu-quy-seu-huu-nghi-chuyen-bay-gio-moi-ke-185260123232705341.htm",
+      "summary": "7 năm vận động, 16 tiếng hồi hộp đưa sếu quý về nước, hành trình của đàn sếu đầu đỏ đầu tiên từ Thái Lan về VN không chỉ là câu chuyện bảo tồn, mà còn là biểu tượng của niềm tin, sự kiên trì và tình hữu nghị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:27:00+07:00",
+      "fetched": "2026-01-24T07:59:52.618822+07:00"
+    },
+    {
+      "id": "d83a0c23717f18b17d186e28f2556202",
+      "title": "Truyền thông Nhật Bản viết quá hay về U.23 Việt Nam, chê Hàn Quốc thiếu mảng miếng rõ ràng",
+      "link": "https://thanhnien.vn/truyen-thong-nhat-ban-viet-qua-hay-ve-u23-viet-nam-che-han-quoc-thieu-mang-mieng-ro-rang-185260124034735272.htm",
+      "summary": "Theo truyền thông Nhật Bản, thất bại của U.23 Hàn Quốc trước U.23 Việt Nam ở trận tranh hạng ba giải U.23 châu Á 2026 không chỉ là một cú sốc về mặt kết quả, mà còn là ‘đòn cảnh tỉnh mang tính lịch sử’ đối với nền bóng đá từng được xem là thế lực hàng đầu châu lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:16:00+07:00",
+      "fetched": "2026-01-24T07:59:52.618976+07:00"
+    },
+    {
+      "id": "082fec6f0623ec5681cd6a2ef3da753d",
+      "title": "Chiến thắng không tưởng của U.23 Việt Nam",
+      "link": "https://thanhnien.vn/chien-thang-khong-tuong-cua-u23-viet-nam-185260124011914114.htm",
+      "summary": "U.23 VN quá quả cảm khi đánh bại U.23 Hàn Quốc với tỷ số 7-6 trên chấm luân lưu 11 m (hòa 2-2 trong 120 phút), qua đó đoạt tấm HCĐ giải U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:16:00+07:00",
+      "fetched": "2026-01-24T07:59:52.619132+07:00"
+    },
+    {
+      "id": "3bd399077f2f479bdd2db215617c3dc9",
+      "title": "Tăng sức cạnh tranh của nền kinh tế bằng khoa học và công nghệ",
+      "link": "https://vnexpress.net/tang-suc-canh-tranh-cua-nen-kinh-te-bang-khoa-hoc-va-cong-nghe-5009275.html",
+      "summary": "Nghị quyết Đại hội XIV xác định khoa học, công nghệ, đổi mới sáng tạo là động lực chính để nâng cao năng suất, giá trị gia tăng và sức cạnh tranh của nền kinh tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:00:00+07:00",
+      "fetched": "2026-01-24T07:59:49.302972+07:00"
+    },
+    {
+      "id": "c4a1e673aa64c76164b2c59f989e62d1",
+      "title": "Khu 'đất vàng' bỏ hoang thành công viên ở trung tâm TP HCM",
+      "link": "https://vnexpress.net/khu-dat-vang-bo-hoang-thanh-cong-vien-o-trung-tam-tp-hcm-5009189.html",
+      "summary": "Khu đất vàng thuộc dự án nhà thi đấu Phan Đình Phùng từng bỏ hoang nhiều năm nay đã \"thay áo\" thành công viên, sẽ mở cửa phục vụ người dân từ 25/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:00:00+07:00",
+      "fetched": "2026-01-24T07:59:49.303134+07:00"
+    },
+    {
+      "id": "5f7d64b339006b7247165467cff4d7b8",
+      "title": "CEO Nvidia: 'AI mở ra thời hoàng kim của thợ lành nghề'",
+      "link": "https://vnexpress.net/ceo-nvidia-ai-mo-ra-thoi-hoang-kim-cua-tho-lanh-nghe-5009167.html",
+      "summary": "Trong khi AI đe dọa nhiều công việc văn phòng, CEO Nvidia Jensen Huang cho rằng cơn khát hạ tầng số sẽ biến thợ điện, công nhân xây dựng thành những nghề \"hái ra tiền\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:00:00+07:00",
+      "fetched": "2026-01-24T07:59:49.303284+07:00"
+    },
+    {
+      "id": "cc7ee0e9691494c2b85c96557582905d",
+      "title": "'Bộ ba động lực đưa Việt Nam bứt phá'",
+      "link": "https://vnexpress.net/bo-ba-dong-luc-dua-viet-nam-but-pha-5009166.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, khoa học - công nghệ, đổi mới sáng tạo và chuyển đổi số là bộ ba động lực đưa Việt Nam bứt phá và trở thành quốc gia phát triển có thu nhập cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:00:00+07:00",
+      "fetched": "2026-01-24T07:59:49.303499+07:00"
+    },
+    {
+      "id": "624e830c7e3406d1785434170baa9795",
+      "title": "Giảng viên bị gỡ bài báo khoa học vì không ghi tên sinh viên",
+      "link": "https://vnexpress.net/giang-vien-bi-go-bai-bao-khoa-hoc-vi-khong-ghi-ten-sinh-vien-5009010.html",
+      "summary": "Hai giảng viên của Việt Nam bị gỡ bài báo khoa học vì \"công bố công trình nghiên cứu của sinh viên mà không ghi tên tác giả\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:00:00+07:00",
+      "fetched": "2026-01-24T07:59:49.303671+07:00"
+    },
+    {
+      "id": "b58685b71f58afcfad4eb4916e79d61e",
+      "title": "Quả bơ tốt cho sức khỏe thế nào",
+      "link": "https://vnexpress.net/suc-khoe-dinh-duong-qua-bo-5008737.html",
+      "summary": "Quả bơ béo ngậy, ngon miệng, cung cấp nhiều dưỡng chất hỗ trợ sức khỏe hệ tiêu hóa, tim mạch và kiểm soát cân nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:00:00+07:00",
+      "fetched": "2026-01-24T07:59:49.303825+07:00"
+    },
+    {
+      "id": "c539aa6d5475dc0119a648569cab151f",
+      "title": "Đàn ông nổi nóng vô cớ - dấu hiệu trầm cảm ít ai nhận ra",
+      "link": "https://vnexpress.net/dan-ong-noi-nong-vo-co-dau-hieu-tram-cam-it-ai-nhan-ra-5006717.html",
+      "summary": "Minh không bao giờ khóc, thay vào đó, anh trút lên vợ con những cơn thịnh nộ vô cớ, dùng sự hung hãn làm mặt nạ che giấu tâm hồn đang vụn vỡ bởi bệnh trầm cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T23:00:00+07:00",
+      "fetched": "2026-01-24T07:59:49.303978+07:00"
+    },
+    {
+      "id": "cc7ee0e9691494c2b85c96557582905d",
+      "title": "'Bộ ba động lực đưa Việt Nam bứt phá'",
+      "link": "https://vnexpress.net/bo-ba-dong-luc-dua-viet-nam-but-pha-5009166.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, khoa học - công nghệ, đổi mới sáng tạo và chuyển đổi số là bộ ba động lực đưa Việt Nam bứt phá và trở thành quốc gia phát triển có thu nhập cao.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-23T23:00:00+07:00",
+      "fetched": "2026-01-24T08:00:00.170523+07:00"
     },
     {
       "id": "9cb737c94b9a776ca2b73e742609e4f5",
@@ -1121,6 +1621,16 @@ window.newsData_2026_01_24 = {
       "category": "Thể thao",
       "published": "2026-01-23T13:41:21+07:00",
       "fetched": "2026-01-24T01:20:22.850782+07:00"
+    },
+    {
+      "id": "eb1f513cfc38e2be88d09837f0dc1994",
+      "title": "Việt Nam thắng Hàn Quốc, giành giải ba U23 châu Á",
+      "link": "https://vnexpress.net/ket-qua-viet-nam-vs-han-quoc-5009317-tong-thuat.html",
+      "summary": "Việt Nam hòa Hàn Quốc 2-2 sau hai hiệp phụ, rồi thắng 7-6 ở loạt sút luân lưu trận tranh giải ba U23 châu Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-23T13:41:21+07:00",
+      "fetched": "2026-01-24T08:00:01.737404+07:00"
     },
     {
       "id": "64fc20d988e3fcf208430e61a0af39e9",
