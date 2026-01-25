@@ -1,7 +1,157 @@
 window.newsData_2026_01_25 = {
   "date": "2026-01-25",
-  "lastUpdated": "2026-01-25T11:44:48.657419+07:00",
+  "lastUpdated": "2026-01-25T13:19:55.988634+07:00",
   "articles": [
+    {
+      "id": "9d4ce895cedc8612cceb843e1cd5d2da",
+      "title": "Ước nguyện xây dựng Việt Nam hùng cường",
+      "link": "https://tuoitre.vn/uoc-nguyen-xay-dung-viet-nam-hung-cuong-20260125105922162.htm",
+      "summary": "Là một người trẻ dõi theo sự kiện chính trị quan trọng, tôi không muốn chia sẻ những lời hoa mỹ mà mong gửi đi tâm tư rất thật, rất đời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.495028+07:00",
+      "fetched": "2026-01-25T13:19:49.495199+07:00"
+    },
+    {
+      "id": "2c2d02924f0823a73668b19e0771da4c",
+      "title": "Dự báo thời tiết từ 25 đến 31-1: Bắc Bộ và Trung Bộ mưa rét, Nam Bộ nắng",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-25-den-31-1-bac-bo-va-trung-bo-mua-ret-nam-bo-nang-20260124134649748.htm",
+      "summary": "Tuần này không khí lạnh vẫn chi phối thời tiết cả nước, Bắc Bộ và Trung Bộ mưa rét, Nam Bộ nắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.494797+07:00",
+      "fetched": "2026-01-25T13:19:49.495007+07:00"
+    },
+    {
+      "id": "3ce57f678efa1947012f55abfff70dd2",
+      "title": "Gài bẫy chi phí bằng niềm tin để lừa tiền",
+      "link": "https://tuoitre.vn/gai-bay-chi-phi-bang-niem-tin-de-lua-tien-20260125003552946.htm",
+      "summary": "Nhiều vụ lừa đảo trót lọt do lợi dụng niềm tin vào mối quan hệ quen biết rồi hứa hẹn sau khi đặt cọc tiền thì có việc làm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.494578+07:00",
+      "fetched": "2026-01-25T13:19:49.494776+07:00"
+    },
+    {
+      "id": "18bd59221cf26472e9566141876d5988",
+      "title": "Giữa lúc biểu tình chống ICE leo thang, xuất hiện hình ảnh giả về xe ICE bị tịch thu",
+      "link": "https://tuoitre.vn/giua-luc-bieu-tinh-chong-ice-leo-thang-xuat-hien-hinh-anh-gia-ve-xe-ice-bi-tich-thu-2026012510201139.htm",
+      "summary": "Mạng xã hội xuất hiện thông tin cho rằng các xe của Cơ quan Thực thi di trú và hải quan Mỹ (ICE) bị tịch thu vì vi phạm Hiến pháp Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.494331+07:00",
+      "fetched": "2026-01-25T13:19:49.494554+07:00"
+    },
+    {
+      "id": "91aba22caf8fc323035e4a6c7ae234bd",
+      "title": "2 xe tải tông trực diện, 2 người thiệt mạng",
+      "link": "https://tuoitre.vn/2-xe-tai-tong-truc-dien-2-nguoi-thiet-mang-20260125104659737.htm",
+      "summary": "2 xe tải tông trực diện trên quốc lộ 20, đoạn qua xã Bảo Lâm (Lâm Đồng) khiến 2 người thiệt mạng, 2 người khác bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.494086+07:00",
+      "fetched": "2026-01-25T13:19:49.494297+07:00"
+    },
+    {
+      "id": "be803847bb89d4c061720e4a5a6857dc",
+      "title": "Hành trình đáng nhớ của U23 Việt Nam",
+      "link": "https://tuoitre.vn/hanh-trinh-dang-nho-cua-u23-viet-nam-20260125111900365.htm",
+      "summary": "Dù không thể tái lập kỳ tích Thường Châu 2018 nhưng đội tuyển U23 Việt Nam cũng đã có một hành trình đáng nhớ trên đất Saudi Arabia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.493853+07:00",
+      "fetched": "2026-01-25T13:19:49.494065+07:00"
+    },
+    {
+      "id": "7b4968bda8ea3d6fc1c17fc66647a790",
+      "title": "Tập cuối Running Man mùa 3 dẫn đầu phòng vé với hơn 15 tỉ đồng",
+      "link": "https://tuoitre.vn/tap-cuoi-running-man-mua-3-dan-dau-phong-ve-voi-hon-15-ti-dong-20260125112152336.htm",
+      "summary": "Tính đến ngày 25-1, tập cuối Running Man mùa 3: Con rối tự do vươn lên vị trí top 1 doanh thu phòng vé.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.493679+07:00",
+      "fetched": "2026-01-25T13:19:49.493828+07:00"
+    },
+    {
+      "id": "d133fc715d8acff9afb32fb39f1571eb",
+      "title": "Truy tìm nhóm người lạ mặt lao lên xe khách đánh tới tấp phụ xe",
+      "link": "https://tuoitre.vn/truy-tim-nhom-nguoi-la-mat-lao-len-xe-khach-danh-toi-tap-phu-xe-20260125110759673.htm",
+      "summary": "Nhóm người lạ mặt tại Đắk Lắk đón xe khách lúc nửa đêm, rồi lên xe tìm người quen, phụ xe không đồng ý thì bị đánh tới tấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.493540+07:00",
+      "fetched": "2026-01-25T13:19:49.493667+07:00"
+    },
+    {
+      "id": "4c6f761e06a89f1063eee8176170b304",
+      "title": "Leonardo DiCaprio thất vọng vì bạn diễn 'One Battle After Another' trượt đề cử Oscar",
+      "link": "https://tuoitre.vn/leonardo-dicaprio-that-vong-vi-ban-dien-one-battle-after-another-truot-de-cu-oscar-20260125110053909.htm",
+      "summary": "Leonardo DiCaprio phản ứng trước việc bạn diễn One Battle After Another - Chase Infiniti - bị “ngó lơ” trong danh sách đề cử Oscar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.493374+07:00",
+      "fetched": "2026-01-25T13:19:49.493526+07:00"
+    },
+    {
+      "id": "70bfb4e229a7e038132de468e8ac1fbc",
+      "title": "Tổng Bí thư Tô Lâm ký chỉ thị triển khai thực hiện nghị quyết Đại hội XIV",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-ky-chi-thi-trien-khai-thuc-hien-nghi-quyet-dai-hoi-xiv-20260125104618689.htm",
+      "summary": "Chỉ thị 01 của Bộ Chính trị nêu rõ Đại hội XIV đã thành công rất tốt đẹp. Đại hội đã thông qua nghị quyết và các văn kiện Đại hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.493228+07:00",
+      "fetched": "2026-01-25T13:19:49.493360+07:00"
+    },
+    {
+      "id": "5d132f82a8c3eaa4450dcf7911ae9297",
+      "title": "Nghịch lý của Man United",
+      "link": "https://tuoitre.vn/nghich-ly-cua-man-united-2026012511243714.htm",
+      "summary": "Kỳ vọng cản bước Arsenal bất ngờ đổ dồn lên vai Man United khi hai đội chạm trán nhau ở vòng 23 Premier League lúc 23h30 ngày 25-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.493096+07:00",
+      "fetched": "2026-01-25T13:19:49.493217+07:00"
+    },
+    {
+      "id": "2babbe32af234f8206b5cae61b261277",
+      "title": "Không đến đúng giờ xe xuất bến có được bố trí chuyến sau?",
+      "link": "https://tuoitre.vn/khong-den-dung-gio-xe-xuat-ben-co-duoc-bo-tri-chuyen-sau-20260125004108917.htm",
+      "summary": "Tôi mua vé xe online nhưng do bận việc nên đến muộn giờ ghi trong vé và chiếc xe đó đã xuất bến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.492939+07:00",
+      "fetched": "2026-01-25T13:19:49.493083+07:00"
+    },
+    {
+      "id": "14ae78efc45bfced74000e2fde82ddbd",
+      "title": "Đình Bắc xứng đáng nhận giải Cầu thủ xuất sắc nhất U23 châu Á hơn Sato?",
+      "link": "https://tuoitre.vn/dinh-bac-xung-dang-nhan-giai-cau-thu-xuat-sac-nhat-u23-chau-a-hon-sato-20260125083825204.htm",
+      "summary": "\"Cầu thủ số 7 của Việt Nam xuất sắc hơn về mặt cá nhân, anh ấy ghi nhiều bàn thắng quan trọng hơn\", một CĐV có tài khoản Surdani nhận xét.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.492797+07:00",
+      "fetched": "2026-01-25T13:19:49.492926+07:00"
+    },
+    {
+      "id": "be9096cefd5638172ebf90b77a74ab18",
+      "title": "Elon Musk và bạn gái cũ bất đồng quan điểm nuôi con",
+      "link": "https://tuoitre.vn/elon-musk-va-ban-gai-cu-bat-dong-quan-diem-nuoi-con-20260125120925787.htm",
+      "summary": "Ca sĩ Grimes gây chú ý khi chia sẻ một kỷ niệm 'khó tin' về các con chung với tỉ phú Elon Musk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.492626+07:00",
+      "fetched": "2026-01-25T13:19:49.492782+07:00"
+    },
+    {
+      "id": "7e3181ab5e147262a7f17fc7fa51c711",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn tưởng nhớ, tri ân cố Chủ tịch Quốc hội Nguyễn Hữu Thọ",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-tuong-nho-tri-an-co-chu-tich-quoc-hoi-nguyen-huu-tho-20260125115609871.htm",
+      "summary": "Sáng 25-1, Chủ tịch Quốc hội Trần Thanh Mẫn đã tới thắp hương tưởng nhớ và thăm gia đình cố Chủ tịch Quốc hội Nguyễn Hữu Thọ tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:19:49.492317+07:00",
+      "fetched": "2026-01-25T13:19:49.492609+07:00"
+    },
     {
       "id": "c2a4925683b480be83949aea0f504bdb",
       "title": "Chàng trai Nga làm kombucha từ nguyên liệu Việt",
@@ -243,6 +393,86 @@ window.newsData_2026_01_25 = {
       "fetched": "2026-01-25T08:08:17.602790+07:00"
     },
     {
+      "id": "accf18c6c293ea05fbcef62f992280fd",
+      "title": "Nhiều người méo miệng, lệch mặt vì trời rét đậm",
+      "link": "https://vnexpress.net/nhieu-nguoi-meo-mieng-lech-mat-vi-troi-ret-dam-5009632.html",
+      "summary": "Đợt rét đậm kéo dài tại miền Bắc khiến Bệnh viện Bệnh Nhiệt đới Trung ương liên tục tiếp nhận các ca liệt dây thần kinh số 7 ngoại biên, trong đó có cả trẻ em và người cao tuổi do chủ quan với việc giữ ấm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:46:58+07:00",
+      "fetched": "2026-01-25T13:19:45.724937+07:00"
+    },
+    {
+      "id": "1775ec73b91781d5cd83e99c061cd895",
+      "title": "Tranh luận quanh 'thơ đạo tác phẩm nước ngoài' đoạt giải Hội Nhà văn",
+      "link": "https://vnexpress.net/tranh-luan-quanh-tho-dao-tac-pham-nuoc-ngoai-doat-giai-hoi-nha-van-5008759.html",
+      "summary": "Nhiều người nói bị lung lay niềm tin về chất lượng văn học khi Hội Nhà văn Việt Nam vinh danh tác giả đạo thơ rồi thu hồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:43:09+07:00",
+      "fetched": "2026-01-25T13:19:45.725118+07:00"
+    },
+    {
+      "id": "3ff0b76d9db8d99c5dab60c1a1d2a802",
+      "title": "Khi Carrick đóng góp nhiều cho đội trẻ Man Utd hơn Amorim",
+      "link": "https://vnexpress.net/khi-carrick-dong-gop-nhieu-cho-doi-tre-man-utd-hon-amorim-5009228.html",
+      "summary": "Chỉ trong hơn một tuần, HLV Michael Carrick đã làm được nhiều cho lò đào tạo trẻ Man Utd, hơn 14 tháng Ruben Amorim dẫn đội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:41:01+07:00",
+      "fetched": "2026-01-25T13:19:45.725286+07:00"
+    },
+    {
+      "id": "3ff0b76d9db8d99c5dab60c1a1d2a802",
+      "title": "Khi Carrick đóng góp nhiều cho đội trẻ Man Utd hơn Amorim",
+      "link": "https://vnexpress.net/khi-carrick-dong-gop-nhieu-cho-doi-tre-man-utd-hon-amorim-5009228.html",
+      "summary": "Chỉ trong hơn một tuần, HLV Michael Carrick đã làm được nhiều cho lò đào tạo trẻ Man Utd, hơn 14 tháng Ruben Amorim dẫn đội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-25T05:41:01+07:00",
+      "fetched": "2026-01-25T13:19:55.982446+07:00"
+    },
+    {
+      "id": "13a04868fc2189ad2045b643ff3b346a",
+      "title": "Thu hồi toàn quốc lô thuốc trị khớp Diacerin 50 kém chất lượng",
+      "link": "https://vnexpress.net/thu-hoi-toan-quoc-lo-thuoc-tri-khop-diacerin-50-kem-chat-luong-5009640.html",
+      "summary": "Cục Quản lý Dược vừa yêu cầu thu hồi trên toàn quốc lô viên nang cứng Diacerin 50 (Diacerein 50mg) dùng điều trị thoái hóa khớp do không đạt tiêu chuẩn về hàm lượng nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:38:13+07:00",
+      "fetched": "2026-01-25T13:19:45.725394+07:00"
+    },
+    {
+      "id": "d409035f202c504f8765a83247a39374",
+      "title": "Chuyện giờ mới biết về trợ lý ngôn ngữ của HLV Kim Sang-sik: Từng từ chối nhận việc vì…",
+      "link": "https://thanhnien.vn/chuyen-gio-moi-biet-ve-tro-ly-ngon-ngu-cua-hlv-kim-sang-sik-tung-tu-choi-nhan-viec-vi-185260125121229335.htm",
+      "summary": "Trợ lý ngôn ngữ của HLV Kim Sang-sik từng là bạn học cũ của Văn Toàn, nhiều lần muốn từ chối công việc vì áp lực, trước khi trở thành 'cánh tay phải' thầm lặng ở đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:28:00+07:00",
+      "fetched": "2026-01-25T13:19:48.529420+07:00"
+    },
+    {
+      "id": "97b00befcaa03dcd866d983422ac8b01",
+      "title": "Lợi nhuận Dragon Capital giảm một nửa",
+      "link": "https://vnexpress.net/loi-nhuan-dragon-capital-giam-mot-nua-5009520.html",
+      "summary": "Doanh thu nhích nhẹ nhưng chi phí giữ mức cao khiến lợi nhuận công ty quản lý quỹ Dragon Capital sụt một nửa, về 117 tỷ đồng trong năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:21:21+07:00",
+      "fetched": "2026-01-25T13:19:45.725579+07:00"
+    },
+    {
+      "id": "97b00befcaa03dcd866d983422ac8b01",
+      "title": "Lợi nhuận Dragon Capital giảm một nửa",
+      "link": "https://vnexpress.net/loi-nhuan-dragon-capital-giam-mot-nua-5009520.html",
+      "summary": "Doanh thu nhích nhẹ nhưng chi phí giữ mức cao khiến lợi nhuận công ty quản lý quỹ Dragon Capital sụt một nửa, về 117 tỷ đồng trong năm 2025.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-25T05:21:21+07:00",
+      "fetched": "2026-01-25T13:19:52.184971+07:00"
+    },
+    {
       "id": "73ba8a701e32d3dde906faa9114e8acd",
       "title": "Thời tiết hôm nay 25-1: Bắc Bộ rét mướt mưa phùn, Nam Bộ nắng",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-25-1-bac-bo-ret-muot-mua-phun-nam-bo-nang-20260124152255204.htm",
@@ -261,6 +491,186 @@ window.newsData_2026_01_25 = {
       "category": "Tổng hợp",
       "published": "2026-01-25T05:12:14.998292+07:00",
       "fetched": "2026-01-25T05:12:14.998509+07:00"
+    },
+    {
+      "id": "699e68c5036d1a463cebfe0cd4aebdbe",
+      "title": "Tự ý đổi lộ trình, khách lạc đường trên núi Bà Đen nhờ 'giải cứu'",
+      "link": "https://thanhnien.vn/tu-y-doi-lo-trinh-khach-lac-duong-tren-nui-ba-den-nho-giai-cuu-185260125072919149.htm",
+      "summary": "Nhóm du khách đăng ký leo núi theo tuyến đường quy định của Ban quản lý khu du lịch núi Bà Đen (Tây Ninh) nhưng tự ý đổi lộ trình dẫn đến lạc đường phải nhờ cứu hộ trong đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:06:00+07:00",
+      "fetched": "2026-01-25T13:19:48.529609+07:00"
+    },
+    {
+      "id": "ec48060981641db9086ccd5adfd645f4",
+      "title": "Ngày tàn của 'tứ đại gia tộc' lừa đảo Trung Quốc",
+      "link": "https://vnexpress.net/ngay-tan-cua-tu-dai-gia-toc-lua-dao-trung-quoc-5002220.html",
+      "summary": "Sau chiến dịch trấn áp của Trung Quốc, tứ đại gia tộc khét tiếng từng điều hành các trung tâm lừa đảo khổng lồ ở Myanmar đã bị triệt phá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:04:27+07:00",
+      "fetched": "2026-01-25T13:19:45.725750+07:00"
+    },
+    {
+      "id": "ec48060981641db9086ccd5adfd645f4",
+      "title": "Ngày tàn của 'tứ đại gia tộc' lừa đảo Trung Quốc",
+      "link": "https://vnexpress.net/ngay-tan-cua-tu-dai-gia-toc-lua-dao-trung-quoc-5002220.html",
+      "summary": "Sau chiến dịch trấn áp của Trung Quốc, tứ đại gia tộc khét tiếng từng điều hành các trung tâm lừa đảo khổng lồ ở Myanmar đã bị triệt phá.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-25T05:04:27+07:00",
+      "fetched": "2026-01-25T13:19:51.297625+07:00"
+    },
+    {
+      "id": "114406f2b40a8a2bc8a5a9001985b12b",
+      "title": "'Mỹ ơi cố lên': Soái ca U.23 Việt Nam được ban huấn luyện hét cổ vũ trận tranh HCĐ, là ai?",
+      "link": "https://thanhnien.vn/my-oi-co-len-soai-ca-u23-viet-nam-duoc-ban-huan-luyen-het-co-vu-tran-tranh-hcd-la-ai-185260125112945584.htm",
+      "summary": "Khoảnh khắc ban huấn luyện U.23 Việt Nam liên tục hét vang 'Mỹ ơi cố lên' trong trận tranh hạng ba U.23 châu Á 2026 gây ấn tượng với nhiều khán giả theo dõi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:04:00+07:00",
+      "fetched": "2026-01-25T13:19:48.529774+07:00"
+    },
+    {
+      "id": "ebd75958ff9234e32adc67d3eaf2e8c8",
+      "title": "Người đẹp 18 tuổi đóng phim Tết của Trường Giang",
+      "link": "https://vnexpress.net/nguoi-dep-18-tuoi-dong-phim-tet-cua-truong-giang-5009637.html",
+      "summary": "Đoàn Minh Anh - 18 tuổi, cao 1,75 m - được Trường Giang chọn làm nàng thơ trong phim Tết \"Nhà ba tôi một phòng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:00:00+07:00",
+      "fetched": "2026-01-25T13:19:45.725915+07:00"
+    },
+    {
+      "id": "e1737e0f058398422dacbe7b87eea0f1",
+      "title": "Tỉnh thành nào có diện tích nhỏ nhất miền Trung?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-tinh-thanh-nao-co-dien-tich-nho-nhat-mien-trung-5007610.html",
+      "summary": "Miền Trung có 11 tỉnh thành, trong đó, tỉnh Lâm Đồng có diện tích lớn nhất, vậy địa phương nào có diện tích nhỏ nhất?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:00:00+07:00",
+      "fetched": "2026-01-25T13:19:45.726071+07:00"
+    },
+    {
+      "id": "060081c63c2191ba1624da019fe1f146",
+      "title": "Nhớ về tình cũ như sự nuối tiếc và tội lỗi lớn nhất",
+      "link": "https://vnexpress.net/nho-ve-tinh-cu-nhu-su-nuoi-tiec-va-toi-loi-lon-nhat-5007343.html",
+      "summary": "Nếu tiếp tục quen nhau sẽ rất khó khăn, có thể bị mẹ cô ấy phản đối, mâu thuẫn về định hướng công việc và nơi ở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:00:00+07:00",
+      "fetched": "2026-01-25T13:19:45.726241+07:00"
+    },
+    {
+      "id": "c526d4cedff3997b7e83863d33fd6a73",
+      "title": "Scholes tiếp tục chế giễu trung vệ Man Utd",
+      "link": "https://vnexpress.net/scholes-tiep-tuc-che-gieu-trung-ve-man-utd-5009608.html",
+      "summary": "Cựu tiền vệ Paul Scholes khẳng định sẽ không xin lỗi và cho rằng Lisandro Martinez phải học cách đối mặt với chỉ trích khi thi đấu cho Man Utd.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:00:00+07:00",
+      "fetched": "2026-01-25T13:19:45.726395+07:00"
+    },
+    {
+      "id": "a920a18b495c5feb1abbce1beb205c68",
+      "title": "5 quả mọng phòng ung thư nên ăn thường xuyên",
+      "link": "https://vnexpress.net/5-qua-mong-phong-ung-thu-nen-an-thuong-xuyen-5009532.html",
+      "summary": "Quả mọng như dâu tây, việt quất, nho giàu chất xơ, chất chống oxy hóa, giúp giảm viêm và phòng ngừa một số loại ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:00:00+07:00",
+      "fetched": "2026-01-25T13:19:45.726584+07:00"
+    },
+    {
+      "id": "04a347ae76ea2554b00f14b6ce02979b",
+      "title": "4 dấu hiệu ung thư gan liên quan hormone",
+      "link": "https://vnexpress.net/4-dau-hieu-ung-thu-gan-lien-quan-hormone-5009053.html",
+      "summary": "Một số biểu hiện như tăng đường huyết, tăng hồng cầu hay ngực to bất thường có thể xuất hiện khi khối u gan ảnh hưởng đến điều hòa hormone trong cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:00:00+07:00",
+      "fetched": "2026-01-25T13:19:45.726747+07:00"
+    },
+    {
+      "id": "7a684252712e1f4bbc4a3785fc40255a",
+      "title": "Phụ nữ ngành chuỗi cung ứng hưởng lợi từ AI và công nghệ",
+      "link": "https://vnexpress.net/phu-nu-nganh-chuoi-cung-ung-huong-loi-tu-ai-va-cong-nghe-5007264.html",
+      "summary": "Sự phát triển của trí tuệ nhân tạo (AI) và các công nghệ mới đang làm thay đổi cách vận hành chuỗi cung ứng toàn cầu, đồng thời mở ra nhiều cơ hội thăng tiến cho phụ nữ trong lĩnh vực này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:00:00+07:00",
+      "fetched": "2026-01-25T13:19:45.726902+07:00"
+    },
+    {
+      "id": "c95dd47995fa6e94319739ec262b5882",
+      "title": "Giày Mary Jane sánh đôi tất cao cổ mang đậm nét retro",
+      "link": "https://thanhnien.vn/thoi-trang-tre/giay-mary-jane-sanh-doi-tat-cao-co-mang-dam-net-retro-185260123232734934.htm",
+      "summary": "Sự kết hợp giữa giày Mary Jane và tất cao cổ đang âm thầm trở lại như một biểu tượng thời trang mang đậm tinh thần retro nhưng được thổi vào thời trang hiện đại đầy cuốn hút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T05:00:00+07:00",
+      "fetched": "2026-01-25T13:19:48.529932+07:00"
+    },
+    {
+      "id": "c526d4cedff3997b7e83863d33fd6a73",
+      "title": "Scholes tiếp tục chế giễu trung vệ Man Utd",
+      "link": "https://vnexpress.net/scholes-tiep-tuc-che-gieu-trung-ve-man-utd-5009608.html",
+      "summary": "Cựu tiền vệ Paul Scholes khẳng định sẽ không xin lỗi và cho rằng Lisandro Martinez phải học cách đối mặt với chỉ trích khi thi đấu cho Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-25T05:00:00+07:00",
+      "fetched": "2026-01-25T13:19:55.981185+07:00"
+    },
+    {
+      "id": "41cd7776bcf696f2173a6c2f827ceef8",
+      "title": "Hai đòn tâm lý trước chấm 11 m của thủ môn Trung Quốc tại U23 châu Á",
+      "link": "https://vnexpress.net/hai-don-tam-ly-truoc-cham-11-m-cua-thu-mon-trung-quoc-tai-u23-chau-a-5009681.html",
+      "summary": "Li Hao gây chú ý ở U23 châu Á khi liên tục dùng đòn tâm lý, từ việc nhìn tờ ghi chú dán trên chai nước ở tứ kết đến lời khiêu khích trước chấm 11 m trong trận chung kết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T04:52:37+07:00",
+      "fetched": "2026-01-25T13:19:45.727064+07:00"
+    },
+    {
+      "id": "16a064ac125a85eb79782ef534339fff",
+      "title": "Da sau mụn: Giải mã tiến trình phục hồi sinh học dưới góc độ chuyên gia",
+      "link": "https://thanhnien.vn/da-sau-mun-giai-ma-tien-trinh-phuc-hoi-sinh-hoc-duoi-goc-do-chuyen-gia-185260125115518944.htm",
+      "summary": "Sau mụn, làn da chưa thực sự hồi phục mà đang bước vào một hành trình tái sinh phức tạp. Hiểu đúng các giai đoạn phục hồi sinh học sẽ giúp bạn chăm sóc da đúng thời điểm, rút ngắn thâm sẹo và tối ưu kết quả lâu dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T04:44:00+07:00",
+      "fetched": "2026-01-25T13:19:48.530088+07:00"
+    },
+    {
+      "id": "e2dc0fbe807ad5e9b15372beb4f19110",
+      "title": "Tôi thảnh thơi làm tóc, du lịch thay vì cuống cuồng dọn dẹp, sắm Tết",
+      "link": "https://vnexpress.net/toi-thanh-thoi-lam-toc-du-lich-thay-vi-cuong-cuong-don-dep-sam-tet-5009662.html",
+      "summary": "Nhiều người cứ chờ đến sát ngày cuối năm mới cuống cuồng mua sắm, làm đẹp hay bảo dưỡng xe cộ... còn tôi chọn không để Tết thành gánh nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T04:42:34+07:00",
+      "fetched": "2026-01-25T13:19:45.727217+07:00"
+    },
+    {
+      "id": "d58c6617bf3ab3ec7702346042f4ff1b",
+      "title": "Gmail gặp lỗi phân loại email",
+      "link": "https://vnexpress.net/gmail-gap-loi-phan-loai-email-5009671.html",
+      "summary": "Gmail không thể phân loại các tin quảng cáo khiến chúng tràn ngập trong hộp thư chính, nhiều người cũng không thể nhận các tin xác thực hai yếu tố.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-25T04:41:19+07:00",
+      "fetched": "2026-01-25T13:19:55.131383+07:00"
+    },
+    {
+      "id": "177e4e7d447a1e2dab5a275e10ded556",
+      "title": "Ông Trump tiết lộ tên của 'vũ khí bí mật' trong chiến dịch đột kích Venezuela",
+      "link": "https://vnexpress.net/ong-trump-tiet-lo-ten-cua-vu-khi-bi-mat-trong-chien-dich-dot-kich-venezuela-5009650.html",
+      "summary": "Tổng thống Trump nói lực lượng Mỹ đã sử dụng vũ khí mang tên \"Discombobulator\" khi đột kích để bắt lãnh đạo Venezuela hồi đầu năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-25T04:40:58+07:00",
+      "fetched": "2026-01-25T13:19:51.297807+07:00"
     },
     {
       "id": "8c3226ca541a4c7793407cd0a4d019da",
