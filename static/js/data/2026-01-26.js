@@ -1,7 +1,27 @@
 window.newsData_2026_01_26 = {
   "date": "2026-01-26",
-  "lastUpdated": "2026-01-26T17:17:58.810178+07:00",
+  "lastUpdated": "2026-01-26T19:28:31.837559+07:00",
   "articles": [
+    {
+      "id": "d297cf21512b510ddadab37df1ed36fc",
+      "title": "Báo Hàn nói về 'khoảnh khắc cúi đầu' của HLV Kim Sang Sik': Sự im lặng còn vang vọng hơn tiếng reo",
+      "link": "https://tuoitre.vn/bao-han-noi-ve-khoanh-khac-cui-dau-cua-hlv-kim-sang-sik-su-im-lang-con-vang-vong-hon-tieng-reo-20260126160129533.htm",
+      "summary": "Sau khi U23 Việt Nam đánh bại U23 Hàn Quốc 7-6 ở loạt sút luân lưu 11m (hòa 2-2 sau 120 phút) để giành huy chương đồng ở Giải U23 châu Á 2026, HLV Kim Sang Sik không ăn mừng, mà có khoảnh khắc \"cúi đầu\" trầm tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T19:28:23.850677+07:00",
+      "fetched": "2026-01-26T19:28:23.850808+07:00"
+    },
+    {
+      "id": "bebb56deb5a05373167ad03de3d3e035",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn chủ trì hội nghị thông báo nhanh kết quả Đại hội XIV của Đảng",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-chu-tri-hoi-nghi-thong-bao-nhanh-ket-qua-dai-hoi-xiv-cua-dang-20260126163528225.htm",
+      "summary": "Chiều 26-1, Chủ tịch Quốc hội Trần Thanh Mẫn đã chủ trì hội nghị thông báo nhanh kết quả Đại hội XIV của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T19:28:23.850446+07:00",
+      "fetched": "2026-01-26T19:28:23.850662+07:00"
+    },
     {
       "id": "69b1d1772c45e8c9fcf8a80a3b36f5a0",
       "title": "Từ bỏ là thất bại hay là chiến lược sinh tồn khôn ngoan nhất?",
@@ -453,6 +473,186 @@ window.newsData_2026_01_26 = {
       "fetched": "2026-01-26T13:24:50.942706+07:00"
     },
     {
+      "id": "ab461acdfecf06fa0e0d3b71d064802d",
+      "title": "Phan Đinh Tùng ra sao khi trở lại showbiz?",
+      "link": "https://thanhnien.vn/phan-dinh-tung-ra-sao-khi-tro-lai-showbiz-185260126182739732.htm",
+      "summary": "Phan Đinh Tùng cho thấy nỗ lực làm mới mình sau hành trình 'Anh trai vượt ngàn chông gai'. Gần đây, anh gây chú ý khi trình làng 'Có lẽ nào' kết hợp cùng Phương Thanh và Freaky.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T12:26:00+07:00",
+      "fetched": "2026-01-26T19:28:22.792218+07:00"
+    },
+    {
+      "id": "5ca7bad0438851afa86efb64ed6d3747",
+      "title": "Khoảng 1.500 đại biểu kiều bào sẽ tham dự chương trình Xuân Quê hương 2026",
+      "link": "https://thanhnien.vn/khoang-1500-dai-bieu-kieu-bao-se-tham-du-chuong-trinh-xuan-que-huong-2026-185260126184935142.htm",
+      "summary": "Chiều 26.1, Ủy ban Nhà nước về người Việt Nam ở nước ngoài (Bộ Ngoại giao) tổ chức buổi gặp gỡ báo chí thông tin về Chương trình Xuân Quê hương 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T12:24:00+07:00",
+      "fetched": "2026-01-26T19:28:22.792406+07:00"
+    },
+    {
+      "id": "97abb6c7f595191086eb437f0ec52ad5",
+      "title": "Học sinh Quảng Ngãi đón nhận niềm vui từ 20 công trình  trị giá 1,2 tỉ đồng",
+      "link": "https://thanhnien.vn/hoc-sinh-quang-ngai-don-nhan-niem-vui-tu-20-cong-trinh-tri-gia-12-ti-dong-185260126172631806.htm",
+      "summary": "20 công trình nhà vệ sinh với tổng kinh phí 1,2 tỉ đồng tại các điểm trường trên địa bàn tỉnh Quảng Ngãi được khánh thành ngày 26.1, không chỉ mang lại niềm vui cho học sinh, mà còn góp phần xây dựng môi trường học đường an toàn, thân thiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T12:23:00+07:00",
+      "fetched": "2026-01-26T19:28:22.792566+07:00"
+    },
+    {
+      "id": "0daaf074eba760af9c089d1651d5ac7d",
+      "title": "Chi tiếp khách sai đối tượng, gây thất thoát 1,8 tỉ đồng",
+      "link": "https://thanhnien.vn/chi-tiep-khach-sai-doi-tuong-gay-that-thoat-18-ti-dong-185260126172300131.htm",
+      "summary": "Ba bị cáo là nguyên lãnh đạo, kế toán Văn phòng Đoàn ĐBQH và HĐND tỉnh Gia Lai chi tiếp khách sai đối tượng, gây thất thoát ngân sách hơn 1,8 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T12:19:00+07:00",
+      "fetched": "2026-01-26T19:28:22.792718+07:00"
+    },
+    {
+      "id": "236df0329a7c865b82cc12f1ba815552",
+      "title": "Một ngư dân sống sót sau khi thuyền đánh cá bị chìm tại cửa Tùng",
+      "link": "https://thanhnien.vn/mot-ngu-dan-song-sot-sau-khi-thuyen-danh-ca-bi-chim-tai-cua-tung-185260126154037869.htm",
+      "summary": "Ngày 26.1.2026, Đồn Biên phòng Cửa Tùng (Ban chỉ huy BĐBP Quảng Trị) thông tin cho biết, đơn vị đang phối hợp với chính quyền địa phương và nhân dân cứu kéo 01 thuyền đánh cá bị chìm tại cửa Tùng lên bờ sửa chữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T12:17:00+07:00",
+      "fetched": "2026-01-26T19:28:22.792868+07:00"
+    },
+    {
+      "id": "3ef3a819467d0de99572177dd448a8af",
+      "title": "Bí thư Tỉnh ủy Lâm Đồng thăm, chúc tết nhân viên Trung tâm Điện lực Vĩnh Tân",
+      "link": "https://thanhnien.vn/bi-thu-tinh-uy-lam-dong-tham-chuc-tet-nhan-vien-trung-tam-dien-luc-vinh-tan-185260126173724361.htm",
+      "summary": "Chiều 26.1, ông Y Thanh Hà Niê Kđăm, Ủy viên T.Ư Đảng, Bí thư Tỉnh ủy Lâm Đồng, đã đến kiểm tra, thăm và chúc tết cán bộ, công nhân viên Trung tâm Điện lực Vĩnh Tân (xã Vĩnh Hảo, tỉnh Lâm Đồng - trước đây thuộc H.Tuy Phong, Bình Thuận).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T12:16:00+07:00",
+      "fetched": "2026-01-26T19:28:22.793020+07:00"
+    },
+    {
+      "id": "e029efd4e143a3f6cd5fd2eefcfd0dcc",
+      "title": "ROX Group tuổi 30: Củng cố nền tảng, vươn xa trên hành trình mới",
+      "link": "https://thanhnien.vn/rox-group-tuoi-30-cung-co-nen-tang-vuon-xa-tren-hanh-trinh-moi-185260126191551134.htm",
+      "summary": "Trong ba thập kỷ kiến tạo thuận ích, ROX Group trưởng thành từ chính những trải nghiệm thực tiễn của thị trường và hoạt động kinh doanh. Tin vào sức mạnh nội lực, Tập đoàn bước vào tuổi 30 với tâm thế vững vàng, tự tin hiện thực hóa khát vọng vươn xa trên hành trình phía trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T12:06:00+07:00",
+      "fetched": "2026-01-26T19:28:22.793179+07:00"
+    },
+    {
+      "id": "05d12952fa2d48b551ddd62ea953b94b",
+      "title": "Chuyên gia nói gì khi ăn 1-2 tép tỏi mỗi ngày?",
+      "link": "https://thanhnien.vn/chuyen-gia-noi-gi-khi-an-1-2-tep-toi-moi-ngay-185260126190302194.htm",
+      "summary": "Ăn tỏi sống không chỉ là một thói quen dùng gia vị mà còn mang lại những lợi ích sức khỏe to lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T12:03:00+07:00",
+      "fetched": "2026-01-26T19:28:22.793351+07:00"
+    },
+    {
+      "id": "ad14be0fc0c187c7bf9b27b0b570f871",
+      "title": "Thủ môn Cao Văn Bình trở về quê hương, người dân Nghệ An chào đón như người hùng",
+      "link": "https://thanhnien.vn/thu-mon-cao-van-binh-tro-ve-que-huong-nguoi-dan-nghe-an-chao-don-nhu-nguoi-hung-185260126185920002.htm",
+      "summary": "Sau hành trình đáng nhớ cùng U.23 Việt Nam tại VCK U.23 châu Á 2026, thủ môn Cao Văn Bình đã trở về quê nhà xóm 10, xã Diễn Châu, tỉnh Nghệ An vào sáng 26.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T12:01:00+07:00",
+      "fetched": "2026-01-26T19:28:22.793532+07:00"
+    },
+    {
+      "id": "86edb60db1ada220abddaed205fdb937",
+      "title": "Hoa hậu-Nghệ sĩ Đức Xuân được vinh danh ‘Nghệ sĩ nhân ái vì cộng đồng 2025’",
+      "link": "https://thanhnien.vn/hoa-hau-nghe-si-duc-xuan-duoc-vinh-danh-nghe-si-nhan-ai-vi-cong-dong-2025-185260126171108379.htm",
+      "summary": "Với những đóng góp âm thầm, lặng lẽ nhưng bền bỉ cho công tác từ thiện và hoạt động xã hội suốt nhiều năm qua, Hoa hậu - Nghệ sĩ Đức Xuân đã được trao tặng danh hiệu 'Nghệ sĩ có trái tim nhân ái vì cộng đồng' năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T12:00:00+07:00",
+      "fetched": "2026-01-26T19:28:22.793709+07:00"
+    },
+    {
+      "id": "1e2f4324fafcce135bff051d59f05a9d",
+      "title": "Mở ra năm mới tốt đẹp từ khoảnh khắc ta trao nhau điều ‘Quý như Vàng’",
+      "link": "https://thanhnien.vn/mo-ra-nam-moi-tot-dep-tu-khoanh-khac-ta-trao-nhau-dieu-quy-nhu-vang-185260126145816484.htm",
+      "summary": "Năm mới không chỉ mở ra bằng tiếng pháo hoa hay lời chúc giao thừa. Với nhiều người, năm mới thực sự bắt đầu từ những khoảnh khắc sâu lắng và đầy ý nghĩa - khi ta trao cho nhau những điều 'Quý như Vàng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T12:00:00+07:00",
+      "fetched": "2026-01-26T19:28:22.793865+07:00"
+    },
+    {
+      "id": "bcef65b57e6e17eaf8f06437cc2bd568",
+      "title": "Nhạc sĩ tỉ view Nguyễn Văn Chung: ‘Mẹ thích tôi học Bách khoa, tôi thì không giỏi...",
+      "link": "https://thanhnien.vn/nhac-si-ti-view-nguyen-van-chung-me-thich-toi-hoc-bach-khoa-toi-thi-khong-gioi-185260125124439539.htm",
+      "summary": "Trong khai mạc chương trình Tư vấn mùa thi 2026 của Báo Thanh Niên ngày 24.1 tại Trường ĐH Đồng Nai, nhạc sĩ Nguyễn Văn Chung cho biết trước đây việc học chỉ là theo sự hướng dẫn, sắp xếp của ba mẹ, theo khả năng của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T12:00:00+07:00",
+      "fetched": "2026-01-26T19:28:22.794012+07:00"
+    },
+    {
+      "id": "dbd36c4ba560c0290b03d332c84bae53",
+      "title": "Phút hỗn loạn trước khi đặc vụ liên bang bắn 10 phát vào công dân Mỹ",
+      "link": "https://vnexpress.net/phut-hon-loan-truoc-khi-dac-vu-lien-bang-ban-10-phat-vao-cong-dan-my-5010117.html",
+      "summary": "Alex Pretti vướng vào tình huống hỗn loạn trong lúc ghi hình các đặc vụ truy quét nhập cư ở Minnesota và bị bắn 10 phát trong chưa đầy 5 giây.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-26T12:00:00+07:00",
+      "fetched": "2026-01-26T19:28:25.263346+07:00"
+    },
+    {
+      "id": "1918d2807be3c92abfd0aa442a7c3cb3",
+      "title": "Nữ tỷ phú lừa đảo muốn ra tù sớm",
+      "link": "https://vnexpress.net/nu-ty-phu-lua-dao-muon-ra-tu-som-5009991.html",
+      "summary": "Cựu CEO hãng xét nghiệm máu Theranos Elizabeth Holmes nộp đơn xin giảm án để được ra tù sớm, sau khi đã thụ án vài năm vì lừa đảo nhà đầu tư.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-26T12:00:00+07:00",
+      "fetched": "2026-01-26T19:28:27.386076+07:00"
+    },
+    {
+      "id": "a81c322613f00abe88c6bc27cdc59128",
+      "title": "Các lãnh đạo công nghệ thay đổi thế nào 10 năm qua",
+      "link": "https://vnexpress.net/cac-lanh-dao-cong-nghe-thay-doi-the-nao-10-nam-qua-5010129.html",
+      "summary": "Từ năm 2016 đến nay, các CEO công nghệ như Elon Musk, Mark Zuckerberg hay Sam Altman có nhiều thay đổi về tài sản, tầm ảnh hưởng và định hướng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-26T12:00:00+07:00",
+      "fetched": "2026-01-26T19:28:30.016709+07:00"
+    },
+    {
+      "id": "b937c83ced809a504377c6860f0e5124",
+      "title": "Đề xuất 'xây' đô thị Hà Nội thông minh, thí điểm ở 3 phường, xã",
+      "link": "https://thanhnien.vn/de-xuat-xay-do-thi-ha-noi-thong-minh-thi-diem-o-3-phuong-xa-185260126182924432.htm",
+      "summary": "Nhằm khắc phục triệt để những vấn đề tồn tại, điểm nghẽn, Hà Nội cho rằng thành phố cần tái cấu trúc toàn diện về tư duy phát triển và quản trị đô thị, dựa trên cơ sở ở Đề án \"Đô thị Hà Nội thông minh đến năm 2030, tầm nhìn đến năm 2045\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T11:58:00+07:00",
+      "fetched": "2026-01-26T19:28:22.794158+07:00"
+    },
+    {
+      "id": "06b2ea1f36844ae68370b2dcbf123cbc",
+      "title": "Chủ tịch Quốc hội chủ trì hội nghị thông báo kết quả Đại hội XIV",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-chu-tri-hoi-nghi-thong-bao-ket-qua-dai-hoi-xiv-185260126184214013.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn chủ trì Hội nghị thông báo nhanh kết quả Đại hội đại biểu toàn quốc lần thứ XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T11:55:00+07:00",
+      "fetched": "2026-01-26T19:28:22.794304+07:00"
+    },
+    {
+      "id": "c29686b86bf167f0a8703a6bb5553a22",
+      "title": "Công an điều tra vụ nữ giúp việc bạo hành cụ bà 82 tuổi ở Hà Nội",
+      "link": "https://thanhnien.vn/cong-an-dieu-tra-vu-nu-giup-viec-bao-hanh-cu-ba-82-tuoi-o-ha-noi-185260126174634491.htm",
+      "summary": "Công an P.Hai Bà Trưng (Hà Nội) đã vào cuộc điều tra vụ nữ giúp việc trong đoạn clip 13 phút trên mạng xã hội có hành vi đánh đập cụ bà 82 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T11:54:00+07:00",
+      "fetched": "2026-01-26T19:28:22.794478+07:00"
+    },
+    {
       "id": "a45332bb0df9bc3f959edf5b1114b3b9",
       "title": "Làm nút giao cao tốc nối Cần Giờ theo hình thức EPC: Nhanh hơn 6 tháng, tiết kiệm 10% chi phí",
       "link": "https://tuoitre.vn/lam-nut-giao-cao-toc-noi-can-gio-theo-hinh-thuc-epc-nhanh-hon-6-thang-tiet-kiem-10-chi-phi-20260126090543295.htm",
@@ -601,6 +801,86 @@ window.newsData_2026_01_26 = {
       "category": "Tổng hợp",
       "published": "2026-01-26T11:48:43.222826+07:00",
       "fetched": "2026-01-26T11:48:43.223020+07:00"
+    },
+    {
+      "id": "9d41da8814a387558ea17ec628e9b35b",
+      "title": "Thời trang dự đám cưới trang nhã của Đỗ Thị Hà",
+      "link": "https://vnexpress.net/thoi-trang-du-dam-cuoi-trang-nha-cua-do-thi-ha-5009914.html",
+      "summary": "Hoa hậu Đỗ Thị Hà ghi điểm với váy áo gam màu nhã nhặn, chất liệu voan, lụa, tôn nhan sắc nhưng không lấn át cô dâu khi dự tiệc cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T11:31:00+07:00",
+      "fetched": "2026-01-26T19:28:19.331118+07:00"
+    },
+    {
+      "id": "9ec71a2597913c68879e67bf439425bb",
+      "title": "5 cách tìm tuyến đường chạy bộ khi du lịch",
+      "link": "https://vnexpress.net/5-cach-tim-duong-chay-bo-an-toan-khi-du-lich-5009909.html",
+      "summary": "Tận dụng dữ liệu từ ứng dụng, mạng xã hội, tham gia cùng nhóm chạy địa phương giúp runner tránh lạc đường, đảm bảo an toàn khi chạy ở thành phố mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T11:30:00+07:00",
+      "fetched": "2026-01-26T19:28:19.331295+07:00"
+    },
+    {
+      "id": "0f05c1b76c0be6964c2d0df51f734eb3",
+      "title": "Cựu Chánh văn phòng Đoàn đại biểu Quốc hội Gia Lai chi sai tiền tiếp khách",
+      "link": "https://vnexpress.net/cuu-chanh-van-phong-doan-dai-bieu-quoc-hoi-gia-lai-chi-sai-tien-tiep-khach-4998531.html",
+      "summary": "Ông Nguyễn Thế Quang, cựu Chánh văn phòng Đoàn đại biểu Quốc hội tỉnh Gia Lai (cũ), cùng hai kế toán bị cáo buộc chi sai 331 chứng từ tiếp khách, gây lãng phí 1,8 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T11:10:16+07:00",
+      "fetched": "2026-01-26T19:28:19.331485+07:00"
+    },
+    {
+      "id": "93b2bc43db7bb37994cdc08fcbd74fe1",
+      "title": "Bạn trai tốt nhưng gia đình nợ hơn tỷ đồng vì bố cờ bạc",
+      "link": "https://vnexpress.net/noi-loi-chia-tay-ban-trai-tot-nhung-gia-dinh-no-hon-ty-dong-vi-bo-co-bac-5010136.html",
+      "summary": "Lương anh không thấp nhưng sau khi lo sinh hoạt cá nhân và gửi về trả nợ, anh gần như không dành dụm được gì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T11:00:00+07:00",
+      "fetched": "2026-01-26T19:28:19.331643+07:00"
+    },
+    {
+      "id": "68961a74b9730d6efa356cce20864257",
+      "title": "HLV Kim: 'Hướng tới tương lai thi đấu World Cup'",
+      "link": "https://vnexpress.net/hlv-kim-huong-toi-tuong-lai-thi-dau-world-cup-5010130.html",
+      "summary": "Sau thành tích giành HC Đồng tại U23 Châu Á, HLV Kim Sang-sik cho biết Việt Nam có thể tự tin đá sòng phẳng với mọi đối thủ ở cấp châu lục và hướng tới các mục tiêu xa hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T11:00:00+07:00",
+      "fetched": "2026-01-26T19:28:19.331803+07:00"
+    },
+    {
+      "id": "bfade16550c67e4fa4f9f2e2614c437f",
+      "title": "Thụ tinh ống nghiệm có nguy cơ đột quỵ không?",
+      "link": "https://vnexpress.net/thu-tinh-ong-nghiem-co-nguy-co-dot-quy-khong-5010053.html",
+      "summary": "Tôi 35 tuổi, vô sinh 4 năm, muốn thụ tinh ống nghiệm để có con nhưng lo ngại phương pháp này liên quan nguy cơ đột quỵ. (Lan Hạ, Lạng Sơn)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T11:00:00+07:00",
+      "fetched": "2026-01-26T19:28:19.331961+07:00"
+    },
+    {
+      "id": "3a670e84fd8995d873c843d9e625b677",
+      "title": "Tặng vé xem phim hài 'Người đẹp và quái lạ'",
+      "link": "https://vnexpress.net/tang-ve-xem-phim-hai-nguoi-dep-va-quai-la-5010202.html",
+      "summary": "VnExpress tặng độc giả 10 vé ra mắt phim Thái \"Người đẹp và quái lạ\" tại TP HCM vào ngày 28/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T10:59:40+07:00",
+      "fetched": "2026-01-26T19:28:19.332113+07:00"
+    },
+    {
+      "id": "c245d41258b6324404c9bf721dca74d8",
+      "title": "Trộm tiền mừng cưới để 'bao' người yêu mua trang sức vàng",
+      "link": "https://vnexpress.net/trom-tien-mung-cuoi-de-bao-nguoi-yeu-mua-trang-suc-vang-5010203.html",
+      "summary": "Kiến Hữu Tín, 37 tuổi, trà trộn vào tiệc cưới để đập thùng đựng phong bì mừng lấy hơn 90 triệu đồng, mua vàng và điện thoại cho bạn gái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T10:55:04+07:00",
+      "fetched": "2026-01-26T19:28:19.332271+07:00"
     },
     {
       "id": "19855bbe93f25a54d21e0f4d244298c4",
@@ -753,6 +1033,66 @@ window.newsData_2026_01_26 = {
       "fetched": "2026-01-26T10:49:20.272646+07:00"
     },
     {
+      "id": "960acc82e4aa56be03cdab0eec049cb5",
+      "title": "Công an Gia Lai phong tỏa căn nhà bắt kẻ tàng trữ ma túy",
+      "link": "https://vnexpress.net/cong-an-gia-lai-phong-toa-can-nha-bat-ke-tang-tru-ma-tuy-5010196.html",
+      "summary": "Hàng chục cảnh sát bao vây, khám xét căn nhà trên đường Nguyễn Viết Xuân, phường Hội Phú, bắt quả tang 4 người tàng trữ, sử dụng ma túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T10:41:56+07:00",
+      "fetched": "2026-01-26T19:28:19.332473+07:00"
+    },
+    {
+      "id": "1a74a63bd3912f46303df002e7cc8800",
+      "title": "Trung Quốc nói thỏa thuận với Canada 'không nhắm vào bên thứ ba'",
+      "link": "https://vnexpress.net/trung-quoc-noi-thoa-thuan-voi-canada-khong-nham-vao-ben-thu-ba-5010156.html",
+      "summary": "Trung Quốc cho biết thỏa thuận thương mại với Canada không nhắm vào bên thứ ba, sau khi Mỹ dọa áp thuế nhập khẩu 100% với Ottawa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T10:35:38+07:00",
+      "fetched": "2026-01-26T19:28:19.332630+07:00"
+    },
+    {
+      "id": "0438f359354a42cbc0b91d7d952e7ae9",
+      "title": "Trung Quốc lên tiếng sau khi ông Trump dọa áp thuế 100% với Canada",
+      "link": "https://vnexpress.net/trung-quoc-len-tieng-sau-khi-ong-trump-doa-ap-thue-100-voi-canada-5010156.html",
+      "summary": "Trung Quốc cho biết thỏa thuận thương mại với Canada không nhắm vào bên thứ ba, sau khi Mỹ dọa áp thuế nhập khẩu 100% với Ottawa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-26T10:35:38+07:00",
+      "fetched": "2026-01-26T19:28:25.263532+07:00"
+    },
+    {
+      "id": "39edf9347622beca2f709c382adfc71a",
+      "title": "EU thông qua lệnh cấm hoàn toàn khí đốt Nga",
+      "link": "https://vnexpress.net/eu-thong-qua-lenh-cam-hoan-toan-khi-dot-nga-5010178.html",
+      "summary": "EU sẽ chấm dứt nhập khí hóa lỏng (LNG) từ Nga vào cuối 2026, khí đốt qua đường ống vào cuối tháng 9/2027, theo kế hoạch vừa được thông qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T10:32:09+07:00",
+      "fetched": "2026-01-26T19:28:19.332793+07:00"
+    },
+    {
+      "id": "39edf9347622beca2f709c382adfc71a",
+      "title": "EU thông qua lệnh cấm hoàn toàn khí đốt Nga",
+      "link": "https://vnexpress.net/eu-thong-qua-lenh-cam-hoan-toan-khi-dot-nga-5010178.html",
+      "summary": "EU sẽ chấm dứt nhập khí hóa lỏng (LNG) từ Nga vào cuối 2026, khí đốt qua đường ống vào cuối tháng 9/2027, theo kế hoạch vừa được thông qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-26T10:32:09+07:00",
+      "fetched": "2026-01-26T19:28:27.386252+07:00"
+    },
+    {
+      "id": "f4f36b6673ac0e35ca8c196ba9d1aaf5",
+      "title": "Cựu tổng giám đốc Vicem: 'Không bất ngờ' khi nhận quà Tết hơn 100 triệu đồng",
+      "link": "https://vnexpress.net/cuu-tong-giam-doc-vicem-khong-bat-ngo-khi-nhan-qua-tet-hon-100-trieu-dong-5010138.html",
+      "summary": "Ông Nguyễn Ngọc Anh, cựu Tổng giám đốc Xi măng Việt Nam, khai thi thoảng được nhà thầu tặng 100-200 triệu đồng song \"không ngạc nhiên\" vì chỉ hơn một tháng tiền lương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T10:20:20+07:00",
+      "fetched": "2026-01-26T19:28:19.332946+07:00"
+    },
+    {
       "id": "a2a304c94c96d563b837bc33ff0a8bf9",
       "title": "MTTQ Việt Nam - Campuchia thúc đẩy hợp tác, vun đắp quan hệ hữu nghị bền chặt",
       "link": "https://thanhnien.vn/mttq-viet-nam-campuchia-thuc-day-hop-tac-vun-dap-quan-he-huu-nghi-ben-chat-185260126165253592.htm",
@@ -793,6 +1133,16 @@ window.newsData_2026_01_26 = {
       "fetched": "2026-01-26T17:17:51.066162+07:00"
     },
     {
+      "id": "003b6742bbfbe9b806dbf2640867a06e",
+      "title": "Cách làm chả quế đơn giản tại nhà",
+      "link": "https://vnexpress.net/doi-song-cooking-cach-lam-cha-que-don-gian-tai-nha-5009762.html",
+      "summary": "Chả thơm béo, bên ngoài dai giòn, bên trong ngọt ẩm. Món ăn này thường xuất hiện trong dịp cỗ bàn hoặc ngày Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T10:03:26+07:00",
+      "fetched": "2026-01-26T19:28:19.333095+07:00"
+    },
+    {
       "id": "523cafb036489cea07b4c71a0b7ab8d4",
       "title": "Tính tiền sử dụng đất, tiền bồi thường vẫn dùng bảng giá đất",
       "link": "https://thanhnien.vn/tinh-tien-su-dung-dat-tien-boi-thuong-van-dung-bang-gia-dat-185260126163700346.htm",
@@ -821,6 +1171,36 @@ window.newsData_2026_01_26 = {
       "category": "Tổng hợp",
       "published": "2026-01-26T10:00:00+07:00",
       "fetched": "2026-01-26T17:17:51.066543+07:00"
+    },
+    {
+      "id": "44cd3ef8eec1c8926b962dedd8b750ce",
+      "title": "Cách giảm nguy cơ mắc bệnh xơ phổi",
+      "link": "https://vnexpress.net/cach-giam-nguy-co-mac-benh-xo-phoi-5010063.html",
+      "summary": "Tránh khói thuốc lá, hạn chế tiếp xúc với các chất kích ứng và tiêm vaccine phòng bệnh hô hấp có thể giảm nguy cơ xơ phổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T10:00:00+07:00",
+      "fetched": "2026-01-26T19:28:19.333261+07:00"
+    },
+    {
+      "id": "670aaf2967f3c095a9de90b745fe338e",
+      "title": "Những thói quen trẻ nên duy trì trước giờ đi ngủ",
+      "link": "https://vnexpress.net/nhung-thoi-quen-tre-nen-duy-tri-truoc-gio-di-ngu-5009964.html",
+      "summary": "Trẻ nên đọc sách, thay đồ ngủ thoải mái và vệ sinh răng miệng trước khi đi ngủ để tạo cảm giác thư giãn và ngon giấc hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T10:00:00+07:00",
+      "fetched": "2026-01-26T19:28:19.333434+07:00"
+    },
+    {
+      "id": "d3bf4292a01b0b3697ffef0e7667f39a",
+      "title": "Khoảnh khắc thị trưởng Philippines thoát đòn phục kích bằng súng chống tăng",
+      "link": "https://vnexpress.net/khoanh-khac-thi-truong-philippines-thoat-don-phuc-kich-bang-sung-chong-tang-5010155.html",
+      "summary": "Lãnh đạo thị trấn ở miền nam Philippines thoát chết trong gang tấc, sau khi các nghi phạm khai hỏa súng chống tăng nhằm vào xe chở ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-26T09:59:41+07:00",
+      "fetched": "2026-01-26T19:28:25.263698+07:00"
     },
     {
       "id": "be1a0bf0fed008a21451a91d6d2d4a44",
