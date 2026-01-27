@@ -1,7 +1,157 @@
 window.newsData_2026_01_27 = {
   "date": "2026-01-27",
-  "lastUpdated": "2026-01-27T21:22:10.247863+07:00",
+  "lastUpdated": "2026-01-27T23:19:16.506304+07:00",
   "articles": [
+    {
+      "id": "06fce7fcc419eabcde0fd21c66969a1d",
+      "title": "Hiểu Minh vào TP.HCM, dự kiến mổ ngày 29-1",
+      "link": "https://tuoitre.vn/hieu-minh-vao-tp-hcm-du-kien-mo-ngay-29-1-20260127194146927.htm",
+      "summary": "Trung vệ Nguyễn Hiểu Minh của U23 Việt Nam đã được đưa vào TP.HCM, để chuẩn bị làm phẫu thuật chấn thương dây chằng gối phải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.569594+07:00",
+      "fetched": "2026-01-27T23:19:08.569710+07:00"
+    },
+    {
+      "id": "c692d9f1337441cbaebe1cd5a2ae11f4",
+      "title": "Hàn Quốc xoa dịu Mỹ sau tuyên bố tăng thuế, khẳng định không vi phạm thỏa thuận",
+      "link": "https://tuoitre.vn/han-quoc-xoa-diu-my-sau-tuyen-bo-tang-thue-khang-dinh-khong-vi-pham-thoa-thuan-20260127193719366.htm",
+      "summary": "Hàn Quốc đang gấp rút triển khai các biện pháp trấn an Mỹ, sau khi ông Trump tuyên bố tăng thuế mạnh với hàng hóa nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.569468+07:00",
+      "fetched": "2026-01-27T23:19:08.569583+07:00"
+    },
+    {
+      "id": "69a7aadfcd9855205f3fbde122bc83b6",
+      "title": "TP.HCM thông tim bào thai ca thứ 14, cứu sống thai nhi mắc tim bẩm sinh nặng",
+      "link": "https://tuoitre.vn/tp-hcm-thanh-cong-ca-thong-tim-bao-thai-thu-14-cuu-song-thai-nhi-mac-tim-bam-sinh-nang-20260127190613142.htm",
+      "summary": "Bệnh viện Từ Dũ vừa phối hợp với Bệnh viện Nhi đồng 1 (TP.HCM) thực hiện thành công ca can thiệp tim bào thai lần thứ 14.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.569342+07:00",
+      "fetched": "2026-01-27T23:19:08.569453+07:00"
+    },
+    {
+      "id": "5006eff53b416a7c8509e8483001462c",
+      "title": "Phiên tòa xét xử 'tổng tài giơ tay' chỉ đạo đánh người ở quán cà phê bị hoãn vì vắng nhân chứng",
+      "link": "https://tuoitre.vn/phien-toa-xet-xu-tong-tai-gio-tay-chi-dao-danh-nguoi-o-quan-ca-phe-bi-hoan-vi-vang-nhan-chung-20260127195414551.htm",
+      "summary": "Ngày 27-1, Tòa án nhân dân khu vực 3, Hà Nội đưa 'tổng tài' Nguyễn Văn Thiên ra xét xử về tội gây rối trật tự công cộng, với cáo buộc giơ tay chỉ đạo đánh người vì bị nhắc nhở hút thuốc tại quán cà phê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.569217+07:00",
+      "fetched": "2026-01-27T23:19:08.569331+07:00"
+    },
+    {
+      "id": "9dd74a0705450d0d02c9c12cc292f0e6",
+      "title": "Bầu cử HĐND TP.HCM: Nhận hồ sơ ứng cử tới 17h ngày 1-2-2026",
+      "link": "https://tuoitre.vn/bau-cu-hdnd-tp-hcm-nhan-ho-so-ung-cu-toi-17h-ngay-1-2-2026-20260127192710318.htm",
+      "summary": "Công tác bầu cử đại biểu HĐND TP.HCM nhiệm kỳ 2026-2031 bước vào giai đoạn quyết định, với hạn chót nhận hồ sơ ứng cử đến 17h ngày 1-2-2026, chuẩn bị cho ngày bầu cử toàn quốc 15-3-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.569090+07:00",
+      "fetched": "2026-01-27T23:19:08.569206+07:00"
+    },
+    {
+      "id": "3fb19a335c1f8bb3dc3960bf7dda8a5b",
+      "title": "Chuyên gia y tế Việt Nam: Vi rút Nipah không lây kiểu bay xa nhưng chú ý dấu hiệu 'đèn đỏ'",
+      "link": "https://tuoitre.vn/chuyen-gia-y-te-viet-nam-vi-rut-nipah-khong-lay-kieu-bay-xa-nhung-chu-y-dau-hieu-den-do-20260127194241309.htm",
+      "summary": "Bệnh không lây kiểu 'bay xa' trong không khí, nhưng có thể lan thành cụm ca trong gia đình nếu tiếp xúc gần mà không phòng hộ tốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.568949+07:00",
+      "fetched": "2026-01-27T23:19:08.569078+07:00"
+    },
+    {
+      "id": "112e2dfde053a3dd5083b6564ecc536d",
+      "title": "VCG giảm sàn 2 phiên, ai đang sở hữu Vinaconex?",
+      "link": "https://tuoitre.vn/vcg-giam-san-2-phien-ai-dang-so-huu-vinaconex-20260127192644314.htm",
+      "summary": "Trong hai phiên giao dịch ngày 26 và 27-1, cổ phiếu VCG ghi nhận thanh khoản tăng mạnh, khối lượng khớp lệnh vượt xa mức bình quân, còn thị giá lùi về 19.800 đồng/cổ phiếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.568826+07:00",
+      "fetched": "2026-01-27T23:19:08.568938+07:00"
+    },
+    {
+      "id": "8115b47fb3cd7f35b808d91d06c9ca63",
+      "title": "Công an xã Đông Thạnh, TP.HCM bắt người phụ nữ bán 67kg pháo nổ",
+      "link": "https://tuoitre.vn/cong-an-xa-dong-thanh-tp-hcm-bat-nguoi-phu-nu-ban-67kg-phao-no-20260127202347148.htm",
+      "summary": "Công an xã Đông Thạnh (TP.HCM) phát hiện người phụ nữ liên quan đến hoạt động buôn bán pháo nổ, thu giữ 67,2kg pháo nổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.568702+07:00",
+      "fetched": "2026-01-27T23:19:08.568815+07:00"
+    },
+    {
+      "id": "eaf8337b1b565ee96b9a88377429ecc2",
+      "title": "Vì sao nhiều 'thần đồng' lúc nhỏ không chạm đỉnh cao khi trưởng thành?",
+      "link": "https://tuoitre.vn/vi-sao-nhieu-than-dong-luc-nho-khong-cham-dinh-cao-khi-truong-thanh-20260127143028245.htm",
+      "summary": "Một nghiên cứu quy mô lớn đang gây tranh cãi cách nhìn lâu nay về 'thần đồng', khi chỉ ra rằng phần lớn 'thần đồng' và 'ngôi sao' nhỏ tuổi hiếm khi đạt đỉnh cao nhất khi trưởng thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.568578+07:00",
+      "fetched": "2026-01-27T23:19:08.568691+07:00"
+    },
+    {
+      "id": "bfdec9719a7ef4f53f666e5d8f8c8311",
+      "title": "Xây dựng Quảng Ninh thành hình mẫu phát triển xanh, hiện đại",
+      "link": "https://tuoitre.vn/xay-dung-quang-ninh-thanh-hinh-mau-phat-trien-xanh-hien-dai-20260127201543933.htm",
+      "summary": "Tổng Bí thư Tô Lâm tin tưởng Quảng Ninh sẽ tiếp tục đi đầu trong hiện thực hóa các chủ trương lớn của Đảng, giữ vững vị thế địa phương phát triển hàng đầu, từng bước trở thành hình mẫu phát triển xanh, hiện đại, sáng tạo và hội nhập quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.568455+07:00",
+      "fetched": "2026-01-27T23:19:08.568567+07:00"
+    },
+    {
+      "id": "252dd96063e6368fa063429209e36de7",
+      "title": "Alcaraz lần đầu vào bán kết Giải Úc mở rộng 2026",
+      "link": "https://tuoitre.vn/alcaraz-lan-dau-vao-ban-ket-giai-uc-mo-rong-2026-20260127204648212.htm",
+      "summary": "Vượt qua tay vợt nước chủ nhà Alex de Minaur chỉ sau ba set đấu vào tối 27-1, tay vợt số 1 thế giới Carlos Alcaraz chính thức có lần đầu tiên góp mặt tại bán kết Giải Úc mở rộng 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.568330+07:00",
+      "fetched": "2026-01-27T23:19:08.568444+07:00"
+    },
+    {
+      "id": "9e134efbd2ebe1cd5eebf8593dc53621",
+      "title": "Lần đầu vẽ bản đồ vật chất tối chi tiết nhất vũ trụ",
+      "link": "https://tuoitre.vn/lan-dau-ve-ban-do-vat-chat-toi-chi-tiet-nhat-vu-tru-20260127204110156.htm",
+      "summary": "Từ dữ liệu do kính thiên văn James Webb thu thập, NASA lần đầu dựng bản đồ vật chất tối sắc nét nhất, hé lộ cấu trúc vũ trụ cách đây 8-10 tỉ năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.568202+07:00",
+      "fetched": "2026-01-27T23:19:08.568319+07:00"
+    },
+    {
+      "id": "cd125ac0dce5eae5d4fab43e9152f702",
+      "title": "AI vượt mức sáng tạo trung bình của con người?",
+      "link": "https://tuoitre.vn/ai-vuot-muc-sang-tao-trung-binh-cua-con-nguoi-20260127164908487.htm",
+      "summary": "Nghiên cứu trên 100.000 người cho thấy AI đã thắng được số đông trong các bài kiểm tra tư duy, nhưng đỉnh cao sáng tạo vẫn là pháo đài bất khả xâm phạm của con người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.568068+07:00",
+      "fetched": "2026-01-27T23:19:08.568190+07:00"
+    },
+    {
+      "id": "5c249477c85b8d11bfc4af3396e4a0c1",
+      "title": "Tây Ban Nha đi ngược châu Âu, hợp thức hóa cư trú cho 500.000 người nhập cư không giấy tờ",
+      "link": "https://tuoitre.vn/tay-ban-nha-di-nguoc-chau-au-hop-thuc-hoa-cu-tru-cho-500-000-nguoi-nhap-cu-khong-giay-to-20260127210014205.htm",
+      "summary": "Khoảng 500.000 người nhập cư không giấy tờ tại Tây Ban Nha sẽ được hợp thức hóa tình trạng cư trú theo sắc lệnh mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.567910+07:00",
+      "fetched": "2026-01-27T23:19:08.568053+07:00"
+    },
+    {
+      "id": "0574d48c346c97c5e537cfa539db064f",
+      "title": "Thủ tướng thăm Trung tâm Phục vụ hành chính công tỉnh Quảng Ninh",
+      "link": "https://tuoitre.vn/thu-tuong-tham-trung-tam-phuc-vu-hanh-chinh-cong-tinh-quang-ninh-2026012720564348.htm",
+      "summary": "Chiều 27-1, Thủ tướng Chính phủ Phạm Minh Chính đã đi thăm và động viên cán bộ, công chức, viên chức, người lao động làm việc tại Trung tâm Phục vụ hành chính công tỉnh Quảng Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T23:19:08.567688+07:00",
+      "fetched": "2026-01-27T23:19:08.567895+07:00"
+    },
     {
       "id": "3fc7d78cf1675194d99ffe52f428ffb8",
       "title": "Hai nghi phạm đâm chết nam thanh niên ở Phan Thiết mới 15, 16 tuổi",
@@ -453,6 +603,66 @@ window.newsData_2026_01_27 = {
       "fetched": "2026-01-27T17:18:23.055444+07:00"
     },
     {
+      "id": "cf936046f0cdcff1a550891a2a6f08fc",
+      "title": "Quảng Ninh được giao thí điểm, tiên phong và dẫn dắt một số lĩnh vực chiến lược",
+      "link": "https://thanhnien.vn/quang-ninh-duoc-giao-thi-diem-tien-phong-va-dan-dat-mot-so-linh-vuc-chien-luoc-185260127202159788.htm",
+      "summary": "Quảng Ninh cần chủ động đảm nhận vai trò thí điểm, tiên phong và dẫn dắt trong một số lĩnh vực chiến lược, qua đó đóng góp luận cứ thực tiễn cho việc hoàn thiện đường lối, chính sách của Đảng và Nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T15:48:00+07:00",
+      "fetched": "2026-01-27T23:19:07.637729+07:00"
+    },
+    {
+      "id": "2bc5bb5afa57f52935de2e00421796a7",
+      "title": "Bị bắt vì đăng bài tìm người ám sát ông Trump",
+      "link": "https://vnexpress.net/bi-bat-vi-dang-bai-tim-nguoi-am-sat-ong-trump-5010781.html",
+      "summary": "Một nữ thủ thư tại bang Tây Virginia bị bắt sau khi đăng video ngụ ý tìm sát thủ nhắm vào Tổng thống Trump.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T15:41:03+07:00",
+      "fetched": "2026-01-27T23:19:04.548599+07:00"
+    },
+    {
+      "id": "2bc5bb5afa57f52935de2e00421796a7",
+      "title": "Bị bắt vì đăng bài tìm người ám sát ông Trump",
+      "link": "https://vnexpress.net/bi-bat-vi-dang-bai-tim-nguoi-am-sat-ong-trump-5010781.html",
+      "summary": "Một nữ thủ thư tại bang Tây Virginia bị bắt sau khi đăng video ngụ ý tìm sát thủ nhắm vào Tổng thống Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-27T15:41:03+07:00",
+      "fetched": "2026-01-27T23:19:10.521663+07:00"
+    },
+    {
+      "id": "a6fe2129fe9802e611af09d7bfe76e2a",
+      "title": "Đại học Tài chính - Marketing dự kiến nhân đôi điểm môn Toán",
+      "link": "https://vnexpress.net/to-hop-tuyen-sinh-va-cach-tinh-diem-xet-tuyen-dai-hoc-tai-chinh-marketing-2026-chinh-xac-nhat-5010689.html",
+      "summary": "Tất cả tổ hợp tuyển sinh năm 2026 của trường Đại học Tài chính - Marketing (UFM) đều có môn Toán, điểm nhân hệ số 2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T15:28:35+07:00",
+      "fetched": "2026-01-27T23:19:04.548782+07:00"
+    },
+    {
+      "id": "95254b8b6c484f03f7c0bdb1709da80e",
+      "title": "Hòa Phát muốn làm 4 dự án điện mặt trời ở Quảng Ngãi",
+      "link": "https://vnexpress.net/hoa-phat-muon-lam-4-du-an-dien-mat-troi-o-quang-ngai-5010774.html",
+      "summary": "Hòa Phát tính làm 4 dự án điện mặt trời quy mô 500 MW tại Quảng Ngãi để tự chủ năng lượng và đáp ứng tiêu chuẩn xuất khẩu xanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T15:23:42+07:00",
+      "fetched": "2026-01-27T23:19:04.548947+07:00"
+    },
+    {
+      "id": "95254b8b6c484f03f7c0bdb1709da80e",
+      "title": "Hòa Phát muốn làm 4 dự án điện mặt trời ở Quảng Ngãi",
+      "link": "https://vnexpress.net/hoa-phat-muon-lam-4-du-an-dien-mat-troi-o-quang-ngai-5010774.html",
+      "summary": "Hòa Phát tính làm 4 dự án điện mặt trời quy mô 500 MW tại Quảng Ngãi để tự chủ năng lượng và đáp ứng tiêu chuẩn xuất khẩu xanh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-27T15:23:42+07:00",
+      "fetched": "2026-01-27T23:19:11.519156+07:00"
+    },
+    {
       "id": "f2b6f4c018a97d2af1bce2b1b472e2eb",
       "title": "Cựu Viện trưởng Viện Y dược học TP.HCM đòi chi 'hoa hồng' 47 tỉ từ doanh nghiệp cung cấp thuốc",
       "link": "https://tuoitre.vn/cuu-vien-truong-vien-y-duoc-hoc-tp-hcm-doi-chi-hoa-hong-47-ti-tu-doanh-nghiep-cung-cap-thuoc-20260127121608252.htm",
@@ -601,6 +811,56 @@ window.newsData_2026_01_27 = {
       "category": "Tổng hợp",
       "published": "2026-01-27T15:20:15.956226+07:00",
       "fetched": "2026-01-27T15:20:15.956433+07:00"
+    },
+    {
+      "id": "d27e445e615ae6bfdeb7666f1f5ce0b3",
+      "title": "Highlight Trường ĐH Văn Lang - Trường ĐH Công nghệ Đồng Nai: Rượt đuổi không tưởng",
+      "link": "https://thanhnien.vn/highlight-truong-dh-van-lang-truong-dh-cong-nghe-dong-nai-ruot-duoi-khong-tuong-185260127221448168.htm",
+      "summary": "Những tình huống đáng chú ý nhất trong trận play-off giữa Trường ĐH Văn Lang và Trường ĐH Công nghệ Đồng Nai trong khuôn khổ giải bóng đá Thanh Niên sinh viên Việt Nam lần IV-2026 cúp THACO.Tất cả các trận đấu trong khuôn khổ VCK của giải được phát trực tiếp trên các nền tảng của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T15:16:00+07:00",
+      "fetched": "2026-01-27T23:19:07.637899+07:00"
+    },
+    {
+      "id": "a5c781f760821333d0a9ad49d244e304",
+      "title": "350.000 công nhân lao động được chuyển khoản 1 triệu đồng tối nay",
+      "link": "https://thanhnien.vn/350000-cong-nhan-lao-dong-duoc-chuyen-khoan-1-trieu-dong-toi-nay-18526012716241549.htm",
+      "summary": "Liên đoàn Lao động TP.HCM đã chuyển khoản cho 350.000 đoàn viên, công nhân lao động có hoàn cảnh khó khăn, với 1 triệu đồng/người trong chương trình họp mặt, tặng quà Tết Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T14:58:00+07:00",
+      "fetched": "2026-01-27T23:19:07.638076+07:00"
+    },
+    {
+      "id": "2ca054e987c46faaf8c2e3b7e5cddbd0",
+      "title": "TP.HCM: Thực hiện ca thông tim bào thai thứ 14, cứu thai nhi nguy kịch",
+      "link": "https://thanhnien.vn/tphcm-thuc-hien-ca-thong-tim-bao-thai-thu-14-cuu-thai-nhi-nguy-kich-185260127212956307.htm",
+      "summary": "Ca thông tim bào thai lần thứ 14 do Bệnh viện Từ Dũ phối hợp Bệnh viện Nhi đồng 1 (TP.HCM) thực hiện đã cứu sống một thai nhi mắc dị tật tim bẩm sinh rất nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T14:50:00+07:00",
+      "fetched": "2026-01-27T23:19:07.638234+07:00"
+    },
+    {
+      "id": "0afdb2b27172c1a19af02b3d2f20204a",
+      "title": "Thúc đẩy hợp tác Mặt trận Việt Nam - Lào đi vào chiều sâu, thực chất",
+      "link": "https://thanhnien.vn/thuc-day-hop-tac-mat-tran-viet-nam-lao-di-vao-chieu-sau-thuc-chat-18526012720373192.htm",
+      "summary": "Chiều 27.1, tại Hà Nội, Chủ tịch Ủy ban T.Ư Mặt trận Tổ quốc (MTTQ) Việt Nam Bùi Thị Minh Hoài đã đến chào Tổng Bí thư, Chủ tịch nước Lào Thongloun Sisoulith.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T14:40:00+07:00",
+      "fetched": "2026-01-27T23:19:07.638385+07:00"
+    },
+    {
+      "id": "fac3c16dcb243e67752367aae93ab889",
+      "title": "Lời xin lỗi muộn màng của nữ giúp việc hành hạ cụ bà 82 tuổi",
+      "link": "https://thanhnien.vn/loi-xin-loi-muon-mang-cua-nu-giup-viec-hanh-ha-cu-ba-82-tuoi-185260127204502319.htm",
+      "summary": "Trương Thị Bắc khai nhận, nếu cụ N. không chịu ăn thì Bắc sẽ quát to để bắt phải ăn. Vào các ngày 6.1, 8.1 và 9.1, Bắc tát vào vùng mặt cụ N. nhiều lần và bóp cổ, kéo lê tay chân nạn nhân từ chỗ này sang chỗ khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T14:28:00+07:00",
+      "fetched": "2026-01-27T23:19:07.638537+07:00"
     },
     {
       "id": "58f7f1f95e4d892d3fa6702879e1870c",
