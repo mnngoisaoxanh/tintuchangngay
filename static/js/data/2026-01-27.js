@@ -1,7 +1,157 @@
 window.newsData_2026_01_27 = {
   "date": "2026-01-27",
-  "lastUpdated": "2026-01-27T11:39:59.804952+07:00",
+  "lastUpdated": "2026-01-27T13:22:20.250921+07:00",
   "articles": [
+    {
+      "id": "7759dc16e6887e03a965c01a69ba8803",
+      "title": "13 chuyến bay bị ảnh hưởng sương mù tại sân bay Nội Bài",
+      "link": "https://tuoitre.vn/13-chuyen-bay-bi-anh-huong-suong-mu-tai-san-bay-noi-bai-20260127105250452.htm",
+      "summary": "Từ 8h40 sáng 27-1, sân bay Nội Bài đã khai thác trở lại bình thường, nhưng trước đó sương mù dày đặc đã khiến 13 chuyến bay đi, đến sân bay này bị ảnh hưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.584905+07:00",
+      "fetched": "2026-01-27T13:22:11.585002+07:00"
+    },
+    {
+      "id": "33c64c0f79c37f99ef62f78007be53e9",
+      "title": "Hình dáng cầu đường vượt biển Cần Giờ - Vũng Tàu có 2 đảo nhân tạo",
+      "link": "https://tuoitre.vn/hinh-dang-cau-duong-vuot-bien-can-gio-vung-tau-co-2-dao-nhan-tao-20260127104351701.htm",
+      "summary": "Dự án cầu đường vượt biển Cần Giờ - Vũng Tàu có tổng chiều dài tuyến hơn 14km với 6 làn xe, vận tốc thiết kế 80km/h. Trong đó phần hầm vượt biển dài 3,1km (gồm phần dìm và hở). Phần chuyển tiếp từ cầu xuống hầm sẽ được xây dựng 2 đảo nhân tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.584797+07:00",
+      "fetched": "2026-01-27T13:22:11.584894+07:00"
+    },
+    {
+      "id": "a83d6f96c16b907c54b2c56b169481d0",
+      "title": "Bắt thanh niên cầm dao đe dọa chủ tiệm cầm đồ kêu chuyển tiền",
+      "link": "https://tuoitre.vn/bat-thanh-nien-cam-dao-de-doa-chu-tiem-cam-do-keu-chuyen-tien-20260127101825729.htm",
+      "summary": "Công an phường Cái Khế (TP Cần Thơ) vừa bắt giữ nhanh một đối tượng cầm dao đe dọa chủ cửa hàng cầm đồ bắt chuyển tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.584689+07:00",
+      "fetched": "2026-01-27T13:22:11.584788+07:00"
+    },
+    {
+      "id": "8dc164b9396e9304d1c4c45a74358cf8",
+      "title": "Bảng xếp hạng Ngoại hạng Anh vòng 23: Man United vào top 4",
+      "link": "https://tuoitre.vn/bang-xep-hang-ngoai-hang-anh-vong-23-man-united-vao-top-4-2026012709354986.htm",
+      "summary": "Chiến thắng 3-2 trước Arsenal đã giúp Man United “chen chân” thành công vào top 4 Ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.584574+07:00",
+      "fetched": "2026-01-27T13:22:11.584679+07:00"
+    },
+    {
+      "id": "c359c9703818b429e54e8ff97be58c9d",
+      "title": "Cựu chủ tịch FIFA kêu gọi mọi người không đến Mỹ xem World Cup 2026",
+      "link": "https://tuoitre.vn/cuu-chu-tich-fifa-keu-goi-moi-nguoi-khong-den-my-xem-world-cup-2026-20260127105407733.htm",
+      "summary": "Cựu chủ tịch FIFA Sepp Blatter bất ngờ lên tiếng kêu gọi mọi người nên tẩy chay World Cup 2026 diễn ra tại Mỹ trong năm nay vì những lo ngại nghiêm trọng về an ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.584456+07:00",
+      "fetched": "2026-01-27T13:22:11.584553+07:00"
+    },
+    {
+      "id": "ca589ebafa973f54e83105423f1d8d8e",
+      "title": "Chợ Tết cho công nhân cấp nước",
+      "link": "https://tuoitre.vn/cho-tet-cho-cong-nhan-cap-nuoc-20260127102242994.htm",
+      "summary": "Sáng 27-1, Tổng công ty Cấp nước Sài Gòn TNHH MTV SAWACO tổ chức chợ Tết với những mặt hàng thiết yếu và nhiều đặc sản phục vụ cho công nhân cấp nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.584346+07:00",
+      "fetched": "2026-01-27T13:22:11.584447+07:00"
+    },
+    {
+      "id": "e36a3fe0520be6118387cd27727c900a",
+      "title": "Amber Heard 'mất khả năng lên tiếng' sau các phiên tòa với Johnny Depp",
+      "link": "https://tuoitre.vn/amber-heard-mat-kha-nang-len-tieng-sau-cac-phien-toa-voi-johnny-depp-20260127103532435.htm",
+      "summary": "Trong bộ phim tài liệu 'Silenced' ra mắt tại Liên hoan phim Sundance 2026, Amber Heard lần đầu chia sẻ thẳng thắn về tác động lâu dài từ các cuộc chiến pháp lý với chồng cũ Johnny Depp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.584239+07:00",
+      "fetched": "2026-01-27T13:22:11.584336+07:00"
+    },
+    {
+      "id": "07d6b845051ab9d780ded6383d422bce",
+      "title": "Giải pickleball lớn nhất miền Tây, giá trị thưởng hơn 2 tỉ đồng",
+      "link": "https://tuoitre.vn/giai-pickleball-lon-nhat-mien-tay-gia-tri-thuong-hon-2-ti-dong-20260127104916062.htm",
+      "summary": "Giải Pickleball VTV Cần Thơ 2026 có khoảng 500 vận động viên là các tay vợt chuyên nghiệp, bán chuyên nghiệp tham gia. Tổng giải thưởng hơn 2 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.584133+07:00",
+      "fetched": "2026-01-27T13:22:11.584230+07:00"
+    },
+    {
+      "id": "a6df05b720887216da33652dcaf98771",
+      "title": "Làng nghề bánh phồng trăm năm ở An Giang nhộn nhịp vào mùa Tết",
+      "link": "https://tuoitre.vn/lang-nghe-banh-phong-tram-nam-o-an-giang-nhon-nhip-vao-mua-tet-20260127101215154.htm",
+      "summary": "Mỗi độ Tết đến, 2 làng nghề bánh phồng trăm năm tuổi ở An Giang lại đỏ lửa ngày đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.584028+07:00",
+      "fetched": "2026-01-27T13:22:11.584124+07:00"
+    },
+    {
+      "id": "af5195c1c21879c8200c98239819dcae",
+      "title": "Làm rõ vụ thịt heo không tươi vào trường tiểu học ở TP.HCM",
+      "link": "https://tuoitre.vn/lam-ro-vu-thit-heo-khong-tuoi-vao-truong-tieu-hoc-o-tp-hcm-20260127105915083.htm",
+      "summary": "Khoảng 90kg thịt heo đông lạnh bị tổ kiểm tra của trường tiểu học và phụ huynh phát hiện, yêu cầu đổi hàng nhưng sau đó thông tin xuất hiện trên mạng xã hội gây xôn xao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.583920+07:00",
+      "fetched": "2026-01-27T13:22:11.584018+07:00"
+    },
+    {
+      "id": "39c56ca3a505cfbe1e4e94972a33c600",
+      "title": "Hà Nội cần hơn 64 triệu tỉ tới năm 2045 để tái thiết đô thị, quy hoạch tầm nhìn 100 năm",
+      "link": "https://tuoitre.vn/ha-noi-can-hon-64-trieu-ti-toi-nam-2045-de-tai-thiet-do-thi-quy-hoach-tam-nhin-100-nam-20260127110549005.htm",
+      "summary": "Sáng 27-1, tiếp tục chương trình kỳ họp chuyên đề thứ 31, HĐND TP Hà Nội khóa XVI đã thông qua các nội dung chính của Quy hoạch tổng thể thủ đô với tầm nhìn 100 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.583812+07:00",
+      "fetched": "2026-01-27T13:22:11.583911+07:00"
+    },
+    {
+      "id": "ef7da702b45edb129482e2e6b6a5cc03",
+      "title": "34 chủ tịch UBND tỉnh, thành phố cập nhật đến ngày 23-1-2026",
+      "link": "https://tuoitre.vn/34-chu-tich-ubnd-tinh-thanh-pho-cap-nhat-den-ngay-23-1-2026-20260127111903361.htm",
+      "summary": "Tuổi Trẻ Online trân trọng giới thiệu 34 chủ tịch UBND tỉnh, thành phố cập nhật đến ngày 23-1-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.583704+07:00",
+      "fetched": "2026-01-27T13:22:11.583802+07:00"
+    },
+    {
+      "id": "5c2568de8c76bd177fcc4f3c7d5e9c06",
+      "title": "Công an xử lý tình trạng đào đãi vàng ven sông Đakrông sau phản ánh của Tuổi Trẻ Online",
+      "link": "https://tuoitre.vn/cong-an-xu-ly-tinh-trang-dao-dai-vang-ven-song-dakrong-sau-phan-anh-cua-tuoi-tre-online-20260127110852484.htm",
+      "summary": "Trước thực trạng một số người dân đào đãi vàng trái phép trên sông Đakrông gây ảnh hưởng môi trường và an ninh trật tự, Công an xã La Lay triển khai nhiều biện pháp rà soát, tuyên truyền và ký cam kết với 19 người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.583576+07:00",
+      "fetched": "2026-01-27T13:22:11.583694+07:00"
+    },
+    {
+      "id": "0103dca8d7c47f7a77285fb776945b71",
+      "title": "Khánh Hòa cho phép bán hoa Tết trên vỉa hè, bãi đỗ xe",
+      "link": "https://tuoitre.vn/khanh-hoa-cho-phep-ban-hoa-tet-tren-via-he-bai-do-xe-2026012710582999.htm",
+      "summary": "UBND tỉnh Khánh Hòa cho phép các xã, phường được sử dụng tạm thời vỉa hè, bãi đỗ xe và một số khu vực công cộng phù hợp để tổ chức bán hoa, cây cảnh phục vụ Tết Nguyên đán 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.583455+07:00",
+      "fetched": "2026-01-27T13:22:11.583565+07:00"
+    },
+    {
+      "id": "482e63b6e1e2ea1c3362fe01229ae476",
+      "title": "34 Bí thư Tỉnh ủy, Thành ủy cập nhật đến 23-1-2026",
+      "link": "https://tuoitre.vn/34-bi-thu-tinh-uy-thanh-uy-cap-nhat-den-23-1-2026-20260127113051477.htm",
+      "summary": "Tuổi Trẻ Online trân trọng giới thiệu danh sách 34 Bí thư Tỉnh ủy, Thành ủy, cập nhật đến ngày 23-1-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:22:11.583233+07:00",
+      "fetched": "2026-01-27T13:22:11.583441+07:00"
+    },
     {
       "id": "ed8f4d95db6ce46c783763b3af6c08db",
       "title": "Việt - Lào tăng cường gắn kết chiến lược",
@@ -303,6 +453,366 @@ window.newsData_2026_01_27 = {
       "fetched": "2026-01-27T08:05:59.593094+07:00"
     },
     {
+      "id": "173213f7fd2172ac39946fd851a082bd",
+      "title": "TP.HCM thành lập 'siêu ban' quản lý dự án giao thông sau hợp nhất",
+      "link": "https://thanhnien.vn/tphcm-thanh-lap-sieu-ban-quan-ly-du-an-giao-thong-sau-hop-nhat-185260127123159774.htm",
+      "summary": "Ban Quản lý dự án đầu tư xây dựng các công trình giao thông TP.HCM được thành lập trên cơ sở hợp nhất, sáp nhập và điều chuyển chức năng nhiều ban quản lý dự án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T06:11:00+07:00",
+      "fetched": "2026-01-27T13:22:10.683591+07:00"
+    },
+    {
+      "id": "49f746d267dec5083d594ac6cc86020b",
+      "title": "Trung Quốc sắp hoàn thành kênh đào 10 tỉ USD kết nối vịnh Bắc bộ",
+      "link": "https://thanhnien.vn/trung-quoc-sap-hoan-thanh-kenh-dao-10-ti-usd-ket-noi-vinh-bac-bo-185260127124142918.htm",
+      "summary": "Trung Quốc dự kiến vào cuối năm nay sẽ hoàn thành việc xây dựng kênh đào Bình Lục nhằm thúc đẩy liên kết thương mại với điểm đến xuất khẩu hàng đầu của nước này là Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:54:00+07:00",
+      "fetched": "2026-01-27T13:22:10.683818+07:00"
+    },
+    {
+      "id": "e0ef949e6d81810818b8b8f8ce9cd177",
+      "title": "Quy định khen thưởng học sinh mới nhất có gì đáng chú ý?",
+      "link": "https://thanhnien.vn/quy-dinh-khen-thuong-hoc-sinh-moi-nhat-co-gi-dang-chu-y-185260127111131737.htm",
+      "summary": "Học sinh các cấp học vừa kết thúc học kỳ 1 năm học 2025-2026. Nhiều người quan tâm tới quy định khen thưởng học sinh mới nhất hiện nay, có những hình thức nào khen thưởng, động viên các em?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:53:00+07:00",
+      "fetched": "2026-01-27T13:22:10.683956+07:00"
+    },
+    {
+      "id": "f86f186e405adb5976763bc05aaefaab",
+      "title": "Điện đàm với thống đốc Minnesota, ông Trump có xuống thang?",
+      "link": "https://thanhnien.vn/dien-dam-voi-thong-doc-minnesota-ong-trump-co-xuong-thang-18526012712135088.htm",
+      "summary": "Tổng thống Donald Trump và Thống đốc bang Minnesota Tim Walz hôm 26.1 cho biết đã có một cuộc thảo luận hiệu quả về việc thực thi luật nhập cư, đây có thể là dấu hiệu cho thấy ông Trump có thể xem xét giảm bớt việc tăng cường lực lượng đặc nhiệm, dẫn đến việc hai công dân Mỹ thiệt mạng tại bang này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:48:00+07:00",
+      "fetched": "2026-01-27T13:22:10.684086+07:00"
+    },
+    {
+      "id": "fbfb6a6df99e9426f4729afdb074fd8e",
+      "title": "Cải tạo chợ Bà Hom, xử lý lấn chiếm vỉa hè theo cách bền vững",
+      "link": "https://thanhnien.vn/cai-tao-cho-ba-hom-xu-ly-lan-chiem-via-he-theo-cach-ben-vung-185260127114044667.htm",
+      "summary": "Thay vì chỉ xử phạt để “dẹp” buôn bán lấn chiếm vỉa hè, chính quyền phường Tân Tạo đã chọn hướng làm căn cơ và bền vững, đó là cải tạo chợ Bà Hom, tạo điều kiện để tiểu thương vào kinh doanh ổn định. Cách làm này không chỉ giúp lập lại trật tự đô thị mà còn đảm bảo sinh kế lâu dài cho người dân, man...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:46:00+07:00",
+      "fetched": "2026-01-27T13:22:10.684215+07:00"
+    },
+    {
+      "id": "1cd5dac5ad7c9ac46c8e8dede268a6c8",
+      "title": "Bưởi trụi lá bất ngờ ‘lên ngôi’ dịp tết Bính Ngọ",
+      "link": "https://thanhnien.vn/buoi-trui-la-bat-ngo-len-ngoi-dip-tet-binh-ngo-185260127124313898.htm",
+      "summary": "Bên cạnh đào, quất, mai quen thuộc, nhiều gia đình tìm đến những loại cây độc lạ để tạo điểm nhấn cho không gian ngày xuân. Tết năm nay, bưởi trụi lá bất ngờ trở thành lựa chọn mới mẻ, mang đến vẻ khác biệt cho nhiều gia đình trong những ngày đầu năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:44:00+07:00",
+      "fetched": "2026-01-27T13:22:10.684342+07:00"
+    },
+    {
+      "id": "2c40342883399b11e9f8f4edb8119cd3",
+      "title": "Luật sư Malaysia: ‘CAS mở cửa cho cầu thủ là chuyện bình thường, FAM vẫn sẽ thua FIFA’",
+      "link": "https://thanhnien.vn/luat-su-malaysia-cas-mo-cua-cho-cau-thu-la-chuyen-binh-thuong-fam-van-se-thua-fifa-185260127123455974.htm",
+      "summary": "Việc Tòa án Trọng tài Thể thao (CAS) chấp thuận tạm đình chỉ thi hành án đối với 7 cầu thủ nhập tịch đội tuyển Malaysia tạo ra nhiều cách hiểu khác nhau trong dư luận. Tuy nhiên, theo giới chuyên môn, đây chỉ là một thủ tục mang tính kỹ thuật, hoàn toàn không đồng nghĩa với việc FAM sẽ giành phần th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:42:00+07:00",
+      "fetched": "2026-01-27T13:22:10.684469+07:00"
+    },
+    {
+      "id": "5a34a315c9f5dab256bfba072df17511",
+      "title": "Khó hiểu chỉ có FAM thông báo quyết định sốc của CAS, quyền chủ tịch nói gì?",
+      "link": "https://thanhnien.vn/kho-hieu-chi-co-fam-thong-bao-quyet-dinh-soc-cua-cas-quyen-chu-tich-noi-gi-185260127123718872.htm",
+      "summary": "Theo nhà báo T.Avineshwaran của The Star, ông đã liên lạc với quyền Chủ tịch FAM, Yusoff Mahadi sáng 27.1 để xem thông tin cụ thể về quyết định của CAS 'tạm dỡ bỏ lệnh cấm 7 cầu thủ nhập tịch', nhưng nhận lại sự trả lời đầy bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:41:00+07:00",
+      "fetched": "2026-01-27T13:22:10.684595+07:00"
+    },
+    {
+      "id": "82a9f8aa3d8de2022b977292d1507421",
+      "title": "Dồn lực triển khai 'siêu cảng' Cần Giờ 4,8 tỉ USD",
+      "link": "https://thanhnien.vn/don-luc-trien-khai-sieu-cang-can-gio-48-ti-usd-185260127120526496.htm",
+      "summary": "Thứ trưởng Bộ Tài chính Cao Anh Tuấn đề nghị Tổng công ty Hàng hải Việt Nam ưu tiên nguồn lực cho dự án 'siêu cảng' Cần Giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:38:00+07:00",
+      "fetched": "2026-01-27T13:22:10.684738+07:00"
+    },
+    {
+      "id": "9c94b666c036ae10b894ea83b7d67505",
+      "title": "Miễn nhiệm chức Ủy viên UBND TP.Hà Nội với nguyên Giám đốc Sở KH-CN Trần Anh Tuấn",
+      "link": "https://thanhnien.vn/mien-nhiem-chuc-uy-vien-ubnd-tpha-noi-voi-nguyen-giam-doc-so-kh-cn-tran-anh-tuan-185260127120345704.htm",
+      "summary": "HĐND TP.Hà Nội đã miễn nhiệm chức vụ Ủy viên UBND thành phố đối với ông Trần Anh Tuấn, nguyên Giám đốc Sở KH-CN Hà Nội, để ông Tuấn nhận nhiệm vụ mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:35:00+07:00",
+      "fetched": "2026-01-27T13:22:10.684876+07:00"
+    },
+    {
+      "id": "ee4c817873c87a7ea30aa21101509f85",
+      "title": "Đội tuyển Việt Nam sẽ đá hết sức lực dù Malaysia có bị AFC trừ điểm hay không",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-se-da-het-suc-luc-du-malaysia-co-bi-afc-tru-diem-hay-khong-185260127122253746.htm",
+      "summary": "Bất kể CAS hay AFC có 'quay xe' như thế nào thì ngay từ lúc này HLV Kim Sang-sik và VFF đã xác định chuẩn bị ở mức cao nhất cho đội tuyển Việt Nam trận gặp Malaysia vào tháng 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:27:00+07:00",
+      "fetched": "2026-01-27T13:22:10.685004+07:00"
+    },
+    {
+      "id": "118e4306c13e9b24cb8cfe3345b76ebe",
+      "title": "Dàn sao 'Breaking Bad' ngày ấy, bây giờ",
+      "link": "https://vnexpress.net/dan-sao-breaking-bad-ngay-ay-bay-gio-5010089.html",
+      "summary": "Bryan Cranston và Bob Odenkirk trở thành tên tuổi nổi tiếng Hollywood, duy trì sức nóng trên truyền hình lẫn điện ảnh sau 18 năm đóng series \"Breaking Bad\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:26:14+07:00",
+      "fetched": "2026-01-27T13:22:07.432043+07:00"
+    },
+    {
+      "id": "35c31daacf32c0ea842130257c674ce9",
+      "title": "Người Nhật bịn rịn tạm biệt gấu trúc: 'Hít thở cùng bầu không khí' cũng vui",
+      "link": "https://thanhnien.vn/nguoi-nhat-bin-rin-tam-biet-gau-truc-hit-tho-cung-bau-khong-khi-cung-vui-185260127121539109.htm",
+      "summary": "Những người yêu thích gấu trúc đã đổ xô đến vườn thú Ueno ở thủ đô Tokyo (Nhật Bản) để nói lời tạm biệt cuối cùng với ngôi sao thu hút khách du lịch của nơi này - hai chú gấu trúc khổng lồ, sẽ được đưa trở lại Trung Quốc vào cuối tháng 1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:25:00+07:00",
+      "fetched": "2026-01-27T13:22:10.685130+07:00"
+    },
+    {
+      "id": "ad2768153e5fa7f729a33672e8f995ff",
+      "title": "Hà Nội hỗ trợ tối đa 1.000 lần lương cơ sở để thu hút nhân tài",
+      "link": "https://vnexpress.net/ha-noi-ho-tro-toi-da-1-000-lan-luong-co-so-de-thu-hut-nhan-tai-5010537.html",
+      "summary": "Thành phố sẽ hỗ trợ một lần với giáo sư là 1.000 lần mức lương cơ sở; phó giáo sư 800 lần, tiến sĩ hoặc bác sĩ chuyên khoa II 500 lần... để thu hút người có tài năng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:22:23+07:00",
+      "fetched": "2026-01-27T13:22:07.432201+07:00"
+    },
+    {
+      "id": "018df387f0c7edbdb14748b6c84493f9",
+      "title": "Đề nghị công nhận Khu di tích Óc Eo - Ba Thê là di sản thế giới",
+      "link": "https://thanhnien.vn/de-nghi-cong-nhan-khu-di-tich-oc-eo-ba-the-la-di-san-the-gioi-185260127114225176.htm",
+      "summary": "Phó thủ tướng ủy quyền Bộ trưởng Bộ VH-TT-DL rà soát kỹ, hoàn thiện và ký hồ sơ khoa học Khu di tích khảo cổ Óc Eo - Ba Thê gửi Trung tâm Di sản thế giới UNESCO theo quy định để để đề nghị công nhận và ghi vào danh mục di sản thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:21:00+07:00",
+      "fetched": "2026-01-27T13:22:10.685255+07:00"
+    },
+    {
+      "id": "a3007051cc97543ffcd3ad988e8437ca",
+      "title": "Người Ukraine dựng lều trong nhà, nướng gạch để sưởi ấm",
+      "link": "https://vnexpress.net/nguoi-ukraine-dung-leu-trong-nha-nuong-gach-de-suoi-am-5010313.html",
+      "summary": "Mặc áo khoác trong nhà, tự chế thiết bị sưởi từ gạch và nến, là những mẹo giúp người Ukraine sống sót qua mùa đông bị cắt điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:19:02+07:00",
+      "fetched": "2026-01-27T13:22:07.432341+07:00"
+    },
+    {
+      "id": "a3007051cc97543ffcd3ad988e8437ca",
+      "title": "Người Ukraine dựng lều trong nhà, nướng gạch để sưởi ấm",
+      "link": "https://vnexpress.net/nguoi-ukraine-dung-leu-trong-nha-nuong-gach-de-suoi-am-5010313.html",
+      "summary": "Mặc áo khoác trong nhà, tự chế thiết bị sưởi từ gạch và nến, là những mẹo giúp người Ukraine sống sót qua mùa đông bị cắt điện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-27T05:19:02+07:00",
+      "fetched": "2026-01-27T13:22:13.632553+07:00"
+    },
+    {
+      "id": "451fc0b1960dab7f791b5b94555a6076",
+      "title": "Ăn ớt có thể phòng bệnh tiểu đường hay không?",
+      "link": "https://thanhnien.vn/an-ot-co-the-phong-benh-tieu-duong-hay-khong-185260127093146443.htm",
+      "summary": "Ớt là gia vị quen thuộc trong bữa ăn hằng ngày, được nhiều người ưa chuộng nhờ khả năng kích thích vị giác và mang lại một số lợi ích cho sức khỏe. Tuy nhiên, việc ăn cay thường xuyên có thực sự giúp kiểm soát đường huyết và giảm nguy cơ mắc bệnh tiểu đường hay không vẫn là câu hỏi được nhiều người ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:19:00+07:00",
+      "fetched": "2026-01-27T13:22:10.685388+07:00"
+    },
+    {
+      "id": "6c783f4c179be7b9bc2a9d1eee931fc9",
+      "title": "Alcaraz lợi hại hơn thế nào khi 'sao chép' cú giao của Djokovic",
+      "link": "https://vnexpress.net/alcaraz-loi-hai-hon-the-nao-khi-sao-chep-cu-giao-cua-djokovic-5010573.html",
+      "summary": "Tay vợt số một thế giới Carlos Alcaraz tối giản hóa tối đa động tác giao bóng và học tập người đàn anh Novak Djokovic, khi ưu tiên điểm rơi thay vì lực bóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:16:23+07:00",
+      "fetched": "2026-01-27T13:22:07.432475+07:00"
+    },
+    {
+      "id": "6c783f4c179be7b9bc2a9d1eee931fc9",
+      "title": "Alcaraz lợi hại hơn thế nào khi 'sao chép' cú giao của Djokovic",
+      "link": "https://vnexpress.net/alcaraz-loi-hai-hon-the-nao-khi-sao-chep-cu-giao-cua-djokovic-5010573.html",
+      "summary": "Tay vợt số một thế giới Carlos Alcaraz tối giản hóa tối đa động tác giao bóng và học tập người đàn anh Novak Djokovic, khi ưu tiên điểm rơi thay vì lực bóng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-27T05:16:23+07:00",
+      "fetched": "2026-01-27T13:22:20.243118+07:00"
+    },
+    {
+      "id": "686de68c7379cf86541efa4742001b84",
+      "title": "Giám đốc bị khởi tố vì sản xuất cả ngàn chai tương ớt giả cho bếp tập thể",
+      "link": "https://thanhnien.vn/giam-doc-bi-khoi-to-vi-san-xuat-ca-ngan-chai-tuong-ot-gia-cho-bep-tap-the-185260127113736774.htm",
+      "summary": "Giám đốc Công ty Cổ phần Ngân Hà Vĩnh Phúc bị khởi tố với cáo buộc sản xuất hàng ngàn chai tương ớt, nước chấm giả, sau đó bán cho các bếp ăn tập thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:14:00+07:00",
+      "fetched": "2026-01-27T13:22:10.685518+07:00"
+    },
+    {
+      "id": "dd12af93ee808fa7d16c7ff97063b14f",
+      "title": "Ấn Độ khoe tên lửa siêu vượt âm tầm bắn hơn 1.500 km",
+      "link": "https://vnexpress.net/an-do-khoe-ten-lua-sieu-vuot-am-tam-ban-hon-1-500-km-5010420.html",
+      "summary": "Ấn Độ ra mắt tên lửa siêu vượt âm đầu tiên do nước này tự phát triển, với tầm bay 1.500 km và tốc độ gấp 10 lần âm thanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:11:30+07:00",
+      "fetched": "2026-01-27T13:22:07.432610+07:00"
+    },
+    {
+      "id": "dd12af93ee808fa7d16c7ff97063b14f",
+      "title": "Ấn Độ khoe tên lửa siêu vượt âm tầm bắn hơn 1.500 km",
+      "link": "https://vnexpress.net/an-do-khoe-ten-lua-sieu-vuot-am-tam-ban-hon-1-500-km-5010420.html",
+      "summary": "Ấn Độ ra mắt tên lửa siêu vượt âm đầu tiên do nước này tự phát triển, với tầm bay 1.500 km và tốc độ gấp 10 lần âm thanh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-27T05:11:30+07:00",
+      "fetched": "2026-01-27T13:22:13.632720+07:00"
+    },
+    {
+      "id": "acaa8438a15ba60b8f8fa35fef21ef06",
+      "title": "Tăng gấp đôi bồi thường khi thu hồi đất làm dự án lớn ở Hà Nội",
+      "link": "https://vnexpress.net/tang-gap-doi-boi-thuong-khi-thu-hoi-dat-lam-du-an-lon-o-ha-noi-5010450.html",
+      "summary": "Các dự án lớn như đầu tư trục đại lộ cảnh quan sông Hồng; xây dựng khu đô thị thể thao Olympic... sẽ được xem xét mức bồi thường gấp đôi so với quy định hiện nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:06:46+07:00",
+      "fetched": "2026-01-27T13:22:07.432761+07:00"
+    },
+    {
+      "id": "3689953092f2fddbfafc2277fed6d6bf",
+      "title": "Cảnh sát đột kích xưởng làm 3.000 tấn ốc bươu 'ngậm' hóa chất ở TP HCM",
+      "link": "https://vnexpress.net/canh-sat-dot-kich-xuong-lam-3-000-tan-oc-buou-ngam-hoa-chat-o-tp-hcm-5010550.html",
+      "summary": "Ập vào cơ sở chế biến không biển hiệu của Huỳnh Văn Trường, cảnh sát phát hiện nhiều tấn ốc bươu ngâm hóa chất công nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:06:09+07:00",
+      "fetched": "2026-01-27T13:22:07.432893+07:00"
+    },
+    {
+      "id": "8305d45fdf68b51c9a5b7671ca33fdc0",
+      "title": "Giảm nám và lão hóa da sau ba tuần",
+      "link": "https://vnexpress.net/giam-nam-va-lao-hoa-da-sau-ba-tuan-5010524.html",
+      "summary": "Da chị Mai chùng nhão và nám đậm màu hơn sau sinh, được bác sĩ điều trị bằng công nghệ sóng siêu âm kết hợp tiêm HA, cải thiện rõ rệt sau 3 tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:00:00+07:00",
+      "fetched": "2026-01-27T13:22:07.433024+07:00"
+    },
+    {
+      "id": "c3238e2569ca00402cca672a92c5ed03",
+      "title": "Làm gì khi trẻ sơ sinh chậm tăng cân?",
+      "link": "https://vnexpress.net/lam-gi-khi-tre-so-sinh-cham-tang-can-5010512.html",
+      "summary": "Bé nhà tôi được 2,5 tháng, bú mẹ hoàn toàn, không nôn trớ nhưng tăng cân chậm. Tôi nên ăn uống, cho bé bú sữa thế nào để con tăng cân tốt? (Hải Yến, Hải Phòng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:00:00+07:00",
+      "fetched": "2026-01-27T13:22:07.433160+07:00"
+    },
+    {
+      "id": "2f015cf2a34eec17e8b43774761d4d18",
+      "title": "Ăn cá khô ảnh hưởng đến tim mạch thế nào",
+      "link": "https://vnexpress.net/an-ca-kho-anh-huong-den-tim-mach-the-nao-5010498.html",
+      "summary": "Ăn nhiều cá khô trong thời gian dài làm lượng muối trong máu tăng cao, gây tăng huyết áp, dẫn đến nguy cơ mắc các bệnh tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:00:00+07:00",
+      "fetched": "2026-01-27T13:22:07.433292+07:00"
+    },
+    {
+      "id": "cc70355148dfc2c93785e5b71b7b2d7c",
+      "title": "Lãnh đạo Carlsberg nêu hiệu quả của chính sách nhân sự DE&amp;I",
+      "link": "https://vnexpress.net/lanh-dao-carlsberg-neu-hieu-qua-cua-chinh-sach-nhan-su-de-i-5010478.html",
+      "summary": "Đa dạng - công bằng - hòa nhập (DE&I) là nền tảng cho lãnh đạo hiệu quả, theo bà Susanne Skippari - Phó chủ tịch cấp cao, Nhân sự và Văn hóa, Tập đoàn Carlsberg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:00:00+07:00",
+      "fetched": "2026-01-27T13:22:07.433432+07:00"
+    },
+    {
+      "id": "8968ebc4b43da21045880fdee3a5c997",
+      "title": "HAR mở rộng hệ thống tại TP HCM",
+      "link": "https://vnexpress.net/har-mo-rong-he-thong-tai-tp-hcm-5009956.html",
+      "summary": "HAR khai trương chi nhánh tại 91 Cách Mạng Tháng 8, phường Bến Thành, hướng đến xây dựng không gian trải nghiệm trang sức hiện đại cho khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T05:00:00+07:00",
+      "fetched": "2026-01-27T13:22:07.433561+07:00"
+    },
+    {
+      "id": "fd0795196f795e3c02bc9fc76066d8ee",
+      "title": "Cảnh sát bị đuổi việc vì không phân biệt được hai dòng ôtô",
+      "link": "https://vnexpress.net/canh-sat-bi-duoi-viec-vi-khong-phan-biet-duoc-hai-dong-oto-5009939.html",
+      "summary": "Chiếc xe tuần tra của cảnh sát đâm vào hông một chiếc GMC Yukon thay vì chiếc Buick Envista của nghi phạm bỏ trốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T04:55:57+07:00",
+      "fetched": "2026-01-27T13:22:07.433705+07:00"
+    },
+    {
+      "id": "147cff9585d54f7f9897f99b94d2cb3c",
+      "title": "Bé gái 9 tuổi tử vong do tổn thương não quá nặng khi cháy chung cư",
+      "link": "https://vnexpress.net/be-gai-9-tuoi-tu-vong-do-ton-thuong-nao-qua-nang-khi-chay-chung-cu-5010555.html",
+      "summary": "Bé gái 9 tuổi, nạn nhân vụ cháy chung cư tại phường Long Trường, tử vong do tổn thương não quá nặng sau ba ngày điều trị tích cực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T04:55:05+07:00",
+      "fetched": "2026-01-27T13:22:07.433837+07:00"
+    },
+    {
+      "id": "4fcdea8ebddcd93c63945af7c5bc1773",
+      "title": "Cựu HLV tuyển Tây Ban Nha bị tố lạm dụng ChatGPT",
+      "link": "https://vnexpress.net/cuu-hlv-tuyen-tay-ban-nha-bi-to-lam-dung-chatgpt-5010516.html",
+      "summary": "Vài tháng sau khi CLB Sochi sa thải Robert Moreno, truyền thông Nga tiết lộ chiến lược gia này từng lạm dụng trí tuệ nhân tạo (AI) trong công việc, trong khi HLV Tây Ban Nha bác bỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T04:50:40+07:00",
+      "fetched": "2026-01-27T13:22:07.433971+07:00"
+    },
+    {
+      "id": "4fcdea8ebddcd93c63945af7c5bc1773",
+      "title": "Cựu HLV tuyển Tây Ban Nha bị tố lạm dụng ChatGPT",
+      "link": "https://vnexpress.net/cuu-hlv-tuyen-tay-ban-nha-bi-to-lam-dung-chatgpt-5010516.html",
+      "summary": "Vài tháng sau khi CLB Sochi sa thải Robert Moreno, truyền thông Nga tiết lộ chiến lược gia này từng lạm dụng trí tuệ nhân tạo (AI) trong công việc, trong khi HLV Tây Ban Nha bác bỏ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-27T04:50:40+07:00",
+      "fetched": "2026-01-27T13:22:20.244132+07:00"
+    },
+    {
+      "id": "c80d7dcfed15796ddd9b0089aa498c23",
+      "title": "Cao Văn Bình được nhắc bài thế nào ở loạt luân lưu thắng Hàn Quốc",
+      "link": "https://vnexpress.net/cao-van-binh-duoc-nhac-bai-the-nao-o-loat-luan-luu-thang-han-quoc-5010262.html",
+      "summary": "Đằng sau sự tự tin của Cao Văn Bình là sự hỗ trợ của HLV thủ môn Lee Woon-jae, khi Việt Nam đánh bại Hàn Quốc 7-6 ở loạt luân lưu trận tranh giải ba U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-27T04:50:26+07:00",
+      "fetched": "2026-01-27T13:22:20.243275+07:00"
+    },
+    {
+      "id": "1914ece374d8cc535860b61d8dd77efa",
+      "title": "Mekong Capital lãi gấp 10 lần khi đầu tư vào F88",
+      "link": "https://vnexpress.net/mekong-capital-lai-gap-10-lan-khi-dau-tu-vao-f88-5010463.html",
+      "summary": "Cổ phiếu F88 lập kỷ lục sau 6 phiên tăng trần giúp định giá cổ phần do Mekong Capital sở hữu cao gấp 10 lần so với số vốn đầu tư ban đầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-27T04:50:21+07:00",
+      "fetched": "2026-01-27T13:22:15.421353+07:00"
+    },
+    {
       "id": "23b0b8da451b1c026b66b0e6145f5a6f",
       "title": "Thảo Cầm Viên Sài Gòn đã tìm thấy con thiên nga bị bắt trộm",
       "link": "https://thanhnien.vn/thao-cam-vien-sai-gon-da-tim-thay-con-thien-nga-bi-bat-trom-18526012711340546.htm",
@@ -341,6 +851,16 @@ window.newsData_2026_01_27 = {
       "category": "Tổng hợp",
       "published": "2026-01-27T04:31:00+07:00",
       "fetched": "2026-01-27T11:39:51.095139+07:00"
+    },
+    {
+      "id": "4d13ae353691cd5bf297d4b1de4a3350",
+      "title": "Số phận những hòn đảo Đan Mạch từng bán cho Mỹ",
+      "link": "https://vnexpress.net/so-phan-nhung-hon-dao-dan-mach-tung-ban-cho-my-5010088.html",
+      "summary": "Hơn 100 năm trước, Mỹ từng mua lại ba hòn đảo từ Đan Mạch, nhưng người dân ở đây đến nay chưa được hưởng quyền lợi trọn vẹn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-27T04:25:45+07:00",
+      "fetched": "2026-01-27T13:22:13.632859+07:00"
     },
     {
       "id": "78c586a96b17596a0348d705f0fdf3e1",
