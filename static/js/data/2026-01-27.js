@@ -1,7 +1,157 @@
 window.newsData_2026_01_27 = {
   "date": "2026-01-27",
-  "lastUpdated": "2026-01-27T19:28:49.312064+07:00",
+  "lastUpdated": "2026-01-27T21:22:10.247863+07:00",
   "articles": [
+    {
+      "id": "3fc7d78cf1675194d99ffe52f428ffb8",
+      "title": "Hai nghi phạm đâm chết nam thanh niên ở Phan Thiết mới 15, 16 tuổi",
+      "link": "https://tuoitre.vn/hai-nghi-pham-dam-chet-nam-thanh-nien-o-phan-thiet-moi-15-16-tuoi-20260127183415941.htm",
+      "summary": "Hai nghi phạm gây ra cái chết của nam thanh niên tại phường Phan Thiết (tỉnh Bình Thuận cũ, nay thuộc tỉnh Lâm Đồng) mới chỉ 15 và 16 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.728457+07:00",
+      "fetched": "2026-01-27T21:22:03.728569+07:00"
+    },
+    {
+      "id": "3c09d5748fe68237b0f9703cdc556ddc",
+      "title": "Vĩnh biệt ‘ông Mộc’ Hải Điệp hiền như cục đất trong phim Chuyện nhà Mộc",
+      "link": "https://tuoitre.vn/vinh-biet-ong-moc-hai-diep-hien-nhu-cuc-dat-trong-phim-chuyen-nha-moc-20260127183107705.htm",
+      "summary": "NSƯT Hải Điệp - được khán giả biết nhiều nhất với vai ông Mộc trong phim Chuyện nhà Mộc - vừa qua đời, hưởng thọ 85 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.728334+07:00",
+      "fetched": "2026-01-27T21:22:03.728446+07:00"
+    },
+    {
+      "id": "a3c1dfaee6a48b47f0e29e25d202aa3b",
+      "title": "Nga giội hơn 150 drone vào Ukraine khiến 4 người thiệt mạng, hàng chục người bị thương",
+      "link": "https://tuoitre.vn/nga-doi-hon-150-drone-vao-ukraine-khien-4-nguoi-thiet-mang-hang-chuc-nguoi-bi-thuong-20260127183923301.htm",
+      "summary": "Các cuộc tấn công của Nga trong ngày 27-1 đã khiến ít nhất 4 người thiệt mạng và gần 20 người khác bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.728210+07:00",
+      "fetched": "2026-01-27T21:22:03.728323+07:00"
+    },
+    {
+      "id": "c48a79c7c24402a809ed0cb23afbe7a2",
+      "title": "Toyota RAV4 có khả năng về Việt Nam đấu Honda CR-V",
+      "link": "https://tuoitre.vn/toyota-rav4-co-kha-nang-ve-viet-nam-dau-honda-cr-v-20260127151901177.htm",
+      "summary": "Việc Bộ Năng lượng Philippines (DOE) chính thức bổ sung Toyota RAV4 thế hệ thứ 6 vào danh sách các mẫu xe điện được công nhận, đang mở ra nhiều kỳ vọng về thời điểm ra mắt của mẫu crossover này trên thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.728081+07:00",
+      "fetched": "2026-01-27T21:22:03.728199+07:00"
+    },
+    {
+      "id": "b4429a5209fbfddaf5803e7461000ee9",
+      "title": "Lời khai rùng mình về 'công thức' ngâm 3.000 tấn ốc vào 500 tấn hóa chất từ chợ Kim Biên",
+      "link": "https://tuoitre.vn/loi-khai-rung-minh-ve-cong-thuc-ngam-3-000-tan-oc-vao-500-tan-hoa-chat-tu-cho-kim-bien-20260127184712431.htm",
+      "summary": "Về nguồn gốc hóa chất công nghiệp natri silicate dùng để ngâm thịt ốc bươu, bị can Huỳnh Văn Trường khai mua từ chợ Kim Biên, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.727950+07:00",
+      "fetched": "2026-01-27T21:22:03.728066+07:00"
+    },
+    {
+      "id": "8739483f078b7f11effd62fb938fc908",
+      "title": "Tuyển nữ Việt Nam thắng Uzbekistan",
+      "link": "https://tuoitre.vn/tuyen-nu-viet-nam-thang-uzbekistan-20260127185500584.htm",
+      "summary": "Chiều 27-1, tuyển nữ Việt Nam giành chiến thắng 1-0 trước nữ Uzbekistan trong trận giao hữu tại sân Trung tâm đào tạo bóng đá trẻ Việt Nam (VYF).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.727817+07:00",
+      "fetched": "2026-01-27T21:22:03.727934+07:00"
+    },
+    {
+      "id": "87236ba3c63c859cd6c5bef90d1e9bbd",
+      "title": "Vụ hối lộ 70 tỉ: Chủ doanh nghiệp khai chi hoa hồng cao vì có lúc sợ 'thuốc để lâu sẽ hỏng'",
+      "link": "https://tuoitre.vn/vu-hoi-lo-70-ti-chu-doanh-nghiep-khai-chi-hoa-hong-cao-vi-co-luc-so-thuoc-de-lau-se-hong-20260127184051444.htm",
+      "summary": "Khai về lý do chi 70 tỉ hối lộ tuồn thuốc vào 13 bệnh viện, Chủ tịch Công ty Sơn Lâm nói để được tạo thuận lợi và thuốc không bị trả đi trả về. Có lúc ông chi \"hoa hồng\" cao đến 15% bởi \"thời điểm COVID-19 vị thuốc không ai dùng mấy để lâu sẽ hỏng\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.727671+07:00",
+      "fetched": "2026-01-27T21:22:03.727804+07:00"
+    },
+    {
+      "id": "e98a06a2cb540775007355b086298150",
+      "title": "Hà Nội đề xuất di dời hơn 860.000 dân nội đô để tái cấu trúc đô thị",
+      "link": "https://tuoitre.vn/ha-noi-de-xuat-di-doi-hon-860-000-dan-noi-do-de-tai-cau-truc-do-thi-20260127183435908.htm",
+      "summary": "Trong 10 năm tới, Hà Nội sẽ di dời khoảng 860.000 dân để thực hiện tái cấu trúc đô thị tại các khu vực sông Hồng, hồ Tây, khu phố cổ và một số khu vực bên trong vành đai 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.727549+07:00",
+      "fetched": "2026-01-27T21:22:03.727660+07:00"
+    },
+    {
+      "id": "7556f61a1ec3a49dc834906362f25fea",
+      "title": "Tượng Thánh Gióng bên biển Nha Trang bị bể bụng, gãy chân được đúc mới, khác tượng cũ",
+      "link": "https://tuoitre.vn/tuong-thanh-giong-ben-bien-nha-trang-bi-be-bung-gay-chan-duoc-duc-moi-khac-tuong-cu-20260127181420608.htm",
+      "summary": "Phường Nha Trang đã sửa chữa, đúc mới lại tượng Phù Đổng Thiên Vương, thay thế tượng Thánh Gióng ở công viên biển Nha Trang hư hỏng nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.727426+07:00",
+      "fetched": "2026-01-27T21:22:03.727538+07:00"
+    },
+    {
+      "id": "10b159a49ee7e1f90beabbd09734c067",
+      "title": "Việt Nam nhận được sự ủng hộ từ các đối tác quốc tế sau Đại hội XIV",
+      "link": "https://tuoitre.vn/viet-nam-nhan-duoc-su-ung-ho-tu-cac-doi-tac-quoc-te-sau-dai-hoi-xiv-20260127184034112.htm",
+      "summary": "Các đại sứ, trưởng cơ quan ngoại giao chúc mừng Việt Nam tổ chức thành công Đại hội XIV và khẳng định sẽ hợp tác chặt chẽ với Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.727302+07:00",
+      "fetched": "2026-01-27T21:22:03.727415+07:00"
+    },
+    {
+      "id": "56da0d5a0532414c587fec1d962b99ad",
+      "title": "Ăn ốc bươu ngâm với 'thủy tinh lỏng' âm thầm phá cơ thể ra sao?",
+      "link": "https://tuoitre.vn/an-oc-buou-ngam-voi-thuy-tinh-long-am-tham-pha-co-the-ra-sao-20260127170124132.htm",
+      "summary": "Dung dịch hóa chất natri silicate (thường gọi là 'thủy tinh lỏng') dùng để ngâm thực phẩm trong đó có ốc bươu có thể gây ra hàng loạt tổn thương với cơ thể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.727175+07:00",
+      "fetched": "2026-01-27T21:22:03.727290+07:00"
+    },
+    {
+      "id": "9328b76cbf50ae79cc5cdbfd4b011584",
+      "title": "Nhiều xe khách bị lập biên bản 'không thắt dây an toàn' khi chạy trên cao tốc Cam Lâm - Vĩnh Hảo",
+      "link": "https://tuoitre.vn/nhieu-xe-khach-bi-lap-bien-ban-khong-that-day-an-toan-khi-chay-tren-cao-toc-cam-lam-vinh-hao-20260127183608511.htm",
+      "summary": "Ngày 27-1, Đội cảnh sát giao thông số 6 Cục Cảnh sát giao thông tăng cường xử lý vi phạm an toàn giao thông trên cao tốc hành vi không thắt dây an toàn, vì tính mạng người dân và văn hóa giao thông văn minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.727043+07:00",
+      "fetched": "2026-01-27T21:22:03.727163+07:00"
+    },
+    {
+      "id": "2987e8e99ba68e08bb030161bf23203f",
+      "title": "'Trường học không rác thải nhựa' là cơ hội để Việt Nam tiên phong xây dựng mô hình mẫu cho ASEAN",
+      "link": "https://tuoitre.vn/truong-hoc-khong-rac-thai-nhua-la-co-hoi-de-viet-nam-tien-phong-xay-dung-mo-hinh-mau-cho-asean-2026012718231195.htm",
+      "summary": "'Trường học không rác thải nhựa' là cơ hội để Việt Nam tiên phong xây dựng một mô hình mẫu với chuyên đề về rác thải nhựa rõ ràng, thực chất, góp phần định hình giải pháp bền vững và đóng góp sáng kiến cho toàn khu vực ASEAN.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.726909+07:00",
+      "fetched": "2026-01-27T21:22:03.727031+07:00"
+    },
+    {
+      "id": "e32207df1774d989f81953a17efd638f",
+      "title": "Ra mắt thẻ tín dụng tiêu dùng VPBank MWG Mastercard",
+      "link": "https://tuoitre.vn/ra-mat-the-tin-dung-tieu-dung-vpbank-mwg-mastercard-20260127183458475.htm",
+      "summary": "Ngân hàng TMCP Việt Nam Thịnh Vượng (VPBank) và Công ty Cổ phần Đầu tư Điện Máy Xanh (DMX) vừa chính thức ra mắt thẻ tín dụng VPBank MWG Mastercard.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.726764+07:00",
+      "fetched": "2026-01-27T21:22:03.726896+07:00"
+    },
+    {
+      "id": "55971b39df56042bef4f39c94a963c30",
+      "title": "Sông Lam Nghệ An vô địch U19 Quốc gia sau 20 năm",
+      "link": "https://tuoitre.vn/song-lam-nghe-an-vo-dich-u19-quoc-gia-sau-20-nam-20260127193013621.htm",
+      "summary": "Sau 20 năm kể từ chức vô địch năm 2006, Sông Lam Nghệ An mới lại đăng quang ở Giải U19 Quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T21:22:03.726538+07:00",
+      "fetched": "2026-01-27T21:22:03.726747+07:00"
+    },
     {
       "id": "929a85cdb05b907584a1e767bc8e0eb5",
       "title": "Đề xuất cấm xe giường nằm chạy ở đường miền núi, độ dốc cao",
@@ -453,6 +603,126 @@ window.newsData_2026_01_27 = {
       "fetched": "2026-01-27T15:20:15.956433+07:00"
     },
     {
+      "id": "58f7f1f95e4d892d3fa6702879e1870c",
+      "title": "Highlight Trường ĐH Công nghệ TP.HCM - ĐH Trà Vinh: Bản lĩnh luân lưu, vé VCK nghẹt thở",
+      "link": "https://thanhnien.vn/highlight-truong-dh-cong-nghe-tphcm-dh-tra-vinh-ban-linh-luan-luu-ve-vck-nghet-tho-185260127212104175.htm",
+      "summary": "Những tình huống đáng chú ý nhất trong trận đấu giữa Trường ĐH Công nghệ TP.HCM và ĐH Trà Vinh trong khuôn khổ vòng play-off giải bóng đá Thanh Niên sinh viên Việt Nam lần IV-2026 cúp THACO. Tất cả các trận đấu trong khuôn khổ vòng chung kết của giải được phát trực tiếp trên các nền tảng của Báo Tha...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T14:21:00+07:00",
+      "fetched": "2026-01-27T21:22:02.400826+07:00"
+    },
+    {
+      "id": "5ba5e378ab2f3fa53a20fbedf8dc75a8",
+      "title": "HLV Giustozzi nói cực hay về trận thắng ngược Kuwait, futsal Việt Nam được khen hoàn hảo",
+      "link": "https://thanhnien.vn/hlv-giustozzi-noi-cuc-hay-ve-tran-thang-nguoc-kuwait-futsal-viet-nam-duoc-khen-hoan-hao-185260127210518397.htm",
+      "summary": "HLV Diego Giustozzi cho rằng hiệp hai trong trận thắng Kuwait phản ánh đúng nhất bản sắc và bản lĩnh của đội tuyển futsal Việt Nam tại trận ra quân VCK futsal châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T14:13:00+07:00",
+      "fetched": "2026-01-27T21:22:02.400994+07:00"
+    },
+    {
+      "id": "8f0230de6f15c3c4801d805c34105d99",
+      "title": "Triều Tiên phóng tên lửa đạn đạo lần thứ 2 trong tháng",
+      "link": "https://thanhnien.vn/trieu-tien-phong-ten-lua-dan-dao-lan-thu-2-trong-thang-185260127195609262.htm",
+      "summary": "Giới chức Hàn Quốc và Nhật Bản ngày 27.1 thông báo CHDCND Triều Tiên đã tiến hành các vụ phóng tên lửa đạn đạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:41:00+07:00",
+      "fetched": "2026-01-27T21:22:02.401148+07:00"
+    },
+    {
+      "id": "d5b426f5466421f9a0018574e5c783ed",
+      "title": "Ấn Độ - EU đạt thỏa thuận thương mại lịch sử",
+      "link": "https://thanhnien.vn/an-do-eu-dat-thoa-thuan-thuong-mai-lich-su-18526012719362713.htm",
+      "summary": "Lãnh đạo Ấn Độ và EU ngày 27.1 thông báo đã đạt được thỏa thuận tạo ra khu vực thương mại tự do với 2 tỉ dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:40:00+07:00",
+      "fetched": "2026-01-27T21:22:02.401299+07:00"
+    },
+    {
+      "id": "f178f8e7edabae473fcb966dfe623b91",
+      "title": "Sét đánh bị thương 89 người trong cuộc tuần hành ủng hộ cựu Tổng thống Brazil",
+      "link": "https://thanhnien.vn/set-danh-bi-thuong-89-nguoi-trong-cuoc-tuan-hanh-ung-ho-cuu-tong-thong-brazil-185260126173756736.htm",
+      "summary": "Một tia sét đánh xuống gần cuộc tuần hành ủng hộ cựu Tổng thống Brazil Jair Bolsonaro tại thủ đô Brasilia làm 89 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:40:00+07:00",
+      "fetched": "2026-01-27T21:22:02.401450+07:00"
+    },
+    {
+      "id": "51618a0bf5ba05a3ca6032070cf1fc16",
+      "title": "Ba giám đốc bị bắt trong vụ đổ trộm 7.800 tấn chất thải rắn ở Hà Nội",
+      "link": "https://vnexpress.net/ba-giam-doc-bi-bat-trong-vu-do-trom-7-800-tan-chat-thai-ran-o-ha-noi-5010773.html",
+      "summary": "Ba giám đốc trong lĩnh vực môi trường bị bắt trong vụ đổ hơn 7.800 tấn chất thải rắn ra khu đất 2.000 m2 ở Bát Tràng với giá 100.000-150.000 đồng một chuyến ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:36:42+07:00",
+      "fetched": "2026-01-27T21:21:59.534675+07:00"
+    },
+    {
+      "id": "328ed53947bf6c931c5a7e18df9c21d4",
+      "title": "Việt Nam thông báo kết quả Đại hội Đảng XIV tới quốc tế",
+      "link": "https://vnexpress.net/viet-nam-thong-bao-ket-qua-dai-hoi-dang-xiv-toi-quoc-te-5010752.html",
+      "summary": "Việt Nam thông báo kết quả Đại hội Đảng XIV tới các cơ quan đại diện ngoại giao nước ngoài, các tổ chức quốc tế, nhấn mạnh sự kiện trọng đại này là dấu mốc lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:33:49+07:00",
+      "fetched": "2026-01-27T21:21:59.534887+07:00"
+    },
+    {
+      "id": "328ed53947bf6c931c5a7e18df9c21d4",
+      "title": "Việt Nam thông báo kết quả Đại hội Đảng XIV tới quốc tế",
+      "link": "https://vnexpress.net/viet-nam-thong-bao-ket-qua-dai-hoi-dang-xiv-toi-quoc-te-5010752.html",
+      "summary": "Việt Nam thông báo kết quả Đại hội Đảng XIV tới các cơ quan đại diện ngoại giao nước ngoài, các tổ chức quốc tế, nhấn mạnh sự kiện trọng đại này là dấu mốc lịch sử.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-27T13:33:49+07:00",
+      "fetched": "2026-01-27T21:22:05.373608+07:00"
+    },
+    {
+      "id": "cc816c364121c18d8db6a508b12fd097",
+      "title": "Cách phòng tránh virus Nipah khi đi du lịch nước ngoài",
+      "link": "https://vnexpress.net/cach-phong-tranh-virus-nipah-khi-di-du-lich-nuoc-ngoai-5010322.html",
+      "summary": "Các cơ quan y tế hướng dẫn du khách vệ sinh cá nhân và tránh tiếp xúc động vật nhằm giảm thiểu rủi ro lây nhiễm virus Nipah.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:30:00+07:00",
+      "fetched": "2026-01-27T21:21:59.535052+07:00"
+    },
+    {
+      "id": "f37ad365a02e98b6682adbf6433e9681",
+      "title": "Việt Nam thắng ngược trận ra quân giải futsal châu Á",
+      "link": "https://vnexpress.net/viet-nam-thang-nguoc-tran-ra-quan-giai-futsal-chau-a-5010770.html",
+      "summary": "Bị Kuwait dẫn 2-0, các cầu thủ Việt Nam vẫn thắng 5-4 trong trận ra quân giải vô địch futsal châu Á 2026, tối 27/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:28:32+07:00",
+      "fetched": "2026-01-27T21:21:59.535210+07:00"
+    },
+    {
+      "id": "f37ad365a02e98b6682adbf6433e9681",
+      "title": "Việt Nam thắng ngược trận ra quân giải futsal châu Á",
+      "link": "https://vnexpress.net/viet-nam-thang-nguoc-tran-ra-quan-giai-futsal-chau-a-5010770.html",
+      "summary": "Bị Kuwait dẫn 2-0, nhưng các cầu thủ Việt Nam vẫn thắng 5-4 trong trận ra quân giải vô địch futsal châu Á 2026 tối 27/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-27T13:28:32+07:00",
+      "fetched": "2026-01-27T21:22:10.236685+07:00"
+    },
+    {
+      "id": "2e2520972e1aff0cf7f5c47b9ece82a0",
+      "title": "Người dân TP.HCM bất ngờ khi 1.000 chậu hoa tết được tặng miễn phí chiều nay",
+      "link": "https://thanhnien.vn/nguoi-dan-tphcm-bat-ngo-khi-1000-chau-hoa-tet-duoc-tang-mien-phi-chieu-nay-185260127192956334.htm",
+      "summary": "Chiều 27.1, 1.000 chậu hoa tết cúc mâm xôi nở sớm giải cứu giúp nông dân miền Tây được tặng miễn phí trước cổng Nhà văn hóa Thanh niên khiến nhiều người dân TP.HCM vỡ òa xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:23:00+07:00",
+      "fetched": "2026-01-27T21:22:02.401601+07:00"
+    },
+    {
       "id": "7759dc16e6887e03a965c01a69ba8803",
       "title": "13 chuyến bay bị ảnh hưởng sương mù tại sân bay Nội Bài",
       "link": "https://tuoitre.vn/13-chuyen-bay-bi-anh-huong-suong-mu-tai-san-bay-noi-bai-20260127105250452.htm",
@@ -603,6 +873,196 @@ window.newsData_2026_01_27 = {
       "fetched": "2026-01-27T13:22:11.583441+07:00"
     },
     {
+      "id": "a50c7c9df1b9b67e20b842091e60c562",
+      "title": "U.19 SLNA thắng nghẹt thở PVF-CAND trên chấm luân lưu, vô địch giải U.19 quốc gia",
+      "link": "https://thanhnien.vn/u19-slna-thang-nghet-tho-pvf-cand-tren-cham-luan-luu-vo-dich-giai-u19-quoc-gia-185260127201811818.htm",
+      "summary": "Chiến thắng nghẹt thở trước U.19 PVF-CAND giúp U.19 SLNA trở thành nhà vô địch giải bóng đá U.19 quốc gia – Cúp Modern 2025/26.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:21:00+07:00",
+      "fetched": "2026-01-27T21:22:02.401765+07:00"
+    },
+    {
+      "id": "5c2fd42dc478402cc6afc7957f8b2189",
+      "title": "5 sản phẩm cho trẻ nhỏ bị thu hồi do nghi nhiễm độc tố vi khuẩn",
+      "link": "https://thanhnien.vn/5-san-pham-cho-tre-nho-bi-thu-hoi-do-nghi-nhiem-doc-to-vi-khuan-185260127195125676.htm",
+      "summary": "Cục An toàn thực phẩm thông báo thu hồi 7 sản phẩm do nghi nhiễm độc tố vi khuẩn có thể gây hại cho trẻ nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:12:00+07:00",
+      "fetched": "2026-01-27T21:22:02.401918+07:00"
+    },
+    {
+      "id": "f33453336598aa029f24f56f2398f7af",
+      "title": "Nước nào có nhiều người sống trên 100 tuổi nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-co-nhieu-nguoi-song-tren-100-tuoi-nhat-the-gioi-5010644.html",
+      "summary": "Quốc gia này năm ngoái có gần 100.000 cụ ông, cụ bà trên 100 tuổi, đông nhất từ trước đến nay và đứng đầu thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:11:07+07:00",
+      "fetched": "2026-01-27T21:21:59.535364+07:00"
+    },
+    {
+      "id": "b645f450c5c24567c8cc73159ee9f2cb",
+      "title": "Chủ tịch Tập đoàn Mai Linh thuộc diện sẽ bị tạm hoãn xuất cảnh",
+      "link": "https://thanhnien.vn/chu-tich-tap-doan-mai-linh-thuoc-dien-se-bi-tam-hoan-xuat-canh-185260127200500528.htm",
+      "summary": "Thuế TP.HCM có thông báo về việc sẽ áp dụng biện pháp tạm hoãn xuất cảnh với người đại diện pháp luật của Công ty cổ phần Tập đoàn Mai Linh - ông Hồ Huy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:06:00+07:00",
+      "fetched": "2026-01-27T21:22:02.402064+07:00"
+    },
+    {
+      "id": "294a3817a592f672225ec50a3542a108",
+      "title": "CSGT Tân Sơn Nhất hỗ trợ kịp thời cứu bé trai 2 tuổi bị hóc dị vật",
+      "link": "https://thanhnien.vn/csgt-tan-son-nhat-ho-tro-kip-thoi-cuu-be-trai-2-tuoi-bi-hoc-di-vat-185260127192600477.htm",
+      "summary": "Bé trai 2 tuổi bị hóc dị vật gặp nguy hiểm, CSGT đã sử dụng xe đặc chủng chở bé cùng mẹ bé trai đến bệnh viện. Nhờ sự hỗ trợ kịp thời của lực lượng chức năng, các bác sĩ tại Bệnh viện Nhi đồng 1 đã gắp thành công dị vật bé trai bị hóc ra ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:06:00+07:00",
+      "fetched": "2026-01-27T21:22:02.402216+07:00"
+    },
+    {
+      "id": "a8f4ce3301d5033372ad82fe0b2dba92",
+      "title": "Tắt một cài đặt giúp iPhone dùng pin tối đa",
+      "link": "https://thanhnien.vn/tat-mot-cai-dat-giup-iphone-dung-pin-toi-da-185260126113418481.htm",
+      "summary": "Nếu iPhone thường hết pin sớm vào ban ngày, nguyên nhân có thể nằm ở một cài đặt mặc định quen thuộc trên thiết bị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:03:00+07:00",
+      "fetched": "2026-01-27T21:22:02.402367+07:00"
+    },
+    {
+      "id": "7e719533d76dca5d5e618f791af900df",
+      "title": "Y tá bị đặc vụ Mỹ bắn chết từng nhận được thư tri ân",
+      "link": "https://vnexpress.net/y-ta-bi-dac-vu-my-ban-chet-tung-nhan-duoc-thu-tri-an-5010699.html",
+      "summary": "Pretti, y tá bị đặc vụ liên bang bắn chết ở Minnesota, là y tá từng nhận thư tri ân của Bộ Cựu binh, được các đồng nghiệp ca ngợi vì lòng tận tụy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:00:00+07:00",
+      "fetched": "2026-01-27T21:21:59.535518+07:00"
+    },
+    {
+      "id": "ff54c2d181d2286ccd73a7da0e572fe3",
+      "title": "Chồng không về chịu tang ông tôi, cũng không gọi điện chia buồn",
+      "link": "https://vnexpress.net/ong-toi-mat-nhung-chong-van-vui-ve-di-du-lich-va-khong-them-goi-mot-cu-dien-thoai-chia-buon-5010441.html",
+      "summary": "Không hiểu nổi anh ta nghĩ gì khi trước đó không lâu còn bảo tôi nhắn tin chia buồn với chị dâu anh lúc ông nội chị ấy qua đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:00:00+07:00",
+      "fetched": "2026-01-27T21:21:59.535676+07:00"
+    },
+    {
+      "id": "f5de00c6003ad07a842dd6306f6ae438",
+      "title": "Hyun Bin gây sốt với vai nửa chính nửa tà",
+      "link": "https://vnexpress.net/hyun-bin-gay-sot-voi-vai-nua-chinh-nua-ta-5010012.html",
+      "summary": "Hyun Bin được đánh giá cao khi vào vai người đàn ông tham vọng, khó đoán trong phim \"Made in Korea\", lấy bối cảnh Hàn Quốc thập niên 1970.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:00:00+07:00",
+      "fetched": "2026-01-27T21:21:59.535938+07:00"
+    },
+    {
+      "id": "cd9cd27edb651a2fe1bb6b3c68e1c849",
+      "title": "OCB khởi động chiến dịch thu gom pin giai đoạn 2",
+      "link": "https://vnexpress.net/ocb-khoi-dong-chien-dich-thu-gom-pin-giai-doan-2-5010747.html",
+      "summary": "Ngân hàng Phương Đông (OCB) khởi động chương trình \"OCB Pin Hunter\" giai đoạn 2 với mạng lưới gần 200 điểm giao dịch, tạo thêm kênh thu gom và xử lý pin cũ an toàn trên toàn quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:00:00+07:00",
+      "fetched": "2026-01-27T21:21:59.536109+07:00"
+    },
+    {
+      "id": "7b706c1a3bb2e2134f0d8c1bc68a4d72",
+      "title": "Yamaha tung ưu đãi dịp đầu năm",
+      "link": "https://vnexpress.net/yamaha-tung-uu-dai-dip-dau-nam-5010761.html",
+      "summary": "Yamaha Motor Việt Nam hỗ trợ phí đăng ký cho Janus và LEXi, kèm quà tặng khi mua các dòng xe của hãng, áp dụng từ 1/1 đến 28/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:00:00+07:00",
+      "fetched": "2026-01-27T21:21:59.536272+07:00"
+    },
+    {
+      "id": "44afbf898c6d94f8a60e70d6daed4241",
+      "title": "Hành trình 10.000 km của táo Pháp: Từ vườn châu Âu đến bàn ăn gia đình Việt",
+      "link": "https://thanhnien.vn/hanh-trinh-10000-km-cua-tao-phap-tu-vuon-chau-au-den-ban-an-gia-dinh-viet-18526012719241908.htm",
+      "summary": "Táo Pháp nổi tiếng vì độ sạch và độ giòn mọng tự nhiên. Khí hậu ôn hòa, quy trình trồng chuẩn châu Âu và chọn lọc kỹ giúp từng quả giữ vị ngọt thanh. Đây là lý do táo Pháp luôn được xem là dòng táo chất lượng cao dành cho gia đình Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:00:00+07:00",
+      "fetched": "2026-01-27T21:22:02.402517+07:00"
+    },
+    {
+      "id": "4edbdafdf956e612e705c51a070cb693",
+      "title": "Xem nhanh 20h ngày 27.1: Virus Nipah nguy hiểm thế nào? | Diễn biến mới vụ cướp ngân hàng ở Gia Lai",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-271-virus-nipah-nguy-hiem-the-nao-dien-bien-moi-vu-cuop-ngan-hang-o-gia-lai-185260127175109197.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 27.1 có nhiều tin tức đáng chú ý về: Vụ cướp ngân hàng ở Gia Lai: Bộ Công an phát động toàn dân cung cấp thông tin; virus Nipah nguy hiểm ra sao, cách phòng thế nào;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:00:00+07:00",
+      "fetched": "2026-01-27T21:22:02.402667+07:00"
+    },
+    {
+      "id": "d4e8d23d40195c97fa12e3796bc10e97",
+      "title": "Áo sơ mi kẻ sọc tạo nên sự cân bằng giữa cổ điển và hiện đại",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-so-mi-ke-soc-tao-nen-su-can-bang-giua-co-dien-va-hien-dai-18526012614242776.htm",
+      "summary": "Áo sơ mi kẻ sọc mang vẻ đẹp giao thoa hài hòa giữa nét cổ điển quen thuộc và tinh thần hiện đại phóng khoáng, giúp nàng dễ dàng ghi dấu ấn phong cách trong nhiều hoàn cảnh khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:00:00+07:00",
+      "fetched": "2026-01-27T21:22:02.402833+07:00"
+    },
+    {
+      "id": "8ac19221cfc77a7b445841055aa58452",
+      "title": "'Vườn thú lớn nhất bầu trời': Nhiều người từ TP.HCM vượt hàng trăm km để thưởng ngoạn",
+      "link": "https://thanhnien.vn/vuon-thu-lon-nhat-bau-troi-nhieu-nguoi-tu-tphcm-vuot-hang-tram-km-de-thuong-ngoan-185260126093845394.htm",
+      "summary": "Trước thềm Tết Nguyên đán Bính Ngọ 2026, đông người ở TP.HCM, từ những em nhỏ đến các ông bà cụ cùng hẹn nhau vượt 200 km tìm đến vùng núi Lâm Đồng đầy mộng mơ để quan sát 'vườn thú lớn nhất bầu trời'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T13:00:00+07:00",
+      "fetched": "2026-01-27T21:22:02.402988+07:00"
+    },
+    {
+      "id": "7e719533d76dca5d5e618f791af900df",
+      "title": "Y tá bị đặc vụ Mỹ bắn chết từng nhận được thư tri ân",
+      "link": "https://vnexpress.net/y-ta-bi-dac-vu-my-ban-chet-tung-nhan-duoc-thu-tri-an-5010699.html",
+      "summary": "Pretti, y tá bị đặc vụ liên bang bắn chết ở Minnesota, là y tá từng nhận thư tri ân của Bộ Cựu binh, được các đồng nghiệp ca ngợi vì lòng tận tụy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-27T13:00:00+07:00",
+      "fetched": "2026-01-27T21:22:05.373799+07:00"
+    },
+    {
+      "id": "d4ef07e239f3259cec354dd3a979e126",
+      "title": "Hai thiếu niên vô cớ đâm chết người ở công viên",
+      "link": "https://vnexpress.net/hai-thieu-nien-vo-co-dam-chet-nguoi-o-cong-vien-5010757.html",
+      "summary": "Hai nghi can ra đầu thú sau hai ngày đâm chết thanh niên 18 tuổi đang ngồi chơi ở công viên Trưng Trắc, phường Phan Thiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T12:55:56+07:00",
+      "fetched": "2026-01-27T21:21:59.536432+07:00"
+    },
+    {
+      "id": "1289727b998d506e80c26ef4ea796840",
+      "title": "Bộ Y tế yêu cầu dừng bán 5 loại sữa nghi nhiễm độc tố",
+      "link": "https://vnexpress.net/bo-y-te-yeu-cau-dung-ban-5-loai-sua-nghi-nhiem-doc-to-5010762.html",
+      "summary": "Bộ Y tế tối 27/1 yêu cầu các cơ quan chức năng và sàn thương mại điện tử khẩn cấp thu hồi, gỡ bỏ thông tin 5 loại sữa ngoại nhập do nghi nhiễm cereulide - độc tố từ vi khuẩn Bacillus cereus.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T12:51:14+07:00",
+      "fetched": "2026-01-27T21:21:59.536594+07:00"
+    },
+    {
+      "id": "e82ed4c815d91d1390616d6314c6dc19",
+      "title": "25 bác sĩ đầu ngành ra sách về hồi sức cấp cứu",
+      "link": "https://vnexpress.net/25-bac-si-dau-nganh-ra-sach-ve-hoi-suc-cap-cuu-5010758.html",
+      "summary": "Cuốn sách Hồi sức cấp cứu – Tiếp cận theo các phác đồ vừa được các chuyên gia đầu ngành ra mắt, cung cấp tài liệu chuyên sâu, cập nhật kiến thức cho bác sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T12:28:34+07:00",
+      "fetched": "2026-01-27T21:21:59.536772+07:00"
+    },
+    {
       "id": "b3d54230a5489c6efa3b6a25ec630955",
       "title": "Bích Thùy lập công giúp đội tuyển nữ Việt Nam thắng giao hữu Uzbekistan, Chủ tịch VFF động viên",
       "link": "https://thanhnien.vn/bich-thuy-lap-cong-giup-doi-tuyen-nu-viet-nam-thang-giao-huu-uzbekistan-chu-tich-vff-dong-vien-185260127190653806.htm",
@@ -691,6 +1151,16 @@ window.newsData_2026_01_27 = {
       "category": "Thế giới",
       "published": "2026-01-27T12:00:00+07:00",
       "fetched": "2026-01-27T19:28:44.021879+07:00"
+    },
+    {
+      "id": "507ec6a5f40c8d202102035921b64613",
+      "title": "Quán bún bò Huế trong biệt thự cổ bán hai ngày mỗi tuần",
+      "link": "https://vnexpress.net/quan-bun-bo-hue-trong-biet-thu-co-ban-hai-ngay-moi-tuan-5010696.html",
+      "summary": "Quán bún bò Huế nằm trong biệt thự cổ rộng 500 m2, bao quanh bởi hồ bơi, chỉ phục vụ hai ngày cuối tuần, thu hút mỗi ngày khoảng 300 khách trong nước và quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T12:00:00+07:00",
+      "fetched": "2026-01-27T21:21:59.537083+07:00"
     },
     {
       "id": "6e7c3b8cd0aeddf12cc114102daca532",
