@@ -1,6 +1,6 @@
 window.newsData_2026_01_27 = {
   "date": "2026-01-27",
-  "lastUpdated": "2026-01-27T10:30:21.430021+07:00",
+  "lastUpdated": "2026-01-27T11:39:59.804952+07:00",
   "articles": [
     {
       "id": "ed8f4d95db6ce46c783763b3af6c08db",
@@ -303,6 +303,246 @@ window.newsData_2026_01_27 = {
       "fetched": "2026-01-27T08:05:59.593094+07:00"
     },
     {
+      "id": "23b0b8da451b1c026b66b0e6145f5a6f",
+      "title": "Thảo Cầm Viên Sài Gòn đã tìm thấy con thiên nga bị bắt trộm",
+      "link": "https://thanhnien.vn/thao-cam-vien-sai-gon-da-tim-thay-con-thien-nga-bi-bat-trom-18526012711340546.htm",
+      "summary": "Sáng 27.1.2026, Thảo Cầm Viên Sài Gòn xác nhận đã giải cứu thành công một con thiên nga bị bắt trộm và đưa xuống tận Cần Thơ. Qua trích xuất camera an ninh, cơ quan chức năng và Thảo Cầm Viên Sài Gòn phát hiện người đàn ông tiếp cận và bắt con thiên nga ra khỏi khu vực nuôi nhốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T04:37:00+07:00",
+      "fetched": "2026-01-27T11:39:51.094637+07:00"
+    },
+    {
+      "id": "3137e77e755354dc9403041827458b91",
+      "title": "Bộ trưởng Đức nói Tổng thống Trump nên xin lỗi vì xem thường đồng minh NATO",
+      "link": "https://thanhnien.vn/bo-truong-duc-noi-tong-thong-trump-nen-xin-loi-vi-xem-thuong-dong-minh-nato-185260127102213628.htm",
+      "summary": "Giới chức nhiều nước và lãnh đạo NATO phản ứng mạnh sau khi Tổng thống Mỹ Donald Trump cho rằng chưa bao giờ cần đến các binh sĩ từ các thành viên châu Âu trong liên minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T04:37:00+07:00",
+      "fetched": "2026-01-27T11:39:51.094804+07:00"
+    },
+    {
+      "id": "5c4e95451e3b2c48c2132549daab84ac",
+      "title": "Hơn 406.000 xe máy điện VinFast bán ra năm 2025: Người Việt ưa chuộng dòng nào?",
+      "link": "https://thanhnien.vn/hon-406000-xe-may-dien-vinfast-ban-ra-nam-2025-nguoi-viet-ua-chuong-dong-nao-185260126131327379.htm",
+      "summary": "VinFast đạt doanh số kỷ lục khi bán được hơn 406.000 xe máy điện trong năm 2025, tăng trưởng khoảng 473% so với năm 2024. Riêng dòng xe Evo Series có 7 phiên bản, đóng góp hơn 250.000 xe nhờ giá bán phù hợp cùng giải pháp đổi pin linh hoạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T04:32:00+07:00",
+      "fetched": "2026-01-27T11:39:51.094961+07:00"
+    },
+    {
+      "id": "698d49cf3f377b7796161e368862a97f",
+      "title": "Khởi tố bị can thuê 11 ô tô rồi cầm cố lấy tiền trả nợ",
+      "link": "https://thanhnien.vn/khoi-to-bi-can-thue-11-o-to-roi-cam-co-lay-tien-tra-no-185260127110534927.htm",
+      "summary": "Mượn tiền sang Campuchia chơi bời rồi không có tiền trả, Nguyễn Dư Thiện Nhân nghĩ đến cách thuê xe ô tô tự lái rồi mang đi cầm cố, lấy tiền trả nợ, tiêu xài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T04:31:00+07:00",
+      "fetched": "2026-01-27T11:39:51.095139+07:00"
+    },
+    {
+      "id": "78c586a96b17596a0348d705f0fdf3e1",
+      "title": "Khu 'đất vàng' làm công viên ở TP.HCM thu hút người dân, khách Tây đến vui chơi",
+      "link": "https://thanhnien.vn/khu-dat-vang-lam-cong-vien-o-tphcm-thu-hut-nguoi-dan-khach-tay-den-vui-choi-18526012623205516.htm",
+      "summary": "Sau khi mở cửa, khu 'đất vàng' tại số 8 đường Võ Văn Tần (phường Xuân Hòa, TP.HCM) nhanh chóng trở thành điểm check-in hút khách nhất là khi Tết Nguyên đán Bính Ngọ cận kề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T04:25:00+07:00",
+      "fetched": "2026-01-27T11:39:51.095299+07:00"
+    },
+    {
+      "id": "d84202c20fb2cf69a3b32aa0571bc508",
+      "title": "Sedan hạng D năm 2025: Toyota Camry chiếm tới 88% thị phần",
+      "link": "https://thanhnien.vn/sedan-hang-d-nam-2025-toyota-camry-chiem-toi-88-thi-phan-185260124084936481.htm",
+      "summary": "Trái ngược với hai phân khúc sedan hạng B và C, nhóm xe sedan hạng D tăng trưởng trong năm 2025 nhưng lượng xe bán ra phần lớn đến từ Toyota Camry; các mẫu mã còn lại đều sụt giảm doanh số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T04:24:00+07:00",
+      "fetched": "2026-01-27T11:39:51.095451+07:00"
+    },
+    {
+      "id": "6cc27e2cfef9887c1e06ee412e6d23c8",
+      "title": "Chú chó Vàng ở Mũi Điện bất ngờ được du khách chấm 5 sao trên Google Maps",
+      "link": "https://thanhnien.vn/chu-cho-vang-o-mui-dien-bat-ngo-duoc-du-khach-cham-5-sao-tren-google-maps-185260127101240723.htm",
+      "summary": "Tại Mũi Điện (Đắk Lắk; Phú Yên cũ), chú chó Vàng trở thành \"hướng dẫn viên\" đặc biệt, được du khách yêu mến và chấm 5 sao trên Google Maps.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T04:12:00+07:00",
+      "fetched": "2026-01-27T11:39:51.095598+07:00"
+    },
+    {
+      "id": "9736399eb9d267961d9555bb89eecf3b",
+      "title": "Lộ diện sau 5 năm chờ đợi, AirTag 2 có gì mới?",
+      "link": "https://thanhnien.vn/lo-dien-sau-5-nam-cho-doi-airtag-2-co-gi-moi-185260127101235554.htm",
+      "summary": "Quên AirTag đời cũ đi, đây là lý do AirTag thế hệ 2 sẽ khiến muốn nâng cấp ngay lập tức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T04:11:00+07:00",
+      "fetched": "2026-01-27T11:39:51.095745+07:00"
+    },
+    {
+      "id": "1995cbcd851b1c63579c57b84d43d6fa",
+      "title": "Từ DIFF Đà Nẵng tới đại nhạc hội pháo hoa Hà Nội: Khẳng định vị thế 'ông trùm pháo hoa' Sun Group",
+      "link": "https://thanhnien.vn/tu-diff-da-nang-toi-dai-nhac-hoi-phao-hoa-ha-noi-khang-dinh-vi-the-ong-trum-phao-hoa-sun-group-185260127110159029.htm",
+      "summary": "Từ Lễ hội pháo hoa quốc tế Đà Nẵng, những show diễn đình đám tại Phú Quốc, Cát Bà đến đại nhạc hội pháo hoa “Dưới lá cờ vẻ vang của Đảng” vừa diễn ra tại Hà Nội, Sun Group đã tiến một bước rất dài trên hành trình khẳng định vị thế ông lớn pháo hoa tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T04:10:00+07:00",
+      "fetched": "2026-01-27T11:39:51.095893+07:00"
+    },
+    {
+      "id": "2676a04952f1904ef663f2a80af6a41c",
+      "title": "Xem nhanh 12h: Cảnh báo dịch bệnh do vi rút Nipah | Phẫn nộ clip cụ bà 82 tuổi bị bạo hành",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-canh-bao-dich-benh-do-vi-rut-nipah-phan-no-clip-cu-ba-82-tuoi-bi-bao-hanh-185260127110615818.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 27.1.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T04:06:00+07:00",
+      "fetched": "2026-01-27T11:39:51.096051+07:00"
+    },
+    {
+      "id": "12f6708a9f9bcc74a5dbcab5be227eb4",
+      "title": "Cùng OMO mang ‘lộc xanh’ đến Vườn quốc gia Núi Chúa - Phước Bình",
+      "link": "https://thanhnien.vn/cung-omo-mang-loc-xanh-den-vuon-quoc-gia-nui-chua-phuoc-binh-185260126190629623.htm",
+      "summary": "Không phải trekking hay check-in tại những địa điểm hot, đây là một hoạt động ý nghĩa tại Vườn quốc gia Núi Chúa - Phước Bình mà không phải ai cũng có cơ hội trải nghiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T04:00:00+07:00",
+      "fetched": "2026-01-27T11:39:51.096230+07:00"
+    },
+    {
+      "id": "e06375113bec756de60a656a5be1b3ac",
+      "title": "Long Châu thưởng Tết cao nhất 127 triệu đồng",
+      "link": "https://vnexpress.net/long-chau-thuong-tet-cao-nhat-127-trieu-dong-5010472.html",
+      "summary": "Long Châu công bố mức thưởng Tết Bính Ngọ trung bình cho đội ngũ nhân viên y tế tăng 47%, cao nhất nhận 127 triệu đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-27T04:00:00+07:00",
+      "fetched": "2026-01-27T11:39:55.522140+07:00"
+    },
+    {
+      "id": "488e375e0b9d219a960859abb3f9ef9c",
+      "title": "Michael Carrick - người đưa tính cách vào Man Utd",
+      "link": "https://vnexpress.net/michael-carrick-nguoi-dua-tinh-cach-vao-man-utd-5010495.html",
+      "summary": "Những gì Michael Carrick đang làm ở Man Utd dựa trên đúng bản chất tính cách của một con người tỉ mỉ, điềm đạm, luôn tìm cách giúp đỡ và đặt lợi ích CLB lên hàng đầu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-27T03:58:57+07:00",
+      "fetched": "2026-01-27T11:39:59.797297+07:00"
+    },
+    {
+      "id": "ff2408e5eb6d59f2b27588a4af87047d",
+      "title": "UBND TP.HCM chỉ đạo tăng cường vệ sinh môi trường phục vụ tết 2026",
+      "link": "https://thanhnien.vn/ubnd-tphcm-chi-dao-tang-cuong-ve-sinh-moi-truong-phuc-vu-tet-2026-18526012710151912.htm",
+      "summary": "UBND TP.HCM cho phép ngành vệ sinh môi trường làm việc 24/24, tăng cường thu gom rác, đảm bảo mỹ quan, an toàn đô thị trong dịp tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T03:57:00+07:00",
+      "fetched": "2026-01-27T11:39:51.096383+07:00"
+    },
+    {
+      "id": "fce2de2cdc0f86540e0cc95d30001037",
+      "title": "Cựu Viện trưởng Y dược học dân tộc TP.HCM hầu tòa vì nhận hối lộ 47 tỉ",
+      "link": "https://thanhnien.vn/cuu-vien-truong-y-duoc-hoc-dan-toc-tphcm-hau-toa-vi-nhan-hoi-lo-47-ti-185260127093525801.htm",
+      "summary": "Ông Huỳnh Nguyễn Lộc, cựu Viện trưởng Y dược học dân tộc TP.HCM, bị xét xử với cáo buộc nhận hối lộ hơn 47 tỉ, nhằm 'ưu ái' doanh nghiệp đưa dược liệu vào cơ sở y tế do mình quản lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T03:56:00+07:00",
+      "fetched": "2026-01-27T11:39:51.096539+07:00"
+    },
+    {
+      "id": "b47bdc316158f890296f447a6d5349cc",
+      "title": "UAV Nga quần thảo nhiều giờ ở Kiev mà không bị bắn hạ",
+      "link": "https://vnexpress.net/uav-nga-quan-thao-nhieu-gio-o-kiev-ma-khong-bi-ban-ha-5010424.html",
+      "summary": "Một số UAV Nga, được cho là mẫu Geran và BM-35, hoạt động nhiều giờ trên bầu trời thủ đô Ukraine mà không bị phòng không bắn hạ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-27T03:55:23+07:00",
+      "fetched": "2026-01-27T11:39:53.853573+07:00"
+    },
+    {
+      "id": "49896061923e05aab4667dc827b9cb64",
+      "title": "Vụ sườn heo kém chất lượng vào bếp ăn trường học ở TP.HCM: Phụ huynh yêu cầu làm rõ",
+      "link": "https://thanhnien.vn/vu-suon-heo-kem-chat-luong-vao-bep-an-truong-hoc-o-tphcm-phu-huynh-yeu-cau-lam-ro-185260127095809924.htm",
+      "summary": "Liên quan đến vụ phát hiện sườn heo kém chất lượng đưa vào bếp ăn tập thể Trường tiểu học L.T.V ở phường Bến Cát (TP.HCM), nhiều phụ huynh đến trường yêu cầu nhà cung cấp và nhà trường làm rõ vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T03:52:00+07:00",
+      "fetched": "2026-01-27T11:39:51.096694+07:00"
+    },
+    {
+      "id": "8ba066a3bfbc4458ca2fe09cc20d6324",
+      "title": "Lịch cúp nước 9 phường ở TP.HCM từ trưa nay 27.1 đến cuối tháng 1",
+      "link": "https://thanhnien.vn/lich-cup-nuoc-9-phuong-o-tphcm-tu-trua-nay-271-den-cuoi-thang-1-185260127103501134.htm",
+      "summary": "Từ trưa nay 27.1 đến ngày 31.1, có 9 phường ở TP.HCM cúp nước để thực hiện công tác bảo dưỡng, bảo trì hệ thống đường ống nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T03:48:00+07:00",
+      "fetched": "2026-01-27T11:39:51.096852+07:00"
+    },
+    {
+      "id": "b1f65d6b03b0d1c0d34861e52250cdda",
+      "title": "Thỏa thuận nhập xe điện Trung Quốc gây lo ngại ở Canada",
+      "link": "https://vnexpress.net/thoa-thuan-nhap-xe-dien-trung-quoc-gay-lo-ngai-o-canada-5009866.html",
+      "summary": "Chính phủ Canada hạ thuế nhập khẩu xe điện Trung Quốc để tăng cạnh tranh, khiến nhiều người lo ngại về tương lai của ngành công nghiệp ôtô nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T03:38:22+07:00",
+      "fetched": "2026-01-27T11:39:48.031107+07:00"
+    },
+    {
+      "id": "b1f65d6b03b0d1c0d34861e52250cdda",
+      "title": "Thỏa thuận nhập xe điện Trung Quốc gây lo ngại ở Canada",
+      "link": "https://vnexpress.net/thoa-thuan-nhap-xe-dien-trung-quoc-gay-lo-ngai-o-canada-5009866.html",
+      "summary": "Chính phủ Canada hạ thuế nhập khẩu xe điện Trung Quốc để tăng cạnh tranh, khiến nhiều người lo ngại về tương lai của ngành công nghiệp ôtô nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-27T03:38:22+07:00",
+      "fetched": "2026-01-27T11:39:53.853752+07:00"
+    },
+    {
+      "id": "aaf5de23bf1a9a0da8bc7e39ecec210e",
+      "title": "Startup AI vào top 10 hệ sinh thái khởi nghiệp TP HCM",
+      "link": "https://vnexpress.net/startup-ai-vao-top-10-he-sinh-thai-khoi-nghiep-tp-hcm-5010257.html",
+      "summary": "AI Hay, do kỹ sư Việt phát triển, là startup duy nhất thuộc lĩnh vực phần mềm và dữ liệu có tên trong top 10 hệ sinh thái khởi nghiệp TP HCM, theo StartupBlink.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T03:34:17+07:00",
+      "fetched": "2026-01-27T11:39:48.031295+07:00"
+    },
+    {
+      "id": "aaf5de23bf1a9a0da8bc7e39ecec210e",
+      "title": "Startup AI vào top 10 hệ sinh thái khởi nghiệp TP HCM",
+      "link": "https://vnexpress.net/startup-ai-vao-top-10-he-sinh-thai-khoi-nghiep-tp-hcm-5010257.html",
+      "summary": "AI Hay, do kỹ sư Việt phát triển, là startup duy nhất thuộc lĩnh vực phần mềm và dữ liệu có tên trong top 10 hệ sinh thái khởi nghiệp TP HCM, theo StartupBlink.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-27T03:34:17+07:00",
+      "fetched": "2026-01-27T11:39:57.901237+07:00"
+    },
+    {
+      "id": "9d27f534087348862e478d5232596195",
+      "title": "Trí Dương Group vận hành trung tâm trải nghiệm tại The Sensia",
+      "link": "https://vnexpress.net/tri-duong-group-van-hanh-trung-tam-trai-nghiem-tai-the-sensia-5010457.html",
+      "summary": "Trí Dương Group đưa vào vận hành 6Senses Gallery, ngày 25/1, được định vị là điểm tư vấn, trải nghiệm của dự án The Sensia (Nghệ An).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T03:30:00+07:00",
+      "fetched": "2026-01-27T11:39:48.031463+07:00"
+    },
+    {
+      "id": "e7b60c6e979266a95c61abd38730ee1d",
+      "title": "Xét nghiệm di truyền xác định đột biến gene gây tự kỷ",
+      "link": "https://vnexpress.net/xet-nghiem-di-truyen-xac-dinh-dot-bien-gene-gay-tu-ky-5010435.html",
+      "summary": "Xét nghiệm di truyền có thể xác định một số đột biến gene gây ra chứng tự kỷ, chậm phát triển, tăng động ở trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T03:30:00+07:00",
+      "fetched": "2026-01-27T11:39:48.031621+07:00"
+    },
+    {
       "id": "9be607138beaf956fc1a45de0caaa2a2",
       "title": "Tổng thư ký NATO: Châu Âu không thể tự phòng thủ nếu thiếu Mỹ",
       "link": "https://thanhnien.vn/tong-thu-ky-nato-chau-au-khong-the-tu-phong-thu-neu-thieu-my-185260127100955217.htm",
@@ -403,6 +643,26 @@ window.newsData_2026_01_27 = {
       "fetched": "2026-01-27T10:30:14.708841+07:00"
     },
     {
+      "id": "ea0c11e0aaf218c94fd2b3f330fdda0b",
+      "title": "Công an treo thưởng thông tin tố giác hai kẻ cướp ngân hàng ở Gia Lai",
+      "link": "https://vnexpress.net/cong-an-treo-thuong-thong-tin-to-giac-hai-ke-cuop-ngan-hang-o-gia-lai-5010434.html",
+      "summary": "Cơ quan điều tra kêu gọi người dân tích cực tố giác tội phạm cướp 1,8 tỷ đồng của chi nhánh Vietcombank ở Gia Lai, thông tin có giá trị sẽ được khen thưởng xứng đáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T03:13:41+07:00",
+      "fetched": "2026-01-27T11:39:48.031775+07:00"
+    },
+    {
+      "id": "e621221094166210e5fe6773ca7b05d2",
+      "title": "Nên xử phạt xe máy, ôtô 'rùa bò' cản đường nội thành",
+      "link": "https://vnexpress.net/vi-pham-giao-thong-qua-hinh-anh-phat-nguoi-xe-may-oto-nen-xu-phat-xe-may-oto-rua-bo-10-km-h-bam-dai-phan-cach-5010436.html",
+      "summary": "Tôi bắt gặp nhiều người chạy xe máy, ôtô di chuyển với tốc độ 10-20 km/h giữa đường, trong khi hàng dài phương tiện phía sau không thể vượt lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T03:13:14+07:00",
+      "fetched": "2026-01-27T11:39:48.031932+07:00"
+    },
+    {
       "id": "4c6cdab240904e1c916c07cd92b8e489",
       "title": "Đánh người dã man ở Hóc Môn: Công an TP.HCM làm rõ đối với hơn 20 người",
       "link": "https://thanhnien.vn/danh-nguoi-da-man-o-hoc-mon-cong-an-tphcm-lam-ro-doi-voi-hon-20-nguoi-18526012708454798.htm",
@@ -483,6 +743,16 @@ window.newsData_2026_01_27 = {
       "fetched": "2026-01-27T10:30:14.709608+07:00"
     },
     {
+      "id": "ab929ca4367328ec1a0978d017a62f99",
+      "title": "Trào ngược dạ dày có gây khó thở không?",
+      "link": "https://vnexpress.net/trao-nguoc-da-day-co-gay-kho-tho-khong-5010458.html",
+      "summary": "Tôi bị trào ngược dạ dày thực quản, thường xuyên khó thở. Triệu chứng này có phải do bệnh trào ngược dạ dày gây ra không, điều trị thế nào? (Hồng Nga, Tây Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T03:00:00+07:00",
+      "fetched": "2026-01-27T11:39:48.032457+07:00"
+    },
+    {
       "id": "6b9b70e79fb798831c969a4732b665b2",
       "title": "Trung Quốc sắp hoàn thành kênh đào hơn 10 tỉ USD kết nối với vịnh Bắc bộ",
       "link": "https://thanhnien.vn/trung-quoc-sap-hoan-thanh-kenh-dao-hon-10-ti-usd-ket-noi-voi-vinh-bac-bo-185260127091306329.htm",
@@ -523,6 +793,16 @@ window.newsData_2026_01_27 = {
       "fetched": "2026-01-27T10:30:11.535153+07:00"
     },
     {
+      "id": "c30741cc65528ffc1b6bc2dbef419c84",
+      "title": "Thiên nga trắng ở Thảo Cầm Viên Sài Gòn bị trộm",
+      "link": "https://vnexpress.net/thien-nga-trang-o-thao-cam-vien-sai-gon-bi-trom-5010423.html",
+      "summary": "Người đàn ông hơn 50 tuổi vào khu vực nuôi gia cầm ở Thảo Cầm Viên Sài Gòn bắt thiên nga trắng đem bán cho một người ở Cần Thơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T02:52:46+07:00",
+      "fetched": "2026-01-27T11:39:48.032929+07:00"
+    },
+    {
       "id": "0e394dce186c07f184a35570368fc5dd",
       "title": "PSG cuỗm 'viên ngọc thô' gốc Philippines của Barca",
       "link": "https://vnexpress.net/psg-cuom-vien-ngoc-tho-goc-philippines-cua-barca-5010446.html",
@@ -541,6 +821,16 @@ window.newsData_2026_01_27 = {
       "category": "Thể thao",
       "published": "2026-01-27T02:49:21+07:00",
       "fetched": "2026-01-27T10:30:21.424140+07:00"
+    },
+    {
+      "id": "82db54b87ad750ba93d1c19a8ff9f0c6",
+      "title": "Bên trong vụ PSG nẫng 'viên ngọc thô' gốc Philippines của Barca",
+      "link": "https://vnexpress.net/ben-trong-vu-psg-nang-vien-ngoc-tho-goc-philippines-cua-barca-5010446.html",
+      "summary": "Tiền vệ 18 tuổi Dro Fernandez gia nhập PSG với mức phí 9,7 triệu USD theo hợp đồng đến hè 2030, sau khi dứt áo rời Barca và để lại sự ngỡ ngàng cho HLV Hansi Flick.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-27T02:49:21+07:00",
+      "fetched": "2026-01-27T11:39:59.797971+07:00"
     },
     {
       "id": "7a7da34c622be70be394cd30396a2577",
