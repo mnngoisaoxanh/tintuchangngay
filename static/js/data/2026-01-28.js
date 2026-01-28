@@ -1,7 +1,157 @@
 window.newsData_2026_01_28 = {
   "date": "2026-01-28",
-  "lastUpdated": "2026-01-28T13:23:53.893931+07:00",
+  "lastUpdated": "2026-01-28T15:20:02.492727+07:00",
   "articles": [
+    {
+      "id": "cb758bcfac38188dc679d09529a148d4",
+      "title": "Phát hiện 2 xưởng phân kim xả 6,7 tấn chất thải nguy hại ra ven sông Đuống",
+      "link": "https://tuoitre.vn/phat-hien-2-xuong-phan-kim-xa-6-7-tan-chat-thai-nguy-hai-ra-ven-song-duong-20260128113739576.htm",
+      "summary": "Ba người chủ của 2 xưởng phân kim bị công an tạm giữ hình sự với cáo buộc xả 6,7 tấn chất thải nguy hại ra ven sông Đuống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.919461+07:00",
+      "fetched": "2026-01-28T15:19:56.919559+07:00"
+    },
+    {
+      "id": "3752a1ba7d27be1be2b2e5f5dc743a38",
+      "title": "Mỹ chuẩn bị tấn công Iran?",
+      "link": "https://tuoitre.vn/my-chuan-bi-tan-cong-iran-20260127220359931.htm",
+      "summary": "Việc Mỹ tăng cường lực lượng quân sự tại Trung Đông đang làm gia tăng sức ép lên Tehran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.919353+07:00",
+      "fetched": "2026-01-28T15:19:56.919450+07:00"
+    },
+    {
+      "id": "708c5636dc2dde802ddde36eb260ac5c",
+      "title": "Xe khách giường nằm biển Lào va chạm xe hạ tải, hai người tử vong",
+      "link": "https://tuoitre.vn/xe-khach-giuong-nam-bien-lao-va-cham-xe-ha-tai-hai-nguoi-tu-vong-20260128122256394.htm",
+      "summary": "Vụ tai nạn giao thông giữa xe hạ tải và xe khách giường nằm biển kiểm soát Lào xảy ra trên quốc lộ 9 khiến hai người tử vong, nhiều người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.919246+07:00",
+      "fetched": "2026-01-28T15:19:56.919343+07:00"
+    },
+    {
+      "id": "ec98a277249fc3aa2fc97243895f02b3",
+      "title": "Quảng cáo thuốc lá điện tử trá hình ‘sản phẩm công nghệ’",
+      "link": "https://tuoitre.vn/quang-cao-thuoc-la-dien-tu-tra-hinh-san-pham-cong-nghe-20260128123745418.htm",
+      "summary": "Nhiều người cố tình thay đổi tên gọi, không sử dụng từ \"thuốc lá điện tử\" mà quảng bá dưới danh nghĩa sản phẩm công nghệ, phụ kiện hoặc đồ chơi điện tử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.919128+07:00",
+      "fetched": "2026-01-28T15:19:56.919236+07:00"
+    },
+    {
+      "id": "e4ced6d463a829f83f150d3c9ce58411",
+      "title": "Vụ nữ giúp việc bạo hành cụ bà 82 tuổi: Nạn nhân bị gãy xương sườn",
+      "link": "https://tuoitre.vn/vu-nu-giup-viec-bao-hanh-cu-ba-82-tuoi-nan-nhan-bi-gay-xuong-suon-20260128111600804.htm",
+      "summary": "Tại cơ quan điều tra, nữ giúp việc Trương Thị Bắc khai đã nhiều lần hành hung cụ bà 82 tuổi, kết quả giám định pháp y xác định nạn nhân bị gãy mới và gãy cũ nhiều xương sườn, hình thành tổn thương ở các thời điểm khác nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.919007+07:00",
+      "fetched": "2026-01-28T15:19:56.919118+07:00"
+    },
+    {
+      "id": "f8adc62d03fd4cffa76552ba0eb67617",
+      "title": "Lấy dị vật kim khâu nằm trong tầng sinh môn nữ bệnh nhân sau 11 năm",
+      "link": "https://tuoitre.vn/lay-di-vat-kim-khau-nam-trong-tang-sinh-mon-nu-benh-nhan-sau-11-nam-20260128121927347.htm",
+      "summary": "Bệnh viện Hữu nghị Quảng Bình phát hiện chiếc kim khâu trong tầng sinh môn một nữ bệnh nhân. Dị vật này đã tồn tại ở đó suốt 11 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.918900+07:00",
+      "fetched": "2026-01-28T15:19:56.918997+07:00"
+    },
+    {
+      "id": "6654a96e9e87b20f746fa60ba3558da1",
+      "title": "EXO sẽ có concert tại TP.HCM vào tháng 4",
+      "link": "https://tuoitre.vn/exo-se-co-concert-tai-tp-hcm-vao-thang-4-20260128125337194.htm",
+      "summary": "EXO sẽ gặp gỡ người hâm mộ thông qua tour diễn thứ 6 mang tên EXO PLANET #6 - EXhOrizon, mở màn tại Seoul vào tháng 4 và đi qua 13 khu vực trên toàn thế giới, trong đó có TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.918794+07:00",
+      "fetched": "2026-01-28T15:19:56.918890+07:00"
+    },
+    {
+      "id": "af9b7b2e7358e92ceb77adfff1e4a9f5",
+      "title": "Ô tô lùi trúng 2 người trên phố ở Hà Nội, 1 phụ nữ tử vong",
+      "link": "https://tuoitre.vn/o-to-lui-trung-2-nguoi-tren-pho-o-ha-noi-1-phu-nu-tu-vong-20260128132540768.htm",
+      "summary": "Ô tô đi lùi trúng 2 người trên phố Khâm Thiên (Hà Nội) vào trưa 28-1. Vụ va chạm làm 1 người phụ nữ tử vong tại chỗ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.918687+07:00",
+      "fetched": "2026-01-28T15:19:56.918784+07:00"
+    },
+    {
+      "id": "b1a21833a8233fe99d8def7de117a22a",
+      "title": "Hũ gạo ấm tình đồng đội trong ngày chia tay chiến sĩ",
+      "link": "https://tuoitre.vn/hu-gao-am-tinh-dong-doi-trong-ngay-chia-tay-chien-si-20260128113618086.htm",
+      "summary": "Trong không khí trang nghiêm nhưng ấm áp nghĩa tình đồng đội, Đại đội 11 (Trung đoàn 224) đã chia tay các chiến sĩ hoàn thành nghĩa vụ quân sự, chính thức ra quân trở về địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.918580+07:00",
+      "fetched": "2026-01-28T15:19:56.918678+07:00"
+    },
+    {
+      "id": "b6833823c9b073a6ff5d80ba54e49745",
+      "title": "Hợp tác y tế Anh - Việt: Phòng bệnh hơn chữa bệnh với AI",
+      "link": "https://tuoitre.vn/hop-tac-y-te-anh-viet-phong-benh-hon-chua-benh-voi-ai-20260128120451527.htm",
+      "summary": "Các đối tác trong khu vực y tế của Anh và Việt Nam đã ký kết nhiều biên bản ghi nhớ hợp tác, mở ra hướng tiếp cận mới trong chăm sóc sức khỏe: ứng dụng dữ liệu và AI để phòng bệnh sớm, theo dõi sức khỏe cộng đồng, hỗ trợ người cao tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.918470+07:00",
+      "fetched": "2026-01-28T15:19:56.918570+07:00"
+    },
+    {
+      "id": "19d6259ffb205fb3568b6ac3534cd965",
+      "title": "Đột kích điểm thu mua mũ bảo hiểm trộm cắp giữa trung tâm Đà Nẵng",
+      "link": "https://tuoitre.vn/dot-kich-diem-thu-mua-mu-bao-hiem-trom-cap-giua-trung-tam-da-nang-2026012813094776.htm",
+      "summary": "Công an tiến hành kiểm tra, phát hiện cơ sở thu mua mũ bảo hiểm ở trung tâm Đà Nẵng với hàng trăm chiếc không rõ nguồn gốc, mũ bị trộm cắp bán lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.918360+07:00",
+      "fetched": "2026-01-28T15:19:56.918460+07:00"
+    },
+    {
+      "id": "90b3616c2da6a8faba8f9d9180c4e30a",
+      "title": "Hà Nội dự kiến dời hơn 860.000 dân để tái thiết đô thị, các chuyên gia nói gì?",
+      "link": "https://tuoitre.vn/ha-noi-doi-hon-860-000-dan-de-tai-thiet-do-thi-cac-chuyen-gia-noi-gi-20260128125240041.htm",
+      "summary": "HĐND TP Hà Nội khóa XVI vừa thông qua các nội dung chính của Quy hoạch tổng thể thủ đô với tầm nhìn 100 năm. Trong đó, nội dung Hà Nội dự kiến di dời hơn 860.000 người để phục vụ quá trình tái cấu trúc đô thị được người dân đặc biệt quan tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.918247+07:00",
+      "fetched": "2026-01-28T15:19:56.918350+07:00"
+    },
+    {
+      "id": "b3d94fd332d6582d5130099e5e7cdd25",
+      "title": "Giá nhà ở đơn lập tại Mỹ tăng cao",
+      "link": "https://tuoitre.vn/gia-nha-o-don-lap-tai-my-tang-cao-20260128122522786.htm",
+      "summary": "Việc xây dựng nhà ở Mỹ đang bị kìm hãm bởi chi phí vật liệu cao, do các biện pháp áp thuế diện rộng của Tổng thống Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.918114+07:00",
+      "fetched": "2026-01-28T15:19:56.918236+07:00"
+    },
+    {
+      "id": "bfe57770d58cd33e8024ec1f02a4f44c",
+      "title": "Trục Bắc - Nam TP.HCM tương lai với điểm nhấn cầu vượt lấy cảm hứng từ rễ cây đước",
+      "link": "https://tuoitre.vn/truc-bac-nam-tp-hcm-tuong-lai-voi-diem-nhan-cau-vuot-lay-cam-hung-tu-re-cay-duoc-20260128102055602.htm",
+      "summary": "Phương án thiết kế trục Bắc - Nam đoạn qua khu Nam TP.HCM cho thấy hình hài tuyến đường trên cao hiện đại, với điểm nhấn là đoạn cầu vượt lấy cảm hứng từ rễ cây đước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.917986+07:00",
+      "fetched": "2026-01-28T15:19:56.918102+07:00"
+    },
+    {
+      "id": "bce97e4e17d33ab098c08ef8d9c2f5d4",
+      "title": "Kiểm thử chip là mảnh ghép cuối cùng trong chuỗi giá trị bán dẫn của Việt Nam",
+      "link": "https://tuoitre.vn/kiem-thu-chip-la-manh-ghep-cuoi-cung-trong-chuoi-gia-tri-ban-dan-cua-viet-nam-20260128131754222.htm",
+      "summary": "Thứ trưởng Bộ Khoa học & Công nghệ Bùi Hoàng Phương đánh giá cao việc đầu tư nhà máy kiểm thử chip bán dẫn là mảnh ghép cuối cùng, khép kín chuỗi giá trị bản dẫn từ thiết kế, sản xuất, kiểm thử của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T15:19:56.917753+07:00",
+      "fetched": "2026-01-28T15:19:56.917971+07:00"
+    },
     {
       "id": "f6a3362dcb3247bdf0e9dc36ed4d5248",
       "title": "Hơn 4.000 vệ tinh Starlink phải hạ thấp quỹ đạo để 'né' vệ tinh Trung Quốc?",
@@ -303,6 +453,16 @@ window.newsData_2026_01_28 = {
       "fetched": "2026-01-28T10:28:07.560214+07:00"
     },
     {
+      "id": "5d47da547ba9220da7d787f6b9838ac6",
+      "title": "Bất chấp vàng, bạc tăng sốc, người dân ùn ùn đổ đi mua",
+      "link": "https://thanhnien.vn/bat-chap-vang-bac-tang-soc-nguoi-dan-un-un-do-di-mua-185260128145726062.htm",
+      "summary": "Chiều 28.1, giá vàng miếng SJC tiếp tục tăng thêm 2 triệu đồng mỗi lượng, còn mỗi ký bạc tăng thêm hơn 1,7 triệu đồng so với đầu giờ sáng. Tốc độ tăng giá của vàng, bạc đang ở mức khá cao. Thế nhưng tình trạng người dân đổ xô đi mua vàng, bạc vẫn chưa có dấu hiệu dừng lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T08:12:00+07:00",
+      "fetched": "2026-01-28T15:19:55.934072+07:00"
+    },
+    {
       "id": "5f85052fc578be37c9bd63cf55b009c7",
       "title": "Viên chức chuyển công tác đến đơn vị khác có phải ký hợp đồng làm việc mới không?",
       "link": "https://tuoitre.vn/vien-chuc-chuyen-cong-tac-den-don-vi-khac-co-phai-ky-hop-dong-lam-viec-moi-khong-20260127230739139.htm",
@@ -451,6 +611,356 @@ window.newsData_2026_01_28 = {
       "category": "Tổng hợp",
       "published": "2026-01-28T08:02:11.333508+07:00",
       "fetched": "2026-01-28T08:02:11.333761+07:00"
+    },
+    {
+      "id": "d6babb7ff6bafca0f510c4e99918a11d",
+      "title": "Loạt sai phạm tại Trung tâm y tế khu vực Nhiêu Lộc TP.HCM",
+      "link": "https://thanhnien.vn/loat-sai-pham-tai-trung-tam-y-te-khu-vuc-nhieu-loc-tphcm-185260128112347156.htm",
+      "summary": "Sở Y tế TP.HCM kết luận Trung tâm y tế khu vực Nhiêu Lộc có nhiều sai phạm tài chính, công nợ, tài sản; yêu cầu thu hồi, kiểm điểm trách nhiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T08:00:00+07:00",
+      "fetched": "2026-01-28T15:19:55.934233+07:00"
+    },
+    {
+      "id": "923c543ef0b11724daa657eb95bac195",
+      "title": "Oppo Watch S - đồng hồ cho người chơi tennis, pickleball",
+      "link": "https://vnexpress.net/oppo-watch-s-dong-ho-cho-nguoi-choi-tennis-pickleball-5010796.html",
+      "summary": "Oppo Watch S là một trong những smartwatch hiếm hoi có thể đo chi tiết các động tác với bộ môn tennis và có chế độ riêng cho pickleball.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-28T08:00:00+07:00",
+      "fetched": "2026-01-28T15:20:01.597086+07:00"
+    },
+    {
+      "id": "616d062af4b7ccb0bdc9acfbea0b9e16",
+      "title": "Cựu Đệ nhất phu nhân Hàn Quốc Kim Keon Hee bị tuyên 20 tháng tù",
+      "link": "https://thanhnien.vn/cuu-de-nhat-phu-nhan-han-quoc-kim-keon-hee-bi-tuyen-20-thang-tu-185260128143932633.htm",
+      "summary": "Một tòa án ở Hàn Quốc ngày 28.1 đã tuyên án cựu Đệ nhất phu nhân Kim Keon Hee 1 năm 8 tháng tù giam sau khi kết luận bà phạm tội nhận hối lộ từ Giáo hội Thống nhất Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:52:00+07:00",
+      "fetched": "2026-01-28T15:19:55.934369+07:00"
+    },
+    {
+      "id": "7a87991bdd404ec5534f8894dfb7d044",
+      "title": "Khu Nam TP.HCM sắp có đường trên cao 'đẹp như mơ' nối thẳng vào trung tâm",
+      "link": "https://thanhnien.vn/khu-nam-tphcm-sap-co-duong-tren-cao-dep-nhu-mo-noi-thang-vao-trung-tam-185260128143954321.htm",
+      "summary": "Đường trục Bắc - Nam (đường Nguyễn Hữu Thọ đoạn từ nút giao đường Nguyễn Văn Linh đến cao tốc Bến Lức - Long Thành) là một trong những công trình hạ tầng trọng điểm được kỳ vọng sẽ tháo gỡ điểm nghẽn giao thông kéo dài nhiều năm tại cửa ngõ khu Nam TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:44:00+07:00",
+      "fetched": "2026-01-28T15:19:55.934501+07:00"
+    },
+    {
+      "id": "62427330cb68c720a37a0535d5d9d329",
+      "title": "TP.HCM tiễn 1.249 quân nhân xuất ngũ, mỗi chiến sĩ nhận hơn 35 triệu đồng hỗ trợ",
+      "link": "https://thanhnien.vn/tphcm-tien-1249-quan-nhan-xuat-ngu-moi-chien-si-nhan-hon-35-trieu-dong-ho-tro-185260128140914479.htm",
+      "summary": "Năm 2026, TP.HCM có 1.249 quân nhân xuất ngũ sau 2 năm thực hiện nghĩa vụ quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:42:00+07:00",
+      "fetched": "2026-01-28T15:19:55.934628+07:00"
+    },
+    {
+      "id": "e730841f5dfe35d2c8d74c3054b1da7e",
+      "title": "BS Trương Hữu Khanh: Virus Nipah nguy hiểm, không  điều trị đặc hiệu nhưng khó lan rộng",
+      "link": "https://thanhnien.vn/bs-truong-huu-khanh-virus-nipah-nguy-hiem-khong-dieu-tri-dac-hieu-nhung-kho-lan-rong-18526012812550135.htm",
+      "summary": "Virus Nipah là tác nhân truyền nhiễm nguy hiểm với tỷ lệ tử vong cao và hiện chưa có thuốc điều trị đặc hiệu. Tuy nhiên, theo các chuyên gia y tế, nguy cơ virus này lan rộng trong cộng đồng không quá cao nếu được phát hiện sớm và kiểm soát đúng cách. Việc hiểu rõ con đường lây truyền, mức độ rủi ro ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:38:00+07:00",
+      "fetched": "2026-01-28T15:19:55.934760+07:00"
+    },
+    {
+      "id": "8e3350404401fd318dba0ce1bdd63699",
+      "title": "TP.HCM: Cháy xe bồn ở xã Nhà Bè, người dân hốt hoảng",
+      "link": "https://thanhnien.vn/tphcm-chay-xe-bon-o-xa-nha-be-nguoi-dan-hot-hoang-185260128140926386.htm",
+      "summary": "Trưa 28.1, một xe bồn chở xăng bất ngờ bốc cháy dữ dội trên đường Dương Cát Lợi, xã Nhà Bè, TP.HCM, tạo cột khói cao hàng chục mét. Lực lượng Cảnh sát PCCC khẩn trương triển khai chữa cháy, đồng thời di tản người dân và trẻ em tại khu vực gần trường mầm non để đảm bảo an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:30:00+07:00",
+      "fetched": "2026-01-28T15:19:55.934889+07:00"
+    },
+    {
+      "id": "65e8870075725ceb417d1dff12c99eb7",
+      "title": "Công an TP.HCM triệt phá đường dây sản xuất, bán thạch tín dùng trong nha khoa",
+      "link": "https://thanhnien.vn/cong-an-tphcm-triet-pha-duong-day-san-xuat-ban-thach-tin-dung-trong-nha-khoa-18526012814031378.htm",
+      "summary": "Công an TP.HCM vừa triệt phá đường dây sản xuất, mua bán trái phép chất độc Arsenic trioxide (thạch tín trắng) quy mô lớn. Đáng chú ý, loại chất độc cực mạnh này được sản xuất thủ công ngay trong phòng ngủ, bán hơn 3.000 hộp cho nhiều cơ sở nha khoa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:28:00+07:00",
+      "fetched": "2026-01-28T15:19:55.935023+07:00"
+    },
+    {
+      "id": "e5b36fcbcc18acfdd70c5a091acd3f6e",
+      "title": "Djokovic thoát thua khó tin ở Australia Mở rộng",
+      "link": "https://vnexpress.net/djokovic-thoat-thua-kho-tin-o-australia-mo-rong-5011053.html",
+      "summary": "Hạt giống số 4 Novak Djokovic thua 4-6, 3-6 ở hai set đầu trận gặp Lorenzo Musetti, nhưng vẫn vào bán kết Australia Mở rộng nhờ đối thủ chấn thương ở set ba.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-28T07:26:03+07:00",
+      "fetched": "2026-01-28T15:20:02.483089+07:00"
+    },
+    {
+      "id": "1fc84380b02d8a8484155aa15f705431",
+      "title": "Đình Bắc nhận Cúp 'Vua phá lưới' ngay trước trận đội CAHN đấu Ninh Bình tại Hàng Đẫy: Chủ tịch VFF trao!",
+      "link": "https://thanhnien.vn/dinh-bac-nhan-cup-vua-pha-luoi-ngay-truoc-tran-doi-cahn-dau-ninh-binh-tai-hang-day-chu-tich-vff-trao-185260128142215156.htm",
+      "summary": "Tiền đạo Nguyễn Đình Bắc sẽ nhận danh hiệu 'Vua phá lưới U.23 châu Á 2026' trước trận đấu thuộc vòng 12 V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:25:00+07:00",
+      "fetched": "2026-01-28T15:19:55.935152+07:00"
+    },
+    {
+      "id": "4fa291ab94648d8fafeb6115d9174986",
+      "title": "Liên danh Trung Nam trúng thầu dự án LNG Cà Ná hơn 57.000 tỷ đồng",
+      "link": "https://vnexpress.net/lien-danh-trung-nam-trung-thau-du-an-lng-ca-na-hon-57-000-ty-dong-5011010.html",
+      "summary": "Dự án nhà máy điện khí LNG Cà Ná 1.500 MW sẽ do liên danh Trung Nam - Sideros River đầu tư, với tổng vốn gần 57.400 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-28T07:24:56+07:00",
+      "fetched": "2026-01-28T15:19:59.734917+07:00"
+    },
+    {
+      "id": "34a9154dd03b0c0b0412abefbaf59717",
+      "title": "Cao tốc Quảng Ngãi - Hoài Nhơn đấu nối với Đà Nẵng - Quảng Ngãi tại đâu?",
+      "link": "https://thanhnien.vn/cao-toc-quang-ngai-hoai-nhon-dau-noi-voi-da-nang-quang-ngai-tai-dau-185260128140609341.htm",
+      "summary": "Điểm đấu nối giữa cao tốc Quảng Ngãi - Hoài Nhơn và cao tốc Đà Nẵng - Quảng Ngãi tại Km1050+400, thuộc xã Nghĩa Giang (tỉnh Quảng Ngãi), hiện đã cơ bản hoàn thành các hạng mục thi công chính, sẵn sàng đưa vào khai thác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:24:00+07:00",
+      "fetched": "2026-01-28T15:19:55.935293+07:00"
+    },
+    {
+      "id": "6479932e673f16f3f8ec5ff7cafa6405",
+      "title": "Toàn bộ Ban Chấp hành FAM đồng loạt từ chức giữa bê bối nhập tịch Malaysia",
+      "link": "https://thanhnien.vn/toan-bo-ban-chap-hanh-fam-dong-loat-tu-chuc-giua-be-boi-nhap-tich-malaysia-185260128135015011.htm",
+      "summary": "Giữa tâm điểm bê bối nhập tịch sai quy định và các cuộc điều tra quốc tế đang diễn ra, Liên đoàn Bóng đá Malaysia (FAM) bất ngờ công bố BCH nhiệm kỳ 2025-2029 đồng loạt từ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:24:00+07:00",
+      "fetched": "2026-01-28T15:19:55.935422+07:00"
+    },
+    {
+      "id": "d2464b164ad94eddb473ffbb5157b039",
+      "title": "Cô gái 23 tuổi cưới thầy giáo cũ",
+      "link": "https://vnexpress.net/co-gai-23-tuoi-cuoi-thay-giao-cu-5010914.html",
+      "summary": "Minea Pagni kết hôn với thầy giáo cũ Massimo hơn cô 40 tuổi, bất chấp những chỉ trích cho rằng cô \"đào mỏ\" và chênh lệch thế hệ quá lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:20:36+07:00",
+      "fetched": "2026-01-28T15:19:52.580647+07:00"
+    },
+    {
+      "id": "3a82b32b8e212cbd98a70d30994f7444",
+      "title": "Sống sót sau cơn ác mộng virus Nipah",
+      "link": "https://vnexpress.net/song-sot-sau-con-ac-mong-virus-nipah-5010801.html",
+      "summary": "Trong ký ức của Hoon Keong Goh, mùi tử khí bao trùm Sungai Nipah năm 1999 là thứ không bao giờ có thể gột rửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:20:13+07:00",
+      "fetched": "2026-01-28T15:19:52.580807+07:00"
+    },
+    {
+      "id": "1d351e8ab50d39f497d6223419673913",
+      "title": "Ôtô từ Trung Quốc ồ ạt vào Việt Nam 2025",
+      "link": "https://vnexpress.net/oto-tu-trung-quoc-o-at-vao-viet-nam-2025-5010906.html",
+      "summary": "Trong 2025, có gần 48.000 ôtô từ Trung Quốc được nhập về Việt Nam, tăng 53,9% so với 2024.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:20:00+07:00",
+      "fetched": "2026-01-28T15:19:52.580947+07:00"
+    },
+    {
+      "id": "74de1493e58119e30dc7e9218e045f27",
+      "title": "Lừa đảo 7,7 tỉ đồng của gần 100 người, lãnh 20 năm tù",
+      "link": "https://thanhnien.vn/lua-dao-77-ti-dong-cua-gan-100-nguoi-lanh-20-nam-tu-185260128112124795.htm",
+      "summary": "Dùng chiêu 'chạy' sổ đỏ, tách thửa đất, né nghĩa vụ quân sự để tạo lòng tin, Phạm Bá Tỉnh đã lừa đảo gần 100 người ở Gia Lai, chiếm đoạt hơn 7,7 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:17:00+07:00",
+      "fetched": "2026-01-28T15:19:55.935554+07:00"
+    },
+    {
+      "id": "62db11e1772bf1b99c85aae72f52904d",
+      "title": "Con gì không cần nấu cũng chín?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-con-gi-con-gi-khong-can-nau-cung-chin-5011041.html",
+      "summary": "Một câu hỏi nghe qua tưởng liên quan đến chuyện bếp núc, nhưng thực chất lại là màn chơi chữ đầy bất ngờ của tiếng Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:16:21+07:00",
+      "fetched": "2026-01-28T15:19:52.581084+07:00"
+    },
+    {
+      "id": "e892a1825ee2386bb77e88e641e19911",
+      "title": "Square Enix xác nhận thông tin quan trọng về phần ba của Final Fantasy 7 Remake",
+      "link": "https://thanhnien.vn/square-enix-xac-nhan-thong-tin-quan-trong-ve-phan-ba-cua-final-fantasy-7-remake-18526012813363799.htm",
+      "summary": "Final Fantasy 7 Remake phần ba hứa hẹn thay đổi nhiều về nội dung phụ, tên chính thức đã hoàn thiện nhưng thời điểm công bố vẫn chưa được xác định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:16:00+07:00",
+      "fetched": "2026-01-28T15:19:55.935680+07:00"
+    },
+    {
+      "id": "1df1e77970b5cecb6f7922c9239bf812",
+      "title": "'92% khách sạn dự kiến tăng giá phòng năm nay'",
+      "link": "https://vnexpress.net/92-khach-san-du-kien-tang-gia-phong-nam-nay-5010741.html",
+      "summary": "Hơn 92% nhà vận hành khách sạn tại Việt Nam dự kiến tăng giá phòng năm nay, với mức phổ biến từ 2-8%, trong bối cảnh nhu cầu du lịch phục hồi mạnh, theo JLL.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:15:25+07:00",
+      "fetched": "2026-01-28T15:19:52.581231+07:00"
+    },
+    {
+      "id": "b20c897089b416302fb31aa38d42b39e",
+      "title": "Khánh Hòa khánh thành trụ sở hành chính tập trung hơn 544 tỉ đồng",
+      "link": "https://thanhnien.vn/khanh-hoa-khanh-thanh-tru-so-hanh-chinh-tap-trung-hon-544-ti-dong-185260128123250169.htm",
+      "summary": "Công trình trụ sở làm việc Tỉnh ủy, Đoàn đại biểu Quốc hội và HĐND tỉnh, UBND tỉnh Khánh Hòa cao 8 tầng với trục thiết kế hướng về cột mốc chủ quyền Trường Sa chính thức đi vào hoạt động sau gần 2 năm thi công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:15:00+07:00",
+      "fetched": "2026-01-28T15:19:55.935805+07:00"
+    },
+    {
+      "id": "33bb24fd6cc073fc07e543df26174007",
+      "title": "Sếp bệnh viện 'từ chối' quà nhưng nhắn số tài khoản để doanh nghiệp chuyển tiền",
+      "link": "https://vnexpress.net/sep-benh-vien-tu-choi-qua-nhung-nhan-so-tai-khoan-de-doanh-nghiep-chuyen-tien-5010917.html",
+      "summary": "Cựu giám đốc Bệnh viện Y học cổ truyền Thái Nguyên nói \"không câu nệ\" quà cáp, nhưng lại yêu cầu công ty dược chi hoa hồng 10-30%, chuyển qua tài khoản của em gái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:13:43+07:00",
+      "fetched": "2026-01-28T15:19:52.581368+07:00"
+    },
+    {
+      "id": "e03b328cf6b5d80ca38f4bc3db80faa4",
+      "title": "Vì sao giới thượng lưu ngày càng ưu tiên các trung tâm wellness chuyên sâu?",
+      "link": "https://thanhnien.vn/vi-sao-gioi-thuong-luu-ngay-cang-uu-tien-cac-trung-tam-wellness-chuyen-sau-185260128142248187.htm",
+      "summary": "Tuổi thọ và sống khỏe đã thay thế các mặt hàng xa xỉ truyền thống, trở thành biểu tượng của địa vị. Thay vì những kỳ nghỉ xa hoa mang tính hưởng thụ, các nhân vật kín tiếng nhất tìm tới những trung tâm wellness chuyên sâu nhằm phục hồi thể chất, tái cân bằng tinh thần và duy trì hiệu suất sống dài h...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:13:00+07:00",
+      "fetched": "2026-01-28T15:19:55.935940+07:00"
+    },
+    {
+      "id": "90fcb78117d1608518122c95c3bc89ae",
+      "title": "Xe bồn chở xăng bốc cháy như quả cầu lửa giữa đường TP HCM",
+      "link": "https://vnexpress.net/xe-bon-cho-xang-boc-chay-nhu-qua-cau-lua-giua-duong-tp-hcm-5011031.html",
+      "summary": "Xe bồn chở xăng loại 19 khối đang chạy trên đường Dương Cát Lợi, xã Nhà Bè, bất ngờ bốc cháy kèm tiếng nổ lớn, tài xế kịp thoát ra ngoài, trưa 28/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:12:21+07:00",
+      "fetched": "2026-01-28T15:19:52.581498+07:00"
+    },
+    {
+      "id": "7a915dd21fdfec3a548aec3c476c809b",
+      "title": "Siêu xe Honda NSX hybrid của cảnh sát Nhật",
+      "link": "https://vnexpress.net/sieu-xe-honda-nsx-hybrid-cua-canh-sat-nhat-5010886.html",
+      "summary": "Sự kiện đầu năm của cảnh sát tỉnh Mie gây chú ý khi xuất hiện mẫu Honda NSX duy nhất thuộc thế hệ thứ hai là xe cảnh sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:02:41+07:00",
+      "fetched": "2026-01-28T15:19:52.581631+07:00"
+    },
+    {
+      "id": "d97ee9964f6c9a74c9247c3a9f45242a",
+      "title": "Hiện trường cháy xe bồn chở xăng lan sang nhà máy ở TP HCM",
+      "link": "https://vnexpress.net/hien-truong-chay-xe-bon-cho-xang-lan-sang-nha-may-o-tp-hcm-5011014.html",
+      "summary": "Xe bồn chở xăng trơ khung, một góc nhà máy kế bên hư hỏng nặng, hai ôtô bị thiệu rụi, sau vụ hoả hoạn trên đường Dương Cát Lợi, xã Nhà Bè, trưa 28/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:02:15+07:00",
+      "fetched": "2026-01-28T15:19:52.581762+07:00"
+    },
+    {
+      "id": "c0c3374cabf7d95cc292324c5d580c22",
+      "title": "Người đàn ông nguy kịch vì chữa viêm xoang theo 'bài thuốc' trên mạng",
+      "link": "https://vnexpress.net/nguoi-dan-ong-nguy-kich-vi-chua-viem-xoang-theo-bai-thuoc-tren-mang-5010949.html",
+      "summary": "HÀ NỘI - Người đàn ông 63 tuổi đốt hỗn hợp sọ dừa và sừng trâu để xông mũi theo hướng dẫn trên Facebook, dẫn đến ngộ độc khí CO nặng, tổn thương tim và bỏng mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:00:32+07:00",
+      "fetched": "2026-01-28T15:19:52.581898+07:00"
+    },
+    {
+      "id": "00cabb8a4713e004e6b446c241ea7a00",
+      "title": "Vingroup đào tạo miễn phí 20.000 nhân tài AI",
+      "link": "https://vnexpress.net/vingroup-dao-tao-mien-phi-20-000-nhan-tai-ai-5011026.html",
+      "summary": "Tập đoàn Vingroup triển khai chương trình đào tạo miễn phí cho 10.000-20.000 nhân sự có chuyên môn cao về AI, trả phụ cấp 8 triệu đồng mỗi tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:00:00+07:00",
+      "fetched": "2026-01-28T15:19:52.582032+07:00"
+    },
+    {
+      "id": "db47ca6f97dba343a452af2d1f6507dc",
+      "title": "Aldi dự kiến mở ba trung tâm phân phối tại Mỹ",
+      "link": "https://vnexpress.net/aldi-du-kien-mo-ba-trung-tam-phan-phoi-tai-my-5007288.html",
+      "summary": "Chuỗi bán lẻ thực phẩm Aldi lên kế hoạch mở ba trung tâm phân phối mới tại Mỹ trước 2029, nhằm phục vụ chiến lược mở rộng mạng lưới cửa hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T07:00:00+07:00",
+      "fetched": "2026-01-28T15:19:52.582162+07:00"
+    },
+    {
+      "id": "69c38a0ebabcb72d3e2312396ddaddaa",
+      "title": "Em biết nấu cơm nên anh không sợ thiếu những bữa ăn đủ đầy",
+      "link": "https://vnexpress.net/em-biet-nau-com-nen-anh-khong-so-thieu-nhung-bua-an-du-day-5008641.html",
+      "summary": "Em sống 1/2 cuộc đời logic, những tháng ngày về sau em muốn được ủ ấm trong tình cảm chân thành của anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T06:59:10+07:00",
+      "fetched": "2026-01-28T15:19:52.582514+07:00"
+    },
+    {
+      "id": "ab7775a31fb5f2c9e8d3bfb60e8cbfd2",
+      "title": "Lùi ôtô gây chết người trên phố ở Hà Nội",
+      "link": "https://vnexpress.net/lui-oto-gay-chet-nguoi-tren-pho-o-ha-noi-5011021.html",
+      "summary": "Ôtô điện 7 chỗ trong lúc lùi trên phố Khâm Thiên đã va chạm với hai người ngồi trên xe máy khiến một người chết, một người bị thương, trưa 28/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T06:58:48+07:00",
+      "fetched": "2026-01-28T15:19:52.582736+07:00"
+    },
+    {
+      "id": "b260bb2b517da88d68e47c9f0af818a1",
+      "title": "Ông lớn hạ tầng TP HCM muốn dùng hơn 18 tỷ USD xóa kẹt xe, ngập nước khu Hàng Xanh",
+      "link": "https://vnexpress.net/ong-lon-ha-tang-tp-hcm-muon-dung-hon-18-ty-usd-xoa-ket-xe-ngap-nuoc-khu-hang-xanh-5011028.html",
+      "summary": "CII đề xuất dự án giao thông công cộng với số vốn 18,5 tỷ USD nhằm giải quyết triệt để vấn đề kẹt xe và ngập nước tại Hàng Xanh, TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T06:58:15+07:00",
+      "fetched": "2026-01-28T15:19:52.582945+07:00"
+    },
+    {
+      "id": "b260bb2b517da88d68e47c9f0af818a1",
+      "title": "Ông lớn hạ tầng TP HCM muốn dùng hơn 18 tỷ USD xóa kẹt xe, ngập nước khu Hàng Xanh",
+      "link": "https://vnexpress.net/ong-lon-ha-tang-tp-hcm-muon-dung-hon-18-ty-usd-xoa-ket-xe-ngap-nuoc-khu-hang-xanh-5011028.html",
+      "summary": "CII đề xuất dự án giao thông công cộng với số vốn 18,5 tỷ USD nhằm giải quyết triệt để vấn đề kẹt xe và ngập nước tại Hàng Xanh, TP HCM.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-28T06:58:15+07:00",
+      "fetched": "2026-01-28T15:19:59.733800+07:00"
+    },
+    {
+      "id": "1a269d681c3e86b573fa0cdfac47e9c4",
+      "title": "Phim về bà Melania bán được một vé trong suất chiếu đầu ở Anh",
+      "link": "https://vnexpress.net/phim-ve-ba-melania-ban-duoc-mot-ve-trong-suat-chieu-dau-o-anh-5010953.html",
+      "summary": "Bộ phim tài liệu về Đệ nhất phu nhân Mỹ Melania chỉ bán được một vé cho suất chiếu đầu tiên tại rạp Vue Islington ở London, Anh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-28T06:51:03+07:00",
+      "fetched": "2026-01-28T15:19:58.236088+07:00"
+    },
+    {
+      "id": "2c0fd10ad9de48025c8bf75255bfce01",
+      "title": "Thêm một ngân hàng có tài sản vượt 1 triệu tỷ đồng",
+      "link": "https://vnexpress.net/them-mot-ngan-hang-co-tai-san-vuot-1-trieu-ty-dong-5011008.html",
+      "summary": "ACB là nhà băng thứ 8 có tổng tài sản vượt 1 triệu tỷ đồng, bên cạnh 4 ngân hàng quốc doanh và 3 nhà băng tư nhân MB, VPBank, Techcombank.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-28T06:48:47+07:00",
+      "fetched": "2026-01-28T15:19:59.735049+07:00"
     },
     {
       "id": "d0ea62a5e0d44860aeaadd3b91609e4e",
@@ -1391,6 +1901,16 @@ window.newsData_2026_01_28 = {
       "category": "Kinh doanh",
       "published": "2026-01-28T02:32:32+07:00",
       "fetched": "2026-01-28T10:28:11.745787+07:00"
+    },
+    {
+      "id": "100351fd1ef0cb9b345054ed666dad15",
+      "title": "Mỗi lượng vàng tăng 5 triệu đồng",
+      "link": "https://vnexpress.net/moi-luong-vang-tang-5-trieu-dong-5010869.html",
+      "summary": "Giá vàng miếng và nhẫn trơn chiều nay tiếp tục đi lên, vượt 182 triệu đồng mỗi lượng, ghi nhận mức tăng 5 triệu đồng trong ngày.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-28T02:32:32+07:00",
+      "fetched": "2026-01-28T15:19:59.734244+07:00"
     },
     {
       "id": "0525181196c01baacf7d56007a8d63a1",
