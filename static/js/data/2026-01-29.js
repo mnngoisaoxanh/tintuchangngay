@@ -1,6 +1,6 @@
 window.newsData_2026_01_29 = {
   "date": "2026-01-29",
-  "lastUpdated": "2026-01-29T03:19:44.099196+07:00",
+  "lastUpdated": "2026-01-29T05:17:53.661149+07:00",
   "articles": [
     {
       "id": "0c1561eafdfa078806d224567932f988",
@@ -151,6 +151,206 @@ window.newsData_2026_01_29 = {
       "category": "Tổng hợp",
       "published": "2026-01-29T01:26:06.041431+07:00",
       "fetched": "2026-01-29T01:26:06.041645+07:00"
+    },
+    {
+      "id": "5fa7533e57bb3247dac1ab4a189cb9c0",
+      "title": "Vì sao TP.HCM muốn siết nghĩa vụ nhà ở xã hội?",
+      "link": "https://thanhnien.vn/vi-sao-tphcm-muon-siet-nghia-vu-nha-o-xa-hoi-185260128221922489.htm",
+      "summary": "Quy định dự án thương mại phải dành 20% quỹ đất cho nhà ở xã hội bất ngờ nóng lên khi lãnh đạo Sở Xây dựng mới đây cho biết đang tham mưu lãnh đạo TP.HCM siết lại quy định này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T22:17:00+07:00",
+      "fetched": "2026-01-29T05:17:45.013142+07:00"
+    },
+    {
+      "id": "aa5cc74fd69099936f63e34b474288ed",
+      "title": "Tử vi ngày 29 tháng 1: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-29-thang-1-con-giap-nao-may-man-hom-nay-185260128231152012.htm",
+      "summary": "Tử vi ngày 29 tháng 1 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T22:15:00+07:00",
+      "fetched": "2026-01-29T05:17:45.013290+07:00"
+    },
+    {
+      "id": "0dbdd3c05c7d3b7ffbcd69f89fe8bd8f",
+      "title": "Mỹ bắt đầu gỡ phong tỏa nguồn tiền của Venezuela",
+      "link": "https://thanhnien.vn/my-bat-dau-go-phong-toa-nguon-tien-cua-venezuela-185260128213824552.htm",
+      "summary": "Tổng thống lâm thời Venezuela Delcy Rodriguez ngày 27.1 thông báo Mỹ đã bắt đầu gỡ phong tỏa những nguồn tiền của Venezuela bị đóng băng theo lệnh cấm vận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T22:15:00+07:00",
+      "fetched": "2026-01-29T05:17:45.013428+07:00"
+    },
+    {
+      "id": "27d763f7145a1b4af4d17a7ce4c40bd6",
+      "title": "Viện nghiên cứu Vũ Hán nêu tên loại thuốc có thể ngăn chặn virus Nipah",
+      "link": "https://thanhnien.vn/vien-nghien-cuu-vu-han-neu-ten-loai-thuoc-co-the-ngan-chan-virus-nipah-185260128222139984.htm",
+      "summary": "Các nhà nghiên cứu từ Viện Virus học Vũ Hán (Trung Quốc) cho biết một phương pháp điều trị Covid-19 có thể là lựa chọn ‘sẵn có’ để đối phó nguy cơ bùng phát virus Nipah.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T22:04:00+07:00",
+      "fetched": "2026-01-29T05:17:45.013562+07:00"
+    },
+    {
+      "id": "2b11318a87c2d06dd71b830fe17dd54e",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 29.1.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2912026-185260128223724533.htm",
+      "summary": "Tin tức Thưởng tết nhiều hơn nhờ giảm thuế; Tuyển sinh ĐH 2026: Xét học bạ kèm điều kiện, điều chỉnh điểm cộng; Hiện thực ảm đạm của nền kinh tế Trung Quốc... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 29.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T22:00:00+07:00",
+      "fetched": "2026-01-29T05:17:45.013709+07:00"
+    },
+    {
+      "id": "94e076fcf2bd12908c36f13f5898b935",
+      "title": "Israel - Mỹ áp đặt điều kiện tại Trung Đông",
+      "link": "https://thanhnien.vn/israel-my-ap-dat-dieu-kien-tai-trung-dong-185260128211913013.htm",
+      "summary": "Trong khi Israel đưa ra điều kiện đối với việc thực thi kế hoạch hòa bình tại Dải Gaza, Mỹ tiếp tục dùng quân sự để buộc Iran chấp nhận thỏa thuận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T22:00:00+07:00",
+      "fetched": "2026-01-29T05:17:45.013848+07:00"
+    },
+    {
+      "id": "7925ae1313263d8197257ff5716cd391",
+      "title": "Vì sao não bộ người trẻ đang 'già' trước tuổi?",
+      "link": "https://thanhnien.vn/vi-sao-nao-bo-nguoi-tre-dang-gia-truoc-tuoi-185260128143834383.htm",
+      "summary": "Suy giảm trí nhớ và khả năng tập trung không còn là câu chuyện của tuổi già. Thực tế cho thấy, người trẻ, đặc biệt là dân văn phòng, người thường xuyên thức khuya, căng thẳng và sử dụng thiết bị số liên tục đang đối mặt nguy cơ não bộ \"lão hóa\" sớm - một vấn đề âm thầm nhưng ít được chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T22:00:00+07:00",
+      "fetched": "2026-01-29T05:17:45.013977+07:00"
+    },
+    {
+      "id": "846e7af08ec4af0ca799778a6c5e333f",
+      "title": "Lời đe dọa tăng thuế của ông Trump phủ bóng liên minh Mỹ - Hàn",
+      "link": "https://vnexpress.net/loi-de-doa-tang-thue-cua-ong-trump-phu-bong-lien-minh-my-han-5010867.html",
+      "summary": "Từ thỏa thuận tưởng chừng đã chốt, liên minh Mỹ - Hàn nhanh chóng rơi lại vòng xoáy bất ổn khi ông Trump dọa tăng thuế với Seoul vì chậm thực thi cam kết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-28T22:00:00+07:00",
+      "fetched": "2026-01-29T05:17:48.179635+07:00"
+    },
+    {
+      "id": "b66e6d4c8ef946d7352ab1c7cef54a7e",
+      "title": "'Kỳ lân công nghệ' hết hiếm",
+      "link": "https://vnexpress.net/ky-lan-cong-nghe-het-hiem-5010803.html",
+      "summary": "Mốc một tỷ USD để định giá một startup thành công, gọi là \"kỳ lân\", đang trở nên lỗi thời trong nửa thập kỷ qua khi công nghệ bùng nổ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-28T22:00:00+07:00",
+      "fetched": "2026-01-29T05:17:52.648411+07:00"
+    },
+    {
+      "id": "490130a5166075697296b3efc006f9f7",
+      "title": "Phát hiện thú vị về Tết Nguyên đán 2026: Mùng 1 và mùng 2 tiết khí khác nhau, vì sao?",
+      "link": "https://thanhnien.vn/phat-hien-thu-vi-ve-tet-nguyen-dan-2026-mung-1-va-mung-2-tiet-khi-khac-nhau-vi-sao-18526012812171682.htm",
+      "summary": "Nếu để ý, người Việt sẽ nhận ra mùng 1 và mùng 2 Tết Nguyên đán Bính Ngọ 2026 có 2 tiết khí khác nhau. Vì sao vậy?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T21:50:00+07:00",
+      "fetched": "2026-01-29T05:17:45.014108+07:00"
+    },
+    {
+      "id": "aa512715268d09afdb8e073f081eeca8",
+      "title": "'Siêu phường' nhiều khu công nghiệp nhất: Giấc mơ an cư còn xa vời",
+      "link": "https://thanhnien.vn/sieu-phuong-nhieu-khu-cong-nghiep-nhat-giac-mo-an-cu-con-xa-voi-185260124102510871.htm",
+      "summary": "Sau sáp nhập vào TP.HCM, 'siêu phường' Bình Dương có 7 khu công nghiệp, nhiều nhất cả nước, nhưng giấc mơ an cư của công nhân vẫn còn ngoài tầm với.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T21:44:00+07:00",
+      "fetched": "2026-01-29T05:17:45.014237+07:00"
+    },
+    {
+      "id": "9880bbc0397f614f13ef57cbcebbe0b5",
+      "title": "Nghề đánh bóng lư đồng ở TP.HCM: 'Ngẩng đầu lên thì đã chiều 30 tết'",
+      "link": "https://thanhnien.vn/nghe-danh-bong-lu-dong-o-tphcm-ngang-dau-len-thi-da-chieu-30-tet-185251125153806518.htm",
+      "summary": "Hơn 30 năm qua, ông Trần Thành Tiến ở phường Gia Định, TP.HCM vẫn miệt mài, gắn bó với nghề đánh bóng lư đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T21:38:00+07:00",
+      "fetched": "2026-01-29T05:17:45.014362+07:00"
+    },
+    {
+      "id": "746ccb271a450f9998eec13309b6eaaf",
+      "title": "Chiến sự Ukraine ngày 1.435: Nga nói sẵn sàng đón ông Zelensky đến Moscow gặp ông Putin",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1435-nga-noi-san-sang-don-ong-zelensky-den-moscow-gap-ong-putin-185260128212847375.htm",
+      "summary": "Trong khi có thông tin Mỹ muốn Ukraine nhượng bộ trước khi xác nhận đảm bảo an ninh sau khi đạt được hòa đàm, Điện Kremlin lên tiếng về khả năng tổ chức cuộc gặp giữa hai nhà lãnh đạo Nga và Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T21:32:00+07:00",
+      "fetched": "2026-01-29T05:17:45.014489+07:00"
+    },
+    {
+      "id": "292cd7538698ab01d632042156de0811",
+      "title": "Toyota hé lộ mẫu xe mới có thể là SUV 7 chỗ",
+      "link": "https://vnexpress.net/toyota-he-lo-mau-xe-moi-co-the-la-suv-7-cho-5010828.html",
+      "summary": "Hình ảnh ban đầu chưa rõ ràng về một chiếc Toyota mới làm dấy lên đồn đoán về mẫu SUV chiến lược với ba hàng ghế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T21:00:00+07:00",
+      "fetched": "2026-01-29T05:17:41.702714+07:00"
+    },
+    {
+      "id": "43645c4bd2f94c0266085d174b809f5e",
+      "title": "Cận tết, mua xăng dầu trên cao tốc gặp khó",
+      "link": "https://thanhnien.vn/can-tet-mua-xang-dau-tren-cao-toc-gap-kho-185260128225718248.htm",
+      "summary": "Thông tin 2 cây xăng trên cao tốc TP.HCM - Long Thành - Dầu Giây ngưng bán khiến nhiều tài xế phải đi vòng ra ngoài quốc lộ để tiếp nhiên liệu mới quay trở lại tiếp tục hành trình gây bất tiện rất lớn. Vấn đề là việc tạm ngưng này chưa biết khi nào được mở bán lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T21:00:00+07:00",
+      "fetched": "2026-01-29T05:17:45.014615+07:00"
+    },
+    {
+      "id": "1761137bf64b62ccab6b2139ad090e67",
+      "title": "Các dự án phục vụ APEC phải xử lý theo tinh thần quốc gia",
+      "link": "https://thanhnien.vn/cac-du-an-phuc-vu-apec-phai-xu-ly-theo-tinh-than-quoc-gia-185260128225253154.htm",
+      "summary": "Dự lễ khởi công 2 siêu đô thị hỗn hợp \"đinh\" thuộc tổ hợp dự án phục vụ APEC 2027 tại Phú Quốc hôm qua (28.1), Thủ tướng Phạm Minh Chính nhấn mạnh: Đây là các công trình quốc gia nên phải xử lý mọi vướng mắc theo tinh thần quốc gia, \"tuyệt đối không lãng phí một ngày, không chậm một tuần và không để...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T21:00:00+07:00",
+      "fetched": "2026-01-29T05:17:45.014757+07:00"
+    },
+    {
+      "id": "8aaabd08cd5daba45ed536f988634ca8",
+      "title": "Thưởng tết nhiều hơn nhờ giảm thuế",
+      "link": "https://thanhnien.vn/thuong-tet-nhieu-hon-nho-giam-thue-185260128222614326.htm",
+      "summary": "Việc áp mức giảm trừ gia cảnh và biểu thuế lũy tiến mới giúp khoản lương, thưởng tết của người lao động chi trả trong tháng 1 này nhiều hơn hẳn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T21:00:00+07:00",
+      "fetched": "2026-01-29T05:17:45.014886+07:00"
+    },
+    {
+      "id": "41e1212732c2b6dea6b45eeba62f9be8",
+      "title": "Gỡ 'nút thắt' tính tiền sử dụng đất",
+      "link": "https://thanhnien.vn/go-nut-that-tinh-tien-su-dung-dat-185260128205427729.htm",
+      "summary": "Trong bối cảnh nhiều dự án bất động sản vẫn vướng khâu xác định tiền sử dụng đất, tiền sử dụng đất bổ sung, kiến nghị áp dụng bảng giá đất kết hợp hệ số K để tính nghĩa vụ tài chính nhận được sự quan tâm lớn từ các địa phương và doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T21:00:00+07:00",
+      "fetched": "2026-01-29T05:17:45.015016+07:00"
+    },
+    {
+      "id": "0483ff6b6883d5e4dd078eda9a272512",
+      "title": "Dịch sởi bùng phát kỷ lục ở Nam Carolina khi tỷ lệ tiêm chủng giảm",
+      "link": "https://vnexpress.net/dich-soi-bung-phat-ky-luc-o-nam-carolina-khi-ty-le-tiem-chung-giam-5011155.html",
+      "summary": "Gần 800 ca mắc sởi mới tại Nam Carolina làm dấy lên lo ngại về làn sóng bài vaccine khiến căn bệnh từng bị xóa sổ bùng phát trở lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T20:00:00+07:00",
+      "fetched": "2026-01-29T05:17:41.702878+07:00"
+    },
+    {
+      "id": "0483ff6b6883d5e4dd078eda9a272512",
+      "title": "Dịch sởi bùng phát kỷ lục ở Nam Carolina khi tỷ lệ tiêm chủng giảm",
+      "link": "https://vnexpress.net/dich-soi-bung-phat-ky-luc-o-nam-carolina-khi-ty-le-tiem-chung-giam-5011155.html",
+      "summary": "Gần 800 ca mắc sởi mới tại Nam Carolina làm dấy lên lo ngại về làn sóng bài vaccine khiến căn bệnh từng bị xóa sổ bùng phát trở lại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-28T20:00:00+07:00",
+      "fetched": "2026-01-29T05:17:48.179818+07:00"
     },
     {
       "id": "dbf5e3520b842db2ec744b04ec5270a5",
