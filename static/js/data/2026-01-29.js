@@ -1,7 +1,157 @@
 window.newsData_2026_01_29 = {
   "date": "2026-01-29",
-  "lastUpdated": "2026-01-29T08:11:43.207158+07:00",
+  "lastUpdated": "2026-01-29T11:00:19.155912+07:00",
   "articles": [
+    {
+      "id": "8dc0850131d43d411d7a84a6f5352e15",
+      "title": "Việt Nam - EU hướng đến tầm vóc mới",
+      "link": "https://tuoitre.vn/viet-nam-eu-huong-den-tam-voc-moi-20260129072650389.htm",
+      "summary": "Chủ tịch Hội đồng châu Âu António Costa bắt đầu chuyến thăm chính thức Việt Nam, đánh dấu bước ngoặt quan trọng khi hai bên hướng tới nâng cấp quan hệ lên Đối tác chiến lược toàn diện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.982635+07:00",
+      "fetched": "2026-01-29T11:00:12.982767+07:00"
+    },
+    {
+      "id": "eea554b7138ffa10b89ff17e9555c327",
+      "title": "Ford Bronco sắp vào Việt Nam: To cỡ Everest, 2 tùy chọn máy điện, có bản chạy Hà Nội - Nha Trang",
+      "link": "https://tuoitre.vn/ford-bronco-sap-vao-viet-nam-to-co-everest-2-tuy-chon-may-dien-co-ban-chay-ha-noi-nha-trang-20260129082143613.htm",
+      "summary": "Mẫu Ford Bronco vừa được đăng ký bảo hộ tại Việt Nam là phiên bản mới ra mắt tại Trung Quốc, sử dụng khung gầm liền khối (unibody), có 2 tùy chọn hệ truyền động gồm thuần điện và điện mở rộng quãng đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.982511+07:00",
+      "fetched": "2026-01-29T11:00:12.982624+07:00"
+    },
+    {
+      "id": "e9646c7c07dff54bc3b21b10f40b8a7d",
+      "title": "Sức mua tăng, sản phẩm OCOP Đà Nẵng đẩy mạnh sản xuất phục vụ thị trường Tết",
+      "link": "https://tuoitre.vn/suc-mua-tang-san-pham-ocop-da-nang-day-manh-san-xuat-phuc-vu-thi-truong-tet-20260128190519666.htm",
+      "summary": "Gần Tết Nguyên đán Bính Ngọ 2026, các làng nghề truyền thống, sản phẩm OCOP tại TP Đà Nẵng tăng tốc sản xuất để kịp thời đáp ứng nhu cầu của thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.982386+07:00",
+      "fetched": "2026-01-29T11:00:12.982500+07:00"
+    },
+    {
+      "id": "eff94db69aee412d52ac7c08dbba573b",
+      "title": "'Nói ít - làm nhiều - làm đến cùng': Chuẩn mực hành động mới của hệ thống chính trị",
+      "link": "https://tuoitre.vn/noi-it-lam-nhieu-lam-den-cung-chuan-muc-hanh-dong-moi-cua-he-thong-chinh-tri-20260129082704482.htm",
+      "summary": "Trao đổi với Tuổi Trẻ, TS Nguyễn Sĩ  Dũng - nguyên Phó chủ nhiệm Văn phòng Quốc hội - cho rằng thông điệp \"nói ít - làm nhiều - làm đến cùng\" mà Tổng Bí thư Tô Lâm nhấn mạnh mang ý nghĩa rất đặc biệt trong giai đoạn phát triển mới của đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.982257+07:00",
+      "fetched": "2026-01-29T11:00:12.982375+07:00"
+    },
+    {
+      "id": "795a641421be196d565aa4949e43b328",
+      "title": "Chúc Tết online, bày 'bàn trà' lên mạng có làm Tết thêm phai nhạt?",
+      "link": "https://tuoitre.vn/chuc-tet-online-bay-ban-tra-len-mang-co-lam-tet-them-phai-nhat-20260114123247241.htm",
+      "summary": "Thời đại xoay chuyển, Tết ngày nay gắn với nhiều hình thức mới, thay đổi mới, bởi… lên mạng là thấy Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.982109+07:00",
+      "fetched": "2026-01-29T11:00:12.982241+07:00"
+    },
+    {
+      "id": "937cbfee143dc81fd0c344481d00b658",
+      "title": "'Đánh thức' tiềm năng du lịch Cần Giờ",
+      "link": "https://tuoitre.vn/danh-thuc-tiem-nang-du-lich-can-gio-20260128211616751.htm",
+      "summary": "Nằm ngay 'siêu đô thị' TP.HCM, cách trung tâm không quá xa, Cần Giờ sở hữu nhiều lợi thế hiếm địa phương nào có được để phát triển kinh tế du lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.981980+07:00",
+      "fetched": "2026-01-29T11:00:12.982098+07:00"
+    },
+    {
+      "id": "433762ba01ec2cd3a7e5e01d8605d400",
+      "title": "Để người tiêu dùng có thực phẩm sạch",
+      "link": "https://tuoitre.vn/de-nguoi-tieu-dung-co-thuc-pham-sach-20260129081534475.htm",
+      "summary": "Vụ ngâm ốc bươu vào hóa chất vừa bị phát hiện khiến dư luận bị chấn động rất mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.981856+07:00",
+      "fetched": "2026-01-29T11:00:12.981968+07:00"
+    },
+    {
+      "id": "a0b438ec0f646c81ddde781dfcd893b2",
+      "title": "Bộ Giáo dục lý giải việc bỏ xét học bạ độc lập, giảm điểm thưởng IELTS một nửa",
+      "link": "https://tuoitre.vn/bo-giao-duc-ly-giai-viec-bo-xet-hoc-ba-doc-lap-giam-diem-thuong-ielts-mot-nua-20260129084836322.htm",
+      "summary": "Bộ Giáo dục và Đào tạo vừa công bố dự thảo quy chế tuyển sinh đại học 2026 với nhiều thay đổi lớn như: bỏ xét học bạ độc lập, siết số lượng nguyện vọng xét tuyển, giảm điểm thưởng IELTS...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.981731+07:00",
+      "fetched": "2026-01-29T11:00:12.981845+07:00"
+    },
+    {
+      "id": "85a8900d8abec0da1db8dcaa20cdb053",
+      "title": "Phim tài liệu về Đệ nhất phu nhân Mỹ Melania Trump ế ẩm",
+      "link": "https://tuoitre.vn/phim-tai-lieu-ve-de-nhat-phu-nhan-my-melania-trump-e-am-20260129090643289.htm",
+      "summary": "Dù Tổng thống Donald Trump tuyên bố bộ phim tài liệu về bà Melania Trump đang 'cháy vé', nhưng các số liệu bán vé và dự báo phòng vé lại cho thấy tình hình không khả quan như vậy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.981605+07:00",
+      "fetched": "2026-01-29T11:00:12.981719+07:00"
+    },
+    {
+      "id": "d2d0ba01d79ffad1ae93a86d3603037a",
+      "title": "Phối cảnh cầu Long Hưng với thiết kế hình 'bảo kiếm' nối Đồng Nai và TP.HCM",
+      "link": "https://tuoitre.vn/phoi-canh-cau-long-hung-voi-thiet-ke-hinh-bao-kiem-noi-dong-nai-va-tp-hcm-2026012909235661.htm",
+      "summary": "Phối cảnh cầu Long Hưng kết nối TP.HCM với Đồng Nai được thiết kế theo phương án trụ tháp hình bảo kiếm vươn thẳng lên bầu trời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.981476+07:00",
+      "fetched": "2026-01-29T11:00:12.981594+07:00"
+    },
+    {
+      "id": "8dc68b0f8033e92de90b6a6afbb6985e",
+      "title": "Thủ môn Benfica đi vào lịch sử sau bàn thắng không tưởng vào lưới Real Madrid",
+      "link": "https://tuoitre.vn/thu-mon-benfica-di-vao-lich-su-sau-ban-thang-khong-tuong-vao-luoi-real-madrid-20260129092244258.htm",
+      "summary": "Kịch bản điên rồ đã xảy ra trong loạt trận cuối Champions League rạng sáng 29-1 khi thủ môn Trubin (Benfica) bỏ khung thành lao lên ghi bàn thắng vàng ở phút bù giờ, chính thức ghi tên mình vào lịch sử với khoảnh khắc không tưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.981342+07:00",
+      "fetched": "2026-01-29T11:00:12.981461+07:00"
+    },
+    {
+      "id": "994c3d342eb03848abc4d53b70501562",
+      "title": "Vụ xử 7 cầu thủ nhập tịch trái phép của Malaysia: Hãy bình tĩnh với Tòa án Trọng tài thể thao",
+      "link": "https://tuoitre.vn/vu-xu-7-cau-thu-nhap-tich-trai-phep-cua-malaysia-hay-binh-tinh-voi-toa-an-trong-tai-the-thao-20260129092845538.htm",
+      "summary": "Đông đảo người hâm mộ Việt Nam, thậm chí là châu lục, đã tỏ thái độ bất bình khi Tòa án Trọng tài thể thao quốc tế (CAS) công bố quyết định tạm đình chỉ án cấm thi đấu mà FIFA áp đặt lên 7 cầu thủ nhập tịch trái phép của Malaysia, vào khuya 26-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.981203+07:00",
+      "fetched": "2026-01-29T11:00:12.981329+07:00"
+    },
+    {
+      "id": "bc6df9dd52cc69a4b7387e2a12b40b8f",
+      "title": "Hành động fair-play và vận may của Djokovic",
+      "link": "https://tuoitre.vn/hanh-dong-fair-play-va-van-may-cua-djokovic-20260129093438886.htm",
+      "summary": "Giành quyền đi tiếp sau khi Lorenzo Musetti phải bỏ cuộc vì chấn thương ở trận tứ kết, nhưng điều khiến nhiều người khâm phục chính là hành động fair-play của Djokovic trong thời điểm anh cận kề thất bại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.981048+07:00",
+      "fetched": "2026-01-29T11:00:12.981189+07:00"
+    },
+    {
+      "id": "93203abe4bfa5b232ced5abf50de72c2",
+      "title": "'Tối hậu thư' gia đình Beckham gửi đến con trai Brooklyn",
+      "link": "https://tuoitre.vn/toi-hau-thu-gia-dinh-beckham-gui-den-con-trai-brooklyn-20260129094809308.htm",
+      "summary": "Mâu thuẫn trong gia đình Beckham tiếp tục 'nóng' lên khi một nguồn thân cận tiết lộ điều kiện hàn gắn gây tranh cãi từ David và Victoria Beckham dành cho con trai cả Brooklyn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.980904+07:00",
+      "fetched": "2026-01-29T11:00:12.981035+07:00"
+    },
+    {
+      "id": "53dfc1471a0e0d0278219a9cd800bc50",
+      "title": "Sẵn sàng hở bạo để lên xu hướng",
+      "link": "https://tuoitre.vn/san-sang-ho-bao-de-len-xu-huong-20260129094747811.htm",
+      "summary": "Bắt trend nhạy cảm, ăn mặc mát mẻ thậm chí phản cảm chỉ để video được đề xuất. Đó không còn là hiện tượng hiếm gặp trên các nền tảng mạng xã hội, đặc biệt là TikTok.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T11:00:12.980680+07:00",
+      "fetched": "2026-01-29T11:00:12.980889+07:00"
+    },
     {
       "id": "43498d48bbcc5be8fdc11bba1e8ab947",
       "title": "Thủ môn ghi bàn phút cuối giúp Benfica hạ Real Madrid, một trận đấu điên rồ",
@@ -151,6 +301,386 @@ window.newsData_2026_01_29 = {
       "category": "Tổng hợp",
       "published": "2026-01-29T08:11:35.488773+07:00",
       "fetched": "2026-01-29T08:11:35.488997+07:00"
+    },
+    {
+      "id": "56623f5aba6eb8f9f39563ad68d8dbd6",
+      "title": "M.U làm sống lại cuộc đua vô địch",
+      "link": "https://thanhnien.vn/mu-lam-song-lai-cuoc-dua-vo-dich-185260128232447998.htm",
+      "summary": "Trong một mùa bóng có lẽ là kỳ lạ nhất của giải Ngoại hạng Anh, bất ngờ xảy ra gần như ở mọi vòng đấu. Và bây giờ, bỗng nhiên bùng nổ... hàng loạt cuộc đua hấp dẫn ở khu vực đầu bảng, rất khó khẳng định điều gì.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:00:00+07:00",
+      "fetched": "2026-01-29T11:00:11.990232+07:00"
+    },
+    {
+      "id": "e4b937163c11cb47b58bc630d323cae4",
+      "title": "Tối ưu cấp số, tua máy thế nào để ô tô tiết kiệm nhiên liệu?",
+      "link": "https://thanhnien.vn/toi-uu-cap-so-tua-may-the-nao-de-o-to-tiet-kiem-nhien-lieu-185260127121126378.htm",
+      "summary": "Kỹ năng chuyển số, kết hợp duy trì vòng tua máy ổn định là cách hiệu quả để giúp ô tô vận hành mượt mà, tiết kiệm nhiên liệu, đặc biệt là khi đi đường dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:53:00+07:00",
+      "fetched": "2026-01-29T11:00:11.990405+07:00"
+    },
+    {
+      "id": "71a50bc20aacd080dba683001c7fff56",
+      "title": "Cơ hội vàng trải nghiệm văn hóa Liverpool tại TP.HCM",
+      "link": "https://thanhnien.vn/co-hoi-vang-trai-nghiem-van-hoa-liverpool-tai-tphcm-185260129102814208.htm",
+      "summary": "Trong vòng 2 ngày 28 và 29.1, Hội đồng TP. Liverpool của Anh tổ chức Lễ hội Văn hóa Liverpool nhân dịp kỷ niệm quan hệ thành phố kết nghĩa giữa Liverpool và TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:51:00+07:00",
+      "fetched": "2026-01-29T11:00:11.990563+07:00"
+    },
+    {
+      "id": "a09a5b905b75494eea65e41b232f93d5",
+      "title": "Galaxy S26 và chiến lược phát triển ổn định của Samsung",
+      "link": "https://thanhnien.vn/galaxy-s26-va-chien-luoc-phat-trien-on-dinh-cua-samsung-185260122111613541.htm",
+      "summary": "Những thông tin rò rỉ xoay quanh Galaxy S26 đang thu hút sự chú ý của giới công nghệ, không phải vì các thay đổi lớn mà là cách làm của Samsung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:38:00+07:00",
+      "fetched": "2026-01-29T11:00:11.990714+07:00"
+    },
+    {
+      "id": "6f31fbb367a0bed366ed73971631ea25",
+      "title": "Lãnh đạo an ninh mạng Mỹ tải tài liệu nhạy cảm lên ChatGPT",
+      "link": "https://thanhnien.vn/lanh-dao-an-ninh-mang-my-tai-tai-lieu-nhay-cam-len-chatgpt-185260129103158916.htm",
+      "summary": "Lãnh đạo cơ quan an ninh mạng Mỹ được cho là đã tải những tài liệu nhạy cảm lên phiên bản ChatGPT công cộng, dẫn đến cuộc điều tra nội bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:34:00+07:00",
+      "fetched": "2026-01-29T11:00:11.990863+07:00"
+    },
+    {
+      "id": "2ae5d99f5b640a58e766bdaa0186dbde",
+      "title": "Sữa rửa mặt Trioderma có tốt không mà team da dầu, da mụn ‘mua đi mua lại’?",
+      "link": "https://thanhnien.vn/sua-rua-mat-trioderma-co-tot-khong-ma-team-da-dau-da-mun-mua-di-mua-lai-185260129105104879.htm",
+      "summary": "Da dầu mụn luôn là 'bài toán khó' khi chỉ cần chọn sai sữa rửa mặt, tình trạng bí tắc - viêm sưng có thể nặng hơn từng ngày. Giữa vô vàn sản phẩm trên thị trường, sữa rửa mặt Trioderma Acne Deep Cleanser lại được cộng đồng da dầu mụn truyền tai nhau 'dùng là mua lại'. Vậy điều gì khiến sản phẩm thuầ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:32:00+07:00",
+      "fetched": "2026-01-29T11:00:11.991013+07:00"
+    },
+    {
+      "id": "373d416eac397e23836051272ca079e4",
+      "title": "Guardiola cảm ơn Mourinho",
+      "link": "https://vnexpress.net/guardiola-cam-on-mourinho-5011319.html",
+      "summary": "Pep Guardiola gửi lời cảm ơn Jose Mourinho sau khi Man City giành vé vào vòng 1/8 Champions League ở lượt cuối vòng bảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:31:03+07:00",
+      "fetched": "2026-01-29T11:00:09.282696+07:00"
+    },
+    {
+      "id": "373d416eac397e23836051272ca079e4",
+      "title": "Guardiola cảm ơn Mourinho",
+      "link": "https://vnexpress.net/guardiola-cam-on-mourinho-5011319.html",
+      "summary": "Pep Guardiola gửi lời cảm ơn Jose Mourinho sau khi Man City giành vé vào vòng 1/8 Champions League ở lượt cuối vòng bảng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T03:31:03+07:00",
+      "fetched": "2026-01-29T11:00:19.150587+07:00"
+    },
+    {
+      "id": "f81cc25d43aab4cd3d74d2fc7cdc9b12",
+      "title": "Giáp tết, dựng rào chắn làm hầm chui quốc lộ 13 có ảnh hưởng đến dân?",
+      "link": "https://thanhnien.vn/giap-tet-dung-rao-chan-lam-ham-chui-quoc-lo-13-co-anh-huong-den-dan-185260129102032219.htm",
+      "summary": "Nhà thầu thi công đang dựng rào chắn thi công hầm chui trên đường Phạm Ngọc Thạch băng qua quốc lộ 13 (phường Thủ Dầu Một và phường Phú Lợi, TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:29:00+07:00",
+      "fetched": "2026-01-29T11:00:11.991181+07:00"
+    },
+    {
+      "id": "0256ed95f0b0c92f459d3a7b441c83d8",
+      "title": "'Nguyên tắc sống còn: không đứng chờ trước, sau ôtô'",
+      "link": "https://vnexpress.net/nguyen-tac-song-con-khong-dung-cho-truoc-sau-oto-5011330.html",
+      "summary": "Có một thói quen nguy hiểm nhưng rất phổ biến là nhiều người quá chủ quan khi đứng trước hoặc sau ôtô, kể cả khi xe đang dừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:28:56+07:00",
+      "fetched": "2026-01-29T11:00:09.282874+07:00"
+    },
+    {
+      "id": "6a4037b1e2acac6c4e13fc79f2b420a1",
+      "title": "Buộc thôi việc giảng viên Sư phạm dùng bằng tiến sĩ giả",
+      "link": "https://vnexpress.net/buoc-thoi-viec-giang-vien-su-pham-dung-bang-tien-si-gia-5011353.html",
+      "summary": "Trường Đại học Sư phạm Hà Nội 2 buộc thôi việc trưởng bộ môn thuộc khoa Tiếng Anh vì dùng bằng tiến sĩ giả, sau khi đục bỏ tên trên bia tiến sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:20:18+07:00",
+      "fetched": "2026-01-29T11:00:09.283042+07:00"
+    },
+    {
+      "id": "bf4e4e1c5dca8adb06615bcb7fb78036",
+      "title": "Bên trong công trường đô thị 'all-in-one' La Pura dịp cuối năm",
+      "link": "https://vnexpress.net/ben-trong-cong-truong-do-thi-all-in-one-la-pura-dip-cuoi-nam-5011163.html",
+      "summary": "Hơn 700 công nhân, kỹ sư thi công ba ca mỗi ngày, nhiều mũi song song, giúp La Pura đạt tiến độ ba tầng mỗi tháng, bước vào giai đoạn tăng tốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:20:00+07:00",
+      "fetched": "2026-01-29T11:00:09.283227+07:00"
+    },
+    {
+      "id": "f4257599db0b422239aa480856e8ddea",
+      "title": "Máy bay NASA hạ cánh bằng bụng, trượt tóe lửa trên đường băng",
+      "link": "https://thanhnien.vn/may-bay-nasa-ha-canh-bang-bung-truot-toe-lua-tren-duong-bang-185260129093817682.htm",
+      "summary": "Một máy bay nghiên cứu của NASA đã hạ cánh khẩn cấp xuống sân bay Ellington (bang Texas, Mỹ) sau khi gặp sự cố kỹ thuật không thể mở càng đáp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:20:00+07:00",
+      "fetched": "2026-01-29T11:00:11.991335+07:00"
+    },
+    {
+      "id": "45e25d4b1099478023027057e25e6e3d",
+      "title": "Cựu bác sĩ U.23 Việt Nam khuyên cực hay: ‘Hiểu Minh sẽ trở thành phiên bản mạnh mẽ hơn, nếu…’",
+      "link": "https://thanhnien.vn/cuu-bac-si-u23-viet-nam-khuyen-cuc-hay-hieu-minh-se-tro-thanh-phien-ban-manh-me-hon-neu-185260129095718762.htm",
+      "summary": "Trung vệ Nguyễn Hiểu Minh đã phẫu thuật thành công chấn thương đứt dây chằng chéo trước. Theo bác sĩ Nguyễn Trọng Thủy, đây không phải dấu chấm hết, nhưng quá trình hồi phục cần tuân thủ nghiêm ngặt lộ trình sinh học để cầu thủ trở lại sân cỏ an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:19:00+07:00",
+      "fetched": "2026-01-29T11:00:11.991484+07:00"
+    },
+    {
+      "id": "cfb788cef3ec96c1fd21651794cc9ac4",
+      "title": "Giải pickleball từ thiện Mattana trao tặng 500 xe đạp đến học sinh khó khăn",
+      "link": "https://thanhnien.vn/giai-pickleball-tu-thien-mattana-trao-tang-500-xe-dap-den-hoc-sinh-kho-khan-185260128182626587.htm",
+      "summary": "Đông đảo VĐV đăng ký tranh tài ở giải pickleball từ thiện Mattana lần 1 năm 2026 diễn ra vào ngày 31.1 tại sân Cộng Hòa Garden (TP.HCM) với mục tiêu chung tay lan tỏa yêu thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:19:00+07:00",
+      "fetched": "2026-01-29T11:00:11.991639+07:00"
+    },
+    {
+      "id": "7d18f8f4bb69b428ff87f4db70e39280",
+      "title": "TTC World - Tà Cú: Điểm đến sinh thái tâm linh và văn hóa đặc sắc",
+      "link": "https://thanhnien.vn/ttc-world-ta-cu-diem-den-sinh-thai-tam-linh-va-van-hoa-dac-sac-18526012910271016.htm",
+      "summary": "Tọa lạc giữa vùng đất Nam Trung bộ, TTC World - Tà Cú (xã Hàm Thuận Nam, tỉnh Lâm Đồng) là không gian giao hòa hiếm có giữa thiên nhiên nguyên sinh và đời sống tâm linh, thu hút đông đảo Phật tử và du khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:15:00+07:00",
+      "fetched": "2026-01-29T11:00:11.991786+07:00"
+    },
+    {
+      "id": "f460f51b4b33124655b46d245032e3f9",
+      "title": "Cựu sếp 73 tuổi của VICEM bị đề nghị 15-17 năm tù trong vụ tháp nghìn tỷ bỏ hoang",
+      "link": "https://vnexpress.net/cuu-sep-73-tuoi-cua-vicem-bi-de-nghi-15-17-nam-tu-trong-vu-thap-nghin-ty-bo-hoang-5011323.html",
+      "summary": "Cựu tổng giám đốc Tổng công ty Xi măng Việt Nam Nguyễn Ngọc Anh bị đề nghị án cao nhất trong dàn lãnh đạo doanh nghiệp này, chịu trách nhiệm chính khi tòa tháp 1.245 tỷ đồng bỏ hoang 11 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:14:31+07:00",
+      "fetched": "2026-01-29T11:00:09.283391+07:00"
+    },
+    {
+      "id": "b770ca6d96afb9c9cfc431c0cc5b9e01",
+      "title": "Người anh 10 tuổi là 'cơ hội sống cuối cùng' của em trai suy tủy",
+      "link": "https://vnexpress.net/nguoi-anh-10-tuoi-la-co-hoi-song-cuoi-cung-cua-em-trai-suy-tuy-5011258.html",
+      "summary": "Bé trai 8 tuổi mắc suy tủy nặng, kháng mọi thuốc điều trị, đã được cứu sống nhờ ghép tế bào gốc từ người anh ruột - giải pháp duy nhất còn lại để cứu mạng bệnh nhi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:10:07+07:00",
+      "fetched": "2026-01-29T11:00:09.283550+07:00"
+    },
+    {
+      "id": "3f4d33c4e82247f08ef8a8781bdc063f",
+      "title": "Ăn bông cải xanh có lợi cho sức khỏe thế nào",
+      "link": "https://vnexpress.net/an-bong-cai-xanh-co-loi-cho-suc-khoe-the-nao-5011075.html",
+      "summary": "Bông cải xanh (súp lơ xanh) rất giàu chất chống oxy hóa cùng các hợp chất thực vật có lợi, giúp bảo vệ mắt và tim mạch, giảm nguy cơ mắc bệnh mạn tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:07:19+07:00",
+      "fetched": "2026-01-29T11:00:09.283710+07:00"
+    },
+    {
+      "id": "5fffc8ee8065f99932292369bd13c79f",
+      "title": "Bé hai tuổi lập kỷ lục thế giới về cú đánh snooker",
+      "link": "https://vnexpress.net/be-hai-tuoi-lap-ky-luc-the-gioi-ve-cu-danh-snooker-5011301.html",
+      "summary": "Bé trai 2 tuổi người Anh được Guinness công nhận là người trẻ tuổi nhất thực hiện thành công hai cú đánh kỹ thuật trong bộ môn snooker.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:02:20+07:00",
+      "fetched": "2026-01-29T11:00:09.283863+07:00"
+    },
+    {
+      "id": "5fffc8ee8065f99932292369bd13c79f",
+      "title": "Bé hai tuổi lập kỷ lục thế giới về cú đánh snooker",
+      "link": "https://vnexpress.net/be-hai-tuoi-lap-ky-luc-the-gioi-ve-cu-danh-snooker-5011301.html",
+      "summary": "Bé trai 2 tuổi người Anh được Guinness công nhận là người trẻ tuổi nhất thực hiện thành công hai cú đánh kỹ thuật trong bộ môn snooker.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T03:02:20+07:00",
+      "fetched": "2026-01-29T11:00:14.775538+07:00"
+    },
+    {
+      "id": "637c7aaf06843b0726455eed04af7056",
+      "title": "Tết Nguyên đán 2026: Khánh Hòa sẽ tổ chức bắn pháo hoa tại 7 điểm",
+      "link": "https://thanhnien.vn/tet-nguyen-dan-2026-khanh-hoa-se-to-chuc-ban-phao-hoa-tai-7-diem-185260129084812228.htm",
+      "summary": "Khánh Hòa sẽ tổ chức 7 điểm bắn pháo đón chào Tết Nguyên đán Bính Ngọ 2026, phục vụ người dân và du khách trong đêm giao thừa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:02:00+07:00",
+      "fetched": "2026-01-29T11:00:11.991932+07:00"
+    },
+    {
+      "id": "de1b98053415bda73c3183560316888b",
+      "title": "EVF huy động thành công hơn 300 triệu USD trong 2025",
+      "link": "https://vnexpress.net/evf-huy-dong-thanh-cong-hon-300-trieu-usd-trong-2025-5011314.html",
+      "summary": "EVF huy động hơn 300 triệu USD từ các định chế tài chính phát triển, quỹ đầu tư và ngân hàng quốc tế, nhằm mở rộng tín dụng xanh, thúc đẩy tài chính toàn diện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:00:00+07:00",
+      "fetched": "2026-01-29T11:00:09.284015+07:00"
+    },
+    {
+      "id": "21628e8f84a25ab9e1a741fbf596c0d9",
+      "title": "Trưởng phòng CSGT TP.HCM: Xử lý lấn chiếm vỉa hè đến đâu, gắn camera đến đó",
+      "link": "https://thanhnien.vn/truong-phong-csgt-tphcm-xu-ly-lan-chiem-via-he-den-dau-gan-camera-den-do-185260129095123424.htm",
+      "summary": "Trưởng phòng CSGT TP.HCM cho biết, xử lý lấn chiếm vỉa hè, lòng đường không theo phong trào. Công an TP.HCM sẽ xử lý đến đâu gắn camera tới đó, không để tái diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:00:00+07:00",
+      "fetched": "2026-01-29T11:00:11.992085+07:00"
+    },
+    {
+      "id": "395c82f9edc006743ced94b40bf311d0",
+      "title": "Nữ sinh viên sập bẫy 'bắt cóc online' với học bổng du học Úc",
+      "link": "https://thanhnien.vn/nu-sinh-vien-sap-bay-bat-coc-online-voi-hoc-bong-du-hoc-uc-185260129085324306.htm",
+      "summary": "Giả danh tư vấn 'học bổng du học Úc', nhóm lừa đảo thao túng tâm lý một nữ sinh viên ở TP.Đà Nẵng, dụ dỗ người này rời khỏi nhà, cắt liên lạc với gia đình và rơi vào bẫy 'bắt cóc online'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T02:48:00+07:00",
+      "fetched": "2026-01-29T11:00:11.992252+07:00"
+    },
+    {
+      "id": "41bfb72cf2dcf3b701fac31cffcac0df",
+      "title": "Tôn Ngộ Không đã viết gì trên tay Phật Tổ?",
+      "link": "https://vnexpress.net/phim-tay-du-ky-ton-ngo-khong-da-viet-gi-tren-tay-phat-to-5011305.html",
+      "summary": "Tôn Ngộ Không thần thông quảng đại, đại náo thiên cung, vô pháp vô thiên, Ngọc Hoàng Thượng Đế đành phải thỉnh mời Phật Tổ Như Lai đến thu phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T02:36:16+07:00",
+      "fetched": "2026-01-29T11:00:09.284229+07:00"
+    },
+    {
+      "id": "a00d9104ef3453f25254fb1b3a296400",
+      "title": "Kẻ hành hung bạn gái thừa nhận ghen tuông với Barron Trump",
+      "link": "https://vnexpress.net/ke-hanh-hung-ban-gai-thua-nhan-ghen-tuong-voi-barron-trump-5011287.html",
+      "summary": "Công dân Nga 22 tuổi bị tòa án Anh kết tội hành hung bạn gái, sau khi thừa nhận ghen tuông về mối quan hệ của cô này với Barron Trump.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T02:34:52+07:00",
+      "fetched": "2026-01-29T11:00:09.284412+07:00"
+    },
+    {
+      "id": "a00d9104ef3453f25254fb1b3a296400",
+      "title": "Kẻ hành hung bạn gái thừa nhận ghen tuông với Barron Trump",
+      "link": "https://vnexpress.net/ke-hanh-hung-ban-gai-thua-nhan-ghen-tuong-voi-barron-trump-5011287.html",
+      "summary": "Công dân Nga 22 tuổi bị tòa án Anh kết tội hành hung bạn gái, sau khi thừa nhận ghen tuông về mối quan hệ của cô này với Barron Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T02:34:52+07:00",
+      "fetched": "2026-01-29T11:00:14.775714+07:00"
+    },
+    {
+      "id": "e0b063e97ca0ec747b469cae20e65918",
+      "title": "Velosar cung cấp trang phục cho VnExpress Marathon thêm hai năm",
+      "link": "https://vnexpress.net/velosar-cung-cap-trang-phuc-cho-vnexpress-marathon-them-hai-nam-5011291.html",
+      "summary": "Thương hiệu Velosar trở thành đối tác chiến lược, cung cấp toàn bộ trang phục thi đấu và vận hành cho hệ thống VnExpress Marathon trong giai đoạn 2026-2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T02:30:00+07:00",
+      "fetched": "2026-01-29T11:00:09.284578+07:00"
+    },
+    {
+      "id": "a64304e9697f8235476766da491ee91f",
+      "title": "Conmik Việt Nam khánh thành nhà máy sản xuất vật liệu chống thấm",
+      "link": "https://vnexpress.net/conmik-viet-nam-khanh-thanh-nha-may-san-xuat-vat-lieu-chong-tham-5010946.html",
+      "summary": "Nhà máy Conmik Việt Nam được đầu tư theo hướng công nghiệp hóa, với quy mô lớn và dây chuyền đồng bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T02:30:00+07:00",
+      "fetched": "2026-01-29T11:00:09.284731+07:00"
+    },
+    {
+      "id": "66f3dc33815b43918560427d30b53676",
+      "title": "Nghệ sĩ Vân Dung bất ngờ tái xuất, Khả Như gây ám ảnh trong phim kinh dị",
+      "link": "https://thanhnien.vn/nghe-si-van-dung-bat-ngo-tai-xuat-kha-nhu-gay-am-anh-trong-phim-kinh-di-18526012908090548.htm",
+      "summary": "'Quỷ nhập tràng 2' gây chú ý khi quy tụ dàn diễn viên như nghệ sĩ Vân Dung, Khả Như, Quang Tuấn, Doãn Quốc Đam... Những tình tiết trong phim vừa được hé lộ, khiến khán giả tò mò.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T02:30:00+07:00",
+      "fetched": "2026-01-29T11:00:11.992403+07:00"
+    },
+    {
+      "id": "9b3f70c258d24de6ddd39d87d78fed24",
+      "title": "Bộ Giáo dục: 'Siết xét học bạ, IELTS để công bằng'",
+      "link": "https://vnexpress.net/bo-giao-duc-len-tieng-viec-siet-xet-tuyen-hoc-ba-ielts-5011273.html",
+      "summary": "Thí sinh xét học bạ dự kiến phải đạt sàn về điểm thi tốt nghiệp, giảm điểm cộng IELTS, theo Bộ Giáo dục là để công bằng và tránh thí sinh lơ là học tập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T02:28:16+07:00",
+      "fetched": "2026-01-29T11:00:09.284887+07:00"
+    },
+    {
+      "id": "17fe5144e8fb0a77725a9f5121133762",
+      "title": "Giá vàng miếng vượt 190 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-29-1-5011315.html",
+      "summary": "Các thương hiệu bán ra vàng miếng tại 190,2 triệu đồng một lượng, theo đà tăng trên thị trường quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T02:27:56+07:00",
+      "fetched": "2026-01-29T11:00:09.285041+07:00"
+    },
+    {
+      "id": "17fe5144e8fb0a77725a9f5121133762",
+      "title": "Giá vàng miếng vượt 190 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-29-1-5011315.html",
+      "summary": "Các thương hiệu bán ra vàng miếng tại 190,2 triệu đồng một lượng, theo đà tăng trên thị trường quốc tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-29T02:27:56+07:00",
+      "fetched": "2026-01-29T11:00:15.972110+07:00"
+    },
+    {
+      "id": "4cd344e531e3ec904a085574b03ae657",
+      "title": "Vì sao Mbappe bị từ chối bàn thắng 'ăn cắp trứng gà'?",
+      "link": "https://vnexpress.net/vi-sao-mbappe-bi-tu-choi-ban-thang-an-cap-trung-ga-5011289.html",
+      "summary": "Tiền đạo Kylian Mbappe cướp bóng và ghi bàn khi thủ môn Anatoliy Trubin của Benfica đang phát lên, nhưng trọng tài lập tức hủy bàn thắng của Real ở Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T02:21:23+07:00",
+      "fetched": "2026-01-29T11:00:19.149615+07:00"
+    },
+    {
+      "id": "a8e883da6256673c9d4a3087d8c15f87",
+      "title": "Thủ môn Benfica gây sốt sau khi ghi bàn hạ Real",
+      "link": "https://vnexpress.net/thu-mon-benfica-gay-sot-sau-khi-ghi-ban-ha-real-5011290.html",
+      "summary": "Thủ thành người Ukraine Anatoliy Trubin nhận nhiều khen ngợi với pha đánh đầu thành bàn ở phút bù thứ tám, giúp Benfica hạ Real 4-2, kịp cán đích trong top 8 Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T02:17:49+07:00",
+      "fetched": "2026-01-29T11:00:19.148786+07:00"
+    },
+    {
+      "id": "98983c2de923d8f05f3c1d3a4354b397",
+      "title": "Thái Lan tiêm thuốc tránh thai cho voi rừng",
+      "link": "https://vnexpress.net/thai-lan-tiem-thuoc-tranh-thai-cho-voi-rung-5011295.html",
+      "summary": "Giới chức bảo tồn động vật Thái Lan lần đầu tiêm thuốc tránh thai cho voi hoang dã, nhằm kiểm soát đà tăng số lượng quần thể voi, tránh nguy cơ xung đột với người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T02:07:10+07:00",
+      "fetched": "2026-01-29T11:00:14.775880+07:00"
+    },
+    {
+      "id": "e5a1b31ffe58f00d287b58af2d82d2eb",
+      "title": "Xác định 8 đội vào thẳng vòng 1/8 Champions League",
+      "link": "https://vnexpress.net/xac-dinh-8-doi-vao-thang-vong-1-8-champions-league-5011269.html",
+      "summary": "Barca và Man City thành công trong cuộc đua nước rút vào top 8, trong khi Real và PSG mất vé vào thẳng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T01:49:52+07:00",
+      "fetched": "2026-01-29T11:00:19.148960+07:00"
     },
     {
       "id": "0c1561eafdfa078806d224567932f988",
@@ -303,6 +833,26 @@ window.newsData_2026_01_29 = {
       "fetched": "2026-01-29T01:26:06.041645+07:00"
     },
     {
+      "id": "c0984d51b0f9b796e80425562b3660ca",
+      "title": "Rơi máy bay chở nghị sĩ ở Colombia, 15 người chết",
+      "link": "https://vnexpress.net/roi-may-bay-cho-nghi-si-o-colombia-15-nguoi-chet-5011263.html",
+      "summary": "Máy bay chở 15 người, trong đó một nghị sĩ và ứng viên nghị sĩ, rơi xuống vùng núi Colombia, khiến toàn bộ hành khách và tổ lái thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T01:23:50+07:00",
+      "fetched": "2026-01-29T11:00:14.776047+07:00"
+    },
+    {
+      "id": "8471ba160a7c5e54e30b168438fd7357",
+      "title": "Chelsea lách khe cửa hẹp ở Champions League",
+      "link": "https://vnexpress.net/chelsea-lach-khe-cua-hep-o-champions-league-5011282.html",
+      "summary": "Bàn thắng của Enzo Fernandez cùng cú đúp của tiền đạo Joao Pedro giúp Chelsea hạ Napoli 3-2, thoát khỏi cảnh phải đá play-off để tranh vé vào vòng 1/8 Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T01:21:13+07:00",
+      "fetched": "2026-01-29T11:00:19.149768+07:00"
+    },
+    {
       "id": "072a3cdb88c41feda404401673de55b8",
       "title": "NBA và UFC cùng Ngoại hạng Anh: 3 'ông lớn' thể thao đã có mặt trên FPT Play",
       "link": "https://thanhnien.vn/nba-va-ufc-cung-ngoai-hang-anh-3-ong-lon-the-thao-da-co-mat-tren-fpt-play-185260128165521623.htm",
@@ -321,6 +871,16 @@ window.newsData_2026_01_29 = {
       "category": "Tổng hợp",
       "published": "2026-01-29T01:08:00+07:00",
       "fetched": "2026-01-29T08:11:34.440740+07:00"
+    },
+    {
+      "id": "ec5c08578322b19aed88629eda3fecbb",
+      "title": "Máy bay chở khách Anh rơi bánh khi cất cánh",
+      "link": "https://vnexpress.net/may-bay-cho-khach-anh-roi-banh-khi-cat-canh-5011264.html",
+      "summary": "Phi cơ của hãng hàng không British Airways rơi một bánh xe khi cất cánh từ bang Nevada của Mỹ, nhưng không phải quay đầu hạ cánh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T01:07:01+07:00",
+      "fetched": "2026-01-29T11:00:14.776234+07:00"
     },
     {
       "id": "9a5f93dd6d21e98b940b4dd8504f2bcb",
@@ -421,6 +981,16 @@ window.newsData_2026_01_29 = {
       "category": "Tổng hợp",
       "published": "2026-01-29T01:00:00+07:00",
       "fetched": "2026-01-29T08:11:34.442310+07:00"
+    },
+    {
+      "id": "79f2c76d75a93931a28ed16f672e7f4a",
+      "title": "Những yếu tố giúp doanh thu Bảo hiểm PVI vượt 1 tỷ USD",
+      "link": "https://vnexpress.net/nhung-yeu-to-giup-doanh-thu-bao-hiem-pvi-vuot-1-ty-usd-5011267.html",
+      "summary": "Bảo hiểm PVI vượt mốc doanh thu 1 tỷ USD trong năm 2025 nhờ tăng trưởng đồng đều ở các mảng kinh doanh cốt lõi, đẩy mạnh tái bảo hiểm quốc tế, mở rộng dịch vụ và đầu tư cho công nghệ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-29T01:00:00+07:00",
+      "fetched": "2026-01-29T11:00:15.973186+07:00"
     },
     {
       "id": "c847045b2b11b1582bf1cda373f1e2cb",
@@ -681,6 +1251,16 @@ window.newsData_2026_01_29 = {
       "category": "Công nghệ",
       "published": "2026-01-28T23:00:00+07:00",
       "fetched": "2026-01-29T08:11:41.753615+07:00"
+    },
+    {
+      "id": "a39cc268b52b1fea8dc72f6af6400f87",
+      "title": "'Startup hơn doanh nghiệp lớn ở chỗ được phép sai'",
+      "link": "https://vnexpress.net/startup-hon-doanh-nghiep-lon-o-cho-duoc-phep-sai-5011213.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, startup mạnh hơn doanh nghiệp lớn ở chỗ được phép sai, thậm chí sống bằng việc sai nhanh, sai nhiều, nhưng sau mỗi lần sai phải thông minh và hiểu mình hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-28T23:00:00+07:00",
+      "fetched": "2026-01-29T11:00:18.257207+07:00"
     },
     {
       "id": "a9c5aec0382678bbd0aea3db244575bd",
