@@ -1,7 +1,17 @@
 window.newsData_2026_01_29 = {
   "date": "2026-01-29",
-  "lastUpdated": "2026-01-29T12:07:42.568573+07:00",
+  "lastUpdated": "2026-01-29T13:35:07.168614+07:00",
   "articles": [
+    {
+      "id": "fdcdf7aecd9ab2ea36d98fe3701109d7",
+      "title": "Sau 2 ngày đau ‘vùng kín’, thiếu niên 14 tuổi phải cắt bỏ một bên tinh hoàn",
+      "link": "https://tuoitre.vn/sau-2-ngay-dau-vung-kin-thieu-nien-14-tuoi-phai-cat-bo-mot-ben-tinh-hoan-20260129113716192.htm",
+      "summary": "Thấy vùng tinh hoàn đau nhưng nam thiếu niên N.K. (14 tuổi, Bắc Ninh) nghĩ rằng chỉ là biểu hiện bình thường nên không đi khám.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:35:01.449135+07:00",
+      "fetched": "2026-01-29T13:35:01.449353+07:00"
+    },
     {
       "id": "95ff035bcb84c330fe54a2a334a11432",
       "title": "CII đề xuất tái thiết đô thị khu vực Hàng Xanh với tổng mức đầu tư 486.600 tỉ đồng",
@@ -453,6 +463,356 @@ window.newsData_2026_01_29 = {
       "fetched": "2026-01-29T08:11:35.488997+07:00"
     },
     {
+      "id": "dd942d57bf15a8802c1db9818ab66711",
+      "title": "Chuyện chưa kể về đội bóng trường làng của Vua phá lưới Đình Bắc: Từng thua vì bị ‘tố’... không có giày",
+      "link": "https://thanhnien.vn/chuyen-chua-ke-ve-doi-bong-truong-lang-cua-vua-pha-luoi-dinh-bac-tung-thua-vi-bi-to-khong-co-giay-185260129132202629.htm",
+      "summary": "Chiều 28.1.2026 tại Hưng Yên Bắc (Nghệ An), cầu thủ Nguyễn Đình Bắc đã tri ân bà con làng xóm - nơi sinh ra và cưu mang anh, một cầu thủ đầy triển vọng của bóng đá Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T06:26:00+07:00",
+      "fetched": "2026-01-29T13:35:00.491255+07:00"
+    },
+    {
+      "id": "ec90cbcee737343ad9d041a4038c85af",
+      "title": "Xung đột Ukraine là cuộc chiến gây tổn thất quân sự lớn nhất kể từ Thế chiến 2?",
+      "link": "https://thanhnien.vn/xung-dot-ukraine-la-cuoc-chien-gay-ton-that-quan-su-lon-nhat-ke-tu-the-chien-2-185260129125503331.htm",
+      "summary": "Sau gần 4 năm chiến sự, cuộc xung đột Ukraine được cho là có gần 2 triệu thương vong cho cả hai phía, bao gồm tử trận, bị thương hoặc mất tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T06:21:00+07:00",
+      "fetched": "2026-01-29T13:35:00.491423+07:00"
+    },
+    {
+      "id": "73d22d58261e6634c6e1493680ec1ffe",
+      "title": "Xu hướng 'công nghiệp hóa' của tội phạm mạng năm 2026",
+      "link": "https://vnexpress.net/xu-huong-cong-nghiep-hoa-cua-toi-pham-mang-nam-2026-5011411.html",
+      "summary": "Tội phạm mạng được dự đoán tăng tốc tấn công trong năm nay nhờ AI và tự động hóa, đặt ra thách thức lớn cho hệ thống phòng thủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T06:20:17+07:00",
+      "fetched": "2026-01-29T13:34:57.607582+07:00"
+    },
+    {
+      "id": "73d22d58261e6634c6e1493680ec1ffe",
+      "title": "Xu hướng 'công nghiệp hóa' của tội phạm mạng năm 2026",
+      "link": "https://vnexpress.net/xu-huong-cong-nghiep-hoa-cua-toi-pham-mang-nam-2026-5011411.html",
+      "summary": "Tội phạm mạng được dự đoán tăng tốc tấn công trong năm nay nhờ AI và tự động hóa, đặt ra thách thức lớn cho hệ thống phòng thủ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-29T06:20:17+07:00",
+      "fetched": "2026-01-29T13:35:06.010914+07:00"
+    },
+    {
+      "id": "c16741969e53fa74171f8fe56dee86a4",
+      "title": "Điều chỉnh lương cơ sở, lương hưu trong quý 3/2026",
+      "link": "https://thanhnien.vn/dieu-chinh-luong-co-so-luong-huu-trong-quy-3-2026-185260129122314386.htm",
+      "summary": "Trong tháng 3, Chính phủ yêu cầu Bộ Nội vụ chủ trì thực hiện việc điều chỉnh một số loại phụ cấp và mức lương cơ sở; điều chỉnh lương hưu và các chế độ trợ cấp trong quý 1/2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T06:15:00+07:00",
+      "fetched": "2026-01-29T13:35:00.491583+07:00"
+    },
+    {
+      "id": "e9be94019af549c7eda1227bf657317b",
+      "title": "Tìm ra cách khiến pin Lithium-ion 'trẻ mãi không già'",
+      "link": "https://thanhnien.vn/tim-ra-cach-khien-pin-lithium-ion-tre-mai-khong-gia-185260129091752852.htm",
+      "summary": "Chỉ với một thay đổi nhỏ đột phá ở cực dương, tuổi thọ pin xe điện có thể tăng vọt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T06:05:00+07:00",
+      "fetched": "2026-01-29T13:35:00.491734+07:00"
+    },
+    {
+      "id": "57838bc239c33315e4a219d26e1d9bc1",
+      "title": "Chàng trai bị áp lực 'có bầu rồi mới được cưới'",
+      "link": "https://vnexpress.net/hiem-muon-nu-co-bau-roi-cuoi-5011428.html",
+      "summary": "'Bao giờ con bé có bầu thì bố mẹ xuống nói chuyện, cưới luôn cho chắc, chứ giờ hiếm muộn nhiều', bạn tôi nói thẳng khi con trai đòi cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T06:04:16+07:00",
+      "fetched": "2026-01-29T13:34:57.607770+07:00"
+    },
+    {
+      "id": "b51e0ff67a81571a4e523a02ae582d7f",
+      "title": "Loạt tỉnh, thành chọn Tiếng Anh là môn thứ ba thi lớp 10",
+      "link": "https://vnexpress.net/loat-tinh-thanh-chon-tieng-anh-la-mon-thu-ba-thi-lop-10-5010721.html",
+      "summary": "13 địa phương đã công bố môn thứ ba thi lớp 10 năm nay, hầu hết chọn Tiếng Anh, duy nhất Tuyên Quang thi Khoa học tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T06:00:00+07:00",
+      "fetched": "2026-01-29T13:34:57.607936+07:00"
+    },
+    {
+      "id": "d5a9bf25eaf58c90f67fb800799059a4",
+      "title": "Có nên uống nước luộc thịt?",
+      "link": "https://vnexpress.net/co-nen-uong-nuoc-luoc-thit-5010471.html",
+      "summary": "Mẹ tôi thường giữ lại nước luộc thịt để ăn canh hoặc luộc rau vì nhiều chất béo, còn tôi thấy váng bọt nổi lên toàn cặn bẩn, vậy nên ăn thế nào để đảm bảo sức khỏe? (Hoa, 22 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T06:00:00+07:00",
+      "fetched": "2026-01-29T13:34:57.608116+07:00"
+    },
+    {
+      "id": "fea67a87961dab562b495c5c933c833a",
+      "title": "Lewandowski bắt kịp một kỷ lục của Messi",
+      "link": "https://vnexpress.net/lewandowski-bat-kip-mot-ky-luc-cua-messi-5011288.html",
+      "summary": "Robert Lewandowski chạm mốc ghi bàn vào lưới 40 đối thủ khác nhau tại Champions League sau đường dọn cỗ của đàn em Lamine Yamal, qua đó bắt kịp kỷ lục của Lionel Messi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T06:00:00+07:00",
+      "fetched": "2026-01-29T13:34:57.608277+07:00"
+    },
+    {
+      "id": "fea67a87961dab562b495c5c933c833a",
+      "title": "Lewandowski bắt kịp một kỷ lục của Messi",
+      "link": "https://vnexpress.net/lewandowski-bat-kip-mot-ky-luc-cua-messi-5011288.html",
+      "summary": "Robert Lewandowski chạm mốc ghi bàn vào lưới 40 đối thủ khác nhau tại Champions League sau đường dọn cỗ của đàn em Lamine Yamal, qua đó bắt kịp kỷ lục của Lionel Messi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T06:00:00+07:00",
+      "fetched": "2026-01-29T13:35:07.160178+07:00"
+    },
+    {
+      "id": "76ce7b4217f4faf2306aa5f5d3582bd0",
+      "title": "Nửa đội U.23 Việt Nam đua trụ hạng V-League: HLV Kim Sang-sik nên... vui, tại sao?",
+      "link": "https://thanhnien.vn/nua-doi-u23-viet-nam-dua-tru-hang-v-league-hlv-kim-sang-sik-nen-vui-tai-sao-185260129110855483.htm",
+      "summary": "Chuyện hơn nửa đội hình U.23 Việt Nam đang phải lao đao đua trụ hạng V-League có khi lại là tín hiệu tích cực với đội bóng của HLV Kim Sang-sik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:59:00+07:00",
+      "fetched": "2026-01-29T13:35:00.491887+07:00"
+    },
+    {
+      "id": "1bfec24f6c0978d69aa394efc159f902",
+      "title": "'Săn' các phiên livestream để hack Facebook, lừa hơn 50 tỷ đồng",
+      "link": "https://vnexpress.net/san-cac-phien-livestream-de-hack-facebook-lua-hon-50-ty-dong-5011402.html",
+      "summary": "Nguyễn Văn Quyền lấy thông tin từ các phiên livestream bán hàng và gửi đường link giả nhằm chiếm đoạt Facebook, Zalo rồi dụ hàng trăm người chuyển hơn 50 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:56:04+07:00",
+      "fetched": "2026-01-29T13:34:57.608440+07:00"
+    },
+    {
+      "id": "964930618f1e05af1285d97104657dc8",
+      "title": "Việt Nam - EU nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện",
+      "link": "https://vnexpress.net/viet-nam-eu-nang-cap-quan-he-len-doi-tac-chien-luoc-toan-dien-5011459.html",
+      "summary": "Chủ tịch nước Lương Cường và Chủ tịch Hội đồng châu Âu công bố Việt Nam và EU nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:51:02+07:00",
+      "fetched": "2026-01-29T13:34:57.608597+07:00"
+    },
+    {
+      "id": "964930618f1e05af1285d97104657dc8",
+      "title": "Việt Nam - EU nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện",
+      "link": "https://vnexpress.net/viet-nam-eu-nang-cap-quan-he-len-doi-tac-chien-luoc-toan-dien-5011459.html",
+      "summary": "Chủ tịch nước Lương Cường và Chủ tịch Hội đồng châu Âu công bố Việt Nam và EU nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T05:51:02+07:00",
+      "fetched": "2026-01-29T13:35:02.942503+07:00"
+    },
+    {
+      "id": "20dab032fda171e85bd44f020f1fda8e",
+      "title": "Mang cơm đến trường, phụ huynh bật khóc lo lắng bữa ăn bán trú của con",
+      "link": "https://thanhnien.vn/mang-com-den-truong-phu-huynh-bat-khoc-lo-lang-bua-an-ban-tru-cua-con-185260129110928092.htm",
+      "summary": "Trường học dừng ăn bán trú sau thông tin phản ánh về thực phẩm, nhiều phụ huynh mang cơm đến trường cho con, họ bật khóc khi lo lắng cho sức khỏe của con sau những bữa ăn bán trú từ trước đến nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:48:00+07:00",
+      "fetched": "2026-01-29T13:35:00.492060+07:00"
+    },
+    {
+      "id": "47f25db606ab3a6a419f9650f6188d8d",
+      "title": "Niềm tin tiêu dùng tại Mỹ thấp nhất 11 năm",
+      "link": "https://vnexpress.net/niem-tin-tieu-dung-tai-my-thap-nhat-11-nam-5011378.html",
+      "summary": "Lo ngại về thị trường lao động và giá cả sinh hoạt khiến niềm tin người tiêu dùng tại Mỹ trong tháng 1 sụt giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:44:14+07:00",
+      "fetched": "2026-01-29T13:34:57.608760+07:00"
+    },
+    {
+      "id": "47f25db606ab3a6a419f9650f6188d8d",
+      "title": "Niềm tin tiêu dùng tại Mỹ thấp nhất 11 năm",
+      "link": "https://vnexpress.net/niem-tin-tieu-dung-tai-my-thap-nhat-11-nam-5011378.html",
+      "summary": "Lo ngại về thị trường lao động và giá cả sinh hoạt khiến niềm tin người tiêu dùng tại Mỹ trong tháng 1 sụt giảm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-29T05:44:14+07:00",
+      "fetched": "2026-01-29T13:35:03.785939+07:00"
+    },
+    {
+      "id": "66de8bca3c9f17847f3816125c30ebca",
+      "title": "Thủ tướng Úc cam kết lấy lại cảng đang cho công ty Trung Quốc thuê",
+      "link": "https://thanhnien.vn/thu-tuong-uc-cam-ket-lay-lai-cang-dang-cho-cong-ty-trung-quoc-thue-185260129114527842.htm",
+      "summary": "Thủ tướng Úc Anthony Albanese ngày 28.1 tuyên bố chính phủ nước này cam kết sẽ giành lại cho Úc quyền sở hữu một cảng biển quan trọng đang được cho một công ty Trung Quốc thuê trong 99 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:36:00+07:00",
+      "fetched": "2026-01-29T13:35:00.492221+07:00"
+    },
+    {
+      "id": "a83ceecb5e625ab63ef53967e23dc5bc",
+      "title": "Máy bay quân sự Thái Lan rơi, 2 phi công thiệt mạng",
+      "link": "https://thanhnien.vn/may-bay-quan-su-thai-lan-roi-2-phi-cong-thiet-mang-185260129123347979.htm",
+      "summary": "Một chiếc máy bay của Không quân Hoàng gia Thái Lan đã bị rơi trong chuyến bay sáng 29.1, hai phi công thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:34:00+07:00",
+      "fetched": "2026-01-29T13:35:00.492375+07:00"
+    },
+    {
+      "id": "e40da5b2b8a1b5f7d0ee47d275ec4a2e",
+      "title": "Mourinho: 'Arbeloa bảo tôi cứ ăn mừng thoải mái trước Real'",
+      "link": "https://vnexpress.net/mourinho-arbeloa-bao-toi-cu-an-mung-thoai-mai-truoc-real-5011455.html",
+      "summary": "Jose Mourinho ăn mừng phấn khích sau bàn ấn định 4-2 của Benfica trước đội bóng cũ Real Madrid, trước khi nhận được thông điệp thông cảm từ học trò cũ Alvaro Arbeloa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:33:28+07:00",
+      "fetched": "2026-01-29T13:34:57.608923+07:00"
+    },
+    {
+      "id": "e40da5b2b8a1b5f7d0ee47d275ec4a2e",
+      "title": "Mourinho: 'Arbeloa bảo tôi cứ ăn mừng thoải mái trước Real'",
+      "link": "https://vnexpress.net/mourinho-arbeloa-bao-toi-cu-an-mung-thoai-mai-truoc-real-5011455.html",
+      "summary": "Jose Mourinho ăn mừng phấn khích sau bàn ấn định 4-2 của Benfica trước đội bóng cũ Real Madrid, trước khi nhận được thông điệp thông cảm từ học trò cũ Alvaro Arbeloa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T05:33:28+07:00",
+      "fetched": "2026-01-29T13:35:07.160332+07:00"
+    },
+    {
+      "id": "24a1c6aa2794d7a6f2ae76a1684bf9d5",
+      "title": "Mọi người rủ nhau trồng khế chờ quạ đến ăn khi vàng lên 19 triệu/chỉ",
+      "link": "https://vnexpress.net/gia-vang-tang-moi-nguoi-ru-nhau-trong-khe-cho-qua-den-an-khi-vang-len-19-trieu-chi-5011454.html",
+      "summary": "Khi giá vàng vượt mốc 190 triệu đồng/lượng, nhiều người bỗng nhớ lại bài học kinh tế 'xuyên thời đại' trong truyện cổ tích ăn khế trả vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:29:30+07:00",
+      "fetched": "2026-01-29T13:34:57.609097+07:00"
+    },
+    {
+      "id": "0378f2e93fe1ebdcb22c1c22f5214c0d",
+      "title": "3,5 triệu người nhận lương hưu, trợ cấp gộp trước Tết Bính Ngọ",
+      "link": "https://vnexpress.net/3-5-trieu-nguoi-nhan-luong-huu-tro-cap-gop-truoc-tet-binh-ngo-5011452.html",
+      "summary": "Người hưởng lương hưu, trợ cấp bảo hiểm xã hội (BHXH) cả nước sẽ nhận gộp tiền tháng 2-3 vào kỳ chi trả đầu tháng 2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:26:24+07:00",
+      "fetched": "2026-01-29T13:34:57.609252+07:00"
+    },
+    {
+      "id": "8440d15e3130895eed8ef1c939b65ca7",
+      "title": "Dân số Mỹ tăng chậm giữa lúc siết nhập cư",
+      "link": "https://vnexpress.net/dan-so-my-tang-cham-giua-luc-siet-nhap-cu-5011309.html",
+      "summary": "Mỹ ghi nhận tốc độ tăng trưởng dân số thấp nhất kể từ đại dịch Covid-19 trong bối cảnh chính quyền Tổng thống Trump siết chặt chính sách nhập cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:20:27+07:00",
+      "fetched": "2026-01-29T13:34:57.609410+07:00"
+    },
+    {
+      "id": "8440d15e3130895eed8ef1c939b65ca7",
+      "title": "Dân số Mỹ tăng chậm giữa lúc siết nhập cư",
+      "link": "https://vnexpress.net/dan-so-my-tang-cham-giua-luc-siet-nhap-cu-5011309.html",
+      "summary": "Mỹ ghi nhận tốc độ tăng trưởng dân số thấp nhất kể từ đại dịch Covid-19 trong bối cảnh chính quyền Tổng thống Trump siết chặt chính sách nhập cư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T05:20:27+07:00",
+      "fetched": "2026-01-29T13:35:02.942678+07:00"
+    },
+    {
+      "id": "7c411b061ebcb2287c9197fc69bef62e",
+      "title": "Nhà mạng Việt thử nghiệm xác thực thay thế OTP",
+      "link": "https://vnexpress.net/nha-mang-viet-thu-nghiem-xac-thuc-thay-the-otp-5011404.html",
+      "summary": "Sáng 29/1, Viettel cho biết đã phối hợp cùng công ty Shush (Mỹ) thử nghiệm thành công mô hình giải pháp xác thực mạng thay thế cho hình thức tin nhắn OTP truyền thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:19:34+07:00",
+      "fetched": "2026-01-29T13:34:57.609567+07:00"
+    },
+    {
+      "id": "7c411b061ebcb2287c9197fc69bef62e",
+      "title": "Nhà mạng Việt thử nghiệm xác thực thay thế OTP",
+      "link": "https://vnexpress.net/nha-mang-viet-thu-nghiem-xac-thuc-thay-the-otp-5011404.html",
+      "summary": "Sáng 29/1, Viettel cho biết đã phối hợp cùng công ty Shush (Mỹ) thử nghiệm thành công mô hình giải pháp xác thực mạng thay thế cho hình thức tin nhắn OTP truyền thống.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-29T05:19:34+07:00",
+      "fetched": "2026-01-29T13:35:06.010432+07:00"
+    },
+    {
+      "id": "321df2ef2905963f0f966090197a1cab",
+      "title": "TP.HCM chi gần 320 tỉ đồng 'khoác áo mới' cho sân Thống Nhất trước Đại hội Thể thao toàn quốc",
+      "link": "https://thanhnien.vn/tphcm-chi-gan-320-ti-dong-khoac-ao-moi-cho-san-thong-nhat-truoc-dai-hoi-the-thao-toan-quoc-185260129121428587.htm",
+      "summary": "Sân Thống Nhất sẽ 'khoác áo mới', khi được cải tạo và nâng cấp nhiều hạng mục nhằm chuẩn bị cho Đại hội Thể thao toàn quốc lần X năm 2026 do TP.HCM làm địa điểm đăng cai tổ chức chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:17:00+07:00",
+      "fetched": "2026-01-29T13:35:00.492528+07:00"
+    },
+    {
+      "id": "be7dafad6dbe6ece7f16cc8c36ee82a2",
+      "title": "Vì sao nghi lễ ngàn năm vào dịp tết của người Nhật đang biến mất?",
+      "link": "https://thanhnien.vn/vi-sao-nghi-le-ngan-nam-vao-dip-tet-cua-nguoi-nhat-dang-bien-mat-185260114144413613.htm",
+      "summary": "Cùng với bỏ Tết Nguyên đán, nghi lễ cuối năm của Nhật Bản có nguồn gốc từ hơn 1.000 năm trước đang dần biến mất khi mọi người có ít thời gian rảnh hơn, cảm thấy ít kết nối với đồng nghiệp hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:13:00+07:00",
+      "fetched": "2026-01-29T13:35:00.492680+07:00"
+    },
+    {
+      "id": "8509528f288351f4f589f9a36540ba75",
+      "title": "Diễn viên Việt Hương nộp đơn tố cáo",
+      "link": "https://thanhnien.vn/dien-vien-viet-huong-nop-don-to-cao-185260129115303052.htm",
+      "summary": "Diễn viên Việt Hương vừa chính thức phát đi thông cáo báo chí liên quan đến việc nộp đơn tố giác tội phạm đến Văn phòng Cơ quan Cảnh sát điều tra - Công an TP.HCM các hành vi vu khống, xúc phạm danh dự và xâm phạm quyền nhân thân của mình trên không gian mạng trong thời gian dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:12:00+07:00",
+      "fetched": "2026-01-29T13:35:00.492830+07:00"
+    },
+    {
+      "id": "ed54a79e1206535506a6cb517c1d13eb",
+      "title": "TP HCM cảnh báo rủi ro mua bán nhà đất dự án chưa có sổ",
+      "link": "https://vnexpress.net/tp-hcm-canh-bao-rui-ro-mua-ban-nha-dat-du-an-chua-co-so-5011270.html",
+      "summary": "Theo cơ quan chức năng TP HCM, nhiều giao dịch mua bán nhà đất diễn ra khi tài sản chưa đủ pháp lý, tiềm ẩn nguy cơ tranh chấp và thiệt hại cho người mua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:11:11+07:00",
+      "fetched": "2026-01-29T13:34:57.609721+07:00"
+    },
+    {
+      "id": "65301afa7f743987aa02d6cabf8d65ee",
+      "title": "'Trinh sát cơ nghe trộm' của Mỹ xuất hiện gần Iran",
+      "link": "https://vnexpress.net/trinh-sat-co-nghe-trom-cua-my-xuat-hien-gan-iran-5011352.html",
+      "summary": "Trinh sát cơ RC-135V, một trong những phương tiện thu thập thông tin tình báo mạnh nhất của Mỹ, đáp xuống căn cứ ở Qatar, cách Iran hơn 270 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:11:03+07:00",
+      "fetched": "2026-01-29T13:34:57.609879+07:00"
+    },
+    {
+      "id": "65301afa7f743987aa02d6cabf8d65ee",
+      "title": "'Trinh sát cơ nghe trộm' của Mỹ xuất hiện gần Iran",
+      "link": "https://vnexpress.net/trinh-sat-co-nghe-trom-cua-my-xuat-hien-gan-iran-5011352.html",
+      "summary": "Trinh sát cơ RC-135V, một trong những phương tiện thu thập thông tin tình báo mạnh nhất của Mỹ, đáp xuống căn cứ ở Qatar, cách Iran hơn 270 km.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T05:11:03+07:00",
+      "fetched": "2026-01-29T13:35:02.942843+07:00"
+    },
+    {
+      "id": "30bad1137f430c7f28ee86b0a55a7e74",
+      "title": "Lợn, bò, dê, trâu, chó, mèo đều có thể nhiễm virus Nipah",
+      "link": "https://thanhnien.vn/lon-bo-de-trau-cho-meo-deu-co-the-nhiem-virus-nipah-185260129094909576.htm",
+      "summary": "Cục Chăn nuôi và Thú y (Bộ Nông nghiệp và Môi trường) cảnh báo, ngoài loài dơi, virus Nipah có độc lực cao có thể lưu hành trên 6 loại vật nuôi, nguy cơ lây bệnh sang con người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:11:00+07:00",
+      "fetched": "2026-01-29T13:35:00.492984+07:00"
+    },
+    {
       "id": "4e78877fa554b30d86957e3bf14075de",
       "title": "Kẻ hành hung nói 'ghen tuông' khi bạn trò chuyện với Barron Trump",
       "link": "https://thanhnien.vn/ke-hanh-hung-noi-ghen-tuong-khi-ban-tro-chuyen-voi-barron-trump-18526012911232755.htm",
@@ -503,6 +863,16 @@ window.newsData_2026_01_29 = {
       "fetched": "2026-01-29T12:07:34.434804+07:00"
     },
     {
+      "id": "8189d91b0b7b005bc341de618a4f13e6",
+      "title": "Khoảnh khắc 'tuyệt đối điện ảnh' giữa Benfica và Real",
+      "link": "https://vnexpress.net/khoanh-khac-tuyet-doi-dien-anh-giua-benfica-va-real-5011421.html",
+      "summary": "Phút 90+8 giữa Benfica và Real Madrid ở lượt cuối vòng bảng Champions League có lẽ là kịch bản điên rồ bậc nhất mà một trận đấu đỉnh cao có thể viết nên.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T04:55:02+07:00",
+      "fetched": "2026-01-29T13:35:07.159164+07:00"
+    },
+    {
       "id": "563d1e0975cefa7a049896fcb1d02ffb",
       "title": "Xe tay ga điện thể thao: Phân khúc mới trên thị trường xe máy Việt",
       "link": "https://thanhnien.vn/xe-tay-ga-dien-the-thao-phan-khuc-moi-tren-thi-truong-xe-may-viet-185260126070142304.htm",
@@ -543,6 +913,16 @@ window.newsData_2026_01_29 = {
       "fetched": "2026-01-29T12:07:34.435426+07:00"
     },
     {
+      "id": "f1b92615d74d11514235585b9c55ce23",
+      "title": "Chủ tịch một công ty địa ốc bị bán giải chấp cổ phiếu liên tục",
+      "link": "https://vnexpress.net/chu-tich-mot-cong-ty-dia-oc-bi-ban-giai-chap-co-phieu-lien-tuc-5011435.html",
+      "summary": "Ông Nguyễn Hùng Cường, Chủ tịch Tổng công ty Đầu tư phát triển xây dựng (DIG), bị công ty chứng khoán bán giải chấp cổ phiếu 3 lần trong vòng một tháng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-29T04:44:53+07:00",
+      "fetched": "2026-01-29T13:35:03.786139+07:00"
+    },
+    {
       "id": "c4fcbb173aec897030d89dd45b1fe067",
       "title": "Sai lầm nghiêm trọng với ổ SSD NVMe khiến PC 'đứng hình'",
       "link": "https://thanhnien.vn/sai-lam-nghiem-trong-voi-o-ssd-nvme-khien-pc-dung-hinh-18526012910125956.htm",
@@ -571,6 +951,16 @@ window.newsData_2026_01_29 = {
       "category": "Tổng hợp",
       "published": "2026-01-29T04:39:00+07:00",
       "fetched": "2026-01-29T12:07:34.435876+07:00"
+    },
+    {
+      "id": "394892659545db4e6e173d6e661adbf9",
+      "title": "Australia muốn thu hồi cảng đã cho công ty Trung Quốc thuê 99 năm",
+      "link": "https://vnexpress.net/australia-muon-thu-hoi-cang-da-cho-cong-ty-trung-quoc-thue-99-nam-5011344.html",
+      "summary": "Thủ tướng Albanese cam kết đưa cảng Darwin vốn cho công ty Trung Quốc thuê 99 năm trở lại quyền kiểm soát của Canberra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T04:35:36+07:00",
+      "fetched": "2026-01-29T13:35:02.943024+07:00"
     },
     {
       "id": "7aa19d1bb94d7ceb1bfe7f610e84b771",
