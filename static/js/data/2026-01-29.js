@@ -1,7 +1,157 @@
 window.newsData_2026_01_29 = {
   "date": "2026-01-29",
-  "lastUpdated": "2026-01-29T05:17:53.661149+07:00",
+  "lastUpdated": "2026-01-29T08:11:43.207158+07:00",
   "articles": [
+    {
+      "id": "43498d48bbcc5be8fdc11bba1e8ab947",
+      "title": "Thủ môn ghi bàn phút cuối giúp Benfica hạ Real Madrid, một trận đấu điên rồ",
+      "link": "https://tuoitre.vn/thu-mon-ghi-ban-phut-cuoi-giup-benfica-ha-real-madrid-mot-tran-dau-dien-ro-20260129054828562.htm",
+      "summary": "Rạng sáng 29-1, Benfica đã đánh bại Real Madrid 4-2 ở lượt cuối vòng phân hạng Champions League. Đây là tỉ số vừa vặn khiến Real Madrid rớt khỏi top 8, còn Benfica đoạt vé dự vòng play-off.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.490756+07:00",
+      "fetched": "2026-01-29T08:11:35.490870+07:00"
+    },
+    {
+      "id": "e50f0883d8139300c33c4130cd961dbd",
+      "title": "Bảng xếp hạng Champions League: Real Madrid và PSG rơi khỏi top 8",
+      "link": "https://tuoitre.vn/bang-xep-hang-champions-league-real-madrid-va-psg-roi-khoi-top-8-20260129055231809.htm",
+      "summary": "Hai ông lớn Real Madrid và PSG không thể lọt vào top 8 sau khi vòng phân hạng (vòng bảng trước đây) Champions League 2025-2026 khép lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.490631+07:00",
+      "fetched": "2026-01-29T08:11:35.490745+07:00"
+    },
+    {
+      "id": "3b0a4254dd0498d7bfc62a1717f2f292",
+      "title": "Khi nào bốc thăm vòng play-off Champions League 2025-2026?",
+      "link": "https://tuoitre.vn/khi-nao-boc-tham-vong-play-off-champions-league-2025-2026-20260129034435603.htm",
+      "summary": "Ngay sau khi giai đoạn vòng phân hạng (vòng bảng trước đây) khép lại, sự chú ý sẽ đổ dồn về lễ bốc thăm play-off giành vé vào vòng 16 đội Champions League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.490505+07:00",
+      "fetched": "2026-01-29T08:11:35.490619+07:00"
+    },
+    {
+      "id": "ad7a27b06b82c9ad1e4ef3c6433a0590",
+      "title": "Tin tức thế giới 29-1: Ngoại trưởng Mỹ nói 'Iran đang rất yếu'; Thủ tướng Đức dự báo xấu về Iran",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-29-1-ngoai-truong-my-noi-iran-dang-rat-yeu-thu-tuong-duc-du-bao-xau-ve-iran-20260129060959807.htm",
+      "summary": "Iran khẳng định không có vũ khí hạt nhân, kêu gọi Mỹ đàm phán; Trung Quốc cảnh báo hành động quân sự nhắm vào Iran tạo 'sự khó lường'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.490374+07:00",
+      "fetched": "2026-01-29T08:11:35.490493+07:00"
+    },
+    {
+      "id": "f5adc24e2ed07ddd3ac8eaceab68fc6f",
+      "title": "Có được đơn phương chấm dứt hợp đồng sử dụng dịch vụ Internet?",
+      "link": "https://tuoitre.vn/co-duoc-don-phuong-cham-dut-hop-dong-su-dung-dich-vu-internet-20260127232902524.htm",
+      "summary": "Do đường truyền Internet không tốt, tôi muốn đơn phương chấm dứt hợp đồng với nhà cung cấp, như vậy có sai không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.490221+07:00",
+      "fetched": "2026-01-29T08:11:35.490358+07:00"
+    },
+    {
+      "id": "7a4ca6d09973853e9bffe8788bbff110",
+      "title": "Máy bay cánh quạt bay được nửa đường thì rơi, 15 người thiệt mạng",
+      "link": "https://tuoitre.vn/may-bay-canh-quat-bay-duoc-nua-duong-thi-roi-15-nguoi-thiet-mang-2026012906561045.htm",
+      "summary": "Một máy bay cánh quạt chở 15 người đã rơi tại Colombia ngày 28-1 khiến toàn bộ người đi trên đó thiệt mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.490099+07:00",
+      "fetched": "2026-01-29T08:11:35.490210+07:00"
+    },
+    {
+      "id": "63aef64e9264fe3f5b0011ec1c0dd1f0",
+      "title": "Arsenal lập kỷ lục toàn thắng ở vòng phân hạng Champions League",
+      "link": "https://tuoitre.vn/arsenal-lap-ky-luc-toan-thang-o-vong-phan-hang-champions-league-20260129062221633.htm",
+      "summary": "Arsenal trở thành đội bóng đầu tiên toàn thắng tất cả các trận tại vòng phân hạng (vòng bảng trước đây) Champions League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.489976+07:00",
+      "fetched": "2026-01-29T08:11:35.490087+07:00"
+    },
+    {
+      "id": "329623db829dbeaf479dc516f374366c",
+      "title": "Mbappe bỏ xa Haaland, Kane trong cuộc đua Vua phá lưới Champions League",
+      "link": "https://tuoitre.vn/mbappe-bo-xa-haaland-kane-trong-cuoc-dua-vua-pha-luoi-champions-league-20260129064147573.htm",
+      "summary": "Sau vòng phân hạng Champions League, danh hiệu Vua phá lưới dường như đã được xác định khi Kylian Mbappe đang bỏ xa các đối thủ cạnh tranh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.489850+07:00",
+      "fetched": "2026-01-29T08:11:35.489964+07:00"
+    },
+    {
+      "id": "831cf4b1dfddbf2d5a900290e479b28d",
+      "title": "Sáng nay, giai phẩm Tuổi Trẻ Xuân Bính Ngọ 2026 chính thức phát hành",
+      "link": "https://tuoitre.vn/sang-nay-giai-pham-tuoi-tre-xuan-binh-ngo-2026-chinh-thuc-phat-hanh-20260129071527799.htm",
+      "summary": "Với chủ đề Tiến lên hùng cường, giai phẩm Tuổi Trẻ Xuân Bính Ngọ không chỉ đẫm hương xuân vị Tết mà còn có rất nhiều quà tặng cho bạn đọc đặt mua báo qua media hub của Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.489723+07:00",
+      "fetched": "2026-01-29T08:11:35.489839+07:00"
+    },
+    {
+      "id": "9d78b6b3628f73748d0589b3b06b10be",
+      "title": "Chi phí triển khai quân 'dẹp loạn' trong nước Mỹ",
+      "link": "https://tuoitre.vn/chi-phi-trien-khai-quan-dep-loan-trong-nuoc-my-20260129071131567.htm",
+      "summary": "Việc triển khai quân đội tới các thành phố Mỹ tiêu tốn gần 500 triệu USD trong năm 2025, theo một cơ quan thuộc Quốc hội Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.489590+07:00",
+      "fetched": "2026-01-29T08:11:35.489711+07:00"
+    },
+    {
+      "id": "3be5c53d5dd3824e553e21591d235ea3",
+      "title": "Áo dài linh mã ‘phi nước đại’ chào xuân Bính Ngọ 2026",
+      "link": "https://tuoitre.vn/ao-dai-linh-ma-phi-nuoc-dai-chao-xuan-binh-ngo-2026-20260129061744859.htm",
+      "summary": "Nhà thiết kế Huy Trần vừa tung bộ sưu tập Essence of Áo dài 2026 được lấy cảm hứng thiết kế từ hình tượng linh mã ‘phi nước đại’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.489461+07:00",
+      "fetched": "2026-01-29T08:11:35.489578+07:00"
+    },
+    {
+      "id": "5ea4addc45936163b70066cb33becd4c",
+      "title": "Một người Nga sắp bị kết án vì đánh bạn của con út ông Trump",
+      "link": "https://tuoitre.vn/mot-nguoi-nga-sap-bi-ket-an-vi-danh-ban-cua-con-ut-ong-trump-2026012907291796.htm",
+      "summary": "Thanh niên 22 tuổi người Nga sắp bị kết án sau khi đánh một người bạn nữ của Barron Trump, khiến cậu út nhà Trump gọi điện từ Mỹ để giải cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.489323+07:00",
+      "fetched": "2026-01-29T08:11:35.489449+07:00"
+    },
+    {
+      "id": "e255b9317ed174e2e9cbb07a9ab0593f",
+      "title": "Ngoại hạng Anh giành đến 5/8 vé vào thẳng vòng 16 đội Champions League",
+      "link": "https://tuoitre.vn/ngoai-hang-anh-gianh-den-5-8-ve-vao-thang-vong-16-doi-champions-league-20260129064136814.htm",
+      "summary": "Vòng phân hạng Champions League 2025-2026 đã khép lại với thành tích cực kỳ ấn tượng của các đội bóng Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.489163+07:00",
+      "fetched": "2026-01-29T08:11:35.489304+07:00"
+    },
+    {
+      "id": "e1c4ca74a3114c7cf941419ccdb03458",
+      "title": "Lo thực phẩm bẩn vào trường học, nhiều trường ở quận 7 cũ (TP.HCM) dừng bữa ăn bán trú",
+      "link": "https://tuoitre.vn/lo-thuc-pham-ban-vao-truong-hoc-nhieu-truong-o-quan-7-cu-tp-hcm-dung-bua-an-ban-tru-20260129064844434.htm",
+      "summary": "Nhiều trường tiểu học, THCS ở quận 7 cũ (TP.HCM) đã thông báo dừng cung cấp bữa ăn bán trú cho học sinh từ ngày 29-1 khi nghe thông tin thực phẩm bẩn vào trường học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.489013+07:00",
+      "fetched": "2026-01-29T08:11:35.489151+07:00"
+    },
+    {
+      "id": "fdaf79d8b60766c0ac6f3e86d415cb35",
+      "title": "Đồng Nai chống kẹt xe: Doanh nghiệp kêu cứu, chính quyền tiếp tục gỡ khó",
+      "link": "https://tuoitre.vn/dong-nai-chong-ket-xe-doanh-nghiep-keu-cuu-chinh-quyen-tiep-tuc-go-kho-20260128211156816.htm",
+      "summary": "Gần hai tháng qua, chính quyền phường Biên Hòa đã xây dựng khung giờ cấm trên đường Bùi Hữu Nghĩa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T08:11:35.488773+07:00",
+      "fetched": "2026-01-29T08:11:35.488997+07:00"
+    },
     {
       "id": "0c1561eafdfa078806d224567932f988",
       "title": "Tổng thống Pháp: Tranh chấp Greenland là 'lời cảnh tỉnh chiến lược cho toàn châu Âu'",
@@ -153,6 +303,436 @@ window.newsData_2026_01_29 = {
       "fetched": "2026-01-29T01:26:06.041645+07:00"
     },
     {
+      "id": "072a3cdb88c41feda404401673de55b8",
+      "title": "NBA và UFC cùng Ngoại hạng Anh: 3 'ông lớn' thể thao đã có mặt trên FPT Play",
+      "link": "https://thanhnien.vn/nba-va-ufc-cung-ngoai-hang-anh-3-ong-lon-the-thao-da-co-mat-tren-fpt-play-185260128165521623.htm",
+      "summary": "Ngoại hạng Anh, NBA và UFC là những giải đấu thu hút lượng người hâm mộ khổng lồ trên toàn cầu. Tại Việt Nam, khán giả có thể theo dõi các nội dung này thông qua nền tảng FPT Play, đơn vị đang sở hữu bản quyền phát sóng một số giải đấu thể thao quốc tế lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T01:09:00+07:00",
+      "fetched": "2026-01-29T08:11:34.440568+07:00"
+    },
+    {
+      "id": "e2e505cdba41eb0969c344c276a08a73",
+      "title": "Giá heo hơi hôm nay 29.1.2026: Bất ngờ quay đầu",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-2912026-bat-ngo-quay-dau-185260128210924424.htm",
+      "summary": "Giá heo hơi ở miền Bắc và bắc Trung bộ bất ngờ quay đầu giảm trong khi khu vực trung Trung bộ vẫn tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T01:08:00+07:00",
+      "fetched": "2026-01-29T08:11:34.440740+07:00"
+    },
+    {
+      "id": "9a5f93dd6d21e98b940b4dd8504f2bcb",
+      "title": "Tính năng mới của Chrome khiến máy tính Windows chậm chạp hơn",
+      "link": "https://thanhnien.vn/tinh-nang-moi-cua-chrome-khien-may-tinh-windows-cham-chap-hon-185260128220416562.htm",
+      "summary": "Tắt ngay tính năng này nếu không muốn Google Chrome bóp nghẹt tốc độ khởi động Windows.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T01:03:00+07:00",
+      "fetched": "2026-01-29T08:11:34.440898+07:00"
+    },
+    {
+      "id": "fd99da0352cda467d5b966471afb67fb",
+      "title": "Mối quan hệ Bằng Kiều, Tú Dưa và Tuấn Hưng sau khi Quả Dưa Hấu tan rã",
+      "link": "https://thanhnien.vn/moi-quan-he-bang-kieu-tu-dua-va-tuan-hung-sau-khi-qua-dua-hau-tan-ra-185260129000828506.htm",
+      "summary": "Sau hơn 30 năm kể từ ngày rời sân khấu chung, 3 thành viên của Quả Dưa Hấu gồm Bằng Kiều, Tuấn Hưng và Anh Tú (Tú Dưa) gây bất ngờ khi tái hợp trong dự án 'Bản ghi nhớ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T01:02:00+07:00",
+      "fetched": "2026-01-29T08:11:34.441051+07:00"
+    },
+    {
+      "id": "ae0f4f5698828df9f221055a9cb91a58",
+      "title": "Sách bản đẹp - Nghề chơi vẫn lắm công phu",
+      "link": "https://thanhnien.vn/sach-ban-dep-nghe-choi-van-lam-cong-phu-185260128223254342.htm",
+      "summary": "Như thường lệ, thú chơi sách bản hạn chế, bản đặc biệt nóng trở lại cùng mùa sách tết. Đối lập với các tấm biển \"sách đồng giá\", \"hạ giá\" tại các gian hàng \"dọn kho đón tết\" là những cuốn sách được bán với giá cao đến rất cao, dành cho những độc giả có thú vui sưu tầm sách quý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T01:00:00+07:00",
+      "fetched": "2026-01-29T08:11:34.441203+07:00"
+    },
+    {
+      "id": "cabb18e9d200ec4d0a77e36c13d618eb",
+      "title": "Những đô thị TOD được kích hoạt dọc trục metro Thành phố mới - Suối Tiên",
+      "link": "https://thanhnien.vn/nhung-do-thi-tod-duoc-kich-hoat-doc-truc-metro-thanh-pho-moi-suoi-tien-185260128210138898.htm",
+      "summary": "Nếu metro định hình lại toàn bộ thói quen giao thông thì TOD (Transit-Oriented Development) lại là xu hướng an cư tất yếu của cư dân tại các thành phố lớn. Điều này đã khiến cho các bất động sản nắm giữ được cả hai yếu tố: cận metro, trong vùng quy hoạch TOD trở thành sự lựa chọn hàng đầu của người ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T01:00:00+07:00",
+      "fetched": "2026-01-29T08:11:34.441375+07:00"
+    },
+    {
+      "id": "a0894494835eb11890ebd16e5f2c674e",
+      "title": "Tết yêu thương, ấm áp nghĩa tình",
+      "link": "https://thanhnien.vn/tet-yeu-thuong-am-ap-nghia-tinh-185260128185631702.htm",
+      "summary": "Nhiều hoạt động chăm lo tết của Đoàn thanh niên mang đến không khí tết ở các vùng sâu, vùng biên giới, hải đảo thêm rộn ràng, giúp người dân có cái tết vui tươi và đầm ấm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T01:00:00+07:00",
+      "fetched": "2026-01-29T08:11:34.441528+07:00"
+    },
+    {
+      "id": "42fc6d90d87af49d8f01969bfb4921c7",
+      "title": "Nanoco chuẩn hóa năng lực sản xuất, mở rộng thị trường quốc tế",
+      "link": "https://thanhnien.vn/nanoco-chuan-hoa-nang-luc-san-xuat-mo-rong-thi-truong-quoc-te-185260128171906825.htm",
+      "summary": "Sau hơn 35 năm hình thành và phát triển, Nanoco đang bước vào giai đoạn mới với trọng tâm là chuẩn hóa sản phẩm và năng lực sản xuất theo tiêu chuẩn quốc tế, từng bước mở rộng sang các thị trường nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T01:00:00+07:00",
+      "fetched": "2026-01-29T08:11:34.441678+07:00"
+    },
+    {
+      "id": "30417ce4b3b53993200441c649557a72",
+      "title": "Tư vấn sức khỏe: Nhận diện các bệnh phụ khoa ảnh hưởng chất lượng sống phụ nữ",
+      "link": "https://thanhnien.vn/tu-van-suc-khoe-nhan-dien-cac-benh-phu-khoa-anh-huong-chat-luong-song-phu-nu-185260128163747521.htm",
+      "summary": "Khoảng 90% phụ nữ Việt Nam từng mắc ít nhất 1 bệnh phụ khoa trong đời. Đáng chú ý, những dấu hiệu bệnh ban đầu thường nhẹ nên bị bỏ qua, dẫn đến chậm trễ trong chẩn đoán và điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T01:00:00+07:00",
+      "fetched": "2026-01-29T08:11:34.441831+07:00"
+    },
+    {
+      "id": "21914303b4de339a19d49f1f17cac03f",
+      "title": "Gieo mầm tri thức trên những miền đất khô cằn",
+      "link": "https://thanhnien.vn/gieo-mam-tri-thuc-tren-nhung-mien-dat-kho-can-185260128155833406.htm",
+      "summary": "Trong hành trình xóa nghèo bền vững, giáo dục luôn là con đường ngắn nhất nhưng cũng đầy rẫy chông gai đối với trẻ em nghèo vùng sâu, vùng xa. Thấu hiểu điều đó, Hoiana Resort & Golf đã chọn cách đồng hành dài hạn, biến những suất học bổng thành 'chiếc chìa khóa vạn năng', giúp những mầm non trên vù...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T01:00:00+07:00",
+      "fetched": "2026-01-29T08:11:34.441989+07:00"
+    },
+    {
+      "id": "366a50a5bd238b47102b4ec1cbe9fb81",
+      "title": "The Legend Shophouse: Số lượng giới hạn, bảo chứng giá trị",
+      "link": "https://thanhnien.vn/the-legend-shophouse-so-luong-gioi-han-bao-chung-gia-tri-185260128103427488.htm",
+      "summary": "Nếu phải lựa chọn một bất động sản vừa để ở, vừa kinh doanh và vẫn giữ được giá trị dài hạn thì The Legend Shophouse là câu trả lời hiếm hoi hội tụ đủ cả ba yếu tố: vị trí trung tâm - môi trường trong lành - thương mại bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T01:00:00+07:00",
+      "fetched": "2026-01-29T08:11:34.442139+07:00"
+    },
+    {
+      "id": "9962c469e1083b625ea177b0772958f5",
+      "title": "Sức hút từ chân váy lụa tạo nét thanh tao, kiêu kỳ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/suc-hut-tu-chan-vay-lua-tao-net-thanh-tao-kieu-ky-185260127141359025.htm",
+      "summary": "Sức hút từ những chiếc chân váy lụa tạo nên vẻ đẹp mềm mại, giúp phái đẹp tôn lên nét duyên dáng và thể hiện gu thời trang thanh lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T01:00:00+07:00",
+      "fetched": "2026-01-29T08:11:34.442310+07:00"
+    },
+    {
+      "id": "c847045b2b11b1582bf1cda373f1e2cb",
+      "title": "Hàng công đưa Barca vào thẳng vòng 1/8 Champions League",
+      "link": "https://vnexpress.net/hang-cong-dua-barca-vao-thang-vong-1-8-champions-league-5011276.html",
+      "summary": "Robert Lewandowski, Lamine Yamal, Raphinha và Marcus Rashford cùng nhau lập công, giúp Barca ngược dòng 4-1 trước Copenhagen, tiến thẳng vòng 1/8 Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T00:59:46+07:00",
+      "fetched": "2026-01-29T08:11:43.202034+07:00"
+    },
+    {
+      "id": "c761ffc852431d6f8c7e79f59561a4c1",
+      "title": "Windows 7 và Vista vừa được cộng đồng 'hồi sinh'",
+      "link": "https://thanhnien.vn/windows-7-va-vista-vua-duoc-cong-dong-hoi-sinh-185260128215104244.htm",
+      "summary": "Dù Windows 10 và 11 phổ biến từ lâu, các phiên bản hệ điều hành cũ của Microsoft là Windows 7 và Windows Vista vẫn được cộng đồng quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T00:46:00+07:00",
+      "fetched": "2026-01-29T08:11:34.442467+07:00"
+    },
+    {
+      "id": "d1e628512730444d83291d93dae8a454",
+      "title": "Diện mạo mới của đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/dien-mao-moi-cua-doi-tuyen-viet-nam-185260128232007634.htm",
+      "summary": "Năm 2026 sẽ đánh dấu đội tuyển VN ra mắt diện mạo mới bằng chính trận quyết đấu với Malaysia để mở ra chu kỳ thành công mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T00:44:00+07:00",
+      "fetched": "2026-01-29T08:11:34.442616+07:00"
+    },
+    {
+      "id": "8e63503c7264e3dfb1c0c5c1a684fb1f",
+      "title": "Fed giữ nguyên lãi suất",
+      "link": "https://thanhnien.vn/fed-giu-nguyen-lai-suat-185260129070256307.htm",
+      "summary": "Cục Dự trữ liên bang Mỹ (Fed) ngày 28.1 quyết định giữ nguyên lãi suất sau phiên họp chính sách đầu tiên của năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T00:41:00+07:00",
+      "fetched": "2026-01-29T08:11:34.442761+07:00"
+    },
+    {
+      "id": "03343c16fe79e5f955f6c84466b22ee2",
+      "title": "Giá vàng thế giới tiến sát 5.600 USD",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tien-sat-5-600-usd-5011266.html",
+      "summary": "Mỗi ounce vàng tăng hơn 200 USD chỉ trong một phiên, lên kỷ lục 5.585 USD một ounce.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T00:30:54+07:00",
+      "fetched": "2026-01-29T08:11:31.357649+07:00"
+    },
+    {
+      "id": "03343c16fe79e5f955f6c84466b22ee2",
+      "title": "Giá vàng thế giới tiến sát 5.600 USD",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tien-sat-5-600-usd-5011266.html",
+      "summary": "Mỗi ounce vàng tăng hơn 200 USD chỉ trong một phiên, lên kỷ lục 5.585 USD một ounce.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-29T00:30:54+07:00",
+      "fetched": "2026-01-29T08:11:39.130990+07:00"
+    },
+    {
+      "id": "d1b84d39fac438b66cc851cc974c88b2",
+      "title": "Musk chuyển nhà máy sản xuất hai mẫu xe Tesla sang robot Optimus",
+      "link": "https://vnexpress.net/musk-chuyen-nha-may-san-xuat-hai-mau-xe-tesla-sang-robot-optimus-5011259.html",
+      "summary": "Elon Musk cho biết \"sắp kết thúc\" việc sản xuất hai mẫu xe điện Model X và Model S để chuyển hướng sang lĩnh vực robot hình người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T00:08:01+07:00",
+      "fetched": "2026-01-29T08:11:31.357835+07:00"
+    },
+    {
+      "id": "d1b84d39fac438b66cc851cc974c88b2",
+      "title": "Musk chuyển nhà máy sản xuất hai mẫu xe Tesla sang robot Optimus",
+      "link": "https://vnexpress.net/musk-chuyen-nha-may-san-xuat-hai-mau-xe-tesla-sang-robot-optimus-5011259.html",
+      "summary": "Elon Musk cho biết \"sắp kết thúc\" việc sản xuất hai mẫu xe điện Model X và Model S để chuyển hướng sang lĩnh vực robot hình người.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-29T00:08:01+07:00",
+      "fetched": "2026-01-29T08:11:41.753964+07:00"
+    },
+    {
+      "id": "2d0c509cfd94337d1c3556eeff6d28ee",
+      "title": "Ngoại trưởng Mỹ bênh vực ông Trump sau vụ nhầm Greenland thành Iceland",
+      "link": "https://vnexpress.net/ngoai-truong-my-benh-vuc-ong-trump-sau-vu-nham-greenland-thanh-iceland-5011257.html",
+      "summary": "Ngoại trưởng Rubio xác nhận Tổng thống Trump gọi nhầm Greenland thành Iceland khi phát biểu tại Thụy Sĩ tuần trước, nhưng cho rằng đây không phải điều bất thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T00:02:21+07:00",
+      "fetched": "2026-01-29T08:11:31.358000+07:00"
+    },
+    {
+      "id": "2d0c509cfd94337d1c3556eeff6d28ee",
+      "title": "Ngoại trưởng Mỹ bênh vực ông Trump sau vụ nhầm Greenland thành Iceland",
+      "link": "https://vnexpress.net/ngoai-truong-my-benh-vuc-ong-trump-sau-vu-nham-greenland-thanh-iceland-5011257.html",
+      "summary": "Ngoại trưởng Rubio xác nhận Tổng thống Trump gọi nhầm Greenland thành Iceland khi phát biểu tại Thụy Sĩ tuần trước, nhưng cho rằng đây không phải điều bất thường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T00:02:21+07:00",
+      "fetched": "2026-01-29T08:11:37.389385+07:00"
+    },
+    {
+      "id": "9f88d000cf3f28a595b54136d8583a89",
+      "title": "Đau đầu đột ngột có phải đột quỵ?",
+      "link": "https://vnexpress.net/dau-dau-dot-ngot-co-phai-dot-quy-5010465.html",
+      "summary": "Đang ăn cơm, tôi cảm thấy đau đầu, choáng váng như búa bổ vào đầu, liệu có phải có nguy cơ đột quỵ không?(Tùng, 58 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T00:00:00+07:00",
+      "fetched": "2026-01-29T08:11:31.358164+07:00"
+    },
+    {
+      "id": "f5f81f011965d15abe6252d3bc32c8b6",
+      "title": "Cách các nước láng giềng bảo tồn làng cổ như Lô Lô Chải",
+      "link": "https://vnexpress.net/cach-cac-nuoc-lang-gieng-bao-ton-lang-co-nhu-lo-lo-chai-5008382.html",
+      "summary": "Kinh nghiệm từ Nhật Bản, Hàn Quốc và Trung Quốc cho thấy nhiều mô hình dung hòa giữa bảo tồn làng cổ trăm tuổi và nâng cao chất lượng sống của cư dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T00:00:00+07:00",
+      "fetched": "2026-01-29T08:11:31.358344+07:00"
+    },
+    {
+      "id": "6b3af0824268bf2a3af31d4ef89bb9b3",
+      "title": "Iran dọa tập kích 'trái tim của Tel Aviv' nếu bị Mỹ tấn công",
+      "link": "https://vnexpress.net/iran-doa-tap-kich-trai-tim-cua-tel-aviv-neu-bi-my-tan-cong-5011254.html",
+      "summary": "Cố vấn lãnh tụ Iran tuyên bố nước này sẽ đáp trả \"lập tức và toàn diện\" nếu bị Mỹ tấn công, một trong các mục tiêu sẽ là Israel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T23:53:29+07:00",
+      "fetched": "2026-01-29T08:11:31.358502+07:00"
+    },
+    {
+      "id": "6b3af0824268bf2a3af31d4ef89bb9b3",
+      "title": "Iran dọa tập kích 'trái tim của Tel Aviv' nếu bị Mỹ tấn công",
+      "link": "https://vnexpress.net/iran-doa-tap-kich-trai-tim-cua-tel-aviv-neu-bi-my-tan-cong-5011254.html",
+      "summary": "Cố vấn lãnh tụ Iran tuyên bố nước này sẽ đáp trả \"lập tức và toàn diện\" nếu bị Mỹ tấn công, một trong các mục tiêu sẽ là Israel.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-28T23:53:29+07:00",
+      "fetched": "2026-01-29T08:11:37.389559+07:00"
+    },
+    {
+      "id": "6d14e62e45aea755e43ce44ea0f3ed1e",
+      "title": "Điểm tin 6h: Chủ tịch Hội đồng châu Âu đến Việt Nam | Du thuyền của bà Trương Mỹ Lan được rao bán đấu giá gần 50 tỷ đồng",
+      "link": "https://vnexpress.net/diem-tin-6h-chu-tich-hoi-dong-chau-au-den-viet-nam-du-thuyen-cua-ba-truong-my-lan-duoc-rao-ban-dau-gia-gan-50-ty-dong-5011255.html",
+      "summary": "Ban Bí thư chỉ đạo xác thực danh tính người dùng mạng xã hội; Các nền kinh tế tiến gần nhau hơn vì thuế của Mỹ...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T23:34:11+07:00",
+      "fetched": "2026-01-29T08:11:31.358653+07:00"
+    },
+    {
+      "id": "ad5819abcc2114a1d583ce5002793c59",
+      "title": "PSG, Newcastle níu chân nhau, cùng mất vé vào thẳng vòng 1/8",
+      "link": "https://vnexpress.net/psg-newcastle-niu-chan-nhau-cung-mat-ve-vao-thang-vong-1-8-5011252.html",
+      "summary": "Kết quả hòa 1-1 ở lượt cuối vòng bảng Champions League khiến PSG và Newcastle cùng mất vị trí trong Top 8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T23:33:00+07:00",
+      "fetched": "2026-01-29T08:11:31.358814+07:00"
+    },
+    {
+      "id": "ad5819abcc2114a1d583ce5002793c59",
+      "title": "PSG, Newcastle níu chân nhau, cùng mất vé vào thẳng vòng 1/8",
+      "link": "https://vnexpress.net/psg-newcastle-niu-chan-nhau-cung-mat-ve-vao-thang-vong-1-8-5011252.html",
+      "summary": "Kết quả hòa 1-1 ở lượt cuối vòng bảng Champions League khiến PSG và Newcastle cùng mất vị trí trong Top 8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-28T23:33:00+07:00",
+      "fetched": "2026-01-29T08:11:43.201724+07:00"
+    },
+    {
+      "id": "9ae91c32d017f9f1bc89a4a77e4487bc",
+      "title": "Swiatek: 'Các tay vợt đôi lúc như động vật trong sở thú'",
+      "link": "https://vnexpress.net/swiatek-cac-tay-vot-doi-luc-nhu-dong-vat-trong-so-thu-5011245.html",
+      "summary": "Sau sự việc số ba thế giới Coco Gauff bị quay trộm cảnh đập vợt tại Australia Mở rộng, các tay vợt khác cho rằng họ đang mất quyền riêng tư ở các giải đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T23:11:54+07:00",
+      "fetched": "2026-01-29T08:11:31.358966+07:00"
+    },
+    {
+      "id": "9ae91c32d017f9f1bc89a4a77e4487bc",
+      "title": "Swiatek: 'Các tay vợt đôi lúc như động vật trong sở thú'",
+      "link": "https://vnexpress.net/swiatek-cac-tay-vot-doi-luc-nhu-dong-vat-trong-so-thu-5011245.html",
+      "summary": "Sau sự việc số ba thế giới Coco Gauff bị quay trộm cảnh đập vợt tại Australia Mở rộng, các tay vợt khác cho rằng họ đang mất quyền riêng tư ở các giải đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-28T23:11:54+07:00",
+      "fetched": "2026-01-29T08:11:43.201878+07:00"
+    },
+    {
+      "id": "8d4da0cecc7044beb1920a6fdff1a3d4",
+      "title": "'Startup mạnh hơn doanh nghiệp lớn ở chỗ được phép sai'",
+      "link": "https://vnexpress.net/startup-manh-hon-doanh-nghiep-lon-o-cho-duoc-phep-sai-5011213.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, startup mạnh hơn doanh nghiệp lớn ở chỗ được phép sai, thậm chí sống bằng việc sai nhanh, sai nhiều, nhưng sau mỗi lần sai phải thông minh và hiểu mình hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T23:00:00+07:00",
+      "fetched": "2026-01-29T08:11:31.359126+07:00"
+    },
+    {
+      "id": "3276005b4d312f9cee4dcb7a549c085b",
+      "title": "Dùng 'ám hiệu' báo 47 tỷ đồng hối lộ Viện trưởng Y dược học dân tộc TP HCM",
+      "link": "https://vnexpress.net/dung-am-hieu-bao-47-ty-dong-hoi-lo-vien-truong-y-duoc-hoc-dan-toc-tp-hcm-5011202.html",
+      "summary": "Ông chủ Công ty dược Sơn Lâm khai đưa hối lộ Viện trưởng Y dược học dân tộc TP HCM Huỳnh Nguyễn Lộc qua người trợ lý, dùng ám hiệu \"tấn\" thay cho \"tỷ đồng\" khi liên lạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T23:00:00+07:00",
+      "fetched": "2026-01-29T08:11:31.359294+07:00"
+    },
+    {
+      "id": "5c8c622ef595fde13fc764e96302815e",
+      "title": "Sự nghiệp huy hoàng vụt tắt của nữ tỷ phú tự thân giàu nhất Mỹ",
+      "link": "https://vnexpress.net/su-nghiep-huy-hoang-vut-tat-cua-nu-ty-phu-tu-than-giau-nhat-my-5011187.html",
+      "summary": "Elizabeth Holmes làm nên lịch sử khi được vinh danh là một trong những phụ nữ giàu nhất nước Mỹ năm 2014, nhưng chỉ vài năm sau công ty khởi nghiệp của cô sụp đổ vì lừa đảo hàng trăm triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T23:00:00+07:00",
+      "fetched": "2026-01-29T08:11:31.359449+07:00"
+    },
+    {
+      "id": "a2daaf3b945af0c4d3a391519e0de518",
+      "title": "Rẽ cắt đầu xe khác, ôtô đâm vào xe máy",
+      "link": "https://vnexpress.net/re-cat-dau-xe-khac-oto-dam-vao-xe-may-5010843.html",
+      "summary": "Từ góc khuất, ôtô húc một người đi xe máy ở hướng vuông góc hôm 28/1 tại cầu vượt Bình Phước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T23:00:00+07:00",
+      "fetched": "2026-01-29T08:11:31.359610+07:00"
+    },
+    {
+      "id": "f14afa4346aca29cb5bd6a557b5417b0",
+      "title": "Bọc màng thực phẩm khi quay trong lò vi sóng có an toàn?",
+      "link": "https://vnexpress.net/boc-mang-thuc-pham-khi-quay-trong-lo-vi-song-co-an-toan-5010632.html",
+      "summary": "Màng bọc thực phẩm quay trong lò vi sóng có thể khiến các hạt nhựa và hóa chất \"di cư\" trực tiếp vào bữa ăn, ảnh hưởng đến hệ nội tiết và chuyển hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T23:00:00+07:00",
+      "fetched": "2026-01-29T08:11:31.359760+07:00"
+    },
+    {
+      "id": "0a8e408d474b577914e9f6b8684ad1b4",
+      "title": "Tại sao phụ nữ muốn ăn Tết nhà ngoại?",
+      "link": "https://vnexpress.net/tai-sao-phu-nu-muon-an-tet-nha-ngoai-5009665.html",
+      "summary": "Với nhiều phụ nữ Việt, đường về nhà ngoại ngày Tết đôi khi không được đo bằng số km mà bằng sự cho phép của chồng và gia đình chồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T23:00:00+07:00",
+      "fetched": "2026-01-29T08:11:31.359921+07:00"
+    },
+    {
+      "id": "8d4da0cecc7044beb1920a6fdff1a3d4",
+      "title": "'Startup mạnh hơn doanh nghiệp lớn ở chỗ được phép sai'",
+      "link": "https://vnexpress.net/startup-manh-hon-doanh-nghiep-lon-o-cho-duoc-phep-sai-5011213.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, startup mạnh hơn doanh nghiệp lớn ở chỗ được phép sai, thậm chí sống bằng việc sai nhanh, sai nhiều, nhưng sau mỗi lần sai phải thông minh và hiểu mình hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-28T23:00:00+07:00",
+      "fetched": "2026-01-29T08:11:41.753615+07:00"
+    },
+    {
+      "id": "a9c5aec0382678bbd0aea3db244575bd",
+      "title": "Amazon sa thải 16.000 nhân viên",
+      "link": "https://vnexpress.net/amazon-sa-thai-16-000-nhan-vien-5011253.html",
+      "summary": "Amazon thông báo sa thải 16.000 nhân viên khối văn phòng, hoàn tất kế hoạch cắt giảm 30.000 việc làm đã công bố 3 tháng trước, nhưng không loại trừ khả năng tiếp tục tinh giản nhân sự.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-28T22:59:40+07:00",
+      "fetched": "2026-01-29T08:11:41.753795+07:00"
+    },
+    {
+      "id": "53a0dcc2c05f27842061981ef23d2337",
+      "title": "Mourinho khiến Real mất vé vào thẳng vòng 1/8",
+      "link": "https://vnexpress.net/mourinho-khien-real-mat-ve-vao-thang-vong-1-8-5011250.html",
+      "summary": "Trên sân nhà, HLV Jose Mourinho cùng Benfica hạ Real 4-2 ở lượt cuối vòng bảng Champions League, khiến đội bóng cũ rớt khỏi top 8 và phải đá play-off.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-28T22:49:48+07:00",
+      "fetched": "2026-01-29T08:11:43.201046+07:00"
+    },
+    {
+      "id": "771b46bf3978ad71b8f2a71e75f40672",
+      "title": "Tyson Fury tái xuất",
+      "link": "https://vnexpress.net/tyson-fury-tai-xuat-5011248.html",
+      "summary": "Cựu vô địch quyền Anh hạng nặng Tyson Fury rút lại quyết định giải nghệ khi xác nhận thượng đài với võ sĩ Nga Arslanbek Makhmudov ngày 11/4 trong một sự kiện do tạp chí The Ring tổ chức tại Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-28T22:40:12+07:00",
+      "fetched": "2026-01-29T08:11:43.202187+07:00"
+    },
+    {
+      "id": "e14c781174763ff21d5926be2bc1dd0c",
+      "title": "Djokovic tự ái ở họp báo Australia Mở rộng",
+      "link": "https://vnexpress.net/djokovic-tu-ai-o-hop-bao-australia-mo-rong-5011242.html",
+      "summary": "Tay vợt huyền thoại Novak Djokovic khó chịu khi phóng viên hỏi về việc bám đuổi hai tài năng trẻ Carlos Alcaraz và Jannik Sinner - những người mạnh nhất thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-28T22:33:39+07:00",
+      "fetched": "2026-01-29T08:11:43.201225+07:00"
+    },
+    {
+      "id": "1e6fa7cffaf356f2d9d415a6d7037f5f",
+      "title": "Man City, Liverpool vào thẳng vòng 1/8 Champions League",
+      "link": "https://vnexpress.net/man-city-liverpool-vao-thang-vong-1-8-champions-league-5011251.html",
+      "summary": "Man City thắng Galatarasay 2-0, còn Liverpool đè bẹp Qarabag 6-0 ở lượt hạ màn để cùng cán đích trong top 8 và vào thẳng vòng 1/8 Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-28T22:20:55+07:00",
+      "fetched": "2026-01-29T08:11:43.201409+07:00"
+    },
+    {
       "id": "5fa7533e57bb3247dac1ab4a189cb9c0",
       "title": "Vì sao TP.HCM muốn siết nghĩa vụ nhà ở xã hội?",
       "link": "https://thanhnien.vn/vi-sao-tphcm-muon-siet-nghia-vu-nha-o-xa-hoi-185260128221922489.htm",
@@ -181,6 +761,16 @@ window.newsData_2026_01_29 = {
       "category": "Tổng hợp",
       "published": "2026-01-28T22:15:00+07:00",
       "fetched": "2026-01-29T05:17:45.013428+07:00"
+    },
+    {
+      "id": "42904d2c678ccb9a4d2b9ff11ebb175a",
+      "title": "Arsenal toàn thắng ở vòng bảng Champions League",
+      "link": "https://vnexpress.net/arsenal-toan-thang-o-vong-bang-champions-league-5011249.html",
+      "summary": "Arsenal thắng đội khách Kairat 3-2 ở lượt cuối và trở thành CLB duy nhất giành 24 điểm tuyệt đối ở vòng bảng Champions League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-28T22:06:03+07:00",
+      "fetched": "2026-01-29T08:11:43.201570+07:00"
     },
     {
       "id": "27d763f7145a1b4af4d17a7ce4c40bd6",
