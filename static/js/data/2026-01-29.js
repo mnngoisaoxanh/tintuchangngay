@@ -1,7 +1,157 @@
 window.newsData_2026_01_29 = {
   "date": "2026-01-29",
-  "lastUpdated": "2026-01-29T11:00:19.155912+07:00",
+  "lastUpdated": "2026-01-29T12:07:42.568573+07:00",
   "articles": [
+    {
+      "id": "95ff035bcb84c330fe54a2a334a11432",
+      "title": "CII đề xuất tái thiết đô thị khu vực Hàng Xanh với tổng mức đầu tư 486.600 tỉ đồng",
+      "link": "https://tuoitre.vn/cii-de-xuat-tai-thiet-do-thi-khu-vuc-hang-xanh-voi-tong-muc-dau-tu-486-600-ti-dong-20260129092128086.htm",
+      "summary": "CII vừa thông tin về tình hình triển khai nghiên cứu dự án hạ tầng, kết hợp phát triển đô thị theo mô hình TOD tại Hàng Xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.597596+07:00",
+      "fetched": "2026-01-29T12:07:35.597706+07:00"
+    },
+    {
+      "id": "6406227e3cfec2be62703f84690ffc0c",
+      "title": "Vui vẻ độc thân vẫn sợ Tết vì bị hỏi dồn ‘bao giờ cưới’",
+      "link": "https://tuoitre.vn/vui-ve-doc-than-van-so-tet-vi-bi-hoi-don-bao-gio-cuoi-20260129095246662.htm",
+      "summary": "Với hầu hết người độc thân ngoài 30 tuổi, Tết là quãng thời gian không dễ chịu khi phải đối diện với những câu hỏi quen thuộc xoay quanh chủ đề bao giờ cưới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.597461+07:00",
+      "fetched": "2026-01-29T12:07:35.597585+07:00"
+    },
+    {
+      "id": "b7970ebb94ec95dd116f9fb8bb699c7e",
+      "title": "Dấu ấn hành trình ‘Ích Nhi - Nâng ước mơ xanh’ năm 2025",
+      "link": "https://tuoitre.vn/dau-an-hanh-trinh-ich-nhi-nang-uoc-mo-xanh-nam-2025-20260129094214767.htm",
+      "summary": "Năm 2025 đánh dấu một chặng đường đáng nhớ của chương trình “Ích Nhi - Nâng ước mơ xanh” - chuỗi hoạt động trách nhiệm xã hội được triển khai bền bỉ trong nhiều năm qua, hướng tới trẻ em ở những khu vực còn nhiều khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.597340+07:00",
+      "fetched": "2026-01-29T12:07:35.597450+07:00"
+    },
+    {
+      "id": "3b3986ded7caf6dfb0382e0117c7d507",
+      "title": "Trung tướng Mai Hoàng trao Huy hiệu 80 năm tuổi Đảng cho Đại tá Lê Hãn",
+      "link": "https://tuoitre.vn/trung-tuong-mai-hoang-trao-huy-hieu-80-nam-tuoi-dang-cho-dai-ta-le-han-20260129105846432.htm",
+      "summary": "Trung tướng Mai Hoàng, Giám đốc Công an TP.HCM, đã đến nhà riêng thăm hỏi sức khỏe và trao Huy hiệu 80 năm tuổi Đảng cho Đại tá Lê Hãn - nguyên Cục phó Cục Kỹ thuật Quân khu 7, con trai trưởng cố Tổng Bí thư Lê Duẩn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.597215+07:00",
+      "fetched": "2026-01-29T12:07:35.597329+07:00"
+    },
+    {
+      "id": "9e4c10a5a759b61d846fa2183098a5fb",
+      "title": "Bác sĩ nha khoa nói về mối nguy thạch tín bị tuồn vào phòng răng, 'đội lốt' thuốc diệt tủy",
+      "link": "https://tuoitre.vn/bac-si-nha-khoa-noi-ve-moi-nguy-thach-tin-bi-tuon-vao-phong-rang-doi-lot-thuoc-diet-tuy-20260129111207668.htm",
+      "summary": "Trong hơn hai thập kỷ qua, y văn thế giới đã ghi nhận nhiều trường hợp tai biến nghiêm trọng liên quan đến việc sử dụng arsenic trong nha khoa. Việc hàng ngàn hộp thạch tín được tuồn vào phòng răng làm bùng lên lo lắng về nguy cơ với sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.597072+07:00",
+      "fetched": "2026-01-29T12:07:35.597202+07:00"
+    },
+    {
+      "id": "a8db4ba0e574e7f7c6848e9755bb7b1c",
+      "title": "Thứ trưởng Bộ Công Thương: Đã tham vấn các chuyên gia, xăng E10 dùng được",
+      "link": "https://tuoitre.vn/thu-truong-bo-cong-thuong-da-tham-van-cac-chuyen-gia-xang-e10-dung-duoc-20260129110716506.htm",
+      "summary": "Thứ trưởng Bộ Công Thương Nguyễn Sinh Nhật Tân đã khẳng định như vậy tại buổi họp báo thường kỳ Bộ Công Thương ngày 29-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.596949+07:00",
+      "fetched": "2026-01-29T12:07:35.597060+07:00"
+    },
+    {
+      "id": "5be59c2fa02e6cc43348e2274cebbd17",
+      "title": "CSGT cảnh báo tai nạn do nổ lốp khi chạy trên cao tốc dịp cận Tết Nguyên đán 2026",
+      "link": "https://tuoitre.vn/csgt-canh-bao-tai-nan-do-no-lop-khi-chay-tren-cao-toc-dip-can-tet-nguyen-dan-2026-20260129111639784.htm",
+      "summary": "Ngày 29-1, Đội Cảnh sát giao thông số 6 Phòng 6 Cục Cảnh sát giao thông đưa ra cảnh báo tai nạn mà nguyên nhân do nổ lốp, đặc biệt vào dịp cuối năm 2026, và khuyến cáo tài xế kiểm tra lốp xe kỹ trước khi lên cao tốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.596825+07:00",
+      "fetched": "2026-01-29T12:07:35.596937+07:00"
+    },
+    {
+      "id": "00f32ee86c04bd7e689311fb23af1729",
+      "title": "Tuyển Việt Nam có thủ môn Việt kiều thứ 3",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-co-thu-mon-viet-kieu-thu-3-20260129111721843.htm",
+      "summary": "Thủ môn Việt kiều Patrik Lê Giang đã được nhập quốc tịch thành công và sẵn sàng để lên đội tuyển Việt Nam trong thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.596699+07:00",
+      "fetched": "2026-01-29T12:07:35.596813+07:00"
+    },
+    {
+      "id": "2a2f22de93f3a33be9b9d913051d87a0",
+      "title": "Nhận 47 tỉ, cựu viện trưởng Viện Y dược học TP.HCM vẫn nói 'không có nhu cầu nhận hối lộ'",
+      "link": "https://tuoitre.vn/nhan-47-ti-cuu-vien-truong-vien-y-duoc-hoc-tp-hcm-van-noi-khong-co-nhu-cau-nhan-hoi-lo-20260129105752211.htm",
+      "summary": "Bị cáo buộc nhận hối lộ số tiền lên đến 47 tỉ đồng, ông Huỳnh Nguyễn Lộc, cựu Viện trưởng Viện Y dược học TP.HCM vẫn liên tục khẳng định việc nhận tiền \"không sai\" và ông bị rơi vào tình thế \"nhận tiền thụ động\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.596575+07:00",
+      "fetched": "2026-01-29T12:07:35.596688+07:00"
+    },
+    {
+      "id": "df310093abbd71f0344130df748572a9",
+      "title": "Ông Trump muốn gì khi đe dọa tấn công quân sự Iran?",
+      "link": "https://tuoitre.vn/ong-trump-muon-gi-khi-de-doa-tan-cong-quan-su-iran-202601291120079.htm",
+      "summary": "Trong bối cảnh Iran rung chuyển bởi làn sóng biểu tình lớn nhất trong nhiều năm qua, Tổng thống Mỹ Donald Trump đang cân nhắc một loạt phương án đối phó với Tehran, bao gồm cả khả năng sử dụng sức mạnh quân sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.596446+07:00",
+      "fetched": "2026-01-29T12:07:35.596563+07:00"
+    },
+    {
+      "id": "cdc436da8122e9bd96de7d15400006b2",
+      "title": "Chương trình khuyến mãi giảm 99% giá điện thoại Samsung Galaxy của nhà bán lẻ Argos là giả",
+      "link": "https://tuoitre.vn/chuong-trinh-khuyen-mai-giam-99-gia-dien-thoai-samsung-galaxy-cua-nha-ban-le-argos-la-gia-20260129110408253.htm",
+      "summary": "Tin đồn lan truyền tuyên bố nhà bán lẻ Argos đang bán điện thoại Samsung Galaxy S25 Ultra với giá giảm đến 99% nếu người mua hoàn thành khảo sát. Đây là tin đồn về một sự kiện không có thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.596318+07:00",
+      "fetched": "2026-01-29T12:07:35.596434+07:00"
+    },
+    {
+      "id": "5b9bfad8841944ba554642e40fbfee19",
+      "title": "Amazon mạnh tay sa thải 16.000 nhân viên để chạy đua AI",
+      "link": "https://tuoitre.vn/amazon-manh-tay-sa-thai-16-000-nhan-vien-de-chay-dua-ai-2026012911303214.htm",
+      "summary": "Trước áp lực cạnh tranh khốc liệt trong lĩnh vực trí tuệ nhân tạo (AI), Amazon đã mạnh tay cắt giảm 16.000 nhân viên, chỉ ba tháng sau đợt tinh giản lớn trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.596187+07:00",
+      "fetched": "2026-01-29T12:07:35.596305+07:00"
+    },
+    {
+      "id": "e089717597a3ba3eeaaca453593b36a6",
+      "title": "Công an TP.HCM đề xuất hạn chế tổ chức giải chạy tại trung tâm và các trục huyết mạch",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-de-xuat-han-che-to-chuc-giai-chay-tai-trung-tam-va-cac-truc-huyet-mach-20260129111722557.htm",
+      "summary": "Nhằm giảm ùn tắc, Công an TP.HCM đề xuất hạn chế giải chạy tại trung tâm, trục huyết mạch và định hướng chuyển các sự kiện vào khu đô thị kín.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.596034+07:00",
+      "fetched": "2026-01-29T12:07:35.596173+07:00"
+    },
+    {
+      "id": "2e3d20888b21fbfba76b364fd2168fe6",
+      "title": "Tiệc tùng cuối năm chuẩn bị đồ ăn quá nhiều nhưng không phung phí",
+      "link": "https://tuoitre.vn/tiec-tung-cuoi-nam-chuan-bi-do-an-qua-nhieu-nhung-khong-phung-phi-20251222155041985.htm",
+      "summary": "Người Việt mua nhiều đồ ăn khi có dịp rồi chia lại cho hàng xóm, bạn bè và những người xung quanh, những người có điều kiện kém hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.595892+07:00",
+      "fetched": "2026-01-29T12:07:35.596021+07:00"
+    },
+    {
+      "id": "df441bf523447872b9d2f4cd3fafad69",
+      "title": "Báo Trung Quốc tiết lộ lý do dẫn đến việc trụ trì Thiếu Lâm Tự bị bắt",
+      "link": "https://tuoitre.vn/bao-trung-quoc-tiet-lo-ly-do-dan-den-viec-tru-tri-thieu-lam-tu-bi-bat-20260129103903898.htm",
+      "summary": "Báo 163 của Trung Quốc mới đây đã tiết lộ những thông tin đầy bất ngờ đằng sau việc tố cáo và bắt giữ nhà sư từng là trụ trì Thiếu Lâm - Thích Vĩnh Tín, người có tục danh là Lưu Ứng Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:07:35.595663+07:00",
+      "fetched": "2026-01-29T12:07:35.595877+07:00"
+    },
     {
       "id": "8dc0850131d43d411d7a84a6f5352e15",
       "title": "Việt Nam - EU hướng đến tầm vóc mới",
@@ -303,6 +453,196 @@ window.newsData_2026_01_29 = {
       "fetched": "2026-01-29T08:11:35.488997+07:00"
     },
     {
+      "id": "4e78877fa554b30d86957e3bf14075de",
+      "title": "Kẻ hành hung nói 'ghen tuông' khi bạn trò chuyện với Barron Trump",
+      "link": "https://thanhnien.vn/ke-hanh-hung-noi-ghen-tuong-khi-ban-tro-chuyen-voi-barron-trump-18526012911232755.htm",
+      "summary": "Một người Nga đã bị kết tội hành hung một phụ nữ trong một vụ án ở Anh nhưng bất ngờ liên quan đến con trai út của Tổng thống Mỹ Donald Trump là Barron Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:06:00+07:00",
+      "fetched": "2026-01-29T12:07:34.434157+07:00"
+    },
+    {
+      "id": "7af53ea2d144bd08e9fbab16d27e8d8c",
+      "title": "Vĩnh biệt nhà văn Mường Mán: Tiễn anh ‘qua mấy ngõ hoa’…",
+      "link": "https://thanhnien.vn/vinh-biet-nha-van-muong-man-tien-anh-qua-may-ngo-hoa-185260129113252733.htm",
+      "summary": "Theo thông tin từ gia đình, nhà văn Mường Mán đã từ trần lúc 17 giờ 45 ngày 28.1.2026 tại nhà riêng, thọ 79 tuổi - khép lại một đời văn với bút lực sung mãn…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:00:00+07:00",
+      "fetched": "2026-01-29T12:07:34.434336+07:00"
+    },
+    {
+      "id": "37e328b444eb15e442b0ec46e8aa0cd1",
+      "title": "Việt Nam - Li Băng, VCK futsal châu Á 2026: Tìm chiến thắng thứ hai",
+      "link": "https://thanhnien.vn/viet-nam-li-bang-vck-futsal-chau-a-2026-tim-chien-thang-thu-hai-185260129101207355.htm",
+      "summary": "Ở trận ra quân tại VCK futsal châu Á 2026 gặp Kuwait, đội tuyển futsal VN trải qua những giây phút khó khăn nhưng cuối cùng vẫn lội ngược dòng giành chiến thắng. Đây là cơ sở để tin rằng thầy trò HLV Diego Giustozzi tiếp tục có 3 điểm khi chạm trán Li Băng lúc 13 giờ ngày 29.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:00:00+07:00",
+      "fetched": "2026-01-29T12:07:34.434499+07:00"
+    },
+    {
+      "id": "2df82e6b888b33b42a955c5f8db0308c",
+      "title": "Phối vòng tay, vòng cổ để hoàn thiện phong cách ngày xuân",
+      "link": "https://thanhnien.vn/thoi-trang-tre/phoi-vong-tay-vong-co-de-hoan-thien-phong-cach-ngay-xuan-18526012616090278.htm",
+      "summary": "Không cần quá nhiều lớp trang phục hay chi tiết cầu kỳ, chỉ với cách phối vòng tay và vòng cổ tinh tế, diện mạo ngày xuân đã trở nên trọn vẹn và cuốn hút hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T05:00:00+07:00",
+      "fetched": "2026-01-29T12:07:34.434653+07:00"
+    },
+    {
+      "id": "232780e58f8bb97461506277fea8205c",
+      "title": "Nghi can trộm chó dùng bình xịt hơi cay chống trả công an ở TP.HCM",
+      "link": "https://thanhnien.vn/nghi-can-trom-cho-dung-binh-xit-hoi-cay-chong-tra-cong-an-o-tphcm-185260129114539389.htm",
+      "summary": "Công an phường Bình Dương (TP.HCM) đang tạm giữ 2 nghi can trộm chó trong lúc bị truy đuổi đã dùng bình xịt hơi cay chống trả lại lực lượng công an.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:57:00+07:00",
+      "fetched": "2026-01-29T12:07:34.434804+07:00"
+    },
+    {
+      "id": "563d1e0975cefa7a049896fcb1d02ffb",
+      "title": "Xe tay ga điện thể thao: Phân khúc mới trên thị trường xe máy Việt",
+      "link": "https://thanhnien.vn/xe-tay-ga-dien-the-thao-phan-khuc-moi-tren-thi-truong-xe-may-viet-185260126070142304.htm",
+      "summary": "Những mẫu xe tay ga điện mới gia nhập thị trường như VinFast Viper, Yadea Velax hay TAILG T72 có điểm chung đều sở hữu kiểu dáng thiết kế thể thao, cá tính và hướng nhiều đến nhóm khách hàng nam giới... cùng nhau tạo nên một phân khúc mới trên thị trường xe máy Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:51:00+07:00",
+      "fetched": "2026-01-29T12:07:34.434953+07:00"
+    },
+    {
+      "id": "6b94563ca9d1d8294d539bc05e5e87e6",
+      "title": "Chủ tịch nước Lương Cường chủ trì lễ đón chính thức Chủ tịch Hội đồng châu Âu",
+      "link": "https://thanhnien.vn/chu-tich-nuoc-luong-cuong-chu-tri-le-don-chinh-thuc-chu-tich-hoi-dong-chau-au-18526012911174292.htm",
+      "summary": "Sáng 29.1, tại Phủ Chủ tịch, Chủ tịch nước Lương Cường đã chủ trì Lễ đón chính thức Chủ tịch Hội đồng châu Âu António Costa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:45:00+07:00",
+      "fetched": "2026-01-29T12:07:34.435101+07:00"
+    },
+    {
+      "id": "5079c3a6778fac25ded031f8f549afd1",
+      "title": "Trao quà tết cho 83 trẻ mồ côi do Covid-19",
+      "link": "https://thanhnien.vn/trao-qua-tet-cho-83-tre-mo-coi-do-covid-19-185260128202537723.htm",
+      "summary": "Đảng ủy, HĐND, UBND, Ủy ban MTTQ VN P.Chánh Hưng (Q.8 cũ), TP.HCM vừa tổ chức trao quà Tết Bính Ngọ cho 83 trẻ mồ côi do dịch Covid-19 trên địa bàn phường, đồng thời tri ân các cá nhân, đơn vị đã bảo trợ, đồng hành cùng các trẻ trong thời gian qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:45:00+07:00",
+      "fetched": "2026-01-29T12:07:34.435271+07:00"
+    },
+    {
+      "id": "12164da5d43ceaaf694752f88395d17f",
+      "title": "Cô giáo làng biển mê làm việc thiện",
+      "link": "https://thanhnien.vn/co-giao-lang-bien-me-lam-viec-thien-185260128195103291.htm",
+      "summary": "Từ những lớp học miễn phí cho con em làng biển đến những chuyến đi thiện nguyện lặng lẽ, suốt mấy chục năm qua, cô giáo Lê Thị Châu, nay đã 70 tuổi (trú P.Sơn Trà, TP.Đà Nẵng), chọn cách giúp người, giúp đời bằng trái tim của một người làm nghề \"gieo chữ\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:45:00+07:00",
+      "fetched": "2026-01-29T12:07:34.435426+07:00"
+    },
+    {
+      "id": "c4fcbb173aec897030d89dd45b1fe067",
+      "title": "Sai lầm nghiêm trọng với ổ SSD NVMe khiến PC 'đứng hình'",
+      "link": "https://thanhnien.vn/sai-lam-nghiem-trong-voi-o-ssd-nvme-khien-pc-dung-hinh-18526012910125956.htm",
+      "summary": "Mua được ổ SSD siêu tốc nhưng chạy như 'rùa bò'? Rất có thể bạn đang bỏ quên phụ kiện quan trọng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:44:00+07:00",
+      "fetched": "2026-01-29T12:07:34.435581+07:00"
+    },
+    {
+      "id": "00bbe32819cd08f780a0a56170e52b04",
+      "title": "Máy bay rớt bánh lúc cất cánh",
+      "link": "https://thanhnien.vn/may-bay-rot-banh-luc-cat-canh-185260129110040457.htm",
+      "summary": "Một chiếc máy bay chở khách hiệu Airbus của hãng hàng không British Airways đã bị rớt bánh càng đáp khi vừa cất cánh từ Las Vegas.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:43:00+07:00",
+      "fetched": "2026-01-29T12:07:34.435729+07:00"
+    },
+    {
+      "id": "88aabe2fba4367718144dd31d98b1251",
+      "title": "Sau cúc mâm xôi, cúc Hà Lan cũng nở sớm: Nông dân nhờ giải cứu hoa tết",
+      "link": "https://thanhnien.vn/sau-cuc-mam-xoi-cuc-ha-lan-cung-no-som-nong-dan-nho-giai-cuu-hoa-tet-185260129094401826.htm",
+      "summary": "Anh Võ Hoàng Giang (39 tuổi, xã Chợ Lách) khởi nghiệp năm đầu, trồng cúc Hà Lan nhưng giờ cả vườn nở sớm vàng rực, tha thiết xin cộng đồng giải cứu hoa tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:39:00+07:00",
+      "fetched": "2026-01-29T12:07:34.435876+07:00"
+    },
+    {
+      "id": "7aa19d1bb94d7ceb1bfe7f610e84b771",
+      "title": "Patrik Lê Giang nhập tịch thành công: Đội tuyển Việt Nam có thủ môn 'đỉnh' đấu Malaysia",
+      "link": "https://thanhnien.vn/patrik-le-giang-nhap-tich-thanh-cong-doi-tuyen-viet-nam-co-thu-mon-dinh-dau-malaysia-1852601291131475.htm",
+      "summary": "Thủ môn Patrik Lê Giang đã nhập tịch thành công sau 3 năm thi đấu ở V-League, nhờ vậy đủ điều kiện lên đội tuyển Việt Nam để chuẩn bị cho trận hạ màn gặp Malaysia vào tháng 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:34:00+07:00",
+      "fetched": "2026-01-29T12:07:34.436024+07:00"
+    },
+    {
+      "id": "e4e1080626d4169cffc13d7d2ab5fcb5",
+      "title": "Sáng nào cũng 1 - 2 quả trứng: Điều gì xảy ra cho lượng đường trong máu?",
+      "link": "https://thanhnien.vn/sang-nao-cung-1-2-qua-trung-dieu-gi-xay-ra-cho-luong-duong-trong-mau-185260129113308076.htm",
+      "summary": "Trứng là món ăn sáng ngon miệng, tiện lợi và giàu dinh dưỡng được nhiều người ưa chuộng. Tuy nhiên, đối với người bệnh tiểu đường, liệu 1 - 2 quả trứng mỗi sáng có thực sự an toàn cho mức đường huyết?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:33:00+07:00",
+      "fetched": "2026-01-29T12:07:34.436195+07:00"
+    },
+    {
+      "id": "791278a2e26809d98d5f67984d55c162",
+      "title": "Thông tuyến đường vành đai Đà Lạt sau 2 lần gia hạn",
+      "link": "https://thanhnien.vn/thong-tuyen-duong-vanh-dai-da-lat-sau-2-lan-gia-han-185260129103842052.htm",
+      "summary": "Sau 2 lần gia hạn vì vướng mặt bằng, dự án đường vành đai Đà Lạt vừa thông tuyến phục vụ nhu cầu đi lại của người dân và du khách dịp Tết Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:30:00+07:00",
+      "fetched": "2026-01-29T12:07:34.436351+07:00"
+    },
+    {
+      "id": "61532ec369b7af327dad32867c0514eb",
+      "title": "Mỹ có thể bàn giao tàu dầu bị bắt cho Venezuela",
+      "link": "https://vnexpress.net/my-co-the-ban-giao-tau-dau-bi-bat-cho-venezuela-5011296.html",
+      "summary": "Quan chức Mỹ tiết lộ nước này sẽ trả tàu dầu MT Sophia, bị bắt giữ trên vùng biển Caribe hồi đầu tháng, cho Venezuela.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T04:26:19+07:00",
+      "fetched": "2026-01-29T12:07:36.813054+07:00"
+    },
+    {
+      "id": "7b30fa1b93ff06569c928accfe5eef76",
+      "title": "Nam phi công trong vụ máy bay quân sự rơi ở Đăk Lăk đã xuất viện",
+      "link": "https://vnexpress.net/nam-phi-cong-trong-vu-may-bay-quan-su-roi-o-dak-lak-da-xuat-vien-5011425.html",
+      "summary": "Trung úy phi công Đinh Thành Trung, người bị thương trong vụ nhảy dù thoát hiểm do sự cố máy bay rơi xuất viện sau một ngày điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:18:31+07:00",
+      "fetched": "2026-01-29T12:07:31.033320+07:00"
+    },
+    {
+      "id": "3963f68bce7efd4bdc5828306e785c45",
+      "title": "Chủ tịch nước chủ trì lễ đón Chủ tịch Hội đồng châu Âu",
+      "link": "https://vnexpress.net/chu-tich-nuoc-chu-tri-le-don-chu-tich-hoi-dong-chau-au-5011385.html",
+      "summary": "Chủ tịch nước Lương Cường chủ trì lễ đón Chủ tịch Hội đồng châu Âu Antonio Costa đang thăm chính thức Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:06:27+07:00",
+      "fetched": "2026-01-29T12:07:31.033500+07:00"
+    },
+    {
+      "id": "3963f68bce7efd4bdc5828306e785c45",
+      "title": "Chủ tịch nước chủ trì lễ đón Chủ tịch Hội đồng châu Âu",
+      "link": "https://vnexpress.net/chu-tich-nuoc-chu-tri-le-don-chu-tich-hoi-dong-chau-au-5011385.html",
+      "summary": "Chủ tịch nước Lương Cường chủ trì lễ đón Chủ tịch Hội đồng châu Âu Antonio Costa đang thăm chính thức Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T04:06:27+07:00",
+      "fetched": "2026-01-29T12:07:36.813248+07:00"
+    },
+    {
       "id": "56623f5aba6eb8f9f39563ad68d8dbd6",
       "title": "M.U làm sống lại cuộc đua vô địch",
       "link": "https://thanhnien.vn/mu-lam-song-lai-cuoc-dua-vo-dich-185260128232447998.htm",
@@ -311,6 +651,76 @@ window.newsData_2026_01_29 = {
       "category": "Tổng hợp",
       "published": "2026-01-29T04:00:00+07:00",
       "fetched": "2026-01-29T11:00:11.990232+07:00"
+    },
+    {
+      "id": "76905c732c5eaa133100815ee507fcfa",
+      "title": "Bàn chải đánh răng kẹt trong dạ dày thiếu nữ",
+      "link": "https://vnexpress.net/ban-chai-danh-rang-ket-trong-da-day-thieu-nu-5011281.html",
+      "summary": "Ngọc, 18 tuổi, lỡ nuốt bàn chải đánh răng, đau bụng, nôn ói, từ Mỹ về nước vào bệnh viện gắp dị vật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:00:00+07:00",
+      "fetched": "2026-01-29T12:07:31.033665+07:00"
+    },
+    {
+      "id": "dc66b3ddc66d859fae8a60a51959c86c",
+      "title": "Buồng trứng đa nang ở tuổi 21",
+      "link": "https://vnexpress.net/buong-trung-da-nang-o-tuoi-21-5011275.html",
+      "summary": "Trân, 21 tuổi, béo phì từ nhỏ, nay bác sĩ chẩn đoán mắc hội chứng đa nang buồng trứng do thừa cân kéo dài, gan nhiễm mỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:00:00+07:00",
+      "fetched": "2026-01-29T12:07:31.033829+07:00"
+    },
+    {
+      "id": "47879b75f05129ab6907ae83c7b96fac",
+      "title": "Huawei FreeClip 2 - cải tiến thiết kế và âm thanh",
+      "link": "https://vnexpress.net/huawei-freeclip-2-cai-tien-thiet-ke-va-am-thanh-5010988.html",
+      "summary": "FreeClip 2, mẫu tai nghe kẹp vành tai thế hệ hai, của Huawei được cải tiến giúp việc đeo dễ chịu hơn, trang bị driver kép mới cải thiện đáng kể âm bass.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:00:00+07:00",
+      "fetched": "2026-01-29T12:07:31.033991+07:00"
+    },
+    {
+      "id": "846c6b4134b7da7cbe8f9c55ff125904",
+      "title": "Ai là thủy tổ của triều đại nhà Trần trong sử Việt?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-ai-la-thuy-to-cua-trieu-dai-nha-tran-trong-su-viet-5010910.html",
+      "summary": "Đây là ông của Trần Thái Tông, người sáng lập triều đại nhà Trần; Ông khởi đầu sự nghiệp cai trị Đại Việt gần 200 năm của nhà Trần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T04:00:00+07:00",
+      "fetched": "2026-01-29T12:07:31.034170+07:00"
+    },
+    {
+      "id": "47879b75f05129ab6907ae83c7b96fac",
+      "title": "Huawei FreeClip 2 - cải tiến thiết kế và âm thanh",
+      "link": "https://vnexpress.net/huawei-freeclip-2-cai-tien-thiet-ke-va-am-thanh-5010988.html",
+      "summary": "FreeClip 2, mẫu tai nghe kẹp vành tai thế hệ hai, của Huawei được cải tiến giúp việc đeo dễ chịu hơn, trang bị driver kép mới cải thiện đáng kể âm bass.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-29T04:00:00+07:00",
+      "fetched": "2026-01-29T12:07:41.277271+07:00"
+    },
+    {
+      "id": "8a2f671828e1679a4af8c20ee8dbf808",
+      "title": "Y tá Mỹ bị bắn chết từng xô xát với đặc vụ liên bang từ trước",
+      "link": "https://vnexpress.net/y-ta-my-bi-ban-chet-tung-xo-xat-voi-dac-vu-lien-bang-tu-truoc-5011303.html",
+      "summary": "Y tá Pretti từng đụng độ với các đặc vụ liên bang trên đường phố Minneapolis, khoảng 11 ngày trước khi bị bắn chết trong cuộc xô xát khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:53:30+07:00",
+      "fetched": "2026-01-29T12:07:31.034336+07:00"
+    },
+    {
+      "id": "8a2f671828e1679a4af8c20ee8dbf808",
+      "title": "Y tá Mỹ bị bắn chết từng xô xát với đặc vụ liên bang từ trước",
+      "link": "https://vnexpress.net/y-ta-my-bi-ban-chet-tung-xo-xat-voi-dac-vu-lien-bang-tu-truoc-5011303.html",
+      "summary": "Y tá Pretti từng đụng độ với các đặc vụ liên bang trên đường phố Minneapolis, khoảng 11 ngày trước khi bị bắn chết trong cuộc xô xát khác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T03:53:30+07:00",
+      "fetched": "2026-01-29T12:07:36.813424+07:00"
     },
     {
       "id": "e4b937163c11cb47b58bc630d323cae4",
@@ -323,6 +733,16 @@ window.newsData_2026_01_29 = {
       "fetched": "2026-01-29T11:00:11.990405+07:00"
     },
     {
+      "id": "72ad89f5704c0f10d1728fb025f63015",
+      "title": "DJ Koo thực hiện tâm nguyện với Từ Hy Viên",
+      "link": "https://vnexpress.net/dj-koo-thuc-hien-tam-nguyen-voi-tu-hy-vien-5011307.html",
+      "summary": "Nghệ sĩ âm nhạc Hàn DJ Koo hoàn thành điêu khắc vợ - diễn viên Đài Loan Từ Hy Viên - sau một năm cô qua đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:51:02+07:00",
+      "fetched": "2026-01-29T12:07:31.034491+07:00"
+    },
+    {
       "id": "71a50bc20aacd080dba683001c7fff56",
       "title": "Cơ hội vàng trải nghiệm văn hóa Liverpool tại TP.HCM",
       "link": "https://thanhnien.vn/co-hoi-vang-trai-nghiem-van-hoa-liverpool-tai-tphcm-185260129102814208.htm",
@@ -331,6 +751,16 @@ window.newsData_2026_01_29 = {
       "category": "Tổng hợp",
       "published": "2026-01-29T03:51:00+07:00",
       "fetched": "2026-01-29T11:00:11.990563+07:00"
+    },
+    {
+      "id": "b279c7837f5c98cc987ccdf13923f4c1",
+      "title": "Rủi ro của hiệu trưởng bị phạt 10 triệu đồng vì học sinh hút vape",
+      "link": "https://vnexpress.net/rui-ro-cua-hieu-truong-bi-phat-10-trieu-dong-vi-hoc-sinh-hut-vape-5011354.html",
+      "summary": "Hiệu trưởng sẽ phải làm những gì để siết chặt việc học sinh lén lút hút thuốc lá điện tử trong trường học?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T03:43:51+07:00",
+      "fetched": "2026-01-29T12:07:31.034645+07:00"
     },
     {
       "id": "a09a5b905b75494eea65e41b232f93d5",
