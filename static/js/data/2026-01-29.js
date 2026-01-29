@@ -1,7 +1,157 @@
 window.newsData_2026_01_29 = {
   "date": "2026-01-29",
-  "lastUpdated": "2026-01-29T21:32:52.196146+07:00",
+  "lastUpdated": "2026-01-29T23:32:29.278143+07:00",
   "articles": [
+    {
+      "id": "4f275e681627ed2ca88d22bafa48295d",
+      "title": "Đại học Quốc gia TP.HCM thêm đãi ngộ thu hút nhà khoa học quốc tế",
+      "link": "https://tuoitre.vn/dai-hoc-quoc-gia-tp-hcm-them-dai-ngo-thu-hut-nha-khoa-hoc-quoc-te-20260129190928185.htm",
+      "summary": "Đại học Quốc gia TP.HCM sẽ có nhiều chính sách quan trọng để thu hút các nhà khoa học, chuyên gia đầu ngành về công tác và giảng dạy thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.703604+07:00",
+      "fetched": "2026-01-29T23:32:22.703721+07:00"
+    },
+    {
+      "id": "05b77f4bfc36b71413dea6abd9a0e36b",
+      "title": "Thủ tướng đề nghị EU sớm cử đoàn thanh tra, gỡ bỏ thẻ vàng IUU cho Việt Nam",
+      "link": "https://tuoitre.vn/thu-tuong-de-nghi-eu-som-cu-doan-thanh-tra-go-bo-the-vang-iuu-cho-viet-nam-20260129202035654.htm",
+      "summary": "Thủ tướng đề nghị EU tính đến nỗ lực nghiêm túc và hiệu quả của Việt Nam cũng như quan hệ mới Đối tác chiến lược toàn diện, nhằm nhanh chóng gỡ bỏ 'thẻ vàng' IUU.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.703465+07:00",
+      "fetched": "2026-01-29T23:32:22.703592+07:00"
+    },
+    {
+      "id": "67428817b6974de9ab620f188f372f4b",
+      "title": "Món cổ Tết Bát Tràng: Su hào xào mực với công đoạn xé mực kỳ công",
+      "link": "https://tuoitre.vn/mon-co-tet-bat-trang-su-hao-xao-muc-voi-cong-doan-xe-muc-ky-cong-20260129202503727.htm",
+      "summary": "Trên trang Hà Thành hương xưa vị cũ, tác giả Bùi Thủy giới thiệu món Su hào xào mực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.703343+07:00",
+      "fetched": "2026-01-29T23:32:22.703454+07:00"
+    },
+    {
+      "id": "39c1f167169dd0fe2b17ed0857a60843",
+      "title": "Móc trộm cua tại cơ sở 'vua cua' ở Cà Mau",
+      "link": "https://tuoitre.vn/moc-trom-cua-tai-co-so-vua-cua-o-ca-mau-2026012920314617.htm",
+      "summary": "Thay vì đi bắt cua trong hang tự nhiên, các đối tượng lợi dụng đêm khuya, lúc chủ cơ sở không có mặt, đột nhập vựa cua để móc trộm cua thịt chứa trong các thùng nhựa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.703213+07:00",
+      "fetched": "2026-01-29T23:32:22.703332+07:00"
+    },
+    {
+      "id": "05d1a7bea2e6f404b005f005a3067436",
+      "title": "Giá heo hơi tăng cao nhưng siêu thị vẫn mạnh tay giảm giá thịt, hỗ trợ người dân sắm Tết",
+      "link": "https://tuoitre.vn/gia-heo-hoi-tang-cao-nhung-sieu-thi-van-manh-tay-giam-gia-thit-ho-tro-nguoi-dan-sam-tet-20260129202711424.htm",
+      "summary": "Trái ngược với xu hướng giá heo hơi xuất chuồng và giá thịt bán lẻ tại các chợ đang tăng mạnh, một số hệ thống phân phối hiện đại đã thực hiện giảm giá thịt heo nhằm bình ổn thị trường trong giai đoạn cận Tết, hỗ trợ người tiêu dùng mua sắm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.703088+07:00",
+      "fetched": "2026-01-29T23:32:22.703202+07:00"
+    },
+    {
+      "id": "acf9800f2f71fb90216e09a75bbcfbd2",
+      "title": "Chủ tịch Quốc hội gặp Chủ tịch Hội đồng châu Âu, đề nghị thúc đẩy phê chuẩn EVIPA",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-gap-chu-tich-hoi-dong-chau-au-de-nghi-thuc-day-phe-chuan-evipa-20260129203556771.htm",
+      "summary": "Chiều 29-1 tại Nhà Quốc hội, Chủ tịch Quốc hội Trần Thanh Mẫn đã hội kiến Chủ tịch Hội đồng châu Âu Antonio Costa đang có chuyến thăm chính thức Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.702962+07:00",
+      "fetched": "2026-01-29T23:32:22.703077+07:00"
+    },
+    {
+      "id": "984c7dce2d5de006ea80a269427e3e96",
+      "title": "Giám đốc kỹ thuật Đặng Trần Chỉnh chọn ngoại binh cao 1m95",
+      "link": "https://tuoitre.vn/giam-doc-ky-thuat-dang-tran-chinh-chon-ngoai-binh-cao-1m95-20260129202032725.htm",
+      "summary": "CLB Becamex TP.HCM sẽ trình làng ngoại binh cao 1m95, Sam Elisha Bruce thay cho đồng nghiệp người Nigeria ở giai đoạn 2 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.702834+07:00",
+      "fetched": "2026-01-29T23:32:22.702950+07:00"
+    },
+    {
+      "id": "6261f8394f2b59f6131274f5dd907e69",
+      "title": "Con cái chúng ta đều tốt: Chìa khóa để tạo ra thay đổi xuyên thế hệ",
+      "link": "https://tuoitre.vn/con-cai-chung-ta-deu-tot-chia-khoa-de-tao-ra-thay-doi-xuyen-the-he-20260129181023747.htm",
+      "summary": "Nhiều bậc làm cha mẹ, ít nhiều đều có những lúc gặp 'vấn đề' với con cái: một đứa trẻ khó bảo, một đứa con sắp đến tuổi vị thành niên bướng bỉnh… Cha mẹ nào cũng muốn trở thành người tốt hơn trong quá trình nuôi dạy, ứng xử với các 'vấn đề' của con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.702687+07:00",
+      "fetched": "2026-01-29T23:32:22.702821+07:00"
+    },
+    {
+      "id": "31daab2fd5050c8615cf0468481b67bc",
+      "title": "Chuyển động đáng chú ý về lãnh đạo ở FLC sau khi ông Trịnh Văn Quyết tái xuất",
+      "link": "https://tuoitre.vn/chuyen-dong-dang-chu-y-ve-lanh-dao-o-flc-sau-khi-ong-trinh-van-quyet-tai-xuat-20260129205825745.htm",
+      "summary": "Ông Phạm Mạnh Thắng - cựu Chủ tịch PGBank - chính thức gia nhập Tập đoàn FLC của ông Trịnh Văn Quyết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.702555+07:00",
+      "fetched": "2026-01-29T23:32:22.702674+07:00"
+    },
+    {
+      "id": "3d1ecb5047ef870f9e030b24b87006a6",
+      "title": "'Bỏ quên' 23 hành khách, máy bay Thai AirAsia phải quay đầu giữa chừng",
+      "link": "https://tuoitre.vn/bo-quen-23-hanh-khach-may-bay-thai-airasia-phai-quay-dau-giua-chung-20260129210606972.htm",
+      "summary": "23 hành khách bị 'bỏ quên' tại sân bay Don Mueang (Bangkok, Thái Lan), buộc máy bay phải quay trở lại, khiến chuyến bay chậm hơn 30 phút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.702428+07:00",
+      "fetched": "2026-01-29T23:32:22.702543+07:00"
+    },
+    {
+      "id": "b07fd6ea639ebf20a88a7e313b183029",
+      "title": "Lịch trực tiếp vòng 8 Giải hạng nhất: Chờ Công Phượng trở lại",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-8-giai-hang-nhat-cho-cong-phuong-tro-lai-20260129175452146.htm",
+      "summary": "Tâm điểm của vòng 8 Giải hạng nhất 2025-2026 là cuộc đấu giữa CLB Đồng Nai và Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.702295+07:00",
+      "fetched": "2026-01-29T23:32:22.702415+07:00"
+    },
+    {
+      "id": "b72c6c655eabf64af72d06a11f0cc80e",
+      "title": "Gánh 68% doanh thu cho công ty mẹ, Long Châu đang cạnh tranh bằng cách nào?",
+      "link": "https://tuoitre.vn/ganh-68-doanh-thu-cho-cong-ty-me-long-chau-dang-canh-tranh-bang-cach-nao-20260129205608431.htm",
+      "summary": "Ra đời sau nhưng Long Châu đang trở thành trụ cột doanh thu cho công ty mẹ. Trong khi đó, chuỗi bán lẻ điện máy FPT Shop cũng dần phục hồi sau giai đoạn nhiều thách thức, giữa áp lực cạnh tranh gay gắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.702163+07:00",
+      "fetched": "2026-01-29T23:32:22.702283+07:00"
+    },
+    {
+      "id": "350df3f14cced494409e68a8b760c794",
+      "title": "Kinh doanh có lãi, nhiều 'ông lớn' vẫn hụt kế hoạch năm",
+      "link": "https://tuoitre.vn/kinh-doanh-co-lai-nhieu-ong-lon-van-hut-ke-hoach-nam-2026012917465019.htm",
+      "summary": "Dù vẫn ghi nhận lợi nhuận trong năm 2025, nhiều doanh nghiệp vẫn chưa hoàn thành các chỉ tiêu kinh doanh đã đề ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.702022+07:00",
+      "fetched": "2026-01-29T23:32:22.702151+07:00"
+    },
+    {
+      "id": "e2857b492de99e88cd2672b3981281f7",
+      "title": "Lịch thi đấu bán kết Úc mở rộng 2026: Djokovic đại chiến Sinner",
+      "link": "https://tuoitre.vn/lich-thi-dau-ban-ket-uc-mo-rong-2026-djokovic-dai-chien-sinner-20260129212146063.htm",
+      "summary": "Bán kết đơn nam Úc mở rộng 2026 quy tụ 4 cái tên mạnh nhất là: Sinner, Alcaraz, Zverev và Djokovic.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.701879+07:00",
+      "fetched": "2026-01-29T23:32:22.702009+07:00"
+    },
+    {
+      "id": "bfde7e7ff09b0f708253ff621b68ec17",
+      "title": "Hội đồng vàng thế giới: Nhu cầu vàng thế giới vượt 5.000 tấn, sẽ còn tăng trong 2026",
+      "link": "https://tuoitre.vn/hoi-dong-vang-the-gioi-nhu-cau-vang-the-gioi-vuot-5-000-tan-se-con-tang-trong-2026-20260129213036268.htm",
+      "summary": "Hội đồng vàng thế giới (WGC) cho biết nhu cầu vàng tăng cao kỷ lục trong năm 2025, lên đến hơn 5.000 tấn, bất chấp giá vàng ngày càng leo thang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T23:32:22.701638+07:00",
+      "fetched": "2026-01-29T23:32:22.701863+07:00"
+    },
     {
       "id": "bc2129f5a35f3203b6b3fc2463df9222",
       "title": "Sinh viên Đại học Tasmania giao lưu học tập tại Học viện Nông nghiệp Việt Nam",
@@ -393,6 +543,36 @@ window.newsData_2026_01_29 = {
       "fetched": "2026-01-29T17:27:13.614886+07:00"
     },
     {
+      "id": "a756880a482cb0f63b8d7c52f3c3c4fd",
+      "title": "Đường sắt tốc độ cao Hà Nội - Quảng Ninh dự kiến khởi công trong tháng 3",
+      "link": "https://thanhnien.vn/duong-sat-toc-do-cao-ha-noi-quang-ninh-du-kien-khoi-cong-trong-thang-3-185260129215143801.htm",
+      "summary": "Dự án đường sắt tốc độ cao Hà Nội - Quảng Ninh được xác định là hạ tầng chiến lược liên vùng, dự kiến khởi công trong tháng 3 tới, mở trục kết nối hiện đại Hà Nội - Hải Phòng - Quảng Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T16:32:00+07:00",
+      "fetched": "2026-01-29T23:32:21.310290+07:00"
+    },
+    {
+      "id": "b0630e606518d3a1165572afe1424a62",
+      "title": "Sẽ kiểm định khí thải 70 triệu xe máy cả nước ra sao?",
+      "link": "https://thanhnien.vn/se-kiem-dinh-khi-thai-70-trieu-xe-may-ca-nuoc-ra-sao-185260129220742062.htm",
+      "summary": "Để chuẩn bị cho mốc 1.7.2027 kiểm định khí thải khoảng 70 triệu xe máy, cả nước cần có hơn 5.000 cơ sở kiểm định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T16:26:00+07:00",
+      "fetched": "2026-01-29T23:32:21.310461+07:00"
+    },
+    {
+      "id": "cd27e83d9ee6e3ff56de3f694cab848f",
+      "title": "Hà Nội đón danh hiệu 'Thành phố học tập toàn cầu'",
+      "link": "https://thanhnien.vn/ha-noi-don-danh-hieu-thanh-pho-hoc-tap-toan-cau-185260129221010434.htm",
+      "summary": "Tối nay 29.1, tại Trung tâm Hoạt động văn hóa khoa học Văn Miếu - Quốc Tử Giám, UBND TP.Hà Nội tổ chức lễ đón nhận danh hiệu là thành viên Mạng lưới 'Thành phố học tập toàn cầu' của UNESCO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T16:22:00+07:00",
+      "fetched": "2026-01-29T23:32:21.310622+07:00"
+    },
+    {
       "id": "7949d7346cbf05ea11dded6458e8dc04",
       "title": "Phát hiện ứng viên 'Trái đất thứ hai' có khả năng tồn tại sự sống",
       "link": "https://tuoitre.vn/phat-hien-ung-vien-trai-dat-thu-hai-co-kha-nang-ton-tai-su-song-20260129132308475.htm",
@@ -541,6 +721,166 @@ window.newsData_2026_01_29 = {
       "category": "Tổng hợp",
       "published": "2026-01-29T15:28:31.751173+07:00",
       "fetched": "2026-01-29T15:28:31.751386+07:00"
+    },
+    {
+      "id": "bac0c4cdb011b9964c913d276f308d64",
+      "title": "Đình Bắc nhận danh hiệu VĐV trẻ 2025, tiết lộ hành động cực đặc biệt sau khi giành vàng SEA Games 33",
+      "link": "https://thanhnien.vn/dinh-bac-nhan-danh-hieu-vdv-tre-cua-nam-2025-bat-mi-muc-tieu-nam-2026-185260129221825918.htm",
+      "summary": "Trong gala trao giải Cúp Chiến diễn ra đêm 29.1, tiền đạo Nguyễn Đình Bắc đã vinh dự nhận danh hiệu VĐV trẻ của năm 2025, tiết lộ khoảnh khắc của năm khi đội chiếc mũ cối cho HLV Kim Sang-sik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T15:24:00+07:00",
+      "fetched": "2026-01-29T23:32:21.310802+07:00"
+    },
+    {
+      "id": "9cf3a67cc4c65e8f3a3e26afd35ba8dc",
+      "title": "Hình ảnh Đình Bắc đội mũ cối cho HLV Kim Sang-sik được vinh danh, U.22 Việt Nam thắng lớn",
+      "link": "https://thanhnien.vn/hinh-anh-dinh-bac-doi-mu-coi-cho-hlv-kim-sang-sik-duoc-vinh-danh-u22-viet-nam-thang-lon-185260129142037331.htm",
+      "summary": "HLV Kim Sang-sik cùng U.22 Việt Nam bội thu giải thưởng tại lễ trao giải Cúp chiến thắng, nơi vinh danh những VĐV và đội tuyển thể thao xuất sắc nhất năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T15:23:00+07:00",
+      "fetched": "2026-01-29T23:32:21.310965+07:00"
+    },
+    {
+      "id": "269537bf89eee4c8bcbaa1ae3739364c",
+      "title": "Nguyên Phó tổng giám đốc Vietcombank làm sếp FLC",
+      "link": "https://vnexpress.net/nguyen-pho-tong-giam-doc-vietcombank-lam-sep-flc-5011664.html",
+      "summary": "Tập đoàn FLC vừa bổ nhiệm ông Phạm Mạnh Thắng, nguyên Phó tổng giám đốc Vietcombank, vào ban điều hành từ ngày 28/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T15:19:33+07:00",
+      "fetched": "2026-01-29T23:32:18.127454+07:00"
+    },
+    {
+      "id": "269537bf89eee4c8bcbaa1ae3739364c",
+      "title": "Nguyên Phó tổng giám đốc Vietcombank làm sếp FLC",
+      "link": "https://vnexpress.net/nguyen-pho-tong-giam-doc-vietcombank-lam-sep-flc-5011664.html",
+      "summary": "Tập đoàn FLC vừa bổ nhiệm ông Phạm Mạnh Thắng, nguyên Phó tổng giám đốc Vietcombank, vào ban điều hành từ ngày 28/1.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-29T15:19:33+07:00",
+      "fetched": "2026-01-29T23:32:25.108893+07:00"
+    },
+    {
+      "id": "05a9042293583607da097b7330257458",
+      "title": "Chuyên gia khuyến cáo đầu tư vàng, bạc an toàn",
+      "link": "https://thanhnien.vn/chuyen-gia-khuyen-cao-dau-tu-vang-bac-an-toan-185260129183444194.htm",
+      "summary": "Hôm nay 29.1, giá mỗi lượng vàng vượt 190 triệu đồng, giá mỗi kg bạc vượt 120 triệu đồng. Chuyên gia cho rằng, nhà đầu tư có thể 'rót tiền' vào vàng, bạc với tỷ lệ 70% vàng - 30% bạc hoặc đầu tư bạc chỉ dưới 20%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T15:06:00+07:00",
+      "fetched": "2026-01-29T23:32:21.311125+07:00"
+    },
+    {
+      "id": "683c6fead61da2c5267b09d87b262f1e",
+      "title": "Xuân Son đưa Nam Định vào bán kết Cup Đông Nam Á",
+      "link": "https://vnexpress.net/xuan-son-dua-nam-dinh-vao-ban-ket-cup-dong-nam-a-5011661.html",
+      "summary": "Tiền đạo Nguyễn Xuân Son lập cú đúp giúp Nam Định thắng Lion City 3-0 ở lượt 4 bảng B Cup CLB Đông Nam Á 2025-2026, tối 29/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T15:04:36+07:00",
+      "fetched": "2026-01-29T23:32:18.127634+07:00"
+    },
+    {
+      "id": "683c6fead61da2c5267b09d87b262f1e",
+      "title": "Xuân Son đưa Nam Định vào bán kết Cup Đông Nam Á",
+      "link": "https://vnexpress.net/xuan-son-dua-nam-dinh-vao-ban-ket-cup-dong-nam-a-5011661.html",
+      "summary": "Tiền đạo Nguyễn Xuân Son lập cú đúp giúp Nam Định thắng Lion City 3-0 ở lượt 4 bảng B Cup CLB Đông Nam Á 2025-2026, tối 29/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T15:04:36+07:00",
+      "fetched": "2026-01-29T23:32:29.264379+07:00"
+    },
+    {
+      "id": "e436a0e2a4ab6286aeca4fe81810be44",
+      "title": "Thúc đẩy hợp tác giữa Quốc hội Việt Nam và Nghị viện châu Âu",
+      "link": "https://thanhnien.vn/thuc-day-hop-tac-giua-quoc-hoi-viet-nam-va-nghi-vien-chau-au-185260129211942991.htm",
+      "summary": "Chiều 29.1, Chủ tịch Quốc hội Trần Thanh Mẫn đã hội kiến Chủ tịch Hội đồng châu Âu António Costa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T15:00:00+07:00",
+      "fetched": "2026-01-29T23:32:21.311282+07:00"
+    },
+    {
+      "id": "875b064e578bc236fc4db6b393407ccf",
+      "title": "Váy cocktail, quần tây, giày cao gót... sự dung hòa giữa ban ngày và tiệc tối",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-cocktail-quan-tay-giay-cao-got-su-dung-hoa-giua-ban-ngay-va-tiec-toi-185260129082936607.htm",
+      "summary": "Ra đời như một sự dung hòa giữa trang phục ban ngày và trang phục buổi tối, quy tắc trang phục dự tiệc cocktail dành cho nữ giới đã phát triển theo thời gian, thích ứng với các mùa, thời điểm trong ngày và bối cảnh khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T15:00:00+07:00",
+      "fetched": "2026-01-29T23:32:21.311435+07:00"
+    },
+    {
+      "id": "75880b04196a52a0fb5f1e8f0f672fd0",
+      "title": "Đưa quan hệ Đối tác chiến lược toàn diện Việt Nam - EU đi vào chiều sâu",
+      "link": "https://thanhnien.vn/dua-quan-he-doi-tac-chien-luoc-toan-dien-viet-nam-eu-di-vao-chieu-sau-185260129212836926.htm",
+      "summary": "Ngày 29.1, Thủ tướng Phạm Minh Chính đã hội kiến Chủ tịch Hội đồng châu Âu António Costa đang thăm chính thức Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T14:55:00+07:00",
+      "fetched": "2026-01-29T23:32:21.311587+07:00"
+    },
+    {
+      "id": "34884a6f677c4f018c6ede8b4f71ebc6",
+      "title": "'Khả năng bùng phát dịch Nipah tại TP HCM là rất thấp'",
+      "link": "https://vnexpress.net/kha-nang-bung-phat-dich-nipah-tai-tp-hcm-la-rat-thap-5011644.html",
+      "summary": "Dù nguy cơ xâm nhập vẫn hiện hữu do giao thương quốc tế, ngành y tế nhận định TP HCM khó bùng phát dịch Nipah sau khi các mẫu xét nghiệm bệnh nhân viêm não đều cho kết quả âm tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T14:45:48+07:00",
+      "fetched": "2026-01-29T23:32:18.127825+07:00"
+    },
+    {
+      "id": "37d67d2daa05d94e8477c789d3509a32",
+      "title": "Nga cân nhắc sơ tán chuyên gia khỏi nhà máy điện hạt nhân Iran",
+      "link": "https://vnexpress.net/nga-can-nhac-so-tan-chuyen-gia-khoi-nha-may-dien-hat-nhan-iran-5011643.html",
+      "summary": "Nga sẵn sàng sơ tán nhân viên khỏi nhà máy điện hạt nhân Bushehr của Iran nếu tình hình xấu đi, theo lãnh đạo tập đoàn hạt nhân Rosatom.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T14:38:51+07:00",
+      "fetched": "2026-01-29T23:32:18.128002+07:00"
+    },
+    {
+      "id": "37d67d2daa05d94e8477c789d3509a32",
+      "title": "Nga cân nhắc sơ tán chuyên gia khỏi nhà máy điện hạt nhân Iran",
+      "link": "https://vnexpress.net/nga-can-nhac-so-tan-chuyen-gia-khoi-nha-may-dien-hat-nhan-iran-5011643.html",
+      "summary": "Nga sẵn sàng sơ tán nhân viên khỏi nhà máy điện hạt nhân Bushehr của Iran nếu tình hình xấu đi, theo lãnh đạo tập đoàn hạt nhân Rosatom.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T14:38:51+07:00",
+      "fetched": "2026-01-29T23:32:24.160019+07:00"
+    },
+    {
+      "id": "d5bfd682a9cffc7440fa0abaf3b85354",
+      "title": "Xuân Son ghi bàn bùng nổ, CLB Nam Định đánh bại Singapore: Vào bán kết giải vô địch CLB ASEAN",
+      "link": "https://thanhnien.vn/xuan-son-ghi-ban-bung-no-clb-nam-dinh-danh-bai-singapore-vao-ban-ket-giai-vo-dich-clb-asean-185260129213259271.htm",
+      "summary": "Xuân Son đã có pha nhảy múa trong khu vực cấm địa và ghi bàn giúp CLB Nam Định đánh bại Lion City Sailors (Singapore), sớm đoạt vé dự vòng bán kết giải vô địch CLB ASEAN 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T14:35:00+07:00",
+      "fetched": "2026-01-29T23:32:21.311743+07:00"
+    },
+    {
+      "id": "d9be52848a30b39a3a45b57c9a31c92e",
+      "title": "Khoảnh khắc ‘Đình Bắc đội mũi cối cho HLV Kim’ thắng giải ở Cup Chiến thắng",
+      "link": "https://vnexpress.net/khoanh-khac-dinh-bac-doi-mui-coi-cho-hlv-kim-thang-giai-o-cup-chien-thang-5011640.html",
+      "summary": "Khoảnh khắc giữa Nguyễn Đình Bắc và HLV Kim Sang-sik ở chung kết SEA Games 33, được vinh danh là “Hình ảnh ấn tượng của năm” trong Gala Cup Chiến thắng, tối 29/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T14:32:41+07:00",
+      "fetched": "2026-01-29T23:32:18.128159+07:00"
+    },
+    {
+      "id": "d9be52848a30b39a3a45b57c9a31c92e",
+      "title": "Khoảnh khắc ‘Đình Bắc đội mũi cối cho HLV Kim’ thắng giải ở Cup Chiến thắng",
+      "link": "https://vnexpress.net/khoanh-khac-dinh-bac-doi-mui-coi-cho-hlv-kim-thang-giai-o-cup-chien-thang-5011640.html",
+      "summary": "Khoảnh khắc giữa Nguyễn Đình Bắc và HLV Kim Sang-sik ở chung kết SEA Games 33, được vinh danh là “Hình ảnh ấn tượng của năm” trong Gala Cup Chiến thắng, tối 29/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T14:32:41+07:00",
+      "fetched": "2026-01-29T23:32:29.264555+07:00"
     },
     {
       "id": "d2960264e3402a3c642f3e5c4df112d6",
