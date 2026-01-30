@@ -1,6 +1,6 @@
 window.newsData_2026_01_31 = {
   "date": "2026-01-31",
-  "lastUpdated": "2026-01-31T03:18:55.870710+07:00",
+  "lastUpdated": "2026-01-31T05:15:12.184777+07:00",
   "articles": [
     {
       "id": "dbeb726dd7db3eb107e02aeeb5c5cf42",
@@ -161,6 +161,176 @@ window.newsData_2026_01_31 = {
       "category": "Tổng hợp",
       "published": "2026-01-31T01:29:31.208950+07:00",
       "fetched": "2026-01-31T01:29:31.209192+07:00"
+    },
+    {
+      "id": "6ae030ac420934739281f9a77fa9c48b",
+      "title": "Tử vi ngày 31 tháng 1: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-31-thang-1-con-giap-nao-may-man-hom-nay-185260130235911534.htm",
+      "summary": "Tử vi ngày 31 tháng 1 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T22:15:00+07:00",
+      "fetched": "2026-01-31T05:15:04.706921+07:00"
+    },
+    {
+      "id": "b6dc9369f9f282ffd0abf4c5e1548f3b",
+      "title": "Đình Bắc đoạt thêm giải thưởng U23 châu Á",
+      "link": "https://vnexpress.net/dinh-bac-doat-them-giai-thuong-u23-chau-a-5012101.html",
+      "summary": "Tiền đạo Nguyễn Đình Bắc được xướng tên \"Cầu thủ gây ấn tượng nhất\" giải U23 châu Á 2026, theo bình chọn của độc giả trang chủ AFC.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-30T22:03:55+07:00",
+      "fetched": "2026-01-31T05:15:12.179654+07:00"
+    },
+    {
+      "id": "4b514ece5b42758db8db03bc35be263b",
+      "title": "Bắt 4 tàu sắt chở gần 800 mét khối cát từ hướng biển đi vào sông Cửa Đại",
+      "link": "https://thanhnien.vn/bat-4-tau-sat-cho-gan-800-met-khoi-cat-tu-huong-bien-di-vao-song-cua-dai-185260130194416867.htm",
+      "summary": "Bộ đội biên phòng tuần tra, bắt giữ 4 tàu sắt chở gần 800 m3 cát đi từ cửa biển vào sông Cửa Đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T22:00:00+07:00",
+      "fetched": "2026-01-31T05:15:04.707094+07:00"
+    },
+    {
+      "id": "586fad4e666e9cbcee5b11f5c3a1e270",
+      "title": "Nghiên cứu hình thành các đô thị sân bay, liên kết trực tiếp với TP.HCM",
+      "link": "https://thanhnien.vn/nghien-cuu-hinh-thanh-cac-do-thi-san-bay-lien-ket-truc-tiep-voi-tphcm-185260130155334401.htm",
+      "summary": "Đồng Nai sẽ nghiên cứu hình thành các trung tâm đô thị mới mang tính động lực (mô hình đô thị sân bay) có chức năng liên kết trực tiếp với TP.HCM, phát huy tối đa lợi thế kết nối qua sông Đồng Nai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T22:00:00+07:00",
+      "fetched": "2026-01-31T05:15:04.707291+07:00"
+    },
+    {
+      "id": "8e98c97c2d1be5446beebc34a616e049",
+      "title": "Ngày mai bắt đầu tháng 2 dương: Ngày 30.2 là có thật, xuất hiện khi nào?",
+      "link": "https://thanhnien.vn/ngay-mai-bat-dau-thang-2-duong-ngay-302-la-co-that-xuat-hien-khi-nao-185260127105411886.htm",
+      "summary": "Theo dương lịch hiện đại, tháng 2 đặc biệt vì là tháng có ít ngày nhất trong năm, chỉ có 28 ngày (hoặc 29 ngày với năm nhuận). Tuy nhiên bạn có biết ngày 30.2 là ngày có thật trong lịch sử?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T22:00:00+07:00",
+      "fetched": "2026-01-31T05:15:04.707451+07:00"
+    },
+    {
+      "id": "a72ae1d3887ce3e55a9b33526faab9b2",
+      "title": "Canh bạc của nữ Thủ tướng Nhật khi tổ chức bầu cử sớm",
+      "link": "https://vnexpress.net/canh-bac-cua-nu-thu-tuong-nhat-khi-to-chuc-bau-cu-som-5011732.html",
+      "summary": "Thủ tướng Takaichi muốn tranh thủ đà ủng hộ đang lên để củng cố vị thế cho đảng cầm quyền trong tổng tuyển cử, nhưng cũng đối mặt nguy cơ mất chức nếu thất bại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-30T22:00:00+07:00",
+      "fetched": "2026-01-31T05:15:07.079610+07:00"
+    },
+    {
+      "id": "a58db37d9ba8aee05dc8e33869b33fa7",
+      "title": "Ecovacs T90 Pro Omni - robot lau con lăn dài 27 cm",
+      "link": "https://vnexpress.net/ecovacs-t90-pro-omni-robot-lau-con-lan-dai-27-cm-5011768.html",
+      "summary": "Deebot T90 Pro Omni là robot có hệ thống lau con lăn dài nhất với 27 cm, kết hợp 16 kim phun giúp phân bổ nước đều hơn cùng hệ thống giặt ngâm nước nóng trên trạm sạc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-30T22:00:00+07:00",
+      "fetched": "2026-01-31T05:15:11.110797+07:00"
+    },
+    {
+      "id": "4dc4dd954f4ccef244a6308d7d7ed501",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 31.1.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-3112026-185260130234544274.htm",
+      "summary": "Tin tức Thực phẩm nhập khẩu \"đứng hình\" vì chờ hướng dẫn; Hộ kinh doanh vẫn rối với hóa đơn; Những rủi ro hàng đầu thế giới năm 2026... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 31.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T21:45:00+07:00",
+      "fetched": "2026-01-31T05:15:04.707612+07:00"
+    },
+    {
+      "id": "b6effc43d28ce022a7cf091ec459cf05",
+      "title": "V-League chờ sức nóng từ U.23 Việt Nam",
+      "link": "https://thanhnien.vn/v-league-cho-suc-nong-tu-u23-viet-nam-185260130214438627.htm",
+      "summary": "Vào 18 giờ hôm nay, trên sân Lạch Tray diễn ra trận CLB Hải Phòng gặp Thể Công Viettel, cuộc đối đầu thú vị giữa những tuyển thủ U.23 VN như Nhật Minh, Văn Khang và Công Phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T21:40:00+07:00",
+      "fetched": "2026-01-31T05:15:04.707769+07:00"
+    },
+    {
+      "id": "1b38b1fc1bc370673349df511b8348f8",
+      "title": "Nữ bị can qua nhiều nước để trốn truy nã vẫn không thoát",
+      "link": "https://thanhnien.vn/nu-bi-can-qua-nhieu-nuoc-de-tron-truy-na-van-khong-thoat-185260130185146776.htm",
+      "summary": "Sau khi qua nhiều nước để trốn truy nã, rồi làm phiên dịch cho tổ chức lừa đảo ở Campuchia..., Bùi Thị Thu Hồng đã bị Công an TP.Huế cùng các đơn vị phối hợp bắt giữ khi vừa nhập cảnh trái phép vào Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T21:30:00+07:00",
+      "fetched": "2026-01-31T05:15:04.707921+07:00"
+    },
+    {
+      "id": "9c9020f29814ae3af0262c95ed8fbe22",
+      "title": "Vì sao dự án hơn 1.100 tỉ đồng ở Vũng Tàu chưa có đơn vị vận hành?",
+      "link": "https://thanhnien.vn/vi-sao-du-an-hon-1100-ti-dong-o-vung-tau-chua-co-don-vi-van-hanh-185260130180455488.htm",
+      "summary": "Dự án chỉnh trang trục đường Thùy Vân ở Vũng Tàu đã hoàn tất các hạng mục xây dựng cơ bản và đủ điều kiện pháp lý để đưa vào khai thác nhưng chưa có đơn vị vận hành. Vì sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T21:30:00+07:00",
+      "fetched": "2026-01-31T05:15:04.708073+07:00"
+    },
+    {
+      "id": "6d7b50d1fc1ed9b6454ac3a4da691658",
+      "title": "Chiến sự Ukraine ngày 1.437: Nga chuyển mục tiêu sau khi đồng ý ngừng tấn công năng lượng?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1437-nga-chuyen-muc-tieu-sau-khi-dong-y-ngung-tan-cong-nang-luong-185260130191503363.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky nói rằng không có cuộc tấn công nào của Nga vào cơ sở hạ tầng năng lượng trong đêm 29.1 và rạng sáng 30.1, trong khi Bộ Quốc phòng Nga nêu tổn thất của quân đội Ukraine trong tuần qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T21:29:00+07:00",
+      "fetched": "2026-01-31T05:15:04.708259+07:00"
+    },
+    {
+      "id": "2ed237b0325b3a3e8a199e026f9e89af",
+      "title": "Virus Nipah: Nắm rõ các triệu chứng để phòng bệnh khi chưa có vắc xin",
+      "link": "https://thanhnien.vn/virus-nipah-nam-ro-cac-trieu-chung-de-phong-benh-khi-chua-co-vac-xin-185260130222317064.htm",
+      "summary": "Bệnh do virus Nipah thuộc bệnh truyền nhiễm nhóm A theo quy định của Luật Phòng, chống các bệnh truyền nhiễm tại Việt Nam. Bệnh thường khởi phát với các triệu chứng không đặc hiệu, khiến việc phát hiện sớm gặp nhiều khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T21:09:00+07:00",
+      "fetched": "2026-01-31T05:15:04.708422+07:00"
+    },
+    {
+      "id": "d3d0aebabb1d66a8be5d575cc37f3f6c",
+      "title": "Mercedes S-class 2027 'nâng cấp một nửa xe'",
+      "link": "https://vnexpress.net/mercedes-s-class-2027-nang-cap-mot-nua-xe-5011697.html",
+      "summary": "Mẫu xe sedan đầu bảng của Mercedes thay đổi theo hướng hiện đại, nhiều tiện nghi cao cấp và bổ sung động cơ V8 công suất 530 mã lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T21:00:00+07:00",
+      "fetched": "2026-01-31T05:15:01.487695+07:00"
+    },
+    {
+      "id": "a753351b414f30bc07c6f1214e8be90f",
+      "title": "Nghề nuôi bệnh: Đừng đào tạo theo kiểu 'cưỡi ngựa xem hoa'",
+      "link": "https://thanhnien.vn/nghe-nuoi-benh-dung-dao-tao-theo-kieu-cuoi-ngua-xem-hoa-185260130210626569.htm",
+      "summary": "Để nghề nuôi bệnh được chính thức hóa, được nhà nước và pháp luật công nhận, quản lý bài bản trong môi trường y tế, thì việc đào tạo phải thực chất, không được qua loa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T21:00:00+07:00",
+      "fetched": "2026-01-31T05:15:04.708593+07:00"
+    },
+    {
+      "id": "21ae5abde2cc5636bfb34a083ed1f051",
+      "title": "Ronaldo thắp lại hy vọng vô địch cho Al Nassr",
+      "link": "https://vnexpress.net/ronaldo-thap-lai-hy-vong-vo-dich-cho-al-nassr-5012113.html",
+      "summary": "Cristiano Ronaldo ghi bàn mở tỷ số giúp Al Nassr thắng 3-0 trên sân Al Kholood ở vòng 19 Saudi Pro League, qua đó rút ngắn cách biệt với đỉnh bảng xuống ba điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T20:46:54+07:00",
+      "fetched": "2026-01-31T05:15:01.487895+07:00"
+    },
+    {
+      "id": "21ae5abde2cc5636bfb34a083ed1f051",
+      "title": "Ronaldo thắp lại hy vọng vô địch cho Al Nassr",
+      "link": "https://vnexpress.net/ronaldo-thap-lai-hy-vong-vo-dich-cho-al-nassr-5012113.html",
+      "summary": "Cristiano Ronaldo ghi bàn mở tỷ số giúp Al Nassr thắng 3-0 trên sân Al Kholood ở vòng 19 Saudi Pro League, qua đó rút ngắn cách biệt với đỉnh bảng xuống ba điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-30T20:46:54+07:00",
+      "fetched": "2026-01-31T05:15:12.179998+07:00"
     },
     {
       "id": "fd6a82c553b51763f317af3240d06fc1",
