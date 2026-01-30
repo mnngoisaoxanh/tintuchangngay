@@ -1,7 +1,157 @@
 window.newsData_2026_01_30 = {
   "date": "2026-01-30",
-  "lastUpdated": "2026-01-30T17:24:01.836749+07:00",
+  "lastUpdated": "2026-01-30T19:33:14.113111+07:00",
   "articles": [
+    {
+      "id": "753e3ac6370363a11c891f972f012cab",
+      "title": "Nguyệt hạ của kịch Hồng Vân tiếp tục nhận giải của Hội Sân khấu TP.HCM",
+      "link": "https://tuoitre.vn/nguyet-ha-cua-kich-hong-van-tiep-tuc-nhan-giai-cua-hoi-san-khau-tphcm-20260130131631845.htm",
+      "summary": "Trong buổi tổng kết hoạt động năm 2025 của Hội Sân khấu TP.HCM, vở kịch Nguyệt hạ của Sân khấu kịch Hồng Vân đã được trao giải A trong hạng mục Tác phẩm sân khấu năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.059452+07:00",
+      "fetched": "2026-01-30T19:33:06.059549+07:00"
+    },
+    {
+      "id": "40a312b74555a65d689b927b73faf6c3",
+      "title": "Xe Toyota trúng đạn súng chống tăng vẫn chạy như thể không có gì xảy ra, dân mạng trầm trồ",
+      "link": "https://tuoitre.vn/xe-toyota-trung-dan-sung-chong-tang-van-di-chuyen-nhu-the-khong-co-gi-xay-ra-dan-mang-tram-tro-20260130151548973.htm",
+      "summary": "Một đoạn video ghi lại cảnh chiếc xe Toyota chở Thị trưởng Philippines bị bắn bằng súng phóng lựu giữa ban ngày nhưng vẫn tiếp tục chạy đang lan truyền mạnh trên mạng xã hội, thu hút sự chú ý về mức độ an toàn của chiếc SUV Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.059341+07:00",
+      "fetched": "2026-01-30T19:33:06.059441+07:00"
+    },
+    {
+      "id": "a9ffa66a50074f20247067ad484a5a07",
+      "title": "Giá vàng tăng, doanh thu 'ông lớn' PNJ vẫn đi lùi, vì sao?",
+      "link": "https://tuoitre.vn/gia-vang-tang-doanh-thu-ong-lon-pnj-van-di-lui-vi-sao-20260130164511635.htm",
+      "summary": "Giá vàng trong nước và thế giới biến động mạnh, kéo cổ phiếu ngành vàng duy nhất niêm yết trên sàn tăng hơn 30% trong một tháng, lập đỉnh 17 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.059233+07:00",
+      "fetched": "2026-01-30T19:33:06.059332+07:00"
+    },
+    {
+      "id": "c8cf5527f8207956a1aec1c6d7e6fc64",
+      "title": "Tạm cấm nhiều tuyến phố trung tâm Hà Nội trong ngày 31-1",
+      "link": "https://tuoitre.vn/tam-cam-nhieu-tuyen-pho-trung-tam-ha-noi-trong-ngay-31-1-20260130163747432.htm",
+      "summary": "Công an Hà Nội phát thông báo phân luồng giao thông, tổ chức hướng đi cho các phương tiện phục vụ chương trình \"Hòa nhạc ánh sáng - Chào năm mới 2026\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.059119+07:00",
+      "fetched": "2026-01-30T19:33:06.059216+07:00"
+    },
+    {
+      "id": "377e18bfb38a3a967b19830622b6810d",
+      "title": "TP.HCM phê duyệt đề án xây dựng trung tâm dịch vụ lớn của cả nước và khu vực",
+      "link": "https://tuoitre.vn/tp-hcm-phe-duyet-de-an-xay-dung-trung-tam-dich-vu-lon-cua-ca-nuoc-va-khu-vuc-20260130163236345.htm",
+      "summary": "UBND TP.HCM vừa quyết định phê duyệt đề án “Xây dựng thành phố trở thành trung tâm dịch vụ lớn của cả nước và khu vực với các ngành dịch vụ cao cấp, hiện đại, có giá trị gia tăng cao”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.059012+07:00",
+      "fetched": "2026-01-30T19:33:06.059109+07:00"
+    },
+    {
+      "id": "b321f44f31b33add23eb5765438412c5",
+      "title": "Ông Trump gọi nạn nhân bị đặc vụ ICE bắn chết là 'kẻ kích động'",
+      "link": "https://tuoitre.vn/ong-trump-goi-nan-nhan-bi-dac-vu-ice-ban-chet-la-ke-kich-dong-20260130164846143.htm",
+      "summary": "Ông Trump gọi nạn nhân bị đặc vụ ICE bắn chết tại Minneapolis là \"kẻ kích động\", trong khi Nhà Trắng vẫn đang nỗ lực xoa dịu dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.058904+07:00",
+      "fetched": "2026-01-30T19:33:06.059003+07:00"
+    },
+    {
+      "id": "5edf2665ecb2353d561a1938878548ab",
+      "title": "Truyền thông Trung Quốc xem chuyến thăm Bắc Kinh của Thủ tướng Anh là vì kinh tế",
+      "link": "https://tuoitre.vn/truyen-thong-trung-quoc-xem-chuyen-tham-bac-kinh-cua-thu-tuong-anh-la-vi-kinh-te-20260130123652563.htm",
+      "summary": "Thủ tướng Anh được khen ngợi vì ưu tiên kinh tế hơn chính trị, không ép Trung Quốc về quan hệ với Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.058796+07:00",
+      "fetched": "2026-01-30T19:33:06.058892+07:00"
+    },
+    {
+      "id": "598705a35d4b5a5b5d58c3f4e2dd3c43",
+      "title": "Cấp bằng Tổ quốc ghi công cho 49 liệt sĩ Biệt động Sài Gòn - Gia Định",
+      "link": "https://tuoitre.vn/cap-bang-to-quoc-ghi-cong-cho-49-liet-si-biet-dong-sai-gon-gia-dinh-20260130164934771.htm",
+      "summary": "Thủ tướng Chính phủ có quyết định cấp bằng Tổ quốc ghi công cho 49 liệt sĩ là chiến sĩ Biệt động Sài Gòn - Gia Định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.058690+07:00",
+      "fetched": "2026-01-30T19:33:06.058787+07:00"
+    },
+    {
+      "id": "8c58eecbf6e92aa143f34e264d00a4df",
+      "title": "Thi công dự án vành đai 3 TP.HCM xuyên Tết để kịp mốc thông xe 30-4-2026",
+      "link": "https://tuoitre.vn/thi-cong-du-an-vanh-dai-3-tp-hcm-xuyen-tet-de-kip-moc-thong-xe-30-4-2026-20260130120012667.htm",
+      "summary": "Tết Bính Ngọ 2026, công trường vành đai 3 TP.HCM vẫn duy trì hoạt động. Người và máy móc tăng tốc hướng tới mốc thông xe trước ngày 30-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.058573+07:00",
+      "fetched": "2026-01-30T19:33:06.058680+07:00"
+    },
+    {
+      "id": "03018a09a734615cc7a2b4e94b51530f",
+      "title": "Khởi tố, bắt tạm giam Nguyễn Đình Thắng về tội khủng bố tại Đắk Lắk",
+      "link": "https://tuoitre.vn/khoi-to-bat-tam-giam-nguyen-dinh-thang-ve-toi-khung-bo-tai-dak-lak-20260130170626863.htm",
+      "summary": "Nguyễn Đình Thắng bị Cơ quan An ninh điều tra khởi tố bị can, bắt tạm giam với cáo buộc đã chỉ đạo, xúi giục, giúp sức cho Y Quynh Bdap chỉ đạo một số đối tượng trong nước thực hiện hành vi khủng bố, giết người tại tỉnh Đắk Lắk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.058466+07:00",
+      "fetched": "2026-01-30T19:33:06.058564+07:00"
+    },
+    {
+      "id": "d47e60a1112f8c297a938372457403f2",
+      "title": "SHB lãi trước thuế hơn 15.000 tỉ đồng",
+      "link": "https://tuoitre.vn/shb-lai-truoc-thue-hon-15-000-ti-dong-20260130162429514.htm",
+      "summary": "Ngân hàng TMCP Sài Gòn - Hà Nội (SHB) vừa công bố kết quả kinh doanh năm 2025 với nhiều chỉ số tăng trưởng tích cực, phản ánh nỗ lực duy trì hiệu quả hoạt động và củng cố nền tảng phát triển bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.058357+07:00",
+      "fetched": "2026-01-30T19:33:06.058456+07:00"
+    },
+    {
+      "id": "8d2155cf4ea288c14cce8ac9efc909e7",
+      "title": "Đi xe đạp điện không mũ bảo hiểm bị công an bắt… 'thụt dầu'",
+      "link": "https://tuoitre.vn/di-xe-dap-dien-khong-mu-bao-hiem-bi-cong-an-bat-thut-dau-20260130161218274.htm",
+      "summary": "Hai học sinh tiểu học đi xe đạp điện không đội mũ bảo hiểm bị Công an xã Hưng Mỹ, tỉnh Cà Mau bắt \"thụt dầu\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.058247+07:00",
+      "fetched": "2026-01-30T19:33:06.058347+07:00"
+    },
+    {
+      "id": "12d6dd2d312535b65bd85fff59f25caa",
+      "title": "Nhiều chương trình lớn được tổ chức trong 'siêu hội chợ' mùa xuân khai mạc ngày 2-2",
+      "link": "https://tuoitre.vn/nhieu-chuong-trinh-lon-duoc-to-chuc-trong-sieu-hoi-cho-mua-xuan-khai-mac-ngay-2-2-20260130162714548.htm",
+      "summary": "Ngày 30-1, Phó Thủ tướng Bùi Thanh Sơn - Trưởng Ban Chỉ đạo các hội chợ quốc gia - đã kiểm tra tình hình triển khai Hội chợ mùa xuân 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.058123+07:00",
+      "fetched": "2026-01-30T19:33:06.058237+07:00"
+    },
+    {
+      "id": "005e76f9f229bf7c16898cfab6f9bfd4",
+      "title": "Truy tố bị can về tội 'Giao cấu với người từ đủ 13 đến dưới 16 tuổi'",
+      "link": "https://tuoitre.vn/truy-to-bi-can-ve-toi-giao-cau-voi-nguoi-tu-du-13-den-duoi-16-tuoi-20260130163314786.htm",
+      "summary": "X.N. phát sinh tình cảm với Thuận nhưng bị gia đình ngăn cấm. N. hẹn Phan Văn Khải (anh ruột của Thuận) để yêu cầu Khải đừng kể chuyện N. và Thuận vẫn đang yêu nhau. Tại đây N. và Khải đã quan hệ dẫn đến có N. có thai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.058002+07:00",
+      "fetched": "2026-01-30T19:33:06.058113+07:00"
+    },
+    {
+      "id": "dbcdfcb3fcbc88ce4923a9ce3ba2fc42",
+      "title": "Hà Nội: Nhận vé miễn phí xem phim Tử chiến trên không, Địa đạo, Mùi cỏ cháy ở đâu?",
+      "link": "https://tuoitre.vn/ha-noi-nhan-ve-mien-phi-xem-phim-tu-chien-tren-khong-dia-dao-mui-co-chay-o-dau-20260130165621429.htm",
+      "summary": "Hoạt động trên nằm trong đợt phim chào mừng thành công Đại hội Đảng XIV; kỷ niệm 96 năm Ngày thành lập Đảng Cộng sản Việt Nam và Mừng Tết Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T19:33:06.057795+07:00",
+      "fetched": "2026-01-30T19:33:06.057989+07:00"
+    },
     {
       "id": "c2a9874391cb4a5ff3be976f58c3b071",
       "title": "Chi tiết danh sách Ban Bí thư khóa XIV",
@@ -453,6 +603,216 @@ window.newsData_2026_01_30 = {
       "fetched": "2026-01-30T13:36:07.049364+07:00"
     },
     {
+      "id": "63c6c33b475798003e6ad5f6f3cab7d0",
+      "title": "Thuế Hà Nội giải quyết thủ tục tại 31 điểm phục vụ hành chính công",
+      "link": "https://thanhnien.vn/thue-ha-noi-giai-quyet-thu-tuc-tai-31-diem-phuc-vu-hanh-chinh-cong-185260130114104809.htm",
+      "summary": "Từ ngày 2.2, Thuế TP.Hà Nội sẽ tiếp nhận, giải quyết thủ tục hành chính thuế tại 31 điểm phục vụ hành chính công trên địa bàn TP.Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T12:28:00+07:00",
+      "fetched": "2026-01-30T19:33:04.642296+07:00"
+    },
+    {
+      "id": "cb9e8d28e08de8247b337e1d6dfb683c",
+      "title": "Ông Trump đề cử ứng viên Chủ tịch Fed thay Jerome Powell",
+      "link": "https://vnexpress.net/ong-trump-de-cu-ung-vien-chu-tich-fed-thay-jerome-powell-5012064.html",
+      "summary": "Tổng thống Mỹ đề cử cựu Thống đốc Fed Kevin Warsh làm Chủ tịch Fed tiếp theo, sau khi ông Jerome Powell hết nhiệm kỳ vào tháng 5.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-30T12:25:40+07:00",
+      "fetched": "2026-01-30T19:33:09.011832+07:00"
+    },
+    {
+      "id": "f2fbe5197072e8402034424651253c7d",
+      "title": "Tối nay, mặt trăng hội ngộ sao Mộc: Có thể quan sát bằng mắt thường",
+      "link": "https://thanhnien.vn/toi-nay-mat-trang-hoi-ngo-sao-moc-co-the-quan-sat-bang-mat-thuong-185260130091730037.htm",
+      "summary": "Mặt trăng, được nhiều người yêu thiên văn gọi vui là 'nữ hoàng của màn đêm' hội ngộ sao Mộc vào tối nay 30.1. Người Việt Nam hãy nhìn lên trời ngắm bằng mắt thường cuộc gặp gỡ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T12:20:00+07:00",
+      "fetched": "2026-01-30T19:33:04.642446+07:00"
+    },
+    {
+      "id": "be2d3843eb9a389f2c81079345e60f4e",
+      "title": "Xử phạt 2 tài xế xe buýt sử dụng điện thoại khi lái xe",
+      "link": "https://thanhnien.vn/xu-phat-2-tai-xe-xe-buyt-su-dung-dien-thoai-khi-lai-xe-185260130180734297.htm",
+      "summary": "Ngày 30.1, Phòng CSGT Công an tỉnh Khánh Hòa đã xử phạt 2 tài xế xe buýt vì sử dụng điện thoại khi lái xe, sau khi tiếp nhận hình ảnh phản ánh của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T12:10:00+07:00",
+      "fetched": "2026-01-30T19:33:04.642580+07:00"
+    },
+    {
+      "id": "e7c3b218953b80a7c37b1c5a8e7156d8",
+      "title": "Đình Bắc lại gây bão mạng khi được AFC vinh danh đặc biệt, Nhật Minh ‘còm’ rất vui",
+      "link": "https://thanhnien.vn/dinh-bac-lai-gay-bao-mang-khi-duoc-afc-vinh-danh-dac-biet-nhat-minh-com-rat-vui-185260130190521902.htm",
+      "summary": "Được bình chọn là Cầu thủ gây ấn tượng nhất tại VCK U.23 châu Á 2026, Nguyễn Đình Bắc đã có những chia sẻ đầy cảm xúc trên trang cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T12:09:00+07:00",
+      "fetched": "2026-01-30T19:33:04.642709+07:00"
+    },
+    {
+      "id": "fc77b48260abb9d4af86492859cd9bac",
+      "title": "Các điều kiện an toàn để đặt nhà máy điện hạt nhân Việt Nam",
+      "link": "https://vnexpress.net/cac-dieu-kien-an-toan-de-dat-nha-may-dien-hat-nhan-viet-nam-5011960.html",
+      "summary": "Bộ Khoa học và Công nghệ hướng dẫn các tiêu chí đánh giá an toàn đối với địa điểm nhà máy điện hạt nhân, trong đó không được đặt ở nơi có hoạt động đứt gãy địa chất trong 130.000 năm trở lại đây.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-30T12:00:00+07:00",
+      "fetched": "2026-01-30T19:33:12.344285+07:00"
+    },
+    {
+      "id": "a9c5a3a02227ab8f682a73dedde36012",
+      "title": "Tái khởi động dự án nghỉ dưỡng triệu USD tại Lăng Cô sau nhiều năm 'đắp chiếu'",
+      "link": "https://thanhnien.vn/tai-khoi-dong-du-an-nghi-duong-trieu-usd-tai-lang-co-sau-nhieu-nam-dap-chieu-185260130170824299.htm",
+      "summary": "Sau 8 năm 'đắp chiếu', đến nay, dự án khu du lịch nghỉ dưỡng quốc tế Minh Viễn - Lăng Cô (TP.Huế) với mức đầu tư 368 triệu USD đang được thi công trở lại, mục tiêu bắt đầu đón khách từ sau Tết Nguyên đán 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:59:00+07:00",
+      "fetched": "2026-01-30T19:33:04.642838+07:00"
+    },
+    {
+      "id": "838a90e0769f0007a4e16ad6c325641b",
+      "title": "TP.HCM xây cảng tổng hợp và container Cái Mép Hạ hơn 50.000 tỉ đồng",
+      "link": "https://thanhnien.vn/tphcm-xay-cang-tong-hop-va-container-cai-mep-ha-hon-50000-ti-dong-185260130183447442.htm",
+      "summary": "UBND TP.HCM vừa ban hành quyết định chấp thuận chủ trương đầu tư và chấp thuận nhà đầu tư dự án cảng tổng hợp và cảng container Cái Mép Hạ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:58:00+07:00",
+      "fetched": "2026-01-30T19:33:04.642966+07:00"
+    },
+    {
+      "id": "fec44aaec8519103842c9f6de15e5cbe",
+      "title": "Sacombank báo lỗ lần đầu sau 9 năm",
+      "link": "https://vnexpress.net/sacombank-bao-lo-lan-dau-sau-9-nam-5012055.html",
+      "summary": "Sacombank lỗ đột biến hơn 3.360 tỷ đồng vào quý cuối năm 2025, đánh dấu khoản lỗ đầu tiên tính theo quý trong 9 năm trở lại đây.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-30T11:52:10+07:00",
+      "fetched": "2026-01-30T19:33:09.011984+07:00"
+    },
+    {
+      "id": "d30ffbb5645d06d69a433ed3e4592791",
+      "title": "Hồi sinh đội xe đạp Công an TP.HCM, vẽ lại bản đồ xe đạp Việt Nam",
+      "link": "https://thanhnien.vn/hoi-sinh-doi-xe-dap-cong-an-tphcm-ve-lai-ban-do-xe-dap-viet-nam-185260130184644987.htm",
+      "summary": "Đội xe đạp Công an TP.HCM chính thức ra mắt, đánh dấu sự trở lại của đội đua lẫy lừng làng xe đạp Việt Nam sau thời gian dài vắng bóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:51:00+07:00",
+      "fetched": "2026-01-30T19:33:04.643092+07:00"
+    },
+    {
+      "id": "d8bb9eed6ecf92671f20047285a06633",
+      "title": "Virus Nipah ở Ấn Độ: WHO nói gì về nguy cơ lây lan?",
+      "link": "https://thanhnien.vn/virus-nipah-o-an-do-who-noi-gi-ve-nguy-co-lay-lan-18526013018342397.htm",
+      "summary": "Tổ chức Y tế thế giới (WHO) cho rằng nguy cơ virus Nipah lây lan từ Ấn Độ sang các nước là thấp và không khuyến cáo ngăn cấm đi lại hoặc giao thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:48:00+07:00",
+      "fetched": "2026-01-30T19:33:04.643232+07:00"
+    },
+    {
+      "id": "6c7946e9a0e6a294518333c4cc1572fb",
+      "title": "'Thổi' giá mỏ cát hơn 308 lần khi đấu giá: 6 bị cáo lãnh án tù",
+      "link": "https://thanhnien.vn/thoi-gia-mo-cat-hon-308-lan-khi-dau-gia-6-bi-cao-lanh-an-tu-185260130152809198.htm",
+      "summary": "Sử dụng hồ sơ tài chính giả, nâng khống vốn chủ sở hữu, thao túng phiên đấu giá mỏ cát tại Quảng Nam (cũ) bằng việc bỏ giá tăng hơn 308 lần so với giá khởi điểm, 6 bị cáo bị TAND TP.Đà Nẵng tuyên án tù.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:47:00+07:00",
+      "fetched": "2026-01-30T19:33:04.643362+07:00"
+    },
+    {
+      "id": "22665feb3f6e121f81aec73d4b8e0af2",
+      "title": "Hơn 50.000 suất quà đến với người lao động Tây Ninh dịp tết",
+      "link": "https://thanhnien.vn/hon-50000-suat-qua-den-voi-nguoi-lao-dong-tay-ninh-dip-tet-185260129125802169.htm",
+      "summary": "Liên đoàn Lao động tỉnh Tây Ninh đã trao 50.000 suất quà cùng 1.900 vé xe cho đoàn viên và người thân tham gia chương trình \"Chuyến xe Công đoàn – Xuân 2026\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:44:00+07:00",
+      "fetched": "2026-01-30T19:33:04.643488+07:00"
+    },
+    {
+      "id": "b65504be45ff5d6a3aac85dc218430ba",
+      "title": "Công nhận liệt sĩ với 49 chiến sĩ biệt động Sài Gòn",
+      "link": "https://vnexpress.net/cong-nhan-liet-si-voi-49-chien-si-biet-dong-sai-gon-5012033.html",
+      "summary": "Chính phủ công nhận 49 chiến sĩ biệt động Sài Gòn hy sinh năm 1968 là liệt sĩ, cấp bằng Tổ quốc ghi công sau 58 năm, theo đề nghị của Bộ Nội vụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:37:10+07:00",
+      "fetched": "2026-01-30T19:33:01.486606+07:00"
+    },
+    {
+      "id": "7a7b0ab10f90ca78820d1ab14ffb89b8",
+      "title": "'Điểm IELTS cao thì sợ gì thi Tiếng Anh vào đại học'",
+      "link": "https://vnexpress.net/diem-ielts-cao-thi-so-gi-thi-tieng-anh-vao-dai-hoc-5012002.html",
+      "summary": "'Con có IELTS 6.5 nhưng tôi khuyên hãy tham gia thi đại học như bao bạn khác không có điều kiện như mình'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:34:52+07:00",
+      "fetched": "2026-01-30T19:33:01.486763+07:00"
+    },
+    {
+      "id": "ee2602651856dcabce96272796751e30",
+      "title": "Đình Bắc thắng áp đảo, trở thành Cầu thủ được yêu thích nhất U.23 châu Á",
+      "link": "https://thanhnien.vn/dinh-bac-thang-ap-dao-tro-thanh-cau-thu-duoc-yeu-thich-nhat-u23-chau-a-185260130182641939.htm",
+      "summary": "Một ngày sau khi bội thu giải thưởng tại Cúp Chiến thắng 2025, tiền đạo Đình Bắc lại nhận tin vui từ AFC.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:26:00+07:00",
+      "fetched": "2026-01-30T19:33:04.643614+07:00"
+    },
+    {
+      "id": "49e237dda670982023ba804ab1b58c50",
+      "title": "Điện máy Phúc Khánh chinh phục khách hàng với các sản phẩm chính hãng, giá rẻ",
+      "link": "https://thanhnien.vn/dien-may-phuc-khanh-chinh-phuc-khach-hang-voi-cac-san-pham-chinh-hang-gia-re-185260130182248676.htm",
+      "summary": "Trong bối cảnh thị trường điện máy ngày càng cạnh tranh, Điện máy Phúc Khánh vẫn tạo được dấu ấn riêng và từng bước chinh phục khách hàng nhờ chiến lược kinh doanh minh bạch khi cung cấp sản phẩm chính hãng với mức giá rẻ, hợp lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:16:00+07:00",
+      "fetched": "2026-01-30T19:33:04.643739+07:00"
+    },
+    {
+      "id": "3708728f03e2ce2d98b925038c4d0125",
+      "title": "Công an TP.HCM cảnh báo tránh mất tiền oan khi mua vé máy bay, tàu xe",
+      "link": "https://thanhnien.vn/cong-an-tphcm-canh-bao-tranh-mat-tien-oan-khi-mua-ve-may-bay-tau-xe-185260130174610055.htm",
+      "summary": "Công an TP.HCM cảnh báo các chiêu thức lừa đảo mua vé máy bay, tàu xe và đổi tiền mới để lì xì nở rộ dịp Tết Nguyên đán. Người dân cần đặc biệt cảnh giác để tránh mất tiền oan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:16:00+07:00",
+      "fetched": "2026-01-30T19:33:04.643869+07:00"
+    },
+    {
+      "id": "9d168ba06fa975c37bf5bb718985d3be",
+      "title": "Đề xuất cho bán nhà chưa giải chấp",
+      "link": "https://thanhnien.vn/de-xuat-cho-ban-nha-chua-giai-chap-185260130180208802.htm",
+      "summary": "HoREA đề xuất cho phép chủ đầu tư được huy động vốn, bán hoặc cho thuê mua nhà hình thành trong tương lai đang thế chấp ngân hàng theo cơ chế \"bán trước - giải chấp sau\" với điều kiện người mua được cung cấp đầy đủ thông tin và có sự chấp thuận của ngân hàng cho vay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:08:00+07:00",
+      "fetched": "2026-01-30T19:33:04.643999+07:00"
+    },
+    {
+      "id": "94335307a5c4386c53c8dc9b2288a645",
+      "title": "BAF Việt Nam: Cơ hội 'lội ngược dòng' sau chu kỳ biến động  của ngành chăn nuôi",
+      "link": "https://thanhnien.vn/baf-viet-nam-co-hoi-loi-nguoc-dong-sau-chu-ky-bien-dong-cua-nganh-chan-nuoi-185260130170510134.htm",
+      "summary": "Công ty cổ phần Nông nghiệp BAF Việt Nam (BAF) vừa công bố Báo cáo Tài chính quý 4/2025. Sản lượng heo bán đạt hơn 234.000 con, trong đó heo thịt chiếm đa số ghi nhận tăng trưởng gần 73% so với cùng kỳ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:08:00+07:00",
+      "fetched": "2026-01-30T19:33:04.644126+07:00"
+    },
+    {
+      "id": "31fca74d65bfe228f91bc29174c9a1df",
+      "title": "Khách Việt giấu hạt giống rau khi nhập cảnh Nhật Bản",
+      "link": "https://vnexpress.net/khach-viet-giau-hat-giong-rau-khi-nhap-canh-nhat-ban-5012044.html",
+      "summary": "Khách Việt giấu hạt giống rau trong găng tay để tránh máy soi chiếu nhưng vẫn bị lực lượng chức năng ở Nhật Bản phát hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:04:40+07:00",
+      "fetched": "2026-01-30T19:33:01.486906+07:00"
+    },
+    {
       "id": "c7d8fb88240858d895157f6d34661601",
       "title": "Khối Tài chính Hanwha tham dự Diễn đàn Kinh tế thế giới 2026 tại Thụy Sĩ",
       "link": "https://tuoitre.vn/khoi-tai-chinh-hanwha-tham-du-dien-dan-kinh-te-the-gioi-2026-tai-thuy-si-20260129231350691.htm",
@@ -603,6 +963,126 @@ window.newsData_2026_01_30 = {
       "fetched": "2026-01-30T11:00:29.494301+07:00"
     },
     {
+      "id": "cd46c8269846a9ca62e6cebb0167bbb1",
+      "title": "Tôi tỏ tình thành công vào khoảnh khắc bước sang năm mới",
+      "link": "https://vnexpress.net/toi-to-tinh-thanh-cong-vao-khoanh-khac-buoc-sang-nam-moi-5011905.html",
+      "summary": "Tôi tin mình đã gặp đúng người. Là em, một người luôn lắng nghe, quan tâm, động viên, chia sẻ, lo lắng cho tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:00:00+07:00",
+      "fetched": "2026-01-30T19:33:01.487048+07:00"
+    },
+    {
+      "id": "24a97817cc02d482f9d0345b2f7fd3ed",
+      "title": "5 bệnh tim mạch thường gặp vào mùa đông",
+      "link": "https://vnexpress.net/5-benh-tim-mach-thuong-gap-vao-mua-dong-5011523.html",
+      "summary": "Thời tiết lạnh có thể làm tăng nguy cơ hình thành huyết khối tĩnh mạch sâu, cao huyết áp và rối loạn nhịp tim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:00:00+07:00",
+      "fetched": "2026-01-30T19:33:01.487186+07:00"
+    },
+    {
+      "id": "9803ba6649559bf920930e4152d1c2cb",
+      "title": "Bí quyết chạy bộ an toàn và bền bỉ sau tuổi 60",
+      "link": "https://vnexpress.net/bi-quyet-chay-bo-an-toan-cho-nguoi-tren-60-tuoi-5009825.html",
+      "summary": "Không bao giờ là quá muộn để bắt đầu, nhưng sau tuổi 60, chạy bộ không còn là cuộc đua với thời gian mà là hành trình lắng nghe và điều chỉnh để hòa hợp với cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T11:00:00+07:00",
+      "fetched": "2026-01-30T19:33:01.487358+07:00"
+    },
+    {
+      "id": "726063947056b924e0a48d5f32ca509e",
+      "title": "Giá bạc miếng giảm hơn 15% trong ngày",
+      "link": "https://vnexpress.net/gia-bac-mieng-giam-hon-15-trong-ngay-5012036.html",
+      "summary": "Các thương hiệu liên tục điều chỉnh giá bạc miếng, tới cuối chiều nay lùi về 3,8 triệu một lượng, thấp hơn 700.000 đồng so với hôm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T10:50:28+07:00",
+      "fetched": "2026-01-30T19:33:01.487497+07:00"
+    },
+    {
+      "id": "e08cf2ec1d7b33f02ce05fdd62824b81",
+      "title": "Giá bạc miếng giảm hơn 15% trong ngày",
+      "link": "https://vnexpress.net/gia-bac-mieng-chieu-30-1-5012036.html",
+      "summary": "Các thương hiệu liên tục điều chỉnh giá bạc miếng, tới cuối chiều nay lùi về 3,8 triệu một lượng, thấp hơn 700.000 đồng so với hôm qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-30T10:50:28+07:00",
+      "fetched": "2026-01-30T19:33:09.012125+07:00"
+    },
+    {
+      "id": "7ab0b39dfbc92945e179aea784481984",
+      "title": "FPT hợp tác Viettel và các đối tác trong sản xuất chip",
+      "link": "https://vnexpress.net/fpt-hop-tac-viettel-va-cac-doi-tac-trong-san-xuat-chip-5011977.html",
+      "summary": "FPT bắt tay với Viettel và một số đối tác trong và ngoài nước như Restar, Winpac, VSAP LAB với mục tiêu tăng tốc hoàn thiện hệ sinh thái bán dẫn tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T10:47:02+07:00",
+      "fetched": "2026-01-30T19:33:01.487629+07:00"
+    },
+    {
+      "id": "7ab0b39dfbc92945e179aea784481984",
+      "title": "FPT hợp tác Viettel và các đối tác trong sản xuất chip",
+      "link": "https://vnexpress.net/fpt-hop-tac-viettel-va-cac-doi-tac-trong-san-xuat-chip-5011977.html",
+      "summary": "FPT bắt tay với Viettel và một số đối tác trong và ngoài nước như Restar, Winpac, VSAP LAB với mục tiêu tăng tốc hoàn thiện hệ sinh thái bán dẫn tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-30T10:47:02+07:00",
+      "fetched": "2026-01-30T19:33:12.344440+07:00"
+    },
+    {
+      "id": "44302e6f40b0e8be60716f716bd77471",
+      "title": "Bóng đá Việt Nam (kỳ cuối): Giải mã chức vô địch ASEAN Cup 2024",
+      "link": "https://vnexpress.net/bong-da-viet-nam-ky-cuoi-giai-ma-chuc-vo-dich-asean-cup-2024-5011498.html",
+      "summary": "Đội tuyển quốc gia Việt Nam tham gia ASEAN Cup 2024 với lực lượng mạnh và sự đóng góp của cầu thủ Tiến Linh, Xuân Son.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T10:45:42+07:00",
+      "fetched": "2026-01-30T19:33:01.487767+07:00"
+    },
+    {
+      "id": "d16766eeb3f466f2d47e12f3ac274c7e",
+      "title": "Real tái ngộ đội của Mourinho ở vòng play-off Champions League",
+      "link": "https://vnexpress.net/truc-tiep-boc-tham-vong-play-off-champions-league-2025-2026-5012021.html",
+      "summary": "Lễ bốc thăm vòng play-off Champions League đưa Real Madrid gặp lại Benfica - đối thủ đã khiến họ mất suất vào thẳng vòng 1/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T10:30:20+07:00",
+      "fetched": "2026-01-30T19:33:01.487899+07:00"
+    },
+    {
+      "id": "ca5b762c885919972b620efe2346ea58",
+      "title": "Real tái ngộ đội của Mourinho ở vòng play-off Champions League",
+      "link": "https://vnexpress.net/truc-tiep-boc-tham-vong-play-off-champions-league-2025-2026-5012021-tong-thuat.html",
+      "summary": "Lễ bốc thăm vòng play-off Champions League đưa Real Madrid gặp lại Benfica - đối thủ đã khiến họ mất suất vào thẳng vòng 1/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-30T10:30:20+07:00",
+      "fetched": "2026-01-30T19:33:14.102505+07:00"
+    },
+    {
+      "id": "14689f9e648fd2ec4eaa52b3c15d5e62",
+      "title": "Eximbank lãi hơn 1.500 tỷ đồng năm 2025",
+      "link": "https://vnexpress.net/eximbank-lai-hon-1-500-ty-dong-nam-2025-5012031.html",
+      "summary": "Eximbank đạt lợi nhuận trước thuế hơn 1.500 tỷ đồng, giảm so với 2024 do tăng trích lập dự phòng, song duy trì tăng trưởng tài sản, huy động và tín dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T10:30:00+07:00",
+      "fetched": "2026-01-30T19:33:01.488031+07:00"
+    },
+    {
+      "id": "b4e2535eb1cf3963bc0b3d9bf1603fda",
+      "title": "Khởi tố, bắt bị can để tạm giam đối với Nguyễn Đình Thắng",
+      "link": "https://vnexpress.net/khoi-to-bat-bi-can-de-tam-giam-doi-voi-nguyen-dinh-thang-5012030.html",
+      "summary": "Ngày 30/1/2026, Cơ quan An ninh điều tra Công an tỉnh Đăk Lăk đã ra quyết định khởi tố bị can, Lệnh bắt bị can để tạm giam đối với Nguyễn Đình Thắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T10:28:32+07:00",
+      "fetched": "2026-01-30T19:33:01.488161+07:00"
+    },
+    {
       "id": "676c6497f63fe2e0a12098553ba5bfc4",
       "title": "Xác minh vụ đánh du khách nước ngoài ở Nha Trang",
       "link": "https://thanhnien.vn/xac-minh-vu-danh-du-khach-nuoc-ngoai-o-nha-trang-185260130151631257.htm",
@@ -611,6 +1091,36 @@ window.newsData_2026_01_30 = {
       "category": "Tổng hợp",
       "published": "2026-01-30T10:19:00+07:00",
       "fetched": "2026-01-30T17:23:53.548319+07:00"
+    },
+    {
+      "id": "4d3245281eda6db9f32c505cdf02c410",
+      "title": "Chân dung 13 Uỷ viên Ban Bí thư khóa XIV",
+      "link": "https://vnexpress.net/chan-dung-13-uy-vien-ban-bi-thu-khoa-xiv-5011907.html",
+      "summary": "Bộ Chính trị phân công 10 Ủy viên Bộ Chính trị tham gia Ban Bí thư, nâng tổng số thành viên khóa XIV lên 13 người, trong đó 7 người tiếp tục nhiệm vụ và 6 người lần đầu đảm trách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T10:16:49+07:00",
+      "fetched": "2026-01-30T19:33:01.488308+07:00"
+    },
+    {
+      "id": "b7dc02e130c83461e0d391858851efd8",
+      "title": "Alcaraz lần đầu vào chung kết Australia Mở rộng 2026",
+      "link": "https://vnexpress.net/alcaraz-lan-dau-vao-chung-ket-australia-mo-rong-2026-5012028.html",
+      "summary": "Tay vợt số một thế giới Carlos Alcaraz chuột rút vẫn thắng nghẹt thở Alexander Zverev 6-4, 7-6(5), 6-7(3), 6-7(4), 7-5 ở bán kết Australia Mở rộng hôm 30/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T10:15:01+07:00",
+      "fetched": "2026-01-30T19:33:01.488445+07:00"
+    },
+    {
+      "id": "b7dc02e130c83461e0d391858851efd8",
+      "title": "Alcaraz lần đầu vào chung kết Australia Mở rộng 2026",
+      "link": "https://vnexpress.net/alcaraz-lan-dau-vao-chung-ket-australia-mo-rong-2026-5012028.html",
+      "summary": "Tay vợt số một thế giới Carlos Alcaraz chuột rút vẫn thắng nghẹt thở Alexander Zverev 6-4, 7-6(5), 6-7(3), 6-7(4), 7-5 ở bán kết Australia Mở rộng hôm 30/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-30T10:15:01+07:00",
+      "fetched": "2026-01-30T19:33:14.102659+07:00"
     },
     {
       "id": "842abacbcc17e4c5ba820d0c96ad0ee4",
@@ -651,6 +1161,26 @@ window.newsData_2026_01_30 = {
       "category": "Tổng hợp",
       "published": "2026-01-30T10:08:00+07:00",
       "fetched": "2026-01-30T17:23:53.548990+07:00"
+    },
+    {
+      "id": "775153644c1f931f0a347299b7bd4e5f",
+      "title": "Điểm tin 17h: 10 Ủy viên Bộ Chính trị được phân công tham gia Ban Bí thư khóa XIV | Giới thiệu 975 người ứng cử đại biểu Quốc hội khóa 16",
+      "link": "https://vnexpress.net/diem-tin-17h-10-uy-vien-bo-chinh-tri-duoc-phan-cong-tham-gia-ban-bi-thu-khoa-xiv-gioi-thieu-975-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-16-5012018.html",
+      "summary": "TP HCM dùng trực thăng phục vụ các điểm bầu cử sớm; Mỗi lượng vàng đảo chiều giảm 8 triệu đồng;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T10:07:39+07:00",
+      "fetched": "2026-01-30T19:33:01.488577+07:00"
+    },
+    {
+      "id": "8770c3b06b87ac8293a87b0d61a91a25",
+      "title": "Vingroup lãi trước thuế tỷ USD năm ngoái",
+      "link": "https://vnexpress.net/vingroup-lai-truoc-thue-ty-usd-nam-ngoai-5011975.html",
+      "summary": "Năm 2025, Vingroup báo lãi trước thuế 26.300 tỷ đồng (khoảng 1 tỷ USD), nhờ sự tăng trưởng mạnh của mảng bất động sản.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-30T10:06:54+07:00",
+      "fetched": "2026-01-30T19:33:09.012294+07:00"
     },
     {
       "id": "7ed174698be55c54a89afa24bd0b5db2",
