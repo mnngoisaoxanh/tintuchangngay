@@ -1,7 +1,57 @@
 window.newsData_2026_02_01 = {
   "date": "2026-02-01",
-  "lastUpdated": "2026-02-01T03:15:14.867209+07:00",
+  "lastUpdated": "2026-02-01T05:13:58.306300+07:00",
   "articles": [
+    {
+      "id": "8b9d55b865e9ef2d8fee2f6297adcfa0",
+      "title": "Arsenal trở lại mạch thắng, bỏ xa Man City 7 điểm",
+      "link": "https://tuoitre.vn/arsenal-tro-lai-mach-thang-bo-xa-man-city-7-diem-20260201002558178.htm",
+      "summary": "Khuya 31-1, Arsenal đã đánh bại Leeds 4-0 ở vòng 24 Giải ngoại hạng Anh (Premier League) để củng cố ngôi đầu bảng xếp hạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:13:52.362442+07:00",
+      "fetched": "2026-02-01T05:13:52.362558+07:00"
+    },
+    {
+      "id": "c3f5726adeb59005a482741ac561869a",
+      "title": "Thời tiết hôm nay 1-2: Nhiệt độ giảm mạnh, Bắc Bộ rét sâu",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-1-2-nhiet-do-giam-manh-bac-bo-ret-sau-20260131161456203.htm",
+      "summary": "Hôm nay 1-2, không khí lạnh đã xâm nhập sâu vào nước ta, nhiệt độ miền Bắc giảm mạnh, miền Trung tăng mưa, miền Nam ở xa nên thời tiết ít biến chuyển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:13:52.362313+07:00",
+      "fetched": "2026-02-01T05:13:52.362431+07:00"
+    },
+    {
+      "id": "a113caadf217ace2dc2ed59be1377848",
+      "title": "Thanh Thúy được làng bóng chuyền thế giới khen ngợi hết lời sau chiến tích chấn động",
+      "link": "https://tuoitre.vn/thanh-thuy-duoc-lang-bong-chuyen-the-gioi-khen-ngoi-het-loi-sau-chien-tich-chan-dong-20260130123946027.htm",
+      "summary": "Tối 31-1, hàng loạt chuyên trang bóng chuyền thế giới đã dành những lời khen đặc biệt cho Trần Thị Thanh Thúy, sau khi cô gái Việt Nam tỏa sáng rực rỡ trong trận đấu All Star Games của Giải vô địch Nhật Bản (SV League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:13:52.362182+07:00",
+      "fetched": "2026-02-01T05:13:52.362302+07:00"
+    },
+    {
+      "id": "1375f94695e6526f9e1a78d7909b38dc",
+      "title": "Tin tức sáng 1-2: Bóc gỡ, xóa bỏ các thông tin xấu độc, tác động tiêu cực đến học sinh",
+      "link": "https://tuoitre.vn/tin-tuc-sang-1-2-boc-go-xoa-bo-cac-thong-tin-xau-doc-tac-dong-tieu-cuc-den-hoc-sinh-20260131231357279.htm",
+      "summary": "Tin tức đáng chú ý: Bóc gỡ, xóa bỏ các thông tin xấu độc, tác động tiêu cực đến học sinh; Bộ trưởng Bộ Y tế yêu cầu siết chặt phòng dịch, an toàn thực phẩm Tết Nguyên đán Bính Ngọ 2026...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:13:52.362041+07:00",
+      "fetched": "2026-02-01T05:13:52.362169+07:00"
+    },
+    {
+      "id": "9c16309b6cf208574c5570cc0f863f41",
+      "title": "Xây nhà nhầm trên đất người khác: Đừng để sai một ly, đi một đống tiền",
+      "link": "https://tuoitre.vn/xay-nha-nham-tren-dat-nguoi-khac-dung-de-sai-mot-ly-di-mot-dong-tien-20260131224021467.htm",
+      "summary": "Chuyện xây nhà nhầm trên đất người khác không còn là hy hữu. Hậu quả không chỉ làm tốn thời gian, tiền bạc, công sức của các bên liên quan mà còn dẫn đến nhiều hệ lụy kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:13:52.361795+07:00",
+      "fetched": "2026-02-01T05:13:52.362026+07:00"
+    },
     {
       "id": "70a84cb53a185fc87bd1366ddfe0b82a",
       "title": "Ngoại binh Thể Công - Viettel ăn mừng cuồng nhiệt khi ghi bàn vào lưới đội bóng cũ",
@@ -151,6 +201,156 @@ window.newsData_2026_02_01 = {
       "category": "Tổng hợp",
       "published": "2026-02-01T01:19:18.443581+07:00",
       "fetched": "2026-02-01T01:19:18.443796+07:00"
+    },
+    {
+      "id": "a1b374ef27c047606c6026647d34c1aa",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 01.2.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-0122026-185260131223551892.htm",
+      "summary": "Tin tức Mang xuân từ đất liền đến các nhà giàn DK1; Phố xá rộn ràng đón Tết; Nhà Trắng ra tối hậu thư cho Iran... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 01.2.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T22:10:00+07:00",
+      "fetched": "2026-02-01T05:13:51.400637+07:00"
+    },
+    {
+      "id": "c5d34eca688e59c11dad8f1b72398a16",
+      "title": "Nhà Trắng ra tối hậu thư cho Iran",
+      "link": "https://thanhnien.vn/nha-trang-ra-toi-hau-thu-cho-iran-185260131214332384.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã ra hạn chót để Iran đàm phán hoặc đối diện hành động quân sự trong khi Iran thông báo tập trận giữa căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T22:10:00+07:00",
+      "fetched": "2026-02-01T05:13:51.400812+07:00"
+    },
+    {
+      "id": "772d03aee82f8dfd9f65b20168339acb",
+      "title": "Nữ sinh bại não và ước mơ làm giáo viên trên đôi chân của bố.",
+      "link": "https://thanhnien.vn/nu-sinh-bai-nao-va-uoc-mo-lam-giao-vien-tren-doi-chan-cua-bo-1852601312316571.htm",
+      "summary": "Mắc bệnh từ khi còn bẩm sinh, mọi sinh hoạt, học hành phải nhờ cậy vào cha mẹ và bạn bè, nhưng Trịnh Thị Minh Thư (lớp 10A3, THPT Thăng Long – Lâm Hà) lại sở hữu bảng thành tích đáng nể với nhiều giải thưởng học tập cấp tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T22:00:00+07:00",
+      "fetched": "2026-02-01T05:13:51.400967+07:00"
+    },
+    {
+      "id": "e7157553b492122a16ac7b57b4709ee7",
+      "title": "Doanh nghiệp lại khổ vì 'thiếu hướng dẫn'",
+      "link": "https://thanhnien.vn/doanh-nghiep-lai-kho-vi-thieu-huong-dan-185260131181147312.htm",
+      "summary": "Hàng nhập về tới cảng không thể thông quan vì quy định mới ban hành có hiệu lực ngay lập tức mà không có thời gian chuyển tiếp, không có hướng dẫn khiến doanh nghiệp trở tay không kịp. Việc \"không nhận hồ sơ\" vì thiếu hướng dẫn vẫn đang tiếp tục lan rộng từ nông sản, hóa chất và bây giờ là thực phẩm...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T22:00:00+07:00",
+      "fetched": "2026-02-01T05:13:51.401119+07:00"
+    },
+    {
+      "id": "66b7bd23159fab95354010454f4729ca",
+      "title": "Làm nhang tết ở TP.HCM: Người già mong người trung niên giữ nghề",
+      "link": "https://thanhnien.vn/lam-nhang-tet-o-tphcm-nguoi-gia-mong-nguoi-trung-nien-giu-nghe-185260131140702779.htm",
+      "summary": "Những ngày giáp Tết Bính Ngọ, khi đi qua cung đường Mai Bá Hương (Bình Chánh cũ) không khó để nhận ra mùi nhang mới se. Các hộ còn gắn bó với nghề nhang tất bật từ sáng tới đêm, chỉ mong kịp những đơn hàng cuối năm để có một cái tết đủ đầy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T22:00:00+07:00",
+      "fetched": "2026-02-01T05:13:51.401270+07:00"
+    },
+    {
+      "id": "c3da40f0edba81e78fa4287426c38973",
+      "title": "Hôm nay 1.2 ngày gì mà đông người quan tâm? Lịch âm, lịch vạn niên thế nào?",
+      "link": "https://thanhnien.vn/hom-nay-12-ngay-gi-ma-dong-nguoi-quan-tam-lich-am-lich-van-nien-the-nao-185260129090517539.htm",
+      "summary": "Nhiều người quan tâm, chia sẻ về ngày hôm nay 1.2 với sự hào hứng và thích thú. Vậy, đây là ngày gì? Theo lịch âm, lịch vạn niên hôm nay có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T22:00:00+07:00",
+      "fetched": "2026-02-01T05:13:51.401419+07:00"
+    },
+    {
+      "id": "ec73f4ba239f54105a4cad07138e7332",
+      "title": "Sếp Anthropic 'dùng 100% AI' để viết mã",
+      "link": "https://vnexpress.net/sep-anthropic-dung-100-ai-de-viet-ma-5011949.html",
+      "summary": "Boris Cherny, người đứng đầu bộ phận Claude Code của Anthropic, tuyên bố \"không còn viết bất kỳ đoạn code nào trong hơn hai tháng qua\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-31T22:00:00+07:00",
+      "fetched": "2026-02-01T05:13:57.434838+07:00"
+    },
+    {
+      "id": "89efaf99f458e97c95a2245e32fd7aba",
+      "title": "Đội tuyển futsal Việt Nam thua sát nút Thái Lan",
+      "link": "https://thanhnien.vn/doi-tuyen-futsal-viet-nam-thua-sat-nut-thai-lan-185260131215101759.htm",
+      "summary": "Đội tuyển futsal VN không thể tạo bất ngờ trước Thái Lan, và đi tiếp vào tứ kết giải futsal châu Á 2026 với vị trí nhì bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T21:59:00+07:00",
+      "fetched": "2026-02-01T05:13:51.401569+07:00"
+    },
+    {
+      "id": "eba12c601b5a3d02013973ba516de3aa",
+      "title": "Arteta: 'Áp lực phải thắng mọi trận là động lực của Arsenal'",
+      "link": "https://vnexpress.net/arteta-ap-luc-phai-thang-moi-tran-la-dong-luc-cua-arsenal-5012405.html",
+      "summary": "Sau khi hạ Leeds 4-0 ở vòng 24 Ngoại hạng Anh, HLV Mikel Arteta cho rằng áp lực phải thắng trong mọi trận đấu không phải gánh nặng, mà là động lực thúc đẩy Arsenal thể hiện bản lĩnh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-31T21:56:48+07:00",
+      "fetched": "2026-02-01T05:13:58.301159+07:00"
+    },
+    {
+      "id": "89dab8c28546d7cdf0c273d9ed8b29e1",
+      "title": "Tất yếu nâng cấp đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/tat-yeu-nang-cap-doi-tuyen-viet-nam-185260131215501266.htm",
+      "summary": "Từ tâm thế hội nhập, sau những nỗ lực không ngừng, bóng đá VN đã trở thành thế lực hàng đầu khu vực và đang bước vào ngưỡng phát triển mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T21:44:00+07:00",
+      "fetched": "2026-02-01T05:13:51.401745+07:00"
+    },
+    {
+      "id": "1a76ddb25c440537420ebfc0551f0923",
+      "title": "Đề xuất khai thác tạm 18,2 km cao tốc Biên Hòa - Vũng Tàu trước tết",
+      "link": "https://thanhnien.vn/de-xuat-khai-thac-tam-182-km-cao-toc-bien-hoa-vung-tau-truoc-tet-185260131171752682.htm",
+      "summary": "Ban Quản lý dự án 85 (chủ đầu tư dự án thành phần 2, cao tốc Biên Hòa - Vũng Tàu) đề xuất phương án khai thác tạm 18,2 km cao tốc Biên Hòa - Vũng Tàu, đoạn qua huyện Long Thành cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T21:30:00+07:00",
+      "fetched": "2026-02-01T05:13:51.401900+07:00"
+    },
+    {
+      "id": "48b9137795327d9289674b6181390523",
+      "title": "Chelsea thắng ngược dù bị dẫn hai bàn",
+      "link": "https://vnexpress.net/chelsea-thang-nguoc-du-bi-dan-hai-ban-5012406.html",
+      "summary": "Sau khi bị dẫn 0-2 ở hiệp một, Chelsea ghi ba bàn trong hiệp hai để thắng ngược West Ham 3-2 ở vòng 24 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T20:23:41+07:00",
+      "fetched": "2026-02-01T05:13:48.342891+07:00"
+    },
+    {
+      "id": "48b9137795327d9289674b6181390523",
+      "title": "Chelsea thắng ngược dù bị dẫn hai bàn",
+      "link": "https://vnexpress.net/chelsea-thang-nguoc-du-bi-dan-hai-ban-5012406.html",
+      "summary": "Sau khi bị dẫn 0-2 ở hiệp một, Chelsea ghi ba bàn trong hiệp hai để thắng ngược West Ham 3-2 ở vòng 24 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-31T20:23:41+07:00",
+      "fetched": "2026-02-01T05:13:58.301331+07:00"
+    },
+    {
+      "id": "8c4d4da1a36bb37f104719434a770be2",
+      "title": "Bitcoin thủng mốc 80.000 USD",
+      "link": "https://vnexpress.net/bitcoin-thung-moc-80-000-usd-5012404.html",
+      "summary": "Bitcoin lao dốc xuống sát 78.000 USD vào rạng sáng 1/2, tiệm cận vùng giá thấp nhất một năm, bởi lo ngại rủi ro địa chính trị gia tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:58:11+07:00",
+      "fetched": "2026-02-01T05:13:48.343069+07:00"
+    },
+    {
+      "id": "8c4d4da1a36bb37f104719434a770be2",
+      "title": "Bitcoin thủng mốc 80.000 USD",
+      "link": "https://vnexpress.net/bitcoin-thung-moc-80-000-usd-5012404.html",
+      "summary": "Bitcoin lao dốc xuống sát 78.000 USD vào rạng sáng 1/2, tiệm cận vùng giá thấp nhất một năm, bởi lo ngại rủi ro địa chính trị gia tăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-31T19:58:11+07:00",
+      "fetched": "2026-02-01T05:13:54.515545+07:00"
     },
     {
       "id": "8ff010f8cf33363cffc54d88fd17fa84",
