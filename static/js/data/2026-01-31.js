@@ -1,7 +1,157 @@
 window.newsData_2026_01_31 = {
   "date": "2026-01-31",
-  "lastUpdated": "2026-01-31T17:15:11.252511+07:00",
+  "lastUpdated": "2026-01-31T19:27:04.139575+07:00",
   "articles": [
+    {
+      "id": "e7c30837796be84638befd99ac39aa17",
+      "title": "Bằng đại học không còn bảo đảm việc làm, các trường làm gì?",
+      "link": "https://tuoitre.vn/bang-dai-hoc-khong-con-bao-dam-viec-lam-cac-truong-lam-gi-20260131145209216.htm",
+      "summary": "Nhiều chuyên gia cho rằng bằng đại học không còn là 'tấm vé bảo đảm' cho một việc làm tốt trong khi cơ hội thực tập cũng đang ngày càng cạnh tranh hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.657035+07:00",
+      "fetched": "2026-01-31T19:26:55.657153+07:00"
+    },
+    {
+      "id": "5629aba5bf17b7f44a7a79fa59f8840c",
+      "title": "Hoa Tết nở sớm, nhiều điểm bán lẻ đã 'họp chợ' giữa tháng chạp",
+      "link": "https://tuoitre.vn/hoa-tet-no-som-nhieu-diem-ban-le-da-hop-cho-giua-thang-chap-20260131153704038.htm",
+      "summary": "Dù phải đến đầu tháng 2-2026, các chợ hoa xuân tại TP.HCM mới đồng loạt khai mạc, nhưng những ngày giữa tháng chạp, không khí mua bán hoa Tết đã sớm xuất hiện rải rác tại nhiều tuyến đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.656910+07:00",
+      "fetched": "2026-01-31T19:26:55.657024+07:00"
+    },
+    {
+      "id": "9d19407ff5ac90dcd2ce6a9685e48137",
+      "title": "'Chỉ có bằng cử nhân mà đòi nghỉ cuối tuần': Nhà tuyển dụng Trung Quốc gây phẫn nộ",
+      "link": "https://tuoitre.vn/chi-co-bang-cu-nhan-ma-doi-nghi-cuoi-tuan-nha-tuyen-dung-trung-quoc-gay-phan-no-20260131153347419.htm",
+      "summary": "Phát ngôn coi thường cử nhân của một nhà tuyển dụng thuộc doanh nghiệp bảo hiểm nhà nước Trung Quốc đã châm ngòi làn sóng phẫn nộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.656773+07:00",
+      "fetched": "2026-01-31T19:26:55.656899+07:00"
+    },
+    {
+      "id": "334ac111dc18c3fb88efb8de2058071f",
+      "title": "Làm concert cho ‘người lính’ Vũ Thắng Lợi khác gì so với Hà Anh Tuấn, Hồng Nhung?",
+      "link": "https://tuoitre.vn/lam-concert-cho-nguoi-linh-vu-thang-loi-khac-gi-so-voi-ha-anh-tuan-hong-nhung-20260131160135869.htm",
+      "summary": "Concert Mùa chim én bay muốn tạo ra một không gian sang trọng nhưng không xa cách, nơi những bài hát mùa xuân mang đến sự đồng cảm về những chặng đường của đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.656647+07:00",
+      "fetched": "2026-01-31T19:26:55.656762+07:00"
+    },
+    {
+      "id": "15537e837d9c087d49c3028fd43a4d4e",
+      "title": "Người dân phản ánh 'công an phường không giải quyết làm sạch dữ liệu đăng ký xe', Cục CSGT nói gì?",
+      "link": "https://tuoitre.vn/nguoi-dan-phan-anh-cong-an-phuong-khong-giai-quyet-lam-sach-du-lieu-dang-ky-xe-cuc-csgt-noi-gi-20260131160108083.htm",
+      "summary": "Trường hợp cán bộ có thẩm quyền về đăng ký xe không tiếp nhận kê khai, thu thập, làm sạch dữ liệu và hướng dẫn cụ thể, công dân cung cấp thông tin phản ánh đến Cục Cảnh sát giao thông để đề nghị kiểm điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.656502+07:00",
+      "fetched": "2026-01-31T19:26:55.656634+07:00"
+    },
+    {
+      "id": "580375080fe5039e9d054962b03d941c",
+      "title": "Đình Bắc lại đánh bại ngôi sao Trung Quốc, đứng đầu bình chọn bàn thắng đẹp nhất U23 châu Á",
+      "link": "https://tuoitre.vn/dinh-bac-lai-danh-bai-ngoi-sao-trung-quoc-dung-dau-binh-chon-ban-thang-dep-nhat-u23-chau-a-2026013116211852.htm",
+      "summary": "Sau chiến thắng ở cuộc bình chọn \"Cầu thủ gây ấn tượng nhất\", Đình Bắc lại giành thêm một chiến thắng nữa trong cuộc bình chọn \"Bàn thắng ấn tượng nhất\" Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.656378+07:00",
+      "fetched": "2026-01-31T19:26:55.656490+07:00"
+    },
+    {
+      "id": "2e7f0afd75b833a99d98397b2592aa1c",
+      "title": "Trao hơn 1.000 suất quà 'Xuân yêu thương' cho các gia đình khó khăn ở Đà Nẵng",
+      "link": "https://tuoitre.vn/trao-hon-1-000-suat-qua-xuan-yeu-thuong-cho-cac-gia-dinh-kho-khan-o-da-nang-20260131163321729.htm",
+      "summary": "Chiều 31-1, đại diện UBND phường Hải Châu, TP Đà Nẵng đã cùng nhà tài trợ trao tận tay 502 suất quà cho các hộ gia đình có hoàn cảnh khó khăn trên địa bàn với tổng số tiền hơn 1,2 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.656253+07:00",
+      "fetched": "2026-01-31T19:26:55.656367+07:00"
+    },
+    {
+      "id": "bcb5e85b6fe1483798ba35253a15a2f6",
+      "title": "Tuyển futsal nam Việt Nam lại thua Thái Lan",
+      "link": "https://tuoitre.vn/tuyen-futsal-nam-viet-nam-lai-thua-thai-lan-20260131165812503.htm",
+      "summary": "Đội tuyển futsal nam Việt Nam đã thua đương kim á quân Thái Lan 0-1 ở lượt cuối vòng bảng Giải futsal châu Á 2026 diễn ra tại Indonesia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.656127+07:00",
+      "fetched": "2026-01-31T19:26:55.656241+07:00"
+    },
+    {
+      "id": "452bd162811a81fd720a2e04aace11c1",
+      "title": "Camera giao thông không ghi phạt tiền, chỉ gửi ảnh cảnh báo vi phạm",
+      "link": "https://tuoitre.vn/camera-giao-thong-khong-ghi-phat-tien-chi-gui-anh-canh-bao-vi-pham-20260131100004563.htm",
+      "summary": "Thay vì phạt tiền hay trừ điểm bằng lái, bang Utah (Mỹ) dự kiến triển khai chương trình camera giao thông chỉ để thu thập dữ liệu và gửi cảnh báo cho tài xế, nhằm nâng cao an toàn giao thông tại các giao lộ nguy hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.656000+07:00",
+      "fetched": "2026-01-31T19:26:55.656115+07:00"
+    },
+    {
+      "id": "3baf5a4842c0e9fa3374c83c53e49735",
+      "title": "Ông Phan Thanh Hùng rút lui khỏi CLB Đà Nẵng",
+      "link": "https://tuoitre.vn/ong-phan-thanh-hung-rut-lui-khoi-clb-da-nang-20260131145401753.htm",
+      "summary": "Giám đốc kỹ thuật CLB Đà Nẵng - ông Phan Thanh Hùng sẽ không còn làm nhiệm vụ cùng đội bóng trong giai đoạn tiếp theo của V-League 2025-2026, tính từ ngày 1-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.655874+07:00",
+      "fetched": "2026-01-31T19:26:55.655989+07:00"
+    },
+    {
+      "id": "4b9ff3697026438d4bf60bd6359e8115",
+      "title": "THPT Marie Curie giải nhất hùng biện tiếng Nhật",
+      "link": "https://tuoitre.vn/thpt-marie-curie-giai-nhat-hung-bien-tieng-nhat-20260131160021564.htm",
+      "summary": "Ngày 31-1, Sở Giáo dục và Đào tạo TP.HCM phối hợp Lãnh sự quán Nhật Bản và Hiệp hội Doanh nghiệp Nhật Bản tại TP.HCM tổ chức cuộc thi hùng biện tiếng Nhật lần thứ 8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.655747+07:00",
+      "fetched": "2026-01-31T19:26:55.655862+07:00"
+    },
+    {
+      "id": "30c23b03258bd347d370c7417d92d799",
+      "title": "Tháng chạp có dáng mẹ quê tần tảo",
+      "link": "https://tuoitre.vn/thang-chap-co-dang-me-que-tan-tao-20260131154339816.htm",
+      "summary": "Tết xưa, mỗi lần đi chợ má sắm được vài thứ, về để lên cái nia trên ván. Và má không quên mua mấy mét vải, bảo đứa lớn dắt mấy đứa em xuống nhà chị Tình đo đồ may cho kịp Tết...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.655613+07:00",
+      "fetched": "2026-01-31T19:26:55.655735+07:00"
+    },
+    {
+      "id": "5415318fa5013fe9bf91b8c3d8660df3",
+      "title": "Du lịch xứ tuyết Himalaya hùng vĩ để thêm... khiêm nhường",
+      "link": "https://tuoitre.vn/du-lich-xu-tuyet-himalaya-hung-vi-de-them-khiem-nhuong-20260131154152008.htm",
+      "summary": "Khi bước chân giữa thiên nhiên hùng vĩ của dãy Himalaya, gắn bó với người bản địa, có những người Việt không còn quá chú trọng chứng tỏ mình đã đi qua núi cao - vực sâu nơi xứ tuyết, mà trở nên khiêm nhường hơn, học cách lắng nghe bên trong mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.655460+07:00",
+      "fetched": "2026-01-31T19:26:55.655599+07:00"
+    },
+    {
+      "id": "964fafe361637788b84b899bf48a87c4",
+      "title": "Hợp tác công - tư để làm metro, TP.HCM có thể thấy kinh nghiệm gì từ Singapore?",
+      "link": "https://tuoitre.vn/hop-tac-cong-tu-de-lam-metro-tp-hcm-co-the-thay-kinh-nghiem-gi-tu-singapore-20260131163203854.htm",
+      "summary": "Hợp tác công tư không chỉ giúp TP.HCM giải quyết nhu cầu phát triển hạ tầng cấp bách, mà qua đó còn giúp nâng cao năng lực cho các doanh nghiệp trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.655299+07:00",
+      "fetched": "2026-01-31T19:26:55.655447+07:00"
+    },
+    {
+      "id": "c9eb3f21402ff7d7a75400f920919a5b",
+      "title": "Tập huấn phòng chống cướp cho 150 ngân hàng, cơ sở kinh doanh vàng ở Cần Thơ",
+      "link": "https://tuoitre.vn/tap-huan-phong-chong-cuop-cho-150-ngan-hang-co-so-kinh-doanh-vang-o-can-tho-20260131170054697.htm",
+      "summary": "Ngày 31-1, Công an TP Cần Thơ đã tổ chức hội nghị triển khai các giải pháp phòng chống cướp tài sản có sử dụng vũ khí, hung khí cho các ngân hàng, tổ chức tín dụng, cơ sở kinh doanh vàng bạc, đá quý…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T19:26:55.655061+07:00",
+      "fetched": "2026-01-31T19:26:55.655283+07:00"
+    },
     {
       "id": "946fc962eb24631e3be25d0fc476d010",
       "title": "Israel lần đầu thừa nhận 70.000 người Palestine đã thiệt mạng ở Gaza",
@@ -303,6 +453,16 @@ window.newsData_2026_01_31 = {
       "fetched": "2026-01-31T15:18:30.350880+07:00"
     },
     {
+      "id": "1ba628fdc85f59e722ae71e2b9cf9551",
+      "title": "Thông điệp của Trung Quốc khi tử hình 11 thành viên gia tộc lừa đảo",
+      "link": "https://vnexpress.net/thong-diep-cua-trung-quoc-khi-tu-hinh-11-thanh-vien-gia-toc-lua-dao-5011721.html",
+      "summary": "Việc tử hình 11 thành viên gia tộc lừa đảo họ Minh được xem là thông điệp cứng rắn của Trung Quốc tới các mạng lưới tội phạm lừa đảo trực tuyến ở Đông Nam Á.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-31T12:00:00+07:00",
+      "fetched": "2026-01-31T19:26:56.986643+07:00"
+    },
+    {
       "id": "852b9e88616a7d79b249da31d3fa77de",
       "title": "Mazda CX-90 bán ở Việt Nam với giá gần 2,5 tỉ đồng, giao hàng từ giữa năm",
       "link": "https://tuoitre.vn/mazda-cx-90-ban-o-viet-nam-voi-gia-gan-2-5-ti-dong-giao-hang-tu-giua-nam-20260131073550831.htm",
@@ -451,6 +611,186 @@ window.newsData_2026_01_31 = {
       "category": "Tổng hợp",
       "published": "2026-01-31T11:59:19.504676+07:00",
       "fetched": "2026-01-31T11:59:19.504887+07:00"
+    },
+    {
+      "id": "93ad091222ed336af20d1926e2a433d8",
+      "title": "Những chính sách nổi bật có hiệu lực từ tháng 2",
+      "link": "https://thanhnien.vn/nhung-chinh-sach-noi-bat-co-hieu-luc-tu-thang-2-185260131180049984.htm",
+      "summary": "Siết mạnh xử phạt vi phạm trong kinh doanh vàng; quy định những hành vi bị xử phạt hành chính về quyền tác giả; quy định mới về hoạt động quảng cáo trên mạng; hoạt động xuất khẩu, nhập khẩu sử dụng tài khoản VNeID để đăng ký... là những chính sách nổi bật có hiệu lực từ tháng 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:59:00+07:00",
+      "fetched": "2026-01-31T19:26:54.522930+07:00"
+    },
+    {
+      "id": "c452a30cc6ba1c27059c26d33483184b",
+      "title": "Giá vàng giảm sâu, người mua xếp hàng dài trước cửa hàng vàng",
+      "link": "https://thanhnien.vn/gia-vang-giam-sau-nguoi-mua-xep-hang-dai-truoc-cua-hang-vang-185260131173538539.htm",
+      "summary": "Sau cú tăng mạnh lên mức cao kỷ lục, giá vàng và bạc trong nước bất ngờ quay đầu giảm sâu theo đà rơi 'lịch sử' của thị trường thế giới. Chỉ trong hai ngày, giá vàng miếng SJC đã mất gần 20 triệu đồng mỗi lượng, khiến nhiều người mua trước đó chịu lỗ nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:55:00+07:00",
+      "fetched": "2026-01-31T19:26:54.523102+07:00"
+    },
+    {
+      "id": "7dc21878357b42e20978adb25585cc6d",
+      "title": "Tảo mộ cận tết, người phụ nữ bật khóc nhớ về chồng đã khuất",
+      "link": "https://thanhnien.vn/tao-mo-can-tet-nguoi-phu-nu-bat-khoc-nho-ve-chong-da-khuat-185260131173625603.htm",
+      "summary": "Những ngày này, nhiều người tranh thủ dịp cuối tuần, vượt hàng chục km để đến nghĩa trang tảo mộ, mời gia tiên về ăn tết, thể hiện sự biết ơn của con cháu đối với ông, bà, tổ tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:49:00+07:00",
+      "fetched": "2026-01-31T19:26:54.523262+07:00"
+    },
+    {
+      "id": "370b3acbf79e4d645ff185131501910e",
+      "title": "Khỉ xuống khu dân cư cắn nhiều người ở Vũng Tàu",
+      "link": "https://vnexpress.net/khi-can-nguoi-tren-duong-vi-ba-vung-tau-5012326.html",
+      "summary": "Con khỉ nặng 5-6 kg liên lục xuất hiện ở đường Vi Ba, phường Vũng Tàu, cắn người dân ở khu vực núi Lớn, được lực lượng chức năng bắt giữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:43:20+07:00",
+      "fetched": "2026-01-31T19:26:51.061041+07:00"
+    },
+    {
+      "id": "cb0b3e5dbf4ec8eb5a65caa679c36a48",
+      "title": "Toyota bán ô tô nhiều nhất thế giới năm 2025",
+      "link": "https://thanhnien.vn/toyota-ban-o-to-nhieu-nhat-the-gioi-nam-2025-1852601301019169.htm",
+      "summary": "Vượt mặt nhiều \"ông lớn\" trong ngành, Toyota tiếp tục trở thành nhà sản ô tô bán chạy nhất thế giới trong năm 2025 với tổng doanh số đạt kỷ lục 11,3 triệu xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:36:00+07:00",
+      "fetched": "2026-01-31T19:26:54.523421+07:00"
+    },
+    {
+      "id": "cca293412b13532ecc4d55e126aeb0b9",
+      "title": "Iran 'sẵn sàng chiến đấu tối đa', cảnh báo đáp trả nếu bị tấn công",
+      "link": "https://vnexpress.net/iran-san-sang-chien-dau-toi-da-canh-bao-dap-tra-neu-bi-tan-cong-5012310.html",
+      "summary": "Tư lệnh quân đội Iran cảnh báo Mỹ và Israel về hậu quả nếu tấn công nước này, thêm rằng các lực lượng của Tehran đã sẵn sàng phòng thủ và chiến đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:28:50+07:00",
+      "fetched": "2026-01-31T19:26:51.061221+07:00"
+    },
+    {
+      "id": "cca293412b13532ecc4d55e126aeb0b9",
+      "title": "Iran 'sẵn sàng chiến đấu tối đa', cảnh báo đáp trả nếu bị tấn công",
+      "link": "https://vnexpress.net/iran-san-sang-chien-dau-toi-da-canh-bao-dap-tra-neu-bi-tan-cong-5012310.html",
+      "summary": "Tư lệnh quân đội Iran cảnh báo Mỹ và Israel về hậu quả nếu tấn công nước này, thêm rằng các lực lượng của Tehran đã sẵn sàng phòng thủ và chiến đấu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-31T11:28:50+07:00",
+      "fetched": "2026-01-31T19:26:56.986853+07:00"
+    },
+    {
+      "id": "52b8b0e1e0d97e46515dc250cc9b2c9e",
+      "title": "'Dạy trẻ như xây nhà, giáo dục mầm non là xây móng nhà'",
+      "link": "https://thanhnien.vn/day-tre-nhu-xay-nha-giao-duc-mam-non-la-xay-mong-nha-185260131150342066.htm",
+      "summary": "Giáo dục mầm non như xây nền móng cho một ngôi nhà. Móng vững chắc thì sau mới có thể bồi đắp lên nhiều tầng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:23:00+07:00",
+      "fetched": "2026-01-31T19:26:54.523595+07:00"
+    },
+    {
+      "id": "a0dc22796aa727e76d94562dd8d1bce0",
+      "title": "Rybakina đăng quang Úc mở rộng 2026, Sabalenka lỡ cơ hội vô địch thứ 3 liên tiếp",
+      "link": "https://thanhnien.vn/rybakina-dang-quang-uc-mo-rong-2026-sabalenka-lo-co-hoi-vo-dich-thu-3-lien-tiep-185260131182221504.htm",
+      "summary": "Trận chung kết đơn nữ giải quần vợt Úc mở rộng 2026 đã diễn ra cực kỳ hấp dẫn. Elena Rybakina với lối chơi kiên cường đã giành chiến thắng 2-1 (6-4, 4-6, 6-4) trước số 1 thế giới Aryna Sabalenka.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:22:00+07:00",
+      "fetched": "2026-01-31T19:26:54.523766+07:00"
+    },
+    {
+      "id": "216854add17fba80b396bcdd08435aee",
+      "title": "Cháy tiệm sửa xe ở Củ Chi, khói đen bốc cao trong khu dân cư",
+      "link": "https://thanhnien.vn/chay-tiem-sua-xe-o-cu-chi-khoi-den-boc-cao-trong-khu-dan-cu-185260131175850797.htm",
+      "summary": "Một tiệm sửa xe ở Củ Chi (TP.HCM) đã xảy ra cháy khiến nhiều tài sản bị thiêu rụi, lực lượng chức năng phải phong tỏa hiện trường để điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:20:00+07:00",
+      "fetched": "2026-01-31T19:26:54.523920+07:00"
+    },
+    {
+      "id": "4fc61edb57c566decac046e3de2297c8",
+      "title": "Bộ trưởng Quốc phòng Nhật - Hàn giao lưu bóng bàn",
+      "link": "https://vnexpress.net/bo-truong-quoc-phong-nhat-han-giao-luu-bong-ban-5012320.html",
+      "summary": "Sau hội đàm, Bộ trưởng Quốc phòng Nhật Bản và Hàn Quốc đã có buổi giao lưu bóng bàn đặc biệt ngày 30/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:07:45+07:00",
+      "fetched": "2026-01-31T19:26:51.061386+07:00"
+    },
+    {
+      "id": "cc78c06a473cec25ab0088f96f2a986e",
+      "title": "HLV Giustozzi nói điều bất ngờ sau trận thua đáng tiếc Thái Lan: ‘Việt Nam chơi tốt hơn nhưng…’",
+      "link": "https://thanhnien.vn/hlv-giustozzi-noi-dieu-bat-ngo-sau-tran-thua-dang-tiec-thai-lan-viet-nam-choi-tot-hon-nhung-185260131175920812.htm",
+      "summary": "Sau khi khép lại vòng bảng VCK futsal châu Á 2026 với vị trí nhì bảng B và giành quyền vào tứ kết, HLV trưởng Diego Giustozzi bày tỏ sự hài lòng về đội tuyển futsal Việt Nam, đồng thời tin tưởng các học trò có thể tạo nên dấu ấn đặc biệt tại giải đấu năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:03:00+07:00",
+      "fetched": "2026-01-31T19:26:54.524077+07:00"
+    },
+    {
+      "id": "5abac1faca613c12ceff9cb878e1d23a",
+      "title": "Cà Mau: Nhiều cơ sở y tế còn hơn 229 tỉ đồng BHYT chưa quyết toán",
+      "link": "https://thanhnien.vn/ca-mau-nhieu-co-so-y-te-con-hon-229-ti-dong-bhyt-chua-quyet-toan-185260131153506604.htm",
+      "summary": "Chi phí khám, chữa bệnh bảo hiểm y tế (BHYT) ở nhiều cơ sở y tế công lập của tỉnh Cà Mau chưa được quyết toán từ các năm 2018, 2019, 2020, 2023, 2024 và 2025 với tổng số tiền lên tới 229 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:01:00+07:00",
+      "fetched": "2026-01-31T19:26:54.524235+07:00"
+    },
+    {
+      "id": "e9986db12ed936fe80256abfe4727d32",
+      "title": "Yêu đơn phương chị đồng nghiệp đã có bạn trai",
+      "link": "https://vnexpress.net/yeu-don-phuong-chi-dong-nghiep-da-co-ban-trai-5007096.html",
+      "summary": "Tôi hiểu chị đã có người yêu, không làm gì sai với chị nhưng lại chẳng thể quên được chị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:00:00+07:00",
+      "fetched": "2026-01-31T19:26:51.061561+07:00"
+    },
+    {
+      "id": "02b7bb311328795b2679af0cc58c7f3c",
+      "title": "Điều gì xảy ra với trí nhớ khi bạn thiếu ngủ?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-tri-nho-khi-ban-thieu-ngu-5012179.html",
+      "summary": "Thiếu ngủ làm suy giảm khả năng tập trung, tiếp thu, lưu trữ và gợi nhớ thông tin, từ đó làm tăng nguy cơ suy giảm nhận thức khi về già.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:00:00+07:00",
+      "fetched": "2026-01-31T19:26:51.061735+07:00"
+    },
+    {
+      "id": "c7dc9b571277d94e99a53e5064865e5f",
+      "title": "Phó thủ tướng chỉ đạo khẩn gỡ vướng mắc thông quan nông sản tại Tây Ninh",
+      "link": "https://thanhnien.vn/pho-thu-tuong-chi-dao-khan-go-vuong-mac-thong-quan-nong-san-tai-tay-ninh-18526013116270255.htm",
+      "summary": "Trước tình trạng hàng loạt xe nông sản bị ùn ứ tại cửa khẩu do vướng quy định kiểm tra an toàn thực phẩm mới, Phó thủ tướng Lê Thành Long vừa chỉ đạo các bộ, ngành xử lý ngay kiến nghị của Tây Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:00:00+07:00",
+      "fetched": "2026-01-31T19:26:54.524397+07:00"
+    },
+    {
+      "id": "72f756d6c15eccfde27ed70078d950dc",
+      "title": "Hà Nội: Chợ Bưởi cận tết ‘kém nhiệt’, khách ngắm hoa nhiều hơn mua",
+      "link": "https://thanhnien.vn/ha-noi-cho-buoi-can-tet-kem-nhiet-khach-ngam-hoa-nhieu-hon-mua-185260131150838006.htm",
+      "summary": "Chỉ còn chưa đầy một tháng nữa là Tết Nguyên Đán, \"thủ phủ\" cây cảnh chợ Bưởi (Hà Nội) đã bắt đầu khoác lên mình tấm áo mới rực rỡ sắc xuân. Thế nhưng, trái ngược với cảnh dòng người qua lại tấp nập, không khí mua bán năm nay lại trầm lắng hơn so với các năm trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:00:00+07:00",
+      "fetched": "2026-01-31T19:26:54.524562+07:00"
+    },
+    {
+      "id": "d143d5a22c74ed3b3ef08e4f3e6eafd2",
+      "title": "Bản phối đời thường trở nên ấn tượng hơn với áo khoác denim",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ban-phoi-doi-thuong-tro-nen-an-tuong-hon-voi-ao-khoac-denim-185260130003337815.htm",
+      "summary": "Chỉ với áo khoác denim, set đồ thường ngày lập tức được 'nâng cấp' về phong cách, tạo nên vẻ ngoài trẻ trung, năng động và đầy cuốn hút trong từng khoảnh khắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T11:00:00+07:00",
+      "fetched": "2026-01-31T19:26:54.524724+07:00"
     },
     {
       "id": "16bbca51c5927bb172b96be103c487bf",
@@ -603,6 +943,66 @@ window.newsData_2026_01_31 = {
       "fetched": "2026-01-31T10:57:17.823633+07:00"
     },
     {
+      "id": "45e5378b9cdd89eccda2def622595af3",
+      "title": "Đề xuất khai thác tạm cao tốc Biên Hòa - Vũng Tàu trước Tết",
+      "link": "https://vnexpress.net/de-xuat-khai-thac-tam-cao-toc-bien-hoa-vung-tau-truoc-tet-5012311.html",
+      "summary": "Chủ đầu tư kiến nghị khai thác cao tốc Biên Hòa - Vũng Tàu từ Long Thành đến TP HCM trước Tết Nguyên đán nhằm rút ngắn thời gian di chuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:54:15+07:00",
+      "fetched": "2026-01-31T19:26:51.061903+07:00"
+    },
+    {
+      "id": "04089244e1231e96ded2aecd5f085ea9",
+      "title": "Dự báo không khí lạnh gây mưa 3 ngày ở 5 tỉnh miền Trung",
+      "link": "https://thanhnien.vn/du-bao-khong-khi-lanh-gay-mua-3-ngay-o-5-tinh-mien-trung-18526013117243276.htm",
+      "summary": "Không khí lạnh đã ảnh hưởng đến Đông Bắc bộ và tiếp tục lan rộng, đi sâu vào miền Trung, gây ra đợt mưa ở 5 tỉnh, thành phố trong 3 ngày đầu tháng 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:51:00+07:00",
+      "fetched": "2026-01-31T19:26:54.524876+07:00"
+    },
+    {
+      "id": "87a5ce234a7a0435ea51615594283f4a",
+      "title": "Thực hư bán vàng cưới, vàng tiết kiệm trái phép sẽ bị tịch thu",
+      "link": "https://thanhnien.vn/thuc-hu-ban-vang-cuoi-vang-tiet-kiem-trai-phep-se-bi-tich-thu-185260131161847841.htm",
+      "summary": "Theo Chủ tịch Công ty Luật SBLAW Nguyễn Thanh Hà, mức phạt từ 300 - 400 triệu đồng, kèm hình phạt bổ sung tịch thu vàng chỉ áp dụng với các tổ chức, cá nhân mua bán vàng miếng mang tính kinh doanh nhưng không có giấy phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:45:00+07:00",
+      "fetched": "2026-01-31T19:26:54.525029+07:00"
+    },
+    {
+      "id": "79c36c334168733314ff03815a8018bd",
+      "title": "PNJ đưa 'Siêu thị mini 0 đồng' đến 15.000 người khó khăn",
+      "link": "https://vnexpress.net/pnj-dua-sieu-thi-mini-0-dong-den-15-000-nguoi-kho-khan-5011889.html",
+      "summary": "Với tổng kinh phí 6,2 tỷ đồng, \"Siêu thị mini 0 đồng - Tết Bính Ngọ\" của PNJ sẽ hỗ trợ 15.000 hộ cận nghèo, người lao động khó khăn ở TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:30:00+07:00",
+      "fetched": "2026-01-31T19:26:51.062059+07:00"
+    },
+    {
+      "id": "9753e879a9fefaa0e86aa85ee4fed8cd",
+      "title": "'May mắn kép' cho khách trúng xổ số miền Nam ngày 31 tháng 1 đài Hậu Giang",
+      "link": "https://thanhnien.vn/may-man-kep-cho-khach-trung-xo-so-mien-nam-ngay-31-thang-1-dai-hau-giang-185260131171905768.htm",
+      "summary": "Theo kết quả xổ số miền Nam ngày 31 tháng 1, đài Hậu Giang xuất hiện dãy số trúng giải tư và giải tám. Nhiều người cho rằng khách sở hữu dãy số này gặp 'may mắn kép'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:25:00+07:00",
+      "fetched": "2026-01-31T19:26:54.525178+07:00"
+    },
+    {
+      "id": "e614caa1ca13be9c7c1904ab3ccb0c06",
+      "title": "Xếp hàng chờ mua bạc",
+      "link": "https://vnexpress.net/xep-hang-cho-mua-bac-5011581.html",
+      "summary": "Những ngày qua, đông người dân đổ về các cửa hàng vàng bạc ở Hà Nội, TP HCM xếp hàng nhiều giờ để đăng ký mua bạc miếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:15:06+07:00",
+      "fetched": "2026-01-31T19:26:51.062213+07:00"
+    },
+    {
       "id": "f23ff326318280e7144a441c28c8057d",
       "title": "Vụ 'chém cổ đông, thâu tóm mỏ cát': Bắt 3 người trốn truy nã ở Thái Lan",
       "link": "https://thanhnien.vn/vu-chem-co-dong-thau-tom-mo-cat-bat-3-nguoi-tron-truy-na-o-thai-lan-185260131145433875.htm",
@@ -621,6 +1021,16 @@ window.newsData_2026_01_31 = {
       "category": "Tổng hợp",
       "published": "2026-01-31T10:10:00+07:00",
       "fetched": "2026-01-31T17:15:02.179056+07:00"
+    },
+    {
+      "id": "5f85d9404a13982df88d72857bbf985f",
+      "title": "Chính phủ siết quảng cáo, tăng tiền kiểm để ngăn thực phẩm giả",
+      "link": "https://vnexpress.net/chinh-phu-siet-quang-cao-tang-tien-kiem-de-ngan-thuc-pham-gia-5012274.html",
+      "summary": "Chính phủ vừa ban hành các quy định mới hướng dẫn Luật An toàn thực phẩm, tập trung siết chặt khâu tiền kiểm và hoạt động quảng cáo nhằm ngăn chặn triệt để nạn thực phẩm, sữa giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:08:40+07:00",
+      "fetched": "2026-01-31T19:26:51.062372+07:00"
     },
     {
       "id": "e4dfab8915cd280a33e8e4aa637cc20b",
@@ -643,6 +1053,16 @@ window.newsData_2026_01_31 = {
       "fetched": "2026-01-31T17:15:02.179399+07:00"
     },
     {
+      "id": "ed5275f037af0a72da3d4f1d1e5ab3b0",
+      "title": "Bệnh viện Chợ Rẫy triển khai hệ thống thông tim hiện đại nhất phía Nam",
+      "link": "https://vnexpress.net/benh-vien-cho-ray-trien-khai-he-thong-thong-tim-hien-dai-nhat-phia-nam-5012188.html",
+      "summary": "Bệnh viện Chợ Rẫy đưa vào hoạt động hệ thống thông tim can thiệp hiện đại với 4 phòng DSA tích hợp trí tuệ nhân tạo, giải quyết bài toán quá tải trong điều trị bệnh lý tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:00:44+07:00",
+      "fetched": "2026-01-31T19:26:51.062536+07:00"
+    },
+    {
       "id": "c5fba471573818c67f32fb071773a225",
       "title": "Toàn cảnh 17h: Phụ huynh mất ngủ vì vụ thịt hết hạn | Vì sao tiểu thương chợ hoa như ‘ngồi trên lửa’?",
       "link": "https://thanhnien.vn/toan-canh-17h-phu-huynh-mat-ngu-vi-vu-thit-het-han-vi-sao-tieu-thuong-cho-hoa-nhu-ngoi-tren-lua-18526013115251879.htm",
@@ -661,6 +1081,26 @@ window.newsData_2026_01_31 = {
       "category": "Thể thao",
       "published": "2026-01-31T10:00:00+07:00",
       "fetched": "2026-01-31T17:15:11.242034+07:00"
+    },
+    {
+      "id": "1ebff0cb4e5ea7b3651651a38e4efa0b",
+      "title": "Điểm tin 17h: Nhập khẩu thực phẩm, nông sản đình trệ vì chờ hướng dẫn | 77% lao động đổi lương lấy môi trường làm việc lành mạnh",
+      "link": "https://vnexpress.net/diem-tin-17h-nhap-khau-thuc-pham-nong-san-dinh-tre-vi-cho-huong-dan-77-lao-dong-doi-luong-lay-moi-truong-lam-viec-lanh-manh-5012303.html",
+      "summary": "Cảnh sát đột kích hầm trú ẩn của băng ma túy ở Khu kinh tế Dung Quất; Lao động tự do được tự kê khai thu nhập khi mua nhà ở xã hội;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:00:00+07:00",
+      "fetched": "2026-01-31T19:26:51.062876+07:00"
+    },
+    {
+      "id": "5c8a94851725875270a86549b1135937",
+      "title": "Vì sao trẻ tuổi vẫn có đồi mồi?",
+      "link": "https://vnexpress.net/vi-sao-tre-tuoi-van-co-doi-moi-5012233.html",
+      "summary": "Đồi mồi thường gặp ở người trên 40 tuổi nhưng có thể xuất hiện sớm ở người trẻ do tác động của ánh nắng, di truyền và lối sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:00:00+07:00",
+      "fetched": "2026-01-31T19:26:51.063027+07:00"
     },
     {
       "id": "6b91796dc568be225e2d86444b65124d",
@@ -713,6 +1153,16 @@ window.newsData_2026_01_31 = {
       "fetched": "2026-01-31T17:15:02.180353+07:00"
     },
     {
+      "id": "c0c505fbcfd4b94bbba7940899c5ec24",
+      "title": "Tôi ân hận vì bắt con 5 tuổi học tiền tiểu học",
+      "link": "https://vnexpress.net/toi-an-han-vi-bat-con-5-tuoi-hoc-tien-tieu-hoc-5012282.html",
+      "summary": "Trong nỗi lo con bị sốc khi vào lớp 1, thua kém bạn bè, tôi đã chọn cách 'phòng ngừa' bằng việc cho con học tiền tiểu học từ sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:55:16+07:00",
+      "fetched": "2026-01-31T19:26:51.063184+07:00"
+    },
+    {
       "id": "0041f35c015cf4869bad8c4560661fd6",
       "title": "Trang bị kỹ năng sơ cấp cứu dịp tết: ‘Thời gian vàng’ quyết định sự sống",
       "link": "https://thanhnien.vn/trang-bi-ky-nang-so-cap-cuu-dip-tet-thoi-gian-vang-quyet-dinh-su-song-185260131160729255.htm",
@@ -751,6 +1201,26 @@ window.newsData_2026_01_31 = {
       "category": "Thế giới",
       "published": "2026-01-31T09:43:24+07:00",
       "fetched": "2026-01-31T17:15:04.636492+07:00"
+    },
+    {
+      "id": "0c6accf570c7016c3e4af71251e59ebb",
+      "title": "Sập mỏ coltan lớn hàng đầu thế giới, hơn 200 người chết",
+      "link": "https://vnexpress.net/sap-mo-coltan-lon-hang-dau-the-gioi-hon-200-nguoi-chet-5012286.html",
+      "summary": "Khu hầm mỏ Rybaya, nơi sản xuất 15% quặng coltan cho thế giới, bị sập, khiến hơn 200 người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:43:24+07:00",
+      "fetched": "2026-01-31T19:26:51.063334+07:00"
+    },
+    {
+      "id": "0c6accf570c7016c3e4af71251e59ebb",
+      "title": "Sập mỏ coltan lớn hàng đầu thế giới, hơn 200 người chết",
+      "link": "https://vnexpress.net/sap-mo-coltan-lon-hang-dau-the-gioi-hon-200-nguoi-chet-5012286.html",
+      "summary": "Khu hầm mỏ Rybaya, nơi sản xuất 15% quặng coltan cho thế giới, bị sập, khiến hơn 200 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-31T09:43:24+07:00",
+      "fetched": "2026-01-31T19:26:56.987035+07:00"
     },
     {
       "id": "0ca87e5fa8e0454afba9f7bbfc172533",
