@@ -1,7 +1,157 @@
 window.newsData_2026_01_31 = {
   "date": "2026-01-31",
-  "lastUpdated": "2026-01-31T15:18:37.377393+07:00",
+  "lastUpdated": "2026-01-31T17:15:11.252511+07:00",
   "articles": [
+    {
+      "id": "946fc962eb24631e3be25d0fc476d010",
+      "title": "Israel lần đầu thừa nhận 70.000 người Palestine đã thiệt mạng ở Gaza",
+      "link": "https://tuoitre.vn/israel-lan-dau-thua-nhan-70-000-nguoi-palestine-da-thiet-mang-o-gaza-20260131143031061.htm",
+      "summary": "Sau nhiều năm phủ nhận, ngày 30-1, quân đội Israel đã công khai thừa nhận khoảng 70.000 người Palestine đã thiệt mạng tại Gaza.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.149575+07:00",
+      "fetched": "2026-01-31T17:15:03.149693+07:00"
+    },
+    {
+      "id": "8626ee402ffd1513b341c2576a538e31",
+      "title": "Tesla khoe robot AI giống người đến 'khó phân biệt', tính sản xuất 1 triệu con mỗi năm",
+      "link": "https://tuoitre.vn/tesla-khoe-robot-ai-giong-nguoi-den-kho-phan-biet-tinh-san-xuat-1-trieu-con-moi-nam-20260131134952042.htm",
+      "summary": "Tập đoàn Tesla của tỉ phú Elon Musk không ngần ngại bày tỏ tham vọng biến robot AI thành sản phẩm phổ thông, khẳng định 'ai cũng muốn' sở hữu 1 con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.149440+07:00",
+      "fetched": "2026-01-31T17:15:03.149563+07:00"
+    },
+    {
+      "id": "7806fcef039120bc06487bb6030a17bb",
+      "title": "Mì Quảng trộn khô",
+      "link": "https://tuoitre.vn/mi-quang-tron-kho-20260131142540464.htm",
+      "summary": "Mì Quảng trộn khô là một trong những món ăn không thể thiếu trong mâm cúng ông bà, đám giỗ và cả trong những ngày giáp Tết. Món ăn như một phần ký ức của bao thế hệ người Quảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.149315+07:00",
+      "fetched": "2026-01-31T17:15:03.149429+07:00"
+    },
+    {
+      "id": "6d389b5381ecb42f885e587d1e604054",
+      "title": "Mỹ phê duyệt thương vụ bán vũ khí 'khủng' gần 16 tỉ USD cho Saudi Arabia và Israel",
+      "link": "https://tuoitre.vn/my-phe-duyet-thuong-vu-ban-vu-khi-khung-gan-16-ti-usd-cho-saudi-arabia-va-israel-20260131142007123.htm",
+      "summary": "Thương vụ diễn ra khi căng thẳng Mỹ - Iran leo thang, song còn chờ Quốc hội phê duyệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.149172+07:00",
+      "fetched": "2026-01-31T17:15:03.149303+07:00"
+    },
+    {
+      "id": "12806fa35c9dbb8dd4eedea5cd44043d",
+      "title": "Ông Trump 'bênh' Nga sau vụ tấn công tàu hỏa Ukraine khiến 5 người thiệt mạng?",
+      "link": "https://tuoitre.vn/ong-trump-benh-nga-sau-vu-tan-cong-tau-hoa-ukraine-khien-5-nguoi-thiet-mang-20260131112540426.htm",
+      "summary": "Một bài đăng cũ của Tổng thống Trump bị lan truyền trở lại sau vụ Nga tấn công tàu hỏa ở Ukraine, làm dấy lên hiểu nhầm và tranh cãi trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.149046+07:00",
+      "fetched": "2026-01-31T17:15:03.149161+07:00"
+    },
+    {
+      "id": "4691f5ad733355c4220e006bf0f70340",
+      "title": "Kusto Home hợp tác Cen Land và Kiến Hưng phân phối The Reflection West Lake",
+      "link": "https://tuoitre.vn/kusto-home-hop-tac-cen-land-va-kien-hung-phan-phoi-the-reflection-west-lake-20260131121102795.htm",
+      "summary": "Sáng 30-1, Công ty CP Kusto Home ký kết hợp tác với Công ty CP Bất động sản Thế Kỷ (Cen Land) và Công ty CP Dịch vụ & Địa ốc Kiến Hưng, đánh dấu mối quan hệ chiến lược trong hoạt động phân phối dự án The Reflection West Lake (Hà Nội).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.148910+07:00",
+      "fetched": "2026-01-31T17:15:03.149035+07:00"
+    },
+    {
+      "id": "a3cc8aecb4059fd4ca58989a87773835",
+      "title": "Sabeco tôn vinh văn hóa Việt trong chiến dịch Tết 2026",
+      "link": "https://tuoitre.vn/sabeco-ton-vinh-van-hoa-viet-trong-chien-dich-tet-2026-20260131140159834.htm",
+      "summary": "Từ hoạt động trao quà Tết thường niên, Sabeco mở rộng thành nền tảng tôn vinh sự đa dạng văn hóa vùng miền Việt Nam, lan tỏa tinh thần sum vầy, sẻ chia ngày Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.148783+07:00",
+      "fetched": "2026-01-31T17:15:03.148895+07:00"
+    },
+    {
+      "id": "6f30a4d38a8b697886653fac93e08e58",
+      "title": "Thương mại điện tử cất cánh: Đường băng logistics đã sẵn sàng?",
+      "link": "https://tuoitre.vn/thuong-mai-dien-tu-cat-canh-duong-bang-logistics-da-san-sang-20260131144150626.htm",
+      "summary": "Thương mại điện tử tại Việt Nam vừa trải qua giai đoạn tăng trưởng phi mã hiếm có, nhưng bài toán tăng trưởng đường dài cần đặt logistics ở vai trò trung tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.148650+07:00",
+      "fetched": "2026-01-31T17:15:03.148771+07:00"
+    },
+    {
+      "id": "d2a600c4b2f05502d3e4698283066935",
+      "title": "Bịt 'lỗ hổng' giám sát bữa ăn học đường sau vụ Sago Food: Không thể 'hên xui'",
+      "link": "https://tuoitre.vn/bit-lo-hong-giam-sat-bua-an-hoc-duong-sau-vu-sago-food-khong-the-hen-xui-20260131100045319.htm",
+      "summary": "Sau vụ Sago Food, Sở GD-ĐT TP.HCM yêu cầu các trường rà soát toàn diện bữa ăn học đường, siết giám sát để không còn cảnh 'hên xui'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.148525+07:00",
+      "fetched": "2026-01-31T17:15:03.148638+07:00"
+    },
+    {
+      "id": "83412ec52f686d8b71748424c22bed3c",
+      "title": "Thủ tướng: Giao việc lớn, việc khó, việc đột phá cho doanh nghiệp tư nhân",
+      "link": "https://tuoitre.vn/thu-tuong-giao-viec-lon-viec-kho-viec-dot-pha-cho-doanh-nghiep-tu-nhan-20260131150000547.htm",
+      "summary": "Đó là kết luận được Thủ tướng Phạm Minh Chính, Trưởng Ban Chỉ đạo quốc gia triển khai Nghị quyết số 68 về phát triển kinh tế tư nhân đưa ra tại phiên họp lần thứ tư diễn ra sáng 31-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.148393+07:00",
+      "fetched": "2026-01-31T17:15:03.148513+07:00"
+    },
+    {
+      "id": "34c3335d5e6fa2c56d5c8b42f4178145",
+      "title": "Cẩn trọng tránh bẫy lừa đảo khi đặt phòng, vé máy bay dịp Tết",
+      "link": "https://tuoitre.vn/can-trong-tranh-bay-lua-dao-khi-dat-phong-ve-may-bay-dip-tet-20260131150629452.htm",
+      "summary": "Các chiêu trò lừa đảo đặt phòng, đặt vé du lịch trực tuyến ngày càng tinh vi vào mùa cao điểm, gây thiệt hại tài chính và tâm lý cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.148247+07:00",
+      "fetched": "2026-01-31T17:15:03.148368+07:00"
+    },
+    {
+      "id": "f1ff303472a8d43114c944199024c19b",
+      "title": "Thiếu cán bộ chuyên môn công nghệ, cấp xã ở Lâm Đồng xoay xở đủ kiểu",
+      "link": "https://tuoitre.vn/thieu-can-bo-chuyen-mon-cong-nghe-xa-phuong-o-lam-dong-xoay-xo-du-kieu-20260131144337646.htm",
+      "summary": "Theo khảo sát của Tuổi Trẻ, tại nhiều phường xã của tỉnh Lâm Đồng thiếu cán bộ chuyên môn công nghệ thông tin. Việc này ảnh hưởng lớn đến giải quyết thủ tục hành chính cho người dân hàng ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.148100+07:00",
+      "fetched": "2026-01-31T17:15:03.148234+07:00"
+    },
+    {
+      "id": "b0cbbc0b404c9c4395a713acf00c67b6",
+      "title": "Anime tân binh bí ẩn gây sốt Netflix mà không cần quảng bá rầm rộ",
+      "link": "https://tuoitre.vn/anime-tan-binh-bi-an-gay-sot-netflix-ma-khong-can-quang-ba-ram-ro-20260131153046371.htm",
+      "summary": "Năm 2026 mở màn sôi động với loạt anime mới trên các nền tảng trực tuyến, ngoài những cái tên 'hot' như Jujutsu Kaisen hay Frieren: Beyond Journey's End, cũng có những tân binh đầy mạnh mẽ như Cosmic Princess Kaguya.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.147969+07:00",
+      "fetched": "2026-01-31T17:15:03.148089+07:00"
+    },
+    {
+      "id": "b46de20315b59574d98b7326bc2ae987",
+      "title": "Cận Tết, CSGT cảnh báo lỗi 'đánh lái không xi nhan' cực kỳ nguy hiểm trên cao tốc",
+      "link": "https://tuoitre.vn/can-tet-csgt-canh-bao-loi-danh-lai-khong-xi-nhan-cuc-ky-nguy-hiem-tren-cao-toc-20260131150020352.htm",
+      "summary": "Lượng xe tăng mạnh dịp Tết, CSGT cảnh báo lỗi chuyển làn không xi nhan và không giữ khoảng cách đang tái diễn trên nhiều tuyến cao tốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.147830+07:00",
+      "fetched": "2026-01-31T17:15:03.147956+07:00"
+    },
+    {
+      "id": "038730ca726b64ba4b810ad515dedc01",
+      "title": "Ông Trump khoe thu hút đầu tư gấp 18 lần thời ông Biden",
+      "link": "https://tuoitre.vn/ong-trump-khoe-thu-hut-dau-tu-gap-18-lan-thoi-ong-biden-20260131145318485.htm",
+      "summary": "Tổng thống Trump cho biết trong vòng một năm, ông đã thu hút 18.000 tỉ USD đầu tư, con số vượt xa thành tích của ông Biden.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:15:03.147588+07:00",
+      "fetched": "2026-01-31T17:15:03.147815+07:00"
+    },
     {
       "id": "2948d8b0db5aeff97e63b9bb461559a0",
       "title": "Săn đặc sản ăn chơi ngày Tết - Kỳ cuối: Thân thương món miền Tây giữa Tết Sài Gòn",
@@ -453,6 +603,346 @@ window.newsData_2026_01_31 = {
       "fetched": "2026-01-31T10:57:17.823633+07:00"
     },
     {
+      "id": "f23ff326318280e7144a441c28c8057d",
+      "title": "Vụ 'chém cổ đông, thâu tóm mỏ cát': Bắt 3 người trốn truy nã ở Thái Lan",
+      "link": "https://thanhnien.vn/vu-chem-co-dong-thau-tom-mo-cat-bat-3-nguoi-tron-truy-na-o-thai-lan-185260131145433875.htm",
+      "summary": "Liên quan vụ chém người giữa ban ngày tại TP.Đà Nẵng do tranh chấp quyền điều hành Công ty TNHH Thương mại Pha Lê Quảng Nam khiến nạn nhân thương tích 50%, Công an TP.Đà Nẵng đã truy bắt thành công 3 đối tượng truy nã đặc biệt nguy hiểm lẩn trốn tại Thái Lan sau hơn 2 năm gây án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:13:00+07:00",
+      "fetched": "2026-01-31T17:15:02.178889+07:00"
+    },
+    {
+      "id": "e8ba48ad7297c5b99f4f005feade6ff2",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn thăm, tặng quà Tết tại Đồng Tháp",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-tran-thanh-man-tham-tang-qua-tet-tai-dong-thap-185260131152357221.htm",
+      "summary": "Tại chuyến công tác tỉnh Đồng Tháp, Chủ tịch Quốc hội Trần Thanh Mẫn biểu dương những kết quả tỉnh  đã đạt được; đồng thời có nhiều chỉ đạo, định hướng cho địa phương trong giai đoạn tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:10:00+07:00",
+      "fetched": "2026-01-31T17:15:02.179056+07:00"
+    },
+    {
+      "id": "e4dfab8915cd280a33e8e4aa637cc20b",
+      "title": "Trường đại học thành lập Quỹ Hạnh phúc vì cộng đồng",
+      "link": "https://thanhnien.vn/truong-dai-hoc-thanh-lap-quy-hanh-phuc-vi-cong-dong-185260130171517115.htm",
+      "summary": "Trường ĐH Y dược Buôn Ma Thuột tổ chức lễ ra mắt Quỹ Hạnh phúc (BHF) vì cộng đồng, hoạt động theo định hướng lấy con người làm trung tâm, đồng hành cùng nhóm yếu thế trong xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:07:00+07:00",
+      "fetched": "2026-01-31T17:15:02.179232+07:00"
+    },
+    {
+      "id": "654d70aafab2689fabcc1be512dff70e",
+      "title": "Giám đốc CAHN ca ngợi Đình Bắc, Lý Đức và Minh Phúc: Tài năng trẻ được ra nước ngoài thi đấu nếu…",
+      "link": "https://thanhnien.vn/giam-doc-cahn-ca-ngoi-dinh-bac-ly-duc-va-minh-phuc-tai-nang-tre-duoc-ra-nuoc-ngoai-thi-dau-neu-185260131162849427.htm",
+      "summary": "CLB Công an Hà Nội (CLB CAHN) chủ trương mở rộng hệ thống đào tạo trẻ và tạo điều kiện cho cầu thủ tiếp cận những nền bóng đá phát triển hơn, góp phần giúp bóng đá Việt Nam nâng tầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:02:00+07:00",
+      "fetched": "2026-01-31T17:15:02.179399+07:00"
+    },
+    {
+      "id": "c5fba471573818c67f32fb071773a225",
+      "title": "Toàn cảnh 17h: Phụ huynh mất ngủ vì vụ thịt hết hạn | Vì sao tiểu thương chợ hoa như ‘ngồi trên lửa’?",
+      "link": "https://thanhnien.vn/toan-canh-17h-phu-huynh-mat-ngu-vi-vu-thit-het-han-vi-sao-tieu-thuong-cho-hoa-nhu-ngoi-tren-lua-18526013115251879.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:00:00+07:00",
+      "fetched": "2026-01-31T17:15:02.179554+07:00"
+    },
+    {
+      "id": "d660323d6f07ced9a6cf4c1471dfd4ab",
+      "title": "Khi Djokovic không còn sợ Sinner",
+      "link": "https://vnexpress.net/khi-djokovic-khong-con-so-sinner-5012251.html",
+      "summary": "Novak Djokovic cắt chuỗi 5 thất bại dưới tay Jannik Sinner, khi hạ gục đàn em 3-6, 6-3, 4-6, 6-4, 6-4 trong hơn 4 tiếng thi đấu, tối 30/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-31T10:00:00+07:00",
+      "fetched": "2026-01-31T17:15:11.242034+07:00"
+    },
+    {
+      "id": "6b91796dc568be225e2d86444b65124d",
+      "title": "Vingroup của tỉ phú Phạm Nhật Vượng đạt doanh thu kỷ lục",
+      "link": "https://thanhnien.vn/vingroup-cua-ti-phu-pham-nhat-vuong-dat-doanh-thu-ky-luc-185260131165116284.htm",
+      "summary": "Tập đoàn Vingroup (mã chứng khoán VIC) của tỉ phú Phạm Nhật Vượng đạt doanh thu kỷ lục năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:59:00+07:00",
+      "fetched": "2026-01-31T17:15:02.179706+07:00"
+    },
+    {
+      "id": "ea47608def9262051c1d843038e7c12c",
+      "title": "Vé tàu tăng giá, người dân vẫn tranh thủ mua sớm để về quê",
+      "link": "https://thanhnien.vn/ve-tau-tang-gia-nguoi-dan-van-tranh-thu-mua-som-de-ve-que-185260131165517351.htm",
+      "summary": "Chỉ còn hơn hai tuần nữa là đến Tết Nguyên đán, ga Sài Gòn bước vào cao điểm mua vé. Dù giá vé tăng 5 - 10%, nhiều người lao động xa quê vẫn chấp nhận để có một chuyến tàu sum họp gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:58:00+07:00",
+      "fetched": "2026-01-31T17:15:02.179858+07:00"
+    },
+    {
+      "id": "ebfcac38f687d593fffc929fbb7f33cb",
+      "title": "TP.HCM bắn pháo hoa đón Tết Bính Ngọ 2026 ở 17 điểm",
+      "link": "https://thanhnien.vn/tphcm-ban-phao-hoa-don-tet-binh-ngo-2026-o-17-diem-185260131164358462.htm",
+      "summary": "Chào đón Tết Nguyên đán Bính Ngọ 2026, TP.HCM sẽ bắn pháo hoa ở 17 điểm, trong đó có 4 điểm tầm cao ở phường An Khánh, phường Bình Dương, phường Vũng Tàu và phường Bà Rịa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:58:00+07:00",
+      "fetched": "2026-01-31T17:15:02.180012+07:00"
+    },
+    {
+      "id": "bcc6ba8b61646cd707bc66cb23fef05a",
+      "title": "Cua Cà Mau tăng giá 'sốc', có loại 900.000 đồng/kg",
+      "link": "https://thanhnien.vn/cua-ca-mau-tang-gia-soc-co-loai-900000-dong-kg-185260131160038874.htm",
+      "summary": "Gần Tết Nguyên đán, giá cua Cà Mau liên tục leo thang, nhiều loại tăng đến vài trăm nghìn đồng mỗi ký.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:58:00+07:00",
+      "fetched": "2026-01-31T17:15:02.180159+07:00"
+    },
+    {
+      "id": "de778f0c0453736ab3b5e7e7bad29c77",
+      "title": "VinFast được vinh danh 'nhà đầu tư của năm' tại Ấn Độ",
+      "link": "https://thanhnien.vn/vinfast-duoc-vinh-danh-nha-dau-tu-cua-nam-tai-an-do-185260131165335795.htm",
+      "summary": "VinFast tiếp tục ghi dấu ấn tại thị trường Ấn Độ, khi được các tạp chí chuyên ngành uy tín thuộc hệ sinh thái truyền thông Vikatan Group vinh danh với hai hạng mục gồm \"Nhà đầu tư của năm\" và \"Xe điện đô thị của năm 2026\" cho mẫu VF 7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:57:00+07:00",
+      "fetched": "2026-01-31T17:15:02.180353+07:00"
+    },
+    {
+      "id": "0041f35c015cf4869bad8c4560661fd6",
+      "title": "Trang bị kỹ năng sơ cấp cứu dịp tết: ‘Thời gian vàng’ quyết định sự sống",
+      "link": "https://thanhnien.vn/trang-bi-ky-nang-so-cap-cuu-dip-tet-thoi-gian-vang-quyet-dinh-su-song-185260131160729255.htm",
+      "summary": "Gần 50 người dân tại Nha Trang (Khánh Hòa) được hướng dẫn kỹ năng sơ cấp cứu, nhận diện đột quỵ và xử trí tình huống y tế khẩn cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:54:00+07:00",
+      "fetched": "2026-01-31T17:15:02.180515+07:00"
+    },
+    {
+      "id": "4736ee9e2bff11ea8dfab0151cf572cc",
+      "title": "Sôi động trải nghiệm công nghệ, hướng nghiệp ở chương trình Tư vấn mùa thi",
+      "link": "https://thanhnien.vn/soi-dong-trai-nghiem-cong-nghe-huong-nghiep-o-chuong-trinh-tu-van-mua-thi-185260131151844562.htm",
+      "summary": "Chương trình Tư vấn mùa thi tại Gia Lai thu hút hơn 1.200 học sinh, mang đến không gian tư vấn sôi nổi với các gian hàng trải nghiệm công nghệ và định hướng nghề nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:54:00+07:00",
+      "fetched": "2026-01-31T17:15:02.180669+07:00"
+    },
+    {
+      "id": "468f19cb07fd4adc5baae5f0565b290b",
+      "title": "Sập mỏ coltan lớn nhất thế giới, hơn 200 người chết",
+      "link": "https://vnexpress.net/sap-mo-coltan-lon-nhat-the-gioi-hon-200-nguoi-chet-5012286.html",
+      "summary": "Khu hầm mỏ Rybaya, nơi sản xuất 15% quặng coltan cho thế giới, bị sập, khiến hơn 200 người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:43:24+07:00",
+      "fetched": "2026-01-31T17:14:58.768356+07:00"
+    },
+    {
+      "id": "468f19cb07fd4adc5baae5f0565b290b",
+      "title": "Sập mỏ coltan lớn nhất thế giới, hơn 200 người chết",
+      "link": "https://vnexpress.net/sap-mo-coltan-lon-nhat-the-gioi-hon-200-nguoi-chet-5012286.html",
+      "summary": "Khu hầm mỏ Rybaya, nơi sản xuất 15% quặng coltan cho thế giới, bị sập, khiến hơn 200 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-31T09:43:24+07:00",
+      "fetched": "2026-01-31T17:15:04.636492+07:00"
+    },
+    {
+      "id": "0ca87e5fa8e0454afba9f7bbfc172533",
+      "title": "Ăn khoai lang buổi sáng: Đúng thì gọn dáng, sai thì phản tác dụng",
+      "link": "https://thanhnien.vn/an-khoai-lang-buoi-sang-dung-thi-gon-dang-sai-thi-phan-tac-dung-185260131164317363.htm",
+      "summary": "Khoai lang thường được nhiều người lựa chọn vào bữa sáng với mục tiêu giảm cân. Tuy nhiên, nếu ăn khoai lang không đúng cách hoặc kết hợp sai thời điểm, hiệu quả kiểm soát cân nặng có thể giảm đáng kể, thậm chí phản tác dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:43:00+07:00",
+      "fetched": "2026-01-31T17:15:02.180819+07:00"
+    },
+    {
+      "id": "16840df1567100b3f501e805d22a1535",
+      "title": "Đường dây sản xuất gas giả ở Đồng Nai bị triệt phá",
+      "link": "https://vnexpress.net/duong-day-san-xuat-gas-gia-o-dong-nai-bi-triet-pha-5012300.html",
+      "summary": "Ập vào 10 địa điểm sản xuất gas, các trinh sát phát hiện lượng lớn gas chưa rõ nguồn gốc đang chiết nạp ra các bình, đưa đi tiêu thụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:42:07+07:00",
+      "fetched": "2026-01-31T17:14:58.768533+07:00"
+    },
+    {
+      "id": "dcd88964596797d9f6883be4649a98c6",
+      "title": "Thêm LG ngừng sản xuất, 'hồi chuông báo tử' cho TV 8K?",
+      "link": "https://thanhnien.vn/them-lg-ngung-san-xuat-hoi-chuong-bao-tu-cho-tv-8k-185260131151035382.htm",
+      "summary": "Sau Sony và TCL, LG đã chính thức từ bỏ thị trường TV 8K, đánh dấu một bước lùi lớn trong cuộc đua công nghệ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:41:00+07:00",
+      "fetched": "2026-01-31T17:15:02.180967+07:00"
+    },
+    {
+      "id": "7b08ec29fbb1dac98df61653ee4949ff",
+      "title": "Nữ công nhân bị đồng nghiệp dâm ô ở công ty",
+      "link": "https://vnexpress.net/nu-cong-nhan-bi-dong-nghiep-dam-o-o-cong-ty-5012295.html",
+      "summary": "Trong lúc làm việc trong nhà xưởng, thấy thiếu nữ 16 tuổi một mình, nam công nhân 34 tuổi sàm sỡ, dâm ô nhưng bị camera an ninh ghi lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:38:50+07:00",
+      "fetched": "2026-01-31T17:14:58.768710+07:00"
+    },
+    {
+      "id": "91d1387c00dbef48e51aee36a7b6b263",
+      "title": "Thứ trưởng Công an yêu cầu quản lý chặt người có biểu hiện loạn thần, ‘ngáo đá’",
+      "link": "https://thanhnien.vn/thu-truong-cong-an-yeu-cau-quan-ly-chat-nguoi-co-bieu-hien-loan-than-ngao-da-185260131155446541.htm",
+      "summary": "Để làm tốt công tác quản lý người nghiện ma túy, Thứ trưởng Bộ Công an Nguyễn Văn Long yêu cầu chủ động test ma túy, quản lý chặt các đối tượng có biểu hiện loạn thần, 'ngáo đá', tuyệt đối không để đối tượng nghiện, sử dụng ma túy gây án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:35:00+07:00",
+      "fetched": "2026-01-31T17:15:02.181114+07:00"
+    },
+    {
+      "id": "ff412c40811293688f592c00671cb3f1",
+      "title": "Hòa Minzy bật khóc khi nhận giải Làn Sóng Xanh",
+      "link": "https://vnexpress.net/hoa-minzy-bat-khoc-khi-nhan-giai-lan-song-xanh-5012289.html",
+      "summary": "Với ca khúc “Bắc Bling”, Hòa Minzy giành 7 giải tại Làn Sóng Xanh 2025, trong đó lần đầu cô được xướng tên ở hạng mục Ca sĩ của năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:26:00+07:00",
+      "fetched": "2026-01-31T17:14:58.768869+07:00"
+    },
+    {
+      "id": "0ba8af7d1a80b323ce98040f360128ac",
+      "title": "Bên trong căn chòi che giấu hầm trú ẩn của 'ông trùm' ma túy",
+      "link": "https://vnexpress.net/ben-trong-can-choi-che-giau-ham-tru-an-cua-ong-trum-ma-tuy-5012291.html",
+      "summary": "Bùi Văn Thiện, 47 tuổi, chiếm giữ trái phép khu đất hơn 1.000 m2, rào chắn bên ngoài, dựng nhà chòi, đào hầm trú ẩn,đặt thùng container để mua bán, sử dụng ma túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:19:36+07:00",
+      "fetched": "2026-01-31T17:14:58.769025+07:00"
+    },
+    {
+      "id": "5627e4393070b8075f67c8022a5e9af9",
+      "title": "Thoát liệt nửa người nhờ cấp cứu trong 'cửa sổ vàng'",
+      "link": "https://vnexpress.net/thoat-liet-nua-nguoi-nho-cap-cuu-trong-cua-so-vang-5012076.html",
+      "summary": "Vào viện khi đã liệt nửa người, người đàn ông 61 tuổi được bác sĩ Bệnh viện Nhân dân Gia Định kích hoạt quy trình \"báo động đỏ\" giữa hai cơ sở, can thiệp kịp thời tránh được nguy cơ tàn phế vĩnh viễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:00:00+07:00",
+      "fetched": "2026-01-31T17:14:58.769184+07:00"
+    },
+    {
+      "id": "f870c1713e91ee03a30e1d88719ee2a6",
+      "title": "6 biện pháp đơn giản phòng viêm phổi",
+      "link": "https://vnexpress.net/6-bien-phap-don-gian-phong-viem-phoi-5011926.html",
+      "summary": "Giữ ấm cơ thể, tránh khói thuốc lá, ăn uống đủ chất, tiêm vaccine giúp tăng cường miễn dịch, phòng viêm phổi trong mùa đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T09:00:00+07:00",
+      "fetched": "2026-01-31T17:14:58.769358+07:00"
+    },
+    {
+      "id": "8b49e957c8269589e44eb96cbb11d0ec",
+      "title": "Hệ sinh thái STEM 'mẫu' được mở tại Hòa Lạc",
+      "link": "https://vnexpress.net/he-sinh-thai-stem-mau-duoc-mo-tai-hoa-lac-5012281.html",
+      "summary": "Hệ sinh thái học STEM gồm phòng học, không gian trải nghiệm được xây dựng tại khu công nghệ cao Hòa Lạc, dự kiến trở thành mô hình tham khảo cho đào tạo STEM trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T08:47:23+07:00",
+      "fetched": "2026-01-31T17:14:58.769514+07:00"
+    },
+    {
+      "id": "8b49e957c8269589e44eb96cbb11d0ec",
+      "title": "Hệ sinh thái STEM 'mẫu' được mở tại Hòa Lạc",
+      "link": "https://vnexpress.net/he-sinh-thai-stem-mau-duoc-mo-tai-hoa-lac-5012281.html",
+      "summary": "Hệ sinh thái học STEM gồm phòng học, không gian trải nghiệm được xây dựng tại khu công nghệ cao Hòa Lạc, dự kiến trở thành mô hình tham khảo cho đào tạo STEM trong nước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-31T08:47:23+07:00",
+      "fetched": "2026-01-31T17:15:09.293776+07:00"
+    },
+    {
+      "id": "750eb39e88a1deb02c56a202ad11139a",
+      "title": "Ứng viên Chủ tịch Fed Kevin Warsh là ai?",
+      "link": "https://vnexpress.net/ung-vien-chu-tich-fed-kevin-warsh-la-ai-5012223.html",
+      "summary": "Ứng viên Kevin Warsh được ông Trump đề cử có lý lịch chuẩn mực cho vị trí Chủ tịch Fed và gần đây bày tỏ ủng hộ hạ lãi suất - điều ông Trump muốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T08:36:55+07:00",
+      "fetched": "2026-01-31T17:14:58.769675+07:00"
+    },
+    {
+      "id": "750eb39e88a1deb02c56a202ad11139a",
+      "title": "Ứng viên Chủ tịch Fed Kevin Warsh là ai?",
+      "link": "https://vnexpress.net/ung-vien-chu-tich-fed-kevin-warsh-la-ai-5012223.html",
+      "summary": "Ứng viên Kevin Warsh được ông Trump đề cử có lý lịch chuẩn mực cho vị trí Chủ tịch Fed và gần đây bày tỏ ủng hộ hạ lãi suất - điều ông Trump muốn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-31T08:36:55+07:00",
+      "fetched": "2026-01-31T17:15:05.654322+07:00"
+    },
+    {
+      "id": "1b87943549ab89a2c64463ece222ca18",
+      "title": "Cơ hội nhận vé khứ hồi tới Australia khi mở thẻ VPBank Yojo Visa Platinum",
+      "link": "https://vnexpress.net/co-hoi-nhan-ve-khu-hoi-toi-australia-khi-mo-the-vpbank-yojo-visa-platinum-5012285.html",
+      "summary": "Khách hàng mở mới thẻ tín dụng VPBank Yojo Visa Platinum, đạt mức chi tiêu hợp lệ có cơ hội nhận 29.000 điểm Skypoint, tương đương một cặp vé máy bay khứ hồi tới Australia, áp dụng đến 8/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T08:30:00+07:00",
+      "fetched": "2026-01-31T17:14:58.769837+07:00"
+    },
+    {
+      "id": "5f7b2f072cf8421b88176f83feada059",
+      "title": "Đại gia Mỹ bị tố chi 3 triệu USD dụ nhân viên bỏ chồng",
+      "link": "https://vnexpress.net/dai-gia-my-bi-to-chi-3-trieu-usd-du-nhan-vien-bo-chong-5012270.html",
+      "summary": "CEO bất động sản Tamir Poleg bị chồng của cấp dưới đệ đơn kiện đòi bồi thường 5 triệu USD vì phá hoại hôn nhân, dụ dỗ nữ nhân viên bỏ chồng để đến với mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T08:29:24+07:00",
+      "fetched": "2026-01-31T17:14:58.769996+07:00"
+    },
+    {
+      "id": "a5c185a4ea75196e2bccad2d53438021",
+      "title": "'Thông tin CSGT vào đám cưới bắt xe khách mời là sai sự thật'",
+      "link": "https://vnexpress.net/thong-tin-csgt-vao-dam-cuoi-bat-xe-khach-moi-la-sai-su-that-5012276.html",
+      "summary": "Theo công an, thông tin lan truyền CSGT vào đám cưới bắt xe của khách mời là không đúng sự thật; nhóm thanh niên tự bỏ xe, vào rạp cưới để né kiểm tra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T08:28:53+07:00",
+      "fetched": "2026-01-31T17:14:58.770147+07:00"
+    },
+    {
+      "id": "5ff7f4b4de62703bdf45083929b8cc39",
+      "title": "Mourinho và trái ngọt từ chiến thắng trước Real",
+      "link": "https://vnexpress.net/mourinho-va-trai-ngot-tu-chien-thang-truoc-real-5012225.html",
+      "summary": "Bằng thắng lợi 4-2 trước đội bóng cũ Real Madrid ở Champions League, HLV Jose Mourinho đập tan những chỉ trích sau thời gian sóng gió kể từ khi trở lại Benfica.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T08:23:00+07:00",
+      "fetched": "2026-01-31T17:14:58.770317+07:00"
+    },
+    {
+      "id": "5ff7f4b4de62703bdf45083929b8cc39",
+      "title": "Mourinho và trái ngọt từ chiến thắng trước Real",
+      "link": "https://vnexpress.net/mourinho-va-trai-ngot-tu-chien-thang-truoc-real-5012225.html",
+      "summary": "Bằng thắng lợi 4-2 trước đội bóng cũ Real Madrid ở Champions League, HLV Jose Mourinho đập tan những chỉ trích sau thời gian sóng gió kể từ khi trở lại Benfica.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-31T08:23:00+07:00",
+      "fetched": "2026-01-31T17:15:11.242207+07:00"
+    },
+    {
+      "id": "0245c7bb6bd0b25298514d1051895a0b",
+      "title": "Nhà ở xã hội VSIP Bắc Ninh hơn 19 triệu đồng một m2",
+      "link": "https://vnexpress.net/nha-o-xa-hoi-vsip-bac-ninh-hon-19-trieu-dong-mot-m2-5012261.html",
+      "summary": "Hàng trăm căn nhà xã hội VSIP Bắc Ninh có giá dự kiến 19,4 triệu đồng một m2, mở bán từ 4/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T08:21:19+07:00",
+      "fetched": "2026-01-31T17:14:58.770480+07:00"
+    },
+    {
       "id": "de0910a34a93f43186f4f36b931cc1ea",
       "title": "Trung tâm TP.HCM có nơi này đang bán hàng tết giảm giá đến 49%",
       "link": "https://thanhnien.vn/trung-tam-tphcm-co-noi-nay-dang-ban-hang-tet-giam-gia-den-49-18526013112404518.htm",
@@ -461,6 +951,16 @@ window.newsData_2026_01_31 = {
       "category": "Tổng hợp",
       "published": "2026-01-31T08:16:00+07:00",
       "fetched": "2026-01-31T15:18:28.930982+07:00"
+    },
+    {
+      "id": "ef816e7efb02212c923b3b57478c1499",
+      "title": "Trạm thu phí cầu Đồng Nai nối TP HCM bỏ không hơn 5 năm",
+      "link": "https://vnexpress.net/tram-thu-phi-cau-dong-nai-noi-tp-hcm-bo-khong-hon-5-nam-5011447.html",
+      "summary": "Sau hơn 5 năm dừng hoạt động, trạm thu phí cầu Đồng Nai trên quốc lộ 1 đã xuống cấp, trở thành nơi buôn bán, gây mất an toàn giao thông, nhưng chưa được tháo dỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T08:15:22+07:00",
+      "fetched": "2026-01-31T17:14:58.770634+07:00"
     },
     {
       "id": "5d0ef0d7d2662fd3f019b17d1914327b",
@@ -941,6 +1441,16 @@ window.newsData_2026_01_31 = {
       "category": "Thể thao",
       "published": "2026-01-31T06:01:03+07:00",
       "fetched": "2026-01-31T13:26:32.322167+07:00"
+    },
+    {
+      "id": "7f84404095170cb041b75ef0a542d8cf",
+      "title": "Vì sao Zverev phẫn nộ với cơn chuột rút của Alcaraz?",
+      "link": "https://vnexpress.net/vi-sao-zverev-phan-no-voi-con-chuot-rut-cua-alcaraz-5012244.html",
+      "summary": "Trận bán kết Australian Mở rộng 2026 giữa Alexander Zverev với Carlos Alcaraz bị đẩy lên cao trào căng thẳng cuối set 3, vì tay vợt Đức cáo buộc trọng tài cho đối thủ hưởng lợi khi điều trị cơn chuột rút.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-31T06:01:03+07:00",
+      "fetched": "2026-01-31T17:15:11.242392+07:00"
     },
     {
       "id": "ca4ecbe8f555b025690616ed7492595f",
