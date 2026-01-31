@@ -1,7 +1,157 @@
 window.newsData_2026_01_31 = {
   "date": "2026-01-31",
-  "lastUpdated": "2026-01-31T08:08:16.300333+07:00",
+  "lastUpdated": "2026-01-31T10:57:27.135530+07:00",
   "articles": [
+    {
+      "id": "16bbca51c5927bb172b96be103c487bf",
+      "title": "Bruno Mars sẽ biểu diễn tại lễ trao giải Grammy 2026",
+      "link": "https://tuoitre.vn/bruno-mars-se-bieu-dien-tai-le-trao-giai-grammy-2026-20260131082342773.htm",
+      "summary": "Bruno Mars, nghệ sĩ từng nhiều lần đoạt giải Grammy, sẽ xuất hiện biểu diễn trên sân khấu lễ trao giải Grammy 2026, nhưng việc anh có hát chung với Rosé BlackPink vẫn còn bỏ ngỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.825355+07:00",
+      "fetched": "2026-01-31T10:57:17.825471+07:00"
+    },
+    {
+      "id": "75907cce293492f1f4558e18f9943834",
+      "title": "Đề xuất mới về các thông tin công dân không được tiếp cận",
+      "link": "https://tuoitre.vn/de-xuat-moi-ve-cac-thong-tin-cong-dan-khong-duoc-tiep-can-20260131080335372.htm",
+      "summary": "Dự Luật Tiếp cận thông tin (sửa đổi) đã có đề xuất sửa đổi, bổ sung các quy định cụ thể về thông tin công dân không được tiếp cận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.825214+07:00",
+      "fetched": "2026-01-31T10:57:17.825343+07:00"
+    },
+    {
+      "id": "495eb17f0ad51ee7745c627acb0399fd",
+      "title": "'Lằn ranh' khép lại vẫn còn nhiều dấu hỏi: Đầu và giữa phim tốt, kết gượng gạo",
+      "link": "https://tuoitre.vn/lan-ranh-khep-lai-van-con-nhieu-dau-hoi-dau-va-giua-phim-tot-ket-guong-gao-20260131082822627.htm",
+      "summary": "Trên trang Facebook cá nhân, các diễn viên Hồng Diễm, Hà Việt Dũng, Nguyễn Huyền Trang… gửi lời chia tay Lằn ranh, bộ phim khiến họ trăn trở trong suốt nhiều tháng đồng hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.825090+07:00",
+      "fetched": "2026-01-31T10:57:17.825203+07:00"
+    },
+    {
+      "id": "0d8b6b61d7214a6d58a58a5fc89dd6f6",
+      "title": "Có bầu thì mới được cưới?",
+      "link": "https://tuoitre.vn/co-bau-thi-moi-duoc-cuoi-20260107110930833.htm",
+      "summary": "Từ câu chuyện này tôi chợt nhận ra nó hoàn toàn có thể là câu chuyện của rất nhiều gia đình khác, xảy ra xung quanh trong cuộc sống của chúng ta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.824961+07:00",
+      "fetched": "2026-01-31T10:57:17.825078+07:00"
+    },
+    {
+      "id": "fcd9c8b3375bd3d251bfddff361a7a62",
+      "title": "Phẫu thuật chấn thương sọ não nặng tại Bệnh viện đa khoa Vũng Tàu, không cần chuyển tuyến",
+      "link": "https://tuoitre.vn/phau-thuat-chan-thuong-so-nao-nang-tai-benh-vien-da-khoa-vung-tau-khong-can-chuyen-tuyen-20260131084921728.htm",
+      "summary": "Thay vì phải chuyển đến các bệnh viện trung tâm để điều trị chấn thương sọ não nặng, dưới sự phối hợp của bệnh viện tuyến cuối tại TP.HCM, bệnh nhân đã được cứu sống ngay tại Bệnh viện đa khoa Vũng Tàu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.824828+07:00",
+      "fetched": "2026-01-31T10:57:17.824946+07:00"
+    },
+    {
+      "id": "d41ff7def6a5aebf30ff965ce657d2b5",
+      "title": "Không cho phép 'giấu mặt' trên mạng xã hội, phải định danh số điện thoại",
+      "link": "https://tuoitre.vn/khong-cho-phep-giau-mat-tren-mang-xa-hoi-phai-dinh-danh-so-dien-thoai-20260131085451711.htm",
+      "summary": "Chỉ thị 57 và nghị định 147 yêu cầu định danh, xác thực toàn bộ người dùng mạng xã hội, kiên quyết xóa SIM rác, tài khoản ảo để bảo đảm an ninh mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.824704+07:00",
+      "fetched": "2026-01-31T10:57:17.824817+07:00"
+    },
+    {
+      "id": "533398a7cd5209886166b94eed3b028d",
+      "title": "Không gian Tết xưa thu hút giới trẻ",
+      "link": "https://tuoitre.vn/khong-gian-tet-xua-thu-hut-gioi-tre-20260131075523306.htm",
+      "summary": "Những ngày cận Tết, giữa nhịp sống đô thị ngày càng sôi động, một xu hướng khá rõ nét đang lan tỏa trong giới trẻ Nha Trang, tỉnh Khánh Hòa là tìm về những không gian tái hiện Tết xưa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.824582+07:00",
+      "fetched": "2026-01-31T10:57:17.824694+07:00"
+    },
+    {
+      "id": "149119f29b1d0d5286328ab2a6338500",
+      "title": "Quyền riêng tư cũng phải chịu sự điều chỉnh của pháp luật",
+      "link": "https://tuoitre.vn/quyen-rieng-tu-cung-phai-chiu-su-dieu-chinh-cua-phap-luat-2026013108590986.htm",
+      "summary": "Đây là chia sẻ từ luật sư - tiến sĩ Hà Hải (Phó chủ nhiệm Đoàn luật sư TP.HCM) khi trao đổi cùng Tuổi Trẻ về một số nội dung của chỉ thị 57.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.824458+07:00",
+      "fetched": "2026-01-31T10:57:17.824571+07:00"
+    },
+    {
+      "id": "66035bda5edb856e450f09503a36d5f2",
+      "title": "Làng nghề bánh tráng trăm tuổi tất bật vào vụ Tết",
+      "link": "https://tuoitre.vn/lang-nghe-banh-trang-tram-tuoi-tat-bat-vao-vu-tet-20260131075852973.htm",
+      "summary": "Những ngày này, đến nhà nào trong khu vực làng nghề bánh tráng Thuận Hưng (phường Thuận Hưng), TP Cần Thơ có thể thấy không khí tất bật của các lò bánh tráng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.824311+07:00",
+      "fetched": "2026-01-31T10:57:17.824446+07:00"
+    },
+    {
+      "id": "b059feda7b4eb7e43f21ace54634c9c7",
+      "title": "Cuba tuyên bố 'tình trạng khẩn cấp quốc tế' trước các đe dọa từ Mỹ",
+      "link": "https://tuoitre.vn/cuba-tuyen-bo-tinh-trang-khan-cap-quoc-te-truoc-cac-de-doa-tu-my-20260131091008044.htm",
+      "summary": "Cuba tuyên bố 'tình trạng khẩn cấp quốc tế' sau khi ông Trump ký sắc lệnh áp thuế các nước cấp dầu cho Cuba.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.824172+07:00",
+      "fetched": "2026-01-31T10:57:17.824284+07:00"
+    },
+    {
+      "id": "d7a27b7714a3c0392f7ff80ea7050149",
+      "title": "Lan tỏa phong tục Tết Nam Bộ xưa bằng tiếng Anh",
+      "link": "https://tuoitre.vn/lan-toa-phong-tuc-tet-nam-bo-xua-bang-tieng-anh-20260131085313884.htm",
+      "summary": "Lần đầu tiên các em nhỏ Cần Thơ có dịp giới thiệu về phong tục ngày Tết bằng tiếng Anh gây ấn tượng với người dân và du khách gần xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.824046+07:00",
+      "fetched": "2026-01-31T10:57:17.824161+07:00"
+    },
+    {
+      "id": "17eb953dfa8caa497c82c5d91461db6b",
+      "title": "Venezuela đề xuất luật ân xá cho hàng trăm tù nhân, thả toàn bộ công dân Mỹ bị giam",
+      "link": "https://tuoitre.vn/venezuela-de-xuat-luat-an-xa-cho-hang-tram-tu-nhan-tha-toan-bo-cong-dan-my-bi-giam-20260131084713966.htm",
+      "summary": "Venezuela đề xuất luật ân xá cho hàng trăm tù nhân nhằm hàn gắn những vết thương do đối đầu chính trị gây ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.823920+07:00",
+      "fetched": "2026-01-31T10:57:17.824035+07:00"
+    },
+    {
+      "id": "e86c2188103fce159d466aab9f0222cf",
+      "title": "Năm lưu ý quan trọng trong các bữa ăn bên cạnh lượng calo",
+      "link": "https://tuoitre.vn/nam-luu-y-quan-trong-trong-cac-bua-an-ben-canh-luong-calo-20260131093021425.htm",
+      "summary": "Lượng calo rất quan trọng trong bức tranh tổng thể, nhưng chúng không phải là thước đo duy nhất về dinh dưỡng hay sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.823789+07:00",
+      "fetched": "2026-01-31T10:57:17.823908+07:00"
+    },
+    {
+      "id": "ddfb2dda00b290f934f45e918f577c03",
+      "title": "Tháng 1-2026: Hơn 54.000 doanh nghiệp gia nhập thị trường, gần 1.000 hộ kinh doanh lên doanh nghiệp",
+      "link": "https://tuoitre.vn/thang-1-2026-hon-54-000-doanh-nghiep-gia-nhap-thi-truong-gan-1-000-ho-kinh-doanh-len-doanh-nghiep-20260131092326349.htm",
+      "summary": "Theo Bộ Tài chính, cả nước đã có hơn 1 triệu doanh nghiệp hoạt động. Riêng tháng 1-2026, số doanh nghiệp gia nhập và tái gia nhập thị trường ước trên 54.000, tăng 62% so với cùng kỳ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.823647+07:00",
+      "fetched": "2026-01-31T10:57:17.823777+07:00"
+    },
+    {
+      "id": "996b7e45369e2557bf05c36e88466d40",
+      "title": "Bắt 4 tàu nghi khai thác, chở gần 800m3 cát trái phép trên sông Cửa Đại",
+      "link": "https://tuoitre.vn/bat-4-tau-nghi-khai-thac-cho-gan-800m3-cat-trai-phep-tren-song-cua-dai-20260131090125318.htm",
+      "summary": "Bộ đội Biên phòng tỉnh Vĩnh Long tổ chức tuần tra, kiểm soát trên khu vực sông Cửa Đại đã phát hiện, bắt giữ 4 tàu có hành vi vận chuyển cát trái phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T10:57:17.823415+07:00",
+      "fetched": "2026-01-31T10:57:17.823633+07:00"
+    },
     {
       "id": "72c5aa5316b5a518822a583668ff764f",
       "title": "Một mái nhà, ba thập niên và 'quê hương thứ hai'",
@@ -123,6 +273,96 @@ window.newsData_2026_01_31 = {
       "fetched": "2026-01-31T08:08:10.591249+07:00"
     },
     {
+      "id": "966563923d7c35b3aaef47b614ac94fb",
+      "title": "TP.HCM: Số ca mắc, tử vong do sốt xuất huyết nhiều nhất cả nước",
+      "link": "https://thanhnien.vn/tphcm-so-ca-mac-tu-vong-do-sot-xuat-huyet-nhieu-nhat-ca-nuoc-185260131102152076.htm",
+      "summary": "Năm 2025, số ca mắc và tử vong do dịch bệnh sốt xuất huyết trên cả nước đều tăng, trong đó TP.HCM là địa phương có số ca mắc và tử vong nhiều nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:51:00+07:00",
+      "fetched": "2026-01-31T10:57:16.819360+07:00"
+    },
+    {
+      "id": "39b7c35b5b5d9145fee4b1fbd485545b",
+      "title": "Hướng dẫn sử dụng kem làm mờ sẹo rỗ Rejuvaskin Scar Esthetique đúng chuẩn y khoa",
+      "link": "https://thanhnien.vn/huong-dan-su-dung-kem-lam-mo-seo-ro-rejuvaskin-scar-esthetique-dung-chuan-y-khoa-185260131101218947.htm",
+      "summary": "Sẹo rỗ, sẹo lõm và thâm là nỗi 'ám ảnh' của nhiều người sau mụn, tai nạn hay thủy đậu. Kem làm mờ sẹo Scar Esthetique của Rejuvaskin (Mỹ) nổi lên như sản phẩm hỗ trợ phục hồi da được tin dùng. Tuy nhiên, để đạt hiệu quả tối ưu, việc sử dụng đúng chuẩn y khoa là điều không thể bỏ qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:50:00+07:00",
+      "fetched": "2026-01-31T10:57:16.819531+07:00"
+    },
+    {
+      "id": "2c710160fd1db3468fbd45e9373ea832",
+      "title": "Liverpool và Newcastle cùng né cột mốc buồn",
+      "link": "https://thanhnien.vn/liverpool-va-newcastle-cung-ne-cot-moc-buon-185260130215240332.htm",
+      "summary": "Cả khách lẫn chủ đều đang ám ảnh với chuỗi thành tích không mong muốn của mình trước trận đấu quan trọng Liverpool - Newcastle ở giải Ngoại hạng Anh cuối tuần này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:45:00+07:00",
+      "fetched": "2026-01-31T10:57:16.819685+07:00"
+    },
+    {
+      "id": "abb62fa42354090343102e08e62a87e2",
+      "title": "Thủ tướng Tây Ban Nha đáp trả Elon Musk về nhập cư",
+      "link": "https://vnexpress.net/thu-tuong-tay-ban-nha-dap-tra-elon-musk-ve-nhap-cu-5012168.html",
+      "summary": "Thủ tướng Sanchez bảo vệ kế hoạch hợp thức hóa nửa triệu người nhập cư không giấy tờ ở nước này, sau khi Musk thể hiện quan điểm phản đối.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-31T03:40:56+07:00",
+      "fetched": "2026-01-31T10:57:19.623127+07:00"
+    },
+    {
+      "id": "968b6386c9924e04bdbfdc7bb920aac2",
+      "title": "FPT Shop tặng máy tính, tivi cho trẻ em vùng cao",
+      "link": "https://thanhnien.vn/fpt-shop-tang-may-tinh-tivi-cho-tre-em-vung-cao-185260131103330862.htm",
+      "summary": "FPT Shop vừa phối hợp cùng Đồn Biên phòng Mường Lạn (Sơn La) trao tặng sản phẩm công nghệ và những phần quà ý nghĩa đến với trẻ em và bà con khu vực biên giới trong chương trình \"Ươm mầm công nghệ - Bật mở tương lai\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:38:00+07:00",
+      "fetched": "2026-01-31T10:57:16.819836+07:00"
+    },
+    {
+      "id": "0a86250cf04eaa2e206b862d5f8cd817",
+      "title": "Ra mắt Hội doanh nghiệp phường Bình Lợi Trung, TP.HCM",
+      "link": "https://thanhnien.vn/ra-mat-hoi-doanh-nghiep-phuong-binh-loi-trung-tphcm-185260130153634253.htm",
+      "summary": "Đại hội Hội doanh nghiệp phường Bình Lợi Trung lần thứ I (nhiệm kỳ 2026 - 2030) được tổ chức với sự tham gia của nhiều doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:37:00+07:00",
+      "fetched": "2026-01-31T10:57:16.819986+07:00"
+    },
+    {
+      "id": "b97a9bfff54ce81dee07eabb06421ee1",
+      "title": "David Beckham bất ngờ chi đậm mua chân sút ‘khủng’ đá cặp với Messi",
+      "link": "https://thanhnien.vn/david-beckham-bat-ngo-chi-dam-mua-chan-sut-khung-da-cap-voi-messi-18526013110294936.htm",
+      "summary": "Chủ tịch CLB Inter Miami, ông David Beckham và các đồng sở hữu Jorge và Jose Mas đã duyệt chi số tiền lên đến 15 triệu USD mang về chân sút hàng đầu German Berterame từ đội Monterrey (Mexico), để đá cặp với Messi ở mùa giải 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:32:00+07:00",
+      "fetched": "2026-01-31T10:57:16.820142+07:00"
+    },
+    {
+      "id": "a32fb3333b9275dd67348cf86f1059ec",
+      "title": "Tàu Trung Quốc hiện diện ở mức độ chưa từng có tại bãi cạn Scarborough?",
+      "link": "https://thanhnien.vn/tau-trung-quoc-hien-dien-o-muc-do-chua-tung-co-tai-bai-can-scarborough-185260131100448122.htm",
+      "summary": "Tàu hải cảnh Trung Quốc đã duy trì sự hiện diện ở mức chưa từng có tại bãi cạn Scarborough ở Biển Đông trong năm 2025, đó là kết luận theo một phân tích mới của Sáng kiến Minh bạch hàng hải châu Á (AMTI).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:25:00+07:00",
+      "fetched": "2026-01-31T10:57:16.820311+07:00"
+    },
+    {
+      "id": "c90048d4df68819b15c3fc177a59c05a",
+      "title": "Mỹ duyệt bán lô tên lửa Patriot 9 tỷ USD cho Arab Saudi",
+      "link": "https://vnexpress.net/my-duyet-ban-lo-ten-lua-patriot-9-ty-usd-cho-arab-saudi-5012151.html",
+      "summary": "Mỹ duyệt bán hơn 700 tên lửa Patriot có trị giá 9 tỷ USD cho Arab Saudi, cùng 4 thương vụ vũ khí có giá trị 6,67 tỷ USD cho Israel.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-31T03:24:41+07:00",
+      "fetched": "2026-01-31T10:57:19.623316+07:00"
+    },
+    {
       "id": "dbeb726dd7db3eb107e02aeeb5c5cf42",
       "title": "Từ U23 Việt Nam trở về, Viktor Le bị thay sớm ở V-League",
       "link": "https://tuoitre.vn/tu-u23-viet-nam-tro-ve-viktor-le-bi-thay-som-o-v-league-20260131003904225.htm",
@@ -131,6 +371,296 @@ window.newsData_2026_01_31 = {
       "category": "Tổng hợp",
       "published": "2026-01-31T03:18:45.270708+07:00",
       "fetched": "2026-01-31T03:18:45.270953+07:00"
+    },
+    {
+      "id": "8263f6af780854297e5954928cafe2d8",
+      "title": "Windows 11 liên tục 'gây họa', Microsoft dồn toàn lực để cứu vãn",
+      "link": "https://thanhnien.vn/windows-11-lien-tuc-gay-hoa-microsoft-don-toan-luc-de-cuu-van-185260131093350636.htm",
+      "summary": "Microsoft thừa nhận các sự cố Windows 11 và khởi động chiến dịch Swarming để cứu danh tiếng Windows 11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:13:00+07:00",
+      "fetched": "2026-01-31T10:57:16.820483+07:00"
+    },
+    {
+      "id": "79ffd3a882c18e7afcd72cf06064d8ab",
+      "title": "Lập tổ công tác thực hiện dự án kéo dài metro từ Suối Tiên đến Đồng Nai",
+      "link": "https://thanhnien.vn/lap-to-cong-tac-thuc-hien-du-an-keo-dai-metro-tu-suoi-tien-den-dong-nai-185260131090034183.htm",
+      "summary": "Từ ga Suối Tiên, tuyến metro sẽ đi dọc quốc lộ 1, vượt sông Đồng Nai và kết nối vào nhà ga của Trung tâm hành chính tỉnh Đồng Nai (chuẩn bị xây dựng tại vị trí Khu công nghiệp Biên Hòa 1 hiện tại). Từ đây sẽ xây dựng tuyến metro kết nối về sân bay Long Thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:13:00+07:00",
+      "fetched": "2026-01-31T10:57:16.820634+07:00"
+    },
+    {
+      "id": "1517edfbb248c7ebe7d5586a744c4009",
+      "title": "Không ai than phiền dù nhà tôi năm nào cũng ăn Tết nhà ngoại trước",
+      "link": "https://vnexpress.net/tet-noi-hay-tet-ngoai-tet-noi-tet-ngoai-khong-ai-than-phien-du-nha-toi-nam-nao-cung-an-tet-nha-noi-truoc-5012172.html",
+      "summary": "Suốt nhiều năm, gia đình tôi duy trì một thói quen tưởng như rất bình thường: mùng Một ăn Tết nhà ngoại, mùng Hai Tết sang nhà nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:08:11+07:00",
+      "fetched": "2026-01-31T10:57:13.177594+07:00"
+    },
+    {
+      "id": "51641f9be7a764af1feeb0bc9cc03752",
+      "title": "Giá bạc rơi thẳng đứng",
+      "link": "https://thanhnien.vn/gia-bac-roi-thang-dung-185260131100105458.htm",
+      "summary": "Ngày 31.1, giá bạc trong nước giảm mạnh nhất từ trước đến nay, mất 17,5% chỉ qua một ngày. Kim loại màu xám trên thị trường thế giới rơi thẳng đứng sau khi lập mức giá cao kỷ lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:05:00+07:00",
+      "fetched": "2026-01-31T10:57:16.820791+07:00"
+    },
+    {
+      "id": "da326dde0acbdf41137d1f4d78f34b1a",
+      "title": "Giá Bitcoin hôm nay 31.1.2026: BTC sập, người chơi mất 1,4 tỉ USD",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-3112026-btc-sap-nguoi-choi-mat-14-ti-usd-185260131071815293.htm",
+      "summary": "Giá Bitcoin hôm nay tiếp tục rung lắc mạnh, có lúc rơi xuống 81.000 USD khiến 1,4 tỉ USD của người chơi trên thị trường phái sinh bị thanh lý trong vòng 24 giờ qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:03:00+07:00",
+      "fetched": "2026-01-31T10:57:16.820936+07:00"
+    },
+    {
+      "id": "78cdf18cb65edab6eba36264539cd932",
+      "title": "Lý do khiến Vân Trang khóc nức nở trên truyền hình",
+      "link": "https://thanhnien.vn/ly-do-khien-van-trang-khoc-nuc-no-tren-truyen-hinh-185260131091459308.htm",
+      "summary": "Trước hoàn cảnh của cô gái mồ côi, phải sống nương tựa vào ông bà ngoại, diễn viên Vân Trang bật khóc vì xót xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:02:00+07:00",
+      "fetched": "2026-01-31T10:57:16.821086+07:00"
+    },
+    {
+      "id": "92a1f1378e76fa7b899f8615036af790",
+      "title": "'Sở Hy ơi, dậy đi' - tiếng gọi bạn bè kéo cậu bé 8 tuổi từ cõi chết trở về",
+      "link": "https://vnexpress.net/so-hy-oi-day-di-tieng-goi-ban-be-keo-cau-be-8-tuoi-tu-coi-chet-tro-ve-5012104.html",
+      "summary": "Bị tổn thương não sau vụ tai nạn giao thông nghiêm trọng, Lưu Sở Hy ở tỉnh Hồ Nam dần tỉnh lại sau gần hai tháng hôn mê nhờ nghe tiếng giáo viên và bạn bè qua video phát bên giường bệnh hàng ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:00:00+07:00",
+      "fetched": "2026-01-31T10:57:13.177772+07:00"
+    },
+    {
+      "id": "b5ac54a82c68dc0f39d797efa642b863",
+      "title": "Cả nhà phòng HPV vì sợ ung thư",
+      "link": "https://vnexpress.net/ca-nha-phong-hpv-vi-so-ung-thu-5012163.html",
+      "summary": "Phát hiện nhiễm HPV type 16, chị Minh Giang, 35 tuổi, thúc giục cả gia đình phòng bệnh do sợ ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:00:00+07:00",
+      "fetched": "2026-01-31T10:57:13.177934+07:00"
+    },
+    {
+      "id": "0a3febdec7cd327f5cd8853addbf345e",
+      "title": "Đột biến nào gây ung thư gan di truyền?",
+      "link": "https://vnexpress.net/dot-bien-nao-gay-ung-thu-gan-di-truyen-5012137.html",
+      "summary": "Mẹ tôi ung thư gan, điều trị hai năm thì qua đời. Người nhà tôi cần xét nghiệm gene di truyền không, gene nào dễ gây ung thư gan? (Tấn Dũng, 35 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:00:00+07:00",
+      "fetched": "2026-01-31T10:57:13.178099+07:00"
+    },
+    {
+      "id": "795d0323e3b3dbd9ca3f09c580ca7f32",
+      "title": "Phì đại cuốn mũi là bệnh gì?",
+      "link": "https://vnexpress.net/phi-dai-cuon-mui-la-benh-gi-5012134.html",
+      "summary": "Tôi bị nghẹt mũi kéo dài, bác sĩ chẩn đoán phì đại cuốn mũi, đây là bệnh gì, nguyên nhân và cách điều trị như thế nào? (Nam Nguyễn, 36 tuổi, Cần Thơ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:00:00+07:00",
+      "fetched": "2026-01-31T10:57:13.178256+07:00"
+    },
+    {
+      "id": "eaa7c3e0695d34c8ee1211a6ad6bf8a4",
+      "title": "Vết xước ở tai nhiễm trùng trên nền đái tháo đường",
+      "link": "https://vnexpress.net/vet-xuoc-o-tai-nhiem-trung-tren-nen-dai-thao-duong-5012133.html",
+      "summary": "Bà Ngọc, 52 tuổi, mắc bệnh đái tháo đường nhưng tự ngừng thuốc, sau ba ngày ngoáy tai bằng vật sắt gây xước, nửa mặt bên phải sưng phù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:00:00+07:00",
+      "fetched": "2026-01-31T10:57:13.178472+07:00"
+    },
+    {
+      "id": "eb9e0807521dcbca162cbfcea77bbfa4",
+      "title": "Nền tảng hỗ trợ doanh nghiệp của startup SOC",
+      "link": "https://vnexpress.net/nen-tang-ho-tro-doanh-nghiep-cua-startup-soc-5011556.html",
+      "summary": "Các giải pháp của SOC (Strength Of Connection) đặt người dùng làm trọng tâm, đề cao tính bảo mật thông tin và chủ quyền dữ liệu cho doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:00:00+07:00",
+      "fetched": "2026-01-31T10:57:13.178634+07:00"
+    },
+    {
+      "id": "2b9d75c207971c042e5ab462527e6c59",
+      "title": "Yếu tố khiến cúm dễ lây lan dịp Tết",
+      "link": "https://vnexpress.net/yeu-to-khien-cum-de-lay-lan-dip-tet-5011032.html",
+      "summary": "Dịp Tết cộng đồng giao lưu nhiều, di chuyển liên tục, nhịp sống thay đổi cùng yếu tố thời tiết tạo điều kiện cho virus cúm lây lan, theo TS.BS Đào Hữu Thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:00:00+07:00",
+      "fetched": "2026-01-31T10:57:13.178795+07:00"
+    },
+    {
+      "id": "1f596f513eea313f5dec09898e9a4b07",
+      "title": "CEO Nanoco Group: 'Doanh nghiệp Việt tự chủ sản xuất, cung ứng toàn cầu'",
+      "link": "https://vnexpress.net/ceo-nanoco-group-doanh-nghiep-viet-tu-chu-san-xuat-cung-ung-toan-cau-5004577.html",
+      "summary": "Chủ động hợp tác chuyển giao công nghệ, đầu tư R&D, doanh nghiệp sản xuất thiết bị chiếu sáng Việt tự tin năng lực sản xuất để xuất khẩu     sang các thị trường khó tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:00:00+07:00",
+      "fetched": "2026-01-31T10:57:13.178955+07:00"
+    },
+    {
+      "id": "b9d30299a19f20abba162a28ba29d555",
+      "title": "Các kiểu quần đáng sắm để mặc đẹp suốt mùa đông",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cac-kieu-quan-dang-sam-de-mac-dep-suot-mua-dong-185260130104842807.htm",
+      "summary": "Bên cạnh áo khoác hay áo len, quần cũng là món đồ quan trọng giúp diện mạo thêm thời thượng và mang lại cảm giác ấm áp trong những ngày đông. Dưới đây là những thiết kế đa năng có thể kết hợp với nhiều loại trang phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T03:00:00+07:00",
+      "fetched": "2026-01-31T10:57:16.821235+07:00"
+    },
+    {
+      "id": "1f596f513eea313f5dec09898e9a4b07",
+      "title": "CEO Nanoco Group: 'Doanh nghiệp Việt tự chủ sản xuất, cung ứng toàn cầu'",
+      "link": "https://vnexpress.net/ceo-nanoco-group-doanh-nghiep-viet-tu-chu-san-xuat-cung-ung-toan-cau-5004577.html",
+      "summary": "Chủ động hợp tác chuyển giao công nghệ, đầu tư R&D, doanh nghiệp sản xuất thiết bị chiếu sáng Việt tự tin năng lực sản xuất để xuất khẩu     sang các thị trường khó tính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-31T03:00:00+07:00",
+      "fetched": "2026-01-31T10:57:21.698606+07:00"
+    },
+    {
+      "id": "7e0bba1bdc48e5ca03b2f16c3d592c25",
+      "title": "Kẻ 5 tiền án đột nhập, trói bà chủ nhà cướp tài sản",
+      "link": "https://vnexpress.net/ke-5-tien-an-dot-nhap-troi-ba-chu-nha-cuop-tai-san-5012178.html",
+      "summary": "Sau khi đột nhập nhà người dân, Nguyễn Văn Hiệp cầm dao khống chế nữ gia chủ và dùng băng dính, dây điện trói lại để cướp 3 điện thoại di động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T02:57:04+07:00",
+      "fetched": "2026-01-31T10:57:13.179107+07:00"
+    },
+    {
+      "id": "1822daa4b544efbf170bedba98e8da72",
+      "title": "Thống đốc trẻ nhất Nhật Bản gây sốt vì ngoại hình điển trai",
+      "link": "https://vnexpress.net/thong-doc-tre-nhat-nhat-ban-gay-sot-vi-ngoai-hinh-dien-trai-5012149.html",
+      "summary": "Takato Ishida, 35 tuổi, gây chú ý khi trở thành thống đốc trẻ tuổi nhất Nhật Bản với gương mặt điển trai và kinh nghiệm làm việc phong phú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T02:55:01+07:00",
+      "fetched": "2026-01-31T10:57:13.179270+07:00"
+    },
+    {
+      "id": "1822daa4b544efbf170bedba98e8da72",
+      "title": "Thống đốc trẻ nhất Nhật Bản gây sốt vì ngoại hình điển trai",
+      "link": "https://vnexpress.net/thong-doc-tre-nhat-nhat-ban-gay-sot-vi-ngoai-hinh-dien-trai-5012149.html",
+      "summary": "Takato Ishida, 35 tuổi, gây chú ý khi trở thành thống đốc trẻ tuổi nhất Nhật Bản với gương mặt điển trai và kinh nghiệm làm việc phong phú.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-31T02:55:01+07:00",
+      "fetched": "2026-01-31T10:57:19.623484+07:00"
+    },
+    {
+      "id": "21ae52a418014f33049e873bf2c8d643",
+      "title": "Ancarat bán bạc qua app ngân hàng BIDV",
+      "link": "https://thanhnien.vn/ancarat-ban-bac-qua-app-ngan-hang-bidv-185260131090548616.htm",
+      "summary": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) và Công ty cổ phần Kim loại quý Ancarat đã ký kết biên bản hợp tác bán bạc miếng, bạc thỏi Ancarat trên ứng dụng BIDV SmartBanking. Dự kiến khách hàng có thể thực hiện mua bạc trên app ngân hàng kể từ tháng 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T02:55:00+07:00",
+      "fetched": "2026-01-31T10:57:16.821408+07:00"
+    },
+    {
+      "id": "810c3dec7f857c87433a6be07d9a4752",
+      "title": "Phát hiện 12 tấn sụn gà, trứng non không rõ nguồn gốc",
+      "link": "https://vnexpress.net/phat-hien-12-tan-sun-ga-trung-non-khong-ro-nguon-goc-5012169.html",
+      "summary": "Kiểm tra 3 xe container, công an phát hiện 12 tấn thực phẩm gồm sụn gà, trứng non, mỡ, không có nguồn gốc xuất xứ, bao bì in chữ nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T02:51:44+07:00",
+      "fetched": "2026-01-31T10:57:13.179451+07:00"
+    },
+    {
+      "id": "cd967da0ae5d52ad63eb2d82c436360a",
+      "title": "Xịt hỗ trợ lành thương HemaCut Spray mua ở đâu chính hãng, giá tốt?",
+      "link": "https://thanhnien.vn/xit-ho-tro-lanh-thuong-hemacut-spray-mua-o-dau-chinh-hang-gia-tot-185260131093110726.htm",
+      "summary": "Trong chăm sóc vết thương, lựa chọn sản phẩm phù hợp không chỉ quyết định tốc độ hồi phục mà còn ảnh hưởng lâu dài đến nguy cơ nhiễm trùng và sẹo xấu. Xịt hỗ trợ lành thương HemaCut Spray đang được nhiều chuyên gia tin dùng nhờ công nghệ Triss Polymer tiên phong từ châu Âu. Vậy sản phẩm này có gì đặ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T02:47:00+07:00",
+      "fetched": "2026-01-31T10:57:16.821560+07:00"
+    },
+    {
+      "id": "3744d202c92572c9b2494acc07f8e728",
+      "title": "Trung Quốc vạch trần mạng lưới bôi nhọ xe điện",
+      "link": "https://vnexpress.net/trung-quoc-vach-tran-mang-luoi-boi-nho-xe-dien-5012138.html",
+      "summary": "Các hoạt động bôi nhọ trực tuyến có phối hợp, các cuộc tấn công có chủ đích và thao túng danh tiếng nhắm vào ngành công nghiệp xe điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T02:46:56+07:00",
+      "fetched": "2026-01-31T10:57:13.179607+07:00"
+    },
+    {
+      "id": "6f80b28d71c000b2acc22f05833070c5",
+      "title": "5 tiêu chí sắp xếp, tổ chức lại các trường đại học",
+      "link": "https://vnexpress.net/5-tieu-chi-sap-xep-to-chuc-lai-cac-truong-dai-hoc-5012166.html",
+      "summary": "Việc sắp xếp lại các trường đại học không căn cứ mức độ tự chủ tài chính mà dựa trên khả năng đáp ứng các điều kiện, có tính đến yếu tố thương hiệu, theo Bộ Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T02:41:08+07:00",
+      "fetched": "2026-01-31T10:57:13.179762+07:00"
+    },
+    {
+      "id": "d80d3acd9ba589764670a30f34c54d4e",
+      "title": "Em trai Vua Charles III từng 'mời Epstein tới Cung điện Buckingham'",
+      "link": "https://vnexpress.net/em-trai-vua-charles-iii-tung-moi-epstein-toi-cung-dien-buckingham-5012144.html",
+      "summary": "Tài liệu mới công bố cho thấy ông Andrew, em trai Vua Charles III, được cho là từng mời tỷ phú ấu dâm Epstein đến Cung điện Buckingham.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T02:37:31+07:00",
+      "fetched": "2026-01-31T10:57:13.179914+07:00"
+    },
+    {
+      "id": "d80d3acd9ba589764670a30f34c54d4e",
+      "title": "Em trai Vua Charles III từng 'mời Epstein tới Cung điện Buckingham'",
+      "link": "https://vnexpress.net/em-trai-vua-charles-iii-tung-moi-epstein-toi-cung-dien-buckingham-5012144.html",
+      "summary": "Tài liệu mới công bố cho thấy ông Andrew, em trai Vua Charles III, được cho là từng mời tỷ phú ấu dâm Epstein đến Cung điện Buckingham.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-31T02:37:31+07:00",
+      "fetched": "2026-01-31T10:57:19.623649+07:00"
+    },
+    {
+      "id": "00542fb12d6116ba281eb1903c855b23",
+      "title": "Giá vàng miếng giảm 9 triệu đồng mỗi lượng",
+      "link": "https://vnexpress.net/gia-vang-mieng-giam-9-trieu-dong-moi-luong-5012162.html",
+      "summary": "Theo đà đi xuống của thế giới, sáng nay các thương hiệu giảm 9 triệu đồng giá bán ra.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-31T02:14:48+07:00",
+      "fetched": "2026-01-31T10:57:21.697760+07:00"
+    },
+    {
+      "id": "961a570c416bf02ae3b26bc0f9ef0747",
+      "title": "CEO Anthropic: 'AI có thể gây gián đoạn đau đớn trên thị trường việc làm'",
+      "link": "https://vnexpress.net/ceo-anthropic-ai-co-the-gay-gian-doan-dau-don-tren-thi-truong-viec-lam-5011866.html",
+      "summary": "Dario Amodei, CEO của công ty AI Anthropic, cảnh báo trí tuệ nhân tạo có thể gây xáo trộn thị trường việc làm, dẫn đến sự gián đoạn \"đau đớn khác thường\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-31T02:00:00+07:00",
+      "fetched": "2026-01-31T10:57:25.198488+07:00"
+    },
+    {
+      "id": "392006bbb52fc90de518db11cdf62fda",
+      "title": "Chính phủ Mỹ lại đóng cửa từ cuối tuần này",
+      "link": "https://vnexpress.net/chinh-phu-my-lai-dong-cua-tu-cuoi-tuan-nay-5012129.html",
+      "summary": "Thượng viện Mỹ thông qua dự luật ngân sách, nhưng chính phủ Mỹ vẫn sẽ đóng cửa từ ngày 31/1 vì Hạ viện nghỉ và không thể duyệt văn kiện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-31T01:43:28+07:00",
+      "fetched": "2026-01-31T10:57:19.623811+07:00"
     },
     {
       "id": "4698d11bf3ecec9106c2feaa85e2baca",
@@ -311,6 +841,16 @@ window.newsData_2026_01_31 = {
       "category": "Tổng hợp",
       "published": "2026-01-31T01:01:00+07:00",
       "fetched": "2026-01-31T08:08:09.832979+07:00"
+    },
+    {
+      "id": "0dfce1499ff25f6aebacf78f9029f336",
+      "title": "Ông Guterres cảnh báo Liên Hợp Quốc 'cận kề sụp đổ tài chính'",
+      "link": "https://vnexpress.net/ong-guterres-canh-bao-lien-hop-quoc-can-ke-sup-do-tai-chinh-5012125.html",
+      "summary": "Tổng thư ký Guterres cảnh báo các nước thành viên rằng Liên Hợp Quốc đang cận kề nguy cơ \"sụp đổ tài chính\" vì thiếu ngân sách.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-31T01:00:30+07:00",
+      "fetched": "2026-01-31T10:57:19.623971+07:00"
     },
     {
       "id": "57d963d542762587e9957fcb7a38121d",
