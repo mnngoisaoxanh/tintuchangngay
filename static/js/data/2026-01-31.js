@@ -1,7 +1,157 @@
 window.newsData_2026_01_31 = {
   "date": "2026-01-31",
-  "lastUpdated": "2026-01-31T21:16:10.808526+07:00",
+  "lastUpdated": "2026-01-31T23:16:51.914772+07:00",
   "articles": [
+    {
+      "id": "8b00cf4e67322606cbde76332d02a887",
+      "title": "Hơn 229 tỉ đồng chi phí bảo hiểm y tế của các bệnh viện Cà Mau bị ‘treo’ suốt 6 năm",
+      "link": "https://tuoitre.vn/hon-229-ti-dong-chi-phi-bao-hiem-y-te-cua-cac-benh-vien-ca-mau-bi-treo-suot-6-nam-2026013119284552.htm",
+      "summary": "Chi phí khám, chữa bệnh bảo hiểm y tế (BHYT) tại nhiều cơ sở y tế công lập ở tỉnh Cà Mau chưa được quyết toán trong các năm 2018, 2019, 2020, 2023, 2024 và 2025, với tổng số tiền lên tới hơn 229 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.063322+07:00",
+      "fetched": "2026-01-31T23:16:43.063445+07:00"
+    },
+    {
+      "id": "a250f6a6e438eb30a111d331967fc0b4",
+      "title": "Ăn trộm cả trăm triệu đồng trong cốp xe máy của nữ công nhân, đem mua ma túy",
+      "link": "https://tuoitre.vn/an-trom-ca-tram-trieu-dong-trong-cop-xe-may-cua-nu-cong-nhan-dem-mua-ma-tuy-20260131201403452.htm",
+      "summary": "Sau khi cạy cốp xe máy lấy nhiều trang sức bằng vàng, Lê Hoài Thương đem bán được hơn 100 triệu đồng mua ma túy, điện thoại và tiêu xài cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.063189+07:00",
+      "fetched": "2026-01-31T23:16:43.063310+07:00"
+    },
+    {
+      "id": "36f82d59ba4bae1bc41644b2554999a6",
+      "title": "Nổ tại thành phố cảng phía nam Iran, tin đồn chỉ huy hải quân là mục tiêu",
+      "link": "https://tuoitre.vn/no-tai-thanh-pho-cang-phia-nam-iran-tin-don-chi-huy-hai-quan-la-muc-tieu-20260131195916365.htm",
+      "summary": "Truyền thông Iran đưa tin một vụ nổ đã xảy ra tại một tòa nhà ở thành phố cảng Bandar Abbas của nước này vào ngày 31-1, song nguyên nhân của vụ nổ vẫn chưa được xác định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.063057+07:00",
+      "fetched": "2026-01-31T23:16:43.063179+07:00"
+    },
+    {
+      "id": "70a84cb53a185fc87bd1366ddfe0b82a",
+      "title": "Ngoại binh Thể Công - Viettel ăn mừng cuồng nhiệt khi ghi bàn vào lưới đội bóng cũ",
+      "link": "https://tuoitre.vn/ngoai-binh-the-cong-viettel-an-mung-cuong-nhiet-khi-ghi-ban-vao-luoi-doi-bong-cu-20260131201854715.htm",
+      "summary": "Tiền đạo Lucao do Break lập cú đúp giúp Thể Công - Viettel đánh bại Hải Phòng ngay trên sân Lạch Tray tại vòng 12 V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.062925+07:00",
+      "fetched": "2026-01-31T23:16:43.063044+07:00"
+    },
+    {
+      "id": "63d67baf099d511366e5cd2392f59e50",
+      "title": "Đà Nẵng trưng bày nhiều tác phẩm chưa được công bố của họa sĩ Lê Bá Đảng",
+      "link": "https://tuoitre.vn/da-nang-trung-bay-nhieu-tac-pham-chua-duoc-cong-bo-cua-hoa-si-le-ba-dang-20260131192837956.htm",
+      "summary": "Hơn 100 tác phẩm có chủ đề \"ngựa\" và \"hoa\" của họa sĩ Lê Bá Đảng đang được trưng bày tại Bảo tàng Mỹ thuật Đà Nẵng. Trong đó, nhiều tác phẩm lần đầu tiên được ra mắt tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.062797+07:00",
+      "fetched": "2026-01-31T23:16:43.062910+07:00"
+    },
+    {
+      "id": "60c199eb40b451f05c1caffc23c2cfde",
+      "title": "Sắp rằm tháng chạp, nhiều gia đình người Hà Nội cùng nhau tảo mộ cuối năm",
+      "link": "https://tuoitre.vn/sap-ram-thang-chap-nhieu-gia-dinh-nguoi-ha-noi-cung-nhau-tao-mo-cuoi-nam-20260131194501149.htm",
+      "summary": "Khi rằm tháng chạp chỉ còn chừng 2 ngày, người Hà Nội tấp nập đi tảo mộ cuối năm. Họ mời ông bà, tổ tiên về đón Tết cùng con cháu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.062672+07:00",
+      "fetched": "2026-01-31T23:16:43.062786+07:00"
+    },
+    {
+      "id": "0436d800f0696c51a8f59faf41423bca",
+      "title": "Check-in tại Lễ hội Tết Việt Bính Ngọ TP.HCM 2026 trước ngày khai mạc",
+      "link": "https://tuoitre.vn/check-in-tai-le-hoi-tet-viet-binh-ngo-tp-hcm-2026-truoc-ngay-khai-mac-20260131191318734.htm",
+      "summary": "Nhiều người dân diện áo dài đến Nhà văn hóa Thanh niên TP.HCM - nơi tổ chức Lễ hội Tết Việt Bính Ngọ 2026, lưu lại những khoảnh khắc đáng nhớ trước ngày khai mạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.062545+07:00",
+      "fetched": "2026-01-31T23:16:43.062661+07:00"
+    },
+    {
+      "id": "d5934703582b0f808251bd7cc053d1d3",
+      "title": "Ông lớn bán lẻ Unilever lại tiếp tục trồng 1 triệu cây xanh cho Việt Nam từ 2026-2030",
+      "link": "https://tuoitre.vn/ong-lon-ban-le-unilever-lai-tiep-tuc-trong-1-trieu-cay-xanh-cho-viet-nam-tu-2026-2030-20260131194423298.htm",
+      "summary": "Sau khi hoàn thành mục tiêu trồng hơn 1 triệu cây xanh giai đoạn 2021-2025, Unilever Việt Nam tiếp tục triển khai chương trình trồng thêm 1 triệu cây xanh giai đoạn 2026-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.062400+07:00",
+      "fetched": "2026-01-31T23:16:43.062533+07:00"
+    },
+    {
+      "id": "ae8dac6b497407080def9bc8285a2233",
+      "title": "Công Phượng rời sân sau 45 phút, Trường Tươi Đồng Nai thắng bằng 2 'siêu phẩm'",
+      "link": "https://tuoitre.vn/cong-phuong-roi-san-sau-45-phut-truong-tuoi-dong-nai-thang-bang-2-sieu-pham-20260131204538305.htm",
+      "summary": "Bất chấp Công Phượng rời sân sau hiệp một, CLB Trường Tươi Đồng Nai vẫn thắng Khánh Hòa nhờ hai \"siêu phẩm\" của 2 cầu thủ vào sân thay người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.062274+07:00",
+      "fetched": "2026-01-31T23:16:43.062388+07:00"
+    },
+    {
+      "id": "90bb3a431543fa444abf2bb8cb398a19",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn: Bố trí các khu vực bỏ phiếu phải gần dân, thuận đường",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-bo-tri-cac-khu-vuc-bo-phieu-phai-gan-dan-thuan-duong-20260131203458295.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn - Chủ tịch Hội đồng Bầu cử quốc gia, Trưởng đoàn giám sát, kiểm tra công tác bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031 - đến làm việc tại tỉnh Vĩnh Long.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.062144+07:00",
+      "fetched": "2026-01-31T23:16:43.062263+07:00"
+    },
+    {
+      "id": "e64c9e4caf1528ce1f53d423aba1cb60",
+      "title": "Tổng Bí thư Tô Lâm sẽ thăm Campuchia vào ngày 6-2",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-se-tham-campuchia-vao-ngay-6-2-2026013120583098.htm",
+      "summary": "Tổng Bí thư Tô Lâm sẽ thăm cấp nhà nước Campuchia, đồng chủ trì cuộc gặp giữa ba người đứng đầu ba đảng của Việt Nam, Lào và Campuchia tại Phnom Penh vào ngày 6-2 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.062014+07:00",
+      "fetched": "2026-01-31T23:16:43.062133+07:00"
+    },
+    {
+      "id": "a4dfcf1b9daebc8e34ba1e86bf30ef24",
+      "title": "Tổng thống Trump chúc mừng và mong đón Tổng Bí thư Tô Lâm thăm Mỹ",
+      "link": "https://tuoitre.vn/tong-thong-trump-chuc-mung-va-mong-don-tong-bi-thu-to-lam-tham-my-20260131203713995.htm",
+      "summary": "Trong lời chúc mừng, Tổng thống Mỹ Donald Trump mong đón Tổng Bí thư Tô Lâm thăm Mỹ vào thời điểm phù hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.061883+07:00",
+      "fetched": "2026-01-31T23:16:43.062002+07:00"
+    },
+    {
+      "id": "a5c1339587e122e1946420e6b9af5bea",
+      "title": "Đỗ Hùng Dũng lãnh thẻ đỏ từ trọng tài Ngô Duy Lân",
+      "link": "https://tuoitre.vn/do-hung-dung-lanh-the-do-tu-trong-tai-ngo-duy-lan-20260131210251835.htm",
+      "summary": "Tiền vệ Đỗ Hùng Dũng có ngày thi đấu chưa trọn vẹn khi bị đuổi khỏi sân trong hiệp 1 cho dù CLB Hà Nội giành chiến thắng 3-1 trên sân Sông Lam Nghệ An ở vòng 12 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.061747+07:00",
+      "fetched": "2026-01-31T23:16:43.061871+07:00"
+    },
+    {
+      "id": "08fe67634c3c5d7172834758801dd20e",
+      "title": "17 điểm bắn pháo hoa đón Tết Nguyên đán 2026 tại TP.HCM",
+      "link": "https://tuoitre.vn/17-diem-ban-phao-hoa-don-tet-nguyen-dan-2026-tai-tp-hcm-20260131211931802.htm",
+      "summary": "TP.HCM tổ chức 4 điểm bắn pháo hoa tầm cao kết hợp tầm thấp và 13 điểm tầm thấp, bắn trong 15 phút từ 0h ngày 17-2-2026, với phương án bảo đảm an ninh, phòng cháy và phân luồng giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.061596+07:00",
+      "fetched": "2026-01-31T23:16:43.061734+07:00"
+    },
+    {
+      "id": "4da27c51a17ff61ebeba54772eafc5da",
+      "title": "Xác định đối thủ của Việt Nam ở tứ kết Giải futsal châu Á 2026",
+      "link": "https://tuoitre.vn/xac-dinh-doi-thu-cua-viet-nam-o-tu-ket-giai-futsal-chau-a-2026-20260131211916827.htm",
+      "summary": "Sau loạt trận cuối cùng bảng A Giải Futsal vô địch châu Á 2026, đối thủ của futsal Việt Nam ở tứ kết đã được xác định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T23:16:43.061351+07:00",
+      "fetched": "2026-01-31T23:16:43.061581+07:00"
+    },
     {
       "id": "f903ad010c8de567fff39a3608ce9d5b",
       "title": "Đề xuất khai thác 18km cao tốc Biên Hòa - Vũng Tàu qua Đồng Nai trước Tết Nguyên đán",
@@ -453,6 +603,86 @@ window.newsData_2026_01_31 = {
       "fetched": "2026-01-31T17:15:03.147815+07:00"
     },
     {
+      "id": "175e1cc55207ef16a6b7a796592a74c0",
+      "title": "Bộ trưởng Quản lý khẩn cấp Trung Quốc bị điều tra",
+      "link": "https://thanhnien.vn/bo-truong-quan-ly-khan-cap-trung-quoc-bi-dieu-tra-185260131185335536.htm",
+      "summary": "Trung Quốc thông báo đang điều tra Bộ trưởng Quản lý khẩn cấp Vương Tường Hỉ vì nghi vi phạm nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T16:06:00+07:00",
+      "fetched": "2026-01-31T23:16:41.629292+07:00"
+    },
+    {
+      "id": "2abc91c430e56a5935fe99ca199c7340",
+      "title": "Israel bác bỏ liên quan 2 vụ nổ lớn tại Iran",
+      "link": "https://thanhnien.vn/israel-bac-bo-lien-quan-2-vu-no-lon-tai-iran-185260131230214169.htm",
+      "summary": "Israel đã tuyên bố không liên quan đến 2 vụ nổ tại Iran trong ngày 31.1, những vụ việc làm ít nhất 5 người thiệt mạng và nhiều người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T16:05:00+07:00",
+      "fetched": "2026-01-31T23:16:41.629474+07:00"
+    },
+    {
+      "id": "2598bfedb4ef74a6011e0e388224515e",
+      "title": "Cần Thơ: Cảnh giác với cướp ngân hàng, cướp tiệm vàng",
+      "link": "https://thanhnien.vn/can-tho-canh-giac-voi-cuop-ngan-hang-cuop-tiem-vang-18526013119531872.htm",
+      "summary": "Dù chưa ghi nhận các vụ cướp ngân hàng, cướp tiệm vàng manh động, lãnh đạo Công an TP.Cần Thơ vẫn nhấn mạnh phải đề cao cảnh giác, bởi 'chưa xảy ra không có nghĩa là không xảy ra'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T15:39:00+07:00",
+      "fetched": "2026-01-31T23:16:41.629639+07:00"
+    },
+    {
+      "id": "b90ae79f29fa3d0ce2cb0e748c5a967f",
+      "title": "Đình Bắc ngược dòng thắng đối thủ Trung Quốc ở giải thưởng U23 châu Á",
+      "link": "https://vnexpress.net/dinh-bac-nguoc-dong-thang-doi-thu-trung-quoc-o-giai-thuong-u23-chau-a-5012378.html",
+      "summary": "Tiền đạo Nguyễn Đình Bắc tiếp tục giành giải “Bàn thắng được yêu thích nhất” ở vòng knock-out U23 châu Á 2026, theo bình chọn của độc giả trang chủ AFC.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T15:34:28+07:00",
+      "fetched": "2026-01-31T23:16:38.071156+07:00"
+    },
+    {
+      "id": "b90ae79f29fa3d0ce2cb0e748c5a967f",
+      "title": "Đình Bắc ngược dòng thắng đối thủ Trung Quốc ở giải thưởng U23 châu Á",
+      "link": "https://vnexpress.net/dinh-bac-nguoc-dong-thang-doi-thu-trung-quoc-o-giai-thuong-u23-chau-a-5012378.html",
+      "summary": "Tiền đạo Nguyễn Đình Bắc tiếp tục giành giải “Bàn thắng được yêu thích nhất” ở vòng knock-out U23 châu Á 2026, theo bình chọn của độc giả trang chủ AFC.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-31T15:34:28+07:00",
+      "fetched": "2026-01-31T23:16:51.901588+07:00"
+    },
+    {
+      "id": "54dd2ee8fabe2a8372e31be6248d97f9",
+      "title": "Highlight CLB SLNA 1-3 CLB Hà Nội: Đội khách quá xuất sắc",
+      "link": "https://thanhnien.vn/highlight-clb-slna-1-3-clb-ha-noi-doi-khach-qua-xuat-sac-185260131222558745.htm",
+      "summary": "CLB Hà Nội thể hiện đẳng cấp vượt trội khi chơi hiệu quả trong cả tấn công lẫn phòng ngự, ghi 3 bàn để giành chiến thắng thuyết phục 3-1 ngay trên sân của CLB SLNA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T15:25:00+07:00",
+      "fetched": "2026-01-31T23:16:41.629793+07:00"
+    },
+    {
+      "id": "8d1bfa5b194c2514da3176ec2ea51f3a",
+      "title": "Highlight CLB Hải Phòng 1-2 CLB Thể Công Viettel: Rượt đuổi gay cấn",
+      "link": "https://thanhnien.vn/highlight-clb-hai-phong-1-2-clb-the-cong-viettel-ruot-duoi-gay-can-18526013122242168.htm",
+      "summary": "CLB Hải Phòng và CLB Thể Công Viettel tạo nên màn rượt đuổi tỷ số hấp dẫn, với thế trận giằng co và những diễn biến kịch tính trước khi đội khách giành chiến thắng 2-1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T15:24:00+07:00",
+      "fetched": "2026-01-31T23:16:41.629951+07:00"
+    },
+    {
+      "id": "db60782090e85781ef6c7020488d93e2",
+      "title": "Highlight CLB Đồng Tháp 1-1 CLB Quy Nhơn: Bất phân thắng bại",
+      "link": "https://thanhnien.vn/highlight-clb-dong-thap-1-1-clb-quy-nhon-bat-phan-thang-bai-185260131222218163.htm",
+      "summary": "CLB Đồng Tháp và CLB Quy Nhơn chơi ăn miếng trả miếng, mỗi đội ghi được 1 bàn để khép lại trận đấu với kết quả hòa 1-1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T15:22:00+07:00",
+      "fetched": "2026-01-31T23:16:41.630098+07:00"
+    },
+    {
       "id": "2948d8b0db5aeff97e63b9bb461559a0",
       "title": "Săn đặc sản ăn chơi ngày Tết - Kỳ cuối: Thân thương món miền Tây giữa Tết Sài Gòn",
       "link": "https://tuoitre.vn/san-dac-san-an-choi-ngay-tet-ky-cuoi-than-thuong-mon-mien-tay-giua-tet-sai-gon-20260131094728812.htm",
@@ -603,6 +833,156 @@ window.newsData_2026_01_31 = {
       "fetched": "2026-01-31T15:18:30.350880+07:00"
     },
     {
+      "id": "c07fdb46f5c4b677d628b01a7397e749",
+      "title": "Highlight CLB Phú Thọ 3-0 CLB Quảng Ninh: Chiến thắng thuyết phục",
+      "link": "https://thanhnien.vn/highlight-clb-phu-tho-3-0-clb-quang-ninh-chien-thang-thuyet-phuc-185260131221830884.htm",
+      "summary": "CLB Phú Thọ thể hiện sự vượt trội cả về thế trận lẫn hiệu quả dứt điểm, ghi 3 bàn và giữ sạch lưới để giành chiến thắng đậm trước CLB Quảng Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T15:18:00+07:00",
+      "fetched": "2026-01-31T23:16:41.630246+07:00"
+    },
+    {
+      "id": "a2b0bb13f970f7ecf707bb3436809a3b",
+      "title": "Hai giờ phẫu thuật lấy búi tóc khổng lồ khỏi dạ dày bé trai",
+      "link": "https://vnexpress.net/hai-gio-phau-thuat-lay-bui-toc-khong-lo-khoi-da-day-be-trai-5012371.html",
+      "summary": "Khối tóc chiếm kín dạ dày, kéo dài xuống ruột non, khiến bé 6 tuổi xanh xao, chán ăn, nguy cơ tắc ruột nguy hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T15:17:28+07:00",
+      "fetched": "2026-01-31T23:16:38.071336+07:00"
+    },
+    {
+      "id": "a3a3b8cecf2fdcfac4d1f67354c98499",
+      "title": "Thủ tướng: Xây dựng cơ chế giao việc lớn cho doanh nghiệp tư nhân",
+      "link": "https://vnexpress.net/thu-tuong-xay-dung-co-che-giao-viec-lon-cho-doanh-nghiep-tu-nhan-5012361.html",
+      "summary": "Thủ tướng đồng tình định hướng xây dựng cơ chế giao nhiệm vụ, giao việc lớn, việc khó, việc đột phá cho doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T15:15:37+07:00",
+      "fetched": "2026-01-31T23:16:38.071520+07:00"
+    },
+    {
+      "id": "a3a3b8cecf2fdcfac4d1f67354c98499",
+      "title": "Thủ tướng: Xây dựng cơ chế giao việc lớn cho doanh nghiệp tư nhân",
+      "link": "https://vnexpress.net/thu-tuong-xay-dung-co-che-giao-viec-lon-cho-doanh-nghiep-tu-nhan-5012361.html",
+      "summary": "Thủ tướng đồng tình định hướng xây dựng cơ chế giao nhiệm vụ, giao việc lớn, việc khó, việc đột phá cho doanh nghiệp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-31T15:15:37+07:00",
+      "fetched": "2026-01-31T23:16:46.683754+07:00"
+    },
+    {
+      "id": "b840236377705964f151ac7e5b23da15",
+      "title": "Tài xế xe bán tải đánh người bất tỉnh sau va chạm",
+      "link": "https://vnexpress.net/tai-xe-xe-ban-tai-danh-nguoi-bat-tinh-sau-va-cham-5012362.html",
+      "summary": "Sau va chạm, nam tài xế xe bán tải liên tục đánh, đá vào đầu người đàn ông chạy ôtô 7 chỗ khiến nạn nhân đến bất tỉnh rồi bỏ đi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T15:08:07+07:00",
+      "fetched": "2026-01-31T23:16:38.071682+07:00"
+    },
+    {
+      "id": "eb5c63595eb82ee9fefa7cf38ca2656d",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn làm việc với Ủy ban bầu cử Vĩnh Long",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-tran-thanh-man-lam-viec-voi-uy-ban-bau-cu-vinh-long-185260131185808583.htm",
+      "summary": "Chiều 31.1, Chủ tịch Quốc hội Trần Thanh Mẫn cùng đoàn công tác đến làm việc với Ủy ban bầu cử tỉnh Vĩnh Long, thăm các khu lưu niệm, gia đình các lão thành cách mạng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T14:59:00+07:00",
+      "fetched": "2026-01-31T23:16:41.630396+07:00"
+    },
+    {
+      "id": "5e544aa9070064fcbc00d1cfa36fb0e1",
+      "title": "Phim về Michael Jackson sẽ trở thành 'bom tấn' phòng vé năm nay?",
+      "link": "https://thanhnien.vn/phim-ve-michael-jackson-se-tro-thanh-bom-tan-phong-ve-nam-nay-185260131212421461.htm",
+      "summary": "Bộ phim tiểu sử 'Michael' tái hiện cuộc đời và di sản của ‘ông hoàng nhạc pop’ Michael Jackson sẽ có buổi công chiếu sớm tại Berlin (Đức) vào ngày 10.4. Sự kiện khởi đầu chuỗi hoạt động toàn cầu cho người hâm mộ, giữa bối cảnh phim tiểu sử âm nhạc đang gặt hái thành công thương mại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T14:53:00+07:00",
+      "fetched": "2026-01-31T23:16:41.630566+07:00"
+    },
+    {
+      "id": "a9f682fc6af0dfffc93dceab8aa6ef91",
+      "title": "Highlight CLB TP.HCM 0-1 CLB Bắc Ninh: 3 điểm xứng đáng cho đội khách",
+      "link": "https://thanhnien.vn/highlight-clb-tphcm-0-1-clb-bac-ninh-3-diem-xung-dang-cho-doi-khach-185260131215254453.htm",
+      "summary": "CLB TP.HCM dù có lợi thế sân nhà nhưng lại để CLB Bắc Ninh giành trọn 3 điểm với bàn thắng duy nhất trên sân Thống Nhất,",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T14:52:00+07:00",
+      "fetched": "2026-01-31T23:16:41.630719+07:00"
+    },
+    {
+      "id": "79f60e473863137962121f6363404440",
+      "title": "Nhan sắc bốc lửa của Hoa hậu Liên lục địa 2024",
+      "link": "https://thanhnien.vn/nhan-sac-boc-lua-cua-hoa-hau-lien-luc-dia-2024-185260131182429877.htm",
+      "summary": "Đêm chung kết Hoa hậu Liên lục địa (Miss Intercontinental) lần thứ 52 đã chính thức khép lại tại Ai Cập. Khoảnh khắc Maria Cepero, người đẹp đến từ Puerto Rico, thực hiện những bước đi cuối cùng (final walk) đầy cảm xúc trên cương vị đương kim hoa hậu, nhận được sự yêu mến của fan sắc đẹp Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T14:42:00+07:00",
+      "fetched": "2026-01-31T23:16:41.630876+07:00"
+    },
+    {
+      "id": "34b1bf57bc129868073ea181d2a4704a",
+      "title": "'Bắt đáy' mua vàng, bạc khi giá giảm sâu",
+      "link": "https://thanhnien.vn/bat-day-mua-vang-bac-khi-gia-giam-sau-185260131194251366.htm",
+      "summary": "Chỉ trong 2 ngày, giá bán mỗi lượng vàng miếng SJC giảm 17,6 triệu đồng; giá bán mỗi kg bạc cũng giảm hơn 33 triệu đồng. Trên thị trường, lực mua lấn át lực bán, bởi lo ngại sau đà giảm, giá sẽ bật tăng trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T14:34:00+07:00",
+      "fetched": "2026-01-31T23:16:41.631057+07:00"
+    },
+    {
+      "id": "51a5ab4422005861560e1519bc0e0248",
+      "title": "Highlight CLB Hà Tĩnh 0-0 CLB Becamex TP.HCM: Thế trận giằng co",
+      "link": "https://thanhnien.vn/highlight-clb-ha-tinh-0-0-clb-becamex-tphcm-the-tran-giang-co-185260131213212363.htm",
+      "summary": "CLB Hà Tĩnh và CLB Becamex TP.HCM nhập cuộc thận trọng, tổ chức lối chơi chặt chẽ khiến thế trận diễn ra giằng co, không có bàn thắng nào được ghi sau 90 phút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T14:32:00+07:00",
+      "fetched": "2026-01-31T23:16:41.631218+07:00"
+    },
+    {
+      "id": "80c33f88f081da7f7229001723e83ed4",
+      "title": "Thứ bảy ngày 31 tháng 1: Vietlott có một người trúng 20 tỉ, giải độc đắc lên 43,9 tỉ",
+      "link": "https://thanhnien.vn/thu-bay-ngay-31-thang-1-vietlott-co-mot-nguoi-trung-20-ti-giai-doc-dac-len-439-ti-185260131194509395.htm",
+      "summary": "Tối 31.1, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, xuất hiện một người trúng giải jackpot 2 là 20 tỉ đồng. Tuy nhiên không xuất hiện người trúng độc đắc nên số tiền cộng dồn là 43,9 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T14:31:00+07:00",
+      "fetched": "2026-01-31T23:16:41.631364+07:00"
+    },
+    {
+      "id": "0f9f339857181521f411accbe999b3c0",
+      "title": "Thủ tướng: Xem xét 3 phương thức đầu tư đường sắt tốc độ cao Bắc - Nam",
+      "link": "https://thanhnien.vn/thu-tuong-xem-xet-3-phuong-thuc-dau-tu-duong-sat-toc-do-cao-bac-nam-185260131194516854.htm",
+      "summary": "Thủ tướng yêu cầu tiếp tục nghiên cứu, xem xét cả 3 phương thức nhà nước, tư nhân và hợp tác công tư PPP với dự án đường sắt tốc độ cao Bắc - Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T14:30:00+07:00",
+      "fetched": "2026-01-31T23:16:41.631530+07:00"
+    },
+    {
+      "id": "15a0cde8cfd17c5086b0d8ef3602bb44",
+      "title": "Thủ tướng: Hoàn thành báo cáo nghiên cứu khả thi đường sắt tốc độ cao trong quý IV",
+      "link": "https://vnexpress.net/thu-tuong-hoan-thanh-bao-cao-nghien-cuu-kha-thi-duong-sat-toc-do-cao-trong-quy-iv-5012356.html",
+      "summary": "Thủ tướng chỉ đạo áp dụng các quy định cho phép triển khai nhanh đường sắt tốc độ cao Bắc Nam, chậm nhất trong quý IV/2026 hoàn thành báo cáo nghiên cứu khả thi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T14:24:52+07:00",
+      "fetched": "2026-01-31T23:16:38.071846+07:00"
+    },
+    {
+      "id": "eac002b2a7f7ab32fe5b8668ba60327e",
+      "title": "Nước nào có sân vận động lớn nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-co-san-van-dong-lon-nhat-dong-nam-a-5012308.html",
+      "summary": "Với sức chứa gần 90.000 người, sân vận động này lớn hơn \"thánh địa\" của Real Madrid hay Manchester United. Bạn có biết sân này nằm ở nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T14:15:00+07:00",
+      "fetched": "2026-01-31T23:16:38.072006+07:00"
+    },
+    {
       "id": "b841b81fb23cdda1b68c5b9edfdef736",
       "title": "Yamaha NMAX 155 có phiên bản đặc biệt kỷ niệm 25 năm dòng MAX Series",
       "link": "https://thanhnien.vn/yamaha-nmax-155-co-phien-ban-dac-biet-ky-niem-25-nam-dong-max-series-185260130210401674.htm",
@@ -621,6 +1001,26 @@ window.newsData_2026_01_31 = {
       "category": "Tổng hợp",
       "published": "2026-01-31T14:00:00+07:00",
       "fetched": "2026-01-31T21:16:04.454360+07:00"
+    },
+    {
+      "id": "b42600b24b541d203b65d143410a3e8f",
+      "title": "Công Phượng trở lại, giúp Đồng Nai giữ đỉnh bảng giải hạng Nhất",
+      "link": "https://vnexpress.net/cong-phuong-tro-lai-giup-dong-nai-giu-dinh-bang-giai-hang-nhat-5012352.html",
+      "summary": "Ngay khi trở lại thi đấu, tiền đạo Nguyễn Công Phượng góp công giúp Trường Tươi Đồng Nai thắng Khánh Hòa 3-1 ở vòng 8 giải hạng Nhất 2025-2026, chiều 31/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T13:56:42+07:00",
+      "fetched": "2026-01-31T23:16:38.072166+07:00"
+    },
+    {
+      "id": "b42600b24b541d203b65d143410a3e8f",
+      "title": "Công Phượng trở lại, giúp Đồng Nai giữ đỉnh bảng giải hạng Nhất",
+      "link": "https://vnexpress.net/cong-phuong-tro-lai-giup-dong-nai-giu-dinh-bang-giai-hang-nhat-5012352.html",
+      "summary": "Ngay khi trở lại thi đấu, tiền đạo Nguyễn Công Phượng góp công giúp Trường Tươi Đồng Nai thắng Khánh Hòa 3-1 ở vòng 8 giải hạng Nhất 2025-2026, chiều 31/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-31T13:56:42+07:00",
+      "fetched": "2026-01-31T23:16:51.903172+07:00"
     },
     {
       "id": "bd3efd6eadf1273aed0c63d4c482a485",
