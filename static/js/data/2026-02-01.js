@@ -1,6 +1,6 @@
 window.newsData_2026_02_01 = {
   "date": "2026-02-01",
-  "lastUpdated": "2026-02-01T01:19:25.891459+07:00",
+  "lastUpdated": "2026-02-01T03:15:14.867209+07:00",
   "articles": [
     {
       "id": "70a84cb53a185fc87bd1366ddfe0b82a",
@@ -153,6 +153,26 @@ window.newsData_2026_02_01 = {
       "fetched": "2026-02-01T01:19:18.443796+07:00"
     },
     {
+      "id": "8ff010f8cf33363cffc54d88fd17fa84",
+      "title": "Arsenal hơn Man City 7 điểm",
+      "link": "https://vnexpress.net/arsenal-hon-man-city-7-diem-5012393.html",
+      "summary": "Arsenal cắt mạch ba trận không thắng, khi đè bẹp chủ nhà Leeds 4-0 ở vòng 24 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T18:32:23+07:00",
+      "fetched": "2026-02-01T03:15:02.349501+07:00"
+    },
+    {
+      "id": "8ff010f8cf33363cffc54d88fd17fa84",
+      "title": "Arsenal hơn Man City 7 điểm",
+      "link": "https://vnexpress.net/arsenal-hon-man-city-7-diem-5012393.html",
+      "summary": "Arsenal cắt mạch ba trận không thắng, khi đè bẹp chủ nhà Leeds 4-0 ở vòng 24 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-31T18:32:23+07:00",
+      "fetched": "2026-02-01T03:15:14.862393+07:00"
+    },
+    {
       "id": "ddd49f9eb004553849944cfaf4201011",
       "title": "Năng lực tập kích biển của bầy UAV Iran",
       "link": "https://vnexpress.net/nang-luc-tap-kich-bien-cua-bay-uav-iran-5010702.html",
@@ -161,6 +181,26 @@ window.newsData_2026_02_01 = {
       "category": "Thế giới",
       "published": "2026-01-31T18:00:00+07:00",
       "fetched": "2026-02-01T01:19:20.422010+07:00"
+    },
+    {
+      "id": "26b81772367c1b289a3eee4a8c0c8713",
+      "title": "Chống cột thép giữ chứng tích gần thành cổ Quảng Trị",
+      "link": "https://vnexpress.net/chong-cot-thep-giu-chung-tich-gan-thanh-co-quang-tri-5012287.html",
+      "summary": "Sau 7 tháng thi công, di tích trường Bồ Đề được chống đỡ bằng hơn 30 cọc thép, xử lý rong rêu, cỏ cây và cải tạo khuôn viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:48:15+07:00",
+      "fetched": "2026-02-01T03:15:02.349849+07:00"
+    },
+    {
+      "id": "e19bd4acd54543c4a92d4b0c83669909",
+      "title": "Nhiều nhà đầu tư dừng xuống tiền khi giá nhà, lãi suất tăng cao",
+      "link": "https://vnexpress.net/nhieu-nha-dau-tu-dung-xuong-tien-khi-gia-nha-lai-suat-tang-cao-5010975.html",
+      "summary": "Mặt bằng giá nhà liên tục leo thang, trong khi lãi suất vay ngân hàng biến động tăng liên tục khiến không ít nhà đầu tư không dám xuống tiền mua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T17:34:04+07:00",
+      "fetched": "2026-02-01T03:15:02.350008+07:00"
     },
     {
       "id": "03670a3d657f1a0f450a62530fd408c6",
