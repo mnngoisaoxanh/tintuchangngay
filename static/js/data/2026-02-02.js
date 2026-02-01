@@ -1,6 +1,6 @@
 window.newsData_2026_02_02 = {
   "date": "2026-02-02",
-  "lastUpdated": "2026-02-02T01:21:08.985781+07:00",
+  "lastUpdated": "2026-02-02T03:15:56.579029+07:00",
   "articles": [
     {
       "id": "b17504b08c205ac1ed3d38cc2b803975",
@@ -153,6 +153,36 @@ window.newsData_2026_02_02 = {
       "fetched": "2026-02-02T01:21:03.590918+07:00"
     },
     {
+      "id": "1c20c77436562c5b1947b9c4b667301a",
+      "title": "HLV Rosenior âm thầm tự khẳng định ở Chelsea",
+      "link": "https://thanhnien.vn/hlv-rosenior-am-tham-tu-khang-dinh-o-chelsea-185260201220435828.htm",
+      "summary": "Thắng 6 trong 7 trận đầu tiên, HLV ít tên tuổi Liam Rosenior của Chelsea (chỉ mới cầm quân từ ngày 8.1) đã âm thầm khẳng định được khả năng của mình. Ông vừa làm nên lịch sử qua trận thắng West Ham 3-2 tại giải Ngoại hạng Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T20:02:00+07:00",
+      "fetched": "2026-02-02T03:15:46.851866+07:00"
+    },
+    {
+      "id": "a2ffb4472bba28cfa3af18d90a31d057",
+      "title": "Man City bị Tottenham cầm hòa dù dẫn hai bàn",
+      "link": "https://vnexpress.net/man-city-bi-tottenham-cam-hoa-du-dan-hai-ban-5012614.html",
+      "summary": "Man City bị Arsenal bỏ cách sáu điểm, sau khi chỉ hòa chủ nhà Tottenham 2-2 ở vòng 24 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T18:29:46+07:00",
+      "fetched": "2026-02-02T03:15:43.690514+07:00"
+    },
+    {
+      "id": "a2ffb4472bba28cfa3af18d90a31d057",
+      "title": "Man City bị Tottenham cầm hòa dù dẫn hai bàn",
+      "link": "https://vnexpress.net/man-city-bi-tottenham-cam-hoa-du-dan-hai-ban-5012614.html",
+      "summary": "Man City bị Arsenal bỏ cách sáu điểm, sau khi chỉ hòa chủ nhà Tottenham 2-2 ở vòng 24 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-01T18:29:46+07:00",
+      "fetched": "2026-02-02T03:15:56.574178+07:00"
+    },
+    {
       "id": "6b16c063474f0a74fba3155aafa5c89e",
       "title": "Siêu tàu sân bay 13 tỷ USD gặp nhiều trắc trở của Mỹ",
       "link": "https://vnexpress.net/sieu-tau-san-bay-13-ty-usd-gap-nhieu-trac-tro-cua-my-5011913.html",
@@ -161,6 +191,16 @@ window.newsData_2026_02_02 = {
       "category": "Thế giới",
       "published": "2026-02-01T18:00:00+07:00",
       "fetched": "2026-02-02T01:21:04.496453+07:00"
+    },
+    {
+      "id": "77fdd978c6b32238a1ad2d717d7be468",
+      "title": "5 loại rau tốt cho người bệnh tiểu đường",
+      "link": "https://vnexpress.net/5-loai-rau-tot-cho-nguoi-benh-tieu-duong-5011989.html",
+      "summary": "Bông cải xanh, bắp cải, cà rốt, măng tây giàu chất xơ, vitamin và các chất chống oxy hóa, giúp ổn định đường huyết, nâng cao sức khỏe tổng thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T18:00:00+07:00",
+      "fetched": "2026-02-02T03:15:43.690693+07:00"
     },
     {
       "id": "23e9456a2065b0c3db3d666f1a576f85",
