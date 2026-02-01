@@ -1,7 +1,157 @@
 window.newsData_2026_02_01 = {
   "date": "2026-02-01",
-  "lastUpdated": "2026-02-01T08:23:19.959625+07:00",
+  "lastUpdated": "2026-02-01T11:22:02.928771+07:00",
   "articles": [
+    {
+      "id": "a65e58a68be950c2bd1cd0d8075b228b",
+      "title": "Vì sao cha mẹ cao chỉ hơn 1,6m, thủ môn Trung Kiên lại có thể cao đến 1,91m?",
+      "link": "https://tuoitre.vn/vi-sao-cha-me-cao-chi-hon-1m60-thu-mon-trung-kien-lai-co-the-cao-den-1m91-20260131193745344.htm",
+      "summary": "Chia sẻ với báo Tuổi Trẻ, thủ môn Trần Trung Kiên cho biết cha mẹ anh cao chưa đến 1,7m, trong khi  \"người hùng\" của U23 Việt Nam cao đến 1,91m.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.835191+07:00",
+      "fetched": "2026-02-01T11:21:53.835304+07:00"
+    },
+    {
+      "id": "13e65330c305352b060920b72e853c7b",
+      "title": "Nadal tin Alcaraz đánh bại Djokovic ở chung kết Úc mở rộng 2026",
+      "link": "https://tuoitre.vn/nadal-tin-alcaraz-danh-bai-djokovic-o-chung-ket-uc-mo-rong-2026-20260201083833808.htm",
+      "summary": "Huyền thoại Rafael Nadal không ngại dành sự ủng hộ hoàn toàn cho người đàn em Carlos Alcaraz ở trận chung kết Úc mở rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.835068+07:00",
+      "fetched": "2026-02-01T11:21:53.835180+07:00"
+    },
+    {
+      "id": "742d07fd1908d86b5bfa0523ca29c0be",
+      "title": "Chiến lược xây đường thông minh ở Trung Quốc",
+      "link": "https://tuoitre.vn/chien-luoc-xay-duong-thong-minh-o-trung-quoc-20260131231858173.htm",
+      "summary": "Tính đến hết năm 2025, tổng quy mô đầu tư vào cơ sở hạ tầng thông minh khắp Trung Quốc đã vượt 320 tỉ nhân dân tệ (44,1 tỉ USD).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.834938+07:00",
+      "fetched": "2026-02-01T11:21:53.835057+07:00"
+    },
+    {
+      "id": "5124ecf8d427ae7452b229047a508d05",
+      "title": "Gồng mình qua mùa rét ở 'xóm chạy thận' Hà Nội",
+      "link": "https://tuoitre.vn/gong-minh-qua-mua-ret-o-xom-chay-than-ha-noi-20260123013008285.htm",
+      "summary": "Hà Nội đang trải qua đợt rét đậm, nhiệt độ hôm nay 17 độ C. Trong cái lạnh ấy, xóm trọ của những người chạy thận ở ngõ 121 phố Lê Thanh Nghị dường như trĩu nặng hơn, khi bệnh tật và mưu sinh cùng lúc bủa vây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.834797+07:00",
+      "fetched": "2026-02-01T11:21:53.834925+07:00"
+    },
+    {
+      "id": "b17ce2e222a2ca3183741f79d8f16842",
+      "title": "Lê Hà Anh Tuấn giành cú đúp danh hiệu Esports 2025",
+      "link": "https://tuoitre.vn/le-ha-anh-tuan-gianh-cu-dup-danh-hieu-esports-2025-20260201082832364.htm",
+      "summary": "Năm thứ 2 liên tiếp, vận động viên Lê Hà Anh Tuấn tiếp tục ẵm 2 danh hiệu cá nhân trong đêm Gala cuối năm của FC Online 2025 diễn ra vào tối 31-1 tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.834672+07:00",
+      "fetched": "2026-02-01T11:21:53.834786+07:00"
+    },
+    {
+      "id": "b9d24a0d1307174aba97423ddc1b3f90",
+      "title": "Lãi kỷ lục 4.130 tỉ đồng, Vinaconex đem hơn 6.139 tỉ đồng cho vay",
+      "link": "https://tuoitre.vn/lai-ky-luc-4-130-ti-dong-vinaconex-dem-hon-6-139-ti-dong-cho-vay-20260201081151867.htm",
+      "summary": "Phải thu về cho vay ngắn hạn của Vinaconex tại ngày 31-12-2025 tăng vọt lên hơn 6.139 tỉ đồng, cao gấp 9,5 lần so với thời điểm đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.834547+07:00",
+      "fetched": "2026-02-01T11:21:53.834661+07:00"
+    },
+    {
+      "id": "3dab096020330f137a7d86636a0c8314",
+      "title": "Trung vệ West Ham lao tới bóp cổ 'ngôi sao' Chelsea",
+      "link": "https://tuoitre.vn/trung-ve-west-ham-lao-toi-bop-co-ngoi-sao-chelsea-20260201090547624.htm",
+      "summary": "Rạng sáng 1-2, trận derby London giữa Chelsea và West Ham ở vòng 24 Ngoại hạng Anh đã kết thúc trong cảnh hỗn loạn, dẫn đến chiếc thẻ đỏ cho hành vi bạo lực của Jean-Clair Todibo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.834418+07:00",
+      "fetched": "2026-02-01T11:21:53.834536+07:00"
+    },
+    {
+      "id": "3bd7f32d3648f29efd98b22589d414ba",
+      "title": "Giám đốc Sở An toàn thực phẩm: Nên vui khi phát hiện những vụ vi phạm quy mô lớn",
+      "link": "https://tuoitre.vn/giam-doc-so-an-toan-thuc-pham-nen-vui-khi-phat-hien-nhung-vu-vi-pham-quy-mo-lon-20260201084751116.htm",
+      "summary": "Thời gian qua, nhiều vụ vi phạm an toàn thực phẩm quy mô lớn được phát hiện ở khắp các tỉnh thành. Do gần Tết nên những vụ việc này khiến người tiêu dùng không khỏi lo lắng về sự an toàn của thực phẩm trong dịp đặc biệt này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.834291+07:00",
+      "fetched": "2026-02-01T11:21:53.834407+07:00"
+    },
+    {
+      "id": "5ad24ca4de4c063501556d44a0887e2d",
+      "title": "Linh vật ngựa sống động từ sông Thạch Hãn đến biên giới Việt Nam - Lào",
+      "link": "https://tuoitre.vn/linh-vat-ngua-song-dong-tu-song-thach-han-den-bien-gioi-viet-nam-lao-20260201084852297.htm",
+      "summary": "Nhiều xã ở tỉnh Quảng Trị đã trình làng các linh vật ngựa cho năm mới Bính Ngọ với tạo hình ấn tượng, màu sắc sinh động, tạo điểm nhấn văn hóa và lan tỏa niềm tin, khí thế cho năm mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.834164+07:00",
+      "fetched": "2026-02-01T11:21:53.834278+07:00"
+    },
+    {
+      "id": "d348a1a54413e187f6d6ab6374e44100",
+      "title": "Từ 1-3, thẩm phán phải tuyên thệ khi được bổ nhiệm, trừ thẩm phán nước ngoài tại tòa chuyên biệt",
+      "link": "https://tuoitre.vn/tu-1-3-tham-phan-phai-tuyen-the-khi-duoc-bo-nhiem-tru-tham-phan-nuoc-ngoai-tai-toa-chuyen-biet-20260201091031946.htm",
+      "summary": "Từ 1-3, khi thẩm phán nhận quyết định bổ nhiệm phải thực hiện nghi lễ tuyên thệ trong lễ công bố quyết định bổ nhiệm, trừ thẩm phán là người nước ngoài quy định tại Luật Tòa án chuyên biệt tại Trung tâm tài chính quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.834035+07:00",
+      "fetched": "2026-02-01T11:21:53.834153+07:00"
+    },
+    {
+      "id": "57fd1a279401ce42c81f12e376cc0103",
+      "title": "Ngành dầu khí lãi đậm, doanh nghiệp 'ngồi trên núi tiền' nghìn tỉ",
+      "link": "https://tuoitre.vn/nganh-dau-khi-lai-dam-doanh-nghiep-ngoi-tren-nui-tien-nghin-ti-202601311933388.htm",
+      "summary": "Ngành dầu khí khép lại năm 2025 với bức tranh “bội thu”, khi nhiều doanh nghiệp đồng loạt báo lãi lớn và nắm trong tay quỹ tiền lên tới hàng nghìn tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.833882+07:00",
+      "fetched": "2026-02-01T11:21:53.834021+07:00"
+    },
+    {
+      "id": "b6f81fd6e427ce2e7e90860e84896bcc",
+      "title": "Khai mạc đường hoa ‘Vũ khúc Xuân Bính Ngọ’ lần thứ 5",
+      "link": "https://tuoitre.vn/khai-mac-duong-hoa-vu-khuc-xuan-binh-ngo-lan-thu-5-20260201085341615.htm",
+      "summary": "Sáng 31-1, tại khu vực cửa ngõ sân bay Tân Sơn Nhất (TP.HCM), Công ty Menas đồng cùng phường Tân Sơn Hòa tổ chức khai mạc Đường hoa xuân phường Tân Sơn Hòa - Menas lần thứ 5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.833752+07:00",
+      "fetched": "2026-02-01T11:21:53.833870+07:00"
+    },
+    {
+      "id": "c3c694287903f79fcdd2d33d968fb6ca",
+      "title": "Ách tắc thực phẩm nhập khẩu: Doanh nghiệp đối mặt thiệt hại lớn",
+      "link": "https://tuoitre.vn/ach-tac-thuc-pham-nhap-khau-doanh-nghiep-doi-mat-thiet-hai-lon-20260201085416373.htm",
+      "summary": "Từ ngày 26-1, nghị định 46 về an toàn thực phẩm (ATTP) có hiệu lực khiến hàng loạt doanh nghiệp nhập khẩu thực phẩm phản ánh tình trạng hàng hóa bị ách tắc tại cửa khẩu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.833617+07:00",
+      "fetched": "2026-02-01T11:21:53.833740+07:00"
+    },
+    {
+      "id": "5ec4d1948992a7da34359d326e5e1da7",
+      "title": "Đường hoàng mai xứ Huế thắm sắc xuân",
+      "link": "https://tuoitre.vn/duong-hoang-mai-xu-hue-tham-sac-xuan-20260201090501421.htm",
+      "summary": "Những ngày giáp Tết, khu vực phía trước Đại Nội (Huế), hàng chục gốc mai vàng bung nở rực rỡ, tạo nên không gian xuân tươi sáng giữa lòng cố đô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.833470+07:00",
+      "fetched": "2026-02-01T11:21:53.833603+07:00"
+    },
+    {
+      "id": "8b15c30a8d45fcc6ff7ce81cc6160b4f",
+      "title": "HLV Indonesia tự tin đánh bại tuyển futsal Việt Nam để vào bán kết",
+      "link": "https://tuoitre.vn/hlv-indonesia-tu-tin-danh-bai-tuyen-futsal-viet-nam-de-vao-ban-ket-20260201093208734.htm",
+      "summary": "HLV tuyển futsal Indonesia, ông Hector Souto đã gửi lời \"tuyên chiến\" đầy sức nặng tới tuyển Việt trước thềm trận tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:21:53.833238+07:00",
+      "fetched": "2026-02-01T11:21:53.833454+07:00"
+    },
     {
       "id": "c65c2123bcc2e8b08eb536c7f9188ad7",
       "title": "Lịch thi đấu chung kết Úc mở rộng 2026: Djokovic đối đầu Alcaraz",
@@ -173,6 +323,406 @@ window.newsData_2026_02_01 = {
       "fetched": "2026-02-01T05:13:52.362026+07:00"
     },
     {
+      "id": "5ec004957b58d3c78e4de9e3bd46921e",
+      "title": "Gia Lai mời gọi đầu tư hàng loạt dự án điện năng lượng tái tạo",
+      "link": "https://thanhnien.vn/gia-lai-moi-goi-dau-tu-hang-loat-du-an-dien-nang-luong-tai-tao-185260201110315402.htm",
+      "summary": "Tỉnh Gia Lai kêu gọi đầu tư 12 dự án điện năng lượng tái tạo tại khu vực phía tây, tổng vốn khoảng 22,3 nghìn tỉ đồng, kỳ vọng cung cấp khoảng 700 MW điện sạch cho hệ thống điện quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:20:00+07:00",
+      "fetched": "2026-02-01T11:21:52.253128+07:00"
+    },
+    {
+      "id": "b2ba0805753599afa33472ba11fd40ca",
+      "title": "Loạt smartphone đáng chú ý ra mắt trong tháng 2",
+      "link": "https://thanhnien.vn/loat-smartphone-dang-chu-y-ra-mat-trong-thang-2-185260131165508834.htm",
+      "summary": "Tháng 2 hứa hẹn mang đến nhiều điều thú vị cho người dùng với sự xuất hiện của smartphone mới từ các thương hiệu lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:14:00+07:00",
+      "fetched": "2026-02-01T11:21:52.253297+07:00"
+    },
+    {
+      "id": "1e280a74dfeee64843eded6ea10b755c",
+      "title": "Động thái cực mới của CAS và AFC, Malaysia có nguy cơ bị xử thua Việt Nam cả 2 trận nếu…",
+      "link": "https://thanhnien.vn/dong-thai-cuc-moi-cua-cas-va-afc-doi-tuyen-malaysia-co-nguy-co-xu-thua-viet-nam-ca-2-tran-neu-185260201105453024.htm",
+      "summary": "CAS làm rõ việc cho phép tạm thời 7 cầu thủ nhập tịch 'lậu' Malaysia thi đấu, nhưng các CLB và đội tuyển sử dụng có thể gặp bất lợi nếu họ bị xử thua ở phiên tòa ngày 26.2 tới. Trong lúc, AFC hoãn ngày đánh giá FAM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:13:00+07:00",
+      "fetched": "2026-02-01T11:21:52.253455+07:00"
+    },
+    {
+      "id": "b2e18b100676c5d21c0f433a15d4a401",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn kiểm tra chuẩn bị bầu cử tại Cần Thơ",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-tran-thanh-man-kiem-tra-chuan-bi-bau-cu-tai-can-tho-185260201100454648.htm",
+      "summary": "Kiểm tra tại Cần Thơ, Chủ tịch Quốc hội Trần Thanh Mẫn lưu ý nhiều vấn đề để thành phố thực hiện tốt công tác bầu cử khi vận hành chính quyền địa phương 2 cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:13:00+07:00",
+      "fetched": "2026-02-01T11:21:52.253608+07:00"
+    },
+    {
+      "id": "9e3e0938595a195e15e9d0ec25bc5a1c",
+      "title": "Vĩnh Long: Khởi tố người đàn ông cho vay lãi nặng 180%/năm",
+      "link": "https://thanhnien.vn/vinh-long-khoi-to-nguoi-dan-ong-cho-vay-lai-nang-180-nam-18526020110390399.htm",
+      "summary": "Cho vay với lãi suất 180%/năm, một người đàn ông ở Vĩnh Long bị khởi tố để điều tra về hành vi cho vay lãi nặng trong giao dịch dân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:03:00+07:00",
+      "fetched": "2026-02-01T11:21:52.253762+07:00"
+    },
+    {
+      "id": "b74fd2ee163e93fd07b4efe047d0ceed",
+      "title": "Tấm séc đầu tiên và bo mạch Apple-1 được đấu giá hơn 5 triệu USD",
+      "link": "https://vnexpress.net/tam-sec-dau-tien-va-bo-mach-apple-1-duoc-dau-gia-hon-5-trieu-usd-5012383.html",
+      "summary": "Tấm séc đánh dấu giao dịch đầu tiên của Steve Jobs và nguyên mẫu bo mạch chủ Apple-1 vừa lập kỷ lục về giá trị trong một phiên đấu giá kỷ niệm 50 năm thành lập Apple.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:00:00+07:00",
+      "fetched": "2026-02-01T11:21:48.534086+07:00"
+    },
+    {
+      "id": "ef97d380063f6e093680a7eb17872136",
+      "title": "'Ăn mày mà đòi xôi gấc' trong tiếng Anh nói thế nào?",
+      "link": "https://vnexpress.net/an-may-ma-doi-xoi-gac-trong-tieng-anh-noi-the-nao-5012376.html",
+      "summary": "\"Ăn mày mà đòi xôi gấc\" là cách nói để chỉ những người ở vị thế yếu nhưng lại đưa ra đòi hỏi cao. Bạn có biết cách nói tương tự trong tiếng Anh?.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:00:00+07:00",
+      "fetched": "2026-02-01T11:21:48.534268+07:00"
+    },
+    {
+      "id": "7278af0d955f4049122a01d5685a6b02",
+      "title": "VinFast nhận cú đúp giải thưởng về đầu tư tại Ấn Độ",
+      "link": "https://vnexpress.net/vinfast-nhan-cu-dup-giai-thuong-ve-dau-tu-tai-an-do-5012462.html",
+      "summary": "VinFast được các tạp chí chuyên ngành Ấn Độ vinh danh \"Nhà đầu tư của năm\" và \"Xe điện đô thị của năm\", nhờ chiến lược dài hạn vào hệ sinh thái xe điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:00:00+07:00",
+      "fetched": "2026-02-01T11:21:48.534444+07:00"
+    },
+    {
+      "id": "c515a419cdbafe738049ea0bd80020fc",
+      "title": "Xem nhanh 12h: Đề xuất đáng chú ý về đỗ xe máy vỉa hè | Đã từng có ngày 30.2 trong lịch sử?",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-de-xuat-dang-chu-y-ve-do-xe-may-via-he-da-tung-co-ngay-302-trong-lich-su-185260201105525523.htm",
+      "summary": "Mua bán vàng; nghi án 'chồng gây tai nạn cho vợ rồi tự sát'; TP.HCM bắn pháo hoa đón tết… sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 1.2.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:00:00+07:00",
+      "fetched": "2026-02-01T11:21:52.253927+07:00"
+    },
+    {
+      "id": "b74fd2ee163e93fd07b4efe047d0ceed",
+      "title": "Tấm séc đầu tiên và bo mạch Apple-1 được đấu giá hơn 5 triệu USD",
+      "link": "https://vnexpress.net/tam-sec-dau-tien-va-bo-mach-apple-1-duoc-dau-gia-hon-5-trieu-usd-5012383.html",
+      "summary": "Tấm séc đánh dấu giao dịch đầu tiên của Steve Jobs và nguyên mẫu bo mạch chủ Apple-1 vừa lập kỷ lục về giá trị trong một phiên đấu giá kỷ niệm 50 năm thành lập Apple.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-01T04:00:00+07:00",
+      "fetched": "2026-02-01T11:22:01.107963+07:00"
+    },
+    {
+      "id": "e7f3e1f712999e758edbcf46b69ccd17",
+      "title": "Biến vườn hoa kiểng thành điểm check-in, nông dân Sa Đéc thu tiền triệu mỗi ngày",
+      "link": "https://thanhnien.vn/bien-vuon-hoa-kieng-thanh-diem-check-in-nong-dan-sa-dec-thu-tien-trieu-moi-ngay-185260201091849275.htm",
+      "summary": "Trồng hoa kiểng bán tết kết hợp khai thác du lịch trải nghiệm, ông Đặng Quang Giàu (43 tuổi, ngụ P.Sa Đéc, Đồng Tháp) thu nhập tiền triệu mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:51:00+07:00",
+      "fetched": "2026-02-01T11:21:52.254088+07:00"
+    },
+    {
+      "id": "04bedd4ef2de1c2d2f9e3a0d42e82dc7",
+      "title": "Công an TP.HCM đột kích ổ mại dâm trong khách sạn phường Gò Vấp",
+      "link": "https://thanhnien.vn/cong-an-tphcm-dot-kich-o-mai-dam-trong-khach-san-phuong-go-vap-185260201102730743.htm",
+      "summary": "Ập vào mot khách sạn trên đường Nguyễn Văn Lượng (quận Gò Vấp cũ, TP.HCM), lực lượng công an 'lật tẩy' ổ mại dâm hoạt động tinh vi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:50:00+07:00",
+      "fetched": "2026-02-01T11:21:52.254239+07:00"
+    },
+    {
+      "id": "9c8f726c09a077642868e8c981cc3e51",
+      "title": "Cảnh sát Campuchia bố ráp một trung tâm lừa đảo, bắt hơn 2.000 người nước ngoài",
+      "link": "https://thanhnien.vn/canh-sat-campuchia-bo-rap-mot-trung-tam-lua-dao-bat-hon-2000-nguoi-nuoc-ngoai-185260201103225503.htm",
+      "summary": "Tờ Khmer Times ngày 1.2 đưa tin lực lượng đặc nhiệm của Cảnh sát Quốc gia Campuchia đã tiến hành chiến dịch truy quét vào một điểm lừa đảo trực tuyến quy mô lớn tại thành phố Bavet thuộc tỉnh Svay Rieng trong sáng 31.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:48:00+07:00",
+      "fetched": "2026-02-01T11:21:52.254408+07:00"
+    },
+    {
+      "id": "b87537d789e9d4d726f19d8b7534f59b",
+      "title": "Đỗ xe máy trên vỉa hè vào quán mua hàng, có bị phạt nguội qua camera AI?",
+      "link": "https://vnexpress.net/do-xe-may-tren-via-he-vao-quan-mua-hang-co-bi-phat-nguoi-qua-camera-ai-5012454.html",
+      "summary": "Biết dừng đỗ xe máy trên vỉa hè trái phép sẽ bị phạt 400.000-600.000 đồng song nhiều người thắc mắc đỗ xe trước quán vào mua hàng rồi ra ngay thì có bị phạt không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:40:26+07:00",
+      "fetched": "2026-02-01T11:21:48.534607+07:00"
+    },
+    {
+      "id": "c2a9b2b2bd845982bcc8ba2379c14594",
+      "title": "Phát hiện hành tinh có thể dung dưỡng sự sống gần trái đất nhất",
+      "link": "https://thanhnien.vn/phat-hien-hanh-tinh-co-the-dung-duong-su-song-gan-trai-dat-nhat-185260201103311513.htm",
+      "summary": "Các nhà thiên văn đã tìm ra một ứng viên mới có thể mang theo sự sống cách đây 146 năm ánh sáng, với kích thước như trái đất và những điều kiện tương tự sao Hỏa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:37:00+07:00",
+      "fetched": "2026-02-01T11:21:52.254563+07:00"
+    },
+    {
+      "id": "ce100436c989109145f0b9abaa3807d1",
+      "title": "'AI chưa thâm nhập sâu vào sản xuất ở Việt Nam'",
+      "link": "https://vnexpress.net/ai-chua-tham-nhap-sau-vao-san-xuat-o-viet-nam-5012111.html",
+      "summary": "Các khảo sát chỉ ra Việt Nam có mức độ tiếp cận cao với AI, nhưng chuyên gia cho rằng công nghệ này chưa thâm nhập sâu vào sản xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:36:33+07:00",
+      "fetched": "2026-02-01T11:21:48.534770+07:00"
+    },
+    {
+      "id": "ce100436c989109145f0b9abaa3807d1",
+      "title": "'AI chưa thâm nhập sâu vào sản xuất ở Việt Nam'",
+      "link": "https://vnexpress.net/ai-chua-tham-nhap-sau-vao-san-xuat-o-viet-nam-5012111.html",
+      "summary": "Các khảo sát chỉ ra Việt Nam có mức độ tiếp cận cao với AI, nhưng chuyên gia cho rằng công nghệ này chưa thâm nhập sâu vào sản xuất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-01T03:36:33+07:00",
+      "fetched": "2026-02-01T11:21:57.662014+07:00"
+    },
+    {
+      "id": "3b009bccdc93ad4f59f339a8ba0a409e",
+      "title": "TP.HCM: Bắt tài xế xe ôm lợi dụng đồng nghiệp ngủ quên để trộm điện thoại",
+      "link": "https://thanhnien.vn/tphcm-bat-tai-xe-xe-om-loi-dung-dong-nghiep-ngu-quen-de-trom-dien-thoai-18526020109484565.htm",
+      "summary": "Người xe ôm công nghệ thấy một đồng nghiệp mệt mỏi, nằm ngủ ở quán nước trên đường Quang Trung (TP.HCM) liền ra tay trộm chiếc điện thoại iPhone 15 Pro Max.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:34:00+07:00",
+      "fetched": "2026-02-01T11:21:52.254715+07:00"
+    },
+    {
+      "id": "27d02d19d8d0c920ecef49d9ef96de0c",
+      "title": "Ca sĩ Hương Tràm sau khi trở về Việt Nam",
+      "link": "https://thanhnien.vn/ca-si-huong-tram-sau-khi-tro-ve-viet-nam-18526020109315731.htm",
+      "summary": "Hương Tràm chọn cách trở lại không ồn ào nhưng chủ động. Sau những giai đoạn lắng lại để chiêm nghiệm và tái tạo năng lượng, nữ ca sĩ mong muốn làm mới mình, không chỉ trong âm nhạc mà còn trong cách kết nối với khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:32:00+07:00",
+      "fetched": "2026-02-01T11:21:52.254869+07:00"
+    },
+    {
+      "id": "9fe6d66e25b3cf0482ad117730ca5cfd",
+      "title": "Giảng viên như tôi thưởng Tết 3,5 triệu đồng",
+      "link": "https://vnexpress.net/thuong-tet-thuong-nghi-dinh-73-giang-vien-nhu-toi-thuong-tet-3-5-trieu-dong-5012230.html",
+      "summary": "Với những giảng viên có thưởng Tết cố định ở mức 3,5 triệu đồng, tiền thưởng Nghị định 73 trở thành nguồn khích lệ rất lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:31:01+07:00",
+      "fetched": "2026-02-01T11:21:48.534948+07:00"
+    },
+    {
+      "id": "deb134b7e9b64e055643fea7a6c34daf",
+      "title": "Hạt nở 'lớn nhanh' gấp 300 lần gây tắc ruột bé gái",
+      "link": "https://vnexpress.net/hat-no-lon-nhanh-gap-300-lan-gay-tac-ruot-be-gai-5012449.html",
+      "summary": "Bé gái 18 tháng tuổi nôn ói, bí đại tiện do nuốt phải hạt nở - loại đồ chơi khi gặp dịch tiêu hóa có thể trương to gấp 300 lần gây tắc ruột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:24:57+07:00",
+      "fetched": "2026-02-01T11:21:48.535112+07:00"
+    },
+    {
+      "id": "6a1631009a3d23b8ab561aa840ab3033",
+      "title": "Malaysia bắt tàu nghi chuyển lậu gần 130 triệu USD dầu thô",
+      "link": "https://vnexpress.net/malaysia-bat-tau-nghi-chuyen-lau-gan-130-trieu-usd-dau-tho-5012442.html",
+      "summary": "Giới chức Malaysia bắt hai tàu bị nghi chuyển dầu trái phép cùng lượng hàng trị giá gần 130 triệu USD ở vùng biển miền tây nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:11:49+07:00",
+      "fetched": "2026-02-01T11:21:48.535281+07:00"
+    },
+    {
+      "id": "6a1631009a3d23b8ab561aa840ab3033",
+      "title": "Malaysia bắt tàu nghi chuyển lậu gần 130 triệu USD dầu thô",
+      "link": "https://vnexpress.net/malaysia-bat-tau-nghi-chuyen-lau-gan-130-trieu-usd-dau-tho-5012442.html",
+      "summary": "Giới chức Malaysia bắt hai tàu bị nghi chuyển dầu trái phép cùng lượng hàng trị giá gần 130 triệu USD ở vùng biển miền tây nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-01T03:11:49+07:00",
+      "fetched": "2026-02-01T11:21:55.642105+07:00"
+    },
+    {
+      "id": "fd99a3fcff1a5a4fc0947db30c9634b9",
+      "title": "Công ty đầu ngành xây dựng có 2,4 tỷ USD đơn hàng tồn đọng",
+      "link": "https://vnexpress.net/cong-ty-dau-nganh-xay-dung-co-2-4-ty-usd-don-hang-ton-dong-5012388.html",
+      "summary": "Coteccons trúng thầu 18.000 tỷ đồng trong ba tháng cuối năm ngoái, nâng giá trị đơn hàng tồn đọng (backlog) lên 62.500 tỷ đồng, tương đương 2,4 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:07:43+07:00",
+      "fetched": "2026-02-01T11:21:48.535438+07:00"
+    },
+    {
+      "id": "fd99a3fcff1a5a4fc0947db30c9634b9",
+      "title": "Công ty đầu ngành xây dựng có 2,4 tỷ USD đơn hàng tồn đọng",
+      "link": "https://vnexpress.net/cong-ty-dau-nganh-xay-dung-co-2-4-ty-usd-don-hang-ton-dong-5012388.html",
+      "summary": "Coteccons trúng thầu 18.000 tỷ đồng trong ba tháng cuối năm ngoái, nâng giá trị đơn hàng tồn đọng (backlog) lên 62.500 tỷ đồng, tương đương 2,4 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-01T03:07:43+07:00",
+      "fetched": "2026-02-01T11:21:57.662202+07:00"
+    },
+    {
+      "id": "90fee074cc1c4ca80f132bbe4d2a6e29",
+      "title": "Alcaraz - Djokovic: Lịch sử vẫy gọi ở chung kết Australia Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-djokovic-lich-su-vay-goi-o-chung-ket-australia-mo-rong-5012408.html",
+      "summary": "Nếu vô địch Australia Mở rộng 2026, Novak Djokovic sẽ độc chiếm kỷ lục 25 Grand Slam, còn Carlos Alcaraz sở hữu trọn bộ major.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:07:22+07:00",
+      "fetched": "2026-02-01T11:21:48.535599+07:00"
+    },
+    {
+      "id": "90fee074cc1c4ca80f132bbe4d2a6e29",
+      "title": "Alcaraz - Djokovic: Lịch sử vẫy gọi ở chung kết Australia Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-djokovic-lich-su-vay-goi-o-chung-ket-australia-mo-rong-5012408.html",
+      "summary": "Nếu vô địch Australia Mở rộng 2026, Novak Djokovic sẽ độc chiếm kỷ lục 25 Grand Slam, còn Carlos Alcaraz sở hữu trọn bộ major.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-01T03:07:22+07:00",
+      "fetched": "2026-02-01T11:22:02.921817+07:00"
+    },
+    {
+      "id": "3e8882549348b0310f99f4a64247c483",
+      "title": "Hai thiếu niên tử vong sau tai nạn xe máy",
+      "link": "https://vnexpress.net/hai-thieu-nien-tu-vong-sau-tai-nan-xe-may-5012429.html",
+      "summary": "Hai thiếu niên đi xe máy tốc độ cao bị ngã, tử vong tại chỗ trên đường Lý Thái Tổ, một người khác bị thương nặng, rạng sáng 1/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:06:31+07:00",
+      "fetched": "2026-02-01T11:21:48.535761+07:00"
+    },
+    {
+      "id": "4209f791e2882ae6e44eec62aa72ef1f",
+      "title": "Liverpool 4-1 Newcastle",
+      "link": "https://vnexpress.net/liverpool-4-1-newcastle-5012448.html",
+      "summary": "Cú đúp của Hugo Ekitike góp phần giúp chủ sân Anfield ngược dòng thắng đậm ở vòng 24 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:04:37+07:00",
+      "fetched": "2026-02-01T11:21:48.535934+07:00"
+    },
+    {
+      "id": "48b672bd1db34bade77e678276cabd1c",
+      "title": "Chelsea 3-2 West Ham",
+      "link": "https://vnexpress.net/chelsea-3-2-west-ham-5012445.html",
+      "summary": "Các bàn của Joao Pedro, Marc Cucurella và Enzo Fernandez giúp Chelsea thắng ngược ở vòng 24 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:00:34+07:00",
+      "fetched": "2026-02-01T11:21:48.536103+07:00"
+    },
+    {
+      "id": "dbfaa25246c05f39c0823803cf9d80ae",
+      "title": "Uống cà phê như thế nào hỗ trợ cơ thể thải độc",
+      "link": "https://vnexpress.net/uong-ca-phe-nhu-the-nao-ho-tro-co-the-thai-doc-5012370.html",
+      "summary": "Uống cà phê hữu cơ, nguyên chất, tránh thêm đường, chất tạo ngọt và ưu tiên vào giữa buổi sáng có thể hỗ trợ quá trình thải độc, thanh lọc cơ thể tối đa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:00:00+07:00",
+      "fetched": "2026-02-01T11:21:48.536263+07:00"
+    },
+    {
+      "id": "0076e2e3c3fe356f677f5532e65961b9",
+      "title": "Mâm cơm này nói về câu tục ngữ gì?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-mam-com-nay-noi-ve-cau-tuc-ngu-gi-5009977.html",
+      "summary": "Câu tục ngữ là kinh nghiệm ăn uống của nhân dân ta từ xưa, đến nay, kinh nghiệm này vẫn còn được dân ta lưu giữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:00:00+07:00",
+      "fetched": "2026-02-01T11:21:48.536423+07:00"
+    },
+    {
+      "id": "e468585f700bf079e87770b80d59b3bd",
+      "title": "Phương Mỹ Chi xin lỗi vụ màn trình diễn gây tranh cãi",
+      "link": "https://thanhnien.vn/phuong-my-chi-xin-loi-vu-man-trinh-dien-gay-tranh-cai-18526020109442046.htm",
+      "summary": "Trước những tranh luận liên quan đến màn trình diễn ở Làn sóng xanh, ca sĩ Phương Mỹ Chi lên tiếng giải thích, đồng thời gửi lời xin lỗi đến khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:00:00+07:00",
+      "fetched": "2026-02-01T11:21:52.255037+07:00"
+    },
+    {
+      "id": "20121ebda184475594027500a47146e8",
+      "title": "Muốn trẻ hơn 10 tuổi, hãy bắt đầu từ những bản phối ngọt ngào này",
+      "link": "https://thanhnien.vn/thoi-trang-tre/muon-tre-hon-10-tuoi-hay-bat-dau-tu-nhung-ban-phoi-ngot-ngao-nay-185260130101736679.htm",
+      "summary": "Tuổi tác đôi khi không nằm ở con số, mà được thể hiện rõ nhất qua phong cách bạn mặc mỗi ngày. Chỉ cần một chút tinh tế trong những bản phối, diện mạo có thể sẽ trở nên tươi tắn và trẻ trung hơn đáng kể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:00:00+07:00",
+      "fetched": "2026-02-01T11:21:52.255192+07:00"
+    },
+    {
+      "id": "a6e96e67836d866193052878ad40be5f",
+      "title": "Á quân Đường lên đỉnh Olympia đến nghe Tư vấn mùa thi, 'fan' vây quanh",
+      "link": "https://thanhnien.vn/a-quan-duong-len-dinh-olympia-den-nghe-tu-van-mua-thi-fan-vay-quanh-185260201085841621.htm",
+      "summary": "Đoàn Thanh Tùng, á quân gây ấn tượng sâu sắc với khán giả tại trận chung kết Olympia 2025, đã có mặt tại chương trình Tư vấn mùa thi tại Trường ĐH Nha Trang từ rất sớm để tìm hiểu thông tin tuyển sinh ĐH.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T02:57:00+07:00",
+      "fetched": "2026-02-01T11:21:52.255346+07:00"
+    },
+    {
+      "id": "f9653d4e1f0b8c98d2b949512f604e91",
+      "title": "Ekitike được so sánh với Fernando Torres",
+      "link": "https://vnexpress.net/ekitike-duoc-so-sanh-voi-fernando-torres-5012424.html",
+      "summary": "Steven Gerrard cho rằng Hugo Ekitike gợi nhớ đến hình ảnh \"sát thủ\" Fernando Torres thời đỉnh cao, sau khi tiền đạo người Pháp lập cú đúp giúp Liverpool thắng Newcastle 4-1 ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-01T02:51:02+07:00",
+      "fetched": "2026-02-01T11:22:02.922838+07:00"
+    },
+    {
+      "id": "1e21544f4a7ad22f64b9a1d27eee2e58",
+      "title": "SpaceX dùng 'biện pháp khẩn cấp' để ngăn Nga lái UAV bằng Starlink",
+      "link": "https://vnexpress.net/spacex-dung-bien-phap-khan-cap-de-ngan-nga-lai-uav-bang-starlink-5012416.html",
+      "summary": "Cố vấn quốc phòng Ukraine cho biết SpaceX đã triển khai biện pháp khẩn cấp nhằm hạn chế Nga sử dụng Starlink để điều khiển UAV.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-01T02:19:27+07:00",
+      "fetched": "2026-02-01T11:21:55.642294+07:00"
+    },
+    {
+      "id": "aa3ecb3a43c7648287fbdbeda406a6ec",
+      "title": "Galaxy Z TriFold hết hàng sau vài phút mở bán",
+      "link": "https://vnexpress.net/galaxy-z-trifold-het-hang-sau-vai-phut-mo-ban-5012384.html",
+      "summary": "Galaxy Z TriFold, smartphone gập ba đầu tiên của Samsung, được mua hết sau vài phút lên kệ cuối tháng 1, dù có giá gần 3.000 USD.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-01T02:00:00+07:00",
+      "fetched": "2026-02-01T11:22:01.108138+07:00"
+    },
+    {
+      "id": "b1295018942c5ab0add77c3c24b95803",
+      "title": "Việt Nam nới lỏng nhập khẩu thiết bị bán dẫn qua sử dụng",
+      "link": "https://vnexpress.net/viet-nam-noi-long-nhap-khau-thiet-bi-ban-dan-qua-su-dung-5012017.html",
+      "summary": "Bộ Khoa học và Công nghệ ban hành thông tư, mở rộng điều kiện, cho phép doanh nghiệp nhập khẩu máy móc, thiết bị phục vụ sản xuất bán dẫn dưới 20 năm tuổi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-01T01:46:05+07:00",
+      "fetched": "2026-02-01T11:22:01.108301+07:00"
+    },
+    {
+      "id": "f2b2784b715a0ba970eb9ff5e6180d4e",
+      "title": "Yamal, Rashford cùng ghi bàn cho Barca",
+      "link": "https://vnexpress.net/yamal-rashford-cung-ghi-ban-cho-barca-5012415.html",
+      "summary": "Barca phung phí nhiều cơ hội nhưng vẫn thắng chủ nhà Elche 3-1 ở vòng 22 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-01T01:28:10+07:00",
+      "fetched": "2026-02-01T11:22:02.922024+07:00"
+    },
+    {
       "id": "3f5cd48e4c73b69ffa093b6cbb4232fb",
       "title": "Phim tết có Uyển Ân đóng chính ‘né’ Trấn Thành, Trường Giang ngoài rạp?",
       "link": "https://thanhnien.vn/phim-tet-co-uyen-an-dong-chinh-ne-tran-thanh-truong-giang-ngoai-rap-185260201074938014.htm",
@@ -333,6 +883,16 @@ window.newsData_2026_02_01 = {
       "fetched": "2026-02-01T01:19:18.443796+07:00"
     },
     {
+      "id": "a388efd5a3d18a6c65450ab709c2d98c",
+      "title": "Ba Lan ký thỏa thuận xây dựng lưới chống drone hơn 4 tỷ USD",
+      "link": "https://vnexpress.net/ba-lan-ky-thoa-thuan-xay-dung-luoi-chong-drone-hon-4-ty-usd-5012202.html",
+      "summary": "Ba Lan ký hợp đồng với liên danh quốc tế để xây dựng lưới phòng thủ chống drone San, được cho là có giá trị khoảng 4,2 tỷ USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-01T01:19:16+07:00",
+      "fetched": "2026-02-01T11:21:55.642459+07:00"
+    },
+    {
       "id": "7603495ff2927778a815dcc9364ac1bc",
       "title": "5 tính năng nên tắt ngay để tránh phiền nhiễu cho Gmail",
       "link": "https://thanhnien.vn/5-tinh-nang-nen-tat-ngay-de-tranh-phien-nhieu-cho-gmail-185260130112753436.htm",
@@ -401,6 +961,16 @@ window.newsData_2026_02_01 = {
       "category": "Thể thao",
       "published": "2026-02-01T01:03:39+07:00",
       "fetched": "2026-02-01T08:23:19.954040+07:00"
+    },
+    {
+      "id": "4d71cd957d6ab14ed0a555d35a62dd2a",
+      "title": "Liverpool đè bẹp Newcastle",
+      "link": "https://vnexpress.net/liverpool-de-bep-newcastle-5012414.html",
+      "summary": "Hai tân binh Hugo Ekitike, Florian Wirtz cùng ghi bàn giúp Liverpool thắng ngược đội khách Newcastle 4-1 ở vòng 24 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-01T01:03:39+07:00",
+      "fetched": "2026-02-01T11:22:02.922201+07:00"
     },
     {
       "id": "5b77e5856001e5073886706ebb7f3df0",
@@ -801,6 +1371,16 @@ window.newsData_2026_02_01 = {
       "category": "Thể thao",
       "published": "2026-01-31T20:23:41+07:00",
       "fetched": "2026-02-01T05:13:58.301331+07:00"
+    },
+    {
+      "id": "8f8d63dac55b13c08c681a495dee0d46",
+      "title": "Chelsea thắng ngược dù bị dẫn hai bàn ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/chelsea-thang-nguoc-du-bi-dan-hai-ban-o-ngoai-hang-anh-5012406.html",
+      "summary": "Sau khi bị West Ham dẫn 2-0 ở hiệp một, Chelsea ghi ba bàn trong hiệp hai để thắng ngược 3-2 tại vòng 24 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-31T20:23:41+07:00",
+      "fetched": "2026-02-01T11:22:02.922367+07:00"
     },
     {
       "id": "8c4d4da1a36bb37f104719434a770be2",
