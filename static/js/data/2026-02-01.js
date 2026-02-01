@@ -1,7 +1,127 @@
 window.newsData_2026_02_01 = {
   "date": "2026-02-01",
-  "lastUpdated": "2026-02-01T17:16:35.909375+07:00",
+  "lastUpdated": "2026-02-01T19:28:31.332921+07:00",
   "articles": [
+    {
+      "id": "5c751ba389582f8f18fa49dd29f646d6",
+      "title": "Triệt phá đường dây ma túy núp bóng thuốc lá điện tử, pod chill nhắm vào học sinh, sinh viên",
+      "link": "https://tuoitre.vn/triet-pha-duong-day-ma-tuy-nup-bong-thuoc-la-dien-tu-pod-chill-nham-vao-hoc-sinh-sinh-vien-20260201155915535.htm",
+      "summary": "C04 (Bộ Công an) vừa phối hợp với các lực lượng phá đường dây mua bán, vận chuyển trái phép ma túy trên không gian mạng được ngụy trang dưới dạng thuốc lá điện tử, pod chill, dung dịch CBD, bắt giữ 17 nghi phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T19:28:25.461642+07:00",
+      "fetched": "2026-02-01T19:28:25.461758+07:00"
+    },
+    {
+      "id": "fa7280bf073495bbb278371dbc874174",
+      "title": "Bất ngờ với cách John Wick và Naruto truyền cảm hứng cho manga Kagurabachi",
+      "link": "https://tuoitre.vn/bat-ngo-voi-cach-john-wick-va-naruto-truyen-cam-hung-cho-manga-kagurabachi-20260201161822102.htm",
+      "summary": "Chỉ sau hai năm xuất bản trên Shonen Jump, Kagurabachi đã trở thành một trong những manga nổi bật nhất của tạp chí này, thu hút lượng lớn độc giả toàn cầu và tạo nên làn sóng bàn luận mạnh mẽ trong cộng đồng manga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T19:28:25.461495+07:00",
+      "fetched": "2026-02-01T19:28:25.461627+07:00"
+    },
+    {
+      "id": "97d12a185929b44a4e42d230df85c29f",
+      "title": "Gỡ biển hạn chế tốc độ cắm dày đặc trên quốc lộ 19: Có 'đá bóng' trách nhiệm?",
+      "link": "https://tuoitre.vn/go-bien-han-che-toc-do-cam-day-dac-tren-quoc-lo-19-co-da-bong-trach-nhiem-20260201155226775.htm",
+      "summary": "Trước tình trạng biển hạn chế tốc độ cắm dày đặc trên quốc lộ 19 gây ảnh hưởng tốc độ lưu thông, tỉnh Gia Lai đã chỉ đạo đơn vị quản lý rà soát tháo dỡ nhưng các bên đổ trách nhiệm cho nhau, không thực hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T19:28:25.461370+07:00",
+      "fetched": "2026-02-01T19:28:25.461484+07:00"
+    },
+    {
+      "id": "b45856b5b24f06238b2b0d889ce405b3",
+      "title": "Xô xát trong gia đình ở Đồng Nai, một người bị đâm chết",
+      "link": "https://tuoitre.vn/xo-xat-trong-gia-dinh-o-dong-nai-mot-nguoi-bi-dam-chet-20260201163314642.htm",
+      "summary": "Trong lúc mâu thuẫn, giằng co với bác và cha ruột, Nông Văn Hiếu dùng hung khí tấn công khiến cha ruột thiệt mạng, bác ruột bị thương nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T19:28:25.461245+07:00",
+      "fetched": "2026-02-01T19:28:25.461358+07:00"
+    },
+    {
+      "id": "2cd11fa939316058dcb040926f35aa03",
+      "title": "Triệu tập 6 thanh niên đánh bảo vệ khu dân cư nhập viện vì bị nhắc nhở giữ trật tự",
+      "link": "https://tuoitre.vn/trieu-tap-6-thanh-nien-danh-bao-ve-khu-dan-cu-nhap-vien-vi-bi-nhac-nho-giu-trat-tu-20260201161646588.htm",
+      "summary": "Nhóm 6 thanh niên bị công an triệu tập liên quan việc đánh bảo vệ khu dân cư khi người này nhắc nhở giữ gìn trật tự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T19:28:25.461117+07:00",
+      "fetched": "2026-02-01T19:28:25.461233+07:00"
+    },
+    {
+      "id": "f6b873b241597fd9f408e253d25e46c3",
+      "title": "Ốc bươu ngâm ‘thủy tinh lỏng’, đã tiêu thụ 3.000 tấn; Khi nào tăng lương cơ sở?",
+      "link": "https://tuoitre.vn/oc-buou-ngam-thuy-tinh-long-da-tieu-thu-3-000-tan-khi-nao-tang-luong-co-so-20260131004844815.htm",
+      "summary": "Ngâm ốc bươu với ‘thủy tinh lỏng’, khoảng 3.000 tấn đã tiêu thụ; Khi nào tăng lương cơ sở… là những vấn đề được nhiều bạn đọc phản hồi tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T19:28:25.460985+07:00",
+      "fetched": "2026-02-01T19:28:25.461105+07:00"
+    },
+    {
+      "id": "aba6e8bc77ffad2f606a33d69a67e028",
+      "title": "Xe tải nghi mất phanh khi đổ đèo Đá Trắng, lạng lách qua loạt xe rồi đâm vào vách núi",
+      "link": "https://tuoitre.vn/xe-tai-nghi-mat-phanh-khi-do-deo-da-trang-lang-lach-qua-loat-xe-roi-dam-vao-vach-nui-20260201160450305.htm",
+      "summary": "Chiếc xe tải đang chạy trên đèo Đá Trắng bất ngờ lao nhanh, lách qua nhiều ô tô, xe máy trước khi đâm vào hộ lan ta luy âm rồi lao sang vách núi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T19:28:25.460841+07:00",
+      "fetched": "2026-02-01T19:28:25.460956+07:00"
+    },
+    {
+      "id": "e23ad8261965b1733f498a822f48e09b",
+      "title": "Phạt ‘thụt dầu’ học sinh đi xe đạp điện không đội mũ bảo hiểm, vừa rèn sức khỏe vừa rèn ý thức",
+      "link": "https://tuoitre.vn/phat-thut-dau-hoc-sinh-di-xe-dap-dien-khong-doi-non-bao-hiem-vua-ren-suc-khoe-vua-ren-y-thuc-20260201124520655.htm",
+      "summary": "Việc yêu cầu hai học sinh tiểu học vi phạm giao thông 'thụt dầu' nhận được nhiều ý kiến từ bạn đọc báo Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T19:28:25.460711+07:00",
+      "fetched": "2026-02-01T19:28:25.460829+07:00"
+    },
+    {
+      "id": "be4fd5e17e64ac8d83268eb500b7e4de",
+      "title": "HLV Napoli: 'Lịch thi đấu khủng khiếp đang giết chết bóng đá'",
+      "link": "https://tuoitre.vn/hlv-napoli-lich-thi-dau-khung-khiep-dang-giet-chet-bong-da-20260201101957543.htm",
+      "summary": "Dù Napoli giành chiến thắng trước Fiorentina, HLV Antonio Conte vẫn không giấu nổi bức xúc khi lịch thi đấu dày đặc đang tàn phá đội hình của ông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T19:28:25.460579+07:00",
+      "fetched": "2026-02-01T19:28:25.460698+07:00"
+    },
+    {
+      "id": "aaf9c19016d64eb9c282f949cd4455a6",
+      "title": "Ngựa vàng - ngựa đỏ xứ Lạng tung vó giữa trời xuân",
+      "link": "https://tuoitre.vn/ngua-vang-ngua-do-xu-lang-tung-vo-giua-troi-xuan-202602011625008.htm",
+      "summary": "Giữa tiết trời se lạnh đặc trưng của vùng biên, linh vật ngựa vàng - ngựa đỏ chính thức \"lộ diện\" tại khuôn viên Lễ hội hoa đào xứ Lạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T19:28:25.460444+07:00",
+      "fetched": "2026-02-01T19:28:25.460567+07:00"
+    },
+    {
+      "id": "c2e499ef20afc664382befaf2ced2481",
+      "title": "Xây mới, sửa chữa 1.075 căn nhà, sau 20 năm tổ chức Tết quân dân ở Cần Thơ",
+      "link": "https://tuoitre.vn/xay-moi-sua-chua-1-075-can-nha-sau-20-nam-to-chuc-tet-quan-dan-o-can-tho-20260201171252844.htm",
+      "summary": "Hàng trăm ngàn người được khám bệnh, cấp thuốc, cùng với hàng ngàn suất học bổng được trao tặng… sau 20 năm Tết quân dân được tổ chức ở Cần Thơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T19:28:25.460303+07:00",
+      "fetched": "2026-02-01T19:28:25.460431+07:00"
+    },
+    {
+      "id": "ca9ef8abd575d2d54c27551eb5100bf1",
+      "title": "Ông Trump: Mỹ đang bắt đầu đàm phán với Cuba",
+      "link": "https://tuoitre.vn/ong-trump-my-dang-bat-dau-dam-phan-voi-cuba-20260201173215316.htm",
+      "summary": "Tổng thống Mỹ Donald Trump tiết lộ Mỹ đang bắt đầu đàm phán với Cuba nhưng không nói rõ thời gian và nội dung thảo luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T19:28:25.460071+07:00",
+      "fetched": "2026-02-01T19:28:25.460288+07:00"
+    },
     {
       "id": "f0b4b08581e10f2ad7b6a5b126e6f034",
       "title": "Tết không còn là chờ đợi, mà là hành trình chủ động kết nối",
@@ -453,6 +573,126 @@ window.newsData_2026_02_01 = {
       "fetched": "2026-02-01T13:38:13.703786+07:00"
     },
     {
+      "id": "6500a6b29c47247ca124e85ccd41a023",
+      "title": "Không check-in, không nghỉ dưỡng: Vì sao nhiều người Việt chi trăm triệu tìm đến Himalaya?",
+      "link": "https://thanhnien.vn/khong-check-in-khong-nghi-duong-vi-sao-nhieu-nguoi-viet-chi-tram-trieu-tim-den-himalaya-185260201182700514.htm",
+      "summary": "Từ một triển lãm ảnh tại TP.HCM, xu hướng người Việt chi hàng trăm triệu đến Himalaya dần hé lộ: không để check-in hay nghỉ dưỡng, mà để 'chuyển hóa' bản thân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:24:00+07:00",
+      "fetched": "2026-02-01T19:28:24.502235+07:00"
+    },
+    {
+      "id": "36dc7a53b4aad7545c157ed907e7fe1b",
+      "title": "Chủ tịch VFF trao Cúp vua phá lưới châu Á cho Đình Bắc tại Hàng Đẫy: Thành quả để đời",
+      "link": "https://thanhnien.vn/chu-tich-vff-trao-cup-vua-pha-luoi-chau-a-cho-dinh-bac-tai-hang-day-thanh-qua-de-doi-185260201185609954.htm",
+      "summary": "Trước trận CLB CAHN gặp Ninh Bình, tiền đạo Nguyễn Đình Bắc đã nhận vinh dự đặc biệt với giải thưởng vua phá lưới U.23 châu Á 2026, mà cầu thủ này xuất sắc giành được tại Ả Rập Xê Út.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:19:00+07:00",
+      "fetched": "2026-02-01T19:28:24.502410+07:00"
+    },
+    {
+      "id": "d3a017c3e19f1ed5790c7693301786c4",
+      "title": "'Bữa tối nghìn tỷ USD' của CEO Nvidia với loạt tỷ phú bán dẫn Đài Loan",
+      "link": "https://vnexpress.net/bua-toi-nghin-ty-usd-cua-ceo-nvidia-voi-loat-ty-phu-ban-dan-dai-loan-5012544.html",
+      "summary": "CEO Jensen Huang của Nvidia tổ chức bữa tối tại một nhà hàng đậm nét hoài cổ, với khách mời gồm nhiều tỷ phú bán dẫn của Đài Loan như Chủ tịch TSMC, Foxconn, Quanta Computer.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-01T12:17:18+07:00",
+      "fetched": "2026-02-01T19:28:27.410421+07:00"
+    },
+    {
+      "id": "40174da7f51c1b7c462cb170dbc2ae41",
+      "title": "Lộ nhân vật của Ban Chấp hành FAM vẫn an toàn giữa ‘bão’ nhập tịch lậu, CEO đội tuyển Malaysia 'mất tích'?",
+      "link": "https://thanhnien.vn/lo-nhan-vat-cua-ban-chap-hanh-fam-van-an-toan-giua-bao-nhap-tich-lau-ceo-doi-tuyen-malaysia-mat-tich-18526020119013669.htm",
+      "summary": "Việc ông Tan Sri Hamidin Mohd Amin vẫn còn giữ chức vụ Chủ tịch Danh dự FAM đang gây ra những suy nghĩ trái chiều trong dư luận Malaysia. Trong khi đó, Ban quản lý đội tuyển Malaysia tiếp tục được nhắc tên và yêu cầu phải chịu trách nhiệm trong vụ việc nhập tịch cầu thủ không đúng thủ tục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:14:00+07:00",
+      "fetched": "2026-02-01T19:28:24.502570+07:00"
+    },
+    {
+      "id": "88419bd2e0d728c5b606852db0deddc9",
+      "title": "HAGL đánh bại Đà Nẵng nhờ bàn thắng nghẹt thở: Quế Ngọc Hải, Đỗ Phi Long ra mắt quá buồn!",
+      "link": "https://thanhnien.vn/hagl-danh-bai-da-nang-nho-ban-thang-nghet-tho-que-ngoc-hai-do-phi-long-ra-mat-qua-buon-185260201185919129.htm",
+      "summary": "Dù chất lượng đội hình được cải thiện với những cái tên như Quế Ngọc Hải, Đỗ Phi Long (trước đây là Gustavo) hay Ribamar, CLB Đà Nẵng vẫn phải nhận thất bại 0-1 trước HAGL ở vòng 12 V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:11:00+07:00",
+      "fetched": "2026-02-01T19:28:24.502725+07:00"
+    },
+    {
+      "id": "5b4a9319b7e166fd89c3e33ac764f86a",
+      "title": "Chiêm ngưỡng đóa sen khổng lồ từ 50.000 chậu hoa rực rỡ bên kinh thành Huế",
+      "link": "https://thanhnien.vn/chiem-nguong-doa-sen-khong-lo-tu-50000-chau-hoa-ruc-ro-ben-kinh-thanh-hue-185260201175935603.htm",
+      "summary": "50.000 chậu hoa khoe sắc tại khu vực sân Hàm Nghi, trong khu vực kinh thành Huế đã tạo thành một đóa sen khổng lồ từ góc nhìn trên cao. Những ngày này, có hàng trăm người tìm đến đây để check- in.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:02:00+07:00",
+      "fetched": "2026-02-01T19:28:24.502879+07:00"
+    },
+    {
+      "id": "ab29af85807b528b2f945e9d79db8879",
+      "title": "Galaxy S26 sắp có tính năng 'đáng tiền nhất' trên Pixel",
+      "link": "https://thanhnien.vn/galaxy-s26-sap-co-tinh-nang-dang-tien-nhat-tren-pixel-185260201174214127.htm",
+      "summary": "Nếu đang cân nhắc mua một điện thoại hỗ trợ chống lừa đảo tiên tiến, Galaxy S26 sắp ra mắt sẽ là một trong những lựa chọn đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:02:00+07:00",
+      "fetched": "2026-02-01T19:28:24.503054+07:00"
+    },
+    {
+      "id": "8c7bb300306d63f180c1463664b32c18",
+      "title": "Vượt sóng lớn đưa người dân hôn mê từ đặc khu Cù Lao Chàm vào cấp cứu",
+      "link": "https://thanhnien.vn/vuot-song-lon-dua-nguoi-dan-hon-me-tu-dac-khu-cu-lao-cham-vao-cap-cuu-185260201183443569.htm",
+      "summary": "Bệnh nhân hôn mê sâu và diễn biến phức tạp, các chiến sĩ Đồn biên phòng Cù Lao Chàm (thuộc Bộ đội Biên phòng TP.Đà Nẵng) đã kịp thời điều động phương tiện, vượt sóng lớn đưa bệnh nhân vào đất liền cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:00:00+07:00",
+      "fetched": "2026-02-01T19:28:24.503212+07:00"
+    },
+    {
+      "id": "313d180139a0099f4ac61f6688ba1887",
+      "title": "Dùng ứng dụng hẹn hò để xin tư vấn du lịch",
+      "link": "https://vnexpress.net/dung-ung-dung-hen-ho-de-xin-tu-van-du-lich-5012185.html",
+      "summary": "Ize sử dụng các ứng dụng hẹn hò để hỏi \"món ăn nào anh thích nhất ở đây\", \"bar nào có cocktail ngon nhất\" từ người địa phương và thường nhận được câu trả lời chất lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:38:40+07:00",
+      "fetched": "2026-02-01T19:28:21.388718+07:00"
+    },
+    {
+      "id": "dc63cb21d1b2ebf6ee496e4e136bb5b8",
+      "title": "Lãnh đạo TP.HCM trao Huy hiệu 60 năm tuổi Đảng tại đặc khu Côn Đảo",
+      "link": "https://thanhnien.vn/lanh-dao-tphcm-trao-huy-hieu-60-nam-tuoi-dang-tai-dac-khu-con-dao-185260201181503287.htm",
+      "summary": "Chiều 1.2, ông Võ Văn Minh, Ủy viên Trung ương Đảng, Phó bí thư Thành ủy, Chủ tịch HĐND TP.HCM đã đến đặc khu Côn Đảo trao Huy hiệu 60 năm tuổi Đảng cho đảng viên 86 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:36:00+07:00",
+      "fetched": "2026-02-01T19:28:24.503364+07:00"
+    },
+    {
+      "id": "fd316846d615fd67bc0f63b76e866019",
+      "title": "Áp xe sau tiêm filler làm đẹp",
+      "link": "https://vnexpress.net/ap-xe-sau-tiem-filler-lam-dep-5012481.html",
+      "summary": "Sau tiêm filler rồi tiêm chất giải filler tại vùng mông và đùi, cô gái 26 tuổi bị nhiễm trùng tạo thành ổ áp xe lớn, ảnh hưởng chức năng vận động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:30:02+07:00",
+      "fetched": "2026-02-01T19:28:21.388896+07:00"
+    },
+    {
+      "id": "09f5aaa6df9c174bf2ed52fcade51535",
+      "title": "Tư vấn mùa thi 2026 tại Khánh Hòa: Sôi động không gian trải nghiệm ngành nghề",
+      "link": "https://thanhnien.vn/tu-van-mua-thi-2026-tai-khanh-hoa-soi-dong-khong-gian-trai-nghiem-nganh-nghe-185260201155026055.htm",
+      "summary": "Bên cạnh tư vấn quy chế tuyển sinh mới, chương trình Tư vấn mùa thi 2026 tại Khánh Hòa thu hút học sinh nhờ các gian hàng trải nghiệm ngành nghề, công nghệ, nghệ thuật và định hướng học tập thực tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:23:00+07:00",
+      "fetched": "2026-02-01T19:28:24.503515+07:00"
+    },
+    {
       "id": "a65e58a68be950c2bd1cd0d8075b228b",
       "title": "Vì sao cha mẹ cao chỉ hơn 1,6m, thủ môn Trung Kiên lại có thể cao đến 1,91m?",
       "link": "https://tuoitre.vn/vi-sao-cha-me-cao-chi-hon-1m60-thu-mon-trung-kien-lai-co-the-cao-den-1m91-20260131193745344.htm",
@@ -603,6 +843,146 @@ window.newsData_2026_02_01 = {
       "fetched": "2026-02-01T11:21:53.833454+07:00"
     },
     {
+      "id": "142941089a07110a82e3eb67c45dfffa",
+      "title": "Áp lực 'tìm lại hào quang' của Starbucks trước loạt đối thủ",
+      "link": "https://vnexpress.net/ap-luc-tim-lai-hao-quang-cua-starbucks-truoc-loat-doi-thu-5012479.html",
+      "summary": "Starbucks đang chịu sức ép trước hàng loạt đối thủ 7 Brew, Scooter’s Coffee, Dutch Bros tại Mỹ, cùng mối đe dọa tiềm ẩn từ các thương hiệu giá rẻ Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:05:00+07:00",
+      "fetched": "2026-02-01T19:28:21.389088+07:00"
+    },
+    {
+      "id": "142941089a07110a82e3eb67c45dfffa",
+      "title": "Áp lực 'tìm lại hào quang' của Starbucks trước loạt đối thủ",
+      "link": "https://vnexpress.net/ap-luc-tim-lai-hao-quang-cua-starbucks-truoc-loat-doi-thu-5012479.html",
+      "summary": "Starbucks đang chịu sức ép trước hàng loạt đối thủ 7 Brew, Scooter’s Coffee, Dutch Bros tại Mỹ, cùng mối đe dọa tiềm ẩn từ các thương hiệu giá rẻ Trung Quốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-01T11:05:00+07:00",
+      "fetched": "2026-02-01T19:28:27.410600+07:00"
+    },
+    {
+      "id": "29754e32c859b9f91d1b92c3ecd16fe2",
+      "title": "‘Khát’ nhân lực trẻ, doanh nghiệp sẵn sàng ký hợp đồng khi sinh viên chưa tốt nghiệp",
+      "link": "https://thanhnien.vn/khat-nhan-luc-tre-doanh-nghiep-san-sang-ky-hop-dong-khi-sinh-vien-chua-tot-nghiep-185260201165853881.htm",
+      "summary": "Rất nhiều doanh nghiệp có mặt tại Ngày hội việc làm Trường ĐH Thủy lợi lần 1 cho biết, lĩnh vực kỹ thuật, xây dựng, hạ tầng hiện đang 'khát' nhân lực trẻ có trình độ đại học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:01:00+07:00",
+      "fetched": "2026-02-01T19:28:24.503677+07:00"
+    },
+    {
+      "id": "b86e778eb0ecc156df920584fcb93c81",
+      "title": "Chồng đánh tôi tới nhập viện",
+      "link": "https://vnexpress.net/bao-hanh-gia-dinh-am-anh-viec-bi-chong-danh-toi-nhap-vien-5012411.html",
+      "summary": "Tôi nhớ lại cảm giác sợ hãi, tủi thân và cả sự bất lực của chính mình lúc đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:00:00+07:00",
+      "fetched": "2026-02-01T19:28:21.389258+07:00"
+    },
+    {
+      "id": "0487cc91226dd4bae27b44c9d29d9fea",
+      "title": "8 mẹo đơn giản giúp làm mới phong cách công sở mùa đông",
+      "link": "https://thanhnien.vn/thoi-trang-tre/8-meo-don-gian-giup-lam-moi-phong-cach-cong-so-mua-dong-185260130103528407.htm",
+      "summary": "Mùa đông, chúng ta đều có những công thức trang phục công sở quen thuộc, đủ an toàn nhưng cũng dễ tạo cảm giác nhàm chán. Khi thời tiết lạnh giá, việc cân bằng giữa giữ ấm và sự thoải mái càng trở nên quan trọng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T11:00:00+07:00",
+      "fetched": "2026-02-01T19:28:24.503830+07:00"
+    },
+    {
+      "id": "2cd37d5aae9c5e8ee0676122c4a89a8d",
+      "title": "Điều tra nghi án con dùng dao đâm cha tử vong ở Đồng Nai",
+      "link": "https://thanhnien.vn/dieu-tra-nghi-an-con-dung-dao-dam-cha-tu-vong-o-dong-nai-185260201171447757.htm",
+      "summary": "Trong lúc giằng co, xô xát, N.M.H được cho là đã dùng dao đâm cha tử vong cùng 1 người bác bị thương nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T10:58:00+07:00",
+      "fetched": "2026-02-01T19:28:24.504022+07:00"
+    },
+    {
+      "id": "5a29d369507dd01483e5583573c92f31",
+      "title": "Định hướng tương lai từ Ngày hội tuyển dụng",
+      "link": "https://thanhnien.vn/dinh-huong-tuong-lai-tu-ngay-hoi-tuyen-dung-185260201174702035.htm",
+      "summary": "Với cách tổ chức bài bản, gắn kết chặt chẽ giữa đào tạo và nhu cầu thực tiễn, ngày hội tuyển dụng Open Day & Job Fair 2026 đã khẳng định vai trò cầu nối quan trọng giữa nhà trường, sinh viên và doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T10:56:00+07:00",
+      "fetched": "2026-02-01T19:28:24.504199+07:00"
+    },
+    {
+      "id": "9150a899e7df208d6edeb9e43faac9af",
+      "title": "Vụ nghi vấn sửa điểm thi: Trường THPT Tô Hiến Thành kết luận do lỗi kỹ thuật",
+      "link": "https://thanhnien.vn/vu-nghi-van-sua-diem-thi-truong-thpt-to-hien-thanh-ket-luan-do-loi-ky-thuat-185260201171621768.htm",
+      "summary": "Kết quả kiểm tra của Trường THPT Tô Hiến Thành (P.Hạc Thành, Thanh Hóa) chưa phát hiện trường hợp giáo viên có hành vi cố ý can thiệp, nâng điểm hoặc làm sai lệch kết quả đánh giá học tập của học sinh vì mục đích cá nhân. Các sai sót điểm thi là do lỗi kỹ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T10:51:00+07:00",
+      "fetched": "2026-02-01T19:28:24.504353+07:00"
+    },
+    {
+      "id": "a9145ab7c6441c60b3fe5429cdf67456",
+      "title": "Lần đầu tiên, cư dân Côn Đảo có lưới điện thông minh đón tết",
+      "link": "https://thanhnien.vn/lan-dau-tien-cu-dan-con-dao-co-luoi-dien-thong-minh-don-tet-185260201082738171.htm",
+      "summary": "Chiều 1.2, Tổng công ty Điện lực TP.HCM (EVNHCMC) đã tổ chức Lễ khánh thành và gắn biển công trình xây dựng lưới điện thông minh tại đặc khu Côn Đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T10:50:00+07:00",
+      "fetched": "2026-02-01T19:28:24.504510+07:00"
+    },
+    {
+      "id": "0c1b38f1635ef3a09cc4e8875a9bf9b7",
+      "title": "5 nghệ sĩ đoạt nhiều giải Grammy nhất",
+      "link": "https://vnexpress.net/5-nghe-si-doat-nhieu-giai-grammy-nhat-5012508.html",
+      "summary": "Ca sĩ Beyoncé, 45 tuổi, lập kỷ lục nhận nhiều kèn vàng nhất lịch sử Grammy, vượt qua những tên tuổi như nhà sản xuất âm nhạc Quincy Jones, nghệ sĩ Alison Krauss.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T10:49:37+07:00",
+      "fetched": "2026-02-01T19:28:21.389419+07:00"
+    },
+    {
+      "id": "109692cd7ed631f7387ebc60244f60f4",
+      "title": "Điểm tin 17h: TP HCM bắn pháo hoa 17 điểm mừng Tết Bính Ngọ | Thu hồi 21 lô bánh ăn dặm Gerber của Nestlé",
+      "link": "https://vnexpress.net/diem-tin-17h-tp-hcm-ban-phao-hoa-17-diem-mung-tet-binh-ngo-thu-hoi-21-lo-banh-an-dam-gerber-cua-nestle-5012546.html",
+      "summary": "Nhiều hàng hóa tăng giá sớm trước Tết; Miền Bắc đầu tuần tạnh ráo, cuối tuần mưa rét;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T10:09:40+07:00",
+      "fetched": "2026-02-01T19:28:21.389592+07:00"
+    },
+    {
+      "id": "6007e773491341cc5d53f59c013d7e57",
+      "title": "Mẹo để chấm dứt tật hay quên",
+      "link": "https://vnexpress.net/meo-de-cham-dut-tat-hay-quen-5012533.html",
+      "summary": "Đừng vội trách mình lẩm cẩm, việc bạn liên tục phải tìm chìa khóa hay điện thoại do lỗi của sự chú ý chứ không phải trí nhớ kém.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T10:05:19+07:00",
+      "fetched": "2026-02-01T19:28:21.389752+07:00"
+    },
+    {
+      "id": "8bf7c2acbb939ec3a99c9bcfe2cfda74",
+      "title": "Mỹ ủng hộ Trung Quốc đầu tư vào dầu mỏ Venezuela",
+      "link": "https://vnexpress.net/my-ung-ho-trung-quoc-dau-tu-vao-dau-mo-venezuela-5012540.html",
+      "summary": "Tổng thống Trump bày tỏ hoan nghênh đầu tư của Trung Quốc vào ngành dầu mỏ Venezuela, trong lúc quốc gia Nam Mỹ tìm cách vực dậy nền kinh tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T10:04:41+07:00",
+      "fetched": "2026-02-01T19:28:21.389908+07:00"
+    },
+    {
+      "id": "8bf7c2acbb939ec3a99c9bcfe2cfda74",
+      "title": "Mỹ ủng hộ Trung Quốc đầu tư vào dầu mỏ Venezuela",
+      "link": "https://vnexpress.net/my-ung-ho-trung-quoc-dau-tu-vao-dau-mo-venezuela-5012540.html",
+      "summary": "Tổng thống Trump bày tỏ hoan nghênh đầu tư của Trung Quốc vào ngành dầu mỏ Venezuela, trong lúc quốc gia Nam Mỹ tìm cách vực dậy nền kinh tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-01T10:04:41+07:00",
+      "fetched": "2026-02-01T19:28:26.325392+07:00"
+    },
+    {
       "id": "a6a820c53d3ae246821f39d4ef4755be",
       "title": "Xổ số miền Nam ngày 1 tháng 2: Bất ngờ vé trúng đài Tiền Giang",
       "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-1-thang-2-bat-ngo-ve-trung-dai-tien-giang-18526020116532299.htm",
@@ -611,6 +991,16 @@ window.newsData_2026_02_01 = {
       "category": "Tổng hợp",
       "published": "2026-02-01T10:02:00+07:00",
       "fetched": "2026-02-01T17:16:28.115972+07:00"
+    },
+    {
+      "id": "47e32abd3b287f81db5a723efc0e4af3",
+      "title": "Kinh doanh mỹ phẩm ghi nhãn không đúng sự thật, một công ty bị phạt 150 triệu đồng",
+      "link": "https://vnexpress.net/kinh-doanh-my-pham-ghi-nhan-khong-dung-su-that-mot-cong-ty-bi-phat-150-trieu-dong-5012476.html",
+      "summary": "Cục Quản lý Dược phạt Công ty TNHH Thương mại Vạn Minh 150 triệu đồng do kinh doanh mỹ phẩm ghi thông tin trên nhãn không đúng bản chất, sai lệch hồ sơ công bố và công thức đã được phê duyệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T10:01:37+07:00",
+      "fetched": "2026-02-01T19:28:21.390035+07:00"
     },
     {
       "id": "98ff27e7b544cacbd7c37de4792fd8bb",
@@ -731,6 +1121,16 @@ window.newsData_2026_02_01 = {
       "category": "Tổng hợp",
       "published": "2026-02-01T09:19:36+07:00",
       "fetched": "2026-02-01T17:16:25.398931+07:00"
+    },
+    {
+      "id": "e9ff86bd380aac5b5d1aa0cfd922ff1b",
+      "title": "Đường dây bán thuốc lá điện tử tẩm ma tuý cho sinh viên",
+      "link": "https://vnexpress.net/duong-day-ban-thuoc-la-dien-tu-tam-ma-tuy-cho-sinh-vien-5012532.html",
+      "summary": "Công an vừa bắt 17 người trong đường dây mua bán trái phép ma túy núp bóng thuốc lá điện tử pod chill, tinh dầu với quảng cáo gian dối \"không nghiện\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T09:19:36+07:00",
+      "fetched": "2026-02-01T19:28:21.390518+07:00"
     },
     {
       "id": "8df61cb5a4808c142bc2cc1933f09b1a",
@@ -1021,6 +1421,16 @@ window.newsData_2026_02_01 = {
       "category": "Thể thao",
       "published": "2026-02-01T08:15:00+07:00",
       "fetched": "2026-02-01T17:16:35.899514+07:00"
+    },
+    {
+      "id": "a36d8d638325fc65306e7bb680082118",
+      "title": "Alcaraz hạ Djokovic, lần đầu vô địch Australia Mở rộng",
+      "link": "https://vnexpress.net/ket-qua-alcaraz-vs-djokovic-5012515.html",
+      "summary": "Tay vợt số một thế giới Carlos Alcaraz thắng huyền thoại Novak Djokovic 2-6, 6-2, 6-3, 7-5 ở chung kết Australia Mở rộng 2026 hôm 1/2.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-01T08:15:00+07:00",
+      "fetched": "2026-02-01T19:28:31.322232+07:00"
     },
     {
       "id": "e9f54a2154b423bdabe08c45a968bb57",
