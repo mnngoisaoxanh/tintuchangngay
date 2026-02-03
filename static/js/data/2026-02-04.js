@@ -1,6 +1,6 @@
 window.newsData_2026_02_04 = {
   "date": "2026-02-04",
-  "lastUpdated": "2026-02-04T03:25:56.828041+07:00",
+  "lastUpdated": "2026-02-04T05:21:19.941515+07:00",
   "articles": [
     {
       "id": "5b39afc34e736a61b288a546e9db7009",
@@ -151,6 +151,206 @@ window.newsData_2026_02_04 = {
       "category": "Tổng hợp",
       "published": "2026-02-04T01:42:42.365581+07:00",
       "fetched": "2026-02-04T01:42:42.365799+07:00"
+    },
+    {
+      "id": "751cfae4a3297e58f9ca353221b55c41",
+      "title": "Thẩm mỹ chui bủa vây - Kỳ 3: Chủ bỏ chạy khi lực lượng chức năng 'đột kích'",
+      "link": "https://thanhnien.vn/tham-my-chui-bua-vay-ky-3-chu-bo-chay-khi-luc-luong-chuc-nang-dot-kich-185260203221236216.htm",
+      "summary": "Đột kích 'lò' thẩm mỹ chui tại khu dân cư Cityland (TP.HCM): Chủ bỏ chạy, nhân viên vứt áo blouse. Sự thật trần trụi về chiêu trò tuyển mẫu miễn phí và những ca phẫu thuật xâm lấn không phép đã bị phóng viên Báo Thanh Niên và cơ quan chức năng lật tẩy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T22:20:00+07:00",
+      "fetched": "2026-02-04T05:21:11.472424+07:00"
+    },
+    {
+      "id": "28ca9f722308772e01a6b47b91bc9eaa",
+      "title": "Tử vi ngày 4 tháng 2: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-4-thang-2-con-giap-nao-may-man-hom-nay-185260203231532982.htm",
+      "summary": "Tử vi ngày 4 tháng 2 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T22:15:00+07:00",
+      "fetched": "2026-02-04T05:21:11.472595+07:00"
+    },
+    {
+      "id": "e9363125dbb0bff1a141d8f2958cefd6",
+      "title": "Chiến sự Ukraine ngày 1.441: Kyiv hứng đòn không kích lớn",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1441-kyiv-hung-don-khong-kich-lon-185260203185711943.htm",
+      "summary": "Ukraine cáo buộc lực lượng Nga đã tiến hành một cuộc tấn công đường không quy mô lớn bằng tên lửa và máy bay không người lái (UAV), nhắm vào nhiều cơ sở năng lượng trên khắp nước này, khiến ít nhất 9 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T22:11:00+07:00",
+      "fetched": "2026-02-04T05:21:11.472731+07:00"
+    },
+    {
+      "id": "49af10438279644c44d11dbc50ab1332",
+      "title": "Chuyện tử tế: Ấm lòng với xuân biên phòng",
+      "link": "https://thanhnien.vn/chuyen-tu-te-am-long-voi-xuan-bien-phong-185260203190447543.htm",
+      "summary": "Những ngày giáp tết, các bản làng biên giới Quảng Trị rộn ràng trong sắc xuân và nghĩa tình quân dân. Chương trình \"Xuân biên phòng, ấm lòng dân bản\" được các đồn biên phòng đồng loạt triển khai đã mang hơi ấm mùa xuân đến từng nếp nhà, từng phận người nơi vùng biên còn nhiều khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T22:01:00+07:00",
+      "fetched": "2026-02-04T05:21:11.472864+07:00"
+    },
+    {
+      "id": "f624c046a868838223eb1ff68c1c3312",
+      "title": "Phi công ngoại thất thế ở Trung Quốc",
+      "link": "https://vnexpress.net/phi-cong-ngoai-that-the-o-trung-quoc-5013361.html",
+      "summary": "Sau nhiều năm được chào đón với chế độ đãi ngộ cao, phi công nước ngoài ở Trung Quốc giảm mạnh, khi các cơ trưởng nội địa không ngừng trưởng thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T22:00:00+07:00",
+      "fetched": "2026-02-04T05:21:07.849974+07:00"
+    },
+    {
+      "id": "8f29834b2dc032b47c1248ab116bac88",
+      "title": "Thiếu niên 17 tuổi trở về từ cửa tử nhờ trái tim người lạ",
+      "link": "https://vnexpress.net/thieu-nien-17-tuoi-tro-ve-tu-cua-tu-nho-trai-tim-nguoi-la-5013210.html",
+      "summary": "Gần một năm trước, Phạm Quang Anh, 17 tuổi, nằm trên bàn mổ với trái tim kiệt quệ, kẹt giữa ranh giới sống chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T22:00:00+07:00",
+      "fetched": "2026-02-04T05:21:07.850134+07:00"
+    },
+    {
+      "id": "566806b1f05e983ce5eb84c09e76bbc0",
+      "title": "Công ty đào hầm xuyên lòng đất của Elon Musk hiện thế nào",
+      "link": "https://vnexpress.net/cong-ty-dao-ham-xuyen-long-dat-cua-elon-musk-hien-the-nao-5012863.html",
+      "summary": "Elon Musk thành lập Boring Company với tham vọng xây đường hầm xuyên lòng đất, nhưng công ty \"im hơi lặng tiếng\" gần 10 năm trước khi Chủ tịch lên tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T22:00:00+07:00",
+      "fetched": "2026-02-04T05:21:07.850276+07:00"
+    },
+    {
+      "id": "2ab70fb09a9cd6dadbd2cd0bc0acade0",
+      "title": "Những kiểu cần gạt mưa không nhiều người để ý",
+      "link": "https://vnexpress.net/nhung-kieu-can-gat-mua-khong-nhieu-nguoi-de-y-5013435.html",
+      "summary": "Kiểu gạt song song là thiết kế phổ biến nhất, nhưng ngoài ra còn có cách gạt đối xứng, gạt đơn hay hình bình hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T22:00:00+07:00",
+      "fetched": "2026-02-04T05:21:07.850423+07:00"
+    },
+    {
+      "id": "f336d446d4e5d05bbd60987543e9473b",
+      "title": "Cảnh báo những tác hại khi uống cà phê lúc đói",
+      "link": "https://thanhnien.vn/canh-bao-nhung-tac-hai-khi-uong-ca-phe-luc-doi-185260203112419123.htm",
+      "summary": "Cà phê là một trong những thức uống được yêu thích nhất thế giới nhờ khả năng tăng cường sự tỉnh táo, tối ưu hiệu suất tập luyện và hỗ trợ não bộ làm việc hiệu quả. Tuy nhiên, uống cà phê khi bụng đói có thể là \"con dao hai lưỡi\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T22:00:00+07:00",
+      "fetched": "2026-02-04T05:21:11.472992+07:00"
+    },
+    {
+      "id": "4564924bb51d379d5e55ca19047a0d4a",
+      "title": "Hôm nay 4.2, tiết Lập xuân bắt đầu lần thứ hai trong một năm âm lịch",
+      "link": "https://thanhnien.vn/hom-nay-42-tiet-lap-xuan-bat-dau-lan-thu-hai-trong-mot-nam-am-lich-185260203093331047.htm",
+      "summary": "Ngày 4.2 hôm nay tiết Lập xuân chính thức bắt đầu ở Việt Nam. Đặc biệt, đây là lần thứ hai trong năm Ất Tỵ người Việt đón tiết khí này, theo lịch âm có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T22:00:00+07:00",
+      "fetched": "2026-02-04T05:21:11.473121+07:00"
+    },
+    {
+      "id": "f624c046a868838223eb1ff68c1c3312",
+      "title": "Phi công ngoại thất thế ở Trung Quốc",
+      "link": "https://vnexpress.net/phi-cong-ngoai-that-the-o-trung-quoc-5013361.html",
+      "summary": "Sau nhiều năm được chào đón với chế độ đãi ngộ cao, phi công nước ngoài ở Trung Quốc giảm mạnh, khi các cơ trưởng nội địa không ngừng trưởng thành.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-03T22:00:00+07:00",
+      "fetched": "2026-02-04T05:21:13.757700+07:00"
+    },
+    {
+      "id": "566806b1f05e983ce5eb84c09e76bbc0",
+      "title": "Công ty đào hầm xuyên lòng đất của Elon Musk hiện thế nào",
+      "link": "https://vnexpress.net/cong-ty-dao-ham-xuyen-long-dat-cua-elon-musk-hien-the-nao-5012863.html",
+      "summary": "Elon Musk thành lập Boring Company với tham vọng xây đường hầm xuyên lòng đất, nhưng công ty \"im hơi lặng tiếng\" gần 10 năm trước khi Chủ tịch lên tiếng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-03T22:00:00+07:00",
+      "fetched": "2026-02-04T05:21:18.274763+07:00"
+    },
+    {
+      "id": "c60aaa01201ec1635c31f9f19bc10b89",
+      "title": "'Thuốc thử' mạnh với Thanh Thúy cùng bóng chuyền nữ Việt Nam",
+      "link": "https://thanhnien.vn/thuoc-thu-manh-voi-thanh-thuy-cung-bong-chuyen-nu-viet-nam-185260203220631784.htm",
+      "summary": "Trần Thị Thanh Thúy cùng đội tuyển bóng chuyền nữ VN chạm trán với các đối thủ đáng gờm tại giải bóng chuyền nữ châu Á AVC Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:59:00+07:00",
+      "fetched": "2026-02-04T05:21:11.473257+07:00"
+    },
+    {
+      "id": "aea7b0e2ed8faab9e67e6606cb0cc248",
+      "title": "Đà Nẵng đấu giá trực tuyến 64 lô đất 'vàng': Vị trí, giá khởi điểm ra sao?",
+      "link": "https://thanhnien.vn/da-nang-dau-gia-truc-tuyen-64-lo-dat-vang-vi-tri-gia-khoi-diem-ra-sao-185260203180244153.htm",
+      "summary": "64 lô đất ở tại các vị trí đắc địa trên địa bàn nhiều phường ở TP.Đà Nẵng sẽ được đấu giá công khai với khởi điểm hơn 330 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:47:00+07:00",
+      "fetched": "2026-02-04T05:21:11.473387+07:00"
+    },
+    {
+      "id": "a0dbbcd9245d9897d83662c6d44135f7",
+      "title": "Quay đầu giảm sâu, giá vàng thế giới sẽ về đâu?",
+      "link": "https://thanhnien.vn/quay-dau-giam-sau-gia-vang-the-gioi-se-ve-dau-185260203213359159.htm",
+      "summary": "Vừa trải qua một tuần \"điên rồ\" khi giảm giá sâu, giá vàng lẫn giá bạc đang đứng trước xu hướng nào, tương lai ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:31:00+07:00",
+      "fetched": "2026-02-04T05:21:11.473524+07:00"
+    },
+    {
+      "id": "cd50613048dfaa73646524b5013a1d00",
+      "title": "Từ 2056 dân số Việt Nam sẽ siêu già",
+      "link": "https://thanhnien.vn/tu-2056-dan-so-viet-nam-se-sieu-gia-185260203191652875.htm",
+      "summary": "Dự báo Việt Nam (VN) sẽ có cơ cấu dân số siêu già từ năm 2056 nếu không có giải pháp hiệu quả nâng mức sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:12:00+07:00",
+      "fetched": "2026-02-04T05:21:11.473653+07:00"
+    },
+    {
+      "id": "ae8692b5a1cb7fde56c55390c9beea6f",
+      "title": "Kiểm tra đột xuất 121 trung tâm hội nghị, nhà hàng tiệc cưới ở TP.HCM",
+      "link": "https://thanhnien.vn/kiem-tra-dot-xuat-121-trung-tam-hoi-nghi-nha-hang-tiec-cuoi-o-tphcm-185260203185353723.htm",
+      "summary": "Qua kiểm tra đột xuất 121 trung tâm hội nghị, nhà hàng tiệc cưới trên địa bàn, Sở An toàn thực phẩm TP.HCM phát hiện 1 cơ sở vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:11:00+07:00",
+      "fetched": "2026-02-04T05:21:11.473779+07:00"
+    },
+    {
+      "id": "7f7c55e06af9f2962160a9dc68ae3c38",
+      "title": "SUV mới của Toyota có thể thay thế Highlander",
+      "link": "https://vnexpress.net/suv-moi-cua-toyota-co-the-thay-the-highlander-5013310.html",
+      "summary": "Mẫu SUV ba hàng ghế mới vừa được Toyota hé lộ được cho là phù hợp với chiến lược đã được hãng lên kế hoạch từ lâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:00:00+07:00",
+      "fetched": "2026-02-04T05:21:07.850572+07:00"
+    },
+    {
+      "id": "78c86b98afc35824b4e4af27d42599da",
+      "title": "Nguy cơ quá tải đe dọa U.23 Việt Nam",
+      "link": "https://thanhnien.vn/nguy-co-qua-tai-de-doa-u23-viet-nam-185260203220220442.htm",
+      "summary": "Chấn thương dây chằng của Thái Sơn là lời cảnh báo cho lứa U.23 VN, vốn căng mình thi đấu cường độ cao suốt 2 tháng nhưng không có nổi 1 tuần nghỉ ngơi để hồi phục năng lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:00:00+07:00",
+      "fetched": "2026-02-04T05:21:11.473906+07:00"
+    },
+    {
+      "id": "03e90aa080a4452fd03769829b51f541",
+      "title": "Thông báo mới nhất về hành vi trốn đóng BHXH ở TP.HCM",
+      "link": "https://thanhnien.vn/thong-bao-moi-nhat-ve-hanh-vi-tron-dong-bhxh-o-tphcm-185260203210029548.htm",
+      "summary": "Cơ quan Bảo hiểm xã hội (BHXH) TP.HCM lưu ý đặc biệt đến doanh nghiệp về việc chậm đóng BHXH sau 60 ngày có thể sẽ bị chuyển thành trốn đóng, và hướng dẫn kiến nghị khởi tố các hành vi vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:00:00+07:00",
+      "fetched": "2026-02-04T05:21:11.474034+07:00"
     },
     {
       "id": "2dd989b21f9f5c96d273ba26495003cd",
