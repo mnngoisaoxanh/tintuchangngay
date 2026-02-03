@@ -1,6 +1,6 @@
 window.newsData_2026_02_04 = {
   "date": "2026-02-04",
-  "lastUpdated": "2026-02-04T01:42:48.947279+07:00",
+  "lastUpdated": "2026-02-04T03:25:56.828041+07:00",
   "articles": [
     {
       "id": "5b39afc34e736a61b288a546e9db7009",
@@ -151,6 +151,76 @@ window.newsData_2026_02_04 = {
       "category": "Tổng hợp",
       "published": "2026-02-04T01:42:42.365581+07:00",
       "fetched": "2026-02-04T01:42:42.365799+07:00"
+    },
+    {
+      "id": "2dd989b21f9f5c96d273ba26495003cd",
+      "title": "Thẩm phán Mỹ 'cứu' 350.000 người Haiti khỏi nguy cơ bị trục xuất",
+      "link": "https://vnexpress.net/tham-phan-my-cuu-350-000-nguoi-haiti-khoi-nguy-co-bi-truc-xuat-5013592.html",
+      "summary": "Thẩm phán liên bang ngăn chính phủ Mỹ hủy Quy chế Bảo vệ Tạm thời với khoảng 350.000 người nhập cư từ Haiti, giúp họ tránh bị trục xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T20:00:00+07:00",
+      "fetched": "2026-02-04T03:25:46.636893+07:00"
+    },
+    {
+      "id": "2dd989b21f9f5c96d273ba26495003cd",
+      "title": "Thẩm phán Mỹ 'cứu' 350.000 người Haiti khỏi nguy cơ bị trục xuất",
+      "link": "https://vnexpress.net/tham-phan-my-cuu-350-000-nguoi-haiti-khoi-nguy-co-bi-truc-xuat-5013592.html",
+      "summary": "Thẩm phán liên bang ngăn chính phủ Mỹ hủy Quy chế Bảo vệ Tạm thời với khoảng 350.000 người nhập cư từ Haiti, giúp họ tránh bị trục xuất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-03T20:00:00+07:00",
+      "fetched": "2026-02-04T03:25:52.526387+07:00"
+    },
+    {
+      "id": "2600d0202bea1e4bb91a8e15963480de",
+      "title": "Đội tuyển futsal Việt Nam ngẩng cao đầu rời giải châu Á",
+      "link": "https://thanhnien.vn/doi-tuyen-futsal-viet-nam-ngang-cao-dau-roi-giai-chau-a-185260203222602545.htm",
+      "summary": "Đội tuyển futsal VN dù nhận thất bại 2-3 trước Indonesia ở tứ kết châu Á, nhưng có thể ngẩng cao đầu rời giải với tinh thần chiến đấu không buông bỏ đến giây cuối cùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T19:59:00+07:00",
+      "fetched": "2026-02-04T03:25:49.695330+07:00"
+    },
+    {
+      "id": "fb74a94431e4ec59a16beedfb2c37668",
+      "title": "46 người ở TP HCM nghi ngộ độc sau ăn tiệc tất niên",
+      "link": "https://vnexpress.net/46-nguoi-o-tp-hcm-nghi-ngo-doc-sau-an-tiec-tat-nien-5013720.html",
+      "summary": "46 nguời đau bụng, tiêu chảy, sốt... nghi ngộ độc, sau ăn tiệc tất niên tại phường Bà Rịa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T19:30:12+07:00",
+      "fetched": "2026-02-04T03:25:46.637050+07:00"
+    },
+    {
+      "id": "25b4d19d1a595e8f96504e2e6dc4d236",
+      "title": "5 bệnh 'sát thủ thầm lặng' ít dấu hiệu cảnh báo",
+      "link": "https://vnexpress.net/5-benh-sat-thu-tham-lang-it-dau-hieu-canh-bao-5013621.html",
+      "summary": "Gan nhiễm mỡ, bệnh tim mạch, tăng huyết áp, HIV và bệnh tiểu đường type 2 có thể tiến triển nặng trong thời gian dài trước khi triệu chứng xuất hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T19:00:00+07:00",
+      "fetched": "2026-02-04T03:25:46.637196+07:00"
+    },
+    {
+      "id": "fb36d00ce47161dcad456cc07409874c",
+      "title": "Chuyện chưa kể về bộ lạc Amazon bao vây, sát hại nhà thám hiểm",
+      "link": "https://vnexpress.net/chuyen-chua-ke-ve-bo-lac-amazon-bao-vay-sat-hai-nha-tham-hiem-5013735.html",
+      "summary": "Người của bộ lạc Amazon bắt chước tiếng gọi của khỉ và chim, bao vây con mồi, kể cả con người, sau đó bất ngờ dùng tên tấn công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T18:50:09+07:00",
+      "fetched": "2026-02-04T03:25:46.637335+07:00"
+    },
+    {
+      "id": "62eea7bd21bd9c21f13f8e90ee79aa5d",
+      "title": "Vì sao trẻ cần 'ốm vặt' nhiều lần trước 6 tuổi?",
+      "link": "https://vnexpress.net/vi-sao-tre-can-om-vat-nhieu-lan-truoc-6-tuoi-5012205.html",
+      "summary": "Các chuyên gia cho rằng việc trẻ mắc bệnh vặt trong những năm đầu đời đóng vai trò thiết yếu giúp hệ miễn dịch trưởng thành, cảnh báo bao bọc quá kỹ có thể dẫn đến \"ốm bù\" nghiêm trọng khi vào tiểu học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T18:05:00+07:00",
+      "fetched": "2026-02-04T03:25:46.637471+07:00"
     },
     {
       "id": "4170918e243bc156969d586bff8f04bb",
