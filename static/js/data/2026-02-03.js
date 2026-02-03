@@ -1,7 +1,147 @@
 window.newsData_2026_02_03 = {
   "date": "2026-02-03",
-  "lastUpdated": "2026-02-03T21:38:18.099763+07:00",
+  "lastUpdated": "2026-02-03T23:41:15.537673+07:00",
   "articles": [
+    {
+      "id": "74f1fdde668aa00cf3cbaab0e029e011",
+      "title": "Year End Party nhà DatVietVAC - quy tụ và gắn kết giá trị",
+      "link": "https://tuoitre.vn/year-end-party-nha-datvietvac-quy-tu-va-gan-ket-gia-tri-20260203194236102.htm",
+      "summary": "Year End Party dần trở thành một “tấm gương phản chiếu” cách DatVietVAC nhìn nhận và theo đuổi giá trị văn hóa: lấy con người làm trung tâm, sáng tạo làm động lực và cộng đồng làm điểm đến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T23:41:09.356900+07:00",
+      "fetched": "2026-02-03T23:41:09.357020+07:00"
+    },
+    {
+      "id": "67717d8e8ef1ed53b61881986e1e81f3",
+      "title": "'Tinh thần Iberia' tại Casa Villa, Vũng Tàu",
+      "link": "https://tuoitre.vn/tinh-than-iberia-tai-casa-villa-vung-tau-20260203195903566.htm",
+      "summary": "Thiên nhiên Vũng Tàu là món quà quý. Vùng biển nên thơ cùng cảnh sắc “sơn thủy hữu tình” trời ban đã mê hoặc biết bao lữ khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T23:41:09.356775+07:00",
+      "fetched": "2026-02-03T23:41:09.356889+07:00"
+    },
+    {
+      "id": "8317b10544a2033ebd9d48e27f0d1a07",
+      "title": "Choáng với tờ bài tập về nhà ‘to bằng cái mền’ của học sinh Trung Quốc",
+      "link": "https://tuoitre.vn/choang-voi-to-bai-tap-ve-nha-to-bang-cai-men-cua-hoc-sinh-trung-quoc-20260203171824239.htm",
+      "summary": "Các bậc phụ huynh Trung Quốc đã sáng tạo ra trào lưu in tờ bài tập khổ khổng lồ cho con, nhằm khuyến khích học tập và giảm bớt áp lực cho trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T23:41:09.356649+07:00",
+      "fetched": "2026-02-03T23:41:09.356765+07:00"
+    },
+    {
+      "id": "5b39afc34e736a61b288a546e9db7009",
+      "title": "Sợ gương giao thông chĩa vào nhà 'khắc phong thủy', người phụ nữ tự chỉnh gây loạt tai nạn",
+      "link": "https://tuoitre.vn/so-guong-giao-thong-chia-vao-nha-khac-phong-thuy-nguoi-phu-nu-tu-chinh-gay-loat-tai-nan-20260203200326127.htm",
+      "summary": "Một người phụ nữ nhiều lần tự ý điều chỉnh gương quan sát giao thông trong khu dân cư vì lý do “phong thủy”, gây ra hàng loạt vụ tai nạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T23:41:09.356517+07:00",
+      "fetched": "2026-02-03T23:41:09.356637+07:00"
+    },
+    {
+      "id": "26670f13670c24f245570a7dccb43a8d",
+      "title": "Phát động cuộc thi tìm hiểu về bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp",
+      "link": "https://tuoitre.vn/phat-dong-cuoc-thi-tim-hieu-ve-bau-cu-dai-bieu-quoc-hoi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-20260203193050056.htm",
+      "summary": "Sáng 3-2, Sở Tư pháp TP.HCM phối hợp với báo Pháp Luật TP.HCM tổ chức hội nghị phát động cuộc thi “Công dân với bầu cử đại biểu Quốc hội khóa XVI và bầu cử đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T23:41:09.356371+07:00",
+      "fetched": "2026-02-03T23:41:09.356505+07:00"
+    },
+    {
+      "id": "1a0c7db40b05b4e55de5507a507d76da",
+      "title": "Bài đăng chống lừa đảo của Tổng thống Hàn Quốc vấp tranh cãi tại Campuchia, phải gỡ bỏ",
+      "link": "https://tuoitre.vn/bai-dang-chong-lua-dao-cua-tong-thong-han-quoc-vap-tranh-cai-tai-campuchia-phai-go-bo-20260203202735663.htm",
+      "summary": "Bài đăng cảnh báo các mạng lưới lừa đảo xuyên quốc gia của Tổng thống Lee đã làm khiến dư luận Campuchia phản ứng dữ dội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T23:41:09.356244+07:00",
+      "fetched": "2026-02-03T23:41:09.356359+07:00"
+    },
+    {
+      "id": "c52b01ddde7583499b17edd4b06d6c0a",
+      "title": "Công an Đồng Nai chúc Tết, tặng quà cho công nhân Pouchen",
+      "link": "https://tuoitre.vn/cong-an-dong-nai-chuc-tet-tang-qua-cho-cong-nhan-pouchen-20260203202848203.htm",
+      "summary": "Giám đốc Công an tỉnh Đồng Nai trực tiếp đến thăm và tặng quà cho công nhân Công ty TNHH Pouchen Việt Nam nhân dịp Tết Nguyên đán 2026 sắp đến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T23:41:09.356116+07:00",
+      "fetched": "2026-02-03T23:41:09.356232+07:00"
+    },
+    {
+      "id": "b8f84d6509059caae0fc8b82587729af",
+      "title": "Jordan đề xuất khu thương mại tự do cho hàng Việt Nam tiến vào Trung Đông",
+      "link": "https://tuoitre.vn/jordan-de-xuat-khu-thuong-mai-tu-do-cho-hang-viet-nam-tien-vao-trung-dong-20260203204547833.htm",
+      "summary": "Đề xuất được Chủ tịch Hạ viện Jordan Mazen Turki El Qadi đưa ra vào ngày 3-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T23:41:09.355990+07:00",
+      "fetched": "2026-02-03T23:41:09.356105+07:00"
+    },
+    {
+      "id": "4e4b83c5347d95388ed465ceeb0a5573",
+      "title": "Giá vàng thế giới tăng mạnh, vượt 4.900 USD/ounce",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-tang-manh-vuot-4-900-usd-ounce-20260203203932543.htm",
+      "summary": "Cuối ngày hôm nay 3-2, giá vàng và giá bạc thế giới hồi phục mạnh, lên mức cao nhất là 4.940 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T23:41:09.355861+07:00",
+      "fetched": "2026-02-03T23:41:09.355979+07:00"
+    },
+    {
+      "id": "36505dfe613bd9f5ba9c302cc59a85ef",
+      "title": "Trao huy hiệu 40 năm tuổi Đảng tặng PGS.TS Trần Hoàng Ngân, luật sư Phan Trung Hoài",
+      "link": "https://tuoitre.vn/trao-huy-hieu-40-nam-tuoi-dang-tang-pgs-ts-tran-hoang-ngan-luat-su-phan-trung-hoai-20260203202605498.htm",
+      "summary": "PGS.TS Trần Hoàng Ngân (đảng viên Đảng bộ cơ quan Văn phòng Thành ủy TP) và luật sư Phan Trung Hoài (đảng viên Đảng bộ Mặt trận Tổ quốc Việt Nam TP) nhận huy hiệu 40 năm tuổi Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T23:41:09.355729+07:00",
+      "fetched": "2026-02-03T23:41:09.355849+07:00"
+    },
+    {
+      "id": "df5223dc9879abd5e17f6dfe4efa4834",
+      "title": "Yamaha ra mắt xe máy điện mới: 169km/sạc, giá ngang Honda Air Blade",
+      "link": "https://tuoitre.vn/yamaha-ra-mat-xe-may-dien-moi-169km-sac-gia-ngang-honda-air-blade-20260203152901522.htm",
+      "summary": "Yamaha EC-06 được kỳ vọng sẽ tạo dấu ấn trên thị trường xe máy điện nhờ tầm vận hành lớn, phù hợp với nhu cầu di chuyển hằng ngày trong đô thị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T23:41:09.355597+07:00",
+      "fetched": "2026-02-03T23:41:09.355717+07:00"
+    },
+    {
+      "id": "7446fc1d3f4991a3f78c5b6dbde7066e",
+      "title": "Duyên Quỳnh xin lỗi, nói rút kinh nghiệm sau ồn ào hát nhép",
+      "link": "https://tuoitre.vn/duyen-quynh-xin-loi-noi-rut-kinh-nghiem-sau-on-ao-hat-nhep-20260203211848735.htm",
+      "summary": "Ca sĩ Nguyễn Duyên Quỳnh xin lỗi khán giả vì những thiếu sót của bản thân, đồng thời ‘tự trách bản thân rất nhiều’ sau khi lộ hát nhép, tại lễ trao giải Làn sóng xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T23:41:09.355457+07:00",
+      "fetched": "2026-02-03T23:41:09.355585+07:00"
+    },
+    {
+      "id": "c911351371d63f32e20cdea8b9d20733",
+      "title": "CĐV bóng đá Thái Lan suy sụp vì 'sân cỏ thua Việt Nam, futsal thua Indonesia'",
+      "link": "https://tuoitre.vn/cdv-bong-da-thai-lan-suy-sup-vi-san-co-thua-viet-nam-futsal-thua-indonesia-20260203213610456.htm",
+      "summary": "Đông đảo người hâm mộ Thái Lan tỏ thái độ chán nản sau khi đội tuyển futsal nước nhà nhận thất bại với tỉ số 2-4 trước Iraq, ở vòng tứ kết Giải Futsal châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T23:41:09.355295+07:00",
+      "fetched": "2026-02-03T23:41:09.355443+07:00"
+    },
+    {
+      "id": "56dbb5e5a56cacad6d2921d23d7a93fe",
+      "title": "Myanmar ký thỏa thuận hợp tác quân sự với Nga đến năm 2030",
+      "link": "https://tuoitre.vn/myanmar-ky-thoa-thuan-hop-tac-quan-su-voi-nga-den-nam-2030-20260203213101416.htm",
+      "summary": "Các nhà phân tích nhận định thỏa thuận này sẽ giúp chính quyền quân sự Myanmar duy trì quyền lực trong bối cảnh nội chiến kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T23:41:09.355055+07:00",
+      "fetched": "2026-02-03T23:41:09.355274+07:00"
+    },
     {
       "id": "a95e150064a97d4ef1056ef665929df4",
       "title": "Tuyển sinh đầu cấp ở TP.HCM: Gặp 'lỗi' khi đăng ký, phải làm sao?",
@@ -453,6 +593,46 @@ window.newsData_2026_02_03 = {
       "fetched": "2026-02-03T17:30:28.106271+07:00"
     },
     {
+      "id": "3c362d6817687e769d12ff651d779688",
+      "title": "Đặc phái viên của Tổng Bí thư Tô Lâm hội đàm với Ngoại trưởng Trung Quốc",
+      "link": "https://vnexpress.net/dac-phai-vien-cua-tong-bi-thu-to-lam-hoi-dam-voi-ngoai-truong-trung-quoc-5013718.html",
+      "summary": "Bộ trưởng Lê Hoài Trung gặp Ngoại trưởng Vương Nghị, đề nghị Trung Quốc đẩy mạnh hợp tác trong các lĩnh vực trọng tâm mới, trong đó có khoa học công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T16:10:02+07:00",
+      "fetched": "2026-02-03T23:41:05.437445+07:00"
+    },
+    {
+      "id": "3c362d6817687e769d12ff651d779688",
+      "title": "Đặc phái viên của Tổng Bí thư Tô Lâm hội đàm với Ngoại trưởng Trung Quốc",
+      "link": "https://vnexpress.net/dac-phai-vien-cua-tong-bi-thu-to-lam-hoi-dam-voi-ngoai-truong-trung-quoc-5013718.html",
+      "summary": "Bộ trưởng Lê Hoài Trung gặp Ngoại trưởng Vương Nghị, đề nghị Trung Quốc đẩy mạnh hợp tác trong các lĩnh vực trọng tâm mới, trong đó có khoa học công nghệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-03T16:10:02+07:00",
+      "fetched": "2026-02-03T23:41:10.644950+07:00"
+    },
+    {
+      "id": "3d21738643540004297ec70542af3123",
+      "title": "Tổng Bí thư: Công tác thông tin, tuyên truyền phải thực sự là 'pháo lệnh' truyền cảm hứng",
+      "link": "https://thanhnien.vn/tong-bi-thu-cong-tac-thong-tin-tuyen-truyen-phai-thuc-su-la-phao-lenh-truyen-cam-hung-185260203224826617.htm",
+      "summary": "Tối 3.2, Tổng Bí thư Tô Lâm dự Lễ tuyên dương bí thư chi bộ xuất sắc; công bố, trao Giải báo chí toàn quốc về xây dựng Đảng - Búa liềm vàng lần thứ 10, năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T16:09:00+07:00",
+      "fetched": "2026-02-03T23:41:08.421209+07:00"
+    },
+    {
+      "id": "56121067ca2e762b2614bd6f2758af0b",
+      "title": "Chuyên gia: 3 loại rau dễ tìm là 'thần dược' cho thận yếu",
+      "link": "https://thanhnien.vn/chuyen-gia-3-loai-rau-de-tim-la-than-duoc-cho-than-yeu-185260203223623166.htm",
+      "summary": "Mọi người thường ít chú trọng đến thận yếu cho đến khi các dấu hiệu mệt mỏi, đau lưng hoặc sưng phù chân xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T15:36:00+07:00",
+      "fetched": "2026-02-03T23:41:08.421379+07:00"
+    },
+    {
       "id": "4f53619f96dc05c9ed0f07c393cf676c",
       "title": "Từ căn nhà vùng cao đến sân bay Gia Bình 196.000 tỉ: Ý Đảng theo bước chân bí thư chi bộ về với dân",
       "link": "https://tuoitre.vn/tu-can-nha-vung-cao-den-san-bay-gia-binh-196-000-ti-y-dang-theo-buoc-chan-bi-thu-chi-bo-ve-voi-dan-20260203113858569.htm",
@@ -603,6 +783,116 @@ window.newsData_2026_02_03 = {
       "fetched": "2026-02-03T15:26:29.729155+07:00"
     },
     {
+      "id": "f45ca323f564a59d246c8e304c552b0e",
+      "title": "HLV futsal Việt Nam cực kỳ nuối tiếc vì thua Indonesia, Đa Hải tự trách cứ một điều…",
+      "link": "https://thanhnien.vn/hlv-futsal-viet-nam-cuc-ky-nuoi-tiec-vi-thua-indonesia-da-hai-tu-trach-cu-mot-dieu-185260203221617307.htm",
+      "summary": "Phát biểu sau trận tứ kết VCK futsal châu Á 2026, HLV trưởng Diego Giustozzi đã có những chia sẻ thẳng thắn về màn trình diễn, những điều tiếc nuối cũng như bài học rút ra từ hành trình tại giải đấu của đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T15:25:00+07:00",
+      "fetched": "2026-02-03T23:41:08.421572+07:00"
+    },
+    {
+      "id": "3366a753fd1181bab36cea9e5cdd8d2a",
+      "title": "Xuồng vũ trang Iran tiếp cận tàu chở dầu Mỹ",
+      "link": "https://vnexpress.net/xuong-vu-trang-iran-tiep-can-tau-cho-dau-my-5013712.html",
+      "summary": "Một số xuồng vũ trang Iran tiếp cận một tàu chở dầu treo cờ Mỹ trên eo biển Hormuz, song không chặn được phương tiện này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T15:22:36+07:00",
+      "fetched": "2026-02-03T23:41:05.437632+07:00"
+    },
+    {
+      "id": "3366a753fd1181bab36cea9e5cdd8d2a",
+      "title": "Xuồng vũ trang Iran tiếp cận tàu chở dầu Mỹ",
+      "link": "https://vnexpress.net/xuong-vu-trang-iran-tiep-can-tau-cho-dau-my-5013712.html",
+      "summary": "Một số xuồng vũ trang Iran tiếp cận một tàu chở dầu treo cờ Mỹ trên eo biển Hormuz, song không chặn được phương tiện này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-03T15:22:36+07:00",
+      "fetched": "2026-02-03T23:41:10.645135+07:00"
+    },
+    {
+      "id": "2e6818105fe395e89ffdae669e54c5a8",
+      "title": "Có 6 người trúng giải nhất, giải độc đắc của Vietlott cộng dồn 47,3 tỉ đồng",
+      "link": "https://thanhnien.vn/co-6-nguoi-trung-giai-nhat-giai-doc-dac-cua-vietlott-cong-don-473-ti-dong-185260203190228493.htm",
+      "summary": "Tối 3.2, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, tuy nhiên không xuất hiện người trúng độc đắc nên số tiền cộng dồn là 47,3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T15:19:00+07:00",
+      "fetched": "2026-02-03T23:41:08.421731+07:00"
+    },
+    {
+      "id": "1379929a09d17e15b84527533cc32a5c",
+      "title": "Mỹ Tâm kể chuyện 'xin vai', hé lộ 'chiêu' khi tranh cãi với Mai Tài Phến",
+      "link": "https://thanhnien.vn/my-tam-ke-chuyen-xin-vai-he-lo-chieu-khi-tranh-cai-voi-mai-tai-phen-185260203194932972.htm",
+      "summary": "Tại sự kiện công bố phim 'Tài', Mỹ Tâm có những phút trải lòng về việc trở lại điện ảnh với vai trò nhà sản xuất sau 7 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T15:16:00+07:00",
+      "fetched": "2026-02-03T23:41:08.421884+07:00"
+    },
+    {
+      "id": "20010d3ec09177fd2a72f3435766d566",
+      "title": "Vui xuân an toàn ngày tết - Trẻ em và người lớn cần tiêm vắc xin gì?",
+      "link": "https://thanhnien.vn/vui-xuan-an-toan-ngay-tet-tre-em-va-nguoi-lon-can-tiem-vac-xin-gi-185260203220236551.htm",
+      "summary": "Trẻ em và người lớn đều có nguy cơ mắc bệnh, gặp biến chứng nặng nếu chưa được tiêm phòng đầy đủ hoặc bỏ lỡ các mũi nhắc lại quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T15:14:00+07:00",
+      "fetched": "2026-02-03T23:41:08.422039+07:00"
+    },
+    {
+      "id": "052a5b0c961d6b42dbf5d26d53763469",
+      "title": "Đình Bắc 'gây bão' khi song ca cùng Quân A.P, hút hàng triệu lượt xem",
+      "link": "https://thanhnien.vn/dinh-bac-gay-bao-khi-song-ca-cung-quan-ap-hut-hang-trieu-luot-xem-18526020321084917.htm",
+      "summary": "Cầu thủ Đình Bắc gây chú ý khi chia sẻ đoạn clip hát cùng Quân A.P trên trang cá nhân, hút hàng triệu lượt xem.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T15:12:00+07:00",
+      "fetched": "2026-02-03T23:41:08.422204+07:00"
+    },
+    {
+      "id": "fa86633f9f13d2454fb504a8d6812fe0",
+      "title": "Thành Long mắc chứng rối loạn tăng động giảm chú ý",
+      "link": "https://thanhnien.vn/thanh-long-mac-chung-roi-loan-tang-dong-giam-chu-y-18526020319312897.htm",
+      "summary": "Nam diễn viên gạo cội Thành Long cho biết ông đã sống chung với chứng rối loạn tăng động giảm chú ý (ADHD) trong nhiều năm, song vẫn không ngừng làm việc bền bỉ và duy trì sức ảnh hưởng lớn trong làng điện ảnh, theo Kbizoom đưa tin ngày 2.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T15:10:00+07:00",
+      "fetched": "2026-02-03T23:41:08.422367+07:00"
+    },
+    {
+      "id": "4cbc183c46499007c2d48b4e0539874a",
+      "title": "Rộ tin tàu Trung Quốc 'áp sát' tàu sân bay Mỹ ở Trung Đông",
+      "link": "https://thanhnien.vn/ro-tin-tau-trung-quoc-ap-sat-tau-san-bay-my-o-trung-dong-185260203201748637.htm",
+      "summary": "Theo dữ liệu theo dõi hàng hải, một tàu nghiên cứu của Trung Quốc đang hoạt động tại khu vực Trung Đông, gần một tàu sân bay của Mỹ, trong bối cảnh Washington gia tăng hiện diện quân sự gần Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T15:04:00+07:00",
+      "fetched": "2026-02-03T23:41:08.422549+07:00"
+    },
+    {
+      "id": "4366b839042e8b761b2cffbbf802b9c9",
+      "title": "Duyên Quỳnh xin lỗi sau khi lộ hát nhép",
+      "link": "https://vnexpress.net/duyen-quynh-xin-loi-sau-khi-lo-hat-nhep-5013704.html",
+      "summary": "Duyên Quỳnh xin lỗi về việc chưa mang lại \"trải nghiệm chuyên nghiệp\" cho khán giả khi lộ hát nhép ở lễ trao giải Làn Sóng Xanh 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T14:44:59+07:00",
+      "fetched": "2026-02-03T23:41:05.437797+07:00"
+    },
+    {
+      "id": "53da784070496b2e14743dd7efe6b179",
+      "title": "Thái tử phi Na Uy vướng tai tiếng liên quan tội phạm ấu dâm Jeffrey Epstein",
+      "link": "https://thanhnien.vn/thai-tu-phi-na-uy-vuong-tai-tieng-lien-quan-toi-pham-au-dam-jeffrey-epstein-185260203211752363.htm",
+      "summary": "Thủ tướng Na Uy cho biết Thái tử phi Mette-Marit đã thể hiện sự thiếu khôn ngoan khi có quan hệ với cố tỉ phú ấu dâm Jeffrey Epstein, sau những báo cáo mới về mối quan hệ của bà với ông này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T14:39:00+07:00",
+      "fetched": "2026-02-03T23:41:08.422708+07:00"
+    },
+    {
       "id": "4f2ef79b9da5e98ba27730163382646f",
       "title": "Xác định 2 cặp bán kết futsal châu Á: Lộ diện kênh phát sóng mới nhất, đá ngày nào?",
       "link": "https://thanhnien.vn/xac-dinh-2-cap-ban-ket-futsal-chau-a-lo-dien-kenh-phat-song-moi-nhat-da-ngay-nao-185260203213256712.htm",
@@ -621,6 +911,46 @@ window.newsData_2026_02_03 = {
       "category": "Tổng hợp",
       "published": "2026-02-03T14:33:00+07:00",
       "fetched": "2026-02-03T21:38:01.302644+07:00"
+    },
+    {
+      "id": "6a24f9eb048bee2a3420c3758ff486a5",
+      "title": "Nga sẵn sàng để hiệp ước hạn chế vũ khí hạt nhân hết hạn",
+      "link": "https://thanhnien.vn/nga-san-sang-de-hiep-uoc-han-che-vu-khi-hat-nhan-het-han-185260203204441642.htm",
+      "summary": "Hãng tin TASS ngày 3.2 dẫn lời Thứ trưởng Ngoại giao Nga Sergei Ryabkov cho biết nước này sẵn sàng đối diện một thực tế mới về thế giới không hạn chế đối với vũ khí hạt nhân, khi Hiệp ước New START sắp hết hạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T14:31:00+07:00",
+      "fetched": "2026-02-03T23:41:08.423175+07:00"
+    },
+    {
+      "id": "fcc21242d2edf38df14916d30b753723",
+      "title": "Việt Nam bị Indonesia loại ở futsal châu Á",
+      "link": "https://vnexpress.net/viet-nam-bi-indonesia-loai-o-futsal-chau-a-5011829.html",
+      "summary": "Nguyễn Đa Hải lập cú đúp, nhưng Việt Nam thua chủ nhà 2-3 và dừng bước tại tứ kết giải futsal châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T14:24:50+07:00",
+      "fetched": "2026-02-03T23:41:05.437959+07:00"
+    },
+    {
+      "id": "fcc21242d2edf38df14916d30b753723",
+      "title": "Việt Nam bị Indonesia loại ở futsal châu Á",
+      "link": "https://vnexpress.net/viet-nam-bi-indonesia-loai-o-futsal-chau-a-5011829.html",
+      "summary": "Nguyễn Đa Hải lập cú đúp, nhưng Việt Nam thua chủ nhà 2-3 và dừng bước tại tứ kết giải futsal châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-03T14:24:50+07:00",
+      "fetched": "2026-02-03T23:41:15.524913+07:00"
+    },
+    {
+      "id": "9eadc150288e4646029be91917eaefbd",
+      "title": "Ôtô bẹp rúm khi rơi xuống vực, ba người sống sót",
+      "link": "https://vnexpress.net/oto-bep-rum-khi-roi-xuong-vuc-ba-nguoi-song-sot-5013706.html",
+      "summary": "Chiếc xe ôtô bán tải rơi xuống ta luy âm tại khu vực dốc Cán Tỷ, ba người trong xe may mắn sống sót, trưa 3/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T14:23:17+07:00",
+      "fetched": "2026-02-03T23:41:05.438112+07:00"
     },
     {
       "id": "07db16db67c5b0aaabead84a659b4918",
@@ -691,6 +1021,26 @@ window.newsData_2026_02_03 = {
       "category": "Tổng hợp",
       "published": "2026-02-03T14:03:00+07:00",
       "fetched": "2026-02-03T21:38:01.303589+07:00"
+    },
+    {
+      "id": "2705bab2a5ff025ceb8b2e6e7876aa9d",
+      "title": "Tôi định dằn mặt người phụ nữ từng ngủ với chồng mình",
+      "link": "https://vnexpress.net/ngoai-tinh-toi-dinh-dan-mat-nguoi-phu-nu-tung-ngu-voi-chong-minh-5013567.html",
+      "summary": "Tôi nên tới tận trường cô ta để dằn mặt hay vào mạng xã hội để bóc mẽ?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T14:00:00+07:00",
+      "fetched": "2026-02-03T23:41:05.438415+07:00"
+    },
+    {
+      "id": "7ac8d12ec0887dd4d89e9316104bc1e9",
+      "title": "Người dân nước nào tích trữ vàng nhiều nhất thế giới?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-tich-tru-vang-nhieu-nhat-the-gioi-5013652.html",
+      "summary": "Ước tính người dân nước này trữ 21.000-25.000 tấn vàng, bằng top 10 quốc gia giữ vàng nhiều nhất thế giới cộng lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:58:49+07:00",
+      "fetched": "2026-02-03T23:41:05.438595+07:00"
     },
     {
       "id": "5d4c841be77205d4ad1441e3a35c72ef",
