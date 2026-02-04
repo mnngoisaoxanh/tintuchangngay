@@ -1,7 +1,27 @@
 window.newsData_2026_02_05 = {
   "date": "2026-02-05",
-  "lastUpdated": "2026-02-05T01:35:55.191127+07:00",
+  "lastUpdated": "2026-02-05T03:23:45.188254+07:00",
   "articles": [
+    {
+      "id": "ba884d57ab42375b57627eaeffce9083",
+      "title": "Khởi tố tài xế gây tai nạn khiến 2 anh em người Việt tử vong tại Đức",
+      "link": "https://tuoitre.vn/khoi-to-tai-xe-gay-tai-nan-khien-2-anh-em-nguoi-viet-tu-vong-tai-duc-20260204233719487.htm",
+      "summary": "Văn phòng Công tố Frankfurt (Đức) thông báo đã khởi tố tài xế Mohammad S. vì gây tai nạn khiến hai anh em song sinh người Việt thiệt mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T03:23:36.390260+07:00",
+      "fetched": "2026-02-05T03:23:36.390396+07:00"
+    },
+    {
+      "id": "cd40eb91ed854cfb41369c38f7579d7b",
+      "title": "Thủ tướng: Siết giá vé, không để người dân thiếu xe về quê dịp Tết",
+      "link": "https://tuoitre.vn/thu-tuong-siet-gia-ve-khong-de-nguoi-dan-thieu-xe-ve-que-dip-tet-2026020423430919.htm",
+      "summary": "Công điện 10 của Thủ tướng yêu cầu tăng lượng xe, siết giá vé, xử lý nghiêm vi phạm để bảo đảm an toàn giao thông dịp Tết Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T03:23:36.389996+07:00",
+      "fetched": "2026-02-05T03:23:36.390242+07:00"
+    },
     {
       "id": "58fa0685b0de2a1f03c208011ac58580",
       "title": "Chi tiết 34 trận địa bắn pháo hoa tại Hà Nội dịp Tết Nguyên đán 2026",
