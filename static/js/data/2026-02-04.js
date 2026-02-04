@@ -1,7 +1,157 @@
 window.newsData_2026_02_04 = {
   "date": "2026-02-04",
-  "lastUpdated": "2026-02-04T08:10:51.629524+07:00",
+  "lastUpdated": "2026-02-04T11:04:11.660330+07:00",
   "articles": [
+    {
+      "id": "701d33ee18abed386f8e746cc0da729e",
+      "title": "Gấu Nga sắp hết 'ngủ đông'",
+      "link": "https://tuoitre.vn/gau-nga-sap-het-ngu-dong-20260204083448516.htm",
+      "summary": "Bóng đá Nga vừa đón nhận tin vui khi ông Gianni Infantino - Chủ tịch Liên đoàn Bóng đá thế giới (FIFA) - cân nhắc dỡ bỏ lệnh cấm đối với nền bóng đá nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.945246+07:00",
+      "fetched": "2026-02-04T11:04:00.945359+07:00"
+    },
+    {
+      "id": "f69586174ea3ee018eedbb0b7d975fe8",
+      "title": "Bóng chuyền nữ Việt Nam: Liệu có cơ hội dự VNL?",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-viet-nam-lieu-co-co-hoi-du-vnl-20260204083753095.htm",
+      "summary": "Nếu giành được tấm vé tham dự giải bóng chuyền danh giá Volleyball Nations League (VNL), đội tuyển bóng chuyền nữ Việt Nam sẽ có nhiều cơ hội nâng tầm đẳng cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.945122+07:00",
+      "fetched": "2026-02-04T11:04:00.945234+07:00"
+    },
+    {
+      "id": "175af7ef1eb4eefbbc3e153aa8a2348c",
+      "title": "Công an xã vùng cao cùng rapper làm clip tuyên truyền giao thông khiến dân mạng cười bò",
+      "link": "https://tuoitre.vn/cong-an-xa-vung-cao-cung-rapper-lam-clip-tuyen-truyen-giao-thong-khien-dan-mang-cuoi-bo-20260204085948339.htm",
+      "summary": "Clip tuyên truyền về luật giao thông đường bộ của Công an xã A Lưới 1 (TP Huế) cùng một bạn rapper trẻ xuất hiện trên mạng xã hội khiến dân mạng cười bò lăn vì độ dí dỏm, gần gũi, dễ hiểu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.944995+07:00",
+      "fetched": "2026-02-04T11:04:00.945107+07:00"
+    },
+    {
+      "id": "3e3a195060712d8c91f15b0c45196eff",
+      "title": "Trung Quốc cấm tay nắm cửa ẩn trên ô tô từ 2027",
+      "link": "https://tuoitre.vn/trung-quoc-cam-tay-nam-cua-an-tren-o-to-tu-2027-20260204085039043.htm",
+      "summary": "Quy định mới về tay nắm cửa được ban hành nhằm tăng cường an toàn, sau khi nhiều vụ tai nạn xe điện chết người xảy ra do hệ thống này gặp sự cố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.944870+07:00",
+      "fetched": "2026-02-04T11:04:00.944984+07:00"
+    },
+    {
+      "id": "48ec06c5f98e8fe9f7a9a5386c33c377",
+      "title": "Bất mãn với bóng đá Ả Rập, Ronaldo muốn quay về châu Âu",
+      "link": "https://tuoitre.vn/bat-man-voi-bong-da-a-rap-ronaldo-muon-quay-ve-chau-au-2026020409083332.htm",
+      "summary": "Theo truyền thông Bồ Đào Nha, Cristiano Ronaldo đang cân nhắc việc chia tay CLB Al-Nassr ở Giải vô địch Saudi Arabia ngay trong mùa hè này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.944732+07:00",
+      "fetched": "2026-02-04T11:04:00.944858+07:00"
+    },
+    {
+      "id": "c9fdc477bb71174f63e25ae6959e687e",
+      "title": "Gu thời trang độc lạ của ngôi sao có doanh thu phòng vé cao nhất lịch sử",
+      "link": "https://tuoitre.vn/gu-thoi-trang-doc-la-cua-ngoi-sao-co-doanh-thu-phong-ve-cao-nhat-lich-su-20260203110822439.htm",
+      "summary": "Song hành cùng thành công trên màn ảnh, Zoe Saldaña cũng là biểu tượng phong cách của Hollywood, luôn tỏa sáng trên thảm đỏ với vẻ thanh lịch, bản lĩnh và dấu ấn thời trang riêng biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.944605+07:00",
+      "fetched": "2026-02-04T11:04:00.944721+07:00"
+    },
+    {
+      "id": "771d08976c12fdf34351be3f9c4bc031",
+      "title": "Tết, dắt chó đi chơi kiếm tiền triệu",
+      "link": "https://tuoitre.vn/tet-dat-cho-di-choi-kiem-tien-trieu-20260204090857612.htm",
+      "summary": "Những ngày Tết cũng là lúc dịch vụ dành cho thú cưng vào cao điểm. Ngoài \"sửa soạn\" cho người bạn bốn chân, nhiều chủ nuôi bận rộn phải tìm tới dịch vụ dắt chó đi dạo còn khá mới mẻ tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.944459+07:00",
+      "fetched": "2026-02-04T11:04:00.944593+07:00"
+    },
+    {
+      "id": "2ffcf704ebc9fcb78448f3b94194c132",
+      "title": "Xã Nhà Bè sẽ xin cấp phép sử dụng tạm vỉa hè cho cổng chào đường Nguyễn Hữu Thọ",
+      "link": "https://tuoitre.vn/xa-nha-be-se-xin-cap-phep-su-dung-tam-via-he-cho-cong-chao-duong-nguyen-huu-tho-20260204091522715.htm",
+      "summary": "UBND xã Nhà Bè cho biết đang xin cấp phép sử dụng tạm vỉa hè cho cổng chào đường Nguyễn Hữu Thọ theo đúng quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.944332+07:00",
+      "fetched": "2026-02-04T11:04:00.944447+07:00"
+    },
+    {
+      "id": "32413d414a3970a67ae10abaea37ed22",
+      "title": "Cháy tiệm bánh trên đường Đỗ Xuân Hợp, phường Phước Long",
+      "link": "https://tuoitre.vn/chay-tiem-banh-tren-duong-do-xuan-hop-phuong-phuoc-long-20260204094159745.htm",
+      "summary": "Rạng sáng 4-2, ngọn lửa bùng phát dữ dội tại tiệm bánh trên đường Đỗ Xuân Hợp, phường Phước Long, TP.HCM khiến nhiều tài sản bị thiêu rụi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.944208+07:00",
+      "fetched": "2026-02-04T11:04:00.944321+07:00"
+    },
+    {
+      "id": "64f16f2a596e6c24959a81de234cef98",
+      "title": "Cơ quan nào cấp sổ hồng lần đầu cho người dân theo quy định mới?",
+      "link": "https://tuoitre.vn/co-quan-nao-cap-so-hong-lan-dau-cho-nguoi-dan-theo-quy-dinh-moi-20260204093341144.htm",
+      "summary": "Văn phòng Đăng ký đất đai là cơ quan cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho các tổ chức, cá nhân, chỉ một số trường hợp cụ thể được giao cho cấp xã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.944081+07:00",
+      "fetched": "2026-02-04T11:04:00.944196+07:00"
+    },
+    {
+      "id": "6b70cac5596ee1073c8cf2ff88ebedb1",
+      "title": "Dự án điện gió hơn 48.000 tỉ đồng tại Gia Lai lộ diện nhà đầu tư",
+      "link": "https://tuoitre.vn/du-an-dien-gio-hon-48-000-ti-dong-tai-gia-lai-lo-dien-nha-dau-tu-20260204075716541.htm",
+      "summary": "Dự án điện gió Hòn Trâu giai đoạn 1 vừa được tỉnh Gia Lai phê duyệt nhà đầu tư là Công ty cổ phần Năng lượng Vinenergo, thành viên Tập đoàn Vingroup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.943952+07:00",
+      "fetched": "2026-02-04T11:04:00.944069+07:00"
+    },
+    {
+      "id": "600e04033063042f19d0a5b350789d0e",
+      "title": "Quán Kỳ Nam thua lỗ, rời rạp với 5,15 tỉ đồng",
+      "link": "https://tuoitre.vn/quan-ky-nam-thua-lo-roi-rap-voi-5-15-ti-dong-20260204094805975.htm",
+      "summary": "Quán Kỳ Nam của đạo diễn Leon Lê chính thức rời rạp sau gần hai tháng chiếu, khép lại hành trình với doanh thu khoảng 5,15 tỉ đồng, đối mặt với tình cảnh thua lỗ nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.943822+07:00",
+      "fetched": "2026-02-04T11:04:00.943941+07:00"
+    },
+    {
+      "id": "26c0642aea2599f83ad617bfad6b3d23",
+      "title": "Cách nào để đi metro số 1 miễn phí ngày giao thừa và mùng 1 Tết?",
+      "link": "https://tuoitre.vn/cach-nao-de-di-metro-so-1-mien-phi-ngay-giao-thua-va-mung-1-tet-20260204093636424.htm",
+      "summary": "Tuyến metro số 1 (Bến Thành - Suối Tiên) sẽ tăng chuyến chạy tàu trong dịp Tết Nguyên đán Bính Ngọ 2026, đồng thời miễn phí vé cho người dân trong ngày 29 tháng chạp và mùng 1 Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.943686+07:00",
+      "fetched": "2026-02-04T11:04:00.943810+07:00"
+    },
+    {
+      "id": "2209c53c638dfd227df471faaf689c8e",
+      "title": "Bắt người ở Hà Nội lừa bán vườn sầu riêng của người khác tại Đắk Lắk",
+      "link": "https://tuoitre.vn/bat-nguoi-o-ha-noi-lua-ban-vuon-sau-rieng-cua-nguoi-khac-tai-dak-lak-20260204093331257.htm",
+      "summary": "Người đàn ông nhận vơ nhiều vườn sầu riêng tại Đắk Lắk là của mình, lừa bán cho các thương lái, nhận tiền cọc rồi bỏ trốn, chiếm đoạt 5,3 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.943535+07:00",
+      "fetched": "2026-02-04T11:04:00.943673+07:00"
+    },
+    {
+      "id": "3f1ef6b3fae91d579f7e06cf4fbe217b",
+      "title": "Đến 2030, Việt Nam đào tạo, xây dựng được đội ngũ 10.000 chuyên gia an ninh mạng trình độ cao",
+      "link": "https://tuoitre.vn/den-2030-viet-nam-dao-tao-xay-dung-duoc-doi-ngu-10-000-chuyen-gia-an-ninh-mang-trinh-do-cao-2026020409265957.htm",
+      "summary": "Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số nêu rõ mục tiêu đến 2030, Việt Nam tiếp tục được xếp hạng trong nhóm 20 quốc gia có mức đánh giá cao Chỉ số An toàn, an ninh mạng toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T11:04:00.943283+07:00",
+      "fetched": "2026-02-04T11:04:00.943518+07:00"
+    },
     {
       "id": "df851f0f98c86eca28adb3ff76475fd4",
       "title": "Thời tiết hôm nay 4-2: Bắc Bộ đến Gia Lai mưa nhẹ, Nam Bộ nắng",
@@ -151,6 +301,436 @@ window.newsData_2026_02_04 = {
       "category": "Tổng hợp",
       "published": "2026-02-04T08:10:44.633591+07:00",
       "fetched": "2026-02-04T08:10:44.633819+07:00"
+    },
+    {
+      "id": "7e515f4c13a307e117649a4ccee69102",
+      "title": "Xem nhanh 12h: Chủ thẩm mỹ chui bỏ chạy khi bị 'đột kích' | CSGT đo nồng độ cồn từ mùng 1 tết",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-chu-tham-my-chui-bo-chay-khi-bi-dot-kich-csgt-do-nong-do-con-tu-mung-1-tet-185260204105614557.htm",
+      "summary": "Thẩm mỹ chui bủa vây, đường dây sản xuất xăng giả, bão mặt trời… sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 4.2.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T04:00:00+07:00",
+      "fetched": "2026-02-04T11:03:59.809550+07:00"
+    },
+    {
+      "id": "e2af80334bbae8194cd2d9338aac7564",
+      "title": "Từ Unstoppable đến Hội hoa xuân, Waterpoint khuấy động mùa lễ hội tết phía tây TP.HCM",
+      "link": "https://thanhnien.vn/tu-unstoppable-den-hoi-hoa-xuan-waterpoint-khuay-dong-mua-le-hoi-tet-phia-tay-tphcm-185260204102034123.htm",
+      "summary": "Tối 31.1, bờ sông Vàm Cỏ Đông đã trở thành điểm hẹn lễ hội khi đông đảo khán giả cùng hòa mình vào mini concert Unstoppable (Không lùi bước), mở màn chuỗi trải nghiệm tết sôi động tại Đại đô thị tích hợp Waterpoint (Bến Lức, Tây Ninh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T04:00:00+07:00",
+      "fetched": "2026-02-04T11:03:59.809726+07:00"
+    },
+    {
+      "id": "d99b9755db49d3164ac39aaf23b24d7c",
+      "title": "Phim về vợ ông Trump gây tranh cãi",
+      "link": "https://thanhnien.vn/phim-ve-vo-ong-trump-gay-tranh-cai-18526020410465461.htm",
+      "summary": "Bộ phim tài liệu Melania: Twenty Days to History - khắc họa hình ảnh bà Melania Trump trong vai trò biểu tượng thời trang gắn với các hoạt động chính trị - xã hội, trong đó nhấn mạnh giai đoạn 20 ngày chuẩn bị trước lễ nhậm chức nhiệm kỳ hai của ông Trump, đang tạo ra những phản ứng trái chiều ngay ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:58:00+07:00",
+      "fetched": "2026-02-04T11:03:59.809886+07:00"
+    },
+    {
+      "id": "4e09f0254b9dde50022aeca6c232b3d8",
+      "title": "Intel sắp sản xuất GPU",
+      "link": "https://vnexpress.net/intel-sap-san-xuat-gpu-5013819.html",
+      "summary": "Intel cho biết sẽ sản xuất card đồ họa (GPU), động thái được đánh giá nhắm đến các trung tâm dữ liệu AI, cạnh tranh trực tiếp với Nvidia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:53:28+07:00",
+      "fetched": "2026-02-04T11:03:56.340788+07:00"
+    },
+    {
+      "id": "704449f7767b6f56947167a6a535347b",
+      "title": "Nhật chuẩn bị Valentine với quà ‘không chocolate’ vì giá cacao tăng",
+      "link": "https://thanhnien.vn/nhat-chuan-bi-valentine-voi-qua-khong-chocolate-vi-gia-cacao-tang-185260204103925851.htm",
+      "summary": "Các cửa hàng tại Nhật Bản đang phải đa dạng hóa sản phẩm bày bán vào mùa Lễ tình yêu (Valentine) năm nay, khi giá cacao và phí vận chuyển liên tục tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:53:00+07:00",
+      "fetched": "2026-02-04T11:03:59.810041+07:00"
+    },
+    {
+      "id": "c093b666e09d6de87957cd10b9ddce8c",
+      "title": "'Điều kỳ diệu ở vương quốc Sách'",
+      "link": "https://vnexpress.net/dieu-ky-dieu-o-vuong-quoc-sach-5011786.html",
+      "summary": "\"Điều kỳ diệu ở vương quốc Sách\" kể về những quyển sách kỳ lạ trong thế giới giả tưởng, có cuốn chỉ dành cho người mang tâm hồn trẻ con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:52:12+07:00",
+      "fetched": "2026-02-04T11:03:56.340968+07:00"
+    },
+    {
+      "id": "7628c7af97297fef2f425515cf48f947",
+      "title": "[FLYCAM] Dự án thoát nước 'khu biệt thự triệu đô' tiến độ ra sao?",
+      "link": "https://thanhnien.vn/flycam-du-an-thoat-nuoc-khu-biet-thu-trieu-do-tien-do-ra-sao-185260203194311847.htm",
+      "summary": "Dự án xây dựng tuyến cống xả trạm bơm Phú Thượng (Hà Nội) qua đê sông Hồng đang được gấp rút thi công nhằm chống ngập úng cho nhiều 'khu biệt thự triệu đô' trên địa bàn P.Phú Thượng và vùng lân cận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:52:00+07:00",
+      "fetched": "2026-02-04T11:03:59.810195+07:00"
+    },
+    {
+      "id": "fb1848d779dc0f4de1046cabc0231b0f",
+      "title": "Voi rừng liên tiếp tấn công chết người ở Thái Lan",
+      "link": "https://thanhnien.vn/voi-rung-lien-tiep-tan-cong-chet-nguoi-o-thai-lan-185260204102038991.htm",
+      "summary": "Thái Lan trong những ngày gần đây liên tục những vụ voi rừng tấn công khiến người tử vong, với vụ gần nhất xảy ra tại Vườn quốc gia Khao Yai hồi đầu tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:49:00+07:00",
+      "fetched": "2026-02-04T11:03:59.810343+07:00"
+    },
+    {
+      "id": "29014e4c600798a3fc837c26863cc5bf",
+      "title": "Về Quảng Trị xem làng nghề mứt gừng Mỹ Chánh tất bật vào vụ tết",
+      "link": "https://thanhnien.vn/ve-quang-tri-xem-lang-nghe-mut-gung-my-chanh-tat-bat-vao-vu-tet-18526020319471409.htm",
+      "summary": "Về Quảng Trị những ngày giáp Tết, thôn Mỹ Chánh (xã Nam Hải Lăng) lại đỏ rực bếp củi, thơm nồng mùi gừng rim đường. Nghề làm mứt gừng truyền thống không chỉ giữ hồn Tết quê mà còn tạo việc làm, đưa đặc sản địa phương vươn ra thị trường quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:49:00+07:00",
+      "fetched": "2026-02-04T11:03:59.810507+07:00"
+    },
+    {
+      "id": "9b0f5047ffe7e67d8dadfad9db2f01a1",
+      "title": "Cảnh sát theo dõi, bắt đường dây lén bán gần 30.000 thuốc lá điện tử",
+      "link": "https://vnexpress.net/canh-sat-theo-doi-bat-duong-day-len-ban-gan-30-000-thuoc-la-dien-tu-5013881.html",
+      "summary": "Nguyễn Ngọc Quốc Uy, 29 tuổi, làm hầm bí mật để chứa gần 30.000 sản phẩm thuốc lá điện tử lậu, nhưng bị cảnh sát theo dõi, bắt giữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:46:09+07:00",
+      "fetched": "2026-02-04T11:03:56.341684+07:00"
+    },
+    {
+      "id": "7eac82cdcbaac54a19ae92fc6360074b",
+      "title": "ACV cùng lúc thay đổi lãnh đạo và kế toán trưởng",
+      "link": "https://thanhnien.vn/acv-cung-luc-thay-doi-lanh-dao-va-ke-toan-truong-18526020410381404.htm",
+      "summary": "Tổng công ty Cảng hàng không Việt Nam - CTCP (ACV) vừa công bố thông báo thay đổi nhân sự cấp cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:39:00+07:00",
+      "fetched": "2026-02-04T11:03:59.810671+07:00"
+    },
+    {
+      "id": "ce58c0b454538c2b12b6bd4bf1705be3",
+      "title": "Tiệm vàng 'hết tiền' khi tôi cần bán gấp 20 lượng vàng nhẫn 9999",
+      "link": "https://vnexpress.net/gia-vang-hom-nay-gia-vang-nhan-tron-hom-nay-vang-nhan-tron-dong-vi-mua-vang-thi-lo-mua-tho-thi-loi-5013843.html",
+      "summary": "Sau khi kiểm tra vàng, nhân viên nghe điện thoại rồi quay ra bảo tôi 'tạm thời hết tiền, chỉ thu vào tối đa 2 chỉ'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:34:10+07:00",
+      "fetched": "2026-02-04T11:03:56.341857+07:00"
+    },
+    {
+      "id": "8cd28d9bc987dde0e4fc072ef04faf45",
+      "title": "Tranh thiên thần trong nhà thờ Italy 'giống hệt' Thủ tướng Meloni",
+      "link": "https://vnexpress.net/tranh-thien-than-trong-nha-tho-italy-giong-het-thu-tuong-meloni-5013788.html",
+      "summary": "Giới chức Italy mở cuộc điều tra về phản ánh chân dung thiên thần trong bức bích họa phục chế tại nhà thờ ở Rome giống hệt Thủ tướng Giorgia Meloni.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:34:04+07:00",
+      "fetched": "2026-02-04T11:03:56.342018+07:00"
+    },
+    {
+      "id": "8cd28d9bc987dde0e4fc072ef04faf45",
+      "title": "Tranh thiên thần trong nhà thờ Italy 'giống hệt' Thủ tướng Meloni",
+      "link": "https://vnexpress.net/tranh-thien-than-trong-nha-tho-italy-giong-het-thu-tuong-meloni-5013788.html",
+      "summary": "Giới chức Italy mở cuộc điều tra về phản ánh chân dung thiên thần trong bức bích họa phục chế tại nhà thờ ở Rome giống hệt Thủ tướng Giorgia Meloni.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-04T03:34:04+07:00",
+      "fetched": "2026-02-04T11:04:03.004153+07:00"
+    },
+    {
+      "id": "b06343a8962808955066baedf7084845",
+      "title": "Chỉnh trang thêm 4 khu đất trống đón xuân ở trung tâm TP.HCM",
+      "link": "https://thanhnien.vn/chinh-trang-them-4-khu-dat-trong-don-xuan-o-trung-tam-tphcm-185260204095724728.htm",
+      "summary": "Ngoài 9 khu đất trống đang cải tạo thành công viên, vườn hoa tạm, TP.HCM sẽ chỉnh trang thêm 4 khu đất tại các phường Bến Thành và Sài Gòn, kịp phục vụ người dân dịp Tết Nguyên đán Bính Ngọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:34:00+07:00",
+      "fetched": "2026-02-04T11:03:59.810834+07:00"
+    },
+    {
+      "id": "bc5b304304b4167a82a2748a8a8f5677",
+      "title": "Chính trường Mỹ: Bên hy vọng, phía báo động",
+      "link": "https://thanhnien.vn/chinh-truong-my-ben-hy-vong-phia-bao-dong-185260203213520404.htm",
+      "summary": "Cuộc bầu cử bổ sung cho nghị viện bang Texas (Mỹ) vừa qua được coi là phép thử đầu tiên cho cuộc bầu cử quốc hội giữa kỳ sắp tới ở nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:33:00+07:00",
+      "fetched": "2026-02-04T11:03:59.810984+07:00"
+    },
+    {
+      "id": "c2f97e04dd25acd22624d7ae39bd2543",
+      "title": "Campuchia vừa xây kênh đào Phù Nam Techo, vừa giải quyết tác động",
+      "link": "https://thanhnien.vn/campuchia-vua-xay-kenh-dao-phu-nam-techo-vua-giai-quyet-tac-dong-185260204102402088.htm",
+      "summary": "Một quan chức Campuchia thông tin về lập trường của chính phủ đối với dự án kênh đào Phù Nam Techo, trong bối cảnh bên xây dựng muốn giải quyết tác động trước khi triển khai công việc quy mô lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:31:00+07:00",
+      "fetched": "2026-02-04T11:03:59.811136+07:00"
+    },
+    {
+      "id": "1a78f824db47f0aaeef6085d430df128",
+      "title": "GS Phạm Mạnh Hùng làm Viện trưởng Viện Tim mạch Bệnh viện 19.8 Bộ Công an",
+      "link": "https://thanhnien.vn/gs-pham-manh-hung-lam-vien-truong-vien-tim-mach-benh-vien-198-bo-cong-an-185260204095303983.htm",
+      "summary": "Bệnh viện 19.8 Bộ Công an vừa công bố quyết định bổ nhiệm GS-TS Phạm Mạnh Hùng, Chủ nhiệm Bộ môn Tim mạch Trường đại học Y Hà Nội, giữ chức Viện trưởng Viện Tim mạch Bệnh viện 19.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:30:00+07:00",
+      "fetched": "2026-02-04T11:03:59.811293+07:00"
+    },
+    {
+      "id": "79f56e31361e459ce5a8e7d1ab85412c",
+      "title": "Dân mạng bất ngờ phát hiện lịch tháng 2 năm nay 'quá hoàn hảo': Liệu có hiếm gặp?",
+      "link": "https://thanhnien.vn/dan-mang-bat-ngo-phat-hien-lich-thang-2-nam-nay-qua-hoan-hao-lieu-co-hiem-gap-185260204085623294.htm",
+      "summary": "Hình ảnh tờ lịch tháng 2 năm nay bất ngờ được mạng xã hội chia sẻ ào ạt vì 'quá hoàn hảo', liệu có hiếm gặp như nhiều người nghĩ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:30:00+07:00",
+      "fetched": "2026-02-04T11:03:59.811448+07:00"
+    },
+    {
+      "id": "8c3214fc11fdc8c89ebac241a401de82",
+      "title": "Redknapp: 'Arsenal đủ sức giành cú ăn ba mùa này'",
+      "link": "https://vnexpress.net/redknapp-arsenal-du-suc-gianh-cu-an-ba-mua-nay-5013862.html",
+      "summary": "Cựu tiền vệ Jamie Redknapp tin Arsenal có thể giành hai đến ba danh hiệu, sau khi thắng Chelsea để vào chung kết Cup Liên đoàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:27:28+07:00",
+      "fetched": "2026-02-04T11:03:56.342173+07:00"
+    },
+    {
+      "id": "8c3214fc11fdc8c89ebac241a401de82",
+      "title": "Redknapp: 'Arsenal đủ sức giành cú ăn ba mùa này'",
+      "link": "https://vnexpress.net/redknapp-arsenal-du-suc-gianh-cu-an-ba-mua-nay-5013862.html",
+      "summary": "Cựu tiền vệ Jamie Redknapp tin Arsenal có thể giành hai đến ba danh hiệu, sau khi thắng Chelsea để vào chung kết Cup Liên đoàn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-04T03:27:28+07:00",
+      "fetched": "2026-02-04T11:04:11.653773+07:00"
+    },
+    {
+      "id": "be7a8b24b3d065784b6580d8e23c0f78",
+      "title": "Man City và 'vấn đề Haaland'",
+      "link": "https://thanhnien.vn/man-city-va-van-de-haaland-185260203222955911.htm",
+      "summary": "Trận gặp Newcastle ở lượt về bán kết cúp Liên đoàn Anh (3 giờ ngày 5.2, giờ VN) tuy không khó đối với Manchester City, nhưng lại quá khó đối với cá nhân Erling Haaland. Làm sao để Haaland lấy lại cảm giác ghi bàn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:26:00+07:00",
+      "fetched": "2026-02-04T11:03:59.811613+07:00"
+    },
+    {
+      "id": "bf911496ac59e5628b53473d4b0118be",
+      "title": "Quán thịt chó cuối cùng của 'thủ phủ' thịt chó Nhật Tân đóng cửa",
+      "link": "https://thanhnien.vn/quan-thit-cho-cuoi-cung-cua-thu-phu-thit-cho-nhat-tan-dong-cua-185260204074605961.htm",
+      "summary": "Từng là 'thủ phủ' thịt chó sầm uất bậc nhất Hà Nội, Nhật Tân nay chỉ còn lại một quán thịt chó duy nhất là Anh Tú Béo. Thế nhưng, chủ quán cũng vừa thông báo đóng cửa, chuyển sang trồng đào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:25:00+07:00",
+      "fetched": "2026-02-04T11:03:59.811769+07:00"
+    },
+    {
+      "id": "4e4a29a34b2733ad76ad21fb6c682470",
+      "title": "Bố vợ Brooklyn Beckham: Con rể tôi tuyệt vời",
+      "link": "https://vnexpress.net/bo-vo-brooklyn-beckham-con-re-toi-tuyet-voi-5013776.html",
+      "summary": "Tỷ phú Nelson Peltz - bố vợ Brooklyn Beckham - khen con rể tuyệt vời, lần đầu lên tiếng từ khi gia đình sui gia bất hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:22:15+07:00",
+      "fetched": "2026-02-04T11:03:56.342335+07:00"
+    },
+    {
+      "id": "45692523a0091ba5cf2a5c339b1b7715",
+      "title": "Man Utd khó lòng thay thế Casemiro",
+      "link": "https://vnexpress.net/man-utd-kho-long-thay-the-casemiro-5013866.html",
+      "summary": "Casemiro chuẩn bị chia tay Old Trafford, nhưng trận thắng Fulham cho thấy Man Utd sẽ đối mặt một khoảng trống lớn nơi tuyến giữa khi tiền vệ người Brazil ra đi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:20:46+07:00",
+      "fetched": "2026-02-04T11:03:56.342523+07:00"
+    },
+    {
+      "id": "45692523a0091ba5cf2a5c339b1b7715",
+      "title": "Man Utd khó lòng thay thế Casemiro",
+      "link": "https://vnexpress.net/man-utd-kho-long-thay-the-casemiro-5013866.html",
+      "summary": "Casemiro chuẩn bị chia tay Old Trafford, nhưng trận thắng Fulham cho thấy Man Utd sẽ đối mặt một khoảng trống lớn nơi tuyến giữa khi tiền vệ người Brazil ra đi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-04T03:20:46+07:00",
+      "fetched": "2026-02-04T11:04:11.653246+07:00"
+    },
+    {
+      "id": "9bb5f50fe2d6be4c19f96a8d99b1f2ef",
+      "title": "Bitcoin rơi về mức thấp nhất kể từ khi ông Trump đắc cử",
+      "link": "https://vnexpress.net/bitcoin-roi-ve-muc-thap-nhat-ke-tu-khi-ong-trump-dac-cu-5013767.html",
+      "summary": "Rạng sáng nay, Bitcoin lao dốc xuống dưới 72.900 USD, mức thấp nhất kể từ khi ông Donald Trump đắc cử Tổng thống Mỹ vào tháng 11/2024.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:15:08+07:00",
+      "fetched": "2026-02-04T11:03:56.342685+07:00"
+    },
+    {
+      "id": "9bb5f50fe2d6be4c19f96a8d99b1f2ef",
+      "title": "Bitcoin rơi về mức thấp nhất kể từ khi ông Trump đắc cử",
+      "link": "https://vnexpress.net/bitcoin-roi-ve-muc-thap-nhat-ke-tu-khi-ong-trump-dac-cu-5013767.html",
+      "summary": "Rạng sáng nay, Bitcoin lao dốc xuống dưới 72.900 USD, mức thấp nhất kể từ khi ông Donald Trump đắc cử Tổng thống Mỹ vào tháng 11/2024.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-04T03:15:08+07:00",
+      "fetched": "2026-02-04T11:04:05.281571+07:00"
+    },
+    {
+      "id": "3f115ac0e00364fdca2a62a2ef90d9e0",
+      "title": "Đường dây buôn lậu nửa tấn vàng giấu trong giày từ Trung Quốc bị xét xử",
+      "link": "https://vnexpress.net/duong-day-buon-lau-nua-tan-vang-giau-trong-giay-tu-trung-quoc-bi-xet-xu-5013846.html",
+      "summary": "Thấy giá vàng Trung Quốc thấp hơn Việt Nam, chủ tiệm vàng Trần Thị Hoàn tổ chức buôn lậu 546 kg vàng giấu trong giày, quấn quanh bụng của người nhập cảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:07:39+07:00",
+      "fetched": "2026-02-04T11:03:56.342845+07:00"
+    },
+    {
+      "id": "0a7c00f4fa201c97eeb2b2ab57bfc5a0",
+      "title": "Trung Quốc cảnh báo Panama 'trả giá đắt' nếu thu hồi cảng",
+      "link": "https://vnexpress.net/trung-quoc-canh-bao-panama-tra-gia-dat-neu-thu-hoi-cang-5013810.html",
+      "summary": "Bắc Kinh cảnh báo Panama có thể phải trả giá đắt sau khi tòa án nước này thu hồi quyền vận hành cảng ở kênh đào Panama của công ty CK Hutchison.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:06:02+07:00",
+      "fetched": "2026-02-04T11:03:56.343000+07:00"
+    },
+    {
+      "id": "0a7c00f4fa201c97eeb2b2ab57bfc5a0",
+      "title": "Trung Quốc cảnh báo Panama 'trả giá đắt' nếu thu hồi cảng",
+      "link": "https://vnexpress.net/trung-quoc-canh-bao-panama-tra-gia-dat-neu-thu-hoi-cang-5013810.html",
+      "summary": "Bắc Kinh cảnh báo Panama có thể phải trả giá đắt sau khi tòa án nước này thu hồi quyền vận hành cảng ở kênh đào Panama của công ty CK Hutchison.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-04T03:06:02+07:00",
+      "fetched": "2026-02-04T11:04:03.004327+07:00"
+    },
+    {
+      "id": "d9b60deb7bb9d0926d2dbc909ad3428c",
+      "title": "Estée Lauder bị phạt 750.000 CAD vì bán mỹ phẩm chứa 'hóa chất vĩnh cửu'",
+      "link": "https://vnexpress.net/estee-lauder-bi-phat-750-000-cad-vi-ban-my-pham-chua-hoa-chat-vinh-cuu-5013794.html",
+      "summary": "Tập đoàn Estée Lauder bị Tòa án Tư pháp Ontario phạt 750.000 CAD (gần 14 tỷ đồng) và đưa vào danh sách đen về môi trường do bán bút kẻ mắt chứa chất khó phân hủy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:04:14+07:00",
+      "fetched": "2026-02-04T11:03:56.343147+07:00"
+    },
+    {
+      "id": "69ea6e84229c7228cbd82102964da824",
+      "title": "Học sinh TP HCM có thể thi lớp 10 vào cuối tháng 5",
+      "link": "https://vnexpress.net/hoc-sinh-tp-hcm-co-the-thi-lop-10-vao-cuoi-thang-5-5013850.html",
+      "summary": "Kỳ thi lớp 10 công lập của TP HCM có thể vào cuối tháng 5, để tránh chạy đua học thêm, theo đề xuất của Sở Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:02:40+07:00",
+      "fetched": "2026-02-04T11:03:56.343303+07:00"
+    },
+    {
+      "id": "b105a5d9df7d9251bf618637b2c39865",
+      "title": "VietinBank triển khai sản phẩm cho vay liên kết bền vững",
+      "link": "https://vnexpress.net/vietinbank-trien-khai-san-pham-cho-vay-lien-ket-ben-vung-5013424.html",
+      "summary": "VietinBank triển khai sản phẩm cho vay liên kết bền vững, ký hợp tác với 8 đối tác trong và ngoài nước, đưa các tiêu chuẩn ESG trở thành tiêu chí hợp tác tài trợ vốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T03:00:00+07:00",
+      "fetched": "2026-02-04T11:03:56.343456+07:00"
+    },
+    {
+      "id": "010f2c65ad911d0d01713dff4673cf33",
+      "title": "Chính phủ Mỹ mở cửa trở lại",
+      "link": "https://vnexpress.net/chinh-phu-my-mo-cua-tro-lai-5013815.html",
+      "summary": "Tổng thống Trump ký duyệt gói ngân sách được quốc hội Mỹ thông qua, chấm dứt 4 ngày chính phủ đóng cửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T02:57:12+07:00",
+      "fetched": "2026-02-04T11:03:56.343629+07:00"
+    },
+    {
+      "id": "010f2c65ad911d0d01713dff4673cf33",
+      "title": "Chính phủ Mỹ mở cửa trở lại",
+      "link": "https://vnexpress.net/chinh-phu-my-mo-cua-tro-lai-5013815.html",
+      "summary": "Tổng thống Trump ký duyệt gói ngân sách được quốc hội Mỹ thông qua, chấm dứt 4 ngày chính phủ đóng cửa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-04T02:57:12+07:00",
+      "fetched": "2026-02-04T11:04:03.004504+07:00"
+    },
+    {
+      "id": "2b44e3352f9ebf31147803c226683e8b",
+      "title": "Nvidia thay Apple thành khách hàng lớn nhất của TSMC",
+      "link": "https://vnexpress.net/nvidia-thay-apple-thanh-khach-hang-lon-nhat-cua-tsmc-5013727.html",
+      "summary": "Làn sóng AI khiến Apple bị Nvidia soán ngôi, không còn là khách hàng lớn nhất của TSMC, buộc họ phải tìm đến Intel và Samsung để đảm bảo nguồn cung.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-04T02:40:22+07:00",
+      "fetched": "2026-02-04T11:04:09.795702+07:00"
+    },
+    {
+      "id": "4b2c5a78716d8067144915a7afc93167",
+      "title": "Mỗi lượng vàng miếng tăng thêm gần 4 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-4-2-5013823.html",
+      "summary": "Các thương hiệu điều chỉnh giá bán vàng miếng thêm 3,7 triệu, lên 180,2 triệu đồng một lượng, theo đà tăng trên thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-04T02:36:15+07:00",
+      "fetched": "2026-02-04T11:04:05.281751+07:00"
+    },
+    {
+      "id": "319c955a973b2fcbdd86ecc67f2b1e64",
+      "title": "Hãng bán lẻ Walmart đạt vốn hóa 1.000 tỷ USD",
+      "link": "https://vnexpress.net/hang-ban-le-walmart-dat-von-hoa-1-000-ty-usd-5013778.html",
+      "summary": "Cổ phiếu chuỗi bán lẻ lớn nhất thế giới Walmart tăng 26% trong một năm qua, kéo giá trị thị trường hãng này lên trên 1.000 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-04T02:35:05+07:00",
+      "fetched": "2026-02-04T11:04:05.281917+07:00"
+    },
+    {
+      "id": "e44cb27a94351d1f0642e99d5c02df23",
+      "title": "Cú sốc tại Trung tâm Kennedy sau quyết định đóng cửa hai năm của ông Trump",
+      "link": "https://vnexpress.net/cu-soc-tai-trung-tam-kennedy-sau-quyet-dinh-dong-cua-hai-nam-cua-ong-trump-5013526.html",
+      "summary": "Tổng thống Trump bất ngờ thông báo đóng cửa Trung tâm Kennedy hai năm để cải tạo, gây sốc cho nhân viên cơ sở này và giới nghệ thuật Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-04T02:26:37+07:00",
+      "fetched": "2026-02-04T11:04:03.004670+07:00"
+    },
+    {
+      "id": "82efc73dd79f67094df6c3d8ec5f9c18",
+      "title": "CEO Telegram chỉ trích Pháp sau vụ khám xét X",
+      "link": "https://vnexpress.net/ceo-telegram-chi-trich-phap-sau-vu-kham-xet-x-5013777.html",
+      "summary": "Pavel Durov, nhà sáng lập kiêm CEO Telegram, cho rằng Pháp \"không phải quốc gia tự do\" sau khi cảnh sát lục soát văn phòng X ở Paris.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-04T01:59:25+07:00",
+      "fetched": "2026-02-04T11:04:09.795880+07:00"
+    },
+    {
+      "id": "58dd486c72048f35d2c2154cba61a0e1",
+      "title": "Arteta: 'Chung kết Cup Liên đoàn là liều vitamin tốt nhất cho Arsenal'",
+      "link": "https://vnexpress.net/arteta-chung-ket-cup-lien-doan-la-lieu-vitamin-tot-nhat-cho-arsenal-5013793.html",
+      "summary": "Theo HLV Mikel Arteta, vào chung kết Cup Liên đoàn mang ý nghĩa tinh thần lớn, tiếp thêm năng lượng cho Arsenal trong giai đoạn lịch thi đấu dày đặc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-04T01:58:33+07:00",
+      "fetched": "2026-02-04T11:04:11.653931+07:00"
+    },
+    {
+      "id": "ee5112c6bce181dfa4d70be88021b0f9",
+      "title": "Ông Trump làm lành với Tổng thống Colombia sau căng thẳng",
+      "link": "https://vnexpress.net/ong-trump-lam-lanh-voi-tong-thong-colombia-sau-cang-thang-5013755.html",
+      "summary": "Tổng thống Trump và người đồng cấp Colombia tán dương nhau sau cuộc gặp trực tiếp ở Nhà Trắng, kết thúc nhiều tháng liên tục chỉ trích nhau.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-04T01:42:44+07:00",
+      "fetched": "2026-02-04T11:04:03.004840+07:00"
     },
     {
       "id": "5b39afc34e736a61b288a546e9db7009",
@@ -303,6 +883,16 @@ window.newsData_2026_02_04 = {
       "fetched": "2026-02-04T01:42:42.365799+07:00"
     },
     {
+      "id": "b3dd1c2aaf191edcac39ba8ccf9a67be",
+      "title": "Pháp triệu tập Elon Musk, khám xét văn phòng của X",
+      "link": "https://vnexpress.net/phap-trieu-tap-elon-musk-kham-xet-van-phong-cua-x-5013750.html",
+      "summary": "Công tố viên Pháp khám xét văn phòng của X tại Paris và triệu tập Elon Musk, khi điều tra nghi vấn can thiệp chính trị và deepfake khiêu dâm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-04T01:14:37+07:00",
+      "fetched": "2026-02-04T11:04:03.004998+07:00"
+    },
+    {
       "id": "6498f172c7c621ea6e54023b0418372d",
       "title": "Muốn giảm rụng tóc, hãy chú ý những điều sau đây",
       "link": "https://thanhnien.vn/muon-giam-rung-toc-hay-chu-y-nhung-dieu-sau-day-185260204080553708.htm",
@@ -371,6 +961,16 @@ window.newsData_2026_02_04 = {
       "category": "Kinh doanh",
       "published": "2026-02-04T00:59:33+07:00",
       "fetched": "2026-02-04T08:10:47.744705+07:00"
+    },
+    {
+      "id": "54785acce51925f814bf1a541b6fabef",
+      "title": "Chồng cũ của bà Jill Biden bị nghi giết vợ",
+      "link": "https://vnexpress.net/chong-cu-cua-ba-jill-biden-bi-nghi-giet-vo-5013754.html",
+      "summary": "William Stevenson, chồng cũ của cựu đệ nhất phu nhân Mỹ Jill Biden, bị truy tố với cáo buộc giết người vợ hiện tại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-04T00:56:27+07:00",
+      "fetched": "2026-02-04T11:04:03.005153+07:00"
     },
     {
       "id": "eaedf369163718c3be1e57554b67f74b",
@@ -701,6 +1301,16 @@ window.newsData_2026_02_04 = {
       "category": "Thể thao",
       "published": "2026-02-03T22:20:40+07:00",
       "fetched": "2026-02-04T08:10:51.623573+07:00"
+    },
+    {
+      "id": "f82f3826afeed49eb5758f7512632509",
+      "title": "Arsenal loại Chelsea, vào chung kết Cup Liên đoàn",
+      "link": "https://vnexpress.net/arsenal-loai-chelsea-vao-chung-ket-cup-lien-doan-5013742.html",
+      "summary": "Kai Havertz ghi bàn phút bù cuối cùng giúp Arsenal thắng Chelsea 1-0 ở bán kết lượt về tối 3/2, vào chung kết Cup Liên đoàn với tổng tỷ số 4-2.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-03T22:20:40+07:00",
+      "fetched": "2026-02-04T11:04:11.653611+07:00"
     },
     {
       "id": "751cfae4a3297e58f9ca353221b55c41",
