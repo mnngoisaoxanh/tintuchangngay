@@ -1,7 +1,157 @@
 window.newsData_2026_02_04 = {
   "date": "2026-02-04",
-  "lastUpdated": "2026-02-04T15:30:08.918848+07:00",
+  "lastUpdated": "2026-02-04T17:30:10.053641+07:00",
   "articles": [
+    {
+      "id": "048375238da2c75486fd32111d337492",
+      "title": "Tết nhân ái đến với đồng bào vùng lũ Đắk Lắk",
+      "link": "https://tuoitre.vn/tet-nhan-ai-den-voi-dong-bao-vung-lu-dak-lak-20260204123156953.htm",
+      "summary": "Những phần quà Tết cùng sự sẻ chia ấm áp đã đến với người dân vùng lũ xã Tây Hòa (Đắk Lắk) trong chương trình “Tết vì đồng bào vùng lũ”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.623092+07:00",
+      "fetched": "2026-02-04T17:30:03.623211+07:00"
+    },
+    {
+      "id": "8cf6618c85d6e721e9b548dcb8ef8868",
+      "title": "Hậu duệ Samsung tiết lộ bí quyết đỗ Đại học Quốc gia: Ba năm không điện thoại thông minh",
+      "link": "https://tuoitre.vn/hau-due-samsung-tiet-lo-bi-quyet-do-dai-hoc-quoc-gia-ba-nam-khong-dien-thoai-thong-minh-20260204141003332.htm",
+      "summary": "Lim Dong Hyun đã trúng tuyển khoa kinh tế, Đại học Quốc gia Seoul vào tháng 12 năm ngoái theo diện xét tuyển sớm. Cậu luôn duy trì thành tích học tập xuất sắc trong ba năm cấp ba và đạt điểm cao trong kỳ thi CSAT.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.622965+07:00",
+      "fetched": "2026-02-04T17:30:03.623080+07:00"
+    },
+    {
+      "id": "dbf36c966379752c02d1539b27483cd5",
+      "title": "Nguyên cán bộ, phóng viên và bạn đọc Tuổi Trẻ tặng quà Tết cho người khiếm thị Phú Yên cũ",
+      "link": "https://tuoitre.vn/nguyen-can-bo-phong-vien-va-ban-doc-tuoi-tre-tang-qua-tet-cho-nguoi-khiem-thi-phu-yen-cu-20260204141742852.htm",
+      "summary": "Không nhìn thấy ánh sáng, nhưng nhiều người mù ở Phú Yên cũ (nay thuộc Đắk Lắk) đã “chạm” được vào mùa xuân bằng chính những phần quà Tết và những cái nắm tay ấm áp từ ban tổ chức chương trình và báo Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.622817+07:00",
+      "fetched": "2026-02-04T17:30:03.622952+07:00"
+    },
+    {
+      "id": "f9daec49cbe977b57bfe5a67b0a0dd55",
+      "title": "9X thắng đại diện đảng cầm quyền, trở thành thống đốc trẻ tuổi nhất Nhật Bản",
+      "link": "https://tuoitre.vn/9x-thang-dai-dien-dang-cam-quyen-tro-thanh-thong-doc-tre-tuoi-nhat-nhat-ban-20260204143916175.htm",
+      "summary": "Ông Takato Ishida (35 tuổi) đã trở thành thống đốc trẻ tuổi nhất Nhật Bản sau khi chiến thắng sít sao trước đối thủ thuộc Đảng Dân chủ tự do (LDP).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.622692+07:00",
+      "fetched": "2026-02-04T17:30:03.622806+07:00"
+    },
+    {
+      "id": "d44b231a2c5a51555dfdf2e1f30e02b2",
+      "title": "Trường đại học Kỹ thuật Y - Dược Đà Nẵng tuyển dụng viên chức 2026",
+      "link": "https://tuoitre.vn/truong-dai-hoc-ky-thuat-y-duoc-da-nang-tuyen-dung-vien-chuc-2026-20260204145320705.htm",
+      "summary": "Trường đại học Kỹ thuật Y - Dược Đà Nẵng vừa phát thông báo về việc tuyển dụng viên chức năm 2026 với tổng số tuyển dụng lần này lên đến 125 người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.622559+07:00",
+      "fetched": "2026-02-04T17:30:03.622681+07:00"
+    },
+    {
+      "id": "bb7cadd1064a8de65f6e08be39e9d5d6",
+      "title": "Khởi tố giám đốc sản xuất, buôn bán hàng trăm tấn lúa giống ST24, ST25 giả",
+      "link": "https://tuoitre.vn/khoi-to-giam-doc-san-xuat-buon-ban-hang-tram-tan-lua-giong-st24-st25-gia-2026020414251563.htm",
+      "summary": "Giám đốc sản xuất, buôn bán lúa giống ST24, ST25 giả với số lượng lên đến hàng trăm tấn đã bị công an phát hiện, khởi tố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.622428+07:00",
+      "fetched": "2026-02-04T17:30:03.622547+07:00"
+    },
+    {
+      "id": "7752b2de5fcf2b4966e01857dc1451c4",
+      "title": "Bí mật về khả năng chống ung thư của cá voi đầu cong",
+      "link": "https://tuoitre.vn/bi-mat-ve-kha-nang-chong-ung-thu-cua-ca-voi-dau-cong-20260204121152951.htm",
+      "summary": "Cá voi đầu cong được xem là một trong những sinh vật kỳ lạ nhất. Không chỉ sở hữu kích thước đồ sộ, loài động vật có vú này còn nắm giữ kỷ lục về tuổi thọ, có thể sống hơn 200 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.622292+07:00",
+      "fetched": "2026-02-04T17:30:03.622412+07:00"
+    },
+    {
+      "id": "e7ed69bc36defb3e1ef7d9310a4a8760",
+      "title": "358 giải Jackpot xổ số Power 6/55 đã tìm được chủ nhân",
+      "link": "https://tuoitre.vn/358-giai-jackpot-xo-so-power-6-55-da-tim-duoc-chu-nhan-20260203165415348.htm",
+      "summary": "Theo Vietlott, hơn 8 năm qua, 358 giải Jackpot của xổ số tự chọn Power 6/55 đã tìm được chủ nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.622161+07:00",
+      "fetched": "2026-02-04T17:30:03.622280+07:00"
+    },
+    {
+      "id": "175037b50653e9c594e27299e5633952",
+      "title": "Phát hiện mới về nguyên nhân gây ra chứng bệnh lo âu",
+      "link": "https://tuoitre.vn/phat-hien-moi-ve-nguyen-nhan-gay-ra-chung-benh-lo-au-20260204121432592.htm",
+      "summary": "Sự cô lập xã hội đã gây ra tình trạng “tích tụ sắt” ở các vùng riêng biệt của não bộ, gây ra chứng lo âu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.622027+07:00",
+      "fetched": "2026-02-04T17:30:03.622148+07:00"
+    },
+    {
+      "id": "8555d83a56d47d2ac837c72bafc426e0",
+      "title": "Bộ Công Thương phản hồi 'cầu cứu' vụ trạm xăng cao tốc dừng bán: Địa phương phải giải quyết",
+      "link": "https://tuoitre.vn/bo-cong-thuong-phan-hoi-cau-cuu-vu-tram-xang-cao-toc-dung-ban-dia-phuong-phai-giai-quyet-20260204145712407.htm",
+      "summary": "Bộ Công Thương khẳng định việc cấp, gia hạn giấy chứng nhận bán lẻ xăng dầu thuộc thẩm quyền địa phương, không do bộ trực tiếp giải quyết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.621894+07:00",
+      "fetched": "2026-02-04T17:30:03.622015+07:00"
+    },
+    {
+      "id": "12cdb235e7bef2058c57cdea32a02248",
+      "title": "Lộ diện linh vật ngựa Đà Nẵng tung vó mang trên mình tên 93 xã, phường, đặc khu",
+      "link": "https://tuoitre.vn/lo-dien-linh-vat-ngua-da-nang-tung-vo-mang-tren-minh-ten-93-xa-phuong-dac-khu-20260204150046902.htm",
+      "summary": "Linh vật ngựa Đà Nẵng năm nay do nghệ nhân Đinh Văn Tâm (Quảng Trị) chế tác mang trên mình tên 93 xã, phường, đặc khu của thành phố mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.621730+07:00",
+      "fetched": "2026-02-04T17:30:03.621880+07:00"
+    },
+    {
+      "id": "cefef5fab515f6fad1c2500edceebf16",
+      "title": "Ngôi làng ở Italy hạn chế du khách đến nhà thờ ‘triệu like’",
+      "link": "https://tuoitre.vn/ngoi-lang-o-italy-han-che-du-khach-den-nha-tho-trieu-like-20260204121602927.htm",
+      "summary": "Trước làn sóng du khách đổ xô về chụp ảnh rồi rời đi ngay, chính quyền làng Santa Maddalena ở Italy đã quyết định dựng rào chắn và hạn chế tiếp cận khu vực nhà thờ nổi tiếng trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.621594+07:00",
+      "fetched": "2026-02-04T17:30:03.621718+07:00"
+    },
+    {
+      "id": "e06d1c831852cebad811a5452f0d9056",
+      "title": "Dựng chuyện cháu bé bị bắt cóc để lừa tiền từ thiện, admin trang ‘tin Việt - Cam’ lãnh án tù",
+      "link": "https://tuoitre.vn/dung-chuyen-chau-be-bi-bat-coc-de-lua-tien-tu-thien-admin-trang-tin-viet-cam-lanh-an-tu-20260204145049126.htm",
+      "summary": "Nguyễn Hoàng Huy - admin trang “tin Việt – Cam” đã bịa chuyện có một cháu bé ở Huế bị bắt cóc, bị ném xuống đường nhằm kêu gọi từ thiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.621456+07:00",
+      "fetched": "2026-02-04T17:30:03.621582+07:00"
+    },
+    {
+      "id": "77a21804dda88f701c4486cbd47bc2cd",
+      "title": "5 ngày cuối đời của Từ Hy Viên: Bệnh tình chuyển nặng, không thể về nhà",
+      "link": "https://tuoitre.vn/5-ngay-cuoi-doi-cua-tu-hy-vien-benh-tinh-chuyen-nang-khong-the-ve-nha-20260204152244265.htm",
+      "summary": "Một năm sau khi nữ diễn viên Đài Loan Từ Hy Viên qua đời, một show Hàn Quốc làm rõ quá trình 5 ngày phát bệnh tại Nhật Bản và nguyên nhân chính dẫn đến cái chết thương tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.621307+07:00",
+      "fetched": "2026-02-04T17:30:03.621443+07:00"
+    },
+    {
+      "id": "c545bf52618b906bc1503f02397b697c",
+      "title": "Đồng Nai triệt phá nhóm tín dụng đen núp bóng quỹ đầu tư, lãi suất từ 800-1095%/năm",
+      "link": "https://tuoitre.vn/dong-nai-triet-pha-nhom-tin-dung-den-nup-bong-quy-dau-tu-tu-van-tai-chinh-2026020415271202.htm",
+      "summary": "Công an tỉnh Đồng Nai vừa bắt nhóm tín dụng đen núp bóng quỹ đầu tư, tư vấn tài chính với lãi suất “cắt cổ”, từ 800 - 1095% /năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T17:30:03.621066+07:00",
+      "fetched": "2026-02-04T17:30:03.621291+07:00"
+    },
     {
       "id": "abca2bf73dc33eb30b036802d04ef476",
       "title": "Mùa hoa pơ lang rực đỏ bên dòng sông chảy ngược Đăk Bla",
@@ -451,6 +601,406 @@ window.newsData_2026_02_04 = {
       "category": "Tổng hợp",
       "published": "2026-02-04T11:04:00.943283+07:00",
       "fetched": "2026-02-04T11:04:00.943518+07:00"
+    },
+    {
+      "id": "162f948c0812c40ddc6f31ef8369e0cd",
+      "title": "California tính chi 200 triệu USD hỗ trợ người mua xe điện",
+      "link": "https://vnexpress.net/california-tinh-chi-200-trieu-usd-ho-tro-nguoi-mua-xe-dien-5013961.html",
+      "summary": "California dự kiến chi 200 triệu USD để vực dậy thị trường xe điện, sau khi chính quyền Tổng thống Trump chấm dứt khoản hỗ trợ 7.500 USD của liên bang từ năm ngoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-04T10:24:18+07:00",
+      "fetched": "2026-02-04T17:30:06.114417+07:00"
+    },
+    {
+      "id": "a20aed3eb8f2d31b1cfa353c961deb31",
+      "title": "CLB Nam Định và Xuân Son quyết đánh bại đối thủ Malaysia có 3 cầu thủ nhập tịch 'lậu'",
+      "link": "https://thanhnien.vn/clb-nam-dinh-va-xuan-son-quyet-danh-bai-doi-thu-malaysia-co-3-cau-thu-nhap-tich-lau-185260204171601115.htm",
+      "summary": "Chiều 4.2, HLV Mauro khẳng định CLB Nam Định sẵn sàng đánh bại ông lớn Malaysia Johor Darul Ta'zim (DJT) để vào bán kết giải CLB ASEAN 2025 - 2026 với ngôi đầu bảng B.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T10:20:00+07:00",
+      "fetched": "2026-02-04T17:30:02.633371+07:00"
+    },
+    {
+      "id": "0dadbfa219710383066ac15707bbb4f8",
+      "title": "Bộ Quốc phòng sẽ tổ chức kỳ thi QDA để tuyển sinh cho trường quân đội",
+      "link": "https://thanhnien.vn/bo-quoc-phong-se-to-chuc-ky-thi-qda-de-tuyen-sinh-cho-truong-quan-doi-185260204163726208.htm",
+      "summary": "Kỳ thi QDA để tuyển sinh đại học, cao đẳng vào các trường quân đội dự kiến được tổ chức vào tuần thứ 3 của tháng 6, thí sinh làm bài thi trên máy, biết kết quả ngay sau khi thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T10:17:00+07:00",
+      "fetched": "2026-02-04T17:30:02.633554+07:00"
+    },
+    {
+      "id": "cb0e66fb46a7d772e53299407f6bf37b",
+      "title": "Báo động virus mới từ dơi đang tiến hóa có thể nguy hiểm như Nipah ở Bangladesh",
+      "link": "https://thanhnien.vn/bao-dong-virus-moi-tu-doi-dang-tien-hoa-co-the-nguy-hiem-nhu-nipah-o-bangladesh-185260204165059188.htm",
+      "summary": "Một dịch bệnh bí ẩn ở Bangladesh ban đầu vốn tưởng nhầm là ổ dịch Nipah nhưng thực chất do một virus mới phát hiện và có nguồn gốc từ dơi, mang theo nguy cơ chết chóc nếu lây nhiễm ở người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T10:15:00+07:00",
+      "fetched": "2026-02-04T17:30:02.633715+07:00"
+    },
+    {
+      "id": "1c3cf8afaf04bf312ebbe6b328c34125",
+      "title": "Mỗi sinh viên Lào là một 'đại sứ đặc biệt' vun đắp tình hữu nghị Việt - Lào",
+      "link": "https://thanhnien.vn/moi-sinh-vien-lao-la-mot-dai-su-dac-biet-vun-dap-tinh-huu-nghi-viet-lao-185260204161200946.htm",
+      "summary": "Tại buổi gặp mặt thân mật các sinh viên Lào, đại tá Trần Hữu Ích, Ủy viên Ban Thường vụ Thành ủy, Chỉ huy trưởng Bộ Chỉ huy quân sự TP.Đà Nẵng, nhấn mạnh, các học sinh Lào không chỉ sang Việt Nam để học tập mà còn mang sứ mệnh là những 'đại sứ đặc biệt' vun đắp tình hữu nghị Việt Nam – Lào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T10:15:00+07:00",
+      "fetched": "2026-02-04T17:30:02.633890+07:00"
+    },
+    {
+      "id": "a9a44314833988b431a7db954be3f2f9",
+      "title": "Chủ tiệm vàng Hoàn Huế bị đề nghị 12-13 năm tù, buộc nộp lại 680 tỉ",
+      "link": "https://thanhnien.vn/chu-tiem-vang-hoan-hue-bi-de-nghi-12-13-nam-tu-buoc-nop-lai-680-ti-185260204162038618.htm",
+      "summary": "Chủ tiệm vàng Hoàn Huế bị đề nghị mức án 12 - 13 năm tù, đồng thời phải nộp lại hơn 680 tỉ, với cáo buộc buôn lậu 546 kg vàng từ Trung Quốc về Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T10:10:00+07:00",
+      "fetched": "2026-02-04T17:30:02.634049+07:00"
+    },
+    {
+      "id": "4f7f71b4427dd8a6472f17f285bb268f",
+      "title": "Phản diện phim Harry Potter bất ngờ thành 'thần tài' dịp Tết ở Trung Quốc",
+      "link": "https://thanhnien.vn/phan-dien-phim-harry-potter-bat-ngo-thanh-than-tai-dip-tet-o-trung-quoc-185260204165909434.htm",
+      "summary": "Hình ảnh diễn viên Tom Felton, thủ vai nhân vật Draco Malfoy trong loạt phim ‘Harry Potter’, bất ngờ trở thành biểu tượng cầu may của người Trung Quốc trước dịp Tết Bính Ngọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T10:09:00+07:00",
+      "fetched": "2026-02-04T17:30:02.634207+07:00"
+    },
+    {
+      "id": "5ee898e70a83516fa0b43c585ad61567",
+      "title": "Công an TP.HCM đề xuất bố trí chỗ đỗ xe cho phụ huynh đưa đón con",
+      "link": "https://thanhnien.vn/cong-an-tphcm-de-xuat-bo-tri-cho-do-xe-cho-phu-huynh-dua-don-con-185260204135806818.htm",
+      "summary": "Công an TP.HCM đề xuất bố trí chỗ đỗ xe cho phụ huynh đưa đón con, tránh tình trạng lấn chiếm vỉa hè, lòng đường, gây ùn tắc khu vực cổng trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T10:07:00+07:00",
+      "fetched": "2026-02-04T17:30:02.634360+07:00"
+    },
+    {
+      "id": "c2b53591a48581682b84fc4d9e7e53df",
+      "title": "Lộ diện tai nghe cao cấp mới của Sony với mức giá gây 'sốc'",
+      "link": "https://thanhnien.vn/lo-dien-tai-nghe-cao-cap-moi-cua-sony-voi-muc-gia-gay-soc-185260204123807007.htm",
+      "summary": "Chưa ra mắt, 'vua chống ồn' Sony WF-1000XM6 đã lộ giá bán 'trên trời' tại Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T10:07:00+07:00",
+      "fetched": "2026-02-04T17:30:02.634511+07:00"
+    },
+    {
+      "id": "514d1c5c62582667fc86a06df8bb7b00",
+      "title": "Lái ô tô trên quốc lộ và cao tốc, làm sao để tránh tai nạn 'dồn toa'?",
+      "link": "https://thanhnien.vn/lai-o-to-tren-quoc-lo-va-cao-toc-lam-sao-de-tranh-tai-nan-don-toa-185251226155020506.htm",
+      "summary": "Bên cạnh tuân thủ khoảng cách an toàn, làm chủ tốc độ; việc áp dụng những mẹo xử lý phù hợp trong nhiều trường hợp có thể giúp tài xế tránh được những vụ tai nạn \"dồn toa\" nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T10:03:00+07:00",
+      "fetched": "2026-02-04T17:30:02.634660+07:00"
+    },
+    {
+      "id": "1e49633064110864aeb5e44147731554",
+      "title": "Honda Vario 125 2026 'Made in Indonesia' về Việt Nam, giá từ 44,8 triệu đồng",
+      "link": "https://thanhnien.vn/honda-vario-125-2026-made-in-indonesia-ve-viet-nam-gia-tu-448-trieu-dong-185260202220301753.htm",
+      "summary": "Nhập khẩu từ Indonesia, bản nâng cấp mới nhất của dòng xe tay ga Honda Vario 125 2026 với một số thay đổi về diện mạo, tính năng được một số cửa hàng không chính hãng báo giá từ 44,8 - 46,9 triệu đồng, tùy phiên bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T10:02:00+07:00",
+      "fetched": "2026-02-04T17:30:02.634814+07:00"
+    },
+    {
+      "id": "e70bcc8ddea1cdda9dc1c3f7dc4aa301",
+      "title": "Lỡ tay đốt nhà vì dùng đèn khò dọn tuyết",
+      "link": "https://vnexpress.net/lo-tay-dot-nha-vi-dung-den-kho-don-tuyet-5014071.html",
+      "summary": "Người đàn ông ở Massachusetts cố dọn tuyết chất đống trên mái nhà bằng đèn khò giữa đợt bão, suýt thiêu rụi cơ ngơi của mình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-04T10:01:41+07:00",
+      "fetched": "2026-02-04T17:30:04.740373+07:00"
+    },
+    {
+      "id": "be21afd27f87fccf949e837ead235ff7",
+      "title": "Bạn trai tử tế nhưng tôi luôn bất an",
+      "link": "https://vnexpress.net/tieu-thu-nha-giau-yeu-chang-trai-tu-lap-va-noi-so-phai-danh-doi-su-on-dinh-lay-su-tu-te-5013980.html",
+      "summary": "Vài năm nữa anh vẫn là người tử tế, cố gắng, nhưng không thực sự đạt đến mức tôi kỳ vọng, liệu bản thân có hối hận không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T10:00:00+07:00",
+      "fetched": "2026-02-04T17:29:58.989714+07:00"
+    },
+    {
+      "id": "373c1067689910ffa26526ebe699d474",
+      "title": "Toàn cảnh 17h: Lộ diện ‘trùm’ thẩm mỹ chui tự xưng bác sĩ top đầu | Mánh khóe bán ma túy qua khe cửa",
+      "link": "https://thanhnien.vn/toan-canh-17h-lo-dien-trum-tham-my-chui-tu-xung-bac-si-top-dau-manh-khoe-ban-ma-tuy-qua-khe-cua-185260204150800828.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T10:00:00+07:00",
+      "fetched": "2026-02-04T17:30:02.634986+07:00"
+    },
+    {
+      "id": "6698816bd5a3c0eef4aebae85346bc40",
+      "title": "Điểm tin 17h: VKS buộc hai 'trùm' buôn lậu 546 kg vàng nộp lại 1.200 tỷ đồng | CSGT bị tông tử vong khi đang kiểm tra xe tải",
+      "link": "https://vnexpress.net/diem-tin-17h-vks-buoc-hai-trum-buon-lau-546-kg-vang-nop-lai-1-200-ty-dong-csgt-bi-tong-tu-vong-khi-dang-kiem-tra-xe-tai-5014105.html",
+      "summary": "TP HCM tính mở tuyến xe buýt đón khách đi sân bay Long Thành; Bitcoin rơi về mức thấp nhất kể từ khi ông Trump đắc cử...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:59:39+07:00",
+      "fetched": "2026-02-04T17:29:58.989919+07:00"
+    },
+    {
+      "id": "881e5d90c5acf9038baf72b40c3d6c75",
+      "title": "7 trải nghiệm độc đáo ít người biết dịp Tết Nguyên đán ở Việt Nam",
+      "link": "https://thanhnien.vn/7-trai-nghiem-doc-dao-it-nguoi-biet-dip-tet-nguyen-dan-o-viet-nam-185260204165006188.htm",
+      "summary": "Thay vì du xuân theo lộ trình quen thuộc, nhiều du khách chọn Tết Nguyên đán để khám phá văn hóa bản địa. Booking.com gợi ý 7 trải nghiệm độc đáo từ miền núi phía Bắc đến phương Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:59:00+07:00",
+      "fetched": "2026-02-04T17:30:02.635135+07:00"
+    },
+    {
+      "id": "d496c03cff9f0432e5d0f4e41656ffb7",
+      "title": "Chưa từng có: Người dân TP.HCM được đi xe buýt miễn phí thứ sáu hàng tuần",
+      "link": "https://thanhnien.vn/chua-tung-co-nguoi-dan-tphcm-duoc-di-xe-buyt-mien-phi-thu-6-hang-tuan-18526020416454686.htm",
+      "summary": "Chương trình 'Thứ sáu không tiền mặt - Đi buýt 0 đồng' vừa được Sở Xây dựng TP.HCM công bố triển khai chính thức ngay từ tháng 2 này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:59:00+07:00",
+      "fetched": "2026-02-04T17:30:02.635290+07:00"
+    },
+    {
+      "id": "91e8b5e38b8d77947606f273a11bb72b",
+      "title": "Sẽ có nhiều tuyến xe buýt đưa người dân TP.HCM tới sân bay Long Thành",
+      "link": "https://thanhnien.vn/se-co-nhieu-tuyen-xe-buyt-dua-nguoi-dan-tphcm-toi-san-bay-long-thanh-185260204162924631.htm",
+      "summary": "TP.HCM đang lên phương án tổ chức nhiều tuyến xe buýt kết nối với sân bay Long Thành (Đồng Nai).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:59:00+07:00",
+      "fetched": "2026-02-04T17:30:02.635435+07:00"
+    },
+    {
+      "id": "2a6cb559542432a4ac955102f67e5111",
+      "title": "Bang Illinois gia nhập mạng lưới của WHO sau khi chính quyền Trump rút khỏi",
+      "link": "https://vnexpress.net/bang-illinois-gia-nhap-mang-luoi-cua-who-sau-khi-chinh-quyen-trump-rut-khoi-5014046.html",
+      "summary": "Bang Illinois chỉ trích việc chính quyền Trump rút Mỹ khỏi WHO, tuyên bố họ sẽ gia nhập mạng lưới của tổ chức này một cách độc lập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:54:04+07:00",
+      "fetched": "2026-02-04T17:29:58.990096+07:00"
+    },
+    {
+      "id": "2a6cb559542432a4ac955102f67e5111",
+      "title": "Bang Illinois gia nhập mạng lưới của WHO sau khi chính quyền Trump rút khỏi",
+      "link": "https://vnexpress.net/bang-illinois-gia-nhap-mang-luoi-cua-who-sau-khi-chinh-quyen-trump-rut-khoi-5014046.html",
+      "summary": "Bang Illinois chỉ trích việc chính quyền Trump rút Mỹ khỏi WHO, tuyên bố họ sẽ gia nhập mạng lưới của tổ chức này một cách độc lập.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-04T09:54:04+07:00",
+      "fetched": "2026-02-04T17:30:04.740552+07:00"
+    },
+    {
+      "id": "6617d45af8641ac6f40af8b3f5100817",
+      "title": "Vì sao 4 năm không giải quyết dứt điểm vụ hai cây xăng trên cao tốc ngừng bán?",
+      "link": "https://vnexpress.net/tinh-hinh-giao-thong-cao-toc-dau-giay-phan-thiet-hom-nay-cao-toc-khong-con-tram-xang-5013906.html",
+      "summary": "Vụ việc phát sinh từ năm 2022, hai cây xăng đóng cửa giáp Tết 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:51:22+07:00",
+      "fetched": "2026-02-04T17:29:58.990264+07:00"
+    },
+    {
+      "id": "1d0e63f9ca1187feefa8a6799252da96",
+      "title": "Công an TP HCM bắt 36 người trong đường dây ma túy liên tỉnh",
+      "link": "https://vnexpress.net/cong-an-tp-hcm-truy-quet-bat-36-nguoi-trong-duong-day-ma-tuy-lien-tinh-5014084.html",
+      "summary": "Từ vụ sử dụng ma túy, cảnh sát đã mở rộng điều tra đến các tỉnh lân cận, bắt Hoàng Phi Long, 28 tuổi, và 35 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:43:39+07:00",
+      "fetched": "2026-02-04T17:29:58.990424+07:00"
+    },
+    {
+      "id": "f09fc3803a5bc4223af05af4f97dfb8b",
+      "title": "Giá vàng, giá bạc đồng loạt tăng cùng chiều với đà hồi phục giá thế giới",
+      "link": "https://thanhnien.vn/gia-vang-gia-bac-dong-loat-tang-cung-chieu-voi-da-hoi-phuc-gia-the-gioi-185260204151514707.htm",
+      "summary": "Sau khi giảm mạnh, giá vàng, giá bạc đang có nhịp hồi. Chuyên gia cho rằng, khi giá bớt 'nhào lộn', đạt sự ổn định tương đối là thời điểm phù hợp để xuống tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:39:00+07:00",
+      "fetched": "2026-02-04T17:30:02.635582+07:00"
+    },
+    {
+      "id": "4630f4b1be25ec7113103042e4ae06de",
+      "title": "Lý do hàng nhập khẩu thực phẩm, nông sản ách tắc",
+      "link": "https://vnexpress.net/ly-do-hang-nhap-khau-thuc-pham-nong-san-ach-tac-5013462.html",
+      "summary": "Nghị định 46 có hiệu lực ngay thời điểm ban hành nhưng thiếu hướng dẫn chi tiết, trong khi doanh nghiệp và hạ tầng chưa thể đáp ứng khiến hàng hóa ách tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:31:30+07:00",
+      "fetched": "2026-02-04T17:29:58.990593+07:00"
+    },
+    {
+      "id": "4630f4b1be25ec7113103042e4ae06de",
+      "title": "Lý do hàng nhập khẩu thực phẩm, nông sản ách tắc",
+      "link": "https://vnexpress.net/ly-do-hang-nhap-khau-thuc-pham-nong-san-ach-tac-5013462.html",
+      "summary": "Nghị định 46 có hiệu lực ngay thời điểm ban hành nhưng thiếu hướng dẫn chi tiết, trong khi doanh nghiệp và hạ tầng chưa thể đáp ứng khiến hàng hóa ách tắc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-04T09:31:30+07:00",
+      "fetched": "2026-02-04T17:30:06.114594+07:00"
+    },
+    {
+      "id": "ff7f7a20dad925e93992ebea2a5dee3d",
+      "title": "Vingroup hợp tác phát triển hệ sinh thái tại bang Tamil Nadu",
+      "link": "https://vnexpress.net/vingroup-hop-tac-phat-trien-he-sinh-thai-tai-bang-tamil-nadu-5014082.html",
+      "summary": "Vingroup ký biên bản ghi nhớ hợp tác (MoU) với bang Tamil Nadu, Ấn Độ để nghiên cứu đầu tư du lịch, nghỉ dưỡng và taxi điện, ngày 4/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:30:00+07:00",
+      "fetched": "2026-02-04T17:29:58.990751+07:00"
+    },
+    {
+      "id": "ad65055eb2616daf34cd36daa9233d1c",
+      "title": "Long Châu, Bayer hợp tác Cục Phòng bệnh chống nguy cơ đột quỵ",
+      "link": "https://vnexpress.net/long-chau-bayer-hop-tac-cuc-phong-benh-chong-nguy-co-dot-quy-5014059.html",
+      "summary": "Long Châu và Bayer trở thành đối tác chiến lược 5 năm của Cục Phòng bệnh (Bộ Y tế), trong Chương trình quốc gia phòng, chống và quản lý đột quỵ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:30:00+07:00",
+      "fetched": "2026-02-04T17:29:58.990934+07:00"
+    },
+    {
+      "id": "f01686b811ab64e2151a45daccf90769",
+      "title": "Lợi ích của nước dừa với hệ tiêu hóa",
+      "link": "https://vnexpress.net/loi-ich-cua-nuoc-dua-voi-he-tieu-hoa-5013430.html",
+      "summary": "Nhờ chứa magie và kali, nước dừa có thể hỗ trợ hoạt động ruột và giảm táo bón nhẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:30:00+07:00",
+      "fetched": "2026-02-04T17:29:58.991176+07:00"
+    },
+    {
+      "id": "2a318c61654f40364ec060cf4f4c9e81",
+      "title": "VN-Index xuống thấp nhất một tháng",
+      "link": "https://vnexpress.net/vn-index-xuong-thap-nhat-mot-thang-5014078.html",
+      "summary": "Áp lực bán mạnh VIC và các cổ phiếu liên quan góp phần khiến VN-Index mất 22 điểm, thủng mốc 1.800 điểm, xuống thấp nhất một tháng qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:16:56+07:00",
+      "fetched": "2026-02-04T17:29:58.991357+07:00"
+    },
+    {
+      "id": "2a318c61654f40364ec060cf4f4c9e81",
+      "title": "VN-Index xuống thấp nhất một tháng",
+      "link": "https://vnexpress.net/vn-index-xuong-thap-nhat-mot-thang-5014078.html",
+      "summary": "Áp lực bán mạnh VIC và các cổ phiếu liên quan góp phần khiến VN-Index mất 22 điểm, thủng mốc 1.800 điểm, xuống thấp nhất một tháng qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-04T09:16:56+07:00",
+      "fetched": "2026-02-04T17:30:06.114762+07:00"
+    },
+    {
+      "id": "33f7d843dad6923b28daa535178acee0",
+      "title": "Người Trung Quốc treo hình Draco Malfoy làm biểu tượng may mắn 2026",
+      "link": "https://vnexpress.net/nguoi-trung-quoc-treo-hinh-draco-malfoy-lam-bieu-tuong-may-man-2026-5014060.html",
+      "summary": "Nhân vật Draco Malfoy trong series Harry Potter bất ngờ trở thành biểu tượng cho may mắn trong năm mới 2026 ở Trung Quốc, do phiên âm tên tiếng Hán là \"Mã Nhĩ Phúc\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:16:20+07:00",
+      "fetched": "2026-02-04T17:29:58.991515+07:00"
+    },
+    {
+      "id": "33f7d843dad6923b28daa535178acee0",
+      "title": "Người Trung Quốc treo hình Draco Malfoy làm biểu tượng may mắn 2026",
+      "link": "https://vnexpress.net/nguoi-trung-quoc-treo-hinh-draco-malfoy-lam-bieu-tuong-may-man-2026-5014060.html",
+      "summary": "Nhân vật Draco Malfoy trong series Harry Potter bất ngờ trở thành biểu tượng cho may mắn trong năm mới 2026 ở Trung Quốc, do phiên âm tên tiếng Hán là \"Mã Nhĩ Phúc\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-04T09:16:20+07:00",
+      "fetched": "2026-02-04T17:30:04.740715+07:00"
+    },
+    {
+      "id": "adb05e145ec084528aec04354662a6b7",
+      "title": "Park Shin Hye tỏa sáng với vai diễn hai mặt",
+      "link": "https://vnexpress.net/park-shin-hye-toa-sang-voi-vai-dien-hai-mat-5013845.html",
+      "summary": "Park Shin Hye gây ấn tượng khi hóa thân thanh tra giả dạng thực tập sinh, thâm nhập công ty chứng khoán, trong phim \"Undercover Miss Hong\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:07:59+07:00",
+      "fetched": "2026-02-04T17:29:58.991668+07:00"
+    },
+    {
+      "id": "b9c6844a61b415552ee12cee3a50a6ac",
+      "title": "Thiếu niên kể 4 tiếng bơi giữa biển động tìm người cứu gia đình",
+      "link": "https://vnexpress.net/thieu-nien-ke-4-tieng-boi-giua-bien-dong-tim-nguoi-cuu-gia-dinh-5013981.html",
+      "summary": "Austin bơi suốt 4 giờ trên vùng biển động nhiều cá mập ở Tây Australia để tìm người cứu mẹ và các em, song cậu bé nói mình không phải người hùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:07:01+07:00",
+      "fetched": "2026-02-04T17:29:58.991830+07:00"
+    },
+    {
+      "id": "b9c6844a61b415552ee12cee3a50a6ac",
+      "title": "Thiếu niên kể 4 tiếng bơi giữa biển động tìm người cứu gia đình",
+      "link": "https://vnexpress.net/thieu-nien-ke-4-tieng-boi-giua-bien-dong-tim-nguoi-cuu-gia-dinh-5013981.html",
+      "summary": "Austin bơi suốt 4 giờ trên vùng biển động nhiều cá mập ở Tây Australia để tìm người cứu mẹ và các em, song cậu bé nói mình không phải người hùng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-04T09:07:01+07:00",
+      "fetched": "2026-02-04T17:30:04.740901+07:00"
+    },
+    {
+      "id": "e183b611089233729f464175e0b26597",
+      "title": "Ô chữ được quan tâm nhiều ngày 4/2",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-o-chu-duoc-quan-tam-nhieu-ngay-4-2-5013411.html",
+      "summary": "Không chỉ thế giới, mà trong nước 'ô chữ' này cũng khiến nhiều người tìm lại nụ cười sau khi tăng thêm gần 4 triệu đồng / lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:00:00+07:00",
+      "fetched": "2026-02-04T17:29:58.992007+07:00"
+    },
+    {
+      "id": "d685082b2902d61ae3a21ed9a3cee808",
+      "title": "Nhà sản xuất mua lại bao bì để ngăn vứt bừa bãi ở ruộng vườn",
+      "link": "https://vnexpress.net/thuoc-tru-sau-rac-thai-bao-bi-thuoc-tru-sau-5013869.html",
+      "summary": "Nên chăng cần có cơ chế bắt buộc các nhà sản xuất, kinh doanh thuốc bảo vệ thực vật mua lại vỏ bao bì?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T09:00:00+07:00",
+      "fetched": "2026-02-04T17:29:58.992160+07:00"
+    },
+    {
+      "id": "869b0701d2d16aab5d8ed94d060c451b",
+      "title": "Chính phủ Mỹ sắp cấp phép khai thác dầu khí tại Venezuela",
+      "link": "https://vnexpress.net/chinh-phu-my-sap-cap-phep-khai-thac-dau-khi-tai-venezuela-5014023.html",
+      "summary": "Chính quyền ông Trump có thể cấp giấy phép chung ngay trong tuần này cho các công ty khai thác dầu khí tại Venezuela, CNBC trích nguồn tin cho biết.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-04T08:48:41+07:00",
+      "fetched": "2026-02-04T17:30:06.114952+07:00"
+    },
+    {
+      "id": "af00cdd366b1992d096a06e31e3d96a2",
+      "title": "Máy bay Mỹ nổ lốp, khiến căn cứ trọng yếu ở châu Âu tê liệt nhiều ngày",
+      "link": "https://vnexpress.net/may-bay-my-no-lop-khien-can-cu-trong-yeu-o-chau-au-te-liet-nhieu-ngay-5013933.html",
+      "summary": "Máy bay KC-46 Mỹ gặp sự cố khi cất cánh, nghi là hỏng động cơ và nổ lốp, khiến căn cứ Moron ở châu Âu ngừng hoạt động nhiều ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-04T08:45:56+07:00",
+      "fetched": "2026-02-04T17:30:04.741065+07:00"
+    },
+    {
+      "id": "c0e9d32121b71bdc0a4f92c793705612",
+      "title": "Con trai Gaddafi bị nhóm sát thủ bắn chết",
+      "link": "https://vnexpress.net/con-trai-gaddafi-bi-nhom-sat-thu-ban-chet-5014024.html",
+      "summary": "Saif al-Islam Gaddafi, con trai cố lãnh đạo Libya Muammar Gaddafi, thiệt mạng trong một vụ nổ súng \"do 4 người che mặt tiến hành\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-04T08:32:17+07:00",
+      "fetched": "2026-02-04T17:30:04.741230+07:00"
     },
     {
       "id": "1c0ec86f53a45df72ab9aba0c8dd0daf",
