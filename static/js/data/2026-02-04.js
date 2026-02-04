@@ -1,7 +1,157 @@
 window.newsData_2026_02_04 = {
   "date": "2026-02-04",
-  "lastUpdated": "2026-02-04T19:37:05.555645+07:00",
+  "lastUpdated": "2026-02-04T21:36:31.520844+07:00",
   "articles": [
+    {
+      "id": "0e7b84304af202bec7ad678de95605f5",
+      "title": "UBND TP.HCM: Chợ Bến Thành, hồ Con Rùa chỉnh trang đúng chủ trương, khang trang",
+      "link": "https://tuoitre.vn/ubnd-tp-hcm-cho-ben-thanh-ho-con-rua-chinh-trang-dung-chu-truong-khang-trang-20260204161040904.htm",
+      "summary": "UBND TP.HCM đánh giá việc chỉnh trang chợ Bến Thành, Hồ Con Rùa… đúng chủ trương, góp phần tạo không gian công cộng khang trang, tươi mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.289219+07:00",
+      "fetched": "2026-02-04T21:36:23.289304+07:00"
+    },
+    {
+      "id": "21331987f07c68f733cf2f0e4f722e8a",
+      "title": "Hà Nội thu hút bác sĩ giỏi: Hỗ trợ một lần bằng 1.000 lần mức lương tối thiểu, miễn học phí cho con",
+      "link": "https://tuoitre.vn/ha-noi-thu-hut-bac-si-gioi-ho-tro-mot-lan-bang-1-000-muc-luong-toi-thieu-mien-hoc-phi-cho-con-20260204175016819.htm",
+      "summary": "Hà Nội vừa ban hành nghị quyết quy định mới về thu hút, trọng dụng người có tài năng với hàng loạt chính sách ưu đãi vượt trội, hướng trọng tâm vào các lĩnh vực then chốt, trong đó y tế được xác định là lĩnh vực bảo đảm an sinh xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.289122+07:00",
+      "fetched": "2026-02-04T21:36:23.289211+07:00"
+    },
+    {
+      "id": "203a41dd80748290050e4c33ba5cc99a",
+      "title": "Ông Tập Cận Bình tiếp Đặc phái viên của Tổng Bí thư Tô Lâm",
+      "link": "https://tuoitre.vn/ong-tap-can-binh-tiep-dac-phai-vien-cua-tong-bi-thu-to-lam-20260204180836697.htm",
+      "summary": "Tại cuộc tiếp, Tổng Bí thư, Chủ tịch nước Trung Quốc Tập Cận Bình khẳng định Trung Quốc luôn coi trọng cao và ưu tiên phát triển quan hệ hữu nghị với Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.289026+07:00",
+      "fetched": "2026-02-04T21:36:23.289114+07:00"
+    },
+    {
+      "id": "f85d7be06a8c46c3daf6401213362cab",
+      "title": "Chưa nhận được phản ánh các sản phẩm do Bộ Y tế quản lý 'vướng' Nghị định 46",
+      "link": "https://tuoitre.vn/chua-nhan-duoc-phan-anh-cac-san-pham-do-bo-y-te-quan-ly-vuong-nghi-dinh-46-20260204175714578.htm",
+      "summary": "Đối với các sản phẩm, lĩnh vực do Bộ Y tế quản lý, Thứ trưởng thường trực Vũ Mạnh Hà cho hay chưa nhận phản ánh vướng mắc gì liên quan tới quá trình thực hiện Nghị định 46.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.288932+07:00",
+      "fetched": "2026-02-04T21:36:23.289018+07:00"
+    },
+    {
+      "id": "071e1c381e068e8681f150f3d75c4c19",
+      "title": "Khởi tố người phụ nữ phát tán video xúc phạm thẩm phán và tổ chức, cá nhân",
+      "link": "https://tuoitre.vn/khoi-to-nguoi-phu-nu-phat-tan-video-xuc-pham-tham-phan-va-to-chuc-ca-nhan-20260204170914986.htm",
+      "summary": "Nguyễn Thị Cẩm Chi bị cáo buộc lợi dụng vai trò đại diện theo ủy quyền trong một vụ án dân sự để đăng tải nhiều video lên mạng xã hội, có nội dung xúc phạm danh dự, nhân phẩm của người khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.288834+07:00",
+      "fetched": "2026-02-04T21:36:23.288923+07:00"
+    },
+    {
+      "id": "68bcc725870fecfca0191406a661b0b9",
+      "title": "Điện Kremlin: Nga sẽ còn chiến đấu cho đến khi Ukraine 'ra quyết định'",
+      "link": "https://tuoitre.vn/dien-kremlin-nga-se-con-chien-dau-cho-den-khi-ukraine-ra-quyet-dinh-20260204183045817.htm",
+      "summary": "Người phát ngôn Điện Kremlin khẳng định Nga sẽ nhấn mạnh lập trường không đổi của mình với Mỹ và Ukraine tại đàm phán Abu Dhabi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.288735+07:00",
+      "fetched": "2026-02-04T21:36:23.288825+07:00"
+    },
+    {
+      "id": "b1522e35b5d7f2dda8625d6ee7fd6430",
+      "title": "Rosé BlackPink nói gì khi 'trắng tay' tại Grammy 2026?",
+      "link": "https://tuoitre.vn/rose-blackpink-noi-gi-khi-trang-tay-tai-grammy-2026-20260204183916382.htm",
+      "summary": "Rosé (BlackPink) gửi lời cảm ơn đến Bruno Mars và người hâm mộ, gọi đêm trình diễn tại Grammy 2026 là trải nghiệm 'như một giấc mơ'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.288612+07:00",
+      "fetched": "2026-02-04T21:36:23.288725+07:00"
+    },
+    {
+      "id": "f06cdacecabe747e9d242c85086d1b46",
+      "title": "Camera AI bị tố 'bắt nhầm' tài xế vi phạm: Cầm ví, hộp kính bị 'nhìn' thành dùng điện thoại",
+      "link": "https://tuoitre.vn/camera-ai-bi-to-bat-nham-tai-xe-vi-pham-cam-vi-hop-kinh-bi-nhin-thanh-dung-dien-thoai-20260204121927779.htm",
+      "summary": "Nhiều tài xế tại Úc phản ánh bị phạt oan do camera AI nhận diện sai hành vi sử dụng điện thoại khi lái xe, làm dấy lên lo ngại về độ chính xác của công nghệ này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.288509+07:00",
+      "fetched": "2026-02-04T21:36:23.288603+07:00"
+    },
+    {
+      "id": "b756abb39b8c481a27c2bc76f3c8cb4e",
+      "title": "FPT mang Ngoại hạng Anh tới mọi nhà với gói cước linh hoạt",
+      "link": "https://tuoitre.vn/fpt-mang-ngoai-hang-anh-toi-moi-nha-voi-goi-cuoc-linh-hoat-20260204163130631.htm",
+      "summary": "Bản quyền giải bóng đá hấp dẫn hàng đầu hành tinh Ngoại hạng Anh đã bước sang tuần phát sóng thứ năm với những điều mới mẻ, thú vị từ FPT Play.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.288408+07:00",
+      "fetched": "2026-02-04T21:36:23.288500+07:00"
+    },
+    {
+      "id": "fa2ebac07c0d2d21c920cf1aadf6fbdc",
+      "title": "Bộ Công an cảnh báo giao thông Tết ‘rất đông’, người dân cần theo dõi phân luồng",
+      "link": "https://tuoitre.vn/bo-cong-an-canh-bao-giao-thong-tet-rat-dong-nguoi-dan-can-theo-doi-phan-luong-20260204122553476.htm",
+      "summary": "Theo người phát ngôn Bộ Công an, cảnh sát giao thông sẽ tăng cường tuần tra, xử lý vi phạm, đặc biệt là những hành vi là nguyên nhân trực tiếp gây tai nạn như lái xe sau khi uống rượu bia, sử dụng ma túy...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.288300+07:00",
+      "fetched": "2026-02-04T21:36:23.288399+07:00"
+    },
+    {
+      "id": "f13d5e3dd72a6b7f369c17615079746e",
+      "title": "Nghệ sĩ Trịnh Kim Chi làm kịch cà phê",
+      "link": "https://tuoitre.vn/nghe-si-trinh-kim-chi-lam-kich-ca-phe-20260204184630426.htm",
+      "summary": "Tết Bính Ngọ, khán giả yêu kịch lại có thêm điểm diễn mới để lựa chọn xem kịch giải trí. Đó là kịch cà phê tại Sân khấu Trịnh Kim Chi (lầu 1, 5B, Võ Văn Tần).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.288193+07:00",
+      "fetched": "2026-02-04T21:36:23.288291+07:00"
+    },
+    {
+      "id": "3e60121dc9f5ec5c9cd804db5e0fbdd0",
+      "title": "Thưởng Tết 2026 tăng mạnh, doanh nghiệp khối nào cao nhất?",
+      "link": "https://tuoitre.vn/thuong-tet-2026-tang-manh-doanh-nghiep-khoi-nao-cao-nhat-2026020417265687.htm",
+      "summary": "Cục trưởng Cục Tiền lương và Bảo hiểm xã hội (Bộ Nội vụ) Phạm Trường Giang đã thông tin về mức lương, thưởng dịp Tết Nguyên đán cho người lao động tại họp báo Chính phủ thường kỳ tháng 1-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.288079+07:00",
+      "fetched": "2026-02-04T21:36:23.288181+07:00"
+    },
+    {
+      "id": "b733d64a1c8d214601a40867ef27e2b5",
+      "title": "Kết nối Việt Nam với hệ sinh thái thanh toán toàn cầu: 5 năm chuyển đổi số",
+      "link": "https://tuoitre.vn/ket-noi-viet-nam-voi-he-sinh-thai-thanh-toan-toan-cau-5-nam-chuyen-doi-so-20260204185856756.htm",
+      "summary": "Hệ sinh thái thanh toán của Việt Nam đang bước vào giai đoạn mang tính bước ngoặt về quy mô và mức độ trưởng thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.287966+07:00",
+      "fetched": "2026-02-04T21:36:23.288069+07:00"
+    },
+    {
+      "id": "4ccf2179c75e73f6152112e56190b2d6",
+      "title": "TP.HCM sắp siết điều kiện tách thửa: Đất ở từ 36m² mới được chia, đất nông nghiệp từ 500m²",
+      "link": "https://tuoitre.vn/tp-hcm-sap-siet-dieu-kien-tach-thua-dat-o-tu-36m-moi-duoc-chia-dat-nong-nghiep-tu-500m-20260203165242446.htm",
+      "summary": "Dự thảo quy định mới của TP.HCM đề xuất nâng điều kiện tách thửa: đất ở tối thiểu 36m², đất nông nghiệp từ 500m², kèm yêu cầu lối đi, mặt tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.287839+07:00",
+      "fetched": "2026-02-04T21:36:23.287955+07:00"
+    },
+    {
+      "id": "ac4d42717712d035db8fad79c994085f",
+      "title": "Phó bí thư thường trực Lê Quốc Phong thăm, chúc Tết Vĩnh Long, trao 500 triệu đồng chăm lo người dân",
+      "link": "https://tuoitre.vn/pho-bi-thu-thuong-truc-le-quoc-phong-tham-chuc-tet-vinh-long-trao-500-trieu-dong-cham-lo-nguoi-dan-20260204182510014.htm",
+      "summary": "Phó bí thư thường trực Thành ủy TP.HCM Lê Quốc Phong đã đến thăm, chúc Tết và tặng quà cho các gia đình chính sách, hộ nghèo, cán bộ, chiến sĩ và học sinh có hoàn cảnh khó khăn tại tỉnh Vĩnh Long.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:36:23.287586+07:00",
+      "fetched": "2026-02-04T21:36:23.287825+07:00"
+    },
     {
       "id": "3ea96f8de0375087f454d2e51232f263",
       "title": "Trung Quốc ban hành quy định mới về truyền dữ liệu ô tô xuyên biên giới",
@@ -453,6 +603,106 @@ window.newsData_2026_02_04 = {
       "fetched": "2026-02-04T15:30:01.220797+07:00"
     },
     {
+      "id": "00cb5d572cbda657597230ba9e434cb3",
+      "title": "CLB CAHN ngược dòng ngoạn mục, thắng rất đậm CLB Singapore tại Cúp C1 Đông Nam Á: Chỉ tiếc là...",
+      "link": "https://thanhnien.vn/clb-cahn-nguoc-dong-ngoan-muc-thang-rat-dam-clb-singapore-tai-cup-c1-dong-nam-a-chi-tiec-la-185260204212317841.htm",
+      "summary": "Ở trận đấu thuộc lượt cuối vòng bảng Cúp C1 Đông Nam Á, CLB Công an Hà Nội (CAHN) có màn ngược dòng ngoạn mục để đánh bại CLB Tampines Rovers với tỷ số đậm 6-1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T14:35:00+07:00",
+      "fetched": "2026-02-04T21:36:22.153411+07:00"
+    },
+    {
+      "id": "6f926f8b323a8aef7b49b73a12e4077f",
+      "title": "Bà chủ tiệm vàng Hoàn Huế bị tuyên 10 năm tù vì buôn lậu 546 kg vàng",
+      "link": "https://thanhnien.vn/ba-chu-tiem-vang-hoan-hue-bi-tuyen-10-nam-tu-vi-buon-lau-546-kg-vang-185260204204858311.htm",
+      "summary": "Bà chủ tiệm vàng Hoàn Huế và cựu Giám đốc Công ty Thăng Long bị tuyên mỗi người 10 năm tù, buộc nộp lại 1.200 tỉ, liên quan vụ buôn lậu 546 kg vàng từ Trung Quốc về Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T14:09:00+07:00",
+      "fetched": "2026-02-04T21:36:22.153563+07:00"
+    },
+    {
+      "id": "6afc3fd9e75211a96adcd9fccf4ca6cf",
+      "title": "Chụp X-quang dưới 6 phút không thanh toán: BHXH nêu nguyên tắc giám định",
+      "link": "https://thanhnien.vn/chup-x-quang-duoi-6-phut-khong-thanh-toan-bhxh-neu-nguyen-tac-giam-dinh-185260204175840187.htm",
+      "summary": "Bảo hiểm xã hội (BHXH) Việt Nam đã giải thích về nguyên tắc giám định thanh toán chi phí khám chữa bệnh bảo hiểm y tế với quy định không thanh toán nếu chụp X-quang dưới 6 phút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T14:03:00+07:00",
+      "fetched": "2026-02-04T21:36:22.153715+07:00"
+    },
+    {
+      "id": "3f04d6d1cd1d5c2a0118c9c29adf3184",
+      "title": "Những sai lầm khiến bệnh răng miệng dễ xuất hiện dịp Tết",
+      "link": "https://vnexpress.net/nhung-sai-lam-khien-benh-rang-mieng-de-xuat-hien-dip-tet-5014137.html",
+      "summary": "Thay đổi lịch sinh hoạt, tiêu thụ nhiều đồ ngọt, rượu bia trong dịp Tết làm gia tăng nguy cơ sâu răng cấp, viêm nướu và các tổn thương răng miệng khó phục hồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:47:53+07:00",
+      "fetched": "2026-02-04T21:36:18.542397+07:00"
+    },
+    {
+      "id": "0faecc31308d4e601d6cd79854a9b1bd",
+      "title": "Ăn cơm chan canh có làm đường huyết tăng nhanh hơn?",
+      "link": "https://thanhnien.vn/an-com-chan-canh-co-lam-duong-huyet-tang-nhanh-hon-185260204175751792.htm",
+      "summary": "Chan canh vào cơm là thói quen ăn uống rất phổ biến của nhiều người. Tuy nhiên, với người tiểu đường, vấn đề đặt ra là liệu cách ăn này có khiến đường huyết sau ăn tăng nhanh hơn không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:44:00+07:00",
+      "fetched": "2026-02-04T21:36:22.153847+07:00"
+    },
+    {
+      "id": "6e2f974341a079279809d04a26ff599b",
+      "title": "Công nhân tử nạn ở mỏ than Quảng Ninh",
+      "link": "https://thanhnien.vn/cong-nhan-tu-nan-o-mo-than-quang-ninh-185260204194437273.htm",
+      "summary": "Một vụ tai nạn lao động đặc biệt nghiêm trọng xảy ra tại Công ty Than Khe Chàm (TKV, Quảng Ninh) rạng sáng 4.2 khiến một công nhân tử nạn, gióng lên hồi chuông cảnh báo về an toàn trong khai thác, sản xuất than.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:43:00+07:00",
+      "fetched": "2026-02-04T21:36:22.153971+07:00"
+    },
+    {
+      "id": "7db7387e48ee2dba5b499530c9be98e9",
+      "title": "200 nhà khoa học chia sẻ về xu hướng công nghệ sinh học và năng lượng",
+      "link": "https://vnexpress.net/200-nha-khoa-hoc-chia-se-ve-xu-huong-cong-nghe-sinh-hoc-va-nang-luong-5014142.html",
+      "summary": "Các nhà khoa học Việt Nam và Hàn Quốc chia sẻ các kết quả nghiên cứu mới cũng như xu hướng công nghệ sinh học, năng lượng tại hội thảo tổ chức từ ngày 3 đến 6/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:42:55+07:00",
+      "fetched": "2026-02-04T21:36:18.542560+07:00"
+    },
+    {
+      "id": "7db7387e48ee2dba5b499530c9be98e9",
+      "title": "200 nhà khoa học chia sẻ về xu hướng công nghệ sinh học và năng lượng",
+      "link": "https://vnexpress.net/200-nha-khoa-hoc-chia-se-ve-xu-huong-cong-nghe-sinh-hoc-va-nang-luong-5014142.html",
+      "summary": "Các nhà khoa học Việt Nam và Hàn Quốc chia sẻ các kết quả nghiên cứu mới cũng như xu hướng công nghệ sinh học, năng lượng tại hội thảo tổ chức từ ngày 3 đến 6/2.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-04T13:42:55+07:00",
+      "fetched": "2026-02-04T21:36:29.410904+07:00"
+    },
+    {
+      "id": "d187f1153a1f3643ca3bafa0d7643dd8",
+      "title": "Đường dây kinh doanh đa cấp Luxkingtech lừa hơn 1.000 người, chiếm đoạt hơn 175 tỉ đồng",
+      "link": "https://thanhnien.vn/duong-day-kinh-doanh-da-cap-luxkingtech-lua-hon-1000-nguoi-chiem-doat-hon-175-ti-dong-185260204194739991.htm",
+      "summary": "Công an xác định nhóm đối tượng đã sử dụng công nghệ cao để thực hiện hành vi chiếm đoạt tài sản thông qua hình thức kinh doanh đa cấp Luxkingtech. Hơn 1.000 người bị đường dây này lừa đảo hơn 175 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:42:00+07:00",
+      "fetched": "2026-02-04T21:36:22.154095+07:00"
+    },
+    {
+      "id": "07907595a582793b7fd4d13e31c7bb6f",
+      "title": "Cướp ngân hàng ở Lào Cai",
+      "link": "https://thanhnien.vn/cuop-ngan-hang-o-lao-cai-185260204193044859.htm",
+      "summary": "Khi thấy nhân viên ngân hàng đang đếm tiền cho khách hàng thì Nguyễn Thành Luân (31 tuổi) đã thò tay vào, lấy một tập tiền mệnh giá 500.000 đồng rồi bỏ chạy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:40:00+07:00",
+      "fetched": "2026-02-04T21:36:22.154227+07:00"
+    },
+    {
       "id": "237a99434971785ba5c9e4283c316cac",
       "title": "Đột kích 'boongke' ma túy giữa khu dân cư, thu giữ hơn 1,5kg ma túy",
       "link": "https://tuoitre.vn/dot-kich-boongke-ma-tuy-giua-khu-dan-cu-thu-giu-hon-1-5kg-ma-tuy-20260204095259528.htm",
@@ -603,6 +853,266 @@ window.newsData_2026_02_04 = {
       "fetched": "2026-02-04T13:38:43.850523+07:00"
     },
     {
+      "id": "e146d91f3abc735268b634c2e408cc39",
+      "title": "Hai trùm buôn lậu 546 kg vàng bị tuyên 10 năm tù",
+      "link": "https://vnexpress.net/hai-trum-buon-lau-546-kg-vang-bi-tuyen-10-nam-tu-5014150.html",
+      "summary": "Ngoài án tù mỗi người 10 năm, ông bà chủ hai công ty vàng Trần Thị Hoàn và Phạm Tuấn Hải phải nộp 1.200 tỷ đồng của 546 kg vàng lậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:32:37+07:00",
+      "fetched": "2026-02-04T21:36:18.542724+07:00"
+    },
+    {
+      "id": "10f82bd1e956c3cc4797f9fa60fc77d4",
+      "title": "Tập đoàn Nhật Bản rót 1.900 tỷ đồng mua dự án cao ốc ở TP HCM",
+      "link": "https://vnexpress.net/tap-doan-nhat-ban-rot-1-900-ty-dong-mua-du-an-cao-oc-o-tp-hcm-5014109.html",
+      "summary": "Mitsubishi Corporation nhận chuyển nhượng dự án cao ốc Thuận An 1 có diện tích 1,8 ha từ Phát Đạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:32:36+07:00",
+      "fetched": "2026-02-04T21:36:18.542869+07:00"
+    },
+    {
+      "id": "10f82bd1e956c3cc4797f9fa60fc77d4",
+      "title": "Tập đoàn Nhật Bản rót 1.900 tỷ đồng mua dự án cao ốc ở TP HCM",
+      "link": "https://vnexpress.net/tap-doan-nhat-ban-rot-1-900-ty-dong-mua-du-an-cao-oc-o-tp-hcm-5014109.html",
+      "summary": "Mitsubishi Corporation nhận chuyển nhượng dự án cao ốc Thuận An 1 có diện tích 1,8 ha từ Phát Đạt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-04T13:32:36+07:00",
+      "fetched": "2026-02-04T21:36:26.632515+07:00"
+    },
+    {
+      "id": "e1c5f106386dda59701b92ab289af300",
+      "title": "Xe buýt đi sân bay Long Thành nên có làn riêng để đảm bảo đúng giờ'?",
+      "link": "https://vnexpress.net/san-bay-long-thanh-chung-nao-hoat-dong-xe-buyt-di-san-bay-long-thanh-5014095.html",
+      "summary": "'Trong khi chờ đợi tuyến Metro kết nối với sân bay Long Thành thì các tuyến buýt này nên được dành phần đường riêng để đảm bảo đúng giờ'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:30:00+07:00",
+      "fetched": "2026-02-04T21:36:18.543004+07:00"
+    },
+    {
+      "id": "64f96ba9ef7fc42f00fe97db31e9990a",
+      "title": "Trung tâm tài chính, khu thương mại tự do 'hút' chú ý của FDI",
+      "link": "https://vnexpress.net/trung-tam-tai-chinh-khu-thuong-mai-tu-do-hut-chu-y-cua-fdi-5014129.html",
+      "summary": "Trung tâm tài chính quốc tế mới thành lập và việc xúc tiếp lập khu thương mại tự do Cái Mép Hạ của TP HCM đang được FDI chú ý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:29:59+07:00",
+      "fetched": "2026-02-04T21:36:18.543134+07:00"
+    },
+    {
+      "id": "64f96ba9ef7fc42f00fe97db31e9990a",
+      "title": "Trung tâm tài chính, khu thương mại tự do 'hút' chú ý của FDI",
+      "link": "https://vnexpress.net/trung-tam-tai-chinh-khu-thuong-mai-tu-do-hut-chu-y-cua-fdi-5014129.html",
+      "summary": "Trung tâm tài chính quốc tế mới thành lập và việc xúc tiếp lập khu thương mại tự do Cái Mép Hạ của TP HCM đang được FDI chú ý.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-04T13:29:59+07:00",
+      "fetched": "2026-02-04T21:36:26.632690+07:00"
+    },
+    {
+      "id": "f93ccc01ebbcc0f84e37c8945dada7a8",
+      "title": "Nước nào có tỷ phú giàu nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-co-ty-phu-giau-nhat-dong-nam-a-5014127.html",
+      "summary": "Với gần 30 tỷ USD, tỷ phú này có khối tài sản lớn nhất Đông Nam Á, top 72 thế giới. Bạn có biết người này ở nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:21:57+07:00",
+      "fetched": "2026-02-04T21:36:18.543257+07:00"
+    },
+    {
+      "id": "2c853a3e8b6fd286a06285b42ed6c613",
+      "title": "PM NextG Cal tại Hội chợ Mùa Xuân 2026: Cùng gia đình đón tết vững vàng",
+      "link": "https://thanhnien.vn/pm-nextg-cal-tai-hoi-cho-mua-xuan-2026-cung-gia-dinh-don-tet-vung-vang-18526020420432179.htm",
+      "summary": "Thuốc canxi PM NextG Cal vinh dự góp mặt tại Hội chợ Mùa Xuân 2026 - sự kiện xúc tiến thương mại quy mô quốc gia lần đầu tiên được tổ chức theo Đề án phê duyệt của Ban Chỉ đạo các Hội chợ Quốc gia, do Bộ Công Thương chủ trì.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:20:00+07:00",
+      "fetched": "2026-02-04T21:36:22.154350+07:00"
+    },
+    {
+      "id": "6d076243aeac5a94c49487d31f433d89",
+      "title": "Đội tuyển Thái Lan bất ngờ ‘quay xe’, thực thi chiến thuật rất đặc biệt: Quyết giành vé Asian Cup 2027",
+      "link": "https://thanhnien.vn/doi-tuyen-thai-lan-bat-ngo-quay-xe-thuc-thi-chien-thuat-rat-dac-biet-quyet-gianh-ve-asian-cup-2027-185260204201106404.htm",
+      "summary": "Truyền thông Thái Lan mới đây tiết lộ HLV Anthony Hudson sẽ thực hiện chiến thuật đặc biệt, hướng đến trận đấu quan trọng với Turkmenistan vào ngày 31.3 tại vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:16:00+07:00",
+      "fetched": "2026-02-04T21:36:22.154478+07:00"
+    },
+    {
+      "id": "75a73539e8c46e2ae9226ff0a12035d1",
+      "title": "Elon Musk thành người đầu tiên có tài sản vượt 800 tỷ USD",
+      "link": "https://vnexpress.net/elon-musk-so-huu-tai-san-800-ty-usd-sau-sap-nhap-xai-vao-spacex-5014145.html",
+      "summary": "Sau khi sáp nhập xAI vào SpaceX, Elon Musk vừa trở thành người đầu tiên trong lịch sử sở hữu khối tài sản 800 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:13:19+07:00",
+      "fetched": "2026-02-04T21:36:18.543386+07:00"
+    },
+    {
+      "id": "75a73539e8c46e2ae9226ff0a12035d1",
+      "title": "Elon Musk thành người đầu tiên có tài sản vượt 800 tỷ USD",
+      "link": "https://vnexpress.net/elon-musk-so-huu-tai-san-800-ty-usd-sau-sap-nhap-xai-vao-spacex-5014145.html",
+      "summary": "Sau khi sáp nhập xAI vào SpaceX, Elon Musk vừa trở thành người đầu tiên trong lịch sử sở hữu khối tài sản 800 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-04T13:13:19+07:00",
+      "fetched": "2026-02-04T21:36:26.632834+07:00"
+    },
+    {
+      "id": "32053e54ab588f55ee0d7b0ec1427aea",
+      "title": "Tạm giam 2 người dùng nón bảo hiểm đánh nhau trên đường Cộng Hòa",
+      "link": "https://thanhnien.vn/tam-giam-2-nguoi-dung-non-bao-hiem-danh-nhau-tren-duong-cong-hoa-185260204191828408.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an TP.HCM đã bắt tạm giam 2 người đàn ông dùng nón bảo hiểm đánh nhau trên đường Cộng Hòa gây náo loạn đường phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:04:00+07:00",
+      "fetched": "2026-02-04T21:36:22.154604+07:00"
+    },
+    {
+      "id": "46f9ef6b68fff4acabb884ade73f0c00",
+      "title": "Vì sao bánh chưng không được gói bằng lá chuối?",
+      "link": "https://vnexpress.net/vi-sao-banh-chung-khong-duoc-goi-bang-la-chuoi-5014120.html",
+      "summary": "Lá chuối phổ biến và dễ tìm kiếm hơn, nhưng bánh chưng truyền thống của miền Bắc thường được gói bằng lá dong với màu xanh đẹp mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:00:00+07:00",
+      "fetched": "2026-02-04T21:36:18.543517+07:00"
+    },
+    {
+      "id": "d2464ac7a4d91b2de527f72cc2f25cf4",
+      "title": "Một tháng sốt, đau bụng vì tăm tre 'đi lạc' vào gan",
+      "link": "https://vnexpress.net/mot-thang-sot-dau-bung-vi-tam-tre-di-lac-vao-gan-5013946.html",
+      "summary": "Người đàn ông 65 tuổi bị sốt, đau bụng suốt một tháng, bác sĩ phát hiện chiếc tăm tre dài gần 7 cm đâm xuyên ống tiêu hóa, \"đi lạc\" vào gan gây áp xe lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:00:00+07:00",
+      "fetched": "2026-02-04T21:36:18.543655+07:00"
+    },
+    {
+      "id": "512d2993f9c42436f81459ce310a6d75",
+      "title": "Hơn 200 sản phẩm TH tại Hội chợ mùa xuân 2026",
+      "link": "https://vnexpress.net/hon-200-san-pham-th-tai-hoi-cho-mua-xuan-2026-5014139.html",
+      "summary": "Khách tham quan có cơ hội trải nghiệm sữa tươi sạch, đồ uống, thảo dược và thực phẩm chế biến của TH tại sự kiện xúc tiến thương mại quy mô quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:00:00+07:00",
+      "fetched": "2026-02-04T21:36:18.543781+07:00"
+    },
+    {
+      "id": "5346bb2c757477a3084c4786735de3c8",
+      "title": "Xem nhanh 20h ngày 4.2: Ông Lưu Tú Bảo sẽ bị dẫn độ sang Úc? | Công ty đồ hộp Hạ Long báo lỗ",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-42-ong-luu-tu-bao-se-bi-dan-do-sang-uc-cong-ty-do-hop-ha-long-bao-lo-185260204195256024.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 4.2 có nhiều tin tức đáng chú ý về: Tòa án Liên bang Mỹ thông qua lệnh dẫn độ ông Lưu Tú Bảo; đồ hộp Hạ Long báo lỗ lớn sau vụ án thịt heo nhiễm bệnh;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:00:00+07:00",
+      "fetched": "2026-02-04T21:36:22.154758+07:00"
+    },
+    {
+      "id": "31a53070712c54884a8923649f70cb32",
+      "title": "Mỹ vị thực vật mùa đông với mâm cơm muối Huế tỏa sáng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/my-vi-thuc-vat-mua-dong-voi-mam-com-muoi-hue-toa-sang-185260203181433096.htm",
+      "summary": "Không chỉ là một bữa tiệc ẩm thực thực vật, đây còn là cuộc gặp gỡ của ký ức nông sản, văn hóa vùng miền và những con người chọn cách trồng trọt, chế biến thuận theo tự nhiên và các món ăn vùng miền đặc trưng, tiêu biểu là Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T13:00:00+07:00",
+      "fetched": "2026-02-04T21:36:22.154885+07:00"
+    },
+    {
+      "id": "02449236ada8ea46b15787443fc09d40",
+      "title": "Trưởng đoàn Indonesia bị cấm 20 trận vì đẩy trọng tài",
+      "link": "https://vnexpress.net/truong-doan-indonesia-bi-cam-20-tran-vi-day-trong-tai-5014146.html",
+      "summary": "Trưởng đoàn bóng đá Indonesia Surmadji bị FIFA phạt nặng sau hành động bất mãn với trọng tài ở trận thua Iraq 0-1 thuộc vòng loại bốn World Cup 2026 – khu vực châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T12:48:22+07:00",
+      "fetched": "2026-02-04T21:36:18.543905+07:00"
+    },
+    {
+      "id": "02449236ada8ea46b15787443fc09d40",
+      "title": "Trưởng đoàn Indonesia bị cấm 20 trận vì đẩy trọng tài",
+      "link": "https://vnexpress.net/truong-doan-indonesia-bi-cam-20-tran-vi-day-trong-tai-5014146.html",
+      "summary": "Trưởng đoàn bóng đá Indonesia Surmadji bị FIFA phạt nặng sau hành động bất mãn với trọng tài ở trận thua Iraq 0-1 thuộc vòng loại bốn World Cup 2026 – khu vực châu Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-04T12:48:22+07:00",
+      "fetched": "2026-02-04T21:36:31.508342+07:00"
+    },
+    {
+      "id": "637ebb40c0d2ffe8e1633ebd469c6cf5",
+      "title": "Cựu lãnh đạo và nhân viên Chi cục Thú y vùng 6 bị đề nghị mức án nào?",
+      "link": "https://thanhnien.vn/cuu-lanh-dao-va-nhan-vien-chi-cuc-thu-y-vung-6-bi-de-nghi-muc-an-nao-185260204192316717.htm",
+      "summary": "Viện KSND TP.HCM cáo buộc, từ năm 2018 đến khi vụ án bị khởi tố (năm 2023), các bị cáo là lãnh đạo, cán bộ tại Chi cục Thú y vùng 6 đã nhận hối lộ tổng cộng khoảng 2,9 tỉ đồng để bỏ qua thủ tục, tạo điều kiện cho doanh nghiệp nhập lậu sản phẩm động vật nhai lại có nguồn gốc từ các quốc gia châu Âu t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T12:44:00+07:00",
+      "fetched": "2026-02-04T21:36:22.155011+07:00"
+    },
+    {
+      "id": "4123c286e6aa114367a67fdcbfa9444f",
+      "title": "Trước 10.2, phấn đấu vận hành sàn giao dịch vàng",
+      "link": "https://thanhnien.vn/truoc-102-phan-dau-van-hanh-san-giao-dich-vang-185260204192654561.htm",
+      "summary": "Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ Trần Văn Sơn cho biết, tại cuộc họp thường kỳ Chính phủ chiều nay, Thủ tướng yêu cầu phấn đấu trước ngày 10.2 đưa vào vận hành sàn giao dịch vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T12:43:00+07:00",
+      "fetched": "2026-02-04T21:36:22.155134+07:00"
+    },
+    {
+      "id": "2df6d22c295bc3eea116259b66661094",
+      "title": "Việt Nam sẵn sàng cùng Trung Quốc đồng hành trong chặng đường phát triển mới",
+      "link": "https://thanhnien.vn/viet-nam-san-sang-cung-trung-quoc-dong-hanh-trong-chang-duong-phat-trien-moi-185260204181420603.htm",
+      "summary": "Chiều 4.2, Bộ trưởng Bộ Ngoại giao Lê Hoài Trung, Đặc phái viên của Tổng Bí thư Tô Lâm đã hội kiến Tổng Bí thư, Chủ tịch Trung Quốc Tập Cận Bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T12:40:00+07:00",
+      "fetched": "2026-02-04T21:36:22.155254+07:00"
+    },
+    {
+      "id": "52be7d02c4b0f957394a874d920b594a",
+      "title": "Sập cầu đường sắt đang xây ở Trung Quốc, 5 người chết",
+      "link": "https://vnexpress.net/sap-cau-duong-sat-dang-xay-o-trung-quoc-5-nguoi-chet-5014132.html",
+      "summary": "Nhịp chính dài 95 m của cầu đường sắt ở TP Diêm Thành bất ngờ đổ sập xuống sông, 5 người làm việc trên cầu bị vùi lấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T12:37:18+07:00",
+      "fetched": "2026-02-04T21:36:18.544030+07:00"
+    },
+    {
+      "id": "c7299917fd97829214c880d02ae32c8b",
+      "title": "Khách Tây nhầm đám tang là nhà hàng, được gia chủ mời ăn",
+      "link": "https://vnexpress.net/khach-tay-nham-dam-tang-la-nha-hang-duoc-gia-chu-moi-an-5014018.html",
+      "summary": "Ba du khách Hà Lan bất ngờ được gia chủ tiếp đãi nồng hậu khi vào nhầm một đám tang tại miền Nam Thái Lan để hỏi mua đồ uống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T12:36:12+07:00",
+      "fetched": "2026-02-04T21:36:18.544147+07:00"
+    },
+    {
+      "id": "aa7c232e7df666a143b909262f9c49cd",
+      "title": "Việt Nam khẳng định nỗ lực vì bình đẳng giới tại diễn đàn LHQ",
+      "link": "https://vnexpress.net/viet-nam-khang-dinh-no-luc-vi-binh-dang-gioi-tai-dien-dan-lhq-5014125.html",
+      "summary": "Đoàn Việt Nam nêu bật các biện pháp đảm bảo bình đẳng giới khi bảo vệ Báo cáo quốc gia lần thứ 9 về thực thi Công ước xóa bỏ mọi hình thức phân biệt đối xử chống lại phụ nữ tại LHQ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T12:31:13+07:00",
+      "fetched": "2026-02-04T21:36:18.544267+07:00"
+    },
+    {
+      "id": "aa7c232e7df666a143b909262f9c49cd",
+      "title": "Việt Nam khẳng định nỗ lực vì bình đẳng giới tại diễn đàn LHQ",
+      "link": "https://vnexpress.net/viet-nam-khang-dinh-no-luc-vi-binh-dang-gioi-tai-dien-dan-lhq-5014125.html",
+      "summary": "Đoàn Việt Nam nêu bật các biện pháp đảm bảo bình đẳng giới khi bảo vệ Báo cáo quốc gia lần thứ 9 về thực thi Công ước xóa bỏ mọi hình thức phân biệt đối xử chống lại phụ nữ tại LHQ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-04T12:31:13+07:00",
+      "fetched": "2026-02-04T21:36:24.579003+07:00"
+    },
+    {
       "id": "696ab56f7f275f5baf1dd54e1f379607",
       "title": "Đàm phán bắt đầu tại UAE, Nga yêu cầu Ukraine nhượng bộ",
       "link": "https://thanhnien.vn/dam-phan-bat-dau-tai-uae-nga-yeu-cau-ukraine-nhuong-bo-185260204183206805.htm",
@@ -651,6 +1161,16 @@ window.newsData_2026_02_04 = {
       "category": "Công nghệ",
       "published": "2026-02-04T12:23:44+07:00",
       "fetched": "2026-02-04T19:37:03.975673+07:00"
+    },
+    {
+      "id": "f844a5a9696560c73722abdbaf0f6b39",
+      "title": "Bác Nadal trách Alcaraz 'vô ơn' với thầy cũ",
+      "link": "https://vnexpress.net/bac-nadal-trach-alcaraz-vo-on-voi-thay-cu-5014138.html",
+      "summary": "HLV kỳ cựu Toni Nadal không hài lòng khi Carlos Alcaraz quên nhắc đến thầy cũ Juan Carlos Ferrero trong phát biểu mừng vô địch Australia Mở rộng 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-04T12:10:58+07:00",
+      "fetched": "2026-02-04T21:36:31.509045+07:00"
     },
     {
       "id": "fa3506b330c7f02b9a3149cd4ad3c881",
@@ -2451,6 +2971,16 @@ window.newsData_2026_02_04 = {
       "category": "Tổng hợp",
       "published": "2026-02-04T03:53:28+07:00",
       "fetched": "2026-02-04T11:03:56.340788+07:00"
+    },
+    {
+      "id": "46ebbc434484f2f0afc4a0cd740203d7",
+      "title": "Intel sắp sản xuất GPU cho trung tâm dữ liệu",
+      "link": "https://vnexpress.net/intel-sap-san-xuat-gpu-cho-trung-tam-du-lieu-5013819.html",
+      "summary": "Intel cho biết sẽ sản xuất card đồ họa (GPU), động thái được đánh giá nhắm đến các trung tâm dữ liệu AI, cạnh tranh trực tiếp với Nvidia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-04T03:53:28+07:00",
+      "fetched": "2026-02-04T21:36:29.411031+07:00"
     },
     {
       "id": "704449f7767b6f56947167a6a535347b",
