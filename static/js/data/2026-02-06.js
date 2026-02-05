@@ -1,7 +1,17 @@
 window.newsData_2026_02_06 = {
   "date": "2026-02-06",
-  "lastUpdated": "2026-02-06T01:36:56.053943+07:00",
+  "lastUpdated": "2026-02-06T03:22:53.015970+07:00",
   "articles": [
+    {
+      "id": "00e919460263f06b756de124ccb231d8",
+      "title": "Cục Hải quan chỉ đạo các đơn vị trực 24/7, thông quan nhanh hàng thực phẩm",
+      "link": "https://tuoitre.vn/cuc-hai-quan-chi-dao-cac-don-vi-truc-24-7-thong-quan-nhanh-hang-thuc-pham-20260205234232588.htm",
+      "summary": "Chỉ đạo được đưa ra ngay sau Nghị quyết số 09 tạm ngừng hiệu lực và điều chỉnh thời hạn áp dụng Nghị định số 46, nhằm tăng cường thông quan hàng hóa sau thực tế ách tắc, ùn ứ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T03:22:45.454457+07:00",
+      "fetched": "2026-02-06T03:22:45.454675+07:00"
+    },
     {
       "id": "e47345c9647d07fb860bebc244d5cd05",
       "title": "Thủ tướng Anh xin lỗi vì bê bối tỉ phú ấu dâm, Nga phủ nhận Epstein là tình báo Nga",
@@ -151,6 +161,56 @@ window.newsData_2026_02_06 = {
       "category": "Tổng hợp",
       "published": "2026-02-06T01:36:48.533172+07:00",
       "fetched": "2026-02-06T01:36:48.533391+07:00"
+    },
+    {
+      "id": "a1e4a80f931593075cd2981a2715e5bd",
+      "title": "Lan công chúa dát vàng 24K giá vài triệu đồng một cành",
+      "link": "https://vnexpress.net/lan-cong-chua-dat-vang-24k-gia-vai-trieu-dong-mot-canh-5012793.html",
+      "summary": "Lan công chúa dát vàng 24K sở hữu thiết kế riêng, nguồn khan hiếm, có giá bán vài triệu đồng mỗi cành đang hút khách dịp Tết.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-05T19:57:10+07:00",
+      "fetched": "2026-02-06T03:22:48.496266+07:00"
+    },
+    {
+      "id": "d2693c3ca0a3b097e8a06a6c1f215bd0",
+      "title": "Bitcoin bị bán tháo, thủng mốc 70.000 USD",
+      "link": "https://vnexpress.net/bitcoin-bi-ban-thao-thung-moc-70-000-usd-5014514.html",
+      "summary": "Nhà đầu tư toàn cầu bán tháo khiến Bitcoin giảm thêm 8% so với cuối ngày hôm trước, thủng mốc 70.000 USD và có thời điểm xuống dưới 67.000 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T19:23:38+07:00",
+      "fetched": "2026-02-06T03:22:41.005017+07:00"
+    },
+    {
+      "id": "d2693c3ca0a3b097e8a06a6c1f215bd0",
+      "title": "Bitcoin bị bán tháo, thủng mốc 70.000 USD",
+      "link": "https://vnexpress.net/bitcoin-bi-ban-thao-thung-moc-70-000-usd-5014514.html",
+      "summary": "Nhà đầu tư toàn cầu bán tháo khiến Bitcoin giảm thêm 8% so với cuối ngày hôm trước, thủng mốc 70.000 USD và có thời điểm xuống dưới 67.000 USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-05T19:23:38+07:00",
+      "fetched": "2026-02-06T03:22:48.496440+07:00"
+    },
+    {
+      "id": "7b04b5bedc9208e636a42c09739b69de",
+      "title": "FLC bổ nhiệm nhân sự 9x làm tổng giám đốc",
+      "link": "https://vnexpress.net/flc-bo-nhiem-nhan-su-9x-lam-tong-giam-doc-5014513.html",
+      "summary": "Nửa tháng sau khi ông Trịnh Văn Quyết tái xuất, FLC bổ nhiệm ông Trịnh Văn Nam (35 tuổi) làm Tổng giám đốc, còn người tiền nhiệm đảm trách Phó tổng giám đốc thường trực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T19:12:48+07:00",
+      "fetched": "2026-02-06T03:22:41.005204+07:00"
+    },
+    {
+      "id": "7b04b5bedc9208e636a42c09739b69de",
+      "title": "FLC bổ nhiệm nhân sự 9x làm tổng giám đốc",
+      "link": "https://vnexpress.net/flc-bo-nhiem-nhan-su-9x-lam-tong-giam-doc-5014513.html",
+      "summary": "Nửa tháng sau khi ông Trịnh Văn Quyết tái xuất, FLC bổ nhiệm ông Trịnh Văn Nam (35 tuổi) làm Tổng giám đốc, còn người tiền nhiệm đảm trách Phó tổng giám đốc thường trực.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-05T19:12:48+07:00",
+      "fetched": "2026-02-06T03:22:48.496603+07:00"
     },
     {
       "id": "7da201e90949b2a6397e863adc4c5de5",
