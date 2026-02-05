@@ -1,6 +1,6 @@
 window.newsData_2026_02_06 = {
   "date": "2026-02-06",
-  "lastUpdated": "2026-02-06T03:22:53.015970+07:00",
+  "lastUpdated": "2026-02-06T05:18:06.868957+07:00",
   "articles": [
     {
       "id": "00e919460263f06b756de124ccb231d8",
@@ -161,6 +161,186 @@ window.newsData_2026_02_06 = {
       "category": "Tổng hợp",
       "published": "2026-02-06T01:36:48.533172+07:00",
       "fetched": "2026-02-06T01:36:48.533391+07:00"
+    },
+    {
+      "id": "c7fe63825a59f520e0e2f210d0760d4b",
+      "title": "Tử vi ngày 6 tháng 2: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-6-thang-2-con-giap-nao-may-man-hom-nay-185260206032753568.htm",
+      "summary": "Tử vi ngày 6 tháng 2 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:15:00+07:00",
+      "fetched": "2026-02-06T05:18:00.679240+07:00"
+    },
+    {
+      "id": "53339164322b05d472d51dbd449260a6",
+      "title": "Thẩm mỹ 'chui' bủa vây: Xâm phạm trực tiếp sức khỏe người dân",
+      "link": "https://thanhnien.vn/tham-my-chui-bua-vay-xam-pham-truc-tiep-suc-khoe-nguoi-dan-185260205200122389.htm",
+      "summary": "Tình trạng người tay ngang dạy phẫu thuật thẩm mỹ, người không có chuyên môn vẫn thực hiện các thủ thuật xâm lấn cần bị xử lý hình sự để đủ sức răn đe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:04:00+07:00",
+      "fetched": "2026-02-06T05:18:00.679410+07:00"
+    },
+    {
+      "id": "d7c83749e613d9175819a9c54765ff39",
+      "title": "Điếu thuốc lá đắt giá nhất đời!",
+      "link": "https://thanhnien.vn/dieu-thuoc-la-dat-gia-nhat-doi-185260205183323464.htm",
+      "summary": "Chỉ vì một điếu thuốc lá, chuyến xe công nghệ bình thường ở TP.Đà Nẵng biến thành vụ việc gây bức xúc dư luận, để rồi người hút thuốc phải đối diện với cơ quan công an. Cái giá không hề rẻ cho thói quen hút thuốc không đúng chỗ và hành vi côn đồ…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:04:00+07:00",
+      "fetched": "2026-02-06T05:18:00.679569+07:00"
+    },
+    {
+      "id": "1ded94bd24f9329f569d7d1a5f0d5c24",
+      "title": "Dấu hiệu cảnh báo sớm ung thư vòm họng dễ bị bỏ qua",
+      "link": "https://vnexpress.net/dau-hieu-canh-bao-som-ung-thu-vom-hong-de-bi-bo-qua-5014068.html",
+      "summary": "Đau họng, hôi miệng kéo dài, khàn tiếng hoặc khó nuốt là một trong số những triệu chứng sớm phổ biến của ung thư họng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:02:00+07:00",
+      "fetched": "2026-02-06T05:17:58.026409+07:00"
+    },
+    {
+      "id": "1edf832f3c3dad0ed1520487204ba32b",
+      "title": "Vé tàu, xe Tết khan hiếm dù giá tăng cao",
+      "link": "https://vnexpress.net/ve-tau-xe-tet-khan-hiem-du-gia-tang-cao-5014449.html",
+      "summary": "Nhu cầu về quê ăn Tết tăng mạnh khiến vé tàu, xe từ TP HCM và các tỉnh phía Nam đi miền Trung nhanh chóng cạn, dù ngành vận tải đã bổ sung tàu, xe và điều chỉnh giá vé tăng 5-10%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:17:58.026592+07:00"
+    },
+    {
+      "id": "a09ef6b1c05390ea75bb7f0f1fe7565a",
+      "title": "New START - 'rào chắn hạt nhân' cuối cùng của Mỹ - Nga",
+      "link": "https://vnexpress.net/new-start-rao-chan-hat-nhan-cuoi-cung-cua-my-nga-5014332.html",
+      "summary": "Sự kết thúc của New START đánh dấu việc Mỹ - Nga không còn bất cứ ràng buộc hạt nhân nào, làm dấy lên lo ngại về khoảng trống kiểm soát vũ khí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:17:58.026757+07:00"
+    },
+    {
+      "id": "0bf9ac738eafbddc2ab4bbc87efeccec",
+      "title": "Các công ty trong 'hệ sinh thái' Elon Musk liên kết thế nào",
+      "link": "https://vnexpress.net/cac-cong-ty-trong-he-sinh-thai-elon-musk-lien-ket-the-nao-5014181.html",
+      "summary": "Elon Musk thường xuyên luân chuyển nhân sự, mua sản phẩm trong các công ty do ông điều hành, thậm chí hợp nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:17:58.026916+07:00"
+    },
+    {
+      "id": "da1d614c73c046626046bff06485adf5",
+      "title": "Mazda MX-5: xe thể thao mui trần hai chỗ giá rẻ nhất tại Việt Nam",
+      "link": "https://vnexpress.net/mazda-mx-5-xe-the-thao-mui-tran-hai-cho-gia-re-nhat-tai-viet-nam-5014387.html",
+      "summary": "Với giá bán dự kiến 1,359 tỷ đồng, MX-5 là mẫu xe mui trần không có đối thủ cùng phân khúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:17:58.027076+07:00"
+    },
+    {
+      "id": "557b21297e1b725d3196cc85a30ed932",
+      "title": "7 cầu thủ nhập tịch có thể bị tước hộ chiếu Malaysia",
+      "link": "https://vnexpress.net/7-cau-thu-nhap-tich-co-the-bi-tuoc-ho-chieu-malaysia-5014510.html",
+      "summary": "7 cầu thủ nhập tịch của Malaysia đang đối mặt nguy cơ mất quốc tịch, khi phán quyết cuối cùng của CAS dự kiến được đưa ra cuối tháng này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:17:58.027255+07:00"
+    },
+    {
+      "id": "73d8c14daebfd181ca07910626a5480d",
+      "title": "Quân khu 5: Những thước phim giữa dòng lũ đã khắc họa trọn vẹn tình quân dân",
+      "link": "https://thanhnien.vn/quan-khu-5-nhung-thuoc-phim-giua-dong-lu-da-khac-hoa-tron-ven-tinh-quan-dan-185260205204011239.htm",
+      "summary": "Giữa những đợt bão lũ dồn dập cuối năm 2025, hình ảnh bộ đội Quân khu 5 sát cánh cùng nhân dân và phóng viên báo chí bám trụ nơi tuyến đầu đã để lại dấu ấn sâu đậm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:18:00.679725+07:00"
+    },
+    {
+      "id": "e4b38880158cf5d404c76ebbc5214b67",
+      "title": "Mang xuân đến các DK1: Hậu phương của lính nhà giàn",
+      "link": "https://thanhnien.vn/mang-xuan-den-cac-dk1-hau-phuong-cua-linh-nha-gian-18526020517374133.htm",
+      "summary": "Vượt qua nỗi lòng riêng, những hậu phương của lính nhà giàn DK1 vẫn luôn là điểm tựa tinh thần vững chãi tiếp thêm động lực giúp các chiến sĩ hải quân vững tay súng, bảo vệ chủ quyền biển đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:18:00.679878+07:00"
+    },
+    {
+      "id": "05538dccec4958b9594e130b8075bf1a",
+      "title": "Chiến sự Ukraine ngày 1.443: Ukraine dùng tên lửa tầm xa tấn công đất Nga?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1443-ukraine-dung-ten-lua-tam-xa-tan-cong-dat-nga-185260205172837685.htm",
+      "summary": "Bộ Quốc phòng Nga tuyên bố hệ thống phòng không nước này đã bắn hạ 95 UAV do Ukraine phóng vào 4 tỉnh của Nga, bán đảo Crimea và trên biển Azov trong một đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:18:00.680050+07:00"
+    },
+    {
+      "id": "a09ef6b1c05390ea75bb7f0f1fe7565a",
+      "title": "New START - 'rào chắn hạt nhân' cuối cùng của Mỹ - Nga",
+      "link": "https://vnexpress.net/new-start-rao-chan-hat-nhan-cuoi-cung-cua-my-nga-5014332.html",
+      "summary": "Sự kết thúc của New START đánh dấu việc Mỹ - Nga không còn bất cứ ràng buộc hạt nhân nào, làm dấy lên lo ngại về khoảng trống kiểm soát vũ khí.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:18:02.795918+07:00"
+    },
+    {
+      "id": "0bf9ac738eafbddc2ab4bbc87efeccec",
+      "title": "Các công ty trong 'hệ sinh thái' Elon Musk liên kết thế nào",
+      "link": "https://vnexpress.net/cac-cong-ty-trong-he-sinh-thai-elon-musk-lien-ket-the-nao-5014181.html",
+      "summary": "Elon Musk thường xuyên luân chuyển nhân sự, mua sản phẩm trong các công ty do ông điều hành, thậm chí hợp nhất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:18:05.725135+07:00"
+    },
+    {
+      "id": "557b21297e1b725d3196cc85a30ed932",
+      "title": "7 cầu thủ nhập tịch có thể bị tước hộ chiếu Malaysia",
+      "link": "https://vnexpress.net/7-cau-thu-nhap-tich-co-the-bi-tuoc-ho-chieu-malaysia-5014510.html",
+      "summary": "7 cầu thủ nhập tịch của Malaysia đang đối mặt nguy cơ mất quốc tịch, khi phán quyết cuối cùng của CAS dự kiến được đưa ra cuối tháng này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:18:06.863854+07:00"
+    },
+    {
+      "id": "ad2263aa0f3d82eb65f54e830e59a45c",
+      "title": "Bắn súng Việt Nam tìm đối tác ăn ý với Trịnh Thu Vinh",
+      "link": "https://thanhnien.vn/ban-sung-viet-nam-tim-doi-tac-an-y-voi-trinh-thu-vinh-185260205210232504.htm",
+      "summary": "Đội tuyển bắn súng VN nỗ lực tranh tài ở giải vô địch súng ngắn, súng trường châu Á tại Ấn Độ, trong đó tăng cường thử nghiệm ở nội dung hỗn hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:58:00+07:00",
+      "fetched": "2026-02-06T05:18:00.680219+07:00"
+    },
+    {
+      "id": "cd4f69b37075840f0b7421890d1c2dae",
+      "title": "Benzema lập hat-trick trong trận ra mắt Al Hilal",
+      "link": "https://vnexpress.net/benzema-lap-hat-trick-trong-tran-ra-mat-al-hilal-5014521.html",
+      "summary": "Tiền đạo Karim Benzema góp ba bàn và một kiến tạo, giúp Al Hilal đè bẹp chủ nhà Al Akhdoud 6-0 ở vòng 21 Saudi Pro League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T20:39:25+07:00",
+      "fetched": "2026-02-06T05:17:58.027414+07:00"
+    },
+    {
+      "id": "cd4f69b37075840f0b7421890d1c2dae",
+      "title": "Benzema lập hat-trick trong trận ra mắt Al Hilal",
+      "link": "https://vnexpress.net/benzema-lap-hat-trick-trong-tran-ra-mat-al-hilal-5014521.html",
+      "summary": "Tiền đạo Karim Benzema góp ba bàn và một kiến tạo, giúp Al Hilal đè bẹp chủ nhà Al Akhdoud 6-0 ở vòng 21 Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-05T20:39:25+07:00",
+      "fetched": "2026-02-06T05:18:06.864058+07:00"
     },
     {
       "id": "a1e4a80f931593075cd2981a2715e5bd",
