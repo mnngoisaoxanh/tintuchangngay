@@ -1,7 +1,157 @@
 window.newsData_2026_02_05 = {
   "date": "2026-02-05",
-  "lastUpdated": "2026-02-05T19:38:42.775049+07:00",
+  "lastUpdated": "2026-02-05T21:37:34.410757+07:00",
   "articles": [
+    {
+      "id": "23e5175715e6cdb6f06c97ce2e627424",
+      "title": "Bí thư Nguyễn Duy Ngọc: Khai thác tối đa tiềm năng không gian ngầm, tầng thấp, không gian vũ trụ",
+      "link": "https://tuoitre.vn/bi-thu-nguyen-duy-ngoc-khai-thac-toi-da-tiem-nang-khong-gian-ngam-tang-thap-khong-gian-vu-tru-20260205181054001.htm",
+      "summary": "Thông tin trên được Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc đưa ra tại buổi gặp mặt lãnh đạo các cơ quan báo chí Trung ương và Hà Nội; đại biểu văn nghệ sĩ, trí thức; lãnh đạo các trường đại học, viện nhân dịp đón năm mới Bính Ngọ sáng 5-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.376625+07:00",
+      "fetched": "2026-02-05T21:37:26.376751+07:00"
+    },
+    {
+      "id": "20e84d7bb3ea9d65c46bf78e1919dde9",
+      "title": "Sở An toàn thực phẩm TP.HCM yêu cầu siết chặt từng khâu bếp ăn trường học",
+      "link": "https://tuoitre.vn/so-an-toan-thuc-pham-tp-hcm-yeu-cau-siet-chat-tung-khau-bep-an-truong-hoc-20260205183642836.htm",
+      "summary": "Sở An toàn thực phẩm TP.HCM đề nghị Sở Giáo dục và Đào tạo tăng cường giám sát bếp ăn trường học, siết nguồn gốc nguyên liệu và gắn trách nhiệm người đứng đầu để phòng ngừa ngộ độc thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.376488+07:00",
+      "fetched": "2026-02-05T21:37:26.376606+07:00"
+    },
+    {
+      "id": "df6ef63da35840c297d028426df4c1f6",
+      "title": "Dai-ichi Life Việt Nam: Hành trình bền bỉ mang nước uống sạch đến học đường",
+      "link": "https://tuoitre.vn/dai-ichi-life-viet-nam-hanh-trinh-ben-bi-mang-nuoc-uong-sach-den-hoc-duong-20260205182342929.htm",
+      "summary": "Nước sạch học đường là một trong những dự án trọng điểm của Dai-ichi Life Việt Nam, hướng đến phát triển bền vững và toàn diện cho trẻ em, đặc biệt ở các trường học vùng nông thôn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.376355+07:00",
+      "fetched": "2026-02-05T21:37:26.376476+07:00"
+    },
+    {
+      "id": "6305c0d12d53c78671a44889637f8d1c",
+      "title": "Sau phản ánh của Tuổi Trẻ, xử lý lấn chiếm vỉa hè quanh chợ Hạnh Thông Tây, đường Quang Trung",
+      "link": "https://tuoitre.vn/sau-phan-anh-cua-tuoi-tre-xu-ly-lan-chiem-via-he-quanh-cho-hanh-thong-tay-duong-quang-trung-2026020518371454.htm",
+      "summary": "Sau phản ánh của Tuổi Trẻ, lực lượng chức năng phường Thông Tây Hội và Đội cảnh sát giao thông Hàng Xanh tăng cường xử lý lấn chiếm vỉa hè, lòng đường quanh chợ Hạnh Thông Tây và các tuyến đường Quang Trung, Lê Văn Thọ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.376200+07:00",
+      "fetched": "2026-02-05T21:37:26.376343+07:00"
+    },
+    {
+      "id": "87d5648313507a593206f0cfa5c3eee6",
+      "title": "Hiệp ước kiểm soát vũ khí Mỹ - Nga sụp đổ: Hiệu ứng domino đẩy thế giới vào cuộc đua hạt nhân",
+      "link": "https://tuoitre.vn/hiep-uoc-kiem-soat-vu-khi-my-nga-sup-do-hieu-ung-domino-day-the-gioi-vao-cuoc-dua-hat-nhan-20260205181646326.htm",
+      "summary": "Sự kết thúc của Hiệp ước kiểm soát hạt nhân New START giữa Mỹ - Nga làm gia tăng những lo ngại về một kỷ nguyên bất ổn mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.376069+07:00",
+      "fetched": "2026-02-05T21:37:26.376187+07:00"
+    },
+    {
+      "id": "1bb8d246bd4df1eecea1320458efdc6f",
+      "title": "Phong trào 'cuồng Sanae': Cách Thủ tướng Takaichi thành 'idol' chinh phục cử tri trẻ",
+      "link": "https://tuoitre.vn/phong-trao-cuong-sanae-cach-thu-tuong-takaichi-thanh-idol-chinh-phuc-cu-tri-tre-20260205183921374.htm",
+      "summary": "Thủ tướng Takaichi Sanae - nữ thủ tướng đầu tiên của Nhật Bản - đang tạo nên một hiện tượng hiếm thấy trong chính trường nước này khi được đông đảo cử tri trẻ ủng hộ, nhờ chiến lược hình ảnh cá nhân và thông điệp đề cao lao động thay vì đặc quyền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.375919+07:00",
+      "fetched": "2026-02-05T21:37:26.376057+07:00"
+    },
+    {
+      "id": "2a1bb7d31e5735dad73e4e768507e541",
+      "title": "TP.HCM dành 96 tỉ đồng cải tạo khoa khám và khoa cấp cứu Bệnh viện Nhân dân Gia Định",
+      "link": "https://tuoitre.vn/tp-hcm-danh-96-ti-dong-cai-tao-khoa-kham-va-khoa-cap-cuu-benh-vien-nhan-dan-gia-dinh-20260205180701833.htm",
+      "summary": "TP.HCM sẽ dành 96 tỉ đồng cải tạo khoa khám và khoa cấp cứu Bệnh viện Nhân dân Gia Định (TP.HCM) nhằm nâng cao chất lượng khám chữa bệnh cho người dân khu vực và tỉnh lân cận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.375791+07:00",
+      "fetched": "2026-02-05T21:37:26.375907+07:00"
+    },
+    {
+      "id": "8c8fe4255660be56a2e996a9ef38f640",
+      "title": "Năm mới, Manulife tặng nhiều quà tặng giá trị cho khách hàng tham gia bảo hiểm",
+      "link": "https://tuoitre.vn/nam-moi-manulife-tang-nhieu-qua-tang-gia-tri-cho-khach-hang-tham-gia-bao-hiem-20260205183427127.htm",
+      "summary": "Từ 1-1 đến hết 28-2-2026, Manulife Việt Nam triển khai chương trình khuyến mại 'Vạn sự khởi đầu xanh - Tết 2026', với nhiều quà tặng hấp dẫn, đặc biệt là tượng ngựa vàng Vạn Lộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.375660+07:00",
+      "fetched": "2026-02-05T21:37:26.375779+07:00"
+    },
+    {
+      "id": "bfca72ffcce9b2725d7363b30c9780f5",
+      "title": "Tin tức giá xe: Honda CR-V hybrid lắp ráp chốt giá từ 1,17 tỉ đồng đấu Mazda CX-5, Hyundai Tucson",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-honda-cr-v-hybrid-lap-rap-chot-gia-tu-1-17-ti-dong-dau-mazda-cx-5-hyundai-tucson-2026020514263826.htm",
+      "summary": "Tại Việt Nam, Honda CR-V e:HEV sử dụng hệ truyền động hybrid được phân phối với mức giá từ 1,17 đến 1,25 tỉ đồng, tùy theo từng phiên bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.375533+07:00",
+      "fetched": "2026-02-05T21:37:26.375648+07:00"
+    },
+    {
+      "id": "5dd686250fc270d54763ac8a89d99de6",
+      "title": "Cùng nhìn lại hành trình 'khoác áo mới' của chợ Bến Thành và nhiều khu vực trung tâm TP.HCM",
+      "link": "https://tuoitre.vn/cung-nhin-lai-hanh-trinh-khoac-ao-moi-cua-cho-ben-thanh-va-nhieu-khu-vuc-trung-tam-tp-hcm-20260205161029785.htm",
+      "summary": "Chợ Bến Thành cùng nhiều khu vực trung tâm TP.HCM đã và đang hoàn tất hành trình “khoác áo mới”. Một hành trình rất nhanh nhưng mang lại nhiều niềm vui, sự thú vị cho người dân TP.HCM trước dịp Tết Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.375403+07:00",
+      "fetched": "2026-02-05T21:37:26.375522+07:00"
+    },
+    {
+      "id": "e738a271940445fc8ed82070dff35794",
+      "title": "Giải pháp nhận ngoại tệ trực tiếp cho người bán hàng online xuyên biên giới tại Việt Nam",
+      "link": "https://tuoitre.vn/giai-phap-nhan-ngoai-te-truc-tiep-cho-nguoi-ban-hang-online-xuyen-bien-gioi-tai-viet-nam-20260205183445505.htm",
+      "summary": "Người Việt Nam làm việc, kinh doanh xuyên biên giới có nhu cầu nhận thu nhập từ nước ngoài có thể nhận tiền quốc tế trực tiếp trên nền tảng ngân hàng số tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.375269+07:00",
+      "fetched": "2026-02-05T21:37:26.375390+07:00"
+    },
+    {
+      "id": "1a682459d732b3830c36e3099ddf753b",
+      "title": "Phó bí thư Đặng Minh Thông thăm, chúc Tết người dân, chiến sĩ, y bác sĩ khu vực Bà Rịa - Vũng Tàu",
+      "link": "https://tuoitre.vn/pho-bi-thu-dang-minh-thong-tham-chuc-tet-nguoi-dan-chien-si-y-bac-si-khu-vuc-ba-ria-vung-tau-2026020519043532.htm",
+      "summary": "Phó bí thư Thành ủy TP.HCM đã thăm hỏi, chúc Tết cán bộ chiến sĩ, y bác sĩ, Mẹ Việt Nam anh hùng, gia đình khó khăn ở khu vực Bà Rịa - Vũng Tàu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.375119+07:00",
+      "fetched": "2026-02-05T21:37:26.375256+07:00"
+    },
+    {
+      "id": "20f37c72c88461ebef971be85fdffcb7",
+      "title": "TP.HCM tìm lời giải đưa nguồn lực kiều bào tham gia vào công nghệ, đổi mới sáng tạo",
+      "link": "https://tuoitre.vn/tp-hcm-tim-loi-giai-dua-nguon-luc-kieu-bao-tham-gia-vao-cong-nghe-doi-moi-sang-tao-20260205184331208.htm",
+      "summary": "Với nguồn kiều hối hơn 190 tỉ USD trong 10 năm qua cùng mạng lưới trí thức, chuyên gia toàn cầu, nhưng việc đưa nguồn lực kiều bào vào phát triển công nghệ và sản xuất vẫn còn là thách thức lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.374984+07:00",
+      "fetched": "2026-02-05T21:37:26.375108+07:00"
+    },
+    {
+      "id": "31909e658fd4a513a38eeab1c8bfb1bb",
+      "title": "Ép người khác lên hát trong bữa tiệc: 'Niềm vui' của ai?",
+      "link": "https://tuoitre.vn/ep-nguoi-khac-len-hat-trong-bua-tiec-niem-vui-cua-ai-202602051858238.htm",
+      "summary": "Không ít người cho rằng việc gọi tên, ép người khác lên sân khấu hát trong các buổi tiệc, gala là cách khuấy động không khí. Tuy nhiên nhiều bạn đọc phản ánh thói quen này có thể khiến người bị ép rơi vào trạng thái khó chịu, xấu hổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.374839+07:00",
+      "fetched": "2026-02-05T21:37:26.374971+07:00"
+    },
+    {
+      "id": "5f2bf7d33b9576dfb441f491068b8721",
+      "title": "Em ơi mùa xuân đến rồi đó, album jazz hợp tác với nghệ sĩ đoạt giải Grammy và nhiều nghệ sĩ quốc tế",
+      "link": "https://tuoitre.vn/em-oi-mua-xuan-den-roi-do-album-jazz-hop-tac-voi-nghe-si-doat-giai-grammy-va-nhieu-nghe-si-quoc-te-20260205184207936.htm",
+      "summary": "‘Hát lại mùa xuân xưa, jazz cho mùa xuân mới’ là tinh thần đĩa nhạc Tết đậm chất jazz của Sao Mai Quỳnh Anh mang tên ‘Em ơi mùa xuân đến rồi đó’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:37:26.374592+07:00",
+      "fetched": "2026-02-05T21:37:26.374824+07:00"
+    },
     {
       "id": "9bc14fd2c91a0532860852162aaeac76",
       "title": "BSR đứng đầu toàn công đoàn Petrovietnam về 'Đổi mới sáng tạo dầu khí'",
@@ -373,6 +523,56 @@ window.newsData_2026_02_05 = {
       "fetched": "2026-02-05T15:31:53.638717+07:00"
     },
     {
+      "id": "1e7d9d6670f6d83cf94e19515cc8e48a",
+      "title": "Việt Nam luôn coi trọng và dành ưu tiên hàng đầu cho mối quan hệ đặc biệt với Lào",
+      "link": "https://thanhnien.vn/viet-nam-luon-coi-trong-va-danh-uu-tien-hang-dau-cho-moi-quan-he-dac-biet-voi-lao-185260205210944447.htm",
+      "summary": "Chiều 5.2, Tổng Bí thư Tô Lâm đã có cuộc hội kiến với Chủ tịch Quốc hội Lào Saysomphone Phomvihane.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T14:24:00+07:00",
+      "fetched": "2026-02-05T21:37:24.965198+07:00"
+    },
+    {
+      "id": "8f9521b53bd6c45ce19511db6dc2dc19",
+      "title": "Linh vật ngựa và long mã xứ Huế cùng thành ngữ 'ngựa Thượng Tứ' ít người biết",
+      "link": "https://thanhnien.vn/linh-vat-ngua-va-long-ma-xu-hue-cung-thanh-ngu-ngua-thuong-tu-it-nguoi-biet-185260205164236267.htm",
+      "summary": "Khám phá linh vật ngựa và long mã trong văn hóa Huế cùng thành ngữ 'ngựa Thượng Tứ', triển lãm chào đón Xuân Bính Ngọ 2026 sẽ đưa người thưởng lãm về di sản văn hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T14:22:00+07:00",
+      "fetched": "2026-02-05T21:37:24.965407+07:00"
+    },
+    {
+      "id": "f00c0f6b98e8aa206cdf951df51b5ce2",
+      "title": "Gắn kết chiến lược là 'chìa khóa' cho giai đoạn hợp tác mới giữa Việt Nam và Lào",
+      "link": "https://thanhnien.vn/gan-ket-chien-luoc-la-chia-khoa-cho-giai-doan-hop-tac-moi-giua-viet-nam-va-lao-185260205203931084.htm",
+      "summary": "Chiều 5.2, Tổng Bí thư Tô Lâm đã có cuộc hội kiến với Thủ tướng Lào Sonexay Siphandone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T14:02:00+07:00",
+      "fetched": "2026-02-05T21:37:24.965575+07:00"
+    },
+    {
+      "id": "06079e31259dd5a3fb7ec87023da2ae3",
+      "title": "Gần 21.000 phần quà tết được Công an tỉnh Gia Lai trao cho người nghèo",
+      "link": "https://thanhnien.vn/gan-21000-phan-qua-tet-duoc-cong-an-tinh-gia-lai-trao-cho-nguoi-ngheo-185260204150729659.htm",
+      "summary": "Gần 21.000 suất quà tết từ chương trình 'Xuân ấm áp, tết yêu thương' đã được Công an tỉnh Gia Lai trao tận tay người dân nghèo, giúp bà con đón Tết Bính Ngọ an toàn, đủ đầy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T14:00:00+07:00",
+      "fetched": "2026-02-05T21:37:24.965730+07:00"
+    },
+    {
+      "id": "ef7a5064dbd8f02eb7466fbc3884cf66",
+      "title": "'Băng Robin Hood' cướp thực phẩm chia cho người nghèo ở Canada",
+      "link": "https://vnexpress.net/bang-robin-hood-cuop-thuc-pham-chia-cho-nguoi-ngheo-o-canada-5014372.html",
+      "summary": "Hàng chục người bịt mặt tự nhận là \"băng Robin Hood\" xông vào cửa hàng, lấy thực phẩm để chia cho các bếp ăn cho người nghèo ở Montreal.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-05T14:00:00+07:00",
+      "fetched": "2026-02-05T21:37:28.888958+07:00"
+    },
+    {
       "id": "d05d2cfb2105ebd0ac587e476d1d171b",
       "title": "Khi nông sản Việt được kể bằng câu chuyện văn hóa",
       "link": "https://tuoitre.vn/khi-nong-san-viet-duoc-ke-bang-cau-chuyen-van-hoa-20260205095622252.htm",
@@ -521,6 +721,186 @@ window.newsData_2026_02_05 = {
       "category": "Tổng hợp",
       "published": "2026-02-05T13:45:22.851196+07:00",
       "fetched": "2026-02-05T13:45:22.851408+07:00"
+    },
+    {
+      "id": "a48046087e0dcecf8c2954fe628f3908",
+      "title": "Quảng Trị: Bị khởi tố vì vận chuyển 43 kg thịt sơn dương",
+      "link": "https://thanhnien.vn/quang-tri-bi-khoi-to-vi-van-chuyen-43-kg-thit-son-duong-185260205201904407.htm",
+      "summary": "Công an tỉnh Quảng Trị vừa có quyết định khởi tố vụ án, khởi tố bị can 1 người đàn ông có hành vi vận chuyển, tàng trữ trái phép thịt sơn dương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:42:00+07:00",
+      "fetched": "2026-02-05T21:37:24.965883+07:00"
+    },
+    {
+      "id": "d61d11681677cf27d4935cf906fd3eff",
+      "title": "Tối nay 5.2, người Việt có thể nhìn thấy mưa sao băng lạ ít người biết",
+      "link": "https://thanhnien.vn/toi-nay-52-nguoi-viet-co-the-nhin-thay-mua-sao-bang-la-it-nguoi-biet-185260205084618821.htm",
+      "summary": "Nhìn lên bầu trời tối nay 5.2, người Việt có thể may mắn nhìn thấy những vệt sao băng α-Centaurids. Đây là trận mưa sao băng lạ lẫm với nhiều người Việt, không phải ai cũng biết tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:39:00+07:00",
+      "fetched": "2026-02-05T21:37:24.966033+07:00"
+    },
+    {
+      "id": "cc6da473c551c8aa5acd2f6ec26f6ea4",
+      "title": "Khởi tố 3 bị can xông vào bãi tập kết cát cản trở hoạt động kinh doanh",
+      "link": "https://thanhnien.vn/khoi-to-3-bi-can-xong-vao-bai-tap-ket-cat-can-tro-hoat-dong-kinh-doanh-185260205200216247.htm",
+      "summary": "Công an tỉnh Quảng Trị vừa có quyết định khởi vụ án, khởi tố 3 bị can có hành vi gây rối trật tự công cộng trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:36:00+07:00",
+      "fetched": "2026-02-05T21:37:24.966183+07:00"
+    },
+    {
+      "id": "ffcef845c93400bf48868be3a1f8242c",
+      "title": "Lý Nhã Kỳ tạo dáng bên ngựa tại resort riêng",
+      "link": "https://vnexpress.net/ly-nha-ky-tao-dang-ben-ngua-tai-resort-rieng-5014318.html",
+      "summary": "Diễn viên Lý Nhã Kỳ chụp bộ ảnh thời trang với ngựa - linh vật Bính Ngọ - tại resort 10 ha của gia đình ở Đồng Nai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:34:24+07:00",
+      "fetched": "2026-02-05T21:37:21.789764+07:00"
+    },
+    {
+      "id": "e4e561578a3e6374f7cfd841e38fa93c",
+      "title": "Phim điện ảnh 'Đồi gió hú' được khen hình ảnh",
+      "link": "https://vnexpress.net/phim-dien-anh-doi-gio-hu-duoc-khen-hinh-anh-5014214.html",
+      "summary": "\"Đồi gió hú\" ghi điểm nhờ hình ảnh và sự ăn ý trong diễn xuất giữa Margot Robbie và Jacob Elordi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:25:00+07:00",
+      "fetched": "2026-02-05T21:37:21.789959+07:00"
+    },
+    {
+      "id": "877f275b8af491f41948b9e8e88e0126",
+      "title": "Người dân nước nào tiết kiệm nhất thế giới?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-tiet-kiem-nhat-the-gioi-5014482.html",
+      "summary": "Người dân nước này dành hơn 34% thu nhập để tiết kiệm, cao nhất thế giới và gấp 2-3 lần mức trung bình của các quốc gia OECD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:11:45+07:00",
+      "fetched": "2026-02-05T21:37:21.790130+07:00"
+    },
+    {
+      "id": "a49337490b3fb6de7494ccf8dd96048c",
+      "title": "Thiên Long muốn bỏ mảng phát hành và nhà sách, cửa hàng bán lẻ, đồ chơi",
+      "link": "https://vnexpress.net/thien-long-muon-bo-mang-phat-hanh-va-nha-sach-cua-hang-ban-le-do-choi-5014478.html",
+      "summary": "Thiên Long lên kế hoạch giải thể chuỗi cửa hàng bán lẻ và đồ chơi Clever Box, thoái vốn phát hành sách Pega Holdings cùng chuỗi nhà sách Phương Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:11:17+07:00",
+      "fetched": "2026-02-05T21:37:21.790315+07:00"
+    },
+    {
+      "id": "a49337490b3fb6de7494ccf8dd96048c",
+      "title": "Thiên Long muốn bỏ mảng phát hành và nhà sách, cửa hàng bán lẻ, đồ chơi",
+      "link": "https://vnexpress.net/thien-long-muon-bo-mang-phat-hanh-va-nha-sach-cua-hang-ban-le-do-choi-5014478.html",
+      "summary": "Thiên Long lên kế hoạch giải thể chuỗi cửa hàng bán lẻ và đồ chơi Clever Box, thoái vốn phát hành sách Pega Holdings cùng chuỗi nhà sách Phương Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-05T13:11:17+07:00",
+      "fetched": "2026-02-05T21:37:30.682490+07:00"
+    },
+    {
+      "id": "fc2e7b42471dadb12bb810561c71cce1",
+      "title": "CAS sắp xử vụ nhập tịch, trận Malaysia - Việt Nam có nguy cơ thành trận thủ tục",
+      "link": "https://thanhnien.vn/cas-sap-xu-vu-nhap-tich-tran-malaysia-viet-nam-co-nguy-co-thanh-tran-thu-tuc-185260205200813106.htm",
+      "summary": "Bóng đá Malaysia đang chờ phán quyết từ Tòa án Trọng tài Thể thao quốc tế (CAS) về vụ nhập tịch cầu thủ gây tranh cãi. Phán quyết sắp tới không chỉ quyết định số phận 7 cầu thủ liên quan, mà còn có thể làm thay đổi cục diện vòng loại Asian Cup 2027, thậm chí khiến trận tái đấu với đội tuyển Việt Nam...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:10:00+07:00",
+      "fetched": "2026-02-05T21:37:24.966361+07:00"
+    },
+    {
+      "id": "39e05f48ad81b8c024d68ffb654efdce",
+      "title": "Mở rộng đối tượng xét danh hiệu Doanh nhân trẻ khởi nghiệp xuất sắc 2026",
+      "link": "https://thanhnien.vn/mo-rong-doi-tuong-xet-danh-hieu-doanh-nhan-tre-khoi-nghiep-xuat-sac-2026-185260205192650861.htm",
+      "summary": "Một trong những điểm đổi mới nổi bật của chương trình năm 2026 là việc chính thức bỏ điều kiện doanh nghiệp phải thành lập và hoạt động không quá 10 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:04:00+07:00",
+      "fetched": "2026-02-05T21:37:24.966514+07:00"
+    },
+    {
+      "id": "62db106443e8503fee99fcedcbf7cb31",
+      "title": "Công ty trạm sạc của ông Phạm Nhật Vượng có Chủ tịch mới",
+      "link": "https://vnexpress.net/cong-ty-tram-sac-cua-ong-pham-nhat-vuong-co-chu-tich-moi-5014491.html",
+      "summary": "V-Green, công ty vận hành trạm sạc do ông Phạm Nhật Vượng sáng lập, vừa bổ nhiệm bà Phạm Thanh Thúy làm Chủ tịch kiêm Tổng giám đốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:01:27+07:00",
+      "fetched": "2026-02-05T21:37:21.790487+07:00"
+    },
+    {
+      "id": "62db106443e8503fee99fcedcbf7cb31",
+      "title": "Công ty trạm sạc của ông Phạm Nhật Vượng có Chủ tịch mới",
+      "link": "https://vnexpress.net/cong-ty-tram-sac-cua-ong-pham-nhat-vuong-co-chu-tich-moi-5014491.html",
+      "summary": "V-Green, công ty vận hành trạm sạc do ông Phạm Nhật Vượng sáng lập, vừa bổ nhiệm bà Phạm Thanh Thúy làm Chủ tịch kiêm Tổng giám đốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-05T13:01:27+07:00",
+      "fetched": "2026-02-05T21:37:30.682667+07:00"
+    },
+    {
+      "id": "7bfa713683a1760eb664dfc5b8893871",
+      "title": "Kho vũ khí hạt nhân hơn 8.000 đầu đạn của Nga - Mỹ",
+      "link": "https://vnexpress.net/kho-vu-khi-hat-nhan-hon-8-000-dau-dan-cua-nga-my-5014397.html",
+      "summary": "Nga đang biên chế 4.309 đầu đạn hạt nhân và 759 bệ phóng, con số này với Mỹ lần lượt là 3.700 và 800.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:00:00+07:00",
+      "fetched": "2026-02-05T21:37:21.790660+07:00"
+    },
+    {
+      "id": "df72f39d6ffe62f0ef21e0ca269be6e2",
+      "title": "Xem nhanh 20h ngày 5.2: Tạm dừng Nghị định 46 đến giữa tháng 4 | Cầu Rạch Ngang sắp về đích, chợ Thủ Đức giảm ngập?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-52-tam-dung-nghi-dinh-46-den-giua-thang-4-cau-rach-ngang-sap-ve-dich-cho-thu-duc-giam-ngap-185260205195530867.htm",
+      "summary": "'Xem nhanh 20h' ngày 5.2 có nhiều tin tức đáng chú ý về: Chính phủ tạm dừng Nghị định 46 đến hết ngày 15.4; Cầu Rạch Ngang sắp về đích, tháo gỡ 'nút thắt' ngập úng chợ Thủ Đức;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:00:00+07:00",
+      "fetched": "2026-02-05T21:37:24.966684+07:00"
+    },
+    {
+      "id": "7bfa713683a1760eb664dfc5b8893871",
+      "title": "Kho vũ khí hạt nhân hơn 8.000 đầu đạn của Nga - Mỹ",
+      "link": "https://vnexpress.net/kho-vu-khi-hat-nhan-hon-8-000-dau-dan-cua-nga-my-5014397.html",
+      "summary": "Nga đang biên chế 4.309 đầu đạn hạt nhân và 759 bệ phóng, con số này với Mỹ lần lượt là 3.700 và 800.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-05T13:00:00+07:00",
+      "fetched": "2026-02-05T21:37:28.889135+07:00"
+    },
+    {
+      "id": "9de04ddf2bb78db8fceffbbf797a904a",
+      "title": "Người hâm mộ GTA 6 đón tin vui vào mùa hè này",
+      "link": "https://thanhnien.vn/nguoi-ham-mo-gta-6-don-tin-vui-vao-mua-he-nay-185260205141505617.htm",
+      "summary": "Mùa hè 2026 sẽ bùng nổ với GTA 6, tuy nhiên game thủ PC lại tiếp tục bị 'bỏ quên'?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T12:46:00+07:00",
+      "fetched": "2026-02-05T21:37:24.966840+07:00"
+    },
+    {
+      "id": "505c95106d391c8395d8ba5d61ded7ff",
+      "title": "Campuchia quyết xóa sổ tất cả mạng lưới lừa đảo trực tuyến trước giữa tháng 4",
+      "link": "https://thanhnien.vn/campuchia-quyet-xoa-so-tat-ca-mang-luoi-lua-dao-truc-tuyen-truoc-giua-thang-4-185260205191110944.htm",
+      "summary": "Campuchia cam kết sẽ xóa sổ tất cả các mạng lưới tội phạm mạng trên toàn quốc trước Tết cổ truyền Chôl Chhnăm Thmây, ngày lễ lớn nhất của nước này, theo tờ Khmer Times ngày 5.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T12:40:00+07:00",
+      "fetched": "2026-02-05T21:37:24.966989+07:00"
+    },
+    {
+      "id": "d07699cd58b6921f7d663fc3eb9636f3",
+      "title": "7 doanh nghiệp nộp hồ sơ, Việt Nam sắp có sàn giao dịch tài sản mã hóa",
+      "link": "https://thanhnien.vn/7-doanh-nghiep-nop-ho-so-viet-nam-sap-co-san-giao-dich-tai-san-ma-hoa-185260205174803319.htm",
+      "summary": "Thủ tướng Chính phủ yêu cầu triển khai các biện pháp, phấn đấu trước ngày 10.2 đưa vào vận hành thí điểm sàn giao dịch tài sản mã hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T12:40:00+07:00",
+      "fetched": "2026-02-05T21:37:24.967146+07:00"
     },
     {
       "id": "1f101597596802b64c8329ca324cacc9",
