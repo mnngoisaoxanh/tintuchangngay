@@ -1,7 +1,157 @@
 window.newsData_2026_02_06 = {
   "date": "2026-02-06",
-  "lastUpdated": "2026-02-06T21:35:35.012134+07:00",
+  "lastUpdated": "2026-02-06T23:33:10.104322+07:00",
   "articles": [
+    {
+      "id": "5a6e1eaee4eefa83f554ed03cd5fdfe4",
+      "title": "Cao tốc kẹt hơn 30 giờ, đại gia phải gọi trực thăng đến để thoát thân",
+      "link": "https://tuoitre.vn/cao-toc-ket-hon-30-gio-dai-gia-phai-goi-truc-thang-den-de-thoat-than-20260206145931914.htm",
+      "summary": "Mắc kẹt 8 giờ trong dòng xe tắc kéo dài hơn 30 giờ trên cao tốc Mumbai-Pune (Ấn Độ), một doanh nhân đã thuê trực thăng để thoát thân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.773889+07:00",
+      "fetched": "2026-02-06T23:33:02.774019+07:00"
+    },
+    {
+      "id": "58a44bbb972ca146594d9a81cd78dfe7",
+      "title": "Liên minh châu Âu dọa phạt nặng nếu TikTok không thay đổi 'thiết kế gây nghiện'",
+      "link": "https://tuoitre.vn/lien-minh-chau-au-doa-phat-nang-neu-tiktok-khong-thay-doi-thiet-ke-gay-nghien-20260206191133597.htm",
+      "summary": "Liên minh châu Âu yêu cầu ứng dụng chia sẻ video ngắn TikTok của Trung Quốc thay đổi \"thiết kế gây nghiện\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.773768+07:00",
+      "fetched": "2026-02-06T23:33:02.773877+07:00"
+    },
+    {
+      "id": "57313b7070c0ad1e966bd4fa07deeea3",
+      "title": "Phó chủ tịch Quốc hội: TP.HCM triển khai công tác bầu cử đúng tiến độ, bước vào giai đoạn 'nước rút'",
+      "link": "https://tuoitre.vn/pho-chu-tich-quoc-hoi-tp-hcm-trien-khai-cong-tac-bau-cu-dung-tien-do-buoc-vao-giai-doan-nuoc-rut-20260206185827507.htm",
+      "summary": "Phó chủ tịch Quốc hội Nguyễn Thị Thanh dẫn đầu đoàn giám sát làm việc tại TP.HCM, đánh giá công tác bầu cử triển khai đúng tiến độ, bước vào giai đoạn “nước rút”, đòi hỏi tập trung cao và phối hợp chặt chẽ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.773641+07:00",
+      "fetched": "2026-02-06T23:33:02.773756+07:00"
+    },
+    {
+      "id": "d4d01f28a78c2b705b13977b228ad86f",
+      "title": "Cuộc gặp Thủ tướng ba nước Việt Nam - Lào - Campuchia",
+      "link": "https://tuoitre.vn/cuoc-gap-thu-tuong-ba-nuoc-viet-nam-lao-campuchia-2026020619254541.htm",
+      "summary": "Chiều 6-2, Thủ tướng Chính phủ Phạm Minh Chính có cuộc gặp làm việc với Thủ tướng Campuchia Hun Manet và Thủ tướng Lào Sonexay Siphandone, triển khai kết quả cuộc gặp giữa người đứng đầu ba Đảng Việt Nam - Campuchia - Lào vừa diễn ra trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.773517+07:00",
+      "fetched": "2026-02-06T23:33:02.773630+07:00"
+    },
+    {
+      "id": "58bc9f5a4d643d2c7a6829d7019599e3",
+      "title": "Du khách nước ngoài thích thú gói bánh tét bên biển Đà Nẵng",
+      "link": "https://tuoitre.vn/du-khach-nuoc-ngoai-thich-thu-goi-banh-tet-ben-bien-da-nang-20260206191450852.htm",
+      "summary": "Nhiều du khách nước ngoài thích thú hòa vào không khí Tết Việt khi được trực tiếp gói bánh tét, tham gia các trò chơi dân gian trong chương trình “Xuân yêu thương 2026” tại Đà Nẵng chiều 6-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.773391+07:00",
+      "fetched": "2026-02-06T23:33:02.773505+07:00"
+    },
+    {
+      "id": "ffd028be8a6a23c724632a77ca0c4bda",
+      "title": "'Thót tim' cảnh xe khách lấn làn vượt ẩu vun vút trên cao tốc 2 làn xe",
+      "link": "https://tuoitre.vn/thot-tim-canh-xe-khach-lan-lan-vuot-au-vun-vut-tren-cao-toc-2-lan-xe-20260206194021278.htm",
+      "summary": "Lái xe khách lấn sang làn cao tốc ngược chiều để vượt một xe khách khác với tốc độ cao, khiến một tài xế xe con chiều ngược lại phải phanh gấp và đánh lái vào làn khẩn cấp để tránh xảy ra va chạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.773269+07:00",
+      "fetched": "2026-02-06T23:33:02.773380+07:00"
+    },
+    {
+      "id": "6f0f857bd2e0257d9992f536d192a2b3",
+      "title": "Sau năm lãi lớn nhất lịch sử, nhiều cổ phiếu 'ngành chứng' chiết khấu hơn 40%",
+      "link": "https://tuoitre.vn/sau-nam-lai-lon-nhat-lich-su-nhieu-co-phieu-nganh-chung-chiet-khau-hon-40-20260205125646462.htm",
+      "summary": "Sau những kỷ lục thiết lập trong năm 2025, nhiều cổ phiếu chứng khoán đang giảm hơn 40%. Đáng chú ý, những diễn biến chiết khấu mạnh của các mã diễn ra trong mùa báo cáo tài chính quý 4-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.773145+07:00",
+      "fetched": "2026-02-06T23:33:02.773257+07:00"
+    },
+    {
+      "id": "40b867aee24053047958a8d845b5d9bb",
+      "title": "Masterise Homes khép lại một năm phát triển vượt bậc",
+      "link": "https://tuoitre.vn/masterise-homes-khep-lai-mot-nam-phat-trien-vuot-bac-20260206203147752.htm",
+      "summary": "Masterise Homes khép lại một năm phát triển mang tính hệ thống, với định hướng phát triển không gian sống hàng hiệu (Branded Living) được triển khai đồng thời trên nhiều đô thị lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.773019+07:00",
+      "fetched": "2026-02-06T23:33:02.773133+07:00"
+    },
+    {
+      "id": "a4930a66c690591308f28bf0ab536fda",
+      "title": "Báo Tuổi Trẻ và xã Bình Khánh trao 80 phần quà Tết cho các hộ dân khó khăn",
+      "link": "https://tuoitre.vn/bao-tuoi-tre-va-xa-binh-khanh-trao-80-phan-qua-tet-cho-cac-ho-dan-kho-khan-2026020615473806.htm",
+      "summary": "Hoạt động nhằm chào mừng kỷ niệm 96 năm Ngày thành lập Đảng, đồng thời động viên, góp thêm một mùa xuân ấm áp cho người dân xã Bình Khánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.772872+07:00",
+      "fetched": "2026-02-06T23:33:02.773005+07:00"
+    },
+    {
+      "id": "189712ac1e70ea96a1dc9878dfadba18",
+      "title": "CĐV Thái Lan, Malaysia gọi cặp Xuân Son - Đình Bắc là 'cơn ác mộng', thấy may vì Bắc bị treo giò",
+      "link": "https://tuoitre.vn/cdv-thai-lan-malaysia-goi-cap-xuan-son-dinh-bac-la-con-ac-mong-thay-may-vi-bac-bi-treo-gio-20260206191534797.htm",
+      "summary": "Không chỉ có người hâm mộ Việt Nam, dư luận nhiều nền bóng đá Đông Nam Á như Thái Lan, Indonesia hay Malaysia cũng hào hứng bàn luận về khả năng đá cặp của Xuân Son - Đình Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.772747+07:00",
+      "fetched": "2026-02-06T23:33:02.772860+07:00"
+    },
+    {
+      "id": "0dd41afda8159da17619407dbcdf15f5",
+      "title": "Một trung tướng bị bắn tại Matxcơva, Ngoại trưởng Nga cáo buộc Ukraine đứng sau",
+      "link": "https://tuoitre.vn/mot-trung-tuong-bi-ban-tai-matxcova-ngoai-truong-nga-cao-buoc-ukraine-dung-sau-2026020619435434.htm",
+      "summary": "Ngày 6-2, Ngoại trưởng Nga Sergei Lavrov cáo buộc Ukraine đứng sau vụ ám sát nhằm vào một tướng cấp cao của Nga tại thủ đô Matxcơva.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.772623+07:00",
+      "fetched": "2026-02-06T23:33:02.772735+07:00"
+    },
+    {
+      "id": "827cac484d3048ec1fd9b91dd95081dd",
+      "title": "Một đạo diễn đình đám bị kiện vì xúc phạm Kim Soo Hyun",
+      "link": "https://tuoitre.vn/mot-dao-dien-dinh-dam-bi-kien-vi-xuc-pham-kim-soo-hyun-20260206183842696.htm",
+      "summary": "Đạo diễn Lee Jung Sub bị tố cáo vì xúc phạm Kim Soo Hyun trên mạng xã hội. Sau quá trình điều tra,  cảnh sát đã chuyển hồ sơ vụ việc sang viện kiểm sát để tiếp tục xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.772494+07:00",
+      "fetched": "2026-02-06T23:33:02.772611+07:00"
+    },
+    {
+      "id": "8cdedb220b3b4de0056f214599ac4c04",
+      "title": "Việt Nam phản ứng sau khi chủ tịch huyện ở Hàn Quốc đòi 'nhập khẩu phụ nữ Việt Nam'",
+      "link": "https://tuoitre.vn/viet-nam-phan-ung-sau-khi-chu-tich-huyen-o-han-quoc-doi-nhap-khau-phu-nu-viet-nam-20260206204221762.htm",
+      "summary": "Ngày 6-2, Đại sứ quán Việt Nam tại Hàn Quốc đã gửi công thư nêu ý kiến với phát ngôn coi thường phụ nữ Việt Nam của Chủ tịch huyện Jindo, tỉnh Nam Jeolla, Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.772361+07:00",
+      "fetched": "2026-02-06T23:33:02.772478+07:00"
+    },
+    {
+      "id": "0446260bcc13dc7b8442015daff89662",
+      "title": "Lễ hội chào xuân xuyên Tết tại Cần Giờ khai mạc ngày 7-2",
+      "link": "https://tuoitre.vn/le-hoi-chao-xuan-xuyen-tet-tai-can-gio-khai-mac-ngay-7-2-20260206183943142.htm",
+      "summary": "Lễ hội xuân Cần Giờ mở ra chuỗi 'lễ hội trong lễ hội' tràn đầy sắc xuân và năng lượng bùng nổ cho siêu điểm đến quốc tế mới tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.772223+07:00",
+      "fetched": "2026-02-06T23:33:02.772348+07:00"
+    },
+    {
+      "id": "45e6d0fb9df7cbc0f5ac6f00401a5dbc",
+      "title": "Toàn văn nghị quyết và văn kiện Đại hội đại biểu toàn quốc lần thứ XIV của Đảng",
+      "link": "https://tuoitre.vn/toan-van-nghi-quyet-va-van-kien-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-20260206204838763.htm",
+      "summary": "Tuổi Trẻ Online xin trân trọng giới thiệu toàn văn nghị quyết và văn kiện Đại hội đại biểu toàn quốc lần thứ XIV của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:33:02.772038+07:00",
+      "fetched": "2026-02-06T23:33:02.772208+07:00"
+    },
     {
       "id": "1c0ad5059ad705fc2bf28ca99988c82d",
       "title": "Gần 1.000 người dự chương trình Xuân canh trời tại Tiểu đoàn bộ đội tên lửa 178",
@@ -453,6 +603,46 @@ window.newsData_2026_02_06 = {
       "fetched": "2026-02-06T17:30:29.252274+07:00"
     },
     {
+      "id": "b858c675c830d1fc4743d9841b9010c1",
+      "title": "Đánh bom tự sát tại nhà thờ Hồi giáo, 31 người chết",
+      "link": "https://vnexpress.net/danh-bom-tu-sat-tai-nha-tho-hoi-giao-31-nguoi-chet-5015255.html",
+      "summary": "Vụ đánh bom tự sát tại một nhà thờ Hồi giáo của người Shiite ở thủ đô Islamabad khiến ít nhất 31 người thiệt mạng và 130 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T16:18:10+07:00",
+      "fetched": "2026-02-06T23:32:58.298551+07:00"
+    },
+    {
+      "id": "1b52c2f448ec0071a5a80b72dbbd4a44",
+      "title": "Lái xe bán tải đánh chết người bị khởi tố thêm tội giết người",
+      "link": "https://vnexpress.net/lai-xe-ban-tai-danh-chet-nguoi-bi-khoi-to-them-toi-giet-nguoi-5015257.html",
+      "summary": "Mai Anh Nhật, 43 tuổi, bị khởi tố thêm tội Giết người sau một tuần đánh chết tài xế xe 7 chỗ vì va chạm giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:55:22+07:00",
+      "fetched": "2026-02-06T23:32:58.298727+07:00"
+    },
+    {
+      "id": "dbefdbb0cfbd99a5138e9d414586052b",
+      "title": "Người chơi hoảng loạn tột độ, dấu hiệu Bitcoin có thể 'sụp đổ hoàn toàn'",
+      "link": "https://thanhnien.vn/nguoi-choi-hoang-loan-tot-do-dau-hieu-bitcoin-co-the-sup-do-hoan-toan-185260206192343229.htm",
+      "summary": "Tâm lý của thị trường tiền mã hóa đang ở mức \"sợ hãi tột độ\" tương tự khi xảy ra thảm họa Tera vào năm 2022 trong bối cảnh Bitcoin bị bán tháo, giá giảm mạnh xuống vùng 60.000 USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:43:00+07:00",
+      "fetched": "2026-02-06T23:33:01.667619+07:00"
+    },
+    {
+      "id": "5fde3d3c1ebe6594ca72062e24d77ca5",
+      "title": "Chương trình hành động của Trung ương Đảng thực hiện Nghị quyết Đại hội XIV",
+      "link": "https://thanhnien.vn/chuong-trinh-hanh-dong-cua-trung-uong-dang-thuc-hien-nghi-quyet-dai-hoi-xiv-185260206203355714.htm",
+      "summary": "Chương trình hành động của Ban chấp hành Trung ương Đảng thực hiện Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:37:00+07:00",
+      "fetched": "2026-02-06T23:33:01.667786+07:00"
+    },
+    {
       "id": "f2afaed62df1fd6f2689aa0eaf422c12",
       "title": "Đội ngũ y tế: Người bảo vệ sự nghiệp các cầu thủ",
       "link": "https://tuoitre.vn/doi-ngu-y-te-nguoi-bao-ve-su-nghiep-cac-cau-thu-20260206101032252.htm",
@@ -603,6 +793,46 @@ window.newsData_2026_02_06 = {
       "fetched": "2026-02-06T15:31:21.941252+07:00"
     },
     {
+      "id": "ccce7e2d01dee80e31176eba6a354d8c",
+      "title": "Cựu Giám đốc Công ty cà phê Ia Châm bị phạt 5 năm tù",
+      "link": "https://vnexpress.net/cuu-giam-doc-cong-ty-ca-phe-ia-cham-bi-phat-5-nam-tu-5015251.html",
+      "summary": "Lê Anh Tuấn, cựu Giám đốc Công ty TNHH MTV cà phê Ia Châm, tự ý cho người dân thuê đất trồng chanh dây, khoai lang, gây thiệt hại hơn 200 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:23:56+07:00",
+      "fetched": "2026-02-06T23:32:58.298893+07:00"
+    },
+    {
+      "id": "b8305f816a999906992b14796bf058be",
+      "title": "Nữ sinh lĩnh án tù vì thuê người thi hộ TOEFL",
+      "link": "https://vnexpress.net/nu-sinh-linh-an-tu-vi-thue-nguoi-thi-ho-toefl-5013899.html",
+      "summary": "Thi TOEFL và IELTS 4 lần nhưng không đủ để tốt nghiệp, Huang Xinyi thuê người thi hộ, \"hô biến\" ảnh thí sinh cho giống mình, bị kết án ba tháng tù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:05:37+07:00",
+      "fetched": "2026-02-06T23:32:58.299075+07:00"
+    },
+    {
+      "id": "8de38df17d5dde21a0ef1a16aab57c0f",
+      "title": "Chặn sớm 'chặt chém' ở Lễ hội Chùa Hương",
+      "link": "https://vnexpress.net/chan-som-chat-chem-o-le-hoi-chua-huong-5015219.html",
+      "summary": "Ban tổ chức Lễ hội Chùa Hương đưa ra nhiều biện pháp ngăn chặn nạn chặt chém, chèo kéo như sử dụng QR, bộ nhận diện và đường dây nóng xử lý các sự cố phát sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:04:48+07:00",
+      "fetched": "2026-02-06T23:32:58.299239+07:00"
+    },
+    {
+      "id": "4389c2c7d15ea6615a6231e137856b8c",
+      "title": "Toàn văn Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIV của Đảng",
+      "link": "https://thanhnien.vn/toan-van-nghi-quyet-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang-185260206201608712.htm",
+      "summary": "Ngày 6.2, Văn phòng Trung ương Đảng có công văn 307-CV/VPTW công bố Văn kiện Đại hội đại biểu toàn quốc lần XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T14:41:00+07:00",
+      "fetched": "2026-02-06T23:33:01.667963+07:00"
+    },
+    {
       "id": "9f01a82a90102e2e5f635744508fd34d",
       "title": "Nhận hối lộ 1,2 tỉ đồng, cựu Cục trưởng Chi cục Thú y vùng 6 lãnh án 7 năm tù",
       "link": "https://thanhnien.vn/nhan-hoi-lo-12-ti-dong-cuu-cuc-truong-chi-cuc-thu-y-vung-6-lanh-an-18526020619524673.htm",
@@ -613,6 +843,16 @@ window.newsData_2026_02_06 = {
       "fetched": "2026-02-06T21:35:26.318936+07:00"
     },
     {
+      "id": "29d2fc1c5ac7f2393724650de534abd5",
+      "title": "Công bố Văn kiện Đại hội Đảng toàn quốc lần thứ XIV",
+      "link": "https://vnexpress.net/cong-bo-van-kien-dai-hoi-dang-toan-quoc-lan-thu-xiv-5015234.html",
+      "summary": "Toàn văn Văn kiện Đại hội đại biểu toàn quốc lần thứ XIV của Đảng, gồm Nghị quyết Đại hội, Báo cáo Chính trị, Báo cáo tổng kết 40 năm đổi mới và Báo cáo về Điều lệ Đảng, được Văn phòng Trung ương Đảng công bố tối 6/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T14:30:00+07:00",
+      "fetched": "2026-02-06T23:32:58.299397+07:00"
+    },
+    {
       "id": "d474912e8168987c0d0ec7fe8cff96d1",
       "title": "Có gì trong chương trình 'Sóng 26' đón giao thừa do Trấn Thành dẫn dắt?",
       "link": "https://thanhnien.vn/co-gi-trong-chuong-trinh-song-26-don-giao-thua-do-tran-thanh-dan-dat-185260206203528056.htm",
@@ -621,6 +861,16 @@ window.newsData_2026_02_06 = {
       "category": "Tổng hợp",
       "published": "2026-02-06T14:25:00+07:00",
       "fetched": "2026-02-06T21:35:26.319112+07:00"
+    },
+    {
+      "id": "d0203812ab151654d9cb7a6ecf3c2d2d",
+      "title": "Nước nào có trữ lượng bạc lớn nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-co-tru-luong-bac-lon-nhat-the-gioi-5015224.html",
+      "summary": "Nước này có khoảng 140.000 tấn bạc, chiếm đếm 22% tổng trữ lượng toàn cầu. Bạn có biết đó là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T14:20:01+07:00",
+      "fetched": "2026-02-06T23:32:58.299553+07:00"
     },
     {
       "id": "36f9b4280cfbcebd49bb58bb7536be42",
@@ -651,6 +901,16 @@ window.newsData_2026_02_06 = {
       "category": "Tổng hợp",
       "published": "2026-02-06T13:52:00+07:00",
       "fetched": "2026-02-06T21:35:26.319649+07:00"
+    },
+    {
+      "id": "293cdd0afa4a79b2fb673e23979b9ae0",
+      "title": "18 ngày truy lùng nhóm cướp ngân hàng ở Gia Lai của hàng trăm cảnh sát",
+      "link": "https://vnexpress.net/18-ngay-truy-lung-nhom-cuop-ngan-hang-o-gia-lai-cua-hang-tram-canh-sat-5015215.html",
+      "summary": "Suốt 18 ngày đêm sau vụ cướp chi nhánh Vietcombank, hàng trăm cán bộ, chiến sĩ Công an Gia Lai, Bộ Công an... đã liên tục rà soát, lần theo từng dấu vết nhỏ nhất để lần ra nghi phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:48:29+07:00",
+      "fetched": "2026-02-06T23:32:58.299720+07:00"
     },
     {
       "id": "7cede99a682299b271a3a0bddfea7e9b",
@@ -851,6 +1111,16 @@ window.newsData_2026_02_06 = {
       "category": "Tổng hợp",
       "published": "2026-02-06T13:36:17+07:00",
       "fetched": "2026-02-06T21:35:23.141188+07:00"
+    },
+    {
+      "id": "ce31f1c71b8f39851da88074fa5044e1",
+      "title": "Cháy lớn ở xưởng mây tre ngoại thành Hà Nội",
+      "link": "https://vnexpress.net/chay-lon-o-xuong-may-tre-ngoai-thanh-ha-noi-5015238.html",
+      "summary": "Hỏa hoạn bùng phát tối 6/2 tại xưởng mây tre giang đan ở xã Phú Nghĩa, thiêu rụi khu vực chứa hàng, hai người kịp chạy thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:36:17+07:00",
+      "fetched": "2026-02-06T23:32:58.300084+07:00"
     },
     {
       "id": "8d75cf336cf11d0f3552bd0bf27e7ee5",
