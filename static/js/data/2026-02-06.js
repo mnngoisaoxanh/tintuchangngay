@@ -1,7 +1,157 @@
 window.newsData_2026_02_06 = {
   "date": "2026-02-06",
-  "lastUpdated": "2026-02-06T13:41:28.368762+07:00",
+  "lastUpdated": "2026-02-06T15:31:28.565983+07:00",
   "articles": [
+    {
+      "id": "f2afaed62df1fd6f2689aa0eaf422c12",
+      "title": "Đội ngũ y tế: Người bảo vệ sự nghiệp các cầu thủ",
+      "link": "https://tuoitre.vn/doi-ngu-y-te-nguoi-bao-ve-su-nghiep-cac-cau-thu-20260206101032252.htm",
+      "summary": "Nếu có thể chẩn đoán chính xác và thực hiện tốt quá trình hồi phục cho các cầu thủ, đội ngũ y tế ở đội tuyển và CLB sẽ góp phần giảm thiểu những chấn thương không mong muốn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.942997+07:00",
+      "fetched": "2026-02-06T15:31:21.943132+07:00"
+    },
+    {
+      "id": "a12eda640d5e8891d26072607dd70d8f",
+      "title": "34 trưởng đoàn đại biểu Quốc hội khóa mới sẽ là lãnh đạo chủ chốt ở địa phương",
+      "link": "https://tuoitre.vn/34-truong-doan-dai-bieu-quoc-hoi-khoa-moi-se-la-lanh-dao-chu-chot-o-dia-phuong-20260206121248518.htm",
+      "summary": "Trong 283 đại biểu địa phương được giới thiệu ứng cử đại biểu Quốc hội khóa XVI, dự kiến có 34 trưởng đoàn là lãnh đạo chủ chốt ở địa phương và 55 phó trưởng đoàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.942871+07:00",
+      "fetched": "2026-02-06T15:31:21.942986+07:00"
+    },
+    {
+      "id": "85cf47c305f6e37687ef8d7a38a42fdf",
+      "title": "Phiên chợ Xuân yêu thương 0 đồng cho 1.000 người nghèo ăn Tết",
+      "link": "https://tuoitre.vn/phien-cho-xuan-yeu-thuong-0-dong-cho-1-000-nguoi-ngheo-an-tet-20260206114349902.htm",
+      "summary": "Ngày 6-2, phường Vĩnh Tế, tỉnh An Giang tổ chức 'Phiên chợ Xuân yêu thương 0 đồng' năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.942738+07:00",
+      "fetched": "2026-02-06T15:31:21.942859+07:00"
+    },
+    {
+      "id": "0678e3bbea48d9657c9032ad31372300",
+      "title": "Chấp thuận chủ trương đầu tư khu đô thị hỗn hợp ở thành phố Tam Kỳ (cũ)",
+      "link": "https://tuoitre.vn/chap-thuan-chu-truong-dau-tu-khu-do-thi-hon-hop-o-thanh-pho-tam-ky-cu-20260206120529214.htm",
+      "summary": "Dự án khu đô thị hỗn hợp ở phường Quảng Phú, thành phố Đà Nẵng (trước đây thuộc thành phố Tam Kỳ, Quảng Nam) vừa được chấp thuận chủ trương đầu tư với tổng vốn đầu tư hơn 17.700 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.942615+07:00",
+      "fetched": "2026-02-06T15:31:21.942728+07:00"
+    },
+    {
+      "id": "8242a6228a38f2b84c6f19147485fdb7",
+      "title": "Công bố số điện thoại trưởng phòng CSGT cả nước, dân cứ bấm gọi nếu cán bộ 'nhũng nhiễu'",
+      "link": "https://tuoitre.vn/cong-bo-so-dien-thoai-truong-phong-csgt-ca-nuoc-dan-cu-bam-goi-neu-can-bo-nhung-nhieu-20260206122058397.htm",
+      "summary": "Nếu phát hiện cán bộ chiến sĩ có biểu hiện tiêu cực, nhũng nhiễu, người dân có thể phản ánh đến đường dây nóng của Cục trưởng Cục Cảnh sát giao thông hoặc Trưởng phòng cảnh sát giao thông công an các tỉnh, thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.942490+07:00",
+      "fetched": "2026-02-06T15:31:21.942604+07:00"
+    },
+    {
+      "id": "d84d786c9ea644a58ac9a3d5fb1b9c37",
+      "title": "Mẹ bầu mong chờ nguồn máu hiến để bảo vệ mầm sống 3 tháng",
+      "link": "https://tuoitre.vn/me-bau-mong-cho-nguon-mau-hien-de-bao-ve-mam-song-3-thang-20260206113430857.htm",
+      "summary": "Trong hàng ngàn người bệnh mong chờ được truyền máu vào những ngày trước Tết, nỗi chờ mong của chị Vũ Thị H. càng dài vô tận bởi chị đang mang thai ở tháng thứ 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.942361+07:00",
+      "fetched": "2026-02-06T15:31:21.942478+07:00"
+    },
+    {
+      "id": "ff60a55e2680c7eebc2212aa4206c3f8",
+      "title": "Đoàn Huỳnh Long ăn Tết cùng sân khấu của Minh Nhí",
+      "link": "https://tuoitre.vn/doan-huynh-long-an-tet-cung-san-khau-cua-minh-nhi-20260206120211201.htm",
+      "summary": "Tết này khán giả yêu mến Đoàn cải lương tuồng cổ Huỳnh Long và Sân khấu Trương Hùng Minh sẽ có dịp gặp gỡ nghệ sĩ mình yêu thích trong vở kịch Tết Tứ trạng đăng khoa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.942230+07:00",
+      "fetched": "2026-02-06T15:31:21.942350+07:00"
+    },
+    {
+      "id": "4ce94ec6e6c427d1c4ba9c649b57924d",
+      "title": "91 họa sĩ hội tụ cùng Sơn mài Sài Gòn lần 4",
+      "link": "https://tuoitre.vn/91-hoa-si-hoi-tu-cung-son-mai-sai-gon-lan-4-20260206094033138.htm",
+      "summary": "Sau hơn 10 năm gián đoạn, triển lãm Sơn mài Sài Gòn vừa trở lại, quy tụ 92 tác phẩm của 91 tác giả thuộc nhiều thế hệ đã và đang sinh sống, giảng dạy và sáng tác tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.942091+07:00",
+      "fetched": "2026-02-06T15:31:21.942215+07:00"
+    },
+    {
+      "id": "7fd01fff0bce39bd245c33c91a35f504",
+      "title": "Hơn 10 năm có luật, khói thuốc vẫn len lỏi nhiều nơi, nên cấm luôn hút thuốc khi chạy xe trên đường?",
+      "link": "https://tuoitre.vn/hon-10-nam-co-luat-khoi-thuoc-van-len-loi-nhieu-noi-nen-cam-luon-hut-thuoc-khi-chay-xe-tren-duong-20260205110027477.htm",
+      "summary": "Dừng đèn đỏ, khói thuốc tạt vô mặt, mở cửa sổ khói thuốc bay vô nhà, đi thang máy, nhà vệ sinh... chỗ nào cũng gặp khói thuốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.941931+07:00",
+      "fetched": "2026-02-06T15:31:21.942078+07:00"
+    },
+    {
+      "id": "64785db59f6b3a9b6c65c3756fb6b127",
+      "title": "Bí thư Trần Lưu Quang, Chủ tịch Nguyễn Văn Được dự họp mặt mừng xuân tại Tây Ninh",
+      "link": "https://tuoitre.vn/bi-thu-tran-luu-quang-chu-tich-nguyen-van-duoc-du-hop-mat-mung-xuan-tai-tay-ninh-20260206123818771.htm",
+      "summary": "Ngày 6-2, Tỉnh ủy Tây Ninh tổ chức chương trình Họp mặt mừng Đảng - mừng Xuân Bính Ngọ 2026 tại Hội trường Thống Nhất (phường Long An, Tây Ninh).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.941803+07:00",
+      "fetched": "2026-02-06T15:31:21.941919+07:00"
+    },
+    {
+      "id": "bbea12f2f16d0973593eb5de57ac4b7f",
+      "title": "100% cử tri nơi cư trú tín nhiệm Phó bí thư Thành ủy Văn Thị Bạch Tuyết ứng cử đại biểu HĐND TP.HCM",
+      "link": "https://tuoitre.vn/100-cu-tri-noi-cu-tru-tin-nhiem-pho-bi-thu-thanh-uy-van-thi-bach-tuyet-ung-cu-dai-bieu-hdnd-tp-hcm-20260206124840005.htm",
+      "summary": "Cử tri nơi cư trú tại phường Tân Thới Hiệp (TP.HCM) bày tỏ sự tín nhiệm 100% đối với bà Văn Thị Bạch Tuyết ứng cử đại biểu HĐND TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.941674+07:00",
+      "fetched": "2026-02-06T15:31:21.941791+07:00"
+    },
+    {
+      "id": "d60ed44cac6862d34ff5e8c0f403c330",
+      "title": "'Người Việt đã quen Mazda CX-5 giá rẻ, bản mới nếu định giá tiền tỉ e khó nuốt'",
+      "link": "https://tuoitre.vn/nguoi-viet-da-quen-mazda-cx-5-gia-re-ban-moi-neu-dinh-gia-tien-ti-e-kho-nuot-20260206092947135.htm",
+      "summary": "Mazda đang dần dịch chuyển lên phân khúc cao cấp, song người Việt vốn nhạy cảm về giá và có thói quen lựa chọn ổn định. Vì vậy, chiến lược này được dự báo cần thêm thời gian để phát huy hiệu quả và khó tránh khỏi những bước chững lại ban đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.941543+07:00",
+      "fetched": "2026-02-06T15:31:21.941662+07:00"
+    },
+    {
+      "id": "937eabd2a5c767a73c7940c1e700f3ad",
+      "title": "Bảo tàng TP.HCM có gì đặc biệt Tết này?",
+      "link": "https://tuoitre.vn/bao-tang-tp-hcm-co-gi-dac-biet-tet-nay-20260206121148199.htm",
+      "summary": "Bảo tàng TP.HCM khai mạc chuỗi hoạt động 'Mừng xuân Bính Ngọ - Mừng Đảng quang vinh' mang đến không gian thưởng lãm kết hợp trải nghiệm văn hóa Tết truyền thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.941411+07:00",
+      "fetched": "2026-02-06T15:31:21.941531+07:00"
+    },
+    {
+      "id": "caef3c13ca3b6263865b2f8c4e7a32cb",
+      "title": "Phó Chủ tịch nước Võ Thị Ánh Xuân kiểm tra công tác bầu cử tại Đồng Nai",
+      "link": "https://tuoitre.vn/pho-chu-tich-nuoc-vo-thi-anh-xuan-kiem-tra-cong-tac-bau-cu-tai-dong-nai-2026020613153827.htm",
+      "summary": "Kiểm tra công tác bầu cử tại Đồng Nai, Phó Chủ nước Võ Thị Ánh Xuân đề nghị Ủy ban bầu cử tỉnh rà soát kỹ hồ sơ người ứng cử và phải bảo đảm giới thiệu người ứng cử đúng cơ cấu, thành phần, số dư theo quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.941267+07:00",
+      "fetched": "2026-02-06T15:31:21.941398+07:00"
+    },
+    {
+      "id": "b09e356309087007750ec201c5cedc73",
+      "title": "Tổng Bí thư Tô Lâm gặp ông Hun Sen, thăm Hoàng thái hậu Campuchia",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-gap-ong-hun-sen-tham-hoang-thai-hau-campuchia-20260206132141929.htm",
+      "summary": "Sáng 6-2, Tổng Bí thư Tô Lâm đã hội kiến với Samdech Techo Hun Sen và thăm Hoàng Thái hậu Norodom Monineath Sihanouk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T15:31:21.941027+07:00",
+      "fetched": "2026-02-06T15:31:21.941252+07:00"
+    },
     {
       "id": "ebe741f5633ff7bf0357a8837fbc5db7",
       "title": "Nhiều trường thay đổi cách xét tuyển chứng chỉ IELTS",
@@ -303,6 +453,116 @@ window.newsData_2026_02_06 = {
       "fetched": "2026-02-06T11:06:09.262994+07:00"
     },
     {
+      "id": "d607c533ef48e2789d98f25d528f44c6",
+      "title": "Đồng Nai: Tiếp tục đề nghị tháo dỡ 2 trạm thu phí trên QL 51",
+      "link": "https://thanhnien.vn/dong-nai-tiep-tuc-de-nghi-thao-do-2-tram-thu-phi-tren-ql-51-185260206152419194.htm",
+      "summary": "Trên QL 51 có 3 trạm thu phí. Trong đó, trạm T1 và T2 thuộc địa phận Đồng Nai, còn trạm T3 thuộc địa phận TP.HCM (Bà Rịa - Vũng Tàu cũ). Hiện TP.HCM đang tiến hành tháo dỡ trạm T3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:25:00+07:00",
+      "fetched": "2026-02-06T15:31:20.934801+07:00"
+    },
+    {
+      "id": "02a5f7b5fb89aa9522fd056f307431d4",
+      "title": "TP.HCM sẽ mở rộng gấp 4 lần con đường nhỏ hẹp cửa ngõ phía Tây",
+      "link": "https://thanhnien.vn/tphcm-se-mo-rong-gap-4-lan-con-duong-nho-hep-cua-ngo-phia-tay-185260206152342596.htm",
+      "summary": "HĐND TP.HCM vừa thông qua chủ trương đầu tư dự án mở rộng đường Vĩnh Lộc, mục tiêu tháo gỡ điểm nghẽn giao thông tại cửa ngõ phía Tây, tăng cường kết nối giữa các khu công nghiệp (KCN) và mạng lưới giao thông liên vùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:25:00+07:00",
+      "fetched": "2026-02-06T15:31:20.934978+07:00"
+    },
+    {
+      "id": "a2d24da040edd23213eaf5ee7364d319",
+      "title": "Có gì trong phim kinh phí khủng về thời kỳ Ngũ Đại Thập Quốc?",
+      "link": "https://thanhnien.vn/co-gi-trong-phim-kinh-phi-khung-ve-thoi-ky-ngu-dai-thap-quoc-185260206145736447.htm",
+      "summary": "Sau gần 10 năm chuẩn bị và được đầu tư kinh phí khủng, 'Thái Bình Niên' lên sóng đầu năm 2026, thổi làn gió mới cho dòng phim chính sử Hoa ngữ vốn khá ảm đạm trong nhiều năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:25:00+07:00",
+      "fetched": "2026-02-06T15:31:20.935156+07:00"
+    },
+    {
+      "id": "bc85929d24cd53d25bcbb212cbffd345",
+      "title": "Tướng tình báo Nga bị bắn tại Moscow",
+      "link": "https://thanhnien.vn/tuong-tinh-bao-nga-bi-ban-tai-moscow-185260206151635936.htm",
+      "summary": "Phó tổng cục trưởng Tổng cục Tình báo quân đội Nga Vladimir Alekseev đã bị bắn ngay bên ngoài nhà ở Moscow và đã được đưa vào bệnh viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:24:00+07:00",
+      "fetched": "2026-02-06T15:31:20.935311+07:00"
+    },
+    {
+      "id": "33bf95ab6b28cced7d8c5302174e9767",
+      "title": "Lo ùn tắc thông quan tái diễn sau 15.4, kiến nghị giảm tiền kiểm",
+      "link": "https://thanhnien.vn/lo-un-tac-thong-quan-tai-dien-sau-154-kien-nghi-giam-tien-kiem-185260206135650544.htm",
+      "summary": "Lo tái diễn tình trạng ùn tắc nông sản, thực phẩm nhập khẩu tại cửa khẩu sau ngày 15.4, nhiều hiệp hội kiến nghị nhanh chóng sửa luật An toàn thực phẩm, giảm các thủ tục tiền kiểm mang tính hình thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:18:00+07:00",
+      "fetched": "2026-02-06T15:31:20.935464+07:00"
+    },
+    {
+      "id": "742275882e268ce4e65d8851ac112b65",
+      "title": "Việt Nam lần đầu sở hữu siêu máy tính AI hàng đầu thế giới",
+      "link": "https://thanhnien.vn/viet-nam-lan-dau-so-huu-sieu-may-tinh-ai-hang-dau-the-gioi-185260206144414061.htm",
+      "summary": "Với hiệu năng lên tới 1,5 ExaFLOPs FP8, tương đương khoảng 1.500 triệu tỉ phép tính mỗi giây, hệ thống siêu máy tính NVIDIA DGX B200 đầu tiên do Việt Nam sở hữu cho phép huấn luyện và triển khai các mô hình AI quy mô lớn với độ chính xác và tốc độ vượt trội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:17:00+07:00",
+      "fetched": "2026-02-06T15:31:20.935616+07:00"
+    },
+    {
+      "id": "b41c41ffcc009e7ee66c2474f6902dbf",
+      "title": "Tướng Nga bị bắn ở Moskva",
+      "link": "https://vnexpress.net/tuong-nga-bi-ban-o-moskva-5015104.html",
+      "summary": "Tướng Vladimir Alekseyev bị bắn nhiều phát đạn trong một tòa chung cư ở Moskva và đã được đưa đến bệnh viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:15:53+07:00",
+      "fetched": "2026-02-06T15:31:17.862724+07:00"
+    },
+    {
+      "id": "b41c41ffcc009e7ee66c2474f6902dbf",
+      "title": "Tướng Nga bị bắn ở Moskva",
+      "link": "https://vnexpress.net/tuong-nga-bi-ban-o-moskva-5015104.html",
+      "summary": "Tướng Vladimir Alekseyev bị bắn nhiều phát đạn trong một tòa chung cư ở Moskva và đã được đưa đến bệnh viện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-06T08:15:53+07:00",
+      "fetched": "2026-02-06T15:31:23.176838+07:00"
+    },
+    {
+      "id": "3291b1f8dd5a8df2b378d2c8a488075a",
+      "title": "Cử tri tín nhiệm tuyệt đối đại tướng Nguyễn Tân Cương ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://thanhnien.vn/cu-tri-tin-nhiem-tuyet-doi-dai-tuong-nguyen-tan-cuong-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-185260206143913415.htm",
+      "summary": "100% cử tri P.Tiên Sơn (tỉnh Ninh Bình) đã biểu quyết, tín nhiệm đại tướng Nguyễn Tân Cương ứng cử đại biểu Quốc hội (ĐBQH) khóa XVI, nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:15:00+07:00",
+      "fetched": "2026-02-06T15:31:20.935766+07:00"
+    },
+    {
+      "id": "a527a2e95f7ab36d0de22c985fb30783",
+      "title": "Thầy và trò thoát hiểm khi xe tập lái đâm chướng ngại vật trên cao tốc",
+      "link": "https://vnexpress.net/thay-va-tro-thoat-hiem-khi-xe-tap-lai-dam-chuong-ngai-vat-tren-cao-toc-5014785.html",
+      "summary": "Lao vào chướng ngại vật trên cao tốc, nữ lái xe được thầy giáo giúp xử lý tốt tình huống nguy hiểm hôm 4/2 địa phận Thịnh Đán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:13:18+07:00",
+      "fetched": "2026-02-06T15:31:17.862912+07:00"
+    },
+    {
+      "id": "9dac47ece8ca89662749caf8e4d52c76",
+      "title": "Tổng Bí thư Tô Lâm hội kiến Samdech Techo Hun Sen",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-hoi-kien-samdech-techo-hun-sen-185260206145419417.htm",
+      "summary": "Sáng 6.2, sau lễ đón chính thức trọng thể tại Hoàng cung, Tổng Bí thư Tô Lâm đã hội kiến với Samdech Techo Hun Sen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:13:00+07:00",
+      "fetched": "2026-02-06T15:31:20.935923+07:00"
+    },
+    {
       "id": "4969d6c8023ab52abee6558033cd40d3",
       "title": "Đi trên cao tốc, tuân thủ quy tắc an toàn là điều sống còn",
       "link": "https://tuoitre.vn/di-tren-cao-toc-tuan-thu-quy-tac-an-toan-la-dieu-song-con-20260205232924589.htm",
@@ -451,6 +711,266 @@ window.newsData_2026_02_06 = {
       "category": "Tổng hợp",
       "published": "2026-02-06T08:10:39.699927+07:00",
       "fetched": "2026-02-06T08:10:39.700160+07:00"
+    },
+    {
+      "id": "fafc7979b8a842695dceb95a289e15e5",
+      "title": "Ông Trump hết lời ca ngợi Thủ tướng Nhật Bản",
+      "link": "https://vnexpress.net/ong-trump-het-loi-ca-ngoi-thu-tuong-nhat-ban-5014708.html",
+      "summary": "Tổng thống Trump ca ngợi Thủ tướng Takaichi là \"lãnh đạo mạnh mẽ, sáng suốt\", nói rằng bà xứng đáng được ghi nhận sau những cống hiến cho đất nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:09:12+07:00",
+      "fetched": "2026-02-06T15:31:17.863104+07:00"
+    },
+    {
+      "id": "fafc7979b8a842695dceb95a289e15e5",
+      "title": "Ông Trump hết lời ca ngợi Thủ tướng Nhật Bản",
+      "link": "https://vnexpress.net/ong-trump-het-loi-ca-ngoi-thu-tuong-nhat-ban-5014708.html",
+      "summary": "Tổng thống Trump ca ngợi Thủ tướng Takaichi là \"lãnh đạo mạnh mẽ, sáng suốt\", nói rằng bà xứng đáng được ghi nhận sau những cống hiến cho đất nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-06T08:09:12+07:00",
+      "fetched": "2026-02-06T15:31:23.177030+07:00"
+    },
+    {
+      "id": "184dc9a698ad3ec1a37da1ebd3506f43",
+      "title": "Chốt phương án hơn 60.000 tỉ kéo dài metro số 1 TP.HCM đến sân bay Long Thành",
+      "link": "https://thanhnien.vn/chot-phuong-an-hon-60000-ti-keo-dai-metro-so-1-tphcm-den-san-bay-long-thanh-185260206150615175.htm",
+      "summary": "HĐND TP.HCM khóa X vừa thông qua nghị quyết thực hiện dự án kéo dài tuyến metro số 1 (tuyến Bến Thành - Suối Tiên) đến sân bay Long Thành theo phương thức đối tác công tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:07:00+07:00",
+      "fetched": "2026-02-06T15:31:20.936094+07:00"
+    },
+    {
+      "id": "d946a3bddf52c67cf3be79a141807824",
+      "title": "Sức mua cận Tết chậm, siêu thị tung kích cầu",
+      "link": "https://vnexpress.net/suc-mua-can-tet-cham-sieu-thi-tung-kich-cau-5014501.html",
+      "summary": "Còn vài ngày nữa đến Tết Nguyên đán nhưng người dân chi tiêu dè dặt, các siêu thị phải tung khuyến mãi và trải nghiệm để hút khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:06:49+07:00",
+      "fetched": "2026-02-06T15:31:17.863269+07:00"
+    },
+    {
+      "id": "d946a3bddf52c67cf3be79a141807824",
+      "title": "Sức mua cận Tết chậm, siêu thị tung kích cầu",
+      "link": "https://vnexpress.net/suc-mua-can-tet-cham-sieu-thi-tung-kich-cau-5014501.html",
+      "summary": "Còn vài ngày nữa đến Tết Nguyên đán nhưng người dân chi tiêu dè dặt, các siêu thị phải tung khuyến mãi và trải nghiệm để hút khách.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-06T08:06:49+07:00",
+      "fetched": "2026-02-06T15:31:24.237533+07:00"
+    },
+    {
+      "id": "eb5ad2be28d14cdb818eff8988b208c3",
+      "title": "Sổ bảo hiểm xã hội, thẻ bảo hiểm y tế điện tử có giá trị như bản giấy",
+      "link": "https://vnexpress.net/so-bao-hiem-xa-hoi-the-bao-hiem-y-te-dien-tu-co-gia-tri-nhu-ban-giay-5014647.html",
+      "summary": "Từ ngày 3/2, sổ bảo hiểm xã hội và thẻ bảo hiểm y tế điện tử được tạo lập, lưu trữ trên ứng dụng VssID, liên kết với tài khoản định danh điện tử VNeID mức độ 2 và có giá trị pháp lý tương đương bản giấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:02:02+07:00",
+      "fetched": "2026-02-06T15:31:17.863432+07:00"
+    },
+    {
+      "id": "4a82c7b9f451c276256b7eea2c6e2f28",
+      "title": "Những tiết lộ đáng sợ từ cuộc khám nghiệm tử thi của Michael Jackson",
+      "link": "https://thanhnien.vn/nhung-tiet-lo-dang-so-tu-cuoc-kham-nghiem-tu-thi-cua-michael-jackson-185260206114907114.htm",
+      "summary": "Cuộc khám nghiệm tử thi Michael Jackson đã hé lộ nhiều bí mật gây ám ảnh về tình trạng sức khỏe thực sự của 'ông hoàng nhạc pop', phía sau lớp trang điểm, tóc giả và hình ảnh hoàn hảo mà ông duy trì suốt nhiều năm trước công chúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:01:00+07:00",
+      "fetched": "2026-02-06T15:31:20.936246+07:00"
+    },
+    {
+      "id": "cd4e3beeb489e6750578b7bf1de31391",
+      "title": "Lisa lần đầu đóng chính phim hài lãng mạn",
+      "link": "https://vnexpress.net/lisa-lan-dau-dong-chinh-phim-hai-lang-man-5014677.html",
+      "summary": "Lisa - thành viên nhóm nhạc Blackpink - đảm nhận vai chính kiêm nhà sản xuất trong dự án lấy cảm hứng bộ phim \"Notting Hill\" năm 1999.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:00:39+07:00",
+      "fetched": "2026-02-06T15:31:17.863594+07:00"
+    },
+    {
+      "id": "7d61ca86f0f0008654937f9f4f9dd678",
+      "title": "Yếu tố giúp Phú Quốc hút khách dịp Tết",
+      "link": "https://vnexpress.net/yeu-to-giup-phu-quoc-hut-khach-dip-tet-5014335.html",
+      "summary": "Phú Quốc thu hút khách nhờ thời tiết thuận lợi, hệ sinh thái nghỉ dưỡng đồng bộ cùng các dịch vụ giải trí cao cấp như casino hợp pháp và công trình biểu tượng mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:00:37+07:00",
+      "fetched": "2026-02-06T15:31:17.863759+07:00"
+    },
+    {
+      "id": "953bb90e925db01cce1aa7b687b2bf18",
+      "title": "Sunhouse dùng công nghệ lõi làm động lực tăng trưởng",
+      "link": "https://vnexpress.net/sunhouse-dung-cong-nghe-loi-lam-dong-luc-tang-truong-5015102.html",
+      "summary": "Việc làm chủ công nghệ động cơ và vật liệu giúp Sunhouse từng bước xây dựng hệ sinh thái gia dụng hiệu suất cao, tiết kiệm năng lượng và mở rộng dư địa tăng trưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:00:00+07:00",
+      "fetched": "2026-02-06T15:31:17.863921+07:00"
+    },
+    {
+      "id": "5a2191879fae44b04d9a842960f74c31",
+      "title": "Ngày mai diễn ra lễ hội xuân Cần Giờ",
+      "link": "https://vnexpress.net/ngay-mai-dien-ra-le-hoi-xuan-can-gio-5014727.html",
+      "summary": "Chuỗi sự kiện \"lễ hội trong lễ hội\" khai mạc ngày 7/2 tại Vinhomes Green Paradise Cần Giờ mang đến đa trải nghiệm bay khinh khí cầu, dù lượn, pháo hoa nghệ thuật, đường hoa xuân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:00:00+07:00",
+      "fetched": "2026-02-06T15:31:17.864105+07:00"
+    },
+    {
+      "id": "b77e900baae54d17d5fd6939e53350ca",
+      "title": "Nhiều quốc gia mở rộng chính sách hỗ trợ xe điện",
+      "link": "https://vnexpress.net/nhieu-quoc-gia-mo-rong-chinh-sach-ho-tro-xe-dien-5014712.html",
+      "summary": "Đức triển khai gói hỗ trợ 3 tỷ euro, Hàn Quốc thêm mức trợ cấp cho mỗi người dân chuyển sang xe điện, thúc đẩy mục tiêu giảm phát thải giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:00:00+07:00",
+      "fetched": "2026-02-06T15:31:17.864263+07:00"
+    },
+    {
+      "id": "6b864b30e8b0d09f2468bf26950da90a",
+      "title": "Ai nên hạn chế ăn ổi?",
+      "link": "https://vnexpress.net/ai-nen-han-che-an-oi-5014654.html",
+      "summary": "Người có dạ dày nhạy cảm, rối loạn tiêu hóa, bệnh thận cần kiểm soát kali hoặc tiền sử dị ứng nên hạn chế ăn ổi để tránh đầy bụng, ảnh hưởng sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:00:00+07:00",
+      "fetched": "2026-02-06T15:31:17.864422+07:00"
+    },
+    {
+      "id": "724f2b33b2b4149f15b32a3a14c9e274",
+      "title": "Bé 7 tuổi tiểu ra máu do viêm đường tiết niệu",
+      "link": "https://vnexpress.net/be-7-tuoi-tieu-ra-mau-do-viem-duong-tiet-nieu-5014624.html",
+      "summary": "Bé Khánh, 7 tuổi, tiểu buốt và tiểu ra máu cục trong 10 ngày, bác sĩ chẩn đoán do viêm nhiễm đường tiết niệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T08:00:00+07:00",
+      "fetched": "2026-02-06T15:31:17.864582+07:00"
+    },
+    {
+      "id": "953bb90e925db01cce1aa7b687b2bf18",
+      "title": "Sunhouse dùng công nghệ lõi làm động lực tăng trưởng",
+      "link": "https://vnexpress.net/sunhouse-dung-cong-nghe-loi-lam-dong-luc-tang-truong-5015102.html",
+      "summary": "Việc làm chủ công nghệ động cơ và vật liệu giúp Sunhouse từng bước xây dựng hệ sinh thái gia dụng hiệu suất cao, tiết kiệm năng lượng và mở rộng dư địa tăng trưởng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-06T08:00:00+07:00",
+      "fetched": "2026-02-06T15:31:24.239024+07:00"
+    },
+    {
+      "id": "2f1ddef97c65f78acedf4a3e34d0660a",
+      "title": "Dự án đưa Nokia N8 hồi sinh một cách ngoạn mục",
+      "link": "https://thanhnien.vn/du-an-dua-nokia-n8-hoi-sinh-mot-cach-ngoan-muc-185260206142139884.htm",
+      "summary": "Một dự án phần mềm tùy chỉnh mang tên Reborn đang thổi hồn vào những thiết bị Symbian trong quá khứ, đặc biệt là Nokia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T07:54:00+07:00",
+      "fetched": "2026-02-06T15:31:20.936396+07:00"
+    },
+    {
+      "id": "882a60c060031db9b7a9e51a7e3c115a",
+      "title": "Người IQ cao biết ngay đây là thành ngữ nào",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-bat-chao-giua-dong-thanh-ngu-nao-dang-vay-goi-ban-5014618.html",
+      "summary": "Thành ngữ chỉ việc không đáng làm, để đạt được việc nhỏ bỏ công sức quá to.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T07:51:51+07:00",
+      "fetched": "2026-02-06T15:31:17.864745+07:00"
+    },
+    {
+      "id": "ad56a90abc34195649e6803b5b7df629",
+      "title": "Hyomin (T-ara) khoe tổ ấm tân hôn sang trọng triệu USD",
+      "link": "https://thanhnien.vn/hyomin-t-ara-khoe-to-am-tan-hon-sang-trong-trieu-usd-185260206133915014.htm",
+      "summary": "Hyomin - thành viên nhóm nhạc T-ara, mới đây đã khiến người hâm mộ không khỏi trầm trồ khi hé lộ chi tiết không gian sống của cô và chồng đại gia. Căn hộ mang phong cách tối giản nhưng xa xỉ, với nhiều món nội thất đắt đỏ, Kbizoom đưa tin hôm 6.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T07:50:00+07:00",
+      "fetched": "2026-02-06T15:31:20.936553+07:00"
+    },
+    {
+      "id": "c28d7d8d2655795645751520569919fe",
+      "title": "NSƯT Xuân Hinh: Hát vài bài hay đi diễn hài kiếm tiền nhiều hơn đóng phim",
+      "link": "https://thanhnien.vn/nsut-xuan-hinh-hat-vai-bai-hay-di-dien-hai-kiem-tien-nhieu-hon-dong-phim-185260206142634486.htm",
+      "summary": "Dự án 'Mùi phở' là bộ phim khai thác đậm nét yếu tố văn hóa Bắc bộ. Tâm điểm của sự chú ý đổ dồn vào NSƯT Xuân Hinh, người vốn gắn liền với sân khấu hài kịch và các loại hình nghệ thuật truyền thống, nay lần đầu chạm ngõ điện ảnh ở độ tuổi gần 70.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T07:44:00+07:00",
+      "fetched": "2026-02-06T15:31:20.936706+07:00"
+    },
+    {
+      "id": "ac9da16a5b143cb29a63ebb2f77d06a7",
+      "title": "Thần đồng mới được ví như 'Lamine Yamal quần vợt'",
+      "link": "https://vnexpress.net/than-dong-moi-duoc-vi-nhu-lamine-yamal-quan-vot-5014724.html",
+      "summary": "Tay vợt 16 tuổi Moise Kouame được quần vợt Pháp kỳ vọng sẽ trở thành 'Lamine Yamal' của làng banh nỉ, khi gây ấn tượng mạnh ở tuổi 16.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T07:38:27+07:00",
+      "fetched": "2026-02-06T15:31:17.864909+07:00"
+    },
+    {
+      "id": "ac9da16a5b143cb29a63ebb2f77d06a7",
+      "title": "Thần đồng mới được ví như 'Lamine Yamal quần vợt'",
+      "link": "https://vnexpress.net/than-dong-moi-duoc-vi-nhu-lamine-yamal-quan-vot-5014724.html",
+      "summary": "Tay vợt 16 tuổi Moise Kouame được quần vợt Pháp kỳ vọng sẽ trở thành 'Lamine Yamal' của làng banh nỉ, khi gây ấn tượng mạnh ở tuổi 16.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-06T07:38:27+07:00",
+      "fetched": "2026-02-06T15:31:28.558564+07:00"
+    },
+    {
+      "id": "b4dcd21f546830ec185ee7897c7d4bc8",
+      "title": "Deschamps: 'Đừng mong Mbappe chạy 11 km mỗi trận'",
+      "link": "https://vnexpress.net/deschamps-dung-mong-mbappe-chay-11-km-moi-tran-5014672.html",
+      "summary": "HLV Didier Deschamps bảo vệ Kylian Mbappe trước chỉ trích về việc tiền đạo này lười hỗ trợ phòng ngự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T07:33:19+07:00",
+      "fetched": "2026-02-06T15:31:17.865103+07:00"
+    },
+    {
+      "id": "b4dcd21f546830ec185ee7897c7d4bc8",
+      "title": "Deschamps: 'Đừng mong Mbappe chạy 11 km mỗi trận'",
+      "link": "https://vnexpress.net/deschamps-dung-mong-mbappe-chay-11-km-moi-tran-5014672.html",
+      "summary": "HLV Didier Deschamps bảo vệ Kylian Mbappe trước chỉ trích về việc tiền đạo này lười hỗ trợ phòng ngự.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-06T07:33:19+07:00",
+      "fetched": "2026-02-06T15:31:28.557085+07:00"
+    },
+    {
+      "id": "a196fa75bc61750a7838bd16df28e280",
+      "title": "Hòa Phát khởi công khu công nghiệp hơn 3.700 tỉ đồng ngay gần sân bay Gia Bình",
+      "link": "https://thanhnien.vn/hoa-phat-khoi-cong-khu-cong-nghiep-hon-3700-ti-dong-ngay-gan-san-bay-gia-binh-185260206143050783.htm",
+      "summary": "Hòa Phát vừa khởi công dự án đầu tư xây dựng và kinh doanh kết cấu hạ tầng Khu công nghiệp (KCN) Đồng Phúc quy mô gần 355 ha tại tỉnh Bắc Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T07:32:00+07:00",
+      "fetched": "2026-02-06T15:31:20.936860+07:00"
+    },
+    {
+      "id": "617cf2718eeaf67aad92839a17a07654",
+      "title": "Nhà mạng bắt tay công ty du lịch 'giảm áp lực chi phí' cho khách chơi tết",
+      "link": "https://thanhnien.vn/nha-mang-bat-tay-cong-ty-du-lich-giam-ap-luc-chi-phi-cho-khach-choi-tet-185260206142221338.htm",
+      "summary": "Sáng 6.2, Công ty Du lịch Việt và nhà mạng MobiFone ký kết hợp tác chiến lược và triển khai chuỗi chương trình ưu đãi dành cho khách hàng trên toàn quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T07:29:00+07:00",
+      "fetched": "2026-02-06T15:31:20.937027+07:00"
+    },
+    {
+      "id": "a009a914697f9cf415167735a7664e59",
+      "title": "Slot bất ngờ vì Ngoại hạng Anh giàu thể lực",
+      "link": "https://vnexpress.net/slot-bat-ngo-vi-ngoai-hang-anh-giau-the-luc-5014607.html",
+      "summary": "HLV Arne Slot thừa nhận Liverpool gặp khó khi các đối thủ ở Ngoại hạng Anh chuyển sang lối chơi giàu thể lực, khác hoàn toàn so với mùa trước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-06T07:09:54+07:00",
+      "fetched": "2026-02-06T15:31:28.556720+07:00"
     },
     {
       "id": "d5caf1762d908f73fcaff68167bb169c",
