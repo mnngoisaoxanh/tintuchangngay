@@ -1,7 +1,17 @@
 window.newsData_2026_02_07 = {
   "date": "2026-02-07",
-  "lastUpdated": "2026-02-07T19:27:36.754821+07:00",
+  "lastUpdated": "2026-02-07T21:18:01.110370+07:00",
   "articles": [
+    {
+      "id": "da2719b8300848769f1119f35d115385",
+      "title": "Nguyễn Thị Oanh 'trắng tay' tại giải châu Á",
+      "link": "https://tuoitre.vn/nguyen-thi-oanh-trang-tay-tai-giai-chau-a-20260207191935201.htm",
+      "summary": "Dù thi đấu đầy nỗ lực, Nguyễn Thị Oanh đã không thể vượt qua các đối thủ ở Giải vô địch điền kinh trong nhà châu Á 2026 chiều 7-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T21:17:52.944399+07:00",
+      "fetched": "2026-02-07T21:17:52.944623+07:00"
+    },
     {
       "id": "08b7bf24bf277682836cccab0ec3ac60",
       "title": "Chủ tịch AgriS tham gia Hội đồng cố vấn chiến lược đổi mới sáng tạo",
@@ -303,6 +313,26 @@ window.newsData_2026_02_07 = {
       "fetched": "2026-02-07T15:20:00.794166+07:00"
     },
     {
+      "id": "76335f66b2ec456bddad3c5a4cad65c7",
+      "title": "Tên gọi Măng Đen có ý nghĩa gì?",
+      "link": "https://vnexpress.net/ten-goi-mang-den-co-y-nghia-gi-5015502.html",
+      "summary": "Tên gọi Măng Đen xuất phát từ cụm từ \"T'măng Deeng\" trong tiếng của người Mơ Nâm (một nhánh dân tộc Xơ Đăng).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:58:02+07:00",
+      "fetched": "2026-02-07T21:17:46.183312+07:00"
+    },
+    {
+      "id": "33b562e3f81b2b030f516bc0401babb3",
+      "title": "Vợ gạt phăng chuyện mua ôtô vì sợ phải bán vàng lúc này",
+      "link": "https://vnexpress.net/vo-gat-phang-chuyen-mua-oto-vi-so-phai-ban-vang-luc-nay-5015481.html",
+      "summary": "Có phải vợ tôi đang quá ám ảnh với vàng?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:31:45+07:00",
+      "fetched": "2026-02-07T21:17:48.509375+07:00"
+    },
+    {
       "id": "83e3d7c345557b231b7de2427bd30196",
       "title": "Không khí lạnh áp sát, từ ngày 8-2 nhiệt độ miền Bắc giảm 8-10 độ C",
       "link": "https://tuoitre.vn/khong-khi-lanh-ap-sat-tu-ngay-8-2-nhiet-do-mien-bac-giam-8-10-do-c-2026020711525522.htm",
@@ -453,6 +483,226 @@ window.newsData_2026_02_07 = {
       "fetched": "2026-02-07T13:30:37.736810+07:00"
     },
     {
+      "id": "3faadf4ed2a51d64b15b3c4c8d89cc9d",
+      "title": "Elite Việt hội tụ trước thềm VnExpress Marathon All-Star 2026",
+      "link": "https://vnexpress.net/elite-viet-nhan-bib-vm-all-star-5015439.html",
+      "summary": "Hoàng Nguyên Thanh, Edwin Kiptoo, ông Đoàn Ngọc Hải và nhiều gương mặt quen thuộc của chạy bộ Việt Nam xuất hiện ở expo của giải chạy theo thể thức tuyển chọn đầu vào duy nhất Việt Nam ngày 7/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:30:00+07:00",
+      "fetched": "2026-02-07T21:17:48.509797+07:00"
+    },
+    {
+      "id": "96a8a99b8be713aa750b4794abf63cb7",
+      "title": "Phía sau loạt linh vật ngựa 'gây sốt' của nghệ nhân Đinh Văn Tâm",
+      "link": "https://thanhnien.vn/phia-sau-loat-linh-vat-ngua-gay-sot-cua-nghe-nhan-dinh-van-tam-185260206110800898.htm",
+      "summary": "Từ những chú ngựa tung vó, bát mã truy phong đến ngựa vàng mang tết về cho người nghèo, loạt linh vật ngựa của nghệ nhân Đinh Văn Tâm không chỉ gây chú ý mà còn mang theo những câu chuyện ý nghĩa phía sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:20:00+07:00",
+      "fetched": "2026-02-07T21:17:51.908877+07:00"
+    },
+    {
+      "id": "3b3b643aa6946bdacd53f3da0ea19b8e",
+      "title": "Bộ đội TP.HCM mang 'Tết quân dân' đến với bà con xã đảo Thạnh An",
+      "link": "https://thanhnien.vn/bo-doi-tphcm-mang-tet-quan-dan-den-voi-ba-con-xa-dao-thanh-an-185260207194251817.htm",
+      "summary": "Những ngày giáp tết, bộ đội TP.HCM tổ chức chương trình Tết quân dân đến người dân xã đảo Thạnh An, chăm lo đời sống vật chất, tinh thần cho nhân dân và động viên cán bộ, chiến sĩ đang ngày đêm làm nhiệm vụ nơi biển đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:19:00+07:00",
+      "fetched": "2026-02-07T21:17:51.909048+07:00"
+    },
+    {
+      "id": "5906175d944620543f8929c99914ac84",
+      "title": "Trung tướng Đinh Văn Nơi đóng góp, vận động 1.000 phần quà tết cho người dân",
+      "link": "https://thanhnien.vn/trung-tuong-dinh-van-noi-dong-gop-van-dong-1000-phan-qua-tet-cho-nguoi-dan-185260207184401299.htm",
+      "summary": "Trung tướng Đinh Văn Nơi đã đóng góp, vận động 1 tỉ đồng, hỗ trợ phường Long Tuyền (thành phố Cần Thơ) chăm lo Tết Nguyên đán Bính Ngọ 2026 cho các hộ dân khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:18:00+07:00",
+      "fetched": "2026-02-07T21:17:51.909210+07:00"
+    },
+    {
+      "id": "707b2d236eabed3895124d779693cf19",
+      "title": "HAGL bùng nổ tuyệt vời, Ninh Bình gục ngã: Trận thua thứ hai của Hoàng Đức, chuyện gì đang xảy ra?",
+      "link": "https://thanhnien.vn/hagl-bung-no-tuyet-voi-ninh-binh-guc-nga-tran-thua-thu-hai-cua-hoang-duc-chuyen-gi-dang-xay-ra-185260207201033488.htm",
+      "summary": "HAGL chơi thứ bóng đá ấn tượng, khiến Ninh Bình FC phải nhận thất bại đầu tiên trên sân nhà, để bứt xa khỏi khu vực nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:17:00+07:00",
+      "fetched": "2026-02-07T21:17:51.909362+07:00"
+    },
+    {
+      "id": "a9f410b5ee228c4aa3a19adf61d54d66",
+      "title": "Ninh Bình lại thua, CAHN sớm vô địch lượt đi V-League",
+      "link": "https://vnexpress.net/ninh-binh-lai-thua-cahn-som-vo-dich-luot-di-v-league-5015518.html",
+      "summary": "Ninh Bình thua HAGL 1-2 ở vòng 13, góp phần giúp Công an Hà Nội chắc chắn đứng đầu lượt đi V-League 2205-2026 dù còn hai trận chưa đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:04:45+07:00",
+      "fetched": "2026-02-07T21:17:48.509968+07:00"
+    },
+    {
+      "id": "a9f410b5ee228c4aa3a19adf61d54d66",
+      "title": "Ninh Bình lại thua, CAHN sớm vô địch lượt đi V-League",
+      "link": "https://vnexpress.net/ninh-binh-lai-thua-cahn-som-vo-dich-luot-di-v-league-5015518.html",
+      "summary": "Ninh Bình thua HAGL 1-2 ở vòng 13, góp phần giúp Công an Hà Nội chắc chắn đứng đầu lượt đi V-League 2205-2026 dù còn hai trận chưa đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-07T13:04:45+07:00",
+      "fetched": "2026-02-07T21:18:01.098674+07:00"
+    },
+    {
+      "id": "3ad98df201c60404038bf9a84cb323dd",
+      "title": "Phẫn nộ clip học sinh bị nhóm người vây đánh hội đồng  ở Hóc Môn",
+      "link": "https://thanhnien.vn/phan-no-clip-hoc-sinh-bi-nhom-nguoi-vay-danh-hoi-dong-o-hoc-mon-185260207195919471.htm",
+      "summary": "Công an xã đang khẩn trương xác minh vụ một nhóm người hành hung học sinh trung học cơ sở trên địa bàn xã Hóc Môn (TP.HCM) gây bức xúc dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:04:00+07:00",
+      "fetched": "2026-02-07T21:17:51.909541+07:00"
+    },
+    {
+      "id": "3352662bad81a8846b8cec0ea88ced6d",
+      "title": "CLB Becamex TP.HCM thua ngược cay đắng PVF-CAND: ‘Nước mắt’ Hồ Tấn Tài!",
+      "link": "https://thanhnien.vn/clb-becamex-tphcm-thua-nguoc-cay-dang-pvf-cand-nuoc-mat-ho-tan-tai-185260207191414223.htm",
+      "summary": "Vừa trở lại, Hồ Tấn Tài lập tức ghi bàn nhưng CLB Becamex TP.HCM vẫn thất thủ ngay trên sân nhà trước đội PVF-CAND.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:03:00+07:00",
+      "fetched": "2026-02-07T21:17:51.909703+07:00"
+    },
+    {
+      "id": "d46b932d9a697d51f4f3fef7df298e92",
+      "title": "'Hát nhép, hát đè phổ biến, ca sĩ càng phải chuyên nghiệp'",
+      "link": "https://vnexpress.net/hat-nhep-hat-de-pho-bien-ca-si-cang-phai-chuyen-nghiep-5014597.html",
+      "summary": "Khi hát nhép, hát đè phổ biến ở làng nhạc Việt và quốc tế, giới chuyên môn nhận định ca sĩ càng cần rèn thực lực và kỹ năng biểu diễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:01:11+07:00",
+      "fetched": "2026-02-07T21:17:48.510125+07:00"
+    },
+    {
+      "id": "d2f7c14119fd11033b389cf71edcffc3",
+      "title": "Sợ tài sản hao hụt dần nếu công việc không thuận lợi kéo dài",
+      "link": "https://vnexpress.net/so-tai-san-hao-hut-dan-neu-cong-viec-khong-thuan-loi-keo-dai-5005871.html",
+      "summary": "Tôi tự thấy mình là người an phận, giỏi tích lũy hơn đầu tư; tuy nhiên, vài năm gần đây tình hình kinh doanh giảm sút rõ rệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:00:00+07:00",
+      "fetched": "2026-02-07T21:17:48.510279+07:00"
+    },
+    {
+      "id": "d219e13a8bdd6c566f7708fa9c83d5d9",
+      "title": "Mordor Intelligence: Xanh SM vượt 50% thị phần gọi xe công nghệ",
+      "link": "https://vnexpress.net/mordor-intelligence-xanh-sm-vuot-50-thi-phan-goi-xe-cong-nghe-5015512.html",
+      "summary": "Xanh SM có quý đầu tiên đạt thị phần trong nước trên 50%, giữ vị thế dẫn đầu 15 tháng liên tiếp, theo báo cáo từ Mordor Intelligence.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:00:00+07:00",
+      "fetched": "2026-02-07T21:17:48.510430+07:00"
+    },
+    {
+      "id": "d01b097a97a3fb5b9518f954fcefd757",
+      "title": "Xem nhanh 20h ngày 7.2: Xác minh vụ học sinh bị hành hung ở Hóc Môn | Tướng cấp cao của Nga bị bắn ở Moscow",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-72-xac-minh-vu-hoc-sinh-bi-hanh-hung-o-hoc-mon-tuong-cap-cao-cua-nga-bi-ban-o-moscow-185260207194325145.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 7.2 có nhiều tin tức đáng chú ý về: Cướp ngân hàng ở Gia Lai: Xác minh vụ nhóm người hành hung học sinh dã man ở Hóc Môn; Tướng cấp cao của Nga bị bắn nhiều phát ở Moscow;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:00:00+07:00",
+      "fetched": "2026-02-07T21:17:51.909853+07:00"
+    },
+    {
+      "id": "de384e68d2041e03fbe9266742293182",
+      "title": "Chưa có người trúng độc đắc Vietlott, tiền cộng dồn tăng lên 52,9 tỉ đồng",
+      "link": "https://thanhnien.vn/chua-co-nguoi-trung-doc-dac-vietlott-tien-cong-don-tang-len-529-ti-dong-185260207191845232.htm",
+      "summary": "Tối 7.2, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, tuy nhiên không xuất hiện người trúng độc đắc nên số tiền cộng dồn tăng lên 52,9 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T13:00:00+07:00",
+      "fetched": "2026-02-07T21:17:51.910000+07:00"
+    },
+    {
+      "id": "d219e13a8bdd6c566f7708fa9c83d5d9",
+      "title": "Mordor Intelligence: Xanh SM vượt 50% thị phần gọi xe công nghệ",
+      "link": "https://vnexpress.net/mordor-intelligence-xanh-sm-vuot-50-thi-phan-goi-xe-cong-nghe-5015512.html",
+      "summary": "Xanh SM có quý đầu tiên đạt thị phần trong nước trên 50%, giữ vị thế dẫn đầu 15 tháng liên tiếp, theo báo cáo từ Mordor Intelligence.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-07T13:00:00+07:00",
+      "fetched": "2026-02-07T21:17:56.510179+07:00"
+    },
+    {
+      "id": "83cd05366214891b90061bff3d452db2",
+      "title": "Suy thận nặng hơn do tự cắt đạm theo hướng dẫn trên mạng xã hội",
+      "link": "https://thanhnien.vn/suy-than-nang-hon-do-tu-cat-dam-theo-huong-dan-tren-mang-xa-hoi-185260207195846368.htm",
+      "summary": "Phát hiện suy thận giai đoạn 3, ông M. tự ý cắt giảm thực phẩm giàu đạm theo hướng dẫn trên mạng xã hội, sau 3 tháng độ lọc cầu thận xuống thấp báo động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T12:58:00+07:00",
+      "fetched": "2026-02-07T21:17:51.910153+07:00"
+    },
+    {
+      "id": "d471e7983d20d50884b87c8e804aefb5",
+      "title": "Phú Quốc: Gần 100 giáo viên chạy bộ gây quỹ quà tết cho học sinh khó khăn",
+      "link": "https://thanhnien.vn/phu-quoc-gan-100-giao-vien-chay-bo-gay-quy-qua-tet-cho-hoc-sinh-kho-khan-1852602071818329.htm",
+      "summary": "Giải chạy thiện nguyện 'Chạy gắn kết - Tết sẻ chia' thu hút gần 100 giáo viên tham gia, nhằm gây quỹ mua quà tết cho học sinh có hoàn cảnh khó khăn trên địa bàn Phú Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T12:50:00+07:00",
+      "fetched": "2026-02-07T21:17:51.910302+07:00"
+    },
+    {
+      "id": "d1d92043a10819b9590a492cfa541724",
+      "title": "Nhã Phương khoe dáng gợi cảm sau khi sinh con lần 3",
+      "link": "https://thanhnien.vn/nha-phuong-khoe-dang-goi-cam-sau-khi-sinh-con-lan-3-185260207184845881.htm",
+      "summary": "Cuối tháng 1, gia đình Nhã Phương đón thêm thành viên mới. Sau thời gian nghỉ ngơi, nữ diễn viên đăng tải những hình ảnh đầu tiên trên trang cá nhân, thu hút sự quan tâm của công chúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T12:48:00+07:00",
+      "fetched": "2026-02-07T21:17:51.910449+07:00"
+    },
+    {
+      "id": "dbea450bb7b9a3d67e5a62f484ed74d9",
+      "title": "Đẩy xe rùa dạo chợ tết ở tổ đình Sắc Tứ Tịnh Quang",
+      "link": "https://thanhnien.vn/day-xe-rua-dao-cho-tet-o-to-dinh-sac-tu-tinh-quang-185260207121155828.htm",
+      "summary": "Đến với phiên chợ tết ở tổ đình Sắc Tứ Tịnh Quang, những người nghèo không tốn tiền mua sắm mà còn nhận lì xì mang về. Phiên chợ cuối năm vui nhộn, ấm áp và cũng tràn đầy tình thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T12:47:00+07:00",
+      "fetched": "2026-02-07T21:17:51.910643+07:00"
+    },
+    {
+      "id": "29b07e879a09a18ed781860c8df8884c",
+      "title": "Mùa tất niên, cầu lửa mùa xuân bí ẩn xuất hiện: Có gì bất ngờ tối nay 7.2?",
+      "link": "https://thanhnien.vn/mua-tat-nien-cau-lua-mua-xuan-bi-an-xuat-hien-co-gi-bat-ngo-toi-nay-72-185260207090626289.htm",
+      "summary": "Mùa tất niên năm nay cũng là thời điểm tuyệt vời để người yêu thiên văn Việt Nam \"săn lùng\" những quả cầu lửa mùa xuân bí ẩn. Chúng là gì và có gì thú vị mà người Việt có thể tìm kiếm từ tối nay 7.2?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T12:45:00+07:00",
+      "fetched": "2026-02-07T21:17:51.910799+07:00"
+    },
+    {
+      "id": "8edbc3a0cf20544cefc32c9204e31db1",
+      "title": "Mặc cảm vì tái phát sùi mào gà nhiều lần",
+      "link": "https://vnexpress.net/mac-cam-vi-tai-phat-sui-mao-ga-nhieu-lan-5015495.html",
+      "summary": "Tái phát sùi mào gà 4 lần trong một năm dù đã điều trị nhiều phương pháp, Mạnh Ninh, 24 tuổi, dần mất hết tự tin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T12:30:00+07:00",
+      "fetched": "2026-02-07T21:17:48.510605+07:00"
+    },
+    {
+      "id": "33be512e77cfb0e9f05339eb2bcc8f82",
+      "title": "Lực lượng Nga đối mặt ‘thảm họa Starlink’ trên tiền tuyến với Ukraine?",
+      "link": "https://thanhnien.vn/luc-luong-nga-doi-mat-tham-hoa-starlink-tren-tien-tuyen-voi-ukraine-185260207181528003.htm",
+      "summary": "Theo báo Kyiv Independent, Ukraine kết hợp với hãng SpaceX đang chặn quyền truy cập của Nga vào internet vệ tinh Starlink dọc chiến tuyến, khiến lực lượng Moscow lâm vào tình thế khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T12:28:00+07:00",
+      "fetched": "2026-02-07T21:17:51.910958+07:00"
+    },
+    {
       "id": "6fa0049b54aff08cca31e434ca61a924",
       "title": "CATL công bố pin xe điện sạc đầy trong 12 phút",
       "link": "https://thanhnien.vn/catl-cong-bo-pin-xe-dien-sac-day-trong-12-phut-185260206174432102.htm",
@@ -461,6 +711,26 @@ window.newsData_2026_02_07 = {
       "category": "Tổng hợp",
       "published": "2026-02-07T12:19:00+07:00",
       "fetched": "2026-02-07T19:27:26.797171+07:00"
+    },
+    {
+      "id": "f2bff61bc9a8a42111853f37d5914a99",
+      "title": "Cuối tuần, người dân tấp nập sắm Tết",
+      "link": "https://vnexpress.net/cuoi-tuan-nguoi-dan-tap-nap-sam-tet-5015485.html",
+      "summary": "Tranh thủ cuối tuần sát Tết, người dân đổ về các trung tâm mua sắm, siêu thị khiến quầy thanh toán luôn ùn ứ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T12:16:59+07:00",
+      "fetched": "2026-02-07T21:17:48.510766+07:00"
+    },
+    {
+      "id": "f2bff61bc9a8a42111853f37d5914a99",
+      "title": "Cuối tuần, người dân tấp nập sắm Tết",
+      "link": "https://vnexpress.net/cuoi-tuan-nguoi-dan-tap-nap-sam-tet-5015485.html",
+      "summary": "Tranh thủ cuối tuần sát Tết, người dân đổ về các trung tâm mua sắm, siêu thị khiến quầy thanh toán luôn ùn ứ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-07T12:16:59+07:00",
+      "fetched": "2026-02-07T21:17:56.508839+07:00"
     },
     {
       "id": "c32cabed6012069815f1b839996ad56d",
@@ -701,6 +971,16 @@ window.newsData_2026_02_07 = {
       "category": "Công nghệ",
       "published": "2026-02-07T12:00:00+07:00",
       "fetched": "2026-02-07T19:27:34.657985+07:00"
+    },
+    {
+      "id": "2e927f5e4e3e127fcb4351715c7d5372",
+      "title": "Nam sinh lớp 8 đỗ thủ khoa Vật lý lớp 9",
+      "link": "https://vnexpress.net/nam-sinh-lop-8-do-thu-khoa-vat-ly-lop-9-5015351.html",
+      "summary": "Dù thừa nhận học tập khá tùy hứng và hiếm khi làm hết bài tập thầy giao, nam sinh lớp 8 trường Ams vẫn trở thành thủ khoa Vật lý cấp thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T12:00:00+07:00",
+      "fetched": "2026-02-07T21:17:48.511285+07:00"
     },
     {
       "id": "16e6a107b20a9eab181545340bbb79ab",
