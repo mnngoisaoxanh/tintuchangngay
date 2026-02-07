@@ -1,7 +1,147 @@
 window.newsData_2026_02_07 = {
   "date": "2026-02-07",
-  "lastUpdated": "2026-02-07T21:18:01.110370+07:00",
+  "lastUpdated": "2026-02-07T23:18:02.276351+07:00",
   "articles": [
+    {
+      "id": "5f817d527637d67c0232c32844c8a4bd",
+      "title": "Toyota thay CEO, người kế nhiệm là 'ông trùm tài chính'",
+      "link": "https://tuoitre.vn/toyota-thay-ceo-nguoi-ke-nhiem-la-ong-trum-tai-chinh-20260207085735058.htm",
+      "summary": "Sự thay đổi ở vị trí lãnh đạo diễn ra trong bối cảnh Toyota phải đồng thời đối mặt với áp lực cạnh tranh mới, và yêu cầu nâng cao hiệu quả vận hành trên toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T23:17:55.933879+07:00",
+      "fetched": "2026-02-07T23:17:55.933992+07:00"
+    },
+    {
+      "id": "784ab0a19125927d3a2c21662f0f372f",
+      "title": "ACB sắp tăng vốn, có thể vượt một ngân hàng quốc doanh",
+      "link": "https://tuoitre.vn/acb-sap-tang-von-co-the-vuot-mot-ngan-hang-quoc-doanh-20260207193245982.htm",
+      "summary": "ACB dự kiến trình cổ đông phương án tăng vốn điều lệ từ cổ tức năm 2025, trong bối cảnh quy mô vốn của ngân hàng đã tiệm cận Agribank.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T23:17:55.933758+07:00",
+      "fetched": "2026-02-07T23:17:55.933868+07:00"
+    },
+    {
+      "id": "c4a6fb28a32b98ebbadf6705dae48fc6",
+      "title": "Dòng vốn Âu - Mỹ, Nhật Bản… tìm đến Việt Nam đón nâng hạng chứng khoán",
+      "link": "https://tuoitre.vn/dong-von-au-my-nhat-ban-tim-den-viet-nam-don-nang-hang-chung-khoan-20260207190843474.htm",
+      "summary": "Các định chế tài chính, quỹ đầu tư lớn thuộc các thị trường tài chính phát triển như Mỹ, châu Âu, Nhật Bản… tìm đến Việt Nam sau nâng hạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T23:17:55.933634+07:00",
+      "fetched": "2026-02-07T23:17:55.933747+07:00"
+    },
+    {
+      "id": "7a8d0ccf6ca3a1a9297b201c12c34a98",
+      "title": "Iran chỉ rõ mục tiêu sẽ trả đũa nếu Mỹ tấn công Tehran",
+      "link": "https://tuoitre.vn/iran-chi-ro-muc-tieu-se-tra-dua-neu-my-tan-cong-tehran-20260207195553273.htm",
+      "summary": "Ngày 7-2, Ngoại trưởng Iran Abbas Araghchi cảnh báo Tehran sẽ tấn công các căn cứ của Mỹ ở Trung Đông nếu Mỹ tấn công Iran, nhấn mạnh đòn trả đũa như vậy không nên bị xem là cuộc tấn công vào các nước đang cho Mỹ đặt căn cứ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T23:17:55.933501+07:00",
+      "fetched": "2026-02-07T23:17:55.933618+07:00"
+    },
+    {
+      "id": "6a333d08ba808c0ab8f9a652adeb0945",
+      "title": "CLB Ninh Bình bất ngờ thua Hoàng Anh Gia Lai",
+      "link": "https://tuoitre.vn/clb-ninh-binh-bat-ngo-thua-hoang-anh-gia-lai-20260207201230212.htm",
+      "summary": "Tối 7-2, CLB Ninh Bình để thua Hoàng Anh Gia Lai ngay trên sân nhà với tỉ số 1-2, trong trận đấu vòng 13 V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T23:17:55.933363+07:00",
+      "fetched": "2026-02-07T23:17:55.933488+07:00"
+    },
+    {
+      "id": "db6c37bea28342a0a8305614b7a67049",
+      "title": "Lễ hội Xuân Cần Giờ tại Vinhomes Green Paradise có mai trăm tuổi, có khinh khí cầu",
+      "link": "https://tuoitre.vn/le-hoi-xuan-can-gio-tai-vinhomes-green-paradise-co-mai-tram-tuoi-co-khinh-khi-cau-20260207191433234.htm",
+      "summary": "Lễ hội Xuân Cần Giờ tại Vinhomes Green Paradise với chủ đề Tết ở thiên đường xanh chính thức khai mạc từ chiều 7-2, phục vụ du khách miễn phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T23:17:55.933236+07:00",
+      "fetched": "2026-02-07T23:17:55.933352+07:00"
+    },
+    {
+      "id": "140e1b87156bf61c610b30aac0db1195",
+      "title": "Thanh Nhàn thể hiện ấn tượng trong ngày ba vợ đi xem PVF-CAND",
+      "link": "https://tuoitre.vn/thanh-nhan-the-hien-an-tuong-trong-ngay-ba-vo-di-xem-pvf-cand-20260207204415265.htm",
+      "summary": "Tiền đạo U23 Việt Nam Nguyễn Thanh Nhàn có màn thể hiện ấn tượng trong chiến thắng 2-1 của PVF-CAND trên sân Becamex TP.HCM ở vòng 13 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T23:17:55.932974+07:00",
+      "fetched": "2026-02-07T23:17:55.933223+07:00"
+    },
+    {
+      "id": "0d45a180a7a07a4f6040203655dcf42e",
+      "title": "CLB Thanh Hóa có cử chỉ ấm áp với Thái Sơn",
+      "link": "https://tuoitre.vn/clb-thanh-hoa-co-cu-chi-am-ap-voi-thai-son-20260207204028971.htm",
+      "summary": "Tập thể CLB Thanh Hóa vào bệnh viện hỏi thăm sức khỏe của tuyển thủ U23 Việt Nam Nguyễn Thái Sơn sau khi anh mới phẫu thuật dây chằng gối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T23:17:55.932847+07:00",
+      "fetched": "2026-02-07T23:17:55.932962+07:00"
+    },
+    {
+      "id": "805191238135d41b821c203d4ec714ff",
+      "title": "HLV Nhật Bản thất vọng vì thua trận đầu tiên ở V-League",
+      "link": "https://tuoitre.vn/hlv-nhat-ban-that-vong-vi-thua-tran-dau-tien-o-v-league-20260207210354933.htm",
+      "summary": "HLV Nhật Bản Ueno Nobuhiro đón nhận trận thua đầu tiên cùng Becamex TP.HCM trên sân nhà trong thất bại 1-2 trước PVF-CAND ở vòng 13 V-League 2025-2026 diễn ra tối 7-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T23:17:55.932704+07:00",
+      "fetched": "2026-02-07T23:17:55.932835+07:00"
+    },
+    {
+      "id": "ea1f82c6e26f04caa56d178af427b6bd",
+      "title": "Đồng Tháp: Xuyên đêm tìm kiếm bé gái 7 tuổi rơi xuống kênh mất tích",
+      "link": "https://tuoitre.vn/dong-thap-xuyen-dem-tim-kiem-be-gai-7-tuoi-roi-xuong-kenh-mat-tich-20260207192438902.htm",
+      "summary": "Chiều 7-2, gia đình cùng lực lượng cứu nạn, cứu hộ đang khẩn trương tìm kiếm một bé gái 7 tuổi bị trượt chân rơi xuống kênh và mất tích tại xã Long Định, tỉnh Đồng Tháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T23:17:55.932535+07:00",
+      "fetched": "2026-02-07T23:17:55.932691+07:00"
+    },
+    {
+      "id": "8fbfddfaf75f36661cfd8215a0cfeaf3",
+      "title": "Bệnh viện Quốc tế City ký hợp tác với Tập đoàn JM Group",
+      "link": "https://tuoitre.vn/benh-vien-quoc-te-city-ky-hop-tac-voi-tap-doan-jm-group-20260207205711763.htm",
+      "summary": "Ngày 7-2, Bệnh viện Quốc tế City ký kết hợp tác với Tập đoàn JM Group, hướng đến vận hành Trung tâm Thẩm mỹ - Y học tái tạo theo tiêu chuẩn Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T23:17:55.932359+07:00",
+      "fetched": "2026-02-07T23:17:55.932507+07:00"
+    },
+    {
+      "id": "e6b35f4f7d9c1fb2234c5ce5980ee52a",
+      "title": "Trung tướng Phạm Tuân tự hào khi nữ phi hành gia Amanda Nguyễn ghi thêm dấu ấn Việt Nam trên vũ trụ",
+      "link": "https://tuoitre.vn/trung-tuong-pham-tuan-tu-hao-khi-nu-phi-hanh-gia-amanda-nguyen-ghi-them-dau-an-viet-nam-tren-vu-tru-2026020717500935.htm",
+      "summary": "Trung tướng Phạm Tuân và nữ phi hành gia Amanda Nguyễn, hai thế hệ người Việt từng bay vào vũ trụ, đã có buổi gặp gỡ đầy cảm xúc và truyền cảm hứng đến thế hệ trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T23:17:55.932218+07:00",
+      "fetched": "2026-02-07T23:17:55.932346+07:00"
+    },
+    {
+      "id": "e3c68db2d0169edafce1c00b326e244a",
+      "title": "Thủ môn Trần Trung Kiên sụt 8kg sau U23 châu Á 2026",
+      "link": "https://tuoitre.vn/thu-mon-tran-trung-kien-sut-8kg-sau-u23-chau-a-2026-20260207211434824.htm",
+      "summary": "HLV trưởng Hoàng Anh Gia Lai - ông Lê Quang Trãi tiết lộ tình hình thể trạng học trò Trần Trung Kiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T23:17:55.932068+07:00",
+      "fetched": "2026-02-07T23:17:55.932205+07:00"
+    },
+    {
+      "id": "00bc11f9df73d55da8ad0e1939e27064",
+      "title": "Cướp bóng trong chân thủ môn, Quy Nhơn United hạ đẹp đối thủ",
+      "link": "https://tuoitre.vn/cuop-bong-trong-chan-thu-mon-quy-nhon-united-ha-dep-doi-thu-20260207205733314.htm",
+      "summary": "Tiền đạo Đào Gia Việt của Quy Nhơn United cướp bóng trong chân thủ môn ghi bàn, góp công lớn vào chiến thắng 2-0 trước Xuân Thiện Phú Thọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T23:17:55.931839+07:00",
+      "fetched": "2026-02-07T23:17:55.932054+07:00"
+    },
     {
       "id": "da2719b8300848769f1119f35d115385",
       "title": "Nguyễn Thị Oanh 'trắng tay' tại giải châu Á",
@@ -163,6 +303,106 @@ window.newsData_2026_02_07 = {
       "fetched": "2026-02-07T19:27:27.760269+07:00"
     },
     {
+      "id": "2fc2c54ba2a30c45a5c304d2bf37555b",
+      "title": "Highlight CLB Bắc Ninh 2-1 CLB Long An: Bản lĩnh đúng lúc",
+      "link": "https://thanhnien.vn/highlight-clb-bac-ninh-2-1-clb-long-an-ban-linh-dung-luc-185260207230437707.htm",
+      "summary": "Thi đấu chặt chẽ và tận dụng tốt cơ hội, CLB Bắc Ninh giành chiến thắng 2-1 trước CLB Long An trong trận đấu giàu tính cạnh tranh của giải hạng nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T16:04:00+07:00",
+      "fetched": "2026-02-07T23:17:54.813646+07:00"
+    },
+    {
+      "id": "47090ab77fe02109b1bbcd680ae1db52",
+      "title": "Highlight CLB Quy Nhơn 2-0 CLB Phú Thọ: Thế trận vượt trội",
+      "link": "https://thanhnien.vn/highlight-clb-quy-nhon-2-0-clb-phu-tho-the-tran-vuot-troi-185260207230304847.htm",
+      "summary": "Thi đấu chủ động và hiệu quả, CLB Quy Nhơn giành chiến thắng 2-0 trước CLB Phú Thọ, qua đó khẳng định ưu thế rõ rệt về thế trận lẫn chất lượng nhân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T16:03:00+07:00",
+      "fetched": "2026-02-07T23:17:54.813818+07:00"
+    },
+    {
+      "id": "b916485484c2c2d144563a5f1cffbea5",
+      "title": "Highlight CLB Quảng Ninh 1-1 ĐH Văn Hiến: Bất phân thắng bại",
+      "link": "https://thanhnien.vn/highlight-clb-quang-ninh-1-1-dh-van-hien-bat-phan-thang-bai-185260207230212284.htm",
+      "summary": "Trận đấu diễn ra giằng co khi CLB Quảng Ninh và Trường ĐH Văn Hiến mỗi đội có 1 bàn thắng, khép lại 90 phút với tỷ số hòa 1-1 sau thế trận cân bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T16:02:00+07:00",
+      "fetched": "2026-02-07T23:17:54.813976+07:00"
+    },
+    {
+      "id": "263fba8be15b7d579ecba8d42571adb6",
+      "title": "Highlight CLB Ninh Bình 1-2 CLB HAGL: Chiến thắng gây sốc",
+      "link": "https://thanhnien.vn/highlight-clb-ninh-binh-1-2-clb-hagl-chien-thang-gay-soc-185260207225518552.htm",
+      "summary": "Bất chấp phải làm khách và bị đánh giá thấp hơn, CLB HAGL vẫn thi đấu kiên cường để đánh bại CLB Ninh Bình 2-1, tạo nên một trong những kết quả bất ngờ nhất vòng đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:55:00+07:00",
+      "fetched": "2026-02-07T23:17:54.814130+07:00"
+    },
+    {
+      "id": "07818ae942a29a68200f457190f1379a",
+      "title": "Man Utd 2-0 Tottenham",
+      "link": "https://vnexpress.net/man-utd-2-0-tottenham-5015555.html",
+      "summary": "Các bàn của Bryan Mbeumo và Bruno Fernandes giúp chủ sân Old Trafford giành chiến thắng ở vòng 24 Ngoại hạng Anh, ngày 7/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:54:46+07:00",
+      "fetched": "2026-02-07T23:17:49.490439+07:00"
+    },
+    {
+      "id": "28af3889e32e28a96928ca99d5ffa9ba",
+      "title": "Higlight CLB Becamex TP.HCM 1-2 CLB PVF-CAND: Ngược dòng ngoạn mục",
+      "link": "https://thanhnien.vn/higlight-clb-becamex-tphcm-1-2-clb-pvf-cand-nguoc-dong-ngoan-muc-185260207225418071.htm",
+      "summary": "Bị dẫn bàn từ sớm, CLB PVF-CAND vẫn thể hiện bản lĩnh và tinh thần thi đấu ấn tượng để lội ngược dòng đánh bại CLB Becamex TP.HCM 2-1, tạo nên màn ngược dòng đáng nhớ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:54:00+07:00",
+      "fetched": "2026-02-07T23:17:54.814288+07:00"
+    },
+    {
+      "id": "b16badaa9f389b52ba5c06fda2ada307",
+      "title": "Highlight CLB Hà Nội 2-0 CLB Hải Phòng: Ngày của Hoàng Hên",
+      "link": "https://thanhnien.vn/highlight-clb-ha-noi-2-0-clb-hai-phong-ngay-cua-hoang-hen-185260207225328125.htm",
+      "summary": "Sự tỏa sáng đúng lúc của Hoàng Hên giúp CLB Hà Nội giành chiến thắng thuyết phục 2-0 trước CLB Hải Phòng, qua đó kiểm soát hoàn toàn thế trận và khẳng định bản lĩnh ở V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:53:00+07:00",
+      "fetched": "2026-02-07T23:17:54.814443+07:00"
+    },
+    {
+      "id": "a605c7bd21b17e62f5f90c8b2ca3303c",
+      "title": "Hơn 1 vạn người đổ về Cần Giờ xem pháo hoa xuân sớm nhất nước",
+      "link": "https://thanhnien.vn/hon-1-van-nguoi-do-ve-can-gio-xem-phao-hoa-xuan-som-nhat-nuoc-185260207223828614.htm",
+      "summary": "Tối nay (7.2), bầu trời đặc khu Cần Giờ (TP.HCM) sáng rực rỡ với màn pháo hoa mãn nhãn khai hội xuân lớn nhất từ trước đến nay. Đây cũng là màn pháo hoa mừng Tết Nguyên đán 2026 diễn ra đầu tiên trên cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:41:00+07:00",
+      "fetched": "2026-02-07T23:17:54.814622+07:00"
+    },
+    {
+      "id": "66560ae218ce92d54a90f73788bc651c",
+      "title": "10.000 du khách dự hội xuân Cần Giờ trong ngày đầu",
+      "link": "https://vnexpress.net/10-000-du-khach-du-hoi-xuan-can-gio-trong-ngay-dau-5015536.html",
+      "summary": "Khu đô thị Vinhomes Green Paradise đón 10.000 khách trải nghiệm hội xuân, check-in khinh khí cầu, ngắm dù lượn và tham quan gian hàng, tạo không khí sôi động trong ngày mở cửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:40:00+07:00",
+      "fetched": "2026-02-07T23:17:49.490638+07:00"
+    },
+    {
+      "id": "de85831e54f5c975e0f07a347f1e6345",
+      "title": "Phong Phú Hà Nam vô địch U.19 nữ quốc gia, đội TP.HCM bị ngược dòng trận cuối",
+      "link": "https://thanhnien.vn/phong-phu-ha-nam-vo-dich-u19-nu-quoc-gia-doi-tphcm-bi-nguoc-dong-tran-cuoi-185260207223340714.htm",
+      "summary": "CLB nữ U.19 Hà Nội khiến nhiều người bất ngờ khi giành chiến thắng trước TP.HCM ở lượt cuối giải vô địch bóng đá nữ U.19 quốc gia - cúp Acecook 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:35:00+07:00",
+      "fetched": "2026-02-07T23:17:54.814777+07:00"
+    },
+    {
       "id": "0d2b7362566712e69921b8b024464ffe",
       "title": "Chỉ huy trưởng Bộ Chỉ huy Quân sự Đà Nẵng nói về văn bản giả mạo tên mình trên mạng xã hội",
       "link": "https://tuoitre.vn/chi-huy-truong-bo-chi-huy-quan-su-da-nang-noi-ve-van-ban-gia-mao-ten-minh-tren-mang-xa-hoi-20260207125506812.htm",
@@ -311,6 +551,216 @@ window.newsData_2026_02_07 = {
       "category": "Tổng hợp",
       "published": "2026-02-07T15:20:00.793953+07:00",
       "fetched": "2026-02-07T15:20:00.794166+07:00"
+    },
+    {
+      "id": "7d2a3e19c4950f0efe7aec6ffeedced3",
+      "title": "Lời khai của hai nghi phạm về kế hoạch cướp ngân hàng ở Gia Lai",
+      "link": "https://vnexpress.net/loi-khai-cua-hai-nghi-pham-ve-ke-hoach-cuop-ngan-hang-o-gia-lai-5015529.html",
+      "summary": "Phạm Anh Tài khai vì thiếu tiền tiêu xài nên đã lên kế hoạch cướp ngân hàng trước 3-4 tháng, tính sẵn đường tẩu thoát với nhiều bước nhằm tránh bị phát hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:16:00+07:00",
+      "fetched": "2026-02-07T23:17:49.490803+07:00"
+    },
+    {
+      "id": "61790e9ae9288d602f9da10d85b13b17",
+      "title": "Campuchia cảnh báo nguy cơ nhiễm bệnh 'sốt vẹt'",
+      "link": "https://thanhnien.vn/campuchia-canh-bao-nguy-co-nhiem-benh-sot-vet-185260207204218327.htm",
+      "summary": "Khmer Times ngày 7.2 đưa tin Bộ Y tế Campuchia vừa ban hành cảnh báo nguy cơ mắc bệnh sốt vẹt (psittacosis) và khuyến cáo người dân tăng cường phòng tránh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:14:00+07:00",
+      "fetched": "2026-02-07T23:17:54.814925+07:00"
+    },
+    {
+      "id": "0cee75fc17bfaa667db2793f91b4cea1",
+      "title": "Bạn gái Leo DiCaprio tham gia khai mạc Olympic mùa đông",
+      "link": "https://vnexpress.net/ban-gai-leo-dicaprio-tham-gia-khai-mac-olympic-mua-dong-5015532.html",
+      "summary": "Siêu mẫu Vittoria Ceretti - 28 tuổi, người yêu tài tử Leonardo DiCaprio - dẫn đầu nghi thức rước cờ tại Olympic mùa đông 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:12:04+07:00",
+      "fetched": "2026-02-07T23:17:49.490962+07:00"
+    },
+    {
+      "id": "17341b5514eae4326fb91b1cc3110df5",
+      "title": "Bác sĩ nội trú ở TP HCM sẽ được miễn học phí",
+      "link": "https://vnexpress.net/bac-si-noi-tru-o-tp-hcm-se-duoc-mien-hoc-phi-5015535.html",
+      "summary": "Các bác sĩ đỗ vào chương trình đào tạo nội trú ở TP HCM dự kiến được miễn học phí cùng nhiều đãi ngộ khác, theo Giám đốc Sở Y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:11:07+07:00",
+      "fetched": "2026-02-07T23:17:49.491119+07:00"
+    },
+    {
+      "id": "bcadf3957dbb02e505512de7755c1844",
+      "title": "Đường sắt ở Italy bị phá hoại trong kỳ Olympic Mùa đông",
+      "link": "https://vnexpress.net/duong-sat-o-italy-bi-pha-hoai-trong-ky-olympic-mua-dong-5015534.html",
+      "summary": "Các đoạn đường sắt ở miền bắc Italy bị phá hoại, dẫn đến tình trạng gián đoạn gây ảnh hưởng hàng nghìn hành khách khi Olympic Mùa đông đang diễn ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:10:10+07:00",
+      "fetched": "2026-02-07T23:17:49.491272+07:00"
+    },
+    {
+      "id": "bcadf3957dbb02e505512de7755c1844",
+      "title": "Đường sắt ở Italy bị phá hoại trong kỳ Olympic Mùa đông",
+      "link": "https://vnexpress.net/duong-sat-o-italy-bi-pha-hoai-trong-ky-olympic-mua-dong-5015534.html",
+      "summary": "Các đoạn đường sắt ở miền bắc Italy bị phá hoại, dẫn đến tình trạng gián đoạn gây ảnh hưởng hàng nghìn hành khách khi Olympic Mùa đông đang diễn ra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-07T15:10:10+07:00",
+      "fetched": "2026-02-07T23:17:57.644605+07:00"
+    },
+    {
+      "id": "2029841c4c4fcbc204fd4bd7dbe9ab52",
+      "title": "Jack bất ngờ được đề cử 100 gương mặt đẹp trai nhất thế giới",
+      "link": "https://thanhnien.vn/jack-bat-ngo-duoc-de-cu-100-guong-mat-dep-trai-nhat-the-gioi-185260207220313624.htm",
+      "summary": "Trang TC Candler vừa công bố thêm những ứng cử viên mới cho danh sách đề cử 100 gương mặt đẹp trai nhất thế giới 2026 và Jack bất ngờ có tên. Thông tin này  nhanh chóng gây xôn xao mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:08:00+07:00",
+      "fetched": "2026-02-07T23:17:54.815071+07:00"
+    },
+    {
+      "id": "0a134167292202552174836ac6586fa2",
+      "title": "Indonesia tuột chức vô địch futsal châu Á sau trận chung kết nghẹt thở",
+      "link": "https://vnexpress.net/indonesia-tuot-chuc-vo-dich-futsal-chau-a-sau-tran-chung-ket-nghet-tho-5015525.html",
+      "summary": "Indonesia hòa đội tuyển hùng mạnh Iran 5-5, trước khi thua 4-5 ở loạt luân lưu chung kết futsal châu Á 2026, tối 7/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T14:50:36+07:00",
+      "fetched": "2026-02-07T23:17:49.491432+07:00"
+    },
+    {
+      "id": "0a134167292202552174836ac6586fa2",
+      "title": "Indonesia tuột chức vô địch futsal châu Á sau trận chung kết nghẹt thở",
+      "link": "https://vnexpress.net/indonesia-tuot-chuc-vo-dich-futsal-chau-a-sau-tran-chung-ket-nghet-tho-5015525.html",
+      "summary": "Indonesia hòa đội tuyển hùng mạnh Iran 5-5, trước khi thua 4-5 ở loạt luân lưu chung kết futsal châu Á 2026, tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-07T14:50:36+07:00",
+      "fetched": "2026-02-07T23:18:02.263935+07:00"
+    },
+    {
+      "id": "0bb798681df2dbe965fd85c1bf907c19",
+      "title": "Cầu thủ Đình Bắc cùng dàn sao dự thảm đỏ",
+      "link": "https://vnexpress.net/cau-thu-dinh-bac-cung-dan-sao-du-tham-do-5015527.html",
+      "summary": "Tiền đạo Đình Bắc diện vest lịch lãm, cùng Hoa hậu H'Hen Niê, ca sĩ Phương Mỹ Chi, TikToker Lê Tuấn Khang dự lễ trao giải WeChoice Awards 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T14:38:44+07:00",
+      "fetched": "2026-02-07T23:17:49.491604+07:00"
+    },
+    {
+      "id": "e26a44ea45e9f22bab23849f51b19529",
+      "title": "TP HCM siết quản lý kinh doanh mỹ phẩm online",
+      "link": "https://vnexpress.net/tp-hcm-siet-quan-ly-kinh-doanh-my-pham-online-5015524.html",
+      "summary": "UBND TP HCM yêu cầu các sở ngành tăng quản lý hoạt động sản xuất, kinh doanh và quảng cáo mỹ phẩm, tập trung trên kênh online, bán livstream.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T14:36:48+07:00",
+      "fetched": "2026-02-07T23:17:49.491755+07:00"
+    },
+    {
+      "id": "e26a44ea45e9f22bab23849f51b19529",
+      "title": "TP HCM siết quản lý kinh doanh mỹ phẩm online",
+      "link": "https://vnexpress.net/tp-hcm-siet-quan-ly-kinh-doanh-my-pham-online-5015524.html",
+      "summary": "UBND TP HCM yêu cầu các sở ngành tăng quản lý hoạt động sản xuất, kinh doanh và quảng cáo mỹ phẩm, tập trung trên kênh online, bán livstream.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-07T14:36:48+07:00",
+      "fetched": "2026-02-07T23:17:59.330104+07:00"
+    },
+    {
+      "id": "b1b2c0ccd4b8ee5881bdca1d11bcf9f8",
+      "title": "Runner hào hứng khi cầm trên tay bib VnExpress Marathon All-Star",
+      "link": "https://vnexpress.net/runner-hao-hung-khi-cam-tren-tay-bib-vnexpress-marathon-all-star-5015514.html",
+      "summary": "Nhiều runner bày tỏ sự tự hào, phấn khích khi cầm trên tay tấm bib giá trị của giải chạy áp chuẩn đầu vào duy nhất Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T14:31:00+07:00",
+      "fetched": "2026-02-07T23:17:49.491918+07:00"
+    },
+    {
+      "id": "b6e9a9c687abbc838fdcb6e86ec82983",
+      "title": "M.U lại thăng hoa, đánh bại Tottenham: HLV Michael Carrick khiến ông Thomas Frank 'lâm nguy'",
+      "link": "https://thanhnien.vn/mu-lai-thang-hoa-danh-bai-tottenham-hlv-michael-carrick-khien-ong-thomas-frank-lam-nguy-185260207212833197.htm",
+      "summary": "Tối 7.2, M.U tiếp tục nối dài chuỗi trận thăng hoa dưới thời HLV tạm quyền Michael Carrick khi đánh bại Tottenham 2-0 ở trận đấu thuộc vòng 25.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T14:31:00+07:00",
+      "fetched": "2026-02-07T23:17:54.815225+07:00"
+    },
+    {
+      "id": "6eeea375c9548722d67a099f95a825ef",
+      "title": "Hạ Tottenham, Man Utd thắng trận thứ tư liên tiếp",
+      "link": "https://vnexpress.net/ha-tottenham-man-utd-thang-tran-thu-tu-lien-tiep-5015533.html",
+      "summary": "Bryan Mbeumo và Bruno Fernandes cùng ghi bàn giúp Man Utd thắng đội khách Tottenham 2-0 tại vòng 25, để giữ vững vị trí thứ tư Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T14:26:52+07:00",
+      "fetched": "2026-02-07T23:17:49.492072+07:00"
+    },
+    {
+      "id": "6eeea375c9548722d67a099f95a825ef",
+      "title": "Hạ Tottenham, Man Utd thắng trận thứ tư liên tiếp",
+      "link": "https://vnexpress.net/ha-tottenham-man-utd-thang-tran-thu-tu-lien-tiep-5015533.html",
+      "summary": "Bryan Mbeumo và Bruno Fernandes cùng ghi bàn giúp Man Utd thắng đội khách Tottenham 2-0 tại vòng 25, để giữ vững vị trí thứ tư Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-07T14:26:52+07:00",
+      "fetched": "2026-02-07T23:18:02.264107+07:00"
+    },
+    {
+      "id": "62a339c395cde0123002d5068513d0b6",
+      "title": "Bảng xếp hạng vòng 13 V-League mới nhất: HAGL leo thẳng lên tốp 8, đẩy Nam Định xuống vị trí khó tin",
+      "link": "https://thanhnien.vn/bang-xep-hang-vong-13-v-league-moi-nhat-hagl-leo-thang-len-top-8-day-nam-dinh-xuong-vi-tri-kho-tin-185260207203103205.htm",
+      "summary": "Hôm nay (7.2) diễn ra loạt trận đầu tiên của vòng 13 V-League 2025-2026 với diễn biến bất ngờ, hấp dẫn tạo nên biến động đáng kể trên bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T14:26:00+07:00",
+      "fetched": "2026-02-07T23:17:54.815373+07:00"
+    },
+    {
+      "id": "667a99dec130600f32a855a806d095ca",
+      "title": "Cuộc gặp giữa trung tướng Phạm Tuân và người phụ nữ gốc Việt đầu tiên vào vũ trụ Amanda Nguyễn",
+      "link": "https://thanhnien.vn/cuoc-gap-giua-trung-tuong-pham-tuan-va-nguoi-phu-nu-goc-viet-dau-tien-vao-vu-tru-amanda-nguyen-185260207203306164.htm",
+      "summary": "Chiều 7.2, Ủy ban Nhà nước về người Việt Nam ở nước ngoài đã tổ chức chương trình giao lưu giữa trung tướng Phạm Tuân và chị Amanda Nguyễn, với các sĩ quan trẻ của Quân chủng Phòng không - Không quân và thanh niên Học viện Ngoại giao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T14:24:00+07:00",
+      "fetched": "2026-02-07T23:17:54.815540+07:00"
+    },
+    {
+      "id": "98f3f0bb3ace72ef77d5cd6bf0cfbf0a",
+      "title": "Hoàng Hên và tân binh ngoại cùng lập công, Hà Nội thắng đẹp Hải Phòng: Công phá ngoạn mục tốp 4",
+      "link": "https://thanhnien.vn/hoang-hen-va-tan-binh-ngoai-cung-lap-cong-ha-noi-thang-dep-hai-phong-cong-pha-ngoan-muc-top-4-185260207172049086.htm",
+      "summary": "CLB Hà Nội đánh bại Hải Phòng với tỷ số thuyết phục 2-0 (19 giờ 15 ngày 7.2) để chen chân vào tốp 4 V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T14:18:00+07:00",
+      "fetched": "2026-02-07T23:17:54.815698+07:00"
+    },
+    {
+      "id": "dae02c7a793aa88a486086f7b121799d",
+      "title": "5 ôtô tông liên hoàn trên cầu Nhật Tân",
+      "link": "https://vnexpress.net/5-oto-tong-lien-hoan-tren-cau-nhat-tan-5015528.html",
+      "summary": "5 ôtô va chạm liên hoàn trên cầu Nhật Tân tối 7/2 khiến 2 làn đường hướng từ trung tâm Hà Nội đi sân bay Nội Bài bị chiếm dụng, giao thông ùn tắc kéo dài khoảng 4 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T14:06:10+07:00",
+      "fetched": "2026-02-07T23:17:49.492223+07:00"
+    },
+    {
+      "id": "e618f8eb47b4aac3bdba8090088efb59",
+      "title": "Sân vận động lớn thứ hai thế giới ở nước nào?",
+      "link": "https://vnexpress.net/san-van-dong-lon-thu-hai-the-gioi-o-nuoc-nao-5015504.html",
+      "summary": "Sân này có 132.000 chỗ ngồi, gấp 3 lần sân Mỹ Đình. Bạn có biết nó ở nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T14:05:48+07:00",
+      "fetched": "2026-02-07T23:17:49.492387+07:00"
     },
     {
       "id": "76335f66b2ec456bddad3c5a4cad65c7",
@@ -731,6 +1181,16 @@ window.newsData_2026_02_07 = {
       "category": "Kinh doanh",
       "published": "2026-02-07T12:16:59+07:00",
       "fetched": "2026-02-07T21:17:56.508839+07:00"
+    },
+    {
+      "id": "c4481c972244884059ce61b12fc6d3f0",
+      "title": "Người dân tấp nập sắm Tết",
+      "link": "https://vnexpress.net/nguoi-dan-tap-nap-sam-tet-5015485.html",
+      "summary": "Tranh thủ cuối tuần sát Tết, người dân đổ về các trung tâm mua sắm, siêu thị khiến quầy thanh toán luôn ùn ứ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-07T12:16:59+07:00",
+      "fetched": "2026-02-07T23:17:59.330277+07:00"
     },
     {
       "id": "c32cabed6012069815f1b839996ad56d",
