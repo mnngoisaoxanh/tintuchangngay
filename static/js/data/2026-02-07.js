@@ -1,7 +1,157 @@
 window.newsData_2026_02_07 = {
   "date": "2026-02-07",
-  "lastUpdated": "2026-02-07T08:09:34.454458+07:00",
+  "lastUpdated": "2026-02-07T11:00:20.980163+07:00",
   "articles": [
+    {
+      "id": "ac2c7e68e6dcc60e5c04a7ff414d749d",
+      "title": "Tổng Bí thư Tô Lâm và nhiều lãnh đạo dự Hội nghị quán triệt nghị quyết Đại hội XIV của Đảng",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-va-nhieu-lanh-dao-du-hoi-nghi-quan-triet-nghi-quyet-dai-hoi-xiv-cua-dang-20260207083823992.htm",
+      "summary": "Sáng 7-2, Tổng Bí thư Tô Lâm cùng nhiều lãnh đạo Đảng, Nhà nước đã tham dự Hội nghị quán triệt nghị quyết Đại hội XIV của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.677971+07:00",
+      "fetched": "2026-02-07T11:00:13.678091+07:00"
+    },
+    {
+      "id": "1b58b1d272e5f6ad8b85acbb374530eb",
+      "title": "Ông Trump gỡ thuế 25% cho Ấn Độ sau cam kết ngưng mua dầu Nga",
+      "link": "https://tuoitre.vn/ong-trump-go-thue-25-cho-an-do-sau-cam-ket-ngung-mua-dau-nga-20260207073517351.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 7-2 đã ký sắc lệnh hành pháp dỡ bỏ mức thuế bổ sung 25% từng áp lên hàng hóa Ấn Độ, liên quan đến việc New Delhi mua dầu của Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.677838+07:00",
+      "fetched": "2026-02-07T11:00:13.677959+07:00"
+    },
+    {
+      "id": "9d1c37f1470a1b7a0dcdaf4aeccdc72c",
+      "title": "Dùng kẹp tóc kẹp lông mày giúp giảm đau nửa đầu?",
+      "link": "https://tuoitre.vn/dung-kep-toc-kep-long-may-giup-giam-dau-nua-dau-20260206112636283.htm",
+      "summary": "Một bài đăng lan truyền cho rằng kẹp một chiếc kẹp tóc lên lông mày có thể điều trị hoặc làm giảm chứng đau nửa đầu. Nhận định này là sai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.677706+07:00",
+      "fetched": "2026-02-07T11:00:13.677827+07:00"
+    },
+    {
+      "id": "61de0d7ed45021376a783f3994c49a94",
+      "title": "Giải mã lý do lãi suất vay mua nhà các ngân hàng quốc doanh đột ngột tăng cao",
+      "link": "https://tuoitre.vn/giai-ma-ly-lo-lai-suat-vay-mua-nha-cac-ngan-hang-quoc-doanh-dot-ngot-tang-cao-20260207080141625.htm",
+      "summary": "Một trong những câu hỏi rất được thị trường quan tâm hiện nay là vì sao lãi suất vay mua nhà niêm yết nhóm ngân hàng quốc doanh lại đột ngột tăng cao. Thậm chí cao hơn đáng kể so với ngân hàng tư nhân, điều hoàn toàn trái với các thông lệ trước đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.677556+07:00",
+      "fetched": "2026-02-07T11:00:13.677693+07:00"
+    },
+    {
+      "id": "96e892ba53f2fb398ed01b886302a36f",
+      "title": "Sợ AI thay thế, nhiều học sinh đổi hướng chọn ngành trước kỳ tuyển sinh",
+      "link": "https://tuoitre.vn/so-ai-thay-the-nhieu-hoc-sinh-doi-huong-chon-nganh-truoc-ky-tuyen-sinh-20260206222531004.htm",
+      "summary": "Nỗi lo AI 'chiếm chỗ' trong tương lai khiến nhiều học sinh lớp 12 thận trọng hơn khi chọn ngành, thậm chí thay đổi hẳn định hướng trước kỳ tuyển sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.677427+07:00",
+      "fetched": "2026-02-07T11:00:13.677544+07:00"
+    },
+    {
+      "id": "92beeb3e8dc7b3de170af78605de6108",
+      "title": "Tình đoàn kết Việt Nam - Lào - Campuchia",
+      "link": "https://tuoitre.vn/tinh-doan-ket-viet-nam-lao-campuchia-20260207082541374.htm",
+      "summary": "Chuyến thăm của Tổng Bí thư Tô Lâm đến Lào và Campuchia trong hai ngày 5 và 6-2, cùng cuộc gặp giữa ba người đứng đầu ba đảng ở Việt Nam, Lào và Campuchia đã gửi thông điệp về sự đoàn kết giữa ba nước trên bán đảo Đông Dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.677295+07:00",
+      "fetched": "2026-02-07T11:00:13.677415+07:00"
+    },
+    {
+      "id": "2dbd924f86218a0b17b4b307f7be3d0d",
+      "title": "'Cò' bệnh viện, sân bay thách thức quản trị công cộng",
+      "link": "https://tuoitre.vn/co-benh-vien-san-bay-thach-thuc-quan-tri-cong-cong-20260207081928714.htm",
+      "summary": "Tôi vừa đi công tác về sân bay Tân Sơn Nhất. Rời nhà ga T1, dự định đặt xe ôm công nghệ để về nhà. Một tấm biển cảnh báo đập vào mắt. Tiếng loa nhắc hành khách cảnh giác với cò mồi, nạn chèo kéo, nâng giá cước, lừa gạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.677166+07:00",
+      "fetched": "2026-02-07T11:00:13.677283+07:00"
+    },
+    {
+      "id": "28ca2ba6bba8ab82e9e45b3353de84e1",
+      "title": "Chỉ trẻ cách dùng mạng thông minh, trách nhiệm",
+      "link": "https://tuoitre.vn/chi-tre-cach-dung-mang-thong-minh-trach-nhiem-20260206221351256.htm",
+      "summary": "Diễn đàn vì môi trường an toàn và thân thiện cho trẻ em trên mạng vừa đươc tổ chức tại Trung tâm Khởi nghiệp sáng tạo TP.HCM (SIHUB).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.677037+07:00",
+      "fetched": "2026-02-07T11:00:13.677154+07:00"
+    },
+    {
+      "id": "6dad488e3a313915fd9a3354d49ed079",
+      "title": "Nhiều doanh nghiệp được lấy hàng khỏi cảng, kịp bán Tết",
+      "link": "https://tuoitre.vn/nhieu-doanh-nghiep-duoc-lay-hang-khoi-cang-kip-ban-tet-20260206230206706.htm",
+      "summary": "Trao đổi với Tuổi Trẻ ngày 6-2, bà Lý Kim Chi, Chủ tịch Hiệp hội Lương thực thực phẩm TP.HCM, cho biết các doanh nghiệp rất vui vì tiếng nói của mình, những tâm tư liên quan đến nghị định 46 đã được Chính phủ lắng nghe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.676906+07:00",
+      "fetched": "2026-02-07T11:00:13.677025+07:00"
+    },
+    {
+      "id": "423219686e2afbf098b2887dc2320c31",
+      "title": "Nhà Trắng gỡ video ghép mặt vợ chồng Obama với khỉ, ông Trump nói 'không xem hết video'",
+      "link": "https://tuoitre.vn/nha-trang-go-video-ghep-mat-vo-chong-obama-voi-khi-ong-trump-noi-khong-xem-het-video-20260207085722719.htm",
+      "summary": "Sau làn sóng chỉ trích từ cả hai đảng, Nhà Trắng xác nhận đoạn video ghép mặt vợ chồng Obama với khỉ đã được gỡ bỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.676772+07:00",
+      "fetched": "2026-02-07T11:00:13.676894+07:00"
+    },
+    {
+      "id": "11e6f59e86936da003ef6456c8a5243a",
+      "title": "Đang gội đầu được mời ‘làm đẹp cấp tốc’ đón Tết, cô gái hỏng cả khuôn mặt",
+      "link": "https://tuoitre.vn/dang-goi-dau-duoc-moi-lam-dep-cap-toc-don-tet-co-gai-hong-ca-khuon-mat-20260206170053235.htm",
+      "summary": "Chỉ trong một buổi tối đi gội đầu thư giãn, một cô gái trẻ không ngờ lại phải nhập viện vì làn da bỏng rát, đỏ rực, bong tróc như bị cháy nắng nặng. Lời mời “làm đẹp đón Tết” tưởng như vô hại đã biến thành cơn ác mộng chỉ sau vài giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.676615+07:00",
+      "fetched": "2026-02-07T11:00:13.676758+07:00"
+    },
+    {
+      "id": "80745ad0ffa16e40a5facb5d3e9c4d63",
+      "title": "Trung tâm Tài chính quốc tế Đà Nẵng tuyển dụng nhân sự, điều kiện và hạn nộp hồ sơ ra sao?",
+      "link": "https://tuoitre.vn/trung-tam-tai-chinh-quoc-te-da-nang-tuyen-dung-nhan-su-dieu-kien-va-han-nop-ho-so-ra-sao-2026020708514067.htm",
+      "summary": "Trung tâm Tài chính quốc tế Việt Nam tại Đà Nẵng đang nhận hồ sơ tuyển dụng 4-8 chuyên viên làm việc theo hợp đồng lao động xác định thời hạn, mức đãi ngộ rất cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.676471+07:00",
+      "fetched": "2026-02-07T11:00:13.676595+07:00"
+    },
+    {
+      "id": "61b662bbeb6c397aab6087046e6ec7b7",
+      "title": "Ông Trịnh Văn Quyết: 'Không chấp nhận trì trệ, né tránh trách nhiệm, nói nhiều làm ít'",
+      "link": "https://tuoitre.vn/ong-trinh-van-quyet-khong-chap-nhan-tri-tre-ne-tranh-trach-nhiem-noi-nhieu-lam-it-20260207092513115.htm",
+      "summary": "Ông Trịnh Văn Quyết nhấn mạnh triển khai nghị quyết Đại hội XIV đòi hỏi một tinh thần mới là nhanh hơn, quyết liệt hơn, sáng tạo hơn, hiệu quả hơn. Không chấp nhận trì trệ, né tránh trách nhiệm, nói nhiều làm ít.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.676335+07:00",
+      "fetched": "2026-02-07T11:00:13.676459+07:00"
+    },
+    {
+      "id": "f4c11d477da484f7d204cedd3bb674af",
+      "title": "Meta sắp thu phí Facebook, Instagram, WhatsApp người dùng muốn xài AI",
+      "link": "https://tuoitre.vn/meta-sap-thu-phi-facebook-instagram-whatsapp-nguoi-dung-muon-xai-ai-20260206143648996.htm",
+      "summary": "Meta đang lên kế hoạch triển khai các gói dịch vụ trả phí cho Facebook, Instagram và WhatsApp, trong đó người dùng có thể tiếp cận thêm nhiều tính năng AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.676191+07:00",
+      "fetched": "2026-02-07T11:00:13.676322+07:00"
+    },
+    {
+      "id": "d4ccad2c9f7f6a4ec78aaf6a8443d6bd",
+      "title": "Hồng Đăng là phản diện trong Đồng hồ đếm ngược",
+      "link": "https://tuoitre.vn/hong-dang-la-phan-dien-trong-dong-ho-dem-nguoc-20260207091108659.htm",
+      "summary": "Trong những phút cuối của tập 4 phim truyền hình Đồng hồ đếm ngược, diễn viên Hồng Đăng đã xuất hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T11:00:13.676017+07:00",
+      "fetched": "2026-02-07T11:00:13.676176+07:00"
+    },
     {
       "id": "1a8b12b81f2ca284707f9ea6f4d947de",
       "title": "Thời tiết hôm nay 7-2: Không khí lạnh bao trùm, nhiệt độ giảm mạnh",
@@ -133,6 +283,106 @@ window.newsData_2026_02_07 = {
       "fetched": "2026-02-07T08:09:29.685919+07:00"
     },
     {
+      "id": "c843f860ee8184ae405f16fcb729a348",
+      "title": "'Văn hóa rượu bia' ngày tết: Vui thôi đừng vui quá",
+      "link": "https://thanhnien.vn/van-hoa-ruou-bia-ngay-tet-vui-thoi-dung-vui-qua-18526020710305826.htm",
+      "summary": "Tết đến, xuân về, trong mỗi gia đình Việt, chén rượu thường xuất hiện như một phần quen thuộc của không khí sum vầy. Đó là ly rượu mừng năm mới, là lời chúc sức khỏe, bình an, là chất men để câu chuyện đầu xuân thêm rôm rả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T04:00:00+07:00",
+      "fetched": "2026-02-07T11:00:12.817607+07:00"
+    },
+    {
+      "id": "cce6792d81beaa7288a9871bf12765b3",
+      "title": "Từ TP.HCM về miền Tây ăn tết: 5 lộ trình tránh kẹt xe nên biết",
+      "link": "https://thanhnien.vn/tu-tphcm-ve-mien-tay-an-tet-5-lo-trinh-tranh-ket-xe-nen-biet-185260207095633056.htm",
+      "summary": "CSGT TP.HCM vừa có hướng dẫn lộ trình tránh kẹt xe đường về miền Tây dịp Tết Bính Ngọ, đoạn từ vòng xoay An Lạc đến cầu Bình Điền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T04:00:00+07:00",
+      "fetched": "2026-02-07T11:00:12.817795+07:00"
+    },
+    {
+      "id": "087773fbca1afe21f5dacfee4c3b538b",
+      "title": "Nhận biết sớm ung thư từ vùng da đổi màu ở bàn tay, bàn chân",
+      "link": "https://thanhnien.vn/nhan-biet-som-ung-thu-tu-vung-da-doi-mau-o-ban-tay-ban-chan-185260207102559661.htm",
+      "summary": "Tại Việt Nam, với người bệnh, ung thư tế bào hắc tố hay gặp ở lòng bàn tay, bàn chân, kẽ ngón, dưới móng tay, móng chân. Những vị trí này thường ít được chú ý khiến người bệnh bị chẩn đoán muộn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:54:00+07:00",
+      "fetched": "2026-02-07T11:00:12.817955+07:00"
+    },
+    {
+      "id": "f1cfaaae37dce5f7d21937393cce3a00",
+      "title": "Ông Lê Minh Hưng: 10 nội dung tập trung nghiên cứu sửa Điều lệ Đảng",
+      "link": "https://thanhnien.vn/ong-le-minh-hung-10-noi-dung-tap-trung-nghien-cuu-sua-dieu-le-dang-185260207103355604.htm",
+      "summary": "Trưởng ban Tổ chức Trung ương Lê Minh Hưng cho biết, Đại hội XIV thống nhất sửa đổi Điều lệ Đảng tại Đại hội XV, việc nghiên cứu, đề xuất sửa đổi tập trung vào 10 nội dung chương, điều cụ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:50:00+07:00",
+      "fetched": "2026-02-07T11:00:12.818115+07:00"
+    },
+    {
+      "id": "abee50cad4a321c8bbfa1900c892e859",
+      "title": "NSƯT Vũ Luân lần đầu diễn kịch",
+      "link": "https://thanhnien.vn/nsut-vu-luan-lan-dau-dien-kich-185260207102248032.htm",
+      "summary": "Sau gần 7 năm tạm ngưng hoạt động vì sửa chữa, Nhà hát Kịch TP.HCM chính thức sáng đèn trở lại vào dịp Tết Bính Ngọ 2026 với 2 vở diễn mang đậm sắc xuân. Đáng chú ý, 'ngôi sao cải lương' Vũ Luân sẽ lần đầu tiên thử sức với vai trò diễn viên kịch nói.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:45:00+07:00",
+      "fetched": "2026-02-07T11:00:12.818273+07:00"
+    },
+    {
+      "id": "7b25b4e8dc83e8d4f2a28dceda95b5c3",
+      "title": "Ông Lê Minh Hưng: Đổi mới mạnh mẽ công tác cán bộ",
+      "link": "https://thanhnien.vn/ong-le-minh-hung-doi-moi-manh-me-cong-tac-can-bo-185260207102227863.htm",
+      "summary": "Ông Lê Minh Hưng nhấn mạnh, tiếp tục đổi mới mạnh mẽ công tác cán bộ bảo đảm khách quan, dân chủ, thực chất, hiệu quả, nhất là công tác thẩm định, đánh giá cán bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:42:00+07:00",
+      "fetched": "2026-02-07T11:00:12.818425+07:00"
+    },
+    {
+      "id": "26355245d1f38889bcc9a293f5dffe12",
+      "title": "TP HCM có thêm 28 khu đất được thí điểm làm dự án nhà ở",
+      "link": "https://vnexpress.net/tp-hcm-co-them-28-khu-dat-duoc-thi-diem-lam-du-an-nha-o-5014670.html",
+      "summary": "TP HCM vừa thông qua danh mục 28 trong tổng số 30 khu đất dự kiến triển khai các dự án thí điểm, với tổng diện tích hơn 750.600 m2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:39:52+07:00",
+      "fetched": "2026-02-07T11:00:09.916832+07:00"
+    },
+    {
+      "id": "a71fbd71eb9647e483b2370582989ae5",
+      "title": "Cử tri phường Bình Thuận giới thiệu đại tá Huỳnh Ngọc Liêm ứng cử đại biểu Quốc hội",
+      "link": "https://thanhnien.vn/cu-tri-phuong-binh-thuan-gioi-thieu-dai-ta-huynh-ngoc-liem-ung-cu-dai-bieu-quoc-hoi-185260207100456622.htm",
+      "summary": "Tối 6.2, tại khu phố 6, phường Bình Thuận, tỉnh Lâm Đồng tổ chức hội nghị lấy ý kiến tín nhiệm của cử tri nơi cư trú đối với đại tá Huỳnh Ngọc Liêm, Phó giám đốc Công an tỉnh Lâm Đồng, ứng cử đại biểu Quốc hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:30:00+07:00",
+      "fetched": "2026-02-07T11:00:12.818575+07:00"
+    },
+    {
+      "id": "b77437c49299c0f0aae16c2937df437e",
+      "title": "Chủ trọ ở TP.HCM nấu cơm tất niên đãi người thuê, lì xì mỗi phòng 500.000 đồng",
+      "link": "https://thanhnien.vn/chu-tro-o-tphcm-nau-com-tat-nien-dai-nguoi-thue-li-xi-moi-phong-500000-dong-185260206154624044.htm",
+      "summary": "Bữa cơm tất niên tại nhà trọ do chị Nương quản lý ấm cúng, mọi người cảm nhận không khí gia đình trong những ngày cuối năm. Người thuê còn nhận được 500.000 đồng tiền lì xì từ chủ trọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:30:00+07:00",
+      "fetched": "2026-02-07T11:00:12.818746+07:00"
+    },
+    {
+      "id": "1f3d589bc3e8bd0e71af27a62763d963",
+      "title": "Ôtô xoay ngược đầu vì cuốn tấm bạt trên cao tốc",
+      "link": "https://vnexpress.net/oto-xoay-nguoc-dau-vi-cuon-tam-bat-tren-cao-toc-5015307.html",
+      "summary": "Chiếc bán tải lao thẳng vào tấm bạt nằm trên đường cao tốc, cuốn vào gầm nên bị khóa cứng cầu, hôm 6/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:25:02+07:00",
+      "fetched": "2026-02-07T11:00:09.917015+07:00"
+    },
+    {
       "id": "9df78c18fb54bf40a0090dff1432e2ae",
       "title": "Ngày hội 'Xuân đoàn kết - Tết nghĩa tình' ở Côn Đảo",
       "link": "https://tuoitre.vn/ngay-hoi-xuan-doan-ket-tet-nghia-tinh-o-con-dao-2026020622584467.htm",
@@ -141,6 +391,296 @@ window.newsData_2026_02_07 = {
       "category": "Tổng hợp",
       "published": "2026-02-07T03:23:17.891488+07:00",
       "fetched": "2026-02-07T03:23:17.891706+07:00"
+    },
+    {
+      "id": "949bc046d7d0fc7341b71b0291b2ebd5",
+      "title": "Thủ tướng: Sớm để nhân dân thụ hưởng thành quả Đại hội XIV",
+      "link": "https://thanhnien.vn/thu-tuong-som-de-nhan-dan-thu-huong-thanh-qua-dai-hoi-xiv-185260207091532305.htm",
+      "summary": "Thủ tướng Phạm Minh Chính nhấn mạnh phải giúp nhân dân nhanh chóng thụ hưởng được thành quả từ thành công của Đại hội XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:18:00+07:00",
+      "fetched": "2026-02-07T11:00:12.818901+07:00"
+    },
+    {
+      "id": "67a2e753136a9d111f6f0a243aaa06b3",
+      "title": "Ông Trump hứng chỉ trích vì video chế xúc phạm vợ chồng Obama",
+      "link": "https://vnexpress.net/ong-trump-hung-chi-trich-vi-video-che-xuc-pham-vo-chong-obama-5015328.html",
+      "summary": "Tài khoản mạng xã hội của Tổng thống Trump đăng video ghép mặt vợ chồng Obama vào loài khỉ, khiến ông bị chỉ trích phân biệt chủng tộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:08:36+07:00",
+      "fetched": "2026-02-07T11:00:09.917187+07:00"
+    },
+    {
+      "id": "67a2e753136a9d111f6f0a243aaa06b3",
+      "title": "Ông Trump hứng chỉ trích vì video chế xúc phạm vợ chồng Obama",
+      "link": "https://vnexpress.net/ong-trump-hung-chi-trich-vi-video-che-xuc-pham-vo-chong-obama-5015328.html",
+      "summary": "Tài khoản mạng xã hội của Tổng thống Trump đăng video ghép mặt vợ chồng Obama vào loài khỉ, khiến ông bị chỉ trích phân biệt chủng tộc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-07T03:08:36+07:00",
+      "fetched": "2026-02-07T11:00:15.424087+07:00"
+    },
+    {
+      "id": "da9c94c4bd24d21a229952f0cd9975d7",
+      "title": "Vì sao dây sạc Apple dễ đổi màu hơn nhiều loại cáp khác?",
+      "link": "https://thanhnien.vn/vi-sao-day-sac-apple-de-doi-mau-hon-nhieu-loai-cap-khac-18526020709583987.htm",
+      "summary": "Nhiều người dùng Apple lâu năm có thể đã nhận thấy hiện tượng cáp Lightning và các cáp sạc chính hãng khác của hãng thường bị ố vàng theo thời gian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:06:00+07:00",
+      "fetched": "2026-02-07T11:00:12.819055+07:00"
+    },
+    {
+      "id": "e8fe45cb65b8dd9341bc775901c9ee1f",
+      "title": "Trung Quốc phát triển tên lửa siêu nhỏ, cực nhanh cho pháo phòng không",
+      "link": "https://thanhnien.vn/trung-quoc-phat-trien-ten-lua-sieu-nho-cuc-nhanh-cho-phao-phong-khong-185260207093404954.htm",
+      "summary": "Các nhà khoa học và kỹ sư Trung Quốc đang phát triển một loại tên lửa lượn bội siêu thanh siêu nhỏ và thông minh, có thể được phóng từ pháo phòng không 80mm, theo tờ South China Morning Post tối 6.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:04:00+07:00",
+      "fetched": "2026-02-07T11:00:12.819211+07:00"
+    },
+    {
+      "id": "e5042970028b2050e4385b8a9b7f55f8",
+      "title": "Hàn Quốc tăng học bổng chính phủ cho du học sinh Việt Nam",
+      "link": "https://vnexpress.net/han-quoc-tang-hoc-bong-chinh-phu-cho-du-hoc-sinh-viet-nam-5014494.html",
+      "summary": "Hàn Quốc dự kiến 2.000 suất học bổng chính phủ, trong đó ít nhất 55 suất cho du học sinh Việt Nam, tăng so với ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:01:00+07:00",
+      "fetched": "2026-02-07T11:00:09.917358+07:00"
+    },
+    {
+      "id": "bcee7526ba76b6261605a5782cf1322b",
+      "title": "Con cua 8 cẳng 2 càng, bò qua bò lại hỏi bò mấy chân?",
+      "link": "https://vnexpress.net/do-vui-thu-gian-do-meo-con-cua-8-cang-2-cang-bo-qua-bo-lai-hoi-bo-may-chan-5015239.html",
+      "summary": "Câu đố này không đánh đố kiến thức mà thử thách khả năng hiểu nghĩa từ ngữ trong tiếng Việt, bạn có tự tin mình không bị mắc bẫy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:00:00+07:00",
+      "fetched": "2026-02-07T11:00:09.917526+07:00"
+    },
+    {
+      "id": "667c5e465070cec343fb0819827834df",
+      "title": "Vì sao viêm mũi dị ứng tái phát khi trời lạnh?",
+      "link": "https://vnexpress.net/vi-sao-viem-mui-di-ung-tai-phat-khi-troi-lanh-5015321.html",
+      "summary": "Tôi bị viêm mũi dị ứng, hay tái phát, nhất là khi trời lạnh. Vì sao như vậy, làm gì để phòng ngừa? (Lâm Nguyễn, 45 tuổi, Cần Thơ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:00:00+07:00",
+      "fetched": "2026-02-07T11:00:09.917727+07:00"
+    },
+    {
+      "id": "ebb08d34d7c575551a37a77d6d44dde7",
+      "title": "Người lớn có mắc bệnh tim bẩm sinh không?",
+      "link": "https://vnexpress.net/nguoi-lon-co-mac-benh-tim-bam-sinh-khong-5015320.html",
+      "summary": "Bố tôi từng bị thông liên nhĩ, đã phẫu thuật lúc nhỏ. Tôi 40 tuổi, có khả năng di truyền bệnh tim bẩm sinh từ bố không? (Trà My, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:00:00+07:00",
+      "fetched": "2026-02-07T11:00:09.917898+07:00"
+    },
+    {
+      "id": "99332400032923235d117d0c095df6df",
+      "title": "Bé 5 tuổi mắc u bã đậu bội nhiễm",
+      "link": "https://vnexpress.net/be-5-tuoi-mac-u-ba-dau-boi-nhiem-5015292.html",
+      "summary": "Sau 5 ngày bôi thuốc điều trị mụn viêm ở ngực, bé Liên, 5 tuổi, sốt nhẹ, bác sĩ chẩn đoán kén bã đậu bội nhiễm vi khuẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:00:00+07:00",
+      "fetched": "2026-02-07T11:00:09.918065+07:00"
+    },
+    {
+      "id": "bb594fa928f43ef896d37102e757f2a3",
+      "title": "IS nhận trách nhiệm vụ đánh bom khiến 31 người chết ở Pakistan",
+      "link": "https://thanhnien.vn/is-nhan-trach-nhiem-vu-danh-bom-khien-31-nguoi-chet-o-pakistan-185260207095100804.htm",
+      "summary": "Một vụ đánh bom liều chết tại một nhà thờ Hồi giáo Shiite ở thủ đô Islamabad (Pakistan) ngày 6.2 đã khiến ít nhất 31 người thiệt mạng và 169 người khác bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:00:00+07:00",
+      "fetched": "2026-02-07T11:00:12.819364+07:00"
+    },
+    {
+      "id": "f4f4f346679b1aef8dcc6c88804750d1",
+      "title": "Sàn giao dịch tiền mã hóa Hàn Quốc tặng nhầm 2.000 Bitcoin cho mỗi người",
+      "link": "https://thanhnien.vn/san-giao-dich-tien-ma-hoa-han-quoc-tang-nham-2000-bitcoin-cho-moi-nguoi-185260207091821347.htm",
+      "summary": "Giá Bitcoin giảm mạnh xuống còn 55.000 USD trên sàn giao dịch tiền mã hóa Bithumb sau khi sàn này vô tình tặng miễn phí 2.000 BTC cho mỗi người dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:00:00+07:00",
+      "fetched": "2026-02-07T11:00:12.819513+07:00"
+    },
+    {
+      "id": "373750d083eb51e781eefdb4174ec325",
+      "title": "Làm sao để chuẩn bị Tết này thảnh thơi mà vẫn đủ đầy, tiết kiệm?",
+      "link": "https://thanhnien.vn/lam-sao-de-chuan-bi-tet-nay-thanh-thoi-ma-van-du-day-tiet-kiem-185260207074439363.htm",
+      "summary": "Nhịp sống hiện đại, nhiều gia đình chọn cách đón Tết vẫn đủ đầy hương vị truyền thống nhưng tiết kiệm và có thời gian tận hưởng niềm vui. Xu hướng sắm Tết thông minh vì thế ngày càng được ưa chuộng, để Tết không còn là gánh nặng mà trở thành khoảng thời gian thảnh thơi nhất trong năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:00:00+07:00",
+      "fetched": "2026-02-07T11:00:12.819686+07:00"
+    },
+    {
+      "id": "fe84344be404fbf80b42d3a3e983d48a",
+      "title": "VLCM Origin: Mộng Chí Tôn chính thức Alpha Test ngày 10.2.2026",
+      "link": "https://thanhnien.vn/vlcm-origin-mong-chi-ton-chinh-thuc-alpha-test-ngay-1022026-185260206170010347.htm",
+      "summary": "Nhà phát hành Tepaylink chính thức công bố Võ Lâm Chân Mệnh Origin (VLCM Origin) - Mộng Chí Tôn sẽ mở Alpha Test vào lúc 19 giờ ngày 10.2.2026. Tựa game được Tepaylink phát hành - mở rộng từ nền tảng webgame PC quen thuộc sang hệ sinh thái đa thiết bị gồm di động, PC và máy tính bảng",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T03:00:00+07:00",
+      "fetched": "2026-02-07T11:00:12.819849+07:00"
+    },
+    {
+      "id": "1103c0e90aaf776295eef8f004892f53",
+      "title": "Cháy nhà 5 tầng ở trung tâm TP HCM",
+      "link": "https://vnexpress.net/chay-nha-5-tang-o-trung-tam-tp-hcm-5015345.html",
+      "summary": "Khói lửa bùng lên từ tòa nhà 5 tầng trên đường Hồ Hảo Hớn, cách chợ Bến Thành khoảng 1,5 km, khiến người dân khu vực hoảng loạn, sáng 7/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T02:38:40+07:00",
+      "fetched": "2026-02-07T11:00:09.918230+07:00"
+    },
+    {
+      "id": "bad776826161ad1c74fa33efd65a7371",
+      "title": "Lầu Năm Góc tuyên bố cắt quan hệ với Đại học Harvard",
+      "link": "https://vnexpress.net/lau-nam-goc-tuyen-bo-cat-quan-he-voi-dai-hoc-harvard-5015310.html",
+      "summary": "Bộ Quốc phòng Mỹ nói sẽ cắt quan hệ với Đại học Harvard, chấm dứt mọi chương trình huấn luyện quân sự, học bổng nghiên cứu, cấp chứng chỉ với trường này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T02:37:06+07:00",
+      "fetched": "2026-02-07T11:00:09.918396+07:00"
+    },
+    {
+      "id": "bad776826161ad1c74fa33efd65a7371",
+      "title": "Lầu Năm Góc tuyên bố cắt quan hệ với Đại học Harvard",
+      "link": "https://vnexpress.net/lau-nam-goc-tuyen-bo-cat-quan-he-voi-dai-hoc-harvard-5015310.html",
+      "summary": "Bộ Quốc phòng Mỹ nói sẽ cắt quan hệ với Đại học Harvard, chấm dứt mọi chương trình huấn luyện quân sự, học bổng nghiên cứu, cấp chứng chỉ với trường này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-07T02:37:06+07:00",
+      "fetched": "2026-02-07T11:00:15.424263+07:00"
+    },
+    {
+      "id": "a93b1bcf8d98289a6d6756bdfb3a58df",
+      "title": "Nhân viên tuần đường bị tàu hỏa tông tử vong",
+      "link": "https://vnexpress.net/nhan-vien-tuan-duong-bi-tau-hoa-tong-tu-vong-5015338.html",
+      "summary": "Nam nhân viên tuần đường tử vong sau khi bị tàu khách SE2 tông trúng trên tuyến đường sắt Bắc - Nam, đoạn qua xã Tân Lập, rạng sáng 7/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T02:34:34+07:00",
+      "fetched": "2026-02-07T11:00:09.918550+07:00"
+    },
+    {
+      "id": "75fbfee4de0b929a7aa0fe4246ed9c7f",
+      "title": "Đường dây mua bán vũ khí quân dụng qua mạng xã hội ở TP HCM",
+      "link": "https://vnexpress.net/duong-day-mua-ban-vu-khi-quan-dung-qua-mang-xa-hoi-o-tp-hcm-5015336.html",
+      "summary": "Nguyễn Thanh Hiếu, 38 tuổi, tạo lập hàng loạt tài khoản mạng xã hội với thông tin giả mạo và bán số lượng lớn vũ khí, công vụ hỗ trợ ra thị trường,",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T02:32:29+07:00",
+      "fetched": "2026-02-07T11:00:09.918733+07:00"
+    },
+    {
+      "id": "07235a6ca8b3bc30d1288593119b7738",
+      "title": "Thái tử phi Na Uy xin lỗi về mối quan hệ với tỷ phú ấu dâm Epstein",
+      "link": "https://vnexpress.net/thai-tu-phi-na-uy-xin-loi-ve-moi-quan-he-voi-ty-phu-au-dam-epstein-5015333.html",
+      "summary": "Thái tử phi Na Uy Mette-Marit \"vô cùng hối hận\" vì từng thân thiết với Epstein, sau khi mối quan hệ giữa hai người được hé lộ trong hồ sơ của Bộ Tư pháp Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T02:30:56+07:00",
+      "fetched": "2026-02-07T11:00:09.918893+07:00"
+    },
+    {
+      "id": "07235a6ca8b3bc30d1288593119b7738",
+      "title": "Thái tử phi Na Uy xin lỗi về mối quan hệ với tỷ phú ấu dâm Epstein",
+      "link": "https://vnexpress.net/thai-tu-phi-na-uy-xin-loi-ve-moi-quan-he-voi-ty-phu-au-dam-epstein-5015333.html",
+      "summary": "Thái tử phi Na Uy Mette-Marit \"vô cùng hối hận\" vì từng thân thiết với Epstein, sau khi mối quan hệ giữa hai người được hé lộ trong hồ sơ của Bộ Tư pháp Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-07T02:30:56+07:00",
+      "fetched": "2026-02-07T11:00:15.424429+07:00"
+    },
+    {
+      "id": "fcd37e5842a818064176b5a7fcc6e87b",
+      "title": "Hễ có chuyện không vừa ý, vợ lại bảo: 'Tôi bỏ ông lúc nào cũng được'",
+      "link": "https://vnexpress.net/he-co-chuyen-khong-vua-y-vo-lai-bao-toi-bo-ong-luc-nao-cung-duoc-5015303.html",
+      "summary": "Tôi nhiều lần góp ý không nên tùy tiện nói đến chuyện ly hôn, chia tay, vợ lại xem đó như một cách để áp đặt và lấn lướt tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T02:24:33+07:00",
+      "fetched": "2026-02-07T11:00:09.919046+07:00"
+    },
+    {
+      "id": "412b8792aa39486e5a98c99eeb47a9c7",
+      "title": "Vũ đạo trong MV 'Vạn sự như ý' của Trúc Nhân gây sốt",
+      "link": "https://vnexpress.net/vu-dao-trong-mv-van-su-nhu-y-cua-truc-nhan-gay-sot-5014603.html",
+      "summary": "Điệu nhảy \"Tằng tằng tắng tăng\" trong MV triệu view của Trúc Nhân được người lớn, trẻ em cover dịp Tết vì gần gũi, vui nhộn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T02:24:05+07:00",
+      "fetched": "2026-02-07T11:00:09.919208+07:00"
+    },
+    {
+      "id": "62e85e6141f61fe60c06ee441ac06f0e",
+      "title": "Việt Nam phản ứng với ngôn từ xúc phạm phụ nữ của lãnh đạo huyện ở Hàn Quốc",
+      "link": "https://vnexpress.net/viet-nam-phan-ung-voi-ngon-tu-xuc-pham-phu-nu-cua-lanh-dao-huyen-o-han-quoc-5015327.html",
+      "summary": "Đại sứ quán Việt Nam tại Hàn Quốc gửi công văn về phát ngôn \"nhập khẩu phụ nữ Việt\" của lãnh đạo huyện Jindo, coi đây là \"ngôn từ xúc phạm, thiếu chuẩn mực\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-07T02:16:35+07:00",
+      "fetched": "2026-02-07T11:00:15.424592+07:00"
+    },
+    {
+      "id": "26166f96d0e1549ea8482f73a4a2b947",
+      "title": "Chứng khoán Mỹ lần đầu vượt 50.000 điểm",
+      "link": "https://vnexpress.net/chung-khoan-my-lan-dau-vuot-50-000-diem-5015311.html",
+      "summary": "Chỉ số DJIA đạt 50.115 điểm phiên cuối tuần, lập kỷ lục trong lịch sử 129 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-07T02:04:23+07:00",
+      "fetched": "2026-02-07T11:00:16.326636+07:00"
+    },
+    {
+      "id": "1ca24cf331b3390b1dff02f147d8a188",
+      "title": "Elon Musk bác tin đồn SpaceX sản xuất điện thoại Starlink",
+      "link": "https://vnexpress.net/elon-musk-bac-tin-don-spacex-san-xuat-dien-thoai-starlink-5015269.html",
+      "summary": "SpaceX được cho là đang lên kế hoạch sản xuất điện thoại Starlink, nhưng Elon Musk sau đó đã phủ nhận trên X.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-07T02:00:00+07:00",
+      "fetched": "2026-02-07T11:00:19.296224+07:00"
+    },
+    {
+      "id": "71611e05ae2c73622b92be2e54e2121f",
+      "title": "Mẹ Mbappe kiếm được nhiều tiền hơn 7 cầu thủ Real",
+      "link": "https://vnexpress.net/me-mbappe-kiem-duoc-nhieu-tien-hon-7-cau-thu-real-5015282.html",
+      "summary": "Bà Fayza Lamari nhận hàng triệu USD tiền lương từ con trai với tư cách người đại diện.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-07T01:52:04+07:00",
+      "fetched": "2026-02-07T11:00:20.974175+07:00"
+    },
+    {
+      "id": "280cf084d803900ad299c48fc077619c",
+      "title": "Vì sao Fenerbahce bạo chi khi đang nợ 590 triệu USD?",
+      "link": "https://vnexpress.net/vi-sao-fenerbahce-bao-chi-khi-dang-no-590-trieu-usd-5014487.html",
+      "summary": "Đang gánh khoản nợ lớn, nhưng nhờ bất động sản, tài trợ và các gói hỗ trợ từ chính phủ Thổ Nhĩ Kỳ, Fenerbahce liên tục vung tiền vào các bản hợp đồng kỷ lục nửa năm qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-07T01:47:16+07:00",
+      "fetched": "2026-02-07T11:00:20.973482+07:00"
+    },
+    {
+      "id": "0c6d4c95564606729523761fa1ea6049",
+      "title": "Giải marathon ở độ cao nhất thế giới",
+      "link": "https://vnexpress.net/giai-marathon-o-do-cao-nhat-the-gioi-5015250.html",
+      "summary": "Cuộc đua lập kỷ lục thế giới xuất phát từ đỉnh Ojos del Salado - núi lửa cao nhất hành tinh, ở độ cao gần 7.000 m so với mực nước biển, nơi lượng oxy chỉ còn chưa đến một nửa so với bình thường.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-07T01:35:46+07:00",
+      "fetched": "2026-02-07T11:00:20.974335+07:00"
     },
     {
       "id": "0dd41afda8159da17619407dbcdf15f5",
@@ -291,6 +831,56 @@ window.newsData_2026_02_07 = {
       "category": "Tổng hợp",
       "published": "2026-02-07T01:35:03.848555+07:00",
       "fetched": "2026-02-07T01:35:03.848801+07:00"
+    },
+    {
+      "id": "f3c2db9e53bfc803ffef39d3f36e0013",
+      "title": "Guardiola: 'Anfield là nơi để Man City chứng tỏ đẳng cấp'",
+      "link": "https://vnexpress.net/guardiola-anfield-la-noi-de-man-city-chung-to-dang-cap-5015280.html",
+      "summary": "Theo HLV Pep Guardiola, làm khách của Liverpool ở vòng 25 Ngoại hạng Anh là trận đấu thích hợp để Man City khẳng định bản lĩnh và đẳng cấp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-07T01:32:23+07:00",
+      "fetched": "2026-02-07T11:00:20.974493+07:00"
+    },
+    {
+      "id": "6832fb3c1b9cd0cb19647b553dba94ee",
+      "title": "Al Nassr thắng trận thứ hai liên tiếp vắng Ronaldo",
+      "link": "https://vnexpress.net/al-nassr-thang-tran-thu-hai-lien-tiep-vang-ronaldo-5015281.html",
+      "summary": "Al Nassr rút ngắn khoảng cách với đầu bảng Al Hilal bằng trận thắng Al Ittihad 2-0, ở vòng 21 Saudi Pro League tối 6/2.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-07T01:28:51+07:00",
+      "fetched": "2026-02-07T11:00:20.973672+07:00"
+    },
+    {
+      "id": "7120ccc010b3fa7cc2b3dc75dcaf8373",
+      "title": "EU đề xuất gói trừng phạt thứ 20 với Nga",
+      "link": "https://vnexpress.net/eu-de-xuat-goi-trung-phat-thu-20-voi-nga-5015254.html",
+      "summary": "EU đang cân nhắc gói trừng phạt mới nhằm vào ngành năng lượng, ngân hàng và thương mại Nga khi xung đột Ukraine sắp bước sang năm thứ 5.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-07T01:27:14+07:00",
+      "fetched": "2026-02-07T11:00:15.424780+07:00"
+    },
+    {
+      "id": "ed9106a16ccc743b191b82cfbc45d453",
+      "title": "Khởi động cuộc thi Sáng kiến Khoa học 2026",
+      "link": "https://vnexpress.net/khoi-dong-cuoc-thi-sang-kien-khoa-hoc-2026-5015278.html",
+      "summary": "Cuộc thi Sáng kiến Khoa học 2026 sẽ mở cổng nhận bài thi từ ngày 9/2, nhằm tìm kiếm, tôn vinh và hỗ trợ các sáng kiến đột phá, mang lại giá trị thiết thực trong phát triển kinh tế và cuộc sống.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-07T01:16:34+07:00",
+      "fetched": "2026-02-07T11:00:19.296566+07:00"
+    },
+    {
+      "id": "c034115342414fc88c748ea70a0554ca",
+      "title": "Mỹ áp thuế các đối tác thương mại của Iran",
+      "link": "https://vnexpress.net/my-ap-thue-cac-doi-tac-thuong-mai-cua-iran-5015290.html",
+      "summary": "Tổng thống Trump ký sắc lệnh cho phép Mỹ áp thuế các đối tác thương mại của Iran, giữa lúc phái đoàn hai nước đang đàm phán ở Oman.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-07T01:09:13+07:00",
+      "fetched": "2026-02-07T11:00:15.424950+07:00"
     },
     {
       "id": "792a6e4f76700e73162077412afc34ac",
