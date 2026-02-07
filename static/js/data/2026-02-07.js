@@ -1,7 +1,157 @@
 window.newsData_2026_02_07 = {
   "date": "2026-02-07",
-  "lastUpdated": "2026-02-07T13:30:46.041947+07:00",
+  "lastUpdated": "2026-02-07T15:20:09.377064+07:00",
   "articles": [
+    {
+      "id": "0d2b7362566712e69921b8b024464ffe",
+      "title": "Chỉ huy trưởng Bộ Chỉ huy Quân sự Đà Nẵng nói về văn bản giả mạo tên mình trên mạng xã hội",
+      "link": "https://tuoitre.vn/chi-huy-truong-bo-chi-huy-quan-su-da-nang-noi-ve-van-ban-gia-mao-ten-minh-tren-mang-xa-hoi-20260207125506812.htm",
+      "summary": "Một văn bản có chữ ký của đại tá Trần Hữu Ích, Chỉ huy trưởng Bộ Chỉ huy Quân sự TP Đà Nẵng, đang lan truyền trên mạng xã hội. Ông Ích khẳng định đây là văn bản giả mạo nhằm thực hiện ý đồ lừa đảo, mua bán, chuyển tiền...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.795912+07:00",
+      "fetched": "2026-02-07T15:20:00.796027+07:00"
+    },
+    {
+      "id": "241bd76e1f88ddb9841f957a0003bdaf",
+      "title": "Đang nhậu, đòi mua rượu uống tiếp bị vợ ngăn cản, chồng tạt xăng đốt vợ",
+      "link": "https://tuoitre.vn/dang-nhau-doi-mua-ruou-uong-tiep-bi-vo-ngan-can-chong-tat-xang-dot-vo-20260207135415658.htm",
+      "summary": "Bị vợ ngăn cản mua thêm rượu nhậu tiếp, người đàn ông 49 tuổi đã đổ hơn 4 lít xăng tạt vào vợ và cháu vợ ngay cạnh bếp lửa đang cháy, khiến hai người bỏng nặng. Gây án xong bỏ trốn nhiều tháng, nghi phạm vừa bị bắt giữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.795787+07:00",
+      "fetched": "2026-02-07T15:20:00.795900+07:00"
+    },
+    {
+      "id": "bfdebaa5594f1262531ac25c34c50e8a",
+      "title": "Độc đáo tranh ngựa bằng trầm hương đón Tết của chàng 9X xứ Quảng",
+      "link": "https://tuoitre.vn/doc-dao-tranh-ngua-bang-tram-huong-don-tet-cua-chang-9x-xu-quang-20260207102632096.htm",
+      "summary": "Chàng trai 9X xứ Quảng đã biến những miếng trầm hương vô tri, vô giác thành tác phẩm tranh ngựa độc đáo được nhiều khách hàng đặt mua dịp Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.795657+07:00",
+      "fetched": "2026-02-07T15:20:00.795776+07:00"
+    },
+    {
+      "id": "807889c0a675fb3155d67f096f512cc0",
+      "title": "'Kia Tasman về Việt Nam có rẻ cũng không dễ tìm được người mua'",
+      "link": "https://tuoitre.vn/kia-tasman-ve-viet-nam-co-re-cung-khong-de-tim-duoc-nguoi-mua-20260206232801222.htm",
+      "summary": "Theo chuyên gia, Kia Tasman được đánh giá sẽ khó cạnh tranh tại Việt Nam do vị thế còn “lửng lơ” trên thị trường, dù xét về thiết kế, trang bị hay mức giá đều chưa tạo được lợi thế rõ rệt so với các đối thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.795506+07:00",
+      "fetched": "2026-02-07T15:20:00.795644+07:00"
+    },
+    {
+      "id": "99ee35fe546d4ddc54e35a5526575464",
+      "title": "Xanh SM nới rộng khoảng cách với đối thủ gọi xe công nghệ ra sao?",
+      "link": "https://tuoitre.vn/xanh-sm-noi-rong-khoang-cach-voi-doi-thu-goi-xe-cong-nghe-ra-sao-20260207130911818.htm",
+      "summary": "Báo cáo mới nhất từ Mordor Intelligence cho thấy trong quý 4-2025, Xanh SM đã chính thức vượt mốc 50% thị phần gọi xe 4 bánh tại Việt Nam, duy trì vị thế dẫn đầu suốt 15 tháng liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.795371+07:00",
+      "fetched": "2026-02-07T15:20:00.795494+07:00"
+    },
+    {
+      "id": "862f2dd04e5f00b26f449dbfe4879ab1",
+      "title": "Thắm tình quân dân tại xã đảo Thạnh An dịp Tết Bính Ngọ 2026",
+      "link": "https://tuoitre.vn/tham-tinh-quan-dan-tai-xa-dao-thanh-an-dip-tet-binh-ngo-2026-20260207131903276.htm",
+      "summary": "Ngày hội \"Tết Quân - Dân\" tại xã Thạnh An, TP.HCM bao gồm nhiều hoạt động vui chơi thiết thực, góp sức cùng người dân xã Thạnh An đón Tết vui tươi, đầm ấm, thắt chặt tình đoàn kết quân - dân vùng đảo xa xôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.795244+07:00",
+      "fetched": "2026-02-07T15:20:00.795359+07:00"
+    },
+    {
+      "id": "221c315098a7aaabebe56c033d154473",
+      "title": "Hóa dầu Petrolimex lần đầu thua lỗ sau 17 năm",
+      "link": "https://tuoitre.vn/hoa-dau-petrolimex-lan-dau-thua-lo-sau-17-nam-20260207135833293.htm",
+      "summary": "Hóa dầu Petrolimex (PLC) ghi nhận quý kinh doanh kém nhất trong vòng 17 năm khi báo lỗ 85 tỉ đồng, qua đó kéo lợi nhuận cả năm xuống mức thấp nhất lịch sử, chỉ còn gần 14 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.795115+07:00",
+      "fetched": "2026-02-07T15:20:00.795233+07:00"
+    },
+    {
+      "id": "780f66c0703511ba83f4426e8aa909c8",
+      "title": "Lan tỏa không khí xuân trong Viện Y dược học dân tộc TP.HCM",
+      "link": "https://tuoitre.vn/lan-toa-khong-khi-xuan-trong-vien-y-duoc-hoc-dan-toc-tp-hcm-20260207135133736.htm",
+      "summary": "Sáng 7-2, khuôn viên Viện Y dược học dân tộc TP.HCM rộn ràng, tràn ngập sắc màu mùa xuân, thu hút đông đảo bệnh nhân, người nhà, nhân viên y tế tại Lễ hội Tết Y học cổ truyền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.794987+07:00",
+      "fetched": "2026-02-07T15:20:00.795104+07:00"
+    },
+    {
+      "id": "679ce71f9af3e03a563aa2fbb570fd67",
+      "title": "Lầu Năm Góc tuyên bố cắt đứt quan hệ học thuật với Đại học Harvard",
+      "link": "https://tuoitre.vn/lau-nam-goc-tuyen-bo-cat-dut-quan-he-hoc-thuat-voi-dai-hoc-harvard-20260207140410519.htm",
+      "summary": "Lầu Năm Góc tuyên bố chấm dứt toàn bộ quan hệ học thuật với Đại học Harvard, đánh dấu bước leo thang mới trong cuộc đối đầu giữa chính quyền Mỹ và Harvard.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.794861+07:00",
+      "fetched": "2026-02-07T15:20:00.794975+07:00"
+    },
+    {
+      "id": "4b835eff37a1e02635ed95a0994f3980",
+      "title": "Bộ giáp của vua Hùng có gì đặc biệt?",
+      "link": "https://tuoitre.vn/bo-giap-cua-vua-hung-co-gi-dac-biet-2026020713190702.htm",
+      "summary": "Hy vọng sau Huyền tình Dạ Trạch, ai muốn dựng kịch bản sân khấu hoặc vẽ tượng vua Hùng, có thể tham khảo hình tượng trong phim này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.794735+07:00",
+      "fetched": "2026-02-07T15:20:00.794849+07:00"
+    },
+    {
+      "id": "beeec753ac5104a684d1766c2fb4046d",
+      "title": "Bắt nghi phạm bóp cổ, cướp tài sản trong đêm",
+      "link": "https://tuoitre.vn/bat-nghi-pham-bop-co-cuop-tai-san-trong-dem-20260207143944046.htm",
+      "summary": "Thiếu tiền tiêu xài, nam thanh niên chạy xe máy từ Hà Tĩnh ra Nghệ An khống chế, bóp cổ một phụ nữ để cướp tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.794602+07:00",
+      "fetched": "2026-02-07T15:20:00.794723+07:00"
+    },
+    {
+      "id": "5183a635b7a544e1ab304a2057ac82eb",
+      "title": "Nghệ sĩ Hùng Minh: Bệnh tôi sao giống giả đò",
+      "link": "https://tuoitre.vn/nghe-si-hung-minh-benh-toi-sao-giong-gia-do-20260207112531945.htm",
+      "summary": "Xuất hiện trong buổi trao quà Tết cho nghệ sĩ, công nhân hậu đài sân khấu khó khăn sáng 7-2, nghệ sĩ Hùng Minh được vợ đưa đến chương trình và chia sẻ về tình trạng sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.794456+07:00",
+      "fetched": "2026-02-07T15:20:00.794589+07:00"
+    },
+    {
+      "id": "b21bad1445c2fbadccc574b4be83c3bf",
+      "title": "Hình ảnh Google Maps cho thấy quái vật Leviathan 'thức giấc' ngoài khơi Mỹ?",
+      "link": "https://tuoitre.vn/hinh-anh-google-maps-cho-thay-quai-vat-leviathan-thuc-giac-ngoai-khoi-my-20260207104528085.htm",
+      "summary": "Hình ảnh lan truyền được cho là chụp cảnh quái vật Leviathan \"thức giấc\" ngoài khơi nước Mỹ. Đây thực chất là ảnh đã qua chỉnh sửa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.794323+07:00",
+      "fetched": "2026-02-07T15:20:00.794444+07:00"
+    },
+    {
+      "id": "048271d0066b9c6ded01b109a220a6b6",
+      "title": "Đẩy nhanh tiến độ, thông xe 36km đầu tiên cao tốc Chí Thạnh - Vân Phong trước 15-2",
+      "link": "https://tuoitre.vn/day-nhanh-tien-do-thong-xe-36km-dau-tien-cao-toc-chi-thanh-van-phong-truoc-15-2-20260207142102303.htm",
+      "summary": "Dự án cao tốc Chí Thạnh - Vân Phong qua địa bàn tỉnh Đắk Lắk (trước là Phú Yên) đang được đẩy nhanh tiến độ, đảm bảo thông xe kỹ thuật 36km/48km trước ngày 15-2, sau đó tiếp tục hoàn thành, khai thác toàn tuyến trước ngày 15-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.794181+07:00",
+      "fetched": "2026-02-07T15:20:00.794310+07:00"
+    },
+    {
+      "id": "18468bd4fb04fa386be66bb20860b126",
+      "title": "Tai nạn trên cao tốc Cam Lâm - Vĩnh Hảo, CSGT điều tiết xe cộ ra nút giao Du Long",
+      "link": "https://tuoitre.vn/tai-nan-tren-cao-toc-cam-lam-vinh-hao-csgt-dieu-tiet-xe-co-ra-nut-giao-du-long-20260207140600562.htm",
+      "summary": "Cao tốc Cam Lâm - Vĩnh Hảo đoạn qua địa bàn tỉnh Khánh Hòa đã xảy ra tai nạn giao thông. Cảnh sát giao thông đã hướng dẫn phương tiện rời cao tốc tại nút giao Du Long qua địa bàn Ninh Thuận (cũ) nối quốc lộ 1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T15:20:00.793953+07:00",
+      "fetched": "2026-02-07T15:20:00.794166+07:00"
+    },
     {
       "id": "83e3d7c345557b231b7de2427bd30196",
       "title": "Không khí lạnh áp sát, từ ngày 8-2 nhiệt độ miền Bắc giảm 8-10 độ C",
@@ -583,6 +733,236 @@ window.newsData_2026_02_07 = {
       "fetched": "2026-02-07T08:09:29.685919+07:00"
     },
     {
+      "id": "31a22d7ad721754628b06f9f3504e038",
+      "title": "Khu 'đất vàng' đường Trần Phú hóa công viên, ngựa khổng lồ cao 8 m gây chú ý",
+      "link": "https://thanhnien.vn/khu-dat-vang-duong-tran-phu-hoa-cong-vien-ngua-khong-lo-cao-8-m-gay-chu-y-18526020711515275.htm",
+      "summary": "Linh vật ngựa cao 8 m, dài 7,5 m, nặng 5 tấn vừa được lắp đặt tại khu 'đất vàng' làm công viên ở đường Trần Phú (TP.HCM) để đón Tết Bính Ngọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T08:01:00+07:00",
+      "fetched": "2026-02-07T15:19:59.638236+07:00"
+    },
+    {
+      "id": "eeedc97bcea30277ce34c14d3b7b0813",
+      "title": "Google mở rộng tính năng tương thích AirDrop cho Android",
+      "link": "https://vnexpress.net/google-mo-rong-tinh-nang-tuong-thich-airdrop-cho-android-5015267.html",
+      "summary": "Sau khi triển khai trên dòng Pixel 10, tính năng tương thích giữa Quick Share và AirDrop sẽ có mặt trên nhiều dòng điện thoại Android khác năm nay.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-07T08:00:00+07:00",
+      "fetched": "2026-02-07T15:20:07.361259+07:00"
+    },
+    {
+      "id": "6dfacc5e602278e48d97681036f970e8",
+      "title": "Những cách giúp tăng cường sóng di động trong nhà",
+      "link": "https://thanhnien.vn/nhung-cach-giup-tang-cuong-song-di-dong-trong-nha-185260207122151773.htm",
+      "summary": "Mặc dù các trạm phát sóng di động đã phủ sóng rộng rãi gần khắp cả nước, vẫn có đôi khi người dùng gặp phải tình trạng tín hiệu yếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:51:00+07:00",
+      "fetched": "2026-02-07T15:19:59.638404+07:00"
+    },
+    {
+      "id": "bbd6df8b61ced45e107e9588745a485a",
+      "title": "Người Hà Nội tìm về chợ hoa phố cổ sắm tết",
+      "link": "https://thanhnien.vn/nguoi-ha-noi-tim-ve-cho-hoa-pho-co-sam-tet-185260207125231823.htm",
+      "summary": "Những ngày giáp tết, chợ hoa Hàng Lược trên phố cổ Hà Nội lại trở thành điểm hẹn quen thuộc, thu hút đông đảo người dân và du khách đến thưởng ngoạn, mua sắm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:42:00+07:00",
+      "fetched": "2026-02-07T15:19:59.638564+07:00"
+    },
+    {
+      "id": "c6f077904d8f19c696297d8587375c1a",
+      "title": "Mời tham gia thi tuyển phương án kiến trúc nâng cấp Bệnh viện Ung bướu Đà Nẵng",
+      "link": "https://thanhnien.vn/moi-tham-gia-thi-tuyen-phuong-an-kien-truc-nang-cap-benh-vien-ung-buou-da-nang-18526020714502993.htm",
+      "summary": "Trung tâm Tư vấn và Giám định xây dựng Đà Nẵng mời tham gia thi tuyển phương án kiến trúc Khối điều trị nội trú 400 giường và nâng cấp, cải tạo Bệnh viện Ung bướu TP.Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:40:00+07:00",
+      "fetched": "2026-02-07T15:19:59.638743+07:00"
+    },
+    {
+      "id": "9a986d1390640c5b157fdc24c1cca8de",
+      "title": "Mỹ truy tố người dọa bắn chết Phó tổng thống Vance",
+      "link": "https://vnexpress.net/my-truy-to-nguoi-doa-ban-chet-pho-tong-thong-vance-5015443.html",
+      "summary": "Giới chức Mỹ đã truy tố một người đàn ông ở bang Ohio vì đe dọa bắn chết Phó tổng thống JD Vance.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-07T07:35:32+07:00",
+      "fetched": "2026-02-07T15:20:03.238801+07:00"
+    },
+    {
+      "id": "f760c642f0b270849b2662977257891b",
+      "title": "Đại tướng Phan Văn Giang: Quyết tâm nghiên cứu, sản xuất vũ khí, trang bị hiện đại",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-quyet-tam-nghien-cuu-san-xuat-vu-khi-trang-bi-hien-dai-185260207132416368.htm",
+      "summary": "Đại tướng Phan Văn Giang cho biết, Đại hội XIV xác định, đẩy mạnh đột phá phát triển công nghiệp quốc phòng tự chủ, tự lực, tự cường, lưỡng dụng, hiện đại; chuyển từ cơ bản là mua sắm sang tự chủ, tự sản xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:31:00+07:00",
+      "fetched": "2026-02-07T15:19:59.638899+07:00"
+    },
+    {
+      "id": "f7a46200591a436265ad86c9d9f9461b",
+      "title": "TP.HCM: 15 ngày xử phạt vi phạm trong khám chữa bệnh hơn 1,1 tỉ đồng",
+      "link": "https://thanhnien.vn/tphcm-15-ngay-xu-phat-vi-pham-trong-kham-chua-benh-hon-11-ti-dong-185260207133627831.htm",
+      "summary": "Tình trạng hành nghề 'chui', quảng cáo sai, chỉ định dịch vụ khám chữa bệnh vụ lợi, làm vượt quá phạm vi chuyên môn diễn ra khá phổ biến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:30:00+07:00",
+      "fetched": "2026-02-07T15:19:59.639051+07:00"
+    },
+    {
+      "id": "d9a5f2cf96fd34e80882fc678a3fcf53",
+      "title": "Tai nạn trên cao tốc Cam Lâm - Vĩnh Hảo, giao thông ùn tắc kéo dài",
+      "link": "https://thanhnien.vn/tai-nan-tren-cao-toc-cam-lam-vinh-hao-giao-thong-un-tac-keo-dai-185260207140412485.htm",
+      "summary": "Tai nạn giữa 2 xe tải trên cao tốc Cam Lâm - Vĩnh Hảo (Khánh Hòa) khiến giao thông theo hướng nam - bắc ùn tắc kéo dài khoảng 2 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:27:00+07:00",
+      "fetched": "2026-02-07T15:19:59.639202+07:00"
+    },
+    {
+      "id": "62bd838750fb1cffccaa8e1fff55ff69",
+      "title": "Bật mí về những chiếc lá dong 13 tháng",
+      "link": "https://thanhnien.vn/bat-mi-ve-nhung-chiec-la-dong-13-thang-185260207141419162.htm",
+      "summary": "Chợ lá dong lớn nhất TP.HCM đã họp từ hơn 10 ngày trước và đang vào những ngày cao điểm mua bán. Người bán nơi đây bật mí những điều thú vị về những chiếc lá dong 13 tháng của mùa Tết Nguyên đán Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:26:00+07:00",
+      "fetched": "2026-02-07T15:19:59.639355+07:00"
+    },
+    {
+      "id": "70e9a8040135153fcf2e21014a72e993",
+      "title": "Xác minh vụ nhóm người hành hung học sinh dã man ở Hóc Môn",
+      "link": "https://thanhnien.vn/xac-minh-vu-nhom-nguoi-hanh-hung-hoc-sinh-da-man-o-hoc-mon-185260207131659318.htm",
+      "summary": "Công an xã đang khẩn trương xác minh vụ một nhóm người hành hung học sinh trung học cơ sở trên địa bàn xã Hóc Môn (TP.HCM) gây bức xúc dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:24:00+07:00",
+      "fetched": "2026-02-07T15:19:59.639517+07:00"
+    },
+    {
+      "id": "e28fa913e4caa527ee9b14d26d4c29f4",
+      "title": "Mỗi ngày 1 viên dầu cá omega-3: Lợi ích quan trọng cho người lớn tuổi",
+      "link": "https://thanhnien.vn/moi-ngay-1-vien-dau-ca-omega-3-loi-ich-quan-trong-cho-nguoi-lon-tuoi-185260207141805199.htm",
+      "summary": "Kết quả nghiên cứu mới đã phát hiện nồng độ omega-3 trong máu tỷ lệ nghịch với nguy cơ mắc chứng sa sút trí tuệ khởi phát sớm ở người lớn tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:18:00+07:00",
+      "fetched": "2026-02-07T15:19:59.639689+07:00"
+    },
+    {
+      "id": "451d1644694bdc6e00bcdf32f5ac1eb0",
+      "title": "Canada tặng 3.600 USD cho mỗi người dân mua xe điện",
+      "link": "https://vnexpress.net/canada-tang-3-600-usd-cho-moi-nguoi-dan-mua-xe-dien-5015396.html",
+      "summary": "Thủ tướng Canada tuyên bố bỏ trần tỷ lệ xe điện, nhưng sẽ chi 1,68 tỷ USD để hỗ trợ người dân mua phương tiện này, với hơn 3.600 USD mỗi giao dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:06:36+07:00",
+      "fetched": "2026-02-07T15:19:56.069042+07:00"
+    },
+    {
+      "id": "451d1644694bdc6e00bcdf32f5ac1eb0",
+      "title": "Canada tặng 3.600 USD cho mỗi người dân mua xe điện",
+      "link": "https://vnexpress.net/canada-tang-3-600-usd-cho-moi-nguoi-dan-mua-xe-dien-5015396.html",
+      "summary": "Thủ tướng Canada tuyên bố bỏ trần tỷ lệ xe điện, nhưng sẽ chi 1,68 tỷ USD để hỗ trợ người dân mua phương tiện này, với hơn 3.600 USD mỗi giao dịch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-07T07:06:36+07:00",
+      "fetched": "2026-02-07T15:20:04.810855+07:00"
+    },
+    {
+      "id": "80cb631af05618c2868a56ca4ed83126",
+      "title": "Phép tính tưởng dễ mà khó: Kết quả là 0 hay 6?",
+      "link": "https://vnexpress.net/phep-tinh-tuong-de-ma-kho-ket-qua-la-0-hay-6-5011138.html",
+      "summary": "Chỉ với vài con số quen thuộc, phép tính này lại khiến nhiều người phân vân giữa hai đáp án hoàn toàn trái ngược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:00:00+07:00",
+      "fetched": "2026-02-07T15:19:56.069220+07:00"
+    },
+    {
+      "id": "a55592b16959c131ec99f8fa19d4e14b",
+      "title": "Du lịch Quảng Ngãi lấy cộng đồng làm gốc",
+      "link": "https://vnexpress.net/du-lich-quang-ngai-lay-cong-dong-lam-goc-5015437.html",
+      "summary": "Quảng Ngãi chọn cách tiếp cận lấy người dân làm chủ thể du lịch, các giá trị bản địa là tài nguyên và mục tiêu cuối cùng hướng đến phát triển hài hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:00:00+07:00",
+      "fetched": "2026-02-07T15:19:56.069388+07:00"
+    },
+    {
+      "id": "f55cdae9a6a32056f9643d914c91d66a",
+      "title": "Kaity Nguyễn và dàn sao diện trang phục Dior Xuân Hè 2026",
+      "link": "https://vnexpress.net/kaity-nguyen-va-dan-sao-dien-trang-phuc-dior-xuan-he-2026-5015428.html",
+      "summary": "Kaity Nguyễn và Isaac, Anh Tú Atus, Hoa hậu Lương Thùy Linh diện loạt trang phục, phụ kiện thuộc bộ sưu tập Xuân Hè 2026 của Dior tại sự kiện tối 5/2",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:00:00+07:00",
+      "fetched": "2026-02-07T15:19:56.069555+07:00"
+    },
+    {
+      "id": "245cdea5b7070174e8fc582e2d1dd01c",
+      "title": "BSR dẫn đầu phong trào đổi mới sáng tạo ngành dầu khí",
+      "link": "https://vnexpress.net/bsr-dan-dau-phong-trao-doi-moi-sang-tao-nganh-dau-khi-5015411.html",
+      "summary": "Công đoàn Công ty cổ phần Lọc hóa dầu Bình Sơn đứng đầu nhờ kiên trì xây dựng cơ chế khuyến khích sáng kiến, gắn đổi mới với mục tiêu tăng trưởng dài hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:00:00+07:00",
+      "fetched": "2026-02-07T15:19:56.069765+07:00"
+    },
+    {
+      "id": "e0059acff0ed86be3e701a4016a1322b",
+      "title": "Vội tiêm ngừa viêm gan B sau khi người thân mắc bệnh",
+      "link": "https://vnexpress.net/voi-tiem-ngua-viem-gan-b-sau-khi-nguoi-than-mac-benh-5015383.html",
+      "summary": "Anh Khải ở TP HCM, đưa vợ con đi tiêm ngừa viêm gan B sau khi cha ruột phát hiện ung thư gan giai đoạn cuối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:00:00+07:00",
+      "fetched": "2026-02-07T15:19:56.069937+07:00"
+    },
+    {
+      "id": "52d160005f4155171ed86f7d053f0368",
+      "title": "5 phương pháp làm đẹp da nhanh đón Tết",
+      "link": "https://vnexpress.net/5-phuong-phap-lam-dep-da-nhanh-don-tet-5015382.html",
+      "summary": "Tiêm filler, botox chỉnh khuôn mặt, nâng cơ trẻ hóa da bằng HIFU hay tiêm meso phục hồi da là các phương pháp làm đẹp nhanh, ít đau, hạn chế xâm lấn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:00:00+07:00",
+      "fetched": "2026-02-07T15:19:56.070094+07:00"
+    },
+    {
+      "id": "a0a6ac4a0b6ac6b46fe0f00de4514784",
+      "title": "Cách hạn chế đau nhức khớp cuối năm",
+      "link": "https://vnexpress.net/cach-han-che-dau-nhuc-khop-cuoi-nam-5015380.html",
+      "summary": "Phân bổ hợp lý hoạt động trong ngày, giữ tư thế đúng khi ngồi, mang vác và di chuyển, kết hợp giãn cơ giúp kiểm soát các cơn đau nhức xương khớp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:00:00+07:00",
+      "fetched": "2026-02-07T15:19:56.070253+07:00"
+    },
+    {
+      "id": "0e71a1596732e7e87e82726f06beacca",
+      "title": "Không sợ lỗi mốt với họa tiết chấm bi nhỏ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/khong-so-loi-mot-voi-hoa-tiet-cham-bi-nho-185260206101023526.htm",
+      "summary": "Mang theo vẻ đẹp nữ tính, gợi nhắc tinh thần cổ điển, họa tiết chấm bi nhỏ luôn xuất hiện như một điểm nhấn quen thuộc, đủ tinh tế để chinh phục nhiều thế hệ phụ nữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T07:00:00+07:00",
+      "fetched": "2026-02-07T15:19:59.639852+07:00"
+    },
+    {
+      "id": "1fd1bca728256498a81f84a0e04772e0",
+      "title": "Bí quyết chăm sóc da và tóc khỏe đẹp",
+      "link": "https://vnexpress.net/bi-quyet-cham-soc-da-va-toc-khoe-dep-5015393.html",
+      "summary": "Chọn sản phẩm chăm sóc da lành tính, duy trì chế độ ăn cân bằng, bổ sung collagen để da và tóc khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T06:47:17+07:00",
+      "fetched": "2026-02-07T15:19:56.070414+07:00"
+    },
+    {
       "id": "b4e032c8ef6c10b095061fbbaf7f85bb",
       "title": "Vợ chồng Phan Mạnh Quỳnh kỷ niệm 10 năm yêu bằng MV quay dưới hồ nước",
       "link": "https://thanhnien.vn/vo-chong-phan-manh-quynh-ky-niem-10-nam-yeu-bang-mv-quay-duoi-ho-nuoc-185260207125244116.htm",
@@ -613,6 +993,16 @@ window.newsData_2026_02_07 = {
       "fetched": "2026-02-07T13:30:36.610595+07:00"
     },
     {
+      "id": "424bbe64bccd73c2ddd3e34ad3aa459f",
+      "title": "Hai thói quen tưởng lập dị là dấu hiệu của người thông minh",
+      "link": "https://vnexpress.net/hai-thoi-quen-tuong-lap-di-la-dau-hieu-cua-nguoi-thong-minh-5015296.html",
+      "summary": "Tâm trí hay \"treo ngược cành cây\" hoặc thói quen lẩm bẩm một mình được các nghiên cứu xác nhận là biểu hiện của người có năng lực xử lý vượt trội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T06:15:12+07:00",
+      "fetched": "2026-02-07T15:19:56.070567+07:00"
+    },
+    {
       "id": "c659c71bc4ac2a4bc43679a02e9fa90c",
       "title": "Thị trường phường An Khánh tương lai gấp 4 lần, dư địa cho hơn 6.000 doanh nghiệp",
       "link": "https://thanhnien.vn/thi-truong-phuong-an-khanh-tuong-lai-gap-4-lan-du-dia-cho-hon-6000-doanh-nghiep-185260207125423751.htm",
@@ -621,6 +1011,16 @@ window.newsData_2026_02_07 = {
       "category": "Tổng hợp",
       "published": "2026-02-07T06:10:00+07:00",
       "fetched": "2026-02-07T13:30:36.610752+07:00"
+    },
+    {
+      "id": "5079af4ff78c16bc43de3e771eb075ac",
+      "title": "Dàn runner châu Phi tham vọng thâu tóm giải thưởng All-Star 2026",
+      "link": "https://vnexpress.net/runner-chau-phi-giai-thuong-vnexpress-marathon-all-star-5015418.html",
+      "summary": "Damte, Marta và Kenedy, 3 runner từng về nhất ở các giải trong hệ thống VnExpress Marathon, tự tin sẽ vô địch 42km nam, nữ và 21km nam tại VM All-Star 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T06:10:00+07:00",
+      "fetched": "2026-02-07T15:19:56.070762+07:00"
     },
     {
       "id": "ca91fce41bced79b24e692e5d636890c",
