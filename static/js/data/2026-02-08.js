@@ -1,7 +1,107 @@
 window.newsData_2026_02_08 = {
   "date": "2026-02-08",
-  "lastUpdated": "2026-02-08T19:28:25.871512+07:00",
+  "lastUpdated": "2026-02-08T21:19:45.518117+07:00",
   "articles": [
+    {
+      "id": "681f44e4a8f4cd7090bebcf8e8a0968a",
+      "title": "Đài NHK: Đảng của nữ Thủ tướng Takaichi thắng lớn nhất trong 30 năm",
+      "link": "https://tuoitre.vn/dai-nhk-dang-cua-nu-thu-tuong-takaichi-thang-lon-nhat-trong-30-nam-20260208195135745.htm",
+      "summary": "Đảng LDP gần như chắc chắn giành lại thế đa số tại Hạ viện Nhật Bản khi các cuộc thăm dò sau bỏ phiếu đều cho thấy kết quả rất khả quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T21:19:38.542841+07:00",
+      "fetched": "2026-02-08T21:19:38.542954+07:00"
+    },
+    {
+      "id": "f50915ae024e49694fe4348d9d76a03c",
+      "title": "Cử tri nơi cư trú tín nhiệm cao Đại tướng Nguyễn Trọng Nghĩa ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://tuoitre.vn/cu-tri-noi-cu-tru-tin-nhiem-cao-dai-tuong-nguyen-trong-nghia-ung-cua-dai-bieu-quoc-hoi-khoa-xvi-20260208195418898.htm",
+      "summary": "Tại hội nghị lấy ý kiến nhận xét và tín nhiệm của cử tri nơi cư trú, 100% cử tri đã biểu quyết tán thành, tín nhiệm Đại tướng Nguyễn Trọng Nghĩa, Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam, ứng cử đại biểu Quốc hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T21:19:38.542717+07:00",
+      "fetched": "2026-02-08T21:19:38.542830+07:00"
+    },
+    {
+      "id": "eb554e82d652f4e946e2c965379f2c15",
+      "title": "Khu Quản lý đường bộ III yêu cầu xử lý biển hạn chế tốc độ dày đặc trên quốc lộ 19",
+      "link": "https://tuoitre.vn/khu-quan-ly-duong-bo-iii-yeu-cau-xu-ly-bien-han-che-toc-do-day-dac-tren-quoc-lo-19-20260208190934772.htm",
+      "summary": "Liên quan tình trạng biển hạn chế tốc độ cắm dày đặc trên quốc lộ 19 qua tỉnh Gia Lai, Khu Quản lý đường bộ III, Cục Đường bộ Việt Nam, đã yêu cầu rà soát, xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T21:19:38.542593+07:00",
+      "fetched": "2026-02-08T21:19:38.542706+07:00"
+    },
+    {
+      "id": "a28bb4a63ffa8a3c84bdc9210d825353",
+      "title": "Quy Nhơn vào top điểm đến đang thịnh hành năm 2026 của Tripadvisor",
+      "link": "https://tuoitre.vn/quy-nhon-vao-top-diem-den-dang-thinh-hanh-nam-2026-cua-tripadvisor-20260208185655905.htm",
+      "summary": "Trong bảng xếp hạng 25 điểm đến đang thịnh hành năm 2026 trên toàn thế giới của Tripadvisor, Quy Nhơn đại diện cho Việt Nam nằm ở vị trí thứ 4 trong bảng xếp hạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T21:19:38.542469+07:00",
+      "fetched": "2026-02-08T21:19:38.542581+07:00"
+    },
+    {
+      "id": "c8f711aa20c421cf79f47eda6164058a",
+      "title": "PGS.TS Lê Hoằng Bá Huyền giữ chức Hiệu trưởng Trường đại học Hồng Đức",
+      "link": "https://tuoitre.vn/pgs-ts-le-hoang-ba-huyen-giu-chuc-hieu-truong-truong-dai-hoc-hong-duc-20260208185544128.htm",
+      "summary": "Chủ tịch UBND tỉnh Thanh Hóa vừa ký quyết định điều động, bổ nhiệm PGS.TS Lê Hoằng Bá Huyền - Hiệu trưởng Trường cao đẳng Nông nghiệp Thanh Hóa - giữ chức Hiệu trưởng Trường đại học Hồng Đức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T21:19:38.542345+07:00",
+      "fetched": "2026-02-08T21:19:38.542458+07:00"
+    },
+    {
+      "id": "a9755ff0e014341a6d8c939bf7933f99",
+      "title": "Đoàn mô tô phân khối lớn lao vun vút trên đường cao tốc, Cục trưởng CSGT chỉ đạo xử lý nghiêm",
+      "link": "https://tuoitre.vn/doan-mo-to-phan-khoi-lon-lao-vun-vut-tren-duong-cao-toc-cuc-truong-csgt-chi-dao-xu-ly-nghiem-20260208190908688.htm",
+      "summary": "Qua xác minh ban đầu, lực lượng chức năng xác định đoàn xe gồm 11 mô tô phân khối lớn do 11 nam giới điều khiển (trong đó có 3 xe chở theo người ngồi sau). Đoạn đường trên cao tốc hướng Phú Thọ đi Tuyên Quang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T21:19:38.542212+07:00",
+      "fetched": "2026-02-08T21:19:38.542333+07:00"
+    },
+    {
+      "id": "bf9b5afb40b2d8ef725d93a9cf966cb2",
+      "title": "TP.HCM triển khai dự án siêu trung tâm dữ liệu 2 tỉ USD",
+      "link": "https://tuoitre.vn/tphcm-trien-khai-du-an-sieu-trung-tam-du-lieu-2-ti-usd-20260208201712989.htm",
+      "summary": "Dự án được kỳ vọng sẽ đưa TP.HCM trở thành trung tâm dữ liệu, công nghệ và tài chính hàng đầu khu vực châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T21:19:38.542069+07:00",
+      "fetched": "2026-02-08T21:19:38.542191+07:00"
+    },
+    {
+      "id": "acf2703bc4cb17cbc562b89a3cef05a3",
+      "title": "Làng cờ Trung Quốc cảnh báo: 'Lại Lý Huynh từng đánh bại 6 kỳ vương'",
+      "link": "https://tuoitre.vn/lang-co-trung-quoc-canh-bao-lai-ly-huynh-tung-danh-bai-6-ky-vuong-2026020720120127.htm",
+      "summary": "Trước thềm siêu giải đấu Ngũ Dương Bôi, làng cờ tướng Trung Quốc điểm lại những lần các nhà vô địch Trung Quốc bị đánh bại bởi Lại Lý Huynh - người đang giữ chức vô địch thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T21:19:38.541911+07:00",
+      "fetched": "2026-02-08T21:19:38.542056+07:00"
+    },
+    {
+      "id": "2489eaf62b1b5805f870b2ddfa0c222d",
+      "title": "Dân thích thú khi mục kích song mã kéo xe, xích mã tung vó lấp lánh tại Phú Yên cũ",
+      "link": "https://tuoitre.vn/nguoi-dan-loa-mat-khi-thay-song-ma-keo-xe-xich-ma-tung-vo-lap-lanh-tai-phu-yen-cu-20260208194949322.htm",
+      "summary": "Dù chưa khai trương đường hoa xuân, nhưng cụm linh vật song mã kéo xe và xích mã được thiết kế công phu, lấp lánh tại công viên Thanh thiếu niên, phường Tuy Hòa, Đắk Lắk (Phú Yên cũ) thu hút đông đảo người dân, du khách đến chiêm ngưỡng, chụp ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T21:19:38.541765+07:00",
+      "fetched": "2026-02-08T21:19:38.541898+07:00"
+    },
+    {
+      "id": "ffad813d640dd313c201bf6c5889409f",
+      "title": "Phó bí thư Thành ủy TP.HCM Nguyễn Phước Lộc dự ngày hội Xuân đoàn kết, trao quà Tết tại Bình Phú",
+      "link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-tp-hcm-nguyen-phuoc-loc-du-ngay-hoi-xuan-doan-ket-trao-qua-tet-tai-binh-phu-20260208202058101.htm",
+      "summary": "Phó bí thư Thành ủy TP.HCM Nguyễn Phước Lộc dự ngày hội \"Xuân đoàn kết -Tết nghĩa tình\" năm 2026 tại phường Bình Phú, trao quà Tết cho các hộ dân khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T21:19:38.541537+07:00",
+      "fetched": "2026-02-08T21:19:38.541749+07:00"
+    },
     {
       "id": "21c0ea062edd7524630b15ee23638314",
       "title": "Nhiều xe khách vi phạm bị xử lý nghiêm dịp cận Tết 2026",
@@ -303,6 +403,86 @@ window.newsData_2026_02_08 = {
       "fetched": "2026-02-08T15:21:41.607833+07:00"
     },
     {
+      "id": "1a8c48b188aab7ca3c6057e687f85a08",
+      "title": "SLNA tạo địa chấn, thắng đậm chủ nhà Thể Công Viettel 4-1: Sao U.23 Việt Nam Cao Văn Bình quá hay",
+      "link": "https://thanhnien.vn/slna-tao-dia-chan-thang-dam-chu-nha-the-cong-viettel-4-1-sao-u23-viet-nam-cao-van-binh-qua-hay-18526020821151878.htm",
+      "summary": "Tối 8.2, ở vòng 13 V-League 2025-2026, thủ môn Cao Văn Bình có nhiều pha cứu thua, góp công giúp SLNA đánh bại CLB Thể Công Viettel 4-1 ngay trên khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T14:18:00+07:00",
+      "fetched": "2026-02-08T21:19:37.624085+07:00"
+    },
+    {
+      "id": "b378da18d168196568078d06522df2fc",
+      "title": "Sốc: CLB Công an TP.HCM bị Thanh Hóa đánh bại ngay tại Thống Nhất, ngoại binh Lào rực sáng",
+      "link": "https://thanhnien.vn/soc-clb-cong-an-tphcm-bi-thanh-hoa-danh-bai-ngay-tai-thong-nhat-ngoai-binh-lao-ruc-sang-185260208203909663.htm",
+      "summary": "Trong ngày ngoại binh người Lào rực sáng với cú đúp bàn thắng, CLB Thanh Hóa đã tạo bất ngờ lớn khi đánh bại CLB Công an TP.HCM với tỷ số 2-1 ngay trên sân Thống Nhất ở vòng 13 V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T14:17:00+07:00",
+      "fetched": "2026-02-08T21:19:37.624255+07:00"
+    },
+    {
+      "id": "79259dde7d00e3c5569629b179f6cbab",
+      "title": "Tuyển thủ Lào gieo sầu cho Công an TP HCM",
+      "link": "https://vnexpress.net/tuyen-thu-lao-gieo-sau-cho-cong-an-tp-hcm-5015740.html",
+      "summary": "Hai cú sút xa thành bàn của Damoth Thongkhamsavath giúp Thanh Hóa hạ Công an TP HCM 2-1 ở vòng 13 V-League 2025-2026, tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-08T14:12:33+07:00",
+      "fetched": "2026-02-08T21:19:45.509179+07:00"
+    },
+    {
+      "id": "691757587e3cf265414c55eb4d9188eb",
+      "title": "Hơn 1.000 người nếm trái đắng vì nhóm lừa đảo tiền số",
+      "link": "https://thanhnien.vn/hon-1000-nguoi-nem-trai-dang-vi-nhom-lua-dao-tien-so-185260208195024112.htm",
+      "summary": "Nhóm lừa đảo tiền số dựng dự án ảo, hứa lợi nhuận cao để lôi kéo hơn 1.000 người đầu tư, chiếm đoạt 175 tỉ đồng vừa bị Công an TP.Hải Phòng triệt phá, khởi tố liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T14:05:00+07:00",
+      "fetched": "2026-02-08T21:19:37.624414+07:00"
+    },
+    {
+      "id": "7953500d2ba3e5a8791b43817e5c6141",
+      "title": "Tổng Bí thư Tô Lâm: Kiều bào là nguồn lực đặc biệt quan trọng trong kỷ nguyên mới",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-kieu-bao-la-nguon-luc-dac-biet-quan-trong-trong-ky-nguyen-moi-185260208202906589.htm",
+      "summary": "Chiều 8.2, Tổng Bí thư Tô Lâm đã gặp mặt đoàn kiều bào tiêu biểu tham dự chương trình Xuân Quê hương 2026 do Ủy ban Nhà nước về người Việt Nam ở nước ngoài, Bộ Ngoại giao tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T14:04:00+07:00",
+      "fetched": "2026-02-08T21:19:37.624569+07:00"
+    },
+    {
+      "id": "976fff53c13e1a92c5d9409b97a4221a",
+      "title": "Nghi phạm bắn tướng tình báo Nga bị bắt ở UAE và dẫn độ về Moscow",
+      "link": "https://thanhnien.vn/nghi-pham-ban-tuong-tinh-bao-nga-bi-bat-o-uae-va-dan-do-ve-moscow-185260208202455593.htm",
+      "summary": "Hôm nay (8.2), giới chức an ninh và phía điều tra Nga thông báo nghi phạm người Nga gốc Ukraine đã bị dẫn độ từ Dubai (UAE) về Moscow với cáo buộc bắn trọng thương một trong những tướng lĩnh cấp cao nhất của tình báo Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T14:00:00+07:00",
+      "fetched": "2026-02-08T21:19:37.624724+07:00"
+    },
+    {
+      "id": "2961c1bb56f0e4488d69bcae6f1968cb",
+      "title": "Sắc vóc nữ phụ đang gây chú ý khi đóng cặp với Thanh Sơn",
+      "link": "https://thanhnien.vn/sac-voc-nu-phu-dang-gay-chu-y-khi-dong-cap-voi-thanh-son-185260208175124354.htm",
+      "summary": "Trong 'Đồng hồ đếm ngược' đang phát sóng, nữ phụ Yến My gây chú ý khi vào vai Minh Anh, người yêu của nam chính do Thanh Sơn đóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T13:48:00+07:00",
+      "fetched": "2026-02-08T21:19:37.624874+07:00"
+    },
+    {
+      "id": "4ae5692355bf3709a9337f081b5ed18c",
+      "title": "Thủ tướng: Cần sớm có giải pháp huy động vàng miếng trong dân",
+      "link": "https://vnexpress.net/thu-tuong-can-som-co-giai-phap-huy-dong-vang-mieng-trong-dan-5015736.html",
+      "summary": "Thủ tướng đề nghị Ngân hàng Nhà nước sớm hoàn thiện báo cáo nghiên cứu các giải pháp huy động để thu hút nguồn ngoại tệ và vàng miếng trong dân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-08T13:44:46+07:00",
+      "fetched": "2026-02-08T21:19:41.003587+07:00"
+    },
+    {
       "id": "3da5281b351b8154c48bfd7b7c029b77",
       "title": "Cảm giác về quê ăn Tết áp lực hơn là niềm vui?",
       "link": "https://tuoitre.vn/cam-giac-ve-que-an-tet-ap-luc-hon-la-niem-vui-20260207184532763.htm",
@@ -441,6 +621,146 @@ window.newsData_2026_02_08 = {
       "category": "Tổng hợp",
       "published": "2026-02-08T13:38:29.309401+07:00",
       "fetched": "2026-02-08T13:38:29.309577+07:00"
+    },
+    {
+      "id": "756d807bd45b753f659bfe78dbd794d1",
+      "title": "Xe điện dùng pin natri-ion đầu tiên gây ấn tượng mạnh",
+      "link": "https://thanhnien.vn/xe-dien-dung-pin-natri-ion-dau-tien-gay-an-tuong-manh-185260208184754858.htm",
+      "summary": "Ngành công nghiệp xe điện vừa ghi nhận một cột mốc quan trọng với sự ra mắt của mẫu xe điện chở người sản xuất hàng loạt đầu tiên sử dụng pin natri-ion.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T13:18:00+07:00",
+      "fetched": "2026-02-08T21:19:37.625044+07:00"
+    },
+    {
+      "id": "23d3e40f1faa54f10c64743c7c93d181",
+      "title": "Tất niên xóm suốt 16 năm: Không nhà hàng, mỗi nhà góp một món",
+      "link": "https://thanhnien.vn/tat-nien-xom-suot-16-nam-khong-nha-hang-moi-nha-gop-mot-mon-185260207092649265.htm",
+      "summary": "Không nhà hàng sang trọng, không mâm cao cỗ đầy, bữa tất niên xóm duy trì suốt 16 năm với mỗi hộ góp một món, cùng quây quần giữa hẻm dịp cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T13:17:00+07:00",
+      "fetched": "2026-02-08T21:19:37.625198+07:00"
+    },
+    {
+      "id": "894b2107f314c9925764e75574871086",
+      "title": "Chưa đến tết đã 'cháy' vé trở lại TP.HCM",
+      "link": "https://thanhnien.vn/chua-den-tet-da-chay-ve-tro-lai-tphcm-185260208201157957.htm",
+      "summary": "Dù còn khoảng đâu đó 1 tuần nữa mới tới Tết Nguyên đán nhưng thị trường vé máy bay chiều từ các tỉnh, thành về TP.HCM sau tết đã sớm rơi vào tình trạng khan hiếm. Nhiều chặng bay từ miền Trung, Tây Nguyên trong các ngày cao điểm mùng 5 đến mùng 7 tết gần như không còn vé, số ít chuyến còn lại ghi nh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T13:14:00+07:00",
+      "fetched": "2026-02-08T21:19:37.625351+07:00"
+    },
+    {
+      "id": "4f66542482c2c2c32653ac11be1e8c6e",
+      "title": "Công Phượng chấn thương không thi đấu, Trường Tươi Đồng Nai thoát thua nhờ siêu phẩm khó tin",
+      "link": "https://thanhnien.vn/cong-phuong-chan-thuong-khong-thi-dau-truong-tuoi-dong-nai-thoat-thua-nho-sieu-pham-kho-tin-185260208195335763.htm",
+      "summary": "Tối 8.2, ở vòng 9 giải hạng nhất 2025-2026, CLB Trường Tươi Đồng Nai chỉ có trận hòa 1-1 khi làm khách của đội Trẻ PVF-CAND nhờ bàn thắng trong hiệp 2 của tân binh Đoàn Hải Quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T13:04:00+07:00",
+      "fetched": "2026-02-08T21:19:37.625508+07:00"
+    },
+    {
+      "id": "4a7cd9281631cca8032ef060e0c268b0",
+      "title": "Cận cảnh xe khách giường nằm bốc cháy dữ dội trên quốc lộ 60",
+      "link": "https://thanhnien.vn/can-canh-xe-khach-giuong-nam-boc-chay-du-doi-tren-quoc-lo-60-185260208193950382.htm",
+      "summary": "Xe khách giường nằm chở nhiều hành khách lưu thông trên quốc lộ 60, đoạn gần cầu Cổ Chiên, bất ngờ bốc cháy dữ dội. May mắn, lực lượng cảnh sát PCCC có mặt kịp thời dập lửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T13:04:00+07:00",
+      "fetched": "2026-02-08T21:19:37.625657+07:00"
+    },
+    {
+      "id": "f1791014e9481972cde3ae60e7ca1a64",
+      "title": "Có 19.977 người trúng Vietlott tối nay, giải độc đắc cộng dồn 17,1 tỉ đồng",
+      "link": "https://thanhnien.vn/co-19977-nguoi-trung-vietlott-toi-nay-giai-doc-dac-cong-don-171-ti-dong-185260208193022941.htm",
+      "summary": "Tối 8.2, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không có người trúng giải độc đắc nào nên số tiền cộng dồn là 17,1 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T13:01:00+07:00",
+      "fetched": "2026-02-08T21:19:37.625803+07:00"
+    },
+    {
+      "id": "d844c99c029309e652b090a0f127907f",
+      "title": "PVOil đưa 1.000 sinh viên về quê đón Tết",
+      "link": "https://vnexpress.net/pvoil-dua-1-000-sinh-vien-ve-que-don-tet-5015725.html",
+      "summary": "25 chuyến xe PVOil đưa 1.000 sinh viên từ TP HCM về Khánh Hòa, Gia Lai (Bình Định cũ), Nghệ An, Thanh Hóa đón Tết cùng gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T13:00:00+07:00",
+      "fetched": "2026-02-08T21:19:34.425471+07:00"
+    },
+    {
+      "id": "42597594be9eb6a3b51b46833537bda7",
+      "title": "Xem nhanh 20h ngày 8.2: Chưa đến tết đã ‘cháy’ vé trở lại TP.HCM |  Nhà vườn lo hoa tết khó bán",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-82-chua-den-tet-da-chay-ve-tro-lai-tphcm-nha-vuon-lo-hoa-tet-kho-ban-185260208195354528.htm",
+      "summary": "'Xem nhanh 20h' ngày 8.2 có nhiều tin tức đáng chú ý về: Chưa đến tết nhưng vé máy bay trở lại TP.HCM đã \"cháy\"; Hoa Tết Bính Ngọ 2026: Nỗi lo kép từ nhà vườn và tiểu thương;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T13:00:00+07:00",
+      "fetched": "2026-02-08T21:19:37.625962+07:00"
+    },
+    {
+      "id": "42326b2c92dc72e5b8f9d05a59647ac8",
+      "title": "Chiếm trọn ánh nhìn với bản phối cùng giày đỏ quyền năng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chiem-tron-anh-nhin-voi-ban-phoi-cung-giay-do-quyen-nang-185260207175924606.htm",
+      "summary": "Trong các phụ kiện thời trang, giày đỏ là lựa chọn được nhiều tín đồ ưa chuộng nhờ khả năng làm mới diện mạo mà không cần thay đổi quá nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T13:00:00+07:00",
+      "fetched": "2026-02-08T21:19:37.626137+07:00"
+    },
+    {
+      "id": "6f70dc63168f5fd366d62f640142a8fd",
+      "title": "Tỉnh nào ở Việt Nam giáp biên giới hai quốc gia?",
+      "link": "https://vnexpress.net/tinh-nao-o-viet-nam-giap-bien-gioi-hai-quoc-gia-5015666.html",
+      "summary": "Việt Nam có hai điểm đến, cùng giáp hai quốc gia láng giềng do nằm giữa ngã ba biên giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T12:41:49+07:00",
+      "fetched": "2026-02-08T21:19:34.425647+07:00"
+    },
+    {
+      "id": "949817917107359c9be170c954a70e37",
+      "title": "Bầu cử Nhật Bản: Liên minh cầm quyền của Thủ tướng Takaichi dự kiến thắng áp đảo",
+      "link": "https://thanhnien.vn/bau-cu-nhat-ban-lien-minh-cam-quyen-cua-thu-tuong-takaichi-du-kien-thang-ap-dao-185260208191643784.htm",
+      "summary": "Liên minh cầm quyền của Thủ tướng Nhật Bản Sanae Takaichi được dự báo sẽ giành chiến thắng áp đảo trong cuộc bầu cử Hạ viện diễn ra hôm nay (8.2), theo báo đài trong nước dẫn kết quả khảo sát cử tri rời phòng phiếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T12:31:00+07:00",
+      "fetched": "2026-02-08T21:19:37.626286+07:00"
+    },
+    {
+      "id": "c44fe289e8012717b04362717f65d4c9",
+      "title": "Tài xế và hành khách kể giây phút thoát khỏi xe giường nằm bốc cháy",
+      "link": "https://vnexpress.net/tai-xe-va-hanh-khach-ke-giay-phut-thoat-khoi-xe-giuong-nam-boc-chay-5015722.html",
+      "summary": "Thấy khói bốc lên kèm tiếng hô hoán của hành khách, tài xế vội cho xe tấp vào lề kiểm tra, nhưng chỉ vài giây sau, lửa đã bao trùm toàn bộ ôtô, khiến hơn 20 người hoảng loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T12:29:19+07:00",
+      "fetched": "2026-02-08T21:19:34.425823+07:00"
+    },
+    {
+      "id": "83b748a729d1952a9a180db9acd1bc79",
+      "title": "Các chuyên gia lạc quan với giá vàng tuần tới",
+      "link": "https://vnexpress.net/cac-chuyen-gia-lac-quan-voi-gia-vang-tuan-toi-5015574.html",
+      "summary": "Hoạt động chốt lời kết thúc, tạo ra điểm mua mới cho nhà đầu tư, là động lực cho giá vàng trở lại mốc 5.000 USD, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T12:23:02+07:00",
+      "fetched": "2026-02-08T21:19:34.426002+07:00"
+    },
+    {
+      "id": "83b748a729d1952a9a180db9acd1bc79",
+      "title": "Các chuyên gia lạc quan với giá vàng tuần tới",
+      "link": "https://vnexpress.net/cac-chuyen-gia-lac-quan-voi-gia-vang-tuan-toi-5015574.html",
+      "summary": "Hoạt động chốt lời kết thúc, tạo ra điểm mua mới cho nhà đầu tư, là động lực cho giá vàng trở lại mốc 5.000 USD, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-08T12:23:02+07:00",
+      "fetched": "2026-02-08T21:19:41.003763+07:00"
     },
     {
       "id": "bd899a48f760e5ab4b6d948ad00a52d3",
