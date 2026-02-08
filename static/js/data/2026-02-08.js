@@ -1,7 +1,157 @@
 window.newsData_2026_02_08 = {
   "date": "2026-02-08",
-  "lastUpdated": "2026-02-08T08:46:24.887352+07:00",
+  "lastUpdated": "2026-02-08T11:26:00.641250+07:00",
   "articles": [
+    {
+      "id": "08fab02a9b70be9417e37402c4829352",
+      "title": "Thông tin mới về thời gian hoàn thành sắp xếp trường học, bệnh viện, thôn, tổ dân phố",
+      "link": "https://tuoitre.vn/thong-tin-moi-ve-thoi-gian-hoan-thanh-sap-xep-truong-hoc-benh-vien-thon-to-dan-pho-20260208093527948.htm",
+      "summary": "Trung ương yêu cầu hoàn thành sắp xếp trường học, bệnh viện, thôn, tổ dân phố, người hoạt động không chuyên trách ở thôn, tổ dân phố phù hợp yêu cầu tình hình mới, hoàn thành trong quý 2-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.439124+07:00",
+      "fetched": "2026-02-08T11:25:55.439236+07:00"
+    },
+    {
+      "id": "f2ebdba984a33f17f6156610ed57a56e",
+      "title": "Cố vượt qua đường sắt dù cần chắn đã hạ, tài xế xe máy bị tàu hỏa húc văng",
+      "link": "https://tuoitre.vn/co-vuot-qua-duong-sat-du-can-chan-da-ha-tai-xe-xe-may-bi-tau-hoa-huc-vang-20260208101550153.htm",
+      "summary": "Cơ quan chức năng nhận định nữ tài xế không chú ý quan sát tại nơi giao nhau với đường sắt dù đã có chuông, đèn cảnh báo; cần chắn an toàn đã hạ. Hậu quả vụ tai nạn khiến chị H. bị thương được đưa đi cấp cứu tại bệnh viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.439000+07:00",
+      "fetched": "2026-02-08T11:25:55.439113+07:00"
+    },
+    {
+      "id": "8e09028a385346ba43d5507353b71904",
+      "title": "Cảnh sát kịp thời cứu 4 người mắc kẹt trong đám cháy ở phường Tân Hưng",
+      "link": "https://tuoitre.vn/canh-sat-kip-thoi-cuu-4-nguoi-mac-ket-trong-dam-chay-o-phuong-tan-hung-20260208101411072.htm",
+      "summary": "Rạng sáng 8-2, ngọn lửa bùng phát dữ dội ở tầng trệt căn nhà trên đường 36, phường Tân Hưng (TP.HCM). Cảnh sát kịp thời có mặt cứu 4 người mắc kẹt ra ngoài an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.438877+07:00",
+      "fetched": "2026-02-08T11:25:55.438989+07:00"
+    },
+    {
+      "id": "dc2864bbeeb1152ada4b5003c763cee8",
+      "title": "Triều Tiên chuẩn bị Đại hội Đảng, hé lộ định hướng sức mạnh hạt nhân",
+      "link": "https://tuoitre.vn/trieu-tien-chuan-bi-dai-hoi-dang-he-lo-dinh-huong-suc-manh-hat-nhan-2026020810271092.htm",
+      "summary": "Triều Tiên sắp bước vào hội nghị chính trị quan trọng cuối tháng, nơi ông Kim Jong Un dự kiến công bố chiến lược đối nội, đối ngoại định hình đất nước trong 5 năm tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.438752+07:00",
+      "fetched": "2026-02-08T11:25:55.438866+07:00"
+    },
+    {
+      "id": "485a455c9428a34a1c4116799d824db6",
+      "title": "Công nhân xây dựng giành HCV đầu tiên Olympic mùa đông 2026",
+      "link": "https://tuoitre.vn/cong-nhan-xay-dung-gianh-hcv-dau-tien-olympic-mua-dong-2026-20260208103454233.htm",
+      "summary": "Không xuất thân từ những học viện hào nhoáng, Franjo von Allmen (Thụy Sĩ) - chủ nhân tấm HCV đầu tiên tại Olympic mùa đông 2026 đã viết nên câu chuyện cổ tích từ những ngày tháng làm việc tại công trường xây dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.438616+07:00",
+      "fetched": "2026-02-08T11:25:55.438740+07:00"
+    },
+    {
+      "id": "323e7a7edb241b966b5a1567b52240f0",
+      "title": "Grammy vẫn đi sau lịch sử",
+      "link": "https://tuoitre.vn/grammy-van-di-sau-lich-su-20260208101151149.htm",
+      "summary": "26 năm trước, trên sân khấu Grammy tay guitar gốc Mexico, Carlos Santana, nhận tới chín giải Grammy cho album Supernatural, trong đó có hạng mục cao nhất Album của năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.438493+07:00",
+      "fetched": "2026-02-08T11:25:55.438606+07:00"
+    },
+    {
+      "id": "ca5f92de1826bce4bcad92bab52111ff",
+      "title": "Trước Tết về với cội rễ",
+      "link": "https://tuoitre.vn/truoc-tet-ve-voi-coi-re-2026020808104696.htm",
+      "summary": "Năm nào cũng vậy, khoảng sau rằm tháng chạp là gia đình tôi luôn nhắn hỏi nhau: ngày nào cùng đi tảo mộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.438367+07:00",
+      "fetched": "2026-02-08T11:25:55.438482+07:00"
+    },
+    {
+      "id": "e0f1adbc8821c5c6ea05081deec339ba",
+      "title": "Premier League: Ai sẽ thoát mùa giải thảm họa?",
+      "link": "https://tuoitre.vn/premier-league-ai-se-thoat-mua-giai-tham-hoa-20260208091646706.htm",
+      "summary": "23h30 ngày 8-2 (giờ Việt Nam) sẽ diễn ra trận cầu tâm điểm vòng 25 Premier League, khi Man City đến làm khách trên sân của Liverpool.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.438227+07:00",
+      "fetched": "2026-02-08T11:25:55.438354+07:00"
+    },
+    {
+      "id": "184114bd596332d71fc490efcb9d948a",
+      "title": "Tác giả của bản hit Kryptonite đình đám qua đời ở tuổi 47",
+      "link": "https://tuoitre.vn/giong-ca-chinh-cua-mot-ban-nhac-rock-noi-tieng-qua-doi-o-tuoi-47-20260208103559597.htm",
+      "summary": "Brad Arnold - ca sĩ chính kiêm thành viên sáng lập ban nhạc rock Mỹ 3 Doors Down đã qua đời ở tuổi 47 sau thời gian điều trị ung thư thận giai đoạn cuối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.438102+07:00",
+      "fetched": "2026-02-08T11:25:55.438215+07:00"
+    },
+    {
+      "id": "07bf0cb57ffb42b2fa8e486e1931fd27",
+      "title": "Bóng bàn Trung Quốc liên tiếp thua sốc Nhật Bản ở giải châu Á",
+      "link": "https://tuoitre.vn/bong-ban-trung-quoc-lien-tiep-thua-soc-nhat-ban-o-giai-chau-a-20260208102005495.htm",
+      "summary": "Trung Quốc liên tiếp phải nhận những thất bại bất ngờ ở Giải bóng bàn châu Á (Asian Cup) 2026, khi lần lượt các tay vợt mạnh bậc nhất nội dung đơn nam và đơn nữ của họ thua sốc các đối thủ người Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.437976+07:00",
+      "fetched": "2026-02-08T11:25:55.438090+07:00"
+    },
+    {
+      "id": "2b04a5f6fb75e4018f2c2c6363df5c40",
+      "title": "Đoạn ân tình này đâu dễ khép?",
+      "link": "https://tuoitre.vn/doan-an-tinh-nay-dau-de-khep-20260208100021732.htm",
+      "summary": "Bộ phim hoạt hình Tiểu yêu quái ở núi Lãng Lãng đang chiếu ở Việt Nam nhận được phản ứng tích cực từ khán giả lẫn giới phê bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.437848+07:00",
+      "fetched": "2026-02-08T11:25:55.437963+07:00"
+    },
+    {
+      "id": "6277e81c732423881a0d95eb1794f123",
+      "title": "Jungkook BTS lọt top nổi tiếng nhất thế giới cùng Ronaldo, Elon Musk",
+      "link": "https://tuoitre.vn/jungkook-bts-lot-top-noi-tieng-nhat-the-gioi-cung-ronaldo-elon-musk-2026020810503489.htm",
+      "summary": "Jungkook (BTS) tiếp tục khẳng định vị thế biểu tượng toàn cầu khi góp mặt trong danh sách 15 nhân vật nổi tiếng nhất thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.437719+07:00",
+      "fetched": "2026-02-08T11:25:55.437836+07:00"
+    },
+    {
+      "id": "eed9e0f39f668f6e05cd6c0945500e23",
+      "title": "Dự báo thời tiết từ 8-2 đến 14-2: Không khí lạnh chi phối, nhiều nơi mưa rét",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-8-2-den-14-2-khong-khi-lanh-chi-phoi-nhieu-noi-mua-ret-20260207150312609.htm",
+      "summary": "Tuần này không khí lạnh vẫn chi phối thời tiết nước ta, phía Bắc mưa rét, miền Trung mưa rào còn miền Nam ngày nắng, đầu sáng mát mẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.437589+07:00",
+      "fetched": "2026-02-08T11:25:55.437707+07:00"
+    },
+    {
+      "id": "2eb2df49531aca7918c92ba4489505aa",
+      "title": "Bệnh viện Đa khoa Thủ Đức trao hơn 5.000 phần quà tại phiên chợ Tết 0 đồng",
+      "link": "https://tuoitre.vn/benh-vien-da-khoa-thu-duc-trao-hon-5-000-phan-qua-tai-phien-cho-tet-0-dong-20260208102920313.htm",
+      "summary": "Sáng 8-2, nhiều người bệnh và người thân đã có mặt, xếp hàng chờ nhận phiếu quà tại phiên chợ Tết 0 đồng do Bệnh viện Đa khoa Thủ Đức (phường Tam Bình, TP.HCM) tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.437448+07:00",
+      "fetched": "2026-02-08T11:25:55.437576+07:00"
+    },
+    {
+      "id": "6aac7af1006172c09f60ed3482bdb59a",
+      "title": "Thuê người yêu về quê ăn Tết, người trẻ đang lừa dối cha mẹ hay tự lừa dối mình?",
+      "link": "https://tuoitre.vn/thue-nguoi-yeu-ve-que-an-tet-nguoi-tre-dang-lua-doi-cha-me-hay-tu-lua-doi-minh-20260207194035214.htm",
+      "summary": "Xu hướng 'thuê người yêu' không còn đơn thuần là chuyện cá nhân, mà còn đặt ra hàng loạt câu hỏi về ranh giới đạo đức, an toàn và nguy cơ vi phạm pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:55.437199+07:00",
+      "fetched": "2026-02-08T11:25:55.437432+07:00"
+    },
     {
       "id": "36a4bcc1e4c53dab20cb22a9bfb08bdc",
       "title": "Thời tiết hôm nay 8-2: Bắc Bộ xuống 3 độ C, Hà Nội 10 độ C",
@@ -133,6 +283,226 @@ window.newsData_2026_02_08 = {
       "fetched": "2026-02-08T08:46:17.901232+07:00"
     },
     {
+      "id": "f42fe7329f8c840c974c081a0d70e692",
+      "title": "Hàng trăm công nhân TP.HCM trổ tài gói bánh tét, nấu mâm cơm tết",
+      "link": "https://thanhnien.vn/hang-tram-cong-nhan-tphcm-tro-tai-goi-banh-tet-nau-mam-com-tet-185260208105113118.htm",
+      "summary": "Sáng 8.2, hơn 300 công nhân tham gia ngày hội Xuân gắn kết - Tết chia sẻ tại TP.HCM, cùng trổ tài gói bánh chưng, bánh tét, nấu mâm cơm ngày Tết và nhận quà xuân ấm áp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T04:16:00+07:00",
+      "fetched": "2026-02-08T11:25:54.683648+07:00"
+    },
+    {
+      "id": "26cc1564a06cc78da627e44778190e84",
+      "title": "Cận cảnh ngôi mộ gần 2.000 năm ở Quảng Ninh",
+      "link": "https://thanhnien.vn/can-canh-ngoi-mo-gan-2000-nam-o-quang-ninh-185260208104121004.htm",
+      "summary": "Ngôi mộ gần 2.000 năm vừa phát lộ tại Quảng Ninh cho thấy quy mô lớn, cấu trúc mộ gạch phức tạp và nhiều hiện vật quý, góp thêm tư liệu quan trọng về văn hóa vùng sông Bạch Đằng đầu Công nguyên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T04:14:00+07:00",
+      "fetched": "2026-02-08T11:25:54.683816+07:00"
+    },
+    {
+      "id": "b68c46201ae8d9db349907af6dbedc0b",
+      "title": "Khởi tố chủ cơ sở dùng chất kích thích sản xuất gần 2,8 tấn giá đỗ",
+      "link": "https://thanhnien.vn/khoi-to-chu-co-so-dung-chat-kich-thich-san-xuat-gan-28-tan-gia-do-185260208105615744.htm",
+      "summary": "Trần Quốc Đại, chủ cơ sở kinh doanh Thiên Ân ở P.Duy Hà (Ninh Bình) đã sử dụng chất 6-benzylaminopurine - chất kích thích tăng trưởng có hại cho sức khỏe để sản xuất gần 2,8 tấn giá đỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T04:10:00+07:00",
+      "fetched": "2026-02-08T11:25:54.683973+07:00"
+    },
+    {
+      "id": "0d8f5d37ce9959418968b5b0df9539f1",
+      "title": "Bắt nhóm chuyên cắt trộm dây cáp điện các công trình ở Gia Lai",
+      "link": "https://thanhnien.vn/bat-nhom-chuyen-cat-trom-day-cap-dien-cac-cong-trinh-o-gia-lai-185260208104754897.htm",
+      "summary": "Ngày 8.2, Công an phường Tam Quan (tỉnh Gia Lai) cho biết đã điều tra, làm rõ và bắt giữ nhóm nghi phạm chuyên cắt trộm dây cáp điện tại các công trình trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T04:03:00+07:00",
+      "fetched": "2026-02-08T11:25:54.684127+07:00"
+    },
+    {
+      "id": "19b193571628cd82e38c0cfa200a7b47",
+      "title": "Xem nhanh 12h: Cận cảnh quy trình làm đẹp không phép | Khách sạn gỡ 79 kg vàng lát sàn đem bán",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-can-canh-quy-trinh-lam-dep-khong-phep-khach-san-go-79-kg-vang-lat-san-dem-ban-185260208104626068.htm",
+      "summary": "Làm đẹp không phép ở Đà Nẵng, khách sạn gỡ vàng lát sàn đem bán, thi công đường Lò Lu bụi mù mịt… sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 8.2.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T04:00:00+07:00",
+      "fetched": "2026-02-08T11:25:54.684279+07:00"
+    },
+    {
+      "id": "eb2e28cd58ff4fab37854b55ef915432",
+      "title": "Việt Nam có tiềm năng xuất khẩu giáo dục, vì sao?",
+      "link": "https://thanhnien.vn/viet-nam-co-tiem-nang-xuat-khau-giao-duc-vi-sao-185260208100818866.htm",
+      "summary": "Là nước có nhiều hình thức giáo dục xuyên quốc gia (TNE) và ngày càng thu hút sinh viên quốc tế, Việt Nam được cho có nhiều tiềm năng trở thành trung tâm giáo dục quốc tế, thậm chí là xuất khẩu giáo dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:58:00+07:00",
+      "fetched": "2026-02-08T11:25:54.684449+07:00"
+    },
+    {
+      "id": "b048a67b6c8b308309283a311810f0ee",
+      "title": "Lễ hội ẩm thực xuân ở Cần Giờ đông nghịt khách",
+      "link": "https://thanhnien.vn/le-hoi-am-thuc-xuan-o-can-gio-dong-nghit-khach-185260208095344736.htm",
+      "summary": "Tối 7.2, khu vực lễ hội ẩm thực xuân tại Cần Giờ chật kín người dân địa phương và du khách đến thưởng thức các món ăn truyền thống trong không khí tết rộn ràng. Dòng người nối dài trước các gian hàng, tạo nên khung cảnh mua bán, ăn uống nhộn nhịp hiếm thấy ở xã đảo những năm trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:57:00+07:00",
+      "fetched": "2026-02-08T11:25:54.684600+07:00"
+    },
+    {
+      "id": "5dff719700b621b4788366c61339003a",
+      "title": "Liên tiếp phát hiện rong biển khô, cà phê bột giả ở Đà Nẵng",
+      "link": "https://vnexpress.net/lien-tiep-phat-hien-rong-bien-kho-ca-phe-bot-gia-o-da-nang-5015628.html",
+      "summary": "Trong ba ngày, Công an Đà Nẵng triệt phá hai đường dây sản xuất thực phẩm giả, thu giữ hàng nghìn sản phẩm rong mứt và gần một tấn cà phê bột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:47:30+07:00",
+      "fetched": "2026-02-08T11:25:51.769853+07:00"
+    },
+    {
+      "id": "7f2b5f6e7610c01879ddb7c19d0acc34",
+      "title": "Phương Mỹ Chi đánh trống khi diễn hit 'Buôn trăng'",
+      "link": "https://vnexpress.net/phuong-my-chi-danh-trong-khi-dien-hit-buon-trang-5015618.html",
+      "summary": "Ca sĩ Phương Mỹ Chi đánh trống khi diễn \"Buôn trăng\" cùng các nghệ sĩ dàn nhạc dân tộc tại sự kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:44:21+07:00",
+      "fetched": "2026-02-08T11:25:51.770032+07:00"
+    },
+    {
+      "id": "d6c1a88d4fd87c4e44a278a7702309b4",
+      "title": "Cháy nhà ở TP.HCM, cảnh sát lao vào lửa dữ cứu 4 người dân thoát nạn",
+      "link": "https://thanhnien.vn/chay-nha-o-tphcm-canh-sat-lao-vao-lua-du-cuu-4-nguoi-dan-thoat-nan-185260208102434919.htm",
+      "summary": "Đám cháy bùng phát lúc rạng sáng 8.2 tại một căn nhà kết hợp kinh doanh ở phường Tân Hưng (quận 7 cũ), khiến khói dày đặc, không lối thoát. Công an TP.HCM kịp thời tiếp cận, giải cứu 2 người lớn và 2 trẻ em thoát ra ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:42:00+07:00",
+      "fetched": "2026-02-08T11:25:54.684751+07:00"
+    },
+    {
+      "id": "26eb4f6935cb43af072e64b25c7858ee",
+      "title": "iPhone 17 Pro Max trở thành 'nhà vô địch' về sức bền pin",
+      "link": "https://thanhnien.vn/iphone-17-pro-max-tro-thanh-nha-vo-dich-ve-suc-ben-pin-185260206132344572.htm",
+      "summary": "Apple vượt mặt dàn flagship Android trong bài kiểm tra pin khắc nghiệt nhất năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:41:00+07:00",
+      "fetched": "2026-02-08T11:25:54.684909+07:00"
+    },
+    {
+      "id": "7266462eba156fedf38566177926046c",
+      "title": "'Lão mai' 150 tuổi ở Cần Giờ đẹp cỡ nào mà du khách háo hức chụp ảnh?",
+      "link": "https://thanhnien.vn/lao-mai-150-tuoi-o-can-gio-dep-co-nao-ma-du-khach-hao-huc-chup-anh-185260208102737775.htm",
+      "summary": "Xuất hiện lần đầu tại Cần Giờ trong khuôn khổ Lễ hội xuân 2026, gốc mai Phú Quý cổ thụ hơn 150 năm tuổi được vận chuyển từ An Giang đã nhanh chóng trở thành tâm điểm, thu hút đông đảo người dân địa phương và du khách đến tham quan, chụp ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:40:00+07:00",
+      "fetched": "2026-02-08T11:25:54.685059+07:00"
+    },
+    {
+      "id": "439fd55856026b15e72eb706846ef6dd",
+      "title": "Messi mở tài khoản bàn thắng đầu tiên năm 2026, lập siêu phẩm và kiến tạo: Chỉ tiếc hòa Barcelona Ecuador",
+      "link": "https://thanhnien.vn/messi-mo-tai-khoan-ban-thang-dau-tien-nam-2026-lap-sieu-pham-va-kien-tao-chi-tiec-hoa-barcelona-ecuador-185260208103239744.htm",
+      "summary": "Sáng 8.2 (giờ Việt Nam), Messi ghi bàn thắng tuyệt đẹp và góp kiến tạo, trong trận du đấu Inter Miami hòa CLB Barcelona SC của Ecuador với tỷ số 2-2. Danh thủ người Argentina bắt đầu năm 2026 với phong độ đầy hứa hẹn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:35:00+07:00",
+      "fetched": "2026-02-08T11:25:54.685206+07:00"
+    },
+    {
+      "id": "6a9b357f494767e3818e9a31a1672963",
+      "title": "Tuấn Trần ngồi xe lăn ra mắt phim cùng Phương Anh Đào",
+      "link": "https://thanhnien.vn/tuan-tran-ngoi-xe-lan-ra-mat-phim-cung-phuong-anh-dao-185260208095732384.htm",
+      "summary": "Xuất hiện tại buổi ra mắt phim điện ảnh mới, Tuấn Trần khiến nhiều người không khỏi bất ngờ khi phải ngồi xe lăn để di chuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:35:00+07:00",
+      "fetched": "2026-02-08T11:25:54.685375+07:00"
+    },
+    {
+      "id": "5b3ab580bd7f0366a795dd92994be3c5",
+      "title": "Cần Thơ trao 81 giải tại liên hoan nghệ thuật mừng Xuân Bính Ngọ 2026",
+      "link": "https://thanhnien.vn/can-tho-trao-81-giai-tai-lien-hoan-nghe-thuat-mung-xuan-binh-ngo-2026-185260208090016821.htm",
+      "summary": "Sau 5 đêm thi diễn, ban tổ chức quyết định trao 81 giải tại liên hoan \"Ca nhạc, ca cổ, tiểu phẩm xuân\" TP.Cần Thơ năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:35:00+07:00",
+      "fetched": "2026-02-08T11:25:54.685527+07:00"
+    },
+    {
+      "id": "548751d797f8994de111f62338f89d23",
+      "title": "Messi độc diễn ghi bàn trong trận hòa của Inter Miami",
+      "link": "https://vnexpress.net/messi-doc-dien-ghi-ban-trong-tran-hoa-cua-inter-miami-5015625.html",
+      "summary": "Lionel Messi tỏa sáng với một bàn đậm dấu ấn cá nhân và một kiến tạo, nhưng Inter Miami vẫn bị Barcelona SC cầm hòa 2-2 trong trận giao hữu tiền mùa giải diễn ra tại Quito.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:32:11+07:00",
+      "fetched": "2026-02-08T11:25:51.770204+07:00"
+    },
+    {
+      "id": "548751d797f8994de111f62338f89d23",
+      "title": "Messi độc diễn ghi bàn trong trận hòa của Inter Miami",
+      "link": "https://vnexpress.net/messi-doc-dien-ghi-ban-trong-tran-hoa-cua-inter-miami-5015625.html",
+      "summary": "Lionel Messi tỏa sáng với một bàn đậm dấu ấn cá nhân và một kiến tạo, nhưng Inter Miami vẫn bị Barcelona SC cầm hòa 2-2 trong trận giao hữu tiền mùa giải diễn ra tại Quito.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-08T03:32:11+07:00",
+      "fetched": "2026-02-08T11:26:00.635151+07:00"
+    },
+    {
+      "id": "3bbce05885c5b4802497ded17d3e39ce",
+      "title": "Ngỡ ngàng bãi đá có họa tiết lạ giữa Vườn quốc gia Yók Đôn",
+      "link": "https://thanhnien.vn/ngo-ngang-bai-da-co-hoa-tiet-la-giua-vuon-quoc-gia-yok-don-185260207211204452.htm",
+      "summary": "Trong quá trình tuần tra, cán bộ kiểm lâm đã phát hiện bãi đá có họa tiết uốn lượn được xếp đặt ngăn nắp tại Vườn quốc gia Yók Đôn (Đắk Lắk), thu hút sự chú ý của nhiều người dân, nhà nghiên cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:29:00+07:00",
+      "fetched": "2026-02-08T11:25:54.685680+07:00"
+    },
+    {
+      "id": "168e33de360fa61525f44c8cb2ae0b59",
+      "title": "Brooklyn Beckham xóa hình xăm gia đình",
+      "link": "https://vnexpress.net/brooklyn-beckham-xoa-hinh-xam-gia-dinh-5015617.html",
+      "summary": "Brooklyn, con cả David Beckham, xóa hình xăm bố mẹ và các em giữa những căng thẳng, bất hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:26:12+07:00",
+      "fetched": "2026-02-08T11:25:51.770381+07:00"
+    },
+    {
+      "id": "ba2585771a9c09ba09ae55e88d8cfaf3",
+      "title": "Đình Bắc tái hiện khoảnh khắc ăn mừng trên sân khấu WeChoice Awards, ‘cương quyết’ không chịu hé lộ bí mật…",
+      "link": "https://thanhnien.vn/dinh-bac-tai-hien-khoanh-khac-an-mung-tren-san-khau-wechoice-awards-cuong-quyet-khong-chiu-he-lo-bi-mat-185260208101419475.htm",
+      "summary": "Đình Bắc vừa được vinh danh trong 10 nhân vật truyền cảm hứng tại WeChoice Awards 2025. Tiền đạo 22 tuổi cũng gây ấn tượng với màn tái hiện bàn thắng lịch sử ở đấu trường U.23 châu Á hay phần giao lưu bằng tiếng Nghệ An cùng MC Khánh Vy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:26:00+07:00",
+      "fetched": "2026-02-08T11:25:54.685831+07:00"
+    },
+    {
+      "id": "bec925587ba485bc17ebc2ffdc2b8e6f",
+      "title": "Chủ chuỗi Long Châu lên kế hoạch lợi nhuận 2026 kỷ lục",
+      "link": "https://vnexpress.net/chu-chuoi-long-chau-len-ke-hoach-loi-nhuan-2026-ky-luc-5015576.html",
+      "summary": "FPT Retail, công ty mẹ của chuỗi thuốc Long Châu, đặt mục tiêu thu về 1.550 tỷ đồng lợi nhuận trước năm 2026, tăng 27% so với năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:24:12+07:00",
+      "fetched": "2026-02-08T11:25:51.770541+07:00"
+    },
+    {
+      "id": "bec925587ba485bc17ebc2ffdc2b8e6f",
+      "title": "Chủ chuỗi Long Châu lên kế hoạch lợi nhuận 2026 kỷ lục",
+      "link": "https://vnexpress.net/chu-chuoi-long-chau-len-ke-hoach-loi-nhuan-2026-ky-luc-5015576.html",
+      "summary": "FPT Retail, công ty mẹ của chuỗi thuốc Long Châu, đặt mục tiêu thu về 1.550 tỷ đồng lợi nhuận trước năm 2026, tăng 27% so với năm ngoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-08T03:24:12+07:00",
+      "fetched": "2026-02-08T11:25:57.300499+07:00"
+    },
+    {
       "id": "aa3a35b0c7de6fca02ada5e793e68960",
       "title": "Dư luận Thái Lan: 'Chúng ta đã không còn đứng đầu ở bất kỳ môn bóng đá nào'",
       "link": "https://tuoitre.vn/du-luan-thai-lan-chung-ta-da-khong-con-dung-dau-o-bat-ky-mon-bong-da-nao-2026020722453872.htm",
@@ -151,6 +521,186 @@ window.newsData_2026_02_08 = {
       "category": "Tổng hợp",
       "published": "2026-02-08T03:16:00.141113+07:00",
       "fetched": "2026-02-08T03:16:00.141373+07:00"
+    },
+    {
+      "id": "b3b7431426bb1d2d578f79ef9a87ba3b",
+      "title": "Tôi phát bực vì mua một phần đồ ăn nhưng nhận về 10 túi nilon",
+      "link": "https://vnexpress.net/rac-thai-nhua-toi-phat-buc-vi-mua-mot-phan-do-an-nhung-nhan-ve-10-tui-nilon-5015610.html",
+      "summary": "Tôi mua một phần đồ ăn nhỏ, người bán cho hết vào một túi nilon. Trong túi đó, các món lại được chia thành cả chục túi nilon nhỏ hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:11:16+07:00",
+      "fetched": "2026-02-08T11:25:51.770696+07:00"
+    },
+    {
+      "id": "abd4de9a4e0e16a3922b3b23a578ce64",
+      "title": "Đội trưởng Tạ phim 'Mưa đỏ' đóng MV của Đàm Vĩnh Hưng",
+      "link": "https://vnexpress.net/doi-truong-ta-phim-mua-do-dong-mv-cua-dam-vinh-hung-5012758.html",
+      "summary": "Phương Nam - đội trưởng Tạ phim \"Mưa đỏ\" - cùng Lâm Thanh Nhã diễn xuất trong MV \"Xuân của lính xa nhà\" của Đàm Vĩnh Hưng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:10:52+07:00",
+      "fetched": "2026-02-08T11:25:51.770849+07:00"
+    },
+    {
+      "id": "b7585f6bd8ec7c7cc027244654818a8f",
+      "title": "Hoa hậu, á hậu diễn 'Táo Xuân' cùng nghệ sĩ gạo cội",
+      "link": "https://vnexpress.net/hoa-hau-a-hau-dien-tao-xuan-cung-nghe-si-gao-coi-5015593.html",
+      "summary": "Hoa hậu Yến Nhi, Á hậu Ngọc Hằng tham gia chương trình Táo Xuân chào năm Bính Ngọ cùng nghệ sĩ Kim Tử Long, Trịnh Kim Chi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:05:53+07:00",
+      "fetched": "2026-02-08T11:25:51.771012+07:00"
+    },
+    {
+      "id": "7d021a000cf69f0c8bd93f77451c70f0",
+      "title": "5 cuốn sách giúp Thanh Trúc vượt khủng hoảng",
+      "link": "https://vnexpress.net/5-cuon-sach-giup-thanh-truc-vuot-khung-hoang-5014159.html",
+      "summary": "Diễn viên Thanh Trúc nói đọc \"Người nam châm\" (Jack Canfield), \"Hiểu về trái tim\" (Minh Niệm) giúp cô lấy lại tinh thần sau đổ vỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:04:40+07:00",
+      "fetched": "2026-02-08T11:25:51.771165+07:00"
+    },
+    {
+      "id": "e8004fa23fcac06dfdb22f3f68e51f33",
+      "title": "Palmer đi vào lịch sử Chelsea",
+      "link": "https://vnexpress.net/palmer-di-vao-lich-su-chelsea-5015581.html",
+      "summary": "Tiền đạo 23 tuổi Cole Palmer phá kỷ lục về số hat-trick của một cầu thủ Chelsea tại Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:04:33+07:00",
+      "fetched": "2026-02-08T11:25:51.771317+07:00"
+    },
+    {
+      "id": "e8004fa23fcac06dfdb22f3f68e51f33",
+      "title": "Palmer đi vào lịch sử Chelsea",
+      "link": "https://vnexpress.net/palmer-di-vao-lich-su-chelsea-5015581.html",
+      "summary": "Tiền đạo 23 tuổi Cole Palmer phá kỷ lục về số hat-trick của một cầu thủ Chelsea tại Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-08T03:04:33+07:00",
+      "fetched": "2026-02-08T11:26:00.635305+07:00"
+    },
+    {
+      "id": "15e086cfddadc9344b5993cb95670440",
+      "title": "Trẻ khó bú có phải do dính thắng lưỡi?",
+      "link": "https://vnexpress.net/tre-kho-bu-co-phai-do-dinh-thang-luoi-5015516.html",
+      "summary": "Bé nhà tôi 2 tuần tuổi, khó bú mẹ, hay sặc. Có phải bé bị dính thắng lưỡi không, có tự hết hay phải điều trị? (Mỹ Hà, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:00:00+07:00",
+      "fetched": "2026-02-08T11:25:51.771498+07:00"
+    },
+    {
+      "id": "d05c1327046e4e3e5cfcea91e9ac7257",
+      "title": "Tim mạch thay đổi như thế nào sau tuổi 50",
+      "link": "https://vnexpress.net/tim-mach-thay-doi-nhu-the-nao-sau-tuoi-50-5015515.html",
+      "summary": "Sau độ tuổi 50, động mạch giảm đàn hồi, làm tăng nguy cơ huyết áp cao, nguy cơ hình thành mảng xơ vữa nếu không có lối sống khoa học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:00:00+07:00",
+      "fetched": "2026-02-08T11:25:51.771657+07:00"
+    },
+    {
+      "id": "db632ef729e612a268f36569d997da21",
+      "title": "Robot hình người trình diễn võ Thiếu Lâm",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-trinh-dien-vo-thieu-lam-5015563.html",
+      "summary": "Mẫu robot hình người X2 của Agibot trình diễn múa quyền Thiếu Lâm cùng các sư thầy tại một ngôi chùa ở Hà Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T02:57:43+07:00",
+      "fetched": "2026-02-08T11:25:51.771815+07:00"
+    },
+    {
+      "id": "28b71d891b2451e3214d444ba46f16f1",
+      "title": "Fernandes ca ngợi thông điệp gắn kết của HLV Carrick",
+      "link": "https://vnexpress.net/fernandes-ca-ngoi-thong-diep-gan-ket-cua-hlv-carrick-5015582.html",
+      "summary": "Sau trận thắng Tottenham ở vòng 25 Ngoại hạng Anh, đội trưởng Bruno Fernandes ca ngợi HLV Michael Carrick mang lại tinh thần đoàn kết, sự tự do và trách nhiệm cho cầu thủ Man Utd.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T02:56:43+07:00",
+      "fetched": "2026-02-08T11:25:51.771971+07:00"
+    },
+    {
+      "id": "28b71d891b2451e3214d444ba46f16f1",
+      "title": "Fernandes ca ngợi thông điệp gắn kết của HLV Carrick",
+      "link": "https://vnexpress.net/fernandes-ca-ngoi-thong-diep-gan-ket-cua-hlv-carrick-5015582.html",
+      "summary": "Sau trận thắng Tottenham ở vòng 25 Ngoại hạng Anh, đội trưởng Bruno Fernandes ca ngợi HLV Michael Carrick mang lại tinh thần đoàn kết, sự tự do và trách nhiệm cho cầu thủ Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-08T02:56:43+07:00",
+      "fetched": "2026-02-08T11:26:00.635483+07:00"
+    },
+    {
+      "id": "b3b2f375aaa6ac94e4a5d3e95562eb7a",
+      "title": "Trần Trung Kiên mất ngủ, sụt 8 kg sau U23 châu Á 2026",
+      "link": "https://vnexpress.net/tran-trung-kien-mat-ngu-sut-8-kg-sau-u23-chau-a-2026-5015537.html",
+      "summary": "HLV của CLB HAGL Lê Quang Trãi tiết lộ thủ môn Trần Trung Kiên từng bị áp lực đè nặng sau khi Việt Nam thua Trung Quốc ở bán kết U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T02:40:42+07:00",
+      "fetched": "2026-02-08T11:25:51.772122+07:00"
+    },
+    {
+      "id": "b3b2f375aaa6ac94e4a5d3e95562eb7a",
+      "title": "Trần Trung Kiên mất ngủ, sụt 8 kg sau U23 châu Á 2026",
+      "link": "https://vnexpress.net/tran-trung-kien-mat-ngu-sut-8-kg-sau-u23-chau-a-2026-5015537.html",
+      "summary": "HLV của CLB HAGL Lê Quang Trãi tiết lộ thủ môn Trần Trung Kiên từng bị áp lực đè nặng sau khi Việt Nam thua Trung Quốc ở bán kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-08T02:40:42+07:00",
+      "fetched": "2026-02-08T11:26:00.634157+07:00"
+    },
+    {
+      "id": "50b754763f7e5ca1f889ad971805c51e",
+      "title": "Arteta: 'Cách biệt 9 điểm của Arsenal không mang nhiều ý nghĩa'",
+      "link": "https://vnexpress.net/arteta-cach-biet-9-diem-cua-arsenal-khong-mang-nhieu-y-nghia-5015579.html",
+      "summary": "HLV Mikel Arteta khẳng định cuộc đua vô địch chưa ngã ngũ, dù Arsenal đã nới rộng khoảng cách lên 9 điểm trên đỉnh bảng Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-08T02:14:09+07:00",
+      "fetched": "2026-02-08T11:26:00.634331+07:00"
+    },
+    {
+      "id": "e8802e8f52e4ec04473c4fc0441a2d02",
+      "title": "Người Nhật đi bỏ phiếu giữa tuyết rơi kỷ lục",
+      "link": "https://vnexpress.net/nguoi-nhat-di-bo-phieu-giua-tuyet-roi-ky-luc-5015600.html",
+      "summary": "Cử tri Nhật đi bỏ phiếu trong cuộc bầu cử có thể định đoạt số phận chính trị của Thủ tướng Takaichi, khi nhiều vùng trên đất nước ghi nhận tuyết rơi kỷ lục.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-08T02:08:50+07:00",
+      "fetched": "2026-02-08T11:25:56.443967+07:00"
+    },
+    {
+      "id": "5d03d4b502516831ddf79521534254b7",
+      "title": "Nín thở đưa con đi học vì nỗi lo đặc vụ chặn đường ở Minnesota",
+      "link": "https://vnexpress.net/nin-tho-dua-con-di-hoc-vi-noi-lo-dac-vu-chan-duong-o-minnesota-5013790.html",
+      "summary": "Chiến dịch trấn áp nhập cư đang tạo ra tâm lý hoảng loạn tại Minnesota, khiến ngay cả việc đi học của trẻ em cũng trở nên căng thẳng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-08T02:00:00+07:00",
+      "fetched": "2026-02-08T11:25:56.444140+07:00"
+    },
+    {
+      "id": "6964433957ee76b45fd01b04a91af46a",
+      "title": "Những cư dân nông thôn đứng sau cuộc cách mạng AI toàn cầu",
+      "link": "https://vnexpress.net/nhung-cu-dan-nong-thon-dung-sau-cuoc-cach-mang-ai-toan-cau-5015505.html",
+      "summary": "Nhân lực giá rẻ ở vùng nông thôn Ấn Độ đang trở thành những người xây dựng mô hình AI hiện đại, thúc đẩy cuộc cách mạng toàn cầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-08T02:00:00+07:00",
+      "fetched": "2026-02-08T11:25:59.802875+07:00"
+    },
+    {
+      "id": "5c66523e7510a0343d4255e8290f6c43",
+      "title": "Mỹ tuyên án 'gã quái vật' bỏ mặc gần 200 thi thể nằm chất đống",
+      "link": "https://vnexpress.net/my-tuyen-an-ga-quai-vat-bo-mac-gan-200-thi-the-nam-chat-dong-5015594.html",
+      "summary": "Chủ nhà tang lễ Jon Hallford bị tuyên 40 năm tù vì thu tiền hỏa táng nhưng bỏ mặc 189 thi thể chất đống trong kho rồi trao tro cốt giả cho gia đình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-08T01:46:26+07:00",
+      "fetched": "2026-02-08T11:25:56.444303+07:00"
     },
     {
       "id": "cce0a343bd605c1664496dc0c9c94d68",
@@ -221,6 +771,16 @@ window.newsData_2026_02_08 = {
       "category": "Tổng hợp",
       "published": "2026-02-08T01:30:00+07:00",
       "fetched": "2026-02-08T08:46:13.612936+07:00"
+    },
+    {
+      "id": "72bc9f4e04a72ea58c00bc9014189854",
+      "title": "Sự thật về 'hóa chất vĩnh cửu' khiến Estée Lauder mất 14 tỷ đồng",
+      "link": "https://vnexpress.net/su-that-ve-hoa-chat-vinh-cuu-khien-estee-lauder-mat-14-ty-dong-5015364.html",
+      "summary": "PFAS được gọi là “hóa chất vĩnh cửu”, bởi tính tồn tại “truyền đời” trong cơ thể sống và môi trường, thường ứng dụng trong bút kẻ mắt, chảo chống dính, giấy bọc thực phẩm…",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-08T01:26:57+07:00",
+      "fetched": "2026-02-08T11:25:57.300677+07:00"
     },
     {
       "id": "805191238135d41b821c203d4ec714ff",
