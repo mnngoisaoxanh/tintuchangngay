@@ -1,7 +1,157 @@
 window.newsData_2026_02_08 = {
   "date": "2026-02-08",
-  "lastUpdated": "2026-02-08T17:17:12.818321+07:00",
+  "lastUpdated": "2026-02-08T19:28:25.871512+07:00",
   "articles": [
+    {
+      "id": "21c0ea062edd7524630b15ee23638314",
+      "title": "Nhiều xe khách vi phạm bị xử lý nghiêm dịp cận Tết 2026",
+      "link": "https://tuoitre.vn/nhieu-xe-khach-vi-pham-bi-xu-ly-nghiem-dip-can-tet-2026-20260208165213087.htm",
+      "summary": "Ngày 8-2, nhiều đội cảnh sát giao thông TP.HCM tăng cường tuần tra, kiểm soát, xử lý xe khách giường nằm vi phạm các lỗi đón khách không đúng nơi quy định, chở khách không có tên trong danh sách...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.166842+07:00",
+      "fetched": "2026-02-08T19:28:18.166955+07:00"
+    },
+    {
+      "id": "218f368da7020128b847d0a040f28493",
+      "title": "Tốc độ tối đa, tối thiểu cùng 50km/h trên cao tốc; Món ăn từ ốc phần lớn là ốc bươu vàng?",
+      "link": "https://tuoitre.vn/toc-do-toi-da-toi-thieu-cung-50km-h-tren-cao-toc-mon-an-tu-oc-phan-lon-la-oc-buou-vang-20260207233143894.htm",
+      "summary": "Những thông tin mà bạn đọc quan tâm, phản hồi tuần qua: Tốc độ tối đa và tối thiểu đều cùng 50km/h trên cao tốc, Ốc bươu vàng lên bàn ăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.166718+07:00",
+      "fetched": "2026-02-08T19:28:18.166831+07:00"
+    },
+    {
+      "id": "68b05c5fd141424f62353f40fad7d237",
+      "title": "Đi du lịch ở Bali, du khách Ấn Độ cũng bị dụ đánh bạc trên mạng",
+      "link": "https://tuoitre.vn/di-du-lich-o-bali-du-khach-an-do-cung-bi-du-danh-bac-tren-mang-20260208174426688.htm",
+      "summary": "39 người Ấn Độ thất nghiệp được đồng hương thuê điều hành đường dây đánh bạc tại Bali với lương 296 USD/tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.166590+07:00",
+      "fetched": "2026-02-08T19:28:18.166706+07:00"
+    },
+    {
+      "id": "87c05923e027f3deb90dce40cb40e524",
+      "title": "Khởi tố 9 thanh thiếu niên trong vụ cướp, chém người ở Châu Đốc",
+      "link": "https://tuoitre.vn/khoi-to-9-thanh-thieu-nien-trong-vu-cuop-chem-nguoi-o-chau-doc-20260208165038416.htm",
+      "summary": "Công an tỉnh An Giang đã khởi tố 9 thanh thiếu niên thực hiện nhiều vụ cướp xe, chém người náo loạn trong đêm ở Châu Đốc vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.166459+07:00",
+      "fetched": "2026-02-08T19:28:18.166579+07:00"
+    },
+    {
+      "id": "bb7a84cc4bcf4a03e78f2c892f4c5a14",
+      "title": "Nga bắt được nghi phạm ám sát hụt tướng tình báo",
+      "link": "https://tuoitre.vn/nga-bat-duoc-nghi-pham-am-sat-hut-tuong-tinh-bao-20260208173333631.htm",
+      "summary": "Nghi phạm nam giới, bị bắt tại Dubai do bị tình nghi là người đã bắn trọng thương tướng tình báo quân đội Vladimir Alexeyev.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.166330+07:00",
+      "fetched": "2026-02-08T19:28:18.166447+07:00"
+    },
+    {
+      "id": "5cffa1880d95f6db3cd8890e4496e9e9",
+      "title": "Xe khách giường nằm bốc cháy dữ dội, tài xế bình tĩnh giúp hành khách thoát nạn",
+      "link": "https://tuoitre.vn/xe-khach-giuong-nam-boc-chay-du-doi-tai-xe-binh-tinh-giup-hanh-khach-thoat-nan-20260208164606809.htm",
+      "summary": "Chiếc xe khách đang chạy trên đường bỗng cháy dữ dội rồi lan nhanh, ngọn lửa bao trùm toàn bộ thân xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.166181+07:00",
+      "fetched": "2026-02-08T19:28:18.166318+07:00"
+    },
+    {
+      "id": "c58034860129e96c4d327e7f945a73e8",
+      "title": "Ấm áp chợ Tết Công đoàn 'Tết sum vầy - Xuân ơn Đảng'",
+      "link": "https://tuoitre.vn/am-ap-cho-tet-cong-doan-tet-sum-vay-xuan-on-dang-20260208170102676.htm",
+      "summary": "Ngày 8-2, tại Cung văn hóa Lao động Hữu nghị Việt Xô, Liên đoàn Lao động TP Hà Nội tổ chức chương trình \"Tết sum vầy - Xuân ơn Đảng\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.166049+07:00",
+      "fetched": "2026-02-08T19:28:18.166169+07:00"
+    },
+    {
+      "id": "2a2f7ab95d3905b51209783489e04a7f",
+      "title": "Bad Bunny, Charlie Puth cùng loạt sao góp mặt tại Super Bowl 2026",
+      "link": "https://tuoitre.vn/bad-bunny-charlie-puth-cung-loat-sao-gop-mat-tai-super-bowl-2026-20260208180054338.htm",
+      "summary": "Không chỉ là trận đấu bóng bầu dục được mong đợi nhất trong năm, Super Bowl 2026 còn thu hút sự chú ý toàn cầu khi hàng loạt ngôi sao đồng loạt xuất hiện tại California trước ngày thi đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.165923+07:00",
+      "fetched": "2026-02-08T19:28:18.166037+07:00"
+    },
+    {
+      "id": "5f436e9572cbb02f1a98e9b4b44c8214",
+      "title": "Triệt phá nhóm trộm mèo lớn ở TP.HCM, chuyên dụ mèo bằng... cá chiên",
+      "link": "https://tuoitre.vn/triet-pha-nhom-trom-meo-lon-o-tp-hcm-chuyen-du-meo-bang-ca-chien-20260208171026528.htm",
+      "summary": "Công an xã Đông Thạnh (TP.HCM) đã triệt phá một nhóm trộm mèo liều lĩnh, sẵn sàng chống trả bằng hơi cay khi bị truy đuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.165798+07:00",
+      "fetched": "2026-02-08T19:28:18.165912+07:00"
+    },
+    {
+      "id": "c035f014486816e6c02d3cd55bbb2de0",
+      "title": "Bán hơn 10.000 chai nước hoa giả thương hiệu lớn, 4 người ở TP.HCM bị bắt",
+      "link": "https://tuoitre.vn/ban-hon-10-000-chai-nuoc-hoa-gia-thuong-hieu-lon-4-nguoi-o-tp-hcm-bi-bat-20260208174308441.htm",
+      "summary": "Phòng Cảnh sát kinh tế Công an TP.HCM vừa phát hiện nhiều địa điểm kinh doanh mỹ phẩm đã bán ra thị trường hơn 10.000 chai nước hoa giả các thương hiệu nổi tiếng, trị giá tương đương hàng thật 10 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.165669+07:00",
+      "fetched": "2026-02-08T19:28:18.165786+07:00"
+    },
+    {
+      "id": "d090ec1971a62f8869a921badc5f9e28",
+      "title": "Bóng chuyền nam Việt Nam lại nhận thêm tin buồn",
+      "link": "https://tuoitre.vn/bong-chuyen-nam-viet-nam-lai-nhan-them-tin-buon-20260208173926388.htm",
+      "summary": "Mới đây, Liên đoàn Bóng chuyền châu Á (AVC) đã công bố danh sách 12 đội góp mặt ở Giải vô địch bóng chuyền nam châu Á 2026, và Việt Nam lại không có tên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.165542+07:00",
+      "fetched": "2026-02-08T19:28:18.165657+07:00"
+    },
+    {
+      "id": "8387defc6b72395f6635523477b851db",
+      "title": "Phạm Quang Huy giành huy chương bạc bắn súng châu Á",
+      "link": "https://tuoitre.vn/pham-quang-huy-gianh-huy-chuong-bac-ban-sung-chau-a-20260208181606207.htm",
+      "summary": "Ngày 8-2, Phạm Quang Huy và Hà Minh Thành mang về cho tuyển bắn súng Việt Nam tấm huy chương bạc nội dung 25m súng ngắn tiêu chuẩn đồng đội nam ở Giải vô địch súng ngắn, súng trường châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.165412+07:00",
+      "fetched": "2026-02-08T19:28:18.165530+07:00"
+    },
+    {
+      "id": "ee179ceaa6d5f4f7d93aa6c3d4291640",
+      "title": "Hai tuyến đường sắt đô thị ở Hà Nội tăng khung giờ cao điểm chạy tàu",
+      "link": "https://tuoitre.vn/hai-tuyen-duong-sat-do-thi-o-ha-noi-tang-khung-gio-cao-diem-chay-tau-20260208182601873.htm",
+      "summary": "Theo Hà Nội Metro, việc điều chỉnh tăng khung giờ cao điểm (tần suất chạy tàu cao hơn) nhằm đáp ứng tốt hơn nhu cầu đi lại đang gia tăng nhanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.165276+07:00",
+      "fetched": "2026-02-08T19:28:18.165400+07:00"
+    },
+    {
+      "id": "36ab11cf9716ba684cb6458843f14952",
+      "title": "Linh vật ngựa vàng Quảng Ngãi 'phi nước đại' ra biển, người dân trầm trồ khen đẹp",
+      "link": "https://tuoitre.vn/linh-vat-ngua-vang-quang-ngai-phi-nuoc-dai-ra-bien-nguoi-dan-tram-tro-khen-dep-20260208175617214.htm",
+      "summary": "Giữa những ngày giáp Tết Bính Ngọ 2026, linh vật ngựa vàng Quảng Ngãi \"lộ diện\" khiến người dân trầm trồ. Linh vật được người dân đánh giá đẹp và thông điệp cũng đẹp: khát vọng vươn ra biển, gắn kết đại ngàn với đại dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.165095+07:00",
+      "fetched": "2026-02-08T19:28:18.165255+07:00"
+    },
+    {
+      "id": "42c31e7192efafe45596ff6f63effe92",
+      "title": "'Trao xuân yêu thương 2026' đến 3.000 trẻ mồ côi, hoàn cảnh đặc biệt khó khăn",
+      "link": "https://tuoitre.vn/trao-xuan-yeu-thuong-2026-den-som-voi-3-000-tre-mo-coi-hoan-canh-dac-biet-kho-khan-20260208184243914.htm",
+      "summary": "Khoảng 3.000 trẻ em mồ côi và có hoàn cảnh đặc biệt khó khăn tại TP.HCM được tham gia chuỗi hoạt động vui chơi, trải nghiệm và nhận hỗ trợ trong chương trình “Trao xuân yêu thương 2026”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:28:18.164896+07:00",
+      "fetched": "2026-02-08T19:28:18.165079+07:00"
+    },
     {
       "id": "4bd81dc80ecd9a340fadf53b0ebfb1c7",
       "title": "Hộp quà nhỏ trong phòng con trai tuổi 17",
@@ -293,6 +443,176 @@ window.newsData_2026_02_08 = {
       "fetched": "2026-02-08T13:38:29.309577+07:00"
     },
     {
+      "id": "bd899a48f760e5ab4b6d948ad00a52d3",
+      "title": "Vụ huy động 624 triệu đồng và sửa bài thi: Đề nghị điều chuyển hiệu trưởng",
+      "link": "https://thanhnien.vn/vu-huy-dong-624-trieu-dong-va-sua-bai-thi-de-nghi-dieu-chuyen-hieu-truong-185260208151726325.htm",
+      "summary": "Liên quan vụ huy động 624 triệu đồng từ phụ huynh để làm mái che, thuê nhân công dọn vệ sinh và việc giáo viên sửa bài kiểm tra học sinh tại Trường tiểu học Nguyễn Văn Cừ, Sở GD-ĐT tỉnh Gia Lai đã có báo cáo kết quả xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T12:21:00+07:00",
+      "fetched": "2026-02-08T19:28:17.248776+07:00"
+    },
+    {
+      "id": "26c87e77ff9b45b210d8bc3042c0547f",
+      "title": "Vương miện rúm ró sau vụ cướp ở bảo tàng Louvre",
+      "link": "https://vnexpress.net/vuong-mien-rum-ro-sau-vu-cuop-o-bao-tang-louvre-5015723.html",
+      "summary": "Bảo tàng Louvre lần đầu công bố hình ảnh món trang sức thời Napoleon bị biến dạng sau vụ cướp năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T12:15:55+07:00",
+      "fetched": "2026-02-08T19:28:13.999916+07:00"
+    },
+    {
+      "id": "a54c7e0f5cab7e060e82423071e19faa",
+      "title": "Vụ ‘thịt hết hạn’ trong suất ăn bán trú: Bức xúc của phụ huynh, giải pháp lãnh đạo trường đưa ra có thỏa đáng?",
+      "link": "https://thanhnien.vn/vu-thit-het-han-trong-suat-an-ban-tru-buc-xuc-cua-phu-huynh-giai-phap-lanh-dao-truong-dua-ra-co-thoa-dang-18526020816072322.htm",
+      "summary": "Sau nhiều ngày phụ huynh lo lắng, phải gác lại công việc để trực tiếp mang cơm đến trường cho con, sáng ngày 6.2, Trường tiểu học Nguyễn Văn Hưởng đã tổ chức buổi đối thoại với Ban đại diện cha mẹ học sinh các lớp nhằm tìm kiếm hướng giải quyết vấn đề ăn bán trú, sau khi nhà trường chấm dứt hợp tác ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T12:09:00+07:00",
+      "fetched": "2026-02-08T19:28:17.248945+07:00"
+    },
+    {
+      "id": "1d51c224c32d14ad0b1017528ab0b485",
+      "title": "Xe khách giường nằm bốc cháy dữ dội khi đang chạy, hành khách kịp thoát thân",
+      "link": "https://thanhnien.vn/xe-khach-giuong-nam-boc-chay-du-doi-khi-dang-chay-hanh-khach-kip-thoat-than-185260208170758369.htm",
+      "summary": "Xe khách giường nằm chở nhiều hành khách lưu thông trên quốc lộ 60, đoạn gần cầu Cổ Chiên, bất ngờ bốc cháy dữ dội. May mắn, lực lượng cảnh sát PCCC có mặt kịp thời dập lửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T12:04:00+07:00",
+      "fetched": "2026-02-08T19:28:17.249102+07:00"
+    },
+    {
+      "id": "255dea4c25231045002b0ee712ecb201",
+      "title": "Nước nào nhiều dự trữ nhiều vàng nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-nhieu-du-tru-nhieu-vang-nhat-dong-nam-a-5015708.html",
+      "summary": "Với hơn 234 tấn vàng, nước này có lượng vàng dự trữ đứng đầu Đông Nam Á, top 24 thế giới. Bạn có biết đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T12:02:34+07:00",
+      "fetched": "2026-02-08T19:28:14.000093+07:00"
+    },
+    {
+      "id": "8745325d6811dcbc8cda51bc5e69cbc1",
+      "title": "Vợ tài tử George Clooney dạo phố như catwalk",
+      "link": "https://vnexpress.net/vo-tai-tu-george-clooney-dao-pho-nhu-catwalk-5015686.html",
+      "summary": "Luật sư Amal - vợ diễn viên George Clooney - diện đồ chỉn chu mỗi lần ra phố, được ví như catwalk trên sàn diễn thời trang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T12:00:00+07:00",
+      "fetched": "2026-02-08T19:28:14.000276+07:00"
+    },
+    {
+      "id": "1542a4832d043c4dbd64f5f99db426e1",
+      "title": "Đảng của Thủ tướng Nhật sẽ thắng áp đảo tại Hạ viện",
+      "link": "https://vnexpress.net/dang-cua-thu-tuong-nhat-se-thang-ap-dao-tai-ha-vien-5015719.html",
+      "summary": "Thăm dò sau bỏ phiếu cho thấy đảng LDP cầm quyền của Thủ tướng Sanae Takaichi sẽ giành đa số ghế Hạ viện trong cuộc bầu cử hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:58:15+07:00",
+      "fetched": "2026-02-08T19:28:14.000439+07:00"
+    },
+    {
+      "id": "13550c58eb640a6546a97f2b2bb79b35",
+      "title": "Metro Hà Nội tăng số chuyến trong giờ cao điểm",
+      "link": "https://vnexpress.net/metro-ha-noi-tang-so-chuyen-trong-gio-cao-diem-5015717.html",
+      "summary": "Từ 9/2, Hà Nội Metro điều chỉnh biểu đồ chạy tàu hai tuyến đường sắt Cát Linh - Hà Đông và Nhổn - ga Hà Nội, kéo dài khung giờ cao điểm qua đó tăng số chuyến khi nhu cầu tăng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:55:19+07:00",
+      "fetched": "2026-02-08T19:28:14.000594+07:00"
+    },
+    {
+      "id": "ebcccaef96ee416fb2013c19e952f5e0",
+      "title": "Công ty tiền điện tử Hàn Quốc tặng nhầm lượng Bitcoin trị giá 44 tỉ USD, phải gấp rút thu hồi",
+      "link": "https://thanhnien.vn/cong-ty-tien-dien-tu-han-quoc-tang-nham-luong-bitcoin-tri-gia-44-ti-usd-phai-gap-rut-thu-hoi-185260208182001371.htm",
+      "summary": "Sàn giao dịch tiền điện tử Bithumb của Hàn Quốc hôm 7.2 cho biết họ tặng nhầm hơn 40 tỉ USD Bitcoin cho khách hàng như phần thưởng khuyến mãi, gây ra đợt bán tháo mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:54:00+07:00",
+      "fetched": "2026-02-08T19:28:17.249276+07:00"
+    },
+    {
+      "id": "241cb1f283645e522fbcc7940f0a6895",
+      "title": "Khách hàng kéo đến siêu thị mua sắm ngày 21 tháng chạp Tết Bính Ngọ",
+      "link": "https://thanhnien.vn/khach-hang-keo-den-sieu-thi-mua-sam-ngay-21-thang-chap-tet-binh-ngo-185260208171753838.htm",
+      "summary": "Ngày 8.2, nhằm 21 tháng chạp Tết Bính Ngọ, các siêu thị đã nhộn nhịp người mua sắm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:52:00+07:00",
+      "fetched": "2026-02-08T19:28:17.249429+07:00"
+    },
+    {
+      "id": "ddb7fe0e01a4a685d616b0dc4e316e54",
+      "title": "Nghi phạm ám sát tướng Nga bị bắt giữ, nạn nhân hiện ra sao?",
+      "link": "https://thanhnien.vn/nghi-pham-am-sat-tuong-nga-bi-bat-giu-nan-nhan-hien-ra-sao-185260208172551246.htm",
+      "summary": "Cơ quan chức năng Nga đã bắt giữ hai nghi phạm liên quan đến mưu toan ám sát một tướng tình báo quân sự cấp cao ở Moscow hôm 6.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:51:00+07:00",
+      "fetched": "2026-02-08T19:28:17.249579+07:00"
+    },
+    {
+      "id": "1bc7d97f742bec43dd83c4c779c2a08c",
+      "title": "1.300 suất quà tết đến với người nghèo Đà Nẵng",
+      "link": "https://thanhnien.vn/1300-suat-qua-tet-den-voi-nguoi-ngheo-da-nang-185260208175703218.htm",
+      "summary": "Trước thềm Xuân Bính Ngọ 2026, 1.300 suất quà tết đã được trao tận tay người dân khó khăn và công nhân nghèo tại Đà Nẵng, cùng các hoạt động khám bệnh, cấp thuốc miễn phí nhằm lan tỏa tinh thần sẻ chia và gắn kết cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:49:00+07:00",
+      "fetched": "2026-02-08T19:28:17.249733+07:00"
+    },
+    {
+      "id": "d363fafd9eba85bbfb6186ae4380d1b2",
+      "title": "Lấy ý kiến danh mục công nghệ cao ưu tiên đầu tư phát triển",
+      "link": "https://vnexpress.net/lay-y-kien-danh-muc-cong-nghe-cao-uu-tien-dau-tu-phat-trien-5015695.html",
+      "summary": "Bộ Khoa học và Công nghệ lấy ý kiến liên quan đến danh mục công nghệ và sản phẩm công nghệ cao ưu tiên đầu tư phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:45:58+07:00",
+      "fetched": "2026-02-08T19:28:14.000750+07:00"
+    },
+    {
+      "id": "d363fafd9eba85bbfb6186ae4380d1b2",
+      "title": "Lấy ý kiến danh mục công nghệ cao ưu tiên đầu tư phát triển",
+      "link": "https://vnexpress.net/lay-y-kien-danh-muc-cong-nghe-cao-uu-tien-dau-tu-phat-trien-5015695.html",
+      "summary": "Bộ Khoa học và Công nghệ lấy ý kiến liên quan đến danh mục công nghệ và sản phẩm công nghệ cao ưu tiên đầu tư phát triển.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-08T11:45:58+07:00",
+      "fetched": "2026-02-08T19:28:23.910607+07:00"
+    },
+    {
+      "id": "f7b9ff4d62f5427a13c904c1be5ca733",
+      "title": "Cử tri tín nhiệm đại tướng Phan Văn Giang ứng cử đại biểu Quốc hội khóa 16",
+      "link": "https://vnexpress.net/cu-tri-tin-nhiem-dai-tuong-phan-van-giang-ung-cu-dai-bieu-quoc-hoi-khoa-16-5015710.html",
+      "summary": "100% cử tri phường Linh Sơn, tỉnh Thái Nguyên biểu quyết, nhất trí tín nhiệm đại tướng Phan Văn Giang, Bộ trưởng Quốc phòng, tham gia ứng cử đại biểu Quốc hội khóa 16.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:40:12+07:00",
+      "fetched": "2026-02-08T19:28:14.000910+07:00"
+    },
+    {
+      "id": "26fd7f6fc7057c69ccc0b1e129c41a0b",
+      "title": "Cao tốc Hàm Nghi - Vũng Áng ùn tắc 5 km sau hai tai nạn liên hoàn",
+      "link": "https://vnexpress.net/cao-toc-ham-nghi-vung-ang-un-tac-5-km-sau-hai-tai-nan-lien-hoan-5015713.html",
+      "summary": "Hai vụ tai nạn liên hoàn chiều nay giữa 6 ôtô đoạn qua xã Kỳ Văn khiến cao tốc Hàm Nghi - Vũng Áng ùn tắc 5 km, đến hơn 18h vẫn chưa thể lưu thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:35:59+07:00",
+      "fetched": "2026-02-08T19:28:14.001068+07:00"
+    },
+    {
+      "id": "125e0abf55f9c8f8bf438a052046740a",
+      "title": "Top cách chăm sóc da thâm đỏ sau mụn bạn nên thử ngay trong routine hằng ngày",
+      "link": "https://thanhnien.vn/top-cach-cham-soc-da-tham-do-sau-mun-ban-nen-thu-ngay-trong-routine-hang-ngay-185260208184004788.htm",
+      "summary": "Thâm đỏ sau mụn khiến làn da kém đều màu dù mụn đã xẹp. Trong routine chăm sóc da hằng ngày, nên ưu tiên dùng kem hay thuốc để làm mờ thâm đỏ hiệu quả mà vẫn an toàn cho da?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:31:00+07:00",
+      "fetched": "2026-02-08T19:28:17.249881+07:00"
+    },
+    {
       "id": "08fab02a9b70be9417e37402c4829352",
       "title": "Thông tin mới về thời gian hoàn thành sắp xếp trường học, bệnh viện, thôn, tổ dân phố",
       "link": "https://tuoitre.vn/thong-tin-moi-ve-thoi-gian-hoan-thanh-sap-xep-truong-hoc-benh-vien-thon-to-dan-pho-20260208093527948.htm",
@@ -441,6 +761,146 @@ window.newsData_2026_02_08 = {
       "category": "Tổng hợp",
       "published": "2026-02-08T11:25:55.437199+07:00",
       "fetched": "2026-02-08T11:25:55.437432+07:00"
+    },
+    {
+      "id": "fa34a9cbca8959f4e77cdecb8f6cf524",
+      "title": "Thái Lan tổ chức tổng tuyển cử",
+      "link": "https://vnexpress.net/thai-lan-to-chuc-tong-tuyen-cu-5015712.html",
+      "summary": "Cử tri Thái Lan bỏ phiếu để bầu 500 nghị sĩ và tiến tới thành lập chính phủ mới, sau khi nước này thay 3 thủ tướng trong 2 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:25:03+07:00",
+      "fetched": "2026-02-08T19:28:14.001241+07:00"
+    },
+    {
+      "id": "fa34a9cbca8959f4e77cdecb8f6cf524",
+      "title": "Thái Lan tổ chức tổng tuyển cử",
+      "link": "https://vnexpress.net/thai-lan-to-chuc-tong-tuyen-cu-5015712.html",
+      "summary": "Cử tri Thái Lan bỏ phiếu để bầu 500 nghị sĩ và tiến tới thành lập chính phủ mới, sau khi nước này thay 3 thủ tướng trong 2 năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-08T11:25:03+07:00",
+      "fetched": "2026-02-08T19:28:19.723672+07:00"
+    },
+    {
+      "id": "c7d2f094c3adc243ad28180bbf2ec2e8",
+      "title": "Đường dây bán 10.000 chai nước hoa Chanel, Versace, Burberry giả",
+      "link": "https://vnexpress.net/duong-day-ban-10-000-chai-nuoc-hoa-chanel-versace-burberry-gia-5015715.html",
+      "summary": "Lê Thị Kim Tuyến, 36 tuổi, cùng đồng phạm bị cáo buộc bán 10.000 chai nước hoa giả hiệu Chanel, Versace, Burberry... trên mạng xã hội, tổng trị giá khoảng 10 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:19:42+07:00",
+      "fetched": "2026-02-08T19:28:14.001397+07:00"
+    },
+    {
+      "id": "7f5fb5633a566cdb386277d20d594696",
+      "title": "Bắt băng nhóm chuyên trộm mèo, mang bình xịt hơi cay chống trả người truy đuổi",
+      "link": "https://thanhnien.vn/bat-bang-nhom-chuyen-trom-meo-mang-binh-xit-hoi-cay-chong-tra-nguoi-truy-duoi-185260208172338505.htm",
+      "summary": "Ngày 8.2, Công an xã Đông Thạnh (TP.HCM) cho biết đã triệt phá thành công một băng nhóm chuyên trộm mèo số lượng lớn, sẵn sàng dùng bình xịt hơi cay tấn công người dân nếu bị truy đuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:03:00+07:00",
+      "fetched": "2026-02-08T19:28:17.250027+07:00"
+    },
+    {
+      "id": "d79abf6ef8480e5e2ec91144c119c947",
+      "title": "Hai Phó chủ nhiệm Đoàn luật sư TP HCM được giới thiệu ứng cử đại biểu Quốc hội",
+      "link": "https://vnexpress.net/hai-pho-chu-nhiem-doan-luat-su-tp-hcm-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-5015701.html",
+      "summary": "Liên đoàn Luật sư Việt Nam và Đoàn Luật sư TP HCM lần đầu giới thiệu hai ứng cử viên đại biểu Quốc hội khóa XVI là Nguyễn Hải Nam và Hà Hải, được 100% cử tri nơi cư trú tín nhiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:01:36+07:00",
+      "fetched": "2026-02-08T19:28:14.001545+07:00"
+    },
+    {
+      "id": "a33a5e8ee5fb6482973cd072cd7ddc80",
+      "title": "Yêu chồng nhưng quá mệt mỏi trên hành trình 'tìm con'",
+      "link": "https://vnexpress.net/yeu-chong-nhung-qua-met-moi-tren-hanh-trinh-tim-con-5015612.html",
+      "summary": "Tôi rất muốn có con, chồng cũng vậy, nhưng việc anh không thể từ bỏ rượu bia khiến tôi cảm thấy mọi cố gắng của mình trở nên vô ích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:00:00+07:00",
+      "fetched": "2026-02-08T19:28:14.001705+07:00"
+    },
+    {
+      "id": "d2ea8c350d89c4c942ec89ab39fec3fc",
+      "title": "Ăn quất cảnh có bị nhiễm hóa chất?",
+      "link": "https://vnexpress.net/an-quat-canh-co-bi-nhiem-hoa-chat-5015451.html",
+      "summary": "Quả quất cảnh thường to, mọng, trông bắt mắt, liệu ăn có gây hại sức khỏe như tích tụ hóa chất, gây ung thư? (Hùng, 22 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:00:00+07:00",
+      "fetched": "2026-02-08T19:28:14.001861+07:00"
+    },
+    {
+      "id": "ac29f6a7409e88cf7a468744c690e2d4",
+      "title": "Những bộ trang phục đẹp nhất cho ngày lạnh, tôn vinh phong cách cá nhân",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-bo-trang-phuc-dep-nhat-cho-ngay-lanh-ton-vinh-phong-cach-ca-nhan-185260207181654963.htm",
+      "summary": "Thời trang của mùa thu đông vừa qua không còn chạy theo công thức mặc đẹp chung, mà tôn vinh những trang phục mang dấu ấn cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T11:00:00+07:00",
+      "fetched": "2026-02-08T19:28:17.250198+07:00"
+    },
+    {
+      "id": "032b6ad291686dcf41ce6353d26d018d",
+      "title": "Vai trò kiểm soát viêm sớm trong giảm sẹo hậu phẫu",
+      "link": "https://thanhnien.vn/vai-tro-kiem-soat-viem-som-trong-giam-seo-hau-phau-185260208175512125.htm",
+      "summary": "Trong nhiều năm, sẹo hậu phẫu thường được nhìn nhận như một vấn đề thẩm mỹ xuất hiện sau khi vết thương đã lành. Tuy nhiên, ngày càng nhiều bằng chứng lâm sàng cho thấy: chất lượng sẹo không được quyết định ở giai đoạn muộn, mà bắt đầu ngay từ những giờ đầu tiên sau phẫu thuật, khi phản ứng viêm khở...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T10:50:00+07:00",
+      "fetched": "2026-02-08T19:28:17.250360+07:00"
+    },
+    {
+      "id": "2ae885b6c204db8c8596ca455290b290",
+      "title": "Cử tri Thái Nguyên tín nhiệm tuyệt đối đại tướng Phan Văn Giang ứng cử ĐBQH khóa XVI",
+      "link": "https://thanhnien.vn/cu-tri-thai-nguyen-tin-nhiem-tuyet-doi-dai-tuong-phan-van-giang-ung-cu-dbqh-khoa-xvi-185260208163533943.htm",
+      "summary": "Ngày 8.2, UBND, Ủy ban MTTQ Việt Nam P.Linh Sơn (tỉnh Thái Nguyên) tổ chức hội nghị lấy ý kiến nhận xét và tín nhiệm của cử tri nơi cư trú đối với đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng - người ứng cử đại biểu Quốc hội (ĐBQH) khóa XVI, nhiệm kỳ 2026 - 2031, hiện đang cư trú trên địa bàn P...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T10:42:00+07:00",
+      "fetched": "2026-02-08T19:28:17.250509+07:00"
+    },
+    {
+      "id": "0286e27ed6e701cbb6eb7f3830ce8a8c",
+      "title": "Xe giường nằm bốc cháy khi chở hơn 20 khách",
+      "link": "https://vnexpress.net/xe-giuong-nam-boc-chay-khi-cho-hon-20-khach-5015704.html",
+      "summary": "Xe giường nằm chạy trên quốc lộ bất ngờ bốc cháy dữ dội, hơn 20 hành khách tìm cách thoát thân, chiều 8/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T10:35:38+07:00",
+      "fetched": "2026-02-08T19:28:14.002013+07:00"
+    },
+    {
+      "id": "3d8e1ee5fdf9b96ead003bd320bf5b99",
+      "title": "15 năm đi làm tôi chưa từng đòi tăng lương",
+      "link": "https://vnexpress.net/15-nam-di-lam-toi-chua-tung-doi-tang-luong-5015692.html",
+      "summary": "Nhiều người băn khoăn làm sao để được tăng lương? Nhưng rất ít khi họ tự hỏi: nếu ngày mai mình nghỉ việc, công ty có bị ảnh hưởng không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T10:31:24+07:00",
+      "fetched": "2026-02-08T19:28:14.002168+07:00"
+    },
+    {
+      "id": "e992bfc094cb51383dfb191836445eb2",
+      "title": "100% cử tri tín nhiệm bà Tôn Ngọc Hạnh ứng cử đại biểu HĐND tỉnh Đồng Nai",
+      "link": "https://thanhnien.vn/100-cu-tri-tin-nhiem-ba-ton-ngoc-hanh-ung-cu-dai-bieu-hdnd-tinh-dong-nai-185260208170654628.htm",
+      "summary": "100% cử tri phường Bình Phước tín nhiệm bà Tôn Ngọc Hạnh, Ủy viên Trung ương Đảng, Phó bí thư Thường trực Tỉnh ủy, Chủ tịch HĐND tỉnh Đồng Nai ứng cử đại biểu HĐND tỉnh Đồng Nai nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T10:30:00+07:00",
+      "fetched": "2026-02-08T19:28:17.250661+07:00"
+    },
+    {
+      "id": "e15182dc208a8c5dc23192db6407eaca",
+      "title": "T&amp;T Group được vinh danh tại WeChoice Awards 2025",
+      "link": "https://vnexpress.net/t-t-group-duoc-vinh-danh-tai-wechoice-awards-2025-5015643.html",
+      "summary": "T&T được vinh danh hạng mục \"Vươn mình ra biển lớn\" tại WeChoice Awards 2025 nhờ nội lực mạnh mẽ, tinh thần dấn thân, đóng góp cho sự phát triển dài hạn của đất nước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-08T10:30:00+07:00",
+      "fetched": "2026-02-08T19:28:20.967483+07:00"
     },
     {
       "id": "7524c50fbb1e43018c97ecaaaf275489",
