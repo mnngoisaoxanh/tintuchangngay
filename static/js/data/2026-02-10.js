@@ -1,6 +1,6 @@
 window.newsData_2026_02_10 = {
   "date": "2026-02-10",
-  "lastUpdated": "2026-02-10T01:44:22.632803+07:00",
+  "lastUpdated": "2026-02-10T03:30:57.093835+07:00",
   "articles": [
     {
       "id": "2a031d32ae00ba9a356f7d1da1b8d09b",
@@ -153,6 +153,46 @@ window.newsData_2026_02_10 = {
       "fetched": "2026-02-10T01:44:15.488219+07:00"
     },
     {
+      "id": "63b1aca8dcba92211603900402be8dd5",
+      "title": "HAGL - 'kẻ phá bĩnh' dễ thương",
+      "link": "https://thanhnien.vn/hagl-ke-pha-binh-de-thuong-185260209202041001.htm",
+      "summary": "Bước vào mùa giải V-League 2025-2026 với đầy những khó khăn khi hàng loạt cầu thủ trụ cột rời đội, nhưng HAGL đang dần định hình lại mình bằng những trận thắng ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T20:19:00+07:00",
+      "fetched": "2026-02-10T03:30:47.361825+07:00"
+    },
+    {
+      "id": "1d3d8498a4ea7ed5a7e82b8815eb2997",
+      "title": "Loài 'nấm tử thần' gieo kinh hoàng ở California",
+      "link": "https://vnexpress.net/loai-nam-tu-than-gieo-kinh-hoang-o-california-5019889.html",
+      "summary": "Nấm tử thần, có hình dáng rất giống nấm rơm, đang sinh trưởng ồ ạt ở California và gây hàng loạt ca tử vong do chưa có thuốc giải hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T19:00:00+07:00",
+      "fetched": "2026-02-10T03:30:43.748198+07:00"
+    },
+    {
+      "id": "d91e35255b14471e226fa64a42d46152",
+      "title": "Bí quyết kiểm soát bệnh gout dịp Tết",
+      "link": "https://vnexpress.net/bi-quyet-kiem-soat-benh-gout-dip-tet-5012573.html",
+      "summary": "Người bệnh gout nên chú ý chế độ ăn uống, theo nguyên tắc “rau đi trước, thịt theo sau”, hạn chế thịt đỏ, rượu bia, đồng thời vận động và chuẩn bị thuốc để ngăn biến chứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T19:00:00+07:00",
+      "fetched": "2026-02-10T03:30:43.748380+07:00"
+    },
+    {
+      "id": "1d3d8498a4ea7ed5a7e82b8815eb2997",
+      "title": "Loài 'nấm tử thần' gieo kinh hoàng ở California",
+      "link": "https://vnexpress.net/loai-nam-tu-than-gieo-kinh-hoang-o-california-5019889.html",
+      "summary": "Nấm tử thần, có hình dáng rất giống nấm rơm, đang sinh trưởng ồ ạt ở California và gây hàng loạt ca tử vong do chưa có thuốc giải hiệu quả.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-09T19:00:00+07:00",
+      "fetched": "2026-02-10T03:30:50.235551+07:00"
+    },
+    {
       "id": "fa82df7fa07236536713ac0349bb8a3e",
       "title": "Vụ ám sát suýt khiến Nga mất 'bộ não tình báo' trong chiến dịch Ukraine",
       "link": "https://vnexpress.net/vu-am-sat-suyt-khien-nga-mat-bo-nao-tinh-bao-trong-chien-dich-ukraine-5026543.html",
@@ -161,6 +201,16 @@ window.newsData_2026_02_10 = {
       "category": "Thế giới",
       "published": "2026-02-09T18:00:00+07:00",
       "fetched": "2026-02-10T01:44:17.012129+07:00"
+    },
+    {
+      "id": "0edaf717899e6a5fa956631cb51141cd",
+      "title": "Hội chứng Alport",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-alport-402",
+      "summary": "Hội chứng Alport là tình trạng các đột biến gen ảnh hưởng đến chức năng thận, có thể gây máu và protein trong nước tiểu, theo thời gian có nguy cơ suy thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T18:00:00+07:00",
+      "fetched": "2026-02-10T03:30:43.748703+07:00"
     },
     {
       "id": "f1deda50f3245793fbac09f3280034a0",
