@@ -1,7 +1,17 @@
 window.newsData_2026_02_10 = {
   "date": "2026-02-10",
-  "lastUpdated": "2026-02-10T03:30:57.093835+07:00",
+  "lastUpdated": "2026-02-10T05:26:53.352844+07:00",
   "articles": [
+    {
+      "id": "8a90e82d5ae8f8ec0611b4c48b355e09",
+      "title": "Tin tức sáng 10-2: Chính phủ quy định mới nhà ở xã hội, điểm nào đáng chú ý?",
+      "link": "https://tuoitre.vn/tin-tuc-sang-10-2-chinh-phu-quy-dinh-moi-nha-o-xa-hoi-diem-nao-dang-chu-y-20260209230546474.htm",
+      "summary": "Tin tức đáng chú ý: Chính phủ quy định mới về nhà ở xã hội, điểm nào đáng chú ý?; Tổng hạn ngạch phát thải khí nhà kính thí điểm cho 2026 là hơn 268 triệu tấn CO2 tương đương; Lãnh đạo TP.HCM gặp gỡ cơ quan đại diện nước ngoài...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T05:26:45.914482+07:00",
+      "fetched": "2026-02-10T05:26:45.914716+07:00"
+    },
     {
       "id": "2a031d32ae00ba9a356f7d1da1b8d09b",
       "title": "Xuân Son bị từ chối bàn thắng trong trận Nam Định bị Hà Tĩnh cầm hòa",
@@ -151,6 +161,176 @@ window.newsData_2026_02_10 = {
       "category": "Tổng hợp",
       "published": "2026-02-10T01:44:15.488007+07:00",
       "fetched": "2026-02-10T01:44:15.488219+07:00"
+    },
+    {
+      "id": "efc7ed8117502fb07acde264f0efdcd2",
+      "title": "Ngựa vàng Quảng Ngãi cao 10 m 'có hồn' ở công viên Ba Tơ",
+      "link": "https://thanhnien.vn/ngua-vang-quang-ngai-cao-10-m-co-hon-o-cong-vien-ba-to-185260209153507088.htm",
+      "summary": "Linh vật ngựa vàng cao 10 m tại công viên Ba Tơ, Quảng Ngãi ra mắt, gây ấn tượng mạnh mẽ, gửi gắm khát vọng vươn ra biển xuân Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T22:15:00+07:00",
+      "fetched": "2026-02-10T05:26:44.969126+07:00"
+    },
+    {
+      "id": "8e53a189cffa26c7b3c1ee542c654eb4",
+      "title": "Tử vi ngày 10 tháng 2: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-10-thang-2-con-giap-nao-may-man-hom-nay-185260209103029191.htm",
+      "summary": "Tử vi ngày 10 tháng 2 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T22:15:00+07:00",
+      "fetched": "2026-02-10T05:26:44.969319+07:00"
+    },
+    {
+      "id": "ff3057f1340f3247ece9360cd2d72805",
+      "title": "Chiến sự Ukraine ngày 1.447: Ukraine hứng mưa tên lửa, Nga tố Mỹ phá vỡ thỏa thuận",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1447-ukraine-hung-mua-ten-lua-nga-to-my-pha-vo-thoa-thuan-185260209212642097.htm",
+      "summary": "Phía Ukraine ngày 9.2 cáo buộc các cuộc tấn công của Nga vào Ukraine trong 24 giờ qua đã khiến ít nhất 5 người thiệt mạng, 36 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T22:10:00+07:00",
+      "fetched": "2026-02-10T05:26:44.969490+07:00"
+    },
+    {
+      "id": "c2725d46ff30e57eea9213c0f7952c1e",
+      "title": "Những cuộc đấu trí nơi cửa ngõ Tân Sơn Nhất",
+      "link": "https://thanhnien.vn/nhung-cuoc-dau-tri-noi-cua-ngo-tan-son-nhat-185260209171015951.htm",
+      "summary": "Tại sân bay quốc tế Tân Sơn Nhất, chiến sĩ Công an cửa khẩu Cảng hàng không quốc tế Tân Sơn Nhất không chỉ có nhiệm vụ làm thủ tục xuất nhập cảnh, mà họ còn là những người lính đối mặt với những đường dây tội phạm xuyên quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T22:08:00+07:00",
+      "fetched": "2026-02-10T05:26:44.969654+07:00"
+    },
+    {
+      "id": "883ad9a16c5c85fb3f3890b6883a3ac0",
+      "title": "Đảng cầm quyền Thái Lan dẫn đầu trong tổng tuyển cử",
+      "link": "https://thanhnien.vn/dang-cam-quyen-thai-lan-dan-dau-trong-tong-tuyen-cu-185260209232608943.htm",
+      "summary": "Đảng Bhumjaithai của Thủ tướng Thái Lan Anutin Charnvirakul giành chiến thắng trong cuộc bầu cử Hạ viện ngày 8.2 và dự kiến đàm phán lập liên minh trong những ngày tới, do chưa đủ 251 ghế tối thiểu trong tổng số 500 ghế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T22:00:00+07:00",
+      "fetched": "2026-02-10T05:26:44.969813+07:00"
+    },
+    {
+      "id": "d3bbd2b4da1124e5b3601939831ee23d",
+      "title": "Lan tỏa hành trình \"Xuân sẻ chia - Tết yêu thương\" ở biên giới Tây Ninh",
+      "link": "https://thanhnien.vn/lan-toa-hanh-trinh-xuan-se-chia-tet-yeu-thuong-o-bien-gioi-tay-ninh-185260209224755976.htm",
+      "summary": "Hành trình đầy ý nghĩa do Hội đồng Đội Trung ương tổ chức đã chính thức khép lại tại vùng đất biên giới Tây Ninh, mang theo hơi ấm mùa Xuân và những phần quà thiết thực đến với thiếu nhi có hoàn cảnh khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T22:00:00+07:00",
+      "fetched": "2026-02-10T05:26:44.969968+07:00"
+    },
+    {
+      "id": "314f760a1ad052f1363f1fbd69b845ba",
+      "title": "Chiêm ngưỡng những 'siêu' hoàng mai tiền tỉ ở Huế trước Phu Văn Lâu",
+      "link": "https://thanhnien.vn/chiem-nguong-nhung-sieu-hoang-mai-tien-ti-o-hue-truoc-phu-van-lau-185260209170411052.htm",
+      "summary": "Hơn 500 tác phẩm hoàng mai, có những gốc cổ thụ hàng trăm năm tuổi đang hội tụ tại ngày hội hoàng mai Huế lần thứ 4, tạo nên không gian rực rỡ sắc xuân ngay trước Kinh thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T22:00:00+07:00",
+      "fetched": "2026-02-10T05:26:44.970146+07:00"
+    },
+    {
+      "id": "b371921a0ce01f28ec44ac63cc8e6a84",
+      "title": "Hoa Tết Bính Ngọ 2026: Nỗi lo kép từ nhà vườn và tiểu thương",
+      "link": "https://thanhnien.vn/hoa-tet-binh-ngo-2026-noi-lo-kep-tu-nha-vuon-va-tieu-thuong-185260208162938457.htm",
+      "summary": "Tết Nguyên đán Bính Ngọ 2026 đang cận kề, nhưng thị trường hoa, cây kiểng tại TP.HCM vẫn đối mặt nhiều khó khăn. Hoa nở sớm do thời tiết, chi phí đầu vào tăng cao và sức mua chậm đang khiến cả người trồng hoa lẫn người bán lo ngại nguy cơ khó thu hồi vốn trong vụ Tết năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T22:00:00+07:00",
+      "fetched": "2026-02-10T05:26:44.970309+07:00"
+    },
+    {
+      "id": "01685b6b3f14172e3f6df5dabebf8746",
+      "title": "Website cho phép AI 'thuê' con người",
+      "link": "https://vnexpress.net/website-cho-phep-ai-thue-con-nguoi-5016142.html",
+      "summary": "RentAHuman thu hút sự chú ý của hàng trăm nghìn người khi được lập ra để \"thuê\" con người hoàn thành công việc do tác nhân AI đưa ra.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-09T22:00:00+07:00",
+      "fetched": "2026-02-10T05:26:51.507050+07:00"
+    },
+    {
+      "id": "f5a076b6afa44d477263837d4c497f5e",
+      "title": "BYD kiện chính phủ Mỹ vì thuế quan ngăn xe nhập khẩu",
+      "link": "https://vnexpress.net/byd-kien-chinh-phu-my-vi-thue-quan-ngan-xe-nhap-khau-5015811.html",
+      "summary": "Bốn công ty con có trụ sở tại Mỹ của BYD đã đệ đơn kiện chính phủ liên bang tại Tòa án Thương mại Quốc tế (CIT).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:46:00+07:00",
+      "fetched": "2026-02-10T05:26:41.242133+07:00"
+    },
+    {
+      "id": "a03c210c47335978c0bd30e07510dbb2",
+      "title": "TP.HCM cần ưu tiên xử lý các điểm nghẽn lớn",
+      "link": "https://thanhnien.vn/tphcm-can-uu-tien-xu-ly-cac-diem-nghen-lon-185260209235247789.htm",
+      "summary": "Tổng Bí thư Tô Lâm lưu ý năm 2026, TP.HCM tập trung giải quyết dứt điểm các điểm nghẽn lớn kéo dài nhiều năm như kẹt xe, ô nhiễm môi trường, ngập nước, vệ sinh thực phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:45:00+07:00",
+      "fetched": "2026-02-10T05:26:44.970475+07:00"
+    },
+    {
+      "id": "079de77d1adf4a07faf5fb12cbc09948",
+      "title": "CSGT TP.HCM xử lý lấn chiếm vỉa hè, lòng đường quanh các chợ đầu mối dịp tết",
+      "link": "https://thanhnien.vn/csgt-tphcm-xu-ly-lan-chiem-via-he-long-duong-quanh-cac-cho-dau-moi-dip-tet-185260209172841897.htm",
+      "summary": "CSGT TP.HCM cùng các đơn vị phối hợp đang mạnh tay xử lý lấn chiếm vỉa hè, lòng đường quanh các chợ đầu mối dịp Tết Bính Ngọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:44:00+07:00",
+      "fetched": "2026-02-10T05:26:44.970637+07:00"
+    },
+    {
+      "id": "74a616efbbfacbf3361c0f16748db5c4",
+      "title": "Phật giáo người Hoa TP.HCM thăm y bác sĩ, tu sĩ Bệnh viện Nhân Ái",
+      "link": "https://thanhnien.vn/phat-giao-nguoi-hoa-tphcm-tham-y-bac-si-tu-si-benh-vien-nhan-ai-185260209180052832.htm",
+      "summary": "Nhân dịp Tết Bính Ngọ, đoàn Phật giáo người Hoa TP.HCM cùng Ủy ban MTTQ Việt Nam TP.HCM đến thăm, tặng quà, chúc tết đội ngũ y bác sĩ, tu sĩ đang chăm sóc bệnh nhân tại Bệnh viện Nhân Ái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:42:00+07:00",
+      "fetched": "2026-02-10T05:26:44.970801+07:00"
+    },
+    {
+      "id": "a6c49421a22589b4de645f507f7731d2",
+      "title": "'Vẽ tết' lên trái dừa, kỹ sư trẻ ở Quảng Trị khoe tài, kiếm thêm tiền triệu",
+      "link": "https://thanhnien.vn/ve-tet-len-trai-dua-ky-su-tre-o-quang-tri-khoe-tai-kiem-them-tien-trieu-185260208203239038.htm",
+      "summary": "Những trái dừa được phủ sơn bóng bẩy cùng những họa tiết, chữ thư pháp đầy nghệ thuật. Một nghề không mới nhưng lại ít người làm ở Quảng Trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:34:00+07:00",
+      "fetched": "2026-02-10T05:26:44.970956+07:00"
+    },
+    {
+      "id": "e9c210f7ad2e9d80739ec3f427fa312d",
+      "title": "Bí thư và Chủ tịch TP.HCM gặp gỡ cơ quan đại diện nước ngoài",
+      "link": "https://thanhnien.vn/bi-thu-va-chu-tich-tphcm-gap-go-co-quan-dai-dien-nuoc-ngoai-185260209224302505.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được mong muốn các cơ quan đại diện nước ngoài tiếp tục là cầu nối thúc đẩy hiểu biết, mở rộng thương mại, đầu tư, phát triển nhân lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:28:00+07:00",
+      "fetched": "2026-02-10T05:26:44.971129+07:00"
+    },
+    {
+      "id": "60054f2fddba237dd97c1786efea5c55",
+      "title": "Ukraine lo bị gạt khỏi đàm phán Mỹ - Nga",
+      "link": "https://thanhnien.vn/ukraine-lo-bi-gat-khoi-dam-phan-my-nga-185260209213746585.htm",
+      "summary": "Ukraine kêu gọi tăng tốc đàm phán hòa bình, cảnh báo nguy cơ bị gạt khỏi các thỏa thuận Mỹ - Nga, trong lúc tình hình chiến sự chưa hạ nhiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:27:00+07:00",
+      "fetched": "2026-02-10T05:26:44.971282+07:00"
+    },
+    {
+      "id": "4018a29a3eb7d087747d6cfac930027a",
+      "title": "Trùng hợp bất ngờ xổ số miền Nam: 2 năm độc đắc 'ghé thăm' cùng 1 ngày",
+      "link": "https://thanhnien.vn/trung-hop-bat-ngo-xo-so-mien-nam-2-nam-doc-dac-ghe-tham-cung-1-ngay-185260209180206516.htm",
+      "summary": "Một đại lý vé số ở miền Tây chia sẻ sự trùng hợp thú vị, khi trong cùng một ngày ở hai năm khác nhau, khách trúng độc đắc xổ số miền Nam đều bất ngờ tìm tới đại lý để đổi thưởng. Có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:22:00+07:00",
+      "fetched": "2026-02-10T05:26:44.971435+07:00"
     },
     {
       "id": "63b1aca8dcba92211603900402be8dd5",
