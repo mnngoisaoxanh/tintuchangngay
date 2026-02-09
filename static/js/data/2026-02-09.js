@@ -1,7 +1,117 @@
 window.newsData_2026_02_09 = {
   "date": "2026-02-09",
-  "lastUpdated": "2026-02-09T19:44:40.181327+07:00",
+  "lastUpdated": "2026-02-09T21:45:13.842005+07:00",
   "articles": [
+    {
+      "id": "b3019b8f0715076044aa79c4becf7e13",
+      "title": "Vietravel và câu hỏi lớn ở tuổi 30",
+      "link": "https://tuoitre.vn/vietravel-va-cau-hoi-lon-o-tuoi-30-20260206111357294.htm",
+      "summary": "Diện mạo mới Vietravel trên không gian đô thị mở ra một câu hỏi lớn về tư duy quản trị: Vì sao một thương hiệu lữ hành hàng đầu lại chọn dịch chuyển trong trạng thái ổn định sau ba thập kỷ phát triển?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:45:08.712573+07:00",
+      "fetched": "2026-02-09T21:45:08.712689+07:00"
+    },
+    {
+      "id": "d7743a74db783aa105a5c571fcf1a25c",
+      "title": "East West Brewing - Phu Quoc điểm hẹn hoàng hôn & Good Times Lager",
+      "link": "https://tuoitre.vn/east-west-brewing-phu-quoc-diem-hen-hoang-hon-good-times-lager-20260209152552654.htm",
+      "summary": "Tọa lạc bên bờ biển, East West Brewing - Phu Quoc được định hình như một điểm dừng chân để tận hưởng khoảnh khắc hoàng hôn Đảo Ngọc",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:45:08.712448+07:00",
+      "fetched": "2026-02-09T21:45:08.712562+07:00"
+    },
+    {
+      "id": "3692f7efc04a1209647da0d1a71f29a8",
+      "title": "Không dùng găng tay khi tiếp xúc trực tiếp thực phẩm chín, chủ quán có thể bị phạt đến 1 triệu đồng",
+      "link": "https://tuoitre.vn/khong-dung-gang-tay-khi-tiep-xuc-truc-tiep-thuc-pham-chin-chu-quan-co-the-bi-phat-den-1-trieu-dong-20260209190624605.htm",
+      "summary": "Các cơ sở kinh doanh thức ăn đường phố vi phạm quy định về điều kiện an toàn thực phẩm có thể bị xử phạt từ 500.000 đồng đến 3 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:45:08.712321+07:00",
+      "fetched": "2026-02-09T21:45:08.712437+07:00"
+    },
+    {
+      "id": "7ba8045d4867bfbf40ab64074a51e0c4",
+      "title": "Chợ mai xuân Đà Nẵng thưa vắng những 'anh tài'",
+      "link": "https://tuoitre.vn/cho-mai-xuan-da-nang-thua-vang-nhung-anh-tai-20260209182610294.htm",
+      "summary": "Chợ mai Xuân Đà Nẵng năm nay được nhiều nhà vườn và người chơi mai nhận xét là \"vắng bóng anh tài\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:45:08.712194+07:00",
+      "fetched": "2026-02-09T21:45:08.712310+07:00"
+    },
+    {
+      "id": "e69b601c5b02655bf5fd6d42932089f2",
+      "title": "Ronaldo Fletcher gia nhập CLB Hải Phòng",
+      "link": "https://tuoitre.vn/ronaldo-fletcher-gia-nhap-clb-hai-phong-20260209193750458.htm",
+      "summary": "Jourdain Ronaldo Fletcher, quốc tịch Jamaica, vừa ký hợp đồng với CLB Hải Phòng từ lượt về V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:45:08.712065+07:00",
+      "fetched": "2026-02-09T21:45:08.712182+07:00"
+    },
+    {
+      "id": "185fbb28e41df7ab9e7f71c11651a393",
+      "title": "Phát ấn đền Trần cho người dân từ 2h sáng, sớm hơn so với mọi năm",
+      "link": "https://tuoitre.vn/phat-an-den-tran-cho-nguoi-dan-tu-2h-sang-som-hon-so-voi-moi-nam-20260209192411894.htm",
+      "summary": "Ban quản lý di tích UBND phường Nam Định (Ninh Bình) cho biết sẽ phát ấn đền Trần cho người dân và du khách thập phương kể từ 2h sáng 3-3 (tức ngày 15 tháng giêng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:45:08.711932+07:00",
+      "fetched": "2026-02-09T21:45:08.712053+07:00"
+    },
+    {
+      "id": "af2ad9129df97574eb597bb04ee8396c",
+      "title": "Du lịch Tết đổi nhịp: Khách Việt đặt vé quốc tế ngày càng sát ngày bay",
+      "link": "https://tuoitre.vn/du-lich-tet-doi-nhip-khach-viet-dat-ve-quoc-te-ngay-cang-sat-ngay-bay-20260209200023773.htm",
+      "summary": "Nếu như năm ngoái 49% du khách Việt đặt vé bay cho các chuyến đi quốc tế trước từ 60 ngày trở lên, thì Tết năm nay tỉ lệ này giảm xuống còn 46%, phản ánh xu hướng đặt dịch vụ cận ngày hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:45:08.711790+07:00",
+      "fetched": "2026-02-09T21:45:08.711920+07:00"
+    },
+    {
+      "id": "c20e171eabdf8b2698ce2e11df5cf728",
+      "title": "Tận dụng 'thời gian vàng' phòng chống cướp ngân hàng, tiệm vàng dịp cận Tết",
+      "link": "https://tuoitre.vn/tan-dung-thoi-gian-vang-phong-chong-cuop-ngan-hang-tiem-vang-dip-can-tet-20260209182339709.htm",
+      "summary": "Theo công an, càng tận dụng hiệu quả \"thời gian vàng\" thì khả năng truy bắt thành công đối tượng cướp ngân hàng, tiệm vàng và thu hồi tài sản càng cao. Công an đề nghị người dân và các cơ sở kinh doanh cài đặt ứng dụng \"SOS An ninh trật tự\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:45:08.711635+07:00",
+      "fetched": "2026-02-09T21:45:08.711776+07:00"
+    },
+    {
+      "id": "75916253e95abfc1ecdd42d900991574",
+      "title": "Hơn 100 đội tham gia Hội thi gói, nấu bánh tét, lan tỏa hồn Tết phương Nam",
+      "link": "https://tuoitre.vn/hon-100-doi-tham-gia-hoi-thi-goi-nau-banh-tet-lan-toa-hon-tet-phuong-nam-20260209200535977.htm",
+      "summary": "Hội thi gói, nấu bánh tét lần thứ 14 năm 2026 ghi nhận sự gia tăng đột biến về quy mô khi có đến 102 đội đăng ký tham gia, gấp đôi so với năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:45:08.711496+07:00",
+      "fetched": "2026-02-09T21:45:08.711622+07:00"
+    },
+    {
+      "id": "9d1eb1e5fb3ec0aedc6910b0550f98a3",
+      "title": "Thế chấp sổ đỏ tăng vọt, Vietcombank 'ôm' núi bất động sản gần 2 triệu tỉ đồng",
+      "link": "https://tuoitre.vn/the-chap-so-do-tang-vot-vietcombank-om-nui-bat-dong-san-gan-2-trieu-ti-dong-20260209194318095.htm",
+      "summary": "Gần 2 triệu tỉ đồng bất động sản thế chấp chảy về Vietcombank",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:45:08.711348+07:00",
+      "fetched": "2026-02-09T21:45:08.711483+07:00"
+    },
+    {
+      "id": "922cb33d9f33a20533c12db8840c3001",
+      "title": "Thủ tướng kêu gọi các nhà ngoại giao nước ngoài cùng thực hiện '3 tạo lập'",
+      "link": "https://tuoitre.vn/thu-tuong-keu-goi-cac-nha-ngoai-giao-nuoc-ngoai-cung-thuc-hien-3-tao-lap-20260209201318868.htm",
+      "summary": "Thủ tướng Phạm Minh Chính cảm ơn sự hỗ trợ của bạn bè quốc tế, đồng thời kêu gọi sự đồng hành, đoàn kết để cùng tạo nên sức mạnh, niềm tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T21:45:08.711104+07:00",
+      "fetched": "2026-02-09T21:45:08.711333+07:00"
+    },
     {
       "id": "7b7cf0f15824f53e275b7c731fc87a9f",
       "title": "Thời điểm vàng để Saigontourist Group bứt phá, dẫn dắt du lịch TP.HCM và quốc gia",
@@ -453,6 +563,136 @@ window.newsData_2026_02_09 = {
       "fetched": "2026-02-09T15:38:45.928510+07:00"
     },
     {
+      "id": "60b32a4f5ef64e71c149ad98198a17b4",
+      "title": "Một giáo sư Việt Nam được trao Huân chương Cành cọ Hàn lâm của Pháp",
+      "link": "https://thanhnien.vn/mot-giao-su-viet-nam-duoc-trao-huan-chuong-canh-co-han-lam-cua-phap-185260209211924348.htm",
+      "summary": "Đại sứ quán Pháp vừa có thông báo về việc phong tặng danh hiệu Hiệp sĩ - Huân chương Cành cọ Hàn lâm theo sắc lệnh của Thủ tướng Chính phủ Pháp cho một giáo sư Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T14:41:00+07:00",
+      "fetched": "2026-02-09T21:45:07.887012+07:00"
+    },
+    {
+      "id": "90c7cfbb471b8b8f7e8884336c1ee374",
+      "title": "Từng ngang hàng Dương Mịch, mỹ nhân 'Thiên long bát bộ' sụp đổ vì scandal ảnh nóng",
+      "link": "https://thanhnien.vn/tung-ngang-hang-duong-mich-my-nhan-thien-long-bat-bo-sup-do-vi-scandal-anh-nong-185260209154650259.htm",
+      "summary": "Từng được xem là gương mặt đầy triển vọng của màn ảnh Hoa ngữ, Giả Thanh - nữ diễn viên nổi tiếng qua bộ phim 'Thiên long bát bộ' (2013), đã đánh mất sự nghiệp khi hàng loạt bê bối đời tư liên tiếp nổ ra. Ở tuổi 40, cô gần như biến mất khỏi làng giải trí, để lại nhiều tiếc nuối cho khán giả, Sohu đư...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T14:38:00+07:00",
+      "fetched": "2026-02-09T21:45:07.887184+07:00"
+    },
+    {
+      "id": "58116ce134256236fd7c7ab3cf2be1db",
+      "title": "Nam Định không thắng 9 trận liền ở V-League",
+      "link": "https://vnexpress.net/nam-dinh-khong-thang-9-tran-lien-o-v-league-5039331.html",
+      "summary": "Bàn thua ở phút bù thứ 7 hiệp hai khiến Nam Định hòa Hà Tĩnh 1-1 ở vòng 13, và nối dài mạch không thắng tại V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-09T14:36:14+07:00",
+      "fetched": "2026-02-09T21:45:13.829632+07:00"
+    },
+    {
+      "id": "883e531df28d825b9fe6e83d933fe3ed",
+      "title": "Đoàn kết tạo sức mạnh, hợp tác tạo nguồn lực, đối thoại tạo lòng tin",
+      "link": "https://thanhnien.vn/doan-ket-tao-suc-manh-hop-tac-tao-nguon-luc-doi-thoai-tao-long-tin-185260209211807306.htm",
+      "summary": "Tối 9.2, Thủ tướng Phạm Minh Chính và phu nhân Lê Thị Bích Trân chủ trì tiệc chiêu đãi Đoàn Ngoại giao, nhân dịp năm mới 2026 và chuẩn bị đón Tết cổ truyền Bính Ngọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T14:36:00+07:00",
+      "fetched": "2026-02-09T21:45:07.887346+07:00"
+    },
+    {
+      "id": "7daa7a8c6223d247e31fe4ac87db603c",
+      "title": "Đào, quất ế ẩm, tiểu thương đỏ mắt mong 'trời đừng mưa nữa'",
+      "link": "https://thanhnien.vn/dao-quat-e-am-tieu-thuong-do-mat-mong-troi-dung-mua-nua-185260209191641092.htm",
+      "summary": "Hai ngày Hà Nội đón không khí lạnh tăng cường là hai ngày tiểu thương buôn bán cây cảnh tết tại thủ đô buồn nhất vì không có khách hỏi mua. Họ hy vọng, từ nay đến Tết Nguyên đán thời tiết sẽ không mưa để công việc bán hàng được thuận lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T14:32:00+07:00",
+      "fetched": "2026-02-09T21:45:07.887509+07:00"
+    },
+    {
+      "id": "1222b0c96dcc3ea32e83d81e7930b804",
+      "title": "'Nàng thơ' phim 'Em và Trịnh' vừa được bạn trai nhạc trưởng cầu hôn là ai?",
+      "link": "https://thanhnien.vn/nang-tho-phim-em-va-trinh-vua-duoc-ban-trai-nhac-truong-cau-hon-la-ai-185260209161346281.htm",
+      "summary": "Thông tin diễn viên Lan Thy - người thủ vai Bích Diễm trong phim điện ảnh 'Em và Trịnh' - nhận lời cầu hôn từ bạn trai là nhạc trưởng Dustin Tiêu đã thu hút sự chú ý của cộng đồng mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T14:30:00+07:00",
+      "fetched": "2026-02-09T21:45:07.887667+07:00"
+    },
+    {
+      "id": "9112d3b71e2f6fbfdb18116c3003a5c2",
+      "title": "Viện KSND TP.HCM chung tay ‘vì một cái Tết ấm no’ trọn vẹn",
+      "link": "https://thanhnien.vn/vien-ksnd-tphcm-chung-tay-vi-mot-cai-tet-am-no-tron-ven-18526020920471634.htm",
+      "summary": "Đoàn đại biểu Viện KSND TP.HCM do Viện trưởng Lê Văn Đông làm trưởng đoàn đã thăm, chúc tết các em học sinh khiếm khuyết; học sinh, người dân có hoàn cảnh khó khăn ở xã Cần Giờ, phường Khánh Hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T14:27:00+07:00",
+      "fetched": "2026-02-09T21:45:07.887842+07:00"
+    },
+    {
+      "id": "8fa4982cd69850133dfa5bf43b256e77",
+      "title": "Ông Trịnh Văn Quyết lần đầu lên tiếng sau khi tái xuất",
+      "link": "https://vnexpress.net/ong-trinh-van-quyet-lan-dau-len-tieng-sau-khi-tai-xuat-5039326.html",
+      "summary": "Người sáng lập Bamboo Airways Trịnh Văn Quyết nói sẽ gia hạn thẻ hội viên thêm một năm cho gần 3 triệu khách hàng của hãng hàng không.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-09T14:25:18+07:00",
+      "fetched": "2026-02-09T21:45:10.995417+07:00"
+    },
+    {
+      "id": "76d6d4198a0ffe858abfd7ea71d8587f",
+      "title": "NSND Tấn Minh tiết lộ hôn nhân với vợ là Giám đốc Nhà hát Chèo",
+      "link": "https://thanhnien.vn/nsnd-tan-minh-tiet-lo-hon-nhan-voi-vo-la-giam-doc-nha-hat-cheo-185260209172331248.htm",
+      "summary": "Trong chương trình 'Khách sạn 5 sao', NSND Tấn Minh và NSND Thu Huyền có những trải lòng về sự nghiệp cũng như cuộc sống hôn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T14:24:00+07:00",
+      "fetched": "2026-02-09T21:45:07.888009+07:00"
+    },
+    {
+      "id": "729c33fd08a1ab5fd769ee88d8890795",
+      "title": "Nga tố Ba Lan tiếp tay cho Ukraine ám sát tướng tình báo",
+      "link": "https://thanhnien.vn/nga-to-ba-lan-tiep-tay-cho-ukraine-am-sat-tuong-tinh-bao-185260209193326634.htm",
+      "summary": "Cơ quan An ninh Liên bang Nga (FSB) ngày 9.2 cáo buộc Cơ quan Tình báo Ba Lan đã hỗ trợ Ukraine dàn dựng vụ ám sát hụt trung tướng Vladimir Alekseyev, quan chức cấp cao của tình báo quân sự Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T14:23:00+07:00",
+      "fetched": "2026-02-09T21:45:07.888165+07:00"
+    },
+    {
+      "id": "3f28873cbac01087d927fe618493c96c",
+      "title": "'Nữ hoàng trượt tuyết' gãy chân ở Olympic mùa Đông 2026",
+      "link": "https://vnexpress.net/nu-hoang-truot-tuyet-gay-chan-o-olympic-mua-dong-2026-5030879.html",
+      "summary": "Lindsey Vonn, người Mỹ, được trực thăng đưa đi cấp cứu khẩn cấp sau tai nạn nghiêm trọng ở Thế vận hội mùa Đông 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-09T14:09:37+07:00",
+      "fetched": "2026-02-09T21:45:13.830821+07:00"
+    },
+    {
+      "id": "2608b34af633ee399dab1590aa6a651a",
+      "title": "Những viên kẹo tẩm thuốc an thần của kẻ ấu dâm trong trại hè",
+      "link": "https://vnexpress.net/nhung-vien-keo-tam-thuoc-an-than-cua-ke-au-dam-trong-trai-he-5031081.html",
+      "summary": "Dưới vỏ bọc là nhà từ thiện đáng kính, Jon Ruben dụ những đứa trẻ ăn kẹo tẩm thuốc an thần để lạm dụng tình dục trong các trại hè miễn phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T14:00:00+07:00",
+      "fetched": "2026-02-09T21:45:04.946022+07:00"
+    },
+    {
+      "id": "ce373d53372b1db5f8c12479bd51634d",
+      "title": "Phong cách con gái Beyoncé ở tuổi 14",
+      "link": "https://vnexpress.net/phong-cach-con-gai-beyonce-o-tuoi-14-5017953.html",
+      "summary": "Blue Ivy Carter - con gái 14 tuổi của danh ca Beyoncé - cao 1,75 m, thường diện mốt Y2K, đầm dự tiệc cắt xẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:59:30+07:00",
+      "fetched": "2026-02-09T21:45:04.946205+07:00"
+    },
+    {
       "id": "47724c3ab14dcb7a5fc19e05142f3575",
       "title": "Tổng Bí thư: Đầu tư hạ tầng để TP.HCM đi Bình Dương, sân bay Long Thành chỉ 30 phút",
       "link": "https://tuoitre.vn/tong-bi-thu-dau-tu-ha-tang-de-tp-hcm-di-binh-duong-san-bay-long-thanh-chi-30-phut-20260208234225042.htm",
@@ -603,6 +843,186 @@ window.newsData_2026_02_09 = {
       "fetched": "2026-02-09T13:54:49.583257+07:00"
     },
     {
+      "id": "86e3a8d8ebbd6159ab096c4baa5c5a08",
+      "title": "Lý Hùng nghẹn ngào khi cùng em gái Lý Hương thực hiện di nguyện của cha",
+      "link": "https://thanhnien.vn/ly-hung-nghen-ngao-khi-cung-em-gai-ly-huong-thuc-hien-di-nguyen-cua-cha-185260209160654737.htm",
+      "summary": "Diễn viên Lý Hùng, Lý Hương cùng đại gia đình đến thăm, tặng quà cho các nghệ sĩ lão thành ở Trung tâm Dưỡng lão Thị Nghè (TP.HCM), trước thềm Tết Nguyên đán 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:53:00+07:00",
+      "fetched": "2026-02-09T21:45:07.888326+07:00"
+    },
+    {
+      "id": "794619c33690100d12bd257e1772eea8",
+      "title": "Linh vật ngựa mặt 'cọc' gây sốt phố biển Quy Nhơn",
+      "link": "https://thanhnien.vn/linh-vat-ngua-mat-coc-gay-sot-pho-bien-quy-nhon-185260209172702229.htm",
+      "summary": "Dàn linh vật ngựa độc lạ ở quảng trường Quy Nhơn gây sốt với biểu cảm hài hước, từ ngựa siêu nhân đến cô ngựa mặt 'cọc' ôm điện thoại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:50:00+07:00",
+      "fetched": "2026-02-09T21:45:07.888481+07:00"
+    },
+    {
+      "id": "066b4d6bb3fbda20c565493901cd7d9c",
+      "title": "Iran sẵn sàng pha loãng uranium nếu được dỡ trừng phạt",
+      "link": "https://vnexpress.net/iran-san-sang-pha-loang-uranium-neu-duoc-do-trung-phat-5038178.html",
+      "summary": "Iran tuyên bố sẵn sàng \"pha loãng\" uranium làm giàu cao nếu như toàn bộ lệnh trừng phạt áp lên nước này được dỡ bỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:47:11+07:00",
+      "fetched": "2026-02-09T21:45:04.946371+07:00"
+    },
+    {
+      "id": "066b4d6bb3fbda20c565493901cd7d9c",
+      "title": "Iran sẵn sàng pha loãng uranium nếu được dỡ trừng phạt",
+      "link": "https://vnexpress.net/iran-san-sang-pha-loang-uranium-neu-duoc-do-trung-phat-5038178.html",
+      "summary": "Iran tuyên bố sẵn sàng \"pha loãng\" uranium làm giàu cao nếu như toàn bộ lệnh trừng phạt áp lên nước này được dỡ bỏ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-09T13:47:11+07:00",
+      "fetched": "2026-02-09T21:45:09.747486+07:00"
+    },
+    {
+      "id": "b0238728e1edd2f200e94d8724ee15f8",
+      "title": "Tự hào về sự hy sinh thầm lặng của các chiến sĩ nơi đầu sóng ngọn gió",
+      "link": "https://thanhnien.vn/tu-hao-ve-su-hy-sinh-tham-lang-cua-cac-chien-si-noi-dau-song-ngon-gio-185260209183645939.htm",
+      "summary": "Ngày 9.2, anh Nguyễn Minh Triết, Ủy viên dự khuyết T.Ư Đảng, Bí thư thường trực T.Ư Đoàn, Chủ tịch Hội Sinh viên Việt Nam đã đến thăm, chúc tết các chiến sĩ, cán bộ Vùng 4 Hải quân tại Cam Ranh (Khánh Hòa).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:44:00+07:00",
+      "fetched": "2026-02-09T21:45:07.888631+07:00"
+    },
+    {
+      "id": "c3309639ebac45cef1385d14f6c09af2",
+      "title": "Chồng đề nghị ly hôn vào 49 ngày đứa con chưa chào đời mất",
+      "link": "https://vnexpress.net/chong-de-nghi-ly-hon-vao-49-ngay-dua-con-chua-chao-doi-mat-5025171.html",
+      "summary": "Lúc dọn dẹp đồ đạc của bản thân, em tìm thấy bao cao su trong chiếc quần bẩn của chồng ném ra để giặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:39:41+07:00",
+      "fetched": "2026-02-09T21:45:04.946530+07:00"
+    },
+    {
+      "id": "6dd2c7295be3d75a9e64682412e9873e",
+      "title": "Người đòi '4,5 tỷ đồng trong cốp xe SH' thua kiện",
+      "link": "https://vnexpress.net/nguoi-doi-4-5-ty-dong-trong-cop-xe-sh-thua-kien-5034148.html",
+      "summary": "Tòa xác định ông Đức không đủ chứng cứ chứng minh đã để 4,5 tỷ đồng trong cốp xe SH Mode mang đến đặt cọc mua nhà, nên bác yêu cầu khởi kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:38:27+07:00",
+      "fetched": "2026-02-09T21:45:04.946689+07:00"
+    },
+    {
+      "id": "aecfc58454dbce9d6851515414b2181c",
+      "title": "'Đánh vật' với tắc đường Hà Nội ngày cận Tết",
+      "link": "https://vnexpress.net/danh-vat-voi-tac-duong-ha-noi-ngay-can-tet-5038289.html",
+      "summary": "Mất 4 tiếng cho quãng đường 10 km trong ngày cận Tết, nhiều người Hà Nội phải bỏ taxi đi bộ hoặc chuẩn bị sẵn đồ ăn, sạc pin điện thoại để cầm cự với tắc đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:30:45+07:00",
+      "fetched": "2026-02-09T21:45:04.946877+07:00"
+    },
+    {
+      "id": "59a270fa8e48c0dbd9502e1bda2945ca",
+      "title": "Bảng xếp hạng V-League mới nhất: ĐKVĐ Nam Định rơi sâu thẳm, bị cả HAGL và SLNA vượt mặt",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-dkvd-nam-dinh-roi-sau-tham-bi-ca-hagl-va-slna-vuot-mat-185260209201422219.htm",
+      "summary": "CLB Nam Định đánh rơi chiến thắng trong những phút bù giờ trận gặp CLB Hà Tĩnh. Với kết quả này, đương kim vô địch (ĐKVĐ) V-League lại tụt bậc trên bảng xếp hạng sau vòng 13.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:22:00+07:00",
+      "fetched": "2026-02-09T21:45:07.888804+07:00"
+    },
+    {
+      "id": "0e0946dbb228d0e93646709c0127ba8c",
+      "title": "Bệnh viện đa khoa Thủ Đức tổ chức phiên chợ 0 đồng: Vui tết tròn đầy",
+      "link": "https://thanhnien.vn/benh-vien-da-khoa-thu-duc-to-chuc-phien-cho-0-dong-vui-tet-tron-day-18526020920182987.htm",
+      "summary": "Sáng 8.2, Bệnh viện đa khoa Thủ Đức tổ chức chương trình phiên chợ 0 đồng lần thứ 14, với chủ đề 'Vui tết tròn đầy - Gửi ngàn yêu thương', trao đi hơn 5.000 phần quà cho bệnh nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:18:00+07:00",
+      "fetched": "2026-02-09T21:45:07.888963+07:00"
+    },
+    {
+      "id": "50c7775f076d1f18fad48e86189c2a26",
+      "title": "Rơi trực thăng tập trận, 2 quân nhân Hàn Quốc thiệt mạng",
+      "link": "https://thanhnien.vn/roi-truc-thang-tap-tran-2-quan-nhan-han-quoc-thiet-mang-185260209191411733.htm",
+      "summary": "Hàn Quốc đã tạm đình chỉ hoạt động toàn bộ phi đội trực thăng quân sự AH-1S Cobra sau khi một chiếc gặp tai nạn trong cuộc tập trận, khiến 2 quân nhân thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:07:00+07:00",
+      "fetched": "2026-02-09T21:45:07.889117+07:00"
+    },
+    {
+      "id": "2fe587a0d2b66d251b59bb06491b95c9",
+      "title": "Nam Định phải tự trách mình khi bị Hà Tĩnh gỡ hòa phút 90+8, Xuân Son ‘đi đâu’ rồi!",
+      "link": "https://thanhnien.vn/nam-dinh-phai-tu-trach-minh-khi-bi-ha-tinh-go-hoa-phut-907-xuan-son-di-dau-roi-185260209195852021.htm",
+      "summary": "Tối 9.2, ở vòng 13 V-League 2025-2026, Xuân Son không ghi bàn trong trận hòa 1-1 giữa CLB Nam Định và Hà Tĩnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:05:00+07:00",
+      "fetched": "2026-02-09T21:45:07.889271+07:00"
+    },
+    {
+      "id": "9fbcee6fb18476564dadd0dc7eb1152e",
+      "title": "Đường phố Thủ đô ùn ứ cả ngày",
+      "link": "https://vnexpress.net/duong-pho-thu-do-un-u-ca-ngay-5037653.html",
+      "summary": "Những ngày giáp Tết Bính Ngọ 2026, đường phố Hà Nội trong tình trạng ùn ứ kéo dài nhiều giờ, đặc biệt ở những tuyến vành đai, đường trục lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:04:15+07:00",
+      "fetched": "2026-02-09T21:45:04.947033+07:00"
+    },
+    {
+      "id": "4368b50f46e238d5cd09d910ae34195f",
+      "title": "Chuyên gia hướng dẫn nghi thức cúng ông Táo 2026",
+      "link": "https://vnexpress.net/chuyen-gia-huong-dan-nghi-thuc-cung-ong-tao-2026-5009232.html",
+      "summary": "Lễ cúng ông Công ông Táo là một trong những nét văn hóa tâm linh đặc sắc của người Việt, thường được tiến hành từ 18-23 tháng Chạp, nhưng năm nay tránh ngày 18 và 22.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:01:45+07:00",
+      "fetched": "2026-02-09T21:45:04.947187+07:00"
+    },
+    {
+      "id": "465d977b1a61e17c6d2e95e5e544f652",
+      "title": "Hành trình trưởng thành của Nguyễn Đình Bắc",
+      "link": "https://vnexpress.net/hanh-trinh-truong-thanh-cua-nguyen-dinh-bac-5026944.html",
+      "summary": "Từng bị loại khỏi lò đào tạo Sông Lam Nghệ An vì thể hình nhỏ con, Nguyễn Đình Bắc vươn lên trở thành trụ cột U23 Việt Nam, góp công đưa Quảng Nam trở lại V-League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:00:00+07:00",
+      "fetched": "2026-02-09T21:45:04.947347+07:00"
+    },
+    {
+      "id": "f8992cc1cb2d52362511b48e88a80c5f",
+      "title": "Vì sao phụ nữ mãn kinh loãng xương nhanh?",
+      "link": "https://vnexpress.net/vi-sao-phu-nu-man-kinh-loang-xuong-nhanh-5026343.html",
+      "summary": "Chế độ ăn thiếu canxi, vitamin D, magie, suy giảm nội tiết tố estrogen trong thời kỳ mãn kinh gây loãng xương nhanh, tăng nguy cơ ngã.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:00:00+07:00",
+      "fetched": "2026-02-09T21:45:04.947502+07:00"
+    },
+    {
+      "id": "45060cbb8bb754ff2d5c9276b956171a",
+      "title": "Xe máy điện Việt Nam đến Indonesia",
+      "link": "https://vnexpress.net/xe-may-dien-viet-nam-den-indonesia-5014717.html",
+      "summary": "VinFast sẽ bán các dòng xe máy điện thông qua loạt đối tác đại lý phân phối ở thị trường Indonesia, bắt đầu từ quý II năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T13:00:00+07:00",
+      "fetched": "2026-02-09T21:45:04.947660+07:00"
+    },
+    {
+      "id": "b92521a7b608cb3ad7044f3ddaa8ecf0",
+      "title": "Thế giới mua bao nhiêu vàng trong năm qua?",
+      "link": "https://vnexpress.net/the-gioi-mua-bao-nhieu-vang-trong-nam-qua-5031730.html",
+      "summary": "Nhu cầu mua vàng của toàn cầu trong năm 2025 tăng kỷ lục khi giá của kim loại quý liên tục lập đỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T12:28:15+07:00",
+      "fetched": "2026-02-09T21:45:04.947841+07:00"
+    },
+    {
       "id": "be0c1aecaddd6a82be1ae1268552cd29",
       "title": "Vụ thảm sát 3 người trong 1 gia đình ở Đồng Nai: Lê Sỹ Tùng bị tuyên án tử hình",
       "link": "https://thanhnien.vn/vu-tham-sat-3-nguoi-trong-1-gia-dinh-o-dong-nai-le-sy-tung-bi-tuyen-an-tu-hinh-185260209184429789.htm",
@@ -611,6 +1031,16 @@ window.newsData_2026_02_09 = {
       "category": "Tổng hợp",
       "published": "2026-02-09T12:24:00+07:00",
       "fetched": "2026-02-09T19:44:33.733416+07:00"
+    },
+    {
+      "id": "c11612cd1a37d5e6b4ed58d267026a56",
+      "title": "Xe tải chở bột mì bốc cháy trên đèo Lò Xo",
+      "link": "https://vnexpress.net/xe-tai-cho-bot-mi-boc-chay-tren-deo-lo-xo-5036155.html",
+      "summary": "Ôtô đầu kéo chở bột mì bất ngờ bốc cháy khi đang lưu thông trên đèo Lò Xo, đoạn qua xã Đăk Plô khiến phần đầu xe bị thiêu rụi, chiều 9/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T12:11:34+07:00",
+      "fetched": "2026-02-09T21:45:04.947996+07:00"
     },
     {
       "id": "d42b0dfc14b7b6cc40844743668b0205",
@@ -631,6 +1061,16 @@ window.newsData_2026_02_09 = {
       "category": "Tổng hợp",
       "published": "2026-02-09T12:00:00+07:00",
       "fetched": "2026-02-09T19:44:33.733587+07:00"
+    },
+    {
+      "id": "c093cbfce9441fccc69d7f6296931921",
+      "title": "Quốc gia nào nhỏ nhất châu Á?",
+      "link": "https://vnexpress.net/quoc-gia-nao-nho-nhat-chau-a-5028778.html",
+      "summary": "Quốc gia nhỏ nhất châu Á nằm trên biển Ấn Độ Dương, trải dài qua đường xích đạo và gồm hơn 1.100 hòn đảo lớn nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T12:00:00+07:00",
+      "fetched": "2026-02-09T21:45:04.948306+07:00"
     },
     {
       "id": "a86ef3dbd8240bdafb798702f7ee2b3d",
