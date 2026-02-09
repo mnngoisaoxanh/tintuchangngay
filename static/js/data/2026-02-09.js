@@ -1,7 +1,147 @@
 window.newsData_2026_02_09 = {
   "date": "2026-02-09",
-  "lastUpdated": "2026-02-09T05:16:57.534252+07:00",
+  "lastUpdated": "2026-02-09T08:17:17.721720+07:00",
   "articles": [
+    {
+      "id": "bae5bbbe6cdce178b86e1fb534d90df1",
+      "title": "Nhờ đâu cầu thủ Việt Nam có thể đá 120 phút với đối thủ Tây Á?",
+      "link": "https://tuoitre.vn/nho-dau-cau-thu-viet-nam-co-the-da-120-phut-voi-doi-thu-tay-a-2026020812592407.htm",
+      "summary": "Một trong những điều gây ấn tượng nhất của thầy trò ông Kim Sang Sik ở Giải U23 châu Á 2026 là yếu tố thể lực, khi U23 Việt Nam tự tin đá sòng phẳng với các cầu thủ Tây Á cho đến tận những phút cuối cùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T08:17:09.232237+07:00",
+      "fetched": "2026-02-09T08:17:09.232348+07:00"
+    },
+    {
+      "id": "dd0de12869ec5dec140c532473874e0f",
+      "title": "Thời tiết hôm nay 9-2: Bắc Bộ rét căm căm, Nam Bộ sáng lạnh, trưa nắng oi",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-9-2-bac-bo-ret-cam-cam-nam-bo-sang-lanh-trua-nang-oi-20260208205838224.htm",
+      "summary": "Hôm nay 9-2, hai kiểu thời tiết trái ngược nhau xảy ra ở hai miền Bắc, Nam nước ta, một nơi rét căm căm, một nơi trưa nắng oi, còn miền Trung ở giữa lại mưa rào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T08:17:09.232115+07:00",
+      "fetched": "2026-02-09T08:17:09.232226+07:00"
+    },
+    {
+      "id": "62ac032b658919bbd5b0fec4b5c03fb0",
+      "title": "Sân bay Tân Sơn Nhất: Đừng để trễ chuyến vì nhầm 3 nhà ga",
+      "link": "https://tuoitre.vn/san-bay-tan-son-nhat-dung-de-tre-chuyen-vi-nham-3-nha-ga-2026020822084933.htm",
+      "summary": "Việc đưa nhà ga T3 vào vận hành đã giải bài toán quá tải cho sân bay Tân Sơn Nhất. Nhưng không ít hành khách, đặc biệt người ít đi máy bay, rơi vào cảnh \"dở khóc dở cười\" vì trễ chuyến, lạc lối giữa 3 nhà ga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T08:17:09.231993+07:00",
+      "fetched": "2026-02-09T08:17:09.232105+07:00"
+    },
+    {
+      "id": "48c62aeed9689b4ab878a356c390465a",
+      "title": "Man City thắng 'nghẹt thở' Liverpool trong trận cầu đầy tranh cãi",
+      "link": "https://tuoitre.vn/man-city-thang-nghet-tho-liverpool-trong-tran-cau-day-tranh-cai-2026020902242857.htm",
+      "summary": "Rạng sáng 9-2, Man City đã đánh bại chủ nhà Liverpool 2-1 ở trận cầu tâm điểm vòng 25 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T08:17:09.231869+07:00",
+      "fetched": "2026-02-09T08:17:09.231982+07:00"
+    },
+    {
+      "id": "d7df78863c2d97de629a5d82b69cf112",
+      "title": "Tết này không còn cảnh nghẽn mạng?",
+      "link": "https://tuoitre.vn/tet-nay-khong-con-canh-nghen-mang-20260208220422035.htm",
+      "summary": "Với vùng phủ sóng 5G lên đến hơn 90% dân số, các nhà mạng đều tự tin dịp Tết Bính Ngọ tốc độ mạng sẽ \"mã đáo thành công\". Tuy nhiên, người dùng vẫn lo ngại tình trạng nghẽn cục bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T08:17:09.231706+07:00",
+      "fetched": "2026-02-09T08:17:09.231856+07:00"
+    },
+    {
+      "id": "fdb83242252e03d8df68d3b066bad19c",
+      "title": "Tin tức sáng 9-2: Hoàn thiện 'Cổng một cửa đầu tư quốc gia'; Thế Giới Di Động tuyển hàng nghìn người",
+      "link": "https://tuoitre.vn/tin-tuc-sang-9-2-hoan-thien-cong-mot-cua-dau-tu-quoc-gia-the-gioi-di-dong-tuyen-hang-nghin-nguoi-20260208222420251.htm",
+      "summary": "Tin tức đáng chú ý: Khẩn trương nghiên cứu, hoàn thiện 'Cổng một cửa đầu tư quốc gia'; Đề xuất quy định mới về hoạt động bay; Thế Giới Di Động tuyển dụng trở lại hàng nghìn nhân sự...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T08:17:09.231579+07:00",
+      "fetched": "2026-02-09T08:17:09.231691+07:00"
+    },
+    {
+      "id": "5d9b9f4d674076d2af59095833c9013d",
+      "title": "Trường Giang khuyên Đình Bắc: Cầu thủ muốn thành công thì phải tránh xa showbiz?",
+      "link": "https://tuoitre.vn/truong-giang-khuyen-dinh-bac-cau-thu-muon-thanh-cong-thi-phai-tranh-xa-showbiz-20260208221803223.htm",
+      "summary": "Đông đảo bạn đọc Tuổi Trẻ Online ủng hộ Trường Giang, mong Đình Bắc tiến xa trong tương lai. Số ít bạn đọc cho rằng lời khuyên đúng nhưng sai chỗ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T08:17:09.231456+07:00",
+      "fetched": "2026-02-09T08:17:09.231568+07:00"
+    },
+    {
+      "id": "e14e129cbac865278f089d9a4968c933",
+      "title": "2 ngày 1 đêm khởi động mùa 'Tết hy vọng' cùng bà con tại Phú Yên",
+      "link": "https://tuoitre.vn/2-ngay-1-dem-khoi-dong-mua-tet-hy-vong-cung-ba-con-tai-phu-yen-2026020901115292.htm",
+      "summary": "Tối 8-2, 2 ngày 1 đêm phiên bản Tết chính thức lên sóng tập đầu tiên tại Phú Yên cũ với chủ đề Tết hy vọng, mang đến một hành trình vừa rộn tiếng cười, vừa đậm ý nghĩa sẻ chia sau mùa lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T08:17:09.231330+07:00",
+      "fetched": "2026-02-09T08:17:09.231445+07:00"
+    },
+    {
+      "id": "523dfbc93bbbe463b4cb832d6627f11a",
+      "title": "Tùng Dương, Võ Hạ Trâm, Tấn Minh 'hát cho những trái tim đã đi rất xa để về' trong Xuân quê hương",
+      "link": "https://tuoitre.vn/tung-duong-vo-ha-tram-tan-minh-hat-cho-nhung-trai-tim-da-di-rat-xa-de-ve-trong-xuan-que-huong-20260209041122452.htm",
+      "summary": "Trung tâm Hội nghị Quốc gia chật kín người; 1.500 kiều bào từ khắp nơi trên thế giới về nước đón Tết có mặt đầy đủ để dự Xuân quê hương 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T08:17:09.231206+07:00",
+      "fetched": "2026-02-09T08:17:09.231320+07:00"
+    },
+    {
+      "id": "ce9e3621bf4f5e4e09405ecf23221139",
+      "title": "Phim Việt mùa thấp điểm, doanh thu bết bát",
+      "link": "https://tuoitre.vn/phim-viet-mua-thap-diem-doanh-thu-bet-bat-20260208155249106.htm",
+      "summary": "Phòng vé Việt đầu năm 2026 chứng kiến cảnh phim nội địa chật vật tìm khán giả. Nhiều dự án ra rạp giữa mùa thấp điểm nhưng vẫn rơi vào tình trạng ế ẩm, đối mặt nguy cơ thua lỗ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T08:17:09.231079+07:00",
+      "fetched": "2026-02-09T08:17:09.231194+07:00"
+    },
+    {
+      "id": "228085a2d6498f17bef0a00b387982ce",
+      "title": "Tin tức thế giới 9-2: Mexico viện trợ Cuba bằng đường biển; Bầu cử Thái Lan, Nhật Bản ngã ngũ",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-9-2-mexico-vien-tro-cuba-bang-duong-bien-bau-cu-thai-lan-nhat-ban-nga-ngu-20260209052607553.htm",
+      "summary": "Ông Trump nói ông Tập Cận Bình sẽ thăm Mỹ cuối năm nay; Hôm nay ông trùm truyền thông Jimmy Lai bị tuyên án tại Hong Kong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T08:17:09.230949+07:00",
+      "fetched": "2026-02-09T08:17:09.231067+07:00"
+    },
+    {
+      "id": "225fe64c3e72251d0ded1e16d20030e8",
+      "title": "CĐV Thái Lan kêu gọi bóng đá nước nhà... ngừng học theo Nhật Bản",
+      "link": "https://tuoitre.vn/cdv-thai-lan-keu-goi-bong-da-nuoc-nha-ngung-hoc-theo-nhat-ban-20260209003541693.htm",
+      "summary": "Một cuộc tranh luận sôi nổi diễn ra trên các chuyên trang và diễn đàn bóng đá Thái Lan, khi đông đảo người hâm mộ bóng đá nước này phản đối chính sách \"học theo người Nhật\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T08:17:09.230801+07:00",
+      "fetched": "2026-02-09T08:17:09.230936+07:00"
+    },
+    {
+      "id": "7c3df2f624b39bfaf12bbe788f55c4ec",
+      "title": "Ngoại trưởng Lavrov: Nga sẽ không tấn công châu Âu",
+      "link": "https://tuoitre.vn/ngoai-truong-lavrov-nga-se-khong-tan-cong-chau-au-2026020906455438.htm",
+      "summary": "Ông Lavrov lưu ý nếu châu Âu tấn công Nga trước thì \"khi đó sẽ không phải là một chiến dịch quân sự đặc biệt từ phía chúng tôi, mà sẽ là một phản ứng quân sự toàn diện\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T08:17:09.230639+07:00",
+      "fetched": "2026-02-09T08:17:09.230787+07:00"
+    },
+    {
+      "id": "3d1f8c036b9d5e3f34a1881b48d507ed",
+      "title": "Tú Sương, Quế Trân, Võ Minh Lâm quậy tưng bừng trong Gánh cải trạng nguyên",
+      "link": "https://tuoitre.vn/tu-suong-que-tran-vo-minh-lam-quay-tung-bung-trong-ganh-cai-trang-nguyen-20260209064551756.htm",
+      "summary": "Sân khấu cải lương mới Đại Việt vừa tổ chức phúc khảo vở cải lương Tết Gánh cải trạng nguyên. Bộ ba diễn viên Tú Sương, Quế Trân, Võ Minh Lâm đảm nhiệm nhân vật chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T08:17:09.230408+07:00",
+      "fetched": "2026-02-09T08:17:09.230624+07:00"
+    },
     {
       "id": "20b48cc49452d88d135c2d68de6f18e4",
       "title": "Kết quả sơ bộ bầu cử Thái Lan: Đảng Bhumjaithai bất ngờ dẫn đầu",
@@ -151,6 +291,406 @@ window.newsData_2026_02_09 = {
       "category": "Tổng hợp",
       "published": "2026-02-09T01:23:37.887625+07:00",
       "fetched": "2026-02-09T01:23:37.887830+07:00"
+    },
+    {
+      "id": "11bf5ae891aa9563a156d95cbe488cf5",
+      "title": "Thủ tướng Takaichi: Tiềm năng quan hệ Nhật - Mỹ là vô hạn",
+      "link": "https://vnexpress.net/thu-tuong-takaichi-tiem-nang-quan-he-nhat-my-la-vo-han-5015787.html",
+      "summary": "Bà Takaichi bày tỏ mong muốn thăm Nhà Trắng và đề cao quan hệ Nhật - Mỹ, sau khi đảng LDP giành chiến thắng áp đảo trong bầu cử.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-09T01:09:05+07:00",
+      "fetched": "2026-02-09T08:17:10.595282+07:00"
+    },
+    {
+      "id": "1f06d2dc33121e72594856f68401aa54",
+      "title": "Người tập gym: Ăn yến mạch buổi sáng liệu có đủ năng lượng?",
+      "link": "https://thanhnien.vn/nguoi-tap-gym-an-yen-mach-buoi-sang-lieu-co-du-nang-luong-185260205174013933.htm",
+      "summary": "Yến mạch là một trong những loại ngũ cốc nguyên hạt tốt nhất cho sức khỏe. Với người tập gym, ăn yến mạch vào buổi sáng không chỉ lành mạnh mà còn giúp kiểm soát calo cực kỳ hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T01:04:00+07:00",
+      "fetched": "2026-02-09T08:17:08.210765+07:00"
+    },
+    {
+      "id": "d88c95f462cde831b7a9b748d17fa63d",
+      "title": "Giá heo hơi hôm nay 9.2.2026: Thấp nhất 72.000 đồng/kg",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-922026-thap-nhat-72000-dong-kg-185260209075132145.htm",
+      "summary": "Thị trường heo hơi ngày đầu tuần vẫn ghi nhận xu hướng đi xuống. Khảo sát mới nhất cho thấy giá heo hơi trên cả nước đang được giao dịch trong khoảng 72.000 - 76.000 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T01:00:00+07:00",
+      "fetched": "2026-02-09T08:17:08.210936+07:00"
+    },
+    {
+      "id": "a2ebf329fb4e28f9b65c789c62415622",
+      "title": "The Legend Shophouse: Khi kiến trúc giao thương hòa cùng nhịp sống tinh hoa",
+      "link": "https://thanhnien.vn/the-legend-shophouse-khi-kien-truc-giao-thuong-hoa-cung-nhip-song-tinh-hoa-185260208160543021.htm",
+      "summary": "Giữa tâm điểm Van Phuc City, The Legend Shophouse mở ra một mô hình sống - kinh doanh đẳng cấp. Kiến trúc phục vụ giao thương và giao thương nâng tầm thành nhịp sống tinh hoa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T01:00:00+07:00",
+      "fetched": "2026-02-09T08:17:08.211093+07:00"
+    },
+    {
+      "id": "120ed53763ca34c982c2772b4b000f8c",
+      "title": "Techcom Life tiên phong ứng dụng AI nâng tầm trải nghiệm khách hàng bảo hiểm",
+      "link": "https://thanhnien.vn/techcom-life-tien-phong-ung-dung-ai-nang-tam-trai-nghiem-khach-hang-bao-hiem-185260208151002166.htm",
+      "summary": "Trong bối cảnh nhu cầu và kỳ vọng của khách hàng ngày càng gia tăng, Techcombank cùng Bảo hiểm Nhân thọ Kỹ Thương (Techcom Life) liên tục đổi mới cách tiếp cận, nâng tầm trải nghiệm bảo hiểm theo hướng cá nhân hóa, dựa trên nền tảng dữ liệu và công nghệ. Nhờ các giải pháp bảo hiểm được thiết kế sát ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T01:00:00+07:00",
+      "fetched": "2026-02-09T08:17:08.211247+07:00"
+    },
+    {
+      "id": "e444587ed4c7815feb0dd511f3a1a685",
+      "title": "Những kiểu chân váy đa năng cho nàng mặc đẹp cả năm",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-kieu-chan-vay-da-nang-cho-nang-mac-dep-ca-nam-185260202182034759.htm",
+      "summary": "Từ những phom dáng cơ bản như chân váy chữ A, chân váy bút chì, chân váy đuôi cá... mỗi thiết kế lại được tạo thêm nét riêng bằng những đường viền bèo, nếp gấp xếp ly, đường xẻ tà, chất liệu vải, kỹ thuật hay màu sắc tạo nên sự độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T01:00:00+07:00",
+      "fetched": "2026-02-09T08:17:08.211397+07:00"
+    },
+    {
+      "id": "1ca299bb27a614e0d6954fb6561ef1c7",
+      "title": "Giá xăng dầu hôm nay 9.2.2026: Xăng trong nước tăng trong kỳ điều chỉnh trước tết?",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-922026-xang-trong-nuoc-tang-trong-ky-dieu-chinh-truoc-tet-185260209073109056.htm",
+      "summary": "Giá dầu thế giới sáng nay quay đầu giảm nhẹ, diễn biến cho thấy, xu hướng tuần này giá sẽ tăng nhẹ. Trong nước, dự báo giá xăng dầu có thể tăng đồng loạt tại kỳ điều hành cuối cùng của năm Ất Tỵ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T00:57:00+07:00",
+      "fetched": "2026-02-09T08:17:08.211547+07:00"
+    },
+    {
+      "id": "2efc1cccc7d24544809c6248c3803cf9",
+      "title": "Kịch tết 2026: 'Muôn vị' đón xuân",
+      "link": "https://thanhnien.vn/kich-tet-2026-muon-vi-don-xuan-185260208220251115.htm",
+      "summary": "Tết là mùa sân khấu kịch phía nam hoạt động sôi động nhất. Năm nay, dù bối cảnh kinh tế khó khăn, các ông bà bầu vẫn đầu tư lớn cho sân khấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T00:56:00+07:00",
+      "fetched": "2026-02-09T08:17:08.211694+07:00"
+    },
+    {
+      "id": "6ff6a7dfa074404bee68c7b8d104f76a",
+      "title": "Những cô gái hóa thân thành 'bà đồ' viết thư pháp giữa phố xuân Cần Thơ",
+      "link": "https://thanhnien.vn/nhung-co-gai-hoa-than-thanh-ba-do-viet-thu-phap-giua-pho-xuan-can-tho-185260208144624654.htm",
+      "summary": "Nhiều cô gái đã nỗ lực rèn luyện thành những \"bà đồ\" tặng chữ thư pháp trong ngày xuân để góp phần giữ gìn phong tục truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T00:48:00+07:00",
+      "fetched": "2026-02-09T08:17:08.211859+07:00"
+    },
+    {
+      "id": "09e865793daddf2befe79579f3aa9d16",
+      "title": "2 - 3 tách cà phê mỗi ngày: Tim, gan, não thay đổi theo cách khó tin",
+      "link": "https://thanhnien.vn/2-3-tach-ca-phe-moi-ngay-tim-gan-nao-thay-doi-theo-cach-kho-tin-185260209074528119.htm",
+      "summary": "Tiêu thụ cà phê điều độ, khoảng 2 - 3 tách mỗi ngày, mang lại nhiều lợi ích sức khỏe to lớn. Nhưng cụ thể, đó là những lợi ích gì, hãy nghe chuyên gia chia sẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T00:45:00+07:00",
+      "fetched": "2026-02-09T08:17:08.212014+07:00"
+    },
+    {
+      "id": "c0087ba28e5ab3c9101934d69aa1b686",
+      "title": "Buộc hàng cồng kềnh trên nóc xe có bị phạt?",
+      "link": "https://vnexpress.net/buoc-hang-cong-kenh-tren-noc-xe-co-bi-phat-5015789.html",
+      "summary": "Xin hỏi có quy định chiều cao tối đa đối với hàng hóa buộc trên nóc xe, nếu có cụ thể như thế nào. (Trần Bình)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T00:28:40+07:00",
+      "fetched": "2026-02-09T08:17:04.379258+07:00"
+    },
+    {
+      "id": "77a4e49285e816748715b24c787d9b18",
+      "title": "Phú Quốc sắp xếp các trường học giai đoạn 2026 - 2030 ra sao?",
+      "link": "https://thanhnien.vn/phu-quoc-sap-xep-cac-truong-hoc-giai-doan-2026-2030-ra-sao-185260208222549886.htm",
+      "summary": "UBND đặc khu Phú Quốc vừa có báo cáo gửi Sở GD-ĐT tỉnh An Giang về tình hình quản lý, sử dụng biên chế sự nghiệp ngành giáo dục và đào tạo trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T00:27:00+07:00",
+      "fetched": "2026-02-09T08:17:08.212163+07:00"
+    },
+    {
+      "id": "19bec2b41058348b1f3c1fbba8cc9812",
+      "title": "Nhu cầu xe điện giảm, Toyota tăng sản lượng xe hybrid toàn cầu",
+      "link": "https://vnexpress.net/nhu-cau-xe-dien-giam-toyota-tang-san-luong-xe-hybrid-toan-cau-5015691.html",
+      "summary": "Hãng xe Nhật Bản sẽ tăng thêm 30% vào năm 2028 so với kế hoạch của năm, chiếm khoảng 60% tổng sản lượng toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T00:15:00+07:00",
+      "fetched": "2026-02-09T08:17:04.379433+07:00"
+    },
+    {
+      "id": "a5052f1fed54c46ad3f6d4abab892329",
+      "title": "Đảng của Thủ tướng Thái Lan giành chiến thắng tổng tuyển cử",
+      "link": "https://vnexpress.net/dang-cua-thu-tuong-thai-lan-gianh-chien-thang-tong-tuyen-cu-5015785.html",
+      "summary": "Thủ tướng Anutin Charnvirakul tuyên bố chiến thắng trong cuộc tổng tuyển cử, khi đảng bảo thủ Bhumjaithai dự kiến giành số ghế lớn nhất ở Hạ viện Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T00:09:47+07:00",
+      "fetched": "2026-02-09T08:17:04.379597+07:00"
+    },
+    {
+      "id": "a5052f1fed54c46ad3f6d4abab892329",
+      "title": "Đảng của Thủ tướng Thái Lan giành chiến thắng tổng tuyển cử",
+      "link": "https://vnexpress.net/dang-cua-thu-tuong-thai-lan-gianh-chien-thang-tong-tuyen-cu-5015785.html",
+      "summary": "Thủ tướng Anutin Charnvirakul tuyên bố chiến thắng trong cuộc tổng tuyển cử, khi đảng bảo thủ Bhumjaithai dự kiến giành số ghế lớn nhất ở Hạ viện Thái Lan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-09T00:09:47+07:00",
+      "fetched": "2026-02-09T08:17:10.595457+07:00"
+    },
+    {
+      "id": "f6109da1edb94df76aa550f28787de3f",
+      "title": "Ông Trần Sỹ Thanh được cử tri tín nhiệm ứng cử đại biểu Quốc hội",
+      "link": "https://thanhnien.vn/ong-tran-sy-thanh-duoc-cu-tri-tin-nhiem-ung-cu-dai-bieu-quoc-hoi-185260208220105068.htm",
+      "summary": "Ông Trần Sỹ Thanh, Chủ nhiệm Ủy ban Kiểm tra Trung ương, được cử tri nơi cư trú tín nhiệm ứng cử đại biểu Quốc hội khóa XVI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T00:05:00+07:00",
+      "fetched": "2026-02-09T08:17:08.212309+07:00"
+    },
+    {
+      "id": "f907574167ac9ec492875dcafc8c0c46",
+      "title": "Chủ tịch nước: Tiếp tục củng cố, phát huy sức mạnh đại đoàn kết toàn dân tộc",
+      "link": "https://thanhnien.vn/chu-tich-nuoc-tiep-tuc-cung-co-phat-huy-suc-manh-dai-doan-ket-toan-dan-toc-185260208213038128.htm",
+      "summary": "Tối 8.2, Chủ tịch nước Lương Cường và phu nhân dự chương trình nghệ thuật đặc biệt 'Xuân Quê hương 2026'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T00:01:00+07:00",
+      "fetched": "2026-02-09T08:17:08.212461+07:00"
+    },
+    {
+      "id": "2bd4476be2fc208bc59b51d607a5cb19",
+      "title": "Cảnh múa lân sư rồng ở Sài Gòn hơn 100 năm trước",
+      "link": "https://vnexpress.net/canh-mua-lan-su-rong-o-sai-gon-hon-100-nam-truoc-5015317.html",
+      "summary": "Người Sài Gòn nô nức xem múa lân sư rồng hơn 100 năm trước qua những bức ảnh trưng bày ở bảo tàng TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T00:00:00+07:00",
+      "fetched": "2026-02-09T08:17:04.379780+07:00"
+    },
+    {
+      "id": "482d75ee582ece7ca9d12ca4e179b184",
+      "title": "3 cách chế biến cơm giúp ngăn đường huyết tăng vọt",
+      "link": "https://vnexpress.net/3-cach-che-bien-com-giup-ngan-duong-huyet-tang-vot-5015182.html",
+      "summary": "Một bệnh nhân tiểu đường chia sẻ 3 cách giảm tăng đường huyết sau ăn cơm: ngâm gạo, luộc gạn nước, ưu tiên gạo lứt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T00:00:00+07:00",
+      "fetched": "2026-02-09T08:17:04.379941+07:00"
+    },
+    {
+      "id": "5f5701ef786314a3c6ab67c47f58d7a3",
+      "title": "Người Việt được cấp hơn 1.100 bằng sáng chế năm 2025",
+      "link": "https://vnexpress.net/nguoi-viet-duoc-cap-hon-1-100-bang-sang-che-nam-2025-5015276.html",
+      "summary": "Năm 2025, người Việt Nam nộp 2.288 đơn đăng ký và được cấp 1.108 bằng sáng chế, theo số liệu của Cục Sở hữu trí tuệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T00:00:00+07:00",
+      "fetched": "2026-02-09T08:17:04.380101+07:00"
+    },
+    {
+      "id": "5f5701ef786314a3c6ab67c47f58d7a3",
+      "title": "Người Việt được cấp hơn 1.100 bằng sáng chế năm 2025",
+      "link": "https://vnexpress.net/nguoi-viet-duoc-cap-hon-1-100-bang-sang-che-nam-2025-5015276.html",
+      "summary": "Năm 2025, người Việt Nam nộp 2.288 đơn đăng ký và được cấp 1.108 bằng sáng chế, theo số liệu của Cục Sở hữu trí tuệ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-09T00:00:00+07:00",
+      "fetched": "2026-02-09T08:17:15.604556+07:00"
+    },
+    {
+      "id": "1d6cf43f8e847dbb9d4eb50544c7c4fa",
+      "title": "Ông Trump nêu thời điểm ông Tập thăm Mỹ",
+      "link": "https://vnexpress.net/ong-trump-neu-thoi-diem-ong-tap-tham-my-5015783.html",
+      "summary": "Tổng thống Mỹ thông báo sẽ tiếp đón Chủ tịch Trung Quốc tại Nhà Trắng vào cuối năm nay, giữa lúc hai bên tìm cách tái thiết quan hệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T23:57:20+07:00",
+      "fetched": "2026-02-09T08:17:04.380254+07:00"
+    },
+    {
+      "id": "1d6cf43f8e847dbb9d4eb50544c7c4fa",
+      "title": "Ông Trump nêu thời điểm ông Tập thăm Mỹ",
+      "link": "https://vnexpress.net/ong-trump-neu-thoi-diem-ong-tap-tham-my-5015783.html",
+      "summary": "Tổng thống Mỹ thông báo sẽ tiếp đón Chủ tịch Trung Quốc tại Nhà Trắng vào cuối năm nay, giữa lúc hai bên tìm cách tái thiết quan hệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-08T23:57:20+07:00",
+      "fetched": "2026-02-09T08:17:10.595632+07:00"
+    },
+    {
+      "id": "b89d2f3ad875ec5e3d600d6654825e3f",
+      "title": "Tiệc tất niên ở góc công viên TP.HCM, nhạc xuân rộn ràng: Hơn 500 người cùng ăn tết",
+      "link": "https://thanhnien.vn/tiec-tat-nien-o-goc-cong-vien-tphcm-nhac-xuan-ron-rang-hon-500-nguoi-cung-an-tet-185260208222353744.htm",
+      "summary": "Hơn 500 người dân cùng ngồi lại trong bữa cơm tất niên, nhiều công nhân vệ sinh, người khó khăn lần đầu cảm nhận trọn vẹn không khí tết giữa tiếng nhạc xuân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T23:45:00+07:00",
+      "fetched": "2026-02-09T08:17:08.212610+07:00"
+    },
+    {
+      "id": "4351e52dbaeea3934fc827e5e5bcd62e",
+      "title": "Slot chỉ trích trọng tài sau trận thua Man City",
+      "link": "https://vnexpress.net/slot-chi-trich-trong-tai-sau-tran-thua-man-city-5015781.html",
+      "summary": "HLV Arne Slot cho rằng trung vệ Marc Guehi đáng nhận thẻ đỏ vì kéo áo Mohamed Salah trong trận Liverpool gặp Man City ở vòng 25 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T23:44:03+07:00",
+      "fetched": "2026-02-09T08:17:04.380404+07:00"
+    },
+    {
+      "id": "4351e52dbaeea3934fc827e5e5bcd62e",
+      "title": "Slot chỉ trích trọng tài sau trận thua Man City",
+      "link": "https://vnexpress.net/slot-chi-trich-trong-tai-sau-tran-thua-man-city-5015781.html",
+      "summary": "HLV Arne Slot cho rằng trung vệ Marc Guehi đáng nhận thẻ đỏ vì kéo áo Mohamed Salah trong trận Liverpool gặp Man City ở vòng 25 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-08T23:44:03+07:00",
+      "fetched": "2026-02-09T08:17:17.716096+07:00"
+    },
+    {
+      "id": "9503ca00bcb8404b108678751fb8e49d",
+      "title": "Liverpool 1-2 Man City",
+      "link": "https://vnexpress.net/liverpool-1-2-man-city-5015786.html",
+      "summary": "Các bàn của Bernardo Silva và Erling Haaland giúp Man City thắng ngược trên sân Anfield ở vòng 25 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T23:42:03+07:00",
+      "fetched": "2026-02-09T08:17:04.380553+07:00"
+    },
+    {
+      "id": "30e93df41de0960e65ef03b8d37dea76",
+      "title": "Cô dâu Bắc Ninh mang 'cả gian bếp Việt' sang Iraq",
+      "link": "https://vnexpress.net/co-dau-bac-ninh-mang-ca-gian-bep-viet-sang-iraq-5014006.html",
+      "summary": "Sang Iraq theo chồng, Ngọc Huyền, 29 tuổi, từng khóc vì không nuốt nổi bát cơm và nghĩ mình 'không sống nổi ở đây' nhưng dần xoay xở để duy trì cơm Việt mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T23:30:00+07:00",
+      "fetched": "2026-02-09T08:17:04.380706+07:00"
+    },
+    {
+      "id": "a8f10fd0aa20b919f099a8fbecd825e4",
+      "title": "CX-50 - xe 'gánh' doanh số của Mazda ở Mỹ",
+      "link": "https://vnexpress.net/cx-50-xe-ganh-doanh-so-cua-mazda-o-my-5014200.html",
+      "summary": "Duy nhất CX-50 tăng doanh số trong tháng 1, trong khi mọi sản phẩm khác của Mazda đều giảm mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T23:30:00+07:00",
+      "fetched": "2026-02-09T08:17:04.380883+07:00"
+    },
+    {
+      "id": "a3a797060d401ab1d500cfc8d2183576",
+      "title": "Dưới núi Thiên Mã, gia đình gần 20 năm nuôi đàn bạch mã nơi miền biển Quảng Ngãi",
+      "link": "https://thanhnien.vn/duoi-nui-thien-ma-gia-dinh-gan-20-nam-nuoi-dan-bach-ma-noi-mien-bien-quang-ngai-185260206170306097.htm",
+      "summary": "Dưới chân núi Thiên Mã (Quảng Ngãi), một gia đình gần 20 năm gắn bó với đàn bạch mã, nuôi ngựa không chỉ để mưu sinh mà còn giữ lại ký ức, đam mê và một nét văn hóa rất riêng của miền biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T23:30:00+07:00",
+      "fetched": "2026-02-09T08:17:08.212774+07:00"
+    },
+    {
+      "id": "13554a7047e693bf80abdac6b345ce53",
+      "title": "Bàn thắng của Man City vào lưới Liverpool bị hủy hy hữu",
+      "link": "https://vnexpress.net/ban-thang-cua-man-city-vao-luoi-liverpool-bi-huy-hy-huu-5015773.html",
+      "summary": "Cả Man City lẫn Liverpool đều không hài lòng khi bàn thắng của Rayan Cherki bị hủy, trong trận cầu đinh trên sân Anfield, vòng 25 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T23:23:30+07:00",
+      "fetched": "2026-02-09T08:17:04.381033+07:00"
+    },
+    {
+      "id": "13554a7047e693bf80abdac6b345ce53",
+      "title": "Bàn thắng của Man City vào lưới Liverpool bị hủy hy hữu",
+      "link": "https://vnexpress.net/ban-thang-cua-man-city-vao-luoi-liverpool-bi-huy-hy-huu-5015773.html",
+      "summary": "Cả Man City lẫn Liverpool đều không hài lòng khi bàn thắng của Rayan Cherki bị hủy, trong trận cầu đinh trên sân Anfield, vòng 25 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-08T23:23:30+07:00",
+      "fetched": "2026-02-09T08:17:17.715734+07:00"
+    },
+    {
+      "id": "e25a476d8ae48d62230798496f495b69",
+      "title": "Chỉ tiêu tuyển sinh đại học sẽ gắn với chất lượng đào tạo",
+      "link": "https://thanhnien.vn/chi-tieu-tuyen-sinh-dai-hoc-se-gan-voi-chat-luong-dao-tao-185260208191030051.htm",
+      "summary": "Theo dự thảo thông tư quy định về xác định chỉ tiêu tuyển sinh do Bộ GD-ĐT vừa công bố để lấy ý kiến, Bộ đặt yêu cầu cao hơn với trình độ đội ngũ của các cơ sở đào tạo, mặt khác cho phép các trường được linh hoạt hơn trong tổ chức tuyển sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T23:21:00+07:00",
+      "fetched": "2026-02-09T08:17:08.212926+07:00"
+    },
+    {
+      "id": "49ff9f663b7eec9612b950dc427f2953",
+      "title": "Thế giới bất ổn 'nuôi' giá vàng như thế nào?",
+      "link": "https://vnexpress.net/the-gioi-bat-on-nuoi-gia-vang-nhu-the-nao-5015782.html",
+      "summary": "Từ cú sốc Nixon năm 1971 đến đại dịch và chiến tranh hiện đại, vàng luôn tăng giá sau mỗi cuộc khủng hoảng, quy luật này đang lặp lại khi các ngân hàng trung ương gom vàng thay vì USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T23:14:19+07:00",
+      "fetched": "2026-02-09T08:17:04.381188+07:00"
+    },
+    {
+      "id": "94c359f3426417695540992d6daadcab",
+      "title": "Haaland: 'Cứ công nhận bàn thắng, đừng rút thẻ đỏ'",
+      "link": "https://vnexpress.net/haaland-cu-cong-nhan-ban-thang-dung-rut-the-do-5015776.html",
+      "summary": "Erling Haaland cho rằng VAR không nên can thiệp vào tình huống gây tranh cãi ở cuối trận Liverpool thắng Man City ở vòng 25 Ngoại hạng Anh, dẫn tới bàn thắng bị hủy và thẻ đỏ cho Dominik Szoboszlai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T23:14:00+07:00",
+      "fetched": "2026-02-09T08:17:04.381347+07:00"
+    },
+    {
+      "id": "94c359f3426417695540992d6daadcab",
+      "title": "Haaland: 'Cứ công nhận bàn thắng, đừng rút thẻ đỏ'",
+      "link": "https://vnexpress.net/haaland-cu-cong-nhan-ban-thang-dung-rut-the-do-5015776.html",
+      "summary": "Erling Haaland cho rằng VAR không nên can thiệp vào tình huống gây tranh cãi ở cuối trận Liverpool thắng Man City ở vòng 25 Ngoại hạng Anh, dẫn tới bàn thắng bị hủy và thẻ đỏ cho Dominik Szoboszlai.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-08T23:14:00+07:00",
+      "fetched": "2026-02-09T08:17:17.716256+07:00"
+    },
+    {
+      "id": "fa60fc56d7643d2925c184529742aaea",
+      "title": "Guardiola cảnh báo Arsenal",
+      "link": "https://vnexpress.net/guardiola-canh-bao-arsenal-5015778.html",
+      "summary": "HLV Pep Guardiola khẳng định Man City vẫn còn cơ hội lật ngược thế cờ trước Arsenal trong cuộc đua vô địch, sau khi thắng Liverpool 2-1 ở vòng 25 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T23:10:29+07:00",
+      "fetched": "2026-02-09T08:17:04.381502+07:00"
+    },
+    {
+      "id": "fa60fc56d7643d2925c184529742aaea",
+      "title": "Guardiola cảnh báo Arsenal",
+      "link": "https://vnexpress.net/guardiola-canh-bao-arsenal-5015778.html",
+      "summary": "HLV Pep Guardiola khẳng định Man City vẫn còn cơ hội lật ngược thế cờ trước Arsenal trong cuộc đua vô địch, sau khi thắng Liverpool 2-1 ở vòng 25 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-08T23:10:29+07:00",
+      "fetched": "2026-02-09T08:17:17.716412+07:00"
+    },
+    {
+      "id": "f33b043667f0a6d5c49b1b1660f25651",
+      "title": "Real đuổi sát Barca",
+      "link": "https://vnexpress.net/real-duoi-sat-barca-5015777.html",
+      "summary": "Một ngày sau khi Barca bứt phá, Real rút ngắn khoảng cách bằng trận thắng Valencia 2-0.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-08T23:06:41+07:00",
+      "fetched": "2026-02-09T08:17:17.716564+07:00"
+    },
+    {
+      "id": "31ff013e009e9944fa3352b7a75b310f",
+      "title": "'Tăng trưởng nhanh đến từ khả năng thương mại hóa các vấn đề'",
+      "link": "https://vnexpress.net/tang-truong-nhanh-den-tu-kha-nang-thuong-mai-hoa-cac-van-de-5015464.html",
+      "summary": "Biến vấn đề thành thị trường, thành cơ hội kinh doanh thay vì coi là gánh nặng như trước là một trong những giải pháp cho tăng trưởng nhanh, theo Bộ trưởng Nguyễn Mạnh Hùng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-08T23:00:00+07:00",
+      "fetched": "2026-02-09T08:17:15.604384+07:00"
     },
     {
       "id": "95296ff990ec060f489d863cc4b25353",
