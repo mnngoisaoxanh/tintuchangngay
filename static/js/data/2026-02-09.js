@@ -1,7 +1,157 @@
 window.newsData_2026_02_09 = {
   "date": "2026-02-09",
-  "lastUpdated": "2026-02-09T08:17:17.721720+07:00",
+  "lastUpdated": "2026-02-09T11:16:50.678348+07:00",
   "articles": [
+    {
+      "id": "2455652df157bb7c8de3b2948ed35313",
+      "title": "Tay vợt ăn mừng khiêu khích khiến cổ động viên ném chai lọ",
+      "link": "https://tuoitre.vn/tay-vot-an-mung-khieu-khich-khien-co-dong-vien-nem-chai-lo-20260209080748116.htm",
+      "summary": "Tay vợt hạng 177 thế giới Nicolas Mejia đã phải nhờ cảnh sát hộ tống rời sân đấu, sau khi anh có màn ăn mừng khiêu khích khiến cổ động viên Morocco nổi giận liên tục ném chai lọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.373570+07:00",
+      "fetched": "2026-02-09T11:16:44.373686+07:00"
+    },
+    {
+      "id": "306ba998caa504641ac02a007ed048b9",
+      "title": "Nga phạt Đại sứ quán Ukraine ở Matxcơva vì 'nợ' tiền điện 71.000 USD",
+      "link": "https://tuoitre.vn/nga-phat-dai-su-quan-ukraine-o-matxcova-vi-no-tien-dien-71-000-usd-20260209080844582.htm",
+      "summary": "Tòa án Nga yêu cầu Đại sứ quán Ukraine tại Matxcơva, đã ngừng hoạt động từ năm 2022, thanh toán khoản nợ tiền điện hơn 71.000 USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.373442+07:00",
+      "fetched": "2026-02-09T11:16:44.373558+07:00"
+    },
+    {
+      "id": "ced5afcd910e4dce413e24714e6de4a8",
+      "title": "Những người ở lại ăn Tết thành phố",
+      "link": "https://tuoitre.vn/nhung-nguoi-o-lai-an-tet-thanh-pho-20260208234028014.htm",
+      "summary": "Cửa ngõ thành phố cuối năm nườm nượp dòng xe nối đuôi nhau về quê ăn Tết. Ngược số đông ấy, vẫn có người chọn ở lại, họ còn nặng gánh mưu sinh và nỗi niềm riêng nên chưa về quê đón Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.373301+07:00",
+      "fetched": "2026-02-09T11:16:44.373431+07:00"
+    },
+    {
+      "id": "5c7972db67034c3d77af98fb106e982d",
+      "title": "Bầu cử Hạ viện Nhật Bản: Phép thử với Thủ tướng Takaichi Sanae",
+      "link": "https://tuoitre.vn/bau-cu-ha-vien-nhat-ban-phep-thu-voi-thu-tuong-takaichi-sanae-20260208222402142.htm",
+      "summary": "Cuộc bầu cử ngày 8-2 sẽ quyết định tương lai chính trị của bà Takaichi, phép thử cho các cải cách táo bạo và vị thế Nhật Bản đối nội, đối ngoại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.373173+07:00",
+      "fetched": "2026-02-09T11:16:44.373286+07:00"
+    },
+    {
+      "id": "fecb815e9b8efb0bd854fc75eb412670",
+      "title": "Charlie Puth hát Quốc ca Mỹ đầy ấn tượng ở Super Bowl 2026",
+      "link": "https://tuoitre.vn/charlie-puth-hat-quoc-ca-my-day-an-tuong-o-super-bowl-2026-20260209082159539.htm",
+      "summary": "Trước khi trận chung kết Super Bowl LX diễn ra, Charlie Puth đã mở màn chương trình bằng màn trình diễn Quốc ca Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.373047+07:00",
+      "fetched": "2026-02-09T11:16:44.373162+07:00"
+    },
+    {
+      "id": "112e22e1be138c80f0ecda793ed92942",
+      "title": "Thái Lan: Tổng tuyển cử định hình tương lai",
+      "link": "https://tuoitre.vn/thai-lan-tong-tuyen-cu-dinh-hinh-tuong-lai-20260208221920423.htm",
+      "summary": "Diễn ra ngày 8-2 giữa bối cảnh kinh tế trì trệ và chính trị phân hóa, tổng tuyển cử Thái Lan được kỳ vọng mở lối cho ổn định và cải cách dài hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.372897+07:00",
+      "fetched": "2026-02-09T11:16:44.373034+07:00"
+    },
+    {
+      "id": "57c22147bd71775441404ec2187ced6b",
+      "title": "Nông dân Cà Mau 'vần công' thu hoạch tôm càng ăn Tết",
+      "link": "https://tuoitre.vn/nong-dan-ca-mau-van-cong-thu-hoach-tom-cang-an-tet-20260208221249362.htm",
+      "summary": "Những ngày giáp Tết, không khí thu hoạch tôm càng xanh trên các cánh đồng lúa tôm ở Cà Mau rộn ràng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.372765+07:00",
+      "fetched": "2026-02-09T11:16:44.372880+07:00"
+    },
+    {
+      "id": "14493d013e93f55d1b62a1bbbe3beb46",
+      "title": "Võ sĩ suýt cắn đứt tai đối thủ ở sàn võ MMA",
+      "link": "https://tuoitre.vn/vo-si-suyt-can-dut-tai-doi-thu-o-san-vo-mma-20260209084407813.htm",
+      "summary": "Trận đấu MMA hạng nặng tại CH Czech đã kết thúc sớm vì một võ sĩ suýt cắn đứt tai đối thủ. Khi anh ta rời khỏi lồng đấu, toàn bộ khán giả đã lao đến tấn công anh ta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.372635+07:00",
+      "fetched": "2026-02-09T11:16:44.372753+07:00"
+    },
+    {
+      "id": "6583874250f18de1597e814fabb29a27",
+      "title": "Bảng xếp hạng Ngoại hạng Anh vòng 25: Man City bám đuổi Arsenal",
+      "link": "https://tuoitre.vn/bang-xep-hang-ngoai-hang-anh-vong-25-man-city-bam-duoi-arsenal-20260209084604505.htm",
+      "summary": "Chiến thắng kịch tính trước Liverpool giúp Man City duy trì khoảng cách 6 điểm ít hơn với Arsenal sau vòng 25 Ngoại hạng Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.372493+07:00",
+      "fetched": "2026-02-09T11:16:44.372623+07:00"
+    },
+    {
+      "id": "93afdb596cab0ee75dba372798c521f8",
+      "title": "Man City và Liverpool 'nổi đóa' vì VAR hủy bàn thắng hy hữu",
+      "link": "https://tuoitre.vn/man-city-va-liverpool-noi-doa-vi-var-huy-ban-thang-hy-huu-20260209085252867.htm",
+      "summary": "Trận cầu tâm điểm vòng 25 Ngoại hạng Anh khép lại với thắng lợi 2-1 nghiêng về Man City (rạng sáng 9-2), song cả kẻ thắng lẫn người thua đều không giấu nổi sự bất bình trước tình huống VAR khước từ bàn thắng ở cuối trận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.372363+07:00",
+      "fetched": "2026-02-09T11:16:44.372481+07:00"
+    },
+    {
+      "id": "383a313471aaed472adcf4cb83a7f6dc",
+      "title": "Điều kiện nào để cán bộ, công chức được thưởng đột xuất lên đến 11,7 triệu đồng?",
+      "link": "https://tuoitre.vn/dieu-kien-nao-de-can-bo-cong-chuc-duoc-thuong-dot-xuat-len-den-11-7-trieu-dong-20260209084424037.htm",
+      "summary": "Theo quy chế thực hiện chế độ tiền thưởng của Bộ Nội vụ, cán bộ, công chức thuộc Bộ có thành tích công tác đột xuất được ghi nhận, biểu dương sẽ nhận một khoản tiền thưởng theo lương cơ sở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.372228+07:00",
+      "fetched": "2026-02-09T11:16:44.372351+07:00"
+    },
+    {
+      "id": "0ad7c8b994f4d07345762ee9a97a8212",
+      "title": "Phát hiện hợp chất nha đam có thể ức chế enzym gây bệnh Alzheimer",
+      "link": "https://tuoitre.vn/phat-hien-hop-chat-nha-dam-co-the-uc-che-enzym-gay-benh-alzheimer-20260209090041783.htm",
+      "summary": "Nghiên cứu cho thấy một hợp chất trong nha đam có khả năng ức chế enzym liên quan suy giảm trí nhớ ở bệnh Alzheimer.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.372094+07:00",
+      "fetched": "2026-02-09T11:16:44.372215+07:00"
+    },
+    {
+      "id": "f135d8fa5b5cb443176a9ae675a11897",
+      "title": "Tổng Bí thư Tô Lâm thăm, chúc Tết nhà nghiên cứu Nguyễn Đình Tư",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-tham-chuc-tet-nha-nghien-cuu-nguyen-dinh-tu-20260209090600664.htm",
+      "summary": "Sáng 9-2, tại TP.HCM, Tổng Bí thư Tô Lâm và đoàn công tác Trung ương đã đến thăm, chúc Tết nhà nghiên cứu Nguyễn Đình Tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.371953+07:00",
+      "fetched": "2026-02-09T11:16:44.372082+07:00"
+    },
+    {
+      "id": "303ef0e4480d9d2bbe40c961d7b7c4f3",
+      "title": "Lãi suất vay gần 14%, giảm tín dụng bất động sản vì sao khó làm mạnh và làm lâu?",
+      "link": "https://tuoitre.vn/lai-suat-vay-gan-14-giam-tin-dung-bat-dong-san-vi-sao-kho-lam-manh-va-lam-lau-20260209085655855.htm",
+      "summary": "Theo SHS, chủ trương “giảm tín dụng bất động sản” thực tế rất khó làm mạnh và làm lâu. Lý do nằm ở cấu trúc tài sản bảo đảm khi phần lớn khoản vay của doanh nghiệp và cá nhân đều cầm cố bằng bất động sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.371776+07:00",
+      "fetched": "2026-02-09T11:16:44.371938+07:00"
+    },
+    {
+      "id": "04517c51f8ea796b88fcf51cacb427bf",
+      "title": "Lưu ý đi máy bay dịp Tết: Không chỉ đúng giờ mà còn phải đúng nhà ga",
+      "link": "https://tuoitre.vn/luu-y-di-may-bay-dip-tet-khong-chi-dung-gio-ma-con-phai-dung-nha-ga-20260206093007002.htm",
+      "summary": "Xin kể lại tình huống của tôi, như một lời nhắc để hành khách cẩn trọng hơn khi đi máy bay, nhất là vào dịp Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T11:16:44.371525+07:00",
+      "fetched": "2026-02-09T11:16:44.371758+07:00"
+    },
     {
       "id": "bae5bbbe6cdce178b86e1fb534d90df1",
       "title": "Nhờ đâu cầu thủ Việt Nam có thể đá 120 phút với đối thủ Tây Á?",
@@ -141,6 +291,386 @@ window.newsData_2026_02_09 = {
       "category": "Tổng hợp",
       "published": "2026-02-09T08:17:09.230408+07:00",
       "fetched": "2026-02-09T08:17:09.230624+07:00"
+    },
+    {
+      "id": "da9d9b3dc951475d815596b7a72f9779",
+      "title": "Chuyện 3 chú ngựa ‘mẫu ảnh’ ăn uống sang chảnh với dàn cận vệ hùng hậu ở Huế",
+      "link": "https://thanhnien.vn/chuyen-3-chu-ngua-mau-anh-an-uong-sang-chanh-voi-dan-can-ve-hung-hau-o-hue-185260208172630015.htm",
+      "summary": "Tại một nông trại ở Huế, có 3 chú ngựa ‘mẫu ảnh’ đang trở thành tâm điểm dịp Tết Bính Ngọ. Với chế độ chăm sóc đặc biệt, ăn uống ‘xa hoa’ và dàn cận vệ luôn túc trực, chúng mang lại trải nghiệm mới lạ cho du khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T04:13:00+07:00",
+      "fetched": "2026-02-09T11:16:43.424851+07:00"
+    },
+    {
+      "id": "46be7f8df826a4d7c645a52f44bde952",
+      "title": "‘Bà đồ’ trẻ Cần Thơ đắt khách xin chữ ở hội xuân miền Tây",
+      "link": "https://thanhnien.vn/ba-do-tre-can-tho-dat-khach-xin-chu-o-hoi-xuan-mien-tay-185260208225443471.htm",
+      "summary": "Khi hình ảnh ông đồ ngày một ít đi, nhiều cô gái trẻ đã nỗ lực rèn luyện thành những ‘bà đồ’ tặng chữ thư pháp trong ngày xuân để góp phần giữ gìn phong tục truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T04:12:00+07:00",
+      "fetched": "2026-02-09T11:16:43.425052+07:00"
+    },
+    {
+      "id": "15fbb35f4a1d940cfe5ef930734a6d33",
+      "title": "Xem nhanh 12h: 10.000 chai nước hoa giả tuồn ra thị trường | Mua bán vàng miếng trái phép sẽ bị phạt",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-10000-chai-nuoc-hoa-gia-tuon-ra-thi-truong-mua-ban-vang-mieng-trai-phep-se-bi-phat-185260209110522512.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 9.2.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T04:05:00+07:00",
+      "fetched": "2026-02-09T11:16:43.425215+07:00"
+    },
+    {
+      "id": "f4bd29a4c5eccdd90bc43751cb1284d7",
+      "title": "Trùm truyền thông Hồng Kông Jimmy Lai lãnh án 20 năm tù",
+      "link": "https://thanhnien.vn/trum-truyen-thong-hong-kong-jimmy-lai-lanh-an-20-nam-tu-185260209105845444.htm",
+      "summary": "Tòa án Hồng Kông đã tuyên phạt ông trùm truyền thông Jimmy Lai 20 năm tù vì vi phạm luật an ninh quốc gia Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T04:01:00+07:00",
+      "fetched": "2026-02-09T11:16:43.425371+07:00"
+    },
+    {
+      "id": "93d5c3fd9a4f133f01ddc386493684ce",
+      "title": "Ả Rập Xê Út ra quyết định quan trọng về Ronaldo, chọn ngôi sao ‘khủng’ thay thế",
+      "link": "https://thanhnien.vn/a-rap-xe-ut-ra-quyet-dinh-quan-trong-ve-ronaldo-chon-ngoi-sao-khung-thay-the-185260209105521928.htm",
+      "summary": "Theo báo chí Ả Rập Xê Út, Quỹ đầu tư công nước này (PIF), chủ sở hữu CLB Al Nassr, đã sẵn sàng để Ronaldo ra đi khi danh thủ này vẫn đình công không thi đấu. Họ đã chọn ngôi sao mới thuộc 'hàng khủng' thay thế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T04:01:00+07:00",
+      "fetched": "2026-02-09T11:16:43.425532+07:00"
+    },
+    {
+      "id": "2cb8d3c97ec57fa1e79ac8634c88b88f",
+      "title": "Động thái gây chú ý của diễn viên Phương Oanh",
+      "link": "https://thanhnien.vn/dong-thai-gay-chu-y-cua-dien-vien-phuong-oanh-185260209104953093.htm",
+      "summary": "Sau khi bị nhắc tên trên mạng xã hội, Phương Oanh có động thái gây chú ý trên trang cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T04:01:00+07:00",
+      "fetched": "2026-02-09T11:16:43.425687+07:00"
+    },
+    {
+      "id": "093c0d3a2585464871e7b75763ac3ac0",
+      "title": "Phân bón Cà Mau tiên phong triển khai chuỗi mô hình canh tác năng suất cao",
+      "link": "https://thanhnien.vn/phan-bon-ca-mau-tien-phong-trien-khai-chuoi-mo-hinh-canh-tac-nang-suat-cao-185260209102100815.htm",
+      "summary": "Trong bối cảnh yêu cầu chất lượng nông sản ngày càng cao, Phân bón Cà Mau đã đồng hành cùng nông dân triển khai hàng trăm mô hình trình diễn canh tác tại nhiều vùng sản xuất trọng điểm, ghi nhận hiệu quả rõ rệt về năng suất và hiệu quả kinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T04:00:00+07:00",
+      "fetched": "2026-02-09T11:16:43.425839+07:00"
+    },
+    {
+      "id": "6e4b7eafb409fe871047170e76be0d35",
+      "title": "Nóng: U.23 Việt Nam có thể không dự giải mời Trung Quốc, ông Kim điều chỉnh…",
+      "link": "https://thanhnien.vn/nong-u23-viet-nam-co-the-khong-du-giai-moi-trung-quoc-ong-kim-dieu-chinh-185260209105334988.htm",
+      "summary": "Theo thông tin mới nhất, U.23 Việt Nam có khả năng sẽ không tham dự giải giao hữu tập huấn tại Trung Quốc dự kiến tổ chức vào tháng 3 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:57:00+07:00",
+      "fetched": "2026-02-09T11:16:43.426015+07:00"
+    },
+    {
+      "id": "231109001119939b42c79d641668c806",
+      "title": "Bác sĩ trẻ vùng cao được ghép thận thành công từ người hiến chết não",
+      "link": "https://thanhnien.vn/bac-si-tre-vung-cao-duoc-ghep-than-thanh-cong-tu-nguoi-hien-chet-nao-185260209103411413.htm",
+      "summary": "Sau hơn 1 tháng được ghép thận từ người hiến chết não, bác sĩ Sầm Thành Tài, công tác tại miền núi Quỳ Hợp (Nghệ An), đã bình phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:56:00+07:00",
+      "fetched": "2026-02-09T11:16:43.426178+07:00"
+    },
+    {
+      "id": "7bfb3b9acdbcc670461e3184ec440668",
+      "title": "Linh vật ngựa Tuy Hòa: Choáng ngợp 3 đại cảnh ngựa ‘khủng’ đua top",
+      "link": "https://thanhnien.vn/linh-vat-ngua-tuy-hoa-choang-ngop-3-dai-canh-ngua-khung-dua-top-185260209103412349.htm",
+      "summary": "Sau 30 ngày thi công, đường hoa Tuy Hòa (Đắk Lắk) với chủ đề 'Tết ta một nhà' đã chính thức lộ diện dàn linh vật ngựa tinh xảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:54:00+07:00",
+      "fetched": "2026-02-09T11:16:43.426336+07:00"
+    },
+    {
+      "id": "1ea854db3974ff68f867adb47a78004e",
+      "title": "NSƯT Như Huỳnh, Võ Hạ Trâm gây xúc động trong chương trình nghệ thuật 'Xuân quê hương'",
+      "link": "https://thanhnien.vn/nsut-nhu-huynh-vo-ha-tram-gay-xuc-dong-trong-chuong-trinh-nghe-thuat-xuan-que-huong-185260209094158316.htm",
+      "summary": "Tối 8.2, tại Trung tâm Hội nghị Quốc gia (Hà Nội) đã diễn ra chương trình nghệ thuật đặc biệt 'Xuân quê hương' với chủ đề 'Khát vọng Việt Nam: Hòa bình, Thịnh vượng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:54:00+07:00",
+      "fetched": "2026-02-09T11:16:43.426489+07:00"
+    },
+    {
+      "id": "a168d9d44fec00cc308812a245f895a0",
+      "title": "Công an TP.HCM bắt nhóm thanh niên tạt sơn nhà dân để khủng bố đòi nợ",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-nhom-thanh-nien-tat-son-nha-dan-de-khung-bo-doi-no-185260209102859506.htm",
+      "summary": "Công an TP.HCM đã bắt giữ một nhóm thanh niên liên quan đến vụ tạt sơn vào nhà dân tại phường Phú Định (quận 8 cũ) nhằm khủng bố tinh thần, gây áp lực đòi nợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:52:00+07:00",
+      "fetched": "2026-02-09T11:16:43.426637+07:00"
+    },
+    {
+      "id": "b36aa6b16b48e520535dcfde04eae5c5",
+      "title": "Phản ứng nhanh đã cứu sống tướng tình báo Nga khi bị ám sát?",
+      "link": "https://thanhnien.vn/phan-ung-nhanh-da-cuu-song-tuong-tinh-bao-nga-khi-bi-muu-sat-18526020909132158.htm",
+      "summary": "Người vợ của vị tướng tình báo Nga bị bắn 3 phát đạn trong một mưu toan ám sát hôm 6.2 đã cho một phóng viên quân sự Alexander Kots biết về tình trạng sức khỏe của chồng, theo EADaily.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:48:00+07:00",
+      "fetched": "2026-02-09T11:16:43.426787+07:00"
+    },
+    {
+      "id": "9643dc49a2b53a0525fec47dae9116bf",
+      "title": "Chợ Nguyễn Tri Phương gắn bảng trung tâm dịch vụ công: Phường Diên Hồng nói gì?",
+      "link": "https://thanhnien.vn/cho-nguyen-tri-phuong-gan-bang-trung-tam-dich-vu-cong-phuong-dien-hong-noi-gi-185260209103208454.htm",
+      "summary": "Mạng xã hội đang xôn xao hình ảnh chợ Nguyễn Tri Phương gắn bảng thành Trung tâm Cung ứng dịch vụ công. UBND phường Diên Hồng vừa chính thức lên tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:46:00+07:00",
+      "fetched": "2026-02-09T11:16:43.426965+07:00"
+    },
+    {
+      "id": "9e0833bc634eb9bc9af45ca4b643405f",
+      "title": "Cây xăng trên cao tốc TP.HCM - Long Thành - Dầu Giây vẫn ngưng bán",
+      "link": "https://thanhnien.vn/cay-xang-tren-cao-toc-tphcm-long-thanh-dau-giay-van-ngung-ban-185260209072055772.htm",
+      "summary": "Nhiều tài xế bộc lộ tâm trạng chán chường, thậm chí bực mình khi ghé vào trạm dừng nghỉ cao cao tốc TP.HCM - Long Thành - Dầu Giây để đổ xăng nhưng không ngờ cây xăng ngưng bán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:46:00+07:00",
+      "fetched": "2026-02-09T11:16:43.427135+07:00"
+    },
+    {
+      "id": "9ee9c1a65f663a70f5035b55ef2d374f",
+      "title": "Người già Mỹ bán nhà to, vào làng tí hon dưỡng già",
+      "link": "https://vnexpress.net/nguoi-gia-my-ban-nha-to-vao-lang-ti-hon-duong-gia-5015796.html",
+      "summary": "Sau khi chồng qua đời, bà Debbie Giamalva, 70 tuổi, bán căn nhà hai phòng ngủ vì sợ cảm giác lọt thỏm giữa bốn bức tường và nỗi ám ảnh \"nếu ngã cũng không ai hay\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:33:45+07:00",
+      "fetched": "2026-02-09T11:16:40.684140+07:00"
+    },
+    {
+      "id": "5f808c4d63fc07a834b4b71ec69dc8d5",
+      "title": "Việt kiều Australia tìm lại nụ cười nhờ trồng răng implant tại SGC",
+      "link": "https://vnexpress.net/viet-kieu-australia-tim-lai-nu-cuoi-nho-trong-rang-implant-tai-sgc-5018474.html",
+      "summary": "Ông Định, Việt kiều Australia, 60 tuổi, về Việt Nam trồng răng implant nhằm cải thiện khả năng ăn nhai, khắc phục tình trạng hàm tháo lắp lỏng lẻo và lấy lại tự tin khi giao tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:30:00+07:00",
+      "fetched": "2026-02-09T11:16:40.684419+07:00"
+    },
+    {
+      "id": "4d66609d918d12ad97493f0c5538d363",
+      "title": "Hoa hậu Lý Thu Thảo tái xuất",
+      "link": "https://vnexpress.net/hoa-hau-ly-thu-thao-tai-xuat-5015824.html",
+      "summary": "Lý Thu Thảo - Hoa hậu TP HCM 1989 - từ Mỹ về nước đón Tết Bính Ngọ, tái xuất ở sự kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:29:54+07:00",
+      "fetched": "2026-02-09T11:16:40.684596+07:00"
+    },
+    {
+      "id": "3ef17aa6ad9992e38acabc193ae4528d",
+      "title": "Bán vàng không hóa đơn, giao dịch tiền mặt để giấu nghìn tỷ đồng doanh thu",
+      "link": "https://vnexpress.net/ban-vang-khong-hoa-don-giao-dich-tien-mat-de-giau-1-500-ty-dong-doanh-thu-5016048.html",
+      "summary": "Nguyễn Đức Dương, chủ hiệu vàng Đức Thắng, bị cáo buộc không xuất hoá đơn, giao dịch bằng tiền mặt hoặc chuyển tiền vào tài khoản người thân để che giấu doanh thu hơn 1.500 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:24:12+07:00",
+      "fetched": "2026-02-09T11:16:40.684758+07:00"
+    },
+    {
+      "id": "488e53e56d3776d14c6d59e04b51d69e",
+      "title": "'Trường Giang khuyên Đình Bắc - đúng nhưng chưa tinh tế'",
+      "link": "https://vnexpress.net/truong-giang-khuyen-dinh-bac-dung-nhung-chua-tinh-te-5018862.html",
+      "summary": "Trường Giang có thể xuất phát từ thiện ý, nhưng Đình Bắc đến với sự kiện không phải người đang tìm lời tư vấn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:21:11+07:00",
+      "fetched": "2026-02-09T11:16:40.684947+07:00"
+    },
+    {
+      "id": "2b7a4dd451b24854706bf52fe5eecd67",
+      "title": "Carlsen lần thứ năm vô địch Speed Chess Championship",
+      "link": "https://vnexpress.net/carlsen-lan-thu-nam-vo-dich-speed-chess-championship-5019283.html",
+      "summary": "Chiến thắng 15-12 trước Alireza Firouzja ở chung kết giúp Magnus Carlsen cân bằng kỷ lục 5 lần vô địch Speed Chess Championship của Hikaru Nakamura.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:17:48+07:00",
+      "fetched": "2026-02-09T11:16:40.685136+07:00"
+    },
+    {
+      "id": "2b7a4dd451b24854706bf52fe5eecd67",
+      "title": "Carlsen lần thứ năm vô địch Speed Chess Championship",
+      "link": "https://vnexpress.net/carlsen-lan-thu-nam-vo-dich-speed-chess-championship-5019283.html",
+      "summary": "Chiến thắng 15-12 trước Alireza Firouzja ở chung kết giúp Magnus Carlsen cân bằng kỷ lục 5 lần vô địch Speed Chess Championship của Hikaru Nakamura.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-09T03:17:48+07:00",
+      "fetched": "2026-02-09T11:16:50.670987+07:00"
+    },
+    {
+      "id": "e0d7a0e52e3781c9dd50237a8a47fcad",
+      "title": "Nhóm tạt sơn thuê liên tỉnh bị bắt ở TP HCM",
+      "link": "https://vnexpress.net/nhom-tat-son-thue-lien-tinh-bi-bat-o-tp-hcm-5016738.html",
+      "summary": "Nguyễn Phát Đạt, 21 tuổi, nhận \"hợp đồng\" qua mạng xã hội rồi rủ đồng phạm từ An Giang lên TP HCM tạt sơn nhà dân, quay video gửi cho người thuê để nhận tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:13:36+07:00",
+      "fetched": "2026-02-09T11:16:40.685299+07:00"
+    },
+    {
+      "id": "7c134488ebd2b98a1f501d45bdace588",
+      "title": "Tỉnh Jeolla Nam xin lỗi vì phát ngôn 'nhập khẩu trinh nữ Việt'",
+      "link": "https://vnexpress.net/tinh-jeolla-nam-xin-loi-vi-phat-ngon-nhap-khau-trinh-nu-viet-5017130.html",
+      "summary": "Chính quyền tỉnh Jeolla Nam gửi thư xin lỗi, thừa nhận phát ngôn \"nhập khẩu trinh nữ Việt\" của Chủ tịch huyện Jindo đã \"làm tổn hại phẩm giá phụ nữ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:13:32+07:00",
+      "fetched": "2026-02-09T11:16:40.685453+07:00"
+    },
+    {
+      "id": "7c134488ebd2b98a1f501d45bdace588",
+      "title": "Tỉnh Jeolla Nam xin lỗi vì phát ngôn 'nhập khẩu trinh nữ Việt'",
+      "link": "https://vnexpress.net/tinh-jeolla-nam-xin-loi-vi-phat-ngon-nhap-khau-trinh-nu-viet-5017130.html",
+      "summary": "Chính quyền tỉnh Jeolla Nam gửi thư xin lỗi, thừa nhận phát ngôn \"nhập khẩu trinh nữ Việt\" của Chủ tịch huyện Jindo đã \"làm tổn hại phẩm giá phụ nữ\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-09T03:13:32+07:00",
+      "fetched": "2026-02-09T11:16:45.646489+07:00"
+    },
+    {
+      "id": "454ad3fdc063440e6176d3ae71e0007c",
+      "title": "Thiếu niên 14 tuổi bị đánh tử vong do 'ghen tuông'",
+      "link": "https://vnexpress.net/thieu-nien-14-tuoi-bi-danh-tu-vong-do-ghen-tuong-5016430.html",
+      "summary": "Nguyễn, học sinh lớp 9 ở phường Pleiku, đang ngồi uống nước với nhóm bạn thì bất ngờ bị nhóm thanh thiếu niên xông vào đánh \"do ghen tuông\", tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:07:47+07:00",
+      "fetched": "2026-02-09T11:16:40.685615+07:00"
+    },
+    {
+      "id": "ad3fd9bc41796ec0c322afcc9f498cd3",
+      "title": "Bệnh viện Nhật Bản cắt nhầm tuyến tiền liệt vì lỗi nhập liệu",
+      "link": "https://vnexpress.net/benh-vien-nhat-ban-cat-nham-tuyen-tien-liet-vi-loi-nhap-lieu-5016024.html",
+      "summary": "Một bệnh nhân 60 tuổi tại tỉnh Chiba bị cắt bỏ toàn bộ tuyến tiền liệt oan uổng sau khi bác sĩ dán nhầm kết quả \"ung thư ác tính\" của người khác vào hồ sơ bệnh án điện tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:03:04+07:00",
+      "fetched": "2026-02-09T11:16:40.685768+07:00"
+    },
+    {
+      "id": "f5167b998d41a28fe47054791bca6940",
+      "title": "Giá vàng trong nước cao hơn thế giới 24 triệu đồng một lượng",
+      "link": "https://vnexpress.net/gia-vang-hom-nay-9-2-5016521.html",
+      "summary": "Vàng miếng và nhẫn trơn sáng nay tăng 2 triệu đồng mỗi lượng lên 181 triệu đồng, chênh lệch với thế giới lên cao kỷ lục 24 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:01:59+07:00",
+      "fetched": "2026-02-09T11:16:40.685961+07:00"
+    },
+    {
+      "id": "f5167b998d41a28fe47054791bca6940",
+      "title": "Giá vàng trong nước cao hơn thế giới 24 triệu đồng một lượng",
+      "link": "https://vnexpress.net/gia-vang-hom-nay-9-2-5016521.html",
+      "summary": "Vàng miếng và nhẫn trơn sáng nay tăng 2 triệu đồng mỗi lượng lên 181 triệu đồng, chênh lệch với thế giới lên cao kỷ lục 24 triệu đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-09T03:01:59+07:00",
+      "fetched": "2026-02-09T11:16:47.196624+07:00"
+    },
+    {
+      "id": "32692ff6b700c767ed76bda97fe3497f",
+      "title": "4 người chết, 3 người phải ghép gan vì ăn nhầm 'nấm tử thần' ở California",
+      "link": "https://vnexpress.net/4-nguoi-chet-3-nguoi-phai-ghep-gan-vi-an-nham-nam-tu-than-o-california-5015815.html",
+      "summary": "California ghi nhận loạt ca nhiễm độc do ăn nhầm \"nấm tử thần\" đang phát triển trên khắp bang trong mùa đông mưa ẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:01:30+07:00",
+      "fetched": "2026-02-09T11:16:40.686119+07:00"
+    },
+    {
+      "id": "32692ff6b700c767ed76bda97fe3497f",
+      "title": "4 người chết, 3 người phải ghép gan vì ăn nhầm 'nấm tử thần' ở California",
+      "link": "https://vnexpress.net/4-nguoi-chet-3-nguoi-phai-ghep-gan-vi-an-nham-nam-tu-than-o-california-5015815.html",
+      "summary": "California ghi nhận loạt ca nhiễm độc do ăn nhầm \"nấm tử thần\" đang phát triển trên khắp bang trong mùa đông mưa ẩm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-09T03:01:30+07:00",
+      "fetched": "2026-02-09T11:16:45.646708+07:00"
+    },
+    {
+      "id": "44d23cdd873db73cd0f9bc249ec79267",
+      "title": "Mai anh đào bung nở khắp phố núi Đà Lạt",
+      "link": "https://vnexpress.net/mai-anh-dao-bung-no-khap-pho-nui-da-lat-5014171.html",
+      "summary": "Hàng nghìn cây mai anh đào nở rộ từ trung tâm đến ngoại ô, nhuộm hồng nhiều tuyến đường ở phố núi Đà Lạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:01:13+07:00",
+      "fetched": "2026-02-09T11:16:40.686270+07:00"
+    },
+    {
+      "id": "3423702a4296a5cf0d9d1f0e96436b6d",
+      "title": "Mở cổng nhận bài thi Sáng kiến Khoa học 2026",
+      "link": "https://vnexpress.net/mo-cong-nhan-bai-thi-sang-kien-khoa-hoc-2026-5015816.html",
+      "summary": "Cuộc thi Sáng kiến Khoa học 2026 mở cổng đăng ký trực tuyến từ hôm nay, để các nhà khoa học, sáng chế, nghiên cứu chuyên và không chuyên, doanh nghiệp có thể gửi bài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:00:00+07:00",
+      "fetched": "2026-02-09T11:16:40.686499+07:00"
+    },
+    {
+      "id": "cc389165230416e4d8199cfa007e9e2f",
+      "title": "Trầm cảm do áp lực kéo dài",
+      "link": "https://vnexpress.net/tram-cam-do-ap-luc-keo-dai-5015846.html",
+      "summary": "Chị Mai, 31 tuổi, áp lực công việc cùng kế hoạch sinh con đầu lòng nên mệt mỏi, suy sụp, bác sĩ chẩn đoán trầm cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T03:00:00+07:00",
+      "fetched": "2026-02-09T11:16:40.686659+07:00"
+    },
+    {
+      "id": "3423702a4296a5cf0d9d1f0e96436b6d",
+      "title": "Mở cổng nhận bài thi Sáng kiến Khoa học 2026",
+      "link": "https://vnexpress.net/mo-cong-nhan-bai-thi-sang-kien-khoa-hoc-2026-5015816.html",
+      "summary": "Cuộc thi Sáng kiến Khoa học 2026 mở cổng đăng ký trực tuyến từ hôm nay, để các nhà khoa học, sáng chế, nghiên cứu chuyên và không chuyên, doanh nghiệp có thể gửi bài.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-09T03:00:00+07:00",
+      "fetched": "2026-02-09T11:16:49.396771+07:00"
+    },
+    {
+      "id": "084318c7d42826849cdc37eb43cd993b",
+      "title": "Ông Putin cảm ơn UAE hỗ trợ bắt nghi phạm ám sát tướng tình báo",
+      "link": "https://vnexpress.net/ong-putin-cam-on-uae-ho-tro-bat-nghi-pham-am-sat-tuong-tinh-bao-5015800.html",
+      "summary": "Ông Putin gọi điện cảm ơn Tổng thống UAE Nahyan về sự hợp tác giữa các cơ quan tình báo và hỗ trợ bắt nghi phạm ám sát tướng Alekseyev.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-09T01:57:20+07:00",
+      "fetched": "2026-02-09T11:16:45.646880+07:00"
+    },
+    {
+      "id": "c2dd8896d2e2eac7971093922fe188f7",
+      "title": "'Phản xạ chớp nhoáng' giúp tướng Nga thoát chết trong vụ ám sát",
+      "link": "https://vnexpress.net/phan-xa-chop-nhoang-giup-tuong-nga-thoat-chet-trong-vu-am-sat-5015791.html",
+      "summary": "Truyền thông Nga cho biết tướng tình báo Alekseyev phản xạ kịp thời trong vụ ám sát, nhanh chóng áp sát nghi phạm để tránh phát súng chí mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-09T01:38:29+07:00",
+      "fetched": "2026-02-09T11:16:45.647071+07:00"
+    },
+    {
+      "id": "d5546370f8b7274bda43ee119de70e1c",
+      "title": "Huyền thoại Morocco: 'Ronaldo nên biết ơn Arab Saudi'",
+      "link": "https://vnexpress.net/huyen-thoai-morocco-ronaldo-nen-biet-on-arab-saudi-5015754.html",
+      "summary": "Cựu tiền vệ Morocco, Mustapha Hadji cho rằng Cristiano Ronaldo cần trân trọng những gì Arab Saudi đã đem lại cho anh, thay vì làm loạn tại Al Nassr.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-09T01:29:42+07:00",
+      "fetched": "2026-02-09T11:16:50.671188+07:00"
     },
     {
       "id": "20b48cc49452d88d135c2d68de6f18e4",
@@ -291,6 +821,26 @@ window.newsData_2026_02_09 = {
       "category": "Tổng hợp",
       "published": "2026-02-09T01:23:37.887625+07:00",
       "fetched": "2026-02-09T01:23:37.887830+07:00"
+    },
+    {
+      "id": "66ba656905c1cc6f79629ce4a8cbaf21",
+      "title": "Giá vàng thế giới trở lại mốc 5.000 USD",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tro-lai-moc-5-000-usd-5015793.html",
+      "summary": "Giá vàng tăng phiên thứ 2 liên tiếp, vượt mốc 5.000 USD một ounce lần đầu tiên sau hơn một tuần.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-09T01:16:41+07:00",
+      "fetched": "2026-02-09T11:16:47.196822+07:00"
+    },
+    {
+      "id": "e1e9d0fc006d9d8c9dd54ea9255ab9e8",
+      "title": "Nhiều 'ông lớn' cam kết đầu tư hạ tầng dữ liệu tại TP HCM",
+      "link": "https://vnexpress.net/nhieu-ong-lon-cam-ket-dau-tu-ha-tang-du-lieu-tai-tp-hcm-5015763.html",
+      "summary": "G42, FPT, Viet Thai Group cam kết đầu tư hàng tỷ USD phát triển trung tâm dữ liệu siêu quy mô, hạ tầng dữ liệu gắn với năng lượng xanh và lĩnh vực tài chính số, tài sản số.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-09T01:11:31+07:00",
+      "fetched": "2026-02-09T11:16:49.396960+07:00"
     },
     {
       "id": "11bf5ae891aa9563a156d95cbe488cf5",
