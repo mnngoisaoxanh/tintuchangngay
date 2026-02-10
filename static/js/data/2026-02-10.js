@@ -1,7 +1,87 @@
 window.newsData_2026_02_10 = {
   "date": "2026-02-10",
-  "lastUpdated": "2026-02-10T05:26:53.352844+07:00",
+  "lastUpdated": "2026-02-10T08:25:50.303721+07:00",
   "articles": [
+    {
+      "id": "0cbd4a9d9f2691f24b74af7502ac7f16",
+      "title": "Tin tức sáng 10-2: Chính phủ quy định mới về nhà ở xã hội, điểm nào đáng chú ý?",
+      "link": "https://tuoitre.vn/tin-tuc-sang-10-2-chinh-phu-quy-dinh-moi-ve-nha-o-xa-hoi-diem-nao-dang-chu-y-20260209230546474.htm",
+      "summary": "Tin tức đáng chú ý: Chính phủ quy định mới về nhà ở xã hội, điểm nào đáng chú ý?; Tổng hạn ngạch phát thải khí nhà kính thí điểm cho 2026 là hơn 268 triệu tấn CO2 tương đương; Lãnh đạo TP.HCM gặp gỡ cơ quan đại diện nước ngoài...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T08:25:44.675497+07:00",
+      "fetched": "2026-02-10T08:25:44.675609+07:00"
+    },
+    {
+      "id": "d7e94303d1ed3b0bffb49b4103f50a0a",
+      "title": "Nhiều cách để mua sắm Tết an toàn",
+      "link": "https://tuoitre.vn/nhieu-cach-de-mua-sam-tet-an-toan-20260209223507943.htm",
+      "summary": "Không khí mua sắm Tết tại TP.HCM bắt đầu tăng nhiệt và người tiêu dùng cũng cẩn trọng hơn trong việc chọn mua sản phẩm an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T08:25:44.675390+07:00",
+      "fetched": "2026-02-10T08:25:44.675486+07:00"
+    },
+    {
+      "id": "64ce5f28d545c201cd796b3135d53b13",
+      "title": "Lái xe về quê, an toàn trên hết",
+      "link": "https://tuoitre.vn/lai-xe-ve-que-an-toan-tren-het-20260209224258117.htm",
+      "summary": "Vợ chồng tôi lấy nhau 19 năm thì 16 năm vợ chồng cùng hai con về quê Hoài Ân (Bình Định cũ) ăn Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T08:25:44.675283+07:00",
+      "fetched": "2026-02-10T08:25:44.675380+07:00"
+    },
+    {
+      "id": "755d80f14b6e3d24a75e3a25aa6113ab",
+      "title": "Bí ẩn đằng sau tốc độ 'tiêu chuẩn châu Âu' của Đình Bắc",
+      "link": "https://tuoitre.vn/bi-an-dang-sau-toc-do-tieu-chuan-chau-au-cua-dinh-bac-20260209135416977.htm",
+      "summary": "Dữ liệu từ các buổi tập cho thấy khả năng bứt tốc tối đa của Đình Bắc có thể lên đến 33-35km/h, chỉ kém một chút so với tiêu chuẩn của những cầu thủ chạy nhanh bậc nhất của Premier League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T08:25:44.675172+07:00",
+      "fetched": "2026-02-10T08:25:44.675273+07:00"
+    },
+    {
+      "id": "703616954b58cab64323ae2bbc9d9aab",
+      "title": "Thời tiết hôm nay 10-2: Ngày cúng ông Táo, Bắc Bộ mưa rét, Nam Bộ nắng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-10-2-ngay-cung-ong-tao-bac-bo-mua-ret-nam-bo-nang-20260209162359442.htm",
+      "summary": "Thời tiết hôm nay (10-2) trên cả nước không có sự thay đổi quá lớn, dù nhiệt độ có tăng nhẹ nhưng Bắc Bộ vẫn mưa rét, Nam Bộ nắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T08:25:44.675057+07:00",
+      "fetched": "2026-02-10T08:25:44.675162+07:00"
+    },
+    {
+      "id": "f4a9a33bbe8074c74698225631def7f6",
+      "title": "'Ông lớn' dịch vụ hàng không SASCO và Taseco Airs đều lãi khủng, ai trội hơn?",
+      "link": "https://tuoitre.vn/ong-lon-dich-vu-hang-khong-sasco-va-taseco-airs-deu-lai-khung-ai-troi-hon-20260209222156409.htm",
+      "summary": "Dù vận hành theo hai mô hình khác biệt nhưng cả SASCO và Taseco Airs đều vừa khép lại năm 2025 với những con số lợi nhuận kỷ lục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T08:25:44.674932+07:00",
+      "fetched": "2026-02-10T08:25:44.675047+07:00"
+    },
+    {
+      "id": "b7a22f414a26bed37b04dc5cf76bf91b",
+      "title": "Khởi tố 3 thanh niên mở bãi chứa xà bần trái phép",
+      "link": "https://tuoitre.vn/khoi-to-3-thanh-nien-mo-bai-chua-xa-ban-trai-phep-20260209220332258.htm",
+      "summary": "Ba người ở Đà Nẵng sử dụng khu đất trống ven sông, ít người qua lại để lập bãi chứa trái phép xà bần (chất thải rắn xây dựng) rồi thu tiền. Cả ba vừa bị khởi tố để điều tra tội gây ô nhiễm môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T08:25:44.674804+07:00",
+      "fetched": "2026-02-10T08:25:44.674921+07:00"
+    },
+    {
+      "id": "9a0216b719629f87cbf76197744ddd29",
+      "title": "Madam Pang trả mãi chưa xong khoản nợ 500 tỉ đồng của bóng đá Thái Lan",
+      "link": "https://tuoitre.vn/madam-pang-tra-mai-chua-xong-khoan-no-500-ti-dong-cua-bong-da-thai-lan-20260209222057023.htm",
+      "summary": "Trong lần trả lời báo chí mới đây, Chủ tịch Liên đoàn Bóng đá Thái Lan (FAT), bà Nualphan Lamsam (thường gọi là Madam Pang) đã có những chia sẻ đáng chú ý về khoản nợ khổng lồ của bóng đá nước nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T08:25:44.674582+07:00",
+      "fetched": "2026-02-10T08:25:44.674790+07:00"
+    },
     {
       "id": "8a90e82d5ae8f8ec0611b4c48b355e09",
       "title": "Tin tức sáng 10-2: Chính phủ quy định mới nhà ở xã hội, điểm nào đáng chú ý?",
@@ -163,6 +243,396 @@ window.newsData_2026_02_10 = {
       "fetched": "2026-02-10T01:44:15.488219+07:00"
     },
     {
+      "id": "3ada70c42bbe27c76bfc2ab4ddfb6a59",
+      "title": "Khoai lang tím hay cam tốt cho sức khỏe và giàu dinh dưỡng hơn?",
+      "link": "https://thanhnien.vn/khoai-lang-tim-hay-cam-tot-cho-suc-khoe-va-giau-dinh-duong-hon-185260210082249443.htm",
+      "summary": "Khoai lang tím và khoai lang cam đều giàu dưỡng chất và chứa các hợp chất sinh học quan trọng. Tuy nhiên, mỗi loại lại có thế mạnh riêng và phù hợp với những nhu cầu sức khỏe khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T01:22:00+07:00",
+      "fetched": "2026-02-10T08:25:42.070142+07:00"
+    },
+    {
+      "id": "534582566720f3149706d2d47fc883a8",
+      "title": "Tắt Bluetooth và Wi-Fi có tiết kiệm pin smartphone?",
+      "link": "https://thanhnien.vn/tat-bluetooth-va-wi-fi-co-tiet-kiem-pin-smartphone-185260209125215563.htm",
+      "summary": "Nhiều người thường tắt Wi-Fi và Bluetooth trên smartphone để tiết kiệm pin, nhưng liệu việc này có thực sự cần thiết?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T01:19:00+07:00",
+      "fetched": "2026-02-10T08:25:42.070289+07:00"
+    },
+    {
+      "id": "360532aa146daf1b0a0de1408bddb8c2",
+      "title": "Ngôi sao cầu lông Việt Nam Nguyễn Thùy Linh được dự những giải đấu nào của BWF?",
+      "link": "https://thanhnien.vn/ngoi-sao-cau-long-viet-nam-nguyen-thuy-linh-duoc-du-nhung-giai-dau-nao-cua-bwf-185260210071407301.htm",
+      "summary": "Với hạng 21 thế giới, tay vợt số 1 cầu lông Việt Nam Nguyễn Thùy Linh đủ điều kiện tranh tài ở hầu hết các giải trong hệ thống thi đấu của Liên đoàn Cầu lông thế giới (BWF).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T01:05:00+07:00",
+      "fetched": "2026-02-10T08:25:42.070426+07:00"
+    },
+    {
+      "id": "c8dfed11dafe95dcb69fcf8a88c75f5a",
+      "title": "Khám phá show diễn đa giác quan VietCharm: Trải nghiệm văn hóa chưa từng có",
+      "link": "https://thanhnien.vn/kham-pha-show-dien-da-giac-quan-vietcharm-trai-nghiem-van-hoa-chua-tung-co-185260209224406457.htm",
+      "summary": "Lần đầu tiên, một show diễn đa giác quan VietCharm tổ chức ngay trong không gian Dinh Độc Lập. Không chỉ để xem, mà để chạm, để cảm, và để sống cùng di sản Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T01:04:00+07:00",
+      "fetched": "2026-02-10T08:25:42.070569+07:00"
+    },
+    {
+      "id": "184c1b3cd9cb4a6500eebd3655b58a18",
+      "title": "Thời tiết tết ông Công ông Táo: Miền Bắc ấm lên, Nam bộ chạm ngưỡng nắng nóng",
+      "link": "https://thanhnien.vn/thoi-tiet-tet-ong-cong-ong-tao-mien-bac-am-len-nam-bo-cham-nguong-nang-nong-1852602100710365.htm",
+      "summary": "Dự báo thời tiết hôm nay 10.2 - tết ông Công ông Táo, miền Bắc ấm lên sau những ngày chịu tác động của không khí lạnh cường độ mạnh. Nam bộ có nắng, nhiệt độ chạm ngưỡng nắng nóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T01:01:00+07:00",
+      "fetched": "2026-02-10T08:25:42.070700+07:00"
+    },
+    {
+      "id": "42043f19240c7da64cd196c96c0bf9d6",
+      "title": "Phòng vé Việt mùa tết 2026 liệu có bùng nổ?",
+      "link": "https://thanhnien.vn/phong-ve-viet-mua-tet-2026-lieu-co-bung-no-185260209233642709.htm",
+      "summary": "Phòng vé Việt dịp Tết Nguyên đán 2026 trở thành cuộc cạnh tranh của loạt đạo diễn: Trấn Thành, Trường Giang, Lê Thanh Sơn, Minh Beta… Bên cạnh những gương mặt diễn viên quen thuộc với công chúng, màn ảnh rộng năm nay còn là màn \"chào sân\" của loạt TikToker, ca sĩ, rapper lần đầu tiên đóng phim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T01:00:00+07:00",
+      "fetched": "2026-02-10T08:25:42.070831+07:00"
+    },
+    {
+      "id": "245d52341a4da3df796b7ba25b4ac8f9",
+      "title": "Nhạt nhòa 'biểu tượng quyền lực' trên sân cỏ Anh",
+      "link": "https://thanhnien.vn/nhat-nhoa-bieu-tuong-quyen-luc-tren-san-co-anh-185260209202453646.htm",
+      "summary": "Suốt 8 mùa bóng gần đây, Manchester City và Liverpool thay nhau giữ ngôi vô địch giải Ngoại hạng Anh. Họ cũng đã nhiều lần lọt vào chung kết và vô địch Champions League. Cặp kỳ phùng địch thủ mang tính biểu tượng ấy giờ đã nhạt nhòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T01:00:00+07:00",
+      "fetched": "2026-02-10T08:25:42.070966+07:00"
+    },
+    {
+      "id": "aacd205a92bf65cb2dbf4e65e180bf3b",
+      "title": "Đưa mai bonsai lên livestream, cô gái Cần Thơ kiếm tiền triệu mỗi ngày",
+      "link": "https://thanhnien.vn/dua-mai-bonsai-len-livestream-co-gai-can-tho-kiem-tien-trieu-moi-ngay-185260209195256221.htm",
+      "summary": "Từ những cây mai nhỏ, Cao Thị Thùy Trang (ngụ P.Thới An Đông, TP.Cần Thơ) đã tạo nên mai bonsai độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T01:00:00+07:00",
+      "fetched": "2026-02-10T08:25:42.071096+07:00"
+    },
+    {
+      "id": "5855a421ec1b9d8c425079ad23acb59f",
+      "title": "Giải pháp tăng trưởng chiều cao, cân nặng cho trẻ theo từng lứa tuổi",
+      "link": "https://thanhnien.vn/giai-phap-tang-truong-chieu-cao-can-nang-cho-tre-theo-tung-lua-tuoi-185260209155556743.htm",
+      "summary": "Thấp còi, nhẹ cân, biếng ăn hoặc phát triển chậm là nỗi lo của không ít phụ huynh. Nhiều cha mẹ băn khoăn con có đang tăng trưởng đúng mốc hay không và cần làm gì để cải thiện thể chất cho trẻ một cách hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T01:00:00+07:00",
+      "fetched": "2026-02-10T08:25:42.071225+07:00"
+    },
+    {
+      "id": "5c970eb5f2dcc7185ba95f52f7a77ea1",
+      "title": "Robot hút bụi Roborock Saros 20 Series: Leo bậc vượt trội, không khoảng cách, không giới hạn",
+      "link": "https://thanhnien.vn/robot-hut-bui-roborock-saros-20-series-leo-bac-vuot-troi-khong-khoang-cach-khong-gioi-han-185260209114544073.htm",
+      "summary": "Trong nhịp sống hiện đại, khi ngôi nhà được xem là không gian nghỉ ngơi và tái tạo năng lượng, nhu cầu về sự tiện nghi và tự động hóa cũng trở nên rõ nét. Sự ra mắt của Roborock Saros 20 Series, gồm Saros 20 Sonic và Saros 20, đánh dấu bước tiến mới trong công nghệ làm sạch khi biến việc dọn dẹp thà...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T01:00:00+07:00",
+      "fetched": "2026-02-10T08:25:42.071359+07:00"
+    },
+    {
+      "id": "7163974c39a603047ce00e823df88702",
+      "title": "Anh Tú Atus tiết lộ cát sê đóng phim cho Trường Giang",
+      "link": "https://thanhnien.vn/anh-tu-atus-tiet-lo-cat-se-dong-phim-cho-truong-giang-18526020609304073.htm",
+      "summary": "Góp mặt trong phim điện ảnh 'Nhà ba tôi một phòng' do Trường Giang đạo diễn, Anh Tú Atus cho biết nhận lời tham gia một phần vì 'ân tình' với đàn anh. Trong cuộc trò chuyện cùng Thanh Niên, nam diễn viên thẳng thắn chia sẻ về cát sê mà 'Mười Khó' chi trả cho người quen, cùng với những dự định trong ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T01:00:00+07:00",
+      "fetched": "2026-02-10T08:25:42.071492+07:00"
+    },
+    {
+      "id": "126a4588f0f9966bf6ab8106d871a83d",
+      "title": "Bí quyết diện đồ thanh thoát và đầy phong cách với đầm suông",
+      "link": "https://thanhnien.vn/thoi-trang-tre/bi-quyet-dien-do-thanh-thoat-va-day-phong-cach-voi-dam-suong-185260203162817848.htm",
+      "summary": "Đầm suông không chỉ là lựa chọn thanh thoát, thướt tha và nhẹ nhàng cho những ngày thư thả. Thiết kế phóng khoáng này đã trở thành lựa chọn mặc đẹp cho mọi không gian - khi nàng du xuân dạo phố, tham dự các buổi tiệc, các lễ hội hay buổi gặp gỡ thân tình dịp đầu năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T01:00:00+07:00",
+      "fetched": "2026-02-10T08:25:42.071630+07:00"
+    },
+    {
+      "id": "1fb7197855de02291249a5573857b119",
+      "title": "Gia Lai: Khởi tố giám đốc gây thất thoát 3,2 tỉ đồng",
+      "link": "https://thanhnien.vn/gia-lai-khoi-to-giam-doc-gay-that-thoat-32-ti-dong-185260210071311707.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an tỉnh Gia Lai khởi tố, bắt tạm giam Giám đốc Công ty TNHH MTV Cà phê Gia Lai về hành vi vi phạm quản lý tài sản nhà nước, gây thất thoát 3,2 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T00:53:00+07:00",
+      "fetched": "2026-02-10T08:25:42.071761+07:00"
+    },
+    {
+      "id": "32e5e12a2974ee88f0369b1b8ef8bc82",
+      "title": "YouTube cho hạn chế trẻ em tại Việt Nam xem video ngắn",
+      "link": "https://vnexpress.net/youtube-cho-han-che-tre-em-tai-viet-nam-xem-video-ngan-5039356.html",
+      "summary": "Phụ huynh tại Việt Nam có thể thiết lập giới hạn hoặc chặn hoàn toàn tài khoản trẻ em xem video ngắn (Shorts) trên YouTube tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-10T00:50:09+07:00",
+      "fetched": "2026-02-10T08:25:48.978245+07:00"
+    },
+    {
+      "id": "e8fe31f5cd4d39e5909c8c984aa60e6c",
+      "title": "Khổ vì đường bụi bặm",
+      "link": "https://thanhnien.vn/kho-vi-duong-bui-bam-185260209203317542.htm",
+      "summary": "Bạn đọc phản ánh thời gian gần đây trên đường Huỳnh Tấn Phát, P.Tân Thuận (trước đây thuộc P.Tân Thuận Đông, Q.7), TP.HCM, nhiều xe ben chở vật liệu xây dựng không che chắn cẩn thận làm rơi đất đá xuống đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T00:49:00+07:00",
+      "fetched": "2026-02-10T08:25:42.071891+07:00"
+    },
+    {
+      "id": "66ea78e051f3c98d655a352dd7d2eeb4",
+      "title": "Nhiều cây xanh chết khô trên đường",
+      "link": "https://thanhnien.vn/nhieu-cay-xanh-chet-kho-tren-duong-185260209202730191.htm",
+      "summary": "Tại khu vực gần đầu hẻm 557 Hương lộ 3, P.Bình Hưng Hòa (trước đây thuộc P.Bình Hưng Hòa, Q.Bình Tân), TP.HCM, có 3 cây đã chết khô lâu ngày, trên thân cây vẫn còn dây đèn, bóng điện, biển quảng cáo q...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T00:49:00+07:00",
+      "fetched": "2026-02-10T08:25:43.688390+07:00"
+    },
+    {
+      "id": "8c9d5470f58a3e3352bf0c4806e7bea0",
+      "title": "Ông Trump dọa ngăn khánh thành cây cầu nối Mỹ với Canada",
+      "link": "https://vnexpress.net/ong-trump-doa-ngan-khanh-thanh-cay-cau-noi-my-voi-canada-5039376.html",
+      "summary": "Ông Trump dọa sẽ ngăn việc khánh thành cây cầu trị giá 4,7 tỷ USD nối liền tỉnh Ontario của Canada với bang Michigan của Mỹ, trong bối cảnh căng thẳng hai nước leo thang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-10T00:36:20+07:00",
+      "fetched": "2026-02-10T08:25:46.164885+07:00"
+    },
+    {
+      "id": "50fab494db958ac210bd9d8ff1b67ee4",
+      "title": "Chủ tịch huyện ở Hàn Quốc tiếp tục gây phẫn nộ vì chửi thề trước người dân",
+      "link": "https://vnexpress.net/chu-tich-huyen-o-han-quoc-tiep-tuc-gay-phan-no-vi-chui-the-truoc-nguoi-dan-5039372.html",
+      "summary": "Ông Kim Hee-soo, chủ tịch huyện Jindo, tiếp tục gây phẫn nộ khi văng tục với người dân trong một buổi đối thoại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-10T00:25:46+07:00",
+      "fetched": "2026-02-10T08:25:46.165035+07:00"
+    },
+    {
+      "id": "787687addc30e4e5298723123a53a2b0",
+      "title": "Nhóm thượng nghị sĩ Mỹ thăm Greenland, bác bỏ tuyên bố của ông Trump",
+      "link": "https://vnexpress.net/nhom-thuong-nghi-si-my-tham-greenland-bac-bo-tuyen-bo-cua-ong-trump-5039370.html",
+      "summary": "Nhóm thượng nghị sĩ Mỹ thăm Greenland để \"xây lại niềm tin\" và bác bỏ tuyên bố của ông Trump về sự hiện diện của tàu Nga, Trung Quốc gần hòn đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T00:00:03+07:00",
+      "fetched": "2026-02-10T08:25:38.922319+07:00"
+    },
+    {
+      "id": "787687addc30e4e5298723123a53a2b0",
+      "title": "Nhóm thượng nghị sĩ Mỹ thăm Greenland, bác bỏ tuyên bố của ông Trump",
+      "link": "https://vnexpress.net/nhom-thuong-nghi-si-my-tham-greenland-bac-bo-tuyen-bo-cua-ong-trump-5039370.html",
+      "summary": "Nhóm thượng nghị sĩ Mỹ thăm Greenland để \"xây lại niềm tin\" và bác bỏ tuyên bố của ông Trump về sự hiện diện của tàu Nga, Trung Quốc gần hòn đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-10T00:00:03+07:00",
+      "fetched": "2026-02-10T08:25:46.165178+07:00"
+    },
+    {
+      "id": "052a976aa1cfc5fc5c77344b2ae06f4e",
+      "title": "Sập bẫy tiền ảo đa cấp Luxkingtech, hơn 1.000 người mất 175 tỷ đồng",
+      "link": "https://vnexpress.net/sap-bay-tien-ao-da-cap-luxkingtech-hon-1-000-nguoi-mat-175-ty-dong-5039353.html",
+      "summary": "Với vỏ bọc doanh nghiệp quốc tế, Luyện xây dựng hệ thống \"lấy tiền người sau trả người trước\", lôi kéo hơn 1.000 nạn nhân sập bẫy, chiếm đoạt 175 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T00:00:00+07:00",
+      "fetched": "2026-02-10T08:25:38.922472+07:00"
+    },
+    {
+      "id": "f35b747741724bd0ce9d07c64ac6ef03",
+      "title": "Thuyền buồm đỏ xuất hiện, gây chú ý trên vịnh Hạ Long",
+      "link": "https://vnexpress.net/thuyen-buom-do-xuat-hien-gay-chu-y-tren-vinh-ha-long-5032454.html",
+      "summary": "Ba chiếc thuyền buồm đỏ trên vịnh Hạ Long thu hút sự quan tâm của nhiều người dân và du khách vì vẻ ngoài gợi nhớ đến loại phương tiện cổ từng xuất hiện nhiều trước đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T00:00:00+07:00",
+      "fetched": "2026-02-10T08:25:38.922625+07:00"
+    },
+    {
+      "id": "2cc94174e673865b08a3857773d2ec29",
+      "title": "7 món giúp giảm cân nên ăn thường xuyên",
+      "link": "https://vnexpress.net/7-mon-giup-giam-can-nen-an-thuong-xuyen-5025961.html",
+      "summary": "Trứng, cá, ức gà, ớt, các loại hạt không chỉ bổ dưỡng mà còn có thể tăng cảm giác no, giảm cơn thèm ăn, tốt cho người giảm cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T00:00:00+07:00",
+      "fetched": "2026-02-10T08:25:38.922759+07:00"
+    },
+    {
+      "id": "3767c59af404dabe6c2c498d08c2404e",
+      "title": "Có nên dán màn hình cho laptop?",
+      "link": "https://vnexpress.net/co-nen-dan-man-hinh-cho-laptop-5026855.html",
+      "summary": "Lo sợ bị xước màn hình khi mua laptop mới nhưng tôi nhận nhiều lời khuyên trái ngược về việc dán màn hình. (Hoàng Anh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T00:00:00+07:00",
+      "fetched": "2026-02-10T08:25:38.922892+07:00"
+    },
+    {
+      "id": "d98ed5b139f2c976bf6d9de1d500bb4c",
+      "title": "AC Logistics hợp tác ZTE tăng cường chuỗi cung ứng tại Philippines",
+      "link": "https://vnexpress.net/ac-logistics-hop-tac-zte-tang-cuong-chuoi-cung-ung-tai-philippines-5013422.html",
+      "summary": "ZTE và AC Logistics bắt tay nhằm củng cố hoạt động logistics, hỗ trợ các dự án công nghệ và hạ tầng số của ZTE tại thị trường Philippines.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T00:00:00+07:00",
+      "fetched": "2026-02-10T08:25:38.923023+07:00"
+    },
+    {
+      "id": "3767c59af404dabe6c2c498d08c2404e",
+      "title": "Có nên dán màn hình cho laptop?",
+      "link": "https://vnexpress.net/co-nen-dan-man-hinh-cho-laptop-5026855.html",
+      "summary": "Lo sợ bị xước màn hình khi mua laptop mới nhưng tôi nhận nhiều lời khuyên trái ngược về việc dán màn hình. (Hoàng Anh)",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-10T00:00:00+07:00",
+      "fetched": "2026-02-10T08:25:48.978382+07:00"
+    },
+    {
+      "id": "85f762bf0c4a0518714a26e0473a0c05",
+      "title": "Người Mỹ trả tiền để được đi làm",
+      "link": "https://vnexpress.net/nguoi-my-tra-tien-de-duoc-di-lam-5029104.html",
+      "summary": "Thị trường lao động ảm đạm khiến nhiều nhân sự cấp cao tại Mỹ chấp nhận chi hàng nghìn USD, thậm chí chia lại lương cho bên trung gian để tìm việc hộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T23:30:00+07:00",
+      "fetched": "2026-02-10T08:25:38.923155+07:00"
+    },
+    {
+      "id": "751e1e69478adf32f1462510b27a1234",
+      "title": "Một năm thăng hoa của Antony tại Betis",
+      "link": "https://vnexpress.net/mot-nam-thang-hoa-cua-antony-tai-betis-5039369.html",
+      "summary": "Tiền đạo Antony để lại dấu ấn đậm nét sau hơn một năm khoác áo Real Betis, mới nhất là việc lập siêu phẩm giúp CLB thắng Atletico Madrid 1-0 ở vòng 23 La Liga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T23:26:50+07:00",
+      "fetched": "2026-02-10T08:25:38.923287+07:00"
+    },
+    {
+      "id": "751e1e69478adf32f1462510b27a1234",
+      "title": "Một năm thăng hoa của Antony tại Betis",
+      "link": "https://vnexpress.net/mot-nam-thang-hoa-cua-antony-tai-betis-5039369.html",
+      "summary": "Tiền đạo Antony để lại dấu ấn đậm nét sau hơn một năm khoác áo Real Betis, mới nhất là việc lập siêu phẩm giúp CLB thắng Atletico Madrid 1-0 ở vòng 23 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-09T23:26:50+07:00",
+      "fetched": "2026-02-10T08:25:50.299063+07:00"
+    },
+    {
+      "id": "d08de8675446e611b0e4e7e7125a2b8e",
+      "title": "Điểm tin 6h: TikTok Shop lần đầu vượt Shopee về doanh số mùa cận Tết 2026 | Quỹ Đầu tư tài sản số TP.HCM hướng tới quy mô 1 tỷ USD",
+      "link": "https://vnexpress.net/diem-tin-6h-tiktok-shop-lan-dau-vuot-shopee-ve-doanh-so-mua-can-tet-2026-quy-dau-tu-tai-san-so-tp-hcm-huong-toi-quy-mo-1-ty-usd-5039374.html",
+      "summary": "Loạt thỏa thuận tỷ đô kích hoạt Trung tâm tài chính quốc tế tại TP.HCM; Thủ tướng thúc tiến độ huy động vàng và ngoại tệ trong dân...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T23:20:52+07:00",
+      "fetched": "2026-02-10T08:25:38.923417+07:00"
+    },
+    {
+      "id": "55fae5f5e7c1c08aaebd9359dd49aeb4",
+      "title": "Đôi trượt băng nghệ thuật Anh - Đức gây sốt ở Tây Ban Nha",
+      "link": "https://vnexpress.net/doi-truot-bang-nghe-thuat-anh-duc-gay-sot-o-tay-ban-nha-5039367.html",
+      "summary": "Olivia Smart (Anh) và Tim Dieck (Đức) trở thành hiện tượng trượt băng nghệ thuật Tây Ban Nha, nhờ hành trình đặc biệt tại Olympic Mùa đông Milan-Cortina 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T23:18:45+07:00",
+      "fetched": "2026-02-10T08:25:38.923560+07:00"
+    },
+    {
+      "id": "55fae5f5e7c1c08aaebd9359dd49aeb4",
+      "title": "Đôi trượt băng nghệ thuật Anh - Đức gây sốt ở Tây Ban Nha",
+      "link": "https://vnexpress.net/doi-truot-bang-nghe-thuat-anh-duc-gay-sot-o-tay-ban-nha-5039367.html",
+      "summary": "Olivia Smart (Anh) và Tim Dieck (Đức) trở thành hiện tượng trượt băng nghệ thuật Tây Ban Nha, nhờ hành trình đặc biệt tại Olympic Mùa đông Milan-Cortina 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-09T23:18:45+07:00",
+      "fetched": "2026-02-10T08:25:50.298661+07:00"
+    },
+    {
+      "id": "d15eb976bc94ff9ec0b8653f9a242950",
+      "title": "Laporta từ chức Chủ tịch Barca để chờ tái tranh cử",
+      "link": "https://vnexpress.net/laporta-tu-chuc-chu-tich-barca-de-cho-tai-tranh-cu-5039366.html",
+      "summary": "Hôm 9/2, Chủ tịch đương nhiệm Joan Laporta từ chức để mở đường cho cuộc bầu cử ngày 15/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T23:14:46+07:00",
+      "fetched": "2026-02-10T08:25:38.923688+07:00"
+    },
+    {
+      "id": "d15eb976bc94ff9ec0b8653f9a242950",
+      "title": "Laporta từ chức Chủ tịch Barca để chờ tái tranh cử",
+      "link": "https://vnexpress.net/laporta-tu-chuc-chu-tich-barca-de-cho-tai-tranh-cu-5039366.html",
+      "summary": "Hôm 9/2, Chủ tịch đương nhiệm Joan Laporta từ chức để mở đường cho cuộc bầu cử ngày 15/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-09T23:14:46+07:00",
+      "fetched": "2026-02-10T08:25:50.298797+07:00"
+    },
+    {
+      "id": "c8db119fefb608a29cf1879ad8bc9dda",
+      "title": "Nữ thủ khoa duy nhất đạt điểm tuyệt đối Tin học",
+      "link": "https://vnexpress.net/nu-thu-khoa-duy-nhat-dat-diem-tuyet-doi-tin-hoc-5039321.html",
+      "summary": "Có nền tảng Toán tốt và dùng AI để luyện code, Yến Dương trở thành thủ khoa duy nhất đạt điểm tuyệt đối kỳ thi học sinh giỏi tỉnh Phú Thọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T23:09:43+07:00",
+      "fetched": "2026-02-10T08:25:38.923821+07:00"
+    },
+    {
+      "id": "040a98f429a6b5e86690275d19129fce",
+      "title": "Cuộc đua 'săn' vé tàu xe Tết",
+      "link": "https://vnexpress.net/cuoc-dua-san-ve-tau-xe-tet-5032139.html",
+      "summary": "Dù chấp nhận giá vé cao gấp 2-3 ngày thường, nhiều người ở Hà Nội, TP HCM vẫn trắng tay trong \"cuộc đua\" săn vé tàu, xe về quê dịp Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T23:00:00+07:00",
+      "fetched": "2026-02-10T08:25:38.923952+07:00"
+    },
+    {
+      "id": "5901220107e0ebea0c6d5efe63dafdd4",
+      "title": "Đề xuất tăng 50% thịt, cá cho phạm nhân từ tháng 7",
+      "link": "https://vnexpress.net/de-xuat-tang-50-dinh-luong-thit-ca-cho-pham-nhan-tu-thang-7-5019902.html",
+      "summary": "Bộ Công an đề xuất tăng gấp rưỡi lượng thịt, cá, dầu ăn; khám sức khỏe cho phạm nhân mỗi năm một lần... góp phần giúp họ yên tâm, tích cực cải tạo tiến bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T23:00:00+07:00",
+      "fetched": "2026-02-10T08:25:38.924083+07:00"
+    },
+    {
+      "id": "0d59e139687482f4780cf89a5d1100c5",
+      "title": "5 thói quen tưởng lành mạnh nhưng gây hại nhiều hơn lợi",
+      "link": "https://vnexpress.net/5-thoi-quen-tuong-lanh-manh-nhung-gay-hai-nhieu-hon-loi-5015670.html",
+      "summary": "Nhiều xu hướng sức khỏe phổ biến như nhịn ăn gián đoạn, nước ngọt ăn kiêng, ngủ với tiếng ồn trắng... có thể gây hại nhiều hơn lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-09T23:00:00+07:00",
+      "fetched": "2026-02-10T08:25:38.924212+07:00"
+    },
+    {
+      "id": "bbeb04ee1ded9d52d6f9fcaea3664553",
+      "title": "Chợ cá chép lớn nhất TP HCM tất bật ngày ông Táo",
+      "link": "https://vnexpress.net/cho-ca-chep-lon-nhat-tp-hcm-tat-bat-ngay-ong-tao-5039365.html",
+      "summary": "Hàng chục tấn cá chép đổ bộ về chợ đầu mối Bình Điền rạng sáng 23 tháng Chạp, được các tiểu thương vận chuyển, phân phối đến các chợ trong thành phố.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-09T22:44:29+07:00",
+      "fetched": "2026-02-10T08:25:47.472265+07:00"
+    },
+    {
       "id": "efc7ed8117502fb07acde264f0efdcd2",
       "title": "Ngựa vàng Quảng Ngãi cao 10 m 'có hồn' ở công viên Ba Tơ",
       "link": "https://thanhnien.vn/ngua-vang-quang-ngai-cao-10-m-co-hon-o-cong-vien-ba-to-185260209153507088.htm",
@@ -251,6 +721,16 @@ window.newsData_2026_02_10 = {
       "category": "Công nghệ",
       "published": "2026-02-09T22:00:00+07:00",
       "fetched": "2026-02-10T05:26:51.507050+07:00"
+    },
+    {
+      "id": "3463ca0b661960cd4d272801b10eadba",
+      "title": "Cuộc đấu khẩu gây sóng gió trong quan hệ Mỹ - Ba Lan",
+      "link": "https://vnexpress.net/cuoc-dau-khau-gay-song-gio-trong-quan-he-my-ba-lan-5018759.html",
+      "summary": "Tham vọng Nobel Hòa bình của ông Trump đã châm ngòi cho cuộc khẩu chiến căng thẳng giữa các quan chức Mỹ với Ba Lan, dù hai nước là đồng minh NATO.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-09T22:00:00+07:00",
+      "fetched": "2026-02-10T08:25:46.165309+07:00"
     },
     {
       "id": "f5a076b6afa44d477263837d4c497f5e",
