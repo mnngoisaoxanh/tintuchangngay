@@ -1,7 +1,157 @@
 window.newsData_2026_02_11 = {
   "date": "2026-02-11",
-  "lastUpdated": "2026-02-11T11:22:41.141423+07:00",
+  "lastUpdated": "2026-02-11T13:52:00.814956+07:00",
   "articles": [
+    {
+      "id": "be46957eb9e9b51fbe0ce63ae2aa7f79",
+      "title": "Người Việt bắt đầu nhờ AI hỗ trợ chuẩn bị Tết, tìm kiếm văn khấn mùng 1",
+      "link": "https://tuoitre.vn/nguoi-viet-bat-dau-nho-ai-ho-tro-chuan-bi-tet-tim-kiem-van-khan-mung-1-2026021109264147.htm",
+      "summary": "Theo Xu hướng tìm kiếm Tết 2026 do Google công bố, người Việt đã chủ động lên kế hoạch sớm, tận dụng trí tuệ nhân tạo (AI) để đón Tết hiệu quả hơn trong Tết năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.177268+07:00",
+      "fetched": "2026-02-11T13:51:53.177364+07:00"
+    },
+    {
+      "id": "765afb72081440794c21af43e31c8e68",
+      "title": "Bí mật những dòng chữ trên bia tiến sĩ bị đục bỏ",
+      "link": "https://tuoitre.vn/bi-mat-nhung-dong-chu-tren-bia-tien-si-bi-duc-bo-20260211012805844.htm",
+      "summary": "Ngày nay, công chúng vẫn còn nhìn thấy những bia tiến sĩ ở Văn Miếu - Quốc Tử Giám đã bị đục bỏ đi một số chữ. Những dòng chữ bị đục bỏ ấy là gì và vì sao lại bị đục bỏ?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.177157+07:00",
+      "fetched": "2026-02-11T13:51:53.177258+07:00"
+    },
+    {
+      "id": "fbc52bb67c27c1cfad93a5ac01bfe7e1",
+      "title": "Bóng đá Việt Nam đã không còn bỏ sót nhân tài",
+      "link": "https://tuoitre.vn/bong-da-viet-nam-da-khong-con-bo-sot-nhan-tai-20260210222032827.htm",
+      "summary": "Đình Bắc dậy thì muộn, Khuất Văn Khang quá thấp bé, và ngay cả Lý Đức, Nhật Minh có xuất phát điểm về hình thể cũng không mấy nổi bật... Nhiều cầu thủ U23 Việt Nam đều cần đến sự \"nâng cấp\" ở các lò đào tạo bóng đá thế hệ mới của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.177051+07:00",
+      "fetched": "2026-02-11T13:51:53.177148+07:00"
+    },
+    {
+      "id": "4d2d4307f3d1cf0bf3fa71c451c4a478",
+      "title": "Tổng Bí thư Tô Lâm dự khởi công trường phổ thông nội trú tại xã Ea Rốk, Đắk Lắk",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-du-khoi-cong-truong-pho-thong-noi-tru-tai-xa-ea-rok-dak-lak-20260211113038334.htm",
+      "summary": "Trường phổ thông nội trú ở xã Ea Rốk do Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam phối hợp UBND tỉnh Đắk Lắk tổ chức thực hiện.​​​​",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.176942+07:00",
+      "fetched": "2026-02-11T13:51:53.177041+07:00"
+    },
+    {
+      "id": "08ac383205ef05bf5a1b4a0ed3215ec0",
+      "title": "Futsal Indonesia với giấc mơ xa",
+      "link": "https://tuoitre.vn/futsal-indonesia-voi-giac-mo-xa-20260211093432577.htm",
+      "summary": "Sau khi về nhì tại Giải futsal vô địch châu Á 2026 (thua kịch tính tuyển Iran trên chấm luân lưu ở chung kết), tuyển futsal Indonesia muốn tận dụng \"đòn bẩy\" này để vươn mình lên đẳng cấp thế giới trong tương lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.176827+07:00",
+      "fetched": "2026-02-11T13:51:53.176932+07:00"
+    },
+    {
+      "id": "d7eaab255d1b21f4467bc3d64df82ed8",
+      "title": "DJ hàng đầu thế giới khen Jungkook BTS có 'giọng hát hoàn hảo'",
+      "link": "https://tuoitre.vn/dj-hang-dau-the-gioi-khen-jungkook-bts-co-giong-hat-hoan-hao-20260211113355817.htm",
+      "summary": "DJ kiêm nhà sản xuất đình đám Diplo xác nhận hợp tác với BTS trong album Arirang, sản phẩm đánh dấu sự trở lại đầy đủ đội hình sau hơn 3 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.176723+07:00",
+      "fetched": "2026-02-11T13:51:53.176817+07:00"
+    },
+    {
+      "id": "dd61a4f6ec9d1ff6ace6f110ce3c908e",
+      "title": "SM Entertainment phong tỏa tài sản của EXO Chen, Baekhyun và Xiumin",
+      "link": "https://tuoitre.vn/sm-entertainment-phong-toa-tai-san-cua-exo-chen-baekhyun-va-xiumin-20260211112403252.htm",
+      "summary": "SM Entertainment đã phong tỏa tài sản của Chen, Baekhyun và Xiumin (EXO) nhằm bảo toàn khoản 10% doanh thu cá nhân theo thỏa thuận năm 2023, giữa lúc tranh chấp pháp lý vẫn tiếp diễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.176616+07:00",
+      "fetched": "2026-02-11T13:51:53.176714+07:00"
+    },
+    {
+      "id": "dc84be51ce00fc89edffc96fe1f1ea34",
+      "title": "100% cử tri tín nhiệm Bí thư Đồng Nai Vũ Hồng Văn ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://tuoitre.vn/100-cu-tri-tin-nhiem-bi-thu-dong-nai-vu-hong-van-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-20260211111738498.htm",
+      "summary": "Ngày 11-2, Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Đồng Nai tổ chức Hội nghị hiệp thương lần thứ 3 để lập danh sách những người đủ tiêu chuẩn ứng cử đại biểu Quốc hội khóa XVI đơn vị tỉnh Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.176508+07:00",
+      "fetched": "2026-02-11T13:51:53.176607+07:00"
+    },
+    {
+      "id": "cd8680fbff995a6b48515178cf9e4606",
+      "title": "Anh hùng Lao động Lê Nữ Thùy Dương ứng cử đại biểu Quốc hội",
+      "link": "https://tuoitre.vn/anh-hung-lao-dong-le-nu-thuy-duong-ung-cu-dai-bieu-quoc-hoi-20260211113402341.htm",
+      "summary": "100% cử tri tín nhiệm Anh hùng Lao động Lê Nữ Thùy Dương, Phó chủ tịch hội đồng quản trị kiêm Tổng giám đốc Công ty cổ phần đầu tư và kinh doanh GoIf Long Thành, ứng cử đại biểu Quốc hội khóa XVI đơn vị tỉnh Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.176399+07:00",
+      "fetched": "2026-02-11T13:51:53.176499+07:00"
+    },
+    {
+      "id": "6c8808aac72256ef5d51f2f13ffca294",
+      "title": "Tin vui từ Vietnam Open",
+      "link": "https://tuoitre.vn/tin-vui-tu-vietnam-open-20260211093042313.htm",
+      "summary": "Những cải cách của Liên đoàn Cầu lông thế giới (BWF) mang đến nhiều hy vọng cho giải Vietnam Open.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.176293+07:00",
+      "fetched": "2026-02-11T13:51:53.176389+07:00"
+    },
+    {
+      "id": "b4115e520144027cd68477718112e51e",
+      "title": "Bộ Công an đề xuất trình tự, thủ tục giải quyết trường hợp phạm nhân hiến mô, bộ phận cơ thể",
+      "link": "https://tuoitre.vn/bo-cong-an-de-xuat-trinh-tu-thu-tuc-giai-quyet-truong-hop-pham-nhan-hien-mo-bo-phan-co-the-20260211115319208.htm",
+      "summary": "Tại dự thảo nghị định, Bộ Công an đã đề xuất quy định về trình tự, thủ tục giải quyết trường hợp phạm nhân có nguyện vọng hiến mô, bộ phận cơ thể người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.176184+07:00",
+      "fetched": "2026-02-11T13:51:53.176283+07:00"
+    },
+    {
+      "id": "79b5c29f7c5364fbf775a5381fc3851e",
+      "title": "Bầu cử Thái Lan phải kiểm phiếu lại",
+      "link": "https://tuoitre.vn/bau-cu-thai-lan-phai-kiem-phieu-lai-20260211121435758.htm",
+      "summary": "Ủy ban Bầu cử Thái Lan khẳng định mọi quyết định phải dựa trên quy định pháp luật, căn cứ vào bằng chứng cụ thể và các tình tiết rõ ràng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.176074+07:00",
+      "fetched": "2026-02-11T13:51:53.176174+07:00"
+    },
+    {
+      "id": "384b39cc81b03788d6a5e52e2d7f1b19",
+      "title": "Trung tâm Tài chính quốc tế Việt Nam ra mắt tại TP.HCM",
+      "link": "https://tuoitre.vn/trung-tam-tai-chinh-quoc-te-viet-nam-ra-mat-tai-tp-hcm-20260211115214328.htm",
+      "summary": "Sáng nay 11-2, Trung tâm Tài chính quốc tế tại TP.HCM (VIFC-HCMC) đã chính thức ra mắt tại tòa nhà Trung tâm Tài chính quốc tế Việt Nam, số 8 Nguyễn Huệ, phường Sài Gòn, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.175960+07:00",
+      "fetched": "2026-02-11T13:51:53.176064+07:00"
+    },
+    {
+      "id": "4af2a7d23e666a9812b1093bf0b86bf7",
+      "title": "15 mô tô đặc chủng của CSGT tuần tra liên tục trên cao tốc Hà Nội - Thanh Hóa dịp Tết",
+      "link": "https://tuoitre.vn/15-mo-to-dac-chung-cua-csgt-tuan-tra-lien-tuc-tren-cao-toc-ha-noi-thanh-hoa-dip-tet-20260211120705256.htm",
+      "summary": "Mỗi mô tô sẽ gồm 1 cảnh sát giao thông và 1 cảnh sát cơ động tuần tra dọc cao tốc Pháp Vân (Hà Nội) - Nghi Sơn (Thanh Hóa).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.175824+07:00",
+      "fetched": "2026-02-11T13:51:53.175950+07:00"
+    },
+    {
+      "id": "ff6d183c7be6366fa038a8a4940ae9c7",
+      "title": "An Giang làm đại cảnh Mã đáo thành công được người dân ưa thích",
+      "link": "https://tuoitre.vn/an-giang-lam-dai-canh-ma-dao-thanh-cong-duoc-nguoi-dan-ua-thich-20260211112446963.htm",
+      "summary": "Những ngày cận Tết, An Giang đầu tư đường hoa xuân và đại cảnh “Mã đáo thành công” trở nên nhộn nhịp hơn bao giờ hết khi xuất hiện 10 linh vật Bính Ngọ màu vàng ở khu lấn biển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:51:53.175599+07:00",
+      "fetched": "2026-02-11T13:51:53.175810+07:00"
+    },
     {
       "id": "c4723a612b0c388d8bc6f344edb9abab",
       "title": "10 chiếc váy vàng khó quên trong lịch sử thời trang thảm đỏ",
@@ -211,6 +361,366 @@ window.newsData_2026_02_11 = {
       "category": "Tổng hợp",
       "published": "2026-02-11T08:23:16.299577+07:00",
       "fetched": "2026-02-11T08:23:16.299800+07:00"
+    },
+    {
+      "id": "9cd0a19ffe3e67759e459c394e568abe",
+      "title": "Người dùng Trung Quốc đổ xô mua iPhone 17 Pro vì lý do bất ngờ",
+      "link": "https://thanhnien.vn/nguoi-dung-trung-quoc-do-xo-mua-iphone-17-pro-vi-ly-do-bat-ngo-185260211122517189.htm",
+      "summary": "Người dùng Trung Quốc gọi màu cam iPhone 17 Pro là \"cam Hermès\", tạo hiệu ứng xã hội và kích thích cầu nâng cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T06:51:00+07:00",
+      "fetched": "2026-02-11T13:51:52.299587+07:00"
+    },
+    {
+      "id": "0237980406736726d975ded1b5070e32",
+      "title": "1.041 người vào danh sách sơ bộ ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://thanhnien.vn/1041-nguoi-vao-danh-sach-so-bo-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-185260211125059517.htm",
+      "summary": "Ngày 10.2, Phó chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam Hoàng Công Thủy đã ký ban hành báo cáo kết quả Hội nghị hiệp thương lần thứ hai bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026-2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T06:45:00+07:00",
+      "fetched": "2026-02-11T13:51:52.299740+07:00"
+    },
+    {
+      "id": "e4f664f4dd014ee14d48f690c3987814",
+      "title": "Cảnh báo về thực trạng thiếu kỹ năng của thanh niên",
+      "link": "https://thanhnien.vn/canh-bao-ve-thuc-trang-thieu-ky-nang-cua-thanh-nien-185260211110235756.htm",
+      "summary": "Tại Hội thảo 'Tiếng nói thanh niên về y tế, giáo dục và việc làm cho thanh niên hiện nay', các chuyên gia đã cảnh báo về tình trạng thiếu kỹ năng của thanh niên trong bảo vệ sức khỏe và kỹ năng nghề nghiệp, việc làm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T06:44:00+07:00",
+      "fetched": "2026-02-11T13:51:52.299878+07:00"
+    },
+    {
+      "id": "a1f59fde999f81932fee557ff96d0514",
+      "title": "Có thể đã tìm được tàu đổ bộ mất tích bí ẩn từ thời Liên Xô",
+      "link": "https://thanhnien.vn/co-the-da-tim-duoc-tau-do-bo-mat-tich-bi-an-tu-thoi-lien-xo-185260211110613626.htm",
+      "summary": "Hai đội ngũ nghiên cứu đã xác định những điểm đáp tiềm năng của Luna 9, tàu thăm dò đầu tiên của nhân loại từng đáp an toàn lên mặt trăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T06:34:00+07:00",
+      "fetched": "2026-02-11T13:51:52.300024+07:00"
+    },
+    {
+      "id": "80698314bf6f0dc21c57112e2fe549b1",
+      "title": "Mở tiệm bánh phá sản nhưng kiếm 50 triệu nhờ dạy làm giàu",
+      "link": "https://vnexpress.net/tiem-banh-ngon-gan-day-pha-san-tiem-banh-di-day-lam-giau-5039992.html",
+      "summary": "Bạn tôi mở tiệm bán bánh thì phá sản nhưng mở lớp dạy làm bánh, kinh doanh tiệm bánh lại hốt bạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T06:14:05+07:00",
+      "fetched": "2026-02-11T13:51:49.230832+07:00"
+    },
+    {
+      "id": "09163a41c8a16e24f63e81aed79f23e0",
+      "title": "Bưởi mini thỏi vàng tài lộc 'bán bao nhiêu cũng hết' dịp tết",
+      "link": "https://thanhnien.vn/buoi-mini-thoi-vang-tai-loc-ban-bao-nhieu-cung-het-dip-tet-185260210161358954.htm",
+      "summary": "Nhỏ gọn chỉ 100-200 gram nhưng lại mang hình dáng thỏi vàng và khắc chữ tài lộc nổi bật trên vỏ, bưởi mini tạo hình đang trở thành một trong những mặt hàng hút khách, được người trẻ săn đón khi đi lựa trái cây chưng tết năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T06:07:00+07:00",
+      "fetched": "2026-02-11T13:51:52.300153+07:00"
+    },
+    {
+      "id": "d00b05fee7cfc3753bca53fef15bb652",
+      "title": "Britney Spears đã bán toàn bộ kho nhạc kinh điển của mình?",
+      "link": "https://thanhnien.vn/britney-spears-da-ban-toan-bo-kho-nhac-kinh-dien-cua-minh-185260211124827713.htm",
+      "summary": "Britney Spears được cho là đã âm thầm thu lợi từ di sản âm nhạc của mình khi bán quyền sở hữu kho nhạc kinh điển trong một thỏa thuận lớn, đánh dấu bước ngoặt đáng chú ý trong sự nghiệp của nữ ca sĩ, Daily Mail đưa tin ngày 10.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T06:06:00+07:00",
+      "fetched": "2026-02-11T13:51:52.300287+07:00"
+    },
+    {
+      "id": "0d73aeddd2f3808fa16f8e8d2fb0b707",
+      "title": "Bài tập giúp Jennifer Aniston sở hữu cơ bụng săn chắc ở tuổi 56",
+      "link": "https://vnexpress.net/bai-tap-giup-jennifer-aniston-so-huu-co-bung-san-chac-o-tuoi-56-5039627.html",
+      "summary": "Thay vì tập trung vào các khối cơ bề mặt, nữ minh tinh Jennifer Aniston duy trì sức mạnh toàn thân và sự linh hoạt dẻo dai thông qua phương pháp tập luyện Pvolve.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T06:00:00+07:00",
+      "fetched": "2026-02-11T13:51:49.231008+07:00"
+    },
+    {
+      "id": "3e4651c82f2811d4dda594943829438a",
+      "title": "Canifa đạt giải 'Thương hiệu vươn mình ra biển lớn' tại WeChoice Awards 2025",
+      "link": "https://vnexpress.net/canifa-dat-giai-thuong-hieu-vuon-minh-ra-bien-lon-tai-wechoice-awards-2025-5039984.html",
+      "summary": "Canifa nhận giải thưởng \"Thương hiệu Vươn mình ra biển lớn\" tại lễ trao giải WeChoice Awards 2025, vinh danh những thành tựu mang dấu ấn hội nhập quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T06:00:00+07:00",
+      "fetched": "2026-02-11T13:51:49.231151+07:00"
+    },
+    {
+      "id": "11b052e96d0d221f1691547bad6a1daf",
+      "title": "Trung Quốc giữ ngôi đầu ngành đóng tàu",
+      "link": "https://vnexpress.net/trung-quoc-giu-ngoi-dau-nganh-dong-tau-5014235.html",
+      "summary": "Sản lượng đóng tàu của Trung Quốc tăng hơn 10% trong năm 2025, tiếp tục chiếm hơn một nửa tổng trọng tải tàu bàn giao toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T06:00:00+07:00",
+      "fetched": "2026-02-11T13:51:49.231287+07:00"
+    },
+    {
+      "id": "43ce5e3ac5e43bbfa45fc7dd5e3fda93",
+      "title": "Đội mưa đi chợ tết ở TP.HCM: Cảnh lạ 24 tháng chạp",
+      "link": "https://thanhnien.vn/doi-mua-di-cho-tet-o-tphcm-canh-la-24-thang-chap-185260211111241068.htm",
+      "summary": "Sáng 11.2 (24 tháng chạp) TP.HCM bất ngờ xuất hiện cơn mưa trái mùa, nhiều người đi chợ tết phải mặc áo mưa, tạo ra cảnh tượng hiếm có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T06:00:00+07:00",
+      "fetched": "2026-02-11T13:51:52.300415+07:00"
+    },
+    {
+      "id": "695df174db02eae158ba8232ea44a29f",
+      "title": "Tôi bị coi thường vì không nghe theo định hướng kiếm tiền của gia đình",
+      "link": "https://vnexpress.net/ap-luc-gen-z-bi-ca-nha-cong-kich-vi-toi-chon-lam-si-quan-gan-nha-de-lo-cho-con-thay-vi-di-tau-kiem-tien-ty-5037314.html",
+      "summary": "Mọi người đứng về phe bố tôi thể miệt thị tôi - người yếu thế nhất trong gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:59:55+07:00",
+      "fetched": "2026-02-11T13:51:49.231424+07:00"
+    },
+    {
+      "id": "6c3e4c00ad764f8badb26b54e0a5ac12",
+      "title": "Nhà thiết kế Việt khoe vẻ nóng bỏng sau khi chuyển giới",
+      "link": "https://thanhnien.vn/nha-thiet-ke-viet-khoe-ve-nong-bong-sau-khi-chuyen-gioi-185260211114349252.htm",
+      "summary": "Sau một thời gian dài tạm ngưng hoạt động để phẫu thuật chuyển giới, Bely chính thức trở lại với thời trang bằng một lựa chọn đầy cá nhân: tự thiết kế và đồng thời trở thành người mẫu cho chính bộ sưu tập của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:59:00+07:00",
+      "fetched": "2026-02-11T13:51:52.300547+07:00"
+    },
+    {
+      "id": "95e2a82594582db6a7cbdebf05e155a4",
+      "title": "Hà Lan đảo ngược chính sách để lôi kéo du học sinh",
+      "link": "https://vnexpress.net/ha-lan-dao-nguoc-chinh-sach-de-loi-keo-du-hoc-sinh-5039324.html",
+      "summary": "Hà Lan dừng thu hẹp chương trình dạy bằng tiếng Anh và tăng đầu tư cho giáo dục, khoa học sau nhiều năm siết chặt khiến số sinh viên quốc tế sụt giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:54:05+07:00",
+      "fetched": "2026-02-11T13:51:49.231556+07:00"
+    },
+    {
+      "id": "e5191cc4d7c995a2924143c452df7971",
+      "title": "Đổ xô về đường hoa 'phố nhà giàu' Phú Mỹ Hưng chụp ảnh trước giờ khai mạc",
+      "link": "https://thanhnien.vn/do-xo-ve-duong-hoa-pho-nha-giau-phu-my-hung-chup-anh-truoc-gio-khai-mac-185260211123553186.htm",
+      "summary": "Dù chưa mở cửa chính thức nhưng sáng nay 11.2 nhiều người đã diện áo dài đến đường hoa Phú Mỹ Hưng Tết Bính Ngọ 2026 (phường Tân Hưng, TP.HCM) vui chơi, chụp ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:50:00+07:00",
+      "fetched": "2026-02-11T13:51:52.300674+07:00"
+    },
+    {
+      "id": "d399e644901a1ece54ece6a4f25c12a1",
+      "title": "Lộ diện thành viên sáng lập Trung tâm Tài chính Quốc tế tại TP.HCM",
+      "link": "https://thanhnien.vn/lo-dien-thanh-vien-sang-lap-trung-tam-tai-chinh-quoc-te-tai-tphcm-185260211121359742.htm",
+      "summary": "Các thành viên sáng lập Trung tâm Tài chính Quốc tế Việt Nam tại TP.HCM đã ra mắt sáng 11.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:47:00+07:00",
+      "fetched": "2026-02-11T13:51:52.300805+07:00"
+    },
+    {
+      "id": "651f7a40b97d107b428f5b9526804745",
+      "title": "'Primate' - tinh tinh cuồng nộ",
+      "link": "https://vnexpress.net/primate-tinh-tinh-cuong-no-5010563.html",
+      "summary": "Ben - thú cưng của gia đình Lucy - nhiễm bệnh dại, dần mất kiểm soát và thành mối đe dọa chết người, trong phim \"Primate\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:44:17+07:00",
+      "fetched": "2026-02-11T13:51:49.231689+07:00"
+    },
+    {
+      "id": "b9834529b854e7315b48fca2b8b5d14e",
+      "title": "Hội hoa xuân TP.HCM lần đầu có diễu hành, trình diễn ngựa quốc tế: Xem ở đâu?",
+      "link": "https://thanhnien.vn/hoi-hoa-xuan-tphcm-lan-dau-co-dieu-hanh-trinh-dien-ngua-quoc-te-xem-o-dau-185260211123147684.htm",
+      "summary": "Lần đầu tiên sau hơn 45 năm tổ chức, hội hoa xuân TP.HCM sẽ có chương trình diễu hành và trình diễn nghệ thuật với các giống ngựa quốc tế, diễn ra hằng đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:40:00+07:00",
+      "fetched": "2026-02-11T13:51:52.300942+07:00"
+    },
+    {
+      "id": "90e03a8f267995272c250a64d4225562",
+      "title": "Toshiba giới thiệu phong cách Japandi đến người dân Hà Nội",
+      "link": "https://vnexpress.net/toshiba-gioi-thieu-phong-cach-japandi-den-nguoi-dan-ha-noi-5039949.html",
+      "summary": "Toshiba tổ chức không gian trải nghiệm \"Ngôi nhà Japandi\" tại Hà Nội, giới thiệu phong cách sống Nhật - Bắc Âu cùng các sản phẩm gia dụng mang tinh thần \"Hoàn hảo trong thầm lặng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:30:00+07:00",
+      "fetched": "2026-02-11T13:51:49.231820+07:00"
+    },
+    {
+      "id": "070e83a28a46739d21e1255266d936e3",
+      "title": "Sắc xuân tại Waterpoint: Hàng ngàn du khách say lòng trước đường hoa rạng rỡ",
+      "link": "https://thanhnien.vn/sac-xuan-tai-waterpoint-hang-ngan-du-khach-say-long-truoc-duong-hoa-rang-ro-185260211111942018.htm",
+      "summary": "Với đường hoa rực rỡ ven sông, hội xuân nhộn nhịp cùng chuỗi hoạt động trải nghiệm tết truyền thống, Hội hoa xuân Waterpoint 2026 đã thu hút hàng nghìn người dân và du khách ghé thăm, tạo nên bức tranh xuân đa sắc và giàu sức sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:30:00+07:00",
+      "fetched": "2026-02-11T13:51:52.301075+07:00"
+    },
+    {
+      "id": "b38d38417725ab600303363994d3eab5",
+      "title": "1.041 người trong danh sách sơ bộ ứng cử đại biểu Quốc hội khóa 16",
+      "link": "https://vnexpress.net/1-041-nguoi-trong-danh-sach-so-bo-ung-cu-dai-bieu-quoc-hoi-khoa-16-5039983.html",
+      "summary": "Tổng số người được đưa vào danh sách sơ bộ ứng cử đại biểu Quốc hội khóa 16 là 1.041 người, với 217 người ở Trung ương và 824 người ở địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:26:06+07:00",
+      "fetched": "2026-02-11T13:51:49.231974+07:00"
+    },
+    {
+      "id": "22264f7a7b8e712fdf6da8dd0e0da698",
+      "title": "Đường dây làm giả 'thuốc đông y cổ truyền' từ bột ngô, thuốc tây",
+      "link": "https://vnexpress.net/duong-day-lam-gia-thuoc-dong-y-co-truyen-tu-bot-ngo-thuoc-tay-5039966.html",
+      "summary": "Đoàn Thị Lam và Đoàn Cao Cường bị cáo buộc sử dụng bột ngô, bột nếp và thuốc tân dược để sản xuất \"thuốc tăng cân đông y cổ truyền\", rao bán trên mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:21:31+07:00",
+      "fetched": "2026-02-11T13:51:49.232109+07:00"
+    },
+    {
+      "id": "4a48fd9c1725aad1908ffbdc7984be99",
+      "title": "Chưa có bản quyền xem phát trực tiếp đội tuyển futsal nữ Việt Nam: Giờ thi đấu rất lạ",
+      "link": "https://thanhnien.vn/chua-co-ban-quyen-xem-phat-truc-tiep-doi-tuyen-futsal-nu-viet-nam-gio-thi-dau-rat-la-185260211122015269.htm",
+      "summary": "Ngày 24.2, đội tuyển futsal nữ Việt Nam sẽ chính thức bước vào hành trình bảo vệ ngôi hậu tại giải vô địch Đông Nam Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:21:00+07:00",
+      "fetched": "2026-02-11T13:51:52.301206+07:00"
+    },
+    {
+      "id": "2fa7e44dda44d6454a6b83d7ba9a74ae",
+      "title": "Song Hye Kyo là đại sứ Belotero tại châu Á - Thái Bình Dương",
+      "link": "https://vnexpress.net/song-hye-kyo-la-dai-su-belotero-tai-chau-a-thai-binh-duong-5039979.html",
+      "summary": "Tập đoàn Đức Merz Aesthetics chọn Song Hye Kyo là đại sứ chất làm đầy Belotero châu Á - Thái Bình Dương (APAC) vì đồng điệu triết lý làm đẹp tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:20:00+07:00",
+      "fetched": "2026-02-11T13:51:49.232244+07:00"
+    },
+    {
+      "id": "164b0d7a92abe7603e9f0d2a215164e7",
+      "title": "Vuông tôm Cà Mau có cá... lạ: Nông dân 'vô mánh' cận tết, thu tiền triệu",
+      "link": "https://thanhnien.vn/vuong-tom-ca-mau-co-ca-la-nong-dan-vo-manh-can-tet-thu-tien-trieu-185260210163702848.htm",
+      "summary": "Cận Tết Nguyên đán, nhiều vuông tôm quảng canh ở Cà Mau bước vào đợt cải tạo ao. Trước khi thả vụ mới, người dân tranh thủ bắt cá săn mồi trong vuông tôm – vừa thanh lọc ao nuôi, vừa có thêm thu nhập đón tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:12:00+07:00",
+      "fetched": "2026-02-11T13:51:52.301332+07:00"
+    },
+    {
+      "id": "1081ac122dc1a445c7223c3ef49da724",
+      "title": "Chuyến xe Tết sum vầy 2026: Đường về nhà không còn xa với sinh viên",
+      "link": "https://thanhnien.vn/chuyen-xe-tet-sum-vay-2026-duong-ve-nha-khong-con-xa-voi-sinh-vien-185260211121119487.htm",
+      "summary": "Trong làn se lạnh của buổi sáng đầu xuân, rất đông người dân là người lao động, học sinh và sinh viên có hoàn cảnh khó khăn từ nhiều nơi trên địa bàn TP.HCM đã có mặt từ tinh mơ. Trên tay là balo, vali, còn trong ánh mắt là sự nôn nao của ngày được trở về nhà. Cạnh đó là hàng dài xe mang trên mình d...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:11:00+07:00",
+      "fetched": "2026-02-11T13:51:52.301462+07:00"
+    },
+    {
+      "id": "064351bbba167d8b6f09fda80081ab53",
+      "title": "TP HCM vận hành Trung tâm tài chính quốc tế",
+      "link": "https://vnexpress.net/tp-hcm-van-hanh-trung-tam-tai-chinh-quoc-te-5039924.html",
+      "summary": "Trung tâm tài chính quốc tế Việt Nam tại TP HCM (VIFC-HCMC) vừa đi vào vận hành sáng nay, được đánh giá sẽ nâng vị thế quốc gia trong thị trường khu vực, thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:06:57+07:00",
+      "fetched": "2026-02-11T13:51:49.232373+07:00"
+    },
+    {
+      "id": "064351bbba167d8b6f09fda80081ab53",
+      "title": "TP HCM vận hành Trung tâm tài chính quốc tế",
+      "link": "https://vnexpress.net/tp-hcm-van-hanh-trung-tam-tai-chinh-quoc-te-5039924.html",
+      "summary": "Trung tâm tài chính quốc tế Việt Nam tại TP HCM (VIFC-HCMC) vừa đi vào vận hành sáng nay, được đánh giá sẽ nâng vị thế quốc gia trong thị trường khu vực, thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-11T05:06:57+07:00",
+      "fetched": "2026-02-11T13:51:55.812615+07:00"
+    },
+    {
+      "id": "7cc7098d3fe623e6b90c880bcdd68451",
+      "title": "Mỹ thiết lập cấu hình 'bắn và chạy' cho tổ hợp Patriot gần Iran",
+      "link": "https://vnexpress.net/my-thiet-lap-cau-hinh-ban-va-chay-cho-to-hop-patriot-gan-iran-5039855.html",
+      "summary": "Ảnh vệ tinh cho thấy bệ phóng Patriot Mỹ ở Qatar được gắn sẵn vào xe đầu kéo, dường như để tăng khả năng cơ động khi cần sơ tán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:04:03+07:00",
+      "fetched": "2026-02-11T13:51:49.232505+07:00"
+    },
+    {
+      "id": "7cc7098d3fe623e6b90c880bcdd68451",
+      "title": "Mỹ thiết lập cấu hình 'bắn và chạy' cho tổ hợp Patriot gần Iran",
+      "link": "https://vnexpress.net/my-thiet-lap-cau-hinh-ban-va-chay-cho-to-hop-patriot-gan-iran-5039855.html",
+      "summary": "Ảnh vệ tinh cho thấy bệ phóng Patriot Mỹ ở Qatar được gắn sẵn vào xe đầu kéo, dường như để tăng khả năng cơ động khi cần sơ tán.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-11T05:04:03+07:00",
+      "fetched": "2026-02-11T13:51:54.749688+07:00"
+    },
+    {
+      "id": "a98c76dd8a9757d97c463220898e7901",
+      "title": "Cuộc sống của 'thánh meme đời đầu' sau 20 năm",
+      "link": "https://vnexpress.net/cuoc-song-cua-thanh-meme-doi-dau-sau-20-nam-5039931.html",
+      "summary": "Là khuôn mặt bị chế ảnh nhiều nhất Internet, Qian Zhijun (Tiền Chí Quân - Tiểu Béo) giờ đây là ông bố U40 thất nghiệp, ngày ngày đi chợ nấu cơm và vui vì \"được\" lãng quên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:02:36+07:00",
+      "fetched": "2026-02-11T13:51:49.232635+07:00"
+    },
+    {
+      "id": "0dfc54946cbf6de0db14cb186c239b93",
+      "title": "'Mâm cao cỗ đầy' trong cỗ Tết Hà Nội xưa có ý nghĩa gì?",
+      "link": "https://vnexpress.net/mam-cao-co-day-trong-co-tet-ha-noi-xua-co-y-nghia-gi-5039701.html",
+      "summary": "Các gia đình Hà Nội xưa tuân thủ nghiêm ngặt quy tắc sắp xếp món ăn trên mâm đồng để giữ gìn nét văn hóa ẩm thực của thủ đô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T05:00:00+07:00",
+      "fetched": "2026-02-11T13:51:49.232767+07:00"
+    },
+    {
+      "id": "a9c5a6b3cc6c003db54451a5a0ebe215",
+      "title": "Facebook 'thúc giục' người dùng cập nhật chế độ chuyên nghiệp",
+      "link": "https://vnexpress.net/facebook-thuc-giuc-nguoi-dung-cap-nhat-che-do-chuyen-nghiep-5009094.html",
+      "summary": "Nhiều người dùng Facebook tại Việt Nam nhận thông báo yêu cầu chuyển trang cá nhân sang chế độ chuyên nghiệp, hoặc hệ thống tự động làm điều này.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-11T05:00:00+07:00",
+      "fetched": "2026-02-11T13:51:59.559662+07:00"
+    },
+    {
+      "id": "93bfa3cf2c1d80885925127ca2d5ab5c",
+      "title": "Serie A thua lỗ gần 5 tỷ USD",
+      "link": "https://vnexpress.net/serie-a-thua-lo-gan-5-ty-usd-5039803.html",
+      "summary": "Dù lượng khán giả, doanh thu và mức độ quan tâm toàn cầu đều tăng, Serie A vẫn làm ăn bết bát và lỗ lũy kế gần 4,75 tỷ USD từ sau đại dịch Covid-19, cho thấy những vấn đề mang tính cấu trúc của bóng đá Italy.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-11T05:00:00+07:00",
+      "fetched": "2026-02-11T13:52:00.807993+07:00"
+    },
+    {
+      "id": "8bc109f512fc533da0cc95d3a814107a",
+      "title": "Mỹ sẽ làm gì sau khi 'rào chắn hạt nhân' New START hết hiệu lực?",
+      "link": "https://vnexpress.net/my-se-lam-gi-sau-khi-rao-chan-hat-nhan-new-start-het-hieu-luc-5039479.html",
+      "summary": "Mỹ không gia hạn New START, dường như để buộc Nga, Trung đàm phán hiệp ước \"tốt hơn\", nếu không Washington sẽ tăng cường năng lực hạt nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-11T04:40:26+07:00",
+      "fetched": "2026-02-11T13:51:54.749840+07:00"
+    },
+    {
+      "id": "11c7528dcb8034c0f0028dd0f5f9ae66",
+      "title": "Hãng máy lạnh duy nhất trên sàn lãi kỷ lục 5 năm liên tiếp",
+      "link": "https://vnexpress.net/hang-may-lanh-duy-nhat-tren-san-lai-ky-luc-5-nam-lien-tiep-5039907.html",
+      "summary": "Nagakawa - doanh nghiệp điện máy duy nhất trên sàn chứng khoán - có lợi nhuận gần 33 tỷ đồng năm ngoái, nối dài chuỗi 5 năm liên tiếp lãi kỷ lục.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-11T04:23:52+07:00",
+      "fetched": "2026-02-11T13:51:55.812767+07:00"
     },
     {
       "id": "9931cf6c77a602b781fb1621d428a605",
