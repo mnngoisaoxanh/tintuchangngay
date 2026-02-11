@@ -1,7 +1,67 @@
 window.newsData_2026_02_11 = {
   "date": "2026-02-11",
-  "lastUpdated": "2026-02-11T05:30:31.395242+07:00",
+  "lastUpdated": "2026-02-11T08:23:23.337433+07:00",
   "articles": [
+    {
+      "id": "b451e0842e8d2a158279a5cf1c1bf3e3",
+      "title": "Thời tiết hôm nay 11-2: TP.HCM mưa dông trái mùa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-11-2-tp-hcm-mua-dong-trai-mua-20260210163437336.htm",
+      "summary": "Hôm nay 11-2, thời tiết Bắc Bộ tiếp tục mưa rét, Trung Bộ mưa rào, Nam Bộ nắng giảm, chiều tối vài nơi có mưa dông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T08:23:16.300262+07:00",
+      "fetched": "2026-02-11T08:23:16.300355+07:00"
+    },
+    {
+      "id": "559017a1c83d2424e91d67246e77a615",
+      "title": "Trong bóng đá hiện đại, đừng yêu cầu Đình Bắc 'ngoan' như Khuất Văn Khang",
+      "link": "https://tuoitre.vn/trong-bong-da-hien-dai-dung-yeu-cau-dinh-bac-ngoan-nhu-khuat-van-khang-20260210132629201.htm",
+      "summary": "Dù có nhiều điểm khác biệt, thậm chí đối lập về tính cách và phong cách chơi bóng, cả Nguyễn Đình Bắc lẫn Khuất Văn Khang vẫn được đánh giá là biểu tượng về ý chí tập luyện, cũng như lối sinh hoạt chuyên nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T08:23:16.300154+07:00",
+      "fetched": "2026-02-11T08:23:16.300253+07:00"
+    },
+    {
+      "id": "e8677b0be3dfa5c0f308303e345858bd",
+      "title": "10 bí quyết của Y học Vệ Đà giúp cơ thể khỏe mạnh trong năm mới",
+      "link": "https://tuoitre.vn/10-bi-quyet-cua-y-hoc-ve-da-giup-co-the-khoe-manh-trong-nam-moi-20260210222007005.htm",
+      "summary": "Khi xu hướng chăm sóc sức khỏe phát triển, ngày càng nhiều người quay trở lại với trí tuệ y học cổ xưa để tìm kiếm sự cân bằng và minh mẫn lâu dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T08:23:16.300048+07:00",
+      "fetched": "2026-02-11T08:23:16.300145+07:00"
+    },
+    {
+      "id": "430ec911a1911ee78349fa40558da256",
+      "title": "Lịch trực tiếp AFC Champions League Two: CLB Công An Hà Nội đấu Tampines Rovers",
+      "link": "https://tuoitre.vn/lich-truc-tiep-afc-champions-league-two-clb-cong-an-ha-noi-dau-tampines-rovers-20260210180320187.htm",
+      "summary": "CLB Công An Hà Nội sẽ chạm trán Tampines Rovers (Singapore) ở lượt đi vòng 16 đội AFC Champions League Two 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T08:23:16.299938+07:00",
+      "fetched": "2026-02-11T08:23:16.300039+07:00"
+    },
+    {
+      "id": "543a28a261c0630b109ecc3b38aa9e96",
+      "title": "Đừng chỉ biết 'tôn' giọng hát của mình, Tết nhớ vặn nhỏ loa karaoke giùm!",
+      "link": "https://tuoitre.vn/dung-chi-biet-ton-giong-hat-cua-minh-tet-nho-van-nho-loa-karaoke-gium-20260210222805991.htm",
+      "summary": "Tôi từng có những ngày Tết quá mệt mỏi chỉ vì… tiếng hát karaoke nhà bên cạnh. Trong căn phòng nhỏ, con tôi trằn trọc, người già thở dài, còn tôi thì nằm nghe từng câu hát méo mó, cảm giác bất lực dâng lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T08:23:16.299814+07:00",
+      "fetched": "2026-02-11T08:23:16.299928+07:00"
+    },
+    {
+      "id": "ce0fb645f03a66cd626cb8707e563762",
+      "title": "Tin tức sáng 11-2: Cần Thơ thông qua 7 dự án thí điểm nhà ở thương mại; A Choén tăng vốn gấp đôi",
+      "link": "https://tuoitre.vn/tin-tuc-sang-11-2-can-tho-thong-qua-7-du-an-thi-diem-nha-o-thuong-mai-a-choen-tang-von-gap-doi-20260210133854134.htm",
+      "summary": "Một số tin tức đáng chú ý: Xử phạt một công ty tại TP.HCM vì 'ém' loạt tài liệu, báo cáo; Chuỗi nướng A Choén tăng vốn gấp đôi sau ầm ĩ vụ 'rau hữu cơ'; Cần Thơ thông qua 7 dự án thí điểm nhà ở thương mại...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T08:23:16.299577+07:00",
+      "fetched": "2026-02-11T08:23:16.299800+07:00"
+    },
     {
       "id": "6e715b32592d598edf8a323d8554529c",
       "title": "Thời tiết hôm nay 11-2: TP.HCM có thể mưa dông trái mùa",
@@ -161,6 +221,386 @@ window.newsData_2026_02_11 = {
       "category": "Tổng hợp",
       "published": "2026-02-11T01:54:16.743380+07:00",
       "fetched": "2026-02-11T01:54:16.743587+07:00"
+    },
+    {
+      "id": "5cd19624a06b14d4a9db94016857c924",
+      "title": "Từ Campuchia về Việt Nam đón Tết Nguyên đán, nhóm lừa đảo xuyên quốc gia bị bắt",
+      "link": "https://thanhnien.vn/tu-campuchia-ve-viet-nam-don-tet-nguyen-dan-nhom-lua-dao-xuyen-quoc-gia-bi-bat-185260211065310479.htm",
+      "summary": "Ngay khi vừa nhập cảnh từ Campuchia về Việt Nam đón Tết Nguyên đán, 13 bị can trong đường dây lừa đảo chiếm đoạt tài sản trên không gian mạng đã bị Công an TP.Đà Nẵng bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T01:17:00+07:00",
+      "fetched": "2026-02-11T08:23:14.720627+07:00"
+    },
+    {
+      "id": "0816b66cb923b4a2ac5e781bf34ed5a4",
+      "title": "Công an TP.HCM làm rõ vụ hành hung sau va chạm giao thông, gây náo loạn",
+      "link": "https://thanhnien.vn/cong-an-tphcm-lam-ro-vu-hanh-hung-sau-va-cham-giao-thong-gay-nao-loan-185260211073614919.htm",
+      "summary": "Sau va chạm giao thông giữa 2 ô tô ở giao lộ Nguyễn Trãi - Nguyễn Văn Tráng (phường Bến Thành, TP.HCM), 1 người khác chạy xe máy đến rồi cùng truy đuổi, hành hung nam hành khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T01:08:00+07:00",
+      "fetched": "2026-02-11T08:23:14.720778+07:00"
+    },
+    {
+      "id": "c30b1103aac1caddd672bd1b4397f6fb",
+      "title": "Google: Người Việt chuẩn bị Tết 2026 từ trước ba tháng",
+      "link": "https://vnexpress.net/google-nguoi-viet-chuan-bi-tet-2026-tu-truoc-ba-thang-5039782.html",
+      "summary": "Theo dữ liệu tìm kiếm trên Google, người Việt quan tâm đến Tết Nguyên đán 2026 từ ba tháng trước, sớm hơn mọi năm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-11T01:05:42+07:00",
+      "fetched": "2026-02-11T08:23:22.255052+07:00"
+    },
+    {
+      "id": "b843d0a8820d11ab8b3d44f81a6438d3",
+      "title": "Tiêm kích hạm Trung Quốc mang tên lửa siêu thanh tầm bắn 1.800 km",
+      "link": "https://vnexpress.net/tiem-kich-ham-trung-quoc-mang-ten-lua-sieu-thanh-tam-ban-1-800-km-5039661.html",
+      "summary": "Tiêm kích hạm J-15 lần đầu xuất hiện cùng tên lửa diệt hạm siêu thanh YJ-15, vũ khí ra mắt trong lễ duyệt binh tại Bắc Kinh năm ngoái.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-11T01:04:11+07:00",
+      "fetched": "2026-02-11T08:23:17.334888+07:00"
+    },
+    {
+      "id": "8917f4ddb5ff0f4ac63a96dc28e2f586",
+      "title": "Công nghệ cao tầm soát nguy cơ đột quỵ não và nhồi máu cơ tim",
+      "link": "https://thanhnien.vn/cong-nghe-cao-tam-soat-nguy-co-dot-quy-nao-va-nhoi-mau-co-tim-185260210201543454.htm",
+      "summary": "Đột quỵ là bệnh lý nguy hiểm, có thể xảy ra đột ngột với bất kỳ ai. Vào thời điểm cuối năm khi thời tiết chuyển lạnh, số ca đột quỵ có xu hướng gia tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T01:00:00+07:00",
+      "fetched": "2026-02-11T08:23:14.720910+07:00"
+    },
+    {
+      "id": "5a5724b3ab20e80a27fcf41ed57f41aa",
+      "title": "VietFest 2026 - Không khí tết Việt rộn ràng giữa lòng Luân Đôn",
+      "link": "https://thanhnien.vn/vietfest-2026-khong-khi-tet-viet-ron-rang-giua-long-luan-don-185260210180008141.htm",
+      "summary": "Chiều ngày 7.2.2026 vừa qua, khuôn viên trường Đại học University College London (UCL) - xếp hạng 9 thế giới theo QS ranking 2026 - trở nên sôi động hơn thường ngày khi VietFest 2026 - hội chợ văn hóa Việt đã diễn ra, thu hút đông đảo sinh viên Việt Nam và bạn bè quốc tế đang sinh sống, học tập tại ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T01:00:00+07:00",
+      "fetched": "2026-02-11T08:23:14.721035+07:00"
+    },
+    {
+      "id": "1efc0bf8e7054962f329a3aaaed8911f",
+      "title": "Nghỉ tết, online ít hơn một chút - được không?",
+      "link": "https://thanhnien.vn/nghi-tet-online-it-hon-mot-chut-duoc-khong-185260210175248915.htm",
+      "summary": "Ngày tết - khoảng thời gian hiếm hoi trong năm dành cho gia đình, nhưng chiếc điện thoại đôi khi lại vô tình tạo ra khoảng cách. Không khó để bắt gặp hình ảnh cả nhà quây quần bên mâm cơm, nhưng mỗi người lại chăm chú vào màn hình riêng. Có mặt đó, nhưng không thật sự ở đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T01:00:00+07:00",
+      "fetched": "2026-02-11T08:23:14.721159+07:00"
+    },
+    {
+      "id": "d30750926ec0e06979e959a4a13a1ad1",
+      "title": "Á hậu đạt IELTS 8.0 đón tết ra sao với chồng tiến sĩ?",
+      "link": "https://thanhnien.vn/a-hau-dat-ielts-80-don-tet-ra-sao-voi-chong-tien-si-185260210133919373.htm",
+      "summary": "Sau gần 3 năm kết hôn với tiến sĩ Hồ Đắc Đức, Á hậu Phương Anh nhận được nhiều sự ngưỡng mộ của fan sắc đẹp Việt vì có sự nghiệp thành công và cuộc sống hôn nhân viên mãn. Nhân dịp tết đến xuân về, Phương Anh chia sẻ kế hoạch đón tết của mình cùng gia đình hai bên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T01:00:00+07:00",
+      "fetched": "2026-02-11T08:23:14.721280+07:00"
+    },
+    {
+      "id": "b24636a8204f854df9f55d8fe394ed11",
+      "title": "The Legend Shophouse: Đón sóng hạ tầng, mở lối kinh doanh",
+      "link": "https://thanhnien.vn/the-legend-shophouse-don-song-ha-tang-mo-loi-kinh-doanh-185260210114339184.htm",
+      "summary": "Nằm ngay tâm điểm Van Phuc City, The Legend Shophouse đón trọn dòng chảy giao thương của toàn khu vực, mở ra lợi thế an cư, kinh doanh và cho thuê vượt trội trong dài hạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T01:00:00+07:00",
+      "fetched": "2026-02-11T08:23:14.721400+07:00"
+    },
+    {
+      "id": "a219cdd1c65164fe665d9cc6cb021e64",
+      "title": "Ba tông màu dự tiệc sang trọng ai cũng mặc dịp đầu xuân năm mới",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ba-tong-mau-du-tiec-sang-trong-ai-cung-mac-dip-dau-xuan-nam-moi-185260203164133715.htm",
+      "summary": "Đỏ, trắng và đen là ba tông màu đầm dự tiệc 'quốc dân'. Không chỉ mang đến diện mạo sang trọng và quý phái, mỗi thiết kế dự tiệc mang các gam màu này đều được chăm chút kỹ lưỡng để trở nên thật đặc biệt, giúp nàng chiếm spotlight mọi bữa tiệc dịp đầu xuân năm mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T01:00:00+07:00",
+      "fetched": "2026-02-11T08:23:14.721536+07:00"
+    },
+    {
+      "id": "6490fa340f44034a289b95ca616507d4",
+      "title": "Hồ sơ Epstein tiếp tục gây bão chính trường Mỹ",
+      "link": "https://thanhnien.vn/ho-so-epstein-tiep-tuc-gay-bao-chinh-truong-my-185260211074237993.htm",
+      "summary": "Bộ trưởng Thương mại Mỹ Howard Lutnick lên tiếng phủ nhận mối liên hệ với cố tỉ phú ấu dâm Jeffrey Epstein trong bối cảnh có nhiều lời kêu gọi ông từ chức sau khi Bộ Tư pháp công bố loạt tài liệu mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T00:52:00+07:00",
+      "fetched": "2026-02-11T08:23:14.721656+07:00"
+    },
+    {
+      "id": "7140321eb2cce0444c715563b9c08db1",
+      "title": "Nếu tết ở trọ...",
+      "link": "https://thanhnien.vn/neu-tet-o-tro-185260210175033934.htm",
+      "summary": "Tết Nguyên đán là dịp đoàn viên nhưng vẫn có một bộ phận không nhỏ người trẻ chọn ở lại thành phố thay vì về quê. Người thì tranh thủ làm thêm, người tiết kiệm chi phí đi lại, cũng có người đơn giản là không thể về vì hoàn cảnh gia đình hoặc công việc đặc thù…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T00:47:00+07:00",
+      "fetched": "2026-02-11T08:23:14.721778+07:00"
+    },
+    {
+      "id": "59a8ad3a529dc160716bdf5682089e88",
+      "title": "Một góc Hà Giang giữa lòng Quảng Ngãi",
+      "link": "https://thanhnien.vn/mot-goc-ha-giang-giua-long-quang-ngai-185260210174955559.htm",
+      "summary": "Cánh đồng hoa tại Khu đô thị Phú Mỹ (Quảng Ngãi) bất ngờ trở thành điểm đến 'gây sốt' với một góc tiểu cảnh hoa tam giác mạch bên tảng đá lớn, tựa như cao nguyên đá Hà Giang, thu hút nhiều bạn trẻ đến check-in.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T00:44:00+07:00",
+      "fetched": "2026-02-11T08:23:14.721944+07:00"
+    },
+    {
+      "id": "08cc3189a6271d57d20dd2e657f154ce",
+      "title": "Kẹt xe cao tốc TP.HCM - Long Thành  - Dầu Giây sáng sớm 24 tháng chạp",
+      "link": "https://thanhnien.vn/ket-xe-cao-toc-tphcm-long-thanh-dau-giay-sang-som-24-thang-chap-18526021107224261.htm",
+      "summary": "Sáng sớm ngày 11.2, tức 24 tháng chạp Tết Bính Ngọ 2026, tình trạng kẹt xe đã xảy ra trên cao tốc TP.HCM - Long Thành - Dầu Giây theo hướng từ nam ra bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T00:42:00+07:00",
+      "fetched": "2026-02-11T08:23:14.722097+07:00"
+    },
+    {
+      "id": "e51eb912f43604b366f16ab59b30db13",
+      "title": "ASIAD 20 chốt đội dự bóng đá nam và nữ",
+      "link": "https://vnexpress.net/asiad-20-chot-doi-du-bong-da-nam-va-nu-5039825.html",
+      "summary": "Việt Nam là nước Đông Nam Á duy nhất góp mặt ở cả nội dung nam và nữ môn bóng đá tại Á vận hội ASIAD lần thứ 20, diễn ra tại Nhật Bản vào tháng 9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-11T00:40:17+07:00",
+      "fetched": "2026-02-11T08:23:23.332714+07:00"
+    },
+    {
+      "id": "39d334410a8f48d4d1c047111fa736e9",
+      "title": "Tết lạ 'xóm chảy nước mắt' ở TP.HCM: Vì sao nhiều người bỏ nghề?",
+      "link": "https://thanhnien.vn/tet-la-xom-chay-nuoc-mat-o-tphcm-vi-sao-nhieu-nguoi-bo-nghe-185260209162107801.htm",
+      "summary": "Cận tết ở TP.HCM, 'xóm hành tỏi' bên cầu Lò Gốm thưa dần người bám trụ. Thu nhập bấp bênh, nhiều người đành bỏ nghề mưu sinh cay mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T00:40:00+07:00",
+      "fetched": "2026-02-11T08:23:14.722221+07:00"
+    },
+    {
+      "id": "1d1e5874558e3a3b78f45d9c6eb49495",
+      "title": "Nhà tiên tri mù Baba Vanga dự báo gì về năm 2026?",
+      "link": "https://thanhnien.vn/nha-tien-tri-mu-baba-vanga-du-bao-gi-ve-nam-2026-185260209152200655.htm",
+      "summary": "Khi năm 2026 (âm lịch) đến gần, sự quan tâm đến những lời tiên tri của nhà tiên tri mù người Bulgaria Baba Vanga lại được bàn luận sôi nổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T00:39:00+07:00",
+      "fetched": "2026-02-11T08:23:14.722340+07:00"
+    },
+    {
+      "id": "33a40bfe12f30325df16f5969ef36883",
+      "title": "Tổng Bí thư Tô Lâm thắp hương tưởng nhớ các cố Tổng Bí thư và Đại tướng Võ Nguyên Giáp",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-thap-huong-tuong-nho-cac-co-tong-bi-thu-va-dai-tuong-vo-nguyen-giap-185260211010719306.htm",
+      "summary": "Chiều 10.2, Tổng Bí thư Tô Lâm đã đến thắp hương tưởng nhớ và bày tỏ lòng biết ơn sâu sắc đối với các cố Tổng Bí thư: Trường Chinh, Lê Duẩn, Đỗ Mười, Lê Khả Phiêu, Nguyễn Phú Trọng và Đại tướng Võ Nguyên Giáp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T00:38:00+07:00",
+      "fetched": "2026-02-11T08:23:14.722478+07:00"
+    },
+    {
+      "id": "379d11b7928cf2f7cd690371e3fdbbb5",
+      "title": "Những kiểu ôtô người Việt ưa chuộng nhất",
+      "link": "https://vnexpress.net/nhung-kieu-oto-nguoi-viet-ua-chuong-nhat-5039806.html",
+      "summary": "Trong số các phân khúc, xe gầm cao cỡ B và A+ lần lượt được người Việt mua nhiều nhất 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T00:32:57+07:00",
+      "fetched": "2026-02-11T08:23:10.597274+07:00"
+    },
+    {
+      "id": "90c30a814c028ca369ad7430df8e205b",
+      "title": "CLB bóng đá Maldives cố tình bỏ trận để trụ hạng",
+      "link": "https://vnexpress.net/clb-bong-da-maldives-co-tinh-bo-tran-de-tru-hang-5039812.html",
+      "summary": "Green Streets chủ động không ra sân ở vòng cuối mùa giải VĐQG Maldives, nhờ đó trụ hạng thành công vì hơn hiệu số bàn thắng thua, đẩy đối thủ trực tiếp xuống hạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T00:29:03+07:00",
+      "fetched": "2026-02-11T08:23:10.597445+07:00"
+    },
+    {
+      "id": "90c30a814c028ca369ad7430df8e205b",
+      "title": "CLB bóng đá Maldives cố tình bỏ trận để trụ hạng",
+      "link": "https://vnexpress.net/clb-bong-da-maldives-co-tinh-bo-tran-de-tru-hang-5039812.html",
+      "summary": "Green Streets chủ động không ra sân ở vòng cuối mùa giải VĐQG Maldives, nhờ đó trụ hạng thành công vì hơn hiệu số bàn thắng thua, đẩy đối thủ trực tiếp xuống hạng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-11T00:29:03+07:00",
+      "fetched": "2026-02-11T08:23:23.332834+07:00"
+    },
+    {
+      "id": "04212ead29dafaad65a0b5c6a4bb547b",
+      "title": "Nga bắt thêm nghi phạm trong vụ ám sát tướng tình báo",
+      "link": "https://vnexpress.net/nga-bat-them-nghi-pham-trong-vu-am-sat-tuong-tinh-bao-5039811.html",
+      "summary": "Giới chức Nga bắt nghi phạm Pavel Vasin, là người phụ trách trang thiết bị cho kẻ tấn công chính, trong vụ ám sát hụt tướng tình báo Alekseyev.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T00:08:28+07:00",
+      "fetched": "2026-02-11T08:23:10.597607+07:00"
+    },
+    {
+      "id": "04212ead29dafaad65a0b5c6a4bb547b",
+      "title": "Nga bắt thêm nghi phạm trong vụ ám sát tướng tình báo",
+      "link": "https://vnexpress.net/nga-bat-them-nghi-pham-trong-vu-am-sat-tuong-tinh-bao-5039811.html",
+      "summary": "Giới chức Nga bắt nghi phạm Pavel Vasin, là người phụ trách trang thiết bị cho kẻ tấn công chính, trong vụ ám sát hụt tướng tình báo Alekseyev.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-11T00:08:28+07:00",
+      "fetched": "2026-02-11T08:23:17.335043+07:00"
+    },
+    {
+      "id": "4ba059368a75e6602cce7dc2440fff9c",
+      "title": "Gần 40% ca ung thư có thể phòng ngừa nhờ thay đổi lối sống",
+      "link": "https://vnexpress.net/gan-40-ca-ung-thu-co-the-phong-ngua-nho-thay-doi-loi-song-5039681.html",
+      "summary": "Tổ chức Y tế Thế giới (WHO) nói khoảng 38% số ca ung thư mới toàn cầu liên quan trực tiếp các yếu tố lối sống như hút thuốc, uống rượu và có thể phòng tránh hoàn toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T00:00:00+07:00",
+      "fetched": "2026-02-11T08:23:10.597744+07:00"
+    },
+    {
+      "id": "e45e98f675fbc6073c60a39d2c71d22a",
+      "title": "Đỏ lửa kho cá ở làng Nhân Hậu ngày giáp Tết",
+      "link": "https://vnexpress.net/do-lua-kho-ca-o-lang-nhan-hau-ngay-giap-tet-5039562.html",
+      "summary": "Những ngày giáp Tết, làng nghề kho cá Nhân Hậu, xã Nam Lý, tỉnh Ninh Bình luôn rực lửa suốt ngày đêm, mỗi hộ bán hàng trăm niêu cá, cả gia đình thay nhau thức canh bếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T00:00:00+07:00",
+      "fetched": "2026-02-11T08:23:10.597874+07:00"
+    },
+    {
+      "id": "07fba6f4caa6b4ba0a71f0f829b3a86d",
+      "title": "Congo nghiên cứu phát triển bến đa năng tại cảng Matadi",
+      "link": "https://vnexpress.net/congo-nghien-cuu-phat-trien-ben-da-nang-tai-cang-matadi-5013888.html",
+      "summary": "Tập đoàn AD Ports ký kết với Bộ Giao thông, Truyền thông và Hội nhập của Cộng hòa Dân chủ Congo (DRC) nhằm nghiên cứu phát triển và vận hành một bến cảng đa năng tại cảng Matadi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T00:00:00+07:00",
+      "fetched": "2026-02-11T08:23:10.598003+07:00"
+    },
+    {
+      "id": "d473a07d451e5aca264321a9b7492254",
+      "title": "Tổng thống Colombia 'thoát âm mưu ám sát'",
+      "link": "https://vnexpress.net/tong-thong-colombia-thoat-am-muu-am-sat-5039807.html",
+      "summary": "Tổng thống Colombia Petro cho biết ông đã thoát được âm mưu ám sát, sau nhiều tháng cảnh báo về việc các trùm buôn ma túy đang nhắm vào ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T23:46:52+07:00",
+      "fetched": "2026-02-11T08:23:10.598126+07:00"
+    },
+    {
+      "id": "d473a07d451e5aca264321a9b7492254",
+      "title": "Tổng thống Colombia 'thoát âm mưu ám sát'",
+      "link": "https://vnexpress.net/tong-thong-colombia-thoat-am-muu-am-sat-5039807.html",
+      "summary": "Tổng thống Colombia Petro cho biết ông đã thoát được âm mưu ám sát, sau nhiều tháng cảnh báo về việc các trùm buôn ma túy đang nhắm vào ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-10T23:46:52+07:00",
+      "fetched": "2026-02-11T08:23:17.335177+07:00"
+    },
+    {
+      "id": "06d2f360f1e5d32c1126a03d3cfce58d",
+      "title": "Tài xế sợ ra đường vì đèn pha chói mắt",
+      "link": "https://vnexpress.net/tai-xe-so-ra-duong-vi-den-pha-choi-mat-5039595.html",
+      "summary": "Nhiều tài xế không dám lái xe ban đêm vì ôtô bật đèn pha vô tội vạ nhưng thiếu cơ chế quản lý, xử phạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T23:44:03+07:00",
+      "fetched": "2026-02-11T08:23:10.598263+07:00"
+    },
+    {
+      "id": "e5907946d41299c66831afcdee72eb8f",
+      "title": "Khách Việt bị bắt ở sân bay Thái vì mang 12 kg sừng tê giác",
+      "link": "https://vnexpress.net/khach-viet-bi-bat-o-san-bay-thai-vi-mang-12-kg-sung-te-giac-5039791.html",
+      "summary": "Một khách Việt mang theo gần 12 kg sừng tê giác giấu trong thùng xốp, nhập cảnh vào sân bay Suvarnabhumi, bị lực lượng chức năng phát hiện, bắt giữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T23:41:19+07:00",
+      "fetched": "2026-02-11T08:23:10.598388+07:00"
+    },
+    {
+      "id": "2dc0b221da7b655e249600e0cd3d4ae1",
+      "title": "Quất, mai mini giá dưới 100.000 đồng hút khách",
+      "link": "https://vnexpress.net/quat-mai-mini-gia-duoi-100-000-dong-hut-khach-5039731.html",
+      "summary": "Các loại quất, mai vàng bonsai kích thước nhỏ, trồng sẵn trong bình gốm giá từ 50.000 đến 100.000 đồng được nhiều người tìm mua dịp Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T23:28:00+07:00",
+      "fetched": "2026-02-11T08:23:10.598534+07:00"
+    },
+    {
+      "id": "4ab8a96111ce4c961b874e1575e015ec",
+      "title": "Honda GB350C - môtô cổ điển giá 5.000 USD",
+      "link": "https://vnexpress.net/honda-gb350c-moto-co-dien-gia-5-000-usd-5039464.html",
+      "summary": "GB350C là chiếc môtô cổ điển phong cách hiện đại, lắp động cơ xi-lanh đơn, hộp số 5 cấp với ly hợp chống trượt, phanh ABS.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T23:14:14+07:00",
+      "fetched": "2026-02-11T08:23:10.598673+07:00"
+    },
+    {
+      "id": "115bcb68def0f7d3971e7a471ccdec88",
+      "title": "Man Utd thoát thua West Ham ở phút cuối",
+      "link": "https://vnexpress.net/man-utd-thoat-thua-west-ham-o-phut-cuoi-5039809.html",
+      "summary": "Man Utd đứt mạch bốn trận toàn thắng, khi chỉ hòa 1-1 trên sân West Ham nhờ bàn muộn của tiền đạo Benjamin Sesko, ở vòng 26 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T23:11:31+07:00",
+      "fetched": "2026-02-11T08:23:10.598804+07:00"
+    },
+    {
+      "id": "115bcb68def0f7d3971e7a471ccdec88",
+      "title": "Man Utd thoát thua West Ham ở phút cuối",
+      "link": "https://vnexpress.net/man-utd-thoat-thua-west-ham-o-phut-cuoi-5039809.html",
+      "summary": "Man Utd đứt mạch bốn trận toàn thắng, khi chỉ hòa 1-1 trên sân West Ham nhờ bàn muộn của tiền đạo Benjamin Sesko, ở vòng 26 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-10T23:11:31+07:00",
+      "fetched": "2026-02-11T08:23:23.332031+07:00"
+    },
+    {
+      "id": "032b452bf9a81b5a8544c451c10b53c2",
+      "title": "Điểm tin 6h: Siết chặt kiểm định khí thải ôtô từ 1/3 | TP HCM đo thân nhiệt toàn bộ khách nhập cảnh để ngừa Nipah",
+      "link": "https://vnexpress.net/diem-tin-6h-siet-chat-kiem-dinh-khi-thai-oto-tu-1-3-tp-hcm-do-than-nhiet-toan-bo-khach-nhap-canh-de-ngua-nipah-5039808.html",
+      "summary": "Hà Nội sắp có thêm dự án nhà ở xã hội giá khoảng 29 triệu đồng/m²; Miền Trung mưa rải rác, Bắc và Nam Bộ nắng ráo dịp Tết Nguyên đán...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T23:06:43+07:00",
+      "fetched": "2026-02-11T08:23:10.598931+07:00"
+    },
+    {
+      "id": "57ef1425603afd1b0155535bef884785",
+      "title": "Du học sinh Việt đổ sang Hàn Quốc",
+      "link": "https://vnexpress.net/du-hoc-sinh-viet-do-sang-han-quoc-5003798.html",
+      "summary": "Cứ 10 du học sinh ở Hàn Quốc thì 3 là người Việt, lần đầu soán ngôi số 1 của Trung Quốc về lượng sinh viên quốc tế ở xứ kim chi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T23:04:55+07:00",
+      "fetched": "2026-02-11T08:23:10.599054+07:00"
+    },
+    {
+      "id": "372c196e0ee81d067a943a762cf1c67b",
+      "title": "Nhờ AI 'gánh' áp lực Tết để làm dâu hiền, rể thảo",
+      "link": "https://vnexpress.net/nho-ai-ganh-ap-luc-tet-de-lam-dau-hien-re-thao-5039783.html",
+      "summary": "Lê Hiếu ở TP HCM \"ủy thác\" 8 triệu đồng cho AI phân bổ tài chính, từ việc lì xì, lên thực đơn mâm cúng đến \"check\" giá chợ Tết để tránh rỗng túi như mọi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T23:00:52+07:00",
+      "fetched": "2026-02-11T08:23:10.599173+07:00"
+    },
+    {
+      "id": "129bab69c12594a540cc3dc955c3314a",
+      "title": "Chelsea rơi điểm dù dẫn hai bàn ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/chelsea-roi-diem-du-dan-hai-ban-o-ngoai-hang-anh-5039804.html",
+      "summary": "Chelsea thủng lưới hai bàn trong sáu phút, gồm bàn quyết định gây tranh cãi, và bị đội khách Leeds cầm chân 2-2 ở vòng 26 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-10T22:51:14+07:00",
+      "fetched": "2026-02-11T08:23:23.332952+07:00"
     },
     {
       "id": "6f987a53fbe02dc60c9614ac6a018366",
