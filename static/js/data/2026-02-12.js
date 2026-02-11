@@ -1,6 +1,6 @@
 window.newsData_2026_02_12 = {
   "date": "2026-02-12",
-  "lastUpdated": "2026-02-12T03:29:47.440761+07:00",
+  "lastUpdated": "2026-02-12T05:20:53.669140+07:00",
   "articles": [
     {
       "id": "713468eff50934442cf7114a28268e09",
@@ -151,6 +151,156 @@ window.newsData_2026_02_12 = {
       "category": "Tổng hợp",
       "published": "2026-02-12T01:50:56.777447+07:00",
       "fetched": "2026-02-12T01:50:56.777688+07:00"
+    },
+    {
+      "id": "ff209e77c799d7aa580699ce9556fc71",
+      "title": "Tử vi ngày 12 tháng 2: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-12-thang-2-con-giap-nao-may-man-hom-nay-185260212000700932.htm",
+      "summary": "Tử vi ngày 12 tháng 2 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T22:15:00+07:00",
+      "fetched": "2026-02-12T05:20:44.859395+07:00"
+    },
+    {
+      "id": "5bc166d756c70c25d025e05c9fafd535",
+      "title": "Thủ đoạn trộn tân dược vào 'thuốc đông y tăng cân nhanh'",
+      "link": "https://vnexpress.net/chieu-tron-tan-duoc-vao-thuoc-dong-y-tang-can-nhanh-5040189.html",
+      "summary": "Bà Đoàn Thị Lam khai dùng mật mía trộn với bột ngô, bột nếp, thuốc bắc và thuốc tây để tạo thành \"thuốc đông y có hiệu quả tăng cân, giảm đau\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T22:00:00+07:00",
+      "fetched": "2026-02-12T05:20:41.694059+07:00"
+    },
+    {
+      "id": "db7b9ecd2ecc4af682d12991295f7eba",
+      "title": "Bất nhã với cụ bà sau mâu thuẫn 'quyền được nhường ghế' trên tàu điện ngầm",
+      "link": "https://vnexpress.net/vu-an-danh-cu-ba-sau-mau-thuan-quyen-duoc-nhuong-ghe-tren-tau-dien-ngam-5040125.html",
+      "summary": "Nam hành khách phải đóng tiền phạt theo lệnh của toà vì đạp cụ bà 73 tuổi sau 3 lần bị đánh trước, sau mâu thuẫn không nhường chỗ theo yêu cầu của nạn nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T22:00:00+07:00",
+      "fetched": "2026-02-12T05:20:41.694265+07:00"
+    },
+    {
+      "id": "dc58eceb71f833b2b2dc6f1df281c40b",
+      "title": "'Phòng thí nghiệm trọng điểm Việt Nam phải tương đương nước phát triển'",
+      "link": "https://vnexpress.net/phong-thi-nghiem-trong-diem-viet-nam-phai-tuong-duong-nuoc-phat-trien-5040100.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, phòng thí nghiệm trọng điểm sẽ được đầu tư mạnh, bao gồm cả cho khoa học xã hội, mục tiêu có phòng thí nghiệm hiện đại tương đương với các nước phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T22:00:00+07:00",
+      "fetched": "2026-02-12T05:20:41.694438+07:00"
+    },
+    {
+      "id": "9c16c33f60c54122b305ecc46fda999d",
+      "title": "Gần 30 ngày đánh cược để giữ con của sản phụ ung thư",
+      "link": "https://vnexpress.net/gan-30-ngay-danh-cuoc-de-giu-con-cua-san-phu-ung-thu-5040012.html",
+      "summary": "Người phụ nữ 32 tuổi, đang mang thai thì phát hiện ung thư buồng trứng, các bác sĩ \"cân não\" kéo dài thai kỳ, mục tiêu cứu sống cả mẹ lẫn con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T22:00:00+07:00",
+      "fetched": "2026-02-12T05:20:41.694603+07:00"
+    },
+    {
+      "id": "e40c321e257f2019b1dd9151f2ef6b33",
+      "title": "Hồ sơ Epstein đe dọa tương lai Thủ tướng Anh",
+      "link": "https://vnexpress.net/ho-so-epstein-de-doa-tuong-lai-thu-tuong-anh-5039870.html",
+      "summary": "Thủ tướng Starmer không có tên trong hồ sơ Epstein, nhưng vị thế của ông đang lung lay sau khi cấp dưới mà ông từng bổ nhiệm có liên hệ với tỷ phú ấu dâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T22:00:00+07:00",
+      "fetched": "2026-02-12T05:20:41.694761+07:00"
+    },
+    {
+      "id": "2f84ef874c7c586a76ac4da6db8846e5",
+      "title": "Hàng loạt chiêu lừa đảo trên mạng dịp cận Tết",
+      "link": "https://vnexpress.net/hang-loat-chieu-lua-dao-tren-mang-dip-can-tet-5039483.html",
+      "summary": "Những ngày sát Tết, nhiều chiêu lừa đảo như bán vé giá rẻ, đổi tiền lẻ, giả shipper liên tục xuất hiện, lợi dụng tâm lý bận rộn, chủ quan của người dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T22:00:00+07:00",
+      "fetched": "2026-02-12T05:20:41.694919+07:00"
+    },
+    {
+      "id": "7d4e012dad47b3a6551b45021bec41ec",
+      "title": "Bán tải giá rẻ của Toyota nguy cơ không thể ra đời",
+      "link": "https://vnexpress.net/ban-tai-gia-re-cua-toyota-nguy-co-khong-the-ra-doi-5039834.html",
+      "summary": "Mẫu bán tải cỡ nhỏ với mức giá dự kiến phải chăng của Toyota được cho là bị gác lại do chính sách thương mại với rào cản thuế quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T22:00:00+07:00",
+      "fetched": "2026-02-12T05:20:41.695072+07:00"
+    },
+    {
+      "id": "d03447d1a1430fa03048e266520a4b77",
+      "title": "Chợ hoa Tết Bình Đông: Hơn 500 gian hàng đặc sản, cây cảnh phục vụ mua sắm tết",
+      "link": "https://thanhnien.vn/cho-hoa-tet-binh-dong-hon-500-gian-hang-dac-san-cay-canh-phuc-vu-mua-sam-tet-185260212000008355.htm",
+      "summary": "Với hơn 500 gian hàng cây cảnh, đặc sản và hoạt động trải nghiệm gói bánh, Chợ hoa Tết Bình Đông trở thành điểm đến mua sắm tết sôi động của người dân TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T22:00:00+07:00",
+      "fetched": "2026-02-12T05:20:44.859560+07:00"
+    },
+    {
+      "id": "2e356d037626fa46b95f9318d4b5621b",
+      "title": "Chiến sự Ukraine ngày 1.449: Ukraine tấn công nhà máy lọc dầu, 12 vùng của Nga?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1449-ukraine-tan-cong-nha-may-loc-dau-12-vung-cua-nga-185260211140643508.htm",
+      "summary": "Bộ Quốc phòng Nga tuyên bố hệ thống phòng không nước này đã bắn hạ gần 100 UAV của Ukraine ở 12 vùng của Nga chỉ trong một đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T22:00:00+07:00",
+      "fetched": "2026-02-12T05:20:44.859718+07:00"
+    },
+    {
+      "id": "1404e9d0125f62aec30ecea144c2e3e8",
+      "title": "Ghé thăm chợ 'chồm hổm' siêu đẹp tại miền Tây",
+      "link": "https://thanhnien.vn/ghe-tham-cho-chom-hom-sieu-dep-tai-mien-tay-185260131112729231.htm",
+      "summary": "Giữa những ngày giáp Tết rộn ràng, chợ \"chồm hổm\" Vị Thanh, TP.Cần Thơ hiện lên như một nét chấm phá rất riêng của miền Tây sông nước. Không sạp hàng kiên cố, không bảng hiệu cầu kỳ, khu chợ mộc mạc này gây ấn tượng bởi sự gọn gàng, ngăn nắp hiếm thấy và vẻ đẹp dung dị của một không gian sinh hoạt v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T22:00:00+07:00",
+      "fetched": "2026-02-12T05:20:44.859872+07:00"
+    },
+    {
+      "id": "dc58eceb71f833b2b2dc6f1df281c40b",
+      "title": "'Phòng thí nghiệm trọng điểm Việt Nam phải tương đương nước phát triển'",
+      "link": "https://vnexpress.net/phong-thi-nghiem-trong-diem-viet-nam-phai-tuong-duong-nuoc-phat-trien-5040100.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, phòng thí nghiệm trọng điểm sẽ được đầu tư mạnh, bao gồm cả cho khoa học xã hội, mục tiêu có phòng thí nghiệm hiện đại tương đương với các nước phát triển.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-11T22:00:00+07:00",
+      "fetched": "2026-02-12T05:20:52.670292+07:00"
+    },
+    {
+      "id": "2f84ef874c7c586a76ac4da6db8846e5",
+      "title": "Hàng loạt chiêu lừa đảo trên mạng dịp cận Tết",
+      "link": "https://vnexpress.net/hang-loat-chieu-lua-dao-tren-mang-dip-can-tet-5039483.html",
+      "summary": "Những ngày sát Tết, nhiều chiêu lừa đảo như bán vé giá rẻ, đổi tiền lẻ, giả shipper liên tục xuất hiện, lợi dụng tâm lý bận rộn, chủ quan của người dùng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-11T22:00:00+07:00",
+      "fetched": "2026-02-12T05:20:52.670464+07:00"
+    },
+    {
+      "id": "1f577f83fc038e66b8b679b0a4ee7638",
+      "title": "Điện lực Quảng Trị sẵn sàng phương án cung cấp điện dịp cao điểm Tết Nguyên đán",
+      "link": "https://thanhnien.vn/dien-luc-quang-tri-san-sang-phuong-an-cung-cap-dien-dip-cao-diem-tet-nguyen-dan-185260211193113898.htm",
+      "summary": "Trước dự báo phụ tải điện toàn tỉnh tăng mạnh trong dịp Tết Nguyên đán 2026, Công ty Điện lực Quảng Trị đã triển khai các kế hoạch nhằm đảm bảo an toàn, ổn định phục vụ cho người dân đón tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:21:00+07:00",
+      "fetched": "2026-02-12T05:20:44.860025+07:00"
+    },
+    {
+      "id": "5efd613c177983972676d4589e7e08cf",
+      "title": "Xe con tự húc vào đuôi xe container",
+      "link": "https://vnexpress.net/xe-con-tu-huc-vao-duoi-xe-container-5039838.html",
+      "summary": "Xe con không có dấu hiệu giảm tốc độ khi phía trước xe container đang dừng chờ đèn đỏ, hôm 10/2 tại quốc Lộ 5, thôn Dưỡng Thái Trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:00:00+07:00",
+      "fetched": "2026-02-12T05:20:41.695244+07:00"
     },
     {
       "id": "f126f6f7eead1a6f3123b5899bdae716",
