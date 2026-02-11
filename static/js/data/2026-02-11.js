@@ -1,7 +1,147 @@
 window.newsData_2026_02_11 = {
   "date": "2026-02-11",
-  "lastUpdated": "2026-02-11T19:44:43.880401+07:00",
+  "lastUpdated": "2026-02-11T21:46:45.490071+07:00",
   "articles": [
+    {
+      "id": "2e15d7fc48356418681ab06717752b46",
+      "title": "Phó thủ tướng Nguyễn Hòa Bình triển khai hoạt động Trung tâm Tài chính quốc tế tại TP.HCM",
+      "link": "https://tuoitre.vn/pho-thu-tuong-nguyen-hoa-binh-trien-khai-hoat-dong-trung-tam-tai-chinh-quoc-te-tai-tp-hcm-20260211181528081.htm",
+      "summary": "Chiều 11-2, tại UBND TP.HCM, Phó thủ tướng thường trực Nguyễn Hòa Bình đã chủ trì cuộc họp về triển khai các hoạt động của Trung tâm Tài chính quốc tế tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:46:38.265061+07:00",
+      "fetched": "2026-02-11T21:46:38.265181+07:00"
+    },
+    {
+      "id": "5fd056b46161de86334774722ff4826c",
+      "title": "Người dân về quê chiều 24 Tết: Nút giao An Phú thoáng nhờ có hầm chui, quanh sân bay ùn ứ",
+      "link": "https://tuoitre.vn/nguoi-dan-ve-que-chieu-24-tet-nut-giao-an-phu-thoang-nho-co-ham-chui-quanh-san-bay-un-u-20260211181439799.htm",
+      "summary": "Chiều 11-2 (24 tháng chạp), người dân TP.HCM tiếp tục hành trình về quê đón Tết Nguyên đán 2026, ghi nhận tình hình giao thông tại nút giao An Phú và cửa ngõ phía tây TP.HCM thông thoáng, quanh sân bay ùn ứ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:46:38.264910+07:00",
+      "fetched": "2026-02-11T21:46:38.265048+07:00"
+    },
+    {
+      "id": "dc857ed1168562e848cc4f8074ee0dc1",
+      "title": "Ngựa cao 4,5m đã xuất hiện tại hội hoa xuân Phú Mỹ Hưng",
+      "link": "https://tuoitre.vn/ngua-cao-4-5m-da-xuat-hien-tai-hoi-hoa-xuan-phu-my-hung-20260211182215274.htm",
+      "summary": "Với chủ đề \"Xuân gắn kết\", Hội hoa xuân Phú Mỹ Hưng (TP.HCM) nằm dọc cung đường hồ bán nguyệt  đã chính thức khai mạc chiều 11-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:46:38.264782+07:00",
+      "fetched": "2026-02-11T21:46:38.264899+07:00"
+    },
+    {
+      "id": "0be4c57ead82220c336c54dbf7ad16b9",
+      "title": "Nông dân làng mai Bình Lợi thấp thỏm chờ khách",
+      "link": "https://tuoitre.vn/nong-dan-lang-mai-binh-loi-thap-thom-cho-khach-20260211184311906.htm",
+      "summary": "Nhiều nông dân tại làng mai vàng Bình Lợi (xã Bình Lợi, TP.HCM) cho biết lượng cây mai bán ra và giá giảm mạnh so với cùng kỳ năm trước. Sức mua giảm khiến nhà vườn thấp thỏm chờ khách khi Tết cận kề.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:46:38.264646+07:00",
+      "fetched": "2026-02-11T21:46:38.264770+07:00"
+    },
+    {
+      "id": "c7638a3c20c3c5cf72a3ca5aec5d5851",
+      "title": "Ngoại trưởng Lavrov: Nga sẽ hành động nếu phương Tây hiện diện quân sự ở Greenland",
+      "link": "https://tuoitre.vn/ngoai-truong-lavrov-nga-se-hanh-dong-neu-phuong-tay-hien-dien-quan-su-o-greenland-20260211185755702.htm",
+      "summary": "Ngày 11-2, Ngoại trưởng Nga Sergei Lavrov cảnh báo nước này sẽ có các biện pháp đối phó thích đáng nếu phương Tây gia tăng sự hiện diện quân sự tại Greenland.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:46:38.264501+07:00",
+      "fetched": "2026-02-11T21:46:38.264629+07:00"
+    },
+    {
+      "id": "8845cbd90a45fadd87c05cd449ffe42e",
+      "title": "Hyundai Palisade dự kiến bổ sung bản hybrid, đầy bình có thể chạy thẳng TP.HCM - Đà Nẵng",
+      "link": "https://tuoitre.vn/hyundai-palisade-du-kien-bo-sung-ban-hybrid-day-binh-co-the-chay-thang-tp-hcm-da-nang-20260211160943085.htm",
+      "summary": "Hình ảnh AI mô phỏng Hyundai Palisade Hybrid do lãnh đạo Hyundai Thành Công đăng tải đang thu hút chú ý, khi mẫu SUV hybrid cỡ lớn này đã bán tại Indonesia và được cho là có thể về Việt Nam trong năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:46:38.264375+07:00",
+      "fetched": "2026-02-11T21:46:38.264490+07:00"
+    },
+    {
+      "id": "927cbeb371811c3083ba14173392a454",
+      "title": "Tọa đàm xây dựng tài liệu giáo dục an toàn giao thông trong trường học",
+      "link": "https://tuoitre.vn/toa-dam-xay-dung-tai-lieu-giao-duc-an-toan-giao-thong-trong-truong-hoc-2026021114120128.htm",
+      "summary": "Ngày 10-2 - Honda Việt Nam cùng Bộ Giáo dục và Đào tạo triển khai tọa đàm lấy ý kiến đóng góp về giáo dục an toàn giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:46:38.264248+07:00",
+      "fetched": "2026-02-11T21:46:38.264364+07:00"
+    },
+    {
+      "id": "5a469dabd71eb0776b63fe6fb180f094",
+      "title": "Cùng đón Tết sớm qua chiến dịch của Sabeco",
+      "link": "https://tuoitre.vn/cung-don-tet-som-qua-chien-dich-cua-sabeco-20260211155234193.htm",
+      "summary": "Người dân địa phương từ Bắc chí Nam cùng tham gia gói bánh, nấu mâm cỗ, trang trí hoa xuân, nhận quà Tết sớm qua chiến dịch \"Chung vị Tết Việt - Gắn kết muôn miền\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:46:38.264114+07:00",
+      "fetched": "2026-02-11T21:46:38.264236+07:00"
+    },
+    {
+      "id": "cc553bb7efc9d4ebb9ae7e2b1aa986da",
+      "title": "Người Hàn Quốc tức giận vì mỹ nhân trượt băng mất huy chương Olympic",
+      "link": "https://tuoitre.vn/nguoi-han-quoc-tuc-gian-vi-mi-nhan-truot-bang-mat-huy-chuong-olympic-20260211191926268.htm",
+      "summary": "Người hâm mộ thể thao tại Hàn Quốc vô cùng bức xúc khi ngôi sao trượt băng Kim Gil-li bị thua một cách tức tưởi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:46:38.263955+07:00",
+      "fetched": "2026-02-11T21:46:38.264100+07:00"
+    },
+    {
+      "id": "b7603ac30963c2204adced7c6d29927f",
+      "title": "Bí quà Valentine, hội đang yêu mách nhau loạt quà xinh ngoan yêu",
+      "link": "https://tuoitre.vn/bi-qua-valentine-hoi-dang-yeu-mach-nhau-loat-qua-xinh-ngoan-yeu-20260210153627619.htm",
+      "summary": "Gần lễ Valentine 14-2, không ít bạn trẻ đang yêu loay hoay không biết tặng quà gì cho người yêu ý nghĩa, liền rủ nhau lên mạng xin cao kiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:46:38.263827+07:00",
+      "fetched": "2026-02-11T21:46:38.263943+07:00"
+    },
+    {
+      "id": "7824f5b6582cd7ba4d0ba155c3cc3920",
+      "title": "Tài xế chạy vào làn khẩn cấp cao tốc TP.HCM - Long Thành để 'đi cho nhanh' bị phạt 5 triệu đồng",
+      "link": "https://tuoitre.vn/tai-xe-chay-vao-lan-khan-cap-cao-toc-tp-hcm-long-thanh-de-di-cho-nhanh-bi-phat-5-trieu-dong-20260211194750386.htm",
+      "summary": "Tài xế ô tô chạy vào làn khẩn cấp trên cao tốc TP.HCM - Long Thành - Dầu Giây 'đi cho nhanh' bị đội tuần tra kiểm soát giao thông đường bộ cao tốc số 6 mời lên làm việc, lập biên bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:46:38.263696+07:00",
+      "fetched": "2026-02-11T21:46:38.263815+07:00"
+    },
+    {
+      "id": "e3e429efcc0973ebd56470062ff7bcff",
+      "title": "Trẻ nhỏ bất ngờ mở cửa ô tô giữa đường, gây tai nạn liên hoàn, nhiều người bị thương",
+      "link": "https://tuoitre.vn/tre-nho-bat-ngo-mo-cua-o-to-giua-duong-gay-tai-nan-lien-hoan-nhieu-nguoi-bi-thuong-20260211165717628.htm",
+      "summary": "Một vụ tai nạn liên hoàn liên quan 6 phương tiện xảy ra tại Kuala Lumpur (Malaysia) sau khi một trẻ nhỏ 2 tuổi bất ngờ mở cửa ô tô giữa dòng xe. Hai người đi xe máy bị thương, trong đó một người gãy tay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:46:38.263555+07:00",
+      "fetched": "2026-02-11T21:46:38.263683+07:00"
+    },
+    {
+      "id": "329372c78d050d475f7435558a09585d",
+      "title": "UBND tỉnh Tây Ninh trình quy hoạch cụm đô thị Đức Hoà -Hậu Nghĩa là trung tâm chính trị, hành chính",
+      "link": "https://tuoitre.vn/ubnd-tinh-tay-ninh-trinh-quy-hoach-cum-do-thi-duc-hoa-hau-nghia-la-trung-tam-chinh-tri-hanh-chinh-2026021120171015.htm",
+      "summary": "Ngày 11-2, thông tin từ UBND tỉnh Tây Ninh cho biết đã có tờ trình gửi HĐND tỉnh này về việc điều chỉnh quy hoạch tỉnh thời kỳ 2021-2030, tầm nhìn đến năm 2050.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:46:38.263411+07:00",
+      "fetched": "2026-02-11T21:46:38.263542+07:00"
+    },
+    {
+      "id": "123be8d804f6c44bc7ee3a7094a3c927",
+      "title": "Một tình yêu ồn ào, tưng tửng trong Không giới hạn",
+      "link": "https://tuoitre.vn/mot-tinh-yeu-on-ao-tung-tung-trong-khong-gioi-han-20260211173733309.htm",
+      "summary": "Những tập phát sóng gần đây của Không giới hạn thu hút sự chú ý của khán giả bởi 'phản ứng hóa học' đầy thú vị giữa Lợi và Khánh Linh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T21:46:38.263163+07:00",
+      "fetched": "2026-02-11T21:46:38.263396+07:00"
+    },
     {
       "id": "7233437e508b27d77a74ed95a3cb983e",
       "title": "Ngựa vươn mình mang tri thức trong Lễ hội Đường sách Tết Bính Ngọ",
@@ -453,6 +593,166 @@ window.newsData_2026_02_11 = {
       "fetched": "2026-02-11T15:37:08.883652+07:00"
     },
     {
+      "id": "526c579871443c343288e007a0f1233e",
+      "title": "Nghĩa tình đất liền gửi Trường Sa qua sóng cầu truyền hình trực tiếp",
+      "link": "https://thanhnien.vn/nghia-tinh-dat-lien-gui-truong-sa-qua-song-cau-truyen-hinh-truc-tiep-18526021117343222.htm",
+      "summary": "Chương trình cầu truyền hình chúc Tết Nguyên đán Bính Ngọ 2026 kết nối đất liền với 3 đảo Trường Sa, Sinh Tồn, Đá Tây đã mang đến những khoảnh khắc xúc động, tiếp thêm niềm tin cho quân dân đang vững vàng nơi tuyến đầu Tổ quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T14:37:00+07:00",
+      "fetched": "2026-02-11T21:46:36.680870+07:00"
+    },
+    {
+      "id": "a95e1f1300b663cff16fe101f14d02b3",
+      "title": "Nấu 2.000 bánh tét bên bờ kênh ở TP HCM tặng người khó khăn",
+      "link": "https://vnexpress.net/nau-2-000-banh-tet-ben-bo-kenh-o-tp-hcm-tang-nguoi-kho-khan-5040174.html",
+      "summary": "Hàng trăm người dân phường Nhiêu Lộc quây quần bên những nồi bánh chưng, bánh tét suốt ngày đêm, nấu bánh tặng người khó khăn đón Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T14:35:19+07:00",
+      "fetched": "2026-02-11T21:46:33.148300+07:00"
+    },
+    {
+      "id": "c82027c431f245a478fbb6277190d7f4",
+      "title": "Công an Huế lắng nghe doanh nghiệp để tháo gỡ những 'điểm nghẽn' trong kinh doanh",
+      "link": "https://thanhnien.vn/cong-an-hue-lang-nghe-doanh-nghiep-de-thao-go-nhung-diem-nghen-trong-kinh-doanh-185260211172007276.htm",
+      "summary": "Thông qua hội nghị gặp mặt doanh nghiệp, Công an thành phố Huế lắng nghe, trao đổi, kịp thời nắm bắt và đề xuất tháo gỡ những \"điểm nghẽn\", khó khăn, vướng mắc trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T14:31:00+07:00",
+      "fetched": "2026-02-11T21:46:36.681062+07:00"
+    },
+    {
+      "id": "2059f8c471e243492b8611673b7a374d",
+      "title": "Bí thư Thành ủy Đà Nẵng: Cần 3 câu hỏi cốt lõi cho mỗi nghị quyết",
+      "link": "https://thanhnien.vn/bi-thu-thanh-uy-da-nang-can-3-cau-hoi-cot-loi-cho-moi-nghi-quyet-185260211174804398.htm",
+      "summary": "Bí thư Thành ủy Đà Nẵng Lê Ngọc Quang yêu cầu mỗi nghị quyết khi ban hành phải trả lời được ba câu hỏi cốt lõi: Đúng chủ trương chưa? Sát thực tiễn chưa? Có đi vào cuộc sống hay không?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T14:26:00+07:00",
+      "fetched": "2026-02-11T21:46:36.681225+07:00"
+    },
+    {
+      "id": "0dbb352096cb8b576aaea8252397d1f5",
+      "title": "Quốc gia châu Á nào bỏ Tết âm lịch?",
+      "link": "https://vnexpress.net/quoc-gia-chau-a-nao-bo-tet-am-lich-5040014.html",
+      "summary": "Nước này có khoảng 1.200 năm sử dụng lịch âm trước khi bỏ vào năm 1873, chuyển sang đón Tết dương lịch giống các nước phương Tây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T14:25:47+07:00",
+      "fetched": "2026-02-11T21:46:33.148479+07:00"
+    },
+    {
+      "id": "d662c6eab875025088fc82382df1aca0",
+      "title": "Cảnh sát giao thông hy sinh được truy tặng Huân chương Bảo vệ Tổ quốc hạng ba",
+      "link": "https://thanhnien.vn/canh-sat-giao-thong-hy-sinh-duoc-truy-tang-huan-chuong-bao-ve-to-quoc-hang-ba-185260211203607478.htm",
+      "summary": "Công an tỉnh Thái Nguyên đã tổ chức lễ truy tặng Huân chương Bảo vệ Tổ quốc hạng ba cho trung tá Hoàng Lao Hải, cán bộ Phòng Cảnh sát giao thông đã hy sinh khi đang thực hiện nhiệm vụ ngày 4.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T14:19:00+07:00",
+      "fetched": "2026-02-11T21:46:36.681380+07:00"
+    },
+    {
+      "id": "06abe107c8ea06b09f9d530c2e572dc8",
+      "title": "Trường Giang gây tranh cãi vì chọn Jack hát nhạc phim",
+      "link": "https://thanhnien.vn/truong-giang-gay-tranh-cai-vi-chon-jack-hat-nhac-phim-185260211200337574.htm",
+      "summary": "Việc lựa chọn Jack thể hiện nhạc phim 'Nhà ba tôi một phòng' của Trường Giang tạo nên làn sóng tranh luận trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T14:18:00+07:00",
+      "fetched": "2026-02-11T21:46:36.681533+07:00"
+    },
+    {
+      "id": "97f4cd39f0eb9d2f83d450b1c7175fa3",
+      "title": "Nga 'không vội vượt rào' về vũ khí hạt nhân hậu New START",
+      "link": "https://vnexpress.net/nga-khong-voi-vuot-rao-ve-vu-khi-hat-nhan-hau-new-start-5040150.html",
+      "summary": "Nga cho biết nước này sẽ tuân thủ các giới hạn về vũ khí hạt nhân dù hiệp ước New START đã hết hiệu lực, nếu Mỹ làm điều tương tự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T14:15:03+07:00",
+      "fetched": "2026-02-11T21:46:33.148642+07:00"
+    },
+    {
+      "id": "97f4cd39f0eb9d2f83d450b1c7175fa3",
+      "title": "Nga 'không vội vượt rào' về vũ khí hạt nhân hậu New START",
+      "link": "https://vnexpress.net/nga-khong-voi-vuot-rao-ve-vu-khi-hat-nhan-hau-new-start-5040150.html",
+      "summary": "Nga cho biết nước này sẽ tuân thủ các giới hạn về vũ khí hạt nhân dù hiệp ước New START đã hết hiệu lực, nếu Mỹ làm điều tương tự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-11T14:15:03+07:00",
+      "fetched": "2026-02-11T21:46:39.567954+07:00"
+    },
+    {
+      "id": "0181dbef238adcd38fb33ffd28bed25d",
+      "title": "Quang Hải giúp CAHN đặt một chân vào tứ kết Cup C2 châu Á",
+      "link": "https://vnexpress.net/quang-hai-giup-cahn-dat-mot-chan-vao-tu-ket-cup-c2-chau-a-5040175.html",
+      "summary": "Nguyễn Quang Hải ghi cú đúp để giúp Công an Hà Nội (CAHN) thắng Tampines Rovers 4-0 ở lượt đi vòng 1/8 AFC Champions League Two 2025-2026, tối nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T14:12:38+07:00",
+      "fetched": "2026-02-11T21:46:33.148801+07:00"
+    },
+    {
+      "id": "0181dbef238adcd38fb33ffd28bed25d",
+      "title": "Quang Hải giúp CAHN đặt một chân vào tứ kết Cup C2 châu Á",
+      "link": "https://vnexpress.net/quang-hai-giup-cahn-dat-mot-chan-vao-tu-ket-cup-c2-chau-a-5040175.html",
+      "summary": "Nguyễn Quang Hải ghi cú đúp để giúp Công an Hà Nội (CAHN) thắng Tampines Rovers 4-0 ở lượt đi vòng 1/8 AFC Champions League Two 2025-2026, tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-11T14:12:38+07:00",
+      "fetched": "2026-02-11T21:46:45.477919+07:00"
+    },
+    {
+      "id": "d3e5fd1be370b30c5ef804ce10fad2be",
+      "title": "Quang Hải chói sáng rực rỡ, Đình Bắc lập siêu phẩm: CLB CAHN đè bẹp Tampines Rovers",
+      "link": "https://thanhnien.vn/quang-hai-choi-sang-ruc-ro-dinh-bac-lap-sieu-pham-clb-cahn-de-bep-tampines-rovers-185260211164914549.htm",
+      "summary": "Cú đúp của Quang Hải cùng bàn thắng của Rogerio Alves giúp CLB CAHN thắng Tampines Rovers 4 bàn không gỡ tại lượt đi vòng 16 đội AFC Champions League 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T14:10:00+07:00",
+      "fetched": "2026-02-11T21:46:36.681684+07:00"
+    },
+    {
+      "id": "95e1cf2277dad1022f02edcbc7b5dd3e",
+      "title": "NATO bắt đầu sứ mệnh mới ở Bắc Cực",
+      "link": "https://thanhnien.vn/nato-bat-dau-su-menh-moi-o-bac-cuc-185260211205112478.htm",
+      "summary": "NATO ngày 11.2 tuyên bố đã bắt đầu một sứ mệnh tăng cường sự hiện diện của mình ở Bắc Cực, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T14:06:00+07:00",
+      "fetched": "2026-02-11T21:46:36.681832+07:00"
+    },
+    {
+      "id": "75db5a0ec849a571279a01f2bc7239f4",
+      "title": "Xe tải chở hơn 15 tấn lợn mắc dịch tả lợn châu Phi",
+      "link": "https://vnexpress.net/xe-tai-cho-hon-15-tan-lon-mac-dich-ta-lon-chau-phi-5040167.html",
+      "summary": "Kiểm tra xe tải chạy qua xã Nghĩa Lộc, cảnh sát phát hiện 180 con lợn nhốt phía sau thùng ôtô tải nhiễm virus dịch tả lợn châu Phi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T14:05:22+07:00",
+      "fetched": "2026-02-11T21:46:33.148958+07:00"
+    },
+    {
+      "id": "61301fb5c87ef2a9268237995ddfe7f4",
+      "title": "Phát hiện bom khi đào móng nhà",
+      "link": "https://vnexpress.net/phat-hien-bom-khi-dao-mong-nha-5040177.html",
+      "summary": "Trong lúc lái máy xúc đào móng làm nhà cho ông Nguyễn Văn Việt, công nhân phát hiện quả bom nặng 250 kg cắm sâu dưới đất, cách mặt đất khoảng 3,5 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T14:01:06+07:00",
+      "fetched": "2026-02-11T21:46:33.149134+07:00"
+    },
+    {
+      "id": "1b488404d10f91f829e14071aea1965b",
+      "title": "Phình động mạch, 'bom nổ chậm' trong bụng người đàn ông",
+      "link": "https://vnexpress.net/phinh-dong-mach-bom-no-cham-trong-bung-nguoi-dan-ong-5040065.html",
+      "summary": "Người đàn ông 78 tuổi đau bụng tưởng thông thường, không ngờ có khối phình lớn ở động mạch chủ bụng dọa vỡ, phải đặt đồng thời 5 stent.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:56:55+07:00",
+      "fetched": "2026-02-11T21:46:33.149292+07:00"
+    },
+    {
       "id": "be46957eb9e9b51fbe0ce63ae2aa7f79",
       "title": "Người Việt bắt đầu nhờ AI hỗ trợ chuẩn bị Tết, tìm kiếm văn khấn mùng 1",
       "link": "https://tuoitre.vn/nguoi-viet-bat-dau-nho-ai-ho-tro-chuan-bi-tet-tim-kiem-van-khan-mung-1-2026021109264147.htm",
@@ -601,6 +901,146 @@ window.newsData_2026_02_11 = {
       "category": "Tổng hợp",
       "published": "2026-02-11T13:51:53.175599+07:00",
       "fetched": "2026-02-11T13:51:53.175810+07:00"
+    },
+    {
+      "id": "c75329fd99e7607e62599b84c6ce0be9",
+      "title": "Mức giá mới của vé tham quan các di tích, bảo tàng ở Đà Nẵng",
+      "link": "https://thanhnien.vn/muc-gia-moi-cua-ve-tham-quan-cac-di-tich-bao-tang-o-da-nang-185260211172403155.htm",
+      "summary": "HĐND TP.Đà Nẵng đã chính thức thông qua nghị quyết về phí tham quan các công trình văn hóa, bảo tàng lớn như Hội An, Mỹ Sơn, tháp cổ Khương Mỹ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:32:00+07:00",
+      "fetched": "2026-02-11T21:46:36.682025+07:00"
+    },
+    {
+      "id": "1dc71850b34bb52a2d00c8406dfb0fdf",
+      "title": "Tài tử Jung Eun Woo đột ngột qua đời",
+      "link": "https://thanhnien.vn/tai-tu-jung-eun-woo-dot-ngot-qua-doi-185260211184653411.htm",
+      "summary": "Hôm 11.2, JoongAng Daily cùng hàng loạt trang tin tức Hàn Quốc đưa tin nam diễn viên Jung Eun Woo đột ngột qua đời ở tuổi 40. Thông tin trở thành cú sốc với bạn bè, đồng nghiệp, người hâm mộ của anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:30:00+07:00",
+      "fetched": "2026-02-11T21:46:36.682209+07:00"
+    },
+    {
+      "id": "e92875d05621b7fccc5f2c02675088e9",
+      "title": "Ô tô cá nhân có bắt buộc lắp camera ghi hình người lái?",
+      "link": "https://thanhnien.vn/o-to-ca-nhan-co-bat-buoc-lap-camera-ghi-hinh-nguoi-lai-185260209211936807.htm",
+      "summary": "Một số quy định mới về lắp đặt camera ghi hình người lái đang khiến nhiều chủ xe lo ngại bị xử phạt trong dịp tết này. Tuy nhiên, quy định kể trên có lộ trình áp dụng và đối tượng bắt buộc rõ ràng, tài xế cần tìm hiểu kỹ để tránh hoang mang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:30:00+07:00",
+      "fetched": "2026-02-11T21:46:36.682362+07:00"
+    },
+    {
+      "id": "efa01f347e56e4a3731db432b943e5cd",
+      "title": "'Chàng trai không thể cắt tóc phá hỏng 5 trận bất bại của Man United'",
+      "link": "https://vnexpress.net/frank-ilett-co-dong-vien-khong-the-cat-toc-pha-hong-5-tran-bat-bai-cua-man-utd-5040098.html",
+      "summary": "Bốn thắng, một hòa, cùng vị trí thứ 4, nhưng thành tích của Man Utd dưới thời HLV Michael Carrick bỗng vô nghĩa vì chuyện cắt tóc của một CĐV.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:29:00+07:00",
+      "fetched": "2026-02-11T21:46:33.149447+07:00"
+    },
+    {
+      "id": "14c0381d940ba97f1c1ceaa1dcb62317",
+      "title": "Xót xa trước tình trạng sức khỏe hiện tại của ca sĩ Tô Thanh Phương",
+      "link": "https://thanhnien.vn/xot-xa-truoc-tinh-trang-suc-khoe-hien-tai-cua-ca-si-to-thanh-phuong-185260211185513566.htm",
+      "summary": "Hình ảnh mới nhất của ca sĩ Tô Thanh Phương khiến nghệ sĩ Phương Dung, Phi Phụng và nhiều khán giả không khỏi xót xa. Ông đang chống chọi với bệnh tật, sức khỏe suy giảm, không còn minh mẫn như trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:29:00+07:00",
+      "fetched": "2026-02-11T21:46:36.682510+07:00"
+    },
+    {
+      "id": "21b9619c7b92f1d0b6307257e71e05c5",
+      "title": "AFC chỉ rõ thay đổi cực lớn giúp bóng đá Việt Nam có vé dự ASIAD, báo Indonesia nói điều bất ngờ",
+      "link": "https://thanhnien.vn/afc-chi-ro-thay-doi-cuc-lon-giup-bong-da-viet-nam-co-ve-du-asiad-bao-indonesia-noi-dieu-bat-ngo-185260211201911951.htm",
+      "summary": "Một điều chỉnh từ AFC và Hội đồng Olympic châu Á (OCA) đã giúp Việt Nam và Thái Lan sớm giành vé đến Đại hội Thể thao châu Á Aichi – Nagoya (ASIAD 20 tại Nhật Bản), trong khi hàng loạt nền bóng đá Đông Nam Á như Indonesia, Malaysia bất ngờ bị đẩy vào thế bị động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:22:00+07:00",
+      "fetched": "2026-02-11T21:46:36.682661+07:00"
+    },
+    {
+      "id": "e837ad5ec47baf766632812647676715",
+      "title": "Đi cao tốc từ TP.HCM về Đà Nẵng: Phí qua trạm BOT  bao nhiêu?",
+      "link": "https://thanhnien.vn/di-cao-toc-tu-tphcm-ve-da-nang-phi-qua-tram-bot-bao-nhieu-185260211163131783.htm",
+      "summary": "Một số tuyến cao tốc đưa vào khai thác trước tết, mang lại nhiều lựa chọn di chuyển cho người dân đi từ TP.HCM về Đà Nẵng. Tuy nhiên, tài xế cần chủ động cập nhật chi phí BOT, quãng đường và thời gian di chuyển để lên kế hoạch phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:22:00+07:00",
+      "fetched": "2026-02-11T21:46:36.682817+07:00"
+    },
+    {
+      "id": "aa783150e227516349973969c2c1c70b",
+      "title": "Techcombank và cơ quan thuế: Hỗ trợ hộ kinh doanh thanh toán không dùng tiền mặt",
+      "link": "https://thanhnien.vn/techcombank-va-co-quan-thue-ho-tro-ho-kinh-doanh-thanh-toan-khong-dung-tien-mat-185260211203829884.htm",
+      "summary": "Trong bối cảnh Chính phủ và ngành Thuế quyết liệt thúc đẩy chuyển đổi số quốc gia, Ngân hàng TMCP Kỹ thương Việt Nam (Techcombank) đã khẳng định vai trò tiên phong khi phối hợp chặt chẽ cùng cơ quan thuế nhằm hỗ trợ các hộ kinh doanh, tiểu thương tối ưu hóa quản lý tài chính và thực hiện nghĩa vụ th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:21:00+07:00",
+      "fetched": "2026-02-11T21:46:36.682974+07:00"
+    },
+    {
+      "id": "b528d9afb1cc8ad87357d31300e96a23",
+      "title": "Chở hành lý trên nóc ô tô về quê ăn tết: Có bị CSGT phạt?",
+      "link": "https://thanhnien.vn/cho-hanh-ly-tren-noc-o-to-ve-que-an-tet-co-bi-csgt-phat-185260209102058471.htm",
+      "summary": "\"Chở hành lý trên nóc ô tô có bị phạt hay không?\" vẫn là nỗi băn khoăn, thắc mắc của nhiều người nhưng hiện tại, luật hiện hành đã quy định cụ thể trường hợp này để người dân tránh bị phạt trong quá trình di chuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:13:00+07:00",
+      "fetched": "2026-02-11T21:46:36.683155+07:00"
+    },
+    {
+      "id": "b7ab661ee76c740dbad531bb90eb44a2",
+      "title": "Biển số xe Cub đi lâu năm bị han rỉ, cũ nát, tôi có bị phạt?",
+      "link": "https://vnexpress.net/bien-so-xe-cub-di-lau-nam-bi-han-ri-cu-nat-toi-co-bi-phat-5039717.html",
+      "summary": "Tôi có chiếc xe Cub bố mẹ cho, đi gần 30 năm vẫn tốt nhưng biển số đã bị mòn vẹt, han gỉ và mờ gần hết số trên đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:00:00+07:00",
+      "fetched": "2026-02-11T21:46:33.149611+07:00"
+    },
+    {
+      "id": "376d72e72dcc0a16b32333b5af834a73",
+      "title": "Chuyển Nhà 24h cung cấp giải pháp chuyển nhà trọn gói",
+      "link": "https://vnexpress.net/chuyen-nha-24h-cung-cap-giai-phap-chuyen-nha-tron-goi-5040178.html",
+      "summary": "Chuyển Nhà 24h giới thiệu dịch vụ chuyển nhà trọn gói, mang lại sự tiện lợi, an tâm cho khách hàng với quy trình minh bạch cùng chính sách bảo vệ tài sản người dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:00:00+07:00",
+      "fetched": "2026-02-11T21:46:33.149769+07:00"
+    },
+    {
+      "id": "de198eaf4366ffa4e8c9ea29190245c5",
+      "title": "Khinh khí cầu, hội hoa xuân hút hàng chục nghìn người đến Cần Giờ",
+      "link": "https://vnexpress.net/khinh-khi-cau-hoi-hoa-xuan-hut-hang-chuc-nghin-nguoi-den-can-gio-5040169.html",
+      "summary": "Hội xuân Green Paradise Tet Fest với trải nghiệm bay khinh khí cầu, 40 gian hàng đặc sản địa phương, đường hoa 600 gốc đào - mai giúp Cần Giờ thêm sức hút trước Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:00:00+07:00",
+      "fetched": "2026-02-11T21:46:33.149934+07:00"
+    },
+    {
+      "id": "a6e61aae8bda72ca0db431c9831bc98d",
+      "title": "Hơn 3.000 nhà đầu tư EB-5 được cấp thẻ xanh vĩnh viễn",
+      "link": "https://vnexpress.net/hon-3-000-nha-dau-tu-eb-5-duoc-cap-the-xanh-vinh-vien-5039961.html",
+      "summary": "Sở Di trú và Nhập tịch Mỹ (USCIS) phê duyệt hơn 3.000 đơn I-829 (đơn xin cấp thẻ xanh vĩnh viễn) cho nhà đầu tư EB5 do CanAm bảo trợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T13:00:00+07:00",
+      "fetched": "2026-02-11T21:46:33.150122+07:00"
+    },
+    {
+      "id": "9d65efabc8d0e120c15e9a68d2eccd98",
+      "title": "Các kiểu áo dài cách tân đón Tết của giới trẻ",
+      "link": "https://vnexpress.net/cac-kieu-ao-dai-cach-tan-don-tet-cua-gioi-tre-5039934.html",
+      "summary": "Nhiều bạn trẻ lựa chọn áo dài cách tân, thực hiện bộ ảnh bên hiên nhà, hè phố trước thềm Tết Bính Ngọ 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:43:48+07:00",
+      "fetched": "2026-02-11T21:46:33.150284+07:00"
     },
     {
       "id": "8e92f4c245f049c70ed63d2300595a47",
