@@ -1,7 +1,157 @@
 window.newsData_2026_02_11 = {
   "date": "2026-02-11",
-  "lastUpdated": "2026-02-11T17:39:50.057528+07:00",
+  "lastUpdated": "2026-02-11T19:44:43.880401+07:00",
   "articles": [
+    {
+      "id": "7233437e508b27d77a74ed95a3cb983e",
+      "title": "Ngựa vươn mình mang tri thức trong Lễ hội Đường sách Tết Bính Ngọ",
+      "link": "https://tuoitre.vn/ngua-vuon-minh-mang-tri-thuc-trong-le-hoi-duong-sach-tet-binh-ngo-20260211164726339.htm",
+      "summary": "Ban tổ chức Lễ hội Đường sách Tết Bính Ngọ công bố hình ảnh mô hình linh vật 'Bính Ngọ vươn mình' sẽ được đặt tại khu vực đại cảnh xuân Đường sách Lê Lợi năm nay khiến nhiều người yêu sách thích thú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.590765+07:00",
+      "fetched": "2026-02-11T19:44:38.590877+07:00"
+    },
+    {
+      "id": "cdcbd38b3d7ac5f7917d71b2b1df1718",
+      "title": "Vì sao chọn gà trống luộc ngậm hoa hồng trong lễ cúng giao thừa?",
+      "link": "https://tuoitre.vn/vi-sao-chon-ga-trong-luoc-ngam-hoa-hong-trong-le-cung-giao-thua-20260211151416128.htm",
+      "summary": "Gà trống ngậm hoa hồng đỏ là hình tượng quen thuộc nhất trong mâm cúng đêm giao thừa và các dịp lễ trọng như rằm tháng giêng, đầy tháng, thôi nôi…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.590640+07:00",
+      "fetched": "2026-02-11T19:44:38.590754+07:00"
+    },
+    {
+      "id": "07151f1764ed7a862b2ae187a69b0367",
+      "title": "CSGT TP.HCM công bố số điện thoại, địa chỉ các đội/trạm để tiếp nhận thông tin của người dân",
+      "link": "https://tuoitre.vn/csgt-tp-hcm-cong-bo-so-dien-thoai-dia-chi-cac-doi-tram-de-tiep-nhan-thong-tin-cua-nguoi-dan-20260211160233186.htm",
+      "summary": "Ngày 11-2, Phòng PC08 Công an TP.HCM thông tin địa chỉ, số điện thoại của Phòng PC08 và các đơn vị đội/trạm trực thuộc để tiếp nhận các thông tin, phản ánh của người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.590515+07:00",
+      "fetched": "2026-02-11T19:44:38.590629+07:00"
+    },
+    {
+      "id": "5f02a68ff411cee1e4aadc7672606768",
+      "title": "Ngân hàng Việt chạy đua đầu tư AI",
+      "link": "https://tuoitre.vn/ngan-hang-viet-chay-dua-dau-tu-ai-20260211172013211.htm",
+      "summary": "Các tổ chức tài chính tại Việt Nam đang đẩy mạnh ứng dụng trí tuệ nhân tạo (AI), song vẫn đối mặt với những rào cản lớn liên quan đến an ninh mạng và hệ thống công nghệ kế thừa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.590388+07:00",
+      "fetched": "2026-02-11T19:44:38.590504+07:00"
+    },
+    {
+      "id": "3ab143835c8281f4abb629a5525e4a88",
+      "title": "Cuối năm ‘bung xõa’ vượt giới hạn, nam giới đi khám bệnh lây qua đường tình dục gia tăng",
+      "link": "https://tuoitre.vn/cuoi-nam-bung-xoa-vuot-gioi-han-nam-gioi-di-kham-benh-lay-qua-duong-tinh-duc-gia-tang-20260210201725271.htm",
+      "summary": "Theo chuyên gia, những tháng cận Tết, số lượng bệnh nhân nam đến khám do các vấn đề liên quan đến bệnh lây qua đường tình dục gia tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.590259+07:00",
+      "fetched": "2026-02-11T19:44:38.590376+07:00"
+    },
+    {
+      "id": "232bd7c6f4c45b8b0459fd32caf7600e",
+      "title": "Khánh Hòa nối nhịp xuân đất liền - Trường Sa qua cầu truyền hình trực tuyến",
+      "link": "https://tuoitre.vn/khanh-hoa-noi-nhip-xuan-dat-lien-truong-sa-qua-cau-truyen-hinh-truc-tuyen-20260211160154498.htm",
+      "summary": "Cầu truyền hình trực tuyến từ đất liền tỉnh Khánh Hòa đến đặc khu Trường Sa với những lời chúc, lời thăm hỏi thân tình, làm cho khoảng cách giữa đảo xa với đất liền như gần hơn những ngày cận Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.590117+07:00",
+      "fetched": "2026-02-11T19:44:38.590247+07:00"
+    },
+    {
+      "id": "38bd5d06a3867a04bb32456caaa23969",
+      "title": "Xe bán tải độ chế khoang bí mật chở pháo lậu từ Gia Lai về Đắk Lắk",
+      "link": "https://tuoitre.vn/xe-ban-tai-do-che-khoang-bi-mat-cho-phao-lau-tu-gia-lai-ve-dak-lak-20260211142748592.htm",
+      "summary": "Công an tỉnh Đắk Lắk tạm giữ hình sự một thanh niên độ chế khoang bí mật trên xe bán tải, chở gần 200kg pháo lậu từ Gia Lai về Đắk Lắk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.589960+07:00",
+      "fetched": "2026-02-11T19:44:38.590100+07:00"
+    },
+    {
+      "id": "30e2efd306613bb92aa03e67d4f9a9c4",
+      "title": "Quất 3 triệu đồng/cây đắt khách, đào 1,4 triệu đồng/cành khách lắc đầu bỏ đi",
+      "link": "https://tuoitre.vn/quat-3-trieu-dong-cay-dat-khach-dao-1-4-trieu-dong-canh-khach-lac-dau-bo-di-20260211170758273.htm",
+      "summary": "Tết Bính Ngọ đang đến gần, nhưng tại Hà Nội người dân vẫn đang băn khoăn trước khi quyết định bỏ tiền ra mua đào, quất chơi Tết...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.589826+07:00",
+      "fetched": "2026-02-11T19:44:38.589948+07:00"
+    },
+    {
+      "id": "c6e0e35bc2daa68919d490636ec62f0b",
+      "title": "Đồng Nai ‘cầu cứu’ TP.HCM, Lâm Đồng cung ứng xăng dầu cho xe lên cao tốc TP.HCM - Long Thành",
+      "link": "https://tuoitre.vn/dong-nai-cau-cuu-tp-hcm-lam-dong-cung-ung-xang-dau-cho-xe-len-cao-toc-tp-hcm-long-thanh-20260211173515325.htm",
+      "summary": "Liên quan đến đứt gãy nguồn xăng dầu trên cao tốc TP.HCM - Long Thành - Dầu Giây, Sở Công Thương tỉnh Đồng Nai vừa có văn bản đề nghị TP.HCM và tỉnh Lâm Đồng phối hợp, hỗ trợ tổ chức cung ứng bổ sung xăng dầu khu vực tuyến cao tốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.589701+07:00",
+      "fetched": "2026-02-11T19:44:38.589814+07:00"
+    },
+    {
+      "id": "0a6d8b11608e0a76d62b9ac8a0268b36",
+      "title": "'Viện kiểm sát luôn lắng nghe, chia sẻ và bảo vệ quyền lợi chính đáng của người dân'",
+      "link": "https://tuoitre.vn/vien-kiem-sat-luon-lang-nghe-chia-se-va-bao-ve-quyen-loi-chinh-dang-cua-nguoi-dan-20260211173007547.htm",
+      "summary": "Viện trưởng VKSND TP.HCM Lê Văn Đông đã chia sẻ như vậy trong buổi gặp mặt người có công với cách mạng và trẻ em có hoàn cảnh khó khăn trên địa bàn phường Tân Thuận, TP.HCM, chiều 11-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.589574+07:00",
+      "fetched": "2026-02-11T19:44:38.589689+07:00"
+    },
+    {
+      "id": "f2b7a8db5f4a6bc6c8a1adf6874e42b4",
+      "title": "VNPAY và NAPAS tăng cường hợp tác toàn diện, thúc đẩy thanh toán số",
+      "link": "https://tuoitre.vn/vnpay-va-napas-tang-cuong-hop-tac-toan-dien-thuc-day-thanh-toan-so-20260211172508541.htm",
+      "summary": "VNPAY và NAPAS vừa ký kết thỏa thuận hợp tác toàn diện, tập trung vào phát triển công nghệ mới trong thanh toán, chia sẻ kinh nghiệm chuyên môn và phối hợp triển khai các giải pháp thanh toán phù hợp với xu hướng số hóa của thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.589425+07:00",
+      "fetched": "2026-02-11T19:44:38.589554+07:00"
+    },
+    {
+      "id": "b23a8faffc0ec6bf91d8f79af32b3769",
+      "title": "Thụt dầu 300 cái, bé trai 15 tuổi nhập viện nguy kịch vì bị hội chứng ly giải",
+      "link": "https://tuoitre.vn/thut-dau-300-cai-be-trai-15-tuoi-nhap-vien-nguy-kich-vi-bi-hoi-chung-ly-giai-20260211172413274.htm",
+      "summary": "Sau khi thụt dầu 300 cái, bé trai 15 tuổi than đau nhiều ở hai chân nhưng không đi khám. Đến ngày hôm sau, khi tiếp tục chơi đá bóng, cơn đau tăng lên dữ dội khiến bé không thể đi lại được.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.589296+07:00",
+      "fetched": "2026-02-11T19:44:38.589414+07:00"
+    },
+    {
+      "id": "28063fc14387e87a70752c68fc01a4fe",
+      "title": "Nhân viên bưu cục 'trắng đêm' phân loại hàng hóa dịp mua sắm cuối năm",
+      "link": "https://tuoitre.vn/nhan-vien-buu-cuc-trang-dem-phan-loai-hang-hoa-dip-mua-sam-cuoi-nam-2026021114372879.htm",
+      "summary": "Với số lượng hàng hóa tăng khoảng 20% so với cùng kỳ, mỗi ngày Trung tâm Vận chuyển và kho vận phía Bắc của Tổng công ty Bưu điện Việt Nam phải xử lý tới hơn 800 tấn hàng đến và đi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.589159+07:00",
+      "fetched": "2026-02-11T19:44:38.589284+07:00"
+    },
+    {
+      "id": "7a2a792023030834eaf93a4780d80f31",
+      "title": "Tây Ninh nhờ Đồng Nai hỗ trợ đá xây dựng trong buổi trao đổi kinh nghiệm giải phóng mặt bằng",
+      "link": "https://tuoitre.vn/tay-ninh-nho-dong-nai-ho-tro-da-xay-dung-trong-buoi-trao-doi-kinh-nghiem-giai-phong-mat-bang-20260211174122774.htm",
+      "summary": "Đề xuất được nêu tại hội nghị trao đổi, học tập kinh nghiệm về công tác bồi thường, hỗ trợ, tái định cư do UBND tỉnh Tây Ninh và UBND tỉnh Đồng Nai tổ chức chiều 11-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.588987+07:00",
+      "fetched": "2026-02-11T19:44:38.589145+07:00"
+    },
+    {
+      "id": "ada6e8fda497c0e8186a093926e64d85",
+      "title": "Khát vọng học tập giữa núi rừng Trường Sơn",
+      "link": "https://tuoitre.vn/khat-vong-hoc-tap-giua-nui-rung-truong-son-20260211162843163.htm",
+      "summary": "Giữa trập trùng núi non nơi biên giới Việt - Lào, hành trình tìm con chữ của những đứa trẻ Ma Coong chưa bao giờ dễ dàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T19:44:38.588765+07:00",
+      "fetched": "2026-02-11T19:44:38.588972+07:00"
+    },
     {
       "id": "1d150920f1098cc34e163bfc36f9ea22",
       "title": "Check-in 'Tây Bắc thu nhỏ' giữa lòng Quảng Ngãi",
@@ -453,6 +603,236 @@ window.newsData_2026_02_11 = {
       "fetched": "2026-02-11T13:51:53.175810+07:00"
     },
     {
+      "id": "8e92f4c245f049c70ed63d2300595a47",
+      "title": "Cửa ngõ phía tây TP.HCM ùn ứ: Về quê ăn tết lại gặp mưa lớn",
+      "link": "https://thanhnien.vn/cua-ngo-phia-tay-tphcm-un-u-ve-que-an-tet-lai-gap-mua-lon-185260211190752956.htm",
+      "summary": "Chiều 24 tháng chạp, cửa ngõ phía tây TP.HCM ùn ứ khi lượng xe đổ về miền Tây tăng cao. Cơn mưa bất chợt trong giờ cao điểm khiến hành trình về quê ăn tết của nhiều người thêm phần vất vả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:31:00+07:00",
+      "fetched": "2026-02-11T19:44:37.595710+07:00"
+    },
+    {
+      "id": "6adca4d228683c77c70af144d933a0a7",
+      "title": "Học sinh SenTia School 'tìm mình trong câu chuyện cha ông'",
+      "link": "https://vnexpress.net/hoc-sinh-sentia-school-tim-minh-trong-cau-chuyen-cha-ong-5040113.html",
+      "summary": "Học sinh SenTia School tham gia dự án liên môn - liên cấp \"Tìm mình trong câu chuyện cha ông\" trong 6 tuần, nhìn nhận bài học cho bản thân từ sự kiện lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:30:00+07:00",
+      "fetched": "2026-02-11T19:44:31.078937+07:00"
+    },
+    {
+      "id": "497412b2ed6fab168d0fad989f6041b7",
+      "title": "Bánh tét chiên theo kiểu… chuối chiên gây sốt cận tết, hương vị bất ngờ",
+      "link": "https://thanhnien.vn/banh-tet-chien-theo-kieu-chuoi-chien-gay-sot-can-tet-huong-vi-bat-ngo-185260127130318501.htm",
+      "summary": "Clip hướng dẫn chiên bánh tét theo kiểu… 'chuối chiên' bất ngờ nhận về gần 1,5 triệu lượt xem trên mạng xã hội. Nhiều người mách nhau làm theo dịp Tết Nguyên đán Bính Ngọ 2026 này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:30:00+07:00",
+      "fetched": "2026-02-11T19:44:37.595877+07:00"
+    },
+    {
+      "id": "61d233adf345b81d6a80ab13ab82acba",
+      "title": "Tình hình giao thông tại các cửa ngõ về miền Tây chiều 24 tết",
+      "link": "https://thanhnien.vn/tinh-hinh-giao-thong-tai-cac-cua-ngo-ve-mien-tay-chieu-24-tet-185260211170848566.htm",
+      "summary": "Chiều 24 tết, lượng người đổ về miền Tây ăn tết lớn, gây ra tình trạng ùn ứ giao thông tại một số ngã tư thuộc địa phận tỉnh Đồng Tháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:13:00+07:00",
+      "fetched": "2026-02-11T19:44:37.596035+07:00"
+    },
+    {
+      "id": "89a156657e07c8a25e563315e8270c1c",
+      "title": "Thống nhất danh sách 217 ứng viên đại biểu Quốc hội khóa XVI ở trung ương",
+      "link": "https://thanhnien.vn/thong-nhat-danh-sach-217-ung-vien-dai-bieu-quoc-hoi-khoa-xvi-o-trung-uong-185260211172225774.htm",
+      "summary": "Ngày 11.2, Đoàn Chủ tịch Ủy ban T.Ư Mặt trận Tổ quốc (MTTQ) Việt Nam tổ chức Hội nghị hiệp thương lần thứ ba để thỏa thuận, lập danh sách những người thuộc các cơ quan, tổ chức, đơn vị ở trung ương được giới thiệu ứng cử đại biểu Quốc hội (ĐBQH) khóa XVI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:11:00+07:00",
+      "fetched": "2026-02-11T19:44:37.596262+07:00"
+    },
+    {
+      "id": "3dadede91ddc7501c07b3edab5f97644",
+      "title": "Ngắm 'Bát mã truy phong' bên vịnh Hạ Long",
+      "link": "https://thanhnien.vn/ngam-bat-ma-truy-phong-ben-vinh-ha-long-185260211153833017.htm",
+      "summary": "Cụm linh vật 'Bát mã truy phong', gồm 8 chú ngựa tung vó đang được hoàn thiện tại Quảng trường 30.10 (P.Hạ Long, Quảng Ninh), hứa hẹn trở thành điểm nhấn rực rỡ, mang thông điệp may mắn, bứt phá trong năm mới Bính Ngọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:11:00+07:00",
+      "fetched": "2026-02-11T19:44:37.596421+07:00"
+    },
+    {
+      "id": "6469b7e1d3d43249e9c9252030478c76",
+      "title": "Đại tướng Nguyễn Trọng Nghĩa thăm, chúc tết tại tỉnh Quảng Trị",
+      "link": "https://thanhnien.vn/dai-tuong-nguyen-trong-nghia-tham-chuc-tet-tai-tinh-quang-tri-185260211160058457.htm",
+      "summary": "Nhân dịp Tết Nguyên đán Bính Ngọ 2026, đại tướng Nguyễn Trọng Nghĩa, Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam đã có chuyến thăm, tặng quà cho bà con trên địa bàn tỉnh Quảng Trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:08:00+07:00",
+      "fetched": "2026-02-11T19:44:37.596574+07:00"
+    },
+    {
+      "id": "a01826f0b5fd5030c3876b4c4a97bfaa",
+      "title": "AFC xác nhận đơn phản đối vụ 7 cầu thủ nhập tịch Malaysia được gửi từ Việt Nam",
+      "link": "https://thanhnien.vn/afc-xac-nhan-don-phan-doi-vu-7-cau-thu-nhap-tich-malaysia-duoc-gui-tu-viet-nam-185260211183422598.htm",
+      "summary": "Tổng Thư ký AFC Datuk Seri Windsor Paul John xác nhận phía Việt Nam đã gửi đơn phản đối liên quan đến 7 cầu thủ nhập tịch của Malaysia ngay sau trận thua 0-4 tại vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:07:00+07:00",
+      "fetched": "2026-02-11T19:44:37.596722+07:00"
+    },
+    {
+      "id": "812c04a7ec39d57697ff72cc03f43603",
+      "title": "Iran nêu lằn ranh đỏ sau cảnh báo của ông Trump",
+      "link": "https://thanhnien.vn/iran-neu-lan-ranh-do-sau-canh-bao-cua-ong-trump-185260211190440624.htm",
+      "summary": "Một cố vấn của lãnh tụ tối cao Iran Ali Khamenei hôm nay 11.2 tuyên bố năng lực tên lửa của Iran là lằn ranh đỏ và không phải là vấn đề để đàm phán, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:06:00+07:00",
+      "fetched": "2026-02-11T19:44:37.596871+07:00"
+    },
+    {
+      "id": "0aa9e6f6aeba9cdbc92f1abf04111da6",
+      "title": "Vinaboss - Đối tác sửa xe nâng uy tín cho doanh nghiệp tại TP.HCM",
+      "link": "https://thanhnien.vn/vinaboss-doi-tac-sua-xe-nang-uy-tin-cho-doanh-nghiep-tai-tphcm-185260211191428089.htm",
+      "summary": "Trong hoạt động kho vận và sản xuất, xe nâng đóng vai trò quan trọng trong việc đảm bảo tiến độ và hiệu quả vận hành. Khi thiết bị gặp sự cố, việc lựa chọn một đơn vị sửa chữa uy tín là yếu tố then chốt giúp doanh nghiệp hạn chế gián đoạn sản xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:04:00+07:00",
+      "fetched": "2026-02-11T19:44:37.597028+07:00"
+    },
+    {
+      "id": "3c0b744b6eab84f6f548b5a451151ba1",
+      "title": "Mở cửa cho khu 'đất vàng' đắc địa nhất tây Gia Lai",
+      "link": "https://thanhnien.vn/mo-cua-cho-khu-dat-vang-dac-dia-nhat-tay-gia-lai-185260211153808534.htm",
+      "summary": "UBND tỉnh Gia Lai vừa ban hành quyết định chấp thuận chủ trương đầu tư dự án trên khu 'đất vàng' tại ngã tư Hùng Vương - Trần Hưng Đạo (phường Pleiku), với tổng mức đầu tư hơn 605 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:04:00+07:00",
+      "fetched": "2026-02-11T19:44:37.597210+07:00"
+    },
+    {
+      "id": "cf48eee69cda5a30d023d8203f34a0d4",
+      "title": "Quảng Ngãi: Công an vào cuộc vụ khai thác khoáng sản tại mỏ đất núi Lệ Thủy",
+      "link": "https://thanhnien.vn/quang-ngai-cong-an-vao-cuoc-vu-khai-thac-khoang-san-tai-mo-dat-nui-le-thuy-185260211081520111.htm",
+      "summary": "Công an tỉnh Quảng Ngãi đang điều tra, xử lý Công ty CP Đầu tư 706 do có dấu hiệu khai thác khoáng sản không đúng nội dung giấy phép tại mỏ đất núi Lệ Thủy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:03:00+07:00",
+      "fetched": "2026-02-11T19:44:37.597363+07:00"
+    },
+    {
+      "id": "3b3dc5db09b9c0428081ce382a4dab08",
+      "title": "Tôi bừng tỉnh sau 10 năm 'dính bẫy' thuê nhà",
+      "link": "https://vnexpress.net/gia-nha-tp-hcm-gia-nha-ha-noi-toi-bung-tinh-sau-10-nam-dinh-bay-thue-nha-5040057.html",
+      "summary": "10 năm qua, mỗi tháng tôi đều đặn 'cống nạp' cả chục triệu đồng cho chủ nhà, để rồi nhìn lại vẫn chẳng có tài sản gì trong tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:00:00+07:00",
+      "fetched": "2026-02-11T19:44:31.079137+07:00"
+    },
+    {
+      "id": "0a97142431e11deddee7d13fb1260a6c",
+      "title": "Tính toán của Thủ tướng Israel khi họp khẩn với ông Trump",
+      "link": "https://vnexpress.net/tinh-toan-cua-thu-tuong-israel-khi-hop-khan-voi-ong-trump-5039848.html",
+      "summary": "Lo Mỹ thỏa hiệp với Iran, Thủ tướng Netanyahu được cho là đã nhanh chóng quyết định tới Nhà Trắng để tái khẳng định những \"lằn ranh đỏ\" của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:00:00+07:00",
+      "fetched": "2026-02-11T19:44:31.079309+07:00"
+    },
+    {
+      "id": "89f58a6eafe1bc247609a71189a92386",
+      "title": "Tiêm phòng cúm cận Tết",
+      "link": "https://vnexpress.net/tiem-phong-cum-can-tet-5040114.html",
+      "summary": "Chuẩn bị du lịch dịp Tết, lo lắng thời tiết thất thường sẽ gây ốm, nhiều người chủ động tiêm vaccine cúm để phòng bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:00:00+07:00",
+      "fetched": "2026-02-11T19:44:31.079468+07:00"
+    },
+    {
+      "id": "bcff26e6d19f26ca9c10a2a8a2234576",
+      "title": "Ba lần thụ tinh ống nghiệm thất bại do tử cung dị dạng",
+      "link": "https://vnexpress.net/ba-lan-thu-tinh-ong-nghiem-that-bai-do-tu-cung-di-dang-5040087.html",
+      "summary": "Chị Hà, 30 tuổi, sảy thai một lần, thụ tinh ống nghiệm ba lần bất thành mới biết buồng tử cung dị dạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:00:00+07:00",
+      "fetched": "2026-02-11T19:44:31.079621+07:00"
+    },
+    {
+      "id": "c66405b0989e9a5a210d7cc4e99bd28a",
+      "title": "Tai nạn giao thông giữa ô tô biển số Lào và xe mô tô, một người tử vong",
+      "link": "https://thanhnien.vn/tai-nan-giao-thong-giua-o-to-bien-so-lao-va-xe-mo-to-mot-nguoi-tu-vong-18526021116141983.htm",
+      "summary": "Một vụ tai nạn giao thông giữa xe ô tô biển số Lào và xe mô tô trên tuyến QL 9 (Quảng Trị) đã khiến 1 người tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T12:00:00+07:00",
+      "fetched": "2026-02-11T19:44:37.597517+07:00"
+    },
+    {
+      "id": "0a97142431e11deddee7d13fb1260a6c",
+      "title": "Tính toán của Thủ tướng Israel khi họp khẩn với ông Trump",
+      "link": "https://vnexpress.net/tinh-toan-cua-thu-tuong-israel-khi-hop-khan-voi-ong-trump-5039848.html",
+      "summary": "Lo Mỹ thỏa hiệp với Iran, Thủ tướng Netanyahu được cho là đã nhanh chóng quyết định tới Nhà Trắng để tái khẳng định những \"lằn ranh đỏ\" của mình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-11T12:00:00+07:00",
+      "fetched": "2026-02-11T19:44:39.632414+07:00"
+    },
+    {
+      "id": "faffd1ec2f8a6531cd95ed15c38edcee",
+      "title": "Nổ súng, bắt con tin ở trường học Thái Lan",
+      "link": "https://vnexpress.net/no-sung-bat-con-tin-o-truong-hoc-thai-lan-5040164.html",
+      "summary": "Tay súng 18 tuổi đột nhập, bắt một số giáo viên và học sinh làm con tin ở trường học ở huyện Hat Yai, tỉnh Songkhla, miền nam Thái Lan, trước khi bị tiêu diệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T11:56:57+07:00",
+      "fetched": "2026-02-11T19:44:31.079775+07:00"
+    },
+    {
+      "id": "d3653c34a78ad07e21e20c55cd7267d2",
+      "title": "Nhóm tay súng đột nhập trường học Thái Lan, bắt học sinh làm con tin",
+      "link": "https://vnexpress.net/nhom-tay-sung-dot-nhap-truong-hoc-thai-lan-bat-hoc-sinh-lam-con-tin-5040164.html",
+      "summary": "Một nhóm tay súng đột nhập, bắt một số giáo viên và học sinh làm con tin ở trường học ở huyện Hat Yai, tỉnh Songkhla, miền nam Thái Lan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-11T11:56:57+07:00",
+      "fetched": "2026-02-11T19:44:39.632589+07:00"
+    },
+    {
+      "id": "c940d531139e2959aa73133a30516a35",
+      "title": "Đại biểu HĐND TP.Đà Nẵng trăn trở nút thắt 'phân cấp, phân quyền'",
+      "link": "https://thanhnien.vn/dai-bieu-hdnd-tpda-nang-tran-tro-nut-that-phan-cap-phan-quyen-185260211170258459.htm",
+      "summary": "Đại biểu HĐND TP.Đà Nẵng kiến nghị cần sớm hoàn thiện cơ chế phân cấp, phân quyền rõ nét hơn. Đặc biệt, cần có chính sách đặc thù cho khu vực miền núi và biên giới nhằm giải quyết các bài toán phát triển kinh tế - xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T11:56:00+07:00",
+      "fetched": "2026-02-11T19:44:37.597666+07:00"
+    },
+    {
+      "id": "59181949756c92c8dc34526171caa7a9",
+      "title": "Tết muốn đường ruột khỏe, đừng quên loại trái cây này",
+      "link": "https://thanhnien.vn/tet-muon-duong-ruot-khoe-dung-quen-loai-trai-cay-nay-185260211185103608.htm",
+      "summary": "Chắc hẳn bạn đã quen với câu nói: 'Mỗi ngày 1 quả táo, bạn sẽ tránh xa bác sĩ'. Và một chuyên gia hàng đầu về tiêu hóa, gan mật vừa khẳng định mỗi ngày 1 quả chuối cũng làm được điều này!",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T11:51:00+07:00",
+      "fetched": "2026-02-11T19:44:37.597813+07:00"
+    },
+    {
+      "id": "cdd5e80d304b9e5e6ef860ccd26a768a",
+      "title": "Ngày cuối năm đến trường, học sinh tập làm cảnh sát giao thông, giáo viên, phóng viên",
+      "link": "https://thanhnien.vn/ngay-cuoi-nam-den-truong-hoc-sinh-tap-lam-canh-sat-giao-thong-giao-vien-phong-vien-185260211160519017.htm",
+      "summary": "Hoạt động ngày cuối năm thú vị tại một trường tiểu học tại TP.HCM khi mời các phụ huynh, khách mời với các ngành nghề khác nhau như cảnh sát giao thông, nhân viên bán hàng, giáo viên... vào trường chia sẻ về nghề nghiệp với các em.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T11:31:00+07:00",
+      "fetched": "2026-02-11T19:44:37.597970+07:00"
+    },
+    {
       "id": "c4723a612b0c388d8bc6f344edb9abab",
       "title": "10 chiếc váy vàng khó quên trong lịch sử thời trang thảm đỏ",
       "link": "https://tuoitre.vn/10-chiec-vay-vang-kho-quen-trong-lich-su-thoi-trang-tham-do-20260210214142623.htm",
@@ -603,6 +983,86 @@ window.newsData_2026_02_11 = {
       "fetched": "2026-02-11T11:22:33.449515+07:00"
     },
     {
+      "id": "8ba19691153cbfab3f81e31aceb5a288",
+      "title": "Xã ven Hà Nội dự thu hơn 145 tỷ đồng từ đấu giá đất",
+      "link": "https://vnexpress.net/xa-ven-ha-noi-du-thu-hon-145-ty-dong-tu-dau-gia-dat-5040073.html",
+      "summary": "Xã Kiều Phú - cách trung tâm Hà Nội hơn 30 km về phía Tây - dự kiến thu hơn 145 tỷ đồng từ đấu giá 33 lô đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T11:21:15+07:00",
+      "fetched": "2026-02-11T19:44:31.079934+07:00"
+    },
+    {
+      "id": "5f144d8e419e69369c0d188d7424820a",
+      "title": "Mẹ chê 5 triệu chúng tôi biếu Tết quá ít",
+      "link": "https://vnexpress.net/me-che-5-trieu-chung-toi-bieu-tet-qua-it-5040111.html",
+      "summary": "Mẹ nói nếu vài năm nữa thấy chồng làm ăn không ra tiền, tôi nên nghĩ tới chuyện ly hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T11:00:00+07:00",
+      "fetched": "2026-02-11T19:44:31.080118+07:00"
+    },
+    {
+      "id": "95258351b41bb6c797fc10f915b55ab3",
+      "title": "FE Credit tổ chức nhiều hoạt động đồng hành cùng khách hàng dịp Tết",
+      "link": "https://vnexpress.net/fe-credit-to-chuc-nhieu-hoat-dong-dong-hanh-cung-khach-hang-dip-tet-5040145.html",
+      "summary": "FE Credit triển khai chuỗi hoạt động, tư vấn tài chính trên nền tảng trực tuyến và tại chợ truyền thống, đại lý xe máy ở 20 tỉnh thành, hỗ trợ người dân chuẩn bị tài chính cho dịp cuối năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T11:00:00+07:00",
+      "fetched": "2026-02-11T19:44:31.080278+07:00"
+    },
+    {
+      "id": "ff5334565b8bd0c8445b11d6a7392e3b",
+      "title": "'Chăm sóc trẻ không chỉ là chữa bệnh'",
+      "link": "https://vnexpress.net/cham-soc-tre-khong-chi-la-chua-benh-5040140.html",
+      "summary": "Theo GS.TS.BS Phạm Nhật An, chăm sóc trẻ em hiện nay không chỉ dừng ở điều trị triệu chứng, mà cần chẩn đoán căn nguyên, dự báo nguy cơ và dự phòng sớm để nâng chất lượng sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T11:00:00+07:00",
+      "fetched": "2026-02-11T19:44:31.080442+07:00"
+    },
+    {
+      "id": "f333c3bd1549b0a368fdd122f3e40ffe",
+      "title": "Không khí Tết sớm tại Vinhomes Grand Park",
+      "link": "https://vnexpress.net/khong-khi-tet-som-tai-vinhomes-grand-park-5040105.html",
+      "summary": "Công viên Grand Park thuộc đại đô thị Vinhomes Grand Park trở thành không gian tổ chức các hoạt động đón Tết sớm, thu hút hàng chục nghìn cư dân và du khách tham gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T11:00:00+07:00",
+      "fetched": "2026-02-11T19:44:31.080606+07:00"
+    },
+    {
+      "id": "06e7df755fd0613154c590d4bd371e8f",
+      "title": "Học sinh kể thời khắc căng thẳng trong vụ xả súng ở trường học Canada",
+      "link": "https://vnexpress.net/hoc-sinh-ke-thoi-khac-cang-thang-trong-vu-xa-sung-o-truong-hoc-canada-5040083.html",
+      "summary": "Sau khi nghe báo động xả súng, Quist và các bạn học kê bàn ghế chặn cửa lớp, chờ đợi trong thấp thỏm trong lúc nghi phạm nổ súng ở tòa nhà đối diện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T10:57:17+07:00",
+      "fetched": "2026-02-11T19:44:31.080774+07:00"
+    },
+    {
+      "id": "06e7df755fd0613154c590d4bd371e8f",
+      "title": "Học sinh kể thời khắc căng thẳng trong vụ xả súng ở trường học Canada",
+      "link": "https://vnexpress.net/hoc-sinh-ke-thoi-khac-cang-thang-trong-vu-xa-sung-o-truong-hoc-canada-5040083.html",
+      "summary": "Sau khi nghe báo động xả súng, Quist và các bạn học kê bàn ghế chặn cửa lớp, chờ đợi trong thấp thỏm trong lúc nghi phạm nổ súng ở tòa nhà đối diện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-11T10:57:17+07:00",
+      "fetched": "2026-02-11T19:44:39.632756+07:00"
+    },
+    {
+      "id": "1bcc2432c2ec0695fa3eb46cd35cce25",
+      "title": "Giới trẻ ưu tiên chi gì khi nhận thưởng Tết?",
+      "link": "https://vnexpress.net/gioi-tre-uu-tien-chi-gi-khi-nhan-thuong-tet-5040054.html",
+      "summary": "Nhận khoản thưởng Tết cuối năm, nhiều người ưu tiên mua vàng, chi tiêu sinh hoạt, sắm Tết cho gia đình hay dành một phần tiết kiệm...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T10:48:16+07:00",
+      "fetched": "2026-02-11T19:44:31.080933+07:00"
+    },
+    {
       "id": "4e405dc1e331c142aa202c160cdead68",
       "title": "Hai ngôi sao Hàn Quốc bị gắn mác 'mỹ nhân không ai dám cưới'",
       "link": "https://thanhnien.vn/hai-ngoi-sao-han-quoc-bi-gan-mac-my-nhan-khong-ai-dam-cuoi-185260211151556329.htm",
@@ -643,6 +1103,26 @@ window.newsData_2026_02_11 = {
       "fetched": "2026-02-11T17:39:41.132420+07:00"
     },
     {
+      "id": "c8d0ffe9d90071d9fd0aadf902c8e308",
+      "title": "Tottenham sa thải HLV Thomas Frank",
+      "link": "https://vnexpress.net/tottenham-sa-thai-hlv-thomas-frank-5040143.html",
+      "summary": "Tottenham thông báo sa thải HLV Thomas Frank, chỉ một ngày sau khi thua Newcastle 1-2 và tụt xuống thứ 16 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T10:33:54+07:00",
+      "fetched": "2026-02-11T19:44:31.081112+07:00"
+    },
+    {
+      "id": "c8d0ffe9d90071d9fd0aadf902c8e308",
+      "title": "Tottenham sa thải HLV Thomas Frank",
+      "link": "https://vnexpress.net/tottenham-sa-thai-hlv-thomas-frank-5040143.html",
+      "summary": "Tottenham thông báo sa thải HLV Thomas Frank, chỉ một ngày sau khi thua Newcastle 1-2 và tụt xuống thứ 16 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-11T10:33:54+07:00",
+      "fetched": "2026-02-11T19:44:43.869707+07:00"
+    },
+    {
       "id": "2708164cebba3e2c6aba4209f241199f",
       "title": "Cuộc sống hiện tại của phu nhân hào môn Lê Tư sau khi giải nghệ",
       "link": "https://thanhnien.vn/cuoc-song-hien-tai-cua-phu-nhan-hao-mon-le-tu-sau-khi-giai-nghe-185260211155413043.htm",
@@ -651,6 +1131,16 @@ window.newsData_2026_02_11 = {
       "category": "Tổng hợp",
       "published": "2026-02-11T10:30:00+07:00",
       "fetched": "2026-02-11T17:39:41.132654+07:00"
+    },
+    {
+      "id": "824cb884f23d5caab01cda4208030778",
+      "title": "Bác sĩ khuyến cáo phòng sốt xuất huyết sau khi gặp nhiều ca bệnh nặng",
+      "link": "https://vnexpress.net/bac-si-khuyen-cao-phong-sot-xuat-huyet-sau-khi-gap-nhieu-ca-benh-nang-5039920.html",
+      "summary": "Bác sĩ Hà, 41 tuổi, tiếp nhận nhiều bệnh nhân rơi vào sốc và chuyển nặng sau khi mắc sốt xuất huyết, khuyến cáo không nên xem thường bệnh này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T10:30:00+07:00",
+      "fetched": "2026-02-11T19:44:31.081274+07:00"
     },
     {
       "id": "f8373463a867c42f0cce754895060438",
@@ -1681,6 +2171,16 @@ window.newsData_2026_02_11 = {
       "category": "Kinh doanh",
       "published": "2026-02-11T05:06:57+07:00",
       "fetched": "2026-02-11T13:51:55.812615+07:00"
+    },
+    {
+      "id": "c407f1f1184d9b8a201a0b61b407102a",
+      "title": "Trung tâm tài chính quốc tế TP HCM thu hút hơn 9 tỷ USD sau một tháng vận hành thử",
+      "link": "https://vnexpress.net/trung-tam-tai-chinh-quoc-te-tp-hcm-thu-hut-hon-9-ty-usd-sau-mot-thang-van-hanh-thu-5039924.html",
+      "summary": "Trung tâm tài chính quốc tế Việt Nam tại TP HCM (VIFC-HCMC) vừa chính thức hoạt động sáng nay nhưng đã thu hút hơn 9 tỷ USD sau thời gian vận hành thử.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-11T05:06:57+07:00",
+      "fetched": "2026-02-11T19:44:40.778996+07:00"
     },
     {
       "id": "7cc7098d3fe623e6b90c880bcdd68451",
