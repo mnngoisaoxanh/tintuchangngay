@@ -1,7 +1,157 @@
 window.newsData_2026_02_12 = {
   "date": "2026-02-12",
-  "lastUpdated": "2026-02-12T11:14:42.108328+07:00",
+  "lastUpdated": "2026-02-12T13:51:10.255470+07:00",
   "articles": [
+    {
+      "id": "ec66b4f40478f0b37eb04b94251ad3bb",
+      "title": "Độc đáo đồ trang trí Tết từ gốm, đồ đồng",
+      "link": "https://tuoitre.vn/doc-dao-do-trang-tri-tet-tu-gom-do-dong-20260212085902677.htm",
+      "summary": "Những sản phẩm trang trí Tết được làm từ các làng nghề truyền thống như gốm Phù Lãng, đồng Đại Bái... trở thành lựa chọn của những người hoài niệm Tết xưa với không gian cổ kính và trang nhã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.423321+07:00",
+      "fetched": "2026-02-12T13:51:02.423459+07:00"
+    },
+    {
+      "id": "f8eab71bafad1fc3b155af2a3abcf880",
+      "title": "Sun Group mời Hilton quản lý Yoko Onsen Quang Hanh",
+      "link": "https://tuoitre.vn/sun-group-moi-hilton-quan-ly-yoko-onsen-quang-hanh-20260212111925626.htm",
+      "summary": "Tập đoàn Sun Group vừa công bố bàn giao, chuyển đổi việc vận hành và quản lý khu nghỉ dưỡng Yoko Onsen Quang Hanh sang tập đoàn khách sạn hàng đầu thế giới Hilton, giúp nâng tầm du lịch nghỉ dưỡng 4 mùa tại Quảng Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.423198+07:00",
+      "fetched": "2026-02-12T13:51:02.423310+07:00"
+    },
+    {
+      "id": "50fb5d9fc6d9ad8ea1ba0c92fe1d2a1a",
+      "title": "Hàng trăm nhân viên y tế Cà Mau bị nợ lương, cận Tết vẫn chưa có tiền xoay xở",
+      "link": "https://tuoitre.vn/hang-tram-nhan-vien-y-te-ca-mau-bi-no-luong-can-tet-van-chua-co-tien-xoay-xo-20260212112540746.htm",
+      "summary": "Tết đã cận kề nhưng hàng trăm viên chức, người lao động tại Trung tâm Y tế khu vực Phước Long, tỉnh Cà Mau vẫn chưa được chi trả lương, phụ cấp, tiền trực… làm cho đời sống rơi vào cảnh khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.423073+07:00",
+      "fetched": "2026-02-12T13:51:02.423187+07:00"
+    },
+    {
+      "id": "a1b14712126863a4cdbed67437d4847c",
+      "title": "Ngắm đường hoa nghệ thuật Cần Thơ trước 'giờ G'",
+      "link": "https://tuoitre.vn/ngam-duong-hoa-nghe-thuat-can-tho-truoc-gio-g-20260212105538402.htm",
+      "summary": "Đường hoa nghệ thuật Cần Thơ Tết Nguyên đán Bính Ngọ 2026 sẽ khai mạc tối 27 tháng chạp. Sáng 25 tháng chạp, phóng viên Tuổi Trẻ Online đã theo đoàn kiểm tra ghi nhận nhiều hình ảnh trước \"giờ G'\" của đường hoa này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.422941+07:00",
+      "fetched": "2026-02-12T13:51:02.423061+07:00"
+    },
+    {
+      "id": "d1d60455fe2c4be7ba6f16927fb30a4c",
+      "title": "Ngựa vàng, ngựa bạc Nha Trang tung vó mang tài lộc cho năm mới",
+      "link": "https://tuoitre.vn/ngua-vang-ngua-bac-nha-trang-tung-vo-mang-tai-loc-cho-nam-moi-20260212113926496.htm",
+      "summary": "Linh vật ngựa ở Nha Trang chính thức lộ diện với hình tượng ngựa vàng, ngựa bạc cùng nhiều tiểu cảnh trang trí thu hút du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.422806+07:00",
+      "fetched": "2026-02-12T13:51:02.422929+07:00"
+    },
+    {
+      "id": "30671ccca165ad399b4209fd67ad5852",
+      "title": "Múa lân sư rồng ở Sài Gòn cách đây một thế kỷ từng xuất hiện trên báo Pháp",
+      "link": "https://tuoitre.vn/mua-lan-su-rong-o-sai-gon-cach-day-mot-the-ky-tung-xuat-hien-tren-bao-phap-20260212105010417.htm",
+      "summary": "Nhiều hình ảnh quý về múa lân sư rồng ở Sài Gòn cách đây hơn 100 năm đang được trưng bày tại Bảo tàng TP.HCM đến cuối tháng 3-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.422683+07:00",
+      "fetched": "2026-02-12T13:51:02.422795+07:00"
+    },
+    {
+      "id": "59b647498bd1dfdff7990f7feefa4d43",
+      "title": "Khen thưởng 8 đơn vị Công an Đắk Lắk lập nhiều chiến công xuất sắc",
+      "link": "https://tuoitre.vn/khen-thuong-8-don-vi-cong-an-dak-lak-lap-nhieu-chien-cong-xuat-sac-20260212114553371.htm",
+      "summary": "Công an tỉnh Đắk Lắk vừa tổ chức công bố thư khen và quyết định khen thưởng cho 8 đơn vị có thành tích xuất sắc trong đấu tranh phòng, chống tội phạm, triệt phá nhiều đường dây lừa đảo, ma túy, vũ khí và các vụ án lớn, giữ vững an ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.422559+07:00",
+      "fetched": "2026-02-12T13:51:02.422672+07:00"
+    },
+    {
+      "id": "a952a6e11eeefadecd1e482a3b01fb37",
+      "title": "Có nhà mới Đại đoàn kết, đón Tết ấm cúng",
+      "link": "https://tuoitre.vn/co-nha-moi-dai-doan-ket-don-tet-am-cung-20260212114050075.htm",
+      "summary": "Nhiều hộ dân nghèo ở vùng biên giới Hà Tiên (tỉnh An Giang) có niềm vui đón Tết Nguyên đán Bính Ngọ 2026 trong căn nhà Đại đoàn kết nghĩa tình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.422432+07:00",
+      "fetched": "2026-02-12T13:51:02.422547+07:00"
+    },
+    {
+      "id": "b51d156b181631ab63dde360a4ce3051",
+      "title": "Phương Hồng Thủy diễn kịch Tết 29 anh về",
+      "link": "https://tuoitre.vn/phuong-hong-thuy-dien-kich-tet-29-anh-ve-20260212102941798.htm",
+      "summary": "Nghệ sĩ cải lương Phương Hồng Thủy đã từ Mỹ về nước sớm để tập cùng các nghệ sĩ Hoàng Thái Thanh, chuẩn bị cho sự ra mắt của vở kịch Tết 29 anh về phiên bản 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.422286+07:00",
+      "fetched": "2026-02-12T13:51:02.422419+07:00"
+    },
+    {
+      "id": "ba8717d9a5d979fbd977e71e76725f7c",
+      "title": "'300.000 đồng sẽ giúp em có một tuần dễ thở' của buitruonglinh",
+      "link": "https://tuoitre.vn/300-000-dong-se-giup-em-co-mot-tuan-de-tho-cua-buitruonglinh-20260212105414604.htm",
+      "summary": "Chia sẻ về '300.000 đồng sẽ giúp em có một tuần dễ thở' của buitruonglinh tại chương trình Sóng 26 đang lan tỏa mạnh mẽ trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.422161+07:00",
+      "fetched": "2026-02-12T13:51:02.422275+07:00"
+    },
+    {
+      "id": "858b27c3506f9f653c09e76805be91a9",
+      "title": "Từ 13-2, Cần Thơ thí điểm cấm xe tải, xe rơ moóc nhiều tuyến đường, hạn chế ùn tắc",
+      "link": "https://tuoitre.vn/tu-13-2-can-tho-thi-diem-cam-xe-tai-xe-ro-mooc-nhieu-tuyen-duong-han-che-un-tac-20260212120055981.htm",
+      "summary": "Từ ngày mai (13-2) Cần Thơ thí điểm cấm xe tải, xe rơ moóc lưu thông ở nhiều tuyến đường trong những khung giờ nhất định để hạn chế ùn ứ, kẹt xe. Đó là những tuyến đường nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.422038+07:00",
+      "fetched": "2026-02-12T13:51:02.422150+07:00"
+    },
+    {
+      "id": "96b255ed1feb3a2d9a1af42d6e47ac61",
+      "title": "Hơn 8.000 người lao động về quê ăn Tết trên những chuyến tàu xe miễn phí",
+      "link": "https://tuoitre.vn/hon-8-000-nguoi-lao-dong-ve-que-an-tet-tren-nhung-chuyen-tau-xe-mien-phi-20260212120859205.htm",
+      "summary": "Sáng 12-2, những chuyến xe nối đuôi nhau rời TP.HCM, đưa hơn 3.000 công nhân, người lao động về quê đón Tết. Tại điểm khởi hành Cung văn hóa Lao động, lãnh đạo TP.HCM đã có mặt từ sớm để tiễn công nhân lên đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.421910+07:00",
+      "fetched": "2026-02-12T13:51:02.422026+07:00"
+    },
+    {
+      "id": "f88eddb066ba617e5b9d9c7b97d3eea6",
+      "title": "'Bắp cải chú bộ đội' vào resort, nhà hàng hạng sang, dân lùng mua ăn Tết",
+      "link": "https://tuoitre.vn/bap-cai-chu-bo-doi-vao-resort-nha-hang-hang-sang-dan-lung-mua-an-tet-20260212121938772.htm",
+      "summary": "Một trang trại tăng gia của bộ đội Trường Quân sự Quân khu 5 (Đà Nẵng) bỗng 'nổi rần rần' trên mạng xã hội với những trái bắp xanh mướt, đảm bảo sạch 100% và được người dân chia nhau bán để 'ủng hộ chú bộ đội'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.421778+07:00",
+      "fetched": "2026-02-12T13:51:02.421898+07:00"
+    },
+    {
+      "id": "fdd2da502605c692a0162ba53bda3acd",
+      "title": "'Lộ diện' 167 dự án năng lượng tái tạo hưởng giá FIT, Bộ Công Thương yêu cầu rà soát xử lý",
+      "link": "https://tuoitre.vn/lo-dien-167-du-an-nang-luong-tai-tao-huong-gia-fit-bo-cong-thuong-yeu-cau-ra-soat-xu-ly-20260212122512573.htm",
+      "summary": "Bộ Công Thương vừa có văn bản gửi UBND các tỉnh, thành phố về việc thực hiện nghị quyết của Chính phủ trong việc tháo gỡ vướng mắc cho các dự án tồn đọng kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.421637+07:00",
+      "fetched": "2026-02-12T13:51:02.421765+07:00"
+    },
+    {
+      "id": "27f994fa185b0fb7e1ecbb325fc1ad16",
+      "title": "Lãnh đạo TP.HCM thăm, chúc Tết Hiệp sĩ Đại Thánh giá Lê Đức Thịnh và GS Hồ Sỹ Thoảng",
+      "link": "https://tuoitre.vn/lanh-dao-tp-hcm-tham-chuc-tet-hiep-si-dai-thanh-gia-le-duc-thinh-va-gs-ho-sy-thoang-2026021212130788.htm",
+      "summary": "Nhân dịp xuân Bính Ngọ 2026, Phó bí thư Thường trực Thành ủy TP.HCM Lê Quốc Phong đến thăm, chúc Tết Hiệp sĩ Đại Thánh giá Lê Đức Thịnh và GS.TSKH Hồ Sỹ Thoảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:51:02.421416+07:00",
+      "fetched": "2026-02-12T13:51:02.421622+07:00"
+    },
     {
       "id": "a9785ad0d2bb7eb2d3b52a98fd431f94",
       "title": "VinFast đồng hành cùng Đại học Duy Tân đào tạo kỹ sư Ô tô điện",
@@ -253,6 +403,366 @@ window.newsData_2026_02_12 = {
       "fetched": "2026-02-12T08:16:18.889032+07:00"
     },
     {
+      "id": "6008c0a219c73630d0379b853fdd3283",
+      "title": "Cuộc đua vô địch V-League vẫn khốc liệt: CLB CAHN nắm lợi thế lớn, Nam Định hết sạch cơ hội",
+      "link": "https://thanhnien.vn/cuoc-dua-vo-dich-v-league-van-khoc-liet-clb-cahn-nam-loi-the-lon-nam-dinh-het-sach-co-hoi-185260212133524229.htm",
+      "summary": "Kết thúc lượt đi, CLB Công an Hà Nội (CAHN) đang tạm chiếm ưu thế lớn trên bảng xếp hạng V-League nhờ phong độ ổn định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:48:00+07:00",
+      "fetched": "2026-02-12T13:51:01.484204+07:00"
+    },
+    {
+      "id": "1e091205a9af9be6e1e7bb4c81827b39",
+      "title": "Đà Nẵng ban hành kế hoạch 'khai tử' các phòng công chứng",
+      "link": "https://thanhnien.vn/da-nang-ban-hanh-ke-hoach-khai-tu-cac-phong-cong-chung-185260212111716474.htm",
+      "summary": "UBND thành phố Đà Nẵng vừa chính thức ban hành kế hoạch chuyển đổi và giải thể hệ thống các phòng công chứng trên địa bàn thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:47:00+07:00",
+      "fetched": "2026-02-12T13:51:01.484417+07:00"
+    },
+    {
+      "id": "a9f22eed1f26797818f84f96e0b2eb91",
+      "title": "Linh vật ngựa gây sốt ở thành phố Cảng",
+      "link": "https://thanhnien.vn/linh-vat-ngua-gay-sot-o-thanh-pho-cang-18526021212525719.htm",
+      "summary": "TP.Hải Phòng khoác áo xuân với hàng loạt điểm trang trí hoa, tiểu cảnh và linh vật ngựa nổi bật tại khu đô thị Bắc sông Cấm, tạo diện mạo rực rỡ, lan tỏa không khí đón năm mới Bính Ngọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:46:00+07:00",
+      "fetched": "2026-02-12T13:51:01.484583+07:00"
+    },
+    {
+      "id": "82efc3b020f19f14807b4f92432a4f70",
+      "title": "Thụt dầu 300 cái, thiếu niên tổn thương gan nặng",
+      "link": "https://vnexpress.net/thut-dau-300-cai-thieu-nien-ton-thuong-gan-nang-5040420.html",
+      "summary": "Sau khi thực hiện 300 cái thụt dầu, nam thiếu niên 15 tuổi cấp cứu trong tình trạng đau liệt hai chân, nước tiểu đỏ sẫm do hội chứng hủy cơ vân và tổn thương gan cấp tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:43:29+07:00",
+      "fetched": "2026-02-12T13:50:58.044198+07:00"
+    },
+    {
+      "id": "bd037c9c44f586ee17c355aff8ae6740",
+      "title": "Đà Nẵng kiểm soát chặt xe khách kém an toàn, xe giường nằm 2 tầng",
+      "link": "https://thanhnien.vn/da-nang-kiem-soat-chat-xe-khach-kem-an-toan-xe-giuong-nam-2-tang-185260212122946807.htm",
+      "summary": "Nhằm đảm bảo an toàn tuyệt đối cho người dân trong dịp cao điểm Tết Nguyên đán 2026, thành phố Đà Nẵng chính thức ra quân tổng kiểm soát hoạt động vận tải; trong đó, giám sát chặt chẽ xe giường nằm 2 tầng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:36:00+07:00",
+      "fetched": "2026-02-12T13:51:01.484739+07:00"
+    },
+    {
+      "id": "37706b5814c83a95e08619ce95a50d83",
+      "title": "BYD mở rộng 'cuộc chơi' hybrid tại thị trường Việt Nam",
+      "link": "https://vnexpress.net/byd-mo-rong-cuoc-choi-hybrid-tai-thi-truong-viet-nam-5040402.html",
+      "summary": "Từ nền tảng DM-i Super Hybrid, BYD Việt Nam mở rộng dòng hybrid cắm sạc ngoài, kỳ vọng tạo đà tăng trưởng, nhận diện thương hiệu trong năm tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:30:00+07:00",
+      "fetched": "2026-02-12T13:50:58.044395+07:00"
+    },
+    {
+      "id": "0da26a1ebf28a0754e8cbe81e62ac82a",
+      "title": "Chi tiền nhờ người lạ mắng mỏ để hết lụy tình",
+      "link": "https://vnexpress.net/chi-tien-nho-nguoi-la-mang-mo-de-het-luy-tinh-5040324.html",
+      "summary": "Thay vì tìm lời an ủi, nhiều người trẻ lụy tình đang trả tiền cho các dịch vụ trực tuyến để \"bị mắng cho sáng mắt\", coi đây là cách duy nhất giúp dứt khoát chia tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:27:00+07:00",
+      "fetched": "2026-02-12T13:50:58.044561+07:00"
+    },
+    {
+      "id": "9413d5858adec8cad9c7c9b8a94f84ca",
+      "title": "Hội hoa xuân TP.HCM trước giờ mở cửa: Linh vật, vườn ngựa, kiểng tiền tỉ đã sẵn sàng",
+      "link": "https://thanhnien.vn/hoi-hoa-xuan-tphcm-truoc-gio-mo-cua-linh-vat-vuon-ngua-kieng-tien-ti-da-san-sang-185260212130357243.htm",
+      "summary": "Trước giờ khai mạc, Hội hoa xuân TP.HCM 2026 tại công viên Tao Đàn đã hoàn thiện các đại cảnh, linh vật ngựa, vườn ngựa và hàng ngàn chậu hoa kiểng độc đáo, sẵn sàng đón người dân du xuân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:24:00+07:00",
+      "fetched": "2026-02-12T13:51:01.484892+07:00"
+    },
+    {
+      "id": "62c6cf83d0c1e8eb6caa0204122bf53e",
+      "title": "Hà Thanh Xuân hóa 'nàng thơ', tiết lộ kế hoạch đón tết",
+      "link": "https://thanhnien.vn/ha-thanh-xuan-hoa-nang-tho-tiet-lo-ke-hoach-don-tet-185260212082854473.htm",
+      "summary": "Thực hiện bộ ảnh áo dài tại những địa điểm quen thuộc ở Hà Nội, Hà Thanh Xuân khiến nhiều người xuýt xoa bởi nhan sắc trẻ trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:24:00+07:00",
+      "fetched": "2026-02-12T13:51:01.485041+07:00"
+    },
+    {
+      "id": "2767bf4b5eb9da3aacc9e075e3ef03ad",
+      "title": "Bắt khẩn cấp người đàn ông lái Bentley hung hăng đánh người sau va chạm giao thông",
+      "link": "https://thanhnien.vn/bat-khan-cap-nguoi-dan-ong-lai-bentley-hung-hang-danh-nguoi-sau-va-cham-giao-thong-185260212131002551.htm",
+      "summary": "Công an TP.HCM đã ra lệnh bắt khẩn cấp người đàn ông lái ô tô Bentley có hành động hung hăng, đuổi đánh người đi đường sau va chạm giao thông tại giao lộ Nguyễn Trãi - Nguyễn Văn Tráng (phường Bến Thành).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:22:00+07:00",
+      "fetched": "2026-02-12T13:51:01.485190+07:00"
+    },
+    {
+      "id": "7bb248ef7eb7d33e069832886f97d39e",
+      "title": "Chưa đầy 5 giờ, Công an TP.HCM bắt giữ nghi phạm cướp giật tiệm vàng",
+      "link": "https://thanhnien.vn/chua-day-5-gio-cong-an-tphcm-bat-giu-nghi-pham-cuop-giat-tiem-vang-185260212125122218.htm",
+      "summary": "Dù đã lên sẵn kịch bản đối phó, song chưa đầy 5 giờ gây án, nghi phạm cướp giật tiệm vàng ở xã Hiệp Phước đã bị Công an TP.HCM bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:15:00+07:00",
+      "fetched": "2026-02-12T13:51:01.485339+07:00"
+    },
+    {
+      "id": "c3ab33952beeb9dbc0412ddcdd341875",
+      "title": "Hàng chục cảnh sát truy vết kẻ cướp vàng trên tay chủ tiệm",
+      "link": "https://vnexpress.net/hang-chuc-canh-sat-truy-vet-ke-cuop-vang-tren-tay-chu-tiem-5040413.html",
+      "summary": "Cướp nhẫn 2 chỉ vàng, Nguyễn Thanh Hùng tháo chạy qua vườn dừa, nhà dân, nhưng bị hàng chục cảnh sát truy vết bắt giữ khi đang chơi ma túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:08:31+07:00",
+      "fetched": "2026-02-12T13:50:58.044720+07:00"
+    },
+    {
+      "id": "92f0ef2b1e93dd08a82b23dfc3a5248b",
+      "title": "Thủ tướng viếng nguyên Phó chủ tịch Hội đồng Bộ trưởng Đoàn Duy Thành",
+      "link": "https://vnexpress.net/thu-tuong-vieng-nguyen-pho-chu-tich-hoi-dong-bo-truong-doan-duy-thanh-5040399.html",
+      "summary": "Sáng 12/2, Thủ tướng Phạm Minh Chính dẫn đầu đoàn đại biểu Ban Chấp hành Trung ương Đảng đến viếng nguyên Phó chủ tịch Hội đồng Bộ trưởng Đoàn Duy Thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:04:05+07:00",
+      "fetched": "2026-02-12T13:50:58.044883+07:00"
+    },
+    {
+      "id": "0381d25145faf8b15d4f7502faf1c9c5",
+      "title": "Nghệ sĩ tặng quà, lì xì người khó khăn",
+      "link": "https://vnexpress.net/nghe-si-tang-qua-li-xi-nguoi-kho-khan-5040248.html",
+      "summary": "Ca sĩ Mỹ Tâm tặng 1.000 phần quà cho nhiều hoàn cảnh khó khăn, còn Hà Anh Tuấn thăm hỏi, lì xì các bệnh nhi dịp Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:02:19+07:00",
+      "fetched": "2026-02-12T13:50:58.045045+07:00"
+    },
+    {
+      "id": "22cdc033f3587aa93746027d0a6fc481",
+      "title": "Xưởng sản xuất hàng nghìn tấn muối I ốt giả bị phát hiện",
+      "link": "https://vnexpress.net/xuong-san-xuat-hang-nghin-tan-muoi-i-ot-gia-bi-phat-hien-5040365.html",
+      "summary": "Bà Văn Thị Ơn, Giám đốc Công ty TNHH Kiều Hưng, bị cáo buộc chỉ đạo công nhân trộn một gói I ốt với 3-5 tấn muối, bán ra thị trường hàng nghìn tấn muối I ốt giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:00:10+07:00",
+      "fetched": "2026-02-12T13:50:58.045200+07:00"
+    },
+    {
+      "id": "4e87c30752400eaf836bdecb0843ae6d",
+      "title": "Vợ không cho bố con tôi về Tết nhà nội sớm",
+      "link": "https://vnexpress.net/vo-khong-cho-bo-con-toi-ve-tet-nha-noi-som-5040382.html",
+      "summary": "Gần 10 năm qua, việc tôi phụ giúp gia đình dọn dẹp, cúng cơm hay tảo mộ bên nội đều rất hạn chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:00:00+07:00",
+      "fetched": "2026-02-12T13:50:58.045375+07:00"
+    },
+    {
+      "id": "b5a0ebf8fad9cfe08f87b0ca2c6d0725",
+      "title": "5 lưu ý cho mẹ bầu cận sinh dịp Tết",
+      "link": "https://vnexpress.net/5-luu-y-cho-me-bau-can-sinh-dip-tet-5040299.html",
+      "summary": "Lên kế hoạch sinh nở chi tiết, không đi chơi xa, chú ý chế độ ăn uống, giữ liên lạc với bác sĩ giúp mẹ bầu yên tâm vượt cạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:00:00+07:00",
+      "fetched": "2026-02-12T13:50:58.045552+07:00"
+    },
+    {
+      "id": "9b2bd74e4fd70a7ba9c6af1fe26e42e6",
+      "title": "Mổ bắc cầu mạch vành trong lúc tim cụ ông vẫn đập",
+      "link": "https://vnexpress.net/mo-bac-cau-mach-vanh-trong-luc-tim-cu-ong-van-dap-5040212.html",
+      "summary": "Ông Hải, 78 tuổi, nhồi máu cơ tim nhưng không thể đặt stent, được bác sĩ phẫu thuật bắc cầu mạch vành khi tim vẫn đập để giảm nguy cơ biến chứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:00:00+07:00",
+      "fetched": "2026-02-12T13:50:58.045713+07:00"
+    },
+    {
+      "id": "3e657937d3ec716287570b269f5bc9bc",
+      "title": "Thể thao Việt Nam sẽ là 'ngựa ô' ở ASIAD 2026?",
+      "link": "https://thanhnien.vn/the-thao-viet-nam-se-la-ngua-o-o-asiad-2026-185260211194117516.htm",
+      "summary": "Gặp nhiều thách thức nhưng thể thao VN hứa hẹn sẽ như 'chú ngựa ô' tung vó ở đấu trường ASIAD 20 diễn ra tại Aichi - Nagoya (Nhật Bản).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T06:00:00+07:00",
+      "fetched": "2026-02-12T13:51:01.485509+07:00"
+    },
+    {
+      "id": "57f3342fdba674ba8e4b1d9b9c4f2127",
+      "title": "Cua Cà Mau nặng 1,82 kg lập kỷ lục Việt Nam",
+      "link": "https://thanhnien.vn/cua-ca-mau-nang-182-kg-lap-ky-luc-viet-nam-185260212120616986.htm",
+      "summary": "Một con cua Cà Mau nặng 1,82 kg của doanh nghiệp địa phương vừa được xác lập kỷ lục Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T05:54:00+07:00",
+      "fetched": "2026-02-12T13:51:01.485665+07:00"
+    },
+    {
+      "id": "baeba01177ccb788820adbf2b8c8afc4",
+      "title": "Cà Mau chấp thuận dự án nhà ở xã hội hơn 545 tỉ, quy mô 750 căn",
+      "link": "https://thanhnien.vn/ca-mau-chap-thuan-du-an-nha-o-xa-hoi-hon-545-ti-quy-mo-750-can-185260212122804705.htm",
+      "summary": "UBND tỉnh Cà Mau vừa chấp thuận chủ trương đầu tư dự án nhà ở xã hội Á Đông Xanh tại phường Hòa Thành, quy mô khoảng 750 căn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T05:53:00+07:00",
+      "fetched": "2026-02-12T13:51:01.485819+07:00"
+    },
+    {
+      "id": "cad0ed1d7846fdd6da757a6b503d0cd3",
+      "title": "‘Tết này để con’: Khoảnh khắc người trẻ lặng lẽ bước qua ranh giới trưởng thành",
+      "link": "https://thanhnien.vn/tet-nay-de-con-khoanh-khac-nguoi-tre-lang-le-buoc-qua-ranh-gioi-truong-thanh-185260212125935493.htm",
+      "summary": "Có những cột mốc trưởng thành không đến từ một quyết định lớn, mà đến từ một việc rất đời: Lần đầu tự tay mua quà tết cho gia đình. Trong khoảnh khắc ấy, nhiều người trẻ không nói nhiều, nhưng hành động lại nói thay tất cả - 'con đã lớn, con lo được rồi'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T05:52:00+07:00",
+      "fetched": "2026-02-12T13:51:01.485969+07:00"
+    },
+    {
+      "id": "89687586bcfa10ff30dcc3b459d9a3c5",
+      "title": "Sun Group khai trương công viên nước bên biển Vũng Tàu",
+      "link": "https://thanhnien.vn/sun-group-khai-truong-cong-vien-nuoc-ben-bien-vung-tau-185260212123534408.htm",
+      "summary": "Tập đoàn Sun Group khai trương công viên nước Sun World Vũng Tàu Aqua Adventure. Công viên này chính thức xác lập 2 kỷ lục do Tổ chức liên minh kỷ lục thế giới WorldKings ghi nhận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T05:52:00+07:00",
+      "fetched": "2026-02-12T13:51:01.486116+07:00"
+    },
+    {
+      "id": "a3b40fbe9757d730ee0a764e55424efe",
+      "title": "Song Mino (WINNER) đối mặt án tù 3 năm vì 102 ngày vắng mặt khi nhập ngũ",
+      "link": "https://thanhnien.vn/song-mino-winner-doi-mat-an-tu-3-nam-vi-102-ngay-vang-mat-khi-nhap-ngu-185260212112343399.htm",
+      "summary": "Công tố viên Hàn Quốc cho biết thành viên nhóm WINNER - Song Mino bị cáo buộc vắng mặt tổng cộng 102 ngày trong thời gian thực hiện nghĩa vụ công ích, đồng thời có dấu hiệu thông đồng với người quản lý trực tiếp. Phiên tòa xét xử sơ thẩm dự kiến diễn ra vào ngày 21.4 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T05:50:00+07:00",
+      "fetched": "2026-02-12T13:51:01.486270+07:00"
+    },
+    {
+      "id": "96b4365be4b982142fe4b4fb60825eb7",
+      "title": "Du khách đổ về Cần Giờ vui xuân, check-in mai đào",
+      "link": "https://thanhnien.vn/xu-khach-do-ve-can-gio-vui-xuan-check-in-mai-dao-18526021212442267.htm",
+      "summary": "Ngày 25 tháng chạp, hàng nghìn người dân và du khách từ trung tâm TP.HCM đổ về Cần Giờ để vui xuân, tận hưởng không khí mát mẻ từ làn gió biển và hòa mình vào không gian lễ hội rộn ràng tại đại công trường Vinhomes Green Paradise Cần Giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T05:49:00+07:00",
+      "fetched": "2026-02-12T13:51:01.486447+07:00"
+    },
+    {
+      "id": "0c737d843a1a76cdfb49f7cb598be808",
+      "title": "Tài xế xe Bentley bị bắt sau vụ đuổi đánh người ở TP HCM",
+      "link": "https://vnexpress.net/tai-xe-xe-bentley-bi-bat-sau-vu-duoi-danh-nguoi-o-tp-hcm-5040410.html",
+      "summary": "Mã Thanh - tài xế xe Bentley, và bạn là Ngô Duy Đông bị cáo buộc gây mất an ninh trật tự, khi đuổi đánh người sau va chạm giao thông ở trung tâm thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T05:43:59+07:00",
+      "fetched": "2026-02-12T13:50:58.045871+07:00"
+    },
+    {
+      "id": "e3a6e3e85ed2c4b3922091c016ed19a4",
+      "title": "Cựu đại tá Mỹ bị phạt tù vì gửi tài liệu mật để tán tỉnh phụ nữ",
+      "link": "https://vnexpress.net/cuu-dai-ta-my-bi-phat-tu-vi-gui-tai-lieu-mat-de-tan-tinh-phu-nu-5040373.html",
+      "summary": "Cựu đại tá lục quân Kevin Charles Luke, 62 tuổi, cố gắng gây ấn tượng với một phụ nữ quen qua mạng bằng cách gửi kế hoạch tác chiến tuyệt mật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T05:27:58+07:00",
+      "fetched": "2026-02-12T13:50:58.046022+07:00"
+    },
+    {
+      "id": "6672f340b708ee4a805b9bd96a8e1853",
+      "title": "Giám đốc Công ty khoáng sản Hucera bị bắt",
+      "link": "https://vnexpress.net/giam-doc-cong-ty-khoang-san-hucera-bi-bat-5040380.html",
+      "summary": "Ông Trần Hải Sinh, Giám đốc Công ty TNHH Khai thác và Chế biến khoáng sản Hucera, cùng đồng phạm bị cáo buộc khai thác trái phép cao lanh trị giá 9 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T05:26:20+07:00",
+      "fetched": "2026-02-12T13:50:58.046183+07:00"
+    },
+    {
+      "id": "9d76412ce51c35800b9a663dede402d0",
+      "title": "Giá tăng gấp đôi vẫn khó gọi xe những ngày cận Tết",
+      "link": "https://vnexpress.net/gia-tang-gap-doi-van-kho-goi-xe-nhung-ngay-can-tet-5040347.html",
+      "summary": "Người dùng chấp nhận trả tiền gấp đôi, nhưng vẫn khó đặt xe công nghệ cận Tết, trong khi nhiều hàng quán thuê riêng shipper để phục vụ khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T05:07:30+07:00",
+      "fetched": "2026-02-12T13:50:58.046335+07:00"
+    },
+    {
+      "id": "9d76412ce51c35800b9a663dede402d0",
+      "title": "Giá tăng gấp đôi vẫn khó gọi xe những ngày cận Tết",
+      "link": "https://vnexpress.net/gia-tang-gap-doi-van-kho-goi-xe-nhung-ngay-can-tet-5040347.html",
+      "summary": "Người dùng chấp nhận trả tiền gấp đôi, nhưng vẫn khó đặt xe công nghệ cận Tết, trong khi nhiều hàng quán thuê riêng shipper để phục vụ khách hàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-12T05:07:30+07:00",
+      "fetched": "2026-02-12T13:51:05.823420+07:00"
+    },
+    {
+      "id": "ac52f6d9ae23bd8ac353a231788bd49d",
+      "title": "Sun Group hợp tác Hilton vận hành Yoko Onsen Quang Hanh",
+      "link": "https://vnexpress.net/sun-group-hop-tac-hilton-van-hanh-yoko-onsen-quang-hanh-5040124.html",
+      "summary": "Sun Group bàn giao, chuyển đổi vận hành và quản lý khu nghỉ dưỡng Yoko Onsen Quang Hanh sang Hilton nhằm nâng tầm du lịch bốn mùa tại Quảng Ninh, ngày 12/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T05:00:43+07:00",
+      "fetched": "2026-02-12T13:50:58.046507+07:00"
+    },
+    {
+      "id": "915c86803e7938e826d40943fc6ae245",
+      "title": "Bục trao giải Olympic mùa Đông làm hỏng giày VĐV",
+      "link": "https://vnexpress.net/buc-trao-giai-olympic-mua-dong-lam-hong-giay-vdv-5040232.html",
+      "summary": "Các VĐV trượt băng nghệ thuật khiếu nại khi bề mặt bục trao giải tại Thế vận hội Milano-Cortina gây hư hại phần lưỡi giày của họ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-12T05:00:00+07:00",
+      "fetched": "2026-02-12T13:51:10.248048+07:00"
+    },
+    {
+      "id": "4f47beb250831be03f8bb4c2bdbd974d",
+      "title": "Djokovic bị chỉ trích vô học",
+      "link": "https://vnexpress.net/djokovic-bi-chi-trich-vo-hoc-5040249.html",
+      "summary": "Quan điểm chính trị khác biệt khiến Novak Djokovic trở thành mục tiêu công kích của cựu Phó Thủ tướng Serbia Zorana Mihajlovic.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-12T05:00:00+07:00",
+      "fetched": "2026-02-12T13:51:10.248581+07:00"
+    },
+    {
+      "id": "f9342e3190a678caf69b4ac5943d5fe0",
+      "title": "ZenBook 14 2026 - laptop AI có màn hình OLED, pin lâu",
+      "link": "https://vnexpress.net/zenbook-14-2026-laptop-ai-co-man-hinh-oled-pin-lau-5040129.html",
+      "summary": "Asus Zenbook 14 là laptop đầu tiên dùng chip AI mới AMD Ryzen 7 445, bên cạnh trang bị đáng chú ý là màn hình OLED, pin dung lượng cao 75 Wh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-12T04:45:06+07:00",
+      "fetched": "2026-02-12T13:51:09.263274+07:00"
+    },
+    {
+      "id": "95a70b243ac88db7383f6eaa3904e7c6",
+      "title": "Trận đấu bị lùi vì Messi",
+      "link": "https://vnexpress.net/tran-dau-bi-lui-vi-messi-5040236.html",
+      "summary": "Chấn thương của Lionel Messi khiến Inter Miami phải lùi trận giao hữu với Independiente del Valle.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-12T04:19:33+07:00",
+      "fetched": "2026-02-12T13:51:10.248740+07:00"
+    },
+    {
+      "id": "a0fad650b527029b426b4323e1c0669d",
+      "title": "Lần đầu giao hàng vượt biển bằng UAV ở Việt Nam",
+      "link": "https://vnexpress.net/lan-dau-giao-hang-vuot-bien-bang-uav-o-viet-nam-5040360.html",
+      "summary": "Bưu kiện từ xã Cần Giờ có thể được giao tới phường Vũng Tàu trong 15 phút, thay vì hơn một tiếng, nhờ tuyến giao hàng vượt biển dài hơn 12 km đầu tiên bằng thiết bị bay UAV tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-12T04:14:58+07:00",
+      "fetched": "2026-02-12T13:51:09.262776+07:00"
+    },
+    {
       "id": "d8f9e32eca6730543381d257e21e8e7e",
       "title": "Hoạt động chuyển đổi xanh gia tăng, nhu cầu tiêu thụ khí thiên nhiên khởi sắc",
       "link": "https://thanhnien.vn/hoat-dong-chuyen-doi-xanh-gia-tang-nhu-cau-tieu-thu-khi-thien-nhien-khoi-sac-185260212094348445.htm",
@@ -271,6 +781,16 @@ window.newsData_2026_02_12 = {
       "category": "Tổng hợp",
       "published": "2026-02-12T04:07:00+07:00",
       "fetched": "2026-02-12T11:14:32.527590+07:00"
+    },
+    {
+      "id": "744a4fbc594ec6c02d7e13772dd31ac0",
+      "title": "Viện trợ của Mỹ cho Ukraine đã giảm 99%",
+      "link": "https://vnexpress.net/vien-tro-cua-my-cho-ukraine-da-giam-99-5040241.html",
+      "summary": "Viện nghiên cứu Đức cho biết viện trợ của Mỹ dành cho Ukraine trong năm 2025 đã giảm khoảng 99% so với trung bình giai đoạn 2022-2024.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-12T04:00:25+07:00",
+      "fetched": "2026-02-12T13:51:04.275333+07:00"
     },
     {
       "id": "ce8c1e6b22017d07b20e8f53285fe420",
@@ -301,6 +821,16 @@ window.newsData_2026_02_12 = {
       "category": "Kinh doanh",
       "published": "2026-02-12T03:57:58+07:00",
       "fetched": "2026-02-12T11:14:37.558192+07:00"
+    },
+    {
+      "id": "9d300e595366d0832a8e8b80bc95bec4",
+      "title": "Những 'kẻ lụy tình' sẵn sàng trả tiền để được nghe mắng",
+      "link": "https://vnexpress.net/nhung-ke-luy-tinh-san-sang-tra-tien-de-duoc-nghe-mang-5040259.html",
+      "summary": "Nhiều thanh niên bị tình yêu ám ảnh sẵn sàng trả tiền cho \"người có tầm ảnh hưởng\" mắng mỏ công khai để giải tỏa cảm xúc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-12T03:52:59+07:00",
+      "fetched": "2026-02-12T13:51:04.275532+07:00"
     },
     {
       "id": "1bcecef8ce71189ec57051841f6bc1a3",
@@ -351,6 +881,16 @@ window.newsData_2026_02_12 = {
       "category": "Tổng hợp",
       "published": "2026-02-12T03:37:00+07:00",
       "fetched": "2026-02-12T11:14:32.528717+07:00"
+    },
+    {
+      "id": "ad5454c372e92ed1898776a9b0aa925e",
+      "title": "Loạt nghị sĩ Cộng hòa chống lại đòn thuế của ông Trump với Canada",
+      "link": "https://vnexpress.net/loat-nghi-si-cong-hoa-chong-lai-don-thue-cua-ong-trump-voi-canada-5040263.html",
+      "summary": "Loạt nghị sĩ Cộng hòa tại Hạ viện ủng hộ phe Dân chủ để thông qua nghị quyết bác bỏ các mức thuế quan ông Trump áp với Canada.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-12T03:36:27+07:00",
+      "fetched": "2026-02-12T13:51:04.275696+07:00"
     },
     {
       "id": "d59c19a30a7948218b5be1ad2ab032f0",
