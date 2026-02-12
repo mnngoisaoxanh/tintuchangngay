@@ -1,7 +1,17 @@
 window.newsData_2026_02_13 = {
   "date": "2026-02-13",
-  "lastUpdated": "2026-02-13T01:49:19.879856+07:00",
+  "lastUpdated": "2026-02-13T03:24:26.267139+07:00",
   "articles": [
+    {
+      "id": "8d1b304ab6db17b9fd71762a2ae1bdf2",
+      "title": "Chưa khai trương, đường hoa Đà Nẵng đã hút khách đến check-in",
+      "link": "https://tuoitre.vn/chua-khai-truong-duong-hoa-da-nang-da-hut-khach-den-check-in-20260213002150776.htm",
+      "summary": "Dù chưa chính thức mở cửa, đường hoa Tết tại trung tâm TP Đà Nẵng đang trở thành điểm hẹn check-in của người dân và du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-13T03:24:20.311470+07:00",
+      "fetched": "2026-02-13T03:24:20.311674+07:00"
+    },
     {
       "id": "20e21a28fcee6d1c3509b5999bd27f5c",
       "title": "Nhà đầu tư Thái Lan, Nhật Bản quan tâm 'thâu tóm' thị trường tiêu dùng Việt Nam",
@@ -151,6 +161,16 @@ window.newsData_2026_02_13 = {
       "category": "Tổng hợp",
       "published": "2026-02-13T01:49:11.242807+07:00",
       "fetched": "2026-02-13T01:49:11.243036+07:00"
+    },
+    {
+      "id": "b56249da6e12dae84f3d00d9e915b21f",
+      "title": "Những món ăn mang lại sức khỏe, vận may đầu năm",
+      "link": "https://vnexpress.net/nhung-mon-an-mang-lai-suc-khoe-van-may-dau-nam-5040311.html",
+      "summary": "Bánh chưng, bánh tét, canh khổ qua, thịt kho tàu, dưa hành, gà luộc và bắp luộc là những món ăn mang lại sức khỏe, vận may đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T19:00:00+07:00",
+      "fetched": "2026-02-13T03:24:16.246877+07:00"
     },
     {
       "id": "4d814d8e4c8e3dcc8f35dc9a150cecb2",
