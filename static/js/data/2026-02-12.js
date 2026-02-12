@@ -1,7 +1,157 @@
 window.newsData_2026_02_12 = {
   "date": "2026-02-12",
-  "lastUpdated": "2026-02-12T13:51:10.255470+07:00",
+  "lastUpdated": "2026-02-12T15:35:26.797836+07:00",
   "articles": [
+    {
+      "id": "8192d463571db7a66ad8f2c5b39a07bc",
+      "title": "Thầy trò hạnh ngộ ngày Tết: Chỉ một lời chúc cũng đủ làm dịu cả năm dài",
+      "link": "https://tuoitre.vn/thay-tro-hanh-ngo-ngay-tet-chi-mot-loi-chuc-cung-du-lam-diu-ca-nam-dai-20260212084642217.htm",
+      "summary": "Trong tinh thần tôn sư trọng đạo của người Việt, đoàn viên ngày Tết còn là dịp thầy trò hạnh ngộ để bày tỏ lòng biết ơn với những người đã dạy mình nên người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.056652+07:00",
+      "fetched": "2026-02-12T15:35:19.056766+07:00"
+    },
+    {
+      "id": "49c1d3d797e75e61672b17cb02267901",
+      "title": "Nữ ‘quan chức influencer’ Trung Quốc qua đời vì ngã ngựa khi quay quảng cáo",
+      "link": "https://tuoitre.vn/nu-quan-chuc-influencer-trung-quoc-qua-doi-vi-nga-ngua-khi-quay-quang-cao-20260212133148496.htm",
+      "summary": "Cái chết thương tâm của bà làm dấy lên câu hỏi về hiện tượng quan chức Trung Quốc ‘đua nhau’ làm influencer.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.056509+07:00",
+      "fetched": "2026-02-12T15:35:19.056639+07:00"
+    },
+    {
+      "id": "5b2bb3b44c32969fcea00d6da62077af",
+      "title": "Chủ ô tô bị tống tiền bằng video AI giả cảnh phá xe",
+      "link": "https://tuoitre.vn/chu-o-to-bi-tong-tien-bang-video-ai-gia-canh-pha-xe-20260212122722127.htm",
+      "summary": "Cảnh sát Mỹ cảnh báo thủ đoạn lừa đảo mới: kẻ gian gửi video AI giả cảnh xe của nạn nhân bị tấn công rồi đòi tiền chuộc. Cơ quan chức năng khuyến cáo không chuyển tiền, không phản hồi tin nhắn lạ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.056378+07:00",
+      "fetched": "2026-02-12T15:35:19.056497+07:00"
+    },
+    {
+      "id": "e3664dde044221e8a14a71aa4d7b061f",
+      "title": "Bắt thêm hai người vụ mua bán heo bệnh tuồn ra ngoài tiêu thụ",
+      "link": "https://tuoitre.vn/bat-them-hai-nguoi-vu-mua-ban-heo-benh-tuon-ra-ngoai-tieu-thu-20260212133710139.htm",
+      "summary": "Ngày 12-2, Cơ quan Cảnh sát điều tra, Công an TP Cần Thơ cho hay vừa khởi tố bị can, lệnh bắt tạm giam thêm hai đối tượng liên quan đến vụ mua bán, giết mổ đưa heo bệnh ra thị trường tiêu thụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.056257+07:00",
+      "fetched": "2026-02-12T15:35:19.056368+07:00"
+    },
+    {
+      "id": "2d9301c1aaf8797b925218eec590db73",
+      "title": "Dỡ rào làm công viên và hạnh phúc nhân dân",
+      "link": "https://tuoitre.vn/do-rao-lam-cong-vien-va-hanh-phuc-nhan-dan-20260212081109359.htm",
+      "summary": "Từ hôm nay 12-2-2026, TP.HCM có thêm một công viên mới - công viên số 1 Lý Thái Tổ - nơi mọi người đều muốn được hòa mình vào để suy ngẫm về cuộc sống và tìm thêm nguồn năng lượng mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.056126+07:00",
+      "fetched": "2026-02-12T15:35:19.056246+07:00"
+    },
+    {
+      "id": "7010640c92de5a944d0997019fda8eca",
+      "title": "Trao 500 suất quà Tết cho công nhân vệ sinh môi trường ở Đà Nẵng",
+      "link": "https://tuoitre.vn/trao-500-suat-qua-tet-cho-cong-nhan-ve-sinh-moi-truong-o-da-nang-20260212114900851.htm",
+      "summary": "Báo Nhân Dân và Công ty cổ phần Xây dựng Coteccons đã trao 500 suất quà cho công nhân thuộc Công ty Thoát nước và Xử lý nước thải Đà Nẵng và Công ty Môi trường đô thị Đà Nẵng - Quảng Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.056002+07:00",
+      "fetched": "2026-02-12T15:35:19.056115+07:00"
+    },
+    {
+      "id": "45339b76729d95886938b2b83da99990",
+      "title": "Valley of Sound - Nơi âm nhạc, thiên nhiên và con người cùng ‘cất tiếng’",
+      "link": "https://tuoitre.vn/valley-of-sound-noi-am-nhac-thien-nhien-va-con-nguoi-cung-cat-tieng-20260212133649444.htm",
+      "summary": "VALLEY OF SOUND – Nơi âm nhạc, thiên nhiên và con người cùng ‘cất tiếng’",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.055870+07:00",
+      "fetched": "2026-02-12T15:35:19.055990+07:00"
+    },
+    {
+      "id": "b2b7349ddb863b9148ab0008065a4134",
+      "title": "CEO Instagram ra tòa, phủ nhận cáo buộc 'gây nghiện' trẻ em để trục lợi",
+      "link": "https://tuoitre.vn/ceo-instagram-ra-toa-phu-nhan-cao-buoc-gay-nghien-tre-em-de-truc-loi-20260212134740684.htm",
+      "summary": "CEO Instagram phủ nhận cáo buộc nền tảng 'gây nghiện' trẻ em, trong vụ kiện có thể tạo tiền lệ cho hơn 1.000 đơn khác tại Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.055746+07:00",
+      "fetched": "2026-02-12T15:35:19.055859+07:00"
+    },
+    {
+      "id": "a9e9e1a87251182b582db32c194697de",
+      "title": "Cao tốc Biên Hòa - Vũng Tàu: Lắp đặt hệ thống thu phí điện tử không dừng chuẩn bị khai thác tạm",
+      "link": "https://tuoitre.vn/cao-toc-bien-hoa-vung-tau-lap-dat-he-thong-thu-phi-dien-tu-khong-dung-chuan-bi-khai-thac-tam-20260212134850727.htm",
+      "summary": "Nhằm phục vụ khai thác tạm hơn 35 km cao tốc Biên Hòa - Vũng Tàu, VEC đã bắt đầu lắp đặt hệ thống thu phí điện tử không dừng (ETC) trên tuyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.055615+07:00",
+      "fetched": "2026-02-12T15:35:19.055735+07:00"
+    },
+    {
+      "id": "6bbf3b09a12f28f43d38e8c8b727b8a7",
+      "title": "Câu chuyện có hậu ngày cuối năm: Mẹ bé sơ sinh bị bỏ rơi ở rẫy sầu riêng đã nhận lại con",
+      "link": "https://tuoitre.vn/cau-chuyen-co-hau-ngay-cuoi-nam-me-be-so-sinh-bi-bo-roi-o-ray-sau-rieng-da-nhan-lai-con-20260212140136952.htm",
+      "summary": "Sau khi đăng thông báo tìm người thân cho bé sơ sinh bị bỏ rơi ở rẫy sầu riêng, người mẹ 17 tuổi đã đến Công an xã Cuôr Đăng (Đắk Lắk) làm việc và nhận lại con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.055473+07:00",
+      "fetched": "2026-02-12T15:35:19.055602+07:00"
+    },
+    {
+      "id": "d9e8587f2af6fd01913abe6292184581",
+      "title": "BMW triệu hồi hàng trăm nghìn xe trên toàn cầu do lỗi kỹ thuật",
+      "link": "https://tuoitre.vn/bmw-trieu-hoi-hang-tram-nghin-xe-tren-toan-cau-do-loi-ky-thuat-20260212134425139.htm",
+      "summary": "Hãng sản xuất ô tô BMW của Đức ngày 11-2 thông báo triệu hồi hàng trăm nghìn xe trên phạm vi toàn cầu, do lỗi kỹ thuật có thể làm tăng nguy cơ cháy xe khi đang chạy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.055344+07:00",
+      "fetched": "2026-02-12T15:35:19.055462+07:00"
+    },
+    {
+      "id": "45363deccc3c6777797bbfce164e6353",
+      "title": "Lễ hội Đường sách Tết dành vị trí trung tâm cho Không gian văn hóa Hồ Chí Minh",
+      "link": "https://tuoitre.vn/le-hoi-duong-sach-tet-danh-vi-tri-trung-tam-cho-khong-gian-van-hoa-ho-chi-minh-2026021213193673.htm",
+      "summary": "Trong phối cảnh Lễ hội Đường sách Tết Bính Ngọ 2026, ban tổ chức đã dành vị trí trung tâm, trang trọng cho Không gian văn hóa Hồ Chí Minh. Năm nay kỷ niệm 115 năm Ngày Bác Hồ ra đi tìm đường cứu nước, nên sự chăm chút này càng thêm ý nghĩa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.055214+07:00",
+      "fetched": "2026-02-12T15:35:19.055332+07:00"
+    },
+    {
+      "id": "acd19a41efa848faf23999968fc7d7ed",
+      "title": "Hàng tấn riềng xay trộn chất gây ung thư: Chủ cơ sở làm riềng 'vàng đẹp, tươi lâu' thế nào?",
+      "link": "https://tuoitre.vn/hang-tan-rieng-xay-tron-chat-gay-ung-thu-chu-co-so-lam-rieng-vang-dep-tuoi-lau-the-nao-20260212140148493.htm",
+      "summary": "Vinh khai mua hóa chất trôi nổi trên mạng để pha riềng xay vàng đẹp, tươi lâu rồi bán ra chợ và bếp ăn công nhân, tiêu thụ khoảng 3 tạ mỗi ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.055080+07:00",
+      "fetched": "2026-02-12T15:35:19.055201+07:00"
+    },
+    {
+      "id": "1af8490cffcb60b0b19b91b74c78191d",
+      "title": "Điện lực miền Nam mang Tết đến với người nghèo",
+      "link": "https://tuoitre.vn/dien-luc-mien-nam-mang-tet-den-voi-nguoi-ngheo-20260212125006527.htm",
+      "summary": "Nhiều hộ nghèo, cận nghèo, gia đình chính sách ở 8 tỉnh, thành phố phía Nam đón nhận những phần quà Tết nghĩa tình của Tổng công ty Điện lực miền Nam (EVNSPC).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.054940+07:00",
+      "fetched": "2026-02-12T15:35:19.055067+07:00"
+    },
+    {
+      "id": "094cf82dfe06cdfda966e07628102943",
+      "title": "Bùng nổ lừa đảo trước Valentine, tội phạm làm quen nạn nhân cả năm mới 'ra tay'",
+      "link": "https://tuoitre.vn/bung-no-lua-dao-truoc-valentine-toi-pham-lam-quen-nan-nhan-ca-nam-moi-ra-tay-20260212141843648.htm",
+      "summary": "Báo cáo cho thấy lừa đảo tình cảm trực tuyến gia tăng trước Valentine, nhiều đối tượng chủ động xây dựng quan hệ từ sớm để chiếm đoạt tiền và dữ liệu cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T15:35:19.054728+07:00",
+      "fetched": "2026-02-12T15:35:19.054925+07:00"
+    },
     {
       "id": "ec66b4f40478f0b37eb04b94251ad3bb",
       "title": "Độc đáo đồ trang trí Tết từ gốm, đồ đồng",
@@ -303,6 +453,36 @@ window.newsData_2026_02_12 = {
       "fetched": "2026-02-12T11:14:33.652826+07:00"
     },
     {
+      "id": "e63247b79eadc01faf08b9aee8bfb23b",
+      "title": "Tiếp sức hàng ngàn chai nước, bánh cho người dân trên đường về quê đón tết",
+      "link": "https://thanhnien.vn/tiep-suc-hang-ngan-chai-nuoc-banh-cho-nguoi-dan-tren-duong-ve-que-don-tet-185260212142841628.htm",
+      "summary": "Nhiều đoàn viên tại TP.HCM đã đứng bên lề đường, cấp phát miễn phí hàng ngàn chai nước, bánh, khăn lạnh, với mong muốn tiếp sức người dân trên đường về quê ăn tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:33:00+07:00",
+      "fetched": "2026-02-12T15:35:18.182266+07:00"
+    },
+    {
+      "id": "c75a82fdfeb59c9d7415cf8cc7fc88c2",
+      "title": "Sát tết, nhân viên y tế vẫn bị nợ lương, tính đi giao hàng để trang trải",
+      "link": "https://thanhnien.vn/sat-tet-nhan-vien-y-te-van-bi-no-luong-tinh-bo-truc-di-giao-hang-185260212130546553.htm",
+      "summary": "Tết cận kề, hai trung tâm y tế ở Cà Mau vừa trả xong 6 tháng nợ lương nhờ tạm mượn ngân sách năm 2026, nhưng có nơi vẫn chưa có nguồn chi trả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:22:00+07:00",
+      "fetched": "2026-02-12T15:35:18.182440+07:00"
+    },
+    {
+      "id": "30cac79f669784a0fb2ddcc51fbe2bd4",
+      "title": "Khoảnh khắc cảnh sát khống chế nghi phạm xả súng trường học ở Thái Lan",
+      "link": "https://vnexpress.net/khoanh-khac-canh-sat-khong-che-nghi-pham-xa-sung-truong-hoc-o-thai-lan-5040467.html",
+      "summary": "Cảnh sát đặc nhiệm đột kích, khống chế nghi phạm xả súng, giải cứu một số giáo viên và học sinh ở trường học miền nam Thái Lan, hôm 11/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:19:57+07:00",
+      "fetched": "2026-02-12T15:35:14.841127+07:00"
+    },
+    {
       "id": "43ce4dda7311d88ab9f87abab775f126",
       "title": "Thời tiết hôm nay 12-2: Bắc Bộ mưa phùn, Nam Bộ mưa trái mùa",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-12-2-bac-bo-mua-phun-nam-bo-mua-trai-mua-20260211162437161.htm",
@@ -401,6 +581,356 @@ window.newsData_2026_02_12 = {
       "category": "Tổng hợp",
       "published": "2026-02-12T08:16:18.888809+07:00",
       "fetched": "2026-02-12T08:16:18.889032+07:00"
+    },
+    {
+      "id": "1a794e059416c92027905983e79c4919",
+      "title": "Thuế TP.HCM lưu ý thời hạn nộp thuế thời điểm tết",
+      "link": "https://thanhnien.vn/thue-tphcm-luu-y-thoi-han-nop-thue-thoi-diem-tet-185260212143514219.htm",
+      "summary": "Thuế TP.HCM vừa đưa ra thông tin đến người nộp thuế chú ý thời hạn nộp hồ sơ khai, nộp thuế phát sinh kỳ thuế tháng 1 chậm nhất là ngày 23.2 (tức mùng 7 Tết Nguyên đán Bính Ngọ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:10:00+07:00",
+      "fetched": "2026-02-12T15:35:18.182616+07:00"
+    },
+    {
+      "id": "091a187a2733225841ca6f31877bb311",
+      "title": "Cuộc tranh luận 'Apple dẫn dắt xu hướng, Samsung theo sau' lại bùng lên",
+      "link": "https://thanhnien.vn/cuoc-tranh-luan-apple-dan-dat-xu-huong-samsung-theo-sau-lai-bung-len-185260212112116947.htm",
+      "summary": "Khi nói đến lĩnh vực công nghệ di động, một điều không thể phủ nhận là các thương hiệu Android thường xuyên sao chép Apple.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:09:00+07:00",
+      "fetched": "2026-02-12T15:35:18.182775+07:00"
+    },
+    {
+      "id": "9087112e46d7ae2d30e638e67d9a938e",
+      "title": "Xử lý 830 tàu cá khai thác thủy sản bất hợp pháp, không báo cáo",
+      "link": "https://thanhnien.vn/xu-ly-830-tau-ca-khai-thac-thuy-san-bat-hop-phap-khong-bao-cao-185260212144855823.htm",
+      "summary": "Từ đầu năm 2024 đến cuối năm 2025 TP.HCM ghi nhận 1.827 lượt tàu cá có dấu hiệu mất kết nối hành trình tàu cá, vượt ranh giới khai thác thủy sản trên biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:08:00+07:00",
+      "fetched": "2026-02-12T15:35:18.182927+07:00"
+    },
+    {
+      "id": "e0f8ce8d51b18890663224868068d60b",
+      "title": "Quan chức thiệt mạng vì ngã ngựa khi quay phim quảng bá địa phương",
+      "link": "https://vnexpress.net/quan-chuc-thiet-mang-vi-nga-ngua-khi-quay-phim-quang-ba-dia-phuong-5040363.html",
+      "summary": "Hạ Kiều Long, quan chức Trung Quốc nổi tiếng trên mạng, qua đời ở tuổi 47 do cưỡi ngựa khi quay phim quảng bá nông nghiệp địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:07:51+07:00",
+      "fetched": "2026-02-12T15:35:14.841318+07:00"
+    },
+    {
+      "id": "e0f8ce8d51b18890663224868068d60b",
+      "title": "Quan chức thiệt mạng vì ngã ngựa khi quay phim quảng bá địa phương",
+      "link": "https://vnexpress.net/quan-chuc-thiet-mang-vi-nga-ngua-khi-quay-phim-quang-ba-dia-phuong-5040363.html",
+      "summary": "Hạ Kiều Long, quan chức Trung Quốc nổi tiếng trên mạng, qua đời ở tuổi 47 do cưỡi ngựa khi quay phim quảng bá nông nghiệp địa phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-12T08:07:51+07:00",
+      "fetched": "2026-02-12T15:35:20.572939+07:00"
+    },
+    {
+      "id": "92d77cf39d46c1fb74e40d15b716d99e",
+      "title": "10 ôtô bán nhiều nhất tháng 1 - đất diễn của VinFast, Ford và Mitsubishi",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-ban-nhieu-nhat-thang-1-dat-dien-cua-vinfast-ford-va-mitsubishi-5040391.html",
+      "summary": "Bốn mẫu xe nhà VinFast áp đảo những vị trí đầu tiên bảng xếp hạng, trong khi đó Ford có 3 mẫu và Mitsubishi đóng góp 2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:04:54+07:00",
+      "fetched": "2026-02-12T15:35:14.841490+07:00"
+    },
+    {
+      "id": "74fe8a91df9d33d33cf61aba513bab02",
+      "title": "Người tiêu dùng cân nhắc từng đồng sắm Tết",
+      "link": "https://vnexpress.net/nguoi-tieu-dung-can-nhac-tung-dong-sam-tet-5040415.html",
+      "summary": "Dù số liệu từ các siêu thị cho thấy sức mua tiếp tục tăng hai chữ số, người dân đang chi tiêu theo hướng thực dụng hơn, ưu tiên hàng thiết yếu và tính toán kỹ từng khoản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:00:00+07:00",
+      "fetched": "2026-02-12T15:35:14.841673+07:00"
+    },
+    {
+      "id": "864a3a5de1e1f7e997e51f64805b27e5",
+      "title": "VinFast giao hơn 16.000 ôtô điện tháng đầu năm",
+      "link": "https://vnexpress.net/vinfast-giao-hon-16-000-oto-dien-thang-dau-nam-5040465.html",
+      "summary": "Hãng xe Việt Nam tiếp tục dẫn đầu thị trường khi bàn giao 16.172 ôtô điện các loại, tăng 55% so với cùng kỳ năm ngoái, trong tháng 1/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:00:00+07:00",
+      "fetched": "2026-02-12T15:35:14.841834+07:00"
+    },
+    {
+      "id": "9071045851bbea23a0096bff838113eb",
+      "title": "Uống nhiều rượu bia khiến da nhanh lão hóa",
+      "link": "https://vnexpress.net/uong-nhieu-ruou-bia-khien-da-nhanh-lao-hoa-5040290.html",
+      "summary": "Uống nhiều rượu bia liên tục trong những ngày Tết có thể khiến da mất nước, xỉn màu, hình thành nếp nhăn sớm, đẩy nhanh lão hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:00:00+07:00",
+      "fetched": "2026-02-12T15:35:14.841989+07:00"
+    },
+    {
+      "id": "3d6e90a7fec3e0bdd272ab0ca4a0560c",
+      "title": "Tractor Supply muốn giảm chi phí thông qua giao hàng chặng cuối",
+      "link": "https://vnexpress.net/tractor-supply-muon-giam-chi-phi-thong-qua-giao-hang-chang-cuoi-5015155.html",
+      "summary": "Chiến lược giao hàng chặng cuối (final-mile) của Tractor Supply nhằm giảm chi phí vận chuyển và nâng cao hiệu quả xử lý đơn hàng trực tuyến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:00:00+07:00",
+      "fetched": "2026-02-12T15:35:14.842149+07:00"
+    },
+    {
+      "id": "1f8d8b49afa9fdc22e35828e2a797abe",
+      "title": "Người dân xếp hàng dài cả trăm mét mua nem chua ở Hà Nội",
+      "link": "https://thanhnien.vn/nguoi-dan-xep-hang-dai-ca-tram-met-mua-nem-chua-o-ha-noi-18526021214045832.htm",
+      "summary": "Trước tết Nguyên đán Bính Ngọ 2026 khoảng 4 ngày, hàng trăm người dân tìm đến cửa hàng nem chua, giò chả nổi tiếng ở Hà Nội để mua hàng, tạo nên khung cảnh nhộn nhịp, đông đúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:00:00+07:00",
+      "fetched": "2026-02-12T15:35:18.183076+07:00"
+    },
+    {
+      "id": "d133fe4d6b725cbf5d68ae25aac28c40",
+      "title": "Giữ trọn tử cung bằng phẫu thuật nội soi tại Bệnh viện Phương Nam",
+      "link": "https://thanhnien.vn/giu-tron-tu-cung-bang-phau-thuat-noi-soi-tai-benh-vien-phuong-nam-185260212135123437.htm",
+      "summary": "Chu kỳ kinh nguyệt vốn đều đặn bỗng rối loạn, đau bụng kéo dài và lượng máu ra nhiều khiến chị T.N. (31 tuổi) lo lắng. Khi phát hiện khối u xơ đã lớn 8 cm, điều chị sợ nhất không phải là phẫu thuật mà là nguy cơ mất tử cung. May mắn, y học hiện đại đã mở ra hướng điều trị giúp loại bỏ khối u nhưng v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:00:00+07:00",
+      "fetched": "2026-02-12T15:35:18.183229+07:00"
+    },
+    {
+      "id": "74fe8a91df9d33d33cf61aba513bab02",
+      "title": "Người tiêu dùng cân nhắc từng đồng sắm Tết",
+      "link": "https://vnexpress.net/nguoi-tieu-dung-can-nhac-tung-dong-sam-tet-5040415.html",
+      "summary": "Dù số liệu từ các siêu thị cho thấy sức mua tiếp tục tăng hai chữ số, người dân đang chi tiêu theo hướng thực dụng hơn, ưu tiên hàng thiết yếu và tính toán kỹ từng khoản.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-12T08:00:00+07:00",
+      "fetched": "2026-02-12T15:35:21.817692+07:00"
+    },
+    {
+      "id": "a5cc8d58adc2c0432cb4aaa7da72fb2e",
+      "title": "Lãi suất liên ngân hàng xuống 4%",
+      "link": "https://vnexpress.net/lai-suat-lien-ngan-hang-xuong-4-5040444.html",
+      "summary": "Lãi suất vay mượn qua đêm giữa các ngân hàng giảm mạnh về 4% trong phiên 11/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:57:06+07:00",
+      "fetched": "2026-02-12T15:35:14.842305+07:00"
+    },
+    {
+      "id": "a5cc8d58adc2c0432cb4aaa7da72fb2e",
+      "title": "Lãi suất liên ngân hàng xuống 4%",
+      "link": "https://vnexpress.net/lai-suat-lien-ngan-hang-xuong-4-5040444.html",
+      "summary": "Lãi suất vay mượn qua đêm giữa các ngân hàng giảm mạnh về 4% trong phiên 11/2.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-12T07:57:06+07:00",
+      "fetched": "2026-02-12T15:35:21.817870+07:00"
+    },
+    {
+      "id": "bb78243771137ba502af6d2864ad654b",
+      "title": "Giá xăng dầu đồng loạt tăng trước tết Nguyên đán Bính Ngọ",
+      "link": "https://thanhnien.vn/gia-xang-dau-dong-loat-tang-truoc-tet-nguyen-dan-binh-ngo-185260212145112853.htm",
+      "summary": "Giá xăng dầu đồng loạt tăng ngay trước dịp nghỉ tết Nguyên đán Bính Ngọ 2026. Trong đó, giá xăng tăng mạnh, từ 395 - 418 đồng/lít. Giá dầu tăng từ 10 - 419 đồng/lít/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:57:00+07:00",
+      "fetched": "2026-02-12T15:35:18.183377+07:00"
+    },
+    {
+      "id": "82489652e678bcb83e629b77a41c6bd8",
+      "title": "Nghĩa cử của Mỹ Tâm trong những ngày cuối năm",
+      "link": "https://thanhnien.vn/nghia-cu-cua-my-tam-trong-nhung-ngay-cuoi-nam-18526021214342454.htm",
+      "summary": "Trong không khí những ngày cuối năm, Mỹ Tâm cùng gia đình đã gửi tặng 1.000 phần quà đến bà con có hoàn cảnh khó khăn trên địa bàn TP. Đà Nẵng và tỉnh Quảng Nam (cũ), tiếp nối hành trình thiện nguyện mà cô đã bền bỉ thực hiện suốt nhiều năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:51:00+07:00",
+      "fetched": "2026-02-12T15:35:18.183523+07:00"
+    },
+    {
+      "id": "156e01e3c23856d1e37219b83862d5c1",
+      "title": "Tỷ phú ấu dâm Epstein chỉ đạo trợ lý lắp camera quay lén trong nhà",
+      "link": "https://vnexpress.net/ty-phu-au-dam-epstein-chi-dao-tro-ly-lap-camera-quay-len-trong-nha-5040331.html",
+      "summary": "Tài liệu được công bố cho thấy tỷ phú Epstein từng chỉ đạo trợ lý lắp camera quay lén trong nhà, có thể nhằm ghi hình ảnh bất lợi về người có thế lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:49:42+07:00",
+      "fetched": "2026-02-12T15:35:14.842461+07:00"
+    },
+    {
+      "id": "156e01e3c23856d1e37219b83862d5c1",
+      "title": "Tỷ phú ấu dâm Epstein chỉ đạo trợ lý lắp camera quay lén trong nhà",
+      "link": "https://vnexpress.net/ty-phu-au-dam-epstein-chi-dao-tro-ly-lap-camera-quay-len-trong-nha-5040331.html",
+      "summary": "Tài liệu được công bố cho thấy tỷ phú Epstein từng chỉ đạo trợ lý lắp camera quay lén trong nhà, có thể nhằm ghi hình ảnh bất lợi về người có thế lực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-12T07:49:42+07:00",
+      "fetched": "2026-02-12T15:35:20.573120+07:00"
+    },
+    {
+      "id": "2aa71dc80b65d117443607e090174308",
+      "title": "WHO giục Mỹ chia sẻ thông tin tình báo về nguồn gốc Covid-19",
+      "link": "https://vnexpress.net/who-giuc-my-chia-se-thong-tin-tinh-bao-ve-nguon-goc-covid-19-5040436.html",
+      "summary": "WHO một lần nữa kêu gọi Mỹ công bố mọi dữ liệu tình báo liên quan nguồn gốc đại dịch Covid-19, đồng thời khẳng định Washington chưa từng bàn giao bất kỳ thông tin nào trước khi chính thức rút khỏi tổ chức này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:46:02+07:00",
+      "fetched": "2026-02-12T15:35:14.842634+07:00"
+    },
+    {
+      "id": "7a9c0bbcbbf9b3c7038882211b987b83",
+      "title": "'Trung tâm tài chính cần giải được bài toán vốn cho doanh nghiệp nhỏ và vừa'",
+      "link": "https://vnexpress.net/trung-tam-tai-chinh-can-giai-duoc-bai-toan-von-cho-doanh-nghiep-nho-va-vua-5040377.html",
+      "summary": "Trung tâm tài chính quốc tế phải giải được bài toán vốn cho doanh nghiệp nhỏ và vừa, tránh thành nơi nước ngoài \"mượn chỗ chơi trò chơi tài chính\", theo các chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:44:11+07:00",
+      "fetched": "2026-02-12T15:35:14.842801+07:00"
+    },
+    {
+      "id": "7a9c0bbcbbf9b3c7038882211b987b83",
+      "title": "'Trung tâm tài chính cần giải được bài toán vốn cho doanh nghiệp nhỏ và vừa'",
+      "link": "https://vnexpress.net/trung-tam-tai-chinh-can-giai-duoc-bai-toan-von-cho-doanh-nghiep-nho-va-vua-5040377.html",
+      "summary": "Trung tâm tài chính quốc tế phải giải được bài toán vốn cho doanh nghiệp nhỏ và vừa, tránh thành nơi nước ngoài \"mượn chỗ chơi trò chơi tài chính\", theo các chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-12T07:44:11+07:00",
+      "fetched": "2026-02-12T15:35:21.818034+07:00"
+    },
+    {
+      "id": "6f064c6425edbc23111c7571cbd0c5fe",
+      "title": "Trân Châu Beach & Resort rực rỡ cảnh quan, sẵn sàng đón Xuân Bính Ngọ 2026",
+      "link": "https://thanhnien.vn/tran-chau-beach-resort-ruc-ro-canh-quan-san-sang-don-xuan-binh-ngo-2026-185260212144711827.htm",
+      "summary": "Tại vùng biển Phước Hải, Trân Châu Beach & Resort đang trở thành điểm hẹn mùa xuân đầy ý nghĩa - nơi sắc biển xanh, cát trắng và nắng vàng hòa quyện cùng không gian tết rực rỡ, tạo nên bức tranh đa sắc bên đại dương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:36:00+07:00",
+      "fetched": "2026-02-12T15:35:18.183704+07:00"
+    },
+    {
+      "id": "818a10e3465616087ee725584e914c30",
+      "title": "Tôi sợ hãi những buổi tiệc cuối năm lố lăng, gượng ép",
+      "link": "https://vnexpress.net/toi-so-hai-nhung-buoi-tiec-cuoi-nam-lo-lang-guong-ep-5040451.html",
+      "summary": "Bị bắt 'góp vui' dù chỉ muốn ngồi yên, ép tham gia những trò chơi táo bạo, nâng ly đến khi say mèm... buổi tiệc cuối năm thành ác mộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:35:26+07:00",
+      "fetched": "2026-02-12T15:35:14.842952+07:00"
+    },
+    {
+      "id": "c405071b348d93f6eef0042654c97df2",
+      "title": "Cầu thủ Nguyễn Đình Bắc chính thức trở thành Đại sứ thương hiệu SACOMBANK",
+      "link": "https://thanhnien.vn/cau-thu-nguyen-dinh-bac-chinh-thuc-tro-thanh-dai-su-thuong-hieu-sacombank-185260212142031529.htm",
+      "summary": "Ngày 12.2.2026, Ngân hàng TMCP Sài Gòn Thương Tín (SACOMBANK) tổ chức Lễ ký kết và công bố cầu thủ Nguyễn Đình Bắc trở thành Đại sứ thương hiệu giai đoạn 2026 - 2028. Sự kiện này đánh dấu bước tiến mới của SACOMBANK trong hành trình đồng hành cùng thể thao Việt Nam và lan tỏa các giá trị tích cực, b...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:33:00+07:00",
+      "fetched": "2026-02-12T15:35:18.183861+07:00"
+    },
+    {
+      "id": "26a6c5e936c21bec9afdb3ede35c4d47",
+      "title": "Sắc vóc 'Công chúa Huawei' Diêu An Na",
+      "link": "https://vnexpress.net/sac-voc-cong-chua-huawei-dieu-an-na-5040438.html",
+      "summary": "Diễn viên Trung Quốc Diêu An Na, con gái của người sáng lập Huawei, được các tạp chí thời trang nhận xét phong cách thanh lịch, hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:31:04+07:00",
+      "fetched": "2026-02-12T15:35:14.843109+07:00"
+    },
+    {
+      "id": "6a5cd584e658cd028032399a0ab053cf",
+      "title": "Giá xăng vượt 19.000 đồng một lít",
+      "link": "https://vnexpress.net/gia-xang-vuot-19-000-dong-mot-lit-5040445.html",
+      "summary": "Giá xăng, dầu cùng tăng 10-410 đồng một lít, kg từ 15h hôm nay, sau điều chỉnh trước kỳ nghỉ Tết Nguyên đán của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:31:01+07:00",
+      "fetched": "2026-02-12T15:35:14.843261+07:00"
+    },
+    {
+      "id": "6a5cd584e658cd028032399a0ab053cf",
+      "title": "Giá xăng vượt 19.000 đồng một lít",
+      "link": "https://vnexpress.net/gia-xang-vuot-19-000-dong-mot-lit-5040445.html",
+      "summary": "Giá xăng, dầu cùng tăng 10-410 đồng một lít, kg từ 15h hôm nay, sau điều chỉnh trước kỳ nghỉ Tết Nguyên đán của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-12T07:31:01+07:00",
+      "fetched": "2026-02-12T15:35:21.818194+07:00"
+    },
+    {
+      "id": "478d0bfc1f93d11783f40210ab09258c",
+      "title": "Cách VPBank nâng cao trải nghiệm cho khách hàng Private",
+      "link": "https://vnexpress.net/cach-vpbank-nang-cao-trai-nghiem-cho-khach-hang-private-5040446.html",
+      "summary": "VPBank phát triển dịch vụ theo hướng cá nhân hóa, kết hợp không gian tư vấn riêng tư, nghệ thuật và hệ sinh thái đặc quyền, nhằm nâng cao trải nghiệm cho nhóm khách hàng Private.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:30:00+07:00",
+      "fetched": "2026-02-12T15:35:14.843415+07:00"
+    },
+    {
+      "id": "aeb64aa05e8ba9b8d3062d426fba1c86",
+      "title": "Khởi tố nữ giám đốc sản xuất 1.700 tấn muối i ốt giả",
+      "link": "https://thanhnien.vn/khoi-to-nu-giam-doc-san-xuat-1700-tan-muoi-i-ot-gia-185260212130240304.htm",
+      "summary": "Công an tỉnh Đắk Lắk ra quyết định khởi tố giám đốc công ty sản xuất, bán ra thị trường cả ngàn tấn muối i ốt giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:29:00+07:00",
+      "fetched": "2026-02-12T15:35:18.184007+07:00"
+    },
+    {
+      "id": "acaa433a61ac9881135da341fa6b3d74",
+      "title": "Campuchia dẹp gần 200 trung tâm lừa đảo",
+      "link": "https://thanhnien.vn/campuchia-dep-gan-200-trung-tam-lua-dao-185260212110511797.htm",
+      "summary": "Campuchia đã đóng cửa gần 200 trung tâm lừa đảo trong chiến dịch trấn áp tội phạm lừa đảo xuyên quốc gia những tuần gần đây, một quan chức cấp cao của chính phủ cho biết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:26:00+07:00",
+      "fetched": "2026-02-12T15:35:18.184158+07:00"
+    },
+    {
+      "id": "ae9b4e1df462dfcb69b62a6ae15aa6cd",
+      "title": "Đà Nẵng chi hàng trăm tỉ đồng để hỗ trợ dịp tết",
+      "link": "https://thanhnien.vn/da-nang-chi-hang-tram-ti-dong-de-ho-tro-dip-tet-185260212114213811.htm",
+      "summary": "Dự kiến tổng kinh phí thực hiện chính sách hỗ trợ tết năm 2026 trên toàn địa bàn thành phố Đà Nẵng mới hơn 326 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:20:00+07:00",
+      "fetched": "2026-02-12T15:35:18.184309+07:00"
+    },
+    {
+      "id": "4c73453e0ec44b4200f2715598eec19e",
+      "title": "Không cấp phép nhập khẩu công nghệ, dây chuyền sản xuất cũ",
+      "link": "https://thanhnien.vn/khong-cap-phep-nhap-khau-cong-nghe-day-chuyen-san-xuat-cu-185260211195313025.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú vừa ký ban hành Chỉ thị số 03-CT/TW về tăng cường sự lãnh đạo của Đảng đối với công tác quản lý, phát triển vật liệu xây dựng trong giai đoạn mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T07:18:00+07:00",
+      "fetched": "2026-02-12T15:35:18.184460+07:00"
+    },
+    {
+      "id": "c4967f3df8688c60a86f25fc7b43caad",
+      "title": "Nữ diễn viên 'đòi lại' khuôn mặt từ bộ trưởng AI của Albania",
+      "link": "https://vnexpress.net/nu-dien-vien-doi-lai-khuon-mat-tu-bo-truong-ai-cua-albania-5040375.html",
+      "summary": "Anila Bisha, diễn viên có khuôn mặt và giọng nói được dùng để tạo hình ảnh bộ trưởng AI Diella, cáo buộc chính phủ Albania lợi dụng mình.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-12T07:16:00+07:00",
+      "fetched": "2026-02-12T15:35:24.933701+07:00"
+    },
+    {
+      "id": "11974892550f28af55434bfba257a884",
+      "title": "Nhà VĐTG đòi bỏ dở Olympic mùa Đông khi bị VĐV Trung Quốc chơi xấu",
+      "link": "https://vnexpress.net/nha-vdtg-doi-bo-do-olympic-mua-dong-khi-bi-vdv-trung-quoc-choi-xau-5040261.html",
+      "summary": "Đương kim vô địch thế giới trượt băng tốc độ 1.000m người Hà Lan Joep Wennemars vấp vào VĐV Trung Quốc Lian Ziwen và lỡ huy chương Olympic mùa Đông 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-12T07:00:00+07:00",
+      "fetched": "2026-02-12T15:35:26.789500+07:00"
     },
     {
       "id": "6008c0a219c73630d0379b853fdd3283",
