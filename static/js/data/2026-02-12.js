@@ -1,7 +1,147 @@
 window.newsData_2026_02_12 = {
   "date": "2026-02-12",
-  "lastUpdated": "2026-02-12T19:41:23.398360+07:00",
+  "lastUpdated": "2026-02-12T21:42:00.733219+07:00",
   "articles": [
+    {
+      "id": "1df5bd439d5455748294aac73e713829",
+      "title": "Phó thủ tướng Nguyễn Hòa Bình: Trung tâm tài chính quốc tế là động lực tái cơ cấu nền kinh tế",
+      "link": "https://tuoitre.vn/pho-thu-tuong-nguyen-hoa-binh-trung-tam-tai-chinh-quoc-te-la-dong-luc-tai-co-cau-nen-kinh-te-2026021217332021.htm",
+      "summary": "Tiếp sau Đà Nẵng, TP.HCM đã tổ chức lễ ra mắt Trung tâm tài chính quốc tế Việt Nam tại TP.HCM (IFC) vào ngày 11-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:41:55.063661+07:00",
+      "fetched": "2026-02-12T21:41:55.063774+07:00"
+    },
+    {
+      "id": "3f7a9173bac74f02f383baaa15dcd454",
+      "title": "Hơn 2.300 phạm nhân tại Tây Ninh được giảm án dịp Tết",
+      "link": "https://tuoitre.vn/hon-2-300-pham-nhan-tai-tay-ninh-duoc-giam-an-dip-tet-20260212175237408.htm",
+      "summary": "Trong số 2.369 phạm nhân được giảm án, có 289 người được giảm hết thời hạn chấp hành án tù, trở về vui Tết Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:41:55.063537+07:00",
+      "fetched": "2026-02-12T21:41:55.063650+07:00"
+    },
+    {
+      "id": "1fc06cd0b488d1486c011a9b9927525c",
+      "title": "Cua Cà Mau đầy gạch loại lớn vượt mốc 1,1 triệu đồng/kg",
+      "link": "https://tuoitre.vn/cua-ca-mau-day-gach-loai-lon-vuot-moc-1-1-trieu-dong-kg-20260212181712428.htm",
+      "summary": "Gần Tết Nguyên đán, giá cua Cà Mau liên tục leo thang, nhiều loại tăng đến vài trăm nghìn đồng. Riêng cua đầy gạch loại lớn (2 con/kg) có giá bán lên đến hơn 1,1 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:41:55.063409+07:00",
+      "fetched": "2026-02-12T21:41:55.063525+07:00"
+    },
+    {
+      "id": "4f841db009c5d8d2e4f4622a7838e845",
+      "title": "Linh vật ngựa của Đường hoa xuân MENAS 2026 có chủ đề: 'Vươn mình Thánh Gióng'",
+      "link": "https://tuoitre.vn/linh-vat-ngua-cua-duong-hoa-xuan-menas-2026-co-chu-de-vuon-minh-thanh-giong-20260212142121035.htm",
+      "summary": "Xuân Bính Ngọ 2026, tại cửa ngõ sân bay Tân Sơn Nhất, Đường hoa xuân Menas - Tân Sơn Hòa khoác lên mình diện mạo mới với hình tượng trung tâm: linh vật ngựa - Thánh Gióng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:41:55.063269+07:00",
+      "fetched": "2026-02-12T21:41:55.063397+07:00"
+    },
+    {
+      "id": "17ae615c6d14e9030d5756af9c71582c",
+      "title": "Saigon Co.op khởi động 'Chuyến xe hạnh phúc' 2026, đưa 900 người lao động về quê miễn phí",
+      "link": "https://tuoitre.vn/saigon-co-op-khoi-dong-chuyen-xe-hanh-phuc-2026-dua-900-nguoi-lao-dong-ve-que-mien-phi-20260212151314453.htm",
+      "summary": "Không chỉ trao tặng những tấm vé xe 0 đồng, “Chuyến xe hạnh phúc” còn mang theo những suất ăn, nước uống và túi quà Tết nặng trĩu, tiếp sức cho hành trình đoàn viên của người lao động xa quê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:41:55.063132+07:00",
+      "fetched": "2026-02-12T21:41:55.063255+07:00"
+    },
+    {
+      "id": "9b2e242b1a30ea16d1d28e7e68a816a1",
+      "title": "HDBank đẩy mạnh gói vay ưu đãi 12.000 tỉ đồng",
+      "link": "https://tuoitre.vn/hdbank-day-manh-goi-vay-uu-dai-12-000-ti-dong-20260212181430037.htm",
+      "summary": "HDBank tiếp tục triển khai gói tín dụng ưu đãi quy mô 12.000 tỉ đồng, đồng hành với người dân và doanh nghiệp tại 3 tỉnh Đắk Lắk, Gia Lai và Khánh Hòa khôi phục sản xuất kinh doanh, ổn định cuộc sống, hướng đến năm mới Bính Ngọ đủ đầy và ấm áp hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:41:55.062997+07:00",
+      "fetched": "2026-02-12T21:41:55.063120+07:00"
+    },
+    {
+      "id": "c7e8157ea289b624eb22ff906586a7c0",
+      "title": "Thay vì bỏ tiền tỉ mua nhà đất, chỉ cần gần 340 triệu là có nhà di động đủ cho 4 người sống",
+      "link": "https://tuoitre.vn/thay-vi-bo-tien-ti-mua-nha-dat-chi-can-gan-340-trieu-la-co-nha-di-dong-du-cho-4-nguoi-song-20260212160257419.htm",
+      "summary": "Cherokee Wolf Pup 14RKLP 2026 là mẫu nhà di động giá rẻ dành cho gia đình nhỏ, có chỗ ngủ cho 4 người, bếp, phòng tắm và nhiều tiện ích cơ bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:41:55.062854+07:00",
+      "fetched": "2026-02-12T21:41:55.062984+07:00"
+    },
+    {
+      "id": "ca5ce2e8a0dea6515442f83be0795bc8",
+      "title": "Đắk Lắk bắn pháo hoa tầm thấp tại 2 điểm đêm giao thừa",
+      "link": "https://tuoitre.vn/dak-lak-ban-phao-hoa-tam-thap-tai-2-diem-dem-giao-thua-20260212181738395.htm",
+      "summary": "UBND Đắk Lắk kế hoạch bắn pháo hoa nổ tầm thấp đêm giao thừa đón Tết Nguyên đán 2026 tại Buôn Ma Thuột và Tuy Hòa với 300 dàn pháo trong 15 phút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:41:55.062725+07:00",
+      "fetched": "2026-02-12T21:41:55.062842+07:00"
+    },
+    {
+      "id": "766e13e321e6d63ee1b877be7cfef19f",
+      "title": "2 người chết trong vụ cháy lớn căn hộ chung cư ở Nha Trang",
+      "link": "https://tuoitre.vn/2-nguoi-chet-trong-vu-chay-lon-can-ho-chung-cu-o-nha-trang-20260212185836186.htm",
+      "summary": "Liên quan vụ cháy lớn xảy ra tại một căn hộ chung ở phường Nam Nha Trang (tỉnh Khánh Hòa) vào chiều nay, lãnh đạo tỉnh Khánh Hòa xác nhận đã có 2 người tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:41:55.062592+07:00",
+      "fetched": "2026-02-12T21:41:55.062712+07:00"
+    },
+    {
+      "id": "887c6e6867bdbbf6b21a8a7735c719fb",
+      "title": "Eximbank khởi động chương trình hỗ trợ nâng cao năng lực ngân hàng xanh",
+      "link": "https://tuoitre.vn/eximbank-khoi-dong-chuong-trinh-ho-tro-nang-cao-nang-luc-ngan-hang-xanh-20260212190142713.htm",
+      "summary": "Đây là hoạt động hỗ trợ do Ngân hàng Phát triển châu Á (ADB) thực hiện từ nguồn vốn Quỹ Nhật Bản vì châu Á, Thái Bình Dương, Thịnh vượng và Thích ứng, đồng thời PwC Việt Nam đảm nhiệm vai trò tư vấn triển khai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:41:55.062456+07:00",
+      "fetched": "2026-02-12T21:41:55.062574+07:00"
+    },
+    {
+      "id": "f2e5431ba741e92bd208b519c1c1e9d6",
+      "title": "Trấn Thành đầu tư 2 triệu USD cho phim Thỏ ơi, khẳng định 'đóng thuế mỗi năm không thiếu 1 đồng'",
+      "link": "https://tuoitre.vn/tran-thanh-dau-tu-2-trieu-usd-cho-phim-tho-oi-khang-dinh-dong-thue-moi-nam-khong-thieu-1-dong-20260212191356799.htm",
+      "summary": "Khi biết một khán giả từng nghi anh mua suất chiếu cho phim 'Mai', Trấn Thành đùa: 'Xin lỗi tôi đi'. Sau đó anh nhận mình cũng có một phần lỗi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:41:55.062324+07:00",
+      "fetched": "2026-02-12T21:41:55.062444+07:00"
+    },
+    {
+      "id": "e455500627934903f497b985908fea6d",
+      "title": "100 sinh viên đón hành trình năm mới cùng M&M’S",
+      "link": "https://tuoitre.vn/100-sinh-vien-don-hanh-trinh-nam-moi-cung-mms-20260212151258439.htm",
+      "summary": "‘Chuyến xe muôn màu’ của thương hiệu M&M’S thuộc Công ty Mars Wrigley Việt Nam đã hoàn thành sứ mệnh kết nối những trái tim xa quê từ TP.HCM về đến khu vực miền Trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:41:55.062182+07:00",
+      "fetched": "2026-02-12T21:41:55.062312+07:00"
+    },
+    {
+      "id": "df66b211cef624505a8e2f217a6c7466",
+      "title": "Đến lượt chủ đầu tư cao tốc Hoài Nhơn - Quy Nhơn 'quay xe', dừng khai thác Tết Nguyên đán",
+      "link": "https://tuoitre.vn/den-luot-chu-dau-tu-cao-toc-hoai-nhon-quy-nhon-quay-xe-dung-khai-thac-tet-nguyen-dan-20260212194256784.htm",
+      "summary": "Sau khi thông báo sẽ đưa vào khai thác toàn tuyến dự án đường cao tốc Hoài Nhơn - Quy Nhơn vào 22h hôm nay 12-2, tới chiều cùng ngày, chủ đầu tư đã 'quay xe', thông báo dừng khai thác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:41:55.062017+07:00",
+      "fetched": "2026-02-12T21:41:55.062167+07:00"
+    },
+    {
+      "id": "cd4397d82fc03df61fa75a0ba114dc5f",
+      "title": "TP.HCM khánh thành Công viên số 1 Lý Thái Tổ: Giọt nước mắt tan vào đất mẹ, tình người còn lưu mãi",
+      "link": "https://tuoitre.vn/tp-hcm-khanh-thanh-cong-vien-so-1-ly-thai-to-giot-nuoc-mat-tan-vao-dat-me-tinh-nguoi-con-luu-mai-20260212185753883.htm",
+      "summary": "Tối 12-2, TP.HCM khánh thành Công viên số 1 Lý Thái Tổ, công trình là sự ghi nhận sự chung sức đồng lòng của người dân TP.HCM vượt qua đại dịch COVID-19 và điểm đến cho người dân dịp Tết Bính Ngọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:41:55.061775+07:00",
+      "fetched": "2026-02-12T21:41:55.062000+07:00"
+    },
     {
       "id": "61124c04f4e9a130efa1e521c40c3e91",
       "title": "Bôi nhọ đối thủ nhưng vẫn trúng cử: Dùng thủ đoạn làm sai lệch ý chí của cử tri là phạm luật",
@@ -453,6 +593,166 @@ window.newsData_2026_02_12 = {
       "fetched": "2026-02-12T15:35:19.054925+07:00"
     },
     {
+      "id": "937bcd776c8fc1c72a570842315c72db",
+      "title": "Hàng loạt tuyến đường cấm xe ở TP.HCM phục vụ bắn pháo hoa đêm giao thừa",
+      "link": "https://thanhnien.vn/nhung-tuyen-duong-cam-xe-o-tphcm-phuc-vu-ban-phao-hoa-dem-giao-thua-185260212213848894.htm",
+      "summary": "CSGT TP.HCM vừa thông báo cấm xe hàng loạt tuyến đường trung tâm để phục vụ chương trình bắn pháo hoa đêm giao thừa. Đó là những tuyến nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T14:39:00+07:00",
+      "fetched": "2026-02-12T21:41:53.830212+07:00"
+    },
+    {
+      "id": "fc030b6d90cc8cd4219d1614753b4a48",
+      "title": "Hội hoa xuân Tao Đàn 46 khai mạc, rực rỡ sắc Ngọ giữa lòng TP.HCM",
+      "link": "https://thanhnien.vn/hoi-hoa-xuan-tao-dan-46-khai-mac-ruc-ro-sac-ngo-giua-long-tphcm-185260212211304744.htm",
+      "summary": "Tối 12.2, Ủy ban nhân dân TP.HCM tổ chức khai mạc Hội Hoa Xuân Tao Đàn lần thứ 46 với chủ đề \"Xuân hội tụ - Vững bước vươn mình\", thu hút đông đảo người dân và du khách đến tham quan, chụp ảnh trong đêm đầu tiên mở cửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T14:21:00+07:00",
+      "fetched": "2026-02-12T21:41:53.830400+07:00"
+    },
+    {
+      "id": "47976f6753e23fa0b4f669dabfa0fe58",
+      "title": "Công viên nước Sun World Vung Tau đạt hai kỷ lục thế giới",
+      "link": "https://vnexpress.net/cong-vien-nuoc-sun-world-vung-tau-dat-hai-ky-luc-the-gioi-5040566.html",
+      "summary": "Phân khu Aqua Adventure tại Sun World Vũng Tàu đi vào vận hành với 20 trò chơi, 100 làn trượt nước, đồng thời nhận hai kỷ lục thế giới, ngày 12/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T14:15:00+07:00",
+      "fetched": "2026-02-12T21:41:50.891457+07:00"
+    },
+    {
+      "id": "534b9cde5353b1951cc342f1d3382caa",
+      "title": "Thêm 3 người ở Nghệ An bị phóng điện khi dựng cây nêu đón Tết",
+      "link": "https://vnexpress.net/them-3-nguoi-o-nghe-an-bi-phong-dien-khi-dung-cay-neu-don-tet-5040598.html",
+      "summary": "Ba thanh niên ở xã Diễn Châu bị phóng điện khi dựng cây nêu bằng tre vướng đường dây 35 kV, phải nhập viện cấp cứu trong tình trạng nguy kịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T14:12:41+07:00",
+      "fetched": "2026-02-12T21:41:50.891649+07:00"
+    },
+    {
+      "id": "4627fedf9f4e5d21dc4e12f7885120cb",
+      "title": "Tối 25 tháng chạp, giải độc đắc của Vietlott cộng dồn 59,5 tỉ đồng",
+      "link": "https://thanhnien.vn/toi-25-thang-chap-giai-doc-dac-cua-vietlott-cong-don-595-ti-dong-185260212205844438.htm",
+      "summary": "Tối 12.2 (25 tháng chạp), Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, tuy nhiên không xuất hiện người trúng độc đắc nên số tiền cộng dồn là 59,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T14:10:00+07:00",
+      "fetched": "2026-02-12T21:41:53.830564+07:00"
+    },
+    {
+      "id": "4e1f0f4e6ea6de3ee47e817847340b9c",
+      "title": "Cao tốc qua phía đông Gia Lai trễ hẹn thông xe dịp tết",
+      "link": "https://thanhnien.vn/cao-toc-qua-phia-dong-gia-lai-tre-hen-thong-xe-dip-tet-185260212202545137.htm",
+      "summary": "Cao tốc qua phía đông Gia Lai trễ hẹn thông xe dịp tết do lo ngại mất an toàn khi lưu lượng phương tiện tăng đột biến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T14:08:00+07:00",
+      "fetched": "2026-02-12T21:41:53.830725+07:00"
+    },
+    {
+      "id": "680b71388ead6b5b6d47c35f4a1c99f6",
+      "title": "Chiến hạm Mỹ va chạm nhau trên Biển Caribe",
+      "link": "https://vnexpress.net/chien-ham-my-va-cham-nhau-tren-bien-caribe-5040577.html",
+      "summary": "Khu trục hạm Mỹ va chạm với tàu hậu cần khi tiếp dầu trên Biển Caribe, khiến hai người bị thương, chưa rõ nguyên nhân dẫn tới sự cố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T14:03:54+07:00",
+      "fetched": "2026-02-12T21:41:50.891815+07:00"
+    },
+    {
+      "id": "680b71388ead6b5b6d47c35f4a1c99f6",
+      "title": "Chiến hạm Mỹ va chạm nhau trên Biển Caribe",
+      "link": "https://vnexpress.net/chien-ham-my-va-cham-nhau-tren-bien-caribe-5040577.html",
+      "summary": "Khu trục hạm Mỹ va chạm với tàu hậu cần khi tiếp dầu trên Biển Caribe, khiến hai người bị thương, chưa rõ nguyên nhân dẫn tới sự cố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-12T14:03:54+07:00",
+      "fetched": "2026-02-12T21:41:55.903424+07:00"
+    },
+    {
+      "id": "e96f9606a71294f967d0180aba7a4672",
+      "title": "Áo sơ mi kẻ sọc và những công thức phối đồ dễ áp dụng hằng ngày",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-so-mi-ke-soc-va-nhung-cong-thuc-phoi-do-de-ap-dung-hang-ngay-185260211145118358.htm",
+      "summary": "Áo sơ mi kẻ sọc là món đồ kinh điển dễ mặc, dễ phối, phù hợp từ công sở đến dạo phố. Chỉ với vài công thức đơn giản, nàng có thể làm mới phong cách mỗi ngày mà vẫn giữ trọn nét thanh lịch, hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T14:00:00+07:00",
+      "fetched": "2026-02-12T21:41:53.830893+07:00"
+    },
+    {
+      "id": "d3676abb2c978d3098c4a0d813a6bb81",
+      "title": "Đào cổ Yên Bái về Hà Nội, hoa to như mặt chén, khách 'rần rần chốt đơn'",
+      "link": "https://thanhnien.vn/dao-co-yen-bai-ve-ha-noi-hoa-to-nhu-mat-chen-khach-ran-ran-chot-don-185260212202222914.htm",
+      "summary": "Giống đào cổ Yên Bái có màu hồng thắm giống đào bích Nhật Tân nhưng đặc biệt có vỏ thân cây sáng, nhẵn nhụi. Khi nở hết cỡ, mặt hoa đào to như chiếc chén uống trà được nhiều người Hà Nội mua về chơi tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:58:00+07:00",
+      "fetched": "2026-02-12T21:41:53.831070+07:00"
+    },
+    {
+      "id": "e1d48efad5e1aeca6a2df472b4602a26",
+      "title": "Hội hoa xuân TP.HCM khai mạc: Màn diễu hành ấn tượng của ngựa đua từ Lâm Đồng",
+      "link": "https://thanhnien.vn/hoi-hoa-xuan-tphcm-khai-mac-man-dieu-hanh-an-tuong-cua-ngua-dua-tu-lam-dong-185260212201944792.htm",
+      "summary": "Tối 12.2 (25 tháng chạp), Hội hoa xuân TP.HCM chính thức khai mạc với màn diễu hành của những chú ngựa đua được mang từ Lâm Đồng đến công viên Tao Đàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:58:00+07:00",
+      "fetched": "2026-02-12T21:41:53.831241+07:00"
+    },
+    {
+      "id": "b1b1d8408f282769021103789d8ac3d3",
+      "title": "Trung Quốc thử nghiệm tên lửa và tàu Mặt Trăng",
+      "link": "https://vnexpress.net/trung-quoc-thu-nghiem-ten-lua-va-tau-mat-trang-5040568.html",
+      "summary": "Trung Quốc thực hiện thành công thử nghiệm quan trọng với tên lửa Trường Chinh 10 và tàu Mộng Châu, tiến gần đến mục tiêu đưa người lên Mặt Trăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:55:39+07:00",
+      "fetched": "2026-02-12T21:41:50.891996+07:00"
+    },
+    {
+      "id": "b1b1d8408f282769021103789d8ac3d3",
+      "title": "Trung Quốc thử nghiệm tên lửa và tàu Mặt Trăng",
+      "link": "https://vnexpress.net/trung-quoc-thu-nghiem-ten-lua-va-tau-mat-trang-5040568.html",
+      "summary": "Trung Quốc thực hiện thành công thử nghiệm quan trọng với tên lửa Trường Chinh 10 và tàu Mộng Châu, tiến gần đến mục tiêu đưa người lên Mặt Trăng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-12T13:55:39+07:00",
+      "fetched": "2026-02-12T21:41:59.665501+07:00"
+    },
+    {
+      "id": "865f1628d12d9e902a3bf12fc7266881",
+      "title": "Trung Quốc chi 300 triệu USD kích cầu tiêu dùng dịp Tết Bính Ngọ",
+      "link": "https://thanhnien.vn/trung-quoc-chi-300-trieu-usd-kich-cau-tieu-dung-dip-tet-binh-ngo-185260212202828813.htm",
+      "summary": "Trung Quốc đã khởi động chiến dịch lớn nhằm kích cầu người tiêu dùng trong kỳ nghỉ Tết Bính Ngọ 2026 kéo dài 9 ngày sắp tới, với hy vọng có thể vực dậy nhu cầu nội địa đang suy yếu giữa bối cảnh kinh tế chậm lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:55:00+07:00",
+      "fetched": "2026-02-12T21:41:53.831397+07:00"
+    },
+    {
+      "id": "7da7de81e7643da77e006ddff09abaf5",
+      "title": "Hai phụ nữ tìm chủ nhân túi vàng đánh rơi trên quốc lộ",
+      "link": "https://vnexpress.net/hai-phu-nu-tim-chu-nhan-tui-vang-danh-roi-tren-quoc-lo-5040576.html",
+      "summary": "Nhặt được túi xách đựng 3 nhẫn vàng trị giá hơn 30 triệu đồng trên quốc lộ 1, hai phụ nữ ở xã Cẩm Lạc trình báo công an nhờ tìm chủ nhân, chiều 12/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:54:22+07:00",
+      "fetched": "2026-02-12T21:41:50.892168+07:00"
+    },
+    {
+      "id": "53b272204ace25be50c337aa8741b2e1",
+      "title": "Top 6 kem chống lão hóa giúp làn da tuổi 40 cải thiện căng trẻ như 20",
+      "link": "https://thanhnien.vn/top-6-kem-chong-lao-hoa-giup-lan-da-tuoi-40-cai-thien-cang-tre-nhu-20-185260212204954037.htm",
+      "summary": "Bước sang tuổi 40, làn da bắt đầu 'tố cáo' thời gian bằng nếp nhăn, chảy xệ và xỉn màu. Nhưng nếu chọn đúng kem chống lão hóa, bạn có thể lấy lại vẻ căng mịn, săn chắc như tuổi 20. Dưới đây là top 6 kem chống lão hóa được chuyên gia và tín đồ làm đẹp đánh giá cao, giúp làn da cải thiện các dấu hiệu ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:54:00+07:00",
+      "fetched": "2026-02-12T21:41:53.831549+07:00"
+    },
+    {
       "id": "ec66b4f40478f0b37eb04b94251ad3bb",
       "title": "Độc đáo đồ trang trí Tết từ gốm, đồ đồng",
       "link": "https://tuoitre.vn/doc-dao-do-trang-tri-tet-tu-gom-do-dong-20260212085902677.htm",
@@ -603,6 +903,146 @@ window.newsData_2026_02_12 = {
       "fetched": "2026-02-12T13:51:02.421622+07:00"
     },
     {
+      "id": "25ae2a03786c377c832b2ee713ef7d37",
+      "title": "Người Việt mua bao nhiêu vàng trong năm 2025?",
+      "link": "https://vnexpress.net/nguoi-viet-mua-bao-nhieu-vang-trong-nam-2025-5040546.html",
+      "summary": "Hoạt động mua vàng nở rộ ở nhiều nước Đông Nam Á, nhưng ở Việt Nam giảm liên tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:49:56+07:00",
+      "fetched": "2026-02-12T21:41:50.892337+07:00"
+    },
+    {
+      "id": "783dcd8a312362d8ff9a6ada2a78c624",
+      "title": "Như ánh trăng sáng ngời",
+      "link": "https://thanhnien.vn/nhu-anh-trang-sang-ngoi-185260201111822425.htm",
+      "summary": "Giữa đại ngàn Trường Sơn, tình người của cộng đồng hai bên biên giới Việt - Lào vững như đá núi. Ở đó, có những người Cơ Tu, Ve, Tà Riềng mang trong mình dòng máu Lào nhưng đã chọn dừng lại, gắn bó và hiến dâng trọn đời cho đất Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:40:00+07:00",
+      "fetched": "2026-02-12T21:41:53.831699+07:00"
+    },
+    {
+      "id": "e81506d318045a2609d2596b6e0cd6ff",
+      "title": "Tranh luận việc trẻ mầm non gói bánh chưng ngày Tết",
+      "link": "https://vnexpress.net/tranh-luan-viec-tre-mam-non-goi-banh-chung-ngay-tet-5039566.html",
+      "summary": "Con gái 3 tuổi chủ yếu \"ngồi nhìn\" cô giáo gói bánh chưng, nên chị Trang thấy hoạt động này hình thức, lãng phí, nhưng nhiều phụ huynh không đồng tình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:07:46+07:00",
+      "fetched": "2026-02-12T21:41:50.892497+07:00"
+    },
+    {
+      "id": "b811e87ab74bdda52283bd47eb377fa4",
+      "title": "Đường dây sản xuất sản phẩm dinh dưỡng giả cho người ung thư",
+      "link": "https://vnexpress.net/duong-day-san-xuat-san-pham-dinh-duong-gia-cho-nguoi-ung-thu-5040581.html",
+      "summary": "'Thực dưỡng Fucoidan' được quảng cáo là có thể ngăn ngừa tế bào ung thư phát triển, tốt cho người mỡ máu, tiểu đường song thực chất đây là sản phẩm giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:06:59+07:00",
+      "fetched": "2026-02-12T21:41:50.892651+07:00"
+    },
+    {
+      "id": "6cdcdcac645750680dfaa4a987ec7aee",
+      "title": "5 giờ phá án, bắt nghi phạm cướp tiệm vàng",
+      "link": "https://thanhnien.vn/5-gio-pha-an-bat-nghi-pham-cuop-tiem-vang-185260212185155821.htm",
+      "summary": "Dù đã lên sẵn kịch bản đối phó, song chưa đầy 5 giờ gây án, nghi phạm cướp giật tiệm vàng ở xã Hiệp Phước đã bị Công an TP.HCM bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:01:00+07:00",
+      "fetched": "2026-02-12T21:41:53.831852+07:00"
+    },
+    {
+      "id": "c1758382ed00fb76495ffc566ab5cdba",
+      "title": "Chỉ vì cách đặt tên nick, tôi đã 'loại' một người đàn ông",
+      "link": "https://vnexpress.net/chi-vi-cach-dat-ten-nick-toi-da-loai-mot-nguoi-dan-ong-5040575.html",
+      "summary": "Địa chỉ email anh cung cấp là chuỗi chữ cái khó hiểu, không mang dấu hiệu nhận diện cá nhân, tôi mất thiện cảm ngay lập tức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:00:00+07:00",
+      "fetched": "2026-02-12T21:41:50.892813+07:00"
+    },
+    {
+      "id": "286d819fb0fc10a09ba9b4362af1c0d4",
+      "title": "Em luôn mang năng lượng tích cực chờ anh xuất hiện",
+      "link": "https://vnexpress.net/em-luon-mang-nang-luong-tich-cuc-cho-anh-xuat-hien-5040349.html",
+      "summary": "Một mùa xuân mới, em hy vọng anh sẽ xuất hiện, đồng hành cùng em trong chặng đường tiếp theo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:00:00+07:00",
+      "fetched": "2026-02-12T21:41:50.892915+07:00"
+    },
+    {
+      "id": "d4b96b2911615a2a15b10663c3db1b99",
+      "title": "Amway tạo dấu ấn với công nghệ lọc nước trên New eSpring",
+      "link": "https://vnexpress.net/amway-tao-dau-an-voi-cong-nghe-loc-nuoc-tren-new-espring-5040519.html",
+      "summary": "New eSpring từ Amway ứng dụng bộ lọc ba lớp và công nghệ UV-C LED, giúp giảm hơn 170 chất gây ô nhiễm và vi khuẩn trong nước sinh hoạt, thành quả của 40 năm nghiên cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:00:00+07:00",
+      "fetched": "2026-02-12T21:41:50.893094+07:00"
+    },
+    {
+      "id": "ba1f0447912e7e4c065138d442643fdf",
+      "title": "Xem nhanh 20h ngày 12.2: Chợ lá dong ế ẩm ngày cao điểm | 36 lộ trình tránh kẹt xe ngày tết ở TP.HCM",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-122-cho-la-dong-e-am-ngay-cao-diem-36-lo-trinh-tranh-ket-xe-ngay-tet-o-tphcm-185260212191018103.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 12.2 có nhiều tin tức đáng chú ý về: Chợ lá dong TP.HCM vào ngày cao điểm tết vẫn ế ẩm; TP.HCM công bố 36 lộ trình tránh kẹt xe dịp Tết Bính Ngọ: Người dân lưu ý;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:00:00+07:00",
+      "fetched": "2026-02-12T21:41:53.832027+07:00"
+    },
+    {
+      "id": "52c4d390696c36e9e389302603880fd0",
+      "title": "Cao Thái Sơn bán đồ chay ngon ra sao mà sẵn sàng mời antifan đến trải nghiệm?",
+      "link": "https://thanhnien.vn/cao-thai-son-ban-do-chay-ngon-ra-sao-ma-san-sang-moi-antifan-den-trai-nghiem-185260212180910931.htm",
+      "summary": "Bên cạnh sự nghiệp ca hát, Cao Thái Sơn bất ngờ thử sức kinh doanh ẩm thực chay. Anh thừa nhận sau khi bắt đầu ăn chay, tâm tính của mình trở nên hiền hòa hơn và không còn dễ bị xao động trước những điều tiêu cực đến từ antifan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:00:00+07:00",
+      "fetched": "2026-02-12T21:41:53.832181+07:00"
+    },
+    {
+      "id": "b711c0af1fae6095fa2bb39f0c92560b",
+      "title": "Valentine này, chọn quà trang sức PNJ và tận hưởng ưu đãi ngọt ngào mùa yêu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/valentine-nay-chon-qua-trang-suc-pnj-va-tan-huong-uu-dai-ngot-ngao-mua-yeu-185260212172038803.htm",
+      "summary": "Valentine không chỉ là dịp để nói lời yêu, mà còn là thời điểm nhiều cặp đôi chọn cách thể hiện sự trân trọng dành cho nhau qua những món quà tinh tế và ý nghĩa. Mùa Valentine 2026, PNJ mang đến loạt thiết kế trang sức tinh tế cùng chương trình ưu đãi hấp dẫn, giúp mỗi lựa chọn trở nên trọn vẹn hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T13:00:00+07:00",
+      "fetched": "2026-02-12T21:41:53.832334+07:00"
+    },
+    {
+      "id": "85a9dff1987c3c8e2128c226cf704eba",
+      "title": "Thủ tướng Hungary: EU nên ngừng chuyển tiền cho Ukraine",
+      "link": "https://vnexpress.net/thu-tuong-hungary-eu-nen-ngung-chuyen-tien-cho-ukraine-5040567.html",
+      "summary": "Thủ tướng Hungary cho rằng EU cần chấm dứt viện trợ Ukraine nếu thực sự nghiêm túc với mục tiêu vực dậy nền kinh tế của liên minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T12:59:02+07:00",
+      "fetched": "2026-02-12T21:41:50.893249+07:00"
+    },
+    {
+      "id": "85a9dff1987c3c8e2128c226cf704eba",
+      "title": "Thủ tướng Hungary: EU nên ngừng chuyển tiền cho Ukraine",
+      "link": "https://vnexpress.net/thu-tuong-hungary-eu-nen-ngung-chuyen-tien-cho-ukraine-5040567.html",
+      "summary": "Thủ tướng Hungary cho rằng EU cần chấm dứt viện trợ Ukraine nếu thực sự nghiêm túc với mục tiêu vực dậy nền kinh tế của liên minh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-12T12:59:02+07:00",
+      "fetched": "2026-02-12T21:41:55.903595+07:00"
+    },
+    {
+      "id": "287b9edc2a0db4ff09d168463089b8db",
+      "title": "Điều đặc biệt về chuyến xe nghĩa tình ‘bao’ từ A đến Z",
+      "link": "https://thanhnien.vn/dieu-dac-biet-ve-chuyen-xe-nghia-tinh-bao-tu-a-den-z-185260212191508903.htm",
+      "summary": "Không chỉ chở người về quê ăn tết miễn phí, 'chuyến xe nghĩa tình' còn chở theo yêu thương, sẻ chia, sự tử tế. Trên hành trình gần 1.000 km, mỗi ổ bánh mì, chiếc bánh bao, ly cà phê hay bao lì xì đều khiến lòng người ấm lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T12:51:00+07:00",
+      "fetched": "2026-02-12T21:41:53.832482+07:00"
+    },
+    {
       "id": "8c1a109da0ad3487343d56ce1ce47b22",
       "title": "Bất ngờ hoa tết ở TP.HCM: Nhà vườn gặp khách sộp, liền lì xì ngược lại khách",
       "link": "https://thanhnien.vn/bat-ngo-hoa-tet-o-tphcm-nha-vuon-gap-khach-sop-lien-li-xi-nguoc-lai-khach-185260212182658384.htm",
@@ -631,6 +1071,16 @@ window.newsData_2026_02_12 = {
       "category": "Tổng hợp",
       "published": "2026-02-12T12:30:00+07:00",
       "fetched": "2026-02-12T19:41:14.894254+07:00"
+    },
+    {
+      "id": "67a21e73b9ec8449872ecfc68c38b090",
+      "title": "TP HCM khánh thành Công viên tưởng niệm nạn nhân Covid-19",
+      "link": "https://vnexpress.net/tp-hcm-khanh-thanh-cong-vien-tuong-niem-nan-nhan-covid-19-5040538.html",
+      "summary": "Sau 5 năm từ lúc Covid-19 bùng phát, TP HCM tối 12/2 khánh thành công viên tưởng niệm 23.000 người đã mất, với biểu tượng “Giọt nước” đặt giữa quảng trường trung tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T12:29:44+07:00",
+      "fetched": "2026-02-12T21:41:50.893408+07:00"
     },
     {
       "id": "015292a028516388faa68e8335e1dcc5",
