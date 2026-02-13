@@ -1,6 +1,6 @@
 window.newsData_2026_02_14 = {
   "date": "2026-02-14",
-  "lastUpdated": "2026-02-14T01:33:36.751417+07:00",
+  "lastUpdated": "2026-02-14T03:27:03.199736+07:00",
   "articles": [
     {
       "id": "53841b5dd13dc60e0fddc30513f3649f",
@@ -151,6 +151,26 @@ window.newsData_2026_02_14 = {
       "category": "Tổng hợp",
       "published": "2026-02-14T01:33:31.260331+07:00",
       "fetched": "2026-02-14T01:33:31.260533+07:00"
+    },
+    {
+      "id": "9a96d7558fa878a00a218457707ab1c2",
+      "title": "Tết bận rộn, quên thuốc huyết áp: Khi nào cần lo lắng?",
+      "link": "https://thanhnien.vn/tet-ban-ron-quen-thuoc-huyet-ap-khi-nao-can-lo-lang-185260212172215465.htm",
+      "summary": "Quên uống thuốc hạ huyết áp là tình huống thường gặp, nhất là khi lịch sinh hoạt thay đổi vào dịp tết. Điều khiến người bị huyết áp cao lo lắng là liệu một ngày quên thuốc có làm huyết áp tăng cao và gây nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-13T20:16:00+07:00",
+      "fetched": "2026-02-14T03:26:54.578317+07:00"
+    },
+    {
+      "id": "06932ea21ff18ab9e964124b24a7e04d",
+      "title": "3 loại trái cây ngày tết giúp giảm tích mỡ bụng",
+      "link": "https://thanhnien.vn/3-loai-trai-cay-ngay-tet-giup-giam-tich-mo-bung-185260213165338964.htm",
+      "summary": "Kiểm soát mỡ bụng không chỉ là vấn đề thẩm mỹ mà còn liên quan đến sức khỏe lâu dài. Một số loại trái cây có thể giúp giảm tích mỡ bụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-13T20:09:00+07:00",
+      "fetched": "2026-02-14T03:26:54.578473+07:00"
     },
     {
       "id": "3417359daff770d0fc698dd122c7e2b7",
