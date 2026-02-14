@@ -1,7 +1,147 @@
 window.newsData_2026_02_14 = {
   "date": "2026-02-14",
-  "lastUpdated": "2026-02-14T05:23:36.623937+07:00",
+  "lastUpdated": "2026-02-14T08:12:23.281707+07:00",
   "articles": [
+    {
+      "id": "c580ed0254aac9dc3a3c90af018ea13b",
+      "title": "Thời tiết hôm nay 14-2: Bắc Bộ đến Thanh Hóa hửng nắng, Nam Bộ nắng oi",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-14-2-bac-bo-den-thanh-hoa-hung-nang-nam-bo-nang-oi-20260213161001341.htm",
+      "summary": "Hôm nay 14-2, thời tiết các tỉnh phía Bắc vẫn còn mưa nhưng trời đã có nắng, đêm và sáng lạnh đến rét, Nam Bộ nắng khá gay gắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T08:12:15.168961+07:00",
+      "fetched": "2026-02-14T08:12:15.169076+07:00"
+    },
+    {
+      "id": "379e332a1bcff5642879697125f140a7",
+      "title": "VinSpace bổ nhiệm CEO là người từng góp mặt trong dự án vệ tinh tại FPT",
+      "link": "https://tuoitre.vn/vinspace-bo-nhiem-ceo-la-nguoi-tung-gop-mat-trong-du-an-ve-tinh-tai-fpt-20260213235641756.htm",
+      "summary": "VinSpace vừa bổ nhiệm ông Vũ Trọng Thư, nguyên Trưởng phòng nghiên cứu không gian thuộc Viện Nghiên cứu công nghệ FPT, làm người đại diện theo pháp luật thay bà Nguyễn Mai Hoa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T08:12:15.168826+07:00",
+      "fetched": "2026-02-14T08:12:15.168949+07:00"
+    },
+    {
+      "id": "c9de457c149e917b57de0460f6412b7f",
+      "title": "Chen chúc đón xe về quê ăn Tết, 'mệt thì có mệt, nhưng vui nhiều hơn, không đâu bằng nhà mình'",
+      "link": "https://tuoitre.vn/chen-chuc-don-xe-ve-que-an-tet-met-thi-co-met-nhung-vui-nhieu-hon-khong-dau-bang-nha-minh-20260213114803943.htm",
+      "summary": "Bạn đọc Tuổi Trẻ Online bày tỏ sự đồng cảm, chia sẻ trước hình ảnh bến xe đông nghịt, nhiều người dân đợi nhiều giờ liền để lên xe về quê đón Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T08:12:15.168679+07:00",
+      "fetched": "2026-02-14T08:12:15.168814+07:00"
+    },
+    {
+      "id": "37c7d54833b1fb451d9bc4aa2642cafc",
+      "title": "Người dân Đà Nẵng rộn ràng chở mùa xuân về nhà",
+      "link": "https://tuoitre.vn/nguoi-dan-da-nang-ron-rang-cho-mua-xuan-ve-nha-20260213225656256.htm",
+      "summary": "Những ngày cận Tết, người dân Đà Nẵng rộn ràng xuống phố mua sắm hoa, cây cảnh. Từng chuyến xe máy chở quất, cúc mâm xôi, hoa đào… nối nhau lăn bánh mang mùa xuân về nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T08:12:15.168543+07:00",
+      "fetched": "2026-02-14T08:12:15.168666+07:00"
+    },
+    {
+      "id": "bb0b356a5f5bbe6cddc1729c7636ec95",
+      "title": "Neto lập hat-trick, Chelsea vào vòng 16 đội FA Cup",
+      "link": "https://tuoitre.vn/neto-lap-hat-trick-chelsea-vao-vong-16-doi-fa-cup-20260214052257694.htm",
+      "summary": "Màn tỏa sáng của tiền đạo Pedro Neto đã giúp Chelsea dễ dàng đi tiếp ở FA Cup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T08:12:15.168411+07:00",
+      "fetched": "2026-02-14T08:12:15.168531+07:00"
+    },
+    {
+      "id": "2fe29bbc9e5a1a2bcb9b7ba189a1c790",
+      "title": "Tết ‘gặp’ Hồng Vân, Chí Trung, Mỹ Tâm, Steven Nguyễn, Hòa Minzy cùng loạt sao trên VTV",
+      "link": "https://tuoitre.vn/tet-gap-hong-van-chi-trung-my-tam-steven-nguyen-hoa-minzy-cung-loat-sao-tren-vtv-20260214035253394.htm",
+      "summary": "Tết ngồi ở nhà cũng ‘gặp’ loạt sao đổ bộ loạt chương trình Tết trên VTV cũng như những chương trình giải trí khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T08:12:15.168267+07:00",
+      "fetched": "2026-02-14T08:12:15.168397+07:00"
+    },
+    {
+      "id": "c581a9965eb8cef2063086e4c686a8c5",
+      "title": "Thu Trang buồn vì thất bại của phim 'Ai thương ai mến'",
+      "link": "https://tuoitre.vn/thu-trang-buon-vi-that-bai-cua-phim-ai-thuong-ai-men-20260213205217157.htm",
+      "summary": "Tối 13-2, Thu Trang có bức thư gửi khán giả, chia sẻ niềm vui và nỗi buồn không thể tránh khỏi khi bộ phim 'Ai thương ai mến' thất bại ở phòng vé.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T08:12:15.168140+07:00",
+      "fetched": "2026-02-14T08:12:15.168255+07:00"
+    },
+    {
+      "id": "7b58e376df8f1c7b0e31d5cbff508f97",
+      "title": "Sứ mệnh của trí thức kiều bào",
+      "link": "https://tuoitre.vn/su-menh-cua-tri-thuc-kieu-bao-20260205160224981.htm",
+      "summary": "Do nhiều nguyên nhân lịch sử, trong một thời gian dài đất nước ta chưa có đủ điều kiện thuận lợi để thúc đẩy và phát triển khoa học - công nghệ. Tuy nhiên, truyền thống \"chiêu hiền đãi sĩ\" vẫn luôn là sợi chỉ đỏ xuyên suốt chiều dài lịch sử dân tộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T08:12:15.168013+07:00",
+      "fetched": "2026-02-14T08:12:15.168129+07:00"
+    },
+    {
+      "id": "9e5018be9b15ac63f8fdbc8127210c00",
+      "title": "Tiền đạo Jordan khiến dàn sao PSG ‘ôm hận’",
+      "link": "https://tuoitre.vn/tien-dao-jordan-khien-dan-sao-psg-om-han-20260214055858565.htm",
+      "summary": "Bàn thắng của Mousa Al-Tamari (Jordan) đã góp công lớn vào chiến thắng của Rennes trước “gã khổng lồ” PSG.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T08:12:15.167877+07:00",
+      "fetched": "2026-02-14T08:12:15.168002+07:00"
+    },
+    {
+      "id": "439bab6717a6626878819a377d4ddf24",
+      "title": "Mỹ Tâm, Thanh Thủy cùng nhiều người nổi tiếng gói bánh, làm từ thiện dịp Tết",
+      "link": "https://tuoitre.vn/my-tam-thanh-thuy-cung-nhieu-nguoi-noi-tieng-goi-banh-lam-tu-thien-dip-tet-20260214022029742.htm",
+      "summary": "Những ngày cận Tết, nhiều nghệ sĩ Việt đi chợ Tết, nấu bánh chưng, bánh tét, tặng quà cho những hoàn cảnh đặc biệt khó khăn đón Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T08:12:15.167745+07:00",
+      "fetched": "2026-02-14T08:12:15.167865+07:00"
+    },
+    {
+      "id": "aa72de96d317ea371e336aa22f45f35d",
+      "title": "Giáng Son và Hà Trần 'đánh úp' với 'Hà Nội những sắc hoa mùa xuân' đúng 26 Tết",
+      "link": "https://tuoitre.vn/giang-son-va-ha-tran-danh-up-voi-ha-noi-nhung-sac-hoa-mua-xuan-dung-26-tet-2026021404452189.htm",
+      "summary": "Tưởng nhạc Tết 2026 đã 'chốt' xong danh sách nhưng hóa ra không phải. Nhạc sĩ Giáng Son và ca sĩ Hà Trần ‘đánh up’ với MV ‘Hà Nội những sắc hoa mùa xuân’ đúng 26 Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T08:12:15.167610+07:00",
+      "fetched": "2026-02-14T08:12:15.167728+07:00"
+    },
+    {
+      "id": "2505ce1bf4aef2cd631ea33e1f4c47b7",
+      "title": "Cách mặc đồ xuyên thấu đẹp như sao 50 sắc thái Dakota Johnson",
+      "link": "https://tuoitre.vn/cach-mac-do-xuyen-thau-dep-nhu-sao-50-sac-thai-dakota-johnson-20260213225320817.htm",
+      "summary": "Không chạy theo tranh cãi hay chuẩn mực gợi cảm, Dakota Johnson chọn mặc những gì khiến cô thấy đẹp và tự do.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T08:12:15.167464+07:00",
+      "fetched": "2026-02-14T08:12:15.167598+07:00"
+    },
+    {
+      "id": "3a52ca8212095c626f0ddca52248ec11",
+      "title": "Việt Nam Xanh 2025: Từ cam kết đến hành động vì tương lai xanh",
+      "link": "https://tuoitre.vn/viet-nam-xanh-2025-tu-cam-ket-den-hanh-dong-vi-tuong-lai-xanh-20260131133807376.htm",
+      "summary": "Từng được xem là câu chuyện của tương lai xa, của những quốc gia phát triển hay nhóm người có điều kiện, nay \"xanh\" đang hiện diện ngày một rõ nét trong đời sống thường nhật, trong cách tiêu dùng, thói quen sinh hoạt rất nhỏ của mỗi cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T08:12:15.167296+07:00",
+      "fetched": "2026-02-14T08:12:15.167450+07:00"
+    },
+    {
+      "id": "f255fc13940b23a3be6f160410ab005c",
+      "title": "Bất chấp FIFA 'mở cửa', LĐBĐ châu Âu vẫn nói không với Nga",
+      "link": "https://tuoitre.vn/bat-chap-fifa-mo-cua-ldbd-chau-au-van-noi-khong-voi-nga-20260214062220477.htm",
+      "summary": "Trong khi FIFA ủng hộ việc nới lỏng các lệnh trừng phạt với Nga, Liên đoàn Bóng đá châu Âu (UEFA) vẫn kiên quyết giữ nguyên lệnh cấm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T08:12:15.167063+07:00",
+      "fetched": "2026-02-14T08:12:15.167281+07:00"
+    },
     {
       "id": "53841b5dd13dc60e0fddc30513f3649f",
       "title": "Người dân chen chân xem \"đàn ngựa phi nước đại\" tại đường hoa tỉnh Đồng Tháp",
@@ -151,6 +291,376 @@ window.newsData_2026_02_14 = {
       "category": "Tổng hợp",
       "published": "2026-02-14T01:33:31.260331+07:00",
       "fetched": "2026-02-14T01:33:31.260533+07:00"
+    },
+    {
+      "id": "428ef20e2a72ccf200ca77e24f273483",
+      "title": "Kyo York nói lý do sống kín tiếng, trải lòng về cuộc sống sau biến cố",
+      "link": "https://thanhnien.vn/kyo-york-noi-ly-do-song-kin-tieng-trai-long-ve-cuoc-song-sau-bien-co-185260213230102114.htm",
+      "summary": "Nhiều năm qua, Kyo York vẫn bền bỉ hoạt động nghệ thuật và dành trọn tình yêu cho âm nhạc Việt. Sau biến cố, nam ca sĩ trải lòng về hành trình tự chữa lành, học cách sống chậm lại và giữ những khoảng riêng tư phía sau ánh đèn sân khấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:08:00+07:00",
+      "fetched": "2026-02-14T08:12:11.998083+07:00"
+    },
+    {
+      "id": "fa1d5c50ec0e0325409ea3ec3be37954",
+      "title": "Đỗ Hoàng Hên và cái tết đầu tiên là công dân Việt Nam: Mê phở chay, ước mơ khoác áo đội tuyển",
+      "link": "https://thanhnien.vn/do-hoang-hen-va-cai-tet-dau-tien-la-cong-dan-viet-nam-me-pho-chay-uoc-mo-khoac-ao-doi-tuyen-185260212160243791.htm",
+      "summary": "Tết Bính Ngọ 2026 đánh dấu cột mốc đặc biệt trong sự nghiệp và cuộc sống của tiền đạo Đỗ Hoàng Hên, khi anh lần đầu đón năm mới với tư cách công dân Việt Nam. Sau 5 năm gắn bó với V-League, Hoàng Hên sẵn sàng cho giấc mơ lớn hơn: khoác áo đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:07:00+07:00",
+      "fetched": "2026-02-14T08:12:11.998266+07:00"
+    },
+    {
+      "id": "6616619e466f3b3b2624c12fe09ba01c",
+      "title": "Các điểm du lịch và xe buýt miễn vé dịp Tết Bính Ngọ",
+      "link": "https://vnexpress.net/cac-diem-du-lich-va-xe-buyt-mien-ve-dip-tet-binh-ngo-5040778.html",
+      "summary": "Hàng loạt di tích lịch sử, danh thắng và các tuyến giao thông công cộng trên cả nước miễn phí phục vụ người dân du xuân từ ngày 29 Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:06:18+07:00",
+      "fetched": "2026-02-14T08:12:08.498290+07:00"
+    },
+    {
+      "id": "ae56c454f366df1913e6b16331c58b35",
+      "title": "Giá vàng thế giới quay đầu tăng mạnh",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-quay-dau-tang-manh-5041095.html",
+      "summary": "Giá mỗi ounce vàng quay lại trên mốc 5.000 USD, sau khi Mỹ công bố lạm phát hạ nhiệt trong tháng 1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:03:40+07:00",
+      "fetched": "2026-02-14T08:12:08.498594+07:00"
+    },
+    {
+      "id": "e11aa2acdf6249f6e8ad911e84e22b73",
+      "title": "Hoa hậu Như Vân: Nhã Phương không ghen với tôi",
+      "link": "https://thanhnien.vn/hoa-hau-nhu-van-nha-phuong-khong-ghen-voi-toi-185260214025618611.htm",
+      "summary": "Tham gia phim chiếu tết 'Nhà ba tôi một phòng', Miss Global 2025 Nguyễn Đình Như Vân không ngại định kiến 'bình hoa di động'. 'Tôi không bước vào phim ảnh như cuộc dạo chơi. Tôi bước vào vì tôi cần làm việc, cần nuôi con và cũng cần được sống với một đam mê mới', Như Vân thẳng thắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:02:00+07:00",
+      "fetched": "2026-02-14T08:12:11.998457+07:00"
+    },
+    {
+      "id": "a5b03b1b6fd52b214d7e0eb737a05a51",
+      "title": "Tết ở Trường Sa - Kỳ 3: Đảo Trường Sa, thủ đô quần đảo",
+      "link": "https://thanhnien.vn/tet-o-truong-sa-ky-3-dao-truong-sa-thu-do-quan-dao-185260210180540149.htm",
+      "summary": "Đảo Trường Sa còn được gọi là \"thủ đô của toàn quần đảo\", là thôn thuộc đặc khu Trường Sa của tỉnh Khánh Hòa và là đảo có nhiều đoàn khách ghé thăm nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:01:00+07:00",
+      "fetched": "2026-02-14T08:12:11.998623+07:00"
+    },
+    {
+      "id": "d07c398eaf391101f463c9705b06443e",
+      "title": "'Godzilla' đại chiến giữa phố khiến tài xế đứng hình",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-godzilla-dai-chien-giua-pho-khien-tai-xe-dung-hinh-5040922.html",
+      "summary": "Hai con kỳ đà nước khổng lồ bất ngờ đứng thẳng, ôm chặt và vật lộn ngay giữa đường khiến người tài xế dừng xe né tránh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:00:00+07:00",
+      "fetched": "2026-02-14T08:12:08.498856+07:00"
+    },
+    {
+      "id": "362080e3fd2c7dc7c710ee2e37c6bd3b",
+      "title": "Khói nhang ảnh hưởng đến người bệnh ung thư thế nào",
+      "link": "https://vnexpress.net/khoi-nhang-anh-huong-den-nguoi-benh-ung-thu-the-nao-5041074.html",
+      "summary": "Khói nhang chứa CO, bụi mịn và nhiều khí độc, có thể gây hại sức khỏe nếu tiếp xúc nhiều, nhất là với người bệnh ung thư có hệ miễn dịch suy giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:00:00+07:00",
+      "fetched": "2026-02-14T08:12:08.499051+07:00"
+    },
+    {
+      "id": "2be76adef424b01028b30e54d39c1b3c",
+      "title": "Kiểm soát triệu chứng rối loạn tiền đình ngày Tết thế nào?",
+      "link": "https://vnexpress.net/kiem-soat-trieu-chung-roi-loan-tien-dinh-ngay-tet-the-nao-5041070.html",
+      "summary": "Tôi bị chóng mặt tư thế kịch phát lành tính, thường xuyên tái phát gây chóng mặt, buồn nôn. Làm sao kiểm soát triệu chứng bệnh vào ngày Tết? (Thu Nguyễn, 65 tuổi, Cần Thơ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:00:00+07:00",
+      "fetched": "2026-02-14T08:12:08.499278+07:00"
+    },
+    {
+      "id": "ddb6a9862470053c51ac71ff978c666c",
+      "title": "Mắt nhìn thấy đốm đen như ruồi bay có nguy hiểm không?",
+      "link": "https://vnexpress.net/mat-nhin-thay-dom-den-nhu-ruoi-bay-co-nguy-hiem-khong-5040705.html",
+      "summary": "Tôi nhìn thấy nhiều chấm đen nhỏ di chuyển mỗi khi đảo mắt. Hiện tượng này là gì, có nguy hiểm không? (Trung Kiên, 42 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:00:00+07:00",
+      "fetched": "2026-02-14T08:12:08.499532+07:00"
+    },
+    {
+      "id": "e9c7a2134bb70b1375f7348ddb678c63",
+      "title": "Panasonic trao gửi giá trị Nhật Bản qua từng sản phẩm, đón tết cùng gia đình Việt",
+      "link": "https://thanhnien.vn/panasonic-trao-gui-gia-tri-nhat-ban-qua-tung-san-pham-don-tet-cung-gia-dinh-viet-185260213191355132.htm",
+      "summary": "Kiên định với giá trị Nhật Bản trong từng sản phẩm, Panasonic trở thành người bạn đáng tin cậy của hàng triệu gia đình Việt trong suốt hơn nửa thế kỷ qua. Dịp tết 2026, Panasonic tiếp nối hành trình nâng cao chất lượng sống bằng chương trình ưu đãi 'Mua Panasonic chuẩn Nhật - Trúng ngay xe điện Nhật...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:00:00+07:00",
+      "fetched": "2026-02-14T08:12:11.998777+07:00"
+    },
+    {
+      "id": "dfe8fd67974b4423b6a5f8d653ea2b1c",
+      "title": "Á hậu Quỳnh Châu săn ‘ngựa vàng’, hé lộ kế hoạch đón tết với chồng doanh nhân",
+      "link": "https://thanhnien.vn/a-hau-quynh-chau-san-ngua-vang-he-lo-ke-hoach-don-tet-voi-chong-doanh-nhan-185260213190242528.htm",
+      "summary": "Xuất hiện trong tập mở màn series 'Cùng sao tâm tình đón tết', Á hậu Chế Nguyễn Quỳnh Châu gây chú ý khi chia sẻ hành trình một năm nhiều dấu ấn, cuộc sống hôn nhân bên doanh nhân Nguyễn Ngọc Phát và những kế hoạch rực rỡ cho năm mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:00:00+07:00",
+      "fetched": "2026-02-14T08:12:11.998926+07:00"
+    },
+    {
+      "id": "01925e2ba79e95ff08b02f8fb791d41c",
+      "title": "Độc đáo trào lưu chưng tết cây bắp: Vì sao hút khách?",
+      "link": "https://thanhnien.vn/doc-dao-trao-luu-chung-tet-cay-bap-vi-sao-hut-khach-185260213150359292.htm",
+      "summary": "Những ngày cận tết, không khí tại các điểm bán hoa xuân ở TP.HCM trở nên nhộn nhịp hơn bao giờ hết. Bên cạnh hoa mai, quất kiểng hay những chậu cúc mâm xôi tròn đầy, thị trường hoa tết còn có một loài cây chưng tết đặc biệt: cây bắp trồng chậu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:00:00+07:00",
+      "fetched": "2026-02-14T08:12:11.999074+07:00"
+    },
+    {
+      "id": "c806661135e61714c8638892f246a575",
+      "title": "Tiền không thể ngủ yên dịp Tết - Techcombank Sinh Lời Tự Động tối ưu tới 5.5%/năm",
+      "link": "https://thanhnien.vn/tien-khong-the-ngu-yen-dip-tet-techcombank-sinh-loi-tu-dong-toi-uu-toi-55-nam-18526021315035523.htm",
+      "summary": "Không còn nỗi lo 'tiền nằm im chờ chi tiêu', người Việt hiện đại đang đón Tết ở một vị thế mới: 'Chill' hết mình với dòng tiền linh hoạt 24/7, trong khi tài sản vẫn âm thầm tăng trưởng mỗi ngày nhờ 'cỗ máy' Sinh Lời Tự Động từ Techcombank: Một ngày cũng sinh lợi, một đồng cũng sinh lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:00:00+07:00",
+      "fetched": "2026-02-14T08:12:11.999230+07:00"
+    },
+    {
+      "id": "2e68d9aa657525c1957017b40fc4622b",
+      "title": "Nguyễn Duyên Quỳnh đón tết đặc biệt sau ‘cơn sốt’ của ‘Viết tiếp câu chuyện hòa bình’",
+      "link": "https://thanhnien.vn/nguyen-duyen-quynh-don-tet-dac-biet-sau-con-sot-cua-viet-tiep-cau-chuyen-hoa-binh-185260212104734577.htm",
+      "summary": "Nguyễn Duyên Quỳnh là ca sĩ đầu tiên hát 'Viết tiếp câu chuyện hòa bình' của nhạc sĩ Nguyễn Văn Chung. Và sau 'cơn sốt' ca khúc 'tỉ view\" ấy, nữ ca sĩ cũng đón một cái tết đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:00:00+07:00",
+      "fetched": "2026-02-14T08:12:11.999395+07:00"
+    },
+    {
+      "id": "43f4ea527bcccc0f5e511c60deed5ba6",
+      "title": "Yêu cả dấu nằm - Thơ của Lê Minh Quốc",
+      "link": "https://thanhnien.vn/yeu-ca-dau-nam-tho-cua-le-minh-quoc-185260201233730878.htm",
+      "summary": "",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T01:00:00+07:00",
+      "fetched": "2026-02-14T08:12:14.057087+07:00"
+    },
+    {
+      "id": "b2f875af432b259b1ab4a450f00b44ae",
+      "title": "Apple tung bản cập nhật quan trọng cho người dùng iPhone đời cũ",
+      "link": "https://thanhnien.vn/apple-tung-ban-cap-nhat-quan-trong-cho-nguoi-dung-iphone-doi-cu-185260214003313435.htm",
+      "summary": "Đối với người dùng không thể cập nhật iPhone lên iOS 26.3 (và cả iPad với iPadOS 26.3) mới nhất, Apple đã phát hành iOS 18.7.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T00:59:00+07:00",
+      "fetched": "2026-02-14T08:12:14.057291+07:00"
+    },
+    {
+      "id": "a5eb429636f8e0f3cf758eb619c4ea0e",
+      "title": "Pin iPhone 17 Pro Max khác biệt ra sao giữa Wi-Fi và 5G",
+      "link": "https://thanhnien.vn/pin-iphone-17-pro-max-khac-biet-ra-sao-giua-wi-fi-va-5g-185260214000950553.htm",
+      "summary": "Trang YouTube PhoneBuff đã thử nghiệm thời lượng pin iPhone 17 Pro Max để so sánh hiệu quả khi sử dụng Wi-Fi thay vì 5G hoặc mạng di động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T00:56:00+07:00",
+      "fetched": "2026-02-14T08:12:14.057473+07:00"
+    },
+    {
+      "id": "de5ae28fba5f69e90059da7fb209ba05",
+      "title": "Cà Mau: Công an yêu cầu cung cấp hồ sơ gói thầu thuộc bệnh viện 1.200 giường",
+      "link": "https://thanhnien.vn/ca-mau-cong-an-yeu-cau-cung-cap-ho-so-goi-thau-thuoc-benh-vien-1200-giuong-185260213192116207.htm",
+      "summary": "Công an tỉnh Cà Mau yêu cầu Sở Xây dựng cung cấp hồ sơ gói thầu số 27, thuộc dự án Bệnh viện đa khoa Cà Mau quy mô 1.200 giường, để phục vụ công tác xác minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T00:55:00+07:00",
+      "fetched": "2026-02-14T08:12:14.057636+07:00"
+    },
+    {
+      "id": "a9c97be684e077b0d85d010cfa5011ac",
+      "title": "Pháo hoa Bộ Quốc phòng giá bị đẩy cao gấp 3 lần giá gốc vẫn khó tìm như 'mua vàng’",
+      "link": "https://thanhnien.vn/phao-hoa-bo-quoc-phong-gia-bi-day-cao-gap-3-lan-gia-goc-van-kho-tim-nhu-mua-vang-185260214061307213.htm",
+      "summary": "Cận tết, pháo hoa của Nhà máy Z121 rơi vào tình trạng khan hiếm, nhiều cửa hàng tại Hà Nội 'cháy hàng', đóng cửa sớm. Trong đó, loại pháo giàn phun hoa 25 ống dù giá bị đẩy cao gấp 2 - 3 lần so với niêm yết nhưng do độ hiếm nên người dân vẫn khó tìm mua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T00:50:00+07:00",
+      "fetched": "2026-02-14T08:12:14.057790+07:00"
+    },
+    {
+      "id": "81710d3e40e24fded6a10bf85b49c5f4",
+      "title": "Cán bộ, đảng viên được kêu gọi gương mẫu sinh con",
+      "link": "https://vnexpress.net/can-bo-dang-vien-duoc-keu-goi-guong-mau-sinh-con-5041072.html",
+      "summary": "Cán bộ, đảng viên được kêu gọi đề cao tính tiên phong, gương mẫu sinh con, nuôi dạy con tốt, xây dựng gia đình tiến bộ, hạnh phúc để đạt và duy trì mức sinh thay thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T00:49:53+07:00",
+      "fetched": "2026-02-14T08:12:08.499789+07:00"
+    },
+    {
+      "id": "f7e96f7704da8f6be4b7aee27ddb795c",
+      "title": "Sony tung ra tai nghe chống ồn cao cấp WF-1000XM6",
+      "link": "https://thanhnien.vn/sony-tung-ra-tai-nghe-chong-on-cao-cap-wf-1000xm6-185260214013640244.htm",
+      "summary": "Sony vừa chính thức giới thiệu tai nghe không dây hoàn toàn (TWS) WF-1000XM6 trên thị trường toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T00:41:00+07:00",
+      "fetched": "2026-02-14T08:12:14.057940+07:00"
+    },
+    {
+      "id": "63d146f3c96c21c2ccc2bbf51246ff1f",
+      "title": "'Thế giới của Sophie' - cánh cửa triết học",
+      "link": "https://vnexpress.net/the-gioi-cua-sophie-canh-cua-triet-hoc-5040770.html",
+      "summary": "Nhiều cuốn sách có thể giúp độc giả trở nên thông minh hơn, nhưng cuốn ''Thế giới của Sophie'' khiến tôi trở nên tỉnh táo hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T00:34:14+07:00",
+      "fetched": "2026-02-14T08:12:08.500077+07:00"
+    },
+    {
+      "id": "a3fec05a50189924ac062214bc4f98ae",
+      "title": "Phi công 'bị sa thải' vì quên chăn của Bộ trưởng Mỹ trên máy bay",
+      "link": "https://vnexpress.net/phi-cong-bi-sa-thai-vi-quen-chan-cua-bo-truong-my-tren-may-bay-5041077.html",
+      "summary": "Phi công của Tuần duyên Mỹ bị sa thải vì để quên chăn của Bộ trưởng An ninh Nội địa Noem trên máy bay, nhưng sau đó được tuyển lại vì không có người thay thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T00:31:45+07:00",
+      "fetched": "2026-02-14T08:12:08.500341+07:00"
+    },
+    {
+      "id": "a3fec05a50189924ac062214bc4f98ae",
+      "title": "Phi công 'bị sa thải' vì quên chăn của Bộ trưởng Mỹ trên máy bay",
+      "link": "https://vnexpress.net/phi-cong-bi-sa-thai-vi-quen-chan-cua-bo-truong-my-tren-may-bay-5041077.html",
+      "summary": "Phi công của Tuần duyên Mỹ bị sa thải vì để quên chăn của Bộ trưởng An ninh Nội địa Noem trên máy bay, nhưng sau đó được tuyển lại vì không có người thay thế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-14T00:31:45+07:00",
+      "fetched": "2026-02-14T08:12:16.738188+07:00"
+    },
+    {
+      "id": "0e27073a0cea49ce4032cbf68950bdb2",
+      "title": "Phó thủ tướng: ACV chịu trách nhiệm nếu chậm tiến độ sân bay Long Thành",
+      "link": "https://vnexpress.net/pho-thu-tuong-acv-chiu-trach-nhiem-neu-cham-tien-do-san-bay-long-thanh-5041067.html",
+      "summary": "Tổng công ty Cảng hàng không Việt Nam (ACV) chịu trách nhiệm trước Chính phủ, Thủ tướng nếu dự án sân bay Long Thành không hoàn thành đúng tiến độ cam kết, Phó thủ tướng Trần Hồng Hà chỉ đạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T00:29:16+07:00",
+      "fetched": "2026-02-14T08:12:08.500553+07:00"
+    },
+    {
+      "id": "e776f14abaa02be8dbef6114dfe22786",
+      "title": "Nhà mạng ứng cứu nhau nếu có sự cố dịp Tết",
+      "link": "https://vnexpress.net/nha-mang-ung-cuu-nhau-neu-co-su-co-dip-tet-5041061.html",
+      "summary": "Bộ Khoa học và Công nghệ yêu cầu doanh nghiệp viễn thông phối hợp, hỗ trợ nhau để đảm bảo các mạng di động thông suốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T00:26:07+07:00",
+      "fetched": "2026-02-14T08:12:08.500825+07:00"
+    },
+    {
+      "id": "e776f14abaa02be8dbef6114dfe22786",
+      "title": "Nhà mạng ứng cứu nhau nếu có sự cố dịp Tết",
+      "link": "https://vnexpress.net/nha-mang-ung-cuu-nhau-neu-co-su-co-dip-tet-5041061.html",
+      "summary": "Bộ Khoa học và Công nghệ yêu cầu doanh nghiệp viễn thông phối hợp, hỗ trợ nhau để đảm bảo các mạng di động thông suốt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-14T00:26:07+07:00",
+      "fetched": "2026-02-14T08:12:22.045198+07:00"
+    },
+    {
+      "id": "e415ad398c3aa42b102b0c74dca74dbc",
+      "title": "Tiệm bánh Bắc Kinh chật kín khách sau khi ông Tập tới chúc Tết",
+      "link": "https://vnexpress.net/tiem-banh-bac-kinh-chat-kin-khach-sau-khi-ong-tap-toi-chuc-tet-5041071.html",
+      "summary": "Khách hàng kéo tới một tiệm bánh ngọt tại Bắc Kinh, nơi ông Tập ghé chúc Tết tuần qua, với hy vọng mua được món mà ông đã thưởng thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T00:02:32+07:00",
+      "fetched": "2026-02-14T08:12:08.501070+07:00"
+    },
+    {
+      "id": "e415ad398c3aa42b102b0c74dca74dbc",
+      "title": "Tiệm bánh Bắc Kinh chật kín khách sau khi ông Tập tới chúc Tết",
+      "link": "https://vnexpress.net/tiem-banh-bac-kinh-chat-kin-khach-sau-khi-ong-tap-toi-chuc-tet-5041071.html",
+      "summary": "Khách hàng kéo tới một tiệm bánh ngọt tại Bắc Kinh, nơi ông Tập ghé chúc Tết tuần qua, với hy vọng mua được món mà ông đã thưởng thức.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-14T00:02:32+07:00",
+      "fetched": "2026-02-14T08:12:16.738364+07:00"
+    },
+    {
+      "id": "0f2ffd4fa670ee2e9428ac31b816a33b",
+      "title": "Người Hàn đưa chó đi spa, học nấu ăn dịp Tết",
+      "link": "https://vnexpress.net/nguoi-han-dua-cho-di-spa-hoc-nau-an-dip-tet-5041041.html",
+      "summary": "Nhiều gia đình Hàn Quốc chi mạnh tay cho thú cưng nghỉ dưỡng resort 5 sao, học làm bánh và xông hơi, khiến các dịch vụ này \"cháy vé\" dịp Tết Nguyên đán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T00:00:00+07:00",
+      "fetched": "2026-02-14T08:12:08.501319+07:00"
+    },
+    {
+      "id": "9e29722ac47c610bf570b7d0e7443d5c",
+      "title": "Lý do đồ ăn Thái Lan ngọt đến mức báo động",
+      "link": "https://vnexpress.net/ly-do-do-an-thai-lan-ngot-den-muc-bao-dong-5040545.html",
+      "summary": "Ẩm thực Thái Lan từng chủ yếu xoay quanh vì cay và mặn nhưng giờ độ ngọt trở nên đáng báo động khi 300 ml trà sữa trân châu chứa tới 12 thìa đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T00:00:00+07:00",
+      "fetched": "2026-02-14T08:12:08.501567+07:00"
+    },
+    {
+      "id": "7ff5b5172790eb9e9b8e5b728c3040bc",
+      "title": "'10 thói quen giúp tôi lái xe an toàn 10 năm qua'",
+      "link": "https://vnexpress.net/10-thoi-quen-giup-toi-lai-xe-an-toan-10-nam-qua-5040658.html",
+      "summary": "Tôi không nghĩ mình là người lái xe giỏi, chỉ luôn tự nhắc bản thân nguyên tắc rất giản dị - về đến nhà an toàn đã là thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T00:00:00+07:00",
+      "fetched": "2026-02-14T08:12:08.501797+07:00"
+    },
+    {
+      "id": "4ded523680893ba62c5774851375b04d",
+      "title": "Serena gây sốc với ngoại hình giảm 14 kg",
+      "link": "https://vnexpress.net/serena-gay-soc-voi-ngoai-hinh-giam-14-kg-5041069.html",
+      "summary": "Cựu tay vợt nữ số một thế giới Serena Williams sử dụng thuốc để giảm 14 kg, xuất hiện gây bất ngờ trong trận Super Bowl bóng bầu dục Mỹ tuần qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-13T23:55:34+07:00",
+      "fetched": "2026-02-14T08:12:23.276816+07:00"
+    },
+    {
+      "id": "b650041b34bbd1f9b8c3f6e07a92974c",
+      "title": "Ông Trump lần đầu đề cập đến 'thay đổi quyền lực' ở Iran",
+      "link": "https://vnexpress.net/ong-trump-lan-dau-de-cap-den-thay-doi-quyen-luc-o-iran-5041068.html",
+      "summary": "Ông Trump cho rằng \"thay đổi quyền lực\" tại Iran sẽ là điều tốt nhất có thể xảy ra, dù trước đây luôn ưu tiên giải pháp ngoại giao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-13T23:53:50+07:00",
+      "fetched": "2026-02-14T08:12:16.738549+07:00"
+    },
+    {
+      "id": "9e7f4393275a355e6bf22db3ac65cd8a",
+      "title": "Cầu thủ Tottenham ức chế vì HLV hay khen Arsenal",
+      "link": "https://vnexpress.net/cau-thu-tottenham-uc-che-vi-hlv-hay-khen-arsenal-5041076.html",
+      "summary": "Sự ngưỡng mộ dành cho đại kình địch Arsenal là một trong những lý do khiến HLV Thomas Frank mất sự ủng hộ từ cầu thủ, rồi bị Tottenham sa thải chỉ sau 8 tháng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-13T23:44:54+07:00",
+      "fetched": "2026-02-14T08:12:23.276972+07:00"
+    },
+    {
+      "id": "117b789331af9aa399de576d683a3b20",
+      "title": "Hai ngả rẽ trái ngược của các con Mourinho",
+      "link": "https://vnexpress.net/hai-nga-re-trai-nguoc-cua-cac-con-mourinho-5040137.html",
+      "summary": "Trong khi Jose Mario rời bỏ giấc mơ bóng đá và gần như biến mất khỏi truyền thông, chị gái Matilde Mourinho lại tận dụng họ nổi tiếng để xây dựng thương hiệu trang sức xa xỉ bền vững, trở thành gương mặt quen thuộc trong giới thời trang quốc tế.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-13T23:00:00+07:00",
+      "fetched": "2026-02-14T08:12:23.276314+07:00"
     },
     {
       "id": "5773b69b4f71bda1302b30605fc417e0",
