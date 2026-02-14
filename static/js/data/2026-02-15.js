@@ -1,6 +1,6 @@
 window.newsData_2026_02_15 = {
   "date": "2026-02-15",
-  "lastUpdated": "2026-02-15T03:15:41.969677+07:00",
+  "lastUpdated": "2026-02-15T05:14:10.081082+07:00",
   "articles": [
     {
       "id": "c27c1da1b447784e204fd828f9df1e67",
@@ -151,6 +151,46 @@ window.newsData_2026_02_15 = {
       "category": "Tổng hợp",
       "published": "2026-02-15T01:20:57.963276+07:00",
       "fetched": "2026-02-15T01:20:57.963488+07:00"
+    },
+    {
+      "id": "7ba817b6d4855ddbe2708a03ca1e399a",
+      "title": "Ronaldo ghi bàn trong ngày trở lại chơi cho Al Nassr",
+      "link": "https://vnexpress.net/ronaldo-ghi-ban-trong-ngay-tro-lai-choi-cho-al-nassr-5041407.html",
+      "summary": "Thủ quân Cristiano Ronaldo đệm bóng mở tỷ số, giúp Al Nassr thắng chủ nhà Al Fateh 2-0 ở trận muộn vòng 22 Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-14T21:56:33+07:00",
+      "fetched": "2026-02-15T05:14:10.076569+07:00"
+    },
+    {
+      "id": "a57d578489888e5d16a1f4997229479a",
+      "title": "Nhậu ngày tết, uống thêm nhiều 'nước mát' có giúp bảo vệ gan?",
+      "link": "https://thanhnien.vn/nhau-ngay-tet-uong-them-nhieu-nuoc-mat-co-giup-bao-ve-gan-185260214153748075.htm",
+      "summary": "Sau những bữa tiệc liên tục, nhiều người tìm đến các loại nước mát với mục đích làm cơ thể dễ chịu hơn. Tuy nhiên theo chuyên gia, uống đậm đặc hoặc kết hợp nhiều loại cùng lúc, có thể khiến gan, dạ dày chịu thêm áp lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T21:34:00+07:00",
+      "fetched": "2026-02-15T05:14:03.884486+07:00"
+    },
+    {
+      "id": "3382b925b40d9f4e759085274015c373",
+      "title": "Messi giúp Inter Miami giàu nhất MLS 2026",
+      "link": "https://vnexpress.net/messi-giup-inter-miami-giau-nhat-mls-2026-5041339.html",
+      "summary": "Nhờ hiệu ứng cả trong và ngoài sân cỏ của Lionel Messi, Inter Miami trở thành CLB giàu nhất giải bóng đá nhà nghề Mỹ (MLS) năm 2026, được Forbes định giá 1,35 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T21:00:00+07:00",
+      "fetched": "2026-02-15T05:13:59.628768+07:00"
+    },
+    {
+      "id": "3382b925b40d9f4e759085274015c373",
+      "title": "Messi giúp Inter Miami giàu nhất MLS 2026",
+      "link": "https://vnexpress.net/messi-giup-inter-miami-giau-nhat-mls-2026-5041339.html",
+      "summary": "Nhờ hiệu ứng cả trong và ngoài sân cỏ của Lionel Messi, Inter Miami trở thành CLB giàu nhất giải bóng đá nhà nghề Mỹ (MLS) năm 2026, được Forbes định giá 1,35 tỷ USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-14T21:00:00+07:00",
+      "fetched": "2026-02-15T05:14:10.076707+07:00"
     },
     {
       "id": "e6ee29f2e1c9ab05a4df92713fe270c9",
