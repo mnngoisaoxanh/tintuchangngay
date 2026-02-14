@@ -1,7 +1,117 @@
 window.newsData_2026_02_14 = {
   "date": "2026-02-14",
-  "lastUpdated": "2026-02-14T21:18:39.723391+07:00",
+  "lastUpdated": "2026-02-14T23:18:39.221183+07:00",
   "articles": [
+    {
+      "id": "c27c1da1b447784e204fd828f9df1e67",
+      "title": "Cần Thơ khai mạc đường hoa nghệ thuật xuân Bính Ngọ 2026",
+      "link": "https://tuoitre.vn/can-tho-khai-mac-duong-hoa-nghe-thuat-xuan-binh-ngo-2026-20260214202451957.htm",
+      "summary": "Đường hoa nghệ thuật Cần Thơ chính thức mở cửa phục vụ người dân du xuân từ hôm nay đến hết mùng 5 Tết Nguyên đán Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T23:18:33.596609+07:00",
+      "fetched": "2026-02-14T23:18:33.596725+07:00"
+    },
+    {
+      "id": "7ad0151ee95b5e466ac8d5060c630eb4",
+      "title": "Giáp Tết, giá vàng miếng SJC lên 181 triệu đồng/lượng",
+      "link": "https://tuoitre.vn/giap-tet-gia-vang-mieng-sjc-len-181-trieu-dong-luong-20260214203230842.htm",
+      "summary": "Hôm nay, 14-2, giá vàng thế giới đã kết thúc tuần giao dịch ở mức 5.041 USD/ounce sau khi giảm về mức 4.888 USD/ounce trong phiên trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T23:18:33.596472+07:00",
+      "fetched": "2026-02-14T23:18:33.596597+07:00"
+    },
+    {
+      "id": "82116849bf5b58ec59710bc94b451ffd",
+      "title": "Ông Zelensky tuyên bố ông Trump nên 'ép' ông Putin để đạt ngừng bắn",
+      "link": "https://tuoitre.vn/ong-zelensky-tuyen-bo-ong-trump-nen-ep-ong-putin-de-dat-ngung-ban-20260214203831777.htm",
+      "summary": "Ông Zelensky nhấn mạnh điều kiện tiên quyết để tổ chức bầu cử là lệnh ngừng bắn ổn định, nhằm bảo đảm an ninh và tính chính danh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T23:18:33.596314+07:00",
+      "fetched": "2026-02-14T23:18:33.596442+07:00"
+    },
+    {
+      "id": "18d15b6f98dcb8c858b8120dfdd8e373",
+      "title": "Bảo hộ công dân: Vững vàng giữa lằn ranh nguy hiểm, giữ trọn bình an cho đồng bào",
+      "link": "https://tuoitre.vn/bao-ho-cong-dan-vung-vang-giua-lan-ranh-nguy-hiem-giu-tron-binh-an-cho-dong-bao-20260214204101942.htm",
+      "summary": "Bảo hộ công dân là công tác muôn hình vạn trạng, khi tiếng chuông của đường dây nóng có thể reo bất kỳ lúc nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T23:18:33.596188+07:00",
+      "fetched": "2026-02-14T23:18:33.596302+07:00"
+    },
+    {
+      "id": "ff9682701d3b0a17a4839782b8431322",
+      "title": "74 xe khách vi phạm tốc độ trên cao tốc từ TP.HCM đến Khánh Hòa, có xe chạy 131km/h",
+      "link": "https://tuoitre.vn/74-xe-khach-vi-pham-toc-do-tren-cao-toc-tu-tp-hcm-den-khanh-hoa-co-xe-chay-131km-h-20260214211342381.htm",
+      "summary": "Ngày 14-2, thông qua thiết bị kỹ thuật nghiệp vụ, cảnh sát giao thông Đội 6 đã phát hiện 74 trường hợp vi phạm tốc độ trên cao tốc từ TP.HCM đến Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T23:18:33.596061+07:00",
+      "fetched": "2026-02-14T23:18:33.596176+07:00"
+    },
+    {
+      "id": "f411c5b569fb7fb64ead4694afabc42d",
+      "title": "Đang về quê đón Tết, các bác sĩ quay lại bệnh viện để ghép gan cứu người",
+      "link": "https://tuoitre.vn/dang-ve-que-don-tet-cac-bac-si-quay-lai-benh-vien-de-ghep-gan-cuu-nguoi-2026021421142262.htm",
+      "summary": "Nhiều bác sĩ, điều dưỡng trên đường về quê ăn Tết đã quay lại bệnh viện để thực hiện ca ghép gan cấp cứu triển khai khẩn trương vào ngày nghỉ Tết đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T23:18:33.595933+07:00",
+      "fetched": "2026-02-14T23:18:33.596049+07:00"
+    },
+    {
+      "id": "5675788f87fddea3cc7d18c32b21b042",
+      "title": "Phó bí thư Thành ủy Nguyễn Phước Lộc thăm, chúc Tết Bệnh viện Truyền máu Huyết học TP.HCM",
+      "link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-nguyen-phuoc-loc-tham-chuc-tet-benh-vien-truyen-mau-huyet-hoc-tp-hcm-20260214211946292.htm",
+      "summary": "Chiều 14-2 (nhằm 27 Tết), Phó bí thư Thành ủy TP.HCM Nguyễn Phước Lộc đã đến thăm, chúc Tết đội ngũ y bác sĩ và các bệnh nhi đang điều trị tại Bệnh viện Truyền máu Huyết học TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T23:18:33.595793+07:00",
+      "fetched": "2026-02-14T23:18:33.595921+07:00"
+    },
+    {
+      "id": "8d9c2902991a70a7234e3e0de69adde9",
+      "title": "CLB Ninh Bình có trận thắng 12-1 trước khi nghỉ Tết",
+      "link": "https://tuoitre.vn/clb-ninh-binh-co-tran-thang-12-1-truoc-khi-nghi-tet-20260214214115279.htm",
+      "summary": "CLB Ninh Bình đã thắng đội hạng nhất Thanh Niên TP.HCM đến 12-1 trong trận giao hữu trước khi nghỉ Tết Bính Ngọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T23:18:33.595662+07:00",
+      "fetched": "2026-02-14T23:18:33.595780+07:00"
+    },
+    {
+      "id": "6e1a8567613121a9368ebb3cf3c6d2e6",
+      "title": "Dân Cuba chuyển sang đi xe điện dù điện cũng chập chờn",
+      "link": "https://tuoitre.vn/dan-cuba-chuyen-sang-di-xe-dien-du-dien-cung-chap-chon-20260214220030571.htm",
+      "summary": "Giữa cuộc khủng hoảng nhiên liệu, người dân Cuba đang chuyển hướng sang phương tiện chạy điện như một giải pháp sinh tồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T23:18:33.595524+07:00",
+      "fetched": "2026-02-14T23:18:33.595649+07:00"
+    },
+    {
+      "id": "624ddbe0def05be0a47488ca73f397c8",
+      "title": "Ngoại trưởng Mỹ: Ấn Độ cam kết ngừng mua thêm dầu Nga",
+      "link": "https://tuoitre.vn/ngoai-truong-my-an-do-cam-ket-ngung-mua-them-dau-nga-20260214221657952.htm",
+      "summary": "Ngoại trưởng Rubio cho biết Ấn Độ đã cam kết ngừng mua thêm dầu Nga trong bối cảnh Washington gia tăng trừng phạt Matxcơva.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T23:18:33.595361+07:00",
+      "fetched": "2026-02-14T23:18:33.595510+07:00"
+    },
+    {
+      "id": "1d1e9fb8094eeb39f05f62da25fea530",
+      "title": "Valentine sát Tết, khách về quê đã nhiều, lại còn lo sắm Tết",
+      "link": "https://tuoitre.vn/valentine-sat-tet-khach-ve-que-da-nhieu-lai-con-lo-sam-tet-20260214173454155.htm",
+      "summary": "Lễ tình nhân năm nay đặc biệt hơn khi rơi vào ngày 27 tháng Chạp, cao điểm mua sắm Tết. Nhiều bạn trẻ đã về quê, sức mua hoa lễ do đó giảm sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T23:18:33.595128+07:00",
+      "fetched": "2026-02-14T23:18:33.595346+07:00"
+    },
     {
       "id": "6361beb20a85d1573c7393c1ef94a5fd",
       "title": "Tuyển Canada bị tố chơi xấu, văng tục với đội tuyển Thụy Điển tại Olympic",
@@ -403,6 +513,26 @@ window.newsData_2026_02_14 = {
       "fetched": "2026-02-14T17:16:57.450879+07:00"
     },
     {
+      "id": "6602bcf8f51aa1080d29a8af72c466d5",
+      "title": "Khoảnh khắc chiến hạm Mỹ đâm nhau trên Biển Caribe",
+      "link": "https://vnexpress.net/khoanh-khac-chien-ham-my-dam-nhau-tren-bien-caribe-5041378.html",
+      "summary": "Video cho thấy khu trục hạm Truxtun không giảm tốc độ hay chuyển hướng đi trước khi húc vào mạn trái tàu hậu cần Supply trên Biển Caribe.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-14T16:14:53+07:00",
+      "fetched": "2026-02-14T23:18:35.211949+07:00"
+    },
+    {
+      "id": "e82d226f9155de30c479f1f8f57cbd9a",
+      "title": "Ông Zelensky gây cười khi nói 'chỉ thấy một chút áp lực' từ Tổng thống Trump",
+      "link": "https://vnexpress.net/ong-zelensky-gay-cuoi-khi-noi-chi-thay-mot-chut-ap-luc-tu-tong-thong-trump-5041347.html",
+      "summary": "Tổng thống Ukraine Zelensky nói ông cảm thấy \"một chút áp lực\" khi người đồng cấp Mỹ Trump thúc giục Kiev đạt thỏa thuận hòa bình, khiến khán giả tại Munich bật cười.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-14T16:12:36+07:00",
+      "fetched": "2026-02-14T23:18:35.212127+07:00"
+    },
+    {
       "id": "35a5a533031321c7e059e2c9b7ef199c",
       "title": "Việt Nam chuyển 250 tấn gạo, hỗ trợ Cuba đảm bảo an ninh lương thực",
       "link": "https://tuoitre.vn/viet-nam-chuyen-250-tan-gao-ho-tro-cuba-dam-bao-an-ninh-luong-thuc-20260214131547464.htm",
@@ -553,6 +683,146 @@ window.newsData_2026_02_14 = {
       "fetched": "2026-02-14T15:20:27.586761+07:00"
     },
     {
+      "id": "5bf1a9ff6eac47a5e6417825a49c5536",
+      "title": "CLB Đà Nẵng bất ngờ tìm đến người hùng U.23 Việt Nam, sẽ thoát hiểm ngoạn mục?",
+      "link": "https://thanhnien.vn/clb-da-nang-bat-ngo-tim-den-nguoi-hung-u23-viet-nam-se-thoat-hiem-ngoan-muc-185260214220957007.htm",
+      "summary": "CLB Đà Nẵng muốn vơi nỗi lo thủ môn Bùi Tiến Dũng bị chấn thương dài hạn, bằng sự bổ sung cựu người hùng U.23 Việt Nam Văn Toản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T15:13:00+07:00",
+      "fetched": "2026-02-14T23:18:32.835211+07:00"
+    },
+    {
+      "id": "648ae843bc81d3dffed3430cf641f1a7",
+      "title": "Trấn Thành hội ngộ bạn gái cũ trên thảm đỏ",
+      "link": "https://vnexpress.net/tran-thanh-hoi-ngo-ban-gai-cu-tren-tham-do-5041374.html",
+      "summary": "Đạo diễn Trấn Thành và người yêu cũ - diễn viên Mai Hồ - tái ngộ ở buổi ra mắt phim 18+ \"Thỏ ơi\", tối 14/2 tại Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T15:01:14+07:00",
+      "fetched": "2026-02-14T23:18:29.341220+07:00"
+    },
+    {
+      "id": "21947d5c9d213987e59fc4c8a5f7f0b5",
+      "title": "Starlink được cấp phép, sẵn sàng phủ sóng internet vệ tinh tại Việt Nam",
+      "link": "https://thanhnien.vn/starlink-duoc-cap-phep-san-sang-phu-song-internet-ve-tinh-tai-viet-nam-185260214212110526.htm",
+      "summary": "Cục Tần số Vô tuyến điện vừa cấp phép sử dụng tần số cho Công ty TNHH Starlink Services Việt Nam, mở đường cho dịch vụ internet vệ tinh quỹ đạo tầm thấp của tỉ phú Elon Musk được triển khai hợp pháp tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T15:01:00+07:00",
+      "fetched": "2026-02-14T23:18:32.835380+07:00"
+    },
+    {
+      "id": "635a165596541ef75a3c4e550ca52aa5",
+      "title": "Cần Thơ: Đường hoa nghệ thuật dài hơn 300m mở cửa đón khách",
+      "link": "https://thanhnien.vn/can-tho-duong-hoa-nghe-thuat-dai-hon-300m-mo-cua-don-khach-185260214204837086.htm",
+      "summary": "Đường hoa nghệ thuật Cần Thơ lắp đặt hơn 30 mô hình, với 50.000 chậu hoa tươi, chính thức mở cửa đón khách dịp Tết Nguyên đán Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T14:58:00+07:00",
+      "fetched": "2026-02-14T23:18:32.835561+07:00"
+    },
+    {
+      "id": "5520938bad3204823b7e3daf85459d8f",
+      "title": "17 cá nhân bị cấm giao dịch chứng khoán hai năm",
+      "link": "https://vnexpress.net/17-ca-nhan-bi-cam-giao-dich-chung-khoan-hai-nam-5041366.html",
+      "summary": "Ủy ban Chứng khoán Nhà nước cấm 17 cá nhân giao dịch chứng khoán trong hai năm vì thao túng cổ phiếu và cho người khác mượn tài khoản để thực hiện hành vi này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T14:41:41+07:00",
+      "fetched": "2026-02-14T23:18:29.341401+07:00"
+    },
+    {
+      "id": "5520938bad3204823b7e3daf85459d8f",
+      "title": "17 cá nhân bị cấm giao dịch chứng khoán hai năm",
+      "link": "https://vnexpress.net/17-ca-nhan-bi-cam-giao-dich-chung-khoan-hai-nam-5041366.html",
+      "summary": "Ủy ban Chứng khoán Nhà nước cấm 17 cá nhân giao dịch chứng khoán trong hai năm vì thao túng cổ phiếu và cho người khác mượn tài khoản để thực hiện hành vi này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-14T14:41:41+07:00",
+      "fetched": "2026-02-14T23:18:36.230620+07:00"
+    },
+    {
+      "id": "e8df6e875f5e456f0526644428adef35",
+      "title": "Thật kỳ lạ KFA giờ mới 'mổ xẻ' trận thua U.23 Việt Nam, cảnh báo HLV U.23 Hàn Quốc ở ASIAD 20",
+      "link": "https://thanhnien.vn/that-ky-la-kfa-gio-moi-mo-xe-tran-thua-u23-viet-nam-canh-bao-hlv-u23-han-quoc-o-asiad-20-185260214212751185.htm",
+      "summary": "Thất bại trước U.23 Việt Nam ở trận tranh hạng ba giải U.23 châu Á 2026 không đơn thuần là một trận thua. Với bóng đá Hàn Quốc, đó là cú sốc thực sự, mang tính lịch sử và để lại dư chấn mạnh mẽ đến mức Liên đoàn Bóng đá Hàn Quốc (KFA) buộc phải lên tiếng thừa nhận đây là ‘một thất bại đau đớn’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T14:35:00+07:00",
+      "fetched": "2026-02-14T23:18:32.835722+07:00"
+    },
+    {
+      "id": "814d667c3732c7a4c6c32b785f7837b4",
+      "title": "Trung Quốc miễn thuế cho 53 quốc gia châu Phi",
+      "link": "https://vnexpress.net/trung-quoc-mien-thue-cho-53-quoc-gia-chau-phi-5041362.html",
+      "summary": "Từ 1/5, Trung Quốc xóa bỏ thuế quan với tất cả quốc gia châu Phi, trừ một nước đang duy trì quan hệ với Đài Loan, theo tuyên bố của Chủ tịch Tập Cận Bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T14:34:55+07:00",
+      "fetched": "2026-02-14T23:18:29.341598+07:00"
+    },
+    {
+      "id": "814d667c3732c7a4c6c32b785f7837b4",
+      "title": "Trung Quốc miễn thuế cho 53 quốc gia châu Phi",
+      "link": "https://vnexpress.net/trung-quoc-mien-thue-cho-53-quoc-gia-chau-phi-5041362.html",
+      "summary": "Từ 1/5, Trung Quốc xóa bỏ thuế quan với tất cả quốc gia châu Phi, trừ một nước đang duy trì quan hệ với Đài Loan, theo tuyên bố của Chủ tịch Tập Cận Bình.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-14T14:34:55+07:00",
+      "fetched": "2026-02-14T23:18:36.230798+07:00"
+    },
+    {
+      "id": "6abcbbd3325f21d16ce7d319ffe027b8",
+      "title": "Điều tàu cứu hành khách Đức gặp nạn trên biển",
+      "link": "https://vnexpress.net/dieu-tau-cuu-hanh-khach-duc-gap-nan-tren-bien-5041353.html",
+      "summary": "Nhận tin lúc rạng sáng, lực lượng cứu nạn điều phối tàu du lịch vào gần bờ, xuất tàu chuyên dụng đón đầu, đưa hành khách vào bờ cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T14:33:56+07:00",
+      "fetched": "2026-02-14T23:18:29.341765+07:00"
+    },
+    {
+      "id": "dfc27221253d9683b12d4217f50781a9",
+      "title": "Anh sẽ điều tàu sân bay, tiêm kích F-35 tới Bắc Cực",
+      "link": "https://vnexpress.net/anh-se-dieu-tau-san-bay-tiem-kich-f-35-toi-bac-cuc-5041350.html",
+      "summary": "Thủ tướng Anh thông báo nước này sẽ điều nhóm tác chiến tàu sân bay Prince of Wales cùng F-35, trực thăng tới Bắc Cực để thể hiện sức mạnh quân sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T14:27:43+07:00",
+      "fetched": "2026-02-14T23:18:29.341929+07:00"
+    },
+    {
+      "id": "dfc27221253d9683b12d4217f50781a9",
+      "title": "Anh sẽ điều tàu sân bay, tiêm kích F-35 tới Bắc Cực",
+      "link": "https://vnexpress.net/anh-se-dieu-tau-san-bay-tiem-kich-f-35-toi-bac-cuc-5041350.html",
+      "summary": "Thủ tướng Anh thông báo nước này sẽ điều nhóm tác chiến tàu sân bay Prince of Wales cùng F-35, trực thăng tới Bắc Cực để thể hiện sức mạnh quân sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-14T14:27:43+07:00",
+      "fetched": "2026-02-14T23:18:35.212316+07:00"
+    },
+    {
+      "id": "16ed9df8c9fd1c56c2d02240e113c4da",
+      "title": "34 người chết vì tai nạn giao thông ngày đầu nghỉ Tết",
+      "link": "https://vnexpress.net/34-nguoi-chet-vi-tai-nan-giao-thong-ngay-dau-nghi-tet-5041282.html",
+      "summary": "Trong ngày đầu nghỉ Tết Bính Ngọ (14/2), cả nước xảy ra 52 vụ tai nạn giao thông làm 34 người chết, 31 người bị thương, theo Cục Cảnh sát giao thông (Bộ Công an).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T14:21:42+07:00",
+      "fetched": "2026-02-14T23:18:29.342086+07:00"
+    },
+    {
+      "id": "bdee289e3ead33dd2b06d0e4b1e90d4e",
+      "title": "Bắt khẩn cấp nghi can hiếp dâm nữ sinh trên cầu vượt Vành đai 3",
+      "link": "https://thanhnien.vn/bat-khan-cap-nghi-can-hiep-dam-nu-sinh-tren-cau-vuot-vanh-dai-3-185260214210713237.htm",
+      "summary": "Trên đường đi học về, nữ sinh 15 tuổi bị một nam thanh niên hỏi đường rồi đi theo, đến đoạn đường vắng thì rút hung khí đe dọa. khống chế nữ sinh, thực hiện hành vi hiếp dâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T14:20:00+07:00",
+      "fetched": "2026-02-14T23:18:32.835877+07:00"
+    },
+    {
       "id": "06bd0ddf5b73f191d3163382a64d4eec",
       "title": "Gieo mầm thiện lành giữa dòng nước dữ",
       "link": "https://thanhnien.vn/gieo-mam-thien-lanh-giua-dong-nuoc-du-185260211153758956.htm",
@@ -563,6 +833,16 @@ window.newsData_2026_02_14 = {
       "fetched": "2026-02-14T21:18:31.059320+07:00"
     },
     {
+      "id": "9d131339fd9cc9fbdde1b70ecc6fe5e3",
+      "title": "Hà Nội chi hơn 35 tỷ đồng 'ứng thưởng' cho giáo viên ngày cận Tết",
+      "link": "https://vnexpress.net/ha-noi-tam-ung-35-ty-dong-chi-thuong-nghi-dinh-73-cho-giao-vien-sat-tet-5041337.html",
+      "summary": "Hơn 120 trường THPT được cấp tạm 35 tỷ đồng để trả thưởng theo Nghị định 73, song vì cận Tết nên giáo viên chưa được nhận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T14:10:07+07:00",
+      "fetched": "2026-02-14T23:18:29.342252+07:00"
+    },
+    {
       "id": "7fe2b1149b62432b045a0e4686383237",
       "title": "Độc đáo món cọ ỏm vùng đất Tổ",
       "link": "https://thanhnien.vn/doc-dao-mon-co-om-vung-dat-to-185260210172045641.htm",
@@ -571,6 +851,16 @@ window.newsData_2026_02_14 = {
       "category": "Tổng hợp",
       "published": "2026-02-14T14:00:00+07:00",
       "fetched": "2026-02-14T21:18:31.059488+07:00"
+    },
+    {
+      "id": "344af40230efcc5ea7ee9e6bcb359220",
+      "title": "Người phụ nữ của chồng tự tìm đến nhà kết thân với tôi",
+      "link": "https://vnexpress.net/nguoi-phu-nu-cua-chong-tu-tim-den-nha-ket-than-voi-toi-5041026.html",
+      "summary": "Có một tết, người phụ nữ tên Trang đến nhà, xưng là học trò cũ của bố chồng và là chuyên viên, đã có chồng và hai con trai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T14:00:00+07:00",
+      "fetched": "2026-02-14T23:18:29.342409+07:00"
     },
     {
       "id": "68b1c6947327c384fb0604d7985d86f0",
