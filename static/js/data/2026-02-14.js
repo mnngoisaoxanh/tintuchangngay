@@ -1,7 +1,107 @@
 window.newsData_2026_02_14 = {
   "date": "2026-02-14",
-  "lastUpdated": "2026-02-14T19:27:02.116527+07:00",
+  "lastUpdated": "2026-02-14T21:18:39.723391+07:00",
   "articles": [
+    {
+      "id": "6361beb20a85d1573c7393c1ef94a5fd",
+      "title": "Tuyển Canada bị tố chơi xấu, văng tục với đội tuyển Thụy Điển tại Olympic",
+      "link": "https://tuoitre.vn/tuyen-canada-bi-to-choi-xau-vang-tuc-voi-doi-tuyen-thuy-dien-tai-olympic-20260214184513756.htm",
+      "summary": "Ngày 14-2, những cáo buộc gian lận và những lời lăng mạ thô tục đã biến trận đấu giữa Canada và Thụy Điển tại bộ môn Curling (bi đá trên băng) trở thành tâm điểm của dư luận của Olympic mùa đông 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T21:18:32.541039+07:00",
+      "fetched": "2026-02-14T21:18:32.541170+07:00"
+    },
+    {
+      "id": "f13fd3356e1f5494880f1228f70bef63",
+      "title": "Đánh nhau sau va chạm giao thông ở TP.HCM, gần tháng sau 2 người bị còng tay",
+      "link": "https://tuoitre.vn/danh-nhau-sau-va-cham-giao-thong-o-tp-hcm-gan-thang-sau-2-nguoi-bi-cong-tay-20260214185856469.htm",
+      "summary": "Dù Công an TP.HCM liên tục phát cảnh báo nhưng tình trạng sử dụng bạo lực để giải quyết mâu thuẫn sau va chạm giao thông đang có chiều hướng phức tạp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T21:18:32.540910+07:00",
+      "fetched": "2026-02-14T21:18:32.541027+07:00"
+    },
+    {
+      "id": "d22c06307019bfa359b9d68219d8b342",
+      "title": "Nhiều bệnh viện tâm thần ở Trung Quốc 'bao ăn ở' người khỏe để trục lợi bảo hiểm",
+      "link": "https://tuoitre.vn/nhieu-benh-vien-tam-than-o-trung-quoc-bao-an-o-nguoi-khoe-de-truc-loi-bao-hiem-20260214185250546.htm",
+      "summary": "Hàng loạt bệnh viện tâm thần ở Trung Quốc bị phanh phui chiêu trò dụ người khỏe mạnh giả làm bệnh nhân để rút ruột bảo hiểm y tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T21:18:32.540785+07:00",
+      "fetched": "2026-02-14T21:18:32.540899+07:00"
+    },
+    {
+      "id": "1dc6a882618598843af3c2315580d3b3",
+      "title": "Ô tô bay đúng nghĩa: Bình thường là xe điện 300km/sạc, gắn cánh quạt là bay 150km/h",
+      "link": "https://tuoitre.vn/o-to-bay-dung-nghia-binh-thuong-la-xe-dien-300km-sac-gan-canh-quat-la-bay-150km-h-20260214161343423.htm",
+      "summary": "Một mẫu eVTOL mô-đun do Trung Quốc phát triển vừa bay thử thành công, có thể tách phần bay và phần chạy đường bộ. Ô tô bay này chở 2 người, đạt 150km/h trên không và đi hơn 300km khi chạy điện dưới mặt đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T21:18:32.540659+07:00",
+      "fetched": "2026-02-14T21:18:32.540773+07:00"
+    },
+    {
+      "id": "8063e9a92ea8c34cc546e10a968add8c",
+      "title": "Starlink chính thức được cấp phép dịch vụ Internet vệ tinh tại Việt Nam",
+      "link": "https://tuoitre.vn/starlink-chinh-thuc-duoc-cap-phep-dich-vu-internet-ve-tinh-tai-viet-nam-20260214190501098.htm",
+      "summary": "Công ty TNHH Starlink Services Việt Nam đã chính thức được cấp giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng, loại mạng viễn thông cố định vệ tinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T21:18:32.540534+07:00",
+      "fetched": "2026-02-14T21:18:32.540647+07:00"
+    },
+    {
+      "id": "57d304d5bfe78fe13ad2e5e8cb6459c0",
+      "title": "Thủ tướng họp bàn về phương án sửa chữa cầu sông Lô, có phương án xây cầu mới",
+      "link": "https://tuoitre.vn/thu-tuong-hop-ban-ve-phuong-an-sua-chua-cau-song-lo-co-phuong-an-xay-cau-moi-20260214193317719.htm",
+      "summary": "Chiều 14-2, Thủ tướng Phạm Minh Chính chủ trì cuộc họp với các bộ, ngành trung ương và tỉnh Phú Thọ về tình hình khắc phục hư hỏng công trình cầu sông Lô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T21:18:32.540409+07:00",
+      "fetched": "2026-02-14T21:18:32.540522+07:00"
+    },
+    {
+      "id": "ad7283b47dec31007feebf2f6cb78663",
+      "title": "Điều tra vụ ẩu đả làm một người chết ở Đồng Nai",
+      "link": "https://tuoitre.vn/dieu-tra-vu-au-da-lam-mot-nguoi-chet-o-dong-nai-20260214194117267.htm",
+      "summary": "Trong lúc xô xát qua lại, người đàn ông ở Đồng Nai bị đối phương dùng hung khí tấn công gây thương tích và tử vong sau đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T21:18:32.540278+07:00",
+      "fetched": "2026-02-14T21:18:32.540397+07:00"
+    },
+    {
+      "id": "a1aa94b4600a5f9ec1e0f87505d4b08b",
+      "title": "Ngô Thanh Vân khôi phục thành công MV 'Bống bống bang bang' 630 triệu lượt xem",
+      "link": "https://tuoitre.vn/ngo-thanh-van-khoi-phuc-thanh-cong-mv-bong-bong-bang-bang-630-trieu-luot-xem-20260214195104127.htm",
+      "summary": "Nhà sản xuất Ngô Thanh Vân thông báo cô đã khôi phục thành công MV 'Bống bống bang bang' có 634 triệu lượt xem.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T21:18:32.540107+07:00",
+      "fetched": "2026-02-14T21:18:32.540264+07:00"
+    },
+    {
+      "id": "e094948f5ec53af029f2d66067f777ab",
+      "title": "Việt Nam qua mặt Campuchia để dẫn đầu thế giới môn võ Kun Khmer",
+      "link": "https://tuoitre.vn/viet-nam-qua-mat-campuchia-de-dan-dau-the-gioi-mon-vo-kun-khmer-20260214200335677.htm",
+      "summary": "Việt Nam đã vượt qua môn võ của Campuchia để dẫn đầu toàn đoàn Giải vô địch Kun Khmer thế giới lần thứ 6-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T21:18:32.539949+07:00",
+      "fetched": "2026-02-14T21:18:32.540083+07:00"
+    },
+    {
+      "id": "a4594a554bcd1f5cfe37a86608b997b6",
+      "title": "Hoa, quà Valentine tươi tắn nhưng người bán lại héo hon",
+      "link": "https://tuoitre.vn/hoa-qua-valentine-tuoi-tan-nhung-nguoi-ban-lai-heo-hon-20260214195641305.htm",
+      "summary": "Valentine 14-2 năm nay rơi đúng cao điểm mua sắm Tết Nguyên đán, khiến thị trường quà tặng trên địa bàn tỉnh Đồng Tháp ế ẩm hơn mọi năm. Tại nhiều tuyến đường trung tâm Mỹ Tho, hoa tình yêu rơi vào cảnh \"lép vế\" trước sắc xuân rực rỡ của mai, cúc...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T21:18:32.539730+07:00",
+      "fetched": "2026-02-14T21:18:32.539934+07:00"
+    },
     {
       "id": "bcc90241ee765765ceec1a31aeec237d",
       "title": "Trung Quốc miễn thuế cho 53 nước châu Phi, trừ một nước thân Đài Loan",
@@ -453,6 +553,96 @@ window.newsData_2026_02_14 = {
       "fetched": "2026-02-14T15:20:27.586761+07:00"
     },
     {
+      "id": "06bd0ddf5b73f191d3163382a64d4eec",
+      "title": "Gieo mầm thiện lành giữa dòng nước dữ",
+      "link": "https://thanhnien.vn/gieo-mam-thien-lanh-giua-dong-nuoc-du-185260211153758956.htm",
+      "summary": "Một buổi trưa cuối tháng 11.2025, Hà Minh Tân, 28 tuổi - Đội trưởng Đội cứu hộ 0 đồng Phú Thọ - lúi húi cọ rửa 2 chiếc thuyền hơi còn bê bết bùn sau chuyến cứu hộ tại Phú Yên cũ (nay là Đắk Lắk).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T14:15:00+07:00",
+      "fetched": "2026-02-14T21:18:31.059320+07:00"
+    },
+    {
+      "id": "7fe2b1149b62432b045a0e4686383237",
+      "title": "Độc đáo món cọ ỏm vùng đất Tổ",
+      "link": "https://thanhnien.vn/doc-dao-mon-co-om-vung-dat-to-185260210172045641.htm",
+      "summary": "Vị chát rất thoáng qua đầu lưỡi nhưng cũng chính là nét đặc biệt hối thúc thực khách cảm nhận ngậy bùi của cùi cọ óng màu vàng rơm. Những trái cọ âm ấm, như thoảng chút ngai ngái, là lạ, mang lại hương vị thật đặc biệt, riêng có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T14:00:00+07:00",
+      "fetched": "2026-02-14T21:18:31.059488+07:00"
+    },
+    {
+      "id": "68b1c6947327c384fb0604d7985d86f0",
+      "title": "5 công thức phối đồ giúp chị em nổi bật từ nhà ra phố",
+      "link": "https://thanhnien.vn/thoi-trang-tre/5-cong-thuc-phoi-do-giup-chi-em-noi-bat-tu-nha-ra-pho-185260214193444907.htm",
+      "summary": "Phối đồ theo công thức hiện đại thường đề cao sự tiết chế và tinh tế trong cách chọn phụ kiện, xử lý cấu trúc trang phục linh hoạt. Điều đó giúp đạt chuẩn mực công sở và đủ nổi bật khi xuống phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T13:58:00+07:00",
+      "fetched": "2026-02-14T21:18:31.059650+07:00"
+    },
+    {
+      "id": "2c0b1aa2e50b7fd5c6e911b6f8e5f781",
+      "title": "Công an TP.HCM bắt 2 người dùng súng điện tự chế trộm chó",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-2-nguoi-dung-sung-dien-tu-che-trom-cho-185260214183324604.htm",
+      "summary": "Hai người đàn ông dùng súng điện tự chế bắn, bắt chó của người dân tại phường An Khánh đã bị Công an TP.HCM bắt giữ, khởi tố để điều tra về hành vi trộm cắp tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T13:42:00+07:00",
+      "fetched": "2026-02-14T21:18:31.059804+07:00"
+    },
+    {
+      "id": "4ce76d00c56400a8c740a6f813373c3f",
+      "title": "Giá cao kỷ lục, Galaxy Z TriFold vẫn cháy hàng sau 20 phút mở bán tại Mỹ",
+      "link": "https://thanhnien.vn/gia-cao-ky-luc-galaxy-z-trifold-van-chay-hang-sau-20-phut-mo-ban-tai-my-185260214162229912.htm",
+      "summary": "Không nhiều thương hiệu công nghệ có thể định giá sản phẩm ở mức cao mà vẫn thu hút được người dùng, do đó thành công của Galaxy Z TriFold rất đáng xem.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T13:41:00+07:00",
+      "fetched": "2026-02-14T21:18:31.059959+07:00"
+    },
+    {
+      "id": "22db8d11318e6015a4490b4fb4d6e8c6",
+      "title": "Công an TP.HCM khởi tố 2 người đánh nhau sau va chạm ở phường Tân Hưng",
+      "link": "https://thanhnien.vn/cong-an-tphcm-khoi-to-2-nguoi-danh-nhau-sau-va-cham-o-phuong-tan-hung-185260214181835449.htm",
+      "summary": "Công an TP.HCM ra quyết định khởi tố vụ án, khởi tố bị can và bắt tạm giam 2 người đàn ông để điều tra hành vi gây rối trật tự công cộng sau vụ đánh nhau giữa đường vì va chạm giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T13:38:00+07:00",
+      "fetched": "2026-02-14T21:18:31.060106+07:00"
+    },
+    {
+      "id": "23e4e991f465f76f0bdcbb37c3781d32",
+      "title": "Valentine trùng 27 tết: Shop hoa than 'chỉ bằng 1/10 năm ngoái', khách mua tặng rất ít",
+      "link": "https://thanhnien.vn/valentine-trung-27-tet-shop-hoa-than-chi-bang-1-10-nam-ngoai-khach-mua-tang-rat-it-185260214203007285.htm",
+      "summary": "Valentine 14.2 năm nay rơi đúng ngày 27 Tết Nguyên đán Bính Ngọ 2026 nên thị trường hoa tươi tại TP.HCM kém sôi động hẳn so với mọi năm. Nhiều chủ shop thừa nhận lượng đơn giảm sâu, có nơi chỉ bằng 1/10 năm ngoái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T13:35:00+07:00",
+      "fetched": "2026-02-14T21:18:31.060277+07:00"
+    },
+    {
+      "id": "bc68f5b84691234f64f17e562488b2e8",
+      "title": "Ngoại trưởng Trung Quốc: Tương lai quan hệ song phương phụ thuộc vào Mỹ",
+      "link": "https://vnexpress.net/ngoai-truong-trung-quoc-tuong-lai-quan-he-song-phuong-phu-thuoc-vao-my-5041309.html",
+      "summary": "Ngoại trưởng Vương Nghị tuyên bố quan hệ Mỹ - Trung có thể trở nên tốt đẹp, song phụ thuộc vào thiện chí của Washington để đạt được điều này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T13:34:02+07:00",
+      "fetched": "2026-02-14T21:18:27.299901+07:00"
+    },
+    {
+      "id": "bc68f5b84691234f64f17e562488b2e8",
+      "title": "Ngoại trưởng Trung Quốc: Tương lai quan hệ song phương phụ thuộc vào Mỹ",
+      "link": "https://vnexpress.net/ngoai-truong-trung-quoc-tuong-lai-quan-he-song-phuong-phu-thuoc-vao-my-5041309.html",
+      "summary": "Ngoại trưởng Vương Nghị tuyên bố quan hệ Mỹ - Trung có thể trở nên tốt đẹp, song phụ thuộc vào thiện chí của Washington để đạt được điều này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-14T13:34:02+07:00",
+      "fetched": "2026-02-14T21:18:34.066479+07:00"
+    },
+    {
       "id": "cf951f0c2d6230275cbd86650a47836f",
       "title": "Tiệm bánh Bắc Kinh 'cháy hàng' sau chuyến thăm của Chủ tịch Tập Cận Bình",
       "link": "https://tuoitre.vn/tiem-banh-bac-kinh-chay-hang-sau-chuyen-tham-cua-chu-tich-tap-can-binh-20260214111219366.htm",
@@ -603,6 +793,156 @@ window.newsData_2026_02_14 = {
       "fetched": "2026-02-14T13:33:11.878998+07:00"
     },
     {
+      "id": "8f32df58a04955b8d822d079dfe146fd",
+      "title": "Phi công bị đuổi việc vì quên mang chăn cho Bộ trưởng An ninh nội địa Mỹ?",
+      "link": "https://thanhnien.vn/phi-cong-bi-duoi-viec-vi-quen-mang-chan-cho-bo-truong-an-ninh-noi-dia-my-185260214183740772.htm",
+      "summary": "Một phi công của Lực lượng Tuần duyên Mỹ đã bị sa thải sau khi bỏ quên chiếc chăn của Bộ trưởng An ninh nội địa Kristi Noem trên máy bay, theo tờ The Wall Street Journal.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T13:27:00+07:00",
+      "fetched": "2026-02-14T21:18:31.060427+07:00"
+    },
+    {
+      "id": "3b1dee2bf3f4d24a61ad977dee794fa7",
+      "title": "Đề xuất thí điểm dùng biển làm quỹ đất thanh toán dự án BT",
+      "link": "https://vnexpress.net/de-xuat-thi-diem-dung-bien-lam-quy-dat-thanh-toan-du-an-bt-5041304.html",
+      "summary": "Bộ Tài chính đề xuất cho An Giang sử dụng khu vực biển để làm quỹ đất thanh toán hợp đồng BT Trung tâm tổ chức Hội nghị APEC ở Phú Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T13:24:59+07:00",
+      "fetched": "2026-02-14T21:18:27.300081+07:00"
+    },
+    {
+      "id": "3b1dee2bf3f4d24a61ad977dee794fa7",
+      "title": "Đề xuất thí điểm dùng biển làm quỹ đất thanh toán dự án BT",
+      "link": "https://vnexpress.net/de-xuat-thi-diem-dung-bien-lam-quy-dat-thanh-toan-du-an-bt-5041304.html",
+      "summary": "Bộ Tài chính đề xuất cho An Giang sử dụng khu vực biển để làm quỹ đất thanh toán hợp đồng BT Trung tâm tổ chức Hội nghị APEC ở Phú Quốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-14T13:24:59+07:00",
+      "fetched": "2026-02-14T21:18:35.797876+07:00"
+    },
+    {
+      "id": "9496c12cc5fb30ac2df4e8dce74ad77d",
+      "title": "Chính phủ Mỹ đóng cửa một phần",
+      "link": "https://vnexpress.net/chinh-phu-my-dong-cua-mot-phan-5041286.html",
+      "summary": "Chính phủ Mỹ bắt đầu đóng cửa một phần, khi các nghị sĩ lưỡng đảng chưa thể thông qua ngân sách cho Bộ An ninh Nội địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T13:05:15+07:00",
+      "fetched": "2026-02-14T21:18:27.300267+07:00"
+    },
+    {
+      "id": "9496c12cc5fb30ac2df4e8dce74ad77d",
+      "title": "Chính phủ Mỹ đóng cửa một phần",
+      "link": "https://vnexpress.net/chinh-phu-my-dong-cua-mot-phan-5041286.html",
+      "summary": "Chính phủ Mỹ bắt đầu đóng cửa một phần, khi các nghị sĩ lưỡng đảng chưa thể thông qua ngân sách cho Bộ An ninh Nội địa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-14T13:05:15+07:00",
+      "fetched": "2026-02-14T21:18:34.066651+07:00"
+    },
+    {
+      "id": "b1772a7c9c89c71b5def31c67f87d25e",
+      "title": "Du khách đổ về Cần Giờ check-in lễ hội khinh khí cầu, đón Valentine",
+      "link": "https://vnexpress.net/du-khach-do-ve-can-gio-check-in-le-hoi-khinh-khi-cau-don-valentine-5041334.html",
+      "summary": "Dịp Valentine trùng ngày cận Tết, nhiều bạn trẻ, gia đình chọn hội xuân Cần Giờ làm điểm hẹn check-in khinh khí cầu khổng lồ, vườn hoa mai đào, thay vì dạo chơi khu trung tâm thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T13:00:00+07:00",
+      "fetched": "2026-02-14T21:18:27.300425+07:00"
+    },
+    {
+      "id": "48e9807babd5795ce1a63e675a1058a1",
+      "title": "Tối 27 tết, giải độc đắc của Vietlott cộng dồn 62,3 tỉ đồng",
+      "link": "https://thanhnien.vn/toi-27-tet-giai-doc-dac-cua-vietlott-cong-don-623-ti-dong-185260214191544632.htm",
+      "summary": "Tối 14.2 (27 tết), Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, tuy nhiên không xuất hiện người trúng độc đắc nên số tiền cộng dồn là 62,3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T13:00:00+07:00",
+      "fetched": "2026-02-14T21:18:31.060574+07:00"
+    },
+    {
+      "id": "e060049dfcd82ecfc8176bec8eab8994",
+      "title": "Xem nhanh 20h ngày 27 tết: Valentine cận tết, shop hoa ế ẩm | Ớt trái tim gây sốt ở Bến Bình Đông",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-27-tet-valentine-can-tet-shop-hoa-e-am-ot-trai-tim-gay-sot-o-ben-binh-dong-185260214190920475.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 14.2 có nhiều tin tức đáng chú ý về: Valentine trùng 27 tết: Shop hoa than 'chỉ bằng 1/10 năm ngoái'; ớt trái tim 'gây sốt' ở Bến Bình Đông;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T13:00:00+07:00",
+      "fetched": "2026-02-14T21:18:31.060724+07:00"
+    },
+    {
+      "id": "a5962566815cc5d149ae5e0a4fdeed73",
+      "title": "Tối 27 tết: Nhiều tuyến đường TP.HCM ngày thường thông thoáng, nay ùn ùn xe",
+      "link": "https://thanhnien.vn/toi-27-tet-nhieu-tuyen-duong-tphcm-ngay-thuong-thong-thoang-nay-un-un-xe-1852602141924137.htm",
+      "summary": "Một số tuyến đường ở TP.HCM ngày thường thông thoáng, tối nay 14.2 tức ngày 27 tết bất ngờ ùn ùn xe. Vì sao vậy?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T12:51:00+07:00",
+      "fetched": "2026-02-14T21:18:31.060882+07:00"
+    },
+    {
+      "id": "a145ba524e355baff6944d5f65c2e06f",
+      "title": "Nghi phạm ma túy thách công an bắt mình",
+      "link": "https://vnexpress.net/nghi-pham-ma-tuy-thach-cong-an-bat-minh-5041341.html",
+      "summary": "Đọc tin băng ma túy ở Khu Kinh tế Dung Quất bị triệt phá, Luân bình luận \"còn tao nữa, bắt luôn đi\" và bị bắt sau 13 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T12:46:14+07:00",
+      "fetched": "2026-02-14T21:18:27.300584+07:00"
+    },
+    {
+      "id": "84816d7c3b6e916be04024217b4731f6",
+      "title": "10 ngôi chùa được mệnh danh cầu duyên linh thiêng",
+      "link": "https://vnexpress.net/10-ngoi-chua-duoc-menh-danh-cau-duyen-linh-thieng-5041118.html",
+      "summary": "Nhiều ngôi chùa tuổi đời hàng trăm năm trên khắp cả nước như Chùa Hà, Chùa Dâu hay Chùa Ngọc Hoàng trở thành điểm đến của du khách, đặc biệt với những người mong cầu duyên lành trong chuyện tình cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T12:42:35+07:00",
+      "fetched": "2026-02-14T21:18:27.300745+07:00"
+    },
+    {
+      "id": "160524c0d521ea6dc711f0a5f91417cf",
+      "title": "Công nghệ OpenAI được thử nghiệm điều khiển UAV bầy đàn",
+      "link": "https://vnexpress.net/cong-nghe-openai-duoc-thu-nghiem-dieu-khien-uav-bay-dan-5041280.html",
+      "summary": "Công nghệ của OpenAI được hai công ty quốc phòng tại Mỹ thử nghiệm để chuyển giọng nói người điều khiển thành chỉ dẫn số cho bầy UAV trong tác chiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T12:34:38+07:00",
+      "fetched": "2026-02-14T21:18:27.300899+07:00"
+    },
+    {
+      "id": "160524c0d521ea6dc711f0a5f91417cf",
+      "title": "Công nghệ OpenAI được thử nghiệm điều khiển UAV bầy đàn",
+      "link": "https://vnexpress.net/cong-nghe-openai-duoc-thu-nghiem-dieu-khien-uav-bay-dan-5041280.html",
+      "summary": "Công nghệ của OpenAI được hai công ty quốc phòng tại Mỹ thử nghiệm để chuyển giọng nói người điều khiển thành chỉ dẫn số cho bầy UAV trong tác chiến.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-14T12:34:38+07:00",
+      "fetched": "2026-02-14T21:18:38.723565+07:00"
+    },
+    {
+      "id": "04305a9eb81f04dc12326d6d468a3636",
+      "title": "Đánh nhau náo loạn sau va chạm xe ở TP HCM, hai người bị bắt",
+      "link": "https://vnexpress.net/danh-nhau-nao-loan-sau-va-cham-xe-o-tp-hcm-hai-nguoi-bi-bat-5041322.html",
+      "summary": "Đoàn Quang Lân, 43 tuổi và Lê Thanh Bân, 48 tuổi, bị bắt sau khi dùng hung khí ẩu đả giữa đường vì va quẹt xe, gây náo loạn khu dân cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T12:32:20+07:00",
+      "fetched": "2026-02-14T21:18:27.301058+07:00"
+    },
+    {
+      "id": "b298559898940d0a5b589febe2966f6a",
+      "title": "Sun Group đồng hành cùng TP HCM xây dựng Công viên số 1 Lý Thái Tổ",
+      "link": "https://vnexpress.net/sun-group-dong-hanh-cung-tp-hcm-xay-dung-cong-vien-so-1-ly-thai-to-5041332.html",
+      "summary": "Công trình trị giá hơn 263 tỷ đồng, do Sun Group tài trợ toàn bộ và thi công, được hoàn thành trong hơn 90 ngày ngay trước Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T12:30:00+07:00",
+      "fetched": "2026-02-14T21:18:27.301242+07:00"
+    },
+    {
       "id": "b91482c206e06e532eb8368420097cd2",
       "title": "Diễn tập chống cướp ngân hàng tại Cà Mau, tình huống giả định cuối giờ giao dịch",
       "link": "https://thanhnien.vn/dien-tap-chong-cuop-ngan-hang-tai-ca-mau-tinh-huong-gia-dinh-cuoi-gio-giao-dich-18526021418081803.htm",
@@ -701,6 +1041,26 @@ window.newsData_2026_02_14 = {
       "category": "Kinh doanh",
       "published": "2026-02-14T12:00:00+07:00",
       "fetched": "2026-02-14T19:26:58.239290+07:00"
+    },
+    {
+      "id": "e2f8a0e79b619bab7a6d61769831fea0",
+      "title": "Lính Ukraine tìm cách sống sót trong chiến hào lạnh giá",
+      "link": "https://vnexpress.net/linh-ukraine-tim-cach-song-sot-trong-chien-hao-lanh-gia-5040940.html",
+      "summary": "Binh sĩ Ukraine phải tìm mọi cách giữ ấm cho bản thân, tránh bị chết cóng khi làm nhiệm vụ trong chiến hào giữa mùa đông lạnh giá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T12:00:00+07:00",
+      "fetched": "2026-02-14T21:18:27.301724+07:00"
+    },
+    {
+      "id": "e2f8a0e79b619bab7a6d61769831fea0",
+      "title": "Lính Ukraine tìm cách sống sót trong chiến hào lạnh giá",
+      "link": "https://vnexpress.net/linh-ukraine-tim-cach-song-sot-trong-chien-hao-lanh-gia-5040940.html",
+      "summary": "Binh sĩ Ukraine phải tìm mọi cách giữ ấm cho bản thân, tránh bị chết cóng khi làm nhiệm vụ trong chiến hào giữa mùa đông lạnh giá.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-14T12:00:00+07:00",
+      "fetched": "2026-02-14T21:18:34.066819+07:00"
     },
     {
       "id": "16aee8e852f9e10123c55da7c2eb311c",
