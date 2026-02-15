@@ -1,6 +1,6 @@
 window.newsData_2026_02_16 = {
   "date": "2026-02-16",
-  "lastUpdated": "2026-02-16T01:22:23.258412+07:00",
+  "lastUpdated": "2026-02-16T03:15:38.150373+07:00",
   "articles": [
     {
       "id": "9c784be1752316a09955d40fb484d5dc",
@@ -151,6 +151,36 @@ window.newsData_2026_02_16 = {
       "category": "Tổng hợp",
       "published": "2026-02-16T01:22:14.695453+07:00",
       "fetched": "2026-02-16T01:22:14.695660+07:00"
+    },
+    {
+      "id": "d568f7391e32d9bf3c45aa14024e19a1",
+      "title": "Arsenal thắng đậm ở Cup FA",
+      "link": "https://vnexpress.net/arsenal-thang-dam-o-cup-fa-5041673.html",
+      "summary": "Dùng đội hình dự bị, Arsenal vẫn thắng dễ đội khách Wigan 4-0 ở vòng bốn Cup FA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T18:34:22+07:00",
+      "fetched": "2026-02-16T03:15:24.967855+07:00"
+    },
+    {
+      "id": "d568f7391e32d9bf3c45aa14024e19a1",
+      "title": "Arsenal thắng đậm ở Cup FA",
+      "link": "https://vnexpress.net/arsenal-thang-dam-o-cup-fa-5041673.html",
+      "summary": "Dùng đội hình dự bị, Arsenal vẫn thắng dễ đội khách Wigan 4-0 ở vòng bốn Cup FA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-15T18:34:22+07:00",
+      "fetched": "2026-02-16T03:15:38.145798+07:00"
+    },
+    {
+      "id": "fe90436afe1ea19bec5b56bdcecc46e6",
+      "title": "Nghệ sĩ Xuân Hinh, Hòa Minzy hát nhạc phim 'Mùi phở'",
+      "link": "https://vnexpress.net/nghe-si-xuan-hinh-hoa-minzy-hat-nhac-phim-mui-pho-5041562.html",
+      "summary": "Nghệ sĩ Xuân Hinh lần thứ hai kết hợp Hòa Minzy, Tuấn Cry trong ca khúc \"Lão ông cưới vợ\", nhạc phim Tết \"Mùi phở\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T18:00:00+07:00",
+      "fetched": "2026-02-16T03:15:24.968019+07:00"
     },
     {
       "id": "fd76e5f7aaf8c60d4362c7f3f8f0014c",
