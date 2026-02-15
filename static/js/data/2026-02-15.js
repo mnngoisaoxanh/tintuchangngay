@@ -1,7 +1,157 @@
 window.newsData_2026_02_15 = {
   "date": "2026-02-15",
-  "lastUpdated": "2026-02-15T13:39:25.664780+07:00",
+  "lastUpdated": "2026-02-15T15:22:27.222870+07:00",
   "articles": [
+    {
+      "id": "b12fdecaba982d6b3894893ebdf03dfc",
+      "title": "Ông Obama phản ứng vụ bị ghép mặt lên thân khỉ",
+      "link": "https://tuoitre.vn/ong-obama-phan-ung-vu-bi-ghep-mat-len-than-khi-20260215125844927.htm",
+      "summary": "Cựu Tổng thống Mỹ cho rằng một số nguyên tắc, chuẩn mực về ứng xử đang dần bị lãng quên tại Nhà Trắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.950913+07:00",
+      "fetched": "2026-02-15T15:22:19.951023+07:00"
+    },
+    {
+      "id": "4f265c84145620ba09cfa9671c780c59",
+      "title": "AFC báo tin vui lớn cho tuyển Việt Nam vụ Malaysia nhập tịch trái phép",
+      "link": "https://tuoitre.vn/afc-bao-tin-vui-lon-cho-tuyen-viet-nam-vu-malaysia-nhap-tich-trai-phep-20260215130237845.htm",
+      "summary": "\"7 cầu thủ này không liên quan trực tiếp đến hành vi sai trái mà FIFA cáo buộc trong vụ nhập tịch trái phép\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.950790+07:00",
+      "fetched": "2026-02-15T15:22:19.950902+07:00"
+    },
+    {
+      "id": "c414dfd38398bcf2f54086d2f4d43281",
+      "title": "Sao chổi tự dừng quay rồi xoay ngược",
+      "link": "https://tuoitre.vn/sao-choi-tu-dung-quay-roi-xoay-nguoc-20260215130805496.htm",
+      "summary": "Các nhà thiên văn lần đầu quan sát một sao chổi dừng hẳn chuyển động tự quay rồi đảo chiều, hiện tượng chưa từng được ghi nhận trước đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.950666+07:00",
+      "fetched": "2026-02-15T15:22:19.950779+07:00"
+    },
+    {
+      "id": "893e1ac314925f0aa35cb75fda95b154",
+      "title": "Nơi cụ bà U100 và những đứa trẻ mồ côi cùng đón Tết",
+      "link": "https://tuoitre.vn/noi-cu-ba-u100-va-nhung-dua-tre-mo-coi-cung-don-tet-20260215125915668.htm",
+      "summary": "Giữa cái rét cận Tết của miền Bắc, ở Cơ sở Bảo trợ xã hội tổng hợp Bắc Ninh, mùa xuân đến theo một cách rất đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.950524+07:00",
+      "fetched": "2026-02-15T15:22:19.950654+07:00"
+    },
+    {
+      "id": "3d75d892e1529008792a1b57fc0fa923",
+      "title": "Lai Châu lên tiếng về hình ảnh 'linh vật ngựa lai hươu'",
+      "link": "https://tuoitre.vn/lai-chau-len-tieng-ve-hinh-anh-linh-vat-ngua-lai-huou-20260215132503659.htm",
+      "summary": "Tỉnh Lai Châu khẳng định thông tin và hình ảnh trưng bày 'linh vật ngựa' tại quảng trường nhân dân tỉnh trong dịp Tết là không đúng sự thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.950398+07:00",
+      "fetched": "2026-02-15T15:22:19.950513+07:00"
+    },
+    {
+      "id": "081e3a6ff3ac001dfe03dcfc7aa60e09",
+      "title": "Mùi Tết",
+      "link": "https://tuoitre.vn/mui-tet-20260215135109416.htm",
+      "summary": "Mùi Tết không chỉ là không khí, sắc xuân mà là mùi của đất, của hoa, của cây trái và cả một trời ký ức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.950274+07:00",
+      "fetched": "2026-02-15T15:22:19.950387+07:00"
+    },
+    {
+      "id": "7335da0b742d12f868f3372ac8021bda",
+      "title": "Đà Nẵng xử phạt người đăng ảnh AI sai sự thật về Lễ hội Tết tại Nhà văn hóa Thanh niên TP.HCM",
+      "link": "https://tuoitre.vn/da-nang-xu-phat-nguoi-dang-anh-ai-sai-su-that-ve-le-hoi-tet-tai-nha-van-hoa-thanh-nien-tp-hcm-20260215134817996.htm",
+      "summary": "Một người đàn ông ở Đà Nẵng bị phạt vì sử dụng hình ảnh AI sai sự thật và viết trên Facebook gây phản cảm về cổng chào Lễ hội Tết tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.950143+07:00",
+      "fetched": "2026-02-15T15:22:19.950262+07:00"
+    },
+    {
+      "id": "5dce8356cead142fc6e4e508a1760d5c",
+      "title": "Châu Âu nói nhân vật đối lập Alexei Navalny bị Nga đầu độc bằng chất độc từ ếch",
+      "link": "https://tuoitre.vn/chau-au-noi-nhan-vat-doi-lap-alexei-navalny-bi-nga-dau-doc-bang-chat-doc-tu-ech-20260215134122678.htm",
+      "summary": "5 nước châu Âu ra tuyên bố chung cho rằng Matxcơva đã đầu độc Alexei Navalny bằng chất độc chiết xuất từ loài ếch phi tiêu Nam Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.950019+07:00",
+      "fetched": "2026-02-15T15:22:19.950131+07:00"
+    },
+    {
+      "id": "1737dfecc6a766e39553da6291310064",
+      "title": "Tiểu thương chợ truyền thống livestream bán hàng Tết từ mờ sáng",
+      "link": "https://tuoitre.vn/tieu-thuong-cho-truyen-thong-livestream-ban-hang-tet-tu-mo-sang-20260215140007029.htm",
+      "summary": "Chiếc điện thoại thông minh trở thành \"cầu truyền hình\" đặc biệt, đưa hình ảnh từng sạp hàng lên mạng xã hội để kéo khách đến chợ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.949895+07:00",
+      "fetched": "2026-02-15T15:22:19.950008+07:00"
+    },
+    {
+      "id": "bf97d2eee21d0a62a720ba33475b7c02",
+      "title": "Liên danh nhà đầu tư đề xuất nghiên cứu metro số 7 Tân Kiên - Vinhomes Grand Park",
+      "link": "https://tuoitre.vn/lien-danh-nha-dau-tu-de-xuat-nghien-cuu-metro-so-7-tan-kien-vinhomes-grand-park-20260215110936029.htm",
+      "summary": "Theo nhà đầu tư đề xuất, khi làm metro số 7 dài 52km theo phương thức PPP sẽ giúp giảm gánh nặng cho ngân sách nhà nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.949767+07:00",
+      "fetched": "2026-02-15T15:22:19.949883+07:00"
+    },
+    {
+      "id": "7d32ad5babff63b4edf63d8741819d76",
+      "title": "Nhiều xe khách nhồi nhét gấp đôi, gấp ba",
+      "link": "https://tuoitre.vn/nhieu-xe-khach-nhoi-nhet-gap-doi-gap-ba-20260215141400177.htm",
+      "summary": "Trong những ngày giáp Tết, Phòng Cảnh sát giao thông công an tỉnh Phú Thọ phát hiện nhiều xe khách chở gấp đôi, gấp ba số người quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.949635+07:00",
+      "fetched": "2026-02-15T15:22:19.949755+07:00"
+    },
+    {
+      "id": "6e99892c1891ec58444643e451968bdb",
+      "title": "Đi qua mùa xuân để tìm lại dấu tích tuyến đường sắt răng cưa Tháp Chàm - Đà Lạt",
+      "link": "https://tuoitre.vn/di-qua-mua-xuan-de-tim-lai-dau-tich-tuyen-duong-sat-rang-cua-thap-cham-da-lat-20260215070245695.htm",
+      "summary": "Tuyến đường sắt Tháp Chàm - Đà Lạt từng là tuyến đường sắt răng cưa độc đáo nhất Đông Dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.949484+07:00",
+      "fetched": "2026-02-15T15:22:19.949616+07:00"
+    },
+    {
+      "id": "3ac0f9f1c25e5a11dd8990cda59df267",
+      "title": "'Đạt Rồ' Đinh Công Đạt đã hết rồ?",
+      "link": "https://tuoitre.vn/dat-ro-dinh-cong-dat-da-het-ro-20260215101501798.htm",
+      "summary": "Khi Đinh Công Đạt làm nghệ thuật rất tỉnh, rất khôn, thành nghệ sĩ đắt khách, thiên hạ gọi anh là Đạt Rồ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.949351+07:00",
+      "fetched": "2026-02-15T15:22:19.949471+07:00"
+    },
+    {
+      "id": "4e8891605d2367c25f3923fef0481d29",
+      "title": "Mai vàng vượt lũ, lan rừng hút khách ở chợ hoa Buôn Ma Thuột",
+      "link": "https://tuoitre.vn/mai-vang-vuot-lu-lan-rung-hut-khach-o-cho-hoa-buon-ma-thuot-20260215142109089.htm",
+      "summary": "Ngoài mai vàng, cúc mâm xôi, quất cảnh, lan rừng Nghinh Xuân được nhiều người săn tìm, góp thêm hương sắc cho phố núi cao nguyên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.949209+07:00",
+      "fetched": "2026-02-15T15:22:19.949338+07:00"
+    },
+    {
+      "id": "9958f811d882b263e3725d04316cb7b9",
+      "title": "Công an Đồng Tháp tặng sữa, nước suối cho dân miền Tây về quê đón Tết",
+      "link": "https://tuoitre.vn/cong-an-dong-thap-tang-sua-nuoc-suoi-cho-dan-mien-tay-ve-que-don-tet-20260215133001207.htm",
+      "summary": "Công an tỉnh Đồng Tháp đã \"tiếp sức\" người dân bằng hàng chục ngàn lốc sữa, nước suối, bánh kẹo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:22:19.948982+07:00",
+      "fetched": "2026-02-15T15:22:19.949193+07:00"
+    },
     {
       "id": "baf83a5e4871ad95e54ced2ea1831368",
       "title": "Dự báo thời tiết từ 28 tháng chạp đến mùng 5 Tết: Không khí lạnh về đúng mùng 1",
@@ -341,6 +491,196 @@ window.newsData_2026_02_15 = {
       "category": "Tổng hợp",
       "published": "2026-02-15T08:19:06.796427+07:00",
       "fetched": "2026-02-15T08:19:06.796654+07:00"
+    },
+    {
+      "id": "a116683aeffc7ed811001c3c116fc25f",
+      "title": "Mẹo nhỏ 'ép' điện thoại Samsung phát nhạc lớn như loa thùng",
+      "link": "https://thanhnien.vn/meo-nho-ep-dien-thoai-samsung-phat-nhac-lon-nhu-loa-thung-185260215120238624.htm",
+      "summary": "Cứ ngỡ loa hư, hóa ra điện thoại Samsung đang 'giấu' mức âm lượng tối đa đằng sau cài đặt này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:17:00+07:00",
+      "fetched": "2026-02-15T15:22:18.660244+07:00"
+    },
+    {
+      "id": "02d9780336b42f10e6cfdddff96955c4",
+      "title": "300 tài xế xe công nghệ vỡ òa khui lì xì tại bữa cơm tết ấm lòng",
+      "link": "https://thanhnien.vn/300-tai-xe-xe-cong-nghe-vo-oa-khui-li-xi-tai-bua-com-tet-am-long-185260215121453167.htm",
+      "summary": "Ngày 28 tháng chạp (15.2), khoảng 150 tài xế xe ôm công nghệ cùng nhau ăn bữa cơm tất niên và hái lộc, nhận bao lì xì, người may mắn nhất được 500.000 đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:15:00+07:00",
+      "fetched": "2026-02-15T15:22:18.660410+07:00"
+    },
+    {
+      "id": "fefb2be8b09a6115e4574f33a1c44b9e",
+      "title": "Dòng người đổ về Hội hoa xuân Tao Đàn chụp ảnh tết, xem ngựa thật",
+      "link": "https://thanhnien.vn/dong-nguoi-do-ve-hoi-hoa-xuan-tao-dan-chup-anh-tet-xem-ngua-that-185260215134158097.htm",
+      "summary": "Hội hoa xuân Tao Đàn (phường Bến Thành, TP.HCM) giới thiệu nhiều bộ sưu tập hoa, cây cảnh cùng khu trưng bày ngựa thật, thu hút đông đảo người dân, du khách đến tham quan, chụp ảnh tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:00:00+07:00",
+      "fetched": "2026-02-15T15:22:18.660565+07:00"
+    },
+    {
+      "id": "08bac46cc226f328a528f7c994cf4c22",
+      "title": "Metro số 1 TP.HCM ‘dễ thở’, Việt kiều về chơi tết khen tàu đẹp ‘một 9 một 10’ với phương Tây",
+      "link": "https://thanhnien.vn/metro-so-1-tphcm-de-tho-viet-kieu-ve-choi-tet-khen-tau-dep-mot-9-mot-10-voi-phuong-tay-185260215145237718.htm",
+      "summary": "Sáng 15.2.2026 (28 tết), nhiều ga metro số 1 tại TP.HCM khá vắng vẻ, lượng khách giảm mạnh so với ngày thường. Nhiều người tranh thủ những ngày này để lên metro di chuyển vào trung tâm thành phố du xuân, chụp hình tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T07:52:00+07:00",
+      "fetched": "2026-02-15T15:22:18.660740+07:00"
+    },
+    {
+      "id": "2e2252cf0bd7f60a8c628aa6adee7815",
+      "title": "Chóng mặt với lịch thi đấu oái ăm của đội tuyển nữ Việt Nam tại Úc: Đủ ‘combo’ trưa chiều tối",
+      "link": "https://thanhnien.vn/chong-mat-voi-lich-thi-dau-oai-am-cua-doi-tuyen-nu-viet-nam-tai-uc-du-combo-trua-chieu-toi-18526021510234913.htm",
+      "summary": "Tại vòng bảng VCK bóng đá nữ châu Á 2026, đội tuyển nữ Việt Nam phải thi đấu ở 3 khung giờ khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T07:48:00+07:00",
+      "fetched": "2026-02-15T15:22:18.660892+07:00"
+    },
+    {
+      "id": "189a374a21eb6fce2e479df9f2ef77cc",
+      "title": "Tìm thấy thiếu nữ 16 tuổi bị lạc khi đi chơi với bạn quen qua mạng",
+      "link": "https://thanhnien.vn/tim-thay-thieu-nu-16-tuoi-bi-lac-khi-di-choi-voi-ban-quen-qua-mang-185260215140807435.htm",
+      "summary": "Sau khi được tổ tuần tra phát hiện đi bộ một mình với vẻ mệt mỏi, lo lắng và đưa về trụ sở hỗ trợ, thiếu nữ 16 tuổi ở Cà Mau đã đoàn tụ với gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T07:47:00+07:00",
+      "fetched": "2026-02-15T15:22:18.661045+07:00"
+    },
+    {
+      "id": "68adb3b763a52f66c8e003c3fe5d6356",
+      "title": "Cao tốc TP.HCM - Vân Phong đông đột biến, CSGT phạt loạt xe quá tốc độ",
+      "link": "https://thanhnien.vn/cao-toc-tphcm-van-phong-dong-dot-bien-csgt-phat-loat-xe-qua-toc-do-185260215111357753.htm",
+      "summary": "250 xe khách 'phi như bay' trên cao tốc TP.HCM - Vân Phong bị CSGT bắn tốc độ, xử phạt trong 3 ngày. Trong đó có trường hợp xe khách chạy tới 131 km/giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T07:44:00+07:00",
+      "fetched": "2026-02-15T15:22:18.661196+07:00"
+    },
+    {
+      "id": "1e6891ef06ec514ae0808d1adc3d7c81",
+      "title": "Truyền thuyết phụ nữ tuổi Ngọ và hình tượng con ngựa ở Nhật Bản",
+      "link": "https://thanhnien.vn/truyen-thuyet-phu-nu-tuoi-ngo-va-hinh-tuong-con-ngua-o-nhat-ban-185260209171030232.htm",
+      "summary": "Câu chuyện dân gian về một phụ nữ sinh năm Bính Ngọ gây ảnh hưởng lâu dài tại Nhật, trong khi hình ảnh con ngựa từ lâu được xem là cầu nối tâm linh giữa con người với thần linh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T07:42:00+07:00",
+      "fetched": "2026-02-15T15:22:18.661346+07:00"
+    },
+    {
+      "id": "4dd9da45cffaf9a96e6b5d2b56b83d95",
+      "title": "Nhà Trắng gây chú ý với loạt thiệp Valentine 'đá xoáy'",
+      "link": "https://vnexpress.net/nha-trang-gay-chu-y-voi-loat-thiep-valentine-da-xoay-5041529.html",
+      "summary": "Nhà Trắng đăng các mẫu thiệp Valentine trên mạng xã hội, nhắc đến các vấn đề như Greenland, chiến dịch truy quét nhập cư theo phong cách châm biếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T07:38:16+07:00",
+      "fetched": "2026-02-15T15:22:15.180150+07:00"
+    },
+    {
+      "id": "4dd9da45cffaf9a96e6b5d2b56b83d95",
+      "title": "Nhà Trắng gây chú ý với loạt thiệp Valentine 'đá xoáy'",
+      "link": "https://vnexpress.net/nha-trang-gay-chu-y-voi-loat-thiep-valentine-da-xoay-5041529.html",
+      "summary": "Nhà Trắng đăng các mẫu thiệp Valentine trên mạng xã hội, nhắc đến các vấn đề như Greenland, chiến dịch truy quét nhập cư theo phong cách châm biếm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-15T07:38:16+07:00",
+      "fetched": "2026-02-15T15:22:21.207888+07:00"
+    },
+    {
+      "id": "5ef830cd7f76aab31c1082b2bd09a537",
+      "title": "Vượt 'địa ngục' nóng nhất thế giới tại Iran",
+      "link": "https://vnexpress.net/vuot-dia-nguc-nong-nhat-the-gioi-tai-iran-5041503.html",
+      "summary": "Nhóm nhà thám hiểm và làm phim cùng Youtuber Ruhi Cenet phải dùng đá làm mát thiết bị khi tiến vào vùng lõi sa mạc Lut dưới sức nóng thiêu đốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T07:13:56+07:00",
+      "fetched": "2026-02-15T15:22:15.180330+07:00"
+    },
+    {
+      "id": "6a6856df120afabe960d21f74ab6cbd9",
+      "title": "Động cơ diesel quay lại thị trường châu Âu",
+      "link": "https://vnexpress.net/dong-co-diesel-quay-lai-thi-truong-chau-au-5041494.html",
+      "summary": "Stellantis tái giới thiệu nhiều mẫu xe diesel tại châu Âu khi doanh số xe điện chững lại, tận dụng lợi thế giá bán và nhu cầu của khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T07:06:21+07:00",
+      "fetched": "2026-02-15T15:22:15.180573+07:00"
+    },
+    {
+      "id": "c3b36b6fb470820660099541446b26f1",
+      "title": "Người đẹp cười tươi trong ngày Tết gợi bạn nhớ thành ngữ nào?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-nguoi-dep-cuoi-tuoi-nhu-hoa-goi-y-cho-ban-cau-thanh-ngu-nao-5039660.html",
+      "summary": "Khuyên nhủ con người nên buông bỏ giận hờn, hiềm khích trong dịp năm mới, giữ tâm hồn thanh thản, hòa giải và tạo không khí vui vẻ...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T07:00:00+07:00",
+      "fetched": "2026-02-15T15:22:15.180782+07:00"
+    },
+    {
+      "id": "205b7978618733d4169908ec13a833df",
+      "title": "5 cách giảm trào ngược họng thanh quản dịp Tết",
+      "link": "https://vnexpress.net/5-cach-giam-trao-nguoc-hong-thanh-quan-dip-tet-5041188.html",
+      "summary": "Ăn uống điều độ, tránh chất kích thích, hạn chế rượu bia, ngủ đủ giấc góp phần giảm nguy cơ mắc hoặc tái phát trào ngược họng thanh quản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T07:00:00+07:00",
+      "fetched": "2026-02-15T15:22:15.180951+07:00"
+    },
+    {
+      "id": "37421b7b922c222703fa785bacc9ec50",
+      "title": "Galaxy S26+ bất ngờ được rao bán công khai dù chưa ra mắt",
+      "link": "https://thanhnien.vn/galaxy-s26-bat-ngo-duoc-rao-ban-cong-khai-du-chua-ra-mat-185260215111548166.htm",
+      "summary": "Thực hư chuyện Galaxy S26+ bị rao bán trên mạng, liệu đây là nguyên mẫu bị đánh cắp hay lừa đảo?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T06:59:00+07:00",
+      "fetched": "2026-02-15T15:22:18.661509+07:00"
+    },
+    {
+      "id": "6304e482425c1282aad92d816daaa072",
+      "title": "Giả làm trung gian vận chuyển, lừa tiền nhiều tài xế chuyên nghiệp",
+      "link": "https://vnexpress.net/gia-lam-trung-gian-van-chuyen-lua-tien-nhieu-tai-xe-chuyen-nghiep-5041541.html",
+      "summary": "Giả làm trung gian vận chuyển, người đàn ông lừa nhiều tài xế chuyển tiền đặt cọc, chiếm đoạt hàng trăm triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T06:57:20+07:00",
+      "fetched": "2026-02-15T15:22:15.181114+07:00"
+    },
+    {
+      "id": "2b14a8295971fc7be0d7109f23e1e6d0",
+      "title": "Bẻ khóa điện thoại, chiếm đoạt tiền trong tài khoản ngân hàng",
+      "link": "https://vnexpress.net/be-khoa-dien-thoai-chiem-doat-tien-trong-tai-khoan-ngan-hang-5041535.html",
+      "summary": "Nam thanh niên 28 tuổi bẻ khóa điện thoại trộm được, truy cập trái phép tài khoản ngân hàng của bị hại để chuyển tiền vào ví điện tử, phục vụ chơi game.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T06:54:31+07:00",
+      "fetched": "2026-02-15T15:22:15.181285+07:00"
+    },
+    {
+      "id": "fa50d5dcf7eff21d25f7c024e2c250a0",
+      "title": "Danh sách chính thức 864 người ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://thanhnien.vn/danh-sach-chinh-thuc-864-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-185260215124842264.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn, Chủ tịch Hội đồng Bầu cử quốc gia, đã ký ban hành nghị quyết công bố danh sách chính thức 864 người ứng cử đại biểu Quốc hội khóa XVI theo từng đơn vị trong cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T06:51:00+07:00",
+      "fetched": "2026-02-15T15:22:18.661685+07:00"
+    },
+    {
+      "id": "5a0cd8c9308fcd457ee5b237b6dbbabc",
+      "title": "Chợ hoa ngày 28 tết: nơi tấp nập người mua, chỗ đìu hiu ngóng khách",
+      "link": "https://thanhnien.vn/cho-hoa-ngay-28-tet-noi-tap-nap-nguoi-mua-cho-diu-hiu-ngong-khach-185260215125258203.htm",
+      "summary": "Dạo qua một vài khu chợ hoa ở quê trong ngày 28 tết, có nơi người mua chen chân chọn hoa, có nơi lại vắng vẻ đến mức người bán thảnh thơi ngồi lướt điện thoại ngóng khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T06:44:00+07:00",
+      "fetched": "2026-02-15T15:22:18.661844+07:00"
     },
     {
       "id": "18eef30a260241885f35d98912892882",
