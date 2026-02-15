@@ -1,7 +1,157 @@
 window.newsData_2026_02_15 = {
   "date": "2026-02-15",
-  "lastUpdated": "2026-02-15T08:19:14.957748+07:00",
+  "lastUpdated": "2026-02-15T11:12:46.810170+07:00",
   "articles": [
+    {
+      "id": "7ec226673d16cbe801856555ad497972",
+      "title": "Gu mua xe người Việt nay đã khác: Từ 'nhồi nhét option' sang 'đúng nhất có thể'",
+      "link": "https://tuoitre.vn/gu-mua-xe-nguoi-viet-nay-da-khac-tu-nhoi-nhet-option-sang-dung-nhat-co-the-20260214221154355.htm",
+      "summary": "Khi cuộc đua trang bị vượt nhu cầu thực tế, cách chọn “đúng và đủ” trên Suzuki Fronx và một số mẫu xe trở thành hướng tiếp cận đáng chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.748440+07:00",
+      "fetched": "2026-02-15T11:12:38.748538+07:00"
+    },
+    {
+      "id": "0ac2e247c64ee21266e8c395caaa9d09",
+      "title": "Long Châu chung tay góp mùa Tết ấm: Tiếp tục hành  trình vì cộng đồng âm thầm và bền bỉ",
+      "link": "https://tuoitre.vn/long-chau-chung-tay-gop-mua-tet-am-tiep-tuc-hanh-trinh-vi-cong-dong-am-tham-va-ben-bi-20260214221110458.htm",
+      "summary": "Tết không chỉ là mùa đoàn viên, mà còn là dịp của những điều tử tế được trao đi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.748333+07:00",
+      "fetched": "2026-02-15T11:12:38.748431+07:00"
+    },
+    {
+      "id": "c92f5e07f0bc50047a7b6b64553f0233",
+      "title": "Nhiều trụ sở xã, phường ở Cần Thơ khoác áo mới đón dân đến vui chơi, chụp ảnh",
+      "link": "https://tuoitre.vn/nhieu-tru-so-xa-phuong-o-can-tho-khoac-ao-moi-don-dan-den-vui-choi-chup-anh-20260215081942103.htm",
+      "summary": "Từ nguồn kinh phí xã hội hóa, nhiều xã, phường ở Cần Thơ đã trang trí, tạo tiểu cảnh trong khuôn viên trụ sở để người dân vui chơi, chụp ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.748225+07:00",
+      "fetched": "2026-02-15T11:12:38.748323+07:00"
+    },
+    {
+      "id": "70788186c43cd23c165ef31cecefb849",
+      "title": "Động đất 3,7 độ ở Kon Plông sáng 28 Tết",
+      "link": "https://tuoitre.vn/dong-dat-3-7-do-o-kon-plong-sang-28-tet-20260215081954698.htm",
+      "summary": "Trận rung chấn xảy ra sáng 15-2 tại Kon Plông (Quảng Ngãi), tiếp nối chuỗi động đất kéo dài nhiều năm qua ở khu vực này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.748119+07:00",
+      "fetched": "2026-02-15T11:12:38.748216+07:00"
+    },
+    {
+      "id": "30fa1c3fbc7c95b3bb46eccde931c50a",
+      "title": "ESPN: CLB Công An Hà Nội nguy cơ bị AFC xử thua",
+      "link": "https://tuoitre.vn/espn-clb-cong-an-ha-noi-nguy-co-bi-afc-xu-thua-20260214155301066.htm",
+      "summary": "CLB Công An Hà Nội có nguy cơ bị AFC hủy kết quả trận thắng 4-0 trước Tampines Rovers tại lượt đi cúp C2 châu Á vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.748013+07:00",
+      "fetched": "2026-02-15T11:12:38.748110+07:00"
+    },
+    {
+      "id": "7db0850e8aad0789a6b7e9297fcd80ec",
+      "title": "Thiên Mã Mađagui và sự chuyển mình từ gốc rễ của vùng đất Đạ Huoai",
+      "link": "https://tuoitre.vn/thien-ma-madagui-va-su-chuyen-minh-tu-goc-re-cua-vung-dat-da-huoai-20260213110658026.htm",
+      "summary": "Một buổi sớm ở xã Đạ Huoai (tỉnh Lâm Đồng), khi màn sương vẫn còn treo lưng chừng trên những triền đồi, tiếng vó ngựa đều nhịp vang lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.747905+07:00",
+      "fetched": "2026-02-15T11:12:38.748003+07:00"
+    },
+    {
+      "id": "149e90a9b49eccdf57e45084aa574cb8",
+      "title": "Cây xoài di sản hơn 340 năm ở Cà Mau gắn với truyền thuyết hổ ba chân",
+      "link": "https://tuoitre.vn/cay-xoai-di-san-hon-340-nam-o-ca-mau-gan-voi-truyen-thuyet-ho-ba-chan-20260214202047131.htm",
+      "summary": "Một cây xoài cổ thụ với tuổi đời hơn 340 năm vẫn xanh tốt, tỏa bóng mát suốt nhiều thế kỷ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.747786+07:00",
+      "fetched": "2026-02-15T11:12:38.747896+07:00"
+    },
+    {
+      "id": "38fc14beebb09890ed72d9c8c00e5bfc",
+      "title": "Đại tướng Phan Văn Giang gửi thư tới các lực lượng trong toàn quân",
+      "link": "https://tuoitre.vn/dai-tuong-phan-van-giang-gui-thu-toi-cac-luc-luong-trong-toan-quan-20260215090725648.htm",
+      "summary": "Nhân dịp đón xuân, Đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng, đã gửi thư tới toàn thể các lực lượng trong toàn quân trên cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.747678+07:00",
+      "fetched": "2026-02-15T11:12:38.747777+07:00"
+    },
+    {
+      "id": "b936ee74260a4cda9232861d46707d53",
+      "title": "Sẵn sàng cho xe quay đầu, phân luồng từ xa khi xảy ra ùn ứ trên cao tốc TP.HCM - Trung Lương",
+      "link": "https://tuoitre.vn/san-sang-cho-xe-quay-dau-phan-luong-tu-xa-khi-xay-ra-un-u-tren-cao-toc-tp-hcm-trung-luong-20260214211235819.htm",
+      "summary": "Cao tốc TP.HCM - Trung Lương, cửa ngõ về miền Tây, đang gánh chịu áp lực giao thông rất lớn trong những ngày Tết khi hàng triệu người về quê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.747570+07:00",
+      "fetched": "2026-02-15T11:12:38.747669+07:00"
+    },
+    {
+      "id": "86a36f93eb480f1355c005c6e3b8e56b",
+      "title": "Công bố danh sách chính thức 864 người ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://tuoitre.vn/cong-bo-danh-sach-chinh-thuc-864-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-20260215095012522.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn đã ký ban hành nghị quyết công bố danh sách chính thức 864 người ứng cử đại biểu Quốc hội khóa XVI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.747462+07:00",
+      "fetched": "2026-02-15T11:12:38.747561+07:00"
+    },
+    {
+      "id": "e4b350f5372a5dcdea5acb5308c67cc1",
+      "title": "Bộ Giáo dục 'chốt' dừng xét học bạ độc lập, tăng số lượng nguyện vọng",
+      "link": "https://tuoitre.vn/bo-giao-duc-chot-dung-xet-hoc-ba-doc-lap-tang-so-luong-nguyen-vong-20260212100544361.htm",
+      "summary": "Năm 2026, thí sinh xét học bạ phải có điểm thi tốt nghiệp THPT tổ hợp tương ứng đạt tối thiểu 15 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.747353+07:00",
+      "fetched": "2026-02-15T11:12:38.747452+07:00"
+    },
+    {
+      "id": "b69859d37e3ebbaa957aafe67b9a192a",
+      "title": "Miền Bắc đón không khí lạnh mùng 1 Tết",
+      "link": "https://tuoitre.vn/mien-bac-don-khong-khi-lanh-mung-1-tet-20260215101327281.htm",
+      "summary": "Dự báo từ sáng 17-2 (mùng 1 Tết Bính Ngọ), miền Bắc chịu ảnh hưởng của một đợt không khí lạnh, trời chuyển rét, có mưa, mưa nhỏ rải rác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.747243+07:00",
+      "fetched": "2026-02-15T11:12:38.747343+07:00"
+    },
+    {
+      "id": "893bff8e794a963eff4f194ce4e59795",
+      "title": "SpaceX tiếp tục lập dấu mốc: Tàu Dragon cập ISS sau hơn một ngày phóng",
+      "link": "https://tuoitre.vn/spacex-tiep-tuc-lap-dau-moc-tau-dragon-cap-iss-sau-hon-mot-ngay-phong-2026021510263148.htm",
+      "summary": "Tàu Dragon chở bốn phi hành gia tự động kết nối Trạm Vũ trụ quốc tế ISS, khởi động sứ mệnh nghiên cứu kéo dài khoảng 8 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.747129+07:00",
+      "fetched": "2026-02-15T11:12:38.747233+07:00"
+    },
+    {
+      "id": "e6cf94f0cff76b3624659ec37625de3b",
+      "title": "Mời làm việc với người bị mất trộm gà, bức xúc đăng Facebook nói công an ‘bắt được cũng lại thả’",
+      "link": "https://tuoitre.vn/moi-lam-viec-voi-nguoi-bi-mat-trom-ga-buc-xuc-dang-facebook-noi-cong-an-bat-duoc-cung-lai-tha-20260215091349493.htm",
+      "summary": "Mất trộm gà nhưng không trình báo, đăng Facebook nâng khống số lượng gà mất trộm kèm nội dung: công an xã “bắt được cũng lại thả”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.747006+07:00",
+      "fetched": "2026-02-15T11:12:38.747119+07:00"
+    },
+    {
+      "id": "1c20d87221ec9b5be23dab7545fed7f1",
+      "title": "Xe khách 45 chỗ nhồi nhét 54 người, bị phạt 67,5 triệu đồng",
+      "link": "https://tuoitre.vn/xe-khach-45-cho-nhoi-nhet-54-nguoi-bi-phat-67-5-trieu-dong-20260215102300889.htm",
+      "summary": "Xe khách 45 chỗ xuất phát từ TP.HCM về TP Huế nhưng nhồi nhét 54 người. Tài xế và chủ xe bị phạt tổng cộng 67,5 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T11:12:38.746782+07:00",
+      "fetched": "2026-02-15T11:12:38.746992+07:00"
+    },
     {
       "id": "7c96f963e02b510442a2a1dd2fa06c1c",
       "title": "Thời tiết hôm nay 28 Tết: Bắc Bộ nắng yếu, Nam Bộ mưa trái mùa vài nơi",
@@ -41,6 +191,356 @@ window.newsData_2026_02_15 = {
       "category": "Tổng hợp",
       "published": "2026-02-15T08:19:06.796427+07:00",
       "fetched": "2026-02-15T08:19:06.796654+07:00"
+    },
+    {
+      "id": "807f3fe8d0fb5b8a025f699c8b37dbe8",
+      "title": "Khách Tây đi chợ hoa tết ở trung tâm TP.HCM, làm điều lạ khiến nhà vườn tò mò",
+      "link": "https://thanhnien.vn/khach-tay-di-cho-hoa-tet-o-trung-tam-tphcm-lam-dieu-la-khien-nha-vuon-to-mo-185260215110510612.htm",
+      "summary": "Tại chợ hoa tết ở trung tâm TP.HCM, nhiều khách Tây tìm đến để tận hưởng không khí tết Việt Nam. Có một nữ khách Tây làm điều đặc biệt khiến nhà vườn cũng như người mua hoa tò mò.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T04:11:00+07:00",
+      "fetched": "2026-02-15T11:12:37.633156+07:00"
+    },
+    {
+      "id": "b8f042ad82ca0b4ee3721300bd6903b9",
+      "title": "Phú Quốc đón số chuyến bay quốc tế cao kỷ lục kể từ năm 2012",
+      "link": "https://thanhnien.vn/phu-quoc-don-so-chuyen-bay-quoc-te-cao-ky-luc-ke-tu-nam-2012-185260215103939485.htm",
+      "summary": "Con số 50 chuyến bay quốc tế trong một ngày phản ánh rõ đà tăng trưởng mạnh mẽ của Phú Quốc trên bản đồ hàng không khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T04:05:00+07:00",
+      "fetched": "2026-02-15T11:12:37.633305+07:00"
+    },
+    {
+      "id": "022e603e245dc2563edc81d6c0f3ed7b",
+      "title": "Điều gì xảy ra nếu không cập nhật phần mềm cho Smart TV?",
+      "link": "https://thanhnien.vn/dieu-gi-xay-ra-neu-khong-cap-nhat-phan-mem-cho-smart-tv-185260215023105484.htm",
+      "summary": "Giống như smartphone, tablet hay PC, Smart TV cũng cần được cập nhật phần mềm để hoạt động một cách hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T04:05:00+07:00",
+      "fetched": "2026-02-15T11:12:37.633436+07:00"
+    },
+    {
+      "id": "d1a3e7b2385518a42a140871f4f7ecc1",
+      "title": "Người bệnh ung thư có được ăn mứt gừng không?",
+      "link": "https://vnexpress.net/nguoi-benh-ung-thu-co-duoc-an-mut-gung-khong-5041179.html",
+      "summary": "Tôi rất thích ăn mứt gừng ngày Tết. Người bệnh ung thư đang hóa trị như tôi có được ăn món này không? (Quý Hiên, 34 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T04:00:00+07:00",
+      "fetched": "2026-02-15T11:12:34.458703+07:00"
+    },
+    {
+      "id": "0dc053bec9c798d3ccb26edc2784b222",
+      "title": "Thói quen thường gặp ngày Tết làm giảm khả năng thụ thai",
+      "link": "https://vnexpress.net/thoi-quen-thuong-gap-ngay-tet-lam-giam-kha-nang-thu-thai-5041112.html",
+      "summary": "Thức khuya, ít vận động, ăn nhiều đồ ngọt, uống bia rượu có thể làm suy giảm chất lượng trứng và tinh trùng, ảnh hưởng khả năng thụ thai ở cả nam và nữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T04:00:00+07:00",
+      "fetched": "2026-02-15T11:12:34.458883+07:00"
+    },
+    {
+      "id": "48dfa4e1f519cef1f160e44be1009cc6",
+      "title": "Hẻm Sài Gòn đỏ lửa xuyên đêm: Người dân thức trắng nấu bánh tét, bánh chưng đón tết",
+      "link": "https://thanhnien.vn/hem-sai-gon-do-lua-xuyen-dem-nguoi-dan-thuc-trang-nau-banh-tet-banh-chung-don-tet-185260215020350052.htm",
+      "summary": "Những ngày cận tết, nhiều hẻm Sài Gòn lại rực lửa suốt đêm. Người dân quây quần bên nồi bánh tét, bánh chưng, giữ trọn truyền thống gia đình giữa lòng đô thị nhộn nhịp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T04:00:00+07:00",
+      "fetched": "2026-02-15T11:12:37.633565+07:00"
+    },
+    {
+      "id": "551905673a49122a658ae09640c55de7",
+      "title": "Đại lộ hoa ven bờ vịnh Hạ Long",
+      "link": "https://vnexpress.net/dai-lo-hoa-ven-bo-vinh-ha-long-5041247.html",
+      "summary": "Đại lộ hoa và ánh sáng “Quảng Ninh - Xuân di sản, kỳ quan số” tại khu vực Quảng trường 30/10 trở thành điểm đến đặc sắc thu hút người dân, du khách dịp Tết đến, Xuân về.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:34:16+07:00",
+      "fetched": "2026-02-15T11:12:34.459027+07:00"
+    },
+    {
+      "id": "41c4af6d88954d50f6961f3355e31514",
+      "title": "'Gieo mùa xuân' cho bệnh nhân, người yếu thế xứ Huế",
+      "link": "https://thanhnien.vn/gieo-mua-xuan-cho-benh-nhan-nguoi-yeu-the-xu-hue-185260214154513575.htm",
+      "summary": "Trong không khí hối hả những ngày giáp Tết Bính Ngọ, Quỹ Khởi sự từ tâm đã mang hơi ấm mùa xuân đến với những phận đời cơ cực tại Huế qua hành trình đầy nghĩa tình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:32:00+07:00",
+      "fetched": "2026-02-15T11:12:37.633693+07:00"
+    },
+    {
+      "id": "33a39c38f8d3c03dc179f39de32b1d4d",
+      "title": "Bị rượu bia 'đánh úp' giữa đường vì nghĩ mình tửu lượng cao",
+      "link": "https://vnexpress.net/bi-ruou-bia-danh-up-giua-duong-vi-nghi-minh-tuu-luong-cao-5041467.html",
+      "summary": "Lúc còn trong bàn tiệc tôi uống mãi mà không thấy say, đến khi ra đường thì đầu nặng dần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:30:30+07:00",
+      "fetched": "2026-02-15T11:12:34.459165+07:00"
+    },
+    {
+      "id": "c65f706b54eda00bcb08f4788e4e9098",
+      "title": "Người dùng iPhone dè dặt hơn với iOS 26",
+      "link": "https://thanhnien.vn/nguoi-dung-iphone-de-dat-hon-voi-ios-26-185260215002945315.htm",
+      "summary": "Theo thống kê mới công bố từ Apple, iOS 26 hiện đã được cài đặt trên khoảng 74% số iPhone ra mắt trong vòng 4 năm trở lại đây (từ năm 2022).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:28:00+07:00",
+      "fetched": "2026-02-15T11:12:37.633836+07:00"
+    },
+    {
+      "id": "6c150420a61c8757cd5f31c4f8097a06",
+      "title": "Chính phủ: Dữ liệu quốc gia về đất đai phải xong trong năm nay",
+      "link": "https://vnexpress.net/chinh-phu-du-lieu-quoc-gia-ve-dat-dai-phai-xong-trong-nam-nay-5041461.html",
+      "summary": "Việc xây dựng dữ liệu quốc gia về đất đai phải được hoàn thiện vào tháng 12, theo yêu cầu của Thủ tướng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:25:36+07:00",
+      "fetched": "2026-02-15T11:12:34.459300+07:00"
+    },
+    {
+      "id": "61ccd5289875478a4a3a125425573837",
+      "title": "Ô tô hybrid giảm giá, người Việt mua sắm gần 900 xe trong tháng đầu năm 2026",
+      "link": "https://thanhnien.vn/o-to-hybrid-giam-gia-nguoi-viet-mua-sam-gan-900-xe-trong-thang-dau-nam-2026-185260212085654.htm",
+      "summary": "Chính sách ưu đãi thuế tiêu thụ đặc biệt giúp giá bán một số mẫu ô tô hybrid tại Việt Nam giảm từ vài chục đến cả trăm triệu đồng, người Việt mua sắm gần 900 xe hybrid trong tháng đầu năm 2026, chủ yếu các mẫu mã xe Nhật Bản mang thương hiệu Toyota, Suzuki, Honda.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:24:00+07:00",
+      "fetched": "2026-02-15T11:12:37.633967+07:00"
+    },
+    {
+      "id": "de284f4f855fbfa7ed9408807e4b00f9",
+      "title": "Tình huống nào dễ dẫn đến tai nạn liên hoàn khi lái xe trên cao tốc?",
+      "link": "https://thanhnien.vn/tinh-huong-nao-de-dan-den-tai-nan-lien-hoan-khi-lai-xe-tren-cao-toc-18526021312493314.htm",
+      "summary": "Nhiều vụ tai nạn liên hoàn trên cao tốc xảy ra trong dịp cận Tết Nguyên đán gây hoang mang dư luận. Tuy nhiên, phần lớn những sự vụ trên đều xuất phát từ sai lầm của tài xế trong quá trình điều khiển phương tiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:23:00+07:00",
+      "fetched": "2026-02-15T11:12:37.634095+07:00"
+    },
+    {
+      "id": "4ee8ca8a44e72948ed73c50cc7152da0",
+      "title": "Ký ức đại dịch trước biểu tượng Giọt nước",
+      "link": "https://vnexpress.net/ky-uc-dai-dich-truoc-bieu-tuong-giot-nuoc-5041458.html",
+      "summary": "Đứng tại Công viên Lý Thái Tổ - nơi tưởng niệm 23.000 người mất vì Covid-19, chị Tường Vân nói mình không thể quên bất kỳ bệnh nhân nào từng chăm sóc trong những ngày cao điểm dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:16:14+07:00",
+      "fetched": "2026-02-15T11:12:34.459433+07:00"
+    },
+    {
+      "id": "8bcd0af20935d99398205efbe7955cac",
+      "title": "Nhà sư Thích Pháp Hòa ra sách về tháo gỡ bế tắc",
+      "link": "https://vnexpress.net/nha-su-thich-phap-hoa-ra-sach-ve-thao-go-be-tac-5040736.html",
+      "summary": "Sách mới của nhà sư Thích Pháp Hòa đi tìm lời giải cho câu hỏi \"Vì sao nhân quả không đến ngay\", \"Có nên phó mặc mọi chuyện cho duyên nghiệp\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:13:10+07:00",
+      "fetched": "2026-02-15T11:12:34.459564+07:00"
+    },
+    {
+      "id": "222b9c441cbe3f163b70d2e74c331609",
+      "title": "Xu hướng sắm 'đậu vàng' để lì xì ở Trung Quốc",
+      "link": "https://vnexpress.net/xu-huong-sam-dau-vang-de-li-xi-o-trung-quoc-5041449.html",
+      "summary": "Giá vàng tăng cao khiến nhiều người Trung Quốc dồn lực tích lũy hoặc chọn vàng thay tiền mặt để mừng tuổi ngày Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:12:28+07:00",
+      "fetched": "2026-02-15T11:12:34.459696+07:00"
+    },
+    {
+      "id": "222b9c441cbe3f163b70d2e74c331609",
+      "title": "Xu hướng sắm 'đậu vàng' để lì xì ở Trung Quốc",
+      "link": "https://vnexpress.net/xu-huong-sam-dau-vang-de-li-xi-o-trung-quoc-5041449.html",
+      "summary": "Giá vàng tăng cao khiến nhiều người Trung Quốc dồn lực tích lũy hoặc chọn vàng thay tiền mặt để mừng tuổi ngày Tết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-15T03:12:28+07:00",
+      "fetched": "2026-02-15T11:12:40.224127+07:00"
+    },
+    {
+      "id": "ba174b9bb646bc512ff6fc0b6c8499d5",
+      "title": "Bộ Giáo dục chốt bỏ xét riêng học bạ, siết điểm cộng IELTS",
+      "link": "https://vnexpress.net/quy-che-tuyen-sinh-dai-hoc-nam-2026-cua-bo-giao-duc-va-dao-tao-bo-xet-rieng-hoc-ba-siet-diem-cong-ielts-5041477.html",
+      "summary": "Thí sinh xét học bạ phải đạt sàn về điểm thi tốt nghiệp là 15/30, bị giới hạn 15 nguyện vọng và giảm một nửa điểm cộng với chứng chỉ IELTS.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:10:03+07:00",
+      "fetched": "2026-02-15T11:12:34.459856+07:00"
+    },
+    {
+      "id": "bf40854f352ab143179f5f6c36bc8b28",
+      "title": "Hollywood phản ứng với video AI 'Tom Cruise đấu Brad Pitt'",
+      "link": "https://vnexpress.net/hollywood-phan-ung-voi-video-ai-tom-cruise-dau-brad-pitt-5041465.html",
+      "summary": "Hiệp hội Điện ảnh Mỹ lên án công cụ Seedance 2.0 vi phạm bản quyền quy mô lớn, sau khi video AI \"Tom Cruise đấu Brad Pitt\" gây chú ý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:08:22+07:00",
+      "fetched": "2026-02-15T11:12:34.459991+07:00"
+    },
+    {
+      "id": "66365b5e876a4d5439895d7da131dc0e",
+      "title": "TP.HCM: 2 tài xế đánh nhau, vật lộn náo loạn đường Trần Bình Trọng",
+      "link": "https://thanhnien.vn/tphcm-2-tai-xe-danh-nhau-vat-lon-nao-loan-duong-tran-binh-trong-185260215093752996.htm",
+      "summary": "Liên quan đoạn clip tài xế đánh nhau, vật lộn trên đường Trần Bình Trọng (quận 5 cũ, TP.HCM) đang xôn xao trên mạng xã hội, công an đã lấy lời khai những người liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:08:00+07:00",
+      "fetched": "2026-02-15T11:12:37.634231+07:00"
+    },
+    {
+      "id": "674fe05b108a189882deacedf2480163",
+      "title": "Những cuộc thi kỳ thú với loài ngựa",
+      "link": "https://thanhnien.vn/nhung-cuoc-thi-ky-thu-voi-loai-ngua-18526020622341358.htm",
+      "summary": "Trên khắp thế giới, bên cạnh những cuộc đua ngựa quen thuộc, còn tồn tại nhiều môn thi và thể thao độc lạ xoay quanh loài ngựa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:06:00+07:00",
+      "fetched": "2026-02-15T11:12:37.634356+07:00"
+    },
+    {
+      "id": "66864d210039935b5e529d576752cd7a",
+      "title": "Công bố 864 ứng viên đại biểu Quốc hội khóa 16",
+      "link": "https://vnexpress.net/cong-bo-864-ung-vien-dai-bieu-quoc-hoi-khoa-16-5041474.html",
+      "summary": "Sáng 15/2 (28 Tết), Hội đồng bầu cử Quốc gia công bố danh sách 864 ứng viên đại biểu Quốc hội khóa 16 tại 182 đơn vị bầu cử trên cả nước, để cử tri bầu 500 đại biểu nhiệm kỳ 2026-2031.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:05:55+07:00",
+      "fetched": "2026-02-15T11:12:34.460128+07:00"
+    },
+    {
+      "id": "dcef1bf4bf813818ca388c0a0c78ba26",
+      "title": "'Thủ phủ nho cảnh' Ninh Thuận hối hả phục vụ Tết",
+      "link": "https://vnexpress.net/thu-phu-nho-canh-ninh-thuan-hoi-ha-phuc-vu-tet-5041392.html",
+      "summary": "Người làm nho cảnh Ninh Thuận hối hả đóng gói, đưa hàng trăm chậu nho cảnh gửi vào TP HCM và các tỉnh thành phía nam để bán trong dịp Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:05:27+07:00",
+      "fetched": "2026-02-15T11:12:34.460261+07:00"
+    },
+    {
+      "id": "3ed654f27753aab06d77fa078669dcc7",
+      "title": "Công ty của Elon Musk ở Việt Nam có vốn điều lệ 30 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-cua-elon-musk-o-viet-nam-co-von-dieu-le-30-ty-dong-5041385.html",
+      "summary": "Starlink Services Việt Nam, công ty thuộc SpaceX của tỷ phú Elon Musk, đăng ký kinh doanh từ tháng 9/2025 với vốn điều lệ 30 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:05:00+07:00",
+      "fetched": "2026-02-15T11:12:34.460394+07:00"
+    },
+    {
+      "id": "3ed654f27753aab06d77fa078669dcc7",
+      "title": "Công ty của Elon Musk ở Việt Nam có vốn điều lệ 30 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-cua-elon-musk-o-viet-nam-co-von-dieu-le-30-ty-dong-5041385.html",
+      "summary": "Starlink Services Việt Nam, công ty thuộc SpaceX của tỷ phú Elon Musk, đăng ký kinh doanh từ tháng 9/2025 với vốn điều lệ 30 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-15T03:05:00+07:00",
+      "fetched": "2026-02-15T11:12:41.747751+07:00"
+    },
+    {
+      "id": "20defc239ea04e7bdc5e5698d7c41a87",
+      "title": "Tốn tiền triệu skincare vẫn vô ích: 3 thói quen 'hủy diệt' khiến da chảy xệ",
+      "link": "https://thanhnien.vn/ton-tien-trieu-skincare-van-vo-ich-3-thoi-quen-huy-diet-khien-da-chay-xe-185260215101947097.htm",
+      "summary": "Dù 'mạnh tay' chốt đơn loạt serum tiền triệu nhưng da vẫn 'xuống cấp' không phanh? Rất có thể 3 thói quen 'hủy diệt' dưới đây chính là 'hung thủ' âm thầm khiến gương mặt bạn chảy xệ, lão hóa nhanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:04:00+07:00",
+      "fetched": "2026-02-15T11:12:37.634484+07:00"
+    },
+    {
+      "id": "44e4a7078597567d9673a38459a75acd",
+      "title": "Cái gì tay phải cầm được, tay trái cầm không được?",
+      "link": "https://vnexpress.net/cai-gi-tay-phai-cam-duoc-tay-trai-cam-khong-duoc-5040879.html",
+      "summary": "Một câu đố ngắn gọn nhưng đủ khiến bạn 'khựng lại' vài giây, nghe tưởng đơn giản, nhưng càng suy nghĩ lại càng rối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:00:00+07:00",
+      "fetched": "2026-02-15T11:12:34.460535+07:00"
+    },
+    {
+      "id": "769e0cae40cedbaebf2039a260d9bfd7",
+      "title": "7 lợi ích sức khỏe khi ăn tôm có thể bạn chưa biết",
+      "link": "https://vnexpress.net/7-loi-ich-suc-khoe-khi-an-tom-co-the-ban-chua-biet-5040798.html",
+      "summary": "Tôm là hải sản ít thủy ngân, cung cấp protein chất lượng cao cùng nhiều vi chất quan trọng, có thể an toàn khi ăn khoảng 2 bữa (240 g) mỗi tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:00:00+07:00",
+      "fetched": "2026-02-15T11:12:34.460666+07:00"
+    },
+    {
+      "id": "36ab111a5ca82b592e446543d6f3c3ef",
+      "title": "Y tế - Hậu phương thầm lặng trong những sự kiện văn hóa, xã hội quy mô lớn",
+      "link": "https://thanhnien.vn/y-te-hau-phuong-tham-lang-trong-nhung-su-kien-van-hoa-xa-hoi-quy-mo-lon-185260214150934385.htm",
+      "summary": "Phía sau những khoảnh khắc bùng nổ tại WeYoung Awards 2025 và WeChoice Awards 2025 là lực lượng y tế hậu trường, giữ vai trò then chốt nhưng ít khi được nhắc đến. Bệnh viện Đa khoa Quốc tế Nam Sài Gòn lặng lẽ hiện diện như một 'lá chắn' sức khỏe cho người tham dự, bên cạnh những màn trình diễn rực r...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:00:00+07:00",
+      "fetched": "2026-02-15T11:12:37.634615+07:00"
+    },
+    {
+      "id": "0b55e144bd5e177a73dd150379b10193",
+      "title": "Khí chất phụ nữ hiện đại tỏa sáng từ phong cách soft power",
+      "link": "https://thanhnien.vn/thoi-trang-tre/khi-chat-phu-nu-hien-dai-toa-sang-tu-phong-cach-soft-power-18526021221520118.htm",
+      "summary": "Khí chất của một người phụ nữ hiện đại được định nghĩa trọn vẹn qua bộ trang phục mang phong cách soft power. Đó là sự giao thoa hài hòa giữa vẻ đẹp mềm mại và thần thái quyền lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T03:00:00+07:00",
+      "fetched": "2026-02-15T11:12:37.634742+07:00"
+    },
+    {
+      "id": "b12212a51d69fb3dedb9382bdf2669e1",
+      "title": "Dấu ấn VNVC 2025",
+      "link": "https://vnexpress.net/dau-an-vnvc-2025-5040944.html",
+      "summary": "Năm qua, VNVC khởi công nhà máy vaccine hơn 2.500 tỷ đồng, đưa về các loại vaccine mới về Việt Nam mở ra cơ hội tiếp cận vaccine và sinh phẩm tiên tiến cho người dân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-15T03:00:00+07:00",
+      "fetched": "2026-02-15T11:12:41.748329+07:00"
+    },
+    {
+      "id": "1a7fb32e4c6454a59651484cf9dd8eb7",
+      "title": "Sạc nhanh ảnh hưởng tuổi thọ pin ra sao?",
+      "link": "https://thanhnien.vn/sac-nhanh-anh-huong-tuoi-tho-pin-ra-sao-185260215023115219.htm",
+      "summary": "Sạc nhanh đã trở thành một yếu tố cạnh tranh quan trọng trong cuộc đua trên thị trường smartphone hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T02:58:00+07:00",
+      "fetched": "2026-02-15T11:12:37.634879+07:00"
+    },
+    {
+      "id": "17560dac06450360b6336f7b6f57a70c",
+      "title": "La Vang rực rỡ hoa xuân đón dòng người khắp nơi về cầu năm mới bình an",
+      "link": "https://thanhnien.vn/la-vang-ruc-ro-hoa-xuan-don-dong-nguoi-khap-noi-ve-cau-nam-moi-binh-an-185260215091304877.htm",
+      "summary": "Trung tâm hành hương Đức Mẹ La Vang rực vàng sắc hoa với những chậu hoa mai, hoa cúc nở rộ trưng bày ở linh đài chào đón dòng người khắp nơi về cầu bình an cho một năm mới sắp đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T02:44:00+07:00",
+      "fetched": "2026-02-15T11:12:37.635009+07:00"
+    },
+    {
+      "id": "6e66928cf1daee1d89ca44218ba7ff9b",
+      "title": "Ukraine muốn Mỹ bảo đảm an ninh 20 năm",
+      "link": "https://vnexpress.net/ukraine-muon-my-bao-dam-an-ninh-20-nam-5041445.html",
+      "summary": "Tổng thống Zelensky tuyên bố cần bảo đảm an ninh tối thiểu 20 năm, mang tính ràng buộc pháp lý từ Mỹ, trước khi có thể ký thỏa thuận hòa bình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-15T01:44:58+07:00",
+      "fetched": "2026-02-15T11:12:40.224282+07:00"
+    },
+    {
+      "id": "c41bc996f7044f175d14a45dac30863c",
+      "title": "6 nguy cơ khi ông Trump hủy kết luận 'khí nhà kính gây hại cho con người'",
+      "link": "https://vnexpress.net/6-nguy-co-khi-ong-trump-huy-ket-luan-khi-nha-kinh-gay-hai-cho-con-nguoi-5041236.html",
+      "summary": "Việc ông Trump hủy kết luận khí nhà kính gây hại con người có thể khiến ôtô Mỹ rẻ hơn, nhưng khiến nước này đối diện các vụ kiện, tụt hậu trong cuộc đua năng lượng tái tạo.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-15T01:33:53+07:00",
+      "fetched": "2026-02-15T11:12:41.747919+07:00"
     },
     {
       "id": "c27c1da1b447784e204fd828f9df1e67",
@@ -281,6 +781,16 @@ window.newsData_2026_02_15 = {
       "category": "Tổng hợp",
       "published": "2026-02-15T01:00:00+07:00",
       "fetched": "2026-02-15T08:19:05.651828+07:00"
+    },
+    {
+      "id": "ed67e09f9722da212b2f4d122ebb748b",
+      "title": "Mẹo tiết kiệm pin điện thoại ngày Tết",
+      "link": "https://vnexpress.net/meo-tiet-kiem-pin-dien-thoai-ngay-tet-5040781.html",
+      "summary": "Bật chế độ máy bay trong một số tình huống, tùy chỉnh thông báo, tải trước nội dung giúp kéo dài pin trong những ngày nghỉ, du lịch dịp Tết.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-15T01:00:00+07:00",
+      "fetched": "2026-02-15T11:12:45.060744+07:00"
     },
     {
       "id": "2b318780289348f4f9af9fa776117ab8",
