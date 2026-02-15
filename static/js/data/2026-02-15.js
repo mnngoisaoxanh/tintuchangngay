@@ -1,7 +1,127 @@
 window.newsData_2026_02_15 = {
   "date": "2026-02-15",
-  "lastUpdated": "2026-02-15T15:22:27.222870+07:00",
+  "lastUpdated": "2026-02-15T17:17:35.300753+07:00",
   "articles": [
+    {
+      "id": "a4585d06aae793768d64ea63af62e880",
+      "title": "Đường hoa Nguyễn Huệ trước giờ khai mạc",
+      "link": "https://tuoitre.vn/duong-hoa-nguyen-hue-truoc-gio-khai-mac-20260215122308483.htm",
+      "summary": "Tối nay 15-2, Đường hoa Nguyễn Huệ Tết Bính Ngọ sẽ khai mạc. Trước giờ chính thức mở cửa, đường hoa đã đón những khách đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T17:17:28.146490+07:00",
+      "fetched": "2026-02-15T17:17:28.146606+07:00"
+    },
+    {
+      "id": "e729e209e1c62ba4f8917d46b7c19a8f",
+      "title": "Cựu sao Ngoại hạng Anh bị bắt giữ ngay tại sân bay",
+      "link": "https://tuoitre.vn/cuu-sao-ngoai-hang-anh-bi-bat-giu-ngay-tai-san-bay-20260215145852076.htm",
+      "summary": "Cựu cầu thủ Liverpool Jordon Ibe đã bị bắt giữ khi vừa xuống máy bay vì tội hành hung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T17:17:28.146345+07:00",
+      "fetched": "2026-02-15T17:17:28.146477+07:00"
+    },
+    {
+      "id": "da264abcaddb2b8583e541eff670a5f0",
+      "title": "Ông Vương Nghị: Hợp tác là lựa chọn đúng đắn duy nhất cho Trung - Mỹ",
+      "link": "https://tuoitre.vn/ong-vuong-nghi-hop-tac-la-lua-chon-dung-dan-duy-nhat-cho-trung-my-20260215151604149.htm",
+      "summary": "Ngoại trưởng Trung Quốc đánh giá quan hệ Trung - Mỹ tuy trải qua nhiều khúc quanh nhưng vẫn có triển vọng tươi sáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T17:17:28.146207+07:00",
+      "fetched": "2026-02-15T17:17:28.146330+07:00"
+    },
+    {
+      "id": "4c635f2acb01796571e48f37565c6517",
+      "title": "Kế hoạch ăn Tết 2026 của cầu thủ nhập tịch Đỗ Hoàng Hên",
+      "link": "https://tuoitre.vn/ke-hoach-an-tet-2026-cua-cau-thu-nhap-tich-do-hoang-hen-202602151506411.htm",
+      "summary": "Lần đầu ăn Tết với tư cách cầu thủ Việt Nam, Đỗ Hoàng Hên mang trong mình những cảm xúc đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T17:17:28.146084+07:00",
+      "fetched": "2026-02-15T17:17:28.146195+07:00"
+    },
+    {
+      "id": "512b10681aa8cbfb60aa697908a0f6e2",
+      "title": "Các hiệu trưởng trường y thống nhất thay đổi toàn diện cách đào tạo bác sĩ ở Việt Nam",
+      "link": "https://tuoitre.vn/cac-hieu-truong-truong-y-thong-nhat-thay-doi-toan-dien-cach-dao-tao-bac-si-o-viet-nam-20260215153018962.htm",
+      "summary": "Tới đây sau 6 năm tất cả các bác sĩ sẽ phải học thêm ngay 3-4 năm, chứng chỉ hành nghề sau 6 năm sẽ chỉ là tạm thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T17:17:28.145959+07:00",
+      "fetched": "2026-02-15T17:17:28.146072+07:00"
+    },
+    {
+      "id": "7bea8784ae7a980e4e715ce173ed99e6",
+      "title": "Đài Loan nói Trung Quốc là 'mối đe dọa thực sự với an ninh khu vực'",
+      "link": "https://tuoitre.vn/dai-loan-noi-trung-quoc-la-moi-de-doa-thuc-su-voi-an-ninh-khu-vuc-20260215152815609.htm",
+      "summary": "Đài Loan khẳng định chính Trung Quốc mới là \"mối đe dọa thực sự đối với an ninh khu vực\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T17:17:28.145823+07:00",
+      "fetched": "2026-02-15T17:17:28.145943+07:00"
+    },
+    {
+      "id": "6ac6eea11cdb1a127b831e482824c4f9",
+      "title": "Dậy mùi nem chua Tết đất Quảng",
+      "link": "https://tuoitre.vn/day-mui-nem-chua-tet-dat-quang-20260215155135248.htm",
+      "summary": "Bên cạnh bánh tét, thịt heo ngâm mắm, củ kiệu… nem chua là món ăn không thể thiếu, góp phần làm nên hương vị trọn vẹn của Tết xứ Quảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T17:17:28.145698+07:00",
+      "fetched": "2026-02-15T17:17:28.145812+07:00"
+    },
+    {
+      "id": "1ef5a57cd14feae3ae4d861ee24851da",
+      "title": "Ông Tập Cận Bình chúc Tết Bính Ngọ",
+      "link": "https://tuoitre.vn/ong-tap-can-binh-chuc-tet-binh-ngo-20260215160409093.htm",
+      "summary": "Chủ tịch nước Trung Quốc Tập Cận Bình gửi lời chúc mừng đến người dân nhân dịp Tết Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T17:17:28.145571+07:00",
+      "fetched": "2026-02-15T17:17:28.145686+07:00"
+    },
+    {
+      "id": "b73c8bef8d5bdf24ff87eaf2e300a3d7",
+      "title": "Đi cà phê, giới trẻ chi 500.000 đồng/giờ phụ phí để chụp ảnh áo dài",
+      "link": "https://tuoitre.vn/di-ca-phe-gioi-tre-chi-500-000-dong-gio-phu-phi-de-chup-anh-ao-dai-20260215160123575.htm",
+      "summary": "Không phải studio sang chảnh, nhiều quán cà phê tại Hà Nội thu hút đông đảo du khách đến check-in dù phụ thu không hề rẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T17:17:28.145440+07:00",
+      "fetched": "2026-02-15T17:17:28.145560+07:00"
+    },
+    {
+      "id": "8dc01766618b22fdfcfa19abc24e8fc6",
+      "title": "Iran nêu điều kiện với Mỹ để chấp nhận thỏa thuận hạt nhân",
+      "link": "https://tuoitre.vn/iran-neu-dieu-kien-voi-my-de-chap-nhan-thoa-thuan-hat-nhan-20260215160800179.htm",
+      "summary": "Iran nói sẵn sàng xem xét các thỏa hiệp để đạt được thỏa thuận hạt nhân với Mỹ, nếu Washington chấp nhận điều kiện của Tehran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T17:17:28.145285+07:00",
+      "fetched": "2026-02-15T17:17:28.145426+07:00"
+    },
+    {
+      "id": "1a8cc2d66105c84bef9fbd6d9d85d34e",
+      "title": "Trường đại học Kinh tế - Luật tăng chỉ tiêu, xét tuyển tổng hợp",
+      "link": "https://tuoitre.vn/truong-dai-hoc-kinh-te-luat-tang-chi-tieu-xet-tuyen-tong-hop-20260215162358512.htm",
+      "summary": "Năm 2026, Trường đại học Kinh tế - Luật (Đại học Quốc gia TP.HCM) sẽ tuyển sinh đại học chính quy theo phương thức xét tuyển tổng hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T17:17:28.145141+07:00",
+      "fetched": "2026-02-15T17:17:28.145272+07:00"
+    },
+    {
+      "id": "fdaf866db7608d9049d0e7fdec668638",
+      "title": "Thủ tướng yêu cầu xử lý dứt điểm dự án tồn đọng, thúc tăng trưởng quý I",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-xu-ly-dut-diem-du-an-ton-dong-thuc-tang-truong-quy-i-20260215162406423.htm",
+      "summary": "Yêu cầu các bộ, địa phương khẩn trương tháo gỡ vướng mắc, sớm đưa dự án tồn đọng vào khai thác để đạt mục tiêu tăng trưởng đầu năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T17:17:28.144905+07:00",
+      "fetched": "2026-02-15T17:17:28.145126+07:00"
+    },
     {
       "id": "b12fdecaba982d6b3894893ebdf03dfc",
       "title": "Ông Obama phản ứng vụ bị ghép mặt lên thân khỉ",
@@ -453,6 +573,306 @@ window.newsData_2026_02_15 = {
       "fetched": "2026-02-15T11:12:38.746992+07:00"
     },
     {
+      "id": "16065966736dd33d9c443d0b6b93642d",
+      "title": "Tháng đầu năm 2026, người Việt mua ô tô thương hiệu nào nhiều nhất?",
+      "link": "https://thanhnien.vn/thang-dau-nam-2026-nguoi-viet-mua-o-to-thuong-hieu-nao-nhieu-nhat-185260212221316861.htm",
+      "summary": "Sức mua ô tô giảm ngay trong bước \"chạy đà\" doanh số cho năm 2026, khiến thứ hạng trong cuộc đua doanh số giữa các thương hiệu ô tô có nhiều xáo trộn, VinFast vẫn dẫn đầu trong khi Mitsubishi thậm chí còn bán được nhiều xe hơn Toyota.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T10:15:00+07:00",
+      "fetched": "2026-02-15T17:17:26.898195+07:00"
+    },
+    {
+      "id": "a01ab161d4a1d68f5edc3f12e9b8c6a1",
+      "title": "Thăm làng rượu Bàu Đá trước nỗi lo tắt lửa",
+      "link": "https://thanhnien.vn/tham-lang-ruou-bau-da-truoc-noi-lo-tat-lua-185260215154617598.htm",
+      "summary": "Làng nghề rượu Bàu Đá đang đối mặt nguy cơ mai một khi thiếu người kế nghiệp và chịu sức ép ngày càng lớn từ thị trường hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T10:13:00+07:00",
+      "fetched": "2026-02-15T17:17:26.898385+07:00"
+    },
+    {
+      "id": "9362ad873e7f0ea89d135b980220737f",
+      "title": "Xổ số miền Nam ngày 15 tháng 2: Bất ngờ một dãy số trúng hai đài",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-15-thang-2-bat-ngo-mot-day-so-trung-hai-dai-185260215163729451.htm",
+      "summary": "Một dãy số cùng trúng hai đài Kiên Giang và Đà Lạt gây bất ngờ cho khách chơi xổ số miền Nam ngày 15 tháng 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T10:04:00+07:00",
+      "fetched": "2026-02-15T17:17:26.898551+07:00"
+    },
+    {
+      "id": "e942513d0a98b3308f1b2a7380cff806",
+      "title": "Rực rỡ ‘điểm hẹn du xuân’ bên vịnh Hạ Long",
+      "link": "https://thanhnien.vn/ruc-ro-diem-hen-du-xuan-ben-vinh-ha-long-185260215161128889.htm",
+      "summary": "Dịp cận tết Bính Ngọ, đại lộ ngàn hoa bên vịnh Hạ Long trở thành điểm hẹn du xuân mới của Quảng Ninh, kết hợp nghệ thuật sắp đặt hoa và công nghệ ánh sáng hiện đại, thu hút đông đảo du khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T10:02:00+07:00",
+      "fetched": "2026-02-15T17:17:26.898709+07:00"
+    },
+    {
+      "id": "81c363c6bf17b4b1703a1008d6a7e9b0",
+      "title": "Toàn cảnh 17h: Độc đáo phiên chợ mỗi năm chỉ họp 1 lần | Kỳ lạ mứt củ hành tím",
+      "link": "https://thanhnien.vn/toan-canh-17h-doc-dao-phien-cho-moi-nam-chi-hop-1-lan-ky-la-mut-cu-hanh-tim-185260215163447188.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T10:00:00+07:00",
+      "fetched": "2026-02-15T17:17:26.898863+07:00"
+    },
+    {
+      "id": "22e11a0e257f96c2fe1b865c3b45e20b",
+      "title": "Đầu năm, nàng ưu ái diện chân váy xếp ly mọi lúc",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dau-nam-nang-uu-ai-dien-chan-vay-xep-ly-moi-luc-185260205122734124.htm",
+      "summary": "Chân váy xếp ly là thiết kế được quý cô ưu tiên diện vào dịp đầu xuân năm mới. Chân váy gấp nếp vừa dễ phối với mọi kiểu áo, vừa dễ đẹp khi phù hợp với mọi dáng người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T10:00:00+07:00",
+      "fetched": "2026-02-15T17:17:26.899015+07:00"
+    },
+    {
+      "id": "c4be3fa90d472624d6f0b0010ec03fe4",
+      "title": "28 tết, dưa hấu chưng bàn thờ tăng giá gấp đôi, gấp ba",
+      "link": "https://thanhnien.vn/28-tet-dua-hau-chung-ban-tho-tang-gia-gap-doi-gap-ba-185260215160040666.htm",
+      "summary": "Giá dưa hấu dịp Tết Bính Ngọ tăng mạnh trong ngày 28 Tết Bính Ngọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T09:58:00+07:00",
+      "fetched": "2026-02-15T17:17:26.899174+07:00"
+    },
+    {
+      "id": "7793fdd00a1e9ab12139b8a735ccd7cc",
+      "title": "Mạng lưới cấp cứu 115 công bố nhiều số máy nhận tin trong tết",
+      "link": "https://thanhnien.vn/mang-luoi-cap-cuu-115-cong-bo-nhieu-so-may-nhan-tin-trong-tet-185260215160125954.htm",
+      "summary": "Tại Hà Nội, hệ thống cấp cứu 115 và mạng lưới thường trực, vận chuyển cấp cứu của hàng chục kíp trực tại các bệnh viện trên địa bàn thủ đô được cập nhật hàng ngày trên trang thông tin điện tử của Sở Y tế Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T09:57:00+07:00",
+      "fetched": "2026-02-15T17:17:26.899327+07:00"
+    },
+    {
+      "id": "558e91cd14f8c08398f1bd4706f59846",
+      "title": "Tết nay ăn thử mứt làm từ ... củ hành tím",
+      "link": "https://thanhnien.vn/tet-nay-an-thu-mut-lam-tu-cu-hanh-tim-185260215150259956.htm",
+      "summary": "Hành tím là 1 loại đặc sản với màu tím bắt mắt cùng vị ngọt, cay nhẹ thường được dùng như 1 loại gia vị phổ biến trong nấu ăn cũng như các bài thuốc dân gian. Nhưng đối với chị Phạm Thị Mới (ngụ phường Phú Lợi, TP.Cần Thơ), củ hành tím còn có thể làm được thành mứt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T09:54:00+07:00",
+      "fetched": "2026-02-15T17:17:26.899507+07:00"
+    },
+    {
+      "id": "781cae22e45c1c9c726d60a4e11fb9e7",
+      "title": "Cây cảnh, hoa chơi Tết giảm giá một nửa để xả hàng sớm",
+      "link": "https://vnexpress.net/cay-canh-hoa-choi-tet-giam-gia-mot-nua-de-xa-hang-som-5041553.html",
+      "summary": "28 tháng Chạp, nhiều người buôn cây cảnh, hoa bắt đầu giảm giá tới 50% để xả hàng về nghỉ Tết sớm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-15T09:30:58+07:00",
+      "fetched": "2026-02-15T17:17:30.730874+07:00"
+    },
+    {
+      "id": "cdeec598fc32bb6fd7939f2093709136",
+      "title": "Ông Obama: Người ngoài hành tinh 'có thật'",
+      "link": "https://vnexpress.net/ong-obama-nguoi-ngoai-hanh-tinh-co-that-5041570.html",
+      "summary": "Cựu tổng thống Mỹ Barack Obama nói người ngoài hành tinh thật sự tồn tại, dù ông chưa được nhìn thấy tận mắt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-15T09:30:12+07:00",
+      "fetched": "2026-02-15T17:17:29.362861+07:00"
+    },
+    {
+      "id": "9747c8c7f5b6aac215aef3df7ebc2ab1",
+      "title": "Úc rót gần 3 tỉ USD xây xưởng tàu ngầm hạt nhân",
+      "link": "https://thanhnien.vn/uc-rot-gan-3-ti-usd-xay-xuong-tau-ngam-hat-nhan-18526021516213115.htm",
+      "summary": "Chính phủ Úc sẽ chi 3,9 tỉ AUD (khoảng 2,76 tỉ USD) để đẩy nhanh tiến độ xây dựng xưởng đóng tàu ngầm mới nhằm phục vụ chương trình tàu ngầm chạy bằng năng lượng hạt nhân theo hiệp ước quốc phòng ba bên AUKUS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T09:30:00+07:00",
+      "fetched": "2026-02-15T17:17:26.899666+07:00"
+    },
+    {
+      "id": "ae03ebe81993c81eafbbcfccce29c4c4",
+      "title": "Phó trưởng ban Nội chính Trung ương Võ Văn Dũng tặng quà tết tại Cà Mau",
+      "link": "https://thanhnien.vn/pho-truong-ban-noi-chinh-trung-uong-vo-van-dung-tang-qua-tet-tai-ca-mau-185260215153501272.htm",
+      "summary": "Ông Võ Văn Dũng, Phó trưởng ban Nội chính Trung ương, đến vùng sâu, vùng xa, vùng căn cứ kháng chiến để thăm hỏi, chúc tết và trao tặng 2.000 suất quà cho các gia đình chính sách, hộ nghèo ở tỉnh Cà Mau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T09:24:00+07:00",
+      "fetched": "2026-02-15T17:17:26.899820+07:00"
+    },
+    {
+      "id": "349ac95ffc17b8116f7b2034d5d825ce",
+      "title": "Thủ tướng động viên, cảm ơn công nhân vệ sinh môi trường thủ đô",
+      "link": "https://thanhnien.vn/thu-tuong-dong-vien-cam-on-cong-nhan-ve-sinh-moi-truong-thu-do-185260215152805654.htm",
+      "summary": "Sáng 15.2 (28 tháng chạp), Thủ tướng Phạm Minh Chính đã thăm hỏi, động viên, tặng quà công nhân, người lao động đang trực tiếp làm vệ sinh môi trường tại thủ đô Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T09:18:00+07:00",
+      "fetched": "2026-02-15T17:17:26.899971+07:00"
+    },
+    {
+      "id": "94c1a6a705aaeaed08a795402c4c3032",
+      "title": "Bài phát biểu 'ngoài mềm trong cứng' của Ngoại trưởng Mỹ với châu Âu",
+      "link": "https://vnexpress.net/bai-phat-bieu-ngoai-mem-trong-cung-cua-ngoai-truong-my-voi-chau-au-5041534.html",
+      "summary": "Ông Rubio trấn an châu Âu rằng \"Mỹ và châu Âu thuộc về nhau\" nhưng theo các chuyên gia, thông điệp cứng rắn của Washington không thay đổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T09:17:55+07:00",
+      "fetched": "2026-02-15T17:17:23.659508+07:00"
+    },
+    {
+      "id": "94c1a6a705aaeaed08a795402c4c3032",
+      "title": "Bài phát biểu 'ngoài mềm trong cứng' của Ngoại trưởng Mỹ với châu Âu",
+      "link": "https://vnexpress.net/bai-phat-bieu-ngoai-mem-trong-cung-cua-ngoai-truong-my-voi-chau-au-5041534.html",
+      "summary": "Ông Rubio trấn an châu Âu rằng \"Mỹ và châu Âu thuộc về nhau\" nhưng theo các chuyên gia, thông điệp cứng rắn của Washington không thay đổi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-15T09:17:55+07:00",
+      "fetched": "2026-02-15T17:17:29.363044+07:00"
+    },
+    {
+      "id": "92de0a32deafb4a4e732890fa55b4c98",
+      "title": "Vụ livestream người nhà tử vong ở Cà Mau: Bác tin 'bỏ mặc bệnh nhân'",
+      "link": "https://thanhnien.vn/vu-livestream-nguoi-nha-tu-vong-o-ca-mau-bac-tin-bo-mac-benh-nhan-185260215153017851.htm",
+      "summary": "Liên quan vụ livestream người nhà tử vong, Hội đồng chuyên môn của Bệnh viện đa khoa Cà Mau kết luận không có sai sót chuyên môn, đồng thời bác bỏ thông tin 'bỏ mặc bệnh nhân'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T09:12:00+07:00",
+      "fetched": "2026-02-15T17:17:26.900123+07:00"
+    },
+    {
+      "id": "6cd8e8bd312a1a5ee0c35c94606ecc71",
+      "title": "Du khách nước ngoài ngỡ ngàng giữa không gian xuân rực rỡ tại TP.HCM",
+      "link": "https://thanhnien.vn/du-khach-nuoc-ngoai-ngo-ngang-giua-khong-gian-xuan-ruc-ro-tai-tphcm-185260215142240876.htm",
+      "summary": "Những ngày cận tết, tại TP.HCM, nhiều du khách nước ngoài bày tỏ sự thích thú khi lần đầu tham quan Hội hoa xuân tại Công viên Tao Đàn, nơi sắc hoa rực rỡ hòa cùng đại cảnh linh vật ngựa, tạo nên không khí xuân rộn ràng giữa lòng thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T09:10:00+07:00",
+      "fetched": "2026-02-15T17:17:26.900273+07:00"
+    },
+    {
+      "id": "eb6d7314f6aecb6de8c18e261b2f089f",
+      "title": "Thủ tướng Phạm Minh Chính thăm, lì xì công nhân môi trường Hà Nội",
+      "link": "https://vnexpress.net/thu-tuong-pham-minh-chinh-tham-li-xi-cong-nhan-moi-truong-ha-noi-5041565.html",
+      "summary": "Sáng 15/2 (28 Tết), Thủ tướng Phạm Minh Chính kiểm tra, thăm hỏi, động viên và tặng quà công nhân vệ sinh môi trường đang làm việc trên nhiều tuyến phố Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T09:08:57+07:00",
+      "fetched": "2026-02-15T17:17:23.659689+07:00"
+    },
+    {
+      "id": "da9dd36a1097ddd121614c6fe772c3aa",
+      "title": "Món ăn được xem là 'thuốc bổ' nhưng lại là khắc tinh của thận",
+      "link": "https://vnexpress.net/mon-an-duoc-xem-la-thuoc-bo-nhung-lai-la-khac-tinh-cua-than-5040889.html",
+      "summary": "Bác sĩ cảnh báo thói quen ăn thận động vật không giúp bồi bổ cơ thể theo quan niệm \"ăn gì bổ nấy\", ngược lại còn gây hại cho hệ bài tiết do chứa nhiều purine, muối và đạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T09:00:00+07:00",
+      "fetched": "2026-02-15T17:17:23.659856+07:00"
+    },
+    {
+      "id": "1b9e6255e4a41550a28458227d1d1b9c",
+      "title": "Xổ số miền Nam ngày 15 tháng 2 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-15-thang-2-ket-qua-xo-so-hom-nay-chu-nhat-185260215155643874.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 15 tháng 2; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 15.2.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T09:00:00+07:00",
+      "fetched": "2026-02-15T17:17:26.900446+07:00"
+    },
+    {
+      "id": "4c971f9003502088d6dbf35536a40119",
+      "title": "Trạm Vũ trụ Quốc tế đông người trở lại",
+      "link": "https://vnexpress.net/tram-vu-tru-quoc-te-dong-nguoi-tro-lai-5041517.html",
+      "summary": "Phi hành đoàn Crew-12 cập bến Trạm Vũ trụ Quốc tế (ISS) đang thiếu nhân sự lúc 3h15 hôm nay (giờ Hà Nội), kết thúc chuyến bay dài 34 tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:59:08+07:00",
+      "fetched": "2026-02-15T17:17:23.660021+07:00"
+    },
+    {
+      "id": "4c971f9003502088d6dbf35536a40119",
+      "title": "Trạm Vũ trụ Quốc tế đông người trở lại",
+      "link": "https://vnexpress.net/tram-vu-tru-quoc-te-dong-nguoi-tro-lai-5041517.html",
+      "summary": "Phi hành đoàn Crew-12 cập bến Trạm Vũ trụ Quốc tế (ISS) đang thiếu nhân sự lúc 3h15 hôm nay (giờ Hà Nội), kết thúc chuyến bay dài 34 tiếng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-15T08:59:08+07:00",
+      "fetched": "2026-02-15T17:17:33.704858+07:00"
+    },
+    {
+      "id": "57689dab1aea87b78ae6bd9f88ccefd7",
+      "title": "Nghệ thuật 'bán sơn, bán thủy' trong cỗ Tết Hà Nội",
+      "link": "https://vnexpress.net/nghe-thuat-ban-son-ban-thuy-trong-co-tet-ha-noi-5041564.html",
+      "summary": "Người Hà Nội xưa chú trọng cách bày biện, thứ tự sắp xếp có quy tắc để cân bằng, dẫn dắt vị giác, ăn lâu mà không ngấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:49:11+07:00",
+      "fetched": "2026-02-15T17:17:23.660183+07:00"
+    },
+    {
+      "id": "30976dafa2f47359f60e6e545f5a99e0",
+      "title": "Xu hướng 'ông bà trực thăng' của người Mỹ",
+      "link": "https://vnexpress.net/xu-huong-ong-ba-truc-thang-cua-nguoi-my-5041288.html",
+      "summary": "Thay vì an hưởng tuổi già, nhiều người cao tuổi tại Mỹ chọn cách can thiệp sâu vào từng bữa ăn, giấc ngủ của cháu, tạo nên khái niệm \"ông bà trực thăng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:39:36+07:00",
+      "fetched": "2026-02-15T17:17:23.660347+07:00"
+    },
+    {
+      "id": "c5712f4320a695feeca81265fc2dea2e",
+      "title": "Quân đội bắc cầu phao qua sông Lô chiều 28 Tết",
+      "link": "https://vnexpress.net/quan-doi-bac-cau-phao-qua-song-lo-chieu-28-tet-5041531.html",
+      "summary": "Lữ đoàn 249 Binh chủng Công binh lắp đặt cầu phao qua sông Lô, đảm bảo cho người dân và phương tiện qua sông dịp Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:29:35+07:00",
+      "fetched": "2026-02-15T17:17:23.660532+07:00"
+    },
+    {
+      "id": "c8e0ff17077a6791b3369e90853ced00",
+      "title": "Arteta quyết phá dớp vòng 4 FA Cup",
+      "link": "https://vnexpress.net/arteta-quyet-pha-dop-vong-4-fa-cup-5041425.html",
+      "summary": "HLV Mikel Arteta cho biết Arsenal đã sạc đầy năng lượng trước trận đấu Wigan ở vòng bốn Cup FA, với mục tiêu chấm dứt chuỗi nhiều mùa dừng bước sớm tại giải đấu lâu đời nhất nước Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:23:47+07:00",
+      "fetched": "2026-02-15T17:17:23.660691+07:00"
+    },
+    {
+      "id": "c8e0ff17077a6791b3369e90853ced00",
+      "title": "Arteta quyết phá dớp vòng 4 FA Cup",
+      "link": "https://vnexpress.net/arteta-quyet-pha-dop-vong-4-fa-cup-5041425.html",
+      "summary": "HLV Mikel Arteta cho biết Arsenal đã sạc đầy năng lượng trước trận đấu Wigan ở vòng bốn Cup FA, với mục tiêu chấm dứt chuỗi nhiều mùa dừng bước sớm tại giải đấu lâu đời nhất nước Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-15T08:23:47+07:00",
+      "fetched": "2026-02-15T17:17:35.292583+07:00"
+    },
+    {
+      "id": "dedfde67eccfb672bd3b9b9ee47091dd",
+      "title": "Kane tự hào cán mốc 500 bàn thắng",
+      "link": "https://vnexpress.net/kane-tu-hao-can-moc-500-ban-thang-5041497.html",
+      "summary": "Cú đúp trong trận Bayern Munich thắng Werder Bremen 3-0 ở vòng 22 Bundesliga giúp tiền đạo Harry Kane chạm mốc 500 bàn trong sự nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:21:32+07:00",
+      "fetched": "2026-02-15T17:17:23.660852+07:00"
+    },
+    {
+      "id": "dedfde67eccfb672bd3b9b9ee47091dd",
+      "title": "Kane tự hào cán mốc 500 bàn thắng",
+      "link": "https://vnexpress.net/kane-tu-hao-can-moc-500-ban-thang-5041497.html",
+      "summary": "Cú đúp trong trận Bayern Munich thắng Werder Bremen 3-0 ở vòng 22 Bundesliga giúp tiền đạo Harry Kane chạm mốc 500 bàn trong sự nghiệp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-15T08:21:32+07:00",
+      "fetched": "2026-02-15T17:17:35.292739+07:00"
+    },
+    {
       "id": "7c96f963e02b510442a2a1dd2fa06c1c",
       "title": "Thời tiết hôm nay 28 Tết: Bắc Bộ nắng yếu, Nam Bộ mưa trái mùa vài nơi",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-28-tet-bac-bo-nang-yeu-nam-bo-mua-trai-mua-vai-noi-20260214171831113.htm",
@@ -493,6 +913,16 @@ window.newsData_2026_02_15 = {
       "fetched": "2026-02-15T08:19:06.796654+07:00"
     },
     {
+      "id": "fa3e581830efa85318a75bdcfd24f202",
+      "title": "Bố Soobin Hoàng Sơn: 'Tôi luôn dõi theo con'",
+      "link": "https://vnexpress.net/bo-soobin-hoang-son-toi-luon-doi-theo-con-5040005.html",
+      "summary": "NSND Huỳnh Tú nói hạnh phúc khi ca sĩ Soobin ngày càng tỏa sáng nhưng cũng có đêm khó ngủ vì lo áp lực có thể bủa vây con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:18:45+07:00",
+      "fetched": "2026-02-15T17:17:23.661014+07:00"
+    },
+    {
       "id": "a116683aeffc7ed811001c3c116fc25f",
       "title": "Mẹo nhỏ 'ép' điện thoại Samsung phát nhạc lớn như loa thùng",
       "link": "https://thanhnien.vn/meo-nho-ep-dien-thoai-samsung-phat-nhac-lon-nhu-loa-thung-185260215120238624.htm",
@@ -501,6 +931,26 @@ window.newsData_2026_02_15 = {
       "category": "Tổng hợp",
       "published": "2026-02-15T08:17:00+07:00",
       "fetched": "2026-02-15T15:22:18.660244+07:00"
+    },
+    {
+      "id": "8a5e131e6dd3499810de4e99c72ad6b5",
+      "title": "VĐV Mỹ nhận hàng triệu USD khi thi đấu cho Trung Quốc",
+      "link": "https://vnexpress.net/vdv-my-nhan-hang-trieu-usd-khi-thi-dau-cho-trung-quoc-5041527.html",
+      "summary": "Ngôi sao trượt tuyết tự do Eileen Gu và trượt băng nghệ thuật Beverly Zhu nhận 6,6 triệu USD từ ngân sách Bắc Kinh trước thềm Olympic mùa Đông 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:16:30+07:00",
+      "fetched": "2026-02-15T17:17:23.661170+07:00"
+    },
+    {
+      "id": "8a5e131e6dd3499810de4e99c72ad6b5",
+      "title": "VĐV Mỹ nhận hàng triệu USD khi thi đấu cho Trung Quốc",
+      "link": "https://vnexpress.net/vdv-my-nhan-hang-trieu-usd-khi-thi-dau-cho-trung-quoc-5041527.html",
+      "summary": "Ngôi sao trượt tuyết tự do Eileen Gu và trượt băng nghệ thuật Beverly Zhu nhận 6,6 triệu USD từ ngân sách Bắc Kinh trước thềm Olympic mùa Đông 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-15T08:16:30+07:00",
+      "fetched": "2026-02-15T17:17:35.291745+07:00"
     },
     {
       "id": "02d9780336b42f10e6cfdddff96955c4",
@@ -513,6 +963,46 @@ window.newsData_2026_02_15 = {
       "fetched": "2026-02-15T15:22:18.660410+07:00"
     },
     {
+      "id": "c4bacccdda0d36db1cd28ccbb16b9e58",
+      "title": "Anh hùng Hồ Đức Vai qua đời",
+      "link": "https://vnexpress.net/anh-hung-ho-duc-vai-qua-doi-5041555.html",
+      "summary": "Anh hùng Hồ Đức Vai, người từng tham gia 24 trận đánh ở chiến trường A Lưới và được Bác Hồ đặt tên, qua đời ngày 14/2, hưởng thọ 86 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:08:51+07:00",
+      "fetched": "2026-02-15T17:17:23.661330+07:00"
+    },
+    {
+      "id": "09841a83dad04605cfa27a50d0377e9b",
+      "title": "Cherry Australia tăng giá mạnh cận Tết",
+      "link": "https://vnexpress.net/cherry-australia-tang-gia-manh-can-tet-5041203.html",
+      "summary": "Cherry Australia cỡ lớn tăng vọt sát Tết, giá lên 2 triệu đồng một kg, cao hơn 30% so với tháng trước do nguồn cung cuối vụ khan hiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:05:00+07:00",
+      "fetched": "2026-02-15T17:17:23.661507+07:00"
+    },
+    {
+      "id": "09841a83dad04605cfa27a50d0377e9b",
+      "title": "Cherry Australia tăng giá mạnh cận Tết",
+      "link": "https://vnexpress.net/cherry-australia-tang-gia-manh-can-tet-5041203.html",
+      "summary": "Cherry Australia cỡ lớn tăng vọt sát Tết, giá lên 2 triệu đồng một kg, cao hơn 30% so với tháng trước do nguồn cung cuối vụ khan hiếm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-15T08:05:00+07:00",
+      "fetched": "2026-02-15T17:17:30.731047+07:00"
+    },
+    {
+      "id": "056403ab4cbb71018ff8d939a6201b5a",
+      "title": "Tranh cãi cách hiểu đúng về Tết Âm lịch",
+      "link": "https://vnexpress.net/tranh-cai-cach-hieu-dung-ve-tet-am-lich-5041546.html",
+      "summary": "Cộng đồng quốc tế thường nhầm lẫn \"Tết Trung Quốc\" với \"Tết Âm lịch\", xuất phát từ thói quen truyền thông và sự thiếu hụt thông tin về đa dạng văn hóa Á Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:00:46+07:00",
+      "fetched": "2026-02-15T17:17:23.661667+07:00"
+    },
+    {
       "id": "fefb2be8b09a6115e4574f33a1c44b9e",
       "title": "Dòng người đổ về Hội hoa xuân Tao Đàn chụp ảnh tết, xem ngựa thật",
       "link": "https://thanhnien.vn/dong-nguoi-do-ve-hoi-hoa-xuan-tao-dan-chup-anh-tet-xem-ngua-that-185260215134158097.htm",
@@ -521,6 +1011,16 @@ window.newsData_2026_02_15 = {
       "category": "Tổng hợp",
       "published": "2026-02-15T08:00:00+07:00",
       "fetched": "2026-02-15T15:22:18.660565+07:00"
+    },
+    {
+      "id": "c2956f78b5599ec34789500f5a7738c7",
+      "title": "Người tình tới nhà tôi chửi mắng, cho bạn gái tôi xem tin nhắn nhạy cảm",
+      "link": "https://vnexpress.net/nguoi-tinh-toi-nha-toi-chui-mang-cho-ban-gai-toi-xem-tin-nhan-nhay-cam-5041420.html",
+      "summary": "Trước đó tôi đã thú nhận có bạn gái, bạn đó đồng ý mối quan hệ như thế cho lãng mạn và không bị chán, vậy mà không giữ lời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T08:00:00+07:00",
+      "fetched": "2026-02-15T17:17:23.661825+07:00"
     },
     {
       "id": "08bac46cc226f328a528f7c994cf4c22",
