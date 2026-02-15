@@ -1,6 +1,6 @@
 window.newsData_2026_02_16 = {
   "date": "2026-02-16",
-  "lastUpdated": "2026-02-16T03:15:38.150373+07:00",
+  "lastUpdated": "2026-02-16T05:14:17.684319+07:00",
   "articles": [
     {
       "id": "9c784be1752316a09955d40fb484d5dc",
@@ -151,6 +151,176 @@ window.newsData_2026_02_16 = {
       "category": "Tổng hợp",
       "published": "2026-02-16T01:22:14.695453+07:00",
       "fetched": "2026-02-16T01:22:14.695660+07:00"
+    },
+    {
+      "id": "bd98ed3d45c349045c9f7d1d5fd7700a",
+      "title": "Chợ hoa lớn nhất Hà Nội nhộn nhịp đêm cuối năm",
+      "link": "https://vnexpress.net/cho-hoa-lon-nhat-ha-noi-nhon-nhip-dem-cuoi-nam-5041688.html",
+      "summary": "Đêm 28, rạng sáng 29 Tết, chợ hoa lớn nhất Hà Nội - Quảng An chật kín khách hàng từ ngoài vào trong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T22:00:00+07:00",
+      "fetched": "2026-02-16T05:14:05.336688+07:00"
+    },
+    {
+      "id": "3833566397bad6f1e6e5428ad544c095",
+      "title": "Bà Bùi Thị Minh Hoài: Tinh gọn hệ thống Mặt trận để thống nhất hành động",
+      "link": "https://vnexpress.net/ba-bui-thi-minh-hoai-tinh-gon-he-thong-mat-tran-de-thong-nhat-hanh-dong-5041613.html",
+      "summary": "Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam Bùi Thị Minh Hoài cho rằng việc sắp xếp các tổ chức chính trị - xã hội về chung một đầu mối nhằm giảm trùng lặp chức năng, tạo thống nhất trong hành động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T22:00:00+07:00",
+      "fetched": "2026-02-16T05:14:05.336865+07:00"
+    },
+    {
+      "id": "fedfde2f2507ede31084354ca486a3a3",
+      "title": "Giới công nghệ nói gì về 'tận thế ngành phần mềm'?",
+      "link": "https://vnexpress.net/gioi-cong-nghe-noi-gi-ve-tan-the-nganh-phan-mem-5039915.html",
+      "summary": "Trong bối cảnh công cụ AI lập trình bùng nổ, giới lãnh đạo công nghệ cho rằng ngành phần mềm không biến mất nhưng cần thay đổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T22:00:00+07:00",
+      "fetched": "2026-02-16T05:14:05.337028+07:00"
+    },
+    {
+      "id": "41aa9af1c3d6b061ce0a813989c94b43",
+      "title": "Ngày giờ tốt xuất hành, mở hàng năm Bính Ngọ 2026",
+      "link": "https://vnexpress.net/ngay-gio-tot-xuat-hanh-mo-hang-nam-binh-ngo-2026-5009027.html",
+      "summary": "Theo quan niệm dân gian, xuất hành năm mới đúng thời điểm và đúng hướng sẽ giúp gia chủ tránh điềm xấu, đón nhận may mắn, bình an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T22:00:00+07:00",
+      "fetched": "2026-02-16T05:14:05.337185+07:00"
+    },
+    {
+      "id": "986e962e027c535dc6dc0e1ad50c9ee1",
+      "title": "Thị trường sedan cỡ C đầu 2026: Mazda3 bỏ xa nhóm còn lại",
+      "link": "https://vnexpress.net/thi-truong-sedan-co-c-dau-2026-mazda3-bo-xa-nhom-con-lai-5041505.html",
+      "summary": "Doanh số phân khúc giảm vào dịp cao điểm trước Tết, Mazda3 tiếp tục dẫn đầu, trong khi các mẫu sedan cỡ C còn lại bán chậm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T22:00:00+07:00",
+      "fetched": "2026-02-16T05:14:05.337341+07:00"
+    },
+    {
+      "id": "5d119d65dbe8881e722eab2a0b6fe559",
+      "title": "Tử vi ngày 16 tháng 2 (29 tết): Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-16-thang-2-29-tet-con-giap-nao-may-man-hom-nay-185260216000356594.htm",
+      "summary": "Tử vi ngày 16 tháng 2, tức 29 tháng chạp năm Ất Tỵ mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T22:00:00+07:00",
+      "fetched": "2026-02-16T05:14:08.587598+07:00"
+    },
+    {
+      "id": "329edc4368b2654e608624f0ac5d0428",
+      "title": "Người đàn ông An Giang hơn 50 năm bền bỉ giữ tục dựng nêu ngày tết",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-an-giang-hon-50-nam-ben-bi-giu-tuc-dung-neu-ngay-tet-185260215164715511.htm",
+      "summary": "Một người đàn ông ở An Giang đã giữ phong tục dựng nêu ăn tết hơn nửa thế kỷ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T22:00:00+07:00",
+      "fetched": "2026-02-16T05:14:08.587765+07:00"
+    },
+    {
+      "id": "da24369ec3b7a5903f0e6c2f2acc101d",
+      "title": "Cơ thể cần bao lâu để đào thải hết cồn do uống rượu bia?",
+      "link": "https://thanhnien.vn/co-the-can-bao-lau-de-dao-thai-het-con-do-uong-ruou-bia-185260215143536915.htm",
+      "summary": "Sau khi uống rượu bia, nhiều người tin rằng chỉ cần uống cà phê, tắm nước lạnh hoặc ngủ một giấc là cơ thể sẽ nhanh chóng “giải rượu”. Nhưng thực tế, cồn được đào thải theo cơ chế hoàn toàn khác và không có cách nào làm quá trình này diễn ra nhanh hơn. Vậy sau khi uống rượu bia, cơ thể cần bao lâu đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T22:00:00+07:00",
+      "fetched": "2026-02-16T05:14:08.587930+07:00"
+    },
+    {
+      "id": "edfcf033eabc5f23e3c53907ddab6783",
+      "title": "4 món ‘đặc sản quê’ người huyết áp cao nên ăn ít lại",
+      "link": "https://thanhnien.vn/4-mon-dac-san-que-nguoi-huyet-ap-cao-nen-an-it-lai-185260215235647157.htm",
+      "summary": "Với người huyết áp cao, ăn nhiều món mặn trong những ngày tết có thể khiến huyết áp tăng khó kiểm soát. Điều này không có nghĩa phải kiêng hoàn toàn các món mặn, mà quan trọng là ăn một cách hợp lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T21:42:00+07:00",
+      "fetched": "2026-02-16T05:14:08.588089+07:00"
+    },
+    {
+      "id": "04637232f237efa7f46d203faf9795ec",
+      "title": "ECB tung cơ chế củng cố vai trò quốc tế của euro",
+      "link": "https://vnexpress.net/ecb-tung-co-che-cung-co-vai-tro-quoc-te-cua-euro-5041683.html",
+      "summary": "ECB công bố kế hoạch mở rộng quyền tiếp cận cơ chế hỗ trợ thanh khoản cho các ngân hàng trung ương toàn cầu, nhằm củng cố vai trò euro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T21:38:31+07:00",
+      "fetched": "2026-02-16T05:14:05.337526+07:00"
+    },
+    {
+      "id": "04637232f237efa7f46d203faf9795ec",
+      "title": "ECB tung cơ chế củng cố vai trò quốc tế của euro",
+      "link": "https://vnexpress.net/ecb-tung-co-che-cung-co-vai-tro-quoc-te-cua-euro-5041683.html",
+      "summary": "ECB công bố kế hoạch mở rộng quyền tiếp cận cơ chế hỗ trợ thanh khoản cho các ngân hàng trung ương toàn cầu, nhằm củng cố vai trò euro.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-15T21:38:31+07:00",
+      "fetched": "2026-02-16T05:14:13.437308+07:00"
+    },
+    {
+      "id": "b169b4fbe2758c6cdba159c7ccf4c5ac",
+      "title": "Hạt dưa, hạt bí và hạt điều: Loại nào tốt cho sức khỏe hơn?",
+      "link": "https://thanhnien.vn/hat-dua-hat-bi-va-hat-dieu-loai-nao-tot-cho-suc-khoe-hon-185260216002624872.htm",
+      "summary": "Hạt dưa, hạt bí và hạt điều đều là những món quen thuộc ngày tết. Chúng giàu dinh dưỡng và có lợi hơn các món ăn vặt nhiều đường như mứt, bánh ngọt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T21:35:00+07:00",
+      "fetched": "2026-02-16T05:14:08.588242+07:00"
+    },
+    {
+      "id": "e9f52eb0a7acb596ba89d3a464ddeb69",
+      "title": "Giá vàng tuần này có thể đi ngang",
+      "link": "https://vnexpress.net/gia-vang-tuan-nay-co-the-di-ngang-5041676.html",
+      "summary": "Sau đợt bán tháo hôm 12/2, Phố Wall cho rằng giá vàng đi ngang tuần này trong khi nhà đầu tư cá nhân duy trì lạc quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T21:32:42+07:00",
+      "fetched": "2026-02-16T05:14:05.337684+07:00"
+    },
+    {
+      "id": "e9f52eb0a7acb596ba89d3a464ddeb69",
+      "title": "Giá vàng tuần này có thể đi ngang",
+      "link": "https://vnexpress.net/gia-vang-tuan-nay-co-the-di-ngang-5041676.html",
+      "summary": "Sau đợt bán tháo hôm 12/2, Phố Wall cho rằng giá vàng đi ngang tuần này trong khi nhà đầu tư cá nhân duy trì lạc quan.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-15T21:32:42+07:00",
+      "fetched": "2026-02-16T05:14:13.437498+07:00"
+    },
+    {
+      "id": "b29417228e00de97865eefeb85d46c32",
+      "title": "Xuất khẩu dầu Nga sau 4 năm phương Tây siết vòng vây",
+      "link": "https://vnexpress.net/xuat-khau-dau-nga-sau-4-nam-phuong-tay-siet-vong-vay-5039679.html",
+      "summary": "Thu từ xuất khẩu dầu Nga đang thu hẹp về mức thấp nhất 5 năm do phương Tây liên tiếp bổ sung trừng phạt, Ấn Độ dè dặt thu mua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T21:00:00+07:00",
+      "fetched": "2026-02-16T05:14:05.337845+07:00"
+    },
+    {
+      "id": "a71b55fb95d6cb0eac5778af054b0187",
+      "title": "Làng Nủ - công trình tái thiết giữ bản sắc kiến trúc Tày",
+      "link": "https://vnexpress.net/lang-nu-cong-trinh-tai-thiet-giu-ban-sac-kien-truc-tay-5009775.html",
+      "summary": "Đồ án thiết kế Làng Nủ giành Giải Vàng Kiến trúc quốc gia 2024-2025, ghi nhận mô hình tái thiết thần tốc sau lũ quét, vừa ổn định đời sống 37 hộ dân, vừa gìn giữ bản sắc kiến trúc Tày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T21:00:00+07:00",
+      "fetched": "2026-02-16T05:14:05.338004+07:00"
+    },
+    {
+      "id": "b29417228e00de97865eefeb85d46c32",
+      "title": "Xuất khẩu dầu Nga sau 4 năm phương Tây siết vòng vây",
+      "link": "https://vnexpress.net/xuat-khau-dau-nga-sau-4-nam-phuong-tay-siet-vong-vay-5039679.html",
+      "summary": "Thu từ xuất khẩu dầu Nga đang thu hẹp về mức thấp nhất 5 năm do phương Tây liên tiếp bổ sung trừng phạt, Ấn Độ dè dặt thu mua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-15T21:00:00+07:00",
+      "fetched": "2026-02-16T05:14:13.437665+07:00"
     },
     {
       "id": "d568f7391e32d9bf3c45aa14024e19a1",
