@@ -1,7 +1,157 @@
 window.newsData_2026_02_16 = {
   "date": "2026-02-16",
-  "lastUpdated": "2026-02-16T13:53:14.541307+07:00",
+  "lastUpdated": "2026-02-16T15:36:14.335482+07:00",
   "articles": [
+    {
+      "id": "19493a8c03dd9618ca49946de7dce37a",
+      "title": "Nhóm người cầm súng xông vào quán cắt tóc đòi tiền chiều 27 Tết: Khởi tố 3 người tội cướp tài sản",
+      "link": "https://tuoitre.vn/nhom-nguoi-cam-sung-xong-vao-quan-cat-toc-doi-tien-chieu-27-tet-khoi-to-3-nghi-can-20260216131346277.htm",
+      "summary": "Kết quả điều tra ban đầu xác định nhóm nghi can hành hung anh D.V.T. nhằm mục đích đòi tiền 10 triệu đồng mà trước đó anh T. đã vay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.605784+07:00",
+      "fetched": "2026-02-16T15:36:06.605898+07:00"
+    },
+    {
+      "id": "ff05d0c1974259ed60ae953ee6c9f91e",
+      "title": "TP.HCM công bố 208 người ứng cử để bầu 125 đại biểu HĐND thành phố",
+      "link": "https://tuoitre.vn/tp-hcm-cong-bo-208-nguoi-ung-cu-de-bau-125-dai-bieu-hdnd-thanh-pho-20260216131338182.htm",
+      "summary": "Ủy ban bầu cử TP.HCM công bố danh sách 208 người ứng cử tại 42 đơn vị bầu cử của thành phố, để bầu 125 đại biểu HĐND TP.HCM nhiệm kỳ 2026 - 2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.605653+07:00",
+      "fetched": "2026-02-16T15:36:06.605772+07:00"
+    },
+    {
+      "id": "36e118653c34e17a47029f0743bfae3a",
+      "title": "Phá xới đá gà mùa Tết tiền tỉ ở Gò Dầu, Tây Ninh",
+      "link": "https://tuoitre.vn/bat-xoi-da-ga-mua-tet-tien-ti-o-go-dau-tay-ninh-xem-xet-khoi-to-35-nguoi-20260216140053259.htm",
+      "summary": "Qua sàng lọc nhóm người đá gà ở khu phố Phước Hậu, phường Gò Dầu, Tây Ninh, cảnh sát hình sự đã xác định 2 người có dấu hiệu tội tổ chức đánh bạc và 33 người có dấu hiệu tội đánh bạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.605506+07:00",
+      "fetched": "2026-02-16T15:36:06.605636+07:00"
+    },
+    {
+      "id": "2e41c59c1f82e076361fd02cd3805ae4",
+      "title": "Kẻ bắt cóc, hiếp dâm ra đầu thú sau 8 năm trốn truy nã ở nước ngoài",
+      "link": "https://tuoitre.vn/ke-bat-coc-hiep-dam-ra-dau-thu-sau-8-nam-tron-truy-na-o-nuoc-ngoai-20260216131141346.htm",
+      "summary": "Một thanh niên tại xã Tuyên Lâm, tỉnh Quảng Trị phạm tội bắt cóc chiếm đoạt tài sản và hiếp dâm từ năm 2017 rồi trốn ra nước ngoài. Sau 8 năm, Công an xã đã vận động người này về đầu thú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.605361+07:00",
+      "fetched": "2026-02-16T15:36:06.605478+07:00"
+    },
+    {
+      "id": "2ba79e876e638cb62145d20e9a82b345",
+      "title": "Trưa 29 Tết, hình sự Tây Ninh đã bắt được kẻ táo tợn xông vào phòng trọ kề dao cướp của",
+      "link": "https://tuoitre.vn/trua-29-tet-hinh-su-tay-ninh-da-bat-duoc-ke-tao-ton-xong-vao-phong-tro-ke-dao-cuop-cua-20260216131534986.htm",
+      "summary": "Ngày 28 Tết, khi đang ở trong phòng trọ, một phụ nữ bị kẻ lạ mặt đội nón bảo hiểm xông vào. Đối tượng dùng dao kề vào cổ, hăm dọa để cướp tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.605216+07:00",
+      "fetched": "2026-02-16T15:36:06.605349+07:00"
+    },
+    {
+      "id": "08a34a09dda8f5a542fa6801b1a6752a",
+      "title": "Trường đại học Ngoại ngữ giảm 18 tổ hợp xét tuyển, giảm xét học bạ",
+      "link": "https://tuoitre.vn/truong-dai-hoc-ngoai-ngu-giam-18-to-hop-xet-tuyen-giam-xet-hoc-ba-20260216133511795.htm",
+      "summary": "Năm 2026, Trường đại học Ngoại ngữ (Đại học Quốc gia Hà Nội) dự kiến xét tuyển 24 tổ hợp, trong khi năm ngoái tổng số tổ hợp sử dụng lên tới 42.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.605090+07:00",
+      "fetched": "2026-02-16T15:36:06.605204+07:00"
+    },
+    {
+      "id": "58fdf5d398427d9d649e28f9b3cd4438",
+      "title": "Những doanh nhân tuổi Ngọ nổi bật trên sàn chứng khoán Việt Nam",
+      "link": "https://tuoitre.vn/nhung-doanh-nhan-tuoi-ngo-noi-bat-tren-san-chung-khoan-viet-nam-20260216135749476.htm",
+      "summary": "Thị trường chứng khoán Việt Nam có những doanh nhân tuổi Ngọ nổi tiếng, có thể kể đến bà Phạm Minh Hương (VNDirect), ông Doãn Tới (Navico), ông Trần Hùng Huy (ACB).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.604963+07:00",
+      "fetched": "2026-02-16T15:36:06.605078+07:00"
+    },
+    {
+      "id": "cf066ee11020fc9d048ecbc27c1ff273",
+      "title": "Nhân viên Trung Quốc đoạt giải iPhone mới nhất tại tiệc tất niên hóa ra chỉ là... gạch và kẹo",
+      "link": "https://tuoitre.vn/nhan-vien-trung-quoc-doat-giai-iphone-moi-nhat-tai-tiec-tat-nien-hoa-ra-chi-la-gach-va-keo-20260216135425886.htm",
+      "summary": "Một nhân viên bệnh viện Trung Quốc bàng hoàng khi phát hiện giải thưởng iPhone 17 Pro Max tại buổi tiệc tất niên của mình chỉ là trò chơi khăm của cấp trên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.604834+07:00",
+      "fetched": "2026-02-16T15:36:06.604951+07:00"
+    },
+    {
+      "id": "314fbf0b083fdb27412c051bcadc0d5a",
+      "title": "Triều Tiên khánh thành khu nhà ở cho thân nhân binh sĩ tử trận ở nước ngoài",
+      "link": "https://tuoitre.vn/trieu-tien-khanh-thanh-khu-nha-o-cho-than-nhan-binh-si-tu-tran-o-nuoc-ngoai-20260216132515411.htm",
+      "summary": "Ông Kim Jong Un khánh thành khu nhà ở dành riêng cho gia quyến của các binh sĩ đã tử trận trong những hoạt động quân sự ở nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.604706+07:00",
+      "fetched": "2026-02-16T15:36:06.604822+07:00"
+    },
+    {
+      "id": "9d1711dbc855786fbf0da6fd00d1d34f",
+      "title": "Mỹ lần đầu vận chuyển lò phản ứng hạt nhân siêu nhỏ bằng đường hàng không",
+      "link": "https://tuoitre.vn/my-lan-dau-van-chuyen-lo-phan-ung-hat-nhan-sieu-nho-bang-duong-hang-khong-20260216131020819.htm",
+      "summary": "Quân đội Mỹ lần đầu tiên vận chuyển một lò phản ứng hạt nhân cỡ nhỏ bằng đường không, đưa từ bang California tới bang Utah.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.604573+07:00",
+      "fetched": "2026-02-16T15:36:06.604693+07:00"
+    },
+    {
+      "id": "055569909747ab0379aad5113136fe21",
+      "title": "Ngày 29 tháng chạp, người dân du xuân dưới tiết trời nắng gắt ở TP.HCM",
+      "link": "https://tuoitre.vn/ngay-29-thang-chap-nguoi-dan-du-xuan-duoi-tiet-troi-nang-gat-o-tp-hcm-20260216114908515.htm",
+      "summary": "Dù thời tiết có phần nắng gắt hơn những ngày trước, nhưng ngày 16-2 (29 tháng chạp), người dân TPHCM vẫn hào hứng du xuân, thưởng ngoạn và chụp ảnh tại các đường hoa, công viên hoa khắp thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.604414+07:00",
+      "fetched": "2026-02-16T15:36:06.604559+07:00"
+    },
+    {
+      "id": "e36a6c305040dd50d076e09a80107f9e",
+      "title": "Trung Quốc miễn visa cho các nước trong nhóm Five Eyes, trừ Mỹ",
+      "link": "https://tuoitre.vn/trung-quoc-mien-visa-cho-cac-nuoc-trong-nhom-five-eyes-tru-my-20260216140511693.htm",
+      "summary": "Trung Quốc sẽ cho phép công dân Anh và Canada nhập cảnh không cần thị thực (visa) từ ngày 17-2, khiến Mỹ trở thành quốc gia duy nhất trong liên minh Five Eyes chưa được hưởng chính sách này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.604280+07:00",
+      "fetched": "2026-02-16T15:36:06.604402+07:00"
+    },
+    {
+      "id": "258561c225b1d6fcafde47971a2712d9",
+      "title": "Chủ tịch UBND TP.HCM thăm công nhân môi trường, chúc Tết Becamex",
+      "link": "https://tuoitre.vn/chu-tich-ubnd-tp-hcm-tham-cong-nhan-moi-truong-chuc-tet-becamex-20260216141136321.htm",
+      "summary": "Trưa 16-2, đoàn công tác do Chủ tịch UBND TP.HCM Nguyễn Văn Được làm trưởng đoàn đã đến thăm, chúc Tết một số đơn vị tại thành phố nhân dịp Tết Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.604141+07:00",
+      "fetched": "2026-02-16T15:36:06.604267+07:00"
+    },
+    {
+      "id": "937530eec817d7783b0eed6aaab25ba5",
+      "title": "Đồng Lệ Á hóa tiên hoa, đọ sắc cùng 'chim công làng múa' Dương Lệ Bình",
+      "link": "https://tuoitre.vn/dong-le-a-hoa-tien-hoa-do-sac-cung-chim-cong-lang-mua-duong-le-binh-2026021613572328.htm",
+      "summary": "Sau khi cùng Dương Lệ Bình trình diễn tiết mục múa \"Hoa nở phú quý\" tại gala mừng xuân của Đài Hà Nam, Đồng Lệ Á đăng tải bài viết dài cảm ơn trên Weibo và gọi đây là 'một lần hợp tác như giấc mơ'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.603990+07:00",
+      "fetched": "2026-02-16T15:36:06.604128+07:00"
+    },
+    {
+      "id": "2eddc48ef8c86be1d4be0f80601a18c3",
+      "title": "Cận giao thừa, rửa xe - cắt tóc ở Hà Nội tăng 30-50%, khách vẫn xếp hàng",
+      "link": "https://tuoitre.vn/can-giao-thua-rua-xe-cat-toc-o-ha-noi-tang-30-50-khach-van-xep-hang-2026021614272795.htm",
+      "summary": "Chỉ còn chưa đầy 10 tiếng nữa bước sang năm mới, nhiều cửa hàng rửa xe, tiệm cắt tóc tại Hà Nội hoạt động hết công suất. Giá dịch vụ tăng 30 - 50% so với ngày thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:36:06.603742+07:00",
+      "fetched": "2026-02-16T15:36:06.603974+07:00"
+    },
     {
       "id": "38a9961b67bef511d7bf5d72a9f5e016",
       "title": "Giao thừa gần đến rồi, bạn đã gấp lại năm cũ bằng những việc này chưa?",
@@ -303,6 +453,46 @@ window.newsData_2026_02_16 = {
       "fetched": "2026-02-16T11:14:29.945621+07:00"
     },
     {
+      "id": "0b21c3e5996c4f968d841ee7ce48eec1",
+      "title": "Chiều 29 tết: Vì sao nhiều người ở TP.HCM đợi ngày giao thừa mới mua hoa tết?",
+      "link": "https://thanhnien.vn/chieu-29-tet-vi-sao-nhieu-nguoi-o-tphcm-doi-ngay-giao-thua-moi-mua-hoa-tet-185260216151047555.htm",
+      "summary": "Trong khi nhiều người ở TP.HCM chọn mua hoa tết từ sớm để lựa được hoa đẹp, ưng ý thì cũng có một số người chọn mua hoa vào ngày giao thừa, tức 29 tết hôm nay. Lý do là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T08:33:00+07:00",
+      "fetched": "2026-02-16T15:36:05.568356+07:00"
+    },
+    {
+      "id": "25cc3f29fc56084594d0cae4ab5113b6",
+      "title": "Anh Nguyễn Tường Lâm thăm, động viên đơn vị đặc thù trực tết tại Hà Nội",
+      "link": "https://thanhnien.vn/anh-nguyen-tuong-lam-tham-dong-vien-don-vi-dac-thu-truc-tet-tai-ha-noi-18526021614363456.htm",
+      "summary": "Anh Nguyễn Tường Lâm, Bí thư T.Ư Đoàn, Chủ tịch Hội Liên hiệp thanh niên Việt Nam, dẫn đầu đoàn công tác, đã tới thăm, chúc tết Tổng công ty Điện lực Hà Nội (EVN HANOI) và Bệnh viện Bạch Mai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T08:30:00+07:00",
+      "fetched": "2026-02-16T15:36:05.568551+07:00"
+    },
+    {
+      "id": "8f6967e188081385b359c833c20f7d79",
+      "title": "Sát tết, du khách vẫn đổ về Cần Giờ bay dù lượn, khinh khí cầu",
+      "link": "https://thanhnien.vn/du-khach-do-ve-can-gio-bay-du-luon-khinh-khi-cau-185260216151409934.htm",
+      "summary": "Thay vì tất bật chuẩn bị mâm cao cỗ đầy, tết năm nay, nhiều gia đình chọn hưởng thụ thời gian nghỉ ngơi, sạc lại năng lượng bằng những trải nghiệm độc đáo, thú vị lần đầu tiên xuất hiện tại Cần Giờ (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T08:28:00+07:00",
+      "fetched": "2026-02-16T15:36:05.568717+07:00"
+    },
+    {
+      "id": "f5624165fd4de034f0b22af7025c3001",
+      "title": "Công an Phú Thọ bố trí 635 'mắt thần' bắt đầu phạt nguội từ hôm nay 16.2",
+      "link": "https://thanhnien.vn/cong-an-phu-tho-bo-tri-635-mat-than-bat-dau-phat-nguoi-tu-hom-nay-162-185260216143426222.htm",
+      "summary": "Hệ thống 635 camera thông minh được lắp đặt tại 202 điểm trọng yếu trên địa bàn tỉnh Phú Thọ, bắt đầu trích xuất dữ liệu và xử phạt từ 16.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T08:22:00+07:00",
+      "fetched": "2026-02-16T15:36:05.568874+07:00"
+    },
+    {
       "id": "438e5a38dd8597b49ccb9704756d8d42",
       "title": "Thời tiết hôm nay 29 Tết: Không khí lạnh tràn về đúng giao thừa",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-29-tet-khong-khi-lanh-tran-ve-dung-giao-thua-2026021516265353.htm",
@@ -381,6 +571,296 @@ window.newsData_2026_02_16 = {
       "category": "Tổng hợp",
       "published": "2026-02-16T08:16:03.382221+07:00",
       "fetched": "2026-02-16T08:16:03.382432+07:00"
+    },
+    {
+      "id": "7760d0d6f160943183083214def20895",
+      "title": "Tri ân những người gác lại việc riêng để làm nhiệm vụ trong những ngày tết",
+      "link": "https://thanhnien.vn/tri-an-nhung-nguoi-gac-lai-viec-rieng-de-lam-nhiem-vu-trong-nhung-ngay-tet-185260213133704688.htm",
+      "summary": "Trước thềm năm mới, đoàn công tác do anh Nguyễn Minh Triết, Ủy viên dự khuyết T.Ư Đảng, Bí thư thường trực T.Ư Đoàn, Chủ tịch Hội Sinh viên Việt Nam, làm trưởng đoàn đã đến thăm, chúc tết các đơn vị làm nhiệm vụ trực, sẵn sàng chiến đấu tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T08:16:00+07:00",
+      "fetched": "2026-02-16T15:36:05.569027+07:00"
+    },
+    {
+      "id": "0dbf9c603627bc846b3c6cecf216cc11",
+      "title": "HLV thay đồng phục các đội liên tục ở Olympic mùa Đông",
+      "link": "https://vnexpress.net/hlv-thay-dong-phuc-cac-doi-lien-tuc-o-olympic-mua-dong-5041793.html",
+      "summary": "HLV trượt băng nghệ thuật người Pháp, Benoit Richaud gây chú ý tại Olympic mùa Đông 2026 khi thay đồng phục liên tục để hướng dẫn 16 VĐV từ 13 quốc gia tranh tài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T08:10:16+07:00",
+      "fetched": "2026-02-16T15:36:02.098097+07:00"
+    },
+    {
+      "id": "0dbf9c603627bc846b3c6cecf216cc11",
+      "title": "HLV thay đồng phục các đội liên tục ở Olympic mùa Đông",
+      "link": "https://vnexpress.net/hlv-thay-dong-phuc-cac-doi-lien-tuc-o-olympic-mua-dong-5041793.html",
+      "summary": "HLV trượt băng nghệ thuật người Pháp, Benoit Richaud gây chú ý tại Olympic mùa Đông 2026 khi thay đồng phục liên tục để hướng dẫn 16 VĐV từ 13 quốc gia tranh tài.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-16T08:10:16+07:00",
+      "fetched": "2026-02-16T15:36:14.326709+07:00"
+    },
+    {
+      "id": "14580a3d8aac71470939f3af5cb4bd4a",
+      "title": "Vì sao nhiều người chưng chậu lúa dịp tết, có ý nghĩa gì?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-nguoi-chung-chau-lua-dip-tet-co-y-nghia-gi-185260216144723452.htm",
+      "summary": "Những ngày sát tết, giữa phố xá tấp nập hoa mai, đào, cúc mâm xôi… còn có những chậu lúa xanh mướt trỗ bông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T08:07:00+07:00",
+      "fetched": "2026-02-16T15:36:05.569178+07:00"
+    },
+    {
+      "id": "441093b85382105ff6575334f4380dd7",
+      "title": "Nguy cơ bị AFC xử thua 0-3, CLB CAHN làm cách nào thắng 3 bàn cách biệt tại Singapore?",
+      "link": "https://thanhnien.vn/nguy-co-bi-afc-xu-thua-0-3-clb-cahn-lam-cach-nao-thang-3-ban-cach-biet-tai-singapore-185260216143707706.htm",
+      "summary": "Với việc có thể bị xử thua 0-3 ở trận lượt đi vòng 16 đội Cúp C2 châu Á, CLB Công an Hà Nội (CAHN) cần thắng Tampines Rovers với cách biệt tối thiểu 3 bàn ở lượt về. Đội bóng đại diện cho V-League hoàn toàn có thể thực hiện được điều này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T08:06:00+07:00",
+      "fetched": "2026-02-16T15:36:05.569332+07:00"
+    },
+    {
+      "id": "1850586806e9a5a1ba10c55e23039e16",
+      "title": "Hoa hậu Lý Thu Thảo dạo đường hoa TP HCM",
+      "link": "https://vnexpress.net/hoa-hau-ly-thu-thao-dao-duong-hoa-tp-hcm-5041795.html",
+      "summary": "Hoa hậu TP HCM 1989 Lý Thu Thảo lần đầu dạo đường hoa Nguyễn Huệ, dịp từ Mỹ về nước đón Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T08:05:56+07:00",
+      "fetched": "2026-02-16T15:36:02.098289+07:00"
+    },
+    {
+      "id": "bb7616d6ebdcfe841ed103e3d5258b17",
+      "title": "Đề xuất đầu tư hơn 87.600 tỉ làm 25 công viên chuyên đề ở Hà Nội",
+      "link": "https://thanhnien.vn/de-xuat-dau-tu-hon-87600-ti-lam-25-cong-vien-chuyen-de-o-ha-noi-185260216064353653.htm",
+      "summary": "Cho rằng các khu vực đô thị mới, khu ngoại thành Hà Nội hiện vẫn thiếu công viên chuyên đề quy mô lớn nên cơ quan chuyên môn đề xuất từ nay đến năm 2030 sẽ xây dựng thêm 25 công viên chuyên đề, với tổng mức đầu hơn 87.600 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T08:01:00+07:00",
+      "fetched": "2026-02-16T15:36:05.569520+07:00"
+    },
+    {
+      "id": "8daca6a57541dfa818a072589579504c",
+      "title": "Không khí Tết Nguyên đán tại Hong Kong 40 năm trước",
+      "link": "https://vnexpress.net/khong-khi-tet-nguyen-dan-tai-hong-kong-40-nam-truoc-5041747.html",
+      "summary": "Những bức ảnh tư liệu ghi lại cảnh hàng nghìn người dân xứ Cảng Thơm đổ về chợ hoa ở công viên Victoria, nhộn nhịp mua sắm Tết cách đây 40-50 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T08:00:00+07:00",
+      "fetched": "2026-02-16T15:36:02.098465+07:00"
+    },
+    {
+      "id": "5b1014418c510a26a7a7b35f10df8373",
+      "title": "Khi tôi chữa được vết thương lòng, chồng cũ lại mong hàn gắn",
+      "link": "https://vnexpress.net/tieu-tam-khuyen-toi-ly-hon-va-cai-ket-ha-he-khi-chong-cu-om-dau-tieu-tuy-xin-me-con-toi-quay-lai-5041649.html",
+      "summary": "Tôi không bao giờ chấp nhận quay lại với chồng cũ nhưng trong lòng vẫn thương cảm và nghĩ nhiều đến anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T08:00:00+07:00",
+      "fetched": "2026-02-16T15:36:02.098654+07:00"
+    },
+    {
+      "id": "7a5bfa0eb269f88d06d78a2c2ef9456d",
+      "title": "Mâm cúng giao thừa 3 miền gồm những gì? Chuyên gia văn hóa giải đáp chi tiết",
+      "link": "https://thanhnien.vn/mam-cung-giao-thua-3-mien-gom-nhung-gi-chuyen-gia-van-hoa-giai-dap-chi-tiet-185260215214612558.htm",
+      "summary": "Hôm nay 16.2, tức 29 tết - đêm giao thừa đón năm mới Bính Ngọ. Mâm cúng giao thừa 3 miền gồm những gì? Chuyên gia văn hóa giải đáp chi tiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T08:00:00+07:00",
+      "fetched": "2026-02-16T15:36:05.569676+07:00"
+    },
+    {
+      "id": "b6318838d48a95f337c1682366389e2d",
+      "title": "Nổ cửa hàng pháo hoa ở Trung Quốc, 8 người thiệt mạng",
+      "link": "https://vnexpress.net/no-cua-hang-phao-hoa-o-trung-quoc-8-nguoi-thiet-mang-5041801.html",
+      "summary": "Vụ nổ xảy ra tại cửa hàng pháo hoa ở tỉnh Giang Tô do \"bắn pháo không đúng cách\", khiến 8 người chết và hai người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:59:53+07:00",
+      "fetched": "2026-02-16T15:36:02.098819+07:00"
+    },
+    {
+      "id": "b6318838d48a95f337c1682366389e2d",
+      "title": "Nổ cửa hàng pháo hoa ở Trung Quốc, 8 người thiệt mạng",
+      "link": "https://vnexpress.net/no-cua-hang-phao-hoa-o-trung-quoc-8-nguoi-thiet-mang-5041801.html",
+      "summary": "Vụ nổ xảy ra tại cửa hàng pháo hoa ở tỉnh Giang Tô do \"bắn pháo không đúng cách\", khiến 8 người chết và hai người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-16T07:59:53+07:00",
+      "fetched": "2026-02-16T15:36:08.149562+07:00"
+    },
+    {
+      "id": "faec5a8fbc29fd6c6920d3b8d73d6ae9",
+      "title": "Thủ tướng: Phê duyệt đề án Trường đại học Y dược Bạch Mai trong quý 1",
+      "link": "https://thanhnien.vn/thu-tuong-phe-duyet-de-an-truong-dai-hoc-y-duoc-bach-mai-trong-quy-1-185260216142536723.htm",
+      "summary": "Ghi nhận ưu thế về năng lực chuyên môn, đội ngũ nhân lực, Thủ tướng Phạm Minh Chính chỉ đạo phê duyệt đề án nâng cấp Trường cao đẳng Y tế Bạch Mai trở thành Trường đại học Y dược Bạch Mai trong quý 1/2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:56:00+07:00",
+      "fetched": "2026-02-16T15:36:05.569824+07:00"
+    },
+    {
+      "id": "e112db7a4b4f7b646f404ed865d817b7",
+      "title": "5 mẫu smartphone 'đã qua sử dụng' vẫn đáng mua",
+      "link": "https://thanhnien.vn/5-mau-smartphone-da-qua-su-dung-van-dang-mua-185260206112651678.htm",
+      "summary": "Với việc thị trường smartphone đang có sự gia tăng mạnh về giá cả, các lựa chọn \"đã qua sử dụng\" trở nên hấp dẫn hơn trong dịp tết năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:45:00+07:00",
+      "fetched": "2026-02-16T15:36:05.569979+07:00"
+    },
+    {
+      "id": "0ef4c7ab3f53ea46fa29b8df4274938b",
+      "title": "Lâm Hùng: Từng bị chặt vali vì theo nghệ thuật, đổi đời nhờ NSƯT Vũ Linh",
+      "link": "https://thanhnien.vn/lam-hung-tung-bi-chat-vali-vi-theo-nghe-thuat-doi-doi-nho-nsut-vu-linh-185260216132325586.htm",
+      "summary": "Từng bị gia đình cấm cản theo nghệ thuật, Lâm Hùng quyết tâm lên TP.HCM tìm kiếm cơ hội sau biến cố gia đình. Tại đây, việc được NSƯT Vũ Linh nâng đỡ giúp sự nghiệp nghệ thuật của anh có sự thay đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:42:00+07:00",
+      "fetched": "2026-02-16T15:36:05.570127+07:00"
+    },
+    {
+      "id": "d7bb352ad05617a45a8b0d708ab498b0",
+      "title": "Kề dao cướp dây chuyền của người phụ nữ ngày cận Tết",
+      "link": "https://vnexpress.net/ke-dao-cuop-day-chuyen-cua-nguoi-phu-nu-ngay-can-tet-5041804.html",
+      "summary": "Huỳnh Thanh Khiết, 35 tuổi, vào phòng trọ kề dao cướp dây chuyền của người phụ nữ ở trọ sáng 28 tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:39:36+07:00",
+      "fetched": "2026-02-16T15:36:02.098977+07:00"
+    },
+    {
+      "id": "3e5f23ba968edbec7a521eff6bb8e08e",
+      "title": "Đột nhập nhà cô ruột phá két, trộm 17 chỉ vàng",
+      "link": "https://vnexpress.net/dot-nhap-nha-co-ruot-pha-ket-trom-17-chi-vang-5041809.html",
+      "summary": "Diệp Văn Mạnh lợi dụng lúc rạng sáng nhà cô ruột không có ai nên đột nhập vào phá két sắt, trộm 17 chỉ vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:35:14+07:00",
+      "fetched": "2026-02-16T15:36:02.099132+07:00"
+    },
+    {
+      "id": "e9c509507ae383d5c67e0bea9914a71a",
+      "title": "Video 'Brad Pitt đấm Tom Cruise' do AI Trung Quốc tạo ra khiến Hollywood chấn động",
+      "link": "https://thanhnien.vn/video-brad-pitt-dam-tom-cruise-do-ai-trung-quoc-tao-ra-khien-hollywood-chan-dong-185260214151649954.htm",
+      "summary": "Đoạn video 15 giây đang được lan truyền khắp mạng xã hội phương Tây về cảnh \"Brad Pitt và Tom Cruise đánh nhau\" được tạo ra chỉ với hai dòng lệnh, bằng nền tảng AI Seedance 2.0, thuộc sở hữu của ByteDance (công ty mẹ TikTok) khiến cả Hollywood rung chuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:34:00+07:00",
+      "fetched": "2026-02-16T15:36:05.570284+07:00"
+    },
+    {
+      "id": "d9fcf436ae883ad22c556e1183717b42",
+      "title": "Hành trình sáng tạo đường hoa xuân 2026 của AGS",
+      "link": "https://vnexpress.net/hanh-trinh-sang-tao-duong-hoa-xuan-2026-cua-ags-5019668.html",
+      "summary": "AGS triển khai chuỗi đường hoa, hội hoa xuân Bính Ngọ 2026 trên nhiều tỉnh thành, khai thác bản sắc địa phương và biểu tượng linh vật ngựa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:30:00+07:00",
+      "fetched": "2026-02-16T15:36:02.099287+07:00"
+    },
+    {
+      "id": "3238d972322781e4526c6f890dc046d8",
+      "title": "Các tướng lĩnh quân đội, công an ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://thanhnien.vn/cac-tuong-linh-quan-doi-cong-an-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-185260216105904685.htm",
+      "summary": "Nhiều tướng lĩnh quân đội, công an trong danh sách 864 người ứng cử đại biểu Quốc hội khóa XVI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:30:00+07:00",
+      "fetched": "2026-02-16T15:36:05.570462+07:00"
+    },
+    {
+      "id": "310c9162b131c6f53395e3f18b9bcb42",
+      "title": "Nổ lớn cửa hàng pháo hoa Trung Quốc khiến 8 người chết",
+      "link": "https://thanhnien.vn/no-lon-cua-hang-phao-hoa-trung-quoc-khien-8-nguoi-chet-185260216132304805.htm",
+      "summary": "Các nhà chức trách Trung Quốc thông tin về vụ nổ một cửa hàng pháo hoa tại tỉnh Giang Tô ngày 15.2, khiến 8 người thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:28:00+07:00",
+      "fetched": "2026-02-16T15:36:05.570731+07:00"
+    },
+    {
+      "id": "f5404ec21b377cdf7263dba29034525f",
+      "title": "Nhóm thanh niên hỗn chiến sau chầu nhậu ngày cận Tết",
+      "link": "https://vnexpress.net/nhom-thanh-nien-hon-chien-sau-chau-nhau-ngay-can-tet-5041800.html",
+      "summary": "Mâu thuẫn trong cuộc nhậu ngày cận Tết nguyên đán, hai nhóm thanh thiếu niên đã lao vào hỗn chiến khiến một người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:27:33+07:00",
+      "fetched": "2026-02-16T15:36:02.099446+07:00"
+    },
+    {
+      "id": "2fc97681a24bc94215e2b1128322caea",
+      "title": "Kéo băng nhóm, cầm súng đánh người để đòi 10 triệu đồng",
+      "link": "https://vnexpress.net/keo-bang-nhom-cam-sung-danh-nguoi-de-doi-10-trieu-dong-5041796.html",
+      "summary": "Lê Thành Long, 49 tuổi, cùng nhóm thiếu niên mang theo súng, gậy sắt đến tiệm cắt tóc hành hung chủ tiệm để đòi nợ 10 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:24:34+07:00",
+      "fetched": "2026-02-16T15:36:02.099638+07:00"
+    },
+    {
+      "id": "aceaa7e1cd655b9951dc8ce1670180ee",
+      "title": "Không khí chuẩn bị đón Tết Bính Ngọ trên thế giới",
+      "link": "https://vnexpress.net/khong-khi-chuan-bi-don-tet-binh-ngo-tren-the-gioi-5041737.html",
+      "summary": "Nhiều nước rộn ràng chào đón năm mới Bính Ngọ, với loạt biểu tượng con ngựa trang trí cho đến các hoạt động biểu diễn trên đường phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:10:35+07:00",
+      "fetched": "2026-02-16T15:36:02.099806+07:00"
+    },
+    {
+      "id": "aceaa7e1cd655b9951dc8ce1670180ee",
+      "title": "Không khí chuẩn bị đón Tết Bính Ngọ trên thế giới",
+      "link": "https://vnexpress.net/khong-khi-chuan-bi-don-tet-binh-ngo-tren-the-gioi-5041737.html",
+      "summary": "Nhiều nước rộn ràng chào đón năm mới Bính Ngọ, với loạt biểu tượng con ngựa trang trí cho đến các hoạt động biểu diễn trên đường phố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-16T07:10:35+07:00",
+      "fetched": "2026-02-16T15:36:08.149746+07:00"
+    },
+    {
+      "id": "8867579691d51eabc8c4def0dd48630c",
+      "title": "Dấu hiệu cảnh báo bạn bị ngộ độc thực phẩm dịp Tết",
+      "link": "https://vnexpress.net/dau-hieu-canh-bao-ban-bi-ngo-doc-thuc-pham-dip-tet-5041639.html",
+      "summary": "Các triệu chứng thường gặp khi ngộ độc thực phẩm gồm đau bụng, nôn, tiêu chảy, xuất hiện trong vài giờ đến vài ngày sau ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:00:00+07:00",
+      "fetched": "2026-02-16T15:36:02.099962+07:00"
+    },
+    {
+      "id": "aa274aefb19e0ba101f7fa5f7b7600a4",
+      "title": "Các vị trí ngắm pháo hoa giao thừa Bính Ngọ ở Hà Nội",
+      "link": "https://vnexpress.net/cac-vi-tri-ngam-phao-hoa-giao-thua-binh-ngo-o-ha-noi-5041358.html",
+      "summary": "Pháo hoa đêm giao thừa Tết Nguyên đán Bính Ngọ được bắn tại 11 điểm tầm cao và 23 điểm tầm thấp, với nhiều vị trí quan sát đẹp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:00:00+07:00",
+      "fetched": "2026-02-16T15:36:02.100123+07:00"
+    },
+    {
+      "id": "c540882043c007300e30f76fdc70047c",
+      "title": "Có bao nhiêu con vịt trong hình?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-co-bao-nhieu-con-vit-trong-hinh-5040558.html",
+      "summary": "Trò chơi nhỏ này không chỉ giúp thư giãn đầu óc sau giờ làm việc mà còn là bài kiểm tra \"độ tinh anh\" của đôi mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:00:00+07:00",
+      "fetched": "2026-02-16T15:36:02.100277+07:00"
+    },
+    {
+      "id": "2d061813638210c9a62ba6e1efe1fa14",
+      "title": "BAE Systems gia hạn hợp đồng logistics quốc phòng với GXO",
+      "link": "https://vnexpress.net/bae-systems-gia-han-hop-dong-logistics-quoc-phong-voi-gxo-5033052.html",
+      "summary": "GXO Logistics và Tập đoàn quốc phòng BAE Systems vừa gia hạn và mở rộng quan hệ hợp tác logistics lâu dài tại Vương quốc Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T07:00:00+07:00",
+      "fetched": "2026-02-16T15:36:02.100430+07:00"
     },
     {
       "id": "6f2172faea7b75f9b0d5cf096cd7cf71",
