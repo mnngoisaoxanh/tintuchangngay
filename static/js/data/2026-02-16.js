@@ -1,7 +1,157 @@
 window.newsData_2026_02_16 = {
   "date": "2026-02-16",
-  "lastUpdated": "2026-02-16T08:16:09.369153+07:00",
+  "lastUpdated": "2026-02-16T11:14:36.876271+07:00",
   "articles": [
+    {
+      "id": "bc9cb948d65c0f1badad2f244546b790",
+      "title": "Ra quán kêu con sam, 3 người ăn nghi bị ngộ độc con so",
+      "link": "https://tuoitre.vn/ra-quan-keu-con-sam-3-nguoi-an-nghi-bi-ngo-doc-con-so-20260216092422683.htm",
+      "summary": "Ngày 16-2, bác sĩ Hồ Văn Vẹn - Phó giám đốc Bệnh viện Đa khoa Năm Căn (tỉnh Cà Mau) - cho biết bệnh viện đang theo dõi, điều trị 3 bệnh nhân nghi ngộ độc con so sau khi kêu con sam để ăn tại một quán ốc trên địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.947327+07:00",
+      "fetched": "2026-02-16T11:14:29.947442+07:00"
+    },
+    {
+      "id": "5784836749fd3d74db235927ef9d9a63",
+      "title": "Thót tim cảnh 2 ô tô vừa chạy vừa 'truyền dịch' bằng dây câu bình giữa phố",
+      "link": "https://tuoitre.vn/thot-tim-canh-2-o-to-vua-chay-vua-truyen-dich-bang-day-cau-binh-giua-pho-20260216075749862.htm",
+      "summary": "Hai ô tô được nối dây câu bình khi đang chạy song song trên đường gây xôn xao mạng xã hội. Đoạn video cho thấy tài xế dùng nguồn điện từ xe khác để xe gặp sự cố tiếp tục hoạt động, tiềm ẩn nhiều rủi ro an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.947184+07:00",
+      "fetched": "2026-02-16T11:14:29.947314+07:00"
+    },
+    {
+      "id": "78e35d71c0706c6e82b75cbd955b98de",
+      "title": "Slovakia nghi Ukraine 'tống tiền chính trị' Hungary",
+      "link": "https://tuoitre.vn/slovakia-nghi-ukraine-tong-tien-chinh-tri-hungary-20260216091835634.htm",
+      "summary": "Thủ tướng Slovakia nghi Kiev trì hoãn việc thông lại đường ống dẫn dầu từ Nga qua Ukraine đến Đông Âu nhằm buộc Hungary ngừng phản đối nước này vào EU.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.947062+07:00",
+      "fetched": "2026-02-16T11:14:29.947173+07:00"
+    },
+    {
+      "id": "2ce9135db2a6f51c72e0ed7091930e12",
+      "title": "Toàn cảnh đại dự án cảng Liên Chiểu với đường ven biển gây ‘sốt’",
+      "link": "https://tuoitre.vn/toan-canh-dai-du-an-cang-lien-chieu-voi-duong-ven-bien-gay-sot-20260216092338645.htm",
+      "summary": "Sau hơn 3 năm triển khai, dự án cảng Liên Chiểu hiện lên diện mạo mới cùng tuyến đường ven biển rất đẹp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.946933+07:00",
+      "fetched": "2026-02-16T11:14:29.947050+07:00"
+    },
+    {
+      "id": "4ce70fbf426c4b202f32f9e13d6fa114",
+      "title": "Chi tiết các địa điểm bắn pháo hoa mừng xuân Bính Ngọ  tại các tỉnh, thành tối nay",
+      "link": "https://tuoitre.vn/chi-tiet-cac-dia-diem-ban-phao-hoa-mung-xuan-binh-ngo-tai-cac-tinh-thanh-toi-nay-20260214133034266.htm",
+      "summary": "Hiện đã có 30/34 tỉnh thành công bố lịch và địa điểm bắn pháo hoa mừng xuân Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.946808+07:00",
+      "fetched": "2026-02-16T11:14:29.946922+07:00"
+    },
+    {
+      "id": "ff9bab207d7c0574c31dfb1b42a4388a",
+      "title": "Bị yêu cầu kiểm tra nồng độ cồn, thanh niên tăng ga bỏ chạy, tông CSGT để thoát thân",
+      "link": "https://tuoitre.vn/bi-yeu-cau-kiem-tra-nong-do-con-thanh-nien-tang-ga-bo-chay-tong-csgt-de-thoat-than-20260216100504233.htm",
+      "summary": "Dù được yêu cầu dừng xe kiểm tra nồng độ cồn, N.V.H. vẫn tăng ga bỏ chạy, sau đó đâm cảnh sát giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.946685+07:00",
+      "fetched": "2026-02-16T11:14:29.946797+07:00"
+    },
+    {
+      "id": "84ad4321df9c44fcc251450bfee262cb",
+      "title": "Tết này có hẹn ở Mộc Châu",
+      "link": "https://tuoitre.vn/tet-nay-co-hen-o-moc-chau-20260216090808467.htm",
+      "summary": "Mai anh đào, hoa mận trắng, hoa đào, hoa cải vàng… Tết này Mộc Châu rực rỡ như xứ sở của muôn sắc hoa. Nếu có dự định lên kế hoạch du xuân xa thành phố, Mộc Châu là điểm đến không thể bỏ qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.946553+07:00",
+      "fetched": "2026-02-16T11:14:29.946673+07:00"
+    },
+    {
+      "id": "5845042bf6ad59c3e6c0811d7dec028e",
+      "title": "Bà chủ doanh nghiệp thu gom rác thải bị khởi tố vì trốn thuế hơn 200 triệu đồng",
+      "link": "https://tuoitre.vn/ba-chu-doanh-nghiep-thu-gom-rac-thai-bi-khoi-to-vi-tron-thue-hon-200-trieu-dong-20260216094855863.htm",
+      "summary": "Doanh nghiệp tư nhân Thanh Triều đã thu hơn 556 triệu đồng tiền dịch vụ gom rác nhưng không xuất hóa đơn, không kê khai thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.946429+07:00",
+      "fetched": "2026-02-16T11:14:29.946542+07:00"
+    },
+    {
+      "id": "1d837d8fa81c72d6beb585b35c326253",
+      "title": "Mùa lá chuyển màu 'nở hoa' ở Măng Đen, hẹn du khách dịp Tết Bính Ngọ 2026",
+      "link": "https://tuoitre.vn/mua-la-chuyen-mau-no-hoa-o-mang-den-hen-du-khach-dip-tet-binh-ngo-2026-20260216095549915.htm",
+      "summary": "Khoảnh khắc giao mùa, đón chào Tết Nguyên đán Bính Ngọ 2026 cũng là thời điểm rừng Măng Đen chuyển màu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.946284+07:00",
+      "fetched": "2026-02-16T11:14:29.946417+07:00"
+    },
+    {
+      "id": "2d430c5f522565e318c9480dfd19dd25",
+      "title": "Cuộc chiến bảo vệ biên giới phía Bắc: Sức mạnh của thế trận quốc phòng toàn dân",
+      "link": "https://tuoitre.vn/cuoc-chien-bao-ve-bien-gioi-phia-bac-suc-manh-cua-the-tran-quoc-phong-toan-dan-20260216100454111.htm",
+      "summary": "47 năm sau ngày 17-2-1979, cuộc chiến đấu bảo vệ biên giới phía Bắc vẫn là minh chứng sống động cho tính chính nghĩa và sức mạnh của thế trận quốc phòng toàn dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.946161+07:00",
+      "fetched": "2026-02-16T11:14:29.946272+07:00"
+    },
+    {
+      "id": "3196507901df63c2e75605e333ecfae2",
+      "title": "Cận Tết đi tắm biển Mỹ Khê, hai học sinh gặp nạn, một em tử vong",
+      "link": "https://tuoitre.vn/can-tet-di-tam-bien-my-khe-hai-hoc-sinh-gap-nan-mot-em-tu-vong-20260216102150491.htm",
+      "summary": "Cận Tết Nguyên đán, một vụ đuối nước thương tâm xảy ra tại biển Mỹ Khê (xã Tịnh Khê, Quảng Ngãi) khi hai học sinh tắm biển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.946035+07:00",
+      "fetched": "2026-02-16T11:14:29.946149+07:00"
+    },
+    {
+      "id": "585f3cffb704d2b3eefd028595f2762a",
+      "title": "Mặn 'xông đất' miền Tây ngay những ngày đầu năm mới",
+      "link": "https://tuoitre.vn/man-xong-dat-mien-tay-ngay-nhung-ngay-dau-nam-moi-20260216095114884.htm",
+      "summary": "'Vị khách không mời' là xâm nhập mặn lại đang lấn sâu vào các cửa sông, có thể gây ảnh hưởng trực tiếp đến sản xuất và đời sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.945908+07:00",
+      "fetched": "2026-02-16T11:14:29.946023+07:00"
+    },
+    {
+      "id": "fb8e92da73f8290c02ee181dce504422",
+      "title": "SSS của Đại học Duy Tân với Teaser hoạt hình 3D: Red Boy-Hồng Hài Nhi",
+      "link": "https://tuoitre.vn/sss-cua-dai-hoc-duy-tan-voi-teaser-hoat-hinh-3d-red-boy-hong-hai-nhi-20260216100736083.htm",
+      "summary": "Khi thần thoại Tây Du Ký đã trở nên quen thuộc với công chúng thì Red Boy (Hồng Hài Nhi) - đoạn “teaser” ngắn 3D do Xưởng phim Én Bạc (Silver Swallows Studio - SSS), Đại học Duy Tân vừa ra mắt đã nhanh chóng nhận được sự quan tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.945776+07:00",
+      "fetched": "2026-02-16T11:14:29.945897+07:00"
+    },
+    {
+      "id": "836eb871161d3ac5f9732d85fcee7ff3",
+      "title": "Vì sao Lữ Bố mạnh hơn bội phần khi cưỡi ngựa Xích Thố?",
+      "link": "https://tuoitre.vn/vi-sao-lu-bo-manh-hon-boi-phan-khi-cuoi-ngua-xich-tho-20260215232633754.htm",
+      "summary": "\"Nhân trung Lữ Bố, Mã trung Xích Thố\", một trong những câu nói nổi tiếng nhất thời Tam Quốc, phản ánh một góc độ thú vị của võ thuật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.945636+07:00",
+      "fetched": "2026-02-16T11:14:29.945763+07:00"
+    },
+    {
+      "id": "6ea2b37eee07a4f9895325c16c0757f9",
+      "title": "Cào lớp đá mi khiến xe cộ sa lầy trên đèo Đại Ninh",
+      "link": "https://tuoitre.vn/cao-lop-da-mi-khien-xe-co-sa-lay-tren-deo-dai-ninh-20260216103803183.htm",
+      "summary": "Xe cộ qua lại trên đèo Đại Ninh, quốc lộ 28B tăng đột biến khiến đoạn thảm tạm lớp đá mi tạm bong tróc, sa lầy, kẹt xe kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T11:14:29.945413+07:00",
+      "fetched": "2026-02-16T11:14:29.945621+07:00"
+    },
     {
       "id": "438e5a38dd8597b49ccb9704756d8d42",
       "title": "Thời tiết hôm nay 29 Tết: Không khí lạnh tràn về đúng giao thừa",
@@ -81,6 +231,336 @@ window.newsData_2026_02_16 = {
       "category": "Tổng hợp",
       "published": "2026-02-16T08:16:03.382221+07:00",
       "fetched": "2026-02-16T08:16:03.382432+07:00"
+    },
+    {
+      "id": "efbd6cb0583482539f6627423d207ede",
+      "title": "Công an tỉnh Đồng Tháp tiếp sức cho bà con miền Tây về quê ăn tết",
+      "link": "https://thanhnien.vn/cong-an-tinh-dong-thap-tiep-suc-cho-ba-con-mien-tay-ve-que-an-tet-18526021609082249.htm",
+      "summary": "Nhằm tiếp sức bà con miền Tây về quê đón tết, Công an tỉnh Đồng Tháp đã tổ chức nhiều điểm phát nước uống miễn phí trên các tuyến đường, hỗ trợ người dân di chuyển an toàn trong dịp cao điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T04:05:00+07:00",
+      "fetched": "2026-02-16T11:14:28.594851+07:00"
+    },
+    {
+      "id": "370f76655244a6550283a901f26b779f",
+      "title": "Nam diễn viên gây tranh cãi trong phim Trấn Thành đóng phim tâm linh - huyền bí",
+      "link": "https://thanhnien.vn/nam-dien-vien-gay-tranh-cai-trong-phim-tran-thanh-dong-phim-tam-linh-huyen-bi-185260216094258003.htm",
+      "summary": "Sau 'Thỏ ơi' của Trấn Thành, diễn viên - người mẫu Trần Lê Vĩnh Đam tiếp tục tham gia một dự án điện ảnh mới của nữ đạo diễn Luk Vân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T04:03:00+07:00",
+      "fetched": "2026-02-16T11:14:28.595024+07:00"
+    },
+    {
+      "id": "1735b7e0594d941e73de04df53ca9dea",
+      "title": "Đưa 'người yêu AI' đi quán bar",
+      "link": "https://vnexpress.net/dua-nguoi-yeu-ai-di-quan-bar-5041589.html",
+      "summary": "22h tại một quán bar ở New York, hàng chục khách hàng ngồi một mình, đeo tai nghe và cụng ly với màn hình điện thoại - nơi \"người yêu ảo\" đang mỉm cười với họ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T04:01:24+07:00",
+      "fetched": "2026-02-16T11:14:25.212483+07:00"
+    },
+    {
+      "id": "94c0e184881a8a692c68e3d8fb6becd2",
+      "title": "Mẹo bảo quản bánh chưng ngon sau tết, cách làm đơn giản không phải ai cũng biết",
+      "link": "https://thanhnien.vn/meo-bao-quan-banh-chung-ngon-sau-tet-cach-lam-don-gian-khong-phai-ai-cung-biet-185260205105331434.htm",
+      "summary": "Nếu không biết cách bảo quản, bánh chưng dễ bị mốc hoặc khô cứng gây lãng phí. Với vài mẹo đơn giản, bánh chưng có thể giữ được hương vị thơm ngon thêm nhiều ngày sau tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T04:00:00+07:00",
+      "fetched": "2026-02-16T11:14:28.595182+07:00"
+    },
+    {
+      "id": "9aa1050d001652827b4f15cf27db1a31",
+      "title": "Mặt bằng bán lẻ trung tâm TP HCM giá cao vẫn đắt khách thuê",
+      "link": "https://vnexpress.net/mat-bang-ban-le-trung-tam-tp-hcm-gia-cao-van-dat-khach-thue-5041617.html",
+      "summary": "Giá thuê mặt bằng bán lẻ tại khu trung tâm TP HCM tiếp tục tăng nhẹ trong năm 2025 và dự báo vẫn duy trì ở mức cao trong năm nay nhờ nhu cầu thuê từ nhóm ngành hàng quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:57:13+07:00",
+      "fetched": "2026-02-16T11:14:25.212667+07:00"
+    },
+    {
+      "id": "271e464ec589e431984dc644412263c2",
+      "title": "Diễn viên ‘Mưa đỏ’ tiết lộ lý do cạo trọc đầu, học tiếng Lào",
+      "link": "https://thanhnien.vn/dien-vien-mua-do-tiet-lo-ly-do-cao-troc-dau-hoc-tieng-lao-185260216101731673.htm",
+      "summary": "Sau khi gây ấn tượng trong phim 'Mưa đỏ', diễn viên Phương Nam tiếp tục tham gia phim truyền hình  đề tài tình báo 'Tận hiến' với màn hóa thân chân thật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:48:00+07:00",
+      "fetched": "2026-02-16T11:14:28.595352+07:00"
+    },
+    {
+      "id": "e707719ff349e174d5ee45d7e1b35e27",
+      "title": "Đêm 28 tết tại Bến xe Miền Đông mới: Người về quê phút chót, khách quốc tế háo hức đón tết Việt",
+      "link": "https://thanhnien.vn/dem-28-tet-tai-ben-xe-mien-dong-moi-nguoi-ve-que-phut-chot-khach-quoc-te-hao-huc-don-tet-viet-185260216103802729.htm",
+      "summary": "Tối 28 tết Nguyên đán 2026, Bến xe Miền Đông mới (phường Long Bình, TP.HCM) khá thưa vắng. Phần lớn người dân đã về quê từ sớm, chỉ còn những hành khách về sát giờ hoặc du khách tranh thủ khởi hành trước giao thừa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:45:00+07:00",
+      "fetched": "2026-02-16T11:14:28.595508+07:00"
+    },
+    {
+      "id": "ba07504f825e472951eea1a9b1036c9e",
+      "title": "Carlsen lần đầu vô địch cờ vua 960 thế giới",
+      "link": "https://vnexpress.net/carlsen-lan-dau-vo-dich-co-vua-960-the-gioi-5041754.html",
+      "summary": "Magnus Carlsen thâu tóm trọn bộ danh hiệu thế giới của FIDE, sau khi thắng Fabiano Caruana 2,5-1,5 ở chung kết Freestyle Chess World Championship 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:37:51+07:00",
+      "fetched": "2026-02-16T11:14:25.212830+07:00"
+    },
+    {
+      "id": "1951a5531005375325f3a923d846eb08",
+      "title": "Cấm xe hơn 20 đường trung tâm TP HCM đêm giao thừa",
+      "link": "https://vnexpress.net/cam-xe-hon-20-duong-trung-tam-tp-hcm-dem-giao-thua-5041755.html",
+      "summary": "Để phục vụ người dân vui chơi, xem pháo hoa, xe bị cấm vào hơn 20 tuyến đường trung tâm TP HCM đêm 29 Tết (16/2), theo thông báo của Phòng CSGT thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:30:32+07:00",
+      "fetched": "2026-02-16T11:14:25.212986+07:00"
+    },
+    {
+      "id": "0ed183a2eb077d1c1788ab280378e282",
+      "title": "Công an TP.HCM truy xét thần tốc, bắt kẻ cắt khóa trộm 51 điện thoại",
+      "link": "https://thanhnien.vn/cong-an-tphcm-truy-xet-than-toc-bat-ke-cat-khoa-trom-51-dien-thoai-185260216092755154.htm",
+      "summary": "Nghi phạm (28 tuổi) điều nghiên nhiều cửa hàng trước khi ra tay cắt khóa, trộm 51 điện thoại di động cùng nhiều tài sản, ước tính số tiền hơn 100 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:30:00+07:00",
+      "fetched": "2026-02-16T11:14:28.595665+07:00"
+    },
+    {
+      "id": "1d7b788cc01ba0c624752e68f97cfb57",
+      "title": "Du khách quốc tế len lỏi kênh rạch trải nghiệm tết miệt vườn miền Tây",
+      "link": "https://thanhnien.vn/du-khach-quoc-te-len-loi-kenh-rach-trai-nghiem-tet-miet-vuon-mien-tay-185260216084553294.htm",
+      "summary": "Thuê ghe nhỏ theo chân người dân len lỏi các kênh rạch, nhiều du khách quốc tế thích thú với nhịp sống và không khí tết miệt vườn miền Tây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:30:00+07:00",
+      "fetched": "2026-02-16T11:14:28.595817+07:00"
+    },
+    {
+      "id": "6add93f810beac3aef4b2ec1a9fc0191",
+      "title": "Sáng 29 tết, chợ đông nghẹt: Nhiều người giật mình vì giá nấm tăng gấp đôi",
+      "link": "https://thanhnien.vn/sang-29-tet-cho-dong-nghet-nhieu-nguoi-giat-minh-vi-gia-nam-tang-gap-doi-185260216094218237.htm",
+      "summary": "Sáng 29 tết, chợ dân sinh Thủ Đức (TP.HCM) đông nghịt người mua sắm. Trong đó, mặt hàng nấm khiến nhiều người bất ngờ khi tăng gần gấp đôi so với ngày thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:28:00+07:00",
+      "fetched": "2026-02-16T11:14:28.595966+07:00"
+    },
+    {
+      "id": "97846a177e3377c07ae0f3a867a1389e",
+      "title": "Nữ du khách Mỹ quay lại TP.HCM 3 lần trong một năm chỉ với một lý do",
+      "link": "https://thanhnien.vn/nu-du-khach-my-quay-lai-tphcm-3-lan-trong-mot-nam-chi-voi-mot-ly-do-185260210142420391.htm",
+      "summary": "Sophie Steiner, du khách Mỹ, đã sống ở Thượng Hải hơn một thập kỷ và đi du lịch đến 50 quốc gia trong thời gian này. Trong đó, có năm, cô quay lại TP.HCM tới 3 lần, chỉ với một lý do.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:28:00+07:00",
+      "fetched": "2026-02-16T11:14:28.596113+07:00"
+    },
+    {
+      "id": "f8c09efe088e14dcfef08e0d465276b9",
+      "title": "Bước ngoặt sau cú tát thất nghiệp tuổi 40",
+      "link": "https://vnexpress.net/that-nghiep-tuoi-40-khoi-nghiep-von-it-buoc-ngoat-sau-cu-tat-that-nghiep-tuoi-40-5041744.html",
+      "summary": "Công ty cũ mà mình từng dồn hết tâm huyết bị đóng cửa, tôi hụt hẫng, thất vọng, thậm chí nghĩ đến chuyện từ bỏ tất cả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:27:57+07:00",
+      "fetched": "2026-02-16T11:14:25.213143+07:00"
+    },
+    {
+      "id": "0f8b344f133c49cf506798b7678f252f",
+      "title": "Biệt thự phố nhà giàu Phú Mỹ Hưng trang hoàng đón tết",
+      "link": "https://thanhnien.vn/biet-thu-pho-nha-giau-phu-my-hung-trang-hoang-don-tet-185260216094326216.htm",
+      "summary": "Dịp Tết Bính Ngọ 2026, căn biệt thự nằm tại mặt tiền đường số 19, giao Phú Mỹ 2A (nội khu Phú Mỹ Hưng, TP.HCM) trở thành điểm check-in thu hút nhiều người dân. Toàn bộ mặt tiền được phủ sắc đỏ, hồng và vàng là những gam màu đặc trưng của mùa xuân, nổi bật giữa không gian đô thị hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:27:00+07:00",
+      "fetched": "2026-02-16T11:14:28.596267+07:00"
+    },
+    {
+      "id": "1c3fdd1f3e35ffb1d73b82d066c0e629",
+      "title": "Giá xăng dầu hôm nay 16.2.2026: Xăng trong nước có đợt giảm đầu năm Bính Ngọ?",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1622026-xang-trong-nuoc-co-dot-giam-dau-nam-binh-ngo-185260216100337292.htm",
+      "summary": "Giá dầu thế giới lùi nhẹ trong phiên giao dịch đầu tuần. Diễn biến giá tuần qua cho thấy, giá xăng dầu trong nước có thể có đợt giảm giá đồng loạt trong phiên điều hành giá đầu năm mới, mùng 4 tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:26:00+07:00",
+      "fetched": "2026-02-16T11:14:28.596452+07:00"
+    },
+    {
+      "id": "3e7487e4e8f0f7ee06c41a9c40ee1973",
+      "title": "Độc lạ mai vàng thân liền thân, hoa 9 cánh của nghệ nhân Đắk Lắk giá 'khủng'",
+      "link": "https://thanhnien.vn/doc-la-mai-vang-than-lien-than-hoa-9-canh-cua-nghe-nhan-dak-lak-gia-khung-185260215202214419.htm",
+      "summary": "Thân liền thân tự nhiên, hoa nở 7–9 cánh thay vì 5 cánh truyền thống, tán tạo hình năm ngôi sao phá cách, cây mai hơn 40 năm tuổi của nghệ nhân Nguyễn Tấn Sanh đang được chào bán tại Quảng trường 10.3, Buôn Ma Thuột dịp cận Tết Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:25:00+07:00",
+      "fetched": "2026-02-16T11:14:28.596615+07:00"
+    },
+    {
+      "id": "04ecf7d3a13ab805b92a0c6946ee9845",
+      "title": "Công an TP.HCM bắt 8 thanh, thiếu niên chém, cướp tài sản của người về quê ăn tết",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-8-thanh-thieu-nien-chem-cuop-tai-san-cua-nguoi-ve-que-an-tet-185260216100517183.htm",
+      "summary": "Trên đường về quê ăn tết, nam thanh niên (22 tuổi) bị nhóm 8 người chặn đường, chém, cướp tài sản. Lực lượng Cảnh sát hình sự Công an TP.HCM vào cuộc nhanh chóng bắt giữ nghi can.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:23:00+07:00",
+      "fetched": "2026-02-16T11:14:28.596761+07:00"
+    },
+    {
+      "id": "9ec1330ea1a6d55cf65fe2a6376322a0",
+      "title": "Giá bạc trên 79 triệu đồng/kg, có nơi bán xuyên tết",
+      "link": "https://thanhnien.vn/gia-bac-tren-79-trieu-dong-kg-co-noi-ban-xuyen-tet-185260216094308354.htm",
+      "summary": "Mở cửa thị trường hôm nay 16.2, giá mỗi kg bạc được niêm yết quanh mức mua vào gần 77 triệu đồng và bán ra hơn 79 triệu đồng, giảm 80.000 đồng so với chốt tuần qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:20:00+07:00",
+      "fetched": "2026-02-16T11:14:28.596907+07:00"
+    },
+    {
+      "id": "a103fde8c875fab591719773ae6aa10d",
+      "title": "Vợ chồng trọng thương do bị trâu húc trên đường về quê ăn Tết",
+      "link": "https://vnexpress.net/vo-chong-trong-thuong-do-bi-trau-huc-tren-duong-ve-que-an-tet-5041636.html",
+      "summary": "Hai vợ chồng về quê ăn Tết, khi đi qua lò mổ bị con trâu lao ra húc khiến người chồng gãy tay còn vợ thủng tầng sinh môn, nhập viện cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:10:13+07:00",
+      "fetched": "2026-02-16T11:14:25.213311+07:00"
+    },
+    {
+      "id": "7ba01d478e27f155fdddd9abc0edbeec",
+      "title": "Tiểu thương thức thâu đêm 28 tết canh hoa, quyết không để bị ép giá: ‘Ép 1 năm được là ép hoài’",
+      "link": "https://thanhnien.vn/tieu-thuong-thuc-thau-dem-28-tet-canh-hoa-quyet-khong-de-bi-ep-gia-ep-1-nam-duoc-la-ep-hoai-185260216093641626.htm",
+      "summary": "Đêm 28 Tết Bính Ngọ 2026, nhiều tiểu thương bán hoa ở TP.HCM vẫn thức trắng canh sạp, chờ khách. Hoa còn đầy, sức mua giảm, nhưng họ kiên quyết không bán rẻ kiểu ‘ép 1 năm được là ép hoài’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:10:00+07:00",
+      "fetched": "2026-02-16T11:14:28.597055+07:00"
+    },
+    {
+      "id": "4e9261171601a263543b2bd698f5915b",
+      "title": "Thành ngữ Việt Nam nào gắn liền với số 9 và 10?",
+      "link": "https://vnexpress.net/thanh-ngu-viet-nam-nao-gan-lien-voi-so-9-va-10-5040492.html",
+      "summary": "Thành ngữ chỉ những người khoan dung, độ lượng, dễ dãi, không hơn thua, sẵn sàng tha thứ cho người khác, chịu phần thiệt về mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:00:00+07:00",
+      "fetched": "2026-02-16T11:14:25.213471+07:00"
+    },
+    {
+      "id": "855c46fbfaf5a936dc0aea96fb890a85",
+      "title": "5 cách phòng tránh bệnh thận tiết niệu",
+      "link": "https://vnexpress.net/5-cach-phong-tranh-benh-than-tiet-nieu-5041237.html",
+      "summary": "Uống rượu bia vừa phải, tránh nhịn tiểu, bổ sung nước và trái cây trong dịp Tết giúp giảm nguy cơ sỏi thận, nhiễm trùng tiết niệu và các rối loạn đường tiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:00:00+07:00",
+      "fetched": "2026-02-16T11:14:25.213624+07:00"
+    },
+    {
+      "id": "98a97f972f51400b952a8b8441f14210",
+      "title": "Phòng ngừa kích ứng da do nhang khói, bụi bẩn ngày Tết",
+      "link": "https://vnexpress.net/phong-ngua-kich-ung-da-do-nhang-khoi-bui-ban-ngay-tet-5041233.html",
+      "summary": "Hạn chế tiếp xúc khói nhang, bụi mịn, đeo khẩu trang, mũ nón và điều chỉnh sinh hoạt hợp lý giúp giảm nguy cơ kích ứng, bùng phát viêm da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:00:00+07:00",
+      "fetched": "2026-02-16T11:14:25.213778+07:00"
+    },
+    {
+      "id": "ffa3868169239f7db3ba4bafbeaa6ba9",
+      "title": "5 loại trà tốt cho gan nên uống trong dịp Tết",
+      "link": "https://vnexpress.net/5-loai-tra-tot-cho-gan-nen-uong-trong-dip-tet-5041198.html",
+      "summary": "Trà gạo lứt đậu đen, trà xanh, atiso, lá vối giàu vitamin và chất chống oxy hóa hỗ trợ tiêu hóa và tăng cường chức năng gan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:00:00+07:00",
+      "fetched": "2026-02-16T11:14:25.213935+07:00"
+    },
+    {
+      "id": "9778dd338927eedcc3681d3371a9cee7",
+      "title": "Có nên ăn rau sống thường xuyên?",
+      "link": "https://vnexpress.net/co-nen-an-rau-song-thuong-xuyen-5040929.html",
+      "summary": "Ngày Tết, gia đình tôi thường ăn thịt cuốn cùng rau sống, rau trộn… để tránh dầu, mỡ, có ảnh hưởng đến hệ tiêu hóa không? (Hoàng Tân, 25 tuổi, Cần Thơ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T03:00:00+07:00",
+      "fetched": "2026-02-16T11:14:25.214104+07:00"
+    },
+    {
+      "id": "333ccb3f17b9200b086960f6a1a88a42",
+      "title": "Các điểm ngắm pháo hoa đẹp đêm giao thừa tại TP HCM",
+      "link": "https://vnexpress.net/cac-diem-ngam-phao-hoa-dep-dem-giao-thua-tai-tp-hcm-5041483.html",
+      "summary": "TP HCM tổ chức 17 điểm bắn pháo hoa trong đêm giao thừa Tết Bính Ngọ, du khách có thể chọn vị trí tại các không gian công cộng hoặc trong các quán cà phê, nhà hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T02:58:27+07:00",
+      "fetched": "2026-02-16T11:14:25.214254+07:00"
+    },
+    {
+      "id": "79d38e0648b04394729982d40e69260b",
+      "title": "Giới trẻ Trung Quốc chọn du lịch thay vì tụ họp gia đình",
+      "link": "https://vnexpress.net/gioi-tre-trung-quoc-chon-du-lich-thay-vi-tu-hop-gia-dinh-5041550.html",
+      "summary": "Nhiều người trẻ ở Trung Quốc tận dụng kỳ nghỉ Tết truyền thống để đi du lịch, thay vì những cuộc đoàn tụ truyền thống tại quê nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T02:56:00+07:00",
+      "fetched": "2026-02-16T11:14:25.214431+07:00"
+    },
+    {
+      "id": "602c7b6916e160d5ec70f4749d76f58a",
+      "title": "Nấm da lây truyền qua đường tình dục bùng phát tại Mỹ",
+      "link": "https://vnexpress.net/nam-da-lay-truyen-qua-duong-tinh-duc-bung-phat-tai-my-5041677.html",
+      "summary": "Cơ quan y tế bang Minnesota cảnh báo đợt bùng phát nấm da lây truyền qua đường tình dục quy mô lớn nhất Mỹ với hàng chục ca tập trung tại vùng đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T02:54:08+07:00",
+      "fetched": "2026-02-16T11:14:25.214581+07:00"
+    },
+    {
+      "id": "26ead3eefbada8404af6656503efbad5",
+      "title": "Bộ trưởng Hà Lan: Tiêm kích F-35 có thể bị bẻ khóa như iPhone",
+      "link": "https://vnexpress.net/bo-truong-ha-lan-tiem-kich-f-35-co-the-bi-be-khoa-nhu-iphone-5041700.html",
+      "summary": "Bộ trưởng Quốc phòng Hà Lan tuyên bố phần mềm của tiêm kích F-35 có thể \"bị bẻ khóa\" để chấp nhận bản cập nhật của bên thứ ba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T02:44:40+07:00",
+      "fetched": "2026-02-16T11:14:25.214734+07:00"
+    },
+    {
+      "id": "26ead3eefbada8404af6656503efbad5",
+      "title": "Bộ trưởng Hà Lan: Tiêm kích F-35 có thể bị bẻ khóa như iPhone",
+      "link": "https://vnexpress.net/bo-truong-ha-lan-tiem-kich-f-35-co-the-bi-be-khoa-nhu-iphone-5041700.html",
+      "summary": "Bộ trưởng Quốc phòng Hà Lan tuyên bố phần mềm của tiêm kích F-35 có thể \"bị bẻ khóa\" để chấp nhận bản cập nhật của bên thứ ba.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-16T02:44:40+07:00",
+      "fetched": "2026-02-16T11:14:31.870467+07:00"
+    },
+    {
+      "id": "0f5f7cb36bfdc39ca8571d9fdc44f00c",
+      "title": "Nga sẵn sàng ngừng không kích vào ngày Ukraine tổ chức bầu cử",
+      "link": "https://vnexpress.net/nga-san-sang-ngung-khong-kich-vao-ngay-ukraine-to-chuc-bau-cu-5041704.html",
+      "summary": "Quan chức Nga cho biết nếu Kiev quyết định tổ chức bầu cử, Moskva sẵn sàng đảm bảo không tiến hành tập kích trong ngày bỏ phiếu ở Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-16T02:05:56+07:00",
+      "fetched": "2026-02-16T11:14:31.870643+07:00"
+    },
+    {
+      "id": "a596e6bb1b4fcd6c6102a1a40eb2683c",
+      "title": "Tin tặc dùng 100.000 câu lệnh hòng sao chép Google Gemini",
+      "link": "https://vnexpress.net/tin-tac-dung-100-000-cau-lenh-hong-sao-chep-google-gemini-5041453.html",
+      "summary": "Các chuyên gia phát hiện tin tặc cố gắng sao chép Gemini bằng cách tấn công chưng cất kiến thức, trong đó có chiến dịch sử dụng 100.000 câu lệnh (prompt) để hiểu cách Gemini hoạt động.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-16T01:56:19+07:00",
+      "fetched": "2026-02-16T11:14:35.811719+07:00"
     },
     {
       "id": "9c784be1752316a09955d40fb484d5dc",
