@@ -1,7 +1,17 @@
 window.newsData_2026_02_17 = {
   "date": "2026-02-17",
-  "lastUpdated": "2026-02-17T01:30:23.213064+07:00",
+  "lastUpdated": "2026-02-17T03:19:44.154532+07:00",
   "articles": [
+    {
+      "id": "ed6f36cbeb89ab305a428392cd2a64f8",
+      "title": "Một năm chuyển đổi số mạnh mẽ",
+      "link": "https://tuoitre.vn/mot-nam-chuyen-doi-so-manh-me-20260216231018319.htm",
+      "summary": "Năm 2025 ghi dấu sự chuyển mình mạnh mẽ của Việt Nam với rất nhiều dịch vụ được thực hiện nhanh chóng và gọn gàng sau những cú chạm vào màn hình điện thoại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T03:19:37.137313+07:00",
+      "fetched": "2026-02-17T03:19:37.137423+07:00"
+    },
     {
       "id": "31b9681865f6a67135694bbdd0166bd7",
       "title": "Tổng Bí thư: Thủ đô sẽ giành thắng lợi vang dội ngay từ năm đầu của nhiệm kỳ mới",
@@ -153,6 +163,66 @@ window.newsData_2026_02_17 = {
       "fetched": "2026-02-17T01:30:16.366928+07:00"
     },
     {
+      "id": "38f06b1558bff7297ac4e4175a960cfe",
+      "title": "MacBook giá rẻ có thể ra mắt ngày 4/3",
+      "link": "https://vnexpress.net/macbook-gia-re-co-the-ra-mat-ngay-4-3-5041929.html",
+      "summary": "MacBook dùng chip A18 Pro của iPhone, iPad Air thế hệ 8 và MacBook Pro bản M5 Pro, M5 Max có thể ra mắt tại sự kiện ngày 4/3 của Apple.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-16T19:43:10+07:00",
+      "fetched": "2026-02-17T03:19:43.158581+07:00"
+    },
+    {
+      "id": "6c2f67e0e305804a94fcc94a60b573a7",
+      "title": "Đêm giao thừa khắp các tỉnh thành từ góc nhìn flycam",
+      "link": "https://vnexpress.net/dem-giao-thua-khap-cac-tinh-thanh-tu-goc-nhin-flycam-5041928.html",
+      "summary": "Hình ảnh từ trên cao ghi lại không khí đón năm mới Bính Ngọ trên khắp cả nước, với ánh sáng pháo hoa rực rỡ, phố xá nhộn nhịp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T19:19:41+07:00",
+      "fetched": "2026-02-17T03:19:32.187968+07:00"
+    },
+    {
+      "id": "415b8fab1c54ae6f862e856febc3dc89",
+      "title": "Dự báo vận khí năm Bính Ngọ 2026",
+      "link": "https://vnexpress.net/du-bao-van-khi-nam-binh-ngo-2026-5008167.html",
+      "summary": "Năm Bính Ngọ 2026 được dự báo là thời điểm bùng nổ của trí tuệ nhân tạo, công nghệ, truyền thông nhưng cũng đầy thách thức trong việc kiểm soát cảm xúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T18:39:35+07:00",
+      "fetched": "2026-02-17T03:19:32.188157+07:00"
+    },
+    {
+      "id": "f389d84ed692bbf22dd7d8310cdd9f22",
+      "title": "Pháo hoa rực sáng chào xuân Bính Ngọ",
+      "link": "https://vnexpress.net/phao-hoa-ruc-sang-chao-xuan-binh-ngo-5041871.html",
+      "summary": "Đúng 0h mùng 1 Tết (17/2), pháo hoa rực sáng trên bầu trời cả nước, chào đón xuân Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T18:38:41+07:00",
+      "fetched": "2026-02-17T03:19:32.188324+07:00"
+    },
+    {
+      "id": "b58f64c4909c0b3b26d1e1f14c5c6863",
+      "title": "200 y bác sĩ xuyên đêm cuối năm thực hiện 4 ca ghép tạng",
+      "link": "https://vnexpress.net/200-y-bac-si-xuyen-dem-cuoi-nam-thuc-hien-4-ca-ghep-tang-5041910.html",
+      "summary": "Trong thời khắc chuẩn bị bước sang năm mới, Bệnh viện Đại học Y Dược TP HCM huy động hơn 200 nhân sự để thực hiện thành công đồng thời 4 ca ghép tim, gan và thận từ một người hiến chết não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T18:38:40+07:00",
+      "fetched": "2026-02-17T03:19:32.188492+07:00"
+    },
+    {
+      "id": "0fe4758719b09c8485572a1ef139d8fb",
+      "title": "Nước nào người dân dùng cây tiền trang trí năm mới?",
+      "link": "https://vnexpress.net/nuoc-nao-nguoi-dan-dung-cay-tien-trang-tri-nam-moi-5041489.html",
+      "summary": "Nhiều quốc gia đông nam Á đón Tết Nguyên đán có nhiều phong tục kỳ lạ, như mặc đồ chấm bi, trang trí nhà bằng cây tiền để may mắn cả năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T18:30:27+07:00",
+      "fetched": "2026-02-17T03:19:32.188677+07:00"
+    },
+    {
       "id": "81d367ecaf10cfa58b6b7a78a6b65e2d",
       "title": "Pháo hoa rực sáng trên bầu trời Hà Nội mừng năm mới Bính Ngọ 2026",
       "link": "https://thanhnien.vn/phao-hoa-ruc-sang-tren-bau-troi-ha-noi-mung-nam-moi-binh-ngo-2026-18526021600515483.htm",
@@ -171,6 +241,36 @@ window.newsData_2026_02_17 = {
       "category": "Tổng hợp",
       "published": "2026-02-16T18:26:00+07:00",
       "fetched": "2026-02-17T01:30:15.570749+07:00"
+    },
+    {
+      "id": "16dea3588c53fad4ecf8912f6b72fd8c",
+      "title": "Những thương hiệu ôtô gắn liền với loài ngựa",
+      "link": "https://vnexpress.net/nhung-thuong-hieu-oto-gan-lien-voi-loai-ngua-5040253.html",
+      "summary": "Một số hãng xe và mẫu xe lấy loài ngựa tượng trưng cho tốc độ, sức mạnh và di sản thông qua tên gọi hoặc logo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T18:21:00+07:00",
+      "fetched": "2026-02-17T03:19:32.188840+07:00"
+    },
+    {
+      "id": "6c5ea3b1e05a9c7788140bd59c0df1fe",
+      "title": "Người Mỹ đổi thói quen bữa sáng vì giá cà phê tăng vọt",
+      "link": "https://vnexpress.net/nguoi-my-doi-thoi-quen-bua-sang-vi-gia-ca-phe-tang-vot-5041687.html",
+      "summary": "Một số người Mỹ dần từ bỏ thói quen mua cà phê tại quán, chuyển sang tự pha tại nhà hoặc bỏ hoàn toàn khi giá cả tăng vọt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T18:16:24+07:00",
+      "fetched": "2026-02-17T03:19:32.189008+07:00"
+    },
+    {
+      "id": "6c5ea3b1e05a9c7788140bd59c0df1fe",
+      "title": "Người Mỹ đổi thói quen bữa sáng vì giá cà phê tăng vọt",
+      "link": "https://vnexpress.net/nguoi-my-doi-thoi-quen-bua-sang-vi-gia-ca-phe-tang-vot-5041687.html",
+      "summary": "Một số người Mỹ dần từ bỏ thói quen mua cà phê tại quán, chuyển sang tự pha tại nhà hoặc bỏ hoàn toàn khi giá cả tăng vọt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-16T18:16:24+07:00",
+      "fetched": "2026-02-17T03:19:40.403537+07:00"
     },
     {
       "id": "333462d547706f2f07595f49b51fa5f6",
