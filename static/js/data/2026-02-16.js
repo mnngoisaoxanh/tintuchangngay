@@ -1,7 +1,147 @@
 window.newsData_2026_02_16 = {
   "date": "2026-02-16",
-  "lastUpdated": "2026-02-16T19:40:05.706191+07:00",
+  "lastUpdated": "2026-02-16T21:36:06.129775+07:00",
   "articles": [
+    {
+      "id": "a8936f90a8b82142016d7f9ad0b5a033",
+      "title": "Trên đường về quê, nhiều nhân viên y tế quay lại bệnh viện thực hiện thành công 4 ca ghép tạng",
+      "link": "https://tuoitre.vn/tren-duong-ve-que-nhieu-nhan-vien-y-te-quay-lai-benh-vien-thuc-hien-thanh-cong-4-ca-ghep-tang-20260216183153994.htm",
+      "summary": "Trong thời khắc cận kề giao thừa, Bệnh viện Đại học Y Dược TP.HCM đã thực hiện thành công đồng thời 4 ca ghép tạng. Nhiều nhân viên y tế đang trên đường về quê hoặc đang ở bên gia đình đã chủ động quay trở lại bệnh viện để tham gia các ca ghép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T21:35:59.685700+07:00",
+      "fetched": "2026-02-16T21:35:59.685797+07:00"
+    },
+    {
+      "id": "6af9e954202a121f4b6db8095924c43d",
+      "title": "Giao thừa quây quần, mùng 1 Tết đủ lễ nghi, chuyện trò, còn gì tuyệt hơn!",
+      "link": "https://tuoitre.vn/giao-thua-quay-quan-mung-1-tet-du-le-nghi-chuyen-tro-con-gi-tuyet-hon-20260204105103947.htm",
+      "summary": "Một ngày Tết của người trẻ có gì, khi quỹ thời gian cho gia đình ngày càng ít, nhịp sống ngày càng nhanh và cảm xúc cũng nhiều đổi thay?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T21:35:59.685594+07:00",
+      "fetched": "2026-02-16T21:35:59.685690+07:00"
+    },
+    {
+      "id": "d73a0998fd34000a0113d79de2f8cffe",
+      "title": "Sức mua yếu, chợ hoa Tết Quảng Ngãi ế ẩm, tiểu thương đồng loạt xả hàng chiều 29 tháng chạp",
+      "link": "https://tuoitre.vn/suc-mua-yeu-cho-hoa-tet-quang-ngai-e-am-tieu-thuong-dong-loat-xa-hang-chieu-29-thang-chap-20260216184034296.htm",
+      "summary": "Sức mua yếu, chợ hoa Tết ở Quảng Ngãi ế ẩm, chiều 29 Tết tiểu thương đồng loạt xả hàng, một số mang hoa đi vứt thùng rác, hoặc đập chậu… để về nhà sớm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T21:35:59.685488+07:00",
+      "fetched": "2026-02-16T21:35:59.685585+07:00"
+    },
+    {
+      "id": "03aa19622298afeacf7f9c8f0f4d2eed",
+      "title": "29 Tết, giá vàng thế giới biến động mạnh, trong nước giảm 500.000 đồng/lượng",
+      "link": "https://tuoitre.vn/29-tet-gia-vang-the-gioi-bien-dong-manh-trong-nuoc-giam-500-000-dong-luong-20260216185747843.htm",
+      "summary": "Giá vàng thế giới đã rơi xuống mức 4.980 USD/ounce, sau đó bật tăng trở lại. Lúc 18h hôm nay 16-2 (29 tháng chạp), giá vàng thế giới tăng trở lại ngưỡng 5.007 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T21:35:59.685371+07:00",
+      "fetched": "2026-02-16T21:35:59.685479+07:00"
+    },
+    {
+      "id": "c60d9e0be8cba4a009dbeb2f2ffd12c1",
+      "title": "Vận động viên Áo bị loại khỏi chung kết Olympic 2026 vì… giày rộng hơn 4 milimet",
+      "link": "https://tuoitre.vn/van-dong-vien-ao-bi-loai-khoi-chung-ket-olympic-2026-vi-giay-rong-hon-4-milimet-20260216191136118.htm",
+      "summary": "Daniel Tschofenig đã bị loại chỉ vì đôi giày thi đấu trượt tuyết nhảy xa (ski jumping) rộng hơn quy định 4mm ở Olympic mùa đông 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T21:35:59.685264+07:00",
+      "fetched": "2026-02-16T21:35:59.685362+07:00"
+    },
+    {
+      "id": "d2533c1988f4ceb37cc5f9c77be1ad3a",
+      "title": "Thủ tướng gửi thư khen các đơn vị đã thần tốc lắp cầu phao qua sông Lô",
+      "link": "https://tuoitre.vn/thu-tuong-gui-thu-khen-cac-don-vi-da-than-toc-lap-cau-phao-qua-song-lo-2026021619175236.htm",
+      "summary": "Thủ tướng Phạm Minh Chính vừa có thư khen gửi Bộ trưởng Bộ Quốc phòng, Chủ tịch UBND tỉnh Phú Thọ, Tư lệnh Binh chủng Công binh, đánh giá cao ý chí quyết tâm, tinh thần trách nhiệm của các đơn vị thần tốc hoàn thành cầu phao bắc qua sông Lô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T21:35:59.685156+07:00",
+      "fetched": "2026-02-16T21:35:59.685254+07:00"
+    },
+    {
+      "id": "ee2a5d9db8da59fcc3a1b5a97f066fa9",
+      "title": "Ukraine nhận được 4,4 triệu viên đạn cỡ lớn theo sáng kiến của Cộng hòa Czech",
+      "link": "https://tuoitre.vn/ukraine-nhan-duoc-4-4-trieu-vien-dan-co-lon-theo-sang-kien-cua-cong-hoa-czech-20260216184605315.htm",
+      "summary": "Tổng thống Cộng hòa Czech cho biết Ukraine đã nhận 4,4 triệu viên đạn cỡ lớn theo sáng kiến do nước này khởi xướng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T21:35:59.685045+07:00",
+      "fetched": "2026-02-16T21:35:59.685146+07:00"
+    },
+    {
+      "id": "6e5f1a57d6071de5693465c861e7faf6",
+      "title": "Cục Thuế yêu cầu luân chuyển toàn bộ công chức thuế nhà đất, vàng bạc trước ngày 28-2",
+      "link": "https://tuoitre.vn/cuc-thue-yeu-cau-luan-chuyen-toan-bo-cong-chuc-thue-nha-dat-vang-bac-truoc-ngay-28-2-20260216193309769.htm",
+      "summary": "Cục Thuế yêu cầu bố trí, luân chuyển công chức không giữ chức danh lãnh đạo tại bộ phận quản lý thuế trước bạ nhà đất và lĩnh vực kinh doanh vàng bạc trước ngày 28-2, nhằm phòng chống tiêu cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T21:35:59.684927+07:00",
+      "fetched": "2026-02-16T21:35:59.685035+07:00"
+    },
+    {
+      "id": "5eefcf6e6a764da199e62ad3ea9f3c04",
+      "title": "Công an Đồng Tháp cảnh báo tình trạng đánh nhau, tai nạn do rượu bia trong những ngày Tết",
+      "link": "https://tuoitre.vn/cong-an-dong-thap-canh-bao-tinh-trang-danh-nhau-tai-nan-do-ruou-bia-trong-nhung-ngay-tet-20260216192713437.htm",
+      "summary": "Chỉ tính từ ngày 21 đến ngày 29 Tết, lực lượng cảnh sát giao thông Công an tỉnh Đồng Tháp đã xử lý gần 350 vi phạm giao thông có liên quan đến nồng độ cồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T21:35:59.684820+07:00",
+      "fetched": "2026-02-16T21:35:59.684917+07:00"
+    },
+    {
+      "id": "493b79ed49dcf68425c83ad4e9e98782",
+      "title": "Người hâm mộ thờ ơ, Real Madrid phải trả lại 1.500 vé Champions League",
+      "link": "https://tuoitre.vn/nguoi-ham-mo-tho-o-real-madrid-phai-tra-lai-1-500-ve-champions-league-20260216195125083.htm",
+      "summary": "Dù đội nhà đang dẫn đầu La Liga, các CĐV Real Madrid lại tỏ ra không mấy mặn mà với chuyến làm khách đến sân của Benfica ở Champions League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T21:35:59.684712+07:00",
+      "fetched": "2026-02-16T21:35:59.684810+07:00"
+    },
+    {
+      "id": "2a858ed73c849730ab70fdd10d3d8ddf",
+      "title": "Nhật Bản ‘phản pháo’ 3 ngày liên tiếp vì phát biểu của ông Vương Nghị về ‘chủ nghĩa quân phiệt’",
+      "link": "https://tuoitre.vn/nhat-ban-phan-phao-3-ngay-lien-tiep-vi-phat-bieu-cua-ong-vuong-nghi-ve-chu-nghia-quan-phiet-20260216200703763.htm",
+      "summary": "Ngày 16-2, Nhật Bản tiếp tục phản đối tuyên bố của Ngoại trưởng Trung Quốc Vương Nghị khi ông cho rằng Tokyo đang quay trở lại con đường quân phiệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T21:35:59.684603+07:00",
+      "fetched": "2026-02-16T21:35:59.684702+07:00"
+    },
+    {
+      "id": "2e0f593a768deaa1937a64589d6b153b",
+      "title": "Chiều 29 Tết, Thủ tướng chúc người dân tham gia giao thông an toàn qua ứng dụng VNeTraffic",
+      "link": "https://tuoitre.vn/chieu-29-tet-thu-tuong-chuc-nguoi-dan-tham-gia-giao-thong-an-toan-qua-ung-dung-vnetraffic-20260216201509647.htm",
+      "summary": "Qua ứng dụng VNeTraffic, Thủ tướng Phạm Minh Chính và Bộ trưởng Công an Lương Tam Quang đã gửi lời chúc mừng năm mới bình an, mạnh khỏe, lời chúc tham gia giao thông an toàn tới người dân cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T21:35:59.684488+07:00",
+      "fetched": "2026-02-16T21:35:59.684593+07:00"
+    },
+    {
+      "id": "eb7578004e2545191395eba598cb8142",
+      "title": "'Xông' mạng xã hội đầu năm, cần lưu ý gì?",
+      "link": "https://tuoitre.vn/xong-mang-dau-nam-can-luu-y-gi-20260215102357952.htm",
+      "summary": "Dịp năm mới, ngôi nhà vật lý mở cửa đón người, còn ngôi nhà số mở cửa đón những dòng chữ, biểu tượng cảm xúc và sự hiện diện từ xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T21:35:59.684328+07:00",
+      "fetched": "2026-02-16T21:35:59.684476+07:00"
+    },
+    {
+      "id": "baaacb6c9967b7350e4e2aa40982f230",
+      "title": "Âm nhạc, sắc màu và sách khiến du khách thấy Tết Việt rất đặc biệt",
+      "link": "https://tuoitre.vn/am-nhac-sac-mau-va-sach-khien-du-khach-thay-tet-viet-rat-dac-biet-20260216202249554.htm",
+      "summary": "Đó là cảm nhận của du khách nước ngoài khi trải nghiệm không gian lễ hội đường sách Tết Bính Ngọ 2026 trên đường Lê Lợi (phường Sài Gòn) trong ngày 16-2 (29 Tết).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T21:35:59.684104+07:00",
+      "fetched": "2026-02-16T21:35:59.684314+07:00"
+    },
     {
       "id": "4adc18e9b6ad1452c280cc2cdb6c36b8",
       "title": "Nutifood sở hữu dây chuyền sữa công thức đạt chứng nhận hữu cơ Úc",
@@ -423,6 +563,126 @@ window.newsData_2026_02_16 = {
       "fetched": "2026-02-16T15:36:06.603974+07:00"
     },
     {
+      "id": "c6ada2c2ac60508f54ad71aaddff34cc",
+      "title": "Phát hiện xác tàu hơi nước sau gần 60 năm tìm kiếm",
+      "link": "https://thanhnien.vn/phat-hien-xac-tau-hoi-nuoc-sau-gan-60-nam-tim-kiem-185260216211144746.htm",
+      "summary": "Đội tìm kiếm vừa phát hiện xác một con tàu hơi nước bị chìm trong cơn bão trên hồ Michigan ở Mỹ vào cuối thế kỷ 19, kết thúc cuộc tìm kiếm kéo dài gần 60 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:32:00+07:00",
+      "fetched": "2026-02-16T21:35:58.610205+07:00"
+    },
+    {
+      "id": "b9f1aa77737ba7b2cc163e7c91830cd5",
+      "title": "Những người lặng lẽ dọn rác trước giao thừa: 'Thấy phố sạch, chúng tôi ấm lòng'",
+      "link": "https://thanhnien.vn/nhung-nguoi-lang-le-don-rac-truoc-giao-thua-thay-pho-sach-chung-toi-am-long-185260216203857114.htm",
+      "summary": "Trong khi nhiều gia đình chuẩn bị đón giao thừa, các công nhân môi trường vẫn lặng lẽ thu gom rác, dọn sạch phố phường sau chợ hoa xuân. Với họ, niềm vui giản dị là 'thấy phố sạch, chúng tôi ấm lòng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:25:00+07:00",
+      "fetched": "2026-02-16T21:35:58.610361+07:00"
+    },
+    {
+      "id": "b804ec5b0fb9ed82772aebd25bfa3442",
+      "title": "Thế giới chuẩn bị đón Tết Bính Ngọ",
+      "link": "https://vnexpress.net/the-gioi-chuan-bi-don-tet-binh-ngo-5041888.html",
+      "summary": "Người dân châu Á và cộng đồng gốc Á trên khắp thế giới chuẩn bị đón giao thừa, đánh dấu thời khắc bước sang năm mới Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:19:06+07:00",
+      "fetched": "2026-02-16T21:35:55.317048+07:00"
+    },
+    {
+      "id": "b2123fadaf8dcc6a38d2df8ed17ec717",
+      "title": "'Thỏ ơi' dẫn đầu doanh thu trước ngày ra mắt",
+      "link": "https://vnexpress.net/tho-oi-dan-dau-doanh-thu-truoc-ngay-ra-mat-5041880.html",
+      "summary": "\"Thỏ ơi!\" của Trấn Thành đạt hơn 12 tỷ đồng nhờ vé đặt trước, dự kiến doanh thu mở màn tốt nhất trong bốn phim Việt chiếu mùng 1 Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:18:04+07:00",
+      "fetched": "2026-02-16T21:35:55.317212+07:00"
+    },
+    {
+      "id": "b8bd14dbda63d8d1abf60d99125efab4",
+      "title": "Chàng trai trân trọng những bước chân chậm rãi và sự chân thành",
+      "link": "https://vnexpress.net/chang-trai-tran-trong-nhung-buoc-chan-cham-rai-va-su-chan-thanh-5041875.html",
+      "summary": "Chào em - người có thể cũng đang đi tìm một khoảng lặng giữa lòng Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:16:10+07:00",
+      "fetched": "2026-02-16T21:35:55.317305+07:00"
+    },
+    {
+      "id": "5c4e7983bb29d3dc288bcc06478fca7a",
+      "title": "Cô gái 35 tuổi tin vào nhân duyên đến khi mình đã sẵn sàng",
+      "link": "https://vnexpress.net/co-gai-35-tuoi-tin-vao-nhan-duyen-den-khi-minh-da-san-sang-5041874.html",
+      "summary": "Em quê gốc ngoại thành Hà Nội, sống và làm việc tại Hà Nội với công việc văn phòng ổn định tại một cơ quan nhà nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:15:57+07:00",
+      "fetched": "2026-02-16T21:35:55.317388+07:00"
+    },
+    {
+      "id": "1c8e663a45aedf909c17ff0f02c94624",
+      "title": "Cô gái dịu dàng, đi cùng anh nhé",
+      "link": "https://vnexpress.net/co-gai-diu-dang-di-cung-anh-nhe-5041873.html",
+      "summary": "Nếu em muốn bên anh và đi cùng anh qua những ngày tháng bình yên, hãy liên lạc với anh nhé.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:15:42+07:00",
+      "fetched": "2026-02-16T21:35:55.317468+07:00"
+    },
+    {
+      "id": "92a75af90b5294753aaaea855da1ab6f",
+      "title": "Cô gái bị bắt vì tạt sơn nhà người yêu cũ ở TP HCM",
+      "link": "https://vnexpress.net/co-gai-bi-bat-vi-tat-son-nha-nguoi-yeu-cu-o-tp-hcm-5041886.html",
+      "summary": "Cho rằng bạn trai có lỗi trong chuyện chia tay, Phạm Ngọc Mỹ Tiên, 28 tuổi, mua hai thùng sơn tạt vào nhà anh này để trút giận, gây thiệt hại hơn 22 triệu đồng và bị bắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:10:26+07:00",
+      "fetched": "2026-02-16T21:35:55.317606+07:00"
+    },
+    {
+      "id": "118f8209f7339384a5edc83481ba6ab6",
+      "title": "Đêm giao thừa, Binh đoàn 20 phát lệnh làm hàng đầu xuân Bính Ngọ tại Cảng Tân Cảng Cát Lái",
+      "link": "https://thanhnien.vn/dem-giao-thua-binh-doan-20-phat-lenh-lam-hang-dau-xuan-binh-ngo-tai-cang-tan-cang-cat-lai-185260216173753293.htm",
+      "summary": "Đã trở thành truyền thống hằng năm, vào thời khắc chuyển giao giữa năm cũ và năm mới của dân tộc, tối 16.2.2026 (tức 29 Tết), Binh đoàn 20 - Tổng công ty Tân Cảng Sài Gòn tổ chức đón giao thừa và phát lệnh làm hàng đầu xuân tại Cảng Tân Cảng - Cát Lái, cảng container lớn và hiện đại nhất Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:01:00+07:00",
+      "fetched": "2026-02-16T21:35:58.610515+07:00"
+    },
+    {
+      "id": "8282e89e8153e6fb03658930a176d6af",
+      "title": "Chồng kết bạn với hai cô gái gọi",
+      "link": "https://vnexpress.net/chong-ket-ban-voi-hai-co-gai-goi-5041648.html",
+      "summary": "Bình thường chồng tôi rất ngoan, giúp đỡ vợ mọi việc, về nhà không bao giờ vào mạng xã hội, vậy mà lại vừa kết bạn với người lẳng lơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:00:00+07:00",
+      "fetched": "2026-02-16T21:35:55.317738+07:00"
+    },
+    {
+      "id": "9b6f4bac98311be34375a0849cfb30d3",
+      "title": "Chọn trang phục chơi tết - phong cách Parisian chic là 'chuẩn bài'",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chon-trang-phuc-choi-tet-phong-cach-parisian-chic-la-chuan-bai-185260216002339371.htm",
+      "summary": "Không phô trương, phong cách retro - neo classic pha Parisian chic chinh phục bằng chi tiết tinh tế và thần thái thanh lịch đậm chất Pháp, rất phù hợp trong các cuộc giao tiếp vui vẻ ngày tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:00:00+07:00",
+      "fetched": "2026-02-16T21:35:58.610648+07:00"
+    },
+    {
+      "id": "02d00cd758f2703a104be7d37d09b330",
+      "title": "Xúc động câu chuyện nữ công nhân kể về nghề quét rác đường phố cuối năm",
+      "link": "https://thanhnien.vn/xuc-dong-cau-chuyen-nu-cong-nhan-ke-ve-nghe-quet-rac-duong-pho-cuoi-nam-185260216203458894.htm",
+      "summary": "Bà Võ Ngọc Thanh Trúc, Ủy viên Ban Thường vụ Thành ủy, Phó chủ tịch Ủy ban MTTQ Việt Nam TP.HCM, Chủ tịch Hội LHPN TP.HCM thăm hỏi, chúc tết đội ngũ y bác sĩ, nghe nữ công nhân kể chuyện quét rác cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T13:59:00+07:00",
+      "fetched": "2026-02-16T21:35:58.610777+07:00"
+    },
+    {
       "id": "38a9961b67bef511d7bf5d72a9f5e016",
       "title": "Giao thừa gần đến rồi, bạn đã gấp lại năm cũ bằng những việc này chưa?",
       "link": "https://tuoitre.vn/giao-thua-gan-den-roi-ban-da-gap-lai-nam-cu-bang-nhung-viec-nay-chua-20260216083132789.htm",
@@ -571,6 +831,166 @@ window.newsData_2026_02_16 = {
       "category": "Tổng hợp",
       "published": "2026-02-16T13:53:08.131554+07:00",
       "fetched": "2026-02-16T13:53:08.131754+07:00"
+    },
+    {
+      "id": "de04cc7b87bc4492c37bf89807dd23c4",
+      "title": "Ngựa về với người từ khi nào?",
+      "link": "https://thanhnien.vn/ngua-ve-voi-nguoi-tu-khi-nao-185260216170241994.htm",
+      "summary": "Sự ra đời của phương tiện vận chuyển bằng ngựa là một trong những cột mốc quan trọng nhất, kết nối các nền văn minh cổ đại và thay đổi diện mạo chiến tranh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T13:52:00+07:00",
+      "fetched": "2026-02-16T21:35:58.610907+07:00"
+    },
+    {
+      "id": "7d03e9a07d5e9e0e62ec5bbe68ad009c",
+      "title": "Khách Tây đón giao thừa ở trung tâm TP.HCM, chúc mừng năm mới người Việt",
+      "link": "https://thanhnien.vn/khach-tay-don-giao-thua-o-trung-tam-tphcm-chuc-mung-nam-moi-nguoi-viet-185260216204156488.htm",
+      "summary": "Tối nay 16.2, đêm giao thừa 29 tết, khách Tây đến từ khắp các quốc gia trên thế giới hào hứng đổ dồn về trung tâm TP.HCM tham quan đường hoa Nguyễn Huệ. Nhiều người nói lời chúc mừng năm mới bằng tiếng Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T13:48:00+07:00",
+      "fetched": "2026-02-16T21:35:58.611046+07:00"
+    },
+    {
+      "id": "72839f1a9a790af86af4f844826697a0",
+      "title": "Tháng cận Tết Nguyên đán 2026, vì sao thị trường ô tô vẫn sụt giảm?",
+      "link": "https://thanhnien.vn/thang-can-tet-nguyen-dan-2026-vi-sao-thi-truong-o-to-van-sut-giam-18526021513452238.htm",
+      "summary": "Nhiều mẫu mã ô tô tiếp tục được ưu đãi, giảm giá, nhu cầu mua sắm ô tô được dự báo tăng trưởng khi bước vào tháng 1.2026 - thời điểm cận Tết Nguyên đán 2026… nhưng thực tế doanh số thị trường ô tô vẫn sụt giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T13:45:00+07:00",
+      "fetched": "2026-02-16T21:35:58.611175+07:00"
+    },
+    {
+      "id": "0bf27d30ab8933fd8ff8e57a4d0b74d3",
+      "title": "Tháng đầu năm 2026, ô tô nhập từ Trung Quốc ồ ạt vào Việt Nam",
+      "link": "https://thanhnien.vn/thang-dau-nam-2026-o-to-nhap-tu-trung-quoc-o-at-vao-viet-nam-185260214062722213.htm",
+      "summary": "Hơn 15.000 ô tô nhập khẩu vào Việt Nam trong tháng 1.2026, trong đó số lượng ô tô Trung Quốc chiếm gần 7.000 xe, lần đầu tiên vượt xe sản xuất lắp ráp từ Thái Lan, Indonesia về cả số lượng cũng như giá trị nhập khẩu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T13:43:00+07:00",
+      "fetched": "2026-02-16T21:35:58.611302+07:00"
+    },
+    {
+      "id": "e2e00e4a2328e6fd300758315a9ae5d9",
+      "title": "Sạp 'Minh Rau' tặng rau miễn phí ngày cuối năm: 'Lấy nhiều về ăn tết cũng được'",
+      "link": "https://thanhnien.vn/sap-minh-rau-tang-rau-mien-phi-ngay-cuoi-nam-lay-nhieu-ve-an-tet-cung-duoc-185260216143946612.htm",
+      "summary": "Ngày 29 tết, sạp rau miễn phí của anh Phạm Hồng Minh, thường được gọi là 'Minh rau' trao tặng những bó rau 0 đồng, khiến nhiều người nhận không khỏi xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T13:30:00+07:00",
+      "fetched": "2026-02-16T21:35:58.611435+07:00"
+    },
+    {
+      "id": "7c690eacdce7b10e63de2a4cfb85505b",
+      "title": "Bất ngờ loại 'Wagyu thịt lợn' lên ngôi tết này ở Trung Quốc",
+      "link": "https://thanhnien.vn/bat-ngo-loai-wagyu-thit-lon-len-ngoi-tet-nay-o-trung-quoc-185260205231147323.htm",
+      "summary": "Loại thịt cao cấp từ lợn đen, có giá gấp bốn lần thịt lợn trắng, vẫn là một trong số ít phân khúc sinh lời khi Trung Quốc lâm vào tình hướng thịt lợn dư thừa nguồn cung và giá cả tuột dốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T13:26:00+07:00",
+      "fetched": "2026-02-16T21:35:58.611562+07:00"
+    },
+    {
+      "id": "48f2b4a0f2f2e4a25ef3bb3749fea8e0",
+      "title": "Mưu sinh ở Bến Bình Đông: Những chiếc ghe chở cả một cái tết",
+      "link": "https://thanhnien.vn/muu-sinh-o-ben-binh-dong-nhung-chiec-ghe-cho-ca-mot-cai-tet-185260216202726922.htm",
+      "summary": "Dọc kênh Tàu Hủ – Bến Bình Đông (phường Phú Định, TP.HCM) những ngày này trở nên nhộn nhịp với những chiếc ghe chở đầy hoa và cây cảnh. Với nhiều tiểu thương, đây không chỉ là mùa buôn bán lớn nhất trong năm mà còn là thời điểm quyết định cả cái tết của gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T13:24:00+07:00",
+      "fetched": "2026-02-16T21:35:58.611690+07:00"
+    },
+    {
+      "id": "aedfb62bf7c3014406e51141829fde59",
+      "title": "Bất ngờ những câu chuyện chân thành từ 'Tết cảm ơn'",
+      "link": "https://thanhnien.vn/bat-ngo-nhung-cau-chuyen-chan-thanh-tu-tet-cam-on-185260216202017019.htm",
+      "summary": "Giữa không khí phố xá rộn ràng những ngày cận Tết Bính Ngọ, một cuộc thi nhỏ mang tên “Tết cảm ơn” lại lặng lẽ chạm đến những điều rất lớn: lời tri ân dành cho gia đình, thầy cô, bạn bè và cả những người xa lạ đã nâng đỡ nhau qua một năm nhiều biến động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T13:20:00+07:00",
+      "fetched": "2026-02-16T21:35:58.611817+07:00"
+    },
+    {
+      "id": "def877853589f3e44590cca0f437b3eb",
+      "title": "Ông Tập: Trung Quốc vượt nhiều khó khăn trong năm Ất Tỵ",
+      "link": "https://vnexpress.net/ong-tap-trung-quoc-vuot-nhieu-kho-khan-trong-nam-at-ty-5041868.html",
+      "summary": "Ông Tập Cận Bình khẳng định Trung Quốc đã vượt qua năm Ất Tỵ nhiều khó khăn, đạt tiến bộ trên loạt lĩnh vực bất chấp bối cảnh bất ổn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T13:11:03+07:00",
+      "fetched": "2026-02-16T21:35:55.317868+07:00"
+    },
+    {
+      "id": "def877853589f3e44590cca0f437b3eb",
+      "title": "Ông Tập: Trung Quốc vượt nhiều khó khăn trong năm Ất Tỵ",
+      "link": "https://vnexpress.net/ong-tap-trung-quoc-vuot-nhieu-kho-khan-trong-nam-at-ty-5041868.html",
+      "summary": "Ông Tập Cận Bình khẳng định Trung Quốc đã vượt qua năm Ất Tỵ nhiều khó khăn, đạt tiến bộ trên loạt lĩnh vực bất chấp bối cảnh bất ổn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-16T13:11:03+07:00",
+      "fetched": "2026-02-16T21:36:00.904363+07:00"
+    },
+    {
+      "id": "68349c5070a4e6c9fab5f104bea2d3cc",
+      "title": "TP.HCM giao thừa 29 tết: Đông nghẹt người dân, du khách đổ về đường hoa Nguyễn Huệ",
+      "link": "https://thanhnien.vn/tphcm-giao-thua-29-tet-dong-nghet-nguoi-dan-du-khach-do-ve-duong-hoa-nguyen-hue-185260216194021816.htm",
+      "summary": "Đêm 16.2 nhằm ngày 29 tết, đông nghẹt người đổ về đường hoa Nguyễn Huệ Tết Bính Ngọ 2026 tham quan, chụp ảnh cũng như chờ ngắm khoảnh khắc pháo hoa mừng giao thừa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T13:02:00+07:00",
+      "fetched": "2026-02-16T21:35:58.611943+07:00"
+    },
+    {
+      "id": "2f1786a83657eaa17a46cd51f569752c",
+      "title": "Tổng Bí thư chúc Tết, mừng tuổi người dân Thủ đô",
+      "link": "https://vnexpress.net/khong-khi-don-giao-thua-binh-ngo-tren-ca-nuoc-5041860.html",
+      "summary": "Tối 29 tháng Chạp, Tổng Bí thư Tô Lâm thắp hương tại tượng đài vua Lý Thái Tổ, chúc Tết, lì xì người dân Thủ đô và lực lượng làm nhiệm vụ ở khu vực hồ Hoàn Kiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T13:00:00+07:00",
+      "fetched": "2026-02-16T21:35:55.317998+07:00"
+    },
+    {
+      "id": "a7df0e8e5eb7155540a22afeb9d1f029",
+      "title": "Con rắn dài nhất thế giới dài bao nhiêu mét?",
+      "link": "https://vnexpress.net/con-ran-dai-nhat-the-gioi-dai-bao-nhieu-met-5040518.html",
+      "summary": "Con rắn này vừa phá kỷ lục dài 6,95 m đã tồn tại gần 30 năm. Bạn có biết nó khoảng bao nhiêu mét?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T13:00:00+07:00",
+      "fetched": "2026-02-16T21:35:55.318148+07:00"
+    },
+    {
+      "id": "313221734d05dff82f3d11d002989c10",
+      "title": "Xem nhanh 20h 29 tết: Tiểu thương bán hoa quyết không để bị ép giá | Chuyến xe vội về giao thừa",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-29-tet-tieu-thuong-ban-hoa-quyet-khong-de-bi-ep-gia-chuyen-xe-voi-ve-giao-thua-185260216193802699.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 15.2 có nhiều tin tức đáng chú ý về: Tiểu thương thức thâu đêm 28 tết canh hoa, quyết không để bị ép giá; Tân Sơn Nhất bớt đông đúc ngày 29 tết: Chờ chuyến bay cuối về nhà đoàn viên;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T13:00:00+07:00",
+      "fetched": "2026-02-16T21:35:58.612082+07:00"
+    },
+    {
+      "id": "a0a16e4ea52a478ba28fb1945570f113",
+      "title": "Ông Obama đính chính tuyên bố 'người ngoài hành tinh có thật'",
+      "link": "https://vnexpress.net/ong-obama-dinh-chinh-tuyen-bo-nguoi-ngoai-hanh-tinh-co-that-5041853.html",
+      "summary": "Cựu tổng thống Obama khẳng định ông chưa từng thấy bằng chứng nào về người ngoài hành tinh, không lâu sau khi nói họ \"có thật\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T12:39:16+07:00",
+      "fetched": "2026-02-16T21:35:55.318278+07:00"
+    },
+    {
+      "id": "a0a16e4ea52a478ba28fb1945570f113",
+      "title": "Ông Obama đính chính tuyên bố 'người ngoài hành tinh có thật'",
+      "link": "https://vnexpress.net/ong-obama-dinh-chinh-tuyen-bo-nguoi-ngoai-hanh-tinh-co-that-5041853.html",
+      "summary": "Cựu tổng thống Obama khẳng định ông chưa từng thấy bằng chứng nào về người ngoài hành tinh, không lâu sau khi nói họ \"có thật\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-16T12:39:16+07:00",
+      "fetched": "2026-02-16T21:36:00.904519+07:00"
     },
     {
       "id": "f063aad42a5a661ae42e731d5ea7550d",
