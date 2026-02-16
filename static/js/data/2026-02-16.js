@@ -1,7 +1,137 @@
 window.newsData_2026_02_16 = {
   "date": "2026-02-16",
-  "lastUpdated": "2026-02-16T21:36:06.129775+07:00",
+  "lastUpdated": "2026-02-16T23:32:39.479532+07:00",
   "articles": [
+    {
+      "id": "2d81b70103d843023b22e35309120db0",
+      "title": "Sẽ đồng loạt kiểm tra nồng độ cồn từ 10h sáng mùng 1, camera AI 'không nghỉ Tết'",
+      "link": "https://tuoitre.vn/se-dong-loat-kiem-tra-nong-do-con-tu-10h-sang-mung-1-camera-ai-khong-nghi-tet-2026021620344785.htm",
+      "summary": "Quá trình kiểm soát nồng độ cồn đối với các tài xế được thực hiện quyết liệt, xử lý nghiêm vi phạm với tinh thần 'không có vùng cấm, không có ngoại lệ, không vì ngại kiêng ngày Tết'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T23:32:33.352840+07:00",
+      "fetched": "2026-02-16T23:32:33.352954+07:00"
+    },
+    {
+      "id": "a4a32cf480a86e2e1c54cd54929293e5",
+      "title": "Tạm giam người đốt 2 xe ô tô và cửa chùa",
+      "link": "https://tuoitre.vn/tam-giam-nguoi-dot-2-xe-o-to-va-cua-chua-20260216172236769.htm",
+      "summary": "Công an TP Hải Phòng nhanh chóng bắt giữ người gây ra vụ đốt hai xe ô tô và cửa chùa Sùng Khánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T23:32:33.352711+07:00",
+      "fetched": "2026-02-16T23:32:33.352828+07:00"
+    },
+    {
+      "id": "a14cf7ef866fb644a148894ac37fddfb",
+      "title": "Lọ thủy tinh 1.900 năm tuổi hé lộ toa thuốc gây sốc thời La Mã cổ đại",
+      "link": "https://tuoitre.vn/lo-thuy-tinh-1-900-nam-tuoi-he-lo-toa-thuoc-gay-soc-thoi-la-ma-co-dai-20260216210147399.htm",
+      "summary": "Phân tích hóa học lọ thủy tinh 1.900 năm tuổi tại Thổ Nhĩ Kỳ cho thấy người La Mã cổ đại từng dùng phân người làm thuốc trị bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T23:32:33.352584+07:00",
+      "fetched": "2026-02-16T23:32:33.352700+07:00"
+    },
+    {
+      "id": "f9ca6a024181b7d58a5623f376f0b0eb",
+      "title": "Tấm thẻ bài Pokemon lập kỷ lục Guinness khi bán giá 16,5 triệu USD",
+      "link": "https://tuoitre.vn/tam-the-bai-pokemon-lap-ky-luc-guiness-khi-ban-gia-16-5-trieu-usd-20260216210632926.htm",
+      "summary": "Tấm thẻ bài Pokemon được một nhà sáng tạo nội dung nổi tiếng người Mỹ đấu giá đã phá sâu kỷ lục trước đó trong giới sưu tầm thẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T23:32:33.352456+07:00",
+      "fetched": "2026-02-16T23:32:33.352573+07:00"
+    },
+    {
+      "id": "6ab480d6822efb604e2be33a501d8543",
+      "title": "Mỹ Tâm sên mứt, dàn nghệ sĩ 2 ngày 1 đêm mong năm mới cả nhà trải đầy hoa trước thềm Tết Bính Ngọ",
+      "link": "https://tuoitre.vn/my-tam-sen-mut-dan-nghe-si-2-ngay-1-dem-mong-nam-moi-ca-nha-trai-day-hoa-truoc-them-tet-binh-ngo-20260216211251561.htm",
+      "summary": "Loạt nghệ sĩ check-in Tết Bính Ngọ 2026 và gửi lời chúc mừng năm mới tới khán giả: Mỹ Tâm, Thanh Lam, Đen Vâu, Hoàng Thùy Linh, Trung Quân, HIEUTHUHAI...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T23:32:33.352317+07:00",
+      "fetched": "2026-02-16T23:32:33.352444+07:00"
+    },
+    {
+      "id": "cde1efdcec16bd17200e7b9647e93d57",
+      "title": "Ông Rubio: Quan hệ Mỹ - Hungary bước vào 'kỷ nguyên vàng', cam kết ủng hộ Thủ tướng Orban",
+      "link": "https://tuoitre.vn/ong-rubio-quan-he-my-hungary-buoc-vao-ky-nguyen-vang-cam-ket-ung-ho-thu-tuong-orban-20260216211208303.htm",
+      "summary": "Ngoại trưởng Mỹ cho biết Tổng thống Trump cam kết ủng hộ Thủ tướng Hungary, khẳng định quan hệ hai nước vào \"kỷ nguyên vàng\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T23:32:33.352168+07:00",
+      "fetched": "2026-02-16T23:32:33.352303+07:00"
+    },
+    {
+      "id": "31b9681865f6a67135694bbdd0166bd7",
+      "title": "Tổng Bí thư: Thủ đô sẽ giành thắng lợi vang dội ngay từ năm đầu của nhiệm kỳ mới",
+      "link": "https://tuoitre.vn/tong-bi-thu-thu-do-se-gianh-thang-loi-vang-doi-ngay-tu-nam-dau-cua-nhiem-ky-moi-20260216213234365.htm",
+      "summary": "Tổng Bí thư Tô Lâm cùng Đoàn công tác của Trung ương tới dâng hương tại Tượng đài vua Lý Thái Tổ; thăm, chúc Tết Đảng bộ, chính quyền và nhân dân Thủ đô Hà Nội (tại Trụ sở Thành ủy Hà Nội).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T23:32:33.352042+07:00",
+      "fetched": "2026-02-16T23:32:33.352157+07:00"
+    },
+    {
+      "id": "df6e13043b3bf8ba5f587debac79e3c9",
+      "title": "Giao thừa nhộn nhịp tại Cát Lái: những chuyến tàu hàng đầu xuân, tăng tốc sản xuất",
+      "link": "https://tuoitre.vn/giao-thua-nhon-nhip-tai-cat-lai-nhung-chuyen-tau-hang-dau-xuan-tang-toc-san-xuat-20260216213921631.htm",
+      "summary": "Ngay gần thời khắc giao thừa Tết Bính Ngọ 2026, tối ngày 16-2 (tức 29 tháng chạp), tại cảng Tân Cảng Cát Lái (TP.HCM), Tổng công ty Tân Cảng Sài Gòn (Binh đoàn 20) tổ chức lễ phát lệnh làm hàng đầu xuân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T23:32:33.351913+07:00",
+      "fetched": "2026-02-16T23:32:33.352031+07:00"
+    },
+    {
+      "id": "29e7f464bcef78ec3058d98b7ce0febb",
+      "title": "'Vòm Tình Nhân' ở Ý sụp đổ đúng ngày Valentine",
+      "link": "https://tuoitre.vn/vom-tinh-nhan-o-y-sup-do-dung-ngay-valentine-2026021621545068.htm",
+      "summary": "Vòm đá nổi tiếng ở Ý sụp đổ ngay ngày lễ Valentine sau nhiều ngày hứng chịu sóng lớn và mưa dữ dội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T23:32:33.351784+07:00",
+      "fetched": "2026-02-16T23:32:33.351901+07:00"
+    },
+    {
+      "id": "4ee89fb7896fa6eb8544436cbe997b6d",
+      "title": "Bé trai đi trên cao tốc vào đêm giao thừa, cảnh sát giao thông kịp thời liên hệ gia đình",
+      "link": "https://tuoitre.vn/be-trai-di-tren-cao-toc-vao-dem-giao-thua-canh-sat-giao-thong-kip-thoi-lien-he-gia-dinh-2026021622060057.htm",
+      "summary": "Bố mẹ cháu bé cho biết dù chuẩn bị tới khoảnh khắc giao thừa, gia đình vẫn tìm kiếm con nhưng không thấy, nên rất hoang mang. Hay tin cháu bé an toàn, họ \"thở phào\" và xúc động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T23:32:33.351655+07:00",
+      "fetched": "2026-02-16T23:32:33.351773+07:00"
+    },
+    {
+      "id": "c168fb6952434beeba55145bd3acb8c5",
+      "title": "Nhà máy lọc hóa dầu Nghi Sơn chạy xuyên Tết với 125% công suất",
+      "link": "https://tuoitre.vn/nha-may-loc-hoa-dau-nghi-son-chay-xuyen-tet-voi-125-cong-suat-20260216214550495.htm",
+      "summary": "Tết Bính Ngọ 2026 này, Nhà máy lọc hóa dầu Nghi Sơn, tỉnh Thanh Hóa vận hành liên tục, ổn định với công suất 125% so với thiết kế để ổn định nguồn cung xăng dầu ra thị trường, đảm bảo an ninh năng lượng quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T23:32:33.351522+07:00",
+      "fetched": "2026-02-16T23:32:33.351643+07:00"
+    },
+    {
+      "id": "db17cc2100ecce52fd02731533814428",
+      "title": "buitruonglinh chúc bạn đọc Tuổi Trẻ 'một năm cực kỳ vui tươi'",
+      "link": "https://tuoitre.vn/buitruonglinh-chuc-ban-doc-tuoi-tre-mot-nam-cuc-ky-vui-tuoi-20260215095033634.htm",
+      "summary": "Ca sĩ trẻ buitruonglinh gửi lời chúc Tết Bính Ngọ đến bạn đọc báo Tuổi Trẻ: Chúc mọi người năm mới an khang, thịnh vượng, thật nhiều niềm vui, sức khỏe để có một năm 2026 cực kỳ vui tươi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T23:32:33.351379+07:00",
+      "fetched": "2026-02-16T23:32:33.351510+07:00"
+    },
+    {
+      "id": "9bbf1e65e6c39165dc408f709dca96ab",
+      "title": "Trước giao thừa, Chủ tịch nước Lương Cường dâng hương tưởng niệm Chủ tịch Hồ Chí Minh",
+      "link": "https://tuoitre.vn/truoc-giao-thua-chu-tich-nuoc-luong-cuong-dang-huong-tuong-niem-chu-tich-ho-chi-minh-20260216192536378.htm",
+      "summary": "Trước thời khắc giao thừa, Chủ tịch nước Lương Cường tới dâng hương tưởng niệm Chủ tịch Hồ Chí Minh tại Nhà 67 và tại trụ sở cơ quan Văn phòng Chủ tịch nước (số 2 Lê Thạch).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T23:32:33.351126+07:00",
+      "fetched": "2026-02-16T23:32:33.351364+07:00"
+    },
     {
       "id": "a8936f90a8b82142016d7f9ad0b5a033",
       "title": "Trên đường về quê, nhiều nhân viên y tế quay lại bệnh viện thực hiện thành công 4 ca ghép tạng",
@@ -413,6 +543,106 @@ window.newsData_2026_02_16 = {
       "fetched": "2026-02-16T17:39:54.565008+07:00"
     },
     {
+      "id": "6fb289db4dd0cbd60f1486a6a0693cbd",
+      "title": "Nhà ba tầng ở TP.HCM cháy dữ dội đêm giao thừa",
+      "link": "https://thanhnien.vn/nha-ba-tang-o-tphcm-chay-du-doi-dem-giao-thua-185260216231156554.htm",
+      "summary": "Trong khi nhiều gia đình tất bật đón giao thừa, căn nhà ba tầng ở TP.HCM bất ngờ bốc cháy ngùn ngụt, khói lửa cuồn cuộn giữa khu dân cư khiến nhiều người hoảng loạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T16:22:00+07:00",
+      "fetched": "2026-02-16T23:32:32.348226+07:00"
+    },
+    {
+      "id": "06bf5b9e3ab07d2fa5d8889bf47913d2",
+      "title": "Người dân đổ về trung tâm Hà Nội, TP HCM chờ khoảnh khắc giao thừa",
+      "link": "https://vnexpress.net/nguoi-dan-do-ve-trung-tam-ha-noi-tp-hcm-cho-khoanh-khac-giao-thua-5041911.html",
+      "summary": "Nhiều nhóm bạn, gia đình đã chọn chỗ đẹp quanh Hồ Hoàn Kiếm và bờ sông Bến Bạch Đằng, chờ xem pháo hoa mở màn năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T16:07:42+07:00",
+      "fetched": "2026-02-16T23:32:29.213385+07:00"
+    },
+    {
+      "id": "568842ee0b15ff0ba8221a02e2b94bd8",
+      "title": "Lãnh đạo tỉnh Lâm Đồng tặng quà tết công nhân vệ sinh trong đêm giao thừa",
+      "link": "https://thanhnien.vn/lanh-dao-tinh-lam-dong-tang-qua-tet-cong-nhan-ve-sinh-trong-dem-giao-thua-185260216223052775.htm",
+      "summary": "Đêm giao thừa Tết Nguyên đán Bính Ngọ 2026, Bí thư Tỉnh ủy Lâm Đồng Y Thanh Hà Niê Kđăm cùng lãnh đạo tỉnh đến thăm, chúc tết và tặng quà 40 công nhân vệ sinh môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T16:05:00+07:00",
+      "fetched": "2026-02-16T23:32:32.348423+07:00"
+    },
+    {
+      "id": "92d84e52bbc77ce00b8035b6576114b1",
+      "title": "Tổng thống Ba Lan muốn phát triển vũ khí hạt nhân",
+      "link": "https://vnexpress.net/tong-thong-ba-lan-muon-phat-trien-vu-khi-hat-nhan-5041897.html",
+      "summary": "Tổng thống Nawrocki cho rằng Ba Lan nên phát triển hệ thống phòng thủ hạt nhân nhằm đề phòng \"mối đe dọa\" từ Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:56:32+07:00",
+      "fetched": "2026-02-16T23:32:29.213570+07:00"
+    },
+    {
+      "id": "92d84e52bbc77ce00b8035b6576114b1",
+      "title": "Tổng thống Ba Lan muốn phát triển vũ khí hạt nhân",
+      "link": "https://vnexpress.net/tong-thong-ba-lan-muon-phat-trien-vu-khi-hat-nhan-5041897.html",
+      "summary": "Tổng thống Nawrocki cho rằng Ba Lan nên phát triển hệ thống phòng thủ hạt nhân nhằm đề phòng \"mối đe dọa\" từ Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-16T15:56:32+07:00",
+      "fetched": "2026-02-16T23:32:34.838555+07:00"
+    },
+    {
+      "id": "c3be413d0ea961002baf5a56a82185f6",
+      "title": "Robot Trung Quốc múa côn, biểu diễn túy quyền trong gala năm mới",
+      "link": "https://vnexpress.net/robot-trung-quoc-mua-con-bieu-dien-tuy-quyen-trong-gala-nam-moi-5041906.html",
+      "summary": "Robot hình người của Trung Quốc thể hiện kỹ năng nhào lộn, múa võ cùng các em nhỏ trong gala chào năm mới Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:47:56+07:00",
+      "fetched": "2026-02-16T23:32:29.213737+07:00"
+    },
+    {
+      "id": "c3be413d0ea961002baf5a56a82185f6",
+      "title": "Robot Trung Quốc múa côn, biểu diễn túy quyền trong gala năm mới",
+      "link": "https://vnexpress.net/robot-trung-quoc-mua-con-bieu-dien-tuy-quyen-trong-gala-nam-moi-5041906.html",
+      "summary": "Robot hình người của Trung Quốc thể hiện kỹ năng nhào lộn, múa võ cùng các em nhỏ trong gala chào năm mới Bính Ngọ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-16T15:47:56+07:00",
+      "fetched": "2026-02-16T23:32:38.474289+07:00"
+    },
+    {
+      "id": "9b37fb6c1907907f9ca56e5336c1fb39",
+      "title": "Chuyến tàu cuối cùng năm Ất Tỵ rời ga Hà Nội",
+      "link": "https://thanhnien.vn/chuyen-tau-cuoi-cung-nam-at-ty-roi-ga-ha-noi-185260216221705572.htm",
+      "summary": "Chuyến tàu cuối cùng năm Ất Tỵ vừa chở hàng trăm hành khách rời Hà Nội vào TP.HCM. Với hành trình dài 1.700 km, họ sẽ có khoảnh khắc đón năm mới ngay trên tàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:43:00+07:00",
+      "fetched": "2026-02-16T23:32:32.348584+07:00"
+    },
+    {
+      "id": "4fa9e64835e9dbc6d951b1e415003cd6",
+      "title": "Nhà ba tầng ở TP HCM cháy ngùn ngụt đêm Giao thừa",
+      "link": "https://vnexpress.net/nha-ba-tang-o-tp-hcm-chay-ngun-ngut-dem-giao-thua-5041909.html",
+      "summary": "Khói lửa bùng lên ở tầng ba của ngôi nhà ở quận Gò Vấp cũ khiến cả khu dân cư hoảng loạn, ngày 29 tháng Chạp (16/2).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:42:30+07:00",
+      "fetched": "2026-02-16T23:32:29.213895+07:00"
+    },
+    {
+      "id": "17915d81de3051e545cf61d7cbbe9427",
+      "title": "Tổng Bí thư Tô Lâm: Hoan nghênh Hà Nội đã dám nhìn thẳng vào sự thật",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-hoan-nghenh-ha-noi-da-dam-nhin-thang-vao-su-that-185260216221018642.htm",
+      "summary": "Tổng Bí thư Tô Lâm hoan nghênh Hà Nội đã dám nhìn thẳng vào sự thật, với quyết tâm chính trị cao, mạnh dạn đổi mới tư duy, nghĩ lớn, làm lớn khi đề xuất quy hoạch tầm nhìn 100 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:39:00+07:00",
+      "fetched": "2026-02-16T23:32:32.348740+07:00"
+    },
+    {
       "id": "19493a8c03dd9618ca49946de7dce37a",
       "title": "Nhóm người cầm súng xông vào quán cắt tóc đòi tiền chiều 27 Tết: Khởi tố 3 người tội cướp tài sản",
       "link": "https://tuoitre.vn/nhom-nguoi-cam-sung-xong-vao-quan-cat-toc-doi-tien-chieu-27-tet-khoi-to-3-nghi-can-20260216131346277.htm",
@@ -563,6 +793,146 @@ window.newsData_2026_02_16 = {
       "fetched": "2026-02-16T15:36:06.603974+07:00"
     },
     {
+      "id": "933a843419781809d763141ab8a82e69",
+      "title": "Phó pháp chủ Giáo hội Phật giáo Việt Nam: An lạc, hòa hợp, đoàn kết để 'mã đáo thành công'",
+      "link": "https://thanhnien.vn/pho-phap-chu-giao-hoi-phat-giao-viet-nam-an-lac-hoa-hop-doan-ket-de-ma-dao-thanh-cong-185260216145359591.htm",
+      "summary": "Trong thông điệp xuân Bính Ngọ 2026, trưởng lão hòa thượng Thích Thiện Nhơn mong mỗi phật tử trong năm mới đều có thể giữ được tâm an lạc, cùng nhau lan tỏa tinh thần từ bi, trí tuệ của đạo Phật vào đời sống thường nhật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:25:00+07:00",
+      "fetched": "2026-02-16T23:32:32.348891+07:00"
+    },
+    {
+      "id": "f07ed170ccd042dcdac0fe6e03eef064",
+      "title": "Ngư dân trúng đậm ruốc biển ngày cuối năm",
+      "link": "https://vnexpress.net/ngu-dan-trung-dam-ruoc-bien-ngay-cuoi-nam-5041887.html",
+      "summary": "Ngày 27-29 Tết, ngư dân xã Đồng Tiến dùng thuyền ra khơi đánh bắt được 500 kg đến 4 tấn ruốc, đem bán thu từ 4,5-36 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:23:08+07:00",
+      "fetched": "2026-02-16T23:32:29.214050+07:00"
+    },
+    {
+      "id": "fbd7b78f7f86efacb6aad01b30b0e103",
+      "title": "TP.HCM trước đêm giao thừa: Người dân gửi lời chào năm Bính Ngọ",
+      "link": "https://thanhnien.vn/tphcm-truoc-dem-giao-thua-nguoi-dan-gui-loi-chao-nam-binh-ngo-185260216221231955.htm",
+      "summary": "Trong những thời khắc cuối cùng của năm Ất Tỵ, TP.HCM mang một dáng vẻ vừa chậm rãi nhẹ nhàng, nhưng cũng vừa háo hức bồn chồn để chuẩn bị đón chào khoảnh khắc giao thừa thiêng liêng. Trong những giờ cuối cùng này lại xen vào nhau cảm xúc lẫn lộn",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:19:00+07:00",
+      "fetched": "2026-02-16T23:32:32.349041+07:00"
+    },
+    {
+      "id": "ce56e5d579483f77fc887b30eb15eb7b",
+      "title": "'Biển người' ở trung tâm TP.HCM chờ ngắm pháo hoa giao thừa Tết Bính Ngọ 2026",
+      "link": "https://thanhnien.vn/bien-nguoi-o-trung-tam-tphcm-cho-ngam-phao-hoa-giao-thua-tet-binh-ngo-2026-185260216221136361.htm",
+      "summary": "Chỉ còn vài tiếng nữa là đến giao thừa 2026, đông nghẹt người ở trung tâm TP.HCM ngồi lại cùng nhau, chờ ngắm màn pháo hoa tầm cao bắn lên bầu trời thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:14:00+07:00",
+      "fetched": "2026-02-16T23:32:32.349192+07:00"
+    },
+    {
+      "id": "89b4d9d38b7800431b2a6f42a98679ee",
+      "title": "Người dân đổ về hồ Hoàn Kiếm đợi pháo hoa đón giao thừa",
+      "link": "https://thanhnien.vn/nguoi-dan-do-ve-ho-hoan-kiem-doi-phao-hoa-don-giao-thua-185260216215046591.htm",
+      "summary": "Tối 16.2 (tức 29 tháng chạp năm Bính Ngọ), rất đông người dân và du khách đã đổ về khu vực hồ Hoàn Kiếm (Hà Nội) để chờ đón màn pháo hoa giao thừa, khép lại một năm cũ và mở ra thời khắc thiêng liêng của năm mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:09:00+07:00",
+      "fetched": "2026-02-16T23:32:32.349379+07:00"
+    },
+    {
+      "id": "c5982521555efa8ff062e3f73c87c284",
+      "title": "Người dân xứ Huế du xuân sớm, rộn ràng sắc áo dài ngày cuối năm",
+      "link": "https://thanhnien.vn/nguoi-dan-xu-hue-du-xuan-som-ron-rang-sac-ao-dai-ngay-cuoi-nam-185260216220647015.htm",
+      "summary": "Không đợi đến mùng 1 tết, người dân Huế đã rộn ràng xuống phố du xuân trong ngày cuối năm. Trong sắc nắng dịu nhẹ và nhịp sống chậm rãi của đất cố đô, tà áo dài truyền thống tung bay khắp phố phường, mở đầu một mùa tết đậm hồn xứ Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:08:00+07:00",
+      "fetched": "2026-02-16T23:32:32.349539+07:00"
+    },
+    {
+      "id": "2daae468318d70f9103316d8eb28cbb2",
+      "title": "Tất niên đặc biệt ở nơi xa: Chờ ngày trở về đón tết đoàn viên",
+      "link": "https://thanhnien.vn/tat-nien-dac-biet-o-noi-xa-cho-ngay-tro-ve-don-tet-doan-vien-185260216213839411.htm",
+      "summary": "Tết Bính Ngọ 2026, phía sau cánh cửa Trại Tạm giam số 1 (Công an TP.Đà Nẵng), những mâm ngũ quả, mâm cơm tất niên và tờ báo tường thủ công đã mang đến một 'mùa xuân' ấm áp, giúp phạm nhân vơi nỗi nhớ nhà và thêm quyết tâm cải tạo tốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:01:00+07:00",
+      "fetched": "2026-02-16T23:32:32.349692+07:00"
+    },
+    {
+      "id": "32d3a75ed94815a466ad0afcbb26ec6f",
+      "title": "10 lời chúc Tết Bính Ngọ 2026 bằng tiếng Anh",
+      "link": "https://vnexpress.net/nhung-loi-chuc-tet-binh-ngo-2026-bang-tieng-anh-y-nghia-5039711.html",
+      "summary": "Thay vì \"Happy Lunar New Year\", bạn có thể sử dụng 10 lời chúc bằng tiếng Anh khác cho tết Nguyên Đán 2026, tùy tình huống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T15:00:00+07:00",
+      "fetched": "2026-02-16T23:32:29.214205+07:00"
+    },
+    {
+      "id": "1d78406c5d95ba2a115968a5c380d1ad",
+      "title": "Chợ hoa Mê Linh chiều 29 tết: 100 nghìn mua được 4 chậu hoa",
+      "link": "https://thanhnien.vn/cho-hoa-me-linh-chieu-29-tet-100-nghin-mua-duoc-4-chau-hoa-185260216211301404.htm",
+      "summary": "Chiều 29 Tết Nguyên đán, vẻ tấp nập của người bán kẻ mua tại chợ hoa Mê Linh đã có phần thưa thớt, chậm rãi hơn. Nhiều chủ hàng hoa quyết định hạ giá để về sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:48:00+07:00",
+      "fetched": "2026-02-16T23:32:32.349844+07:00"
+    },
+    {
+      "id": "e269869cd5fe54957fbf78e273646f7b",
+      "title": "Bị bắt ngày 29 Tết vì tạt sơn nhà người yêu cũ",
+      "link": "https://thanhnien.vn/bi-bat-ngay-29-tet-vi-tat-son-nha-nguoi-yeu-cu-185260216210820588.htm",
+      "summary": "Sau hơn 5 giờ truy tìm, Công an phường Thạnh Mỹ Tây (Công an TP.HCM) bắt giữ nghi phạm khi đang lẩn trốn ở tỉnh Vĩnh Long và tống đạt lệnh bắt tạm giam trong ngày 29 Tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:48:00+07:00",
+      "fetched": "2026-02-16T23:32:32.350001+07:00"
+    },
+    {
+      "id": "a766ec0913ed7971162429f461b8ee57",
+      "title": "Tổng Bí thư Tô Lâm dâng hương tại tượng đài vua Lý Thái Tổ",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-dang-huong-tai-tuong-dai-vua-ly-thai-to-185260216212219511.htm",
+      "summary": "Tối 16.2 (29 tháng chạp), Tổng Bí thư Tô Lâm đã đến dâng hương tại tượng đài vua Lý Thái Tổ; thăm hỏi, chúc tết nhân dân thủ đô đón năm mới tại khu vực vườn hoa Lý Thái Tổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:46:00+07:00",
+      "fetched": "2026-02-16T23:32:32.350157+07:00"
+    },
+    {
+      "id": "7a22b2d767a8f53f71a1f01f9765ad85",
+      "title": "Nông dân Gia Lai hối hả tưới cà phê chạy tết trước mùa khô khắc nghiệt",
+      "link": "https://thanhnien.vn/nong-dan-gia-lai-hoi-ha-tuoi-ca-phe-chay-tet-truoc-mua-kho-khac-nghiet-185260216150832664.htm",
+      "summary": "Giữa nắng hanh hao, nông dân Gia Lai tất bật tưới nước cho cà phê, chạy đua với thời gian để cứu vườn cây trước mùa khô khắc nghiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:46:00+07:00",
+      "fetched": "2026-02-16T23:32:32.350328+07:00"
+    },
+    {
+      "id": "882c86665fefac59df1e972fc83cca3a",
+      "title": "Tết Việt giữa châu Phi khiến bạn bè quốc tế mê bánh chưng, thích hoa đào",
+      "link": "https://thanhnien.vn/tet-viet-giua-chau-phi-khien-ban-be-quoc-te-me-banh-chung-thich-hoa-dao-185260216211014681.htm",
+      "summary": "Giữa điều kiện đặc biệt và khắc nghiệt ở châu Phi, các chiến sĩ mũ nồi xanh Việt Nam vẫn cố gắng 'gói' cho mình một mùa xuân mang đậm bản sắc dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:43:00+07:00",
+      "fetched": "2026-02-16T23:32:32.350489+07:00"
+    },
+    {
+      "id": "43ae8cad9043b452a066de31de982a93",
+      "title": "Tổng Bí thư Tô Lâm thăm hỏi, mừng tuổi người dân Thủ đô",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-tham-hoi-mung-tuoi-nguoi-dan-thu-do-5041879.html",
+      "summary": "Tối 16/2, 29 tháng Chạp năm Ất Tỵ, Tổng Bí thư Tô Lâm dâng hương vua Lý Thái Tổ, mừng tuổi người dân và chúc Tết Đảng bộ, chính quyền TP Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:38:59+07:00",
+      "fetched": "2026-02-16T23:32:29.214381+07:00"
+    },
+    {
       "id": "c6ada2c2ac60508f54ad71aaddff34cc",
       "title": "Phát hiện xác tàu hơi nước sau gần 60 năm tìm kiếm",
       "link": "https://thanhnien.vn/phat-hien-xac-tau-hoi-nuoc-sau-gan-60-nam-tim-kiem-185260216211144746.htm",
@@ -601,6 +971,16 @@ window.newsData_2026_02_16 = {
       "category": "Tổng hợp",
       "published": "2026-02-16T14:18:04+07:00",
       "fetched": "2026-02-16T21:35:55.317212+07:00"
+    },
+    {
+      "id": "6d45a7fceafffa1c4be6c1e9cca585b2",
+      "title": "'Thỏ ơi' phá kỷ lục phòng vé trước ngày phim ra rạp",
+      "link": "https://vnexpress.net/tho-oi-pha-ky-luc-phong-ve-truoc-ngay-phim-ra-rap-5041880.html",
+      "summary": "\"Thỏ ơi!\" của Trấn Thành đạt hơn 12 tỷ đồng nhờ vé đặt trước, dự kiến doanh thu mở màn tốt nhất trong bốn phim Việt chiếu mùng 1 Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-16T14:18:04+07:00",
+      "fetched": "2026-02-16T23:32:29.214703+07:00"
     },
     {
       "id": "b8bd14dbda63d8d1abf60d99125efab4",
