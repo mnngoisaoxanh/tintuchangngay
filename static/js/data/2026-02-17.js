@@ -1,7 +1,87 @@
 window.newsData_2026_02_17 = {
   "date": "2026-02-17",
-  "lastUpdated": "2026-02-17T15:33:50.182300+07:00",
+  "lastUpdated": "2026-02-17T17:36:27.775539+07:00",
   "articles": [
+    {
+      "id": "3dc2ab58e3468408aae31972daec830b",
+      "title": "Truyền thông quốc tế: 'Không khí Tết Nguyên đán rộn ràng ở Việt Nam, Trung Quốc, Nga và Argentina'",
+      "link": "https://tuoitre.vn/truyen-thong-quoc-te-khong-khi-tet-nguyen-dan-ron-rang-o-viet-nam-trung-quoc-nga-va-argentina-20260217151032141.htm",
+      "summary": "Tết Nguyên đán năm 2026 đã gõ cửa nhiều nơi trên thế giới với các màn trình diễn pháo hoa và nhiều hoạt động văn hóa đặc sắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T17:36:18.639302+07:00",
+      "fetched": "2026-02-17T17:36:18.639415+07:00"
+    },
+    {
+      "id": "05cc15db5132a4cc3449ff93e54167ae",
+      "title": "Mazda CX-5 2026 bỏ núm xoay: 'Màn hình như iPhone không làm tài xế mất tập trung'",
+      "link": "https://tuoitre.vn/mazda-cx-5-2026-bo-num-xoay-man-hinh-nhu-iphone-khong-lam-tai-xe-mat-tap-trung-20260217111053785.htm",
+      "summary": "Hãng xe Nhật bỏ núm xoay quen thuộc trên Mazda CX-5 2026, chuyển sang màn hình cảm ứng tích hợp Google.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T17:36:18.639176+07:00",
+      "fetched": "2026-02-17T17:36:18.639290+07:00"
+    },
+    {
+      "id": "c682b97ed67f6dbc19f436c6b0d70e53",
+      "title": "Lịch trực tiếp AFC Champions League Two: Công An Hà Nội quyết đấu Tampines Rovers",
+      "link": "https://tuoitre.vn/lich-truc-tiep-afc-champions-league-two-cong-an-ha-noi-quyet-dau-tampines-rovers-20260215200152966.htm",
+      "summary": "CLB Công An Hà Nội sẽ tái đấu Tampines Rovers (Singapore) ở AFC Champions League Two.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T17:36:18.639033+07:00",
+      "fetched": "2026-02-17T17:36:18.639164+07:00"
+    },
+    {
+      "id": "389faa2d3f7c131e1ce12de32fefc745",
+      "title": "Mỹ điều binh sĩ đến Nigeria",
+      "link": "https://tuoitre.vn/my-dieu-binh-si-den-nigeria-20260217155201778.htm",
+      "summary": "Binh sĩ Mỹ đến hỗ trợ Nigeria trong bối cảnh nước này đối mặt với cuộc chiến chống lại hàng chục nhóm vũ trang địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T17:36:18.638905+07:00",
+      "fetched": "2026-02-17T17:36:18.639022+07:00"
+    },
+    {
+      "id": "761066c522a9f2d1b0b549cbcd8dd2ff",
+      "title": "Nhiều trường hợp vi phạm nồng độ cồn ở TP.HCM sáng mùng 1 Tết",
+      "link": "https://tuoitre.vn/nhieu-truong-hop-vi-pham-nong-do-con-o-tp-hcm-sang-mung-1-tet-20260217154917686.htm",
+      "summary": "Sáng mùng 1 Tết Bính Ngọ (17-2) lực lượng cảnh sát giao thông (PC08) Công an TP.HCM đồng loạt ra quân kiểm tra nồng độ cồn, góp phần đảm bảo trật tự, an toàn giao thông ngày Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T17:36:18.638773+07:00",
+      "fetched": "2026-02-17T17:36:18.638894+07:00"
+    },
+    {
+      "id": "c8b070370f6513db3e46784e1606827d",
+      "title": "Tết về, kể chuyện làng Tu Thó: Từ làng chạy sạt lở đến làng du lịch hút khách",
+      "link": "https://tuoitre.vn/tet-ve-ke-chuyen-lang-tu-tho-tu-lang-chay-sat-lo-den-lang-du-lich-hut-khach-20260217154950359.htm",
+      "summary": "Trong suốt hơn 20 năm qua, dân làng Tu Thó, xã Măng Ri (tỉnh Quảng Ngãi) đã ba lần tháo dỡ nhà chạy sạt lở, ba lần dựng lại cuộc sống sau thiên tai. Tết này, làng Tu Thó đã hồi sinh, chuyển mình thành làng du lịch cộng đồng giữa đại ngàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T17:36:18.638635+07:00",
+      "fetched": "2026-02-17T17:36:18.638760+07:00"
+    },
+    {
+      "id": "fdfe26d4e8c19fa75c45c3c49215d48c",
+      "title": "Việt Hùng bền bỉ mang áo dài ‘xuất ngoại’ trên 40 quốc gia, vùng lãnh thổ",
+      "link": "https://tuoitre.vn/viet-hung-ben-bi-mang-ao-dai-xuat-ngoai-tren-40-quoc-gia-vung-lanh-tho-20260217160706996.htm",
+      "summary": "Nhà thiết kế Việt Hùng có 26 năm gắn bó với thiết kế áo dài, trình diễn hàng trăm bộ sưu tập tại hơn 40 quốc gia, vùng lãnh thổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T17:36:18.638470+07:00",
+      "fetched": "2026-02-17T17:36:18.638621+07:00"
+    },
+    {
+      "id": "0f0cd32d23c633c614c6c79baaa96a25",
+      "title": "Sức nóng tại Geneva khi đàm phán Nga - Ukraine và Mỹ - Iran diễn ra cùng ngày",
+      "link": "https://tuoitre.vn/suc-nong-tai-geneva-khi-dam-phan-nga-ukraine-va-my-iran-dien-ra-cung-ngay-20260217161106354.htm",
+      "summary": "Các cuộc đàm phán giữa Nga - Ukraine và Mỹ - Iran sẽ đồng loạt được tiến hành tại thành phố Geneva của Thụy Sĩ trong cùng ngày 17-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T17:36:18.638219+07:00",
+      "fetched": "2026-02-17T17:36:18.638455+07:00"
+    },
     {
       "id": "06ae28c7d4ba8775e375f6272c19afbb",
       "title": "2 cha con trên con đường golf chuyên nghiệp",
@@ -391,6 +471,266 @@ window.newsData_2026_02_17 = {
       "category": "Tổng hợp",
       "published": "2026-02-17T11:09:51.127812+07:00",
       "fetched": "2026-02-17T11:09:51.128022+07:00"
+    },
+    {
+      "id": "b79ec50e34fa82568221bc4a3e0ad5ba",
+      "title": "Các hãng xe gắn liền với hình ảnh loài ngựa: Biểu tượng sức mạnh, tốc độ",
+      "link": "https://thanhnien.vn/cac-hang-xe-gan-lien-voi-hinh-anh-loai-ngua-bieu-tuong-suc-manh-toc-do-18526021610453998.htm",
+      "summary": "Hình ảnh loài ngựa biểu trưng cho sức mạnh, tốc độ và sự bền bỉ… không chỉ được nhiều hãng ô tô danh tiếng trên thế giới lựa chọn làm biểu tượng trên logo mà còn truyền tải triết lý, di sản và tinh thần của nhà sản xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T10:31:00+07:00",
+      "fetched": "2026-02-17T17:36:17.516068+07:00"
+    },
+    {
+      "id": "5ba0b32bec9eab8f7712d5bcc9790d55",
+      "title": "Lưu ý gì khi lái ô tô chơi tết?",
+      "link": "https://thanhnien.vn/luu-y-gi-khi-lai-o-to-choi-tet-185260217072632875.htm",
+      "summary": "Những ngày Tết Nguyên đán là thời điểm nhiều gia đình di chuyển du xuân, chúc Tết. Giao thông tuy không quá tải nhưng tiềm ẩn nhiều tình huống bất ngờ, đòi hỏi tài xế thận trọng hơn bình thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T10:30:00+07:00",
+      "fetched": "2026-02-17T17:36:17.516236+07:00"
+    },
+    {
+      "id": "1f298771b32243596c385669d6a01037",
+      "title": "Nhiều địa phương sẽ được phân bổ thêm nguồn thuế giá trị gia tăng",
+      "link": "https://vnexpress.net/nhieu-dia-phuong-se-duoc-phan-bo-them-nguon-thue-gia-tri-gia-tang-5041292.html",
+      "summary": "Bộ Tài chính đề xuất sửa cách phân bổ số thu thuế giá trị gia tăng, giúp nhiều địa phương có thể thêm dư địa để mở rộng đầu tư hạ tầng, bảo đảm an sinh xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T10:22:24+07:00",
+      "fetched": "2026-02-17T17:36:14.287676+07:00"
+    },
+    {
+      "id": "ec2977459613c626ecccf2a5952807b9",
+      "title": "10 nhà sản xuất ô tô bán chạy nhất thế giới: Toyota dẫn đầu, BYD tăng tốc",
+      "link": "https://thanhnien.vn/10-nha-san-xuat-o-to-ban-chay-nhat-the-gioi-toyota-dan-dau-byd-tang-toc-185260215143718035.htm",
+      "summary": "Toyota duy trì vị thế dẫn đầu, các hãng xe Trung Quốc như BYD, Geely… tăng trưởng mạnh, qua đó cải thiện vị trí trong top 10 nhà sản xuất ô tô bán chạy nhất thế giới năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T10:22:00+07:00",
+      "fetched": "2026-02-17T17:36:17.516392+07:00"
+    },
+    {
+      "id": "83c48f99961f7488532dab42bc3b9470",
+      "title": "Xổ số miền Nam ngày 17 tháng 2: Lộ diện vé trúng đài Bến Tre mùng 1",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-17-thang-2-lo-dien-ve-trung-dai-ben-tre-mung-1-18526021716580431.htm",
+      "summary": "Ngày mùng 1 tết, những tờ vé trúng số xổ số miền Nam ngày 17 tháng 2 đài Bến Tre lộ diện sớm tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T10:20:00+07:00",
+      "fetched": "2026-02-17T17:36:17.516576+07:00"
+    },
+    {
+      "id": "118adf885a18413524a8854620487f67",
+      "title": "Tết của bác sĩ là thế này…",
+      "link": "https://thanhnien.vn/tet-cua-bac-si-la-the-nay-185260217165211439.htm",
+      "summary": "Sau thời khắc giao thừa, khi nhiều người trở về với bữa cơm sum họp, không ít y bác sĩ vẫn tiếp tục những ca trực kéo dài trong bệnh viện và ngoài đảo xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T10:08:00+07:00",
+      "fetched": "2026-02-17T17:36:17.516745+07:00"
+    },
+    {
+      "id": "e3bb0404a63ffb9cfb9bd73b1d30f228",
+      "title": "Xóm nhỏ miền Tây bừng sắc xuân với hàng rào hoa, hút khách check-in",
+      "link": "https://thanhnien.vn/xom-nho-mien-tay-bung-sac-xuan-voi-hang-rao-hoa-hut-khach-check-in-185260217161824598.htm",
+      "summary": "Mỗi dịp tết đến xuân về, xóm nhỏ ở xã Tân Dương, tỉnh Đồng Tháp trở thành điểm dừng chân đầy sắc màu với những hàng rào hoa trang và mai vàng nở rực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T10:08:00+07:00",
+      "fetched": "2026-02-17T17:36:17.516896+07:00"
+    },
+    {
+      "id": "319720c46a2c7b2b81cd697b864348f2",
+      "title": "Tủ lạnh 'quá tải' ngày tết: Chỉnh nhiệt độ thế nào để bảo vệ cả gia đình?",
+      "link": "https://thanhnien.vn/tu-lanh-qua-tai-ngay-tet-chinh-nhiet-do-the-nao-de-bao-ve-ca-gia-dinh-185260216141552159.htm",
+      "summary": "Thịt kho, bánh tét ăn mãi không hết? Tìm hiểu ngay cách chỉnh nhiệt độ tủ lạnh chuẩn FDA để thực phẩm không bị ôi thiu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T10:06:00+07:00",
+      "fetched": "2026-02-17T17:36:17.517053+07:00"
+    },
+    {
+      "id": "1df97f7f60a2add828e4905c8c0f7ff3",
+      "title": "Điểm tin 17h: Ba dự án giao thông trọng điểm ở TP HCM hoàn thành năm 2026 | 2.400 khách quốc tế 'xông đất' Hạ Long sáng mùng 1 Tết",
+      "link": "https://vnexpress.net/diem-tin-17h-ba-du-an-giao-thong-trong-diem-o-tp-hcm-hoan-thanh-nam-2026-2-400-khach-quoc-te-xong-dat-ha-long-sang-mung-1-tet-5042026.html",
+      "summary": "Chất lượng không khí nhiều nơi ở miền Bắc rất xấu; Ông Trump sẽ tham gia 'gián tiếp' vào đàm phán Mỹ - Iran...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T10:00:00+07:00",
+      "fetched": "2026-02-17T17:36:14.287865+07:00"
+    },
+    {
+      "id": "2e7d4c7f063b0ade6e06af73d9daf8da",
+      "title": "HLV Polking nói thẳng về án phạt của AFC: 'CLB CAHN không chối bỏ trách nhiệm, nhưng...'",
+      "link": "https://thanhnien.vn/hlv-polking-noi-thang-ve-an-phat-cua-afc-clb-cahn-khong-choi-bo-trach-nhiem-nhung-185260217165107236.htm",
+      "summary": "HLV Mano Polking của CLB Công an Hà Nội (CAHN) đã có những chia sẻ thẳng thắn và đầy cảm xúc sau khi đội bóng của ông bị Liên đoàn Bóng đá châu Á (AFC) xử thua 0-3 ở trận lượt đi vòng 16 đội AFC Champions League Two gặp Tampines Rovers.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T09:59:00+07:00",
+      "fetched": "2026-02-17T17:36:17.517214+07:00"
+    },
+    {
+      "id": "226b790f5bd57c07ef62cadbb6c86af2",
+      "title": "Quang Hải lên tiếng khi CLB CAHN bị AFC xử thua Tampines, lượt về cực nóng",
+      "link": "https://thanhnien.vn/quang-hai-len-tieng-khi-clb-cahn-bi-afc-xu-thua-tampines-luot-ve-cuc-nong-185260217161957583.htm",
+      "summary": "Ngay sau khi Liên đoàn Bóng đá châu Á (AFC) chính thức ban hành án phạt liên quan đến trận lượt đi vòng 16 đội AFC Champions League Two, đội trưởng Nguyễn Quang Hải đã lên tiếng, thể hiện rõ tinh thần không chùn bước của CLB Công an Hà Nội (CLB CAHN) trước trận lượt về mang tính sống còn với Tampine...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T09:39:00+07:00",
+      "fetched": "2026-02-17T17:36:17.517383+07:00"
+    },
+    {
+      "id": "3dd93911cced1b84f6f7472dd3be026b",
+      "title": "Di sản quốc gia từ những câu hát không nhạc cụ",
+      "link": "https://vnexpress.net/di-san-quoc-gia-tu-nhung-cau-hat-khong-nhac-cu-5008846.html",
+      "summary": "Không nhạc cụ, không sân khấu, từ những cuộc đấu trí bằng ngôn từ của nông dân đất cảng, hát đúm Thủy Nguyên đã trở thành di sản văn hóa quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T09:30:00+07:00",
+      "fetched": "2026-02-17T17:36:14.288033+07:00"
+    },
+    {
+      "id": "909be3bf7e6dd25eb5827a8041d20ed8",
+      "title": "Nhiều suất du học Mỹ, Úc, Anh miễn phí cho người Việt đang mở đơn dịp tết",
+      "link": "https://thanhnien.vn/nhieu-suat-du-hoc-my-uc-anh-mien-phi-cho-nguoi-viet-dang-mo-don-dip-tet-185260217152756657.htm",
+      "summary": "Đây đều là các chương trình học bổng chính phủ, đài thọ toàn bộ học phí, chi phí đi lại, phí bảo hiểm y tế... thậm chí cấp thêm sinh hoạt phí kèm nhiều quyền lợi phi tài chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T09:30:00+07:00",
+      "fetched": "2026-02-17T17:36:17.517561+07:00"
+    },
+    {
+      "id": "de34b86b8bd6d61eb65a66b99c9bb719",
+      "title": "Ukraine để lọt loạt tên lửa đạn đạo Iskander-M Nga",
+      "link": "https://vnexpress.net/ukraine-de-lot-loat-ten-lua-dan-dao-iskander-m-nga-5042022.html",
+      "summary": "Quân đội Ukraine tuyên bố hạ gần 370 UAV và toàn bộ 21 tên lửa hành trình Nga, song thừa nhận không chặn được 4 quả đạn Iskander-M.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T09:25:21+07:00",
+      "fetched": "2026-02-17T17:36:14.288195+07:00"
+    },
+    {
+      "id": "de34b86b8bd6d61eb65a66b99c9bb719",
+      "title": "Ukraine để lọt loạt tên lửa đạn đạo Iskander-M Nga",
+      "link": "https://vnexpress.net/ukraine-de-lot-loat-ten-lua-dan-dao-iskander-m-nga-5042022.html",
+      "summary": "Quân đội Ukraine tuyên bố hạ gần 370 UAV và toàn bộ 21 tên lửa hành trình Nga, song thừa nhận không chặn được 4 quả đạn Iskander-M.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-17T09:25:21+07:00",
+      "fetched": "2026-02-17T17:36:20.541995+07:00"
+    },
+    {
+      "id": "f8ac47ad34182f83be69eade42ca203d",
+      "title": "Hậu trường robot Trung Quốc tập parkour, múa côn cho gala năm mới",
+      "link": "https://vnexpress.net/hau-truong-robot-trung-quoc-tap-parkour-mua-con-cho-gala-nam-moi-5042014.html",
+      "summary": "Các mẫu robot hình người tập luyện nhiều động tác khó như parkour, nhào lộn bằng máy phóng, trước khi biểu diễn tại gala mừng năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T09:24:15+07:00",
+      "fetched": "2026-02-17T17:36:14.288355+07:00"
+    },
+    {
+      "id": "f8ac47ad34182f83be69eade42ca203d",
+      "title": "Hậu trường robot Trung Quốc tập parkour, múa côn cho gala năm mới",
+      "link": "https://vnexpress.net/hau-truong-robot-trung-quoc-tap-parkour-mua-con-cho-gala-nam-moi-5042014.html",
+      "summary": "Các mẫu robot hình người tập luyện nhiều động tác khó như parkour, nhào lộn bằng máy phóng, trước khi biểu diễn tại gala mừng năm mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-17T09:24:15+07:00",
+      "fetched": "2026-02-17T17:36:25.845813+07:00"
+    },
+    {
+      "id": "0996e4c5e53be0a93a6be318c1ed14a2",
+      "title": "Những cây mai 'may mắn' ở Làng mai vàng Phước Định",
+      "link": "https://thanhnien.vn/nhung-cay-mai-vang-may-man-o-lang-mai-vang-phuoc-dinh-185260217132533274.htm",
+      "summary": "Năm nay hoa của rất nhiều hộ dân ở Làng mai vàng Phước Định (Vĩnh Long) không nở đúng mùng 1 tết vì nhiều lý do, song không ít hộ có \"kỹ thuật riêng\" khiến mai nở đúng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T09:15:00+07:00",
+      "fetched": "2026-02-17T17:36:17.517713+07:00"
+    },
+    {
+      "id": "b2e099fa7f9333afa374b88de8701581",
+      "title": "Thủ môn Bùi Tiến Dũng về quê đón tết: Nhóc tì lai gây sốt, cực đáng yêu",
+      "link": "https://thanhnien.vn/thu-mon-bui-tien-dung-ve-que-don-tet-nhoc-ti-lai-gay-sot-cuc-dang-yeu-185260217160937479.htm",
+      "summary": "Tạm rời sân cỏ, thủ môn Bùi Tiến Dũng đưa gia đình về quê đón tết. Nhóc tì Danil lập tức 'chiếm sóng' nhờ vẻ lanh lợi, đáng yêu khi được trải nghiệm cuộc sống mộc mạc và thanh bình tại quê nội Thanh Hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T09:12:00+07:00",
+      "fetched": "2026-02-17T17:36:17.517868+07:00"
+    },
+    {
+      "id": "8b2f793d238e2ac1f05b71ff578482c3",
+      "title": "'Luật Messi' hết hiệu lực theo quy định mới của bóng đá Argentina",
+      "link": "https://vnexpress.net/luat-messi-het-hieu-luc-theo-quy-dinh-moi-cua-bong-da-argentina-5039813.html",
+      "summary": "LĐBĐ Argentina (AFA) vừa thông qua một biện pháp ngăn cản các cầu thủ được triệu tập lên ĐTQG nếu họ chuyển ra nước ngoài thi đấu mà chưa ký hợp đồng nhà nghề đầu tiên với một CLB trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T09:00:00+07:00",
+      "fetched": "2026-02-17T17:36:14.288566+07:00"
+    },
+    {
+      "id": "45a8fc83c6f4504155e9122b6be2fd86",
+      "title": "Bác sĩ tuổi Ngọ phát hiện vi khuẩn ho gà",
+      "link": "https://vnexpress.net/bac-si-tuoi-ngo-phat-hien-vi-khuan-ho-ga-5041481.html",
+      "summary": "Từ căn bệnh của con trai và con gái, Jules Bordet sinh năm 1870 (năm Canh Ngọ) tại Bỉ, phân lập thành công vi khuẩn gây bệnh ho gà, mở đường cho vaccine phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T09:00:00+07:00",
+      "fetched": "2026-02-17T17:36:14.288735+07:00"
+    },
+    {
+      "id": "1dec1543c5085a03c622d8721037d360",
+      "title": "Xổ số miền Nam ngày 17 tháng 2 - Kết quả xổ số hôm nay thứ ba",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-17-thang-2-ket-qua-xo-so-hom-nay-thu-ba-18526021715215737.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 17 tháng 2, tức mùng 1 Tết Bính Ngọ. Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ ba ngày 17.2.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T09:00:00+07:00",
+      "fetched": "2026-02-17T17:36:17.518020+07:00"
+    },
+    {
+      "id": "58a9c2790c888568a51445aa428d05e4",
+      "title": "Mùa xuân, nàng xinh đẹp và quý phái trong những chiếc váy cổ điển",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mua-xuan-nang-xinh-dep-va-quy-phai-trong-nhung-chiec-vay-co-dien-185260215155004373.htm",
+      "summary": "Váy sơ mi dáng dài, đầm cổ danton, đầm peplum, váy cổ vuông... nằm trong số những mẫu váy cổ điển 'must have' cho nàng diện đẹp suốt bốn mùa trong năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T09:00:00+07:00",
+      "fetched": "2026-02-17T17:36:17.518170+07:00"
+    },
+    {
+      "id": "8b2f793d238e2ac1f05b71ff578482c3",
+      "title": "'Luật Messi' hết hiệu lực theo quy định mới của bóng đá Argentina",
+      "link": "https://vnexpress.net/luat-messi-het-hieu-luc-theo-quy-dinh-moi-cua-bong-da-argentina-5039813.html",
+      "summary": "LĐBĐ Argentina (AFA) vừa thông qua một biện pháp ngăn cản các cầu thủ được triệu tập lên ĐTQG nếu họ chuyển ra nước ngoài thi đấu mà chưa ký hợp đồng nhà nghề đầu tiên với một CLB trong nước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T09:00:00+07:00",
+      "fetched": "2026-02-17T17:36:27.766756+07:00"
+    },
+    {
+      "id": "36aa32afe3724058b3946d5dc3e0a75c",
+      "title": "Mùng 1 Tết Bính Ngọ: Thành phố rực rỡ sắc xuân, người dân đi lễ cầu may",
+      "link": "https://thanhnien.vn/mung-1-tet-binh-ngo-thanh-pho-ruc-ro-sac-xuan-nguoi-dan-di-le-cau-may-185260217132848224.htm",
+      "summary": "Sáng Mùng 1 Tết Bính Ngọ 2026, đông đảo người dân TP.HCM đã đến chùa, nhà thờ dâng hương, dự lễ và cầu bình an cho năm mới. Dù theo tín ngưỡng khác nhau, mọi người đều chung ước nguyện về một năm an khang, hạnh phúc và nhiều khởi sắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:46:00+07:00",
+      "fetched": "2026-02-17T17:36:17.518327+07:00"
+    },
+    {
+      "id": "2c0adbf6e7bf120d639e151e21ef8b6a",
+      "title": "Hà Kiều Anh gợi ý áo dài, áo bà ba du xuân",
+      "link": "https://vnexpress.net/ha-kieu-anh-goi-y-ao-dai-ao-ba-ba-du-xuan-5041818.html",
+      "summary": "Hoa hậu Hà Kiều Anh chọn mặc các kiểu áo dài, bà ba đi chúc Tết họ hàng và lễ chùa dịp đầu năm Bính Ngọ 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:42:30+07:00",
+      "fetched": "2026-02-17T17:36:14.288906+07:00"
     },
     {
       "id": "6e8f1cd35688b7efccb6e4f9b03c3354",
