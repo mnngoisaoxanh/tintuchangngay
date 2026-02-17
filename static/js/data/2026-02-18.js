@@ -1,6 +1,6 @@
 window.newsData_2026_02_18 = {
   "date": "2026-02-18",
-  "lastUpdated": "2026-02-18T01:43:46.003540+07:00",
+  "lastUpdated": "2026-02-18T03:27:07.080920+07:00",
   "articles": [
     {
       "id": "e5f4af1268edfb1d1ed5968fb4af78e7",
@@ -151,6 +151,56 @@ window.newsData_2026_02_18 = {
       "category": "Tổng hợp",
       "published": "2026-02-18T01:43:36.525320+07:00",
       "fetched": "2026-02-18T01:43:36.525532+07:00"
+    },
+    {
+      "id": "32aeaf6dca607adc4bad9d53577d47b3",
+      "title": "Có nên kiêng sex đầu năm để tránh vận xui?",
+      "link": "https://vnexpress.net/co-nen-kieng-sex-dau-nam-de-tranh-van-xui-5042000.html",
+      "summary": "Quan niệm dân gian kiêng sex để tránh xui rủi, nhưng bác sĩ khẳng định điều duy nhất cần kiêng là sự thiếu an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T19:00:00+07:00",
+      "fetched": "2026-02-18T03:26:55.149078+07:00"
+    },
+    {
+      "id": "59ce2754522dd276c242b2764c710d91",
+      "title": "Lì xì Tết một phân vàng được ưa chuộng",
+      "link": "https://vnexpress.net/li-xi-tet-mot-phan-vang-duoc-ua-chuong-5042036.html",
+      "summary": "Năm nay, nhiều người chọn mừng tuổi nhau bằng một phân vàng hình thần tài, vì giá trị tích lũy, tính thẩm mỹ cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T18:46:29+07:00",
+      "fetched": "2026-02-18T03:26:55.149291+07:00"
+    },
+    {
+      "id": "59ce2754522dd276c242b2764c710d91",
+      "title": "Lì xì Tết một phân vàng được ưa chuộng",
+      "link": "https://vnexpress.net/li-xi-tet-mot-phan-vang-duoc-ua-chuong-5042036.html",
+      "summary": "Năm nay, nhiều người chọn mừng tuổi nhau bằng một phân vàng hình thần tài, vì giá trị tích lũy, tính thẩm mỹ cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-17T18:46:29+07:00",
+      "fetched": "2026-02-18T03:27:01.876183+07:00"
+    },
+    {
+      "id": "f33459410eb93ff7b130afd8cba34d7c",
+      "title": "Nhà đầu tư ngoại có thể được góp đến 49% vào hãng bay Việt Nam",
+      "link": "https://vnexpress.net/nha-dau-tu-ngoai-co-the-duoc-gop-den-49-vao-hang-bay-viet-nam-5042038.html",
+      "summary": "Bộ Xây dựng đề xuất nhà đầu tư nước ngoài có thể góp vốn tối đa 49% vào hãng hàng không ở Việt Nam, thay vì chỉ 34% như hiện tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T18:25:09+07:00",
+      "fetched": "2026-02-18T03:26:55.149486+07:00"
+    },
+    {
+      "id": "f33459410eb93ff7b130afd8cba34d7c",
+      "title": "Nhà đầu tư ngoại có thể được góp đến 49% vào hãng bay Việt Nam",
+      "link": "https://vnexpress.net/nha-dau-tu-ngoai-co-the-duoc-gop-den-49-vao-hang-bay-viet-nam-5042038.html",
+      "summary": "Bộ Xây dựng đề xuất nhà đầu tư nước ngoài có thể góp vốn tối đa 49% vào hãng hàng không ở Việt Nam, thay vì chỉ 34% như hiện tại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-17T18:25:09+07:00",
+      "fetched": "2026-02-18T03:27:01.876364+07:00"
     },
     {
       "id": "46f2c6269317a64c337507b3cb078bd2",
