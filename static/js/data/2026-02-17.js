@@ -1,7 +1,97 @@
 window.newsData_2026_02_17 = {
   "date": "2026-02-17",
-  "lastUpdated": "2026-02-17T11:10:00.538541+07:00",
+  "lastUpdated": "2026-02-17T13:46:14.329107+07:00",
   "articles": [
+    {
+      "id": "d1edd440118a027dac6fbc1cf4ed48dd",
+      "title": "Đến Đà Nẵng xông đất ngày đầu năm, du khách được chào đón đặc biệt, 'hái lộc', lì xì",
+      "link": "https://tuoitre.vn/den-da-nang-xong-dat-ngay-dau-nam-du-khach-duoc-chao-don-dac-biet-hai-loc-li-xi-20260217104531872.htm",
+      "summary": "Sáng 17-2 (mùng 1 Tết Bính Ngọ), thành phố Đà Nẵng tổ chức đón những vị khách du lịch đầu tiên đến thành phố trong năm mới, mở đầu các hoạt động khai xuân của ngành du lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:46:08.250623+07:00",
+      "fetched": "2026-02-17T13:46:08.250756+07:00"
+    },
+    {
+      "id": "01e34d78d1f64f43f75c0abc68af0deb",
+      "title": "Ngày đầu năm, Quảng Ninh đón 2.400 du khách quốc tế đến ‘xông đất’",
+      "link": "https://tuoitre.vn/ngay-dau-nam-quang-ninh-don-2-400-du-khach-quoc-te-den-xong-dat-20260217105311494.htm",
+      "summary": "Sáng 17-2, hai siêu du thuyền đưa 2.400 du khách quốc tế đã cập Cảng tàu khách quốc tế Hạ Long.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:46:08.250500+07:00",
+      "fetched": "2026-02-17T13:46:08.250611+07:00"
+    },
+    {
+      "id": "e11308eae917d241fe1851608668d702",
+      "title": "AI dẫn đầu xu hướng đầu tư an ninh mạng tại Việt Nam",
+      "link": "https://tuoitre.vn/ai-dan-dau-xu-huong-dau-tu-an-ninh-mang-tai-viet-nam-20260217105349722.htm",
+      "summary": "Trí tuệ nhân tạo (AI) đang trở thành ưu tiên hàng đầu trong kế hoạch phân bổ ngân sách an ninh mạng, nhằm giải quyết tình trạng thiếu hụt nhân lực chuyên môn và tăng cường năng lực phòng thủ mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:46:08.250373+07:00",
+      "fetched": "2026-02-17T13:46:08.250488+07:00"
+    },
+    {
+      "id": "11422eefef70cc73da32fee1a2ce4183",
+      "title": "Táo quân 2026 lọt top xu hướng tìm kiếm: Có không giữ, mất lại... tìm?",
+      "link": "https://tuoitre.vn/tao-quan-2026-lot-top-xu-huong-tim-kiem-co-khong-giu-mat-lai-tim-20260217104657154.htm",
+      "summary": "Dù nhà đài thông báo không có ‘Táo quân 2026’ nhưng người Việt vẫn tìm kiếm, đưa từ khóa này lên xu hướng tìm kiếm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:46:08.250241+07:00",
+      "fetched": "2026-02-17T13:46:08.250361+07:00"
+    },
+    {
+      "id": "9b07f99ccc0af60d7043ba4a7ced2cdf",
+      "title": "Tuyển Việt Nam sẽ mạnh thế nào trong năm 2026?",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-se-manh-the-nao-trong-nam-2026-20260216152058157.htm",
+      "summary": "Với hàng loạt sự bổ sung chất lượng từ ngoại binh nhập tịch và Việt kiều, đội tuyển Việt Nam sẽ càng mạnh hơn trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:46:08.250113+07:00",
+      "fetched": "2026-02-17T13:46:08.250229+07:00"
+    },
+    {
+      "id": "fc5a57e3b09330cfdd7c51ad1fd34cfd",
+      "title": "Ngày Tết, uống cà phê vợt đón bình minh tại quán hơn 50 năm tuổi ở An Giang",
+      "link": "https://tuoitre.vn/ngay-tet-uong-ca-phe-vot-don-binh-minh-tai-quan-hon-50-nam-tuoi-o-an-giang-20260217112625428.htm",
+      "summary": "Sáng mùng 1 Tết, trong không khí đầu năm mới, nhiều người ghé quán cà phê vợt hơn nửa thế kỷ gần rạch Long Xuyên (tỉnh An Giang) để thưởng thức cà phê và đón bình minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:46:08.249983+07:00",
+      "fetched": "2026-02-17T13:46:08.250100+07:00"
+    },
+    {
+      "id": "8e6ae96a23c0c3a120bb6a07923d5452",
+      "title": "Đầu tư chứng khoán sau Tết: Không phải chuyện may rủi",
+      "link": "https://tuoitre.vn/dau-tu-chung-khoan-sau-tet-khong-phai-chuyen-may-rui-2026021711485097.htm",
+      "summary": "Sau kỳ nghỉ Tết Bính Ngọ 2026, thị trường được kỳ vọng khởi sắc, nhưng theo chuyên gia, cơ hội đầu năm chỉ thực sự dành cho nhà đầu tư có chiến lược và kỷ luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:46:08.249851+07:00",
+      "fetched": "2026-02-17T13:46:08.249971+07:00"
+    },
+    {
+      "id": "9e6950f40b7dc2cf694fb70f5994548f",
+      "title": "Công nghiệp văn hóa:  Mũi nhọn âm nhạc và trụ cột điện ảnh",
+      "link": "https://tuoitre.vn/cong-nghiep-van-hoa-mui-nhon-am-nhac-va-tru-cot-dien-anh-20260207101930948.htm",
+      "summary": "Tuổi Trẻ trò chuyện về bức tranh toàn cảnh với một số đại diện của các doanh nghiệp, đơn vị sản xuất tiêu biểu đang có đóng góp trong việc phát triển công nghiệp văn hóa tại Việt Nam, đặc biệt là trong lĩnh vực âm nhạc và điện ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:46:08.249702+07:00",
+      "fetched": "2026-02-17T13:46:08.249837+07:00"
+    },
+    {
+      "id": "33ab32edb33c0da6c0c7721a7433a9b6",
+      "title": "Huấn luyện viên Hansi Flick: 'Các cầu thủ Barca hôm nay tệ ngang với trọng tài'",
+      "link": "https://tuoitre.vn/huan-luyen-vien-hansi-flick-cac-cau-thu-barca-hom-nay-te-ngang-voi-trong-tai-20260217115225743.htm",
+      "summary": "Sau trận thua Girona (rạng sáng 17-2) với tỉ số 1-2, huấn luyện viên Hansi Flick đã không giấu nổi sự giận dữ trong buổi họp báo vì phong độ không tốt của các cầu thủ Barca.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:46:08.249465+07:00",
+      "fetched": "2026-02-17T13:46:08.249669+07:00"
+    },
     {
       "id": "35659f2c8c1acf846dd87cb4865fea38",
       "title": "Ngắm khoảnh khắc đáng yêu của rái cá, rắn, ngựa, mèo ở Đồng Tâm",
@@ -223,6 +313,226 @@ window.newsData_2026_02_17 = {
       "fetched": "2026-02-17T08:15:26.362221+07:00"
     },
     {
+      "id": "88672da96cb4c69de857c4e0cf26767b",
+      "title": "Metro số 1 miễn phí vé ngày tết, người dân TP.HCM du xuân ấm lòng: 'Quá hạnh phúc'",
+      "link": "https://thanhnien.vn/metro-so-1-mien-phi-ve-ngay-tet-nguoi-dan-tphcm-du-xuan-am-long-qua-hanh-phuc-185260217133238073.htm",
+      "summary": "Sáng 17.2.2026 (mùng 1 Tết Bính Ngọ), metro số 1 TP.HCM miễn phí vé, nhiều người dân tranh thủ du xuân bằng tàu điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T06:32:00+07:00",
+      "fetched": "2026-02-17T13:46:07.376382+07:00"
+    },
+    {
+      "id": "a63918dee88351acac362595ebb12082",
+      "title": "100 năm khôi phục Tết Âm lịch của người Hàn Quốc",
+      "link": "https://vnexpress.net/100-nam-khoi-phuc-tet-am-lich-cua-nguoi-han-quoc-5041551.html",
+      "summary": "Từng bị coi là hủ tục và bị chính quyền kìm hãm suốt 100 năm vì mục tiêu phát triển kinh tế, Tết Nguyên đán (Seollal) đã hồi sinh mạnh mẽ từ sự kiên trì của người Hàn Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T06:30:00+07:00",
+      "fetched": "2026-02-17T13:46:04.418100+07:00"
+    },
+    {
+      "id": "456a7acbdccd5be83e628b0edbd95f0a",
+      "title": "Mỹ lần đầu vận chuyển lò phản ứng hạt nhân siêu nhỏ bằng máy bay",
+      "link": "https://thanhnien.vn/my-lan-dau-van-chuyen-lo-phan-ung-hat-nhan-sieu-nho-bang-may-bay-185260217092539155.htm",
+      "summary": "Bộ Năng lượng và Bộ Chiến tranh Mỹ lần đầu tiên vận chuyển một lò phản ứng hạt nhân siêu nhỏ bằng máy bay quân sự, nhằm chứng minh khả năng triển khai nhanh nguồn điện hạt nhân cho mục đích quân sự và dân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T06:30:00+07:00",
+      "fetched": "2026-02-17T13:46:07.376548+07:00"
+    },
+    {
+      "id": "9b3cf1b17e2f6be5ed4704a905984fa7",
+      "title": "CSGT toàn quốc đồng loạt ra quân xử lý vi phạm nồng độ cồn",
+      "link": "https://thanhnien.vn/csgt-toan-quoc-dong-loat-ra-quan-xu-ly-vi-pham-nong-do-con-185260217122539787.htm",
+      "summary": "Sau lệnh của Cục trưởng Cục CSGT Bộ Công an, lực lượng CSGT toàn quốc đã đồng loạt ra quân kiểm tra, xử lý vi phạm nồng độ cồn cùng một thời điểm. Nhiều trường hợp đã bị xử lý vì lỡ \"mừng xuân\" và nghĩ quãng đường gần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T06:29:00+07:00",
+      "fetched": "2026-02-17T13:46:07.376724+07:00"
+    },
+    {
+      "id": "a0f76c9ba2f72a8cd0711a86532f7588",
+      "title": "Phố phường Hà Nội 'khác lạ' sáng mùng 1 tết",
+      "link": "https://thanhnien.vn/pho-phuong-ha-noi-khac-la-sang-mung-1-tet-185260217101311823.htm",
+      "summary": "Trái ngược với hình ảnh đông đúc, náo nhiệt thường ngày, nhiều tuyến phố ở Hà Nội trở nên tĩnh lặng trong buổi sáng mùng 1 tết Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T06:26:00+07:00",
+      "fetched": "2026-02-17T13:46:07.376884+07:00"
+    },
+    {
+      "id": "95f3653ec09c393c8003eb9f30803600",
+      "title": "Giá bạc tiếp tục giảm, chỉ hơn 77 triệu đồng/kg",
+      "link": "https://thanhnien.vn/gia-bac-tiep-tuc-giam-chi-hon-77-trieu-dong-kg-185260217093623183.htm",
+      "summary": "Mở cửa thị trường hôm nay 17.2, giá bạc giảm 1,68 triệu đồng/kg chiều mua vào và giảm 1,73 triệu đồng/kg chiều bán ra so với ngày 16.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T06:25:00+07:00",
+      "fetched": "2026-02-17T13:46:07.377034+07:00"
+    },
+    {
+      "id": "078c416cb93aaa682323d7ed53d755c1",
+      "title": "Tổng Bí thư Tô Lâm sẽ dự cuộc họp Hội đồng Hòa bình về Gaza tại Mỹ",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-se-du-cuoc-hop-hoi-dong-hoa-binh-ve-gaza-tai-my-185260217094434761.htm",
+      "summary": "Tổng Bí thư Tô Lâm sẽ có chuyến công tác tại Mỹ, dự cuộc họp khai mạc Hội đồng Hòa bình về Gaza từ ngày 18 - 20.2 theo lời mời của Tổng thống Mỹ Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T06:23:00+07:00",
+      "fetched": "2026-02-17T13:46:07.377184+07:00"
+    },
+    {
+      "id": "160763682028c8f2ba2f414a96083c18",
+      "title": "Phi hành gia Trung Quốc hát karaoke, làm bánh mừng năm mới",
+      "link": "https://vnexpress.net/phi-hanh-gia-trung-quoc-hat-karaoke-lam-banh-mung-nam-moi-5042005.html",
+      "summary": "Các phi hành gia của sứ mệnh Thần Châu 21 cùng nướng bánh, hát karaoke mừng năm mới từ không gian, ở độ cao khoảng 400 km so với Trái Đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T06:22:31+07:00",
+      "fetched": "2026-02-17T13:46:04.418283+07:00"
+    },
+    {
+      "id": "160763682028c8f2ba2f414a96083c18",
+      "title": "Phi hành gia Trung Quốc hát karaoke, làm bánh mừng năm mới",
+      "link": "https://vnexpress.net/phi-hanh-gia-trung-quoc-hat-karaoke-lam-banh-mung-nam-moi-5042005.html",
+      "summary": "Các phi hành gia của sứ mệnh Thần Châu 21 cùng nướng bánh, hát karaoke mừng năm mới từ không gian, ở độ cao khoảng 400 km so với Trái Đất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-17T06:22:31+07:00",
+      "fetched": "2026-02-17T13:46:13.438145+07:00"
+    },
+    {
+      "id": "a9efef66fe76f028f4a2fcec489f9884",
+      "title": "Lịch thi đấu CLB CAHN - Tampines mới nhất sau án phạt nặng, lộ diện kênh phát sóng: Phải thắng 4-0!",
+      "link": "https://thanhnien.vn/lich-thi-dau-clb-cahn-tampines-moi-nhat-sau-an-phat-nang-lo-dien-kenh-phat-song-phai-thang-4-0-185260217130233615.htm",
+      "summary": "Trận lượt về vòng 16 đội Cúp C2 châu Á 2025-2026 giữa Tampines Rovers và CLB Công an Hà Nội (CAHN) sẽ diễn ra lúc 19 giờ 15 ngày 18.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T06:12:00+07:00",
+      "fetched": "2026-02-17T13:46:07.377333+07:00"
+    },
+    {
+      "id": "4c547633584c7df195df49de0c10503c",
+      "title": "Ông Obama lên tiếng về người ngoài hành tinh và Khu vực 51",
+      "link": "https://thanhnien.vn/ong-obama-len-tieng-ve-nguoi-ngoai-hanh-tinh-va-khu-vuc-51-18526021710434114.htm",
+      "summary": "Cựu Tổng thống Mỹ Barack Obama cho biết ông không thấy bất kỳ bằng chứng nào cho thấy người ngoài hành tinh đã liên lạc với loài người, sau khi phát biểu của ông trong một chương trình podcast cuối tuần qua gây xôn xao mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T06:07:00+07:00",
+      "fetched": "2026-02-17T13:46:07.377496+07:00"
+    },
+    {
+      "id": "0b2b21ecf8a345a9b35854ff2957e8aa",
+      "title": "Cơm đoàn viên 0 đồng ở TP.HCM đêm giao thừa, sẻ chia nghĩa tình còn mãi",
+      "link": "https://thanhnien.vn/com-doan-vien-0-dong-o-tphcm-dem-giao-thua-se-chia-nghia-tinh-con-mai-185260217030045185.htm",
+      "summary": "Đêm giao thừa, những mâm cơm đoàn viên 0 đồng được trao đi, san sẻ ấm áp cho người xa quê, lao động nghèo giữa thời khắc chuyển mình của năm mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T06:04:00+07:00",
+      "fetched": "2026-02-17T13:46:07.377647+07:00"
+    },
+    {
+      "id": "9edef3fc26a90d604e6d9b9eae64e63d",
+      "title": "10 thực phẩm giàu vitamin C nên ăn thường xuyên",
+      "link": "https://vnexpress.net/10-thuc-pham-giau-vitamin-c-nen-an-thuong-xuyen-5041226.html",
+      "summary": "Trái cây họ cam quýt, ổi, dâu tây, ớt, rau cải xoăn giàu vitamin C, hỗ trợ miễn dịch, sản xuất collagen cho da và mạch máu, chống oxy hóa mạnh mẽ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T06:00:00+07:00",
+      "fetched": "2026-02-17T13:46:04.418447+07:00"
+    },
+    {
+      "id": "c036efa4036840c75b36f3b056e01f20",
+      "title": "Mỹ Lệ đưa không khí đón Tết ở TP HCM vào MV",
+      "link": "https://vnexpress.net/my-le-dua-khong-khi-don-tet-o-tp-hcm-vao-mv-5040801.html",
+      "summary": "Ca sĩ Mỹ Lệ đưa hình ảnh chợ Bến Thành, Bưu điện TP HCM vào MV \"Tết rồi, vui lên!\" trong không khí rộn ràng đón xuân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T05:58:19+07:00",
+      "fetched": "2026-02-17T13:46:04.418608+07:00"
+    },
+    {
+      "id": "15a3a19bbf2f67c8b4a11cca5f6c4286",
+      "title": "Đường phố TP.HCM thoáng đãng sáng mùng 1, khách nước ngoài choáng ngợp vì tết",
+      "link": "https://thanhnien.vn/duong-pho-tphcm-thoang-dang-sang-mung-1-khach-nuoc-ngoai-choang-ngop-vi-tet-185260217125824832.htm",
+      "summary": "Sáng 17.2.2026 (mùng 1 Tết Nguyên đán Bính Ngọ), nhiều tuyến đường trung tâm TP.HCM bất ngờ thông thoáng, thưa xe. Trong khi đó, đường hoa Nguyễn Huệ đông nghịt người du xuân, khiến nhiều du khách nước ngoài không khỏi choáng ngợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T05:58:00+07:00",
+      "fetched": "2026-02-17T13:46:07.377842+07:00"
+    },
+    {
+      "id": "a83ec0f161a9413967dbe5e60f517ee8",
+      "title": "'Ông Đồ' hơn 40 năm nâng niu từng nét chữ thư pháp đầu xuân",
+      "link": "https://thanhnien.vn/ong-do-hon-40-nam-nang-niu-tung-net-chu-thu-phap-dau-xuan-185260217095258933.htm",
+      "summary": "Gắn bó với nghệ thuật thư pháp hơn 40 năm, nghệ sĩ Đường Thiên Lạc cho chữ bằng sự trân trọng và chiều sâu văn hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T05:46:00+07:00",
+      "fetched": "2026-02-17T13:46:07.377997+07:00"
+    },
+    {
+      "id": "fe73488ac841cef4dbe8cdcb4f325ab1",
+      "title": "Nóng: CLB CAHN chính thức bị AFC xử thua Tampines 0-3, thiệt hại 1 tỉ đồng vì dùng cầu thủ trái luật",
+      "link": "https://thanhnien.vn/nong-afc-xu-thua-clb-cahn-0-3-tran-luot-ve-voi-tampines-them-kho-khan-185260215140836857.htm",
+      "summary": "CLB Công an Hà Nội (CLB CAHN) chính thức bị Liên đoàn Bóng đá châu Á (AFC) xử thua 0-3 ở trận lượt đi vòng 16 đội AFC Champions League 2 với Tampines Rovers. Án phạt được công bố ngày 17.2, đúng mùng 1 Tết Bính Ngọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T05:45:00+07:00",
+      "fetched": "2026-02-17T13:46:07.378159+07:00"
+    },
+    {
+      "id": "ad41e8cdb2bad3e7a787b0d37a754569",
+      "title": "Thẻ bài Pokemon được bán với giá hơn 16 triệu USD",
+      "link": "https://vnexpress.net/the-bai-pokemon-duoc-ban-voi-gia-hon-16-trieu-usd-5041999.html",
+      "summary": "Thẻ bài in hình Pokemon Pikachu cực hiếm của Youtuber nổi tiếng được bán đấu giá hơn 16 triệu USD, phá kỷ lục thế giới Guinness.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T05:26:21+07:00",
+      "fetched": "2026-02-17T13:46:04.418789+07:00"
+    },
+    {
+      "id": "ad41e8cdb2bad3e7a787b0d37a754569",
+      "title": "Thẻ bài Pokemon được bán với giá hơn 16 triệu USD",
+      "link": "https://vnexpress.net/the-bai-pokemon-duoc-ban-voi-gia-hon-16-trieu-usd-5041999.html",
+      "summary": "Thẻ bài in hình Pokemon Pikachu cực hiếm của Youtuber nổi tiếng được bán đấu giá hơn 16 triệu USD, phá kỷ lục thế giới Guinness.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-17T05:26:21+07:00",
+      "fetched": "2026-02-17T13:46:09.642501+07:00"
+    },
+    {
+      "id": "f83a4e96b5881dd693e566301daf2ad8",
+      "title": "Những 'chú ngựa chiến' ao ước của giới mộ điệu ôtô",
+      "link": "https://vnexpress.net/nhung-chu-ngua-chien-ao-uoc-cua-gioi-mo-dieu-oto-5041937.html",
+      "summary": "Với những người mê xe thuần túy, việc cầm lái những \"con ngựa\" như Ferrari, Porsche, Mustang luôn là một đặc ân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T05:21:21+07:00",
+      "fetched": "2026-02-17T13:46:04.418955+07:00"
+    },
+    {
+      "id": "f38bdbf0f0c6e862a7bcffd6e776dd43",
+      "title": "Mùng 1 rộn ràng: Người dân Phú Ninh đi chùa cầu bình an đầu xuân",
+      "link": "https://thanhnien.vn/mung-1-ron-rang-nguoi-dan-phu-ninh-di-chua-cau-binh-an-dau-xuan-185260217120952226.htm",
+      "summary": "Sáng mùng 1 Tết Nguyên đán, trong tiết trời thuận lợi, dịu nhẹ của những ngày đầu năm mới, người dân xã Phú Ninh, TP. Đà Nẵng nô nức đến chùa lễ Phật, cầu mong một năm bình an, mạnh khỏe và nhiều may mắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T05:18:00+07:00",
+      "fetched": "2026-02-17T13:46:07.378309+07:00"
+    },
+    {
+      "id": "e4d4b7752b6c7b14b520fcc2b81deff1",
+      "title": "Tìm ra phần mềm diệt virus tốt nhất năm 2026",
+      "link": "https://thanhnien.vn/tim-ra-phan-mem-diet-virus-tot-nhat-nam-2026-185260212093717116.htm",
+      "summary": "Khởi đầu năm mới an tâm hơn với phần mềm diệt virus mạnh mẽ hàng đầu hiện nay cho máy tính Windows do Consumer Reports bình chọn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T05:18:00+07:00",
+      "fetched": "2026-02-17T13:46:07.378460+07:00"
+    },
+    {
       "id": "e5a4c50c4d8c43e3ff499bbb10852944",
       "title": "Đầu năm thử 'gieo quẻ' bóng đá thế giới",
       "link": "https://tuoitre.vn/dau-nam-thu-gieo-que-bong-da-the-gioi-202602160748102.htm",
@@ -241,6 +551,106 @@ window.newsData_2026_02_17 = {
       "category": "Tổng hợp",
       "published": "2026-02-17T05:17:54.604081+07:00",
       "fetched": "2026-02-17T05:17:54.604240+07:00"
+    },
+    {
+      "id": "6f47c23a460b912d871ad3e8f7866749",
+      "title": "Xem nhanh 12h mùng 1 tết: Năm ngựa nghe chuyện ngựa thần | Người nước ngoài nói gì về tết Việt?",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-mung-1-tet-nam-ngua-nghe-chuyen-ngua-than-nguoi-nuoc-ngoai-noi-gi-ve-tet-viet-185260217121146527.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Xem nhanh 12h ngày mùng 1 Tết Nguyên đán Bính Ngọ 2026 của Báo Thanh Niên. Bản tin Xem nhanh 12h được phát trên thanhnien.vn cùng kênh YouTube Báo Thanh Niên. Kính mời quý vị theo dõi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T05:11:00+07:00",
+      "fetched": "2026-02-17T13:46:07.378607+07:00"
+    },
+    {
+      "id": "ac8b222b6dd769c348a7d0aac1208738",
+      "title": "Đau dạ dày, mất ngủ vì sợ về quê ăn Tết",
+      "link": "https://vnexpress.net/dau-da-day-mat-ngu-vi-so-ve-que-an-tet-5041930.html",
+      "summary": "Nghĩ đến cảnh bị họ hàng \"tra khảo\" chuyện chồng con, lương thưởng, Hu (29 tuổi) lên cơn đau dạ dày dữ dội, mất ngủ triền miên dù không có bệnh lý thực thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T05:08:18+07:00",
+      "fetched": "2026-02-17T13:46:04.419111+07:00"
+    },
+    {
+      "id": "553e7ed54bd0ffd80cddee37e2d0e903",
+      "title": "Tục khai bút đầu năm mang ý nghĩa gì?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-tuc-khai-but-dau-nam-mang-y-nghia-gi-5041759.html",
+      "summary": "Mỗi dịp xuân về, nhiều người Việt lại giữ thói quen khai bút đầu năm như một nghi thức đẹp mở đầu cho năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T05:00:00+07:00",
+      "fetched": "2026-02-17T13:46:04.419271+07:00"
+    },
+    {
+      "id": "3b9b100b628dff67ecd05f1fbd8eb350",
+      "title": "Màn tái đấu Benfica - Real thắp sáng play-off Champions League",
+      "link": "https://vnexpress.net/man-tai-dau-benfica-real-thap-sang-play-off-champions-league-5041691.html",
+      "summary": "Real Madrid làm khách của Benfica hay đương kim vô địch PSG đấu Monaco là tâm điểm của vòng play-off Champions League mùa 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T05:00:00+07:00",
+      "fetched": "2026-02-17T13:46:04.419441+07:00"
+    },
+    {
+      "id": "bd61eaeb4cabeb468423e7dc697b9529",
+      "title": "Lý do uống nhiều rượu bia ngày Tết gây khàn giọng",
+      "link": "https://vnexpress.net/ly-do-uong-nhieu-ruou-bia-ngay-tet-gay-khan-giong-5041223.html",
+      "summary": "Uống nhiều rượu bia dễ làm khô niêm mạc đường hô hấp trên, gây viêm thanh quản, dẫn đến khàn giọng, mất tiếng tạm thời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T05:00:00+07:00",
+      "fetched": "2026-02-17T13:46:04.419598+07:00"
+    },
+    {
+      "id": "8ba03ec165a9cbece81aab2507329b8f",
+      "title": "Người dân ngắm pháo hoa, đón giao thừa tại Mailand Hanoi City",
+      "link": "https://vnexpress.net/nguoi-dan-ngam-phao-hoa-don-giao-thua-tai-mailand-hanoi-city-5040028.html",
+      "summary": "Hàng nghìn người dân xã An Khánh, Sơn Đồng, phường Tây Mỗ và khu vực lân cận đổ về khu đô thị Mailand Hanoi City vui chơi, chụp ảnh đợi pháo hoa rực rỡ trong thời khắc giao thừa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T05:00:00+07:00",
+      "fetched": "2026-02-17T13:46:04.419778+07:00"
+    },
+    {
+      "id": "3b9b100b628dff67ecd05f1fbd8eb350",
+      "title": "Màn tái đấu Benfica - Real thắp sáng play-off Champions League",
+      "link": "https://vnexpress.net/man-tai-dau-benfica-real-thap-sang-play-off-champions-league-5041691.html",
+      "summary": "Real Madrid làm khách của Benfica hay đương kim vô địch PSG đấu Monaco là tâm điểm của vòng play-off Champions League mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T05:00:00+07:00",
+      "fetched": "2026-02-17T13:46:14.321439+07:00"
+    },
+    {
+      "id": "029bc591a7d53a4807c601047b2bc16d",
+      "title": "Thú vui cắm hoa ngày Tết của sao Việt",
+      "link": "https://vnexpress.net/thu-vui-cam-hoa-ngay-tet-cua-sao-viet-5041182.html",
+      "summary": "Hoa hậu Đỗ Thị Hà, diễn viên Midu, ca sĩ Bảo Trâm cắm nhiều bình hoa rực rỡ trong nhà để đón Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T04:58:06+07:00",
+      "fetched": "2026-02-17T13:46:04.419937+07:00"
+    },
+    {
+      "id": "dea3e82d36f2593b6ea8daddb7c10432",
+      "title": "Chương trình Quảng trường mùa xuân 'nhạt hơn Táo quân'",
+      "link": "https://vnexpress.net/chuong-trinh-quang-truong-mua-xuan-nhat-hon-tao-quan-5041881.html",
+      "summary": "Nhiều khán giả nhận xét Quảng trường mùa xuân - chương trình được kỳ vọng thay thế \"Táo quân\" đêm giao thừa - nhạt và thiếu điểm nhấn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T04:47:50+07:00",
+      "fetched": "2026-02-17T13:46:04.420089+07:00"
+    },
+    {
+      "id": "f85b495732dcd0ee3ce8f26a37a106f2",
+      "title": "Người dân chen chân đi chùa cầu may đầu năm",
+      "link": "https://vnexpress.net/nguoi-dan-chen-chan-di-chua-cau-may-dau-nam-5041987.html",
+      "summary": "Sau thời khắc giao thừa, hàng nghìn người đổ về Phủ Tây Hồ và chùa Quán Thánh dâng hương, cầu bình an năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T04:12:39+07:00",
+      "fetched": "2026-02-17T13:46:04.420243+07:00"
     },
     {
       "id": "0d9fe4d3fef9bc9ae1d2b9318559997a",
@@ -311,6 +721,16 @@ window.newsData_2026_02_17 = {
       "category": "Tổng hợp",
       "published": "2026-02-17T04:00:00+07:00",
       "fetched": "2026-02-17T11:09:50.102449+07:00"
+    },
+    {
+      "id": "48676d1e30a070d030162c8c1b5f13ef",
+      "title": "Xử trí đúng cách khi ngộ độc thực phẩm ngày Tết",
+      "link": "https://vnexpress.net/xu-tri-dung-cach-khi-ngo-doc-thuc-pham-ngay-tet-5041554.html",
+      "summary": "Rối loạn tiêu hóa sau Tết thường do mất nước nên ưu tiên bù oresol đúng cách, tránh sai lầm, đến bệnh viện nếu có dấu hiệu nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T04:00:00+07:00",
+      "fetched": "2026-02-17T13:46:04.420406+07:00"
     },
     {
       "id": "84da13a408c6e80d176e79530a4b9a9f",
