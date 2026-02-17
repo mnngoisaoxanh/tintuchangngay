@@ -1,6 +1,6 @@
 window.newsData_2026_02_18 = {
   "date": "2026-02-18",
-  "lastUpdated": "2026-02-18T03:27:07.080920+07:00",
+  "lastUpdated": "2026-02-18T05:20:56.692716+07:00",
   "articles": [
     {
       "id": "e5f4af1268edfb1d1ed5968fb4af78e7",
@@ -151,6 +151,146 @@ window.newsData_2026_02_18 = {
       "category": "Tổng hợp",
       "published": "2026-02-18T01:43:36.525320+07:00",
       "fetched": "2026-02-18T01:43:36.525532+07:00"
+    },
+    {
+      "id": "99109bfcbb1e10f4792d5fbb89881b2b",
+      "title": "Tử vi ngày 18 tháng 2: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-18-thang-2-con-giap-nao-may-man-hom-nay-185260217221646303.htm",
+      "summary": "Tử vi ngày 18 tháng 2 mang đến những gợi ý mang tính tham khảo cho tử vi hằng ngày của 12 con giáp mùng 2 Tết Bính Ngọ 2026. Đây là thời điểm nhiều người xuất hành, thăm hỏi họ hàng, bạn bè và mở rộng các mối quan hệ đầu năm. Không khí vui vẻ giúp tài lộc mang ý nghĩa khởi sắc nhẹ, quan trọng nhất l...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T22:15:00+07:00",
+      "fetched": "2026-02-18T05:20:46.116403+07:00"
+    },
+    {
+      "id": "826ff066619d5ad69713277299503ba6",
+      "title": "V-League 2025-2026 sẽ ‘nóng rực’ sau tết: CLB CAHN và Ninh Bình đua ngôi đầu",
+      "link": "https://thanhnien.vn/v-league-2025-2026-se-nong-ruc-sau-tet-clb-cahn-va-ninh-binh-dua-ngoi-dau-185260217221342712.htm",
+      "summary": "V-League 2025-2026 đang bước vào giai đoạn kịch tính nhất trước khi tạm nghỉ 2 tuần dịp Tết Nguyên đán. Cuộc đua vô địch giữa CLB Công an Hà Nội và CLB Ninh Bình cùng sự trỗi dậy của nhiều đội bóng khiến người hâm mộ không khỏi 'nhung nhớ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T22:13:00+07:00",
+      "fetched": "2026-02-18T05:20:46.116572+07:00"
+    },
+    {
+      "id": "1112280ac84cd3ac96ee546b73736c19",
+      "title": "Điều gì khiến phường Rạch Dừa của TP.HCM trở thành trung tâm dịch vụ hậu cần dầu khí quốc gia?",
+      "link": "https://thanhnien.vn/dieu-gi-khien-phuong-rach-dua-cua-tphcm-tro-thanh-trung-tam-dich-vu-hau-can-dau-khi-quoc-gia-185250811141852192.htm",
+      "summary": "Giữa nhịp phát triển của TP.HCM mở rộng, phường Rạch Dừa nổi lên với vai trò đặc biệt trong bức tranh năng lượng quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T22:09:00+07:00",
+      "fetched": "2026-02-18T05:20:46.116729+07:00"
+    },
+    {
+      "id": "9b789891d2a13c9e1a41975537ce9fd5",
+      "title": "Nén đau khi mẹ cấp cứu, hai anh em hiến tạng bố cứu 6 người",
+      "link": "https://vnexpress.net/nen-dau-khi-me-cap-cuu-hai-anh-em-hien-tang-bo-cuu-6-nguoi-5041953.html",
+      "summary": "Sợ mẹ bị sốc khi đang cấp cứu, hai anh em quyết định giữ bí mật về sự ra đi của bố, đồng thời hiến tạng người quá cố để sự sống được tiếp nối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T22:00:00+07:00",
+      "fetched": "2026-02-18T05:20:42.850223+07:00"
+    },
+    {
+      "id": "0a0ae26731e6dadf24a7c636ab75ade0",
+      "title": "Nhà văn Nguyễn Ngọc Tiến: 'Tết Nguyên đán giá trị ở sự đoàn viên'",
+      "link": "https://vnexpress.net/nha-van-nguyen-ngoc-tien-tet-nguyen-dan-gia-tri-o-su-doan-vien-5040522.html",
+      "summary": "Nguyễn Ngọc Tiến - tác giả nhiều khảo cứu về Hà Nội - nhận định, ngày Tết có giá trị tâm linh, tín ngưỡng gắn chặt nếp sống và văn hóa người Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T22:00:00+07:00",
+      "fetched": "2026-02-18T05:20:42.850409+07:00"
+    },
+    {
+      "id": "277b2c5fdf681dabf7f29f3686cea19d",
+      "title": "Ngày, giờ đẹp làm lễ hóa vàng năm Bính Ngọ 2026",
+      "link": "https://vnexpress.net/ngay-gio-dep-lam-le-hoa-vang-nam-binh-ngo-2026-5008219.html",
+      "summary": "Mùng 3 Tết Bính Ngọ 2026 là ngày Giáp Tý, ngày Thanh Long Hoàng đạo (rất tốt) nên các gia đình có thể làm lễ hóa vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T22:00:00+07:00",
+      "fetched": "2026-02-18T05:20:42.850580+07:00"
+    },
+    {
+      "id": "69123c29270a5e40a00038cac1427b22",
+      "title": "Lý do sức mạnh ôtô được gọi là 'sức ngựa'",
+      "link": "https://vnexpress.net/ly-do-suc-manh-oto-duoc-goi-la-suc-ngua-5041905.html",
+      "summary": "Mã lực, thước đo sức mạnh động cơ ôtô, bắt nguồn từ cách con người so sánh máy móc với sức kéo của ngựa từ hơn hai thế kỷ trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T22:00:00+07:00",
+      "fetched": "2026-02-18T05:20:42.850754+07:00"
+    },
+    {
+      "id": "eaea27c951bf4cf953c8ebf5abc1316d",
+      "title": "Chiến sự Ukraine ngày 1.455: Hỏa lực leo thang giữa lúc hòa đàm tại Geneva",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1455-hoa-luc-leo-thang-giua-luc-hoa-dam-tai-geneva-185260217173140068.htm",
+      "summary": "Nhà máy lọc dầu chiến lược ở một vùng Krasnodar Krai của Nga bốc cháy sau đòn tấn công bằng UAV, trong khi Ukraine cũng hứng đợt không kích lớn, làm gia tăng căng thẳng trước thềm đàm phán hòa bình tại Geneva (Thụy Sĩ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T22:00:00+07:00",
+      "fetched": "2026-02-18T05:20:46.116882+07:00"
+    },
+    {
+      "id": "63f89f0164cee9f76a9f4c77439dccb0",
+      "title": "Hôm nay mùng 2 tết, người Việt đón tiết Vũ thủy: Tiết khí này ý nghĩa gì?",
+      "link": "https://thanhnien.vn/hom-nay-mung-2-tet-nguoi-viet-don-tiet-vu-thuy-tiet-khi-nay-y-nghia-gi-185260130081747567.htm",
+      "summary": "Mùng 2 Tết Nguyên đán Bính Ngọ 2026 hôm nay là ngày đầu tiên người Việt đón tiết Vũ thủy, tiết khí thứ hai trong 24 tiết khí của năm. Tiết khí này có ý nghĩa gì, thời tiết từ hôm nay thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T22:00:00+07:00",
+      "fetched": "2026-02-18T05:20:46.117056+07:00"
+    },
+    {
+      "id": "354325287bae97537be12cce55c16495",
+      "title": "Galatasaray đè bẹp Juventus ở Champions League",
+      "link": "https://vnexpress.net/galatasaray-de-bep-juventus-o-champions-league-5042073.html",
+      "summary": "Galatasaray thắng đội khách Juventus 5-2 ở lượt đi play-off và nắm lợi thế lớn vào vòng 1/8 Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T21:32:11+07:00",
+      "fetched": "2026-02-18T05:20:42.850912+07:00"
+    },
+    {
+      "id": "354325287bae97537be12cce55c16495",
+      "title": "Galatasaray đè bẹp Juventus ở Champions League",
+      "link": "https://vnexpress.net/galatasaray-de-bep-juventus-o-champions-league-5042073.html",
+      "summary": "Galatasaray thắng đội khách Juventus 5-2 ở lượt đi play-off và nắm lợi thế lớn vào vòng 1/8 Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T21:32:11+07:00",
+      "fetched": "2026-02-18T05:20:56.687852+07:00"
+    },
+    {
+      "id": "d26631f63b397e8ed0d079e12c7bcc05",
+      "title": "Đội tuyển Việt Nam cao hơn 1,80 m: Khẳng định vị thế trước Malaysia đâu chỉ vì mỗi thể hình",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-cao-hon-180-m-khang-dinh-vi-the-truoc-malaysia-dau-chi-vi-moi-the-hinh-185260218035412541.htm",
+      "summary": "Đội tuyển Việt Nam hứa hẹn sẽ mang đến diện mạo mới trong cuộc tái đấu với Malaysia, thuộc khuôn khổ vòng loại cuối Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T21:24:00+07:00",
+      "fetched": "2026-02-18T05:20:46.117210+07:00"
+    },
+    {
+      "id": "f3e2c0ab54dae68c6a5382b9c38fc59c",
+      "title": "Hàng chục tài xế bị bắt oan lỗi say rượu lái xe",
+      "link": "https://vnexpress.net/hang-chuc-tai-xe-bi-bat-oan-loi-say-ruou-lai-xe-5042057.html",
+      "summary": "41 vụ án tài xế say rượu lái xe được tòa hủy bỏ sau khi kết quả xét nghiệm âm tính và tất cả liên quan chỉ một cảnh sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T21:00:00+07:00",
+      "fetched": "2026-02-18T05:20:42.851092+07:00"
+    },
+    {
+      "id": "1ca42fdd2353533da35b745ec7f99ac4",
+      "title": "Năm Bính Ngọ, thử thắng cố ngựa Tây Bắc qua tay cô chủ miền Tây: Lần đầu nếm vị khó quên",
+      "link": "https://thanhnien.vn/nam-binh-ngo-thu-thang-co-ngua-tay-bac-qua-tay-co-chu-mien-tay-lan-dau-nem-vi-kho-quen-185260216065559314.htm",
+      "summary": "Giữa không khí đầu năm Bính Ngọ, MC Phước Nhân có dịp thưởng thức thắng cố ngựa, món ăn trứ danh của núi rừng Tây Bắc, nhưng được nấu bởi một cô chủ quán gốc miền Tây. Sự giao thoa ẩm thực đầy bất ngờ khiến trải nghiệm vừa lạ lẫm, vừa tò mò, khi mùi vị đặc trưng của thắng cố được biến tấu để hợp khẩ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T21:00:00+07:00",
+      "fetched": "2026-02-18T05:20:46.117362+07:00"
     },
     {
       "id": "32aeaf6dca607adc4bad9d53577d47b3",
