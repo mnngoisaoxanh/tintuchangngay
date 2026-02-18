@@ -1,7 +1,147 @@
 window.newsData_2026_02_18 = {
   "date": "2026-02-18",
-  "lastUpdated": "2026-02-18T05:20:56.692716+07:00",
+  "lastUpdated": "2026-02-18T08:17:21.899680+07:00",
   "articles": [
+    {
+      "id": "55d2ba007e55de0f64f5962e1ea579df",
+      "title": "Thời tiết hôm nay mùng 2 Tết: Bắc Bộ giảm nhiệt, Nam Bộ nắng gắt",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-mung-2-tet-bac-bo-giam-nhiet-nam-bo-nang-gat-20260217165016426.htm",
+      "summary": "Hôm nay 18-2 (mùng 2 Tết Bính Ngọ), thời tiết Bắc Bộ nhiệt độ giảm xuống 13 độ C, trong khi đó các tỉnh miền Nam bắt đầu đợt nắng nóng đầu tiên của năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:17:14.833541+07:00",
+      "fetched": "2026-02-18T08:17:14.833638+07:00"
+    },
+    {
+      "id": "76a9f8ac44aa0fbca6de3c4c4a69517a",
+      "title": "Hoàng Thùy Linh, Đen Vâu song ca Vị nhà cực tình trong Đón Tết cùng VTV",
+      "link": "https://tuoitre.vn/hoang-thuy-linh-den-vau-song-ca-vi-nha-cuc-tinh-trong-don-tet-cung-vtv-20260217232305586.htm",
+      "summary": "Tối 17-2, chương trình nghệ thuật đặc biệt Đón Tết cùng VTV - Bay giữa cánh đồng xuân chính thức lên sóng với sự góp mặt của dàn sao trẻ như Đen Vâu, Hoàng Thùy Linh, Văn Mai Hương...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:17:14.833432+07:00",
+      "fetched": "2026-02-18T08:17:14.833532+07:00"
+    },
+    {
+      "id": "88ee053103770bf2a553c82436a7884c",
+      "title": "NSND Mỹ Uyên gởi đến bạn đọc báo Tuổi Trẻ lời chúc mạnh khỏe, bình an",
+      "link": "https://tuoitre.vn/nsnd-my-uyen-goi-den-ban-doc-bao-tuoi-tre-loi-chuc-manh-khoe-binh-an-20260217210250913.htm",
+      "summary": "Nhân dịp đầu xuân mới, nghệ sĩ Mỹ Uyên gởi lời chúc đến bạn đọc báo Tuổi Trẻ một năm mạnh khỏe, bình an, hạnh phúc và mọi việc hanh thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:17:14.833324+07:00",
+      "fetched": "2026-02-18T08:17:14.833423+07:00"
+    },
+    {
+      "id": "abd4ec0133a97d05b1bbc26d8e0008d3",
+      "title": "Sơn Tùng M-TP, MONO cùng khung hình với ba mẹ gây ‘bão’ mạng",
+      "link": "https://tuoitre.vn/son-tung-m-tp-mono-cung-khung-hinh-voi-ba-me-gay-bao-mang-20260217225730789.htm",
+      "summary": "Khoảnh khắc Sơn Tùng M-TP, MONO cùng ba mẹ đi chúc Tết ngày mùng 1, thu hút sự quan tâm của cộng đồng mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:17:14.833216+07:00",
+      "fetched": "2026-02-18T08:17:14.833315+07:00"
+    },
+    {
+      "id": "eb0fc294ff7a58c7d53d43c8f8860afe",
+      "title": "Mùng 2 Tết ở các nước châu Á có gì khác biệt?",
+      "link": "https://tuoitre.vn/mung-2-tet-o-cac-nuoc-chau-a-co-gi-khac-biet-202602180121489.htm",
+      "summary": "Sau mùng 1, nhiều quốc gia châu Á tiếp tục duy trì sinh hoạt riêng trong ngày mùng 2 Tết như thăm hỏi gia đình, nối dài kỳ nghỉ Tết hoặc tham gia hoạt động văn hóa cộng đồng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:17:14.833105+07:00",
+      "fetched": "2026-02-18T08:17:14.833207+07:00"
+    },
+    {
+      "id": "4d1bd65fd4b9684fc6111f321fcc3d65",
+      "title": "10 khoảnh khắc thời trang đẹp nhất lịch sử BAFTA",
+      "link": "https://tuoitre.vn/10-khoanh-khac-thoi-trang-dep-nhat-lich-su-bafta-20260217211758278.htm",
+      "summary": "Thảm đỏ BAFTA là nơi điện ảnh và thời trang song hành, ghi dấu những khoảnh khắc phong cách đáng nhớ của các biểu tượng màn bạc và những nhân vật có tầm ảnh hưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:17:14.832995+07:00",
+      "fetched": "2026-02-18T08:17:14.833095+07:00"
+    },
+    {
+      "id": "444c3a0e5d22a8a1a9e0973d3e8775e1",
+      "title": "Vì sao 'Mã đáo thành công' thường đi cùng hình ảnh 8 chú ngựa?",
+      "link": "https://tuoitre.vn/vi-sao-ma-dao-thanh-cong-thuong-di-cung-hinh-anh-8-chu-ngua-20260218020216968.htm",
+      "summary": "Không chỉ là một câu chúc đầu năm quen thuộc, 'Mã đáo thành công' còn gắn liền với hình tượng 8 chú ngựa phi nước đại trong tranh phong thủy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:17:14.832873+07:00",
+      "fetched": "2026-02-18T08:17:14.832985+07:00"
+    },
+    {
+      "id": "5b9b1495579a549dc05f4871dfd71894",
+      "title": "CĐV Trung Quốc nổi giận khi bóng đá nước nhà 'thua cả Thái Lan'",
+      "link": "https://tuoitre.vn/cdv-trung-quoc-noi-gian-khi-bong-da-nuoc-nha-thua-ca-thai-lan-20260217230156271.htm",
+      "summary": "Đông đảo người hâm mộ Trung Quốc thể hiện thái độ tức giận với bóng đá nước nhà sau thất bại muối mặt của các CLB Trung Quốc ở AFC Champions League Elite.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:17:14.832764+07:00",
+      "fetched": "2026-02-18T08:17:14.832864+07:00"
+    },
+    {
+      "id": "f9bf265f9d27c11b06a086138b7dedf4",
+      "title": "Vinicius lập siêu phẩm, Real Madrid đánh bại Benfica",
+      "link": "https://tuoitre.vn/vinicius-lap-sieu-pham-real-madrid-danh-bai-benfica-2026021805355185.htm",
+      "summary": "Rạng sáng 18-2, Real Madrid đã đánh bại chủ nhà Benfica 1-0 ở trận lượt đi vòng play-off Champions League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:17:14.832653+07:00",
+      "fetched": "2026-02-18T08:17:14.832754+07:00"
+    },
+    {
+      "id": "5c31a2ef8f66f4e8561dcbef9833af44",
+      "title": "Lì xì Tết là dịp để nói chuyện với trẻ về bài học tiền bạc",
+      "link": "https://tuoitre.vn/li-xi-tet-la-dip-de-noi-chuyen-voi-tre-ve-bai-hoc-tien-bac-20260128102621855.htm",
+      "summary": "Tiền bạc thường là chủ đề khó nói trong nhiều gia đình. Nhưng vào dịp Tết, khi trẻ em cầm trên tay phong bao lì xì đầu năm, đó lại là lúc để người lớn có thể trò chuyện tự nhiên, bình đẳng về tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:17:14.832539+07:00",
+      "fetched": "2026-02-18T08:17:14.832644+07:00"
+    },
+    {
+      "id": "b51ed9540af43cc22d860e1d83559830",
+      "title": "Khát vọng vươn mình của bóng đá Việt Nam",
+      "link": "https://tuoitre.vn/khat-vong-vuon-minh-cua-bong-da-viet-nam-20260216233525097.htm",
+      "summary": "Kiên trì đào tạo trẻ và không nằm ngoài xu thế sử dụng cầu thủ ngoại nhập tịch, bóng đá Việt Nam  không giấu khát vọng vươn mình trong năm mới Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:17:14.832425+07:00",
+      "fetched": "2026-02-18T08:17:14.832528+07:00"
+    },
+    {
+      "id": "a50ec1ce1f15c13fdfabc58bfe936eb0",
+      "title": "Việt kiều Khoa Ngô: Khoác áo U23, tuyển Việt Nam là giấc mơ",
+      "link": "https://tuoitre.vn/viet-kieu-khoa-ngo-khoac-ao-u23-tuyen-viet-nam-la-giac-mo-20260215232217551.htm",
+      "summary": "Ghi bàn ngay trận ra mắt CLB Công An TP.HCM và V-League, tiền vệ Việt kiều Khoa Ngô không giấu khát vọng có thể cống hiến cho bóng đá Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:17:14.832310+07:00",
+      "fetched": "2026-02-18T08:17:14.832415+07:00"
+    },
+    {
+      "id": "4b111ddf42074ce32441b728dcc18044",
+      "title": "Người bệnh tiểu đường không nên ăn gì trong mâm cỗ  ngày Tết?",
+      "link": "https://tuoitre.vn/nguoi-benh-tieu-duong-khong-nen-an-gi-trong-mam-co-ngay-tet-20260210131940252.htm",
+      "summary": "Mỗi dịp Tết đến, mâm cơm với bánh chưng xanh, thịt đông là nét đặc trưng của sự đoàn viên, sum họp trong mỗi gia đình Việt Nam. Thế nhưng, với những người đang chung sống cùng bệnh tiểu đường, những món ăn lại trở thành áp lực âm thầm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:17:14.832185+07:00",
+      "fetched": "2026-02-18T08:17:14.832300+07:00"
+    },
+    {
+      "id": "ba92976ef04926b07038a7e658c885f5",
+      "title": "Galatasaray gây sốc, PSG ngược dòng ấn tượng",
+      "link": "https://tuoitre.vn/galatasaray-gay-soc-psg-nguoc-dong-an-tuong-20260218061529592.htm",
+      "summary": "Rạng sáng 18-2, Galatasaray gây sốc ở lượt đi vòng play-off Champions League khi hạ Juventus 5-2 trên sân nhà. Ở trận đấu khác, PSG đánh bại Monaco 3-2 sau khi để đối thủ dẫn trước 2 bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:17:14.831968+07:00",
+      "fetched": "2026-02-18T08:17:14.832172+07:00"
+    },
     {
       "id": "e5f4af1268edfb1d1ed5968fb4af78e7",
       "title": "Nỗi ám ảnh 'đi làm thành phố về chắc lì xì nhiều lắm ha'",
@@ -151,6 +291,416 @@ window.newsData_2026_02_18 = {
       "category": "Tổng hợp",
       "published": "2026-02-18T01:43:36.525320+07:00",
       "fetched": "2026-02-18T01:43:36.525532+07:00"
+    },
+    {
+      "id": "bd7acde947dc60ffc4c19672b278a984",
+      "title": "Cú hích hạ tầng thay đổi diện mạo Đồng Tháp Mười",
+      "link": "https://thanhnien.vn/cu-hich-ha-tang-thay-doi-dien-mao-dong-thap-muoi-185260213115034899.htm",
+      "summary": "Dự án đường Tân An - Bình Hiệp, với tổng vốn đầu tư hơn 9.300 tỉ đồng, có mục tiêu khơi thông điểm nghẽn giao thông và tạo động lực đột phá kinh tế - xã hội vùng Đồng Tháp Mười, tỉnh Tây Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T01:16:00+07:00",
+      "fetched": "2026-02-18T08:17:13.701473+07:00"
+    },
+    {
+      "id": "adfb7541a2f9aa36dc29afa6c749e5cc",
+      "title": "Số phận phim của Trấn Thành trong ngày đầu ra rạp",
+      "link": "https://thanhnien.vn/so-phan-phim-cua-tran-thanh-trong-ngay-dau-ra-rap-185260217233155635.htm",
+      "summary": "Trong ngày đầu ra rạp, tác phẩm 'Thỏ ơi' của Trấn Thành thu về hơn 30,4 tỉ đồng, bỏ xa các đối thủ còn lại trên đường đua phim tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T01:14:00+07:00",
+      "fetched": "2026-02-18T08:17:13.701622+07:00"
+    },
+    {
+      "id": "95a3c378bac9d7648fc12831b67719b1",
+      "title": "Đảo hoa sao nhái ở Cà Mau thu hút khách ngày Tết Bính Ngọ",
+      "link": "https://thanhnien.vn/dao-hoa-sao-nhai-o-ca-mau-thu-hut-khach-ngay-tet-binh-ngo-185260218031127957.htm",
+      "summary": "Tết Bính Ngọ 2026, đảo hoa sao nhái rộng hơn 2,5 ha tại khu đô thị ở phường Tân Thành (Cà Mau) thu hút đông đảo người dân và du khách đến tham quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T01:12:00+07:00",
+      "fetched": "2026-02-18T08:17:13.701754+07:00"
+    },
+    {
+      "id": "5ce350a40dd847f32e8426fdc13a9245",
+      "title": "Tổng thống Trump công bố ba dự án lớn trong thỏa thuận với Nhật",
+      "link": "https://thanhnien.vn/tong-thong-trump-cong-bo-ba-du-an-lon-trong-thoa-thuan-voi-nhat-185260218074033578.htm",
+      "summary": "Các dự án này bao gồm một nhà máy điện khí ở Ohio, một cơ sở khí đốt tự nhiên hóa lỏng ở vịnh Mexico và một nhà máy khoáng sản quan trọng ở Georgia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T01:10:00+07:00",
+      "fetched": "2026-02-18T08:17:13.701883+07:00"
+    },
+    {
+      "id": "a05e7739c1b6c3ecd2131748288cefc4",
+      "title": "Mùng 2 tết, siêu thị nào mở cửa?",
+      "link": "https://thanhnien.vn/mung-2-tet-sieu-thi-nao-mo-cua-185260218073807238.htm",
+      "summary": "Dù kỳ nghỉ tết dài ngày, nhưng vẫn có siêu thị thông báo linh động mở cửa sớm hơn để phục vụ nhu cầu người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T01:09:00+07:00",
+      "fetched": "2026-02-18T08:17:13.702024+07:00"
+    },
+    {
+      "id": "43ca722941045576b55161b80ecf2e2f",
+      "title": "Mỹ sẽ triển khai các hệ thống tên lửa hiện đại đến Philippines",
+      "link": "https://thanhnien.vn/my-se-trien-khai-cac-he-thong-ten-lua-hien-dai-den-philippines-185260218070629665.htm",
+      "summary": "Tại cuộc Đối thoại Chiến lược song phương Philippines - Mỹ lần thứ 12, hai bên đều cam kết tiếp tục nỗ lực tăng cường triển khai các hệ thống tên lửa và máy bay không người lái (UAV) tiên tiến của Mỹ đến Philippines.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T01:09:00+07:00",
+      "fetched": "2026-02-18T08:17:13.702150+07:00"
+    },
+    {
+      "id": "a27630fccf269f999a7ff5c6e96a99e2",
+      "title": "Mỹ thay đổi màu sơn cho chuyên cơ Không lực Một",
+      "link": "https://vnexpress.net/my-thay-doi-mau-son-cho-chuyen-co-khong-luc-mot-5042083.html",
+      "summary": "Không quân Mỹ thông báo triển khai thiết kế màu sơn mới cho đội bay cấp cao, bao gồm cả chuyên cơ Không lực Một, với 4 màu đỏ, trắng, xanh dương đậm và vàng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-18T01:07:38+07:00",
+      "fetched": "2026-02-18T08:17:16.798706+07:00"
+    },
+    {
+      "id": "790db5630f78ebd55a9c82eb2d0439fb",
+      "title": "Đàm phán Mỹ - Iran có tiến triển, Nhà Trắng vẫn để ngỏ mọi lựa chọn",
+      "link": "https://thanhnien.vn/dam-phan-my-iran-co-tien-trien-nha-trang-van-de-ngo-moi-lua-chon-185260218080004431.htm",
+      "summary": "Iran và Mỹ đã đạt được sự hiểu biết chung về một số 'nguyên tắc chỉ đạo' trong các cuộc đàm phán nhằm giải quyết tranh chấp hạt nhân kéo dài giữa hai bên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T01:05:00+07:00",
+      "fetched": "2026-02-18T08:17:13.702277+07:00"
+    },
+    {
+      "id": "511907963ee53ea117b9d3e987258fc0",
+      "title": "Những mẫu ô tô, xe máy phiên bản đặc biệt mừng năm mới Bính Ngọ 2026",
+      "link": "https://thanhnien.vn/nhung-mau-o-to-xe-may-phien-ban-dac-biet-mung-nam-moi-binh-ngo-2026-185260217082616226.htm",
+      "summary": "Hướng tới nhóm khách hàng cá tính, thích sự độc đáo để sở hữu, sưu tầm… một số nhà sản xuất ô tô, xe máy tung ra thị trường các mẫu xe phiên bản đặc biệt, sản xuất giới hạn mừng năm mới Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T01:03:00+07:00",
+      "fetched": "2026-02-18T08:17:13.702406+07:00"
+    },
+    {
+      "id": "bacdfd33cf26079277def0d4109fc557",
+      "title": "Những ngôi sao trẻ hứa hẹn rực sáng trong màu áo U.21 Việt Nam, dấu mốc sẽ là…",
+      "link": "https://thanhnien.vn/nhung-ngoi-sao-tre-hua-hen-ruc-sang-trong-mau-ao-u21-viet-nam-dau-moc-se-la-185260217194106654.htm",
+      "summary": "Không chỉ có thế hệ U.23 xuất sắc, bóng đá Việt Nam còn có những gương mặt khác còn trẻ hơn nữa, không thiếu triển vọng trên đấu trường quốc tế. Cột mốc để họ ghi dấu ấn có thể là ASIAD 20 diễn ra từ ngày 19.9 - 4.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T01:00:00+07:00",
+      "fetched": "2026-02-18T08:17:13.702536+07:00"
+    },
+    {
+      "id": "ecb911a50d2e2661f59c4caffb4a9218",
+      "title": "Kiêng quét nhà, kiêng vay tiền đầu năm: Phong tục tết hay mê tín?",
+      "link": "https://thanhnien.vn/kieng-quet-nha-kieng-vay-tien-dau-nam-phong-tuc-tet-hay-me-tin-18526021419402619.htm",
+      "summary": "Từ kiêng quét nhà, làm vỡ đồ đến kiêng vay mượn đầu năm, những quan niệm này xuất phát từ đâu và có còn phù hợp trong đời sống hiện đại?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T01:00:00+07:00",
+      "fetched": "2026-02-18T08:17:13.702661+07:00"
+    },
+    {
+      "id": "e84e80f030ac255fe4477ea8e954289f",
+      "title": "Áo cổ yếm tôn nét đẹp truyền thống, lựa chọn nổi bật mỗi dịp xuân về",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-co-yem-ton-net-dep-truyen-thong-lua-chon-noi-bat-moi-dip-xuan-ve-185260214171256306.htm",
+      "summary": "Giữa không khí dịu dàng của mùa xuân, áo cổ yếm trở lại như một biểu tượng của vẻ đẹp truyền thống được làm mới bằng tinh thần hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T01:00:00+07:00",
+      "fetched": "2026-02-18T08:17:13.702785+07:00"
+    },
+    {
+      "id": "eb2be44662358f0a57925f7391f2d359",
+      "title": "80 triệu người mê game hẹn hò ảo của Trung Quốc",
+      "link": "https://vnexpress.net/80-trieu-nguoi-me-game-hen-ho-ao-cua-trung-quoc-5040995.html",
+      "summary": "Trò chơi Love and Deepspace trên điện thoại đang thu hút hàng triệu phụ nữ nhờ cung cấp bạn trai ảo và kết hợp giữa chiến đấu, phép thuật, hẹn hò.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-18T01:00:00+07:00",
+      "fetched": "2026-02-18T08:17:20.712092+07:00"
+    },
+    {
+      "id": "68d65607343905202b6ad28be7181226",
+      "title": "Tổng thống lâm thời Peru bị phế truất",
+      "link": "https://vnexpress.net/tong-thong-lam-thoi-peru-bi-phe-truat-5042091.html",
+      "summary": "Quốc hội Peru bỏ phiếu bãi nhiệm Tổng thống lâm thời Jose Jeri, đánh dấu lần thay đổi lãnh đạo thứ 8 của nước này trong chưa đầy 10 năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-18T00:49:20+07:00",
+      "fetched": "2026-02-18T08:17:16.798858+07:00"
+    },
+    {
+      "id": "85b607b85ed7c863548850efdec76e7c",
+      "title": "Gia đình ngựa lùn Thảo Cầm Viên và câu chuyện hạnh phúc giản dị giữa phố",
+      "link": "https://thanhnien.vn/gia-dinh-ngua-lun-thao-cam-vien-va-cau-chuyen-hanh-phuc-gian-di-giua-pho-18526021219352154.htm",
+      "summary": "Nhỏ nhắn về vóc dáng nhưng trọn vẹn về hình hài và tình cảm, gia đình ngựa lùn tại Thảo Cầm Viên Sài Gòn mang theo thông điệp về sự đủ đầy, gắn kết và niềm vui giản dị trong mùa xuân mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T00:43:00+07:00",
+      "fetched": "2026-02-18T08:17:13.702922+07:00"
+    },
+    {
+      "id": "d6ab0a782f247fe9ee0934e6a8544ad1",
+      "title": "Khách hàng bị bảo hiểm từ chối trả 5,5 tỉ đồng vì 'giấu bệnh hiểm nghèo'",
+      "link": "https://thanhnien.vn/khach-hang-bi-bao-hiem-tu-choi-tra-55-ti-dong-vi-giau-benh-hiem-ngheo-185260216091551646.htm",
+      "summary": "Khách hàng qua đời nhưng bảo hiểm từ chối chi trả khoản tiền 5,5 tỉ đồng cho người thân, vì cho rằng khách hàng đã cố tình giấu bệnh hiểm nghèo khi khai thông tin mua bảo hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T00:39:00+07:00",
+      "fetched": "2026-02-18T08:17:13.703053+07:00"
+    },
+    {
+      "id": "354b46cc2458d8a0e4043177b831907f",
+      "title": "Khơi dậy khát vọng làm giàu",
+      "link": "https://thanhnien.vn/khoi-day-khat-vong-lam-giau-185260202170337943.htm",
+      "summary": "Số lượng doanh nghiệp thành lập mới tăng vọt; phong trào khởi nghiệp lan rộng…, Nghị quyết 68 về kinh tế tư nhân đang đi đúng mục tiêu mà Đảng và Nhà nước đặt ra, khơi dậy khát vọng làm giàu trong mọi tầng lớp xã hội, huy động nguồn lực để đất nước tăng tốc trong kỷ nguyên mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T00:36:00+07:00",
+      "fetched": "2026-02-18T08:17:13.703179+07:00"
+    },
+    {
+      "id": "04f11fe0af0677ec5dfe264d1b23889a",
+      "title": "Dự báo thời tiết mùng 2 tết: Không khí lạnh tràn vào Bắc và Trung Trung bộ",
+      "link": "https://thanhnien.vn/du-bao-thoi-tiet-mung-2-tet-khong-khi-lanh-tran-vao-bac-va-trung-trung-bo-185260218070508435.htm",
+      "summary": "Dự báo thời tiết ngày 18.2, tức ngày mùng 2 tết Nguyên đán Bính Ngọ, không khí lạnh lạnh tiếp tục ảnh hưởng đến các nơi khác thuộc Bắc Trung bộ, một số nơi ở Tây Bắc bộ và Trung Trung bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T00:34:00+07:00",
+      "fetched": "2026-02-18T08:17:13.703304+07:00"
+    },
+    {
+      "id": "4601790a1442cf620948f32b44276437",
+      "title": "Cách tinh bột chuyển hoá thành cân nặng",
+      "link": "https://vnexpress.net/cach-tinh-bot-chuyen-hoa-thanh-can-nang-5040865.html",
+      "summary": "Ăn dư 1 bát cơm mỗi ngày, sau khoảng 1 tháng, bạn sẽ có thêm 1kg mỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T00:15:11+07:00",
+      "fetched": "2026-02-18T08:17:10.105200+07:00"
+    },
+    {
+      "id": "6825a7551e935620efa94e467ed65fdd",
+      "title": "Chuyên gia Anh: 'Cuộc đua AI đe dọa sự an toàn của loài người'",
+      "link": "https://vnexpress.net/chuyen-gia-anh-cuoc-dua-ai-de-doa-su-an-toan-cua-loai-nguoi-5042064.html",
+      "summary": "Chuyên gia người Anh Stuart Russell cảnh báo các CEO công nghệ đang bị cuốn vào \"cuộc chạy đua vũ trang AI\", ngốn lượng tiền và năng lượng khổng lồ khiến con người đứng trước nhiều mối đe dọa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T00:02:14+07:00",
+      "fetched": "2026-02-18T08:17:10.105358+07:00"
+    },
+    {
+      "id": "6825a7551e935620efa94e467ed65fdd",
+      "title": "Chuyên gia Anh: 'Cuộc đua AI đe dọa sự an toàn của loài người'",
+      "link": "https://vnexpress.net/chuyen-gia-anh-cuoc-dua-ai-de-doa-su-an-toan-cua-loai-nguoi-5042064.html",
+      "summary": "Chuyên gia người Anh Stuart Russell cảnh báo các CEO công nghệ đang bị cuốn vào \"cuộc chạy đua vũ trang AI\", ngốn lượng tiền và năng lượng khổng lồ khiến con người đứng trước nhiều mối đe dọa.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-18T00:02:14+07:00",
+      "fetched": "2026-02-18T08:17:20.712246+07:00"
+    },
+    {
+      "id": "b691ef3b3ae43e3157ed1d9c129bd5f9",
+      "title": "Kỳ nghỉ Tết dài nhất lịch sử Trung Quốc tạo cú hích du lịch",
+      "link": "https://vnexpress.net/ky-nghi-tet-dai-nhat-lich-su-trung-quoc-tao-cu-hich-du-lich-5041970.html",
+      "summary": "Với 9 ngày nghỉ liên tục, Tết Bính Ngọ 2026 tạo ra cuộc \"đại di cư\", thay đổi thói quen đi chơi Tết của người dân Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T00:00:00+07:00",
+      "fetched": "2026-02-18T08:17:10.105498+07:00"
+    },
+    {
+      "id": "8237f336cd68ff44481379a45943fcc4",
+      "title": "Một năm chung cư Hà Nội, Đà Nẵng, TP HCM đua tăng giá",
+      "link": "https://vnexpress.net/mot-nam-chung-cu-ha-noi-da-nang-tp-hcm-dua-tang-gia-5041191.html",
+      "summary": "Làn sóng xây nhà cao cấp lan rộng ở cả ba thành phố, kéo mặt bằng giá chung cư mới leo thang 20-40% trong khi phân khúc bình dân ngày càng thu hẹp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T00:00:00+07:00",
+      "fetched": "2026-02-18T08:17:10.105635+07:00"
+    },
+    {
+      "id": "efdcec03872ff565b88161d1b722656a",
+      "title": "Ăn gì trước và sau uống rượu bia?",
+      "link": "https://vnexpress.net/an-gi-truoc-va-sau-uong-ruou-bia-5041290.html",
+      "summary": "Ăn trái cây, rau củ cung cấp chất chống oxy hóa góp phần ngăn tổn thương gan, còn cháo và súp chứa carbohydrate phức tạp làm chậm quá trình hấp thu cồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T00:00:00+07:00",
+      "fetched": "2026-02-18T08:17:10.105768+07:00"
+    },
+    {
+      "id": "3a073e63c3acbd30bd9717466d02fe30",
+      "title": "Điểm tin 6h: VN-Index lập đỉnh, định giá vẫn hấp dẫn | Mùng 1 Tết, vàng SJC và vàng nhẫn giảm mạnh",
+      "link": "https://vnexpress.net/diem-tin-6h-vn-index-lap-dinh-dinh-gia-van-hap-dan-mung-1-tet-vang-sjc-va-vang-nhan-giam-manh-5042082.html",
+      "summary": "Nhà đầu tư ngoại có thể được góp đến 49% vào hãng bay Việt Nam; Ngân hàng tăng tốc hút tiền gửi dịp Tết...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T23:59:15+07:00",
+      "fetched": "2026-02-18T08:17:10.105919+07:00"
+    },
+    {
+      "id": "07dd40d932c28bbae08af64f230e9521",
+      "title": "Nổ lớn làm rung chuyển căn cứ Nga, ít nhất ba người chết",
+      "link": "https://vnexpress.net/no-lon-lam-rung-chuyen-can-cu-nga-it-nhat-ba-nguoi-chet-5042085.html",
+      "summary": "Vụ nổ lớn xảy ra tại tòa nhà quân cảnh trong căn cứ quân sự Nga gần thành phố St. Petersburg khiến ít nhất ba người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T23:57:37+07:00",
+      "fetched": "2026-02-18T08:17:10.106050+07:00"
+    },
+    {
+      "id": "07dd40d932c28bbae08af64f230e9521",
+      "title": "Nổ lớn làm rung chuyển căn cứ Nga, ít nhất ba người chết",
+      "link": "https://vnexpress.net/no-lon-lam-rung-chuyen-can-cu-nga-it-nhat-ba-nguoi-chet-5042085.html",
+      "summary": "Vụ nổ lớn xảy ra tại tòa nhà quân cảnh trong căn cứ quân sự Nga gần thành phố St. Petersburg khiến ít nhất ba người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-17T23:57:37+07:00",
+      "fetched": "2026-02-18T08:17:16.799010+07:00"
+    },
+    {
+      "id": "f20a1e2731f75dd7bd975dd4e0369531",
+      "title": "Robot Trung Quốc múa côn nhị khúc trong gala giao thừa",
+      "link": "https://vnexpress.net/robot-trung-quoc-mua-con-nhi-khuc-trong-gala-giao-thua-5042065.html",
+      "summary": "Trong gala giao thừa của Trung Quốc tối 16/2, robot Unitree diễn kung fu cùng võ sinh nhí, có màn “túy quyền” và tự đứng dậy sau khi ngã.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T23:44:20+07:00",
+      "fetched": "2026-02-18T08:17:10.106180+07:00"
+    },
+    {
+      "id": "0bdf737f15cdff461ecf1e8e79827a95",
+      "title": "Alcaraz cứu set-point, thắng trận thứ 150 trên sân cứng",
+      "link": "https://vnexpress.net/alcaraz-cuu-set-point-thang-tran-thu-150-tren-san-cung-5042087.html",
+      "summary": "Tay vợt số 1 thế giới Carlos Alcaraz thắng Arthur Rinderknech 6-4, 7-6(5), ở vòng một Qatar Mở rộng, tại Doha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T23:41:48+07:00",
+      "fetched": "2026-02-18T08:17:10.106309+07:00"
+    },
+    {
+      "id": "0bdf737f15cdff461ecf1e8e79827a95",
+      "title": "Alcaraz cứu set-point, thắng trận thứ 150 trên sân cứng",
+      "link": "https://vnexpress.net/alcaraz-cuu-set-point-thang-tran-thu-150-tren-san-cung-5042087.html",
+      "summary": "Tay vợt số 1 thế giới Carlos Alcaraz thắng Arthur Rinderknech 6-4, 7-6(5), ở vòng một Qatar Mở rộng, tại Doha.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T23:41:48+07:00",
+      "fetched": "2026-02-18T08:17:21.894335+07:00"
+    },
+    {
+      "id": "c0f7e7edb41ab630e028ed472da87615",
+      "title": "Những 'kỵ sĩ chân đất' xuống phố huấn luyện đàn ngựa tiền tỷ",
+      "link": "https://vnexpress.net/nhung-ky-si-chan-dat-xuong-pho-huan-luyen-dan-ngua-tien-ty-5015210.html",
+      "summary": "Rời vườn cam Hàm Yên, Tuyên Quang những chàng trai người Tày, người Mông mang kỹ năng cưỡi ngựa điêu luyện xuống thành phố, làm huấn luyện viên cho giới chơi ngựa nhà giàu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T23:28:00+07:00",
+      "fetched": "2026-02-18T08:17:10.106445+07:00"
+    },
+    {
+      "id": "f5126f64548fc9097b47b9d3bc06ddf9",
+      "title": "Phó tổng thống Mỹ không ủng hộ Eileen Gu thi đấu cho Trung Quốc",
+      "link": "https://vnexpress.net/pho-tong-thong-my-khong-ung-ho-eileen-gu-thi-dau-cho-trung-quoc-5042077.html",
+      "summary": "Phó tổng thống Mỹ JD Vance nói ông chỉ cổ vũ các VĐV tự nhận là người Mỹ tại Olympic mùa Đông 2026, trong đó không có 'Công chúa tuyết' Eileen Gu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T23:11:45+07:00",
+      "fetched": "2026-02-18T08:17:10.106573+07:00"
+    },
+    {
+      "id": "f5126f64548fc9097b47b9d3bc06ddf9",
+      "title": "Phó tổng thống Mỹ không ủng hộ Eileen Gu thi đấu cho Trung Quốc",
+      "link": "https://vnexpress.net/pho-tong-thong-my-khong-ung-ho-eileen-gu-thi-dau-cho-trung-quoc-5042077.html",
+      "summary": "Phó tổng thống Mỹ JD Vance nói ông chỉ cổ vũ các VĐV tự nhận là người Mỹ tại Olympic mùa Đông 2026, trong đó không có 'Công chúa tuyết' Eileen Gu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T23:11:45+07:00",
+      "fetched": "2026-02-18T08:17:21.894488+07:00"
+    },
+    {
+      "id": "b35ef0b30fcc469541b00c0d61112b36",
+      "title": "HLV Polking trần tình về việc CAHN bị xử thua",
+      "link": "https://vnexpress.net/hlv-polking-tran-tinh-ve-viec-cahn-bi-xu-thua-5042069.html",
+      "summary": "HLV Mano Polking thừa nhận Công an Hà Nội chỉ có thể tự trách mình khi bị xử thua 0-3 trước Tampines Rovers, vì dùng cầu thủ vi phạm tư cách thi đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T23:10:50+07:00",
+      "fetched": "2026-02-18T08:17:10.106710+07:00"
+    },
+    {
+      "id": "b35ef0b30fcc469541b00c0d61112b36",
+      "title": "HLV Polking trần tình về việc CAHN bị xử thua",
+      "link": "https://vnexpress.net/hlv-polking-tran-tinh-ve-viec-cahn-bi-xu-thua-5042069.html",
+      "summary": "HLV Mano Polking thừa nhận Công an Hà Nội chỉ có thể tự trách mình khi bị xử thua 0-3 trước Tampines Rovers, vì dùng cầu thủ vi phạm tư cách thi đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T23:10:50+07:00",
+      "fetched": "2026-02-18T08:17:21.894629+07:00"
+    },
+    {
+      "id": "3ee33b8169a861e7c98244bf580d3841",
+      "title": "Real đòi nợ Benfica ở lượt đi play-off Champions League",
+      "link": "https://vnexpress.net/real-doi-no-benfica-o-luot-di-play-off-champions-league-5042072.html",
+      "summary": "Vinicius ghi bàn duy nhất giúp Real Madrid hạ Benfica 1-0 trong trận lượt đi vòng play-off Champions League, tối 17/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T23:06:38+07:00",
+      "fetched": "2026-02-18T08:17:10.106839+07:00"
+    },
+    {
+      "id": "3ee33b8169a861e7c98244bf580d3841",
+      "title": "Real đòi nợ Benfica ở lượt đi play-off Champions League",
+      "link": "https://vnexpress.net/real-doi-no-benfica-o-luot-di-play-off-champions-league-5042072.html",
+      "summary": "Vinicius ghi bàn duy nhất giúp Real Madrid hạ Benfica 1-0 trong trận lượt đi vòng play-off Champions League, tối 17/2.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T23:06:38+07:00",
+      "fetched": "2026-02-18T08:17:21.894767+07:00"
+    },
+    {
+      "id": "e013ce8ba886521d652be550a7f58112",
+      "title": "Ba quán quân Olympia và 'bài toán' đời thường ở Australia",
+      "link": "https://vnexpress.net/ba-quan-quan-olympia-va-bai-toan-doi-thuong-o-australia-5019849.html",
+      "summary": "Rời \"bục vinh quang\" với những câu hỏi tốc độ cao, ba quán quân Olympia đối mặt với thử thách đời thường ở Melbourne, từ việc tập đi bên trái đường đến thay đổi cách học để giành điểm A.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T23:05:00+07:00",
+      "fetched": "2026-02-18T08:17:10.106977+07:00"
+    },
+    {
+      "id": "81324283801c64bc322c20bee9f77712",
+      "title": "Vinicius tố cáo bị phân biệt chủng tộc, trận đấu hoãn 10 phút",
+      "link": "https://vnexpress.net/vinicius-to-cao-bi-phan-biet-chung-toc-tran-dau-hoan-10-phut-5042074.html",
+      "summary": "Trận đấu giữa Benfica và Real Madrid tại Champions League bị dừng ở phút 50, sau khi Vinicius Junior tố cáo hành vi phân biệt chủng tộc của đối thủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T23:02:41+07:00",
+      "fetched": "2026-02-18T08:17:10.107112+07:00"
+    },
+    {
+      "id": "81324283801c64bc322c20bee9f77712",
+      "title": "Vinicius tố cáo bị phân biệt chủng tộc, trận đấu hoãn 10 phút",
+      "link": "https://vnexpress.net/vinicius-to-cao-bi-phan-biet-chung-toc-tran-dau-hoan-10-phut-5042074.html",
+      "summary": "Trận đấu giữa Benfica và Real Madrid tại Champions League bị dừng ở phút 50, sau khi Vinicius Junior tố cáo hành vi phân biệt chủng tộc của đối thủ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T23:02:41+07:00",
+      "fetched": "2026-02-18T08:17:21.894917+07:00"
+    },
+    {
+      "id": "cf0d89423532e236d45b86d17d1ddf91",
+      "title": "PSG thắng ngược dù bị dẫn hai bàn ở Champions League",
+      "link": "https://vnexpress.net/psg-thang-nguoc-du-bi-dan-hai-ban-o-champions-league-5042079.html",
+      "summary": "Sau khi sớm bị Monaco dẫn 2-0, PSG bỏ lỡ một quả penalty, rồi ghi ba bàn để thắng ngược 3-2 tại lượt đi vòng play-off Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T22:47:51+07:00",
+      "fetched": "2026-02-18T08:17:21.895057+07:00"
     },
     {
       "id": "99109bfcbb1e10f4792d5fbb89881b2b",
