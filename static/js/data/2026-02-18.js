@@ -1,7 +1,137 @@
 window.newsData_2026_02_18 = {
   "date": "2026-02-18",
-  "lastUpdated": "2026-02-18T11:12:14.954824+07:00",
+  "lastUpdated": "2026-02-18T13:51:13.145276+07:00",
   "articles": [
+    {
+      "id": "a925e849d909a27670046a273a7bfbcc",
+      "title": "Tổng Bí thư Tô Lâm: Đẩy mạnh đối ngoại toàn diện ở tầm cao mới",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-day-manh-doi-ngoai-toan-dien-o-tam-cao-moi-20260218084455824.htm",
+      "summary": "Tuổi Trẻ trân trọng giới thiệu bài viết của Tổng Bí thư Tô Lâm: Đẩy mạnh đối ngoại toàn diện ở tầm cao mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T13:51:03.441276+07:00",
+      "fetched": "2026-02-18T13:51:03.441387+07:00"
+    },
+    {
+      "id": "edbac331c3f9f225ad17347387d2cf95",
+      "title": "Tết Việt - thời khắc yêu thích trong năm của cô gái Đức - Hà Lan sống ở Hà Nội",
+      "link": "https://tuoitre.vn/tet-viet-thoi-khac-yeu-thich-trong-nam-cua-co-gai-duc-ha-lan-song-o-ha-noi-20260216181641473.htm",
+      "summary": "Carina van Weelden, mang hai quốc tịch Đức và Hà Lan, sinh sống và làm việc ở Việt Nam chia sẻ niềm vui và sự háo hức mỗi dịp Tết đến, xuân về.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T13:51:03.441153+07:00",
+      "fetched": "2026-02-18T13:51:03.441265+07:00"
+    },
+    {
+      "id": "c5f5a1c21a645e7a8830de5d0d5d0573",
+      "title": "Vị ngọt, béo, bùi của chè trôi nước ngày xuân",
+      "link": "https://tuoitre.vn/vi-ngot-beo-bui-cua-che-troi-nuoc-ngay-xuan-20260107165809427.htm",
+      "summary": "Chè trôi nước hiện diện nhẹ nhàng, tròn trịa và ngọt ngào, như chính mong ước bình an của người Việt mỗi độ xuân về.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T13:51:03.441029+07:00",
+      "fetched": "2026-02-18T13:51:03.441142+07:00"
+    },
+    {
+      "id": "e5da069c62d247750c79f59bf594a756",
+      "title": "Mùng 2 Tết, du khách bắt đầu lên Đà Lạt nhưng chưa quá đông",
+      "link": "https://tuoitre.vn/mung-2-tet-du-khach-bat-dau-len-da-lat-nhung-chua-qua-dong-20260218105616078.htm",
+      "summary": "Sau ngày mùng 1 trầm lắng, Đà Lạt bước vào nhịp du xuân mùng 2 Tết với dòng khách tăng nhanh, phòng lưu trú kín dần. Hoạt động dịch vụ đã trở lại như ngày thường nên không có hiện tượng quá tải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T13:51:03.440905+07:00",
+      "fetched": "2026-02-18T13:51:03.441018+07:00"
+    },
+    {
+      "id": "e41200134ba04f99304c0d8cd96f6b5d",
+      "title": "Lời chúc, câu đối Tết theo khuôn khổ truyền thống hay chấp nhận sự sáng tạo, 'phá cách'?",
+      "link": "https://tuoitre.vn/loi-chuc-cau-doi-tet-theo-khuon-kho-truyen-thong-hay-chap-nhan-su-sang-tao-pha-cach-20260211164154503.htm",
+      "summary": "Từ linh vật ‘phiên bản meme’, câu đối tự trào đến thiệp chúc Tết cá nhân hóa, người trẻ Việt đang làm mới các biểu tượng quen thuộc của mùa xuân. Đó là phá cách hay một cách yêu truyền thống theo nhịp sống hiện đại?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T13:51:03.440778+07:00",
+      "fetched": "2026-02-18T13:51:03.440894+07:00"
+    },
+    {
+      "id": "85a0a822709b5a6ef7ad64d316f3e001",
+      "title": "Võ Minh Lâm và con gái nghệ sĩ Châu Thanh đẹp đôi trong khúc nhạc ngày xuân",
+      "link": "https://tuoitre.vn/vo-minh-lam-va-con-gai-nghe-si-chau-thanh-dep-doi-trong-khuc-nhac-ngay-xuan-20260218105124236.htm",
+      "summary": "Ngay những ngày đầu năm, nghệ sĩ Võ Minh Lâm đã kết hợp cùng con gái nghệ sĩ Châu Thanh, ca sĩ Châu Ngọc Tiên, ra liền tù tì 2 MV xuân trẻ trung, vui nhộn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T13:51:03.440629+07:00",
+      "fetched": "2026-02-18T13:51:03.440765+07:00"
+    },
+    {
+      "id": "1c8384e3c39f18e1524827cd9460c312",
+      "title": "Hãng xe thưởng mỗi nhân viên hàng trăm triệu đồng dù bán được ít hơn",
+      "link": "https://tuoitre.vn/hang-xe-thuong-moi-nhan-vien-hang-tram-trieu-dong-du-ban-duoc-it-hon-20260218090141217.htm",
+      "summary": "Lợi nhuận tăng mạnh giúp Ferrari tiếp tục chi thưởng “khủng” cho người lao động tại Ý, dù hãng bán ra ít xe hơn trong năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T13:51:03.440503+07:00",
+      "fetched": "2026-02-18T13:51:03.440618+07:00"
+    },
+    {
+      "id": "37cd2311853ac5b82539fe805f3a2ade",
+      "title": "Những ngôi sao thể thao 'tuổi ngựa' được chờ đợi tỏa sáng trong năm Bính Ngọ 2026",
+      "link": "https://tuoitre.vn/nhung-ngoi-sao-the-thao-tuoi-ngua-duoc-cho-doi-toa-sang-trong-nam-binh-ngo-2026-20260215140644058.htm",
+      "summary": "Nuno Mendes, Cole Palmer (bóng đá), Zheng Qinwen, Emma Raducanu (quần vợt), Torri Huske (bơi lội), Budhia Singh (điền kinh)... là những vận động viên sinh năm 2002 - tuổi ngựa được các chuyên gia dự báo sẽ tỏa sáng trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T13:51:03.440375+07:00",
+      "fetched": "2026-02-18T13:51:03.440492+07:00"
+    },
+    {
+      "id": "7e61e49f507fe72ca6789d7b616f8585",
+      "title": "Cầu thủ phân biệt chủng tộc với Vinicius phải khóa trang cá nhân",
+      "link": "https://tuoitre.vn/cau-thu-phan-biet-chung-toc-voi-vinicius-phai-khoa-trang-ca-nhan-2026021810491564.htm",
+      "summary": "Gianluca Prestianni của Benfica buộc phải khóa trang cá nhân mạng xã hội vì những hành động với Vinicius trong trận đấu với Real Madird.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T13:51:03.440244+07:00",
+      "fetched": "2026-02-18T13:51:03.440363+07:00"
+    },
+    {
+      "id": "917c7db2a4310289a1f111e3b91fce68",
+      "title": "Phòng vé 'vui như Tết' buổi ra mắt show ẩm thực ‘Đan di sản, chạm cảm xúc’",
+      "link": "https://tuoitre.vn/phong-ve-vui-nhu-tet-buoi-ra-mat-show-am-thuc-dan-di-san-cham-cam-xuc-20260218115553502.htm",
+      "summary": "Khán giả hài lòng, phòng vé 'vui như Tết' buổi ra mắt show ẩm thực ‘Đan di sản, chạm cạm xúc’",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T13:51:03.440113+07:00",
+      "fetched": "2026-02-18T13:51:03.440232+07:00"
+    },
+    {
+      "id": "ac870801c90ed4f34f80930236751a6d",
+      "title": "Mẹ đếm đi đếm lại số tiền trong túi, cân nhắc rất lâu trước khi lì xì Tết cho tôi",
+      "link": "https://tuoitre.vn/me-dem-di-dem-lai-so-tien-trong-tui-can-nhac-rat-lau-truoc-khi-li-xi-tet-cho-toi-20260210101621649.htm",
+      "summary": "Chỉ vài cú chạm tay là Tết có thể 'ship' đến tận cửa. Sự tiện lợi giúp người ta bớt nhọc nhằn, nhưng cũng có lúc khiến cảm giác chờ đợi, háo hức của ngày Tết dần phai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T13:51:03.439977+07:00",
+      "fetched": "2026-02-18T13:51:03.440101+07:00"
+    },
+    {
+      "id": "18a799e2f24066c06a6def21ea0ad446",
+      "title": "Khách quốc tế chọn trải nghiệm tour 3 đảo để chụp ảnh và lặn ngắm san hô ở Phú Quốc dịp Tết",
+      "link": "https://tuoitre.vn/khach-quoc-te-chon-trai-nghiem-tour-3-dao-de-chup-anh-va-lan-ngam-san-ho-o-phu-quoc-dip-tet-20260218114957661.htm",
+      "summary": "Hôm nay 18-2 (mùng 2 Tết Bính Ngọ 2026), khách quốc tế chọn trải nghiệm tour tham quan 3 đảo An Thới (đặc khu Phú Quốc, tỉnh An Giang) để chụp ảnh, lặn ngắm san hô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T13:51:03.439829+07:00",
+      "fetched": "2026-02-18T13:51:03.439964+07:00"
+    },
+    {
+      "id": "14bb87b81ece2dd423aa82ba6b03a219",
+      "title": "Tết nhớ mùa bắt cá đồng",
+      "link": "https://tuoitre.vn/tet-nho-mua-bat-ca-dong-20260204105803488.htm",
+      "summary": "Thuở trước, khi chưa có phong trào phá ruộng lập vườn và thời gian gần đây thì phá vườn làm vuông nuôi tôm sú công nghiệp thì đồng ruộng quê tôi mênh mông bát ngát. Có những cánh đồng nối nhau kéo mút tầm mắt tới tận chân trời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T13:51:03.439570+07:00",
+      "fetched": "2026-02-18T13:51:03.439812+07:00"
+    },
     {
       "id": "b4eee9de733f15c38ef4566368eb50b2",
       "title": "Nhà di động Mercedes-Benz đựng đủ đồ chơi ngoài trời vẫn tiện nghi như căn hộ cao cấp",
@@ -291,6 +421,316 @@ window.newsData_2026_02_18 = {
       "category": "Tổng hợp",
       "published": "2026-02-18T08:17:14.831968+07:00",
       "fetched": "2026-02-18T08:17:14.832172+07:00"
+    },
+    {
+      "id": "6568bc1e65177dee22ffea3c0e8f3776",
+      "title": "Lạc bước vào thế giới vàng huyền bí ở Colombia",
+      "link": "https://thanhnien.vn/lac-buoc-vao-the-gioi-vang-huyen-bi-o-colombia-185260131193203747.htm",
+      "summary": "Nơi mà vàng từng 'chất đống', chỉ làm đồ trang sức hoặc ném xuống hồ để… cúng, nơi mà kỹ thuật chế tác vàng làm sửng sốt ngành kim hoàn hiện đại. Đó là Colombia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T06:12:00+07:00",
+      "fetched": "2026-02-18T13:51:01.793200+07:00"
+    },
+    {
+      "id": "804bc9f4010ea54b50880085e6ed3db4",
+      "title": "Triều Tiên hoàn thành kế hoạch xây 50.000 căn hộ",
+      "link": "https://vnexpress.net/trieu-tien-hoan-thanh-ke-hoach-xay-50-000-can-ho-5042117.html",
+      "summary": "Hôm 16/2, Triều Tiên đã khánh thành 10.000 căn hộ tại khu Hwasong và hoàn thành kế hoạch xây 50.000 căn hộ tại Bình Nhưỡng trong 5 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T06:05:00+07:00",
+      "fetched": "2026-02-18T13:50:58.389215+07:00"
+    },
+    {
+      "id": "93914c9030aed361efed0465fd368e24",
+      "title": "Ronaldo bị Ten Hag loại bỏ 'vì không pressing'",
+      "link": "https://vnexpress.net/ronaldo-bi-ten-hag-loai-bo-vi-khong-pressing-5042078.html",
+      "summary": "Theo cựu trợ lý HLV Steve McClaren, việc Cristiano Ronaldo không đáp ứng yêu cầu pressing là một trong những nguyên nhân khiến quan hệ giữa anh với Erik ten Hag đổ vỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T06:00:00+07:00",
+      "fetched": "2026-02-18T13:50:58.389398+07:00"
+    },
+    {
+      "id": "8e71468f8118645c5eb721227718d09b",
+      "title": "'Tiền cọc' lớp 1 trường tư ở Hà Nội lên đến 110 triệu đồng",
+      "link": "https://vnexpress.net/tien-coc-lop-1-truong-tu-o-ha-noi-nam-2026-cao-nhat-110-trieu-dong-5041625.html",
+      "summary": "Các trường tư thu \"tiền cọc\" khoảng 5-20 triệu đồng với lớp 1, có nơi hơn 110 triệu, không hoàn lại nếu học sinh bỏ nhập học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T06:00:00+07:00",
+      "fetched": "2026-02-18T13:50:58.389564+07:00"
+    },
+    {
+      "id": "93914c9030aed361efed0465fd368e24",
+      "title": "Ronaldo bị Ten Hag loại bỏ 'vì không pressing'",
+      "link": "https://vnexpress.net/ronaldo-bi-ten-hag-loai-bo-vi-khong-pressing-5042078.html",
+      "summary": "Theo cựu trợ lý HLV Steve McClaren, việc Cristiano Ronaldo không đáp ứng yêu cầu pressing là một trong những nguyên nhân khiến quan hệ giữa anh với Erik ten Hag đổ vỡ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-18T06:00:00+07:00",
+      "fetched": "2026-02-18T13:51:13.137394+07:00"
+    },
+    {
+      "id": "1f29e38b5d9f870f4a983c7782a27bcd",
+      "title": "Bom tấn 100 triệu USD của Ngô Kinh lép vế phòng vé",
+      "link": "https://vnexpress.net/bom-tan-100-trieu-usd-cua-ngo-kinh-lep-ve-phong-ve-5042131.html",
+      "summary": "\"Tiêu nhân: Phong khởi đại mạc\", có Ngô Kinh và Lý Liên Kiệt tham gia, doanh thu kém so với các đối thủ ở rạp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:55:51+07:00",
+      "fetched": "2026-02-18T13:50:58.389744+07:00"
+    },
+    {
+      "id": "2bcce188054cb1967fb4db342be66654",
+      "title": "5 điểm tâm linh gần TP HCM cho chuyến du xuân đầu năm",
+      "link": "https://vnexpress.net/5-diem-tam-linh-gan-tp-hcm-cho-chuyen-du-xuan-dau-nam-5042066.html",
+      "summary": "Ngôi cổ tự có kiến trúc độc đáo hay ngôi miếu nằm biệt lập giữa biển là gợi ý cho du khách vãn cảnh, cầu an trong hành trình du xuân đến TP HCM dịp Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:52:08+07:00",
+      "fetched": "2026-02-18T13:50:58.389911+07:00"
+    },
+    {
+      "id": "5ab06ed58c90f50eadbe8d49c861c3ec",
+      "title": "Ý nghĩa những đồng tiền Việt Nam qua các thời kỳ",
+      "link": "https://thanhnien.vn/y-nghia-nhung-dong-tien-viet-nam-qua-cac-thoi-ky-185260211013712476.htm",
+      "summary": "Hàng trăm năm qua, những đồng tiền Việt Nam của các thời kỳ đều có dấu ấn, ý nghĩa hoặc gắn liền với các giai thoại lịch sử phát triển của đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:44:00+07:00",
+      "fetched": "2026-02-18T13:51:01.793370+07:00"
+    },
+    {
+      "id": "1df2c2b73d269c6b927d49216e68d9a8",
+      "title": "Dâng hương Bác Hồ giữa không gian xuân trang nghiêm ở Tỉnh ủy Đồng Nai",
+      "link": "https://thanhnien.vn/dang-huong-bac-ho-giua-khong-gian-xuan-trang-nghiem-o-tinh-uy-dong-nai-185260218111907051.htm",
+      "summary": "Lần đầu Nhà thờ Bác Hồ tại trụ sở Tỉnh ủy Đồng Nai mở cửa đón người dân đến dâng hương dịp Tết Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:42:00+07:00",
+      "fetched": "2026-02-18T13:51:01.793529+07:00"
+    },
+    {
+      "id": "cde1b70c4cf6e7f67e7804173a5491ca",
+      "title": "Lì xì thời 4.0, khi phong bao đỏ 'lên sóng' cùng mã QR, số tài khoản",
+      "link": "https://thanhnien.vn/li-xi-thoi-40-khi-phong-bao-do-len-song-cung-ma-qr-so-tai-khoan-185260218112959478.htm",
+      "summary": "Có một thực tế là chuyện lì xì cũng thay đổi theo thời gian. Thay vì nghe tiếng sột soạt của phong bao đỏ thường thấy, thì giờ đây thường nghe… tiếng \"ting ting\" chuyển khoản, tiền \"chạy\" vào tài khoản chỉ trong tích tắc vài giây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:32:00+07:00",
+      "fetched": "2026-02-18T13:51:01.793682+07:00"
+    },
+    {
+      "id": "d2fb137974cc07feaf1a193eae761541",
+      "title": "3 cụm đảo bảo tồn biển của Cà Mau: Khi ngư dân trở thành 'vệ tinh giữ biển'",
+      "link": "https://thanhnien.vn/3-cum-dao-bao-ton-bien-cua-ca-mau-khi-ngu-dan-tro-thanh-ve-tinh-giu-bien-185260218020723206.htm",
+      "summary": "Từ rạn nhân tạo, tổ đồng quản lý đến các đợt tuần tra liên ngành, Cà Mau đang đặt cộng đồng ngư dân vào vị trí trung tâm trong chiến lược bảo vệ tài nguyên biển và sinh kế bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:12:00+07:00",
+      "fetched": "2026-02-18T13:51:01.793858+07:00"
+    },
+    {
+      "id": "41389d30c6c7ee1841c71870452b2a9f",
+      "title": "Tôi 'chẳng giống ai' khi cho con lớp 6 giữ hết tiền lì xì",
+      "link": "https://vnexpress.net/toi-chang-giong-ai-khi-cho-con-lop-6-giu-het-tien-li-xi-5042108.html",
+      "summary": "Nhiều cha mẹ cho rằng con còn nhỏ, chưa biết giá trị đồng tiền, nên cần giữ hộ, thậm chí tịch thu luôn lì xì của con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:07:42+07:00",
+      "fetched": "2026-02-18T13:50:58.390075+07:00"
+    },
+    {
+      "id": "4de07b223af63b9298af7d878f394e18",
+      "title": "El Nino có thể xuất hiện nửa cuối năm nay",
+      "link": "https://vnexpress.net/el-nino-co-the-xuat-hien-nua-cuoi-nam-nay-5042116.html",
+      "summary": "Một số cơ quan thời tiết lớn dự đoán El Nino có thể hình thành nửa cuối năm nay, kéo theo nguy cơ nhiệt độ toàn cầu phá kỷ lục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:00:00+07:00",
+      "fetched": "2026-02-18T13:50:58.390232+07:00"
+    },
+    {
+      "id": "a3b999a6fd74757f724f1bc50f87f7ca",
+      "title": "Ấn định ngày Mike Tyson so găng Mayweather",
+      "link": "https://vnexpress.net/an-dinh-ngay-mike-tyson-so-gang-mayweather-5042084.html",
+      "summary": "Theo Ring Magazine, trận quyền Anh giữa Mike Tyson với Floyd Mayweather sẽ diễn ra ngày 25/4 tại CHDC Congo, sau khi ban tổ chức chốt địa điểm thay cho kế hoạch ban đầu vào tháng 3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:00:00+07:00",
+      "fetched": "2026-02-18T13:50:58.390392+07:00"
+    },
+    {
+      "id": "c8c4d64999f9280f5554cd8f687b576f",
+      "title": "Flick phải làm gì để kéo Barca ra khỏi khủng hoảng?",
+      "link": "https://vnexpress.net/flick-phai-lam-gi-de-keo-barca-ra-khoi-khung-hoang-5042056.html",
+      "summary": "Hai trận thua liên tiếp trước Atletico Madrid và Girona khiến Barca đối mặt tuần thi đấu khó khăn nhất kể từ đầu mùa giải 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:00:00+07:00",
+      "fetched": "2026-02-18T13:50:58.390550+07:00"
+    },
+    {
+      "id": "ae0b589773cb0e288c0e03df1d6726d2",
+      "title": "Lễ hội 'tế nhị' nhất Việt Nam dịp Tết diễn ra ở tỉnh nào?",
+      "link": "https://vnexpress.net/le-hoi-te-nhi-nhat-viet-nam-dip-tet-dien-ra-o-tinh-nao-5042049.html",
+      "summary": "Lễ hội được tổ chức vào tháng Giêng hằng năm, trong bóng tối nam và nữ thực hiện màn diễn tượng trưng cho sự giao hòa âm - dương, cầu mong mưa thuận gió hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:00:00+07:00",
+      "fetched": "2026-02-18T13:50:58.390740+07:00"
+    },
+    {
+      "id": "3d60c1927d9c420b0e4e473dde95cc1c",
+      "title": "Di chuyển que diêm nào để '2 + 8 = 6' đúng?",
+      "link": "https://vnexpress.net/chi-mot-que-diem-co-cuu-duoc-phep-tinh-2-8-6-5040554.html",
+      "summary": "Một cú chạm nhẹ, một sự thay đổi vị trí nhỏ xíu là bạn đã có thể biến sự vô lý thành một chân lý toán học hoàn hảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:00:00+07:00",
+      "fetched": "2026-02-18T13:50:58.390907+07:00"
+    },
+    {
+      "id": "cf83ac89f23e056ae2e0256774692059",
+      "title": "Người bệnh ung thư nên làm gì để ăn Tết vui khỏe?",
+      "link": "https://vnexpress.net/nguoi-benh-ung-thu-nen-lam-gi-de-an-tet-vui-khoe-5041293.html",
+      "summary": "Tôi đang hóa trị ung thư vú, qua Tết sẽ tiếp tục liệu trình, cần chuẩn bị gì để đủ sức khỏe đón Tết? (Ngọc Hoài, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:00:00+07:00",
+      "fetched": "2026-02-18T13:50:58.391059+07:00"
+    },
+    {
+      "id": "afd169b16771be4df1faa442f4c036e4",
+      "title": "Mẹo giữ mắt khỏe, tránh tăng độ cận",
+      "link": "https://vnexpress.net/meo-giu-mat-khoe-tranh-tang-do-can-5041238.html",
+      "summary": "Người cận thị không nên xem thiết bị điện tử quá nhiều, duy trì khoảng cách và tư thế nhìn đúng, tăng thời gian hoạt động ngoài trời để ngăn tăng độ cận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:00:00+07:00",
+      "fetched": "2026-02-18T13:50:58.391217+07:00"
+    },
+    {
+      "id": "a78a3b69e78377c981993a773e70eb6f",
+      "title": "Túi xách nhỏ xinh nâng tầm bản phối áo dài du xuân 2026",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tui-xach-nho-xinh-nang-tam-ban-phoi-ao-dai-du-xuan-2026-18526021422253443.htm",
+      "summary": "Túi xách nhỏ xinh là điểm nhấn tinh tế giúp bản phối áo dài du xuân 2026 thêm nổi bật. Chỉ một lựa chọn khéo léo cũng đủ nâng tầm diện mạo ngày đầu năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T05:00:00+07:00",
+      "fetched": "2026-02-18T13:51:01.794008+07:00"
+    },
+    {
+      "id": "4de07b223af63b9298af7d878f394e18",
+      "title": "El Nino có thể xuất hiện nửa cuối năm nay",
+      "link": "https://vnexpress.net/el-nino-co-the-xuat-hien-nua-cuoi-nam-nay-5042116.html",
+      "summary": "Một số cơ quan thời tiết lớn dự đoán El Nino có thể hình thành nửa cuối năm nay, kéo theo nguy cơ nhiệt độ toàn cầu phá kỷ lục.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-18T05:00:00+07:00",
+      "fetched": "2026-02-18T13:51:10.966781+07:00"
+    },
+    {
+      "id": "a3b999a6fd74757f724f1bc50f87f7ca",
+      "title": "Ấn định ngày Mike Tyson so găng Mayweather",
+      "link": "https://vnexpress.net/an-dinh-ngay-mike-tyson-so-gang-mayweather-5042084.html",
+      "summary": "Theo Ring Magazine, trận quyền Anh giữa Mike Tyson với Floyd Mayweather sẽ diễn ra ngày 25/4 tại CHDC Congo, sau khi ban tổ chức chốt địa điểm thay cho kế hoạch ban đầu vào tháng 3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-18T05:00:00+07:00",
+      "fetched": "2026-02-18T13:51:13.137573+07:00"
+    },
+    {
+      "id": "c8c4d64999f9280f5554cd8f687b576f",
+      "title": "Flick phải làm gì để kéo Barca ra khỏi khủng hoảng?",
+      "link": "https://vnexpress.net/flick-phai-lam-gi-de-keo-barca-ra-khoi-khung-hoang-5042056.html",
+      "summary": "Hai trận thua liên tiếp trước Atletico Madrid và Girona khiến Barca đối mặt tuần thi đấu khó khăn nhất kể từ đầu mùa giải 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-18T05:00:00+07:00",
+      "fetched": "2026-02-18T13:51:13.137759+07:00"
+    },
+    {
+      "id": "6976a09e836cadd1bf95dc1282df696f",
+      "title": "Phạm Đức Huy và MC Mù Tạt tung ảnh cực 'chất': Tiết lộ bất ngờ về đám cưới",
+      "link": "https://thanhnien.vn/pham-duc-huy-va-mc-mu-tat-tung-anh-cuc-chat-tiet-lo-bat-ngo-ve-dam-cuoi-185260218115540545.htm",
+      "summary": "Sau thời gian gắn bó, tiền vệ Phạm Đức Huy và MC VTV Nguyễn Huyền Trang đã bất ngờ hé lộ về một đám cưới diễn ra trong năm 2026. Những hình ảnh hậu trường độc đáo cùng màn tương tác đầy hóm hỉnh của cặp đôi đang thu hút sự chú ý lớn từ cộng đồng mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T04:58:00+07:00",
+      "fetched": "2026-02-18T13:51:01.794165+07:00"
+    },
+    {
+      "id": "d3eb445c67e6367390c860f0cc471297",
+      "title": "Cô gái sáng tác những ca khúc về Đảng chạm đến trái tim hàng triệu người",
+      "link": "https://thanhnien.vn/co-gai-sang-tac-nhung-ca-khuc-ve-dang-cham-den-trai-tim-hang-trieu-nguoi-185260218110614078.htm",
+      "summary": "Phá vỡ những định kiến vô hình 'phải nghiêm ngắn' của những ca khúc về Đảng, nhạc sĩ trẻ Hoàng Hồng Ngọc (Quán quân Sao Mai 2015 dòng nhạc nhẹ) đã táo bạo sáng tác những ca khúc vui nhộn khiến giới trẻ thích thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T04:55:00+07:00",
+      "fetched": "2026-02-18T13:51:01.794321+07:00"
+    },
+    {
+      "id": "67b7cfc2df68c18eddcc85968f96c030",
+      "title": "Vợ chồng Khánh Vân vào bếp nấu món Tết",
+      "link": "https://vnexpress.net/vo-chong-khanh-van-vao-bep-nau-mon-tet-5040948.html",
+      "summary": "Hoa hậu Khánh Vân và ông xã - nhiếp ảnh gia Nguyễn Long - nấu các món ngày Tết như bánh chưng, thịt kho trứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T04:54:01+07:00",
+      "fetched": "2026-02-18T13:50:58.391374+07:00"
+    },
+    {
+      "id": "2d15f94774489a18d892f06843cc8b76",
+      "title": "Con gái ông Duterte thông báo tranh cử tổng thống",
+      "link": "https://vnexpress.net/con-gai-ong-duterte-thong-bao-tranh-cu-tong-thong-5042125.html",
+      "summary": "Phó tổng thống Sara Duterte tuyên bố tranh cử vị trí lãnh đạo đất nước, khi Philippines tổ chức bầu cử năm 2028.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T04:50:27+07:00",
+      "fetched": "2026-02-18T13:50:58.391533+07:00"
+    },
+    {
+      "id": "2d15f94774489a18d892f06843cc8b76",
+      "title": "Con gái ông Duterte thông báo tranh cử tổng thống",
+      "link": "https://vnexpress.net/con-gai-ong-duterte-thong-bao-tranh-cu-tong-thong-5042125.html",
+      "summary": "Phó tổng thống Sara Duterte tuyên bố tranh cử vị trí lãnh đạo đất nước, khi Philippines tổ chức bầu cử năm 2028.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-18T04:50:27+07:00",
+      "fetched": "2026-02-18T13:51:05.405119+07:00"
+    },
+    {
+      "id": "bcd8e4ed1305e91238d5fa576225152c",
+      "title": "Mùng 2 tết: Bến xe Miền Tây nhiều người lỉnh kỉnh quà quê trở lại TP.HCM sớm",
+      "link": "https://thanhnien.vn/mung-2-tet-ben-xe-mien-tay-nhieu-nguoi-linh-kinh-qua-que-tro-lai-tphcm-som-185260218112143287.htm",
+      "summary": "Mới mùng 2 tết, nhiều người từ miền Tây lỉnh kỉnh hành lý, quà quê trở lại TP.HCM sớm qua Bến xe Miền Tây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T04:45:00+07:00",
+      "fetched": "2026-02-18T13:51:01.794479+07:00"
+    },
+    {
+      "id": "a505a564d5811d36d21feaf170c13044",
+      "title": "Vị khách 'không mời mà tới' ngày tết, chủ nhà phải nén cảm xúc",
+      "link": "https://thanhnien.vn/vi-khach-khong-moi-ma-toi-ngay-tet-chu-nha-phai-nen-cam-xuc-185260217082813008.htm",
+      "summary": "Không tìm hiểu sở thích chủ nhà, sự xuất hiện của những vị khách 'không mời mà tới' sẽ khiến gia chủ phiền lòng và ngày tết trở nên kém vui.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T04:41:00+07:00",
+      "fetched": "2026-02-18T13:51:01.794628+07:00"
+    },
+    {
+      "id": "994fbcb7c7ab96eb627ba0bdd0caddf3",
+      "title": "Cold Plasma: Hướng tiếp cận sinh học mới trong chăm sóc da và lành thương hiện đại",
+      "link": "https://thanhnien.vn/cold-plasma-huong-tiep-can-sinh-hoc-moi-trong-cham-soc-da-va-lanh-thuong-hien-dai-185260218114325108.htm",
+      "summary": "Trong bối cảnh y học hiện đại hướng đến các phương pháp an toàn, hiệu quả và bền vững, Cold Plasma đang được xem là một hướng tiếp cận sinh học mới trong chăm sóc da và lành thương. Công nghệ này mở ra khả năng hỗ trợ điều hòa viêm và tái tạo da từ bên trong mà không cần tiêu hao vật tư y tế, tạo nê...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T04:31:00+07:00",
+      "fetched": "2026-02-18T13:51:01.794799+07:00"
     },
     {
       "id": "ffc5a672a70c34e50e45654cd68286c5",
