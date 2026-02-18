@@ -1,6 +1,6 @@
 window.newsData_2026_02_19 = {
   "date": "2026-02-19",
-  "lastUpdated": "2026-02-19T03:28:53.535033+07:00",
+  "lastUpdated": "2026-02-19T05:23:31.507362+07:00",
   "articles": [
     {
       "id": "2c6593c01ca20a7b21f16112be706745",
@@ -171,6 +171,126 @@ window.newsData_2026_02_19 = {
       "category": "Tổng hợp",
       "published": "2026-02-19T01:39:20.898208+07:00",
       "fetched": "2026-02-19T01:39:20.898438+07:00"
+    },
+    {
+      "id": "0a2967295d5f414e08c0e15168ac5301",
+      "title": "Tử vi ngày 19 tháng 2: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-19-thang-2-con-giap-nao-may-man-hom-nay-185260218221011688.htm",
+      "summary": "Tử vi ngày 19 tháng 2 mang đến những gợi ý mang tính tham khảo cho tử vi hằng ngày của 12 con giáp mùng 3 Tết Bính Ngọ 2026. Đây là thời điểm nhiều người bắt đầu khai xuân, mở hàng nhẹ hoặc nghĩ về kế hoạch làm việc đầu năm. Không khí vẫn còn vui xuân, nhưng tinh thần đã dần hướng về sự khởi động mớ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T22:15:00+07:00",
+      "fetched": "2026-02-19T05:23:24.521283+07:00"
+    },
+    {
+      "id": "1fda9f15b67703469f4ada89570e5705",
+      "title": "Newcastle thắng 6-1 ở Champions League",
+      "link": "https://vnexpress.net/newcastle-thang-6-1-o-champions-league-5042226.html",
+      "summary": "Tiền đạo Anthony Gordon ghi bốn bàn trong hiệp một, giúp Newcastle đè bẹp Qarabag ở lượt đi play-off Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T22:13:41+07:00",
+      "fetched": "2026-02-19T05:23:21.389584+07:00"
+    },
+    {
+      "id": "546e5b4d5f5b80df936587573f44c12d",
+      "title": "Bác sĩ: Những món canh ngày tết giúp nhẹ bụng, trọn vị sum vầy",
+      "link": "https://thanhnien.vn/bac-si-nhung-mon-canh-ngay-tet-giup-nhe-bung-tron-vi-sum-vay-18526021423141073.htm",
+      "summary": "Bên cạnh bánh chưng, thịt kho hay các món chiên xào, việc bổ sung các món canh thanh nhẹ giúp bữa ăn ngày tết hài hòa và nhẹ bụng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T22:09:00+07:00",
+      "fetched": "2026-02-19T05:23:24.521473+07:00"
+    },
+    {
+      "id": "eee0b00a121509ce7599d82ae92888ff",
+      "title": "Tết ở Trường Sa - Kỳ 8: Vui xuân không quên nhiệm vụ",
+      "link": "https://thanhnien.vn/tet-o-truong-sa-ky-8-vui-xuan-khong-quen-nhiem-vu-185260212213336752.htm",
+      "summary": "Ở Trường Sa những ngày tết, chế độ trực sẵn sàng chiến đấu càng được duy trì nghiêm, để vừa bảo vệ mục tiêu vừa không để Tổ quốc bị bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T22:06:00+07:00",
+      "fetched": "2026-02-19T05:23:24.521634+07:00"
+    },
+    {
+      "id": "a69c97c0df4ac75f0a5f1533150c7c83",
+      "title": "Tranh tài đua thuyền trên sông Cà Ty mừng năm mới",
+      "link": "https://vnexpress.net/tranh-tai-dua-thuyen-tren-song-ca-ty-mung-nam-moi-5042222.html",
+      "summary": "Lễ hội đua thuyền truyền thống diễn ra trên sông Cà Ty với sự góp mặt của 150 vận động viên, mang ý nghĩa cầu mong một năm mưa thuận gió hòa cho vùng biển Phan Thiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T22:00:00+07:00",
+      "fetched": "2026-02-19T05:23:21.389764+07:00"
+    },
+    {
+      "id": "ec8fbb0d563a236df9fab0c3181aa802",
+      "title": "Tổng đài viên 115 và những cuộc gọi hoảng loạn ngày Tết",
+      "link": "https://vnexpress.net/tong-dai-vien-115-va-nhung-cuoc-goi-hoang-loan-ngay-tet-5040898.html",
+      "summary": "Tiếp nhận ca pháo nổ làm nát bàn tay nam thanh niên ngay sau giao thừa, điều dưỡng Thu Hương nén xót xa, kiên trì trấn an người đầu dây bên kia đang gào khóc để hướng dẫn sơ cứu giữ lại sự sống qua điện thoại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T22:00:00+07:00",
+      "fetched": "2026-02-19T05:23:21.389938+07:00"
+    },
+    {
+      "id": "8aaed2a1e26697921199ac3ccaa53b13",
+      "title": "Việc làm công nghệ sẽ thay đổi thế nào năm nay",
+      "link": "https://vnexpress.net/viec-lam-cong-nghe-se-thay-doi-the-nao-nam-nay-5039351.html",
+      "summary": "Việc làm trong lĩnh vực công nghệ năm 2026 được dự đoán có sự phân hóa khi AI và robot xuất hiện nhiều trong thực tiễn, cạnh tranh trực tiếp với con người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T22:00:00+07:00",
+      "fetched": "2026-02-19T05:23:21.390100+07:00"
+    },
+    {
+      "id": "421e079d56f2c69900d6b44ff4f5afac",
+      "title": "Cách xế cổ đo nhiệt độ ngoài trời",
+      "link": "https://vnexpress.net/cach-xe-co-do-nhiet-do-ngoai-troi-5039946.html",
+      "summary": "Một số dòng xe Lincoln hay Cadillac những năm 1970-1980 có núm xoay đặc biệt nằm dưới gương chiếu hậu phía tài xế, cho biết nhiệt độ ngoài trời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T22:00:00+07:00",
+      "fetched": "2026-02-19T05:23:21.390259+07:00"
+    },
+    {
+      "id": "0adbd87b0fdeb3207299ac0972a6c25f",
+      "title": "Tết Bính Ngọ 2026: Có con ngựa khổng lồ đang bay trên bầu trời Việt Nam",
+      "link": "https://thanhnien.vn/tet-binh-ngo-2026-co-con-ngua-khong-lo-dang-bay-tren-bau-troi-viet-nam-185260130162705471.htm",
+      "summary": "Năm mới Bính Ngọ 2026, người Việt nghe câu chuyện về con ngựa khổng lồ biết bay trên bầu trời. Đó là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T22:00:00+07:00",
+      "fetched": "2026-02-19T05:23:24.521789+07:00"
+    },
+    {
+      "id": "8aaed2a1e26697921199ac3ccaa53b13",
+      "title": "Việc làm công nghệ sẽ thay đổi thế nào năm nay",
+      "link": "https://vnexpress.net/viec-lam-cong-nghe-se-thay-doi-the-nao-nam-nay-5039351.html",
+      "summary": "Việc làm trong lĩnh vực công nghệ năm 2026 được dự đoán có sự phân hóa khi AI và robot xuất hiện nhiều trong thực tiễn, cạnh tranh trực tiếp với con người.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-18T22:00:00+07:00",
+      "fetched": "2026-02-19T05:23:30.647953+07:00"
+    },
+    {
+      "id": "6da9c94f9986451d602314258f7d397f",
+      "title": "Tết ấm biên cương ở Quảng Ngãi, gieo 'hạt giống' nơi Dục Nông hút gió",
+      "link": "https://thanhnien.vn/tet-am-bien-cuong-o-quang-ngai-gieo-hat-giong-noi-duc-nong-hut-gio-185260214162451514.htm",
+      "summary": "Giữa miền biên viễn xã Dục Nông (Quảng Ngãi), nơi núi rừng còn hun hút gió và mùa khô phủ bụi đỏ, có những bước chân lặng thầm mà ấm áp của cán bộ, chiến sĩ biên phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T21:41:00+07:00",
+      "fetched": "2026-02-19T05:23:24.521940+07:00"
+    },
+    {
+      "id": "28a7cd6fd357974c5e31ef67c8465d4d",
+      "title": "Cổ tích ở Lạng Sơn: Phải cứu dân",
+      "link": "https://thanhnien.vn/co-tich-o-lang-son-phai-cuu-dan-185260216134527033.htm",
+      "summary": "47 năm đã trôi qua, nhưng các cựu chiến binh Bộ đội biên phòng Lạng Sơn khi gặp nhau, vẫn kể lại câu chuyện chấp nhận hy sinh để cứu dân khỏi vòng vây địch, trong chiến tranh biên giới phía Bắc, tháng 2.1979.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T21:34:00+07:00",
+      "fetched": "2026-02-19T05:23:24.522101+07:00"
     },
     {
       "id": "7adf13cbd5b6535d40065c269092bfdc",
