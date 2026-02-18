@@ -1,7 +1,157 @@
 window.newsData_2026_02_18 = {
   "date": "2026-02-18",
-  "lastUpdated": "2026-02-18T13:51:13.145276+07:00",
+  "lastUpdated": "2026-02-18T15:34:29.836067+07:00",
   "articles": [
+    {
+      "id": "bd933cffe63cfbf5c78dfe95020b6bf8",
+      "title": "Ăn trứng ngày Tết nhớ bảo quản kỹ",
+      "link": "https://tuoitre.vn/an-trung-ngay-tet-nho-bao-quan-ky-20260214213802133.htm",
+      "summary": "Cái tin không được ăn trứng chế biến để qua đêm làm mấy bà, mấy cô lo bởi trong nhà lúc nào cũng có đủ loại trứng kho tàu, ngâm xì dầu, mật ong. Mà ăn mấy chục năm rồi, giờ không có không được.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.489600+07:00",
+      "fetched": "2026-02-18T15:34:20.489727+07:00"
+    },
+    {
+      "id": "c0ab454e06797a75bd4f550d893c8782",
+      "title": "'Treo' xe tai nạn thật thay biển cảnh báo để răn đe tài xế lái ẩu",
+      "link": "https://tuoitre.vn/treo-xe-tai-nan-that-thay-bien-canh-bao-de-ran-de-tai-xe-lai-au-20260218084423063.htm",
+      "summary": "Việc treo những chiếc xe từng gặp tai nạn thật dọc cao tốc ở miền đông Thổ Nhĩ Kỳ đang gây chú ý. Chính quyền kỳ vọng hình ảnh trực diện này khiến tài xế giảm tốc, tránh dùng điện thoại hay lái xe sau khi uống rượu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.489478+07:00",
+      "fetched": "2026-02-18T15:34:20.489589+07:00"
+    },
+    {
+      "id": "218fb1fc482d3211e7c9739c7bf71bb7",
+      "title": "Chủ tịch Ủy ban Olympic 2028 bị yêu cầu từ chức vì liên quan hồ sơ Epstein",
+      "link": "https://tuoitre.vn/chu-tich-uy-ban-olympic-2028-bi-yeu-cau-tu-chuc-vi-lien-quan-ho-so-epstein-20260218111645488.htm",
+      "summary": "Thị trưởng Los Angeles (Mỹ), bà Karen Bass đã lên tiếng kêu gọi ông Casey Wasserman rời ghế Chủ tịch Ủy ban tổ chức Olympic 2028 vì liên quan với hồ sơ Epstein.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.489358+07:00",
+      "fetched": "2026-02-18T15:34:20.489467+07:00"
+    },
+    {
+      "id": "80807ce9f73bd90ebfb898daff62c785",
+      "title": "Bất động sản 2026: Ai sẽ trụ lại trong chu kỳ mới?",
+      "link": "https://tuoitre.vn/bat-dong-san-2026-ai-se-tru-lai-trong-chu-ky-moi-20260218125911566.htm",
+      "summary": "Sau giai đoạn tái cấu trúc và kiểm soát tín dụng, thị trường bất động sản năm 2026 được dự báo bước vào chu kỳ vận động mới, thận trọng hơn, phân hóa mạnh hơn và không còn 'dễ thở' với nhà đầu tư dùng đòn bẩy cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.489238+07:00",
+      "fetched": "2026-02-18T15:34:20.489347+07:00"
+    },
+    {
+      "id": "466afc5536d54a3b68210259292ab7c2",
+      "title": "Nguồn cảm hứng Việt Nam trong thế giới phân mảnh",
+      "link": "https://tuoitre.vn/nguon-cam-hung-viet-nam-trong-the-gioi-phan-manh-20260205164006474.htm",
+      "summary": "Năm 2025, bức tranh đối ngoại của Việt Nam ghi dấu nhiều cột mốc lịch sử gắn liền với Liên hợp quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.489119+07:00",
+      "fetched": "2026-02-18T15:34:20.489227+07:00"
+    },
+    {
+      "id": "d849a59b9e3cec503cdbd8cb144448c1",
+      "title": "Đạo diễn Zootopia 2 trả lời câu hỏi: Liệu Judy và Nick có thành đôi?",
+      "link": "https://tuoitre.vn/dao-dien-zootopia-2-tra-loi-cau-hoi-lieu-judy-va-nick-co-thanh-doi-2026021801502731.htm",
+      "summary": "Sau thành công vang dội với doanh thu 1,8 tỉ USD toàn cầu của Zootopia 2, ê kíp sản xuất đã có dịp hé lộ nhiều câu chuyện hậu trường thú vị, đặc biệt cách họ tiếp tục đào sâu và làm mới mối quan hệ giữa Judy và Nick.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.488997+07:00",
+      "fetched": "2026-02-18T15:34:20.489108+07:00"
+    },
+    {
+      "id": "158eb7b2d9e050e69b4ed0bcfbe0835d",
+      "title": "Câu chuyện cây nêu",
+      "link": "https://tuoitre.vn/cau-chuyen-cay-neu-202602041359565.htm",
+      "summary": "Thịt mỡ, dưa hành, câu đối đỏ, Cây nêu, tràng pháo, bánh chưng xanh. Cách đây hàng trăm năm, đó là những món không thể thiếu trong ngày Tết cổ truyền của dân tộc Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.488875+07:00",
+      "fetched": "2026-02-18T15:34:20.488986+07:00"
+    },
+    {
+      "id": "21db60f8d3afdfb9bd1bae987d34139e",
+      "title": "Hành vi nào được Cục CSGT thông báo sẽ tập trung xử lý trong 3 ngày cuối nghỉ Tết?",
+      "link": "https://tuoitre.vn/hanh-vi-nao-duoc-cuc-csgt-thong-bao-se-tap-trung-xu-ly-trong-3-ngay-cuoi-nghi-tet-2026021813391157.htm",
+      "summary": "Trong 3 ngày cuối của kỳ nghỉ Tết, từ 20-2 đến 22-2 (mùng 4 đến mùng 6 Tết), lực lượng cảnh sát giao thông sẽ tập trung kiểm soát xe khách với các vi phạm như: Chở quá số người quy định; chở hàng hóa trên khoang hành khách, trên nóc xe...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.488746+07:00",
+      "fetched": "2026-02-18T15:34:20.488864+07:00"
+    },
+    {
+      "id": "249419405e0269894205520b44edd06b",
+      "title": "Bàn tay Việt nâng 'cánh sen thép' Long Thành",
+      "link": "https://tuoitre.vn/ban-tay-viet-nang-canh-sen-thep-long-thanh-20260209223055539.htm",
+      "summary": "Ít ai biết rằng khi thi công nhà ga sân bay Long Thành, có lúc hơn 5.300 tấn thép của mái trung tâm được treo lơ lửng giữa không trung, chưa chạm đất, cũng chưa gắn vào đỉnh cột, thì gặp dư chấn động đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.488602+07:00",
+      "fetched": "2026-02-18T15:34:20.488733+07:00"
+    },
+    {
+      "id": "7199a100e7cef6d1ac6a350ea729c072",
+      "title": "Đi tìm những 'mỏ vàng' trên sàn chứng khoán năm 2026 nhờ vào một chỉ số",
+      "link": "https://tuoitre.vn/di-tim-nhung-mo-vang-tren-san-chung-khoan-nam-2026-nho-vao-mot-chi-so-20260217175852019.htm",
+      "summary": "Theo dự báo năm 2026, thị trường chứng khoán tiếp tục lộ diện những cổ phiếu hái ra tiền với tỉ lệ làm 10 đồng doanh thu lãi gộp 6-8 đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.488479+07:00",
+      "fetched": "2026-02-18T15:34:20.488591+07:00"
+    },
+    {
+      "id": "0822733e03a9d377f75eb7fd49d0c61d",
+      "title": "Đánh sập chiếu xóc đĩa hơn nửa tỉ đồng ngay mùng 1 Tết",
+      "link": "https://tuoitre.vn/danh-sap-chieu-xoc-dia-hon-nua-ti-dong-ngay-mung-1-tet-20260218133823512.htm",
+      "summary": "Mùng 1 Tết Nguyên đán Bính Ngọ, Công an tỉnh Quảng Ngãi bất ngờ đột kích chiếu bạc bằng hình thức xóc đĩa, 26 con bạc bị bắt giữ với hơn 500 triệu đồng được thu giữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.488352+07:00",
+      "fetched": "2026-02-18T15:34:20.488467+07:00"
+    },
+    {
+      "id": "ea68ce716d35f8502d0cf0f468e11ee8",
+      "title": "Uống rượu ngày xuân, nghĩ về bài thơ Thề non nước của Tản Đà",
+      "link": "https://tuoitre.vn/uong-ruou-ngay-xuan-nghi-ve-bai-tho-the-non-nuoc-cua-tan-da-20260209153201785.htm",
+      "summary": "Tôi thích cách sử dụng điệp ngữ non non nước nước của Tản Đà trong bài thơ Thề non nước. Càng phục hơn cách ông nhà báo Tản Đà viết giai thoại để ‘quảng cáo’ cho bài thơ của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.488225+07:00",
+      "fetched": "2026-02-18T15:34:20.488341+07:00"
+    },
+    {
+      "id": "5ac69877c7f6f6d398e23dd39569efe4",
+      "title": "Bị trộm xe, nạn nhân còn bị phạt nguội cả trăm triệu vì kẻ gian… lái xe không thắt dây an toàn",
+      "link": "https://tuoitre.vn/bi-trom-xe-nan-nhan-con-bi-phat-nguoi-ca-tram-trieu-vi-ke-gian-lai-xe-khong-that-day-an-toan-20260218003419761.htm",
+      "summary": "Sau khi bị trộm đột nhập lấy mất chiếc SUV, một gia đình ở Úc lại phải nhận giấy phạt nguội vì camera ghi lại cảnh kẻ trộm không thắt dây an toàn khi lái chính chiếc xe bị đánh cắp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.488093+07:00",
+      "fetched": "2026-02-18T15:34:20.488213+07:00"
+    },
+    {
+      "id": "c54d9292fe7acc263a2c3cb622b5062a",
+      "title": "Máy bay Air Force One sắp khoác lên màu sơn mới mà ông Trump ưa thích",
+      "link": "https://tuoitre.vn/may-bay-air-force-one-sap-khoac-len-mau-son-moi-ma-ong-trump-ua-thich-20260218140552264.htm",
+      "summary": "Những chiếc máy bay Air Force One sẽ được đổi màu sơn đỏ, trắng, vàng và xanh dương theo ý muốn của Tổng thống Mỹ Donald Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.487952+07:00",
+      "fetched": "2026-02-18T15:34:20.488080+07:00"
+    },
+    {
+      "id": "0db1e724379295cf739a530696aa1de1",
+      "title": "Bóng chày nỗ lực vươn lên",
+      "link": "https://tuoitre.vn/bong-chay-no-luc-vuon-len-20260202170058187.htm",
+      "summary": "Dù là môn thể thao nổi tiếng thế giới, bóng chày lại không được ưa chuộng quá nhiều tại Đông Nam Á. Đó là lý do vì sao nó chỉ mới được đưa vào thi đấu tại 5 kỳ SEA Games các năm 2005, 2007, 2011, 2019 và 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T15:34:20.487725+07:00",
+      "fetched": "2026-02-18T15:34:20.487937+07:00"
+    },
     {
       "id": "a925e849d909a27670046a273a7bfbcc",
       "title": "Tổng Bí thư Tô Lâm: Đẩy mạnh đối ngoại toàn diện ở tầm cao mới",
@@ -283,6 +433,36 @@ window.newsData_2026_02_18 = {
       "fetched": "2026-02-18T11:12:07.740312+07:00"
     },
     {
+      "id": "20307b474e1131dc0c58102dac717a14",
+      "title": "Người có cholesterol cao nên ăn uống như thế nào trong dịp tết?",
+      "link": "https://thanhnien.vn/nguoi-co-cholesterol-cao-nen-an-uong-nhu-the-nao-trong-dip-tet-18526021418161157.htm",
+      "summary": "Dịp Tết Nguyên đán, những thay đổi trong việc ăn uống có thể ảnh hưởng đến việc kiểm soát cholesterol ở người có rối loạn mỡ máu, tăng nguy cơ biến chứng sau kỳ nghỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:32:00+07:00",
+      "fetched": "2026-02-18T15:34:19.492073+07:00"
+    },
+    {
+      "id": "de5a66b81539f3732f56dfb19e46cdd5",
+      "title": "Nghệ sĩ cải lương Tú Sương nói về việc bị so sánh với Quế Trân, Trinh Trinh",
+      "link": "https://thanhnien.vn/nghe-si-cai-luong-tu-suong-noi-ve-viec-bi-so-sanh-voi-que-tran-trinh-trinh-185260218113338229.htm",
+      "summary": "NSƯT Tú Sương quan niệm mỗi nghệ sĩ đều có nét duyên và thế mạnh riêng. Cô nhìn nhận sự yêu mến khác nhau của khán giả là điều tự nhiên, đồng thời trân trọng những góp ý mang tính xây dựng để hoàn thiện bản thân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:30:00+07:00",
+      "fetched": "2026-02-18T15:34:19.492242+07:00"
+    },
+    {
+      "id": "559904c7e61ecba6edf48118bd7f3005",
+      "title": "Trường học siết điện thoại, giờ ra chơi trở lại đúng nghĩa tuổi học trò",
+      "link": "https://thanhnien.vn/truong-hoc-siet-dien-thoai-gio-ra-choi-tro-lai-dung-nghia-tuoi-hoc-tro-185260218105152541.htm",
+      "summary": "Nhiều trường tại Cà Mau mở rộng việc không cho học sinh sử dụng điện thoại cả giờ ra chơi. Quy định tưởng như khắt khe này đã giúp lớp học tập trung hơn, sân trường nhộn nhịp, mâu thuẫn học đường giảm hẳn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:28:00+07:00",
+      "fetched": "2026-02-18T15:34:19.492400+07:00"
+    },
+    {
       "id": "55d2ba007e55de0f64f5962e1ea579df",
       "title": "Thời tiết hôm nay mùng 2 Tết: Bắc Bộ giảm nhiệt, Nam Bộ nắng gắt",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-mung-2-tet-bac-bo-giam-nhiet-nam-bo-nang-gat-20260217165016426.htm",
@@ -423,6 +603,276 @@ window.newsData_2026_02_18 = {
       "fetched": "2026-02-18T08:17:14.832172+07:00"
     },
     {
+      "id": "8e5eb2cf50e875c1b3fb0963c794b835",
+      "title": "Tục kiêng cắt tóc, gội đầu dịp Tết Nguyên đán",
+      "link": "https://vnexpress.net/tuc-kieng-cat-toc-goi-dau-dip-tet-nguyen-dan-5042130.html",
+      "summary": "Kiêng cắt tóc, gội đầu là những phong tục được người dân một số nước châu Á đón Tết Âm lịch duy trì để giữ tài lộc và cầu may cho năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:00:00+07:00",
+      "fetched": "2026-02-18T15:34:15.843028+07:00"
+    },
+    {
+      "id": "3ef78a6904542874c50d58973ccf5af2",
+      "title": "Cổ vật 500 tuổi 5 lần bị trộm vẫn trở về làng",
+      "link": "https://vnexpress.net/co-vat-500-tuoi-5-lan-bi-trom-van-tro-ve-lang-5040559.html",
+      "summary": "Nhiều lần bị mất trộm, chiếc vạc đồng gắn với sự tích cả bản thịt trâu đánh đuổi kẻ ác thuở lập Mường, vẫn quay về xã Châu Tiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:00:00+07:00",
+      "fetched": "2026-02-18T15:34:15.843205+07:00"
+    },
+    {
+      "id": "d057402f31f048ccdf7a561fb8cd5dea",
+      "title": "Lâm Thanh Hà - minh tinh tuổi Ngọ tài sắc vẹn toàn",
+      "link": "https://vnexpress.net/lam-thanh-ha-minh-tinh-tuoi-ngo-tai-sac-ven-toan-5040266.html",
+      "summary": "Diễn viên Hong Kong Lâm Thanh Hà khuynh đảo màn ảnh qua các vai diễn đa dạng, nhan sắc hút hồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:00:00+07:00",
+      "fetched": "2026-02-18T15:34:15.843367+07:00"
+    },
+    {
+      "id": "9aa1e61fe358ef8b81a774889228aa18",
+      "title": "Đóa sen khổng lồ ghép từ 50.000 chậu hoa ở Kinh thành Huế",
+      "link": "https://vnexpress.net/doa-sen-khong-lo-ghep-tu-50-000-chau-hoa-o-kinh-thanh-hue-5040063.html",
+      "summary": "Hơn 50.000 chậu hoa đủ màu được sắp đặt, tạo thành từng lớp cánh sen trong không gian Kinh thành cổ kính, trở thành điểm nhấn trong dịp Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:00:00+07:00",
+      "fetched": "2026-02-18T15:34:15.843526+07:00"
+    },
+    {
+      "id": "c130f29ab38648397134210a7ffdd9a3",
+      "title": "Trane Technologies mở rộng thương hiệu vận tải lạnh",
+      "link": "https://vnexpress.net/trane-technologies-mo-rong-thuong-hieu-van-tai-lanh-5039664.html",
+      "summary": "Trane Technologies vừa hoàn tất thương vụ mua lại CSTK - đại lý lâu năm của Thermo King tăng cường dịch vụ chuỗi cung ứng lạnh tại vùng Đông Bắc và Trung Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:00:00+07:00",
+      "fetched": "2026-02-18T15:34:15.843706+07:00"
+    },
+    {
+      "id": "c372519c495aa842857da8f319c6f08e",
+      "title": "Ba hồi trống khai chánh, tàu cá của ngư dân Quảng Ngãi rẽ sóng đầu năm",
+      "link": "https://thanhnien.vn/ba-hoi-trong-khai-chanh-tau-ca-cua-ngu-dan-quang-ngai-re-song-dau-nam-185260218125519379.htm",
+      "summary": "Sau 3 hồi trống, tàu cá rẽ sóng hướng ra biển qua cửa Mỹ Á (Quảng Ngãi) trước những ánh mắt chứa chan niềm hy vọng. Ngư dân cầu mong trời yên biển lặng, đánh bắt được mùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:00:00+07:00",
+      "fetched": "2026-02-18T15:34:19.492552+07:00"
+    },
+    {
+      "id": "24ca1692ea0d17bbf7ad07c14d0be82c",
+      "title": "Hình ảnh về ngựa được thể hiện ra sao trong các nền văn hóa?",
+      "link": "https://thanhnien.vn/hinh-anh-ve-ngua-duoc-the-hien-ra-sao-trong-cac-nen-van-hoa-185260204184546279.htm",
+      "summary": "Những nền văn hóa lớn đều xem ngựa là biểu tượng đặc biệt, mang nhiều ý nghĩa vật chất và tinh thần trong suốt quá trình phát triển của xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:00:00+07:00",
+      "fetched": "2026-02-18T15:34:19.492722+07:00"
+    },
+    {
+      "id": "8165c1be9673856eae3bcd852250ea9b",
+      "title": "Mục sở thị những báu vật vô giá",
+      "link": "https://thanhnien.vn/muc-so-thi-nhung-bau-vat-vo-gia-185260131154026421.htm",
+      "summary": "Với những người yêu lịch sử và khảo cổ, có lẽ một ngày tại Bảo tàng Cung điện quốc gia ở Đài Bắc là không đủ bởi nơi đây là cả một kho tàng báu vật đồ sộ và vô giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T08:00:00+07:00",
+      "fetched": "2026-02-18T15:34:19.492884+07:00"
+    },
+    {
+      "id": "d44dcacddfaa84a48a34a8a1ebda0884",
+      "title": "Chúc Tết 'sức khỏe dồi dào' nhưng ép nhau cạn chén rượu, bia",
+      "link": "https://vnexpress.net/chuc-tet-suc-khoe-doi-dao-nhung-ep-nhau-can-chen-ruou-bia-5042054.html",
+      "summary": "Tôi không hiểu sao nhiều người chúc nhau 'năm mới sức khỏe', nhưng lúc sau đã lăm lăm ly bia, chén rượu, ép nhau uống thứ chẳng tốt lành gì?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T07:54:03+07:00",
+      "fetched": "2026-02-18T15:34:15.843865+07:00"
+    },
+    {
+      "id": "f18acae81f479e22d534e5b93fcade2a",
+      "title": "Điều ít biết về tượng đài nơi Thánh Gióng cưỡi ngựa sắt về trời",
+      "link": "https://thanhnien.vn/dieu-it-biet-ve-tuong-dai-noi-thanh-giong-cuoi-ngua-sat-ve-troi-185260218095236716.htm",
+      "summary": "Ít ai biết  bên trong tượng đài Thánh Gióng trên đỉnh núi Đá Chồng (xã Sóc Sơn, thuộc Hà Nội) có hai 'quả tim'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T07:50:00+07:00",
+      "fetched": "2026-02-18T15:34:19.493036+07:00"
+    },
+    {
+      "id": "ca6d1598d590232b6f835e4ff670e46f",
+      "title": "Hà Việt Dũng - 'tổng tài' online hóa 'tổng tài' giờ vàng, khoe khách hàng đặc biệt",
+      "link": "https://thanhnien.vn/ha-viet-dung-tong-tai-online-hoa-tong-tai-gio-vang-khoe-khach-hang-dac-biet-18526021811265785.htm",
+      "summary": "Tỏa sáng với vai 'tổng tài' giờ vàng, Hà Việt Dũng ngoài đời và trên online lại tất bật kinh doanh, được khán giả ủng hộ nhiệt tình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T07:39:00+07:00",
+      "fetched": "2026-02-18T15:34:19.493192+07:00"
+    },
+    {
+      "id": "01940b151e838bf8fa1a7451f4621b99",
+      "title": "Nồng độ cồn tiếp tục là lỗi mắc nhiều nhất trong ngày mùng 2 tết",
+      "link": "https://thanhnien.vn/nong-do-con-tiep-tuc-la-loi-mac-nhieu-nhat-trong-ngay-mung-2-tet-185260218142707827.htm",
+      "summary": "Trong ngày mùng 2 tết Nguyên đán 2026, lực lượng cảnh sát giao thông (CSGT) toàn quốc đã xử lý 5.668 trường hợp, trong đó có tới 2.812 trường hợp vi phạm nồng độ cồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T07:38:00+07:00",
+      "fetched": "2026-02-18T15:34:19.493340+07:00"
+    },
+    {
+      "id": "168fff93cd5c0fade0dd5f753421f463",
+      "title": "Bà Takaichi tái đắc cử Thủ tướng Nhật",
+      "link": "https://vnexpress.net/ba-takaichi-tai-dac-cu-thu-tuong-nhat-5042146.html",
+      "summary": "Hạ viện Nhật Bản bỏ phiếu bầu bà Sanae Takaichi làm Thủ tướng, sau khi đảng Dân chủ Tự do cầm quyền thắng lớn cuộc bầu cử hồi đầu tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T07:33:14+07:00",
+      "fetched": "2026-02-18T15:34:15.844020+07:00"
+    },
+    {
+      "id": "168fff93cd5c0fade0dd5f753421f463",
+      "title": "Bà Takaichi tái đắc cử Thủ tướng Nhật",
+      "link": "https://vnexpress.net/ba-takaichi-tai-dac-cu-thu-tuong-nhat-5042146.html",
+      "summary": "Hạ viện Nhật Bản bỏ phiếu bầu bà Sanae Takaichi làm Thủ tướng, sau khi đảng Dân chủ Tự do cầm quyền thắng lớn cuộc bầu cử hồi đầu tháng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-18T07:33:14+07:00",
+      "fetched": "2026-02-18T15:34:22.423917+07:00"
+    },
+    {
+      "id": "7d888191e02fe14c6b3977dba632b890",
+      "title": "Giá chuyển nhượng dàn cầu thủ nhập tịch Malaysia tăng trở lại, FIFA tung báo cáo gây áp lực cho FAM",
+      "link": "https://thanhnien.vn/gia-chuyen-nhuong-dan-cau-thu-nhap-tich-malaysia-tang-tro-lai-fifa-tung-bao-cao-gay-ap-luc-cho-fam-185260218142733468.htm",
+      "summary": "7 cầu thủ nhập tịch của đội tuyển Malaysia được định giá trở lại sau khi CAS tạm hoãn án cấm 1 năm. Tuy nhiên, báo cáo mới nhất của FIFA cho thấy 81% vụ kháng cáo tại CAS giữ nguyên quyết định ban đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T07:32:00+07:00",
+      "fetched": "2026-02-18T15:34:19.493492+07:00"
+    },
+    {
+      "id": "3b3aa1e6dec4e0b79c5e7afe923f5cd7",
+      "title": "Châu Tinh Trì phát lì xì đầu xuân, úp mở thời gian ra phim mới",
+      "link": "https://thanhnien.vn/chau-tinh-tri-phat-li-xi-dau-xuan-up-mo-thoi-gian-ra-phim-moi-185260218103640774.htm",
+      "summary": "Dịp đầu năm, Châu Tinh Trì gặp gỡ nhân viên, cộng sự, rộn ràng phát lì xì và nhận những lời chúc tốt đẹp. Video được 'vua hài Hồng Kông' đăng tải cũng gây chú ý khi úp mở về thời gian phát hành phim mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T07:31:00+07:00",
+      "fetched": "2026-02-18T15:34:19.493653+07:00"
+    },
+    {
+      "id": "297f23ab172da644d3e7353c48551135",
+      "title": "Mùng 2 tết: Xe máy va vào đuôi xe chở rác, một người tử vong",
+      "link": "https://thanhnien.vn/mung-2-tet-xe-may-va-vao-duoi-xe-cho-rac-mot-nguoi-tu-vong-1852602181330378.htm",
+      "summary": "Nam thanh niên điều khiển xe máy lưu thông trên đường Ngô Gia Tự, thuộc phường Trung An (Đồng Tháp) bất ngờ va vào đuôi xe tải chở rác, khiến người này tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T07:30:00+07:00",
+      "fetched": "2026-02-18T15:34:19.493836+07:00"
+    },
+    {
+      "id": "09533b951b50c2048e16742269ad9954",
+      "title": "Đến thư viện không chỉ để đọc sách",
+      "link": "https://thanhnien.vn/den-thu-vien-khong-chi-de-doc-sach-185260131145713894.htm",
+      "summary": "Từ Tampines hiện đại ở Singapore, Từ Gia Hội giàu văn mạch ở Thượng Hải (Trung Quốc), đến Oodi cởi mở ở Helsinki, các thư viện công cộng đang tái định nghĩa vai trò của mình, để tri thức không còn bị khóa trong sách vở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T07:30:00+07:00",
+      "fetched": "2026-02-18T15:34:19.493987+07:00"
+    },
+    {
+      "id": "b9521b106650e845a8bf242ae4599dc5",
+      "title": "Năm Ngọ kể chuyện cá ngựa bố mang thai",
+      "link": "https://thanhnien.vn/nam-ngo-ke-chuyen-ca-ngua-bo-mang-thai-185260211163042299.htm",
+      "summary": "Phú Quốc từng là 'thiên đường' của cá ngựa, loài sinh vật biển gây tò mò bởi hình dáng kỳ dị, tập tính thủy chung và nhất là đặc tính cá đực mang thai. Tuy nhiên, cũng chính tại đảo ngọc, cá ngựa - đặc biệt là cá ngựa đen (tên khoa học Hippocampus kuda) - đang đứng trước nguy cơ biến mất nếu không đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T07:25:00+07:00",
+      "fetched": "2026-02-18T15:34:19.494138+07:00"
+    },
+    {
+      "id": "072c66db95b13c227fcbdbdeb8625ed6",
+      "title": "Những sân chơi của giới tinh hoa nước Mỹ",
+      "link": "https://thanhnien.vn/nhung-san-choi-cua-gioi-tinh-hoa-nuoc-my-185260130192253754.htm",
+      "summary": "Những câu lạc bộ riêng tư, những viện nghiên cứu chính sách... là các cấu trúc quan trọng thuộc mạng lưới sân chơi của giới tinh hoa Mỹ - những người không chỉ tạo dựng ảnh hưởng ở xứ sở cờ hoa mà thậm chí có thể bao trùm thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T07:11:00+07:00",
+      "fetched": "2026-02-18T15:34:19.494293+07:00"
+    },
+    {
+      "id": "b8ff6b7c00fbd6d96b64e3be4bbe325e",
+      "title": "Một quốc gia nắm giữ kho Bitcoin tỷ USD",
+      "link": "https://vnexpress.net/mot-quoc-gia-nam-giu-kho-bitcoin-ty-usd-5042114.html",
+      "summary": "Hai quỹ đầu tư chính phủ của UAE nắm giữ hơn 1 tỷ USD Bitcoin tính tới cuối 2025, thông qua chứng chỉ quỹ ETF của BlackRock, bất chấp đà giảm mạnh của tiền số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T07:05:00+07:00",
+      "fetched": "2026-02-18T15:34:15.844170+07:00"
+    },
+    {
+      "id": "b8ff6b7c00fbd6d96b64e3be4bbe325e",
+      "title": "Một quốc gia nắm giữ kho Bitcoin tỷ USD",
+      "link": "https://vnexpress.net/mot-quoc-gia-nam-giu-kho-bitcoin-ty-usd-5042114.html",
+      "summary": "Hai quỹ đầu tư chính phủ của UAE nắm giữ hơn 1 tỷ USD Bitcoin tính tới cuối 2025, thông qua chứng chỉ quỹ ETF của BlackRock, bất chấp đà giảm mạnh của tiền số.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-18T07:05:00+07:00",
+      "fetched": "2026-02-18T15:34:24.495417+07:00"
+    },
+    {
+      "id": "32639c565c3c39e906bc0cf5f4f17147",
+      "title": "Mâm cỗ để lâu ở nhiệt độ phòng, hâm nhiều lần dễ gây ngộ độc",
+      "link": "https://vnexpress.net/mam-co-de-lau-o-nhiet-do-phong-ham-nhieu-lan-de-gay-ngo-doc-5041946.html",
+      "summary": "Chế biến quá nhiều món ăn, để lâu ở nhiệt độ phòng hoặc hâm đi hâm lại nhiều lần là những thói quen phổ biến khiến nguy cơ ngộ độc thực phẩm gia tăng trong dịp Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T07:00:00+07:00",
+      "fetched": "2026-02-18T15:34:15.844325+07:00"
+    },
+    {
+      "id": "80b10b269e2a6de82fb9727653bfb30c",
+      "title": "Linh vật ngựa trong gốm xưa Nam Bộ",
+      "link": "https://vnexpress.net/linh-vat-ngua-trong-gom-xua-nam-bo-5039764.html",
+      "summary": "Bộ sưu tập linh vật ngựa trong gốm xưa Nam Bộ được ông Chu Văn Nam dày công sưu tầm với nhiều mẫu vật độc đáo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T07:00:00+07:00",
+      "fetched": "2026-02-18T15:34:15.844480+07:00"
+    },
+    {
+      "id": "349c62c16361040d5bd9496f8865357b",
+      "title": "'Đường xưa mây trắng' - con đường Trung đạo",
+      "link": "https://vnexpress.net/duong-xua-may-trang-con-duong-trung-dao-5042129.html",
+      "summary": "Nhờ đọc ''Đường xưa mây trắng'', tôi hiểu nhiều giáo lý cốt yếu của Đạo Phật, giúp tôi khai sáng trí tuệ, khai thông bế tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T06:54:13+07:00",
+      "fetched": "2026-02-18T15:34:15.844634+07:00"
+    },
+    {
+      "id": "7b131fd46bf1664cb694db99d7ef6282",
+      "title": "Rhyder: 'Tôi tái sinh sau những năm chênh vênh'",
+      "link": "https://vnexpress.net/rhyder-toi-tai-sinh-sau-nhung-nam-chenh-venh-5039906.html",
+      "summary": "Rhyder nói sau 12 năm làm nghề, đi qua vấp ngã và áp lực nổi tiếng sớm, anh tìm lại chính mình, chọn âm nhạc làm nơi tái sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T06:49:19+07:00",
+      "fetched": "2026-02-18T15:34:15.844813+07:00"
+    },
+    {
+      "id": "83097f847c1b73e97e6af4938856b807",
+      "title": "Bạn trai nhiều lần cho tình cũ mượn nửa số tiền lương",
+      "link": "https://vnexpress.net/ban-trai-nhieu-lan-cho-tinh-cu-muon-nua-so-tien-luong-5042144.html",
+      "summary": "Giờ ở bên anh, tôi cảm giác không thể tin tưởng nữa; lòng tin của tôi, anh đã chà đạp quá nhiều lần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T06:37:56+07:00",
+      "fetched": "2026-02-18T15:34:15.844981+07:00"
+    },
+    {
       "id": "6568bc1e65177dee22ffea3c0e8f3776",
       "title": "Lạc bước vào thế giới vàng huyền bí ở Colombia",
       "link": "https://thanhnien.vn/lac-buoc-vao-the-gioi-vang-huyen-bi-o-colombia-185260131193203747.htm",
@@ -431,6 +881,16 @@ window.newsData_2026_02_18 = {
       "category": "Tổng hợp",
       "published": "2026-02-18T06:12:00+07:00",
       "fetched": "2026-02-18T13:51:01.793200+07:00"
+    },
+    {
+      "id": "52c1aa7b028cc2f272c2a7432ee74ec2",
+      "title": "'Lò luyện thép' đêm 30 của bác sĩ nội trú",
+      "link": "https://vnexpress.net/lo-luyen-thep-dem-30-cua-bac-si-noi-tru-5041989.html",
+      "summary": "Khi đồng hồ nhích dần về con số 0 - báo hiệu thời khắc giao thừa, trong phòng Hồi sức 1, Bệnh viện Hữu nghị Việt Đức, không khí vẫn đặc quánh mùi cồn và sự căng thẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T06:11:05+07:00",
+      "fetched": "2026-02-18T15:34:15.845132+07:00"
     },
     {
       "id": "804bc9f4010ea54b50880085e6ed3db4",
@@ -471,6 +931,16 @@ window.newsData_2026_02_18 = {
       "category": "Thể thao",
       "published": "2026-02-18T06:00:00+07:00",
       "fetched": "2026-02-18T13:51:13.137394+07:00"
+    },
+    {
+      "id": "3462dc3c34c30eba58e580117bebee21",
+      "title": "Ronaldo từng bị Ten Hag loại bỏ 'vì không pressing'",
+      "link": "https://vnexpress.net/ronaldo-tung-bi-ten-hag-loai-bo-vi-khong-pressing-5042078.html",
+      "summary": "Theo cựu trợ lý HLV Steve McClaren, việc Cristiano Ronaldo không đáp ứng yêu cầu pressing là một trong những nguyên nhân khiến quan hệ giữa anh với Erik ten Hag đổ vỡ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-18T06:00:00+07:00",
+      "fetched": "2026-02-18T15:34:29.827373+07:00"
     },
     {
       "id": "1f29e38b5d9f870f4a983c7782a27bcd",
