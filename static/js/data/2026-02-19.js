@@ -1,7 +1,57 @@
 window.newsData_2026_02_19 = {
   "date": "2026-02-19",
-  "lastUpdated": "2026-02-19T19:40:34.036427+07:00",
+  "lastUpdated": "2026-02-19T21:41:22.495220+07:00",
   "articles": [
+    {
+      "id": "8e20d9577ab383c82e6156657fc4bc5e",
+      "title": "Tập đoàn sở hữu thương hiệu Conan sáp nhập studio đứng sau Blue Lock, Tower of God",
+      "link": "https://tuoitre.vn/tap-doan-so-huu-thuong-hieu-conan-sap-nhap-studio-dung-sau-blue-lock-tower-of-god-20260219182519651.htm",
+      "summary": "Công ty sản xuất anime TMS Entertainment (đứng sau thương hiệu Conan, Lupin III...) vừa thông báo sẽ sáp nhập hoàn toàn công ty con Telecom Animation Film, chính thức tiếp nhận toàn bộ quyền lợi và nghĩa vụ pháp lý của đơn vị này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T21:41:16.141647+07:00",
+      "fetched": "2026-02-19T21:41:16.141768+07:00"
+    },
+    {
+      "id": "5a07b9ea4b3de47ddc38a46a59a60319",
+      "title": "Hai ca nghi ngộ độc cá nóc ở Quảng Ninh, Bộ Y tế yêu cầu khẩn trương điều tra",
+      "link": "https://tuoitre.vn/hai-ca-nghi-ngo-doc-ca-noc-o-quang-ninh-bo-y-te-yeu-cau-khan-truong-dieu-tra-20260219190204183.htm",
+      "summary": "Hai người nhập viện nghi ngộ độc sau ăn cá nóc tại Quảng Ninh; Bộ Y tế yêu cầu khẩn trương xác minh, điều trị tích cực và tăng giám sát an toàn thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T21:41:16.141506+07:00",
+      "fetched": "2026-02-19T21:41:16.141635+07:00"
+    },
+    {
+      "id": "3fffe6e44d27d6f14d1bf0979e21f8e4",
+      "title": "‘Mùng 3 Tết thầy’, Văn Miếu - Quốc Tử Giám đông nghẹt người",
+      "link": "https://tuoitre.vn/mung-3-tet-thay-van-mieu-quoc-tu-giam-dong-nghet-nguoi-20260219192703746.htm",
+      "summary": "Ngày mùng 3 Tết, đường phố Hà Nội vẫn khá vắng vẻ, riêng Văn Miếu - Quốc Tử Giám đông nghẹt người về du xuân, lễ Khổng Tử, thầy Chu Văn An...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T21:41:16.141351+07:00",
+      "fetched": "2026-02-19T21:41:16.141473+07:00"
+    },
+    {
+      "id": "7c74f52828ea14e0d1d05fc91ac017d3",
+      "title": "Xuyên đêm tìm người mất tích sau vụ lật đò chở 7 người trên sông Gianh",
+      "link": "https://tuoitre.vn/xuyen-dem-tim-nguoi-mat-tich-sau-vu-lat-do-cho-7-nguoi-tren-song-gianh-20260219200540866.htm",
+      "summary": "Chính quyền địa phương huy động khoảng 200 người xuyên đêm tìm kiếm 2 người mất tích trong vụ lật đò chở 7 người đi chơi Tết trên sông Gianh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T21:41:16.141209+07:00",
+      "fetched": "2026-02-19T21:41:16.141338+07:00"
+    },
+    {
+      "id": "7ebcf77ec5ac3529207a3b1ba5ac7063",
+      "title": "Báo Mỹ nêu lý do Mỹ - Iran bên bờ vực chiến tranh",
+      "link": "https://tuoitre.vn/bao-my-neu-ly-do-my-iran-ben-bo-vuc-chien-tranh-20260219202912081.htm",
+      "summary": "Sau vòng đàm phán ở Geneva (Thụy Sĩ), căng thẳng Mỹ - Iran vẫn tiếp tục leo thang nhanh chóng, khiến cả thế giới “nín thở” chờ đợi các động thái tiếp theo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T21:41:16.140978+07:00",
+      "fetched": "2026-02-19T21:41:16.141194+07:00"
+    },
     {
       "id": "9fecf6d02a3fadcf72d948c982329a3d",
       "title": "Ngôi sao của trại rắn Đồng Tâm dịp Tết năm nay là... ngựa lùn",
@@ -393,6 +443,86 @@ window.newsData_2026_02_19 = {
       "fetched": "2026-02-19T15:32:51.328867+07:00"
     },
     {
+      "id": "f5f134c8a6ebd3f9e42927e4382f574b",
+      "title": "Nhiều người nước ngoài, Việt kiều chọn dịch vụ y tế tại Việt Nam",
+      "link": "https://thanhnien.vn/nhieu-nguoi-nuoc-ngoai-viet-kieu-chon-dich-vu-y-te-tai-viet-nam-185260219210424359.htm",
+      "summary": "Cùng với nha khoa, các dịch vụ thẩm mỹ, chẩn đoán hình ảnh, một số chuyên khoa sâu về ngoại khoa... được đánh giá có ưu thế thu hút du lịch y tế, là lựa chọn của Việt kiều, khách nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T14:31:00+07:00",
+      "fetched": "2026-02-19T21:41:15.016791+07:00"
+    },
+    {
+      "id": "3b742da79e2d588c170fd1f1ecfee7d4",
+      "title": "Khách chen chân check-in cây mai 150 tuổi ở Cần Giờ",
+      "link": "https://vnexpress.net/khach-chen-chan-check-in-cay-mai-150-tuoi-o-can-gio-5042360.html",
+      "summary": "Cây mai Phú Quý 150 tuổi, nở hoa rực rỡ là một trong số điểm nhấn tại lễ hội Green Paradise Tet Fest hút du khách những ngày đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T14:15:00+07:00",
+      "fetched": "2026-02-19T21:41:12.095646+07:00"
+    },
+    {
+      "id": "1d2a94dc7c0378e7d102e4907b697056",
+      "title": "Vì sao iPhone 17 Pro Max mới ra mắt lại bị 'sang tay' sớm?",
+      "link": "https://thanhnien.vn/vi-sao-iphone-17-pro-max-moi-ra-mat-lai-bi-sang-tay-som-185260219134444882.htm",
+      "summary": "Dữ liệu mới nhất từ SellCell cho thấy iPhone 17 Pro Max đã nhanh chóng trở thành chiếc smartphone được trao đổi nhiều nhất trên thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T14:11:00+07:00",
+      "fetched": "2026-02-19T21:41:15.016962+07:00"
+    },
+    {
+      "id": "2c63dec22099c805c3fe88d8f3cae215",
+      "title": "Hungary dọa cắt điện, khí đốt sang Ukraine",
+      "link": "https://vnexpress.net/hungary-doa-cat-dien-khi-dot-sang-ukraine-5042355.html",
+      "summary": "Hungary tuyên bố đang xem xét ngừng xuất khẩu điện, khí đốt cho Ukraine nếu nước này không nối lại hoạt động chuyển dầu Nga qua đường ống Druzhba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T14:08:05+07:00",
+      "fetched": "2026-02-19T21:41:12.095828+07:00"
+    },
+    {
+      "id": "2c63dec22099c805c3fe88d8f3cae215",
+      "title": "Hungary dọa cắt điện, khí đốt sang Ukraine",
+      "link": "https://vnexpress.net/hungary-doa-cat-dien-khi-dot-sang-ukraine-5042355.html",
+      "summary": "Hungary tuyên bố đang xem xét ngừng xuất khẩu điện, khí đốt cho Ukraine nếu nước này không nối lại hoạt động chuyển dầu Nga qua đường ống Druzhba.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-19T14:08:05+07:00",
+      "fetched": "2026-02-19T21:41:17.430172+07:00"
+    },
+    {
+      "id": "41f39a192afae88549174ae6adefbc09",
+      "title": "Cảnh sát đóng giả đoàn múa lân để bắt tội phạm",
+      "link": "https://vnexpress.net/canh-sat-dong-gia-doan-mua-lan-de-bat-toi-pham-5042347.html",
+      "summary": "Các sĩ quan cảnh sát ở Nonthaburi đóng giả đoàn múa lân dịp Tết để bắt người đàn ông bị nghi ăn trộm nhiều cổ vật tại Bangkok.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:59:41+07:00",
+      "fetched": "2026-02-19T21:41:12.095993+07:00"
+    },
+    {
+      "id": "41f39a192afae88549174ae6adefbc09",
+      "title": "Cảnh sát đóng giả đoàn múa lân để bắt tội phạm",
+      "link": "https://vnexpress.net/canh-sat-dong-gia-doan-mua-lan-de-bat-toi-pham-5042347.html",
+      "summary": "Các sĩ quan cảnh sát ở Nonthaburi đóng giả đoàn múa lân dịp Tết để bắt người đàn ông bị nghi ăn trộm nhiều cổ vật tại Bangkok.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-19T13:59:41+07:00",
+      "fetched": "2026-02-19T21:41:17.430345+07:00"
+    },
+    {
+      "id": "bb5c83240dfc3d808751b1e52d488c34",
+      "title": "Vua Charles của Anh lên tiếng về việc em trai bị bắt",
+      "link": "https://thanhnien.vn/vua-charles-cua-anh-len-tieng-ve-viec-em-trai-bi-bat-185260219204752369.htm",
+      "summary": "Vua Charles III của Anh hôm 19.2 khẳng định 'luật pháp phải được thực thi' sau vụ cảnh sát Anh bắt em trai là cựu hoàng tử Andrew, người có thể đối mặt mức án tối đa là tù chung thân nếu bị tuyên có tội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:54:00+07:00",
+      "fetched": "2026-02-19T21:41:15.017120+07:00"
+    },
+    {
       "id": "6f2d17830dbcd61955805948e116a523",
       "title": "Tài xế đậu xe 'khóa đầu, khóa đuôi' ngõ nhỏ, thách 'ai cẩu được cứ cẩu, phạt 100 triệu không sao'",
       "link": "https://tuoitre.vn/tai-xe-dau-xe-khoa-dau-khoa-duoi-ngo-nho-thach-ai-cau-duoc-cu-cau-phat-100-trieu-khong-sao-20260219101227779.htm",
@@ -543,6 +673,96 @@ window.newsData_2026_02_19 = {
       "fetched": "2026-02-19T13:49:26.278690+07:00"
     },
     {
+      "id": "6d5e0f556f57cf521d627d9b0a81ce6e",
+      "title": "Dương Tử Quỳnh nhận sao trên Đại lộ Danh vọng Hollywood",
+      "link": "https://vnexpress.net/duong-tu-quynh-nhan-sao-tren-dai-lo-danh-vong-hollywood-5042356.html",
+      "summary": "Minh tinh gốc Malaysia Dương Tử Quỳnh được vinh danh trên Đại lộ Danh vọng Hollywood, nhờ đóng góp cho điện ảnh thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:40:24+07:00",
+      "fetched": "2026-02-19T21:41:12.096157+07:00"
+    },
+    {
+      "id": "7c739d59f61a9eb9eef538f6ca2e54ad",
+      "title": "Vị vua tuổi Ngọ nào được suy tôn là Phật hoàng?",
+      "link": "https://vnexpress.net/vi-vua-tuoi-ngo-nao-duoc-suy-ton-la-phat-hoang-5042328.html",
+      "summary": "Vị vua này sinh năm Mậu Ngọ 1258, là người sáng lập Thiền phái Trúc Lâm Yên Tử. Bạn có biết đó là vua nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:30:53+07:00",
+      "fetched": "2026-02-19T21:41:12.096312+07:00"
+    },
+    {
+      "id": "34aa18ddbd2cb2e7944b817f91eb4061",
+      "title": "'Nữ hoàng phim xưa' Quỳnh Lam nói về kế hoạch kết hôn với bạn trai kém tuổi",
+      "link": "https://thanhnien.vn/nu-hoang-phim-xua-quynh-lam-noi-ve-ke-hoach-ket-hon-voi-ban-trai-kem-tuoi-185260219184215809.htm",
+      "summary": "Gây chú ý bởi chuyện tình cảm bên bạn trai kém tuổi, mới đây, Quỳnh Lam đã có những phút trải lòng về kế hoạch lập gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:09:00+07:00",
+      "fetched": "2026-02-19T21:41:15.017286+07:00"
+    },
+    {
+      "id": "2d6f78c52737a403cb9f3e582dbbc5ad",
+      "title": "5 món ăn ngày Tết tăng sinh lý phái mạnh",
+      "link": "https://vnexpress.net/5-mon-an-ngay-tet-tang-sinh-ly-phai-manh-5042318.html",
+      "summary": "Hàu, cá béo, các loại hạt, dưa hấu hay chocolate đen là những món quen thuộc ngày Tết có thể hỗ trợ mạch máu và nội tiết tăng phong độ đàn ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:00:00+07:00",
+      "fetched": "2026-02-19T21:41:12.096496+07:00"
+    },
+    {
+      "id": "ecf24b4d6379a247417a38ab23666330",
+      "title": "Trong cuộc sống, anh khá đơn giản và lành mạnh",
+      "link": "https://vnexpress.net/trong-cuoc-song-anh-kha-don-gian-va-lanh-manh-5042176.html",
+      "summary": "Anh thích những buổi trò chuyện sâu sắc hơn vì là người thực tế, nghiêm túc, chân thành, vui vẻ và có chút hài hước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:00:00+07:00",
+      "fetched": "2026-02-19T21:41:12.096610+07:00"
+    },
+    {
+      "id": "924681aef7402ee844f75b72810580c7",
+      "title": "Sắc pastel ngọt ngào phủ sóng mùa xuân 2026",
+      "link": "https://thanhnien.vn/thoi-trang-tre/sac-pastel-ngot-ngao-phu-song-mua-xuan-2026-185260216203650909.htm",
+      "summary": "Xuân 2026, sắc pastel ngọt ngào phủ sóng mạnh mẽ, mang đến diện mạo trẻ trung và thanh thoát. Những gam màu dịu nhẹ trở thành lựa chọn lý tưởng cho phong cách nữ tính, tươi mới ngày đầu năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:00:00+07:00",
+      "fetched": "2026-02-19T21:41:15.017445+07:00"
+    },
+    {
+      "id": "eabd5367521aea618e03527d3d993f3b",
+      "title": "Pixel 10a trình làng, giữ nguyên giá 499 USD",
+      "link": "https://thanhnien.vn/pixel-10a-trinh-lang-giu-nguyen-gia-499-usd-185260219100241993.htm",
+      "summary": "Google vừa chính thức giới thiệu chiếc smartphone tầm trung mới nhất trong dòng sản phẩm Pixel mang tên Pixel 10a.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T12:55:00+07:00",
+      "fetched": "2026-02-19T21:41:15.017617+07:00"
+    },
+    {
+      "id": "21ef3add17d0202e6175a72d36973940",
+      "title": "Cáp treo Hòn Thơm gặp sự cố, hàng nghìn khách phải về bờ bằng canô",
+      "link": "https://vnexpress.net/cap-treo-hon-thom-gap-su-co-hang-nghin-khach-phai-ve-bo-bang-cano-5042352.html",
+      "summary": "Sự cố kỹ thuật khiến hệ thống cáp treo Hòn Thơm, Phú Quốc ngừng hoạt động chiều 19/2, đơn vị vận hành phải huy động hàng chục canô giải tỏa khoảng 8.000 lượt khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T12:45:23+07:00",
+      "fetched": "2026-02-19T21:41:12.096770+07:00"
+    },
+    {
+      "id": "02e006155a130bc7e06df1c98d8d51dd",
+      "title": "Lễ cúng máng nước của người Xơ Đăng: Giữ mạch nguồn giữa đại ngàn",
+      "link": "https://thanhnien.vn/le-cung-mang-nuoc-cua-nguoi-xo-dang-giu-mach-nguon-giua-dai-ngan-185260219161546112.htm",
+      "summary": "Giữa đại ngàn xanh thẳm, lễ cúng máng nước của người Xơ Đăng (ở Quảng Ngãi) không chỉ là nghi thức tâm linh mà còn là lời thề giữ rừng, giữ suối, giữ mạch nguồn văn hóa cho hôm nay và mai sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T12:45:00+07:00",
+      "fetched": "2026-02-19T21:41:15.017766+07:00"
+    },
+    {
       "id": "6537498d52916a7eaf41ec42cd90b0a9",
       "title": "Chinh phục 172 bậc thang đến Thiền viện Trúc Lâm Bạch Mã cầu an đầu năm",
       "link": "https://thanhnien.vn/chinh-phuc-172-bac-thang-den-thien-vien-truc-lam-bach-ma-cau-an-dau-nam-185260219184103347.htm",
@@ -573,6 +793,56 @@ window.newsData_2026_02_19 = {
       "fetched": "2026-02-19T19:40:24.881888+07:00"
     },
     {
+      "id": "6c09c566b8a936f7765f95d9732abcb5",
+      "title": "Đâm đơn kiện vì vợ sắp cưới ngoại tình với hai cảnh sát",
+      "link": "https://vnexpress.net/dam-don-kien-vi-vo-sap-cuoi-ngoai-tinh-voi-hai-canh-sat-5042346.html",
+      "summary": "Thám tử Andrew Fearon kiện Sở Cảnh sát Bắc Wales sau khi vợ sắp cưới ngoại tình với hai đồng nghiệp là cảnh sát cùng lực lượng, khiến anh tổn thương tâm lý và phải nghỉ việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T12:29:17+07:00",
+      "fetched": "2026-02-19T21:41:12.096943+07:00"
+    },
+    {
+      "id": "2f3071ed50a2dda65a9b1e9711a17362",
+      "title": "Ba Lan kêu gọi công dân rời Iran ngay lập tức",
+      "link": "https://vnexpress.net/ba-lan-keu-goi-cong-dan-roi-iran-ngay-lap-tuc-5042341.html",
+      "summary": "Thủ tướng Donald Tusk kêu gọi toàn bộ công dân Ba Lan rời khỏi Iran, trong lúc Mỹ điều động nhiều lực lượng tới Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T12:26:03+07:00",
+      "fetched": "2026-02-19T21:41:12.097096+07:00"
+    },
+    {
+      "id": "2f3071ed50a2dda65a9b1e9711a17362",
+      "title": "Ba Lan kêu gọi công dân rời Iran ngay lập tức",
+      "link": "https://vnexpress.net/ba-lan-keu-goi-cong-dan-roi-iran-ngay-lap-tuc-5042341.html",
+      "summary": "Thủ tướng Donald Tusk kêu gọi toàn bộ công dân Ba Lan rời khỏi Iran, trong lúc Mỹ điều động nhiều lực lượng tới Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-19T12:26:03+07:00",
+      "fetched": "2026-02-19T21:41:17.430529+07:00"
+    },
+    {
+      "id": "23c92fb6b1f11c466e7a766603e808a3",
+      "title": "Kẻ giật lắc vàng khiến nạn nhân bị xe cán tử vong",
+      "link": "https://vnexpress.net/ke-giat-lac-vang-khien-nan-nhan-bi-xe-can-tu-vong-5042342.html",
+      "summary": "Bùi Vĩnh An giật lắc tay của hai phụ nữ khiến họ ngã xuống đường, bị xe tải tông trúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T12:25:18+07:00",
+      "fetched": "2026-02-19T21:41:12.097255+07:00"
+    },
+    {
+      "id": "2407bec96619ad9942cf7db83cc0e462",
+      "title": "Hoa hậu Thanh Thủy: 'Tôi không tìm kiếm sự hoàn hảo'",
+      "link": "https://vnexpress.net/hoa-hau-thanh-thuy-toi-khong-tim-kiem-su-hoan-hao-5040511.html",
+      "summary": "Hoa hậu Thanh Thủy, 24 tuổi, nói không chạy theo sự hoàn hảo mà chọn sống đúng với bản thân, tin sự chân thành sẽ chạm đến khán giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T12:20:01+07:00",
+      "fetched": "2026-02-19T21:41:12.097408+07:00"
+    },
+    {
       "id": "554c9e0d88fd98de5805cd6e40d27861",
       "title": "Vì sao hàng chục ngàn du khách chọn núi Cấm vui xuân?",
       "link": "https://thanhnien.vn/vi-sao-hang-chuc-ngan-du-khach-chon-nui-cam-vui-xuan-185260219164014309.htm",
@@ -593,6 +863,16 @@ window.newsData_2026_02_19 = {
       "fetched": "2026-02-19T19:40:24.882202+07:00"
     },
     {
+      "id": "5e255e3c204e18f64a724cbfa0ce246e",
+      "title": "8 món chống ngấy ngày Tết được yêu thích",
+      "link": "https://vnexpress.net/8-mon-chong-ngay-ngay-tet-duoc-yeu-thich-5042348.html",
+      "summary": "Cỗ Tết đủ đầy các món thịt mỡ khiến vị giác quá tải sau vài ngày sum họp. Những món chua, giòn, thanh mát giúp cân bằng vị giác luôn được yêu thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T12:00:28+07:00",
+      "fetched": "2026-02-19T21:41:12.097581+07:00"
+    },
+    {
       "id": "e73dde28c4713262fea3685030049e30",
       "title": "Khoe phong cách luxury tối giản, kiểu Âu ở công sở đầu năm",
       "link": "https://thanhnien.vn/thoi-trang-tre/khoe-phong-cach-luxury-toi-gian-kieu-au-o-cong-so-dau-nam-185260216022703497.htm",
@@ -611,6 +891,16 @@ window.newsData_2026_02_19 = {
       "category": "Thế giới",
       "published": "2026-02-19T12:00:00+07:00",
       "fetched": "2026-02-19T19:40:27.831288+07:00"
+    },
+    {
+      "id": "d4039cc7eb35d9a9c9aaf90d7732ebb4",
+      "title": "Niềm tin ‘Mặt Trời quay quanh Trái Đất’ đã bị lật ngược thế nào?",
+      "link": "https://vnexpress.net/niem-tin-mat-troi-quay-quanh-trai-dat-da-bi-lat-nguoc-the-nao-5042344.html",
+      "summary": "Nhận ra những điểm vô lý về kích thước và quỹ đạo trong mô hình cũ, nhà thiên văn học Nicolaus Copernicus đề xuất thuyết nhật tâm vào thế kỷ XVI, xem Mặt Trời là trung tâm của vũ trụ, đặt nền móng cho một cuộc cách mạng khoa học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T12:00:00+07:00",
+      "fetched": "2026-02-19T21:41:12.097904+07:00"
     },
     {
       "id": "f1e55cf3b871fb23da259aeb34a2a0f0",
