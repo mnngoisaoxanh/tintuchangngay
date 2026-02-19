@@ -1,7 +1,157 @@
 window.newsData_2026_02_19 = {
   "date": "2026-02-19",
-  "lastUpdated": "2026-02-19T11:10:41.600773+07:00",
+  "lastUpdated": "2026-02-19T13:49:31.251085+07:00",
   "articles": [
+    {
+      "id": "6f2d17830dbcd61955805948e116a523",
+      "title": "Tài xế đậu xe 'khóa đầu, khóa đuôi' ngõ nhỏ, thách 'ai cẩu được cứ cẩu, phạt 100 triệu không sao'",
+      "link": "https://tuoitre.vn/tai-xe-dau-xe-khoa-dau-khoa-duoi-ngo-nho-thach-ai-cau-duoc-cu-cau-phat-100-trieu-khong-sao-20260219101227779.htm",
+      "summary": "Mạng xã hội lan truyền video một gia đình đi chúc Tết ngày mùng 2 bị người đàn ông đậu xe 'khóa đầu, khóa đuôi' giữa ngõ, phải nhờ công an can thiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.280438+07:00",
+      "fetched": "2026-02-19T13:49:26.280555+07:00"
+    },
+    {
+      "id": "480e1aacad07ba287f31da9229e3de97",
+      "title": "Thắp sáng trí tuệ Việt trên UAV",
+      "link": "https://tuoitre.vn/thap-sang-tri-tue-viet-tren-uav-20260212093215551.htm",
+      "summary": "Nhiều thiết bị UAV do doanh nghiệp Việt sản xuất có tính năng không hề kém cạnh trình độ thế giới, thậm chí vượt trội. Tất cả bắt đầu từ khát vọng. Có người từ làm \"cu lơ xe\" nhưng toàn tâm đến với UAV và bước đầu thành công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.280307+07:00",
+      "fetched": "2026-02-19T13:49:26.280422+07:00"
+    },
+    {
+      "id": "67264034a3861e871bd0588dfba3182a",
+      "title": "Ba 'điểm nóng' sức khỏe trẻ nhỏ ngày Tết cha mẹ dễ bỏ qua",
+      "link": "https://tuoitre.vn/ba-diem-nong-suc-khoe-tre-nho-ngay-tet-cha-me-de-bo-qua-20260219100511467.htm",
+      "summary": "Bánh mứt, nước ngọt, thức khuya và đi lại nhiều ngày Tết là nguyên nhân khiến số ca bệnh nhi tăng cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.280162+07:00",
+      "fetched": "2026-02-19T13:49:26.280295+07:00"
+    },
+    {
+      "id": "3499ad50413ed5a4b0b2fa1a4c57bb70",
+      "title": "Cựu Tổng thống Yoon Suk Yeol đối mặt án tử hình: Tòa tuyên phán quyết hôm nay",
+      "link": "https://tuoitre.vn/cuu-tong-thong-yoon-suk-yeol-doi-mat-an-tu-hinh-toa-tuyen-phan-quyet-hom-nay-20260219104456167.htm",
+      "summary": "Tòa án dự kiến ra phán quyết trong ngày hôm nay về đề xuất mức án tử hình đối với cựu Tổng thống Hàn Quốc Yoon Suk Yeol.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.280036+07:00",
+      "fetched": "2026-02-19T13:49:26.280151+07:00"
+    },
+    {
+      "id": "59193f94d3221cd6f6e4475efcf14665",
+      "title": "Tại sao quân Mã trong cờ vua lại đi hình chữ L và có đặc quyền nhảy qua đầu?",
+      "link": "https://tuoitre.vn/tai-sao-quan-ma-trong-co-vua-lai-di-hinh-chu-l-va-co-dac-quyen-nhay-qua-dau-20260216165048851.htm",
+      "summary": "Trong cờ vua, quân Mã là 'kẻ phá luật' duy nhất với những bước nhảy hình chữ L biến ảo và có đặc quyền được bay qua đầu các quân khác trên bàn cờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.279908+07:00",
+      "fetched": "2026-02-19T13:49:26.280025+07:00"
+    },
+    {
+      "id": "d65da0b35fd9b5c45c70359845e93b53",
+      "title": "Chợ quê Xóm Rẫy 'đắt khách' ngày xuân",
+      "link": "https://tuoitre.vn/cho-que-xom-ray-dat-khach-ngay-xuan-20260219102548854.htm",
+      "summary": "Chợ quê Xóm Rẫy thu hút hàng nghìn du khách đến tham quan, thưởng thức bánh dân gian, sữa bắp, trải nghiệm không gian quê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.279783+07:00",
+      "fetched": "2026-02-19T13:49:26.279897+07:00"
+    },
+    {
+      "id": "7875f52a828642fa1db8f2be9879afe3",
+      "title": "Hoa Đà Lạt: từ 35 lưu dân Hà thành đến vựa hoa châu Á",
+      "link": "https://tuoitre.vn/hoa-da-lat-tu-35-luu-dan-ha-thanh-den-vua-hoa-chau-a-20260219102222009.htm",
+      "summary": "Đã nhiều năm, vùng hoa Đà Lạt không kiếm tiền từ vụ mùa. Những người sản xuất hoa đã quen với lối làm ăn chuyên nghiệp, kế hoạch và những kế hoạch tăng trưởng có tính toán kỹ càng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.279658+07:00",
+      "fetched": "2026-02-19T13:49:26.279772+07:00"
+    },
+    {
+      "id": "859397fc0c0782e54138fef85622de61",
+      "title": "Hoàng hôn cuối cùng của những huyền thoại",
+      "link": "https://tuoitre.vn/hoang-hon-cuoi-cung-cua-nhung-huyen-thoai-20260215124654218.htm",
+      "summary": "Năm 2026 nhiều khả năng sẽ là năm cuối cùng để những huyền thoại như Cristiano Ronaldo, Lionel Messi (bóng đá), Djokovic (quần vợt), LeBron James (bóng rổ)… tỏa sáng trước khi khép lại sự nghiệp thể thao vĩ đại của họ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.279524+07:00",
+      "fetched": "2026-02-19T13:49:26.279646+07:00"
+    },
+    {
+      "id": "3134b14150b03e88874d2b9d938a025f",
+      "title": "Chạy xe máy không biển số, thanh niên tông thẳng vào cảnh sát tại chốt đo nồng độ cồn",
+      "link": "https://tuoitre.vn/chay-xe-may-khong-bien-so-thanh-nien-tong-thang-vao-canh-sat-tai-chot-do-nong-do-con-20260219113124176.htm",
+      "summary": "Bị ra hiệu dừng xe trên quốc lộ 37 (Thái Nguyên), nam thanh niên sinh năm 2006 tăng ga bỏ chạy, tông ngã cảnh sát giao thông và bị bắt giữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.279397+07:00",
+      "fetched": "2026-02-19T13:49:26.279513+07:00"
+    },
+    {
+      "id": "32e44bf2444480b813481bc1ae109d66",
+      "title": "Ông cháu nghệ sĩ Kim Tử Long, Trọng Nhân hát Nắng có còn xuân trong ngày Tết",
+      "link": "https://tuoitre.vn/ong-chau-nghe-si-kim-tu-long-trong-nhan-hat-nang-co-con-xuan-trong-ngay-tet-2026021911191059.htm",
+      "summary": "Nghệ sĩ Kim Tử Long kết hợp nghệ sĩ Trọng Nhân vừa ra mắt MV Nắng có còn xuân. Đây là lần đầu tiên hai ông cháu kết hợp trong một MV nhạc xuân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.279265+07:00",
+      "fetched": "2026-02-19T13:49:26.279385+07:00"
+    },
+    {
+      "id": "b821898e7a9e6d095f4f6945cc1b7eed",
+      "title": "Hội đồng Hòa bình họp tại Mỹ với lãnh đạo của hơn 20 quốc gia",
+      "link": "https://tuoitre.vn/hoi-dong-hoa-binh-hop-tai-my-voi-lanh-dao-cua-hon-20-quoc-gia-20260219112805466.htm",
+      "summary": "Hơn 20 nhà lãnh đạo thế giới đã có mặt tại Washington cho cuộc họp đầu tiên của Hội đồng Hòa bình do ông Trump khởi xướng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.279116+07:00",
+      "fetched": "2026-02-19T13:49:26.279252+07:00"
+    },
+    {
+      "id": "86433d0116a68dfb99f19c52d10ec18d",
+      "title": "Khách quốc tế mê Tết Việt ở Phú Quốc",
+      "link": "https://tuoitre.vn/khach-quoc-te-me-tet-viet-o-phu-quoc-20260219111157662.htm",
+      "summary": "Dịp Tết Bính Ngọ 2026, Phú Quốc đón gần 170.000 lượt khách, trong đó hơn 51.000 khách quốc tế, doanh thu du lịch hơn 1.290 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.278984+07:00",
+      "fetched": "2026-02-19T13:49:26.279104+07:00"
+    },
+    {
+      "id": "c8b1d14e8026d4de7081de58684070be",
+      "title": "Khoe lương 90 triệu đồng để 'chặn họng' hàng xóm dịp Tết: Ứng xử đúng hay còn quá non?",
+      "link": "https://tuoitre.vn/khoe-luong-90-trieu-dong-de-chan-hong-hang-xom-dip-tet-ung-xu-dung-hay-con-qua-non-20260219112520427.htm",
+      "summary": "Mỗi dịp Tết về, câu hỏi “Lương tháng bao nhiêu rồi?” vẫn là câu chuyện khiến không ít người trẻ… căng thẳng. Có người chọn nói thẳng 90 triệu đồng/tháng để khỏi ai hỏi nữa, có người lại quyết giữ mức 6 triệu đồng/tháng cho yên cửa yên nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.278849+07:00",
+      "fetched": "2026-02-19T13:49:26.278972+07:00"
+    },
+    {
+      "id": "c5a255f67b6ebde2f8569e52a69f2a9a",
+      "title": "Tổng Bí thư Tô Lâm điện đàm với các nghị sĩ Mỹ",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-dien-dam-voi-cac-nghi-si-my-20260219115626375.htm",
+      "summary": "Các nghị sĩ Mỹ đánh giá cao vai trò và vị thế ngày càng tăng của Việt Nam, khẳng định mong muốn củng cố quan hệ Đối tác chiến lược toàn diện Việt Nam - Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.278705+07:00",
+      "fetched": "2026-02-19T13:49:26.278836+07:00"
+    },
+    {
+      "id": "ab79c26d099486e4b6fb9a3cf09e3dc1",
+      "title": "Nửa đêm chen chân xin lộc ở phiên chợ trăm tuổi, chỉ họp một đêm mỗi năm",
+      "link": "https://tuoitre.vn/nua-dem-chen-chan-xin-loc-o-phien-cho-tram-tuoi-chi-hop-mot-dem-moi-nam-20260219115333022.htm",
+      "summary": "Phiên chợ Đình Bích La chỉ họp duy nhất đêm mùng 2 đến rạng sáng mùng 3 Tết, thu hút cả vạn người đến cầu may, tài lộc cho năm mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T13:49:26.278479+07:00",
+      "fetched": "2026-02-19T13:49:26.278690+07:00"
+    },
     {
       "id": "64e58c1705c57d255e6cc011797b8853",
       "title": "Văn khấn cúng mùng 3 Tết 2026 chuẩn",
@@ -221,6 +371,346 @@ window.newsData_2026_02_19 = {
       "category": "Tổng hợp",
       "published": "2026-02-19T08:16:56.796076+07:00",
       "fetched": "2026-02-19T08:16:56.796298+07:00"
+    },
+    {
+      "id": "a36acfe1253cd7ee306d97b701586b40",
+      "title": "Ngày tết, vì sao nhiều người trẻ vẫn đi làm?",
+      "link": "https://thanhnien.vn/ngay-tet-vi-sao-nhieu-nguoi-tre-van-di-lam-185260219112456082.htm",
+      "summary": "Dịp tết, thay vì nghỉ ngơi sum vầy bên gia đình hay tụ họp bạn bè, không ít bạn trẻ vẫn chọn đi làm xuyên những ngày đầu năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T06:45:00+07:00",
+      "fetched": "2026-02-19T13:49:24.908949+07:00"
+    },
+    {
+      "id": "ece9af7b56968874972fcb30d4448ce7",
+      "title": "Cảnh sát cứu thanh niên nhảy cầu Châu Đốc",
+      "link": "https://vnexpress.net/canh-sat-cuu-thanh-nien-nhay-cau-chau-doc-5042296.html",
+      "summary": "Nam thanh niên 20 tuổi nhảy từ cầu Châu Đốc xuống sông do buồn chuyện gia đình, được cảnh sát cùng người dân tìm thấy, đưa đi cấp cứu kịp thời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T06:21:23+07:00",
+      "fetched": "2026-02-19T13:49:21.755957+07:00"
+    },
+    {
+      "id": "0bfd32c30053c3d8a0b3068889226cb7",
+      "title": "World Cup 2026: Mexico chống UAV, dịch sởi; Mỹ huy động lực lượng di trú siết an ninh",
+      "link": "https://thanhnien.vn/world-cup-2026-mexico-chong-uav-dich-soi-my-huy-dong-luc-luong-di-tru-siet-an-ninh-185260219131542174.htm",
+      "summary": "Trước thềm World Cup 2026, Mexico triển khai hệ thống chống UAV và tăng cường phòng chống dịch sởi, trong khi Mỹ huy động lực lượng thực thi di trú tham gia đảm bảo an ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T06:15:00+07:00",
+      "fetched": "2026-02-19T13:49:24.909113+07:00"
+    },
+    {
+      "id": "019e1208a27b14dc89b213aa5d1d969e",
+      "title": "Mùng 3 tết thầy: Trường mầm non 48 năm tuổi tri ân hiệu trưởng các thời kỳ",
+      "link": "https://thanhnien.vn/mung-3-tet-thay-truong-mam-non-48-nam-tuoi-tri-an-hieu-truong-cac-thoi-ky-185260219082642827.htm",
+      "summary": "Ở phường Chợ Lớn, TP.HCM có một trường mầm non 48 năm tuổi. Đây còn từng là nơi những em bé sơ sinh được nuôi dưỡng từ ngày mới chào đời, trong đại dịch Covid-19.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T06:08:00+07:00",
+      "fetched": "2026-02-19T13:49:24.909340+07:00"
+    },
+    {
+      "id": "0f47ba90c7f7bea7442bc87b06f78f6d",
+      "title": "Cách Musk và OpenAI thu hút nhân tài AI qua chiếc pizza",
+      "link": "https://vnexpress.net/cach-musk-va-openai-thu-hut-nhan-tai-ai-qua-chiec-pizza-5042223.html",
+      "summary": "Elon Musk và một kỹ sư OpenAI thảo luận về chiếc bánh pizza nướng củi, nhưng đằng sau là câu chuyện thu hút nhân tài của hai công ty.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T06:00:00+07:00",
+      "fetched": "2026-02-19T13:49:21.756132+07:00"
+    },
+    {
+      "id": "67ab32289e4034a131fbc75910419f8d",
+      "title": "Không runner nào về đích 2 năm liên tiếp ở giải ultra trail khắc nghiệt nhất hành tinh",
+      "link": "https://vnexpress.net/khong-runner-nao-ve-dich-2-nam-lien-tiep-o-giai-ultra-trail-khac-nghiet-nhat-hanh-tinh-5042051.html",
+      "summary": "Sương mù dày đặc cùng mưa lớn khiến giải Barkley Marathon không có runner hoàn thành giải năm thứ hai liên tiếp, đồng thời ghi nhận số VĐV hoàn thành một vòng thấp nhất trong 40 năm lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T06:00:00+07:00",
+      "fetched": "2026-02-19T13:49:21.756325+07:00"
+    },
+    {
+      "id": "09fdd801190236d4bb6b9441383e0e37",
+      "title": "Bệnh viện Tâm Anh mua 'siêu máy' điều trị ung thư gần 2.000 tỷ đồng",
+      "link": "https://vnexpress.net/benh-vien-tam-anh-mua-sieu-may-dieu-tri-ung-thu-gan-2-000-ty-dong-5042300.html",
+      "summary": "Bệnh viện Tâm Anh ký thỏa thuận với Tập đoàn Mevion mua hệ thống điều trị ung thư gần 2.000 tỷ đồng, giúp Việt Nam thành quốc gia thứ hai ngoài Mỹ tiếp cận máy xạ trị bằng proton phiên bản cao nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T06:00:00+07:00",
+      "fetched": "2026-02-19T13:49:21.756487+07:00"
+    },
+    {
+      "id": "b95f3d648318763ebeb37ee4fe2babce",
+      "title": "Amazon Air mở cơ sở hàng hóa tại sân bay JAX",
+      "link": "https://vnexpress.net/amazon-air-mo-co-so-hang-hoa-tai-san-bay-jax-5040080.html",
+      "summary": "Amazon đã ký hợp đồng thuê với Cơ quan Hàng không Jacksonville (JAA) thuê một cơ sở hàng hóa hàng không tại Sân bay Quốc tế Jacksonville (JAX).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T06:00:00+07:00",
+      "fetched": "2026-02-19T13:49:21.756642+07:00"
+    },
+    {
+      "id": "67ab32289e4034a131fbc75910419f8d",
+      "title": "Không runner nào về đích 2 năm liên tiếp ở giải ultra trail khắc nghiệt nhất hành tinh",
+      "link": "https://vnexpress.net/khong-runner-nao-ve-dich-2-nam-lien-tiep-o-giai-ultra-trail-khac-nghiet-nhat-hanh-tinh-5042051.html",
+      "summary": "Sương mù dày đặc cùng mưa lớn khiến giải Barkley Marathon không có runner hoàn thành giải năm thứ hai liên tiếp, đồng thời ghi nhận số VĐV hoàn thành một vòng thấp nhất trong 40 năm lịch sử.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-19T06:00:00+07:00",
+      "fetched": "2026-02-19T13:49:31.243756+07:00"
+    },
+    {
+      "id": "a44c8bb1dc956a2ffd651d5ecd292b54",
+      "title": "Đình Bắc 3 lần đưa bóng vào lưới đối phương, vẫn 0 bàn thắng vì...",
+      "link": "https://thanhnien.vn/dinh-bac-3-lan-dua-bong-vao-luoi-doi-phuong-van-0-ban-thang-vi-185260219124238756.htm",
+      "summary": "Dù đã làm rung lưới đối thủ 3 lần trong 3 trận gần nhất ở CLB Công an Hà Nội (CLB CAHN), nhưng Đình Bắc vẫn chưa thể có bàn thắng từ khi trở lại ở vòng chung kết U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:51:00+07:00",
+      "fetched": "2026-02-19T13:49:24.909502+07:00"
+    },
+    {
+      "id": "3905f32e951eee1a7481bab8dc30150f",
+      "title": "Việt Nam mua ‘siêu máy nghìn tỉ’ điều trị ung thư của Mỹ ngay dịp tết",
+      "link": "https://thanhnien.vn/viet-nam-mua-sieu-may-nghin-ti-dieu-tri-ung-thu-cua-my-ngay-dip-tet-185260219130526723.htm",
+      "summary": "Chiều 18.2 tại Washington, DC (Mỹ), trước sự chứng kiến của Tổng Bí thư Tô Lâm và đoàn đại biểu cấp cao, Hệ thống BVĐK Tâm Anh và Tập đoàn Công nghệ Thiết bị Y tế hàng đầu của Mỹ Mevion đã ký hợp đồng mua, chuyển giao hệ thống xạ trị Proton MEVION S250-FIT thế hệ mới nhất, trị giá gần hai nghìn tỉ đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:50:00+07:00",
+      "fetched": "2026-02-19T13:49:24.909659+07:00"
+    },
+    {
+      "id": "6b12674f65915e3d25f7948f63dca025",
+      "title": "Trường Giang tiết lộ điều sợ nhất khi làm cha",
+      "link": "https://thanhnien.vn/truong-giang-tiet-lo-dieu-so-nhat-khi-lam-cha-185260219103113254.htm",
+      "summary": "Kể từ khi làm cha của 3 nhóc tì, Trường Giang có nhiều nỗi lo và trăn trở hơn. Anh sợ rằng con cái phải chịu tổn thương mà mình không giúp đỡ được gì.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:48:00+07:00",
+      "fetched": "2026-02-19T13:49:24.909809+07:00"
+    },
+    {
+      "id": "8e2b7eee2940d7ddc027716ba56ac7b0",
+      "title": "Giám đốc Lotte Entertainment Vietnam quỳ gối mong khán ủng hộ 'Mùi phở'",
+      "link": "https://thanhnien.vn/giam-doc-lotte-entertainment-vietnam-quy-goi-mong-khan-ung-ho-mui-pho-185260219123526526.htm",
+      "summary": "Mới đây, mạng xã hội lan truyền đoạn clip ghi lại cảnh ê kíp phim 'Mùi phở' giao lưu tại rạp. Trong đó, khoảnh khắc ông Kim Jin-geun - Tổng giám đốc Lotte Entertainment Vietnam quỳ gối trước khán giả được nhiều người quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:43:00+07:00",
+      "fetched": "2026-02-19T13:49:24.909956+07:00"
+    },
+    {
+      "id": "fcfab22d4453299d3d07b79881293364",
+      "title": "Hit mới 'gây bão' mùa Tết 2026, Trúc Nhân tiết lộ câu hát ‘Tằng tằng tắng tăng’",
+      "link": "https://thanhnien.vn/hit-moi-gay-bao-mua-tet-2026-truc-nhan-tiet-lo-cau-hat-tang-tang-tang-tang-185260219103734909.htm",
+      "summary": "Với giai điệu rộn ràng, ca khúc 'Vạn sự như ý' cùng điệu nhảy ‘Tằng tằng tắng tăng’ của Trúc Nhân đã lan tỏa mạnh dịp đầu năm, tạo nên làn sóng cover sôi động trên mạng xã hội, thu hút cả người lớn lẫn trẻ nhỏ hào hứng 'bắt trend'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:43:00+07:00",
+      "fetched": "2026-02-19T13:49:24.910100+07:00"
+    },
+    {
+      "id": "816373aa2859ac3feee9d0b883bc1a8f",
+      "title": "'Thỏ ơi' của Trấn Thành vượt 100 tỷ đồng",
+      "link": "https://vnexpress.net/tho-oi-cua-tran-thanh-vuot-100-ty-dong-5042271.html",
+      "summary": "Phim 18+ \"Thỏ ơi\" vượt 100 tỷ đồng sau hơn hai ngày chiếu, phá kỷ lục \"Bộ tứ báo thủ\" - đều do Trấn Thành đạo diễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:38:04+07:00",
+      "fetched": "2026-02-19T13:49:21.756813+07:00"
+    },
+    {
+      "id": "3f613e27f35f72809e8899bc4f2252fa",
+      "title": "Thú cưng lên đồ chụp ảnh tết, chủ chi tiền triệu vẫn vui",
+      "link": "https://thanhnien.vn/thu-cung-len-do-chup-anh-tet-chu-chi-tien-trieu-van-vui-185260218142812317.htm",
+      "summary": "Áo dài, cành mai đào, phong bao lì xì… không chỉ dành cho người mà còn xuất hiện trong các bộ ảnh tết của chó, mèo. Dịp này, nhiều chủ nuôi tại TP.HCM sẵn sàng bỏ ra tiền triệu để lưu giữ những khoảnh khắc sum vầy cùng thú cưng, xem đó như một phần không thể thiếu của tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:12:00+07:00",
+      "fetched": "2026-02-19T13:49:24.910265+07:00"
+    },
+    {
+      "id": "9f65a816d58cc01a01ce0a76efee815f",
+      "title": "Thu hồi sữa rửa mặt chứa thành phần không công bố",
+      "link": "https://vnexpress.net/thu-hoi-sua-rua-mat-chua-thanh-phan-khong-cong-bo-5042281.html",
+      "summary": "Cục Quản lý Dược thu hồi lô sữa rửa mặt Rice Milk Facial Cleanser do thành phần công thức không đúng như hồ sơ đã công bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:11:56+07:00",
+      "fetched": "2026-02-19T13:49:21.756912+07:00"
+    },
+    {
+      "id": "6d2768870e11f39852c2ea01c50af98f",
+      "title": "Yến Nhi: 'Thành công là sửa nhà cho cha mẹ sau lũ'",
+      "link": "https://vnexpress.net/yen-nhi-thanh-cong-la-sua-nha-cho-cha-me-sau-lu-5042256.html",
+      "summary": "Hoa hậu Yến Nhi cho biết tự hào về bản thân khi tiền tiết kiệm năm qua sửa nhà cho cha mẹ sau trận lũ năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:09:47+07:00",
+      "fetched": "2026-02-19T13:49:21.757064+07:00"
+    },
+    {
+      "id": "c1d2581f3152b31c41487a9e6bc4f6c5",
+      "title": "Quán cà phê tạo 'rừng' hoa tươi cho khách check in ở Hà Nội",
+      "link": "https://vnexpress.net/quan-ca-phe-tao-rung-hoa-tuoi-cho-khach-check-in-o-ha-noi-5040279.html",
+      "summary": "Quán cà phê được trang trí hàng loạt hoa tươi và cây xanh mỗi ngày ở Châu Long, hấp dẫn giới trẻ tìm đến chụp ảnh từ sáng đến tối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:07:44+07:00",
+      "fetched": "2026-02-19T13:49:21.757238+07:00"
+    },
+    {
+      "id": "47207d3e25a683628023759249c7c08b",
+      "title": "Mùng 3 tết cúng hóa vàng: Chợ truyền thống đông nghịt, nhiều thực phẩm tăng giá",
+      "link": "https://thanhnien.vn/mung-3-tet-cung-hoa-vang-cho-truyen-thong-dong-nghit-nhieu-thuc-pham-tang-gia-185260219112703828.htm",
+      "summary": "Sáng 19.2 (mùng 3 tết), nhiều chợ truyền thống ở TP.HCM đông kín người mua đồ cúng hóa vàng. Ghi nhận cho thấy gà, heo quay và rau xanh đồng loạt tăng giá so với trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:06:00+07:00",
+      "fetched": "2026-02-19T13:49:24.910413+07:00"
+    },
+    {
+      "id": "acc126e4afb41e433b9182357df4f888",
+      "title": "Tôi ăn Tết nhưng quyết không để Tết 'ăn' mình",
+      "link": "https://vnexpress.net/toi-an-tet-nhung-quyet-khong-de-tet-an-minh-5042284.html",
+      "summary": "Mấy năm trước tôi ăn uống thả ga nên tăng vài cân mùa Tết, áo quần chật ních.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:00:00+07:00",
+      "fetched": "2026-02-19T13:49:21.757399+07:00"
+    },
+    {
+      "id": "94de28bcf4e0cfe238e68cac96630e74",
+      "title": "Chồng có bạn gái vì tôi bệnh nặng, không đáp ứng được nhu cầu của anh",
+      "link": "https://vnexpress.net/chong-co-ban-gai-vi-toi-benh-nang-khong-dap-ung-duoc-nhu-cau-cua-anh-5042242.html",
+      "summary": "Tôi không ly dị chỉ vì nghĩ về hai con, trong đó con gái còn nhỏ cần tôi chăm sóc về mọi mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:00:00+07:00",
+      "fetched": "2026-02-19T13:49:21.757555+07:00"
+    },
+    {
+      "id": "cad1008cb54b014b460c6e84e46e45ae",
+      "title": "Mong anh điềm đạm, có chính kiến và không gia trưởng",
+      "link": "https://vnexpress.net/mong-anh-diem-dam-co-chinh-kien-va-khong-gia-truong-5042183.html",
+      "summary": "Mong anh có khiếu hài hước thì mình dễ bắt chuyện, anh chân thành và nghiêm túc, không vướng bận nhiều mối quan hệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:00:00+07:00",
+      "fetched": "2026-02-19T13:49:21.757648+07:00"
+    },
+    {
+      "id": "a5ac84ca1daa633ab494ad7bbc9d8e46",
+      "title": "Lương khởi điểm tối đa của 15 ngành nghề",
+      "link": "https://vnexpress.net/luong-khoi-diem-toi-da-cua-15-nganh-nghe-5041327.html",
+      "summary": "Sinh viên mới ra trường ở ngành bất động sản, logistics, công nghệ... có thể nhận lương từ 10 triệu đồng mỗi tháng, thậm chí vài chục triệu ở một số vị trí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:00:00+07:00",
+      "fetched": "2026-02-19T13:49:21.757804+07:00"
+    },
+    {
+      "id": "cf5cb04b2be34e4c0f10ac7af3fca951",
+      "title": "5 bảo vật quốc gia chôn trong mộ táng hơn 2.000 năm",
+      "link": "https://vnexpress.net/5-bao-vat-quoc-gia-chon-trong-mo-tang-hon-2-000-nam-5040784.html",
+      "summary": "Trong các đợt khai quật di chỉ khảo cổ Làng Vạc ở phường Thái Hòa, chuyên gia phát hiện 5 chiếc trống đồng chôn trong nhiều ngôi mộ táng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:00:00+07:00",
+      "fetched": "2026-02-19T13:49:21.757952+07:00"
+    },
+    {
+      "id": "8e8bd9526d3d4d8573bf1d1dd5730716",
+      "title": "Bạn có phải là bậc thầy sắp đặt que diêm?",
+      "link": "https://vnexpress.net/cau-do-que-diem-di-chuyen-que-diem-ban-co-phai-la-bac-thay-sap-dat-que-diem-5040523.html",
+      "summary": "Đừng vội nhăn trán nhé, vì bạn chính là \"vị cứu tinh\" duy nhất có thể xoay chuyển tình thế chỉ với duy nhất 1 que diêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:00:00+07:00",
+      "fetched": "2026-02-19T13:49:21.758103+07:00"
+    },
+    {
+      "id": "762d7b2b12840dbaf9f4bacbb57bfeff",
+      "title": "Áo dài trắng thăng hoa trong mùa tết",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-dai-trang-thang-hoa-trong-mua-tet-185260216173947075.htm",
+      "summary": "Tết này, áo dài trắng ghi dấu ấn với vẻ đẹp tinh giản nhưng đầy cuốn hút. Sắc trắng thuần khiết cùng phom dáng hiện đại giúp nàng tỏa sáng nhẹ nhàng, thanh thoát mà vẫn nổi bật giữa không khí xuân rộn ràng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T05:00:00+07:00",
+      "fetched": "2026-02-19T13:49:24.910557+07:00"
+    },
+    {
+      "id": "a6fa23dd9f47c761414a70d14b077161",
+      "title": "Khoảnh khắc lộ áo ngực gây bão tại Olympic mùa Đông",
+      "link": "https://vnexpress.net/khoanh-khac-lo-ao-nguc-gay-bao-tai-olympic-mua-dong-5042140.html",
+      "summary": "Nữ VĐV trượt băng tốc độ Hà Lan Jutta Leerdam có thể nhận hơn 1 triệu USD từ Nike sau hình ảnh kéo khóa áo thi đấu, để lộ áo ngực thể thao tại Olympic mùa Đông 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-19T05:00:00+07:00",
+      "fetched": "2026-02-19T13:49:31.243914+07:00"
+    },
+    {
+      "id": "69de58ca6ab8660627064a00bf39bbbe",
+      "title": "Tổng Bí thư Tô Lâm điện đàm với các nghị sĩ Mỹ",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-dien-dam-voi-cac-nghi-si-my-5042282.html",
+      "summary": "Tổng Bí thư Tô Lâm điện đàm với thượng nghị sĩ Steve Daines và Bill Hagerty trong chuyến dự họp khai mạc Hội đồng Hòa bình về Gaza ở Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-19T04:52:10+07:00",
+      "fetched": "2026-02-19T13:49:27.158458+07:00"
+    },
+    {
+      "id": "e18bfb716076056b947e24a66b1fd67a",
+      "title": "Mỹ điều động 25% lực lượng 'máy bay mắt thần' đến Trung Đông",
+      "link": "https://vnexpress.net/my-dieu-dong-25-luc-luong-may-bay-mat-than-den-trung-dong-5042243.html",
+      "summary": "Dữ liệu hàng không dân dụng cho thấy ít nhất 4 máy bay cảnh báo sớm E-3, tương đương 25% tổng lực lượng của Mỹ, đang bay tới Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-19T04:42:43+07:00",
+      "fetched": "2026-02-19T13:49:27.158632+07:00"
+    },
+    {
+      "id": "348f2056d179dccc9b60b152e6266777",
+      "title": "Leo Artur dính thẻ đỏ trận CLB CAHN thua Tampines, bị treo giò ở V-League không?",
+      "link": "https://thanhnien.vn/leo-artur-dinh-the-do-tran-clb-cahn-thua-tampines-bi-treo-gio-o-v-league-khong-185260219113202912.htm",
+      "summary": "Tấm thẻ đỏ của Leo Artur tại AFC Champions League Two khiến nhiều người đặt câu hỏi: Liệu cầu thủ này có bị treo giò ở V-League hay không, khi CLB CAHN bị loại ngay sau trận đấu tối 18.2?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T04:37:00+07:00",
+      "fetched": "2026-02-19T13:49:24.910708+07:00"
+    },
+    {
+      "id": "aee0902369cde79fb622924b4d418e73",
+      "title": "Gan quá tải vì tiệc tết: Những thực phẩm nên bổ sung ngay",
+      "link": "https://thanhnien.vn/gan-qua-tai-vi-tiec-tet-nhung-thuc-pham-nen-bo-sung-ngay-185260219113114914.htm",
+      "summary": "Việc thanh lọc cơ thể sau khi trải qua những buổi tiệc dịp lễ tết có thể trở nên dễ dàng hơn khi bổ sung các loại thực phẩm tốt cho gan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T04:31:00+07:00",
+      "fetched": "2026-02-19T13:49:24.910860+07:00"
+    },
+    {
+      "id": "409906f8c94180a47fcd9c875359bca4",
+      "title": "Phát hiện thiên hà 'ma' gần như vô hình",
+      "link": "https://thanhnien.vn/phat-hien-thien-ha-ma-gan-nhu-vo-hinh-185260219105042523.htm",
+      "summary": "Khắp vũ trụ, đa số các thiên hà tỏa sáng rực rỡ xuyên suốt không gian và thời gian, nhưng vẫn có một nhóm thiên hà gần như vô hình, còn gọi là các thiên hà 'ma'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T04:17:00+07:00",
+      "fetched": "2026-02-19T13:49:24.911010+07:00"
+    },
+    {
+      "id": "958922f16041ea67850efe0e2705ab96",
+      "title": "Báo động phần lớn châu Âu không còn thoát bệnh truyền nhiễm gây đau đớn dữ dội",
+      "link": "https://thanhnien.vn/bao-dong-phan-lon-chau-au-khong-con-thoat-benh-truyen-nhiem-gay-dau-don-du-doi-185260219101342727.htm",
+      "summary": "Dữ liệu gây sốc cho thấy cuộc khủng hoảng khí hậu và sự xâm lấn của muỗi ngoại lai đang tạo điều kiện cho virus gây bệnh chikungunya thông qua muỗi đốt lan rộng tại 29 quốc gia châu Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T04:16:00+07:00",
+      "fetched": "2026-02-19T13:49:24.911161+07:00"
     },
     {
       "id": "6cd56b8562d4c3f17ee51526f2d73470",
@@ -571,6 +1061,16 @@ window.newsData_2026_02_19 = {
       "category": "Công nghệ",
       "published": "2026-02-19T03:00:00+07:00",
       "fetched": "2026-02-19T11:10:40.093383+07:00"
+    },
+    {
+      "id": "42992aab29e2b07a4571912af8870324",
+      "title": "Cách Trung Quốc huấn luyện robot hình người",
+      "link": "https://vnexpress.net/cach-trung-quoc-huan-luyen-robot-hinh-nguoi-5042204.html",
+      "summary": "Để robot hình người thực hiện hành vi như xếp đồ, lắp ráp, người huấn luyện có thể phải thực hiện mỗi động tác tới 300 lần để robot học theo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-19T03:00:00+07:00",
+      "fetched": "2026-02-19T13:49:30.124626+07:00"
     },
     {
       "id": "f84ca6a63e236195f389586f58e44794",
