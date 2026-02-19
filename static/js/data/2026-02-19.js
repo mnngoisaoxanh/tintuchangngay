@@ -1,7 +1,157 @@
 window.newsData_2026_02_19 = {
   "date": "2026-02-19",
-  "lastUpdated": "2026-02-19T13:49:31.251085+07:00",
+  "lastUpdated": "2026-02-19T15:32:58.549972+07:00",
   "articles": [
+    {
+      "id": "859fa54fbc7a93ca6179a77a97d0d1ac",
+      "title": "Bắt thanh niên giật nữ trang khiến một phụ nữ tử vong",
+      "link": "https://tuoitre.vn/bat-thanh-nien-giat-nu-trang-khien-mot-phu-nu-tu-vong-20260219124347044.htm",
+      "summary": "Sau khi giật tài sản khiến người phụ nữ ngã vào làn xe tải tử vong ở phường Vị Thanh, nghi phạm bị công an bắt giữ chỉ sau vài giờ gây án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.330717+07:00",
+      "fetched": "2026-02-19T15:32:51.330835+07:00"
+    },
+    {
+      "id": "d67b5fb570f70553c04758425ffa6804",
+      "title": "'Thỏ ơi!!' thu 100 tỉ sau 2 ngày rưỡi, ngang 'Bộ tứ báo thủ'",
+      "link": "https://tuoitre.vn/tho-oi-thu-100-ti-sau-2-ngay-ruoi-ngang-bo-tu-bao-thu-20260219111747351.htm",
+      "summary": "Các phim Tết khác có doanh thu như sau: 'Nhà ba tôi một phòng' đứng thứ hai với 32,5 tỉ đồng; 'Báu vật trời cho' đứng thứ ba với 16,6 tỉ đồng; 'Mùi phở' đứng thứ tư với 13 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.330583+07:00",
+      "fetched": "2026-02-19T15:32:51.330700+07:00"
+    },
+    {
+      "id": "d1d9a229c6d11db5d18557daf238a1a9",
+      "title": "CEO Lotte Entertainment Việt Nam lạy khán giả, xin cho 'Mùi phở' một cơ hội",
+      "link": "https://tuoitre.vn/ceo-lotte-entertainment-viet-nam-lay-khan-gia-xin-cho-mui-pho-mot-co-hoi-20260219120400611.htm",
+      "summary": "Sự việc bất ngờ xảy ra giữa buổi cinetour của phim 'Mùi phở' ở Hà Nội, khi CEO Lotte Entertainment Việt Nam bất ngờ lạy khán giả và xin cho phim một cơ hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.330457+07:00",
+      "fetched": "2026-02-19T15:32:51.330572+07:00"
+    },
+    {
+      "id": "5475ac3122404df34c8c55ed36bb5118",
+      "title": "Xe tải bốc cháy dữ dội trên đèo Khánh Lê nối Nha Trang - Đà Lạt, giao thông ùn ứ",
+      "link": "https://tuoitre.vn/xe-tai-boc-chay-du-doi-tren-deo-khanh-le-noi-nha-trang-da-lat-giao-thong-un-u-20260219133651071.htm",
+      "summary": "Một xe tải bất ngờ bốc cháy trên đèo Khánh Lê (đoạn qua địa phận tỉnh Khánh Hòa) khiến giao thông ùn ứ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.330323+07:00",
+      "fetched": "2026-02-19T15:32:51.330445+07:00"
+    },
+    {
+      "id": "aaa481b34c1ab955e5d240cc30d5c6ce",
+      "title": "Tài khoản Facebook 'xới' lại tai nạn cũ như tin mới, công an cảnh báo",
+      "link": "https://tuoitre.vn/tai-khoan-facebook-xoi-lai-tai-nan-cu-nhu-tin-moi-cong-an-canh-bao-20260219131231181.htm",
+      "summary": "Tài khoản H’My đăng lại vụ tai nạn năm 2023 như tin mới, không nêu thời gian, địa điểm, gây hiểu nhầm, Công an Hà Nội ra khuyến cáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.330187+07:00",
+      "fetched": "2026-02-19T15:32:51.330311+07:00"
+    },
+    {
+      "id": "32dae87c28e1d5592518f2654567a04f",
+      "title": "Cầu thủ Thái Lan chạy trốn thục mạng trên sân Indonesia",
+      "link": "https://tuoitre.vn/cau-thu-thai-lan-chay-tron-thuc-mang-tren-san-indonesia-20260219132900801.htm",
+      "summary": "Cầu thủ CLB Ratchaburi của Thái Lan bỏ chạy vào đường hầm khi cổ động viên của chủ nhà Persib Bandung (Indonesia) tràn xuống sân tại lượt về AFC Champions League Two tối 18-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.330022+07:00",
+      "fetched": "2026-02-19T15:32:51.330173+07:00"
+    },
+    {
+      "id": "31a999398d1ef3c7b995156555f559a3",
+      "title": "Tết tất bật mới vui, hay thảnh thơi lại… nhạt?",
+      "link": "https://tuoitre.vn/tet-tat-bat-moi-vui-hay-thanh-thoi-lai-nhat-20260219131849089.htm",
+      "summary": "'Cả năm đã vất vả rồi mà Tết còn phải chạy đôn chạy đáo, cúng bái, nấu cơm, rửa bát, dọn dẹp… khổ lắm. Tết là để chill và nạp năng lượng chứ?'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.329891+07:00",
+      "fetched": "2026-02-19T15:32:51.330011+07:00"
+    },
+    {
+      "id": "ee86b3b99564c405e74208b9951e820b",
+      "title": "Biển đảo Nha Trang sôi động đầu xuân, tour đoàn rộ từ sau mùng 6",
+      "link": "https://tuoitre.vn/bien-dao-nha-trang-soi-dong-dau-xuan-tour-doan-ro-tu-sau-mong-6-20260219131603985.htm",
+      "summary": "Những ngày đầu xuân, du khách về Nha Trang nghỉ ngơi, du xuân, trong đó các tuyến tham quan biển đảo ghi nhận tín hiệu tích cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.329747+07:00",
+      "fetched": "2026-02-19T15:32:51.329879+07:00"
+    },
+    {
+      "id": "451f4f8954fb60cf52411b2084fc0f82",
+      "title": "London điều tra cáo buộc Epstein buôn bán phụ nữ qua các sân bay Anh",
+      "link": "https://tuoitre.vn/london-dieu-tra-cao-buoc-epstein-buon-ban-phu-nu-qua-cac-san-bay-anh-2026021913155404.htm",
+      "summary": "Động thái của London diễn ra sau khi cựu Thủ tướng Gordon Brown nói rằng hồ sơ cho thấy tỉ phú Mỹ Jeffrey Epstein 'đưa các cô gái đến' sân bay của Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.329612+07:00",
+      "fetched": "2026-02-19T15:32:51.329735+07:00"
+    },
+    {
+      "id": "fc5f0de864b1e61b9f83ba5df915bd78",
+      "title": "Bánh chưng cân bằng âm - dương, vì sao vẫn dễ thành 'gánh nặng' ngày Tết?",
+      "link": "https://tuoitre.vn/banh-chung-can-bang-am-duong-vi-sao-van-de-thanh-ganh-nang-ngay-tet-20260219103712808.htm",
+      "summary": "Theo Đông y, bánh chưng hài hòa ấm - mát nhưng giàu năng lượng, khó tiêu; người tiểu đường, tim mạch, tiêu hóa kém cần thận trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.329479+07:00",
+      "fetched": "2026-02-19T15:32:51.329600+07:00"
+    },
+    {
+      "id": "59ae26113476de18b18211709142e981",
+      "title": "Pickleball Việt Nam không nghỉ Tết",
+      "link": "https://tuoitre.vn/pickleball-viet-nam-khong-nghi-tet-20260219121846485.htm",
+      "summary": "Dân chơi môn pickleball tha hồ lựa chọn sân bãi khi chủ sân mở cửa xuyên Tết Bính Ngọ 2026 để phục vụ các 'thượng đế' của môn thời thượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.329348+07:00",
+      "fetched": "2026-02-19T15:32:51.329467+07:00"
+    },
+    {
+      "id": "f68d9429b024c7cd2cef17ec895af7ae",
+      "title": "MINI Countryman bản đặc biệt dành cho năm Bính Ngọ:  chỉ có 18 chiếc, giá quy đổi 1,73 tỉ đồng",
+      "link": "https://tuoitre.vn/mini-countryman-ban-dac-biet-danh-cho-nam-binh-ngo-chi-co-18-chiec-gia-quy-doi-1-73-ti-dong-20260219100519165.htm",
+      "summary": "18 chiếc MINI Countryman bản đặc biệt cho năm Bính Ngọ dành cho khách hàng Malaysia được phát triển từ mẫu Countryman S All4 tiêu chuẩn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.329210+07:00",
+      "fetched": "2026-02-19T15:32:51.329336+07:00"
+    },
+    {
+      "id": "3a6328da396a39214cab945b2ba913ab",
+      "title": "5 ngày Tết, hơn 18.000 ca cấp cứu tai nạn giao thông",
+      "link": "https://tuoitre.vn/5-ngay-tet-hon-18-000-ca-cap-cuu-tai-nan-giao-thong-20260219141555722.htm",
+      "summary": "Tính chung 5 ngày nghỉ Tết (từ 14 đến 19-2), cả nước ghi nhận 18.255 trường hợp khám, cấp cứu và 123 ca tử vong nghi liên quan tai nạn giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.329043+07:00",
+      "fetched": "2026-02-19T15:32:51.329195+07:00"
+    },
+    {
+      "id": "eaf1c102fea3ef5f47aaea2f64f70657",
+      "title": "Nguyễn Duyên Quỳnh kể chuyện hát 'Viết tiếp câu chuyện hòa bình' ở châu Âu",
+      "link": "https://tuoitre.vn/nguyen-duyen-quynh-ke-chuyen-hat-viet-tiep-cau-chuyen-hoa-binh-o-chau-au-20260219135939855.htm",
+      "summary": "Nguyễn Duyên Quỳnh kết thúc chuyến lưu diễn cho kiều bào kéo dài hai tuần ở châu Âu hôm 16-2, tức 29 Tết, vừa kịp đón giao thừa cùng gia đình ở quê nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.328884+07:00",
+      "fetched": "2026-02-19T15:32:51.329030+07:00"
+    },
+    {
+      "id": "6c5087533b712d939d22dbd2e84597b7",
+      "title": "Ai là Nghệ sĩ toàn cầu của năm 2025?",
+      "link": "https://tuoitre.vn/ai-la-nghe-si-toan-cau-cua-nam-2025-20260219144349126.htm",
+      "summary": "Taylor Swift tiếp tục khẳng định vị thế 'nữ hoàng nhạc pop' khi đứng đầu bảng xếp hạng Nghệ sĩ toàn cầu 2025 của IFPI năm thứ 4 liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:32:51.328626+07:00",
+      "fetched": "2026-02-19T15:32:51.328867+07:00"
+    },
     {
       "id": "6f2d17830dbcd61955805948e116a523",
       "title": "Tài xế đậu xe 'khóa đầu, khóa đuôi' ngõ nhỏ, thách 'ai cẩu được cứ cẩu, phạt 100 triệu không sao'",
@@ -303,6 +453,86 @@ window.newsData_2026_02_19 = {
       "fetched": "2026-02-19T11:10:34.032389+07:00"
     },
     {
+      "id": "177bf1b57ef87d7a99ae11211789782a",
+      "title": "Đồng Tháp: Hơn 300 trường hợp vi phạm nồng độ cồn trong 5 ngày đầu nghỉ tết",
+      "link": "https://thanhnien.vn/dong-thap-hon-300-truong-hop-vi-pham-nong-do-con-trong-5-ngay-dau-nghi-tet-185260219101358133.htm",
+      "summary": "Trong 5 ngày đầu nghỉ Tết Nguyên đán Bính Ngọ 2026, Công an tỉnh Đồng Tháp đã xử lý hơn 300 trường hợp vi phạm nồng độ cồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:31:00+07:00",
+      "fetched": "2026-02-19T15:32:50.316589+07:00"
+    },
+    {
+      "id": "0eb0953e2d44643ea4da8c9717a81ccb",
+      "title": "Bệnh tiểu đường: Ăn tết cách nào để kiểm soát đường huyết?",
+      "link": "https://thanhnien.vn/benh-tieu-duong-an-tet-cach-nao-de-kiem-soat-duong-huyet-185260219153004175.htm",
+      "summary": "Tết là khoảng thời gian của tiệc tùng và ăn uống thoải mái. Với người bệnh tiểu đường, lựa chọn ăn gì để kiểm soát đường huyết trong thời điểm này là điều không dễ dàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:30:00+07:00",
+      "fetched": "2026-02-19T15:32:50.316763+07:00"
+    },
+    {
+      "id": "835f2e1e4985d575e687ec5ca6e3ff6d",
+      "title": "Cần Thơ: Bắt nghi phạm cướp giật tài sản làm một phụ nữ tử vong",
+      "link": "https://thanhnien.vn/can-tho-bat-nghi-pham-cuop-giat-tai-san-lam-mot-phu-nu-tu-vong-185260219075717909.htm",
+      "summary": "Cướp giật tài sản của một phụ nữ đang chạy xe máy khiến nạn nhân ngã xuống đường tử vong, nghi phạm Bùi Vĩnh An đã bị Công an thành phố Cần Thơ bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:27:00+07:00",
+      "fetched": "2026-02-19T15:32:50.316934+07:00"
+    },
+    {
+      "id": "80c7da07c8bad612929a2ba0861c717e",
+      "title": "Tàu du lịch ở Phú Quốc bốc cháy, trôi dạt gây cháy lan bè cá",
+      "link": "https://thanhnien.vn/tau-du-lich-o-phu-quoc-boc-chay-troi-dat-gay-chay-lan-be-ca-18526021912363802.htm",
+      "summary": "Cơ quan chức năng đang điều tra làm rõ nguyên nhân vụ cháy tàu du lịch và lan sang bè cá ở vùng biển An Thới, thuộc đặc khu Phú Quốc (An Giang).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:24:00+07:00",
+      "fetched": "2026-02-19T15:32:50.317116+07:00"
+    },
+    {
+      "id": "3c290879d44dc770986962040226e47e",
+      "title": "Chìm thuyền trên sông Gianh ngày mùng 3 tết: 2 người chết, 2 người mất tích",
+      "link": "https://thanhnien.vn/chim-thuyen-tren-song-gianh-ngay-mung-3-tet-2-nguoi-chet-2-nguoi-mat-tich-185260219131935317.htm",
+      "summary": "Một vụ chìm thuyền trên sông Gianh (Quảng Trị) xảy ra vào trưa mùng 3 Tết Bính Ngọ, làm nhiều người rơi xuống sông, trong đó có 2 người chết và 2 người mất tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:20:00+07:00",
+      "fetched": "2026-02-19T15:32:50.317282+07:00"
+    },
+    {
+      "id": "f52ea517085e1b10268b413bee92cf1c",
+      "title": "Huyền thoại UFC Ronda Rousey tái xuất sau 10 năm",
+      "link": "https://vnexpress.net/huyen-thoai-ufc-ronda-rousey-tai-xuat-sau-10-nam-5042259.html",
+      "summary": "Sau một thập kỷ giải nghệ, Ronda Rousey sẽ trở lại võ đài MMA để đối đầu Gina Carano tại California vào ngày 16/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:17:47+07:00",
+      "fetched": "2026-02-19T15:32:46.969738+07:00"
+    },
+    {
+      "id": "f52ea517085e1b10268b413bee92cf1c",
+      "title": "Huyền thoại UFC Ronda Rousey tái xuất sau 10 năm",
+      "link": "https://vnexpress.net/huyen-thoai-ufc-ronda-rousey-tai-xuat-sau-10-nam-5042259.html",
+      "summary": "Sau một thập kỷ giải nghệ, Ronda Rousey sẽ trở lại võ đài MMA để đối đầu Gina Carano tại California vào ngày 16/5.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-19T08:17:47+07:00",
+      "fetched": "2026-02-19T15:32:58.541189+07:00"
+    },
+    {
+      "id": "dbd238923705bdee63810698d16326fc",
+      "title": "Cảnh báo từ mai Nam bộ nắng nóng đến 36 độ C",
+      "link": "https://thanhnien.vn/canh-bao-tu-mai-nam-bo-nang-nong-den-36-do-c-185260219151315229.htm",
+      "summary": "Không khí lạnh suy yếu, từ mai 20.2, Nam bộ xuất hiện nắng nóng, đặc biệt TP.HCM có nơi nắng nóng đến 36 độ C. Bên cạnh đó, tại TP.HCM, triều cường có thể đạt và vượt mức báo động 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:17:00+07:00",
+      "fetched": "2026-02-19T15:32:50.317443+07:00"
+    },
+    {
       "id": "3bcaa0d60d62797abf18b28afc8da856",
       "title": "Ăn Tết xong, nên đi bộ thay vì chạy",
       "link": "https://tuoitre.vn/an-tet-xong-nen-di-bo-thay-vi-chay-20260215133132561.htm",
@@ -373,6 +603,256 @@ window.newsData_2026_02_19 = {
       "fetched": "2026-02-19T08:16:56.796298+07:00"
     },
     {
+      "id": "aad9a549aa1dc00f47340b9f15975815",
+      "title": "Ngân hàng nào có lãi suất tiết kiệm online cao trong dịp tết?",
+      "link": "https://thanhnien.vn/ngan-hang-nao-co-lai-suat-tiet-kiem-online-cao-trong-dip-tet-18526021914055325.htm",
+      "summary": "Một số ngân hàng áp dụng lãi suất tiết kiệm trong dịp Tết Nguyên đán ưu đãi hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:16:00+07:00",
+      "fetched": "2026-02-19T15:32:50.317602+07:00"
+    },
+    {
+      "id": "7639f5ba6c50ac0be2c6bc3492ad5ffc",
+      "title": "VĐV nhắm mắt vì sợ khi thi đấu ở Olympic mùa Đông",
+      "link": "https://vnexpress.net/vdv-nham-mat-vi-so-khi-thi-dau-o-olympic-mua-dong-5042287.html",
+      "summary": "Từng giải nghệ môn chạy ngắn vì chấn thương, VĐV Ashleigh Nelson giờ tranh huy chương xe trượt lòng máng (bobsleigh) với đôi mắt nhắm chặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:15:13+07:00",
+      "fetched": "2026-02-19T15:32:46.969924+07:00"
+    },
+    {
+      "id": "7639f5ba6c50ac0be2c6bc3492ad5ffc",
+      "title": "VĐV nhắm mắt vì sợ khi thi đấu ở Olympic mùa Đông",
+      "link": "https://vnexpress.net/vdv-nham-mat-vi-so-khi-thi-dau-o-olympic-mua-dong-5042287.html",
+      "summary": "Từng giải nghệ môn chạy ngắn vì chấn thương, VĐV Ashleigh Nelson giờ tranh huy chương xe trượt lòng máng (bobsleigh) với đôi mắt nhắm chặt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-19T08:15:13+07:00",
+      "fetched": "2026-02-19T15:32:58.540817+07:00"
+    },
+    {
+      "id": "aab2e8258f7e8e2ca40c0c828344e439",
+      "title": "Học lớp 11, em vay tiền bạn, cắm điện thoại chơi cờ bạc",
+      "link": "https://vnexpress.net/hoc-lop-11-em-vay-tien-ban-cam-dien-thoai-choi-co-bac-5042241.html",
+      "summary": "Bố em làm bảo vệ, không giàu có nhưng đã trả cho em hết số nợ bạn bè, còn điện thoại thì bố không đủ khả năng chuộc lại nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:00:00+07:00",
+      "fetched": "2026-02-19T15:32:46.970121+07:00"
+    },
+    {
+      "id": "2c0a45a81b4b47a22bf32ecd07e1db30",
+      "title": "Vết tích cổng thành hơn 150 năm gần cầu Ba Son",
+      "link": "https://vnexpress.net/vet-tich-cong-thanh-hon-150-nam-gan-cau-ba-son-5041661.html",
+      "summary": "Hai khối nhà vàng nằm ở giao lộ Đinh Tiên Hoàng – Lê Duẩn (quận 1 cũ), nguyên là cổng thành do Pháp xây năm 1873 - chứng tích hơn một thế kỷ rưỡi biến động của Sài Gòn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:00:00+07:00",
+      "fetched": "2026-02-19T15:32:46.970289+07:00"
+    },
+    {
+      "id": "e16ab4c04b1f6481ded17a903d0af717",
+      "title": "'Ổ' vi khuẩn trong phòng kín hại sức khỏe",
+      "link": "https://vnexpress.net/o-vi-khuan-trong-phong-kin-hai-suc-khoe-5008745.html",
+      "summary": "Ngồi lâu trong văn phòng đóng kín, không khí tù đọng, độ ẩm cao, virus dễ tích tụ, kết hợp thời tiết giá rét làm tăng nguy cơ sốc nhiệt khi đi ra ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:00:00+07:00",
+      "fetched": "2026-02-19T15:32:46.970449+07:00"
+    },
+    {
+      "id": "2ab3ce47a92bfd38631a52d605356c93",
+      "title": "Xin vía đầu năm! Da đẹp ‘phát sáng’ với top 3 kem chống nắng nâng tone",
+      "link": "https://thanhnien.vn/xin-via-dau-nam-da-dep-phat-sang-voi-top-3-kem-chong-nang-nang-tone-185260219151703792.htm",
+      "summary": "Đầu năm là thời điểm phù hợp để 'xin vía' làn da rạng rỡ suốt 365 ngày. Một lớp kem chống nắng nâng tone tốt không chỉ bảo vệ da trước tia UV mà còn giúp gương mặt sáng mịn, tự tin xuống phố hay gặp gỡ đầu xuân. Nếu bạn đang tìm kiếm 'chân ái' vừa chống nắng mạnh mẽ vừa nâng tone tự nhiên, top 3 dướ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:00:00+07:00",
+      "fetched": "2026-02-19T15:32:50.317789+07:00"
+    },
+    {
+      "id": "171dc3b14a3ad86574602f913b23eb2b",
+      "title": "Vì sao nhiều người thấy tết ngày càng áp lực?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-nguoi-thay-tet-ngay-cang-ap-luc-18526021113165375.htm",
+      "summary": "Tết đến, nhiều người thừa nhận cảm thấy áp lực, mệt mỏi vì quà cáp, chi tiêu và các mối quan hệ xã giao…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:00:00+07:00",
+      "fetched": "2026-02-19T15:32:50.317948+07:00"
+    },
+    {
+      "id": "829cbf6976a83f25dc87ba799fade98a",
+      "title": "Bị hai ôtô khác 'khóa đầu, khóa đuôi' khi đi chơi Tết, xử lý thế nào cho đúng luật?",
+      "link": "https://vnexpress.net/bi-hai-oto-khac-khoa-dau-khoa-duoi-khi-di-choi-tet-xu-ly-the-nao-cho-dung-luat-5042294.html",
+      "summary": "Trong nhiều tình huống, tài xế phản ánh bị ôtô khác cố tình “khóa đầu, khóa đuôi” khiến không thể di chuyển, từ đây đặt ra câu hỏi về cách xử lý đúng để bảo vệ quyền lợi của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T07:53:54+07:00",
+      "fetched": "2026-02-19T15:32:46.970610+07:00"
+    },
+    {
+      "id": "b4212cdd04e428595e831fbd0dadc3eb",
+      "title": "Thời điểm 'dễ thở' cho người muốn nâng cấp smartphone",
+      "link": "https://thanhnien.vn/thoi-diem-de-tho-cho-nguoi-muon-nang-cap-smartphone-185260216155754554.htm",
+      "summary": "Sau Tết Nguyên đán thường là giai đoạn thị trường smartphone hạ nhiệt sau cao điểm mua sắm cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T07:49:00+07:00",
+      "fetched": "2026-02-19T15:32:50.318134+07:00"
+    },
+    {
+      "id": "b43961c8860190db4af9c6e422dc2f93",
+      "title": "Cựu tổng thống Hàn Quốc Yoon Suk Yeol thoát án tử nhưng lãnh án tù chung thân",
+      "link": "https://thanhnien.vn/cuu-tong-thong-han-quoc-yoon-suk-yeol-thoat-an-tu-nhung-lanh-an-tu-chung-than-185260219142613382.htm",
+      "summary": "Hôm nay (19.2), cựu Tổng thống Hàn Quốc Yoon Suk Yeol đã bị tuyên án tù chung thân vì đã ban bố thiết quân luật ngày 3.12.2024, đánh dấu đỉnh điểm của cuộc khủng hoảng chính trị nghiêm trọng nhất tại nước này trong nhiều thập niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T07:48:00+07:00",
+      "fetched": "2026-02-19T15:32:50.318299+07:00"
+    },
+    {
+      "id": "6d4c79016e54b2ccc120c817600dce73",
+      "title": "Tòa nhà Ngân hàng Nhà nước ở TP.HCM và dấu ấn người xây Nhà thờ Đức Bà",
+      "link": "https://thanhnien.vn/toa-nha-ngan-hang-nha-nuoc-o-tphcm-va-dau-an-nguoi-xay-nha-tho-duc-ba-185260123001806833.htm",
+      "summary": "Tọa lạc ở vị trí đắc địa tại trung tâm TP.HCM, tòa nhà Ngân hàng Nhà nước (chi nhánh khu vực 2) không chỉ là một công trình tài chính mà còn là di sản kiến trúc gần 150 tuổi. Ít ai biết, công trình này từng do chính kiến trúc sư xây dựng Nhà thờ Đức Bà thiết kế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T07:45:00+07:00",
+      "fetched": "2026-02-19T15:32:50.318463+07:00"
+    },
+    {
+      "id": "8002cd809e051d766a9a52a5676fdbff",
+      "title": "Cầu thủ Thái Lan chạy trốn khi bị CĐV Indonesia tràn xuống sân",
+      "link": "https://vnexpress.net/cau-thu-thai-lan-chay-tron-khi-bi-cdv-indonesia-tran-xuong-san-5042320.html",
+      "summary": "Bị loại khỏi AFC Champions League 2, cổ động viên Indonesia tràn xuống sân, rượt đuổi khiến cầu thủ Thái Lan chạy trốn vào phòng thay đồ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T07:40:58+07:00",
+      "fetched": "2026-02-19T15:32:46.970774+07:00"
+    },
+    {
+      "id": "aa328adb51a438558ace4fe4ae80f86d",
+      "title": "Xu hướng mua sắm ô tô của người Việt năm 2026",
+      "link": "https://thanhnien.vn/xu-huong-mua-sam-o-to-cua-nguoi-viet-nam-2026-185260218081205193.htm",
+      "summary": "Sự đa dạng về mẫu mã trên thị trường ô tô cũng như những thay đổi ngày càng rõ rệt về thị hiếu của người tiêu dùng sẽ tiếp tục hình thành nên những xu hướng mua sắm ô tô phổ biến của người Việt trong năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T07:37:00+07:00",
+      "fetched": "2026-02-19T15:32:50.318629+07:00"
+    },
+    {
+      "id": "801d154aa8c3428c2ba40e2ba581f01c",
+      "title": "Mùng 3 tết, người Việt nhìn lên trời thấy hiện tượng lạ: Năm 2132 mới có lại!",
+      "link": "https://thanhnien.vn/mung-3-tet-nguoi-viet-nhin-len-troi-thay-hien-tuong-la-nam-2132-moi-co-lai-185260219080247349.htm",
+      "summary": "Chạng vạng mùng 3 tết, người Việt Nam hãy nhìn lên bầu trời để quan sát hiện nhiều tượng kỳ thú ngày đầu năm. Trong đó, có hiện tượng tới năm 2132 mới gặp lại. Đó là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T07:30:00+07:00",
+      "fetched": "2026-02-19T15:32:50.318783+07:00"
+    },
+    {
+      "id": "63b589df5c79f47df6c176f5ccadc07a",
+      "title": "Bị ‘khóa đầu, khóa đuôi’ khi đi chúc Tết: ‘Thích thì đậu tới mai cũng được’",
+      "link": "https://thanhnien.vn/bi-khoa-dau-khoa-duoi-khi-di-chuc-tet-thich-thi-dau-toi-mai-cung-duoc-185260219142729108.htm",
+      "summary": "Mạng xã hội lan truyền đoạn video ghi lại cảnh một gia đình đi chúc Tết ngày mùng 2 bị chặn xe giữa ngõ tại phường Trần Phú (Hà Tĩnh). Sau khi xảy ra tranh cãi về việc đỗ xe, chiếc ô tô của gia đình này bị “khóa đầu, khóa đuôi” suốt hơn 3 giờ và phải nhờ công an can thiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T07:27:00+07:00",
+      "fetched": "2026-02-19T15:32:50.318934+07:00"
+    },
+    {
+      "id": "8a7b25a438d2e4779124bd0367f448a7",
+      "title": "Cựu tổng thống Hàn Quốc Yoon Suk-yeol lĩnh án tù chung thân",
+      "link": "https://vnexpress.net/cuu-tong-thong-han-quoc-yoon-suk-yeol-linh-an-tu-chung-than-5042304.html",
+      "summary": "Tòa Hàn Quốc tuyên án tù chung thân với cựu tổng thống Yoon Suk-yeol, sau khi phán quyết ông \"cầm đầu nổi loạn\" khi ban bố thiết quân luật hồi tháng 12/2024.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T07:17:12+07:00",
+      "fetched": "2026-02-19T15:32:46.970934+07:00"
+    },
+    {
+      "id": "8a7b25a438d2e4779124bd0367f448a7",
+      "title": "Cựu tổng thống Hàn Quốc Yoon Suk-yeol lĩnh án tù chung thân",
+      "link": "https://vnexpress.net/cuu-tong-thong-han-quoc-yoon-suk-yeol-linh-an-tu-chung-than-5042304.html",
+      "summary": "Tòa Hàn Quốc tuyên án tù chung thân với cựu tổng thống Yoon Suk-yeol, sau khi phán quyết ông \"cầm đầu nổi loạn\" khi ban bố thiết quân luật hồi tháng 12/2024.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-19T07:17:12+07:00",
+      "fetched": "2026-02-19T15:32:53.087630+07:00"
+    },
+    {
+      "id": "27e421597de791f1f6ba5599a2fe861c",
+      "title": "Xe tải cháy ngùn ngụt trên đèo Khánh Lê",
+      "link": "https://vnexpress.net/xe-tai-chay-ngun-ngut-tren-deo-khanh-le-5042316.html",
+      "summary": "Ôtô tải đi trên đèo nối Nha Trang với Đà Lạt, đến độ cao 1.500 m bất ngờ bốc cháy, tài xế thoát thân kịp thời, trưa 19/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T07:11:42+07:00",
+      "fetched": "2026-02-19T15:32:46.971112+07:00"
+    },
+    {
+      "id": "076848b037887bd61be833761e3e8811",
+      "title": "Anh sống tình cảm, trách nhiệm và coi trọng gia đình",
+      "link": "https://vnexpress.net/anh-song-tinh-cam-trach-nhiem-va-coi-trong-gia-dinh-5042181.html",
+      "summary": "Anh mong gặp một người nghiêm túc, sống tử tế và biết trân trọng sự chân thành, không cần quá hoàn hảo, chỉ cần đủ thấu hiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T07:00:00+07:00",
+      "fetched": "2026-02-19T15:32:46.971224+07:00"
+    },
+    {
+      "id": "aa19fd591edae552d060ef27aed948c4",
+      "title": "Tượng phật cao nhất Đông Nam Á trên núi Thiên Mã",
+      "link": "https://vnexpress.net/tuong-phat-cao-nhat-dong-nam-a-tren-nui-thien-ma-5042162.html",
+      "summary": "Tượng Quan Thế Âm tại chùa Minh Đức cao 125 m, gồm 32 tầng, tạo hình đứng trên đài sen, tay cầm bình cam lộ, mặt hướng ra biển Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T07:00:00+07:00",
+      "fetched": "2026-02-19T15:32:46.971386+07:00"
+    },
+    {
+      "id": "f526567e458979bb1606c0b974751fc4",
+      "title": "Khi công nghệ quyết định huy chương Olympic mùa Đông",
+      "link": "https://vnexpress.net/khi-cong-nghe-quyet-dinh-huy-chuong-olympic-mua-dong-5041043.html",
+      "summary": "Các hãng xe mang hầm gió, vật liệu và phần mềm mô phỏng vào đường băng tuyết khiến cuộc đua huy chương Olympic mùa Đông ngày càng được quyết định bởi công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T07:00:00+07:00",
+      "fetched": "2026-02-19T15:32:46.971547+07:00"
+    },
+    {
+      "id": "5443d303712a8098b8dd52f90e4a80a8",
+      "title": "Vietjet ký các thỏa thuận trị giá 6,3 tỷ USD với đối tác Mỹ",
+      "link": "https://vnexpress.net/vietjet-ky-cac-thoa-thuan-tri-gia-6-3-ty-usd-voi-doi-tac-my-5042315.html",
+      "summary": "Vietjet ký các thỏa thuận hợp tác trị giá hơn 6,3 tỷ USD với đối tác Mỹ, tập trung vào động cơ máy bay, dịch vụ bảo dưỡng và tài chính tàu bay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T07:00:00+07:00",
+      "fetched": "2026-02-19T15:32:46.971702+07:00"
+    },
+    {
+      "id": "5443d303712a8098b8dd52f90e4a80a8",
+      "title": "Vietjet ký các thỏa thuận trị giá 6,3 tỷ USD với đối tác Mỹ",
+      "link": "https://vnexpress.net/vietjet-ky-cac-thoa-thuan-tri-gia-6-3-ty-usd-voi-doi-tac-my-5042315.html",
+      "summary": "Vietjet ký các thỏa thuận hợp tác trị giá hơn 6,3 tỷ USD với đối tác Mỹ, tập trung vào động cơ máy bay, dịch vụ bảo dưỡng và tài chính tàu bay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-19T07:00:00+07:00",
+      "fetched": "2026-02-19T15:32:54.444526+07:00"
+    },
+    {
+      "id": "f526567e458979bb1606c0b974751fc4",
+      "title": "Khi công nghệ quyết định huy chương Olympic mùa Đông",
+      "link": "https://vnexpress.net/khi-cong-nghe-quyet-dinh-huy-chuong-olympic-mua-dong-5041043.html",
+      "summary": "Các hãng xe mang hầm gió, vật liệu và phần mềm mô phỏng vào đường băng tuyết khiến cuộc đua huy chương Olympic mùa Đông ngày càng được quyết định bởi công nghệ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-19T07:00:00+07:00",
+      "fetched": "2026-02-19T15:32:58.541355+07:00"
+    },
+    {
       "id": "a36acfe1253cd7ee306d97b701586b40",
       "title": "Ngày tết, vì sao nhiều người trẻ vẫn đi làm?",
       "link": "https://thanhnien.vn/ngay-tet-vi-sao-nhieu-nguoi-tre-van-di-lam-185260219112456082.htm",
@@ -381,6 +861,16 @@ window.newsData_2026_02_19 = {
       "category": "Tổng hợp",
       "published": "2026-02-19T06:45:00+07:00",
       "fetched": "2026-02-19T13:49:24.908949+07:00"
+    },
+    {
+      "id": "03978a32ff01d5744d75dca83054b72d",
+      "title": "Lật đò đi chúc Tết, 1 người chết, 2 người mất tích",
+      "link": "https://vnexpress.net/lat-do-di-chuc-tet-1-nguoi-chet-2-nguoi-mat-tich-5042307.html",
+      "summary": "Gia đình 7 người đi đò qua sông Gianh chúc Tết sáng 19/2 thì gặp nạn, 3 người được cứu, 1 tử vong, 2 mất tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T06:38:28+07:00",
+      "fetched": "2026-02-19T15:32:46.971869+07:00"
     },
     {
       "id": "ece9af7b56968874972fcb30d4448ce7",
@@ -1071,6 +1561,16 @@ window.newsData_2026_02_19 = {
       "category": "Công nghệ",
       "published": "2026-02-19T03:00:00+07:00",
       "fetched": "2026-02-19T13:49:30.124626+07:00"
+    },
+    {
+      "id": "4a3ede151542e6bf8e4765843df8b0e9",
+      "title": "Trung Quốc huấn luyện robot hình người thế nào",
+      "link": "https://vnexpress.net/trung-quoc-huan-luyen-robot-hinh-nguoi-the-nao-5042204.html",
+      "summary": "Để robot hình người thực hiện hành vi như xếp đồ, lắp ráp, người huấn luyện có thể phải thực hiện mỗi động tác tới 300 lần để robot học theo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-19T03:00:00+07:00",
+      "fetched": "2026-02-19T15:32:56.994210+07:00"
     },
     {
       "id": "f84ca6a63e236195f389586f58e44794",
