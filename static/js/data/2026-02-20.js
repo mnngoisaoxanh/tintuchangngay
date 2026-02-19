@@ -1,6 +1,6 @@
 window.newsData_2026_02_20 = {
   "date": "2026-02-20",
-  "lastUpdated": "2026-02-20T01:39:33.708520+07:00",
+  "lastUpdated": "2026-02-20T03:22:23.065652+07:00",
   "articles": [
     {
       "id": "8e20d9577ab383c82e6156657fc4bc5e",
@@ -151,6 +151,26 @@ window.newsData_2026_02_20 = {
       "category": "Tổng hợp",
       "published": "2026-02-20T01:39:24.506848+07:00",
       "fetched": "2026-02-20T01:39:24.507059+07:00"
+    },
+    {
+      "id": "843edc1a060d761ab1e6d8ee257227f4",
+      "title": "Loại hạt ăn vui miệng ngày tết lại giúp ngăn ngừa nhiều bệnh",
+      "link": "https://thanhnien.vn/loai-hat-an-vui-mieng-ngay-tet-lai-giup-ngan-ngua-nhieu-benh-185260219231826457.htm",
+      "summary": "Nhiều người yêu thích vị thơm bùi, béo ngậy của hạt bí. Nhưng ít ai biết, loại hạt này được khoa học chứng minh giúp ngăn ngừa nhiều bệnh lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T20:15:00+07:00",
+      "fetched": "2026-02-20T03:22:14.738483+07:00"
+    },
+    {
+      "id": "4bf50be9de896852b45444b3f1ea7e4c",
+      "title": "Vợ chồng tôi xoay xở mua nhà Sài Gòn dù đang nợ 300 triệu đồng",
+      "link": "https://vnexpress.net/vo-chong-toi-xoay-xo-mua-nha-sai-gon-du-dang-no-300-trieu-dong-5042245.html",
+      "summary": "Tôi dùng 'tài chính âm' để mô tả tình trạng tài chính tại thời điểm mua nhà là đang nợ hơn 300 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T18:29:44+07:00",
+      "fetched": "2026-02-20T03:22:11.120262+07:00"
     },
     {
       "id": "12893ef47a45f14a7fd2eea86891c8c8",
