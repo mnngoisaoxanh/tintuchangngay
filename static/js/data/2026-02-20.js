@@ -1,7 +1,157 @@
 window.newsData_2026_02_20 = {
   "date": "2026-02-20",
-  "lastUpdated": "2026-02-20T08:12:30.913509+07:00",
+  "lastUpdated": "2026-02-20T11:06:19.274099+07:00",
   "articles": [
+    {
+      "id": "cf5213c27c987b9a5aa3eadae2e9b166",
+      "title": "Tính nhân đạo của Tết",
+      "link": "https://tuoitre.vn/tinh-nhan-dao-cua-tet-20260219232722683.htm",
+      "summary": "Tết là mùa của trở về. Trở về với gia đình và trở về với lương tri. Đây là dịp buộc người lầm lỗi nhìn lại mình, nhưng đồng thời cũng buộc xã hội nhìn lại cách mình đối xử với họ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.271067+07:00",
+      "fetched": "2026-02-20T11:06:11.271181+07:00"
+    },
+    {
+      "id": "3bba08438fa4ad4f7d77d821cc996de4",
+      "title": "Chính phủ yêu cầu rà soát quy định tiêu chuẩn chức danh lãnh đạo, quản lý",
+      "link": "https://tuoitre.vn/chinh-phu-yeu-cau-ra-soat-quy-dinh-tieu-chuan-chuc-danh-lanh-dao-quan-ly-2026022009395965.htm",
+      "summary": "Tại nghị quyết 23, Chính phủ yêu cầu Bộ Nội vụ rà soát kỹ các quy định liên quan tại nghị định 334/2025 quy định tiêu chuẩn chức danh công chức lãnh đạo, quản lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.270939+07:00",
+      "fetched": "2026-02-20T11:06:11.271055+07:00"
+    },
+    {
+      "id": "b611bffa699f90f8dc80ff7f63b6edeb",
+      "title": "Sẽ xử tội cố ý gây thương tích và giữ người trái pháp luật trong vụ xăm lên mặt tình địch",
+      "link": "https://tuoitre.vn/se-xu-toi-co-y-gay-thuong-tich-va-giu-nguoi-trai-phap-luat-trong-vu-xam-len-mat-tinh-dich-20260220094751012.htm",
+      "summary": "Thông tin từ TAND khu vực 5 (Cà Mau) cho biết đơn vị sẽ đưa ra xét xử vụ án chủ cơ sở thẩm mỹ đánh ghen bằng cách xăm lên mặt tình địch, bắt giữ người trái pháp luật vào ngày 27-2 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.270803+07:00",
+      "fetched": "2026-02-20T11:06:11.270927+07:00"
+    },
+    {
+      "id": "2fae7475cccf16f1230e21f748cbdab9",
+      "title": "Vượt Hà Nội, Ninh Bình đón lượng khách ‘khủng’ trong dịp Tết Nguyên đán",
+      "link": "https://tuoitre.vn/vuot-ha-noi-ninh-binh-don-luong-khach-khung-trong-dip-tet-nguyen-dan-20260220095156796.htm",
+      "summary": "Với nhiều danh lam, thắng cảnh đậm chất cố đô, Ninh Bình là một trong những cái tên đứng đầu danh sách điểm du xuân Tết Bính Ngọ. Trong 5 ngày nghỉ Tết, Ninh Bình đón hơn 1,36 triệu lượt khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.270666+07:00",
+      "fetched": "2026-02-20T11:06:11.270791+07:00"
+    },
+    {
+      "id": "4480aa93dfbfb9b381dcba7c54cf9049",
+      "title": "Cựu Hoàng tử Andrew bị bắt: Dư luận Anh hoan nghênh, ông Trump nói 'rất buồn'",
+      "link": "https://tuoitre.vn/cuu-hoang-tu-andrew-bi-bat-du-luan-anh-hoan-nghenh-ong-trump-noi-rat-buon-20260220095817396.htm",
+      "summary": "Việc cựu Hoàng tử Andrew bị bắt ngày 19-2 đã gây chấn động nước Anh, song phản ứng của phần lớn công chúng cho thấy sự ủng hộ đối với quyết định này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.270515+07:00",
+      "fetched": "2026-02-20T11:06:11.270653+07:00"
+    },
+    {
+      "id": "8cba35d8f4c4dea88518666eb7ad4c6e",
+      "title": "Toyota RAV4 PHEV có thể cấp điện cho nhà trong một tuần, chủ xe khỏi cần mua máy phát",
+      "link": "https://tuoitre.vn/toyota-rav4-phev-co-the-cap-dien-cho-nha-trong-mot-tuan-chu-xe-khoi-can-mua-may-phat-20260220090534262.htm",
+      "summary": "Với pin lớn, Toyota RAV4 PHEV 2026 có khả năng cấp điện gia đình suốt 7 ngày, sở hữu công suất 324 mã lực và nhiều nâng cấp công nghệ hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.270388+07:00",
+      "fetched": "2026-02-20T11:06:11.270504+07:00"
+    },
+    {
+      "id": "a49d80950d1ee48bd637c0c564ede2fc",
+      "title": "Đại tướng Phan Văn Giang tiếp Thứ trưởng thứ nhất Bộ Chiến tranh Mỹ",
+      "link": "https://tuoitre.vn/dai-tuong-phan-van-giang-tiep-thu-truong-thu-nhat-bo-chien-tranh-my-20260220100456054.htm",
+      "summary": "Nhân dịp tham gia đoàn công tác của Tổng Bí thư Tô Lâm dự cuộc họp khai mạc Hội đồng Hòa bình về Gaza tại thủ đô Washington DC, Mỹ, Đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng, đã tiếp Thứ trưởng thứ nhất Bộ Chiến tranh Mỹ Elbridge A. Colby.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.270244+07:00",
+      "fetched": "2026-02-20T11:06:11.270375+07:00"
+    },
+    {
+      "id": "32f0f1d12038b893299254099b582d87",
+      "title": "Vụ bé gái bị rạch nhiều vết trên người: Giao 'thủ phạm' cho gia đình, nhà trường quản lý, giáo dục",
+      "link": "https://tuoitre.vn/vu-be-gai-bi-rach-nhieu-vet-tren-nguoi-giao-thu-pham-cho-gia-dinh-nha-truong-quan-ly-giao-duc-2026022010104521.htm",
+      "summary": "Ngày 20-2, thông tin từ Công an xã Đá Bạc (Cà Mau), đơn vị này đã giải quyết trình báo của bà S. (68 tuổi, ngụ ấp Mũi Tràm C, xã Đá Bạc) về việc cháu ngoại là N. (12 tuổi) có nhiều vết thương trên người, nghi bị bạo hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.270115+07:00",
+      "fetched": "2026-02-20T11:06:11.270232+07:00"
+    },
+    {
+      "id": "96529233d9a17a33b2e82c6d048ece8a",
+      "title": "Gia đình Việt ngày càng giao tiếp online",
+      "link": "https://tuoitre.vn/gia-dinh-viet-ngay-cang-giao-tiep-online-20260220102451545.htm",
+      "summary": "Ngay cả trong dịp Tết Nguyên đán - thời điểm quan trọng nhất trong năm để các gia đình sum họp, thói quen giao tiếp trên môi trường số trong gia đình Việt vẫn thể hiện rõ nét.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.269986+07:00",
+      "fetched": "2026-02-20T11:06:11.270104+07:00"
+    },
+    {
+      "id": "e43ac1e543d21aaff0f6d6ead7a8de39",
+      "title": "Ông Trump gọi vợ là 'ngôi sao điện ảnh' sau thành công của phim tài liệu",
+      "link": "https://tuoitre.vn/ong-trump-goi-vo-la-ngoi-sao-dien-anh-sau-thanh-cong-cua-phim-tai-lieu-20260220092438567.htm",
+      "summary": "Ông Donald Trump tự hào khoe về vị thế 'ngôi sao điện ảnh' của bà Melania Trump, sau khi phim tài liệu về bà gặt hái thành công phòng vé tuần mở màn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.269857+07:00",
+      "fetched": "2026-02-20T11:06:11.269975+07:00"
+    },
+    {
+      "id": "2c91b3058a42b4c7fa87ed4925b940fb",
+      "title": "Vợ chồng Hoàng tử William phản ứng ra sao về vụ bắt giữ em trai Vua Charles?",
+      "link": "https://tuoitre.vn/vo-chong-hoang-tu-william-phan-ung-ra-sao-ve-vu-bat-giu-em-trai-vua-charles-2026022009002421.htm",
+      "summary": "Công chúng đang tò mò về động thái của Kate Middleton và Hoàng tử William trước vụ việc ông Andrew Mountbatten-Windsor bị bắt vì tiết lộ các tài liệu mật cho tỉ phú 'ấu dâm' Jeffrey Epstein ở Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.269722+07:00",
+      "fetched": "2026-02-20T11:06:11.269844+07:00"
+    },
+    {
+      "id": "50f3dcf28194d93fac7f249be5755580",
+      "title": "SOS Bảo Lộc vá xe miễn phí xuyên đêm cho khách du xuân",
+      "link": "https://tuoitre.vn/sos-bao-loc-va-xe-mien-phi-xuyen-dem-cho-khach-du-xuan-20260220101928297.htm",
+      "summary": "Khi phố núi Bảo Lộc (tỉnh Lâm Đồng) lên đèn, dòng người du xuân vẫn băng qua đèo, qua những con đường vắng. Và chỉ một vết thủng săm, một bình nhớt cạn cũng có thể khiến hành trình chững lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.269553+07:00",
+      "fetched": "2026-02-20T11:06:11.269708+07:00"
+    },
+    {
+      "id": "e0c635052b1045b73c7ed4b7f708179d",
+      "title": "FIFA soạn thảo luật mới sau vụ phân biệt chủng tộc của Vinicius",
+      "link": "https://tuoitre.vn/fifa-soan-thao-luat-moi-sau-vu-phan-biet-chung-toc-cua-vinicius-20260220103914917.htm",
+      "summary": "Liên đoàn Bóng đá Thế giới (FIFA) đang lên kế hoạch dự thảo một bộ luật mang tên \"Prestianni\" sau sự cố nghi ngờ có hành vi phân biệt chủng tộc nhắm vào tiền đạo Vinicius Junior.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.269413+07:00",
+      "fetched": "2026-02-20T11:06:11.269540+07:00"
+    },
+    {
+      "id": "b8937b2930d2e2d844f5c655ef2c2ee6",
+      "title": "Kim Tử Long hóa thân vua Quang Trung, Thanh Ngân là Công chúa Ngọc Hân trong Non nước hùng anh",
+      "link": "https://tuoitre.vn/kim-tu-long-hoa-than-vua-quang-trung-thanh-ngan-la-cong-chua-ngoc-han-trong-non-nuoc-hung-anh-20260220103957314.htm",
+      "summary": "Tối mùng 5 (tức 21-2), trước Nhà hát Thành phố, TP.HCM sẽ tổ chức chương trình kỷ niệm 237 năm chiến thắng Ngọc Hồi - Đống Đa lịch sử. Nghệ sĩ Kim Tử Long, Lê Tứ, ca sĩ Đào Mác cùng thể hiện hình tượng Quang Trung Nguyễn Huệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.269262+07:00",
+      "fetched": "2026-02-20T11:06:11.269399+07:00"
+    },
+    {
+      "id": "0e76526e258c3ae4c921daac43b628a1",
+      "title": "Ông Trump thông báo 50 triệu thùng dầu từ Venezuela đang được đưa tới Mỹ",
+      "link": "https://tuoitre.vn/ong-trump-thong-bao-50-trieu-thung-dau-tu-venezuela-dang-duoc-dua-toi-my-20260220103220134.htm",
+      "summary": "“Chúng ta có mối quan hệ tuyệt vời với một quốc gia tên là Venezuela” - Tổng thống Mỹ Donald Trump bình luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:06:11.269026+07:00",
+      "fetched": "2026-02-20T11:06:11.269247+07:00"
+    },
     {
       "id": "739e5c582b66d9d576182d07cc8bb425",
       "title": "Thời tiết hôm nay 20-2: Miền Bắc lạnh, miền Nam nắng nóng oi bức",
@@ -31,6 +181,356 @@ window.newsData_2026_02_20 = {
       "category": "Tổng hợp",
       "published": "2026-02-20T08:12:22.485840+07:00",
       "fetched": "2026-02-20T08:12:22.486070+07:00"
+    },
+    {
+      "id": "3ffacf0a658374bfa86bd48e5718e717",
+      "title": "Đội tuyển Malaysia im lặng trước trận tái đấu Việt Nam, cựu HLV kêu gọi tái thiết",
+      "link": "https://thanhnien.vn/doi-tuyen-malaysia-im-lang-truoc-tran-tai-dau-viet-nam-cuu-hlv-keu-goi-tai-thiet-185260220105623957.htm",
+      "summary": "Bóng đá Malaysia đang trải qua giai đoạn nhạy cảm khi đội tuyển im tiếng hoàn toàn trước trận gặp đội tuyển Việt Nam, trong lúc nội bộ FAM bước vào quá trình tái thiết sau lùm xùm án phạt từ FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T04:02:00+07:00",
+      "fetched": "2026-02-20T11:06:09.738932+07:00"
+    },
+    {
+      "id": "225f72c3253822e95cf32fa3ca1fc416",
+      "title": "Tổng Bí thư gặp lãnh đạo các nước bên lề cuộc họp khai mạc Hội đồng Hòa bình về Gaza",
+      "link": "https://thanhnien.vn/tong-bi-thu-gap-lanh-dao-cac-nuoc-ben-le-cuoc-hop-khai-mac-hoi-dong-hoa-binh-ve-gaza-185260220103339704.htm",
+      "summary": "Sáng 19.2 (theo giờ địa phương), bên lề cuộc họp khai mạc Hội đồng Hòa bình về Gaza tại Mỹ, Tổng Bí thư Tô Lâm đã có các cuộc gặp, trao đổi với Tổng thống Indonesia, Tổng thống Uzbekistan, Tổng thống Azerbaijan, Tổng thống Kazakhstan, Thủ tướng Campuchia, Thủ tướng Armenia, Thủ tướng Hungary, Thủ tư...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T04:02:00+07:00",
+      "fetched": "2026-02-20T11:06:09.739109+07:00"
+    },
+    {
+      "id": "a55a0df53a73744ac0b7f94b7cdd3cf4",
+      "title": "Chủ tịch AFA bị cấm xuất cảnh vì nghi án rửa tiền, đội tuyển Argentina mong mỏi Messi dự World Cup",
+      "link": "https://thanhnien.vn/chu-tich-afa-bi-cam-xuat-canh-vi-nghi-an-rua-tien-doi-tuyen-argentina-mong-moi-messi-du-world-cup-185260220104859658.htm",
+      "summary": "Theo báo chí Argentina, Chủ tịch Liên đoàn Bóng đá nước này (AFA), ông Claudio Tapia không được xuất cảnh vì bị nghi ngờ liên quan đến vụ bê bối rửa tiền và trốn thuế lên đến 19 tỉ USD. Messi phải gánh vác đội tuyển trước World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T04:01:00+07:00",
+      "fetched": "2026-02-20T11:06:09.739288+07:00"
+    },
+    {
+      "id": "8eea5f0f5909fa1663211c36a945d093",
+      "title": "Sang trọng với trang phục vải lụa trong ngày đầu năm đi làm",
+      "link": "https://thanhnien.vn/thoi-trang-tre/sang-trong-voi-trang-phuc-vai-lua-trong-ngay-dau-nam-di-lam-185260214152951012.htm",
+      "summary": "Trang phục vải lụa là lựa chọn nâng tầm khí chất ngày xuân bằng chính độ rủ tự nhiên và bề mặt ánh nhẹ đặc trưng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T04:00:00+07:00",
+      "fetched": "2026-02-20T11:06:09.739447+07:00"
+    },
+    {
+      "id": "0939090216fbead35a8c5f41ea85a880",
+      "title": "Hành trình kỳ diệu của cây đàn banjo alto",
+      "link": "https://thanhnien.vn/hanh-trinh-ky-dieu-cua-cay-dan-banjo-alto-185260130191006181.htm",
+      "summary": "Cây đàn banjo alto từ Hà Nội, được một người quê Đồng Hới (Quảng Bình, nay là Quảng Trị) ở Lào đặt mua đã đi qua 3 nước Đông Dương. Banjo alto cùng chủ nhân tham gia 2 cuộc kháng chiến, là một \"vũ khí tinh thần\". Trải qua nhiều biến động lịch sử, có lúc nằm trong tay người phía bên kia, nhưng cuối c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T04:00:00+07:00",
+      "fetched": "2026-02-20T11:06:09.739621+07:00"
+    },
+    {
+      "id": "c26f177d4ce248f2ddc227690e4ffa1e",
+      "title": "Ô tô tông chết người, kéo lê xe máy gần 1 km gây phẫn nộ",
+      "link": "https://thanhnien.vn/o-to-tong-chet-nguoi-keo-le-xe-may-gan-1-km-gay-phan-no-18526022009284583.htm",
+      "summary": "Ô tô tông chết người rồi kéo lê xe máy của nạn nhân gần 1 km trong đêm tại phường Phan Thiết, tỉnh Lâm Đồng. Clip về vụ việc lan truyền trên mạng xã hội gây phẫn nộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:53:00+07:00",
+      "fetched": "2026-02-20T11:06:09.739816+07:00"
+    },
+    {
+      "id": "c0c9ca824329471521e5712a27348578",
+      "title": "Mang mùa xuân đến với trẻ mồ côi",
+      "link": "https://thanhnien.vn/mang-mua-xuan-den-voi-tre-mo-coi-185260220104136626.htm",
+      "summary": "Với những trẻ mồ côi, cái tết chưa bao giờ trọn vẹn vì luôn thiếu vắng người thân thương nhất của mình. Nhưng chính sự sẻ chia, quan tâm, những phần quà kịp thời được gửi trao đã giúp mùa xuân của các em ấm áp hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:51:00+07:00",
+      "fetched": "2026-02-20T11:06:09.739971+07:00"
+    },
+    {
+      "id": "57707fb8e80ba7cf83a41f68c6cb96b6",
+      "title": "'Tướng' Mai Đức Chung: 77 tuổi, vẫn gác tết ra trận cùng đội tuyển nữ Việt Nam",
+      "link": "https://thanhnien.vn/tuong-mai-duc-chung-77-tuoi-van-gac-tet-ra-tran-cung-doi-tuyen-nu-viet-nam-185260220102041996.htm",
+      "summary": "Ở cái tuổi gần 80 đáng ra vui vầy cùng con cháu trong những ngày tết, HLV Mai Đức Chung vẫn đắm mình trong công việc, để cùng đội tuyển nữ Việt Nam viết tiếp những giấc mộng lớn lao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:51:00+07:00",
+      "fetched": "2026-02-20T11:06:09.740175+07:00"
+    },
+    {
+      "id": "8a6ef0250e72a35352b89352c1173f4d",
+      "title": "Sớm hoàn tất đàm phán hiệp định thương mại đối ứng Việt - Mỹ",
+      "link": "https://thanhnien.vn/som-hoan-tat-dam-phan-hiep-dinh-thuong-mai-doi-ung-viet-my-185260220102604433.htm",
+      "summary": "Ngày 19.2, Tổng Bí thư Tô Lâm đã tiếp Trưởng đại diện Thương mại Mỹ, Đại sứ Jamieson Greer.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:46:00+07:00",
+      "fetched": "2026-02-20T11:06:09.740342+07:00"
+    },
+    {
+      "id": "296a3c60e600370936b221dd5449ebf8",
+      "title": "Mỹ sẽ công bố tài liệu về người ngoài hành tinh",
+      "link": "https://thanhnien.vn/my-se-cong-bo-tai-lieu-ve-nguoi-ngoai-hanh-tinh-185260220095905817.htm",
+      "summary": "Tổng thống Mỹ Donald Trump thông báo sẽ chỉ đạo Lầu Năm Góc sàng lọc, công khai các tài liệu về người ngoài hành tinh và UFO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:46:00+07:00",
+      "fetched": "2026-02-20T11:06:09.740498+07:00"
+    },
+    {
+      "id": "7453d46599a8fabc4062020a2da55bc6",
+      "title": "Thái Lan bắt giữ 6 người Việt khai trốn thoát khỏi ổ lừa đảo tại Campuchia",
+      "link": "https://thanhnien.vn/thai-lan-bat-giu-6-nguoi-viet-khai-tron-thoat-khoi-o-lua-dao-tai-campuchia-185260220085909141.htm",
+      "summary": "Giới chức Thái Lan vừa phát hiện 13 công dân Việt Nam vượt biên từ Campuchia, trong đó đang tạm giữ 6 người và 7 người còn lại chưa rõ tung tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:46:00+07:00",
+      "fetched": "2026-02-20T11:06:09.740672+07:00"
+    },
+    {
+      "id": "e9a642b4a74b078589ada40f02388e75",
+      "title": "Người tị nạn tại Mỹ có thể bị bắt theo mệnh lệnh mới",
+      "link": "https://thanhnien.vn/nguoi-ti-nan-tai-my-co-the-bi-bat-theo-menh-lenh-moi-185260220092620969.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump đã ban hành mệnh lệnh mới có thể khiến những người tị nạn hợp pháp tại Mỹ bị bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:45:00+07:00",
+      "fetched": "2026-02-20T11:06:09.740825+07:00"
+    },
+    {
+      "id": "f02a61ea5c3eae7603e7b9caeebceed9",
+      "title": "Giá Bitcoin hôm nay 20.2.2026: Nỗi lo 'Bitcoin về 0' phủ bóng thị trường",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-2022026-noi-lo-bitcoin-ve-0-phu-bong-thi-truong-185260220070216695.htm",
+      "summary": "Giá Bitcoin hôm nay tiếp tục rung lắc mạnh, có lúc giảm từ 67.000 USD xuống còn 65.000 USD, người dùng liên tục lên Google tìm kiếm từ khóa \"Bitcoin về 0\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:37:00+07:00",
+      "fetched": "2026-02-20T11:06:09.740973+07:00"
+    },
+    {
+      "id": "643c568a56b0442b836f9b5b27e476ee",
+      "title": "Ông Trump yêu cầu công bố tài liệu về người ngoài hành tinh",
+      "link": "https://vnexpress.net/ong-trump-yeu-cau-cong-bo-tai-lieu-ve-nguoi-ngoai-hanh-tinh-5042410.html",
+      "summary": "Tổng thống Mỹ sẽ yêu cầu Bộ trưởng Quốc phòng và các cơ quan liên quan khởi động công bố tài liệu về người ngoài hành tinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-20T03:34:38+07:00",
+      "fetched": "2026-02-20T11:06:13.058108+07:00"
+    },
+    {
+      "id": "828b93675fbc4a543fee88d2a4013d40",
+      "title": "Hai người nước ngoài giăng bẫy đổi tiền ảo USDT",
+      "link": "https://vnexpress.net/hai-nguoi-nuoc-ngoai-giang-bay-doi-tien-ao-usdt-5042433.html",
+      "summary": "Bi Shuang và Cui Feiyang vờ cần đổi tiền ảo USDT sang tiền Việt Nam để dụ nạn nhân đến điểm hẹn rồi chiếm đoạt tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:32:41+07:00",
+      "fetched": "2026-02-20T11:06:06.279783+07:00"
+    },
+    {
+      "id": "931ea0c62bc30d2bd3b04391af9ac4c9",
+      "title": "Gemini 3.1 Pro vừa ra mắt có gì mới?",
+      "link": "https://thanhnien.vn/gemini-31-pro-vua-ra-mat-co-gi-moi-185260220084102278.htm",
+      "summary": "Sau 3 tháng kể từ khi trình làng Gemini 3.0, Google tiếp tục tăng tốc trong cuộc đua AI (trí tuệ nhân tạo) với bản nâng cấp mới mang tên Gemini 3.1 Pro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:30:00+07:00",
+      "fetched": "2026-02-20T11:06:09.741128+07:00"
+    },
+    {
+      "id": "f897e6ac649e345deececa7bab8e69c0",
+      "title": "Em trai Vua Charles III được cảnh sát thả",
+      "link": "https://vnexpress.net/em-trai-vua-charles-iii-duoc-canh-sat-tha-5042429.html",
+      "summary": "Cựu hoàng tử Anh Andrew được tại ngoại khi cảnh sát đang tiếp tục điều tra, sau khi ông bị bắt với nghi ngờ gửi tài liệu mật của chính phủ cho tỷ phú ấu dâm Epstein.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:12:59+07:00",
+      "fetched": "2026-02-20T11:06:06.279981+07:00"
+    },
+    {
+      "id": "f897e6ac649e345deececa7bab8e69c0",
+      "title": "Em trai Vua Charles III được cảnh sát thả",
+      "link": "https://vnexpress.net/em-trai-vua-charles-iii-duoc-canh-sat-tha-5042429.html",
+      "summary": "Cựu hoàng tử Anh Andrew được tại ngoại khi cảnh sát đang tiếp tục điều tra, sau khi ông bị bắt với nghi ngờ gửi tài liệu mật của chính phủ cho tỷ phú ấu dâm Epstein.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-20T03:12:59+07:00",
+      "fetched": "2026-02-20T11:06:13.058293+07:00"
+    },
+    {
+      "id": "456e162baa4d9d6614951b16ecd4b1bf",
+      "title": "Sao 'Euphoria' qua đời",
+      "link": "https://vnexpress.net/sao-euphoria-qua-doi-5042426.html",
+      "summary": "Eric Dane, diễn viên đóng \"Euphoria\" qua đời ở tuổi 54, sau gần một năm phát hiện bệnh liên quan vấn đề thần kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:11:09+07:00",
+      "fetched": "2026-02-20T11:06:06.280148+07:00"
+    },
+    {
+      "id": "398c8c740235b6d4304614fd4deb50e3",
+      "title": "Tổng Bí thư Tô Lâm tham dự cuộc họp khai mạc Hội đồng Hòa bình về Dải Gaza",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-tham-du-cuoc-hop-khai-mac-hoi-dong-hoa-binh-ve-dai-gaza-18526022009364818.htm",
+      "summary": "Sáng ngày 19.2 (giờ địa phương), nhận lời mời của Tổng thống Mỹ Donald Trump, Chủ tịch Hội đồng Hòa bình về Dải Gaza, Tổng Bí thư Tô Lâm đã tham dự cuộc họp khai mạc hội đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:04:00+07:00",
+      "fetched": "2026-02-20T11:06:09.741275+07:00"
+    },
+    {
+      "id": "3b819c363a3b0d628ccb8f570d01b955",
+      "title": "Giá vàng giằng co quanh 5.000 USD",
+      "link": "https://vnexpress.net/gia-vang-giang-co-quanh-5-000-usd-5042418.html",
+      "summary": "Giá vàng thế giới dao động trong biên độ hẹp, quanh 5.000 USD, khi nhà đầu tư tiếp tục theo dõi căng thẳng Mỹ - Iran và chờ thêm dữ liệu lạm phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:03:24+07:00",
+      "fetched": "2026-02-20T11:06:06.280306+07:00"
+    },
+    {
+      "id": "3b819c363a3b0d628ccb8f570d01b955",
+      "title": "Giá vàng giằng co quanh 5.000 USD",
+      "link": "https://vnexpress.net/gia-vang-giang-co-quanh-5-000-usd-5042418.html",
+      "summary": "Giá vàng thế giới dao động trong biên độ hẹp, quanh 5.000 USD, khi nhà đầu tư tiếp tục theo dõi căng thẳng Mỹ - Iran và chờ thêm dữ liệu lạm phát.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-20T03:03:24+07:00",
+      "fetched": "2026-02-20T11:06:14.928458+07:00"
+    },
+    {
+      "id": "44c66262aa651afeac716147edbae578",
+      "title": "Lịch thi đánh giá năng lực, tư duy của 9 đại học năm 2026",
+      "link": "https://vnexpress.net/lich-thi-le-phi-thi-danh-gia-nang-luc-cua-cac-truong-dai-hoc-nam-2026-chi-tiet-nhat-5039470.html",
+      "summary": "Các đợt thi đánh giá năng lực, tư duy sau Tết diễn ra từ tháng 3 đến 6, lệ phí cao nhất là 2 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:01:00+07:00",
+      "fetched": "2026-02-20T11:06:06.280471+07:00"
+    },
+    {
+      "id": "22cb91d94280595513cf191f868be22f",
+      "title": "Que diêm nào có thể biến phép tính '5 - 6 = 7' thành đúng?",
+      "link": "https://vnexpress.net/que-diem-nao-co-the-bien-phep-tinh-5-6-7-thanh-dung-5040509.html",
+      "summary": "Điều thú vị là đáp án luôn ở ngay trước mắt, chỉ là mắt thấy mà não chưa chịu tin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:00:00+07:00",
+      "fetched": "2026-02-20T11:06:06.280649+07:00"
+    },
+    {
+      "id": "b66696aed7f2991f07311575a9c8498b",
+      "title": "Những món Tết dễ gây hóc, rối loạn tiêu hóa cho trẻ",
+      "link": "https://vnexpress.net/nhung-mon-tet-de-gay-hoc-roi-loan-tieu-hoa-cho-tre-5041321.html",
+      "summary": "Phụ huynh nên hạn chế cho trẻ ăn các loại hạt, thực phẩm muối chua trong ngày Tết để phòng tránh hóc, ngộ độc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T03:00:00+07:00",
+      "fetched": "2026-02-20T11:06:06.280812+07:00"
+    },
+    {
+      "id": "c8501a4b1e0f107e3327f9107c84d0bc",
+      "title": "Cả Tết mất ngủ vì hàng xóm 'chiêu đãi' karaoke tra tấn suốt ngày đêm",
+      "link": "https://vnexpress.net/ca-tet-mat-ngu-vi-hang-xom-chieu-dai-karaoke-tra-tan-suot-ngay-dem-5042425.html",
+      "summary": "Sau hai tháng Nghị định 282 được ban hành, chiếc loa kéo vẫn là nỗi ám ảnh đối với người dân quê tôi suốt cả Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T02:57:39+07:00",
+      "fetched": "2026-02-20T11:06:06.280972+07:00"
+    },
+    {
+      "id": "3e8816a642e0f0c13cb207767ed1e10c",
+      "title": "Hàng nghìn khách quốc tế đến Đà Nẵng bằng tàu biển",
+      "link": "https://vnexpress.net/hang-nghin-khach-quoc-te-den-da-nang-bang-tau-bien-5042323.html",
+      "summary": "Hơn 1.000 du khách quốc tế trên du thuyền Seabourn Encore cập Cảng Tiên Sa sáng 19/2, mở đầu chuỗi ngày sôi động của du lịch tàu biển Đà Nẵng dịp Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T02:51:18+07:00",
+      "fetched": "2026-02-20T11:06:06.281132+07:00"
+    },
+    {
+      "id": "410c881e1542cca5fb3c2ac4c4ccdbbd",
+      "title": "Chồng phản bội trong chính căn nhà chúng tôi đang sống",
+      "link": "https://vnexpress.net/chong-phan-boi-trong-chinh-can-nha-chung-toi-dang-song-5042423.html",
+      "summary": "Về phòng không thấy anh, điện thoại anh vẫn trên bàn, không hiểu sao tôi lại bước sang phòng em nuôi, linh cảm bất an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T02:45:16+07:00",
+      "fetched": "2026-02-20T11:06:06.281298+07:00"
+    },
+    {
+      "id": "4cf8405750e3a446b6831564f9589c5b",
+      "title": "Xe khách tông ôtô 5 chỗ, cao tốc Hàm Nghi - Vũng Áng ùn tắc hơn hai tiếng",
+      "link": "https://vnexpress.net/xe-khach-tong-oto-5-cho-cao-toc-ham-nghi-vung-ang-un-tac-hon-hai-tieng-5042415.html",
+      "summary": "Sau va chạm giữa xe khách giường nằm và ôtô 5 chỗ, cao tốc Hàm Nghi - Vũng Áng ùn tắc hơn một km, rạng sáng 20/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T02:45:03+07:00",
+      "fetched": "2026-02-20T11:06:06.281447+07:00"
+    },
+    {
+      "id": "e6f391ebedaea3d4e3878eec1d9cf18e",
+      "title": "Nữ runner mắc ung thư: 'Trị bệnh như chạy những km cuối marathon'",
+      "link": "https://vnexpress.net/nu-runner-chong-ung-thu-vu-bang-tinh-than-marathon-5014012.html",
+      "summary": "Đang ở đỉnh cao phong trào với thành tích 3 tiếng 9 phút, Quách Thị Bích Thùy nhận tin mắc ung thư vú ác tính. Thay vì suy sụp, cô chọn cách đối diện với bệnh bằng tinh thần của một người chạy marathon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T02:40:00+07:00",
+      "fetched": "2026-02-20T11:06:06.281607+07:00"
+    },
+    {
+      "id": "5c602ccc09d12d40aedd77a570fc7dc3",
+      "title": "Cháy tàu du lịch ở Phú Quốc",
+      "link": "https://vnexpress.net/chay-tau-du-lich-o-phu-quoc-5042367.html",
+      "summary": "Tàu du lịch bất ngờ bốc cháy ở khu vực An Thới nhưng may mắn không xảy ra thiệt hại về người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T02:36:23+07:00",
+      "fetched": "2026-02-20T11:06:06.281778+07:00"
+    },
+    {
+      "id": "921ec353be61426e92228a2af954a587",
+      "title": "Cuộc chiến 'bảo tồn nòi giống' trong ống nghiệm tại Ukraine",
+      "link": "https://vnexpress.net/cuoc-chien-bao-ton-noi-giong-trong-ong-nghiem-tai-ukraine-5042391.html",
+      "summary": "Maxim tận dụng kỳ nghỉ phép ngắn ngủi để cùng vợ đến một phòng khám tại Kiev gửi mẫu tinh dịch để thực hiện việc trữ đông, với hy vọng nếu mình hy sinh, vợ anh vẫn có thể hồi sinh tương lai bằng đứa con của họ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T02:35:54+07:00",
+      "fetched": "2026-02-20T11:06:06.281934+07:00"
+    },
+    {
+      "id": "a6fdf5e3cf4c3768864878287008af49",
+      "title": "Khách xếp hàng dài dưới mưa vào điểm du lịch mới nổi tại Ninh Bình",
+      "link": "https://vnexpress.net/khach-xep-hang-dai-duoi-mua-vao-diem-du-lich-moi-noi-tai-ninh-binh-5042377.html",
+      "summary": "Hàng nghìn người đổ về Thung Ui và các danh thắng tại Ninh Bình trong ngày mùng 3 Tết, khiến nhiều khu vực rơi vào tình trạng quá tải cục bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T02:33:01+07:00",
+      "fetched": "2026-02-20T11:06:06.282093+07:00"
+    },
+    {
+      "id": "1df127cac905751e6907c0ad3e308024",
+      "title": "Loạt thiết kế mới tiếp nối hành trình 150 năm của Audemars Piguet",
+      "link": "https://vnexpress.net/loat-thiet-ke-moi-tiep-noi-hanh-trinh-150-nam-cua-audemars-piguet-5039972.html",
+      "summary": "Nhà chế tác đồng hồ cao cấp Audemars Piguet kiên định triết lý tôn trọng quá khứ, không ngừng khai mở giới hạn mới trong suốt 150 năm, từ ngày đầu thành lập tại vùng Le Brassus, Thụy Sĩ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-20T02:00:00+07:00",
+      "fetched": "2026-02-20T11:06:14.929324+07:00"
+    },
+    {
+      "id": "59fa873b32205ec11979eb8f8a11495b",
+      "title": "Tổng Bí thư Tô Lâm dự họp khai mạc Hội đồng Hòa bình về Gaza",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-du-hop-khai-mac-hoi-dong-hoa-binh-ve-gaza-5042406.html",
+      "summary": "Tổng thống Trump đánh giá cao việc Tổng Bí thư Tô Lâm tham dự cuộc họp Hội đồng Hòa bình về Gaza, khẳng định dành sự tôn trọng sâu sắc đối với Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-20T01:42:19+07:00",
+      "fetched": "2026-02-20T11:06:13.058458+07:00"
     },
     {
       "id": "8e20d9577ab383c82e6156657fc4bc5e",
@@ -181,6 +681,26 @@ window.newsData_2026_02_20 = {
       "category": "Tổng hợp",
       "published": "2026-02-20T01:39:24.506848+07:00",
       "fetched": "2026-02-20T01:39:24.507059+07:00"
+    },
+    {
+      "id": "633f7497d78610d450be572ab7d2980f",
+      "title": "Rooney: 'Arne Slot thiếu khí chất để dẫn dắt Liverpool'",
+      "link": "https://vnexpress.net/rooney-arne-slot-thieu-khi-chat-de-dan-dat-liverpool-5042408.html",
+      "summary": "Theo danh thủ Man Utd Wayne Rooney, HLV Arne Slot thiếu cái uy cần thiết để giữ ổn định cho Liverpool thời hậu Jurgen Klopp dù đã vô địch Ngoại hạng Anh ngay mùa đầu làm việc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-20T01:18:46+07:00",
+      "fetched": "2026-02-20T11:06:19.268018+07:00"
+    },
+    {
+      "id": "d9c9348929e385a443daee61c0b0fb80",
+      "title": "Những 'vua tiền mặt' trên sàn chứng khoán",
+      "link": "https://vnexpress.net/nhung-vua-tien-mat-tren-san-chung-khoan-5041867.html",
+      "summary": "Những doanh nghiệp được mệnh danh “vua tiền mặt” như Bảo Việt, Thế Giới Di Động, Viettel Global, FPT, BSR… có điểm chung ở vị thế đầu ngành, dòng tiền tích lũy nhiều năm và lĩnh vực kinh doanh ít biến động bởi chu kỳ kinh tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-20T01:08:00+07:00",
+      "fetched": "2026-02-20T11:06:14.928652+07:00"
     },
     {
       "id": "e63054618a11ee01bd037d43c83869e8",
