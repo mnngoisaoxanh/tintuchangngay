@@ -1,7 +1,47 @@
 window.newsData_2026_02_20 = {
   "date": "2026-02-20",
-  "lastUpdated": "2026-02-20T21:34:07.618843+07:00",
+  "lastUpdated": "2026-02-20T23:27:02.034049+07:00",
   "articles": [
+    {
+      "id": "d8dbcadf896ed5fe8b10f9ef43be916a",
+      "title": "Mùng 4 Tết: Xử lý 8.241 tài xế vi phạm; Hà Nội bắt đầu ùn tắc ở cửa ngõ",
+      "link": "https://tuoitre.vn/mung-4-tet-xu-ly-8-241-tai-xe-vi-pham-ha-noi-bat-dau-un-tac-o-cua-ngo-20260220195709914.htm",
+      "summary": "So với năm ngoái, số vụ tai nạn trong ngày mùng 4 Tết năm nay giảm hơn 37%. Dòng xe vào - ra Hà Nội tăng mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:26:52.230300+07:00",
+      "fetched": "2026-02-20T23:26:52.230420+07:00"
+    },
+    {
+      "id": "b527d104ad1cf7ce471dacaa974f59ce",
+      "title": "Hà Giang mùng 4 Tết: Đường kẹt cứng, nhiều du khách không tìm được phòng",
+      "link": "https://tuoitre.vn/ha-giang-mung-4-tet-duong-ket-cung-nhieu-du-khach-khong-tim-duoc-phong-20260220202236366.htm",
+      "summary": "Dốc Thẩm Mã, đèo Mã Pí Lèng… dòng xe ùn ùn nối đuôi nhau ngày mùng 4 Tết, du khách nhích từng chút trong chuyến du xuân Hà Giang đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:26:52.230161+07:00",
+      "fetched": "2026-02-20T23:26:52.230288+07:00"
+    },
+    {
+      "id": "354714a91f3b897ce1c744619646128d",
+      "title": "Bị kiểm tra nồng độ cồn, tài xế kéo kính xe kẹp tay CSGT rồi tăng ga bỏ chạy",
+      "link": "https://tuoitre.vn/bi-kiem-tra-nong-do-con-tai-xe-keo-kinh-xe-kep-tay-csgt-roi-tang-ga-bo-chay-20260220203627247.htm",
+      "summary": "Bị kiểm tra, tài xế bất ngờ giữ tay thiếu tá Nguyễn Văn Đông, kéo kính xe rồi tăng ga bỏ chạy, khiến anh bị kẹt tay phải đu theo ô tô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:26:52.230016+07:00",
+      "fetched": "2026-02-20T23:26:52.230148+07:00"
+    },
+    {
+      "id": "6366f5d2bbacfa47a15bf5dada7d217e",
+      "title": "Vua Charles dự Tuần lễ thời trang London sau khi em trai bị bắt",
+      "link": "https://tuoitre.vn/vua-charles-du-tuan-le-thoi-trang-london-sau-khi-em-trai-bi-bat-20260220200301597.htm",
+      "summary": "Chỉ vài giờ sau khi cựu Hoàng tử Andrew bị bắt, Vua Charles được nhìn thấy ngồi hàng ghế đầu tại Tuần lễ thời trang London để ủng hộ nhà thiết kế người Anh gốc Nigeria Tolu Coker.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:26:52.229737+07:00",
+      "fetched": "2026-02-20T23:26:52.229999+07:00"
+    },
     {
       "id": "87822355b90fc58caec7536c9c24449d",
       "title": "Việt Nam chúc mừng Đại hội IX của Đảng Lao động Triều Tiên",
@@ -213,6 +253,96 @@ window.newsData_2026_02_20 = {
       "fetched": "2026-02-20T19:36:06.541644+07:00"
     },
     {
+      "id": "92beec15864652ee674e24db95316980",
+      "title": "Chàng trai 'siêu ngoan' tìm cô gái tốt để kết hôn",
+      "link": "https://vnexpress.net/chang-trai-sieu-ngoan-tim-co-gai-tot-de-ket-hon-5042478.html",
+      "summary": "Mong em là cô gái tốt, có tri thức và đạo đức để mình dễ hòa hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T16:21:39+07:00",
+      "fetched": "2026-02-20T23:26:47.263130+07:00"
+    },
+    {
+      "id": "7aac3bba3ce1e9085af29c3ffd22a806",
+      "title": "Chỉ mong em hiểu chuyện, biết lắng nghe và tôn trọng người khác",
+      "link": "https://vnexpress.net/chi-mong-em-hieu-chuyen-biet-lang-nghe-va-ton-trong-nguoi-khac-5042479.html",
+      "summary": "Chào em, người anh hy vọng sẽ đồng hành cùng anh trong chặng đường phía trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T16:21:17+07:00",
+      "fetched": "2026-02-20T23:26:47.263235+07:00"
+    },
+    {
+      "id": "cfd3faf40457aac31d834260701e9f90",
+      "title": "Tìm người đàn ông đáng tin cậy",
+      "link": "https://vnexpress.net/tim-nguoi-dan-ong-dang-tin-cay-5042480.html",
+      "summary": "Em viết những dòng này với mong muốn gặp được người đàn ông tốt bụng, chân thành và sẵn sàng cho mối quan hệ lâu dài, nghiêm túc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T16:21:00+07:00",
+      "fetched": "2026-02-20T23:26:47.263331+07:00"
+    },
+    {
+      "id": "b0e263ab006639fcb077634f9ba81309",
+      "title": "Tìm bạn đời đồng điệu để cùng xây dựng mái ấm bình yên",
+      "link": "https://vnexpress.net/tim-ban-doi-dong-dieu-de-cung-xay-dung-mai-am-binh-yen-5042476.html",
+      "summary": "Tôi hiền lành, sống có trách nhiệm và chịu khó trong công việc cũng như trong cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T16:20:31+07:00",
+      "fetched": "2026-02-20T23:26:47.263421+07:00"
+    },
+    {
+      "id": "10c337a6f6f324d427b242865cf8c231",
+      "title": "Tòa án Tối cao Mỹ bác bỏ thuế đối ứng của ông Trump",
+      "link": "https://vnexpress.net/toa-an-toi-cao-my-bac-bo-thue-doi-ung-cua-ong-trump-5042558.html",
+      "summary": "Tòa án Tối cao Mỹ đã phán quyết rằng các mức thuế đối ứng của Tổng thống Donald Trump là bất hợp pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:52:06+07:00",
+      "fetched": "2026-02-20T23:26:47.263618+07:00"
+    },
+    {
+      "id": "10c337a6f6f324d427b242865cf8c231",
+      "title": "Tòa án Tối cao Mỹ bác bỏ thuế đối ứng của ông Trump",
+      "link": "https://vnexpress.net/toa-an-toi-cao-my-bac-bo-thue-doi-ung-cua-ong-trump-5042558.html",
+      "summary": "Tòa án Tối cao Mỹ đã phán quyết rằng các mức thuế đối ứng của Tổng thống Donald Trump là bất hợp pháp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-20T15:52:06+07:00",
+      "fetched": "2026-02-20T23:26:56.358354+07:00"
+    },
+    {
+      "id": "98b08c6e3993bfddcd2405a72c763493",
+      "title": "Sân bay Phú Quốc liên tục lập kỷ lục số chuyến bay",
+      "link": "https://vnexpress.net/san-bay-phu-quoc-lien-tuc-lap-ky-luc-so-chuyen-bay-5042559.html",
+      "summary": "Cảng Hàng không quốc tế Phú Quốc đón 2.044 chuyến bay quốc tế từ ngày 1/1 đến 19/2 - giai đoạn sau khi bàn giao cho Sun Group.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:40:00+07:00",
+      "fetched": "2026-02-20T23:26:47.263791+07:00"
+    },
+    {
+      "id": "f5683fc84fadbb5ac853edb81b25d4d1",
+      "title": "Tòa án Tối cao Mỹ bác bỏ thuế quan toàn cầu của ông Trump",
+      "link": "https://thanhnien.vn/toa-an-toi-cao-my-bac-bo-thue-quan-toan-cau-cua-ong-trump-185260220222829264.htm",
+      "summary": "Tòa án Tối cao Mỹ vừa ra phán quyết ngăn chặn các mức thuế quan của Tổng thống Donald Trump đối với hàng nhập khẩu từ các nước, cho rằng nhà lãnh đạo đã vượt quá thẩm quyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:32:00+07:00",
+      "fetched": "2026-02-20T23:26:50.737706+07:00"
+    },
+    {
+      "id": "6e7944d3572ba588a4bf08171050c014",
+      "title": "Ninh Bình đón gần nửa triệu lượt khách ngày mùng 4 tết",
+      "link": "https://thanhnien.vn/ninh-binh-don-gan-nua-trieu-luot-khach-ngay-mung-4-tet-185260220221320937.htm",
+      "summary": "Riêng ngày mùng 4 tết, tỉnh Ninh Bình đón gần nửa triệu lượt khách, có những thời điểm ở một số khu du lịch lượng khách đổ về quá đông gây ách tắc cục bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:31:00+07:00",
+      "fetched": "2026-02-20T23:26:50.737894+07:00"
+    },
+    {
       "id": "b11cc097acb8069f4e209de128485039",
       "title": "Danh sách 7 nữ ứng viên thế hệ '2K' ứng cử đại biểu Quốc hội khóa XVI",
       "link": "https://tuoitre.vn/danh-sach-7-nu-ung-vien-the-he-2k-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-2026022013203665.htm",
@@ -361,6 +491,76 @@ window.newsData_2026_02_20 = {
       "category": "Tổng hợp",
       "published": "2026-02-20T15:30:41.189615+07:00",
       "fetched": "2026-02-20T15:30:41.189856+07:00"
+    },
+    {
+      "id": "a83d2231a1a0fcf59647b9527cfc5ed0",
+      "title": "Nhiều điểm du lịch 'thất thủ' ngày mùng 4 Tết",
+      "link": "https://vnexpress.net/nhieu-diem-du-lich-that-thu-ngay-mung-4-tet-5042537.html",
+      "summary": "Các điểm du lịch nổi tiếng ở Ninh Bình, Hà Giang, Phú Quốc đông nghịt người, có nơi phải tạm dừng bán vé cho khách vì quá tải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:29:42+07:00",
+      "fetched": "2026-02-20T23:26:47.263977+07:00"
+    },
+    {
+      "id": "fb8a89633da9c625c20ffb1f90a53706",
+      "title": "Nhiều người nghi ngộ độc sau khi ăn trứng cá rồng",
+      "link": "https://thanhnien.vn/nhieu-nguoi-nghi-ngo-doc-sau-khi-an-trung-ca-rong-185260220215225445.htm",
+      "summary": "2 trong số 11 người ăn trứng cá rồng có các triệu chứng nặng là đau bụng, buồn nôn, nôn, phải truyền dịch mới ổn định sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:28:00+07:00",
+      "fetched": "2026-02-20T23:26:50.738055+07:00"
+    },
+    {
+      "id": "52a96054ae8109f132eeb7feb9057f71",
+      "title": "Ôtô chở ba người rơi xuống vực",
+      "link": "https://vnexpress.net/oto-cho-ba-nguoi-roi-xuong-vuc-5042548.html",
+      "summary": "Sau va chạm, xe 4 chỗ rơi xuống vực sâu ở đường đèo ven biển qua xã Phước Dinh, khiến người phụ nữ chấn thương nặng, chiều mùng 4 Tết (20/2).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:21:34+07:00",
+      "fetched": "2026-02-20T23:26:47.264140+07:00"
+    },
+    {
+      "id": "de75afc70e4b4752295a22752ea2e0ef",
+      "title": "Bác sĩ 24/7: Có nên uống cà phê đặc hay paracetamol sau khi say rượu?",
+      "link": "https://thanhnien.vn/bac-si-24-7-co-nen-uong-ca-phe-dac-hay-paracetamol-sau-khi-say-ruou-185260220171659496.htm",
+      "summary": "'Tôi nghe nói sau khi say rượu nếu uống cà phê đặc hay paracetamol sẽ giúp tỉnh táo, đỡ đau đầu hơn. Xin hỏi bác sĩ điều này có đúng?'. (Quốc Anh, 33 tuổi, Đồng Nai).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:20:00+07:00",
+      "fetched": "2026-02-20T23:26:50.738208+07:00"
+    },
+    {
+      "id": "b54eabd322b1561c204aa7683d766440",
+      "title": "Cherry An Nhiên - diễn viên nhí triển vọng",
+      "link": "https://vnexpress.net/cherry-an-nhien-dien-vien-nhi-trien-vong-5042199.html",
+      "summary": "Cherry An Nhiên, 9 tuổi, đóng nhiều phim truyền hình như ''Gia đình trái dấu'', ''Đừng làm mẹ cáu'', được khen diễn xuất tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:00:00+07:00",
+      "fetched": "2026-02-20T23:26:47.264312+07:00"
+    },
+    {
+      "id": "0e2193aae3a84279c52ba4f064f1be86",
+      "title": "Ukraine kỳ vọng thu tỷ đô từ xuất khẩu vũ khí năm 2026",
+      "link": "https://vnexpress.net/ukraine-ky-vong-thu-ty-do-tu-xuat-khau-vu-khi-nam-2026-5042534.html",
+      "summary": "Quan chức Ukraine cho biết với loạt đơn hàng thiết bị và dịch vụ quân sự được phê duyệt xuất khẩu, ngành quốc phòng Ukraine dự kiến thu về vài tỷ USD năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T14:23:49+07:00",
+      "fetched": "2026-02-20T23:26:47.264467+07:00"
+    },
+    {
+      "id": "0e2193aae3a84279c52ba4f064f1be86",
+      "title": "Ukraine kỳ vọng thu tỷ đô từ xuất khẩu vũ khí năm 2026",
+      "link": "https://vnexpress.net/ukraine-ky-vong-thu-ty-do-tu-xuat-khau-vu-khi-nam-2026-5042534.html",
+      "summary": "Quan chức Ukraine cho biết với loạt đơn hàng thiết bị và dịch vụ quân sự được phê duyệt xuất khẩu, ngành quốc phòng Ukraine dự kiến thu về vài tỷ USD năm nay.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-20T14:23:49+07:00",
+      "fetched": "2026-02-20T23:26:54.043838+07:00"
     },
     {
       "id": "c55ef0cb06ee997549b0f051dd0b5f8a",
@@ -541,6 +741,16 @@ window.newsData_2026_02_20 = {
       "category": "Tổng hợp",
       "published": "2026-02-20T13:42:48.751955+07:00",
       "fetched": "2026-02-20T13:42:48.752229+07:00"
+    },
+    {
+      "id": "a361961fadbbcf08664b65fee468765a",
+      "title": "Nước nào ứng dụng robot vào sản xuất nhiều nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-ung-dung-robot-vao-san-xuat-nhieu-nhat-the-gioi-5042498.html",
+      "summary": "Số robot được đưa vào sử dụng tại các nhà máy ở đây nhiều hơn các nước khác cộng lại. Bạn có biết đó là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T13:35:47+07:00",
+      "fetched": "2026-02-20T23:26:47.264621+07:00"
     },
     {
       "id": "e468851dacfa1ca6472e2e5339d28005",
