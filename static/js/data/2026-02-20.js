@@ -1,7 +1,157 @@
 window.newsData_2026_02_20 = {
   "date": "2026-02-20",
-  "lastUpdated": "2026-02-20T17:28:18.721630+07:00",
+  "lastUpdated": "2026-02-20T19:36:14.742787+07:00",
   "articles": [
+    {
+      "id": "c939717cfed4fd2711c8fda180014ef5",
+      "title": "Cấp phép triển khai 4 trạm cổng đầu tiên của Starlink tại Việt Nam",
+      "link": "https://tuoitre.vn/cap-phep-trien-khai-4-tram-cong-dau-tien-cua-starlink-tai-viet-nam-2026022016175063.htm",
+      "summary": "Cục Tần số vô tuyến điện vừa cấp phép Công ty TNHH Starlink Services Việt Nam triển khai 4 trạm cổng (gateway) trên các băng tần E và Ka tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.543383+07:00",
+      "fetched": "2026-02-20T19:36:06.543495+07:00"
+    },
+    {
+      "id": "d6bddf0b3f24064cc39b9decfcd91c3c",
+      "title": "Phó thủ tướng Nguyễn Chí Dũng thăm, tặng quà Tết cho công nhân làm dự án đón APEC 2027 ở Phú Quốc",
+      "link": "https://tuoitre.vn/pho-thu-tuong-nguyen-chi-dung-tham-tang-qua-tet-cho-cong-nhan-lam-du-an-don-apec-2027-o-phu-quoc-2026022016294729.htm",
+      "summary": "Phó thủ tướng Nguyễn Chí Dũng cùng đoàn công tác đã đến thăm, tặng quà Tết cho công nhân làm siêu dự án phục vụ Diễn đàn Hợp tác kinh tế châu Á - Thái Bình Dương vào năm 2027 (APEC 2027).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.543256+07:00",
+      "fetched": "2026-02-20T19:36:06.543372+07:00"
+    },
+    {
+      "id": "2c4d3064877a1d26b4dc15026696e80b",
+      "title": "Trung Quốc ra mắt 'bác sĩ AI' đầu tiên biết giải thích, chẩn đoán bệnh hiếm",
+      "link": "https://tuoitre.vn/trung-quoc-ra-mat-bac-si-ai-dau-tien-biet-giai-thich-chan-doan-benh-hiem-2026022015061796.htm",
+      "summary": "Hệ thống AI do Bệnh viện Tân Hoa và Đại học Giao thông Thượng Hải phát triển có thể mô phỏng toàn bộ quy trình suy luận lâm sàng, đạt độ chính xác hơn 70% khi kết hợp dữ liệu gene.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.543134+07:00",
+      "fetched": "2026-02-20T19:36:06.543245+07:00"
+    },
+    {
+      "id": "a41d3957819f003983c01c24f6c2e6a3",
+      "title": "Hỏi lương dịp Tết: Người trẻ nói khác gì xăm xoi, người lớn bảo thói quen cửa miệng thôi mà!",
+      "link": "https://tuoitre.vn/hoi-luong-dip-tet-nguoi-tre-noi-khac-gi-xam-soi-nguoi-lon-bao-thoi-quen-cua-mieng-thoi-ma-2026022015014705.htm",
+      "summary": "“Lương tháng bao nhiêu rồi?”. Với nhiều bạn trẻ, câu hỏi này vô cùng nhạy cảm, cho rằng so bì, đố kỵ, không biết trả lời sao cho vừa lòng. Nhưng với thế hệ trước, đó là sự quan tâm, xã giao dịp Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.543010+07:00",
+      "fetched": "2026-02-20T19:36:06.543123+07:00"
+    },
+    {
+      "id": "43a68b4c7d38fe68f778bda81a43e575",
+      "title": "Những điểm đáng chú ý trong 50 phút phát biểu của ông Trump tại Hội đồng Hòa bình",
+      "link": "https://tuoitre.vn/nhung-diem-dang-chu-y-trong-50-phut-phat-bieu-cua-ong-trump-tai-hoi-dong-hoa-binh-20260220163659631.htm",
+      "summary": "Phát biểu gần 50 phút tại Hội đồng Hòa bình, ông Trump cam kết 10 tỉ USD cho Gaza, cảnh báo Hamas và để ngỏ kịch bản mạnh tay với Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.542865+07:00",
+      "fetched": "2026-02-20T19:36:06.542998+07:00"
+    },
+    {
+      "id": "dc95e1b5fb84c8789ecdafc07571394a",
+      "title": "Công trường sân vận động 60.000 chỗ, đủ điều kiện đăng cai các trận đấu World Cup ở Hưng Yên",
+      "link": "https://tuoitre.vn/cong-truong-san-van-dong-60-000-cho-du-dieu-kien-dang-cai-cac-tran-dau-world-cup-o-hung-yen-20260220154355554.htm",
+      "summary": "Khởi công vào tháng 10-2025, sân vận động PVF gây chú ý với mái vòm đóng mở trong 12 - 20 phút, công nghệ lần đầu có tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.542717+07:00",
+      "fetched": "2026-02-20T19:36:06.542839+07:00"
+    },
+    {
+      "id": "8925b613ca90d913ae1ecb1e14f70327",
+      "title": "Phủ xanh đảo tiền tiêu giữa trùng khơi gió mặn",
+      "link": "https://tuoitre.vn/phu-xanh-dao-tien-tieu-giua-trung-khoi-gio-man-2026022015103845.htm",
+      "summary": "Giữa biển trời Tây Nam, xuân trên đảo tiền tiêu Hòn Khoai thêm rực rỡ bởi màu xanh tăng gia, kết tinh từ lao động bền bỉ của cán bộ chiến sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.542592+07:00",
+      "fetched": "2026-02-20T19:36:06.542706+07:00"
+    },
+    {
+      "id": "52d8b20eebd5f8e0eb0bf7e412b0994d",
+      "title": "Phụ nữ đứng bếp 7 tiếng ngày Tết, chồng ngồi nhậu nhẹt: Ai chịu cho nổi?",
+      "link": "https://tuoitre.vn/phu-nu-dung-bep-7-tieng-ngay-tet-chong-ngoi-nhau-nhet-ai-chiu-cho-noi-20260220153530148.htm",
+      "summary": "Có gia đình đàn ông giành nhau rửa bát, có nhà phụ nữ vẫn “mặc định” ở gian bếp. Cùng một cái Tết nhưng điều khác biệt nằm ở sự phân công tự nguyện hay thiệt thòi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.542466+07:00",
+      "fetched": "2026-02-20T19:36:06.542580+07:00"
+    },
+    {
+      "id": "c76d81ee8dd2ff0fe132e0ac4e353a4f",
+      "title": "HLV Harry Kewell: 'Nghỉ Tết không ảnh hưởng đến phong độ cầu thủ'",
+      "link": "https://tuoitre.vn/hlv-harry-kewell-nghi-tet-khong-anh-huong-den-phong-do-cau-thu-20260220171511902.htm",
+      "summary": "HLV trưởng Harry Kewell của CLB Hà Nội gửi thông điệp tới người hâm mộ đội bóng thủ đô trước thềm  V-League 2025 - 2026 diễn ra trở lại sau Tết Bính Ngọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.542341+07:00",
+      "fetched": "2026-02-20T19:36:06.542454+07:00"
+    },
+    {
+      "id": "d61adfb08ec442e84471ffa21d165735",
+      "title": "Huyền thoại bóng đá Malaysia chỉ trích FAM: 'Đừng trốn tránh nữa'",
+      "link": "https://tuoitre.vn/huyen-thoai-bong-da-malaysia-chi-trich-fam-dung-tron-tranh-nua-20260220172643072.htm",
+      "summary": "Huyền thoại Jamal Nasir vô cùng tức giận trước thái độ im lặng của Liên đoàn Bóng đá Malaysia (FAM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.542215+07:00",
+      "fetched": "2026-02-20T19:36:06.542330+07:00"
+    },
+    {
+      "id": "fc901c6f09902d6373810227276f3877",
+      "title": "Tuyển Lào thuê thầy châu Âu về thay HLV Hàn",
+      "link": "https://tuoitre.vn/tuyen-lao-thue-thay-chau-au-ve-thay-hlv-han-20260220175812582.htm",
+      "summary": "Ngày 20-2, Liên đoàn Bóng đá Lào (LFF) chính thức công bố việc bổ nhiệm ông Vladica Grujic (người Serbia) làm tân HLV trưởng ĐTQG và đội U23, thay thế người tiền nhiệm Hàn Quốc Ha Hyeok Jun.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.542085+07:00",
+      "fetched": "2026-02-20T19:36:06.542203+07:00"
+    },
+    {
+      "id": "513258d75de2d624246c19092d7631ad",
+      "title": "Thủ tướng Nhật cảnh báo Trung Quốc ‘cưỡng ép’, tuyên bố cải tổ toàn diện quốc phòng",
+      "link": "https://tuoitre.vn/thu-tuong-nhat-canh-bao-trung-quoc-cuong-ep-tuyen-bo-cai-to-toan-dien-quoc-phong-20260220175204813.htm",
+      "summary": "Thủ tướng Nhật Bản cảnh báo Trung Quốc đang gia tăng hoạt động 'cưỡng ép', cam kết sẽ cải tổ chiến lược quốc phòng và quân sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.541951+07:00",
+      "fetched": "2026-02-20T19:36:06.542068+07:00"
+    },
+    {
+      "id": "e01c0cd3d1838237ecd25bbec824df93",
+      "title": "James Cameron cảnh báo thảm họa nếu Netflix thâu tóm Warner Bros.",
+      "link": "https://tuoitre.vn/james-cameron-canh-bao-tham-hoa-neu-netflix-thau-tom-warner-bros-20260220180843742.htm",
+      "summary": "James Cameron viết một bức thư về những hậu quả có thể xảy ra nếu Netflix thành công trong việc mua lại mảng studio và streaming của Warner Bros.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.541798+07:00",
+      "fetched": "2026-02-20T19:36:06.541938+07:00"
+    },
+    {
+      "id": "e04c5495ebd10c8231b86f512af6f5fd",
+      "title": "Mỹ để ngỏ khả năng dùng vũ lực với Iran, giá vàng bật tăng",
+      "link": "https://tuoitre.vn/my-de-ngo-kha-nang-dung-vu-luc-voi-iran-gia-vang-bat-tang-20260220183655613.htm",
+      "summary": "Giá vàng thế giới cuối ngày hôm nay 20-2 bật tăng thêm 38,3 USD/ounce vì căng thẳng địa chính trị tiếp tục gia tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.541659+07:00",
+      "fetched": "2026-02-20T19:36:06.541786+07:00"
+    },
+    {
+      "id": "a162343f8747cf01fd18af3e32416eae",
+      "title": "BlackPink là nhóm nhạc đầu tiên đạt 100 triệu người đăng ký trên YouTube",
+      "link": "https://tuoitre.vn/blackpink-la-nhom-nhac-dau-tien-dat-100-trieu-nguoi-dang-ky-tren-youtube-20260220183935625.htm",
+      "summary": "Khi đạt cột mốc 100 triệu người theo dõi trên Youtube, BlackPink sẽ nhận nút kim cương đỏ (Red Diamond Play Button) - phần thưởng chỉ dành cho những kênh đạt thành tích này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T19:36:06.541441+07:00",
+      "fetched": "2026-02-20T19:36:06.541644+07:00"
+    },
     {
       "id": "b11cc097acb8069f4e209de128485039",
       "title": "Danh sách 7 nữ ứng viên thế hệ '2K' ứng cử đại biểu Quốc hội khóa XVI",
@@ -303,6 +453,146 @@ window.newsData_2026_02_20 = {
       "fetched": "2026-02-20T13:42:48.752229+07:00"
     },
     {
+      "id": "838164df8f21d98ac8c8400b437a3800",
+      "title": "Đội tuyển Malaysia phải lên tiếng, điều gì đang xảy ra trước trận tái đấu Việt Nam?",
+      "link": "https://thanhnien.vn/doi-tuyen-malaysia-phai-len-tieng-dieu-gi-dang-xay-ra-truoc-tran-tai-dau-viet-nam-185260220183900534.htm",
+      "summary": "Trên New Straits Times, cựu danh thủ bóng đá Malaysia, Jamal Nasir kêu gọi ban quản lý đội tuyển nước này phải lên tiếng cho người hâm mộ biết được tình trạng hiện ra sao, trước trận đấu vòng loại Asian Cup 2027 với đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T12:17:00+07:00",
+      "fetched": "2026-02-20T19:36:05.403603+07:00"
+    },
+    {
+      "id": "03b3f682baaf20ed79d0eb4f8b299557",
+      "title": "Có 22.184 người trúng Vietlott tối mùng 4 tết, giải độc đắc cộng dồn 27,8 tỉ đồng",
+      "link": "https://thanhnien.vn/co-22184-nguoi-trung-vietlott-toi-mung-4-tet-giai-doc-dac-cong-don-278-ti-dong-185260220185145301.htm",
+      "summary": "Tối 20.2 tức mùng 4 tết, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không có người trúng giải độc đắc nào nên số tiền cộng dồn là 27,8 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T12:02:00+07:00",
+      "fetched": "2026-02-20T19:36:05.403777+07:00"
+    },
+    {
+      "id": "df3e56b7d2a1d26985344f461ccb7042",
+      "title": "Bảo Trúc sắp cưới lần ba",
+      "link": "https://vnexpress.net/bao-truc-sap-cuoi-lan-ba-5042532.html",
+      "summary": "Bảo Trúc, 40 tuổi, nhận lời cầu hôn của doanh nhân người Đức - Mike, 56 tuổi - sau ba tháng hẹn hò, sẽ làm đám cưới vào tháng 7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T12:00:09+07:00",
+      "fetched": "2026-02-20T19:36:02.128415+07:00"
+    },
+    {
+      "id": "d9a9506ae8e82f934300be777af2e410",
+      "title": "Quốc gia nào không miễn visa du lịch?",
+      "link": "https://vnexpress.net/quoc-gia-nao-khong-mien-visa-du-lich-5042378.html",
+      "summary": "Nhiều điểm đến trên thế giới có chính sách visa nghiêm ngặt, thậm chí không miễn visa cho bất kỳ nước nào khiến du khách buộc phải nộp đơn xin nếu muốn ghé thăm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T12:00:00+07:00",
+      "fetched": "2026-02-20T19:36:02.128597+07:00"
+    },
+    {
+      "id": "9e15ec55148d4f98e663bfb22dd1000a",
+      "title": "Tìm được hài cốt liệt sĩ sau hơn nửa thế kỷ nhờ xét nghiệm ADN",
+      "link": "https://vnexpress.net/tim-duoc-hai-cot-liet-si-sau-hon-nua-the-ky-nho-xet-nghiem-adn-5040455.html",
+      "summary": "Gia đình ông Nguyễn Tiến Minh sau 53 năm tìm kiếm trong vô vọng, nay đã xác định được phần mộ em trai, liệt sĩ Nguyễn Quốc Hội, nhờ xét nghiệm ADN.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T12:00:00+07:00",
+      "fetched": "2026-02-20T19:36:02.128767+07:00"
+    },
+    {
+      "id": "aac698470cec973e9d0fa8523a4006ab",
+      "title": "Ngồi yên xe nóng có ảnh hưởng tinh binh?",
+      "link": "https://vnexpress.net/ngoi-yen-xe-nong-co-anh-huong-tinh-binh-5041473.html",
+      "summary": "Có phải ngồi yên xe bị nóng sẽ ảnh hưởng chất lượng tinh trùng, khó có con không, thường chạy xe đường dài thì phòng thế nào? (Quốc Thịnh, 30 tuổi, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T12:00:00+07:00",
+      "fetched": "2026-02-20T19:36:02.128950+07:00"
+    },
+    {
+      "id": "1c25aef8304ee426db1b360d153dc1d0",
+      "title": "Vay ngân hàng trồng hoa tết thất bại: 'Mồ hôi, nước mắt rồi sẽ khô!'",
+      "link": "https://thanhnien.vn/hoa-tet-no-som-nguoi-trong-hoa-cho-lach-van-don-xuan-bang-nu-cuoi-185260213220118196.htm",
+      "summary": "Gác khoản nợ 110 triệu đồng vay ngân hàng làm vốn trồng hoa tết qua một bên, vợ chồng chị Thanh Thảo (ở xã Chợ Lách) tiếp tục lao động, vì 'mồ hôi, nước mắt rồi cũng sẽ khô'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T12:00:00+07:00",
+      "fetched": "2026-02-20T19:36:05.403957+07:00"
+    },
+    {
+      "id": "d455dda21228c1ad147159b88849ea2c",
+      "title": "Thói quen sạc đầy có thể rút ngắn tuổi thọ pin laptop",
+      "link": "https://thanhnien.vn/thoi-quen-sac-day-co-the-rut-ngan-tuoi-tho-pin-laptop-185260217182919062.htm",
+      "summary": "Việc thấy biểu tượng pin 100% sáng lên trên màn hình laptop có thể mang lại cảm giác hài lòng, giống như việc đổ đầy bình xăng trước một chuyến đi dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:52:00+07:00",
+      "fetched": "2026-02-20T19:36:05.404114+07:00"
+    },
+    {
+      "id": "a3a6c2ae48ce5636f4c853cfc69c2b01",
+      "title": "Cà Mau: Lập biên bản 4 quản trị viên nhóm Zalo báo chốt giao thông",
+      "link": "https://thanhnien.vn/ca-mau-lap-bien-ban-4-quan-tri-vien-nhom-zalo-bao-chot-giao-thong-185260220175331955.htm",
+      "summary": "Nhóm Zalo 'Giao Thông Hồng Dân' chuyên thông báo chốt giao thông, cập nhật vị trí làm nhiệm vụ của CSGT, vừa bị công an lập biên bản vi phạm hành chính đối với 4 quản trị viên, vận hành nhóm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:45:00+07:00",
+      "fetched": "2026-02-20T19:36:05.404264+07:00"
+    },
+    {
+      "id": "34ab09efe556013502849a3e1ef8424c",
+      "title": "Chiều mùng 4 tết, quốc lộ 1 đông nghẹt người dân từ miền Tây trở lại TP.HCM",
+      "link": "https://thanhnien.vn/chieu-mung-4-tet-quoc-lo-1-dong-nghet-nguoi-dan-tu-mien-tay-tro-lai-tphcm-185260220182908629.htm",
+      "summary": "Dù còn đến 2 ngày nghỉ Tết Bính Ngọ 2026 nhưng mới mùng 4 tết, người dân từ các tỉnh miền Tây đã ùn ùn trở lại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:40:00+07:00",
+      "fetched": "2026-02-20T19:36:05.404413+07:00"
+    },
+    {
+      "id": "d894a12caf3220e6efd6354a0e7f752b",
+      "title": "Đạo diễn Xuân Phước vui vì 'Tết này có em'",
+      "link": "https://thanhnien.vn/dao-dien-xuan-phuoc-vui-vi-tet-nay-co-em-185260220163420486.htm",
+      "summary": "Gặp đạo diễn Xuân Phước vào những ngày xuân thấy anh rất vui vì bộ phim 'Tết này có em' (22 tập, Hãng phim Xuân Phước sản xuất) đang chiếu trên THVL1 được người xem hào hứng đón nhận, lượt xem liên tục tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:30:00+07:00",
+      "fetched": "2026-02-20T19:36:05.404558+07:00"
+    },
+    {
+      "id": "845ba263f83106cec0e78ccf31e6e9c3",
+      "title": "13 người nhập viện sau khi ăn trứng cá rồng",
+      "link": "https://vnexpress.net/13-nguoi-nhap-vien-sau-khi-an-trung-ca-rong-5042496.html",
+      "summary": "Sau bữa ăn có món trứng cá rồng, 13 người xuất hiện triệu chứng đau bụng, nôn ói, tiêu chảy, phải cấp cứu tại Bệnh viện Đa khoa khu vực Ngọc Lặc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:20:13+07:00",
+      "fetched": "2026-02-20T19:36:02.129059+07:00"
+    },
+    {
+      "id": "a3b6f30d871ad62ecb05560f32d62d16",
+      "title": "Ukraine tuyên bố phá âm mưu ám sát loạt quan chức cấp cao",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-pha-am-muu-am-sat-loat-quan-chuc-cap-cao-5042517.html",
+      "summary": "Ukraine thông báo đã phối hợp với Moldova phá âm mưu ám sát các quan chức cấp cao của Kiev, bắt giữ 10 nghi phạm tại hai nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:10:16+07:00",
+      "fetched": "2026-02-20T19:36:02.129215+07:00"
+    },
+    {
+      "id": "a3b6f30d871ad62ecb05560f32d62d16",
+      "title": "Ukraine tuyên bố phá âm mưu ám sát loạt quan chức cấp cao",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-pha-am-muu-am-sat-loat-quan-chuc-cap-cao-5042517.html",
+      "summary": "Ukraine thông báo đã phối hợp với Moldova phá âm mưu ám sát các quan chức cấp cao của Kiev, bắt giữ 10 nghi phạm tại hai nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-20T11:10:16+07:00",
+      "fetched": "2026-02-20T19:36:08.567579+07:00"
+    },
+    {
       "id": "cf5213c27c987b9a5aa3eadae2e9b166",
       "title": "Tính nhân đạo của Tết",
       "link": "https://tuoitre.vn/tinh-nhan-dao-cua-tet-20260219232722683.htm",
@@ -451,6 +741,116 @@ window.newsData_2026_02_20 = {
       "category": "Tổng hợp",
       "published": "2026-02-20T11:06:11.269026+07:00",
       "fetched": "2026-02-20T11:06:11.269247+07:00"
+    },
+    {
+      "id": "b5ddd07e13ca354f5e3127052bc38983",
+      "title": "Khi nghịch cảnh là một món quà",
+      "link": "https://vnexpress.net/khi-nghich-canh-la-mot-mon-qua-5040345.html",
+      "summary": "Câu nói khiến tôi nhớ nhất trong sách ''Nghịch cảnh là một món quà'': ''Những việc khó khăn mang lại sự may mắn - bởi chúng biến giấc mơ thành hiện thực''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:04:37+07:00",
+      "fetched": "2026-02-20T19:36:02.129380+07:00"
+    },
+    {
+      "id": "1be0cd3b118f0b202a40637984b75f9b",
+      "title": "Mỹ nhân 'Bạn trai tôi là hồ ly' sinh con trai",
+      "link": "https://vnexpress.net/my-nhan-ban-trai-toi-la-ho-ly-sinh-con-trai-5042508.html",
+      "summary": "Diễn viên Jo Bo Ah, 35 tuổi, đóng chính phim \"Bạn trai tôi là hồ ly\" thông báo sinh con trai ngày 20/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:02:39+07:00",
+      "fetched": "2026-02-20T19:36:02.129534+07:00"
+    },
+    {
+      "id": "85571a60493323bb68c5e653bf21f216",
+      "title": "Nhà hảo tâm bí ẩn tặng 21 kg vàng để TP.Osaka sửa ống nước",
+      "link": "https://thanhnien.vn/nha-hao-tam-bi-an-tang-21-kg-vang-de-tposaka-sua-ong-nuoc-185260220175820988.htm",
+      "summary": "Một nhà hảo tâm ẩn danh tại Nhật Bản đã tặng nhiều thỏi vàng cho chính quyền Osaka để sửa chữa hệ thống đường ống nước của thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T11:01:00+07:00",
+      "fetched": "2026-02-20T19:36:05.404709+07:00"
+    },
+    {
+      "id": "7dea7102b215d872fbec2fc1fc91e5d6",
+      "title": "Thủ tướng: Khánh thành cao tốc Đồng Đăng - Trà Lĩnh vào 30/4",
+      "link": "https://vnexpress.net/thu-tuong-khanh-thanh-cao-toc-dong-dang-tra-linh-vao-30-4-5042491.html",
+      "summary": "Thủ tướng yêu cầu các đơn vị thi công nỗ lực cao nhất, tăng tốc để khánh thành cao tốc Đồng Đăng - Trà Lĩnh vào dịp 30/4, chào mừng 51 năm ngày thống nhất đất nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T10:48:56+07:00",
+      "fetched": "2026-02-20T19:36:02.129691+07:00"
+    },
+    {
+      "id": "6037988f04f9807eeef6b0eb162f1d62",
+      "title": "Hà Giang tắc cứng, nhiều khách bỏ cuộc ra về",
+      "link": "https://vnexpress.net/ha-giang-tac-cung-nhieu-khach-bo-cuoc-ra-ve-5042499.html",
+      "summary": "Du khách đổ về các điểm nóng như dốc Thẩm Mã, đèo Mã Pì Lèng khiến giao thông tê liệt, nhiều người chấp nhận bán lại phòng để ra về.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T10:44:56+07:00",
+      "fetched": "2026-02-20T19:36:02.129862+07:00"
+    },
+    {
+      "id": "4d98640ae3fdcfb0d628f883bfbf559a",
+      "title": "Tỷ phú Mark Cuban nói về hai kiểu người dùng AI",
+      "link": "https://vnexpress.net/ty-phu-mark-cuban-noi-ve-hai-kieu-nguoi-dung-ai-5042504.html",
+      "summary": "Theo tỷ phú Mark Cuban, \"có hai loại người dùng các mô hình ngôn ngữ lớn (LLM), là nhóm dùng để học mọi thứ và nhóm còn lại dùng để không phải học gì nữa\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T10:40:46+07:00",
+      "fetched": "2026-02-20T19:36:02.130031+07:00"
+    },
+    {
+      "id": "4d98640ae3fdcfb0d628f883bfbf559a",
+      "title": "Tỷ phú Mark Cuban nói về hai kiểu người dùng AI",
+      "link": "https://vnexpress.net/ty-phu-mark-cuban-noi-ve-hai-kieu-nguoi-dung-ai-5042504.html",
+      "summary": "Theo tỷ phú Mark Cuban, \"có hai loại người dùng các mô hình ngôn ngữ lớn (LLM), là nhóm dùng để học mọi thứ và nhóm còn lại dùng để không phải học gì nữa\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-20T10:40:46+07:00",
+      "fetched": "2026-02-20T19:36:12.913092+07:00"
+    },
+    {
+      "id": "7f3c2e87f7059400da5c19ae013e881d",
+      "title": "Tìm thấy thi thể hai ông cháu bị lật đò",
+      "link": "https://vnexpress.net/tim-thay-thi-the-hai-ong-chau-bi-lat-do-5042494.html",
+      "summary": "Thi thể cháu Nguyễn Diễm Chinh, 14 tuổi và ông Nguyễn Văn Tâm, 68 tuổi, bị lật đò trên sông Gianh được tìm thấy sau một ngày mất tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T10:35:27+07:00",
+      "fetched": "2026-02-20T19:36:02.130188+07:00"
+    },
+    {
+      "id": "6796ac165dc634ff9298148feadc7616",
+      "title": "CSGT TP.HCM xử phạt hơn 1.700 trường hợp vi phạm nồng độ cồn trong 3 ngày tết",
+      "link": "https://thanhnien.vn/csgt-tphcm-xu-phat-hon-1700-truong-hop-vi-pham-nong-do-con-trong-3-ngay-tet-185260220171753669.htm",
+      "summary": "Trong 3 ngày đầu năm mới Bính Ngọ 2026, CSGT TP.HCM đã phát hiện và xử phạt hơn 1.700 trường hợp vi phạm nồng độ cồn khi tham gia giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T10:33:00+07:00",
+      "fetched": "2026-02-20T19:36:05.404883+07:00"
+    },
+    {
+      "id": "8a124c633a83bbe36a5e3dd99476631a",
+      "title": "'Thiên thần băng' gốc Trung Quốc đem về HC vàng cho Mỹ",
+      "link": "https://vnexpress.net/thien-than-bang-goc-trung-quoc-dem-ve-hc-vang-cho-my-5042497.html",
+      "summary": "Nữ VĐV 20 tuổi Alysa Liu trở thành đại diện Mỹ đầu tiên sau 24 năm giành HC vàng trượt băng nghệ thuật đơn nữ tại Olympic mùa Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T10:29:34+07:00",
+      "fetched": "2026-02-20T19:36:02.130338+07:00"
+    },
+    {
+      "id": "8a124c633a83bbe36a5e3dd99476631a",
+      "title": "'Thiên thần băng' gốc Trung Quốc đem về HC vàng cho Mỹ",
+      "link": "https://vnexpress.net/thien-than-bang-goc-trung-quoc-dem-ve-hc-vang-cho-my-5042497.html",
+      "summary": "Nữ VĐV 20 tuổi Alysa Liu trở thành đại diện Mỹ đầu tiên sau 24 năm giành HC vàng trượt băng nghệ thuật đơn nữ tại Olympic mùa Đông.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-20T10:29:34+07:00",
+      "fetched": "2026-02-20T19:36:14.733067+07:00"
     },
     {
       "id": "075234832e4821c4210faac139d8cff3",
