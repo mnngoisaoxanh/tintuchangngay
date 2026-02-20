@@ -1,6 +1,6 @@
 window.newsData_2026_02_21 = {
   "date": "2026-02-21",
-  "lastUpdated": "2026-02-21T01:33:40.144465+07:00",
+  "lastUpdated": "2026-02-21T03:20:20.461206+07:00",
   "articles": [
     {
       "id": "5c533ce89e652321991ff6cb6a9336ff",
@@ -151,6 +151,26 @@ window.newsData_2026_02_21 = {
       "category": "Tổng hợp",
       "published": "2026-02-21T01:33:33.536365+07:00",
       "fetched": "2026-02-21T01:33:33.536598+07:00"
+    },
+    {
+      "id": "c889260534882e4199c138fbcae2bdac",
+      "title": "Ông Trump: Sẽ áp thêm 10% thuế nhập khẩu sau phán quyết của Tòa Tối cao",
+      "link": "https://vnexpress.net/ong-trump-se-ap-them-10-thue-nhap-khau-sau-phan-quyet-cua-toa-toi-cao-5042573.html",
+      "summary": "Tổng thống Donald Trump cho biết sẽ có phương án thuế quan thay thế, trong đó áp thêm 10% vào mức đang áp dụng, sau phán quyết của Tòa án Tối cao Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T18:57:58+07:00",
+      "fetched": "2026-02-21T03:20:08.609399+07:00"
+    },
+    {
+      "id": "c889260534882e4199c138fbcae2bdac",
+      "title": "Ông Trump: Sẽ áp thêm 10% thuế nhập khẩu sau phán quyết của Tòa Tối cao",
+      "link": "https://vnexpress.net/ong-trump-se-ap-them-10-thue-nhap-khau-sau-phan-quyet-cua-toa-toi-cao-5042573.html",
+      "summary": "Tổng thống Donald Trump cho biết sẽ có phương án thuế quan thay thế, trong đó áp thêm 10% vào mức đang áp dụng, sau phán quyết của Tòa án Tối cao Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-20T18:57:58+07:00",
+      "fetched": "2026-02-21T03:20:15.865507+07:00"
     },
     {
       "id": "e16ab0a40db9653b149f8d56ac7d6186",
@@ -941,6 +961,16 @@ window.newsData_2026_02_21 = {
       "category": "Thế giới",
       "published": "2026-02-19T17:04:58+07:00",
       "fetched": "2026-02-21T01:33:34.571333+07:00"
+    },
+    {
+      "id": "9d7dde42a5d753b41b8dc322c2a1c094",
+      "title": "Hạn chế ăn thịt bò, bỏ xe xăng giúp giảm khí thải thế nào?",
+      "link": "https://vnexpress.net/han-che-an-thit-bo-bo-xe-xang-giup-giam-khi-thai-the-nao-5041632.html",
+      "summary": "Nếu 10% người Mỹ chuyển một bữa thịt bò mỗi tuần sang gà trong một năm, lượng khí thải giảm được tương đương 1,3 triệu ôtô chạy xăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-19T17:01:00+07:00",
+      "fetched": "2026-02-21T03:20:15.867879+07:00"
     },
     {
       "id": "e61cfc4734ff8dfd2e2eee2ad6a0f78c",
