@@ -1,7 +1,37 @@
 window.newsData_2026_02_20 = {
   "date": "2026-02-20",
-  "lastUpdated": "2026-02-20T05:21:41.213718+07:00",
+  "lastUpdated": "2026-02-20T08:12:30.913509+07:00",
   "articles": [
+    {
+      "id": "739e5c582b66d9d576182d07cc8bb425",
+      "title": "Thời tiết hôm nay 20-2: Miền Bắc lạnh, miền Nam nắng nóng oi bức",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-20-2-mien-bac-lanh-mien-nam-nang-nong-oi-buc-20260219172233571.htm",
+      "summary": "Hai kiểu thời tiết trái ngược nhau ở hai miền Bắc Nam hôm nay 20-2, nơi lạnh nơi nắng nóng oi bức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T08:12:22.486235+07:00",
+      "fetched": "2026-02-20T08:12:22.486356+07:00"
+    },
+    {
+      "id": "0329525049ad476c9710cc59a35bd6d1",
+      "title": "Tin tức thế giới 20-2: Triều Tiên khai mạc Đại hội Đảng; Mỹ  ra tối hậu thư '10-15 ngày' với Iran",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-20-2-trieu-tien-khai-mac-dai-hoi-dang-my-ra-toi-hau-thu-10-15-ngay-voi-iran-20260220062600469.htm",
+      "summary": "Ông Trump đặt thời hạn cho Iran đạt thỏa thuận hạt nhân trước khi tấn công; Tổng thống lâm thời Peru vừa nhậm chức đã bị chỉ trích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T08:12:22.486087+07:00",
+      "fetched": "2026-02-20T08:12:22.486222+07:00"
+    },
+    {
+      "id": "2ddf800bd7e25ae03e218be96e4bdac0",
+      "title": "Tổng Bí thư Tô Lâm tham dự cuộc họp khai mạc Hội đồng Hòa bình về Dải Gaza",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-tham-du-cuoc-hop-khai-mac-hoi-dong-hoa-binh-ve-dai-gaza-20260220065010525.htm",
+      "summary": "Nhận lời mời của Tổng thống Mỹ Donald Trump, Tổng Bí thư Tô Lâm đã tham dự cuộc họp khai mạc Hội đồng Hòa bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T08:12:22.485840+07:00",
+      "fetched": "2026-02-20T08:12:22.486070+07:00"
+    },
     {
       "id": "8e20d9577ab383c82e6156657fc4bc5e",
       "title": "Tập đoàn sở hữu thương hiệu Conan sáp nhập studio đứng sau Blue Lock, Tower of God",
@@ -151,6 +181,386 @@ window.newsData_2026_02_20 = {
       "category": "Tổng hợp",
       "published": "2026-02-20T01:39:24.506848+07:00",
       "fetched": "2026-02-20T01:39:24.507059+07:00"
+    },
+    {
+      "id": "e63054618a11ee01bd037d43c83869e8",
+      "title": "Ông Trump tố cáo ông Obama tiết lộ thông tin mật về người ngoài hành tinh",
+      "link": "https://thanhnien.vn/ong-trump-to-cao-ong-obama-tiet-lo-thong-tin-mat-ve-nguoi-ngoai-hanh-tinh-185260220074254105.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cáo buộc người tiền nhiệm Barack Obama đã tiết lộ thông tin mật trong những phát biểu lan truyền mạnh trên mạng gần đây về sự tồn tại của người ngoài hành tinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T01:02:00+07:00",
+      "fetched": "2026-02-20T08:12:21.364909+07:00"
+    },
+    {
+      "id": "55eb6f205cce16750a104e791072fecf",
+      "title": "Sắp xét xử vụ chủ cơ sở thẩm mỹ đánh ghen, bắt giữ người trái pháp luật",
+      "link": "https://thanhnien.vn/sap-xet-xu-vu-chu-co-so-tham-my-danh-ghen-bat-giu-nguoi-trai-phap-luat-185260220062603617.htm",
+      "summary": "Vụ án chủ cơ sở thẩm mỹ ở Cà Mau cùng người cháu đánh ghen sắp được đưa ra xét xử về các tội cố ý gây thương tích; bắt, giữ người trái pháp luật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T01:00:00+07:00",
+      "fetched": "2026-02-20T08:12:21.365094+07:00"
+    },
+    {
+      "id": "b9e531ba0100c3f0ad62d46c07d07382",
+      "title": "Ngày vía Thần Tài mở app VCB Digibank, cơ hội nhận tới 10 chỉ vàng",
+      "link": "https://thanhnien.vn/ngay-via-than-tai-mo-app-vcb-digibank-co-hoi-nhan-toi-10-chi-vang-185260219143353883.htm",
+      "summary": "Từ ngày nay đến hết ngày 28.2.2026, Vietcombank triển khai chương trình 'Tết có Digi - Tết cực vui', mang đến hàng ngàn voucher giảm giá, tiền lì xì cùng cơ hội sở hữu 10 chỉ vàng cho khách hàng thực hiện giao dịch trên VCB Digibank.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T01:00:00+07:00",
+      "fetched": "2026-02-20T08:12:21.365258+07:00"
+    },
+    {
+      "id": "40050063ee42f679710c1fb24dcd7426",
+      "title": "Váy tầng, dịu dàng cho những ngày đầu xuân năm mới",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-tang-diu-dang-cho-nhung-ngay-dau-xuan-nam-moi-185260214154541182.htm",
+      "summary": "Những chiếc váy tầng, dù xuất hiện dưới hình thức liền thân hay phối rời, vẫn luôn là lựa chọn được ưu ái trong những ngày đầu xuân năm mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T01:00:00+07:00",
+      "fetched": "2026-02-20T08:12:21.365410+07:00"
+    },
+    {
+      "id": "b343edb9515d61c0858cd28cc950cc5f",
+      "title": "Thông điệp của Trung Quốc qua màn múa robot chào năm mới",
+      "link": "https://vnexpress.net/thong-diep-cua-trung-quoc-qua-man-mua-robot-chao-nam-moi-5042260.html",
+      "summary": "Giới chuyên gia đánh giá Trung Quốc đang gửi đi thông điệp về sự tiên phong công nghệ robot hình người sau màn biểu diễn gây sốt tại sự kiện Xuân Vãn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-20T01:00:00+07:00",
+      "fetched": "2026-02-20T08:12:28.763008+07:00"
+    },
+    {
+      "id": "690ad66c96648c88324c407b8b4d7735",
+      "title": "Mùng 4 tết, giá vàng tăng 300.000 đồng một lượng",
+      "link": "https://thanhnien.vn/mung-4-tet-gia-vang-tang-300000-dong-mot-luong-185260220071134165.htm",
+      "summary": "Giá vàng thế giới và trong nước tiếp tục tăng khi nhà đầu tư vẫn nắm giữ tài sản an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:53:00+07:00",
+      "fetched": "2026-02-20T08:12:21.365561+07:00"
+    },
+    {
+      "id": "9ddcf859b9b80efac5f1c9cf2e6b0127",
+      "title": "TP.HCM điều chỉnh quy hoạch khu Thủ Thiêm làm Trung tâm chính trị - hành chính",
+      "link": "https://thanhnien.vn/tphcm-dieu-chinh-quy-hoach-khu-thu-thiem-lam-trung-tam-chinh-tri-hanh-chinh-18526021922484959.htm",
+      "summary": "Khu đô thị mới Thủ Thiêm sẽ được điều chỉnh quy hoạch một số khu vực để xây dựng Trung tâm chính trị - hành chính, sắp xếp lại các công trình nhằm tối ưu hóa công năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:50:00+07:00",
+      "fetched": "2026-02-20T08:12:21.365711+07:00"
+    },
+    {
+      "id": "a2a57147bbcadc67182131dd8e62a551",
+      "title": "Đừng để sau tết là xuống sức: 3 thói quen cần dừng ngay",
+      "link": "https://thanhnien.vn/dung-de-sau-tet-la-xuong-suc-3-thoi-quen-can-dung-ngay-185260214161741577.htm",
+      "summary": "Trong những ngày tết, nhiều người có thói quen 'xả láng' - ăn thỏa thích, ngủ thoải mái, tiệc tùng liên miên. Từ thực tế đó, không ít người lại cảm thấy mệt mỏi, kiệt sức, thậm chí phải nhập viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:48:00+07:00",
+      "fetched": "2026-02-20T08:12:21.365860+07:00"
+    },
+    {
+      "id": "fa89f9c0f6580e67be70309d5dea6861",
+      "title": "Vụ học sinh lớp 5 ở Cà Mau nghi bị bạo hành: Chưa đủ tuổi xử lý",
+      "link": "https://thanhnien.vn/vu-hoc-sinh-lop-5-o-ca-mau-nghi-bi-bao-hanh-chua-du-tuoi-xu-ly-185260219233535395.htm",
+      "summary": "Trong 6 ngày, một học sinh lớp 5 ở xã Đá Bạc (Cà Mau) 3 lần bị chị họ dùng dao rọc giấy bạo hành, rạch vào tay, chân và lưng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:41:00+07:00",
+      "fetched": "2026-02-20T08:12:21.366006+07:00"
+    },
+    {
+      "id": "44c0c7005a26a9e8a68bbd5c927671c1",
+      "title": "Alcaraz nổi giận với trọng tài ở Qatar Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-noi-gian-voi-trong-tai-o-qatar-mo-rong-5042402.html",
+      "summary": "Tay vợt số một thế giới Carlos Alcaraz phản ứng mạnh với trọng tài, khi bị bắt lỗi thời gian trong trận thắng Karen Khachanov 6-7(3), 6-4, 6-3 ở tứ kết giải ATP 500 tại Doha.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-20T00:39:21+07:00",
+      "fetched": "2026-02-20T08:12:30.909002+07:00"
+    },
+    {
+      "id": "b6d97f184fdd9f1fffbdb829df6210a8",
+      "title": "Ông Trump: Iran có 15 ngày để thương thảo",
+      "link": "https://vnexpress.net/ong-trump-iran-co-15-ngay-de-thuong-thao-5042401.html",
+      "summary": "Tổng thống Mỹ cảnh báo Iran cần đạt thỏa thuận về chương trình hạt nhân trong 10-15 ngày, nếu không sẽ phải đối mặt với \"những điều tồi tệ\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-20T00:37:13+07:00",
+      "fetched": "2026-02-20T08:12:24.365597+07:00"
+    },
+    {
+      "id": "ff2780522f5f600c4c546ef33ec11d99",
+      "title": "Galaxy S26 Ultra nhái xuất hiện trước giờ G, giá chỉ 72 USD",
+      "link": "https://thanhnien.vn/galaxy-s26-ultra-nhai-xuat-hien-truoc-gio-g-gia-chi-72-usd-185260219231115923.htm",
+      "summary": "Sự háo hức xung quanh dòng Galaxy S26 đang lên đến đỉnh điểm khi sản phẩm dự kiến sẽ chính thức ra mắt vào tuần tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:36:00+07:00",
+      "fetched": "2026-02-20T08:12:21.366182+07:00"
+    },
+    {
+      "id": "adc31638caf8ad87541e638bb6a38954",
+      "title": "Em trai Vua Anh được thả, ông Trump lên tiếng",
+      "link": "https://thanhnien.vn/em-trai-vua-anh-duoc-tha-ong-trump-len-tieng-185260220071625464.htm",
+      "summary": "Cảnh sát Anh ngày 19.2 cho biết ông Andrew Mountbatten-Windsor đã được thả tự do song vẫn nằm trong diện điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:35:00+07:00",
+      "fetched": "2026-02-20T08:12:21.366331+07:00"
+    },
+    {
+      "id": "8ebd8aef76c4f4efc7aaab2326f3d6c6",
+      "title": "Lực lượng Mỹ sẵn sàng đội hình tấn công, Nhà Trắng ra tối hậu thư cho Iran",
+      "link": "https://thanhnien.vn/luc-luong-my-san-sang-doi-hinh-tan-cong-nha-trang-ra-toi-hau-thu-cho-iran-185260220072236811.htm",
+      "summary": "Truyền thông Mỹ loan tin rằng Tổng thống Donald Trump có thể ra lệnh thực hiện một cuộc tấn công hạn chế nhằm ép Iran chấp nhận thỏa thuận hạt nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:34:00+07:00",
+      "fetched": "2026-02-20T08:12:21.366485+07:00"
+    },
+    {
+      "id": "20d94af461be3270dfbda7564ef03007",
+      "title": "Diễn viên Lê Phương: Thu nhập của chồng đủ lo cả gia đình",
+      "link": "https://thanhnien.vn/dien-vien-le-phuong-thu-nhap-cua-chong-du-lo-ca-gia-dinh-185260220002219157.htm",
+      "summary": "Sau một năm 2025 ghi dấu sự chuyển biến trong hình ảnh trên màn ảnh, Lê Phương có những chia sẻ thẳng thắn về hành trình làm mới bản thân sau nhiều năm gắn với các vai diễn hiền lành, cam chịu. Bên cạnh đó, nữ diễn viên cũng chia sẻ cách vun vén tổ ấm và quan điểm về kinh tế trong gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:31:00+07:00",
+      "fetched": "2026-02-20T08:12:21.366638+07:00"
+    },
+    {
+      "id": "a0e125715891229e2cfc7d7a66487ec6",
+      "title": "Chưa hết kỳ nghỉ Tết Bính Ngọ, dân mạng 'hóng' Tết Đinh Mùi 2027: Có gì đặc biệt?",
+      "link": "https://thanhnien.vn/chua-het-ky-nghi-tet-binh-ngo-dan-mang-hong-tet-dinh-mui-2027-co-gi-dac-biet-185260219084606397.htm",
+      "summary": "Hôm nay mùng 4 tết, vẫn còn đang trong kỳ nghỉ Tết Nguyên đán Bính Ngọ 2026, mạng xã hội đang rần rần chia sẻ về ngày Tết Nguyên đán Đinh Mùi 2027. Theo lịch âm, lịch vạn niên, ngày này có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:30:00+07:00",
+      "fetched": "2026-02-20T08:12:21.366784+07:00"
+    },
+    {
+      "id": "0ae9e6672fa4a831e3df9053ae92739a",
+      "title": "Đậm đà món Việt 'mẹ nấu' ở Kenya",
+      "link": "https://thanhnien.vn/dam-da-mon-viet-me-nau-o-kenya-185260130203723614.htm",
+      "summary": "Tôi đi hơn trăm quốc gia, thưởng thức nhiều ẩm thực địa phương, mới biết không gì ngon hơn cơm trắng quê nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:29:00+07:00",
+      "fetched": "2026-02-20T08:12:21.366927+07:00"
+    },
+    {
+      "id": "800ff87e4dea9eb069537acc76bce247",
+      "title": "Tết không chỉ là nơi mình ở, mà là nơi mình thuộc về",
+      "link": "https://thanhnien.vn/tet-khong-chi-la-noi-minh-o-ma-la-noi-minh-thuoc-ve-18526021922493079.htm",
+      "summary": "'Năm nay con sẽ ăn tết ở Melbourne', tôi nói chắc nịch với ba khi ba lại trêu rằng liệu tôi có 'khăn gói' về Việt Nam lần thứ ba trong năm hay không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:26:00+07:00",
+      "fetched": "2026-02-20T08:12:21.367095+07:00"
+    },
+    {
+      "id": "c6c4cd03b2abc56fafa1afb2f10f3281",
+      "title": "Wolves mỉa mai Arsenal câu giờ rồi rơi điểm",
+      "link": "https://vnexpress.net/wolves-mia-mai-arsenal-cau-gio-roi-roi-diem-5042385.html",
+      "summary": "Việc đánh rơi chiến thắng phút bù trước bét bảng Wolverhampton ở trận sớm vòng 31 Ngoại hạng Anh biến Arsenal thành tâm điểm chế giễu trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:07:57+07:00",
+      "fetched": "2026-02-20T08:12:18.019695+07:00"
+    },
+    {
+      "id": "c6c4cd03b2abc56fafa1afb2f10f3281",
+      "title": "Wolves mỉa mai Arsenal câu giờ rồi rơi điểm",
+      "link": "https://vnexpress.net/wolves-mia-mai-arsenal-cau-gio-roi-roi-diem-5042385.html",
+      "summary": "Việc đánh rơi chiến thắng phút bù trước bét bảng Wolverhampton ở trận sớm vòng 31 Ngoại hạng Anh biến Arsenal thành tâm điểm chế giễu trên mạng xã hội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-20T00:07:57+07:00",
+      "fetched": "2026-02-20T08:12:30.908185+07:00"
+    },
+    {
+      "id": "d7efdf3409aa1bd714d8e7a1af29d8cb",
+      "title": "HLV Fabregas bị mắng là 'đồ trẻ con'",
+      "link": "https://vnexpress.net/hlv-fabregas-bi-mang-la-do-tre-con-5042376.html",
+      "summary": "HLV Max Allegri chỉ trích đồng nghiệp Cesc Fabregas vì kéo áo cầu thủ giữa trận Milan hòa Como 1-1 ở vòng 24 Serie A.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:01:00+07:00",
+      "fetched": "2026-02-20T08:12:18.019873+07:00"
+    },
+    {
+      "id": "d7efdf3409aa1bd714d8e7a1af29d8cb",
+      "title": "HLV Fabregas bị mắng là 'đồ trẻ con'",
+      "link": "https://vnexpress.net/hlv-fabregas-bi-mang-la-do-tre-con-5042376.html",
+      "summary": "HLV Max Allegri chỉ trích đồng nghiệp Cesc Fabregas vì kéo áo cầu thủ giữa trận Milan hòa Como 1-1 ở vòng 24 Serie A.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-20T00:01:00+07:00",
+      "fetched": "2026-02-20T08:12:30.908524+07:00"
+    },
+    {
+      "id": "653a445c2557a70e6953bc2b878f48b4",
+      "title": "Một năm tiền ảo Pi mở mạng: Giá giảm 95%, niềm tin đi xuống",
+      "link": "https://vnexpress.net/mot-nam-tien-ao-pi-mo-mang-gia-giam-95-niem-tin-di-xuong-5042123.html",
+      "summary": "Pi Network được đánh giá hoạt động không như kỳ vọng sau giai đoạn mở mạng Open Network, thiếu hợp đồng thông minh, giá giảm 95% so với đỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:00:00+07:00",
+      "fetched": "2026-02-20T08:12:18.020035+07:00"
+    },
+    {
+      "id": "9442fe5b52c4ec7cfa0d11ebbe5dcb43",
+      "title": "Cuộc cách mạng AI của tuyển Anh trước World Cup 2026",
+      "link": "https://vnexpress.net/cuoc-cach-mang-ai-cua-tuyen-anh-truoc-world-cup-2026-5042291.html",
+      "summary": "Từ việc hoàn thiện kỹ năng đá phạt, nâng cao thể trạng cầu thủ, cho đến phân tích điểm yếu chiến thuật của đối thủ, AI đang đóng vai trò quan trọng trong kế hoạch chinh phục World Cup 2026 của tuyển Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:00:00+07:00",
+      "fetched": "2026-02-20T08:12:18.020239+07:00"
+    },
+    {
+      "id": "619b3b2119e795821dbaad4d84536908",
+      "title": "Mua ôtô ở Mỹ dần trở thành việc xa xỉ",
+      "link": "https://vnexpress.net/mua-oto-o-my-dan-tro-thanh-viec-xa-xi-5042213.html",
+      "summary": "Mua xe mới tại Mỹ giờ đây khiến nhiều người cân nhắc kỹ vì giá leo thang, trong khi khoản vay mua xe ngày càng lớn và kéo dài hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:00:00+07:00",
+      "fetched": "2026-02-20T08:12:18.020403+07:00"
+    },
+    {
+      "id": "a8c7062b42b89ede0ecefb055dd3e719",
+      "title": "Ăn gì nhanh hồi phục sau phẫu thuật?",
+      "link": "https://vnexpress.net/an-gi-nhanh-hoi-phuc-sau-phau-thuat-5041536.html",
+      "summary": "Bữa ăn ngày Tết của người vừa phẫu thuật nên bổ sung protein, 100-200 g vitamin C mỗi ngày, thêm lợi khuẩn, chất béo lành mạnh để nhanh lành vết thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T00:00:00+07:00",
+      "fetched": "2026-02-20T08:12:18.020568+07:00"
+    },
+    {
+      "id": "653a445c2557a70e6953bc2b878f48b4",
+      "title": "Một năm tiền ảo Pi mở mạng: Giá giảm 95%, niềm tin đi xuống",
+      "link": "https://vnexpress.net/mot-nam-tien-ao-pi-mo-mang-gia-giam-95-niem-tin-di-xuong-5042123.html",
+      "summary": "Pi Network được đánh giá hoạt động không như kỳ vọng sau giai đoạn mở mạng Open Network, thiếu hợp đồng thông minh, giá giảm 95% so với đỉnh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-20T00:00:00+07:00",
+      "fetched": "2026-02-20T08:12:28.763206+07:00"
+    },
+    {
+      "id": "9442fe5b52c4ec7cfa0d11ebbe5dcb43",
+      "title": "Cuộc cách mạng AI của tuyển Anh trước World Cup 2026",
+      "link": "https://vnexpress.net/cuoc-cach-mang-ai-cua-tuyen-anh-truoc-world-cup-2026-5042291.html",
+      "summary": "Từ việc hoàn thiện kỹ năng đá phạt, nâng cao thể trạng cầu thủ, cho đến phân tích điểm yếu chiến thuật của đối thủ, AI đang đóng vai trò quan trọng trong kế hoạch chinh phục World Cup 2026 của tuyển Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-20T00:00:00+07:00",
+      "fetched": "2026-02-20T08:12:30.908681+07:00"
+    },
+    {
+      "id": "8b9588f5b17b9f8d1e93784b55bcf8e3",
+      "title": "Sinner thua sốc ở tứ kết Qatar Mở rộng",
+      "link": "https://vnexpress.net/sinner-thua-soc-o-tu-ket-qatar-mo-rong-5042395.html",
+      "summary": "Tay vợt số hai thế giới Jannik Sinner thua Jakub Mensik 6-7(3), 6-2, 3-6 ở tứ kết giải ATP 500 ở Doha, tối 19/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:50:15+07:00",
+      "fetched": "2026-02-20T08:12:18.020727+07:00"
+    },
+    {
+      "id": "8b9588f5b17b9f8d1e93784b55bcf8e3",
+      "title": "Sinner thua sốc ở tứ kết Qatar Mở rộng",
+      "link": "https://vnexpress.net/sinner-thua-soc-o-tu-ket-qatar-mo-rong-5042395.html",
+      "summary": "Tay vợt số hai thế giới Jannik Sinner thua Jakub Mensik 6-7(3), 6-2, 3-6 ở tứ kết giải ATP 500 ở Doha, tối 19/2.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-19T23:50:15+07:00",
+      "fetched": "2026-02-20T08:12:30.908360+07:00"
+    },
+    {
+      "id": "3097c2d1c594bf1b965166c09949ec72",
+      "title": "Ám ảnh vì hàng xóm hát karaoke xuyên Tết",
+      "link": "https://vnexpress.net/am-anh-vi-hang-xom-hat-karaoke-xuyen-tet-5040289.html",
+      "summary": "7h sáng 25 Tết, Trần Hương giật mình tỉnh giấc bởi tiếng loa thùng rung tường kèm tiếng \"alo 1, 2, 3\" từ nhà hàng xóm, báo hiệu một ngày dài thính giác bị \"tra tấn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:28:00+07:00",
+      "fetched": "2026-02-20T08:12:18.020878+07:00"
+    },
+    {
+      "id": "beb4643559cf62a1bd6362cb5fa3fe64",
+      "title": "Điểm tin 6h: Cáp treo Hòn Thơm gặp sự cố, ảnh hưởng hàng nghìn khách | Hàng loạt 'sugar baby' sập bẫy đại gia dỏm ở TP HCM",
+      "link": "https://vnexpress.net/diem-tin-6h-cap-treo-hon-thom-gap-su-co-anh-huong-hang-nghin-khach-hang-loat-sugar-baby-sap-bay-dai-gia-dom-o-tp-hcm-5042393.html",
+      "summary": "Lâm Đồng công bố loạt khu 'đất vàng' đấu giá trong 2026; Thái Lan bắt giữ nhóm người Việt vượt biên từ Campuchia;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:26:57+07:00",
+      "fetched": "2026-02-20T08:12:18.021030+07:00"
+    },
+    {
+      "id": "2504b4866e95b3bf7d8373928af5d42a",
+      "title": "Nổi tiếng từ những bữa sáng 'ngang trái' cho con",
+      "link": "https://vnexpress.net/noi-tieng-tu-nhung-bua-sang-ngang-trai-cho-con-5041917.html",
+      "summary": "Bị chê \"ác như mẹ kế\" vì cho con ăn bánh mì khô, bà mẹ ở Chiết Giang đáp trả bằng loạt thực đơn sáng \"không giống ai\", thu hút hàng triệu người theo dõi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:13:00+07:00",
+      "fetched": "2026-02-20T08:12:18.021211+07:00"
+    },
+    {
+      "id": "c6ac9f251b22b03fc991eded28358a56",
+      "title": "Tiến sĩ Việt giải mã tiềm năng chữa ung thư máu từ gạo và cỏ dại",
+      "link": "https://vnexpress.net/tien-si-viet-giai-ma-tiem-nang-chua-ung-thu-mau-tu-gao-va-co-dai-5040043.html",
+      "summary": "Sau 8 năm ròng rã nghiên cứu ở Nhật với không ít bế tắc, TS Lã Hoàng Anh chứng minh được tiềm năng chống ung thư máu từ hợp chất trong lúa gạo và cỏ dại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:05:00+07:00",
+      "fetched": "2026-02-20T08:12:18.021371+07:00"
+    },
+    {
+      "id": "95e1d70f81f1ea6614d3209315b9c9ad",
+      "title": "Những U70 chi hàng nghìn USD đi du học",
+      "link": "https://vnexpress.net/nhung-u70-chi-hang-nghin-usd-di-du-hoc-5042351.html",
+      "summary": "Thay vì ở nhà bế cháu hay tập dưỡng sinh, nhiều người về hưu đang chi hàng chục nghìn nhân dân tệ ra nước ngoài thực hiện ước mơ học tập dang dở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:00:00+07:00",
+      "fetched": "2026-02-20T08:12:18.021522+07:00"
+    },
+    {
+      "id": "32598b1208daefbe224ea9fd9d33bbf8",
+      "title": "Nỗ lực đưa người thân sang Nhật đoàn tụ của lao động Việt",
+      "link": "https://vnexpress.net/no-luc-dua-nguoi-than-sang-nhat-doan-tu-cua-lao-dong-viet-5041563.html",
+      "summary": "Ngoài chăm chỉ làm việc, tích lũy tiền, nhiều lao động xuất khẩu nỗ lực học tiếng, chuyển đổi visa kỹ sư để bảo lãnh người thân sang đoàn tụ sau nhiều năm xa cách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:00:00+07:00",
+      "fetched": "2026-02-20T08:12:18.021677+07:00"
+    },
+    {
+      "id": "323d722982c4e175ea631356743a39ac",
+      "title": "Đồ ăn mốc, có nên cắt bỏ đi để ăn tiếp?",
+      "link": "https://vnexpress.net/do-an-moc-co-nen-cat-bo-di-de-an-tiep-5040891.html",
+      "summary": "Khi một mảng mốc xuất hiện, hệ thống rễ nấm đã cắm sâu và lan rộng vào bên trong với những độc tố mắt thường không thấy được.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:00:00+07:00",
+      "fetched": "2026-02-20T08:12:18.021839+07:00"
+    },
+    {
+      "id": "19851e06903690fb758fa3b7530a6ec7",
+      "title": "Ly thân kéo dài: Khoảng trống pháp lý biến tài sản thành 'quả bom' tranh chấp",
+      "link": "https://vnexpress.net/ly-than-keo-dai-khoang-trong-phap-ly-bien-tai-san-thanh-qua-bom-tranh-chap-5039895.html",
+      "summary": "Nhiều cặp vợ chồng ly thân cả thập kỷ song vướng mắc về khoảng trống pháp lý khiến không thể giải quyết phân chia tài sản, quyền nuôi con, cấp dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:00:00+07:00",
+      "fetched": "2026-02-20T08:12:18.021996+07:00"
     },
     {
       "id": "3ea1eafdaf48e2db9da4541f5ff0efd9",
