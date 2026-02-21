@@ -1,7 +1,157 @@
 window.newsData_2026_02_21 = {
   "date": "2026-02-21",
-  "lastUpdated": "2026-02-21T15:19:54.594270+07:00",
+  "lastUpdated": "2026-02-21T17:16:56.444903+07:00",
   "articles": [
+    {
+      "id": "41b99f0322d2e310ee421ac9b77a4ce2",
+      "title": "Chiều mùng 5, cao tốc Dầu Giây về TP.HCM ùn ứ đoạn trạm thu phí, nút giao An Phú thoáng",
+      "link": "https://tuoitre.vn/chieu-mung-5-cao-toc-dau-giay-ve-tp-hcm-un-u-doan-tram-thu-phi-nut-giao-an-phu-thoang-20260221145532265.htm",
+      "summary": "Chiều 21-2 (mùng 5 Tết), người dân bắt đầu từ các tỉnh miền Trung, Lâm Đông trở về TP.HCM sớm, tuy nhiên tình hình đi lại tại trục cao tốc TP.HCM - Long Thành - Dầu Giây vẫn ổn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.801080+07:00",
+      "fetched": "2026-02-21T17:16:47.801281+07:00"
+    },
+    {
+      "id": "35e5361efda6fb38a23d81c40b9079ee",
+      "title": "Xe cộ đông đúc trở lại sau Tết, cấm xe tại nút giao vào cao tốc Phan Thiết - Dầu Giây",
+      "link": "https://tuoitre.vn/xe-co-dong-duc-tro-lai-sau-tet-cam-xe-tai-nut-giao-vao-cao-toc-phan-thiet-dau-giay-2026022115100535.htm",
+      "summary": "Ngày 21-2 (mùng 5 Tết), xe cộ bắt đầu đông đúc trở lại hướng về TP.HCM sau kỳ nghỉ Tết Bính Ngọ 2026 trên trục cao tốc Bắc - Nam phía đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.800831+07:00",
+      "fetched": "2026-02-21T17:16:47.801058+07:00"
+    },
+    {
+      "id": "44a212607ff101794edc029d36eb704b",
+      "title": "Tranh cãi phim Trấn Thành 'nói hết, kể hết', thiếu ngôn ngữ điện ảnh",
+      "link": "https://tuoitre.vn/tranh-cai-phim-tran-thanh-noi-het-ke-het-thieu-ngon-ngu-dien-anh-20260221143936421.htm",
+      "summary": "Một fanpage lớn gây chú ý với bài đăng phim điện ảnh Việt 'nói hết, kể hết', thiếu ngôn ngữ điện ảnh, nhiều khán giả gọi tên phim 'Thỏ ơi!!' của Trấn Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.800576+07:00",
+      "fetched": "2026-02-21T17:16:47.800805+07:00"
+    },
+    {
+      "id": "85a110c9c01dd8e00f5b87e47bf83fc5",
+      "title": "Nước biển đang dần 'ngọt' hơn: Đại dương đang phát tín hiệu nguy hiểm?",
+      "link": "https://tuoitre.vn/nuoc-bien-dang-dan-ngot-hon-dai-duong-dang-phat-tin-hieu-nguy-hiem-20260221094238801.htm",
+      "summary": "Nam Ấn Độ Dương mất 30% độ mặn trong 60 năm, đe dọa dòng hải lưu toàn cầu và hệ sinh thái biển trước biến đổi khí hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.800303+07:00",
+      "fetched": "2026-02-21T17:16:47.800550+07:00"
+    },
+    {
+      "id": "45a8f2744cbdcc141897ee9bf1b36cd4",
+      "title": "Biển xe ken đặc Ngũ Hành Sơn, du khách xếp hàng dài lên Thủy Sơn",
+      "link": "https://tuoitre.vn/bien-xe-ken-dac-ngu-hanh-son-du-khach-xep-hang-dai-len-thuy-son-20260221151232998.htm",
+      "summary": "Các đoàn ô tô liên tục tấp vào bãi đỗ xe ở danh thắng Ngũ Hành Sơn (Đà Nẵng) để đưa du khách tới tham quan núi đá vôi độc đáo nơi đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.800049+07:00",
+      "fetched": "2026-02-21T17:16:47.800277+07:00"
+    },
+    {
+      "id": "2516e7b0eae0f5e6c73315cf85e32e20",
+      "title": "Biển người đổ về Nha Trang mùng 5 Tết: Trung tâm kẹt cứng, khách sạn kín phòng",
+      "link": "https://tuoitre.vn/bien-nguoi-do-ve-nha-trang-mung-5-tet-trung-tam-ket-cung-khach-san-kin-phong-20260221152000375.htm",
+      "summary": "Mùng 5 Tết Bính Ngọ 2026, dòng xe cá nhân tiếp tục đổ về Nha Trang khiến nhiều tuyến đường trung tâm phố biển đông nghẹt. Khách sạn, resort đều kín phòng, xe máy cho thuê cũng hết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.799809+07:00",
+      "fetched": "2026-02-21T17:16:47.800025+07:00"
+    },
+    {
+      "id": "37cf7d37aa12c6f29d205c737d02c205",
+      "title": "Gần 1 triệu lượt khách, doanh thu 2.000 tỉ đồng: Vì sao Đà Lạt đông mà không nghẹt?",
+      "link": "https://tuoitre.vn/gan-1-trieu-luot-khach-doanh-thu-2-000-ti-dong-vi-sao-da-lat-dong-ma-khong-nghet-20260221155430554.htm",
+      "summary": "Dịp Tết Bính Ngọ 2026, Đà Lạt đón gần 1 triệu lượt khách, doanh thu ước khoảng 2.000 tỉ đồng đến mùng 5 - mức cao nhất trong 6 năm trở lại đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.799556+07:00",
+      "fetched": "2026-02-21T17:16:47.799784+07:00"
+    },
+    {
+      "id": "1c9afed74190aec0bdc43db6df508a42",
+      "title": "Gần 44.000 lượt khách đến đường hoa Cần Thơ mỗi ngày",
+      "link": "https://tuoitre.vn/moi-ngay-co-gan-44-000-luot-khach-den-voi-duong-hoa-can-tho-20260221155048097.htm",
+      "summary": "Đường hoa Cần Thơ xuân Bính Ngọ 2026 thu hút đông đảo người dân và du khách đến tham quan, check-in, là điểm nhấn của thành phố mỗi mùa Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.799277+07:00",
+      "fetched": "2026-02-21T17:16:47.799530+07:00"
+    },
+    {
+      "id": "6b090abf57081f2c48e2955885e2970b",
+      "title": "Một tháng tới, Nam Bộ có thể xuất hiện mưa trái mùa, nắng nóng tiếp diễn ở miền Đông",
+      "link": "https://tuoitre.vn/mot-thang-toi-nam-bo-co-the-xuat-hien-mua-trai-mua-nang-nong-tiep-dien-o-mien-dong-20260221155127535.htm",
+      "summary": "Dự báo trong một tháng tới, khu vực Nam Bộ có thể xuất hiện một số ngày có mưa trái mùa, còn khu vực miền Đông Nam Bộ khả năng tiếp tục xảy ra nắng nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.799035+07:00",
+      "fetched": "2026-02-21T17:16:47.799253+07:00"
+    },
+    {
+      "id": "cdbddc6dbb9ff4e0c9e16d27b785ef2a",
+      "title": "An Giang bội thu 2.622 tỉ đồng dịp Tết, Phú Quốc bùng nổ khách quốc tế",
+      "link": "https://tuoitre.vn/an-giang-boi-thu-2-622-ti-dong-dip-tet-phu-quoc-bung-no-khach-quoc-te-20260221153141529.htm",
+      "summary": "9 ngày Tết, An Giang đón 1,7 triệu lượt khách; riêng Phú Quốc gần 366.000 lượt, quốc tế áp đảo, có ngày hơn 90 chuyến bay hạ cánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.798797+07:00",
+      "fetched": "2026-02-21T17:16:47.799013+07:00"
+    },
+    {
+      "id": "818f968e39d58a2db1e24a2d716f8728",
+      "title": "Ông Zelensky nói Ukraine 'chắc chắn không thua', tuyên bố tái chiếm 300km²",
+      "link": "https://tuoitre.vn/ong-zelensky-noi-ukraine-chac-chan-khong-thua-tuyen-bo-tai-chiem-300-km-20260221154014481.htm",
+      "summary": "Ông Zelensky nói Ukraine không thua cuộc, tuyên bố đã giành lại 300 km² và bác bỏ việc rút khỏi Donbass.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.798599+07:00",
+      "fetched": "2026-02-21T17:16:47.798776+07:00"
+    },
+    {
+      "id": "a0e9166378a32d5ee76fd01b16fc28c8",
+      "title": "Liza Minnelli cáo buộc Oscar ép bà dùng xe lăn trao giải cùng Lady Gaga",
+      "link": "https://tuoitre.vn/liza-minnelli-cao-buoc-oscar-ep-ba-dung-xe-lan-trao-giai-cung-lady-gaga-20260221154508678.htm",
+      "summary": "Huyền thoại Liza Minnelli chỉ trích ban tổ chức lễ trao giải Oscar trong cuốn hồi ký mới mang tên 'Kids, Wait Till You Hear This!'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.798437+07:00",
+      "fetched": "2026-02-21T17:16:47.798587+07:00"
+    },
+    {
+      "id": "87da5ee40b33efc91f83799b6a010b27",
+      "title": "Những đánh giá về xu hướng cổ phiếu phân bón tăng tốc, có mã vọt hơn 40%",
+      "link": "https://tuoitre.vn/nhung-danh-gia-ve-xu-huong-co-phieu-phan-bon-tang-toc-co-ma-vot-hon-40-20260220164630363.htm",
+      "summary": "Các phiên giao dịch trước Tết của nhóm cổ phiếu phân bón - hóa chất phần nào kém trọn vẹn khi các mã liên quan đến DGC vẫn chưa vượt qua cú sốc giá cuối năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.798267+07:00",
+      "fetched": "2026-02-21T17:16:47.798413+07:00"
+    },
+    {
+      "id": "1e800923ecdffdda0ee6634ee321f52b",
+      "title": "Bắt tạm giam thanh niên đốt xe máy khi bị cảnh sát giao thông dừng xe kiểm tra",
+      "link": "https://tuoitre.vn/bat-tam-giam-thanh-nien-dot-xe-may-khi-bi-canh-sat-giao-thong-dung-xe-kiem-tra-20260221155909308.htm",
+      "summary": "Liên quan vụ thanh niên phóng hỏa đốt xe máy khi bị cảnh sát giao thông dừng xe kiểm tra, công an đã thi hành lệnh bắt tạm giam người bị giữ trong trường hợp khẩn cấp đối với thanh niên này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.798122+07:00",
+      "fetched": "2026-02-21T17:16:47.798255+07:00"
+    },
+    {
+      "id": "d085172b242bf117e24b690e1d083f28",
+      "title": "Giá vàng thế giới tăng 110 USD/ounce sau tin tức mới về thuế quan",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-tang-110-usd-ounce-sau-tin-tuc-moi-ve-thue-quan-20260221163151169.htm",
+      "summary": "Ngày 21-2, chốt phiên giao dịch cuối tuần, giá vàng thế giới đã tăng đến 110,7 USD/ounce và vượt mốc 5.100 USD/ounce - cũng là mức cao nhất trong hơn 3 tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T17:16:47.797889+07:00",
+      "fetched": "2026-02-21T17:16:47.798107+07:00"
+    },
     {
       "id": "7c0ef2c417d0de5d3d3802a5c7efd0b9",
       "title": "Liên hợp quốc: Hàng trăm nghìn người bị mua bán, tra tấn trong các 'ổ' lừa đảo ở Đông Nam Á",
@@ -433,6 +583,256 @@ window.newsData_2026_02_21 = {
       "fetched": "2026-02-21T10:58:08.259016+07:00"
     },
     {
+      "id": "d20f6e80a76fcb532e2be89699418408",
+      "title": "Mỗi lượng vàng tăng 2 triệu đồng ngày mùng 5 Tết",
+      "link": "https://vnexpress.net/moi-luong-vang-tang-2-trieu-dong-ngay-mung-5-tet-5042712.html",
+      "summary": "Giá vàng trong nước lên 181-182 triệu đồng một lượng, giữ chênh lệch trên 20 triệu đồng so với quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T10:00:07+07:00",
+      "fetched": "2026-02-21T17:16:42.653503+07:00"
+    },
+    {
+      "id": "7fb0dc7c601d18fdecc1f08ec5fa2bee",
+      "title": "Cưới được chưa đầy một tháng, vợ đòi ly hôn",
+      "link": "https://vnexpress.net/cuoi-duoc-chua-day-mot-thang-vo-doi-ly-hon-5042664.html",
+      "summary": "Tôi rất yêu vợ, nghe em đột ngột bảo hết tình cảm và muốn ly hôn khiến tôi khá sốc và stress, mất ăn mất ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T10:00:00+07:00",
+      "fetched": "2026-02-21T17:16:42.653685+07:00"
+    },
+    {
+      "id": "e1ac937e95ada6150f18ddca67a0347b",
+      "title": "Xổ số miền Nam ngày 21 tháng 2: Dãy số đẹp 222222 tiếp tục may mắn mùng 5 tết",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-21-thang-2-day-so-dep-222222-tiep-tuc-may-man-mung-5-tet-185260221164446469.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 21 tháng 2, nhằm ngày mùng 5 tết, nhiều người thích thú truy tìm dãy số 222222 trúng số. Đáng chú ý, dãy số này vừa mang lại may mắn vào mùng 3 tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T09:52:00+07:00",
+      "fetched": "2026-02-21T17:16:46.284058+07:00"
+    },
+    {
+      "id": "c9bd0f5bc039ad7ab949c2c6433bdfad",
+      "title": "Thuế nhập khẩu bổ sung 10% của ông Trump áp dụng ra sao?",
+      "link": "https://vnexpress.net/thue-nhap-khau-bo-sung-10-cua-ong-trump-ap-dung-ra-sao-5042676.html",
+      "summary": "Thuế quan 10% do ông Trump mới ban hành áp cho tất cả hàng nhập vào Mỹ, nhưng loại trừ với sản phẩm từ Canada, Mexico và một số khoáng sản, nông sản thiết yếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T09:50:21+07:00",
+      "fetched": "2026-02-21T17:16:42.653850+07:00"
+    },
+    {
+      "id": "c9bd0f5bc039ad7ab949c2c6433bdfad",
+      "title": "Thuế nhập khẩu bổ sung 10% của ông Trump áp dụng ra sao?",
+      "link": "https://vnexpress.net/thue-nhap-khau-bo-sung-10-cua-ong-trump-ap-dung-ra-sao-5042676.html",
+      "summary": "Thuế quan 10% do ông Trump mới ban hành áp cho tất cả hàng nhập vào Mỹ, nhưng loại trừ với sản phẩm từ Canada, Mexico và một số khoáng sản, nông sản thiết yếu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-21T09:50:21+07:00",
+      "fetched": "2026-02-21T17:16:51.781593+07:00"
+    },
+    {
+      "id": "2d5e19c50832fa8e120b656d0c30e024",
+      "title": "Lâm Đồng: Hai siêu đô thị vừa được chấp thuận chủ trương quy mô ra sao?",
+      "link": "https://thanhnien.vn/lam-dong-hai-sieu-do-thi-vua-duoc-chap-thuan-chu-truong-quy-mo-ra-sao-185260221151911939.htm",
+      "summary": "Ngay những ngày đầu năm, tỉnh Lâm Đồng chấp thuận chủ trương đầu tư hai khu đô thị quy mô gần 350 ha tại phường Mũi Né (TP.Phan Thiết cũ) với tổng vốn dự kiến hơn 32.000 tỉ đồng, hứa hẹn tạo cú hích tăng trưởng mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T09:50:00+07:00",
+      "fetched": "2026-02-21T17:16:46.284224+07:00"
+    },
+    {
+      "id": "416ffa7bc811ce412435b185e81bdb4a",
+      "title": "Điểm tin 17h: Người Việt tử vong trên núi tuyết Nhật Bản | Giá vàng thế giới, chứng khoán Mỹ cùng tăng",
+      "link": "https://vnexpress.net/diem-tin-17h-nguoi-viet-tu-vong-tren-nui-tuyet-nhat-ban-gia-vang-the-gioi-chung-khoan-my-cung-tang-5042717.html",
+      "summary": "10 nạn nhân vụ ném mìn ở Thanh Hóa 'bị găm đầy mảnh kim khí'; Tổng thống Trump cân nhắc 'tấn công hạn chế' vào Iran",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T09:45:34+07:00",
+      "fetched": "2026-02-21T17:16:42.654010+07:00"
+    },
+    {
+      "id": "617e14fa56f3ef310d856b13c07292ca",
+      "title": "Về quê ăn tết, đối tượng truy nã bị sa lưới",
+      "link": "https://thanhnien.vn/ve-que-an-tet-doi-tuong-truy-na-bi-sa-luoi-185260221160825975.htm",
+      "summary": "Bị truy nã vì lừa đảo hàng trăm triệu đồng của nhiều tài xế, Nguyễn Phước Anh vừa về TP.Đà Nẵng ăn tết thì bị Cảnh sát hình sự bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T09:45:00+07:00",
+      "fetched": "2026-02-21T17:16:46.284388+07:00"
+    },
+    {
+      "id": "c5c8f8b77211f1662f33e3bbc8acd8d2",
+      "title": "Nhạc kịch của sân khấu Quốc Thảo với nhiều cú lật bất ngờ",
+      "link": "https://thanhnien.vn/nhac-kich-cua-san-khau-quoc-thao-voi-nhieu-cu-lat-bat-ngo-185260221162545077.htm",
+      "summary": "Vở kịch tết của sân khấu Quốc Thảo - 'Đại chiến hòn triệu đô' (tác giả Quốc Thảo, đạo diễn Vương Kiệt) hấp dẫn bởi là thể loại nhạc kịch và lại mang những cú lật quá bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T09:30:00+07:00",
+      "fetched": "2026-02-21T17:16:46.284563+07:00"
+    },
+    {
+      "id": "ad074e08e929704ebfe2ce1de1053a30",
+      "title": "Nhà Trắng chốt lịch thăm Trung Quốc của ông Trump",
+      "link": "https://vnexpress.net/nha-trang-chot-lich-tham-trung-quoc-cua-ong-trump-5042707.html",
+      "summary": "Quan chức Nhà Trắng xác nhận Tổng thống Trump sẽ thăm Trung Quốc ngày 31/3-2/4 và dự kiến hội đàm với Chủ tịch Tập Cận Bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T09:29:50+07:00",
+      "fetched": "2026-02-21T17:16:42.654166+07:00"
+    },
+    {
+      "id": "ad074e08e929704ebfe2ce1de1053a30",
+      "title": "Nhà Trắng chốt lịch thăm Trung Quốc của ông Trump",
+      "link": "https://vnexpress.net/nha-trang-chot-lich-tham-trung-quoc-cua-ong-trump-5042707.html",
+      "summary": "Quan chức Nhà Trắng xác nhận Tổng thống Trump sẽ thăm Trung Quốc ngày 31/3-2/4 và dự kiến hội đàm với Chủ tịch Tập Cận Bình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-21T09:29:50+07:00",
+      "fetched": "2026-02-21T17:16:49.759928+07:00"
+    },
+    {
+      "id": "1a16f868b47ad9226f68170acb8223ce",
+      "title": "Ô tô đâm hàng loạt xe máy đang dừng đèn đỏ",
+      "link": "https://vnexpress.net/o-to-dam-hang-loat-xe-may-dang-dung-den-do-5042708.html",
+      "summary": "Chiếc ô tô 5 chỗ bất ngờ mất kiểm soát, tông 10 xe máy đang dừng chờ đèn đỏ tại nút giao Lê Hồng Phong - Lô 16D.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T09:25:37+07:00",
+      "fetched": "2026-02-21T17:16:42.654323+07:00"
+    },
+    {
+      "id": "a3918699d0b70f85b24cf80d7ad31620",
+      "title": "Cận cảnh 2 cầu cảng trên sông Sài Gòn mở cửa dịp tết, thành điểm check-in mới",
+      "link": "https://thanhnien.vn/can-canh-2-cau-cang-tren-song-sai-gon-mo-cua-dip-tet-thanh-diem-check-in-moi-185260221124645263.htm",
+      "summary": "Hai cầu cảng B, C nằm trên sông Sài Gòn (thuộc phường Sài Gòn) được chỉnh trang và đưa vào hoạt động phục vụ người dân dịp Tết Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T09:21:00+07:00",
+      "fetched": "2026-02-21T17:16:46.284716+07:00"
+    },
+    {
+      "id": "4186c965c8843673a8d966645bd3b165",
+      "title": "Dù lượn động cơ va trúng ôtô trên quốc lộ",
+      "link": "https://vnexpress.net/du-luon-dong-co-va-trung-oto-tren-quoc-lo-5042701.html",
+      "summary": "Dù lượn gặp sự cố khi bay qua xã Quản Bạ, người điều khiển phải hạ khẩn cấp, rơi trúng ôtô 7 chỗ đang chạy trên quốc lộ 4C, sáng 21/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T09:19:53+07:00",
+      "fetched": "2026-02-21T17:16:42.654505+07:00"
+    },
+    {
+      "id": "8e0cb6419c182cf36d89a05bd000c798",
+      "title": "Cần Giờ lột xác ngoạn mục: Từ Rừng Sác đến 'rừng' lễ hội",
+      "link": "https://thanhnien.vn/can-gio-lot-xac-ngoan-muc-tu-rung-sac-den-rung-le-hoi-185260221095910051.htm",
+      "summary": "3 tuần diễn ra lễ hội xuân Cần Giờ với quy mô chưa từng có không chỉ mở ra một mùa xuân rực rỡ cho người dân tại 'thiên đường xanh' mà còn là bước đi đầu tiên trong hành trình chuyển mình ngoạn mục của xã đảo: Từ điểm đến chỉ có rừng, ngắm khỉ và những bãi bùn vắng lặng trở thành điểm đến hút khách ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T09:10:00+07:00",
+      "fetched": "2026-02-21T17:16:46.284867+07:00"
+    },
+    {
+      "id": "9ae2c7f6fd70b6115bb77b615e6694de",
+      "title": "Lắp thêm đèn sương mù có bị phạt?",
+      "link": "https://thanhnien.vn/lap-them-den-suong-mu-co-bi-phat-185260220183047002.htm",
+      "summary": "Trong bối cảnh quy định đăng kiểm đèn chiếu sáng bị siết chặt, nhiều tài xế lo lắng việc trang bị thêm đèn sương mù sẽ bị xử phạt. Đại diện Cục Cảnh sát giao thông (Bộ Công an) đã chính thức giải đáp các thắc mắc này căn cứ theo Nghị định 168/2024/NĐ-CP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T09:04:00+07:00",
+      "fetched": "2026-02-21T17:16:46.285023+07:00"
+    },
+    {
+      "id": "d3fb8a6e669db7afde29d0a709105ea9",
+      "title": "Chó liếm vết thương khiến người phụ nữ bị nhiễm trùng huyết mất tứ chi",
+      "link": "https://vnexpress.net/cho-liem-vet-thuong-khien-nguoi-phu-nu-bi-nhiem-trung-huyet-mat-tu-chi-5042597.html",
+      "summary": "Bà Manjit Sangha, 52 tuổi, hôn mê, môi tím tái và khó thở sau khi bị chú chó cưng liếm vào vết xước nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T09:00:00+07:00",
+      "fetched": "2026-02-21T17:16:42.654664+07:00"
+    },
+    {
+      "id": "b231f19d05546931c4024de7fca09a14",
+      "title": "Xổ số miền Nam ngày 21 tháng 2: Kết quả xổ số hôm nay thứ bảy",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-21-thang-2-ket-qua-xo-so-hom-nay-thu-bay-185260221153013753.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 21 tháng 2. Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ bảy ngày 21.2.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T09:00:00+07:00",
+      "fetched": "2026-02-21T17:16:46.285172+07:00"
+    },
+    {
+      "id": "201b308e6cc9a588303b553507d8e0e6",
+      "title": "Thị trường xe máy Đông Nam Á vượt 15 triệu xe, Việt Nam tăng trưởng nhanh nhất",
+      "link": "https://thanhnien.vn/thi-truong-xe-may-dong-nam-a-vuot-15-trieu-xe-viet-nam-tang-truong-nhanh-nhat-185260216071510581.htm",
+      "summary": "Thị trường xe máy khu vực Đông Nam Á thiết lập cột mốc mới với hơn 15 triệu xe bán ra trong năm 2025, Indonesia vẫn xếp vị trí dẫn đầu nhưng Việt Nam mới là thị trường tăng trưởng nhanh nhất nhờ sự phát triển của mảng xe máy điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T08:57:00+07:00",
+      "fetched": "2026-02-21T17:16:46.285320+07:00"
+    },
+    {
+      "id": "8c3a2f1776a83604143eb8bbf1ba8e7b",
+      "title": "Xe cộ hành hương kín đường đến núi Bà Đen",
+      "link": "https://thanhnien.vn/xe-co-hanh-huong-kin-duong-den-nui-ba-den-185260221143933511.htm",
+      "summary": "Những ngày cao điểm của Hội Xuân 2026, hàng trăm nghìn du khách từ nhiều tỉnh, thành đã đổ về Núi Bà Đen khiến nhiều khu vực quá tải, cơ sở lưu trú kín chỗ, đường lên núi chật kín phương tiện giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T08:53:00+07:00",
+      "fetched": "2026-02-21T17:16:46.285494+07:00"
+    },
+    {
+      "id": "ceaf2517544fc067e331b547f5748b89",
+      "title": "Xe tay ga Honda sản xuất tại Trung Quốc: Dáng cổ điển, công nghệ hiện đại",
+      "link": "https://thanhnien.vn/xe-tay-ga-honda-san-xuat-tai-trung-quoc-dang-co-dien-cong-nghe-hien-dai-185260221070112201.htm",
+      "summary": "Xe tay ga Honda NWF150 do liên doanh Wuyang Honda sản xuất tại Trung Quốc, sở hữu kiểu dáng thiết kế cổ điển kết hợp nhiều tính năng, công nghệ hiện đại cùng động cơ xăng 150 phân khối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T08:51:00+07:00",
+      "fetched": "2026-02-21T17:16:46.285653+07:00"
+    },
+    {
+      "id": "c19e54ab81f8197d14ac0dfbd14434d9",
+      "title": "'Thỏ ơi' của Trấn Thành bị quay lén, lộ đoạn kết",
+      "link": "https://vnexpress.net/tho-oi-cua-tran-thanh-bi-quay-len-lo-doan-ket-5042675.html",
+      "summary": "\"Thỏ ơi\" - phim 18+ của Trấn Thành - bị nhiều TikToker quay lén, tung lên mạng, làm lộ đoạn kết sau năm ngày ra rạp Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T08:50:43+07:00",
+      "fetched": "2026-02-21T17:16:42.654827+07:00"
+    },
+    {
+      "id": "8e9cec92d1932c2f60a444e2a323c575",
+      "title": "Người Áo tranh cãi về việc biến nhà của Hitler thành đồn cảnh sát",
+      "link": "https://vnexpress.net/nguoi-ao-tranh-cai-ve-viec-bien-nha-cua-hitler-thanh-don-canh-sat-5042669.html",
+      "summary": "Việc trưng dụng ngôi nhà của trùm phát xít Hitler thành đồn cảnh sát đã gây ra nhiều ý kiến trái chiều tại quê hương của ông tại Áo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T08:33:50+07:00",
+      "fetched": "2026-02-21T17:16:42.654989+07:00"
+    },
+    {
+      "id": "8e9cec92d1932c2f60a444e2a323c575",
+      "title": "Người Áo tranh cãi về việc biến nhà của Hitler thành đồn cảnh sát",
+      "link": "https://vnexpress.net/nguoi-ao-tranh-cai-ve-viec-bien-nha-cua-hitler-thanh-don-canh-sat-5042669.html",
+      "summary": "Việc trưng dụng ngôi nhà của trùm phát xít Hitler thành đồn cảnh sát đã gây ra nhiều ý kiến trái chiều tại quê hương của ông tại Áo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-21T08:33:50+07:00",
+      "fetched": "2026-02-21T17:16:49.760104+07:00"
+    },
+    {
+      "id": "0267c53654e21a582230569c5341c11b",
+      "title": "Người dân lỉnh kỉnh đồ đạc quay lại TP.HCM",
+      "link": "https://thanhnien.vn/nguoi-dan-linh-kinh-do-dac-quay-lai-tphcm-18526022114191855.htm",
+      "summary": "Hàng ngàn người dân từ miền Tây quay lại TP.HCM, cửa ngõ phía tây tấp nập người, xe. CSGT điều tiết giao thông giúp người dân thuận tiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T08:19:00+07:00",
+      "fetched": "2026-02-21T17:16:46.285799+07:00"
+    },
+    {
       "id": "8911cb88246cac2c6e266e914c650fd0",
       "title": "Hỗ trợ phần mềm tốt giúp smartphone Apple và Samsung vượt trội",
       "link": "https://thanhnien.vn/ho-tro-phan-mem-tot-giup-smartphone-apple-va-samsung-vuot-troi-185260218191221843.htm",
@@ -501,6 +901,46 @@ window.newsData_2026_02_21 = {
       "category": "Công nghệ",
       "published": "2026-02-21T08:00:00+07:00",
       "fetched": "2026-02-21T15:19:53.622983+07:00"
+    },
+    {
+      "id": "e8801d94aed355f88cc1bcbd14efc8f6",
+      "title": "Lương Triều Vỹ, Lưu Gia Linh rong chơi đầu năm",
+      "link": "https://vnexpress.net/luong-trieu-vy-luu-gia-linh-rong-choi-dau-nam-5042670.html",
+      "summary": "Vợ chồng diễn viên Hong Kong Lương Triều Vỹ - Lưu Gia Linh lái xe rong chơi ở vùng núi tuyết dịp năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T08:00:00+07:00",
+      "fetched": "2026-02-21T17:16:42.655159+07:00"
+    },
+    {
+      "id": "7c3b147a768d891cf5aa88e5c23d2fe0",
+      "title": "Tôi đòi lại chiếc đồng hồ đã tặng vì em có người mới sau hai ngày chia tay",
+      "link": "https://vnexpress.net/toi-doi-lai-chiec-dong-ho-da-tang-vi-em-co-nguoi-moi-sau-hai-ngay-chia-tay-5041898.html",
+      "summary": "Giờ bình tĩnh hơn, tôi cảm thấy hành động đòi quà đó của mình không được hay lắm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T08:00:00+07:00",
+      "fetched": "2026-02-21T17:16:42.655496+07:00"
+    },
+    {
+      "id": "fce1298224695fdde090a404373f0120",
+      "title": "Cơ sở sản xuất nước cốt nhàu hiện đại bậc nhất miền Tây",
+      "link": "https://vnexpress.net/co-so-san-xuat-nuoc-cot-nhau-hien-dai-bac-nhat-mien-tay-5040769.html",
+      "summary": "Ông Khưu Văn Chương, 46 tuổi, đầu tư hàng tỷ đồng xây dựng vùng nguyên liệu, máy móc hiện đại làm nước cốt nhàu, bán hơn 10.000 lít mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T08:00:00+07:00",
+      "fetched": "2026-02-21T17:16:42.655659+07:00"
+    },
+    {
+      "id": "65f8c3386603b13a729414f2bb90dcab",
+      "title": "Vì sao nam giới dễ 'xuống phong độ' ngày Tết?",
+      "link": "https://vnexpress.net/vi-sao-nam-gioi-de-xuong-phong-do-ngay-tet-5041655.html",
+      "summary": "Ngày Tết bận rộn nên cơ thể mệt mỏi, uể oải, phong độ cũng giảm đi nhiều. Tình trạng này có đáng lo ngại không và cần lưu ý gì? (Mạnh Hùng, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T08:00:00+07:00",
+      "fetched": "2026-02-21T17:16:42.655820+07:00"
     },
     {
       "id": "e4ed5f66beeaef2b4a153936956f0947",
