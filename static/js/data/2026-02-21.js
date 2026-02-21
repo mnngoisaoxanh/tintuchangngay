@@ -1,7 +1,157 @@
 window.newsData_2026_02_21 = {
   "date": "2026-02-21",
-  "lastUpdated": "2026-02-21T12:04:34.884038+07:00",
+  "lastUpdated": "2026-02-21T13:30:57.642837+07:00",
   "articles": [
+    {
+      "id": "f02cc37833b816eea13e92c8ed0eba6b",
+      "title": "Sau Tết Bính Ngọ, người lao động sẽ đón loạt kỳ nghỉ dài trong năm 2026",
+      "link": "https://tuoitre.vn/sau-tet-binh-ngo-nguoi-lao-dong-se-don-loat-ky-nghi-dai-trong-nam-2026-20260221114800996.htm",
+      "summary": "Sau kỳ nghỉ Tết Nguyên đán Bính Ngọ năm 2026 và giỗ Tổ Hùng Vương sắp tới, người lao động sẽ bước vào kỳ nghỉ lễ 30-4 và 1-5 kéo dài 4 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.473365+07:00",
+      "fetched": "2026-02-21T13:30:51.473478+07:00"
+    },
+    {
+      "id": "fae11615eb6974a20d68c6002f7a7b68",
+      "title": "Du lịch Đắk Lắk khởi sắc đầu năm Bính Ngọ",
+      "link": "https://tuoitre.vn/du-lich-dak-lak-khoi-sac-dau-nam-binh-ngo-20260221114811517.htm",
+      "summary": "Tại nhiều khu di tích, khu du lịch nghỉ dưỡng trên địa bàn tỉnh Đắk Lắk, lượng khách đổ về đông hơn so với cùng kỳ năm trước, cho thấy tín hiệu khởi sắc ngay từ những ngày đầu năm Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.473239+07:00",
+      "fetched": "2026-02-21T13:30:51.473353+07:00"
+    },
+    {
+      "id": "24a6bd0c86ef90497a4e3c9bb412acc3",
+      "title": "Capybara Đà Lạt đốn tim du khách tại trại rắn Đồng Tâm",
+      "link": "https://tuoitre.vn/capybara-da-lat-don-tim-du-khach-tai-trai-ran-dong-tam-20260221114318325.htm",
+      "summary": "Những ngày Tết, khu vực nuôi capybara - loài chuột lang nước lớn nhất thế giới trở thành điểm \"nóng\", thu hút đông đảo gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.473115+07:00",
+      "fetched": "2026-02-21T13:30:51.473228+07:00"
+    },
+    {
+      "id": "ccb7bfbfb7718fe4483d06f24f096bae",
+      "title": "'Đất mũi' mới ở Hòn Khoai",
+      "link": "https://tuoitre.vn/dat-mui-moi-o-hon-khoai-20260204104803019.htm",
+      "summary": "Người dân cả nước đều từng nghe tên xóm Đất Mũi - địa danh địa đầu tổ quốc ở Cà Mau, nơi có mốc tọa độ quốc gia GPS0001. Nhưng có một đất mũi khác đang được hình thành ngoài khơi: đảo Hòn Khoai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.472983+07:00",
+      "fetched": "2026-02-21T13:30:51.473104+07:00"
+    },
+    {
+      "id": "58c861f2c952dc6746a2a6a91cad05ff",
+      "title": "5 xu hướng định hình ngành du lịch toàn cầu",
+      "link": "https://tuoitre.vn/5-xu-huong-dinh-hinh-nganh-du-lich-toan-cau-20260221105317849.htm",
+      "summary": "Trọng tâm của du lịch không còn đặt vào số lượng điểm đến, mà hướng tới sự trải nghiệm, tính bền vững và mức độ cá nhân hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.472847+07:00",
+      "fetched": "2026-02-21T13:30:51.472960+07:00"
+    },
+    {
+      "id": "005ed993db87cb87a3970968a30bcc58",
+      "title": "40 năm tìm con gái cho cha",
+      "link": "https://tuoitre.vn/40-nam-tim-con-gai-cho-cha-20260202174615637.htm",
+      "summary": "Lịch sử Việt Nam còn ghi nhớ chuyến xuất ngoại đầu tiên năm 1946 của Chủ tịch Hồ Chí Minh làm thượng khách tại nước Pháp, vừa tìm giải pháp mong manh cho hòa bình vừa chuẩn bị cho cuộc trường kỳ kháng chiến khó tránh khỏi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.472720+07:00",
+      "fetched": "2026-02-21T13:30:51.472836+07:00"
+    },
+    {
+      "id": "144f81abea4b4f45d6cdfa1d9ea52d3b",
+      "title": "Mùng 5 Tết Bính Ngọ: Làm 7 điều này để có sức khỏe, an vui cả năm",
+      "link": "https://tuoitre.vn/mung-5-tet-binh-ngo-lam-7-dieu-nay-de-co-suc-khoe-an-vui-ca-nam-20260221115752036.htm",
+      "summary": "Qua mấy ngày đầu xuân rộn ràng, mùng 5 Tết là lúc nhịp sống dần trở lại bình thường. Nhiều người bắt đầu nghĩ đến công việc, kế hoạch, mục tiêu mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.472585+07:00",
+      "fetched": "2026-02-21T13:30:51.472705+07:00"
+    },
+    {
+      "id": "46ac7a49da638da8d17c9f01377cb0ba",
+      "title": "Lao động Việt Nam thiệt mạng khi leo núi tại Nhật Bản",
+      "link": "https://tuoitre.vn/lao-dong-viet-nam-thiet-mang-khi-leo-nui-tai-nhat-ban-20260221121503903.htm",
+      "summary": "Đại sứ quán Việt Nam tại Nhật Bản đang triển khai công tác bảo hộ công dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.472462+07:00",
+      "fetched": "2026-02-21T13:30:51.472574+07:00"
+    },
+    {
+      "id": "12db9bae39f7fad1aa1c9ee32edab71f",
+      "title": "Trường đại học Ngoại thương bỏ xét tuyển thẳng thí sinh có giải khoa học kỹ thuật quốc gia, quốc tế",
+      "link": "https://tuoitre.vn/truong-dai-hoc-ngoai-thuong-bo-xet-tuyen-thang-thi-sinh-co-giai-khoa-hoc-ky-thuat-quoc-gia-quoc-te-20260221121349391.htm",
+      "summary": "Năm 2026, Trường đại học Ngoại thương bỏ xét tuyển thẳng thí sinh đạt giải khoa học kỹ thuật quốc tế, không xét học bạ với thí sinh đạt giải khoa học kỹ thuật cấp quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.472338+07:00",
+      "fetched": "2026-02-21T13:30:51.472451+07:00"
+    },
+    {
+      "id": "a11764bf1932509cb61332c13985d853",
+      "title": "Tài xế xử lý cồng kềnh, gây ra chuỗi va chạm 'khó đỡ' tại giao lộ",
+      "link": "https://tuoitre.vn/tai-xe-xu-ly-cong-kenh-gay-ra-chuoi-va-cham-kho-do-tai-giao-lo-20260220234315381.htm",
+      "summary": "Đoạn camera an ninh ghi lại cảnh một tài xế lái Toyota RAV4 liên tiếp xử lý khó hiểu tại giao lộ, gây ra  chuỗi va chạm dây chuyền khiến cộng đồng mạng xôn xao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.472211+07:00",
+      "fetched": "2026-02-21T13:30:51.472326+07:00"
+    },
+    {
+      "id": "d34ea666308cf0ede93a43ea02a42dd3",
+      "title": "Món khô - món ướt Hà Nội",
+      "link": "https://tuoitre.vn/mon-kho-mon-uot-ha-noi-20260204142034993.htm",
+      "summary": "Mỗi sáng dậy, một người Hà Nội điển hình sẽ nghĩ, sáng nay ăn xôi hay ăn phở? Ăn bánh giò hay bún bung?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.472082+07:00",
+      "fetched": "2026-02-21T13:30:51.472199+07:00"
+    },
+    {
+      "id": "3fed5af14b6ad5650b17012804adf306",
+      "title": "Gần gũi tết quê nhà khi thấy tô phở giữa trời lạnh Brussels",
+      "link": "https://tuoitre.vn/gan-gui-tet-que-nha-khi-thay-to-pho-giua-troi-lanh-brussels-20260221115738277.htm",
+      "summary": "Lần đầu tiên xa nhà là xa cả về khoảng cách địa lý lẫn văn hóa, xa tất cả mọi thứ quen thuộc, nhịp học bận rộn giúp mọi thứ trôi qua. Nhưng khi tết về, những du học sinh năm nhất tại thủ đô Bỉ lại thấy một khoảng trống mênh mông trong lòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.471931+07:00",
+      "fetched": "2026-02-21T13:30:51.472069+07:00"
+    },
+    {
+      "id": "5ae06424fe5310a1c301573138bb2952",
+      "title": "Mùng 5, Tết Tân Sơn Nhất duy trì đón 170.000 lượt khách, vé máy bay vào Nam đắt đỏ",
+      "link": "https://tuoitre.vn/mung-5-tet-tan-son-nhat-duy-tri-don-170-000-luot-khach-ve-may-bay-vao-nam-dat-do-20260221124700849.htm",
+      "summary": "Nhiều đường bay từ miền Bắc, miền Trung vào TP.HCM hết sạch vé đến hết mùng 10 Tết. Sân bay Tân Sơn Nhất dự kiến đón kỷ lục gần 170.000 lượt khách chỉ trong ngày mùng 5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.471801+07:00",
+      "fetched": "2026-02-21T13:30:51.471920+07:00"
+    },
+    {
+      "id": "fc07bc2e06da5815ed3f5c6ee97d8282",
+      "title": "Phát hiện thi thể người đàn ông tại bãi biển Tuy Hòa",
+      "link": "https://tuoitre.vn/phat-hien-thi-the-nguoi-dan-ong-tai-bai-bien-tuy-hoa-2026022112454196.htm",
+      "summary": "Công an phường Tuy Hòa, Đắk Lắk (trước thuộc TP Tuy Hòa, Phú Yên) vừa thông báo tìm thân nhân thi thể người đàn ông được phát hiện tại bãi biển Tuy Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.471662+07:00",
+      "fetched": "2026-02-21T13:30:51.471788+07:00"
+    },
+    {
+      "id": "1b33e8469bd55a7d9254f163cc6eb9cf",
+      "title": "Đại cảnh 'Mã đáo thành công' hút khách du lịch đến mùng 5",
+      "link": "https://tuoitre.vn/dai-canh-ma-dao-thanh-cong-hut-khach-du-lich-den-mung-5-20260221121734356.htm",
+      "summary": "Dù đã bước sang mùng 5 Tết, hàng chụch ngàn lượt khách du lịch vẫn tấp nập về các điểm di tích, danh thắng ở ven biển để tham quan, cúng viếng cùng gia đình dịp đầu xuân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T13:30:51.471492+07:00",
+      "fetched": "2026-02-21T13:30:51.471647+07:00"
+    },
     {
       "id": "0ff6acda5645cb727c4a2015a980f055",
       "title": "Bắt giữ người dùng súng cướp ô tô trong đêm",
@@ -293,6 +443,176 @@ window.newsData_2026_02_21 = {
       "fetched": "2026-02-21T08:10:18.346180+07:00"
     },
     {
+      "id": "962edfd50dc34a2e8d923e9152780e3e",
+      "title": "Hội xuân Núi Bà Đen Tây Ninh thu hút 320.000 lượt khách",
+      "link": "https://thanhnien.vn/hoi-xuan-nui-ba-den-tay-ninh-thu-hut-320000-luot-khach-185260221094923537.htm",
+      "summary": "Hội Xuân núi Bà Đen 2026 với chủ đề \"Hương sắc Tây Ninh\" đã gây ấn tượng mạnh với sân khấu hiện đại cùng màn pháo hoa nghệ thuật rực rỡ, hàng trăm ngàn người tham dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T06:29:00+07:00",
+      "fetched": "2026-02-21T13:30:50.367123+07:00"
+    },
+    {
+      "id": "f92775e2a8d5405eaa109a7a0711a22e",
+      "title": "Những smartphone Android nên cân nhắc trước khi mua",
+      "link": "https://thanhnien.vn/nhung-smartphone-android-nen-can-nhac-truoc-khi-mua-185260212101052824.htm",
+      "summary": "Ở thời điểm này, việc mua phải một chiếc smartphone Android không đạt yêu cầu có thể khiến nhiều người hối hận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T06:28:00+07:00",
+      "fetched": "2026-02-21T13:30:50.367291+07:00"
+    },
+    {
+      "id": "eb2494935199b7358da710ed2ef3c52e",
+      "title": "Bộ trưởng Cuba cảnh báo về nguy cơ khủng hoảng y tế",
+      "link": "https://vnexpress.net/bo-truong-cuba-canh-bao-ve-nguy-co-khung-hoang-y-te-5042611.html",
+      "summary": "Bộ trưởng Y tế Cuba cho hay hệ thống chăm sóc sức khỏe bị ảnh hưởng nặng nề giữa vòng kiềm tỏa năng lượng, khiến nhiều người có nguy cơ không được điều trị.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-21T06:22:14+07:00",
+      "fetched": "2026-02-21T13:30:52.708716+07:00"
+    },
+    {
+      "id": "689b7a8a830330febc6e8daec33d9f18",
+      "title": "Guardiola không quan tâm tới bảng điểm Ngoại hạng Anh",
+      "link": "https://vnexpress.net/guardiola-khong-quan-tam-toi-bang-diem-ngoai-hang-anh-5042647.html",
+      "summary": "HLV Pep Guardiola không bận tâm tới thứ bậc hiện tại của Man City, mà chỉ tập trung cho trận tiếp theo gặp Newcastle ở vòng 27 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-21T06:13:04+07:00",
+      "fetched": "2026-02-21T13:30:57.636001+07:00"
+    },
+    {
+      "id": "b23b35bb82d316844e55612e5976f99f",
+      "title": "HLV Slot: 'Tôi không tệ vì cũng từng VĐQG như Klopp'",
+      "link": "https://vnexpress.net/hlv-slot-toi-khong-te-vi-cung-tung-vdqg-nhu-klopp-5042654.html",
+      "summary": "HLV Arne Slot đáp trả, sau khi bị cựu tiền đạo Wayne Rooney chê thiếu cái uy cần thiết để giữ ổn định cho Liverpool thời hậu Jurgen Klopp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-21T06:11:15+07:00",
+      "fetched": "2026-02-21T13:30:57.636160+07:00"
+    },
+    {
+      "id": "902c168a7f5c1734547d15196f0bddfa",
+      "title": "Đừng ám ảnh Việt Nam hay Indonesia tố cáo nhập tịch trái phép, đội tuyển Malaysia sẽ chịu kịch bản xấu?",
+      "link": "https://thanhnien.vn/dung-am-anh-viet-nam-hay-indonesia-to-cao-nhap-tich-trai-phep-doi-tuyen-malaysia-se-chiu-kich-ban-xau-185260221125718107.htm",
+      "summary": "Truyền thông Malaysia đang dần thay đổi góc nhìn trong vụ việc liên quan đến án phạt của FIFA đối với Liên đoàn Bóng đá Malaysia (FAM). Thay vì tiếp tục xoáy sâu vào câu hỏi ‘ai là người đứng sau đơn khiếu nại’, nhiều ý kiến cho rằng bóng đá Malaysia cần tập trung vào vấn đề cốt lõi: trách nhiệm và ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T06:06:00+07:00",
+      "fetched": "2026-02-21T13:30:50.367452+07:00"
+    },
+    {
+      "id": "d52f9a1f62ecda17f364122d77bd995b",
+      "title": "Phong cách Lisa qua 10 năm",
+      "link": "https://vnexpress.net/phong-cach-lisa-qua-10-nam-5042627.html",
+      "summary": "Nhờ cách trang điểm, ăn mặc, Lisa được khen trông ngày càng cuốn hút sau một thập niên ra mắt khán giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:43:10+07:00",
+      "fetched": "2026-02-21T13:30:47.080540+07:00"
+    },
+    {
+      "id": "3d10eabe51eef6a23c652e06317cd4e3",
+      "title": "Shark Minh Beta nói gì khi phim tết bị 'chơi xấu', công kích?",
+      "link": "https://thanhnien.vn/shark-minh-beta-noi-gi-khi-phim-tet-bi-choi-xau-cong-kich-185260221113417602.htm",
+      "summary": "Minh Beta vừa có những chia sẻ xoay quanh hành trình thực hiện, đồng thời lên tiếng về ý kiến trái chiều xoay quanh dự án 'Mùi phở' do anh làm đạo diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:33:00+07:00",
+      "fetched": "2026-02-21T13:30:50.367605+07:00"
+    },
+    {
+      "id": "86464f2ba2b4ae00d54c1fa97a0449c6",
+      "title": "Phim tết bị quay lén, Trấn Thành cầu xin khán giả",
+      "link": "https://thanhnien.vn/phim-tet-bi-quay-len-tran-thanh-cau-xin-khan-gia-185260221105340067.htm",
+      "summary": "Trước tình trạng 'Thỏ ơi' bị quay lén tung lên mạng xã hội, Trấn Thành nhắn nhủ: 'Xin hãy thương cho công sức lao động của rất nhiều con người trong một bộ phim'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:30:00+07:00",
+      "fetched": "2026-02-21T13:30:50.367755+07:00"
+    },
+    {
+      "id": "2cdcf6bd40a98cd6b5362e0019f160cb",
+      "title": "Bắt nghi can tạt xăng đốt người tối mùng 1 tết",
+      "link": "https://thanhnien.vn/bat-nghi-can-tat-xang-dot-nguoi-toi-mung-1-tet-185260221114018805.htm",
+      "summary": "Do mâu thuẫn về tiền bạc trong chuyện chung vốn đầu tư xây dựng, tính công nợ, nghi can Nguyễn Văn Biển đã tạt xăng đốt rồi dùng dao truy sát anh Nguyễn Thanh Hiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:26:00+07:00",
+      "fetched": "2026-02-21T13:30:50.367906+07:00"
+    },
+    {
+      "id": "3594f1b381ef4346a910dc3e836fcf78",
+      "title": "Tàu sân bay thứ hai của Mỹ đến gần Iran",
+      "link": "https://vnexpress.net/tau-san-bay-thu-hai-cua-my-den-gan-iran-5042629.html",
+      "summary": "Tàu sân bay USS Gerald R. Ford của Mỹ đang tiến vào Địa Trung Hải, khi Washington tăng cường lực lượng quân sự để gia tăng sức ép với Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:23:11+07:00",
+      "fetched": "2026-02-21T13:30:47.080725+07:00"
+    },
+    {
+      "id": "3594f1b381ef4346a910dc3e836fcf78",
+      "title": "Tàu sân bay thứ hai của Mỹ đến gần Iran",
+      "link": "https://vnexpress.net/tau-san-bay-thu-hai-cua-my-den-gan-iran-5042629.html",
+      "summary": "Tàu sân bay USS Gerald R. Ford của Mỹ đang tiến vào Địa Trung Hải, khi Washington tăng cường lực lượng quân sự để gia tăng sức ép với Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-21T05:23:11+07:00",
+      "fetched": "2026-02-21T13:30:52.708889+07:00"
+    },
+    {
+      "id": "5f852883b4e5d013fa139e575a504945",
+      "title": "Giới trẻ Trung Quốc phá bỏ kiêng kỵ để làm giàu",
+      "link": "https://vnexpress.net/gioi-tre-trung-quoc-pha-bo-kieng-ky-de-lam-giau-5042388.html",
+      "summary": "Bất chấp những quan niệm kiêng kỵ, nhiều người trẻ Trung Quốc đang mạnh dạn rẽ hướng sang ngành công nghiệp tang lễ và gặt hái doanh thu khổng lồ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:21:26+07:00",
+      "fetched": "2026-02-21T13:30:47.080892+07:00"
+    },
+    {
+      "id": "4669ed7a15bd0b3b314549a218df0585",
+      "title": "Ôtô văng bánh trên cao tốc khiến xe sau cán phải",
+      "link": "https://vnexpress.net/oto-vang-banh-tren-cao-toc-khien-xe-sau-can-phai-5042631.html",
+      "summary": "Ôtô đang chạy chậm bất ngờ bung bánh trên cao tốc TP.HCM - Trung Lương, khiến xe phía sau cán phải, ngày 19/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:16:20+07:00",
+      "fetched": "2026-02-21T13:30:47.081073+07:00"
+    },
+    {
+      "id": "4ed37ac2fa846060eee07287aa10e2b3",
+      "title": "Bi kịch của chàng trai quyết 'đẹp bằng mọi giá'",
+      "link": "https://vnexpress.net/bi-kich-cua-chang-trai-quyet-dep-bang-moi-gia-5042576.html",
+      "summary": "Từ một cậu bé tự ti, Braden Peters bước vào cuộc đua \"tối ưu hóa ngoại hình\" với thuốc cấm và búa đập xương mặt, rồi nhận ra đánh mất cơ hội sống một cuộc đời bình thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:11:53+07:00",
+      "fetched": "2026-02-21T13:30:47.081239+07:00"
+    },
+    {
+      "id": "554da70fe0830c2453d9c8838fd2fc29",
+      "title": "Dự án giải trí 2.600 tỷ đồng ở Gia Lai sắp khởi công",
+      "link": "https://vnexpress.net/du-an-giai-tri-2-600-ty-dong-o-gia-lai-sap-khoi-cong-5042609.html",
+      "summary": "Tổ hợp giải trí do nhà sáng lập SM Entertainment làm đồng chủ tịch dự kiến thi công tại Gia Lai vào giữa năm nay, vận hành từ 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:08:11+07:00",
+      "fetched": "2026-02-21T13:30:47.081397+07:00"
+    },
+    {
+      "id": "cbfefa8b3b33abf72f56c7a9732fd10e",
+      "title": "Trường học Mỹ chuộng chữ viết tay trở lại",
+      "link": "https://vnexpress.net/truong-hoc-my-chuong-chu-viet-tay-tro-lai-5015352.html",
+      "summary": "Nhiều trường khôi phục việc dạy chữ viết tay sau khi ưu tiền máy tính bảng bởi giúp trẻ nhận diện chữ cái và con số tốt hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:03:00+07:00",
+      "fetched": "2026-02-21T13:30:47.081558+07:00"
+    },
+    {
       "id": "07d4894c766f152174ebdfb6afbf79d6",
       "title": "Chiếm mọi ánh nhìn trong mọi bữa tiệc đầu năm với găng tay ren mỏng",
       "link": "https://thanhnien.vn/thoi-trang-tre/chiem-moi-anh-nhin-trong-moi-bua-tiec-dau-nam-voi-gang-tay-ren-mong-185260218102850048.htm",
@@ -303,6 +623,56 @@ window.newsData_2026_02_21 = {
       "fetched": "2026-02-21T12:04:25.750811+07:00"
     },
     {
+      "id": "03cede96e1d04062bc50fde2bff1b07b",
+      "title": "Chồng không về ngoại dịp Tết nên tôi để các con tự chúc Tết ông bà nội",
+      "link": "https://vnexpress.net/chong-khong-ve-ngoai-dip-tet-nen-toi-de-cac-con-tu-chuc-tet-ong-ba-noi-5042595.html",
+      "summary": "Mình tôi đưa các con về nhà nội, để cho các con vào chúc Tết ông bà, tôi đứng ngoài ngõ, xong xuôi, chúng tôi về nhà ngoại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:00:00+07:00",
+      "fetched": "2026-02-21T13:30:47.081713+07:00"
+    },
+    {
+      "id": "38c8eeb0e2da8db011051a1fbcf4078f",
+      "title": "Diện mạo cao tốc Biên Hòa - Vũng Tàu sắp thông xe",
+      "link": "https://vnexpress.net/dien-mao-cao-toc-bien-hoa-vung-tau-sap-thong-xe-5041047.html",
+      "summary": "Đoạn đường từ nút giao cao tốc Long Thành đến Vũng Tàu đang hoàn thiện các hạng mục kỹ thuật, hồ sơ cuối để đưa vào khai thác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:00:00+07:00",
+      "fetched": "2026-02-21T13:30:47.081875+07:00"
+    },
+    {
+      "id": "870d7c25926ef1d3a4b43a9681d8aac8",
+      "title": "'1 + 6 = 8' xoay que diêm nào để phép tính đúng?",
+      "link": "https://vnexpress.net/cau-do-que-diem-di-chuyen-que-diem-1-6-8-xoay-que-diem-nao-de-phep-tinh-dung-5040520.html",
+      "summary": "Đây không phải bài toán làm đau đầu, mà là trò chơi nhỏ giúp đầu óc \"tập gym\" nhẹ nhàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:00:00+07:00",
+      "fetched": "2026-02-21T13:30:47.082053+07:00"
+    },
+    {
+      "id": "ad11f9a6c88a6042be5ada2e8ecf9a55",
+      "title": "Mắc bệnh gan có nên ăn trứng?",
+      "link": "https://vnexpress.net/mac-benh-gan-co-nen-an-trung-5041323.html",
+      "summary": "Tôi bị men gan cao và rất thích ăn trứng. Ăn trứng có ảnh hưởng đến men gan không, mỗi tuần có thể ăn bao nhiêu quả? (Quốc Cường, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:00:00+07:00",
+      "fetched": "2026-02-21T13:30:47.082217+07:00"
+    },
+    {
+      "id": "03ff91206ecf12cba406771cc42fc229",
+      "title": "Tác dụng phụ thường gặp sau khi uống rượu bia",
+      "link": "https://vnexpress.net/tac-dung-phu-thuong-gap-sau-khi-uong-ruou-bia-5040376.html",
+      "summary": "Uống rượu bia dễ gây đầy hơi, làm giảm khả năng phối hợp lời nói, suy giảm trí nhớ và tăng huyết áp, ảnh hưởng tiêu cực đến sức khỏe tổng thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T05:00:00+07:00",
+      "fetched": "2026-02-21T13:30:47.082370+07:00"
+    },
+    {
       "id": "05e06f907ede0ddf162ed40e62c1a5cd",
       "title": "TP.HCM tri ân truyền thống cách mạng Sài Gòn - Chợ Lớn - Gia Định",
       "link": "https://thanhnien.vn/tphcm-tri-an-truyen-thong-cach-mang-sai-gon-cho-lon-gia-dinh-18526022111261585.htm",
@@ -311,6 +681,16 @@ window.newsData_2026_02_21 = {
       "category": "Tổng hợp",
       "published": "2026-02-21T04:55:00+07:00",
       "fetched": "2026-02-21T12:04:25.750981+07:00"
+    },
+    {
+      "id": "e9599a787260ec8eb2daeb6994ffb618",
+      "title": "Đánh đổi tuổi 20 để chăm cha mắc Alzheimer",
+      "link": "https://vnexpress.net/danh-doi-tuoi-20-de-cham-cha-mac-alzheimer-5042575.html",
+      "summary": "Dành trọn tuổi 20 chăm sóc người cha mắc Alzheimer, Chris Snell, 33 tuổi, trải qua vô số đêm thức trắng, đánh đổi thanh xuân trước khi đưa ông vào viện dưỡng lão.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T04:48:18+07:00",
+      "fetched": "2026-02-21T13:30:47.082530+07:00"
     },
     {
       "id": "24c9445a0faa17e49fd67bf170b560e4",
