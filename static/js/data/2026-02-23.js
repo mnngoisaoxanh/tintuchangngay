@@ -1,6 +1,6 @@
 window.newsData_2026_02_23 = {
   "date": "2026-02-23",
-  "lastUpdated": "2026-02-23T01:21:56.846717+07:00",
+  "lastUpdated": "2026-02-23T03:15:35.054701+07:00",
   "articles": [
     {
       "id": "bd6dc2ea4411ec12dc61fbc083eaf2e1",
@@ -151,6 +151,66 @@ window.newsData_2026_02_23 = {
       "category": "Tổng hợp",
       "published": "2026-02-23T01:21:48.903183+07:00",
       "fetched": "2026-02-23T01:21:48.903400+07:00"
+    },
+    {
+      "id": "a9bd4f9af0e4b62076babc748b476522",
+      "title": "'Chứng khoán khả năng cao sẽ tăng sau Tết'",
+      "link": "https://vnexpress.net/chung-khoan-kha-nang-cao-se-tang-sau-tet-5042875.html",
+      "summary": "Nhờ yếu tố lịch sử, kết quả kinh doanh năm 2025 khả quan cùng nền tảng vĩ mô vững chắc, chứng khoán Việt Nam sẽ tiếp tục tăng sau Tết, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T19:10:13+07:00",
+      "fetched": "2026-02-23T03:15:21.897452+07:00"
+    },
+    {
+      "id": "a9bd4f9af0e4b62076babc748b476522",
+      "title": "'Chứng khoán khả năng cao sẽ tăng sau Tết'",
+      "link": "https://vnexpress.net/chung-khoan-kha-nang-cao-se-tang-sau-tet-5042875.html",
+      "summary": "Nhờ yếu tố lịch sử, kết quả kinh doanh năm 2025 khả quan cùng nền tảng vĩ mô vững chắc, chứng khoán Việt Nam sẽ tiếp tục tăng sau Tết, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-22T19:10:13+07:00",
+      "fetched": "2026-02-23T03:15:30.078823+07:00"
+    },
+    {
+      "id": "ec66adab29c4e5f9f980f641e3ea0b3a",
+      "title": "Arsenal đè bẹp Tottenham",
+      "link": "https://vnexpress.net/arsenal-de-bep-tottenham-5042960.html",
+      "summary": "Viktor Gyokeres, Eberechi Eze cùng lập cú đúp giúp Arsenal thắng Tottenham 4-1 ở vòng 27 Ngoại hạng Anh để tái lập khoảng cách năm điểm với Man City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T19:05:28+07:00",
+      "fetched": "2026-02-23T03:15:21.897639+07:00"
+    },
+    {
+      "id": "ec66adab29c4e5f9f980f641e3ea0b3a",
+      "title": "Arsenal đè bẹp Tottenham",
+      "link": "https://vnexpress.net/arsenal-de-bep-tottenham-5042960.html",
+      "summary": "Viktor Gyokeres, Eberechi Eze cùng lập cú đúp giúp Arsenal thắng Tottenham 4-1 ở vòng 27 Ngoại hạng Anh để tái lập khoảng cách năm điểm với Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-22T19:05:28+07:00",
+      "fetched": "2026-02-23T03:15:35.049856+07:00"
+    },
+    {
+      "id": "58ba3a1168fb1702ce9c13d3c5c4676f",
+      "title": "Nông sản năm nay thế nào sau cú bứt tốc kỷ lục",
+      "link": "https://vnexpress.net/nong-san-nam-nay-the-nao-sau-cu-but-toc-ky-luc-5039687.html",
+      "summary": "Năm nay, ngành nông nghiệp đặt mục tiêu xuất khẩu 74 tỷ USD - cao kỷ lục, song áp lực gia tăng khi giá nông sản đảo chiều và rào cản kỹ thuật ngày càng khắt khe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T18:19:53+07:00",
+      "fetched": "2026-02-23T03:15:21.897807+07:00"
+    },
+    {
+      "id": "58ba3a1168fb1702ce9c13d3c5c4676f",
+      "title": "Nông sản năm nay thế nào sau cú bứt tốc kỷ lục",
+      "link": "https://vnexpress.net/nong-san-nam-nay-the-nao-sau-cu-but-toc-ky-luc-5039687.html",
+      "summary": "Năm nay, ngành nông nghiệp đặt mục tiêu xuất khẩu 74 tỷ USD - cao kỷ lục, song áp lực gia tăng khi giá nông sản đảo chiều và rào cản kỹ thuật ngày càng khắt khe.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-22T18:19:53+07:00",
+      "fetched": "2026-02-23T03:15:30.079001+07:00"
     },
     {
       "id": "33803138ded4c4c383eea560eea08fb5",
