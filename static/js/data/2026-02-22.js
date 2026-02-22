@@ -1,7 +1,97 @@
 window.newsData_2026_02_22 = {
   "date": "2026-02-22",
-  "lastUpdated": "2026-02-22T19:28:43.405660+07:00",
+  "lastUpdated": "2026-02-22T21:18:00.244503+07:00",
   "articles": [
+    {
+      "id": "9e5f125d2822b66d854daf51a1d223b4",
+      "title": "Quỳnh Kool vào vai người chị lam lũ trong 'Bước chân vào đời' lên sóng đầu năm mới",
+      "link": "https://tuoitre.vn/quynh-kool-vao-vai-nguoi-chi-lam-lu-trong-buoc-chan-vao-doi-len-song-dau-nam-moi-20260222175752203.htm",
+      "summary": "Trong phim 'Bước chân vào đời', Quỳnh Kool vào vai người chị cả lam lũ, chỗ dựa cho hai đứa em sau khi bố mẹ đột ngột qua đời trong phim Bước chân vào đời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T21:17:54.644474+07:00",
+      "fetched": "2026-02-22T21:17:54.644590+07:00"
+    },
+    {
+      "id": "52f93113b2f7f01f229ecb91b7917302",
+      "title": "Đại sứ Nhật Bản mê Tết Việt, khoái bánh xèo tôm nhảy Quy Nhơn và nghe 'Tết à Tết ơi' quá vui",
+      "link": "https://tuoitre.vn/dai-su-nhat-ban-me-tet-viet-khoai-banh-xeo-tom-nhay-quy-nhon-va-nghe-tet-a-tet-oi-qua-vui-20260222190732995.htm",
+      "summary": "Đại sứ ITO Naoki đón Tết cổ truyền ở Côn Đảo, Quy Nhơn, khen bánh xèo tôm nhảy ở Quy Nhơn và kết thúc kỳ nghỉ bằng việc đi tour các đền chùa Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T21:17:54.644347+07:00",
+      "fetched": "2026-02-22T21:17:54.644463+07:00"
+    },
+    {
+      "id": "20c28b4ff94d75ee4ef6cc946e9cf020",
+      "title": "Lời tiên tri của Baba Vanga 'sốt' trở lại sau phát ngôn về người ngoài hành tinh của ông Trump",
+      "link": "https://tuoitre.vn/loi-tien-tri-cua-baba-vanga-sot-tro-lai-sau-phat-ngon-ve-nguoi-ngoai-hanh-tinh-cua-ong-trump-20260222183912792.htm",
+      "summary": "Một lời tiên tri của Baba Vanga bất ngờ \"sốt\" trở lại sau khi ôngTrump ra lệnh công bố các tài liệu liên quan đến sự sống ngoài Trái đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T21:17:54.644218+07:00",
+      "fetched": "2026-02-22T21:17:54.644335+07:00"
+    },
+    {
+      "id": "5006fc20187852c74c5dd41df385b6a3",
+      "title": "Thái Lan siết đường trong đồ uống để cải thiện sức khỏe người dân",
+      "link": "https://tuoitre.vn/thai-lan-siet-duong-trong-do-uong-de-cai-thien-suc-khoe-nguoi-dan-20260222190713338.htm",
+      "summary": "Chính phủ Thái Lan đang triển khai chiến dịch cắt giảm một nửa “độ ngọt tiêu chuẩn” trong nhiều loại đồ uống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T21:17:54.644089+07:00",
+      "fetched": "2026-02-22T21:17:54.644207+07:00"
+    },
+    {
+      "id": "d5dbad6b6bc90b236139bb8fbd6d1f20",
+      "title": "Đâu phải ‘banker’ nào cũng nhận lương mấy chỉ vàng, có ngân hàng chỉ trả hơn chục triệu/tháng",
+      "link": "https://tuoitre.vn/dau-phai-banker-nao-cung-nhan-luong-may-chi-vang-co-ngan-hang-chi-tra-hon-chuc-trieu-thang-20260222182530771.htm",
+      "summary": "Thống kê cho thấy, nhiều ngân hàng có thu nhập bình quân nhân viên khá cao với mức 40-50 triệu đồng/tháng năm 2025. Ngược lại, có ngân hàng lại chưa tới 18 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T21:17:54.643958+07:00",
+      "fetched": "2026-02-22T21:17:54.644077+07:00"
+    },
+    {
+      "id": "7b777b9ab1e5699f49d27e68c0af7cbf",
+      "title": "Thủ tướng: Phấn đấu 19-5 tới thông tuyến cao tốc từ Cao Bằng tới Cà Mau theo tiêu chuẩn mới",
+      "link": "https://tuoitre.vn/thu-tuong-phan-dau-19-5-toi-thong-tuyen-cao-toc-tu-cao-bang-toi-ca-mau-theo-tieu-chuan-moi-20260222184159907.htm",
+      "summary": "Thủ tướng Chính phủ Phạm Minh Chính đề nghị phấn đấu đến 19-5 thông tuyến cao tốc từ Cao Bằng tới Cà Mau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T21:17:54.643820+07:00",
+      "fetched": "2026-02-22T21:17:54.643946+07:00"
+    },
+    {
+      "id": "40cdc5a50e3188cc0742a3ebfd3d99e4",
+      "title": "Tạm giữ hình sự kẻ hành hung bạn gái đến tử vong tại Đắk Lắk",
+      "link": "https://tuoitre.vn/tam-giu-hinh-su-ke-hanh-hung-ban-gai-den-tu-vong-tai-dak-lak-20260222192251958.htm",
+      "summary": "Công an tỉnh Đắk Lắk đã tạm giữ hình sự một người đàn ông để điều tra hành vi cố ý gây thương tích dẫn đến chết người sau vụ hành hung bạn gái xảy ra khuya mùng 5 Tết tại thôn Phú Mỹ, xã Hòa Thịnh (Phú Yên cũ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T21:17:54.643666+07:00",
+      "fetched": "2026-02-22T21:17:54.643807+07:00"
+    },
+    {
+      "id": "010105922be8cd856eca6f97448eb67b",
+      "title": "Dự siêu giải cờ tướng, Lại Lý Huynh được xếp ngang 2 'đại tông sư' Trung Quốc",
+      "link": "https://tuoitre.vn/du-sieu-giai-co-tuong-lai-ly-huynh-duoc-xep-ngang-2-dai-tong-su-trung-quoc-20260222125551518.htm",
+      "summary": "Lữ Khâm và Liễu Đại Hoa là 2 huyền thoại được liệt vào hàng \"đại tông sư\" của Trung Quốc. Và 1 trong 2 huyền thoại kể trên có thể sẽ là đối thủ của Lại Lý Huynh ở siêu giải đấu Ngũ Dương Bôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T21:17:54.643521+07:00",
+      "fetched": "2026-02-22T21:17:54.643654+07:00"
+    },
+    {
+      "id": "8f4278e0425f12259580c05298ecf56a",
+      "title": "Hoàng hôn 'tỉ đô' ở Nha Trang thu hút du khách đầu năm",
+      "link": "https://tuoitre.vn/hoang-hon-ti-do-o-nha-trang-thu-hut-du-khach-dau-nam-20260222194436227.htm",
+      "summary": "Điểm ngắm hoàng hôn với view \"tỉ đô\" ở phường Bắc Nha Trang (Khánh Hòa) thu hút du khách trong mùa cao điểm du lịch đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T21:17:54.643291+07:00",
+      "fetched": "2026-02-22T21:17:54.643507+07:00"
+    },
     {
       "id": "25bc7f6995cd99edc767fcda3d7511d3",
       "title": "Vụ cháy quán cà phê ở phường Hiệp Bình: Ngọn lửa bùng phát tại nhà kho chứa vật dụng",
@@ -343,6 +433,56 @@ window.newsData_2026_02_22 = {
       "fetched": "2026-02-22T15:21:06.071080+07:00"
     },
     {
+      "id": "4e0c2c0a52bbeb7a176fa7d54ffa7f6d",
+      "title": "Hoàng gia Anh ‘bật đèn xanh’, ông Andrew sẽ bị tước quyền kế vị?",
+      "link": "https://thanhnien.vn/hoang-gia-anh-bat-den-xanh-ong-andrew-se-bi-tuoc-quyen-ke-vi-185260222164218762.htm",
+      "summary": "Báo The Guardian hôm 21.2 dẫn nguồn thạo tin xác nhận Hoàng gia Anh không phản đối kế hoạch của chính phủ nhằm loại trừ khả năng cựu hoàng tử Andrew, em trai Vua Charles, có thể kế vị ngai vàng trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T14:00:00+07:00",
+      "fetched": "2026-02-22T21:17:53.739160+07:00"
+    },
+    {
+      "id": "961badcc942f08a6033dd0c49edb9bcb",
+      "title": "'Công chúa tuyết' Eileen Gu giành HC vàng trong ngày cuối Olympic mùa Đông",
+      "link": "https://vnexpress.net/cong-chua-tuyet-eileen-gu-gianh-hc-vang-trong-ngay-cuoi-olympic-mua-dong-5042944.html",
+      "summary": "Eileen Gu trở thành VĐV giàu thành tích nhất lịch sử trượt tuyết tự do Olympic, khi giành HC vàng nội dung halfpipe với 94,75 điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T13:46:56+07:00",
+      "fetched": "2026-02-22T21:17:50.878456+07:00"
+    },
+    {
+      "id": "961badcc942f08a6033dd0c49edb9bcb",
+      "title": "'Công chúa tuyết' Eileen Gu giành HC vàng trong ngày cuối Olympic mùa Đông",
+      "link": "https://vnexpress.net/cong-chua-tuyet-eileen-gu-gianh-hc-vang-trong-ngay-cuoi-olympic-mua-dong-5042944.html",
+      "summary": "Eileen Gu trở thành VĐV giàu thành tích nhất lịch sử trượt tuyết tự do Olympic, khi giành HC vàng nội dung halfpipe với 94,75 điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-22T13:46:56+07:00",
+      "fetched": "2026-02-22T21:18:00.232888+07:00"
+    },
+    {
+      "id": "b9239eed6832ba0a182c7c38b1db6302",
+      "title": "Phái viên Mỹ: 'Ông Trump thắc mắc vì sao Iran chưa khuất phục'",
+      "link": "https://vnexpress.net/phai-vien-my-ong-trump-thac-mac-vi-sao-iran-chua-khuat-phuc-5042923.html",
+      "summary": "Đặc phái viên Witkoff cho biết Tổng thống Trump đang thắc mắc lý do Iran \"chưa chịu khuất phục\" trước áp lực quân sự ngày càng tăng của Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T13:46:27+07:00",
+      "fetched": "2026-02-22T21:17:50.878637+07:00"
+    },
+    {
+      "id": "b9239eed6832ba0a182c7c38b1db6302",
+      "title": "Phái viên Mỹ: 'Ông Trump thắc mắc vì sao Iran chưa khuất phục'",
+      "link": "https://vnexpress.net/phai-vien-my-ong-trump-thac-mac-vi-sao-iran-chua-khuat-phuc-5042923.html",
+      "summary": "Đặc phái viên Witkoff cho biết Tổng thống Trump đang thắc mắc lý do Iran \"chưa chịu khuất phục\" trước áp lực quân sự ngày càng tăng của Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-22T13:46:27+07:00",
+      "fetched": "2026-02-22T21:17:56.277827+07:00"
+    },
+    {
       "id": "cdc234e7e5f24353a1268c4d4ec2eebb",
       "title": "Dự báo thời tiết từ 22-2 đến 28-2: Bắc Bộ giảm nhiệt, Nam Bộ nắng nóng",
       "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-22-2-den-28-2-bac-bo-giam-nhiet-nam-bo-nang-nong-20260221171450511.htm",
@@ -493,6 +633,166 @@ window.newsData_2026_02_22 = {
       "fetched": "2026-02-22T13:35:50.208392+07:00"
     },
     {
+      "id": "bd6a85d397982a84c9b11fb16c550563",
+      "title": "Chồng cũ đánh bạn nhậu của vợ tử vong: Nạn nhân xuất huyết não do ngoại lực",
+      "link": "https://thanhnien.vn/chong-cu-danh-ban-nhau-cua-vo-tu-vong-nan-nhan-xuat-huyet-nao-do-ngoai-luc-185260222181302759.htm",
+      "summary": "Một người đàn ông ở Cà Mau tử vong do xuất huyết não vì ngoại lực sau khi bị chồng cũ của bạn nhậu đánh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T13:03:00+07:00",
+      "fetched": "2026-02-22T21:17:53.739332+07:00"
+    },
+    {
+      "id": "e06ab8c794f1946449978db1f765f1ce",
+      "title": "Những kỷ lục vô tiền khoáng hậu của du lịch Việt trong kỳ tết lịch sử 2026",
+      "link": "https://thanhnien.vn/nhung-ky-luc-vo-tien-khoang-hau-cua-du-lich-viet-trong-ky-tet-lich-su-2026-185260222195124826.htm",
+      "summary": "Kỳ nghỉ Tết Nguyên đán Bính Ngọ 2026 kéo dài 9 ngày đã khép lại với những con số tăng trưởng ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T13:01:00+07:00",
+      "fetched": "2026-02-22T21:17:53.739492+07:00"
+    },
+    {
+      "id": "48635e6231d966fb645c80676c43feb6",
+      "title": "Năm nào đón Tết Nguyên đán sớm nhất trong thế kỷ 21?",
+      "link": "https://vnexpress.net/nam-nao-don-tet-nguyen-dan-som-nhat-trong-the-ky-21-5042727.html",
+      "summary": "Trong thế kỷ 21, ngày mùng 1 Tết Nguyên đán luôn nằm trong khoảng 21/1 đến 20/2 dương lịch. Bạn có biết Tết năm nào đến sớm nhất?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T13:00:00+07:00",
+      "fetched": "2026-02-22T21:17:50.878819+07:00"
+    },
+    {
+      "id": "b7a2352dfcd2a7b7d73f41491ffd3570",
+      "title": "Cánh buồm đỏ thành điểm check in 'hot' ở Hạ Long dịp Tết",
+      "link": "https://vnexpress.net/canh-buom-do-thanh-diem-check-in-hot-o-ha-long-dip-tet-5042598.html",
+      "summary": "Nhiều người dân và du khách lựa chọn đường bao biển Trần Quốc Nghiễn làm điểm check in để ghi lại hình ảnh những cánh buồm cổ phục dựng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T13:00:00+07:00",
+      "fetched": "2026-02-22T21:17:50.878991+07:00"
+    },
+    {
+      "id": "9302ac603d8af7c0fa058c04dc967972",
+      "title": "Người nước ngoài có được mua đất làm homestay tại Việt Nam?",
+      "link": "https://vnexpress.net/nguoi-nuoc-ngoai-co-duoc-mua-dat-lam-homestay-tai-viet-nam-5040017.html",
+      "summary": "Một nhà đầu tư người Úc muốn mua đất ven biển miền Trung xây homestay nhưng được môi giới gợi ý \"nhờ người Việt đứng tên\" nên rất băn khoăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T13:00:00+07:00",
+      "fetched": "2026-02-22T21:17:50.879150+07:00"
+    },
+    {
+      "id": "31d0458850357deaba8bf263a6bd8d59",
+      "title": "Xuyên đêm vươn khơi, ngư dân Quảng Ngãi trúng 'lộc biển'",
+      "link": "https://thanhnien.vn/xuyen-dem-vuon-khoi-ngu-dan-quang-ngai-trung-loc-bien-185260222160059237.htm",
+      "summary": "Rạng sáng mùng 6 tết, bãi biển và cảng cá ở Quảng Ngãi rộn ràng khi tàu thuyền cập bến, khoang đầy ắp cá tươi. Phiên biển đầu năm trúng đậm, giá tăng cao, mang theo niềm vui 'lộc biển' cho ngư dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T13:00:00+07:00",
+      "fetched": "2026-02-22T21:17:53.739648+07:00"
+    },
+    {
+      "id": "68fadc8a1d8747baecf2f717dedace48",
+      "title": "Xem nhanh 20h ngày 22.2: Các cao tốc trở lại thành phố ít ùn tắc | Cập nhật vụ lật tàu hồ Thác Bà",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-222-cac-cao-toc-tro-lai-thanh-pho-it-un-tac-cap-nhat-vu-lat-tau-ho-thac-ba-185260222151315667.htm",
+      "summary": "'Xem nhanh 20h' ngày 22.2 có nhiều tin tức đáng chú ý về: Cục CSGT cập nhật tình hình giao thông trên các tuyến cao tốc; cập nhật vụ lật tàu trên hồ Thác Bà;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T13:00:00+07:00",
+      "fetched": "2026-02-22T21:17:53.739827+07:00"
+    },
+    {
+      "id": "3e0037afe280d6681518b86e43a4ba15",
+      "title": "Xử phạt xe khách chở quá người, đi sai làn trên quốc lộ 14",
+      "link": "https://thanhnien.vn/xu-phat-xe-khach-cho-qua-nguoi-di-sai-lan-tren-quoc-lo-14-185260222192509568.htm",
+      "summary": "Một xe khách chở quá số người quy định, đi sai làn đường trên quốc lộ 14 đã bị CSGT tỉnh Đồng Nai phát hiện, xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T12:56:00+07:00",
+      "fetched": "2026-02-22T21:17:53.739983+07:00"
+    },
+    {
+      "id": "40a1c81c3122a04e61b7ed9b1846dce9",
+      "title": "Con trai 10 tuổi kiện bố lấy trộm tiền lì xì",
+      "link": "https://vnexpress.net/con-trai-10-tuoi-kien-bo-lay-trom-tien-li-xi-5042926.html",
+      "summary": "Tiểu Huy, 10 tuổi, bị bố lén rút sạch hơn 80.000 nhân dân tệ tiền mừng tuổi tích cóp nhiều năm để chi trả cho đám cưới với vợ mới nên kiện ra tòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T12:49:22+07:00",
+      "fetched": "2026-02-22T21:17:50.879305+07:00"
+    },
+    {
+      "id": "8ecb7503e34e6c82240ed242e9ab858e",
+      "title": "Mạo danh Đức Pháp chủ Giáo hội Phật giáo Việt Nam kêu gọi chuyển tiền trục lợi",
+      "link": "https://thanhnien.vn/mao-danh-duc-phap-chu-giao-hoi-phat-giao-viet-nam-keu-goi-chuyen-tien-truc-loi-185260222162010225.htm",
+      "summary": "Những ngày đầu xuân Bính Ngọ, xuất hiện một số tài khoản mạng xã hội mạo danh Đức Pháp chủ Giáo hội Phật giáo Việt Nam, để kêu gọi chuyển tiền với nhiều hình thức khác nhau, gây bức xúc trong dư luận phật tử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T12:45:00+07:00",
+      "fetched": "2026-02-22T21:17:53.740141+07:00"
+    },
+    {
+      "id": "cb176c47aaa1e41ff6f6f176ff206f0a",
+      "title": "Tối mùng 6 tết, giải độc đắc của Vietlott cộng dồn lên 30,1 tỉ đồng",
+      "link": "https://thanhnien.vn/toi-mung-6-tet-giai-doc-dac-cua-vietlott-cong-don-len-301-ti-dong-185260222193259798.htm",
+      "summary": "Tối 22.2, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không có người trúng giải độc đắc nào nên số tiền cộng dồn là 30,1 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T12:38:00+07:00",
+      "fetched": "2026-02-22T21:17:53.740293+07:00"
+    },
+    {
+      "id": "3c3a948f370e7fd89f80204ff9bf0ed1",
+      "title": "Người đàn ông lặng lẽ dọn đường, tiếp sức dòng người trở về TP.HCM sau tết",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-lang-le-don-duong-tiep-suc-dong-nguoi-tro-ve-tphcm-sau-tet-185260222171640119.htm",
+      "summary": "Chiều 22.2, dòng người từ các tỉnh miền Tây đổ về TP.HCM khiến khu vực cửa ngõ ùn ứ. Giữa biển người xe tấp nập, ông Đinh Minh Cảnh vẫn miệt mài điều khiển xe hút đinh trên đường để bà con 'thượng lộ bình an'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T12:37:00+07:00",
+      "fetched": "2026-02-22T21:17:53.740443+07:00"
+    },
+    {
+      "id": "02ff70bee914f8fc647d6c19fe73db57",
+      "title": "Ném cà chua để lấy may",
+      "link": "https://vnexpress.net/nem-ca-chua-de-lay-may-5042899.html",
+      "summary": "Mùng 6 Tết, người dân đổ về phiên chợ Chuộng ở xã Đông Hoàng để ném cà chua, theo quan niệm dân gian nhằm giải xui, gặp may mắn trong năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T12:30:00+07:00",
+      "fetched": "2026-02-22T21:17:50.879467+07:00"
+    },
+    {
+      "id": "b258f6248967fdd88bc77fd9ce608067",
+      "title": "Quán cà phê bị cháy mùng 6 tết ở TP.HCM ra thông báo mới, dân mạng chia buồn",
+      "link": "https://thanhnien.vn/quan-ca-phe-bi-chay-mung-6-tet-o-tphcm-ra-thong-bao-moi-dan-mang-chia-buon-185260222160949152.htm",
+      "summary": "Một quán cà phê nổi tiếng ở TP.HCM bất ngờ bị cháy hôm nay 22.2, mùng 6 tết. Quán vừa ra thông báo mới, bên dưới bài đăng nhiều người để lại bình luận chia buồn, động viên chủ quán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T12:30:00+07:00",
+      "fetched": "2026-02-22T21:17:53.740591+07:00"
+    },
+    {
+      "id": "5bceb04d06f963bb513846370f777817",
+      "title": "Kiev rung chuyển sau loạt tên lửa Zircon, Iskander-M của Nga",
+      "link": "https://vnexpress.net/kiev-rung-chuyen-sau-loat-ten-lua-zircon-iskander-m-cua-nga-5042902.html",
+      "summary": "Nga tiến hành đợt tấn công hiệp đồng bằng nhiều loại tên lửa và UAV tự sát, dẫn đến những vụ nổ dữ dội tại thủ đô của Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T12:23:38+07:00",
+      "fetched": "2026-02-22T21:17:50.879624+07:00"
+    },
+    {
+      "id": "5bceb04d06f963bb513846370f777817",
+      "title": "Kiev rung chuyển sau loạt tên lửa Zircon, Iskander-M của Nga",
+      "link": "https://vnexpress.net/kiev-rung-chuyen-sau-loat-ten-lua-zircon-iskander-m-cua-nga-5042902.html",
+      "summary": "Nga tiến hành đợt tấn công hiệp đồng bằng nhiều loại tên lửa và UAV tự sát, dẫn đến những vụ nổ dữ dội tại thủ đô của Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-22T12:23:38+07:00",
+      "fetched": "2026-02-22T21:17:56.278008+07:00"
+    },
+    {
       "id": "130ac90319ef9b01411558869f9ee481",
       "title": "Chiến sĩ nhà giàn DK1/10 cấp cứu ngư dân bị nạn trên biển",
       "link": "https://thanhnien.vn/chien-si-nha-gian-dk1-10-cap-cuu-ngu-dan-bi-nan-tren-bien-185260222180117074.htm",
@@ -521,6 +821,36 @@ window.newsData_2026_02_22 = {
       "category": "Tổng hợp",
       "published": "2026-02-22T12:17:00+07:00",
       "fetched": "2026-02-22T19:28:32.540843+07:00"
+    },
+    {
+      "id": "cdcff814f0a7881fec2e5dc626adc4e4",
+      "title": "Đốt vàng mã lấy được để thể hiện lòng thành ngày Tết",
+      "link": "https://vnexpress.net/dot-vang-ma-lay-duoc-de-the-hien-long-thanh-ngay-tet-5042891.html",
+      "summary": "Đốt vàng mã, đặc biệt là giấy kém chất lượng, nhiều màu in hóa chất, tạo ra khói, bụi mịn và các khí độc hại, sao nhiều người vẫn ham?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T12:15:51+07:00",
+      "fetched": "2026-02-22T21:17:50.879798+07:00"
+    },
+    {
+      "id": "1a36689b8694d34790a957b0dfef636f",
+      "title": "Cô gái từng đi qua giông bão tìm người thương",
+      "link": "https://vnexpress.net/co-gai-tung-di-qua-giong-bao-tim-nguoi-thuong-5042910.html",
+      "summary": "Mình sinh năm 1989, là mẹ đơn thân của bé trai 7 tuổi, sống và làm việc ở Hải Dương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T12:14:09+07:00",
+      "fetched": "2026-02-22T21:17:50.879911+07:00"
+    },
+    {
+      "id": "21ab7841043c174a69ec06f7b82d5b88",
+      "title": "Thời trang ở sân bay của Nicole Kidman",
+      "link": "https://vnexpress.net/thoi-trang-o-san-bay-cua-nicole-kidman-5042892.html",
+      "summary": "Minh tinh Nicole Kidman, 59 tuổi, theo phong cách đơn giản nhưng thanh lịch mỗi khi ra sân bay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T12:06:11+07:00",
+      "fetched": "2026-02-22T21:17:50.880069+07:00"
     },
     {
       "id": "d521b9ba0e81576ba253fcefeae4bb09",
