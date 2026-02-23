@@ -1,7 +1,157 @@
 window.newsData_2026_02_23 = {
   "date": "2026-02-23",
-  "lastUpdated": "2026-02-23T08:15:21.262455+07:00",
+  "lastUpdated": "2026-02-23T11:13:56.423631+07:00",
   "articles": [
+    {
+      "id": "2c41785b8f6d4066cfbf640252581e06",
+      "title": "Điều gì giúp con trai Ronaldo cao 1m90 ở tuổi 15?",
+      "link": "https://tuoitre.vn/dieu-gi-giup-con-trai-ronaldo-cao-1m90-o-tuoi-15-20260223002043096.htm",
+      "summary": "Trong những hình ảnh mới nhất, Ronaldo Jr - cậu con trai cả của Cristiano Ronaldo gây sốt với chiều cao lên đến 1m90.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.975902+07:00",
+      "fetched": "2026-02-23T11:13:47.976016+07:00"
+    },
+    {
+      "id": "c42f4aeba8f0ee94c88622a589184d9b",
+      "title": "Khởi đầu năm mới đúng cách, sức khỏe dồi dào",
+      "link": "https://tuoitre.vn/khoi-dau-nam-moi-dung-cach-suc-khoe-doi-dao-20260223083748631.htm",
+      "summary": "Sau những ngày Tết rộn ràng sum họp, năm mới mở ra bằng nhịp sống quen thuộc trở lại. Đó là lúc mỗi người bắt đầu hành trình mới với những mong ước rất giản dị khỏe mạnh hơn, tinh thần vui vẻ hơn, sống cân bằng hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.975774+07:00",
+      "fetched": "2026-02-23T11:13:47.975890+07:00"
+    },
+    {
+      "id": "5fd7a1d7952e76fd38b6d8f3bfe41ba4",
+      "title": "Nhờ đâu du lịch miền Tây bội thu ngày Tết?",
+      "link": "https://tuoitre.vn/nho-dau-du-lich-mien-tay-boi-thu-ngay-tet-20260222223518935.htm",
+      "summary": "Sáng 22-2, ông Bùi Quốc Thái - Giám đốc Sở Du lịch tỉnh An Giang - cho biết trong những ngày nghỉ Tết, tỉnh này ước đón hơn 1,7 triệu lượt khách (tăng hơn 37% so với cùng kỳ), khách quốc tế gần 100.000 lượt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.975642+07:00",
+      "fetched": "2026-02-23T11:13:47.975763+07:00"
+    },
+    {
+      "id": "5a6cda7e161e0d2ed6bcf1bb16453c96",
+      "title": "Tai nạn giao thông giảm mạnh dịp Tết: Vì sao?",
+      "link": "https://tuoitre.vn/tai-nan-giao-thong-giam-manh-dip-tet-vi-sao-20260223080315165.htm",
+      "summary": "Trong 9 ngày nghỉ Tết Bính Ngọ 2026 (14 đến 22-2), có 381 vụ tai nạn đã xảy ra trên toàn quốc, làm chết 230 người, bị thương 274 người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.975514+07:00",
+      "fetched": "2026-02-23T11:13:47.975631+07:00"
+    },
+    {
+      "id": "932b8248de7fd5484b96c2cf3fb90168",
+      "title": "Người Việt khai phá công nghệ 5G",
+      "link": "https://tuoitre.vn/nguoi-viet-khai-pha-cong-nghe-5g-20260222224647932.htm",
+      "summary": "Tháng 8-2025, TS Ngô Quốc Hiển đã được Đại học Queen's Belfast - một thành viên của nhóm 24 trường đại học hàng đầu của Anh - phong tặng danh hiệu Giáo sư thực thụ (Full Professor) - cấp bậc học thuật cao nhất trong hệ thống giáo dục Anh quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.975363+07:00",
+      "fetched": "2026-02-23T11:13:47.975502+07:00"
+    },
+    {
+      "id": "f663245ccd421f43469b86af3544221b",
+      "title": "One Battle After Another đại thắng tại BAFTA, Marty Supreme 'trắng tay'",
+      "link": "https://tuoitre.vn/one-battle-after-another-dai-thang-tai-bafta-marty-supreme-trang-tay-2026022308490316.htm",
+      "summary": "Lễ trao giải của British Academy of Film and Television Arts (BAFTA) diễn ra tại London chứng kiến màn chiến thắng áp đảo của One Battle After Another.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.975236+07:00",
+      "fetched": "2026-02-23T11:13:47.975352+07:00"
+    },
+    {
+      "id": "4e1f82b0b236c3d7496fae54fefbdc5a",
+      "title": "Tour trung và cao cấp lên ngôi, du lịch TP.HCM thắng lớn",
+      "link": "https://tuoitre.vn/tour-trung-va-cao-cap-len-ngoi-du-lich-tp-hcm-thang-lon-20260222224054133.htm",
+      "summary": "Sở Du lịch TP.HCM cho biết trong 9 ngày kỳ nghỉ Tết, tổng doanh thu du lịch ước đạt tới 12.150 tỉ đồng, tăng 42,9% so với cùng kỳ năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.975106+07:00",
+      "fetched": "2026-02-23T11:13:47.975224+07:00"
+    },
+    {
+      "id": "82245498ccff3f8cb21ab963605cf134",
+      "title": "Tăng trưởng hai con số để thay đổi vị thế quốc gia",
+      "link": "https://tuoitre.vn/tang-truong-hai-con-so-de-thay-doi-vi-the-quoc-gia-20260223082527837.htm",
+      "summary": "Trên thế giới chỉ có 34 trong số 142 nền kinh tế vượt qua bẫy thu nhập trung bình để trở thành nước thu nhập cao. Do đó tăng trưởng hai con số không chỉ là mục tiêu chính trị, mà còn là công cụ để thay đổi vị thế quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.974977+07:00",
+      "fetched": "2026-02-23T11:13:47.975095+07:00"
+    },
+    {
+      "id": "485c4f0984da68f69e1aa33493d1e520",
+      "title": "Ông Zelensky: Ông Putin đã bắt đầu Thế chiến 3",
+      "link": "https://tuoitre.vn/ong-zelensky-ong-putin-da-bat-dau-the-chien-3-20260223084747424.htm",
+      "summary": "Tổng thống Zelensky và Tổng thống Putin vừa đưa ra nhiều bình luận đáng chú ý, chỉ vài ngày trước khi tròn 4 năm xung đột.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.974847+07:00",
+      "fetched": "2026-02-23T11:13:47.974966+07:00"
+    },
+    {
+      "id": "3cf4295881f674797e13cabfbfee9250",
+      "title": "Bính Ngọ - lửa trong chuyển động",
+      "link": "https://tuoitre.vn/binh-ngo-lua-trong-chuyen-dong-20260223083045959.htm",
+      "summary": "Mỗi mùa xuân đến đều mang theo một cái tên. Năm nay là Bính Ngọ. Trong nhịp chuyển của đất trời, người phương Đông từ lâu đã gửi gắm vào hệ Can Chi một lớp nghĩa văn hóa về thời gian và vận động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.974705+07:00",
+      "fetched": "2026-02-23T11:13:47.974835+07:00"
+    },
+    {
+      "id": "974348af7e8b7cfddab3de44d5161f93",
+      "title": "Mexico tiêu diệt trùm ma túy nguy hiểm nhất Bắc Mỹ, bạo lực bùng phát khắp nước",
+      "link": "https://tuoitre.vn/mexico-tieu-diet-trum-ma-tuy-nguy-hiem-nhat-bac-my-bao-luc-bung-phat-khap-nuoc-20260223084321524.htm",
+      "summary": "Cái chết của ông trùm Nemesio Ruben Oseguera Cervantes đã châm ngòi bạo lực khắp Mexico. Các tay súng phóng hỏa đốt xe và phong tỏa các tuyến cao tốc tại nhiều bang trên khắp cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.974571+07:00",
+      "fetched": "2026-02-23T11:13:47.974693+07:00"
+    },
+    {
+      "id": "799b5adb79ce22380ad79086cd73ea6d",
+      "title": "Bắt người giật chìa khóa, chửi bới, ép khách trả tiền gửi xe trái phép ở đền Bà Chúa",
+      "link": "https://tuoitre.vn/bat-nguoi-giat-chia-khoa-chui-boi-ep-khach-tra-tien-gui-xe-trai-phep-o-den-ba-chua-20260223091724056.htm",
+      "summary": "Người phụ nữ có hành vi chửi bới, giật chìa khóa, ép khách trả tiền gửi xe trái phép ở Bắc Ninh vừa bị tạm giữ hình sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.974436+07:00",
+      "fetched": "2026-02-23T11:13:47.974559+07:00"
+    },
+    {
+      "id": "5520785e43c9c853b1f79c08a99f4fab",
+      "title": "Tết Việt trong trường học ở Mỹ",
+      "link": "https://tuoitre.vn/tet-viet-trong-truong-hoc-o-my-2026022309115345.htm",
+      "summary": "Tết Bính Ngọ năm nay, niềm vui của cộng đồng người Việt tại thành phố Keller (Texas, Mỹ), một phần của khu vực Dallas-Fort Worth (DFW), được nhân lên khi con cái hòa trong không khí Tết Việt cùng học sinh ở Keller ISD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.974276+07:00",
+      "fetched": "2026-02-23T11:13:47.974422+07:00"
+    },
+    {
+      "id": "7314f4f9d020f81754e1af10920ec8b3",
+      "title": "Jennie BlackPink đang 'phông bạt'?",
+      "link": "https://tuoitre.vn/jennie-blackpink-dang-phong-bat-20260223093253387.htm",
+      "summary": "Jennie đang trở thành tâm điểm tranh cãi sau khi album solo Ruby không xuất hiện trong bảng xếp hạng doanh số toàn cầu 2025 của IFPI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.974126+07:00",
+      "fetched": "2026-02-23T11:13:47.974263+07:00"
+    },
+    {
+      "id": "abf79ba8161c14e4668406d02299769d",
+      "title": "Bị tòa bác bỏ, thuế quan của ông Trump thêm mất lòng dân",
+      "link": "https://tuoitre.vn/bi-toa-bac-bo-thue-quan-cua-ong-trump-them-mat-long-dan-20260222230425703.htm",
+      "summary": "Các nhà phân tích cho rằng phán quyết thuế quan của Tòa án Tối cao Mỹ đã khép lại một chương bất ổn kinh tế và mở ra chương khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T11:13:47.973877+07:00",
+      "fetched": "2026-02-23T11:13:47.974110+07:00"
+    },
     {
       "id": "6e110f7443460804fc9438b23e29ddec",
       "title": "Thời tiết hôm nay 23-2: Nam Bộ nắng nóng, nhiều tỉnh lên tới 37 độ C",
@@ -153,6 +303,426 @@ window.newsData_2026_02_23 = {
       "fetched": "2026-02-23T08:15:13.629592+07:00"
     },
     {
+      "id": "b1bb84686746897e176f0bd1507b623f",
+      "title": "Xe bán tải: Ford Ranger bỏ xa các đối thủ ngay trong bước 'chạy đà' doanh số",
+      "link": "https://thanhnien.vn/xe-ban-tai-ford-ranger-bo-xa-cac-doi-thu-ngay-trong-buoc-chay-da-doanh-so-185260214074850812.htm",
+      "summary": "Màn tăng tốc ngay trong bước chạy đà đang giúp Ford Ranger bỏ xa các đối thủ cạnh tranh ở phân khúc xe bán tải trong bối cảnh tổng doanh số dòng xe này trong tháng đầu năm 2026 giảm nhẹ so với tháng trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T04:04:00+07:00",
+      "fetched": "2026-02-23T11:13:46.519712+07:00"
+    },
+    {
+      "id": "20efbb3e38acaf648f783b2020711571",
+      "title": "‘Thỏ ơi’ của Trấn Thành có vượt mốc 550 tỉ phim ‘Mai’?",
+      "link": "https://thanhnien.vn/tho-oi-cua-tran-thanh-co-vuot-moc-550-ti-phim-mai-185260223082441686.htm",
+      "summary": "Trấn Thành từng công khai bày tỏ tham vọng 'Thỏ ơi' phải vượt mốc doanh thu 550 tỉ đồng của 'Mai'. Đó không chỉ là mong muốn mà còn là lời tuyên chiến với chính kỷ lục do anh tạo ra trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T04:03:00+07:00",
+      "fetched": "2026-02-23T11:13:46.519887+07:00"
+    },
+    {
+      "id": "e888cef04aea67370c828af49b32e86b",
+      "title": "Xem nhanh 12h: Drone 'uy hiếp' máy bay tại Đà Nẵng | Lịch nghỉ Giỗ tổ Hùng Vương, 30.4 - 1.5",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-drone-uy-hiep-may-bay-tai-da-nang-lich-nghi-gio-to-hung-vuong-304-15-185260223105253007.htm",
+      "summary": "Vụ lật tàu trên hồ Thác Bà, tình hình vi phạm giao thông dịp tết, lịch nghỉ Giỗ tổ Hùng Vương… sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 23.2.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T04:00:00+07:00",
+      "fetched": "2026-02-23T11:13:46.520048+07:00"
+    },
+    {
+      "id": "b6290bf2d9460cda77c441296941ab34",
+      "title": "Chuyên gia tập đoàn công nghệ: Website mới của Vietnam Airlines là trung tâm số thông minh",
+      "link": "https://thanhnien.vn/chuyen-gia-tap-doan-cong-nghe-website-moi-cua-vietnam-airlines-la-trung-tam-so-thong-minh-185260223101851479.htm",
+      "summary": "Trong bối cảnh hành vi khách hàng dịch chuyển mạnh mẽ sang môi trường số, website không còn đơn thuần là một kênh bán vé. Với ngành hàng không, nơi mỗi tương tác đều gắn với yếu tố thời gian, độ chính xác và cảm xúc, website đang trở thành nền tảng chiến lược quyết định trải nghiệm hành khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T04:00:00+07:00",
+      "fetched": "2026-02-23T11:13:46.520206+07:00"
+    },
+    {
+      "id": "a012efd34ee2fe85973049cfec7a2b78",
+      "title": "Dỡ hàng rào giúp 5 người đi ôtô về quê ăn Tết có chỗ đỗ xe",
+      "link": "https://vnexpress.net/do-hang-rao-giup-5-nguoi-di-oto-ve-que-an-tet-co-cho-do-xe-5043047.html",
+      "summary": "Nhiều người lái ôtô về quê ăn Tết, số lượng xe dồn về trong vài ngày cao điểm vượt xa khả năng chịu tải của đường làng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:55:43+07:00",
+      "fetched": "2026-02-23T11:13:42.928542+07:00"
+    },
+    {
+      "id": "c182aeb7645630f33a341f5251164990",
+      "title": "Hacker 'rút ruột' máy ATM chỉ bằng chiếc USB",
+      "link": "https://thanhnien.vn/hacker-rut-ruot-may-atm-chi-bang-chiec-usb-185260223095754682.htm",
+      "summary": "Không cần thẻ hay mã PIN, hacker vẫn khiến máy ATM tự động 'nhả' ra tiền nhờ một chiếc USB.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:52:00+07:00",
+      "fetched": "2026-02-23T11:13:46.520363+07:00"
+    },
+    {
+      "id": "4fc0dadc845214686e05e59fa6e4c477",
+      "title": "CSGT bắn tốc độ xuyên đêm trên cao tốc TP.HCM - Vân Phong, nhiều xe 'dính' phạt",
+      "link": "https://thanhnien.vn/csgt-ban-toc-do-xuyen-dem-tren-cao-toc-tphcm-van-phong-nhieu-xe-dinh-phat-185260223102616529.htm",
+      "summary": "CSGT tuần tra kiểm soát, bắn tốc độ xuyên đêm trên cao tốc TP.HCM - Vân Phong, nhiều xe 'dính' phạt trong ngày 22.2, tức mùng 6 tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:48:00+07:00",
+      "fetched": "2026-02-23T11:13:46.520542+07:00"
+    },
+    {
+      "id": "19b6ad594bcfcb40fcdc915c496dc0e8",
+      "title": "Slot: 'Liverpool hòa mới là kết quả công bằng'",
+      "link": "https://vnexpress.net/slot-liverpool-hoa-moi-la-ket-qua-cong-bang-5043023.html",
+      "summary": "HLV Arne Slot thừa nhận Liverpool gặp may khi thắng Nottingham Forest 1-0 ở vòng 27 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:41:01+07:00",
+      "fetched": "2026-02-23T11:13:42.928726+07:00"
+    },
+    {
+      "id": "19b6ad594bcfcb40fcdc915c496dc0e8",
+      "title": "Slot: 'Liverpool hòa mới là kết quả công bằng'",
+      "link": "https://vnexpress.net/slot-liverpool-hoa-moi-la-ket-qua-cong-bang-5043023.html",
+      "summary": "HLV Arne Slot thừa nhận Liverpool gặp may khi thắng Nottingham Forest 1-0 ở vòng 27 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-23T03:41:01+07:00",
+      "fetched": "2026-02-23T11:13:56.417569+07:00"
+    },
+    {
+      "id": "9dd4e399a89b8f8aa83b2646b4a1c791",
+      "title": "Giá vàng miếng tăng hơn 3 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-mieng-tang-hon-3-trieu-dong-5043071.html",
+      "summary": "Sau kỳ nghỉ lễ, các thương hiệu nâng giá bán vàng miếng thêm 3,6 triệu mỗi lượng lên 184,6 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:39:29+07:00",
+      "fetched": "2026-02-23T11:13:42.928901+07:00"
+    },
+    {
+      "id": "9dd4e399a89b8f8aa83b2646b4a1c791",
+      "title": "Giá vàng miếng tăng hơn 3 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-mieng-tang-hon-3-trieu-dong-5043071.html",
+      "summary": "Sau kỳ nghỉ lễ, các thương hiệu nâng giá bán vàng miếng thêm 3,6 triệu mỗi lượng lên 184,6 triệu đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-23T03:39:29+07:00",
+      "fetched": "2026-02-23T11:13:51.849381+07:00"
+    },
+    {
+      "id": "08f8d3d15ecfb2303c5994f23485303a",
+      "title": "Vì sao Eileen Gu bật khóc khi giành HC vàng Olympic mùa Đông?",
+      "link": "https://vnexpress.net/vi-sao-eileen-gu-bat-khoc-khi-gianh-hc-vang-olympic-mua-dong-5043068.html",
+      "summary": "Ngay sau khi giành HC vàng nội dung halfpipe môn trượt tuyết tự do, \"công chúa tuyết\" Eileen Gu nhận tin bà ngoại Feng Guozhen qua đời hôm 22/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:37:09+07:00",
+      "fetched": "2026-02-23T11:13:42.929063+07:00"
+    },
+    {
+      "id": "08f8d3d15ecfb2303c5994f23485303a",
+      "title": "Vì sao Eileen Gu bật khóc khi giành HC vàng Olympic mùa Đông?",
+      "link": "https://vnexpress.net/vi-sao-eileen-gu-bat-khoc-khi-gianh-hc-vang-olympic-mua-dong-5043068.html",
+      "summary": "Ngay sau khi giành HC vàng nội dung halfpipe môn trượt tuyết tự do, \"công chúa tuyết\" Eileen Gu nhận tin bà ngoại Feng Guozhen qua đời hôm 22/2.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-23T03:37:09+07:00",
+      "fetched": "2026-02-23T11:13:56.417235+07:00"
+    },
+    {
+      "id": "a85d84ca40bae20806c11b251810ee5a",
+      "title": "Đường miền Tây về TP.HCM kẹt xe nghiêm trọng, di chuyển 200 km mất hơn 8 tiếng",
+      "link": "https://thanhnien.vn/duong-mien-tay-ve-tphcm-ket-xe-nghiem-trong-di-chuyen-200-km-mat-hon-8-tieng-185260222231352264.htm",
+      "summary": "Khuya 22.2, dòng người từ miền Tây đổ về TP.HCM tăng mạnh khiến nhiều tuyến đường kẹt xe nghiêm trọng, nhiều người đi từ Đồng Tháp về TP.HCM mất hơn 8 tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:35:00+07:00",
+      "fetched": "2026-02-23T11:13:46.520696+07:00"
+    },
+    {
+      "id": "842da3b3737f9738f56617c0f56271a0",
+      "title": "Neville: 'Arsenal phải thắng trên sân Man City nếu muốn vô địch'",
+      "link": "https://vnexpress.net/neville-arsenal-phai-thang-tren-san-man-city-neu-muon-vo-dich-5043074.html",
+      "summary": "Theo cựu hậu vệ Gary Neville, Arsenal phải thắng Man City ngay tại Etihad ngày 18/4 để định đoạt cuộc đua vô địch Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:33:51+07:00",
+      "fetched": "2026-02-23T11:13:42.929226+07:00"
+    },
+    {
+      "id": "842da3b3737f9738f56617c0f56271a0",
+      "title": "Neville: 'Arsenal phải thắng trên sân Man City nếu muốn vô địch'",
+      "link": "https://vnexpress.net/neville-arsenal-phai-thang-tren-san-man-city-neu-muon-vo-dich-5043074.html",
+      "summary": "Theo cựu hậu vệ Gary Neville, Arsenal phải thắng Man City ngay tại Etihad ngày 18/4 để định đoạt cuộc đua vô địch Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-23T03:33:51+07:00",
+      "fetched": "2026-02-23T11:13:56.417408+07:00"
+    },
+    {
+      "id": "d79bef5c4533d164d8682c561f4ee07d",
+      "title": "5 món ăn thực vật bổ mắt",
+      "link": "https://vnexpress.net/5-mon-an-thuc-vat-bo-mat-5043018.html",
+      "summary": "Ăn cam quýt, hạt dẻ cười, đậu đen giúp bổ sung chất chống oxy hóa, nuôi dưỡng võng mạc, giữ đôi mắt sáng khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:30:00+07:00",
+      "fetched": "2026-02-23T11:13:42.929398+07:00"
+    },
+    {
+      "id": "68265c44e5c48ee23b4eed6a10d47f93",
+      "title": "Trên tay Galaxy S26 Ultra với cụm camera lồi trước giờ G",
+      "link": "https://thanhnien.vn/tren-tay-galaxy-s26-ultra-voi-cum-camera-loi-truoc-gio-g-185260223101043369.htm",
+      "summary": "Dòng Galaxy S26 sẽ chính thức ra mắt tại sự kiện Unpacked mà Samsung dự kiến tổ chức vào ngày 25.2 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:29:00+07:00",
+      "fetched": "2026-02-23T11:13:46.520855+07:00"
+    },
+    {
+      "id": "ba1adec2ca9488e0873b9937cbc9db91",
+      "title": "Sở Y tế Thanh Hóa thông tin chính thức vụ ngộ độc do ăn trứng cá rồng",
+      "link": "https://thanhnien.vn/so-y-te-thanh-hoa-thong-tin-chinh-thuc-vu-ngo-doc-do-an-trung-ca-rong-185260223101200402.htm",
+      "summary": "10 trong số 18 người ăn trứng và thịt cá phúc lộc thọ (còn gọi là cá rồng) ngày mùng 3 tết tại một gia đình ở xã Ngọc Liên (Thanh Hóa) đều bị đau bụng, nôn, tức ngực…, phải nhập viện cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:27:00+07:00",
+      "fetched": "2026-02-23T11:13:46.521016+07:00"
+    },
+    {
+      "id": "eeb4f6ef36988f0aef3acda71e5a236a",
+      "title": "Nhận diện sức mạnh 2 sao nhập tịch mới của Malaysia, đội tuyển Việt Nam hóa giải ra sao?",
+      "link": "https://thanhnien.vn/nhan-dien-suc-manh-2-sao-nhap-tich-moi-cua-malaysia-doi-tuyen-viet-nam-hoa-giai-ra-sao-185260222175239311.htm",
+      "summary": "Trong kế hoạch tăng cường lực lượng trước trận gặp đội tuyển Việt Nam ở lượt đấu cuối bảng F, vòng loại Asian Cup 2027, Malaysia đang tiến rất gần đến việc bổ sung hai nhân tố đáng chú ý: tiền đạo Bergson và trung vệ Gallifuoco.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:23:00+07:00",
+      "fetched": "2026-02-23T11:13:46.521171+07:00"
+    },
+    {
+      "id": "ea96bbc4a49d094fb5461c80c87d1252",
+      "title": "Trấn Thành là đạo diễn Việt đầu tiên chạm mốc doanh thu 2.000 tỉ",
+      "link": "https://thanhnien.vn/tran-thanh-la-dao-dien-viet-dau-tien-cham-moc-doanh-thu-2000-ti-185260223094924479.htm",
+      "summary": "Thành tích của 'Thỏ ơi' giúp Trấn Thành trở thành đạo diễn Việt đầu tiên có tổng doanh thu các phim chạm mốc 2.000 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:21:00+07:00",
+      "fetched": "2026-02-23T11:13:46.521329+07:00"
+    },
+    {
+      "id": "8aaeca5808d4f46d49a07fc859ac6607",
+      "title": "Sản phụ băng huyết, rách tầng sinh môn vẫn phải 'diễn xuất'",
+      "link": "https://vnexpress.net/san-phu-bang-huyet-rach-tang-sinh-mon-van-phai-dien-xuat-5042998.html",
+      "summary": "Vợ bị rách tầng sinh môn, băng huyết lúc vượt cạn nhưng nam influencer nổi tiếng vẫn tiếp tục ghi hình, thậm chí chèn quảng cáo tã giấy, khiến người dùng mạng phẫn nộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:15:08+07:00",
+      "fetched": "2026-02-23T11:13:42.929559+07:00"
+    },
+    {
+      "id": "95c0af3b2b9478daca4c9ec2d9e5e365",
+      "title": "Nên bắt đầu ngày mới với nước lọc hay cà phê?",
+      "link": "https://vnexpress.net/nen-bat-dau-ngay-moi-voi-nuoc-loc-hay-ca-phe-5042991.html",
+      "summary": "Dù uống nước trước hay sau tách cà phê sáng, lợi ích bù nước nhận được là tương đương nhau vì cả cà phê và nước lọc đều đóng góp vào tổng lượng chất lỏng trong ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:10:23+07:00",
+      "fetched": "2026-02-23T11:13:42.929726+07:00"
+    },
+    {
+      "id": "324c52defd5398d7fb76e046f72beaf0",
+      "title": "Người già 'nghiện' làm đẹp",
+      "link": "https://vnexpress.net/nguoi-gia-nghien-lam-dep-5041276.html",
+      "summary": "Ở tuổi 91, bà Kim Jeom-hee không muốn con cháu tặng thuốc bổ mà chỉ mong được đưa đến phòng khám thẩm mỹ để xử lý nếp nhăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:08:48+07:00",
+      "fetched": "2026-02-23T11:13:42.929897+07:00"
+    },
+    {
+      "id": "d72edc4c11433b15e9660baa959c9f74",
+      "title": "Khánh Hòa: Gần 400 người vi phạm nồng độ cồn trong 9 ngày tết",
+      "link": "https://thanhnien.vn/khanh-hoa-gan-400-nguoi-vi-pham-nong-do-con-trong-9-ngay-tet-185260223091928025.htm",
+      "summary": "Trong 9 ngày nghỉ Tết Bính Ngọ, lực lượng CSGT Công an tỉnh Khánh Hòa kiểm tra gần 5.900 phương tiện, lập biên bản xử lý gần 1.100 trường hợp vi phạm, hơn 3,2 tỉ đồng. Riêng vi phạm nồng độ cồn xử phạt hơn 1,8 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:07:00+07:00",
+      "fetched": "2026-02-23T11:13:46.521501+07:00"
+    },
+    {
+      "id": "05ae561a8001e87d558ef08a29bf9712",
+      "title": "iPhone 18 Pro hứa hẹn 'gây bão' với màu đỏ thẫm mới",
+      "link": "https://thanhnien.vn/iphone-18-pro-hua-hen-gay-bao-voi-mau-do-tham-moi-185260222220636388.htm",
+      "summary": "Apple sắp rũ bỏ sự nhàm chán khi mẫu iPhone 18 Pro sẽ khoác lên mình màu sắc đỏ thẫm thu hút?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:06:00+07:00",
+      "fetched": "2026-02-23T11:13:46.521655+07:00"
+    },
+    {
+      "id": "17440de53b1464144b09403618ae5704",
+      "title": "Tranh cãi xu hướng dùng AI ghép ảnh thẩm mỹ",
+      "link": "https://vnexpress.net/tranh-cai-xu-huong-dung-ai-ghep-anh-tham-my-5042932.html",
+      "summary": "Xu hướng dùng AI ghép ảnh bản thân trước và sau phẫu thuật thẩm mỹ đang thu hút hàng triệu lượt xem nhưng cũng dấy lên nhiều quan điểm trái chiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:04:32+07:00",
+      "fetched": "2026-02-23T11:13:42.930053+07:00"
+    },
+    {
+      "id": "a05b8cb6d816d67f821608c395e15323",
+      "title": "'Giao thông ngày trở lại Thủ đô'",
+      "link": "https://vnexpress.net/giao-thong-ngay-tro-lai-thu-do-5043019.html",
+      "summary": "Tôi cố tình chọn thời điểm 3h sáng mùng 7 để khởi hành hi vọng con đường sẽ hanh thông hơn, nhưng nhiều người cũng nghĩ như tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:03:02+07:00",
+      "fetched": "2026-02-23T11:13:42.930204+07:00"
+    },
+    {
+      "id": "f0bba57f75c304e83894dc58238cd1e9",
+      "title": "TP.HCM nhìn từ sông Sài Gòn: Thanh Đa 'độc bản', nhà chọc trời chờ mọc",
+      "link": "https://thanhnien.vn/tphcm-nhin-tu-song-sai-gon-thanh-da-doc-ban-nha-choc-troi-cho-moc-185260215145631002.htm",
+      "summary": "Cách trung tâm TP.HCM một nhịp cầu, bán đảo Thanh Đa vẫn 'nằm bất động' sau hơn 30 năm quy hoạch treo. Người dân sống trong nhà cửa xuống cấp, mòn mỏi chờ đợi giữa cảnh tạm bợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:03:00+07:00",
+      "fetched": "2026-02-23T11:13:46.521807+07:00"
+    },
+    {
+      "id": "72cbd05c6c49571ab789c4c953c74389",
+      "title": "Công ty xây dựng của ông Nguyễn Bá Dương bị hủy tư cách đại chúng",
+      "link": "https://vnexpress.net/cong-ty-xay-dung-cua-ong-nguyen-ba-duong-bi-huy-tu-cach-dai-chung-5043001.html",
+      "summary": "Sau nhiều năm trì hoãn việc niêm yết lên sàn chứng khoán, Ricons thuộc hệ sinh thái của ông Nguyễn Bá Dương bị hủy tư cách đại chúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:02:09+07:00",
+      "fetched": "2026-02-23T11:13:42.930391+07:00"
+    },
+    {
+      "id": "72cbd05c6c49571ab789c4c953c74389",
+      "title": "Công ty xây dựng của ông Nguyễn Bá Dương bị hủy tư cách đại chúng",
+      "link": "https://vnexpress.net/cong-ty-xay-dung-cua-ong-nguyen-ba-duong-bi-huy-tu-cach-dai-chung-5043001.html",
+      "summary": "Sau nhiều năm trì hoãn việc niêm yết lên sàn chứng khoán, Ricons thuộc hệ sinh thái của ông Nguyễn Bá Dương bị hủy tư cách đại chúng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-23T03:02:09+07:00",
+      "fetched": "2026-02-23T11:13:51.849587+07:00"
+    },
+    {
+      "id": "ce39a016c05b47191ebbf76675d2819b",
+      "title": "Casemiro có thể thành đồng đội của Messi",
+      "link": "https://vnexpress.net/casemiro-co-the-thanh-dong-doi-cua-messi-5042837.html",
+      "summary": "Inter Miami có thể ký hợp đồng với Casemiro theo dạng chuyển nhượng tự do từ hè tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:00:42+07:00",
+      "fetched": "2026-02-23T11:13:42.930549+07:00"
+    },
+    {
+      "id": "ce39a016c05b47191ebbf76675d2819b",
+      "title": "Casemiro có thể thành đồng đội của Messi",
+      "link": "https://vnexpress.net/casemiro-co-the-thanh-dong-doi-cua-messi-5042837.html",
+      "summary": "Inter Miami có thể ký hợp đồng với Casemiro theo dạng chuyển nhượng tự do từ hè tới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-23T03:00:42+07:00",
+      "fetched": "2026-02-23T11:13:56.417731+07:00"
+    },
+    {
+      "id": "6973bfe8cae0c9fc380d51d822236ee1",
+      "title": "Vùng nước trong xanh nhất thế giới",
+      "link": "https://vnexpress.net/vung-nuoc-trong-xanh-nhat-the-gioi-5023665.html",
+      "summary": "Hồ Rotomairewhenua thường được coi là vùng nước ngọt trong xanh nhất, trong khi \"ngôi vị số một\" của vùng nước mặn khó xác định hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:00:00+07:00",
+      "fetched": "2026-02-23T11:13:42.930699+07:00"
+    },
+    {
+      "id": "63c93c0fa7312bb0b78d729aad10bd7e",
+      "title": "Trùm ma túy Mexico bị quân đội bắn hạ, bạo lực bùng phát",
+      "link": "https://thanhnien.vn/trum-ma-tuy-mexico-bi-quan-doi-ban-ha-bao-luc-bung-phat-185260223095355498.htm",
+      "summary": "Các quan chức Mexico hôm 22.2 cho biết trùm ma túy người Mexico Nemesio Oseguera, thường được biết đến với biệt danh 'El Mencho', đã bị tiêu diệt trong một cuộc đột kích của quân đội, khi chính phủ nước này đang tăng cường áp lực lên các băng đảng ma túy sau những lời đe dọa can thiệp từ Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T03:00:00+07:00",
+      "fetched": "2026-02-23T11:13:46.521958+07:00"
+    },
+    {
+      "id": "6973bfe8cae0c9fc380d51d822236ee1",
+      "title": "Vùng nước trong xanh nhất thế giới",
+      "link": "https://vnexpress.net/vung-nuoc-trong-xanh-nhat-the-gioi-5023665.html",
+      "summary": "Hồ Rotomairewhenua thường được coi là vùng nước ngọt trong xanh nhất, trong khi \"ngôi vị số một\" của vùng nước mặn khó xác định hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-23T03:00:00+07:00",
+      "fetched": "2026-02-23T11:13:54.661841+07:00"
+    },
+    {
+      "id": "7130e2f0ba993dd746f2228b6136ee3e",
+      "title": "Em tìm anh giữa lòng thủ đô Hà Nội",
+      "link": "https://vnexpress.net/em-tim-anh-giua-long-thu-do-ha-noi-5042482.html",
+      "summary": "Em hơn 45 tuổi, là giáo viên, đã ly hôn và có cậu con trai 15 tuổi thông minh, hài hước, sống tại Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T02:54:25+07:00",
+      "fetched": "2026-02-23T11:13:42.930802+07:00"
+    },
+    {
+      "id": "4718ece1a09e90da46670ffbab16b925",
+      "title": "Mỹ công bố danh tính tay súng bị bắn chết trong dinh thự ông Trump",
+      "link": "https://vnexpress.net/my-cong-bo-danh-tinh-tay-sung-bi-ban-chet-trong-dinh-thu-ong-trump-5043005.html",
+      "summary": "Austin Tucker Martin, 21 tuổi, bị bắn chết khi mang súng xâm nhập vành đai an ninh nội bộ khu nghỉ dưỡng Mar-a-Lago của ông Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-23T02:50:58+07:00",
+      "fetched": "2026-02-23T11:13:49.830074+07:00"
+    },
+    {
+      "id": "fe962028b0f1d80f7d9ba7780c3278d3",
+      "title": "Bão tuyết làm đảo lộn cuộc sống của người dân New York",
+      "link": "https://vnexpress.net/bao-tuyet-lam-dao-lon-cuoc-song-cua-nguoi-dan-new-york-5042997.html",
+      "summary": "Trận bão tuyết nghiêm trọng nhất trong vòng một thập kỷ khiến cuộc sống người dân New York đảo lộn vì lệnh cấm đường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-23T02:17:21+07:00",
+      "fetched": "2026-02-23T11:13:49.830262+07:00"
+    },
+    {
+      "id": "6f59307693b9fd221488caf2087c6c36",
+      "title": "Altman chê trung tâm dữ liệu vũ trụ của Musk là 'nực cười'",
+      "link": "https://vnexpress.net/altman-che-trung-tam-du-lieu-vu-tru-cua-musk-la-nuc-cuoi-5042873.html",
+      "summary": "CEO OpenAI Sam Altman cho rằng ý định xây trung tâm dữ liệu ngoài không gian là \"điều nực cười\" ở hiện tại, do công nghệ chưa hoàn thiện.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-23T02:00:00+07:00",
+      "fetched": "2026-02-23T11:13:54.662419+07:00"
+    },
+    {
+      "id": "b9c2ec902301cb207d49dbc7e1271b53",
+      "title": "Iran nói đàm phán với Mỹ tích cực",
+      "link": "https://vnexpress.net/iran-noi-dam-phan-voi-my-tich-cuc-5042976.html",
+      "summary": "Giới chức Iran nhận định đàm phán với Mỹ mang tính tích cực và có triển vọng đạt được thỏa thuận, song khẳng định Tehran đã chuẩn bị cho mọi tình huống.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-23T01:50:42+07:00",
+      "fetched": "2026-02-23T11:13:49.830459+07:00"
+    },
+    {
+      "id": "c0944977082c17366d75ffb4a673f024",
+      "title": "Lời tiên tri về người ngoài hành tinh của bà Vanga gây sốt trở lại",
+      "link": "https://vnexpress.net/loi-tien-tri-ve-nguoi-ngoai-hanh-tinh-cua-ba-vanga-gay-sot-tro-lai-5042992.html",
+      "summary": "Tiên đoán được bà Baba Vanga đưa ra hàng chục năm trước gây chú ý trở lại, sau khi ông Trump yêu cầu công bố tài liệu về người ngoài hành tinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-23T01:35:24+07:00",
+      "fetched": "2026-02-23T11:13:49.830636+07:00"
+    },
+    {
       "id": "bd6dc2ea4411ec12dc61fbc083eaf2e1",
       "title": "TP.HCM vắng dịp Tết, Thảo cầm viên Sài Gòn vẫn thắng lớn",
       "link": "https://tuoitre.vn/tp-hcm-vang-dip-tet-thao-cam-vien-sai-gon-van-thang-lon-202602222046262.htm",
@@ -301,6 +871,26 @@ window.newsData_2026_02_23 = {
       "category": "Tổng hợp",
       "published": "2026-02-23T01:21:48.903183+07:00",
       "fetched": "2026-02-23T01:21:48.903400+07:00"
+    },
+    {
+      "id": "60c3b87368152bb28aed5e303b338243",
+      "title": "Ông Kim Jong-un tái đắc cử Tổng Bí thư đảng Lao động Triều Tiên",
+      "link": "https://vnexpress.net/ong-kim-jong-un-tai-dac-cu-tong-bi-thu-dang-lao-dong-trieu-tien-5042974.html",
+      "summary": "Lãnh đạo Triều Tiên Kim Jong-un được bầu lại làm Tổng Bí thư đảng Lao động cầm quyền tại đại hội lần thứ IX của đảng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-23T01:19:35+07:00",
+      "fetched": "2026-02-23T11:13:49.830797+07:00"
+    },
+    {
+      "id": "09c377b84aad5b9d076331527e902c0b",
+      "title": "HLV Tottenham: 'Arsenal là đội hay nhất thế giới'",
+      "link": "https://vnexpress.net/hlv-tottenham-arsenal-la-doi-hay-nhat-the-gioi-5042985.html",
+      "summary": "Tân HLV Igor Tudor thừa nhận Tottenham còn kém xa Arsenal, sau thảm bại 1-4 ngay trên sân nhà ở vòng 27 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-23T01:15:58+07:00",
+      "fetched": "2026-02-23T11:13:56.417885+07:00"
     },
     {
       "id": "4ddfaaad840a6fb6096699563a1c0f25",
