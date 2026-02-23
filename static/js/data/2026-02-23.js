@@ -1,7 +1,157 @@
 window.newsData_2026_02_23 = {
   "date": "2026-02-23",
-  "lastUpdated": "2026-02-23T19:40:33.646427+07:00",
+  "lastUpdated": "2026-02-23T21:40:26.625772+07:00",
   "articles": [
+    {
+      "id": "0259861624b8a702a70984d0aed1dbd5",
+      "title": "Làm các công trình trọng điểm ở Cà Mau phải nhanh nhất, chất lượng nhất",
+      "link": "https://tuoitre.vn/lam-cac-cong-trinh-trong-diem-o-ca-mau-phai-nhanh-nhat-chat-luong-nhat-20260223175127072.htm",
+      "summary": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Tỉnh ủy Nguyễn Hồ Hải đã đến thăm, chúc Tết tại các công trình trọng điểm của tỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.754964+07:00",
+      "fetched": "2026-02-23T21:40:18.755083+07:00"
+    },
+    {
+      "id": "f6007718e9a444ddea8f96cfccff8544",
+      "title": "Phó bí thư Thành ủy Nguyễn Phước Lộc thăm, chúc Tết tại Ban Quản lý đường sắt đô thị TP.HCM",
+      "link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-nguyen-phuoc-loc-tham-chuc-tet-tai-ban-quan-ly-duong-sat-do-thi-tp-hcm-20260223175207768.htm",
+      "summary": "Đến thăm Ban Quản lý đường sắt đô thị TP.HCM, Phó bí thư Thành ủy TP.HCM Nguyễn Phước Lộc đánh giá cao những nỗ lực của đơn vị trong công tác vận hành tuyến metro số 1, đặt niềm tin, kỳ vọng cho 6 tuyến metro còn lại trước năm 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.754829+07:00",
+      "fetched": "2026-02-23T21:40:18.754952+07:00"
+    },
+    {
+      "id": "e9f85246dc3f561fbb499858f6d27712",
+      "title": "Trẻ uể oải khi quay lại trường sau Tết, cha mẹ nên làm gì?",
+      "link": "https://tuoitre.vn/tre-e-oai-khi-quay-lai-truong-sau-tet-cha-me-nen-lam-gi-20260223172001011.htm",
+      "summary": "Sau kỳ nghỉ Tết dài ngày với nhiều thay đổi về sinh hoạt, không ít trẻ rơi vào trạng thái uể oải, ngại đến lớp, khó tập trung học tập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.754691+07:00",
+      "fetched": "2026-02-23T21:40:18.754816+07:00"
+    },
+    {
+      "id": "6318c8e9d4354ea09a4c1274921f0bd8",
+      "title": "Ấn Độ kêu gọi công dân rời Iran giữa căng thẳng Mỹ - Iran",
+      "link": "https://tuoitre.vn/an-do-keu-goi-cong-dan-roi-iran-giua-cang-thang-my-iran-20260223183336357.htm",
+      "summary": "Bộ Ngoại giao Ấn Độ vừa kêu gọi công dân rời Iran trong bối cảnh lo ngại về khả năng Mỹ tiến hành tấn công Iran. Đến nay đã có hơn 10 nước kêu gọi dân rời hoặc tránh đi đến Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.754522+07:00",
+      "fetched": "2026-02-23T21:40:18.754663+07:00"
+    },
+    {
+      "id": "77240514339886a4ac4ea734ff63dc91",
+      "title": "Flycam xâm nhập trái phép sân bay Đà Nẵng: Quay phim để bán bất động sản?",
+      "link": "https://tuoitre.vn/flycam-xam-nhap-trai-phep-san-bay-da-nang-quay-phim-de-ban-bat-dong-san-20260223183511072.htm",
+      "summary": "Trước tình trạng thiết bị bay không người lái (drone, flycam) xuất hiện trái phép, Bộ Chỉ huy quân sự TP Đà Nẵng đã có chỉ đạo \"nóng\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.754401+07:00",
+      "fetched": "2026-02-23T21:40:18.754511+07:00"
+    },
+    {
+      "id": "7417ca8f1359c46d1c2c2c2737000016",
+      "title": "Công tố viên ICC: Ông Duterte chỉ đạo giết người",
+      "link": "https://tuoitre.vn/cong-to-vien-icc-ong-duterte-chi-dao-giet-nguoi-20260223184052144.htm",
+      "summary": "Ngày 23-2, Tòa án Hình sự quốc tế (ICC) bắt đầu các thủ tục tố tụng chống lại cựu Tổng thống Philippines Rodrigo Duterte.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.754280+07:00",
+      "fetched": "2026-02-23T21:40:18.754390+07:00"
+    },
+    {
+      "id": "2a4d5851d4eae08f2a20fc3c592b131f",
+      "title": "Người 'đòi' thu tiền đỗ xe ô tô trước cổng chùa Gôi ở Ninh Bình đã bị công an mời lên làm việc",
+      "link": "https://tuoitre.vn/nguoi-doi-thu-tien-do-xe-o-to-truoc-cong-chua-goi-o-ninh-binh-da-bi-cong-an-moi-len-lam-viec-20260223183550419.htm",
+      "summary": "Hai người 'đòi' thu tiền đỗ xe ô tô trước cổng chùa Gôi ở Ninh Bình đã bị Công an xã Vụ Bản mời lên làm việc và yêu cầu không tái diễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.754156+07:00",
+      "fetched": "2026-02-23T21:40:18.754268+07:00"
+    },
+    {
+      "id": "29559942199e4772cbe60bf5cd186efa",
+      "title": "Họp mặt đồng hương Tây Ninh tại TP.HCM: gắn kết những người con xa quê",
+      "link": "https://tuoitre.vn/hop-mat-dong-huong-tay-ninh-tai-tphcm-gan-ket-nhung-nguoi-con-xa-que-20260223192246733.htm",
+      "summary": "Ban liên lạc Hội đồng hương Tây Ninh tại TP.HCM phối hợp cùng Ủy ban nhân dân tỉnh Tây Ninh tổ chức buổi họp mặt, chúc tết đồng hương Tây Ninh tại TP.HCM nhân dịp Tết Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.754033+07:00",
+      "fetched": "2026-02-23T21:40:18.754145+07:00"
+    },
+    {
+      "id": "4896edb8cc0add19b1dfed1f088974e2",
+      "title": "BST Uy Mã Kim Lĩnh - Tuyên ngôn trang sức của quý ông cho năm Bính Ngọ",
+      "link": "https://tuoitre.vn/bst-uy-ma-kim-linh-tuyen-ngon-trang-suc-cua-quy-ong-cho-nam-binh-ngo-20260213210908865.htm",
+      "summary": "‘Success is not final, failure is not fatal’ - thành công không phải đích đến sau cùng, cũng như thất bại không phải dấu chấm hết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.753908+07:00",
+      "fetched": "2026-02-23T21:40:18.754022+07:00"
+    },
+    {
+      "id": "49144e64170ce77746af9bb6b6325c43",
+      "title": "Sau Tết, công nhân rộn ràng nhận lì xì, doanh nghiệp tất bật đơn hàng mới",
+      "link": "https://tuoitre.vn/sau-tet-cong-nhan-ron-rang-nhan-li-xi-doanh-nghiep-tat-bat-don-hang-moi-2026022318502365.htm",
+      "summary": "Sau kỳ nghỉ Tết Nguyên đán Bính Ngọ 2026, nhiều doanh nghiệp đồng loạt khai xuân bằng lì xì, quà tặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.753779+07:00",
+      "fetched": "2026-02-23T21:40:18.753896+07:00"
+    },
+    {
+      "id": "73d297b20c214de5780c2a34925294cb",
+      "title": "Thủ tướng: Hình thành những diễn đàn lý luận văn hóa sắc bén, có tầm ảnh hưởng khu vực",
+      "link": "https://tuoitre.vn/thu-tuong-hinh-thanh-nhung-dien-dan-ly-luan-van-hoa-sac-ben-co-tam-anh-huong-khu-vuc-20260223192209172.htm",
+      "summary": "Chiều 23-2, tại Hà Nội, Thủ tướng Phạm Minh Chính đã tới thăm, làm việc với Bộ Văn hóa, Thể thao và Du lịch và gặp mặt, động viên các nhà văn hóa, trí thức, văn nghệ sĩ, nhà báo, phóng viên, vận động viên...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.753626+07:00",
+      "fetched": "2026-02-23T21:40:18.753765+07:00"
+    },
+    {
+      "id": "0721410af69658cbff48a48455372d5c",
+      "title": "Thay đổi mới trong đăng ký cư trú cho người chưa thành niên, xóa đăng ký thường trú, tạm trú",
+      "link": "https://tuoitre.vn/thay-doi-moi-trong-dang-ky-cu-tru-cho-nguoi-chua-thanh-nien-xoa-dang-ky-thuong-tru-tam-tru-20260223185510932.htm",
+      "summary": "Chính phủ vừa ban hành nghị định sửa đổi, bổ sung một số quy định về đăng ký cư trú cho người chưa thành niên; về hồ sơ, thủ tục xóa đăng ký thường trú và tạm trú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.753497+07:00",
+      "fetched": "2026-02-23T21:40:18.753614+07:00"
+    },
+    {
+      "id": "aae187e1202be764d450531cb038160c",
+      "title": "Luật sư Malaysia dự đoán tuyển Việt Nam sẽ được xử thắng trận vòng loại Asian Cup",
+      "link": "https://tuoitre.vn/luat-su-malaysia-du-doan-tuyen-viet-nam-se-duoc-xu-thang-tran-vong-loai-asian-cup-20260223192528442.htm",
+      "summary": "Trước thềm phiên điều trần ở Tòa án Trọng tài thể thao quốc tế của Liên đoàn Bóng đá Malaysia (FAM), luật sư thể thao Nik Roseli dự đoán kết cục không mấy khả quan cho bóng đá nước nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.753361+07:00",
+      "fetched": "2026-02-23T21:40:18.753485+07:00"
+    },
+    {
+      "id": "fb1b3eedc5a749cb001723997911617a",
+      "title": "Tổng Bí thư Tô Lâm gửi điện mừng tới Tổng Bí thư, Chủ tịch Quốc vụ Triều Tiên Kim Jong Un",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-gui-dien-mung-toi-tong-bi-thu-chu-tich-quoc-vu-trieu-tien-kim-jong-un-20260223194245751.htm",
+      "summary": "Tổng Bí thư Tô Lâm chúc mừng ông Kim Jong Un được bầu làm Tổng Bí thư Đảng Lao động Triều Tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.753211+07:00",
+      "fetched": "2026-02-23T21:40:18.753348+07:00"
+    },
+    {
+      "id": "30fba2730c5af9a886f5ab8522044364",
+      "title": "Điện lực miền Nam: Triển khai nhiệm vụ ngay sau Tết",
+      "link": "https://tuoitre.vn/dien-luc-mien-nam-trien-khai-nhiem-vu-ngay-sau-tet-20260223173439726.htm",
+      "summary": "Sáng ngày 23-2 (ngày mùng 7 Tết Bính Ngọ), Tổng công ty Điện lực miền Nam (EVNSPC) tổ chức gặp mặt đầu năm và triển khai nhiệm vụ công tác năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:40:18.752977+07:00",
+      "fetched": "2026-02-23T21:40:18.753194+07:00"
+    },
     {
       "id": "c8fa4440c2f51ed218525db143967f2d",
       "title": "Nhận thẻ đỏ ở cúp châu Á, cầu thủ CLB Công An Hà Nội bị treo giò ở V-League",
@@ -303,6 +453,66 @@ window.newsData_2026_02_23 = {
       "fetched": "2026-02-23T15:37:37.444518+07:00"
     },
     {
+      "id": "1d96045c9c5827aeac3c92a277479cef",
+      "title": "Lịch thi đấu CLB CAHN - Thanh Hóa mới nhất: ‘Được ăn cả, ngã về không’, ai thua cũng nguy",
+      "link": "https://thanhnien.vn/lich-thi-dau-clb-cahn-thanh-hoa-hom-nay-duoc-an-ca-nga-ve-khong-ai-thua-cung-nguy-18526022317054427.htm",
+      "summary": "CLB Công an Hà Nội (CAHN) sẽ có trận đấu bù vòng 10 V-League 2025-2026 gặp Thanh Hóa vào ngày 24.2. Đây là lúc mà Quang Hải, Đình Bắc sẽ tăng tốc cho mục tiêu vô địch V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T14:33:00+07:00",
+      "fetched": "2026-02-23T21:40:17.604733+07:00"
+    },
+    {
+      "id": "a3d73c9689f0313e473794712fb95c22",
+      "title": "Ô tô tông chết người, kéo lê xe máy gần 1 km: Bắt giam tài xế",
+      "link": "https://thanhnien.vn/o-to-tong-chet-nguoi-keo-le-xe-may-gan-1-km-bat-giam-tai-xe-185260223205851867.htm",
+      "summary": "Công an tỉnh Lâm Đồng đã khởi tố, bắt tạm giam tài xế trong vụ ô tô tông chết người, kéo lê xe máy gần 1 km ở phường Phan Thiết. Ngay sau tai nạn, kết quả đo nồng độ cồn trong máu của tài xế là 123,86 mg/dL.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T14:30:00+07:00",
+      "fetched": "2026-02-23T21:40:17.604913+07:00"
+    },
+    {
+      "id": "47068660be20f6ec17ded9b9deaf189b",
+      "title": "Vì sao màn hình IPS vẫn chưa rời cuộc chơi?",
+      "link": "https://thanhnien.vn/vi-sao-man-hinh-ips-van-chua-roi-cuoc-choi-185260222222629779.htm",
+      "summary": "Công nghệ màn hình đã có những bước tiến vượt bậc, đặc biệt là sự chuyển mình từ màn hình CRT sang các giải pháp như Micro RGB và OLED.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T14:24:00+07:00",
+      "fetched": "2026-02-23T21:40:17.605068+07:00"
+    },
+    {
+      "id": "3711da9929288a5b1757448af8a166df",
+      "title": "Truy vết vật thể bay uy hiếp an toàn cảng hàng không Đà Nẵng",
+      "link": "https://vnexpress.net/truy-vet-vat-the-bay-uy-hiep-an-toan-cang-hang-khong-da-nang-5043270.html",
+      "summary": "Quân đội, công an đang rà soát, truy vết ba vật thể nghi flycam xuất hiện gần sân bay, khiến 54 chuyến bay phải điều chỉnh, chậm trễ dịp Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T14:00:41+07:00",
+      "fetched": "2026-02-23T21:40:14.501488+07:00"
+    },
+    {
+      "id": "c7d0863e2e4861ae0e37ef36600fbd92",
+      "title": "Bắt lái tàu khách trong vụ lật tàu làm 6 người chết ở hồ Thác Bà",
+      "link": "https://thanhnien.vn/bat-lai-tau-khach-trong-vu-lat-tau-lam-6-nguoi-chet-o-ho-thac-ba-185260223204902734.htm",
+      "summary": "Liên quan đến vụ lật tàu khách khiến 6 người tử vong tại hồ Thác Bà (Lào Cai), lái tàu Triệu Văn Nội (31 tuổi) đã bị khởi tố, bắt tạm giam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:59:00+07:00",
+      "fetched": "2026-02-23T21:40:17.605224+07:00"
+    },
+    {
+      "id": "2e3ba484f1f1d64d649fe7dec62ce16e",
+      "title": "Lạ kỳ tục ‘đắp chăn ngày mùng 7 tết’: Cả làng xuống suối đón lộc đầu năm",
+      "link": "https://thanhnien.vn/la-ky-tuc-dap-chan-ngay-mung-7-tet-ca-lang-xuong-suoi-don-loc-dau-nam-185260223180511235.htm",
+      "summary": "Giữa đại ngàn Quảng Ngãi, người Cor ở xã Thanh Bồng duy trì tục 'đắp chăn ngày mùng 7 tết' - nghi thức đắp đập ngăn suối bắt cá, cầu may mắn, mùa màng thuận lợi và gắn kết cộng đồng đón lộc đầu năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:57:00+07:00",
+      "fetched": "2026-02-23T21:40:17.605376+07:00"
+    },
+    {
       "id": "90e4a429bf973ca886d5df39a084da30",
       "title": "Nhật Bản giảm giờ làm, nhưng đã thực sự thoát ‘làm việc đến chết’?",
       "link": "https://tuoitre.vn/nhat-ban-giam-gio-lam-nhung-da-thuc-su-thoat-lam-viec-den-chet-20260223110739283.htm",
@@ -453,6 +663,226 @@ window.newsData_2026_02_23 = {
       "fetched": "2026-02-23T13:53:55.228804+07:00"
     },
     {
+      "id": "60fc46a5cac965e1c4a275d2ecfa7f72",
+      "title": "Tai nạn liên hoàn ở Lâm Đồng 'do tài xế rượt đuổi nhau'",
+      "link": "https://vnexpress.net/tai-nan-lien-hoan-o-lam-dong-do-tai-xe-ruot-duoi-nhau-5043263.html",
+      "summary": "Nguyễn Quốc Đạo, 35 tuổi, bị cáo buộc lái xe container rượt đuổi ôtô khác trên quốc lộ 14 dẫn đến tai nạn liên hoàn làm một người đi đường tử vong, 2 người trọng thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:38:04+07:00",
+      "fetched": "2026-02-23T21:40:14.501695+07:00"
+    },
+    {
+      "id": "372388e80f4b758763c23548f5c6c32c",
+      "title": "Hành khách cầu cứu giữa đường, CSGT TP.Huế kịp thời tiếp tế",
+      "link": "https://thanhnien.vn/hanh-khach-cau-cuu-giua-duong-csgt-tphue-kip-thoi-tiep-te-185260223174529674.htm",
+      "summary": "Sau thông tin cầu cứu trên mạng xã hội về xe khách hỏng gần hầm Phước Tượng, CSGT TP.Huế đã kịp thời tiếp tế nước, bánh mì cho 40 hành khách mắc kẹt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:32:00+07:00",
+      "fetched": "2026-02-23T21:40:17.605525+07:00"
+    },
+    {
+      "id": "1b817b624b79d955baf73ebe04275970",
+      "title": "Chuyên gia Adobe: 'Website của Vietnam Airlines tăng trải nghiệm thông minh'",
+      "link": "https://vnexpress.net/chuyen-gia-adobe-website-cua-vietnam-airlines-tang-trai-nghiem-thong-minh-5043265.html",
+      "summary": "Theo ông Ravi Verma, Giám đốc Tăng trưởng Khu vực Đông Nam Á, Bộ phận Điều phối Trải nghiệm Khách hàng Adobe, hãng hàng không xem website là nền tảng chiến lược quyết định trải nghiệm hành khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:30:00+07:00",
+      "fetched": "2026-02-23T21:40:14.501872+07:00"
+    },
+    {
+      "id": "1b817b624b79d955baf73ebe04275970",
+      "title": "Chuyên gia Adobe: 'Website của Vietnam Airlines tăng trải nghiệm thông minh'",
+      "link": "https://vnexpress.net/chuyen-gia-adobe-website-cua-vietnam-airlines-tang-trai-nghiem-thong-minh-5043265.html",
+      "summary": "Theo ông Ravi Verma, Giám đốc Tăng trưởng Khu vực Đông Nam Á, Bộ phận Điều phối Trải nghiệm Khách hàng Adobe, hãng hàng không xem website là nền tảng chiến lược quyết định trải nghiệm hành khách.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-23T13:30:00+07:00",
+      "fetched": "2026-02-23T21:40:25.596159+07:00"
+    },
+    {
+      "id": "37e823ef90c51717005240415c56ff70",
+      "title": "Tổng Bí thư Tô Lâm chúc mừng ông Kim Jong-un tái đắc cử",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-chuc-mung-ong-kim-jong-un-tai-dac-cu-5043264.html",
+      "summary": "Tổng Bí thư Tô Lâm chúc mừng ông Kim Jong-un tiếp tục được Đảng Lao động Triều Tiên suy tôn làm Tổng Bí thư, khẳng định mong muốn tăng cường quan hệ song phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:29:30+07:00",
+      "fetched": "2026-02-23T21:40:14.502032+07:00"
+    },
+    {
+      "id": "37e823ef90c51717005240415c56ff70",
+      "title": "Tổng Bí thư Tô Lâm chúc mừng ông Kim Jong-un tái đắc cử",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-chuc-mung-ong-kim-jong-un-tai-dac-cu-5043264.html",
+      "summary": "Tổng Bí thư Tô Lâm chúc mừng ông Kim Jong-un tiếp tục được Đảng Lao động Triều Tiên suy tôn làm Tổng Bí thư, khẳng định mong muốn tăng cường quan hệ song phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-23T13:29:30+07:00",
+      "fetched": "2026-02-23T21:40:20.409903+07:00"
+    },
+    {
+      "id": "1b4d61f49d4b01b3f9fdb561e8464460",
+      "title": "Trai làng chen nhau cướp phết lấy may",
+      "link": "https://vnexpress.net/trai-lang-chen-nhau-cuop-phet-lay-may-5043267.html",
+      "summary": "Hàng trăm thanh niên lao vào vòng tranh cướp, chen lấn, nhảy lên nhau, cố chạm quả phết 7 kg tại lễ hội Đả cầu để lấy may.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:26:15+07:00",
+      "fetched": "2026-02-23T21:40:14.502198+07:00"
+    },
+    {
+      "id": "b80aa1cf2022d6ddc77d9da47947fd8f",
+      "title": "Tài xế ôtô gây tai nạn liên hoàn trên phố Hà Nội rồi bỏ chạy",
+      "link": "https://vnexpress.net/tai-xe-oto-gay-tai-nan-lien-hoan-tren-pho-ha-noi-roi-bo-chay-5043255.html",
+      "summary": "Sau khi tông trúng hai ôtô trên phố Xã Đàn, phường Văn Miếu - Quốc Tử Giám, tài xế lái xe bỏ chạy, chiều 23/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:23:29+07:00",
+      "fetched": "2026-02-23T21:40:14.502374+07:00"
+    },
+    {
+      "id": "ac29e7f54907c6ade5f6c5eca75398cd",
+      "title": "8 cuộc đời được hồi sinh nhờ tạng hiến của nam thanh niên chết não",
+      "link": "https://thanhnien.vn/8-cuoc-doi-duoc-hoi-sinh-nho-tang-hien-cua-nam-thanh-nien-chet-nao-185260223195516365.htm",
+      "summary": "Từ nghĩa cử hiến tạng của nam thanh niên chết não ở Hà Nội, các bác sĩ đã thực hiện ghép tim, phổi, thận, gan, giác mạc cho các bệnh nhân tại Hà Nội, Cao Bằng, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:23:00+07:00",
+      "fetched": "2026-02-23T21:40:17.605697+07:00"
+    },
+    {
+      "id": "ad91dd51f986f0f9e97e4ce32e484aa7",
+      "title": "Người gây lật tàu khiến 6 hành khách chết ở hồ Thác Bà bị bắt",
+      "link": "https://vnexpress.net/nguoi-gay-lat-tau-khien-6-hanh-khach-chet-o-ho-thac-ba-bi-bat-5043268.html",
+      "summary": "Triệu Văn Nội bị cáo buộc chở quá số người quy định, điều khiển thuyền công suất nhỏ nhưng không nhường đường khiến va chạm, lật tàu làm 6 người chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:20:14+07:00",
+      "fetched": "2026-02-23T21:40:14.502539+07:00"
+    },
+    {
+      "id": "94a50620b376e02b7058d3d8152014c8",
+      "title": "Thái Nguyên khởi công 2 dự án nhà ở xã hội hơn 2.000 tỉ đồng",
+      "link": "https://thanhnien.vn/thai-nguyen-khoi-cong-2-du-an-nha-o-xa-hoi-hon-2000-ti-dong-185260223183718301.htm",
+      "summary": "Thái Nguyên có thêm 2 dự án nhà ở xã hội được khởi công trong ngày làm việc đầu tiên sau tết Nguyên đán Bính Ngọ 2026, với tổng vốn đầu tư hơn 2.000 tỉ đồng, sẵn sàng cung ứng 1.596 căn hộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:18:00+07:00",
+      "fetched": "2026-02-23T21:40:17.605852+07:00"
+    },
+    {
+      "id": "a6146c9171765c81e24f12f283ddb578",
+      "title": "Việt Nam xuất khẩu gạo sang nước nào nhiều nhất?",
+      "link": "https://vnexpress.net/viet-nam-xuat-khau-gao-sang-nuoc-nao-nhieu-nhat-5043241.html",
+      "summary": "Nước này ở Đông Nam Á, năm ngoái nhập 3,21 triệu tấn gạo của Việt Nam, là thị trường lớn nhất. Bạn có biết đó là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:17:29+07:00",
+      "fetched": "2026-02-23T21:40:14.502713+07:00"
+    },
+    {
+      "id": "ce02342db3473c31a5755e2680e73b34",
+      "title": "Ca sĩ Khánh Ly về nước sau cơn đột quỵ, xúc động viếng mộ Trịnh Công Sơn",
+      "link": "https://thanhnien.vn/ca-si-khanh-ly-ve-nuoc-sau-con-dot-quy-xuc-dong-vieng-mo-trinh-cong-son-185260223194316736.htm",
+      "summary": "Lần đầu tiên sau 25 năm từ khi nhạc sĩ Trịnh Công Sơn qua đời, ca sĩ Khánh Ly có cuộc hội ngộ xúc động cùng gia đình ông tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:10:00+07:00",
+      "fetched": "2026-02-23T21:40:17.606000+07:00"
+    },
+    {
+      "id": "a1cfc194f1a6c7cb4788fa8a1290742b",
+      "title": "Tài xế ôtô đẩy lê xe máy toé lửa gần một km bị khởi tố",
+      "link": "https://vnexpress.net/tai-xe-oto-day-le-xe-may-toe-lua-gan-mot-km-bi-khoi-to-5043224.html",
+      "summary": "Phạm Quốc Huy, 34 tuổi, bị cáo buộc lái ôtô đẩy lê xe máy nằm trước gầm suốt gần một km mới dừng lại, bỏ mặc nạn nhân tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:03:57+07:00",
+      "fetched": "2026-02-23T21:40:14.502871+07:00"
+    },
+    {
+      "id": "9db3de6b15b1bd78c0cd5e50d9bb153b",
+      "title": "Top 5 trái cây chuyên gia khuyên dùng để 'lọc sạch' cơ thể",
+      "link": "https://vnexpress.net/top-5-trai-cay-chuyen-gia-khuyen-dung-de-loc-sach-co-the-5043036.html",
+      "summary": "Việt quất, cam, mâm xôi đen, nho đỏ, lựu là những loại trái cây giàu chất chống oxy hóa bậc nhất, theo các chuyên gia dinh dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:02:20+07:00",
+      "fetched": "2026-02-23T21:40:14.503035+07:00"
+    },
+    {
+      "id": "5425858f08c8de49cdd67e57bc01460a",
+      "title": "Hội thề 'không tham nhũng' diễn ra ở đâu dịp đầu năm?",
+      "link": "https://vnexpress.net/hoi-the-khong-tham-nhung-dien-ra-o-dau-dip-dau-nam-5043127.html",
+      "summary": "Lễ hội Minh thệ với tinh thần chí công vô tư, tận trung, tận hiếu được công nhận là di sản văn hoá phi vật thể quốc gia từ năm 2017.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:00:00+07:00",
+      "fetched": "2026-02-23T21:40:14.503189+07:00"
+    },
+    {
+      "id": "6d5388b7487f766e56dd8254416ea453",
+      "title": "Xem nhanh 20h ngày 23.2: CSGT xuyên đêm bắn tốc độ trên cao tốc | Thanh Hóa thông tin vụ ngộ độc trứng cá cà rồng",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-232-csgt-xuyen-dem-ban-toc-do-tren-cao-toc-thanh-hoa-thong-tin-vu-ngo-doc-trung-ca-ca-rong-185260223180032681.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 23.2 có nhiều tin tức đáng chú ý về: Sở Y tế Thanh Hóa thông tin chính thức vụ ngộ độc do ăn trứng cá cà rồng; CSGT bắn tốc độ xuyên đêm trên cao tốc TP.HCM - Vân Phong, nhiều xe 'dính' phạt;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:00:00+07:00",
+      "fetched": "2026-02-23T21:40:17.606155+07:00"
+    },
+    {
+      "id": "d96ec15cb0da4b5a1f7e347c69591cb9",
+      "title": "Biến hóa đa phong cách cùng xu hướng trang phục thắt nơ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/bien-hoa-da-phong-cach-cung-xu-huong-trang-phuc-that-no-185260223095450863.htm",
+      "summary": "Những chiếc nơ quen thuộc trở thành điểm nhấn thời trang đầy cuốn hút. Từ áo, váy đến phụ kiện tóc, chi tiết thắt nơ giúp trang phục trở nên nữ tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:00:00+07:00",
+      "fetched": "2026-02-23T21:40:17.606313+07:00"
+    },
+    {
+      "id": "c3e4cdca0aabb60395fca064f25bebaa",
+      "title": "Hương vị quê hương: Sò huyết cửa sông Roòn 'lên mâm'",
+      "link": "https://thanhnien.vn/huong-vi-que-huong-so-huyet-cua-song-roon-len-mam-185260222162238067.htm",
+      "summary": "Nhắc đến những sản vật độc đáo của vùng bắc Quảng Trạch (Quảng Bình cũ, nay là tỉnh Quảng Trị), người ta không thể bỏ qua sò huyết, nhuyễn thể 2 mảnh bé nhỏ nhưng ẩn chứa sự kỳ diệu của thiên nhiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T13:00:00+07:00",
+      "fetched": "2026-02-23T21:40:17.606479+07:00"
+    },
+    {
+      "id": "72492f4e4bdb664f149f9c9686166372",
+      "title": "Bí thư Cà Mau đốc thúc đẩy nhanh tiến độ cao tốc, sân bay",
+      "link": "https://thanhnien.vn/bi-thu-ca-mau-doc-thuc-day-nhanh-tien-do-cao-toc-san-bay-185260223183727536.htm",
+      "summary": "Bí thư Tỉnh ủy Nguyễn Hồ Hải đến 2 công trình trọng điểm của Cà Mau, yêu cầu tăng tốc thi công trong mùa khô, rút ngắn thời gian hoàn thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T12:52:00+07:00",
+      "fetched": "2026-02-23T21:40:17.606633+07:00"
+    },
+    {
+      "id": "779911b58c25576729a45cccd28d59c1",
+      "title": "Con gái Gwyneth Paltrow bị đuổi học vì bạo lực học đường?",
+      "link": "https://thanhnien.vn/con-gai-gwyneth-paltrow-bi-duoi-hoc-vi-bao-luc-hoc-duong-185260223193231971.htm",
+      "summary": "Sinh ra trong hào quang của cha mẹ nổi tiếng, Apple Martin - con gái lớn của Gwyneth Paltrow, dường như từ nhỏ đã quen với cuộc sống dưới ánh đèn sân khấu và những tranh cãi không hồi kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T12:47:00+07:00",
+      "fetched": "2026-02-23T21:40:17.606815+07:00"
+    },
+    {
+      "id": "03e5fc9d18d63c912dcd076749672c0a",
+      "title": "Tranh cãi về danh xưng của Jennie với Chanel",
+      "link": "https://thanhnien.vn/tranh-cai-ve-danh-xung-cua-jennie-voi-chanel-185260223174952128.htm",
+      "summary": "Một bài đăng trên mạng xã hội đã làm dấy lên tranh cãi xoay quanh danh xưng của Jennie với Chanel, đặt câu hỏi liệu nữ thần tượng có 'thổi phồng' vị thế của mình, hay đang bị gán ghép với những thông tin không chính xác, Sohu đưa tin ngày 23.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T12:42:00+07:00",
+      "fetched": "2026-02-23T21:40:17.606970+07:00"
+    },
+    {
       "id": "d6e7ef0eb191131149c338a5b2bc5d44",
       "title": "Lê Huỳnh Đức chính thức gia nhập Học viện HAGL, được thủ môn Trung Kiên chào đón",
       "link": "https://thanhnien.vn/le-huynh-duc-chinh-thuc-gia-nhap-hoc-vien-hagl-duoc-thu-mon-trung-kien-chao-don-18526022319312149.htm",
@@ -461,6 +891,26 @@ window.newsData_2026_02_23 = {
       "category": "Tổng hợp",
       "published": "2026-02-23T12:35:00+07:00",
       "fetched": "2026-02-23T19:40:24.316526+07:00"
+    },
+    {
+      "id": "154b2003836d9dd3cc5544d000b64ead",
+      "title": "Du khách bỏ lại chó ở sân bay vì sợ trễ chuyến",
+      "link": "https://vnexpress.net/du-khach-bo-lai-cho-o-san-bay-vi-so-tre-chuyen-5043140.html",
+      "summary": "Một phụ nữ 46 tuổi bị cảnh sát Las Vegas bắt sau khi bỏ lại chú chó giống Golden tại quầy thủ tục để lên máy bay một mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T12:31:40+07:00",
+      "fetched": "2026-02-23T21:40:14.503342+07:00"
+    },
+    {
+      "id": "b1a00bbca5cd68fc3e90062012f11a8c",
+      "title": "Vinhomes Green Paradise duy trì nhịp sôi động xuyên Tết",
+      "link": "https://vnexpress.net/vinhomes-green-paradise-duy-tri-nhip-soi-dong-xuyen-tet-5043259.html",
+      "summary": "Hàng chục nghìn người đến đô thị Vinhomes Green Paradise Cần Giờ suốt ba tuần qua, trải nghiệm lễ hội xuân quy mô lớn kết hợp tìm hiểu về siêu đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T12:30:00+07:00",
+      "fetched": "2026-02-23T21:40:14.503510+07:00"
     },
     {
       "id": "e25c58608406b6ca4ea56bf4f2e05c3a",
@@ -481,6 +931,36 @@ window.newsData_2026_02_23 = {
       "category": "Tổng hợp",
       "published": "2026-02-23T12:25:00+07:00",
       "fetched": "2026-02-23T19:40:24.316886+07:00"
+    },
+    {
+      "id": "67b72d29dfedf6f28331334a4aec6433",
+      "title": "Ấn Độ khuyến cáo công dân rời Iran",
+      "link": "https://vnexpress.net/an-do-khuyen-cao-cong-dan-roi-iran-5043262.html",
+      "summary": "Bộ Ngoại giao Ấn Độ kêu gọi công dân rời Iran, trong lúc có nhiều lo ngại về khả năng Mỹ có thể tấn công nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T12:23:34+07:00",
+      "fetched": "2026-02-23T21:40:14.503661+07:00"
+    },
+    {
+      "id": "67b72d29dfedf6f28331334a4aec6433",
+      "title": "Ấn Độ khuyến cáo công dân rời Iran",
+      "link": "https://vnexpress.net/an-do-khuyen-cao-cong-dan-roi-iran-5043262.html",
+      "summary": "Bộ Ngoại giao Ấn Độ kêu gọi công dân rời Iran, trong lúc có nhiều lo ngại về khả năng Mỹ có thể tấn công nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-23T12:23:34+07:00",
+      "fetched": "2026-02-23T21:40:20.410091+07:00"
+    },
+    {
+      "id": "4807d5e5b24bcb6303426d5625dd0aa3",
+      "title": "Lái đò chùa Hương bị xử phạt vì đòi thêm tiền của khách",
+      "link": "https://vnexpress.net/lai-do-chua-huong-bi-xu-phat-vi-doi-them-tien-cua-khach-5043218.html",
+      "summary": "Hợp tác xã Du lịch chùa Hương xử phạt hai thành viên vi phạm quy chế lễ hội nhằm chấn chỉnh tình trạng \"chặt chém\" và nâng cao chất lượng phục vụ du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T12:05:45+07:00",
+      "fetched": "2026-02-23T21:40:14.503852+07:00"
     },
     {
       "id": "0aec31a11cc35e4f7a33c1c5ad261922",
