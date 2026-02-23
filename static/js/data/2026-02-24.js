@@ -1,7 +1,47 @@
 window.newsData_2026_02_24 = {
   "date": "2026-02-24",
-  "lastUpdated": "2026-02-24T03:35:19.462635+07:00",
+  "lastUpdated": "2026-02-24T05:31:42.681581+07:00",
   "articles": [
+    {
+      "id": "7a18ceee7497229e4a1e63298d8150a4",
+      "title": "'Xông đất' những công trình ra đảo Hòn Khoai",
+      "link": "https://tuoitre.vn/xong-dat-nhung-cong-trinh-ra-dao-hon-khoai-20260223230703228.htm",
+      "summary": "Xuyên qua những đồng lúa, băng qua những cánh rừng và vượt những dòng sông lớn, tuyến cao tốc Cà Mau - Đất Mũi đang dần thành hình trong không khí rộn ràng đầu năm mới, góp thêm gam màu tươi sáng vào bức tranh của mảnh đất địa đầu cực Nam Tổ quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:31:33.766695+07:00",
+      "fetched": "2026-02-24T05:31:33.766813+07:00"
+    },
+    {
+      "id": "1fe0b9047475ecbf1deefe40eddae6b4",
+      "title": "Bí quyết giúp nhà vườn thắng vụ hoa Tết",
+      "link": "https://tuoitre.vn/bi-quyet-giup-nha-vuon-thang-vu-hoa-tet-20260223221513669.htm",
+      "summary": "Tết Nguyên đán 2026 khép lại với nhiều cung bậc cảm xúc ở các làng hoa miền Tây như Chợ Lách (Vĩnh Long), Sa Đéc, Mỹ Phong (Đồng Tháp).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:31:33.766559+07:00",
+      "fetched": "2026-02-24T05:31:33.766682+07:00"
+    },
+    {
+      "id": "e34d277b7fb44ba9e8181a21cb93f583",
+      "title": "Thời tiết hôm nay 24-2: Bắc Bộ mưa phùn, Nam Bộ nắng nóng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-24-2-bac-bo-mua-phun-nam-bo-nang-nong-20260223162240417.htm",
+      "summary": "Hôm nay 24-2, thời tiết các tỉnh Nam Bộ tiếp tục nắng nóng diện rộng, trong khi đó Bắc Bộ có mưa phùn, sương mù, vài nơi mưa rào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:31:33.766416+07:00",
+      "fetched": "2026-02-24T05:31:33.766546+07:00"
+    },
+    {
+      "id": "81bcfb532ac023f18299df8c04c0e0fe",
+      "title": "Tin tức sáng 24-2: Áp lực huy động vốn tăng, ngân hàng lo dòng tiền chảy sang nơi khác?",
+      "link": "https://tuoitre.vn/tin-tuc-sang-24-2-ap-luc-huy-dong-von-tang-ngan-hang-lo-dong-tien-chay-sang-noi-khac-20260223152146876.htm",
+      "summary": "Một số tin tức đáng chú ý: Sacombank tổ chức đại hội đồng cổ đông ở Phú Thọ sau khi có CEO mới; Hủy tư cách đại chúng với Ricons, An Phú, Viễn Đông Holdings; Mở kỳ thi tiếng Hàn đặc biệt cho lao động EPS năm 2026...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:31:33.766231+07:00",
+      "fetched": "2026-02-24T05:31:33.766402+07:00"
+    },
     {
       "id": "30fba2730c5af9a886f5ab8522044364",
       "title": "Điện lực miền Nam: Triển khai nhiệm vụ ngay sau Tết",
@@ -151,6 +191,216 @@ window.newsData_2026_02_24 = {
       "category": "Tổng hợp",
       "published": "2026-02-24T01:50:12.318556+07:00",
       "fetched": "2026-02-24T01:50:12.318773+07:00"
+    },
+    {
+      "id": "c6954dbe769b13ef3594c2a8e4e20fcb",
+      "title": "Tròn 4 năm chiến sự Ukraine",
+      "link": "https://thanhnien.vn/tron-4-nam-chien-su-ukraine-1852602231931484.htm",
+      "summary": "Đúng ngày này cách đây 4 năm (24.2.2022), Tổng thống Nga Vladimir Putin công bố khởi đầu chiến dịch quân sự đặc biệt tại Ukraine theo lời kêu gọi của lực lượng ly khai ở Donbass.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T22:31:00+07:00",
+      "fetched": "2026-02-24T05:31:32.729028+07:00"
+    },
+    {
+      "id": "7990b67074717aab7649e30de0ab3e9e",
+      "title": "Mặt trời vừa xảy ra 'hiện tượng lạ', 4 năm rồi mới xuất hiện lại",
+      "link": "https://thanhnien.vn/mat-troi-vua-xay-ra-hien-tuong-la-4-nam-roi-moi-xuat-hien-lai-185260223170818819.htm",
+      "summary": "Một 'hiện tượng lạ' vừa xảy ra, khi lần đầu tiên kể từ năm 2022, mặt trời không có vết đen nào. Có bất thường không?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T22:30:00+07:00",
+      "fetched": "2026-02-24T05:31:32.729195+07:00"
+    },
+    {
+      "id": "9598393ff8a75909c2bd4e0be5a0602d",
+      "title": "Tử vi ngày 24 tháng 2: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-24-thang-2-con-giap-nao-may-man-hom-nay-185260223215550739.htm",
+      "summary": "Tử vi ngày 24 tháng 2 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T22:15:00+07:00",
+      "fetched": "2026-02-24T05:31:32.729342+07:00"
+    },
+    {
+      "id": "b30dbafd794d41793447e4fdd356b2b9",
+      "title": "Xe khách 26 chỗ 'nhồi' 34 người trên cao tốc bị CSGT phạt 60 triệu đồng",
+      "link": "https://thanhnien.vn/xe-khach-26-cho-nhoi-34-nguoi-tren-cao-toc-bi-csgt-phat-60-trieu-dong-185260223234207553.htm",
+      "summary": "Tối 23.2, tức mùng 7 tết, một xe khách 26 chỗ chở 34 người (vượt 8 người) chạy trên đường cao tốc vào TP.HCM đã bị CSGT lập biên bản, tổng mức phạt 60 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T22:12:00+07:00",
+      "fetched": "2026-02-24T05:31:32.729478+07:00"
+    },
+    {
+      "id": "89ce6f4d35d626675805af16651d967b",
+      "title": "Bạo lực lan khắp Mexico sau khi trùm ma túy bị tiêu diệt",
+      "link": "https://thanhnien.vn/bao-luc-lan-khap-mexico-sau-khi-trum-ma-tuy-bi-tieu-diet-185260223221028465.htm",
+      "summary": "Bạo lực đã bùng phát ở 20 trong số 32 bang của Mexico sau khi quân đội nước này tiêu diệt trùm ma túy khét tiếng Nemesio Oseguera.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T22:07:00+07:00",
+      "fetched": "2026-02-24T05:31:32.729614+07:00"
+    },
+    {
+      "id": "258d0d365f39acadc7018338d84d17d3",
+      "title": "Văn hóa đậu xe",
+      "link": "https://thanhnien.vn/van-hoa-dau-xe-185260223193545025.htm",
+      "summary": "Câu chuyện đậu xe ô tô chắn lối đi xảy ra trong dịp Tết Nguyên đán vừa qua ở nhiều nơi khiến dư luận bất bình, phản ánh về ý thức pháp luật và văn hóa ứng xử nơi công cộng của một số cá nhân rất cần phải thay đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T22:06:00+07:00",
+      "fetched": "2026-02-24T05:31:32.729750+07:00"
+    },
+    {
+      "id": "88f49e92d2bd664b9bb91b391621f895",
+      "title": "Man Utd bứt lên top 4 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-but-len-top-4-ngoai-hang-anh-5043301.html",
+      "summary": "Benjamin Sesko ghi bàn giúp Man Utd thắng Everton 1-0 ở trận đấu muộn nhất vòng 27 Ngoại hạng Anh và nối dài mạch bất bại dưới thời Michael Carrick.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-23T22:05:29+07:00",
+      "fetched": "2026-02-24T05:31:42.676560+07:00"
+    },
+    {
+      "id": "fd24727e7f4870ee4f69d91368610d40",
+      "title": "Tiếp tục rà soát, hoàn thiện mô hình chính quyền hai cấp",
+      "link": "https://thanhnien.vn/tiep-tuc-ra-soat-hoan-thien-mo-hinh-chinh-quyen-hai-cap-185260223231056476.htm",
+      "summary": "Sáng 23.2, Chủ tịch nước Lương Cường thăm, chúc tết Đảng bộ, chính quyền, nhân dân tỉnh Lào Cai và dự lễ phát động \"Tết trồng cây đời đời nhớ ơn Bác Hồ\" xuân Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T22:04:00+07:00",
+      "fetched": "2026-02-24T05:31:32.729887+07:00"
+    },
+    {
+      "id": "295e50c11b1b2bd1e3f715a74ec83bf7",
+      "title": "Đưa Việt Nam thành nước phát triển, thu nhập cao",
+      "link": "https://thanhnien.vn/dua-viet-nam-thanh-nuoc-phat-trien-thu-nhap-cao-185260223231652023.htm",
+      "summary": "Sáng 23.2, Thủ tướng Phạm Minh Chính tới thăm, làm việc và thay mặt lãnh đạo Đảng, Nhà nước trao Huân chương Lao động hạng nhất tặng Viện Hàn lâm khoa học và công nghệ VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T22:02:00+07:00",
+      "fetched": "2026-02-24T05:31:32.730056+07:00"
+    },
+    {
+      "id": "486ced79a2f716cdfe6e2d57ec098f04",
+      "title": "Kịch tính 2 trận đấu bù V-League",
+      "link": "https://thanhnien.vn/kich-tinh-2-tran-dau-bu-v-league-18526022320043742.htm",
+      "summary": "Thời điểm này, cả CLB Công an Hà Nội và Thể Công Viettel đều được đánh giá cao hơn 2 đối thủ Thanh Hóa, Nam Định; nhưng bất ngờ vẫn có thể xuất hiện trong 2 trận đấu bù vòng 10 V-League 2025 - 2026 diễn ra vào hôm nay 24.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T22:02:00+07:00",
+      "fetched": "2026-02-24T05:31:32.730204+07:00"
+    },
+    {
+      "id": "8a10e717f3ab26c451c9a99f6dc942fc",
+      "title": "Tình thế đơn thương độc mã của Iran trước sức ép từ Mỹ",
+      "link": "https://vnexpress.net/tinh-the-don-thuong-doc-ma-cua-iran-truoc-suc-ep-tu-my-5042986.html",
+      "summary": "Iran đang gần như đơn độc đối phó sức ép quân sự ngày càng tăng từ Mỹ, khi các đối tác chiến lược của họ khó sẵn sàng đối đầu trực tiếp với Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T22:00:00+07:00",
+      "fetched": "2026-02-24T05:31:28.896149+07:00"
+    },
+    {
+      "id": "7e6062b75f347592992d08e3e0f8c107",
+      "title": "'Chúng ta là thế hệ cuối làm việc trong môi trường do con người vận hành'",
+      "link": "https://vnexpress.net/chung-ta-la-the-he-cuoi-lam-viec-trong-moi-truong-do-con-nguoi-van-hanh-5041256.html",
+      "summary": "Bà Quý Nguyễn, Giám đốc quốc gia Salesforce Việt Nam, cho rằng môi trường làm việc thời gian tới không chỉ có con người mà AI cũng tham gia quyết định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T22:00:00+07:00",
+      "fetched": "2026-02-24T05:31:28.896330+07:00"
+    },
+    {
+      "id": "3063607c3ccc4f509f75737f499448a5",
+      "title": "Các hãng xe Mỹ dần trở lại với dòng sedan",
+      "link": "https://vnexpress.net/cac-hang-xe-my-dan-tro-lai-voi-dong-sedan-5042989.html",
+      "summary": "Người Mỹ vốn chuộng dòng SUV và bán tải, kèm với đó là kích thước ôtô ngày càng lớn, nhưng xu hướng có thể đảo ngược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T22:00:00+07:00",
+      "fetched": "2026-02-24T05:31:28.896500+07:00"
+    },
+    {
+      "id": "8a10e717f3ab26c451c9a99f6dc942fc",
+      "title": "Tình thế đơn thương độc mã của Iran trước sức ép từ Mỹ",
+      "link": "https://vnexpress.net/tinh-the-don-thuong-doc-ma-cua-iran-truoc-suc-ep-tu-my-5042986.html",
+      "summary": "Iran đang gần như đơn độc đối phó sức ép quân sự ngày càng tăng từ Mỹ, khi các đối tác chiến lược của họ khó sẵn sàng đối đầu trực tiếp với Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-23T22:00:00+07:00",
+      "fetched": "2026-02-24T05:31:35.854273+07:00"
+    },
+    {
+      "id": "7e6062b75f347592992d08e3e0f8c107",
+      "title": "'Chúng ta là thế hệ cuối làm việc trong môi trường do con người vận hành'",
+      "link": "https://vnexpress.net/chung-ta-la-the-he-cuoi-lam-viec-trong-moi-truong-do-con-nguoi-van-hanh-5041256.html",
+      "summary": "Bà Quý Nguyễn, Giám đốc quốc gia Salesforce Việt Nam, cho rằng môi trường làm việc thời gian tới không chỉ có con người mà AI cũng tham gia quyết định.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-23T22:00:00+07:00",
+      "fetched": "2026-02-24T05:31:41.637823+07:00"
+    },
+    {
+      "id": "73375aa580b6a11a90cb3fd67fd39511",
+      "title": "Phạt thẳng tay để chấm dứt tình trạng 'ma men' cầm lái",
+      "link": "https://thanhnien.vn/phat-thang-tay-de-cham-dut-tinh-trang-ma-men-cam-lai-185260223193321844.htm",
+      "summary": "Tình trạng lái xe vi phạm nồng độ cồn trong dịp tết 2026 tiếp tục thu hút sự quan tâm của bạn đọc khi số vụ bị phạt tăng cao, nhiều trường hợp gây bức xúc vì thái độ coi thường quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:58:00+07:00",
+      "fetched": "2026-02-24T05:31:32.730358+07:00"
+    },
+    {
+      "id": "1db21203aa697f0330fc7cfd0ac0c731",
+      "title": "Xe ôm và 'bão' xe công nghệ ở TP.HCM: Khi 'thuật toán' trở thành đối thủ",
+      "link": "https://thanhnien.vn/xe-om-va-bao-xe-cong-nghe-o-tphcm-khi-thuat-toan-tro-thanh-doi-thu-185250414171814624.htm",
+      "summary": "Hơn 30 năm đứng xe ôm ở con hẻm nhỏ trên đường Cách Mạng Tháng 8, quận 10 cũ, TP.HCM, ông Vũ Quốc Toản chưa bao giờ nghĩ có ngày 'đối thủ' của mình lại là… một ứng dụng trong điện thoại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:45:00+07:00",
+      "fetched": "2026-02-24T05:31:32.730507+07:00"
+    },
+    {
+      "id": "2d98dacd4f69683d9506932cd17a91b0",
+      "title": "Nơi san hô nảy chồi và rùa biển tái xuất",
+      "link": "https://thanhnien.vn/noi-san-ho-nay-choi-va-rua-bien-tai-xuat-185260223212730443.htm",
+      "summary": "Hệ sinh thái đảo Nhơn Châu (Gia Lai) đang hồi sinh kỳ diệu nhờ sự chung tay bảo vệ của cộng đồng và chính quyền địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:43:00+07:00",
+      "fetched": "2026-02-24T05:31:32.730652+07:00"
+    },
+    {
+      "id": "77600ce97004531487b6198e3160a7e7",
+      "title": "Chiến sự Ukraine ngày 1.461: Ukraine giành lại 400 km vuông, tấn công đất Nga dồn dập?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1461-ukraine-gianh-lai-400-km-vuong-tan-cong-dat-nga-don-dap-185260223190037255.htm",
+      "summary": "Tổng tư lệnh quân đội Ukraine Oleksandr Syrskyi ngày 23.2 tuyên bố nước này đã 'giành lại quyền kiểm soát' hơn 400 km2 lãnh thổ dọc theo một đoạn tiền tuyến phía nam kể từ cuối tháng trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:29:00+07:00",
+      "fetched": "2026-02-24T05:31:32.730809+07:00"
+    },
+    {
+      "id": "a5be94d3c357f1adc9251ba9b7123e98",
+      "title": "Sau cao điểm tết, cửa ngõ TP.HCM 'dễ thở'",
+      "link": "https://thanhnien.vn/sau-cao-diem-tet-cua-ngo-tphcm-de-tho-18526022322263807.htm",
+      "summary": "Ngày 23.2 (tức mùng 7 tết), các cửa ngõ và tuyến cao tốc về TP.HCM ghi nhận không ùn tắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T21:25:00+07:00",
+      "fetched": "2026-02-24T05:31:32.730972+07:00"
+    },
+    {
+      "id": "ff299c8029313d8e31446efb93b2104f",
+      "title": "Ca sĩ bolero xinh như hoa hậu, tiết lộ lời dạy của Ngọc Sơn khi làm nghề",
+      "link": "https://thanhnien.vn/ca-si-bolero-xinh-nhu-hoa-hau-tiet-lo-loi-day-cua-ngoc-son-khi-lam-nghe-185260223233318617.htm",
+      "summary": "Trong sự nghiệp ca hát, Ngô Thái Ngân thấy may mắn khi được ca sĩ Ngọc Sơn nâng đỡ, chỉ dạy những bài học để theo nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T20:51:00+07:00",
+      "fetched": "2026-02-24T05:31:32.731123+07:00"
     },
     {
       "id": "971a1307c9c0eb137d7bd23a666e68fc",
