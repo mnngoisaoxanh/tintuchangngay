@@ -1,7 +1,157 @@
 window.newsData_2026_02_23 = {
   "date": "2026-02-23",
-  "lastUpdated": "2026-02-23T13:54:02.443987+07:00",
+  "lastUpdated": "2026-02-23T15:37:45.167411+07:00",
   "articles": [
+    {
+      "id": "c6a202093236daa87465fcf79b949ebf",
+      "title": "Lì xì đầu năm, thầy hiệu trưởng ở TP.HCM gửi thông điệp khiến học sinh bất ngờ",
+      "link": "https://tuoitre.vn/li-xi-dau-nam-thay-hieu-truong-o-tp-hcm-gui-thong-diep-khien-hoc-sinh-bat-ngo-20260223134808647.htm",
+      "summary": "Không đặt áp lực phải xuất sắc hay hoàn hảo, lời chúc năm mới của hiệu trưởng Trường THPT Phú Nhuận, phường Đức Nhuận, TP.HCM khiến học sinh bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.445897+07:00",
+      "fetched": "2026-02-23T15:37:37.445987+07:00"
+    },
+    {
+      "id": "e5d8f5edf53f62025f7e09dc7b027170",
+      "title": "Xử phạt lái đò bị tố vòi tiền tại Lễ hội du lịch chùa Hương",
+      "link": "https://tuoitre.vn/xu-phat-lai-do-bi-to-voi-tien-tai-le-hoi-du-lich-chua-huong-20260223134219951.htm",
+      "summary": "Hai lái đò xin thêm tiền của du khách và tự ý chở khách không qua phân công của ban điều hành tại Lễ hội du lịch chùa Hương bị xử phạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.445799+07:00",
+      "fetched": "2026-02-23T15:37:37.445889+07:00"
+    },
+    {
+      "id": "82bfd2b918640bec178dfc79c295f4d5",
+      "title": "Tổng Bí thư Tô Lâm: Bắt tay ngay vào công việc, không để chậm trễ, gián đoạn",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-bat-tay-ngay-vao-cong-viec-khong-de-cham-tre-gian-doan-20260223135041786.htm",
+      "summary": "Tổng Bí thư Tô Lâm lưu ý năm 2026 là năm đầu thực hiện nghị quyết Đại hội XIV của Đảng, mở đầu cho giai đoạn phát triển 2026-2030 với yêu cầu và mục tiêu rất cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.445691+07:00",
+      "fetched": "2026-02-23T15:37:37.445778+07:00"
+    },
+    {
+      "id": "85348c035a04a6ce6fb7daa54d87c82f",
+      "title": "Nỗ lực phủ tự động hóa 100% lưới điện cho toàn TP.HCM trong năm 2027",
+      "link": "https://tuoitre.vn/no-luc-phu-tu-dong-hoa-100-luoi-dien-cho-toan-tp-hcm-trong-nam-2027-20260223140721027.htm",
+      "summary": "Tổng công ty Điện lực TP.HCM đặt mục tiêu phủ tự động hóa 100% lưới điện toàn TP.HCM trong năm 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.445593+07:00",
+      "fetched": "2026-02-23T15:37:37.445682+07:00"
+    },
+    {
+      "id": "450df87848cf728a2287054da80b6367",
+      "title": "Lãnh đạo Khánh Hòa yêu cầu tăng tốc ngay từ đầu năm để thực hiện 'thập niên nâng tầm phát triển'",
+      "link": "https://tuoitre.vn/lanh-dao-khanh-hoa-yeu-cau-tang-toc-ngay-tu-dau-nam-de-thuc-hien-thap-nien-nang-tam-phat-trien-20260223140825581.htm",
+      "summary": "Tại buổi gặp mặt đầu xuân Bính Ngọ 2026, lãnh đạo Tỉnh ủy, UBND tỉnh Khánh Hòa yêu cầu các địa phương, đơn vị tăng tốc ngay từ ngày làm việc đầu năm, phát động phong trào thi đua để đảm bảo nền tảng vững chắc bước vào \"thập niên nâng tầm phát triển\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.445489+07:00",
+      "fetched": "2026-02-23T15:37:37.445583+07:00"
+    },
+    {
+      "id": "bcdcdc02769916f63d3e5d205bd467ce",
+      "title": "Quảng bá hình ảnh Việt Nam từ phim truyền hình: Cảnh đẹp, cảm xúc và sự chân thật",
+      "link": "https://tuoitre.vn/quang-ba-hinh-anh-viet-nam-tu-phim-truyen-hinh-canh-dep-cam-xuc-va-su-chan-that-2026022309303377.htm",
+      "summary": "Chia sẻ của đạo diễn Nhâm Minh Hiền, Nguyễn Phương Điền, Nguyễn Hoàng Anh làm thế nào để phim truyền hình có thể góp phần quảng bá hình ảnh Việt Nam mà Chính phủ đặt ra đến năm 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.445394+07:00",
+      "fetched": "2026-02-23T15:37:37.445480+07:00"
+    },
+    {
+      "id": "e2885b04831e44b6694591ea5d5a9aa3",
+      "title": "Giá vàng thế giới tiếp tục tăng, đạt đỉnh nhiều tuần",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-tiep-tuc-tang-dat-dinh-nhieu-tuan-20260223143148113.htm",
+      "summary": "Giá vàng thế giới chạm mức cao nhất trong ba tuần qua, đánh dấu tuần tăng thứ tư liên tiếp và cho thấy tác động chính sách của chính quyền ông Trump lên thị trường thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.445299+07:00",
+      "fetched": "2026-02-23T15:37:37.445386+07:00"
+    },
+    {
+      "id": "6913fa660bd609567d512fe196c5872e",
+      "title": "Greenland từ chối nhận tàu bệnh viện của ông Trump",
+      "link": "https://tuoitre.vn/greenland-dap-loi-khong-cam-on-truoc-de-nghi-gui-tau-benh-vien-cua-ong-trump-2026022314302683.htm",
+      "summary": "Lãnh đạo Đan Mạch và Greenland bác bỏ tuyên bố của Tổng thống Mỹ cho rằng người dân tại đây không được chăm sóc y tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.445186+07:00",
+      "fetched": "2026-02-23T15:37:37.445290+07:00"
+    },
+    {
+      "id": "13fd17cd9bce94d03585c725ff2135ed",
+      "title": "Mùa chuyển nghề sau Tết",
+      "link": "https://tuoitre.vn/mua-chuyen-nghe-sau-tet-20260223105746397.htm",
+      "summary": "Nếu Tết là thời điểm để đoàn viên, thì sau Tết lại là lúc để phân ly, là phân ly với 'chính mình cũ kỹ'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.445084+07:00",
+      "fetched": "2026-02-23T15:37:37.445177+07:00"
+    },
+    {
+      "id": "52463fc7d0bb255e239616d75eed47c2",
+      "title": "94/103 xã, phường ở Cần Thơ không xảy ra tội phạm trật tự xã hội dịp Tết",
+      "link": "https://tuoitre.vn/94-103-xa-phuong-o-can-tho-khong-xay-ra-toi-pham-trat-tu-xa-hoi-dip-tet-20260223135844718.htm",
+      "summary": "Trong 9 ngày Tết Nguyên đán 2026, có 94 trong tổng số 103 xã, phường ở TP Cần Thơ không xảy ra tội phạm trật tự xã hội. Lãnh đạo Công an TP Cần Thơ lý giải nguyên nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.444979+07:00",
+      "fetched": "2026-02-23T15:37:37.445076+07:00"
+    },
+    {
+      "id": "4646d8a5f62cd7e1bd99bac96cd6b3e8",
+      "title": "Nổ lớn tại Công ty Phốt pho vàng Việt Nam ở Khu công nghiệp Tằng Loỏng, một người chết",
+      "link": "https://tuoitre.vn/no-lon-tai-cong-ty-phot-pho-vang-viet-nam-o-khu-cong-nghiep-tang-loong-mot-nguoi-chet-20260223145805507.htm",
+      "summary": "Sau tiếng nổ lớn, lừa kèm theo khói bốc lên cao cả trăm mét tại Công ty TNHH Phốt pho vàng Việt Nam (PP5) thuộc Khu công nghiệp Tằng Loỏng (tỉnh Lào Cai).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.444876+07:00",
+      "fetched": "2026-02-23T15:37:37.444970+07:00"
+    },
+    {
+      "id": "5df54c86e570158d628844d6531222cc",
+      "title": "Sinh viên hỏi mua vàng tích sản: Có tiền là mua hay phải chờ đúng vía Thần Tài?",
+      "link": "https://tuoitre.vn/sinh-vien-hoi-tich-san-vang-co-tien-la-mua-hay-phai-cho-dung-via-than-tai-20260223124752161.htm",
+      "summary": "'Em muốn tham khảo về việc tích sản vàng. Mọi người thường mua vàng ở đâu? Có nên mua vào ngày vía Thần Tài không? Thời điểm giá vàng đang cao có phù hợp để mua vàng không?'",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.444769+07:00",
+      "fetched": "2026-02-23T15:37:37.444867+07:00"
+    },
+    {
+      "id": "53c3f454d2fff3f8716a505a8f095d18",
+      "title": "Trường y của ĐH Quốc gia TP.HCM xét tuyển tổng hợp, đánh giá năng lực chiếm ưu thế",
+      "link": "https://tuoitre.vn/truong-y-cua-dh-quoc-gia-tphcm-xet-tuyen-tong-hop-danh-gia-nang-luc-chiem-uu-the-20260223150733375.htm",
+      "summary": "Trường đại học Khoa học Sức khỏe (Đại học Quốc gia TP.HCM) sẽ áp dụng phương thức xét tuyển tổng hợp duy nhất từ năm 2026, trong đó điểm thi đánh giá năng lực chiếm tối thiểu 40% và cộng thêm điểm ưu tiên từ chứng chỉ ngoại ngữ, SAT.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.444656+07:00",
+      "fetched": "2026-02-23T15:37:37.444760+07:00"
+    },
+    {
+      "id": "b201cf43391e3a38bba10bf2e917d4be",
+      "title": "Hơn 243.000 lượt khách đi tàu điện ở Hà Nội trong 9 ngày Tết",
+      "link": "https://tuoitre.vn/hon-243-000-luot-khach-di-tau-dien-o-ha-noi-trong-9-ngay-tet-20260223151106823.htm",
+      "summary": "Trong 9 ngày nghỉ Tết, tuyến 2A (Cát Linh - Hà Đông) đạt hơn 165.000 lượt hành khách và tuyến 3.1 (Nhổn - Cầu Giấy) đạt gần 78.000 lượt hành khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.444532+07:00",
+      "fetched": "2026-02-23T15:37:37.444646+07:00"
+    },
+    {
+      "id": "33e883636f1cd9a61bca35596f220db5",
+      "title": "Mỹ ngừng thu thuế đối ứng từ ngày mai 24-2",
+      "link": "https://tuoitre.vn/my-ngung-thu-thue-doi-ung-tu-ngay-mai-24-2-2026022315200015.htm",
+      "summary": "Cục Hải quan và biên phòng Mỹ thông báo sẽ ngừng thu các sắc thuế vừa bị Tòa án Tối cao nước này tuyên là bất hợp pháp từ ngày 24-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T15:37:37.444297+07:00",
+      "fetched": "2026-02-23T15:37:37.444518+07:00"
+    },
     {
       "id": "90e4a429bf973ca886d5df39a084da30",
       "title": "Nhật Bản giảm giờ làm, nhưng đã thực sự thoát ‘làm việc đến chết’?",
@@ -303,6 +453,56 @@ window.newsData_2026_02_23 = {
       "fetched": "2026-02-23T11:13:47.974110+07:00"
     },
     {
+      "id": "722431f589bf631de1be51594a548110",
+      "title": "Trường ĐH Khoa học xã hội và nhân văn TP.HCM lần đầu tuyển phương thức tổng hợp",
+      "link": "https://thanhnien.vn/truong-dh-khoa-hoc-xa-hoi-va-nhan-van-tphcm-lan-dau-tuyen-phuong-thuc-tong-hop-185260223151354936.htm",
+      "summary": "Năm 2026, Trường ĐH Khoa học xã hội và nhân văn TP.HCM lần đầu tiên xét tuyển phương thức tổng hợp. Trong đó, điểm học lực được kết hợp giữa điểm thi tốt nghiệp THPT hoặc điểm thi đánh giá năng lực ĐH Quốc gia TP.HCM với điểm học bạ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T08:35:00+07:00",
+      "fetched": "2026-02-23T15:37:36.548513+07:00"
+    },
+    {
+      "id": "178967ef4b761d59b30521761cbf1d38",
+      "title": "Chứng khoán tưng bừng khai xuân Bính Ngọ",
+      "link": "https://thanhnien.vn/chung-khoan-tung-bung-khai-xuan-binh-ngo-185260223151104193.htm",
+      "summary": "Phiên giao dịch chứng khoán đầu năm Bính Ngọ tràn ngập sắc xanh đưa VN-Index tăng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T08:26:00+07:00",
+      "fetched": "2026-02-23T15:37:36.548660+07:00"
+    },
+    {
+      "id": "632e5fa4719e76e56c3db6be56bd064a",
+      "title": "Bên trong chiếc máy bay khét tiếng của 'tỉ phú ấu dâm' Epstein",
+      "link": "https://thanhnien.vn/ben-trong-chiec-may-bay-khet-tieng-cua-ti-phu-au-dam-epstein-185260223150146524.htm",
+      "summary": "Chiếc máy bay tư nhân 'Lolita Express' khét tiếng của 'tỉ phú ấu dâm' Jeffrey Epstein nằm mục nát trong bãi phế liệu ở Georgia, Mỹ suốt một thập kỷ với nhiều bằng chứng còn nguyên vẹn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T08:25:00+07:00",
+      "fetched": "2026-02-23T15:37:36.548787+07:00"
+    },
+    {
+      "id": "e4a384d9fe64a0490d0eb8981d4845e6",
+      "title": "Google vừa âm thầm tung 5 'vũ khí bí mật' cho Android",
+      "link": "https://thanhnien.vn/google-vua-am-tham-tung-5-vu-khi-bi-mat-cho-android-185260223093745822.htm",
+      "summary": "Điện thoại Android đang thay đổi chóng mặt khi 5 tính năng ẩn dưới đây sẽ định hình lại cách bạn dùng smartphone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T08:24:00+07:00",
+      "fetched": "2026-02-23T15:37:36.548912+07:00"
+    },
+    {
+      "id": "bf811f038102385e44a5da92273d27ed",
+      "title": "Độc đáo lễ hội Tiên Công: Con rể quỳ đón mừng bố vợ thượng thọ",
+      "link": "https://thanhnien.vn/doc-dao-le-hoi-tien-cong-con-re-quy-don-mung-bo-vo-thuong-tho-18526022314475415.htm",
+      "summary": "Lễ hội Tiên Công ở vùng đảo Hà Nam (Quảng Ninh) được tổ chức vào ngày mùng 7 tháng giêng, với nghi thức rước các cụ thượng thọ lên miếu báo công và tục con rể dựng quán trạm đón bố vợ thể hiện lòng hiếu nghĩa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T08:22:00+07:00",
+      "fetched": "2026-02-23T15:37:36.549039+07:00"
+    },
+    {
       "id": "6e110f7443460804fc9438b23e29ddec",
       "title": "Thời tiết hôm nay 23-2: Nam Bộ nắng nóng, nhiều tỉnh lên tới 37 độ C",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-23-2-nam-bo-nang-nong-nhieu-tinh-len-toi-37-do-c-20260222205323134.htm",
@@ -451,6 +651,296 @@ window.newsData_2026_02_23 = {
       "category": "Tổng hợp",
       "published": "2026-02-23T08:15:13.629370+07:00",
       "fetched": "2026-02-23T08:15:13.629592+07:00"
+    },
+    {
+      "id": "f096f4c886c13b40bee5032df3c89587",
+      "title": "Sốc: CLB Wolverhampton phản ứng dữ dội CĐV bình luận  phân biệt chủng tộc, có tài khoản tên tiếng Việt",
+      "link": "https://thanhnien.vn/soc-clb-wolverhampton-phan-ung-du-doi-cdv-binh-luan-phan-biet-chung-toc-co-tai-khoan-ten-tieng-viet-18526022314540807.htm",
+      "summary": "CLB Wolverhampton cho biết họ phẫn nộ trước nhiều tin nhắn lăng mạ mang tính phân biệt chủng tộc nhắm vào tiền đạo Tolu Arokodare trên mạng xã hội, sau trận thua Crystal Palace tối 22.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T08:05:00+07:00",
+      "fetched": "2026-02-23T15:37:36.549166+07:00"
+    },
+    {
+      "id": "2ac9cf4b5e2c876737736eba153c5223",
+      "title": "Kết hợp du xuân và tìm kiếm cơ hội đầu tư ở Cần Giờ",
+      "link": "https://thanhnien.vn/ket-hop-du-xuan-va-tim-kiem-co-hoi-dau-tu-o-can-gio-185260223144649603.htm",
+      "summary": "Không chỉ đến Cần Giờ vui xuân, nhiều khách còn kết hợp tìm kiếm cơ hội đầu tư khi thị trường bất động sản khu vực này đang dậy sóng với siêu dự án Vinhomes Green Paradise Cần Giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T08:03:00+07:00",
+      "fetched": "2026-02-23T15:37:36.549311+07:00"
+    },
+    {
+      "id": "f9353d1fe6e02967878797a834de8eb7",
+      "title": "Kỳ họp thứ nhất Quốc hội khóa XVI dự kiến khai mạc ngày 6.4",
+      "link": "https://thanhnien.vn/ky-hop-thu-nhat-quoc-hoi-khoa-xvi-du-kien-khai-mac-ngay-64-185260223135821818.htm",
+      "summary": "Chủ tịch Quốc hội yêu cầu phải chuẩn bị từ sớm, từ xa cho kỳ họp thứ nhất Quốc hội khóa XVI dự kiến sẽ khai mạc vào ngày 6.4.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T08:01:00+07:00",
+      "fetched": "2026-02-23T15:37:36.549432+07:00"
+    },
+    {
+      "id": "8a7b0142669805ffe8a72441bd9815b2",
+      "title": "Doanh nghiệp biển mở hướng đi mới cho nông nghiệp công nghệ cao",
+      "link": "https://thanhnien.vn/doanh-nghiep-bien-mo-huong-di-moi-cho-nong-nghiep-cong-nghe-cao-18526022315084565.htm",
+      "summary": "Nhân dịp Tết Bính Ngọ 2026, Bí thư Tỉnh ủy Khánh Hòa đến thăm, chúc tết và phát động phong trào thi đua lao động, sản xuất kinh doanh tại doanh nghiệp tiêu biểu trong lĩnh vực nông nghiệp ứng dụng công nghệ cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T08:00:00+07:00",
+      "fetched": "2026-02-23T15:37:36.549551+07:00"
+    },
+    {
+      "id": "ad3c9c6293b92576b752dbf11f507ee3",
+      "title": "Hết tết vẫn chưa hết đông, mùng 7 Bến xe Miền Tây đông nghẹt người",
+      "link": "https://thanhnien.vn/het-tet-van-chua-het-dong-mung-7-ben-xe-mien-tay-dong-nghet-nguoi-185260223075155544.htm",
+      "summary": "Dù kỳ nghỉ Tết Nguyên đán đã khép lại, nhưng những ngày này, lượng khách đổ về bến xe tại TP.HCM vẫn đông đúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T08:00:00+07:00",
+      "fetched": "2026-02-23T15:37:36.549666+07:00"
+    },
+    {
+      "id": "eace941950a7c11c649f5ae5940cb74e",
+      "title": "Đầu năm, mục sở thị 'não bộ' vận hành lưới điện thông minh siêu đô thị TP.HCM",
+      "link": "https://thanhnien.vn/dau-nam-muc-so-thi-nao-bo-van-hanh-luoi-dien-thong-minh-sieu-do-thi-tphcm-185260223124944994.htm",
+      "summary": "Được xem là 'não bộ thông minh' vận hành toàn bộ hệ thống lưới điện của siêu đô thị TP.HCM sau sáp nhập phục vụ cho hơn 14 triệu dân, Trung tâm Điều độ hệ thống điện TP.HCM vốn là 'địa chỉ' gây tò mò, nhưng không phải ai cũng vào được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:57:00+07:00",
+      "fetched": "2026-02-23T15:37:36.549785+07:00"
+    },
+    {
+      "id": "45c82793f41c6674b69e2ac66f2f0ea8",
+      "title": "Khách quốc tế đến Gia Lai dịp tết tăng 65%",
+      "link": "https://thanhnien.vn/khach-quoc-te-den-gia-lai-dip-tet-tang-65-185260223134509428.htm",
+      "summary": "Trong 9 ngày nghỉ Tết Bính Ngọ 2026, Gia Lai đón khoảng 15.500 lượt khách quốc tế, tăng 65% so với cùng kỳ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:52:00+07:00",
+      "fetched": "2026-02-23T15:37:36.549897+07:00"
+    },
+    {
+      "id": "9be8a3572a361bcc17ef2e8ef180822a",
+      "title": "Bệnh viện Hoàn Mỹ Đà Lạt ứng dụng công nghệ laser điều trị ca trĩ độ III",
+      "link": "https://thanhnien.vn/benh-vien-hoan-my-da-lat-ung-dung-cong-nghe-laser-dieu-tri-ca-tri-do-iii-185260223145909501.htm",
+      "summary": "Bệnh viện Hoàn Mỹ Đà Lạt, thành viên Tập đoàn y khoa Hoàn Mỹ với các thương hiệu: Hoàn Mỹ, Hạnh Phúc và Thuận Mỹ cho biết vừa triển khai phẫu thuật điều trị trĩ độ III bằng công nghệ laser.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:50:00+07:00",
+      "fetched": "2026-02-23T15:37:36.550016+07:00"
+    },
+    {
+      "id": "fc92682e04a8df9cdab508dc597c9882",
+      "title": "Nghệ sĩ Vũ Quang: Xế chiều bệnh tật, không vợ con, sống nương nhờ tịnh xá",
+      "link": "https://thanhnien.vn/nghe-si-vu-quang-xe-chieu-benh-tat-khong-vo-con-song-nuong-nho-tinh-xa-185260223125811055.htm",
+      "summary": "Những năm qua, nghệ sĩ Vũ Quang sống độc thân, tá túc tại Tịnh xá Ngọc Quang (TP.HCM). Sau cơn tai biến, nam nghệ sĩ bị liệt hai chân, sức khỏe kém song vẫn giữ tinh thần lạc quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:50:00+07:00",
+      "fetched": "2026-02-23T15:37:36.550139+07:00"
+    },
+    {
+      "id": "8186b41e4e9a0c7d27952f54bcd0c57d",
+      "title": "Triều Tiên chiếu phim về âm mưu ám sát cố lãnh đạo Kim Jong-il",
+      "link": "https://vnexpress.net/trieu-tien-chieu-phim-ve-am-muu-am-sat-co-lanh-dao-kim-jong-il-5043108.html",
+      "summary": "Triều Tiên cho phát sóng rộng rãi bộ phim hành động với nội dung về âm mưu ám sát bất thành nhằm vào cố lãnh đạo Kim Jong-il.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-23T07:48:10+07:00",
+      "fetched": "2026-02-23T15:37:39.101082+07:00"
+    },
+    {
+      "id": "cdb50af4dcab6844d777ebf0d1d34736",
+      "title": "Băng đảng Mexico báo thù cho ông trùm, phong tỏa đường phố",
+      "link": "https://vnexpress.net/bang-dang-mexico-bao-thu-cho-ong-trum-phong-toa-duong-pho-5043083.html",
+      "summary": "Băng đảng CJNG mở đợt tấn công trả đũa sau cái chết của ông trùm El Mencho, gây hỗn loạn ở nhiều thành phố của Mexico.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:43:15+07:00",
+      "fetched": "2026-02-23T15:37:32.915611+07:00"
+    },
+    {
+      "id": "cdb50af4dcab6844d777ebf0d1d34736",
+      "title": "Băng đảng Mexico báo thù cho ông trùm, phong tỏa đường phố",
+      "link": "https://vnexpress.net/bang-dang-mexico-bao-thu-cho-ong-trum-phong-toa-duong-pho-5043083.html",
+      "summary": "Băng đảng CJNG mở đợt tấn công trả đũa sau cái chết của ông trùm El Mencho, gây hỗn loạn ở nhiều thành phố của Mexico.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-23T07:43:15+07:00",
+      "fetched": "2026-02-23T15:37:39.101252+07:00"
+    },
+    {
+      "id": "980d66028fad2b849521573dd2628750",
+      "title": "Hoàng tử William giúp Vua Charles III lấy lại lòng tin từ người dân Anh",
+      "link": "https://thanhnien.vn/hoang-tu-william-giup-vua-charles-iii-lay-lai-long-tin-tu-nguoi-dan-anh-185260223142124968.htm",
+      "summary": "Hoàng tử William được cho là đang âm thầm chuẩn bị những thay đổi sâu rộng đối với chế độ quân chủ, hướng tới một mô hình vận hành minh bạch và có trách nhiệm hơn trước công chúng, Mirror đưa tin ngày 22.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:43:00+07:00",
+      "fetched": "2026-02-23T15:37:36.550273+07:00"
+    },
+    {
+      "id": "8b144b0966340c0021712cf1aaf6e21a",
+      "title": "Nổ lớn ở khu công nghiệp Tằng Loỏng",
+      "link": "https://vnexpress.net/no-lon-o-khu-cong-nghiep-tang-loong-5043160.html",
+      "summary": "Sau tiếng nổ lớn, cột khói trắng bốc cao hàng trăm mét từ khu công nghiệp Tằng Loỏng, huyện Bảo Thắng cũ, trưa 23/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:42:34+07:00",
+      "fetched": "2026-02-23T15:37:32.915771+07:00"
+    },
+    {
+      "id": "d2731399d168b6cab91f8db0b8d709d6",
+      "title": "Cuộc chiến giảm đường trong trà sữa ở Thái Lan",
+      "link": "https://vnexpress.net/cuoc-chien-giam-duong-trong-tra-sua-o-thai-lan-5043050.html",
+      "summary": "Chính phủ Thái Lan đang đẩy mạnh chiến dịch cắt giảm lượng đường trong đồ uống, đe dọa trực tiếp thói quen tiêu thụ trà sữa siêu ngọt của người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:38:07+07:00",
+      "fetched": "2026-02-23T15:37:32.915913+07:00"
+    },
+    {
+      "id": "1440239c9772d474350a2d3f7bdc0563",
+      "title": "Hai vụ tai nạn liên hoàn trên cao tốc Phan Thiết - Dầu Giây",
+      "link": "https://vnexpress.net/hai-vu-tai-nan-lien-hoan-tren-cao-toc-phan-thiet-dau-giay-5043154.html",
+      "summary": "Hai vụ tai nạn liên hoàn với tổng cộng 8 ôtô xảy ra cách nhau khoảng 3 km trên cao tốc Phan Thiết - Dầu Giây trưa 23/2 (mùng 7 Tết), khiến đoạn đường ùn ứ kéo dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:33:59+07:00",
+      "fetched": "2026-02-23T15:37:32.916047+07:00"
+    },
+    {
+      "id": "628de14c982344c5c91036cba6daf6ce",
+      "title": "Phim của Leonardo DiCaprio đại thắng BAFTA",
+      "link": "https://vnexpress.net/phim-cua-leonardo-dicaprio-dai-thang-bafta-5043062.html",
+      "summary": "\"One Battle After Another\" - Leonardo DiCaprio đóng chính - áp đảo giải BAFTA 2026 với sáu chiến thắng, gồm Phim hay nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:33:21+07:00",
+      "fetched": "2026-02-23T15:37:32.916181+07:00"
+    },
+    {
+      "id": "ac3bf67db5c6dab732746ea0d622df97",
+      "title": "Đây là câu tục ngữ Việt Nam quen thuộc nào?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-day-la-cau-tuc-ngu-viet-nam-quen-thuoc-nao-5043158.html",
+      "summary": "Câu tục ngữ phê phán thói ghen tị, đố kỵ của con người khi thấy người khác hơn mình hoặc thành công hơn mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:30:00+07:00",
+      "fetched": "2026-02-23T15:37:32.916332+07:00"
+    },
+    {
+      "id": "df7a18f2e90bc0969dd05bf8d8c4f817",
+      "title": "Đề xuất thành lập Trung tâm Cơ sở dữ liệu quốc gia phòng chống tin giả",
+      "link": "https://vnexpress.net/de-xuat-thanh-lap-trung-tam-co-so-du-lieu-quoc-gia-phong-chong-tin-gia-5043049.html",
+      "summary": "Trung tâm cơ sở dữ liệu quốc gia phòng, chống vi phạm pháp luật về tin giả do Bộ Công an vận hành sẽ xác định cảnh báo tin giả, hỗ trợ giải đáp các thắc mắc của người dân về vấn đề này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:27:53+07:00",
+      "fetched": "2026-02-23T15:37:32.916457+07:00"
+    },
+    {
+      "id": "076f7c542d1800f561af5b1d83f7eea4",
+      "title": "Nguy cơ ngộ độc vì ăn quất cảnh sau Tết",
+      "link": "https://vnexpress.net/nguy-co-ngo-doc-vi-an-quat-canh-sau-tet-5043039.html",
+      "summary": "Tiếc cây quất trĩu quả sau Tết, nhiều người vắt nước chấm, ngâm chữa ho hay pha nước uống mà không biết đang trực tiếp nạp lượng lớn hóa chất vào cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:26:24+07:00",
+      "fetched": "2026-02-23T15:37:32.916578+07:00"
+    },
+    {
+      "id": "9f6cd3430ca1197def17a312e51b823d",
+      "title": "Ronaldo: 'Tôi thuộc về Arab Saudi'",
+      "link": "https://vnexpress.net/ronaldo-toi-thuoc-ve-arab-saudi-5043156.html",
+      "summary": "Sau màn nổi loạn gần đây, Cristiano Ronaldo lên tiếng, cam kết gắn bó lâu dài với CLB Al Nassr và Arab Saudi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:22:10+07:00",
+      "fetched": "2026-02-23T15:37:32.916703+07:00"
+    },
+    {
+      "id": "9f6cd3430ca1197def17a312e51b823d",
+      "title": "Ronaldo: 'Tôi thuộc về Arab Saudi'",
+      "link": "https://vnexpress.net/ronaldo-toi-thuoc-ve-arab-saudi-5043156.html",
+      "summary": "Sau màn nổi loạn gần đây, Cristiano Ronaldo lên tiếng, cam kết gắn bó lâu dài với CLB Al Nassr và Arab Saudi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-23T07:22:10+07:00",
+      "fetched": "2026-02-23T15:37:45.159372+07:00"
+    },
+    {
+      "id": "6155db7667b36cde5a477353fb427c6b",
+      "title": "Vì sao nâng hạng tín nhiệm tác động lớn hơn nâng hạng chứng khoán?",
+      "link": "https://vnexpress.net/vi-sao-nang-hang-tin-nhiem-tac-dong-lon-hon-nang-hang-chung-khoan-5040771.html",
+      "summary": "Việt Nam tiến gần xếp hạng tín nhiệm ở mức \"Đầu tư\" mang lại tác động lan tỏa cho cả thị trường vốn, lớn hơn việc FTSE nâng hạng chứng khoán, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:14:13+07:00",
+      "fetched": "2026-02-23T15:37:32.916832+07:00"
+    },
+    {
+      "id": "6155db7667b36cde5a477353fb427c6b",
+      "title": "Vì sao nâng hạng tín nhiệm tác động lớn hơn nâng hạng chứng khoán?",
+      "link": "https://vnexpress.net/vi-sao-nang-hang-tin-nhiem-tac-dong-lon-hon-nang-hang-chung-khoan-5040771.html",
+      "summary": "Việt Nam tiến gần xếp hạng tín nhiệm ở mức \"Đầu tư\" mang lại tác động lan tỏa cho cả thị trường vốn, lớn hơn việc FTSE nâng hạng chứng khoán, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-23T07:14:13+07:00",
+      "fetched": "2026-02-23T15:37:40.820031+07:00"
+    },
+    {
+      "id": "2f8fe752fefa3c207b0921a687bf76d1",
+      "title": "CĐV đốt sân khi đội nhà thua ở Serbia",
+      "link": "https://vnexpress.net/cdv-dot-san-khi-doi-nha-thua-o-serbia-5043148.html",
+      "summary": "Trận đấu rơi vào cảnh hỗn loạn khi cổ động viên Parizan tức giận, đốt sân vận động Rajko Mitic khi đội thua tại Giải vô địch quốc gia Serbia, tối 22/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:06:57+07:00",
+      "fetched": "2026-02-23T15:37:32.916958+07:00"
+    },
+    {
+      "id": "e8e0c69e0adac6aec2a08bb62850c762",
+      "title": "Mang thai 6 tháng nhưng không biết",
+      "link": "https://vnexpress.net/mang-thai-6-thang-nhung-khong-biet-5043142.html",
+      "summary": "Người phụ nữ 38 tuổi, đi khám sức khỏe tình cờ phát hiện mang thai 24 tuần, kèm nhau tiền đạo và nhau cài răng lược, nguy hiểm tính mạng hai mẹ con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:03:08+07:00",
+      "fetched": "2026-02-23T15:37:32.917074+07:00"
+    },
+    {
+      "id": "5485fc63d8af11c4f0210fd557251c9f",
+      "title": "The Sunset - căn hộ hưởng lợi từ kinh tế đêm Phú Quốc",
+      "link": "https://vnexpress.net/the-sunset-can-ho-huong-loi-tu-kinh-te-dem-phu-quoc-5043149.html",
+      "summary": "The Sunset nằm giữa Thị trấn Hoàng Hôn, nhiều tiềm năng khai thác lưu trú nhờ tầm nhìn hoàng hôn, các show diễn nghệ thuật, pháo hoa cùng hoạt động thương mại mỗi đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:00:00+07:00",
+      "fetched": "2026-02-23T15:37:32.917196+07:00"
+    },
+    {
+      "id": "68271b36c3173905f175cdf39d973832",
+      "title": "Cách phục hồi tóc sau Tết",
+      "link": "https://vnexpress.net/cach-phuc-hoi-toc-sau-tet-5043121.html",
+      "summary": "Điều chỉnh nhịp sinh hoạt, cắt tỉa phần tóc hư tổn, hạn chế nhiệt, hóa chất, dinh dưỡng hợp lý giúp mái tóc dần phục hồi, chắc khỏe và bóng mượt sau Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:00:00+07:00",
+      "fetched": "2026-02-23T15:37:32.917337+07:00"
+    },
+    {
+      "id": "34c8e647b5a0af22f9dbc09dccda1bba",
+      "title": "5 mẹo đơn giản phòng viêm xoang tái phát",
+      "link": "https://vnexpress.net/5-meo-don-gian-phong-viem-xoang-tai-phat-5043092.html",
+      "summary": "Giữ ấm và vệ sinh mũi họng, tránh tiếp xúc với các yếu tố gây kích thích, có thể ngăn bệnh tái phát và tiến triển nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-23T07:00:00+07:00",
+      "fetched": "2026-02-23T15:37:32.917458+07:00"
     },
     {
       "id": "204f3107d743641c13acc532c3e74ef6",
