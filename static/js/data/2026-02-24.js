@@ -1,7 +1,157 @@
 window.newsData_2026_02_24 = {
   "date": "2026-02-24",
-  "lastUpdated": "2026-02-24T11:09:25.816759+07:00",
+  "lastUpdated": "2026-02-24T13:48:31.916766+07:00",
   "articles": [
+    {
+      "id": "d6d82e086483e2896c675a3d48fedeb8",
+      "title": "Nga và Venezuela kêu gọi Mỹ lập tức thả ông Maduro",
+      "link": "https://tuoitre.vn/nga-va-venezuela-keu-goi-my-lap-tuc-tha-ong-maduro-20260224105719277.htm",
+      "summary": "Nga và Venezuela vừa lên tiếng thúc giục Mỹ trả tự do ngay lập tức cho Tổng thống Venezuela Nicolás Maduro và Đệ nhất phu nhân Cilia Flores.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.367678+07:00",
+      "fetched": "2026-02-24T13:48:25.367798+07:00"
+    },
+    {
+      "id": "8163bf126e292c9aec88e34e94c51a9a",
+      "title": "Anh nới lỏng thị thực cho người tị nạn Ukraine",
+      "link": "https://tuoitre.vn/anh-noi-long-thi-thuc-cho-nguoi-ti-nan-ukraine-20260224110339317.htm",
+      "summary": "Ngoại trưởng Anh thăm Kiev trong ngày tròn 4 năm diễn ra cuộc xung đột giữa Ukraine và Nga, công bố kế hoạch cho công dân Ukraine nộp đơn xin gia hạn thị thực nhập cảnh Anh sớm hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.367541+07:00",
+      "fetched": "2026-02-24T13:48:25.367655+07:00"
+    },
+    {
+      "id": "ddfeddd584abaa99cc6b1be71cec1141",
+      "title": "Hơn 4.000 cử tri ở TP.HCM bỏ phiếu sớm từ 26-2",
+      "link": "https://tuoitre.vn/hon-4-000-cu-tri-o-tp-hcm-bo-phieu-som-tu-26-2-20260224105305475.htm",
+      "summary": "Hơn 4.000 cử tri thuộc 3 phường tại TP.HCM sẽ bầu cử sớm ở 4 khu vực do làm nhiệm vụ dài ngày trên biển, không thể bỏ phiếu ngày 15-3-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.367413+07:00",
+      "fetched": "2026-02-24T13:48:25.367528+07:00"
+    },
+    {
+      "id": "57437a62dc18062e7a10cee30c5267bf",
+      "title": "Tổng Bí thư Tô Lâm: Không để tâm lý 'tháng giêng là tháng ăn chơi' tồn tại trong hệ thống chính trị",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-khong-de-tam-ly-thang-gieng-la-thang-an-choi-ton-tai-trong-he-thong-chinh-tri-20260224111416339.htm",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu cả hệ thống chính trị phải bắt tay ngay vào công việc, khẩn trương đưa mọi hoạt động trở lại với nhịp độ bình thường, không để chậm trễ công việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.367286+07:00",
+      "fetched": "2026-02-24T13:48:25.367402+07:00"
+    },
+    {
+      "id": "8ee4639e3181fa69ac6da7c4342c0987",
+      "title": "Bộ trưởng Bộ Tài chính: Tôi tin tưởng thị trường chứng khoán năm 2026 tiếp tục phát triển mạnh mẽ",
+      "link": "https://tuoitre.vn/bo-truong-bo-tai-chinh-toi-tin-tuong-thi-truong-chung-khoan-nam-2026-tiep-tuc-phat-trien-manh-me-20260224110825174.htm",
+      "summary": "Giữa không khí xuân mới, lễ đánh cồng khai trương giao dịch chứng khoán đầu xuân Bính Ngọ 2026 vừa được tổ chức vào hôm nay 24-2, mùng 8 tháng giêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.367133+07:00",
+      "fetched": "2026-02-24T13:48:25.367273+07:00"
+    },
+    {
+      "id": "c72ea76d5baaa1139c890b2047b67509",
+      "title": "Tuyển futsal nữ Việt Nam: Tìm chiến thắng khai xuân",
+      "link": "https://tuoitre.vn/tuyen-futsal-nu-viet-nam-tim-chien-thang-khai-xuan-20260224110348537.htm",
+      "summary": "Ra quân gặp Úc ở bảng B Giải futsal nữ Đông Nam Á 2025 diễn ra vào 13h30 hôm nay (24-2) tại Thái Lan, tuyển futsal nữ Việt Nam được kỳ vọng sẽ chiến thắng để tạo đà cho hành trình bảo vệ ngôi vị số 1 futsal nữ Đông Nam Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.367003+07:00",
+      "fetched": "2026-02-24T13:48:25.367121+07:00"
+    },
+    {
+      "id": "0eedebf7e5ecc9754f4bb265c896f79b",
+      "title": "9 ngày Tết, Đồng Nai xử phạt gần 700 tài xế vi phạm nồng độ cồn",
+      "link": "https://tuoitre.vn/9-ngay-tet-dong-nai-xu-phat-gan-700-tai-xe-vi-pham-nong-do-con-20260224110436819.htm",
+      "summary": "Trong 9 ngày nghỉ Tết Nguyên đán 2026, lực lượng cảnh sát giao thông Đồng Nai xử phạt gần 700 tài xế vi phạm nồng độ cồn và gần 900 xe vi phạm tốc độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.366877+07:00",
+      "fetched": "2026-02-24T13:48:25.366992+07:00"
+    },
+    {
+      "id": "a3976492e22ebfdea0587202f29323dc",
+      "title": "Bão tuyết 'quái vật' càn quét Bờ Đông Mỹ: Biến động tự nhiên hay hồi chuông khí hậu?",
+      "link": "https://tuoitre.vn/bao-tuyet-quai-vat-can-quet-bo-dong-my-bien-dong-tu-nhien-hay-hoi-chuong-khi-hau-20260224110305969.htm",
+      "summary": "Bờ Đông nước Mỹ đón trận bão mùa đông dữ dội, hội tụ cùng lúc bão đông bắc, 'bom bão táp' và bão tuyết cực mạnh, khiến nhiều nơi ngập trong tuyết dày gần 1m và gió giật vượt 120km/h.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.366750+07:00",
+      "fetched": "2026-02-24T13:48:25.366865+07:00"
+    },
+    {
+      "id": "d6c419cdffeba2132d22b51bedbb8c25",
+      "title": "V-League trở lại với 2 cuộc đại chiến",
+      "link": "https://tuoitre.vn/v-league-tro-lai-voi-2-cuoc-dai-chien-20260224105907794.htm",
+      "summary": "Sau kỳ nghỉ Tết Bính Ngọ, V-League 2025 - 2026 trở lại với 2 trận đấu bù vòng 10 diễn ra vào ngày 24-2: CLB Thanh Hóa - Công An Hà Nội, Thể Công - Viettel gặp Nam Định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.366620+07:00",
+      "fetched": "2026-02-24T13:48:25.366738+07:00"
+    },
+    {
+      "id": "bdd2d2f85b83c9863c682bb14697a532",
+      "title": "Bóng đá Ý lâm nguy",
+      "link": "https://tuoitre.vn/bong-da-y-lam-nguy-20260224105350923.htm",
+      "summary": "Bóng đá Ý đang đứng trước nguy cơ không còn đại diện ở vòng 16 đội Champions League 2025 - 2026 khi cả ba đội bóng đều thất lại ở lượt đi vòng play-off.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.366489+07:00",
+      "fetched": "2026-02-24T13:48:25.366607+07:00"
+    },
+    {
+      "id": "c3a9e35e5ed5bb8d841e0d00a1b6e32d",
+      "title": "Futsal nữ Việt Nam đấu Úc (13h30): Khởi đầu suôn sẻ cho Việt Nam?",
+      "link": "https://tuoitre.vn/futsal-nu-viet-nam-dau-uc-13h30-khoi-dau-suon-se-cho-viet-nam-2026022410130928.htm",
+      "summary": "Tuyển futsal nữ Việt Nam sẽ đối đầu với Úc ở trận ra quân Giải futsal nữ Đông Nam Á 2026 vào chiều nay 24-2. Các cô gái Việt Nam được kỳ vọng sẽ giành chiến thắng trong trận đấu \"mở hàng\" của năm Bính Ngọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.366353+07:00",
+      "fetched": "2026-02-24T13:48:25.366475+07:00"
+    },
+    {
+      "id": "57654ab5691b5160779ed8d556f60c8b",
+      "title": "Đặc khu Trường Sa bầu cử sớm tại 21 khu vực bỏ phiếu",
+      "link": "https://tuoitre.vn/dac-khu-truong-sa-bau-cu-som-tai-21-khu-vuc-bo-phieu-20260224105217088.htm",
+      "summary": "Công tác triển khai chuẩn bị cho bầu cử sớm tại 21 khu vực bỏ phiếu trên các đảo thuộc đặc khu Trường Sa (Khánh Hòa) đã cơ bản hoàn tất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.366217+07:00",
+      "fetched": "2026-02-24T13:48:25.366341+07:00"
+    },
+    {
+      "id": "fb328d7f583636b80b51f629666085c7",
+      "title": "Tết đầu tiên có điện ở đỉnh Tu Thôn",
+      "link": "https://tuoitre.vn/tet-dau-tien-co-dien-o-dinh-tu-thon-2026022411235724.htm",
+      "summary": "Sau nhiều thập niên sống trong cảnh thiếu thốn hạ tầng vì vướng mắc chồng lấn địa giới hành chính, người dân thôn Tu Thôn (xã Măng Bút, Quảng Ngãi) lần đầu được vui mừng đón điện lưới quốc gia ngay trước Tết Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.366059+07:00",
+      "fetched": "2026-02-24T13:48:25.366204+07:00"
+    },
+    {
+      "id": "b0cfede9b66923b6578c167d12f7d105",
+      "title": "Giá vàng bạc biến động mạnh trước ngày Thần Tài",
+      "link": "https://tuoitre.vn/gia-vang-bac-bien-dong-manh-truoc-ngay-than-tai-20260224113024011.htm",
+      "summary": "Giá vàng thế giới tăng liên tục, có lúc chạm 5.246 USD/ounce rồi sau đó bất ngờ giảm hơn 43 USD/ounce hôm nay, 24-2, tức mùng 8 tháng giêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.365914+07:00",
+      "fetched": "2026-02-24T13:48:25.366045+07:00"
+    },
+    {
+      "id": "d47601123599d2a15f01af774e341863",
+      "title": "Tập huấn kỹ năng vận động bầu cử cho người ứng cử đại biểu Quốc hội khóa XVI và đại biểu HĐND",
+      "link": "https://tuoitre.vn/tap-huan-ky-nang-van-dong-bau-cu-cho-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-20260224113612915.htm",
+      "summary": "Ông Hoàng Công Thủy nhấn mạnh các ứng viên đại biểu Quốc hội và HĐND các cấp cần chinh phục niềm tin của cử tri bằng tài năng, tâm huyết, trách nhiệm và phẩm chất đạo đức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:48:25.365666+07:00",
+      "fetched": "2026-02-24T13:48:25.365898+07:00"
+    },
     {
       "id": "26e466002885ad2bb9cc292851a04525",
       "title": "Tết là cao điểm, không phải nghỉ lễ: Du lịch từ đón đông khách đến 'đón khách văn minh'",
@@ -243,6 +393,156 @@ window.newsData_2026_02_24 = {
       "fetched": "2026-02-24T08:13:44.250702+07:00"
     },
     {
+      "id": "75a091595c9c6b16d49fffedbe05d070",
+      "title": "Giá Galaxy S25 Ultra giảm mạnh trước thềm ra mắt Galaxy S26",
+      "link": "https://thanhnien.vn/gia-galaxy-s25-ultra-giam-manh-truoc-them-ra-mat-galaxy-s26-18526022412444426.htm",
+      "summary": "Áp lực từ thế hệ kế nhiệm mang đến đợt điều chỉnh giá trên diện rộng, kéo mức niêm yết của mẫu flagship Galaxy S25 Ultra xuống thấp kỷ lục kể từ khi lên kệ tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T06:46:00+07:00",
+      "fetched": "2026-02-24T13:48:24.397347+07:00"
+    },
+    {
+      "id": "d081a921ba24413823307309f6f43c80",
+      "title": "Tranh chấp tài sản giữa chàng rể ngoại quốc và gia đình vợ tại Việt Nam",
+      "link": "https://thanhnien.vn/tranh-chap-tai-san-giua-chang-re-ngoai-quoc-va-gia-dinh-vo-tai-viet-nam-185260224120051833.htm",
+      "summary": "Người đàn ông ngoại quốc khẳng định đưa tiền cho vợ mua đất, xây nhà tại Việt Nam, song vợ và các anh chị lại cho rằng đây là tài sản riêng của họ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T06:42:00+07:00",
+      "fetched": "2026-02-24T13:48:24.397518+07:00"
+    },
+    {
+      "id": "3c75db7553654d7ac415b37475069920",
+      "title": "'Chốt' thời gian giải phóng mặt bằng đại lộ Tây Thăng Long",
+      "link": "https://thanhnien.vn/chot-thoi-gian-giai-phong-mat-bang-dai-lo-tay-thang-long-185260224131946862.htm",
+      "summary": "Chính quyền sở tại đã ấn định thời gian giải phóng mặt bằng dự án đầu tư đại lộ nghìn tỉ Tây Thăng Long, phấn đấu hoàn thành 100% trước ngày 31.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T06:36:00+07:00",
+      "fetched": "2026-02-24T13:48:24.397676+07:00"
+    },
+    {
+      "id": "342b8448aea8e3168abf8b49da4c1041",
+      "title": "Lâm Đồng: Xe khách giường nằm chở thêm 8 khách, phạt cả tài xế và chủ xe",
+      "link": "https://thanhnien.vn/lam-dong-xe-khach-giuong-nam-cho-them-8-khach-phat-ca-tai-xe-va-chu-xe-185260224120359174.htm",
+      "summary": "Xe khách giường nằm chở quá 8 hành khách chạy trên cao tốc bị Cảnh sát Giao thông phát hiện và xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T06:27:00+07:00",
+      "fetched": "2026-02-24T13:48:24.397832+07:00"
+    },
+    {
+      "id": "f3e446ede089ebefd603546a0878fe4d",
+      "title": "Khánh Ly về nước ra mắt cuốn sách đầu tiên về 80 năm cuộc đời",
+      "link": "https://thanhnien.vn/khanh-ly-ve-nuoc-ra-mat-cuon-sach-dau-tien-ve-80-nam-cuoc-doi-18526022411410214.htm",
+      "summary": "Hát cùng nguồn cội -  Chân dung Khánh Ly, cuốn sách được ca sĩ Khánh Ly cho biết là tác phẩm đầu tiên và duy nhất về chân dung của mình, sẽ được ra mắt trong tháng 3 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T06:27:00+07:00",
+      "fetched": "2026-02-24T13:48:24.397986+07:00"
+    },
+    {
+      "id": "f51bee6836e87243d23d03f0fb1ac36d",
+      "title": "Kinh hoàng vụ tai nạn liên hoàn trên cao tốc Phan Thiết – Dầu Giây",
+      "link": "https://thanhnien.vn/kinh-hoang-vu-tai-nan-lien-hoan-tren-cao-toc-phan-thiet-dau-giay-185260224120809445.htm",
+      "summary": "Một vụ tai nạn giao thông liên hoàn giữa 5 ô tô vừa xảy ra trên cao tốc Phan Thiết – Dầu Giây, gây ùn tắc kéo dài trong đêm 23.2. Cơ quan Cảnh sát điều tra Công an tỉnh Lâm Đồng đã vào cuộc thụ lý, điều tra nguyên nhân vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T06:26:00+07:00",
+      "fetched": "2026-02-24T13:48:24.398200+07:00"
+    },
+    {
+      "id": "103918bf140a72eb7f8b1371c15826a6",
+      "title": "Nơi ứng cử đại biểu HĐND TP.HCM của 4 phó bí thư Thành ủy",
+      "link": "https://thanhnien.vn/noi-ung-cu-dai-bieu-hdnd-tphcm-cua-4-pho-bi-thu-thanh-uy-185260224120657732.htm",
+      "summary": "Trong nhiệm kỳ 2026 - 2031, có 4 phó bí thư Thành ủy TP.HCM ứng cử đại biểu HĐND TP.HCM gồm ông Lê Quốc Phong, ông Võ Văn Minh, ông Nguyễn Văn Được và bà Văn Thị Bạch Tuyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T06:10:00+07:00",
+      "fetched": "2026-02-24T13:48:24.398420+07:00"
+    },
+    {
+      "id": "1a300bda241937f3f91a516bbcb97764",
+      "title": "iPhone 18 Pro có thể thêm màu đỏ đậm",
+      "link": "https://vnexpress.net/iphone-18-pro-co-the-them-mau-do-dam-5043370.html",
+      "summary": "Apple được cho là đang thử nghiệm tông màu đỏ đậm (Deep Red) cho iPhone 18 Pro và 18 Pro Max.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T06:06:22+07:00",
+      "fetched": "2026-02-24T13:48:20.734462+07:00"
+    },
+    {
+      "id": "d6a97927b05181c512f79067ec9e4e93",
+      "title": "Đà tăng của vàng lần này khác gì các chu kỳ trước?",
+      "link": "https://vnexpress.net/da-tang-cua-vang-lan-nay-khac-gi-cac-chu-ky-truoc-5041850.html",
+      "summary": "Kịch bản tăng mạnh rồi giảm sâu, theo chuyên gia, không hẳn lặp lại khi vàng dần trở thành tài sản chiến lược của một số nước muốn giảm lệ thuộc vào USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T06:05:47+07:00",
+      "fetched": "2026-02-24T13:48:20.734656+07:00"
+    },
+    {
+      "id": "d6a97927b05181c512f79067ec9e4e93",
+      "title": "Đà tăng của vàng lần này khác gì các chu kỳ trước?",
+      "link": "https://vnexpress.net/da-tang-cua-vang-lan-nay-khac-gi-cac-chu-ky-truoc-5041850.html",
+      "summary": "Kịch bản tăng mạnh rồi giảm sâu, theo chuyên gia, không hẳn lặp lại khi vàng dần trở thành tài sản chiến lược của một số nước muốn giảm lệ thuộc vào USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-24T06:05:47+07:00",
+      "fetched": "2026-02-24T13:48:27.595013+07:00"
+    },
+    {
+      "id": "1126987aa783ea0bd19ce63a956c7c54",
+      "title": "Anh có trình độ, hiểu cuộc sống và yêu tổ quốc nhé",
+      "link": "https://vnexpress.net/anh-co-trinh-do-hieu-cuoc-song-va-yeu-to-quoc-nhe-5043398.html",
+      "summary": "Em hiền, dễ tính, ít để ý đến sự việc xung quanh, sống theo hệ tư duy đơn giản, biết hài lòng với những gì mình có.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T06:00:00+07:00",
+      "fetched": "2026-02-24T13:48:20.734775+07:00"
+    },
+    {
+      "id": "ee9ad5a2caa20df212b0ab89257d9d56",
+      "title": "Tổng Bí thư Tô Lâm: Không để tồn tại tâm lý 'tháng giêng là tháng ăn chơi'",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-khong-de-ton-tai-tam-ly-thang-gieng-la-thang-an-choi-185260224113034289.htm",
+      "summary": "Tổng Bí thư yêu cầu cả hệ thống chính trị phải bắt tay ngay vào công việc, khẩn trương đưa mọi hoạt động trở lại với nhịp độ bình thường, không để chậm trễ công việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:46:00+07:00",
+      "fetched": "2026-02-24T13:48:24.398628+07:00"
+    },
+    {
+      "id": "ec62cc47a53c40e16e0a176d106cdeea",
+      "title": "Chọn ngành dễ có việc làm ở nước ngoài hay ngành mình thích khi du học?",
+      "link": "https://thanhnien.vn/chon-nganh-de-co-viec-lam-o-nuoc-ngoai-hay-nganh-minh-thich-khi-du-hoc-18526022411083798.htm",
+      "summary": "'Mẹ em nói chọn ngành điều dưỡng thì mới dễ có việc làm rồi ở lại định cư, nhưng em lại chỉ thích học ngành kinh tế, học ngành kia em sợ chán quá thì dễ bỏ cuộc', đó là tâm tư của một học sinh đặt ra với phóng viên trong ngày Tư vấn mùa thi 2026 vừa qua của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:39:00+07:00",
+      "fetched": "2026-02-24T13:48:24.398847+07:00"
+    },
+    {
+      "id": "e8db25bdd6d5d41495569a8ffe96d59c",
+      "title": "TP HCM tìm cách hút nhà đầu tư đấu giá 3.790 căn hộ ở Thủ Thiêm",
+      "link": "https://vnexpress.net/tp-hcm-tim-cach-hut-nha-dau-tu-dau-gia-3-790-can-ho-o-thu-thiem-5043525.html",
+      "summary": "TP HCM tính điều chỉnh quy hoạch chiều cao tối đa 5 lô căn hộ tại khu đô thị mới Thủ Thiêm lên 45 tầng và tăng hệ số sử dụng đất nhằm hút nhà đầu tư đấu giá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:36:07+07:00",
+      "fetched": "2026-02-24T13:48:20.734948+07:00"
+    },
+    {
+      "id": "e8db25bdd6d5d41495569a8ffe96d59c",
+      "title": "TP HCM tìm cách hút nhà đầu tư đấu giá 3.790 căn hộ ở Thủ Thiêm",
+      "link": "https://vnexpress.net/tp-hcm-tim-cach-hut-nha-dau-tu-dau-gia-3-790-can-ho-o-thu-thiem-5043525.html",
+      "summary": "TP HCM tính điều chỉnh quy hoạch chiều cao tối đa 5 lô căn hộ tại khu đô thị mới Thủ Thiêm lên 45 tầng và tăng hệ số sử dụng đất nhằm hút nhà đầu tư đấu giá.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-24T05:36:07+07:00",
+      "fetched": "2026-02-24T13:48:27.595213+07:00"
+    },
+    {
       "id": "7a18ceee7497229e4a1e63298d8150a4",
       "title": "'Xông đất' những công trình ra đảo Hòn Khoai",
       "link": "https://tuoitre.vn/xong-dat-nhung-cong-trinh-ra-dao-hon-khoai-20260223230703228.htm",
@@ -283,6 +583,246 @@ window.newsData_2026_02_24 = {
       "fetched": "2026-02-24T05:31:33.766402+07:00"
     },
     {
+      "id": "bda538c0ee86daf3260ddbb60cd12348",
+      "title": "Dân công sở đổ tới phủ Tây Hồ, chùa Quán Sứ",
+      "link": "https://vnexpress.net/dan-cong-so-do-toi-phu-tay-ho-chua-quan-su-5043515.html",
+      "summary": "Trở lại Hà Nội làm việc sau kỳ nghỉ Tết kéo dài, nhiều công chức, nhân viên văn phòng tranh thủ giờ nghỉ trưa đến dâng lễ, bốc quẻ cầu may tại phủ Tây Hồ, chùa Hà và Quán Sứ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:27:36+07:00",
+      "fetched": "2026-02-24T13:48:20.735112+07:00"
+    },
+    {
+      "id": "4049d8e462ca34a5e0f6e22651e89285",
+      "title": "Đưa gần 13.400 sĩ quan quân đội và quân nhân về cấp xã",
+      "link": "https://thanhnien.vn/dua-gan-13400-si-quan-quan-doi-va-quan-nhan-ve-cap-xa-185260224120316086.htm",
+      "summary": "Cả nước đã hoàn tất bố trí 3.319 chỉ huy trưởng ban chỉ huy quân sự cấp xã, đồng thời tăng cường hàng nghìn sĩ quan, quân nhân chuyên nghiệp về cơ sở để nâng cao hiệu quả thực hiện nhiệm vụ quốc phòng - quân sự địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:27:00+07:00",
+      "fetched": "2026-02-24T13:48:24.399012+07:00"
+    },
+    {
+      "id": "22eb9f11e619846994a941bdbaa30aa3",
+      "title": "8 điểm nhấn vòng 27 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/8-diem-nhan-vong-27-ngoai-hang-anh-5042927.html",
+      "summary": "Các tân binh của Man Utd tỏa sáng, Arsenal tranh chấp tay đôi mạnh mẽ hay Erling Haaland tham gia nhiều hơn vào lối chơi tập thể thuộc danh sách điểm nhấn tại Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:25:05+07:00",
+      "fetched": "2026-02-24T13:48:20.735316+07:00"
+    },
+    {
+      "id": "22eb9f11e619846994a941bdbaa30aa3",
+      "title": "8 điểm nhấn vòng 27 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/8-diem-nhan-vong-27-ngoai-hang-anh-5042927.html",
+      "summary": "Các tân binh của Man Utd tỏa sáng, Arsenal tranh chấp tay đôi mạnh mẽ hay Erling Haaland tham gia nhiều hơn vào lối chơi tập thể thuộc danh sách điểm nhấn tại Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-24T05:25:05+07:00",
+      "fetched": "2026-02-24T13:48:31.908512+07:00"
+    },
+    {
+      "id": "77fd458c00fc199d2ee87c55962d84d2",
+      "title": "Việt Nam 0-0 Úc, giải futsal nữ Đông Nam Á: Thử thách trận ra quân",
+      "link": "https://thanhnien.vn/viet-nam-0-0-uc-giai-futsal-nu-dong-nam-a-thu-thach-tran-ra-quan-185260224104131828.htm",
+      "summary": "13 giờ 30 hôm nay 24.2, đội tuyển futsal nữ Việt Nam sẽ ra quân gặp đội Úc tại giải vô địch futsal nữ Đông Nam Á 2026. Với những thành công vang dội trong hai năm qua, thầy trò HLV Nguyễn Đình Hoàng được kỳ vọng sẽ tiếp tục khẳng định vị thế số 1 futsal nữ khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:25:00+07:00",
+      "fetched": "2026-02-24T13:48:24.399188+07:00"
+    },
+    {
+      "id": "96c5cfa9e92dd54d5cfd09aa1393be6d",
+      "title": "Ông Trump dọa áp thuế nặng với các nước 'chiêu trò'",
+      "link": "https://thanhnien.vn/ong-trump-doa-ap-thue-nang-voi-cac-nuoc-chieu-tro-185260224121131507.htm",
+      "summary": "Tổng thống Mỹ Donald Trump hôm 23.2 cảnh báo các quốc gia không nên rút lui khỏi các thỏa thuận thương mại vừa được đàm phán gần đây với Mỹ sau khi Tòa án Tối cao bác bỏ các mức thuế khẩn cấp của ông, đồng thời tuyên bố rằng ông sẽ áp đặt mức thuế cao hơn nhiều theo các luật thương mại khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:20:00+07:00",
+      "fetched": "2026-02-24T13:48:24.399351+07:00"
+    },
+    {
+      "id": "54b599ccad6f33b2e378986e344974d5",
+      "title": "Sesko, Lammens thắp sáng giấc mơ Champions League cho Man Utd",
+      "link": "https://vnexpress.net/sesko-lammens-thap-sang-giac-mo-champions-league-cho-man-utd-5043522.html",
+      "summary": "Những bàn thắng của Benjamin Sesko và tài nghệ của Senne Lammens trong khung gỗ đang giúp Man Utd tiến gần hơn đến mục tiêu trở lại Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:14:20+07:00",
+      "fetched": "2026-02-24T13:48:20.735478+07:00"
+    },
+    {
+      "id": "54b599ccad6f33b2e378986e344974d5",
+      "title": "Sesko, Lammens thắp sáng giấc mơ Champions League cho Man Utd",
+      "link": "https://vnexpress.net/sesko-lammens-thap-sang-giac-mo-champions-league-cho-man-utd-5043522.html",
+      "summary": "Những bàn thắng của Benjamin Sesko và tài nghệ của Senne Lammens trong khung gỗ đang giúp Man Utd tiến gần hơn đến mục tiêu trở lại Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-24T05:14:20+07:00",
+      "fetched": "2026-02-24T13:48:31.908692+07:00"
+    },
+    {
+      "id": "2175383cb34d8ec73e6e41e6e848d01b",
+      "title": "Mỹ nhân ‘Sống chung với mẹ chồng’ úp mở việc trở lại màn ảnh 2026",
+      "link": "https://thanhnien.vn/my-nhan-song-chung-voi-me-chong-up-mo-viec-tro-lai-man-anh-2026-185260224114042438.htm",
+      "summary": "Diễn viên Bảo Thanh được khán giả truyền hình yêu mến qua loạt vai diễn trong phim giờ vàng. Đầu năm 2026, cô úp mở về việc tái xuất màn ảnh nhỏ sau nhiều năm vắng bóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:13:00+07:00",
+      "fetched": "2026-02-24T13:48:24.399501+07:00"
+    },
+    {
+      "id": "77227ac48189443c9e3e12a7b426186c",
+      "title": "Cá niên ruột đắng, lá mì xào hoa đu đủ: Ẩm thực Ca Dong khiến thực khách ngỡ ngàng",
+      "link": "https://thanhnien.vn/ca-nien-ruot-dang-la-mi-xao-hoa-du-du-am-thuc-ca-dong-khien-thuc-khach-ngo-ngang-185260224092543375.htm",
+      "summary": "Cá niên ruột đắng nấu lá rù rì, lá mì xào hoa đu đủ… những món ăn độc đáo của đồng bào Ca Dong (Quảng Ngãi) khiến thực khách nhớ mãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:12:00+07:00",
+      "fetched": "2026-02-24T13:48:24.399651+07:00"
+    },
+    {
+      "id": "df4cc4573df4139e60f2b0eba0e7cddb",
+      "title": "Tổng Bí thư: Không để tồn tại tâm lý tháng Giêng là tháng ăn chơi",
+      "link": "https://vnexpress.net/tong-bi-thu-khong-de-ton-tai-tam-ly-thang-gieng-la-thang-an-choi-5043501.html",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu cả hệ thống chính trị bắt tay ngay vào công việc, không để tồn tại tâm lý “tháng Giêng là tháng ăn chơi”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:10:21+07:00",
+      "fetched": "2026-02-24T13:48:20.735645+07:00"
+    },
+    {
+      "id": "9cb1619efd880734966270dbb9531614",
+      "title": "Mỹ bắt đầu thu thuế nhập khẩu bổ sung 10%",
+      "link": "https://vnexpress.net/my-bat-dau-thu-thue-nhap-khau-bo-sung-10-5043495.html",
+      "summary": "Từ 0h01 ngày 24/2 (giờ Mỹ), hàng hóa các nước nhập khẩu vào Mỹ chịu thuế tạm thời 10%, theo sắc lệnh ông Trump ký hôm 20/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:09:31+07:00",
+      "fetched": "2026-02-24T13:48:20.735805+07:00"
+    },
+    {
+      "id": "9cb1619efd880734966270dbb9531614",
+      "title": "Mỹ bắt đầu thu thuế nhập khẩu bổ sung 10%",
+      "link": "https://vnexpress.net/my-bat-dau-thu-thue-nhap-khau-bo-sung-10-5043495.html",
+      "summary": "Từ 0h01 ngày 24/2 (giờ Mỹ), hàng hóa các nước nhập khẩu vào Mỹ chịu thuế tạm thời 10%, theo sắc lệnh ông Trump ký hôm 20/2.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-24T05:09:31+07:00",
+      "fetched": "2026-02-24T13:48:27.595379+07:00"
+    },
+    {
+      "id": "e38441796e14db0ff2405160f0aac6fd",
+      "title": "Đại học Cảnh sát nhân dân giảm chỉ tiêu, bỏ tuyển thẳng giải quốc tế",
+      "link": "https://vnexpress.net/tuyen-sinh-dai-hoc-canh-sat-nhan-dan-2026-chi-tieu-phuong-thuc-yeu-cau-chung-chi-ngoai-ngu-5043481.html",
+      "summary": "Trường Đại học Cảnh sát nhân dân tuyển 300 sinh viên, giảm 120 so với năm ngoái, bỏ tuyển thẳng nhóm học sinh thi khoa học, kỹ thuật, Olympic quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:08:09+07:00",
+      "fetched": "2026-02-24T13:48:20.735967+07:00"
+    },
+    {
+      "id": "b4d910ad133ecb0b6dd82ef4b8b2858d",
+      "title": "Phong độ mỹ nam 'Tình người duyên ma'",
+      "link": "https://vnexpress.net/phong-do-my-nam-tinh-nguoi-duyen-ma-5041861.html",
+      "summary": "Mario Maurer - tài tử Thái Lan đóng \"Tình người duyên ma\" - được khán giả khen phong độ, trẻ trung ở tuổi 38.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:06:07+07:00",
+      "fetched": "2026-02-24T13:48:20.736128+07:00"
+    },
+    {
+      "id": "df4dcaa66eaadd4bafd180fef2f42fcb",
+      "title": "Mexico hạ trùm băng đảng ma túy nhờ theo dõi nhân tình",
+      "link": "https://thanhnien.vn/mexico-ha-trum-bang-dang-ma-tuy-nho-theo-doi-nhan-tinh-185260224120557172.htm",
+      "summary": "Theo tiết lộ của nhà chức trách Mexico về chiến dịch hôm 22.2, nơi ở của trùm ma túy khét tiếng Nemesio Oseguera, được biết đến với biệt danh \"El Mencho\" đã bị phát hiện khi người tình đến thăm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:06:00+07:00",
+      "fetched": "2026-02-24T13:48:24.399802+07:00"
+    },
+    {
+      "id": "e5ad685aa24f5308ecf06721298b3241",
+      "title": "Slovakia cắt nguồn điện khẩn cấp cho Ukraine",
+      "link": "https://vnexpress.net/slovakia-cat-nguon-dien-khan-cap-cho-ukraine-5043486.html",
+      "summary": "Slovakia ngừng cung cấp điện khẩn cấp cho Ukraine, sau khi Kiev không khôi phục đường ống dẫn dầu Druzhba theo yêu cầu của nước này và Hungary.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:02:16+07:00",
+      "fetched": "2026-02-24T13:48:20.736312+07:00"
+    },
+    {
+      "id": "e5ad685aa24f5308ecf06721298b3241",
+      "title": "Slovakia cắt nguồn điện khẩn cấp cho Ukraine",
+      "link": "https://vnexpress.net/slovakia-cat-nguon-dien-khan-cap-cho-ukraine-5043486.html",
+      "summary": "Slovakia ngừng cung cấp điện khẩn cấp cho Ukraine, sau khi Kiev không khôi phục đường ống dẫn dầu Druzhba theo yêu cầu của nước này và Hungary.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T05:02:16+07:00",
+      "fetched": "2026-02-24T13:48:26.590474+07:00"
+    },
+    {
+      "id": "6723f59741e78ed3ccf32cecbcfe493b",
+      "title": "Bia Saigon đưa lời mời Tết vào bộ sưu tập giới hạn",
+      "link": "https://vnexpress.net/bia-saigon-dua-loi-moi-tet-vao-bo-suu-tap-gioi-han-5043483.html",
+      "summary": "\"Kính một ly\", \"Ngồi một chút\", \"Ăn một miếng\", \"Dzô một cái\" - những lời mời quen thuộc của người Việt xuất hiện trong bộ sưu tập Bia Saigon xuân Bính Ngọ nhằm truyền tải tinh thần \"tỏa Tết lớn\"",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:00:00+07:00",
+      "fetched": "2026-02-24T13:48:20.736477+07:00"
+    },
+    {
+      "id": "83803bac55a944d25f8b6d5695b1f3b2",
+      "title": "Chàng trai giản dị, chân thật tìm người đồng hành",
+      "link": "https://vnexpress.net/chang-trai-gian-di-chan-that-tim-nguoi-dong-hanh-5043395.html",
+      "summary": "Anh rất hy vọng năm sau sẽ được cùng em đón giao thừa như các đôi khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:00:00+07:00",
+      "fetched": "2026-02-24T13:48:20.736587+07:00"
+    },
+    {
+      "id": "35b2f203c1c7ad3a4bb24eea3d54b7ed",
+      "title": "Bớt mệt mỏi sau Tết với 5 thói quen đơn giản",
+      "link": "https://vnexpress.net/bot-met-moi-sau-tet-voi-5-thoi-quen-don-gian-5043345.html",
+      "summary": "Sau kỳ nghỉ xáo trộn nhịp sinh hoạt, duy trì vận động, uống đủ nước và thực hành chánh niệm giúp cơ thể lấy lại năng lượng, giảm uể oải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T05:00:00+07:00",
+      "fetched": "2026-02-24T13:48:20.736754+07:00"
+    },
+    {
+      "id": "33af2488bda4347c95b11a3aec0dabd2",
+      "title": "Lý do 'khỉ con ôm thú bông' ở Nhật Bản bị mẹ bỏ rơi",
+      "link": "https://vnexpress.net/ly-do-khi-con-om-thu-bong-o-nhat-ban-bi-me-bo-roi-5043355.html",
+      "summary": "Thiếu kinh nghiệm do lần đầu sinh con và sinh sản trong điều kiện nắng nóng là lý do khiến mẹ của khỉ Punch bỏ rơi con.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T04:30:36+07:00",
+      "fetched": "2026-02-24T13:48:26.590650+07:00"
+    },
+    {
+      "id": "e18b429d38f6ca137772b6309167137a",
+      "title": "Trung Quốc đưa loạt công ty Nhật vào danh sách kiểm soát xuất khẩu",
+      "link": "https://vnexpress.net/trung-quoc-dua-loat-cong-ty-nhat-vao-danh-sach-kiem-soat-xuat-khau-5043444.html",
+      "summary": "Trung Quốc cấm xuất khẩu mặt hàng lưỡng dụng cho 20 công ty, tổ chức Nhật nhằm \"kiềm chế tham vọng tái quân sự hóa và hạt nhân\" của Tokyo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T04:20:59+07:00",
+      "fetched": "2026-02-24T13:48:26.590811+07:00"
+    },
+    {
+      "id": "d6789d78e26f69304f6cbc3ef9b48787",
+      "title": "FedEx kiện chính phủ Mỹ đòi hoàn thuế",
+      "link": "https://vnexpress.net/fedex-kien-chinh-phu-my-doi-hoan-thue-5043327.html",
+      "summary": "Ngày 23/2, hãng vận tải FedEx nộp đơn kiện lên Tòa án Thương mại Quốc tế tại Mỹ, yêu cầu được hoàn số thuế nhập khẩu đã nộp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-24T04:09:02+07:00",
+      "fetched": "2026-02-24T13:48:27.595538+07:00"
+    },
+    {
       "id": "4f365fc27dbdd285f8c9e69dd6fb55ab",
       "title": "Trưởng ban Tuyên giáo MTTQ Vũ Văn Tiến ứng cử Quốc hội tại TP.Hải Phòng",
       "link": "https://thanhnien.vn/truong-ban-tuyen-giao-mttq-vu-van-tien-ung-cu-quoc-hoi-tai-tphai-phong-185260224110506493.htm",
@@ -301,6 +841,16 @@ window.newsData_2026_02_24 = {
       "category": "Tổng hợp",
       "published": "2026-02-24T04:04:00+07:00",
       "fetched": "2026-02-24T11:09:19.013840+07:00"
+    },
+    {
+      "id": "c49bf7b23d8a68d9cb9346e4257cff66",
+      "title": "Ngày đẫm máu khi băng đảng Mexico báo thù cho ông trùm",
+      "link": "https://vnexpress.net/ngay-dam-mau-khi-bang-dang-mexico-bao-thu-cho-ong-trum-5043383.html",
+      "summary": "Chiến dịch đột kích tiêu diệt trùm ma túy El Mencho đã châm ngòi làn sóng bạo lực báo thù, khiến hơn 70 người thiệt mạng tại Mexico.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T04:03:59+07:00",
+      "fetched": "2026-02-24T13:48:26.590972+07:00"
     },
     {
       "id": "dd489ae99e03c66eab8c1ff90fae082a",
