@@ -1,7 +1,157 @@
 window.newsData_2026_02_24 = {
   "date": "2026-02-24",
-  "lastUpdated": "2026-02-24T19:41:13.643933+07:00",
+  "lastUpdated": "2026-02-24T21:44:06.368262+07:00",
   "articles": [
+    {
+      "id": "70209829530a4e15df46cf47b3e6bb7e",
+      "title": "Con trai Rob Reiner không nhận tội sát hại cha mẹ, nhìn 'chằm chằm' thẩm phán tại tòa",
+      "link": "https://tuoitre.vn/con-trai-rob-reiner-khong-nhan-toi-sat-hai-cha-me-nhin-cham-cham-tham-phan-tai-toa-20260224183308591.htm",
+      "summary": "Đây là diễn biến mới nhất trong vụ án giết người khiến Hollywood chấn động, trước sự ra đi đột ngột của một cặp đôi có tầm ảnh hưởng vượt ra ngoài lĩnh vực giải trí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.973528+07:00",
+      "fetched": "2026-02-24T21:43:58.973661+07:00"
+    },
+    {
+      "id": "306a47a3f96e9c1072c2e06619b979a7",
+      "title": "HLV futsal nữ Việt Nam thừa nhận Úc thắng xứng đáng",
+      "link": "https://tuoitre.vn/hlv-futsal-nu-viet-nam-thua-nhan-uc-thang-xung-dang-20260224184204667.htm",
+      "summary": "Phát biểu sau trận thua Úc 0-2 ở Giải futsal nữ Đông Nam Á 2026, HLV Nguyễn Đình Hoàng thừa nhận đối thủ đã thi đấu nỗ lực và thắng xứng đáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.973403+07:00",
+      "fetched": "2026-02-24T21:43:58.973517+07:00"
+    },
+    {
+      "id": "09d761178de2023fa8463ffb010293dd",
+      "title": "Vietcap tôn vinh bản lĩnh đầu tư của phụ nữ với chương trình 8-3",
+      "link": "https://tuoitre.vn/vikki-bank-tiep-tuc-trien-khai-goi-tin-dung-khoi-phuc-san-xuat-kinh-doanh-20260224172735178.htm",
+      "summary": "Nhân dịp Quốc tế Phụ nữ 8-3, Chứng khoán Vietcap triển khai chương trình dành riêng cho nhà đầu tư nữ với phần thưởng là Đồng vàng kỷ niệm - biểu tượng cho sự bền vững và tích lũy dài hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.973276+07:00",
+      "fetched": "2026-02-24T21:43:58.973391+07:00"
+    },
+    {
+      "id": "0056b150f2efa9c7a8400d90da4b597d",
+      "title": "Một doanh nghiệp 'khai xuân' với 34 hợp đồng trị giá 6.650 tỉ đồng",
+      "link": "https://tuoitre.vn/mot-doanh-nghiep-khai-xuan-voi-34-hop-dong-tri-gia-6-650-ti-dong-20260224185155691.htm",
+      "summary": "Tập đoàn Đại Dũng bước vào năm 2026 bằng một loạt hợp đồng và thông báo trúng thầu có tổng giá trị lên đến 6.650 tỉ đồng, tạo đà cho mục tiêu doanh thu 12.000 tỉ đồng trong năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.973144+07:00",
+      "fetched": "2026-02-24T21:43:58.973264+07:00"
+    },
+    {
+      "id": "921b37a5d9809094bed316354f5d9894",
+      "title": "Dư luận Thái Lan khen tuyển Việt Nam 'nhập tịch chất lượng hơn Malaysia'",
+      "link": "https://tuoitre.vn/du-luan-thai-lan-khen-tuyen-viet-nam-nhap-tich-chat-luong-hon-malaysia-20260224144823519.htm",
+      "summary": "Nhiều chuyên trang bóng đá của Thái Lan khen Việt Nam sở hữu \"siêu đội hình\" trước thềm lượt trận cuối cùng ở vòng loại Asian Cup 2027, đồng thời bóng gió chê bai chính sách nhập tịch thất bại của Malaysia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.973006+07:00",
+      "fetched": "2026-02-24T21:43:58.973132+07:00"
+    },
+    {
+      "id": "ea6a9d5ed8f8d3eaf973c9e99c27e968",
+      "title": "Jeep, RAM lộ diện trong hệ thống showroom của THACO Auto: Giá xe sẽ mềm hơn khi đổi nhà phân phối?",
+      "link": "https://tuoitre.vn/jeep-ram-lo-dien-trong-he-thong-showroom-cua-thaco-auto-gia-xe-se-mem-hon-khi-doi-nha-phan-phoi-20260224165156774.htm",
+      "summary": "Logo của hai thương hiệu Jeep và RAM xuất hiện tại showroom của THACO Auto ở Hà Nội, cho thấy khả năng có sự thay đổi về đơn vị phân phối chính hãng tại thị trường Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.972811+07:00",
+      "fetched": "2026-02-24T21:43:58.972991+07:00"
+    },
+    {
+      "id": "6281b5745e1b7a0d5c2e708e7e644c28",
+      "title": "Quảng Ngãi công bố chuỗi hoạt động kỷ niệm 120 năm Ngày sinh Thủ tướng Phạm Văn Đồng",
+      "link": "https://tuoitre.vn/quang-ngai-cong-bo-chuoi-hoat-dong-ky-niem-120-nam-ngay-sinh-thu-tuong-pham-van-dong-2026022417562957.htm",
+      "summary": "Lễ kỷ niệm 120 năm Ngày sinh Thủ tướng Phạm Văn Đồng, người học trò xuất sắc của Chủ tịch Hồ Chí Minh, sẽ diễn ra sáng 1-3 tại Khu lưu niệm ở quê nhà Mộ Đức, Quảng Ngãi, nhằm tôn vinh, tri ân công lao to lớn của Thủ tướng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.972683+07:00",
+      "fetched": "2026-02-24T21:43:58.972800+07:00"
+    },
+    {
+      "id": "91deae88ca96f925b539aa5d9bf8827e",
+      "title": "CLB Thanh Hóa suýt bị xử thua Công An Hà Nội 0-3",
+      "link": "https://tuoitre.vn/clb-thanh-hoa-suyt-bi-xu-thua-cong-an-ha-noi-0-3-20260224191217592.htm",
+      "summary": "Trước trận đá bù vòng 10 V-League 2025-2026, CLB Thanh Hóa suýt bị xử thua 0-3 trước CLB Công An Hà Nội nếu không đủ 16 cầu thủ theo điều lệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.972537+07:00",
+      "fetched": "2026-02-24T21:43:58.972671+07:00"
+    },
+    {
+      "id": "12c9c8c38cbd4480d13dd4f66d819e17",
+      "title": "Lần đầu tiên Nhật công bố thời điểm đưa tên lửa đến hòn đảo gần Đài Loan",
+      "link": "https://tuoitre.vn/lan-dau-tien-nhat-cong-bo-thoi-diem-dua-ten-lua-den-hon-dao-gan-dai-loan-20260224190900771.htm",
+      "summary": "Ngày 24-2, Nhật Bản thông báo Tokyo sẽ triển khai tên lửa đất đối không trên một hòn đảo xa xôi gần Đài Loan trước tháng 3-2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.972408+07:00",
+      "fetched": "2026-02-24T21:43:58.972526+07:00"
+    },
+    {
+      "id": "cf36abd436eedfd32158d4a5ed94ac01",
+      "title": "Iran sắp sở hữu tên lửa siêu thanh của Trung Quốc, thách thức Mỹ?",
+      "link": "https://tuoitre.vn/iran-sap-so-huu-ten-lua-sieu-thanh-cua-trung-quoc-thach-thuc-my-2026022419581608.htm",
+      "summary": "Iran đang tiến gần tới một thỏa thuận mua tên lửa siêu thanh CM-302 từ Trung Quốc, theo sáu nguồn tin am hiểu các cuộc đàm phán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.972281+07:00",
+      "fetched": "2026-02-24T21:43:58.972397+07:00"
+    },
+    {
+      "id": "7290363acc7f1eb28131f29cc3ce6ea4",
+      "title": "Làng cờ tướng Trung Quốc tranh luận 'ai thắng nổi Lại Lý Huynh'",
+      "link": "https://tuoitre.vn/lang-co-tuong-trung-quoc-tranh-luan-ai-thang-noi-lai-ly-huynh-20260224171355395.htm",
+      "summary": "Một ngày trước thềm \"siêu giải đấu\" Ngũ Dương Bôi, làng cờ tướng Trung Quốc tranh luận sôi nổi về những ứng viên vô địch, và đặc biệt là chủ đề: ai sẽ đánh bại Lại Lý Huynh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.972149+07:00",
+      "fetched": "2026-02-24T21:43:58.972270+07:00"
+    },
+    {
+      "id": "654ccf6c4ff5b2014a371b3ff64c71f8",
+      "title": "Du khách Trung Quốc chọn Thái Lan làm điểm đến hàng đầu dịp Tết",
+      "link": "https://tuoitre.vn/du-khach-trung-quoc-chon-thai-lan-lam-diem-den-hang-dau-dip-tet-20260224190459438.htm",
+      "summary": "Từng là điểm đến hàng đầu của du khách Trung Quốc, Nhật Bản ghi nhận lượng khách giảm mạnh một nửa trong dịp Tết năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.972016+07:00",
+      "fetched": "2026-02-24T21:43:58.972138+07:00"
+    },
+    {
+      "id": "cf1d80ba9d7c1cc77ec44c1a86ca17f1",
+      "title": "Siêu phẩm của Văn Hậu kéo CLB Thanh Hóa về thực tại",
+      "link": "https://tuoitre.vn/sieu-pham-cua-van-hau-keo-clb-thanh-hoa-ve-thuc-tai-20260224202638569.htm",
+      "summary": "Cú bấm bóng gần 50m của hậu vệ Đoàn Văn Hậu kéo sập hy vọng về một trận hòa có điểm của CLB Thanh Hóa trước CLB Công An Hà Nội trong trận đá bù vòng 10 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.971881+07:00",
+      "fetched": "2026-02-24T21:43:58.972004+07:00"
+    },
+    {
+      "id": "1b6bcac89906cf8f8ac61592f9bb962b",
+      "title": "Flycam lại hoạt động trái phép trên vùng trời Đà Nẵng, máy bay phải bay vòng vòng",
+      "link": "https://tuoitre.vn/flycam-lai-hoat-dong-trai-phep-tren-vung-troi-da-nang-may-bay-phai-bay-vong-vong-20260224201606411.htm",
+      "summary": "Cách đây ít phút, tại sân bay Đà Nẵng lại phát hiện drone/flycam hoạt động trái phép trong vùng trời thành phố, nhiều máy bay phải \"chờ\" trên không.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.971736+07:00",
+      "fetched": "2026-02-24T21:43:58.971868+07:00"
+    },
+    {
+      "id": "ca82531e656219a0a1c6f3505bb278c7",
+      "title": "Cầu thủ Đình Bắc, ca sĩ Đức Phúc được đề cử Gương mặt trẻ Việt Nam tiêu biểu",
+      "link": "https://tuoitre.vn/cau-thu-dinh-bac-ca-sy-duc-phuc-duoc-de-cu-guong-mat-tre-viet-nam-tieu-bieu-20260224202026409.htm",
+      "summary": "Cầu thủ Nguyễn Đình Bắc (Công An Hà Nội), ca sĩ Đức Phúc là 2 gương mặt được chú ý trong danh sách đề cử Gương mặt trẻ Việt Nam tiêu biểu 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:43:58.971520+07:00",
+      "fetched": "2026-02-24T21:43:58.971721+07:00"
+    },
     {
       "id": "d608515727d76d9d859419b94147442c",
       "title": "Miền Bắc mưa rào và dông, miền Nam khả năng có mưa trái mùa",
@@ -453,6 +603,56 @@ window.newsData_2026_02_24 = {
       "fetched": "2026-02-24T15:35:21.308259+07:00"
     },
     {
+      "id": "01c1c34496bf780013e199b6cb849824",
+      "title": "Tình báo Nga nói Anh và Pháp tính cấp vũ khí hạt nhân cho Ukraine",
+      "link": "https://thanhnien.vn/tinh-bao-nga-noi-anh-va-phap-tinh-cap-vu-khi-hat-nhan-cho-ukraine-185260224210336161.htm",
+      "summary": "Tình báo Nga cho rằng Anh và Pháp đang tính giúp Ukraine sở hữu vũ khí hạt nhân nhằm đạt điều khoản thuận lợi trong đàm phán với Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T14:38:00+07:00",
+      "fetched": "2026-02-24T21:43:53.342840+07:00"
+    },
+    {
+      "id": "b6048b989b983def9dadfd74ab927d14",
+      "title": "Tạm giữ flycam xâm nhập vùng cấm bay gần sân bay Đà Nẵng",
+      "link": "https://thanhnien.vn/tam-giu-flycam-xam-nhap-vung-cam-bay-gan-san-bay-da-nang-185260224205203828.htm",
+      "summary": "Bộ Chỉ huy quân sự TP.Đà Nẵng phát hiện, tạm giữ 1 flycam xâm nhập khu vực cấm. Thiết bị này được xác định đã nhiều lần xâm nhập vùng cấm bay trong dịp Tết Nguyên đán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T14:25:00+07:00",
+      "fetched": "2026-02-24T21:43:53.343006+07:00"
+    },
+    {
+      "id": "3683af7377ac3ca96712ec71eaa78e48",
+      "title": "CLB Nam Định phơi áo trước Thể Công Viettel: Xuân Son đua trụ hạng",
+      "link": "https://thanhnien.vn/clb-nam-dinh-phoi-ao-truoc-the-cong-viettel-xuan-son-dua-tru-hang-185260224210339121.htm",
+      "summary": "Thể Công Viettel đánh bại Nam Định với tỷ số 1-0 ở trận đá bù vòng 10 V-League (19 giờ 15 ngày 24.2), qua đó đẩy đối thủ vào cuộc đua trụ hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T14:22:00+07:00",
+      "fetched": "2026-02-24T21:43:53.343159+07:00"
+    },
+    {
+      "id": "066071a924f0bcf7d72cf9a40cfc3155",
+      "title": "Mỹ, Canada thu hồi hơn 1.530 tấn cơm chiên vì nguy cơ lẫn mảnh kính",
+      "link": "https://vnexpress.net/my-canada-thu-hoi-hon-1-530-tan-com-chien-vi-nguy-co-lan-manh-kinh-5043533.html",
+      "summary": "Ajinomoto Foods North America thu hồi khoảng 1.530 tấn cơm chiên gà đông lạnh sau khi nhận phản ánh của người tiêu dùng về mảnh kính lẫn trong sản phẩm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T14:00:00+07:00",
+      "fetched": "2026-02-24T21:44:00.727409+07:00"
+    },
+    {
+      "id": "d452218f7a154dd93f173761c917d800",
+      "title": "Những lễ hội khỏa thân lớn nhất Nhật Bản vào năm mới",
+      "link": "https://vnexpress.net/nhung-le-hoi-khoa-than-lon-nhat-nhat-ban-vao-nam-moi-5043220.html",
+      "summary": "Người Nhật trong hơn một thiên niên kỷ qua đã duy trì các lễ hội khỏa thân quy mô lớn, giúp họ tìm kiếm sự thanh tẩy, bình an dịp năm mới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T14:00:00+07:00",
+      "fetched": "2026-02-24T21:44:00.727582+07:00"
+    },
+    {
       "id": "d6d82e086483e2896c675a3d48fedeb8",
       "title": "Nga và Venezuela kêu gọi Mỹ lập tức thả ông Maduro",
       "link": "https://tuoitre.vn/nga-va-venezuela-keu-goi-my-lap-tuc-tha-ong-maduro-20260224105719277.htm",
@@ -603,6 +803,206 @@ window.newsData_2026_02_24 = {
       "fetched": "2026-02-24T13:48:25.365898+07:00"
     },
     {
+      "id": "56806e05298125eb097a2b0f59191bb9",
+      "title": "Emma Raducanu song hành cùng huyền thoại Roger Federer trong vai trò đặc biệt",
+      "link": "https://thanhnien.vn/emma-raducanu-song-hanh-cung-huyen-thoai-roger-federer-trong-vai-tro-dac-biet-185260224162655123.htm",
+      "summary": "Tay vợt nữ hàng đầu nước Anh Emma Raducanu đã chính thức tham gia nhóm đại sứ toàn cầu của UNIQLO, cùng với huyền thoại Roger Federer và nhiều VĐV danh tiếng khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:47:00+07:00",
+      "fetched": "2026-02-24T21:43:53.343310+07:00"
+    },
+    {
+      "id": "51bcc552e7133f71775124ebd566e43e",
+      "title": "40 ngày giành lại sinh mạng người đàn ông ngừng tim 50 phút",
+      "link": "https://vnexpress.net/40-ngay-gianh-lai-sinh-mang-nguoi-dan-ong-ngung-tim-50-phut-5043684.html",
+      "summary": "Đang làm việc tại cơ quan, người đàn ông 47 tuổi bất ngờ ngã gục rồi rơi vào trạng thái bất tỉnh, ngừng thở hoàn toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:32:00+07:00",
+      "fetched": "2026-02-24T21:43:49.802747+07:00"
+    },
+    {
+      "id": "4a644b5c536834bb06b0c65984105d4a",
+      "title": "Mối tình 'khắc cốt ghi tâm' của cặp sao Hàn",
+      "link": "https://vnexpress.net/moi-tinh-khac-cot-ghi-tam-cua-cap-sao-han-5043687.html",
+      "summary": "Jin Tae Hyun ví mối tình của anh với bà xã Park Si Eun \"khắc cốt ghi tâm\", nắm tay vượt bão giông và nỗi đau mất ba con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:30:00+07:00",
+      "fetched": "2026-02-24T21:43:49.802929+07:00"
+    },
+    {
+      "id": "f74e3ea5668d3d754873bc6525b2a815",
+      "title": "Các smartphone Android và iPhone hấp dẫn những ngày đầu năm",
+      "link": "https://thanhnien.vn/cac-smartphone-android-va-iphone-hap-dan-nhung-ngay-dau-nam-185260209153140628.htm",
+      "summary": "Thị trường smartphone đầu năm 2026 chứng kiến nhiều lựa chọn hấp dẫn ở cả Android lẫn iPhone, từ cao cấp cho đến phân khúc tầm trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:22:00+07:00",
+      "fetched": "2026-02-24T21:43:53.343459+07:00"
+    },
+    {
+      "id": "c06898f05dca48f701800e0af4abfc99",
+      "title": "Đại úy công an bị tấn công khi làm nhiệm vụ",
+      "link": "https://vnexpress.net/dai-uy-cong-an-bi-tan-cong-khi-lam-nhiem-vu-5043712.html",
+      "summary": "Đại úy Trần Việt Hoàn bị K'Jao dùng xà beng tấn công gãy chân khi cùng đồng đội đến mời người này về trụ sở làm việc vì hành vi ném đá nhà hàng xóm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:06:13+07:00",
+      "fetched": "2026-02-24T21:43:49.803104+07:00"
+    },
+    {
+      "id": "c4648feb151c33e5c2fac39acf993c72",
+      "title": "Phường nào ở TP HCM có mật độ dân số hơn 10 lần Singapore?",
+      "link": "https://vnexpress.net/phuong-nao-o-tp-hcm-co-mat-do-dan-so-hon-10-lan-singapore-5043688.html",
+      "summary": "Với hơn 88.000 người/km2, đây là phường \"chật chội\" nhất nước, gấp hơn 10 lần mật độ dân số trung bình của Singapore. Bạn có biết đây là phường nào ở TP HCM?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:01:45+07:00",
+      "fetched": "2026-02-24T21:43:49.803263+07:00"
+    },
+    {
+      "id": "76f5310b1128cd7ade3aefecde75dbb0",
+      "title": "TP HCM hỗ trợ chi phí học bác sĩ nội trú",
+      "link": "https://vnexpress.net/tp-hcm-ho-tro-chi-phi-hoc-bac-si-noi-tru-5043705.html",
+      "summary": "TP HCM sẽ hỗ trợ học phí, chi phí sinh hoạt cho bác sĩ nội trú để nâng cao chất lượng giải quyết tình trạng thiếu hụt nhân lực y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:01:01+07:00",
+      "fetched": "2026-02-24T21:43:49.803416+07:00"
+    },
+    {
+      "id": "85661c773ed77133015b5c444ec0c5e9",
+      "title": "Bên trong nhà máy sản xuất một triệu máy hút ẩm mỗi năm",
+      "link": "https://vnexpress.net/ben-trong-nha-may-san-xuat-mot-trieu-may-hut-am-moi-nam-5043567.html",
+      "summary": "Nhà máy New Widetech (NWT) đạt công suất hơn một triệu máy hút ẩm mỗi năm, chuyên sản xuất cho Sharp, Lumias, DeLonghi... với các phòng thử nghiệm độ ồn trị giá hơn 3 triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:00:00+07:00",
+      "fetched": "2026-02-24T21:43:49.803579+07:00"
+    },
+    {
+      "id": "b2c17462e4ea79de40e5fba4a511c7d0",
+      "title": "Thay đổi chiến thuật đột kích bộ binh của Nga sau 4 năm xung đột",
+      "link": "https://vnexpress.net/thay-doi-chien-thuat-dot-kich-bo-binh-cua-nga-sau-4-nam-xung-dot-5043468.html",
+      "summary": "Nga không còn huy động những đơn vị hùng hậu để đột phá phòng tuyến Ukraine, mà ưu tiên các nhóm xung kích nhỏ và tiến quân \"chậm mà chắc\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:00:00+07:00",
+      "fetched": "2026-02-24T21:43:49.803758+07:00"
+    },
+    {
+      "id": "66ee46bc7d9f5a2618dde7ff89fb4bdc",
+      "title": "Em tìm người đàn ông có cả tâm và tầm",
+      "link": "https://vnexpress.net/em-tim-nguoi-dan-ong-co-ca-tam-va-tam-5043422.html",
+      "summary": "Em 36 tuổi, dáng người nhỏ nhắn với làn da trắng nên có thể nhìn em ở ngoài trẻ hơn tuổi xíu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:00:00+07:00",
+      "fetched": "2026-02-24T21:43:49.803862+07:00"
+    },
+    {
+      "id": "abe5553f711f09f5f858f4416ba9559f",
+      "title": "Lễ hội sách Tết thu hút hơn một triệu lượt khách",
+      "link": "https://vnexpress.net/le-hoi-sach-tet-thu-hut-hon-mot-trieu-luot-khach-5043529.html",
+      "summary": "Lễ hội sách Tết Bính Ngọ ở TP HCM thu hút hơn một triệu lượt khách, doanh thu gần 8,2 tỷ đồng sau tám ngày tổ chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:00:00+07:00",
+      "fetched": "2026-02-24T21:43:49.804024+07:00"
+    },
+    {
+      "id": "9aafb04fd8bf46ee289b9c751d8bd446",
+      "title": "Xem nhanh 20h ngày 24.2: Thực hư thủy triều đỏ ở bãi biển Gia Lai | Drone 'đại náo' sân bay Đà Nẵng",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-242-thuc-hu-thuy-trieu-do-o-bai-bien-gia-lai-drone-dai-nao-san-bay-da-nang-185260224193723687.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 24.2 có nhiều tin tức đáng chú ý về: Thực hư hiện tượng thủy triều đỏ tại bãi biển Gia Lai; drone 'đại náo' sân bay Đà Nẵng: Nghi vấn quay clip quảng bá bất động sản?;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:00:00+07:00",
+      "fetched": "2026-02-24T21:43:53.343632+07:00"
+    },
+    {
+      "id": "aaf5b4ff59ee3d9c283f4f6e932d703a",
+      "title": "Nghe nghệ sĩ Xuân Lan hát 'Bên cầu dệt lụa', nhớ về Thanh Nga sau 30 năm",
+      "link": "https://thanhnien.vn/nghe-nghe-si-xuan-lan-hat-ben-cau-det-lua-nho-ve-thanh-nga-sau-30-nam-185260224133330934.htm",
+      "summary": "Sau hơn 30 năm giã từ sân khấu, nghệ sĩ cải lương Xuân Lan lần đầu tái xuất với vai công chúa Bích Vân trong vở diễn 'Bên cầu dệt lụa'. Trở lại với ánh đèn sân khấu, nghệ sĩ Xuân Lan không chỉ bồi hồi vì được sống trong nghệ thuật mà còn hoài niệm về ký ức diễn chung với cố NSƯT Thanh Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T13:00:00+07:00",
+      "fetched": "2026-02-24T21:43:53.343790+07:00"
+    },
+    {
+      "id": "b2c17462e4ea79de40e5fba4a511c7d0",
+      "title": "Thay đổi chiến thuật đột kích bộ binh của Nga sau 4 năm xung đột",
+      "link": "https://vnexpress.net/thay-doi-chien-thuat-dot-kich-bo-binh-cua-nga-sau-4-nam-xung-dot-5043468.html",
+      "summary": "Nga không còn huy động những đơn vị hùng hậu để đột phá phòng tuyến Ukraine, mà ưu tiên các nhóm xung kích nhỏ và tiến quân \"chậm mà chắc\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T13:00:00+07:00",
+      "fetched": "2026-02-24T21:44:00.727769+07:00"
+    },
+    {
+      "id": "85661c773ed77133015b5c444ec0c5e9",
+      "title": "Bên trong nhà máy sản xuất một triệu máy hút ẩm mỗi năm",
+      "link": "https://vnexpress.net/ben-trong-nha-may-san-xuat-mot-trieu-may-hut-am-moi-nam-5043567.html",
+      "summary": "Nhà máy New Widetech (NWT) đạt công suất hơn một triệu máy hút ẩm mỗi năm, chuyên sản xuất cho Sharp, Lumias, DeLonghi... với các phòng thử nghiệm độ ồn trị giá hơn 3 triệu USD.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-24T13:00:00+07:00",
+      "fetched": "2026-02-24T21:44:05.324982+07:00"
+    },
+    {
+      "id": "c73a0d3c61003a844617ac46150717c4",
+      "title": "Văn Hậu lập siêu phẩm giúp đội Công an Hà Nội ngược dòng đánh bại CLB Thanh Hóa",
+      "link": "https://thanhnien.vn/van-hau-lap-sieu-pham-giup-cong-an-ha-noi-nguoc-dong-danh-bai-clb-thanh-hoa-185260224193528777.htm",
+      "summary": "Bàn thắng tuyệt đẹp của Văn Hậu cùng cú đúp của Alan giúp đội Công an Hà Nội ngược dòng đánh bại CLB Thanh Hóa ở trận đấu bù vòng 10 V-League 2025-2026 diễn ra hôm nay trên sân Thanh Hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:58:00+07:00",
+      "fetched": "2026-02-24T21:43:53.343945+07:00"
+    },
+    {
+      "id": "a19e022059c36241525e2f3db10e3a13",
+      "title": "Ông Putin giúp Nam Phi hồi hương lính đánh thuê ở Donbass",
+      "link": "https://vnexpress.net/ong-putin-giup-nam-phi-hoi-huong-linh-danh-thue-o-donbass-5043702.html",
+      "summary": "Tổng thống Ramaphosa cảm ơn Tổng thống Putin vì đã hỗ trợ quá trình đưa nhóm lính đánh thuê Nam Phi bị lừa sang chiến đấu ở Donbass về nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:53:19+07:00",
+      "fetched": "2026-02-24T21:43:49.804179+07:00"
+    },
+    {
+      "id": "a19e022059c36241525e2f3db10e3a13",
+      "title": "Ông Putin giúp Nam Phi hồi hương lính đánh thuê ở Donbass",
+      "link": "https://vnexpress.net/ong-putin-giup-nam-phi-hoi-huong-linh-danh-thue-o-donbass-5043702.html",
+      "summary": "Tổng thống Ramaphosa cảm ơn Tổng thống Putin vì đã hỗ trợ quá trình đưa nhóm lính đánh thuê Nam Phi bị lừa sang chiến đấu ở Donbass về nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T12:53:19+07:00",
+      "fetched": "2026-02-24T21:44:00.727932+07:00"
+    },
+    {
+      "id": "fd42d8b488ff4f711f936da895144a71",
+      "title": "Thủ tướng: Chú trọng đầu tư hạ tầng y tế, từng bước hình thành hệ sinh thái y tế thông minh",
+      "link": "https://thanhnien.vn/thu-tuong-chu-trong-dau-tu-ha-tang-y-te-tung-buoc-hinh-thanh-he-sinh-thai-y-te-thong-minh-185260224191524032.htm",
+      "summary": "Chiều 24.2, Thủ tướng Phạm Minh Chính gặp mặt đại diện các nhà khoa học tiêu biểu trong lĩnh vực y tế và giám đốc các bệnh viện trung ương nhân kỷ niệm 71 năm Ngày thầy thuốc Việt Nam (27.2).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:47:00+07:00",
+      "fetched": "2026-02-24T21:43:53.344096+07:00"
+    },
+    {
+      "id": "0441d8f941a944d92d307b8fb509b25f",
+      "title": "Người Việt nhìn lên trời tối nay 24.2: Trăng thượng huyền gặp 'bảy chị em'",
+      "link": "https://thanhnien.vn/nguoi-viet-nhin-len-troi-toi-nay-242-trang-thuong-huyen-gap-bay-chi-em-185260224094001052.htm",
+      "summary": "Tối nay 24.2, người Việt Nam hãy nhìn lên trời để quan sát vũ trụ trăng sao với cảnh tượng kỳ thú, khi mặt trăng thượng huyền gặp cụm sao 'bảy chị em' nổi tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:45:00+07:00",
+      "fetched": "2026-02-24T21:43:53.344251+07:00"
+    },
+    {
       "id": "5da366e55ab58e2fdff7795cf7b60bc2",
       "title": "Cháy lớn trên đường Đỗ Xuân Hợp: Ngọn lửa bao trùm, thiêu rụi 3 cửa hàng",
       "link": "https://thanhnien.vn/chay-lon-tren-duong-do-xuan-hop-ngon-lua-bao-trum-thieu-rui-3-cua-hang-18526022419205218.htm",
@@ -641,6 +1041,16 @@ window.newsData_2026_02_24 = {
       "category": "Tổng hợp",
       "published": "2026-02-24T12:31:00+07:00",
       "fetched": "2026-02-24T19:41:02.602463+07:00"
+    },
+    {
+      "id": "84d2436c8074129e9af55ccda4c4d016",
+      "title": "'Được - mất' của du lịch Việt qua 9 ngày nghỉ Tết",
+      "link": "https://vnexpress.net/duoc-mat-cua-du-lich-viet-qua-9-ngay-nghi-tet-5043166.html",
+      "summary": "Du lịch cả nước phục vụ khoảng 14 triệu lượt khách trong kỳ nghỉ Tết 9 ngày, tăng 12% so với năm trước, song tiếp tục đối mặt thách thức quá tải, chất lượng dịch vụ chưa tương xứng chi phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:30:00+07:00",
+      "fetched": "2026-02-24T21:43:49.804335+07:00"
     },
     {
       "id": "8ef74f81969693a365b3ed3b8dc0427c",
@@ -711,6 +1121,36 @@ window.newsData_2026_02_24 = {
       "category": "Thế giới",
       "published": "2026-02-24T12:00:00+07:00",
       "fetched": "2026-02-24T19:41:05.848745+07:00"
+    },
+    {
+      "id": "e9f93431e6b2cfcdd879aadf1a3db83c",
+      "title": "Lý do tôi không đến quán cà phê 45 K bắt khách tự bưng bê",
+      "link": "https://vnexpress.net/nganh-f-b-ca-phe-tu-phuc-vu-5043639.html",
+      "summary": "Tôi thấy chưa tương xứng giữa số tiền bỏ ra và giá trị dịch vụ mà mình nhận lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:00:00+07:00",
+      "fetched": "2026-02-24T21:43:49.804496+07:00"
+    },
+    {
+      "id": "50d47ce7f4a09e027c5193f3b1d01059",
+      "title": "Em không hứa sẽ hoàn hảo nhưng hứa sẽ chân thành",
+      "link": "https://vnexpress.net/em-khong-hua-se-hoan-hao-nhung-hua-se-chan-thanh-5043421.html",
+      "summary": "Em tin rằng khi đủ thấu hiểu và tử tế, người ta vẫn có thể bắt đầu lại một cách bình thản và trưởng thành hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:00:00+07:00",
+      "fetched": "2026-02-24T21:43:49.804772+07:00"
+    },
+    {
+      "id": "5f7d35cd031b91fc0c7e6e48a0b661ce",
+      "title": "Sao Việt theo đuổi mốt áo thôn quê",
+      "link": "https://vnexpress.net/sao-viet-theo-duoi-mot-ao-thon-que-5043173.html",
+      "summary": "Hoa hậu Đặng Thu Thảo, Thanh Thủy, ca sĩ Phương Mỹ Chi chọn áo bà ba - trang phục nông thôn miền Nam - dịp Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:00:00+07:00",
+      "fetched": "2026-02-24T21:43:49.804928+07:00"
     },
     {
       "id": "cd67c6670603247b90eab627d5f5e936",
