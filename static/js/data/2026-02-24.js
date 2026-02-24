@@ -1,7 +1,157 @@
 window.newsData_2026_02_24 = {
   "date": "2026-02-24",
-  "lastUpdated": "2026-02-24T17:38:40.103944+07:00",
+  "lastUpdated": "2026-02-24T19:41:13.643933+07:00",
   "articles": [
+    {
+      "id": "d608515727d76d9d859419b94147442c",
+      "title": "Miền Bắc mưa rào và dông, miền Nam khả năng có mưa trái mùa",
+      "link": "https://tuoitre.vn/mien-bac-mua-rao-va-dong-mien-nam-kha-nang-co-mua-trai-mua-20260224155223538.htm",
+      "summary": "Dự báo ngày 25 và 26-2, miền Bắc có mưa rào và rải rác có dông. Ngày 26 và 27-2, khu vực Nam Bộ, Khánh Hòa và Lâm Đồng có khả năng xảy ra đợt mưa trái mùa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.073203+07:00",
+      "fetched": "2026-02-24T19:41:04.073337+07:00"
+    },
+    {
+      "id": "5645e9c5f14ccfef2a0b8564c397816e",
+      "title": "Bến Ninh Kiều, chợ nổi Cái Răng và nhiều nơi ở Cần Thơ sẽ được lắp Wifi công cộng",
+      "link": "https://tuoitre.vn/ben-ninh-kieu-cho-noi-cai-rang-va-nhieu-noi-o-can-tho-se-duoc-lap-wifi-cong-cong-20260224160921481.htm",
+      "summary": "Bến Ninh Kiều, chợ nổi Cái Răng và nhiều điểm trung tâm Cần Thơ sẽ có Wifi công cộng tốc độ cao, phục vụ du lịch và chuyển đổi số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.073075+07:00",
+      "fetched": "2026-02-24T19:41:04.073191+07:00"
+    },
+    {
+      "id": "cd8e17704ab35a231f63342eed7b3743",
+      "title": "Thủ tướng: Có lời giải thỏa đáng cho câu hỏi, bằng cách nào thoát khỏi bẫy thu nhập trung bình?",
+      "link": "https://tuoitre.vn/thu-tuong-co-loi-giai-thoa-dang-cho-cau-hoi-bang-cach-nao-thoat-khoi-bay-thu-nhap-trung-binh-20260224161905376.htm",
+      "summary": "Ngày 24-2, Thủ tướng Phạm Minh Chính đã tới thăm, làm việc với Viện hàn lâm Khoa học xã hội Việt Nam và các nhà khoa học, chuyên gia tiêu biểu trong lĩnh vực khoa học xã hội và nhân văn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.072952+07:00",
+      "fetched": "2026-02-24T19:41:04.073064+07:00"
+    },
+    {
+      "id": "5fed8fce03fc7d4f19b2dbb117005c93",
+      "title": "Bí thư Hà Nội: Khu công nghệ cao Hòa Lạc phải tập trung các trường đại học, viện nghiên cứu hàng đầu",
+      "link": "https://tuoitre.vn/bi-thu-ha-noi-khu-cong-nghe-cao-hoa-lac-phai-tap-trung-cac-truong-dai-hoc-vien-nghien-cuu-hang-dau-20260224141551465.htm",
+      "summary": "Bí thư Hà Nội yêu cầu tạo cú hích để Hòa Lạc hút mạnh nhà đầu tư, đại học, viện nghiên cứu, tháo gỡ mặt bằng và thủ tục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.072820+07:00",
+      "fetched": "2026-02-24T19:41:04.072940+07:00"
+    },
+    {
+      "id": "f3cc704083ee16d65d78b632cc9c4d9d",
+      "title": "Xe trên cao tốc từ TP.HCM về miền Trung dịp Tết đông kỷ lục",
+      "link": "https://tuoitre.vn/xe-tren-cao-toc-tu-tp-hcm-ve-mien-trung-dip-tet-dong-ky-luc-20260224145451396.htm",
+      "summary": "Những ngày nghỉ Tết Nguyên đán 2026, các đoạn cao tốc Bắc - Nam phía đông từ TP.HCM về miền Trung ghi nhận lượng xe đông kỷ lục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.072692+07:00",
+      "fetched": "2026-02-24T19:41:04.072808+07:00"
+    },
+    {
+      "id": "e68333ec71adce6169aa439423012cc3",
+      "title": "THACO sắp có thương hiệu xe du lịch vào năm 2027",
+      "link": "https://tuoitre.vn/thaco-sap-co-thuong-hieu-xe-du-lich-vao-nam-2027-20260224112856564.htm",
+      "summary": "Theo thông điệp mới nhất từ lãnh đạo Công ty cổ phần Tập đoàn Trường Hải (THACO), doanh nghiệp dự kiến sẽ trình làng dòng xe du lịch mang thương hiệu riêng vào năm 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.072569+07:00",
+      "fetched": "2026-02-24T19:41:04.072681+07:00"
+    },
+    {
+      "id": "08a9057db037f0044efe9edeb92e9352",
+      "title": "TP.HCM đánh giá, triển khai phần mềm chung quản lý số nhà",
+      "link": "https://tuoitre.vn/tp-hcm-danh-gia-trien-khai-phan-mem-chung-quan-ly-so-nha-20260224163026088.htm",
+      "summary": "TP.HCM đánh giá, triển khai phần mềm ứng dụng công nghệ GIS dùng chung trong đánh số, gắn biển số nhà, dự kiến thực hiện trong quý 1-2026, bảo đảm thống nhất và liên thông dữ liệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.072443+07:00",
+      "fetched": "2026-02-24T19:41:04.072557+07:00"
+    },
+    {
+      "id": "629baa22a62f597d744f8083b87c817b",
+      "title": "Mẹ quay cảnh cho vui tình cờ quay luôn CSGT Đồng Tháp chỉ đường cho dân 'thân thiện quá cưng'",
+      "link": "https://tuoitre.vn/me-quay-canh-cho-vui-tinh-co-quay-luon-csgt-dong-thap-chi-duong-cho-dan-than-thien-qua-cung-20260224164032879.htm",
+      "summary": "Một đoạn clip dài 44 giây ghi cảnh người phụ nữ lái ô tô đi hướng cầu Vàm Cống, đến đoạn gần vào quốc lộ 30 tỉnh Đồng Tháp thì được cảnh sát giao thông (CSGT) Công an tỉnh này hướng dẫn lối đi khác để tránh kẹt xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.072305+07:00",
+      "fetched": "2026-02-24T19:41:04.072430+07:00"
+    },
+    {
+      "id": "e5126f37c39e24b5fb7c4cbcf9c47538",
+      "title": "Thái Lan tố Campuchia nổ súng vào binh sĩ, Campuchia bác bỏ",
+      "link": "https://tuoitre.vn/thai-lan-to-campuchia-no-sung-vao-binh-si-campuchia-bac-bo-20260224165535034.htm",
+      "summary": "Quân đội Thái Lan cho rằng lực lượng Campuchia đã bắn một quả đạn cối về phía binh sĩ Thái, buộc phía nước này bắn trả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.072154+07:00",
+      "fetched": "2026-02-24T19:41:04.072291+07:00"
+    },
+    {
+      "id": "4dc4aceefb59d6fd2233a0218ae9da95",
+      "title": "Liên danh tư vấn BCG tư vấn điều chỉnh quy hoạch tỉnh Lâm Đồng",
+      "link": "https://tuoitre.vn/lien-danh-tu-van-bcg-tu-van-dieu-chinh-quy-hoach-tinh-lam-dong-20260224162103018.htm",
+      "summary": "UBND tỉnh Lâm Đồng yêu cầu các sở, ngành đẩy nhanh tiến độ thực hiện điều chỉnh quy hoạch tỉnh để kịp công khai lấy ý kiến nhân dân vào tháng 3-2026. Liên danh BCG được chọn lập tư vấn để điều chỉnh quy hoạch này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.072026+07:00",
+      "fetched": "2026-02-24T19:41:04.072142+07:00"
+    },
+    {
+      "id": "10c20bc808e361823cb07b5a94078c13",
+      "title": "Lãnh đạo UBND TP.HCM chúc Tết doanh nghiệp, mong đóng góp vào tăng trưởng trên 10%",
+      "link": "https://tuoitre.vn/lanh-dao-ubnd-tp-hcm-chuc-tet-doanh-nghiep-mong-dong-gop-vao-tang-truong-tren-10-20260224165035374.htm",
+      "summary": "Các đoàn công tác của UBND TP.HCM tới thăm, chúc Tết các nhà đầu tư và người lao động, kỳ vọng doanh nghiệp góp phần để TP.HCM đạt mục tiêu tăng trưởng hai con số trong thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.071890+07:00",
+      "fetched": "2026-02-24T19:41:04.072013+07:00"
+    },
+    {
+      "id": "886317bfc0a9bed602800b54edef8db1",
+      "title": "Mâu thuẫn mua bán theo sào hay theo ký, đau xót 500 sào dưa hấu đành bị bỏ chết khô",
+      "link": "https://tuoitre.vn/mau-thuan-mua-ban-theo-sao-hay-theo-ky-dau-xot-500-sao-dua-hau-danh-bi-bo-chet-kho-20260224164404398.htm",
+      "summary": "Hàng trăm sào dưa hấu trĩu quả tới ngày thu hoạch bị bỏ chết khô trên ruộng tại xã Ia Mơ, Gia Lai, vì bên mua và bên bán không thỏa thuận được phương thức mua bán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.071761+07:00",
+      "fetched": "2026-02-24T19:41:04.071878+07:00"
+    },
+    {
+      "id": "22e2bd1223b99eddb2f8621dfa67064c",
+      "title": "Công nhân trở lại nhiều công trường ở Hà Tĩnh làm việc sau kỳ nghỉ Tết",
+      "link": "https://tuoitre.vn/cong-nhan-tro-lai-nhieu-cong-truong-o-ha-tinh-lam-viec-sau-ky-nghi-tet-20260224170323464.htm",
+      "summary": "Sau kỳ nghỉ Tết Nguyên đán kéo dài hơn 10 ngày, các công trường ở Hà Tĩnh đã ghi nhận công nhân trở lại làm việc theo kế hoạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.071628+07:00",
+      "fetched": "2026-02-24T19:41:04.071748+07:00"
+    },
+    {
+      "id": "fadfb22c68ade1616eb8733e9670f8b5",
+      "title": "Cây xanh gãy đổ tại vườn hoa Lý Tự Trọng sát hồ Tây đè trúng 2 người dân phải đi cấp cứu",
+      "link": "https://tuoitre.vn/cay-xanh-gay-do-tai-vuon-hoa-ly-tu-trong-sat-ho-tay-de-trung-2-nguoi-dan-phai-di-cap-cuu-20260224164547124.htm",
+      "summary": "Một cây xanh cỡ lớn trong vườn hoa Lý Tự Trọng, ngay sát hồ Tây (phường Tây Hồ, Hà Nội) gãy đổ đè trúng hai người dân khiến cả hai bị thương, đang được cấp cứu tại bệnh viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.071483+07:00",
+      "fetched": "2026-02-24T19:41:04.071614+07:00"
+    },
+    {
+      "id": "9b7ce6acbd74818af9beba437da53701",
+      "title": "Trung Quốc triệt phá 'ổ nhóm' thầy thuốc dởm dùng liệu pháp chích máu 'giải tà khí'",
+      "link": "https://tuoitre.vn/trung-quoc-triet-pha-o-nhom-thay-thuoc-dom-dung-lieu-phap-chich-mau-giai-ta-khi-20260224170444159.htm",
+      "summary": "Nhóm người dùng kim dài hút máu người bệnh, vứt thiết bị bẩn và gạc xuống sàn phòng khám.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:41:04.071245+07:00",
+      "fetched": "2026-02-24T19:41:04.071468+07:00"
+    },
     {
       "id": "089939ae7c2092ba0a60f291be66c624",
       "title": "Việt Nam tiếp cận công nghệ sản xuất vắc xin đỉnh cao hàng đầu thế giới",
@@ -453,6 +603,236 @@ window.newsData_2026_02_24 = {
       "fetched": "2026-02-24T13:48:25.365898+07:00"
     },
     {
+      "id": "5da366e55ab58e2fdff7795cf7b60bc2",
+      "title": "Cháy lớn trên đường Đỗ Xuân Hợp: Ngọn lửa bao trùm, thiêu rụi 3 cửa hàng",
+      "link": "https://thanhnien.vn/chay-lon-tren-duong-do-xuan-hop-ngon-lua-bao-trum-thieu-rui-3-cua-hang-18526022419205218.htm",
+      "summary": "Cơ quan chức năng TP.HCM đang khẩn trương xử lý đám cháy lớn tại 3 cửa hàng trên đường Đỗ Xuân Hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:40:00+07:00",
+      "fetched": "2026-02-24T19:41:02.601953+07:00"
+    },
+    {
+      "id": "8331fbe7165ad4ab6b4cd239c9fed9ec",
+      "title": "Du khách tàu biển đến vịnh Hạ Long được chào đón bằng âm nhạc",
+      "link": "https://thanhnien.vn/du-khach-tau-bien-den-vinh-ha-long-duoc-chao-don-bang-am-nhac-18526022418321489.htm",
+      "summary": "Gần 700 du khách quốc tế cập cảng tàu khách quốc tế Hạ Long sáng 24.2 (mùng 8 tháng giêng) được chào đón bằng chương trình âm nhạc đặc sắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:40:00+07:00",
+      "fetched": "2026-02-24T19:41:02.602124+07:00"
+    },
+    {
+      "id": "274fa5ddfac0cfb86102a1f75e4f5964",
+      "title": "Từ 15.3, doanh nghiệp thuộc Bộ Công an được sản xuất pháo hoa nổ",
+      "link": "https://thanhnien.vn/tu-153-doanh-nghiep-thuoc-bo-cong-an-duoc-san-xuat-phao-hoa-no-185260224185752998.htm",
+      "summary": "Theo quy định mới, từ 15.3 tới, tổ chức, doanh nghiệp thuộc Bộ Công an được phép nghiên cứu, sản xuất, xuất khẩu, nhập khẩu, cung cấp pháo hoa nổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:36:00+07:00",
+      "fetched": "2026-02-24T19:41:02.602303+07:00"
+    },
+    {
+      "id": "0c427af3ad3f605722c0c672c9563bc6",
+      "title": "Vướng sai phạm, 19 dự án điện gió, điện mặt trời ở Lâm Đồng chưa có lối ra",
+      "link": "https://thanhnien.vn/vuong-sai-pham-19-du-an-dien-gio-dien-mat-troi-o-lam-dong-chua-co-loi-ra-185260224161818216.htm",
+      "summary": "Ngày 24.2, Sở Công thương Lâm Đồng đã có văn bản báo cáo tiến độ xử lý các sai phạm tại 20 dự án năng lượng tái tạo đã được Thanh tra Chính phủ kết luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:31:00+07:00",
+      "fetched": "2026-02-24T19:41:02.602463+07:00"
+    },
+    {
+      "id": "8ef74f81969693a365b3ed3b8dc0427c",
+      "title": "Xa Thi Mạn giúp TVB chấm dứt chuỗi thua lỗ kéo dài hơn 7 năm?",
+      "link": "https://thanhnien.vn/xa-thi-man-giup-tvb-cham-dut-chuoi-thua-lo-keo-dai-hon-7-nam-185260224162731279.htm",
+      "summary": "Thông tin về kết quả kinh doanh của TVB gây xôn xao khi xuất hiện tin đồn cho rằng thành công từ các dự án do Xa Thi Mạn đóng chính đã góp phần giúp nhà đài đảo chiều thua lỗ, khép lại giai đoạn khó khăn kéo dài hơn 7 năm, Sohu đưa tin ngày 23.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:19:00+07:00",
+      "fetched": "2026-02-24T19:41:02.602622+07:00"
+    },
+    {
+      "id": "7a67fa72052e9438daf6c52ea8d8f776",
+      "title": "Trấn Thành vẫn dẫn đầu, phim tết của Trường Giang bất ngờ bị 'vượt mặt'",
+      "link": "https://thanhnien.vn/tran-thanh-van-dan-dau-phim-tet-cua-truong-giang-bat-ngo-bi-vuot-mat-1852602241759119.htm",
+      "summary": "Trong ngày 24.2, phim 'Nhà ba tôi một phòng' của đạo diễn Trường Giang bất ngờ bị 'Báu vật trời cho' vượt mặt. Trong khi đó, 'Thỏ ơi' vẫn bỏ xa các đối thủ về doanh thu trong ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:13:00+07:00",
+      "fetched": "2026-02-24T19:41:02.602774+07:00"
+    },
+    {
+      "id": "d8e633057623c6ddbcf3eeeebb3b7aa3",
+      "title": "Thái Lan nói súng nổ tại biên giới, Campuchia bác bỏ",
+      "link": "https://thanhnien.vn/thai-lan-noi-sung-no-tai-bien-gioi-campuchia-bac-bo-185260224190610307.htm",
+      "summary": "Quân đội Thái Lan cho biết đã đấu súng với lực lượng Campuchia tại biên giới vào sáng 24.2 nhưng Phnom Penh bác bỏ thông tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:06:00+07:00",
+      "fetched": "2026-02-24T19:41:02.602924+07:00"
+    },
+    {
+      "id": "1be5ca19a8272640e22193428eb28740",
+      "title": "Y bác sĩ hơn 30 lần hiến máu cứu bệnh nhân ung thư",
+      "link": "https://thanhnien.vn/y-bac-si-hon-30-lan-hien-mau-cuu-benh-nhan-ung-thu-185260224170944884.htm",
+      "summary": "Các y bác sĩ Bệnh viện Ung bướu Đà Nẵng thường xuyên hiến máu khẩn cấp và tình nguyện để cứu chữa bệnh nhân ung thư. Đặc biệt là những người thiếu máu, tiểu cầu nghiêm trọng trong quá trình điều trị hóa chất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:00:00+07:00",
+      "fetched": "2026-02-24T19:41:02.603071+07:00"
+    },
+    {
+      "id": "88563eb26cb5d955ee873dd492ece689",
+      "title": "Chạy vào làn khẩn cấp trên cao tốc theo hướng dẫn của CSGT có bị phạt nguội?",
+      "link": "https://thanhnien.vn/chay-vao-lan-khan-cap-tren-cao-toc-theo-huong-dan-cua-csgt-co-bi-phat-nguoi-185260224130846092.htm",
+      "summary": "Chiều tối 22.2 (mùng 6 tết), nhiều tài xế chạy vào làn khẩn cấp trên cao tốc TP.HCM - Trung Lương theo hướng dẫn CSGT băn khoăn có bị phạt nguội. Cục CSGT đã lên tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:00:00+07:00",
+      "fetched": "2026-02-24T19:41:02.603218+07:00"
+    },
+    {
+      "id": "4a7a789fdb7d3520ad806ff1aa1ad1bd",
+      "title": "Học ngành ngôn ngữ giữa ‘bão AI’, sinh viên có lo thất nghiệp?",
+      "link": "https://thanhnien.vn/hoc-nganh-ngon-ngu-giua-bao-ai-sinh-vien-co-lo-that-nghiep-18526021511225444.htm",
+      "summary": "Thí sinh tên Gia An chia sẻ và đặt câu hỏi: \"Em theo dõi 5 năm rất nhiều trường tuyển sinh mới ngành ngôn ngữ Trung Quốc, có phải ngôn ngữ này đang là xu hướng trong nhóm các ngành ngôn ngữ không ạ? Cơ hội việc làm khi tốt nghiệp ngành này ra sao?''.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T12:00:00+07:00",
+      "fetched": "2026-02-24T19:41:02.603395+07:00"
+    },
+    {
+      "id": "21e9cbefd3111dfde9b4729c53bf4457",
+      "title": "Cuộc đột kích giúp đặc nhiệm Mexico diệt trùm ma túy khét tiếng nhất",
+      "link": "https://vnexpress.net/cuoc-dot-kich-giup-dac-nhiem-mexico-diet-trum-ma-tuy-khet-tieng-nhat-5043568.html",
+      "summary": "Quân đội Mexico quyết định đột kích căn nhà ven đồi ở Tapalpa sau khi phát hiện manh mối về trùm ma túy El Mencho tại đây, bất chấp rủi ro bạo lực băng đảng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T12:00:00+07:00",
+      "fetched": "2026-02-24T19:41:05.848745+07:00"
+    },
+    {
+      "id": "cd67c6670603247b90eab627d5f5e936",
+      "title": "CAS sắp ra phán quyết vụ 7 cầu thủ nhập tịch Malaysia, quyết định có thể xuất hiện rạng sáng",
+      "link": "https://thanhnien.vn/cas-sap-ra-phan-quyet-vu-7-cau-thu-nhap-tich-malaysia-quyet-dinh-co-the-xuat-hien-rang-sang-185260224184537041.htm",
+      "summary": "Tòa án Trọng tài Thể thao (CAS) chuẩn bị ra phán quyết về vụ 7 cầu thủ nhập tịch của Malaysia, trong bối cảnh đội tuyển nước này bước vào giai đoạn then chốt của vòng loại Asian Cup 2027 và đặc biệt hướng tới trận gặp Việt Nam ngày 31.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T11:50:00+07:00",
+      "fetched": "2026-02-24T19:41:02.603544+07:00"
+    },
+    {
+      "id": "ed426018d9c689ef5a2e6823b83f4aa2",
+      "title": "TP HCM sẽ đánh số nhà bằng công nghệ GIS",
+      "link": "https://vnexpress.net/tp-hcm-se-danh-so-nha-bang-cong-nghe-gis-5043701.html",
+      "summary": "TP HCM sẽ triển khai phần mềm ứng dụng công nghệ GIS để đánh số và gắn biển số nhà trên toàn địa bàn, bảo đảm dữ liệu thống nhất, đồng bộ và liên thông.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-24T11:48:00+07:00",
+      "fetched": "2026-02-24T19:41:11.571533+07:00"
+    },
+    {
+      "id": "8da9f42c08188fec8da514ac79f8bc2e",
+      "title": "Nghi án con trai sát hại cha ruột rồi vứt búa và chày bên hông nhà",
+      "link": "https://thanhnien.vn/nghi-an-con-trai-sat-hai-cha-ruot-roi-vut-bua-va-chay-ben-hong-nha-185260224180811684.htm",
+      "summary": "Người dân sống ở đường Nguyễn Thiện Kế (phường An Hải, TP.Đà Nẵng) bàng hoàng phát hiện một người đàn ông tử vong trong nhà với nhiều vết thương, nghi phạm là con trai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T11:44:00+07:00",
+      "fetched": "2026-02-24T19:41:02.603697+07:00"
+    },
+    {
+      "id": "dd8be027a47ac6c6e4185acefbfad25c",
+      "title": "6 thiết bị công nghệ đã qua sử dụng nên tránh mua",
+      "link": "https://thanhnien.vn/6-thiet-bi-cong-nghe-da-qua-su-dung-nen-tranh-mua-185260222170524255.htm",
+      "summary": "Khi giá linh kiện điện tử như bộ nhớ hay thiết bị lưu trữ tăng cao, không ngạc nhiên khi nhiều người chuyển sang lựa chọn các thiết bị công nghệ đã qua sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T11:43:00+07:00",
+      "fetched": "2026-02-24T19:41:02.603847+07:00"
+    },
+    {
+      "id": "677c1b1936b1ce0cfefc962d030bcb41",
+      "title": "Rơi trực thăng quân sự tại Iran, 4 người thiệt mạng",
+      "link": "https://vnexpress.net/roi-truc-thang-quan-su-tai-iran-4-nguoi-thiet-mang-5043695.html",
+      "summary": "Một trực thăng quân sự Iran rơi xuống chợ tại miền trung nước này khiến 4 người chết, trong đó có hai người dưới mặt đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T11:40:49+07:00",
+      "fetched": "2026-02-24T19:40:59.044757+07:00"
+    },
+    {
+      "id": "677c1b1936b1ce0cfefc962d030bcb41",
+      "title": "Rơi trực thăng quân sự tại Iran, 4 người thiệt mạng",
+      "link": "https://vnexpress.net/roi-truc-thang-quan-su-tai-iran-4-nguoi-thiet-mang-5043695.html",
+      "summary": "Một trực thăng quân sự Iran rơi xuống chợ tại miền trung nước này khiến 4 người chết, trong đó có hai người dưới mặt đất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T11:40:49+07:00",
+      "fetched": "2026-02-24T19:41:05.848927+07:00"
+    },
+    {
+      "id": "4e4d83cc7f27d9f518ccb402eeeb3fc8",
+      "title": "Ôtô đầu kéo lật, cầu huyết mạch TP HCM qua Đồng Nai ùn tắc",
+      "link": "https://vnexpress.net/oto-dau-keo-lat-cau-huyet-mach-tp-hcm-qua-dong-nai-un-tac-5043700.html",
+      "summary": "Ôm cua khi vừa xuống cầu Thủ Biên, xe đầu kéo chở theo hàng nặng lật ngang, hàng hóa tràn xuống đường gây kẹt xe, chiều 24/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T11:38:33+07:00",
+      "fetched": "2026-02-24T19:40:59.044937+07:00"
+    },
+    {
+      "id": "cf27bca39ec604e615116e710ea66db6",
+      "title": "Nhiều hoạt động ý nghĩa kỷ niệm 120 năm ngày sinh Thủ tướng Phạm Văn Đồng",
+      "link": "https://thanhnien.vn/nhieu-hoat-dong-y-nghia-ky-niem-120-nam-ngay-sinh-thu-tuong-pham-van-dong-185260224174920904.htm",
+      "summary": "Hướng tới kỷ niệm 120 năm ngày sinh Thủ tướng Phạm Văn Đồng (1.3.1906 - 1.3.2026), tỉnh Quảng Ngãi tổ chức nhiều hoạt động ý nghĩa, ôn lại cuộc đời, sự nghiệp và những cống hiến to lớn của nhà lãnh đạo kiên trung, mẫu mực của Đảng và dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T11:36:00+07:00",
+      "fetched": "2026-02-24T19:41:02.603995+07:00"
+    },
+    {
+      "id": "be1a1ebc62cebe3ae04892c04f3134d3",
+      "title": "Bảng xếp hạng giải Đông Nam Á mới nhất: Việt Nam đứng vị trí khó tin, ai đang ở tốp 1?",
+      "link": "https://thanhnien.vn/bang-xep-hang-giai-dong-nam-a-moi-nhat-viet-nam-dung-vi-tri-kho-tin-ai-dang-o-top-1-185260224181644456.htm",
+      "summary": "Sau lượt trận mở màn đầy biến động tại bảng B giải futsal nữ Đông Nam Á 2026, đội tuyển Việt Nam hiện đứng ở vị trí cuối bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T11:31:00+07:00",
+      "fetched": "2026-02-24T19:41:02.604155+07:00"
+    },
+    {
+      "id": "f3b25e595e2c28bb898fb311ef393931",
+      "title": "Nga tìm thấy thi thể khách 7 Trung Quốc dưới hồ băng Baikal",
+      "link": "https://vnexpress.net/nga-tim-thay-thi-the-khach-7-trung-quoc-duoi-ho-bang-baikal-5043662.html",
+      "summary": "Thi thể 7 du khách Trung Quốc và một lái xe thiệt mạng đã được tìm thấy sau khi xe buýt rơi xuống một khe nứt trên mặt hồ Baikal, khiến xe bị chìm xuống độ sâu 18 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T11:27:28+07:00",
+      "fetched": "2026-02-24T19:40:59.045112+07:00"
+    },
+    {
+      "id": "540c1c95caad56e9315aa80d66e024cf",
+      "title": "Phim Thái Hòa hé lộ âm mưu lừa đảo từ thiện",
+      "link": "https://vnexpress.net/phim-thai-hoa-he-lo-am-muu-lua-dao-tu-thien-5043511.html",
+      "summary": "Diễn viên Thái Hòa đóng vai người cha bị con gái nghi là kẻ xấu vì liên quan đường dây lừa đảo từ thiện, trong phim điện ảnh \"Anh Hùng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T11:14:17+07:00",
+      "fetched": "2026-02-24T19:40:59.045297+07:00"
+    },
+    {
+      "id": "d616affe6d2ea6349275bdd62d702b39",
+      "title": "Lửa bao trùm cửa hàng đồ gỗ, cháy lan trụ điện ở TP HCM",
+      "link": "https://vnexpress.net/lua-bao-trum-cua-hang-do-go-chay-lan-tru-dien-o-tp-hcm-5043690.html",
+      "summary": "Khói lửa kèm nhiều tiếng nổ bao trùm cửa hàng đồ gỗ nội thất ở phường Phước Long, lan sang trụ điện hạ thế, chiều 24/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T11:14:04+07:00",
+      "fetched": "2026-02-24T19:40:59.045469+07:00"
+    },
+    {
       "id": "26e466002885ad2bb9cc292851a04525",
       "title": "Tết là cao điểm, không phải nghỉ lễ: Du lịch từ đón đông khách đến 'đón khách văn minh'",
       "link": "https://tuoitre.vn/tet-la-cao-diem-khong-phai-nghi-le-du-lich-tu-don-dong-khach-den-don-khach-van-minh-20260224081511631.htm",
@@ -603,6 +983,66 @@ window.newsData_2026_02_24 = {
       "fetched": "2026-02-24T11:09:19.799904+07:00"
     },
     {
+      "id": "c3743310557aabab945e9fdac540c9ca",
+      "title": "Biển Gia Lai xuất hiện dải nước màu đỏ dài hơn một km",
+      "link": "https://vnexpress.net/bien-gia-lai-xuat-hien-dai-nuoc-mau-do-dai-hon-mot-km-5043686.html",
+      "summary": "Hơn một km bờ biển Tam Quan, phường Hoài Nhơn Bắc có dải nước màu nâu đỏ rộng khoảng 20-30 m, thu hút sự quan tâm của nhiều người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T11:07:54+07:00",
+      "fetched": "2026-02-24T19:40:59.045630+07:00"
+    },
+    {
+      "id": "e72597247759a048d2f0a8afbcef675e",
+      "title": "Thêm 'ông lớn' tham gia thị trường bạc miếng",
+      "link": "https://vnexpress.net/them-ong-lon-tham-gia-thi-truong-bac-mieng-5043650.html",
+      "summary": "Sát ngày vía Thần Tài, DOJI đưa ra thị trường sản phẩm bạc ép vỉ, gia nhập nhóm doanh nghiệp lớn kinh doanh bạc miếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T11:00:00+07:00",
+      "fetched": "2026-02-24T19:40:59.045787+07:00"
+    },
+    {
+      "id": "dcc24e4940a13e6d96b9fd151027048a",
+      "title": "Em và 2026, đúng người đúng thời điểm",
+      "link": "https://vnexpress.net/em-va-2026-dung-nguoi-dung-thoi-diem-5043415.html",
+      "summary": "Anh là một Phật tử và góc nhìn nhân sinh của anh là nhân quả, luôn hướng thiện và gắng sống tử tế, đạo đức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T11:00:00+07:00",
+      "fetched": "2026-02-24T19:40:59.045891+07:00"
+    },
+    {
+      "id": "a2e1b64f0a9eba9a6034c8fdd0e1f44c",
+      "title": "Em tôi dùng những từ ngữ cay nghiệt để dạy con",
+      "link": "https://vnexpress.net/em-toi-dung-nhung-tu-ngu-cay-nghiet-de-day-con-5043392.html",
+      "summary": "Mỗi khi con lơ đễnh, quên chép bài hoặc điểm số không tốt, em tôi chửi bới con tục tĩu; đánh và giật tóc, đấm đá con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T11:00:00+07:00",
+      "fetched": "2026-02-24T19:40:59.046054+07:00"
+    },
+    {
+      "id": "e72597247759a048d2f0a8afbcef675e",
+      "title": "Thêm 'ông lớn' tham gia thị trường bạc miếng",
+      "link": "https://vnexpress.net/them-ong-lon-tham-gia-thi-truong-bac-mieng-5043650.html",
+      "summary": "Sát ngày vía Thần Tài, DOJI đưa ra thị trường sản phẩm bạc ép vỉ, gia nhập nhóm doanh nghiệp lớn kinh doanh bạc miếng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-24T11:00:00+07:00",
+      "fetched": "2026-02-24T19:41:07.979109+07:00"
+    },
+    {
+      "id": "7aab8c97c8742a8e66d467ed63f0650b",
+      "title": "Khách tố homestay Y Tý cho ở phòng lái xe, 'chặt chém' tiền ăn",
+      "link": "https://vnexpress.net/khach-to-homestay-y-ty-cho-o-phong-lai-xe-chat-chem-tien-an-5043516.html",
+      "summary": "Nhóm khách Hà Nội cọc tiền trước 10 ngày nhưng đến nơi homestay ở xã Y Tý báo hết phòng, phải ở phòng nội bộ dành cho lái xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T10:36:01+07:00",
+      "fetched": "2026-02-24T19:40:59.046216+07:00"
+    },
+    {
       "id": "d8f9a4761dff152003492593a22daf13",
       "title": "Trẻ 4 tuổi bị bỏng nặng do ngã vào nồi nước sôi",
       "link": "https://thanhnien.vn/tre-4-tuoi-bi-bong-nang-do-nga-vao-noi-nuoc-soi-185260224095623788.htm",
@@ -611,6 +1051,16 @@ window.newsData_2026_02_24 = {
       "category": "Tổng hợp",
       "published": "2026-02-24T10:36:00+07:00",
       "fetched": "2026-02-24T17:38:31.745205+07:00"
+    },
+    {
+      "id": "b380b860afbb7071400df3647162e9c5",
+      "title": "Cây đổ đè trúng hai người ở Hà Nội",
+      "link": "https://vnexpress.net/cay-do-de-trung-hai-nguoi-o-ha-noi-5043681.html",
+      "summary": "Cây si trong vườn hoa Lý Tự Trọng, đối diện đền Quán Thánh, phường Tây Hồ, bất ngờ đổ làm hai người bị thương, chiều 24/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T10:28:29+07:00",
+      "fetched": "2026-02-24T19:40:59.046401+07:00"
     },
     {
       "id": "7d81e5b4e5df45bbd99ff798edab0843",
@@ -653,6 +1103,16 @@ window.newsData_2026_02_24 = {
       "fetched": "2026-02-24T17:38:35.419419+07:00"
     },
     {
+      "id": "a12ee1b986d88494526810c1175268d7",
+      "title": "Vietnam Game Awards 2026 gia hạn đề cử đến 1/3",
+      "link": "https://vnexpress.net/vietnam-game-awards-2026-gia-han-de-cu-den-1-3-5043660.html",
+      "summary": "Ban tổ chức thông báo kéo dài thời gian nhận hồ sơ thêm 4 ngày so với kế hoạch ban đầu, nhằm tạo điều kiện cho các đơn vị hoàn tất thủ tục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T10:15:00+07:00",
+      "fetched": "2026-02-24T19:40:59.046713+07:00"
+    },
+    {
       "id": "296407420e43033797c2037e39afff60",
       "title": "Phát động giải chạy trực tuyến tiếp sức trẻ sống chung với bệnh hiếm",
       "link": "https://vnexpress.net/phat-dong-giai-chay-truc-tuyen-tiep-suc-tre-song-chung-voi-benh-hiem-5043615.html",
@@ -671,6 +1131,16 @@ window.newsData_2026_02_24 = {
       "category": "Tổng hợp",
       "published": "2026-02-24T10:09:54+07:00",
       "fetched": "2026-02-24T17:38:27.961418+07:00"
+    },
+    {
+      "id": "63f6bf034dbad7f2344e207c213ddefd",
+      "title": "Xe tuần tra bị kích nổ, một cảnh sát Nga thiệt mạng",
+      "link": "https://vnexpress.net/xe-tuan-tra-bi-kich-no-mot-canh-sat-nga-thiet-mang-5043674.html",
+      "summary": "Khi ba cảnh sát đang ngồi trong xe tuần tra ở trung tâm Moscow, người đàn ông đến gần và kích hoạt thiết bị nổ khiến một sĩ quan tử vong, hai người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T10:09:54+07:00",
+      "fetched": "2026-02-24T19:40:59.047025+07:00"
     },
     {
       "id": "2b9a9a89a4568d80beb047b13e7d8545",
