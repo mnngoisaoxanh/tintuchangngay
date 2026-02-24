@@ -1,7 +1,157 @@
 window.newsData_2026_02_24 = {
   "date": "2026-02-24",
-  "lastUpdated": "2026-02-24T21:44:06.368262+07:00",
+  "lastUpdated": "2026-02-24T23:56:08.887197+07:00",
   "articles": [
+    {
+      "id": "fd6097b63fe221f247829b3e356da859",
+      "title": "Thủ tướng: Khánh thành 2 cao tốc qua Lạng Sơn và Cao Bằng dịp sinh nhật Bác",
+      "link": "https://tuoitre.vn/thu-tuong-khanh-thanh-2-cao-toc-qua-lang-son-va-cao-bang-dip-sinh-nhat-bac-20260224203408798.htm",
+      "summary": "Theo thông báo từ Văn phòng Chính phủ, Thủ tướng Phạm Minh Chính yêu cầu khánh thành cao tốc Hữu Nghị - Chi Lăng và Đồng Đăng - Trà Lĩnh (giai đoạn 1) vào dịp sinh nhật Bác Hồ, ngày 19-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.522491+07:00",
+      "fetched": "2026-02-24T23:56:02.522601+07:00"
+    },
+    {
+      "id": "41ecb59a16d3b19d81d155c5d6f70223",
+      "title": "Video: Chỉ cần 1 giây, Văn Hậu lập siêu phẩm từ giữa sân",
+      "link": "https://tuoitre.vn/video-chi-can-1-giay-van-hau-lap-sieu-pham-tu-giua-san-20260224204246934.htm",
+      "summary": "Hậu vệ Đoàn Văn Hậu (CLB Công An Hà Nội) đã chứng minh đẳng cấp của mình với siêu phẩm “lá vàng rơi” từ giữa sân sau một thoáng quan sát vào lưới Thanh Hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.522370+07:00",
+      "fetched": "2026-02-24T23:56:02.522480+07:00"
+    },
+    {
+      "id": "1141499b29231198c1f2f312c09d237c",
+      "title": "Lãnh đạo TP.HCM thăm, chúc mừng cán bộ y tế lão thành",
+      "link": "https://tuoitre.vn/lanh-dao-tp-hcm-tham-chuc-mung-can-bo-y-te-lao-thanh-20260224174437455.htm",
+      "summary": "Nhân dịp kỷ niệm 71 năm Ngày Thầy thuốc Việt Nam (27-2-1955 - 27-2-2026), lãnh đạo TP.HCM đã đến nhà riêng thăm hỏi, chúc mừng các cán bộ y tế lão thành, mong muốn các cá nhân tiếp tục đồng hành, đào tạo cho thế hệ tiếp nối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.522248+07:00",
+      "fetched": "2026-02-24T23:56:02.522359+07:00"
+    },
+    {
+      "id": "0087df628a465d917d6d3e4db5f12c39",
+      "title": "Ban Bí thư: Tuyệt đối không để tình trạng du xuân kéo dài ảnh hưởng đến nhiệm vụ",
+      "link": "https://tuoitre.vn/ban-bi-thu-tuyet-doi-khong-de-tinh-trang-du-xuan-keo-dai-anh-huong-den-nhiem-vu-20260224205448993.htm",
+      "summary": "Ban Bí thư yêu cầu người đứng đầu cơ quan, đơn vị, địa phương nêu gương, nói đi đôi với làm, tạo khí thế làm việc khẩn trương, trách nhiệm ngay từ đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.522124+07:00",
+      "fetched": "2026-02-24T23:56:02.522237+07:00"
+    },
+    {
+      "id": "e89525f22046efb67fdb362d5d7cd9c5",
+      "title": "Hài cốt Thánh Francis lần đầu trưng bày công khai sau 800 năm",
+      "link": "https://tuoitre.vn/hai-cot-thanh-francis-lan-dau-trung-bay-cong-khai-sau-800-nam-20260224193639156.htm",
+      "summary": "Hàng trăm nghìn du khách sẽ đổ về chiêm bái trong sự kiện trưng bày hài cốt Thánh Francis kéo dài một tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.521979+07:00",
+      "fetched": "2026-02-24T23:56:02.522112+07:00"
+    },
+    {
+      "id": "343c12deff17b13f3056ec5918234a13",
+      "title": "Tiệc âm nhạc chào đón gần 700 du khách trên siêu du thuyền đến Hạ Long",
+      "link": "https://tuoitre.vn/tiec-am-nhac-chao-don-gan-700-du-khach-tren-sieu-du-thuyen-den-ha-long-20260224210407898.htm",
+      "summary": "Ngày 24-2 (mùng 8 tháng giêng), siêu du thuyền Silver Nova quốc tịch Bahamas lần đầu tiên cập Cảng tàu khách quốc tế Hạ Long mang theo gần 700 du khách, được chào đón bằng bữa tiệc âm nhạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.521851+07:00",
+      "fetched": "2026-02-24T23:56:02.521964+07:00"
+    },
+    {
+      "id": "1f8de7400b9f4ebb07d73d5de518d5c5",
+      "title": "Hồng Vân nói 'Uyển Ân có thể đối đầu trực diện Trấn Thành được rồi'",
+      "link": "https://tuoitre.vn/hong-van-noi-uyen-an-co-the-doi-dau-truc-dien-tran-thanh-duoc-roi-2026022419261265.htm",
+      "summary": "Khi được NSND Hồng Vân nhận xét Uyển Ân có thể đối đầu trực diện Trấn Thành, Uyển Ân (em gái Trấn Thành) bất ngờ và cười.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.521721+07:00",
+      "fetched": "2026-02-24T23:56:02.521839+07:00"
+    },
+    {
+      "id": "02bd9209a3675bffb214415a1f94dca2",
+      "title": "Hàng vạn du khách đến chùa Ba Vàng dự Lễ khai xuân Bính Ngọ 2026",
+      "link": "https://tuoitre.vn/hang-van-du-khach-den-chua-ba-vang-du-le-khai-xuan-binh-ngo-2026-20260224204220366.htm",
+      "summary": "Trong không khí đầu xuân mới, hàng vạn tăng ni, phật tử và du khách thập phương đã đến tham quan, thắp hương tại chùa Ba Vàng và dự Lễ khai xuân Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.521595+07:00",
+      "fetched": "2026-02-24T23:56:02.521709+07:00"
+    },
+    {
+      "id": "9192acb4744b624fbaf47fc865fc6eb5",
+      "title": "Phát hiện Anh, Pháp muốn chuyển công nghệ hạt nhân cho Ukraine, ông Medvedev cảnh báo thế chiến",
+      "link": "https://tuoitre.vn/phat-hien-anh-phap-muon-chuyen-cong-nghe-hat-nhan-cho-ukraine-ong-medvedev-canh-bao-the-chien-20260224205504781.htm",
+      "summary": "Theo Cục Tình báo đối ngoại Nga (SVR), Anh và Pháp tin rằng Ukraine sẽ có thể đạt được các điều khoản chấm dứt xung đột có lợi hơn nếu Kiev sở hữu vũ khí hạt nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.521459+07:00",
+      "fetched": "2026-02-24T23:56:02.521583+07:00"
+    },
+    {
+      "id": "2f3e46baba7105e1800006058fe31088",
+      "title": "33% người trưởng thành có tiền gửi tiết kiệm",
+      "link": "https://tuoitre.vn/33-nguoi-truong-thanh-co-tien-gui-tiet-kiem-20260224213304777.htm",
+      "summary": "Phát triển đa dạng các sản phẩm, dịch vụ tài chính hiện đại, dễ sử dụng hướng đến các đối tượng, không để ai bị bỏ lại phía sau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.521334+07:00",
+      "fetched": "2026-02-24T23:56:02.521447+07:00"
+    },
+    {
+      "id": "a6c93688e97eb7f7cdecd789f0d89e4d",
+      "title": "Kịp ngăn chặn nam thanh niên có ý định nhảy cầu Rào",
+      "link": "https://tuoitre.vn/kip-ngan-chan-nam-thanh-nien-co-y-dinh-nhay-cau-rao-2026022421235632.htm",
+      "summary": "Lực lượng công an đã kịp thời ngăn chặn một nam thanh niên có ý định nhảy cầu Rào (Hải Phòng) tự tử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.521207+07:00",
+      "fetched": "2026-02-24T23:56:02.521322+07:00"
+    },
+    {
+      "id": "e10b328243afbbd706727ba96b801d75",
+      "title": "Đặc phái viên của Tổng Bí thư Tô Lâm gặp lãnh đạo hai đảng lớn của Nga tại Matxcơva",
+      "link": "https://tuoitre.vn/dac-phai-vien-cua-tong-bi-thu-to-lam-gap-lanh-dao-hai-dang-lon-cua-nga-tai-matxcova-20260224213242858.htm",
+      "summary": "Đặc phái viên của Tổng Bí thư Tô Lâm, Ủy viên Bộ Chính trị, Bộ trưởng Ngoại giao Lê Hoài Trung đã gặp Chủ tịch Đảng Nước Nga thống nhất D. Medvedev và Đảng Cộng sản Liên bang Nga G. Zyuganov để thông báo về kết quả Đại hội Đảng XIV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.521073+07:00",
+      "fetched": "2026-02-24T23:56:02.521195+07:00"
+    },
+    {
+      "id": "45d262896d6719ec73c6d162ee63e757",
+      "title": "TP.HCM ban hành chính sách đặc thù cho bác sĩ nội trú",
+      "link": "https://tuoitre.vn/tp-hcm-ban-hanh-chinh-sach-dac-thu-cho-bac-si-noi-tru-202602242155561.htm",
+      "summary": "Để đáp ứng nhu cầu chăm sóc sức khỏe người dân, TP.HCM đã ban hành đề án chính sách đặc thù hỗ trợ đào tạo bác sĩ nội trú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.520924+07:00",
+      "fetched": "2026-02-24T23:56:02.521060+07:00"
+    },
+    {
+      "id": "480a5d97e7865d9713030183da9969d6",
+      "title": "Nhiều tuyến cao tốc ghi nhận kỷ lục mới về lưu lượng xe dịp Tết",
+      "link": "https://tuoitre.vn/nhieu-tuyen-cao-toc-ghi-nhan-ky-luc-moi-ve-luu-luong-xe-dip-tet-20260224215007541.htm",
+      "summary": "Chỉ tính riêng ngày mùng 5 Tết Bính Ngọ, tuyến cao tốc Nội Bài - Lào Cai đã ghi nhận 110.427 lượt xe. Đây là lưu lượng kỷ lục mới trong một ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.520783+07:00",
+      "fetched": "2026-02-24T23:56:02.520912+07:00"
+    },
+    {
+      "id": "1eb6dc4c44e82a2b0c14870a13244b37",
+      "title": "Ông Trump và các lãnh đạo G7 ra tuyên bố chung ủng hộ Ukraine",
+      "link": "https://tuoitre.vn/ong-trump-va-cac-lanh-dao-g7-ra-tuyen-bo-chung-ung-ho-ukraine-20260224231951973.htm",
+      "summary": "Ngày 24-2, các lãnh đạo nhóm G7, gồm cả Tổng thống Trump, ra tuyên bố chung khẳng định sự ủng hộ kiên định dành cho Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T23:56:02.520557+07:00",
+      "fetched": "2026-02-24T23:56:02.520767+07:00"
+    },
     {
       "id": "70209829530a4e15df46cf47b3e6bb7e",
       "title": "Con trai Rob Reiner không nhận tội sát hại cha mẹ, nhìn 'chằm chằm' thẩm phán tại tòa",
@@ -453,6 +603,46 @@ window.newsData_2026_02_24 = {
       "fetched": "2026-02-24T17:38:33.176997+07:00"
     },
     {
+      "id": "98bbbead79423415fd819e9ca66596ea",
+      "title": "'Xiên bẩn'",
+      "link": "https://vnexpress.net/xien-ban-truoc-cong-truong-5043735.html",
+      "summary": "Gần đây tôi mới biết đến từ “xiên bẩn”. Cái tên này có lẽ do chính học sinh đặt ra. Các em hiểu rõ chữ “bẩn” trong món ăn nhưng vẫn vô tư rủ nhau thưởng thức hàng ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T16:24:58+07:00",
+      "fetched": "2026-02-24T23:55:58.241238+07:00"
+    },
+    {
+      "id": "69da7d58dd0d3f9aec95aa1b59e09dd8",
+      "title": "Đề xuất mở rộng đường Láng lên 53,5 m",
+      "link": "https://vnexpress.net/de-xuat-mo-rong-duong-lang-len-53-5-m-5043718.html",
+      "summary": "Sở Xây dựng Hà Nội đề xuất mở rộng đường Láng (vành đai 2, đoạn từ Ngã Tư Sở đến Cầu Giấy) từ 21 m lên 53,5 m cho đường dưới thấp và 19 m cho trên cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T16:23:16+07:00",
+      "fetched": "2026-02-24T23:55:58.241418+07:00"
+    },
+    {
+      "id": "14d1ffc62a5ae5c301d85e4146736be2",
+      "title": "Ban Bí thư: Tuyệt đối không để tình trạng du xuân kéo dài ảnh hưởng đến nhiệm vụ",
+      "link": "https://thanhnien.vn/ban-bi-thu-tuyet-doi-khong-de-tinh-trang-du-xuan-keo-dai-anh-huong-den-nhiem-vu-185260224221015474.htm",
+      "summary": "Ngày 24.2, Văn phòng Trung ương Đảng ban hành Công văn số 539-CV/VPTW thông báo kết luận của Ban Bí thư về tình hình tổ chức tết Bính Ngọ năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:57:00+07:00",
+      "fetched": "2026-02-24T23:56:01.569524+07:00"
+    },
+    {
+      "id": "dd83b67eb22fa38376a1f2406801235b",
+      "title": "Chàng trai 32 tuổi chưa mối tình 'vắt vai', được gái xinh đồng ý hẹn hò",
+      "link": "https://thanhnien.vn/chang-trai-32-tuoi-chua-moi-tinh-vat-vai-duoc-gai-xinh-dong-y-hen-ho-185260224194149225.htm",
+      "summary": "Chàng trai chưa từng yêu ai đến chương trình Bạn muốn hẹn hò nhờ Quyền Linh mai mối. Bằng sự chân thành, vụng về nhưng ấm áp, anh đã chinh phục trái tim cô gái xinh đẹp ngay trên sân khấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:52:00+07:00",
+      "fetched": "2026-02-24T23:56:01.569695+07:00"
+    },
+    {
       "id": "208931074ef30263c270ec3714779650",
       "title": "Ô tô điện mini lực kéo gấp đôi Lamborghini Aventador, chạy vượt Audi S1 Quattro",
       "link": "https://tuoitre.vn/o-to-dien-mini-luc-keo-gap-doi-lamborghini-aventador-chay-vuot-audi-s1-quattro-20260223120330758.htm",
@@ -603,6 +793,166 @@ window.newsData_2026_02_24 = {
       "fetched": "2026-02-24T15:35:21.308259+07:00"
     },
     {
+      "id": "e4f6498ebf6bb5fc68017cca5256cda0",
+      "title": "Đặc phái viên của Tổng Bí thư Tô Lâm hội kiến các lãnh đạo Nga",
+      "link": "https://vnexpress.net/dac-phai-vien-cua-tong-bi-thu-to-lam-hoi-kien-cac-lanh-dao-nga-5043717.html",
+      "summary": "Bộ trưởng Ngoại giao Lê Hoài Trung có các cuộc hội kiến với Chủ tịch Đảng Nước Nga Thống nhất và Chủ tịch Đảng Cộng sản Liên bang Nga tại Moskva.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:30:48+07:00",
+      "fetched": "2026-02-24T23:55:58.241585+07:00"
+    },
+    {
+      "id": "e4f6498ebf6bb5fc68017cca5256cda0",
+      "title": "Đặc phái viên của Tổng Bí thư Tô Lâm hội kiến các lãnh đạo Nga",
+      "link": "https://vnexpress.net/dac-phai-vien-cua-tong-bi-thu-to-lam-hoi-kien-cac-lanh-dao-nga-5043717.html",
+      "summary": "Bộ trưởng Ngoại giao Lê Hoài Trung có các cuộc hội kiến với Chủ tịch Đảng Nước Nga Thống nhất và Chủ tịch Đảng Cộng sản Liên bang Nga tại Moskva.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T15:30:48+07:00",
+      "fetched": "2026-02-24T23:56:03.787264+07:00"
+    },
+    {
+      "id": "6db61ca6b87a78f88e73e8c9c8d372a8",
+      "title": "HLV Thanh Hóa nói điều bất ngờ về lãnh đạo tỉnh và FIFA, HLV Polking khen Văn Hậu bằng mỹ từ",
+      "link": "https://thanhnien.vn/hlv-thanh-hoa-noi-dieu-bat-ngo-ve-lanh-dao-tinh-va-fifa-hlv-polking-khen-van-hau-bang-my-tu-1852602242143309.htm",
+      "summary": "Tối 24.2, sau khi nhận thất bại 1-3 trước CLB Công an Hà Nội (CAHN), HLV Mai Xuân Hợp chia sẻ thêm tình hình khó khăn hiện tại của CLB Thanh Hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:29:00+07:00",
+      "fetched": "2026-02-24T23:56:01.569849+07:00"
+    },
+    {
+      "id": "4610e7969b851a8fc2da7b553e68a14c",
+      "title": "Vàng mini đắt khách, 'cháy hàng' ngay sau 15 phút mở bán",
+      "link": "https://thanhnien.vn/vang-mini-dat-khach-chay-hang-ngay-sau-15-phut-mo-ban-185260224210726677.htm",
+      "summary": "Chuẩn bị cho ngày vía Thần tài (mùng 10 tháng giêng) năm nay, các doanh nghiệp kinh doanh vàng, bạc tung ra nhiều sản phẩm vàng mini có giá trị chỉ vài triệu đồng, giúp người mua dễ tiếp cận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:26:00+07:00",
+      "fetched": "2026-02-24T23:56:01.570006+07:00"
+    },
+    {
+      "id": "a6e4f2f68c4f58f731fd315268da5b16",
+      "title": "Hà Nội: Tiếp tục đề xuất chi 21.000 tỉ mở rộng đường Láng lên 53,5 m",
+      "link": "https://thanhnien.vn/ha-noi-tiep-tuc-de-xuat-chi-21000-ti-mo-rong-duong-lang-len-535-m-185260224213438011.htm",
+      "summary": "Liên quan dự án cải tạo, mở rộng tuyến Vành đai 2, đoạn từ Ngã Tư Sở đến Cầu Giấy, Sở Xây dựng Hà Nội cho rằng, việc xây dựng phương án hầm chìm đường kính lớn gặp nhiều khó khăn, vướng mắc nên đề xuất thành phố xây cầu cạn và mở rộng mặt cắt đường Láng lên 53,5 m.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:21:00+07:00",
+      "fetched": "2026-02-24T23:56:01.570182+07:00"
+    },
+    {
+      "id": "c2316fb1a1961a112d10f7c03137cfd0",
+      "title": "Highlight CLB Thể Công Viettel 1-0 CLB Nam Định: Đương kim vô địch đua trụ hạng",
+      "link": "https://thanhnien.vn/highlight-clb-the-cong-viettel-1-0-clb-nam-dinh-duong-kim-vo-dich-dua-tru-hang-185260224221758046.htm",
+      "summary": "Đánh bại Nam Định, Thể Công Viettel có 25 điểm, chỉ còn kém đội nhì Ninh Bình 2 điểm. Trong khi đó, Nam Định giậm chân tại chỗ ở hạng 10 với 12 điểm, chỉ hơn đội áp chót PVF-CAND 1 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:17:00+07:00",
+      "fetched": "2026-02-24T23:56:01.570336+07:00"
+    },
+    {
+      "id": "2cbe2b5b55505ab8f6fb67f9d4add2da",
+      "title": "Khởi tố Phó tổng giám đốc Công ty CP nhiệt điện Quảng Ninh Lê Việt Cường",
+      "link": "https://thanhnien.vn/khoi-to-pho-tong-giam-doc-cong-ty-cp-nhiet-dien-quang-ninh-le-viet-cuong-185260224213804845.htm",
+      "summary": "Phó tổng giám đốc Công ty CP nhiệt điện Quảng Ninh Lê Việt Cường bị khởi tố, tạm giam để điều tra hành vi làm giả tài liệu của cơ quan, tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:17:00+07:00",
+      "fetched": "2026-02-24T23:56:01.570491+07:00"
+    },
+    {
+      "id": "5f8e2f1473c07391cb5412ce4188aca0",
+      "title": "Bảng xếp hạng V-League mới nhất: CLB CAHN lừng lững ngôi đầu, HAGL đẩy Nam Định vào thế nguy nan",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-clb-cahn-lung-lung-ngoi-dau-hagl-day-nam-dinh-vao-the-nguy-nan-185260224210714791.htm",
+      "summary": "CLB Công an Hà Nội (CAHN) xây chắc ngôi đầu trên bảng xếp hạng V-League 2025-2026 sau chiến thắng trước CLB Thanh Hóa vào tối 24.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:05:00+07:00",
+      "fetched": "2026-02-24T23:56:01.570640+07:00"
+    },
+    {
+      "id": "5b4879faed8e5a0aaf1d4467f0fe75c6",
+      "title": "Highlight CLB Thanh Hóa 1-3 CLB CAHN: Siêu phẩm sút xa của Đoàn Văn Hậu",
+      "link": "https://thanhnien.vn/highlight-clb-thanh-hoa-1-3-clb-cahn-sieu-pham-sut-xa-cua-doan-van-hau-185260224214849537.htm",
+      "summary": "Đoàn Văn Hậu đã có cú sút xa tuyệt đẹp để góp công đưa CLB CAHN ngược dòng thành công trước CLB Thanh Hóa ở trận đấu bù vòng 10 V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T14:48:00+07:00",
+      "fetched": "2026-02-24T23:56:01.570786+07:00"
+    },
+    {
+      "id": "db950310de3d705c7110f11e8c2249f7",
+      "title": "Nam Định kém Công an Hà Nội 20 điểm sau lượt đi V-League",
+      "link": "https://vnexpress.net/nam-dinh-kem-cong-an-ha-noi-20-diem-sau-luot-di-v-league-5043707.html",
+      "summary": "Thua Thể Công 0-1 ở trận đấu bù vòng 10, ĐKVĐ Nam Định bị Công an Hà Nội bỏ xa sau lượt đi V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T14:46:27+07:00",
+      "fetched": "2026-02-24T23:55:58.241750+07:00"
+    },
+    {
+      "id": "db950310de3d705c7110f11e8c2249f7",
+      "title": "Nam Định kém Công an Hà Nội 20 điểm sau lượt đi V-League",
+      "link": "https://vnexpress.net/nam-dinh-kem-cong-an-ha-noi-20-diem-sau-luot-di-v-league-5043707.html",
+      "summary": "Thua Thể Công 0-1 ở trận đấu bù vòng 10, ĐKVĐ Nam Định bị Công an Hà Nội bỏ xa sau lượt đi V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-24T14:46:27+07:00",
+      "fetched": "2026-02-24T23:56:08.874463+07:00"
+    },
+    {
+      "id": "967463e9c77400e8f9b8ef92664f12e9",
+      "title": "Iran cảnh báo sinh viên về 'lằn ranh đỏ' khi biểu tình",
+      "link": "https://vnexpress.net/iran-canh-bao-sinh-vien-ve-lan-ranh-do-khi-bieu-tinh-5043711.html",
+      "summary": "Chính phủ Iran yêu cầu giới sinh viên không được vượt qua các \"lằn ranh đỏ\" trong lúc biểu tình, sau khi xuất hiện thông tin quốc kỳ nước này bị đốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T14:45:16+07:00",
+      "fetched": "2026-02-24T23:55:58.241904+07:00"
+    },
+    {
+      "id": "967463e9c77400e8f9b8ef92664f12e9",
+      "title": "Iran cảnh báo sinh viên về 'lằn ranh đỏ' khi biểu tình",
+      "link": "https://vnexpress.net/iran-canh-bao-sinh-vien-ve-lan-ranh-do-khi-bieu-tinh-5043711.html",
+      "summary": "Chính phủ Iran yêu cầu giới sinh viên không được vượt qua các \"lằn ranh đỏ\" trong lúc biểu tình, sau khi xuất hiện thông tin quốc kỳ nước này bị đốt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T14:45:16+07:00",
+      "fetched": "2026-02-24T23:56:03.787439+07:00"
+    },
+    {
+      "id": "2e0f3affccd4cd0af43fde7a977a4804",
+      "title": "Danh ca Khánh Ly khóc khi thăm nhà Trịnh Công Sơn sau 25 năm",
+      "link": "https://vnexpress.net/danh-ca-khanh-ly-khoc-khi-tham-nha-trinh-cong-son-sau-25-nam-5043499.html",
+      "summary": "Danh ca Khánh Ly khóc trước di ảnh Trịnh Công Sơn khi thăm ngôi nhà cuối đời của ông, tưởng nhớ 25 năm ngày nhạc sĩ rời cõi tạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T14:44:44+07:00",
+      "fetched": "2026-02-24T23:55:58.242078+07:00"
+    },
+    {
+      "id": "e0db10af529d52c0680bdbb1d5f4d1f6",
+      "title": "Đoàn Văn Hậu lập siêu phẩm để 'sửa sai' cho Đình Bắc",
+      "link": "https://vnexpress.net/doan-van-hau-lap-sieu-pham-de-sua-sai-cho-dinh-bac-5043715.html",
+      "summary": "Hậu vệ Đoàn Văn Hậu ghi bàn từ giữa sân, giúp Công an Hà Nội thắng ngược Thanh Hóa 3-1 ở trận đấu bù vòng 10 V-League 2025-2026 tối 24/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T14:43:55+07:00",
+      "fetched": "2026-02-24T23:55:58.242234+07:00"
+    },
+    {
+      "id": "e0db10af529d52c0680bdbb1d5f4d1f6",
+      "title": "Đoàn Văn Hậu lập siêu phẩm để 'sửa sai' cho Đình Bắc",
+      "link": "https://vnexpress.net/doan-van-hau-lap-sieu-pham-de-sua-sai-cho-dinh-bac-5043715.html",
+      "summary": "Hậu vệ Đoàn Văn Hậu ghi bàn từ giữa sân, giúp Công an Hà Nội thắng ngược Thanh Hóa 3-1 ở trận đấu bù vòng 10 V-League 2025-2026 tối 24/2.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-24T14:43:55+07:00",
+      "fetched": "2026-02-24T23:56:08.874640+07:00"
+    },
+    {
       "id": "01c1c34496bf780013e199b6cb849824",
       "title": "Tình báo Nga nói Anh và Pháp tính cấp vũ khí hạt nhân cho Ukraine",
       "link": "https://thanhnien.vn/tinh-bao-nga-noi-anh-va-phap-tinh-cap-vu-khi-hat-nhan-cho-ukraine-185260224210336161.htm",
@@ -633,6 +983,16 @@ window.newsData_2026_02_24 = {
       "fetched": "2026-02-24T21:43:53.343159+07:00"
     },
     {
+      "id": "aaa9201c5944659f3a0bd0f8f8ffbec3",
+      "title": "Phó tổng giám đốc nhiệt điện Quảng Ninh bị tạm giam",
+      "link": "https://vnexpress.net/pho-tong-giam-doc-nhiet-dien-quang-ninh-bi-tam-giam-5043719.html",
+      "summary": "Ông Lê Việt Cường, Phó tổng giám đốc Công ty Cổ phần Nhiệt điện Quảng Ninh, bị cáo buộc làm giả tài liệu cơ quan tổ chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T14:18:53+07:00",
+      "fetched": "2026-02-24T23:55:58.242332+07:00"
+    },
+    {
       "id": "066071a924f0bcf7d72cf9a40cfc3155",
       "title": "Mỹ, Canada thu hồi hơn 1.530 tấn cơm chiên vì nguy cơ lẫn mảnh kính",
       "link": "https://vnexpress.net/my-canada-thu-hoi-hon-1-530-tan-com-chien-vi-nguy-co-lan-manh-kinh-5043533.html",
@@ -651,6 +1011,46 @@ window.newsData_2026_02_24 = {
       "category": "Thế giới",
       "published": "2026-02-24T14:00:00+07:00",
       "fetched": "2026-02-24T21:44:00.727582+07:00"
+    },
+    {
+      "id": "c797077a575493a85ba75458638342af",
+      "title": "Mẹ chồng dạy tôi 'chồng chửi cũng phải nhịn để giữ hạnh phúc'",
+      "link": "https://vnexpress.net/tiktoker-thang-khong-kip-tiktoker-phung-van-thang-me-chong-day-toi-chong-chui-cung-phai-nhin-de-giu-hanh-phuc-5043640.html",
+      "summary": "Thời của mẹ, phụ nữ được dạy rằng nhẫn nhịn là đức hạnh, nhưng tôi tin rằng thế hệ của mình không cần im lặng để giữ hạnh phúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T14:00:00+07:00",
+      "fetched": "2026-02-24T23:55:58.242484+07:00"
+    },
+    {
+      "id": "2406deb736e61d9de3c011a969bbef9a",
+      "title": "Tìm người đàn ông đủ bản lĩnh để cùng nhau đi đường dài",
+      "link": "https://vnexpress.net/tim-nguoi-dan-ong-du-ban-linh-de-cung-nhau-di-duong-dai-5043425.html",
+      "summary": "Em sinh năm 1993, sinh ra và lớn lên ở Sài Gòn, hiện vẫn sống, làm việc tại đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T14:00:00+07:00",
+      "fetched": "2026-02-24T23:55:58.242738+07:00"
+    },
+    {
+      "id": "2528086e7a857de5e9af9bd3c99b22c1",
+      "title": "Chồng 50 tuổi bắt hai ngày gần gũi một lần, kể cả khi tôi ốm",
+      "link": "https://vnexpress.net/chong-50-tuoi-bat-hai-ngay-gan-gui-mot-lan-ke-ca-khi-toi-om-5043391.html",
+      "summary": "Tôi lo vài năm nữa, khi không thể đáp ứng, trong khi anh vẫn ham muốn nhiều như vậy, cuộc sống của tôi sẽ mệt mỏi nhường nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T14:00:00+07:00",
+      "fetched": "2026-02-24T23:55:58.242892+07:00"
+    },
+    {
+      "id": "5ad07a76ccec799f20d4df1910041653",
+      "title": "Nên làm hợp đồng tặng cho hay lập di chúc để lại tài sản cho con?",
+      "link": "https://vnexpress.net/nen-lam-hop-dong-tang-cho-hay-lap-di-chuc-de-lai-tai-san-cho-con-5042279.html",
+      "summary": "Trước khi kết hôn với chồng hiện tại, tôi có một con trai riêng và giờ muốn đảm bảo tương lai cho cháu bằng tài sản của bản thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T14:00:00+07:00",
+      "fetched": "2026-02-24T23:55:58.243222+07:00"
     },
     {
       "id": "d6d82e086483e2896c675a3d48fedeb8",
