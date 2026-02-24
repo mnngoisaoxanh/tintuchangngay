@@ -1,6 +1,6 @@
 window.newsData_2026_02_25 = {
   "date": "2026-02-25",
-  "lastUpdated": "2026-02-25T03:24:48.068720+07:00",
+  "lastUpdated": "2026-02-25T05:23:57.245233+07:00",
   "articles": [
     {
       "id": "fd6097b63fe221f247829b3e356da859",
@@ -151,6 +151,166 @@ window.newsData_2026_02_25 = {
       "category": "Tổng hợp",
       "published": "2026-02-25T01:48:11.518541+07:00",
       "fetched": "2026-02-25T01:48:11.518771+07:00"
+    },
+    {
+      "id": "bff78bf66c27091d30af521ffca569ee",
+      "title": "Tử vi ngày 25 tháng 2: 2 con giáp bứt tốc, 2 tuổi nên cẩn trọng giữa tuần",
+      "link": "https://thanhnien.vn/tu-vi-ngay-25-thang-2-2-con-giap-but-toc-2-tuoi-nen-can-trong-giua-tuan-185260224170611355.htm",
+      "summary": "Tử vi ngày 25 tháng 2 mang đến những gợi ý mang tính tham khảo cho 12 con giáp khi giữa tuần bắt đầu lộ rõ sự phân hóa. Có người được đà tiến lên, có người cần điều chỉnh nhịp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T22:15:00+07:00",
+      "fetched": "2026-02-25T05:23:49.872670+07:00"
+    },
+    {
+      "id": "9bc6af4bfe184a53b518be14f1d6766f",
+      "title": "Lực lượng tàu dân binh Trung Quốc nhiều kỷ lục ở Biển Đông?",
+      "link": "https://thanhnien.vn/luc-luong-tau-dan-binh-trung-quoc-nhieu-ky-luc-o-bien-dong-185260224221115957.htm",
+      "summary": "Sáng kiến Minh bạch hàng hải châu Á (AMTI), thuộc Trung tâm nghiên cứu chiến lược và quốc tế (CSIS) có trụ sở đặt tại Mỹ, vừa công bố báo cáo về hoạt động của tàu dân binh Trung Quốc ở Biển Đông trong năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T22:07:00+07:00",
+      "fetched": "2026-02-25T05:23:49.872844+07:00"
+    },
+    {
+      "id": "efc46413ea38c257ff4512149b58b974",
+      "title": "Ông Trump làm rõ quan điểm của tướng Mỹ về tấn công Iran",
+      "link": "https://thanhnien.vn/ong-trump-lam-ro-quan-diem-cua-tuong-my-ve-tan-cong-iran-185260224210343115.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 23.2 bác bỏ thông tin cho rằng Chủ tịch Hội đồng Tham mưu trưởng liên quân Mỹ Dan Caine đã phản đối gây chiến với Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T22:01:00+07:00",
+      "fetched": "2026-02-25T05:23:49.873024+07:00"
+    },
+    {
+      "id": "e80823c212afbba34750db2bd54cad9b",
+      "title": "Hai loại hoa, quả không nên 'tận dụng' sau Tết",
+      "link": "https://vnexpress.net/hai-loai-hoa-qua-khong-nen-tan-dung-sau-tet-5043447.html",
+      "summary": "Sau Tết, mọi người không nên tận dụng quất cảnh để ngâm mật ong hay hoa cúc làm trà, do chúng có sử dụng thuốc kích thích, chất bảo quản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T22:00:00+07:00",
+      "fetched": "2026-02-25T05:23:47.071680+07:00"
+    },
+    {
+      "id": "b3e74e4f63d8d0926ffca13d958ef8a9",
+      "title": "Vòng xoáy bạo lực ở Mexico khi trùm ma túy El Mencho bị tiêu diệt",
+      "link": "https://vnexpress.net/vong-xoay-bao-luc-o-mexico-khi-trum-ma-tuy-el-mencho-bi-tieu-diet-5043324.html",
+      "summary": "Trùm ma túy El Mencho bị tiêu diệt châm ngòi làn sóng bạo lực lan rộng ở Mexico, làm dấy lên nguy cơ nội chiến băng đảng và hỗn loạn an ninh khó lường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T22:00:00+07:00",
+      "fetched": "2026-02-25T05:23:47.071893+07:00"
+    },
+    {
+      "id": "095ae0280ab42c8faf9a8ee4cdde5255",
+      "title": "Vượt ẩu ôtô mất lái lao xuống ruộng",
+      "link": "https://vnexpress.net/vuot-au-oto-mat-lai-lao-xuong-ruong-5043613.html",
+      "summary": "Trời mưa, đường trơn trượt chiếc xe Zace phóng nhanh vượt ẩu mất lái lao thẳng xuống ruộng hôm 22/2 tại Vĩnh Lộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T22:00:00+07:00",
+      "fetched": "2026-02-25T05:23:47.072084+07:00"
+    },
+    {
+      "id": "ebbbf82293f6a02a12a2eeca088fd3d7",
+      "title": "Không còn làn sóng 'nhảy việc' sau tết",
+      "link": "https://thanhnien.vn/khong-con-lan-song-nhay-viec-sau-tet-185260224195339671.htm",
+      "summary": "Thị trường lao động sau tết Nguyên đán Bính Ngọ 2026 ghi nhận sự ổn định rõ rệt. Với tỷ lệ người lao động quay lại nhà máy đạt trên 95%, hiện tượng biến động nhân sự quy mô lớn đã không xảy ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T22:00:00+07:00",
+      "fetched": "2026-02-25T05:23:49.873188+07:00"
+    },
+    {
+      "id": "1a3d8e46d6a3a43cb4622ef463f3a303",
+      "title": "Tiết Vũ thủy kéo dài qua ngày Thần tài: Theo lịch âm, ngày mấy kết thúc?",
+      "link": "https://thanhnien.vn/tiet-vu-thuy-keo-dai-qua-ngay-than-tai-theo-lich-am-ngay-may-ket-thuc-18526022417420682.htm",
+      "summary": "Ngày mai mùng 10 tháng giêng, người Việt sẽ đón ngày Thần tài trong tiết khí Vũ thủy. Tiết khí này còn kéo dài trong bao nhiêu ngày nữa? Tiết khí tiếp theo là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T22:00:00+07:00",
+      "fetched": "2026-02-25T05:23:49.873344+07:00"
+    },
+    {
+      "id": "bbe996b1ed979a3f0e8851008e703d4e",
+      "title": "TP.HCM: Tại sao đất công mua bán giấy tay thành gara ô tô, quán cà phê?",
+      "link": "https://thanhnien.vn/tphcm-tai-sao-dat-cong-mua-ban-giay-tay-thanh-gara-o-to-quan-ca-phe-185260224173609003.htm",
+      "summary": "Đất công ở phường Phước Thắng (TP.HCM) được mua bán bằng giấy viết tay; hiện là quán cà phê 'hát với nhau', một phần làm gara sửa ô tô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T22:00:00+07:00",
+      "fetched": "2026-02-25T05:23:49.873496+07:00"
+    },
+    {
+      "id": "dfc93f71407e4b6555011e9acf26ed12",
+      "title": "Cảnh báo những nguy cơ khi sử dụng các sản phẩm làm trắng răng",
+      "link": "https://thanhnien.vn/canh-bao-nhung-nguy-co-khi-su-dung-cac-san-pham-lam-trang-rang-185260224105519016.htm",
+      "summary": "Trong cuộc sống hiện đại, sở hữu một hàm răng trắng sáng giúp nhiều người tự tin hơn trong giao tiếp. Tuy nhiên, theo chuyên trang sức khỏe Verywell Health, phương pháp thẩm mỹ này không hoàn toàn vô hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T22:00:00+07:00",
+      "fetched": "2026-02-25T05:23:49.873656+07:00"
+    },
+    {
+      "id": "b3e74e4f63d8d0926ffca13d958ef8a9",
+      "title": "Vòng xoáy bạo lực ở Mexico khi trùm ma túy El Mencho bị tiêu diệt",
+      "link": "https://vnexpress.net/vong-xoay-bao-luc-o-mexico-khi-trum-ma-tuy-el-mencho-bi-tieu-diet-5043324.html",
+      "summary": "Trùm ma túy El Mencho bị tiêu diệt châm ngòi làn sóng bạo lực lan rộng ở Mexico, làm dấy lên nguy cơ nội chiến băng đảng và hỗn loạn an ninh khó lường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T22:00:00+07:00",
+      "fetched": "2026-02-25T05:23:52.030232+07:00"
+    },
+    {
+      "id": "a6ac51e29186d13b33b2550e9619e1e7",
+      "title": "Xe ôm và 'bão' xe công nghệ ở TP.HCM: 'Nghề này, đời mình chịu là đủ rồi'",
+      "link": "https://thanhnien.vn/xe-om-va-bao-xe-cong-nghe-o-tphcm-nghe-nay-doi-minh-chiu-la-du-roi-185250327091037784.htm",
+      "summary": "Khi những tài xế xe ôm truyền thống rời đi, thành phố không chỉ mất một phương tiện di chuyển. Thành phố mất đi những 'cuốn từ điển sống' về đường phố - những con người hiểu Sài Gòn bằng trải nghiệm, chứ không chỉ bằng dữ liệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:45:00+07:00",
+      "fetched": "2026-02-25T05:23:49.873807+07:00"
+    },
+    {
+      "id": "54b22a5dc4ec8f3985ec5e583932d33a",
+      "title": "Chiến sự Ukraine ngày 1.462: Chấn động cáo buộc hạt nhân, Nga cảnh báo xung đột",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1462-chan-dong-cao-buoc-hat-nhan-nga-canh-bao-xung-dot-185260224220814714.htm",
+      "summary": "Nga cho rằng Anh và Pháp đang âm mưu cung cấp vũ khí hạt nhân cho Ukraine để giúp Kyiv giành điều kiện thuận lợi trên bàn đàm phán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:42:00+07:00",
+      "fetched": "2026-02-25T05:23:49.873959+07:00"
+    },
+    {
+      "id": "af83c4397788a57db17dc03bbd047fa3",
+      "title": "Xuất hiện số thần tài trong giải độc đắc Vietlott, tiền cộng dồn 80,5 tỉ đồng",
+      "link": "https://thanhnien.vn/xuat-hien-so-than-tai-trong-giai-doc-dac-vietlott-tien-cong-don-805-ti-dong-185260224190155297.htm",
+      "summary": "Tối 24.2 (mùng 8 tết), Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, tuy nhiên trong dãy số có một số thần tài (39) đồng thời không xuất hiện người trúng độc đắc nên số tiền cộng dồn là 80,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:30:00+07:00",
+      "fetched": "2026-02-25T05:23:49.874141+07:00"
+    },
+    {
+      "id": "2c5fa5b90035b4bec548a7531f13221e",
+      "title": "Công nghiệp văn hóa phấn đấu đóng góp 7% GDP năm 2030",
+      "link": "https://vnexpress.net/cong-nghiep-van-hoa-phan-dau-dong-gop-7-gdp-nam-2030-5043737.html",
+      "summary": "Việt Nam đặt mục tiêu công nghiệp văn hóa đóng góp 7% GDP vào 2030, 9% vào 2045, đồng thời chi tối thiểu 2% tổng ngân sách nhà nước cho phát triển văn hóa theo Nghị quyết 80 của Bộ Chính trị. Hội nghị quán triệt Nghị quyết được tổ chức sáng 25/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:00:00+07:00",
+      "fetched": "2026-02-25T05:23:47.072259+07:00"
+    },
+    {
+      "id": "3fe48724bcfffeec38329c24e8674e07",
+      "title": "Doanh nghiệp cần vị trí nào nhất trong năm 2026, tiêu chí tuyển dụng là gì?",
+      "link": "https://thanhnien.vn/doanh-nghiep-can-vi-tri-nao-nhat-trong-nam-2026-tieu-chi-tuyen-dung-la-gi-185260224175208703.htm",
+      "summary": "Năm 2026, doanh nghiệp Việt Nam ưu tiên tuyển dụng người có kinh nghiệm, sẵn sàng đáp ứng công việc ngay (chiếm hơn 67%) nhưng cũng rộng cửa đón sinh viên mới ra trường, vì sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T21:00:00+07:00",
+      "fetched": "2026-02-25T05:23:49.874294+07:00"
     },
     {
       "id": "68188247cb9e8fd1ed68fbd8df6842b4",
