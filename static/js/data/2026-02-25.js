@@ -1,7 +1,157 @@
 window.newsData_2026_02_25 = {
   "date": "2026-02-25",
-  "lastUpdated": "2026-02-25T11:11:08.536459+07:00",
+  "lastUpdated": "2026-02-25T13:52:08.717381+07:00",
   "articles": [
+    {
+      "id": "1c6aad9f47512fb26b18f0175e7e7964",
+      "title": "Masterise đề xuất làm ven sông 8-10 làn xe Củ Chi - Cần Giờ và đường sắt bến xe Miền Tây - Ba Son",
+      "link": "https://tuoitre.vn/masterise-de-xuat-tp-hcm-lam-duong-bo-duong-sat-do-thi-doc-song-sai-gon-20260225113319416.htm",
+      "summary": "Masterise Group đề xuất nghiên cứu làm dự án đường ven sông Sài Gòn dài 78km cùng tuyến đường sắt đô thị dài 48,7km.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.255594+07:00",
+      "fetched": "2026-02-25T13:52:00.255712+07:00"
+    },
+    {
+      "id": "1da19a972a1ccfd2acefc39c1fd3f85e",
+      "title": "Bill Gates xin lỗi vì mối quan hệ với Epstein, phủ nhận dính líu hành vi phạm pháp",
+      "link": "https://tuoitre.vn/bill-gates-xin-loi-vi-moi-quan-he-voi-epstein-phu-nhan-dinh-liu-hanh-vi-pham-phap-20260225121322178.htm",
+      "summary": "Tỉ phú Bill Gates công khai xin lỗi về mối quan hệ trong quá khứ với Jeffrey Epstein, thừa nhận ông đã mắc sai lầm lớn khi duy trì quan hệ với người này, khẳng định không tham gia hay chứng kiến bất kỳ hành vi phạm pháp nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.255470+07:00",
+      "fetched": "2026-02-25T13:52:00.255583+07:00"
+    },
+    {
+      "id": "3797d72a06bfb26afc50e3684a583d88",
+      "title": "Thái Lan, Campuchia tranh cãi tại LHQ về đối phó với lừa đảo trực tuyến",
+      "link": "https://tuoitre.vn/thai-lan-campuchia-tranh-cai-tai-lhq-ve-doi-pho-voi-lua-dao-truc-tuyen-20260225120637647.htm",
+      "summary": "Thái Lan nói rằng các mạng lưới lừa đảo hoạt động là do thiếu luật ở nước sở tại, nhưng Campuchia chỉ trích sự can thiệp của nước ngoài là gây hấn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.255344+07:00",
+      "fetched": "2026-02-25T13:52:00.255455+07:00"
+    },
+    {
+      "id": "39c3a856369c175d817c19376e956d3f",
+      "title": "Thủ tướng: Không để chậm trễ trong việc báo cáo thành lập sàn giao dịch vàng quốc gia",
+      "link": "https://tuoitre.vn/thu-tuong-khong-de-cham-tre-trong-viec-bao-cao-thanh-lap-san-giao-dich-vang-quoc-gia-20260225114654831.htm",
+      "summary": "Thủ tướng Phạm Minh Chính vừa ký Chỉ thị số 06 về việc đôn đốc thực hiện nhiệm vụ trọng tâm sau kỳ nghỉ Tết Nguyên đán Bính Ngọ năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.255219+07:00",
+      "fetched": "2026-02-25T13:52:00.255332+07:00"
+    },
+    {
+      "id": "3fc244c4015b916b5bc28dd7e819c746",
+      "title": "Cựu danh thủ Kiatisak tiếc thương ông Nguyễn Văn Vinh",
+      "link": "https://tuoitre.vn/cuu-danh-thu-kiatisak-tiec-thuong-ong-nguyen-van-vinh-20260225122552295.htm",
+      "summary": "Cựu danh thủ Kiatisak Senamuang đã bày tỏ sự tiếc thương khi nghe tin ông Nguyễn Văn Vinh - cựu Giám đốc kỹ thuật CLB Hoàng Anh Gia Lai - qua đời ở tuổi 85.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.255090+07:00",
+      "fetched": "2026-02-25T13:52:00.255207+07:00"
+    },
+    {
+      "id": "c6f1c99b022ada2ab77687ad58d44421",
+      "title": "Khai xuân khởi sắc: Từ tiếng cồng HOSE đến nhịp kết nối toàn cầu",
+      "link": "https://tuoitre.vn/khai-xuan-khoi-sac-tu-tieng-cong-hose-den-nhip-ket-noi-toan-cau-20260225123914629.htm",
+      "summary": "Sáng 24-2, tại Sở Giao dịch Chứng khoán TP.HCM, lễ đánh cồng khai xuân Bính Ngọ diễn ra trang trọng, mở đầu năm giao dịch mới với nhiều kỳ vọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.254948+07:00",
+      "fetched": "2026-02-25T13:52:00.255077+07:00"
+    },
+    {
+      "id": "257584bb4614512e0988dd523c49acf2",
+      "title": "BlackPink, K-pop Demon Hunters dẫn đầu làn sóng Hallyu 2025",
+      "link": "https://tuoitre.vn/blackpink-k-pop-demon-hunters-dan-dau-lan-song-hallyu-2025-20260225120842696.htm",
+      "summary": "Báo cáo phân tích 1,5 triệu dữ liệu từ 30 quốc gia và vùng lãnh thổ cho thấy K-pop tiếp tục giữ vai trò trung tâm của làn sóng Hallyu. Trong đó, BlackPink là từ khóa nổi bật nhất năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.254827+07:00",
+      "fetched": "2026-02-25T13:52:00.254937+07:00"
+    },
+    {
+      "id": "f39273a1808d61acac2923d1a5c686ea",
+      "title": "Quả Dưa Hấu và gần 30 năm V-pop",
+      "link": "https://tuoitre.vn/qua-dua-hau-va-gan-30-nam-v-pop-20260225093358583.htm",
+      "summary": "Năm 2000, nhóm nhạc Quả Dưa Hấu tan rã và năm 2026, họ chính thức tái hợp. Giữa hai mốc đó là gần 30 năm V-pop và công nghiệp biểu diễn Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.254708+07:00",
+      "fetched": "2026-02-25T13:52:00.254816+07:00"
+    },
+    {
+      "id": "21fdbea890ea3f8d9a243c9bddd63c89",
+      "title": "Olivia Rodrigo vượt nhiều 'hit' tỉ stream, bất ngờ dẫn đầu bảng xếp hạng của Spotify",
+      "link": "https://tuoitre.vn/olivia-rodrigo-vuot-nhieu-hit-ti-stream-bat-ngo-dan-dau-bang-xep-hang-cua-spotify-20260225123927187.htm",
+      "summary": "Nền tảng nghe nhạc trực tuyến Spotify vừa công bố danh sách '100 ca khúc nhạc pop hay nhất kỷ nguyên streaming' do đội ngũ biên tập và chuyên gia âm nhạc nội bộ tuyển chọn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.254587+07:00",
+      "fetched": "2026-02-25T13:52:00.254697+07:00"
+    },
+    {
+      "id": "f3a64ff3ecadd2f658fddcf97e49177e",
+      "title": "Xe trị giá gần 1.000 tỉ lỡ bị bán với giá ngang thỏi son rồi biến mất, chủ treo thưởng 3 tỉ tìm lại",
+      "link": "https://tuoitre.vn/xe-tri-gia-gan-1-000-ti-lo-bi-ban-voi-gia-ngang-thoi-son-roi-bien-mat-chu-treo-thuong-3-ti-tim-lai-20260225105604855.htm",
+      "summary": "Chiếc Alfa Romeo 33 Stradale trị giá hơn 30 triệu euro bất ngờ \"bốc hơi\" tại Ý sau thương vụ chuyển nhượng chỉ 10 euro. Gia đình chủ nhân quá cố treo thưởng 100.000 euro, cảnh sát vào cuộc điều tra hình sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.254464+07:00",
+      "fetched": "2026-02-25T13:52:00.254575+07:00"
+    },
+    {
+      "id": "046e3cd7f901be4269e8228d183a6641",
+      "title": "Sân bay Liên Khương đóng cửa gần 6 tháng để nâng cấp hạ tầng, hủy toàn bộ các chuyến bay",
+      "link": "https://tuoitre.vn/san-bay-lien-khuong-dong-cua-gan-6-thang-de-nang-cap-ha-tang-huy-toan-bo-cac-chuyen-bay-20260225120057394.htm",
+      "summary": "Từ ngày 4-3, Cảng hàng không quốc tế Liên Khương sẽ tạm dừng hoạt động gần 6 tháng để sửa chữa đường băng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.254343+07:00",
+      "fetched": "2026-02-25T13:52:00.254453+07:00"
+    },
+    {
+      "id": "ca6efca1a0ddf1ad362f8fb1435b1384",
+      "title": "TP.HCM có thêm 25 tuyến xe buýt điện từ 1-3",
+      "link": "https://tuoitre.vn/tp-hcm-co-them-25-tuyen-xe-buyt-dien-tu-1-3-20260225123015516.htm",
+      "summary": "TP.HCM đưa vào hoạt động thêm 25 tuyến xe buýt điện từ 1-3, góp phần thúc đẩy giao thông xanh, thân thiện với môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.254217+07:00",
+      "fetched": "2026-02-25T13:52:00.254331+07:00"
+    },
+    {
+      "id": "5fdd94fe8cddf5d54049dd39a6a53bbd",
+      "title": "Petrovietnam phấn đấu vào top 500 doanh nghiệp lớn nhất thế giới",
+      "link": "https://tuoitre.vn/petrovietnam-phan-dau-vao-top-500-doanh-nghiep-lon-nhat-the-gioi-20260225124446034.htm",
+      "summary": "Chủ tịch Petrovietnam cho biết sẽ lấy dầu khí làm cốt lõi và mở rộng mạnh mẽ sang các lĩnh vực năng lượng sạch, năng lượng xanh, điện gió ngoài khơi, đồng thời phấn đấu vào top 500 doanh nghiệp lớn nhất thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.254085+07:00",
+      "fetched": "2026-02-25T13:52:00.254205+07:00"
+    },
+    {
+      "id": "18cf8fd0c5a04fb3197af3b387710b0b",
+      "title": "Cựu Thủ tướng Na Uy nhập viện sau khi bị điều tra liên quan Epstein",
+      "link": "https://tuoitre.vn/cuu-thu-tuong-na-uy-nhap-vien-sau-khi-bi-dieu-tra-lien-quan-epstein-20260225131437125.htm",
+      "summary": "Truyền thông Na Uy đưa tin cựu Thủ tướng Thorbjørn Jagland đã nhập viện, được cho là do tự sát bất thành sau khi ông bị truy tố liên quan đến tỉ phú ấu dâm Jeffrey Epstein.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.253923+07:00",
+      "fetched": "2026-02-25T13:52:00.254070+07:00"
+    },
+    {
+      "id": "5cdcde4ed948e6a1f48f108db9a5273d",
+      "title": "Đặc phái viên của Tổng Bí thư Tô Lâm gặp Tổng thống Nga Putin",
+      "link": "https://tuoitre.vn/dac-phai-vien-cua-tong-bi-thu-to-lam-gap-tong-thong-nga-putin-20260225125627539.htm",
+      "summary": "Tổng thống Nga Vladimir Putin khẳng định coi Tổng Bí thư Tô Lâm là người bạn thân thiết, sẵn sàng duy trì trao đổi các vấn đề chiến lược và quan hệ song phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:52:00.253687+07:00",
+      "fetched": "2026-02-25T13:52:00.253908+07:00"
+    },
     {
       "id": "9630e442e0884b72c51b0e6c782c924d",
       "title": "Cảnh sát bắn chết nghi phạm đâm tử vong 4 người ở Mỹ",
@@ -301,6 +451,396 @@ window.newsData_2026_02_25 = {
       "category": "Tổng hợp",
       "published": "2026-02-25T08:19:10.930306+07:00",
       "fetched": "2026-02-25T08:19:10.930558+07:00"
+    },
+    {
+      "id": "688bc926e0739eab10a2bc0298dda574",
+      "title": "Chàng trai Khmer từng là Nam vương Toàn cầu giờ ra sao?",
+      "link": "https://thanhnien.vn/chang-trai-khmer-tung-la-nam-vuong-toan-cau-gio-ra-sao-185260225112721489.htm",
+      "summary": "Sau 5 năm được bổ nhiệm Nam vương Toàn cầu, Danh Chiếu Linh tiếp tục đón tin vui khi được trao cơ hội làm Trưởng ban tổ chức cuộc thi Nam vương Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T06:49:00+07:00",
+      "fetched": "2026-02-25T13:51:59.067920+07:00"
+    },
+    {
+      "id": "60bc8ea1e6d29e4a5270b2580f182a97",
+      "title": "Tình báo Nga tố Anh , Pháp mưu tính chuyển vũ khí hạt nhân cho Ukraine",
+      "link": "https://thanhnien.vn/tinh-bao-nga-to-anh-phap-muu-tinh-chuyen-vu-khi-hat-nhan-cho-ukraine-185260225123203773.htm",
+      "summary": "Tình báo Nga cho rằng Anh và Pháp đang tính giúp Ukraine sở hữu vũ khí hạt nhân nhằm đạt điều khoản thuận lợi trong đàm phán với Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T06:48:00+07:00",
+      "fetched": "2026-02-25T13:51:59.068113+07:00"
+    },
+    {
+      "id": "3716111ee5eb8b1798badb519f2bb229",
+      "title": "Cần Thơ: Bắt nhân viên tham ô tài sản của công ty hơn 300 triệu đồng",
+      "link": "https://thanhnien.vn/can-tho-bat-nhan-vien-tham-o-tai-san-cua-cong-ty-hon-300-trieu-dong-185260225121439572.htm",
+      "summary": "Lợi dụng chính sách bán hàng công nợ của công ty để chiếm đoạt số tiền hơn 300 triệu đồng, Trần Thanh Sang (26 tuổi) bị khởi tố về hành vi tham ô tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T06:46:00+07:00",
+      "fetched": "2026-02-25T13:51:59.068273+07:00"
+    },
+    {
+      "id": "7d52bf5db29c8a7f4b6cfbc166c3ee00",
+      "title": "Phim tết của Trấn Thành lại có thêm thành tích mới",
+      "link": "https://thanhnien.vn/phim-tet-cua-tran-thanh-lai-co-them-thanh-tich-moi-185260225121547948.htm",
+      "summary": "'Thỏ ơi' của Trấn Thành chính thức cán mốc 300 tỉ đồng doanh thu sau hơn 8 ngày ra rạp. Thời gian qua, phim liên tục giữ vị trí dẫn đầu tại phòng vé, bỏ xa các đối thủ khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T06:45:00+07:00",
+      "fetched": "2026-02-25T13:51:59.068426+07:00"
+    },
+    {
+      "id": "4b7944baab47e3dd0eefde75bc39b4e3",
+      "title": "Xuân Son và Hoàng Hên cùng khoác áo U.23 Việt Nam đá ASIAD 20?",
+      "link": "https://thanhnien.vn/xuan-son-va-hoang-hen-cung-khoac-ao-u23-viet-nam-da-asiad-20-18526022513182027.htm",
+      "summary": "HLV Kim Sang-sik cần tính toán nhân sự cho suất cầu thủ quá tuổi ở ASIAD 20 (diễn ra tháng 9 năm nay), khi U.23 Việt Nam phải có chất liệu kinh nghiệm từ đàn anh để làm nên chuyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T06:23:00+07:00",
+      "fetched": "2026-02-25T13:51:59.068576+07:00"
+    },
+    {
+      "id": "844e717de6c1df487d356e459e2e13fe",
+      "title": "Di chuyển que diêm nào phép tính sai thành đúng?",
+      "link": "https://vnexpress.net/di-chuyen-que-diem-nao-phep-tinh-sai-thanh-dung-5043609.html",
+      "summary": "Câu đố que diêm này không chỉ kiểm tra khả năng quan sát mà còn thử độ linh hoạt của tư duy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T06:21:00+07:00",
+      "fetched": "2026-02-25T13:51:55.490361+07:00"
+    },
+    {
+      "id": "457456ddbbe6c9dddbc3018f7ad44e3f",
+      "title": "Công an TP.HCM tìm thấy 2 thi thể ở kênh Tàu Hủ",
+      "link": "https://thanhnien.vn/cong-an-tphcm-tim-thay-2-thi-the-o-kenh-tau-hu-185260225130442986.htm",
+      "summary": "Các chiến sĩ Cảnh sát PCCC và cứu nạn cứu hộ Công an TP.HCM nỗ lực tìm kiếm, trục vớt 2 thi thể dưới kênh Tàu Hủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T06:19:00+07:00",
+      "fetched": "2026-02-25T13:51:59.068727+07:00"
+    },
+    {
+      "id": "8904f7063c2c8ef4adec2d2a498c4d9f",
+      "title": "Việt Nam 1-0 Philippines, futsal nữ Đông Nam Á: Thanh Ngân mở tỷ số",
+      "link": "https://thanhnien.vn/viet-nam-0-0-philippines-futsal-nu-dong-nam-a-buoc-phai-thang-185260225125904947.htm",
+      "summary": "13 giờ 30 hôm nay (25.2), đội tuyển futsal nữ Việt Nam chạm trán với đội tuyển futsal nữ Philippines, ở trận đấu thuộc lượt trận thứ hai bảng B - giải futsal nữ Đông Nam Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T06:13:00+07:00",
+      "fetched": "2026-02-25T13:51:59.068888+07:00"
+    },
+    {
+      "id": "5dfb7812d7e3e181ebac50a5f02f2d91",
+      "title": "Phán quyết của Tòa án Mỹ có thể giúp Ấn Độ tiếp tục mua dầu Nga",
+      "link": "https://vnexpress.net/phan-quyet-cua-toa-an-my-co-the-giup-an-do-tiep-tuc-mua-dau-nga-5043847.html",
+      "summary": "Phán quyết bác bỏ chính sách thuế của ông Trump khiến nỗ lực dùng thuế quan để ngăn Ấn Độ mua dầu Nga trở nên khó khăn hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T06:05:00+07:00",
+      "fetched": "2026-02-25T13:51:55.490538+07:00"
+    },
+    {
+      "id": "5dfb7812d7e3e181ebac50a5f02f2d91",
+      "title": "Phán quyết của Tòa án Mỹ có thể giúp Ấn Độ tiếp tục mua dầu Nga",
+      "link": "https://vnexpress.net/phan-quyet-cua-toa-an-my-co-the-giup-an-do-tiep-tuc-mua-dau-nga-5043847.html",
+      "summary": "Phán quyết bác bỏ chính sách thuế của ông Trump khiến nỗ lực dùng thuế quan để ngăn Ấn Độ mua dầu Nga trở nên khó khăn hơn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-25T06:05:00+07:00",
+      "fetched": "2026-02-25T13:52:04.000582+07:00"
+    },
+    {
+      "id": "fc1cb4800af38fd856fe5f83b160f3af",
+      "title": "Tôi mua hai nhà làm thừa kế cho con chứ nhất quyết không cho tiền",
+      "link": "https://vnexpress.net/thua-ke-the-vi-thua-ke-theo-di-chuc-toi-mua-hai-nha-lam-thua-ke-cho-con-chu-nhat-quyet-khong-cho-tien-5043866.html",
+      "summary": "'Sau này mỗi đứa một căn, thích thì ở hoặc cho thuê, chứ không có chuyện cho tiền mặt', tôi nói thẳng khi con trai xin vốn đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T06:00:00+07:00",
+      "fetched": "2026-02-25T13:51:55.490707+07:00"
+    },
+    {
+      "id": "f0b0a0fb3d0211794140b90add7c3c3c",
+      "title": "Ở tuổi 51, tôi muốn đi bước nữa nhưng ngại có con",
+      "link": "https://vnexpress.net/di-buoc-nua-o-tuoi-51-toi-muon-di-buoc-nua-nhung-ngai-co-con-5043721.html",
+      "summary": "Khi tan làm, muốn về nhà để nghỉ ngơi lại cảm thấy lạc lõng, cô đơn trong căn nhà của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T06:00:00+07:00",
+      "fetched": "2026-02-25T13:51:55.490866+07:00"
+    },
+    {
+      "id": "f8e23a19c8a4fd96c3dfa03728e2c5b3",
+      "title": "7 dấu hiệu âm thầm cảnh báo tăng huyết áp",
+      "link": "https://vnexpress.net/7-dau-hieu-am-tham-canh-bao-tang-huyet-ap-5043581.html",
+      "summary": "Tăng huyết áp thường không có triệu chứng rõ ràng, song đôi khi gây đau đầu buổi sáng, mệt mỏi, khó thở nhẹ hoặc nhìn mờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T06:00:00+07:00",
+      "fetched": "2026-02-25T13:51:55.491040+07:00"
+    },
+    {
+      "id": "52691b7d26c1a9a975ed7507acd8f56c",
+      "title": "Sun PhuQuoc Airways mở đường bay đến Đà Nẵng",
+      "link": "https://vnexpress.net/sun-phuquoc-airways-mo-duong-bay-den-da-nang-5043937.html",
+      "summary": "Hãng hàng không Sun PhuQuoc Airways (SPA) của Sun Group khai trương đường bay từ Hà Nội, TP HCM đến Đà Nẵng ngày 25/2, tần suất hai chuyến mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T06:00:00+07:00",
+      "fetched": "2026-02-25T13:51:55.491200+07:00"
+    },
+    {
+      "id": "913948bed4c3eb9c4ccfdc3b75d3f6b0",
+      "title": "Sửa đổi luật Đất đai trong năm 2026",
+      "link": "https://thanhnien.vn/sua-doi-luat-dat-dai-trong-nam-2026-185260225115619527.htm",
+      "summary": "Sáng 25.2, Trưởng ban Chính sách, Chiến lược Trung ương Nguyễn Thanh Nghị truyền đạt nội dung trọng tâm, cốt lõi của Nghị quyết 79 của Bộ Chính trị về phát triển kinh tế nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T06:00:00+07:00",
+      "fetched": "2026-02-25T13:51:59.069062+07:00"
+    },
+    {
+      "id": "ad9f0535a0a754d4e4f1b39ac6ff59ff",
+      "title": "Kiatisuk nghẹn ngào tiếc thương HLV Nguyễn Văn Vinh, mong ông yên nghỉ",
+      "link": "https://thanhnien.vn/kiatisuk-nghen-ngao-tiec-thuong-hlv-nguyen-van-vinh-mong-ong-yen-nghi-185260225125022568.htm",
+      "summary": "Trên tài khoản cá nhân mạng xã hội, cựu danh thủ Thái Lan, Kiatisuk Senamuang, người có những ngày đầu đến CLB HAGL thi đấu, đã được cố danh thủ, HLV Nguyễn Văn Vinh hướng dẫn và tư vấn về bóng đá Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T05:53:00+07:00",
+      "fetched": "2026-02-25T13:51:59.069224+07:00"
+    },
+    {
+      "id": "547804d197dae3330c766bd92a3cfe8d",
+      "title": "Đối tác khởi nghiệp nào được sử dụng tòa nhà 17.000 m2 tại trung tâm TP.HCM?",
+      "link": "https://thanhnien.vn/doi-tac-khoi-nghiep-nao-duoc-su-dung-toa-nha-17000-m2-tai-trung-tam-tphcm-185260225121019209.htm",
+      "summary": "Không gian làm việc rộng 17.000 m2 tại trung tâm TP.HCM ưu tiên các tổ chức, cá nhân cam kết đồng hành dài hạn và có kế hoạch hỗ trợ cộng đồng khởi nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T05:52:00+07:00",
+      "fetched": "2026-02-25T13:51:59.069379+07:00"
+    },
+    {
+      "id": "f120680934481a9043243818c6bb8f96",
+      "title": "Khu vực kinh tế nhà nước phải được cơ cấu lại mạnh mẽ",
+      "link": "https://thanhnien.vn/khu-vuc-kinh-te-nha-nuoc-phai-duoc-co-cau-lai-manh-me-185260225112153563.htm",
+      "summary": "Tổng Bí thư nhấn mạnh, kinh tế nhà nước phải chiếm lĩnh được \"những cao điểm chiến lược chỉ huy\" của nền kinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T05:52:00+07:00",
+      "fetched": "2026-02-25T13:51:59.069531+07:00"
+    },
+    {
+      "id": "8fcceab9e5b5473ac9b2d981fafd26d6",
+      "title": "Ngày vía Thần tài 2026: Mua vàng ngày này sẽ có lộc quanh năm?",
+      "link": "https://thanhnien.vn/ngay-via-than-tai-2026-mua-vang-ngay-nay-se-co-loc-quanh-nam-185260225122104629.htm",
+      "summary": "Ngày vía Thần tài mùng 10 tháng giêng, tại các đô thị lớn người dân lại chen chân mua vàng 'lấy lộc' đầu năm. Có thật mua vàng ngày này sẽ có lộc quanh năm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T05:50:00+07:00",
+      "fetched": "2026-02-25T13:51:59.069676+07:00"
+    },
+    {
+      "id": "54a2153c74f460187895b32cf82c6ea5",
+      "title": "Laporta: 'Messi không hồi âm lời mời trở lại Barca'",
+      "link": "https://vnexpress.net/laporta-messi-khong-hoi-am-loi-moi-tro-lai-barca-5043945.html",
+      "summary": "Trong cuốn sách mang tên Así salvamos al Barça (Cách chúng tôi cứu lấy Barca) phát hành ngày 24/2, Chủ tịch CLB vừa từ nhiệm Joan Laporta tiết lộ về cơ hội tái hợp với Lionel Messi tại Barca sau khi siêu sao sinh năm 1987 rời PSG hè 2023.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T05:48:28+07:00",
+      "fetched": "2026-02-25T13:51:55.491355+07:00"
+    },
+    {
+      "id": "54a2153c74f460187895b32cf82c6ea5",
+      "title": "Laporta: 'Messi không hồi âm lời mời trở lại Barca'",
+      "link": "https://vnexpress.net/laporta-messi-khong-hoi-am-loi-moi-tro-lai-barca-5043945.html",
+      "summary": "Trong cuốn sách mang tên Así salvamos al Barça (Cách chúng tôi cứu lấy Barca) phát hành ngày 24/2, Chủ tịch CLB vừa từ nhiệm Joan Laporta tiết lộ về cơ hội tái hợp với Lionel Messi tại Barca sau khi siêu sao sinh năm 1987 rời PSG hè 2023.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-25T05:48:28+07:00",
+      "fetched": "2026-02-25T13:52:08.709075+07:00"
+    },
+    {
+      "id": "c0940533ac9079f30a726fa3e6a3ad51",
+      "title": "Có nên bật máy hút ẩm cả ngày?",
+      "link": "https://vnexpress.net/co-nen-bat-may-hut-am-ca-ngay-5043900.html",
+      "summary": "Tôi mới mua máy hút ẩm và bật cả buổi thấy phòng khô ráo nhưng có vẻ nhiệt độ không khí cao hơn nên băn khoăn có nên mở liên tục cả ngày. (Hương Thu)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T05:45:17+07:00",
+      "fetched": "2026-02-25T13:51:55.491515+07:00"
+    },
+    {
+      "id": "c0940533ac9079f30a726fa3e6a3ad51",
+      "title": "Có nên bật máy hút ẩm cả ngày?",
+      "link": "https://vnexpress.net/co-nen-bat-may-hut-am-ca-ngay-5043900.html",
+      "summary": "Tôi mới mua máy hút ẩm và bật cả buổi thấy phòng khô ráo nhưng có vẻ nhiệt độ không khí cao hơn nên băn khoăn có nên mở liên tục cả ngày. (Hương Thu)",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-25T05:45:17+07:00",
+      "fetched": "2026-02-25T13:52:06.834327+07:00"
+    },
+    {
+      "id": "9efd8241ac55cb74ad0304898df8d3e4",
+      "title": "Danh ca Khánh Ly, nhạc sĩ Trần Tiến hội ngộ",
+      "link": "https://vnexpress.net/danh-ca-khanh-ly-nhac-si-tran-tien-hoi-ngo-5043932.html",
+      "summary": "Khánh Ly ôm chầm Trần Tiến khi gặp lại nhau tại nhà riêng Trịnh Công Sơn, ôn kỷ niệm về nhạc sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T05:37:32+07:00",
+      "fetched": "2026-02-25T13:51:55.491673+07:00"
+    },
+    {
+      "id": "03d5f13c1d67e68bf75d9f4204e61339",
+      "title": "Đề nghị truy tố tài xế dùng biển số giả, tông mô tô CSGT rồi bỏ chạy",
+      "link": "https://thanhnien.vn/de-nghi-truy-to-tai-xe-dung-bien-so-gia-tong-mo-to-csgt-roi-bo-chay-18526022511295367.htm",
+      "summary": "Công an tỉnh Tây Ninh đã hoàn tất điều tra vụ tài xế lái xe bán tải tông vào xe mô tô của CSGT rồi bỏ trốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T05:27:00+07:00",
+      "fetched": "2026-02-25T13:51:59.069820+07:00"
+    },
+    {
+      "id": "40dfaff3eb3f23d804685a683fc370de",
+      "title": "TP.HCM thí điểm mạng 6G trong năm 2026, hướng đến đô thị số toàn diện",
+      "link": "https://thanhnien.vn/tphcm-thi-diem-mang-6g-trong-nam-2026-huong-den-do-thi-so-toan-dien-185260225105242165.htm",
+      "summary": "Năm 2026, TP.HCM thí điểm mạng 6G, phủ sóng 5G 95% dân số, thúc đẩy chuyển đổi số, phát triển kinh tế số và đô thị thông minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T05:27:00+07:00",
+      "fetched": "2026-02-25T13:51:59.069972+07:00"
+    },
+    {
+      "id": "8fcebdebd76ac6e87aee0037fa017c72",
+      "title": "HAGL nói lời gan ruột tiễn biệt quân sư tận tụy của bầu Đức: ‘Cảm ơn ông vì tất cả…’",
+      "link": "https://thanhnien.vn/hagl-noi-loi-gan-ruot-tien-biet-quan-su-tan-tuy-cua-bau-duc-cam-on-ong-vi-tat-ca-185260225122113053.htm",
+      "summary": "Cựu giám đốc kỹ thuật (GĐKT) Nguyễn Văn Vinh của HAGL đã trút hơi thở cuối cùng vào rạng sáng nay (25.2), khép lại cuộc đời bóng đá tận hiến với đội bóng phố núi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T05:26:00+07:00",
+      "fetched": "2026-02-25T13:51:59.070141+07:00"
+    },
+    {
+      "id": "6719aea1bbde673cbbe3c2c24d9c75f3",
+      "title": "Ông Nguyễn Thanh Nghị: Không làm mất thương hiệu quốc gia khi cổ phần hóa, thoái vốn",
+      "link": "https://vnexpress.net/ong-nguyen-thanh-nghi-khong-lam-mat-thuong-hieu-quoc-gia-khi-co-phan-hoa-thoai-von-5043876.html",
+      "summary": "Cổ phần hóa doanh nghiệp nhà nước sẽ không chạy theo lợi nhuận ngắn hạn mà ưu tiên giữ gìn thương hiệu quốc gia, theo Trưởng ban Chính sách, Chiến lược Trung ương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T05:24:23+07:00",
+      "fetched": "2026-02-25T13:51:55.491836+07:00"
+    },
+    {
+      "id": "6719aea1bbde673cbbe3c2c24d9c75f3",
+      "title": "Ông Nguyễn Thanh Nghị: Không làm mất thương hiệu quốc gia khi cổ phần hóa, thoái vốn",
+      "link": "https://vnexpress.net/ong-nguyen-thanh-nghi-khong-lam-mat-thuong-hieu-quoc-gia-khi-co-phan-hoa-thoai-von-5043876.html",
+      "summary": "Cổ phần hóa doanh nghiệp nhà nước sẽ không chạy theo lợi nhuận ngắn hạn mà ưu tiên giữ gìn thương hiệu quốc gia, theo Trưởng ban Chính sách, Chiến lược Trung ương.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-25T05:24:23+07:00",
+      "fetched": "2026-02-25T13:52:04.000755+07:00"
+    },
+    {
+      "id": "0c332a3292b3304658744f8d1e4b17f6",
+      "title": "Đạo diễn Nguyễn Hoàng Điệp: Con trẻ sẽ đọc sách nếu bố mẹ tạo động lực",
+      "link": "https://vnexpress.net/dao-dien-nguyen-hoang-diep-con-tre-se-doc-sach-neu-bo-me-tao-dong-luc-5040709.html",
+      "summary": "Đạo diễn Nguyễn Hoàng Điệp cho rằng không \"thần thánh hóa việc đọc sách\" nhưng nếu phụ huynh yêu văn hóa đọc sẽ truyền cảm hứng cho con trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T05:13:41+07:00",
+      "fetched": "2026-02-25T13:51:55.492006+07:00"
+    },
+    {
+      "id": "446a8f648a0754223ff5a5652b46e476",
+      "title": "Bị viêm cột sống dính khớp uống nước có gas được không?",
+      "link": "https://vnexpress.net/bi-viem-cot-song-dinh-khop-uong-nuoc-co-gas-duoc-khong-5043877.html",
+      "summary": "Tôi nghe nói người bệnh viêm cột sống dính khớp không nên uống nước có gas. Điều này đúng không, vì sao? (Trung Thành, tỉnh Tây Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T05:00:00+07:00",
+      "fetched": "2026-02-25T13:51:55.492171+07:00"
+    },
+    {
+      "id": "4c3809ad0af58a17104586697ee3a260",
+      "title": "Vinicius bị cáo buộc 'giỏi đóng vai nạn nhân'",
+      "link": "https://vnexpress.net/vinicius-bi-cao-buoc-gioi-dong-vai-nan-nhan-5043753.html",
+      "summary": "Theo cựu trọng tài Javier Castrilli, tiền đạo Real Madrid thường đóng vai nạn nhân sau khi hạ nhục và khiêu khích người khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T04:59:11+07:00",
+      "fetched": "2026-02-25T13:51:55.492323+07:00"
+    },
+    {
+      "id": "4c3809ad0af58a17104586697ee3a260",
+      "title": "Vinicius bị cáo buộc 'giỏi đóng vai nạn nhân'",
+      "link": "https://vnexpress.net/vinicius-bi-cao-buoc-gioi-dong-vai-nan-nhan-5043753.html",
+      "summary": "Theo cựu trọng tài Javier Castrilli, tiền đạo Real Madrid thường đóng vai nạn nhân sau khi hạ nhục và khiêu khích người khác.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-25T04:59:11+07:00",
+      "fetched": "2026-02-25T13:52:08.709411+07:00"
+    },
+    {
+      "id": "fb11dfc2b5d4e6c3c8294ae8d77f6b21",
+      "title": "Đười ươi nhồi bông cháy hàng sau khi 'khỉ con cô đơn' gây sốt",
+      "link": "https://vnexpress.net/duoi-uoi-nhoi-bong-chay-hang-sau-khi-khi-con-co-don-gay-sot-5043925.html",
+      "summary": "Mẫu đười ươi nhồi bông của IKEA cháy hàng trên loạt thị trường, sau khi câu chuyện khỉ Punch bị mẹ bỏ rơi ở Nhật Bản gây sốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T04:56:25+07:00",
+      "fetched": "2026-02-25T13:51:55.492490+07:00"
+    },
+    {
+      "id": "fb11dfc2b5d4e6c3c8294ae8d77f6b21",
+      "title": "Đười ươi nhồi bông cháy hàng sau khi 'khỉ con cô đơn' gây sốt",
+      "link": "https://vnexpress.net/duoi-uoi-nhoi-bong-chay-hang-sau-khi-khi-con-co-don-gay-sot-5043925.html",
+      "summary": "Mẫu đười ươi nhồi bông của IKEA cháy hàng trên loạt thị trường, sau khi câu chuyện khỉ Punch bị mẹ bỏ rơi ở Nhật Bản gây sốt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T04:56:25+07:00",
+      "fetched": "2026-02-25T13:52:02.046260+07:00"
+    },
+    {
+      "id": "c5e9bc484cf5fba405ded975d77ec970",
+      "title": "Cựu giám đốc kỹ thuật HAGL Nguyễn Văn Vinh qua đời",
+      "link": "https://vnexpress.net/cuu-giam-doc-ky-thuat-hagl-nguyen-van-vinh-qua-doi-5043924.html",
+      "summary": "Cựu HLV và chuyên gia bóng đá Nguyễn Văn Vinh qua đời vào sáng 25/2 do tuổi cao tại nhà riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T04:55:01+07:00",
+      "fetched": "2026-02-25T13:51:55.492642+07:00"
+    },
+    {
+      "id": "c5e9bc484cf5fba405ded975d77ec970",
+      "title": "Cựu giám đốc kỹ thuật HAGL Nguyễn Văn Vinh qua đời",
+      "link": "https://vnexpress.net/cuu-giam-doc-ky-thuat-hagl-nguyen-van-vinh-qua-doi-5043924.html",
+      "summary": "Cựu HLV và chuyên gia bóng đá Nguyễn Văn Vinh qua đời vào sáng 25/2 do tuổi cao tại nhà riêng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-25T04:55:01+07:00",
+      "fetched": "2026-02-25T13:52:08.709250+07:00"
+    },
+    {
+      "id": "7df951e170484d1917ba50a88b84dbc4",
+      "title": "Giá vàng miếng vượt 185 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-25-2-5043881.html",
+      "summary": "Các thương hiệu nâng giá bán ra vàng miếng lên 185,3 triệu đồng, theo đà tăng trên thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-25T04:32:04+07:00",
+      "fetched": "2026-02-25T13:52:04.000915+07:00"
+    },
+    {
+      "id": "b97ea53a690bd0743ad460087306e211",
+      "title": "'Chiến thuật nghìn vết cắt' thay đổi chiến trường Nga - Ukraine",
+      "link": "https://vnexpress.net/chien-thuat-nghin-vet-cat-thay-doi-chien-truong-nga-ukraine-5043598.html",
+      "summary": "Sau 4 năm giao tranh, Nga đang áp dụng chiến thuật \"nghìn vết cắt\" để thay đổi thế bế tắc trên chiến trường bằng các nhóm đột kích sâu vào phòng tuyến Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T04:17:25+07:00",
+      "fetched": "2026-02-25T13:52:02.046432+07:00"
     },
     {
       "id": "2c69ebd75b9823c15c76a1ebc0dc5ef1",
@@ -663,6 +1203,16 @@ window.newsData_2026_02_25 = {
       "fetched": "2026-02-25T11:11:08.529537+07:00"
     },
     {
+      "id": "c3bcc96638768798ab575ec23ddd300d",
+      "title": "'Khoa học xã hội cần đi trước một bước để định hình tương lai'",
+      "link": "https://vnexpress.net/khoa-hoc-xa-hoi-can-di-truoc-mot-buoc-de-dinh-hinh-tuong-lai-5043958.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, khoa học tự nhiên giúp con người hiểu và làm chủ thế giới vật chất, trong khi khoa học xã hội giúp hiểu và dẫn dắt xã hội, và đây là hai lĩnh vực bổ sung cho nhau, cần được kết nối chặt chẽ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-25T03:00:00+07:00",
+      "fetched": "2026-02-25T13:52:06.834503+07:00"
+    },
+    {
       "id": "565d688636d462401be5c0d538f8d445",
       "title": "Loạt nghị sĩ Dân chủ tẩy chay Thông điệp Liên bang của ông Trump",
       "link": "https://vnexpress.net/loat-nghi-si-dan-chu-tay-chay-thong-diep-lien-bang-cua-ong-trump-5043813.html",
@@ -873,6 +1423,16 @@ window.newsData_2026_02_25 = {
       "fetched": "2026-02-25T11:11:01.626313+07:00"
     },
     {
+      "id": "4af3fe974f07acd95033172c4560ab01",
+      "title": "Ông Trump ca ngợi nước Mỹ, chỉ trích đối thủ trong Thông điệp Liên bang",
+      "link": "https://vnexpress.net/ong-trump-sap-doc-thong-diep-lien-bang-dau-tien-cua-nhiem-ky-hai-5043772-tong-thuat.html",
+      "summary": "Tổng thống Trump tập trung ca ngợi thành tựu kinh tế, bảo vệ chính sách thuế và công kích phe Dân chủ, ít đề cập đến các vấn đề đối ngoại trong Thông điệp Liên bang đầu tiên của nhiệm kỳ hai.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T01:23:14+07:00",
+      "fetched": "2026-02-25T13:52:02.047858+07:00"
+    },
+    {
       "id": "21e7559824d0f19f2f34dd2431af98a0",
       "title": "Giá vàng thế giới giảm hơn 80 USD một ounce",
       "link": "https://vnexpress.net/gia-vang-the-gioi-giam-hon-80-usd-mot-ounce-5043775.html",
@@ -881,6 +1441,16 @@ window.newsData_2026_02_25 = {
       "category": "Kinh doanh",
       "published": "2026-02-25T01:23:00+07:00",
       "fetched": "2026-02-25T11:11:03.704917+07:00"
+    },
+    {
+      "id": "6806edea6a23e178550312099b7169e3",
+      "title": "Giá vàng thế giới tăng trở lại",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-tro-lai-5043775.html",
+      "summary": "Nhu cầu mua trú ẩn khiến giá tăng gần 40 USD, sau khi mất hơn 80 USD một ounce phiên hôm qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-25T01:23:00+07:00",
+      "fetched": "2026-02-25T13:52:04.001093+07:00"
     },
     {
       "id": "4e5f262a099ba2e921eba23e4073cf5e",
