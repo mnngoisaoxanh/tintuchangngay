@@ -1,6 +1,6 @@
 window.newsData_2026_02_26 = {
   "date": "2026-02-26",
-  "lastUpdated": "2026-02-26T03:26:20.702298+07:00",
+  "lastUpdated": "2026-02-26T05:22:33.395573+07:00",
   "articles": [
     {
       "id": "4d6e092a73e8019f4235b843ce121afa",
@@ -151,6 +151,66 @@ window.newsData_2026_02_26 = {
       "category": "Tổng hợp",
       "published": "2026-02-26T01:52:53.563395+07:00",
       "fetched": "2026-02-26T01:52:53.563557+07:00"
+    },
+    {
+      "id": "6f56eae0605ef184cacb8f3bceee40cf",
+      "title": "Những người Ukraine không muốn đổi Donetsk lấy hòa bình",
+      "link": "https://vnexpress.net/nhung-nguoi-ukraine-khong-muon-doi-donetsk-lay-hoa-binh-5043777.html",
+      "summary": "Bốn năm sau xung đột, Donetsk vẫn là nút thắt đàm phán khi nhiều người Ukraine kiên quyết phản đối việc Kiev từ bỏ vùng đất này để đổi lấy lời hứa hòa bình mong manh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T22:00:00+07:00",
+      "fetched": "2026-02-26T05:22:21.781714+07:00"
+    },
+    {
+      "id": "1be15cdae8231a63200a7f40470b260c",
+      "title": "VF 6 và Xforce vẫn ăn khách nhất nhóm CUV cỡ B đầu 2026",
+      "link": "https://vnexpress.net/vf-6-va-xforce-van-an-khach-nhat-nhom-cuv-co-b-dau-2026-5043890.html",
+      "summary": "Mẫu xe thuần điện VinFast và chạy xăng của Mitsubishi lần lượt chiếm hai vị trí dẫn đầu doanh số xe gầm cao đô thị cỡ B tháng 1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T22:00:00+07:00",
+      "fetched": "2026-02-26T05:22:21.781906+07:00"
+    },
+    {
+      "id": "d733185f2fed00d45c3b80c04e1c89a2",
+      "title": "Thông điệp liên bang dài kỷ lục của Tổng thống Trump",
+      "link": "https://thanhnien.vn/thong-diep-lien-bang-dai-ky-luc-cua-tong-thong-trump-18526022521055605.htm",
+      "summary": "Thông điệp liên bang của Tổng thống Mỹ Donald Trump đã nêu ra bức tranh lạc quan về nền kinh tế, đồng thời làm rõ quan điểm trong các vấn đề nóng về đối ngoại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T22:00:00+07:00",
+      "fetched": "2026-02-26T05:22:25.138226+07:00"
+    },
+    {
+      "id": "0b5b473f21eda6f28266570d081b6360",
+      "title": "Có phải rửa mặt nhiều là tốt cho da?",
+      "link": "https://thanhnien.vn/co-phai-rua-mat-nhieu-la-tot-cho-da-185260225134859201.htm",
+      "summary": "Tần suất rửa mặt không chỉ ảnh hưởng đến diện mạo mà còn quyết định sức khỏe lâu dài của làn da. Mặc dù các chuyên gia da liễu thường khuyến nghị làm sạch hai lần mỗi ngày, nhưng theo chuyên trang sức khỏe Verywell Health, thực tế không có một công thức chung nào cho tất cả mọi người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T22:00:00+07:00",
+      "fetched": "2026-02-26T05:22:25.138459+07:00"
+    },
+    {
+      "id": "6f56eae0605ef184cacb8f3bceee40cf",
+      "title": "Những người Ukraine không muốn đổi Donetsk lấy hòa bình",
+      "link": "https://vnexpress.net/nhung-nguoi-ukraine-khong-muon-doi-donetsk-lay-hoa-binh-5043777.html",
+      "summary": "Bốn năm sau xung đột, Donetsk vẫn là nút thắt đàm phán khi nhiều người Ukraine kiên quyết phản đối việc Kiev từ bỏ vùng đất này để đổi lấy lời hứa hòa bình mong manh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T22:00:00+07:00",
+      "fetched": "2026-02-26T05:22:28.089731+07:00"
+    },
+    {
+      "id": "3120472983ecc115ef1be089724f9f27",
+      "title": "Chiến sự Ukraine ngày 1.463: Nga - Ukraine 'ăn miếng trả miếng', Mỹ gây sức ép Kyiv",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1463-nga-ukraine-an-mieng-tra-mieng-my-gay-suc-ep-kyiv-185260225215852387.htm",
+      "summary": "Nga và Ukraine ngày 25.2 đã thông tin về các đợt tập kích lớn của đối phương. Trong khi đó, hoạt động ngoại giao nhằm tìm giải pháp hòa bình có thêm diễn biến mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T21:28:00+07:00",
+      "fetched": "2026-02-26T05:22:25.138638+07:00"
     },
     {
       "id": "e07b38c0c5e24012d037c8a7c35dc6f9",
