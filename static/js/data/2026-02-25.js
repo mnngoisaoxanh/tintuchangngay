@@ -1,7 +1,127 @@
 window.newsData_2026_02_25 = {
   "date": "2026-02-25",
-  "lastUpdated": "2026-02-25T21:43:00.613759+07:00",
+  "lastUpdated": "2026-02-25T23:58:52.677308+07:00",
   "articles": [
+    {
+      "id": "3dc7e77b97dd6597a17ee0612b9967cd",
+      "title": "Công an Đồng Tháp tạm giữ người đàn ông giết nhân tình cũ trong đêm",
+      "link": "https://tuoitre.vn/cong-an-dong-thap-tam-giu-nguoi-dan-ong-giet-nhan-tinh-cu-trong-dem-20260225191703279.htm",
+      "summary": "Ngày 25-2, Cơ quan cảnh sát điều tra Công an tỉnh Đồng Tháp đã tạm giữ hình sự Nguyễn Việt Thanh (38 tuổi, thường trú ấp Trung Bình, xã Thoại Sơn, tỉnh An Giang) để điều tra, xử lý về hành vi giết người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T23:58:46.574240+07:00",
+      "fetched": "2026-02-25T23:58:46.574335+07:00"
+    },
+    {
+      "id": "4d6e092a73e8019f4235b843ce121afa",
+      "title": "Lãnh đạo TP.HCM kiểm tra công tác bầu cử tại 4 khu vực bỏ phiếu sớm",
+      "link": "https://tuoitre.vn/lanh-dao-tp-hcm-kiem-tra-cong-tac-bau-cu-tai-4-khu-vuc-bo-phieu-som-20260225194159849.htm",
+      "summary": "Lãnh đạo TP.HCM đã đến 3 phường, xã kiểm tra công tác bầu cử tại 4 khu vực bỏ phiếu sớm sẽ diễn ra vào 26-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T23:58:46.573923+07:00",
+      "fetched": "2026-02-25T23:58:46.574022+07:00"
+    },
+    {
+      "id": "71a1a094a7fa0f36a43c54b781670831",
+      "title": "Nga tố Ukraine tấn công nhà máy phân bón khiến ít nhất 7 người thiệt mạng",
+      "link": "https://tuoitre.vn/nga-to-ukraine-tan-cong-nha-may-phan-bon-khien-it-nhat-7-nguoi-thiet-mang-20260225192724576.htm",
+      "summary": "Ngày 25-2, giới chức Nga tố Ukraine đã thực hiện một cuộc tấn công bằng máy bay không người lái vào nhà máy phân bón ở vùng Smolensk, khiến 7 người chết và 10 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T23:58:46.573817+07:00",
+      "fetched": "2026-02-25T23:58:46.573914+07:00"
+    },
+    {
+      "id": "3f6d63847714c4c483e8302d30614034",
+      "title": "Đà Nẵng trang bị súng chế áp, cử lực lượng tuần tra 24/24h xử lý flycam bay trái phép",
+      "link": "https://tuoitre.vn/da-nang-trang-bi-sung-che-ap-cu-luc-luong-tuan-tra-24-24-xu-ly-flycam-bay-trai-phep-2026022520170129.htm",
+      "summary": "Chiều 25-2, Bộ Chỉ huy quân sự TP Đà Nẵng tổ chức hội nghị giao nhiệm vụ triển khai lực lượng tuần tra, kiểm soát, phát hiện và xử lý tàu bay không người lái (UAV) và các phương tiện bay khác trên địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T23:58:46.573711+07:00",
+      "fetched": "2026-02-25T23:58:46.573807+07:00"
+    },
+    {
+      "id": "99f984d3955710c4a81b9e375a25ce71",
+      "title": "Ông Tập tiếp Thủ tướng Đức, hứa mua thêm tối đa 120 máy bay Airbus",
+      "link": "https://tuoitre.vn/ong-tap-tiep-thu-tuong-duc-hua-mua-them-toi-da-120-may-bay-airbus-20260225202700942.htm",
+      "summary": "Ngày 25-2, Chủ tịch Trung Quốc Tập Cận Bình đã có cuộc gặp với Thủ tướng Đức Friedrich Merz tại Bắc Kinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T23:58:46.573602+07:00",
+      "fetched": "2026-02-25T23:58:46.573702+07:00"
+    },
+    {
+      "id": "a55fbe8c58ba4ce67f49323d8d74694a",
+      "title": "Bóng đá Trung Quốc muốn chiêu mộ Đình Bắc vì 'giỏi, hiệu quả và... rẻ'",
+      "link": "https://tuoitre.vn/bong-da-trung-quoc-muon-chieu-mo-dinh-bac-vi-gioi-hieu-qua-va-re-20260225202046167.htm",
+      "summary": "Thời gian qua, truyền thông Trung Quốc liên tục tranh luận về khả năng các CLB nước nhà chiêu mộ ngôi sao bóng đá Việt Nam Nguyễn Đình Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T23:58:46.573495+07:00",
+      "fetched": "2026-02-25T23:58:46.573593+07:00"
+    },
+    {
+      "id": "86b199439266fd535b8a8c83f5a90718",
+      "title": "Một loạt cơ sở chăn nuôi ở Phú Thọ bị xử phạt vì vi phạm môi trường",
+      "link": "https://tuoitre.vn/mot-loat-co-so-chan-nuoi-o-phu-tho-bi-xu-phat-vi-vi-pham-moi-truong-20260225203547938.htm",
+      "summary": "Thanh tra tỉnh Phú Thọ xác định trại chăn nuôi heo của Công ty cổ phần chăn nuôi Mavin (ở xã Cao Dương) không thực hiện kê khai chăn nuôi, chăn nuôi không có giấy chứng nhận đủ điều kiện chăn nuôi và không có giấy phép môi trường theo quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T23:58:46.573376+07:00",
+      "fetched": "2026-02-25T23:58:46.573485+07:00"
+    },
+    {
+      "id": "369e25d6c00ef7c94492bf797b901bd4",
+      "title": "CEO của Sony Pictures: Trung Quốc cấm chiếu 'Spider-Man: No Way Home' vì tượng Nữ thần Tự do",
+      "link": "https://tuoitre.vn/ceo-cua-sony-pictures-trung-quoc-cam-chieu-spider-man-no-way-home-vi-tuong-nu-than-tu-do-20260225201412825.htm",
+      "summary": "CEO của Sony Pictures đổ lỗi cho Trung Quốc vì chặn phát hành Spider-Man: No Way Home khiến doanh thu dừng lại ở mức 1,9 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T23:58:46.573269+07:00",
+      "fetched": "2026-02-25T23:58:46.573367+07:00"
+    },
+    {
+      "id": "6dfe319b5b026cdd39b8cc1c7ec703e9",
+      "title": "Dàn nhạc ra đời theo quyết định của Bộ Quốc phòng gửi lời chào chính thức tới công chúng",
+      "link": "https://tuoitre.vn/dan-nhac-ra-doi-theo-quyet-dinh-cua-bo-quoc-phong-gui-loi-chao-chinh-thuc-toi-cong-chung-20260225204755011.htm",
+      "summary": "Dàn nhạc Giao hưởng Quân đội - ra đời theo quyết định của Bộ Quốc phòng - gửi lời chào chính thức tới công chúng với chương trình 'Thanh âm dưới ánh mặt trời'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T23:58:46.573150+07:00",
+      "fetched": "2026-02-25T23:58:46.573258+07:00"
+    },
+    {
+      "id": "b082b3cfe619c2649874716a72a63cb1",
+      "title": "Tuyển futsal nữ Thái Lan giành vé vào bán kết Giải futsal Đông Nam Á 2026",
+      "link": "https://tuoitre.vn/tuyen-futsal-nu-thai-lan-gianh-ve-vao-ban-ket-giai-futsal-dong-nam-a-2026-20260225211641633.htm",
+      "summary": "Việc tuyển futsal nữ Malaysia thành công cầm hòa Indonesia giúp cho đội chủ nhà Thái Lan chính thức giành vé vào bán kết Giải futsal Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T23:58:46.573040+07:00",
+      "fetched": "2026-02-25T23:58:46.573141+07:00"
+    },
+    {
+      "id": "a599dcafa52d3cfcdb95437fe2869cd5",
+      "title": "Tàu SE3 húc xe đầu kéo văng xa hàng chục mét giữa đêm mưa ở Hà Nội, tài xế mắc kẹt trong cabin",
+      "link": "https://tuoitre.vn/tau-se3-huc-xe-dau-keo-vang-xa-hang-chuc-met-giua-dem-mua-o-ha-noi-tai-xe-mac-ket-trong-cabin-2026022521152265.htm",
+      "summary": "Nhân chứng cho biết xe đầu kéo bị tàu hỏa húc văng hàng chục mét, biến dạng và kẹt trên đường ray. Hàng chục mét hộ lan hư hỏng, nhiều mảnh vỡ vương vãi trên đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T23:58:46.572917+07:00",
+      "fetched": "2026-02-25T23:58:46.573029+07:00"
+    },
+    {
+      "id": "ae8b7e32a152e98c475cab8323f730b4",
+      "title": "2.500 linh kiện chiến đấu cơ 'bốc hơi' khỏi kho không quân Ý, nghi bị tuồn ra nước ngoài",
+      "link": "https://tuoitre.vn/2-500-linh-kien-chien-dau-co-boc-hoi-khoi-kho-khong-quan-y-nghi-bi-tuon-ra-nuoc-ngoai-20260225214046088.htm",
+      "summary": "Gần 2.500 linh kiện hàng không trị giá 17 triệu euro biến mất khỏi kho không quân ở Brindisi, nghi bị tuồn ra nước ngoài. Nhà chức trách Ý đang điều tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T23:58:46.572695+07:00",
+      "fetched": "2026-02-25T23:58:46.572905+07:00"
+    },
     {
       "id": "08fa59b0606b96cfc0730ed9a8dfd062",
       "title": "Ngày thơ Việt Nam năm nay không thả thơ lên trời nữa",
@@ -343,6 +463,26 @@ window.newsData_2026_02_25 = {
       "fetched": "2026-02-25T17:40:50.775135+07:00"
     },
     {
+      "id": "079ff3599e5d5229bfd75ff8a9202d61",
+      "title": "Mức trả bảo hiểm tiền gửi tối đa có thể lên 350 triệu đồng",
+      "link": "https://vnexpress.net/muc-tra-bao-hiem-tien-gui-toi-da-co-the-len-350-trieu-dong-5044139.html",
+      "summary": "Ngân hàng Nhà nước đề xuất tăng hạn mức chi trả bảo hiểm tiền gửi gấp ba, từ 125 triệu đồng như hiện hành lên 350 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T15:44:01+07:00",
+      "fetched": "2026-02-25T23:58:42.197462+07:00"
+    },
+    {
+      "id": "079ff3599e5d5229bfd75ff8a9202d61",
+      "title": "Mức trả bảo hiểm tiền gửi tối đa có thể lên 350 triệu đồng",
+      "link": "https://vnexpress.net/muc-tra-bao-hiem-tien-gui-toi-da-co-the-len-350-trieu-dong-5044139.html",
+      "summary": "Ngân hàng Nhà nước đề xuất tăng hạn mức chi trả bảo hiểm tiền gửi gấp ba, từ 125 triệu đồng như hiện hành lên 350 triệu đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-25T15:44:01+07:00",
+      "fetched": "2026-02-25T23:58:48.543726+07:00"
+    },
+    {
       "id": "45bfdc3ec9ca7336cb1e0556055d1e0c",
       "title": "Quản lý homestay ở Y Tý báo cáo gì với chính quyền khi bị khách tố cho ở phòng kho?",
       "link": "https://tuoitre.vn/quan-ly-homestay-o-y-ty-bao-cao-gi-voi-chinh-quyen-khi-bi-khach-to-cho-o-phong-kho-20260225113710552.htm",
@@ -403,6 +543,126 @@ window.newsData_2026_02_25 = {
       "fetched": "2026-02-25T15:36:57.201900+07:00"
     },
     {
+      "id": "7243811e8dab09bbae6fd45bfdfa0e99",
+      "title": "Người bị thu hồi đất được mua nhà xã hội không cần bốc thăm",
+      "link": "https://vnexpress.net/nguoi-bi-thu-hoi-dat-duoc-mua-nha-xa-hoi-khong-can-boc-tham-5044137.html",
+      "summary": "Chính phủ bổ sung nhóm người bị thu hồi đất được mua nhà ở xã hội không phải bốc thăm hay đáp ứng điều kiện nhà ở, thu nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T15:36:20+07:00",
+      "fetched": "2026-02-25T23:58:42.197633+07:00"
+    },
+    {
+      "id": "c539f454fec998e76d20e65bd47406bd",
+      "title": "Tai nạn nghiêm trọng giữa tàu hỏa và xe tải ở Hà Nội, 2 người bị thương",
+      "link": "https://thanhnien.vn/tai-nan-nghiem-trong-giua-tau-hoa-va-xe-tai-o-ha-noi-2-nguoi-bi-thuong-185260225223623591.htm",
+      "summary": "Khi đang băng qua đường sắt, xe ô tô tải đã xảy ra va chạm với tàu hỏa, khiến tài xế và 1 người đi đường bị thương phải nhập viện cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T15:36:00+07:00",
+      "fetched": "2026-02-25T23:58:45.595742+07:00"
+    },
+    {
+      "id": "93fe6227ccf374ea75375afc57c03a5c",
+      "title": "Lực lượng đặc biệt của FAM căng mình ‘đấu’ FIFA tại CAS, Malaysia bất ngờ không mở rộng điều tra",
+      "link": "https://thanhnien.vn/luc-luong-dac-biet-cua-fam-cang-minh-dau-fifa-tai-cas-malaysia-bat-ngo-khong-mo-rong-dieu-tra-185260225222055639.htm",
+      "summary": "Theo truyền thông Malaysia, phiên điều trần tại Tòa án Trọng tài Thể thao quốc tế (CAS) đã bước vào giai đoạn quyết định, khi ‘lực lượng đặc biệt’ đại diện cho Liên đoàn Bóng đá Malaysia (FAM) phải trực tiếp đối đầu với Liên đoàn Bóng đá thế giới (FIFA) trong vụ kháng cáo của 7 cầu thủ nhập tịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T15:29:00+07:00",
+      "fetched": "2026-02-25T23:58:45.595888+07:00"
+    },
+    {
+      "id": "66b63b5024afa174895be88d27212c7c",
+      "title": "Tiêm kích F-16 Hàn Quốc lao xuống núi, phi công nhảy dù thoát hiểm",
+      "link": "https://vnexpress.net/tiem-kich-f-16-han-quoc-lao-xuong-nui-phi-cong-nhay-du-thoat-hiem-5044130.html",
+      "summary": "Một tiêm kích F-16C của không quân Hàn Quốc rơi xuống sườn núi gần thành phố Yeongju, tỉnh Bắc Gyeongsang, phi công phóng dù thoát hiểm an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T15:23:14+07:00",
+      "fetched": "2026-02-25T23:58:42.197773+07:00"
+    },
+    {
+      "id": "66b63b5024afa174895be88d27212c7c",
+      "title": "Tiêm kích F-16 Hàn Quốc lao xuống núi, phi công nhảy dù thoát hiểm",
+      "link": "https://vnexpress.net/tiem-kich-f-16-han-quoc-lao-xuong-nui-phi-cong-nhay-du-thoat-hiem-5044130.html",
+      "summary": "Một tiêm kích F-16C của không quân Hàn Quốc rơi xuống sườn núi gần thành phố Yeongju, tỉnh Bắc Gyeongsang, phi công phóng dù thoát hiểm an toàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T15:23:14+07:00",
+      "fetched": "2026-02-25T23:58:47.667249+07:00"
+    },
+    {
+      "id": "9474c44616d4ad52db6482c01bf2625b",
+      "title": "28 ứng cử viên đại biểu Quốc hội chuẩn bị tiếp xúc cử tri tại Gia Lai",
+      "link": "https://thanhnien.vn/ung-cu-dai-bieu-quoc-hoi-chuan-bi-tiep-xuc-cu-tri-tai-gia-lai-185260225214102767.htm",
+      "summary": "28 ứng cử viên đại biểu Quốc hội khóa XVI sẽ tiếp xúc cử tri tại 72 điểm trên toàn tỉnh Gia Lai từ ngày 2 - 13.3. Trong đó, anh Bùi Quang Huy, Bí thư thứ nhất Trung ương Đoàn, ứng cử tại đơn vị bầu cử số 6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T14:57:00+07:00",
+      "fetched": "2026-02-25T23:58:45.596021+07:00"
+    },
+    {
+      "id": "6297d9d9263104bf86ca8cb2b69bcb6f",
+      "title": "Xe tải bị 'vò nát' sau va chạm với tàu hỏa, 2 người bị thương",
+      "link": "https://thanhnien.vn/xe-tai-bi-vo-nat-sau-va-cham-voi-tau-hoa-2-nguoi-bi-thuong-185260225213924642.htm",
+      "summary": "Khi đang băng qua đường sắt, xe ô tô tải đã xảy ra va chạm với tàu hỏa, khiến tài xế và 1 người đi đường bị thương phải nhập viện cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T14:53:00+07:00",
+      "fetched": "2026-02-25T23:58:45.596148+07:00"
+    },
+    {
+      "id": "f1f85360b1de1684da795939474a3d78",
+      "title": "Bí thư thứ nhất T.Ư Đoàn Bùi Quang Huy ứng cử đại biểu Quốc hội tại tỉnh Gia Lai",
+      "link": "https://thanhnien.vn/bi-thu-thu-nhat-tu-doan-bui-quang-huy-ung-cu-dai-bieu-quoc-hoi-tai-tinh-gia-lai-185260225210303337.htm",
+      "summary": "Anh Bùi Quang Huy, Ủy viên T.Ư Đảng, Phó chủ tịch Ủy ban T.Ư MTTQ Việt Nam, Bí thư thứ nhất T.Ư Đoàn tham gia ứng cử đại biểu Quốc hội khóa XVI tại đơn vị bầu cử số 6, tỉnh Gia Lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T14:52:00+07:00",
+      "fetched": "2026-02-25T23:58:45.596274+07:00"
+    },
+    {
+      "id": "4c153b8e9d60c181d5684ff402d21bbe",
+      "title": "Thân nhân chiến binh IS bỏ trốn hàng loạt khỏi trại giam ở Syria",
+      "link": "https://vnexpress.net/than-nhan-chien-binh-is-bo-tron-hang-loat-khoi-trai-giam-o-syria-5044113.html",
+      "summary": "Syria xác nhận hàng loạt thân nhân của các tay súng IS tháng trước đã bỏ trốn khỏi trại giam al-Hol, sau khi dân quân người Kurd rút đi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T14:45:50+07:00",
+      "fetched": "2026-02-25T23:58:42.197910+07:00"
+    },
+    {
+      "id": "4c153b8e9d60c181d5684ff402d21bbe",
+      "title": "Thân nhân chiến binh IS bỏ trốn hàng loạt khỏi trại giam ở Syria",
+      "link": "https://vnexpress.net/than-nhan-chien-binh-is-bo-tron-hang-loat-khoi-trai-giam-o-syria-5044113.html",
+      "summary": "Syria xác nhận hàng loạt thân nhân của các tay súng IS tháng trước đã bỏ trốn khỏi trại giam al-Hol, sau khi dân quân người Kurd rút đi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T14:45:50+07:00",
+      "fetched": "2026-02-25T23:58:47.667399+07:00"
+    },
+    {
+      "id": "a87e708e9602e4dc0232c6bf83cb434f",
+      "title": "Khoảnh khắc tàu hỏa tông ôtô tải băng ngang đường sắt, kéo lê hơn 100 m",
+      "link": "https://vnexpress.net/khoanh-khac-tau-hoa-tong-oto-tai-bang-ngang-duong-sat-keo-le-hon-100-m-5044117.html",
+      "summary": "Tàu SE3 chạy qua quốc lộ 1A, đoạn qua thôn Yên Phú, xã Ngọc Hồi va chạm với ôtô tải đang băng ngang đường sắt, kéo lê khoảng 100 m, tối 25/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T14:33:50+07:00",
+      "fetched": "2026-02-25T23:58:42.198050+07:00"
+    },
+    {
+      "id": "e8fbf8ffcc960a2bdbc3cba775dd9ce1",
+      "title": "Tàu SE3 tông nát xe tải mắc kẹt trên đường sắt",
+      "link": "https://vnexpress.net/tau-se3-tong-nat-xe-tai-mac-ket-tren-duong-sat-5044125.html",
+      "summary": "Xe tải rẽ qua đường ngang thì barie tự động hạ xuống, xe mắc kẹt trên ray và bị tàu SE3 đâm trực diện khiến thùng hàng bẹp dúm, tài xế tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T14:33:05+07:00",
+      "fetched": "2026-02-25T23:58:42.198185+07:00"
+    },
+    {
       "id": "724b9ca353567fb06d71b9b9d42f45c3",
       "title": "Xôn xao vụ tấn công hàng xóm ở TP.HCM, nghi do tranh chấp đất đai",
       "link": "https://thanhnien.vn/xon-xao-vu-tan-cong-hang-xom-o-tphcm-nghi-do-tranh-chap-dat-dai-18526022520094646.htm",
@@ -423,6 +683,16 @@ window.newsData_2026_02_25 = {
       "fetched": "2026-02-25T21:42:51.305224+07:00"
     },
     {
+      "id": "843b93d990dfea41df589a91817486ea",
+      "title": "Kẻ đòi giật súng của công an ra đầu thú",
+      "link": "https://vnexpress.net/ke-doi-giat-sung-cua-cong-an-ra-dau-thu-5044115.html",
+      "summary": "Sau 16 tháng lẩn trốn vì đánh người, đòi giật súng và tông xe vào cảnh sát, Đỗ Thanh Tùng ra đầu thú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T14:19:31+07:00",
+      "fetched": "2026-02-25T23:58:42.198315+07:00"
+    },
+    {
       "id": "ad65316816827c2bee3a77429e554d19",
       "title": "Chủ tịch Cung điện Versailles tiếp quản bảo tàng Louvre",
       "link": "https://thanhnien.vn/chu-tich-cung-dien-versailles-tiep-quan-bao-tang-louvre-185260225204555935.htm",
@@ -441,6 +711,16 @@ window.newsData_2026_02_25 = {
       "category": "Tổng hợp",
       "published": "2026-02-25T14:08:00+07:00",
       "fetched": "2026-02-25T21:42:51.305575+07:00"
+    },
+    {
+      "id": "c7883e679f9d05dcb3d52dd3ee09cf96",
+      "title": "Kim Tae Hee bán nhà giá gần 10 triệu USD",
+      "link": "https://vnexpress.net/kim-tae-hee-ban-nha-gia-gan-10-trieu-usd-5044103.html",
+      "summary": "Minh tinh Hàn Kim Tae Hee bán căn hộ hạng sang ở Seoul với giá hơn 12,7 tỷ won (9,6 triệu USD) sau bảy năm mua bất động sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T14:03:26+07:00",
+      "fetched": "2026-02-25T23:58:42.198447+07:00"
     },
     {
       "id": "4a3e76ba3a36a02d33fe21a7dac2efa1",
@@ -711,6 +991,16 @@ window.newsData_2026_02_25 = {
       "category": "Tổng hợp",
       "published": "2026-02-25T13:18:37+07:00",
       "fetched": "2026-02-25T21:42:47.665455+07:00"
+    },
+    {
+      "id": "7e85514a6fcd842556f75b75bdecfd18",
+      "title": "Bệnh viện 108 phá 'rào cản' nhóm máu, ghép gan cứu hàng trăm người",
+      "link": "https://vnexpress.net/benh-vien-108-pha-rao-can-nhom-mau-ghep-gan-cuu-hang-tram-nguoi-5044099.html",
+      "summary": "Bằng cách hạ kháng thể, Bệnh viện 108 ghép gan thành công từ mẹ khác nhóm máu, cứu sống thiếu nữ 17 tuổi, xác lập kỷ lục quốc gia với 1.305 ca ghép tạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:18:37+07:00",
+      "fetched": "2026-02-25T23:58:42.199238+07:00"
     },
     {
       "id": "1d4a6ff863cecc6bda676ba3c0df55c8",
