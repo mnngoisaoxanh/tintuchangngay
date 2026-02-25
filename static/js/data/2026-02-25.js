@@ -1,7 +1,157 @@
 window.newsData_2026_02_25 = {
   "date": "2026-02-25",
-  "lastUpdated": "2026-02-25T08:19:17.364977+07:00",
+  "lastUpdated": "2026-02-25T11:11:08.536459+07:00",
   "articles": [
+    {
+      "id": "9630e442e0884b72c51b0e6c782c924d",
+      "title": "Cảnh sát bắn chết nghi phạm đâm tử vong 4 người ở Mỹ",
+      "link": "https://tuoitre.vn/canh-sat-ban-chet-nghi-pham-dam-tu-vong-4-nguoi-o-my-20260225075334249.htm",
+      "summary": "Ít nhất 4 người đã thiệt mạng trong vụ đâm dao tại Key Peninsula, bang Washington (Mỹ) vào ngày 24-2. Nghi phạm sau đó bị cảnh sát bắn chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.160212+07:00",
+      "fetched": "2026-02-25T11:11:00.160327+07:00"
+    },
+    {
+      "id": "d5655ed7956a41c96d3a73de9cb64486",
+      "title": "Chứng khoán 25-2: VN-Index có tiếp tục duy trì được đà tăng?",
+      "link": "https://tuoitre.vn/chung-khoan-25-2-vn-index-co-tiep-tuc-duy-tri-duoc-da-tang-20260225075828742.htm",
+      "summary": "Các công ty chứng khoán nhận định VN-Index vẫn giữ được quán tính tăng. Đa số đơn vị khuyến nghị nhà đầu tư tận dụng nhịp rung lắc để tăng tỉ trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.160081+07:00",
+      "fetched": "2026-02-25T11:11:00.160200+07:00"
+    },
+    {
+      "id": "173e75884d6f4edb403b9baf1e4d0b08",
+      "title": "Xe khách chở quá 17 người trên cao tốc Vĩnh Hảo - Phan Thiết bị xử phạt 127 triệu đồng",
+      "link": "https://tuoitre.vn/xe-khach-cho-qua-17-nguoi-tren-cao-toc-vinh-hao-phan-thiet-bi-xu-phat-127-trieu-dong-20260225081919689.htm",
+      "summary": "Ngày 25-2, lãnh đạo Đội cảnh sát giao thông đường bộ cao tốc số 6 cho biết vừa xử lý xe khách 'nhồi' thêm 17 người khi chạy trên cao tốc Vĩnh Hảo - Phan Thiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.159955+07:00",
+      "fetched": "2026-02-25T11:11:00.160069+07:00"
+    },
+    {
+      "id": "4a9e40d9ea7b3546dbe1d7a4ee9e37fa",
+      "title": "Thay 'áo xanh' cho công nghiệp",
+      "link": "https://tuoitre.vn/thay-ao-xanh-cho-cong-nghiep-20260225080515507.htm",
+      "summary": "TP.HCM đang đứng trước ngưỡng cửa của một cuộc đại tu công nghiệp chưa từng có khi hợp lực cùng Bình Dương và Bà Rịa - Vũng Tàu (cũ) để tạo nên một hệ sinh thái logistics - sản xuất - xuất khẩu quy mô lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.159807+07:00",
+      "fetched": "2026-02-25T11:11:00.159942+07:00"
+    },
+    {
+      "id": "711b9969bd5cfd3b1296a158d20ca875",
+      "title": "Bầu cử Quốc hội và HĐND nhiệm kỳ 2026 - 2031: Nhiều điểm mới quan trọng",
+      "link": "https://tuoitre.vn/bau-cu-quoc-hoi-va-hdnd-nhiem-ky-2026-2031-nhieu-diem-moi-quan-trong-20260225082030894.htm",
+      "summary": "Rút ngắn thời gian các bước trong quy trình, đẩy mạnh áp dụng công nghệ số, tạo điều kiện tốt nhất cho mỗi cử tri phát huy hết quyền năng của mình qua mỗi lá phiếu... là những điểm mới của kỳ bầu cử lần này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.159673+07:00",
+      "fetched": "2026-02-25T11:11:00.159795+07:00"
+    },
+    {
+      "id": "8bc3bb6f272beca5d62f217a8403d123",
+      "title": "Tổng thống Mỹ Donald Trump đọc Thông điệp liên bang 2026",
+      "link": "https://tuoitre.vn/tong-thong-my-donald-trump-doc-thong-diep-lien-bang-2026-20260225075404134.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đọc Thông điệp liên bang, bắt đầu lúc 21h tối 24-2 theo giờ địa phương (9h sáng 25-2 theo giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.159547+07:00",
+      "fetched": "2026-02-25T11:11:00.159661+07:00"
+    },
+    {
+      "id": "3b413f45ce337766a21f5dfcf15191bb",
+      "title": "Về vườn với hành trình sống xanh",
+      "link": "https://tuoitre.vn/ve-vuon-voi-hanh-trinh-song-xanh-20260225060155917.htm",
+      "summary": "35 tuổi, Nguyễn Thái Thuận mà bạn bè quen gọi là Bờm quyết định rẽ hướng đời mình, nghỉ việc tại một công ty đa quốc gia, rời phố thị TP.HCM về quê… làm vườn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.159422+07:00",
+      "fetched": "2026-02-25T11:11:00.159535+07:00"
+    },
+    {
+      "id": "0067c69aa263c05ef39219a84c68691b",
+      "title": "Tổng Bí thư Tô Lâm và nhiều lãnh đạo dự Hội nghị quán triệt nghị quyết 79, 80 của Bộ Chính trị",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-va-nhieu-lanh-dao-du-hoi-nghi-quan-triet-nghi-quyet-79-80-cua-bo-chinh-tri-20260225083156357.htm",
+      "summary": "Sáng 25-2, Tổng Bí thư Tô Lâm cùng nhiều lãnh đạo Đảng, Nhà nước đã tham dự Hội nghị toàn quốc quán triệt các nghị quyết 79, 80 của Bộ Chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.159294+07:00",
+      "fetched": "2026-02-25T11:11:00.159410+07:00"
+    },
+    {
+      "id": "29054215bb8cce2e441961a228e5c101",
+      "title": "Bị cáo buộc hiếp dâm, ngôi sao Hakimi có thể nhận án tù 15 năm",
+      "link": "https://tuoitre.vn/bi-cao-buoc-hiep-dam-ngoi-sao-hakimi-co-the-nhan-an-tu-15-nam-20260225085039485.htm",
+      "summary": "Mới đây, hậu vệ Achraf Hakimi (27 tuổi, người Morocco) của PSG đã bị triệu tập ra tòa trong một cáo buộc hiếp dâm. Và anh đối mặt với nguy cơ nhận án tù 15 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.159168+07:00",
+      "fetched": "2026-02-25T11:11:00.159283+07:00"
+    },
+    {
+      "id": "498d9f0b594bbc1c6d838098dd6d536a",
+      "title": "Sát ngày vía Thần Tài, người dân đội mưa xếp hàng từ rạng sáng chờ mua vàng",
+      "link": "https://tuoitre.vn/sat-ngay-via-than-tai-nguoi-dan-doi-mua-xep-hang-tu-rang-sang-cho-mua-vang-20260225081652365.htm",
+      "summary": "Sáng 25-2 (mùng 9 tháng giêng), dù mưa kéo dài và trời rét, từ khoảng 4h sáng, nhiều người đã đội ô, mặc áo mưa xếp hàng trước các cửa hàng vàng bạc trên phố Trần Nhân Tông (Hà Nội) chờ mua vàng trước ngày vía Thần Tài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.159039+07:00",
+      "fetched": "2026-02-25T11:11:00.159155+07:00"
+    },
+    {
+      "id": "a2613b259f42c39d1a9512568ddfc17c",
+      "title": "'Mở mắt là uống rượu', người đàn ông nôn ra cả lít máu",
+      "link": "https://tuoitre.vn/mo-mat-la-uong-ruou-nguoi-dan-ong-non-ra-ca-lit-mau-20260225084927283.htm",
+      "summary": "Bệnh viện Bệnh nhiệt đới Trung ương thông tin vừa tiếp nhận bệnh nhân nam N.C.C. (50 tuổi, Hải Phòng) nhập viện trong tình trạng xuất huyết tiêu hóa ồ ạt, sốc mất máu nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.158907+07:00",
+      "fetched": "2026-02-25T11:11:00.159026+07:00"
+    },
+    {
+      "id": "f5a94c548d121c2764aa113a435271c8",
+      "title": "Ông Trịnh Văn Quyết: Dành tối thiểu 2% tổng chi ngân sách cho văn hóa là 'đột phá lớn, chưa từng có'",
+      "link": "https://tuoitre.vn/ong-trinh-van-quyet-danh-toi-thieu-2-tong-chi-ngan-sach-cho-van-hoa-la-dot-pha-lon-chua-tung-co-20260225083703994.htm",
+      "summary": "Trưởng Ban Tuyên giáo và Dân vận Trung ương Trịnh Văn Quyết nhấn mạnh thực hiện trọn vẹn, hiệu quả cao khát vọng, mục tiêu, các nhiệm vụ đề ra trong nghị quyết 80, chắc chắn sẽ tạo ra được vị thế và tầm vóc mới của nền văn hóa Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.158752+07:00",
+      "fetched": "2026-02-25T11:11:00.158893+07:00"
+    },
+    {
+      "id": "aed5a00ffaaf4e8c2e853b4faf3045f8",
+      "title": "Màng dây rốn, từ 'rác' biến thành 'vàng'... qua bàn tay  PGS Phan Toàn Thắng",
+      "link": "https://tuoitre.vn/mang-day-ron-tu-rac-bien-thanh-vang-qua-ban-tay-pgs-phan-toan-thang-20260225083808799.htm",
+      "summary": "Từ nỗi ám ảnh trước những cái chết của bệnh nhân phỏng nặng do không còn da để ghép, PGS Phan Toàn Thắng đã đặt cược sự nghiệp vào màng dây rốn - thứ từng bị coi là \"rác\" sau mỗi ca sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.158618+07:00",
+      "fetched": "2026-02-25T11:11:00.158740+07:00"
+    },
+    {
+      "id": "212209c3715ae1b735f89b97422019e9",
+      "title": "Được ghép tim từ người hiến chết não, nữ bác sĩ sản khoa trở lại hành trình cứu người",
+      "link": "https://tuoitre.vn/duoc-ghep-tim-tu-nguoi-hien-chet-nao-nu-bac-si-san-khoa-tro-lai-hanh-trinh-cuu-nguoi-20260225091151809.htm",
+      "summary": "6 năm trước, bác sĩ sản khoa Nguyễn Thị Phương Nhi (32 tuổi, Tuyên Quang) phát hiện mắc bệnh cơ tim giãn khiến chị tưởng chừng hành trình cứu người của mình phải dừng lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.158474+07:00",
+      "fetched": "2026-02-25T11:11:00.158605+07:00"
+    },
+    {
+      "id": "16c577c488550ccea211940741e14bb7",
+      "title": "Tết bình yên và đầy hy vọng",
+      "link": "https://tuoitre.vn/tet-binh-yen-va-day-hy-vong-20260225092218276.htm",
+      "summary": "Tai nạn giao thông giảm, ít xung đột do rượu bia và hát hò. Nhiều người dân vùng lũ kịp có nhà mới. Hoa Tết, văn hóa ngày xuân mang theo những thông điệp mới mẻ. Tết Bính Ngọ đi qua bình yên, ấm áp và đầy hy vọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:11:00.158250+07:00",
+      "fetched": "2026-02-25T11:11:00.158459+07:00"
+    },
     {
       "id": "52b395b83d081bdd6ef3e428217074f0",
       "title": "Thuế quan của ông Trump: Chờ làm rõ rồi tính tiếp",
@@ -153,6 +303,406 @@ window.newsData_2026_02_25 = {
       "fetched": "2026-02-25T08:19:10.930558+07:00"
     },
     {
+      "id": "2c69ebd75b9823c15c76a1ebc0dc5ef1",
+      "title": "Xem nhanh 12h: Báo cáo vụ tử vong nghi do chất làm đẹp | TikToker Thắng Không Kịp là ai?",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-bao-cao-vu-tu-vong-nghi-do-chat-lam-dep-tiktoker-thang-khong-kip-la-ai-185260225110525097.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Xem nhanh 12h ngày 25.2.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T04:05:00+07:00",
+      "fetched": "2026-02-25T11:10:59.019925+07:00"
+    },
+    {
+      "id": "eaa7b19f40fdf379687409b297aafe98",
+      "title": "Vụ cô gái tử vong sau khi truyền trắng da tại nhà: Nữ điều dưỡng khai gì?",
+      "link": "https://thanhnien.vn/vu-co-gai-tu-vong-sau-truyen-trang-da-tai-nha-nu-dieu-duong-khai-gi-185260225103407448.htm",
+      "summary": "Cơ quan chức năng TP.HCM đã lấy lời khai nữ điều dưỡng của Bệnh viện Mắt Sài Gòn Biên Hòa, người đến tận nhà để tiêm truyền trắng da cho cô gái 34 tuổi, trước khi người này tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T04:04:00+07:00",
+      "fetched": "2026-02-25T11:10:59.020097+07:00"
+    },
+    {
+      "id": "169c78ee72a3169f56ad900110700ee0",
+      "title": "Phản hồi bài báo 'bất thường một bản án về xây nhà trên đất người khác'",
+      "link": "https://thanhnien.vn/phan-hoi-bai-bao-bat-thuong-mot-ban-an-ve-xay-nha-tren-dat-nguoi-khac-185260214183329758.htm",
+      "summary": "Theo ông Thiều Đình Thu về bản chất pháp lý, việc cấp giấy chứng nhận quyền sử dụng đất cho ông Nguyễn Văn Nam ghi số thửa đất 2632 nhưng vị trí thực tế là thửa 2609.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T04:01:00+07:00",
+      "fetched": "2026-02-25T11:10:59.020255+07:00"
+    },
+    {
+      "id": "d328d04d98ceff5a87219fcbeec8dec3",
+      "title": "'Mất' buồng tử cung sau 9 lần nạo thai",
+      "link": "https://vnexpress.net/mat-buong-tu-cung-sau-9-lan-nao-thai-5043872.html",
+      "summary": "Sau 9 lần nạo hút thai, khoang tử cung của chị Hòa, 35 tuổi, gần như không còn do sẹo xơ dính nặng, gây vô sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T04:00:00+07:00",
+      "fetched": "2026-02-25T11:10:55.659503+07:00"
+    },
+    {
+      "id": "625face43b82211948eaa512b8492fff",
+      "title": "Tại sao tiêm vaccine vẫn mắc cúm?",
+      "link": "https://vnexpress.net/tai-sao-tiem-vaccine-van-mac-cum-5043864.html",
+      "summary": "Sau khi tiêm vaccine, cơ thể có thể xuất hiện triệu chứng mệt mỏi, sốt, hoặc mắc bệnh có triệu chứng tương tự cúm… gây hiểu nhầm về việc đã tiêm vẫn nhiễm cúm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T04:00:00+07:00",
+      "fetched": "2026-02-25T11:10:55.659683+07:00"
+    },
+    {
+      "id": "413d927b4e4e4e489421d73d43521a31",
+      "title": "Cách giảm nấm miệng tự nhiên",
+      "link": "https://vnexpress.net/cach-giam-nam-mieng-tu-nhien-5043801.html",
+      "summary": "Súc miệng bằng nước muối sinh lý và hạn chế thực phẩm nhiều đường có thể hỗ trợ kiểm soát nấm miệng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T04:00:00+07:00",
+      "fetched": "2026-02-25T11:10:55.659868+07:00"
+    },
+    {
+      "id": "bf8876b99375f9883a6237807cf2ba97",
+      "title": "Iran sắp mua tên lửa chống hạm siêu âm Trung Quốc?",
+      "link": "https://thanhnien.vn/iran-sap-mua-ten-lua-chong-ham-sieu-am-trung-quoc-185260225105038648.htm",
+      "summary": "Hãng tin Reuters hôm 24.2 dẫn các nguồn thạo tin cho biết Iran sắp đạt được thỏa thuận với Trung Quốc để mua tên lửa hành trình chống hạm siêu âm, đúng vào thời điểm Mỹ triển khai một lực lượng hải quân lớn gần bờ biển Iran để chuẩn bị cho các cuộc tấn công có thể xảy ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T04:00:00+07:00",
+      "fetched": "2026-02-25T11:10:59.020424+07:00"
+    },
+    {
+      "id": "2dea9b3d7c503a15f769d98e36f2efe6",
+      "title": "Samsung tung video 15 giây 'đá xoáy' Apple trước ngày ra mắt Galaxy S26",
+      "link": "https://thanhnien.vn/samsung-tung-video-15-giay-da-xoay-apple-truoc-ngay-ra-mat-galaxy-s26-185260225094553209.htm",
+      "summary": "Samsung vừa công bố đoạn video dài 15 giây về Galaxy S26 nhằm \"đá xoáy\" đối thủ iPhone từ Apple liên quan đến khả năng chỉnh sửa ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:55:00+07:00",
+      "fetched": "2026-02-25T11:10:59.020581+07:00"
+    },
+    {
+      "id": "4bf5e40bbdc62dc0b76e6de9961cbd65",
+      "title": "Nghe shipper kể chuyện giao hàng sau tết, mong được lì xì bằng... sự thông cảm",
+      "link": "https://thanhnien.vn/nghe-shipper-ke-chuyen-giao-hang-sau-tet-mong-duoc-li-xi-bang-su-thong-cam-185260225103730592.htm",
+      "summary": "Nhiều shipper cho biết sau tết họ vẫn chưa thể \"thở\". Không chỉ giao đơn mới, nhiều shipper còn tất bật với một nhiệm vụ khác, là trả những đơn hàng bị kẹt từ trước giao thừa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:54:00+07:00",
+      "fetched": "2026-02-25T11:10:59.020733+07:00"
+    },
+    {
+      "id": "27270f3e54c3f72628ea28a2c3343afd",
+      "title": "Bên trong hầm ngầm nơi ông Zelensky chỉ huy cuộc chiến chống Nga",
+      "link": "https://vnexpress.net/ben-trong-ham-ngam-noi-ong-zelensky-chi-huy-cuoc-chien-chong-nga-5043669.html",
+      "summary": "Hầm ngầm chật hẹp, đầy dây cáp và biển báo tại Kiev là nơi ông Zelensky trú ẩn và dẫn dắt cuộc chiến với Nga suốt 4 năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:53:35+07:00",
+      "fetched": "2026-02-25T11:10:55.660034+07:00"
+    },
+    {
+      "id": "27270f3e54c3f72628ea28a2c3343afd",
+      "title": "Bên trong hầm ngầm nơi ông Zelensky chỉ huy cuộc chiến chống Nga",
+      "link": "https://vnexpress.net/ben-trong-ham-ngam-noi-ong-zelensky-chi-huy-cuoc-chien-chong-nga-5043669.html",
+      "summary": "Hầm ngầm chật hẹp, đầy dây cáp và biển báo tại Kiev là nơi ông Zelensky trú ẩn và dẫn dắt cuộc chiến với Nga suốt 4 năm qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T03:53:35+07:00",
+      "fetched": "2026-02-25T11:11:01.625002+07:00"
+    },
+    {
+      "id": "44af3b46074ea95b58f117cfad0e5873",
+      "title": "Sở GD-ĐT TP.HCM nêu yêu cầu đến các trường học liên quan đến sách giáo khoa",
+      "link": "https://thanhnien.vn/so-gd-dt-tphcm-neu-yeu-cau-den-cac-truong-hoc-lien-quan-den-sach-giao-khoa-185260225102003594.htm",
+      "summary": "Ngày 25.2, Sở GD-ĐT TP.HCM triển khai các yêu cầu về tăng cường công tác quản lý thực hiện bộ sách giáo khoa thống nhất từ năm học 2026-2027 đến đồng loạt gần 3.000 cơ sở giáo dục phổ thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:53:00+07:00",
+      "fetched": "2026-02-25T11:10:59.020904+07:00"
+    },
+    {
+      "id": "f98def50ce1998ef8a6869a01830317d",
+      "title": "Từ 1.3, ô tô phải đáp ứng kiểm định khí thải mới ra sao?",
+      "link": "https://thanhnien.vn/tu-13-o-to-phai-dap-ung-kiem-dinh-khi-thai-moi-ra-sao-185260225102537827.htm",
+      "summary": "Từ 1.3, quy định mới về kiểm định khí thải ô tô chính thức có hiệu lực. Các chủ xe ô tô chạy xăng và dầu sẽ phải chuẩn bị gì để đáp ứng các quy định mới về khí thải?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:52:00+07:00",
+      "fetched": "2026-02-25T11:10:59.021064+07:00"
+    },
+    {
+      "id": "95e6c40ff321efdb58b46e721170ec24",
+      "title": "Vàng 0,05 chỉ hút khách dịp vía Thần Tài",
+      "link": "https://vnexpress.net/vang-0-05-chi-hut-khach-dip-via-than-tai-5043844.html",
+      "summary": "Nhiều thương hiệu vàng tung ra thị trường các sản phẩm vàng 24K cỡ mini, trọng lượng chỉ từ 0,05 chỉ để đáp ứng nhu cầu mua trong dịp vía Thần Tài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:47:51+07:00",
+      "fetched": "2026-02-25T11:10:55.660198+07:00"
+    },
+    {
+      "id": "02d89ca8f0b0ff9fd5226be65176b2d7",
+      "title": "Iran gần chốt xong thương vụ mua tên lửa đối hạm của Trung Quốc?",
+      "link": "https://thanhnien.vn/iran-gan-chot-xong-thuong-vu-mua-ten-lua-doi-ham-cua-trung-quoc-185260225102317096.htm",
+      "summary": "Iran đang đến gần khả năng mua được một loại tên lửa đối hạm siêu thanh do Trung Quốc sản xuất, được cho là có năng lực đối phó tàu sân bay Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:46:00+07:00",
+      "fetched": "2026-02-25T11:10:59.021217+07:00"
+    },
+    {
+      "id": "fe6cc6bd967d81f79ccd1548886377dc",
+      "title": "Đại học Bách khoa Hà Nội siết quy đổi IELTS, giảm tổ hợp xét tuyển",
+      "link": "https://vnexpress.net/tuyen-sinh-dai-hoc-bach-khoa-ha-noi-2026-bang-quy-doi-ielts-to-hop-phuong-thuc-xet-tuyen-5043803.html",
+      "summary": "IELTS 5.0 khi xét tuyển vào Đại học Bách khoa Hà Nội (HUST) được quy đổi thành 8 điểm Tiếng Anh, thay vì 8,5 như thông báo cách đây 4 tháng; số tổ hợp giảm 4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:44:42+07:00",
+      "fetched": "2026-02-25T11:10:55.660360+07:00"
+    },
+    {
+      "id": "c57d2655cfe186f68073dc76228c7ece",
+      "title": "Lại Lý Huynh chạm trán 'thần đồng' cờ tướng Trung Quốc ở giải đấu có tiền thưởng 4 tỉ đồng",
+      "link": "https://thanhnien.vn/lai-ly-huynh-cham-tran-than-dong-co-tuong-trung-quoc-o-giai-dau-co-tien-thuong-4-ti-dong-185260225104007981.htm",
+      "summary": "Thách thức lớn cho Lại Lý Huynh ở vòng chung kết Ngũ Dương Bôi 2026 khởi tranh từ chiều nay (25.2) khi rơi vào bảng đấu có sự góp mặt của 'thần đồng\" cờ tướng Trung Quốc Lưu Bách Hoành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:43:00+07:00",
+      "fetched": "2026-02-25T11:10:59.021376+07:00"
+    },
+    {
+      "id": "4952c6c121e33c119bd03bb680f000d0",
+      "title": "Người Việt ngày càng rời xa cuộc gọi thoại truyền thống",
+      "link": "https://thanhnien.vn/nguoi-viet-ngay-cang-roi-xa-cuoc-goi-thoai-truyen-thong-185260225100946382.htm",
+      "summary": "Báo cáo lưu lượng viễn thông dịp Tết Nguyên đán 2026 cho thấy sự sụt giảm kỷ lục của dịch vụ gọi thoại: thay vì nhấc máy gọi điện chúc tết, người Việt đang chuyển dịch sang các nền tảng nhắn tin và gọi video qua internet.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:43:00+07:00",
+      "fetched": "2026-02-25T11:10:59.021526+07:00"
+    },
+    {
+      "id": "8d56cfe411c8ff5c78dc76a84ab42a74",
+      "title": "Đa số người Mỹ nói ông Trump 'thất thường hơn do tuổi tác'",
+      "link": "https://vnexpress.net/da-so-nguoi-my-noi-ong-trump-that-thuong-hon-do-tuoi-tac-5043800.html",
+      "summary": "Phần lớn người Mỹ cho rằng Tổng thống Trump, 79 tuổi, ngày càng trở nên thất thường khi tuổi cao, theo khảo sát của Reuters/Ipsos.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:42:18+07:00",
+      "fetched": "2026-02-25T11:10:55.660518+07:00"
+    },
+    {
+      "id": "8d56cfe411c8ff5c78dc76a84ab42a74",
+      "title": "Đa số người Mỹ nói ông Trump 'thất thường hơn do tuổi tác'",
+      "link": "https://vnexpress.net/da-so-nguoi-my-noi-ong-trump-that-thuong-hon-do-tuoi-tac-5043800.html",
+      "summary": "Phần lớn người Mỹ cho rằng Tổng thống Trump, 79 tuổi, ngày càng trở nên thất thường khi tuổi cao, theo khảo sát của Reuters/Ipsos.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T03:42:18+07:00",
+      "fetched": "2026-02-25T11:11:01.625182+07:00"
+    },
+    {
+      "id": "a22f03777fe60d71540a5354da2e389f",
+      "title": "Ổ sạc xe điện chạy như robot trên trần nhà",
+      "link": "https://vnexpress.net/o-sac-xe-dien-chay-nhu-robot-tren-tran-nha-5043769.html",
+      "summary": "Thiết bị nhỏ gọn lướt dọc theo những đường ray gắn trên trần một bãi đỗ xe ngầm, dừng lại phía trên một xe điện cần sạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:41:23+07:00",
+      "fetched": "2026-02-25T11:10:55.660679+07:00"
+    },
+    {
+      "id": "6bc5e763add636a590f328c03bd42231",
+      "title": "TP.Huế: Nam shipper tử vong sau va chạm với xe bồn trên cầu Trường Tiền",
+      "link": "https://thanhnien.vn/tphue-nam-shipper-tu-vong-sau-va-cham-voi-xe-bon-tren-cau-truong-tien-185260225094951138.htm",
+      "summary": "Sau cú chạm với xe bồn trên cầu Trường Tiền (TP.Huế), nam tài xế xe ôm công nghệ (shipper, 36 tuổi) tử vong tại chỗ. Hiện lực lượng chức năng TP.Huế điều ra, làm rõ nguyên nhân vụ tai nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:41:00+07:00",
+      "fetched": "2026-02-25T11:10:59.021675+07:00"
+    },
+    {
+      "id": "8ea2bb83c5344a7fc68d1265ed6ab9a3",
+      "title": "Liên tiếp cháy cơ sở kinh doanh, Công an TP.HCM cảnh báo khẩn sau tết",
+      "link": "https://thanhnien.vn/lien-tiep-chay-co-so-kinh-doanh-cong-an-tphcm-canh-bao-khan-sau-tet-185260225093544244.htm",
+      "summary": "Liên tiếp trong những ngày qua, nhiều vụ cháy xảy ra tại cơ sở kinh doanh trên địa bàn TP.HCM khiến dư luận không khỏi lo ngại về công tác an toàn phòng cháy chữa cháy sau Tết Nguyên đán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:41:00+07:00",
+      "fetched": "2026-02-25T11:10:59.021842+07:00"
+    },
+    {
+      "id": "7c33cfa3eb4603384c386cf3b42e9421",
+      "title": "Ông chủ 'thích phát tiền nhất' Trung Quốc",
+      "link": "https://vnexpress.net/ong-chu-thich-phat-tien-nhat-trung-quoc-5043842.html",
+      "summary": "Thôi Bồi Quân, chủ tịch công ty cần trục ở Hà Nam, nổi tiếng vì sở thích thưởng và lì xì hậu hĩnh cho nhân viên cùng khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:39:44+07:00",
+      "fetched": "2026-02-25T11:10:55.660854+07:00"
+    },
+    {
+      "id": "7c33cfa3eb4603384c386cf3b42e9421",
+      "title": "Ông chủ 'thích phát tiền nhất' Trung Quốc",
+      "link": "https://vnexpress.net/ong-chu-thich-phat-tien-nhat-trung-quoc-5043842.html",
+      "summary": "Thôi Bồi Quân, chủ tịch công ty cần trục ở Hà Nam, nổi tiếng vì sở thích thưởng và lì xì hậu hĩnh cho nhân viên cùng khách hàng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T03:39:44+07:00",
+      "fetched": "2026-02-25T11:11:01.625347+07:00"
+    },
+    {
+      "id": "b574821683c13a013ff32ea8f2858ee4",
+      "title": "Chủ tịch FIFA lên tiếng khẩn cấp về World Cup ở Mexico: ‘Sẽ không xảy ra thêm bất cứ sự cố nào’",
+      "link": "https://thanhnien.vn/chu-tich-fifa-len-tieng-khan-cap-ve-world-cup-o-mexico-se-khong-xay-ra-them-bat-cu-su-co-nao-185260225103038617.htm",
+      "summary": "Chủ tịch FIFA Gianni Infantino vừa lên tiếng, rằng ông 'rất tự tin' Mexico vẫn là nước đồng chủ nhà World Cup cùng với Mỹ và Canada, dù tình hình an ninh bất ổn hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:39:00+07:00",
+      "fetched": "2026-02-25T11:10:59.021997+07:00"
+    },
+    {
+      "id": "39850109026567bea92c0a4ce57f0e66",
+      "title": "Tưởng mệt mỏi thông thường, hóa đột quỵ",
+      "link": "https://vnexpress.net/tuong-met-moi-thong-thuong-hoa-dot-quy-5043773.html",
+      "summary": "Tự truyền thuốc bổ chữa mệt mỏi suốt một tuần, người phụ nữ 58 tuổi nhập viện cấp cứu trong tình trạng liệt nửa người, được chẩn đoán nhồi máu não cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:38:38+07:00",
+      "fetched": "2026-02-25T11:10:55.661029+07:00"
+    },
+    {
+      "id": "97e6b51fc58134a8ad6486b6b608cfa3",
+      "title": "Thí sinh đăng ký thi đánh giá năng lực đông nhất lịch sử",
+      "link": "https://vnexpress.net/thi-sinh-dang-ky-thi-danh-gia-nang-luc-dong-nhat-lich-su-5043638.html",
+      "summary": "Gần 137.400 thí sinh đăng ký dự thi đợt 1 đánh giá năng lực (V-ACT) do Đại học Quốc gia TP HCM tổ chức, tăng 5% so với cùng kỳ năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:35:55+07:00",
+      "fetched": "2026-02-25T11:10:55.661199+07:00"
+    },
+    {
+      "id": "f430993abc3a5fd01fecca0b216c3b78",
+      "title": "Vĩnh biệt cựu Giám đốc kỹ thuật CLB HAGL Nguyễn Văn Vinh, 'quân sư' lẫy lừng của bầu Đức",
+      "link": "https://thanhnien.vn/vinh-biet-cuu-giam-doc-ky-thuat-clb-hagl-nguyen-van-vinh-quan-su-lay-lung-cua-bau-duc-185260225102230876.htm",
+      "summary": "Chuyên gia bóng đá Nguyễn Văn Vinh hay còn gọi là 'bố Vinh Gia Lai' hay 'ông già Ninh Thuận', cựu Giám đốc kỹ thuật HAGL, 'quân sư' của bầu Đức đã mãi mãi ra đi ở tuổi 84 vào 3 giờ 30 phút sáng nay 25.2.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:31:00+07:00",
+      "fetched": "2026-02-25T11:10:59.022146+07:00"
+    },
+    {
+      "id": "edf08ca561e8a035d9439c973a4ed0e0",
+      "title": "Chặt bỏ giàn hoa giấy vì nhiều người kéo đến chụp ảnh",
+      "link": "https://vnexpress.net/chat-bo-gian-hoa-giay-vi-nhieu-nguoi-keo-den-chup-anh-5043863.html",
+      "summary": "Gia đình đang sinh hoạt vui vẻ thì một nhóm người lạ kéo đến xôn xao trước cửa nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:26:16+07:00",
+      "fetched": "2026-02-25T11:10:55.661356+07:00"
+    },
+    {
+      "id": "649a90fa54bcdfc76ce3c67e72b0a027",
+      "title": "Meta chi hàng chục tỷ USD mua chip AI của AMD",
+      "link": "https://vnexpress.net/meta-chi-hang-chuc-ty-usd-mua-chip-ai-cua-amd-5043858.html",
+      "summary": "Meta thông báo đạt thỏa thuận trị giá hàng chục tỷ USD kéo dài nhiều năm với AMD, bao gồm việc mua GPU và CPU.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:24:44+07:00",
+      "fetched": "2026-02-25T11:10:55.661523+07:00"
+    },
+    {
+      "id": "649a90fa54bcdfc76ce3c67e72b0a027",
+      "title": "Meta chi hàng chục tỷ USD mua chip AI của AMD",
+      "link": "https://vnexpress.net/meta-chi-hang-chuc-ty-usd-mua-chip-ai-cua-amd-5043858.html",
+      "summary": "Meta thông báo đạt thỏa thuận trị giá hàng chục tỷ USD kéo dài nhiều năm với AMD, bao gồm việc mua GPU và CPU.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-25T03:24:44+07:00",
+      "fetched": "2026-02-25T11:11:07.477163+07:00"
+    },
+    {
+      "id": "3e9dbd9cab211b2f639ed11063c27ae1",
+      "title": "'Văn hóa là một trong các trụ cột phát triển quốc gia'",
+      "link": "https://vnexpress.net/van-hoa-la-mot-trong-cac-tru-cot-phat-trien-quoc-gia-5043805.html",
+      "summary": "Nghị quyết 80 đặt văn hóa ngang tầm chính trị, kinh tế, xã hội, xác định đây là trụ cột và hệ điều tiết của phát triển, đồng thời yêu cầu bố trí tối thiểu 2% tổng chi ngân sách nhà nước cho lĩnh vực này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:23:47+07:00",
+      "fetched": "2026-02-25T11:10:55.661677+07:00"
+    },
+    {
+      "id": "5a7ab15ffa0c7a0e63fbf4decca4d61a",
+      "title": "Tình cờ gặp lại tình đầu giữa dòng tắc đường",
+      "link": "https://vnexpress.net/tinh-co-gap-lai-tinh-dau-giua-dong-tac-duong-5043845.html",
+      "summary": "Video 15 giây ghi lại cảnh hai người từng yêu nhau, tình cờ chạm mặt trên cao tốc sau 10 năm xa cách đang thu hút hàng triệu lượt xem mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T03:18:01+07:00",
+      "fetched": "2026-02-25T11:10:55.661853+07:00"
+    },
+    {
+      "id": "58bc7ea53f066c0aa450e4174eb52d8e",
+      "title": "Israel trưng bày Kinh thánh 2.100 năm",
+      "link": "https://vnexpress.net/israel-trung-bay-kinh-thanh-2-100-nam-5043841.html",
+      "summary": "Bảo tàng Israel đang trưng bày nguyên bản Kinh thánh cổ dài 7 mét, sau hơn nửa thế kỷ cất giữ cẩn mật.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T03:02:03+07:00",
+      "fetched": "2026-02-25T11:11:01.625506+07:00"
+    },
+    {
+      "id": "b10852dc1d3bcb94681307318f7e3539",
+      "title": "'Công chúa tuyết' qua lời kể của bạn cùng phòng Đại học Stanford",
+      "link": "https://vnexpress.net/cong-chua-tuyet-qua-loi-ke-cua-ban-cung-phong-dai-hoc-stanford-5043768.html",
+      "summary": "Trong mắt Lauren Kooong, Eileen Gu là một sinh viên xuất sắc của Đại học Stanford (Mỹ), biết cách cân bằng giữa việc học với thi đấu bất chấp áp lực rất lớn trong những năm thanh xuân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-25T03:00:00+07:00",
+      "fetched": "2026-02-25T11:11:08.529537+07:00"
+    },
+    {
+      "id": "565d688636d462401be5c0d538f8d445",
+      "title": "Loạt nghị sĩ Dân chủ tẩy chay Thông điệp Liên bang của ông Trump",
+      "link": "https://vnexpress.net/loat-nghi-si-dan-chu-tay-chay-thong-diep-lien-bang-cua-ong-trump-5043813.html",
+      "summary": "Nhiều nghị sĩ đảng Dân chủ chuẩn bị các động thái phản đối trong lúc Tổng thống Donald Trump đọc Thông điệp Liên bang ngày 24/2.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T02:51:20+07:00",
+      "fetched": "2026-02-25T11:11:01.625672+07:00"
+    },
+    {
+      "id": "4746c1996fa88a2f7933ee5d5610d5d1",
+      "title": "Mexico xem xét kiện Elon Musk tội phỉ báng Tổng thống",
+      "link": "https://vnexpress.net/mexico-xem-xet-kien-elon-musk-toi-phi-bang-tong-thong-5043783.html",
+      "summary": "Tổng thống Mexico đang cân nhắc khởi kiện Elon Musk, sau khi tỷ phú này ám chỉ bà \"nghe lệnh\" từ các trùm băng đảng ma túy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T02:49:46+07:00",
+      "fetched": "2026-02-25T11:11:01.625843+07:00"
+    },
+    {
+      "id": "70c79dde974977831a67e0984410935c",
+      "title": "Biệt thự nơi trùm ma túy Mexico tử thủ",
+      "link": "https://vnexpress.net/biet-thu-noi-trum-ma-tuy-mexico-tu-thu-5043784.html",
+      "summary": "Cuộc đấu súng cuối cùng của El Mencho, trùm ma túy quyền lực nhất Mexico, diễn ra từ căn biệt thự xa xỉ trên đồi ở vùng đồng quê Tapalpa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T02:37:01+07:00",
+      "fetched": "2026-02-25T11:11:01.626004+07:00"
+    },
+    {
+      "id": "4d6b6ebc9e53a6348c11753c6e1b8261",
+      "title": "Cơn khát RAM tác động đến thiết bị điện tử thế nào",
+      "link": "https://vnexpress.net/con-khat-ram-tac-dong-den-thiet-bi-dien-tu-the-nao-5042878.html",
+      "summary": "Tình trạng khan hiếm chip nhớ được dự đoán khiến giá thiết bị điện tử, từ điện thoại đến laptop, leo thang trong ít nhất hai năm tới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-25T02:00:00+07:00",
+      "fetched": "2026-02-25T11:11:07.477337+07:00"
+    },
+    {
       "id": "fd6097b63fe221f247829b3e356da859",
       "title": "Thủ tướng: Khánh thành 2 cao tốc qua Lạng Sơn và Cao Bằng dịp sinh nhật Bác",
       "link": "https://tuoitre.vn/thu-tuong-khanh-thanh-2-cao-toc-qua-lang-son-va-cao-bang-dip-sinh-nhat-bac-20260224203408798.htm",
@@ -301,6 +851,36 @@ window.newsData_2026_02_25 = {
       "category": "Tổng hợp",
       "published": "2026-02-25T01:48:11.518541+07:00",
       "fetched": "2026-02-25T01:48:11.518771+07:00"
+    },
+    {
+      "id": "f834cadb5ea9c6b5f609e51da1a1d50f",
+      "title": "Khoảnh khắc tên lửa Nga tập kích Kiev nhìn từ không gian",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-nga-tap-kich-kiev-nhin-tu-khong-gian-5043759.html",
+      "summary": "Video mới công bố, được quay từ trạm vũ trụ ISS, cho thấy cuộc tập kích tên lửa quy mô lớn của Nga nhằm vào Kiev cuối năm ngoái.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T01:40:33+07:00",
+      "fetched": "2026-02-25T11:11:01.626160+07:00"
+    },
+    {
+      "id": "d95d1df0c5198bebf3a3e47fce43eb4f",
+      "title": "Ông Trump lập kỷ lục về thời lượng phát biểu Thông điệp Liên bang",
+      "link": "https://vnexpress.net/ong-trump-sap-doc-thong-diep-lien-bang-dau-tien-cua-nhiem-ky-hai-5043772.html",
+      "summary": "Tổng thống Trump đọc Thông điệp Liên bang đầu tiên của nhiệm kỳ hai tại Đồi Capitol, phá kỷ lục về thời lượng do cựu tổng thống Clinton thiết lập năm 2000.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T01:23:14+07:00",
+      "fetched": "2026-02-25T11:11:01.626313+07:00"
+    },
+    {
+      "id": "21e7559824d0f19f2f34dd2431af98a0",
+      "title": "Giá vàng thế giới giảm hơn 80 USD một ounce",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-giam-hon-80-usd-mot-ounce-5043775.html",
+      "summary": "Lực bán chốt lời và đồng đôla Mỹ mạnh lên khiến giá vàng thế giới giảm hơn 80 USD ngay sau khi chạm đỉnh 3 tuần.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-25T01:23:00+07:00",
+      "fetched": "2026-02-25T11:11:03.704917+07:00"
     },
     {
       "id": "4e5f262a099ba2e921eba23e4073cf5e",
