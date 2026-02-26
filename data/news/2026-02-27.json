@@ -1,5 +1,15 @@
 [
   {
+    "id": "ac60baedb8c7628d8ca641d5c2fd997b",
+    "title": "Thời tiết hôm nay 27-2: Bắc Bộ giảm mưa, Nam Bộ mưa trái mùa",
+    "link": "https://tuoitre.vn/thoi-tiet-hom-nay-27-2-bac-bo-giam-mua-nam-bo-mua-trai-mua-20260226165731553.htm",
+    "summary": "Sau đợt mưa to, thời tiết Bắc Bộ giảm mưa, nóng dần lên, Nam Bộ vẫn trong đợt mưa trái mùa diện rộng.",
+    "source": "Tuổi Trẻ",
+    "category": "Tổng hợp",
+    "published": "2026-02-27T03:26:22.147228+07:00",
+    "fetched": "2026-02-27T03:26:22.147457+07:00"
+  },
+  {
     "id": "9ed0702aff3af4d8de1c7b74082e4f59",
     "title": "Giảm cân hoài không xuống: Do cơ thể đang 'chống lại' bạn?",
     "link": "https://tuoitre.vn/giam-can-hoai-khong-xuong-do-co-the-dang-chong-lai-ban-2026022614441731.htm",
@@ -150,6 +160,56 @@
     "fetched": "2026-02-27T01:39:04.956084+07:00"
   },
   {
+    "id": "7b474529b29ba1222d20f8cbb0119a1e",
+    "title": "Nhiều 'đại gia' nông nghiệp lãi kỷ lục năm ngoái",
+    "link": "https://vnexpress.net/nhieu-dai-gia-nong-nghiep-lai-ky-luc-nam-ngoai-5040387.html",
+    "summary": "Năm 2025 đánh dấu bước chuyển mạnh của doanh nghiệp nông nghiệp khi Dabaco lãi hơn 1.500 tỷ đồng, còn HAG ghi nhận 2.243 tỷ - mức cao nhất kể từ khi hoạt động.",
+    "source": "VnExpress - Kinh Doanh",
+    "category": "Kinh doanh",
+    "published": "2026-02-26T20:06:09+07:00",
+    "fetched": "2026-02-27T03:26:25.862109+07:00"
+  },
+  {
+    "id": "2e193255885f2d68da503b58534616b7",
+    "title": "Ông Trump sẽ triệu tập sếp Amazon, Google, buộc tự cấp điện cho trung tâm dữ liệu",
+    "link": "https://vnexpress.net/ong-trump-se-trieu-tap-sep-amazon-google-buoc-tu-cap-dien-cho-trung-tam-du-lieu-5044413.html",
+    "summary": "Các gã khổng lồ công nghệ Amazon, Google, Meta sẽ gặp Tổng thống Trump tuần tới, ký cam kết “tự cung tự cấp” điện cho các trung tâm dữ liệu của họ.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-02-26T19:49:47+07:00",
+    "fetched": "2026-02-27T03:26:18.314635+07:00"
+  },
+  {
+    "id": "2e193255885f2d68da503b58534616b7",
+    "title": "Ông Trump sẽ triệu tập sếp Amazon, Google, buộc tự cấp điện cho trung tâm dữ liệu",
+    "link": "https://vnexpress.net/ong-trump-se-trieu-tap-sep-amazon-google-buoc-tu-cap-dien-cho-trung-tam-du-lieu-5044413.html",
+    "summary": "Các gã khổng lồ công nghệ Amazon, Google, Meta sẽ gặp Tổng thống Trump tuần tới, ký cam kết “tự cung tự cấp” điện cho các trung tâm dữ liệu của họ.",
+    "source": "VnExpress - Kinh Doanh",
+    "category": "Kinh doanh",
+    "published": "2026-02-26T19:49:47+07:00",
+    "fetched": "2026-02-27T03:26:25.862288+07:00"
+  },
+  {
+    "id": "ea20f8cca8ce91ad6d15a4d3894e17d6",
+    "title": "Hàng không vũ trụ Mỹ 'khát' đất hiếm",
+    "link": "https://vnexpress.net/hang-khong-vu-tru-my-khat-dat-hiem-5044402.html",
+    "summary": "Các nhà cung cấp trong ngành hàng không vũ trụ và bán dẫn Mỹ đang đối mặt với thiếu hụt đất hiếm ngày càng trầm trọng, theo Reuters.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-02-26T19:44:05+07:00",
+    "fetched": "2026-02-27T03:26:18.314821+07:00"
+  },
+  {
+    "id": "ea20f8cca8ce91ad6d15a4d3894e17d6",
+    "title": "Hàng không vũ trụ Mỹ 'khát' đất hiếm",
+    "link": "https://vnexpress.net/hang-khong-vu-tru-my-khat-dat-hiem-5044402.html",
+    "summary": "Các nhà cung cấp trong ngành hàng không vũ trụ và bán dẫn Mỹ đang đối mặt với thiếu hụt đất hiếm ngày càng trầm trọng, theo Reuters.",
+    "source": "VnExpress - Kinh Doanh",
+    "category": "Kinh doanh",
+    "published": "2026-02-26T19:44:05+07:00",
+    "fetched": "2026-02-27T03:26:25.862455+07:00"
+  },
+  {
     "id": "60fb984bdb075637a22f294442796c3d",
     "title": "Thói quen hằng ngày giúp giảm nguy cơ mắc ung thư",
     "link": "https://thanhnien.vn/thoi-quen-hang-ngay-giup-giam-nguy-co-mac-ung-thu-18526022621192592.htm",
@@ -158,6 +218,36 @@
     "category": "Tổng hợp",
     "published": "2026-02-26T18:33:00+07:00",
     "fetched": "2026-02-27T01:39:03.488833+07:00"
+  },
+  {
+    "id": "06f951f8b0e8cbfb422442bb8de9a191",
+    "title": "Hà Nội dự kiến hỗ trợ đào tạo 1.000 tiến sĩ",
+    "link": "https://vnexpress.net/ha-noi-du-kien-ho-tro-dao-tao-1-000-tien-si-5044474.html",
+    "summary": "Để hoàn thành mục tiêu phát triển nguồn nhân lực tinh hoa, thành phố đang xây dựng chính sách hỗ trợ đào tạo 1.000 nghiên cứu sinh giai đoạn 2026-2030.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-02-26T18:16:49+07:00",
+    "fetched": "2026-02-27T03:26:18.314990+07:00"
+  },
+  {
+    "id": "077a4be2442b5be51f82ccb531e283cd",
+    "title": "Chế biến trứng thế nào để giữ trọn dinh dưỡng",
+    "link": "https://vnexpress.net/che-bien-trung-the-nao-de-giu-tron-dinh-duong-5043995.html",
+    "summary": "Trứng ít calo nhưng bổ dưỡng, nên chế biến ở nhiệt độ vừa phải như luộc hoặc chần để giữ chất dinh dưỡng và ăn kèm rau xanh cho bữa ăn cân bằng.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-02-26T18:00:00+07:00",
+    "fetched": "2026-02-27T03:26:18.315158+07:00"
+  },
+  {
+    "id": "8055973d12a6def64afb4d60dfc42bf3",
+    "title": "Hội chứng Horner",
+    "link": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-horner-406",
+    "summary": "Hội chứng Horner là một rối loạn thần kinh ít gặp, ảnh hưởng đến mắt và vùng xung quanh mắt ở một bên mặt.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-02-26T18:00:00+07:00",
+    "fetched": "2026-02-27T03:26:18.315328+07:00"
   },
   {
     "id": "fa55d12e5e991343c00d775c104f3a0f",
