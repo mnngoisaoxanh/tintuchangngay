@@ -1,7 +1,137 @@
 window.newsData_2026_02_26 = {
   "date": "2026-02-26",
-  "lastUpdated": "2026-02-26T21:43:30.782367+07:00",
+  "lastUpdated": "2026-02-26T23:46:21.582217+07:00",
   "articles": [
+    {
+      "id": "4abb0f46b5b3f04db02b0f41c0d9c7f6",
+      "title": "Cao tốc Đồng Đăng - Trà Lĩnh bước vào 85 ngày đêm quyết định với 'Chiến dịch Đông Khê 2026'",
+      "link": "https://tuoitre.vn/cao-toc-dong-dang-tra-linh-buoc-vao-85-ngay-dem-quyet-dinh-voi-chien-dich-dong-khe-2026-2026022619454078.htm",
+      "summary": "UBND tỉnh Cao Bằng và UBND tỉnh Lạng Sơn vừa phát động \"Chiến dịch Đông Khê năm 2026\", nhằm hoàn thành giai đoạn 1 cao tốc Đồng Đăng - Trà Lĩnh trước ngày 19-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:46:13.671489+07:00",
+      "fetched": "2026-02-26T23:46:13.671579+07:00"
+    },
+    {
+      "id": "b2b8f21fba9ba61acef93cfcfd5ffc31",
+      "title": "Hàn Quốc tuyên chiến tin giả trước bầu cử, cảnh báo AI thao túng lá phiếu",
+      "link": "https://tuoitre.vn/han-quoc-tuyen-chien-tin-gia-truoc-bau-cu-canh-bao-ai-thao-tung-la-phieu-20260226202626624.htm",
+      "summary": "Trước nguy cơ deepfake thao túng bầu cử, Hàn Quốc lập cơ chế giám sát toàn quốc, truy quét tận gốc các nguồn phát tán tin giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:46:13.671390+07:00",
+      "fetched": "2026-02-26T23:46:13.671478+07:00"
+    },
+    {
+      "id": "500c1b6b978e9aa6e149e38eeb5dec32",
+      "title": "Khánh Hòa phát hiện, trục xuất người đàn ông Kazakhstan bị Interpol truy nã đỏ",
+      "link": "https://tuoitre.vn/khanh-hoa-phat-hien-truc-xuat-nguoi-dan-ong-kazakhstan-bi-interpol-truy-na-do-20260226203226127.htm",
+      "summary": "Cơ quan chức năng tỉnh Khánh Hòa vừa phát hiện và thực hiện thủ tục trục xuất người đàn ông quốc tịch Kazakhstan bị Interpol truy nã đỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:46:13.671286+07:00",
+      "fetched": "2026-02-26T23:46:13.671382+07:00"
+    },
+    {
+      "id": "b6e5f59811d08721acedbb12d4fb202a",
+      "title": "Khi công nghệ tài chính hòa quyện cùng bản sắc Việt",
+      "link": "https://tuoitre.vn/khi-cong-nghe-tai-chinh-hoa-quyen-cung-ban-sac-viet-2026022620460391.htm",
+      "summary": "Ngày vía Thần Tài mùng 10 tháng Giêng là ngày đặc biệt để những người làm kinh doanh mở lòng đón nhận vận khí, cầu mong một năm mới vạn sự như ý và hành trình giao thương phát đạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:46:13.671186+07:00",
+      "fetched": "2026-02-26T23:46:13.671278+07:00"
+    },
+    {
+      "id": "7c32c9600eb575985958a931cfd5c62a",
+      "title": "Vờ mua rau rồi giật dây chuyền người bán rau ở Long An",
+      "link": "https://tuoitre.vn/vo-mua-rau-roi-giat-day-chuyen-nguoi-ban-rau-o-long-an-20260226183235965.htm",
+      "summary": "Vừa ra tù về tội cướp giật tài sản được vài tháng, Đức đã đi xe máy từ TP.HCM về chợ Tân An 2 ở phường Long An, Tây Ninh, giả vờ mua rau rồi giật dây chuyền của chị bán rau bỏ chạy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:46:13.671071+07:00",
+      "fetched": "2026-02-26T23:46:13.671177+07:00"
+    },
+    {
+      "id": "4ec231362fbc2c3b2c26686dcdf92437",
+      "title": "Công bố quyết định kiểm tra, giám sát của Bộ Chính trị với Ban Thường vụ Quân ủy Trung ương",
+      "link": "https://tuoitre.vn/cong-bo-quyet-dinh-kiem-tra-giam-sat-cua-bo-chinh-tri-voi-ban-thuong-vu-quan-uy-trung-uong-20260226205628972.htm",
+      "summary": "Đoàn kiểm tra, giám sát của Bộ Chính trị, Ban Bí thư công bố quyết định kiểm tra, giám sát của Bộ Chính trị, Ban Bí thư năm 2026 với Ban Thường vụ Quân ủy Trung ương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:46:13.670973+07:00",
+      "fetched": "2026-02-26T23:46:13.671063+07:00"
+    },
+    {
+      "id": "29f62a53cc56e73c7e41b01a04b58796",
+      "title": "Bé trai 1 tuổi té hầm nước thải, được người hàng xóm cứu sống sau gần 20 phút",
+      "link": "https://tuoitre.vn/be-trai-1-tuoi-te-ham-nuoc-thai-duoc-nguoi-hang-xom-cuu-song-sau-gan-20-phut-20260226210258146.htm",
+      "summary": "Sau gần 20 phút kiên trì thực hiện các thao tác hô hấp nhân tạo, anh Duy đã cứu được bé trai hàng xóm ngạt thở, ngưng tim vì đuối nước trong hầm chứa nước thải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:46:13.670872+07:00",
+      "fetched": "2026-02-26T23:46:13.670964+07:00"
+    },
+    {
+      "id": "cf8fbae8ccd7f6c34a7d3cdd5f126e9d",
+      "title": "Xác định 2 trận bán kết Giải futsal nữ Đông Nam Á 2026: Việt Nam đấu Thái Lan",
+      "link": "https://tuoitre.vn/xac-dinh-2-tran-ban-ket-giai-futsal-nu-dong-nam-a-2026-viet-nam-dau-thai-lan-20260226210229941.htm",
+      "summary": "Sau loạt trận vòng bảng khép lại, Giải futsal nữ Đông Nam Á 2026 đã xác định được 4 đội giành vé vào bán kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:46:13.670771+07:00",
+      "fetched": "2026-02-26T23:46:13.670864+07:00"
+    },
+    {
+      "id": "6d1f7597b3c72ae3ca2db897f2cd6777",
+      "title": "Buộc dùng xăng E10 từ tháng 6, giờ tiêu thụ vẫn hạn chế: Thủ tướng ra chỉ thị",
+      "link": "https://tuoitre.vn/buoc-dung-xang-e10-tu-thang-6-gio-tieu-thu-van-han-che-thu-tuong-ra-chi-thi-20260226205137111.htm",
+      "summary": "Theo chỉ thị của Thủ tướng, Bộ Công Thương được giao chủ trì xây dựng kế hoạch chi tiết thực hiện lộ trình phối trộn xăng sinh học. Đồng thời đẩy mạnh nghiên cứu, nâng cấp công nghệ sản xuất E100.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:46:13.670669+07:00",
+      "fetched": "2026-02-26T23:46:13.670762+07:00"
+    },
+    {
+      "id": "6d57585c3416a837ab96422a9defab29",
+      "title": "Một công ty hàng không chưa tròn 1 tháng tuổi bất ngờ tăng vốn, vượt 40.000 tỉ đồng",
+      "link": "https://tuoitre.vn/mot-cong-ty-hang-khong-chua-tron-1-thang-tuoi-bat-ngo-tang-von-vuot-40-000-ti-dong-2026022620311652.htm",
+      "summary": "Chỉ sau chưa đầy nửa tháng kể từ ngày thành lập, Công ty CP Hạ tầng hàng không Masterise có động thái tăng mạnh vốn điều lệ vượt mốc 40.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:46:13.670557+07:00",
+      "fetched": "2026-02-26T23:46:13.670660+07:00"
+    },
+    {
+      "id": "8eaa901e9b6dbc3745a118bcdda8f337",
+      "title": "Thủ tướng yêu cầu hoàn thành sân bay Long Thành giai đoạn 1 trong nửa đầu năm nay",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-hoan-thanh-san-bay-long-thanh-giai-doan-1-trong-nua-dau-nam-nay-20260226211547075.htm",
+      "summary": "Đối với dự án cảng hàng không quốc tế Long Thành giai đoạn 1, Thủ tướng yêu cầu các cơ quan liên quan phải chịu trách nhiệm trước Đảng, Chính phủ, Thủ tướng và nhân dân về tiến độ, chất lượng, an toàn của dự án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:46:13.670445+07:00",
+      "fetched": "2026-02-26T23:46:13.670548+07:00"
+    },
+    {
+      "id": "cb1b18b627e397c6783a93749a475127",
+      "title": "Tân Hoa xã: 9 quan chức quân đội ra khỏi danh sách đại biểu trước kỳ họp 'lưỡng hội' Trung Quốc",
+      "link": "https://tuoitre.vn/tan-hoa-xa-9-quan-chuc-quan-doi-ra-khoi-danh-sach-dai-bieu-truoc-ky-hop-luong-hoi-trung-quoc-20260226212625167.htm",
+      "summary": "Cơ quan lập pháp cao nhất của Trung Quốc vừa đưa 9 quan chức quân đội ra khỏi danh sách đại biểu trước thềm kỳ họp chính trị thường niên lớn nhất của Bắc Kinh vào tuần tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:46:13.670317+07:00",
+      "fetched": "2026-02-26T23:46:13.670435+07:00"
+    },
+    {
+      "id": "0fde785d637b541c3be6dc6d3be57a02",
+      "title": "Phạt hơn 30 triệu đồng vụ trông giữ xe 'chặt chém' tại lễ hội chùa Phật Tích",
+      "link": "https://tuoitre.vn/phat-hon-30-trieu-dong-vu-trong-giu-xe-chat-chem-tai-le-hoi-chua-phat-tich-20260226205542391.htm",
+      "summary": "Hai người tự ý lập điểm trông giữ xe tại lễ hội chùa Phật Tích bị Công an tỉnh Bắc Ninh xử phạt tổng số tiền hơn 30 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:46:13.670052+07:00",
+      "fetched": "2026-02-26T23:46:13.670302+07:00"
+    },
     {
       "id": "f9018e29ed2a3cf070d665af514ab6d4",
       "title": "Hyundai Palisade hybrid thêm bản giá rẻ, sẽ sớm về Việt Nam?",
@@ -451,6 +581,126 @@ window.newsData_2026_02_26 = {
       "category": "Tổng hợp",
       "published": "2026-02-26T17:36:25.846868+07:00",
       "fetched": "2026-02-26T17:36:25.847099+07:00"
+    },
+    {
+      "id": "e45b783e9a7490706507eb284ad1cf54",
+      "title": "Lái ô tô lao thẳng vào cây xăng, tông 7 người trong bến xe ở Đà Lạt",
+      "link": "https://thanhnien.vn/lai-o-to-lao-thang-vao-cay-xang-tong-7-nguoi-trong-ben-xe-o-da-lat-185260226232116612.htm",
+      "summary": "Tin Công an phường Xuân Hương - Đà Lạt bắt khẩn cấp Trần Văn Quốc để điều tra về hành vi gây rối trật tự công cộng, sau khi lái ô tô tông nhiều người tại cây xăng trong Bến xe liên tỉnh Lâm Đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T16:21:00+07:00",
+      "fetched": "2026-02-26T23:46:12.489404+07:00"
+    },
+    {
+      "id": "ed614e6e050127087010f7cec0a36150",
+      "title": "Cuba tuyên bố kiên quyết tự vệ trước 'hành động khủng bố'",
+      "link": "https://vnexpress.net/cuba-tuyen-bo-kien-quyet-tu-ve-truoc-hanh-dong-khung-bo-5044482.html",
+      "summary": "Chủ tịch Diaz-Canel khẳng định Cuba sẽ hành động cứng rắn trước \"mọi hành động khủng bố và đánh thuê\", sau vụ bắn hạ nhóm người xâm nhập lãnh hải.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-26T16:06:15+07:00",
+      "fetched": "2026-02-26T23:46:15.061708+07:00"
+    },
+    {
+      "id": "28c3fa9a480a472a080212a4c71ce747",
+      "title": "'Người tình màn ảnh' của diễn viên Hồng Đăng: U.50 vẫn trẻ đẹp, cuộc sống kín tiếng",
+      "link": "https://thanhnien.vn/nguoi-tinh-man-anh-cua-dien-vien-hong-dang-u50-van-tre-dep-cuoc-song-kin-tieng-185260226203738278.htm",
+      "summary": "Trở lại phim giờ vàng với vai người tình đầy mưu mô của Hồng Đăng, NSƯT Quách Thu Phương gây ấn tượng với vẻ đẹp sắc sảo của mỹ nhân một thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T16:04:00+07:00",
+      "fetched": "2026-02-26T23:46:12.489559+07:00"
+    },
+    {
+      "id": "d4012a844cc6c66f4d442e3a9dce48cf",
+      "title": "Lưu Hiểu Khánh 'gây sốc' khi U.80 vẫn đóng cảnh hôn với bạn diễn kém 30 tuổi",
+      "link": "https://thanhnien.vn/luu-hieu-khanh-gay-soc-khi-u80-van-dong-canh-hon-voi-ban-dien-kem-30-tuoi-185260226205247202.htm",
+      "summary": "Ở tuổi 76, Lưu Hiểu Khánh vẫn gây 'choáng' với vai diễn thiếu nữ thơ ngây trong phim tình cảm. Đặc biệt, cảnh hôn giữa minh tinh kỳ cựu với bạn diễn Kim Gia (kém 30 tuổi) thổi bùng những cuộc bàn tán trên mạng xã hội xứ Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T15:48:00+07:00",
+      "fetched": "2026-02-26T23:46:12.489697+07:00"
+    },
+    {
+      "id": "d2f3074390b7dc7d334906119f03c832",
+      "title": "Đàm Vĩnh Hưng thần tượng Lý Thu Thảo, chờ hơn 37 năm để được chụp ảnh cùng",
+      "link": "https://thanhnien.vn/dam-vinh-hung-than-tuong-ly-thu-thao-cho-hon-37-nam-de-duoc-chup-anh-cung-185260226202813062.htm",
+      "summary": "Đàm Vĩnh Hưng gây chú ý khi đăng tải hình ảnh chụp cùng Lý Thu Thảo, đồng thời tiết lộ người đẹp sinh năm 1970 chính là thần tượng của anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T15:44:00+07:00",
+      "fetched": "2026-02-26T23:46:12.489826+07:00"
+    },
+    {
+      "id": "f1796b28ef274dc94e76b70258f9c6cc",
+      "title": "'Ông trùm giải trí' Hướng Hoa Cường giao toàn bộ tài sản cho con dâu",
+      "link": "https://thanhnien.vn/ong-trum-giai-tri-huong-hoa-cuong-giao-toan-bo-tai-san-cho-con-dau-185260226191816223.htm",
+      "summary": "Mới đây, 'trùm giải trí' Hồng Kông Hướng Hoa Cường tuyên bố ông và vợ thống nhất giao toàn bộ tài sản cho con dâu là Quách Bích Đình quản lý do không tin tưởng hai con trai ruột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T15:44:00+07:00",
+      "fetched": "2026-02-26T23:46:12.489955+07:00"
+    },
+    {
+      "id": "10a295445371e2efa13d8bef179af1e4",
+      "title": "Bừng sáng văn phòng nhờ những thiết kế thời trang công sở sáng tạo",
+      "link": "https://thanhnien.vn/thoi-trang-tre/bung-sang-van-phong-nho-nhung-thiet-ke-thoi-trang-cong-so-sang-tao-185260226212148399.htm",
+      "summary": "Gợi ý cho các nàng mẹo phối đồ khai xuân tôn gu thời trang nhưng vẫn phù hợp môi trường công sở",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T15:30:00+07:00",
+      "fetched": "2026-02-26T23:46:12.490080+07:00"
+    },
+    {
+      "id": "90e0412a1c36a276059142795c29f488",
+      "title": "2 thượng tướng bàn giao nhiệm vụ thứ trưởng Bộ Quốc phòng",
+      "link": "https://thanhnien.vn/2-thuong-tuong-ban-giao-nhiem-vu-thu-truong-bo-quoc-phong-185260226211445529.htm",
+      "summary": "Chiều 26.2, tại Hà Nội đã diễn ra hội nghị bàn giao nhiệm vụ thủ trưởng Bộ Quốc phòng giữa thượng tướng Võ Minh Lương, Ủy viên Thường vụ Quân ủy T.Ư, Thứ trưởng Bộ Quốc phòng, và thượng tướng Nguyễn Văn Gấu, Ủy viên T.Ư Đảng, Thứ trưởng Bộ Quốc phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T15:17:00+07:00",
+      "fetched": "2026-02-26T23:46:12.490221+07:00"
+    },
+    {
+      "id": "8cc7e02178ac984a9555096a571ada90",
+      "title": "Cuba kiên quyết tự vệ trước bất kỳ hành động gây hấn khủng bố nào",
+      "link": "https://thanhnien.vn/cuba-kien-quyet-tu-ve-truoc-bat-ky-hanh-dong-gay-han-khung-bo-nao-18526022621580609.htm",
+      "summary": "Hôm nay 26.2, Chủ tịch nước Cuba Miguel Diaz-Canel tuyên bố nước này sẽ tự vệ trước bất kỳ hành động gây hấn khủng bố nào, sau vụ chạm trán giữa lực lượng tuần duyên và các tay súng trên tàu cao tốc đến từ Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T15:15:00+07:00",
+      "fetched": "2026-02-26T23:46:12.490353+07:00"
+    },
+    {
+      "id": "39f9757ed5a96c41d1836767f111dd4a",
+      "title": "Xây dựng Cục An ninh điều tra là lực lượng trung thành, bản lĩnh, trí tuệ, nhân văn",
+      "link": "https://thanhnien.vn/xay-dung-cuc-an-ninh-dieu-tra-la-luc-luong-trung-thanh-ban-linh-tri-tue-nhan-van-185260226210549122.htm",
+      "summary": "Chiều 26.2, Tổng Bí thư Tô Lâm đã đến thăm và chúc tết cán bộ, chiến sĩ Cục An ninh điều tra (A09, Bộ Công an).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T15:02:00+07:00",
+      "fetched": "2026-02-26T23:46:12.490476+07:00"
+    },
+    {
+      "id": "0bcfbc9c0722b0aee7cff1aee5f608e6",
+      "title": "Dàn sao mặc sexy giữa trời tuyết",
+      "link": "https://vnexpress.net/dan-sao-mac-sexy-giua-troi-tuyet-5044362.html",
+      "summary": "Lisa, Hailey Bieber, Hoa hậu Phạm Hương theo đuổi mốt mặc gợi cảm giữa tuyết trắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T14:45:07+07:00",
+      "fetched": "2026-02-26T23:46:08.935294+07:00"
+    },
+    {
+      "id": "05be4cc92c548e4ea710436dcec9e204",
+      "title": "Đề xuất xây dựng 'Đường thơ' tại TP HCM",
+      "link": "https://vnexpress.net/de-xuat-xay-dung-duong-tho-tai-tp-hcm-5044089.html",
+      "summary": "Bà Trịnh Bích Ngân - chủ tịch Hội Nhà văn TP HCM - nói muốn hình thành Đường thơ để lan tỏa thi ca đến công chúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T14:44:42+07:00",
+      "fetched": "2026-02-26T23:46:08.935460+07:00"
     },
     {
       "id": "05f6da5c52a508d811301d5f5d4b3902",
@@ -951,6 +1201,16 @@ window.newsData_2026_02_26 = {
       "category": "Thế giới",
       "published": "2026-02-26T13:00:00+07:00",
       "fetched": "2026-02-26T21:43:25.787992+07:00"
+    },
+    {
+      "id": "d73c1815f880f1b368777b428e487a10",
+      "title": "Khách Nga kể trải nghiệm dạo bãi biển Triều Tiên lúc 2h",
+      "link": "https://vnexpress.net/khach-nga-ke-trai-nghiem-dao-bai-bien-trieu-tien-luc-2h-5043979.html",
+      "summary": "Du khách Daria Zubkova bác bỏ các định kiến về việc bị nghe lén và khẳng định có thể tự do đi dạo một mình trong kỳ nghỉ tại khu phức hợp ven biển Wonsan Kalma.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T13:00:00+07:00",
+      "fetched": "2026-02-26T23:46:08.937187+07:00"
     },
     {
       "id": "315c4bdf349ac49782bc1bdba94b7976",
