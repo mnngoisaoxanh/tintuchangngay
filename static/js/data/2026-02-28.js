@@ -1,6 +1,6 @@
 window.newsData_2026_02_28 = {
   "date": "2026-02-28",
-  "lastUpdated": "2026-02-28T01:29:34.227764+07:00",
+  "lastUpdated": "2026-02-28T03:19:18.259006+07:00",
   "articles": [
     {
       "id": "518d4140b292de477cc2486449048158",
@@ -151,6 +151,46 @@ window.newsData_2026_02_28 = {
       "category": "Tổng hợp",
       "published": "2026-02-28T01:29:26.653241+07:00",
       "fetched": "2026-02-28T01:29:26.653467+07:00"
+    },
+    {
+      "id": "cca36b9099c60f0e5a9df15c9c81a5fd",
+      "title": "Tại sao ăn chay nhưng cholesterol vẫn tăng cao?",
+      "link": "https://vnexpress.net/tai-sao-an-chay-nhung-cholesterol-van-tang-cao-5044575.html",
+      "summary": "Dù người ăn chay loại bỏ thịt cá khỏi thực đơn, vẫn có thể rơi vào \"bẫy\" dinh dưỡng từ thực phẩm chế biến sẵn, khiến cholesterol tăng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T19:00:00+07:00",
+      "fetched": "2026-02-28T03:19:06.253031+07:00"
+    },
+    {
+      "id": "b123d179f941a64a983c7a1f15681c03",
+      "title": "Cuộc sống tại thị trấn Mỹ trong lòng Canada",
+      "link": "https://vnexpress.net/cuoc-song-tai-thi-tran-my-trong-long-canada-5043636.html",
+      "summary": "Thị trấn Point Roberts thuộc Mỹ nhưng gần như nằm trọn trong Canada, nơi đời sống vốn yên bình đang bị ảnh hưởng bởi sóng gió chính trị giữa hai nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T19:00:00+07:00",
+      "fetched": "2026-02-28T03:19:06.253211+07:00"
+    },
+    {
+      "id": "b123d179f941a64a983c7a1f15681c03",
+      "title": "Cuộc sống tại thị trấn Mỹ trong lòng Canada",
+      "link": "https://vnexpress.net/cuoc-song-tai-thi-tran-my-trong-long-canada-5043636.html",
+      "summary": "Thị trấn Point Roberts thuộc Mỹ nhưng gần như nằm trọn trong Canada, nơi đời sống vốn yên bình đang bị ảnh hưởng bởi sóng gió chính trị giữa hai nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T19:00:00+07:00",
+      "fetched": "2026-02-28T03:19:12.239610+07:00"
+    },
+    {
+      "id": "29b395efcb4e1d1a5bc4115117d60fc6",
+      "title": "Biệt thự 500 m2 với 90% là đường cong mềm mại",
+      "link": "https://vnexpress.net/biet-thu-500-m2-voi-90-la-duong-cong-mem-mai-5044636.html",
+      "summary": "Ngôi nhà hạn chế góc vuông, thay bằng các bề mặt uốn lượn liên tục, tạo dòng chuyển tiếp giữa kiến trúc, nội thất và cảnh quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T18:48:36+07:00",
+      "fetched": "2026-02-28T03:19:06.253376+07:00"
     },
     {
       "id": "6b958f65df545bba7b4995400069eef1",
