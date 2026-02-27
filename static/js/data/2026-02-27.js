@@ -1,7 +1,57 @@
 window.newsData_2026_02_27 = {
   "date": "2026-02-27",
-  "lastUpdated": "2026-02-27T05:23:20.631146+07:00",
+  "lastUpdated": "2026-02-27T08:11:02.373761+07:00",
   "articles": [
+    {
+      "id": "d3b73e329f5ae03a823b216af8615b21",
+      "title": "Đăng ký thi đánh giá năng lực ĐH Quốc gia TP.HCM 2026 cao kỷ lục, thí sinh cần chuẩn bị gì?",
+      "link": "https://tuoitre.vn/dang-ky-thi-danh-gia-nang-luc-dh-quoc-gia-tp-hcm-2026-cao-ky-luc-thi-sinh-can-chuan-bi-gi-2026022622464147.htm",
+      "summary": "Hơn 110 trường cùng xét tuyển và với số thí sinh đăng ký thi đánh giá năng lực 2026 của ĐH Quốc gia TP.HCM nhiều nhất, thí sinh cần lưu ý và chuẩn bị gì trước kỳ thi này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:10:55.752647+07:00",
+      "fetched": "2026-02-27T08:10:55.752764+07:00"
+    },
+    {
+      "id": "3f0e59597839de9793b31636521e93ea",
+      "title": "Lịch trực tiếp vòng 10 Giải hạng nhất: CLB Đồng Nai đấu Đồng Tháp",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-10-giai-hang-nhat-clb-dong-nai-dau-dong-thap-20260226153123465.htm",
+      "summary": "Mọi sự chú ý của vòng 10 Giải hạng nhất 2025-2026 tất nhiên sẽ dồn vào dàn sao của Trường Tươi Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:10:55.752516+07:00",
+      "fetched": "2026-02-27T08:10:55.752635+07:00"
+    },
+    {
+      "id": "b21ee8ce56ad827d7e03122291309606",
+      "title": "Tin tức sáng 27-2: Vinamilk có khớp lệnh gần 6.000 tỉ; Eximbank chuyển trụ sở chính ra Hà Nội",
+      "link": "https://tuoitre.vn/tin-tuc-sang-27-2-vinamilk-co-khop-lenh-gan-6-000-ti-eximbank-chuyen-tru-so-chinh-ra-ha-noi-20260226172414217.htm",
+      "summary": "Một số tin tức đáng chú ý: Một ngân hàng chuyển trụ sở chính từ TP.HCM ra Hà Nội; Bắc Ninh công khai giá giữ xe Hội Lim, cấm ‘ép giá’ du khách; Cần Thơ ban hành tiêu chí, điều kiện chuyển mục đích sử dụng đất lúa, đất rừng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:10:55.752361+07:00",
+      "fetched": "2026-02-27T08:10:55.752503+07:00"
+    },
+    {
+      "id": "be448fc65d46e3b689c26f6e6022fb2e",
+      "title": "Lại Lý Huynh thắng Quách Phụng Đạt, làng cờ Trung Quốc thừa nhận 'xứng danh vô địch thế giới'",
+      "link": "https://tuoitre.vn/lai-ly-huynh-thang-quach-phung-dat-lang-co-trung-quoc-thua-nhan-xung-danh-vo-dich-the-gioi-20260227050028421.htm",
+      "summary": "Trước sự chứng kiến của hàng ngàn người hâm mộ Trung Quốc ở Công viên Văn hóa Quảng Châu, Lại Lý Huynh đã thi đấu xuất sắc trong 2 ngày đầu tiên ở \"siêu giải đấu\" Ngũ Dương Bôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:10:55.752219+07:00",
+      "fetched": "2026-02-27T08:10:55.752348+07:00"
+    },
+    {
+      "id": "2e99e8c29b3d1d70caec607b111949bc",
+      "title": "Ronaldo mua 25% cổ phần CLB Almeria của Tây Ban Nha, thực hiện giấc mơ 'làm ông chủ đội bóng'",
+      "link": "https://tuoitre.vn/ronaldo-mua-25-co-phan-clb-almeria-cua-tay-ban-nha-thuc-hien-giac-mo-lam-ong-chu-doi-bong-20260227044920053.htm",
+      "summary": "Siêu sao Bồ Đào Nha Cristiano Ronaldo đã mua 25% cổ phần của câu lạc bộ Almeria thuộc giải hạng hai Tây Ban Nha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:10:55.752032+07:00",
+      "fetched": "2026-02-27T08:10:55.752205+07:00"
+    },
     {
       "id": "ac60baedb8c7628d8ca641d5c2fd997b",
       "title": "Thời tiết hôm nay 27-2: Bắc Bộ giảm mưa, Nam Bộ mưa trái mùa",
@@ -161,6 +211,406 @@ window.newsData_2026_02_27 = {
       "category": "Tổng hợp",
       "published": "2026-02-27T01:39:04.955877+07:00",
       "fetched": "2026-02-27T01:39:04.956084+07:00"
+    },
+    {
+      "id": "f31dfdd88f143f58e74c23d9eb1ef991",
+      "title": "Ra điều trần về vụ Epstein, bà Clinton nói ông Trump cũng phải điều trần",
+      "link": "https://thanhnien.vn/ra-dieu-tran-ve-vu-epstein-ba-clinton-noi-ong-trump-cung-phai-dieu-tran-185260227075306564.htm",
+      "summary": "Cựu Ngoại trưởng Mỹ Hillary Clinton bác bỏ mối quan hệ với tội phạm tình dục Jeffrey Epstein, đồng thời cho rằng Tổng thống Donald Trump cũng cần ra điều trần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:09:00+07:00",
+      "fetched": "2026-02-27T08:10:54.770550+07:00"
+    },
+    {
+      "id": "e74b76e9cab402389ba892384b229165",
+      "title": "Bác sĩ Nguyễn Hoàng Tuấn: Chọn sản khoa vì mỗi ca bệnh gắn 2 sinh mệnh",
+      "link": "https://thanhnien.vn/bac-si-nguyen-hoang-tuan-chon-san-khoa-vi-moi-ca-benh-gan-2-sinh-menh-185260226111737913.htm",
+      "summary": "Tiếng gõ cửa dồn dập xé toạc khoảng lặng phòng trực đêm: 'Bác ơi, băng huyết'. Chỉ 4 chữ, nhưng với bác sĩ Nguyễn Hoàng Tuấn - Giám đốc Bệnh viện Phương Nam - đó là âm thanh đủ khiến ông bật dậy như một chiếc lò xo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:08:00+07:00",
+      "fetched": "2026-02-27T08:10:54.770718+07:00"
+    },
+    {
+      "id": "aac35f5f37febc6d197ae76d1eb7dc3f",
+      "title": "Vũ điệu ánh sáng trong những thiết kế váy tiệc",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vu-dieu-anh-sang-trong-nhung-thiet-ke-vay-tiec-185260226184222025.htm",
+      "summary": "Trong không gian tiệc tối lấp lánh, ánh sáng không chỉ soi rọi không gian mà còn đánh thức vẻ đẹp của từng chuyển động. Váy tiệc, vì thế, trở thành nơi ánh sáng được 'khiêu vũ' - len lỏi qua chất liệu và thiết kế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:00:00+07:00",
+      "fetched": "2026-02-27T08:10:54.770875+07:00"
+    },
+    {
+      "id": "28bba37e77b805f6fb6567a181580b76",
+      "title": "Tư vấn điều trị rối loạn nhịp chậm bằng máy tạo nhịp không dây thế hệ mới",
+      "link": "https://thanhnien.vn/tu-van-dieu-tri-roi-loan-nhip-cham-bang-may-tao-nhip-khong-day-the-he-moi-185260226182703995.htm",
+      "summary": "20 giờ thứ Sáu ngày 27.2.2026, chương trình tư vấn trực tuyến 'Tiên phong công nghệ điều trị rối loạn nhịp chậm bằng máy tạo nhịp không dây thế hệ mới' diễn ra trên nền tảng online của Báo Thanh Niên và BVĐK Tâm Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:00:00+07:00",
+      "fetched": "2026-02-27T08:10:54.771027+07:00"
+    },
+    {
+      "id": "2742028c0f9a2df2ed834543a6926c2e",
+      "title": "Hoa hậu Du lịch Việt Nam 2026 chính thức trở thành Đại sứ thương hiệu Kaitashi",
+      "link": "https://thanhnien.vn/hoa-hau-du-lich-viet-nam-2026-chinh-thuc-tro-thanh-dai-su-thuong-hieu-kaitashi-185260226152329985.htm",
+      "summary": "Tân Hoa hậu Du Lịch Việt Nam Nguyễn Phương Linh và thương hiệu Kaitashi đã chính thức ký kết hợp tác đại sứ giai đoạn 2026 - 2028, đánh dấu bước ngoặt quan trọng trong chiến lược kết nối hình ảnh nhan sắc Việt với sứ mệnh chăm sóc sức khỏe cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:00:00+07:00",
+      "fetched": "2026-02-27T08:10:54.771177+07:00"
+    },
+    {
+      "id": "5e8ec8c452cd8173d60d7d2533c77709",
+      "title": "Hoa hậu Khánh Vân: Tôi đưa chồng vào sự nghiệp của mình",
+      "link": "https://thanhnien.vn/hoa-hau-khanh-van-toi-dua-chong-vao-su-nghiep-cua-minh-185260220002623391.htm",
+      "summary": "Sau hai năm kết hôn, Khánh Vân thấy mình may mắn khi có người bạn đời cùng tần số, luôn thấu hiểu và đồng hành. Với cô, hôn nhân không chỉ là gắn bó mà còn là hành trình trưởng thành, tiếp thêm động lực để cả hai tự tin theo đuổi ước mơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:00:00+07:00",
+      "fetched": "2026-02-27T08:10:54.771325+07:00"
+    },
+    {
+      "id": "163c9b4e5146ed32e73f6e10d80af860",
+      "title": "Bê bối nhập tịch Malaysia: CAS lùi giờ ra phán quyết, sẽ có vào tuần tới",
+      "link": "https://thanhnien.vn/be-boi-nhap-tich-malaysia-cas-lui-gio-ra-phan-quyet-se-co-vao-tuan-toi-18526022707321394.htm",
+      "summary": "Tòa Trọng tài Thể thao (CAS) xác nhận hội đồng trọng tài đã bắt đầu thảo luận về đơn kháng cáo liên quan đến 7 cầu thủ nhập tịch. Phán quyết cuối cùng dự kiến sẽ được đưa ra vào tuần tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:48:00+07:00",
+      "fetched": "2026-02-27T08:10:54.771493+07:00"
+    },
+    {
+      "id": "5d29653e54a636ca9eaa6b93c7c1b59c",
+      "title": "Đề nghị Trường CĐ Lý Tự Trọng hoàn trả hơn 20 tỉ đồng tạm thu học phí",
+      "link": "https://thanhnien.vn/de-nghi-truong-cd-ly-tu-trong-hoan-tra-hon-20-ti-dong-tam-thu-hoc-phi-18526022622005853.htm",
+      "summary": "Liên quan đến việc Trường CĐ Lý Tự Trọng TP.HCM tạm thu học phí hơn 158 tỉ đồng, Sở GD-ĐT TP.HCM đề nghị trường khẩn trương hoàn trả số tiền đã tạm thu của học sinh, sinh viên thuộc đối tượng được miễn, giảm học phí theo quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:45:00+07:00",
+      "fetched": "2026-02-27T08:10:54.771644+07:00"
+    },
+    {
+      "id": "78192db3b25978ecf1b0d72c3b5497ed",
+      "title": "Bệnh viện đầu tiên tại Việt Nam cấy máy tạo nhịp tim không dây thế hệ mới",
+      "link": "https://thanhnien.vn/benh-vien-dau-tien-tai-viet-nam-cay-may-tao-nhip-tim-khong-day-the-he-moi-185260227080016147.htm",
+      "summary": "Kỹ thuật cấy máy tạo nhịp tim không dây thế hệ mới nhất được triển khai đầu tiên và đạt tỷ lệ thành công 100% tại Bệnh viện Đa khoa Tâm Anh TP.HCM, đưa Việt Nam tiệm cận các chuẩn mực điều trị hiện đại trên thế giới với nhiều lợi ích vượt trội cho người bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:43:00+07:00",
+      "fetched": "2026-02-27T08:10:54.771802+07:00"
+    },
+    {
+      "id": "252c28e4964c9b7f66d626e7cf38ae3f",
+      "title": "Bộ Quốc phòng phân cấp, giám sát hoạt động bay của UAV thế nào?",
+      "link": "https://thanhnien.vn/bo-quoc-phong-phan-cap-giam-sat-hoat-dong-bay-cua-uav-the-nao-185260227063520998.htm",
+      "summary": "Thông tư số 146/2025/TT-BQP ngày 25.12.2025 của Bộ trưởng Bộ Quốc phòng đã hướng dẫn cụ thể về việc cấp phép, giám sát, quản lý khu vực bay của tàu bay không người lái (UAV) và các phương tiện khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:32:00+07:00",
+      "fetched": "2026-02-27T08:10:54.771956+07:00"
+    },
+    {
+      "id": "2765ac0ec33f98c430ff99b29a5ba32d",
+      "title": "864 người ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://thanhnien.vn/864-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-185260226093928263.htm",
+      "summary": "Thông tin chi tiết danh sách 864 người ứng cử đại biểu Quốc hội khóa XVI để bầu 500 đại biểu Quốc hội khóa mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:30:00+07:00",
+      "fetched": "2026-02-27T08:10:54.772114+07:00"
+    },
+    {
+      "id": "cb2e2c447bf634dbdf66b7e1c12b9ede",
+      "title": "Hai anh em ruột tình nguyện lên đường nhập ngũ",
+      "link": "https://thanhnien.vn/hai-anh-em-ruot-tinh-nguyen-len-duong-nhap-ngu-185260226194223489.htm",
+      "summary": "Gác lại công việc đang có thu nhập ổn định, hai anh em ruột ở Vĩnh Long viết đơn tình nguyện lên đường nhập ngũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:29:00+07:00",
+      "fetched": "2026-02-27T08:10:54.772264+07:00"
+    },
+    {
+      "id": "194c7e7e55fd90f4f149500e4cad69fd",
+      "title": "Galaxy S26 đánh dấu bước ngoặt mới, Apple đứng trước áp lực lớn",
+      "link": "https://thanhnien.vn/galaxy-s26-danh-dau-buoc-ngoat-moi-apple-dung-truoc-ap-luc-lon-185260226214400907.htm",
+      "summary": "Sự kiện Unpacked đã thu hút sự chú ý lớn khi Samsung giới thiệu Galaxy S26 series và những bước tiến mới trong lĩnh vực trí tuệ nhân tạo (AI).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:27:00+07:00",
+      "fetched": "2026-02-27T08:10:54.772425+07:00"
+    },
+    {
+      "id": "62cba56d3159156bbe7c8b18bf88a614",
+      "title": "Cáp quang biển gặp sự cố đầu năm 2026",
+      "link": "https://thanhnien.vn/cap-quang-bien-gap-su-co-dau-nam-2026-185260226225822842.htm",
+      "summary": "Sự cố đứt cáp quang biển AAE-1 làm sụt giảm khoảng 10% dung lượng kết nối quốc tế, tuy nhiên kết nối internet trong nước gần như không bị ảnh hưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:24:00+07:00",
+      "fetched": "2026-02-27T08:10:54.772579+07:00"
+    },
+    {
+      "id": "464990e2dc0f93d918eb8c6868ed3917",
+      "title": "Cảnh báo mưa lớn, giông mạnh ở miền Trung, Nam bộ",
+      "link": "https://thanhnien.vn/canh-bao-mua-lon-giong-manh-o-mien-trung-nam-bo-185260227071302423.htm",
+      "summary": "Trung tâm Dự báo khí tượng thủy văn quốc gia cảnh báo về mưa lớn, giông mạnh ở Nam bộ, cao nguyên miền Trung, các tỉnh Khánh Hòa, Lâm Đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:23:00+07:00",
+      "fetched": "2026-02-27T08:10:54.772732+07:00"
+    },
+    {
+      "id": "475d8d0d1a124cd66ef5d6407235cfcc",
+      "title": "Nga bàn giao 1.000 thi thể binh sĩ cho Ukraine",
+      "link": "https://vnexpress.net/nga-ban-giao-1-000-thi-the-binh-si-cho-ukraine-5044501.html",
+      "summary": "Quan chức Điện Kremlin thông báo Nga đã hoàn tất đợt bàn giao 1.000 thi thể binh sĩ Ukraine và nhận lại 35 tử sĩ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T00:14:55+07:00",
+      "fetched": "2026-02-27T08:10:57.315525+07:00"
+    },
+    {
+      "id": "60471ac29b013f967212482cd27b5c74",
+      "title": "Cẩm nang du lịch Đàn Kính Thiên - Thung Ui",
+      "link": "https://vnexpress.net/cam-nang-du-lich-dan-kinh-thien-thung-ui-5043589.html",
+      "summary": "Đàn Kính Thiên - Thung Ui là khu du lịch văn hóa - tâm linh - nghỉ dưỡng mang dấu ấn Việt, nằm giữa núi đá vôi, hồ nước và cảnh quan của vùng Tràng An.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:02:47+07:00",
+      "fetched": "2026-02-27T08:10:51.793430+07:00"
+    },
+    {
+      "id": "9e4470d2a71c1895bad318c32a90e318",
+      "title": "Hoài niệm thời 'căn từng giây' khi gọi di động",
+      "link": "https://vnexpress.net/hoai-niem-thoi-can-tung-giay-khi-goi-di-dong-5044012.html",
+      "summary": "Người Việt ngày càng ít thực hiện cuộc gọi truyền thống, dù từng trải nghiệm cảnh nghẽn mạng trong dịp lễ tết, hay phải căn từng giây khi gọi điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:00:00+07:00",
+      "fetched": "2026-02-27T08:10:51.793612+07:00"
+    },
+    {
+      "id": "9e4470d2a71c1895bad318c32a90e318",
+      "title": "Hoài niệm thời 'căn từng giây' khi gọi di động",
+      "link": "https://vnexpress.net/hoai-niem-thoi-can-tung-giay-khi-goi-di-dong-5044012.html",
+      "summary": "Người Việt ngày càng ít thực hiện cuộc gọi truyền thống, dù từng trải nghiệm cảnh nghẽn mạng dịp lễ tết, hay phải căn từng giây, nói chuyện \"siêu ngắn\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-27T00:00:00+07:00",
+      "fetched": "2026-02-27T08:11:01.419157+07:00"
+    },
+    {
+      "id": "8534cf39d3e16685ee0936444be21e49",
+      "title": "Ít nhất hai công dân Mỹ có mặt trên xuồng bị Cuba bắn hạ",
+      "link": "https://vnexpress.net/it-nhat-hai-cong-dan-my-co-mat-tren-xuong-bi-cuba-ban-ha-5044499.html",
+      "summary": "Quan chức Nhà Trắng xác nhận ít nhất hai người trên xuồng cao tốc xâm nhập lãnh hải Cuba và bị bắn hạ là công dân Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:54:26+07:00",
+      "fetched": "2026-02-27T08:10:51.793776+07:00"
+    },
+    {
+      "id": "8534cf39d3e16685ee0936444be21e49",
+      "title": "Ít nhất hai công dân Mỹ có mặt trên xuồng bị Cuba bắn hạ",
+      "link": "https://vnexpress.net/it-nhat-hai-cong-dan-my-co-mat-tren-xuong-bi-cuba-ban-ha-5044499.html",
+      "summary": "Quan chức Nhà Trắng xác nhận ít nhất hai người trên xuồng cao tốc xâm nhập lãnh hải Cuba và bị bắn hạ là công dân Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-26T23:54:26+07:00",
+      "fetched": "2026-02-27T08:10:57.315700+07:00"
+    },
+    {
+      "id": "229d4172aaa0a02121a3e4762fe0971a",
+      "title": "5 công dụng bất ngờ của nồi chiên không dầu",
+      "link": "https://vnexpress.net/5-cong-dung-bat-ngo-cua-noi-chien-khong-dau-5044476.html",
+      "summary": "Không chỉ dùng nướng thịt hay khoai tây, nồi chiên không dầu còn có công dụng tuyệt vời để luộc trứng, sấy hoa quả và khử mùi ẩm mốc cho cả căn nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:51:00+07:00",
+      "fetched": "2026-02-27T08:10:51.793947+07:00"
+    },
+    {
+      "id": "1634b224648b500ed6a5e2918a1cea66",
+      "title": "Người trẻ đi qua bão sa thải, đe doạ của AI thế nào?",
+      "link": "https://vnexpress.net/nguoi-tre-di-qua-bao-sa-thai-de-doa-cua-ai-the-nao-5044484.html",
+      "summary": "Nay người trẻ không chỉ sợ thất nghiệp mà sợ nghề biến mất, sáng vừa học xong kỹ năng, chiều AI đã làm thay bằng một câu lệnh, buộc gen Z ngừng tìm kiếm bến đỗ cố định để học cách \"lướt sóng\" thích nghi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:40:42+07:00",
+      "fetched": "2026-02-27T08:10:51.794103+07:00"
+    },
+    {
+      "id": "80746a7dae8af369afdd2e54f492e2bd",
+      "title": "Điểm tin 6h: Nhiều người bị bắt quả tang bay flycam trái phép gần sân bay Đà Nẵng | Hà Nội dự kiến hỗ trợ đào tạo 1.000 tiến sĩ",
+      "link": "https://vnexpress.net/diem-tin-6h-nhieu-nguoi-bi-bat-qua-tang-bay-flycam-trai-phep-gan-san-bay-da-nang-ha-noi-du-kien-ho-tro-dao-tao-1-000-tien-si-5044502.html",
+      "summary": "Nhiều 'đại gia' nông nghiệp lãi kỷ lục năm ngoái; Đề xuất nâng mức bảo hiểm tiền gửi lên 350 triệu đồng;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:17:59+07:00",
+      "fetched": "2026-02-27T08:10:51.794261+07:00"
+    },
+    {
+      "id": "08df50691c00c3955da92501b933e391",
+      "title": "Bên trong trường THPT công lập 300 tỷ ở nơi 'đông dân nhất' Hà Nội",
+      "link": "https://vnexpress.net/toan-canh-truong-thpt-do-muoi-duoc-xay-moi-o-hoang-mai-ha-noi-5043610.html",
+      "summary": "Nằm ở nơi từng thiếu 18 trường cấp ba, THPT Đỗ Mười rộng gần 8.000 m2 với kết cấu hình chữ U, hàng chục phòng học hiện đại, tổng đầu tư khoảng 300 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:11:07+07:00",
+      "fetched": "2026-02-27T08:10:51.794431+07:00"
+    },
+    {
+      "id": "e9497c9b8d856ed7ff7cca3b6f18f8ba",
+      "title": "Man Utd chi ròng chuyển nhượng nhiều nhất châu Âu 5 năm qua",
+      "link": "https://vnexpress.net/man-utd-chi-rong-chuyen-nhuong-nhieu-nhat-chau-au-5-nam-qua-5044488.html",
+      "summary": "UEFA cho biết Man Utd dẫn đầu châu Âu về mức chi ròng chuyển nhượng giai đoạn 2021-2025 với 878 triệu USD, phơi bày rõ sự sa sút thành tích so với số tiền đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:04:10+07:00",
+      "fetched": "2026-02-27T08:10:51.794589+07:00"
+    },
+    {
+      "id": "e9497c9b8d856ed7ff7cca3b6f18f8ba",
+      "title": "Man Utd chi ròng chuyển nhượng nhiều nhất châu Âu 5 năm qua",
+      "link": "https://vnexpress.net/man-utd-chi-rong-chuyen-nhuong-nhieu-nhat-chau-au-5-nam-qua-5044488.html",
+      "summary": "UEFA cho biết Man Utd dẫn đầu châu Âu về mức chi ròng chuyển nhượng giai đoạn 2021-2025 với 878 triệu USD, phơi bày rõ sự sa sút thành tích so với số tiền đầu tư.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T23:04:10+07:00",
+      "fetched": "2026-02-27T08:11:02.368290+07:00"
+    },
+    {
+      "id": "365f02048f167c4992c7c364d3882cd2",
+      "title": "Sóng ngầm an ninh tại Mexico trước thềm World Cup 2026",
+      "link": "https://vnexpress.net/song-ngam-an-ninh-tai-mexico-truoc-them-world-cup-2026-5044491.html",
+      "summary": "Sau vụ tiêu diệt trùm ma túy khét tiếng, làn sóng bạo lực tại bang Jalisco làm dấy lên lo ngại về an ninh World Cup 2026 ở Guadalajara, buộc FIFA theo dõi sát tình hình và tính đến kịch bản điều chỉnh một số trận play-off nếu rủi ro vượt tầm kiểm soát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:01:33+07:00",
+      "fetched": "2026-02-27T08:10:51.794742+07:00"
+    },
+    {
+      "id": "365f02048f167c4992c7c364d3882cd2",
+      "title": "Sóng ngầm an ninh tại Mexico trước thềm World Cup 2026",
+      "link": "https://vnexpress.net/song-ngam-an-ninh-tai-mexico-truoc-them-world-cup-2026-5044491.html",
+      "summary": "Sau vụ tiêu diệt trùm ma túy khét tiếng, làn sóng bạo lực tại bang Jalisco làm dấy lên lo ngại về an ninh World Cup 2026 ở Guadalajara, buộc FIFA theo dõi sát tình hình và tính đến kịch bản điều chỉnh một số trận play-off nếu rủi ro vượt tầm kiểm soát.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T23:01:33+07:00",
+      "fetched": "2026-02-27T08:11:02.368471+07:00"
+    },
+    {
+      "id": "11a188fcf52dbd1a0820bc33bdce6ae3",
+      "title": "Hội đồng Bầu cử quốc gia cho phép 218 khu vực bỏ phiếu sớm",
+      "link": "https://vnexpress.net/hoi-dong-bau-cu-quoc-gia-cho-phep-218-khu-vuc-bo-phieu-som-5044462.html",
+      "summary": "Theo đề nghị của 11 tỉnh, thành phố, 218 khu vực được chấp thuận tổ chức bỏ phiếu sớm, chủ yếu tại hải đảo, trên biển và địa bàn có điều kiện đi lại đặc thù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:00:00+07:00",
+      "fetched": "2026-02-27T08:10:51.794905+07:00"
+    },
+    {
+      "id": "aae65731b2b1593481db919e4f0e3b3b",
+      "title": "Ranh giới phân định tội lừa đảo và trộm cắp qua vụ 'giả người quen lấy túi hộ'",
+      "link": "https://vnexpress.net/ranh-gioi-phan-dinh-toi-lua-dao-va-trom-cap-qua-vu-gia-nguoi-quen-lay-tui-ho-5044453.html",
+      "summary": "Vờ là bạn, Chun đến bàn của ông Kang trong quán bar \"lấy hộ\" ông này chiếc túi xách và được khách ở đây đồng ý, vậy Chun phạm tội lừa đảo hay trộm cắp tài sản?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:00:00+07:00",
+      "fetched": "2026-02-27T08:10:51.795065+07:00"
+    },
+    {
+      "id": "3ea0a4b27484670f39e2a8d3d32f8844",
+      "title": "Sai lầm khiến trùm ma túy Mexico bị tiêu diệt",
+      "link": "https://vnexpress.net/sai-lam-khien-trum-ma-tuy-mexico-bi-tieu-diet-5044171.html",
+      "summary": "El Mencho luôn được bảo vệ bởi gần 400 tay súng cùng các biện pháp an ninh hiện đại, nhưng sai lầm của ông trùm đã tạo điều kiện cho đặc nhiệm Mexico đột kích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:00:00+07:00",
+      "fetched": "2026-02-27T08:10:51.795221+07:00"
+    },
+    {
+      "id": "edef71911f47d3b74fd5b23cb9a5e016",
+      "title": "Bác sĩ tháo 'bản án' đeo túi nước tiểu cho hàng nghìn người",
+      "link": "https://vnexpress.net/bac-si-thao-ban-an-deo-tui-nuoc-tieu-cho-hang-nghin-nguoi-5044106.html",
+      "summary": "Từ cuộc gặp với giáo sư người Mỹ, TS.BS Đỗ Lệnh Hùng tìm ra \"chìa khóa\" giúp khép lại chuỗi ngày tuyệt vọng ôm túi nước tiểu bên hông của hàng nghìn người bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:00:00+07:00",
+      "fetched": "2026-02-27T08:10:51.795379+07:00"
+    },
+    {
+      "id": "1e22c6b195f8d43330e0246cb279d25d",
+      "title": "Vườn cà chua 'đẹp như AI', hút hàng nghìn khách check-in đầu xuân",
+      "link": "https://vnexpress.net/vuon-ca-chua-dep-nhu-ai-hut-hang-nghin-khach-check-in-dau-xuan-5043655.html",
+      "summary": "Hai giàn cà chua trĩu quả trên diện tích gần 40 m2 của chị Thanh Xuân, 42 tuổi, bất ngờ đón hàng nghìn lượt khách về chiêm ngưỡng dịp Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:00:00+07:00",
+      "fetched": "2026-02-27T08:10:51.795566+07:00"
+    },
+    {
+      "id": "6d873291a775c6931b68506a90ce79f0",
+      "title": "Xe khách chui ra từ màn sương dày đặc, đấu đầu xe ngược chiều",
+      "link": "https://vnexpress.net/xe-khach-chui-ra-tu-man-suong-day-dac-dau-dau-xe-nguoc-chieu-5044317.html",
+      "summary": "Trời sương mù dày đặc, xe khách lấn làn chiếm hết phần đường ngược chiều khiến xe đi đúng chiều phải dừng lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:00:00+07:00",
+      "fetched": "2026-02-27T08:10:51.795719+07:00"
+    },
+    {
+      "id": "3ea0a4b27484670f39e2a8d3d32f8844",
+      "title": "Sai lầm khiến trùm ma túy Mexico bị tiêu diệt",
+      "link": "https://vnexpress.net/sai-lam-khien-trum-ma-tuy-mexico-bi-tieu-diet-5044171.html",
+      "summary": "El Mencho luôn được bảo vệ bởi gần 400 tay súng cùng các biện pháp an ninh hiện đại, nhưng sai lầm của ông trùm đã tạo điều kiện cho đặc nhiệm Mexico đột kích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-26T23:00:00+07:00",
+      "fetched": "2026-02-27T08:10:57.315864+07:00"
+    },
+    {
+      "id": "6e32eefc2839ebaf8766a52599784238",
+      "title": "Thủ môn ăn vạ vì lễ Ramadan",
+      "link": "https://vnexpress.net/thu-mon-an-va-vi-le-ramadan-5044498.html",
+      "summary": "Thủ thành CLB Nantes, Anthony Lopes giả vờ bị chấn thương để giúp đỡ đồng đội theo đạo Hồi trong trận thắng Le Havre 2-0 ở vòng 23 Ligue 1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T22:56:22+07:00",
+      "fetched": "2026-02-27T08:11:02.368633+07:00"
+    },
+    {
+      "id": "6107e8eab1aebd79801aef1fb0cce438",
+      "title": "Runner nữ bị giẫm đạp vì pháo hoa gây xuất phát nhầm",
+      "link": "https://vnexpress.net/runner-nu-bi-giam-dap-vi-phao-hoa-gay-xuat-phat-nham-5044496.html",
+      "summary": "Pháo hoa phát nổ nhầm thời điểm ngay trước hiệu lệnh xuất phát khiến nhóm VĐV phía sau lao lên, xô ngã nhiều chân chạy nữ elite tại giải 10K Facsa Castellón hôm 23/2.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T22:52:58+07:00",
+      "fetched": "2026-02-27T08:11:02.368788+07:00"
+    },
+    {
+      "id": "5a0054be3dfa0225f8f88fc3452effe8",
+      "title": "Vì sao Ronaldo mừng bàn kiểu úp rổ?",
+      "link": "https://vnexpress.net/vi-sao-ronaldo-mung-ban-kieu-up-ro-5044487.html",
+      "summary": "Cristiano Ronaldo được cho đáp trả phát biểu của cầu thủ Al Hilal, bằng pha ăn mừng kiểu úp rổ trong trận Al Nassr thắng Al Najima 5-0 ở vòng 24 Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T22:46:01+07:00",
+      "fetched": "2026-02-27T08:11:02.367949+07:00"
+    },
+    {
+      "id": "928b5586090646665a929b71f278568a",
+      "title": "Hôm nay bốc thăm vòng 1/8 Champions League",
+      "link": "https://vnexpress.net/hom-nay-boc-tham-vong-1-8-champions-league-5044497.html",
+      "summary": "Lễ bốc thăm vòng 1/8 và xác định nhánh tứ kết, bán kết Champions League, diễn ra lúc 18h hôm nay, theo giờ Hà Nội tại trụ sở UEFA ở Nyon.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T22:43:11+07:00",
+      "fetched": "2026-02-27T08:11:02.368127+07:00"
     },
     {
       "id": "1cdd9d1436a2e91251bb3fe7a9cb1d67",
