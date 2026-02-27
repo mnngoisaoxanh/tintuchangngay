@@ -1,6 +1,6 @@
 window.newsData_2026_02_28 = {
   "date": "2026-02-28",
-  "lastUpdated": "2026-02-28T03:19:18.259006+07:00",
+  "lastUpdated": "2026-02-28T05:14:45.051639+07:00",
   "articles": [
     {
       "id": "518d4140b292de477cc2486449048158",
@@ -151,6 +151,66 @@ window.newsData_2026_02_28 = {
       "category": "Tổng hợp",
       "published": "2026-02-28T01:29:26.653241+07:00",
       "fetched": "2026-02-28T01:29:26.653467+07:00"
+    },
+    {
+      "id": "40fdd88013ce249bf631f307eaf2e3b5",
+      "title": "Cuba liên lạc với Mỹ sau vụ bắn tàu",
+      "link": "https://thanhnien.vn/cuba-lien-lac-voi-my-sau-vu-ban-tau-185260227211554781.htm",
+      "summary": "Các quan chức Havana cho biết đang liên lạc với phía Washington sau vụ tuần duyên Cuba nổ súng vào tàu cao tốc đăng ký tại Mỹ trên vùng biển thuộc đảo quốc Caribbean hôm 25.2, theo AFP ngày 27.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T22:02:00+07:00",
+      "fetched": "2026-02-28T05:14:36.658065+07:00"
+    },
+    {
+      "id": "b5bfa7022dbd72f9b0252d549d8686f5",
+      "title": "Tháng Thanh niên: 'Nước ấm vùng cao' lan tỏa nghĩa tình",
+      "link": "https://thanhnien.vn/thang-thanh-nien-nuoc-am-vung-cao-lan-toa-nghia-tinh-185260227180733388.htm",
+      "summary": "Gần 300 đoàn viên, thanh niên Công an TP.Đà Nẵng ra quân Tháng Thanh niên 2026, phát động trồng cây, trao nhiều công trình an sinh xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T22:00:00+07:00",
+      "fetched": "2026-02-28T05:14:36.658239+07:00"
+    },
+    {
+      "id": "c0876cc9a526c6ef3840d19f2a7cad84",
+      "title": "Hôm nay ngày 28.2: Theo lịch âm, lịch vạn niên là ngày gì đặc biệt?",
+      "link": "https://thanhnien.vn/hom-nay-ngay-282-theo-lich-am-lich-van-nien-la-ngay-gi-dac-biet-185260227143705493.htm",
+      "summary": "Theo lịch hôm nay, lịch vạn niên, ngày 28.2 là ngày gì đặc biệt mà nhiều người quan tâm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T22:00:00+07:00",
+      "fetched": "2026-02-28T05:14:36.658395+07:00"
+    },
+    {
+      "id": "5d94bd3bb09c637b0c6eaa4fa5128e56",
+      "title": "Công ty Mỹ tạo hệ điều hành cho robot hình người Trung Quốc",
+      "link": "https://vnexpress.net/cong-ty-my-tao-he-dieu-hanh-cho-robot-hinh-nguoi-trung-quoc-5043024.html",
+      "summary": "OpenMind (Mỹ) phát triển hệ điều hành OM1 cho robot hình người Trung Quốc, giúp nhà sản xuất phần cứng giảm rào cản về quy định, mở ra cơ hội ứng dụng toàn cầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-27T22:00:00+07:00",
+      "fetched": "2026-02-28T05:14:43.752626+07:00"
+    },
+    {
+      "id": "48099a0d0b1293a2e362cff331f76b7e",
+      "title": "Xuất hiện một người trúng độc đắc Vietlott 35,2 tỉ đồng tối 27.2",
+      "link": "https://thanhnien.vn/xuat-hien-mot-nguoi-trung-doc-dac-vietlott-352-ti-dong-toi-272-185260227190425816.htm",
+      "summary": "Tối 27.2, xuất hiện một người trúng giải độc đắc với số tiền cộng dồn là 35,2 tỉ đồng sau khi Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:45:00+07:00",
+      "fetched": "2026-02-28T05:14:36.658545+07:00"
+    },
+    {
+      "id": "b63d3a24578ce065d1ab84990e4cbf6c",
+      "title": "Chiến sự Ukraine 1.465: Có cơ hội chấm dứt xung đột trước tháng 11",
+      "link": "https://thanhnien.vn/chien-su-ukraine-1465-co-co-hoi-cham-dut-xung-dot-truoc-thang-11-185260227221346129.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky cho rằng Kyiv đang có cơ hội chấm dứt chiến sự với Nga trước cuộc bầu cử giữa nhiệm kỳ của Mỹ vào tháng 11 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:32:00+07:00",
+      "fetched": "2026-02-28T05:14:36.658697+07:00"
     },
     {
       "id": "cca36b9099c60f0e5a9df15c9c81a5fd",
