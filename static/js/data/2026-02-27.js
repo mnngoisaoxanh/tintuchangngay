@@ -1,7 +1,157 @@
 window.newsData_2026_02_27 = {
   "date": "2026-02-27",
-  "lastUpdated": "2026-02-27T15:30:59.263942+07:00",
+  "lastUpdated": "2026-02-27T17:28:35.256928+07:00",
   "articles": [
+    {
+      "id": "16a3b0c08d9b661bd64a4426946a9487",
+      "title": "Ukraine vay IMF thêm 8,1 tỉ USD, tiếp tục được khất nợ",
+      "link": "https://tuoitre.vn/ukraine-vay-imf-them-8-1-ti-usd-tiep-tuc-duoc-khat-no-20260227144806745.htm",
+      "summary": "Lãnh đạo IMF thông qua khoản vay mới trị giá 8,1 tỉ USD trong vòng 4 năm cho Ukraine, trong đó có 1,5 tỉ USD sẽ được giải ngân lập tức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.912104+07:00",
+      "fetched": "2026-02-27T17:28:27.912217+07:00"
+    },
+    {
+      "id": "747957f599916d9ae47a1dd85978d55e",
+      "title": "Bảo đảm nước sạch cho Phú Mỹ Hưng, Tân Thuận, Hiệp Phước và hơn 219.000 hộ dân khu Nam TP.HCM",
+      "link": "https://tuoitre.vn/bao-dam-nuoc-sach-cho-phu-my-hung-tan-thuan-hiep-phuoc-va-hon-219-000-ho-dan-khu-nam-tp-hcm-20260227115255649.htm",
+      "summary": "Phụ trách cấp nước sạch cho hơn 219.000 hộ dân và nhiều khu công nghiệp lớn khu Nam, Công ty cổ phần Cấp nước Nhà Bè cam kết bảo đảm cung ứng an toàn, liên tục, từng bước nâng cấp hạ tầng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.911984+07:00",
+      "fetched": "2026-02-27T17:28:27.912093+07:00"
+    },
+    {
+      "id": "0aba9dd8fbb55006f5bca5d160ed4f59",
+      "title": "Tuyển futsal nữ Việt Nam tìm cách hóa giải Thái Lan",
+      "link": "https://tuoitre.vn/tuyen-futsal-nu-viet-nam-tim-cach-hoa-giai-thai-lan-20260227151306172.htm",
+      "summary": "Phát biểu trước trận bán kết Giải futsal nữ Đông Nam Á 2026, HLV Nguyễn Đình Hoàng cho biết đội tuyển futsal nữ Việt Nam phải tìm cách hóa giải các cầu thủ nguy hiểm của Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.911863+07:00",
+      "fetched": "2026-02-27T17:28:27.911973+07:00"
+    },
+    {
+      "id": "af108d6425310ab51e0e1e633a47157e",
+      "title": "Thời tiết miền Nam 'đỏng đảnh', mưa trái mùa giảm trời nắng nóng, nắng vài bữa lại mưa",
+      "link": "https://tuoitre.vn/thoi-tiet-mien-nam-dong-danh-mua-trai-mua-giam-troi-nang-nong-nang-vai-bua-lai-mua-20260227151931493.htm",
+      "summary": "Vùng mưa trái mùa diễn ra tại Nam Bộ đang dịch dần về phía tây, nhường chỗ cho nắng nóng, nhưng mưa sẽ quay trở lại ngay sau đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.911740+07:00",
+      "fetched": "2026-02-27T17:28:27.911852+07:00"
+    },
+    {
+      "id": "26a61de6547d056e6df5b775299f6588",
+      "title": "Đã gỡ 5 biển hạn chế tốc độ 40km/h trên quốc lộ 19",
+      "link": "https://tuoitre.vn/da-go-5-bien-han-che-toc-do-40km-h-tren-quoc-lo-19-20260227151012669.htm",
+      "summary": "Công ty BOT 36.71 đã triển khai gỡ bỏ 5 vị trí cắm biển hạn chế tốc độ 40km/h trên quốc lộ 19 qua tỉnh Gia Lai thuộc đoạn tuyến doanh nghiệp quản lý, sau phản ánh của Tuổi Trẻ Online.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.911611+07:00",
+      "fetched": "2026-02-27T17:28:27.911728+07:00"
+    },
+    {
+      "id": "11ef9710db57f979fce77c245a2ba700",
+      "title": "An Giang: Kiểm tra công tác chuẩn bị bầu cử - ngày hội non sông",
+      "link": "https://tuoitre.vn/an-giang-kiem-tra-cong-tac-chuan-bi-bau-cu-ngay-hoi-non-song-20260227150525098.htm",
+      "summary": "An Giang đã thành lập nhiều đoàn công tác đến kiểm tra công tác bầu cử Quốc hội và HĐND các cấp, nhiệm kỳ 2026-2031 tại các địa phương, để chuẩn bị cho 'ngày hội của non sông'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.911488+07:00",
+      "fetched": "2026-02-27T17:28:27.911600+07:00"
+    },
+    {
+      "id": "585f480b1d8a34f91285b45e98e604c4",
+      "title": "Chủ tịch HĐND TP.HCM: Rà soát trạng thái cư trú thực tế trên địa bàn để không bỏ sót cử tri",
+      "link": "https://tuoitre.vn/chu-tich-hdnd-tp-hcm-ra-soat-trang-thai-cu-tru-thuc-te-tren-dia-ban-de-khong-bo-sot-cu-tri-202602271520433.htm",
+      "summary": "Chủ tịch HĐND TP.HCM Võ Văn Minh chỉ rõ cần thường xuyên rà soát trạng thái thực tế cư trú của người dân trên địa bàn để không bỏ sót cử tri.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.911342+07:00",
+      "fetched": "2026-02-27T17:28:27.911475+07:00"
+    },
+    {
+      "id": "546511e96299928dd6ee8bee877b76b6",
+      "title": "Đà Nẵng sẽ di dời cảng cá Thọ Quang, biến nơi này thành cảng du lịch hiện đại",
+      "link": "https://tuoitre.vn/da-nang-se-di-doi-cang-ca-tho-quang-bien-noi-nay-thanh-cang-du-lich-hien-dai-20260227152655283.htm",
+      "summary": "Lãnh đạo TP Đà Nẵng cho hay đã có định hướng và chỉ đạo về việc sẽ cải tạo khu vực âu thuyền Thọ Quang theo hướng chuyển đổi công năng thành cảng du lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.911214+07:00",
+      "fetched": "2026-02-27T17:28:27.911331+07:00"
+    },
+    {
+      "id": "fe308ce6173e2c01c1b8eaa2e3d97cd3",
+      "title": "Vì sao tô phở ở sân bay Cam Ranh có giá 346.000 đồng, ai giám sát giá cả?",
+      "link": "https://tuoitre.vn/vi-sao-to-pho-o-san-bay-cam-ranh-co-gia-346-000-dong-ai-giam-sat-gia-ca-202602271534211.htm",
+      "summary": "Các đơn vị kinh doanh ăn uống ở sân bay lý giải việc bán sản phẩm với giá 'trên trời' là do phải chịu nhiều chi phí từ mặt bằng, kiểm định chất lượng, kiểm định dịch vụ, nguồn gốc nguyên liệu...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.911090+07:00",
+      "fetched": "2026-02-27T17:28:27.911204+07:00"
+    },
+    {
+      "id": "8867a55ad08d06fe9b5d2d8698937e15",
+      "title": "Ăn chay giảm nguy cơ 5 loại ung thư, nhưng lại tăng 2 loại khác?",
+      "link": "https://tuoitre.vn/an-chay-giam-nguy-co-5-loai-ung-thu-nhung-lai-tang-2-loai-khac-20260227140832015.htm",
+      "summary": "Nghiên cứu quy mô lớn cho thấy người ăn chay có nguy cơ thấp hơn đáng kể với 5 loại ung thư: tụy, tiền liệt tuyến, vú, thận và đa u tủy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.910953+07:00",
+      "fetched": "2026-02-27T17:28:27.911074+07:00"
+    },
+    {
+      "id": "c5414758461435aa551668c3ab088f09",
+      "title": "Bị 'xả' mạnh giữa phiên, VN-Index vẫn ngược dòng giữ mốc 1.880 điểm",
+      "link": "https://tuoitre.vn/bi-xa-manh-giua-phien-vn-index-van-nguoc-dong-giu-moc-1-880-diem-20260227155343271.htm",
+      "summary": "Có lúc mất hơn 16 điểm vì áp lực bán, VN-Index vẫn kịp hồi phục cuối phiên và giữ vững mốc 1.880 điểm khi khép tuần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.910827+07:00",
+      "fetched": "2026-02-27T17:28:27.910942+07:00"
+    },
+    {
+      "id": "f25a1666dda83029f7058e441a9518f2",
+      "title": "'Thần tốc, quyết liệt' giải phóng mặt bằng dự án cao tốc Quy Nhơn - Pleiku",
+      "link": "https://tuoitre.vn/than-toc-quyet-liet-giai-phong-mat-bang-du-an-cao-toc-quy-nhon-pleiku-20260227155101405.htm",
+      "summary": "Ông Nguyễn Tự Công Hoàng, Phó chủ tịch UBND tỉnh Gia Lai, yêu cầu lãnh đạo các xã, phường nơi dự án đường cao tốc Quy Nhơn - Pleiku đi qua phải xắn tay vào giải phóng mặt bằng để đẩy nhanh xây dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.910698+07:00",
+      "fetched": "2026-02-27T17:28:27.910816+07:00"
+    },
+    {
+      "id": "76a47987b47bf14444a455f5981ab1b7",
+      "title": "Nam thanh niên cho ‘cua bay’ ngoài đường bị xử phạt",
+      "link": "https://tuoitre.vn/nam-thanh-nien-cho-cua-bay-ngoai-duong-bi-xu-phat-20260227160126015.htm",
+      "summary": "Công an tỉnh Cà Mau đã mời một nam thanh niên lên làm việc và xử phạt vì hành vi điều khiển xe mô tô không đội mũ bảo hiểm, đăng clip cho 'cua bay' lên TikTok để câu view.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.910560+07:00",
+      "fetched": "2026-02-27T17:28:27.910686+07:00"
+    },
+    {
+      "id": "042193e18789e34cb3ee8bce832fc089",
+      "title": "Meta khởi kiện 1 người Việt vì quảng cáo lừa đảo",
+      "link": "https://tuoitre.vn/meta-khoi-kien-1-nguoi-viet-vi-quang-cao-lua-dao-2026022716091414.htm",
+      "summary": "Theo Meta, Lý Văn Lâm, một chủ tài khoản quảng cáo tại Việt Nam có hành vi mạo danh thương hiệu và sử dụng thủ thuật công nghệ để chiếm đoạt tài sản người dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.910363+07:00",
+      "fetched": "2026-02-27T17:28:27.910544+07:00"
+    },
+    {
+      "id": "725286adcef5550bb83d65de9a025d91",
+      "title": "Người đàn ông xịt hơi cay, chém phụ nữ giữa đêm vắng bị bắt sau 40 giờ gây án",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-xit-hoi-cay-chem-phu-nu-giua-dem-vang-bi-bat-sau-40-gio-gay-an-20260227153650127.htm",
+      "summary": "Nguyễn Chí Hòa (37 tuổi, ở Phú Thọ) dùng bình xịt hơi cay và dao tấn công một phụ nữ đi đường, bị cơ quan công an bắt sau 40 giờ gây án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T17:28:27.910140+07:00",
+      "fetched": "2026-02-27T17:28:27.910347+07:00"
+    },
     {
       "id": "0cb9ed92e85e4ce5bd0ce0d4a5d87010",
       "title": "Vietcombank hướng đến top 100 ngân hàng lớn nhất khu vực châu Á về tổng tài sản",
@@ -453,6 +603,236 @@ window.newsData_2026_02_27 = {
       "fetched": "2026-02-27T11:04:02.180664+07:00"
     },
     {
+      "id": "7667ab901d3f683c05b499a5039fc291",
+      "title": "Con gái buông lời khó nghe khi tôi không cho tiền đi nước ngoài học",
+      "link": "https://vnexpress.net/tuoi-52-cong-lung-nuoi-ca-gia-dinh-toi-chet-lang-khi-bi-con-gai-dung-loi-cay-doc-chi-vi-khong-cho-tien-di-nuoc-ngoai-5044587.html",
+      "summary": "Tôi không cho tiền mà nói con tự đi làm và học tiếp, tôi nuôi cho học một cái bằng đại học là đủ rồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T10:00:00+07:00",
+      "fetched": "2026-02-27T17:28:23.582288+07:00"
+    },
+    {
+      "id": "eaf7f85ad249aa7d8f082030db1ce40f",
+      "title": "Tránh nguy cơ đột quỵ nhờ được cấp cứu kịp thời",
+      "link": "https://vnexpress.net/tranh-nguy-co-dot-quy-nho-duoc-cap-cuu-kip-thoi-5044834.html",
+      "summary": "Anh Phương, 47 tuổi ở Đà Nẵng, cảm thấy tê bì từ tay lên đầu trong lúc lái ôtô, vội tìm cơ sở y tế gần nhất để tránh gặp nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T10:00:00+07:00",
+      "fetched": "2026-02-27T17:28:23.582494+07:00"
+    },
+    {
+      "id": "4fe0041ca3ae97d17fd1da20a8606713",
+      "title": "Thuốc miễn dịch chặn ung thư dạ dày tái phát",
+      "link": "https://vnexpress.net/thuoc-mien-dich-chan-ung-thu-da-day-tai-phat-5044803.html",
+      "summary": "Bà Vọng, 86 tuổi, cắt 3/4 dạ dày trong lần điều trị 15 năm trước, nay ung thư dạ dày tái phát được bác sĩ chỉ định điều trị bằng thuốc miễn dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T10:00:00+07:00",
+      "fetched": "2026-02-27T17:28:23.582663+07:00"
+    },
+    {
+      "id": "3c0aacbc81320ab72f26a8c614fadd86",
+      "title": "Cựu Bộ trưởng Y tế Nguyễn Thị Kim Tiến bị đề nghị truy tố",
+      "link": "https://vnexpress.net/cuu-bo-truong-y-te-nguyen-thi-kim-tien-bi-de-nghi-truy-to-5044841.html",
+      "summary": "Cựu Bộ trưởng Y tế Nguyễn Thị Kim Tiến đề nghị truy tố với cáo buộc sai phạm liên quan dự án Bệnh viện Bạch Mai 2 và Việt Đức 2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T09:57:10+07:00",
+      "fetched": "2026-02-27T17:28:23.582819+07:00"
+    },
+    {
+      "id": "223cbf5afb2c7f39fcdc0a62b61f3732",
+      "title": "Khán giả xông vào sân kéo ngã Messi",
+      "link": "https://vnexpress.net/khan-gia-xong-vao-san-keo-nga-messi-5044783.html",
+      "summary": "Khán giả quá khích kéo ngã Lionel Messi trong trận giao hữu giữa Independiente del Valle và Inter Miami, tối 26/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T09:52:40+07:00",
+      "fetched": "2026-02-27T17:28:23.582981+07:00"
+    },
+    {
+      "id": "223cbf5afb2c7f39fcdc0a62b61f3732",
+      "title": "Khán giả xông vào sân kéo ngã Messi",
+      "link": "https://vnexpress.net/khan-gia-xong-vao-san-keo-nga-messi-5044783.html",
+      "summary": "Khán giả quá khích kéo ngã Lionel Messi trong trận giao hữu giữa Independiente del Valle và Inter Miami, tối 26/2.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-27T09:52:40+07:00",
+      "fetched": "2026-02-27T17:28:35.247495+07:00"
+    },
+    {
+      "id": "c727c2171442fac6a6567db4c65bc124",
+      "title": "Người thân cầu thủ nhập tịch Malaysia có thể ra tòa làm chứng",
+      "link": "https://vnexpress.net/nguoi-than-cau-thu-nhap-tich-malaysia-co-the-ra-toa-lam-chung-5044812.html",
+      "summary": "Luật sư thể thao Hairul Vaiyron Othman cho rằng LĐBĐ Malaysia và FIFA có thể triệu tập nhân chứng liên quan ở cuộc gặp tiếp theo tại Tòa Trọng tài Thể thao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T09:46:11+07:00",
+      "fetched": "2026-02-27T17:28:23.583135+07:00"
+    },
+    {
+      "id": "c727c2171442fac6a6567db4c65bc124",
+      "title": "Người thân cầu thủ nhập tịch Malaysia có thể ra tòa làm chứng",
+      "link": "https://vnexpress.net/nguoi-than-cau-thu-nhap-tich-malaysia-co-the-ra-toa-lam-chung-5044812.html",
+      "summary": "Luật sư thể thao Hairul Vaiyron Othman cho rằng LĐBĐ Malaysia và FIFA có thể triệu tập nhân chứng liên quan ở cuộc gặp tiếp theo tại Tòa Trọng tài Thể thao.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-27T09:46:11+07:00",
+      "fetched": "2026-02-27T17:28:35.246676+07:00"
+    },
+    {
+      "id": "23267752df3c8cd0a864cdfacfc647f0",
+      "title": "Kịch tính đua thuyền trong Lễ cầu ngư cửa biển Thuận An",
+      "link": "https://vnexpress.net/kich-tinh-dua-thuyen-trong-le-cau-ngu-cua-bien-thuan-an-5044727.html",
+      "summary": "Người dân làng Thai Dương Hạ, phường Thuận An đua ghe, tái hiện công việc đánh bắt thủy hải sản trong lễ cầu ngư được tổ chức ba năm một lần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T09:42:49+07:00",
+      "fetched": "2026-02-27T17:28:23.583287+07:00"
+    },
+    {
+      "id": "6c25805b5ae2844045e703f4e36f62f2",
+      "title": "Triển vọng bất động sản Cần Giờ",
+      "link": "https://vnexpress.net/trien-vong-bat-dong-san-can-gio-5044794.html",
+      "summary": "Cần Giờ đang hút loạt dự án hạ tầng lớn, cũng như đại đô thị Vinhomes Green Paradise hơn 2.700 ha, nhận nhiều sự quan tâm từ nhà đầu tư và người mua ở thực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T09:30:00+07:00",
+      "fetched": "2026-02-27T17:28:23.583466+07:00"
+    },
+    {
+      "id": "8472c8ff47c37f70baf959844caaf425",
+      "title": "Bảo hiểm PVI vượt kế hoạch thu hộ bảo hiểm xã hội",
+      "link": "https://vnexpress.net/bao-hiem-pvi-vuot-ke-hoach-thu-ho-bao-hiem-xa-hoi-5044786.html",
+      "summary": "Hoạt động thu hộ bảo hiểm xã hội năm 2025 của Bảo hiểm PVI đạt 3.235 tỷ đồng, vượt chỉ tiêu, góp phần tăng độ phủ an sinh xã hội và mạng lưới dịch vụ toàn quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T09:30:00+07:00",
+      "fetched": "2026-02-27T17:28:23.583636+07:00"
+    },
+    {
+      "id": "8472c8ff47c37f70baf959844caaf425",
+      "title": "Bảo hiểm PVI vượt kế hoạch thu hộ bảo hiểm xã hội",
+      "link": "https://vnexpress.net/bao-hiem-pvi-vuot-ke-hoach-thu-ho-bao-hiem-xa-hoi-5044786.html",
+      "summary": "Hoạt động thu hộ bảo hiểm xã hội năm 2025 của Bảo hiểm PVI đạt 3.235 tỷ đồng, vượt chỉ tiêu, góp phần tăng độ phủ an sinh xã hội và mạng lưới dịch vụ toàn quốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-27T09:30:00+07:00",
+      "fetched": "2026-02-27T17:28:30.622870+07:00"
+    },
+    {
+      "id": "a28edfaa079cedee4b322769257e3952",
+      "title": "Đà Nẵng quy hoạch tổng thể Nam Hội An",
+      "link": "https://vnexpress.net/da-nang-quy-hoach-tong-the-nam-hoi-an-5044756.html",
+      "summary": "TP Đà Nẵng đang thuê tư vấn lập quy hoạch tổng thể khu vực từ cầu Cửa Đại đến các xã Thăng An, Thăng Trường, nhằm kết nối không gian và chuẩn bị triển khai loạt dự án hạ tầng chiến lược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T09:27:36+07:00",
+      "fetched": "2026-02-27T17:28:23.583795+07:00"
+    },
+    {
+      "id": "021dd0119068bd2e09e364f75eabe511",
+      "title": "'Túp lều bác Tôm' - tình yêu của mẹ",
+      "link": "https://vnexpress.net/tup-leu-bac-tom-tinh-yeu-cua-me-5043382.html",
+      "summary": "Đọc ''Túp lều bác Tôm'', tôi thấu hiểu rằng làm mẹ là dám bước qua nỗi sợ của chính mình để giữ cho con một bầu trời bình yên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T09:24:18+07:00",
+      "fetched": "2026-02-27T17:28:23.583953+07:00"
+    },
+    {
+      "id": "01a3ce8ee8f2c656a37b78d99752e382",
+      "title": "Ông Nguyễn Kim Sơn, Nguyễn Sỹ Hiệp giữ chức Phó ban Chính sách, chiến lược Trung ương",
+      "link": "https://vnexpress.net/ong-nguyen-kim-son-nguyen-sy-hiep-giu-chuc-pho-ban-chinh-sach-chien-luoc-trung-uong-5044802.html",
+      "summary": "Bộ Chính trị điều động Bộ trưởng Giáo dục và Đào tạo Nguyễn Kim Sơn và Phó chủ nhiệm Văn phòng Chính phủ Nguyễn Sỹ Hiệp giữ chức Phó ban Chính sách, chiến lược Trung ương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T09:24:10+07:00",
+      "fetched": "2026-02-27T17:28:23.584101+07:00"
+    },
+    {
+      "id": "4106aede45c7576715ab2188ecccee5b",
+      "title": "Đồng nghiệp, khán giả nhớ Ngô Mạnh Đạt",
+      "link": "https://vnexpress.net/dong-nghiep-khan-gia-nho-ngo-manh-dat-5044684.html",
+      "summary": "Tài tử Trung Quốc Ngô Kinh và hàng nghìn khán giả tưởng nhớ diễn viên Ngô Mạnh Đạt, trong ngày giỗ tài tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T09:20:19+07:00",
+      "fetched": "2026-02-27T17:28:23.584260+07:00"
+    },
+    {
+      "id": "0736d0524cb41c73b4ac65edbe17c3d7",
+      "title": "Tiffany cưới Byun Yo Han",
+      "link": "https://vnexpress.net/tiffany-cuoi-byun-yo-han-5044731.html",
+      "summary": "Ca sĩ Hàn Tiffany - thành viên nhóm SNSD - đăng ký kết hôn với diễn viên Byun Yo Han, dự định tổ chức hôn lễ riêng tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T09:18:34+07:00",
+      "fetched": "2026-02-27T17:28:23.584426+07:00"
+    },
+    {
+      "id": "c8e649f007f0dea39dcd60a129be9e78",
+      "title": "Phi đội F-22 bí mật của Mỹ lộ diện trên ảnh vệ tinh Trung Quốc",
+      "link": "https://vnexpress.net/phi-doi-f-22-bi-mat-cua-my-lo-dien-tren-anh-ve-tinh-trung-quoc-5044660.html",
+      "summary": "Ảnh vệ tinh thương mại Trung Quốc cho thấy loạt tiêm kích F-22 Mỹ ở căn cứ Israel, chưa đầy 24 giờ sau khi phi đội này hạ cánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T09:17:07+07:00",
+      "fetched": "2026-02-27T17:28:23.584597+07:00"
+    },
+    {
+      "id": "c8e649f007f0dea39dcd60a129be9e78",
+      "title": "Phi đội F-22 bí mật của Mỹ lộ diện trên ảnh vệ tinh Trung Quốc",
+      "link": "https://vnexpress.net/phi-doi-f-22-bi-mat-cua-my-lo-dien-tren-anh-ve-tinh-trung-quoc-5044660.html",
+      "summary": "Ảnh vệ tinh thương mại Trung Quốc cho thấy loạt tiêm kích F-22 Mỹ ở căn cứ Israel, chưa đầy 24 giờ sau khi phi đội này hạ cánh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T09:17:07+07:00",
+      "fetched": "2026-02-27T17:28:29.227042+07:00"
+    },
+    {
+      "id": "e271f6c91e9d1cebd96b2b22b6b6a138",
+      "title": "Xổ số kiến thiết miền Nam đạt doanh thu hơn 6 tỷ USD",
+      "link": "https://vnexpress.net/xo-so-kien-thiet-mien-nam-dat-doanh-thu-hon-6-ty-usd-5044681.html",
+      "summary": "21 công ty xổ số kiến thiết khu vực miền Nam đạt doanh thu năm 2025 trên 155.500 tỷ đồng (hơn 6 tỷ USD), nộp ngân sách gần 52.000 tỷ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-27T09:04:34+07:00",
+      "fetched": "2026-02-27T17:28:30.621190+07:00"
+    },
+    {
+      "id": "898fd2195213011a45b954f4b54bef02",
+      "title": "Quân đội Mỹ bắn hạ drone của lực lượng biên phòng",
+      "link": "https://vnexpress.net/quan-doi-my-ban-ha-drone-cua-luc-luong-bien-phong-5044726.html",
+      "summary": "Các nghị sĩ Dân chủ nói rằng quân đội Mỹ khai hỏa vũ khí laser để hạ drone của lực lượng biên phòng, đồng thời chỉ trích Tổng thống Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T08:41:09+07:00",
+      "fetched": "2026-02-27T17:28:29.227216+07:00"
+    },
+    {
+      "id": "82d5c8419293c70bd7113e8dbcd12698",
+      "title": "Chứng khoán tiếp tục 'xanh vỏ, đỏ lòng'",
+      "link": "https://vnexpress.net/chung-khoan-tiep-tuc-xanh-vo-do-long-5044780.html",
+      "summary": "VN-Index tăng gần 1 điểm nhưng lại \"xanh vỏ, đỏ lòng\" khi bên giảm nhiều hơn tăng, lực đỡ chính tiếp tục đến từ cổ phiếu Vingroup.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-27T08:37:14+07:00",
+      "fetched": "2026-02-27T17:28:30.621365+07:00"
+    },
+    {
+      "id": "aaa2a5a7b4215e05b6d4f5612ae7801c",
+      "title": "'Giọt nước tràn ly' khiến Pakistan tuyên chiến với Taliban",
+      "link": "https://vnexpress.net/giot-nuoc-tran-ly-khien-pakistan-tuyen-chien-voi-taliban-5044585.html",
+      "summary": "Căng thẳng từ lâu giữa Pakistan với lực lượng Taliban tại Afghanistan vì các nhóm phiến quân biến thành \"chiến tranh không hạn chế\" sau cuộc tập kích qua biên giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T08:36:47+07:00",
+      "fetched": "2026-02-27T17:28:29.227378+07:00"
+    },
+    {
       "id": "cf100779dd84f38fd95a37c7394d2c87",
       "title": "Vì sao học sinh xuất sắc cần một lộ trình khác ngay từ THPT?",
       "link": "https://thanhnien.vn/vi-sao-hoc-sinh-xuat-sac-can-mot-lo-trinh-khac-ngay-tu-thpt-185260227150126763.htm",
@@ -471,6 +851,16 @@ window.newsData_2026_02_27 = {
       "category": "Tổng hợp",
       "published": "2026-02-27T08:30:00+07:00",
       "fetched": "2026-02-27T15:30:53.164572+07:00"
+    },
+    {
+      "id": "1887918a406ec100ca128b91d43468ad",
+      "title": "Cựu thủ tướng New Zealand đưa cả nhà tới sống ở Australia",
+      "link": "https://vnexpress.net/cuu-thu-tuong-new-zealand-dua-ca-nha-toi-song-o-australia-5044619.html",
+      "summary": "Cựu thủ tướng Jacinda Ardern đưa gia đình chuyển từ Mỹ đến định cư ở Australia để có nhiều thời gian trở về New Zealand hơn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T08:24:43+07:00",
+      "fetched": "2026-02-27T17:28:29.227567+07:00"
     },
     {
       "id": "d3b73e329f5ae03a823b216af8615b21",
