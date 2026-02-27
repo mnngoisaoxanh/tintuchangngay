@@ -1,7 +1,157 @@
 window.newsData_2026_02_27 = {
   "date": "2026-02-27",
-  "lastUpdated": "2026-02-27T08:11:02.373761+07:00",
+  "lastUpdated": "2026-02-27T11:04:09.687377+07:00",
   "articles": [
+    {
+      "id": "100645c89710725ba2ab530fa03b69e5",
+      "title": "Nhiều điểm lạ trong ngày Thần tài",
+      "link": "https://tuoitre.vn/nhieu-diem-la-trong-ngay-than-tai-20260227083828498.htm",
+      "summary": "Quá nhiều những điểm mới trong ngày vía Thần tài năm nay khi trời mưa suốt cả ngày, giá vàng bạc đều giảm. Cũng công ty vàng cho khách hàng cà thẻ mua tối đa 1 chỉ vàng và mua vàng trên 20 triệu đồng phải thanh toán không tiền mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.182473+07:00",
+      "fetched": "2026-02-27T11:04:02.182597+07:00"
+    },
+    {
+      "id": "c101225d2d17edd031638e00f5178f39",
+      "title": "Thêm nội lực cho nền kinh tế",
+      "link": "https://tuoitre.vn/them-noi-luc-cho-nen-kinh-te-20260227085039172.htm",
+      "summary": "Bên cạnh duy trì động lực xuất khẩu, năm 2026 được kỳ vọng sẽ phản ánh mức độ phát huy nguồn lực trong nước của nền kinh tế Việt Nam - bao gồm hạ tầng, khu vực tư nhân và định hình trung tâm tài chính quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.182326+07:00",
+      "fetched": "2026-02-27T11:04:02.182461+07:00"
+    },
+    {
+      "id": "1ae6ba1626ba6a07dcff1140183b97ed",
+      "title": "Tranh của David Hockney tái xuất sau 30 năm, sắp đấu giá hàng triệu bảng Anh",
+      "link": "https://tuoitre.vn/tranh-cua-david-hockney-tai-xuat-sau-30-nam-sap-dau-gia-hang-trieu-bang-anh-20260227085851743.htm",
+      "summary": "Tác phẩm English Garden - bức phong cảnh nước Anh đầu tiên của danh họa David Hockney đang được trưng bày trở lại sau gần 30 năm trước khi lên sàn đấu giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.182199+07:00",
+      "fetched": "2026-02-27T11:04:02.182315+07:00"
+    },
+    {
+      "id": "d23713a482fc1311bbf866d95ac09e48",
+      "title": "Eileen Gu: Nữ sinh Stanford và 5 huy chương Olympic danh giá",
+      "link": "https://tuoitre.vn/eileen-gu-nu-sinh-stanford-va-5-huy-chuong-olympic-danh-gia-20260227082539213.htm",
+      "summary": "Kiếm 23 triệu USD trong 1 năm, sở hữu 5 huy chương Olympic và là sinh viên ưu tú của Stanford. Tuổi 22 của Eileen Gu (Trung Quốc) có vẻ ngoài hoàn hảo, nhưng đằng sau đó là sự đánh đổi bằng mồ hôi và nhiều nước mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.182037+07:00",
+      "fetched": "2026-02-27T11:04:02.182186+07:00"
+    },
+    {
+      "id": "824efd3d41b9ed7978eb3af100f82fdf",
+      "title": "Được CAS hoãn phán quyết, CĐV Malaysia tự tin: 'Phen này mình thắng chắc!'",
+      "link": "https://tuoitre.vn/duoc-cas-hoan-phan-quyet-cdv-malaysia-tu-tin-phen-nay-minh-thang-chac-20260227090653159.htm",
+      "summary": "Nhiều CĐV Malaysia tin rằng việc Tòa án Trọng tài thể thao quốc tế (CAS) chần chừ là dấu hiệu chiến thắng của bóng đá nước nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.181908+07:00",
+      "fetched": "2026-02-27T11:04:02.182026+07:00"
+    },
+    {
+      "id": "c73bea7bf5fab4a789d4cbbec6645865",
+      "title": "218 khu vực bỏ phiếu trên cả nước sẽ tiến hành bỏ phiếu sớm",
+      "link": "https://tuoitre.vn/218-khu-vuc-bo-phieu-tren-ca-nuoc-se-tien-hanh-bo-phieu-som-20260227092116902.htm",
+      "summary": "Theo đề nghị của Ủy ban Bầu cử 11 tỉnh, thành phố, Hội đồng Bầu cử quốc gia đã có văn bản cho phép 218 khu vực bỏ phiếu trên địa bàn các tỉnh, thành phố tiến hành bỏ phiếu sớm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.181780+07:00",
+      "fetched": "2026-02-27T11:04:02.181897+07:00"
+    },
+    {
+      "id": "46b611f0763c5d6c5cdd79d0813a3188",
+      "title": "Đường hoa Xuân Menas 2026: Dấu ấn 5 năm và khát vọng vươn mình",
+      "link": "https://tuoitre.vn/duong-hoa-xuan-menas-2026-dau-an-5-nam-va-khat-vong-vuon-minh-20260227085042619.htm",
+      "summary": "Sau 24 ngày mở cửa phục vụ người dân và du khách, Đường hoa Xuân Menas -Tân Sơn Hòa 2026 với chủ đề \"Vũ khúc Xuân Bính Ngọ - Kỷ nguyên vươn mình\" đã chính thức khép lại, đánh dấu cột mốc 5 năm hành trình kiến tạo không gian văn hóa cộng đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.181652+07:00",
+      "fetched": "2026-02-27T11:04:02.181769+07:00"
+    },
+    {
+      "id": "d6676dc5ef4a8d848a70f5fa4d61fd9a",
+      "title": "AI vào bệnh viện, bác sĩ có 'đồng nghiệp số'",
+      "link": "https://tuoitre.vn/ai-vao-benh-vien-bac-si-co-dong-nghiep-so-20260227082149768.htm",
+      "summary": "Đầu năm 2026, Bộ Y tế Việt Nam đã chính thức trở thành một trong 10 quốc gia tiên phong tham gia mạng lưới toàn cầu của HealthAI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.181523+07:00",
+      "fetched": "2026-02-27T11:04:02.181639+07:00"
+    },
+    {
+      "id": "0cf7053c0f7c90e8af36d03fbf6c8a40",
+      "title": "Tận dụng cơ hội từ chính sách thuế mới của Mỹ",
+      "link": "https://tuoitre.vn/tan-dung-co-hoi-tu-chinh-sach-thue-moi-cua-my-20260227085432049.htm",
+      "summary": "Nhìn sâu vào cấu trúc thuế quan và bài toán lợi thế cạnh tranh tương đối, bức tranh đối với Việt Nam lại mang nhiều gam màu sáng hơn chúng ta tưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.181393+07:00",
+      "fetched": "2026-02-27T11:04:02.181511+07:00"
+    },
+    {
+      "id": "e00671cf391350caa4d226979736bf44",
+      "title": "Đánh bại đối thủ Thái Lan, Nguyễn Nhật kéo dài mạch chiến tích ở giải cầu lông danh giá",
+      "link": "https://tuoitre.vn/danh-bai-doi-thu-thai-lan-nguyen-nhat-keo-dai-mach-chien-tich-o-giai-cau-long-danh-gia-20260227093704791.htm",
+      "summary": "Sáng 27-2, tay vợt người Ireland gốc Việt Nguyễn Nhật đã đánh bại tay vợt Thái Lan Kantaphon Wangcharoen để tiếp tục kéo dài mạch chiến tích ấn tượng tại Giải cầu lông Đức mở rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.181263+07:00",
+      "fetched": "2026-02-27T11:04:02.181382+07:00"
+    },
+    {
+      "id": "3ea813d809d5f86632bd0bd7608edca2",
+      "title": "Bác sĩ tuyến cơ sở: Ở đâu cần mình, ở đó là nơi đáng làm!",
+      "link": "https://tuoitre.vn/bac-si-tuyen-co-so-o-dau-can-minh-o-do-la-noi-dang-lam-20260227091821401.htm",
+      "summary": "Tốt nghiệp Trường ĐH Y khoa Phạm Ngọc Thạch, bác sĩ Nguyễn Trần Bảo Khanh được phân công về Bệnh viện Đa khoa Nguyễn Thị Thập (TP.HCM). Hiện phụ trách khoa nhi, nữ bác sĩ trẻ ấy còn là thủ lĩnh Đoàn năng động của bệnh viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.181129+07:00",
+      "fetched": "2026-02-27T11:04:02.181251+07:00"
+    },
+    {
+      "id": "a4810b80d9c4ba3e5e13ae42187a23df",
+      "title": "Chelsea lập kỷ lục thua lỗ lớn nhất lịch sử bóng đá Anh",
+      "link": "https://tuoitre.vn/chelsea-lap-ky-luc-thua-lo-lon-nhat-lich-su-bong-da-anh-20260227095210169.htm",
+      "summary": "Mới đây, Chelsea ghi nhận khoản thua lỗ trước thuế lớn nhất lịch sử bóng đá Anh với con số 342 triệu bảng ở mùa giải 2024-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.180968+07:00",
+      "fetched": "2026-02-27T11:04:02.181115+07:00"
+    },
+    {
+      "id": "0a46a5b7916afb4acd124ada10658f9f",
+      "title": "Rừng thiêng độc đáo trong lòng phố ở Đà Nẵng: Khi nào được công nhận di tích?",
+      "link": "https://tuoitre.vn/rung-thieng-doc-dao-trong-long-pho-o-da-nang-khi-nao-duoc-cong-nhan-di-tich-20260227094248194.htm",
+      "summary": "Rừng thiêng Trung Sơn nằm ngay trong lòng thành phố Đà Nẵng được dân làng bảo vệ hằng trăm năm qua, với nhiều giá trị về lịch sử, sinh thái… nhưng vẫn chưa được công nhận di tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.180828+07:00",
+      "fetched": "2026-02-27T11:04:02.180955+07:00"
+    },
+    {
+      "id": "67ed913d70523f9df38a08f91bc14f47",
+      "title": "Phát hiện rạn san hô 'khủng' gần 4.000m²",
+      "link": "https://tuoitre.vn/phat-hien-ran-san-ho-khung-gan-4-000m-20260227091425545.htm",
+      "summary": "Một quần thể san hô dài 111m, rộng gần 4.000m² vừa được phát hiện tại Great Barrier Reef, giữa lúc rạn san hô này chịu nhiều đợt tẩy trắng nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.180682+07:00",
+      "fetched": "2026-02-27T11:04:02.180814+07:00"
+    },
+    {
+      "id": "a6bf7d878aaeefc04024a3197b4f83e0",
+      "title": "Lạc giữa rừng mai vàng cổ thụ trăm tuổi ở đại ngàn Quảng Trị",
+      "link": "https://tuoitre.vn/lac-giua-rung-mai-vang-co-thu-tram-tuoi-o-dai-ngan-quang-tri-20260227083011496.htm",
+      "summary": "Giữa rừng bảo tồn Đakrông, một quần thể mai vàng cổ thụ hàng trăm năm tuổi đang được bảo vệ nghiêm ngặt, mở ra tiềm năng lớn về bảo tồn và du lịch sinh thái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T11:04:02.180433+07:00",
+      "fetched": "2026-02-27T11:04:02.180664+07:00"
+    },
     {
       "id": "d3b73e329f5ae03a823b216af8615b21",
       "title": "Đăng ký thi đánh giá năng lực ĐH Quốc gia TP.HCM 2026 cao kỷ lục, thí sinh cần chuẩn bị gì?",
@@ -53,6 +203,146 @@ window.newsData_2026_02_27 = {
       "fetched": "2026-02-27T08:10:55.752205+07:00"
     },
     {
+      "id": "85a6d530649f22342a4615b365b65967",
+      "title": "Bác sĩ ơi: Hiến máu có gây tăng cân không?",
+      "link": "https://thanhnien.vn/bac-si-oi-hien-mau-co-gay-tang-can-khong-185260227102327806.htm",
+      "summary": "\"Hiến máu có gây tăng cân không?\" là chủ đề được rất nhiều người quan tâm. Nhiều người nghĩ đi hiến máu để tăng hoặc giảm cân đó là suy nghĩ chưa đúng hoàn toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T04:01:00+07:00",
+      "fetched": "2026-02-27T11:04:00.996549+07:00"
+    },
+    {
+      "id": "838e78bf1314d2d03d5966cfb5eacef3",
+      "title": "Singapore đối mặt thách thức sống còn khi tỷ lệ sinh xuống đáy",
+      "link": "https://thanhnien.vn/singapore-doi-mat-thach-thuc-song-con-khi-ty-le-sinh-xuong-day-185260227104042569.htm",
+      "summary": "Phó thủ tướng Singapore Gan Kim Yong nêu ra thách thức về nhân khẩu tại quốc đảo này khi tỷ lệ sinh giảm xuống mức thấp kỷ lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T04:00:00+07:00",
+      "fetched": "2026-02-27T11:04:00.996720+07:00"
+    },
+    {
+      "id": "7913b47ddc35e25fcf31acb2ba849bb2",
+      "title": "Xem nhanh 12h: Không gạt chân chống có bị phạt 14 triệu? | Lái ô tô tông thẳng vào cây xăng",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-khong-gat-chan-chong-co-bi-phat-14-trieu-lai-o-to-tong-thang-vao-cay-xang-185260227103906102.htm",
+      "summary": "Thực hư thông tin 'lỗi không gạt chân chống bị phạt 14 triệu'; Vụ mâu thuẫn tài xế lao xe vào cây xăng; Chiêu nhờ chụp hình căn cước rồi trả công;… sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 27.2.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T04:00:00+07:00",
+      "fetched": "2026-02-27T11:04:00.996884+07:00"
+    },
+    {
+      "id": "2eec757a72d9d8177a667e9f713f221f",
+      "title": "Sắc vóc của Miss Grand Vietnam Võ Lê Quế Anh ở tuổi 25",
+      "link": "https://thanhnien.vn/thoi-trang-tre/sac-voc-cua-miss-grand-vietnam-vo-le-que-anh-o-tuoi-25-185260227081402851.htm",
+      "summary": "Hưởng ứng Lễ hội áo dài TP.HCM năm 2026, NTK Liên Hương trình làng bộ sưu tập mới mang tên 'Lung linh sắc hoa'. Trở thành 'nàng thơ' của NTK, Hoa hậu Võ Lê Quế Anh gây ấn tượng với nhan sắc dịu dàng, trong trẻo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T04:00:00+07:00",
+      "fetched": "2026-02-27T11:04:00.997062+07:00"
+    },
+    {
+      "id": "c6885bbcd2b2fc660a7db2b314e44734",
+      "title": "Từ ngày 1.3, điện thoại nào có thể bị chặn ứng dụng Mobile Banking?",
+      "link": "https://thanhnien.vn/tu-ngay-13-dien-thoai-nao-co-the-bi-chan-ung-dung-mobile-banking-185260227080241503.htm",
+      "summary": "Từ ngày 1.3, ứng dụng Mobile Banking của các ngân hàng sẽ dừng hoạt động nếu điện thoại bị bẻ khóa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T03:57:00+07:00",
+      "fetched": "2026-02-27T11:04:00.997226+07:00"
+    },
+    {
+      "id": "f1c3b4fe95bde2975943583d2fed4da1",
+      "title": "'Mỏ vàng' xổ số miền Nam xin tăng phát hành lên 160 tỉ đồng/kỳ",
+      "link": "https://thanhnien.vn/mo-vang-xo-so-mien-nam-xin-tang-phat-hanh-len-160-ti-dong-ky-185260227103621941.htm",
+      "summary": "Để đạt được mục tiêu doanh thu tương đương 6,81 tỉ đô la, các công ty thành viên của xổ số miền Nam kiến nghị Bộ Tài chính cho phép tăng doanh số phát hành mỗi kỳ từ 140 tỉ đồng lên 160 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T03:56:00+07:00",
+      "fetched": "2026-02-27T11:04:00.997382+07:00"
+    },
+    {
+      "id": "850ad3515d6cfe6ca8bc07b01ad81d15",
+      "title": "Sự thật đằng sau lỗi lạ 'cấm chat' của YouTube",
+      "link": "https://thanhnien.vn/su-that-dang-sau-loi-la-cam-chat-cua-youtube-185260227100059042.htm",
+      "summary": "Sự cố kỳ lạ trên YouTube đặt ra câu hỏi về việc trí tuệ nhân tạo (AI) đang mất kiểm soát?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T03:47:00+07:00",
+      "fetched": "2026-02-27T11:04:00.997536+07:00"
+    },
+    {
+      "id": "556ddb88980a7a759ca44d1824fa4760",
+      "title": "Trạm y tế phường Xuân Hòa hợp tác 6 bệnh viện lớn ở TP.HCM",
+      "link": "https://thanhnien.vn/tram-y-te-phuong-xuan-hoa-hop-tac-6-benh-vien-lon-o-tphcm-185260227095657853.htm",
+      "summary": "Bên cạnh đưa trụ sở mới gần 28 tỉ đồng vào vận hành, Trạm y tế phường Xuân Hòa cũng ra mắt các đội chăm sóc sức khỏe địa bàn, hợp tác với 6 bệnh viện lớn ở TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T03:46:00+07:00",
+      "fetched": "2026-02-27T11:04:00.997690+07:00"
+    },
+    {
+      "id": "77def1690a3e22ac163b865c96b0df4c",
+      "title": "Truyền thông khu vực: Thật ngạc nhiên vì CAS cũng quá khó khăn, chưa thể phán quyết vụ nhập tịch lậu",
+      "link": "https://thanhnien.vn/truyen-thong-khu-vuc-that-ngac-nhien-vi-cas-cung-qua-kho-khan-chua-the-phan-quyet-vu-nhap-tich-lau-185260227103518061.htm",
+      "summary": "Việc Tòa án Trọng tài Thể thao (CAS) bất ngờ hoãn công bố phán quyết liên quan đến 7 cầu thủ nhập tịch của Liên đoàn Bóng đá Malaysia (FAM) không chỉ khiến người hâm mộ Malaysia hồi hộp, mà còn tạo nên làn sóng ngạc nhiên trên khắp truyền thông Đông Nam Á. Nhiều tờ báo thậm chí thẳng thắn nhận định:...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T03:43:00+07:00",
+      "fetched": "2026-02-27T11:04:00.997858+07:00"
+    },
+    {
+      "id": "647ad98e311b1046fcc07ec4b231870d",
+      "title": "Phó thủ tướng dự khai giảng đào tạo nhà quản lý Trung tâm tài chính quốc tế",
+      "link": "https://thanhnien.vn/pho-thu-tuong-du-khai-giang-dao-tao-nha-quan-ly-trung-tam-tai-chinh-quoc-te-185260227095426782.htm",
+      "summary": "Phó thủ tướng Nguyễn Hòa Bình cho rằng xây dựng Trung tâm tài chính quốc tế Việt Nam phải được thực hiện trên nền tảng các yếu tố cốt lõi, trong đó yếu tố con người giữ vai trò quyết định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T03:43:00+07:00",
+      "fetched": "2026-02-27T11:04:00.998015+07:00"
+    },
+    {
+      "id": "9e64b4521ca3001d9eabe2d9319fe32e",
+      "title": "10 nữ cầu thủ đáng xem nhất tại giải châu Á, bất ngờ gọi tên Bích Thùy",
+      "link": "https://thanhnien.vn/10-nu-cau-thu-dang-xem-nhat-tai-giai-chau-a-bat-ngo-goi-ten-bich-thuy-185260227102814067.htm",
+      "summary": "ESPN Asia công bố 10 nữ cầu thủ đáng xem nhất tại giải vô địch bóng đá nữ châu Á (Women's Asian Cup) sắp diễn ra ở Úc từ ngày 1 đến 21.3 tranh vé dự World Cup 2027, với cầu thủ Bích Thùy có tên trong danh sách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T03:34:00+07:00",
+      "fetched": "2026-02-27T11:04:00.998200+07:00"
+    },
+    {
+      "id": "fdd83e58d47ebb7beab893c7af0b9c7b",
+      "title": "Hà Nội có chính sách thu hút nhân tài lĩnh vực y tế",
+      "link": "https://thanhnien.vn/ha-noi-co-chinh-sach-thu-hut-nhan-tai-linh-vuc-y-te-185260226195921302.htm",
+      "summary": "Sở Y tế Hà Nội cho biết, theo Nghị quyết số 92/2026/NQ-HĐND ban hành ngày 27.1.2026 quy định về cơ chế, chính sách thu hút, trọng dụng người có tài năng của TP, có 4 nhóm lĩnh vực trọng điểm ưu tiên thu hút nhân tài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T03:30:00+07:00",
+      "fetched": "2026-02-27T11:04:00.998360+07:00"
+    },
+    {
+      "id": "435d9fcffbacf34a9fc1d8cbd2b499af",
+      "title": "Lịch thi đấu billiards hấp dẫn hôm nay: Trần Quyết Chiến gặp đối thủ đầy duyên nợ",
+      "link": "https://thanhnien.vn/lich-thi-dau-billiards-hom-nay-tran-quyet-chien-gap-doi-thu-day-duyen-no-185260227102538847.htm",
+      "summary": "Tối nay (27.2), Trần Quyết Chiến và Nguyễn Trần Thanh Tự tiếp tục ra sân ở lượt trận thứ hai bảng B giải vô địch billiards carom 3 băng đồng đội thế giới 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T03:29:00+07:00",
+      "fetched": "2026-02-27T11:04:00.998518+07:00"
+    },
+    {
+      "id": "17ca3fa0a3b7b2a27dbab862861a61b2",
+      "title": "Netflix rút khỏi thương vụ với Warner Bros",
+      "link": "https://vnexpress.net/netflix-rut-khoi-thuong-vu-voi-warner-bros-5044588.html",
+      "summary": "Paramount Skydance nhiều khả năng chiến thắng trong cuộc đua kéo dài nhiều tháng nhằm thâu tóm ông lớn Hollywood, sau khi Netflix từ chối nâng giá chào mua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-27T03:27:50+07:00",
+      "fetched": "2026-02-27T11:04:05.989918+07:00"
+    },
+    {
       "id": "ac60baedb8c7628d8ca641d5c2fd997b",
       "title": "Thời tiết hôm nay 27-2: Bắc Bộ giảm mưa, Nam Bộ mưa trái mùa",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-27-2-bac-bo-giam-mua-nam-bo-mua-trai-mua-20260226165731553.htm",
@@ -61,6 +351,256 @@ window.newsData_2026_02_27 = {
       "category": "Tổng hợp",
       "published": "2026-02-27T03:26:22.147228+07:00",
       "fetched": "2026-02-27T03:26:22.147457+07:00"
+    },
+    {
+      "id": "82761bcaf2d53c60a746f0817946be62",
+      "title": "AI ưu tiên dùng vũ khí hạt nhân nếu được điều binh khiển tướng",
+      "link": "https://vnexpress.net/ai-uu-tien-dung-vu-khi-hat-nhan-neu-duoc-dieu-binh-khien-tuong-5044533.html",
+      "summary": "Nghiên cứu mới cho thấy các hệ thống AI sẽ ra lệnh dùng vũ khí nguyên tử trong hầu hết trường hợp được giao quyền chỉ huy lực lượng tham chiến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T03:26:19+07:00",
+      "fetched": "2026-02-27T11:04:04.027789+07:00"
+    },
+    {
+      "id": "7d36d554eef9d45f463b3166a73f4067",
+      "title": "Chữ viết đã xuất hiện từ 40.000 năm trước?",
+      "link": "https://thanhnien.vn/chu-viet-da-xuat-hien-tu-40000-nam-truoc-185260227101637207.htm",
+      "summary": "Giới sử gia lâu nay ghi nhận chữ viết đầu tiên ra đời khoảng 5.000 năm trước, song những phát hiện trong hang động tại Đức mới đây mở ra manh mối về nguồn gốc lâu đời của chữ viết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T03:26:00+07:00",
+      "fetched": "2026-02-27T11:04:00.998671+07:00"
+    },
+    {
+      "id": "e3248c7ce4bf8c6344e4aaf02f4b2977",
+      "title": "Triệu tập nhóm thanh thiếu niên cầm hung khí quay TikTok 'câu like'",
+      "link": "https://thanhnien.vn/trieu-tap-nhom-thanh-thieu-nien-cam-hung-khi-quay-tiktok-cau-like-185260227092149337.htm",
+      "summary": "Công an phường Hương Trà (TP.Huế) vừa xác minh, triệu tập nhóm thanh thiếu niên có hành vi tụ tập, mang theo hung khí, chạy xe máy lạng lách và quay clip đăng tải trên TikTok.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T03:25:00+07:00",
+      "fetched": "2026-02-27T11:04:00.998831+07:00"
+    },
+    {
+      "id": "20c48299d175fb21029bb4c2fca43f29",
+      "title": "Cuộc tình ngoài luồng của Bill Gates với cô gái Nga",
+      "link": "https://vnexpress.net/cuoc-tinh-ngoai-luong-cua-bill-gates-voi-co-gai-nga-5044553.html",
+      "summary": "Tin đồn về mối quan hệ ngoài luồng giữa Bill Gates với vận động viên đánh bài người Nga Mila Antonova đã lan truyền từ lâu trước khi tỷ phú thừa nhận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T03:24:47+07:00",
+      "fetched": "2026-02-27T11:04:04.027974+07:00"
+    },
+    {
+      "id": "c7c8ccd691211c82a960500bdfa13c8a",
+      "title": "Tài xế tử vong trên xe điện Xiaomi cháy do cửa không mở được",
+      "link": "https://vnexpress.net/tai-xe-tu-vong-tren-xe-dien-xiaomi-chay-do-cua-khong-mo-duoc-5044525.html",
+      "summary": "Theo báo cáo từ kết quả điều tra vụ va chạm và cháy xe Xiaomi ở Thành Đô, tài xế không thể mở cửa do hệ thống mất điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T03:01:20+07:00",
+      "fetched": "2026-02-27T11:03:57.666466+07:00"
+    },
+    {
+      "id": "05c7672b610deddaf2acbc7d2e0dc133",
+      "title": "Nước mắm Nam Ngư tích hợp mã QR xác thực chính hãng",
+      "link": "https://vnexpress.net/nuoc-mam-nam-ngu-tich-hop-ma-qr-xac-thuc-chinh-hang-5044574.html",
+      "summary": "Mỗi chai nước mắm Nam Ngư được tích hợp mã QR riêng biệt, hỗ trợ người mua xác thực hàng chính hãng và truy xuất nguồn gốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T03:00:00+07:00",
+      "fetched": "2026-02-27T11:03:57.666730+07:00"
+    },
+    {
+      "id": "522f8042a34dc5e13ea4fbc2b420c259",
+      "title": "Bệnh viện Tâm Anh cấy máy tạo nhịp tim không dây thế hệ mới",
+      "link": "https://vnexpress.net/benh-vien-tam-anh-cay-may-tao-nhip-tim-khong-day-the-he-moi-5044563.html",
+      "summary": "Bệnh viện Tâm Anh được tập đoàn thiết bị y tế Medtronic (Mỹ) trao chứng nhận cấy máy tạo nhịp không dây Micra AV2 đầu tiên tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T03:00:00+07:00",
+      "fetched": "2026-02-27T11:03:57.666980+07:00"
+    },
+    {
+      "id": "ceecb981d74b69dbdf14a7b7424c0fa2",
+      "title": "Lối sống Trung Quốc thu hút giới trẻ Mỹ",
+      "link": "https://vnexpress.net/loi-song-trung-quoc-thu-hut-gioi-tre-my-5044296.html",
+      "summary": "Gen Z Mỹ tập uống nước nóng, đi dép trong nhà, cho thấy sự hấp dẫn ngày càng tăng của văn hóa và thẩm mỹ Trung Hoa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T02:58:17+07:00",
+      "fetched": "2026-02-27T11:03:57.667241+07:00"
+    },
+    {
+      "id": "ceecb981d74b69dbdf14a7b7424c0fa2",
+      "title": "Lối sống Trung Quốc thu hút giới trẻ Mỹ",
+      "link": "https://vnexpress.net/loi-song-trung-quoc-thu-hut-gioi-tre-my-5044296.html",
+      "summary": "Gen Z Mỹ tập uống nước nóng, đi dép trong nhà, cho thấy sự hấp dẫn ngày càng tăng của văn hóa và thẩm mỹ Trung Hoa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T02:58:17+07:00",
+      "fetched": "2026-02-27T11:04:04.028162+07:00"
+    },
+    {
+      "id": "827d680b952d4ae3f9d9189ff02a9b4e",
+      "title": "Chiến đấu cơ Pakistan ném bom thủ đô Afghanistan",
+      "link": "https://vnexpress.net/chien-dau-co-pakistan-nem-bom-thu-do-afghanistan-5044565.html",
+      "summary": "Quân đội Pakistan không kích thủ đô Kabul và một số khu vực khác tại Afghanistan sau khi thông báo phát động \"chiến tranh không hạn chế\" với nước láng giềng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T02:56:58+07:00",
+      "fetched": "2026-02-27T11:03:57.667433+07:00"
+    },
+    {
+      "id": "827d680b952d4ae3f9d9189ff02a9b4e",
+      "title": "Chiến đấu cơ Pakistan ném bom thủ đô Afghanistan",
+      "link": "https://vnexpress.net/chien-dau-co-pakistan-nem-bom-thu-do-afghanistan-5044565.html",
+      "summary": "Quân đội Pakistan không kích thủ đô Kabul và một số khu vực khác tại Afghanistan sau khi thông báo phát động \"chiến tranh không hạn chế\" với nước láng giềng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T02:56:58+07:00",
+      "fetched": "2026-02-27T11:04:04.028343+07:00"
+    },
+    {
+      "id": "2b2c96fcd74ba98aca311c5df1ac6c29",
+      "title": "Diễn viên Chiều Xuân: 'Tình yêu nghệ thuật gắn kết gia đình tôi'",
+      "link": "https://vnexpress.net/dien-vien-chieu-xuan-tinh-yeu-nghe-thuat-gan-ket-gia-dinh-toi-5043386.html",
+      "summary": "Diễn viên Chiều Xuân cho biết chị và nhạc sĩ Đỗ Hồng Quân sống hòa hợp, hiếm khi cãi nhau nhờ có chung tình yêu với nghệ thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T02:56:17+07:00",
+      "fetched": "2026-02-27T11:03:57.667690+07:00"
+    },
+    {
+      "id": "c7f5f3cd91b6eaa8ab601ff4de31b6e8",
+      "title": "Trải nghiệm màn hình chống nhìn trộm trên Galaxy S26 Ultra",
+      "link": "https://vnexpress.net/trai-nghiem-man-hinh-chong-nhin-trom-tren-galaxy-s26-ultra-5044493.html",
+      "summary": "Công nghệ Privacy Display trên Galaxy S26 Ultra hoạt động tối ưu hơn tấm dán chuyên dụng khi có thể tùy chỉnh theo ứng dụng, không gây hao pin hay làm giảm độ sáng màn hình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T02:50:54+07:00",
+      "fetched": "2026-02-27T11:03:57.667922+07:00"
+    },
+    {
+      "id": "c7f5f3cd91b6eaa8ab601ff4de31b6e8",
+      "title": "Trải nghiệm màn hình chống nhìn trộm trên Galaxy S26 Ultra",
+      "link": "https://vnexpress.net/trai-nghiem-man-hinh-chong-nhin-trom-tren-galaxy-s26-ultra-5044493.html",
+      "summary": "Công nghệ Privacy Display trên Galaxy S26 Ultra hoạt động tối ưu hơn tấm dán chuyên dụng khi có thể tùy chỉnh theo ứng dụng, không gây hao pin hay làm giảm độ sáng màn hình.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-27T02:50:54+07:00",
+      "fetched": "2026-02-27T11:04:08.337264+07:00"
+    },
+    {
+      "id": "89376aaac77c14c63e0652cea3204e4b",
+      "title": "Đặc vụ ICE xông vào Đại học Columbia bắt sinh viên nhập cư",
+      "link": "https://vnexpress.net/dac-vu-ice-xong-vao-dai-hoc-columbia-bat-sinh-vien-nhap-cu-5044540.html",
+      "summary": "Ellie Aghayeva, sinh viên từ Azerbaijan, bị đặc vụ ICE bắt trong phòng ở ký túc xá Đại học Columbia và chỉ được thả khi Tổng thống Trump can thiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T02:44:06+07:00",
+      "fetched": "2026-02-27T11:03:57.668114+07:00"
+    },
+    {
+      "id": "89376aaac77c14c63e0652cea3204e4b",
+      "title": "Đặc vụ ICE xông vào Đại học Columbia bắt sinh viên nhập cư",
+      "link": "https://vnexpress.net/dac-vu-ice-xong-vao-dai-hoc-columbia-bat-sinh-vien-nhap-cu-5044540.html",
+      "summary": "Ellie Aghayeva, sinh viên từ Azerbaijan, bị đặc vụ ICE bắt trong phòng ở ký túc xá Đại học Columbia và chỉ được thả khi Tổng thống Trump can thiệp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T02:44:06+07:00",
+      "fetched": "2026-02-27T11:04:04.028512+07:00"
+    },
+    {
+      "id": "190fce0e953ff0887437804eb35e61ba",
+      "title": "Nga xem xét cung cấp dầu cho Cuba",
+      "link": "https://vnexpress.net/nga-xem-xet-cung-cap-dau-cho-cuba-5044546.html",
+      "summary": "Nga đang cân nhắc về khả năng cung cấp nhiên liệu cho Cuba, khi quốc đảo đối mặt khủng hoảng năng lượng vì các biện pháp kiềm tỏa dầu mỏ của Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T02:43:47+07:00",
+      "fetched": "2026-02-27T11:03:57.668356+07:00"
+    },
+    {
+      "id": "190fce0e953ff0887437804eb35e61ba",
+      "title": "Nga xem xét cung cấp dầu cho Cuba",
+      "link": "https://vnexpress.net/nga-xem-xet-cung-cap-dau-cho-cuba-5044546.html",
+      "summary": "Nga đang cân nhắc về khả năng cung cấp nhiên liệu cho Cuba, khi quốc đảo đối mặt khủng hoảng năng lượng vì các biện pháp kiềm tỏa dầu mỏ của Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T02:43:47+07:00",
+      "fetched": "2026-02-27T11:04:04.028677+07:00"
+    },
+    {
+      "id": "7f7246ae31ad193ba1dfacccbd7cfc05",
+      "title": "Cây gì có quả nhưng không hoa, không lá, không cành?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-cay-gi-cay-gi-co-qua-nhung-khong-hoa-khong-la-khong-canh-5043582.html",
+      "summary": "Một “cái cây” có quả hẳn hoi nhưng lại chẳng hề có hoa, không lá, cũng chẳng có cành... bạn có đoán ra đó là gì không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T02:40:38+07:00",
+      "fetched": "2026-02-27T11:03:57.668531+07:00"
+    },
+    {
+      "id": "9f6ad330c073a401d7238c77b24f428f",
+      "title": "Khu lưu niệm Thủ tướng Phạm Văn Đồng",
+      "link": "https://vnexpress.net/khu-luu-niem-thu-tuong-pham-van-dong-5044377.html",
+      "summary": "Hơn 1.500 hiện vật tái hiện cuộc đời, sự nghiệp cố Thủ tướng Phạm Văn Đồng, thu hút người dân tham quan dịp 120 năm ngày sinh của ông (1/3/1906 - 1/3/2026).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T02:35:14+07:00",
+      "fetched": "2026-02-27T11:03:57.668698+07:00"
+    },
+    {
+      "id": "019e33f6cfc530e922302ec312415590",
+      "title": "Số trẻ sơ sinh Nhật Bản giảm năm thứ 10 liên tiếp",
+      "link": "https://vnexpress.net/so-tre-so-sinh-nhat-ban-giam-nam-thu-10-lien-tiep-5044434.html",
+      "summary": "Số ca sinh tại Nhật Bản sụt giảm năm thứ 10 liên tiếp xuống mức thấp kỷ lục, tạo áp lực lớn buộc chính quyền Thủ tướng Sanae Takaichi phải nhanh chóng tung ra các gói hỗ trợ nhằm cứu vãn đà suy thoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T02:34:52+07:00",
+      "fetched": "2026-02-27T11:03:57.668899+07:00"
+    },
+    {
+      "id": "d9183b42af0273646ea816cb2ec43e9b",
+      "title": "Cô dâu Ấn Độ bị 'tình đơn phương' bắn trong đám cưới",
+      "link": "https://vnexpress.net/co-dau-an-do-bi-tinh-don-phuong-ban-trong-dam-cuoi-5044566.html",
+      "summary": "Khi đang thực hiện nghi thức truyền thống trong hôn lễ, cô dâu 18 tuổi bị một kẻ trong số khách mời tụ tập trước sân khấu xông lên bắn vào bụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T02:30:22+07:00",
+      "fetched": "2026-02-27T11:03:57.669116+07:00"
+    },
+    {
+      "id": "b150c138143e2327bfa43d36c2a323eb",
+      "title": "Vì sao chiến thắng có thể gây áp lực cho runner?",
+      "link": "https://vnexpress.net/vi-sao-chien-thang-tao-ap-luc-cho-runner-sau-khi-ve-dich-5043350.html",
+      "summary": "Niềm vui thành tích trên đường chạy tạo hứng khởi, nhưng cũng có thể khiến runner chịu áp lực phải bảo vệ hoặc nâng cao cột mốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T02:30:00+07:00",
+      "fetched": "2026-02-27T11:03:57.669357+07:00"
+    },
+    {
+      "id": "5fc6ed72e8f7b3c434ec559ad4c5842f",
+      "title": "Mourinho đã hết thời đỉnh cao?",
+      "link": "https://vnexpress.net/mourinho-da-het-thoi-dinh-cao-5044530.html",
+      "summary": "Với chuỗi 10 trận không thắng và 12 năm không vượt qua vòng knock-out Champions League, thành tích các đội do Jose Mourinho dẫn dắt cho thấy HLV người Bồ Đào Nha đã qua thời đỉnh cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T02:21:56+07:00",
+      "fetched": "2026-02-27T11:03:57.669515+07:00"
+    },
+    {
+      "id": "5fc6ed72e8f7b3c434ec559ad4c5842f",
+      "title": "Mourinho đã hết thời đỉnh cao?",
+      "link": "https://vnexpress.net/mourinho-da-het-thoi-dinh-cao-5044530.html",
+      "summary": "Với chuỗi 10 trận không thắng và 12 năm không vượt qua vòng knock-out Champions League, thành tích các đội do Jose Mourinho dẫn dắt cho thấy HLV người Bồ Đào Nha đã qua thời đỉnh cao.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-27T02:21:56+07:00",
+      "fetched": "2026-02-27T11:04:09.680071+07:00"
     },
     {
       "id": "9ed0702aff3af4d8de1c7b74082e4f59",
@@ -213,6 +753,26 @@ window.newsData_2026_02_27 = {
       "fetched": "2026-02-27T01:39:04.956084+07:00"
     },
     {
+      "id": "c328f763387d5a1ea5cf79cad334bca5",
+      "title": "Thông gia của ông Trump thành tâm điểm căng thẳng Mỹ - Pháp",
+      "link": "https://vnexpress.net/thong-gia-cua-ong-trump-thanh-tam-diem-cang-thang-my-phap-5043774.html",
+      "summary": "Việc đại sứ Mỹ Kushner phớt lờ yêu cầu trình diện từ Pháp đã đẩy căng thẳng Paris - Washington lên cao, làm dấy lên tranh cãi về sự nghiệp chính trị của ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T01:14:06+07:00",
+      "fetched": "2026-02-27T11:04:04.028835+07:00"
+    },
+    {
+      "id": "d049c7b2bba0c64187e4e38631d74dd6",
+      "title": "Pakistan tuyên bố 'chiến tranh không hạn chế' với Afghanistan",
+      "link": "https://vnexpress.net/pakistan-tuyen-bo-chien-tranh-khong-han-che-voi-afghanistan-5044512.html",
+      "summary": "Bộ trưởng Quốc phòng Pakistan tuyên bố nước này bước vào \"chiến tranh không hạn chế\" với Afghanistan, sau khi Taliban mở đợt tấn công trả đũa dọc biên giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T01:09:42+07:00",
+      "fetched": "2026-02-27T11:04:04.028992+07:00"
+    },
+    {
       "id": "f31dfdd88f143f58e74c23d9eb1ef991",
       "title": "Ra điều trần về vụ Epstein, bà Clinton nói ông Trump cũng phải điều trần",
       "link": "https://thanhnien.vn/ra-dieu-tran-ve-vu-epstein-ba-clinton-noi-ong-trump-cung-phai-dieu-tran-185260227075306564.htm",
@@ -231,6 +791,16 @@ window.newsData_2026_02_27 = {
       "category": "Tổng hợp",
       "published": "2026-02-27T01:08:00+07:00",
       "fetched": "2026-02-27T08:10:54.770718+07:00"
+    },
+    {
+      "id": "af7822eb64c2a195217b50bba14b13e3",
+      "title": "CAS hoãn công bố phán quyết vụ 7 cầu thủ nhập tịch của Malaysia",
+      "link": "https://vnexpress.net/cas-hoan-cong-bo-phan-quyet-vu-7-cau-thu-nhap-tich-cua-malaysia-5044529.html",
+      "summary": "Tòa Trọng tài Thể thao (CAS) cần thời gian để xem xét toàn bộ hồ sơ và lập luận nên chưa đưa ra phán quyết về vụ 7 cầu thủ nhập tịch của Malaysia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-27T01:04:29+07:00",
+      "fetched": "2026-02-27T11:04:09.680259+07:00"
     },
     {
       "id": "aac35f5f37febc6d197ae76d1eb7dc3f",
@@ -291,6 +861,16 @@ window.newsData_2026_02_27 = {
       "category": "Tổng hợp",
       "published": "2026-02-27T00:45:00+07:00",
       "fetched": "2026-02-27T08:10:54.771644+07:00"
+    },
+    {
+      "id": "1f8e35910d8cfa3482c72a0effac3057",
+      "title": "Bà Hillary công kích ông Trump khi điều trần về tỷ phú ấu dâm Epstein",
+      "link": "https://vnexpress.net/ba-hillary-cong-kich-ong-trump-khi-dieu-tran-ve-ty-phu-au-dam-epstein-5044505.html",
+      "summary": "Bà Hillary Clinton phủ nhận mọi liên quan đến Jeffrey Epstein, đồng thời yêu cầu Tổng thống Trump ra điều trần về liên hệ với tỷ phú ấu dâm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T00:43:47+07:00",
+      "fetched": "2026-02-27T11:04:04.029169+07:00"
     },
     {
       "id": "78192db3b25978ecf1b0d72c3b5497ed",
@@ -593,6 +1173,16 @@ window.newsData_2026_02_27 = {
       "fetched": "2026-02-27T08:11:02.368788+07:00"
     },
     {
+      "id": "4922f33dda798a44e74e5bb2136cc856",
+      "title": "Runner nữ bị giẫm đạp vì sự cố xuất phát nhầm",
+      "link": "https://vnexpress.net/runner-nu-bi-giam-dap-vi-su-co-xuat-phat-nham-5044496.html",
+      "summary": "Pháo hoa phát nổ nhầm thời điểm, ngay trước hiệu lệnh xuất phát, khiến nhóm VĐV phía sau lao lên, xô ngã nhiều chân chạy nữ elite tại giải 10K Facsa Castellon.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T22:52:58+07:00",
+      "fetched": "2026-02-27T11:04:09.681243+07:00"
+    },
+    {
       "id": "5a0054be3dfa0225f8f88fc3452effe8",
       "title": "Vì sao Ronaldo mừng bàn kiểu úp rổ?",
       "link": "https://vnexpress.net/vi-sao-ronaldo-mung-ban-kieu-up-ro-5044487.html",
@@ -771,6 +1361,16 @@ window.newsData_2026_02_27 = {
       "category": "Kinh doanh",
       "published": "2026-02-26T20:06:09+07:00",
       "fetched": "2026-02-27T03:26:25.862109+07:00"
+    },
+    {
+      "id": "37f72bde04ba674f00494780d10cd765",
+      "title": "Nhiều 'đại gia' nông nghiệp lãi kỷ lục",
+      "link": "https://vnexpress.net/nhieu-dai-gia-nong-nghiep-lai-ky-luc-5040387.html",
+      "summary": "Năm 2025 đánh dấu bước chuyển mạnh của doanh nghiệp nông nghiệp khi Dabaco lãi hơn 1.500 tỷ đồng, còn HAG ghi nhận 2.243 tỷ - mức cao nhất kể từ khi hoạt động.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-26T20:06:09+07:00",
+      "fetched": "2026-02-27T11:04:05.990136+07:00"
     },
     {
       "id": "2e193255885f2d68da503b58534616b7",
