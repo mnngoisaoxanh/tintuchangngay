@@ -1,7 +1,157 @@
 window.newsData_2026_02_27 = {
   "date": "2026-02-27",
-  "lastUpdated": "2026-02-27T19:36:08.274198+07:00",
+  "lastUpdated": "2026-02-27T21:33:29.482821+07:00",
   "articles": [
+    {
+      "id": "660057b282be8dbb0b49cc034d21c237",
+      "title": "Quy hoạch không gian đô thị sông Hồng sẽ được công khai để người dân giám sát",
+      "link": "https://tuoitre.vn/quy-hoach-khong-gian-do-thi-song-hong-se-duoc-cong-khai-de-nguoi-dan-giam-sat-20260227185837449.htm",
+      "summary": "Với không gian đô thị sông Hồng, Bí thư Thành ủy Hà Nội cho biết thành phố xác định phải bảo đảm an toàn, môi trường xanh, mật độ dân cư hợp lý và phát triển bền vững. Quy hoạch sẽ được công khai để người dân giám sát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.718953+07:00",
+      "fetched": "2026-02-27T21:33:21.719065+07:00"
+    },
+    {
+      "id": "ff818ff72f28b0b96ef034cc510fa3a5",
+      "title": "Show tâm linh Battle of Fates gây tranh cãi vì xúc phạm người đã khuất",
+      "link": "https://tuoitre.vn/show-tam-linh-battle-of-fates-gay-tranh-cai-vi-xuc-pham-nguoi-da-khuat-20260227183752005.htm",
+      "summary": "Chương trình của Disney+ Battle of Fates bị chỉ trích vì cách thể hiện bị cho là thiếu phù hợp, khi đề cập đến các cảnh sát và lính cứu hỏa đã hy sinh trong lúc làm nhiệm vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.718833+07:00",
+      "fetched": "2026-02-27T21:33:21.718941+07:00"
+    },
+    {
+      "id": "6150355d20797eed1b72a7a123e7441c",
+      "title": "TP.HCM dự kiến khởi công trung tâm chính trị - hành chính mới trong quý 2-2026",
+      "link": "https://tuoitre.vn/tp-hcm-du-kien-khoi-cong-trung-tam-chinh-tri-hanh-chinh-moi-trong-quy-2-2026-20260227190646135.htm",
+      "summary": "Chiều 27-2, tại hội nghị do UBND TP.HCM tổ chức tổng kết việc chăm lo Tết Bính Ngọ 2026 và đánh giá kinh tế - xã hội tháng 2, Giám đốc Sở Xây dựng TP.HCM Trần Quang Lâm đã thông tin kế hoạch khởi công trung tâm hành chính mới trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.718711+07:00",
+      "fetched": "2026-02-27T21:33:21.718821+07:00"
+    },
+    {
+      "id": "573367bd6010157a500873e488dd4a2d",
+      "title": "'Nét Đẹp Mùa Vàng Thắng Lớn': livestream đặc biệt tôn vinh chị em nhà nông",
+      "link": "https://tuoitre.vn/net-dep-mua-vang-thang-lon-livestream-dac-biet-ton-vinh-chi-em-nha-nong-20260227154945027.htm",
+      "summary": "Tôn vinh chị em nhà nông, Mùa Vàng Thắng Lớn 2025 sẽ mang đến livestream đặc biệt ngày 1-3-2026 với những thử thách thú vị và quay số tìm ra những chủ nhân trúng lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.718590+07:00",
+      "fetched": "2026-02-27T21:33:21.718700+07:00"
+    },
+    {
+      "id": "7c32ed6c797b6199e2179c52a126b745",
+      "title": "Giá vàng trong nước cao hơn thế giới đến 20 triệu đồng/lượng",
+      "link": "https://tuoitre.vn/gia-vang-trong-nuoc-cao-hon-the-gioi-den-20-trieu-dong-luong-20260227192120361.htm",
+      "summary": "Đã qua ngày Thần Tài nhưng giá vàng trong nước cao hơn thế giới đến 20 triệu đồng/lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.718462+07:00",
+      "fetched": "2026-02-27T21:33:21.718579+07:00"
+    },
+    {
+      "id": "628751a5df18dc49818002741caf2bea",
+      "title": "Tuyển nữ Việt Nam lên đường sang Úc tranh vé World Cup",
+      "link": "https://tuoitre.vn/tuyen-nu-viet-nam-len-duong-sang-uc-tranh-ve-world-cup-20260227192159533.htm",
+      "summary": "Tối 27-2, tuyển nữ Việt Nam chính thức lên đường sang Úc dự vòng chung kết Asian Cup nữ 2026, giải đấu là vòng loại cho kỳ World Cup nữ 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.718337+07:00",
+      "fetched": "2026-02-27T21:33:21.718451+07:00"
+    },
+    {
+      "id": "1a159a7e7b78d2d79f9a71b76cd6ee74",
+      "title": "Thi đấu với 10 người, Đại Học Văn Hiến vẫn đánh bại CLB Long An",
+      "link": "https://tuoitre.vn/thi-dau-voi-10-nguoi-dai-hoc-van-hien-van-danh-bai-clb-long-an-20260227184149297.htm",
+      "summary": "Dù thi đấu với chỉ 10 người phút 38, song CLB Đại Học Văn Hiến vẫn đủ sức đánh bại Long An, mang về 3 điểm trọn vẹn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.718192+07:00",
+      "fetched": "2026-02-27T21:33:21.718324+07:00"
+    },
+    {
+      "id": "3ffd9ca2d69b2a5812e18089612df3ee",
+      "title": "Tổng thống Hàn Quốc Lee Jae Myung rao bán nhà riêng với giá 2 triệu USD",
+      "link": "https://tuoitre.vn/tong-thong-han-quoc-lee-jae-myung-rao-ban-nha-rieng-voi-gia-2-trieu-usd-20260227193651293.htm",
+      "summary": "Ông Lee quyết định rao bán nhà riêng thấp hơn giá thị trường, nhằm thể hiện nỗ lực ổn định thị trường bất động sản đang biến động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.718073+07:00",
+      "fetched": "2026-02-27T21:33:21.718181+07:00"
+    },
+    {
+      "id": "938783669a7c27e8ba50650fd52e1473",
+      "title": "Tin tức giá xe: Mazda CX-90 chốt giá 2,479 tỉ đồng tại Việt Nam, SUV cận sang đấu VW Teramont",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-mazda-cx-90-chot-gia-2-479-ti-dong-tai-viet-nam-suv-can-sang-dau-vw-teramont-20260227162518768.htm",
+      "summary": "Sau thời gian ra mắt và thăm dò thị trường, Mazda CX-90 đã được chốt giá chính thức 2,479 tỉ đồng tại Việt Nam. Với mức giá này, đây trở thành mẫu SUV có giá cao nhất của Mazda đang được phân phối chính hãng trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.717952+07:00",
+      "fetched": "2026-02-27T21:33:21.718062+07:00"
+    },
+    {
+      "id": "9e10727f853d20109fc42f553fcf11f2",
+      "title": "Trung Quốc: Mua đồng thỏi để đầu tư như vàng bạc, nhiều nhà đầu tư nhận trái đắng",
+      "link": "https://tuoitre.vn/trung-quoc-mua-dong-thoi-de-dau-tu-nhu-vang-bac-nhieu-nha-dau-tu-nhan-trai-dang-20260227193820197.htm",
+      "summary": "Nhân cơn sốt đầu tư vào vàng và bạc, đồng tại Trung Quốc cũng đang được làm dưới dạng thỏi và bán giá cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.717830+07:00",
+      "fetched": "2026-02-27T21:33:21.717941+07:00"
+    },
+    {
+      "id": "29fdb19233d1ce924a5893764bd061e3",
+      "title": "Cấp dưới nhận hơn 100 tỉ, chi cho bà Nguyễn Thị Kim Tiến 7,5 tỉ đồng",
+      "link": "https://tuoitre.vn/cap-duoi-nhan-hon-100-ti-chi-cho-ba-nguyen-thi-kim-tien-7-5-ti-dong-2026022719360443.htm",
+      "summary": "Hai lãnh đạo Ban Quản lý dự án y tế trọng điểm (Bộ Y tế) bị cáo buộc nhận hơn 100 tỉ từ các nhà thầu. Cựu Bộ trưởng Nguyễn Thị Kim Tiến khai được cấp dưới đưa 7,5 tỉ nhưng bà không biết nguồn gốc số tiền này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.717701+07:00",
+      "fetched": "2026-02-27T21:33:21.717818+07:00"
+    },
+    {
+      "id": "25c6c8a78877210852f94d834007d5a4",
+      "title": "Toàn bộ taxi chạy xăng, dầu ở Hà Nội phải chuyển sang sử dụng điện, năng lượng xanh vào 2030",
+      "link": "https://tuoitre.vn/toan-bo-taxi-chay-xang-dau-o-ha-noi-phai-chuyen-sang-su-dung-dien-nang-luong-xanh-vao-2030-20260227193412203.htm",
+      "summary": "Thành phố sẽ xây dựng cơ chế hỗ trợ vay vốn, hỗ trợ lãi suất, ưu đãi lệ phí đăng ký; phát triển đồng bộ hạ tầng trạm sạc tại khu vực trung tâm, vành đai, sân bay, nhà ga, bến xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.717566+07:00",
+      "fetched": "2026-02-27T21:33:21.717689+07:00"
+    },
+    {
+      "id": "6520b7a2bb99a9ecdadacc62f33c9719",
+      "title": "Đang đi siêu thị, nữ điều dưỡng Bệnh viện Bạch Mai kịp thời cứu sống bác bảo vệ bị ngừng tuần hoàn",
+      "link": "https://tuoitre.vn/dang-di-sieu-thi-nu-dieu-duong-benh-vien-bach-mai-kip-thoi-cuu-song-bac-bao-ve-bi-ngung-tuan-hoan-20260227195155361.htm",
+      "summary": "Ngày 27-2, Bệnh viện Bạch Mai chia sẻ câu chuyện nữ điều dưỡng Trung tâm Chống độc của bệnh viện kịp thời cứu sống bảo vệ tại một siêu thị ở Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.717433+07:00",
+      "fetched": "2026-02-27T21:33:21.717554+07:00"
+    },
+    {
+      "id": "f6e6fa754ab7d327084296aa02e67b50",
+      "title": "Ông Trần Hồng Thái điều hành Viện hàn lâm Khoa học và công nghệ Việt Nam",
+      "link": "https://tuoitre.vn/ong-tran-hong-thai-dieu-hanh-vien-han-lam-khoa-hoc-va-cong-nghe-viet-nam-20260227194441618.htm",
+      "summary": "Thủ tướng Phạm Minh Chính vừa ký các quyết định về nhân sự lãnh đạo Viện hàn lâm Khoa học và công nghệ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.717286+07:00",
+      "fetched": "2026-02-27T21:33:21.717421+07:00"
+    },
+    {
+      "id": "9f02b083e493e8f70972202e1f1704f3",
+      "title": "Đô vật Zakhar Dzmitrychenk 94kg khuấy động hội vật làng Triều Khúc",
+      "link": "https://tuoitre.vn/do-vat-zakhar-dzmitrychenk-94kg-khuay-dong-hoi-vat-lang-trieu-khuc-2026022719050188.htm",
+      "summary": "Sự xuất hiện của đô vật Zakhar Dzmitrychenk (Belarus) với thể hình vượt trội đã khiến sới vật tại Lễ hội làng Triều Khúc (Hà Nội) nóng lên, thu hút đông đảo người dân theo dõi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T21:33:21.717042+07:00",
+      "fetched": "2026-02-27T21:33:21.717270+07:00"
+    },
     {
       "id": "8b38ab4ed53d036341a7fe0872c0923a",
       "title": "TP.HCM tổng kết chăm lo Tết với 4 từ khóa: 'Sum vầy, vui tươi, an toàn và nhân văn'",
@@ -453,6 +603,126 @@ window.newsData_2026_02_27 = {
       "fetched": "2026-02-27T15:30:54.166184+07:00"
     },
     {
+      "id": "e384a3018ed9806ec379c6d38e6e3490",
+      "title": "Đề xuất chi 38.500 tỷ đồng hồi sinh hệ thống Bắc Hưng Hải",
+      "link": "https://vnexpress.net/de-xuat-chi-38-500-ty-dong-hoi-sinh-he-thong-bac-hung-hai-5044869.html",
+      "summary": "Bắc Hưng Hải, từng là hệ thống thủy nông lớn nhất miền bắc, được đề xuất đầu tư kiểm soát chất lượng nước, giảm ô nhiễm, xây dựng hệ thống đô thị sinh thái dọc kênh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T14:26:22+07:00",
+      "fetched": "2026-02-27T21:33:17.112570+07:00"
+    },
+    {
+      "id": "30072cd011aa539fc272235dcb78c2bd",
+      "title": "Nóng: Lại Lý Huynh xuất sắc đoạt vé vào bán kết giải cờ tướng danh giá Ngũ Dương Bôi",
+      "link": "https://thanhnien.vn/nong-lai-ly-huynh-xuat-sac-doat-ve-vao-ban-ket-giai-co-tuong-danh-gia-ngu-duong-boi-185260227194608624.htm",
+      "summary": "Kỳ thủ số 1 Việt Nam, nhà đương kim vô địch cờ tướng thế giới Lại Lý Huynh xuất sắc giành ngôi nhất bảng B cùng tấm vé vào vòng bán kết giải cờ tướng Ngũ Dương Bôi 2026 tại Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T14:23:00+07:00",
+      "fetched": "2026-02-27T21:33:20.823630+07:00"
+    },
+    {
+      "id": "00f93cf549a3b75797f899c7841e5c08",
+      "title": "MC 'Bữa trưa vui vẻ' và cầu thủ Đức Huy tổ chức lễ ăn hỏi",
+      "link": "https://thanhnien.vn/mc-bua-trua-vui-ve-va-cau-thu-duc-huy-to-chuc-le-an-hoi-185260227201748696.htm",
+      "summary": "Sáng 27.2 cầu thủ Phạm Đức Huy và nữ MC Huyền Trang (Mù Tạt) đã tổ chức ăn hỏi tại Hà Nội. Sự kiện thu hút sự quan tâm của đông đảo người hâm mộ bóng đá và khán giả truyền hình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T14:19:00+07:00",
+      "fetched": "2026-02-27T21:33:20.823797+07:00"
+    },
+    {
+      "id": "0dda806cbf65d85224712ef1c8b305db",
+      "title": "Hơn 300 người thiệt mạng trong xung đột Afghanistan - Pakistan",
+      "link": "https://vnexpress.net/hon-300-nguoi-thiet-mang-trong-xung-dot-afghanistan-pakistan-5044873.html",
+      "summary": "Pakistan tuyên bố hạ hơn 270 tay súng Taliban ở Afghanistan, trong khi Kabul cho biết 55 binh sĩ của Islamabad đã thiệt mạng khi hai bên xung đột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T14:17:59+07:00",
+      "fetched": "2026-02-27T21:33:17.112748+07:00"
+    },
+    {
+      "id": "0dda806cbf65d85224712ef1c8b305db",
+      "title": "Hơn 300 người thiệt mạng trong xung đột Afghanistan - Pakistan",
+      "link": "https://vnexpress.net/hon-300-nguoi-thiet-mang-trong-xung-dot-afghanistan-pakistan-5044873.html",
+      "summary": "Pakistan tuyên bố hạ hơn 270 tay súng Taliban ở Afghanistan, trong khi Kabul cho biết 55 binh sĩ của Islamabad đã thiệt mạng khi hai bên xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T14:17:59+07:00",
+      "fetched": "2026-02-27T21:33:23.155336+07:00"
+    },
+    {
+      "id": "6271c646c5e1595edc72046ad51fe445",
+      "title": "Chậm nhất đến 2030, Hà Nội sẽ chuyển đổi toàn bộ taxi xăng dầu sang điện",
+      "link": "https://thanhnien.vn/cham-nhat-den-2030-ha-noi-se-chuyen-doi-toan-bo-taxi-xang-dau-sang-dien-185260227205901544.htm",
+      "summary": "Hà Nội đặt mục tiêu sẽ đổi toàn bộ taxi chạy xăng dầu sang taxi điện, năng lượng xanh vào năm 2030. Thành phố sẽ có cơ chế, chính sách khuyến khích, hỗ trợ doanh nghiệp taxi chủ động chuyển đổi phương tiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T14:15:00+07:00",
+      "fetched": "2026-02-27T21:33:20.823952+07:00"
+    },
+    {
+      "id": "0b01f718e183cc2373d19cd039abc6e0",
+      "title": "Hà Nội sẽ khám sức khỏe định kỳ miễn phí cho người dân",
+      "link": "https://thanhnien.vn/ha-noi-se-kham-suc-khoe-dinh-ky-mien-phi-cho-nguoi-dan-185260227204008275.htm",
+      "summary": "Nhằm tăng cường bảo vệ, chăm sóc và nâng cao sức khỏe nhân dân, UBND TP.Hà Nội giao Sở Y tế xây dựng kế hoạch khám sức khỏe định kỳ, hoặc khám sàng lọc miễn phí mỗi năm 1 lần cho người dân, thực hiện từ quý 2/2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T14:12:00+07:00",
+      "fetched": "2026-02-27T21:33:20.824112+07:00"
+    },
+    {
+      "id": "14b8c4dd75f848e391240bc37732baf0",
+      "title": "Người phụ nữ nước ngoài mang 4,5 kg cocaine khi quá cảnh ở Tân Sơn Nhất",
+      "link": "https://vnexpress.net/nguoi-phu-nu-nuoc-ngoai-mang-4-5-kg-cocaine-khi-qua-canh-o-tan-son-nhat-5044881.html",
+      "summary": "Hải quan phát hiện người phụ nữ quốc tịch Thái Lan vận chuyển 4,5 kg cocaine giấu trong valy khi đang làm thủ tục quá cảnh tại sân bay Tân Sơn Nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T14:10:02+07:00",
+      "fetched": "2026-02-27T21:33:17.112916+07:00"
+    },
+    {
+      "id": "eb05a47654be6ccfebc14541558f23a8",
+      "title": "Sợ hãi khi bị chồng cũ đánh đập, đòi xâm hại",
+      "link": "https://vnexpress.net/vien-co-tham-con-chong-cu-khoa-cua-dinh-gio-tro-doi-bai-roi-danh-dap-toi-da-man-vi-bi-cu-tuyet-5044038.html",
+      "summary": "Tôi thực sự rất sợ, giờ sống trong tâm trạng bất an khi nhà chỉ có hai mẹ con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T14:00:00+07:00",
+      "fetched": "2026-02-27T21:33:17.113075+07:00"
+    },
+    {
+      "id": "89c451dbe35e9a0a2430a567c41d67b5",
+      "title": "Gu mặc của Ngô Thanh Vân khi làm mẹ",
+      "link": "https://vnexpress.net/gu-mac-cua-ngo-thanh-van-khi-lam-me-5043940.html",
+      "summary": "Diễn viên Ngô Thanh Vân thường mặc cả bộ đồng điệu, ưu tiên thiết kế suông rộng để thuận tiện chăm con gái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T14:00:00+07:00",
+      "fetched": "2026-02-27T21:33:17.113231+07:00"
+    },
+    {
+      "id": "d9753db4edd733043096f7e0653417f5",
+      "title": "Cháy tàu du lịch ở vịnh Hạ Long",
+      "link": "https://vnexpress.net/chay-tau-du-lich-o-vinh-ha-long-5044878.html",
+      "summary": "Tàu du lịch chở 41 người bất ngờ bốc cháy khi đang hành trình trên vịnh Hạ Long chiều 27/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:45:00+07:00",
+      "fetched": "2026-02-27T21:33:17.113639+07:00"
+    },
+    {
+      "id": "18a4c8b5e9a9b1333b371f70d18e5dbe",
+      "title": "Tập đoàn Cao su Việt Nam tiếp tục phát huy doanh nghiệp nhà nước chủ lực",
+      "link": "https://thanhnien.vn/tap-doan-cao-su-viet-nam-tiep-tuc-phat-huy-doanh-nghiep-nha-nuoc-chu-luc-185260227182310809.htm",
+      "summary": "Làm việc với Tập đoàn Công nghiệp Cao su Việt Nam, Phó thủ tướng thường trực Nguyễn Hòa Bình ghi nhận kết quả tăng trưởng ấn tượng năm 2025, đồng thời yêu cầu tập đoàn xây dựng chiến lược dài hạn, nâng cao năng lực cạnh tranh và phát triển bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:41:00+07:00",
+      "fetched": "2026-02-27T21:33:20.824284+07:00"
+    },
+    {
       "id": "e57b1c47175959dc2740755cc0616874",
       "title": "Bắt nam thanh niên khống chế, cướp tiền, vàng người phụ nữ đi xe máy",
       "link": "https://tuoitre.vn/bat-nam-thanh-nien-khong-che-cuop-tien-vang-nguoi-phu-nu-di-xe-may-20260227111709304.htm",
@@ -601,6 +871,246 @@ window.newsData_2026_02_27 = {
       "category": "Tổng hợp",
       "published": "2026-02-27T13:40:22.317956+07:00",
       "fetched": "2026-02-27T13:40:22.318164+07:00"
+    },
+    {
+      "id": "fd55b09aa8f5ff22d3d47d352570b6f7",
+      "title": "Bí thư Hà Nội: Phát triển đô thị sông Hồng xanh và bền vững",
+      "link": "https://vnexpress.net/bi-thu-ha-noi-phat-trien-do-thi-song-hong-xanh-va-ben-vung-5044854.html",
+      "summary": "Ông Nguyễn Duy Ngọc cho hay thành phố xác định đô thị sông Hồng phải bảo đảm an toàn, môi trường xanh, mật độ dân cư hợp lý và phát triển bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:40:12+07:00",
+      "fetched": "2026-02-27T21:33:17.113905+07:00"
+    },
+    {
+      "id": "5006268c23da4de01d7d3f13ee39518c",
+      "title": "Nước Đông Nam Á nào có tỷ lệ béo phì cao nhất?",
+      "link": "https://vnexpress.net/nuoc-dong-nam-a-nao-co-ty-le-beo-phi-cao-nhat-5044839.html",
+      "summary": "Hơn 32% dân số nước này mắc béo phì, cao nhất ở Đông Nam Á. Bạn có biết đó là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:29:40+07:00",
+      "fetched": "2026-02-27T21:33:17.114154+07:00"
+    },
+    {
+      "id": "6a782976236c68a74ac50a46bd966159",
+      "title": "Video người phụ nữ huých ngã bé gái ở Nhật gây bất bình",
+      "link": "https://vnexpress.net/video-nguoi-phu-nu-huych-nga-be-gai-o-nhat-gay-bat-binh-5044814.html",
+      "summary": "Video bé gái Đài Loan bị một phụ nữ huých ngã ở giao lộ Shibuya thu hút chú ý trên mạng xã hội, mở ra cuộc tranh luận về nhóm người cố tình va chạm với người đi đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:28:17+07:00",
+      "fetched": "2026-02-27T21:33:17.114412+07:00"
+    },
+    {
+      "id": "6a782976236c68a74ac50a46bd966159",
+      "title": "Video người phụ nữ huých ngã bé gái ở Nhật gây bất bình",
+      "link": "https://vnexpress.net/video-nguoi-phu-nu-huych-nga-be-gai-o-nhat-gay-bat-binh-5044814.html",
+      "summary": "Video bé gái Đài Loan bị một phụ nữ huých ngã ở giao lộ Shibuya thu hút chú ý trên mạng xã hội, mở ra cuộc tranh luận về nhóm người cố tình va chạm với người đi đường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T13:28:17+07:00",
+      "fetched": "2026-02-27T21:33:23.155516+07:00"
+    },
+    {
+      "id": "cfc78d47f624527ea410dfac1b2f8fd5",
+      "title": "Ông Phan Quốc Công sẽ giữ chức Tổng giám đốc PNJ",
+      "link": "https://thanhnien.vn/ong-phan-quoc-cong-se-giu-chuc-tong-giam-doc-pnj-185260227201551065.htm",
+      "summary": "Tối 27.2, Công ty CP vàng bạc đá quý Phú Nhuận (PNJ) phát đi thông báo Hội đồng quản trị đã thống nhất sẽ bổ nhiệm ông Phan Quốc Công giữ chức vụ Tổng giám đốc (CEO) kể từ ngày 3.4, theo lộ trình hoạch định kế nhiệm đã được chuẩn bị trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:26:00+07:00",
+      "fetched": "2026-02-27T21:33:20.824442+07:00"
+    },
+    {
+      "id": "b67ee5cda2208679149e90d7f5f50455",
+      "title": "Đội tuyển Việt Nam đẳng cấp hơn nhờ cuộc cách mạng chiều cao",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-dang-cap-hon-nho-cuoc-cach-mang-chieu-cao-185260226213745527.htm",
+      "summary": "Sự xuất hiện của dàn cầu thủ Việt kiều cùng U.23 VN sẽ giúp đội tuyển quốc gia cải thiện chiều cao và sức chiến đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:24:00+07:00",
+      "fetched": "2026-02-27T21:33:20.824589+07:00"
+    },
+    {
+      "id": "d80bec848a6e3cab73278c001fc26b35",
+      "title": "Diện mạo trạm y tế 28 tỉ đồng và bước chuyển mình của y tế cơ sở tại TP.HCM",
+      "link": "https://thanhnien.vn/dien-mao-tram-y-te-28-ti-dong-va-buoc-chuyen-minh-cua-y-te-co-so-tai-tphcm-185260227192813515.htm",
+      "summary": "Với tổng mức đầu tư gần 28 tỉ đồng từ ngân sách Thành phố, Trạm y tế phường Xuân Hòa đã chuyển mình thành mô hình kiểu mẫu y tế mới. Đặc biệt, với đội ngũ 63 nhân sự, trong đó có 18 bác sĩ đa chuyên khoa, trạm đảm bảo năng lực chăm sóc sức khỏe ban đầu tốt nhất cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:22:00+07:00",
+      "fetched": "2026-02-27T21:33:20.824738+07:00"
+    },
+    {
+      "id": "54934d2a09890f94dce51b1e7a8f8cf2",
+      "title": "Cựu Bộ trưởng Nguyễn Thị Kim Tiến nhiều lần nhận tổng cộng 7,5 tỉ đồng",
+      "link": "https://thanhnien.vn/cuu-bo-truong-nguyen-thi-kim-tien-nhieu-lan-nhan-tong-cong-75-ti-dong-185250720151741078.htm",
+      "summary": "Bà Nguyễn Thị Kim Tiến, cựu Bộ trưởng Bộ Y tế, thừa nhận đã nhiều lần nhận tổng cộng 7,5 tỉ đồng của cấp dưới, song cho rằng không biết nguồn gốc tiền và không thỏa thuận về việc đưa nhận tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:21:00+07:00",
+      "fetched": "2026-02-27T21:33:20.824905+07:00"
+    },
+    {
+      "id": "ce58d11aa628b766be3d05eda877ea8d",
+      "title": "PNJ thay tổng giám đốc",
+      "link": "https://vnexpress.net/pnj-thay-tong-giam-doc-5044875.html",
+      "summary": "Ông Phan Quốc Công, sinh năm 1970, mới được bổ nhiệm làm Tổng giám đốc PNJ, thay ông Lê Trí Thông mới từ nhiệm sau 8 năm giữ chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:18:53+07:00",
+      "fetched": "2026-02-27T21:33:17.114585+07:00"
+    },
+    {
+      "id": "ce58d11aa628b766be3d05eda877ea8d",
+      "title": "PNJ thay tổng giám đốc",
+      "link": "https://vnexpress.net/pnj-thay-tong-giam-doc-5044875.html",
+      "summary": "Ông Phan Quốc Công, sinh năm 1970, mới được bổ nhiệm làm Tổng giám đốc PNJ, thay ông Lê Trí Thông mới từ nhiệm sau 8 năm giữ chức.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-27T13:18:53+07:00",
+      "fetched": "2026-02-27T21:33:24.612351+07:00"
+    },
+    {
+      "id": "10f6c7af2084a34c83c54be99d07a0ff",
+      "title": "Bị ‘vượt mặt’, phim tết của Trường Giang vẫn chạm mốc trăm tỉ",
+      "link": "https://thanhnien.vn/bi-vuot-mat-phim-tet-cua-truong-giang-van-cham-moc-tram-ti-18526022719303925.htm",
+      "summary": "Dù bị 'Báu vật trời cho' vượt mặt về doanh thu trong ngày song 'Nhà ba tôi một phòng' của Trường Giang vẫn gia nhập câu lạc bộ phim trăm tỉ sau hơn 10 ngày trình làng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:15:00+07:00",
+      "fetched": "2026-02-27T21:33:20.825053+07:00"
+    },
+    {
+      "id": "c3292a712c5dec7a2259685692995ebd",
+      "title": "'Tháng 3 biên giới' với nhiều hoạt động ý nghĩa tại Hà Tĩnh",
+      "link": "https://thanhnien.vn/thang-3-bien-gioi-voi-nhieu-hoat-dong-y-nghia-tai-ha-tinh-185260227183541352.htm",
+      "summary": "Chương trình Tháng ba biên giới năm 2026 tiếp tục khẳng định vai trò xung kích của tuổi trẻ trong việc chăm lo đời sống của người dân và đồng hành cùng Bộ đội Biên phòng, góp phần giữ vững chủ quyền, an ninh biên giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:11:00+07:00",
+      "fetched": "2026-02-27T21:33:20.825198+07:00"
+    },
+    {
+      "id": "a8679ad0da8143a59ea0cdf25f09f849",
+      "title": "Những dấu hiệu cho thấy cần thay ổ cắm điện mới",
+      "link": "https://thanhnien.vn/nhung-dau-hieu-cho-thay-can-thay-o-cam-dien-moi-185260224091912021.htm",
+      "summary": "Ổ cắm điện của bạn đã 'hết đát' chưa? Đây là dấu hiệu rõ ràng nhất để nhận biết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:11:00+07:00",
+      "fetched": "2026-02-27T21:33:20.825366+07:00"
+    },
+    {
+      "id": "590c42d7e5ce4004b42153f4eeb17dd8",
+      "title": "Hé lộ những kịch bản tấn công Iran được trình lên ông Trump",
+      "link": "https://thanhnien.vn/he-lo-nhung-kich-ban-tan-cong-iran-duoc-trinh-len-ong-trump-185260227200631695.htm",
+      "summary": "Đô đốc hải quân Brad Cooper, người đứng đầu Bộ Tư lệnh trung ương Mỹ (CENTCOM) và phụ trách lực lượng Mỹ tại Trung Đông, được cho là đã báo cáo với Tổng thống Donald Trump về các kịch bản quân sự tiềm tàng đối với Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:07:00+07:00",
+      "fetched": "2026-02-27T21:33:20.825513+07:00"
+    },
+    {
+      "id": "def8fe737161b3a1e20ef6a035ec2a67",
+      "title": "4 Thứ trưởng Bộ Quốc phòng nghỉ hưu từ 1.3.2026",
+      "link": "https://thanhnien.vn/4-thu-truong-bo-quoc-phong-nghi-huu-tu-132026-185260227172538688.htm",
+      "summary": "Thủ tướng Chính phủ Phạm Minh Chính đã ký các quyết định thôi giữ chức vụ Thứ trưởng Bộ Quốc phòng và Phó tổng tham mưu trưởng Quân đội nhân dân Việt Nam với 5 thượng tướng quân đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:06:00+07:00",
+      "fetched": "2026-02-27T21:33:20.825667+07:00"
+    },
+    {
+      "id": "805ad7ab6c9634464c4d22bb11fa195c",
+      "title": "Công Phượng không được đăng ký, Trường Tươi Bình Phước vẫn thắng tưng bừng: Vô địch lượt đi",
+      "link": "https://thanhnien.vn/cong-phuong-khong-duoc-dang-ky-truong-tuoi-binh-phuoc-van-thang-tung-bung-vo-dich-luot-di-185260227195852836.htm",
+      "summary": "Chiều 27.2, CLB Trường Tươi Đồng Nai tạo ra một thế trận áp đảo trước đội Đồng Tháp và giành chiến thắng đậm 5-1 ở vòng 10 giải hạng nhất 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:02:00+07:00",
+      "fetched": "2026-02-27T21:33:20.825819+07:00"
+    },
+    {
+      "id": "a02b570f58fd6bfb5a2d72cd74d4be41",
+      "title": "Sốt ruột vì con 5 tuổi kém xa bạn bè học tiền tiểu học",
+      "link": "https://vnexpress.net/tien-tieu-hoc-day-gi-sot-ruot-vi-con-5-tuoi-kem-xa-ban-be-hoc-tien-tieu-hoc-5044807.html",
+      "summary": "Bạn bè cùng tuổi đã học tiền tiểu học, biết viết chữ, học Tiếng Anh ở trung tâm, còn con tôi vẫn mải mê vẽ tranh, ghép hình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:00:00+07:00",
+      "fetched": "2026-02-27T21:33:17.114741+07:00"
+    },
+    {
+      "id": "6309d90ebf4a1ba6b9b836394bc83a48",
+      "title": "Tương quan sức mạnh quân sự giữa Pakistan và Afghanistan",
+      "link": "https://vnexpress.net/tuong-quan-suc-manh-quan-su-giua-pakistan-va-afghanistan-5044742.html",
+      "summary": "Pakistan sở hữu quân số và lượng khí tài vượt trội so với Afghanistan, đồng thời nằm trong số ít quốc gia sở hữu vũ khí hạt nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:00:00+07:00",
+      "fetched": "2026-02-27T21:33:17.114896+07:00"
+    },
+    {
+      "id": "03226badfa8d0d9edc1aaf7a775692f1",
+      "title": "Nguyên tắc 20 phút giúp nàng 'leo đỉnh'",
+      "link": "https://vnexpress.net/nguyen-tac-20-phut-giup-nang-leo-dinh-5044835.html",
+      "summary": "Khoảng 82% phụ nữ không \"chạm đỉnh\" nếu chỉ thâm nhập đơn thuần, vì thế theo bác sỹ, 20 phút dạo đầu là để giải tỏa áp lực tâm lý, kích hoạt dopamine và chú trọng các điểm chạm nhạy cảm ngoài thay vì chỉ tập trung kỹ thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:00:00+07:00",
+      "fetched": "2026-02-27T21:33:17.115048+07:00"
+    },
+    {
+      "id": "b246948cc7a60f01ab3cc9784b6dffed",
+      "title": "Xóa xăm mày có gây rụng lông không?",
+      "link": "https://vnexpress.net/xoa-xam-may-co-gay-rung-long-khong-5044820.html",
+      "summary": "Tôi muốn xóa xăm để chỉnh lại dáng mày cho phù hợp. Nếu dùng phương pháp laser có làm rụng lông mày không? (Thu Thương, 28 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T13:00:00+07:00",
+      "fetched": "2026-02-27T21:33:17.115204+07:00"
+    },
+    {
+      "id": "6309d90ebf4a1ba6b9b836394bc83a48",
+      "title": "Tương quan sức mạnh quân sự giữa Pakistan và Afghanistan",
+      "link": "https://vnexpress.net/tuong-quan-suc-manh-quan-su-giua-pakistan-va-afghanistan-5044742.html",
+      "summary": "Pakistan sở hữu quân số và lượng khí tài vượt trội so với Afghanistan, đồng thời nằm trong số ít quốc gia sở hữu vũ khí hạt nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T13:00:00+07:00",
+      "fetched": "2026-02-27T21:33:23.155676+07:00"
+    },
+    {
+      "id": "11468a8bdf0f5d3e88a0d0f238796461",
+      "title": "TP HCM cần huy động hơn 1 triệu tỷ đồng vốn đầu tư xã hội để tăng trưởng trên 10%",
+      "link": "https://vnexpress.net/tp-hcm-can-huy-dong-hon-1-trieu-ty-dong-von-dau-tu-xa-hoi-de-tang-truong-tren-10-5044865.html",
+      "summary": "Để tăng trưởng trên 10%, thành phố ước tính cần khoảng 1,2 triệu tỷ đồng vốn đầu tư, trong đó vốn công chỉ đáp ứng 6%, còn lại huy động nguồn từ xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T12:54:37+07:00",
+      "fetched": "2026-02-27T21:33:17.115403+07:00"
+    },
+    {
+      "id": "11468a8bdf0f5d3e88a0d0f238796461",
+      "title": "TP HCM cần huy động hơn 1 triệu tỷ đồng vốn đầu tư xã hội để tăng trưởng trên 10%",
+      "link": "https://vnexpress.net/tp-hcm-can-huy-dong-hon-1-trieu-ty-dong-von-dau-tu-xa-hoi-de-tang-truong-tren-10-5044865.html",
+      "summary": "Để tăng trưởng trên 10%, thành phố ước tính cần khoảng 1,2 triệu tỷ đồng vốn đầu tư, trong đó vốn công chỉ đáp ứng 6%, còn lại huy động nguồn từ xã hội.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-27T12:54:37+07:00",
+      "fetched": "2026-02-27T21:33:24.612584+07:00"
+    },
+    {
+      "id": "e8efba9986ad3918cd6a11ea84c1c25a",
+      "title": "Phó thủ tướng: Nhân lực là then chốt của trung tâm tài chính",
+      "link": "https://vnexpress.net/pho-thu-tuong-nhan-luc-la-then-chot-cua-trung-tam-tai-chinh-5044614.html",
+      "summary": "Phó thủ tướng thường trực Nguyễn Hòa Bình nêu 5 yếu tố cốt lõi nền tảng xây dựng Trung tâm tài chính, với nhân lực đóng vai trò quyết định.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-27T12:42:05+07:00",
+      "fetched": "2026-02-27T21:33:24.612762+07:00"
     },
     {
       "id": "d1d58b350c44972bd0d750472c791cd4",
