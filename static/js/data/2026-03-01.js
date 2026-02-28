@@ -1,7 +1,57 @@
 window.newsData_2026_03_01 = {
   "date": "2026-03-01",
-  "lastUpdated": "2026-03-01T01:20:09.830814+07:00",
+  "lastUpdated": "2026-03-01T03:15:22.980321+07:00",
   "articles": [
+    {
+      "id": "594683a6332dcfbd3a4a88f9df97de59",
+      "title": "Đêm thứ Bảy bùng nổ của Premier League, 2 trận cầu 7 bàn thắng",
+      "link": "https://tuoitre.vn/dem-thu-bay-bung-no-cua-premier-league-2-tran-cau-7-ban-thang-20260301003547302.htm",
+      "summary": "Có đến 2 trận cầu ở vòng 28 Giải ngoại hạng Anh (Premier League) diễn ra đêm 28-2 kết thúc với 7 bàn thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T03:15:17.628244+07:00",
+      "fetched": "2026-03-01T03:15:17.628359+07:00"
+    },
+    {
+      "id": "ef3d8f864055793d38fa055e8b4db341",
+      "title": "Israel phát động cuộc tấn công mới vào Iran, Iran phóng tên lửa đáp trả",
+      "link": "https://tuoitre.vn/israel-phat-dong-cuoc-tan-cong-moi-vao-iran-iran-phong-ten-lua-dap-tra-20260301010717551.htm",
+      "summary": "Đợt tấn công tiếp theo của Israel nhắm vào các hệ thống phóng tên lửa và phòng không của Iran. Cùng lúc, một loạt tên lửa  lại từ Iran bay về phía Israel",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T03:15:17.628114+07:00",
+      "fetched": "2026-03-01T03:15:17.628232+07:00"
+    },
+    {
+      "id": "bc4085e32806d0f1c8a392dec4b0d903",
+      "title": "Tin tức sáng 1-3: Bộ Ngoại giao khuyến cáo công dân không đến Iran và Israel thời điểm hiện tại",
+      "link": "https://tuoitre.vn/tin-tuc-sang-1-3-bo-ngoai-giao-khuyen-cao-cong-dan-khong-den-iran-va-israel-thoi-diem-hien-tai-20260228224245471.htm",
+      "summary": "Tin tức đáng chú ý: Bộ Ngoại giao khuyến cáo công dân không đến Iran và Israel vào thời điểm hiện tại; Tuần lễ miễn phí khám, tư vấn về vô sinh và hiếm muộn...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T03:15:17.627981+07:00",
+      "fetched": "2026-03-01T03:15:17.628102+07:00"
+    },
+    {
+      "id": "394fa0647c5db815a704031b0d2bbcdb",
+      "title": "Iran bắn trả không chỉ Israel, 'phủ sóng' tên lửa khắp vùng Vịnh",
+      "link": "https://tuoitre.vn/iran-ban-tra-khong-chi-israel-phu-song-ten-lua-khap-vung-vinh-20260301011834888.htm",
+      "summary": "Iran phát động các đợt tấn công nhắm vào các thành phố lớn trên khắp vùng Vịnh giàu có, trong động thái trả đũa các cuộc không kích của Mỹ và Israel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T03:15:17.627841+07:00",
+      "fetched": "2026-03-01T03:15:17.627969+07:00"
+    },
+    {
+      "id": "daa5773f0d2f3fe16c5c665c6d54a359",
+      "title": "Gần 1.000 người thương vong ở Iran, Mỹ thiệt hại không đáng kể",
+      "link": "https://tuoitre.vn/gan-1-000-nguoi-thuong-vong-o-iran-my-thiet-hai-khong-dang-ke-20260301020819751.htm",
+      "summary": "Hội chữ thập đỏ Iran nói hơn 200 người ở nước này thiệt mạng, 747 người bị thương do Israel tấn công. Phía Israel thông báo 89 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T03:15:17.627606+07:00",
+      "fetched": "2026-03-01T03:15:17.627826+07:00"
+    },
     {
       "id": "5187605b8913c7a67ce3decf32d20932",
       "title": "Xe biển xanh cấp xã vi phạm, tài xế bị phạt hơn 6 triệu, cấp xã bị phạt 32 triệu",
