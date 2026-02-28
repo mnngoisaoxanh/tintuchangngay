@@ -1,7 +1,157 @@
 window.newsData_2026_02_28 = {
   "date": "2026-02-28",
-  "lastUpdated": "2026-02-28T19:26:28.185282+07:00",
+  "lastUpdated": "2026-02-28T21:14:11.272542+07:00",
   "articles": [
+    {
+      "id": "c1c84545a76fd3e2bf64c880a244cd09",
+      "title": "Bộ trưởng lên tiếng khiến người hâm mộ bóng đá Malaysia lo lắng",
+      "link": "https://tuoitre.vn/bo-truong-len-tieng-khien-nguoi-ham-mo-bong-da-malaysia-lo-lang-20260228183714474.htm",
+      "summary": "Bộ trưởng Bộ Thanh niên và Thể thao Malaysia, Mohammed Taufiq, đã có những phát ngôn liên quan vụ cầu thủ nhập tịch của bóng đá nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.774035+07:00",
+      "fetched": "2026-02-28T21:14:03.774151+07:00"
+    },
+    {
+      "id": "709c33ad7782903dfddeb9813742df61",
+      "title": "Thua ngược Bắc Ninh, Quảng Ninh xa dần tấm vé trở lại V-League",
+      "link": "https://tuoitre.vn/thua-nguoc-bac-ninh-quang-ninh-xa-dan-tam-ve-tro-lai-v-league-20260228190120878.htm",
+      "summary": "Chiều 28-2, CLB Bắc Ninh thắng ngược Quảng Ninh 3-2 sau màn rượt đuổi tỉ số gay cấn trên sân Việt Yên ở vòng 10 Giải hạng nhất quốc gia 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.773889+07:00",
+      "fetched": "2026-02-28T21:14:03.774022+07:00"
+    },
+    {
+      "id": "dedcbaabf76e86f2bbb3e15f51ff90c2",
+      "title": "TP.HCM: Khuyến khích 'mạn đàm tiểu sử' để cử tri tìm hiểu kỹ về người ứng cử",
+      "link": "https://tuoitre.vn/tp-hcm-khuyen-khich-man-dam-tieu-su-de-cu-tri-tim-hieu-ky-ve-nguoi-ung-cu-20260228185145112.htm",
+      "summary": "Phó chủ tịch UBND TP.HCM Nguyễn Mạnh Cường gợi ý trong giai đoạn nước rút, các địa phương có thể thực hiện hình thức 'mạn đàm tiểu sử' để tạo điều kiện cho cử tri có thời gian tìm hiểu kỹ hơn về người ứng cử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.773762+07:00",
+      "fetched": "2026-02-28T21:14:03.773877+07:00"
+    },
+    {
+      "id": "05246856f29e52abb807a6fb77948cd7",
+      "title": "Một tuần bốn vùng chiến sự trên thế giới",
+      "link": "https://tuoitre.vn/mot-tuan-bon-vung-chien-su-tren-the-gioi-20260228190942153.htm",
+      "summary": "Ngày 28-2, Mỹ cùng Israel tấn công Iran dồn dập, đánh dấu một tuần đầy biến động tại các 'điểm nóng' chiến sự khắp thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.773632+07:00",
+      "fetched": "2026-02-28T21:14:03.773750+07:00"
+    },
+    {
+      "id": "ca578fadae34007f870042bd4089d2cd",
+      "title": "Truy tố 12 bảo vệ Khu công nghệ cao 'bán đường' cho xe tải vào giờ cấm",
+      "link": "https://tuoitre.vn/truy-to-12-bao-ve-khu-cong-nghe-cao-ban-duong-cho-xe-tai-vao-gio-cam-20260228191813803.htm",
+      "summary": "Viện Kiểm sát nhân dân TP.HCM đã ban hành cáo trạng truy tố 12 bị can thuộc đội bảo vệ Ban quản lý Khu công nghệ cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.773478+07:00",
+      "fetched": "2026-02-28T21:14:03.773619+07:00"
+    },
+    {
+      "id": "2f47d3b31ec35e6b7298750ec317f010",
+      "title": "Bắt thanh niên dùng dao đâm bạn gái trọng thương, đâm người can ngăn tử vong",
+      "link": "https://tuoitre.vn/bat-thanh-nien-dung-dao-dam-ban-gai-trong-thuong-dam-nguoi-can-ngan-tu-vong-20260228183938151.htm",
+      "summary": "Nùng mâu thuẫn dẫn đến cự cãi với bạn gái. Nùng dùng dao đâm nhiều nhát gây thương tích cho bạn gái, tiếp đó đâm người đi cùng bạn gái của Nùng tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.773351+07:00",
+      "fetched": "2026-02-28T21:14:03.773467+07:00"
+    },
+    {
+      "id": "4f79109d8acfd882812dcb1fc5fbf70f",
+      "title": "Trần Quyết Chiến toàn thắng trước đối thủ mạnh, đưa Việt Nam vào tứ kết",
+      "link": "https://tuoitre.vn/tran-quyet-chien-toan-thang-truoc-doi-thu-manh-dua-viet-nam-vao-tu-ket-20260228193726879.htm",
+      "summary": "Cơ thủ Việt Nam Trần Quyết Chiến thể hiện phong độ cực cao, giúp đội Việt Nam vượt qua vòng bảng Giải billiards carom 3 băng đồng đội thế giới 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.773225+07:00",
+      "fetched": "2026-02-28T21:14:03.773340+07:00"
+    },
+    {
+      "id": "ef8484003d494cebb7c51823fea9e3e1",
+      "title": "Israel khoe vai trò tình báo lên danh sách các mục tiêu nhân sự Iran cần diệt",
+      "link": "https://tuoitre.vn/israel-khoe-vai-tro-tinh-bao-len-danh-sach-cac-muc-tieu-nhan-su-iran-can-diet-20260228193315173.htm",
+      "summary": "Israel vừa tiết lộ các sĩ quan tình báo đã dành hàng ngàn giờ để lập danh sách mục tiêu cho chiến dịch tấn công Iran lần này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.773099+07:00",
+      "fetched": "2026-02-28T21:14:03.773213+07:00"
+    },
+    {
+      "id": "79f088f904f431a92b8b18f04e8afbbf",
+      "title": "Rung chuông bảo tháp Tây Yên Tử, phát 'gạo vàng' Bà Chúa Kho ngày chính hội",
+      "link": "https://tuoitre.vn/rung-chuong-bao-thap-tay-yen-tu-phat-gao-vang-ba-chua-kho-ngay-chinh-hoi-20260228184827272.htm",
+      "summary": "Lễ khai hội xuân Tây Yên Tử 2026 mở màn với nghi thức rung chuông bảo tháp Hoa Nghiêm cầu nguyện quốc thái dân an lần đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.772972+07:00",
+      "fetched": "2026-02-28T21:14:03.773087+07:00"
+    },
+    {
+      "id": "62c36316303cc62803ff9bad6c3277a0",
+      "title": "Thảo cầm viên Sài Gòn, Bảo tàng Áo dài giảm giá vé cho khách mặc áo dài",
+      "link": "https://tuoitre.vn/thao-cam-vien-sai-gon-bao-tang-ao-dai-giam-gia-ve-cho-khach-mac-ao-dai-20260228195111497.htm",
+      "summary": "Trong suốt tháng 3 này, du khách mặc áo dài đến tham quan tại Thảo cầm viên Sài Gòn, Bảo tàng Áo dài sẽ được giảm giá vé vào cổng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.772846+07:00",
+      "fetched": "2026-02-28T21:14:03.772961+07:00"
+    },
+    {
+      "id": "6619bd29a3a9b6a0b3949eec264b084b",
+      "title": "Triệt phá đường dây mua bán lá gan 1,5 tỉ, quả thận 950 triệu đồng",
+      "link": "https://tuoitre.vn/triet-pha-duong-day-mua-ban-la-gan-1-5-ti-qua-than-950-trieu-dong-20260228195731014.htm",
+      "summary": "Công an xác định Đoàn Văn Hòa và đồng phạm môi giới giá một quả thận khoảng 800 - 950 triệu đồng, một lá gan 1,2 - 1,5 tỉ đồng, tuy nhiên chỉ trả cho người bán một nửa số tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.772718+07:00",
+      "fetched": "2026-02-28T21:14:03.772834+07:00"
+    },
+    {
+      "id": "75a9c19ee22c4a38c9eb9eeb35fffb75",
+      "title": "Đà Nẵng tổ chức thi vào lớp 10 năm 2026 sớm hơn mọi năm",
+      "link": "https://tuoitre.vn/da-nang-to-chuc-thi-vao-lop-10-nam-2026-som-hon-moi-nam-20260228163242701.htm",
+      "summary": "Sở Giáo dục và Đào tạo thành phố Đà Nẵng vừa ban hành hướng dẫn chuẩn bị cho các kỳ thi quan trọng trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.772587+07:00",
+      "fetched": "2026-02-28T21:14:03.772706+07:00"
+    },
+    {
+      "id": "7920d371423e674c73af8415196607ec",
+      "title": "Cẩm Vân, Hà Lê… hát mừng sinh nhật Trịnh Công Sơn bên sông Hương",
+      "link": "https://tuoitre.vn/cam-van-ha-le-hat-mung-sinh-nhat-trinh-cong-son-ben-song-huong-20260228192549106.htm",
+      "summary": "Chiều 28-2, hàng trăm người yêu nhạc Trịnh đã tề tựu về công viên mang tên Trịnh Công Sơn bên dòng sông Hương (TP Huế), cùng gia đình cố nhạc sĩ và nhiều ca sĩ nổi tiếng hát mừng sinh nhật lần thứ 87 của ông, 28-2-1939.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.772429+07:00",
+      "fetched": "2026-02-28T21:14:03.772573+07:00"
+    },
+    {
+      "id": "641208a9f827e750ab8144d77cddb311",
+      "title": "Thủ tướng Phạm Văn Đồng: Từ tầm nhìn chiến lược đến nhân cách lớn của một nhà lãnh đạo",
+      "link": "https://tuoitre.vn/thu-tuong-pham-van-dong-tu-tam-nhin-chien-luoc-den-nhan-cach-lon-cua-mot-nha-lanh-dao-20260228195847875.htm",
+      "summary": "Hội thảo khoa học tiếp tục làm rõ tầm vóc một nhà lãnh đạo kiên trung, nhà ngoại giao kiệt xuất, người suốt đời tận tụy, liêm chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.772284+07:00",
+      "fetched": "2026-02-28T21:14:03.772417+07:00"
+    },
+    {
+      "id": "4e237756305467417cd5663dbaf9740a",
+      "title": "Chiến sự Mỹ - Israel - Iran: Việt Nam kêu gọi các bên kiềm chế tối đa",
+      "link": "https://tuoitre.vn/chien-su-my-israel-iran-viet-nam-keu-goi-cac-ben-kiem-che-toi-da-2026022820145592.htm",
+      "summary": "Bộ Ngoại giao Việt Nam quan ngại sâu sắc trước tình hình căng thẳng leo thang tại Trung Đông, kêu gọi các bên liên quan kiềm chế tối đa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:14:03.772053+07:00",
+      "fetched": "2026-02-28T21:14:03.772268+07:00"
+    },
     {
       "id": "5aa82ed1069253b29a7e56be2fc529b9",
       "title": "9 năm tăng liên tiếp, kỳ thi đánh giá năng lực Đại học Quốc gia TP.HCM lớn tới mức nào?",
@@ -453,6 +603,116 @@ window.newsData_2026_02_28 = {
       "fetched": "2026-02-28T15:17:45.816987+07:00"
     },
     {
+      "id": "995932ade17e2f7160423e24792bb901",
+      "title": "Kỳ thủ chủ nhà Trung Quốc bật khóc khi bị Lại Lý Huynh đánh bại, không thể vào chung kết",
+      "link": "https://thanhnien.vn/ky-thu-chu-nha-trung-quoc-bat-khoc-khi-bi-lai-ly-huynh-danh-bai-khong-the-vao-chung-ket-185260228210535085.htm",
+      "summary": "Kỳ thủ Triệu Phàn Vỹ của chủ nhà Trung Quốc bật khóc khi hòa Lại Lý Huynh ở bán kết lượt về, qua đó để suất vào chung kết giải cờ tướng danh giá Ngũ Dương Bôi 2026 về tay kỳ thủ số 1 Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T14:07:00+07:00",
+      "fetched": "2026-02-28T21:14:02.798318+07:00"
+    },
+    {
+      "id": "21ab4d8f1b030432da7d38cb25951616",
+      "title": "Tuổi trẻ Quảng Ninh lan tỏa sức trẻ trong tháng thanh niên",
+      "link": "https://thanhnien.vn/tuoi-tre-quang-ninh-lan-toa-suc-tre-trong-thang-thanh-nien-185260228190315905.htm",
+      "summary": "Ra quân Tháng Thanh niên 2026 tại xã Đường Hoa, Tỉnh đoàn Quảng Ninh phát động Tết trồng cây, trao hàng trăm phần quà, công trình an sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:44:00+07:00",
+      "fetched": "2026-02-28T21:14:02.798488+07:00"
+    },
+    {
+      "id": "eb419953140454130ad53915d98b563f",
+      "title": "Thấy gì khi người dân, doanh nghiệp ùn ùn gửi tiền vào ngân hàng?",
+      "link": "https://thanhnien.vn/thay-gi-khi-nguoi-dan-doanh-nghiep-un-un-gui-tien-vao-ngan-hang-185260228180506657.htm",
+      "summary": "Với nền lãi suất dần nâng lên, dự báo, xu hướng tiền gửi tiết kiệm tiếp tục tăng trong thời gian tới. Vấn đề cốt lõi là dòng vốn 'chảy' vào ngân hàng phải được dẫn dắt hiệu quả sang khu vực sản xuất, kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:42:00+07:00",
+      "fetched": "2026-02-28T21:14:02.798690+07:00"
+    },
+    {
+      "id": "5b8113a71fb981c62f827534e08bf502",
+      "title": "Việt Nam quan ngại sâu sắc về tình hình xung đột leo thang tại Trung Đông",
+      "link": "https://thanhnien.vn/viet-nam-quan-ngai-sau-sac-ve-tinh-hinh-xung-dot-leo-thang-tai-trung-dong-185260228200216441.htm",
+      "summary": "Việt Nam quan ngại sâu sắc về tình hình xung đột leo thang phức tạp tại khu vực Trung Đông, đe dọa nghiêm trọng tính mạng và an toàn của người dân, hòa bình, ổn định của khu vực và thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:39:00+07:00",
+      "fetched": "2026-02-28T21:14:02.798849+07:00"
+    },
+    {
+      "id": "993f2b1d1e8e25b827c56d2784d0855a",
+      "title": "Hành trình Mỹ - Iran từ căng thẳng đến xung đột",
+      "link": "https://vnexpress.net/hanh-trinh-my-iran-tu-cang-thang-den-xung-dot-5045108.html",
+      "summary": "Từ những bất đồng âm ỉ quanh thỏa thuận hạt nhân đến đòn \"gây sức ép tối đa\" của Tổng thống Trump, ngòi nổ căng thẳng Mỹ - Iran đã bùng phát bằng đòn tập kích tên lửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:36:30+07:00",
+      "fetched": "2026-02-28T21:13:59.786533+07:00"
+    },
+    {
+      "id": "993f2b1d1e8e25b827c56d2784d0855a",
+      "title": "Hành trình Mỹ - Iran từ căng thẳng đến xung đột",
+      "link": "https://vnexpress.net/hanh-trinh-my-iran-tu-cang-thang-den-xung-dot-5045108.html",
+      "summary": "Từ những bất đồng âm ỉ quanh thỏa thuận hạt nhân đến đòn \"gây sức ép tối đa\" của Tổng thống Trump, ngòi nổ căng thẳng Mỹ - Iran đã bùng phát bằng đòn tập kích tên lửa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T13:36:30+07:00",
+      "fetched": "2026-02-28T21:14:05.476749+07:00"
+    },
+    {
+      "id": "f233222aa37f308a25919a0667078fe6",
+      "title": "Bộ trưởng Quốc phòng dâng hương tưởng niệm đại tướng Võ Nguyên Giáp",
+      "link": "https://vnexpress.net/bo-truong-quoc-phong-dang-huong-tuong-niem-dai-tuong-vo-nguyen-giap-5045111.html",
+      "summary": "Đại tướng Phan Văn Giang dẫn đầu đoàn Bộ Quốc phòng dâng hoa, dâng hương tưởng niệm đại tướng Võ Nguyên Giáp tại Đoàn An điều dưỡng 22 Hạ Long, chiều 28/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:34:33+07:00",
+      "fetched": "2026-02-28T21:13:59.786719+07:00"
+    },
+    {
+      "id": "5524624643402daaaef6dedbe338deaf",
+      "title": "Gần 200 triệu đồng cho an sinh và thanh niên khởi nghiệp",
+      "link": "https://thanhnien.vn/gan-200-trieu-dong-cho-an-sinh-va-thanh-nien-khoi-nghiep-185260228160002077.htm",
+      "summary": "Ngày 28.2, Tỉnh đoàn Lâm Đồng phối hợp với Đoàn xã Thuận An tổ chức Lễ ra quân Tháng Thanh niên, phát động Tết trồng cây \"Đời đời nhớ ơn Bác Hồ\" xuân Bính Ngọ và Chương trình \"Tháng ba biên giới\" năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:33:00+07:00",
+      "fetched": "2026-02-28T21:14:02.799003+07:00"
+    },
+    {
+      "id": "43e4a9397c4c87af762d22951528d9f7",
+      "title": "TP.HCM: Nỗ lực dập tắt vụ cháy kho nệm tại xã Củ Chi",
+      "link": "https://thanhnien.vn/tphcm-no-luc-dap-tat-vu-chay-kho-nem-tai-xa-cu-chi-185260228185911699.htm",
+      "summary": "Hơn 18 giờ ngày 28.2, lực lượng chức năng vẫn đang tích cực phối hợp phong tỏa hiện trường và xử lý vụ cháy kho nệm mút, cao su tại địa bàn xã Củ Chi (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:30:00+07:00",
+      "fetched": "2026-02-28T21:14:02.799155+07:00"
+    },
+    {
+      "id": "4070eb3b7a8c0377afcea37d06d5d177",
+      "title": "Nóng: Lại Lý Huynh hòa khôn ngoan đối thủ Trung Quốc, chính thức vào chung kết giải cờ tướng Ngũ Dương Bôi",
+      "link": "https://thanhnien.vn/nong-lai-ly-huynh-hoa-khon-ngoan-doi-thu-trung-quoc-chinh-thuc-vao-chung-ket-giai-co-tuong-ngu-duong-boi-185260228193101873.htm",
+      "summary": "Kỳ thủ số 1 Việt Nam Lại Lý Huynh chính thức đoạt vé vào chung kết giải cờ tướng danh giá Ngũ Dương Bôi 2026 sau chiến thắng chung cuộc trước kỳ thủ chủ nhà Trung Quốc Triệu Phàn Vỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:28:00+07:00",
+      "fetched": "2026-02-28T21:14:02.799306+07:00"
+    },
+    {
+      "id": "f76a6921c36102161834c63448e3d59a",
+      "title": "Lắp cửa sắt mở xoay ra hành lang chung cư nhưng nghĩ mình không sai",
+      "link": "https://vnexpress.net/lap-cua-sat-mo-xoay-ra-hanh-lang-chung-cu-nhung-nghi-minh-khong-sai-5045067.html",
+      "summary": "Tôi thấy lạ vì rất nhiều hộ chung cư lắp thêm cửa sắt mở xoay ra hành lang và để thế cả ngày cho thoáng nhưng chẳng bị xử lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:26:05+07:00",
+      "fetched": "2026-02-28T21:13:59.786884+07:00"
+    },
+    {
       "id": "75cb4f255e695932a168d2eb1005b955",
       "title": "Taliban tuyên bố sẵn sàng đàm phán sau khi Pakistan ném bom vào Kabul",
       "link": "https://tuoitre.vn/taliban-tuyen-bo-san-sang-dam-phan-sau-khi-pakistan-nem-bom-vao-kabul-20260228111512618.htm",
@@ -601,6 +861,176 @@ window.newsData_2026_02_28 = {
       "category": "Tổng hợp",
       "published": "2026-02-28T13:25:32.888213+07:00",
       "fetched": "2026-02-28T13:25:32.888439+07:00"
+    },
+    {
+      "id": "5e251c5a6f3023e7f1823ed8ac8daaa0",
+      "title": "Tuyến đường điện mặt trời 1,4 km gây chú ý ở Quảng Ngãi",
+      "link": "https://thanhnien.vn/tuyen-duong-dien-mat-troi-14-km-gay-chu-y-o-quang-ngai-185260228171351204.htm",
+      "summary": "Tỉnh đoàn Quảng Ngãi khởi động Tháng Thanh niên 2026 và phát động 'Tết trồng cây đời đời nhớ ơn Bác Hồ', đồng loạt triển khai nhiều công trình, phần việc thanh niên thiết thực, hướng về môi trường, chuyển đổi số và an sinh xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:23:00+07:00",
+      "fetched": "2026-02-28T21:14:02.799467+07:00"
+    },
+    {
+      "id": "ba4603b0d5f84cdb5d21b87ea516abb0",
+      "title": "Dồn dập cảnh báo sau cuộc tấn công mới của Mỹ và Israel vào Iran",
+      "link": "https://thanhnien.vn/don-dap-canh-bao-sau-cuoc-tan-cong-moi-cua-my-va-israel-vao-iran-185260228185918308.htm",
+      "summary": "Nga và một số nước khác cũng như Liên minh châu Âu đã ra cảnh báo sau các cuộc tấn công của Mỹ và Israel vào Iran trong ngày 28.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:18:00+07:00",
+      "fetched": "2026-02-28T21:14:02.799638+07:00"
+    },
+    {
+      "id": "725540328f66fd3d83cda7558f4aa298",
+      "title": "Toyota Fortuner 2026 bị phát hiện chạy thử nghiệm, chuẩn bị gia nhập thị trường",
+      "link": "https://thanhnien.vn/toyota-fortuner-2026-bi-phat-hien-chay-thu-nghiem-chuan-bi-gia-nhap-thi-truong-185260228083557355.htm",
+      "summary": "Kiểu dáng thiết kế Toyota Fortuner thế hệ mới phần nào lộ diện khi bị phát hiện chạy thử nghiệm tại Thái Lan, mẫu xe này được đồn đoán sử dụng nền tảng khung gầm, động cơ tương tự mẫu xe tải Hilux thế hệ mới vừa gia nhập thị trường Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:15:00+07:00",
+      "fetched": "2026-02-28T21:14:02.799799+07:00"
+    },
+    {
+      "id": "7ac3404a28cc63b667596814b963ee19",
+      "title": "Đừng để hình ảnh rực rỡ tại cửa hàng đánh lừa khi mua Smart TV",
+      "link": "https://thanhnien.vn/dung-de-hinh-anh-ruc-ro-tai-cua-hang-danh-lua-khi-mua-smart-tv-185260224134810541.htm",
+      "summary": "Khi quyết định mua một Smart TV mới, việc nghiên cứu thông tin là rất quan trọng, nhưng không phải lúc nào cũng đủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:15:00+07:00",
+      "fetched": "2026-02-28T21:14:02.799947+07:00"
+    },
+    {
+      "id": "46df49b6e300546085accc43c0984b92",
+      "title": "CLB Đà Nẵng thăng hoa, thắng đậm PVF-CAND: Vẫn chìm sâu dưới đáy bảng xếp hạng",
+      "link": "https://thanhnien.vn/clb-da-nang-thang-hoa-thang-dam-pvf-cand-van-chim-sau-duoi-day-bang-xep-hang-185260228200332927.htm",
+      "summary": "Trận 'chung kết ngược' trên sân Chi Lăng (thay cho tên cũ Hòa Xuân từng hòa nhiều hơn thắng) đã chứng kiến CLB Đà Nẵng thăng hoa với chiến thắng 3-0 trước PVF-CAND.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:14:00+07:00",
+      "fetched": "2026-02-28T21:14:02.800108+07:00"
+    },
+    {
+      "id": "4f03230de699febcaa8cda78f4c00b86",
+      "title": "Người dân nước nào mua ôtô nhiều nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-mua-oto-nhieu-nhat-dong-nam-a-5045015.html",
+      "summary": "Với hơn 833.000 ôtô mua mới trong năm 2025, nước này đứng đầu Đông Nam Á về tiêu thụ xe. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:11:24+07:00",
+      "fetched": "2026-02-28T21:13:59.787059+07:00"
+    },
+    {
+      "id": "5f4ae56cf3a208b46ac40b0a547009a3",
+      "title": "Olaha lập siêu phẩm, SLNA thắng sát nút Hà Tĩnh: Thoát dần nguy cơ xuống hạng",
+      "link": "https://thanhnien.vn/olaha-lap-sieu-pham-slna-thang-sat-nut-ha-tinh-thoat-dan-nguy-co-xuong-hang-185260228195855803.htm",
+      "summary": "SLNA tận dụng tốt cơ hội trong hiệp 1 để giành chiến thắng tối thiểu 1-0 trước Hà Tĩnh ở vòng 14 V-League vào ngày 28.2, dù đội chủ nhà kiểm soát bóng nhiều và tạo ra không ít cơ hội trong hiệp 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:07:00+07:00",
+      "fetched": "2026-02-28T21:14:02.800263+07:00"
+    },
+    {
+      "id": "b1683963c15dbc216c59ac51ae02611e",
+      "title": "Nghệ sĩ Trịnh Thúy Mùi ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://vnexpress.net/nghe-si-trinh-thuy-mui-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-5045121.html",
+      "summary": "Bà Trịnh Thúy Mùi, 64 tuổi, là Nghệ sĩ Nhân dân duy nhất ứng cử đại biểu Quốc hội khóa XVI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:06:11+07:00",
+      "fetched": "2026-02-28T21:13:59.787220+07:00"
+    },
+    {
+      "id": "b6a9fc4ef06014938799055ea6a7cfc6",
+      "title": "Xem nhanh 20h ngày 28.2: Tổng thống Trump kêu gọi Iran đầu hàng; Tehran đáp trả khắp nơi trong khu vực?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-282-tong-thong-trump-keu-goi-iran-dau-hang-tehran-dap-tra-khap-noi-trong-khu-vuc-185260228194325464.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 28.2 có nhiều tin tức đáng chú ý về: Ông Trump nói Mỹ tiến hành 'chiến dịch quân sự lớn' ở Iran; Iran phóng tên lửa đáp trả sau khi Israel-Mỹ không kích;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:00:00+07:00",
+      "fetched": "2026-02-28T21:14:02.800420+07:00"
+    },
+    {
+      "id": "876fbcd1de151692eef23b642b579a4d",
+      "title": "Sắc xám khói tôn lên phong cách sang trọng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/sac-xam-khoi-ton-len-phong-cach-sang-trong-185260227181327696.htm",
+      "summary": "Không ồn ào như đen tuyền hay nổi bật như những gam màu rực rỡ, sắc xám khói chinh phục giới mộ điệu bằng vẻ đẹp điềm tĩnh và tinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T13:00:00+07:00",
+      "fetched": "2026-02-28T21:14:02.800590+07:00"
+    },
+    {
+      "id": "a212bfa5b5a26a2f45bd71117d9f248f",
+      "title": "51 học sinh Iran thiệt mạng trong đòn tập kích tên lửa của Israel",
+      "link": "https://vnexpress.net/israel-tuyen-bo-tap-kich-loat-cuoc-hop-cua-quan-chuc-cap-cao-iran-5045122.html",
+      "summary": "Quan chức Iran cho biết trường tiểu học ở huyện Minab, miền nam nước này, đã trúng đòn không kích của Israel, khiến ít nhất 51 học sinh thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T12:57:10+07:00",
+      "fetched": "2026-02-28T21:13:59.787387+07:00"
+    },
+    {
+      "id": "a212bfa5b5a26a2f45bd71117d9f248f",
+      "title": "51 học sinh Iran thiệt mạng trong đòn tập kích tên lửa của Israel",
+      "link": "https://vnexpress.net/israel-tuyen-bo-tap-kich-loat-cuoc-hop-cua-quan-chuc-cap-cao-iran-5045122.html",
+      "summary": "Quan chức Iran cho biết trường tiểu học ở huyện Minab, miền nam nước này, đã trúng đòn không kích của Israel, khiến ít nhất 51 học sinh thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T12:57:10+07:00",
+      "fetched": "2026-02-28T21:14:05.476928+07:00"
+    },
+    {
+      "id": "6495003f612e1953996a89b9dc87d9ca",
+      "title": "Iran kêu gọi Hội đồng Bảo an họp khẩn",
+      "link": "https://vnexpress.net/iran-keu-goi-hoi-dong-bao-an-hop-khan-5045119.html",
+      "summary": "Iran đề nghị Hội đồng Bảo an LHQ triệu tập cuộc họp khẩn cấp nhằm ngăn chặn \"hành động gây hấn\" của Mỹ và Israel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T12:51:17+07:00",
+      "fetched": "2026-02-28T21:13:59.787562+07:00"
+    },
+    {
+      "id": "6495003f612e1953996a89b9dc87d9ca",
+      "title": "Iran kêu gọi Hội đồng Bảo an họp khẩn",
+      "link": "https://vnexpress.net/iran-keu-goi-hoi-dong-bao-an-hop-khan-5045119.html",
+      "summary": "Iran đề nghị Hội đồng Bảo an LHQ triệu tập cuộc họp khẩn cấp nhằm ngăn chặn \"hành động gây hấn\" của Mỹ và Israel.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T12:51:17+07:00",
+      "fetched": "2026-02-28T21:14:05.477115+07:00"
+    },
+    {
+      "id": "ca08d391b8aa07bbee84413422a3bbe0",
+      "title": "Những mục tiêu hứng tên lửa khi Mỹ, Israel tập kích Iran",
+      "link": "https://vnexpress.net/nhung-muc-tieu-hung-ten-lua-khi-my-israel-tap-kich-iran-5045120.html",
+      "summary": "Mỹ và Israel tập kích mục tiêu ở nhiều thành phố Iran, trước khi Tehran trả đũa vào các căn cứ trên lãnh thổ Israel và nhiều nước Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T12:37:47+07:00",
+      "fetched": "2026-02-28T21:13:59.787722+07:00"
+    },
+    {
+      "id": "ca08d391b8aa07bbee84413422a3bbe0",
+      "title": "Những mục tiêu hứng tên lửa khi Mỹ, Israel tập kích Iran",
+      "link": "https://vnexpress.net/nhung-muc-tieu-hung-ten-lua-khi-my-israel-tap-kich-iran-5045120.html",
+      "summary": "Mỹ và Israel tập kích mục tiêu ở nhiều thành phố Iran, trước khi Tehran trả đũa vào các căn cứ trên lãnh thổ Israel và nhiều nước Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T12:37:47+07:00",
+      "fetched": "2026-02-28T21:14:05.477278+07:00"
+    },
+    {
+      "id": "a713577f075581ce030ab441df5add34",
+      "title": "Ông Trump kêu gọi Iran hạ vũ khí hoặc đối mặt với cái chết",
+      "link": "https://vnexpress.net/ong-trump-keu-goi-iran-ha-vu-khi-hoac-doi-mat-voi-cai-chet-5045113.html",
+      "summary": "Tổng thống Donald Trump tuyên bố Mỹ đã mở chiến dịch vào Iran sáng 28/2, kêu gọi các lực lượng nước này hạ vũ khí, nếu không sẽ phải trả giá bằng mạng sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T12:37:34+07:00",
+      "fetched": "2026-02-28T21:13:59.787897+07:00"
     },
     {
       "id": "8f7e8918ee13a94dbbf74ee7b759dca1",
@@ -1831,6 +2261,16 @@ window.newsData_2026_02_28 = {
       "category": "Thế giới",
       "published": "2026-02-28T06:37:24+07:00",
       "fetched": "2026-02-28T19:26:21.973945+07:00"
+    },
+    {
+      "id": "fdc99d16fcec08edb8d5fb1b7c5f09cb",
+      "title": "Mỹ - Israel tập kích Iran, Tehran phóng tên lửa đạn đạo trả đũa",
+      "link": "https://vnexpress.net/my-israel-tap-kich-iran-tehran-phong-ten-lua-dan-dao-tra-dua-5045024-tong-thuat.html",
+      "summary": "Israel phát động \"tấn công phủ đầu\" Iran, Tehran phóng tên lửa trả đũa nhằm vào lãnh thổ Israel và hàng loạt căn cứ Mỹ ở Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T06:37:24+07:00",
+      "fetched": "2026-02-28T21:14:05.478606+07:00"
     },
     {
       "id": "5fa98ab824f98b4cb5310da374d43334",
