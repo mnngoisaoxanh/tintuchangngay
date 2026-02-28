@@ -1,6 +1,6 @@
 window.newsData_2026_02_28 = {
   "date": "2026-02-28",
-  "lastUpdated": "2026-02-28T10:46:25.387833+07:00",
+  "lastUpdated": "2026-02-28T11:48:02.475810+07:00",
   "articles": [
     {
       "id": "6594ec5b3adc9153074acb7216fa20c9",
@@ -251,6 +251,176 @@ window.newsData_2026_02_28 = {
       "category": "Tổng hợp",
       "published": "2026-02-28T08:05:46.909013+07:00",
       "fetched": "2026-02-28T08:05:46.909233+07:00"
+    },
+    {
+      "id": "5b9ad73d5e32faaf22f75045c606ae67",
+      "title": "Nỗi hoang mang của người Iran trước bóng ma xung đột với Mỹ",
+      "link": "https://vnexpress.net/noi-hoang-mang-cua-nguoi-iran-truoc-bong-ma-xung-dot-voi-my-5044922.html",
+      "summary": "Hoang mang, lo âu, không biết phải làm gì đang là tâm trạng chung của nhiều người dân Iran trước nguy cơ nổ ra xung đột với Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T04:38:28+07:00",
+      "fetched": "2026-02-28T11:47:58.607376+07:00"
+    },
+    {
+      "id": "7c58bfca7750f58b7758e6e2d637d227",
+      "title": "Nuốt dầu thơm: Chỉ vài phút có thể dẫn đến ngộ độc, suy hô hấp",
+      "link": "https://thanhnien.vn/nuot-dau-thom-chi-vai-phut-co-the-dan-den-ngo-doc-suy-ho-hap-185260228105344634.htm",
+      "summary": "Một bé 4 tuổi vừa nhập viện cấp cứu tại Bệnh viện Đại học Y dược - Hoàng Anh Gia Lai do nuốt dầu thơm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T04:32:00+07:00",
+      "fetched": "2026-02-28T11:47:56.825928+07:00"
+    },
+    {
+      "id": "07eaf42ccaf929805520df5aa42766f9",
+      "title": "Ông Hoàng Minh Sơn được giao quyền Bộ trưởng Bộ GD-ĐT",
+      "link": "https://thanhnien.vn/ong-hoang-minh-son-duoc-giao-quyen-bo-truong-bo-gd-dt-185260228110614545.htm",
+      "summary": "Ông Hoàng Minh Sơn, Giám đốc Đại học Quốc gia Hà Nội, được giao quyền Bộ trưởng Bộ GD-ĐT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T04:25:00+07:00",
+      "fetched": "2026-02-28T11:47:56.826099+07:00"
+    },
+    {
+      "id": "800649342e671a63e199965d8ea744e0",
+      "title": "Trần Quyết Chiến so tài kịch tính với 'vua thời gian': Vào lúc nào, xem phát trực tiếp ở đâu?",
+      "link": "https://thanhnien.vn/tran-quyet-chien-so-tai-kich-tinh-voi-vua-thoi-gian-vao-luc-nao-xem-phat-truc-tiep-o-dau-185260228112043934.htm",
+      "summary": "Sau màn ngược dòng nghẹt thở trước đại diện chủ nhà Đức, Trần Quyết Chiến sẽ bước vào trận đấu quyết định tại bảng B giải vô địch billiards carom 3 băng đồng đội thế giới 2026 diễn ra vào chiều 28.2. Đối thủ của cơ thủ số 1 Việt Nam là Jeremy Bury - tay cơ người Pháp nổi tiếng với phong cách thi đấu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T04:22:00+07:00",
+      "fetched": "2026-02-28T11:47:56.826285+07:00"
+    },
+    {
+      "id": "a6290ec39c6a2617095796eba712d844",
+      "title": "Các nhà khoa học tìm ra cách kỳ lạ để đảo ngược bệnh tiểu đường",
+      "link": "https://thanhnien.vn/cac-nha-khoa-hoc-tim-ra-cach-ky-la-de-dao-nguoc-benh-tieu-duong-185260228111950045.htm",
+      "summary": "Trong nhiều năm qua, các nhà nghiên cứu đã quan sát thấy một xu hướng rõ rệt: Những người sống ở vùng cao, nơi không khí loãng hơn, nồng độ oxy thấp hơn, có tỷ lệ mắc bệnh tiểu đường thấp hơn so với ở đồng bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T04:19:00+07:00",
+      "fetched": "2026-02-28T11:47:56.826452+07:00"
+    },
+    {
+      "id": "1ae5284fef88935cb1850de2fcf042f5",
+      "title": "Bí thư Tỉnh ủy Lào Cai Trịnh Việt Hùng làm Thứ trưởng Bộ Nông nghiệp và Môi trường",
+      "link": "https://thanhnien.vn/bi-thu-tinh-uy-lao-cai-trinh-viet-hung-lam-thu-truong-bo-nong-nghiep-va-moi-truong-185260228110053221.htm",
+      "summary": "Ông Trịnh Việt Hùng, Bí thư Tỉnh ủy Lào Cai, được bổ nhiệm giữ chức Thứ trưởng thường trực Bộ Nông nghiệp và Môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T04:18:00+07:00",
+      "fetched": "2026-02-28T11:47:56.826608+07:00"
+    },
+    {
+      "id": "9dd7f0382e7ac6a49a0ef23253a993e9",
+      "title": "Panama khám xét công ty Hong Kong từng vận hành cảng chiến lược",
+      "link": "https://vnexpress.net/panama-kham-xet-cong-ty-hong-kong-tung-van-hanh-cang-chien-luoc-5044963.html",
+      "summary": "Giới chức Panama khám xét văn phòng địa phương thuộc tập đoàn CK Hutchison, công ty từng tham gia quản lý cảng tại kênh đào chiến lược ở nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T04:17:58+07:00",
+      "fetched": "2026-02-28T11:47:58.607556+07:00"
+    },
+    {
+      "id": "d36b449404c973b054d28046d4b2d4d8",
+      "title": "TP.HCM hướng dẫn thu phí vỉa hè: Không cho buôn bán, kinh doanh",
+      "link": "https://thanhnien.vn/tphcm-huong-dan-thu-phi-via-he-khong-cho-buon-ban-kinh-doanh-185260228103415833.htm",
+      "summary": "Theo hướng dẫn mới về thu phí vỉa hè, người dân TP.HCM được tổ chức đám ma, đám cưới, làm nơi trông giữ xe, tập kết vật liệu xây dựng trên vỉa hè.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T04:17:00+07:00",
+      "fetched": "2026-02-28T11:47:56.826760+07:00"
+    },
+    {
+      "id": "6c8aea8a5a3304718c6eec669647c7af",
+      "title": "Vỡ òa nhận lại đồng hồ Rolex 5.000 USD bị mất tại sân bay Đà Nẵng",
+      "link": "https://thanhnien.vn/vo-oa-nhan-lai-dong-ho-rolex-5000-usd-bi-mat-tai-san-bay-da-nang-185260228103943046.htm",
+      "summary": "Sơ ý bỏ quên chiếc đồng hồ Rolex trị giá khoảng 5.000 USD tại nhà ga sân bay Đà Nẵng, một hành khách đã được lực lượng công an cửa khẩu nhanh chóng tìm, trao trả lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T04:07:00+07:00",
+      "fetched": "2026-02-28T11:47:56.826909+07:00"
+    },
+    {
+      "id": "e0f773c0ba2276fcb5289424dccfd8ed",
+      "title": "Mỗi lượng vàng tăng 3 triệu lên 187 triệu đồng",
+      "link": "https://vnexpress.net/moi-luong-vang-tang-3-trieu-len-187-trieu-dong-5044971.html",
+      "summary": "Giá vàng và bạc trong nước sáng cuối tuần đồng loạt tăng theo diễn biến quốc tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-28T04:01:13+07:00",
+      "fetched": "2026-02-28T11:47:59.461709+07:00"
+    },
+    {
+      "id": "8e3480de0f31375233d3d31c1bcbe999",
+      "title": "Xem nhanh 12h: CSGT mở đường cấp cứu tài xế đột quỵ | Khi nào phải tự quyết toán thuế TNCN?",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-csgt-mo-duong-cap-cuu-tai-xe-dot-quy-khi-nao-phai-tu-quyet-toan-thue-tncn-185260228110229998.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Xem nhanh 12h ngày 28.2.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T04:01:00+07:00",
+      "fetched": "2026-02-28T11:47:56.827064+07:00"
+    },
+    {
+      "id": "e17223f6d45efefd6f18b8090ecf0fff",
+      "title": "Các đối thủ ủng hộ Anthropic trong cuộc chiến AI với Lầu Năm Góc",
+      "link": "https://vnexpress.net/cac-doi-thu-ung-ho-anthropic-trong-cuoc-chien-ai-voi-lau-nam-goc-5044962.html",
+      "summary": "Hàng trăm nhân viên Google và OpenAI kêu gọi công ty gác lại sự cạnh tranh để sát cánh cùng Anthropic trong cuộc đối đầu AI với Lầu Năm Góc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-28T04:00:00+07:00",
+      "fetched": "2026-02-28T11:48:01.405090+07:00"
+    },
+    {
+      "id": "ed46bf18f67e5a7911b7b037af90688b",
+      "title": "Tổng Bí thư Tô Lâm trao danh hiệu Anh hùng Lực lượng vũ trang nhân dân tặng Quân chủng Hải quân",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-trao-danh-hieu-anh-hung-luc-luong-vu-trang-nhan-dan-tang-quan-chung-hai-quan-18526022809502578.htm",
+      "summary": "Sáng 28.2, tại Hải Phòng, Quân chủng Hải quân (Bộ Quốc phòng) tổ chức lễ đón nhận danh hiệu Anh hùng Lực lượng vũ trang nhân dân lần thứ 3. Tổng Bí thư Tô Lâm, Bí thư Quân ủy T.Ư, dự và phát biểu chỉ đạo tại buổi lễ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T03:59:00+07:00",
+      "fetched": "2026-02-28T11:47:56.827236+07:00"
+    },
+    {
+      "id": "f03a12254615d8eaa1b853f704013d9c",
+      "title": "Phó tổng Thanh tra Chính phủ Dương Quốc Huy làm Bí thư Tỉnh ủy Lào Cai",
+      "link": "https://thanhnien.vn/pho-tong-thanh-tra-chinh-phu-duong-quoc-huy-lam-bi-thu-tinh-uy-lao-cai-185260228101227476.htm",
+      "summary": "Phó tổng Thanh tra Chính phủ Dương Quốc Huy được Bộ Chính trị điều động, phân công, chỉ định giữ chức Bí thư Tỉnh ủy Lào Cai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T03:53:00+07:00",
+      "fetched": "2026-02-28T11:47:56.827387+07:00"
+    },
+    {
+      "id": "e97a7a6076a098572c18659c958e0e30",
+      "title": "Lật thuyền trước khai mạc giải đua ghe trên phá Tam Giang, hai mẹ con tử vong",
+      "link": "https://thanhnien.vn/lat-thuyen-truoc-khai-mac-giai-dua-ghe-tren-pha-tam-giang-hai-me-con-tu-vong-185260228094740357.htm",
+      "summary": "Sự cố lật thuyền trên phá Tam Giang (địa phận phường Thuận An, thành phố Huế) khiến 2 mẹ con tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T03:52:00+07:00",
+      "fetched": "2026-02-28T11:47:56.827593+07:00"
+    },
+    {
+      "id": "df3b4cfb656865c0f6cad71e0dac0997",
+      "title": "Đáng sợ tin tặc có thể biến lốp xe ô tô thành thiết bị định vị",
+      "link": "https://thanhnien.vn/dang-so-tin-tac-co-the-bien-lop-xe-o-to-thanh-thiet-bi-dinh-vi-18526022810245295.htm",
+      "summary": "Cảnh báo chủ xe Toyota, Mercedes, Hyundai khi lốp xe đang âm thầm chỉ ra vị trí của họ cho tin tặc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T03:51:00+07:00",
+      "fetched": "2026-02-28T11:47:56.827750+07:00"
+    },
+    {
+      "id": "b55c8245c3c7cba1ba80d80d72385290",
+      "title": "10 hãng xe máy bán chạy nhất thế giới 2025",
+      "link": "https://vnexpress.net/10-hang-xe-may-ban-chay-nhat-the-gioi-2025-5044406.html",
+      "summary": "Honda thống trị làng xe hai bánh với mức bán khoảng 20,2 triệu chiếc, xếp sau là hãng Ấn Độ, Hero MotorCorp - 5,9 triệu, Yamaha - 4,8 triệu chiếc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T03:48:54+07:00",
+      "fetched": "2026-02-28T11:47:53.689739+07:00"
     },
     {
       "id": "7527d4876d0831edf0da7460a2e8a248",
