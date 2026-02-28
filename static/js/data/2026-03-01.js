@@ -1,7 +1,17 @@
 window.newsData_2026_03_01 = {
   "date": "2026-03-01",
-  "lastUpdated": "2026-03-01T03:15:22.980321+07:00",
+  "lastUpdated": "2026-03-01T05:13:42.157139+07:00",
   "articles": [
+    {
+      "id": "90e67e89e5322db19dd08e8f03620901",
+      "title": "Thủ tướng Israel: Lãnh tụ tối cao Iran 'có dấu hiệu không còn sống'",
+      "link": "https://tuoitre.vn/thu-tuong-israel-lanh-tu-toi-cao-iran-co-dau-hieu-khong-con-song-2026030102514703.htm",
+      "summary": "Lãnh đạo Israel nói nhiều dấu hiệu cho thấy Lãnh tụ tối cao Iran Ayatollah Ali Khamenei  không còn sống, trong khi quan chức Israel khẳng định đã tìm thấy thi thể ông Khamenei",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:13:36.338735+07:00",
+      "fetched": "2026-03-01T05:13:36.338952+07:00"
+    },
     {
       "id": "594683a6332dcfbd3a4a88f9df97de59",
       "title": "Đêm thứ Bảy bùng nổ của Premier League, 2 trận cầu 7 bàn thắng",
@@ -201,6 +211,116 @@ window.newsData_2026_03_01 = {
       "category": "Tổng hợp",
       "published": "2026-03-01T01:20:01.034249+07:00",
       "fetched": "2026-03-01T01:20:01.034464+07:00"
+    },
+    {
+      "id": "877490ce753fd09ff4a195a74150c543",
+      "title": "Chiến sự Ukraine ngày 1.466: Hai bên tổn thất 2.100 binh sĩ, Ukraine có tên lửa mới",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1466-hai-ben-ton-that-2100-binh-si-ukraine-co-ten-lua-moi-185260228212843132.htm",
+      "summary": "Nga và Ukraine công bố tổn thất trong ngày của đối phương, với con số tổng cộng lên đến 2.100 binh sĩ, trong khi Ukraine công bố cuộc phóng thử tên lửa đạn đạo FP-7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T22:00:00+07:00",
+      "fetched": "2026-03-01T05:13:35.404630+07:00"
+    },
+    {
+      "id": "7e8bbedb2c85a9524b9455a6d35848b2",
+      "title": "6 năm ròng rã từ Đồng Tháp lên TP.HCM chữa bệnh hiếm cho con",
+      "link": "https://thanhnien.vn/6-nam-rong-ra-tu-dong-thap-len-tphcm-chua-benh-hiem-cho-con-185260228175211116.htm",
+      "summary": "6 năm ròng đồng hành cùng con điều trị bệnh hiếm Pompe thể thiếu niên (bệnh rối loạn chuyển hóa do di truyền gen), người mẹ ở Đồng Tháp xúc động đưa con gái 21 tuổi tham gia Ngày hội Bệnh Hiếm lần thứ 5 với chủ đề \"Thắp Sáng Ước Mơ\" tại Bệnh viện Nhi Đồng 1 (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T22:00:00+07:00",
+      "fetched": "2026-03-01T05:13:35.404804+07:00"
+    },
+    {
+      "id": "79c8f36b161492aa0dc6fb51750c5a9a",
+      "title": "Hôm nay bắt đầu tháng 3 dương lịch: Một ngày đặc biệt xuất hiện vào tháng này",
+      "link": "https://thanhnien.vn/hom-nay-bat-dau-thang-3-duong-lich-mot-ngay-dac-biet-xuat-hien-vao-thang-nay-185260228115343967.htm",
+      "summary": "Hôm nay 1.3 là ngày đầu tiên của tháng 3 dương lịch. Theo lịch âm, lịch vạn niên ngày này có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T22:00:00+07:00",
+      "fetched": "2026-03-01T05:13:35.404961+07:00"
+    },
+    {
+      "id": "888a64cac6a9142f8858cc40578773a5",
+      "title": "Thông điệp cứng rắn của Mexico khi diệt trùm ma túy",
+      "link": "https://vnexpress.net/thong-diep-cung-ran-cua-mexico-khi-diet-trum-ma-tuy-5044925.html",
+      "summary": "Cuộc đột kích hạ sát El Mencho đánh dấu bước ngoặt trong chiến lược an ninh của Tổng thống Sheinbaum, giữa áp lực từ Mỹ và vòng xoáy bạo lực đe dọa Mexico.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T22:00:00+07:00",
+      "fetched": "2026-03-01T05:13:37.984153+07:00"
+    },
+    {
+      "id": "0130dca6595c2dbf8b971463f253136a",
+      "title": "Ông Trump tuyên bố Lãnh tụ Tối cao Iran 'đã thiệt mạng'",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-lanh-tu-toi-cao-iran-da-thiet-mang-5045172.html",
+      "summary": "Tổng thống Donald Trump nói rằng Lãnh tụ Tối cao Iran Ali Khamenei đã thiệt mạng sau đợt không kích của Israel và Mỹ, Tehran chưa lên tiếng về thông tin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T21:50:36+07:00",
+      "fetched": "2026-03-01T05:13:37.984331+07:00"
+    },
+    {
+      "id": "92bc858130498efaed4b4b64d6074710",
+      "title": "Toan tính của Mỹ khi cùng Israel tấn công Iran",
+      "link": "https://thanhnien.vn/toan-tinh-cua-my-khi-cung-israel-tan-cong-iran-185260228230158105.htm",
+      "summary": "Hôm qua (28.2), trong một diễn biến không quá bất ngờ, Israel và Mỹ thông báo tấn công quân sự nhằm vào Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:40:00+07:00",
+      "fetched": "2026-03-01T05:13:35.405130+07:00"
+    },
+    {
+      "id": "4acc0333a9067612ff12c9e3a1fd7d7c",
+      "title": "Việt Nam vào bán kết billiard đồng đội thế giới",
+      "link": "https://vnexpress.net/viet-nam-vao-ban-ket-billiard-dong-doi-the-gioi-5045166.html",
+      "summary": "Trần Quyết Chiến và Nguyễn Trần Thanh Tự giúp Việt Nam loại cựu vương Thổ Nhĩ Kỳ ở tứ kết carom 3 băng đồng đội thế giới 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T21:33:16+07:00",
+      "fetched": "2026-03-01T05:13:42.152237+07:00"
+    },
+    {
+      "id": "527a3d43d60b84fe50a4d6aa39aecdfd",
+      "title": "Thủ tướng Phạm Văn Đồng với Anh hùng Hồ Giáo",
+      "link": "https://thanhnien.vn/thu-tuong-pham-van-dong-voi-anh-hung-ho-giao-185260228151041691.htm",
+      "summary": "Trong lễ truy điệu cố Thủ tướng Phạm Văn Đồng ngày 6.5.2000 tại Hà Nội, giữa dòng người đến viếng có một cụ già ăn mặc giản dị, lặng lẽ bước lên thắp hương trước linh cữu. Đó là Anh hùng lao động Hồ Giáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:30:00+07:00",
+      "fetched": "2026-03-01T05:13:35.405284+07:00"
+    },
+    {
+      "id": "51b596fab7e568a3ac68c307314de2df",
+      "title": "Yamal lập hat-trick giúp Barca thắng lớn",
+      "link": "https://vnexpress.net/yamal-lap-hat-trick-giup-barca-thang-lon-5045151.html",
+      "summary": "Lamine Yamal ghi cả ba bàn trong trận Barca thắng Villarreal 4-1 ở vòng 26 La Liga, tối 28/2.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T21:28:17+07:00",
+      "fetched": "2026-03-01T05:13:42.152414+07:00"
+    },
+    {
+      "id": "afcb14b6ba41cc003020d7c11e754451",
+      "title": "Đội tuyển futsal nữ Việt Nam thành cựu vô địch khu vực, tranh HCĐ với Indonesia ngày nào?",
+      "link": "https://thanhnien.vn/doi-tuyen-futsal-nu-viet-nam-thanh-cuu-vo-dich-khu-vuc-tranh-hcd-voi-indonesia-ngay-nao-185260228222505265.htm",
+      "summary": "Nhận thất bại trước 'kỳ phùng địch thủ' Thái Lan trong trận bán kết tối qua 28.2, đội tuyển futsal nữ VN chính thức khép lại hành trình bảo vệ ngôi hậu khu vực Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:17:00+07:00",
+      "fetched": "2026-03-01T05:13:35.405432+07:00"
+    },
+    {
+      "id": "87e2948b66468446114e919aa788243d",
+      "title": "Người hồi sinh những cánh buồm trên vịnh Hạ Long",
+      "link": "https://vnexpress.net/nguoi-hoi-sinh-nhung-canh-buom-tren-vinh-ha-long-5040557.html",
+      "summary": "77 tuổi, nghệ nhân Lê Đức Chắn miệt mài gò buồm, dựng lái, hồi sinh cánh buồm ba vách cánh dơi trên vịnh Hạ Long sau nhiều thập kỷ bị quên lãng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T21:00:00+07:00",
+      "fetched": "2026-03-01T05:13:32.342752+07:00"
     },
     {
       "id": "fe6ceb29d92c4b67c9ca2ea585160ff7",
