@@ -1,7 +1,107 @@
 window.newsData_2026_02_28 = {
   "date": "2026-02-28",
-  "lastUpdated": "2026-02-28T05:14:45.051639+07:00",
+  "lastUpdated": "2026-02-28T08:05:55.298434+07:00",
   "articles": [
+    {
+      "id": "0340458d6316fc511d10aae09796f6a6",
+      "title": "Thời tiết hôm nay 28-2: Bắc Bộ sương mù, Nam Bộ giảm mưa, nắng nóng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-28-2-bac-bo-suong-mu-nam-bo-giam-mua-nang-nong-20260227162324763.htm",
+      "summary": "Hôm nay 28-2, mưa trái mùa ở miền Nam giảm, nắng quay trở lại. Bắc Bộ sáng sương mù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:05:46.910103+07:00",
+      "fetched": "2026-02-28T08:05:46.910195+07:00"
+    },
+    {
+      "id": "fdab0d35fb397c5ef170670b2bdcb0ea",
+      "title": "Làng cờ Trung Quốc rúng động khi 'xa luân chiến' cũng không hạ được Lại Lý Huynh",
+      "link": "https://tuoitre.vn/lang-co-trung-quoc-rung-dong-khi-xa-luan-chien-cung-khong-ha-duoc-lai-ly-huynh-2026022721422907.htm",
+      "summary": "\"Quá ấn tượng\", \"Xứng danh kỳ vương thế giới\"... là những lời cảm thán mà làng cờ tướng Trung Quốc dành cho chiến tích của Lại Lý Huynh, khi anh giành vé vào bán kết ở \"siêu giải đấu\" Ngũ Dương Bôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:05:46.909998+07:00",
+      "fetched": "2026-02-28T08:05:46.910094+07:00"
+    },
+    {
+      "id": "2e3573a95985c8d69aa01117246a86d8",
+      "title": "Sân bay Liên Khương tạm đóng cửa từ 4-3: Du khách đi cách nào đến Đà Lạt?",
+      "link": "https://tuoitre.vn/san-bay-lien-khuong-tam-dong-cua-tu-4-3-du-khach-di-cach-nao-den-da-lat-20260227224212771.htm",
+      "summary": "Từ 0h ngày 4-3 đến hết 25-8, sân bay Liên Khương tạm đóng để sửa chữa. Du khách đến Đà Lạt chuyển sang đường bộ hoặc bay đến Cam Ranh rồi đi xe, lưu ý khung giờ đèo Khánh Lê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:05:46.909899+07:00",
+      "fetched": "2026-02-28T08:05:46.909989+07:00"
+    },
+    {
+      "id": "a547b199a5d29abec04ecc030eb635f0",
+      "title": "Lịch trực tiếp bán kết Giải futsal nữ Đông Nam Á 2026: Việt Nam đấu Thái Lan",
+      "link": "https://tuoitre.vn/lich-truc-tiep-ban-ket-giai-futsal-nu-dong-nam-a-2026-viet-nam-dau-thai-lan-20260227154321407.htm",
+      "summary": "Lúc 18h30 hôm nay (28-2), tuyển futsal nữ Việt Nam sẽ chạm trán Thái Lan ở bán kết thứ 2 Giải futsal nữ Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:05:46.909802+07:00",
+      "fetched": "2026-02-28T08:05:46.909891+07:00"
+    },
+    {
+      "id": "13a1f03612fe34977b058cb436ac2a41",
+      "title": "Người phụ nữ 'chèo lái' Bệnh viện Hùng Vương vươn tầm quốc tế",
+      "link": "https://tuoitre.vn/nguoi-phu-nu-cheo-lai-benh-vien-hung-vuong-vuon-tam-quoc-te-20260227223647791.htm",
+      "summary": "Từ một bệnh viện gặp nhiều khó khăn, Bệnh viện Hùng Vương hôm nay đã vươn mình mạnh mẽ, tiệm cận các chuẩn mực quốc tế. Phía sau hành trình ấy là dấu ấn của người nữ giám đốc tận tâm, bản lĩnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:05:46.909701+07:00",
+      "fetched": "2026-02-28T08:05:46.909794+07:00"
+    },
+    {
+      "id": "5b2a01158c3e1983cf2a4ca79ac6f28c",
+      "title": "Lịch thi đấu của tuyển nữ Việt Nam tại Giải bóng đá nữ châu Á 2026",
+      "link": "https://tuoitre.vn/lich-thi-dau-cua-tuyen-nu-viet-nam-tai-giai-bong-da-nu-chau-a-2026-20260227110056127.htm",
+      "summary": "Tuyển nữ Việt Nam sẽ lần lượt chạm trán Ấn Độ, Đài Bắc Trung Hoa, và Nhật Bản ở vòng bảng Giải bóng đá nữ châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:05:46.909597+07:00",
+      "fetched": "2026-02-28T08:05:46.909692+07:00"
+    },
+    {
+      "id": "f318b363b6483173ce9a26c60f439d15",
+      "title": "Tin tức sáng 28-2: Đề xuất nâng hạn mức bảo hiểm tiền gửi gần gấp 3; Biến động nhân sự ở Vinaconex",
+      "link": "https://tuoitre.vn/tin-tuc-sang-28-2-de-xuat-nang-han-muc-bao-hiem-tien-gui-gan-gap-3-bien-dong-nhan-su-o-vinaconex-20260227215853322.htm",
+      "summary": "Tin tức đáng chú ý: Đề xuất nâng hạn mức chi trả bảo hiểm tiền gửi lên gần gấp 3 lần; Tiếp tục biến động nhân sự ở Vinaconex...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:05:46.909477+07:00",
+      "fetched": "2026-02-28T08:05:46.909587+07:00"
+    },
+    {
+      "id": "8640227e37927363fcb2aa8c0d381825",
+      "title": "Lịch trực tiếp V-League vòng 14: Rực lửa derby TP.HCM và thủ đô",
+      "link": "https://tuoitre.vn/lich-truc-tiep-v-league-vong-14-ruc-lua-derby-tp-hcm-va-thu-do-20260226155253719.htm",
+      "summary": "Vòng 14 V-League 2025-2026 sẽ chứng kiến nhiều cặp đấu hấp dẫn, đặc biệt là 2 trận derby TP.HCM và thủ đô Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:05:46.909371+07:00",
+      "fetched": "2026-02-28T08:05:46.909467+07:00"
+    },
+    {
+      "id": "f6403e494924d2522f03f32258d6d54e",
+      "title": "Tin tức thế giới 28-2: Ông Trump thất vọng với Iran; Ông Bill Clinton điều trần vụ Epstein",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-28-2-ong-trump-that-vong-voi-iran-ong-bill-clinton-dieu-tran-vu-epstein-20260228051908396.htm",
+      "summary": "Ông Trump thất vọng với Iran, song Oman thấy được bước đột phá; Mỹ ủng hộ quyền tự vệ của Pakistan trước chính quyền Taliban ở Afghanistan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:05:46.909247+07:00",
+      "fetched": "2026-02-28T08:05:46.909360+07:00"
+    },
+    {
+      "id": "bd715f15cd7341cd2ae1d2f1d7195fcd",
+      "title": "Đối thủ của Lại Lý Huynh sẽ là 'kỳ vương khuyết tật'",
+      "link": "https://tuoitre.vn/doi-thu-cua-lai-ly-huynh-se-la-ky-vuong-khuyet-tat-20260227220519563.htm",
+      "summary": "Đối thủ của Lại Lý Huynh ở vòng bán kết siêu giải cờ tướng Ngũ Dương Bôi là Triệu Phàn Vĩ, một kỳ thủ Trung Quốc nổi danh với câu chuyện vượt lên nghịch cảnh vô cùng phi thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:05:46.909013+07:00",
+      "fetched": "2026-02-28T08:05:46.909233+07:00"
+    },
     {
       "id": "518d4140b292de477cc2486449048158",
       "title": "Tăng cường phối hợp với Vùng Cảnh sát biển 3 để giữ vững chủ quyền biển đảo",
@@ -153,6 +253,406 @@ window.newsData_2026_02_28 = {
       "fetched": "2026-02-28T01:29:26.653467+07:00"
     },
     {
+      "id": "1fb3a7c4a3e71b1215a081617e529144",
+      "title": "Nên ăn trái cây lúc bụng đói hay sau bữa ăn: Bạn có đang làm sai?",
+      "link": "https://thanhnien.vn/nen-an-trai-cay-luc-bung-doi-hay-sau-bua-an-ban-co-dang-lam-sai-185260228080446432.htm",
+      "summary": "Thêm trái cây vào chế độ ăn uống sẽ hỗ trợ sức khỏe tổng thể. Đó là sự bổ sung thông minh vì trái cây ít calo, nhiều chất xơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:04:00+07:00",
+      "fetched": "2026-02-28T08:05:45.784686+07:00"
+    },
+    {
+      "id": "92476f7dfa20f1a1ebf05b88d856eaec",
+      "title": "Mỹ ủng hộ Pakistan không kích Afghanistan",
+      "link": "https://vnexpress.net/my-ung-ho-pakistan-khong-kich-afghanistan-5044913.html",
+      "summary": "Mỹ tuyên bố ủng hộ \"quyền tự vệ\" của Pakistan, sau khi Islamabad tuyên bố \"chiến tranh không hạn chế\" và mở chiến dịch không kích nước láng giềng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T01:00:51+07:00",
+      "fetched": "2026-02-28T08:05:48.671944+07:00"
+    },
+    {
+      "id": "6e8ebf549ab4ddeb4d55957896e47b19",
+      "title": "Giá vàng tăng, nhiều cặp đôi 'đứng hình' chuyện cưới hỏi",
+      "link": "https://thanhnien.vn/gia-vang-tang-nhieu-cap-doi-dung-hinh-chuyen-cuoi-hoi-18526022717181166.htm",
+      "summary": "Giá vàng tăng cao khiến nhiều cặp đôi chưa thể tiến tới hôn nhân. Nhiều chàng trai lo sợ nhà gái… sốt ruột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:00:00+07:00",
+      "fetched": "2026-02-28T08:05:45.784840+07:00"
+    },
+    {
+      "id": "1e5fe96b0ae986de65ba8dbd202c8054",
+      "title": "Phối đồ chuẩn xu hướng với những món đồ tone sur tone",
+      "link": "https://thanhnien.vn/thoi-trang-tre/phoi-do-chuan-xu-huong-voi-nhung-mon-do-tone-sur-tone-185260226181355959.htm",
+      "summary": "Việc mặc đẹp giờ đây dễ dàng hơn với những set đồ tone sur tone, khi chỉ cần khéo léo lựa chọn các gam màu cùng sắc độ là có ngay bản phối tinh tế, không cầu kỳ nhưng vẫn đủ để tôn lên phong cách cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:00:00+07:00",
+      "fetched": "2026-02-28T08:05:45.784972+07:00"
+    },
+    {
+      "id": "bdd784473f98a55c558718921a059366",
+      "title": "Bóng đá Malaysia bất lợi khi cuộc chiến pháp lý kéo dài",
+      "link": "https://thanhnien.vn/bong-da-malaysia-bat-loi-khi-cuoc-chien-phap-ly-keo-dai-185260227190706559.htm",
+      "summary": "Việc Tòa án Trọng tài Thể thao (CAS) bất ngờ hoãn ra quyết định trong vụ Liên đoàn Bóng đá Malaysia (FAM) kiện FIFA cho thấy độ phức tạp về mặt pháp lý cao đến mức nào. Đương nhiên, đây không phải là điều có lợi cho FAM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:50:00+07:00",
+      "fetched": "2026-02-28T08:05:45.785102+07:00"
+    },
+    {
+      "id": "7a8cda8c3214873f1b43060a746daa4c",
+      "title": "Loạt nước châu Âu kêu gọi công dân rời Trung Đông",
+      "link": "https://vnexpress.net/loat-nuoc-chau-au-keu-goi-cong-dan-roi-trung-dong-5044915.html",
+      "summary": "Nhiều quốc gia châu Âu kêu gọi công dân sơ tán hoặc tránh đến Iran và một số nước Trung Đông, lo ngại tình hình khu vực xấu đi nhanh chóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:47:46+07:00",
+      "fetched": "2026-02-28T08:05:42.327748+07:00"
+    },
+    {
+      "id": "7a8cda8c3214873f1b43060a746daa4c",
+      "title": "Loạt nước châu Âu kêu gọi công dân rời Trung Đông",
+      "link": "https://vnexpress.net/loat-nuoc-chau-au-keu-goi-cong-dan-roi-trung-dong-5044915.html",
+      "summary": "Nhiều quốc gia châu Âu kêu gọi công dân sơ tán hoặc tránh đến Iran và một số nước Trung Đông, lo ngại tình hình khu vực xấu đi nhanh chóng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T00:47:46+07:00",
+      "fetched": "2026-02-28T08:05:48.672103+07:00"
+    },
+    {
+      "id": "40e20a0e399f9f1f7d742e8f34fa56f4",
+      "title": "Lợi ích của giấc ngủ sâu",
+      "link": "https://thanhnien.vn/loi-ich-cua-giac-ngu-sau-185260228074611697.htm",
+      "summary": "Giấc ngủ không chỉ giúp cơ thể nghỉ ngơi mà còn đóng vai trò thải độc. Quá trình làm sạch mạnh mẽ nhất của cơ thể diễn ra khi ngủ sâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:46:00+07:00",
+      "fetched": "2026-02-28T08:05:45.785226+07:00"
+    },
+    {
+      "id": "69b7b3ae87a0f714db4033888385a321",
+      "title": "'Gia tài' đặc biệt của Ngọc Sơn ở tuổi 58",
+      "link": "https://thanhnien.vn/gia-tai-dac-biet-cua-ngoc-son-o-tuoi-58-185260228004726616.htm",
+      "summary": "Ngọc Sơn vừa có những trải lòng về nghề, đồng thời hé lộ gia tài đặc biệt được cha mẹ cất công gìn giữ suốt mấy chục năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:43:00+07:00",
+      "fetched": "2026-02-28T08:05:45.785349+07:00"
+    },
+    {
+      "id": "cbbe6bc4323a49e91f480260ced89bce",
+      "title": "TP.HCM tiên phong mô hình Trung tâm y học Tái tạo và Phục hồi hướng đến lão khoa toàn diện",
+      "link": "https://thanhnien.vn/tphcm-tien-phong-mo-hinh-trung-tam-y-hoc-tai-tao-va-phuc-hoi-huong-den-lao-khoa-toan-dien-185260227130212248.htm",
+      "summary": "Ngày 26.02.2026, Bệnh viện Thống Nhất chính thức đưa vào hoạt động Trung tâm y học Tái tạo và Phục hồi - đơn vị chuyên môn tích hợp đa chuyên khoa, hướng đến điều trị, phục hồi chức năng và nâng cao chất lượng sống cho người bệnh, đặc biệt là người cao tuổi, trong chiến lược phát triển bệnh viện the...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:42:00+07:00",
+      "fetched": "2026-02-28T08:05:45.785472+07:00"
+    },
+    {
+      "id": "9a9311e0aad1d5350b7f1b43ac947927",
+      "title": "Ông Trump tẩy chay AI Claude của Anthropic",
+      "link": "https://thanhnien.vn/ong-trump-tay-chay-ai-claude-cua-anthropic-185260228071047982.htm",
+      "summary": "Tổng thống Mỹ Donald Trump hôm 27.2 cho biết đã yêu cầu mọi cơ quan liên bang ngừng làm việc với phòng thí nghiệm trí tuệ nhân tạo (AI) Anthropic, trong khi Lầu Năm Góc xếp công ty này vào nhóm rủi ro chuỗi cung ứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:41:00+07:00",
+      "fetched": "2026-02-28T08:05:45.785609+07:00"
+    },
+    {
+      "id": "d5e8540e260cfc5beaaa7cdc52d0bee9",
+      "title": "Con gái Quyền Linh chia sẻ cuộc sống đời thường, hút hàng triệu lượt xem",
+      "link": "https://thanhnien.vn/con-gai-quyen-linh-chia-se-cuoc-song-doi-thuong-hut-hang-trieu-luot-xem-185260227211245724.htm",
+      "summary": "Chia sẻ về cuộc sống đời thường thông qua clip ngắn, Lọ Lem nhận được sự quan tâm của cộng đồng mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:40:00+07:00",
+      "fetched": "2026-02-28T08:05:45.785737+07:00"
+    },
+    {
+      "id": "44d295a739ee4dede6923e6ab447408c",
+      "title": "Ông Trump 'không vui' với tiến trình đàm phán Mỹ - Iran",
+      "link": "https://thanhnien.vn/ong-trump-khong-vui-voi-tien-trinh-dam-phan-my-iran-185260228071836683.htm",
+      "summary": "Tổng thống Mỹ Donald Trump bày tỏ sự thất vọng trước lập trường của Iran trong các cuộc đàm phán thỏa thuận hạt nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:37:00+07:00",
+      "fetched": "2026-02-28T08:05:45.785859+07:00"
+    },
+    {
+      "id": "31f0b121df4247008155ebf6c48399fe",
+      "title": "Chính phủ yêu cầu không chậm trễ việc triển khai phối trộn, sử dụng xăng sinh học",
+      "link": "https://thanhnien.vn/chinh-phu-yeu-cau-khong-cham-tre-viec-trien-khai-phoi-tron-su-dung-xang-sinh-hoc-185260228005058078.htm",
+      "summary": "Chiều 27.2, Văn phòng Chính phủ có công văn truyền đạt ý kiến chỉ đạo của Phó thủ tướng Bùi Thanh Sơn, gửi quyền Bộ trưởng Bộ Công thương về triển khai lộ trình sản xuất, phối trộn và sử dụng nhiên liệu sinh học tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:35:00+07:00",
+      "fetched": "2026-02-28T08:05:45.785979+07:00"
+    },
+    {
+      "id": "9aac056e625059e0fe0ec15e5dde0d5f",
+      "title": "Bác sĩ: Sai lầm khi uống nước khiến thận âm thầm yếu đi",
+      "link": "https://thanhnien.vn/bac-si-sai-lam-khi-uong-nuoc-khien-than-am-tham-yeu-di-185260228073053967.htm",
+      "summary": "Hầu hết mọi người nghĩ rằng uống nước rất đơn giản: Khát thì uống, không khát thì thôi. Tuy nhiên, thận không đơn giản như vậy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:30:00+07:00",
+      "fetched": "2026-02-28T08:05:45.786097+07:00"
+    },
+    {
+      "id": "1caf6f6f17757ec8baef02c35e76cb36",
+      "title": "Man Utd có cơ hội lên thứ ba Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-co-co-hoi-len-thu-ba-ngoai-hang-anh-5044917.html",
+      "summary": "Aston Villa thua 0-2 trên sân đội bét bảng Wolves ở trận đấu sớm nhất vòng 28 Ngoại hạng Anh và nguy cơ mất vị trí thứ ba vào tay Man Utd.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:20:39+07:00",
+      "fetched": "2026-02-28T08:05:42.327911+07:00"
+    },
+    {
+      "id": "1caf6f6f17757ec8baef02c35e76cb36",
+      "title": "Man Utd có cơ hội lên thứ ba Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-co-co-hoi-len-thu-ba-ngoai-hang-anh-5044917.html",
+      "summary": "Aston Villa thua 0-2 trên sân đội bét bảng Wolves ở trận đấu sớm nhất vòng 28 Ngoại hạng Anh và nguy cơ mất vị trí thứ ba vào tay Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T00:20:39+07:00",
+      "fetched": "2026-02-28T08:05:55.293023+07:00"
+    },
+    {
+      "id": "5027fac54f6f9ff51357ae5eb9dd4628",
+      "title": "Không thể quên người đàn ông khiến bao phụ nữ khao khát có được",
+      "link": "https://vnexpress.net/khong-the-quen-nguoi-dan-ong-khien-bao-phu-nu-khao-khat-co-duoc-5044741.html",
+      "summary": "Người đàn ông từng đi qua cuộc đời tôi là người tôi yêu nhất và cũng chính anh là người khiến tôi đau đớn nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:18:53+07:00",
+      "fetched": "2026-02-28T08:05:42.328056+07:00"
+    },
+    {
+      "id": "3c4c99d3f707a4f8f59325e7031ecc8f",
+      "title": "GĐĐH tuyển Malaysia lạc quan sau 12 tiếng điều trần ở CAS",
+      "link": "https://vnexpress.net/gddh-tuyen-malaysia-lac-quan-sau-12-tieng-dieu-tran-o-cas-5044465.html",
+      "summary": "Giám đốc Điều hành Rob Friend cảm nhận được sự tích cực sau phiên điều trần tại Tòa án Trọng tài Thể thao (CAS) về vụ 7 cầu thủ Malaysia gian lận nhập tịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:17:25+07:00",
+      "fetched": "2026-02-28T08:05:42.328199+07:00"
+    },
+    {
+      "id": "3c4c99d3f707a4f8f59325e7031ecc8f",
+      "title": "GĐĐH tuyển Malaysia lạc quan sau 12 tiếng điều trần ở CAS",
+      "link": "https://vnexpress.net/gddh-tuyen-malaysia-lac-quan-sau-12-tieng-dieu-tran-o-cas-5044465.html",
+      "summary": "Giám đốc Điều hành Rob Friend cảm nhận được sự tích cực sau phiên điều trần tại Tòa án Trọng tài Thể thao (CAS) về vụ 7 cầu thủ Malaysia gian lận nhập tịch.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T00:17:25+07:00",
+      "fetched": "2026-02-28T08:05:55.293179+07:00"
+    },
+    {
+      "id": "97e3f409fb1e5000e81d7bf9313fe250",
+      "title": "Cựu tổng thống Clinton điều trần về tỷ phú ấu dâm Epstein",
+      "link": "https://vnexpress.net/cuu-tong-thong-clinton-dieu-tran-ve-ty-phu-au-dam-epstein-5044904.html",
+      "summary": "Cựu tổng thống Bill Clinton tuyên bố không biết về các hành động phạm tội của Epstein và khẳng định bản thân không làm sai điều gì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:10:28+07:00",
+      "fetched": "2026-02-28T08:05:42.328333+07:00"
+    },
+    {
+      "id": "97e3f409fb1e5000e81d7bf9313fe250",
+      "title": "Cựu tổng thống Clinton điều trần về tỷ phú ấu dâm Epstein",
+      "link": "https://vnexpress.net/cuu-tong-thong-clinton-dieu-tran-ve-ty-phu-au-dam-epstein-5044904.html",
+      "summary": "Cựu tổng thống Bill Clinton tuyên bố không biết về các hành động phạm tội của Epstein và khẳng định bản thân không làm sai điều gì.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T00:10:28+07:00",
+      "fetched": "2026-02-28T08:05:48.672249+07:00"
+    },
+    {
+      "id": "f8881f38d75ab944f60d1e146089fd57",
+      "title": "HLV Chelsea háo hức chạm trán PSG ở vòng 1/8 Champions League",
+      "link": "https://vnexpress.net/hlv-chelsea-hao-huc-cham-tran-psg-o-vong-1-8-champions-league-5044907.html",
+      "summary": "HLV Liam Rosenior phấn khích và ngưỡng mộ đồng nghiệp Luis Enrique khi Chelsea chạm trán PSG tại vòng 1/8 Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:09:22+07:00",
+      "fetched": "2026-02-28T08:05:42.328465+07:00"
+    },
+    {
+      "id": "f8881f38d75ab944f60d1e146089fd57",
+      "title": "HLV Chelsea háo hức chạm trán PSG ở vòng 1/8 Champions League",
+      "link": "https://vnexpress.net/hlv-chelsea-hao-huc-cham-tran-psg-o-vong-1-8-champions-league-5044907.html",
+      "summary": "HLV Liam Rosenior phấn khích và ngưỡng mộ đồng nghiệp Luis Enrique khi Chelsea chạm trán PSG tại vòng 1/8 Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T00:09:22+07:00",
+      "fetched": "2026-02-28T08:05:55.293317+07:00"
+    },
+    {
+      "id": "afdaa34f0d27c938d6abd893082b2d54",
+      "title": "Guardiola: 'Đại chiến Real giúp Man City hoàn thiện hơn'",
+      "link": "https://vnexpress.net/guardiola-dai-chien-real-giup-man-city-hoan-thien-hon-5044905.html",
+      "summary": "HLV Pep Guardiola khẳng định việc chạm trán Real Madrid ở vòng 1/8 Champions League là thử thách cần thiết để Man City tích lũy kinh nghiệm và trưởng thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:06:31+07:00",
+      "fetched": "2026-02-28T08:05:42.328625+07:00"
+    },
+    {
+      "id": "afdaa34f0d27c938d6abd893082b2d54",
+      "title": "Guardiola: 'Đại chiến Real giúp Man City hoàn thiện hơn'",
+      "link": "https://vnexpress.net/guardiola-dai-chien-real-giup-man-city-hoan-thien-hon-5044905.html",
+      "summary": "HLV Pep Guardiola khẳng định việc chạm trán Real Madrid ở vòng 1/8 Champions League là thử thách cần thiết để Man City tích lũy kinh nghiệm và trưởng thành.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T00:06:31+07:00",
+      "fetched": "2026-02-28T08:05:55.293449+07:00"
+    },
+    {
+      "id": "1a8cb9b2ee6c51fa467b5480200e1328",
+      "title": "So màn hình riêng tư của Galaxy S26 Ultra với miếng dán chống nhìn trộm",
+      "link": "https://thanhnien.vn/so-man-hinh-rieng-tu-cua-galaxy-s26-ultra-voi-mieng-dan-chong-nhin-trom-185260227165845496.htm",
+      "summary": "Một trong những điểm nhấn đáng chú ý trên Galaxy S26 Ultra là tính năng màn hình riêng tư tích hợp ở cấp độ phần cứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:06:00+07:00",
+      "fetched": "2026-02-28T08:05:45.786212+07:00"
+    },
+    {
+      "id": "0096b605ec8fa1fc96831373fcd2c98f",
+      "title": "Arteta 'hạ nhiệt' giấc mơ ăn bốn của Arsenal",
+      "link": "https://vnexpress.net/arteta-ha-nhiet-giac-mo-an-bon-cua-arsenal-5044901.html",
+      "summary": "Sau lễ bốc thăm vòng 1/8 Champions League, HLV Mikel Arteta khẳng định chưa nghĩ đến kịch bản giành cú ăn bốn, dù Arsenal đang dẫn đầu Ngoại hạng Anh và có cơ hội tiến sâu ở châu Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:02:50+07:00",
+      "fetched": "2026-02-28T08:05:42.328763+07:00"
+    },
+    {
+      "id": "0096b605ec8fa1fc96831373fcd2c98f",
+      "title": "Arteta 'hạ nhiệt' giấc mơ ăn bốn của Arsenal",
+      "link": "https://vnexpress.net/arteta-ha-nhiet-giac-mo-an-bon-cua-arsenal-5044901.html",
+      "summary": "Sau lễ bốc thăm vòng 1/8 Champions League, HLV Mikel Arteta khẳng định chưa nghĩ đến kịch bản giành cú ăn bốn, dù Arsenal đang dẫn đầu Ngoại hạng Anh và có cơ hội tiến sâu ở châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T00:02:50+07:00",
+      "fetched": "2026-02-28T08:05:55.293594+07:00"
+    },
+    {
+      "id": "5141ce7e6e25f3299be8c0e849e588ca",
+      "title": "Giá heo hơi hôm nay 28.2.2026: Rút ngắn khoảng cách khu vực",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-2822026-rut-ngan-khoang-cach-khu-vuc-18526022720523883.htm",
+      "summary": "Giá heo hơi ở nhiều tỉnh thành miền Bắc giảm xuống dưới mốc 70.000 đồng/kg, trong khi miền Nam vẫn đứng yên; khiến khoảng cách giá giữa các khu vực được rút ngắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:01:00+07:00",
+      "fetched": "2026-02-28T08:05:45.786328+07:00"
+    },
+    {
+      "id": "e9a0363d6d35a5a3dc4891b672ff48f9",
+      "title": "'Nhà sư robot' thuyết giảng, tư vấn cho phật tử",
+      "link": "https://vnexpress.net/nha-su-robot-thuyet-giang-tu-van-cho-phat-tu-5044871.html",
+      "summary": "Buddharoid – nhà sư robot do Đại học Kyoto phát triển, được tích hợp AI để thuyết giảng và đưa ra lời khuyên cho phật tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:00:00+07:00",
+      "fetched": "2026-02-28T08:05:42.328891+07:00"
+    },
+    {
+      "id": "4d6549f1911c694d09a7af97b04a853f",
+      "title": "Cả nhà 'gục' vì cúm sau Tết",
+      "link": "https://vnexpress.net/ca-nha-guc-vi-cum-sau-tet-5043968.html",
+      "summary": "Tuần cuối tháng 2, chị Linh ngồi chờ lấy thuốc cho con tại một phòng khám ở Hà Nội, mắt thâm quầng vì mất ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:00:00+07:00",
+      "fetched": "2026-02-28T08:05:42.329023+07:00"
+    },
+    {
+      "id": "e4c6336e568f1b96e160b540edb880fa",
+      "title": "Xe dễ mất lái khi vượt nếu tài xế 'không biết lượng sức'",
+      "link": "https://vnexpress.net/xe-de-mat-lai-khi-vuot-neu-tai-xe-khong-biet-luong-suc-5044757.html",
+      "summary": "Tốc độ cao, thao tác gấp và yếu tố bất ngờ khiến việc vượt xe trở thành thời điểm ôtô dễ mất lái nhất trên đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:00:00+07:00",
+      "fetched": "2026-02-28T08:05:42.329167+07:00"
+    },
+    {
+      "id": "568ea191ac5982076e4aaf3ba52f74ba",
+      "title": "Sẽ có các thuốc ung thư thế hệ mới được quỹ BHYT thanh toán",
+      "link": "https://thanhnien.vn/se-co-cac-thuoc-ung-thu-the-he-moi-duoc-quy-bhyt-thanh-toan-185260227190254998.htm",
+      "summary": "Vụ Bảo hiểm y tế (Bộ Y tế) cho biết đang phối hợp các cơ quan, đơn vị liên quan hoàn thiện dự thảo sửa đổi bổ sung Thông tư số 20/2022/TT-BYT, rà soát, cập nhật, sửa đổi bổ sung đề xuất cập nhật, sửa đổi bổ sung danh mục thuốc bảo hiểm y tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:00:00+07:00",
+      "fetched": "2026-02-28T08:05:45.786447+07:00"
+    },
+    {
+      "id": "2fce3315c6cf2f5fe32bfdea04eea5ed",
+      "title": "Arsenal được dự đoán vô địch Champions League",
+      "link": "https://vnexpress.net/arsenal-duoc-du-doan-vo-dich-champions-league-5044914.html",
+      "summary": "Siêu máy tính của Opta đưa ra tỷ lệ vô địch Champions League cao nhất cho Arsenal, sau kết quả bốc thăm giai đoạn còn lại ở vòng knock-out.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T23:59:53+07:00",
+      "fetched": "2026-02-28T08:05:42.329293+07:00"
+    },
+    {
+      "id": "2fce3315c6cf2f5fe32bfdea04eea5ed",
+      "title": "Arsenal được dự đoán vô địch Champions League",
+      "link": "https://vnexpress.net/arsenal-duoc-du-doan-vo-dich-champions-league-5044914.html",
+      "summary": "Siêu máy tính của Opta đưa ra tỷ lệ vô địch Champions League cao nhất cho Arsenal, sau kết quả bốc thăm giai đoạn còn lại ở vòng knock-out.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-27T23:59:53+07:00",
+      "fetched": "2026-02-28T08:05:55.293742+07:00"
+    },
+    {
+      "id": "0f2d4c335559f635a7f1eb3695b759f9",
+      "title": "Mỹ đưa Iran vào danh sách 'quốc gia bảo hộ giam giữ sai trái'",
+      "link": "https://vnexpress.net/my-dua-iran-vao-danh-sach-quoc-gia-bao-ho-giam-giu-sai-trai-5044902.html",
+      "summary": "Ngoại trưởng Rubio thông báo Mỹ sẽ coi Iran là quốc gia bảo trợ hoạt động giam giữ sai trái, yêu cầu nước này \"ngừng bắt giữ con tin\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T23:53:12+07:00",
+      "fetched": "2026-02-28T08:05:42.329431+07:00"
+    },
+    {
+      "id": "0f2d4c335559f635a7f1eb3695b759f9",
+      "title": "Mỹ đưa Iran vào danh sách 'quốc gia bảo hộ giam giữ sai trái'",
+      "link": "https://vnexpress.net/my-dua-iran-vao-danh-sach-quoc-gia-bao-ho-giam-giu-sai-trai-5044902.html",
+      "summary": "Ngoại trưởng Rubio thông báo Mỹ sẽ coi Iran là quốc gia bảo trợ hoạt động giam giữ sai trái, yêu cầu nước này \"ngừng bắt giữ con tin\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T23:53:12+07:00",
+      "fetched": "2026-02-28T08:05:48.672385+07:00"
+    },
+    {
+      "id": "27c86a9e9aea4f4554f7a3242431619a",
+      "title": "Người mua nhà lao đao vì lãi suất tăng vọt",
+      "link": "https://vnexpress.net/nguoi-mua-nha-lao-dao-vi-lai-suat-tang-vot-5044895.html",
+      "summary": "Đang gồng khoản vay 2,6 tỷ đồng với mức lãi 11%, anh Quân kiệt sức khi nhận thông báo lãi suất kỳ tới chính thức chạm mốc 13%, buộc phải tính chuyện bán nhà cắt lỗ để thoát bẫy nợ vay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T23:35:57+07:00",
+      "fetched": "2026-02-28T08:05:42.329579+07:00"
+    },
+    {
+      "id": "bb01757a42e94f75cde0a6e5d48fba9e",
+      "title": "Vợ chồng nghèo cắt đất, tặng nhà cho hàng xóm",
+      "link": "https://vnexpress.net/vo-chong-ngheo-cat-dat-tang-nha-cho-hang-xom-5044896.html",
+      "summary": "Dù mưu sinh bằng nghề nhặt phế liệu, vợ chồng ông Thụ vẫn quyết định cắt 50 m2 đất tặng người hàng xóm mắc bạo bệnh để chị có chốn an cư sau 13 năm lang bạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T23:30:00+07:00",
+      "fetched": "2026-02-28T08:05:42.329717+07:00"
+    },
+    {
       "id": "40fdd88013ce249bf631f307eaf2e3b5",
       "title": "Cuba liên lạc với Mỹ sau vụ bắn tàu",
       "link": "https://thanhnien.vn/cuba-lien-lac-voi-my-sau-vu-ban-tau-185260227211554781.htm",
@@ -191,6 +691,16 @@ window.newsData_2026_02_28 = {
       "category": "Công nghệ",
       "published": "2026-02-27T22:00:00+07:00",
       "fetched": "2026-02-28T05:14:43.752626+07:00"
+    },
+    {
+      "id": "b5416be8665cc126300ae443285dc65d",
+      "title": "Doanh nghiệp Việt tận dụng 'khoảng đệm' khi Mỹ áp thuế bổ sung 10%",
+      "link": "https://vnexpress.net/doanh-nghiep-viet-tan-dung-khoang-dem-khi-my-ap-thue-bo-sung-10-5044705.html",
+      "summary": "Mỹ ngừng thu thuế theo IEEPA, áp mức bổ sung 10% tạo \"khoảng đệm\" để hàng Việt giảm chi phí, song rủi ro cạnh tranh dài hạn vẫn hiện hữu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-27T21:50:12+07:00",
+      "fetched": "2026-02-28T08:05:50.489916+07:00"
     },
     {
       "id": "48099a0d0b1293a2e362cff331f76b7e",
