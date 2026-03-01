@@ -1,7 +1,77 @@
 window.newsData_2026_03_02 = {
   "date": "2026-03-02",
-  "lastUpdated": "2026-03-02T01:20:52.299455+07:00",
+  "lastUpdated": "2026-03-02T03:15:50.766841+07:00",
   "articles": [
+    {
+      "id": "688fbd5b3a7b288c156f384f328b4ce9",
+      "title": "Israel thả 2.000 quả bom xuống Iran, Mỹ cho máy bay tàng hình B-2 tham chiến",
+      "link": "https://tuoitre.vn/israel-tha-2-000-qua-bom-xuong-iran-my-cho-may-bay-tang-hinh-b-2-tham-chien-20260301234909246.htm",
+      "summary": "Iran tuyên bố tấn công các tàu chở dầu Mỹ và Anh; Mỹ dùng máy bay ném bom tàng hình B-2 tấn công Iran... Tuổi Trẻ Online tiếp tục cập nhật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T03:15:43.289030+07:00",
+      "fetched": "2026-03-02T03:15:43.289165+07:00"
+    },
+    {
+      "id": "0d7d4063d4b8570f3fb9f920aff4c391",
+      "title": "Hội đồng lãnh đạo lâm thời đang điều hành Iran gồm những ai?",
+      "link": "https://tuoitre.vn/hoi-dong-lanh-dao-lam-thoi-dang-dieu-hanh-iran-gom-nhung-ai-20260302003509203.htm",
+      "summary": "Iran đã công bố kế hoạch chuyển tiếp quyền lực sau khi Lãnh tụ tối cao Ali Khamenei thiệt mạng trong vụ tấn công của Mỹ và Israel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T03:15:43.288904+07:00",
+      "fetched": "2026-03-02T03:15:43.289019+07:00"
+    },
+    {
+      "id": "c4df954aee280691283fbd2864210595",
+      "title": "Hàng chục lãnh đạo Iran thiệt mạng 'chỉ trong một phút'",
+      "link": "https://tuoitre.vn/hang-chuc-lanh-dao-iran-thiet-mang-chi-trong-mot-phut-20260302010111717.htm",
+      "summary": "Israel khẳng định mục tiêu của chiến dịch tấn công là nhằm xóa sổ bộ máy lãnh đạo quân sự và tình báo của Tehran. Và dường như họ đã đạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T03:15:43.288777+07:00",
+      "fetched": "2026-03-02T03:15:43.288892+07:00"
+    },
+    {
+      "id": "30fd85a553542c3dc2df81f689d8cd05",
+      "title": "Cuộc tấn công của Mỹ vào Iran: Dân Mỹ nghĩ gì?",
+      "link": "https://tuoitre.vn/cuoc-tan-cong-cua-my-vao-iran-dan-my-nghi-gi-20260302013156217.htm",
+      "summary": "Theo thăm dò của Hãng tin Reuters/Ipsos, chỉ 1/4 người Mỹ ủng hộ các cuộc tấn công của Mỹ nhằm vào Iran, trong khi khoảng một nửa cho rằng ông Trump có xu hướng dễ dàng dùng sức mạnh quân sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T03:15:43.288645+07:00",
+      "fetched": "2026-03-02T03:15:43.288765+07:00"
+    },
+    {
+      "id": "c741d9f4497d4d5092de3064c809a566",
+      "title": "Trần Quyết Chiến, Nguyễn Trần Thanh Tự giúp Việt Nam vô địch thế giới",
+      "link": "https://tuoitre.vn/tran-quyet-chien-nguyen-tran-thanh-tu-giup-viet-nam-vo-dich-the-gioi-20260302015856592.htm",
+      "summary": "Rạng sáng 2-3, hai tay cơ Việt Nam là Trần Quyết Chiến và Nguyễn Trần Thanh Tự đã vô địch Giải billiards carom 3 băng đồng đội thế giới sau chiến thắng ở chung kết trước đôi của chủ nhà Đức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T03:15:43.288507+07:00",
+      "fetched": "2026-03-02T03:15:43.288633+07:00"
+    },
+    {
+      "id": "57d5f033348213ef7f3c0bc34197395f",
+      "title": "Truyền thông Iran: Hàng chục VĐV bóng chuyền nữ thiệt mạng vì không kích",
+      "link": "https://tuoitre.vn/truyen-thong-iran-hang-chuc-vdv-bong-chuyen-nu-thiet-mang-vi-khong-kich-20260301234204769.htm",
+      "summary": "Truyền thông của Iran và khu vực Trung Đông đưa tin nhiều VĐV bóng chuyền nữ đã qua đời sau những cuộc không kích từ phía Mỹ và Israel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T03:15:43.288355+07:00",
+      "fetched": "2026-03-02T03:15:43.288494+07:00"
+    },
+    {
+      "id": "398b4d18d908e09b3d1623c53f4d64eb",
+      "title": "Arsenal hạ Chelsea, 3 bàn thắng đến từ phạt góc",
+      "link": "https://tuoitre.vn/arsenal-ha-chelsea-3-ban-thang-den-tu-phat-goc-20260302015858464.htm",
+      "summary": "Rạng sáng 2-3, Arsenal đã đánh bại Chelsea 2-1 ở trận cầu tâm điểm vòng 28 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T03:15:43.288066+07:00",
+      "fetched": "2026-03-02T03:15:43.288336+07:00"
+    },
     {
       "id": "62fcd2e20f86d15687dfb3e89e1ac156",
       "title": "Từ đêm mai, miền Bắc đón không khí lạnh",
@@ -153,6 +223,96 @@ window.newsData_2026_03_02 = {
       "fetched": "2026-03-02T01:20:45.500876+07:00"
     },
     {
+      "id": "4986509b67751d446101258d638e9abe",
+      "title": "Ấn tượng tài trí kỳ thủ Lại Lý Huynh",
+      "link": "https://thanhnien.vn/an-tuong-tai-tri-ky-thu-lai-ly-huynh-185260301220306538.htm",
+      "summary": "Sau mốc son lần đầu vô địch giải cờ tướng thế giới vào năm ngoái, kỳ thủ số 1 VN Lại Lý Huynh lại gây tiếng vang với danh hiệu á quân giải Ngũ Dương Bôi danh giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:23:00+07:00",
+      "fetched": "2026-03-02T03:15:42.197858+07:00"
+    },
+    {
+      "id": "9505e603cce7b4f3731860102854e8d0",
+      "title": "Hà Nội giao hơn 7.400 m2 đất làm dự án nhà thấp tầng",
+      "link": "https://vnexpress.net/ha-noi-giao-hon-7-400-m2-dat-lam-du-an-nha-thap-tang-5045294.html",
+      "summary": "Hơn 7.400 m2 đất tại xã Thanh Trì được giao cho công ty Đầu tư Fortune để làm dự án nhà ở thấp tầng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:14:47+07:00",
+      "fetched": "2026-03-02T03:15:38.811673+07:00"
+    },
+    {
+      "id": "ab69db915577fe05a07552b11ee4c060",
+      "title": "Giá dầu có thể lên 100 USD do xung đột ở Iran",
+      "link": "https://vnexpress.net/gia-dau-co-the-len-100-usd-do-xung-dot-o-iran-5045404.html",
+      "summary": "Dầu Brent tăng 10% lên 80 USD một thùng trong phiên OTC, báo hiệu nhiều khả năng giá leo lên 100 USD khi mở cửa giao dịch chính thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:10:03+07:00",
+      "fetched": "2026-03-02T03:15:38.811849+07:00"
+    },
+    {
+      "id": "ab69db915577fe05a07552b11ee4c060",
+      "title": "Giá dầu có thể lên 100 USD do xung đột ở Iran",
+      "link": "https://vnexpress.net/gia-dau-co-the-len-100-usd-do-xung-dot-o-iran-5045404.html",
+      "summary": "Dầu Brent tăng 10% lên 80 USD một thùng trong phiên OTC, báo hiệu nhiều khả năng giá leo lên 100 USD khi mở cửa giao dịch chính thức.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-01T19:10:03+07:00",
+      "fetched": "2026-03-02T03:15:46.706744+07:00"
+    },
+    {
+      "id": "b4ce209ce52efc45ded107b5a9aa542f",
+      "title": "Dubai như 'thành phố ma' sau các đợt tập kích của Iran",
+      "link": "https://vnexpress.net/dubai-nhu-thanh-pho-ma-sau-cac-dot-tap-kich-cua-iran-5045394.html",
+      "summary": "Đường phố Dubai vắng bóng người, cao tốc thưa thớt xe cộ và bầu trời không còn máy bay liên tục cất hạ cánh do xung đột khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:00:00+07:00",
+      "fetched": "2026-03-02T03:15:38.812014+07:00"
+    },
+    {
+      "id": "b4ce209ce52efc45ded107b5a9aa542f",
+      "title": "Dubai như 'thành phố ma' sau các đợt tập kích của Iran",
+      "link": "https://vnexpress.net/dubai-nhu-thanh-pho-ma-sau-cac-dot-tap-kich-cua-iran-5045394.html",
+      "summary": "Đường phố Dubai vắng bóng người, cao tốc thưa thớt xe cộ và bầu trời không còn máy bay liên tục cất hạ cánh do xung đột khu vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-01T19:00:00+07:00",
+      "fetched": "2026-03-02T03:15:44.772615+07:00"
+    },
+    {
+      "id": "fb3b2ca8ae608314257e4e7da72daa9b",
+      "title": "Việt Nam thắng Đức, vô địch billiard đồng đội thế giới",
+      "link": "https://vnexpress.net/viet-nam-thang-duc-vo-dich-billiard-dong-doi-the-gioi-5045426.html",
+      "summary": "Trần Quyết Chiến và Nguyễn Trần Thanh Tự giúp Việt Nam lần thứ hai vô địch carom 3 băng đồng đội thế giới, sau khi thắng Đức ở chung kết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T18:52:14+07:00",
+      "fetched": "2026-03-02T03:15:38.812199+07:00"
+    },
+    {
+      "id": "fb3b2ca8ae608314257e4e7da72daa9b",
+      "title": "Việt Nam thắng Đức, vô địch billiard đồng đội thế giới",
+      "link": "https://vnexpress.net/viet-nam-thang-duc-vo-dich-billiard-dong-doi-the-gioi-5045426.html",
+      "summary": "Trần Quyết Chiến và Nguyễn Trần Thanh Tự giúp Việt Nam lần thứ hai vô địch carom 3 băng đồng đội thế giới, sau khi thắng Đức ở chung kết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-01T18:52:14+07:00",
+      "fetched": "2026-03-02T03:15:50.761716+07:00"
+    },
+    {
+      "id": "4d0ca10f44c9b6bff4c55be5b4627d0a",
+      "title": "Nhà thầu thay công nghệ, đẩy nhanh tiến độ cao tốc Bắc Nam",
+      "link": "https://vnexpress.net/nha-thau-thay-cong-nghe-day-nhanh-tien-do-cao-toc-bac-nam-4995494.html",
+      "summary": "Tại dự án cao tốc Bắc Nam, đoạn Vũng Áng - Bùng đi qua Quảng Trị, nhà thầu Phương Thành đã bỏ chi phí 40 tỷ đồng thay đổi phương án xử lý nền đất yếu, hoàn thành cao tốc theo kế hoạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:58:01+07:00",
+      "fetched": "2026-03-02T03:15:38.812361+07:00"
+    },
+    {
       "id": "2fc133bf9de1a262cba8776a1bd7f85b",
       "title": "Nam Định 3-2 Ninh Bình",
       "link": "https://vnexpress.net/nam-dinh-3-2-ninh-binh-5045423.html",
@@ -231,6 +391,26 @@ window.newsData_2026_03_02 = {
       "category": "Kinh doanh",
       "published": "2026-03-01T17:05:00+07:00",
       "fetched": "2026-03-02T01:20:48.738702+07:00"
+    },
+    {
+      "id": "f0d40243ba2a102b7937b0fa6b9ba5cf",
+      "title": "Hệ lụy của AI khi 'cha đẻ' Twitter sa thải một nửa nhân sự tại Block",
+      "link": "https://vnexpress.net/he-luy-cua-ai-khi-cha-de-twitter-sa-thai-mot-nua-nhan-su-tai-block-5045340.html",
+      "summary": "Đồng sáng lập Twitter thông báo sa thải 4.000 nhân sự tại Block vì AI, làm dấy lên lo ngại về nguy cơ mất việc hàng loạt, tương tự ngành sản xuất những năm 2000.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:05:00+07:00",
+      "fetched": "2026-03-02T03:15:38.812835+07:00"
+    },
+    {
+      "id": "f0d40243ba2a102b7937b0fa6b9ba5cf",
+      "title": "Hệ lụy của AI khi 'cha đẻ' Twitter sa thải một nửa nhân sự tại Block",
+      "link": "https://vnexpress.net/he-luy-cua-ai-khi-cha-de-twitter-sa-thai-mot-nua-nhan-su-tai-block-5045340.html",
+      "summary": "Đồng sáng lập Twitter thông báo sa thải 4.000 nhân sự tại Block vì AI, làm dấy lên lo ngại về nguy cơ mất việc hàng loạt, tương tự ngành sản xuất những năm 2000.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-01T17:05:00+07:00",
+      "fetched": "2026-03-02T03:15:46.706918+07:00"
     },
     {
       "id": "7ef2ae4544ec00e982dd6c42ef97df72",
