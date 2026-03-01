@@ -1,7 +1,117 @@
 window.newsData_2026_03_01 = {
   "date": "2026-03-01",
-  "lastUpdated": "2026-03-01T19:28:31.330545+07:00",
+  "lastUpdated": "2026-03-01T21:16:14.927567+07:00",
   "articles": [
+    {
+      "id": "242fb59c35baf28fc72d856b6b77fc69",
+      "title": "Cà Mau giải thể 5 trung tâm y tế khu vực",
+      "link": "https://tuoitre.vn/ca-mau-giai-the-5-trung-tam-y-te-khu-vuc-20260301180909418.htm",
+      "summary": "Ngày 1-3, UBND tỉnh Cà Mau quyết định giải thể 5 trung tâm y tế khu vực không có giường bệnh (trực thuộc Sở Y tế) gồm Trung tâm Y tế khu vực Cà Mau, Đầm Dơi, Năm Căn, Trần Văn Thời và Cái Nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T21:16:08.458921+07:00",
+      "fetched": "2026-03-01T21:16:08.459043+07:00"
+    },
+    {
+      "id": "f7317fea2f492bed53a3d3fcc5e7d31e",
+      "title": "Xử lý nhóm tung tin thất thiệt về công an để gây rối trật tự công cộng, chống người thi hành công vụ",
+      "link": "https://tuoitre.vn/xu-ly-nhom-tung-tin-that-thiet-ve-cong-an-de-gay-roi-trat-tu-cong-cong-chong-nguoi-thi-hanh-cong-vu-20260301183332326.htm",
+      "summary": "Ngày 1-3, Công an tỉnh Thanh Hóa cho biết đang xác minh, điều tra nhóm thanh niên tung tin thất thiệt về lực lượng công an, gây rối trật tự công cộng, chống người thi hành công vụ gây hoang mang dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T21:16:08.458782+07:00",
+      "fetched": "2026-03-01T21:16:08.458908+07:00"
+    },
+    {
+      "id": "cd9e6bfe6db400e895857dc001dfe292",
+      "title": "Thủ tướng kiểm tra các dự án cao tốc, thăm khu tái định cư tại đông Đắk Lắk",
+      "link": "https://tuoitre.vn/thu-tuong-kiem-tra-cac-du-an-cao-toc-tham-khu-tai-dinh-cu-tai-dong-dak-lak-20260301152840504.htm",
+      "summary": "Thủ tướng Phạm Minh Chính cùng đoàn công tác đã kiểm tra tiến độ các dự án thành phần cao tốc qua đông Đắk Lắk (trước là Phú Yên), thăm hỏi các gia đình bị thiệt hại do mưa lũ cuối 2025 và đã được hỗ trợ xây dựng nhà trong \"Chiến dịch Quang Trung\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T21:16:08.458659+07:00",
+      "fetched": "2026-03-01T21:16:08.458771+07:00"
+    },
+    {
+      "id": "aa4d9b625af69f4dfbc8787510a35ba9",
+      "title": "Chiến sự leo thang tại Trung Đông, doanh nghiệp lữ hành Việt căng mình xoay xở",
+      "link": "https://tuoitre.vn/chien-su-leo-thang-tai-trung-dong-doanh-nghiep-lu-hanh-viet-cang-minh-xoay-so-20260301173300921.htm",
+      "summary": "Chiến sự leo thang tại Trung Đông đang gây sức ép trực tiếp lên hàng không và du lịch quốc tế. Không phận một số quốc gia bị hạn chế hoặc đóng cửa, nhiều chuyến bay quá cảnh qua Dubai, Abu Dhabi... thay đổi giờ khai thác, thậm chí hủy chuyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T21:16:08.458535+07:00",
+      "fetched": "2026-03-01T21:16:08.458648+07:00"
+    },
+    {
+      "id": "f85025f872a58c21d217ff4d4e6b9acd",
+      "title": "Các hãng hàng không hủy nhiều chuyến bay giữa Việt Nam với Trung Đông",
+      "link": "https://tuoitre.vn/cac-hang-hang-khong-huy-nhieu-chuyen-bay-giua-viet-nam-voi-trung-dong-20260301191601043.htm",
+      "summary": "Do nhiều nước tại khu vực Trung Đông đóng cửa không phận bởi giao tranh quân sự giữa Mỹ - Israel và Iran, nhiều hãng hàng không đã hủy chuyến bay giữa Việt Nam và Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T21:16:08.458413+07:00",
+      "fetched": "2026-03-01T21:16:08.458524+07:00"
+    },
+    {
+      "id": "330dd7b229068c4f58dafe88087830c6",
+      "title": "Những ngôi chùa hot nhất dịp rằm tháng giêng ở Hà Nội",
+      "link": "https://tuoitre.vn/nhung-ngoi-chua-hot-nhat-dip-ram-thang-gieng-o-ha-noi-20260301191324434.htm",
+      "summary": "Bỏ túi những địa điểm hot nhất dịp rằm tháng giêng ở Hà Nội. Ngoài Phủ Tây Hồ, còn có chùa Quán Sứ, chùa Phúc Khánh, đền Quán Thánh, chùa Trấn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T21:16:08.458287+07:00",
+      "fetched": "2026-03-01T21:16:08.458401+07:00"
+    },
+    {
+      "id": "ec19194ae0c4df54968fba0ad03feb62",
+      "title": "Nhật Bản tính tăng phí xử lý thị thực gấp 5 lần",
+      "link": "https://tuoitre.vn/nhat-ban-tinh-tang-phi-xu-ly-thi-thuc-gap-5-lan-20260301195157778.htm",
+      "summary": "Du khách nước ngoài đến Nhật Bản trong năm 2026 sẽ phải chi 'bạo' hơn, trong bối cảnh nước này tăng các mức phí liên quan đến xử lý thị thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T21:16:08.458158+07:00",
+      "fetched": "2026-03-01T21:16:08.458275+07:00"
+    },
+    {
+      "id": "ab94e928d13bf215cd850555aa6392a2",
+      "title": "Làng cờ Trung Quốc mong Lại Lý Huynh 'năm nào cũng được đặc cách dự giải'",
+      "link": "https://tuoitre.vn/lang-co-trung-quoc-mong-lai-ly-huynh-nam-nao-cung-duoc-dac-cach-du-giai-20260301160204749.htm",
+      "summary": "Dù không thể lên ngôi vô địch, Lại Lý Huynh vẫn để lại dấu ấn sâu đậm ngay trong lần đầu tiên tham dự giải cờ tướng danh giá Ngũ Dương Bôi của Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T21:16:08.458030+07:00",
+      "fetched": "2026-03-01T21:16:08.458147+07:00"
+    },
+    {
+      "id": "076d138af65b41d65acc9b342e82e738",
+      "title": "TP.HCM lấy ý kiến Bộ Xây dựng thống nhất công nghệ metro Bến Thành - Thủ Thiêm",
+      "link": "https://tuoitre.vn/tp-hcm-lay-y-kien-bo-xay-dung-thong-nhat-cong-nghe-metro-ben-thanh-thu-thiem-20260301200028648.htm",
+      "summary": "Metro số 2 đoạn Bến Thành - Thủ Thiêm dài 6,2km sẽ được TP.HCM triển khai theo hình thức công trình cấp bách, phải thực hiện ngay và có kế hoạch khởi công trước 20-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T21:16:08.457875+07:00",
+      "fetched": "2026-03-01T21:16:08.458017+07:00"
+    },
+    {
+      "id": "9938ce580d6514385db86788a621ed45",
+      "title": "Video: Hậu vệ Ninh Bình ‘nã đại bác’ cháy lưới Thép Xanh Nam Định",
+      "link": "https://tuoitre.vn/video-hau-ve-ninh-binh-na-dai-bac-chay-luoi-thep-xanh-nam-dinh-20260301201422485.htm",
+      "summary": "Hậu vệ Đỗ Thanh Thịnh (27 tuổi) sút xa táo bạo, tạo nên siêu phẩm “nã đại bác” vào lưới Thép Xanh Nam Định, mở tỉ số cho CLB Ninh Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T21:16:08.457733+07:00",
+      "fetched": "2026-03-01T21:16:08.457862+07:00"
+    },
+    {
+      "id": "8ad8a2ad6fd421a88c3daed2811d3d67",
+      "title": "Trần Quyết Chiến hạ huyền thoại billiards, lần thứ 3 liên tiếp vào chung kết thế giới",
+      "link": "https://tuoitre.vn/tran-quyet-chien-ha-huyen-thoai-billiards-lan-thu-3-lien-tiep-vao-chung-ket-the-gioi-20260301202149145.htm",
+      "summary": "Tối 1-3, tại bán kết Giải billiards carom 3 băng đồng đội thế giới 2026, Trần Quyết Chiến tiếp tục giúp đội Việt Nam giành chiến thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T21:16:08.457502+07:00",
+      "fetched": "2026-03-01T21:16:08.457719+07:00"
+    },
     {
       "id": "7ea56ee208bb565ec1d5879ce55d275d",
       "title": "Du khách thích thú với vườn cao su đang thay lá ở TP.HCM",
@@ -453,6 +563,76 @@ window.newsData_2026_03_01 = {
       "fetched": "2026-03-01T15:20:20.913676+07:00"
     },
     {
+      "id": "8cc335a339684149682c1cf8ef9bb737",
+      "title": "Highlight CLB Bắc Ninh 3-2 CLB Quảng Ninh: Ngược dòng kịch tính",
+      "link": "https://thanhnien.vn/highlight-clb-bac-ninh-3-2-clb-quang-ninh-nguoc-dong-kich-tinh-185260301205213406.htm",
+      "summary": "CLB Bắc Ninh lội ngược dòng đầy cảm xúc để đánh bại CLB Quảng Ninh 3-2, tạo nên màn rượt đuổi kịch tính đến những phút cuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:52:00+07:00",
+      "fetched": "2026-03-01T21:16:06.872989+07:00"
+    },
+    {
+      "id": "b091b1d9a824b240c1710d5091da82e4",
+      "title": "HLV Hải Phòng buồn ngẩn ngơ vì thua ngược ngay tại Lạch Tray, HLV Thanh Hóa lại ngóng… FIFA",
+      "link": "https://thanhnien.vn/hlv-hai-phong-buon-ngan-ngo-vi-thua-nguoc-ngay-tai-lach-tray-hlv-thanh-hoa-lai-ngong-fifa-185260301204329724.htm",
+      "summary": "Vòng 14 V-League chứng kiến màn rượt đuổi nghẹt thở khi CLB Thanh Hóa gỡ hòa 3-3 trước CLB Hải Phòng tại Lạch Tray. Sau trận, 2 HLV có những chia sẻ thẳng thắn về bước ngoặt khi đội chủ nhà dẫn 3-1 rồi đánh rơi chiến thắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:51:00+07:00",
+      "fetched": "2026-03-01T21:16:06.873157+07:00"
+    },
+    {
+      "id": "ba8b6bd3e4b8963bc673ada0ea6dbc12",
+      "title": "Highlight CLB Phú Thọ 2-0 CLB TP.HCM: Chủ nhà thắng dễ",
+      "link": "https://thanhnien.vn/highlight-clb-phu-tho-2-0-clb-tphcm-chu-nha-thang-de-185260301204942054.htm",
+      "summary": "CLB Phú Thọ tận dụng tốt lợi thế sân nhà để đánh bại CLB TP.HCM 2-0, kiểm soát thế trận và giành 3 điểm thuyết phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:49:00+07:00",
+      "fetched": "2026-03-01T21:16:06.873311+07:00"
+    },
+    {
+      "id": "e005c8bc39c9bc4cc99a02d38eebcbcf",
+      "title": "Highlight Trẻ PVF-CAND 7-0 CLB Thanh niên TP.HCM: Quá áp đảo",
+      "link": "https://thanhnien.vn/highlight-tre-pvf-cand-7-0-clb-thanh-nien-tphcm-qua-ap-dao-185260301204813743.htm",
+      "summary": "Trẻ PVF-CAND thể hiện sức mạnh vượt trội khi vùi dập CLB Thanh niên TP.HCM 7-0, tạo nên thế trận một chiều và chiến thắng đậm nhất vòng đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:48:00+07:00",
+      "fetched": "2026-03-01T21:16:06.873460+07:00"
+    },
+    {
+      "id": "83416deffaa7a19a731f5ab970d63425",
+      "title": "Highlight CLB Nam Định 3-2 CLB Ninh Bình: Xuân Son tỏa sáng, đương kim vô địch ngược dòng ngoạn mục",
+      "link": "https://thanhnien.vn/highlight-clb-nam-dinh-3-2-clb-ninh-binh-xuan-son-toa-sang-duong-kim-vo-dich-nguoc-dong-ngoan-muc-185260301204555589.htm",
+      "summary": "CLB Nam Định bị dẫn trước nhưng bùng nổ trong hiệp 2, với dấu ấn đậm nét của Xuân Son để ngược dòng thắng CLB Ninh Bình 3-2 ở vòng 14 V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:45:00+07:00",
+      "fetched": "2026-03-01T21:16:06.873677+07:00"
+    },
+    {
+      "id": "efb1199ea66f32a5481ec9833309634a",
+      "title": "Rộn ràng Quan Thánh tuần du Chợ Lớn",
+      "link": "https://thanhnien.vn/ron-rang-quan-thanh-tuan-du-cho-lon-185260301200743522.htm",
+      "summary": "Sáng 1.3.2026 (tức mùng 13 tháng Giêng), tại Hội quán Nghĩa An (P.An Đông, TP.HCM), hàng trăm người dân và du khách đã cùng tham gia Lễ Nghinh Ông Quan Thánh Đế Quân tuần du – một trong những nghi lễ tín ngưỡng quan trọng bậc nhất của cộng đồng người Hoa tại Chợ Lớn. Không chỉ là hoạt động cầu an đầ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:45:00+07:00",
+      "fetched": "2026-03-01T21:16:06.873853+07:00"
+    },
+    {
+      "id": "8c31cd240f0a2ae7f3699a95719f9312",
+      "title": "Highlight CLB Hải Phòng 3-3 CLB Thanh Hóa: Rượt đuổi quá ngoạn mục",
+      "link": "https://thanhnien.vn/highlight-clb-hai-phong-3-3-clb-thanh-hoa-ruot-duoi-qua-ngoan-muc-185260301204454084.htm",
+      "summary": "CLB Hải Phòng dẫn 3-1 nhưng không giữ được lợi thế khi CLB Thanh Hóa ghi liền 2 bàn cuối trận, khép lại màn rượt đuổi nghẹt thở với tỷ số 3-3 tại vòng 14 V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:44:00+07:00",
+      "fetched": "2026-03-01T21:16:06.874026+07:00"
+    },
+    {
       "id": "541a2248a776b8818ada56f33439a1a3",
       "title": "Khu tập thể cũ Hà Nội - giấc mơ thời nghèo khó - Kỳ 7: Mối tình của tôi với khu tập thể",
       "link": "https://tuoitre.vn/khu-tap-the-cu-ha-noi-giac-mo-thoi-ngheo-kho-ky-7-moi-tinh-cua-toi-voi-khu-tap-the-2026030106554789.htm",
@@ -601,6 +781,246 @@ window.newsData_2026_03_01 = {
       "category": "Tổng hợp",
       "published": "2026-03-01T13:34:31.324575+07:00",
       "fetched": "2026-03-01T13:34:31.324791+07:00"
+    },
+    {
+      "id": "1a983b0579af5ca67eda3fa3789601cd",
+      "title": "Nam Định ngược dòng đánh bại Ninh Bình: HLV Việt 'đỏ' tái xuất ngoạn mục, nói lời gan ruột về Xuân Son",
+      "link": "https://thanhnien.vn/nam-dinh-nguoc-dong-danh-bai-ninh-binh-hlv-viet-do-tai-xuat-ngoan-muc-noi-loi-gan-ruot-ve-xuan-son-185260301202124012.htm",
+      "summary": "CLB Nam Định ngược dòng ngoạn mục đánh bại Ninh Bình với tỷ số 3-2 ở vòng 14 V-League, qua đó tạm vươn lên vị trí thứ 9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:29:00+07:00",
+      "fetched": "2026-03-01T21:16:06.874175+07:00"
+    },
+    {
+      "id": "f7736224ea9853a2b06485b21dda8c8c",
+      "title": "Thảm kịch xe 7 chỗ lật nghiêng trên đường, 2 bà cháu tử vong",
+      "link": "https://thanhnien.vn/tham-kich-xe-7-cho-lat-nghieng-tren-duong-2-ba-chau-tu-vong-185260301201751011.htm",
+      "summary": "Ngày 1.3, một vụ tai nạn giao thông nghiêm trọng xảy ra trên đường ĐT.753 đoạn qua xã Tân Lợi, tỉnh Đồng Nai khiến 2 bà cháu tử vong tại chỗ. Tags: lật xe khách, Đồng Nai, tai nạn giao thông",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:21:00+07:00",
+      "fetched": "2026-03-01T21:16:06.874320+07:00"
+    },
+    {
+      "id": "35f0e0e894c279e77a7a4878a8bf560d",
+      "title": "Thanh Hóa quá kiên cường, rượt đuổi tỷ số kịch tính: Hòa Hải Phòng 3-3, Rimario chói sáng",
+      "link": "https://thanhnien.vn/thanh-hoa-qua-kien-cuong-ruot-duoi-ty-so-kich-tinh-hoa-hai-phong-3-3-rimario-choi-sang-185260301200424927.htm",
+      "summary": "CLB Hải Phòng và CLB Thanh Hóa tạo nên màn rượt đuổi tỷ số nghẹt thở ở vòng 14 V-League khi đội khách ghi liền 2 bàn cuối trận, khép lại cuộc so tài với tỷ số hòa 3-3 đầy kịch tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:08:00+07:00",
+      "fetched": "2026-03-01T21:16:06.874482+07:00"
+    },
+    {
+      "id": "1924439301a9dd54b4f2018ba078141c",
+      "title": "Nhu cầu lưu trữ tăng cao vì AI, ổ cứng cũ bỗng có giá",
+      "link": "https://thanhnien.vn/nhu-cau-luu-tru-tang-cao-vi-ai-o-cung-cu-bong-co-gia-185260301125509319.htm",
+      "summary": "Với việc giá ổ cứng đang tăng cao, nhiều người có thể xem xét việc tái sử dụng những ổ cứng cũ không còn sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:08:00+07:00",
+      "fetched": "2026-03-01T21:16:06.874637+07:00"
+    },
+    {
+      "id": "242771127a0c361931b6dd5a5c12c9d1",
+      "title": "Thủ tướng Phạm Minh Chính kiểm tra tiến độ cao tốc Bắc - Nam tại Đắk Lắk",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-kiem-tra-tien-do-cao-toc-bac-nam-tai-dak-lak-185260301191817412.htm",
+      "summary": "Thủ tướng Phạm Minh Chính trực tiếp kiểm tra tiến độ dự án cao tốc Bắc - Nam và thăm hỏi, tặng quà các hộ dân tại khu tái định cư Quảng Đức (Đắk Lắk).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:07:00+07:00",
+      "fetched": "2026-03-01T21:16:06.874783+07:00"
+    },
+    {
+      "id": "d0a3eec7ca4e8abe55706b095f325b39",
+      "title": "Ảnh vệ tinh căn cứ đồn trú Mỹ sau đòn tập kích của Iran",
+      "link": "https://vnexpress.net/anh-ve-tinh-can-cu-don-tru-my-sau-don-tap-kich-cua-iran-5045345.html",
+      "summary": "Ảnh vệ tinh thương mại của Trung Quốc cho thấy tên lửa Iran đã gây thiệt hại ở sân bay quân sự Ali Al Salem tại Kuwait.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:04:08+07:00",
+      "fetched": "2026-03-01T21:16:03.349389+07:00"
+    },
+    {
+      "id": "d0a3eec7ca4e8abe55706b095f325b39",
+      "title": "Ảnh vệ tinh căn cứ đồn trú Mỹ sau đòn tập kích của Iran",
+      "link": "https://vnexpress.net/anh-ve-tinh-can-cu-don-tru-my-sau-don-tap-kich-cua-iran-5045345.html",
+      "summary": "Ảnh vệ tinh thương mại của Trung Quốc cho thấy tên lửa Iran đã gây thiệt hại ở sân bay quân sự Ali Al Salem tại Kuwait.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-01T13:04:08+07:00",
+      "fetched": "2026-03-01T21:16:09.841717+07:00"
+    },
+    {
+      "id": "ddc73a120fca5bdd89862d0e6553c51f",
+      "title": "Nhắm giữ chân 40.000 người Việt, Việt Nam đẩy du lịch y tế nghỉ dưỡng",
+      "link": "https://vnexpress.net/nham-giu-chan-40-000-nguoi-viet-viet-nam-day-du-lich-y-te-nghi-duong-5045320.html",
+      "summary": "Bộ Y tế vừa lấy ý kiến đề án phát triển du lịch y tế, tập trung xây dựng các tổ hợp khám chữa bệnh kết hợp an dưỡng chất lượng cao nhằm giữ chân 40.000 người Việt ra nước ngoài điều trị mỗi năm và hút khách quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:02:51+07:00",
+      "fetched": "2026-03-01T21:16:03.349573+07:00"
+    },
+    {
+      "id": "47ec5be569902f7b3eea2c6ee60c9d31",
+      "title": "Nhiều thương hiệu báo hết vàng nhẫn",
+      "link": "https://vnexpress.net/nhieu-thuong-hieu-bao-het-vang-nhan-5045350.html",
+      "summary": "Chiều 1/3, nhiều thương hiệu lớn tại Hà Nội và TP HCM đồng loạt báo hết vàng nhẫn, ngưng nhận cọc dù khách xếp hàng chờ mua đông đúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:01:38+07:00",
+      "fetched": "2026-03-01T21:16:03.349733+07:00"
+    },
+    {
+      "id": "47ec5be569902f7b3eea2c6ee60c9d31",
+      "title": "Nhiều thương hiệu báo hết vàng nhẫn",
+      "link": "https://vnexpress.net/nhieu-thuong-hieu-bao-het-vang-nhan-5045350.html",
+      "summary": "Chiều 1/3, nhiều thương hiệu lớn tại Hà Nội và TP HCM đồng loạt báo hết vàng nhẫn, ngưng nhận cọc dù khách xếp hàng chờ mua đông đúc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-01T13:01:38+07:00",
+      "fetched": "2026-03-01T21:16:11.149350+07:00"
+    },
+    {
+      "id": "0d4827ef633272526812ab1eed253db0",
+      "title": "Xem nhanh 20h ngày 1.3: Hé lộ cách CIA xác định vị trí Lãnh tụ Khamenei | Iran có rút khỏi World Cup?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-13-he-lo-cach-cia-xac-dinh-vi-tri-lanh-tu-khamenei-iran-co-rut-khoi-world-cup-185260301190401855.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 1.3 có nhiều tin tức đáng chú ý về: Iran tiếp tục bị không kích sau cái chết của lãnh tụ Khamenei, ông Trump ra cảnh báo mới; Chủ tịch Liên đoàn bóng đá Iran nói ‘khó tham dự World Cup 2026’;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:00:00+07:00",
+      "fetched": "2026-03-01T21:16:06.874951+07:00"
+    },
+    {
+      "id": "2e9b8e11fa3dbcb1cf64601b90c79d9c",
+      "title": "Áo khoác da và công thức phối màu cho phái đẹp",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-khoac-da-va-cong-thuc-phoi-mau-cho-phai-dep-185260301154222439.htm",
+      "summary": "Áo khoác da là điểm nhấn đắt giá cho mọi bản phối nếu nàng biết chọn màu sắc phù hợp. Từ trung tính thanh lịch đến tông đậm nổi bật, mỗi công thức đều giúp phong cách thêm cuốn hút và thời thượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:00:00+07:00",
+      "fetched": "2026-03-01T21:16:06.875111+07:00"
+    },
+    {
+      "id": "483c7082b88e005fe248d0d605ea9c01",
+      "title": "Xuân Son giải cơn khát bàn thắng ở giải quốc nội",
+      "link": "https://vnexpress.net/xuan-son-giai-con-khat-ban-thang-o-giai-quoc-noi-5045373.html",
+      "summary": "Nguyễn Xuân Son chấm dứt cơn khát bàn thắng ở giải quốc nội mùa 2025-2026, để giúp Nam Định ngược dòng thắng Ninh Bình 3-2 ở vòng 14 V-League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:58:47+07:00",
+      "fetched": "2026-03-01T21:16:03.349925+07:00"
+    },
+    {
+      "id": "483c7082b88e005fe248d0d605ea9c01",
+      "title": "Xuân Son giải cơn khát bàn thắng ở giải quốc nội",
+      "link": "https://vnexpress.net/xuan-son-giai-con-khat-ban-thang-o-giai-quoc-noi-5045373.html",
+      "summary": "Nguyễn Xuân Son chấm dứt cơn khát bàn thắng ở giải quốc nội mùa 2025-2026, để giúp Nam Định ngược dòng thắng Ninh Bình 3-2 ở vòng 14 V-League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-01T12:58:47+07:00",
+      "fetched": "2026-03-01T21:16:14.915963+07:00"
+    },
+    {
+      "id": "058b4bc49b7cc14365fb6bd23398dc20",
+      "title": "Việt Nam lần thứ ba liên tiếp vào chung kết billiard thế giới",
+      "link": "https://vnexpress.net/viet-nam-lan-thu-ba-lien-tiep-vao-chung-ket-billiard-the-gioi-5045380.html",
+      "summary": "Trần Quyết Chiến và Nguyễn Trần Thanh Tự giúp Việt Nam thắng cựu vương Thụy Điển 15-7 ở loạt song tô, vào chung kết carom 3 băng đồng đội thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:55:17+07:00",
+      "fetched": "2026-03-01T21:16:03.350109+07:00"
+    },
+    {
+      "id": "058b4bc49b7cc14365fb6bd23398dc20",
+      "title": "Việt Nam lần thứ ba liên tiếp vào chung kết billiard thế giới",
+      "link": "https://vnexpress.net/viet-nam-lan-thu-ba-lien-tiep-vao-chung-ket-billiard-the-gioi-5045380.html",
+      "summary": "Trần Quyết Chiến và Nguyễn Trần Thanh Tự giúp Việt Nam thắng cựu vương Thụy Điển 15-7 ở loạt song tô, vào chung kết carom 3 băng đồng đội thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-01T12:55:17+07:00",
+      "fetched": "2026-03-01T21:16:14.916138+07:00"
+    },
+    {
+      "id": "cfb486ced1c4d5a660e4405a66d89b70",
+      "title": "Billiards: Trần Quyết Chiến đánh bại huyền thoại Thụy Điển, đưa Việt Nam vào chung kết",
+      "link": "https://thanhnien.vn/billiards-tran-quyet-chien-danh-bai-huyen-thoai-thuy-dien-dua-viet-nam-vao-chung-ket-185260301195310265.htm",
+      "summary": "Trần Quyết Chiến tiếp tục thể hiện phong độ cao ở trận bán kết để đánh huyền thoại Torbjorn Blomhdahl, trước khi sát cánh cùng đồng đội Nguyễn Trần Thanh Tự giành chiến thắng ở trận song tô nghẹt thở và lấy vé đầu tiên vào chung kết giải vô địch billiards carom 3 băng đồng đội thế giới 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:54:00+07:00",
+      "fetched": "2026-03-01T21:16:06.875261+07:00"
+    },
+    {
+      "id": "b202bc987ee6a17db06462163313e693",
+      "title": "Các y bác sĩ chạy gây quỹ cho trẻ bệnh hiếm",
+      "link": "https://vnexpress.net/cac-y-bac-si-chay-gay-quy-cho-tre-benh-hiem-5045264.html",
+      "summary": "Không chỉ vận động viên, nhiều y bác sĩ, giảng viên, sinh viên tham gia giải chạy \"Run for Rare Kids\", đồng hành trẻ sống chung với bệnh hiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:50:43+07:00",
+      "fetched": "2026-03-01T21:16:03.350279+07:00"
+    },
+    {
+      "id": "c7195ff374dbf3a5e33bcf551b8495e0",
+      "title": "Hàng trăm người đập phá lãnh sự quán Mỹ ở Pakistan",
+      "link": "https://vnexpress.net/hang-tram-nguoi-dap-pha-lanh-su-quan-my-o-pakistan-5045327.html",
+      "summary": "Đám đông hàng trăm người Pakistan xông vào lãnh sự quán Mỹ ở Karachi để đập phá, bày tỏ sự ủng hộ với Iran, khiến ít nhất 8 người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:48:09+07:00",
+      "fetched": "2026-03-01T21:16:03.350433+07:00"
+    },
+    {
+      "id": "c7195ff374dbf3a5e33bcf551b8495e0",
+      "title": "Hàng trăm người đập phá lãnh sự quán Mỹ ở Pakistan",
+      "link": "https://vnexpress.net/hang-tram-nguoi-dap-pha-lanh-su-quan-my-o-pakistan-5045327.html",
+      "summary": "Đám đông hàng trăm người Pakistan xông vào lãnh sự quán Mỹ ở Karachi để đập phá, bày tỏ sự ủng hộ với Iran, khiến ít nhất 8 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-01T12:48:09+07:00",
+      "fetched": "2026-03-01T21:16:09.841907+07:00"
+    },
+    {
+      "id": "b41566744e98c9a67441450b610b6244",
+      "title": "Phản ứng của thế giới sau vụ hạ sát Lãnh tụ Tối cao Iran",
+      "link": "https://vnexpress.net/phan-ung-cua-the-gioi-sau-vu-ha-sat-lanh-tu-toi-cao-iran-5045362.html",
+      "summary": "Nga, Trung Quốc và Triều Tiên lên án Mỹ và Israel hạ sát ông Khamenei, trong khi EU mô tả đây là \"thời khắc quyết định\" trong lịch sử Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:40:35+07:00",
+      "fetched": "2026-03-01T21:16:03.350586+07:00"
+    },
+    {
+      "id": "b41566744e98c9a67441450b610b6244",
+      "title": "Phản ứng của thế giới sau vụ hạ sát Lãnh tụ Tối cao Iran",
+      "link": "https://vnexpress.net/phan-ung-cua-the-gioi-sau-vu-ha-sat-lanh-tu-toi-cao-iran-5045362.html",
+      "summary": "Nga, Trung Quốc và Triều Tiên lên án Mỹ và Israel hạ sát ông Khamenei, trong khi EU mô tả đây là \"thời khắc quyết định\" trong lịch sử Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-01T12:40:35+07:00",
+      "fetched": "2026-03-01T21:16:09.842079+07:00"
+    },
+    {
+      "id": "bcf8e5f13529f98ce92e7fa2a85fdbe6",
+      "title": "Biểu tình nhiều nơi ở Mỹ phản đối cuộc tập kích Iran",
+      "link": "https://vnexpress.net/bieu-tinh-nhieu-noi-o-my-phan-doi-cuoc-tap-kich-iran-5045358.html",
+      "summary": "Các cuộc biểu tình bùng phát ở thủ đô Washington và nhiều thành phố ở Mỹ để phản đối cuộc tấn công vào Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:36:28+07:00",
+      "fetched": "2026-03-01T21:16:03.350742+07:00"
+    },
+    {
+      "id": "bcf8e5f13529f98ce92e7fa2a85fdbe6",
+      "title": "Biểu tình nhiều nơi ở Mỹ phản đối cuộc tập kích Iran",
+      "link": "https://vnexpress.net/bieu-tinh-nhieu-noi-o-my-phan-doi-cuoc-tap-kich-iran-5045358.html",
+      "summary": "Các cuộc biểu tình bùng phát ở thủ đô Washington và nhiều thành phố ở Mỹ để phản đối cuộc tấn công vào Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-01T12:36:28+07:00",
+      "fetched": "2026-03-01T21:16:09.842240+07:00"
     },
     {
       "id": "1868eeffe285f8874e7f67a0c1ad91de",
