@@ -1,7 +1,157 @@
 window.newsData_2026_03_02 = {
   "date": "2026-03-02",
-  "lastUpdated": "2026-03-02T19:35:46.440454+07:00",
+  "lastUpdated": "2026-03-02T21:37:10.256661+07:00",
   "articles": [
+    {
+      "id": "2c9ce7cb8a00ee9186e66c466ec80a4d",
+      "title": "Thắng áp đảo Iran, tuyển nữ Hàn Quốc khởi đầu thuận lợi tại Asian Cup 2026",
+      "link": "https://tuoitre.vn/thang-ap-dao-iran-tuyen-nu-han-quoc-khoi-dau-thuan-loi-tai-asian-cup-2026-20260302175747294.htm",
+      "summary": "Chiều 2-3, đội tuyển nữ Hàn Quốc đã có màn ra quân đầy thuyết phục, khi kiểm soát hoàn toàn thế trận và giành chiến thắng nhẹ nhàng 3-0 trước đối thủ Iran tại Giải vô địch bóng đá nữ châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.362360+07:00",
+      "fetched": "2026-03-02T21:37:04.362472+07:00"
+    },
+    {
+      "id": "f40ab211a5c3df425f63173873a77985",
+      "title": "Ông Khamenei đã bị CIA và Mossad sát hại như thế nào?",
+      "link": "https://tuoitre.vn/ong-khamenei-da-bi-cia-va-mossad-sat-hai-nhu-the-nao-20260302184545545.htm",
+      "summary": "Một phút chủ quan của Iran đã định đoạt số phận của nhà lãnh đạo tối cao và làm rung chuyển cấu trúc quyền lực của đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.362238+07:00",
+      "fetched": "2026-03-02T21:37:04.362349+07:00"
+    },
+    {
+      "id": "4e73b567dc48a2e0d9e1f04d6c3cb549",
+      "title": "TP.HCM thúc tiến độ các dự án PPP cầu Cần Giờ, Phú Mỹ 2, Khu thể dục thể thao Rạch Chiếc",
+      "link": "https://tuoitre.vn/tp-hcm-thuc-tien-do-cac-du-an-ppp-cau-can-gio-phu-my-2-khu-the-duc-the-thao-rach-chiec-20260302184711611.htm",
+      "summary": "Loạt dự án PPP và BOT tại TP.HCM được yêu cầu bám sát các mốc thời gian từ tháng 3-2026, trong đó có cầu Cần Giờ, cầu Phú Mỹ 2 và Khu liên hợp thể dục thể thao quốc gia Rạch Chiếc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.362114+07:00",
+      "fetched": "2026-03-02T21:37:04.362227+07:00"
+    },
+    {
+      "id": "54038c743932284cfa41abf0a6cbe6d5",
+      "title": "40 nước đến Phan Thiết dự Giải ITF World Junior U14",
+      "link": "https://tuoitre.vn/40-nuoc-den-phan-thiet-du-giai-itf-world-junior-u14-20260302190503286.htm",
+      "summary": "Giải ITF World Juniors 14U 2026 - AO Pre-Qualifying thu hút 40 nước đăng ký tham dự, tại sân quần vợt quốc tế NovaWorld Phan Thiết từ 2-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.361988+07:00",
+      "fetched": "2026-03-02T21:37:04.362102+07:00"
+    },
+    {
+      "id": "a2766eb82e6903d6ed21fb25dff7f56b",
+      "title": "7% GDP toàn cầu 'bốc hơi' vì ô nhiễm môi trường",
+      "link": "https://tuoitre.vn/7-gdp-toan-cau-boc-hoi-vi-o-nhiem-moi-truong-20260302190105229.htm",
+      "summary": "Khoảng 9 triệu ca tử vong mỗi năm, hàng triệu người mắc bệnh mạn tính và thiệt hại kinh tế tương đương 7% GDP toàn cầu. Đó là bức tranh toàn cảnh đáng báo động về ô nhiễm môi trường, theo cảnh báo của nhiều chuyên gia quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.361855+07:00",
+      "fetched": "2026-03-02T21:37:04.361976+07:00"
+    },
+    {
+      "id": "4d978fc70a7ced0525a9f0e81e98d719",
+      "title": "Khởi tố thuyền trưởng đưa 4 ngư dân xuất cảnh trái phép",
+      "link": "https://tuoitre.vn/khoi-to-thuyen-truong-dua-4-ngu-dan-xuat-canh-trai-phep-20260302184631737.htm",
+      "summary": "Công an tỉnh Đắk Lắk đã khởi tố bị can đối với thuyền trưởng Võ Quốc Toại về hành vi tổ chức cho 4 ngư dân xuất cảnh trái phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.361708+07:00",
+      "fetched": "2026-03-02T21:37:04.361842+07:00"
+    },
+    {
+      "id": "0dffbe19b431892dad355750001443bd",
+      "title": "Lại Lý Huynh bị 'hoảng loạn, mất trí nhớ' ở Ngũ Dương Bôi",
+      "link": "https://tuoitre.vn/lai-ly-huynh-bi-hoang-loan-mat-tri-nho-o-ngu-duong-boi-20260302183633507.htm",
+      "summary": "Tờ Dương Thành vãn báo của Trung Quốc vừa đăng tải bài phỏng vấn độc quyền với Lại Lý Huynh sau khi kết thúc giải Ngũ Dương Bôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.361584+07:00",
+      "fetched": "2026-03-02T21:37:04.361696+07:00"
+    },
+    {
+      "id": "9030ed484c9be974f3eb97936f41bf09",
+      "title": "Các loại vũ khí Mỹ sử dụng trong chiến dịch tấn công Iran: máy bay B-2 tỉ đô tái xuất",
+      "link": "https://tuoitre.vn/cac-loai-vu-khi-my-su-dung-trong-chien-dich-tan-cong-iran-may-bay-b-2-ti-do-tai-xuat-20260302184227456.htm",
+      "summary": "Bộ Tư lệnh Trung tâm Mỹ (CENTCOM) đã công bố danh sách các loại vũ khí của Mỹ được sử dụng trong chiến dịch tấn công Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.361458+07:00",
+      "fetched": "2026-03-02T21:37:04.361572+07:00"
+    },
+    {
+      "id": "fd4a369cd6c11fd8e6bbc03199a81c7c",
+      "title": "Công bố quyết định kiểm tra, giám sát của Bộ Chính trị với Ban Thường vụ Đảng ủy Công an Trung ương",
+      "link": "https://tuoitre.vn/cong-bo-quyet-dinh-kiem-tra-giam-sat-cua-bo-chinh-tri-voi-ban-thuong-vu-dang-uy-cong-an-trung-uong-20260302192352494.htm",
+      "summary": "Đoàn kiểm tra, giám sát của Bộ Chính trị, Ban Bí thư công bố quyết định kiểm tra, giám sát của Bộ Chính trị, Ban Bí thư năm 2026 với Ban Thường vụ Đảng ủy Công an Trung ương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.361332+07:00",
+      "fetched": "2026-03-02T21:37:04.361446+07:00"
+    },
+    {
+      "id": "064b651a5094039e42cc731d72fc43d2",
+      "title": "Lãnh đạo TP.HCM kiểm tra công tác niêm yết danh sách cử tri tại nhiều phường",
+      "link": "https://tuoitre.vn/lanh-dao-tp-hcm-kiem-tra-cong-tac-niem-yet-danh-sach-cu-tri-tai-nhieu-phuong-20260302180551331.htm",
+      "summary": "Lãnh đạo TP.HCM yêu cầu các địa phương rà soát kỹ việc niêm yết danh sách cử tri, tiểu sử và chương trình hành động của các ứng cử viên, công tác trang trí, niêm phong, cơ sở vật chất... đảm bảo cuộc bầu cử diễn ra dân chủ, công khai, an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.361203+07:00",
+      "fetched": "2026-03-02T21:37:04.361320+07:00"
+    },
+    {
+      "id": "b218c40e32bec2c168eb0fd047a94869",
+      "title": "Hàn Quốc giảm trợ cấp, siết điều kiện hỗ trợ xe điện",
+      "link": "https://tuoitre.vn/han-quoc-giam-tro-cap-siet-dieu-kien-ho-tro-xe-dien-20260302151810655.htm",
+      "summary": "Ngày 2-3, Bộ Khí hậu và Môi trường Hàn Quốc công bố 'Hướng dẫn xử lý trợ cấp dự án phân phối xe điện năm 2026'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.361069+07:00",
+      "fetched": "2026-03-02T21:37:04.361191+07:00"
+    },
+    {
+      "id": "df523dbbe2af7734efd3782716d014a6",
+      "title": "VietinBank: Từ ‘ngân hàng giao dịch’ đến ‘ngân hàng thấu hiểu’",
+      "link": "https://tuoitre.vn/vietinbank-tu-ngan-hang-giao-dich-den-ngan-hang-thau-hieu-20260302193601483.htm",
+      "summary": "Trước dòng chảy của kỷ nguyên số, VietinBank đang tái định hình vai trò của một ngân hàng truyền thống, hướng tới mô hình ‘ngân hàng thấu hiểu’ với hệ sinh thái số chuyên biệt cho từng nhóm khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.360928+07:00",
+      "fetched": "2026-03-02T21:37:04.361056+07:00"
+    },
+    {
+      "id": "36585eb377f0c66c811631697ad66074",
+      "title": "Thu giữ 4 tấn thực phẩm không rõ nguồn gốc ở Thanh Hóa",
+      "link": "https://tuoitre.vn/thu-giu-4-tan-thuc-pham-khong-ro-nguon-goc-o-thanh-hoa-20260302195742931.htm",
+      "summary": "Phòng Cảnh sát kinh tế, Công an Thanh Hóa phối hợp với cơ quan chức năng kiểm tra, thu giữ 4 tấn thực phẩm không rõ nguồn gốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.360787+07:00",
+      "fetched": "2026-03-02T21:37:04.360916+07:00"
+    },
+    {
+      "id": "9ab06ef7129a665372ef74dec73b69bf",
+      "title": "Thủ tướng phê chuẩn miễn nhiệm Phó chủ tịch UBND TP.HCM",
+      "link": "https://tuoitre.vn/thu-tuong-phe-chuan-mien-nhiem-pho-chu-tich-ubnd-tp-hcm-20260302202308239.htm",
+      "summary": "Thủ tướng Chính phủ vừa phê chuẩn kết quả miễn nhiệm chức vụ Phó chủ tịch UBND TP.HCM khóa X, nhiệm kỳ 2021 - 2026 đối với ông Nguyễn Văn Dũng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.360626+07:00",
+      "fetched": "2026-03-02T21:37:04.360757+07:00"
+    },
+    {
+      "id": "247dfd0c17f16844507c89be6bf20384",
+      "title": "Việt Nam tiếp tục đứng trên nhiều cường quốc trong bảng xếp hạng cờ vua mới công bố",
+      "link": "https://tuoitre.vn/viet-nam-tiep-tuc-dung-tren-nhieu-cuong-quoc-trong-bang-xep-hang-co-vua-moi-cong-bo-20260302165451525.htm",
+      "summary": "Liên đoàn Cờ vua thế giới (FIDE) mới đây đã công bố bảng xếp hạng mới cập nhật của tháng 3, và Việt Nam tiếp tục giữ được một vị trí đáng nể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T21:37:04.360401+07:00",
+      "fetched": "2026-03-02T21:37:04.360611+07:00"
+    },
     {
       "id": "074cad01bb3aaa265555e7f30af6f205",
       "title": "Miền Bắc vừa trải qua tháng 2 khác lạ, có nơi nhiệt độ kỷ lục 37,8 độ C",
@@ -453,6 +603,166 @@ window.newsData_2026_03_02 = {
       "fetched": "2026-03-02T15:33:36.647505+07:00"
     },
     {
+      "id": "29f02acc4557b6744a2dc840eb87b7d1",
+      "title": "Nóng: HLV người Tây Ban Nha Albadalejo bị chấm dứt hợp đồng sau chuỗi thua đau của Ninh Bình",
+      "link": "https://thanhnien.vn/nong-hlv-nguoi-tay-ban-nha-albadalejo-bi-cham-dut-hop-dong-sau-chuoi-thua-dau-cua-ninh-binh-185260302212101897.htm",
+      "summary": "Tối 2.3, tức một ngày sau trận thua ngược 2-3 trước đội Nam Định ở vòng 14 V-League 2025-2026, CLB Ninh Bình quyết định chia tay HLV Gerard Albadalejo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T14:34:00+07:00",
+      "fetched": "2026-03-02T21:37:03.504147+07:00"
+    },
+    {
+      "id": "95a4926ed04fb45a6b6f0f3dbc3e9e09",
+      "title": "'Tăng trưởng phải đi đôi với nâng cao thu nhập, cải thiện đời sống người dân'",
+      "link": "https://thanhnien.vn/tang-truong-phai-di-doi-voi-nang-cao-thu-nhap-cai-thien-doi-song-nguoi-dan-18526030220461101.htm",
+      "summary": "Tổng Bí thư Tô Lâm nhấn mạnh Nghị quyết của T.Ư về các giải pháp chiến lược tăng trưởng '2 con số' gắn với xác lập mô hình tăng trưởng mới là quyết tâm chiến lược, là lựa chọn có tính lịch sử nhằm hiện thực hóa khát vọng phát triển đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T14:06:00+07:00",
+      "fetched": "2026-03-02T21:37:03.504319+07:00"
+    },
+    {
+      "id": "c7f734e4bebd03edd5c2923f2a0eae6e",
+      "title": "Người dân nước Đông Nam Á nào lái xe bên trái đường?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-dong-nam-a-nao-lai-xe-ben-trai-duong-5045835.html",
+      "summary": "Do từng là thuộc địa của các quốc gia phương Tây hoặc kế thừa hệ thống giao thông cũ, ôtô ở một số nước này lưu thông bên trái đường. Bạn có biết đó là những nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T14:00:00+07:00",
+      "fetched": "2026-03-02T21:37:00.066402+07:00"
+    },
+    {
+      "id": "fc28a0fe5a0187d3c7ff5bf03c0c2b45",
+      "title": "Xu hướng đào tạo liên ngành, xuyên ngành: Học ngành nào để không thất nghiệp?",
+      "link": "https://thanhnien.vn/xu-huong-dao-tao-lien-nganh-xuyen-nganh-hoc-nganh-nao-de-khong-that-nghiep-185260302100406535.htm",
+      "summary": "Trong chương trình Tư vấn mùa thi do Báo Thanh Niên phối hợp với Bộ GD-ĐT tổ chức tại Trường THPT Trương Định (tỉnh Đồng Tháp), PGS-TS Lê Trung Đạo, Phó hiệu trưởng Trường ĐH Tài chính-Marketing, chia sẻ về xu hướng liên ngành, xuyên ngành trong đào tạo ĐH hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T14:00:00+07:00",
+      "fetched": "2026-03-02T21:37:03.504478+07:00"
+    },
+    {
+      "id": "3018d596c7c4da89a46e4c9f86eb66ea",
+      "title": "Phần 'phổi thừa' hút máu động mạch chủ người đàn ông suốt 56 năm",
+      "link": "https://vnexpress.net/phan-phoi-thua-hut-mau-dong-mach-chu-nguoi-dan-ong-suot-56-nam-5045386.html",
+      "summary": "Người đàn ông 56 tuổi đi khám sức khỏe bất ngờ phát hiện khối \"phổi thừa\" bẩm sinh đang hút máu trực tiếp từ động mạch chủ, được bác sĩ Bệnh viện Bình Dân phẫu thuật bằng robot.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:56:30+07:00",
+      "fetched": "2026-03-02T21:37:00.066587+07:00"
+    },
+    {
+      "id": "4d32daf124fc900d2f49501e8acd3b8f",
+      "title": "Bà Hà Thị Nga trả lời cử tri về xây dựng nhà văn hóa thôn, bản",
+      "link": "https://thanhnien.vn/ba-ha-thi-nga-tra-loi-cu-tri-ve-xay-dung-nha-van-hoa-thon-ban-18526030220353351.htm",
+      "summary": "Chiều 2.3, bà Hà Thị Nga, Phó chủ tịch - Tổng thư ký Ủy ban T.Ư MTTQ Việt Nam, cùng các ứng cử viên thuộc đơn vị bầu cử số 1, tỉnh Lai Châu đã tiếp xúc cử tri xã Mường Than (Lai Châu).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:56:00+07:00",
+      "fetched": "2026-03-02T21:37:03.504634+07:00"
+    },
+    {
+      "id": "bd1abcba534b60f972dae2ced072cab7",
+      "title": "Đèn xanh đang gần 60 giây bất ngờ chuyển đỏ, ô tô con phanh 'cháy lốp'",
+      "link": "https://thanhnien.vn/den-xanh-dang-gan-60-giay-bat-ngo-chuyen-do-o-to-con-phanh-chay-lop-185260302141525561.htm",
+      "summary": "Đang di chuyển qua giao lộ, tài xế ô tô một phen \"hú vía\" khi phát hiện đèn tín hiệu giao thông đang xanh, thậm chí còn đến gần 60 giây nhưng lại đột ngột chuyển đỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:56:00+07:00",
+      "fetched": "2026-03-02T21:37:03.504806+07:00"
+    },
+    {
+      "id": "362af32690a04499c8bab582ffdb12bc",
+      "title": "Mỹ tuyên bố đã chiếm ưu thế trên bầu trời Iran",
+      "link": "https://vnexpress.net/my-tuyen-bo-da-chiem-uu-the-tren-bau-troi-iran-5045855.html",
+      "summary": "Chủ tịch Hội đồng Tham mưu trưởng Liên quân Mỹ khẳng định nước này đã giành ưu thế trên không phận Iran, cho phép tiến hành chiến dịch an toàn hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:52:08+07:00",
+      "fetched": "2026-03-02T21:37:00.066754+07:00"
+    },
+    {
+      "id": "362af32690a04499c8bab582ffdb12bc",
+      "title": "Mỹ tuyên bố đã chiếm ưu thế trên bầu trời Iran",
+      "link": "https://vnexpress.net/my-tuyen-bo-da-chiem-uu-the-tren-bau-troi-iran-5045855.html",
+      "summary": "Chủ tịch Hội đồng Tham mưu trưởng Liên quân Mỹ khẳng định nước này đã giành ưu thế trên không phận Iran, cho phép tiến hành chiến dịch an toàn hơn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-02T13:52:08+07:00",
+      "fetched": "2026-03-02T21:37:05.054214+07:00"
+    },
+    {
+      "id": "c82ec4f7694a0efa0da4347a83a038d8",
+      "title": "Ngày đầu áp dụng quy định đăng kiểm mới: Tắc nghẽn, chờ đợi do… lỗi phần mềm",
+      "link": "https://thanhnien.vn/ngay-dau-ap-dung-quy-dinh-dang-kiem-moi-tac-nghen-cho-doi-do-loi-phan-mem-185260302202008381.htm",
+      "summary": "Phần mềm hệ thống bị nghẽn, lỗi phát sinh trong ngày đầu áp dụng quy định mới về đăng kiểm ô tô khiến nhiều chủ xe phải xếp hàng, chờ đợi gần cả ngày trời tại một số trung tâm đăng kiểm, trong khi đó việc cấp Giấy chứng nhận điện tử vẫn chưa thông suốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:52:00+07:00",
+      "fetched": "2026-03-02T21:37:03.504965+07:00"
+    },
+    {
+      "id": "9d651867d8032bbbce294bb9b0f457f2",
+      "title": "Đỗ xe giữa đường còn đánh người",
+      "link": "https://thanhnien.vn/do-xe-giua-duong-con-danh-nguoi-185260302195816154.htm",
+      "summary": "Sau vụ xô xát do mâu thuẫn giao thông ở Hải Phòng, một tài xế xe tải đã bị đánh đập dẫn tới bị thương phải nhập viện điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:52:00+07:00",
+      "fetched": "2026-03-02T21:37:03.505115+07:00"
+    },
+    {
+      "id": "437be2d7575bbb0b2ef5ed836a3d4163",
+      "title": "'Quy hoạch Hà Nội, cái gì cổ thì giữ lại để bảo tồn'",
+      "link": "https://thanhnien.vn/quy-hoach-ha-noi-cai-gi-co-thi-giu-lai-de-bao-ton-185260302200349835.htm",
+      "summary": "Theo Chủ tịch HĐND TP.Hà Nội, thành phố sẽ được quy hoạch lại, trong đó cái gì 'cổ' thì giữ lại để bảo tồn; cái gì cũ, không đảm bảo không gian đô thị, không đảm bảo cuộc sống, không đảm bảo cảnh quan thì phải 'tái thiết lại'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:50:00+07:00",
+      "fetched": "2026-03-02T21:37:03.505269+07:00"
+    },
+    {
+      "id": "3502ed95bdf9c80b8b81f2ed5137712a",
+      "title": "Cậu bé 12 tuổi chế tạo thành công lò phản ứng nhiệt hạch",
+      "link": "https://vnexpress.net/cau-be-12-tuoi-che-tao-thanh-cong-lo-phan-ung-nhiet-hach-5045838.html",
+      "summary": "Aiden McMillan, học sinh lớp 7 ở Dallas, Texas, chế tạo lò phản ứng nhiệt hạch hoạt động được tại nhà sau 4 năm nghiên cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:45:28+07:00",
+      "fetched": "2026-03-02T21:37:00.066943+07:00"
+    },
+    {
+      "id": "3502ed95bdf9c80b8b81f2ed5137712a",
+      "title": "Cậu bé 12 tuổi chế tạo thành công lò phản ứng nhiệt hạch",
+      "link": "https://vnexpress.net/cau-be-12-tuoi-che-tao-thanh-cong-lo-phan-ung-nhiet-hach-5045838.html",
+      "summary": "Aiden McMillan, học sinh lớp 7 ở Dallas, Texas, chế tạo lò phản ứng nhiệt hạch hoạt động được tại nhà sau 4 năm nghiên cứu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-02T13:45:28+07:00",
+      "fetched": "2026-03-02T21:37:09.352001+07:00"
+    },
+    {
+      "id": "2553ea16a9756e1776287e3268c80e8f",
+      "title": "FIFA tin Iran vẫn dự World Cup 2026",
+      "link": "https://vnexpress.net/fifa-tin-iran-van-du-world-cup-2026-5045819.html",
+      "summary": "LBĐB Thế giới tin rằng Iran sẽ không tẩy chay World Cup 2026, bất chấp căng thẳng leo thang sau các cuộc không kích của Mỹ và Israel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:45:17+07:00",
+      "fetched": "2026-03-02T21:37:00.067122+07:00"
+    },
+    {
+      "id": "2553ea16a9756e1776287e3268c80e8f",
+      "title": "FIFA tin Iran vẫn dự World Cup 2026",
+      "link": "https://vnexpress.net/fifa-tin-iran-van-du-world-cup-2026-5045819.html",
+      "summary": "LBĐB Thế giới tin rằng Iran sẽ không tẩy chay World Cup 2026, bất chấp căng thẳng leo thang sau các cuộc không kích của Mỹ và Israel.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-02T13:45:17+07:00",
+      "fetched": "2026-03-02T21:37:10.244306+07:00"
+    },
+    {
       "id": "ef4dbeb34fc2d48a828f9336b00765bc",
       "title": "16 tuổi, Owen Cooper là ai mà càn quét các giải thưởng điện ảnh lớn, giờ là SAG 2026",
       "link": "https://tuoitre.vn/16-tuoi-owen-cooper-la-ai-ma-can-quet-cac-giai-thuong-dien-anh-lon-gio-la-sag-2026-20260302112553918.htm",
@@ -603,6 +913,156 @@ window.newsData_2026_03_02 = {
       "fetched": "2026-03-02T13:44:25.663525+07:00"
     },
     {
+      "id": "91b9d4612f7337e6811a589a8697bf69",
+      "title": "Quyền Bộ trưởng Bộ GD-ĐT: 'Trong khu đô thị Olympic phải có trường công lập'",
+      "link": "https://thanhnien.vn/quyen-bo-truong-bo-gd-dt-trong-khu-do-thi-olympic-phai-co-truong-cong-lap-185260302184852781.htm",
+      "summary": "Quyền Bộ trưởng Bộ GD-ĐT Hoàng Minh Sơn cho biết sẽ có kiến nghị để trong khu đô thị Olympic không chỉ có trường lớp dân lập, tư thục, mà phải xây trường công lập, để người dân với mức thu nhập khác nhau đều có quyền tiếp cận với giáo dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:42:00+07:00",
+      "fetched": "2026-03-02T21:37:03.505419+07:00"
+    },
+    {
+      "id": "2ea03b1f57f5e1ab3c504d467c542516",
+      "title": "Ngược dòng nghẹt thở thắng Úc, Thái Lan giành chức vô địch xứng đáng",
+      "link": "https://thanhnien.vn/nguoc-dong-nghet-tho-thang-uc-thai-lan-gianh-chuc-vo-dich-xung-dang-185260302202646853.htm",
+      "summary": "Đội tuyển Thái Lan có màn ngược dòng nghẹt thở trước các cô gái Úc trong trận chung kết, qua đó đăng quang chức vô địch giải futsal nữ Đông Nam Á 2026 ngay trên sân nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:30:00+07:00",
+      "fetched": "2026-03-02T21:37:03.505568+07:00"
+    },
+    {
+      "id": "4a014746ba6837ba153a32f4f7ede759",
+      "title": "AI, oanh tạc cơ B-2 và UAV cảm tử: Điểm mặt vũ khí Mỹ đánh Iran",
+      "link": "https://thanhnien.vn/ai-oanh-tac-co-b-2-va-uav-cam-tu-diem-mat-vu-khi-my-danh-iran-185260302185434459.htm",
+      "summary": "Mỹ đã triển khai một loạt vũ khí đánh các mục tiêu tại Iran, bao gồm tên lửa hành trình Tomahawk, máy bay chiến đấu tàng hình và lần đầu tiên sử dụng máy bay không người lái (UAV) tự sát giá rẻ mô phỏng thiết kế của Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:30:00+07:00",
+      "fetched": "2026-03-02T21:37:03.505725+07:00"
+    },
+    {
+      "id": "7ac8b4fa599d45a503e4dcff995b109c",
+      "title": "Thức khuya sau 2 giờ sáng: Nguy cơ bệnh tim mạch tăng cao 79%",
+      "link": "https://thanhnien.vn/thuc-khuya-sau-2-gio-sang-nguy-co-benh-tim-mach-tang-cao-79-185260302150359657.htm",
+      "summary": "Một nghiên cứu công bố trên Journal of the American Heart Association cho thấy người thường xuyên đi ngủ muộn có nguy cơ mắc các vấn đề tim mạch cao hơn đáng kể, trong đó nguy cơ đau tim hoặc đột quỵ tăng đến 16%. Sau 14 năm theo dõi hơn 300.000 người, các nhà khoa học nhận định thói quen thức khuya...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:30:00+07:00",
+      "fetched": "2026-03-02T21:37:03.505906+07:00"
+    },
+    {
+      "id": "55492603625ba0afcd774dc93aa5b95b",
+      "title": "Quân nhân mua bằng đại học giả trên shopee, giao hàng tận cửa doanh trại",
+      "link": "https://vnexpress.net/quan-nhan-mua-bang-dai-hoc-gia-tren-shopee-giao-hang-tan-cua-doanh-trai-5045842.html",
+      "summary": "Người phụ nữ họ Chu bị bắt vì bán các bằng cấp giả của Đại học Quốc gia, Đại học Cảnh sát Trung ương trên Shopee cho 9 người, giá 5.000 tệ (4,1 triệu đồng).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:17:20+07:00",
+      "fetched": "2026-03-02T21:37:00.067284+07:00"
+    },
+    {
+      "id": "1977d48b139faddffa26c4228bbedfe9",
+      "title": "Hôn nhân bền chặt 36 năm của 'hổ tướng' Miêu Kiều Vỹ và vợ minh tinh",
+      "link": "https://thanhnien.vn/hon-nhan-ben-chat-36-nam-cua-ho-tuong-mieu-kieu-vy-va-vo-minh-tinh-185260302182455534.htm",
+      "summary": "Ở tuổi 67, tài tử Hồng Kông Miêu Kiều Vỹ đang tận hưởng chặng đường an yên bên người bạn đời đã đồng hành hơn 3 thập kỷ cùng hai người con có sự nghiệp thành đạt. Rời ánh đèn rực rỡ của thời kỳ đỉnh cao, ông vẫn duy trì phong thái điềm đạm và cuộc sống đủ đầy khiến nhiều người ngưỡng mộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:17:00+07:00",
+      "fetched": "2026-03-02T21:37:03.506059+07:00"
+    },
+    {
+      "id": "4885e2a569a62913ea9aca07ef7b3733",
+      "title": "Người Iran ở hai thái cực sau cuộc không kích của Mỹ - Israel",
+      "link": "https://vnexpress.net/nguoi-iran-o-hai-thai-cuc-sau-cuoc-khong-kich-cua-my-israel-5045821.html",
+      "summary": "Sau cuộc không kích của Mỹ - Israel, người dân ở nhiều nơi phản ứng theo hai hướng đối lập: xuống đường biểu tình phản đối, trong khi những nhóm khác tụ tập ăn mừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:14:45+07:00",
+      "fetched": "2026-03-02T21:37:00.067444+07:00"
+    },
+    {
+      "id": "84c1a0574fb942fccf98a6f9401d3d2f",
+      "title": "Từ năm 2027, bác sĩ phải thi đánh giá năng lực trước khi hành nghề",
+      "link": "https://vnexpress.net/tu-nam-2027-bac-si-phai-thi-danh-gia-nang-luc-truoc-khi-hanh-nghe-5045843.html",
+      "summary": "Bác sĩ tốt nghiệp chưa được hành nghề khám chữa bệnh ngay mà phải vượt qua kỳ đánh giá năng lực do Hội đồng Y khoa quốc gia tổ chức, bắt đầu từ năm 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:04:07+07:00",
+      "fetched": "2026-03-02T21:37:00.067608+07:00"
+    },
+    {
+      "id": "85b2418df13bf10ef080b21e0a923c9d",
+      "title": "Iran đối mặt ngã rẽ lịch sử",
+      "link": "https://vnexpress.net/iran-doi-mat-nga-re-lich-su-5045469.html",
+      "summary": "Cái chết của ông Khamenei đẩy Iran vào bước ngoặt lịch sử, nơi hy vọng thay đổi chế độ va chạm với nguy cơ hỗn loạn kéo dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:00:00+07:00",
+      "fetched": "2026-03-02T21:37:00.067783+07:00"
+    },
+    {
+      "id": "10c29e74fe4c79cc668586da429bf581",
+      "title": "'Đàn ông Việt rất lười xem phim Việt'",
+      "link": "https://vnexpress.net/dan-ong-viet-rat-luoi-xem-phim-viet-5045789.html",
+      "summary": "Vấn đề nằm ở chất lượng phim Việt hay đàn ông thích xem phim hành động mãn nhãn của nước ngoài làm?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:00:00+07:00",
+      "fetched": "2026-03-02T21:37:00.067952+07:00"
+    },
+    {
+      "id": "6447a82c4cd94406da7f1af1ec61f17d",
+      "title": "Xem nhanh 20h ngày 2.3: Kuwait nói nhiều chiến đấu cơ Mỹ rơi | Trung Đông trong vòng xoáy khó lường",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-23-kuwait-noi-nhieu-chien-dau-co-my-roi-trung-dong-trong-vong-xoay-kho-luong-18526030219510124.htm",
+      "summary": "'Xem nhanh 20h' ngày 2.3 có nhiều tin tức đáng chú ý về: 'Một vài' chiến đấu cơ Mỹ rơi ở Kuwait; Xung đột Iran leo thang khi Hezbollah tham chiến, Israel tấn công Li Băng;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:00:00+07:00",
+      "fetched": "2026-03-02T21:37:03.506207+07:00"
+    },
+    {
+      "id": "fdd62d6b010bc3560b7f657ecfa12e6f",
+      "title": "Mỹ xác nhận 3 tiêm kích F-15 bị Kuwait bắn rơi vì nhầm",
+      "link": "https://thanhnien.vn/my-xac-nhan-3-tiem-kich-f-15-bi-kuwait-ban-roi-vi-nham-185260302182015787.htm",
+      "summary": "Quân đội Mỹ xác nhận 3 tiêm kích F-15 của nước này đã bị lực lượng phòng không Kuwait bắn rơi vào sáng 2.3 giữa giao tranh ác liệt với Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T13:00:00+07:00",
+      "fetched": "2026-03-02T21:37:03.506355+07:00"
+    },
+    {
+      "id": "85b2418df13bf10ef080b21e0a923c9d",
+      "title": "Iran đối mặt ngã rẽ lịch sử",
+      "link": "https://vnexpress.net/iran-doi-mat-nga-re-lich-su-5045469.html",
+      "summary": "Cái chết của ông Khamenei đẩy Iran vào bước ngoặt lịch sử, nơi hy vọng thay đổi chế độ va chạm với nguy cơ hỗn loạn kéo dài.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-02T13:00:00+07:00",
+      "fetched": "2026-03-02T21:37:05.054391+07:00"
+    },
+    {
+      "id": "4b08ad600d8f4c4de6bd327362613d68",
+      "title": "UAV Iran tấn công vào nhà máy lọc dầu lớn nhất Arab Saudi",
+      "link": "https://vnexpress.net/uav-iran-tan-cong-vao-nha-may-loc-dau-lon-nhat-arab-saudi-5045833.html",
+      "summary": "Một cuộc tấn công bằng thiết bị bay không người lái UAV của Iran đã nhắm vào một trong những nhà máy lọc dầu lớn ở Trung Đông, nhằm đáp trả cuộc không kích của Mỹ-Israel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T12:50:40+07:00",
+      "fetched": "2026-03-02T21:37:00.068118+07:00"
+    },
+    {
+      "id": "51164de8f49127d65fa3d5c1c460faef",
+      "title": "Cuộc không kích của Mỹ - Israel vào Iran diễn ra thế nào",
+      "link": "https://vnexpress.net/cuoc-khong-kich-cua-my-israel-vao-iran-dien-ra-the-nao-5045437.html",
+      "summary": "Hơn hai ngày qua, Trung Đông rung chuyển vì các đòn không kích và đáp trả giữa Mỹ – Israel và Iran khiến hàng trăm người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T12:46:53+07:00",
+      "fetched": "2026-03-02T21:37:00.068275+07:00"
+    },
+    {
       "id": "6b325b8af0b17293daaea13be20981f4",
       "title": "Rằng tháng giêng: Chùa Ông ở Chợ Lớn nhộn nhịp người đến vay lộc, trả lộc",
       "link": "https://thanhnien.vn/rang-thang-gieng-chua-ong-o-cho-lon-nhon-nhip-nguoi-den-vay-loc-tra-loc-18526030215201492.htm",
@@ -611,6 +1071,26 @@ window.newsData_2026_03_02 = {
       "category": "Tổng hợp",
       "published": "2026-03-02T12:30:00+07:00",
       "fetched": "2026-03-02T19:35:40.155553+07:00"
+    },
+    {
+      "id": "edc9d0b6ccf454382f18cfc24e199a98",
+      "title": "Mỹ xác nhận ba tiêm kích F-15E bị Kuwait bắn nhầm cùng lúc",
+      "link": "https://vnexpress.net/my-xac-nhan-ba-tiem-kich-f-15e-bi-kuwait-ban-nham-cung-luc-5045830.html",
+      "summary": "Bộ tư lệnh Trung tâm quân đội Mỹ cho biết ba tiêm kích F-15E bị phòng không Kuwait bắn nhầm khi đang tham gia chiến dịch tập kích Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T12:27:26+07:00",
+      "fetched": "2026-03-02T21:37:00.068430+07:00"
+    },
+    {
+      "id": "edc9d0b6ccf454382f18cfc24e199a98",
+      "title": "Mỹ xác nhận ba tiêm kích F-15E bị Kuwait bắn nhầm cùng lúc",
+      "link": "https://vnexpress.net/my-xac-nhan-ba-tiem-kich-f-15e-bi-kuwait-ban-nham-cung-luc-5045830.html",
+      "summary": "Bộ tư lệnh Trung tâm quân đội Mỹ cho biết ba tiêm kích F-15E bị phòng không Kuwait bắn nhầm khi đang tham gia chiến dịch tập kích Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-02T12:27:26+07:00",
+      "fetched": "2026-03-02T21:37:05.054557+07:00"
     },
     {
       "id": "3a1c219a3178b770d79a743f07546971",
@@ -631,6 +1111,16 @@ window.newsData_2026_03_02 = {
       "category": "Tổng hợp",
       "published": "2026-03-02T12:10:06+07:00",
       "fetched": "2026-03-02T19:35:37.405692+07:00"
+    },
+    {
+      "id": "a2bdc1b59316c34a8dcc9c5d6725ff9e",
+      "title": "Cậu học trò thi vượt cấp, giành huy chương Olympic AI thế giới",
+      "link": "https://vnexpress.net/cau-hoc-tro-thi-vuot-cap-gianh-huy-chuong-olympic-ai-the-gioi-5045839.html",
+      "summary": "Là thành viên trẻ nhất đội Việt Nam, Kỳ Nam giành huy chương đồng Olympic Trí tuệ nhân tạo thế giới (IAIO) 2026 với phần thi thực hành vào top 5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T12:10:06+07:00",
+      "fetched": "2026-03-02T21:37:00.068747+07:00"
     },
     {
       "id": "6187eaf3245015928904221f87aa0bce",
@@ -1051,6 +1541,16 @@ window.newsData_2026_03_02 = {
       "category": "Tổng hợp",
       "published": "2026-03-02T10:43:00+07:00",
       "fetched": "2026-03-02T19:35:40.157589+07:00"
+    },
+    {
+      "id": "6d2c3ff35e0a5de792539d14a7fd2621",
+      "title": "Việt Nam đè bẹp Indonesia, đứng thứ ba futsal nữ Đông Nam Á",
+      "link": "https://vnexpress.net/viet-nam-de-bep-indonesia-dung-thu-ba-futsal-nu-dong-nam-a-5045791.html",
+      "summary": "Thi đấu bùng nổ sau khi bị dẫn bàn, Việt Nam thắng ngược Indonesia 4-1 ở trận tranh giải ba giải futsal nữ Đông Nam Á, chiều 2/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-02T10:40:03+07:00",
+      "fetched": "2026-03-02T21:37:10.245610+07:00"
     },
     {
       "id": "7eb00ff26f2a26b7c1d407276bbfbfa1",
