@@ -1,7 +1,27 @@
 window.newsData_2026_03_03 = {
   "date": "2026-03-03",
-  "lastUpdated": "2026-03-03T01:33:53.739356+07:00",
+  "lastUpdated": "2026-03-03T03:25:45.043494+07:00",
   "articles": [
+    {
+      "id": "23fd9a70b22ed4983ffecca03d983201",
+      "title": "Ông Trump cảnh báo còn tấn công Iran 4 - 5 tuần và... dài hơn",
+      "link": "https://tuoitre.vn/ong-trump-canh-bao-con-tan-cong-iran-4-5-tuan-va-dai-hon-20260302224739343.htm",
+      "summary": "Ông Trump nói sắp tấn công lớn vào Iran; Tehran tuyên bố đã nhắm vào 60 mục tiêu, 500 đơn vị của Mỹ và Israel trong 2 ngày qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T03:25:36.804599+07:00",
+      "fetched": "2026-03-03T03:25:36.804713+07:00"
+    },
+    {
+      "id": "8a0889bf1cf6006b5769ddf82504db76",
+      "title": "Tin tức sáng 3-3: Tiếp tục sắp xếp bộ máy, tinh giản biên chế trong tháng 3",
+      "link": "https://tuoitre.vn/tin-tuc-sang-3-3-tiep-tuc-sap-xep-bo-may-tinh-gian-bien-che-trong-thang-3-20260302214928572.htm",
+      "summary": "Tin tức đáng chú ý: Tiếp tục sắp xếp bộ máy, tinh giản biên chế trong tháng 3; Bộ Công an đề xuất mới về đối tượng được gặp phạm nhân; 'Trùm' buôn xe Mercedes chật vật rao bán lô đất nghìn tỉ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T03:25:36.803812+07:00",
+      "fetched": "2026-03-03T03:25:36.804026+07:00"
+    },
     {
       "id": "ffedd6579bce3d9c44a84107d473a67d",
       "title": "UOB nâng dự báo giá vàng lên 6.000 USD/ounce vào quý 1-2027",
@@ -151,6 +171,26 @@ window.newsData_2026_03_03 = {
       "category": "Tổng hợp",
       "published": "2026-03-03T01:33:47.305081+07:00",
       "fetched": "2026-03-03T01:33:47.305290+07:00"
+    },
+    {
+      "id": "3d997c9866d8785a9d2e1b88fa414b41",
+      "title": "Thủ phạm âm thầm gây bệnh thận mạn",
+      "link": "https://vnexpress.net/thu-pham-am-tham-gay-benh-than-man-5045160.html",
+      "summary": "Béo phì, hút thuốc, yếu tố môi trường, lạm dụng thuốc giảm đau thông dụng và thực phẩm bổ sung đều có thể âm thầm gây tổn thương thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T18:03:00+07:00",
+      "fetched": "2026-03-03T03:25:31.867418+07:00"
+    },
+    {
+      "id": "66791e5dd49e7e2110602b3752411a47",
+      "title": "Bệnh phù chân voi",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/benh-phu-chan-voi-407",
+      "summary": "Phù chân voi (giun chỉ bạch huyết) là bệnh lây sang người qua muỗi mang ký sinh trùng giun chỉ, có thể tồn tại trong hệ bạch huyết nhiều năm, âm thầm gây tổn thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T18:00:00+07:00",
+      "fetched": "2026-03-03T03:25:31.867596+07:00"
     },
     {
       "id": "607dd5ffea74e26249ea17b464de52c6",
