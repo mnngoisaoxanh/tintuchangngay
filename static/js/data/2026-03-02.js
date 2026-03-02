@@ -1,7 +1,97 @@
 window.newsData_2026_03_02 = {
   "date": "2026-03-02",
-  "lastUpdated": "2026-03-02T21:37:10.256661+07:00",
+  "lastUpdated": "2026-03-02T23:32:47.774823+07:00",
   "articles": [
+    {
+      "id": "ffedd6579bce3d9c44a84107d473a67d",
+      "title": "UOB nâng dự báo giá vàng lên 6.000 USD/ounce vào quý 1-2027",
+      "link": "https://tuoitre.vn/uob-nang-du-bao-gia-vang-len-6-000-usd-ounce-vao-quy-1-2027-20260302204048901.htm",
+      "summary": "Căng thẳng mới nhất tại Iran càng làm gia tăng nhu cầu trú ẩn an toàn của nhà đầu tư vào vàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T23:32:42.581584+07:00",
+      "fetched": "2026-03-02T23:32:42.581702+07:00"
+    },
+    {
+      "id": "b5b2f02744bd62302a1baad58c3004ef",
+      "title": "Tổng Bí thư nói về bản 'thiết kế tổng thể' cho mô hình tăng trưởng kinh tế 2 con số của Việt Nam",
+      "link": "https://tuoitre.vn/tong-bi-thu-noi-ve-ban-thiet-ke-tong-the-cho-mo-hinh-tang-truong-kinh-te-2-con-so-cua-viet-nam-20260302191111212.htm",
+      "summary": "Chiều 2-3, Tổng Bí thư Tô Lâm chủ trì làm việc với Ban Chính sách, Chiến lược Trung ương, các cơ quan liên quan về xây dựng nghị quyết về giải pháp chiến lược thúc đẩy tăng trưởng kinh tế 2 con số gắn với xác lập mô hình tăng trưởng mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T23:32:42.581421+07:00",
+      "fetched": "2026-03-02T23:32:42.581571+07:00"
+    },
+    {
+      "id": "5b966cb33b6d7ab497058a84e2b2a840",
+      "title": "Hà Nội đặt mục tiêu năm 2030 có 50% xã, phường không ma túy",
+      "link": "https://tuoitre.vn/ha-noi-dat-muc-tieu-nam-2030-co-50-xa-phuong-khong-ma-tuy-20260302203415499.htm",
+      "summary": "Phó chủ tịch thường trực UBND TP Hà Nội Dương Đức Tuấn vừa ký ban hành kế hoạch số 76 về triển khai thực hiện dự án \"Nâng cao hiệu quả công tác phòng, chống ma túy tại cơ sở\" thuộc chương trình mục tiêu quốc gia phòng, chống ma túy đến năm 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T23:32:42.581243+07:00",
+      "fetched": "2026-03-02T23:32:42.581401+07:00"
+    },
+    {
+      "id": "36b107e0b804cb4870269d80fff990ff",
+      "title": "Quyền Bộ trưởng Hoàng Minh Sơn: Sẽ đấu tranh với hiện tượng chưa lành mạnh trong dạy thêm, học thêm",
+      "link": "https://tuoitre.vn/quyen-bo-truong-hoang-minh-son-se-dau-tranh-voi-hien-tuong-chua-lanh-manh-trong-day-them-hoc-them-20260302204400906.htm",
+      "summary": "Quyền Bộ trưởng Bộ Giáo dục và Đào tạo Hoàng Minh Sơn cam kết sẽ đấu tranh với những hiện tượng chưa lành mạnh trong việc dạy thêm, học thêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T23:32:42.581092+07:00",
+      "fetched": "2026-03-02T23:32:42.581230+07:00"
+    },
+    {
+      "id": "fc84becd33c3d714ab7ba0f08c279c05",
+      "title": "Tuyển nữ Việt Nam mổ băng phân tích tuyển Ấn Độ",
+      "link": "https://tuoitre.vn/tuyen-nu-viet-nam-mo-bang-phan-tich-tuyen-an-do-20260302212056952.htm",
+      "summary": "Ngày 2-3, tuyển nữ Việt Nam có buổi họp kỹ chiến thuật và phân tích điểm mạnh yếu của tuyển nữ bóng đá Ấn Độ, đối thủ ngày ra quân bảng C, Asian Cup nữ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T23:32:42.580963+07:00",
+      "fetched": "2026-03-02T23:32:42.581080+07:00"
+    },
+    {
+      "id": "e168e836b78081594182d0794668f1c9",
+      "title": "Trấn Thành phủ nhận tin đồn diễn viên 'Thỏ ơi!!' nhận cát xê 1,2 tỉ đồng",
+      "link": "https://tuoitre.vn/tran-thanh-phu-nhan-tin-don-dien-vien-tho-oi-nhan-cat-xe-1-2-ti-dong-20260302214054769.htm",
+      "summary": "Tối 2-3, đạo diễn Trấn Thành lên tiếng phủ nhận tin đồn dàn diễn viên 'Thỏ ơi!!' nhận cát xê khủng, trong đó diễn viên chính lên đến 1,2 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T23:32:42.580829+07:00",
+      "fetched": "2026-03-02T23:32:42.580951+07:00"
+    },
+    {
+      "id": "f44334710f70f9133672d6a6b80438c7",
+      "title": "Phạt 193 tài xế vi phạm tại đường ngang đường sắt, có người mắc kẹt vì cố lách rào chắn",
+      "link": "https://tuoitre.vn/phat-193-tai-xe-vi-pham-tai-duong-ngang-duong-sat-co-nguoi-mac-ket-vi-co-lach-rao-chan-20260302214642977.htm",
+      "summary": "\"Điều này cho thấy tâm lý chủ quan, chỉ vì muốn tiết kiệm thời gian nhưng khi chưa thấy tàu vẫn cố tình lách qua cần chắn, tiềm ẩn nguy cơ tai nạn đường sắt đặc biệt nghiêm trọng\", theo Cục Cảnh sát giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T23:32:42.580686+07:00",
+      "fetched": "2026-03-02T23:32:42.580809+07:00"
+    },
+    {
+      "id": "4ec083bb9e6f16e7d172ef771629a4d3",
+      "title": "Thua liền 3 trận, CLB Ninh Bình chia tay HLV người Tây Ban Nha",
+      "link": "https://tuoitre.vn/thua-lien-3-tran-clb-ninh-binh-chia-tay-hlv-nguoi-tay-ban-nha-20260302222426541.htm",
+      "summary": "Sau 3 trận thua liên tiếp ở LPBank V-League 2025 - 2026, CLB Ninh Bình thực hiện thay đổi ở hàng ngũ huấn luyện hòng cứu vãn cuộc đua vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T23:32:42.580543+07:00",
+      "fetched": "2026-03-02T23:32:42.580673+07:00"
+    },
+    {
+      "id": "285677018134ed21656d1486bb03979a",
+      "title": "Dầu, khí đốt và USD cùng tăng giữa xung đột Trung Đông",
+      "link": "https://tuoitre.vn/dau-khi-dot-va-usd-cung-tang-giua-xung-dot-trung-dong-20260302222322425.htm",
+      "summary": "Giá dầu và khí đốt tăng vọt, trong khi thị trường chứng khoán châu Âu và châu Âu giảm điểm và đồng USD trỗi dậy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T23:32:42.580327+07:00",
+      "fetched": "2026-03-02T23:32:42.580528+07:00"
+    },
     {
       "id": "2c9ce7cb8a00ee9186e66c466ec80a4d",
       "title": "Thắng áp đảo Iran, tuyển nữ Hàn Quốc khởi đầu thuận lợi tại Asian Cup 2026",
@@ -453,6 +543,56 @@ window.newsData_2026_03_02 = {
       "fetched": "2026-03-02T17:35:34.498139+07:00"
     },
     {
+      "id": "7f767153ea4a1e3112e091add50e0e37",
+      "title": "PVGas giảm giao hàng do đứt gãy nguồn cung từ Trung Đông",
+      "link": "https://vnexpress.net/pvgas-giam-giao-hang-do-dut-gay-nguon-cung-tu-trung-dong-5045881.html",
+      "summary": "Sự cố ở cơ sở sản xuất khí hóa lỏng và căng thẳng vũ trang ở Trung Đông khiến nguồn LPG nhập khẩu gián đoạn, buộc PVGas Trading giảm tiến độ giao hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T16:09:52+07:00",
+      "fetched": "2026-03-02T23:32:38.875744+07:00"
+    },
+    {
+      "id": "3dc19e3adc03f1c650f2abca75f38b7b",
+      "title": "Ninh Bình sa thải HLV người Tây Ban Nha",
+      "link": "https://vnexpress.net/ninh-binh-sa-thai-hlv-nguoi-tay-ban-nha-5045880.html",
+      "summary": "HLV Gerard Albadalejo thôi việc ở CLB Ninh Bình sau ba trận thua liên tiếp tại V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T15:57:59+07:00",
+      "fetched": "2026-03-02T23:32:38.875922+07:00"
+    },
+    {
+      "id": "3dc19e3adc03f1c650f2abca75f38b7b",
+      "title": "Ninh Bình sa thải HLV người Tây Ban Nha",
+      "link": "https://vnexpress.net/ninh-binh-sa-thai-hlv-nguoi-tay-ban-nha-5045880.html",
+      "summary": "HLV Gerard Albadalejo thôi việc ở CLB Ninh Bình sau ba trận thua liên tiếp tại V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-02T15:57:59+07:00",
+      "fetched": "2026-03-02T23:32:47.761529+07:00"
+    },
+    {
+      "id": "53f31978ab92c7e5211b720c7d10d222",
+      "title": "Thuyền trưởng đưa tàu sang Philippines đánh cá bị khởi tố",
+      "link": "https://vnexpress.net/thuyen-truong-dua-tau-sang-philippines-danh-ca-bi-khoi-to-5045876.html",
+      "summary": "Võ Quốc Toại đưa 4 ngư dân sang vùng biển Philippines khai thác thủy sản trái phép và bị lực lượng chức năng nước này bắt giữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T15:56:33+07:00",
+      "fetched": "2026-03-02T23:32:38.876101+07:00"
+    },
+    {
+      "id": "113c3789ffe9754feab06fcb0c1c1b13",
+      "title": "Pháp sẽ gia tăng số đầu đạn hạt nhân",
+      "link": "https://thanhnien.vn/phap-se-gia-tang-so-dau-dan-hat-nhan-185260302222731064.htm",
+      "summary": "Tổng thống Pháp Emmanuel Macron cho biết quốc gia hình lục lăng sẽ gia tăng số đầu đạn hạt nhân và chuyển sang giai đoạn răn đe mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T15:54:00+07:00",
+      "fetched": "2026-03-02T23:32:41.693550+07:00"
+    },
+    {
       "id": "85c25942e43569b64a813d3c89c7b77b",
       "title": "Đại lý thuế không còn dừng ở dịch vụ kê khai",
       "link": "https://tuoitre.vn/dai-ly-thue-khong-con-dung-o-dich-vu-ke-khai-20260302131955747.htm",
@@ -603,6 +743,126 @@ window.newsData_2026_03_02 = {
       "fetched": "2026-03-02T15:33:36.647505+07:00"
     },
     {
+      "id": "360f0a7d5cd0c72d7c46865aab78b2bc",
+      "title": "Người Israel kể 'ngày kinh hoàng' khi tên lửa Iran giáng xuống",
+      "link": "https://vnexpress.net/nguoi-israel-ke-ngay-kinh-hoang-khi-ten-lua-iran-giang-xuong-5045760.html",
+      "summary": "Tên lửa Iran đánh trúng hầm trú bom trong khu dân cư ở miền trung Israel, khoét hố sâu hoắm, cướp đi mạng sống của ít nhất 9 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T15:25:44+07:00",
+      "fetched": "2026-03-02T23:32:38.876293+07:00"
+    },
+    {
+      "id": "360f0a7d5cd0c72d7c46865aab78b2bc",
+      "title": "Người Israel kể 'ngày kinh hoàng' khi tên lửa Iran giáng xuống",
+      "link": "https://vnexpress.net/nguoi-israel-ke-ngay-kinh-hoang-khi-ten-lua-iran-giang-xuong-5045760.html",
+      "summary": "Tên lửa Iran đánh trúng hầm trú bom trong khu dân cư ở miền trung Israel, khoét hố sâu hoắm, cướp đi mạng sống của ít nhất 9 người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-02T15:25:44+07:00",
+      "fetched": "2026-03-02T23:32:43.838304+07:00"
+    },
+    {
+      "id": "f705f03f955fd4cb1f4343949219d582",
+      "title": "iPad Air M4 trình làng với RAM 12 GB",
+      "link": "https://vnexpress.net/ipad-air-m4-trinh-lang-voi-ram-12-gb-5045873.html",
+      "summary": "iPad Air thế hệ thứ 8 không đổi thiết kế nhưng nâng cấp vi xử lý M4, tăng RAM và sử dụng chip mạng, modem không dây mới của Apple.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T15:21:16+07:00",
+      "fetched": "2026-03-02T23:32:38.876458+07:00"
+    },
+    {
+      "id": "f705f03f955fd4cb1f4343949219d582",
+      "title": "iPad Air M4 trình làng với RAM 12 GB",
+      "link": "https://vnexpress.net/ipad-air-m4-trinh-lang-voi-ram-12-gb-5045873.html",
+      "summary": "iPad Air thế hệ thứ 8 không đổi thiết kế nhưng nâng cấp vi xử lý M4, tăng RAM và sử dụng chip mạng, modem không dây mới của Apple.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-02T15:21:16+07:00",
+      "fetched": "2026-03-02T23:32:46.863660+07:00"
+    },
+    {
+      "id": "c762e93ff84fc398837ac0e26dc42dae",
+      "title": "Nhiều nước Trung Đông dừng khai thác dầu khí",
+      "link": "https://vnexpress.net/nhieu-nuoc-trung-dong-dung-khai-thac-dau-khi-5045867.html",
+      "summary": "Qatar ngừng sản xuất khí hóa lỏng, Israel tạm đóng mỏ khí đốt, trong khi Saudi Arabia đóng cửa nhà máy lọc dầu lớn nhất nước vì chiến sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T15:19:15+07:00",
+      "fetched": "2026-03-02T23:32:38.876619+07:00"
+    },
+    {
+      "id": "c762e93ff84fc398837ac0e26dc42dae",
+      "title": "Nhiều nước Trung Đông dừng khai thác dầu khí",
+      "link": "https://vnexpress.net/nhieu-nuoc-trung-dong-dung-khai-thac-dau-khi-5045867.html",
+      "summary": "Qatar ngừng sản xuất khí hóa lỏng, Israel tạm đóng mỏ khí đốt, trong khi Saudi Arabia đóng cửa nhà máy lọc dầu lớn nhất nước vì chiến sự.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-02T15:19:15+07:00",
+      "fetched": "2026-03-02T23:32:44.926950+07:00"
+    },
+    {
+      "id": "f9aa17a8bb93934973215ce4ba8f4aae",
+      "title": "Dàn sao ủng hộ Mỹ Tâm, Mai Tài Phến ra mắt phim",
+      "link": "https://vnexpress.net/dan-sao-ung-ho-my-tam-mai-tai-phen-ra-mat-phim-5045860.html",
+      "summary": "Vợ chồng nhạc sĩ Phan Mạnh Quỳnh, ca sĩ Phương Mỹ Chi, Noo Phước Thịnh đi xem \"Tài\" - phim điện ảnh Mỹ Tâm sản xuất, tối 2/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T15:06:39+07:00",
+      "fetched": "2026-03-02T23:32:38.876783+07:00"
+    },
+    {
+      "id": "2300bdaa1c764fa9ccb11cc9d0cb5b22",
+      "title": "Sau cưới 4 tháng, vợ khiến tôi tức đến mức phải nói: 'Không cần vợ như cô'",
+      "link": "https://vnexpress.net/sau-cuoi-4-thang-vo-khien-toi-tuc-den-muc-phai-noi-khong-can-vo-nhu-co-5045777.html",
+      "summary": "Vợ chồng mới cưới được 4 tháng nhưng thường xuyên cãi vã dù lắm lúc chuyện chỉ nhỏ như cái móng tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T15:04:58+07:00",
+      "fetched": "2026-03-02T23:32:38.876953+07:00"
+    },
+    {
+      "id": "944dcf6ed47c871711f7ba3206dda6b1",
+      "title": "Sunshine Group đầu tư 12 tòa chung cư trên đất vàng Ciputra",
+      "link": "https://vnexpress.net/sunshine-group-dau-tu-12-toa-chung-cu-tren-dat-vang-ciputra-5045849.html",
+      "summary": "Chiều 2/3, Sunshine Group khởi công 12 tòa chung cư hạng sang trên khu đất rộng 6 ha tại khu đô thị Ciputra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T15:03:33+07:00",
+      "fetched": "2026-03-02T23:32:38.877119+07:00"
+    },
+    {
+      "id": "213118353ac89deb4dd48b8ebf7426d7",
+      "title": "Tổng Bí thư Tô Lâm: Tăng trưởng phải nâng cao thu nhập người dân",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-tang-truong-phai-nang-cao-thu-nhap-nguoi-dan-5045859.html",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu xây dựng Nghị quyết thúc đẩy tăng trưởng hai con số đến năm 2045, bảo đảm ổn định, chất lượng, không đánh đổi môi trường và đời sống nhân dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T14:56:45+07:00",
+      "fetched": "2026-03-02T23:32:38.877299+07:00"
+    },
+    {
+      "id": "0e9ef48eb953fdae218e2e959e96ef54",
+      "title": "iPhone 17e hỗ trợ MagSafe, thêm màu hồng, giá từ 18 triệu đồng",
+      "link": "https://vnexpress.net/iphone-17e-ho-tro-magsafe-them-mau-hong-gia-tu-18-trieu-dong-5045861.html",
+      "summary": "iPhone 17e nâng cấp bộ nhớ trong khởi điểm lên gấp đôi là 256 GB, dùng chip A19 như iPhone 17, thêm trang bị MagSafe so với model tiền nhiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T14:47:18+07:00",
+      "fetched": "2026-03-02T23:32:38.877454+07:00"
+    },
+    {
+      "id": "0e9ef48eb953fdae218e2e959e96ef54",
+      "title": "iPhone 17e hỗ trợ MagSafe, thêm màu hồng, giá từ 18 triệu đồng",
+      "link": "https://vnexpress.net/iphone-17e-ho-tro-magsafe-them-mau-hong-gia-tu-18-trieu-dong-5045861.html",
+      "summary": "iPhone 17e nâng cấp bộ nhớ trong khởi điểm lên gấp đôi là 256 GB, dùng chip A19 như iPhone 17, thêm trang bị MagSafe so với model tiền nhiệm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-02T14:47:18+07:00",
+      "fetched": "2026-03-02T23:32:46.863834+07:00"
+    },
+    {
       "id": "29f02acc4557b6744a2dc840eb87b7d1",
       "title": "Nóng: HLV người Tây Ban Nha Albadalejo bị chấm dứt hợp đồng sau chuỗi thua đau của Ninh Bình",
       "link": "https://thanhnien.vn/nong-hlv-nguoi-tay-ban-nha-albadalejo-bi-cham-dut-hop-dong-sau-chuoi-thua-dau-cua-ninh-binh-185260302212101897.htm",
@@ -611,6 +871,36 @@ window.newsData_2026_03_02 = {
       "category": "Tổng hợp",
       "published": "2026-03-02T14:34:00+07:00",
       "fetched": "2026-03-02T21:37:03.504147+07:00"
+    },
+    {
+      "id": "c3aeed52c11ace2fa6d2ffcc9b9ec2d8",
+      "title": "Hàng trăm nghìn khách mắc kẹt vì xung đột Trung Đông lan rộng",
+      "link": "https://vnexpress.net/hang-tram-nghin-khach-mac-ket-vi-xung-dot-trung-dong-lan-rong-5045852.html",
+      "summary": "Nhiều du khách bị mắc kẹt trên tàu du lịch, khách sạn hoặc sân bay đã đóng cửa tại Trung Đông khiến chính phủ một số nước phải điều xe, máy bay đưa công dân hồi hương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T14:29:23+07:00",
+      "fetched": "2026-03-02T23:32:38.877615+07:00"
+    },
+    {
+      "id": "6ce41a74e69940d28c62ebeef11dd766",
+      "title": "Tên lửa Patriot quay đầu, lao xuống đất khi chặn đòn tập kích của Iran",
+      "link": "https://vnexpress.net/ten-lua-patriot-quay-dau-lao-xuong-dat-khi-chan-don-tap-kich-cua-iran-5045809.html",
+      "summary": "Video cho thấy quả đạn từ hệ thống Patriot tại Qatar quay đầu ngay sau khi rời bệ phóng, lao xuống đất khi đối phó đòn tập kích tên lửa đêm 28/2 của Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T14:23:54+07:00",
+      "fetched": "2026-03-02T23:32:38.877769+07:00"
+    },
+    {
+      "id": "6ce41a74e69940d28c62ebeef11dd766",
+      "title": "Tên lửa Patriot quay đầu, lao xuống đất khi chặn đòn tập kích của Iran",
+      "link": "https://vnexpress.net/ten-lua-patriot-quay-dau-lao-xuong-dat-khi-chan-don-tap-kich-cua-iran-5045809.html",
+      "summary": "Video cho thấy quả đạn từ hệ thống Patriot tại Qatar quay đầu ngay sau khi rời bệ phóng, lao xuống đất khi đối phó đòn tập kích tên lửa đêm 28/2 của Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-02T14:23:54+07:00",
+      "fetched": "2026-03-02T23:32:43.838484+07:00"
     },
     {
       "id": "95a4926ed04fb45a6b6f0f3dbc3e9e09",
@@ -641,6 +931,16 @@ window.newsData_2026_03_02 = {
       "category": "Tổng hợp",
       "published": "2026-03-02T14:00:00+07:00",
       "fetched": "2026-03-02T21:37:03.504478+07:00"
+    },
+    {
+      "id": "b3fb6dbf3f3fa352cc3ab33b0749d949",
+      "title": "'Bà tiên' người Nhật cưu mang 15.000 lao động Việt",
+      "link": "https://vnexpress.net/ba-tien-nguoi-nhat-cuu-mang-15-000-lao-dong-viet-5045135.html",
+      "summary": "Ám ảnh bởi những người trẻ tuyệt vọng vì gặp khó khăn nơi đất khách, 13 năm qua, Jiho Yoshimizu đã cứu giúp 15.000 lao động Việt thoát khỏi khủng hoảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T14:00:00+07:00",
+      "fetched": "2026-03-02T23:32:38.878088+07:00"
     },
     {
       "id": "3018d596c7c4da89a46e4c9f86eb66ea",
