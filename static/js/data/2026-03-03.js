@@ -1,7 +1,47 @@
 window.newsData_2026_03_03 = {
   "date": "2026-03-03",
-  "lastUpdated": "2026-03-03T21:37:29.307454+07:00",
+  "lastUpdated": "2026-03-03T23:35:40.879561+07:00",
   "articles": [
+    {
+      "id": "c7fdb74f2888d2c2337c29b54ec6beaa",
+      "title": "Khởi tố, bắt tạm giam hai người vận chuyển trái phép dầu DO",
+      "link": "https://tuoitre.vn/khoi-to-bat-tam-giam-hai-nguoi-van-chuyen-trai-phep-dau-do-20260303204628001.htm",
+      "summary": "Ngày 3-3, thông tin từ Cơ quan cảnh sát điều tra, Công an TP Cần Thơ cho biết vừa khởi tố bị can, bắt tạm giam hai người vận chuyển trái phép dầu DO.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T23:35:33.257455+07:00",
+      "fetched": "2026-03-03T23:35:33.257565+07:00"
+    },
+    {
+      "id": "b955d67aa68f33313d222aceee5dab37",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự Hội trại tòng quân năm 2026 tại xã Đông Thạnh",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-du-hoi-trai-tong-quan-nam-2026-tai-xa-dong-thanh-20260303210508785.htm",
+      "summary": "Tối 3-3, Hội đồng nghĩa vụ quân sự xã Đông Thạnh (TP.HCM) tổ chức Hội trại tòng quân 2026 với chủ đề “Tự hào thanh niên xã Đông Thạnh”. Dự chương trình có Ủy viên Bộ Chính trị, Chủ tịch Quốc hội Trần Thanh Mẫn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T23:35:33.257344+07:00",
+      "fetched": "2026-03-03T23:35:33.257445+07:00"
+    },
+    {
+      "id": "c406aeb60302626f4140ec066ca3eab7",
+      "title": "Tổng Bí thư Tô Lâm: Chuẩn bị kỹ lưỡng nội dung, chương trình Hội nghị Trung ương Đảng lần thứ 2",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-chuan-bi-ky-luong-noi-dung-chuong-trinh-hoi-nghi-trung-uong-dang-lan-thu-2-20260303212814427.htm",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu Văn phòng Trung ương Đảng phối hợp với các cơ quan chuẩn bị chu đáo, kỹ lưỡng nội dung, chương trình, các điều kiện để tổ chức Hội nghị Trung ương Đảng lần thứ 2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T23:35:33.257222+07:00",
+      "fetched": "2026-03-03T23:35:33.257334+07:00"
+    },
+    {
+      "id": "f2387a8f742fb8b46c947b99a65f82fc",
+      "title": "Lốc xoáy quét qua xã Ba Vì, hơn 100 nhà dân tốc mái",
+      "link": "https://tuoitre.vn/loc-xoay-quet-qua-xa-ba-vi-hon-100-nha-dan-toc-mai-20260303221618622.htm",
+      "summary": "Lốc xoáy kèm mưa lớn bất ngờ quét qua xã Ba Vì, tỉnh Quảng Ngãi, làm 116 căn nhà hư hại, cây cối ngã đổ khiến một số tuyến giao thông nông thôn ách tắc cục bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T23:35:33.257008+07:00",
+      "fetched": "2026-03-03T23:35:33.257209+07:00"
+    },
     {
       "id": "7a79c0530215f5e018826ba984957c8b",
       "title": "Người dân Iran kể lại cuộc sống dưới làn bom đạn",
@@ -453,6 +493,86 @@ window.newsData_2026_03_03 = {
       "fetched": "2026-03-03T17:29:50.322702+07:00"
     },
     {
+      "id": "b6adf0b6863f562105b0a57c11ab2310",
+      "title": "Apple ra màn hình máy tính giá 90 triệu đồng",
+      "link": "https://vnexpress.net/apple-ra-man-hinh-may-tinh-gia-90-trieu-dong-5046322.html",
+      "summary": "Sau hơn 6 năm, Apple ra mắt phiên bản nâng cấp của màn hình Pro Display XDR là Studio Display XDR với giá 90 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T16:00:51+07:00",
+      "fetched": "2026-03-03T23:35:28.773946+07:00"
+    },
+    {
+      "id": "b6adf0b6863f562105b0a57c11ab2310",
+      "title": "Apple ra màn hình máy tính giá 90 triệu đồng",
+      "link": "https://vnexpress.net/apple-ra-man-hinh-may-tinh-gia-90-trieu-dong-5046322.html",
+      "summary": "Sau hơn 6 năm, Apple ra mắt phiên bản nâng cấp của màn hình Pro Display XDR là Studio Display XDR với giá 90 triệu đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-03T16:00:51+07:00",
+      "fetched": "2026-03-03T23:35:39.370034+07:00"
+    },
+    {
+      "id": "4453828ee1d65bc9a8a90fcb8aadb60a",
+      "title": "Giá dầu, khí đốt toàn cầu tăng vọt",
+      "link": "https://vnexpress.net/gia-dau-khi-dot-toan-cau-tang-vot-5046319.html",
+      "summary": "Giá dầu và khí đốt toàn cầu tăng mạnh trong phiên 3/3 khi xung đột tại Trung Đông gây gián đoạn chuỗi cung ứng năng lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T15:50:52+07:00",
+      "fetched": "2026-03-03T23:35:28.774103+07:00"
+    },
+    {
+      "id": "4453828ee1d65bc9a8a90fcb8aadb60a",
+      "title": "Giá dầu, khí đốt toàn cầu tăng vọt",
+      "link": "https://vnexpress.net/gia-dau-khi-dot-toan-cau-tang-vot-5046319.html",
+      "summary": "Giá dầu và khí đốt toàn cầu tăng mạnh trong phiên 3/3 khi xung đột tại Trung Đông gây gián đoạn chuỗi cung ứng năng lượng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-03T15:50:52+07:00",
+      "fetched": "2026-03-03T23:35:36.632771+07:00"
+    },
+    {
+      "id": "4c61b834c9197d2c1a4162aabaf80566",
+      "title": "Khởi tố đối tượng trói, đánh con ruột, hành hạ vợ mang thai",
+      "link": "https://thanhnien.vn/khoi-to-doi-tuong-troi-danh-con-ruot-hanh-ha-vo-mang-thai-185260303221933846.htm",
+      "summary": "Công an tỉnh Bắc Ninh đã khởi tố Phan Văn Minh (32 tuổi) vì có hành vi trói, đánh con ruột, hành hạ vợ đang mang thai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T15:33:00+07:00",
+      "fetched": "2026-03-03T23:35:32.035855+07:00"
+    },
+    {
+      "id": "c6a75002f767d44195050218daec526e",
+      "title": "Apple ra chip M5 Pro, M5 Max lần đầu có 'lõi siêu xử lý'",
+      "link": "https://vnexpress.net/apple-ra-chip-m5-pro-m5-max-lan-dau-co-loi-sieu-xu-ly-5046316.html",
+      "summary": "Chip xử lý M5 Pro và M5 Max sản xuất trên tiến trình 3 nm thế hệ ba với 18 lõi và lần đầu sử dụng 6 lõi hiệu năng cao nhất được Apple gọi là \"lõi siêu xử lý\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T15:31:34+07:00",
+      "fetched": "2026-03-03T23:35:28.774245+07:00"
+    },
+    {
+      "id": "c6a75002f767d44195050218daec526e",
+      "title": "Apple ra chip M5 Pro, M5 Max lần đầu có 'lõi siêu xử lý'",
+      "link": "https://vnexpress.net/apple-ra-chip-m5-pro-m5-max-lan-dau-co-loi-sieu-xu-ly-5046316.html",
+      "summary": "Chip xử lý M5 Pro và M5 Max sản xuất trên tiến trình 3 nm thế hệ ba với 18 lõi và lần đầu sử dụng 6 lõi hiệu năng cao nhất được Apple gọi là \"lõi siêu xử lý\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-03T15:31:34+07:00",
+      "fetched": "2026-03-03T23:35:39.370192+07:00"
+    },
+    {
+      "id": "8d18cfaaba2570c86ca76088ad335f63",
+      "title": "Tiêu chí lựa chọn hoạt chất fucoidan Nhật Bản chính hãng",
+      "link": "https://thanhnien.vn/tieu-chi-lua-chon-hoat-chat-fucoidan-nhat-ban-chinh-hang-185260303195434429.htm",
+      "summary": "Thành phần sản phẩm công khai; nguồn gốc, xuất xứ rõ ràng; được cấp phép nhập khẩu là những thông tin người tiêu dùng cần quan tâm khi mua Fucoidan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T15:31:00+07:00",
+      "fetched": "2026-03-03T23:35:32.036013+07:00"
+    },
+    {
       "id": "faf461a90a20bf30facb6832c2e6e042",
       "title": "Mỹ lần đầu xác nhận đã nổ súng vào người biểu tình ủng hộ Iran ở Karachi",
       "link": "https://tuoitre.vn/my-lan-dau-xac-nhan-da-no-sung-vao-nguoi-bieu-tinh-ung-ho-iran-o-karachi-20260303120011159.htm",
@@ -603,6 +723,136 @@ window.newsData_2026_03_03 = {
       "fetched": "2026-03-03T15:29:26.119756+07:00"
     },
     {
+      "id": "7d9a3eef87d6488a5b004e51b6307690",
+      "title": "Bị phạt 2,5 triệu đồng vì bay flycam tại cảng Liên Chiểu",
+      "link": "https://vnexpress.net/bi-phat-2-5-trieu-dong-vi-bay-flycam-tai-cang-lien-chieu-5046300.html",
+      "summary": "Một người đàn ông ở Đà Nẵng bị xử phạt 2,5 triệu đồng và tịch thu flycam do điều khiển thiết bị bay trái phép tại khu vực cảng Liên Chiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T15:23:29+07:00",
+      "fetched": "2026-03-03T23:35:28.774378+07:00"
+    },
+    {
+      "id": "5e010d420edb62d3f7073653d71e4b57",
+      "title": "Ca sĩ Thanh Thảo nói gì về 'người cũ'?",
+      "link": "https://thanhnien.vn/ca-si-thanh-thao-noi-gi-ve-nguoi-cu-1852603032002077.htm",
+      "summary": "Ca sĩ Thanh Thảo có dịp trải lòng về hành trình nghệ thuật, đồng thời không ngại khi nhắc về những người đàn ông đã bước qua cuộc đời và sự nghiệp của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T15:10:00+07:00",
+      "fetched": "2026-03-03T23:35:32.036144+07:00"
+    },
+    {
+      "id": "03015009bc6d89a7a6555574b5ef2eae",
+      "title": "Phim tết của Trấn Thành đạt 400 tỉ đồng, ai đủ sức 'cản đường'?",
+      "link": "https://thanhnien.vn/phim-tet-cua-tran-thanh-dat-400-ti-dong-ai-du-suc-can-duong-185260303215123115.htm",
+      "summary": "'Thỏ ơi' của Trấn Thành vẫn giữ vị trí dẫn đầu doanh thu phòng vé trong ngày. Hiện phim vượt qua thành tích của 'Bộ tứ báo thủ' và cán mốc 400 tỉ đồng sau 2 tuần ra rạp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T15:06:00+07:00",
+      "fetched": "2026-03-03T23:35:32.036270+07:00"
+    },
+    {
+      "id": "38a4db91b18079acf4606798b7ab770b",
+      "title": "Mặt Trăng đỏ rực trong nguyệt thực toàn phần",
+      "link": "https://vnexpress.net/mat-trang-do-ruc-trong-nguyet-thuc-toan-phan-5046311.html",
+      "summary": "Việt Nam cùng nhiều nơi thuộc châu Á, châu Mỹ, châu Đại Dương tối nay (3/3) đón nguyệt thực toàn phần, khi Mặt Trăng đi vào bóng Trái Đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T15:04:47+07:00",
+      "fetched": "2026-03-03T23:35:28.774509+07:00"
+    },
+    {
+      "id": "38a4db91b18079acf4606798b7ab770b",
+      "title": "Mặt Trăng đỏ rực trong nguyệt thực toàn phần",
+      "link": "https://vnexpress.net/mat-trang-do-ruc-trong-nguyet-thuc-toan-phan-5046311.html",
+      "summary": "Việt Nam cùng nhiều nơi thuộc châu Á, châu Mỹ, châu Đại Dương tối nay (3/3) đón nguyệt thực toàn phần, khi Mặt Trăng đi vào bóng Trái Đất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-03T15:04:47+07:00",
+      "fetched": "2026-03-03T23:35:39.370330+07:00"
+    },
+    {
+      "id": "8cce2a307704c4dfcb48c2ddbe0f1889",
+      "title": "Giá vàng thế giới, chứng khoán Mỹ cùng lao dốc",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-chung-khoan-my-cung-lao-doc-5046314.html",
+      "summary": "Mỗi ounce vàng hiện mất hơn 250 USD, trong khi chỉ số DJIA của chứng khoán Mỹ giảm trên 1.000 điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T15:02:19+07:00",
+      "fetched": "2026-03-03T23:35:28.774641+07:00"
+    },
+    {
+      "id": "8cce2a307704c4dfcb48c2ddbe0f1889",
+      "title": "Giá vàng thế giới, chứng khoán Mỹ cùng lao dốc",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-chung-khoan-my-cung-lao-doc-5046314.html",
+      "summary": "Mỗi ounce vàng hiện mất hơn 250 USD, trong khi chỉ số DJIA của chứng khoán Mỹ giảm trên 1.000 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-03T15:02:19+07:00",
+      "fetched": "2026-03-03T23:35:36.632934+07:00"
+    },
+    {
+      "id": "d7cd24cfc61b6b7fe50443e2f317b307",
+      "title": "Mỹ, Israel tập kích cơ quan bầu lãnh tụ tối cao Iran",
+      "link": "https://thanhnien.vn/my-israel-tap-kich-co-quan-bau-lanh-tu-toi-cao-iran-185260303214911623.htm",
+      "summary": "Truyền thông Iran ngày 3.3 cho biết Mỹ và Israel đã không kích vào tòa nhà của Hội đồng chuyên gia, cơ quan chịu trách nhiệm bầu ra lãnh tụ tối cao của Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T14:59:00+07:00",
+      "fetched": "2026-03-03T23:35:32.036397+07:00"
+    },
+    {
+      "id": "d23accb8a47f0b5eb0dbaa053edf4750",
+      "title": "Lốc xoáy làm hơn 100 nhà tốc mái, hư hỏng",
+      "link": "https://vnexpress.net/loc-xoay-lam-hon-100-nha-toc-mai-hu-hong-5046306.html",
+      "summary": "Lốc xoáy kèm mưa lớn, gió giật mạnh ở xã Ba Vì chiều 3/3 khiến 116 nhà tốc mái, nhiều cây xanh và trụ điện bị đổ ngã.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T14:55:04+07:00",
+      "fetched": "2026-03-03T23:35:28.774769+07:00"
+    },
+    {
+      "id": "2c2cc2d79da5c26853f5bad3abb60744",
+      "title": "Pháp triển khai tiêm kích Rafale bảo vệ căn cứ ở UAE",
+      "link": "https://vnexpress.net/phap-trien-khai-tiem-kich-rafale-bao-ve-can-cu-o-uae-5046290.html",
+      "summary": "Chiến đấu cơ Rafale của Pháp tại UAE đã được điều động để bảo vệ các căn cứ nước này ở quốc gia Trung Đông trước đòn đánh từ Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T14:46:30+07:00",
+      "fetched": "2026-03-03T23:35:28.774899+07:00"
+    },
+    {
+      "id": "2c2cc2d79da5c26853f5bad3abb60744",
+      "title": "Pháp triển khai tiêm kích Rafale bảo vệ căn cứ ở UAE",
+      "link": "https://vnexpress.net/phap-trien-khai-tiem-kich-rafale-bao-ve-can-cu-o-uae-5046290.html",
+      "summary": "Chiến đấu cơ Rafale của Pháp tại UAE đã được điều động để bảo vệ các căn cứ nước này ở quốc gia Trung Đông trước đòn đánh từ Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-03T14:46:30+07:00",
+      "fetched": "2026-03-03T23:35:34.944406+07:00"
+    },
+    {
+      "id": "0bdafe017a002e8e9c85977d22a7ad48",
+      "title": "MacBook Air M5 ra mắt với bộ nhớ khởi điểm 512 GB",
+      "link": "https://vnexpress.net/macbook-air-m5-ra-mat-voi-bo-nho-khoi-diem-512-gb-5046302.html",
+      "summary": "Ngoài cập nhật chip M5, Apple gây ngạc nhiên cho giới công nghệ khi MacBook Air mới có bộ nhớ trong khởi điểm 512 GB, gấp đôi thế hệ cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T14:46:18+07:00",
+      "fetched": "2026-03-03T23:35:28.775045+07:00"
+    },
+    {
+      "id": "0bdafe017a002e8e9c85977d22a7ad48",
+      "title": "MacBook Air M5 ra mắt với bộ nhớ khởi điểm 512 GB",
+      "link": "https://vnexpress.net/macbook-air-m5-ra-mat-voi-bo-nho-khoi-diem-512-gb-5046302.html",
+      "summary": "Ngoài cập nhật chip M5, Apple gây ngạc nhiên cho giới công nghệ khi MacBook Air mới có bộ nhớ trong khởi điểm 512 GB, gấp đôi thế hệ cũ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-03T14:46:18+07:00",
+      "fetched": "2026-03-03T23:35:39.370463+07:00"
+    },
+    {
       "id": "ffe3dd308f0bb1b187cef63320c245d3",
       "title": "Hoa hậu Nguyễn Thanh Hà tiết lộ vai trò tại Lễ hội Áo dài TP.HCM",
       "link": "https://thanhnien.vn/hoa-hau-nguyen-thanh-ha-tiet-lo-vai-tro-tai-le-hoi-ao-dai-tphcm-185260303212910813.htm",
@@ -631,6 +881,26 @@ window.newsData_2026_03_03 = {
       "category": "Tổng hợp",
       "published": "2026-03-03T14:06:00+07:00",
       "fetched": "2026-03-03T21:37:18.928983+07:00"
+    },
+    {
+      "id": "8d811e3df4bdea1ee01850ae2493e8d0",
+      "title": "Tìm thấy thi thể du khách mất tích khi tắm biển",
+      "link": "https://vnexpress.net/tim-thay-thi-the-du-khach-mat-tich-khi-tam-bien-5046286.html",
+      "summary": "Sau 4 ngày mất tích, thi thể anh Lê Văn Thường được phát hiện dạt vào bờ biển xã Ninh Châu, cách nơi gặp nạn khoảng 15 km về phía nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T14:02:04+07:00",
+      "fetched": "2026-03-03T23:35:28.775176+07:00"
+    },
+    {
+      "id": "b3d1973345f8ee3992caf2998369bbe6",
+      "title": "'Làm công sướng hơn mở quán bún bò bằng 200 triệu đồng tiết kiệm'",
+      "link": "https://vnexpress.net/lam-cong-suong-hon-mo-quan-bun-bo-bang-200-trieu-dong-tiet-kiem-5046162.html",
+      "summary": "Dồn hết tiền tiết kiệm mở quán, bây giờ muốn sang quán thì không được mà bán tiếp thì cực và kiếm không nhiều hơn lúc đi làm công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T14:00:00+07:00",
+      "fetched": "2026-03-03T23:35:28.775309+07:00"
     },
     {
       "id": "61e27e4725fc3ac18568c2386f2e835d",
@@ -801,6 +1071,16 @@ window.newsData_2026_03_03 = {
       "category": "Tổng hợp",
       "published": "2026-03-03T13:38:24.422079+07:00",
       "fetched": "2026-03-03T13:38:24.422243+07:00"
+    },
+    {
+      "id": "601546b07a5ea2aafce8618d47f30c84",
+      "title": "Nhóm nghi phạm lập 'cứ điểm' ở Hà Nội, giả danh cảnh sát Nhật Bản lừa đảo",
+      "link": "https://vnexpress.net/nhom-nghi-pham-lap-cu-diem-o-ha-noi-gia-danh-canh-sat-nhat-ban-lua-dao-5046294.html",
+      "summary": "Nhóm người ngoại quốc lập \"đại bản doanh\" ở Hà Nội phục vụ việc giả danh cảnh sát Nhật Bản gọi điện lừa đảo, chiếm đoạt 11 tỷ đồng của người ở Nhật Bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T13:37:06+07:00",
+      "fetched": "2026-03-03T23:35:28.775566+07:00"
     },
     {
       "id": "d9493a0bad555dd42470411596232cf0",
