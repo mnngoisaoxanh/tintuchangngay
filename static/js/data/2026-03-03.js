@@ -1,7 +1,157 @@
 window.newsData_2026_03_03 = {
   "date": "2026-03-03",
-  "lastUpdated": "2026-03-03T17:29:55.950889+07:00",
+  "lastUpdated": "2026-03-03T19:35:02.730875+07:00",
   "articles": [
+    {
+      "id": "f6d2f49410094f0b33b1022478ffcbb0",
+      "title": "Công bố quyết định kiểm tra, giám sát đối với Ban Thường vụ Tỉnh ủy Hưng Yên",
+      "link": "https://tuoitre.vn/cong-bo-quyet-dinh-kiem-tra-giam-sat-doi-voi-ban-thuong-vu-tinh-uy-hung-yen-20260303173659513.htm",
+      "summary": "Đại tướng Lương Tam Quang - Bộ trưởng Bộ Công an, Trưởng Đoàn kiểm tra, giám sát số 17 của Bộ Chính trị, Ban Bí thư - chủ trì hội nghị công bố quyết định kiểm tra, giám sát đối với Ban Thường vụ Tỉnh ủy Hưng Yên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.493375+07:00",
+      "fetched": "2026-03-03T19:34:56.493480+07:00"
+    },
+    {
+      "id": "7cbac55b0cb56b226df413ffcbb1372f",
+      "title": "Vợ chồng chủ quán bị đánh bầm tím khi mời rượu khách",
+      "link": "https://tuoitre.vn/vo-chong-chu-quan-bi-danh-bam-tim-khi-moi-ruou-khach-20260303173215327.htm",
+      "summary": "Trong khi mời rượu, chủ quán và khách xảy ra to tiếng, khách hàng đã đánh vợ chồng chủ quán bầm tím vùng mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.493269+07:00",
+      "fetched": "2026-03-03T19:34:56.493365+07:00"
+    },
+    {
+      "id": "029ad2c4c6fc06329fb5716479038c5a",
+      "title": "Ngành thịt thực vật - từ cơn sốt đến suy giảm",
+      "link": "https://tuoitre.vn/nganh-thit-thuc-vat-tu-con-sot-den-suy-giam-20260303153039381.htm",
+      "summary": "Thịt thực vật - một thị trường từng được ca ngợi là “cơn sốt của các nhà đầu tư” - giờ đang chững lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.493163+07:00",
+      "fetched": "2026-03-03T19:34:56.493258+07:00"
+    },
+    {
+      "id": "f2ef7a1366534719df6d280d69dc17e2",
+      "title": "Đề xuất tổ hợp dự án khoảng 10 tỉ USD tại vùng ven biển Cà Mau",
+      "link": "https://tuoitre.vn/de-xuat-to-hop-du-an-khoang-10-ti-usd-tai-vung-ven-bien-ca-mau-20260303174437732.htm",
+      "summary": "Chiều 3-3, Ủy viên Trung ương Đảng, Bí thư Tỉnh ủy Cà Mau Nguyễn Hồ Hải cùng Thường trực Tỉnh ủy có buổi làm việc với Tập đoàn Xuân Thiện, để nghe đề xuất đầu tư dự án tại vùng ven biển Cà Mau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.493057+07:00",
+      "fetched": "2026-03-03T19:34:56.493153+07:00"
+    },
+    {
+      "id": "2469d4f6d794ac326b7a01a564175f36",
+      "title": "'Săn' vé sớm dự Lễ hội Văn hóa Ẩm thực, Món ngon Saigontourist Group 2026",
+      "link": "https://tuoitre.vn/san-ve-som-du-le-hoi-van-hoa-am-thuc-mon-ngon-saigontourist-group-2026-20260303174758536.htm",
+      "summary": "Tiếp tục sức hút của các năm trước, ban tổ chức  Lễ hội Văn hóa Ẩm thực, Món ngon Saigontourist Group 2026 đã chính thức mở bán vé sớm (Early Bird) với những ưu đãi cực kỳ hấp dẫn để tri ân khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.492952+07:00",
+      "fetched": "2026-03-03T19:34:56.493048+07:00"
+    },
+    {
+      "id": "405e50fd894508710f0d4b55256baceb",
+      "title": "Phụ huynh Hà Nội xếp hàng trong đêm nộp hồ sơ vào lớp 10: Trường phải dừng, trả lại phí ghi danh",
+      "link": "https://tuoitre.vn/phu-huynh-ha-noi-xep-hang-trong-dem-nop-ho-so-vao-lop-10-truong-phai-dung-tra-lai-phi-ghi-danh-20260303173834158.htm",
+      "summary": "Chiều 3-3, Sở Giáo dục và Đào tạo Hà Nội đã yêu cầu Trường THPT Phan Bội Châu dừng nhận hồ sơ, trả phí ghi danh vào lớp 10 ở thời điểm này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.492847+07:00",
+      "fetched": "2026-03-03T19:34:56.492943+07:00"
+    },
+    {
+      "id": "2e3b75e96b2efef5991311115004d1e4",
+      "title": "Người làm công ăn lương không cần làm thủ tục đăng ký người phụ thuộc?",
+      "link": "https://tuoitre.vn/nguoi-lam-cong-an-luong-khong-can-lam-thu-tuc-dang-ky-nguoi-phu-thuoc-20260303141957484.htm",
+      "summary": "Quyết định của Bộ Tài chính bãi bỏ thủ tục đăng ký người phụ thuộc, nhưng không có nghĩa là người làm công hưởng lương không cần đăng ký người phụ thuộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.492730+07:00",
+      "fetched": "2026-03-03T19:34:56.492827+07:00"
+    },
+    {
+      "id": "273a591de8a07d195d083f29d2e9ae44",
+      "title": "Bí thư Thành ủy Trần Lưu Quang: Xử lý vỉa hè phải hài hòa giữa trật tự đô thị và sinh kế người dân",
+      "link": "https://tuoitre.vn/bi-thu-thanh-uy-tran-luu-quang-xu-ly-via-he-phai-hai-hoa-giua-trat-tu-do-thi-va-sinh-ke-nguoi-dan-20260303173237339.htm",
+      "summary": "Tiếp xúc cử tri chiều 3-3, Bí thư Thành ủy TP.HCM nói dẹp lấn chiếm vỉa hè là bài toán khó, cần tính cách làm hài hòa để không đẩy người dân vào cảnh khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.492622+07:00",
+      "fetched": "2026-03-03T19:34:56.492721+07:00"
+    },
+    {
+      "id": "cf24f4a2ba9088eee480e4a39f92bef8",
+      "title": "Vụ đứt gãy xăng dầu trên cao tốc Long Thành - Dầu Giây: Châu Thành tiếp tục kiến nghị được bán xăng",
+      "link": "https://tuoitre.vn/vu-dut-gay-xang-dau-tren-cao-toc-long-thanh-dau-giay-chau-thanh-tiep-tuc-kien-nghi-duoc-ban-xang-20260303175438458.htm",
+      "summary": "Sau hơn một tháng ngưng bán xăng dầu, Công ty Châu Thành tiếp tục kiến nghị VEC tổ chức bán lại xăng dầu trên cao tốc TP.HCM - Long Thành - Dầu Giây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.492491+07:00",
+      "fetched": "2026-03-03T19:34:56.492612+07:00"
+    },
+    {
+      "id": "2748e61a19a0c44645ae0a013cade7a7",
+      "title": "Đảm bảo lưới điện an toàn, sẵn sàng ứng trực phục vụ bầu cử đại biểu Quốc hội, đại biểu HĐND",
+      "link": "https://tuoitre.vn/dam-bao-luoi-dien-an-toan-san-sang-ung-truc-phuc-vu-bau-cu-dai-bieu-quoc-hoi-dai-bieu-hdnd-20260303165242376.htm",
+      "summary": "Tổng công ty Điện lực TP.HCM đã triển khai nhiều phương án nhằm đảm bảo hệ thống lưới điện vận hành an toàn, bố trí phương tiện, nhân lực ứng trực, phục vụ cuộc bầu cử đại biểu Quốc hội khóa XVI và HĐND TP.HCM nhiệm kỳ 2026 - 2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.492373+07:00",
+      "fetched": "2026-03-03T19:34:56.492482+07:00"
+    },
+    {
+      "id": "1f7b11c5902fe49fa38175c1a739b70f",
+      "title": "Tehran tuyên bố 'địa ngục mở cửa', Nga cảnh báo chạy đua hạt nhân ở Trung Đông",
+      "link": "https://tuoitre.vn/tehran-tuyen-bo-dia-nguc-mo-cua-nga-canh-bao-chay-dua-hat-nhan-o-trung-dong-20260303175840711.htm",
+      "summary": "Ngày 3-3, Ngoại trưởng Nga Sergei Lavrov cảnh báo cuộc chiến do Mỹ và Israel phát động nhằm vào Iran có thể khiến Tehran và các quốc gia Ả Rập láng giềng tìm cách sở hữu vũ khí hạt nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.492266+07:00",
+      "fetched": "2026-03-03T19:34:56.492363+07:00"
+    },
+    {
+      "id": "22bfbe7d473cd894b080200843d66a9a",
+      "title": "Giới siêu giàu gấp rút thuê chuyên cơ rời Trung Đông",
+      "link": "https://tuoitre.vn/gioi-sieu-giau-gap-rut-thue-chuyen-co-roi-trung-dong-2026030318122954.htm",
+      "summary": "Giữa lúc căng thẳng tại Trung Đông leo thang, giới siêu giàu chấp nhận chi tới 350.000 USD để thuê chuyên cơ riêng rời khỏi khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.492154+07:00",
+      "fetched": "2026-03-03T19:34:56.492256+07:00"
+    },
+    {
+      "id": "cf354f14c1a46cb706398e615c3e1460",
+      "title": "Sân bay Liên Khương đóng cửa, hành khách các hãng bay  được hỗ trợ ra sao?",
+      "link": "https://tuoitre.vn/san-bay-lien-khuong-dong-cua-hanh-khach-cac-hang-bay-duoc-ho-tro-ra-sao-20260303172322149.htm",
+      "summary": "Trước thời điểm Sân bay Liên Khương tạm đóng cửa 6 tháng để nâng cấp, sửa chữa, Vietjet Air thông báo hỗ trợ hành khách đã mua vé đi, đến Đà Lạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.492043+07:00",
+      "fetched": "2026-03-03T19:34:56.492144+07:00"
+    },
+    {
+      "id": "73ddb574b2821d5a479e820aeb353f4d",
+      "title": "Cà Mau thực hiện ‘5 thông’ trong phát triển doanh nghiệp",
+      "link": "https://tuoitre.vn/ca-mau-thuc-hien-5-thong-trong-phat-trien-doanh-nghiep-20260303180402742.htm",
+      "summary": "Ngày 3-3, UBND tỉnh Cà Mau tổ chức họp mặt doanh nghiệp với thông điệp “Lắng nghe và trao đổi”, khẳng định quyết tâm cải thiện môi trường đầu tư, tạo điều kiện để kinh tế tư nhân bứt phá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.491923+07:00",
+      "fetched": "2026-03-03T19:34:56.492033+07:00"
+    },
+    {
+      "id": "7dd1f77c87bbf1c537886bd08fe4aa2d",
+      "title": "Không tổ chức tour du lịch đến vùng chiến sự tại Trung Đông",
+      "link": "https://tuoitre.vn/khong-to-chuc-tour-du-lich-den-vung-chien-su-tai-trung-dong-20260303181913815.htm",
+      "summary": "Trước tình hình căng thẳng tại khu vực Trung Đông, Cục Du lịch quốc gia Việt Nam đã có văn bản yêu cầu các doanh nghiệp lữ hành quốc tế tạm dừng, không tổ chức tour du lịch đến những vùng chiến sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T19:34:56.491706+07:00",
+      "fetched": "2026-03-03T19:34:56.491910+07:00"
+    },
     {
       "id": "6616a06d36b52056ef420bc3d05ee4f8",
       "title": "Indonesia ra mắt nền tảng tư vấn ứng phó tình trạng nghiện game ở trẻ em",
@@ -453,6 +603,286 @@ window.newsData_2026_03_03 = {
       "fetched": "2026-03-03T13:38:24.422243+07:00"
     },
     {
+      "id": "b4b58f8fb1e465372f8f36777039e49b",
+      "title": "Giải thưởng Sách quốc gia lần 8: Có cuốn 'gây sốc' về mức độ đồ sộ",
+      "link": "https://thanhnien.vn/giai-thuong-sach-quoc-gia-lan-8-co-cuon-gay-soc-ve-muc-do-do-so-185260303191554551.htm",
+      "summary": "\"Nhìn cuốn sách được giải năm nay khéo các bạn sẽ cảm thấy sốc vì nó đồ sộ quá\", Cục trưởng Cục Xuất bản, In và Phát hành Nguyễn Nguyên cho biết tại cuộc họp báo thông tin về Giải thưởng Sách quốc gia lần thứ 8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T12:27:00+07:00",
+      "fetched": "2026-03-03T19:34:55.655631+07:00"
+    },
+    {
+      "id": "1a0ef7ac0fbf91b4f5aba723c5f884d8",
+      "title": "Sau sáp nhập, Bộ đội biên phòng Tây Ninh phá nhiều chuyên án lớn, giữ vững biên giới",
+      "link": "https://thanhnien.vn/sau-sap-nhap-bo-doi-bien-phong-tay-ninh-pha-nhieu-chuyen-an-lon-giu-vung-bien-gioi-185260303154025246.htm",
+      "summary": "Sau khi chuyển đổi mô hình tổ chức mới, Bộ đội biên phòng tỉnh Tây Ninh liên tiếp lập nhiều chiến công, trong đó nổi bật là việc triệt phá đường dây buôn lậu, thu giữ 18 kg vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T12:19:00+07:00",
+      "fetched": "2026-03-03T19:34:55.655777+07:00"
+    },
+    {
+      "id": "55b20325dc1a8245a9c0aad08fd4e454",
+      "title": "Rằm tháng giêng: 'Biển người' chen chân xem lễ diễu hành Tết Nguyên tiêu ở Chợ Lớn",
+      "link": "https://thanhnien.vn/ram-thang-gieng-bien-nguoi-chen-chan-xem-le-dieu-hanh-tet-nguyen-tieu-o-cho-lon-185260303182454602.htm",
+      "summary": "Chiều 3.3 (rằm tháng giêng), hàng ngàn người dân, du khách đổ xuống khu vực Chợ Lớn để theo dõi lễ diễu hành Tết Nguyên cùng các màn biểu diễn anh ca vũ, lân – sư – rồng sôi động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T12:15:00+07:00",
+      "fetched": "2026-03-03T19:34:55.655909+07:00"
+    },
+    {
+      "id": "ea4105368caad628d7acb8ef531b2666",
+      "title": "Hải Phòng khát vọng xây dựng thành phố âm nhạc",
+      "link": "https://thanhnien.vn/hai-phong-khat-vong-xay-dung-thanh-pho-am-nhac-185260303180929755.htm",
+      "summary": "Hải Phòng đặt mục tiêu trở thành thành phố âm nhạc, hướng tới gia nhập mạng lưới thành phố sáng tạo của UNESCO, xây dựng hệ sinh thái công nghiệp văn hóa hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T12:14:00+07:00",
+      "fetched": "2026-03-03T19:34:55.656039+07:00"
+    },
+    {
+      "id": "8af0b82a23b62132b23e8047fea9c92a",
+      "title": "Việt Nam phản đối hành vi tấn công các quốc gia có chủ quyền",
+      "link": "https://vnexpress.net/viet-nam-phan-doi-hanh-vi-tan-cong-cac-quoc-gia-co-chu-quyen-5046278.html",
+      "summary": "Việt Nam phản đối việc tấn công những nước có chủ quyền, đặc biệt là vào hạ tầng dân sự, khi bình luận về tình hình ở Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-03T12:10:41+07:00",
+      "fetched": "2026-03-03T19:34:58.130726+07:00"
+    },
+    {
+      "id": "94856104764a9234f129560521f47116",
+      "title": "Chiến thắng của Rosé (BlackPink) tại BRIT Awards khiến fan BTS 'phát điên'",
+      "link": "https://thanhnien.vn/chien-thang-cua-rose-blackpink-tai-brit-awards-khien-fan-bts-phat-dien-185260303182622853.htm",
+      "summary": "Chiến thắng của Rosé (BlackPink) tại lễ trao giải BRIT Awards bất ngờ thổi bùng làn sóng tranh luận khi cộng đồng người hâm mộ BTS lên tiếng về những thiếu sót trong danh sách thành tựu Kpop toàn cầu, đồng thời đặt dấu hỏi trước các nhận định cho rằng nữ ca sĩ là 'người mở đường' Kpop ra quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T12:09:00+07:00",
+      "fetched": "2026-03-03T19:34:55.656168+07:00"
+    },
+    {
+      "id": "676a8e741198a5153cb8fdd45025f50a",
+      "title": "Trọng tài Hàn Quốc xinh đẹp thổi trận đội tuyển nữ Việt Nam đấu Ấn Độ: Trọng tài VAR là ai?",
+      "link": "https://thanhnien.vn/trong-tai-han-quoc-xinh-dep-thoi-tran-doi-tuyen-nu-viet-nam-dau-an-do-trong-tai-var-la-ai-185260303184740963.htm",
+      "summary": "Liên đoàn Bóng đá châu Á (AFC) đã công bố tổ trọng tài điều khiển trận ra quân của đội tuyển nữ Việt Nam gặp Ấn Độ tại VCK Asian Cup nữ 2026, diễn ra lúc 18 giờ ngày 4.3 trên sân Perth (Úc).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T12:08:00+07:00",
+      "fetched": "2026-03-03T19:34:55.656296+07:00"
+    },
+    {
+      "id": "1924a731f3eaa53207eaffffe03dfeeb",
+      "title": "Công bố quyết định kiểm tra, giám sát đối với Ban Thường vụ Tỉnh ủy Quảng Ninh",
+      "link": "https://thanhnien.vn/cong-bo-quyet-dinh-kiem-tra-giam-sat-doi-voi-ban-thuong-vu-tinh-uy-quang-ninh-18526030318383421.htm",
+      "summary": "Đoàn kiểm tra, giám sát của Bộ Chính trị, Ban Bí thư do đại tướng Lương Tam Quang, Ủy viên Bộ Chính trị, Bộ trưởng Bộ Công an, làm trưởng đoàn, làm việc với Ban Thường vụ Tỉnh ủy Quảng Ninh, tập trung vào triển khai Nghị quyết Đại hội XIV của Đảng và công tác bầu cử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T12:07:00+07:00",
+      "fetched": "2026-03-03T19:34:55.656433+07:00"
+    },
+    {
+      "id": "e1a455d31c681aabd95d7ba6c076a95a",
+      "title": "Bộ Y tế thu hồi gần 300 sản phẩm mỹ phẩm, nhiều thương hiệu nổi tiếng bị gọi tên",
+      "link": "https://thanhnien.vn/bo-y-te-thu-hoi-gan-300-san-pham-my-pham-nhieu-thuong-hieu-noi-tieng-bi-goi-ten-185260303182720338.htm",
+      "summary": "Bộ Y tế vừa quyết định thu hồi 291 sản phẩm mỹ phẩm trên toàn quốc do chứa Cyclotetrasiloxane và Octamethylcyclotetrasiloxane, hai hợp chất mới được Hội đồng Mỹ phẩm ASEAN đưa vào danh mục không được phép sử dụng trong mỹ phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T12:00:00+07:00",
+      "fetched": "2026-03-03T19:34:55.656566+07:00"
+    },
+    {
+      "id": "4593a46bd87e3ef94355bdef5c53e80c",
+      "title": "Bắt khẩn cấp nhóm người đánh tài xế xe tải vì mâu thuẫn giao thông",
+      "link": "https://thanhnien.vn/bat-khan-cap-nhom-nguoi-danh-tai-xe-xe-tai-vi-mau-thuan-giao-thong-18526030318162174.htm",
+      "summary": "Cơ quan công an đã bắt khẩn cấp 3 người liên quan đến vụ đánh người do mâu thuẫn đỗ xe giữa đường tại Hải Phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T12:00:00+07:00",
+      "fetched": "2026-03-03T19:34:55.656692+07:00"
+    },
+    {
+      "id": "cf6748725fd45ac0038328154f8c2495",
+      "title": "Rằm tháng giêng ở TP.HCM, hàng trăm người xếp hàng nhận rau củ tại chùa",
+      "link": "https://thanhnien.vn/ram-thang-gieng-o-tphcm-hang-tram-nguoi-xep-hang-nhan-rau-cu-tai-chua-185260303132144733.htm",
+      "summary": "Rằm tháng giêng, đông đảo người dân TP.HCM tìm về chùa Candanrasi - ngôi chùa Nam tông Khmer để cầu an đầu năm và đi siêu thị rau củ quả 0 đồng chọn những món mình cần mang về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T12:00:00+07:00",
+      "fetched": "2026-03-03T19:34:55.656818+07:00"
+    },
+    {
+      "id": "6eb97ec7b8899e676944fd3fa2d458ab",
+      "title": "Lưới phòng không Patriot tại Trung Đông đối mặt nguy cơ 'trắng bệ'",
+      "link": "https://vnexpress.net/luoi-phong-khong-patriot-tai-trung-dong-doi-mat-nguy-co-trang-be-5046053.html",
+      "summary": "Các tổ hợp Patriot của Mỹ và đồng minh Trung Đông có nguy cơ cạn tên lửa trước những đợt tập kích không ngừng từ Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-03T12:00:00+07:00",
+      "fetched": "2026-03-03T19:34:58.130881+07:00"
+    },
+    {
+      "id": "bce243d68614092e47aeedfbec6e7985",
+      "title": "Xanh SM nhận vinh danh Ứng dụng gọi xe điện xuất sắc",
+      "link": "https://vnexpress.net/xanh-sm-nhan-vinh-danh-ung-dung-goi-xe-dien-xuat-sac-5046273.html",
+      "summary": "Sensor Tower vinh danh Xanh SM là Ứng dụng gọi xe điện xuất sắc khu vực châu Á Thái Bình Dương, trong khuôn khổ giải thưởng Sensor Tower APAC Awards 2025.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-03T12:00:00+07:00",
+      "fetched": "2026-03-03T19:34:58.988326+07:00"
+    },
+    {
+      "id": "429cc50fc4f111a790d9edae1ab8f8fa",
+      "title": "Người dân TP.HCM đi chùa nhận rau củ quả 0 đồng ngày rằm tháng giêng",
+      "link": "https://thanhnien.vn/nguoi-dan-tphcm-di-chua-nhan-rau-cu-qua-0-dong-ngay-ram-thang-gieng-185260303183336767.htm",
+      "summary": "Trưa 3.3.2026 (tức rằm tháng giêng), hàng trăm phật tử và người dân TP.HCM tìm về chùa Candaransi (phường Xuân Hòa) dự lễ khánh tuế hòa thượng trụ trì, đặt bát cúng dường 30 vị đại đức tăng và đi siêu thị rau củ quả 0 đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:59:00+07:00",
+      "fetched": "2026-03-03T19:34:55.656943+07:00"
+    },
+    {
+      "id": "e36190a57446f15ec5bbed591c0247bb",
+      "title": "Chủ xe lo 'đạp lút chân ga' khi kiểm định ô tô, Cục Đăng kiểm nói gì?",
+      "link": "https://thanhnien.vn/chu-xe-lo-dap-lut-chan-ga-khi-kiem-dinh-o-to-cuc-dang-kiem-noi-gi-18526030318165888.htm",
+      "summary": "Nhiều chủ xe lo lắng đạp lút chân ga khi kiểm định khí thải có thể gây hư hại động cơ. Cục Đăng kiểm Việt Nam nói gì về việc này? cho rằng đây là yêu cầu bắt buộc để bảo đảm kết quả đo đúng quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:56:00+07:00",
+      "fetched": "2026-03-03T19:34:55.657072+07:00"
+    },
+    {
+      "id": "595597cc2903d70262f5a1106bb90623",
+      "title": "Israel tuyên bố tập kích văn phòng Tổng thống Iran",
+      "link": "https://vnexpress.net/israel-tuyen-bo-tap-kich-van-phong-tong-thong-iran-5046259.html",
+      "summary": "Quân đội Israel thông báo đã tấn công văn phòng Tổng thống và tòa nhà hội đồng an ninh tại Tehran, khi giao tranh tiếp diễn với Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:47:32+07:00",
+      "fetched": "2026-03-03T19:34:52.813903+07:00"
+    },
+    {
+      "id": "595597cc2903d70262f5a1106bb90623",
+      "title": "Israel tuyên bố tập kích văn phòng Tổng thống Iran",
+      "link": "https://vnexpress.net/israel-tuyen-bo-tap-kich-van-phong-tong-thong-iran-5046259.html",
+      "summary": "Quân đội Israel thông báo đã tấn công văn phòng Tổng thống và tòa nhà hội đồng an ninh tại Tehran, khi giao tranh tiếp diễn với Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-03T11:47:32+07:00",
+      "fetched": "2026-03-03T19:34:58.131034+07:00"
+    },
+    {
+      "id": "acbf375a1e5b49efa8e025dc77e0a029",
+      "title": "Cơ thủ Quyết Chiến: 'Chúng tôi hy sinh Tết để vô địch thế giới'",
+      "link": "https://vnexpress.net/co-thu-quyet-chien-chung-toi-hy-sinh-tet-de-vo-dich-the-gioi-5046277.html",
+      "summary": "Hai cơ thủ Trần Quyết Chiến và Nguyễn Trần Thanh Tự chấp nhận ăn Tết không trọn vẹn, ưu tiên cho tập luyện để giúp Việt Nam lần thứ hai vô địch carom 3 băng đồng đội thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:39:53+07:00",
+      "fetched": "2026-03-03T19:34:52.814061+07:00"
+    },
+    {
+      "id": "ca3c1174f11f512321054a4830c9d4d8",
+      "title": "Việt Nam phản đối hành vi sử dụng vũ lực tấn công vào các quốc gia có chủ quyền",
+      "link": "https://thanhnien.vn/viet-nam-phan-doi-hanh-vi-su-dung-vu-luc-tan-cong-vao-cac-quoc-gia-co-chu-quyen-185260303182754932.htm",
+      "summary": "Việt Nam phản đối các hành vi sử dụng vũ lực tấn công vào các quốc gia có chủ quyền, đặc biệt vào các cơ sở hạ tầng dân sự khiến nhiều người dân bị thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:39:00+07:00",
+      "fetched": "2026-03-03T19:34:55.657200+07:00"
+    },
+    {
+      "id": "af3ff7a9dd5e15bd27caa513d53c81c1",
+      "title": "Ông Vũ Tiến Thành tạm chia tay, HAGL bất ổn hay may mắn để trụ hạng thành công?",
+      "link": "https://thanhnien.vn/ong-vu-tien-thanh-tam-chia-tay-hagl-bat-on-hay-may-man-de-tru-hang-thanh-cong-185260303150401511.htm",
+      "summary": "Vòng 14 V-League chứng kiến chiến thắng rất quan trọng 3-0 của Đà Nẵng trước PVF-CAND. Chiến thắng này giúp đội bóng sông Hàn sống dậy cuộc đua giành suất trụ hạng, đồng thời khiến cho đường đua rất khắc nghiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:38:00+07:00",
+      "fetched": "2026-03-03T19:34:55.657327+07:00"
+    },
+    {
+      "id": "37da034cdc17acb524043efe6016739a",
+      "title": "Giải bóng rổ Trẻ VnExpress mở đăng ký mùa 2 tại TP HCM",
+      "link": "https://vnexpress.net/giai-bong-ro-tre-vnexpress-mua-2-mo-dang-ky-khu-vuc-tp-hcm-5046030.html",
+      "summary": "Giải bóng rổ Trẻ VnExpress - Cup Ziaja, sân chơi cho học sinh THPT, tiếp tục mùa hai ở TP HCM và sẽ khép lại bằng trận Siêu Cup giữa hai miền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:30:00+07:00",
+      "fetched": "2026-03-03T19:34:52.814204+07:00"
+    },
+    {
+      "id": "90d0b5170de0dd79dde00557c3c51255",
+      "title": "Trí tuệ nhân tạo đang thách thức các nhà thơ",
+      "link": "https://thanhnien.vn/tri-tue-nhan-tao-dang-thach-thuc-cac-nha-tho-185260303152213103.htm",
+      "summary": "Ngày 3.3, Ngày thơ Việt Nam lần thứ 24 tại Quảng Ninh mở đầu bằng cuộc tọa đàm Phẩm giá của thơ ca thu hút sự chú ý của dư luận với nhiều tham luận của các nhà thơ, nhà phê bình. Trong đó, có ý kiến đòi một số nhà thơ phải 'phục hồi nhân phẩm'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:30:00+07:00",
+      "fetched": "2026-03-03T19:34:55.657464+07:00"
+    },
+    {
+      "id": "e3a71dddd9fcdce08db02ea3b983b6f4",
+      "title": "Nhà mạng Việt Nam được công nhận '5G tốt nhất Đông Nam Á'",
+      "link": "https://vnexpress.net/nha-mang-viet-nam-duoc-cong-nhan-5g-tot-nhat-dong-nam-a-5046265.html",
+      "summary": "VinaPhone được Ookla công nhận có mạng 5G tốt nhất Đông Nam Á, vượt qua nhiều nhà mạng lớn như Singtel, Unifi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:25:20+07:00",
+      "fetched": "2026-03-03T19:34:52.814338+07:00"
+    },
+    {
+      "id": "e3a71dddd9fcdce08db02ea3b983b6f4",
+      "title": "Nhà mạng Việt Nam được công nhận '5G tốt nhất Đông Nam Á'",
+      "link": "https://vnexpress.net/nha-mang-viet-nam-duoc-cong-nhan-5g-tot-nhat-dong-nam-a-5046265.html",
+      "summary": "VinaPhone được Ookla công nhận có mạng 5G tốt nhất Đông Nam Á, vượt qua nhiều nhà mạng lớn như Singtel, Unifi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-03T11:25:20+07:00",
+      "fetched": "2026-03-03T19:35:01.835988+07:00"
+    },
+    {
+      "id": "a8cb777874ccb3ae65dc84ec11341a33",
+      "title": "Xem xét phạt trường để phụ huynh xếp hàng thâu đêm mua hồ sơ",
+      "link": "https://vnexpress.net/xem-xet-phat-truong-phan-boi-chau-vi-de-phu-huynh-xep-hang-thau-dem-mua-ho-so-lop-10-5046246.html",
+      "summary": "Việc trường THPT tư thục Phan Bội Châu để phụ huynh xếp hàng thâu đêm mua hồ sơ lớp 10 là sai, Sở Giáo dục yêu cầu trả lại tiền cọc và xem xét xử phạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:22:00+07:00",
+      "fetched": "2026-03-03T19:34:52.814487+07:00"
+    },
+    {
+      "id": "10f65b9f41a475ad920c3fdaa84c99b2",
+      "title": "Viettel sẽ thử nghiệm 6G vào năm 2028",
+      "link": "https://vnexpress.net/viettel-se-thu-nghiem-6g-vao-nam-2028-5046197.html",
+      "summary": "Viettel cho biết sẽ kết hợp với Qualcomm làm điện thoại cao cấp, đồng thời tăng tốc nghiên cứu và phát triển sản phẩm 6G, tiến tới thử nghiệm sau hai năm nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:17:17+07:00",
+      "fetched": "2026-03-03T19:34:52.814620+07:00"
+    },
+    {
+      "id": "10f65b9f41a475ad920c3fdaa84c99b2",
+      "title": "Viettel sẽ thử nghiệm 6G vào năm 2028",
+      "link": "https://vnexpress.net/viettel-se-thu-nghiem-6g-vao-nam-2028-5046197.html",
+      "summary": "Viettel cho biết sẽ kết hợp với Qualcomm làm điện thoại cao cấp, đồng thời tăng tốc nghiên cứu và phát triển sản phẩm 6G, tiến tới thử nghiệm sau hai năm nữa.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-03T11:17:17+07:00",
+      "fetched": "2026-03-03T19:35:01.836431+07:00"
+    },
+    {
+      "id": "1083bf0721ad8f3038b8570b24f36665",
+      "title": "Người mẫu trình diễn áo ngực làm từ tách trà",
+      "link": "https://vnexpress.net/nguoi-mau-trinh-dien-ao-nguc-lam-tu-tach-tra-5046258.html",
+      "summary": "Show thời trang của Hodakova gây chú ý khi người mẫu diện các thiết kế từ tách trà, ghế gỗ, thảm trải sàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:06:28+07:00",
+      "fetched": "2026-03-03T19:34:52.814752+07:00"
+    },
+    {
       "id": "339fbab74f63a4b8264db18f29954710",
       "title": "Đêm nhạc tái xuất của BTS chỉ kéo dài 1 tiếng",
       "link": "https://tuoitre.vn/dem-nhac-tai-xuat-cua-bts-chi-keo-dai-1-tieng-20260303093816602.htm",
@@ -601,6 +1031,96 @@ window.newsData_2026_03_03 = {
       "category": "Tổng hợp",
       "published": "2026-03-03T11:05:50.556087+07:00",
       "fetched": "2026-03-03T11:05:50.556291+07:00"
+    },
+    {
+      "id": "cbb232b7cef84a2b994a5f53bc8c4992",
+      "title": "2 chiếc thìa 12 cm kẹt trong ruột chàng trai",
+      "link": "https://vnexpress.net/2-chiec-thia-12-cm-ket-trong-ruot-chang-trai-5046160.html",
+      "summary": "Vô tình nuốt phải chiếc thìa, nam thanh niên 28 tuổi nhập viện vì đau bụng dữ dội, trước khi được các bác sĩ nội soi gắp thành công hai dị vật dài 12 cm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:00:00+07:00",
+      "fetched": "2026-03-03T19:34:52.814882+07:00"
+    },
+    {
+      "id": "3fae55c553de8978ed182e60bdd778ce",
+      "title": "5 món ăn nhẹ giàu protein hơn sữa chua cho người giảm cân",
+      "link": "https://vnexpress.net/5-mon-an-nhe-giau-protein-hon-sua-chua-cho-nguoi-giam-can-5046204.html",
+      "summary": "Người giảm cân nên ưu tiên thực phẩm giàu protein vì đây là chất dinh dưỡng thiết yếu giúp duy trì và xây dựng cơ bắp, cùng nhiều chức năng khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:00:00+07:00",
+      "fetched": "2026-03-03T19:34:52.815014+07:00"
+    },
+    {
+      "id": "1370308faf4ea0a4f6762079dbeec5ad",
+      "title": "Lý do cốt lõi 'siết dạy thêm khiến phụ huynh tốn kém hơn'",
+      "link": "https://vnexpress.net/ly-do-cot-loi-siet-day-them-khien-phu-huynh-ton-kem-hon-5046067.html",
+      "summary": "Siết dạy thêm, nhưng phụ huynh là người quyết định guồng quay học tập của con cái vì sợ chúng thua kém bạn bè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:00:00+07:00",
+      "fetched": "2026-03-03T19:34:52.815145+07:00"
+    },
+    {
+      "id": "9188c156c2345b4147f980985f501ba7",
+      "title": "Mờ mắt một bên là dấu hiệu bệnh gì?",
+      "link": "https://vnexpress.net/mo-mat-mot-ben-la-dau-hieu-benh-gi-5046066.html",
+      "summary": "Mờ mắt một bên có thể do nhiều nguyên nhân như tật khúc xạ, nhiễm trùng, đau nửa đầu migraine, đột quỵ hoặc đục thủy tinh thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T11:00:00+07:00",
+      "fetched": "2026-03-03T19:34:52.815287+07:00"
+    },
+    {
+      "id": "7184c46990bf2be4403341ea8801d7eb",
+      "title": "Công bố đường dây nóng hỗ trợ 160 thuyền viên Việt Nam ở Trung Đông",
+      "link": "https://vnexpress.net/cong-bo-duong-day-nong-ho-tro-160-thuyen-vien-viet-nam-o-trung-dong-5046145.html",
+      "summary": "Cục Hàng hải và Đường thủy Việt Nam công bố hai số đường dây nóng 0904678978 và 0945296595 để hỗ trợ 8 tàu với 160 thuyền viên đang hoạt động tại Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T10:56:07+07:00",
+      "fetched": "2026-03-03T19:34:52.815445+07:00"
+    },
+    {
+      "id": "651bab6a5aa577d1f29165c5e0a49762",
+      "title": "Săn khoảnh khắc mặt trời lặn ở chân cầu Sài Gòn",
+      "link": "https://vnexpress.net/san-khoanh-khac-mat-troi-lan-o-chan-cau-sai-gon-5046254.html",
+      "summary": "Những ngày qua, nhiều nhiếp ảnh gia và người dân đứng trên cầu bộ hành tuyến metro số 1 chờ săn khoảnh khắc mặt trời lặn xuyên qua dòng xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T10:49:23+07:00",
+      "fetched": "2026-03-03T19:34:52.815583+07:00"
+    },
+    {
+      "id": "41c11cc98a768ec727c5076c8c439e45",
+      "title": "Mở chiến dịch 500 ngày đêm quy tập, xác định danh tính hài cốt liệt sĩ",
+      "link": "https://vnexpress.net/mo-chien-dich-500-ngay-dem-quy-tap-xac-dinh-danh-tinh-hai-cot-liet-si-5046226.html",
+      "summary": "Phó thủ tướng Phạm Thị Thanh Trà phát động chiến dịch 500 ngày đêm tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ từ cuối tháng 3/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T10:42:53+07:00",
+      "fetched": "2026-03-03T19:34:52.815715+07:00"
+    },
+    {
+      "id": "cbe07a063960030e9cd57be898c106e2",
+      "title": "Máy bay của Ronaldo rời Arab Saudi giữa bất ổn ở Trung Đông",
+      "link": "https://vnexpress.net/may-bay-cua-ronaldo-roi-arab-saudi-giua-bat-on-o-trung-dong-5046266.html",
+      "summary": "Máy bay riêng của Cristiano Ronaldo đã rời thủ đô Riyadh ở Arab Saudi vào tối qua 2/3, để đến Madrid ở Tây Ban Nha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-03T10:38:52+07:00",
+      "fetched": "2026-03-03T19:34:52.815842+07:00"
+    },
+    {
+      "id": "cbe07a063960030e9cd57be898c106e2",
+      "title": "Máy bay của Ronaldo rời Arab Saudi giữa bất ổn ở Trung Đông",
+      "link": "https://vnexpress.net/may-bay-cua-ronaldo-roi-arab-saudi-giua-bat-on-o-trung-dong-5046266.html",
+      "summary": "Máy bay riêng của Cristiano Ronaldo đã rời thủ đô Riyadh ở Arab Saudi vào tối qua 2/3, để đến Madrid ở Tây Ban Nha.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-03T10:38:52+07:00",
+      "fetched": "2026-03-03T19:35:02.720459+07:00"
     },
     {
       "id": "7cbc5b9935440abe4b801f6111eb5f56",
