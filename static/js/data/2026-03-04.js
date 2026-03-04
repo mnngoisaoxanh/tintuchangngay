@@ -1,7 +1,157 @@
 window.newsData_2026_03_04 = {
   "date": "2026-03-04",
-  "lastUpdated": "2026-03-04T12:10:11.460968+07:00",
+  "lastUpdated": "2026-03-04T13:35:25.490564+07:00",
   "articles": [
+    {
+      "id": "1fb6107a6057545bf8cf3d19784e4f19",
+      "title": "Đổi tội danh sang 'giết người' đối với người cha nhốt con gái, phóng hỏa định tự tử",
+      "link": "https://tuoitre.vn/doi-toi-danh-sang-giet-nguoi-doi-voi-nguoi-cha-nhot-con-gai-phong-hoa-dinh-tu-tu-20260304105200461.htm",
+      "summary": "Viện Kiểm sát nhân dân tỉnh Đắk Lắk đã phê chuẩn thay đổi quyết định khởi tố bị can từ tội \"đe dọa giết người\" sang tội \"giết người\" đối với người đàn ông có ý định cho con gái chết cùng khi phóng hỏa trong nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.758643+07:00",
+      "fetched": "2026-03-04T13:35:19.758764+07:00"
+    },
+    {
+      "id": "c0660ef3c67d00e9adef44647d6b380c",
+      "title": "Học viện Báo chí và Tuyên truyền chỉ xét học bạ kết hợp IELTS từ 6.0",
+      "link": "https://tuoitre.vn/hoc-vien-bao-chi-va-tuyen-truyen-chi-xet-hoc-ba-ket-hop-ielts-tu-6-0-20260304111537863.htm",
+      "summary": "Năm 2026, Học viện Báo chí và Tuyên truyền không còn xét học bạ độc lập, thí sinh phải xét kết hợp học bạ 6 kỳ với chứng chỉ tiếng Anh tương đương từ IELTS 6.0 trở lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.758514+07:00",
+      "fetched": "2026-03-04T13:35:19.758627+07:00"
+    },
+    {
+      "id": "f6acaad96b6463707e33a2bed94d3e7c",
+      "title": "Mặn lấn sâu nội đồng, người dân nuôi tôm cua vùng ven biển An Giang ‘quay cuồng’ lo lắng",
+      "link": "https://tuoitre.vn/man-lan-sau-noi-dong-nguoi-dan-nuoi-tom-cua-vung-ven-bien-an-giang-quay-cuong-lo-lang-20260304110431508.htm",
+      "summary": "Dù có nhiều phương án thích ứng với hạn mặn nhưng người dân vùng ven biển An Giang vẫn ‘quay cuồng’ lo lắng khi tôm thả nuôi trên vuông không lớn như mong đợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.758365+07:00",
+      "fetched": "2026-03-04T13:35:19.758497+07:00"
+    },
+    {
+      "id": "63feea9b24988928e8679baff82a359b",
+      "title": "Cà Mau: 10 năm gắn nhiệm vụ biên phòng với sinh kế vùng biển",
+      "link": "https://tuoitre.vn/ca-mau-10-nam-gan-nhiem-vu-bien-phong-voi-sinh-ke-vung-bien-20260304105546661.htm",
+      "summary": "Ngày 4-3, Bộ Chỉ huy Bộ đội biên phòng tỉnh Cà Mau tổ chức hội nghị tổng kết, tôn vinh các mô hình, chương trình, phong trào tham gia phát triển kinh tế, văn hóa, xã hội khu vực biên giới biển giai đoạn 2015-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.758225+07:00",
+      "fetched": "2026-03-04T13:35:19.758352+07:00"
+    },
+    {
+      "id": "73f1c64deb28e004715db4167f32a5dc",
+      "title": "Vì sao trẻ gặp khó khi học toán? Nghiên cứu mới hé lộ nguyên nhân",
+      "link": "https://tuoitre.vn/vi-sao-tre-gap-kho-khi-hoc-toan-nghien-cuu-moi-he-lo-nguyen-nhan-20260303124127352.htm",
+      "summary": "Nghiên cứu mới cho thấy trẻ gặp khó khăn khi học toán không chỉ do năng lực tính toán, mà còn ở cách não xử lý ký hiệu số và kiểm soát lỗi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.758098+07:00",
+      "fetched": "2026-03-04T13:35:19.758213+07:00"
+    },
+    {
+      "id": "7f6fea9404578fb3832ca05eae06dc55",
+      "title": "Hàng ngàn người Iran tham dự tang lễ 168 nữ sinh thiệt mạng sau vụ không kích trường học",
+      "link": "https://tuoitre.vn/hang-ngan-nguoi-iran-tham-du-tang-le-168-nu-sinh-thiet-mang-sau-vu-khong-kich-truong-hoc-2026030410290173.htm",
+      "summary": "Hàng ngàn người Iran tập trung tại thành phố Minab để dự lễ tang tập thể của 168 nữ sinh, hô khẩu hiệu phản đối Mỹ và Israel sau vụ không kích trường học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.757959+07:00",
+      "fetched": "2026-03-04T13:35:19.758075+07:00"
+    },
+    {
+      "id": "a267a8132ce3e3440b7cbe16cfb95900",
+      "title": "Lo đe dọa an ninh năng lượng, Petrovietnam muốn giao quyền nhập dầu thô, ưu tiên mua trong nước",
+      "link": "https://tuoitre.vn/lo-de-doa-an-ninh-nang-luong-petrovietnam-muon-giao-quyen-nhap-dau-tho-uu-tien-mua-trong-nuoc-20260304120742424.htm",
+      "summary": "Petrovietnam kiến nghị Chính phủ xem xét giao quyền nhập khẩu dầu thô và nguyên liệu để cung ứng cho các nhà máy lọc dầu nội địa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.757834+07:00",
+      "fetched": "2026-03-04T13:35:19.757948+07:00"
+    },
+    {
+      "id": "b439a4deedcf6f3bae4df16094009096",
+      "title": "Tình yêu trên sân khấu cho ngày 8-3",
+      "link": "https://tuoitre.vn/tinh-yeu-tren-san-khau-cho-ngay-8-3-20260304093613209.htm",
+      "summary": "Chào mừng Ngày quốc tế phụ nữ 8-3 năm nay, nhiều sân khấu chuẩn bị những câu chuyện tình để phục vụ khán giả nữ, những cặp đôi đang yêu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.757710+07:00",
+      "fetched": "2026-03-04T13:35:19.757823+07:00"
+    },
+    {
+      "id": "65587993bc7eb9182cddf75d7a5e21bc",
+      "title": "Tổng Bí thư: Chuẩn bị cơ sở lý luận, thực tiễn cho các quyết sách chiến lược ở giai đoạn mới",
+      "link": "https://tuoitre.vn/tong-bi-thu-chuan-bi-co-so-ly-luan-thuc-tien-cho-cac-quyet-sach-chien-luoc-o-giai-doan-moi-20260304121855893.htm",
+      "summary": "Tổng Bí thư Tô Lâm nhấn mạnh tổng kết là chuẩn bị cơ sở lý luận, thực tiễn cho các quyết sách chiến lược trong giai đoạn phát triển mới, hướng tới năm 2045 và xa hơn nữa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.757587+07:00",
+      "fetched": "2026-03-04T13:35:19.757699+07:00"
+    },
+    {
+      "id": "46015ec72a687af4cda6e8beb094fc51",
+      "title": "'Có một khoảng trống dù là Kia, Mazda hay BMW đều chưa làm được, xe riêng của THACO sẽ trám vào đó'",
+      "link": "https://tuoitre.vn/co-mot-khoang-trong-du-la-kia-mazda-hay-bmw-deu-chua-lam-duoc-xe-rieng-cua-thaco-se-tram-vao-do-20260304084317823.htm",
+      "summary": "Kế hoạch tự sản xuất xe thương mại từ 2027 của THACO được xem là bước ngoặt lớn, tiềm ẩn rủi ro nhưng có nền tảng vững chắc nhờ hạ tầng, chuỗi cung ứng và hệ thống phân phối sẵn có để khai thác khoảng trống thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.757460+07:00",
+      "fetched": "2026-03-04T13:35:19.757575+07:00"
+    },
+    {
+      "id": "82c94260386f91f13d73404d6927148c",
+      "title": "Giá sầu riêng neo cao, bất ngờ với hàng 'VIP' Musang King",
+      "link": "https://tuoitre.vn/gia-sau-rieng-neo-cao-bat-ngo-voi-hang-vip-musang-king-20260304115941397.htm",
+      "summary": "Nghịch vụ, giá sầu riêng Thái và Ri6 neo ở mức cao giúp nhiều nhà vườn ở miền Tây Nam Bộ thắng lớn. Ngược lại, sầu riêng Musang King - từng được mệnh danh là loại ngon nhất thế giới - giá lại đang khá bấp bênh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.757310+07:00",
+      "fetched": "2026-03-04T13:35:19.757447+07:00"
+    },
+    {
+      "id": "7ca061f79f04c0a80daf3c524ed5dbec",
+      "title": "Cuộc chiến của Mỹ ở Iran có hợp pháp?",
+      "link": "https://tuoitre.vn/cuoc-chien-cua-my-o-iran-co-hop-phap-20260304115951974.htm",
+      "summary": "Trên thực tế, cuộc tấn công của Mỹ vào Iran được cho là đã vượt qua nhiều ranh giới pháp lý, cả trong nước lẫn quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.757182+07:00",
+      "fetched": "2026-03-04T13:35:19.757298+07:00"
+    },
+    {
+      "id": "ade5ad9f3a71976b161e08dffbdc660f",
+      "title": "Sân bay Liên Khương nâng cấp, sửa chữa những hạng mục nào?",
+      "link": "https://tuoitre.vn/san-bay-lien-khuong-nang-cap-sua-chua-nhung-hang-muc-nao-20260304105345698.htm",
+      "summary": "Sân bay Liên Khương (khu vực Đà Lạt, tỉnh Lâm Đồng) đã đóng cửa, ngay sau đó khởi công nâng cấp nhiều hạng mục để đáp ứng đón 5 triệu lượt khách vào năm 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.757049+07:00",
+      "fetched": "2026-03-04T13:35:19.757169+07:00"
+    },
+    {
+      "id": "ef396ab4116a11d6d16d0f32cb69e575",
+      "title": "Từ rác thải trong bếp, đến thùng rác AI của học sinh lớp 11",
+      "link": "https://tuoitre.vn/tu-rac-thai-trong-bep-den-thung-rac-ai-cua-hoc-sinh-lop-11-20260304102841513.htm",
+      "summary": "Từ rác thải sinh hoạt trong căn bếp gia đình, bốn học sinh lớp 11 Trường THPT Nhân Chính, phường Thanh Xuân (Hà Nội) đặt ra bài toán phân loại rác tại nguồn và tìm lời giải bằng trí tuệ nhân tạo (AI) qua dự án thùng rác thông minh EcoBin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.756907+07:00",
+      "fetched": "2026-03-04T13:35:19.757036+07:00"
+    },
+    {
+      "id": "ed44c014169a84dd5f7f8a6656ee3569",
+      "title": "Nhà khoa học Việt được vinh danh Giải thưởng Sáng tạo châu Á giao lưu cùng sinh viên",
+      "link": "https://tuoitre.vn/nha-khoa-hoc-viet-duoc-vinh-danh-giai-thuong-sang-tao-chau-a-giao-luu-cung-sinh-vien-20260304111558549.htm",
+      "summary": "Sáng 4-3, sinh viên Trường đại học Văn Lang học tại báo Tuổi Trẻ đã tham gia phiên họp báo giả định cùng khách mời là PGS.TS Hoàng Trang với chủ đề ‘Từ thủ khoa tuyệt đối đến nhà khoa học được vinh danh quốc tế’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T13:35:19.756674+07:00",
+      "fetched": "2026-03-04T13:35:19.756891+07:00"
+    },
     {
       "id": "ebff35a20cc1eb8ebcd6449dbeefa35f",
       "title": "Thủ tướng: Thách thức điều hành vĩ mô, lạm phát, cần phản ứng kịp thời, linh hoạt",
@@ -261,6 +411,316 @@ window.newsData_2026_03_04 = {
       "category": "Tổng hợp",
       "published": "2026-03-04T08:11:39.711347+07:00",
       "fetched": "2026-03-04T08:11:39.711555+07:00"
+    },
+    {
+      "id": "5e405937f72c7f9548d93aaa8c557449",
+      "title": "Apple bất ngờ để lộ MacBook 'sinh viên' trước giờ G",
+      "link": "https://thanhnien.vn/apple-bat-ngo-de-lo-macbook-sinh-vien-truoc-gio-g-18526030412432637.htm",
+      "summary": "Apple có thể đã vô tình tiết lộ tên của chiếc MacBook giá rẻ được đồn đoán trước khi công bố sản phẩm mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:28:00+07:00",
+      "fetched": "2026-03-04T13:35:18.963537+07:00"
+    },
+    {
+      "id": "04576e71b3b9d749c84ecb5d491089d9",
+      "title": "Nhiều lỗi kỹ thuật trong ngày đầu thu phí trên 2 tuyến cao tốc",
+      "link": "https://thanhnien.vn/nhieu-loi-ky-thuat-trong-ngay-dau-thu-phi-tren-2-tuyen-cao-toc-185260304121202435.htm",
+      "summary": "Sau 1 ngày thu phí trên 2 cao tốc  Vĩnh Hảo - Phan Thiết và Phan Thiết - Dầu Giây, Cục Đường bộ Việt Nam ghi nhận nhiều lỗi kỹ thuật và yêu cầu khắc phục trước ngày 10.3.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:26:00+07:00",
+      "fetched": "2026-03-04T13:35:18.963705+07:00"
+    },
+    {
+      "id": "6584313087e83e9e20c2e07c2bedfa40",
+      "title": "Bàn chuyện thuê CEO đẳng cấp quốc tế làm tổng giám đốc doanh nghiệp nhà nước",
+      "link": "https://thanhnien.vn/ban-chuyen-thue-ceo-dang-cap-quoc-te-lam-tong-giam-doc-doanh-nghiep-nha-nuoc-185260304113213338.htm",
+      "summary": "Để thu hút CEO đẳng cấp quốc tế vào làm tổng giám đốc doanh nghiệp nhà nước, hệ thống cần tạo 'vùng an toàn' cho các quyết định rủi ro được thực hiện thiện chí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:19:00+07:00",
+      "fetched": "2026-03-04T13:35:18.963870+07:00"
+    },
+    {
+      "id": "085d1e9fb41a5d0ec200d254a7169281",
+      "title": "TP.HCM: Xử lý 'chợ' tự phát bủa vây trường tiểu học",
+      "link": "https://thanhnien.vn/tphcm-xu-ly-cho-tu-phat-bua-vay-truong-tieu-hoc-185260304114220971.htm",
+      "summary": "Chợ tự phát trên đường Tám Danh lấn chiếm lòng lề đường ngay sát trường học gây mất an toàn giao thông, lực lượng chức năng TP.HCM đã xử phạt nhiều trường hợp, thu giữ 8 xe tự chế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:13:00+07:00",
+      "fetched": "2026-03-04T13:35:18.964028+07:00"
+    },
+    {
+      "id": "cffdb8e39b271b545a3a3108e9b85306",
+      "title": "Tàu đánh cá bị sóng đánh chìm, 7 ngư dân bơi vào bờ, 1 người tử vong",
+      "link": "https://thanhnien.vn/tau-danh-ca-bi-song-danh-chim-7-ngu-dan-boi-vao-bo-1-nguoi-tu-vong-185260304115631784.htm",
+      "summary": "Lật tàu cá tại cửa biển Nhật Lệ (phường Đồng Hới, Quảng Trị) khiến 7 thuyền viên rơi xuống biển, 1 người tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:10:00+07:00",
+      "fetched": "2026-03-04T13:35:18.964175+07:00"
+    },
+    {
+      "id": "b1188024915b38c7fd55a80ba42aade3",
+      "title": "HLV Vũ Tiến Thành có giúp được CLB Ninh Bình?",
+      "link": "https://thanhnien.vn/hlv-vu-tien-thanh-co-giup-duoc-clb-ninh-binh-185260303221913147.htm",
+      "summary": "Từ đội bóng chơi ấn tượng ở giai đoạn đầu V-League, CLB Ninh Bình đang rơi tự do khiến lãnh đạo đội bóng phải mời HLV Vũ Tiến Thành từ HAGL ra Ninh Bình ngồi vào ghế nóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:09:00+07:00",
+      "fetched": "2026-03-04T13:35:18.964325+07:00"
+    },
+    {
+      "id": "0db18610e1f7ca44e09687bd3d216c3a",
+      "title": "Thành viên Vingroup làm nhà máy điện gió gần 4.700 tỷ đồng tại Gia Lai",
+      "link": "https://vnexpress.net/thanh-vien-vingroup-lam-nha-may-dien-gio-gan-4-700-ty-dong-tai-gia-lai-5046483.html",
+      "summary": "UBND tỉnh Gia Lai vừa chấp thuận Công ty cổ phần Năng lượng VinEnergo làm nhà đầu tư dự án Nhà máy điện gió Vĩnh Thuận, với tổng vốn gần 4.679 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:08:51+07:00",
+      "fetched": "2026-03-04T13:35:16.139063+07:00"
+    },
+    {
+      "id": "8cc2558214061426ea84420fee13a36c",
+      "title": "Nguyễn Thùy Linh: Đằng sau ánh hào quang",
+      "link": "https://thanhnien.vn/nguyen-thuy-linh-dang-sau-anh-hao-quang-185260303223408509.htm",
+      "summary": "Đằng sau thành công của tay vợt số 1 cầu lông VN Nguyễn Thùy Linh là quá trình khổ luyện, thi đấu quốc tế liên tục bất chấp khó khăn, thách thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:08:00+07:00",
+      "fetched": "2026-03-04T13:35:18.964503+07:00"
+    },
+    {
+      "id": "881a020b08759ff7e822e3da24fd2527",
+      "title": "46% các vụ tấn công DDoS tại Việt Nam sử dụng AI",
+      "link": "https://vnexpress.net/46-cac-vu-tan-cong-ddos-tai-viet-nam-su-dung-ai-5046312.html",
+      "summary": "Báo cáo an ninh mạng 2025 do VSEC thực hiện cho thấy, gần một nửa số vụ DDoS trong năm qua tại Việt Nam có liên quan đến AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:03:49+07:00",
+      "fetched": "2026-03-04T13:35:16.139239+07:00"
+    },
+    {
+      "id": "881a020b08759ff7e822e3da24fd2527",
+      "title": "46% các vụ tấn công DDoS tại Việt Nam sử dụng AI",
+      "link": "https://vnexpress.net/46-cac-vu-tan-cong-ddos-tai-viet-nam-su-dung-ai-5046312.html",
+      "summary": "Báo cáo an ninh mạng 2025 do VSEC thực hiện cho thấy, gần một nửa số vụ DDoS trong năm qua tại Việt Nam có liên quan đến AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-04T06:03:49+07:00",
+      "fetched": "2026-03-04T13:35:24.632474+07:00"
+    },
+    {
+      "id": "4d590bbe274ac06e38288cddcb835b10",
+      "title": "Hàng nghìn thanh niên nhập ngũ, tân binh xúc động hứa quyết tâm trưởng thành",
+      "link": "https://thanhnien.vn/hang-nghin-thanh-nien-nhap-ngu-tan-binh-xuc-dong-hua-quyet-tam-truong-thanh-185260304111946204.htm",
+      "summary": "Hơn 4.600 thanh niên lên đường nhập ngũ trong không khí trang nghiêm, xúc động tại thành phố Đà Nẵng. Trước giờ chia tay, nhiều tân binh bày tỏ quyết tâm rèn luyện, trưởng thành trong môi trường quân đội, hoàn thành tốt nhiệm vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:03:00+07:00",
+      "fetched": "2026-03-04T13:35:18.964653+07:00"
+    },
+    {
+      "id": "c2541819e8bb93408987863890953b51",
+      "title": "Tài sản nào sẽ bùng nổ năm 2026?",
+      "link": "https://vnexpress.net/tai-san-nao-se-bung-no-nam-2026-5046522.html",
+      "summary": "Kim loại quý vừa bùng nổ, nhưng lãi suất tăng và bất ổn địa chính trị đang làm thay đổi cục diện năm 2026. Theo chuyên gia, cổ phiếu sẽ là kênh dẫn đầu thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:01:19+07:00",
+      "fetched": "2026-03-04T13:35:16.139428+07:00"
+    },
+    {
+      "id": "8fbe10c439efb2683df6980359fcede6",
+      "title": "Tôi vừa tỏ tình, bạn thân lâu năm yêu cầu tránh xa cô ấy",
+      "link": "https://vnexpress.net/toi-vua-to-tinh-ban-than-lau-nam-yeu-cau-tranh-xa-co-ay-5046201.html",
+      "summary": "Em bảo chúng tôi chỉ là bạn; tôi xin thêm cơ hội được bên cạnh và giúp đỡ em, em bảo tôi phiền, hãy tránh xa em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:00:00+07:00",
+      "fetched": "2026-03-04T13:35:16.139594+07:00"
+    },
+    {
+      "id": "2eaf5a39917aa311c95d6adb46660642",
+      "title": "Dàn Tiktoker rủ nhau thực hiện thử thách ngày Tết từ Bia Saigon",
+      "link": "https://vnexpress.net/dan-tiktoker-ru-nhau-thuc-hien-thu-thach-ngay-tet-tu-bia-saigon-5046547.html",
+      "summary": "Châu Muối, Hai Phước, Ánh Tuyết, đồng loạt đăng video mời Tết, tham gia thử thách \"Một lời mời, tỏa Tết lớn\" mà Bia Saigon tung ra trong dịp Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:00:00+07:00",
+      "fetched": "2026-03-04T13:35:16.139753+07:00"
+    },
+    {
+      "id": "5c32c789aba574d15a91bb5b2c5b02f2",
+      "title": "BIM Land giới thiệu 124 biệt thự bên hồ tại Thanh Xuan Valley",
+      "link": "https://vnexpress.net/bim-land-gioi-thieu-124-biet-thu-ben-ho-tai-thanh-xuan-valley-5046408.html",
+      "summary": "BIM Land giới thiệu 124 biệt thự Lakeside Residences mang kiến trúc đương đại cùng quy hoạch và cảnh quan nội khu nương theo đa tầng địa hình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:00:00+07:00",
+      "fetched": "2026-03-04T13:35:16.139906+07:00"
+    },
+    {
+      "id": "c14fe37a54a30a0bbea5ea99ccaeaf7a",
+      "title": "Vì sao người trẻ chủ động 'yêu' áo dài dù từng ngại ngùng với trang phục này?",
+      "link": "https://thanhnien.vn/vi-sao-nguoi-tre-chu-dong-yeu-ao-dai-du-tung-ngai-ngung-voi-trang-phuc-nay-185260304103447591.htm",
+      "summary": "Hình ảnh người trẻ chủ động mặc áo dài trong các sự kiện cá nhân, buổi chụp ảnh, thậm chí trong sinh hoạt thường nhật, xuất hiện ngày một nhiều. Minh chứng này cho thấy áo dài tuy từng là trang phục bắt buộc nhưng theo thời gian đã trở thành lựa chọn tự nhiên. Người trẻ không phải \"mặc vì bị yêu cầu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:00:00+07:00",
+      "fetched": "2026-03-04T13:35:18.964808+07:00"
+    },
+    {
+      "id": "86cd93d590198cb02362006d46de677c",
+      "title": "Xe đầu kéo chở nhiều ô tô con cháy bánh, CSGT Huế kịp thời ứng cứu",
+      "link": "https://thanhnien.vn/xe-dau-keo-cho-nhieu-o-to-con-chay-banh-csgt-hue-kip-thoi-ung-cuu-185260304103413143.htm",
+      "summary": "Xe ô tô đầu kéo chở nhiều ô tô con (trị giá 10 tỉ đồng) đang lưu thông trên quốc lộ 1 thì gặp sự cố cháy bánh. Các bộ CSGT Huế đang tuần tra trên đường đã kịp thời phát hiện và hỗ trợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T06:00:00+07:00",
+      "fetched": "2026-03-04T13:35:18.964962+07:00"
+    },
+    {
+      "id": "a1157cfc9274886788d43c9eddd51013",
+      "title": "Bầu Đức muốn mua 5 triệu cổ phiếu HAG",
+      "link": "https://vnexpress.net/bau-duc-muon-mua-5-trieu-co-phieu-hag-5046479.html",
+      "summary": "Bầu Đức vừa đăng ký mua 5 triệu cổ phiếu HAG theo phương thức khớp lệnh trên sàn, thời gian từ 9/3 đến 7/4 với mục đích tăng tỷ lệ sở hữu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T05:49:36+07:00",
+      "fetched": "2026-03-04T13:35:16.140068+07:00"
+    },
+    {
+      "id": "a1157cfc9274886788d43c9eddd51013",
+      "title": "Bầu Đức muốn mua 5 triệu cổ phiếu HAG",
+      "link": "https://vnexpress.net/bau-duc-muon-mua-5-trieu-co-phieu-hag-5046479.html",
+      "summary": "Bầu Đức vừa đăng ký mua 5 triệu cổ phiếu HAG theo phương thức khớp lệnh trên sàn, thời gian từ 9/3 đến 7/4 với mục đích tăng tỷ lệ sở hữu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-04T05:49:36+07:00",
+      "fetched": "2026-03-04T13:35:22.455055+07:00"
+    },
+    {
+      "id": "8fb83e40d477e6ecc2da82b36ce4a29a",
+      "title": "Vương Sở Nhiên là đại sứ thương hiệu mới của Dior, vị thế Jisoo có 'lung lay'?",
+      "link": "https://thanhnien.vn/vuong-so-nhien-la-dai-su-thuong-hieu-moi-cua-dior-vi-the-jisoo-co-lung-lay-185260304123721223.htm",
+      "summary": "Ngày 3.3, Dior chính thức công bố nữ diễn viên Vương Sở Nhiên là đại sứ thương hiệu mới của mình thông qua tài khoản Weibo chính thức. Quyết định này được công bố theo cách đầy bất ngờ, trùng thời điểm show diễn Thu Đông 2026 của hãng tại Tuần lễ thời trang Paris khai màn, nhanh chóng thu hút sự chú...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T05:46:00+07:00",
+      "fetched": "2026-03-04T13:35:18.965111+07:00"
+    },
+    {
+      "id": "7fd7236ad483185d85b3c6f76af7ea52",
+      "title": "'Hoàng đế cuối cùng' gây sốt trở lại, fan khuyên 'ai cũng nên xem'",
+      "link": "https://thanhnien.vn/hoang-de-cuoi-cung-gay-sot-tro-lai-fan-khuyen-ai-cung-nen-xem-185260304114121679.htm",
+      "summary": "Bộ phim chính kịch cổ trang 'Hoàng đế cuối cùng' được xem là một kiệt tác của điện ảnh thế giới. Tác phẩm này đang bất ngờ 'hot' trở lại và nhận được làn sóng khen ngợi mạnh mẽ từ khán giả, với nhiều ý kiến cho rằng 'ai cũng nên xem bộ phim này ít nhất một lần', Daily Mail đưa tin ngày 3.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T05:40:00+07:00",
+      "fetched": "2026-03-04T13:35:18.965264+07:00"
+    },
+    {
+      "id": "fd7a00cca5870928780b1ddb4ff1afdd",
+      "title": "Cơ thủ trẻ Nguyễn Trần Thanh Tự kể về khoảnh khắc đăng quang thế giới",
+      "link": "https://thanhnien.vn/co-thu-tre-nguyen-tran-thanh-tu-ke-ve-khoanh-khac-dang-quang-the-gioi-185260304094556436.htm",
+      "summary": "Hai cơ thủ Nguyễn Trần Thanh Tự và Trần Quyết Chiến đã xuất sắc đánh bại đội tuyển chủ nhà Đức để bước lên bục cao nhất tại giải vô địch billiards carom 3 băng đồng đội thế giới 2026 diễn ra tại Viersen (Đức). Ngay sau khi về nước, Nguyễn Trần Thanh Tự đã có những chia sẻ về hành trình chinh phục ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T05:31:00+07:00",
+      "fetched": "2026-03-04T13:35:18.965431+07:00"
+    },
+    {
+      "id": "65e7bf7f38ba3b17f55cb20e649e7ce4",
+      "title": "Đau trên rốn kèm buồn nôn cảnh báo bệnh gì?",
+      "link": "https://vnexpress.net/dau-tren-ron-kem-buon-non-canh-bao-benh-gi-5046517.html",
+      "summary": "Gần đây, tôi hay cảm thấy đau trên rốn kèm buồn nôn. Đây là biểu hiện của bệnh gì, nguy hiểm không? (Vũ Hạnh, 45 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T05:30:00+07:00",
+      "fetched": "2026-03-04T13:35:16.140226+07:00"
+    },
+    {
+      "id": "380f32cd8f066db4efeed323e69a75da",
+      "title": "Thường trực Ban Bí thư: Đại biểu phải ‘trọng dân, học dân, gần dân’",
+      "link": "https://thanhnien.vn/thuong-truc-ban-bi-thu-dai-bieu-phai-trong-dan-hoc-dan-gan-dan-185260304105734327.htm",
+      "summary": "Tại buổi tiếp xúc cử tri, Thường trực Ban Bí thư Trần Cẩm Tú cam kết 'trọng dân, học dân, gần dân' và sẽ là cầu nối vững chắc, đưa tiếng nói của người dân đến thẳng nghị trường Quốc hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T05:28:00+07:00",
+      "fetched": "2026-03-04T13:35:18.965580+07:00"
+    },
+    {
+      "id": "c0729ed8e5d19955d12d97c82ba71f92",
+      "title": "Dập sào bắt cá trên sông Tích",
+      "link": "https://vnexpress.net/dap-sao-bat-ca-tren-song-tich-5046530.html",
+      "summary": "Người dân xã Phúc Thọ cầm sào tre dài gắn lưới, dập xuống mặt nước như “bày binh bố trận”, tạo tiếng động dồn cá vào lưới để bắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T05:27:56+07:00",
+      "fetched": "2026-03-04T13:35:16.140404+07:00"
+    },
+    {
+      "id": "e0a7638670a38e580b795e2365aeb14a",
+      "title": "Người dân 'rối não' vì biển báo: Xe máy phải tranh làn vì ô tô đỗ",
+      "link": "https://thanhnien.vn/nguoi-dan-roi-nao-vi-bien-bao-xe-may-phai-tranh-lan-vi-o-to-do-185260304104623538.htm",
+      "summary": "Dù đã được lắp đặt nhằm tổ chức lại giao thông, hệ thống biển báo phân làn trên đường Lương Định Của (TP.HCM) lại đang khiến nhiều người dân lúng túng khi lưu thông. Việc ô tô dừng đỗ chiếm làn xe máy cùng những bất cập trong cách bố trí biển báo đang đặt ra yêu cầu sớm điều chỉnh để đảm bảo an toàn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T05:24:00+07:00",
+      "fetched": "2026-03-04T13:35:18.965734+07:00"
+    },
+    {
+      "id": "ae33fb19a1e1dd5b305c5cbde14c85f1",
+      "title": "Thanh niên cả nước lên đường nhập ngũ",
+      "link": "https://vnexpress.net/thanh-nien-ca-nuoc-len-duong-nhap-ngu-5046450.html",
+      "summary": "Hàng chục nghìn thanh niên tại các địa phương bắt đầu lên đường nhập ngũ từ ngày 4/3, mở đầu đợt giao nhận quân năm 2026 kéo dài trong 3 ngày trên phạm vi cả nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T05:17:33+07:00",
+      "fetched": "2026-03-04T13:35:16.140568+07:00"
+    },
+    {
+      "id": "e2375fd8fbbd45698e44974f5811c42d",
+      "title": "Hai xe máy tông nhau, bốn người chết",
+      "link": "https://vnexpress.net/hai-xe-may-tong-nhau-bon-nguoi-chet-5046539.html",
+      "summary": "Đang chạy trên quốc lộ 4B đoạn qua xã Na Dương, hai xe máy đối đầu khiến 4 thanh thiếu niên tử vong, đêm 3/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T05:16:48+07:00",
+      "fetched": "2026-03-04T13:35:16.140718+07:00"
+    },
+    {
+      "id": "b0b3dd0d9038ff280622594717f8783a",
+      "title": "Đẻ con ở Singapore - cuộc đầu tư 'quá sức' với cả triệu phú",
+      "link": "https://vnexpress.net/de-con-o-singapore-cuoc-dau-tu-qua-suc-voi-ca-trieu-phu-5046486.html",
+      "summary": "Dù sở hữu khối tài sản triệu đô và dư dả thời gian, Joey Lau vẫn kiên quyết từ chối làm mẹ vì lo ngại những rủi ro về sức khỏe tâm thần và biến đổi khí hậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T05:12:13+07:00",
+      "fetched": "2026-03-04T13:35:16.140871+07:00"
+    },
+    {
+      "id": "db1e3e3b051a560b6a0ba5d985e15cf9",
+      "title": "Cuộc sống ở Tehran dưới đòn không kích của Mỹ - Israel",
+      "link": "https://vnexpress.net/cuoc-song-o-tehran-duoi-don-khong-kich-cua-my-israel-5046453.html",
+      "summary": "Người dân Tehran hạn chế ra đường, sống trong nỗi lo sợ thường trực, khi bom, tên lửa liên tục trút xuống các mục tiêu trong thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T05:11:32+07:00",
+      "fetched": "2026-03-04T13:35:16.141029+07:00"
+    },
+    {
+      "id": "db1e3e3b051a560b6a0ba5d985e15cf9",
+      "title": "Cuộc sống ở Tehran dưới đòn không kích của Mỹ - Israel",
+      "link": "https://vnexpress.net/cuoc-song-o-tehran-duoi-don-khong-kich-cua-my-israel-5046453.html",
+      "summary": "Người dân Tehran hạn chế ra đường, sống trong nỗi lo sợ thường trực, khi bom, tên lửa liên tục trút xuống các mục tiêu trong thành phố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-04T05:11:32+07:00",
+      "fetched": "2026-03-04T13:35:21.368558+07:00"
     },
     {
       "id": "a2ef072233f62ad2f3eed2339336d13a",
