@@ -1,6 +1,6 @@
 window.newsData_2026_03_05 = {
   "date": "2026-03-05",
-  "lastUpdated": "2026-03-05T03:23:22.473183+07:00",
+  "lastUpdated": "2026-03-05T05:22:11.737410+07:00",
   "articles": [
     {
       "id": "c4c6b430b4dadaef3a052f493072d81e",
@@ -171,6 +171,146 @@ window.newsData_2026_03_05 = {
       "category": "Tổng hợp",
       "published": "2026-03-05T01:34:39.502261+07:00",
       "fetched": "2026-03-05T01:34:39.502470+07:00"
+    },
+    {
+      "id": "4e1873904b65a01a4545bb9f75747a9c",
+      "title": "Mỹ dọa truy tố lãnh đạo Venezuela",
+      "link": "https://thanhnien.vn/my-doa-truy-to-lanh-dao-venezuela-185260304232841803.htm",
+      "summary": "Reuters ngày 4.3 dẫn các nguồn thạo tin cho hay chính quyền Tổng thống Mỹ Donald Trump đang âm thầm xây dựng một vụ kiện pháp lý chống lại Tổng thống lâm thời Venezuela Delcy Rodriguez như một công cụ tăng cường ảnh hưởng đối với Caracas.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T22:20:00+07:00",
+      "fetched": "2026-03-05T05:22:04.767152+07:00"
+    },
+    {
+      "id": "66d5036b499f67578d04e6a0c24741df",
+      "title": "Tử vi ngày 5 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-5-thang-3-con-giap-nao-may-man-hom-nay-185260304223225458.htm",
+      "summary": "Tử vi ngày 5 tháng 3 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T22:15:00+07:00",
+      "fetched": "2026-03-05T05:22:04.767317+07:00"
+    },
+    {
+      "id": "4119b3cbc5133b6709dd8efb297a630e",
+      "title": "Quy hoạch thành phố Đà Nẵng: Khát vọng trở thành đô thị đẳng cấp châu Á",
+      "link": "https://thanhnien.vn/quy-hoach-thanh-pho-da-nang-khat-vong-tro-thanh-do-thi-dang-cap-chau-a-185260304163930088.htm",
+      "summary": "Với việc thông qua điều chỉnh quy hoạch thời kỳ 2021 - 2030, tầm nhìn đến năm 2050, Đà Nẵng đang tăng tốc để trở thành 'hạt nhân' kinh tế - xã hội của cả nước và khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T22:10:00+07:00",
+      "fetched": "2026-03-05T05:22:04.767471+07:00"
+    },
+    {
+      "id": "e659fd6cfff884721ee992bc3d57614f",
+      "title": "Ông Trump dọa cấm vận Tây Ban Nha vì không hỗ trợ đánh Iran",
+      "link": "https://thanhnien.vn/ong-trump-doa-cam-van-tay-ban-nha-vi-khong-ho-tro-danh-iran-185260304172933451.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đe dọa áp đặt lệnh cấm vận thương mại toàn diện của Mỹ đối với Tây Ban Nha sau khi đồng minh NATO này từ chối cho Mỹ sử dụng các căn cứ của mình cho nhiệm vụ liên quan cuộc tấn công vào Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T22:03:00+07:00",
+      "fetched": "2026-03-05T05:22:04.767622+07:00"
+    },
+    {
+      "id": "6ff64af84b47d981674bd9f32467a209",
+      "title": "Chelsea đè bẹp Aston Villa",
+      "link": "https://vnexpress.net/chelsea-de-bep-aston-villa-5046763.html",
+      "summary": "Chelsea thắng ngược chủ nhà Aston Villa 4-1 ở vòng 29 Ngoại hạng Anh để chiếm vị trí thứ năm của Liverpool.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-04T22:00:22+07:00",
+      "fetched": "2026-03-05T05:22:11.732921+07:00"
+    },
+    {
+      "id": "39c7b3df805a3b182e29d8fc273b2c66",
+      "title": "Bệnh viện Chợ Rẫy lần đầu đại phẫu '10 tiếng' cứu bệnh nhân ung thư hốc mũi",
+      "link": "https://thanhnien.vn/benh-vien-cho-ray-lan-dau-dai-phau-10-tieng-cuu-benh-nhan-ung-thu-hoc-mui-185260304200352944.htm",
+      "summary": "Các bác sĩ Bệnh viện Chợ Rẫy vừa thực hiện ca đại phẫu, lần đầu phối hợp 5 chuyên khoa để cứu bệnh nhân ung thư hốc mũi tái phát giai đoạn muộn, xâm lấn rộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T22:00:00+07:00",
+      "fetched": "2026-03-05T05:22:04.767807+07:00"
+    },
+    {
+      "id": "eb85557336b3580ea035420743be199d",
+      "title": "Bầu cử Quốc hội: Ai được chứng kiến khâu kiểm phiếu?",
+      "link": "https://thanhnien.vn/bau-cu-quoc-hoi-ai-duoc-chung-kien-khau-kiem-phieu-185260304151752476.htm",
+      "summary": "Chỉ những thành viên tổ bầu cử mới được kiểm phiếu bầu cử; người ứng cử đại biểu Quốc hội và HĐND, phóng viên báo đài được chứng kiến việc kiểm phiếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T22:00:00+07:00",
+      "fetched": "2026-03-05T05:22:04.767963+07:00"
+    },
+    {
+      "id": "11ba6a3f9b83ba988d878977bab76235",
+      "title": "Túi mực của mực nang có lợi ích gì?",
+      "link": "https://thanhnien.vn/tui-muc-cua-muc-nang-co-loi-ich-gi-185260304094135877.htm",
+      "summary": "Túi mực của mực nang, phần thường bị bỏ đi khi sơ chế, thực chất lại chứa nhiều hoạt chất sinh học có giá trị. Không chỉ được sử dụng trong ẩm thực để tạo màu và hương vị đặc trưng, túi mực còn được nghiên cứu với những tiềm năng về chống oxy hóa, kháng khuẩn và hỗ trợ sức khỏe. Vậy túi mực mực nang...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T22:00:00+07:00",
+      "fetched": "2026-03-05T05:22:04.768112+07:00"
+    },
+    {
+      "id": "a248109e9b85b36cc495d3e24dbeaf42",
+      "title": "Hôm nay 5.3 tiết Kinh trập bắt đầu: Tiết khí có gì mà người Việt quan tâm?",
+      "link": "https://thanhnien.vn/hom-nay-53-tiet-kinh-trap-bat-dau-tiet-khi-co-gi-ma-nguoi-viet-quan-tam-185260304092942789.htm",
+      "summary": "Ngày 5.3 hôm nay là ngày đầu tiên trong năm 2026 người Việt đón tiết Kinh trập. Tiết khí này có ý nghĩa gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T22:00:00+07:00",
+      "fetched": "2026-03-05T05:22:04.768267+07:00"
+    },
+    {
+      "id": "4751f5c7f5dcba9f92032dc8d9ac2823",
+      "title": "Ukraine lo lắng khi Trung Đông đấu tên lửa",
+      "link": "https://thanhnien.vn/ukraine-lo-lang-khi-trung-dong-dau-ten-lua-185260304183917974.htm",
+      "summary": "Giới chức Ukraine hiện đang rất quan tâm đến diễn biến xung đột tại Trung Đông, đặc biệt là nỗi lo việc Mỹ tham chiến cùng Israel tấn công Iran có thể gián đoạn nguồn cung tên lửa phòng không cho Kyiv.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T21:53:00+07:00",
+      "fetched": "2026-03-05T05:22:04.768414+07:00"
+    },
+    {
+      "id": "7bd4ed7a2710f602aa5da1760aa37578",
+      "title": "Chiến sự Ukraine ngày 1.470: Ukraine giành được nhiều hơn mất",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1470-ukraine-gianh-duoc-nhieu-hon-mat-185260304214221142.htm",
+      "summary": "Theo Viện Nghiên cứu Chiến tranh (Mỹ), lực lượng Ukraine trong 2 tuần cuối của tháng 2 đã giành được thêm nhiều lãnh thổ so với mức tổn thất vào tay Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T21:45:00+07:00",
+      "fetched": "2026-03-05T05:22:04.768567+07:00"
+    },
+    {
+      "id": "5aeb5c265fcdf29de2b686bfade4a748",
+      "title": "Arsenal hơn Man City 7 điểm",
+      "link": "https://vnexpress.net/arsenal-hon-man-city-7-diem-5046762.html",
+      "summary": "Arsenal thắng nhọc chủ nhà Brighton 1-0 ở vòng 29 Ngoại hạng Anh để nới rộng cách biệt với Man City lên bảy điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-04T21:43:05+07:00",
+      "fetched": "2026-03-05T05:22:11.732246+07:00"
+    },
+    {
+      "id": "f9d12fa6033546f3a70ed609ee408cd3",
+      "title": "Hứa hẹn kịch tính ở vòng chung kết",
+      "link": "https://thanhnien.vn/hua-hen-kich-tinh-o-vong-chung-ket-185260304222243971.htm",
+      "summary": "Vòng chung kết giải bóng đá Thanh Niên sinh viên VN lần IV - 2026 (TNSV THACO cup 2026) diễn ra từ ngày 7 - 22.3, với 12 đội bóng tranh tài hấp dẫn tại sân Trường ĐH Nha Trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T20:51:00+07:00",
+      "fetched": "2026-03-05T05:22:04.768742+07:00"
+    },
+    {
+      "id": "478cc9a431c192f706731343a1b1a090",
+      "title": "Chiến thắng quá cảm xúc của những cô gái kim cương",
+      "link": "https://thanhnien.vn/chien-thang-qua-cam-xuc-cua-nhung-co-gai-kim-cuong-185260304221509429.htm",
+      "summary": "Đội tuyển nữ VN giành chiến thắng 2-1 trước Ấn Độ ở trận ra quân Asian Cup 2026 vào tối qua (4.3) để đứng nhì bảng C sau lượt trận đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T20:51:00+07:00",
+      "fetched": "2026-03-05T05:22:04.768905+07:00"
     },
     {
       "id": "661e2a331e724528327a9af65789f2bf",
