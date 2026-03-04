@@ -1,7 +1,27 @@
 window.newsData_2026_03_05 = {
   "date": "2026-03-05",
-  "lastUpdated": "2026-03-05T01:34:48.924560+07:00",
+  "lastUpdated": "2026-03-05T03:23:22.473183+07:00",
   "articles": [
+    {
+      "id": "c4c6b430b4dadaef3a052f493072d81e",
+      "title": "Mỹ có khả năng nâng thuế nhập khẩu toàn cầu lên 15% ngay trong tuần này",
+      "link": "https://tuoitre.vn/my-co-kha-nang-nang-thue-nhap-khau-toan-cau-len-15-ngay-trong-tuan-nay-20260305003837815.htm",
+      "summary": "Quyết định được đưa ra trong bối cảnh Nhà Trắng tìm cách khôi phục chương trình thuế quan bị Tòa án Mỹ bác bỏ trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T03:23:14.450531+07:00",
+      "fetched": "2026-03-05T03:23:14.450660+07:00"
+    },
+    {
+      "id": "6c2582f44651b9341b89171c56319ec2",
+      "title": "Nga gọi kế hoạch mở rộng kho vũ khí hạt nhân của Pháp là 'cực kỳ gây mất ổn định'",
+      "link": "https://tuoitre.vn/nga-goi-ke-hoach-mo-rong-kho-vu-khi-hat-nhan-cua-phap-la-cuc-ky-gay-mat-on-dinh-20260305003845038.htm",
+      "summary": "Nga cho rằng việc Pháp có kế hoạch mở rộng kho vũ khí hạt nhân có thể tạo ra mối đe dọa đối với Matxcơva.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T03:23:14.450308+07:00",
+      "fetched": "2026-03-05T03:23:14.450516+07:00"
+    },
     {
       "id": "931fedb4f46f32e09b91963350a885d6",
       "title": "Nhiều người bị khóa Mobile Banking vì xài điện thoại trôi nổi",
@@ -151,6 +171,56 @@ window.newsData_2026_03_05 = {
       "category": "Tổng hợp",
       "published": "2026-03-05T01:34:39.502261+07:00",
       "fetched": "2026-03-05T01:34:39.502470+07:00"
+    },
+    {
+      "id": "661e2a331e724528327a9af65789f2bf",
+      "title": "Ủy ban Olympic Quốc tế không trừng phạt Mỹ - Israel",
+      "link": "https://vnexpress.net/uy-ban-olympic-quoc-te-khong-trung-phat-my-israel-5046761.html",
+      "summary": "Ủy ban Olympic Quốc tế (IOC) không đưa ra bất kỳ biện pháp trừng phạt nào với Mỹ và Israel, như từng áp dụng với Nga năm 2022.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T19:27:37+07:00",
+      "fetched": "2026-03-05T03:23:10.738596+07:00"
+    },
+    {
+      "id": "661e2a331e724528327a9af65789f2bf",
+      "title": "Ủy ban Olympic Quốc tế không trừng phạt Mỹ - Israel",
+      "link": "https://vnexpress.net/uy-ban-olympic-quoc-te-khong-trung-phat-my-israel-5046761.html",
+      "summary": "Ủy ban Olympic Quốc tế (IOC) không đưa ra bất kỳ biện pháp trừng phạt nào với Mỹ và Israel, như từng áp dụng với Nga năm 2022.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-04T19:27:37+07:00",
+      "fetched": "2026-03-05T03:23:22.468301+07:00"
+    },
+    {
+      "id": "625286970f9f6f3dd83217d55624fda0",
+      "title": "Điều gì xảy ra với huyết áp và cholesterol khi ăn trứng mỗi ngày?",
+      "link": "https://thanhnien.vn/dieu-gi-xay-ra-voi-huyet-ap-va-cholesterol-khi-an-trung-moi-ngay-185260305015836326.htm",
+      "summary": "Trứng được yêu chuộng nhờ bổ dưỡng và tiện dụng. Tuy nhiên, hàm lượng cholesterol trong lòng đỏ đã khiến không ít người lo ngại và tự hỏi liệu ăn trứng có ảnh hưởng xấu đến tim mạch?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T18:58:00+07:00",
+      "fetched": "2026-03-05T03:23:13.653638+07:00"
+    },
+    {
+      "id": "17fb465fc6a216740916fbafab365620",
+      "title": "Mỡ máu cao: 4 loại nước ép nên có trong bữa sáng",
+      "link": "https://thanhnien.vn/mo-mau-cao-4-loai-nuoc-ep-nen-co-trong-bua-sang-185260304195902358.htm",
+      "summary": "Bên cạnh thuốc và tập luyện thể chất, chế độ ăn uống cũng đóng vai trò quan trọng với kiểm soát mỡ máu. Một số loại nước ép trái cây, rau củ sẽ giúp giảm mỡ máu hiệu quả hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T18:42:00+07:00",
+      "fetched": "2026-03-05T03:23:13.653806+07:00"
+    },
+    {
+      "id": "d6f663d4da58132b72e4aff7b16ef8b6",
+      "title": "3 biểu hiện ở gan báo động nguy cơ đe dọa tính mạng",
+      "link": "https://thanhnien.vn/3-bieu-hien-o-gan-bao-dong-nguy-co-de-doa-tinh-mang-185260304200230295.htm",
+      "summary": "Một đặc điểm nguy hiểm của các bệnh gan là nhiều trường hợp tiến triển âm thầm trong thời gian dài. Khi triệu chứng xuất hiện rõ ràng, tổn thương gan có thể đã bước vào giai đoạn nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T18:39:00+07:00",
+      "fetched": "2026-03-05T03:23:13.653963+07:00"
     },
     {
       "id": "9dfe866a4c91990ab1e5d5bef6920dda",
