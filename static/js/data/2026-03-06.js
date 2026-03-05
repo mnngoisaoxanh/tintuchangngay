@@ -1,7 +1,47 @@
 window.newsData_2026_03_06 = {
   "date": "2026-03-06",
-  "lastUpdated": "2026-03-06T03:29:08.654830+07:00",
+  "lastUpdated": "2026-03-06T05:21:58.176093+07:00",
   "articles": [
+    {
+      "id": "0e88b6399da762ab11de799a87c78077",
+      "title": "Lịch trực tiếp Asian Cup nữ: Uzbekistan đấu Trung Quốc",
+      "link": "https://tuoitre.vn/lich-truc-tiep-asian-cup-nu-uzbekistan-dau-trung-quoc-20260305152622595.htm",
+      "summary": "Tâm điểm của ngày thi đấu 6-3 của Giải bóng đá nữ châu Á (Asian Cup nữ) 2026 là cuộc đối đầu giữa Uzbekistan và Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T05:21:48.996815+07:00",
+      "fetched": "2026-03-06T05:21:48.996914+07:00"
+    },
+    {
+      "id": "1bef0c17c0bffaba873e13a31e382966",
+      "title": "Định danh bất động sản: Thúc đẩy kết nối liên ngành và bảo mật thông tin",
+      "link": "https://tuoitre.vn/dinh-danh-bat-dong-san-thuc-day-ket-noi-lien-nganh-va-bao-mat-thong-tin-20260305223859169.htm",
+      "summary": "Với việc định danh bất động sản , dữ liệu thông tin định danh sẽ là nguồn tài nguyên số được sử dụng trong quản lý, giao dịch... Thế nhưng sử dụng kho dữ liệu này ra sao vẫn còn những vướng mắc cần tháo gỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T05:21:48.996698+07:00",
+      "fetched": "2026-03-06T05:21:48.996806+07:00"
+    },
+    {
+      "id": "b359ba82ec236bd827f6e0770fa045c1",
+      "title": "Thời tiết hôm nay 6-3: Cả nước có mưa rào, nhiều nơi mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-6-3-ca-nuoc-co-mua-rao-nhieu-noi-mua-to-20260305162005966.htm",
+      "summary": "Hôm nay 6-3, thời tiết cả nước đều có mưa, một số khu vực xuất hiện mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T05:21:48.996555+07:00",
+      "fetched": "2026-03-06T05:21:48.996687+07:00"
+    },
+    {
+      "id": "eb63a3f9beaf4273b0141b958bd43860",
+      "title": "Tin tức sáng 6-3: Khó xuất hiện chu kỳ tăng giá bất động sản mới trên diện rộng năm 2026",
+      "link": "https://tuoitre.vn/tin-tuc-sang-6-3-kho-xuat-hien-chu-ky-tang-gia-bat-dong-san-moi-tren-dien-rong-nam-2026-20260305224626063.htm",
+      "summary": "Tin tức đáng chú ý: Đề xuất quy định giáo dục bắt buộc từ cấp tiểu học đến hết THCS; Khó xuất hiện chu kỳ tăng giá bất động sản mới trên diện rộng năm 2026...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T05:21:48.996310+07:00",
+      "fetched": "2026-03-06T05:21:48.996542+07:00"
+    },
     {
       "id": "e4e5f282538bc57b82c0932ecee6ace7",
       "title": "Techcombank thúc đẩy chuyển đổi số và tiếp cận tài chính cho doanh nghiệp và hộ kinh doanh",
@@ -211,6 +251,176 @@ window.newsData_2026_03_06 = {
       "category": "Tổng hợp",
       "published": "2026-03-06T00:54:05.957352+07:00",
       "fetched": "2026-03-06T00:54:05.957564+07:00"
+    },
+    {
+      "id": "e0a64f4c338a579148339d965bf638e1",
+      "title": "Tử vi ngày 6 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-6-thang-3-con-giap-nao-may-man-hom-nay-18526030517393008.htm",
+      "summary": "Tử vi ngày 6 tháng 3 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T22:15:00+07:00",
+      "fetched": "2026-03-06T05:21:47.403785+07:00"
+    },
+    {
+      "id": "2f89918aba4cc43782c1fe045e731164",
+      "title": "Chiến sự Ukraine ngày 1.471: Tập kích gia tăng giữa tranh cãi đảm bảo an ninh",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1471-tap-kich-gia-tang-giua-tranh-cai-dam-bao-an-ninh-185260305221540304.htm",
+      "summary": "Chiến sự Nga - Ukraine tiếp tục leo thang với nhiều diễn biến mới trên chiến trường trong bối cảnh NATO khẳng định vẫn duy trì hỗ trợ cho Ukraine và Nga bác thông tin chấp nhận đảm bảo an ninh cho Kyiv.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T22:00:00+07:00",
+      "fetched": "2026-03-06T05:21:47.403940+07:00"
+    },
+    {
+      "id": "4a4299df31df662603150865ceabc4de",
+      "title": "4 loại nước ép nên uống vào buổi sáng để hỗ trợ giảm mỡ máu",
+      "link": "https://thanhnien.vn/4-loai-nuoc-ep-nen-uong-vao-buoi-sang-de-ho-tro-giam-mo-mau-185260305142726511.htm",
+      "summary": "Bên cạnh dùng thuốc và duy trì vận động thể chất, chế độ ăn uống đóng vai trò quan trọng trong việc kiểm soát mỡ máu. Một số loại nước ép từ trái cây và rau củ, nếu được sử dụng hợp lý vào buổi sáng, có thể cung cấp nhiều chất chống oxy hóa và dưỡng chất giúp hỗ trợ sức khỏe tim mạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T22:00:00+07:00",
+      "fetched": "2026-03-06T05:21:47.404076+07:00"
+    },
+    {
+      "id": "d47af21ac36f33c7bd9f4877aab094c1",
+      "title": "Giá DRAM biến động theo giờ",
+      "link": "https://vnexpress.net/gia-dram-bien-dong-theo-gio-5046758.html",
+      "summary": "Tình trạng thiếu hụt chip nhớ trở nên trầm trọng và doanh nghiệp vừa và nhỏ phải vật lộn để sinh tồn khi nguồn cung linh kiện bị các ông lớn công nghệ thâu tóm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-05T22:00:00+07:00",
+      "fetched": "2026-03-06T05:21:56.229423+07:00"
+    },
+    {
+      "id": "0441688750b5831d9f5e8716dd066f82",
+      "title": "Tập trung giải quyết kẹt xe, nhà ở cho người dân",
+      "link": "https://thanhnien.vn/tap-trung-giai-quyet-ket-xe-nha-o-cho-nguoi-dan-185260305222900172.htm",
+      "summary": "Ngày 5.3, tại các phường Sài Gòn, Tân Định, Bến Thành, Cầu Ông Lãnh (TP.HCM), 5 ứng cử viên đại biểu Quốc hội khóa XVI, nhiệm kỳ 2026 - 2031 tiến hành tiếp xúc cử tri.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:41:00+07:00",
+      "fetched": "2026-03-06T05:21:47.404203+07:00"
+    },
+    {
+      "id": "d6f8c147e50d4fddcdb0bee10ad70f50",
+      "title": "Sẵn sàng cho màn so tài đỉnh cao",
+      "link": "https://thanhnien.vn/san-sang-cho-man-so-tai-dinh-cao-185260305214438612.htm",
+      "summary": "Báo Thanh Niên, VFF, chủ nhà Trường ĐH Nha Trang cùng các đơn vị phối hợp chặt chẽ trong công tác chuẩn bị, sẵn sàng cho VCK giải bóng đá Thanh Niên sinh viên VN lần IV - 2026 cúp THACO (TNSV THACO cup 2026) diễn ra từ ngày 7 - 22.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:38:00+07:00",
+      "fetched": "2026-03-06T05:21:47.404330+07:00"
+    },
+    {
+      "id": "75756b2a6e8cb84de0430c17a084a3ad",
+      "title": "Khởi công Vành đai 4 TP.HCM vào dịp 19.5",
+      "link": "https://thanhnien.vn/khoi-cong-vanh-dai-4-tphcm-vao-dip-195-185260305222135569.htm",
+      "summary": "Sáng 5.3, Thủ tướng Chính phủ Phạm Minh Chính chủ trì phiên họp của Ban Chỉ đạo nhà nước các công trình, dự án quan trọng quốc gia, trọng điểm ngành giao thông vận tải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:32:00+07:00",
+      "fetched": "2026-03-06T05:21:47.404452+07:00"
+    },
+    {
+      "id": "fd34ed00ad2529f0a723b2d620cf2c41",
+      "title": "Sau 18 giờ 8 phút, người dân hẻm kiêng rượu bia, thịt heo ở TP.HCM ăn gì?",
+      "link": "https://thanhnien.vn/sau-18-gio-8-phut-nguoi-dan-hem-kieng-ruou-bia-thit-heo-o-tphcm-an-gi-185260301153521684.htm",
+      "summary": "Sau hơn 13 giờ nhịn ăn tháng Ramadan, khoảng 18 giờ 8 phút, người Chăm ở hẻm 157 Dương Bá Trạc, (quận 8 cũ, TP.HCM) bắt đầu 'xả chay' bằng bữa ăn giản dị gây tò mò.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:27:00+07:00",
+      "fetched": "2026-03-06T05:21:47.404577+07:00"
+    },
+    {
+      "id": "7f359548608354f835e95affcf0b1dd5",
+      "title": "Đau dạ dày vào ban đêm: Nguyên nhân do đâu và khi nào cần đi khám?",
+      "link": "https://thanhnien.vn/dau-da-day-vao-ban-dem-nguyen-nhan-do-dau-va-khi-nao-can-di-kham-185260305202323111.htm",
+      "summary": "Đau dạ dày vào ban đêm là nỗi ám ảnh của nhiều người, cơn đau quặn thắt hoặc trào ngược dạ dày gây khó ngủ, ảnh hưởng tiêu cực tới cả tâm lý lẫn sức khỏe thể chất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:21:00+07:00",
+      "fetched": "2026-03-06T05:21:47.404736+07:00"
+    },
+    {
+      "id": "d51f352cd91490231b55ebf26a2d2df7",
+      "title": "Nâng cao chất lượng cán bộ cơ sở",
+      "link": "https://thanhnien.vn/nang-cao-chat-luong-can-bo-co-so-185260305221843415.htm",
+      "summary": "Ngày 5.3, Tổng Bí thư Tô Lâm làm việc với Ban Tổ chức T.Ư về các giải pháp nâng cao chất lượng cán bộ cơ sở và làm việc với Ủy ban Kiểm tra T.Ư về kết quả tham mưu xây dựng, hoàn thiện thể chế chuẩn bị cho Hội nghị lần 2 T.Ư Đảng khóa XIV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:16:00+07:00",
+      "fetched": "2026-03-06T05:21:47.404868+07:00"
+    },
+    {
+      "id": "30aaddde8e5c64176730a0252c14b0ce",
+      "title": "Chạy bộ để đào thải cồn nhanh hơn?",
+      "link": "https://vnexpress.net/chay-bo-de-dao-thai-con-nhanh-hon-5046370.html",
+      "summary": "Sau uống rượu, tôi thường chạy bộ một vòng quanh khu dân cư để giải rượu nhưng thấy không hiệu quả, có phải do vận động nhẹ nhàng quá không?(Hoàng, 40 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:00:00+07:00",
+      "fetched": "2026-03-06T05:21:44.010437+07:00"
+    },
+    {
+      "id": "d160e7be2d698c6430ff0361998049ea",
+      "title": "Tình hình Iran, Trung Đông mới nhất sáng 6.3: Azerbaijan tuyên bố nóng sau vụ UAV tấn công",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-sang-63-azerbaijan-tuyen-bo-nong-sau-vu-uav-tan-cong-185260305214454475.htm",
+      "summary": "Xung đột Trung Đông đã bước qua ngày thứ 6 và khói lửa vẫn không ngừng. Các bên tiếp tục tấn công qua lại và ra những tuyên bố quyết liệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:00:00+07:00",
+      "fetched": "2026-03-06T05:21:47.404988+07:00"
+    },
+    {
+      "id": "e43833eb58d8408ae8e405c728885bd3",
+      "title": "Con trai kiến trúc sư 'lột xác' căn nhà 350 m2 của bố mẹ",
+      "link": "https://vnexpress.net/con-trai-kien-truc-su-lot-xac-can-nha-350-m2-cua-bo-me-5047006.html",
+      "summary": "Thay vì chạy theo phong cách thiết kế, công trình tập trung giải quyết các vấn đề thực tế như thiếu sáng, ẩm thấp và tổ chức lại không gian theo thói quen sinh hoạt của gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T20:37:05+07:00",
+      "fetched": "2026-03-06T05:21:44.010602+07:00"
+    },
+    {
+      "id": "51c6e18604fda3174509451303f32827",
+      "title": "Cuộc tháo chạy khỏi Vùng Vịnh giữa xung đột",
+      "link": "https://vnexpress.net/cuoc-thao-chay-khoi-vung-vinh-giua-xung-dot-5046793.html",
+      "summary": "Tên lửa và máy bay không người lái của Iran bất ngờ lao xuống Vùng Vịnh không báo trước, khiến nhiều cư dân và du khách hoảng loạn tìm đường rời đi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T20:35:00+07:00",
+      "fetched": "2026-03-06T05:21:44.010764+07:00"
+    },
+    {
+      "id": "51c6e18604fda3174509451303f32827",
+      "title": "Cuộc tháo chạy khỏi Vùng Vịnh giữa xung đột",
+      "link": "https://vnexpress.net/cuoc-thao-chay-khoi-vung-vinh-giua-xung-dot-5046793.html",
+      "summary": "Tên lửa và máy bay không người lái của Iran bất ngờ lao xuống Vùng Vịnh không báo trước, khiến nhiều cư dân và du khách hoảng loạn tìm đường rời đi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T20:35:00+07:00",
+      "fetched": "2026-03-06T05:21:50.755346+07:00"
+    },
+    {
+      "id": "f663472d41c929b933767ca26e5b2eed",
+      "title": "Biến động toàn cầu phủ bóng triển vọng xuất khẩu",
+      "link": "https://vnexpress.net/bien-dong-toan-cau-phu-bong-trien-vong-xuat-khau-5047055.html",
+      "summary": "Thuế quan của Mỹ biến động và xung đột ở Trung Đông trở thành hai làn gió ngược trong lúc xuất khẩu vừa \"dễ thở\" 2 tháng đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T20:33:53+07:00",
+      "fetched": "2026-03-06T05:21:44.010902+07:00"
+    },
+    {
+      "id": "f663472d41c929b933767ca26e5b2eed",
+      "title": "Biến động toàn cầu phủ bóng triển vọng xuất khẩu",
+      "link": "https://vnexpress.net/bien-dong-toan-cau-phu-bong-trien-vong-xuat-khau-5047055.html",
+      "summary": "Thuế quan của Mỹ biến động và xung đột ở Trung Đông trở thành hai làn gió ngược trong lúc xuất khẩu vừa \"dễ thở\" 2 tháng đầu năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-05T20:33:53+07:00",
+      "fetched": "2026-03-06T05:21:52.757232+07:00"
     },
     {
       "id": "2c2e0508a76e54eff29e7174ef6457c8",
