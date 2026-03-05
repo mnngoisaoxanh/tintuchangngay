@@ -1,7 +1,157 @@
 window.newsData_2026_03_05 = {
   "date": "2026-03-05",
-  "lastUpdated": "2026-03-05T19:37:59.225376+07:00",
+  "lastUpdated": "2026-03-05T21:39:22.824013+07:00",
   "articles": [
+    {
+      "id": "f7d65a533b283bf2c342969c83e78089",
+      "title": "Xác định 2 đội đầu tiên vào tứ kết Giải bóng đá nữ châu Á 2026",
+      "link": "https://tuoitre.vn/xac-dinh-2-doi-dau-tien-vao-tu-ket-giai-bong-da-nu-chau-a-2026-20260305193909862.htm",
+      "summary": "Mới kết thúc lượt trận thứ 2 bảng A, nhưng Giải bóng đá nữ châu Á 2026 đã sớm xác định được 2 đội giành vé vào tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.503766+07:00",
+      "fetched": "2026-03-05T21:39:15.503881+07:00"
+    },
+    {
+      "id": "84aa30b88fbed82911b2fe08b0d34fc2",
+      "title": "Saigontourist Group quảng bá du lịch Việt Nam tại ITB Berlin 2026",
+      "link": "https://tuoitre.vn/saigontourist-group-quang-ba-du-lich-viet-nam-tai-itb-berlin-2026-20260305194013495.htm",
+      "summary": "Từ ngày 3 đến 5-3, Tổng Công ty Du lịch Sài Gòn (Saigontourist Group) tiếp tục phối hợp cùng Tổng Công ty Hàng không Việt Nam (Vietnam Airlines) đồng tổ chức gian hàng quảng bá thương hiệu tại ITB Berlin 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.503634+07:00",
+      "fetched": "2026-03-05T21:39:15.503752+07:00"
+    },
+    {
+      "id": "e146061daa71d3719a4253f8eea9609c",
+      "title": "Vàng tăng bền bỉ, các kênh đầu tư khác có bị 'lép vế'?",
+      "link": "https://tuoitre.vn/vang-tang-ben-bi-cac-kenh-dau-tu-khac-co-bi-lep-ve-20260301071848133.htm",
+      "summary": "Vàng đang giữ vị trí kênh tài sản sinh lãi tốt nhất trong năm vừa qua với hiệu suất 81,5%, và chỉ trong chưa đầy hai tháng đầu năm 2026 đã tăng thêm hơn 20%. Đà tăng bền bỉ này khiến nhiều nhà đầu tư tin rằng vàng đang \"vô đối\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.503502+07:00",
+      "fetched": "2026-03-05T21:39:15.503623+07:00"
+    },
+    {
+      "id": "8fd0a0551c740942bbfedba0c1dab575",
+      "title": "Việt Nam sở hữu mạng 5G tốt nhất Đông Nam Á",
+      "link": "https://tuoitre.vn/viet-nam-so-huu-mang-5g-tot-nhat-dong-nam-a-20260305180142254.htm",
+      "summary": "Việc mạng VinaPhone được tổ chức đo kiểm viễn thông toàn cầu Ookla vinh danh là “Mạng 5G tốt nhất Việt Nam và Đông Nam Á” là cột mốc đáng chú ý khi một mạng di động Việt Nam vượt qua nhiều đối thủ lớn trong khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.503370+07:00",
+      "fetched": "2026-03-05T21:39:15.503491+07:00"
+    },
+    {
+      "id": "936a5722596a26d7de20bca1ee897daf",
+      "title": "Hoàn thuế thu nhập cá nhân tự động trong 3 ngày: Những việc cần làm để sớm nhận tiền",
+      "link": "https://tuoitre.vn/hoan-thue-thu-nhap-ca-nhan-tu-dong-trong-3-ngay-nhung-viec-can-lam-de-som-nhan-tien-20260305191445628.htm",
+      "summary": "Mùa quyết toán thuế thu nhập cá nhân đã bắt đầu. Theo Cục Thuế, từ năm 2025 nhiều hồ sơ hoàn thuế có thể được xử lý tự động trong vòng 3 ngày làm việc nếu nộp hồ sơ điện tử và đáp ứng đủ điều kiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.503217+07:00",
+      "fetched": "2026-03-05T21:39:15.503357+07:00"
+    },
+    {
+      "id": "9258195752558ba3ea700a28630f6221",
+      "title": "Trường Sĩ quan Chính trị tăng chỉ tiêu tuyển sinh quân sự",
+      "link": "https://tuoitre.vn/truong-si-quan-chinh-tri-tang-chi-tieu-tuyen-sinh-quan-su-20260305192130386.htm",
+      "summary": "Năm 2026, ngoài tăng chỉ tiêu tuyển sinh hệ quân sự, Trường Sĩ quan Chính trị lần đầu xét tuyển kết quả thi đánh giá năng lực do Bộ Quốc phòng tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.503092+07:00",
+      "fetched": "2026-03-05T21:39:15.503206+07:00"
+    },
+    {
+      "id": "fd52fcbc124a8bcea5b7ca9a801559be",
+      "title": "Iran giảm nhịp tấn công: Dấu hiệu sắp cạn vũ khí?",
+      "link": "https://tuoitre.vn/iran-giam-nhip-tan-cong-dau-hieu-sap-can-vu-khi-20260305192742931.htm",
+      "summary": "Số lượng tên lửa do Iran phóng ra đang giảm nhanh, đặt ra câu hỏi liệu họ đã sắp hết vũ khí hay đây là chiến lược 'chạy đường dài' mới?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.502964+07:00",
+      "fetched": "2026-03-05T21:39:15.503080+07:00"
+    },
+    {
+      "id": "ff0504cc46992e66d08113fe274fad4b",
+      "title": "CAS bác kháng cáo của Malaysia, bóng đá Việt Nam có vui?",
+      "link": "https://tuoitre.vn/cas-bac-khang-cao-cua-malaysia-bong-da-viet-nam-co-vui-20260305194623091.htm",
+      "summary": "Với bóng đá Việt Nam, thông tin Tòa Trọng tài thể thao quốc tế (CAS) bác kháng cáo của Malaysia có thể xem là tin vui trước mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.502837+07:00",
+      "fetched": "2026-03-05T21:39:15.502953+07:00"
+    },
+    {
+      "id": "517fe4eab01800bfa4b036fd4d6fd8ea",
+      "title": "Giải Jackpot Vietlott hơn 114 tỉ đồng đã có chủ",
+      "link": "https://tuoitre.vn/giai-jackpot-vietlott-hon-114-ti-dong-da-co-chu-20260305195126184.htm",
+      "summary": "Tối 5-3, Công ty Xổ số điện toán Việt Nam (Vietlott) xác định có một khách hàng trúng giải Jackpot 1 của sản phẩm Power 6/55 với giá trị hơn 114,6 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.502698+07:00",
+      "fetched": "2026-03-05T21:39:15.502825+07:00"
+    },
+    {
+      "id": "d13656d49a591ecadc28845fdd7a4bf9",
+      "title": "Khởi tố Giám đốc Công ty TNHH Vàng bạc đá quý Hạ Long",
+      "link": "https://tuoitre.vn/khoi-to-giam-doc-cong-ty-tnhh-vang-bac-da-quy-ha-long-20260305200602063.htm",
+      "summary": "Công an tỉnh Quảng Ninh đã khởi tố bị can, ra lệnh tạm giam đối với Giám đốc Công ty TNHH Vàng bạc đá quý Hạ Long để điều tra về hành vi trốn thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.502568+07:00",
+      "fetched": "2026-03-05T21:39:15.502687+07:00"
+    },
+    {
+      "id": "18d9a076093867e11e5ddccc96394b49",
+      "title": "Malaysia có thể kháng cáo lần 3, chưa đầu hàng vụ nhập tịch cầu thủ trái phép",
+      "link": "https://tuoitre.vn/malaysia-co-the-khang-cao-lan-3-chua-dau-hang-vu-nhap-tich-cau-thu-trai-phep-20260305195741489.htm",
+      "summary": "Tối 5-3, Tòa án Trọng tài thể thao quốc tế (CAS) đã bác đơn kháng cáo của Liên đoàn Bóng đá Malaysia (FAM) về vụ nhập tịch trái phép 7 cầu thủ. Nhưng vụ việc có thể vẫn chưa dừng lại ở đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.502437+07:00",
+      "fetched": "2026-03-05T21:39:15.502556+07:00"
+    },
+    {
+      "id": "40b52f8cb538fc165d65509bbc7ccfae",
+      "title": "Chi tiết về loại vũ khí tiêu diệt chiến hạm IRIS Dena của Iran",
+      "link": "https://tuoitre.vn/chi-tiet-ve-loai-vu-khi-tieu-diet-chien-ham-iris-dena-cua-iran-20260305201036639.htm",
+      "summary": "Tàu ngầm Mỹ phóng ngư lôi đánh chìm chiến hạm Iran ngoài khơi Sri Lanka, đánh dấu bước leo thang mới trong chiến dịch quân sự của Washington.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.502294+07:00",
+      "fetched": "2026-03-05T21:39:15.502424+07:00"
+    },
+    {
+      "id": "68269b3afa732b7f982bf872532726b1",
+      "title": "Thủ tướng: Tăng nguồn cung, mở rộng đối tượng tiếp cận nhà ở xã hội",
+      "link": "https://tuoitre.vn/thu-tuong-tang-nguon-cung-mo-rong-doi-tuong-tiep-can-nha-o-xa-hoi-20260305195632818.htm",
+      "summary": "Chiều 5-3, Thủ tướng Phạm Minh Chính đã chủ trì cuộc họp với các bộ, ngành liên quan về một số nhiệm vụ, giải pháp trọng tâm trong điều hành chính sách tiền tệ, chính sách tài khóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.502130+07:00",
+      "fetched": "2026-03-05T21:39:15.502253+07:00"
+    },
+    {
+      "id": "fa04848d05d5db2e13a5e4fadc587cec",
+      "title": "Sân bay Đà Nẵng sẽ có hệ thống cảnh báo xâm nhập, thiết bị xua đuổi chim",
+      "link": "https://tuoitre.vn/san-bay-da-nang-se-co-he-thong-canh-bao-xam-nhap-thiet-bi-xua-duoi-chim-2026030517153314.htm",
+      "summary": "Theo quy hoạch, tại sân bay Đà Nẵng sẽ trang bị các công nghệ đảm bảo an toàn gồm hệ thống cảnh báo xâm nhập đường cất hạ cánh, hệ thống giám sát bề mặt sân bay và thiết bị phát hiện, xua đuổi chim.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.501979+07:00",
+      "fetched": "2026-03-05T21:39:15.502117+07:00"
+    },
+    {
+      "id": "ad44d1962e4be2c0215573df6a340e06",
+      "title": "PGS.TS Bùi Anh Tuấn làm Hiệu trưởng Trường đại học Hòa Bình",
+      "link": "https://tuoitre.vn/pgs-ts-bui-anh-tuan-la-hieu-truong-truong-dai-hoc-hoa-binh-20260305201938475.htm",
+      "summary": "Sau khoảng 10 năm giữ cương vị Hiệu trưởng Trường đại học Ngoại thương, giữa năm 2025, PGS.TS Bùi Anh Tuấn nghỉ hưu theo chế độ. Chiều 5-3, ông Tuấn được bổ nhiệm Hiệu trưởng Trường đại học Hòa Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T21:39:15.501738+07:00",
+      "fetched": "2026-03-05T21:39:15.501962+07:00"
+    },
     {
       "id": "65a748b7be7b88908b35f3e1482e6fb7",
       "title": "'Ẩm thực Anh đâu chỉ có cá và khoai chiên'",
@@ -453,6 +603,136 @@ window.newsData_2026_03_05 = {
       "fetched": "2026-03-05T15:29:49.806600+07:00"
     },
     {
+      "id": "ddd86f5f71f6750423b9d7b96ffaeec5",
+      "title": "Phú Quốc: Xử phạt doanh nghiệp kinh doanh xăng dầu có dấu hiệu 'ghim hàng'",
+      "link": "https://thanhnien.vn/phu-quoc-xu-phat-doanh-nghiep-kinh-doanh-xang-dau-co-dau-hieu-ghim-hang-185260305211440959.htm",
+      "summary": "Chỉ bán xăng không quá 200.000 đồng/xe ô tô và không quá 50.000 đồng/xe máy, một doanh nghiệp kinh doanh xăng dầu ở đặc khu Phú Quốc bị xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T14:22:00+07:00",
+      "fetched": "2026-03-05T21:39:14.484629+07:00"
+    },
+    {
+      "id": "0816d34e4f5832f596f67d3ef029899a",
+      "title": "Iran tuyên bố phóng tên lửa xuyên qua 7 lớp phòng thủ của Israel",
+      "link": "https://vnexpress.net/iran-tuyen-bo-phong-ten-lua-xuyen-qua-7-lop-phong-thu-cua-israel-5047139.html",
+      "summary": "Iran thông báo phóng tên lửa Khorramshahr-4 nhằm vào thành phố Tel Aviv và sân bay Ben Gurion, nhấn mạnh chúng đã xuyên qua nhiều lớp phòng thủ của Israel.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T14:17:44+07:00",
+      "fetched": "2026-03-05T21:39:16.827181+07:00"
+    },
+    {
+      "id": "30ffbe6a0139fbba71de394747e68d0d",
+      "title": "Một người trúng Jackpot hơn 114 tỷ đồng",
+      "link": "https://vnexpress.net/mot-nguoi-trung-jackpot-hon-114-ty-dong-5047155.html",
+      "summary": "Vietlott xác định một khách hàng vừa trúng Jackpot của sản phẩm Power 6/55 trị giá 114 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-05T14:16:34+07:00",
+      "fetched": "2026-03-05T21:39:18.166221+07:00"
+    },
+    {
+      "id": "cdf338e448fc1c04eb55d0209d484f83",
+      "title": "Vụ hạ cốt nền đường ở Đồng Nai: Sau khi nhận hỗ trợ, 8 hộ dân mong muốn gì?",
+      "link": "https://thanhnien.vn/vu-ha-cot-nen-duong-o-dong-nai-sau-khi-nhan-ho-tro-8-ho-dan-mong-muon-gi-185260305200821376.htm",
+      "summary": "8 hộ dân liên quan đến vụ hạ cốt nền khiến nhà dân chênh vênh trên đường ĐT.753, Đồng Nai đều đã nhận tiền hỗ trợ để đến nơi ở tạm. Dù vậy, họ vẫn còn những băn khoăn và mong sớm ổn định cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T14:16:00+07:00",
+      "fetched": "2026-03-05T21:39:14.484807+07:00"
+    },
+    {
+      "id": "e3a6c2397af39426a702c1ea315f5f50",
+      "title": "Mỹ tuyên bố kiểm soát bầu trời để 'dội chết chóc' xuống Iran",
+      "link": "https://thanhnien.vn/my-tuyen-bo-kiem-soat-bau-troi-de-doi-chet-choc-xuong-iran-185260305174957575.htm",
+      "summary": "Tổng thống Mỹ cho biết trên thang điểm từ 1 đến 10, ông sẽ đánh giá mức độ thành công của cuộc chiến ở mức 15, trong khi Bộ trưởng Quốc phòng Mỹ khẳng định máy bay Mỹ đang chiếm ưu thế tuyệt đối trên không, lựa chọn mục tiêu và mang đến \"chết chóc và sự hủy diệt\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T14:14:00+07:00",
+      "fetched": "2026-03-05T21:39:14.484968+07:00"
+    },
+    {
+      "id": "51089074c9c76c57f299cc15e317f148",
+      "title": "AFC ra thông báo khẩn về phán quyết CAS với FAM và 7 cầu thủ nhập tịch lậu",
+      "link": "https://thanhnien.vn/afc-ra-thong-bao-khan-ve-phan-quyet-cas-voi-fam-va-7-cau-thu-nhap-tich-lau-185260305210631898.htm",
+      "summary": "Tối 5.3, Liên đoàn Bóng đá châu Á (AFC) ra thông báo khẩn cho biết, đã ghi nhận phán quyết của Tòa án Trọng tài Thể thao (CAS) liên quan đến FAM (Malaysia) và một số cầu thủ về vi phạm Quy tắc kỷ luật của FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T14:09:00+07:00",
+      "fetched": "2026-03-05T21:39:14.485124+07:00"
+    },
+    {
+      "id": "01498e6232b92a89aac09875a8525f64",
+      "title": "'Tết cảm ơn': Lời tri ân được chắp cánh bởi công nghệ",
+      "link": "https://thanhnien.vn/tet-cam-on-loi-tri-an-duoc-chap-canh-boi-cong-nghe-18526030520503934.htm",
+      "summary": "Cuộc thi \"Tết cảm ơn\" dành cho giới trẻ vừa khép lại với những câu chuyện xúc động khi trái tim tìm đến công nghệ, những lời tri ân ấy không chỉ được nói ra, mà còn được \"chắp cánh\" để chạm đến tận cùng cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T14:02:00+07:00",
+      "fetched": "2026-03-05T21:39:14.485300+07:00"
+    },
+    {
+      "id": "199e7d43e071aa0df9f890b131c5a263",
+      "title": "Tủi thân vì bị mẹ nghĩ là có bầu trong khi em chỉ bị viêm dạ dày",
+      "link": "https://vnexpress.net/tui-than-vi-bi-me-nghi-la-co-bau-trong-khi-em-chi-bi-viem-da-day-5047063.html",
+      "summary": "17 năm cuộc đời, em chưa yêu ai mà mẹ hỏi như vậy nên thấy hoang mang cực độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T14:00:00+07:00",
+      "fetched": "2026-03-05T21:39:10.999425+07:00"
+    },
+    {
+      "id": "c0e16e1f0eceea7be1658a358d18567b",
+      "title": "GS Ngô Bảo Châu trực tiếp tuyển chọn sinh viên tài năng Toán",
+      "link": "https://vnexpress.net/dong-thai-dau-tien-cua-gs-ngo-bao-chau-o-viet-nam-sau-khi-thong-bao-roi-my-5046658.html",
+      "summary": "Sinh viên tài năng ngành Toán ở hai đại học quốc gia sẽ được miễn học phí, hỗ trợ tối đa 15 triệu đồng một tháng nếu vượt qua vòng phỏng vấn với GS Ngô Bảo Châu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:53:09+07:00",
+      "fetched": "2026-03-05T21:39:10.999620+07:00"
+    },
+    {
+      "id": "025b477d17a23a92169d5207c2247589",
+      "title": "Đại học quốc gia đầu tiên của Hàn Quốc mở cơ sở ở Việt Nam",
+      "link": "https://vnexpress.net/dai-hoc-quoc-gia-dau-tien-cua-han-quoc-mo-co-so-o-viet-nam-5047144.html",
+      "summary": "Đại học Quốc gia Kyungpook (KNU) là trường công lập đầu tiên của Hàn Quốc mở cơ sở ở nước ngoài, bắt đầu tuyển sinh tại Việt Nam từ năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:47:29+07:00",
+      "fetched": "2026-03-05T21:39:10.999797+07:00"
+    },
+    {
+      "id": "6d8d8970ad2bbf7caafd218976f6d37a",
+      "title": "NATO gửi thông điệp đáng chú ý về cuộc chiến Mỹ - Iran",
+      "link": "https://thanhnien.vn/dang-sau-thong-diep-cua-tong-thu-ky-nato-ve-cuoc-chien-my-iran-185260305203114569.htm",
+      "summary": "Tổng thư ký NATO Mark Rutte ngày 5.3 đã ca ngợi quyết định của Tổng thống Mỹ Donald Trump về việc phát động các cuộc tấn công vào Iran nhưng bác bỏ mọi ý kiến cho rằng liên minh NATO sẽ tham gia vào cuộc xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:44:00+07:00",
+      "fetched": "2026-03-05T21:39:14.485462+07:00"
+    },
+    {
+      "id": "a11f603df75bc3239d9199e63cc43356",
+      "title": "2.000 cuốn sách ý nghĩa dành cho thiếu nhi",
+      "link": "https://thanhnien.vn/2000-cuon-sach-y-nghia-danh-cho-thieu-nhi-18526030519202665.htm",
+      "summary": "Chiều 5.3, tại đường Sách TP.HCM (P.Sài Gòn, Q.1 cũ), Hội Xuất bản Việt Nam cùng các đơn vị đồng hành tổ chức chương trình: “Trao tặng Tủ sách thiếu nhi cho Hội đồng Đội T.Ư”. 2.000 cuốn sách ý nghĩa dành cho thiếu nhi đã được trao tặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:40:00+07:00",
+      "fetched": "2026-03-05T21:39:14.485616+07:00"
+    },
+    {
+      "id": "5e716563f6217f2cb40d5726b62700df",
+      "title": "Người lao ôtô vào đám đông ở Đà Lạt bị khởi tố tội giết người",
+      "link": "https://vnexpress.net/nguoi-lao-oto-vao-dam-dong-o-da-lat-bi-khoi-to-toi-giet-nguoi-5047148.html",
+      "summary": "Trần Văn Quốc, 26 tuổi, bị khởi tố tội giết người vì lái ôtô lao vào đám đông tại cây xăng trên đường Tô Hiến Thành, Đà Lạt, sau mâu thuẫn giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:39:06+07:00",
+      "fetched": "2026-03-05T21:39:10.999959+07:00"
+    },
+    {
       "id": "0eca8dfe6618fb2f18bf86e455545215",
       "title": "Thời của văn bằng, chứng chỉ số",
       "link": "https://tuoitre.vn/thoi-cua-van-bang-chung-chi-so-20260305084147564.htm",
@@ -601,6 +881,186 @@ window.newsData_2026_03_05 = {
       "category": "Tổng hợp",
       "published": "2026-03-05T13:38:11.518662+07:00",
       "fetched": "2026-03-05T13:38:11.518874+07:00"
+    },
+    {
+      "id": "534831b2f7962c94f2c5a0412f195705",
+      "title": "Sếp lớn AFC nói điều bất ngờ sau phán quyết của CAS, sẽ giải quyết vụ việc nhanh nhất có thể",
+      "link": "https://thanhnien.vn/sep-lon-afc-noi-dieu-bat-ngo-sau-phan-quyet-cua-cas-se-giai-quyet-vu-viec-nhanh-nhat-co-the-185260305202235112.htm",
+      "summary": "Tối 5.3, sau khi Tòa án Trọng tài Thể thao (CAS) ra phán quyết với FAM và 7 cầu thủ nhập tịch lậu Malaysia, Liên đoàn Bóng đá châu Á (AFC) đã lên tiếng xác nhận về bản án, và đang rốt ráo chuẩn bị ra án kỷ luật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:29:00+07:00",
+      "fetched": "2026-03-05T21:39:14.485772+07:00"
+    },
+    {
+      "id": "a8553e9b6a26bf2f598331d4763068b4",
+      "title": "Những rủi ro thường gặp khi sử dụng smartphone",
+      "link": "https://thanhnien.vn/nhung-rui-ro-thuong-gap-khi-su-dung-smartphone-185260226161912432.htm",
+      "summary": "Mặc dù smartphone mang lại nhiều tiện ích nhưng cũng tiềm ẩn những rủi ro không ít người thường bỏ qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:28:00+07:00",
+      "fetched": "2026-03-05T21:39:14.485919+07:00"
+    },
+    {
+      "id": "f956b7753fb579f40fb4256dea78ce96",
+      "title": "CAS bác kháng cáo của FAM, đội tuyển Malaysia đối diện nguy cơ bị xử thua Việt Nam",
+      "link": "https://thanhnien.vn/cas-bac-khang-cao-cua-fam-doi-tuyen-malaysia-doi-dien-nguy-co-bi-xu-thua-viet-nam-185260305202429766.htm",
+      "summary": "Chiều 5.3 (giờ Việt Nam), Tòa án Trọng tài Thể thao (CAS) ra phán quyết cuối cùng về vụ Liên đoàn Bóng đá Malaysia nhập tịch cầu thủ trái quy định. CAS gần như giữ nguyên án phạt của FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:26:00+07:00",
+      "fetched": "2026-03-05T21:39:14.486067+07:00"
+    },
+    {
+      "id": "21f800d36b4a0aa8560679c4c9d1eb60",
+      "title": "Trường ĐH Quy Nhơn tổ chức hội thảo tham vấn chiến lược phát triển Viện KH&CN",
+      "link": "https://thanhnien.vn/truong-dh-quy-nhon-to-chuc-hoi-thao-tham-van-chien-luoc-phat-trien-vien-khcn-185260305192239809.htm",
+      "summary": "Trường ĐH Quy Nhơn tổ chức hội thảo tham vấn chính sách triển khai chiến lược phát triển Viện Nghiên cứu ứng dụng khoa học và công nghệ giai đoạn 2026–2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:22:00+07:00",
+      "fetched": "2026-03-05T21:39:14.486218+07:00"
+    },
+    {
+      "id": "1a8d3a114700ca8e724d3a4774bc36b4",
+      "title": "Serum giúp giảm mụn mờ thâm nào đang được mua nhiều tới mức luôn ‘cháy hàng’?",
+      "link": "https://thanhnien.vn/serum-giup-giam-mun-mo-tham-nao-dang-duoc-mua-nhieu-toi-muc-luon-chay-hang-185260305195619844.htm",
+      "summary": "Giữa 'ma trận' sản phẩm giúp giảm mụn, không ít người loay hoay vì mụn chưa dứt thì thâm đã chồng thêm thâm. Thế nhưng gần đây, một dòng serum hỗ trợ giảm mụn và làm sáng da lại được săn đón đến mức liên tục hết hàng. Serum hỗ trợ giảm mụn và làm sáng da Trioderma ActiBalance+ Serum đã liên tục cháy...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:13:00+07:00",
+      "fetched": "2026-03-05T21:39:14.486392+07:00"
+    },
+    {
+      "id": "1a2d328636c7e2c9607d8e0f054f9419",
+      "title": "Truyền thông khu vực: 'CAS chỉ thẳng Malaysia sai phạm nhập tịch, giờ đến trách nhiệm của AFC’",
+      "link": "https://thanhnien.vn/truyen-thong-khu-vuc-cas-chi-thang-malaysia-sai-pham-nhap-tich-gio-den-trach-nhiem-cua-afc-185260305200733515.htm",
+      "summary": "Phán quyết mới nhất của Tòa án Trọng tài thể thao (CAS) về vụ việc 7 cầu thủ nhập tịch của Liên đoàn Bóng đá Malaysia (FAM) đang tạo ra làn sóng tranh luận lớn trong truyền thông Đông Nam Á. Truyền thông khu vực cho rằng quyết định này đã chỉ rõ sai phạm trong quá trình nhập tịch cầu thủ của Malaysi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:11:00+07:00",
+      "fetched": "2026-03-05T21:39:14.486555+07:00"
+    },
+    {
+      "id": "bd0e2e10924aee46e9a15de27dbf774b",
+      "title": "Xổ số miền Nam 'cháy hàng', phát hành thêm 60 - 80 tỉ đồng/ngày",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-chay-hang-phat-hanh-them-60-80-ti-dong-ngay-185260305200455313.htm",
+      "summary": "Xổ số miền Nam mỗi ngày phát hành lượng vé số trị giá hàng trăm tỉ đồng nhưng vẫn không đủ bán. Để đáp ứng thị trường, Bộ Tài chính cho phép các công ty tăng hạn mức phát hành thêm 20 tỉ đồng/công ty/ngày mở thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:10:00+07:00",
+      "fetched": "2026-03-05T21:39:14.486713+07:00"
+    },
+    {
+      "id": "4e29f0432e71ca791856c0b99f7158d2",
+      "title": "'Nữ thần gợi cảm' Đài Loan cắt bỏ ngực vì ung thư",
+      "link": "https://thanhnien.vn/nu-than-goi-cam-dai-loan-cat-bo-nguc-vi-ung-thu-185260305184247751.htm",
+      "summary": "Hứa Duy Ân bất ngờ tiết lộ bản thân đang chống chọi với ung thư vú và vừa trải qua cuộc phẫu thuật cắt bỏ ngực. Nữ diễn viên phim 'Bằng chứng thép 4' giữ thái độ lạc quan, gọi đây là một sự tái sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:09:00+07:00",
+      "fetched": "2026-03-05T21:39:14.486862+07:00"
+    },
+    {
+      "id": "96bffc943f3365beb9393b7bf6dc1e1e",
+      "title": "TP HCM siết việc cản trở lối thoát hiểm tại chung cư",
+      "link": "https://vnexpress.net/tp-hcm-siet-viec-can-tro-loi-thoat-hiem-tai-chung-cu-5047093.html",
+      "summary": "UBND TP HCM yêu cầu các địa phương tăng cường kiểm tra, xử lý tình trạng cơi nới, lắp đặt hạng mục trái phép làm cản trở lối thoát hiểm tại các chung cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:05:01+07:00",
+      "fetched": "2026-03-05T21:39:11.000123+07:00"
+    },
+    {
+      "id": "38afe4bd897d7060573a9ed5862a2893",
+      "title": "Đế quốc Ba Tư: Siêu cường đầu tiên thay đổi diện mạo thế giới cổ đại",
+      "link": "https://vnexpress.net/de-quoc-ba-tu-sieu-cuong-dau-tien-thay-doi-dien-mao-the-gioi-co-dai-5047039.html",
+      "summary": "Từng cai trị gần một nửa dân số toàn cầu trên lãnh thổ trải dài ba châu lục, đế quốc Ba Tư dưới thời Cyrus Đại đế đã thiết lập một mô hình quản trị đa sắc tộc mẫu mực chưa từng có trong lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:04:54+07:00",
+      "fetched": "2026-03-05T21:39:11.000313+07:00"
+    },
+    {
+      "id": "48cd5d19b94699191481fae7b108dd00",
+      "title": "Gelex dự kiến trả cổ tức năm ngoái thêm 25%",
+      "link": "https://vnexpress.net/gelex-du-kien-tra-co-tuc-nam-ngoai-them-25-5047072.html",
+      "summary": "Sau khi tạm ứng tiền mặt với tỷ lệ 8% cho cổ đông trong năm ngoái, Gelex sẽ trả thêm cổ tức bằng cổ phiếu với tỷ lệ 25%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:04:31+07:00",
+      "fetched": "2026-03-05T21:39:11.000481+07:00"
+    },
+    {
+      "id": "48cd5d19b94699191481fae7b108dd00",
+      "title": "Gelex dự kiến trả cổ tức năm ngoái thêm 25%",
+      "link": "https://vnexpress.net/gelex-du-kien-tra-co-tuc-nam-ngoai-them-25-5047072.html",
+      "summary": "Sau khi tạm ứng tiền mặt với tỷ lệ 8% cho cổ đông trong năm ngoái, Gelex sẽ trả thêm cổ tức bằng cổ phiếu với tỷ lệ 25%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-05T13:04:31+07:00",
+      "fetched": "2026-03-05T21:39:18.166418+07:00"
+    },
+    {
+      "id": "80db4743023cea65e0cf3d9d350fe5db",
+      "title": "Trung tâm Hà Nội có tuyết rơi mấy lần?",
+      "link": "https://vnexpress.net/trung-tam-ha-noi-co-tuyet-roi-may-lan-5047135.html",
+      "summary": "Lịch sử từng ghi nhận tuyết rơi ở khu vực trung tâm Hà Nội. Bạn có biết hiện tượng này xảy ra mấy lần và vào năm nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:04:09+07:00",
+      "fetched": "2026-03-05T21:39:11.000643+07:00"
+    },
+    {
+      "id": "ba8f3ba7b493dd425b30d5b54acbce15",
+      "title": "Châu Âu e dè với cuộc chiến của Mỹ tại Iran",
+      "link": "https://vnexpress.net/chau-au-e-de-voi-cuoc-chien-cua-my-tai-iran-5046812.html",
+      "summary": "Châu Âu không thể hiện sự ủng hộ khi Mỹ phát động chiến dịch nhằm vào Iran, cho thấy khu vực có những lo ngại riêng về an ninh, kinh tế và hệ lụy pháp lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:00:00+07:00",
+      "fetched": "2026-03-05T21:39:11.000797+07:00"
+    },
+    {
+      "id": "0eb04584a114761b9c1f3b1621f4ee10",
+      "title": "Boss ra mắt cửa hàng lớn nhất Việt Nam",
+      "link": "https://vnexpress.net/boss-ra-mat-cua-hang-lon-nhat-viet-nam-5047134.html",
+      "summary": "Cửa hàng đặt tại trung tâm thương mại Hanoi Centre, đánh dấu cột mốc trong chiến lược nâng tầm trải nghiệm xa xỉ tại khu vực Đông Nam Á của Boss.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T13:00:00+07:00",
+      "fetched": "2026-03-05T21:39:11.000957+07:00"
+    },
+    {
+      "id": "ba8f3ba7b493dd425b30d5b54acbce15",
+      "title": "Châu Âu e dè với cuộc chiến của Mỹ tại Iran",
+      "link": "https://vnexpress.net/chau-au-e-de-voi-cuoc-chien-cua-my-tai-iran-5046812.html",
+      "summary": "Châu Âu không thể hiện sự ủng hộ khi Mỹ phát động chiến dịch nhằm vào Iran, cho thấy khu vực có những lo ngại riêng về an ninh, kinh tế và hệ lụy pháp lý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T13:00:00+07:00",
+      "fetched": "2026-03-05T21:39:16.827386+07:00"
+    },
+    {
+      "id": "43243c921f2bbbbdb4f095e6ac9870ce",
+      "title": "NATO không kích hoạt điều khoản phòng thủ chung sau vụ hạ 'tên lửa Iran'",
+      "link": "https://vnexpress.net/nato-khong-kich-hoat-dieu-khoan-phong-thu-chung-sau-vu-ha-ten-lua-iran-5047137.html",
+      "summary": "Tổng thư ký NATO nói vụ \"tên lửa Iran\" bị bắn rơi khi bay tới Thổ Nhĩ Kỳ chưa phải lý do để kích hoạt Điều 5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:51:43+07:00",
+      "fetched": "2026-03-05T21:39:11.001117+07:00"
+    },
+    {
+      "id": "43243c921f2bbbbdb4f095e6ac9870ce",
+      "title": "NATO không kích hoạt điều khoản phòng thủ chung sau vụ hạ 'tên lửa Iran'",
+      "link": "https://vnexpress.net/nato-khong-kich-hoat-dieu-khoan-phong-thu-chung-sau-vu-ha-ten-lua-iran-5047137.html",
+      "summary": "Tổng thư ký NATO nói vụ \"tên lửa Iran\" bị bắn rơi khi bay tới Thổ Nhĩ Kỳ chưa phải lý do để kích hoạt Điều 5.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T12:51:43+07:00",
+      "fetched": "2026-03-05T21:39:16.827555+07:00"
     },
     {
       "id": "01ce734c74704baa9644b45058f4b60c",
