@@ -1,7 +1,147 @@
 window.newsData_2026_03_05 = {
   "date": "2026-03-05",
-  "lastUpdated": "2026-03-05T05:22:11.737410+07:00",
+  "lastUpdated": "2026-03-05T08:14:14.036839+07:00",
   "articles": [
+    {
+      "id": "1edeb8ef8f46b033684eb2090e526a7a",
+      "title": "Kỳ thủ Lại Lý Huynh giao lưu trực tuyến cùng bạn đọc báo Tuổi Trẻ 10h sáng nay",
+      "link": "https://tuoitre.vn/ky-thu-lai-ly-huynh-giao-luu-truc-tuyen-cung-ban-doc-bao-tuoi-tre-10h-sang-nay-20260304174626608.htm",
+      "summary": "Mời bạn đọc theo dõi buổi giao lưu trực tuyến giữa kỳ thủ Lại Lý Huynh với bạn đọc báo Tuổi Trẻ lúc 10h sáng nay 5-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:14:07.593236+07:00",
+      "fetched": "2026-03-05T08:14:07.593350+07:00"
+    },
+    {
+      "id": "f0271fea27427174e61f25ebd23fb9d5",
+      "title": "Thượng viện Mỹ chặn nghị quyết ngừng tấn công Iran; Iran dọa tấn công cơ sở hạt nhân Israel",
+      "link": "https://tuoitre.vn/thuong-vien-my-chan-nghi-quyet-ngung-tan-cong-iran-iran-doa-tan-cong-co-so-hat-nhan-israel-20260305034742794.htm",
+      "summary": "Thượng viện Mỹ đã bỏ phiếu bác một nghị quyết ngăn Mỹ tiếp tục tấn công Iran; Iran cảnh báo nhắm mục tiêu vào cơ sở hạt nhân Dimona của Israel nếu Mỹ và Israel cố gắng theo đuổi việc thay đổi chế độ ở Tehran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:14:07.593111+07:00",
+      "fetched": "2026-03-05T08:14:07.593224+07:00"
+    },
+    {
+      "id": "65a0cea5ea588296a9ddb231c315efd6",
+      "title": "Thời tiết hôm nay 5-3: Nam Bộ mưa trái mùa, Bắc Bộ nắng, sương mù",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-5-3-nam-bo-mua-trai-mua-bac-bo-nang-suong-mu-20260304183952679.htm",
+      "summary": "Hôm nay 5-3, thời tiết Nam Bộ ngày nắng, chiều tối có mưa trái mùa. Bắc Bộ trời hửng nắng, sáng sớm sương mù nhiều nơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:14:07.592983+07:00",
+      "fetched": "2026-03-05T08:14:07.593100+07:00"
+    },
+    {
+      "id": "63c65dcbd10aaa8bc8162314a6be8322",
+      "title": "Doanh nghiệp Việt dè dặt nhận đơn hàng đi Trung Đông",
+      "link": "https://tuoitre.vn/doanh-nghiep-viet-de-dat-nhan-don-hang-di-trung-dong-20260304225349491.htm",
+      "summary": "Xung đột leo thang tại Trung Đông, đặc biệt quanh khu vực eo biển Hormuz, đang khiến nhiều doanh nghiệp logistics và xuất khẩu Việt Nam phải 'nín thở' theo dõi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:14:07.592838+07:00",
+      "fetched": "2026-03-05T08:14:07.592971+07:00"
+    },
+    {
+      "id": "d5908ae906b29d8f9589e7dc6269c064",
+      "title": "Bước ngoặt lớn trong cuộc đua vô địch giữa Arsenal và Man City",
+      "link": "https://tuoitre.vn/buoc-ngoat-lon-trong-cuoc-dua-vo-dich-giua-arsenal-va-man-city-20260305051211025.htm",
+      "summary": "Rạng sáng 5-3, Arsenal đã nâng cách biệt điểm số với Man City lên 7 điểm sau vòng 29 Giải ngoại hạng Anh (Premier League). Arsenal thắng Brighton 1-0, trong khi đối thủ bị Nottingham cầm chân 2-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:14:07.592712+07:00",
+      "fetched": "2026-03-05T08:14:07.592827+07:00"
+    },
+    {
+      "id": "ab2d4ecfef949306a505fe0104a21a96",
+      "title": "Tin tức thế giới 5-3: Ukraine dự báo thiếu tên lửa phòng không; Iran sắp hết tên lửa đạn đạo?",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-5-3-ukraine-du-bao-thieu-ten-lua-phong-khong-iran-sap-het-ten-lua-dan-dao-20260305015350606.htm",
+      "summary": "Ông Putin dọa ngừng bán khí đốt cho châu Âu trong bối cảnh eo biển Hormuz bị Iran đe dọa; Ukraine dự báo có thể thiếu tên lửa phòng không.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:14:07.592564+07:00",
+      "fetched": "2026-03-05T08:14:07.592700+07:00"
+    },
+    {
+      "id": "dd953ae0db3f16f78580468bc22db817",
+      "title": "Cam kết của ứng cử viên trẻ đại biểu Quốc hội",
+      "link": "https://tuoitre.vn/cam-ket-cua-ung-cu-vien-tre-dai-bieu-quoc-hoi-20260304230955195.htm",
+      "summary": "Tuổi Trẻ ghi lại ý kiến của các ứng cử viên trẻ đại biểu Quốc hội trước thềm bầu cử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:14:07.592438+07:00",
+      "fetched": "2026-03-05T08:14:07.592553+07:00"
+    },
+    {
+      "id": "7d4ea27926c0cb38146cf6daba988513",
+      "title": "Tin tức sáng 5-3: Thu ngân sách 2 tháng đầu năm vượt 600.000 tỉ đồng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-5-3-thu-ngan-sach-2-thang-dau-nam-vuot-600-000-ti-dong-20260304160854663.htm",
+      "summary": "Một số tin tức đáng chú ý: Chứng khoán Hải Phòng sắp bầu HĐQT mới, có hai ứng viên từ Eximbank; Khắc phục lỗi khi thu phí 5 đoạn tuyến cao tốc Bắc - Nam; 59 người nghi ngộ độc thực phẩm do ăn bánh mì vỉa hè phường Vũng Tàu...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:14:07.592308+07:00",
+      "fetched": "2026-03-05T08:14:07.592426+07:00"
+    },
+    {
+      "id": "84799cf7a1e61c7acf326d09b41c2fff",
+      "title": "Lịch trực tiếp Asian Cup nữ 2026: Iran đấu Úc",
+      "link": "https://tuoitre.vn/lich-truc-tiep-asian-cup-nu-2026-iran-dau-uc-20260304175128578.htm",
+      "summary": "Ngày 5-3 sẽ diễn ra lượt trận thứ 2 bảng A Giải bóng đá nữ châu Á (Asian Cup nữ 2026).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:14:07.592180+07:00",
+      "fetched": "2026-03-05T08:14:07.592296+07:00"
+    },
+    {
+      "id": "da98db51f5570b0bb8e388ad0d524569",
+      "title": "Thua phút cuối, Man United đứt mạch thăng hoa",
+      "link": "https://tuoitre.vn/thua-phut-cuoi-man-united-dut-mach-thang-hoa-20260305054348363.htm",
+      "summary": "Rạng sáng 5-3, Man United đã để thua Newcastle 1-2 ở vòng 29 Ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:14:07.592050+07:00",
+      "fetched": "2026-03-05T08:14:07.592168+07:00"
+    },
+    {
+      "id": "811f6e7210422ee201393e3b41675408",
+      "title": "Tủ đồ tối giản của con dâu Tổng thống Kennedy",
+      "link": "https://tuoitre.vn/tu-do-toi-gian-cua-con-dau-tong-thong-kennedy-20260304102415782.htm",
+      "summary": "Không ai thể hiện tinh thần 'cool-girl' phóng khoáng của thập niên 1990 một cách trọn vẹn như Carolyn Bessette Kennedy, con dâu Tổng thống Kennedy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:14:07.591919+07:00",
+      "fetched": "2026-03-05T08:14:07.592038+07:00"
+    },
+    {
+      "id": "1175c5ce121bb041377feb035027a095",
+      "title": "Tài xế phải khống chế được 'con quái vật giận dữ' sau tay lái",
+      "link": "https://tuoitre.vn/tai-xe-phai-khong-che-duoc-con-quai-vat-gian-du-sau-tay-lai-20260304181751653.htm",
+      "summary": "Trong tình hình hạ tầng giao thông còn nhiều bất cập và áp lực cuộc sống cao, biện pháp giúp tài xế bớt ức chế hiệu quả nhất chính là kỹ năng quản trị cảm xúc của mỗi người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:14:07.591782+07:00",
+      "fetched": "2026-03-05T08:14:07.591906+07:00"
+    },
+    {
+      "id": "e1c3b59bb79dc9848ae968c83ecdf44c",
+      "title": "Nội thất gỗ Việt Nam rộng cửa bán thẳng cho người tiêu dùng Mỹ",
+      "link": "https://tuoitre.vn/noi-that-go-viet-nam-rong-cua-ban-thang-cho-nguoi-tieu-dung-my-20260304221157605.htm",
+      "summary": "Thiết kế sản phẩm, xây dựng thương hiệu riêng và bán trực tiếp cho khách hàng cuối qua thương mại điện tử xuyên biên giới là hướng đi giúp nâng tầm cả về mặt giá trị và thương hiệu cho các sản phẩm gỗ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:14:07.591634+07:00",
+      "fetched": "2026-03-05T08:14:07.591769+07:00"
+    },
+    {
+      "id": "f9047f07d50f9cf67a5819f368339b27",
+      "title": "Bộ Nông nghiệp và Môi trường trả lời cử tri TP.HCM về giải pháp ngăn thực phẩm bẩn, dùng chất cấm",
+      "link": "https://tuoitre.vn/bo-nong-nghiep-va-moi-truong-tra-loi-cu-tri-tp-hcm-ve-giai-phap-ngan-thuc-pham-ban-dung-chat-cam-20260304235716131.htm",
+      "summary": "Trước tình trạng sử dụng chất cấm trong chăn nuôi, đánh bắt thủy hải sản, sản xuất thực phẩm và thực phẩm bẩn, cử tri kiến nghị Bộ Nông nghiệp và Môi trường sớm xem xét có quy định về quản lý an toàn thực phẩm và tăng cường giám sát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:14:07.591365+07:00",
+      "fetched": "2026-03-05T08:14:07.591618+07:00"
+    },
     {
       "id": "c4c6b430b4dadaef3a052f493072d81e",
       "title": "Mỹ có khả năng nâng thuế nhập khẩu toàn cầu lên 15% ngay trong tuần này",
@@ -173,6 +313,376 @@ window.newsData_2026_03_05 = {
       "fetched": "2026-03-05T01:34:39.502470+07:00"
     },
     {
+      "id": "88c236b406d4d6ca785de18fc9dbcac2",
+      "title": "Đồng Nai: Bắt con rể cầm dao chém cha mẹ vợ cũ lúc nửa đêm",
+      "link": "https://thanhnien.vn/dong-nai-bat-con-re-cam-dao-chem-cha-me-vo-cu-luc-nua-dem-185260305073334512.htm",
+      "summary": "Công an tỉnh Đồng Nai vừa bắt giữ Nguyễn Thành Phát, người cầm dao chém cha mẹ vợ cũ trong đêm gây thương tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:12:00+07:00",
+      "fetched": "2026-03-05T08:14:06.321261+07:00"
+    },
+    {
+      "id": "025cfdd57ccc3e224443f00d8162eb61",
+      "title": "Điểm trừ của Google Maps ứng dụng trên ô tô",
+      "link": "https://thanhnien.vn/diem-tru-cua-google-maps-ung-dung-tren-o-to-185260304201330812.htm",
+      "summary": "Dù mạnh về dữ liệu, Google Maps vẫn có điểm trừ khi sử dụng trên ô tô tại Việt Nam. Những điểm trừ này gây bất tiện, khiến tài xế dễ vướng phải rủi ro vi phạm luật giao thông khi quy định mới ngày càng siết chặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:09:00+07:00",
+      "fetched": "2026-03-05T08:14:06.321429+07:00"
+    },
+    {
+      "id": "c22a1a53becf61844e359ada96e67933",
+      "title": "Nghị quyết ngăn ông Trump gây chiến với Iran bị chặn tại Thượng viện Mỹ",
+      "link": "https://thanhnien.vn/nghi-quyet-ngan-ong-trump-gay-chien-voi-iran-bi-chan-tai-thuong-vien-my-185260305074403971.htm",
+      "summary": "Các thượng nghị sĩ đảng Cộng hòa tại Thượng viện Mỹ đã bỏ phiếu phản đối nghị quyết nhằm chấm dứt chiến dịch quân sự của Tổng thống Donald Trump chống lại Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:08:00+07:00",
+      "fetched": "2026-03-05T08:14:06.321629+07:00"
+    },
+    {
+      "id": "a0b661f4ed262cf846f67b14212a8067",
+      "title": "Xuất khẩu ô tô Trung Quốc bị gián đoạn do xung đột tại Trung Đông leo thang",
+      "link": "https://thanhnien.vn/xuat-khau-o-to-trung-quoc-bi-gian-doan-do-xung-dot-tai-trung-dong-leo-thang-185260304142101218.htm",
+      "summary": "Các nhà sản xuất ô tô Trung Quốc đang đối mặt với những gián đoạn trong hoạt động xuất khẩu ô tô do xung đột tại Trung Đông leo thang, ảnh hưởng đến nguồn cung cũng như doanh số bán hàng không chỉ ở Iran mà còn tại các thị trường khu vực châu Âu, Tây Phi và Bắc Phi…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:06:00+07:00",
+      "fetched": "2026-03-05T08:14:06.321812+07:00"
+    },
+    {
+      "id": "8680022a2046a7687796641c15cb4052",
+      "title": "Tỉnh ủy Đồng Nai chỉ đạo làm rõ nội dung Báo Thanh Niên phản ánh về hạ cốt nền đường",
+      "link": "https://thanhnien.vn/tinh-uy-dong-nai-chi-dao-lam-ro-noi-dung-bao-thanh-nien-phan-anh-ve-ha-cot-nen-duong-185260305072923778.htm",
+      "summary": "Văn phòng Tỉnh ủy Đồng Nai đã có văn bản gửi UBND tỉnh Đồng Nai yêu cầu làm rõ nội dung phản ánh của Báo Thanh Niên liên quan bài viết \"Hạ cốt nền đường ở Đồng Nai, nhiều nhà dân chênh vênh bên mép vực sâu\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:00:00+07:00",
+      "fetched": "2026-03-05T08:14:06.321969+07:00"
+    },
+    {
+      "id": "bd74949658c44583952f76b3549c1b35",
+      "title": "Vật thiêng của làng: Bay đi cánh chim triing",
+      "link": "https://thanhnien.vn/vat-thieng-cua-lang-bay-di-canh-chim-triing-185260304231532482.htm",
+      "summary": "Hình ảnh chim triing (chim hồng hoàng) thường xuất hiện trên nhà gươl (nhà cộng đồng làng), nhà mồ, cổng làng, được coi như sứ giả của Thần lúa, biểu tượng cho cái đẹp và sự thiêng liêng của cộng đồng Cơ Tu ở vùng cao Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:00:00+07:00",
+      "fetched": "2026-03-05T08:14:06.322122+07:00"
+    },
+    {
+      "id": "d9ad3328ee9f910dd14f9902fc3951f2",
+      "title": "Cập nhật bước tiến mới trong tầm soát, chẩn đoán và điều trị ung thư vú",
+      "link": "https://thanhnien.vn/cap-nhat-buoc-tien-moi-trong-tam-soat-chan-doan-va-dieu-tri-ung-thu-vu-185260304195947555.htm",
+      "summary": "Ung thư vú là bệnh chiếm tỷ lệ cao trong các bệnh ung thư ở phụ nữ. Hiện y khoa ghi nhận nhiều bước tiến mới trong tầm soát, chẩn đoán và điều trị căn bệnh này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:00:00+07:00",
+      "fetched": "2026-03-05T08:14:06.322275+07:00"
+    },
+    {
+      "id": "bd516777fd7ded3157874a45e0bbfb82",
+      "title": "Sống trên đảo tự nhiên: Biểu tượng xa xỉ mới của giới tinh hoa",
+      "link": "https://thanhnien.vn/song-tren-dao-tu-nhien-bieu-tuong-xa-xi-moi-cua-gioi-tinh-hoa-185260304195157183.htm",
+      "summary": "Giữa dòng chảy hối hả của thời đại, hành trình tìm về các hòn đảo tự nhiên đang trở thành đích đến của giới tinh hoa. Rời xa nhịp sống đô thị, họ chọn an trú giữa thiên nhiên biệt lập. Cuộc sống trên đảo là nơi họ được tận hưởng sự bình yên xa xỉ, bởi trước mặt nước mềm mại, dường như mọi xôn xao đề...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:00:00+07:00",
+      "fetched": "2026-03-05T08:14:06.322426+07:00"
+    },
+    {
+      "id": "b7cbd35504467371a2d886d4d77636ff",
+      "title": "Hơn 10 năm thi công đường Hoàng Hữu Nam: Người dân vẫn mòn mỏi chờ hoàn thiện",
+      "link": "https://thanhnien.vn/hon-10-nam-thi-cong-duong-hoang-huu-nam-nguoi-dan-van-mon-moi-cho-hoan-thien-185260304121029927.htm",
+      "summary": "Hơn 10 năm kể từ ngày khởi công, dự án mở rộng đường Hoàng Hữu Nam, P.Long Bình, TP.HCM vẫn chưa thể hoàn thành do vướng mắc trong công tác giải phóng mặt bằng, khiến việc đi lại và sinh hoạt của người dân khu vực bị ảnh hưởng kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:00:00+07:00",
+      "fetched": "2026-03-05T08:14:06.322606+07:00"
+    },
+    {
+      "id": "59b20282c1fb16358dab5987772b31f4",
+      "title": "Đầm suông 'lên ngôi' ngày nắng, bí quyết diện đồ thanh thoát đầy phong cách là đây",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dam-suong-len-ngoi-ngay-nang-bi-quyet-dien-do-thanh-thoat-day-phong-cach-la-day-18526030410041953.htm",
+      "summary": "Dưới cái nắng đầu mùa oi ả cùng bầu không khí có độ ẩm cao, đầm suông trở thành cứu cánh cho mọi cô gái. Thiết kế dáng suông từ vải lụa mịn mát, vải voan chiffon in họa tiết mỏng nhẹ và có độ bay chính là những ứng cử viên hàng đầu cho tủ đồ mùa này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:00:00+07:00",
+      "fetched": "2026-03-05T08:14:06.322774+07:00"
+    },
+    {
+      "id": "615bfed3d5df371156e66641ab479d05",
+      "title": "Hezbollah tuyên bố quyết không đầu hàng trước Mỹ - Israel",
+      "link": "https://vnexpress.net/hezbollah-tuyen-bo-quyet-khong-dau-hang-truoc-my-israel-5046781.html",
+      "summary": "Hezbollah khẳng định sẽ đối đầu đến cùng với Israel và Mỹ, quyết không đầu hàng dù \"tương quan lực lượng chênh lệch\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T00:55:35+07:00",
+      "fetched": "2026-03-05T08:14:09.046559+07:00"
+    },
+    {
+      "id": "cfffb570483614ada770d6bff91c4e5b",
+      "title": "Thủ tục khai quyết toán thuế thu nhập cá nhân trực tiếp như thế nào?",
+      "link": "https://thanhnien.vn/thu-tuc-khai-quyet-toan-thue-thu-nhap-ca-nhan-truc-tiep-nhu-the-nao-185260304222821707.htm",
+      "summary": "Cá nhân quyết toán thuế thu nhập cá nhân trực tiếp với cơ quan thuế sẽ thực hiện hồ sơ riêng và nộp trực tuyến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T00:55:00+07:00",
+      "fetched": "2026-03-05T08:14:06.322922+07:00"
+    },
+    {
+      "id": "1f124662e81626bda756f774ac1ef1a6",
+      "title": "Dự báo thời tiết tháng 3: Không khí lạnh lệch đông, nắng nóng lan rộng",
+      "link": "https://thanhnien.vn/du-bao-thoi-tiet-thang-3-khong-khi-lanh-lech-dong-nang-nong-lan-rong-185260305072620816.htm",
+      "summary": "Dự báo thời tiết tháng 3, không khí lạnh có xu hướng lệch đông gây ra nhiều ngày mưa phùn, mưa nhỏ, nồm ẩm ở miền Bắc. Nắng nóng tiếp tục lan rộng ở Nam bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T00:51:00+07:00",
+      "fetched": "2026-03-05T08:14:06.323070+07:00"
+    },
+    {
+      "id": "7b26c912fd13e40d78cad3a51a2f76e0",
+      "title": "Giá heo hơi hôm nay 5.3.2026: Giảm sâu, tổng đàn tăng nhanh",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-532026-giam-sau-tong-dan-tang-nhanh-185260304161448259.htm",
+      "summary": "Giá heo hơi tiếp tục giảm trên cả nước, đặc biệt ở khu vực miền Bắc có nơi giảm đến 3.000 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T00:45:00+07:00",
+      "fetched": "2026-03-05T08:14:06.323217+07:00"
+    },
+    {
+      "id": "fb502d5d232352d28cdfc5b9e18407eb",
+      "title": "Bảng xếp hạng Ngoại hạng Anh mới nhất: Arsenal bỏ xa Man City, M.U bị đánh bại",
+      "link": "https://thanhnien.vn/bang-xep-hang-ngoai-hang-anh-moi-nhat-arsenal-bo-xa-man-city-mu-bi-danh-bai-185260305073740993.htm",
+      "summary": "Vòng 29 giải Ngoại hạng Anh kết thúc ngày 5.3 với nhiều xáo trộn ở nhóm đầu, Arsenal bỏ xa Man City 7 điểm, trong khi M.U thua trận đầu tiên dưới thời HLV Carrick tạo kịch tính ở cuộc đua tốp 5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T00:39:00+07:00",
+      "fetched": "2026-03-05T08:14:06.323363+07:00"
+    },
+    {
+      "id": "d24970428816ad35f775a3c5c97e0fda",
+      "title": "Nhà Trắng lên tiếng về vết đỏ trên cổ Tổng thống Trump",
+      "link": "https://thanhnien.vn/nha-trang-len-tieng-ve-vet-do-tren-co-tong-thong-trump-185260305065059321.htm",
+      "summary": "Bác sĩ cho biết ông Trump đang sử dụng một loại kem thông dụng như một 'biện pháp điều trị da mang tính phòng ngừa', sau khi vết đỏ trên cổ ông gây nhiều chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T00:29:00+07:00",
+      "fetched": "2026-03-05T08:14:06.323511+07:00"
+    },
+    {
+      "id": "9b537b85c22e7f401e2487e1e01678bb",
+      "title": "HLV Brighton: 'Arsenal câu giờ quá nhiều'",
+      "link": "https://vnexpress.net/hlv-brighton-arsenal-cau-gio-qua-nhieu-5046780.html",
+      "summary": "HLV Fabian Hurzeler cho rằng chỉ một đội cố gắng chơi bóng, đội còn lại câu giờ, ở trận Brighton thua Arsenal 0-1 ở vòng 29 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T00:23:36+07:00",
+      "fetched": "2026-03-05T08:14:03.103442+07:00"
+    },
+    {
+      "id": "9b537b85c22e7f401e2487e1e01678bb",
+      "title": "HLV Brighton: 'Arsenal câu giờ quá nhiều'",
+      "link": "https://vnexpress.net/hlv-brighton-arsenal-cau-gio-qua-nhieu-5046780.html",
+      "summary": "HLV Fabian Hurzeler cho rằng chỉ một đội cố gắng chơi bóng, đội còn lại câu giờ, ở trận Brighton thua Arsenal 0-1 ở vòng 29 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-05T00:23:36+07:00",
+      "fetched": "2026-03-05T08:14:14.031864+07:00"
+    },
+    {
+      "id": "b9d3fe2c0f78e8d0e8fc18f74a32db47",
+      "title": "Thượng viện Mỹ phản đối siết quyền của ông Trump trong cuộc chiến với Iran",
+      "link": "https://vnexpress.net/thuong-vien-my-phan-doi-siet-quyen-cua-ong-trump-trong-cuoc-chien-voi-iran-5046777.html",
+      "summary": "Thượng viện Mỹ, do phe Cộng hòa kiểm soát, bác bỏ đề xuất hạn chế quyền lực của Tổng thống Trump trong việc tiếp tục các cuộc tấn công Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T00:13:14+07:00",
+      "fetched": "2026-03-05T08:14:03.103642+07:00"
+    },
+    {
+      "id": "b9d3fe2c0f78e8d0e8fc18f74a32db47",
+      "title": "Thượng viện Mỹ phản đối siết quyền của ông Trump trong cuộc chiến với Iran",
+      "link": "https://vnexpress.net/thuong-vien-my-phan-doi-siet-quyen-cua-ong-trump-trong-cuoc-chien-voi-iran-5046777.html",
+      "summary": "Thượng viện Mỹ, do phe Cộng hòa kiểm soát, bác bỏ đề xuất hạn chế quyền lực của Tổng thống Trump trong việc tiếp tục các cuộc tấn công Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T00:13:14+07:00",
+      "fetched": "2026-03-05T08:14:09.046757+07:00"
+    },
+    {
+      "id": "9e7aed599043647c90fa5b3eba0d417e",
+      "title": "Kasim Hoàng Vũ qua đời ở tuổi 46",
+      "link": "https://vnexpress.net/kasim-hoang-vu-qua-doi-o-tuoi-46-5046776.html",
+      "summary": "Kasim Hoàng Vũ - giọng ca nổi tiếng thập niên 2000 - qua đời tại Mỹ ở tuổi 46, sau thời gian bạo bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T00:06:34+07:00",
+      "fetched": "2026-03-05T08:14:03.103810+07:00"
+    },
+    {
+      "id": "83843f6b65118db2e8d6b9ca04a218c4",
+      "title": "Mỹ nhân Thái cùng chồng con nghỉ dưỡng ở Nha Trang",
+      "link": "https://vnexpress.net/my-nhan-thai-cung-chong-con-nghi-duong-o-nha-trang-5046590.html",
+      "summary": "Pokchat Thiamchai - sao Thái đóng \"Yêu thầm qua mạng\" và show \"Bộ cánh tình yêu\" - dạo biển, thưởng thức ẩm thực ở Nha Trang cùng chồng con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T00:00:00+07:00",
+      "fetched": "2026-03-05T08:14:03.103971+07:00"
+    },
+    {
+      "id": "7e19181ec628e46ab7f1031aba605b6b",
+      "title": "Thực đơn buổi trưa cho người bận rộn muốn giảm cân",
+      "link": "https://vnexpress.net/thuc-don-buoi-trua-cho-nguoi-ban-ron-muon-giam-can-5044694.html",
+      "summary": "Huấn luyện viên Dương Ngọc Hải tư vấn các món ăn ít calo phù hợp với cả người bận rộn, ít vận động, muốn giảm cân nhanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T00:00:00+07:00",
+      "fetched": "2026-03-05T08:14:03.104130+07:00"
+    },
+    {
+      "id": "9b357167b66cbda05665f80251807e68",
+      "title": "'Giấc mộng Paris' của du khách Mỹ",
+      "link": "https://vnexpress.net/giac-mong-paris-cua-du-khach-my-5044304.html",
+      "summary": "Michelle Harris quyết định rời bỏ công việc ngành dược tại Mỹ để tìm cuộc sống mới tại Pháp sau khi trải qua nhiều nỗi đau mất mát người thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T00:00:00+07:00",
+      "fetched": "2026-03-05T08:14:03.104285+07:00"
+    },
+    {
+      "id": "00cc9664412f9c3aaaf998f7b6282850",
+      "title": "Ngôi nhà thường xuyên 'đón' khách lạc tay lái dưới chân cầu",
+      "link": "https://vnexpress.net/ngoi-nha-thuong-xuyen-don-khach-lac-tay-lai-duoi-chan-cau-5046715.html",
+      "summary": "Nhiều năm nay anh Nguyễn Hoàng Duy luôn mở cổng nhà từ sáng đến đêm, biến sân thành vùng đệm \"đón\" người đi đường lạc tay lái khi đổ dốc cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T23:26:00+07:00",
+      "fetched": "2026-03-05T08:14:03.104445+07:00"
+    },
+    {
+      "id": "ccda3ee4a2ea89194e1ed19a7702fe32",
+      "title": "Man Utd thua trận đầu dưới thời Carrick",
+      "link": "https://vnexpress.net/man-utd-thua-tran-dau-duoi-thoi-carrick-5046771.html",
+      "summary": "Đá hơn người cả hiệp hai, Man Utd vẫn thua chủ nhà Newcastle 1-2 ở vòng 29 Ngoại hạng Anh và đứt mạch bất bại dưới thời HLV tạm quyền Michael Carrick.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T23:14:04+07:00",
+      "fetched": "2026-03-05T08:14:03.104630+07:00"
+    },
+    {
+      "id": "ccda3ee4a2ea89194e1ed19a7702fe32",
+      "title": "Man Utd thua trận đầu dưới thời Carrick",
+      "link": "https://vnexpress.net/man-utd-thua-tran-dau-duoi-thoi-carrick-5046771.html",
+      "summary": "Đá hơn người cả hiệp hai, Man Utd vẫn thua chủ nhà Newcastle 1-2 ở vòng 29 Ngoại hạng Anh và đứt mạch bất bại dưới thời HLV tạm quyền Michael Carrick.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-04T23:14:04+07:00",
+      "fetched": "2026-03-05T08:14:14.032020+07:00"
+    },
+    {
+      "id": "01f843e61035c38d49616ef3275ccc9a",
+      "title": "Ông Trump: Chiến dịch tập kích Iran đạt 15 trên 10 điểm",
+      "link": "https://vnexpress.net/ong-trump-chien-dich-tap-kich-iran-dat-15-tren-10-diem-5046766.html",
+      "summary": "Tổng thống Trump cho rằng hiệu quả hoạt động của Mỹ trong chiến dịch tấn công Iran đạt 15 điểm trên thang 10, nhấn mạnh sẽ tiếp tục tăng cường sức ép.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T23:10:37+07:00",
+      "fetched": "2026-03-05T08:14:03.104805+07:00"
+    },
+    {
+      "id": "01f843e61035c38d49616ef3275ccc9a",
+      "title": "Ông Trump: Chiến dịch tập kích Iran đạt 15 trên 10 điểm",
+      "link": "https://vnexpress.net/ong-trump-chien-dich-tap-kich-iran-dat-15-tren-10-diem-5046766.html",
+      "summary": "Tổng thống Trump cho rằng hiệu quả hoạt động của Mỹ trong chiến dịch tấn công Iran đạt 15 điểm trên thang 10, nhấn mạnh sẽ tiếp tục tăng cường sức ép.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-04T23:10:37+07:00",
+      "fetched": "2026-03-05T08:14:09.046933+07:00"
+    },
+    {
+      "id": "e5f51cedfe76e2a76ad9a3daeb4eef29",
+      "title": "Điểm tin 6h: Mỹ sẽ nâng thuế nhập khẩu bổ sung lên 15% trong tuần này | Chứng khoán châu Á lao dốc, Việt Nam tăng điểm",
+      "link": "https://vnexpress.net/diem-tin-6h-my-se-nang-thue-nhap-khau-bo-sung-len-15-trong-tuan-nay-chung-khoan-chau-a-lao-doc-viet-nam-tang-diem-5046770.html",
+      "summary": "20 triệu người Việt đang thừa cân béo phì; Tàu container bị đánh trúng khi băng qua Eo biển Hormuz...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T23:08:45+07:00",
+      "fetched": "2026-03-05T08:14:03.104966+07:00"
+    },
+    {
+      "id": "4d9400472b5aaa32862498a9af22ef5a",
+      "title": "'Kẹt hàng' chung cư giá trăm triệu đồng một m2",
+      "link": "https://vnexpress.net/ket-hang-chung-cu-gia-tram-trieu-dong-mot-m2-5046752.html",
+      "summary": "Thị trường đi xuống khiến anh Tuấn \"bể\" kế hoạch lướt sóng căn chung cư 41 m2, đành giảm 300 triệu đồng nhưng nhiều tháng không tìm được khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T23:00:00+07:00",
+      "fetched": "2026-03-05T08:14:03.105126+07:00"
+    },
+    {
+      "id": "115ba1f319736142c911c195c05bfd36",
+      "title": "Bên trong 'hầm trú ẩn' 170 triệu USD của Mark Zuckerberg",
+      "link": "https://vnexpress.net/ben-trong-ham-tru-an-170-trieu-usd-cua-mark-zuckerberg-5046609.html",
+      "summary": "Với bến tàu riêng, bể cá khổng lồ và những hàng xóm như Jeff Bezos hay Ivanka Trump, siêu dinh thự mới của Mark Zuckerberg xác lập kỷ lục đắt đỏ nhất lịch sử Miami.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T23:00:00+07:00",
+      "fetched": "2026-03-05T08:14:03.105289+07:00"
+    },
+    {
+      "id": "f1d654deae0cdbca331e743c2f609c19",
+      "title": "Vệ binh Cách mạng Hồi giáo - lực lượng chỉ tuân lệnh lãnh tụ Iran",
+      "link": "https://vnexpress.net/ve-binh-cach-mang-hoi-giao-luc-luong-chi-tuan-lenh-lanh-tu-iran-5046535.html",
+      "summary": "Từ lực lượng bảo vệ cách mạng Hồi giáo, IRGC đã phát triển thành trụ cột an ninh và có quyền lực chính trị sâu rộng dưới quyền của Lãnh tụ Tối cao Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T23:00:00+07:00",
+      "fetched": "2026-03-05T08:14:03.105447+07:00"
+    },
+    {
+      "id": "ed26d1db4fd97ce0de5f9b641407d54b",
+      "title": "Nỗi đau của những đứa trẻ 'phải giỏi hơn bố mẹ'",
+      "link": "https://vnexpress.net/noi-dau-cua-nhung-dua-tre-phai-gioi-hon-bo-me-5046230.html",
+      "summary": "Quá nửa đêm, Minh vẫn ngồi bên bàn học, đầu cúi gầm, nghe bố chất vấn về bài kiểm tra điểm 9, \"ai được điểm 10? Sao con lại thua nó?\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T23:00:00+07:00",
+      "fetched": "2026-03-05T08:14:03.105617+07:00"
+    },
+    {
+      "id": "11b92ca3a18c0b8c0a5a28ab471cbd29",
+      "title": "Tài xế lùi xe rơi trúng hai ôtô khác",
+      "link": "https://vnexpress.net/tai-xe-lui-xe-roi-trung-hai-oto-khac-5046607.html",
+      "summary": "Chiếc Land Rover Range Rover Velar màu trắng đang lùi đột nhiên tăng tốc và rơi thẳng xuống dốc, đè trúng một chiếc Land Rover khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-04T23:00:00+07:00",
+      "fetched": "2026-03-05T08:14:03.105781+07:00"
+    },
+    {
+      "id": "f1d654deae0cdbca331e743c2f609c19",
+      "title": "Vệ binh Cách mạng Hồi giáo - lực lượng chỉ tuân lệnh lãnh tụ Iran",
+      "link": "https://vnexpress.net/ve-binh-cach-mang-hoi-giao-luc-luong-chi-tuan-lenh-lanh-tu-iran-5046535.html",
+      "summary": "Từ lực lượng bảo vệ cách mạng Hồi giáo, IRGC đã phát triển thành trụ cột an ninh và có quyền lực chính trị sâu rộng dưới quyền của Lãnh tụ Tối cao Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-04T23:00:00+07:00",
+      "fetched": "2026-03-05T08:14:09.047100+07:00"
+    },
+    {
+      "id": "831c9fcf96255cf18608c1996d30b9fe",
+      "title": "Man City bị chia điểm ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-city-bi-chia-diem-o-ngoai-hang-anh-5046769.html",
+      "summary": "Man City hai lần dẫn trước, nhưng vẫn bị đội khách Nottingham Forest cầm hòa 2-2 ở vòng 29 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-04T22:56:00+07:00",
+      "fetched": "2026-03-05T08:14:14.032174+07:00"
+    },
+    {
       "id": "4e1873904b65a01a4545bb9f75747a9c",
       "title": "Mỹ dọa truy tố lãnh đạo Venezuela",
       "link": "https://thanhnien.vn/my-doa-truy-to-lanh-dao-venezuela-185260304232841803.htm",
@@ -261,6 +771,26 @@ window.newsData_2026_03_05 = {
       "category": "Tổng hợp",
       "published": "2026-03-04T22:00:00+07:00",
       "fetched": "2026-03-05T05:22:04.768267+07:00"
+    },
+    {
+      "id": "c350521c4d3b8401074a940fc25734e8",
+      "title": "Cuộc sống 'giàu nhưng không được tận hưởng' của trùm ma túy El Mencho",
+      "link": "https://vnexpress.net/cuoc-song-giau-nhung-khong-duoc-tan-huong-cua-trum-ma-tuy-el-mencho-5044943.html",
+      "summary": "Trùm ma túy El Mencho có khối tài sản \"hàng trăm triệu USD\" nhưng không thể hưởng thụ cuộc sống giàu sang, do bị giới chức Mexico truy lùng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-04T22:00:00+07:00",
+      "fetched": "2026-03-05T08:14:09.047267+07:00"
+    },
+    {
+      "id": "b25cefddc97efc562e68a047cff3f954",
+      "title": "Camera trên bộ ba Galaxy S26 có gì mới?",
+      "link": "https://vnexpress.net/camera-tren-bo-ba-galaxy-s26-co-gi-moi-5046387.html",
+      "summary": "Samsung nâng cấp mạnh cho camera trên thế hệ Galaxy S26, tập trung vào AI và phần mềm, trong đó lần đầu tích hợp tính năng khóa đường chân trời.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-04T22:00:00+07:00",
+      "fetched": "2026-03-05T08:14:12.979969+07:00"
     },
     {
       "id": "4751f5c7f5dcba9f92032dc8d9ac2823",
