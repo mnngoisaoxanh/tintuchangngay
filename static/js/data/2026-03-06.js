@@ -1,6 +1,6 @@
 window.newsData_2026_03_06 = {
   "date": "2026-03-06",
-  "lastUpdated": "2026-03-06T02:08:13.113247+07:00",
+  "lastUpdated": "2026-03-06T03:29:08.654830+07:00",
   "articles": [
     {
       "id": "e4e5f282538bc57b82c0932ecee6ace7",
@@ -211,6 +211,16 @@ window.newsData_2026_03_06 = {
       "category": "Tổng hợp",
       "published": "2026-03-06T00:54:05.957352+07:00",
       "fetched": "2026-03-06T00:54:05.957564+07:00"
+    },
+    {
+      "id": "2c2e0508a76e54eff29e7174ef6457c8",
+      "title": "CAS xử FAM thua kiện FIFA",
+      "link": "https://thanhnien.vn/cas-xu-fam-thua-kien-fifa-18526030521334884.htm",
+      "summary": "Tối 5.3 (giờ VN), Tòa án Trọng tài thể thao (CAS) ra phán quyết cuối cùng về vụ bê bối nhập tịch 7 cầu thủ trái quy định của Liên đoàn Bóng đá Malaysia (FAM). FAM phải trả giá vì hành động của mình, còn các cầu thủ vẫn có cơ hội cứu vãn sự nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T20:00:00+07:00",
+      "fetched": "2026-03-06T03:29:01.478024+07:00"
     },
     {
       "id": "051252dd7513563bd2670b731f88075a",
