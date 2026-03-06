@@ -1,6 +1,6 @@
 window.newsData_2026_03_07 = {
   "date": "2026-03-07",
-  "lastUpdated": "2026-03-07T03:21:20.393410+07:00",
+  "lastUpdated": "2026-03-07T05:18:07.647804+07:00",
   "articles": [
     {
       "id": "b447d4a8fded33bfa9e738acc241a0c4",
@@ -151,6 +151,116 @@ window.newsData_2026_03_07 = {
       "category": "Tổng hợp",
       "published": "2026-03-07T01:31:39.638683+07:00",
       "fetched": "2026-03-07T01:31:39.638894+07:00"
+    },
+    {
+      "id": "6b8e735edfd2fc2852a21cef1b9a5ba1",
+      "title": "Giao tranh lan rộng ở Sudan, hơn 50 người chết",
+      "link": "https://thanhnien.vn/giao-tranh-lan-rong-o-sudan-hon-50-nguoi-chet-185260306223150137.htm",
+      "summary": "Giao tranh giữa quân đội Sudan và Lực lượng hỗ trợ nhanh (RSF) bán quân sự kéo dài từ ngày 4-5.3 tại vùng Kordofan ở phía nam Sudan đã khiến ít nhất 51 người thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T22:15:00+07:00",
+      "fetched": "2026-03-07T05:18:01.100399+07:00"
+    },
+    {
+      "id": "56d2590f529336a494d120b23f6c352e",
+      "title": "Tử vi ngày 7 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-7-thang-3-con-giap-nao-may-man-hom-nay-185260306221356224.htm",
+      "summary": "Tử vi ngày 7 tháng 3 mang đến những gợi ý mang tính tham khảo cho 12 con giáp khi tuần làm việc vừa khép lại. Đây là thời điểm nhiều người bắt đầu nhìn thấy thành quả của nỗ lực trong những ngày đầu tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T22:15:00+07:00",
+      "fetched": "2026-03-07T05:18:01.100572+07:00"
+    },
+    {
+      "id": "c029e4bdf12b985186e19ecf3d64727b",
+      "title": "HLV Park Hang-seo dự khai mạc giải TNSV, giao lưu sinh viên Trường ĐH Nha Trang",
+      "link": "https://thanhnien.vn/hlv-park-hang-seo-du-khai-mac-giai-tnsv-giao-luu-sinh-vien-truong-dh-nha-trang-185260307033340175.htm",
+      "summary": "HLV Park Hang-seo đã có mặt tại phố biển, đến trưa 7.3 sẽ giao lưu với sinh viên Trường ĐH Nha Trang và dự lễ khai mạc, động viên các đội bóng tham dự VCK giải TNSV THACO CUP 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T22:08:00+07:00",
+      "fetched": "2026-03-07T05:18:01.100733+07:00"
+    },
+    {
+      "id": "fffefbb41b05cf60c619dc9b7817de9e",
+      "title": "Di chúc dù công chứng vẫn bị tòa án tuyên vô hiệu trong trường hợp nào?",
+      "link": "https://vnexpress.net/di-chuc-du-cong-chung-van-bi-toa-an-tuyen-vo-hieu-trong-truong-hop-nao-5047525.html",
+      "summary": "Tôi đang mắc ung thư giai đoạn cuối, sức khỏe ngày càng yếu nên dự định trong tuần tới sẽ lập di chúc để lại tài sản cho vợ và các con, mong mọi việc được rõ ràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T22:00:00+07:00",
+      "fetched": "2026-03-07T05:17:58.303162+07:00"
+    },
+    {
+      "id": "861b3540ca7310a2567c0dc6f560828b",
+      "title": "Chiến dịch tình báo mở đầu cuộc chiến ở Iran",
+      "link": "https://vnexpress.net/chien-dich-tinh-bao-mo-dau-cuoc-chien-o-iran-5047230.html",
+      "summary": "Nỗ lực phối hợp tình báo chưa từng có giữa Mỹ và Israel được cho là một động lực quan trọng khiến hai nước tự tin phát động chiến dịch tập kích Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T22:00:00+07:00",
+      "fetched": "2026-03-07T05:17:58.303349+07:00"
+    },
+    {
+      "id": "cc0eb8a152ddbbb555ab02b9f5714c63",
+      "title": "Điều gì xảy ra khi bạn ăn bột ngọt?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-ban-an-bot-ngot-5047023.html",
+      "summary": "Bột ngọt là chất phụ gia thực phẩm giúp tăng hương vị cho món ăn, giảm lượng muối tiêu thụ song nạp quá nhiều có thể gây ra một số tác dụng phụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T22:00:00+07:00",
+      "fetched": "2026-03-07T05:17:58.303516+07:00"
+    },
+    {
+      "id": "82e631d50b53fd3360dd56009bd7e4ef",
+      "title": "Xe tải đứt lìa sau va chạm với tàu hỏa tại Quảng Ngãi",
+      "link": "https://thanhnien.vn/xe-tai-dut-lia-sau-va-cham-voi-tau-hoa-tai-quang-ngai-185260307000522414.htm",
+      "summary": "Tàu khách SE8 va chạm xe tải tại điểm giao cắt đường sắt ở xã Vệ Giang (Quảng Ngãi) khiến tài xế xe tải bị thương, phương tiện hư hỏng nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T22:00:00+07:00",
+      "fetched": "2026-03-07T05:18:01.100907+07:00"
+    },
+    {
+      "id": "32865258c8134106c1ad728e7c426dfe",
+      "title": "Tổng thống Trump đối diện căng thẳng trong nước",
+      "link": "https://thanhnien.vn/tong-thong-trump-doi-dien-cang-thang-trong-nuoc-185260306223951562.htm",
+      "summary": "Tổng thống Mỹ Donald Trump thay Bộ trưởng An ninh nội địa giữa bức xúc gia tăng từ nhiều chính trị gia, đồng thời bị hàng chục bang khởi kiện về chính sách thuế quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T22:00:00+07:00",
+      "fetched": "2026-03-07T05:18:01.101067+07:00"
+    },
+    {
+      "id": "861b3540ca7310a2567c0dc6f560828b",
+      "title": "Chiến dịch tình báo mở đầu cuộc chiến ở Iran",
+      "link": "https://vnexpress.net/chien-dich-tinh-bao-mo-dau-cuoc-chien-o-iran-5047230.html",
+      "summary": "Nỗ lực phối hợp tình báo chưa từng có giữa Mỹ và Israel được cho là một động lực quan trọng khiến hai nước tự tin phát động chiến dịch tập kích Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-06T22:00:00+07:00",
+      "fetched": "2026-03-07T05:18:03.147626+07:00"
+    },
+    {
+      "id": "d1547c36be9bc893c6893a72f929b8b6",
+      "title": "Chiến sự Ukraine ngày 1.472: Nga kiểm soát thêm làng, nói tình hình 'xấu đi' với Ukraine",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1472-nga-kiem-soat-them-lang-noi-tinh-hinh-xau-di-voi-ukraine-185260306202942209.htm",
+      "summary": "Nga cảnh báo tình hình đang tiếp tục xấu đi đối với Ukraine vì Kyiv 'biết rõ cần phải làm gì nhưng tiếp tục phớt lờ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T21:30:00+07:00",
+      "fetched": "2026-03-07T05:18:01.101223+07:00"
+    },
+    {
+      "id": "3647ae1bf4755278b3f017bc0de6ca19",
+      "title": "Tình hình Iran, Trung Đông mới nhất sáng 7.3: Ông Trump ra tuyên bố đáng chú ý",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-sang-73-ong-trump-ra-tuyen-bo-dang-chu-y-185260306223455073.htm",
+      "summary": "Nhiều khu vực tiếp tục chìm trong lửa đạn khi cuộc xung đột giữa Mỹ - Israel với Iran bước sang ngày thứ 8. Phạm vi chiến sự chưa có dấu hiệu thu hẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T21:00:00+07:00",
+      "fetched": "2026-03-07T05:18:01.101378+07:00"
     },
     {
       "id": "404afa2e4eb1ec6a04e43af0b06fb15d",
