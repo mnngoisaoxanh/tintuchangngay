@@ -1,7 +1,157 @@
 window.newsData_2026_03_06 = {
   "date": "2026-03-06",
-  "lastUpdated": "2026-03-06T21:30:05.265538+07:00",
+  "lastUpdated": "2026-03-06T23:29:29.424074+07:00",
   "articles": [
+    {
+      "id": "57a6c22d696f07f854114dd143603f25",
+      "title": "Chiến sự Trung Đông leo thang, khí đốt Nga bất ngờ 'đắt hàng'",
+      "link": "https://tuoitre.vn/chien-su-trung-dong-leo-thang-khi-dot-nga-bat-ngo-dat-hang-20260306211745832.htm",
+      "summary": "Chiến sự giữa Mỹ - Israel và Iran đã đẩy nhu cầu với khí đốt Nga lên cao, theo Điện Kremlin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.983088+07:00",
+      "fetched": "2026-03-06T23:29:22.983178+07:00"
+    },
+    {
+      "id": "9de6f920432ea366323b45a4d0f846ce",
+      "title": "Đăng thông tin sai sự thật về lễ hội Linh tinh tình phộc, người phụ nữ bị phạt 7,5 triệu đồng",
+      "link": "https://tuoitre.vn/dang-thong-tin-sai-su-that-ve-le-hoi-linh-tinh-tinh-phoc-nguoi-phu-nu-bi-phat-7-5-trieu-dong-20260306213414203.htm",
+      "summary": "Bà T.T.H. bị công an xử phạt 7,5 triệu đồng vì đăng tải lên Tiktok clip có thông tin sai sự thật về lễ hội Linh tinh tình phộc ở Phú Thọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.982984+07:00",
+      "fetched": "2026-03-06T23:29:22.983079+07:00"
+    },
+    {
+      "id": "9e3a00b3c49ca434d80147e2a9034f05",
+      "title": "Ông Trump: Không đàm phán với Iran, chỉ chấp nhận đầu hàng vô điều kiện",
+      "link": "https://tuoitre.vn/ong-trump-khong-dam-phan-voi-iran-chi-chap-nhan-dau-hang-vo-dieu-kien-20260306214137166.htm",
+      "summary": "Tổng thống Trump tiếp tục ám chỉ việc thay đổi chế độ ở Iran, nhấn mạnh chỉ chấp nhận sự đầu hàng vô điều kiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.982877+07:00",
+      "fetched": "2026-03-06T23:29:22.982972+07:00"
+    },
+    {
+      "id": "b447d4a8fded33bfa9e738acc241a0c4",
+      "title": "Sinh viên Bách khoa Đà Nẵng học robot trong ‘nhà máy thông minh’ tại giảng đường",
+      "link": "https://tuoitre.vn/sinh-vien-bach-khoa-da-nang-hoc-robot-trong-nha-may-thong-minh-tai-giang-duong-20260306210407471.htm",
+      "summary": "Một “nhà máy thông minh thu nhỏ” với robot công nghiệp, robot tự hành và hệ thống giám sát bằng trí tuệ nhân tạo vừa được đưa vào giảng đường Trường đại học Bách khoa - Đại học Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.982743+07:00",
+      "fetched": "2026-03-06T23:29:22.982865+07:00"
+    },
+    {
+      "id": "de69e199e3a2840e651e15969c462e88",
+      "title": "DNES ươm tạo hơn 150 startup, gọi vốn khoảng 50 triệu USD sau 10 năm",
+      "link": "https://tuoitre.vn/dnes-uom-tao-hon-150-startup-goi-von-khoang-50-trieu-usd-sau-10-nam-20260306212606172.htm",
+      "summary": "Sau 10 năm hoạt động, Vườn ươm doanh nghiệp Đà Nẵng (DNES) đã hỗ trợ hơn 150 dự án khởi nghiệp, với tổng số vốn gọi được khoảng 50 triệu USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.982643+07:00",
+      "fetched": "2026-03-06T23:29:22.982733+07:00"
+    },
+    {
+      "id": "b1f0ded411bdfd4d276ce7bfd37cb9ad",
+      "title": "TP.HCM đưa vào khai thác tour trực thăng ngắm thành phố từ 11-3, giá thấp nhất 2,9 triệu đồng/người",
+      "link": "https://tuoitre.vn/tp-hcm-dua-vao-khai-thac-tour-truc-thang-ngam-thanh-pho-tu-11-3-gia-thap-nhat-2-9-trieu-dong-nguoi-20260306212447844.htm",
+      "summary": "Từ ngày 11-3, các chuyến bay trực thăng ngắm cảnh sẽ được khai thác định kỳ, mở ra một loại hình du lịch cao cấp mới cho TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.982523+07:00",
+      "fetched": "2026-03-06T23:29:22.982633+07:00"
+    },
+    {
+      "id": "3654e5289592647064de2d0a314a0bf3",
+      "title": "Trưởng Ban Nội chính Trung ương Lê Minh Trí cam kết kiểm soát chống lãng phí, tham nhũng",
+      "link": "https://tuoitre.vn/truong-ban-noi-chinh-trung-uong-le-minh-tri-cam-ket-kiem-soat-chong-lang-phi-tham-nhung-20260306214459405.htm",
+      "summary": "Chiều 6-3, ông Lê Minh Trí - Ủy viên Bộ Chính trị, Trưởng Ban Nội chính Trung ương, Phó trưởng ban thường trực Ban Chỉ đạo Trung ương về phòng, chống tham nhũng, lãng phí, tiêu cực - đã cùng 4 ứng cử viên đại biểu Quốc hội khóa XVI tiếp xúc cử tri.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.982422+07:00",
+      "fetched": "2026-03-06T23:29:22.982514+07:00"
+    },
+    {
+      "id": "46ef825239920c750913d093df4f8caf",
+      "title": "Đại học Kinh tế quốc dân mở 15 ngành mới, quy đổi IELTS từ 5.5",
+      "link": "https://tuoitre.vn/dai-hoc-kinh-te-quoc-dan-mo-15-nganh-moi-quy-doi-ielts-tu-5-5-20260306202127085.htm",
+      "summary": "Đại học Kinh tế Quốc dân đã cập nhật thông tin tuyển sinh đại học chính quy năm 2026, tuyển 9.000 sinh viên, tăng khoảng 500 sinh viên so với năm ngoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.982321+07:00",
+      "fetched": "2026-03-06T23:29:22.982413+07:00"
+    },
+    {
+      "id": "d0360e8c5c0272da60c2de66fbc0a2ad",
+      "title": "Làng cờ tướng Trung Quốc: 'Lại Lý Huynh giúp ích cho chúng ta'",
+      "link": "https://tuoitre.vn/lang-co-tuong-trung-quoc-lai-ly-huynh-giup-ich-cho-chung-ta-20260306214554613.htm",
+      "summary": "Dù siêu giải cờ tướng Ngũ Dương Bôi đã kết thúc được vài ngày, truyền thông Trung Quốc vẫn tiếp tục dành những lời có cánh cho kỳ thủ Việt Nam Lại Lý Huynh",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.982217+07:00",
+      "fetched": "2026-03-06T23:29:22.982312+07:00"
+    },
+    {
+      "id": "f980d29b86fec0e7c77f57383bfa5c2f",
+      "title": "Gen Z xin việc kiểu mới: Cha mẹ viết CV, gọi phòng nhân sự, thậm chí đi phỏng vấn cùng",
+      "link": "https://tuoitre.vn/gen-z-xin-viec-kieu-moi-cha-me-viet-cv-goi-phong-nhan-su-tham-chi-di-phong-van-cung-20260306122556788.htm",
+      "summary": "Một xu hướng mới là họ mang theo cha mẹ đến buổi phỏng vấn xin việc. Cứ 5 người thì có 1 người từng để cha hoặc mẹ tham gia buổi phỏng vấn xin việc cùng mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.982110+07:00",
+      "fetched": "2026-03-06T23:29:22.982208+07:00"
+    },
+    {
+      "id": "886a08d7bb26824a524d4beeb5381eae",
+      "title": "Ô tô tông liên hoàn làm 4 người nhập viện, xe máy bị hất lên cao 4m: Tài xế có nồng độ cồn",
+      "link": "https://tuoitre.vn/o-to-tong-lien-hoan-lam-4-nguoi-nhap-vien-xe-may-bi-hat-len-cao-4-met-tai-xe-co-nong-do-con-20260306221105694.htm",
+      "summary": "Sau khi tông vào một xe taxi, chiếc ô tô con tiếp tục lao nhanh rồi tông vào hàng loạt ô tô, xe máy đang di chuyển. Một chiếc xe máy bị hất văng lên khoảng 4m rồi rơi xuống đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.982003+07:00",
+      "fetched": "2026-03-06T23:29:22.982100+07:00"
+    },
+    {
+      "id": "3ce0ab24a398db4f5b5bf85d35c907b9",
+      "title": "Hàng trăm tà áo dài thắp sáng đường đi bộ Nguyễn Huệ đêm khai mạc Lễ hội Áo dài 2026",
+      "link": "https://tuoitre.vn/hang-tram-ta-ao-dai-thap-sang-duong-di-bo-nguyen-hue-dem-khai-mac-le-hoi-ao-dai-2026-20260306213214395.htm",
+      "summary": "Không gian đường đi bộ Nguyễn Huệ rực rỡ sắc màu với hàng trăm thiết kế áo dài trình diễn trên sân khấu truyền thống kết hợp công nghệ, mở màn chuỗi hoạt động Lễ hội Áo dài TP.HCM 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.981888+07:00",
+      "fetched": "2026-03-06T23:29:22.981994+07:00"
+    },
+    {
+      "id": "2501d01685ba4c31d0243db41cf5df8f",
+      "title": "Ngắm những tác phẩm hoa đạo Nhật Bản đầy cảm xúc tại Bảo tàng Mỹ thuật Việt Nam",
+      "link": "https://tuoitre.vn/ngam-nhung-tac-pham-hoa-dao-nhat-ban-day-cam-xuc-tai-bao-tang-my-thuat-viet-nam-20260306215059906.htm",
+      "summary": "Phòng trưng bày chuyên đề của Bảo tàng Mỹ thuật Việt Nam đang trở thành tâm điểm thu hút đông đảo người yêu cái đẹp, yêu hoa, đặc biệt là nghệ thuật hoa đạo Nhật Bản khi nơi đây đang trưng bày những tác phẩm hoa đạo đầy cảm xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.981747+07:00",
+      "fetched": "2026-03-06T23:29:22.981878+07:00"
+    },
+    {
+      "id": "9b64f5124b7deb7a1460b94232ff3238",
+      "title": "Khai hội mùa xuân vùng đất 'địa linh - nhân kiệt' Côn Sơn - Kiếp Bạc năm 2026",
+      "link": "https://tuoitre.vn/khai-hoi-mua-xuan-vung-dat-dia-linh-nhan-kiet-con-son-kiep-bac-nam-2026-20260306220747558.htm",
+      "summary": "Tối 6-3, tại sân chùa Côn Sơn, Thành phố Hải Phòng đã diễn ra Lễ khai hội mùa xuân Côn Sơn - Kiếp Bạc năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.981617+07:00",
+      "fetched": "2026-03-06T23:29:22.981736+07:00"
+    },
+    {
+      "id": "5cbcbcc24d28ce5bdf3588bec22a69e7",
+      "title": "Bùi Xuân Quý lãnh thẻ đỏ vì 'ăn chân' cầu thủ Xuân Thiện Phú Thọ",
+      "link": "https://tuoitre.vn/bui-xuan-quy-lanh-the-do-vi-an-chan-cau-thu-xuan-thien-phu-tho-2026030622340586.htm",
+      "summary": "Phi hai chân bằng gầm giày vào cầu thủ Xuân Thiện Phú Thọ, hậu vệ Bùi Xuân Quý bị đuổi khỏi sân trong trận thua 1-2 của Long An ở vòng 11 giải hạng nhất quốc gia 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T23:29:22.981334+07:00",
+      "fetched": "2026-03-06T23:29:22.981602+07:00"
+    },
     {
       "id": "da78dcc5bd4b6649ce8e1af06d3d7788",
       "title": "CLB Quảng Ninh bất ngờ cầm hòa đại gia Trường Tươi Đồng Nai",
@@ -453,6 +603,56 @@ window.newsData_2026_03_06 = {
       "fetched": "2026-03-06T17:25:42.624024+07:00"
     },
     {
+      "id": "de24ffc9232417866de5e21001d9702a",
+      "title": "Bị phạt vì đăng tin sai sự thật 'lãnh đạo UBND Hà Nội xin thôi chức'",
+      "link": "https://vnexpress.net/bi-phat-vi-dang-tin-sai-su-that-lanh-dao-ubnd-ha-noi-xin-thoi-chuc-5047604.html",
+      "summary": "Người phụ nữ 62 tuổi bị xử phạt 7,5 triệu đồng vì đăng thông tin sai sự thật về việc lãnh đạo UBND thành phố Hà Nội có đơn xin thôi chức vụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T15:48:55+07:00",
+      "fetched": "2026-03-06T23:29:19.147425+07:00"
+    },
+    {
+      "id": "1fac5b3c3e7d7b3093d6b89f0b4acc2a",
+      "title": "Hàng không Việt tăng chi phí khi bay vòng tránh Trung Đông",
+      "link": "https://vnexpress.net/hang-khong-viet-tang-chi-phi-khi-bay-vong-tranh-trung-dong-5047584.html",
+      "summary": "Vietnam Airlines phải điều chỉnh đường bay từ Việt Nam đi châu Âu để tránh không phận Iran, Iraq và khu vực lân cận khiến thời gian bay kéo dài thêm 10-15 phút và chi phí tăng khoảng 2.000 USD mỗi chuyến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T15:42:13+07:00",
+      "fetched": "2026-03-06T23:29:19.147591+07:00"
+    },
+    {
+      "id": "0739c52093f01b129c8071c77c7ecdc9",
+      "title": "Nam phóng viên cắm hoa chúc mừng ngày Quốc tế phụ nữ",
+      "link": "https://thanhnien.vn/nam-phong-vien-cam-hoa-chuc-mung-ngay-quoc-te-phu-nu-185260306222423509.htm",
+      "summary": "Sáng 6.3.2026, Ban chấp hành Công đoàn cơ sở Báo Thanh Niên tổ chức buổi họp mặt, chào đón ngày Quốc tế phụ nữ 8.3 với nhiều hoạt động vui tươi, thú vị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T15:36:00+07:00",
+      "fetched": "2026-03-06T23:29:22.164053+07:00"
+    },
+    {
+      "id": "c795b31f11fcb9feff36a36061a61835",
+      "title": "Khoảnh khắc ôtô bị tàu hỏa tông vỡ đôi ở Quảng Ngãi",
+      "link": "https://vnexpress.net/khoanh-khac-oto-bi-tau-hoa-tong-vo-doi-o-quang-ngai-5047602.html",
+      "summary": "Ôtô đầu kéo băng qua đường sắt ở xã Nghĩa Hành mắc kẹt tại rào chắn, bị tàu hỏa lao tới tông trực diện, khiến xe vỡ đôi, hai người bị thương, tối 6/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T15:35:25+07:00",
+      "fetched": "2026-03-06T23:29:19.147736+07:00"
+    },
+    {
+      "id": "f515c0d29d08b8eb1233aedc55e4080e",
+      "title": "Sân bóng Trường ĐH Nha Trang tất bật trước giờ G sáng đèn VCK",
+      "link": "https://thanhnien.vn/san-bong-truong-dh-nha-trang-tat-bat-truoc-gio-g-sang-den-vck-185260306223133247.htm",
+      "summary": "Bất chấp cơn mưa nặng hạt, công tác chuẩn bị cho VCK giải bóng đá Thanh Niên Sinh viên Việt Nam lần 4 - năm 2026 Cúp THACO tại sân bóng Trường ĐH Nha Trang diễn ra cực kỳ khẩn trương và náo nhiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T15:32:00+07:00",
+      "fetched": "2026-03-06T23:29:22.164206+07:00"
+    },
+    {
       "id": "182dbfb8f725c985d2a68b55f9e670ae",
       "title": "Thị trường bất động sản UAE chịu sức ép sau các cuộc tấn công của Iran",
       "link": "https://tuoitre.vn/thi-truong-bat-dong-san-uae-chiu-suc-ep-sau-cac-cuoc-tan-cong-cua-iran-20260306125132283.htm",
@@ -603,6 +803,146 @@ window.newsData_2026_03_06 = {
       "fetched": "2026-03-06T15:26:45.444556+07:00"
     },
     {
+      "id": "6ae8a4306c4d257909ffdec93ee1ea84",
+      "title": "Rùng mình khoảnh khắc tai nạn liên hoàn trên phố Nguyễn Chánh",
+      "link": "https://thanhnien.vn/rung-minh-khoanh-khac-tai-nan-lien-hoan-tren-pho-nguyen-chanh-185260306222657198.htm",
+      "summary": "Tối 6.3, một vụ tai nạn giao thông liên hoàn đã xảy ra trên phố Nguyễn Chánh (P.Yên Hòa, TP.Hà Nội), khiến nhiều người bị thương",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T15:26:00+07:00",
+      "fetched": "2026-03-06T23:29:22.164336+07:00"
+    },
+    {
+      "id": "6201c601fd5baf4c1c357dc2221a3290",
+      "title": "Ông Trump yêu cầu Iran 'đầu hàng vô điều kiện'",
+      "link": "https://vnexpress.net/ong-trump-yeu-cau-iran-dau-hang-vo-dieu-kien-5047586.html",
+      "summary": "Tổng thống Trump yêu cầu Iran \"đầu hàng vô điều kiện\", đồng thời hứa giúp tái thiết kinh tế nước này nếu Tehran tuân thủ và thiết lập bộ máy lãnh đạo mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T15:13:46+07:00",
+      "fetched": "2026-03-06T23:29:19.147929+07:00"
+    },
+    {
+      "id": "6201c601fd5baf4c1c357dc2221a3290",
+      "title": "Ông Trump yêu cầu Iran 'đầu hàng vô điều kiện'",
+      "link": "https://vnexpress.net/ong-trump-yeu-cau-iran-dau-hang-vo-dieu-kien-5047586.html",
+      "summary": "Tổng thống Trump yêu cầu Iran \"đầu hàng vô điều kiện\", đồng thời hứa giúp tái thiết kinh tế nước này nếu Tehran tuân thủ và thiết lập bộ máy lãnh đạo mới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-06T15:13:46+07:00",
+      "fetched": "2026-03-06T23:29:24.709074+07:00"
+    },
+    {
+      "id": "6aea1e718dd1f2876e097ac2bf582016",
+      "title": "Va chạm với tàu hỏa ở Quảng Ngãi, xe tải đứt lìa, tài xế bị thương",
+      "link": "https://thanhnien.vn/tau-hoa-va-cham-xe-tai-o-quang-ngai-tai-xe-bi-thuong-xe-dut-doi-185260306220710769.htm",
+      "summary": "Tàu khách SE8 va chạm xe tải tại điểm giao cắt đường sắt ở xã Vệ Giang (Quảng Ngãi) khiến tài xế xe tải bị thương, phương tiện hư hỏng nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T15:03:00+07:00",
+      "fetched": "2026-03-06T23:29:22.164462+07:00"
+    },
+    {
+      "id": "538b380804fa5115464297bf0c8cd6f3",
+      "title": "Nhà mạng tăng giá cước, người dùng 'than trời' vì internet chập chờn",
+      "link": "https://thanhnien.vn/nha-mang-tang-gia-cuoc-nguoi-dung-than-troi-vi-internet-chap-chon-185260304213126109.htm",
+      "summary": "Ba nhà mạng lớn ở Việt Nam là Viettel, FPT và VNPT đồng loạt tăng giá cước internet cơ bản từ 180.000 đồng lên tối thiểu 190.000 đồng, trong khi nhiều người dùng phản ánh tốc độ kết nối đang bị chập chờn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T15:03:00+07:00",
+      "fetched": "2026-03-06T23:29:22.164613+07:00"
+    },
+    {
+      "id": "44c155ff0a07f15b5d8a4fc87f416a1d",
+      "title": "Ôtô đầu kéo mắc kẹt trên đường ray, bị tàu hỏa tông vỡ đôi",
+      "link": "https://vnexpress.net/oto-dau-keo-mac-ket-tren-duong-ray-bi-tau-hoa-tong-vo-doi-5047591.html",
+      "summary": "Ôtô đầu kéo băng qua đường ngang ở xã Vệ Giang, thì mắc kẹt trước rào chắn, đúng lúc tàu SE8 lao tới tông trực diện khiến phương tiện vỡ đôi, hai tài xế bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T15:00:28+07:00",
+      "fetched": "2026-03-06T23:29:19.148068+07:00"
+    },
+    {
+      "id": "68fd69324ae8d9b4e90a08b8bf910767",
+      "title": "Bà Lê Thị Thủy làm Chủ tịch Hội Liên hiệp Phụ nữ Việt Nam",
+      "link": "https://vnexpress.net/ba-le-thi-thuy-lam-chu-tich-hoi-lien-hiep-phu-nu-viet-nam-5047583.html",
+      "summary": "Ban Chấp hành Trung ương Hội Liên hiệp Phụ nữ Việt Nam bầu bà Lê Thị Thủy giữ chức Chủ tịch với 100% đại biểu có mặt tán thành, tại hội nghị chiều 6/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T14:58:41+07:00",
+      "fetched": "2026-03-06T23:29:19.148198+07:00"
+    },
+    {
+      "id": "5e5fc46a7594f7f8dcef3a57cb0d785d",
+      "title": "Ronaldo rời Trung Đông, trở về Tây Ban Nha",
+      "link": "https://vnexpress.net/ronaldo-roi-trung-dong-tro-ve-tay-ban-nha-5047599.html",
+      "summary": "Cristiano Ronaldo rời Arab Saudi để sang Tây Ban Nha điều trị chấn thương, khi Al Nassr bước vào giai đoạn quyết định của mùa giải Saudi Pro League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T14:53:20+07:00",
+      "fetched": "2026-03-06T23:29:19.148328+07:00"
+    },
+    {
+      "id": "5e5fc46a7594f7f8dcef3a57cb0d785d",
+      "title": "Ronaldo rời Trung Đông, trở về Tây Ban Nha",
+      "link": "https://vnexpress.net/ronaldo-roi-trung-dong-tro-ve-tay-ban-nha-5047599.html",
+      "summary": "Cristiano Ronaldo rời Arab Saudi để sang Tây Ban Nha điều trị chấn thương, khi Al Nassr bước vào giai đoạn quyết định của mùa giải Saudi Pro League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-06T14:53:20+07:00",
+      "fetched": "2026-03-06T23:29:29.409558+07:00"
+    },
+    {
+      "id": "c4dafd37a1a900ebff1b0e75b507a4c4",
+      "title": "Iran ra lệnh bắn người hôi của trong chiến sự",
+      "link": "https://vnexpress.net/iran-ra-lenh-ban-nguoi-hoi-cua-trong-chien-su-5047571.html",
+      "summary": "Các sĩ quan cảnh sát Iran đã nhận được lệnh nổ súng vào những người hôi của trong bối cảnh chiến sự với Israel và Mỹ đang căng thẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T14:37:20+07:00",
+      "fetched": "2026-03-06T23:29:19.148454+07:00"
+    },
+    {
+      "id": "c4dafd37a1a900ebff1b0e75b507a4c4",
+      "title": "Iran ra lệnh bắn người hôi của trong chiến sự",
+      "link": "https://vnexpress.net/iran-ra-lenh-ban-nguoi-hoi-cua-trong-chien-su-5047571.html",
+      "summary": "Các sĩ quan cảnh sát Iran đã nhận được lệnh nổ súng vào những người hôi của trong bối cảnh chiến sự với Israel và Mỹ đang căng thẳng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-06T14:37:20+07:00",
+      "fetched": "2026-03-06T23:29:24.709237+07:00"
+    },
+    {
+      "id": "4e4e15a8b7efd9b6996373a3aba49c6d",
+      "title": "Hà Nội: Tai nạn liên hoàn 5 ô tô, 3 xe máy, nhiều người bị thương",
+      "link": "https://thanhnien.vn/ha-noi-tai-nan-lien-hoan-5-o-to-3-xe-may-nhieu-nguoi-bi-thuong-185260306211550325.htm",
+      "summary": "Tối 6.3, một vụ tai nạn giao thông liên hoàn đã xảy ra trên phố Nguyễn Chánh (P.Yên Hòa, TP.Hà Nội), khiến nhiều người bị thương",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T14:34:00+07:00",
+      "fetched": "2026-03-06T23:29:22.164737+07:00"
+    },
+    {
+      "id": "a671aeb67587cdc1259d7978376dcd05",
+      "title": "Lập Quỹ phòng thủ dân sự Trung ương",
+      "link": "https://vnexpress.net/lap-quy-phong-thu-dan-su-trung-uong-5047529.html",
+      "summary": "Quỹ phòng thủ dân sự Trung ương hoạt động không vì mục đích lợi nhuận, dùng để cứu trợ khẩn cấp, khắc phục hậu quả và hỗ trợ các dự án ứng phó sự cố, thảm họa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T14:33:56+07:00",
+      "fetched": "2026-03-06T23:29:19.148582+07:00"
+    },
+    {
+      "id": "da4e7f8fff7bd029a4448c74f44add47",
+      "title": "Ông Kim Jong-un lên tàu khu trục, xem phóng tên lửa chiến lược",
+      "link": "https://thanhnien.vn/ong-kim-jong-un-len-tau-khu-truc-xem-phong-ten-lua-chien-luoc-185260306204226925.htm",
+      "summary": "Nhà lãnh đạo Triều Tiên Kim Jong-un mới đây đã thị sát một khu trục hạm 5.000 tấn lớp Choe Hyon vừa được chế tạo và giám sát vụ phóng thử tên lửa hành trình chiến lược từ khu trục hạm này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T14:30:00+07:00",
+      "fetched": "2026-03-06T23:29:22.164878+07:00"
+    },
+    {
       "id": "504fbbca4fa881e3d547a265af684ccf",
       "title": "F-35 Israel bắn hạ YAK-130 Iran: Cuộc đối đầu quá chênh lệch",
       "link": "https://thanhnien.vn/f-35-israel-ban-ha-yak-130-iran-cuoc-doi-dau-qua-chenh-lech-185260306172314244.htm",
@@ -701,6 +1041,16 @@ window.newsData_2026_03_06 = {
       "category": "Tổng hợp",
       "published": "2026-03-06T13:58:56+07:00",
       "fetched": "2026-03-06T21:29:52.297053+07:00"
+    },
+    {
+      "id": "ee317fb79533f5c3712bb8020111cf76",
+      "title": "Ôtô gây tai nạn liên hoàn trên phố trung tâm Hà Nội",
+      "link": "https://vnexpress.net/oto-gay-tai-nan-lien-hoan-tren-pho-trung-tam-ha-noi-5047577.html",
+      "summary": "Chiếc xe 4 chỗ tông hàng loạt xe máy và ôtô trên phố Nguyễn Chánh, khiến ít nhất 4 người bị thương phải đưa đi cấp cứu, tối 6/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T13:58:56+07:00",
+      "fetched": "2026-03-06T23:29:19.149357+07:00"
     },
     {
       "id": "91dd050c393e67a78a975c35478726e5",
