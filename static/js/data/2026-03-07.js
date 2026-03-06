@@ -1,6 +1,6 @@
 window.newsData_2026_03_07 = {
   "date": "2026-03-07",
-  "lastUpdated": "2026-03-07T01:31:48.868411+07:00",
+  "lastUpdated": "2026-03-07T03:21:20.393410+07:00",
   "articles": [
     {
       "id": "b447d4a8fded33bfa9e738acc241a0c4",
@@ -151,6 +151,66 @@ window.newsData_2026_03_07 = {
       "category": "Tổng hợp",
       "published": "2026-03-07T01:31:39.638683+07:00",
       "fetched": "2026-03-07T01:31:39.638894+07:00"
+    },
+    {
+      "id": "404afa2e4eb1ec6a04e43af0b06fb15d",
+      "title": "Lời kể của nạn nhân vụ ôtô đâm 9 xe trên đường Hà Nội",
+      "link": "https://vnexpress.net/loi-ke-cua-nan-nhan-vu-oto-dam-9-xe-tren-duong-ha-noi-5047610.html",
+      "summary": "Tài xế Nguyễn Bách kể sau khi húc xe của anh văng lên vỉa hè, ôtô do người đàn ông lái tiếp tục phóng đi tốc độ cao, đâm vào nhiều xe khác trên phố Nguyễn Chánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T18:45:48+07:00",
+      "fetched": "2026-03-07T03:21:08.448244+07:00"
+    },
+    {
+      "id": "cedbf93aabef982b67ff9c20b61c24d8",
+      "title": "Đổ nhiều mồ hôi tay, chân: Khi nào là bệnh lý?",
+      "link": "https://thanhnien.vn/do-nhieu-mo-hoi-tay-chan-khi-nao-la-benh-ly-185260305195629366.htm",
+      "summary": "Đổ mồ hôi là phản ứng tự nhiên giúp cơ thể điều hòa thân nhiệt, đặc biệt khi trời nóng hay đang vận động. Tuy nhiên, một số người lại thường xuyên ra nhiều mồ hôi ở bàn tay, bàn chân dù trời mát hoặc đang nghỉ ngơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T18:37:00+07:00",
+      "fetched": "2026-03-07T03:21:11.718654+07:00"
+    },
+    {
+      "id": "0b0a522242dbb3f7404e957a031b3ce2",
+      "title": "Mỡ máu cao: 4 điều cần làm để ngăn ngừa tai biến",
+      "link": "https://thanhnien.vn/mo-mau-cao-4-dieu-can-lam-de-ngan-ngua-tai-bien-185260305195336259.htm",
+      "summary": "Khi mảng xơ vữa bị vỡ và tạo cục máu đông gây tắc nghẽn, dòng máu lên não có thể bị chặn lại, dẫn đến đột quỵ thiếu máu não. Những người có mỡ máu cao sẽ có nguy cơ bị đột quỵ cao hơn đáng kể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T18:34:00+07:00",
+      "fetched": "2026-03-07T03:21:11.718823+07:00"
+    },
+    {
+      "id": "9e85119d6f0e5220c6ddcb9606146328",
+      "title": "7 lợi ích ít biết của dầu dừa",
+      "link": "https://vnexpress.net/7-loi-ich-it-biet-cua-dau-dua-5045698.html",
+      "summary": "Dầu dừa có đặc tính kháng khuẩn và chống oxy hóa, có thể giúp giảm cảm giác thèm ăn, làm đẹp da và tóc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T18:00:00+07:00",
+      "fetched": "2026-03-07T03:21:08.448429+07:00"
+    },
+    {
+      "id": "3cd819b171f23c68caf20d1319f87976",
+      "title": "Khối u trung thất là gì?",
+      "link": "https://vnexpress.net/khoi-u-trung-that-la-gi-5047012.html",
+      "summary": "Khối u trung thất có thể xuất hiện ở trung thất trước, giữa hoặc sau, vị trí thường khác nhau tùy theo độ tuổi của người bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T18:00:00+07:00",
+      "fetched": "2026-03-07T03:21:08.448616+07:00"
+    },
+    {
+      "id": "9e60aef9523628fcd94d911f87e805fc",
+      "title": "Hàng trăm khách vạ vật ở ga Sài Gòn vì sự cố cầu Ghềnh",
+      "link": "https://vnexpress.net/hang-tram-khach-va-vat-o-ga-sai-gon-vi-su-co-cau-ghenh-5047565.html",
+      "summary": "Nhiều hành khách vạ vật tại ga Sài Gòn khi nhiều chuyến tàu dừng do sà lan tông cầu Ghềnh, khiến lịch chạy tàu xáo trộn, hành khách chờ đợi mệt mỏi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T17:45:17+07:00",
+      "fetched": "2026-03-07T03:21:08.448780+07:00"
     },
     {
       "id": "f09bca4f6c93c2557b2156aa1ea97798",
