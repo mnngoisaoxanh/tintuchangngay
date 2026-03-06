@@ -1,7 +1,77 @@
 window.newsData_2026_03_06 = {
   "date": "2026-03-06",
-  "lastUpdated": "2026-03-06T05:21:58.176093+07:00",
+  "lastUpdated": "2026-03-06T08:17:38.874334+07:00",
   "articles": [
+    {
+      "id": "3c7c725069020a450530b819e3e239c1",
+      "title": "Hạ viện Mỹ bảo vệ quyền tuyên chiến của ông Trump; Iran sẵn sàng đối đầu đổ bộ của Mỹ",
+      "link": "https://tuoitre.vn/ha-vien-my-bao-ve-quyen-tuyen-chien-cua-ong-trump-iran-san-sang-doi-dau-do-bo-cua-my-20260306051918749.htm",
+      "summary": "Ngoại trưởng Iran: Hiện Iran không có ý định đóng cửa eo biển Hormuz; Israel thông báo ‘giai đoạn tiếp theo’ trong cuộc chiến với Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T08:17:32.862578+07:00",
+      "fetched": "2026-03-06T08:17:32.862693+07:00"
+    },
+    {
+      "id": "b593337bae3a07a9793e8f0420b101d1",
+      "title": "'10 phút ác mộng' khiến Tottenham thảm bại trước Crystal Palace",
+      "link": "https://tuoitre.vn/10-phut-ac-mong-khien-tottenham-tham-bai-truoc-crystal-palace-20260306051325674.htm",
+      "summary": "Viễn cảnh Tottenham - 1 trong 6 câu lạc bộ giàu nhất Premier League - phải xuống hạng đang hiện hữu, sau khi họ thảm bại 1-3 trước Crystal Palace trên sân nhà vào rạng sáng 6-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T08:17:32.862446+07:00",
+      "fetched": "2026-03-06T08:17:32.862565+07:00"
+    },
+    {
+      "id": "3ea4c3ac278a0328870a9045a2876927",
+      "title": "5 ngôi sao mặc xấu nhất trong lịch sử Oscar",
+      "link": "https://tuoitre.vn/5-ngoi-sao-mac-xau-nhat-trong-lich-su-oscar-2026030517545787.htm",
+      "summary": "Các bộ trang phục thảm họa nhất tại những lễ trao giải luôn mang một sức hút khó cưỡng, đặc biệt là tại giải thưởng điện ảnh danh giá Oscar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T08:17:32.862318+07:00",
+      "fetched": "2026-03-06T08:17:32.862435+07:00"
+    },
+    {
+      "id": "b6850a4fa20a6cd6f86d3230548bebc8",
+      "title": "Doraemon Movie 45 bất ngờ bùng nổ phòng vé Nhật dù được dự báo ảm đạm",
+      "link": "https://tuoitre.vn/doraemon-movie-45-bat-ngo-bung-no-phong-ve-nhat-du-duoc-du-bao-am-dam-20260305221927872.htm",
+      "summary": "'Ban đầu tôi lo doanh thu Doraemon Movie 45 không cao. Không hẳn là thất bại thảm hại, nhưng có thể chỉ bằng một nửa phần trước' - Yahoo! Japan, cổng thông tin điện tử hàng đầu của Nhật đánh giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T08:17:32.862187+07:00",
+      "fetched": "2026-03-06T08:17:32.862307+07:00"
+    },
+    {
+      "id": "292cdd52625408931216c968af8e19c1",
+      "title": "Mặc áo dài chụp hình miễn phí, may áo dài giá ưu đãi dịp Lễ hội Áo dài TP.HCM 2026",
+      "link": "https://tuoitre.vn/mac-ao-dai-chup-hinh-mien-phi-may-ao-dai-gia-uu-dai-dip-le-hoi-ao-dai-tp-hcm-2026-20260306055251995.htm",
+      "summary": "Những người yêu thích áo dài có thể tham quan triển lãm và trải nghiệm mặc áo dài miễn phí tại showroom 92-96 Nguyễn Huệ, từ ngày 6 đến 8-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T08:17:32.862047+07:00",
+      "fetched": "2026-03-06T08:17:32.862175+07:00"
+    },
+    {
+      "id": "217a4df8cbe25f51f535cdf50783fe7e",
+      "title": "Bún riêu Hà Nội xưa: Riêu cua, cà chua và chút mỡ",
+      "link": "https://tuoitre.vn/bun-rieu-ha-noi-xua-rieu-cua-ca-chua-va-chut-mo-2026030519515754.htm",
+      "summary": "Bát bún riêu Hà Nội ngày trước thanh nhẹ và giản dị: chỉ có riêu cua, vài múi cà chua và một chút mỡ. Sự tối giản ấy tạo nên hương vị đặc trưng khó quên đối với nhiều người Hà Nội xa quê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T08:17:32.861887+07:00",
+      "fetched": "2026-03-06T08:17:32.862033+07:00"
+    },
+    {
+      "id": "c7d06f122bd76118bcf77864eeb6cc31",
+      "title": "Tin tức thế giới 6-3: Ông Trump thay bộ trưởng An ninh nội địa; Ông Putin đã 'sẵn sàng thỏa thuận'",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-6-3-ong-trump-thay-bo-truong-an-ninh-noi-dia-ong-putin-da-san-sang-thoa-thuan-20260306062822397.htm",
+      "summary": "Nữ Bộ trưởng An ninh nội địa bị thay vì xử lý vấn đề kiểm soát nhập cư kém; Ông Zelensky: Mỹ đề nghị Ukraine hỗ trợ ứng phó với drone của Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T08:17:32.861638+07:00",
+      "fetched": "2026-03-06T08:17:32.861869+07:00"
+    },
     {
       "id": "0e88b6399da762ab11de799a87c78077",
       "title": "Lịch trực tiếp Asian Cup nữ: Uzbekistan đấu Trung Quốc",
@@ -101,6 +171,126 @@ window.newsData_2026_03_06 = {
       "category": "Tổng hợp",
       "published": "2026-03-06T02:08:03.014338+07:00",
       "fetched": "2026-03-06T02:08:03.014556+07:00"
+    },
+    {
+      "id": "25a967af834d4fb329b2782c7da0ad17",
+      "title": "Khởi tố Giám đốc Công ty vàng bạc đá quý Hạ Long",
+      "link": "https://thanhnien.vn/khoi-to-giam-doc-cong-ty-vang-bac-da-quy-ha-long-185260306072048325.htm",
+      "summary": "Ông Lưu Phúc Bình, Giám đốc Công ty vàng bạc đá quý Hạ Long, cùng vợ bị khởi tố để điều tra về hành vi trốn thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T01:16:00+07:00",
+      "fetched": "2026-03-06T08:17:31.795374+07:00"
+    },
+    {
+      "id": "7afd8a2e2160d58425568ceed10db314",
+      "title": "Giảm hãng bay sang Châu Âu - Hành khách xoay xở ra sao?",
+      "link": "https://thanhnien.vn/giam-hang-bay-sang-chau-au-hanh-khach-xoay-xo-ra-sao-185260306080506554.htm",
+      "summary": "Nhiều chuyến bay từ Việt Nam sang châu Âu đang rơi vào tình trạng kín chỗ, giá vé tăng mạnh sau khi các hãng hàng không phải điều chỉnh đường bay để tránh không phận Trung Đông. Không chỉ hành khách Việt, nhiều du khách quốc tế tại Việt Nam cũng buộc phải thay đổi kế hoạch di chuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T01:05:00+07:00",
+      "fetched": "2026-03-06T08:17:31.795546+07:00"
+    },
+    {
+      "id": "d032d8729e69e60d8d927f4daf7cc67e",
+      "title": "Mai Tài Phến: Cha mẹ tôi khen Mỹ Tâm",
+      "link": "https://thanhnien.vn/mai-tai-phen-cha-me-toi-khen-my-tam-185260305174115427.htm",
+      "summary": "Mai Tài Phến tiết lộ đấng sinh thành hiếm khi khen ngợi tác phẩm của con trai, nhưng sau khi xem Tài thì lại tỏ ra thích thú và đặc biệt dành sự tán dương cho Mỹ Tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T01:02:00+07:00",
+      "fetched": "2026-03-06T08:17:31.795705+07:00"
+    },
+    {
+      "id": "1a663ada8da9d4a3ba1e278ff6a2d7e6",
+      "title": "Hạ cốt nền đường, nhà dân chênh vênh bên mép vực sâu: Sai quy trình ở đâu?",
+      "link": "https://thanhnien.vn/ha-cot-nen-duong-nha-dan-chenh-venh-ben-mep-vuc-sau-sai-quy-trinh-o-dau-185260305232839296.htm",
+      "summary": "Vụ hạ cốt nền đường ĐT.753 ở Đồng Nai tạo vách đất cao dựng đứng sát nhà dân, gây nguy hiểm, cơ quan thanh tra cần vào cuộc làm rõ trách nhiệm của các cá nhân, tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T01:01:00+07:00",
+      "fetched": "2026-03-06T08:17:31.795895+07:00"
+    },
+    {
+      "id": "b3c8a1ea35c43d7dae3dbb2c954be249",
+      "title": "Lakeside Residences - Gu của những lựa chọn tinh tuyển tại Thanh Xuan Valley",
+      "link": "https://thanhnien.vn/lakeside-residences-gu-cua-nhung-lua-chon-tinh-tuyen-tai-thanh-xuan-valley-185260305212022565.htm",
+      "summary": "BIM Land giới thiệu 124 biệt thự The Lake Collection tại Thanh Xuan Valley. Tọa lạc bên hồ Thiều Quang và kế cận tiện ích biểu tượng Country Club, phân khu sở hữu địa thế 4 tầng bậc nguyên bản cùng ngôn ngữ kiến trúc đương đại giàu tính nghệ thuật, qua đó định hình một nhịp sống tinh tuyển trong lòn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T01:00:00+07:00",
+      "fetched": "2026-03-06T08:17:31.796059+07:00"
+    },
+    {
+      "id": "df672143795f048ed37a5f69259db000",
+      "title": "Cần Giờ vào ‘cuộc đua’ siêu đô thị biển, Vịnh Tiên đón chu kỳ tăng trưởng mới",
+      "link": "https://thanhnien.vn/can-gio-vao-cuoc-dua-sieu-do-thi-bien-vinh-tien-don-chu-ky-tang-truong-moi-185260305210207661.htm",
+      "summary": "Tại những quốc gia thịnh vượng, các siêu đô thị hướng biển đang trở thành động lực tăng trưởng mới, dẫn dắt làn sóng dịch chuyển dân cư. Tại Việt Nam, Vinhomes Green Paradise cùng vùng lõi Vịnh Tiên cũng đang vươn mình trở thành nơi tụ hội của dòng người, dòng tiền và dòng trải nghiệm trên cả nước v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T01:00:00+07:00",
+      "fetched": "2026-03-06T08:17:31.796216+07:00"
+    },
+    {
+      "id": "df2a06805d14a93d17ba2b4080ca85ef",
+      "title": "The Global City - khi chuẩn quốc tế giao thoa nghệ thuật và phong cách sống",
+      "link": "https://thanhnien.vn/the-global-city-khi-chuan-quoc-te-giao-thoa-nghe-thuat-va-phong-cach-song-185260305164343468.htm",
+      "summary": "Báo cáo JLL Global Consumer Experience Survey 2025 cho thấy xu hướng rõ rệt trong cách con người lựa chọn môi trường sống và điểm đến đô thị hiện đại: 73% người được khảo sát ưu tiên các \"multi-purpose destinations\", những không gian tích hợp đa chức năng trải nghiệm, trong khi 72% kỳ vọng các dự án...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T01:00:00+07:00",
+      "fetched": "2026-03-06T08:17:31.796369+07:00"
+    },
+    {
+      "id": "ba19fa734ae45b19c0a39cda86d6381d",
+      "title": "Tư vấn sức khỏe: Sự thật đúng sai về bệnh do virus HPV gây ra",
+      "link": "https://thanhnien.vn/tu-van-suc-khoe-su-that-dung-sai-ve-benh-do-virus-hpv-gay-ra-185260305153115475.htm",
+      "summary": "HPV là nguyên nhân hàng đầu gây ra các bệnh ung thư ở vùng sinh dục, hầu họng và sùi mào gà cho cả nam và nữ nhưng vẫn còn nhiều hiểu lầm phổ biến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T01:00:00+07:00",
+      "fetched": "2026-03-06T08:17:31.796525+07:00"
+    },
+    {
+      "id": "20a434746ed4b2c5c69c612d63ed0b69",
+      "title": "Người trẻ tìm thấy niềm vui từ áo dài",
+      "link": "https://thanhnien.vn/nguoi-tre-tim-thay-niem-vui-tu-ao-dai-185260305152444554.htm",
+      "summary": "Không chỉ xuất hiện trong dịp lễ, tết, áo dài đang dần trở thành lựa chọn quen thuộc của nhiều bạn trẻ. Từ công việc, những buổi chụp ảnh đến các cuộc gặp gỡ, chiếc áo dài được mặc như một cách giản dị để lưu giữ và tiếp nối truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T01:00:00+07:00",
+      "fetched": "2026-03-06T08:17:31.796681+07:00"
+    },
+    {
+      "id": "39b5574f4059b2ba84eeabd3ba74dc94",
+      "title": "Sơ mi hoa, sơ mi cách điệu, khi sự thoải mái viết nên tuyên ngôn phong cách",
+      "link": "https://thanhnien.vn/thoi-trang-tre/so-mi-hoa-so-mi-cach-dieu-khi-su-thoai-mai-viet-nen-tuyen-ngon-phong-cach-185260304145934796.htm",
+      "summary": "Áo sơ mi hoa, sơ mi họa tiết và các thiết kế áo cách điệu mang đến làn gió mới cho phong cách công sở thường ngày. Tuyên ngôn phong cách của phái nữ hiện đại được đo đếm bằng cảm giác tự tin, sự thoải mái và dễ dàng khi mặc đẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T01:00:00+07:00",
+      "fetched": "2026-03-06T08:17:31.796833+07:00"
+    },
+    {
+      "id": "83826d0fe681a5ff27f89acc2f8a1ec4",
+      "title": "Masan đẩy mạnh mảng khoáng sản",
+      "link": "https://vnexpress.net/masan-day-manh-mang-khoang-san-5047115.html",
+      "summary": "Masan High-Tech Materials kỳ vọng tăng trưởng doanh thu khi giá vonfram duy trì ở mức cao, trong bối cảnh nhu cầu công nghiệp ổn định và hiệu quả khai thác tiếp tục cải thiện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-06T01:00:00+07:00",
+      "fetched": "2026-03-06T08:17:35.900018+07:00"
+    },
+    {
+      "id": "b9d660a59827736e8d0c146004952db9",
+      "title": "Đội tuyển Việt Nam ‘thừa’ nhạc trưởng: Ông Kim chọn Hoàng Đức, Hoàng Hên hay Quang Hải tái đấu Malaysia?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-thua-nhac-truong-ong-kim-chon-hoang-duc-hoang-hen-hay-quang-hai-tai-dau-malaysia-185260303234014763.htm",
+      "summary": "Trước khi đội tuyển Việt Nam tái ngộ Malaysia tại vòng loại Asian Cup 2027, HLV Kim Sang-sik có khá nhiều sự lựa chọn ở vai trò nhạc trưởng, từ những cầu thủ nhiều năm khoác áo đội tuyển, cho đến người có thể có lần đầu ra mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T00:55:00+07:00",
+      "fetched": "2026-03-06T08:17:31.797008+07:00"
     },
     {
       "id": "ad44d1962e4be2c0215573df6a340e06",
@@ -251,6 +441,256 @@ window.newsData_2026_03_06 = {
       "category": "Tổng hợp",
       "published": "2026-03-06T00:54:05.957352+07:00",
       "fetched": "2026-03-06T00:54:05.957564+07:00"
+    },
+    {
+      "id": "6e7ec493606fb2a9e6681b1fca111103",
+      "title": "Messi gây sốt trong chuyến thăm Nhà Trắng, được Tổng thống Mỹ Donald Trump khen giỏi hơn… Pele",
+      "link": "https://thanhnien.vn/messi-gay-sot-trong-chuyen-tham-nha-trang-duoc-tong-thong-my-donald-trump-khen-gioi-hon-pele-185260306074315145.htm",
+      "summary": "Hơn 5,7 triệu người trên toàn cầu đã theo dõi truyền hình trực tiếp chuyến thăm Nhà Trắng của Messi và CLB Inter Miami gặp Tổng thống Mỹ Donald Trump để vinh danh chức vô địch MLS Cup của đội trong năm 2025, ngày 6.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T00:53:00+07:00",
+      "fetched": "2026-03-06T08:17:31.797160+07:00"
+    },
+    {
+      "id": "b67001df92dd469df97429431affed2b",
+      "title": "Du lịch Việt xoay xở trước tình hình Trung đông",
+      "link": "https://thanhnien.vn/du-lich-viet-xoay-xo-truoc-tinh-hinh-trung-dong-185260305230043139.htm",
+      "summary": "Chỉ trong thời gian ngắn, giá vé máy bay tăng vọt, hành trình bị xáo trộn, thậm chí nhiều chuyến bay bị hủy sát giờ khởi hành. Nguyên nhân trực tiếp đến từ những diễn biến leo thang tại khu vực Trung Đông. Các doanh nghiệp lữ hành trong nước đang xoay xở ra sao để bảo đảm an toàn cho khách và hạn ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T00:46:00+07:00",
+      "fetched": "2026-03-06T08:17:31.797316+07:00"
+    },
+    {
+      "id": "87ae5bb9adaa2e073983ad177aacd116",
+      "title": "Hình ảnh tàu hộ vệ tên lửa 016 - Quang Trung cập cảng Căn cứ Hải quân Úc",
+      "link": "https://thanhnien.vn/hinh-anh-tau-ho-ve-ten-lua-016-quang-trung-cap-cang-can-cu-hai-quan-uc-18526030607173243.htm",
+      "summary": "Vượt hành trình hơn 2.300 hải lý, tàu hộ vệ tên lửa 016 - Quang Trung chở đoàn công tác Hải quân nhân dân Việt Nam đã cập cảng Căn cứ Hải quân Coonawarra ở TP.Darwin (Úc) chiều 5.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T00:43:00+07:00",
+      "fetched": "2026-03-06T08:17:31.797467+07:00"
+    },
+    {
+      "id": "857168097c276aeda2e05c21bdfe0dc8",
+      "title": "Cận cảnh cây xanh 'gánh' đèn trang trí, biển hiệu ở Hà Nội",
+      "link": "https://thanhnien.vn/can-canh-cay-xanh-ganh-den-trang-tri-bien-hieu-o-ha-noi-185260305220757157.htm",
+      "summary": "Trên nhiều tuyến phố ở Hà Nội, không khó để bắt gặp hình ảnh cây xanh bị đèn trang trí quấn từ gốc lên tận cành cao, hoặc bị treo biển hiệu quảng cáo ngang thân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T00:39:00+07:00",
+      "fetched": "2026-03-06T08:17:31.797615+07:00"
+    },
+    {
+      "id": "2da5eae8de8e2c712de1c748e882e88e",
+      "title": "Hạ viện Mỹ chặn đề xuất siết quyền của ông Trump trong xung đột với Iran",
+      "link": "https://vnexpress.net/ha-vien-my-chan-de-xuat-siet-quyen-cua-ong-trump-trong-xung-dot-voi-iran-5047190.html",
+      "summary": "Hạ viện Mỹ bác nghị quyết hạn chế quyền lực của ông Trump trong tiến hành chiến dịch tập kích Iran, sau khi Thượng viện chặn nỗ lực tương tự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T00:08:13+07:00",
+      "fetched": "2026-03-06T08:17:28.477754+07:00"
+    },
+    {
+      "id": "2da5eae8de8e2c712de1c748e882e88e",
+      "title": "Hạ viện Mỹ chặn đề xuất siết quyền của ông Trump trong xung đột với Iran",
+      "link": "https://vnexpress.net/ha-vien-my-chan-de-xuat-siet-quyen-cua-ong-trump-trong-xung-dot-voi-iran-5047190.html",
+      "summary": "Hạ viện Mỹ bác nghị quyết hạn chế quyền lực của ông Trump trong tiến hành chiến dịch tập kích Iran, sau khi Thượng viện chặn nỗ lực tương tự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-06T00:08:13+07:00",
+      "fetched": "2026-03-06T08:17:34.082709+07:00"
+    },
+    {
+      "id": "a60eaefea1e7485c6cb835c49baf05d3",
+      "title": "Chợ phụ nữ ly hôn, chuyên bán đồ của chồng cũ ở châu Phi",
+      "link": "https://vnexpress.net/cho-phu-nu-ly-hon-chuyen-ban-do-cua-chong-cu-o-chau-phi-5047074.html",
+      "summary": "Tại Mauritania, phụ nữ ly hôn trở nên hấp dẫn hơn và họ có thể lấy nhiều tài sản của chồng cũ để đem ra chợ bán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T00:00:00+07:00",
+      "fetched": "2026-03-06T08:17:28.478016+07:00"
+    },
+    {
+      "id": "41103b61ce033d7541e6c33b652aa931",
+      "title": "Đi khám tâm thần vì thường xuyên đánh vợ lúc ngủ",
+      "link": "https://vnexpress.net/di-kham-tam-than-vi-thuong-xuyen-danh-vo-luc-ngu-5047041.html",
+      "summary": "Người đàn ông 55 tuổi liên tục la hét, đấm đá vợ lúc rạng sáng suốt 6 tháng, buộc gia đình đưa đến Bệnh viện E khám tâm thần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T00:00:00+07:00",
+      "fetched": "2026-03-06T08:17:28.478775+07:00"
+    },
+    {
+      "id": "4c85733b8df256060ea2bc6b92b55a53",
+      "title": "Chiến lược giá của Apple khi chip nhớ khan hiếm",
+      "link": "https://vnexpress.net/chien-luoc-gia-cua-apple-khi-chip-nho-khan-hiem-5046895.html",
+      "summary": "Tận dụng sức mạnh chuỗi cung ứng, Apple được cho là đang nhắm đến việc giành thêm thị phần trong phân khúc điện thoại và laptop giá thấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T00:00:00+07:00",
+      "fetched": "2026-03-06T08:17:28.478970+07:00"
+    },
+    {
+      "id": "4c85733b8df256060ea2bc6b92b55a53",
+      "title": "Chiến lược giá của Apple khi chip nhớ khan hiếm",
+      "link": "https://vnexpress.net/chien-luoc-gia-cua-apple-khi-chip-nho-khan-hiem-5046895.html",
+      "summary": "Tận dụng sức mạnh chuỗi cung ứng, Apple được cho là đang nhắm đến việc giành thêm thị phần trong phân khúc điện thoại và laptop giá thấp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-06T00:00:00+07:00",
+      "fetched": "2026-03-06T08:17:37.865985+07:00"
+    },
+    {
+      "id": "d73b3c55ed16649dec7aa004d8493314",
+      "title": "Israel dọa có 'bất ngờ' cho Iran trong giai đoạn mới của chiến sự",
+      "link": "https://vnexpress.net/israel-doa-co-bat-ngo-cho-iran-trong-giai-doan-moi-cua-chien-su-5047188.html",
+      "summary": "Quân đội Israel thông báo chuyển sang giai đoạn tiếp theo trong xung đột với Iran, cảnh báo sẽ có thêm bất ngờ dành cho đối thủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T23:57:29+07:00",
+      "fetched": "2026-03-06T08:17:28.479133+07:00"
+    },
+    {
+      "id": "d73b3c55ed16649dec7aa004d8493314",
+      "title": "Israel dọa có 'bất ngờ' cho Iran trong giai đoạn mới của chiến sự",
+      "link": "https://vnexpress.net/israel-doa-co-bat-ngo-cho-iran-trong-giai-doan-moi-cua-chien-su-5047188.html",
+      "summary": "Quân đội Israel thông báo chuyển sang giai đoạn tiếp theo trong xung đột với Iran, cảnh báo sẽ có thêm bất ngờ dành cho đối thủ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T23:57:29+07:00",
+      "fetched": "2026-03-06T08:17:34.082914+07:00"
+    },
+    {
+      "id": "948bf6609a4c983ebd8d0414586ef3a3",
+      "title": "Owen Cooper - tài không đợi tuổi",
+      "link": "https://vnexpress.net/owen-cooper-tai-khong-doi-tuoi-5046462.html",
+      "summary": "Ở tuổi 17, Owen Cooper gây sốt toàn cầu khi đoạt giải thưởng Emmy, Quả Cầu Vàng, Critics' Choice và Actors Awards nhờ vai diễn trong \"Adolescence\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T23:48:58+07:00",
+      "fetched": "2026-03-06T08:17:28.479290+07:00"
+    },
+    {
+      "id": "dc35995039775c530c59e9ae4e235e56",
+      "title": "Điểm tin 6h: Chính phủ lập Tổ công tác bảo đảm an ninh năng lượng | AFC sẽ 'nhanh chóng điều tra' vụ Malaysia gian lận nhập tịch",
+      "link": "https://vnexpress.net/diem-tin-6h-chinh-phu-lap-to-cong-tac-bao-dam-an-ninh-nang-luong-afc-se-nhanh-chong-dieu-tra-vu-malaysia-gian-lan-nhap-tich-5047193.html",
+      "summary": "Giá xăng dầu tăng mạnh do xung đột Trung Đông leo thang; Hà Tĩnh thông báo bán gần 30 kg vàng thuộc sở hữu toàn dân...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T23:39:45+07:00",
+      "fetched": "2026-03-06T08:17:28.479452+07:00"
+    },
+    {
+      "id": "876b362c8d8b68f049dbbdf93c1193a7",
+      "title": "Mạch nước ngầm trong ngôi miếu ở TP HCM thu hút khách xin lộc",
+      "link": "https://vnexpress.net/mach-nuoc-ngam-trong-ngoi-mieu-o-tp-hcm-thu-hut-khach-xin-loc-5045323.html",
+      "summary": "Nhiều người tìm đến Miễu Mạch Nước (xã Đông Thạnh) để lấy nước từ mạch nguồn tự nhiên, uống tại chỗ, rửa mặt hoặc mang về nhà cầu may trong những ngày đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T23:31:28+07:00",
+      "fetched": "2026-03-06T08:17:28.479608+07:00"
+    },
+    {
+      "id": "5a760bb6da78819b9bb49dcf28bc3987",
+      "title": "Người trẻ 'hồi sinh' chợ truyền thống",
+      "link": "https://vnexpress.net/nguoi-tre-hoi-sinh-cho-truyen-thong-5046007.html",
+      "summary": "Tận dụng giá thuê mặt bằng rẻ, nhiều người trẻ mở quầy cà phê, thời trang trong chợ truyền thống, tạo nên luồng sinh khí mới cho không gian kinh doanh lâu đời này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T23:29:00+07:00",
+      "fetched": "2026-03-06T08:17:28.479765+07:00"
+    },
+    {
+      "id": "a4b2f7cb0f5bb59eb4401186da473504",
+      "title": "Lao động Việt ở Trung Đông 'canh' tên lửa để mưu sinh",
+      "link": "https://vnexpress.net/lao-dong-viet-o-trung-dong-canh-ten-lua-de-muu-sinh-5047189.html",
+      "summary": "Đêm thức trắng canh tên lửa, ngày đi làm lại thấp thỏm nhìn hướng bom bay để chạy, anh Lê Mạnh ở UAE vẫn quyết bám trụ xưởng lọc dầu vì còn gánh nặng kinh tế gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T23:23:27+07:00",
+      "fetched": "2026-03-06T08:17:28.479973+07:00"
+    },
+    {
+      "id": "b64e9ed680b3320123178e0cf46c23ec",
+      "title": "Tổng thống Trump thay Bộ trưởng An ninh Nội địa Mỹ",
+      "link": "https://vnexpress.net/tong-thong-trump-thay-bo-truong-an-ninh-noi-dia-my-5047186.html",
+      "summary": "Tổng thống Trump cho biết bà Noem sẽ rời vị trí Bộ trưởng An ninh Nội địa, đảm nhiệm vai trò đặc phái viên về an ninh Tây Bán cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T23:22:29+07:00",
+      "fetched": "2026-03-06T08:17:28.480136+07:00"
+    },
+    {
+      "id": "b64e9ed680b3320123178e0cf46c23ec",
+      "title": "Tổng thống Trump thay Bộ trưởng An ninh Nội địa Mỹ",
+      "link": "https://vnexpress.net/tong-thong-trump-thay-bo-truong-an-ninh-noi-dia-my-5047186.html",
+      "summary": "Tổng thống Trump cho biết bà Noem sẽ rời vị trí Bộ trưởng An ninh Nội địa, đảm nhiệm vai trò đặc phái viên về an ninh Tây Bán cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T23:22:29+07:00",
+      "fetched": "2026-03-06T08:17:34.083085+07:00"
+    },
+    {
+      "id": "c004cecaa158080eafb455ecb759821c",
+      "title": "Iran hát quốc ca trở lại ở Asian Cup nữ 2026",
+      "link": "https://vnexpress.net/iran-hat-quoc-ca-tro-lai-o-asian-cup-nu-2026-5047184.html",
+      "summary": "Các cầu thủ Iran đã hát quốc ca và chào cờ trước trận gặp chủ nhà Australia, trái ngược với sự im lặng ở lượt ra quân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T23:14:21+07:00",
+      "fetched": "2026-03-06T08:17:28.480293+07:00"
+    },
+    {
+      "id": "c004cecaa158080eafb455ecb759821c",
+      "title": "Iran hát quốc ca trở lại ở Asian Cup nữ 2026",
+      "link": "https://vnexpress.net/iran-hat-quoc-ca-tro-lai-o-asian-cup-nu-2026-5047184.html",
+      "summary": "Các cầu thủ Iran đã hát quốc ca và chào cờ trước trận gặp chủ nhà Australia, trái ngược với sự im lặng ở lượt ra quân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-05T23:14:21+07:00",
+      "fetched": "2026-03-06T08:17:38.868369+07:00"
+    },
+    {
+      "id": "fd950f65b186354e7840afee201e0c7d",
+      "title": "Ông Trump muốn tham gia chọn Lãnh tụ Tối cao Iran",
+      "link": "https://vnexpress.net/ong-trump-muon-tham-gia-chon-lanh-tu-toi-cao-iran-5047187.html",
+      "summary": "Tổng thống Trump tuyên bố phải được tham gia quá trình chọn Lãnh tụ Tối cao mới của Iran, phản đối con trai cố lãnh tụ Khamenei nắm quyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T23:10:57+07:00",
+      "fetched": "2026-03-06T08:17:28.480454+07:00"
+    },
+    {
+      "id": "fd950f65b186354e7840afee201e0c7d",
+      "title": "Ông Trump muốn tham gia chọn Lãnh tụ Tối cao Iran",
+      "link": "https://vnexpress.net/ong-trump-muon-tham-gia-chon-lanh-tu-toi-cao-iran-5047187.html",
+      "summary": "Tổng thống Trump tuyên bố phải được tham gia quá trình chọn Lãnh tụ Tối cao mới của Iran, phản đối con trai cố lãnh tụ Khamenei nắm quyền.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T23:10:57+07:00",
+      "fetched": "2026-03-06T08:17:34.083246+07:00"
+    },
+    {
+      "id": "4e98eae240644667436f009bf99b6102",
+      "title": "Đi tù ở Mỹ tốn kém thế nào mà nhiều phạm nhân ra trại vẫn mang nợ",
+      "link": "https://vnexpress.net/di-tu-o-my-ton-kem-the-nao-ma-nhieu-pham-nhan-ra-trai-van-mang-no-5047159.html",
+      "summary": "Nhiều phạm nhân Mỹ phải trả tiền cho chỗ ngủ trong tù cùng phí ăn uống, khám bệnh, điện thoại... khiến không ít người khi được tự do lại vướng khoản nợ hàng chục nghìn USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T23:00:00+07:00",
+      "fetched": "2026-03-06T08:17:28.480611+07:00"
+    },
+    {
+      "id": "cb0941a46836c4c35af8b13399666742",
+      "title": "Vì sao Iran là 'pháo đài' phòng thủ trong nhiều thế kỷ?",
+      "link": "https://vnexpress.net/vi-sao-iran-la-phao-dai-phong-thu-trong-nhieu-the-ky-5047149.html",
+      "summary": "Sở hữu vị trí chiến lược khi giáp 7 quốc gia, Iran khó bị xâm lược nhờ 4 \"tấm khiên\" địa lý tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T23:00:00+07:00",
+      "fetched": "2026-03-06T08:17:28.480764+07:00"
     },
     {
       "id": "e0a64f4c338a579148339d965bf638e1",
