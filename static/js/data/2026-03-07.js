@@ -1,7 +1,137 @@
 window.newsData_2026_03_07 = {
   "date": "2026-03-07",
-  "lastUpdated": "2026-03-07T21:16:22.852683+07:00",
+  "lastUpdated": "2026-03-07T23:17:23.399971+07:00",
   "articles": [
+    {
+      "id": "e8dccf053e05eb5ff38717925615faf2",
+      "title": "Pixar làm phim về tâm linh châu Á sau cú nổ của Inside out 2",
+      "link": "https://tuoitre.vn/pixar-lam-phim-ve-tam-linh-chau-a-sau-cu-no-cua-inside-out-2-20260307194935726.htm",
+      "summary": "Pixar đang âm thầm phát triển nhiều bom tấn hoạt hình, sắp sửa trình làng cho người hâm mộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:17:16.395488+07:00",
+      "fetched": "2026-03-07T23:17:16.395598+07:00"
+    },
+    {
+      "id": "0267b58ca685fdf25d860afee25b1935",
+      "title": "Chốt lời cổ phiếu dầu khí, quyết định khó của nhà đầu tư",
+      "link": "https://tuoitre.vn/chot-loi-co-phieu-dau-khi-quyet-dinh-kho-cua-nha-dau-tu-20260307190333288.htm",
+      "summary": "Sau giai đoạn tăng nóng của cổ phiếu dầu khí, nhiều nhà đầu tư bắt đầu đối mặt với một bài toán quen thuộc nhưng không hề dễ: nên tiếp tục nắm giữ hay chốt lời?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:17:16.395361+07:00",
+      "fetched": "2026-03-07T23:17:16.395477+07:00"
+    },
+    {
+      "id": "84d8c6ed2a58a47b60d59966c88e968a",
+      "title": "Thủ môn Trung Kiên không thể cứu Hoàng Anh Gia Lai",
+      "link": "https://tuoitre.vn/thu-mon-trung-kien-khong-the-cuu-hoang-anh-gia-lai-20260307203049828.htm",
+      "summary": "Thi đấu xuất sắc với nhiều pha cứu thua, nhưng thủ môn Trung Kiên cũng không thể giúp CLB Hoàng Anh Gia Lai thoát thua trước Công An TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:17:16.395237+07:00",
+      "fetched": "2026-03-07T23:17:16.395350+07:00"
+    },
+    {
+      "id": "6b6f2e4750f10cf1425a48ad89408fc2",
+      "title": "HLV Vũ Tiến Thành ra mắt, CLB Ninh Bình bị đội cuối bảng cầm hòa",
+      "link": "https://tuoitre.vn/hlv-vu-tien-thanh-ra-mat-clb-ninh-binh-bi-doi-cuoi-bang-cam-hoa-2026030720372156.htm",
+      "summary": "CLB Ninh Bình bị đội cuối bảng Đà Nẵng cầm hòa 1-1 trong ngày ra mắt HLV tạm quyền Vũ Tiến Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:17:16.395109+07:00",
+      "fetched": "2026-03-07T23:17:16.395221+07:00"
+    },
+    {
+      "id": "0e32ad449bf57a872778d3f5bd9dfc09",
+      "title": "Thắng Ấn Độ 11-0, tuyển nữ Nhật Bản cầm vé vào tứ kết",
+      "link": "https://tuoitre.vn/thang-an-do-11-0-tuyen-nu-nhat-ban-cam-ve-vao-tu-ket-20260307203243989.htm",
+      "summary": "Tối 7-3, tuyển nữ Nhật Bản đã đánh bại Ấn Độ 11-0 ở lượt trận thứ 2 bảng C Giải bóng đá nữ châu Á 2026 tại Úc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:17:16.394983+07:00",
+      "fetched": "2026-03-07T23:17:16.395097+07:00"
+    },
+    {
+      "id": "606d6ddab94a8678c92bb002e8cfd818",
+      "title": "Hậu vệ CLB Hải Phòng 'dâng' bàn thắng cho Sông Lam Nghệ An",
+      "link": "https://tuoitre.vn/hau-ve-clb-hai-phong-dang-ban-thang-cho-song-lam-nghe-an-20260307203621266.htm",
+      "summary": "Đường chuyền về cẩu thả của trung vệ Bùi Tiến Dụng giúp Reon Moore ghi bàn duy nhất của trận đấu để giúp Sông Lam Nghệ An thắng 1-0 ở vòng 15 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:17:16.394832+07:00",
+      "fetched": "2026-03-07T23:17:16.394971+07:00"
+    },
+    {
+      "id": "96997aa30fe9204196106609b03c8796",
+      "title": "Thủ tướng: Không để thiếu xăng dầu, thiếu năng lượng",
+      "link": "https://tuoitre.vn/thu-tuong-khong-de-thieu-xang-dau-thieu-nang-luong-20260307205850684.htm",
+      "summary": "Thủ tướng yêu cầu không để thiếu xăng dầu, thiếu điện, thiếu năng lượng, xác định đây cũng là cơ hội để chuyển đổi năng lượng, phấn đấu tự chủ năng lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:17:16.394709+07:00",
+      "fetched": "2026-03-07T23:17:16.394821+07:00"
+    },
+    {
+      "id": "bb334c862f625402f0eaeb1188f37bf0",
+      "title": "Giá xăng dầu vọt lên, nhà xe nói 'không kham nổi', rục rịch tăng cước phí",
+      "link": "https://tuoitre.vn/gia-xang-dau-vot-len-nha-xe-noi-khong-kham-noi-ruc-rich-tang-cuoc-phi-20260307203559504.htm",
+      "summary": "Ngay khi giá xăng dầu điều chỉnh tăng mạnh từ chiều 7-3, đại diện một số nhà xe vận tải hàng hóa, hành khách buộc phải tính toán lại cước phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:17:16.394584+07:00",
+      "fetched": "2026-03-07T23:17:16.394698+07:00"
+    },
+    {
+      "id": "fba8696d6e3c95f6bade9864b9cf2491",
+      "title": "Công khai quy hoạch 1/2000 Khu đô thị Đại học Quốc tế tại TP.HCM rộng 8,8km²",
+      "link": "https://tuoitre.vn/cong-khai-quy-hoach-1-2000-khu-do-thi-dai-hoc-quoc-te-tai-tp-hcm-rong-8-8km2-2026030721224208.htm",
+      "summary": "UBND xã Xuân Thới Sơn (TP.HCM) vừa công khai quyết định phê duyệt quy hoạch 1/2000 Khu đô thị Đại học Quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:17:16.394456+07:00",
+      "fetched": "2026-03-07T23:17:16.394572+07:00"
+    },
+    {
+      "id": "cd9d43950c94086ec02f7685bb80a88c",
+      "title": "Bắt nhóm người đánh gục một thiếu niên ở Phú Quốc",
+      "link": "https://tuoitre.vn/bat-nhom-nguoi-danh-guc-mot-thieu-nien-o-phu-quoc-20260307202205012.htm",
+      "summary": "Công an đặc khu Phú Quốc (tỉnh An Giang) đã bắt được nhóm thanh thiếu niên đánh hội đồng một thanh thiếu niên nằm gục giữa đường ở đặc khu Phú Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:17:16.394321+07:00",
+      "fetched": "2026-03-07T23:17:16.394443+07:00"
+    },
+    {
+      "id": "60d2655066d8b6148c780d7f8912b565",
+      "title": "Video: Ghi 11 bàn, tuyển nữ Nhật Bản vùi dập Ấn Độ không thương tiếc",
+      "link": "https://tuoitre.vn/video-ghi-11-ban-tuyen-nu-nhat-ban-vui-dap-an-do-khong-thuong-tiec-20260307211654558.htm",
+      "summary": "Tối 7-3, tuyển nữ Nhật Bản có chiến thắng \"hủy diệt\" trước Ấn Độ với tỉ số 11-0 tại lượt trận thứ hai bảng C, Giải bóng đá nữ châu Á (Asian Cup nữ) 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:17:16.394186+07:00",
+      "fetched": "2026-03-07T23:17:16.394309+07:00"
+    },
+    {
+      "id": "7a99b65df8e6eff4b49c897c963710b2",
+      "title": "HLV Vũ Tiến Thành: 'Không nghĩ Văn Toản bắt xuất thần như vậy'",
+      "link": "https://tuoitre.vn/hlv-vu-tien-thanh-khong-nghi-van-toan-bat-xuat-than-nhu-vay-2026030721250546.htm",
+      "summary": "HLV tạm quyền Vũ Tiến Thành của CLB Ninh Bình sửng sốt trước màn trình diễn của thủ môn Nguyễn Văn Toản bên phía Đà Nẵng ở trận hòa 1-1 tối 7-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:17:16.394047+07:00",
+      "fetched": "2026-03-07T23:17:16.394174+07:00"
+    },
+    {
+      "id": "bf887059f5495958031612e38901d573",
+      "title": "Xếp hạng Asian Cup nữ 2026: Việt Nam xuống hạng 3 bảng C",
+      "link": "https://tuoitre.vn/xep-hang-asian-cup-nu-2026-viet-nam-xuong-hang-3-bang-c-20260307215951651.htm",
+      "summary": "Tuyển nữ Việt Nam đã rơi xuống vị trí thứ 3 bảng C sau hai lượt trận vòng bảng Giải bóng đá nữ châu Á (Asian Cup nữ) 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:17:16.393859+07:00",
+      "fetched": "2026-03-07T23:17:16.394032+07:00"
+    },
     {
       "id": "703a9c05251b9515aa16d1f2d036def9",
       "title": "Lady Gaga hé lộ kế hoạch đám cưới với triệu phú công nghệ Michael Polansky",
@@ -393,6 +523,26 @@ window.newsData_2026_03_07 = {
       "fetched": "2026-03-07T17:14:40.316950+07:00"
     },
     {
+      "id": "49bb6897c8f7eceb00b979a06e76fc60",
+      "title": "HLV Park Hang-seo ngỏ ý BTC mời đội bóng sinh viên Hàn Quốc dự giải Thanh Niên sinh viên quốc tế",
+      "link": "https://thanhnien.vn/hlv-park-hang-seo-ngo-y-btc-moi-doi-bong-sinh-vien-han-quoc-du-giai-thanh-nien-sinh-vien-quoc-te-185260307224707934.htm",
+      "summary": "Sự xuất hiện của chiến lược gia người Hàn Quốc Park Hang-seo tại sân bóng Trường ĐH Nha Trang không chỉ tiếp thêm lửa cho các cầu thủ sinh viên mà còn khẳng định uy tín, sức lan tỏa mạnh mẽ của giải đấu năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T15:47:00+07:00",
+      "fetched": "2026-03-07T23:17:15.385852+07:00"
+    },
+    {
+      "id": "bb671493bc62f871a18e0805e6de48fe",
+      "title": "Tổng thống Iran xin lỗi các nước láng giềng trên truyền hình",
+      "link": "https://vnexpress.net/tong-thong-iran-xin-loi-cac-nuoc-lang-gieng-tren-truyen-hinh-5047827.html",
+      "summary": "Tổng tống Iran Masoud Pezeshkian đã xuất hiện trên truyền hình nhà nước xin lỗi các quốc gia láng giềng đã bị quân đội nước này tập kích trong cuộc chiến với liên quân Mỹ - Israel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T15:21:01+07:00",
+      "fetched": "2026-03-07T23:17:12.258586+07:00"
+    },
+    {
       "id": "decf4b0ec13e5b394bc51e7fc3054a6d",
       "title": "Tìm bị hại vụ án 2 chị em ruột sản xuất nước hoa giả trị giá hàng chục tỉ đồng",
       "link": "https://tuoitre.vn/tim-bi-hai-vu-an-2-chi-em-ruot-san-xuat-nuoc-hoa-gia-tri-gia-hang-chuc-ti-dong-20260307130650628.htm",
@@ -543,6 +693,126 @@ window.newsData_2026_03_07 = {
       "fetched": "2026-03-07T15:19:19.840729+07:00"
     },
     {
+      "id": "c46b5607594a0b915e88c9c47404d1ea",
+      "title": "Báo Malaysia: Cột mốc 100 năm của FAM là để tái thiết sau khủng hoảng",
+      "link": "https://thanhnien.vn/bao-malaysia-cot-moc-100-nam-cua-fam-la-de-tai-thiet-sau-khung-hoang-185260307220439139.htm",
+      "summary": "Báo New Straits Times cho rằng bóng đá Malaysia đang rơi vào giai đoạn đáng xấu hổ đúng thời điểm Liên đoàn Bóng đá Malaysia (FAM) chuẩn bị kỷ niệm 100 năm thành lập, sau bê bối liên quan đến 7 cầu thủ nhập tịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T15:16:00+07:00",
+      "fetched": "2026-03-07T23:17:15.386043+07:00"
+    },
+    {
+      "id": "a983e96fcf8ed03a66dbed5905df406e",
+      "title": "Chuyên gia bóng đá chỉ trích FAM vì chưa xin lỗi sau bê bối nhập tịch",
+      "link": "https://thanhnien.vn/chuyen-gia-bong-da-chi-trich-fam-vi-chua-xin-loi-sau-be-boi-nhap-tich-185260307220848554.htm",
+      "summary": "Một nhà phê bình bóng đá Malaysia đã chỉ trích Liên đoàn Bóng đá Malaysia (FAM) vì chưa đưa ra lời xin lỗi công khai sau khi Tòa án Trọng tài Thể thao (CAS) giữ nguyên án phạt liên quan đến bê bối cầu thủ nhập tịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T15:14:00+07:00",
+      "fetched": "2026-03-07T23:17:15.386201+07:00"
+    },
+    {
+      "id": "e306dabf8e8468228aec7aaedcba4a62",
+      "title": "'Chảo lửa'sinh viên Nha Trang gần 1.000 CĐV lấp kín khán đài ngày khai mạc",
+      "link": "https://thanhnien.vn/chao-luasinh-vien-nha-trang-gan-1000-cdv-lap-kin-khan-dai-ngay-khai-mac-185260307214356761.htm",
+      "summary": "Hơn 1.000 CĐV là sinh viên Trường ĐH Nha Trang phủ kín khán đài sân bóng của trường trong ngày khai mạc VCK giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 Cúp THACO, tiếp lửa cho đội chủ nhà ở trận đấu mở màn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T15:14:00+07:00",
+      "fetched": "2026-03-07T23:17:15.386352+07:00"
+    },
+    {
+      "id": "875fa629b16b161d3b8fc7e007f04a4a",
+      "title": "Thí điểm thông quan cuối tuần tại cửa khẩu Móng Cái",
+      "link": "https://thanhnien.vn/thi-diem-thong-quan-cuoi-tuan-tai-cua-khau-mong-cai-185260307200737249.htm",
+      "summary": "Ngày đầu thí điểm thông quan cuối tuần tại cửa khẩu Móng Cái (Quảng Ninh) đã có khoảng 450 tấn hàng hóa xuất nhập khẩu qua cầu Bắc Luân II.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T14:54:00+07:00",
+      "fetched": "2026-03-07T23:17:15.386506+07:00"
+    },
+    {
+      "id": "5a328977b1942a6622ac5b83bbd35b5e",
+      "title": "Ôtô cháy ngùn ngụt trước khu dân cư ở TP HCM",
+      "link": "https://vnexpress.net/oto-chay-ngun-ngut-truoc-khu-dan-cu-o-tp-hcm-5047824.html",
+      "summary": "Ôtô 9 chỗ đang được xe cứu hộ chở đi sửa chữa trên đường Võ Chí Công (TP Thủ Đức cũ) bất ngờ bốc cháy dữ dội, giao thông qua khu vực bị gián đoạn, tối 7/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T14:50:21+07:00",
+      "fetched": "2026-03-07T23:17:12.258763+07:00"
+    },
+    {
+      "id": "c36db324c7b6ec470e19ab0f8efff80b",
+      "title": "Ông Tập yêu cầu diệt trừ tham nhũng trong quân đội",
+      "link": "https://vnexpress.net/ong-tap-yeu-cau-diet-tru-tham-nhung-trong-quan-doi-5047820.html",
+      "summary": "Chủ tịch Tập Cận Bình yêu cầu quân đội Trung Quốc tiếp tục diệt trừ tham nhũng trong lực lượng và tăng cường lòng trung thành chính trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T14:48:26+07:00",
+      "fetched": "2026-03-07T23:17:12.258947+07:00"
+    },
+    {
+      "id": "c36db324c7b6ec470e19ab0f8efff80b",
+      "title": "Ông Tập yêu cầu diệt trừ tham nhũng trong quân đội",
+      "link": "https://vnexpress.net/ong-tap-yeu-cau-diet-tru-tham-nhung-trong-quan-doi-5047820.html",
+      "summary": "Chủ tịch Tập Cận Bình yêu cầu quân đội Trung Quốc tiếp tục diệt trừ tham nhũng trong lực lượng và tăng cường lòng trung thành chính trị.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-07T14:48:26+07:00",
+      "fetched": "2026-03-07T23:17:17.766136+07:00"
+    },
+    {
+      "id": "839a7ae61c43ad4ce5fe257287b36558",
+      "title": "Arsenal thắng nhọc CLB hạng Ba ở Cup FA",
+      "link": "https://vnexpress.net/arsenal-thang-nhoc-clb-hang-ba-o-cup-fa-5047819.html",
+      "summary": "Đội hình nhiều cầu thủ dự bị của Arsenal thắng nhọc 2-1 trên sân Mansfield Town để vào tứ kết Cup FA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T14:44:48+07:00",
+      "fetched": "2026-03-07T23:17:12.259104+07:00"
+    },
+    {
+      "id": "839a7ae61c43ad4ce5fe257287b36558",
+      "title": "Arsenal thắng nhọc CLB hạng Ba ở Cup FA",
+      "link": "https://vnexpress.net/arsenal-thang-nhoc-clb-hang-ba-o-cup-fa-5047819.html",
+      "summary": "Đội hình nhiều cầu thủ dự bị của Arsenal vất vả thắng 2-1 trên sân Mansfield Town để vào tứ kết Cup FA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-07T14:44:48+07:00",
+      "fetched": "2026-03-07T23:17:23.386960+07:00"
+    },
+    {
+      "id": "b479e655ffa57248b836ebfbfc2e1800",
+      "title": "Vụ trường tiểu học Iran trúng tên lửa có thể do Mỹ gây ra",
+      "link": "https://vnexpress.net/vu-truong-tieu-hoc-iran-trung-ten-lua-co-the-do-my-gay-ra-5047666.html",
+      "summary": "Các nhà điều tra Mỹ tin rằng rất có thể lực lượng nước này đã phá hủy trường tiểu học Iran hôm 28/2 trong lúc nhắm mục tiêu vào căn cứ hải quân gần đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T14:25:10+07:00",
+      "fetched": "2026-03-07T23:17:12.259264+07:00"
+    },
+    {
+      "id": "b479e655ffa57248b836ebfbfc2e1800",
+      "title": "Vụ trường tiểu học Iran trúng tên lửa có thể do Mỹ gây ra",
+      "link": "https://vnexpress.net/vu-truong-tieu-hoc-iran-trung-ten-lua-co-the-do-my-gay-ra-5047666.html",
+      "summary": "Các nhà điều tra Mỹ tin rằng rất có thể lực lượng nước này đã phá hủy trường tiểu học Iran hôm 28/2 trong lúc nhắm mục tiêu vào căn cứ hải quân gần đó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-07T14:25:10+07:00",
+      "fetched": "2026-03-07T23:17:17.766328+07:00"
+    },
+    {
+      "id": "047e9a93badffe1b1f423cba0393923c",
+      "title": "Highlight đội tuyển nữ Nhật Bản 11-0 Ấn Độ: Chiến thắng hủy diệt",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-nu-nhat-ban-11-0-an-do-chien-thang-huy-diet-185260307212330554.htm",
+      "summary": "Đội tuyển nữ Nhật Bản thể hiện sức mạnh vượt trội khi đánh bại đội tuyển nữ Ấn Độ với tỷ số 11-0 và chắc chắn nhất bảng C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T14:23:00+07:00",
+      "fetched": "2026-03-07T23:17:15.386660+07:00"
+    },
+    {
       "id": "3626236223fe1be2d9796f6e8274fbbc",
       "title": "Higlight CLB TP.HCM 0-0 ĐH Văn Hiến: Trận hòa nhạt nhòa",
       "link": "https://thanhnien.vn/higlight-clb-tphcm-0-0-dh-van-hien-tran-hoa-nhat-nhoa-185260307211457615.htm",
@@ -561,6 +831,26 @@ window.newsData_2026_03_07 = {
       "category": "Tổng hợp",
       "published": "2026-03-07T14:13:00+07:00",
       "fetched": "2026-03-07T21:16:15.141970+07:00"
+    },
+    {
+      "id": "a8099f71cb12a6eceb2721ae3a3a99a3",
+      "title": "Nhật Bản thắng hủy diệt trước khi đấu Việt Nam ở Asian Cup nữ 2026",
+      "link": "https://vnexpress.net/nhat-ban-thang-huy-diet-truoc-khi-dau-viet-nam-o-asian-cup-nu-2026-5047818.html",
+      "summary": "Nhật Bản đè bẹp Ấn Độ 11-0 ở lượt hai bảng C chiều 7/3, ở giải vô địch nữ châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T14:11:57+07:00",
+      "fetched": "2026-03-07T23:17:12.259415+07:00"
+    },
+    {
+      "id": "a8099f71cb12a6eceb2721ae3a3a99a3",
+      "title": "Nhật Bản thắng hủy diệt trước khi đấu Việt Nam ở Asian Cup nữ 2026",
+      "link": "https://vnexpress.net/nhat-ban-thang-huy-diet-truoc-khi-dau-viet-nam-o-asian-cup-nu-2026-5047818.html",
+      "summary": "Nhật Bản đè bẹp Ấn Độ 11-0 ở lượt hai bảng C chiều 7/3, ở giải vô địch nữ châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-07T14:11:57+07:00",
+      "fetched": "2026-03-07T23:17:23.387134+07:00"
     },
     {
       "id": "757c079f8f6c473af5eb629abd84a6f8",
@@ -583,6 +873,16 @@ window.newsData_2026_03_07 = {
       "fetched": "2026-03-07T21:16:15.142288+07:00"
     },
     {
+      "id": "e68f81696cc0871dd5844d3fecae466b",
+      "title": "Nước nào thải nhiều CO2 nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-thai-nhieu-co2-nhat-the-gioi-5047813.html",
+      "summary": "Lượng phát thải CO2 của nước này chiếm 1/3 tổng của thế giới. Bạn có biết đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T14:00:08+07:00",
+      "fetched": "2026-03-07T23:17:12.259566+07:00"
+    },
+    {
       "id": "681600d33728e3dde3f5eee8c49ada69",
       "title": "Toàn cảnh TNSV THACO Cup 2026 ngày 7.3: Chủ nhà kiên cường ngày ra quân, lễ khai mạc ấn tượng",
       "link": "https://thanhnien.vn/toan-canh-tnsv-thaco-cup-2026-ngay-73-chu-nha-kien-cuong-ngay-ra-quan-le-khai-mac-an-tuong-185260307210002345.htm",
@@ -591,6 +891,16 @@ window.newsData_2026_03_07 = {
       "category": "Tổng hợp",
       "published": "2026-03-07T14:00:00+07:00",
       "fetched": "2026-03-07T21:16:15.142442+07:00"
+    },
+    {
+      "id": "42910f9e3eb67ec24c05c75efa43e11c",
+      "title": "Thấy phiền khi anh bạn thuở nhỏ đã có vợ nhắn tin mỗi ngày",
+      "link": "https://vnexpress.net/thay-phien-khi-anh-ban-thuo-nho-da-co-vo-nhan-tin-moi-ngay-5047631.html",
+      "summary": "Tôi rất sợ vợ anh hoặc chồng tôi thấy những tin nhắn kiểu này, họ sẽ hiểu lầm mất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T14:00:00+07:00",
+      "fetched": "2026-03-07T23:17:12.259722+07:00"
     },
     {
       "id": "7673423e5eba864c35a0d128f01927b5",
@@ -611,6 +921,16 @@ window.newsData_2026_03_07 = {
       "category": "Thế giới",
       "published": "2026-03-07T13:49:48+07:00",
       "fetched": "2026-03-07T21:16:17.340598+07:00"
+    },
+    {
+      "id": "5fe763252fd9902f909a8492e71f368b",
+      "title": "Giành giật sự sống cho người phụ nữ suy đa tạng do 'sát thủ' não mô cầu",
+      "link": "https://vnexpress.net/gianh-giat-su-song-cho-nguoi-phu-nu-suy-da-tang-do-sat-thu-nao-mo-cau-5047508.html",
+      "summary": "Người phụ nữ 47 tuổi bị nhiễm khuẩn não mô cầu dẫn đến sốc nhiễm trùng, suy đa tạng, rối loạn đông máu, đe dọa tính mạng, được kíp bác sĩ cứu sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:43:25+07:00",
+      "fetched": "2026-03-07T23:17:12.260049+07:00"
     },
     {
       "id": "25b04b8a5e4bd150fae56bffe39f2b2b",
@@ -801,6 +1121,16 @@ window.newsData_2026_03_07 = {
       "category": "Tổng hợp",
       "published": "2026-03-07T13:27:31.207994+07:00",
       "fetched": "2026-03-07T13:27:31.208204+07:00"
+    },
+    {
+      "id": "43e781f809194153db6534067d68ba67",
+      "title": "Elle Fanning theo mốt móc khóa bằng sách tí hon",
+      "link": "https://vnexpress.net/elle-fanning-theo-mot-moc-khoa-bang-sach-ti-hon-5046650.html",
+      "summary": "Diễn viên Elle Fanning cùng một số sao Hollywood gây sốt khi lăng xê phụ kiện túi làm từ tiểu thuyết văn học kinh điển của Jane Austen, Mary Angelou.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:26:34+07:00",
+      "fetched": "2026-03-07T23:17:12.260364+07:00"
     },
     {
       "id": "212246b538916b5d1cf76aceb87cd9b7",
