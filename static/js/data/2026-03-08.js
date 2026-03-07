@@ -1,7 +1,37 @@
 window.newsData_2026_03_08 = {
   "date": "2026-03-08",
-  "lastUpdated": "2026-03-08T03:14:54.634280+07:00",
+  "lastUpdated": "2026-03-08T05:14:11.497598+07:00",
   "articles": [
+    {
+      "id": "2de1c2ee6f37cc7495f30990f209a111",
+      "title": "Nam giới muốn chọn cô gái có thể kiếm tiền mua thứ mình thích?",
+      "link": "https://tuoitre.vn/nam-gioi-muon-chon-co-gai-co-the-kiem-tien-mua-thu-minh-thich-20260307183141879.htm",
+      "summary": "Phụ nữ không phải chờ người yêu mua quà mà phải tự do kiếm tiền để mua những món đồ mình thích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T05:14:05.650844+07:00",
+      "fetched": "2026-03-08T05:14:05.650963+07:00"
+    },
+    {
+      "id": "dc442c7eae9ba3bf436d78ab227416e4",
+      "title": "Nữ thủ khoa ngành AI đầu tiên đạt điểm tuyệt đối khóa luận",
+      "link": "https://tuoitre.vn/nu-thu-khoa-nganh-ai-dau-tien-dat-diem-tuyet-doi-khoa-luan-202603072324106.htm",
+      "summary": "Võ Thu Trang đã xuất sắc tốt nghiệp thủ khoa khóa đầu tiên ngành trí tuệ nhân tạo (AI), với hành trình học cũng có tính khai phá khi AI còn là ngành học mới mẻ tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T05:14:05.650702+07:00",
+      "fetched": "2026-03-08T05:14:05.650831+07:00"
+    },
+    {
+      "id": "ad8f8443a3ed63d399a633834b9dd6f8",
+      "title": "Tin tức sáng 8-3: Do căng thẳng Trung Đông, hải quan hỏa tốc hỗ trợ doanh nghiệp",
+      "link": "https://tuoitre.vn/tin-tuc-sang-8-3-do-cang-thang-trung-dong-hai-quan-hoa-toc-ho-tro-doanh-nghiep-2026030711571124.htm",
+      "summary": "Một số tin tức đáng chú ý: Tập đoàn Trung Quốc nộp hồ sơ mua hơn 120 triệu cổ phiếu công ty dược nghìn tỉ; Chứng khoán VIX không có cổ đông lớn; Cần Thơ tổ chức nhiều hoạt động dịp giỗ Tổ Hùng Vương...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T05:14:05.650461+07:00",
+      "fetched": "2026-03-08T05:14:05.650686+07:00"
+    },
     {
       "id": "0267b58ca685fdf25d860afee25b1935",
       "title": "Chốt lời cổ phiếu dầu khí, quyết định khó của nhà đầu tư",
@@ -151,6 +181,136 @@ window.newsData_2026_03_08 = {
       "category": "Tổng hợp",
       "published": "2026-03-08T01:20:44.822470+07:00",
       "fetched": "2026-03-08T01:20:44.822678+07:00"
+    },
+    {
+      "id": "92b58c6494c7eff887d4b5148fe2a63b",
+      "title": "Hôm nay ngày Quốc tế phụ nữ 8.3: Nguồn gốc ngày này từ đâu?",
+      "link": "https://thanhnien.vn/hom-nay-ngay-quoc-te-phu-nu-83-nguon-goc-ngay-nay-tu-dau-185260306075658181.htm",
+      "summary": "Hôm nay là ngày Quốc tế phụ nữ 8.3, nhiều người dành lời chúc mừng tới 'một nửa thế giới'. Vậy, ngày này có nguồn gốc và ý nghĩa thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T22:05:00+07:00",
+      "fetched": "2026-03-08T05:14:02.295351+07:00"
+    },
+    {
+      "id": "54052b0532b4271f52321236ba1c17f3",
+      "title": "Cuộc 'cách mạng số' trên các sạp hàng cũ",
+      "link": "https://thanhnien.vn/cuoc-cach-mang-so-tren-cac-sap-hang-cu-18526030517313899.htm",
+      "summary": "Từng là biểu tượng giao thương sầm uất bậc nhất Hà thành, nhưng trước sự bùng nổ của thương mại điện tử, những ngôi chợ huyền thoại như Đồng Xuân, chợ Hôm - Đức Viên đang đứng trước bài toán sinh tồn. Các tiểu thương tại đây đang nỗ lực từng bước đưa sạp hàng lên không gian số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T22:00:00+07:00",
+      "fetched": "2026-03-08T05:14:02.295557+07:00"
+    },
+    {
+      "id": "74889505b0c742ed772c9ef2562704e8",
+      "title": "Chủ nhà thể hiện bản lĩnh",
+      "link": "https://thanhnien.vn/chu-nha-the-hien-ban-linh-185260307231229343.htm",
+      "summary": "Ngày khai màn VCK TNSV THACO cup 2026 (7.3) diễn ra những trận đấu đầy gay cấn. Trong đó, đội Trường ĐH Nha Trang đã thể hiện bản lĩnh chủ nhà, thi đấu kiên cường để giữ lại điểm số trước tân binh đầy tham vọng đến từ khu vực phía bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T21:51:00+07:00",
+      "fetched": "2026-03-08T05:14:02.295729+07:00"
+    },
+    {
+      "id": "787887f919b49a0120290f8f67f76aa2",
+      "title": "Mbappe bị đồn hẹn hò nữ diễn viên Tây Ban Nha",
+      "link": "https://vnexpress.net/mbappe-bi-don-hen-ho-nu-dien-vien-tay-ban-nha-5047846.html",
+      "summary": "Tin đồn Kylian Mbappe hẹn hò Ester Exposito lan nhanh trên mạng xã hội sau khi cả hai được cho xuất hiện cùng nhau tại Madrid và Paris.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-07T21:39:56+07:00",
+      "fetched": "2026-03-08T05:14:11.492673+07:00"
+    },
+    {
+      "id": "c7111d00be5f3978f25d1364cafe4e81",
+      "title": "Trách nhiệm của nam giới và toàn xã hội",
+      "link": "https://thanhnien.vn/trach-nhiem-cua-nam-gioi-va-toan-xa-hoi-185260307215323705.htm",
+      "summary": "Góp ý việc hoàn thiện chính sách hỗ trợ, khuyến khích phụ nữ sinh con, TS Phạm Thị Lan, Trưởng phòng Phát triển dân số, Quỹ Dân số LHQ (UNFPA), khuyến nghị các chính sách không nên áp dụng \"rập khuôn\"...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T21:38:00+07:00",
+      "fetched": "2026-03-08T05:14:03.474399+07:00"
+    },
+    {
+      "id": "653c8f412b7257d91feba03948ef6c83",
+      "title": "Nữ nghệ sĩ bước lên không gian số cùng bản sắc Việt",
+      "link": "https://thanhnien.vn/nu-nghe-si-buoc-len-khong-gian-so-cung-ban-sac-viet-185260305165530188.htm",
+      "summary": "Từ lựa chọn tưởng như ngược dòng với một thể loại âm nhạc đã gần như bị lãng quên - Xẩm, Hà Myo từng bước xây dựng thương hiệu cá nhân trên không gian số, mở ra hướng đi mới để lan tỏa di sản trong thời đại số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T21:38:00+07:00",
+      "fetched": "2026-03-08T05:14:03.474807+07:00"
+    },
+    {
+      "id": "942d871a79bb0f8116adf7ef04cf1f64",
+      "title": "Cựu vô địch 100m thế giới đăng ảnh AI đối đầu các tổ chức chống doping",
+      "link": "https://vnexpress.net/cuu-vo-dich-100m-the-gioi-dang-anh-ai-doi-dau-cac-to-chuc-chong-doping-5047829.html",
+      "summary": "Fred Kerley, VĐV người Mỹ vô địch thế giới 100m năm 2022, phản ứng mạnh mẽ sau khi nhận án cấm thi đấu hai năm vì vi phạm quy định khai báo nơi ở phục vụ kiểm tra doping.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-07T21:31:48+07:00",
+      "fetched": "2026-03-08T05:14:11.492832+07:00"
+    },
+    {
+      "id": "3dd3fd98b2fb895af599ed3d9bf73fdf",
+      "title": "Đầu bếp Brazil tố Neymar bắt làm việc quá giờ, phục vụ 150 người",
+      "link": "https://vnexpress.net/dau-bep-brazil-to-neymar-bat-lam-viec-qua-gio-phuc-vu-150-nguoi-5047845.html",
+      "summary": "Một đầu bếp kiện Neymar, cho rằng cô phải làm việc tới 16 giờ mỗi ngày để nấu ăn cho cầu thủ này cùng đoàn tùy tùng đông tới 150 người, dẫn đến nhiều vấn đề sức khỏe.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-07T21:27:01+07:00",
+      "fetched": "2026-03-08T05:14:11.492990+07:00"
+    },
+    {
+      "id": "7d1573ac0dcaf0fd8fe9184bfb3c33c0",
+      "title": "Đẩy nhanh đường kết nối sân bay Gia Bình về Hà Nội",
+      "link": "https://thanhnien.vn/day-nhanh-duong-ket-noi-san-bay-gia-binh-ve-ha-noi-185260307222818993.htm",
+      "summary": "Sáng 7.3, tại Bắc Ninh, Thủ tướng Phạm Minh Chính đã kiểm tra thực địa dự án cảng hàng không quốc tế Gia Bình và các dự án giao thông kết nối; và có cuộc làm việc với các bộ, ngành, cơ quan, địa phương về tiến độ triển khai dự án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T21:25:00+07:00",
+      "fetched": "2026-03-08T05:14:03.474976+07:00"
+    },
+    {
+      "id": "948bdfc362754c7d904df5436e2e9f85",
+      "title": "Thêm chính sách hỗ trợ phụ nữ sinh con",
+      "link": "https://thanhnien.vn/them-chinh-sach-ho-tro-phu-nu-sinh-con-185260307221453034.htm",
+      "summary": "Nhiều chuyên gia cho rằng chính sách hỗ trợ, khuyến khích sinh con hiện chủ yếu là hỗ trợ tài chính một lần, chưa đủ mạnh và đồng bộ, trong khi những rào cản 'gốc rễ' như chi phí nuôi dạy con, nhà ở, việc làm và hệ thống an sinh xã hội chưa được giải quyết đồng bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T21:25:00+07:00",
+      "fetched": "2026-03-08T05:14:03.475136+07:00"
+    },
+    {
+      "id": "7159bb69e04b7b76668ed0088d4ef5a4",
+      "title": "Chiến dịch Mỹ chống Iran sẽ kéo dài bao lâu?",
+      "link": "https://thanhnien.vn/chien-dich-my-chong-iran-se-keo-dai-bao-lau-185260307220925382.htm",
+      "summary": "Một tuần sau khi Mỹ và Israel phát động chiến dịch tấn công Iran, Tổng thống Mỹ Donald Trump đưa ra yêu cầu mới nhưng đã bị Tổng thống Iran Masoud Pezeshkian bác bỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T21:22:00+07:00",
+      "fetched": "2026-03-08T05:14:03.475288+07:00"
+    },
+    {
+      "id": "b3e9e7ad2ab1100bba82862097e0f2e5",
+      "title": "Áp lực nhiều vai trò ở phụ nữ hiện đại: Nhận diện và xử lý kiệt sức",
+      "link": "https://thanhnien.vn/ap-luc-nhieu-vai-tro-o-phu-nu-hien-dai-nhan-dien-va-xu-ly-kiet-suc-185260307204012286.htm",
+      "summary": "Tiến sĩ - bác sĩ Bùi Phạm Minh Mẫn, Phó trưởng khoa phụ trách Khoa Y học cổ truyền, Trường đại học Khoa học Sức khỏe - Đại học Quốc gia TP.HCM; chuyên gia - Bệnh viện Đại học Y Dược TP.HCM - cơ sở 3, ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T21:09:00+07:00",
+      "fetched": "2026-03-08T05:14:05.025300+07:00"
+    },
+    {
+      "id": "086e3ebb2b4bed9dbaf0fe9b933070cd",
+      "title": "Tình hình Iran, Trung Đông mới nhất sáng 8.3: UAE tuyên bố đang trong thời chiến",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-sang-83-185260307213503248.htm",
+      "summary": "Xung đột giữa Mỹ - Israel với Iran ngày càng trở nên phức tạp khi các nước láng giềng của Iran tại Trung Đông, vùng Vịnh bắt đầu có phản ứng rõ hơn khi bị kéo vào căng thẳng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T21:00:00+07:00",
+      "fetched": "2026-03-08T05:14:05.025755+07:00"
     },
     {
       "id": "e58546f1940a36d7f2813d5ce7b04ac9",
