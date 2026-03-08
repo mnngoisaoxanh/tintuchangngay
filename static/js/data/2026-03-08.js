@@ -1,7 +1,97 @@
 window.newsData_2026_03_08 = {
   "date": "2026-03-08",
-  "lastUpdated": "2026-03-08T21:17:07.615798+07:00",
+  "lastUpdated": "2026-03-08T23:17:28.555196+07:00",
   "articles": [
+    {
+      "id": "1749630f099ed7714de6051cc437871b",
+      "title": "Một tô phở, một ngày 8-3… và giọt nước mắt xúc động",
+      "link": "https://tuoitre.vn/mot-to-pho-mot-ngay-8-3-va-giot-nuoc-mat-xuc-dong-20260308203030487.htm",
+      "summary": "Sáng 8-3 ở Bàu Bàng…, một gia đình nhỏ 3 người lặng lẽ bước vào lễ hội “Phở yêu thương” với tâm trạng từ dè dặt đến háo hứng và hạnh phúc vì niềm vui đến bất ngờ",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T23:17:20.159876+07:00",
+      "fetched": "2026-03-08T23:17:20.160003+07:00"
+    },
+    {
+      "id": "b3076b3d6ad0d009501d64e5ae5c0b05",
+      "title": "Đài Bắc Trung Hoa lật đổ Trung Quốc ở giải cầu lông danh giá nhất thế giới",
+      "link": "https://tuoitre.vn/dai-bac-trung-hoa-lat-do-trung-quoc-o-giai-cau-long-danh-gia-nhat-the-gioi-20260308202956276.htm",
+      "summary": "Địa chấn xuất hiện liên tiếp ở All England Open (Giải cầu lông Toàn Anh), khi các tay vợt của Đài Bắc Trung Hoa (Đài Loan) vươn lên mạnh mẽ để lật đổ sự thống trị của Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T23:17:20.159743+07:00",
+      "fetched": "2026-03-08T23:17:20.159863+07:00"
+    },
+    {
+      "id": "cec6c59daa93b10ee5920feee30642d8",
+      "title": "Nhà máy lọc dầu Dung Quất vận hành cao độ, có nguồn nguyên liệu nhập từ 2 tập đoàn Mỹ",
+      "link": "https://tuoitre.vn/nha-may-loc-dau-dung-quat-van-hanh-cao-do-co-nguon-nguyen-lieu-nhap-tu-2-tap-doan-my-20260308190601882.htm",
+      "summary": "Nhà máy lọc dầu Dung Quất chủ động kích hoạt các phương án quản trị rủi ro, duy trì vận hành ổn định và đẩy mạnh sản xuất, đảm bảo nguồn cung xăng dầu cho thị trường trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T23:17:20.159587+07:00",
+      "fetched": "2026-03-08T23:17:20.159729+07:00"
+    },
+    {
+      "id": "a4bcf1873862bb8a2fa6178ab29f0ec1",
+      "title": "HLV Popov có chiến thắng ngọt ngào trong kỷ niệm trận thứ 100 ở V-League",
+      "link": "https://tuoitre.vn/hlv-popov-co-chien-thang-ngot-ngao-trong-ky-niem-tran-thu-100-o-v-league-20260308205735183.htm",
+      "summary": "Cầu thủ CLB Thể Công - Viettel tặng cho ông thầy Velizar Popov một chiến thắng trong ngày 8-3, cũng là trận đấu thứ 100 của nhà cầm quân này tại V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T23:17:20.159118+07:00",
+      "fetched": "2026-03-08T23:17:20.159570+07:00"
+    },
+    {
+      "id": "9bd5a42112e86264ebb93e79a436cd97",
+      "title": "Tôn vinh những bộ sách có sức sống xã hội và tinh thần phụng sự Tổ quốc",
+      "link": "https://tuoitre.vn/ton-vinh-nhung-bo-sach-co-suc-song-xa-hoi-va-tinh-than-phung-su-to-quoc-20260308212331738.htm",
+      "summary": "Buổi họp báo về Giải thưởng Sách quốc gia lần thứ 8 (từ trái qua): Phó chủ tịch thường trực Hội Xuất bản Việt Nam Đỗ Quang Dũng; ông Tống Văn Thanh - Vụ trưởng Vụ Báo chí, Xuất bản, Ban Tuyên giáo và ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T23:17:18.184100+07:00",
+      "fetched": "2026-03-08T23:17:20.159087+07:00"
+    },
+    {
+      "id": "a4dcf9c9010958ed0b0578953825fd51",
+      "title": "Máy bay Nga sơ tán giúp 117 công dân Iran khỏi Lebanon",
+      "link": "https://tuoitre.vn/may-bay-nga-so-tan-giup-117-cong-dan-iran-khoi-lebanon-2026030821140906.htm",
+      "summary": "Hơn 100 người Iran, trong đó có nhiều nhân viên ngoại giao, đã sơ tán khỏi Lebanon trong đêm nhờ sự hỗ trợ của Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T23:17:18.183970+07:00",
+      "fetched": "2026-03-08T23:17:18.184088+07:00"
+    },
+    {
+      "id": "a98b82dd39d5e85b306dd65e1492193a",
+      "title": "Video: Duy Mạnh, Văn Chuẩn 'thi nhau' cứu thua cho CLB Hà Nội",
+      "link": "https://tuoitre.vn/video-duy-manh-van-chuan-thi-nhau-cuu-thua-cho-clb-ha-noi-2026030822004797.htm",
+      "summary": "CLB Hà Nội giành chiến thắng 2-1 trong trận “derby thủ đô” trước Công An Hà Nội. Trong đó trung vệ Duy Mạnh và thủ môn Văn Chuẩn đã thi đấu kiên cường, liên tiếp cứu thua cho Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T23:17:18.183839+07:00",
+      "fetched": "2026-03-08T23:17:18.183958+07:00"
+    },
+    {
+      "id": "11334bd6a97994256d2eda53855e9b05",
+      "title": "HLV Harry Kewell nức lời khen Đỗ Hoàng Hên",
+      "link": "https://tuoitre.vn/hlv-harry-kewell-nuc-loi-khen-do-hoang-hen-20260308221030444.htm",
+      "summary": "HLV trưởng CLB Hà Nội Harry Kewell không tiếc lời khen học trò Đỗ Hoàng Hên với màn trình diễn chói sáng trong trận thắng Công An Hà Nội ở vòng 15 LPBank V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T23:17:18.183696+07:00",
+      "fetched": "2026-03-08T23:17:18.183826+07:00"
+    },
+    {
+      "id": "d78fe3dc8177ef335dc9d7b20a7cb110",
+      "title": "Tuyển nữ Việt Nam được khích lệ trong ngày 8-3",
+      "link": "https://tuoitre.vn/tuyen-nu-viet-nam-duoc-khich-le-trong-ngay-8-3-20260308222751481.htm",
+      "summary": "Tuyển nữ Việt Nam được đại diện Tổng lãnh sự quán Việt Nam tại thành phố Perth (Úc) cùng cộng đồng người Việt đến động viên, tiếp lửa trước trận đấu với Nhật Bản tại Asian Cup nữ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T23:17:18.183467+07:00",
+      "fetched": "2026-03-08T23:17:18.183681+07:00"
+    },
     {
       "id": "e3d51b2403ab982c4ae776e11afd4c41",
       "title": "JICA sẵn sàng cùng Việt Nam hướng đến mục tiêu phát triển 2045",
@@ -343,6 +433,36 @@ window.newsData_2026_03_08 = {
       "fetched": "2026-03-08T17:16:08.854355+07:00"
     },
     {
+      "id": "c84bb86d30da1e9c6eaf1c09cc63ceec",
+      "title": "Tỉ phú sáng lập AirAsia có động thái ‘lạ’ muốn gia nhập FAM, bóng đá Malaysia hóng AFC ra án",
+      "link": "https://thanhnien.vn/ti-phu-sang-lap-airasia-co-dong-thai-la-muon-gia-nhap-fam-bong-da-malaysia-hong-afc-ra-an-185260308224432784.htm",
+      "summary": "Cựu Tổng thư ký Liên đoàn Bóng đá Malaysia (FAM) Saifuddin Abu Bakar kêu gọi các bên ngừng tranh cãi về án phạt của FIFA, thay vào đó tập trung tái thiết bóng đá Malaysia sau bê bối liên quan đến cầu thủ nhập tịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T16:15:00+07:00",
+      "fetched": "2026-03-08T23:17:17.056922+07:00"
+    },
+    {
+      "id": "fefe3513aa1b2384ba297c4f44bcecf3",
+      "title": "Xuất hiện thêm clip thiếu nữ ẩu đả tại nơi nam sinh lớp 10 bị đánh hội đồng ở Phú Quốc",
+      "link": "https://thanhnien.vn/xuat-hien-them-clip-thieu-nu-au-da-tai-noi-nam-sinh-lop-10-bi-danh-hoi-dong-o-phu-quoc-18526030822213759.htm",
+      "summary": "Tối 8.3, một đoạn clip dài gần 3 phút tiếp tục lộ diện ghi lại cảnh hai thiếu nữ giằng co, vật nhau dã man ngay tại hiện trường vụ nam sinh lớp 10 bị đánh hội đồng ở đặc khu Phú Quốc. Công an địa phương đang khẩn trương truy tìm người quay và đăng tải các video này để phục vụ công tác điều tra, xử l...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:56:00+07:00",
+      "fetched": "2026-03-08T23:17:17.057099+07:00"
+    },
+    {
+      "id": "329c1ae5c6ce7d82bbf3ae6ef2169ef0",
+      "title": "Đạp ga kịch sàn",
+      "link": "https://vnexpress.net/dap-ga-kich-san-khi-dang-kiem-vi-sao-phai-thu-den-gioi-han-5048016.html",
+      "summary": "Nhà tôi sát trạm đăng kiểm, cạnh một tiệm cà phê tôi thường mua mỗi sáng. Tôi đã quen với hình ảnh hàng dài xe tải, xe khách nối đuôi nhau trong làn khói mờ mặt gương và mùi dầu diesel đặc trưng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:35:59+07:00",
+      "fetched": "2026-03-08T23:17:13.740461+07:00"
+    },
+    {
       "id": "f9cf0d87fbdf20adbc07228ddc7fb1d2",
       "title": "Thiếu niên bị đánh nằm gục giữa đường ở Phú Quốc là học sinh lớp 10",
       "link": "https://tuoitre.vn/thieu-nien-bi-danh-nam-guc-giua-duong-o-phu-quoc-la-hoc-sinh-lop-10-20260308113445819.htm",
@@ -493,6 +613,236 @@ window.newsData_2026_03_08 = {
       "fetched": "2026-03-08T15:20:05.744839+07:00"
     },
     {
+      "id": "61ac0c5f257d40a5897e3dd0648b94c9",
+      "title": "Highlight đội tuyển nữ Iran 0-3 Philippines: Đại diện Đông Nam Á mở toang cửa vào tứ kết",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-nu-iran-0-3-philippines-dai-dien-dong-nam-a-mo-toang-cua-vao-tu-ket-185260308222045392.htm",
+      "summary": "Philippines thắng thuyết phục đội tuyển nữ Iran 3-0 ở lượt trận quyết định, qua đó nắm lợi thế lớn trong cuộc đua giành vé vào tứ kết tại Asian Cup nữ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:00+07:00",
+      "fetched": "2026-03-08T23:17:17.057290+07:00"
+    },
+    {
+      "id": "7ab33144cfd423d5a7c1e052e53dcb11",
+      "title": "Giải thưởng Sách quốc gia: Sách lịch sử - khoa học thắng 'áp đảo'",
+      "link": "https://thanhnien.vn/giai-thuong-sach-quoc-gia-sach-lich-su-khoa-hoc-thang-ap-dao-185260308220642507.htm",
+      "summary": "'Lịch sử Việt Nam bằng hình' và 'Lịch sử Văn minh thế giới' cùng 48 cuốn sách, bộ sách tiêu biểu đã được xướng tên tại Giải thưởng Sách quốc gia lần thứ 8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:17:00+07:00",
+      "fetched": "2026-03-08T23:17:17.057451+07:00"
+    },
+    {
+      "id": "0da7a8a7789ff69d840bf215d4cf674c",
+      "title": "Đề xuất hỗ trợ đến 100% phí thuê giải pháp công nghệ số cho hộ kinh doanh",
+      "link": "https://vnexpress.net/de-xuat-ho-tro-den-100-phi-thue-giai-phap-cong-nghe-so-cho-ho-kinh-doanh-5047973.html",
+      "summary": "Hộ kinh doanh, doanh nghiệp, hợp tác xã siêu nhỏ có thể được hỗ trợ 100% chi phí thuê giải pháp công nghệ, thông qua phiếu hỗ trợ chuyển đổi số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:15:00+07:00",
+      "fetched": "2026-03-08T23:17:13.740651+07:00"
+    },
+    {
+      "id": "0a8a4c6f6e452fdff6f158ad4bf8282d",
+      "title": "Highlight Đồng Tháp 0-1 Bắc Ninh: Vỡ òa phút bù giờ",
+      "link": "https://thanhnien.vn/highlight-dong-thap-0-1-bac-ninh-vo-oa-phut-bu-gio-185260308221439142.htm",
+      "summary": "Bắc Ninh giành chiến thắng nghẹt thở 1-0 trước Đồng Tháp nhờ bàn thắng quyết định ở phút bù giờ, mang đến khoảnh khắc vỡ òa cho đội khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:14:00+07:00",
+      "fetched": "2026-03-08T23:17:17.057603+07:00"
+    },
+    {
+      "id": "294cb33a16d4523c33b633e98aae0e80",
+      "title": "Hà Nội FC 2-1 CAHN",
+      "link": "https://vnexpress.net/ha-noi-fc-2-1-cahn-5048040.html",
+      "summary": "Đỗ Hoàng Hên ghi cú đúp, giúp Hà Nội FC thắng trận derby thủ đô ở vòng 15 tối 8/3, và cắt mạch bất bại của CAHN tại V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:13:12+07:00",
+      "fetched": "2026-03-08T23:17:13.740818+07:00"
+    },
+    {
+      "id": "4373b351f640af2203df317b4e1e781a",
+      "title": "PVF-CAND 0-1 Nam Định",
+      "link": "https://vnexpress.net/pvf-cand-0-1-nam-dinh-5048039.html",
+      "summary": "Xuân Son lỡ nhiều cơ hội, nhưng Nam Định vẫn hạ chủ nhà PVF-CAND ở vòng 15 V-League 2025-2026 chiều 8/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:12:57+07:00",
+      "fetched": "2026-03-08T23:17:13.740978+07:00"
+    },
+    {
+      "id": "4f46d7d1b1233d51fd94d6d0df24609c",
+      "title": "TP HCM 1-3 Thể Công",
+      "link": "https://vnexpress.net/tp-hcm-1-3-the-cong-5048038.html",
+      "summary": "Các bàn của Văn Khang, Lucao và Wesley Nata giúp Thể Công hạ chủ nhà TP HCM ở vòng 15 để đứng nhì bảng V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:12:20+07:00",
+      "fetched": "2026-03-08T23:17:13.741170+07:00"
+    },
+    {
+      "id": "a7b0687529b4b312a894c4001719b797",
+      "title": "Highlight CLB Quy Nhơn 2-0 Trẻ PVF-CAND: Thế trận áp đảo",
+      "link": "https://thanhnien.vn/highlight-clb-quy-nhon-2-0-tre-pvf-cand-the-tran-ap-dao-185260308221252845.htm",
+      "summary": "CLB Quy Nhơn thể hiện thế trận vượt trội trước Trẻ PVF-CAND để giành chiến thắng 2-0 thuyết phục, với màn trình diễn áp đảo trong phần lớn thời gian trận đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:12:00+07:00",
+      "fetched": "2026-03-08T23:17:17.057760+07:00"
+    },
+    {
+      "id": "641cc36adc9d0074890ca3a2d7fc6118",
+      "title": "Highlight CLB Thanh niên TP.HCM 0-0 Khánh Hòa: Tấn công bế tắc",
+      "link": "https://thanhnien.vn/highlight-clb-thanh-nien-tphcm-0-0-khanh-hoa-tan-cong-be-tac-185260308221107755.htm",
+      "summary": "CLB Thanh niên TP.HCM và Khánh Hòa tạo ra thế trận giằng co nhưng thiếu đột biến, khi hàng công hai đội đều bế tắc và chấp nhận chia điểm với tỷ số 0-0.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:11:00+07:00",
+      "fetched": "2026-03-08T23:17:17.057918+07:00"
+    },
+    {
+      "id": "0ad17bd4adc0771d37a12440014ac59c",
+      "title": "Highlight Becamex TP.HCM 1-2 Thể Công Viettel: Dấu ấn Khuất Văn Khang",
+      "link": "https://thanhnien.vn/highlight-becamex-tphcm-1-2-the-cong-viettel-dau-an-khuat-van-khang-185260308220604907.htm",
+      "summary": "Thể Công Viettel đánh bại Becamex TP.HCM 2-1 trong trận đấu kịch tính, với dấu ấn nổi bật của Khuất Văn Khang trong hành trình giành trọn 3 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:05:00+07:00",
+      "fetched": "2026-03-08T23:17:17.058068+07:00"
+    },
+    {
+      "id": "e7f9ff152ac3efc31e0b82104eadf244",
+      "title": "Highlight CLB Hà Nội 2-0 CLB Công an Hà Nội: Chiến thắng điểm 10, quật ngã đội đầu bảng",
+      "link": "https://thanhnien.vn/highlight-clb-ha-noi-2-0-clb-cong-an-ha-noi-chien-thang-diem-10-quat-nga-doi-dau-bang-185260308220353684.htm",
+      "summary": "CLB Hà Nội trình diễn màn trình diễn gần như hoàn hảo để đánh bại CLB Công an Hà Nội 2-0, qua đó quật ngã đội đầu bảng bằng một chiến thắng thuyết phục cả về thế trận lẫn hiệu quả ghi bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:03:00+07:00",
+      "fetched": "2026-03-08T23:17:17.058238+07:00"
+    },
+    {
+      "id": "f7fbef40fa58b3b6d98ebc073939204d",
+      "title": "Highlight PVF-CAND 0-1 Nam Định: May mắn của Lucas",
+      "link": "https://thanhnien.vn/highlight-pvf-cand-0-1-nam-dinh-may-man-cua-lucas-185260308220212923.htm",
+      "summary": "Nam Định giành chiến thắng tối thiểu 1-0 trước PVF-CAND trong trận đấu nhiều khó khăn, với điểm nhấn là tình huống lập công đầy may mắn của Lucas giúp đội bóng thành Nam vượt qua đối thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:02:00+07:00",
+      "fetched": "2026-03-08T23:17:17.058388+07:00"
+    },
+    {
+      "id": "4d57eabec04a6a315746afbfd259c02a",
+      "title": "Ca sĩ Hoàng Dũng kết hôn",
+      "link": "https://vnexpress.net/ca-si-hoang-dung-ket-hon-5048025.html",
+      "summary": "Hoàng Dũng - 31 tuổi, chủ nhân hit \"Nàng thơ\" - tổ chức lễ cưới với bạn gái hồi đầu năm, đến nay mới công bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T14:55:34+07:00",
+      "fetched": "2026-03-08T23:17:13.741349+07:00"
+    },
+    {
+      "id": "1ea149339ee86e79cf4d5d2b62b7c672",
+      "title": "Thực hư thông tin UAE tham chiến chống Iran",
+      "link": "https://thanhnien.vn/thuc-hu-thong-tin-uae-tham-chien-chong-iran-185260308214906978.htm",
+      "summary": "Truyền thông loan tin UAE đã lần đầu tiên đáp trả Iran sau khi bị hàng ngàn tên lửa và máy bay không người lái của Tehran nhắm đến, nhưng Abu Dhabi đã bác bỏ thông tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T14:51:00+07:00",
+      "fetched": "2026-03-08T23:17:17.058536+07:00"
+    },
+    {
+      "id": "6032638bd26963fb3cbec888df70cef8",
+      "title": "Truy xét nhanh nhóm thiếu niên 13 - 14 tuổi trộm nhiều xe máy ở TP.HCM",
+      "link": "https://thanhnien.vn/truy-xet-nhanh-nhom-thieu-nien-13-14-tuoi-trom-nhieu-xe-may-o-tphcm-185260308212647841.htm",
+      "summary": "Chỉ sau vài giờ truy xét, Công an phường An Khánh (TP.HCM) đã làm rõ nhóm thiếu niên liên quan nhiều vụ trộm xe máy trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T14:40:00+07:00",
+      "fetched": "2026-03-08T23:17:17.058682+07:00"
+    },
+    {
+      "id": "15322c02a218b359d48d09fd85cc5197",
+      "title": "Công an Hà Nội thua trận đầu ở V-League 2025-2026",
+      "link": "https://vnexpress.net/cong-an-ha-noi-thua-tran-dau-o-v-league-2025-2026-5048019.html",
+      "summary": "Mạch bất bại của Công an Hà Nội tại V-League dừng lại ở 17 trận, sau khi thua Hà Nội FC 1-2 ở vòng 15 tối 8/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T14:32:30+07:00",
+      "fetched": "2026-03-08T23:17:13.741512+07:00"
+    },
+    {
+      "id": "15322c02a218b359d48d09fd85cc5197",
+      "title": "Công an Hà Nội thua trận đầu ở V-League 2025-2026",
+      "link": "https://vnexpress.net/cong-an-ha-noi-thua-tran-dau-o-v-league-2025-2026-5048019.html",
+      "summary": "Mạch bất bại của Công an Hà Nội tại V-League dừng lại ở 17 trận, sau khi thua Hà Nội FC 1-2 ở vòng 15 tối 8/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-08T14:32:30+07:00",
+      "fetched": "2026-03-08T23:17:28.543279+07:00"
+    },
+    {
+      "id": "4a6d549dc3e8da2f99e023a00d18bb4f",
+      "title": "Bảng xếp hạng V-League mới nhất: CLB CAHN dù thua vẫn ‘đỉnh nóc kịch trần’, HAGL vào thế nguy hiểm",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-clb-cahn-du-thua-van-dinh-noc-kich-tran-hagl-vao-the-nguy-hiem-185260308211103992.htm",
+      "summary": "CLB Công an Hà Nội (CAHN) nhận thất bại trước CLB Hà Nội ở trận đấu thuộc vòng 15 V-League 2025-2026. Dù vậy, đội bóng ngành công an vẫn đứng vững trên đỉnh bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T14:31:00+07:00",
+      "fetched": "2026-03-08T23:17:17.058830+07:00"
+    },
+    {
+      "id": "3c25facb96d1e144e8bff066a5369a6f",
+      "title": "Hơn 400.000 lượt khách tham gia lễ hội Việt - Nhật 2026",
+      "link": "https://thanhnien.vn/hon-400000-luot-khach-tham-gia-le-hoi-viet-nhat-2026-185260308210856181.htm",
+      "summary": "Tối 8.3, lễ hội Việt - Nhật lần thứ 11 tại TP.HCM khép lại với nhiều dấu ấn tốt đẹp trong lòng người dân hai nước và bạn bè quốc tế. Lễ hội năm nay mang đến nhiều trải nghiệm cho du khách tại 300 gian hàng thương mại, ẩm thực, du lịch Việt Nam - Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T14:30:00+07:00",
+      "fetched": "2026-03-08T23:17:17.058977+07:00"
+    },
+    {
+      "id": "dff2cb062865cf6e4f56c937d0fe12ae",
+      "title": "Xe khách chở quá 28 người, bị phạt gần 200 triệu đồng",
+      "link": "https://vnexpress.net/xe-khach-cho-qua-28-nguoi-bi-phat-gan-200-trieu-dong-5048024.html",
+      "summary": "Xe khách có giới hạn chở 25 người, nhưng thực tế chở 53 người, bị lực lượng chức năng tỉnh Quảng Trị xử phạt 196,5 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T14:22:15+07:00",
+      "fetched": "2026-03-08T23:17:13.741684+07:00"
+    },
+    {
+      "id": "9bc8f6662bc5dd31e0e5bd350af51f26",
+      "title": "Hoàng Hên chơi cực hay khi HLV Kim Sang-sik dự khán, Hà Nội quật ngã đội đầu bảng CAHN",
+      "link": "https://thanhnien.vn/hoang-hen-choi-cuc-hay-khi-hlv-kim-sang-sik-du-khan-ha-noi-quat-nga-doi-dau-bang-cahn-18526030821153675.htm",
+      "summary": "Tối 8.3, Đỗ Hoàng Hên tỏa sáng rực rỡ với cú đúp bàn thắng, giúp CLB Hà Nội đánh bại đội Công an Hà Nội (CAHN) với tỷ số 2-1 ở vòng 15 V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T14:19:00+07:00",
+      "fetched": "2026-03-08T23:17:17.059146+07:00"
+    },
+    {
+      "id": "dd9cbaa59ad97d287c001791b8af7489",
+      "title": "Nổ tại Đại sứ quán Mỹ ở Na Uy, nghi tấn công khủng bố",
+      "link": "https://vnexpress.net/no-tai-dai-su-quan-my-o-na-uy-nghi-tan-cong-khung-bo-5048021.html",
+      "summary": "Cảnh sát Na Uy mở cuộc điều tra vụ nổ tại Đại sứ quán Mỹ ở Oslo với nghi vấn đây là hành động tấn công khủng bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T14:10:02+07:00",
+      "fetched": "2026-03-08T23:17:13.741838+07:00"
+    },
+    {
+      "id": "dd9cbaa59ad97d287c001791b8af7489",
+      "title": "Nổ tại Đại sứ quán Mỹ ở Na Uy, nghi tấn công khủng bố",
+      "link": "https://vnexpress.net/no-tai-dai-su-quan-my-o-na-uy-nghi-tan-cong-khung-bo-5048021.html",
+      "summary": "Cảnh sát Na Uy mở cuộc điều tra vụ nổ tại Đại sứ quán Mỹ ở Oslo với nghi vấn đây là hành động tấn công khủng bố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-08T14:10:02+07:00",
+      "fetched": "2026-03-08T23:17:22.147395+07:00"
+    },
+    {
       "id": "f49a0c2fab56cbb79e8108f3ecae517a",
       "title": "Toàn cảnh TNSV THACO Cup 2026 ngày 8.3: HLV Park Hang-seo gây sốt, cựu á quân trở lại ấn tượng",
       "link": "https://thanhnien.vn/toan-canh-tnsv-thaco-cup-2026-ngay-83-hlv-park-hang-seo-gay-sot-cuu-a-quan-tro-lai-an-tuong-185260308204014281.htm",
@@ -501,6 +851,16 @@ window.newsData_2026_03_08 = {
       "category": "Tổng hợp",
       "published": "2026-03-08T14:00:00+07:00",
       "fetched": "2026-03-08T21:16:59.868748+07:00"
+    },
+    {
+      "id": "c9c38df26f7a73e70009e8300cf783cc",
+      "title": "Người đàn ông bí mật của em từng làm quen với tôi",
+      "link": "https://vnexpress.net/nguoi-dan-ong-bi-mat-cua-em-tung-lam-quen-voi-toi-5047965.html",
+      "summary": "Nghĩ lại, khi làm quen với tôi, người đó có gì đó lạ so với những bạn khác của em; giờ tôi mới hiểu, anh ta đã chịu đựng nhiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T14:00:00+07:00",
+      "fetched": "2026-03-08T23:17:13.742004+07:00"
     },
     {
       "id": "304b819cb55850404b9ee6365250f6c0",
