@@ -1,7 +1,97 @@
 window.newsData_2026_03_08 = {
   "date": "2026-03-08",
-  "lastUpdated": "2026-03-08T19:28:18.907388+07:00",
+  "lastUpdated": "2026-03-08T21:17:07.615798+07:00",
   "articles": [
+    {
+      "id": "e3d51b2403ab982c4ae776e11afd4c41",
+      "title": "JICA sẵn sàng cùng Việt Nam hướng đến mục tiêu phát triển 2045",
+      "link": "https://tuoitre.vn/jica-san-sang-cung-viet-nam-huong-den-muc-tieu-phat-trien-2045-20260308165240284.htm",
+      "summary": "Trưởng đại diện JICA tại Việt Nam chia sẻ về những dự định tương lai của tổ chức này nhằm đồng hành cùng Việt Nam trên con đường phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T21:17:00.945495+07:00",
+      "fetched": "2026-03-08T21:17:00.945626+07:00"
+    },
+    {
+      "id": "6b74e441913b2bea355f9a5242cb0e47",
+      "title": "Thụy Sĩ: 'Mỹ - Israel đánh Iran là vi phạm luật pháp quốc tế'",
+      "link": "https://tuoitre.vn/thuy-si-my-israel-danh-iran-la-vi-pham-luat-phap-quoc-te-20260308190324243.htm",
+      "summary": "Hội đồng Liên bang Thụy Sĩ cho rằng cuộc tấn công vào Iran cấu thành hành vi vi phạm luật pháp quốc tế, theo Bộ trưởng Quốc phòng nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T21:17:00.945342+07:00",
+      "fetched": "2026-03-08T21:17:00.945482+07:00"
+    },
+    {
+      "id": "348b6686fa41939ff7acad615ece3a20",
+      "title": "Đại gia bách hóa Nhật Takashimaya ghi nhận làm ăn tốt ở TP.HCM",
+      "link": "https://tuoitre.vn/dai-gia-bach-hoa-nhat-takashimaya-ghi-nhan-lam-an-tot-o-tp-hcm-20260308183715349.htm",
+      "summary": "Lạc quan với mức tăng GDP của Việt Nam, Takashimaya dự kiến lợi nhuận từ trung tâm thương mại tại TP.HCM sắp tới sẽ tăng, cùng việc mở thêm cơ sở tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T21:17:00.945204+07:00",
+      "fetched": "2026-03-08T21:17:00.945321+07:00"
+    },
+    {
+      "id": "0f4ef81052690b7f8f1b128c8e0b16f3",
+      "title": "OpenAI tung GPT-5.4: AI mới 'nhắm' thẳng công việc chuyên môn",
+      "link": "https://tuoitre.vn/openai-tung-gpt-5-4-ai-moi-nham-thang-cong-viec-chuyen-mon-20260308192218131.htm",
+      "summary": "OpenAI ra mắt GPT-5.4 và bản Pro, tăng mạnh khả năng lập luận, lập trình và xử lý tài liệu, hướng tới hỗ trợ các tác vụ công việc chuyên nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T21:17:00.945074+07:00",
+      "fetched": "2026-03-08T21:17:00.945193+07:00"
+    },
+    {
+      "id": "97705ce58ef0fec33b3b13d1cd35f07e",
+      "title": "Bế mạc Lễ hội Việt - Nhật sôi động với các anh hùng Ultraman",
+      "link": "https://tuoitre.vn/be-mac-le-hoi-viet-nhat-soi-dong-voi-cac-anh-hung-ultraman-20260308192602538.htm",
+      "summary": "Tối 8-3, Lễ hội Việt - Nhật tại TP.HCM lần thứ 11 năm 2026 chính thức khép lại sau hai ngày hoạt động sôi nổi với 13 hoạt động chính, thu hút hơn 400.000 lượt khách tham quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T21:17:00.944943+07:00",
+      "fetched": "2026-03-08T21:17:00.945062+07:00"
+    },
+    {
+      "id": "70d0fdabe9fa3e4db60d34a76ac7e9f0",
+      "title": "Giá vàng tuần tới được dự báo tăng hay giảm?",
+      "link": "https://tuoitre.vn/gia-vang-tuan-toi-duoc-du-bao-tang-hay-giam-20260308194627702.htm",
+      "summary": "Giá vàng thế giới đã bật tăng 91,7 USD/ounce và kết thúc tuần giao dịch ở mức 5.174 USD/ounce nhưng liệu đà tăng này có duy trì được trong tuần tới?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T21:17:00.944811+07:00",
+      "fetched": "2026-03-08T21:17:00.944932+07:00"
+    },
+    {
+      "id": "b569020511f0777edea77008047fef84",
+      "title": "Xuân Son bỏ lỡ không tưởng, Nam Định vất vả thắng đội cuối bảng",
+      "link": "https://tuoitre.vn/xuan-son-bo-lo-khong-tuong-nam-dinh-vat-va-thang-doi-cuoi-bang-20260308201549428.htm",
+      "summary": "Tiền đạo Nguyễn Xuân Son bỏ lỡ nhiều cơ hội ngon ăn trong ngày CLB Nam Định đấu đội cuối bảng PVF-CAND tại Hưng Yên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T21:17:00.944672+07:00",
+      "fetched": "2026-03-08T21:17:00.944799+07:00"
+    },
+    {
+      "id": "6ee13e719598369c9fdac9799792209e",
+      "title": "Đà Nẵng dán số đường dây nóng, khuyến cáo người dân không mua xăng dầu tích trữ",
+      "link": "https://tuoitre.vn/da-nang-dan-so-duong-day-nong-khuyen-cao-nguoi-dan-khong-mua-xang-dau-tich-tru-20260308185723009.htm",
+      "summary": "Đà Nẵng công bố số đường dây nóng phản ánh về xăng dầu tại tất cả các cây xăng và khuyến cáo người dân không mang dụng cụ mua xăng tích trữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T21:17:00.944521+07:00",
+      "fetched": "2026-03-08T21:17:00.944659+07:00"
+    },
+    {
+      "id": "80fbdd7751a4e2bbe8078d10fced4cab",
+      "title": "Bạn gái Leonardo DiCaprio tại Tuần lễ thời trang Paris",
+      "link": "https://tuoitre.vn/ban-gai-leonardo-dicaprio-tai-tuan-le-thoi-trang-paris-20260308202529281.htm",
+      "summary": "Bạn gái của Leonardo DiCaprio, người mẫu Vittoria Ceretti, thu hút sự chú ý khi xuất hiện tại khách sạn ở Pháp để tham dự Tuần lễ thời trang Paris.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T21:17:00.944265+07:00",
+      "fetched": "2026-03-08T21:17:00.944504+07:00"
+    },
     {
       "id": "dab6625bd0ba9dd42a5face387d13abb",
       "title": "Bộ trưởng Trần Đức Thắng: Đề án 1 triệu hecta lúa chất lượng cao ‘hoàn toàn đúng đắn'",
@@ -403,6 +493,36 @@ window.newsData_2026_03_08 = {
       "fetched": "2026-03-08T15:20:05.744839+07:00"
     },
     {
+      "id": "f49a0c2fab56cbb79e8108f3ecae517a",
+      "title": "Toàn cảnh TNSV THACO Cup 2026 ngày 8.3: HLV Park Hang-seo gây sốt, cựu á quân trở lại ấn tượng",
+      "link": "https://thanhnien.vn/toan-canh-tnsv-thaco-cup-2026-ngay-83-hlv-park-hang-seo-gay-sot-cuu-a-quan-tro-lai-an-tuong-185260308204014281.htm",
+      "summary": "Bản tin TNSV THACO Cup 2026 ngày 8.3 trên Thanhnien.vn và kênh YouTube Báo Thanh Niên cập nhật những diễn biến mới nhất về các trận đấu, câu chuyện bên lề sân cỏ và lịch thi đấu sắp tới của giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T14:00:00+07:00",
+      "fetched": "2026-03-08T21:16:59.868748+07:00"
+    },
+    {
+      "id": "304b819cb55850404b9ee6365250f6c0",
+      "title": "Russell nhất chặng mở màn F1 2026",
+      "link": "https://vnexpress.net/russell-nhat-chang-mo-man-f1-2026-5048013.html",
+      "summary": "Tay đua số một của Mercedes George Russell dễ dàng về nhất trên đường đua Albert Park, Melbourne chiều 8/3, bất chấp áp lực từ Ferrari và Charles Leclerc suốt đoạn đầu Grand Prix Australia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T13:37:55+07:00",
+      "fetched": "2026-03-08T21:16:56.976965+07:00"
+    },
+    {
+      "id": "304b819cb55850404b9ee6365250f6c0",
+      "title": "Russell nhất chặng mở màn F1 2026",
+      "link": "https://vnexpress.net/russell-nhat-chang-mo-man-f1-2026-5048013.html",
+      "summary": "Tay đua số một của Mercedes George Russell dễ dàng về nhất trên đường đua Albert Park, Melbourne chiều 8/3, bất chấp áp lực từ Ferrari và Charles Leclerc suốt đoạn đầu Grand Prix Australia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-08T13:37:55+07:00",
+      "fetched": "2026-03-08T21:17:07.604212+07:00"
+    },
+    {
       "id": "d8f1999c676a1a0ba52e88e9808a835c",
       "title": "Ông Trump nói không cần tàu sân bay của Anh nữa, 'nhưng sẽ ghi nhớ chuyện này'",
       "link": "https://tuoitre.vn/ong-trump-noi-khong-can-tau-san-bay-cua-anh-nua-nhung-se-ghi-nho-chuyen-nay-20260308104613902.htm",
@@ -553,6 +673,106 @@ window.newsData_2026_03_08 = {
       "fetched": "2026-03-08T13:31:23.256988+07:00"
     },
     {
+      "id": "b96aafcc359fe76a555924c41d6d31dc",
+      "title": "Xuân Son kém may trong chiến thắng của Nam Định",
+      "link": "https://vnexpress.net/xuan-son-kem-may-trong-chien-thang-cua-nam-dinh-5048017.html",
+      "summary": "Tiền đạo nhập tịch Nguyễn Xuân Son bỏ lỡ cơ hội mười mươi và bị cột, xà từ chối trong chiến thắng thứ hai liên tiếp của Nam Định ở V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T13:29:10+07:00",
+      "fetched": "2026-03-08T21:16:56.977152+07:00"
+    },
+    {
+      "id": "b96aafcc359fe76a555924c41d6d31dc",
+      "title": "Xuân Son kém may trong chiến thắng của Nam Định",
+      "link": "https://vnexpress.net/xuan-son-kem-may-trong-chien-thang-cua-nam-dinh-5048017.html",
+      "summary": "Tiền đạo nhập tịch Nguyễn Xuân Son bỏ lỡ cơ hội mười mươi và bị cột, xà từ chối trong chiến thắng thứ hai liên tiếp của Nam Định ở V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-08T13:29:10+07:00",
+      "fetched": "2026-03-08T21:17:07.604390+07:00"
+    },
+    {
+      "id": "2aa42473458a94bcbd23ce19c0c9608d",
+      "title": "Đề xuất giảm thuế nhập xăng dầu về 0% do căng thẳng Trung Đông",
+      "link": "https://vnexpress.net/de-xuat-giam-thue-nhap-xang-dau-ve-0-do-cang-thang-trung-dong-5048012.html",
+      "summary": "Bộ Tài chính đề xuất giảm thuế nhập khẩu ưu đãi xuống 0% với một số mặt hàng xăng dầu để tăng nguồn cung và ổn định thị trường trước căng thẳng tại Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T13:18:03+07:00",
+      "fetched": "2026-03-08T21:16:56.977325+07:00"
+    },
+    {
+      "id": "2aa42473458a94bcbd23ce19c0c9608d",
+      "title": "Đề xuất giảm thuế nhập xăng dầu về 0% do căng thẳng Trung Đông",
+      "link": "https://vnexpress.net/de-xuat-giam-thue-nhap-xang-dau-ve-0-do-cang-thang-trung-dong-5048012.html",
+      "summary": "Bộ Tài chính đề xuất giảm thuế nhập khẩu ưu đãi xuống 0% với một số mặt hàng xăng dầu để tăng nguồn cung và ổn định thị trường trước căng thẳng tại Trung Đông.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-08T13:18:03+07:00",
+      "fetched": "2026-03-08T21:17:04.069132+07:00"
+    },
+    {
+      "id": "d5c2f59fb99c6670bad8218781c10cbb",
+      "title": "Người dân nước nào có điểm IELTS cao nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-co-diem-ielts-cao-nhat-dong-nam-a-5047976.html",
+      "summary": "Với điểm trung bình 7.1/9, người dân nước này có kết quả thi IELTS tốt nhất Đông Nam Á và thuộc top đầu thế giới. Bạn có biết đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T13:03:00+07:00",
+      "fetched": "2026-03-08T21:16:56.977511+07:00"
+    },
+    {
+      "id": "5dd20c7550494a39a975d3b16dad8ef8",
+      "title": "Khuất Văn Khang ghi bàn và kiến tạo, Thể Công Viettel thắng đẹp Becamex TP.HCM",
+      "link": "https://thanhnien.vn/khuat-van-khang-ghi-ban-va-kien-tao-the-cong-viettel-thang-dep-becamex-tphcm-185260308195813737.htm",
+      "summary": "Người hùng U.23 Việt Nam Khuất Văn Khang kéo dài mạch phong độ rất cao của mình, đồng thời ghi bàn và kiến tạo giúp Thể Công Viettel thắng đẹp trên sân nhà Becamex TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T13:01:00+07:00",
+      "fetched": "2026-03-08T21:16:59.868922+07:00"
+    },
+    {
+      "id": "28af60afd531996339b1a5fbc0bf1b99",
+      "title": "Xem nhanh 20h ngày 8.3: Trùm cát lậu Quảng Ninh - Cường ‘cát’ là ai? | Lùm xùm gói thầu ở sân bay Long Thành",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-83-trum-cat-lau-quang-ninh-cuong-cat-la-ai-lum-xum-dau-thau-san-bay-long-thanh-185260308194610225.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 8.3 có nhiều tin tức đáng chú ý về: Ông trùm cát lậu Quảng Ninh - Cường ‘cát’ vừa ‘sa lưới’ là ai?; Gói thầu nào tại sân bay Long Thành từng vướng 'lùm xùm' đấu thầu?;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T13:00:00+07:00",
+      "fetched": "2026-03-08T21:16:59.869081+07:00"
+    },
+    {
+      "id": "5dbeae6747a1db639256249a57a1cbaa",
+      "title": "Thoải mái xuống phố với quần shorts cạp cao",
+      "link": "https://thanhnien.vn/thoi-trang-tre/thoai-mai-xuong-pho-voi-quan-shorts-cap-cao-185260308000712143.htm",
+      "summary": "Quần shorts cạp cao luôn là lựa chọn lý tưởng cho những cô gái yêu thích phong cách trẻ trung nhưng vẫn muốn giữ nét thanh lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T13:00:00+07:00",
+      "fetched": "2026-03-08T21:16:59.869233+07:00"
+    },
+    {
+      "id": "454b79e0d1953084184a93213a1445e0",
+      "title": "Xuân Son 'đen' nhưng trung vệ Lucas lại ‘đỏ’, Nam Định thắng chật vật đội cuối bảng PVF-CAND",
+      "link": "https://thanhnien.vn/xuan-son-den-nhung-trung-ve-lucas-lai-do-nam-dinh-thang-chat-vat-doi-cuoi-bang-pvf-cand-185260308195110948.htm",
+      "summary": "Xuân Son bỏ lỡ 6 cơ hội ăn bàn, song trung vệ Lucas đã lên tiếng đúng lúc với bàn thắng phút 90 để giúp Nam Định thắng 1-0 trên sân PVF-CAND, trong trận đấu vòng 15 V-League diễn ra lúc 18 giờ ngày 8.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T12:59:00+07:00",
+      "fetched": "2026-03-08T21:16:59.869387+07:00"
+    },
+    {
+      "id": "8047189a3d4f6c9c84cb7a78c39d6960",
+      "title": "Highlight Trường ĐH Đồng Tháp 0-3 Trường ĐH Thủy lợi: Đẳng cấp cựu á quân",
+      "link": "https://thanhnien.vn/highlight-truong-dh-dong-thap-0-3-truong-dh-thuy-loi-dang-cap-cuu-a-quan-185260308183647654.htm",
+      "summary": "Thi đấu lấn lướt và tận dụng tốt cơ hội trong hiệp 2, Trường ĐH Thủy lợi đánh bại Trường ĐH Đồng Tháp với tỷ số 3-0, qua đó giành trọn 3 điểm và tạm giữ ngôi đầu bảng B tại VCK giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T12:42:00+07:00",
+      "fetched": "2026-03-08T21:16:59.869566+07:00"
+    },
+    {
       "id": "ae767bc0c38977e9e477afbbb5cb3f08",
       "title": "5.000 học sinh tìm hiểu ngành dầu khí và năng lượng",
       "link": "https://thanhnien.vn/5000-hoc-sinh-tim-hieu-nganh-dau-khi-va-nang-luong-185260308190827331.htm",
@@ -561,6 +781,36 @@ window.newsData_2026_03_08 = {
       "category": "Tổng hợp",
       "published": "2026-03-08T12:22:00+07:00",
       "fetched": "2026-03-08T19:28:09.094014+07:00"
+    },
+    {
+      "id": "79988a093ed68988bb3c35941527d741",
+      "title": "Bé Bo - con trai 6 tuổi hút fan của Hòa Minzy",
+      "link": "https://vnexpress.net/be-bo-con-trai-6-tuoi-hut-fan-cua-hoa-minzy-5047947.html",
+      "summary": "Bo, con trai của ca sĩ Hòa Minzy, có gần hai triệu fan theo dõi trên mạng xã hội, nhờ nét đáng yêu và lém lỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T12:08:30+07:00",
+      "fetched": "2026-03-08T21:16:56.977674+07:00"
+    },
+    {
+      "id": "9248d749d0dd3eded8844522a2d96422",
+      "title": "Iran đã bầu được tân Lãnh tụ Tối cao",
+      "link": "https://vnexpress.net/iran-da-bau-duoc-tan-lanh-tu-toi-cao-5048004.html",
+      "summary": "Truyền thông Iran đưa tin Hội đồng Chuyên gia đã đạt quyết định về người kế nhiệm ông Ali Khamenei, song chưa công bố danh tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T12:06:29+07:00",
+      "fetched": "2026-03-08T21:16:56.977842+07:00"
+    },
+    {
+      "id": "9248d749d0dd3eded8844522a2d96422",
+      "title": "Iran đã bầu được tân Lãnh tụ Tối cao",
+      "link": "https://vnexpress.net/iran-da-bau-duoc-tan-lanh-tu-toi-cao-5048004.html",
+      "summary": "Truyền thông Iran đưa tin Hội đồng Chuyên gia đã đạt quyết định về người kế nhiệm ông Ali Khamenei, song chưa công bố danh tính.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-08T12:06:29+07:00",
+      "fetched": "2026-03-08T21:17:02.763749+07:00"
     },
     {
       "id": "5fe02697acba6b29ad52136f0ac2e88a",
@@ -613,6 +863,16 @@ window.newsData_2026_03_08 = {
       "fetched": "2026-03-08T19:28:12.050413+07:00"
     },
     {
+      "id": "9cef76a7fdabf84979e11f0df5bc8890",
+      "title": "DP World hợp tác APM Terminals tại cảng Jeddah",
+      "link": "https://vnexpress.net/dp-world-hop-tac-apm-terminals-tai-cang-jeddah-5043878.html",
+      "summary": "DP World và APM Terminals hợp tác chiến lược tại bến container phía Nam cảng Jeddah, củng cố năng lực logistics tích hợp và vai trò cửa ngõ thương mại Biển Đỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T12:00:00+07:00",
+      "fetched": "2026-03-08T21:16:56.978180+07:00"
+    },
+    {
       "id": "f7b55ca9eda5a15ac451cde550228d16",
       "title": "Lâm Đồng chưa phát hiện tình trạng găm xăng dầu",
       "link": "https://thanhnien.vn/lam-dong-chua-phat-hien-tinh-trang-gam-xang-dau-18526030818113998.htm",
@@ -641,6 +901,26 @@ window.newsData_2026_03_08 = {
       "category": "Tổng hợp",
       "published": "2026-03-08T11:40:00+07:00",
       "fetched": "2026-03-08T19:28:09.095125+07:00"
+    },
+    {
+      "id": "aa842ee325003d4414cb176efbfadbfd",
+      "title": "Xuân về, duyên chớm nở, đông sang, tình hóa mùa vàng viên mãn",
+      "link": "https://vnexpress.net/xuan-ve-duyen-chom-no-dong-sang-tinh-hoa-mua-vang-vien-man-5047992.html",
+      "summary": "Chào anh - người em tin là món quà đẹp đẽ của nhân duyên,",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T11:33:18+07:00",
+      "fetched": "2026-03-08T21:16:56.978290+07:00"
+    },
+    {
+      "id": "fce293e9d434665886d69730bcf0f36e",
+      "title": "Mong gặp người đủ bản lĩnh để mình cảm thấy an tâm khi đi cạnh",
+      "link": "https://vnexpress.net/mong-gap-nguoi-du-ban-linh-de-minh-cam-thay-an-tam-khi-di-canh-5047995.html",
+      "summary": "Mình không tìm một câu chuyện ồn ào, chỉ mong một người đủ chân thành để khi nắm tay nhau rồi, cả hai đều muốn giữ thật lâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T11:32:45+07:00",
+      "fetched": "2026-03-08T21:16:56.978387+07:00"
     },
     {
       "id": "236339478c5ee097d87fc0bddcaf47d0",
