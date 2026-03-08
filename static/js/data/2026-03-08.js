@@ -1,7 +1,157 @@
 window.newsData_2026_03_08 = {
   "date": "2026-03-08",
-  "lastUpdated": "2026-03-08T17:16:20.033956+07:00",
+  "lastUpdated": "2026-03-08T19:28:18.907388+07:00",
   "articles": [
+    {
+      "id": "dab6625bd0ba9dd42a5face387d13abb",
+      "title": "Bộ trưởng Trần Đức Thắng: Đề án 1 triệu hecta lúa chất lượng cao ‘hoàn toàn đúng đắn'",
+      "link": "https://tuoitre.vn/bo-truong-tran-duc-thang-de-an-1-trieu-hecta-lua-chat-luong-cao-hoan-toan-dung-dan-20260308163706997.htm",
+      "summary": "Sau 2 năm triển khai, đến nay diện tích trồng lúa chất lượng cao, phát thải thấp ở Đồng bằng sông Cửu Long đạt 197% so với kế hoạch, nông dân thu nhập cao hơn không dưới 20%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.124752+07:00",
+      "fetched": "2026-03-08T19:28:10.124871+07:00"
+    },
+    {
+      "id": "edabc9ec5132dd4d017d8b63ac2ae91f",
+      "title": "Mùa phim Tết 700 tỉ: Khi rạp Tết không chỉ có mình Trấn Thành",
+      "link": "https://tuoitre.vn/mua-phim-tet-700-ti-khi-rap-tet-khong-chi-co-minh-tran-thanh-20260308092632915.htm",
+      "summary": "Mùa phim Tết năm nay đạt doanh thu 712 tỉ đồng nhờ các phim của Trấn Thành, Trường Giang, Phương Anh Đào - Tuấn Trần, NSND Xuân Hinh...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.124600+07:00",
+      "fetched": "2026-03-08T19:28:10.124740+07:00"
+    },
+    {
+      "id": "b54cec0c8fea92f53981e80f2a3c4eb2",
+      "title": "Nguyễn Thị Thật giành áo xanh chung cuộc Biwase Tour of Vietnam",
+      "link": "https://tuoitre.vn/nguyen-thi-that-gianh-ao-xanh-chung-cuoc-biwase-tour-of-vietnam-20260308165044829.htm",
+      "summary": "Chặng 5 cũng là chặng cuối của Giải đua xe đạp Biwase Tour of Vietnam 2026 chính thức khép lại ngày 8-3. Với phong độ xuất sắc, cua rơ Nguyễn Thị Thật đã giành áo xanh chung cuộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.124464+07:00",
+      "fetched": "2026-03-08T19:28:10.124588+07:00"
+    },
+    {
+      "id": "76fa6a39858bf662bb85a08aa004e062",
+      "title": "Du khách Ukraine bị bắt cóc đòi tiền chuộc ở Bali, nghi bị tra tấn đến chết",
+      "link": "https://tuoitre.vn/du-khach-ukraine-bi-bat-coc-doi-tien-chuoc-o-bali-nghi-bi-tra-tan-den-chet-20260308103602677.htm",
+      "summary": "Igor Komarov, du khách người Ukraine 28 tuổi, bị bắt cóc trong chuyến du lịch tại Bali hồi giữa tháng 2 và được phát hiện đã tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.124339+07:00",
+      "fetched": "2026-03-08T19:28:10.124452+07:00"
+    },
+    {
+      "id": "a58bf2f0b4166116f626505083527ece",
+      "title": "Những dự án nào giảm áp lực cho cửa ngõ tây bắc TP.HCM?",
+      "link": "https://tuoitre.vn/nhung-du-an-nao-giam-ap-luc-cho-cua-ngo-tay-bac-tp-hcm-20260308160247045.htm",
+      "summary": "Áp lực giao thông tại cửa ngõ tây bắc TP.HCM ngày càng rõ khi lượng xe dồn về quốc lộ 22 tăng nhanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.124195+07:00",
+      "fetched": "2026-03-08T19:28:10.124327+07:00"
+    },
+    {
+      "id": "29e53bf6388c89cb99e8ee09ef9a6f1d",
+      "title": "'Hiểu mình hơn, thương mình nhiều' nhắc người trẻ dừng lại để lắng nghe chính mình",
+      "link": "https://tuoitre.vn/hieu-minh-hon-thuong-minh-nhieu-nhac-nguoi-tre-dung-lai-de-lang-nghe-chinh-minh-2026030810391657.htm",
+      "summary": "Tác giả Phan Thảo Phương vừa ra mắt sách “Hiểu mình hơn, thương mình nhiều”, qua hơn 200 trang viết với thông điệp về việc thấu hiểu chính mình, học cách yêu thương bản thân và tìm lại sự cân bằng trong cuộc sống hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.124073+07:00",
+      "fetched": "2026-03-08T19:28:10.124185+07:00"
+    },
+    {
+      "id": "80de0b49610f3f56b1231de29139d109",
+      "title": "4 đòn võ thuật quốc tế mà phụ nữ được khuyên biết nằm lòng",
+      "link": "https://tuoitre.vn/4-don-vo-thuat-quoc-te-ma-phu-nu-duoc-khuyen-biet-nam-long-20260308113855217.htm",
+      "summary": "Khái niệm võ thuật tự vệ luôn đặc biệt hướng về phụ nữ, với những đòn đánh nhanh, gọn, mang tính hiệu quả cao từ các môn võ trứ danh trên thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.123948+07:00",
+      "fetched": "2026-03-08T19:28:10.124062+07:00"
+    },
+    {
+      "id": "99c1d659ade0d8ab24159c48d8561471",
+      "title": "Kịch bản đối phó nguy cơ sốc dầu của 4 nước Đông Nam Á",
+      "link": "https://tuoitre.vn/kich-ban-doi-pho-nguy-co-soc-dau-cua-4-nuoc-dong-nam-a-20260308172358496.htm",
+      "summary": "Trước nguy cơ giá dầu leo thang và vận tải năng lượng bị gián đoạn, các nước Đông Nam Á đang gấp rút chuẩn bị kịch bản ứng phó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.123824+07:00",
+      "fetched": "2026-03-08T19:28:10.123936+07:00"
+    },
+    {
+      "id": "77ca52cee17a9c1b2edb750104f45fb1",
+      "title": "Đề xuất giảm thuế nhập xăng dầu về 0% do căng thẳng Trung Đông",
+      "link": "https://tuoitre.vn/de-xuat-giam-thue-nhap-xang-dau-ve-0-do-cang-thang-trung-dong-20260308174334239.htm",
+      "summary": "Bộ Tài chính đề xuất giảm thuế nhập khẩu ưu đãi xuống 0% đối với một số mặt hàng xăng dầu do nguồn cung xăng dầu có thể bị gián đoạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.123701+07:00",
+      "fetched": "2026-03-08T19:28:10.123813+07:00"
+    },
+    {
+      "id": "b6cbd3f113b91e4bfbe0e61ca58dae60",
+      "title": "Phân bón, xăng dầu tăng giá, nông dân miền Tây ngóng ra đồng mà sốt ruột",
+      "link": "https://tuoitre.vn/phan-bon-xang-dau-tang-gia-nong-dan-mien-tay-ngong-ra-dong-ma-sot-ruot-202603081655224.htm",
+      "summary": "Giá phân bón và xăng dầu tăng mạnh những ngày gần đây trong khi giá nông thủy sản vẫn 'đứng yên' khiến nhiều nông dân trồng lúa, nuôi trồng thủy sản ở miền Tây lo lắng, e ngại trong sản xuất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.123575+07:00",
+      "fetched": "2026-03-08T19:28:10.123690+07:00"
+    },
+    {
+      "id": "d391cb9be4ec0359bc77bf27345d3203",
+      "title": "Thần đồng cờ tướng 13 tuổi của Việt Nam đánh bại cao thủ hạng 22 Trung Quốc",
+      "link": "https://tuoitre.vn/than-dong-co-tuong-13-tuoi-cua-viet-nam-danh-bai-cao-thu-hang-22-trung-quoc-20260308181431953.htm",
+      "summary": "Những ngày đầu xuân rộn rã của làng cờ tướng Việt Nam tiếp tục kéo dài khi kỳ thủ 13 tuổi Chu Đức Huy tạo chiến tích vô cùng đáng nhớ: đánh bại đại sư Vương Hạo đến từ Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.123449+07:00",
+      "fetched": "2026-03-08T19:28:10.123563+07:00"
+    },
+    {
+      "id": "6cea839da1e6a24da576f3dfdb8356ba",
+      "title": "Dự án nhà ở xã hội Lý Thường Kiệt: Chủ đầu tư nói gì về việc người dân 'mắc kẹt' khi nộp hồ sơ?",
+      "link": "https://tuoitre.vn/du-an-nha-o-xa-hoi-ly-thuong-kiet-chu-dau-tu-noi-gi-ve-viec-nguoi-dan-mac-ket-khi-nop-ho-so-20260308182339015.htm",
+      "summary": "Chủ đầu tư cho biết hiện dự án chưa bước vào giai đoạn tiếp nhận hồ sơ mua nhà chính thức, mới công bố thông tin và ghi nhận nhu cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.123320+07:00",
+      "fetched": "2026-03-08T19:28:10.123437+07:00"
+    },
+    {
+      "id": "b7c39c009a6623541c15f6593b54fe04",
+      "title": "Giá xăng dầu tăng, ngư dân âu lo đứng trước biển",
+      "link": "https://tuoitre.vn/gia-xang-dau-tang-ngu-dan-au-lo-dung-truoc-bien-2026030815371793.htm",
+      "summary": "Giá xăng dầu tăng mạnh khiến việc sản xuất nông nghiệp, ra khơi, vận tải hàng hóa tại các tỉnh Lâm Đồng, Đắk Lắk đội thêm nhiều chi phí...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.123165+07:00",
+      "fetched": "2026-03-08T19:28:10.123307+07:00"
+    },
+    {
+      "id": "5f4a591294459ac95130631302788794",
+      "title": "Tay đua F1 có nguy cơ tổn thương thần kinh vì rung động từ động cơ Honda",
+      "link": "https://tuoitre.vn/tay-dua-f1-co-nguy-co-ton-thuong-than-kinh-vi-rung-dong-tu-dong-co-honda-20260308105518593.htm",
+      "summary": "Động cơ Honda rung quá mạnh khiến tay đua F1 của Aston Martin chỉ dám chạy tối đa 25 vòng liên tiếp, nếu không sẽ có nguy cơ tổn thương thần kinh ở tay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.123023+07:00",
+      "fetched": "2026-03-08T19:28:10.123152+07:00"
+    },
+    {
+      "id": "556767a9297ad1ecd4399aab5ef45191",
+      "title": "Anh vừa nóng kỷ lục đầu năm, vừa có tuyết và 'mưa máu'",
+      "link": "https://tuoitre.vn/anh-vua-nong-ky-luc-dau-nam-vua-co-tuyet-va-mua-mau-20260308184528653.htm",
+      "summary": "Chỉ trong 48 giờ, Vương quốc Anh ghi nhận loạt hiện tượng trái ngược: nóng kỷ lục đầu năm, tuyết rơi ở vùng đồi và 'mưa máu'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T19:28:10.122802+07:00",
+      "fetched": "2026-03-08T19:28:10.123008+07:00"
+    },
     {
       "id": "669fd1be031830625a8515c287ceb23f",
       "title": "9.000 tô Phở ấm phục vụ từ 5 giờ sáng ngày 8-3",
@@ -403,6 +553,146 @@ window.newsData_2026_03_08 = {
       "fetched": "2026-03-08T13:31:23.256988+07:00"
     },
     {
+      "id": "ae767bc0c38977e9e477afbbb5cb3f08",
+      "title": "5.000 học sinh tìm hiểu ngành dầu khí và năng lượng",
+      "link": "https://thanhnien.vn/5000-hoc-sinh-tim-hieu-nganh-dau-khi-va-nang-luong-185260308190827331.htm",
+      "summary": "Lễ hội Văn hóa học sinh - sinh viên ngành năng lượng - dầu khí lần thứ 13 năm 2026 có 5.000 học sinh tham gia tìm hiểu thông qua các hình thức thi trực tuyến, thi sáng tạo bằng video, infographic và bài viết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T12:22:00+07:00",
+      "fetched": "2026-03-08T19:28:09.094014+07:00"
+    },
+    {
+      "id": "5fe02697acba6b29ad52136f0ac2e88a",
+      "title": "Đội của cố vấn Park Hang-seo bất ngờ thắng Đồng Tháp: Vượt mặt Khánh Hòa, bám đuổi Trường Tươi Đồng Nai.",
+      "link": "https://thanhnien.vn/doi-cua-co-van-park-hang-seo-bat-ngo-thang-dong-thap-vuot-mat-khanh-hoa-bam-duoi-truong-tuoi-dong-nai-185260308185721366.htm",
+      "summary": "Tối 8.3, ở vòng 11 giải hạng nhất 2025-2026, CLB Khánh Hòa thi đấu dưới phong độ, chỉ có được trận hòa 0-0 trước đối thủ yếu hơn nhiều là Thanh Niên TP.HCM",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T12:05:00+07:00",
+      "fetched": "2026-03-08T19:28:09.094181+07:00"
+    },
+    {
+      "id": "16f5229ad225ae4cc20ad89674408904",
+      "title": "Thiếu niên bị đánh hội đồng ở Phú Quốc đang được điều trị",
+      "link": "https://thanhnien.vn/thieu-nien-bi-danh-hoi-dong-o-phu-quoc-dang-duoc-dieu-tri-185260308183310403.htm",
+      "summary": "Theo báo cáo của Trung tâm Giáo dục nghề nghiệp và Giáo dục thường xuyên cụm đặc khu Phú Quốc, thiếu niên bị đánh là T.L.K.L, đang là học viên lớp 10 của trung tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T12:02:00+07:00",
+      "fetched": "2026-03-08T19:28:09.094362+07:00"
+    },
+    {
+      "id": "cd452f02dad4e6e10e76cc3e3a8e2364",
+      "title": "Mỹ đưa thêm tàu sân bay đến, kéo dài oanh tạc Iran?",
+      "link": "https://thanhnien.vn/my-dua-them-tau-san-bay-den-keo-dai-oanh-tac-iran-185260308181245119.htm",
+      "summary": "Mỹ được cho là sắp điều động máy bay ném bom B-1 và tàu sân bay thứ ba sang Trung Đông để chống Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T12:00:00+07:00",
+      "fetched": "2026-03-08T19:28:09.094512+07:00"
+    },
+    {
+      "id": "9991039e06d7bee1c088b6b0fb19fdaf",
+      "title": "Nhân lực công nghệ khan hiếm, sinh viên STEM được vay vốn đến 500 triệu",
+      "link": "https://thanhnien.vn/nhan-luc-cong-nghe-khan-hiem-sinh-vien-stem-duoc-vay-von-den-500-trieu-185260306190038255.htm",
+      "summary": "Lĩnh vực STEM khan hiếm nhân lực và học khó nên Chính phủ khuyến khích sinh viên học lĩnh vực STEM trong đó có kỹ thuật công nghệ được vay vốn 5 triệu đồng/tháng, tối đa 500 triệu trong suốt khóa học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T12:00:00+07:00",
+      "fetched": "2026-03-08T19:28:09.094665+07:00"
+    },
+    {
+      "id": "7a3b6131a85aa9af5236841559452fbc",
+      "title": "Tướng Israel đứng sau chiến dịch hạ sát Lãnh tụ Tối cao của Iran",
+      "link": "https://vnexpress.net/tuong-israel-dung-sau-chien-dich-ha-sat-lanh-tu-toi-cao-cua-iran-5047191.html",
+      "summary": "Tướng Eyal Zamir, Tổng tham mưu trưởng Lực lượng Phòng vệ Israel (IDF), được cho là kiến trúc sư chính trong chiến dịch của Israel nhằm vào Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-08T12:00:00+07:00",
+      "fetched": "2026-03-08T19:28:12.050413+07:00"
+    },
+    {
+      "id": "f7b55ca9eda5a15ac451cde550228d16",
+      "title": "Lâm Đồng chưa phát hiện tình trạng găm xăng dầu",
+      "link": "https://thanhnien.vn/lam-dong-chua-phat-hien-tinh-trang-gam-xang-dau-18526030818113998.htm",
+      "summary": "Trước diễn biến phức tạp của giá xăng dầu, Lâm Đồng đã tăng cường kiểm tra, giám sát hoạt động kinh doanh xăng dầu nhằm kịp thời ngăn chặn tình trạng găm hàng, bán cầm chừng gây xáo trộn thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T11:51:00+07:00",
+      "fetched": "2026-03-08T19:28:09.094816+07:00"
+    },
+    {
+      "id": "ebcf6bc7cc2886728b4cd2f76de13dbf",
+      "title": "CĐV Trường ĐH Đồng Tháp lặn lội đường xa đến Nha Trang tiếp lửa đội nhà",
+      "link": "https://thanhnien.vn/cdv-truong-dh-dong-thap-lan-loi-duong-xa-den-nha-trang-tiep-lua-doi-nha-185260308170608595.htm",
+      "summary": "Vượt hơn 500 km từ miền Tây đến phố biển Nha Trang, các sinh viên Trường ĐH Đồng Tháp không chỉ mang theo kèn, trống mà còn cả tinh thần cổ vũ nhiệt huyết, văn minh để tiếp lửa cho đội nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T11:47:00+07:00",
+      "fetched": "2026-03-08T19:28:09.094977+07:00"
+    },
+    {
+      "id": "6df9a6302c82527659b04c5a064e5f85",
+      "title": "Vẫn trọng tài Hàn Quốc bắt trận ‘sinh tử’ đội tuyển nữ Việt Nam đấu Nhật Bản, ai làm VAR?",
+      "link": "https://thanhnien.vn/van-trong-tai-han-quoc-bat-tran-sinh-tu-doi-tuyen-nu-viet-nam-dau-nhat-ban-ai-lam-var-185260308183538296.htm",
+      "summary": "Liên đoàn Bóng đá châu Á (AFC) đã công bố tổ trọng tài điều khiển trận đấu giữa đội tuyển nữ Việt Nam và đội tuyển nữ Nhật Bản tại lượt đấu cuối bảng C, Asian Cup nữ 2026 (16 giờ ngày 10.3).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T11:40:00+07:00",
+      "fetched": "2026-03-08T19:28:09.095125+07:00"
+    },
+    {
+      "id": "236339478c5ee097d87fc0bddcaf47d0",
+      "title": "Trường ĐH Thủy lợi: Đá phạt giỏi như Arsenal, nhẹ nhàng rinh 3 điểm",
+      "link": "https://thanhnien.vn/truong-dh-thuy-loi-da-phat-gioi-nhu-arsenal-nhe-nhang-rinh-3-diem-185260308175959908.htm",
+      "summary": "Bế tắc trong nửa đầu trận đấu trước đấu pháp pressing kín kẽ của Trường ĐH Đồng Tháp, nhưng Trường ĐH Thủy lợi vẫn khai thác cực tốt các pha bóng cố định để thắng giòn giã 3 bàn không gỡ trong trận ra quân vòng chung kết giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T11:26:00+07:00",
+      "fetched": "2026-03-08T19:28:09.095302+07:00"
+    },
+    {
+      "id": "a0ba33def34a5124d23f4b6b63d4320a",
+      "title": "Philippines mở toang cửa vào tứ kết nhờ thắng Iran, đội tuyển nữ Việt Nam ra sao?",
+      "link": "https://thanhnien.vn/philippines-mo-toang-cua-vao-tu-ket-nho-thang-iran-doi-tuyen-nu-viet-nam-ra-sao-185260308181535545.htm",
+      "summary": "Đội tuyển nữ Philippines đã mở toang cánh cửa vào tứ kết Asian Cup nữ 2026 khi đánh bại đội tuyển nữ Iran 2-0 ở lượt đấu cuối bảng A, diễn ra chiều 8.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T11:17:00+07:00",
+      "fetched": "2026-03-08T19:28:09.095459+07:00"
+    },
+    {
+      "id": "34b8317d8d780f0a22903836ab5ed4aa",
+      "title": "Cách tra cứu người ứng cử và chọn nơi bỏ phiếu trên VNeID",
+      "link": "https://vnexpress.net/cach-tra-cuu-nguoi-ung-cu-va-chon-noi-bo-phieu-tren-vneid-5047962.html",
+      "summary": "Ngoài cách xem trực tiếp, người dân có thể sử dụng chức năng bầu cử Quốc hội khóa XVI trên VNeID để theo dõi hoặc thay đổi nơi bỏ phiếu và xem danh sách người ứng cử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T11:16:53+07:00",
+      "fetched": "2026-03-08T19:28:05.708075+07:00"
+    },
+    {
+      "id": "141faa4cc192962116f8f3102c700214",
+      "title": "Trải nghiệm tắm rừng ở Nhật Bản để 'chữa lành'",
+      "link": "https://vnexpress.net/trai-nghiem-tam-rung-o-nhat-ban-de-chua-lanh-4934559.html",
+      "summary": "Tắm rừng Shinrin-yoku là một trải nghiệm được những người làm du lịch Nhật Bản hướng đến để thu hút du khách muốn \"chữa lành\" tâm hồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T11:07:14+07:00",
+      "fetched": "2026-03-08T19:28:05.708275+07:00"
+    },
+    {
+      "id": "bbc4c022d0880e78b45b15d44e04939a",
+      "title": "Ngành y tế Cà Mau thiếu nhân lực, nợ lương, nhiều cơ sở xuống cấp",
+      "link": "https://thanhnien.vn/nganh-y-te-ca-mau-thieu-nhan-luc-no-luong-nhieu-co-so-xuong-cap-185260308145356121.htm",
+      "summary": "Theo báo cáo của Sở Y tế Cà Mau, sau khi sắp xếp bộ máy, hệ thống y tế cơ bản ổn định nhưng đang đối mặt nhiều khó khăn về nhân lực, tài chính và cơ sở vật chất, đặc biệt ở tuyến cơ sở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T11:07:00+07:00",
+      "fetched": "2026-03-08T19:28:09.095607+07:00"
+    },
+    {
       "id": "ee7ea06a0d4aafdbc920b5bbf560c447",
       "title": "2.100 cử tri Thổ Châu đi bầu cử sớm",
       "link": "https://tuoitre.vn/2-100-cu-tri-tho-chau-di-bau-cu-som-20260308091623547.htm",
@@ -553,6 +843,46 @@ window.newsData_2026_03_08 = {
       "fetched": "2026-03-08T11:02:33.875334+07:00"
     },
     {
+      "id": "46f6a12c45289ea0fb8feed9370846c7",
+      "title": "Highlight Trường ĐH Sư phạm TP.HCM 0-2 Trường ĐH Công nghệ Đồng Nai: Bản lĩnh trận ra quân",
+      "link": "https://thanhnien.vn/highlight-truong-dh-su-pham-tphcm-0-2-truong-dh-cong-nghe-dong-nai-ban-linh-tran-ra-quan-185260308175844282.htm",
+      "summary": "Tạo ra thế trận lấn lướt cùng hàng loạt cơ hội nguy hiểm, Trường ĐH Công nghệ Đồng Nai giành chiến thắng thuyết phục 2-0 trước Trường ĐH Sư phạm TP.HCM trong trận ra quân bảng B VCK giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T10:59:00+07:00",
+      "fetched": "2026-03-08T19:28:09.095751+07:00"
+    },
+    {
+      "id": "cd2fc89e9f8faf31b72442d9bf3f96ef",
+      "title": "Wi-Fi 7 siêu tốc liệu đủ khai tử mạng internet có dây?",
+      "link": "https://thanhnien.vn/wi-fi-7-sieu-toc-lieu-du-khai-tu-mang-internet-co-day-185260308143041136.htm",
+      "summary": "Wi-Fi ngày càng nhanh, đủ đáp ứng hầu hết nhu cầu truy cập mạng internet hằng ngày. Tuy vậy, Ethernet vẫn được đánh giá cao về độ ổn định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T10:44:00+07:00",
+      "fetched": "2026-03-08T19:28:09.095893+07:00"
+    },
+    {
+      "id": "dbde03a2a7b6e48feadbd6804af814c0",
+      "title": "Xóa sổ một hình thức thi IELTS từ giữa năm nay",
+      "link": "https://thanhnien.vn/xoa-so-mot-hinh-thuc-thi-ielts-tu-giua-nam-nay-185260308172213025.htm",
+      "summary": "Trước đó, hình thức thi IELTS này cũng bị dừng ở nhiều quốc gia, vùng lãnh thổ trong đó có Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T10:39:00+07:00",
+      "fetched": "2026-03-08T19:28:09.096037+07:00"
+    },
+    {
+      "id": "6b7453a66e8f4c65fc281ee12f0edebf",
+      "title": "Vì sao có đến 2 nhà đầu tư muốn đặt nhà máy luyện nhôm tại Vĩnh Hảo?",
+      "link": "https://thanhnien.vn/vi-sao-co-den-2-nha-dau-tu-muon-dat-nha-may-luyen-nhom-tai-vinh-hao-185260308154815622.htm",
+      "summary": "Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam đang kiến nghị UBND tỉnh Lâm Đồng chấp thuận dự án nhà máy luyện nhôm tại xã Vĩnh Hảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T10:35:00+07:00",
+      "fetched": "2026-03-08T19:28:09.096189+07:00"
+    },
+    {
       "id": "6ab97244c2b1ba2e7e55378b3d4bc887",
       "title": "Xe khách 25 chỗ ‘nhồi’ 44 người bị phạt hơn 140 triệu đồng",
       "link": "https://thanhnien.vn/xe-khach-25-cho-nhoi-44-nguoi-bi-phat-hon-140-trieu-dong-185260308164426211.htm",
@@ -641,6 +971,16 @@ window.newsData_2026_03_08 = {
       "category": "Tổng hợp",
       "published": "2026-03-08T10:00:00+07:00",
       "fetched": "2026-03-08T17:16:07.696327+07:00"
+    },
+    {
+      "id": "688ee1635ccdf851e6b2d6de883c69fb",
+      "title": "Điểm tin 17h: 'Mưa đen' trút xuống Tehran sau khi Israel tập kích cơ sở dầu mỏ | Iran rút lại tuyên bố 'ngừng tập kích các nước láng giềng'",
+      "link": "https://vnexpress.net/diem-tin-17h-mua-den-trut-xuong-tehran-sau-khi-israel-tap-kich-co-so-dau-mo-iran-rut-lai-tuyen-bo-ngung-tap-kich-cac-nuoc-lang-gieng-5047985.html",
+      "summary": "Giá khí đốt ở châu Âu tăng 60%; Kuwait giảm sản lượng khai thác dầu;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T10:00:00+07:00",
+      "fetched": "2026-03-08T19:28:05.708595+07:00"
     },
     {
       "id": "ffbca189f5a65247b56a0148e777d286",
