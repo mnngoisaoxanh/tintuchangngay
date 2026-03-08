@@ -1,7 +1,157 @@
 window.newsData_2026_03_08 = {
   "date": "2026-03-08",
-  "lastUpdated": "2026-03-08T13:31:29.498435+07:00",
+  "lastUpdated": "2026-03-08T15:20:12.879304+07:00",
   "articles": [
+    {
+      "id": "f9cf0d87fbdf20adbc07228ddc7fb1d2",
+      "title": "Thiếu niên bị đánh nằm gục giữa đường ở Phú Quốc là học sinh lớp 10",
+      "link": "https://tuoitre.vn/thieu-nien-bi-danh-nam-guc-giua-duong-o-phu-quoc-la-hoc-sinh-lop-10-20260308113445819.htm",
+      "summary": "Trung tâm Giáo dục nghề nghiệp và giáo dục thường xuyên cụm đặc khu Phú Quốc (tỉnh An Giang) vừa có báo cáo và xác nhận thiếu niên bị nhóm thanh thiếu niên đánh hội đồng nằm gục dưới đường là em L. học sinh lớp 10A2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.746639+07:00",
+      "fetched": "2026-03-08T15:20:05.746751+07:00"
+    },
+    {
+      "id": "9e4cefe6b64c47b5c315a1a3ef670562",
+      "title": "Mong AFC đối xử công bằng giữa Malaysia và Việt Nam",
+      "link": "https://tuoitre.vn/mong-afc-doi-xu-cong-bang-giua-malaysia-va-viet-nam-20260307225523006.htm",
+      "summary": "Mong Liên đoàn Bóng đá châu Á (AFC) hãy công tâm, thượng tôn pháp luật khi xử lý vụ nhập tịch cầu thủ trái phép của bóng đá Malaysia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.746511+07:00",
+      "fetched": "2026-03-08T15:20:05.746623+07:00"
+    },
+    {
+      "id": "2e35c5c2d0951d3a135748d3f6f2d619",
+      "title": "Tổng giám đốc Saigon Co.op đề xuất giải pháp bình ổn giá hàng hóa, chống đầu cơ",
+      "link": "https://tuoitre.vn/tong-giam-doc-saigon-co-op-de-xuat-giai-phap-binh-on-gia-hang-hoa-chong-dau-co-2026030812385433.htm",
+      "summary": "Sáng 8-3, các ứng cử viên đại biểu HĐND TP.HCM khóa XI, nhiệm kỳ 2026 - 2031 đơn vị bầu cử số 23 tiếp xúc cử tri.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.746379+07:00",
+      "fetched": "2026-03-08T15:20:05.746498+07:00"
+    },
+    {
+      "id": "9d5214b59aebd0ea212f3a8577669ca2",
+      "title": "Học sinh 'chạm tay' robot, drone, máy kích tim để thử nghề tại ngày hội tư vấn tuyển sinh",
+      "link": "https://tuoitre.vn/hoc-sinh-cham-tay-robot-drone-may-kich-tim-de-thu-nghe-tai-ngay-hoi-tu-van-tuyen-sinh-20260308121256636.htm",
+      "summary": "Hàng loạt thiết bị công nghệ, mô hình thực hành như robot, máy kích tim, drone, in 3D… được các trường mang tới ngày hội tư vấn tuyển sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.746254+07:00",
+      "fetched": "2026-03-08T15:20:05.746366+07:00"
+    },
+    {
+      "id": "808a33f1752a8efe7aeded5c6a9b4d4e",
+      "title": "Nhà mặt tiền bỗng cheo leo trên 'đồi'; Con dâu tráo 280 chỉ vàng thật thành vàng giả",
+      "link": "https://tuoitre.vn/nha-mat-tien-bong-cheo-leo-tren-doi-con-dau-trao-280-chi-vang-that-thanh-vang-gia-20260307205500349.htm",
+      "summary": "Đó là những thông tin thu hút bạn đọc quan tâm tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.746128+07:00",
+      "fetched": "2026-03-08T15:20:05.746242+07:00"
+    },
+    {
+      "id": "23a40ecb6765567fc8ef1e6fd82acc4c",
+      "title": "Mỗi dịp 8-3, mạng xã hội rộn ràng ảnh các ông chồng vào bếp, và sau đó là...",
+      "link": "https://tuoitre.vn/moi-dip-8-3-mang-xa-hoi-ron-rang-anh-cac-ong-chong-vao-bep-va-sau-do-la-20260224172118804.htm",
+      "summary": "Mỗi dịp 8-3 và 20-10, mạng xã hội lại rộn ràng những dòng trạng thái quen thuộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.745994+07:00",
+      "fetched": "2026-03-08T15:20:05.746112+07:00"
+    },
+    {
+      "id": "265edf03125daaec4c306d7958897172",
+      "title": "Bóng đá nữ Việt Nam cần thay đổi mạnh mẽ",
+      "link": "https://tuoitre.vn/bong-da-nu-viet-nam-can-thay-doi-manh-me-2026030808570526.htm",
+      "summary": "Với trận thua Đài Bắc Trung Hoa, HLV Mai Đức Chung cho rằng vì thời tiết và đội tuyển nữ Việt Nam mất bình tĩnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.745836+07:00",
+      "fetched": "2026-03-08T15:20:05.745980+07:00"
+    },
+    {
+      "id": "81999684b6340463fecf5116f23fcaf5",
+      "title": "6 yếu tố lối sống tác động đến nguy cơ ung thư vú",
+      "link": "https://tuoitre.vn/6-yeu-to-loi-song-tac-dong-den-nguy-co-ung-thu-vu-20260304171134114.htm",
+      "summary": "Hơn 1/4 số năm sống khỏe mạnh bị mất do ung thư vú có liên quan các yếu tố lối sống như tiêu thụ thịt đỏ và hút thuốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.745698+07:00",
+      "fetched": "2026-03-08T15:20:05.745824+07:00"
+    },
+    {
+      "id": "b54a442d476921772291c1b59925a5ec",
+      "title": "Thu từ dịch vụ bất động sản ở Đà Nẵng tăng gần 30% so với cùng kỳ",
+      "link": "https://tuoitre.vn/thu-tu-dich-vu-bat-dong-san-o-da-nang-tang-gan-30-so-voi-cung-ky-20260308131059529.htm",
+      "summary": "Thu từ dịch vụ kinh doanh bất động sản tại Đà Nẵng trong tháng 2-2026 so với cùng kỳ năm ngoái tăng tới 29,2%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.745565+07:00",
+      "fetched": "2026-03-08T15:20:05.745684+07:00"
+    },
+    {
+      "id": "0c83ca1fd2290de5da81e65b5cd6cd24",
+      "title": "Chồng lo con cái, học hành, tài chính, hai bên nội ngoại, 8-3 vợ còn đòi quà",
+      "link": "https://tuoitre.vn/chong-lo-con-cai-hoc-hanh-tai-chinh-hai-ben-noi-ngoai-8-3-vo-con-doi-qua-202603071828351.htm",
+      "summary": "Không ít người thừa nhận rằng nếu không có quà 8-3, hoặc món quà quá đơn giản, mối quan hệ ít nhiều bị sứt mẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.745434+07:00",
+      "fetched": "2026-03-08T15:20:05.745552+07:00"
+    },
+    {
+      "id": "1f3b1ff87003df087e9510f579421fef",
+      "title": "Sau sự cố cầu Ghềnh, nhiều tàu ngừng chạy, trả vé không mất phí",
+      "link": "https://tuoitre.vn/sau-su-co-cau-ghenh-nhieu-tau-ngung-chay-tra-ve-khong-mat-phi-20260308091509041.htm",
+      "summary": "Sau sự cố cầu Ghềnh, ngành đường sắt thông báo tạm ngừng chạy một số chuyến tàu phía Nam xuất phát từ ga Sài Gòn từ ngày 8-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.745302+07:00",
+      "fetched": "2026-03-08T15:20:05.745421+07:00"
+    },
+    {
+      "id": "8c26c1273917686e0ce9ad82800ae697",
+      "title": "TP.HCM yêu cầu phân bổ 18.400 tỉ vốn dự phòng trong tháng 3",
+      "link": "https://tuoitre.vn/tp-hcm-yeu-cau-phan-bo-18-400-ti-von-du-phong-trong-thang-3-20260308132906212.htm",
+      "summary": "TP.HCM vừa yêu cầu các đơn vị khẩn trương hoàn tất thủ tục để phân bổ hết 18.400 tỉ đồng vốn dự phòng trong tháng 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.745171+07:00",
+      "fetched": "2026-03-08T15:20:05.745290+07:00"
+    },
+    {
+      "id": "e47b07af19b64c5d3f7cdfc2d1293c95",
+      "title": "Cho vay không còn 'hái ra tiền' với ngân hàng, vì đâu 'người giàu cũng khóc'?",
+      "link": "https://tuoitre.vn/cho-vay-khong-con-hai-ra-tien-voi-ngan-hang-vi-dau-nguoi-giau-cung-khoc-20260308112049813.htm",
+      "summary": "Báo cáo tài chính năm 2025 cho thấy bức tranh ngành ngân hàng tiếp tục sáng về tăng trưởng tín dụng, nhưng lại tối hơn ở chất lượng sinh lời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.745036+07:00",
+      "fetched": "2026-03-08T15:20:05.745159+07:00"
+    },
+    {
+      "id": "9bce04e404e26b953d6e355681a3ab1c",
+      "title": "Cháy lớn dãy nhà trong hẻm nhỏ ở TP.HCM",
+      "link": "https://tuoitre.vn/chay-lon-day-nha-trong-hem-nho-o-tp-hcm-20260308142607313.htm",
+      "summary": "Trưa 8-3, ngọn lửa bất ngờ bùng cháy dữ dội từ dãy nhà trong hẻm nhỏ đường Thái Phiên, phường Minh Phụng, gần cầu vượt Cây Gõ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.744876+07:00",
+      "fetched": "2026-03-08T15:20:05.745021+07:00"
+    },
+    {
+      "id": "65b64bf673e5e16ce11cdb7c727290a7",
+      "title": "Cử tri Bình Lợi kỳ vọng đại biểu gần dân, phản ánh nguyện vọng của dân",
+      "link": "https://tuoitre.vn/cu-tri-binh-loi-ky-vong-dai-bieu-gan-dan-phan-anh-nguyen-vong-cua-dan-20260308130735372.htm",
+      "summary": "Ngày 8-3, Ủy ban Bầu cử xã Bình Lợi (TP.HCM) tổ chức lễ phát động cao điểm tuyên truyền, vận động bầu cử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T15:20:05.744617+07:00",
+      "fetched": "2026-03-08T15:20:05.744839+07:00"
+    },
     {
       "id": "d8f1999c676a1a0ba52e88e9808a835c",
       "title": "Ông Trump nói không cần tàu sân bay của Anh nữa, 'nhưng sẽ ghi nhớ chuyện này'",
@@ -303,6 +453,16 @@ window.newsData_2026_03_08 = {
       "fetched": "2026-03-08T11:02:33.875334+07:00"
     },
     {
+      "id": "9437ba7c9cc88c402c3b1082f0f2c4d5",
+      "title": "Tỷ phú hàng hải không ngại nguy hiểm ở eo biển ​​Hormuz",
+      "link": "https://vnexpress.net/ty-phu-hang-hai-khong-ngai-nguy-hiem-o-eo-bien-hormuz-5047913.html",
+      "summary": "Tận dụng cơ hội khi các hãng vận chuyển né tránh eo biển ​​Hormuz do xung đột, tỷ phú Hy Lạp George Prokopiou vẫn điều thêm tàu dầu đi qua khu vực này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-08T08:15:00+07:00",
+      "fetched": "2026-03-08T15:20:09.272137+07:00"
+    },
+    {
       "id": "6b8e75460b0779fa52341f0946c2b5a3",
       "title": "Làm trai rửa bát, quét nhà...",
       "link": "https://tuoitre.vn/lam-trai-rua-bat-quet-nha-2026030311224254.htm",
@@ -451,6 +611,326 @@ window.newsData_2026_03_08 = {
       "category": "Tổng hợp",
       "published": "2026-03-08T08:14:52.051466+07:00",
       "fetched": "2026-03-08T08:14:52.051708+07:00"
+    },
+    {
+      "id": "f65f64719164d095d53a24ba7380952b",
+      "title": "CSGT TP.HCM siết kiểm tra tốc độ trên quốc lộ 13, phát hiện tài xế chạy hơn 100 km/h",
+      "link": "https://thanhnien.vn/csgt-tphcm-siet-kiem-tra-toc-do-tren-quoc-lo-13-phat-hien-tai-xe-chay-hon-100-km-h-185260308124605286.htm",
+      "summary": "CSGT TP.HCM tăng cường kiểm soát tốc độ trên quốc lộ 13, phát hiện nhiều trường hợp vi phạm, trong đó có tài xế ô tô chạy hơn 100 km/h.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:00+07:00",
+      "fetched": "2026-03-08T15:20:04.711962+07:00"
+    },
+    {
+      "id": "e803418fc6106f25a42bccb9ae3381a2",
+      "title": "Iran rộng lớn thế nào",
+      "link": "https://vnexpress.net/iran-rong-lon-the-nao-5047489.html",
+      "summary": "Iran có diện tích gần 1,65 triệu km2, lớn thứ 17 trên thế giới, gấp 79 lần Israel và bằng một nửa Ấn Độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:08:45+07:00",
+      "fetched": "2026-03-08T15:20:01.463983+07:00"
+    },
+    {
+      "id": "e803418fc6106f25a42bccb9ae3381a2",
+      "title": "Iran rộng lớn thế nào",
+      "link": "https://vnexpress.net/iran-rong-lon-the-nao-5047489.html",
+      "summary": "Iran có diện tích gần 1,65 triệu km2, lớn thứ 17 trên thế giới, gấp 79 lần Israel và bằng một nửa Ấn Độ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-08T08:08:45+07:00",
+      "fetched": "2026-03-08T15:20:07.355773+07:00"
+    },
+    {
+      "id": "59df448e6a50106419419dba95881565",
+      "title": "Cơ sở dầu mỏ tại Iran chìm trong biển lửa khi Israel tập kích",
+      "link": "https://vnexpress.net/co-so-dau-mo-tai-iran-chim-trong-bien-lua-khi-israel-tap-kich-5047954.html",
+      "summary": "Khói lửa bao trùm nhà máy lọc dầu ở Tehran, lần đầu cơ sở dầu mỏ Iran bị tấn công kể từ khi Mỹ - Israel mở chiến dịch quân sự nhằm vào nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:03:56+07:00",
+      "fetched": "2026-03-08T15:20:01.464168+07:00"
+    },
+    {
+      "id": "3bf0d8e844b2c5a13832323dd3d018d5",
+      "title": "Hàng ngàn thanh niên công nhân tham dự Phở yêu thương",
+      "link": "https://thanhnien.vn/hang-ngan-thanh-nien-cong-nhan-tham-du-pho-yeu-thuong-185260308134141607.htm",
+      "summary": "Sáng 8.3, hàng ngàn thanh niên công nhân ở xã Bàu Bàng (TP.HCM) tham gia chương trình \"Phở yêu thương\" cùng với nguyên Chủ tịch nước Nguyễn Minh Triết và chị Nguyễn Phạm Duy Trang, Bí thư Trung ương Đoàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:01:00+07:00",
+      "fetched": "2026-03-08T15:20:04.712135+07:00"
+    },
+    {
+      "id": "cda02073172ef01b6cfab89ff1e4d1d6",
+      "title": "Tài xế tông ngã hai người đi xe máy rồi bỏ chạy",
+      "link": "https://vnexpress.net/tai-xe-tong-nga-hai-nguoi-di-xe-may-roi-bo-chay-5047953.html",
+      "summary": "Tài xế ôtô không kiểm soát được tay lái, tốc độ, tông ngã xe máy rồi bỏ chạy ngay sau đó, ngày 5/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:55:14+07:00",
+      "fetched": "2026-03-08T15:20:01.464335+07:00"
+    },
+    {
+      "id": "4d2b425653089df36e90acdee6d27a57",
+      "title": "Cháy dãy nhà trong hẻm sâu ở TP.HCM",
+      "link": "https://thanhnien.vn/chay-day-nha-trong-hem-sau-o-tphcm-185260308143020481.htm",
+      "summary": "Cháy căn nhà 2 tầng trong con hẻm nhỏ trên đường Thái Phiên, gần cầu vượt Cây Gõ (quận 11 cũ), lan sang 3 căn nhà bên cạnh, khiến nhiều tài sản bị thiêu rụi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:44:00+07:00",
+      "fetched": "2026-03-08T15:20:04.712294+07:00"
+    },
+    {
+      "id": "2497c689a3b5f68830c084f3ec166980",
+      "title": "Sân nhà dân ở Cà Mau thành lối thoát nạn khi đổ dốc cầu",
+      "link": "https://vnexpress.net/san-nha-dan-o-ca-mau-thanh-loi-thoat-nan-khi-do-doc-cau-5047930.html",
+      "summary": "Sân nhà anh Nguyễn Hoàng Duy ở xã Châu Thới trở thành nơi đón những người đi đường lạc tay lái khi đổ dốc cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:35:27+07:00",
+      "fetched": "2026-03-08T15:20:01.464506+07:00"
+    },
+    {
+      "id": "5467868b6670eae1b56e21a626d4e4b3",
+      "title": "Cuộc đấu đầy duyên nợ giữa nhà đương kim vô địch và á quân",
+      "link": "https://thanhnien.vn/cuoc-dau-day-duyen-no-giua-nha-duong-kim-vo-dich-va-a-quan-185260308141516662.htm",
+      "summary": "VCK giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO cup 2026) chứng kiến màn tái đấu đầy duyên nợ tại bảng C giữa đương kim vô địch Trường ĐH VH-TT-DL Thanh Hóa và đương kim á quân Trường ĐH TDTT Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:35:00+07:00",
+      "fetched": "2026-03-08T15:20:04.712455+07:00"
+    },
+    {
+      "id": "dab85c1171dbea48a153b5993f5fbc32",
+      "title": "Những bóng hồng tỏa sáng trên đường đua Biwase Tour of Vietnam 2026",
+      "link": "https://thanhnien.vn/nhung-bong-hong-toa-sang-tren-duong-dua-biwase-tour-of-vietnam-2026-185260308141147341.htm",
+      "summary": "Lâm Thị Thị Dương và Nguyễn Thị Thật là 2 cua rơ Việt Nam thi đấu ấn tượng tại giải xe đạp nữ quốc tế Biwase Tour of Vietnam 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:35:00+07:00",
+      "fetched": "2026-03-08T15:20:04.712604+07:00"
+    },
+    {
+      "id": "5838619e067000c993061c2cc0286352",
+      "title": "Nhiều lãnh đạo đại học ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://thanhnien.vn/nhieu-lanh-dao-dai-hoc-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-185260308120013369.htm",
+      "summary": "Trong danh sách chính thức 864 người ứng cử đại biểu Quốc hội khóa XVI tại 34 tỉnh, thành phố cả nước được Hội đồng Bầu cử quốc gia công bố, có một số ứng viên là giám đốc, hiệu trưởng, Bí thư Đảng ủy, phó hiệu trưởng các cơ sở đào tạo đại học (ĐH).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:35:00+07:00",
+      "fetched": "2026-03-08T15:20:04.712766+07:00"
+    },
+    {
+      "id": "7c7e79481485caeb34cd849782459778",
+      "title": "Hoa hậu Thanh Thủy cùng hơn 5.000 sinh viên hiến máu tại ‘Chủ nhật đỏ’",
+      "link": "https://thanhnien.vn/hoa-hau-thanh-thuy-cung-hon-5000-sinh-vien-hien-mau-tai-chu-nhat-do-185260308135919699.htm",
+      "summary": "Hơn 5.000 sinh viên tại TP.HCM tham gia hiến máu trong ngày hội 'Chủ nhật đỏ'. Sự góp mặt của Hoa hậu Thanh Thủy, nhạc sĩ Nguyễn Văn Chung cùng nhiều nghệ sĩ đã góp phần lan tỏa thông điệp hiến máu cứu người trong cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:33:00+07:00",
+      "fetched": "2026-03-08T15:20:04.712941+07:00"
+    },
+    {
+      "id": "344349c0a27e874c0103134532490af9",
+      "title": "Tùng Dương đu dây, hát nhạc remix",
+      "link": "https://thanhnien.vn/tung-duong-du-day-hat-nhac-remix-185260308142957658.htm",
+      "summary": "Ca sĩ Tùng Dương tiết lộ sẽ tổ chức liveshow tại sân vận động vào cuối năm nay nếu tiếp tục nhận được sự ủng hộ của Gen Z. Chia sẻ này khiến hàng ngàn người hâm mộ phấn khích và vỗ tay không ngớt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:30:00+07:00",
+      "fetched": "2026-03-08T15:20:04.713092+07:00"
+    },
+    {
+      "id": "0b127169ed513ef2c558958de55c1f78",
+      "title": "Trường ĐH Đồng Tháp 0-0 Trường ĐH Thủy lợi: Khẳng định vị thế",
+      "link": "https://thanhnien.vn/truong-dh-dong-thap-0-0-truong-dh-thuy-loi-khang-dinh-vi-the-185260308100004846.htm",
+      "summary": "Trở lại vòng chung kết giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO cup 2026) sau 1 năm vắng bóng, Trường ĐH Thủy lợi khao khát khẳng định sức mạnh của đội từng hai lần đoạt ngôi nhì, với màn khởi động gặp Trường ĐH Đồng Tháp ở trận ra quân bảng B diễn ra lúc 15 giờ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:29:00+07:00",
+      "fetched": "2026-03-08T15:20:04.713242+07:00"
+    },
+    {
+      "id": "0f08c94029146da9939b4e997ad26067",
+      "title": "Khi tà áo dài kể câu chuyện của những 'bông hồng thép'",
+      "link": "https://thanhnien.vn/thoi-trang-tre/khi-ta-ao-dai-ke-cau-chuyen-cua-nhung-bong-hong-thep-185260307185618058.htm",
+      "summary": "Lấy cảm hứng từ hình tượng 'bông hồng thép', bộ sưu tập (BST) áo dài 'Hương thời gian' được xây dựng như một câu chuyện về hành trình của người phụ nữ qua những giai đoạn khác nhau của cuộc đời, được thể hiện qua 4 gam màu chủ đạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:27:00+07:00",
+      "fetched": "2026-03-08T15:20:04.713391+07:00"
+    },
+    {
+      "id": "023f87a8d2609740ea5cbc4dfcb189d1",
+      "title": "'Mổ xẻ' Galaxy S26 Ultra, phát hiện bí mật được Samsung giấu kín",
+      "link": "https://thanhnien.vn/mo-xe-galaxy-s26-ultra-phat-hien-bi-mat-duoc-samsung-giau-kin-185260308133917762.htm",
+      "summary": "Phát hiện bước đi khôn ngoan của Samsung khiến các đối thủ phải học hỏi khi mổ xẻ nội thất của Galaxy S26 Ultra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:24:00+07:00",
+      "fetched": "2026-03-08T15:20:04.713542+07:00"
+    },
+    {
+      "id": "1e950b2c4b19aa93ff2e496a0a3b867a",
+      "title": "Cách Singapore siết an toàn vệ sinh thực phẩm hàng quán rong",
+      "link": "https://vnexpress.net/cach-singapore-siet-an-toan-ve-sinh-thuc-pham-hang-quan-rong-5047740.html",
+      "summary": "Theo quy định của Bộ Phát triển Bền vững và Môi trường Singapore, tất cả những người chế biến thực phẩm, dù làm việc trong cơ sở bán lẻ, đều phải tham gia khóa học và đạt chứng chỉ An toàn Thực phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:23:18+07:00",
+      "fetched": "2026-03-08T15:20:01.464672+07:00"
+    },
+    {
+      "id": "e982c3e38d55e429ed5b850c6104ad2d",
+      "title": "Honor X8d - smartphone mỏng nhẹ pin 7.000 mAh",
+      "link": "https://vnexpress.net/honor-x8d-smartphone-mong-nhe-pin-7-000-mah-5047807.html",
+      "summary": "Honor X8d mỏng 7,5 mm và nặng 188 g nhưng có pin 7.000 mAh, cùng khả năng chống rơi vỡ từ độ cao 2 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:23:07+07:00",
+      "fetched": "2026-03-08T15:20:01.464836+07:00"
+    },
+    {
+      "id": "e982c3e38d55e429ed5b850c6104ad2d",
+      "title": "Honor X8d - smartphone mỏng nhẹ pin 7.000 mAh",
+      "link": "https://vnexpress.net/honor-x8d-smartphone-mong-nhe-pin-7-000-mah-5047807.html",
+      "summary": "Honor X8d mỏng 7,5 mm và nặng 188 g nhưng có pin 7.000 mAh, cùng khả năng chống rơi vỡ từ độ cao 2 m.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-08T07:23:07+07:00",
+      "fetched": "2026-03-08T15:20:11.428494+07:00"
+    },
+    {
+      "id": "fa7805586f2463ef94bee404c721dc6d",
+      "title": "Hơn 58.000 người đồng diễn áo dài tại TP HCM",
+      "link": "https://vnexpress.net/hon-58-000-nguoi-dong-dien-ao-dai-tai-tp-hcm-5047938.html",
+      "summary": "Hơn 58.000 người diện áo dài đủ kiểu dáng, màu sắc đồng diễn trên tuyến đường Nguyễn Huệ và 35 địa điểm ở TP HCM, ngày 8/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:21:42+07:00",
+      "fetched": "2026-03-08T15:20:01.465015+07:00"
+    },
+    {
+      "id": "2862b92e3f3c46e4263d38dfffcee383",
+      "title": "Vì sao ổ đĩa quang trở thành 'di tích công nghệ' trên máy tính?",
+      "link": "https://thanhnien.vn/vi-sao-o-dia-quang-tro-thanh-di-tich-cong-nghe-tren-may-tinh-185260308104119663.htm",
+      "summary": "Việc tìm kiếm một chiếc máy tính mới, đặc biệt là laptop, có ổ đĩa quang tích hợp để đọc đĩa CD, DVD hay Blu-ray ngày càng trở nên khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:16:00+07:00",
+      "fetched": "2026-03-08T15:20:04.713698+07:00"
+    },
+    {
+      "id": "48da34bfedb1dea7a59685eac1da2af7",
+      "title": "Motorola nghiên cứu smartphone doanh nghiệp chạy GrapheneOS",
+      "link": "https://thanhnien.vn/motorola-nghien-cuu-smartphone-doanh-nghiep-chay-grapheneos-185260308123246713.htm",
+      "summary": "GrapheneOS, hệ điều hành Android tập trung bảo mật, đang được nghiên cứu để triển khai trên smartphone doanh nghiệp thông qua hợp tác với Motorola.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:11:00+07:00",
+      "fetched": "2026-03-08T15:20:04.713873+07:00"
+    },
+    {
+      "id": "3c64c48166378769c75706292f92c9b9",
+      "title": "'Phim Việt vô hồn vì để ca sĩ, diễn viên hài lấn sân'",
+      "link": "https://vnexpress.net/phim-viet-vo-hon-vi-de-ca-si-dien-vien-hai-lan-san-5047921.html",
+      "summary": "Nhiều bộ phim ăn khách gần đây, từ vai chính đến vai phụ, phần lớn là ca sĩ, rapper, người mẫu, nghệ sĩ hài... thay vì diễn viên chuyên nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:08:17+07:00",
+      "fetched": "2026-03-08T15:20:01.465182+07:00"
+    },
+    {
+      "id": "66cbf1e3dd0de459b6ae3a6d50867d06",
+      "title": "Hướng dẫn sử dụng mặt nạ Trioderma Blemish Care Essence Mask da cải thiện sau 1 đêm",
+      "link": "https://thanhnien.vn/huong-dan-su-dung-mat-na-trioderma-blemish-care-essence-mask-da-cai-thien-sau-1-dem-185260308142548651.htm",
+      "summary": "Da mụn thường nhạy cảm và dễ tổn thương sau một ngày dài tiếp xúc với khói bụi, dầu thừa và vi khuẩn. Với một bước chăm sóc đúng cách vào buổi tối cũng có thể giúp làn da 'nạp năng lượng' vào sáng hôm sau. Trioderma Blemish Care Essence Mask tân binh trong dòng mask dành cho da mụn đang được tín đồ ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:05:00+07:00",
+      "fetched": "2026-03-08T15:20:04.714028+07:00"
+    },
+    {
+      "id": "b537055851bcac94115f6fda379ec7df",
+      "title": "'Hạt cơm' - tổn thương nhỏ có thể lây lan to",
+      "link": "https://vnexpress.net/hat-com-ton-thuong-nho-co-the-lay-lan-to-5047383.html",
+      "summary": "Hạt cơm, tức mụn cóc, là tổn thương lành tính song có thể lan rộng và tái phát nhiều lần, ảnh hưởng thẩm mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:00:00+07:00",
+      "fetched": "2026-03-08T15:20:01.465334+07:00"
+    },
+    {
+      "id": "288f37c48bb3b5eeefa54ab2b66b5853",
+      "title": "AI có thể lập trình, lập trình viên có còn ‘đất sống’?",
+      "link": "https://thanhnien.vn/ai-co-the-lap-trinh-lap-trinh-vien-co-con-dat-song-185260306185728212.htm",
+      "summary": "Một thí sinh băn khoăn: ''Ngày nay AI có thể lập trình, vậy em có nên học ngành kỹ thuật phần mềm hay không? Ngành này tại Trường ĐH Kinh tế - Tài chính TP.HCM tuyển phương thức nào và mức điểm khoảng bao nhiêu thì có cơ hội đậu? Làm thế nào để lập trình viên không bị AI cướp mất việc?''.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T07:00:00+07:00",
+      "fetched": "2026-03-08T15:20:04.714182+07:00"
+    },
+    {
+      "id": "75b2356b22a7e66026a73c6ec73993ed",
+      "title": "Thí sinh không được chọn quy đổi hay điểm ưu tiên với IELTS",
+      "link": "https://vnexpress.net/bo-giao-duc-tra-loi-nen-dung-ielts-de-quy-doi-hay-cong-diem-uu-tien-dai-hoc-5047918.html",
+      "summary": "Nhiều thí sinh lúng túng việc dùng IELTS để quy đổi hay cộng điểm ưu tiên khi xét tuyển đại học, đại diện Bộ Giáo dục nói việc này do quy định riêng của từng trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T06:51:02+07:00",
+      "fetched": "2026-03-08T15:20:01.465490+07:00"
+    },
+    {
+      "id": "bf3011f7f7f5e7cdec35219b76025f72",
+      "title": "Trung Quốc phản đối dùng vũ lực tại Trung Đông",
+      "link": "https://vnexpress.net/trung-quoc-phan-doi-dung-vu-luc-tai-trung-dong-5047910.html",
+      "summary": "Ngoại trưởng Trung Quốc Vương Nghị khẳng định vũ lực không phải giải pháp và xung đột vũ trang sẽ chỉ gây thêm những cuộc khủng hoảng mới ở Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T06:38:47+07:00",
+      "fetched": "2026-03-08T15:20:01.465651+07:00"
+    },
+    {
+      "id": "bf3011f7f7f5e7cdec35219b76025f72",
+      "title": "Trung Quốc phản đối dùng vũ lực tại Trung Đông",
+      "link": "https://vnexpress.net/trung-quoc-phan-doi-dung-vu-luc-tai-trung-dong-5047910.html",
+      "summary": "Ngoại trưởng Trung Quốc Vương Nghị khẳng định vũ lực không phải giải pháp và xung đột vũ trang sẽ chỉ gây thêm những cuộc khủng hoảng mới ở Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-08T06:38:47+07:00",
+      "fetched": "2026-03-08T15:20:07.355978+07:00"
+    },
+    {
+      "id": "ef88a9b977e36166fe49958541cdc7bc",
+      "title": "Cháy dãy nhà ở TP HCM",
+      "link": "https://vnexpress.net/chay-day-nha-o-tp-hcm-5047940.html",
+      "summary": "Đám cháy bùng phát từ ngôi nhà gần cầu vượt Cây Gõ (quận 11 cũ), lan sang ba căn khác, khiến khu dân cư hoảng loạn, trưa 8/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T06:35:38+07:00",
+      "fetched": "2026-03-08T15:20:01.465811+07:00"
+    },
+    {
+      "id": "760e8fed890f9893b72fbf453da9fc73",
+      "title": "Hơn 5.000 sinh viên TP HCM hiến máu nhân đạo",
+      "link": "https://vnexpress.net/hon-5-000-sinh-vien-tp-hcm-hien-mau-nhan-dao-5047919.html",
+      "summary": "Hơn 5.000 sinh viên từ 20 trường đại học và giới trẻ TP HCM tham gia hiến máu trong chương trình Chủ Nhật Đỏ, bổ sung nguồn máu điều trị và cấp cứu người bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T06:34:25+07:00",
+      "fetched": "2026-03-08T15:20:01.465984+07:00"
+    },
+    {
+      "id": "4f0d632ca2b9837f6c99b248cc33fb20",
+      "title": "Quầy kem Naked Flavors - điểm nhấn tại tiệc 8/3 của ACB",
+      "link": "https://vnexpress.net/quay-kem-naked-flavors-diem-nhan-tai-tiec-8-3-cua-acb-5047934.html",
+      "summary": "Trong ngày 8/3, không gian trụ sở ACB rực rỡ hoa và tiếng cười, đồng thời có sự xuất hiện của quầy gelato Naked Flavors của chủ tịch Trần Hùng Huy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T06:30:00+07:00",
+      "fetched": "2026-03-08T15:20:01.466149+07:00"
     },
     {
       "id": "f94b436a610b66dcde1b659f08273882",
