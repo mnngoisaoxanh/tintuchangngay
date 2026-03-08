@@ -1,7 +1,157 @@
 window.newsData_2026_03_08 = {
   "date": "2026-03-08",
-  "lastUpdated": "2026-03-08T05:14:11.497598+07:00",
+  "lastUpdated": "2026-03-08T08:14:57.863017+07:00",
   "articles": [
+    {
+      "id": "6b8e75460b0779fa52341f0946c2b5a3",
+      "title": "Làm trai rửa bát, quét nhà...",
+      "link": "https://tuoitre.vn/lam-trai-rua-bat-quet-nha-2026030311224254.htm",
+      "summary": "Cũng có bè bạn, người thân chê trách tôi là người đàn ông mà lại làm công việc của phụ nữ. Tôi để ngoài tai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.053431+07:00",
+      "fetched": "2026-03-08T08:14:52.053542+07:00"
+    },
+    {
+      "id": "0a3187244872d38e482d7a0a6e169a4a",
+      "title": "Như chưa hề có cuộc chia ly: Chỉ nhớ sai tên cây cầu mà phải mang tiếng 'mất gốc' mấy chục năm",
+      "link": "https://tuoitre.vn/nhu-chua-he-co-cuoc-chia-ly-chi-nho-sai-ten-cay-cau-ma-phai-mang-tieng-mat-goc-may-chuc-nam-2026030714270241.htm",
+      "summary": "Trong tập 198 của Như chưa hề có cuộc chia ly, khán giả chứng kiến cuộc đoàn tụ đặc biệt, có nước mắt niềm vui khi tìm lại được nhau sau gần 50 năm thất lạc, nhưng cũng có những khoảng lặng buồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.053305+07:00",
+      "fetched": "2026-03-08T08:14:52.053419+07:00"
+    },
+    {
+      "id": "d5cab8365a4a53486ec64adfebdc2860",
+      "title": "Trả giá đắt vì 'trộm' tài sản của chính mình",
+      "link": "https://tuoitre.vn/tra-gia-dat-vi-trom-tai-san-cua-chinh-minh-20260307233324136.htm",
+      "summary": "Tưởng rằng chỉ là lấy lại tài sản của mình, nhiều người không ngờ hành vi lén lút chiếm lại xe đang bị tạm giữ hoặc cầm cố lại có thể đối diện án tù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.053163+07:00",
+      "fetched": "2026-03-08T08:14:52.053290+07:00"
+    },
+    {
+      "id": "011691195fcadb8e893e8547daec8252",
+      "title": "Các hoa hậu 'kể chuyện di sản' trên phố đi bộ Nguyễn Huệ trong Lễ hội Áo dài TP.HCM",
+      "link": "https://tuoitre.vn/cac-hoa-hau-ke-chuyen-di-san-tren-pho-di-bo-nguyen-hue-trong-le-hoi-ao-dai-tp-hcm-20260308050910198.htm",
+      "summary": "Nhiều bộ sưu tập áo dài sử dụng chất liệu thân thiện với môi trường như sợi dứa, sợi đay, tơ lụa thu hút sự chú ý trong chương trình nghệ thuật Áo dài với cuộc sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.053035+07:00",
+      "fetched": "2026-03-08T08:14:52.053151+07:00"
+    },
+    {
+      "id": "142f975ec70bf4e8a8b325b446d71cff",
+      "title": "Phi Trì Nhân Sinh 3 vượt 4 tỉ nhân dân tệ, đại thắng mùa phim Tết Trung Quốc",
+      "link": "https://tuoitre.vn/phi-tri-nhan-sinh-3-vuot-4-ti-nhan-dan-te-dai-thang-mua-phim-tet-trung-quoc-20260307212540575.htm",
+      "summary": "Phi Trì Nhân Sinh 3 trở thành phim thứ 13 trong lịch sử điện ảnh Trung Quốc vượt mốc 4 tỉ nhân dân tệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.052914+07:00",
+      "fetched": "2026-03-08T08:14:52.053024+07:00"
+    },
+    {
+      "id": "f08cccbe7de608c22c476b4905f71280",
+      "title": "Yamal ghi bàn thắng thứ 19 giúp Barca giành chiến thắng, vượt mặt Real Madrid 4 điểm",
+      "link": "https://tuoitre.vn/yamal-ghi-ban-thang-thu-19-giup-barca-gianh-chien-thang-vuot-mat-real-madrid-4-diem-20260308053136231.htm",
+      "summary": "Bàn thắng tuyệt đẹp của Lamine Yamal đã giúp Barca giành chiến thắng 1-0 trước Athletic Bilbao rạng sáng 8-3 ở vòng 27 Giải vô địch Tây Ban Nha (La Liga).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.052782+07:00",
+      "fetched": "2026-03-08T08:14:52.052903+07:00"
+    },
+    {
+      "id": "e4cef73e8a798b6eb99f82b9c966523e",
+      "title": "'Nữ hoàng nhạc phim' Baek Ji Young bắn nốt cao, xúc động trước tình cảm khán giả Việt",
+      "link": "https://tuoitre.vn/nu-hoang-nhac-phim-baek-ji-young-ban-not-cao-xuc-dong-truoc-tinh-cam-khan-gia-viet-20260308005714599.htm",
+      "summary": "Tối 7-3, Baek Ji Young tổ chức solo concert tại Nhà hát Quân khu 7 (TP.HCM), đêm nhạc đánh dấu cuộc gặp gỡ được mong đợi giữa 'nữ hoàng nhạc phim' và người hâm mộ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.052656+07:00",
+      "fetched": "2026-03-08T08:14:52.052770+07:00"
+    },
+    {
+      "id": "259f7a8b14b5f261bfdc2338c71806aa",
+      "title": "Doraemon Movie 29 có thể khiến cả người lớn rơi nước mắt",
+      "link": "https://tuoitre.vn/doraemon-movie-29-co-the-khien-ca-nguoi-lon-roi-nuoc-mat-20260307203754975.htm",
+      "summary": "Là một chuyến phiêu lưu cho trẻ em hay một bộ phim khiến người lớn xúc động, Doraemon Movie 29 đều xứng đáng được xem từ bất kỳ góc nhìn nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.052503+07:00",
+      "fetched": "2026-03-08T08:14:52.052643+07:00"
+    },
+    {
+      "id": "5c247c70e5a24cd69b796eda5271ce75",
+      "title": "Tình hình xăng, dầu châu Á giữa chiến sự Trung Đông",
+      "link": "https://tuoitre.vn/tinh-hinh-xang-dau-chau-a-giua-chien-su-trung-dong-20260307200233839.htm",
+      "summary": "Giá tăng, nguy cơ thiếu hụt, và những hàng dài xếp chờ mua xăng, dầu là những gì đang được ghi nhận tại các nước châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.052377+07:00",
+      "fetched": "2026-03-08T08:14:52.052492+07:00"
+    },
+    {
+      "id": "4e479140a846482ee73e82a14dca9c40",
+      "title": "Marmoush lập cú đúp đưa Man City vào tứ kết cúp FA",
+      "link": "https://tuoitre.vn/marmoush-lap-cu-dup-dua-man-city-vao-tu-ket-cup-fa-20260308060225146.htm",
+      "summary": "Tiền đạo Omar Marmoush đã lập cú đúp giúp Man City lội ngược dòng đánh bại Newcastle 3-1 trên sân khách, qua đó giành vé tiến vào tứ kết FA Cup mùa thứ 8 liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.052245+07:00",
+      "fetched": "2026-03-08T08:14:52.052365+07:00"
+    },
+    {
+      "id": "0df9e771b7d482c525e08c8b7706b31a",
+      "title": "Tin tức thế giới 8-3: Iran lại tấn công nhiều nước vùng Vịnh; Nga không kích khắp Ukraine",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-8-3-iran-lai-tan-cong-nhieu-nuoc-vung-vinh-nga-khong-kich-khap-ukraine-20260308062647399.htm",
+      "summary": "Tiếng nổ khắp vùng Vịnh khi Tehran lại tấn công bằng tên lửa và UAV; Nga nói Mỹ muốn định hình thị trường năng lượng; Nga không kích khắp Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.052120+07:00",
+      "fetched": "2026-03-08T08:14:52.052233+07:00"
+    },
+    {
+      "id": "4438e2709bfca9526aea7147328b3b94",
+      "title": "Đồng Lan trở lại với 'nếu anh không yêu em…DNKYE'",
+      "link": "https://tuoitre.vn/dong-lan-tro-lai-voi-neu-anh-khong-yeu-emdnkye-20260308055930832.htm",
+      "summary": "Đồng Lan về nước và 'comeback' với MV 'nếu anh không yêu em…DNKYE'. Tựa bài đúng Đồng Lan đây rồi, vừa điệu vừa lạ song điều khiến những khán giả tò mò hơn, ca sĩ 8x mang về điều gì khác?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.051994+07:00",
+      "fetched": "2026-03-08T08:14:52.052108+07:00"
+    },
+    {
+      "id": "18dad70b6f41853d45552175cc5a8ba1",
+      "title": "Messi ghi bàn thắng thứ 899, Inter Miami vươn lên thứ 3 ở MLS",
+      "link": "https://tuoitre.vn/messi-ghi-ban-thang-thu-899-inter-miami-vuon-len-thu-3-o-mls-20260308062734699.htm",
+      "summary": "Siêu sao Argentina Lionel Messi đã ghi bàn thắng thứ 899 trong sự nghiệp giúp Inter Miami đánh bại DC United 2-1 rạng sáng 8-3 ở Giải bóng đá nhà nghề Mỹ (MLS).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.051864+07:00",
+      "fetched": "2026-03-08T08:14:52.051982+07:00"
+    },
+    {
+      "id": "53491b1a4ba5ea4a690fa33bef2b176c",
+      "title": "Nguyên Chủ tịch nước Nguyễn Minh Triết đến với Phở yêu thương ở Bàu Bàng",
+      "link": "https://tuoitre.vn/nguyen-chu-tich-nuoc-nguyen-minh-triet-den-voi-pho-yeu-thuong-o-bau-bang-20260308062904726.htm",
+      "summary": "Sáng sớm 8-3, không khí tại Quảng trường trung tâm xã Bàu Bàng (TP.HCM) nhộn nhịp khác thường. Đó là vì hôm nay là ngày Phở yêu thương mang phở đến với công nhân, người lao động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.051724+07:00",
+      "fetched": "2026-03-08T08:14:52.051851+07:00"
+    },
+    {
+      "id": "ba9abb1d24827805f701f8f5eb7f5851",
+      "title": "Đông Nhi, nhóm nhạc Nhật Bản Psychic Fever bùng nổ ở Lễ hội Việt - Nhật",
+      "link": "https://tuoitre.vn/dong-nhi-nhom-nhac-nhat-ban-psychic-fever-bung-no-o-le-hoi-viet-nhat-20260308062024621.htm",
+      "summary": "Đông Nhi đi chân trần để nhảy, nhóm nhạc Nhật Bản Psychic Fever bất ngờ trước năng lượng của khán giả TP.HCM trong Lễ hội Việt - Nhật 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T08:14:52.051466+07:00",
+      "fetched": "2026-03-08T08:14:52.051708+07:00"
+    },
     {
       "id": "2de1c2ee6f37cc7495f30990f209a111",
       "title": "Nam giới muốn chọn cô gái có thể kiếm tiền mua thứ mình thích?",
@@ -183,6 +333,336 @@ window.newsData_2026_03_08 = {
       "fetched": "2026-03-08T01:20:44.822678+07:00"
     },
     {
+      "id": "61293f8ce4e9c34108d36b56d6507b94",
+      "title": "Mỹ điều ‘sát thủ diệt UAV’ đến Trung Đông đối phó Iran",
+      "link": "https://thanhnien.vn/my-dieu-sat-thu-diet-uav-den-trung-dong-doi-pho-iran-18526030808020482.htm",
+      "summary": "Mỹ sẽ triển khai hệ thống đánh chặn máy bay không người lái Merops đến Trung Đông, vốn đã chứng minh hiệu quả ở chiến trường Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T01:13:00+07:00",
+      "fetched": "2026-03-08T08:14:48.831835+07:00"
+    },
+    {
+      "id": "110a8ef37938cb902d3ccfce8e162e4b",
+      "title": "Một làn hương trắng lênh đênh - Thơ của Nguyễn Đăng Khoa",
+      "link": "https://thanhnien.vn/mot-lan-huong-trang-lenh-denh-tho-cua-nguyen-dang-khoa-185260307202212495.htm",
+      "summary": "Vài việc tình yêu đã làm:Biến tôi thành một màu cam của trờiBiến người sâu thẳm biển khơiLời chúng tôi nói là lời sao khuya.Nếu tình yêu không quên chìaCó khi trời đã không lìa biển khơi.Có khi biển v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T01:05:00+07:00",
+      "fetched": "2026-03-08T08:14:50.158024+07:00"
+    },
+    {
+      "id": "bfe18005f359614893644259a12d03cf",
+      "title": "Thứ tám  - Thơ của Nguyễn Đăng Khoa",
+      "link": "https://thanhnien.vn/thu-tam-tho-cua-nguyen-dang-khoa-185260307201852615.htm",
+      "summary": "Một thứ tám, không phải là chủ nhật,Anh mở mail soạn thảo một nỗi buồnGửi cho vài sa mạc già nhấtCó thể chúng cũng cần những con sông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T01:05:00+07:00",
+      "fetched": "2026-03-08T08:14:51.303389+07:00"
+    },
+    {
+      "id": "1abce25d8d8926d90517b0161d92a3a4",
+      "title": "Nữ 'phi công' bảo vệ vựa lúa ở Tiền Hải",
+      "link": "https://thanhnien.vn/nu-phi-cong-bao-ve-vua-lua-o-tien-hai-185260305165150376.htm",
+      "summary": "Chị Nguyễn Thị Hưng (48 tuổi, xã Tiền Hải, tỉnh Hưng Yên) là nữ 'phi công' drone tiêu biểu, góp phần bảo vệ vựa lúa địa phương và mang lại những mùa vàng bội thu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T01:03:00+07:00",
+      "fetched": "2026-03-08T08:14:51.303793+07:00"
+    },
+    {
+      "id": "2c5a213ed1501f9ebbe589acf4e31181",
+      "title": "Nhàn đàm: Ngày mới dịu dàng hương thơm",
+      "link": "https://thanhnien.vn/nhan-dam-ngay-moi-diu-dang-huong-thom-185260307202423145.htm",
+      "summary": "Tôi thích bắt đầu ngày mới khi bình minh chưa ló dạng, dành cho mình những phút giây lắng đọng bên tách trà ngào ngạt hương thơm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T01:00:00+07:00",
+      "fetched": "2026-03-08T08:14:51.303955+07:00"
+    },
+    {
+      "id": "273b79ef6a44b895de2f95f8f06cf48b",
+      "title": "Làn sóng AI thay đổi chương trình đào tạo đại học ra sao?",
+      "link": "https://thanhnien.vn/lan-song-ai-thay-doi-chuong-trinh-dao-tao-dai-hoc-ra-sao-185260306185526326.htm",
+      "summary": "Khi trí tuệ nhân tạo (AI) đang tái định nghĩa lại toàn cầu, ngành công nghệ thông tin và công nghệ nói chung trở thành chìa khóa giải quyết các bài toán của cuộc sống. Làn sóng AI đã thay đổi chương trình đào tạo đại học ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T01:00:00+07:00",
+      "fetched": "2026-03-08T08:14:51.304113+07:00"
+    },
+    {
+      "id": "2b8213bf2026fe1ebf5994316ad1e3a4",
+      "title": "LPBank ứng dụng AI vào trung tâm dịch vụ khách hàng, định hình trải nghiệm thế hệ",
+      "link": "https://thanhnien.vn/lpbank-ung-dung-ai-vao-trung-tam-dich-vu-khach-hang-dinh-hinh-trai-nghiem-the-he-so-185260305175456799.htm",
+      "summary": "Trong bối cảnh chuyển đổi số diễn ra mạnh mẽ trong ngành ngân hàng, trí tuệ nhân tạo (AI) ngày càng được xem là yếu tố then chốt để nâng cao chất lượng dịch vụ và tối ưu vận hành. LPBank đã triển khai Lumi - trợ lý AI tại trung tâm dịch vụ khách hàng, nhằm tái định hình cách thức tiếp cận và chăm só...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T01:00:00+07:00",
+      "fetched": "2026-03-08T08:14:51.304272+07:00"
+    },
+    {
+      "id": "0761f1a66bc779ecd38afbf027518e75",
+      "title": "Mùa xuân, mùa diện váy họa tiết lãng mạn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mua-xuan-mua-dien-vay-hoa-tiet-lang-man-185260304111015587.htm",
+      "summary": "Thay vì diện váy dài đơn sắc, váy sơ mi họa tiết xếp nếp sẽ được ưu tiên hơn trong mùa xuân. Váy chữ A, đầm xếp tầng in hoa nhí, váy voan họa tiết cổ thắt nơ... điểm vào tủ đồ xuân những sắc màu mới đầy rạng rỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T01:00:00+07:00",
+      "fetched": "2026-03-08T08:14:51.304427+07:00"
+    },
+    {
+      "id": "517fe4a7bb28ed9b48455ac4a6b8ddf4",
+      "title": "'Thắp lửa ước mơ' nơi miền biên viễn",
+      "link": "https://thanhnien.vn/thap-lua-uoc-mo-noi-mien-bien-vien-185260307202257688.htm",
+      "summary": "Vượt đèo dốc về miền biên viễn, tiến sĩ trẻ quê TP.Đà Nẵng mang theo câu chuyện vượt khó để thắp lên ngọn lửa ước mơ cho học sinh vùng cao. Giữa đại ngàn, nơi tuyến đầu Tổ quốc, những chia sẻ chân thành ấy đã gieo vào lòng các em niềm tin rằng ước mơ đủ lớn sẽ mở lối tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T00:59:00+07:00",
+      "fetched": "2026-03-08T08:14:51.304588+07:00"
+    },
+    {
+      "id": "050eff2c21b819a867ea360ac304b30b",
+      "title": "Yamal giúp Barca tái lập cách biệt với Real",
+      "link": "https://vnexpress.net/yamal-giup-barca-tai-lap-cach-biet-voi-real-5047858.html",
+      "summary": "Chiến thắng 1-0 trên sân của Athletic Club ở vòng 27 giúp Lamine Yamal và đồng đội duy trì vị thế dẫn đầu La Liga với cách biệt bốn điểm so với Real Madrid.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-08T00:56:18+07:00",
+      "fetched": "2026-03-08T08:14:57.857047+07:00"
+    },
+    {
+      "id": "f08227b1eb520dfb51705a1aed8f225e",
+      "title": "Nghệ sĩ cải lương Thanh Ngọc tiết lộ về cuộc sống kín tiếng",
+      "link": "https://thanhnien.vn/nghe-si-cai-luong-thanh-ngoc-tiet-lo-ve-cuoc-song-kin-tieng-185260307192956624.htm",
+      "summary": "Nghệ sĩ Thanh Ngọc chia sẻ trước đây, bản thân là người tự ti, nóng tính nên bỏ lỡ nhiều cơ hội. Song nhờ lời khuyên nhủ từ chị em trong gia đình, cô dần thay đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T00:56:00+07:00",
+      "fetched": "2026-03-08T08:14:51.304750+07:00"
+    },
+    {
+      "id": "873b750052e22738a143d3773fe1dbe7",
+      "title": "Quốc lộ 13 mở rộng 8 làn: Người dân chờ ngày thông suốt toàn tuyến",
+      "link": "https://thanhnien.vn/quoc-lo-13-mo-rong-8-lan-nguoi-dan-cho-ngay-thong-suot-toan-tuyen-185260303094112087.htm",
+      "summary": "Từ tuyến đường thường xuyên quá tải, quốc lộ 13 qua tỉnh Bình Dương cũ đang dần “lột xác” sau 4 năm, khi một số đoạn đường đã được mở rộng lên 8 làn xe. Dự án này mang đến kỳ vọng về hành trình an toàn, thông suốt hơn cho hàng nghìn người dân mỗi ngày qua lại cửa ngõ phía Bắc TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T00:56:00+07:00",
+      "fetched": "2026-03-08T08:14:51.304903+07:00"
+    },
+    {
+      "id": "5197fde126af133a7df224da52c35b6c",
+      "title": "Giá vàng hôm nay 8.3.2026: Người mua lỗ 5 triệu đồng sau một tuần",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-832026-nguoi-mua-lo-5-trieu-dong-sau-mot-tuan-185260308064803888.htm",
+      "summary": "Giá vàng đi xuống trong tuần và cộng thêm chênh lệch giá mua bán khiến người mua lỗ nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T00:52:00+07:00",
+      "fetched": "2026-03-08T08:14:51.305052+07:00"
+    },
+    {
+      "id": "43d07e2451f7c8528a213f11a648dc97",
+      "title": "Messi chinh phục hơn 72.000 khán giả Mỹ, sắp phá cột mốc 900 bàn thắng",
+      "link": "https://thanhnien.vn/messi-chinh-phuc-hon-72000-khan-gia-my-sap-pha-cot-moc-900-ban-thang-185260308071617569.htm",
+      "summary": "Sáng 8.3, Messi chinh phục hơn 72.000 khán giả Mỹ đến xem chật kín trên sân M&T Bank với một siêu phẩm bàn thắng, giúp Inter Miami đánh bại đội chủ nhà DC United tỷ số 2-1 và sắp phá cột mốc 900 bàn thắng trong sự nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T00:47:00+07:00",
+      "fetched": "2026-03-08T08:14:51.305209+07:00"
+    },
+    {
+      "id": "632b4fb90309a4f6ed0b8f5eb458e2e4",
+      "title": "Hồ Ba Bể 10.000 năm tuổi: Truyền thuyết cột nước khổng lồ khớp với khoa học?",
+      "link": "https://thanhnien.vn/ho-ba-be-10000-nam-tuoi-185260307202602369.htm",
+      "summary": "Hồ Ba Bể (tỉnh Thái Nguyên) là hồ nước ngọt có từ 10.000 năm, rộng 500 ha, lớn bậc nhất VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T00:45:00+07:00",
+      "fetched": "2026-03-08T08:14:51.305362+07:00"
+    },
+    {
+      "id": "c5ca9a78ed60e4a38d8d9542588d061a",
+      "title": "Giám đốc robot OpenAI từ chức vì lo ngại thỏa thuận với Lầu Năm Góc",
+      "link": "https://vnexpress.net/giam-doc-robot-openai-tu-chuc-vi-lo-ngai-thoa-thuan-voi-lau-nam-goc-5047852.html",
+      "summary": "Caitlin Kalinowski, người đứng đầu bộ phận robot và phần cứng của OpenAI, tuyên bố từ chức với lý do lo ngại thỏa thuận của công ty với Bộ Quốc phòng Mỹ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-08T00:41:29+07:00",
+      "fetched": "2026-03-08T08:14:56.429552+07:00"
+    },
+    {
+      "id": "46e4410035baa7e89a82043dc203ec91",
+      "title": "Ông Trump nói Anh tìm cách tham chiến ở Trung Đông 'sau khi chúng tôi đã thắng'",
+      "link": "https://thanhnien.vn/ong-trump-noi-anh-tim-cach-tham-chien-o-trung-dong-sau-khi-chung-toi-da-thang-185260308072604263.htm",
+      "summary": "Tổng thống Mỹ Donald Trump chỉ trích rằng Anh đã chậm trễ trong việc cho phép sử dụng các căn cứ của Anh trong chiến dịch tấn công Iran và chuẩn bị điều tàu sân bay đến Trung Đông khi Mỹ và Israel 'đã thắng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T00:38:00+07:00",
+      "fetched": "2026-03-08T08:14:51.305511+07:00"
+    },
+    {
+      "id": "000e86f11e7a65b78c05de867cc00db9",
+      "title": "Kịch bản nào để Việt Nam vào tứ kết Asian Cup nữ 2026?",
+      "link": "https://vnexpress.net/kich-ban-nao-de-viet-nam-vao-tu-ket-asian-cup-nu-2026-5047815.html",
+      "summary": "Nếu không thua Nhật Bản ở lượt cuối bảng C, Việt Nam chắc chắn có vé vào tứ kết Asian Cup nữ 2026. Nhưng ngay cả khi thất bại, cơ hội cũng chưa hết với thầy trò HLV Mai Đức Chung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T00:16:06+07:00",
+      "fetched": "2026-03-08T08:14:46.276547+07:00"
+    },
+    {
+      "id": "000e86f11e7a65b78c05de867cc00db9",
+      "title": "Kịch bản nào để Việt Nam vào tứ kết Asian Cup nữ 2026?",
+      "link": "https://vnexpress.net/kich-ban-nao-de-viet-nam-vao-tu-ket-asian-cup-nu-2026-5047815.html",
+      "summary": "Nếu không thua Nhật Bản ở lượt cuối bảng C, Việt Nam chắc chắn có vé vào tứ kết Asian Cup nữ 2026. Nhưng ngay cả khi thất bại, cơ hội cũng chưa hết với thầy trò HLV Mai Đức Chung.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-08T00:16:06+07:00",
+      "fetched": "2026-03-08T08:14:57.857225+07:00"
+    },
+    {
+      "id": "7dd2f70bee59d32a29ceb56514396ab8",
+      "title": "Báo Malaysia: 'Vụ gian lận nhập tịch là vết nhơ lớn nhất lịch sử'",
+      "link": "https://vnexpress.net/bao-malaysia-vu-gian-lan-nhap-tich-la-vet-nho-lon-nhat-lich-su-5047704.html",
+      "summary": "Bài xã luận của tờ Star cho rằng bóng đá Malaysia cần đối diện sự thật, sau khi thua kiện FIFA trên Tòa Trọng tài Thể thao (CAS) vụ 7 cầu thủ nhập tịch không đủ tư cách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T00:10:01+07:00",
+      "fetched": "2026-03-08T08:14:46.276744+07:00"
+    },
+    {
+      "id": "7dd2f70bee59d32a29ceb56514396ab8",
+      "title": "Báo Malaysia: 'Vụ gian lận nhập tịch là vết nhơ lớn nhất lịch sử'",
+      "link": "https://vnexpress.net/bao-malaysia-vu-gian-lan-nhap-tich-la-vet-nho-lon-nhat-lich-su-5047704.html",
+      "summary": "Bài xã luận của tờ Star cho rằng bóng đá Malaysia cần đối diện sự thật, sau khi thua kiện FIFA trên Tòa Trọng tài Thể thao (CAS) vụ 7 cầu thủ nhập tịch không đủ tư cách.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-08T00:10:01+07:00",
+      "fetched": "2026-03-08T08:14:57.857393+07:00"
+    },
+    {
+      "id": "07ca47218f6bfd50896723bef597327d",
+      "title": "Messi tiến sát mốc 900 bàn thắng",
+      "link": "https://vnexpress.net/messi-tien-sat-moc-900-ban-thang-5047849.html",
+      "summary": "Lionel Messi ghi bàn thứ 899 khi giúp Inter Miami thắng DC United 2-1, ở vòng ba giải vô địch bóng đá nhà nghề MLS, ngày 7/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T00:06:09+07:00",
+      "fetched": "2026-03-08T08:14:46.276905+07:00"
+    },
+    {
+      "id": "07ca47218f6bfd50896723bef597327d",
+      "title": "Messi tiến sát mốc 900 bàn thắng",
+      "link": "https://vnexpress.net/messi-tien-sat-moc-900-ban-thang-5047849.html",
+      "summary": "Lionel Messi ghi bàn thứ 899 khi giúp Inter Miami thắng DC United 2-1, ở vòng ba giải vô địch bóng đá nhà nghề MLS, ngày 7/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-08T00:06:09+07:00",
+      "fetched": "2026-03-08T08:14:57.857551+07:00"
+    },
+    {
+      "id": "5c4f7aa02131a457c2609f01cca85df3",
+      "title": "Al Nassr trở lại dẫn đầu dù vắng Ronaldo",
+      "link": "https://vnexpress.net/al-nassr-tro-lai-dan-dau-du-vang-ronaldo-5047848.html",
+      "summary": "Al Nassr lấy lại vị trí dẫn đầu Saudi Pro League bằng trận thắng Neom SC 1-0 ở vòng 25, tối 7/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T00:02:12+07:00",
+      "fetched": "2026-03-08T08:14:46.277063+07:00"
+    },
+    {
+      "id": "5c4f7aa02131a457c2609f01cca85df3",
+      "title": "Al Nassr trở lại dẫn đầu dù vắng Ronaldo",
+      "link": "https://vnexpress.net/al-nassr-tro-lai-dan-dau-du-vang-ronaldo-5047848.html",
+      "summary": "Al Nassr lấy lại vị trí dẫn đầu Saudi Pro League bằng trận thắng Neom SC 1-0 ở vòng 25, tối 7/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-08T00:02:12+07:00",
+      "fetched": "2026-03-08T08:14:57.857756+07:00"
+    },
+    {
+      "id": "07a84be23abc6d34f85aee093fd9d320",
+      "title": "Allcargo mở rộng mạng lưới giao hàng siêu tốc",
+      "link": "https://vnexpress.net/allcargo-mo-rong-mang-luoi-giao-hang-sieu-toc-5043788.html",
+      "summary": "Mỗi tháng, Allcargo xử lý hơn 10 triệu kiện hàng, sản lượng tăng 25% - 30% mùa cao điểm, trong bối cảnh thương mại điện tử Ấn Độ tăng tốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T00:00:00+07:00",
+      "fetched": "2026-03-08T08:14:46.277221+07:00"
+    },
+    {
+      "id": "d4542fd1090b6ba5bf9a26a1aec75084",
+      "title": "Thời khắc 'thót tim' của du học sinh Việt ở Trung Đông",
+      "link": "https://vnexpress.net/thoi-khac-thot-tim-cua-du-hoc-sinh-viet-o-trung-dong-5046646.html",
+      "summary": "Đang trong ký túc xá, Minh bỗng thấy không gian rung chuyển bởi những tiếng nổ lớn, còi báo động khẩn cấp vang lên inh ỏi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:32:12+07:00",
+      "fetched": "2026-03-08T08:14:46.277387+07:00"
+    },
+    {
+      "id": "86dd82dd3444bdecfd16a48e1f0afcdf",
+      "title": "Xung đột Trung Đông tác động thế nào đến USD?",
+      "link": "https://vnexpress.net/xung-dot-trung-dong-tac-dong-the-nao-den-usd-5047032.html",
+      "summary": "USD được dự báo mạnh lên trong ngắn hạn nhưng theo chuyên gia, xu hướng suy yếu khó đảo chiều, trừ khi Fed trì hoãn giảm lãi suất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:30:00+07:00",
+      "fetched": "2026-03-08T08:14:46.277549+07:00"
+    },
+    {
+      "id": "86dd82dd3444bdecfd16a48e1f0afcdf",
+      "title": "Xung đột Trung Đông tác động thế nào đến USD?",
+      "link": "https://vnexpress.net/xung-dot-trung-dong-tac-dong-the-nao-den-usd-5047032.html",
+      "summary": "USD được dự báo mạnh lên trong ngắn hạn nhưng theo chuyên gia, xu hướng suy yếu khó đảo chiều, trừ khi Fed trì hoãn giảm lãi suất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-07T23:30:00+07:00",
+      "fetched": "2026-03-08T08:14:54.148360+07:00"
+    },
+    {
+      "id": "b39fb750d47c314064eaf4f0dcd858af",
+      "title": "Gánh nặng mang tên 'quà 8/3' của đàn ông Việt",
+      "link": "https://vnexpress.net/ganh-nang-mang-ten-qua-8-3-cua-dan-ong-viet-5047711.html",
+      "summary": "Từ dịp tôn vinh và đấu tranh bình đẳng giới, Ngày Quốc tế Phụ nữ 8/3 dần biến thành 'cuộc đua' quà cáp, trở thành gánh nặng tâm lý và tài chính cho nhiều nam giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:00:00+07:00",
+      "fetched": "2026-03-08T08:14:46.277723+07:00"
+    },
+    {
+      "id": "c5f498deea2ce47dd2ac2bebb6a61fa9",
+      "title": "Nam bác sĩ giúp phụ nữ ung thư vú bảo tồn bầu ngực",
+      "link": "https://vnexpress.net/nam-bac-si-giup-phu-nu-ung-thu-vu-bao-ton-bau-nguc-5047684.html",
+      "summary": "Ám ảnh giọt nước mắt mặc cảm của bệnh nhân ung thư vú, BS Huỳnh Quang Khánh lặn lội đi học nhiều nơi, tiên phong ứng dụng các kỹ thuật bảo tồn và tái tạo hiện đại để \"vá\" lại bầu ngực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:00:00+07:00",
+      "fetched": "2026-03-08T08:14:46.277890+07:00"
+    },
+    {
+      "id": "796aadf11e2598e21b2d80889057cc04",
+      "title": "Kịch bản nào xảy ra khi tuyến hàng hải Suez - Biển Đỏ đứt gãy?",
+      "link": "https://vnexpress.net/kich-ban-nao-xay-ra-khi-tuyen-hang-hai-suez-bien-do-dut-gay-5047422.html",
+      "summary": "Eo biển Hormuz bất ổn, các chuyến tàu hàng hải có thể phát sinh hàng nghìn USD cho mỗi container khi không đi qua hành lang Suez - Biển Đỏ, nhiều quốc gia đối diện giá cả leo thang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:00:00+07:00",
+      "fetched": "2026-03-08T08:14:46.278051+07:00"
+    },
+    {
+      "id": "cd7bdd5acfa77f8cc5aa607730060630",
+      "title": "So sánh các mẫu xe máy điện VinFast Evo",
+      "link": "https://vnexpress.net/so-sanh-cac-mau-xe-may-dien-vinfast-evo-5047769.html",
+      "summary": "Mẫu xe máy điện phổ thông của VinFast sẽ bán với 4 mẫu khác nhau, trong đó hai bản dành cho học sinh có tốc độ giới hạn 48 km/h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T23:00:00+07:00",
+      "fetched": "2026-03-08T08:14:46.278362+07:00"
+    },
+    {
       "id": "92b58c6494c7eff887d4b5148fe2a63b",
       "title": "Hôm nay ngày Quốc tế phụ nữ 8.3: Nguồn gốc ngày này từ đâu?",
       "link": "https://thanhnien.vn/hom-nay-ngay-quoc-te-phu-nu-83-nguon-goc-ngay-nay-tu-dau-185260306075658181.htm",
@@ -201,6 +681,26 @@ window.newsData_2026_03_08 = {
       "category": "Tổng hợp",
       "published": "2026-03-07T22:00:00+07:00",
       "fetched": "2026-03-08T05:14:02.295557+07:00"
+    },
+    {
+      "id": "94bfea5e584a54116915925ec93061c2",
+      "title": "Ôtô bị cháy, đòi bảo hành hay bảo hiểm bồi thường?",
+      "link": "https://vnexpress.net/oto-bi-chay-doi-bao-hanh-hay-bao-hiem-5047335.html",
+      "summary": "Tôi mua chiếc ôtô mới cách đây 3 tháng, mua cả bảo hiểm cháy nổ nhưng giờ xe bị cháy, cả bên bán và bảo hiểm đùn đẩy không chịu giải quyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T22:00:00+07:00",
+      "fetched": "2026-03-08T08:14:46.278512+07:00"
+    },
+    {
+      "id": "910318e7a8fae82f8fcb5efc036033fa",
+      "title": "Người đẹp chuyên lái môtô mạo hiểm thành ngôi sao đóng thế",
+      "link": "https://vnexpress.net/nguoi-dep-chuyen-lai-moto-mao-hiem-thanh-ngoi-sao-dong-the-5047690.html",
+      "summary": "Sarah Lezito - nữ hoàng môtô mạo hiểm người Pháp - từng đóng thế trong hai bom tấn Hollywood là \"Black Widow\" và \"Avengers 2\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T22:00:00+07:00",
+      "fetched": "2026-03-08T08:14:46.278682+07:00"
     },
     {
       "id": "74889505b0c742ed772c9ef2562704e8",
