@@ -1,7 +1,157 @@
 window.newsData_2026_03_09 = {
   "date": "2026-03-09",
-  "lastUpdated": "2026-03-09T08:15:00.878791+07:00",
+  "lastUpdated": "2026-03-09T11:07:49.264959+07:00",
   "articles": [
+    {
+      "id": "833dc21802bd6923d586427d88883ad9",
+      "title": "Đọc nhanh 9-3: Giá dầu tăng sốc, đồng USD mạnh lên, giá vàng lao đao",
+      "link": "https://tuoitre.vn/doc-nhanh-9-3-gia-dau-tang-soc-dong-usd-manh-len-gia-vang-lao-dao-20260309072915518.htm",
+      "summary": "Sáng 9-3 (giờ Việt Nam), giá vàng thế giới giảm mạnh hơn 100 USD, tương đương khoảng 2%, xuống còn 5.065 USD/ounce sau nhịp phục hồi vào cuối tuần trước. Giá bạc cũng đi xuống cùng xu hướng, mất hơn 3,5% (gần 3 USD), lùi về mức khoảng 81 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:43.185279+07:00",
+      "fetched": "2026-03-09T11:07:43.185417+07:00"
+    },
+    {
+      "id": "47f8478e989cd4986028d60b92d19d34",
+      "title": "Phát hiện bất ngờ về mối liên hệ giữa lượng con cái và tuổi thọ phụ nữ",
+      "link": "https://tuoitre.vn/phat-hien-bat-ngo-ve-moi-lien-he-giua-luong-con-cai-va-tuoi-tho-phu-nu-20260308211948782.htm",
+      "summary": "Nghiên cứu do các nhà khoa học tại Đại học Helsinki (Phần Lan) thực hiện đã hé lộ mối liên hệ bất ngờ giữa số lượng con cái và tuổi thọ. Theo đó, việc sinh con quá nhiều hoặc không sinh con đều có thể khiến cơ thể lão hóa nhanh hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:43.185153+07:00",
+      "fetched": "2026-03-09T11:07:43.185268+07:00"
+    },
+    {
+      "id": "aaa1a53949a9c6e403d0419e076a1c0f",
+      "title": "Ngư dân tìm cách giảm chi phí, bám biển",
+      "link": "https://tuoitre.vn/ngu-dan-tim-cach-giam-chi-phi-bam-bien-20260309081117497.htm",
+      "summary": "Chi phí nhiên liệu đội lên khiến nhiều tàu cá đối mặt nguy cơ lỗ vốn, phải tính toán kéo dài chuyến biển hoặc cho tàu nằm bờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:43.185006+07:00",
+      "fetched": "2026-03-09T11:07:43.185142+07:00"
+    },
+    {
+      "id": "5afead09e68798c1b0e6a683df9f4fe3",
+      "title": "Thủ môn bị đánh văng vào lưới, sau khi... quỳ gối lên người đối thủ đang nằm chấn thương",
+      "link": "https://tuoitre.vn/thu-mon-bi-danh-vang-vao-luoi-sau-khi-quy-goi-len-nguoi-doi-thu-dang-nam-chan-thuong-20260309080341555.htm",
+      "summary": "Một vụ ẩu đả lớn đã xảy ra vào cuối trận Cruzeiro và Atletico-MG, mà mọi chuyện bắt đầu từ tình huống nổi điên \"khó đỡ\" của thủ môn Everson khi anh quỳ gối lên người đối thủ đang nằm trên sân vì chấn thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:43.184866+07:00",
+      "fetched": "2026-03-09T11:07:43.184994+07:00"
+    },
+    {
+      "id": "1e6a5afad84017784758765c5420ed6a",
+      "title": "Iran phóng loạt tên lửa mới vào Israel sau khi có tân lãnh tụ tối cao",
+      "link": "https://tuoitre.vn/iran-phong-loat-ten-lua-moi-vao-israel-sau-khi-co-tan-lanh-tu-toi-cao-20260309081737856.htm",
+      "summary": "Các quốc gia vùng Vịnh ghi nhận những đợt tấn công mới trong bối cảnh Iran đang đẩy mạnh các đòn trả đũa trên khắp khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:43.184732+07:00",
+      "fetched": "2026-03-09T11:07:43.184854+07:00"
+    },
+    {
+      "id": "14551defeb55a197807a73d3fcfa5ed9",
+      "title": "25 năm nhớ Trịnh Công Sơn",
+      "link": "https://tuoitre.vn/25-nam-nho-trinh-cong-son-20260309080451521.htm",
+      "summary": "Hồng Nhung nhớ chuyện chiếc khăn lụa Trịnh Công Sơn đã tặng để cô treo cánh tay bị gãy khi đi hát năm 23 tuổi, còn Mỹ Linh nhớ lại cái thời gần 30 năm trước cô và bạn bè mình đã hát rất nhiều một bài hát của Trịnh Công Sơn…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:43.184591+07:00",
+      "fetched": "2026-03-09T11:07:43.184720+07:00"
+    },
+    {
+      "id": "e804d3703739a816264ced5d2da1e55c",
+      "title": "Chứng khoán tuần mới: Căng thẳng Trung Đông leo thang, VN-Index có còn giảm?",
+      "link": "https://tuoitre.vn/chung-khoan-tuan-moi-cang-thang-trung-dong-leo-thang-vn-index-co-con-giam-20260309063058928.htm",
+      "summary": "Nhiều công ty chứng khoán cho rằng VN-Index có thể tiếp tục chịu áp lực điều chỉnh trong các phiên tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:43.184451+07:00",
+      "fetched": "2026-03-09T11:07:43.184579+07:00"
+    },
+    {
+      "id": "969ec6252431bbb7e4868560808da6d9",
+      "title": "Giá dầu thế giới vượt 100 USD/thùng lần đầu trong 4 năm",
+      "link": "https://tuoitre.vn/gia-dau-the-gioi-vuot-100-usd-thung-lan-dau-trong-4-nam-20260309082109174.htm",
+      "summary": "Xung đột Trung Đông làm các nhà đầu tư e ngại bán tháo, huyết mạch năng lượng - eo biển Hormuz - bị đóng cửa là các lý do dẫn đến giá dầu tăng vọt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:43.184288+07:00",
+      "fetched": "2026-03-09T11:07:43.184430+07:00"
+    },
+    {
+      "id": "ba434b834310543b4019f40f79096ab6",
+      "title": "Kỳ vọng đại biểu làm việc nhanh hơn, quyết liệt hơn",
+      "link": "https://tuoitre.vn/ky-vong-dai-bieu-lam-viec-nhanh-hon-quyet-liet-hon-20260309083500625.htm",
+      "summary": "Tuổi Trẻ đã ghi nhận ý kiến của đại diện cử tri, đại biểu Quốc hội khóa XV về kỳ vọng đại biểu khóa tới, nhất là vai trò của họ trong cải cách, đổi mới, xây dựng thể chế, pháp luật để phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:43.184145+07:00",
+      "fetched": "2026-03-09T11:07:43.184276+07:00"
+    },
+    {
+      "id": "be974da484c62ab9d7caa2eb1d4a5358",
+      "title": "Xác định 8 cơ thủ Việt Nam đầu tiên giành vé dự World Cup billiards TP.HCM",
+      "link": "https://tuoitre.vn/xac-dinh-8-co-thu-viet-nam-dau-tien-gianh-ve-du-world-cup-billiards-tp-hcm-20260309083721711.htm",
+      "summary": "Vòng tuyển chọn 1 của World Cup billiards carom 3 băng TP.HCM khép lại hôm 8-3 đã tìm ra những cơ thủ Việt Nam đầu tiên giành vé dự giải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:43.183999+07:00",
+      "fetched": "2026-03-09T11:07:43.184133+07:00"
+    },
+    {
+      "id": "20a0729477187335c1a1f9ae62cb87bc",
+      "title": "Vụ xe đầu kéo bị tàu SE8 tông 'đứt đôi': Khởi tố vụ án hình sự",
+      "link": "https://tuoitre.vn/vu-xe-dau-keo-bi-tau-se8-tong-dut-doi-khoi-to-vu-an-hinh-su-20260309084623313.htm",
+      "summary": "Vụ xe đầu kéo cố tình vượt rào chắn đường sắt và mắc kẹt giữa đường ray, dẫn đến vụ tai nạn nghiêm trọng 'tàu SE8 tông đứt đôi xe đầu kéo'. Cơ quan Cảnh sát điều tra Công an tỉnh Quảng Ngãi ra quyết định khởi tố vụ án hình sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:43.183586+07:00",
+      "fetched": "2026-03-09T11:07:43.183984+07:00"
+    },
+    {
+      "id": "ab65ecff3aeae693b65d63ec9de1d908",
+      "title": "Tôn vinh giá trị Đẹp của phụ nữ",
+      "link": "https://tuoitre.vn/ton-vinh-gia-tri-dep-cua-phu-nu-20260308182035044.htm",
+      "summary": "Đã có lỗi xảy ra, mời bạn quay lại bài viết và thực hiện lại thao tác",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:41.713513+07:00",
+      "fetched": "2026-03-09T11:07:43.183555+07:00"
+    },
+    {
+      "id": "1fbeaf40aa5ad74124594a05133d59b3",
+      "title": "Chiến dịch Tết 2026 của Home Credit Vietnam: Những mảnh ghép nhỏ góp nên niềm vui lớn",
+      "link": "https://tuoitre.vn/chien-dich-tet-2026-cua-home-credit-vietnam-nhung-manh-ghep-nho-gop-nen-niem-vui-lon-20260309003928215.htm",
+      "summary": "Khép lại mùa Tết 2026, Home Credit Vietnam ghi dấu ấn với chiến dịch truyền thông 'Góp nên Tết Nhà Vô Giá', không chỉ tạo hiệu ứng lan tỏa trên các nền tảng trực tuyến mà còn kết nối cộng đồng bằng nhiều hoạt động giàu cảm xúc và thiết thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:41.713370+07:00",
+      "fetched": "2026-03-09T11:07:41.713501+07:00"
+    },
+    {
+      "id": "0f8bec66106ca66d9c5e2e6fb00850cc",
+      "title": "Công an xác minh clip cô gái bị người đàn ông kéo lê trên đường",
+      "link": "https://tuoitre.vn/cong-an-xac-minh-clip-co-gai-bi-nguoi-dan-ong-keo-le-tren-duong-20260309084731236.htm",
+      "summary": "Công an thành phố Hải Phòng đang vào cuộc xác minh vụ việc cô gái bị người đàn ông kéo lê trên đường, có dấu hiệu bị hành hung xảy ra ở xã An Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:41.713212+07:00",
+      "fetched": "2026-03-09T11:07:41.713342+07:00"
+    },
+    {
+      "id": "e22e5d4e934afe42570433ea0759bbca",
+      "title": "Vi phẫu trong 'giờ vàng', cứu người đàn ông tự cắt bộ phận sinh dục",
+      "link": "https://tuoitre.vn/vi-phau-trong-gio-vang-cuu-nguoi-dan-ong-tu-cat-bo-phan-sinh-duc-20260309082431132.htm",
+      "summary": "Một người đàn ông dân tộc Nùng, 42 tuổi ở Lạng Sơn được đưa vào cấp cứu tại Bệnh viện Hữu nghị Việt Đức trong tình trạng sốc mất máu nặng, huyết áp tụt, vùng bẹn - bìu tổn thương nghiêm trọng sau khi tự dùng dao cắt bộ phận sinh dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T11:07:41.712969+07:00",
+      "fetched": "2026-03-09T11:07:41.713197+07:00"
+    },
     {
       "id": "52ffe6721239d6f2e5fb9fa230e8246c",
       "title": "Tehran tuyên bố không tìm kiếm lệnh ngừng bắn và không đầu hàng; Anh đánh chặn drone Iran",
@@ -121,6 +271,466 @@ window.newsData_2026_03_09 = {
       "category": "Tổng hợp",
       "published": "2026-03-09T05:14:25.542883+07:00",
       "fetched": "2026-03-09T05:14:25.543191+07:00"
+    },
+    {
+      "id": "77cd173702ac3185e89c8133c350eae7",
+      "title": "Luộc qua thịt để rã đông có gây mất dinh dưỡng?",
+      "link": "https://vnexpress.net/luoc-qua-thit-de-ra-dong-co-gay-mat-dinh-duong-5047859.html",
+      "summary": "Do bận rộn, tôi thường luộc qua 3-5 phút thịt đông bằng nước nóng, sau đó rửa sạch rồi mới luộc chín lần hai, liệu có làm mất chất dinh dưỡng hay không? (Mai, 33 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T04:07:00+07:00",
+      "fetched": "2026-03-09T11:07:38.182310+07:00"
+    },
+    {
+      "id": "e62b499e041115a5a120e46c93d586dd",
+      "title": "Thực hư vụ mẹ xin nước nóng pha sữa cho con ở Thảo Cầm Viên Sài Gòn",
+      "link": "https://thanhnien.vn/thuc-hu-vu-me-xin-nuoc-nong-pha-sua-cho-con-o-thao-cam-vien-sai-gon-185260309104850727.htm",
+      "summary": "Mạng xã hội lan truyền bài viết tố nhân viên Thảo Cầm Viên Sài Gòn không cho khách xin nước nóng pha sữa cho con. Thực tế sự việc diễn ra ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T04:06:00+07:00",
+      "fetched": "2026-03-09T11:07:41.057872+07:00"
+    },
+    {
+      "id": "04b57060fe8d55ae2328414806ee4276",
+      "title": "Xem nhanh 12h: Chân dung tân Lãnh tụ tối cao bí ẩn của Iran | Giá xăng dầu tăng dựng đứng",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-chan-dung-tan-lanh-tu-toi-cao-bi-an-cua-iran-gia-xang-dau-tang-dung-dung-185260309110419303.htm",
+      "summary": "Giá xăng dầu, tình hình Trung Đông, tin tức thời tiết… sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 9.3.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T04:04:00+07:00",
+      "fetched": "2026-03-09T11:07:41.058047+07:00"
+    },
+    {
+      "id": "7b5d4c3f53ed7effaaa8f34c163f5ba9",
+      "title": "Giải mã cơn sốt 'nuôi tôm' AI OpenClaw ở Trung Quốc",
+      "link": "https://thanhnien.vn/giai-ma-con-sot-nuoi-tom-ai-openclaw-o-trung-quoc-185260309105044586.htm",
+      "summary": "Mô hình trợ lý AI OpenClaw đang gây chú ý toàn cầu, đặc biệt ở Trung Quốc, khi nó có khả năng thay người dùng soạn văn bản, gửi tin nhắn hay đặt vé.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T04:04:00+07:00",
+      "fetched": "2026-03-09T11:07:41.058206+07:00"
+    },
+    {
+      "id": "bd89a85562e7d837483c9ad8c26e6839",
+      "title": "Microsoft mang tính năng được yêu cầu nhiều nhất trở lại Windows 11",
+      "link": "https://thanhnien.vn/microsoft-mang-tinh-nang-duoc-yeu-cau-nhieu-nhat-tro-lai-windows-11-185260309102247651.htm",
+      "summary": "Tính năng Windows 11 từng bị khai tử nay rục rịch trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T04:01:00+07:00",
+      "fetched": "2026-03-09T11:07:41.058387+07:00"
+    },
+    {
+      "id": "18756c80b9cb88800278510f7fd40a7a",
+      "title": "Chồng ra ngoài ăn sáng, mặc kệ tôi nhịn đói xoay xở với 2 con nhỏ",
+      "link": "https://vnexpress.net/chong-vo-tam-chong-ra-ngoai-an-sang-mac-ke-toi-nhin-doi-xoay-xo-voi-2-con-nho-5048094.html",
+      "summary": "Người từng cùng tôi đi qua thanh xuân, từng rất quan tâm và dịu dàng... giờ lại khiến tôi thấy cô đơn ngay trong chính cuộc hôn nhân của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T04:00:00+07:00",
+      "fetched": "2026-03-09T11:07:38.182513+07:00"
+    },
+    {
+      "id": "ded9fea695f3024b99f221fa603a47c3",
+      "title": "Cô gái 20 tuổi thoát liệt sau 24 giờ mổ não",
+      "link": "https://vnexpress.net/co-gai-20-tuoi-thoat-liet-sau-24-gio-mo-nao-5048010.html",
+      "summary": "Bị liệt nửa người trái sau thời gian dài chịu đựng các cơn đau đầu dai dẳng, cô gái 20 tuổi đã hồi phục vận động ngoạn mục chỉ sau 24 giờ phẫu thuật não tại Bệnh viện Chợ Rẫy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T04:00:00+07:00",
+      "fetched": "2026-03-09T11:07:38.182687+07:00"
+    },
+    {
+      "id": "f53c3d074f648a018a6196e1d43163c2",
+      "title": "Nỗi lo chăm người thân bị sốt xuất huyết đầu năm",
+      "link": "https://vnexpress.net/noi-lo-cham-nguoi-than-bi-sot-xuat-huyet-dau-nam-5048193.html",
+      "summary": "Nguyễn Tuấn (50 tuổi, Tiền Giang), trụ cột kinh tế gia đình, trải qua mùa Tết rối bời trong bệnh viện khi con trai 9 tuổi mắc sốt xuất huyết Dengue, sốc sâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T04:00:00+07:00",
+      "fetched": "2026-03-09T11:07:38.182848+07:00"
+    },
+    {
+      "id": "054faf456a0b5f278eb7a09069f27fb0",
+      "title": "Đối đầu Nhật Bản, đội tuyển nữ Việt Nam cần gì để nuôi hy vọng vào tứ kết",
+      "link": "https://thanhnien.vn/doi-dau-nhat-ban-doi-tuyen-nu-viet-nam-can-gi-de-nuoi-hy-vong-vao-tu-ket-185260309105801268.htm",
+      "summary": "Đội tuyển nữ Việt Nam sẽ đối đầu đội tuyển nữ Nhật Bản lúc 16 giờ ngày 10.3 ở lượt cuối bảng C Asian Cup nữ 2026. Trước đối thủ mạnh hàng đầu châu lục, mục tiêu của thầy trò HLV Mai Đức Chung là giữ thế trận chặt chẽ để nuôi hy vọng vào tứ kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:58:00+07:00",
+      "fetched": "2026-03-09T11:07:41.058559+07:00"
+    },
+    {
+      "id": "8a8301ba5b156ef4385c88e4204c33ca",
+      "title": "Bangladesh chốt nhân sự cực hay đấu đội tuyển Việt Nam: Có gương mặt ‘khủng’, từng thi đấu Ngoại hạng Anh",
+      "link": "https://thanhnien.vn/bangladesh-chot-nhan-su-cuc-hay-dau-doi-tuyen-viet-nam-co-guong-mat-khung-tung-thi-dau-ngoai-hang-anh-185260309104901086.htm",
+      "summary": "Đội tuyển Bangladesh đã gửi danh sách sơ bộ 38 cầu thủ đến Hà Nội chuẩn bị cho trận đấu giao hữu quốc tế với đội tuyển Việt Nam dịp FIFA Days tháng 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:58:00+07:00",
+      "fetched": "2026-03-09T11:07:41.058714+07:00"
+    },
+    {
+      "id": "e856f2b3466e4e5fcf4c64d4902b6445",
+      "title": "Sau vòng 15 V-League: CLB CAHN thua derby nhưng vẫn vững ngôi đầu, cuộc đua vô địch thêm kịch tính",
+      "link": "https://thanhnien.vn/sau-vong-15-v-league-clb-cahn-thua-derby-nhung-van-vung-ngoi-dau-cuoc-dua-vo-dich-them-kich-tinh-185260309105413414.htm",
+      "summary": "CLB Công an Hà Nội (CAHN) nhận thất bại 1-2 trước CLB Hà Nội ở vòng 15 V-League 2025-2026, qua đó chấm dứt chuỗi trận bất bại từ đầu mùa. Tuy vậy, đội bóng ngành công an vẫn giữ vững ngôi đầu bảng với khoảng cách 4 điểm so với đội nhì bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:54:00+07:00",
+      "fetched": "2026-03-09T11:07:41.058872+07:00"
+    },
+    {
+      "id": "f4413e59ba342a5ded85c76837bbc82e",
+      "title": "Công ty Điện lực Đà Nẵng sẵn sàng cấp điện phục vụ bầu cử",
+      "link": "https://thanhnien.vn/cong-ty-dien-luc-da-nang-san-sang-cap-dien-phuc-vu-bau-cu-185260309110019078.htm",
+      "summary": "Công ty Điện lực Đà Nẵng (PC Đà Nẵng) đã xây dựng và triển khai kế hoạch bảo đảm cung cấp điện phục vụ bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:53:00+07:00",
+      "fetched": "2026-03-09T11:07:41.059036+07:00"
+    },
+    {
+      "id": "a26b088f445955b4506eb807fff6d94f",
+      "title": "Xe đầu kéo bốc cháy ngùn ngụt trên cao tốc TP.HCM - Trung Lương",
+      "link": "https://thanhnien.vn/xe-dau-keo-boc-chay-ngun-ngut-tren-cao-toc-tphcm-trung-luong-185260309094343903.htm",
+      "summary": "Rạng sáng ngày 9.3, trên tuyến cao tốc TP.HCM - Trung Lương, đoạn qua địa bàn tỉnh Tây Ninh đã xảy ra vụ hỏa hoạn nghiêm trọng khiến một chiếc xe đầu kéo bị thiêu rụi hoàn toàn phần đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:49:00+07:00",
+      "fetched": "2026-03-09T11:07:41.059193+07:00"
+    },
+    {
+      "id": "e372a27dc697864446d61ec9a8200bc0",
+      "title": "Xavi: 'Laporta từng ngăn Messi trở lại Barca'",
+      "link": "https://vnexpress.net/xavi-laporta-tung-ngan-messi-tro-lai-barca-5048117.html",
+      "summary": "HLV Xavi Hernandez lần đầu lên tiếng về Chủ tịch Joan Laporta từ khi bị Barca sa thải, trong đó có những uẩn khúc về việc Lionel Messi trở lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:45:20+07:00",
+      "fetched": "2026-03-09T11:07:38.183007+07:00"
+    },
+    {
+      "id": "e372a27dc697864446d61ec9a8200bc0",
+      "title": "Xavi: 'Laporta từng ngăn Messi trở lại Barca'",
+      "link": "https://vnexpress.net/xavi-laporta-tung-ngan-messi-tro-lai-barca-5048117.html",
+      "summary": "HLV Xavi Hernandez lần đầu lên tiếng về Chủ tịch Joan Laporta từ khi bị Barca sa thải, trong đó có những uẩn khúc về việc Lionel Messi trở lại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-09T03:45:20+07:00",
+      "fetched": "2026-03-09T11:07:49.258008+07:00"
+    },
+    {
+      "id": "a5b4828caa134ec5f037d1a73ac102f3",
+      "title": "Nhà của Rihanna bị bắn",
+      "link": "https://vnexpress.net/nha-cua-rihanna-bi-ban-5048092.html",
+      "summary": "Biệt thự ở Beverly Hills của Rihanna bị bắn khoảng 10 phát đạn trong khi ca sĩ đang ở nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:44:42+07:00",
+      "fetched": "2026-03-09T11:07:38.183174+07:00"
+    },
+    {
+      "id": "6ba883b203a95e08ae7dc828dd700e93",
+      "title": "Tôi trắng tay vì mẹ để lại toàn bộ nhà, đất thừa kế cho em gái",
+      "link": "https://vnexpress.net/tranh-gianh-thua-ke-toi-trang-tay-khi-me-de-lai-toan-bo-nha-dat-thua-ke-cho-em-gai-5048137.html",
+      "summary": "Bốn mảnh đất, một nhà bốn tầng trung tâm Hà Nội và cả sổ tiết kiệm đều được mẹ sang tên cho em gái, trong khi tôi chẳng có gì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:44:26+07:00",
+      "fetched": "2026-03-09T11:07:38.183340+07:00"
+    },
+    {
+      "id": "66cfad56ace66bb2a851570529b3bfd0",
+      "title": "Ôtô bốc cháy vì cục sạc dự phòng",
+      "link": "https://vnexpress.net/oto-boc-chay-vi-cuc-sac-du-phong-5048099.html",
+      "summary": "Giao thông hỗn loạn khi chiếc ôtô ở sát dải phân cách bốc cháy, nhưng tài xế may mắn thoát nạn trước khi lửa lan rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:41:28+07:00",
+      "fetched": "2026-03-09T11:07:38.183520+07:00"
+    },
+    {
+      "id": "ccdd5687a11c47ba3102d2a863a6328d",
+      "title": "Cảnh tượng như tận thế khi Israel tấn công cơ sở dầu mỏ Iran",
+      "link": "https://vnexpress.net/canh-tuong-nhu-tan-the-khi-israel-tan-cong-co-so-dau-mo-iran-5048165.html",
+      "summary": "Người dân Tehran sợ hãi khi chứng kiến khói đen mù mịt bao trùm khắp thành phố sau khi Israel tấn công cơ sở dầu mỏ Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:40:24+07:00",
+      "fetched": "2026-03-09T11:07:38.183676+07:00"
+    },
+    {
+      "id": "ccdd5687a11c47ba3102d2a863a6328d",
+      "title": "Cảnh tượng như tận thế khi Israel tấn công cơ sở dầu mỏ Iran",
+      "link": "https://vnexpress.net/canh-tuong-nhu-tan-the-khi-israel-tan-cong-co-so-dau-mo-iran-5048165.html",
+      "summary": "Người dân Tehran sợ hãi khi chứng kiến khói đen mù mịt bao trùm khắp thành phố sau khi Israel tấn công cơ sở dầu mỏ Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-09T03:40:24+07:00",
+      "fetched": "2026-03-09T11:07:44.060588+07:00"
+    },
+    {
+      "id": "3481c770e915e912aefc197362cec9cc",
+      "title": "Mỹ nêu kế hoạch giải tỏa Eo biển Hormuz để giảm giá xăng dầu",
+      "link": "https://vnexpress.net/my-neu-ke-hoach-giai-toa-eo-bien-hormuz-de-giam-gia-xang-dau-5048113.html",
+      "summary": "Bộ trưởng Năng lượng Mỹ cho hay Washington sẽ \"đánh mạnh vài ngày tới\" để triệt hạ năng lực tấn công tàu dầu của Iran ở eo biển Hormuz, giúp giảm giá xăng dầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:38:21+07:00",
+      "fetched": "2026-03-09T11:07:38.183838+07:00"
+    },
+    {
+      "id": "3481c770e915e912aefc197362cec9cc",
+      "title": "Mỹ nêu kế hoạch giải tỏa Eo biển Hormuz để giảm giá xăng dầu",
+      "link": "https://vnexpress.net/my-neu-ke-hoach-giai-toa-eo-bien-hormuz-de-giam-gia-xang-dau-5048113.html",
+      "summary": "Bộ trưởng Năng lượng Mỹ cho hay Washington sẽ \"đánh mạnh vài ngày tới\" để triệt hạ năng lực tấn công tàu dầu của Iran ở eo biển Hormuz, giúp giảm giá xăng dầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-09T03:38:21+07:00",
+      "fetched": "2026-03-09T11:07:44.060771+07:00"
+    },
+    {
+      "id": "32e253a20226306fdb2ea085da4836d6",
+      "title": "Thời cuộc buộc lựa chọn",
+      "link": "https://thanhnien.vn/thoi-cuoc-buoc-lua-chon-185260308222621542.htm",
+      "summary": "Quyết định của chính phủ Ireland về tổ chức trưng cầu dân ý ngay trong năm nay, tức là sớm hơn dự định ban đầu, về nối lại đàm phán với EU để gia nhập khối đáp ứng tâm lý của đa số dân chúng trên đảo quốc và khiến EU hài lòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:33:00+07:00",
+      "fetched": "2026-03-09T11:07:41.059343+07:00"
+    },
+    {
+      "id": "159097b3a9d28ed414dec4c434ece9ca",
+      "title": "Công an xác minh vụ cô gái bị kéo lê trên đường",
+      "link": "https://thanhnien.vn/cong-an-xac-minh-vu-co-gai-bi-keo-le-tren-duong-185260309101531121.htm",
+      "summary": "Công an TP.Hải Phòng đang xác minh vụ việc một cô gái bị kéo lê trên đường xảy ra tại xã An Thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:32:00+07:00",
+      "fetched": "2026-03-09T11:07:41.059523+07:00"
+    },
+    {
+      "id": "80495e78d213e6eedcdd98b0ce743ba3",
+      "title": "Nam ca sĩ xuất thân là thầy giáo, tiết lộ cuộc sống kín tiếng ở tuổi 44",
+      "link": "https://thanhnien.vn/nam-ca-si-xuat-than-la-thay-giao-tiet-lo-cuoc-song-kin-tieng-o-tuoi-44-185260309084855137.htm",
+      "summary": "Ở tuổi 44, Hồ Trung Dũng có cuộc sống kín tiếng. Nam ca sĩ nói niềm hạnh phúc hiện tại là được hát những ca khúc bản thân yêu thích, kết nối với khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:31:00+07:00",
+      "fetched": "2026-03-09T11:07:41.059675+07:00"
+    },
+    {
+      "id": "8d48aacbaaef0d8720327dd915a7e176",
+      "title": "Cách VPBank tích hợp tài chính nhúng vào hệ sinh thái số của doanh nghiệp",
+      "link": "https://vnexpress.net/cach-vpbank-tich-hop-tai-chinh-nhung-vao-he-sinh-thai-so-cua-doanh-nghiep-5048184.html",
+      "summary": "VPBankSME tích hợp dịch vụ tài chính vào các nền tảng quản trị, thương mại điện tử và hóa đơn điện tử doanh nghiệp đang sử dụng, giúp SME tiếp cận vốn và quản lý dòng tiền thuận tiện hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:30:00+07:00",
+      "fetched": "2026-03-09T11:07:38.184001+07:00"
+    },
+    {
+      "id": "6479263c5f930fdb6c99fce00f47b24a",
+      "title": "Ăn uống thế nào tốt cho gan và dạ dày",
+      "link": "https://vnexpress.net/an-uong-the-nao-tot-cho-gan-va-da-day-5048145.html",
+      "summary": "Hạn chế tinh bột và chất béo không lành mạnh, tăng cường đạm nạc, rau xanh, chia nhỏ bữa ăn, góp phần giảm áp lực cho gan, bảo vệ dạ dày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:30:00+07:00",
+      "fetched": "2026-03-09T11:07:38.184159+07:00"
+    },
+    {
+      "id": "9c58cd74e34d7243471b6afbd2470de5",
+      "title": "Làm gì khi trẻ táo bón nhiều ngày?",
+      "link": "https://vnexpress.net/lam-gi-khi-tre-tao-bon-nhieu-ngay-5048103.html",
+      "summary": "Con gái tôi 11 tuổi, 5 ngày không đi tiêu được, kén ăn rau và trái cây, thích ăn thịt nhiều, nhờ bác sĩ tư vấn. (Bích Liễu, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:30:00+07:00",
+      "fetched": "2026-03-09T11:07:38.184320+07:00"
+    },
+    {
+      "id": "ceafcfa239edfb715ef165b93e98a2a6",
+      "title": "Ông Trần Hồng Thái làm Chủ tịch Viện Hàn lâm Khoa học và Công nghệ Việt Nam",
+      "link": "https://vnexpress.net/ong-tran-hong-thai-lam-chu-tich-vien-han-lam-khoa-hoc-va-cong-nghe-viet-nam-5048176.html",
+      "summary": "Phó chủ tịch Thường trực Viện Hàn lâm Khoa học và Công nghệ Việt Nam Trần Hồng Thái được Thủ tướng bổ nhiệm giữ chức Chủ tịch Viện từ ngày 7/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:29:55+07:00",
+      "fetched": "2026-03-09T11:07:38.184498+07:00"
+    },
+    {
+      "id": "6c51e85b3e120a08d49e135632c7bccc",
+      "title": "Tiết lộ gây sốc: Messi đã ký hợp đồng với Barcelona đầu năm 2023, nhưng…",
+      "link": "https://thanhnien.vn/tiet-lo-gay-soc-messi-da-ky-hop-dong-voi-barcelona-dau-nam-2023-nhung-185260309102331472.htm",
+      "summary": "Theo HLV Xavi, Messi đã ký hợp đồng trở lại CLB Barcelona vào đầu năm 2023 sau khi anh cùng đội tuyển Argentina vô địch World Cup 2022 tại Qatar. Thế nhưng, ông chủ tịch đội bóng xứ Catalan, Joan Laporta đã ngăn chặn mọi cơ hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:28:00+07:00",
+      "fetched": "2026-03-09T11:07:41.059832+07:00"
+    },
+    {
+      "id": "5ecdf3a9099f1a05ab22f8ad623c756a",
+      "title": "Iran bổ nhiệm con trai của cố lãnh tụ Khamenei làm lãnh đạo tối cao mới",
+      "link": "https://thanhnien.vn/iran-bo-nhiem-con-trai-cua-co-lanh-tu-khamenei-lam-lanh-dao-toi-cao-moi-185260309101702485.htm",
+      "summary": "Hội đồng Chuyên gia Iran đã bổ nhiệm ông Mojtaba Khamenei thay thế cha mình, Ayatollah Ali Khamenei, làm lãnh đạo tối cao mới của đất nước, truyền thông nhà nước đưa tin vào hôm 8.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:24:00+07:00",
+      "fetched": "2026-03-09T11:07:41.059981+07:00"
+    },
+    {
+      "id": "27b9be674c970098a60c9577dd1f516e",
+      "title": "Khán giả rút phích cắm màn hình VAR",
+      "link": "https://vnexpress.net/khan-gia-rut-phich-cam-man-hinh-var-5048131.html",
+      "summary": "Hành vi của một CĐV quá khích khiến trọng tài không thể xem lại tình huống dẫn tới phạt đền, ở giải Bundesliga 2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:22:52+07:00",
+      "fetched": "2026-03-09T11:07:38.184650+07:00"
+    },
+    {
+      "id": "27b9be674c970098a60c9577dd1f516e",
+      "title": "Khán giả rút phích cắm màn hình VAR",
+      "link": "https://vnexpress.net/khan-gia-rut-phich-cam-man-hinh-var-5048131.html",
+      "summary": "Hành vi của một CĐV quá khích khiến trọng tài không thể xem lại tình huống dẫn tới phạt đền, ở giải Bundesliga 2.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-09T03:22:52+07:00",
+      "fetched": "2026-03-09T11:07:49.259020+07:00"
+    },
+    {
+      "id": "a5394188e3d94bc1585fd24afd4f84da",
+      "title": "Xử lý trách nhiệm hiệu trưởng để xảy ra tình hình phức tạp trật tự ATGT",
+      "link": "https://thanhnien.vn/xu-ly-trach-nhiem-hieu-truong-de-xay-ra-tinh-hinh-phuc-tap-trat-tu-atgt-185260309095420709.htm",
+      "summary": "Sở GD-ĐT TP.HCM sẽ xử lý trách nhiệm của hiệu trưởng nếu để xảy ra tình hình phức tạp về trật tự an toàn giao thông do thiếu sự lãnh đạo, chỉ đạo, kiểm tra, đôn đốc hoặc không thực hiện đầy đủ trách nhiệm trong phạm vi quản lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T03:12:00+07:00",
+      "fetched": "2026-03-09T11:07:41.060141+07:00"
+    },
+    {
+      "id": "232bc8b95b9185e461cfa919cb416efa",
+      "title": "Giá vàng thế giới, chứng khoán châu Á cùng giảm mạnh",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-chung-khoan-chau-a-cung-giam-manh-5048128.html",
+      "summary": "Mỗi ounce vàng mất hơn 100 USD, trong khi chứng khoán Hàn Quốc lần thứ hai trong 4 phiên phải \"ngắt cầu dao\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-09T03:00:44+07:00",
+      "fetched": "2026-03-09T11:07:45.321276+07:00"
+    },
+    {
+      "id": "3f5a36fd30aa06bdaa6acfcdc52615ad",
+      "title": "Xếp hàng chờ hơn ba tiếng vì loạt sân bay Mỹ thiếu nhân viên an ninh",
+      "link": "https://vnexpress.net/xep-hang-cho-hon-ba-tieng-vi-loat-san-bay-my-thieu-nhan-vien-an-ninh-5048129.html",
+      "summary": "Thời gian xếp hàng chờ tại nhiều sân bay Mỹ kéo dài hơn ba tiếng do thiếu hụt nhân viên kiểm tra an ninh, giữa lúc nhu cầu đi lại tăng vọt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-09T02:56:39+07:00",
+      "fetched": "2026-03-09T11:07:44.060941+07:00"
+    },
+    {
+      "id": "a5204ddbaed68d21265af932d991dd72",
+      "title": "Tien gây bất ngờ ở Indian Wells Masters",
+      "link": "https://vnexpress.net/tien-gay-bat-ngo-o-indian-wells-masters-5048159.html",
+      "summary": "Tay vợt Mỹ gốc Việt Learner Tien thắng hạt giống số 8 Ben Shelton 7-6(3), 4-6, 6-3 để lần đầu vào vòng bốn tại giải Masters 1000 ở Indian Wells.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-09T02:55:42+07:00",
+      "fetched": "2026-03-09T11:07:49.258186+07:00"
+    },
+    {
+      "id": "1fce9e65335d337b1f924cae0ba821b2",
+      "title": "Mỗi lượng vàng giảm 2 triệu đồng",
+      "link": "https://vnexpress.net/moi-luong-vang-giam-2-trieu-dong-5048135.html",
+      "summary": "Giá vàng miếng và nhẫn trơn giảm 2 triệu đồng theo diễn biến quốc tế, song chênh lệch vẫn ở mức cao trên 21 triệu một lượng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-09T02:35:23+07:00",
+      "fetched": "2026-03-09T11:07:45.321522+07:00"
+    },
+    {
+      "id": "f0e591505b9885593a91cfed91791859",
+      "title": "Israel tuyên bố phá hủy các tiêm kích do Mỹ bán cho Iran",
+      "link": "https://vnexpress.net/israel-tuyen-bo-pha-huy-cac-tiem-kich-do-my-ban-cho-iran-5048090.html",
+      "summary": "Quân đội Israel thông báo đã xóa sổ một số tiêm kích F-14 Iran, mẫu Tehran mua từ Mỹ, trong đòn tấn công vào một sân bay tại tỉnh Isfahan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-09T02:34:11+07:00",
+      "fetched": "2026-03-09T11:07:44.061104+07:00"
+    },
+    {
+      "id": "cdaa49c37089036e4499a6372f8a7ecc",
+      "title": "Võ sĩ UFC nôn trong lồng bát giác",
+      "link": "https://vnexpress.net/vo-si-ufc-non-trong-long-bat-giac-5048142.html",
+      "summary": "Cựu vô địch hạng bantamweight (hạng gà) Cody Garbrandt nôn ngay trong lồng bát giác sau cú đá vào vùng kín từ đối thủ Trung Quốc Xiao Long, nhưng vẫn thắng điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-09T02:28:09+07:00",
+      "fetched": "2026-03-09T11:07:49.259675+07:00"
+    },
+    {
+      "id": "999e377ae60a7b9f8da3d4252e686a55",
+      "title": "VN-Index mất hơn 110 điểm",
+      "link": "https://vnexpress.net/vn-index-mat-hon-90-diem-5048146.html",
+      "summary": "Nhà đầu tư hoảng loạn và bán tháo khi công ty chứng khoán đồng loạt \"call margin\" sáng đầu tuần, khiến VN-Index mất hơn 110 điểm, xuống sát 1.650 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-09T02:27:11+07:00",
+      "fetched": "2026-03-09T11:07:45.321795+07:00"
+    },
+    {
+      "id": "f60af4f29dd8f1c164ab8706af812f20",
+      "title": "Duyên nợ Iran - Mỹ ở World Cup",
+      "link": "https://vnexpress.net/duyen-no-iran-my-o-world-cup-5047950.html",
+      "summary": "Hai trận đấu tại World Cup 1998 rồi 2022 từng chứng kiến Iran và Mỹ gác lại những mối quan hệ xung đột để cháy hết mình theo niềm vui cùng trái bóng tròn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-09T02:23:31+07:00",
+      "fetched": "2026-03-09T11:07:49.258351+07:00"
+    },
+    {
+      "id": "799827dbec907f1f3d5dca4d56aa3783",
+      "title": "Khoảnh khắc tên lửa tấn công căn cứ Iran nằm cạnh trường tiểu học",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-tan-cong-can-cu-iran-nam-canh-truong-tieu-hoc-5048107.html",
+      "summary": "Truyền thông Iran công bố video cho thấy tên lửa có thể là Tomahawk của Mỹ đánh trúng một tòa nhà IRGC nằm cạnh trường tiểu học nữ sinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-09T02:21:32+07:00",
+      "fetched": "2026-03-09T11:07:44.061269+07:00"
+    },
+    {
+      "id": "98dfb3dd12499e89621338b9e29649fc",
+      "title": "Hoạt động địa chất khiến Hormuz thành eo biển hẹp",
+      "link": "https://vnexpress.net/hoat-dong-dia-chat-khien-hormuz-thanh-eo-bien-hep-5047949.html",
+      "summary": "Hoạt động địa chất giúp các nước quanh Vịnh Ba Tư, bao gồm Iran, khiến khu vực Hormuz thành eo biển hẹp, gây khó khăn cho hoạt động giao thông, vận chuyển dầu khí.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-09T02:00:00+07:00",
+      "fetched": "2026-03-09T11:07:45.322802+07:00"
+    },
+    {
+      "id": "98dfb3dd12499e89621338b9e29649fc",
+      "title": "Hoạt động địa chất khiến Hormuz thành eo biển hẹp",
+      "link": "https://vnexpress.net/hoat-dong-dia-chat-khien-hormuz-thanh-eo-bien-hep-5047949.html",
+      "summary": "Hoạt động địa chất giúp các nước quanh Vịnh Ba Tư, bao gồm Iran, khiến khu vực Hormuz thành eo biển hẹp, gây khó khăn cho hoạt động giao thông, vận chuyển dầu khí.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-09T02:00:00+07:00",
+      "fetched": "2026-03-09T11:07:47.902716+07:00"
+    },
+    {
+      "id": "6493bc568c0b4e50aeab8d3589a877d6",
+      "title": "Mourinho tố bị gọi là 'kẻ phản bội' 50 lần",
+      "link": "https://vnexpress.net/mourinho-to-bi-goi-la-ke-phan-boi-50-lan-5048119.html",
+      "summary": "HLV Jose Mourinho bức xúc khi trợ lý HLV Porto, Lucho Gonzalez, liên tục gọi ông là \"kẻ phản bội\" trong đường hầm sân vận động, sau trận Benfica hòa Porto 2-2 ở vòng 25 giải VĐQG Bồ Đào Nha.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-09T01:43:46+07:00",
+      "fetched": "2026-03-09T11:07:49.259176+07:00"
     },
     {
       "id": "97705ce58ef0fec33b3b13d1cd35f07e",
@@ -793,6 +1403,16 @@ window.newsData_2026_03_09 = {
       "fetched": "2026-03-09T03:15:01.433529+07:00"
     },
     {
+      "id": "2161ba28aa159429e3d9d71a2927a1bf",
+      "title": "Chiến thuật 'mưa dầm' Iran dùng trong đòn trả đũa Mỹ - Israel",
+      "link": "https://vnexpress.net/chien-thuat-mua-dam-iran-dung-trong-don-tra-dua-my-israel-5046228.html",
+      "summary": "Iran áp dụng chiến thuật phóng lượng nhỏ tên lửa và UAV nhưng duy trì tần suất liên tục, thay vì khai hỏa ồ ạt như các xung đột trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-08T18:00:00+07:00",
+      "fetched": "2026-03-09T11:07:44.061961+07:00"
+    },
+    {
       "id": "571a99f5b33b17975846d0dc466c9d0b",
       "title": "Người đàn ông tử vong sau va chạm với tàu hỏa",
       "link": "https://vnexpress.net/nguoi-dan-ong-tu-vong-sau-va-cham-voi-tau-hoa-5048051.html",
@@ -1243,6 +1863,16 @@ window.newsData_2026_03_09 = {
       "fetched": "2026-03-09T01:21:00.418013+07:00"
     },
     {
+      "id": "28f04a7c1d8c7f43d074f1c29dbfbeb1",
+      "title": "Ông Trump: Mỹ chưa cần xả kho dự trữ chiến lược dầu",
+      "link": "https://vnexpress.net/ong-trump-my-chua-can-xa-kho-du-tru-chien-luoc-dau-5047978.html",
+      "summary": "Tổng thống Donald Trump nói căng thẳng nguồn cung năng lượng toàn cầu sẽ được giải quyết nhanh chóng mà không cần xả kho dự trữ của Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-08T10:05:00+07:00",
+      "fetched": "2026-03-09T11:07:45.323884+07:00"
+    },
+    {
       "id": "2b7dfc7c3a4436f0556e49cbbd3fd34e",
       "title": "Nhà máy lọc nước biển ở Bahrain bị hư hại sau đòn tập kích của Iran",
       "link": "https://vnexpress.net/nha-may-loc-nuoc-bien-o-bahrain-bi-hu-hai-sau-don-tap-kich-cua-iran-5047971.html",
@@ -1251,6 +1881,16 @@ window.newsData_2026_03_09 = {
       "category": "Thế giới",
       "published": "2026-03-08T09:55:53+07:00",
       "fetched": "2026-03-09T01:20:59.209049+07:00"
+    },
+    {
+      "id": "ae20d3a5147368f7f262e91f601c6ac0",
+      "title": "Nhà máy lọc nước biển ở Bahrain hư hại sau đòn tấn công của Iran",
+      "link": "https://vnexpress.net/nha-may-loc-nuoc-bien-o-bahrain-hu-hai-sau-don-tan-cong-cua-iran-5047971.html",
+      "summary": "Bahrain cho biết đòn tập kích bằng UAV từ Iran đã gây ra \"thiệt hại vật chất\" cho một nhà máy khử mặn nước biển của quốc gia này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-08T09:55:53+07:00",
+      "fetched": "2026-03-09T11:07:44.062963+07:00"
     },
     {
       "id": "65b9ce96f7e61cc040591c8201575caa",
