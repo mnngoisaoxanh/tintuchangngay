@@ -1,6 +1,6 @@
 window.newsData_2026_03_10 = {
   "date": "2026-03-10",
-  "lastUpdated": "2026-03-10T03:23:19.062825+07:00",
+  "lastUpdated": "2026-03-10T05:19:34.240140+07:00",
   "articles": [
     {
       "id": "f25b883b2cdddcf8cfb9b556b7a7ae4b",
@@ -153,6 +153,236 @@ window.newsData_2026_03_10 = {
       "fetched": "2026-03-10T01:38:45.560800+07:00"
     },
     {
+      "id": "f881890e50b4299a11342d37dc80cc7e",
+      "title": "Có nên tháo dỡ vòng xoay ở TP.HCM: Xây thêm cầu vượt, hầm chui",
+      "link": "https://thanhnien.vn/co-nen-thao-do-vong-xoay-o-tphcm-xay-them-cau-vuot-ham-chui-185260309223556646.htm",
+      "summary": "Khi lưu lượng xe quá đông, đèn tín hiệu cũng bất lực thì việc xây cầu vượt, hầm chui là giải pháp cuối cùng để tách dòng phương tiện theo các hướng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:18:00+07:00",
+      "fetched": "2026-03-10T05:19:24.897604+07:00"
+    },
+    {
+      "id": "f4cff7b0dd55b318a53bc1edb8058ba0",
+      "title": "Vội vàng vài giây, trả giá mạng người",
+      "link": "https://thanhnien.vn/voi-vang-vai-giay-tra-gia-mang-nguoi-185260309154120774.htm",
+      "summary": "Thời gian gần đây, liên tiếp xảy ra các vụ tai nạn giao thông đường sắt nghiêm trọng chỉ vì tài xế ô tô cố tình vượt rào chắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:18:00+07:00",
+      "fetched": "2026-03-10T05:19:24.897773+07:00"
+    },
+    {
+      "id": "03fbf73fbe0d757d6c808ae37ec25c9d",
+      "title": "Nga, Ukraine ồ ạt tập kích nhau bằng UAV",
+      "link": "https://thanhnien.vn/nga-ukraine-o-at-tap-kich-nhau-bang-uav-185260309231158801.htm",
+      "summary": "Hãng Reuters ngày 9.3 dẫn thông cáo của Bộ Quốc phòng Nga cho hay các đơn vị phòng không nước này đã chặn 234 máy bay không người lái (UAV) của Ukraine tại nhiều khu vực, trong đó có 6 chiếc hướng đến Moscow.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:15:00+07:00",
+      "fetched": "2026-03-10T05:19:24.897930+07:00"
+    },
+    {
+      "id": "7e9c4b76efa6f3f61226635cf326dd85",
+      "title": "Tử vi ngày 10 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-10-thang-3-con-giap-nao-may-man-hom-nay-185260309230318657.htm",
+      "summary": "Tử vi ngày 10 tháng 3 mang đến những gợi ý mang tính tham khảo cho 12 con giáp khi tuần làm việc mới đã bắt đầu.  Vận khí hôm nay thiên về sự chủ động, tinh thần tập trung và khả năng xử lý tình huống nhanh gọn. Tài lộc có thể đến từ những cơ hội liên quan đến công việc hoặc sự hợp tác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:15:00+07:00",
+      "fetched": "2026-03-10T05:19:24.898085+07:00"
+    },
+    {
+      "id": "3b43da1f9e76a0ec7d1e627271165b49",
+      "title": "Nỗi niềm trà di sản: Phải sinh lợi, không sinh… bệnh!",
+      "link": "https://thanhnien.vn/noi-niem-tra-di-san-phai-sinh-loi-khong-sinh-benh-185260309184244523.htm",
+      "summary": "Phải chăng danh xưng hào nhoáng 'Cây di sản' nhưng thiếu sự hướng dẫn bảo tồn, chăm sóc và khai thác... đang vô tình bức tử những báu vật trăm năm của núi rừng? Đâu là lối thoát thực sự để di sản sinh lợi chứ không sinh... bệnh?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:07:00+07:00",
+      "fetched": "2026-03-10T05:19:24.898266+07:00"
+    },
+    {
+      "id": "8f62ecefd0405dd4be160274d158b869",
+      "title": "Ông Trump gây sức ép đòi cải tổ quy định bầu cử",
+      "link": "https://thanhnien.vn/ong-trump-gay-suc-ep-doi-cai-to-quy-dinh-bau-cu-1852603092009301.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cảnh báo quốc hội có thể rơi vào bế tắc nếu không thông qua thay đổi quy định bầu cử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:05:00+07:00",
+      "fetched": "2026-03-10T05:19:24.898421+07:00"
+    },
+    {
+      "id": "cb552d46165acc429d49d1cb9690efda",
+      "title": "Sức khỏe tâm thần: Khi nào áp lực học tập, công việc trở thành nguy cơ?",
+      "link": "https://thanhnien.vn/suc-khoe-tam-than-khi-nao-ap-luc-hoc-tap-cong-viec-tro-thanh-nguy-co-185260309170718175.htm",
+      "summary": "Dự thảo thông tư của Bộ Y tế về mở rộng đối tượng giám sát nguy cơ rối loạn tâm thần trong cộng đồng đang thu hút sự chú ý của dư luận. Vậy, vì sao điều này cần được xem trọng hơn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:05:00+07:00",
+      "fetched": "2026-03-10T05:19:24.898576+07:00"
+    },
+    {
+      "id": "0a51d335b1d6abf78a508a7d8136c8b8",
+      "title": "Startup AI trước bài toán tuân thủ quy định về trí tuệ nhân tạo",
+      "link": "https://vnexpress.net/startup-ai-truoc-bai-toan-tuan-thu-quy-dinh-ve-tri-tue-nhan-tao-5048293.html",
+      "summary": "Một số startup cho biết đang \"giải bài toán tuân thủ quy định mới\", bước đầu là rà soát các sản phẩm ứng dụng AI, sau khi Luật Trí tuệ nhân tạo có hiệu lực từ 1/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:00:00+07:00",
+      "fetched": "2026-03-10T05:19:21.944479+07:00"
+    },
+    {
+      "id": "c22d60f23c4510ef88d2a0dbfb1662ad",
+      "title": "Bí quyết có vẻ ngoài mảnh mai, trẻ trung của Shin Hye Sun",
+      "link": "https://vnexpress.net/bi-quyet-co-ve-ngoai-manh-mai-tre-trung-cua-shin-hye-sun-5048264.html",
+      "summary": "Diễn viên Shin Hye Sun dưỡng da tối giản, massage khi tẩy trang, chăm sóc môi và nhịn ăn gián đoạn để sở hữu vẻ ngoài trẻ trung, mảnh mai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:00:00+07:00",
+      "fetched": "2026-03-10T05:19:21.944664+07:00"
+    },
+    {
+      "id": "32a6424fbd1fea32b21bdfed51a38d29",
+      "title": "Lật đổ chế độ có thể là mục tiêu thật sự của ông Trump ở Iran",
+      "link": "https://vnexpress.net/lat-do-che-do-co-the-la-muc-tieu-that-su-cua-ong-trump-o-iran-5048257.html",
+      "summary": "Loạt mục tiêu an ninh bị tấn công trong ngày thứ 10 chiến sự cho thấy Mỹ đang muốn làm suy yếu bộ máy nhà nước Iran, mở đường cho kịch bản thay đổi chế độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:00:00+07:00",
+      "fetched": "2026-03-10T05:19:21.944836+07:00"
+    },
+    {
+      "id": "b41b7b261f2f865802e07cdd89e558df",
+      "title": "Thanh niên kéo cây tre ngang đường làm ngã người đi xe máy",
+      "link": "https://vnexpress.net/thanh-nien-keo-cay-tre-ngang-duong-lam-nga-nguoi-di-xe-may-5048155.html",
+      "summary": "Nam thanh niên vác cây tre dài đi ngang mặt đường đúng lúc một người đi xe máy chạy tới và không tránh kịp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:00:00+07:00",
+      "fetched": "2026-03-10T05:19:21.945009+07:00"
+    },
+    {
+      "id": "b71753536573634cf16db266064ca518",
+      "title": "Đại chiến Real - Man City thắp sáng vòng 1/8 Champions League",
+      "link": "https://vnexpress.net/dai-chien-real-man-city-thap-sang-vong-1-8-champions-league-5048472.html",
+      "summary": "Real Madrid đại chiến Man City, Barca làm khách của Newcastle hay ĐKVĐ PSG tiếp Chelsea là những trận đấu đáng chú ý ở lượt đi vòng 1/8 Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:00:00+07:00",
+      "fetched": "2026-03-10T05:19:21.945190+07:00"
+    },
+    {
+      "id": "ca67d5d9baa14a00970114af55933dca",
+      "title": "Tình hình Trung Đông mới nhất ngày 10.3",
+      "link": "https://thanhnien.vn/tinh-hinh-trung-dong-moi-nhat-ngay-103-18526030922474137.htm",
+      "summary": "Xung đột ở Trung Đông bước vào ngày thứ 11 khi Iran đã có lãnh tụ tối cao mới, trong khi các cuộc tấn công vẫn lan rộng khắp nhiều nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:00:00+07:00",
+      "fetched": "2026-03-10T05:19:24.898728+07:00"
+    },
+    {
+      "id": "a1aa6058e1706f1a41fb7b8f12e1b03d",
+      "title": "ĐKVĐ và á quân thắng kịch tính",
+      "link": "https://thanhnien.vn/dkvd-va-a-quan-thang-kich-tinh-185260309215933817.htm",
+      "summary": "Lượt trận mở màn bảng C diễn ra hôm qua 9.3 trên sân Trường ĐH Nha Trang (Khánh Hòa) với chiến thắng thuộc về đội Trường ĐH TDTT Đà Nẵng và đội Trường ĐH VH-TT-DL Thanh Hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:00:00+07:00",
+      "fetched": "2026-03-10T05:19:24.898875+07:00"
+    },
+    {
+      "id": "278f30fcba5a9dad45c8d2c008dec699",
+      "title": "Hôm nay 10.3 là ngày gì mà nhiều người quan tâm, ngày mấy theo lịch âm?",
+      "link": "https://thanhnien.vn/hom-nay-103-la-ngay-gi-ma-nhieu-nguoi-quan-tam-ngay-may-theo-lich-am-185260309180420881.htm",
+      "summary": "Ngày 10.3 hôm nay có phải là ngày đặc biệt gì trong âm lịch, dương lịch mà nhiều người quan tâm? Lịch vạn niên có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T22:00:00+07:00",
+      "fetched": "2026-03-10T05:19:24.899021+07:00"
+    },
+    {
+      "id": "0a51d335b1d6abf78a508a7d8136c8b8",
+      "title": "Startup AI trước bài toán tuân thủ quy định về trí tuệ nhân tạo",
+      "link": "https://vnexpress.net/startup-ai-truoc-bai-toan-tuan-thu-quy-dinh-ve-tri-tue-nhan-tao-5048293.html",
+      "summary": "Một số startup cho biết đang \"giải bài toán tuân thủ quy định mới\", bước đầu là rà soát các sản phẩm ứng dụng AI, sau khi Luật Trí tuệ nhân tạo có hiệu lực từ 1/3.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-09T22:00:00+07:00",
+      "fetched": "2026-03-10T05:19:32.414600+07:00"
+    },
+    {
+      "id": "b71753536573634cf16db266064ca518",
+      "title": "Đại chiến Real - Man City thắp sáng vòng 1/8 Champions League",
+      "link": "https://vnexpress.net/dai-chien-real-man-city-thap-sang-vong-1-8-champions-league-5048472.html",
+      "summary": "Real Madrid đại chiến Man City, Barca làm khách của Newcastle hay ĐKVĐ PSG tiếp Chelsea là những trận đấu đáng chú ý ở lượt đi vòng 1/8 Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-09T22:00:00+07:00",
+      "fetched": "2026-03-10T05:19:34.235296+07:00"
+    },
+    {
+      "id": "654ece4de0a28ff1ccba58979da8a6ce",
+      "title": "HLV Park Hang-seo: 'TNSV thay đổi tích cực bóng đá Việt Nam’",
+      "link": "https://thanhnien.vn/hlv-park-hang-seo-tnsv-thay-doi-tich-cuc-bong-da-viet-nam-185260309215346284.htm",
+      "summary": "HLV Park Hang-seo đánh giá giải bóng đá Thanh Niên sinh viên VN lần IV - 2026 cúp THACO (TNSV THACO cup 2026) sẽ tạo ra những thay đổi tích cực, góp phần phát triển bóng đá VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T21:59:00+07:00",
+      "fetched": "2026-03-10T05:19:24.899184+07:00"
+    },
+    {
+      "id": "56eaa44d58ba700af930b6dd041116a4",
+      "title": "Châu Âu hiện nhập khẩu vũ khí lớn nhất thế giới",
+      "link": "https://thanhnien.vn/chau-au-hien-nhap-khau-vu-khi-lon-nhat-the-gioi-185260309230956662.htm",
+      "summary": "Reuters hôm qua dẫn báo cáo của Viện Nghiên cứu hòa bình quốc tế (SIPRI) cho biết số lượng vũ khí được chuyển giao trong giai đoạn 2021 - 2025 đã tăng đáng kể so với 5 năm trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T21:48:00+07:00",
+      "fetched": "2026-03-10T05:19:24.899334+07:00"
+    },
+    {
+      "id": "ee1dcaa1b4d32ac39fa298d00c25495d",
+      "title": "Bác sĩ: 6 lợi ích sức khỏe của quả chà là khi ăn đúng cách",
+      "link": "https://thanhnien.vn/bac-si-6-loi-ich-suc-khoe-cua-qua-cha-la-khi-an-dung-cach-185260308143453218.htm",
+      "summary": "Không đơn thuần là món ăn vặt, dưới góc nhìn của khoa học dinh dưỡng và dược lý học, quả chà là sở hữu những đặc tính sinh học quý giá, hỗ trợ phòng ngừa nhiều bệnh lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T21:39:00+07:00",
+      "fetched": "2026-03-10T05:19:24.899481+07:00"
+    },
+    {
+      "id": "648aa62941a16b422d9839ee2417bcd4",
+      "title": "Chiến sự Ukraine ngày 1.475: Ukraine tiếp đà phản công, nhập vũ khí nhiều nhất thế giới",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1475-ukraine-tiep-da-phan-cong-nhap-vu-khi-nhieu-nhat-the-gioi-185260309215627569.htm",
+      "summary": "Lực lượng Ukraine ngày 9.3 tuyên bố tiếp đà phản công ở khu vực trung tâm. Trong khi đó, báo cáo mới đây cũng nêu ra mức độ mua sắm của Kyiv phục vụ quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T21:31:00+07:00",
+      "fetched": "2026-03-10T05:19:24.899633+07:00"
+    },
+    {
+      "id": "3d4dbc66ec7d623714a60c8f9d62eedf",
+      "title": "Ông Phạm Văn Triêm: Đại biểu dân cử phải làm việc như quản trị doanh nghiệp",
+      "link": "https://thanhnien.vn/ong-pham-van-triem-dai-bieu-dan-cu-phai-lam-viec-nhu-quan-tri-doanh-nghiep-185260309222147973.htm",
+      "summary": "Được giới thiệu ứng cử đại biểu HĐND TP.HCM nhiệm kỳ 2026 - 2031, ông Phạm Văn Triêm, Chủ tịch Hiệp hội Doanh nghiệp nhỏ và vừa TP.HCM, Chủ tịch HĐQT kiêm Tổng giám đốc Công ty CP đầu tư Xây dựng Tân Phước Thịnh, bước vào hành trình mới với tâm thế của một người làm quản trị quen \"đo bằng hiệu quả\" ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T21:26:00+07:00",
+      "fetched": "2026-03-10T05:19:24.899788+07:00"
+    },
+    {
+      "id": "43646e1dcd78805e9457dd52f77ec321",
+      "title": "10 ôtô xăng, dầu bán nhiều nhất tháng 2 - Hilux lần đầu góp mặt",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-xang-dau-ban-nhieu-nhat-thang-2-hilux-lan-dau-gop-mat-5048381.html",
+      "summary": "Mẫu xe bán tải của Toyota lần đầu tiên lọt vào danh sách ôtô bán chạy nhất tháng với doanh số đạt 871 xe, xếp thứ hai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T21:00:00+07:00",
+      "fetched": "2026-03-10T05:19:21.945358+07:00"
+    },
+    {
       "id": "e8ae7203f2ca9b470edbf938c5ce3c6e",
       "title": "Bác sĩ 24/7: 30 tuổi tiêm vắc xin HPV hiệu quả ra sao, có kiêng quan hệ?",
       "link": "https://thanhnien.vn/bac-si-24-7-30-tuoi-tiem-vac-xin-hpv-hieu-qua-ra-sao-co-kieng-quan-he-185260309193151898.htm",
@@ -163,6 +393,16 @@ window.newsData_2026_03_10 = {
       "fetched": "2026-03-10T03:23:10.331459+07:00"
     },
     {
+      "id": "91227b55df37092abeb949a3fd3b42b2",
+      "title": "Phương pháp ngủ trưa giúp thận thải độc và phục hồi",
+      "link": "https://vnexpress.net/phuong-phap-ngu-trua-giup-than-thai-doc-va-phuc-hoi-5048172.html",
+      "summary": "Khi cơ thể ở trạng thái \"nằm phẳng\" lúc ngủ trưa sẽ giúp thận thực hiện quá trình lọc và đào thải độc tố hiệu quả hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T20:00:00+07:00",
+      "fetched": "2026-03-10T05:19:21.945523+07:00"
+    },
+    {
       "id": "60d288721e7dabc997a1e1d358f172bd",
       "title": "1,4 tỷ đồng hoàn thiện căn penthouse 140 m2 phong cách farmhouse",
       "link": "https://vnexpress.net/1-4-ty-dong-hoan-thien-can-penthouse-140-m2-phong-cach-farmhouse-5047393.html",
@@ -171,6 +411,16 @@ window.newsData_2026_03_10 = {
       "category": "Tổng hợp",
       "published": "2026-03-09T19:11:01+07:00",
       "fetched": "2026-03-10T03:23:06.814232+07:00"
+    },
+    {
+      "id": "08eeb2d89579a3484affff61bc0dd9d1",
+      "title": "Có nên dùng nước muối sinh lý rửa mặt?",
+      "link": "https://vnexpress.net/co-nen-dung-nuoc-muoi-sinh-ly-rua-mat-5048494.html",
+      "summary": "Da mặt tôi có nhiều mụn trứng cá, dùng nước muối sinh lý để rửa mặt có đỡ bị mụn không? (Hải, 30 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T19:00:00+07:00",
+      "fetched": "2026-03-10T05:19:21.945833+07:00"
     },
     {
       "id": "e89a7652b77f325cfc679484b7eb3f98",
