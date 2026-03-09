@@ -1,7 +1,117 @@
 window.newsData_2026_03_09 = {
   "date": "2026-03-09",
-  "lastUpdated": "2026-03-09T05:14:33.589890+07:00",
+  "lastUpdated": "2026-03-09T08:15:00.878791+07:00",
   "articles": [
+    {
+      "id": "52ffe6721239d6f2e5fb9fa230e8246c",
+      "title": "Tehran tuyên bố không tìm kiếm lệnh ngừng bắn và không đầu hàng; Anh đánh chặn drone Iran",
+      "link": "https://tuoitre.vn/tehran-tuyen-bo-khong-tim-kiem-lenh-ngung-ban-va-khong-dau-hang-anh-danh-chan-drone-iran-20260309035240945.htm",
+      "summary": "Chủ tịch Quốc hội Iran tuyên bố Tehran sẽ không đầu hàng; Binh sĩ thứ 7 của Mỹ thiệt mạng vì xung đột; Anh đánh chặn drone được phóng từ Iran về hướng Iraq... là một số tin tức đáng chú ý về tình hình Trung Đông sáng 9-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T08:14:53.413182+07:00",
+      "fetched": "2026-03-09T08:14:53.413297+07:00"
+    },
+    {
+      "id": "31232d4b15fb274e3215d59a7cbfdf72",
+      "title": "Thời tiết hôm nay 9-3: Không khí lạnh tràn về gây mưa to miền Bắc tới miền Trung",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-9-3-khong-khi-lanh-tran-ve-gay-mua-to-mien-bac-toi-mien-trung-20260308155953713.htm",
+      "summary": "Hôm nay 9-3, do ảnh hưởng của không khí lạnh khiến thời tiết Bắc Bộ, Trung Bộ chuyển xấu, trời có mưa. Nam Bộ ngày nhiều mây, trời nắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T08:14:53.413047+07:00",
+      "fetched": "2026-03-09T08:14:53.413170+07:00"
+    },
+    {
+      "id": "20d57a929b01b8cfb642031080db26f7",
+      "title": "NÓNG: Ông Mojtaba, con trai ông Ali Khamenei, lên làm lãnh tụ tối cao Iran",
+      "link": "https://tuoitre.vn/nong-ong-mojtaba-con-trai-ong-ali-khamenei-len-lam-lanh-tu-toi-cao-iran-20260309043552609.htm",
+      "summary": "Động thái này có thể dẫn đến leo thang xung đột vì Tổng thống Mỹ Donald Trump đã gọi ông Mojtaba Khamenei là một lựa chọn không thể chấp nhận được.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T08:14:53.412887+07:00",
+      "fetched": "2026-03-09T08:14:53.413024+07:00"
+    },
+    {
+      "id": "5c4960caa01fcd8beef4ba818f88538b",
+      "title": "Xung đột giữa liên minh Mỹ - Israel và Iran: Tên lửa, UAV và chiến thuật tiêu hao",
+      "link": "https://tuoitre.vn/xung-dot-giua-lien-minh-my-israel-va-iran-ten-lua-uav-va-chien-thuat-tieu-hao-20260308225742317.htm",
+      "summary": "Cuộc đối đầu quân sự giữa liên minh Mỹ - Israel và Iran đang định nghĩa lại khái niệm chiến tranh không quân hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T08:14:53.412756+07:00",
+      "fetched": "2026-03-09T08:14:53.412876+07:00"
+    },
+    {
+      "id": "cd4bc329c1dafc3462b7406ee5fd154f",
+      "title": "Làm gì để xây dựng nguồn nhân lực chất lượng cao? - Cần bắt đầu từ giáo dục phổ thông",
+      "link": "https://tuoitre.vn/lam-gi-de-xay-dung-nguon-nhan-luc-chat-luong-cao-can-bat-dau-tu-giao-duc-pho-thong-20260308225220208.htm",
+      "summary": "Những đòi hỏi về \"nguồn nhân lực chất lượng cao\", dù là ở lĩnh vực hay loại hình nào, cũng đều khó có thể tìm được cơ sở thực tế để thành hiện thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T08:14:53.412622+07:00",
+      "fetched": "2026-03-09T08:14:53.412744+07:00"
+    },
+    {
+      "id": "c4bc427aeb42448966657aa8d840f949",
+      "title": "Mất ăn mất ngủ, trầm cảm vì những cuộc gọi đòi nợ 'trên trời'",
+      "link": "https://tuoitre.vn/mat-an-mat-ngu-tram-cam-vi-nhung-cuoc-goi-doi-no-tren-troi-20260308120944101.htm",
+      "summary": "Những cuộc gọi đòi nợ dồn dập từ sáng sớm đến khuya muộn đang trở thành nỗi ám ảnh của nhiều người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T08:14:53.412486+07:00",
+      "fetched": "2026-03-09T08:14:53.412610+07:00"
+    },
+    {
+      "id": "1c4c3b990506017c51731d8724415561",
+      "title": "Tin tức sáng 9-3: Cử tri bị tạm giữ, tạm giam bầu cử thế nào?",
+      "link": "https://tuoitre.vn/tin-tuc-sang-9-3-cu-tri-bi-tam-giu-tam-giam-bau-cu-the-nao-20260308232540693.htm",
+      "summary": "Tin tức đáng chú ý: Đề xuất công khai số điện thoại và địa chỉ email của người phát ngôn các cơ quan; Cử tri bị tạm giữ, tạm giam bầu cử thế nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T08:14:53.412348+07:00",
+      "fetched": "2026-03-09T08:14:53.412470+07:00"
+    },
+    {
+      "id": "89eefbc6287617807f7eadeabc4957b5",
+      "title": "Vợ chồng mà đòi chia tài sản có phải muốn ly hôn?",
+      "link": "https://tuoitre.vn/vo-chong-ma-doi-chia-tai-san-co-phai-muon-ly-hon-20260307100153408.htm",
+      "summary": "Quy định cho phép vợ chồng được chia tài sản ngay trong thời kỳ hôn nhân với những điều kiện và thủ tục nhất định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T08:14:53.412218+07:00",
+      "fetched": "2026-03-09T08:14:53.412336+07:00"
+    },
+    {
+      "id": "a9b6742792a6154e0afe9636976afad6",
+      "title": "'Sao không thấy lãnh đạo bóng đá Malaysia xin lỗi, mà chỉ toàn đổ lỗi?'",
+      "link": "https://tuoitre.vn/sao-khong-thay-lanh-dao-bong-da-malaysia-xin-loi-ma-chi-toan-do-loi-202603082223333.htm",
+      "summary": "Đó là nhận xét của nhà phê bình bóng đá Malaysia - ông Zack Rahim dành cho chính Liên đoàn Bóng đá Malaysia (FAM), liên quan vụ bê bối nhập tịch trái phép 7 cầu thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T08:14:53.412081+07:00",
+      "fetched": "2026-03-09T08:14:53.412205+07:00"
+    },
+    {
+      "id": "c30446ac35c087b7893643949f0f3d1e",
+      "title": "Tin tức thế giới 9-3: Iran cảnh báo giá dầu 200 USD/thùng; Nga hạ nhiều drone hướng về Matxcơva",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-9-3-iran-canh-bao-gia-dau-200-usd-thung-nga-ha-nhieu-drone-huong-ve-matxcova-20260309060914485.htm",
+      "summary": "Iran cảnh báo nhắm vào các cơ sở dầu mỏ ở Trung Đông, đẩy giá dầu lên 200 USD/thùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T08:14:53.411916+07:00",
+      "fetched": "2026-03-09T08:14:53.412067+07:00"
+    },
+    {
+      "id": "c1bc0484d97711e9730018bbcfa23e76",
+      "title": "Mourinho lãnh thẻ đỏ, bực tức vì bị gọi là 'kẻ phản bội' 50 lần trong 1 trận đấu",
+      "link": "https://tuoitre.vn/mourinho-lanh-the-do-buc-tuc-vi-bi-goi-la-ke-phan-boi-50-lan-trong-1-tran-dau-20260309062847482.htm",
+      "summary": "HLV Jose Mourinho lại là nhân vật gây chú ý ở trận đấu tâm điểm của Giải vô địch Bồ Đào Nha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T08:14:53.411677+07:00",
+      "fetched": "2026-03-09T08:14:53.411901+07:00"
+    },
     {
       "id": "485cb8c0186f5674fe30827981cd9a27",
       "title": "Lịch trực tiếp Asian Cup nữ 2026: Triều Tiên đấu Trung Quốc",
@@ -161,6 +271,406 @@ window.newsData_2026_03_09 = {
       "category": "Tổng hợp",
       "published": "2026-03-09T01:20:56.968430+07:00",
       "fetched": "2026-03-09T01:20:56.968644+07:00"
+    },
+    {
+      "id": "a3153532adcd53ef347a03d1bde3e934",
+      "title": "Không khí lạnh khiến thời tiết miền Bắc chuyển rét, 6 tỉnh miền Trung mưa giông",
+      "link": "https://thanhnien.vn/khong-khi-lanh-khien-thoi-tiet-mien-bac-chuyen-ret-6-tinh-mien-trung-mua-giong-185260309073402298.htm",
+      "summary": "Dự báo thời tiết hôm nay 9.3, không khí lạnh sẽ ảnh hưởng mạnh đến khu vực Đông Bắc bộ, sau đó lan rộng ra các tỉnh miền Trung, gây mưa giông diện rộng, có nơi mưa lớn trên 70 mm/24 giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T01:12:00+07:00",
+      "fetched": "2026-03-09T08:14:48.538503+07:00"
+    },
+    {
+      "id": "b999a8e8331daf5e14d6815e83fc0986",
+      "title": "Không khí lạnh gây mưa giông nhiều nơi",
+      "link": "https://vnexpress.net/khong-khi-lanh-gay-mua-giong-nhieu-noi-5048081.html",
+      "summary": "Đợt không khí lạnh dự báo gây mưa giông cho Bắc Bộ, Hà Tĩnh đến đông Gia Lai trong hôm nay và ngày mai, nhiệt độ giảm 3-4 độ vào ban đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T01:11:37+07:00",
+      "fetched": "2026-03-09T08:14:45.241528+07:00"
+    },
+    {
+      "id": "92f008e8894eb45cbe15e96e5e086721",
+      "title": "Đàn cá chép hợp sức 'tạo bão' dọa cá lớn",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-dan-ca-chep-hop-suc-tao-bao-doa-ca-lon-5048001.html",
+      "summary": "Để dọa cá lớn, đàn cá chép nhỏ di chuyển cuộn tròn như cơn lốc khiến nhiều người thích thú vì cách tự vệ cực kỳ thông minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T01:00:00+07:00",
+      "fetched": "2026-03-09T08:14:45.241704+07:00"
+    },
+    {
+      "id": "997b08d7d1e649265097075e45de67d9",
+      "title": "Ra mắt thẻ thanh toán VIB Business cho doanh nghiệp",
+      "link": "https://vnexpress.net/ra-mat-the-thanh-toan-vib-business-cho-doanh-nghiep-5048055.html",
+      "summary": "Thẻ thanh toán VIB Business tích hợp các tiện ích quản lý chi tiêu, thanh toán quốc tế và kiểm soát dòng tiền trong hoạt động kinh doanh của doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T01:00:00+07:00",
+      "fetched": "2026-03-09T08:14:45.241866+07:00"
+    },
+    {
+      "id": "33521a021f6af00b8c4d6d027f63728b",
+      "title": "Ông lớn châu Âu tham gia quy hoạch dự án đô thị biển tại Quảng Ngãi",
+      "link": "https://vnexpress.net/ong-lon-chau-au-tham-gia-quy-hoach-du-an-do-thi-bien-tai-quang-ngai-5048054.html",
+      "summary": "Sweco hợp tác NHSLand xây dựng quy hoạch tổng thể dự án Coastal Quảng Ngãi quy mô 94 ha, tích hợp nhà ở, thương mại, đem tới môi trường sống bền vững cho hơn 4.000 cư dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T01:00:00+07:00",
+      "fetched": "2026-03-09T08:14:45.242046+07:00"
+    },
+    {
+      "id": "72713aa7470277970baafb5f393f894b",
+      "title": "Người đàn ông suy thận sau nhiễm trùng huyết",
+      "link": "https://vnexpress.net/nguoi-dan-ong-suy-than-sau-nhiem-trung-huyet-5048031.html",
+      "summary": "Ông Chy, 52 tuổi, mắc bệnh tiểu đường, nay sốt siêu vi diễn tiến nhiễm trùng huyết, biến chứng suy thận giai đoạn cuối phải chạy thận cả đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T01:00:00+07:00",
+      "fetched": "2026-03-09T08:14:45.242211+07:00"
+    },
+    {
+      "id": "3161d5259bea995fe89e249de4d0c6ed",
+      "title": "MSB rút ngắn quy trình vay vốn cho doanh nghiệp nhỏ",
+      "link": "https://vnexpress.net/msb-rut-ngan-quy-trinh-vay-von-cho-doanh-nghiep-nho-5047982.html",
+      "summary": "MSB triển khai luồng phê duyệt tích hợp \"2 trong 1\", rút ngắn quy trình và thời gian vay vốn, cung cấp hạn mức linh hoạt, hỗ trợ doanh nghiệp nhỏ tiếp cận tài chính kịp thời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T01:00:00+07:00",
+      "fetched": "2026-03-09T08:14:45.242374+07:00"
+    },
+    {
+      "id": "029c8f1a403adf29b4c397ae71cc06fa",
+      "title": "TP HCM có thêm dự án căn hộ hàng hiệu",
+      "link": "https://vnexpress.net/tp-hcm-co-them-du-an-can-ho-hang-hieu-5047972.html",
+      "summary": "Thị trường TP HCM ghi nhận thêm dự án căn hộ hàng hiệu Lusso Saigon khi Phát Đạt hợp tác với thương hiệu khách sạn WorldHotels quản lý vận hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T01:00:00+07:00",
+      "fetched": "2026-03-09T08:14:45.242536+07:00"
+    },
+    {
+      "id": "e5719389342fa5119c0c9290593b8e92",
+      "title": "Vietmap hợp tác Ford Việt Nam nâng trải nghiệm lái xe an toàn",
+      "link": "https://vnexpress.net/vietmap-hop-tac-ford-viet-nam-nang-trai-nghiem-lai-xe-an-toan-5047471.html",
+      "summary": "Vietmap cung cấp giải pháp camera hành trình, tối ưu công nghệ nhằm tương thích hệ sinh thái các dòng xe Ford ở thị trường Việt Nam, hôm 5/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T01:00:00+07:00",
+      "fetched": "2026-03-09T08:14:45.242695+07:00"
+    },
+    {
+      "id": "733261520f1fa8e472b0740977228877",
+      "title": "Chiến dịch tết 2026 của Home Credit: Những mảnh ghép nhỏ ‘góp’ nên niềm vui lớn",
+      "link": "https://thanhnien.vn/chien-dich-tet-2026-cua-home-credit-nhung-manh-ghep-nho-gop-nen-niem-vui-lon-18526030823013324.htm",
+      "summary": "Home Credit đã khép lại chiến dịch tết 2026 bằng cú hích về truyền thông, đồng thời ghi dấu ấn trong tâm trí người tiêu dùng qua chuỗi hoạt động gắn kết cộng đồng giàu cảm xúc và thiết thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T01:00:00+07:00",
+      "fetched": "2026-03-09T08:14:48.538672+07:00"
+    },
+    {
+      "id": "c3098b39bc2a0393163358f0946d833d",
+      "title": "Sweco hợp tác Coastal Quảng Ngãi kiến tạo biểu tượng cộng đồng tiên phong tại Việt Nam",
+      "link": "https://thanhnien.vn/sweco-hop-tac-coastal-quang-ngai-kien-tao-bieu-tuong-cong-dong-tien-phong-tai-viet-nam-185260308143843145.htm",
+      "summary": "Lần đầu tiên tại Việt Nam, đơn vị tư vấn quy hoạch đô thị bền vững hàng đầu châu Âu Sweco hợp tác với chủ đầu tư Coastal Quảng Ngãi.  Hướng đến mô hình khu đô thị sinh thái phát thải ròng bằng 0, dự án được kỳ vọng góp phần thay đổi môi trường sống cho hơn 4.000 cư dân tại Quảng Ngãi - địa phương đa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T01:00:00+07:00",
+      "fetched": "2026-03-09T08:14:48.538831+07:00"
+    },
+    {
+      "id": "3c9158da8e0d2ac1e4ecbe047a2e3ab3",
+      "title": "Trung úy Nguyễn Trường Minh gửi thanh xuân nơi đảo Hòn Khoai",
+      "link": "https://thanhnien.vn/trung-uy-nguyen-truong-minh-gui-thanh-xuan-noi-dao-hon-khoai-185260307143817153.htm",
+      "summary": "Rời giảng đường Trường Sĩ quan Chính trị, trung úy Nguyễn Trường Minh chọn Hòn Khoai (Cà Mau), đảo tiền tiêu cực Nam Tổ quốc làm quê hương thứ hai. Không chỉ là 'thủ lĩnh' truyền lửa cho đoàn viên, anh còn là điểm tựa tin cậy của ngư dân bám biển qua những mô hình dân vận khéo và bảng thành tích đán...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T01:00:00+07:00",
+      "fetched": "2026-03-09T08:14:48.539004+07:00"
+    },
+    {
+      "id": "a74cf580b51077f690c9c5617c16074b",
+      "title": "Dự báo nhu cầu nhân lực khối ngành công nghệ",
+      "link": "https://thanhnien.vn/du-bao-nhu-cau-nhan-luc-khoi-nganh-cong-nghe-185260306203301749.htm",
+      "summary": "Nhu cầu nhân lực ngành công nghệ được dự báo tiếp tục tăng trưởng trong khoảng 10 năm tiếp theo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T01:00:00+07:00",
+      "fetched": "2026-03-09T08:14:48.539162+07:00"
+    },
+    {
+      "id": "76fe812e07b09049025d8d8b2c66f172",
+      "title": "Sang trọng mà nữ tính nơi công sở cùng áo vest cách điệu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/sang-trong-ma-nu-tinh-noi-cong-so-cung-ao-vest-cach-dieu-185260304153638788.htm",
+      "summary": "Áo vest, blazer luôn được yêu thích vì phom dáng sang trọng chuyên nghiệp mà không kiểu trang phục nào có thể so sánh. Để mang nét nữ tính mềm mại, dịu dàng vào bản phối nơi công sở, nàng cần những ý tưởng mới để áp dụng liền tay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T01:00:00+07:00",
+      "fetched": "2026-03-09T08:14:48.539314+07:00"
+    },
+    {
+      "id": "3161d5259bea995fe89e249de4d0c6ed",
+      "title": "MSB rút ngắn quy trình vay vốn cho doanh nghiệp nhỏ",
+      "link": "https://vnexpress.net/msb-rut-ngan-quy-trinh-vay-von-cho-doanh-nghiep-nho-5047982.html",
+      "summary": "MSB triển khai luồng phê duyệt tích hợp \"2 trong 1\", rút ngắn quy trình và thời gian vay vốn, cung cấp hạn mức linh hoạt, hỗ trợ doanh nghiệp nhỏ tiếp cận tài chính kịp thời.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-09T01:00:00+07:00",
+      "fetched": "2026-03-09T08:14:56.682837+07:00"
+    },
+    {
+      "id": "d0d60d10435a6aa93085fe7e60540435",
+      "title": "Vinpearl sắp chuyển nhượng 90 triệu cổ phiếu VIC",
+      "link": "https://vnexpress.net/vinpearl-sap-chuyen-nhuong-90-trieu-co-phieu-vic-5048068.html",
+      "summary": "Vinpearl sẽ chuyển nhượng 90 triệu cổ phiếu VIC của tập đoàn Vingroup cho trái chủ, theo điều kiện chuyển đổi của lô trái phiếu quốc tế phát hành năm 2024.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:58:20+07:00",
+      "fetched": "2026-03-09T08:14:45.242854+07:00"
+    },
+    {
+      "id": "d0d60d10435a6aa93085fe7e60540435",
+      "title": "Vinpearl sắp chuyển nhượng 90 triệu cổ phiếu VIC",
+      "link": "https://vnexpress.net/vinpearl-sap-chuyen-nhuong-90-trieu-co-phieu-vic-5048068.html",
+      "summary": "Vinpearl sẽ chuyển nhượng 90 triệu cổ phiếu VIC của tập đoàn Vingroup cho trái chủ, theo điều kiện chuyển đổi của lô trái phiếu quốc tế phát hành năm 2024.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-09T00:58:20+07:00",
+      "fetched": "2026-03-09T08:14:56.682659+07:00"
+    },
+    {
+      "id": "a67b76cf3333da298bb99670fda570c0",
+      "title": "Malaysia thông báo kết quả tìm kiếm máy bay MH370",
+      "link": "https://thanhnien.vn/malaysia-thong-bao-ket-qua-tim-kiem-may-bay-mh370-185260309074322167.htm",
+      "summary": "Malaysia thông báo về cuộc tìm kiếm mới nhất đối với chuyến bay MH370 mất tích, trong khi người nhà của các nạn nhân kêu gọi cung cấp thêm thông tin liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:52:00+07:00",
+      "fetched": "2026-03-09T08:14:48.539470+07:00"
+    },
+    {
+      "id": "f30294c0984d1c26f37b8a4b46a2274b",
+      "title": "Malaysia công bố kết quả tìm kiếm chuyến bay mất tích MH370",
+      "link": "https://thanhnien.vn/malaysia-cong-bo-ket-qua-tim-kiem-chuyen-bay-mat-tich-mh370-185260309072940603.htm",
+      "summary": "Thông báo cập nhật từ Cục Điều tra tai nạn hàng không thuộc Bộ Giao thông Vận tải Malaysia cho biết, hoạt động tìm kiếm MH370 mới nhất đã kết thúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:46:00+07:00",
+      "fetched": "2026-03-09T08:14:48.539619+07:00"
+    },
+    {
+      "id": "646c7d7262ace90b8ff8ad1850778524",
+      "title": "Mương thoát nước bị sụp nắp đậy",
+      "link": "https://thanhnien.vn/muong-thoat-nuoc-bi-sup-nap-day-185260308174106978.htm",
+      "summary": "Bạn đọc phản ánh mương thoát nước tại đường Đỗ Mười, đoạn giao với đường dẫn vào Trường ĐH Nông Lâm TP.HCM (P.Linh Xuân; trước thuộc P.Linh Trung, TP.Thủ Đức), TP.HCM, bị hỏng nắp đậy, lộ hố sâu, rất ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:46:00+07:00",
+      "fetched": "2026-03-09T08:14:50.434523+07:00"
+    },
+    {
+      "id": "37267354f975578c1988c1a509034c72",
+      "title": "Công trình nâng cấp đường ngổn ngang quá lâu",
+      "link": "https://thanhnien.vn/cong-trinh-nang-cap-duong-ngon-ngang-qua-lau-185260308173345947.htm",
+      "summary": "Người dân khu vực đường Nguyễn Thị Định, P.Cát Lái (trước đây thuộc P.Cát Lái, TP.Thủ Đức), TP.HCM, bức xúc phản ánh việc đơn vị thi công nâng cấp mở rộng con đường đã để đất đá ngổn ngang, gây khó kh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:46:00+07:00",
+      "fetched": "2026-03-09T08:14:52.205769+07:00"
+    },
+    {
+      "id": "b7ac74ec32742be5fdec3cfccdebdcb9",
+      "title": "Dân bức xúc vì dự án gần 130 tỉ đồng chậm tiến độ",
+      "link": "https://thanhnien.vn/dan-buc-xuc-vi-du-an-gan-130-ti-dong-cham-tien-do-185260308172603978.htm",
+      "summary": "Được đầu tư gần 130 tỉ đồng để giải quyết tình trạng ngập úng, nhưng dự án mương ngầm đường Trưng Nữ Vương ở phía nam TP.Đà Nẵng hiện trong tình trạng thi công nhỏ giọt. Những rào chắn kéo dài không chỉ bóp nghẹt giao thông mà còn khiến hoạt động kinh doanh của nhiều hộ dân gặp khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:45:00+07:00",
+      "fetched": "2026-03-09T08:14:52.206206+07:00"
+    },
+    {
+      "id": "6ee817b3ddbceea92e79b0067b0abc4c",
+      "title": "Cô gái Gia Lai 26 tuổi lái xe tải xuyên Việt, một tháng ngủ cabin 25 ngày",
+      "link": "https://thanhnien.vn/co-gai-gia-lai-26-tuoi-lai-xe-tai-xuyen-viet-mot-thang-ngu-cabin-25-ngay-185260307131103188.htm",
+      "summary": "Mỗi ngày lái xe tải 34 tấn chở hàng xuyên Việt, cô gái gen Z Nguyễn Thị Thùy Duyên, quê Gia Lai khiến nhiều người ngỡ ngàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:44:00+07:00",
+      "fetched": "2026-03-09T08:14:52.206382+07:00"
+    },
+    {
+      "id": "2aa67fc3fbfe7e26f122285a9b69ba78",
+      "title": "40 triệu nên mua xe máy điện nào?",
+      "link": "https://vnexpress.net/40-trieu-nen-mua-xe-may-dien-nao-5048082.html",
+      "summary": "Tôi mua xe chủ yếu đi trong phố, xin hỏi tầm tiền này tôi có những lựa chọn mua xe nào. (Thế Anh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:40:55+07:00",
+      "fetched": "2026-03-09T08:14:45.243025+07:00"
+    },
+    {
+      "id": "274061c9429d34a9a33cd27fd6ebf0d3",
+      "title": "Giá dầu thế giới vượt 100 USD",
+      "link": "https://vnexpress.net/gia-dau-the-gioi-vuot-100-usd-5048077.html",
+      "summary": "Dầu thô Brent sáng 9/3 có thời điểm tăng gần 20%, khi xung đột tại Trung Đông leo thang khiến nhà đầu tư lo ngại nguồn cung càng thắt chặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:37:28+07:00",
+      "fetched": "2026-03-09T08:14:45.243181+07:00"
+    },
+    {
+      "id": "274061c9429d34a9a33cd27fd6ebf0d3",
+      "title": "Giá dầu thế giới vượt 100 USD",
+      "link": "https://vnexpress.net/gia-dau-the-gioi-vuot-100-usd-5048077.html",
+      "summary": "Dầu thô Brent sáng 9/3 có thời điểm tăng gần 20%, khi xung đột tại Trung Đông leo thang khiến nhà đầu tư lo ngại nguồn cung càng thắt chặt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-09T00:37:28+07:00",
+      "fetched": "2026-03-09T08:14:56.682169+07:00"
+    },
+    {
+      "id": "1fe65453d48e09d0c8a5b3541ff96803",
+      "title": "Chuyên gia: Hạn chế đường, bổ sung đủ omega-3 giúp giảm nguy cơ đột quỵ",
+      "link": "https://thanhnien.vn/chuyen-gia-han-che-duong-bo-sung-du-omega-3-giup-giam-nguy-co-dot-quy-185260309071110088.htm",
+      "summary": "Não bộ và tim mạch có mối liên hệ chặt chẽ. Ít ai biết rằng việc áp dụng chế độ ăn tốt cho tim mạch là một trong những cách hiệu quả để giảm nguy cơ đột quỵ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:35:00+07:00",
+      "fetched": "2026-03-09T08:14:52.206537+07:00"
+    },
+    {
+      "id": "6cc5961c67ff20158860b62103e9e81d",
+      "title": "Ông Trump: 'Giá dầu tăng chỉ là cái giá nhỏ phải trả'",
+      "link": "https://vnexpress.net/ong-trump-gia-dau-tang-chi-la-cai-gia-nho-phai-tra-5048074.html",
+      "summary": "Ông Trump nói giá dầu tăng \"chỉ là cái giá nhỏ phải trả\" để đổi lấy hòa bình và sẽ giảm nhanh khi mối đe dọa từ Iran chấm dứt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:32:18+07:00",
+      "fetched": "2026-03-09T08:14:45.243341+07:00"
+    },
+    {
+      "id": "6cc5961c67ff20158860b62103e9e81d",
+      "title": "Ông Trump: 'Giá dầu tăng chỉ là cái giá nhỏ phải trả'",
+      "link": "https://vnexpress.net/ong-trump-gia-dau-tang-chi-la-cai-gia-nho-phai-tra-5048074.html",
+      "summary": "Ông Trump nói giá dầu tăng \"chỉ là cái giá nhỏ phải trả\" để đổi lấy hòa bình và sẽ giảm nhanh khi mối đe dọa từ Iran chấm dứt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-09T00:32:18+07:00",
+      "fetched": "2026-03-09T08:14:55.315040+07:00"
+    },
+    {
+      "id": "3e9524a38a8a394cce5945df364689ea",
+      "title": "Quân Israel đổ bộ biên giới Lebanon - Syria, Hezbollah bắn hạ trực thăng Israel?",
+      "link": "https://thanhnien.vn/quan-israel-do-bo-o-lebanon-hezbollah-ban-ha-truc-thang-israel-185260309065833471.htm",
+      "summary": "Các cuộc đụng độ đã nổ ra ở miền đông Lebanon hôm nay 9.3, sau khi lực lượng Israel đổ bộ bằng trực thăng xuống biên giới Lebanon - Syria, theo AFP dẫn lại thông tin từ báo chí Lebanon.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:31:00+07:00",
+      "fetched": "2026-03-09T08:14:52.206696+07:00"
+    },
+    {
+      "id": "f12ba79d3834573051b75bc47b7c4c8f",
+      "title": "Vì sao Apple chưa vội ra mắt iPad giá rẻ mới?",
+      "link": "https://thanhnien.vn/vi-sao-apple-chua-voi-ra-mat-ipad-gia-re-moi-185260308222955964.htm",
+      "summary": "Apple được cho là đang phát triển mẫu iPad giá rẻ mới với chip mạnh hơn và khả năng hỗ trợ trí tuệ nhân tạo (AI).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:12:00+07:00",
+      "fetched": "2026-03-09T08:14:52.206854+07:00"
+    },
+    {
+      "id": "d626c90aa89e5f5d76b188ea798ab576",
+      "title": "Hoa ban phủ trắng các tuyến đường ở Điện Biên",
+      "link": "https://vnexpress.net/hoa-ban-phu-trang-cac-tuyen-duong-o-dien-bien-5048067.html",
+      "summary": "Điện Biên vào mùa hoa ban nở rộ, trùng thời điểm khai mạc Lễ hội hoa ban với nhiều hoạt động văn hóa, trải nghiệm hấp dẫn khách du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:00:00+07:00",
+      "fetched": "2026-03-09T08:14:45.243490+07:00"
+    },
+    {
+      "id": "2ddd76ba1922b179433e305d15f5314c",
+      "title": "DHL mở rộng mạng lưới vận tải hàng không lạnh y tế",
+      "link": "https://vnexpress.net/dhl-mo-rong-mang-luoi-van-tai-hang-khong-lanh-y-te-5044034.html",
+      "summary": "DHL đầu tư 2 tỷ Euro phát triển mạng lưới hàng không chuỗi lạnh chuyên dụng, nâng năng lực vận chuyển dược phẩm, vaccine và liệu pháp tiên tiến toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T00:00:00+07:00",
+      "fetched": "2026-03-09T08:14:45.243651+07:00"
+    },
+    {
+      "id": "d6ddc293f4ca648bf0d1c67dc5a66377",
+      "title": "Thầy trò Việt giải mã 'bí ẩn' sinh học 20 năm trên Nature",
+      "link": "https://vnexpress.net/thay-tro-viet-giai-ma-bi-an-sinh-hoc-20-nam-tren-nature-5047364.html",
+      "summary": "Ba thầy trò người Việt ở Hong Kong giải mã \"bí ẩn\" về cơ chế của enzyme DICER, mở ra triển vọng mới trong điều trị ung thư, được đăng tải trên tạp chí khoa học danh tiếng hơn 150 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-08T23:56:57+07:00",
+      "fetched": "2026-03-09T08:14:45.243810+07:00"
+    },
+    {
+      "id": "37f2cad5f74d27c6c16048eed57f8f4e",
+      "title": "Được thưởng 30.000 USD sau khi tạo 'đội quân' 7.000 robot hút bụi",
+      "link": "https://vnexpress.net/duoc-thuong-30-000-usd-sau-khi-tao-doi-quan-7-000-robot-hut-bui-5048043.html",
+      "summary": "Sammy Azdoufal, lập trình viên ở Tây Ban Nha, sẽ nhận được 30.000 USD sau khi tìm ra lỗ hổng và kiểm soát được hàng nghìn robot hút bụi DJI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-08T23:31:14+07:00",
+      "fetched": "2026-03-09T08:14:59.543135+07:00"
+    },
+    {
+      "id": "fcbec1e0cd8126d180544b3c61d899a2",
+      "title": "Iran công bố tân Lãnh tụ Tối cao",
+      "link": "https://vnexpress.net/iran-cong-bo-tan-lanh-tu-toi-cao-5048073.html",
+      "summary": "Hội đồng Chuyên gia đã chọn ông Mojtaba Khamenei, con trai giáo chủ quá cố Ali Khamenei, làm Lãnh tụ Tối cao tiếp theo của Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-08T23:26:54+07:00",
+      "fetched": "2026-03-09T08:14:55.315216+07:00"
+    },
+    {
+      "id": "4378886ffc4bb32f80129fc0898002e2",
+      "title": "McGregor vắng mặt tại sự kiện UFC ở Nhà Trắng",
+      "link": "https://vnexpress.net/mcgregor-vang-mat-tai-su-kien-ufc-o-nha-trang-5048070.html",
+      "summary": "Võ sĩ Ireland Conor McGregor không kịp trở lại lồng bát giác tại sự kiện UFC tổ chức ở Nhà Trắng ngày 14/6, dù từng bày tỏ mong muốn góp mặt trong sự kiện đặc biệt này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-08T23:12:12+07:00",
+      "fetched": "2026-03-09T08:15:00.873570+07:00"
+    },
+    {
+      "id": "e404a531fdc9d0d86a223f4812b9e018",
+      "title": "Kiplimo giành lại kỷ lục half marathon thế giới",
+      "link": "https://vnexpress.net/kiplimo-gianh-lai-ky-luc-half-marathon-the-gioi-5048069.html",
+      "summary": "VĐV Uganda Jacob Kiplimo lập kỷ lục 57 phút 20 giây tại Lisbon Half Marathon 2026 ngày 8/3, chỉ vài tháng sau khi thành tích nhanh hơn của anh bị xác định là không hợp lệ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-08T23:07:38+07:00",
+      "fetched": "2026-03-09T08:15:00.873730+07:00"
+    },
+    {
+      "id": "75cd614439e3f0c13a5732d72b3d1249",
+      "title": "Iraq đề nghị hoãn trận play-off World Cup 2026",
+      "link": "https://vnexpress.net/iraq-de-nghi-hoan-tran-play-off-world-cup-2026-5048071.html",
+      "summary": "LĐBĐ Iraq yêu cầu hoãn trận play-off World Cup 2026 sau khi từ chối phương án của FIFA về việc di chuyển bằng đường bộ 25 giờ tới Istanbul trước khi bay sang Monterrey thi đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-08T23:05:26+07:00",
+      "fetched": "2026-03-09T08:15:00.873074+07:00"
+    },
+    {
+      "id": "bd377b4d77384c739d7dcf9f68af2008",
+      "title": "'Tăng trưởng đến từ việc tổ chức lại nền kinh tế dựa trên công nghệ'",
+      "link": "https://vnexpress.net/tang-truong-den-tu-viec-to-chuc-lai-nen-kinh-te-dua-tren-cong-nghe-5048030.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, công nghệ là điều kiện cần, đổi mới vận hành và thể chế mới là điều kiện đủ để tạo ra tăng trưởng mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-08T23:00:00+07:00",
+      "fetched": "2026-03-09T08:14:59.542775+07:00"
     },
     {
       "id": "e29271f29d2eb83fd8c9919c9c50f5ac",
