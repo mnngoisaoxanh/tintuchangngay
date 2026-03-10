@@ -1,6 +1,6 @@
 window.newsData_2026_03_11 = {
   "date": "2026-03-11",
-  "lastUpdated": "2026-03-11T01:35:47.877027+07:00",
+  "lastUpdated": "2026-03-11T03:23:14.377553+07:00",
   "articles": [
     {
       "id": "e169bf91f3f62c5c688307acbaa54e92",
@@ -151,6 +151,26 @@ window.newsData_2026_03_11 = {
       "category": "Tổng hợp",
       "published": "2026-03-11T01:35:42.252567+07:00",
       "fetched": "2026-03-11T01:35:42.252878+07:00"
+    },
+    {
+      "id": "eb3ef69e41f89581c2bf60d6b910b22c",
+      "title": "So kè quyết liệt",
+      "link": "https://thanhnien.vn/so-ke-quyet-liet-185260310214228815.htm",
+      "summary": "Đội Trường CĐ FPT Polytechnic và đội Trường ĐH Công nghiệp TP.HCM nắm ưu thế nhưng chủ nhà Trường ĐH Nha Trang cũng còn nguyên cơ hội ở bảng A, vòng chung kết giải bóng đá Thanh Niên sinh viên VN lần IV - 2026 cúp THACO (TNSV THACO cup 2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T20:19:00+07:00",
+      "fetched": "2026-03-11T03:23:05.486498+07:00"
+    },
+    {
+      "id": "e2fac0740f570a2ac4ac8b0f9c61a7f2",
+      "title": "Đột quỵ ở người dưới 40 tuổi: Những nguyên nhân không nên xem nhẹ",
+      "link": "https://thanhnien.vn/dot-quy-o-nguoi-duoi-40-tuoi-nhung-nguyen-nhan-khong-nen-xem-nhe-185260310004705111.htm",
+      "summary": "Trong những năm gần đây, số ca đột quỵ ở người dưới 40 tuổi đang tăng lên rõ rệt. Nhiều người thậm chí còn không nghĩ mình thuộc nhóm nguy cơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T18:35:00+07:00",
+      "fetched": "2026-03-11T03:23:05.486676+07:00"
     },
     {
       "id": "76f2eb504610ff9884739dd36baa9de7",
