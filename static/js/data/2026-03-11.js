@@ -1,7 +1,37 @@
 window.newsData_2026_03_11 = {
   "date": "2026-03-11",
-  "lastUpdated": "2026-03-11T03:23:14.377553+07:00",
+  "lastUpdated": "2026-03-11T05:18:41.793277+07:00",
   "articles": [
+    {
+      "id": "16d0061dcc7cbc896d0a005857237a62",
+      "title": "Điều chỉnh tăng giá xăng, giảm giá dầu hỏa, chi mạnh quỹ bình ổn tới 5.000 đồng/lít",
+      "link": "https://tuoitre.vn/dieu-chinh-tang-gia-xang-giam-gia-dau-hoa-chi-manh-quy-binh-on-toi-5-000-dong-lit-20260310180348183.htm",
+      "summary": "Thông tin từ Bộ Công Thương vừa công bố điều chỉnh giá các mặt hàng xăng dầu và chi sử dụng quỹ bình ổn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T05:18:35.831400+07:00",
+      "fetched": "2026-03-11T05:18:35.831521+07:00"
+    },
+    {
+      "id": "4e5b99bd787224fc53de4b28bef0a862",
+      "title": "Giảm thuế, phí... có ghìm được giá vé máy bay?",
+      "link": "https://tuoitre.vn/giam-thue-phi-co-ghim-duoc-gia-ve-may-bay-20260310231529902.htm",
+      "summary": "Giá nhiên liệu máy bay tăng mạnh đang đẩy các hãng hàng không vào thế khó khi chi phí khai thác đội bay lên nhanh, trong khi nguy cơ thiếu nguồn cung từ đầu tháng 4-2026 ngày càng rõ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T05:18:35.831259+07:00",
+      "fetched": "2026-03-11T05:18:35.831388+07:00"
+    },
+    {
+      "id": "9e9a6fe94874b3a5d995040252a3ecbe",
+      "title": "Tin tức sáng 11-3: Đề xuất người trên 61 tuổi không được nhận con nuôi",
+      "link": "https://tuoitre.vn/tin-tuc-sang-11-3-de-xuat-nguoi-tren-61-tuoi-khong-duoc-nhan-con-nuoi-20260310212814204.htm",
+      "summary": "Một số tin tức đáng chú ý: Xăng ở Việt Nam rẻ hơn ở 2 nước láng giềng, hải quan phải lo chống buôn lậu qua biên giới; Gia đình ông Phạm Nhật Vượng có 3 người lọt top giàu nhất thế giới; Khối ngoại mua ròng nghìn tỉ sau phiên lịch sử...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T05:18:35.831033+07:00",
+      "fetched": "2026-03-11T05:18:35.831244+07:00"
+    },
     {
       "id": "e169bf91f3f62c5c688307acbaa54e92",
       "title": "12.000 tô Phở ấm lòng công nhân Bàu Bàng",
@@ -151,6 +181,226 @@ window.newsData_2026_03_11 = {
       "category": "Tổng hợp",
       "published": "2026-03-11T01:35:42.252567+07:00",
       "fetched": "2026-03-11T01:35:42.252878+07:00"
+    },
+    {
+      "id": "65c97f8d548dc29b578392d7c9b4f559",
+      "title": "Tử vi ngày 11 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-11-thang-3-con-giap-nao-may-man-hom-nay-185260311050710432.htm",
+      "summary": "Tử vi ngày 11 tháng 3 mang đến những gợi ý mang tính tham khảo cho 12 con giáp khi tuần làm việc đang vào nhịp ổn định. Vận khí hôm nay thiên về sự linh hoạt, khả năng thích nghi và cách bạn tận dụng các mối quan hệ xung quanh. Tài lộc có thể xuất hiện từ những cơ hội nhỏ nếu bạn chủ động nắm bắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:15:00+07:00",
+      "fetched": "2026-03-11T05:18:34.964758+07:00"
+    },
+    {
+      "id": "f3ba58aa16e46a1c152df3971066344e",
+      "title": "Aur bừng sáng giữa đại ngàn",
+      "link": "https://thanhnien.vn/aur-bung-sang-giua-dai-ngan-185260310194533312.htm",
+      "summary": "Giữa đại ngàn Trường Sơn hùng vĩ, nơi mây rừng thường xuyên sà xuống mái hiên nhà gươl, có một ngôi làng nhỏ mang tên Aur (xã A Vương, TP.Đà Nẵng) gần như tách biệt hoàn toàn với thế giới bên ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:13:00+07:00",
+      "fetched": "2026-03-11T05:18:34.964964+07:00"
+    },
+    {
+      "id": "13761f07949c740b038b16ec0e77402a",
+      "title": "Tiền đạo số 7 Trường CĐ FPT Polytechnic tiết lộ về mái tóc 'vía vô địch'",
+      "link": "https://thanhnien.vn/tien-dao-so-7-truong-cd-fpt-polytechnic-tiet-lo-ve-mai-toc-via-vo-dich-185260311010617046.htm",
+      "summary": "Chiều 10.3, Trường CĐ FPT Polytechnic giành chiến thắng 2-0 trước Trường ĐH Tôn Đức Thắng ở lượt trận thứ hai bảng A VCK Giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 Cúp THACO. Dù không trực tiếp ghi bàn, cầu thủ Trần Minh Thảo mang áo số 7 vẫn trở thành nhân tố nổi bật nhất trận đấu với...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:11:00+07:00",
+      "fetched": "2026-03-11T05:18:34.965133+07:00"
+    },
+    {
+      "id": "4013cb62e3db90c2d3f33f1b815bcc87",
+      "title": "CĐV đặc biệt gắn bó hơn 20 năm, chưa từng bỏ lỡ trận nào của đội Trường ĐH Nha Trang",
+      "link": "https://thanhnien.vn/cdv-dac-biet-gan-bo-hon-20-nam-chua-tung-bo-lo-tran-nao-cua-doi-truong-dh-nha-trang-185260311010405295.htm",
+      "summary": "Trên khán đài sân bóng Trường ĐH Nha Trang tại VCK giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 Cúp THACO, có một CĐV đặc biệt luôn xuất hiện trong các trận đấu của đội chủ nhà. Hơn 20 năm buôn bán tạp hóa trong khuôn viên trường, bà xem các thế hệ sinh viên như con cháu và luôn cổ vũ độ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:10:00+07:00",
+      "fetched": "2026-03-11T05:18:34.965289+07:00"
+    },
+    {
+      "id": "1cb52e8e7311b0a88b2eed301ce8ea2a",
+      "title": "Không thể chủ quan với động đất",
+      "link": "https://thanhnien.vn/khong-the-chu-quan-voi-dong-dat-185260310192635685.htm",
+      "summary": "Ngày 9.3, tại xã Măng Bút (trước đây thuộc huyện Kon Plông, tỉnh Kon Tum; nay thuộc tỉnh Quảng Ngãi) đã ghi nhận 2 trận động đất, trong đó trận mạnh nhất đạt 3,9 độ Richter.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:10:00+07:00",
+      "fetched": "2026-03-11T05:18:34.965444+07:00"
+    },
+    {
+      "id": "31f9c278700528e24b31cc7cc59a97df",
+      "title": "Vòng 16 đội Champions League: Liverpool và Tottenham thua 'thảm họa', Bayern Munich thắng đậm đến khó tin",
+      "link": "https://thanhnien.vn/vong-16-doi-champions-league-liverpool-va-tottenham-thua-tham-hoa-bayern-munich-thang-dam-den-kho-tin-185260311050247516.htm",
+      "summary": "Rạng sáng 11.3, 2 đại diện nước Anh là Tottenham và Liverpool đều có màn thể hiện không tốt, thất bại ở lượt đi vòng 16 đội Champions League 2025 - 2026. Trong khi đó, Bayern Munich thể hiện đẳng cấp, giành chiến thắng đậm dù phải thi đấu trên sân khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:08:00+07:00",
+      "fetched": "2026-03-11T05:18:34.965601+07:00"
+    },
+    {
+      "id": "de9e1127526a0e142f1ef0c0e485082b",
+      "title": "Chiến sự Ukraine ngày 1.476: Nga và Ukraine tuyên bố bất nhất",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1476-nga-va-ukraine-tuyen-bo-bat-nhat-185260310210739208.htm",
+      "summary": "Giới chức Nga và Ukraine đang đưa ra những tuyên bố trái ngược nhau về thắng lợi của phần mình trên tiền tuyến, trong lúc các cuộc đàm phán do Mỹ làm trung gian bị đình trệ vì Washington tập trung vào chiến sự Trung Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:08:00+07:00",
+      "fetched": "2026-03-11T05:18:34.965757+07:00"
+    },
+    {
+      "id": "1ff0747e3a4ba7b91f07f3971274448b",
+      "title": "Kiến nghị chính sách hỗ trợ đặc thù cho dự án điện hạt nhân",
+      "link": "https://thanhnien.vn/kien-nghi-chinh-sach-ho-tro-dac-thu-cho-du-an-dien-hat-nhan-185260310205327241.htm",
+      "summary": "Ngày 10.3, UBND tỉnh Khánh Hòa cho biết đã chỉ đạo các cơ quan chuyên môn sớm hoàn thiện văn bản kiến nghị Ủy ban Thường vụ Quốc hội ban hành chính sách hỗ trợ đặc thù đối với các dự án nhà máy điện hạt nhân trên địa bàn tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:07:00+07:00",
+      "fetched": "2026-03-11T05:18:34.965924+07:00"
+    },
+    {
+      "id": "84bebdbb1a7b630043b94a97c41fcb53",
+      "title": "Hôm nay 11.3 là ngày gì? Lịch âm, lịch vạn niên có gì đặc biệt?",
+      "link": "https://thanhnien.vn/hom-nay-113-la-ngay-gi-lich-am-lich-van-nien-co-gi-dac-biet-185260310150404223.htm",
+      "summary": "Hôm nay là ngày đặc biệt không phải ai cũng biết. Theo lịch âm, lịch vạn niên, ngày 11.3 là ngày gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:05:00+07:00",
+      "fetched": "2026-03-11T05:18:34.966079+07:00"
+    },
+    {
+      "id": "77471bf0b388317fa9b58f54da8a128b",
+      "title": "5 sao Ninh Bình lên đội tuyển Việt Nam đấu Malaysia: Văn Lâm, Hoàng Đức có mặt",
+      "link": "https://thanhnien.vn/5-sao-ninh-binh-len-doi-tuyen-viet-nam-dau-malaysia-van-lam-hoang-duc-co-mat-185260311034332135.htm",
+      "summary": "CLB Ninh Bình vừa xác nhận có 5 cầu thủ được HLV Kim Sang-sik triệu tập vào danh sách sơ bộ đội tuyển Việt Nam trong đợt hội quân dịp FIFA Days tháng 3. Đây đều là những trụ cột của đội bóng cố đô Hoa Lư ở mùa giải V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:03:00+07:00",
+      "fetched": "2026-03-11T05:18:34.966228+07:00"
+    },
+    {
+      "id": "657f9c3bf2ff9ad6b9a0cc4595dea0f5",
+      "title": "Giá dầu tăng cao, nhiều tàu cá Quảng Ngãi ngại vươn khơi",
+      "link": "https://thanhnien.vn/gia-dau-tang-cao-nhieu-tau-ca-quang-ngai-ngai-vuon-khoi-185260310174834918.htm",
+      "summary": "Giá nhiên liệu tăng cao khiến nhiều ngư dân Quảng Ngãi lo chi phí chuyến biển đội lên, nguy cơ thua lỗ. Tại các cảng cá, không khí vươn khơi trở nên trầm lắng khi nhiều tàu cá buộc phải nằm bờ chờ giá dầu 'hạ nhiệt'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:03:00+07:00",
+      "fetched": "2026-03-11T05:18:34.966382+07:00"
+    },
+    {
+      "id": "87e94e6c7545420c4c3999e2e7a20418",
+      "title": "10 người giàu nhất hành tinh năm 2026",
+      "link": "https://vnexpress.net/10-nguoi-giau-nhat-hanh-tinh-nam-2026-5048913.html",
+      "summary": "Tài sản của 10 người giàu nhất hành tinh năm nay đều trên 100 tỷ USD, dẫn đầu là CEO Tesla Elon Musk với 839 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:00:00+07:00",
+      "fetched": "2026-03-11T05:18:32.390281+07:00"
+    },
+    {
+      "id": "849787744814e439c7d727c9416bbf2e",
+      "title": "24 giờ truy dấu kẻ sát hại 3 phụ nữ của cảnh sát Mỹ",
+      "link": "https://vnexpress.net/24-gio-truy-dau-ke-sat-hai-3-phu-nu-cua-canh-sat-my-5048868.html",
+      "summary": "Chưa đầy 24 giờ sau khi thi thể ba phụ nữ được phát hiện, thiết bị đọc biển số xe và chìa khóa thông minh của chính nạn nhân đã giúp nhà chức trách tìm ra nghi phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:00:00+07:00",
+      "fetched": "2026-03-11T05:18:32.390465+07:00"
+    },
+    {
+      "id": "898bccbdde5658b43f8e82c358cbf0be",
+      "title": "Thông điệp cứng rắn của Iran khi chọn tân Lãnh tụ Tối cao",
+      "link": "https://vnexpress.net/thong-diep-cung-ran-cua-iran-khi-chon-tan-lanh-tu-toi-cao-5048557.html",
+      "summary": "Việc Iran bầu ông Mojtaba Khamenei, người có quan điểm cứng rắn, làm Lãnh tụ Tối cao phát đi thông điệp đối đầu không khoan nhượng với Mỹ và Israel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:00:00+07:00",
+      "fetched": "2026-03-11T05:18:32.390634+07:00"
+    },
+    {
+      "id": "59d1cd442bedba949a452648995640ee",
+      "title": "Đề xuất dịch vụ công chủ động nhắc nhở, chuẩn bị hồ sơ cho người dân",
+      "link": "https://vnexpress.net/de-xuat-dich-vu-cong-chu-dong-nhac-nho-chuan-bi-ho-so-cho-nguoi-dan-5048295.html",
+      "summary": "Dịch vụ công trực tuyến dự kiến được phân chia theo mức độ chủ động, trong đó mức cao nhất có thể nhắc nhở, chuẩn bị hồ sơ, khuyến nghị phương án dịch vụ cho người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:00:00+07:00",
+      "fetched": "2026-03-11T05:18:32.390794+07:00"
+    },
+    {
+      "id": "8866d096ebfad2543da2d68629b543b1",
+      "title": "Căn bệnh gây mù lòa vĩnh viễn không có triệu chứng sớm",
+      "link": "https://vnexpress.net/can-benh-gay-mu-loa-vinh-vien-khong-co-trieu-chung-som-5048022.html",
+      "summary": "Là nguyên nhân gây mù lòa thứ hai trên thế giới, bệnh glaucoma (cườm nước) tiến triển thầm lặng và phá hủy thị lực vĩnh viễn mà không hề có triệu chứng báo trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:00:00+07:00",
+      "fetched": "2026-03-11T05:18:32.390983+07:00"
+    },
+    {
+      "id": "029fdc9b5fb431b91190784722d8dbb9",
+      "title": "Tài xế bẻ gãy gương chiếu hậu ôtô đỗ chắn lối",
+      "link": "https://vnexpress.net/tai-xe-be-gay-guong-chieu-hau-oto-do-chan-loi-5048755.html",
+      "summary": "Người đàn ông bước đến gần chiếc xe đỗ ven đường, dùng hai tay bẻ gập gương chiếu hậu trước khi giơ chân đạp gãy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:00:00+07:00",
+      "fetched": "2026-03-11T05:18:32.391145+07:00"
+    },
+    {
+      "id": "337a8270a9b1348a8861b570700adf16",
+      "title": "Đội tuyển nữ Việt Nam cần cải tổ để không tụt hậu",
+      "link": "https://thanhnien.vn/doi-tuyen-nu-viet-nam-can-cai-to-de-khong-tut-hau-185260310212615296.htm",
+      "summary": "Thất bại 0-4 trước Nhật Bản vào chiều qua 10.3 ở lượt trận hạ màn bảng C Asian Cup nữ 2026 khiến đội tuyển nữ VN không chỉ lỡ vé đi World Cup, mà còn đặt ra cho thầy trò HLV Mai Đức Chung nhu cầu phải thay đổi nếu không muốn tụt lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:00:00+07:00",
+      "fetched": "2026-03-11T05:18:34.966530+07:00"
+    },
+    {
+      "id": "e63da41c89733b2527b8ffaf5a3f393a",
+      "title": "Món Hà Nội bán 'thuần online'",
+      "link": "https://thanhnien.vn/mon-ha-noi-ban-thuan-online-185260310201247882.htm",
+      "summary": "Gian bếp siêu xinh như một chiếc phong bì thư, kỷ luật của chị Thu Hương vẫn hàng ngày sản xuất các món Hà Nội để bán 'thuần online' trong suốt 14 năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:00:00+07:00",
+      "fetched": "2026-03-11T05:18:34.966675+07:00"
+    },
+    {
+      "id": "562bc49d0412d5aaff2aa3c90947afca",
+      "title": "9X xinh như hotgirl làm chủ mái ấm ở TP.HCM, cưu mang mẹ đơn thân tứ xứ",
+      "link": "https://thanhnien.vn/9x-xinh-nhu-hotgirl-lam-chu-mai-am-o-tphcm-cuu-mang-me-don-than-tu-xu-185260307004729149.htm",
+      "summary": "Từ cuộc gặp gỡ ám ảnh giữa mùa dịch Covid-19, cô gái trẻ đã mở một mái ấm để cưu mang những bà mẹ đơn thân vừa sinh con, hoặc đang mang bầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T22:00:00+07:00",
+      "fetched": "2026-03-11T05:18:34.966820+07:00"
+    },
+    {
+      "id": "898bccbdde5658b43f8e82c358cbf0be",
+      "title": "Thông điệp cứng rắn của Iran khi chọn tân Lãnh tụ Tối cao",
+      "link": "https://vnexpress.net/thong-diep-cung-ran-cua-iran-khi-chon-tan-lanh-tu-toi-cao-5048557.html",
+      "summary": "Việc Iran bầu ông Mojtaba Khamenei, người có quan điểm cứng rắn, làm Lãnh tụ Tối cao phát đi thông điệp đối đầu không khoan nhượng với Mỹ và Israel.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-10T22:00:00+07:00",
+      "fetched": "2026-03-11T05:18:37.421436+07:00"
+    },
+    {
+      "id": "8b539882f368672200a18b35be9ed345",
+      "title": "Linh vật Kim Mã 4.0 sẽ đặt trước cầu chữ T ở Đà Nẵng",
+      "link": "https://thanhnien.vn/linh-vat-kim-ma-40-se-dat-truoc-cau-chu-t-o-da-nang-185260310183403975.htm",
+      "summary": "Hai mô hình linh vật Kim Mã tiêu biểu tại Đà Nẵng, trong đó có Kim Mã 4.0 từng thu hút đông đảo du khách dịp tết, sẽ được di dời đến vị trí mới để tiếp tục phục vụ tham quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T21:45:00+07:00",
+      "fetched": "2026-03-11T05:18:34.966985+07:00"
     },
     {
       "id": "eb3ef69e41f89581c2bf60d6b910b22c",
