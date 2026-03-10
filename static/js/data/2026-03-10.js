@@ -1,7 +1,157 @@
 window.newsData_2026_03_10 = {
   "date": "2026-03-10",
-  "lastUpdated": "2026-03-10T21:40:55.686687+07:00",
+  "lastUpdated": "2026-03-10T23:46:53.293003+07:00",
   "articles": [
+    {
+      "id": "e169bf91f3f62c5c688307acbaa54e92",
+      "title": "12.000 tô Phở ấm lòng công nhân Bàu Bàng",
+      "link": "https://tuoitre.vn/12-000-to-pho-am-long-cong-nhan-bau-bang-2026031020053235.htm",
+      "summary": "Những ngày đầu tháng 3, tại xã Bàu Bàng – nơi tập trung đông đảo công nhân và người lao động đang làm việc tại các khu công nghiệp – không khí trở nên ấm áp và rộn ràng hơn thường lệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.333648+07:00",
+      "fetched": "2026-03-10T23:46:44.333759+07:00"
+    },
+    {
+      "id": "55e3d00acd324626a66f628abfe1ce37",
+      "title": "Ứng cử viên đại biểu Quốc hội trẻ nhất TP.HCM Nguyễn Thế Duy: Đồng hành phát triển nhà ở xã hội",
+      "link": "https://tuoitre.vn/ung-cu-vien-dai-bieu-quoc-hoi-tre-nhat-tp-hcm-nguyen-the-duy-dong-hanh-phat-trien-nha-o-xa-hoi-20260310202254354.htm",
+      "summary": "Là người trẻ nhất trong số các ứng cử viên đại biểu Quốc hội tại TP.HCM, doanh nhân Nguyễn Thế Duy (sinh năm 1994) cam kết góp phần thúc đẩy các giải pháp an sinh cho người lao động, đặc biệt là nhà ở xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.333513+07:00",
+      "fetched": "2026-03-10T23:46:44.333637+07:00"
+    },
+    {
+      "id": "b6f30bcc5b818f6807869465de36a646",
+      "title": "Trường ĐH Bách khoa TP.HCM lên tiếng về việc di dời, định hướng phát triển cơ sở mới",
+      "link": "https://tuoitre.vn/truong-dh-bach-khoa-tphcm-len-tieng-ve-viec-di-doi-dinh-huong-phat-trien-co-so-moi-20260310204725593.htm",
+      "summary": "Sau khi xuất hiện nhiều thông tin về việc nghiên cứu di dời và xây dựng cơ sở mới, Trường đại học Bách khoa (Đại học Quốc gia TP.HCM) đã thông tin về định hướng phát triển cơ sở vật chất và hạ tầng đào tạo - nghiên cứu của trường trong thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.333388+07:00",
+      "fetched": "2026-03-10T23:46:44.333502+07:00"
+    },
+    {
+      "id": "b3ceed7da48eab5dd8bfd482dfe2e09d",
+      "title": "Mới đánh 1 trận, cô gái Việt cao gần 2m đã được CLB Thái Lan xem là 'thần tượng'",
+      "link": "https://tuoitre.vn/moi-danh-1-tran-co-gai-viet-cao-gan-2m-da-duoc-clb-thai-lan-xem-la-than-tuong-2026030920100268.htm",
+      "summary": "Chỉ sau 1 trận đấu ra mắt CLB Nakhon Ratchasima VC, cô gái Việt Nam cao 1m95 Lý Thị Luyến đã nhận được sự cổ vũ đông đảo từ người hâm mộ bóng chuyền Thái Lan, cũng như nâng cao vị thế hình ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.333265+07:00",
+      "fetched": "2026-03-10T23:46:44.333378+07:00"
+    },
+    {
+      "id": "264649629ae6356cb8ad10d87ab967c2",
+      "title": "Khởi tố vụ án sà lan đụng cầu Ghềnh, đứt gãy giao thông đường sắt Bắc - Nam",
+      "link": "https://tuoitre.vn/khoi-to-vu-an-sa-lan-dung-cau-ghenh-dut-gay-giao-thong-duong-sat-bac-nam-20260310204956617.htm",
+      "summary": "Cơ quan điều tra đã khởi tố vụ án sà lan đụng cầu Ghềnh ở Đồng Nai khiến tuyến đường sắt Bắc - Nam tắc nghẽn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.333135+07:00",
+      "fetched": "2026-03-10T23:46:44.333249+07:00"
+    },
+    {
+      "id": "835d43cae54ecc2fbe221b7729677fe5",
+      "title": "HLV Trần Tiến Đại tái xuất V-League",
+      "link": "https://tuoitre.vn/hlv-tran-tien-dai-tai-xuat-v-league-20260310210348894.htm",
+      "summary": "HLV Trần Tiến Đại sẽ là HLV trưởng mới của CLB PVF-CAND, nhằm giúp đội thi đấu tốt trong phần còn lại của V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.332997+07:00",
+      "fetched": "2026-03-10T23:46:44.333122+07:00"
+    },
+    {
+      "id": "b787ccfe0f797297d317509e522489ea",
+      "title": "Dự kiến 9h sáng mai 11-3, thông tuyến đường sắt Bắc - Nam qua cầu Ghềnh",
+      "link": "https://tuoitre.vn/du-kien-9h-sang-mai-11-3-thong-tuyen-duong-sat-bac-nam-qua-cau-ghenh-20260310205441551.htm",
+      "summary": "Dự kiến 9h sáng mai 11-3, các đoàn tàu trên tuyến đường sắt Bắc - Nam sẽ chạy qua cầu Ghềnh sau 5 ngày gián đoạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.332875+07:00",
+      "fetched": "2026-03-10T23:46:44.332987+07:00"
+    },
+    {
+      "id": "2ee015078cb368d9d59ecdc2171ddce0",
+      "title": "Vingroup giảm giá xe điện, Xanh SM hạ cước trước sức ép giá xăng dầu",
+      "link": "https://tuoitre.vn/vingroup-giam-gia-xe-dien-xanh-sm-ha-cuoc-truoc-suc-ep-gia-xang-dau-2026031021124268.htm",
+      "summary": "Tối 10-3, Tập đoàn Vingroup của tỉ phú Phạm Nhật Vượng công bố triển khai khẩn cấp chương trình \"Thu xăng - đổi điện\" tại 4 thị trường gồm Việt Nam, Ấn Độ, Indonesia và Philippines trước áp lực giá xăng dầu tăng mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.332751+07:00",
+      "fetched": "2026-03-10T23:46:44.332863+07:00"
+    },
+    {
+      "id": "b2031f840565d9d32f0e06592f7bce1c",
+      "title": "Ngôi sao đội mạnh nhất Thái Lan gây phẫn nộ khi đạp vào người đối thủ",
+      "link": "https://tuoitre.vn/ngoi-sao-doi-manh-nhat-thai-lan-gay-phan-no-khi-dap-vao-nguoi-doi-thu-20260310210725952.htm",
+      "summary": "Ngay cả những người hâm mộ Thái Lan cũng bày tỏ sự tức giận trước pha phạm lỗi thô bạo và lộ liễu của ngoại binh Peter Zulj, trong trận lượt về vòng 16 đội AFC Champions League Elite giữa Buriram và Melbourne.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.332626+07:00",
+      "fetched": "2026-03-10T23:46:44.332740+07:00"
+    },
+    {
+      "id": "6a0b42a30a6c55e2b0f55e53c085fae2",
+      "title": "Phường Tân Sơn Hòa, TP.HCM ra mắt đội hình đồng hành cử tri đi bầu cử",
+      "link": "https://tuoitre.vn/phuong-tan-son-hoa-tp-hcm-ra-mat-doi-hinh-dong-hanh-cu-tri-di-bau-cu-20260310204200426.htm",
+      "summary": "Hoạt động nhằm lan tỏa ý nghĩa của ngày hội bầu cử 15-3, nơi mỗi lá phiếu thể hiện quyền làm chủ, trách nhiệm công dân và niềm tin của nhân dân vào sự phát triển của địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.332500+07:00",
+      "fetched": "2026-03-10T23:46:44.332615+07:00"
+    },
+    {
+      "id": "5be8b890f6db633a7b108bf63a9877cb",
+      "title": "Tài xế ô tô 'độ' đèn hai bên thân xe gây chói mắt ở phường Bảy Hiền bị lập biên bản",
+      "link": "https://tuoitre.vn/tai-xe-o-to-do-den-hai-ben-than-xe-gay-choi-mat-o-phuong-bay-hien-bi-lap-bien-ban-20260310211830638.htm",
+      "summary": "Ngày 10-3, đại diện Phòng Cảnh sát giao thông Công an TP.HCM cho biết trước đó Đội cảnh sát giao thông Tân Sơn Nhất đã xử lý trường hợp tài xế ô tô gắn hai đèn sáng gây chói mắt người đi đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.332361+07:00",
+      "fetched": "2026-03-10T23:46:44.332488+07:00"
+    },
+    {
+      "id": "5793e25d8de205a5d6c2a47532decd02",
+      "title": "Nhổ tóc bạc cho 'đỡ ngứa mắt', coi chừng tóc không mọc lại",
+      "link": "https://tuoitre.vn/nho-toc-bac-cho-do-ngua-mat-coi-chung-toc-khong-moc-lai-2026031021290687.htm",
+      "summary": "Thói quen nhổ tóc tưởng vô hại nhưng có thể làm tổn thương nang tóc, khiến tóc mỏng dần hoặc không mọc lại. Chuyên gia da liễu Ireland cảnh báo nhiều người đang hiểu sai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.332226+07:00",
+      "fetched": "2026-03-10T23:46:44.332349+07:00"
+    },
+    {
+      "id": "1c4e42397c374f5ed2fb6df3355b77ca",
+      "title": "Miss World Vietnam tổ chức hai cuộc thi trong năm 2026?",
+      "link": "https://tuoitre.vn/miss-world-vietnam-to-chuc-hai-cuoc-thi-trong-nam-2026-20260310214101211.htm",
+      "summary": "Ban tổ chức Miss World Vietnam xác nhận chung kết Miss World Vietnam 2025 diễn ra cuối tháng 3, còn chung kết Miss World Vietnam 2026 cũng diễn ra trong năm nay, vào cuối năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.332063+07:00",
+      "fetched": "2026-03-10T23:46:44.332213+07:00"
+    },
+    {
+      "id": "649db9f080824cb96131c747c4838ec2",
+      "title": "Đăng clip chiến sự Trung Đông sai sự thật, hơn 300 người bị bắt ở Qatar",
+      "link": "https://tuoitre.vn/dang-clip-chien-su-trung-dong-sai-su-that-hon-300-nguoi-bi-bat-o-qatar-20260310214615193.htm",
+      "summary": "Qatar bắt giữ 313 người vì quay phim, phát tán video và lan truyền thông tin bị cho là sai lệch về chiến sự Trung Đông. Tại Bahrain, Kuwait, nhiều người cũng bị bắt với cùng lý do.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.331923+07:00",
+      "fetched": "2026-03-10T23:46:44.332051+07:00"
+    },
+    {
+      "id": "223e8d7cce168cb6815f683b1d25165f",
+      "title": "Về Hồ Tràm không chỉ xem MMA, còn có concert",
+      "link": "https://tuoitre.vn/ve-ho-tram-khong-chi-xem-mma-con-co-concert-2026031022403889.htm",
+      "summary": "Khi đến Hồ Tràm du lịch trong năm 2026, khách du lịch không chỉ xem MMA, Kickboxing mà còn thêm lựa chọn là những buổi concert, hòa nhạc trong dịp cuối tuần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T23:46:44.331691+07:00",
+      "fetched": "2026-03-10T23:46:44.331908+07:00"
+    },
     {
       "id": "4b6566ee9e96244bd88027db5e9b33e5",
       "title": "Những lỗi khách Việt hay mắc phải khi xin visa",
@@ -453,6 +603,16 @@ window.newsData_2026_03_10 = {
       "fetched": "2026-03-10T17:29:58.213552+07:00"
     },
     {
+      "id": "7f709596e92ac690e7ca07eb48e88654",
+      "title": "Ông Trump bị chỉ trích vì đội mũ trong lễ đón thi hài lính Mỹ",
+      "link": "https://vnexpress.net/ong-trump-bi-chi-trich-vi-doi-mu-trong-le-don-thi-hai-linh-my-5048802.html",
+      "summary": "Ông Trump bị chỉ trích thiếu tôn trọng khi đội mũ lưỡi trai màu trắng trong lúc chào linh cữu lính Mỹ tử trận trong xung đột với Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-10T16:25:14+07:00",
+      "fetched": "2026-03-10T23:46:46.348259+07:00"
+    },
+    {
       "id": "9b3cd6c86f58b6a4ae17ed0e88c7d512",
       "title": "Sốc phản vệ sau khi ăn ốc, thai phụ 39 tuần phải mổ khẩn cấp để cứu con",
       "link": "https://tuoitre.vn/soc-phan-ve-sau-khi-an-oc-thai-phu-39-tuan-phai-mo-khan-cap-de-cuu-con-20260310134714014.htm",
@@ -601,6 +761,96 @@ window.newsData_2026_03_10 = {
       "category": "Tổng hợp",
       "published": "2026-03-10T15:30:20.513380+07:00",
       "fetched": "2026-03-10T15:30:20.513624+07:00"
+    },
+    {
+      "id": "b02cc788153750f9e1d2db1071e19f42",
+      "title": "5 công thức phối đồ xuân hè được tìm kiếm nhiều nhất",
+      "link": "https://thanhnien.vn/thoi-trang-tre/5-cong-thuc-phoi-do-xuan-he-duoc-tim-kiem-nhieu-nhat-185260310080934893.htm",
+      "summary": "Capsule wardrobe - tủ đồ tinh gọn gồm những món cơ bản có thể phối đồ linh hoạt đang có lượng tìm kiếm 'khủng' trong thời gian gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T15:30:00+07:00",
+      "fetched": "2026-03-10T23:46:43.177798+07:00"
+    },
+    {
+      "id": "8ecf6235cac72005651518e11bdfcb8f",
+      "title": "Billiards: Cơ thủ Việt Nam tung sê-ri, thắng ngược ngoạn mục cựu vô địch thế giới",
+      "link": "https://thanhnien.vn/billiards-co-thu-viet-nam-tung-se-ri-thang-nguoc-ngoan-muc-cuu-vo-dich-the-gioi-185260310222349052.htm",
+      "summary": "Tối 10.3, cơ thủ Việt Nam Nguyễn Huỳnh Phương Linh tiếp tục thể hiện sự tự tin tại giải billiards PBA World Championship 2026, khi lội ngược dòng đánh bại cựu vô địch thế giới Choi Sung-won trong trận đấu nghẹt thở kéo dài 5 ván.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T15:25:00+07:00",
+      "fetched": "2026-03-10T23:46:43.177966+07:00"
+    },
+    {
+      "id": "5b15675f0d6f60a90d8608b4728d6fc3",
+      "title": "Khoảnh khắc tiêm kích 'đuổi bắt' UAV trên bãi biển Dubai",
+      "link": "https://vnexpress.net/khoanh-khac-tiem-kich-duoi-bat-uav-tren-bai-bien-dubai-5048843.html",
+      "summary": "Video cho thấy một tiêm kích phóng tên lửa nhằm vào UAV trên bãi biển ở Dubai, trong khi nhiều người đang người vui chơi phía dưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T15:02:23+07:00",
+      "fetched": "2026-03-10T23:46:39.649882+07:00"
+    },
+    {
+      "id": "5b15675f0d6f60a90d8608b4728d6fc3",
+      "title": "Khoảnh khắc tiêm kích 'đuổi bắt' UAV trên bãi biển Dubai",
+      "link": "https://vnexpress.net/khoanh-khac-tiem-kich-duoi-bat-uav-tren-bai-bien-dubai-5048843.html",
+      "summary": "Video cho thấy một tiêm kích phóng tên lửa nhằm vào UAV trên bãi biển ở Dubai, trong khi nhiều người đang người vui chơi phía dưới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-10T15:02:23+07:00",
+      "fetched": "2026-03-10T23:46:46.348433+07:00"
+    },
+    {
+      "id": "dab91fbe61d4dce57370bdbfff863841",
+      "title": "4 trường hợp phải thông báo địa điểm kinh doanh với cơ quan thuế",
+      "link": "https://vnexpress.net/4-truong-hop-phai-thong-bao-dia-diem-kinh-doanh-voi-co-quan-thue-5048233.html",
+      "summary": "Từ ngày 5/3, hộ và cá nhân kinh doanh phải thông báo với cơ quan thuế khi mở mới, thay đổi hoặc chấm dứt địa điểm kinh doanh, theo Thông tư 18/2026/TT-BTC.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T15:00:00+07:00",
+      "fetched": "2026-03-10T23:46:39.650067+07:00"
+    },
+    {
+      "id": "f85e468697e95d0d1a1a940e38fc6216",
+      "title": "Thủ tướng: Không để các dự án trọng điểm, công trình phục vụ APEC thiếu năng lượng",
+      "link": "https://thanhnien.vn/thu-tuong-khong-de-cac-du-an-trong-diem-cong-trinh-phuc-vu-apec-thieu-nang-luong-185260310215906671.htm",
+      "summary": "Chủ trì cuộc họp với Tổ công tác bảo đảm an ninh năng lượng chiều nay (10.3), Thủ tướng Phạm Minh Chính nhấn mạnh mục tiêu đặt ra là dứt khoát không để thiếu năng lượng trong bất kỳ hoàn cảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T15:00:00+07:00",
+      "fetched": "2026-03-10T23:46:43.178141+07:00"
+    },
+    {
+      "id": "81bce8322b62db543131e395129c0c60",
+      "title": "Thủ đoạn 'vây người' giật dây chuyền ở khu du lịch",
+      "link": "https://vnexpress.net/thu-doan-vay-nguoi-giat-day-chuyen-o-khu-du-lich-5048914.html",
+      "summary": "Một nhóm người bị nghi dàn cảnh hỗn loạn, vây quanh du khách để giật dây chuyền tại khu du lịch Liên Hoa Bảo Tháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T14:52:47+07:00",
+      "fetched": "2026-03-10T23:46:39.650274+07:00"
+    },
+    {
+      "id": "863185f54bd5bee95c95dff52666787e",
+      "title": "Mỹ dùng bom xuyên phá 900 kg tấn công bệ phóng tên lửa dưới lòng đất Iran",
+      "link": "https://vnexpress.net/my-dung-bom-xuyen-pha-900-kg-tan-cong-be-phong-ten-lua-duoi-long-dat-iran-5048895.html",
+      "summary": "Lầu Năm Góc cho biết máy bay ném bom Mỹ đã sử dụng bom xuyên phá để tấn công các bệ phóng tên lửa được chôn dưới lòng đất ở Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T14:42:25+07:00",
+      "fetched": "2026-03-10T23:46:39.650435+07:00"
+    },
+    {
+      "id": "863185f54bd5bee95c95dff52666787e",
+      "title": "Mỹ dùng bom xuyên phá 900 kg tấn công bệ phóng tên lửa dưới lòng đất Iran",
+      "link": "https://vnexpress.net/my-dung-bom-xuyen-pha-900-kg-tan-cong-be-phong-ten-lua-duoi-long-dat-iran-5048895.html",
+      "summary": "Lầu Năm Góc cho biết máy bay ném bom Mỹ đã sử dụng bom xuyên phá để tấn công các bệ phóng tên lửa được chôn dưới lòng đất ở Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-10T14:42:25+07:00",
+      "fetched": "2026-03-10T23:46:46.348593+07:00"
     },
     {
       "id": "bef102e491e6c037b53c14211f662305",
