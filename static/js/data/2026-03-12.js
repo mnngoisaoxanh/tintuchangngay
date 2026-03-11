@@ -1,6 +1,6 @@
 window.newsData_2026_03_12 = {
   "date": "2026-03-12",
-  "lastUpdated": "2026-03-12T01:41:29.205143+07:00",
+  "lastUpdated": "2026-03-12T03:24:26.131545+07:00",
   "articles": [
     {
       "id": "18e53b819ea9ae03d4ac3e1adc81f045",
@@ -151,6 +151,66 @@ window.newsData_2026_03_12 = {
       "category": "Tổng hợp",
       "published": "2026-03-12T01:41:23.003440+07:00",
       "fetched": "2026-03-12T01:41:23.003682+07:00"
+    },
+    {
+      "id": "1c54fe19476ab4c985bab478caf00ba6",
+      "title": "Bác sĩ tiết lộ cách ăn giúp hạ cholesterol 'xấu' không dùng thuốc",
+      "link": "https://vnexpress.net/bac-si-tiet-lo-cach-an-giup-ha-cholesterol-xau-khong-dung-thuoc-5049007.html",
+      "summary": "Ăn yến mạch mỗi ngày và kiểm soát chặt chẽ carbohydrate tinh chế giúp hạ cholesterol không cần dùng thuốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T20:00:00+07:00",
+      "fetched": "2026-03-12T03:24:12.795670+07:00"
+    },
+    {
+      "id": "310276dcd91ec6c73ec4eb62e20bf6f1",
+      "title": "Người mẹ kề vai sát cánh 'Công chúa tuyết' Eileen Gu",
+      "link": "https://vnexpress.net/nguoi-me-ke-vai-sat-canh-cong-chua-tuyet-eileen-gu-5048513.html",
+      "summary": "Thành công của Eileen Gu trên đường trượt gắn chặt với ảnh hưởng của mẹ Yan Gu - người phụ nữ đã nuôi dưỡng, định hướng và sát cánh cùng cô suốt hành trình trưởng thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T19:44:43+07:00",
+      "fetched": "2026-03-12T03:24:12.795866+07:00"
+    },
+    {
+      "id": "cabd80f33e1c4016d185902149e04fc4",
+      "title": "Ai thay HLV Mai Đức Chung ở đội tuyển nữ Việt Nam?",
+      "link": "https://thanhnien.vn/ai-thay-hlv-mai-duc-chung-o-doi-tuyen-nu-viet-nam-185260311223314989.htm",
+      "summary": "Đội tuyển nữ VN sẽ sớm công bố tân HLV trưởng, sau khi ông Mai Đức Chung tuyên bố rút lui.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T19:44:00+07:00",
+      "fetched": "2026-03-12T03:24:16.083383+07:00"
+    },
+    {
+      "id": "c9bb9c28bea7334394e2711f5a36bf04",
+      "title": "Suất tứ kết đầu tiên đã có chủ",
+      "link": "https://thanhnien.vn/suat-tu-ket-dau-tien-da-co-chu-185260311224531544.htm",
+      "summary": "Lượt trận thứ hai bảng B, vòng chung kết giải bóng đá Thanh Niên sinh viên VN lần IV - 2026 cúp THACO (TNSV THACO cup 2026) diễn ra hôm qua 11.3 trên sân Trường ĐH Nha Trang với những diễn biến bất ngờ, hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T19:43:00+07:00",
+      "fetched": "2026-03-12T03:24:16.083551+07:00"
+    },
+    {
+      "id": "3b395c344d08ebd4847ceb966e5ac1c8",
+      "title": "Danh sách sơ bộ đặc biệt của đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/danh-sach-so-bo-dac-biet-cua-doi-tuyen-viet-nam-185260311223849523.htm",
+      "summary": "HLV Kim Sang-sik đã đưa ra những thông điệp đặc biệt bên trong bản danh sách sơ bộ 30 cái tên của đội tuyển VN chuẩn bị cho kỳ FIFA Days tháng 3 này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T19:42:00+07:00",
+      "fetched": "2026-03-12T03:24:16.083708+07:00"
+    },
+    {
+      "id": "02601ad7450f4a1b9b7bd2d393c0dde7",
+      "title": "Lịch thi đấu billiards hấp dẫn hôm nay: 3 cơ thủ Việt Nam tranh vé tứ kết",
+      "link": "https://thanhnien.vn/lich-thi-dau-billiards-hap-dan-hom-nay-3-co-thu-viet-nam-tranh-ve-tu-ket-185260312020419023.htm",
+      "summary": "Sau những màn tranh tài kịch tính tại vòng bảng, giải billiards carom 3 băng PBA World Championship 2026 đã xác định được 16 gương mặt xuất sắc nhất bước vào vòng knock-out. Trong đó, Việt Nam đóng góp 3 đại diện ưu tú là Mã Minh Cẩm, Ngô Đình Nại và Nguyễn Huỳnh Phương Linh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T19:41:00+07:00",
+      "fetched": "2026-03-12T03:24:16.083887+07:00"
     },
     {
       "id": "71c91d082f42010de96412e41ef9d453",
