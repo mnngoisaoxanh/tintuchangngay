@@ -1,7 +1,147 @@
 window.newsData_2026_03_11 = {
   "date": "2026-03-11",
-  "lastUpdated": "2026-03-11T21:39:55.531479+07:00",
+  "lastUpdated": "2026-03-11T23:40:41.839049+07:00",
   "articles": [
+    {
+      "id": "d51cbc1b3952c3e88f3319b675b6f1e8",
+      "title": "Bộ trưởng Thể thao Iran thông báo đội nhà không dự World Cup 2026",
+      "link": "https://tuoitre.vn/bo-truong-the-thao-iran-thong-bao-doi-nha-khong-du-world-cup-2026-20260311192115669.htm",
+      "summary": "Chỉ vài giờ đồng hồ sau khi FIFA và Tổng thống Mỹ Donald Trump tuyên bố 'hoan nghênh Iran dự World Cup 2026', phía chính phủ quốc gia Tây Á này đã đưa ra một thông báo quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T23:40:34.667619+07:00",
+      "fetched": "2026-03-11T23:40:34.667732+07:00"
+    },
+    {
+      "id": "f04c27cf8d22f423bbcbae3c92bb7f96",
+      "title": "Đà Nẵng yêu cầu gỡ vướng các công trình động lực và nghiên cứu công trình trọng điểm tại phía Nam",
+      "link": "https://tuoitre.vn/da-nang-yeu-cau-go-vuong-cac-cong-trinh-dong-luc-va-nghien-cuu-cong-trinh-trong-diem-tai-phia-nam-20260311191950836.htm",
+      "summary": "Thành ủy Đà Nẵng đề nghị nhà đầu tư chiến lược phối hợp chặt chẽ các cơ quan chức năng và địa phương trong triển khai các dự án, công trình trọng điểm, mang tính chiến lược trên địa bàn thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T23:40:34.667493+07:00",
+      "fetched": "2026-03-11T23:40:34.667608+07:00"
+    },
+    {
+      "id": "e209faa20c425f0d225f41fad10f9083",
+      "title": "Phó bí thư Thành ủy TP.HCM Đặng Minh Thông kiểm tra công tác chuẩn bị bầu cử tại khu vực Bình Dương",
+      "link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-tp-hcm-dang-minh-thong-kiem-tra-cong-tac-chuan-bi-bau-cu-tai-khu-vuc-binh-duong-20260311184027868.htm",
+      "summary": "Phó bí thư Thành ủy TP.HCM Đặng Minh Thông đánh giá cao sự chủ động của các địa phương trong việc chuẩn bị, vận hành thử nghiệm quy trình bầu cử, yêu cầu các địa phương tiếp tục rà soát kỹ lưỡng để bảo đảm cuộc bầu cử diễn ra đúng quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T23:40:34.667362+07:00",
+      "fetched": "2026-03-11T23:40:34.667481+07:00"
+    },
+    {
+      "id": "0de721091272c4a5954a20b17644f4f3",
+      "title": "Phát hiện hài cốt liệt sĩ trong hang đá ở Quảng Trị",
+      "link": "https://tuoitre.vn/phat-hien-hai-cot-liet-si-trong-hang-da-o-quang-tri-2026031118151791.htm",
+      "summary": "Lực lượng quy tập hài cốt liệt sĩ thuộc Đoàn Kinh tế - Quốc phòng 337 phát hiện 1 hài cốt liệt sĩ tại khu vực cửa hang đá núi Cỏ Chuối, xã Hướng Lập, tỉnh Quảng Trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T23:40:34.667231+07:00",
+      "fetched": "2026-03-11T23:40:34.667345+07:00"
+    },
+    {
+      "id": "18e53b819ea9ae03d4ac3e1adc81f045",
+      "title": "Phê duyệt quy hoạch Hải Phòng: hướng tới đô thị biển thông minh, 9,5 triệu dân",
+      "link": "https://tuoitre.vn/phe-duyet-quy-hoach-hai-phong-huong-toi-do-thi-bien-thong-minh-9-5-trieu-dan-20260311172219171.htm",
+      "summary": "Hải Phòng đặt mục tiêu trở thành đô thị biển hiện đại, thông minh và có sức cạnh tranh quốc tế, với quy mô dân số có thể đạt 8,5 - 9,5 triệu người vào năm 2050.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T23:40:34.667104+07:00",
+      "fetched": "2026-03-11T23:40:34.667219+07:00"
+    },
+    {
+      "id": "9b49cbd7fb12d3bb46e60a79245a0a1c",
+      "title": "Trao 15.000 con gà giống giúp người dân vùng cao xóa nghèo",
+      "link": "https://tuoitre.vn/trao-15-000-con-ga-giong-giup-nguoi-dan-vung-cao-xoa-ngheo-20260311192624378.htm",
+      "summary": "Ngày 11-3, hơn chục nghìn con gà giống, thức ăn, thuốc thú y đã được Công ty cổ phần GREENFEED Việt Nam, báo Tuổi Trẻ, chính quyền địa phương trao đến tay 60 hộ dân nghèo của xã Đồng Lương, Yên Thắng, tỉnh Thanh Hóa với mong muốn bà con thoát nghèo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T23:40:34.666954+07:00",
+      "fetched": "2026-03-11T23:40:34.667091+07:00"
+    },
+    {
+      "id": "338d04cef01a0e64ca74a4e0ecad002b",
+      "title": "Bắt thanh niên vào quán cà phê chém người",
+      "link": "https://tuoitre.vn/bat-thanh-nien-vao-quan-ca-phe-chem-nguoi-20260311201012935.htm",
+      "summary": "Mâu thuẫn cá nhân, một thanh niên mang dao vào quán cà phê ở Nghệ An chém người đàn ông, dẫn đến người này phải nhập viện cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T23:40:34.666828+07:00",
+      "fetched": "2026-03-11T23:40:34.666943+07:00"
+    },
+    {
+      "id": "68e7231754af14273b8e579295be9218",
+      "title": "Á quân Nhật Bản bại trận khi đội bóng Malaysia sử dụng 100% ngoại binh",
+      "link": "https://tuoitre.vn/a-quan-nhat-ban-bai-tran-khi-doi-bong-malaysia-su-dung-100-ngoai-binh-20260311193714462.htm",
+      "summary": "Tối 11-3 đã diễn ra giai đoạn lượt về vòng 16 đội AFC Champions League Elite. Đại diện Malaysia là Johor Darul Ta'zim (JDT) đã tạo nên \"địa chấn\" trước đại gia Sanfrecce Hiroshima của Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T23:40:34.666703+07:00",
+      "fetched": "2026-03-11T23:40:34.666817+07:00"
+    },
+    {
+      "id": "87581fd9052fba5c50572fb61b2d7ee4",
+      "title": "Tạm giữ đối tượng giết lái tàu sau khi được cho đi nhờ",
+      "link": "https://tuoitre.vn/tam-giu-doi-tuong-giet-lai-tau-sau-khi-duoc-cho-di-nho-2026031118303786.htm",
+      "summary": "Ngày 11-3, Công an tỉnh An Giang ra quyết định tạm giữ Cái Tô Gia Luật (26 tuổi, xã Tây Yên, tỉnh An Giang) về hành vi giết người xảy ra trên tàu đánh bắt hải sản thuộc vùng biển đặc khu Thổ Châu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T23:40:34.666577+07:00",
+      "fetched": "2026-03-11T23:40:34.666692+07:00"
+    },
+    {
+      "id": "4351b9ebe9b8bfe126a719426cb583cc",
+      "title": "Tổng Bí thư Tô Lâm: Phải làm cho người dân yên tâm hơn khi sử dụng thực phẩm hằng ngày",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-phai-lam-cho-nguoi-dan-yen-tam-hon-khi-su-dung-thuc-pham-hang-ngay-20260311204918087.htm",
+      "summary": "Tổng Bí thư Tô Lâm nhấn mạnh phải làm cho người dân yên tâm hơn khi sử dụng thực phẩm hằng ngày, tạo môi trường kinh doanh minh bạch thuận lợi cho các doanh nghiệp sản xuất kinh doanh thực phẩm chân chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T23:40:34.666446+07:00",
+      "fetched": "2026-03-11T23:40:34.666565+07:00"
+    },
+    {
+      "id": "21313d97d79ae023b63be4348a364524",
+      "title": "Bức Tường ra mắt 'Tháng 3' kỷ niệm 10 năm ngày mất của Trần Lập",
+      "link": "https://tuoitre.vn/buc-tuong-ra-mat-thang-3-ky-niem-10-nam-ngay-mat-cua-tran-lap-20260311203413052.htm",
+      "summary": "Ban nhạc Bức Tường vừa phát hành ca khúc và MV ‘Tháng 3’ mở đầu chuỗi hoạt động kỷ niệm 31 năm thành lập Bức Tường và 10 năm ngày mất của cố nhạc sĩ Trần Lập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T23:40:34.666303+07:00",
+      "fetched": "2026-03-11T23:40:34.666433+07:00"
+    },
+    {
+      "id": "b52ef78c5856717a9c445d2d3719f085",
+      "title": "Làng bóng chuyền Thái Lan sốc khi biết Lý Thị Luyến cao hơn hầu hết VĐV nam",
+      "link": "https://tuoitre.vn/lang-bong-chuyen-thai-lan-soc-khi-biet-ly-thi-luyen-cao-hon-hau-het-vdv-nam-20260311184214651.htm",
+      "summary": "Đông đảo người hâm mộ Thái Lan tỏ ra bất ngờ khi ngôi sao tuyển bóng chuyền nam Thái Lan Boonyarid Wongtorn chia sẻ hình ảnh chụp cùng Lý Thị Luyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T23:40:34.666166+07:00",
+      "fetched": "2026-03-11T23:40:34.666291+07:00"
+    },
+    {
+      "id": "082704bd7ea15e91832cf32897ef0aa1",
+      "title": "TP.HCM duyệt hơn 50ha ở Thủ Thiêm xây Trung tâm chính trị - hành chính mới",
+      "link": "https://tuoitre.vn/tp-hcm-duyet-hon-50ha-o-thu-thiem-xay-trung-tam-chinh-tri-hanh-chinh-moi-20260311211534033.htm",
+      "summary": "TP.HCM điều chỉnh quy hoạch hơn 50ha tại Khu đô thị mới Thủ Thiêm để triển khai Trung tâm chính trị - hành chính mới, cùng các công trình văn hóa, dịch vụ quy mô lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T23:40:34.666011+07:00",
+      "fetched": "2026-03-11T23:40:34.666152+07:00"
+    },
+    {
+      "id": "67e26a9388ce6d21b8eea266546752be",
+      "title": "Bà Nguyễn Thị Quyên Thanh làm thứ trưởng Bộ Giáo dục và Đào tạo",
+      "link": "https://tuoitre.vn/ba-nguyen-thi-quyen-thanh-lam-thu-truong-bo-giao-duc-va-dao-tao-20260311214112118.htm",
+      "summary": "Thủ tướng Chính phủ vừa ban hành Quyết định số 425/QĐ-TTg về việc tiếp nhận, bổ nhiệm bà Nguyễn Thị Quyên Thanh giữ chức Thứ trưởng Bộ Giáo dục và Đào tạo, hiệu lực từ 11-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T23:40:34.665757+07:00",
+      "fetched": "2026-03-11T23:40:34.665993+07:00"
+    },
     {
       "id": "005e0259aeeb75ac91faddfcfefc20e6",
       "title": "Cử tri mong muốn TP.HCM thúc đẩy hạ tầng giao thông kết nối Vũng Tàu, Cần Giờ",
@@ -453,6 +593,106 @@ window.newsData_2026_03_11 = {
       "fetched": "2026-03-11T17:29:45.402864+07:00"
     },
     {
+      "id": "c097432cc8bfdae9bae108e9b9425d79",
+      "title": "Tài xế lùi xe tải đang cháy xuống mương nước để dập lửa",
+      "link": "https://vnexpress.net/tai-xe-lui-xe-tai-dang-chay-xuong-muong-nuoc-de-dap-lua-5049363.html",
+      "summary": "Trên đường giao hàng tạp hóa cho khách ở phường Đông Hòa, ôtô tải bất ngờ bốc cháy dữ dội, tài xế phải lùi xe xuống mương nước để cứu phương tiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T16:11:12+07:00",
+      "fetched": "2026-03-11T23:40:30.295727+07:00"
+    },
+    {
+      "id": "7a84bb5ff790e2391071d0a394d0ebde",
+      "title": "Xu hướng 'xa xỉ' mới của du lịch: giấc ngủ, trị liệu và văn hóa",
+      "link": "https://thanhnien.vn/thoi-trang-tre/xu-huong-xa-xi-moi-cua-du-lich-giac-ngu-tri-lieu-va-van-hoa-185260310183045201.htm",
+      "summary": "Du lịch không còn chỉ là hành trình đi xa để ngắm cảnh hay chụp ảnh. Những năm gần đây, đặc biệt bước sang 2026, xu hướng nghỉ dưỡng đang chuyển mình rõ rệt: du khách tìm kiếm sự cân bằng, chữa lành và những trải nghiệm mang tính cá nhân sâu sắc hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T16:10:00+07:00",
+      "fetched": "2026-03-11T23:40:33.584525+07:00"
+    },
+    {
+      "id": "246fc4bb8f9c19fc6f9724a463c78822",
+      "title": "Lộ diện ứng viên có khả năng thế chỗ Iran ở World Cup 2026",
+      "link": "https://thanhnien.vn/lo-dien-ung-vien-co-kha-nang-the-cho-iran-o-world-cup-2026-185260311224221333.htm",
+      "summary": "Iran đã rút khỏi World Cup 2026 sau căng thẳng quân sự với Mỹ và Israel. Theo quy định của FIFA, đội tuyển này có thể đối mặt khoản tiền phạt lớn, đồng thời nguy cơ bị cấm dự các giải đấu trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:49:00+07:00",
+      "fetched": "2026-03-11T23:40:33.584696+07:00"
+    },
+    {
+      "id": "8be9b00029fd772c1a59e6733f8a2a89",
+      "title": "Giá xăng dầu đồng loạt giảm mạnh, có loại giảm gần 8.000 đồng/lít",
+      "link": "https://thanhnien.vn/gia-xang-dau-dong-loat-giam-manh-co-loai-giam-gan-8000-dong-lit-185260311224110634.htm",
+      "summary": "Giá xăng dầu đồng loạt mạnh từ 22 giờ hôm nay 11.3, trong đó dầu hỏa giảm gần 8.000 đồng/lít.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:49:00+07:00",
+      "fetched": "2026-03-11T23:40:33.584855+07:00"
+    },
+    {
+      "id": "fdef0fb63a10869905d6b0b657649ab6",
+      "title": "‘Không để tồn tại các điểm nghẽn, rào cản pháp lý cho phát triển kinh tế tư nhân’",
+      "link": "https://thanhnien.vn/khong-de-ton-tai-cac-diem-nghen-rao-can-phap-ly-cho-phat-trien-kinh-te-tu-nhan-185260311221116573.htm",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu, những bất cập, hạn chế hoặc những vấn đề phát sinh trong thực tiễn phát triển kinh tế tư nhân phải được từng cấp giải quyết hoặc đề xuất cấp có thẩm quyền kịp thời giải quyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:43:00+07:00",
+      "fetched": "2026-03-11T23:40:33.585037+07:00"
+    },
+    {
+      "id": "6ab59320e2960fc0d61c8fceafb857b6",
+      "title": "Ông Trump: Hầu như không còn gì để nhắm mục tiêu ở Iran",
+      "link": "https://vnexpress.net/ong-trump-hau-nhu-khong-con-gi-de-nham-muc-tieu-o-iran-5049355.html",
+      "summary": "Ông Trump tiếp tục phát tín hiệu về khả năng sớm kết thúc chiến dịch nhằm vào Iran, tuyên bố Mỹ đã gây nhiều thiệt hại cho đối phương hơn dự kiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:40:06+07:00",
+      "fetched": "2026-03-11T23:40:30.295912+07:00"
+    },
+    {
+      "id": "6ab59320e2960fc0d61c8fceafb857b6",
+      "title": "Ông Trump: Hầu như không còn gì để nhắm mục tiêu ở Iran",
+      "link": "https://vnexpress.net/ong-trump-hau-nhu-khong-con-gi-de-nham-muc-tieu-o-iran-5049355.html",
+      "summary": "Ông Trump tiếp tục phát tín hiệu về khả năng sớm kết thúc chiến dịch nhằm vào Iran, tuyên bố Mỹ đã gây nhiều thiệt hại cho đối phương hơn dự kiến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-11T15:40:06+07:00",
+      "fetched": "2026-03-11T23:40:36.665718+07:00"
+    },
+    {
+      "id": "c789a688b61420a3739641aed490398c",
+      "title": "Trường ĐH Công nghệ Đồng Nai giành vé tứ kết đầu tiên, HLV nói về bước ngoặt thẻ đỏ",
+      "link": "https://thanhnien.vn/truong-dh-cong-nghe-dong-nai-gianh-ve-tu-ket-dau-tien-hlv-noi-ve-buoc-ngoat-the-do-185260311223310839.htm",
+      "summary": "Thắng kịch tính 1-0 trước Trường ĐH Đồng Tháp, Trường ĐH Công nghệ Đồng Nai chính thức trở thành đội bóng đầu tiên ghi danh vào tứ kết TNSV THACO Cup 2026. Chia sẻ sau trận, HLV Lê Hữu Phát khẳng định tấm thẻ đỏ ở phút 27 là bước ngoặt định mệnh giúp đội nhà hóa giải áp lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:38:00+07:00",
+      "fetched": "2026-03-11T23:40:33.585208+07:00"
+    },
+    {
+      "id": "f0c945fdf0736ae8cd7ddfc4553819f8",
+      "title": "Biểu tình tại Anh nhắm vào Vua Charles III, Hoàng tử William và Công nương Kate Middleton",
+      "link": "https://thanhnien.vn/bieu-tinh-tai-anh-nham-vao-vua-charles-iii-hoang-tu-william-va-cong-nuong-kate-middleton-185260311162247359.htm",
+      "summary": "Những người biểu tình đã trực tiếp thể hiện sự phản đối đối với Vua Charles III, Hoàng tử William và Công nương Kate Middleton trong Ngày Khối Thịnh vượng chung (Commonwealth Day) tại London (Anh) vì liên quan đến bê bối của cựu Hoàng tử Andrew.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:38:00+07:00",
+      "fetched": "2026-03-11T23:40:33.585363+07:00"
+    },
+    {
+      "id": "e4b0ab78527166de1314bc5e30e3d9a4",
+      "title": "Sửa quy chế thi tốt nghiệp THPT",
+      "link": "https://thanhnien.vn/sua-quy-che-thi-tot-nghiep-thpt-185260311212122549.htm",
+      "summary": "Bộ GD-ĐT  vừa ban hành Thông tư về việc sửa đổi, bổ sung một số điều của Quy chế thi tốt nghiệp THPT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:31:00+07:00",
+      "fetched": "2026-03-11T23:40:33.585521+07:00"
+    },
+    {
       "id": "5603939f173bfbefc1a88dfa0ac4ea31",
       "title": "Giá xăng dầu leo cao, doanh nghiệp chuyển phát 'triệu đơn mỗi ngày' phụ phí 10%",
       "link": "https://tuoitre.vn/gia-xang-dau-leo-cao-doanh-nghiep-chuyen-phat-trieu-don-moi-ngay-phu-phi-10-20260311140923841.htm",
@@ -603,6 +843,126 @@ window.newsData_2026_03_11 = {
       "fetched": "2026-03-11T15:30:00.004045+07:00"
     },
     {
+      "id": "744904194ed7873c2130f742fa822712",
+      "title": "Mẹ của Michael Jackson vẫn khỏe mạnh, minh mẫn trong lần xuất hiện hiếm hoi",
+      "link": "https://thanhnien.vn/me-cua-michael-jackson-van-khoe-manh-minh-man-trong-lan-xuat-hien-hiem-hoi-185260311171118551.htm",
+      "summary": "Bà Katherine Jackson, mẹ của 'ông hoàng nhạc pop' Michael Jackson, vừa có lần xuất hiện hiếm hoi trước công chúng bên cạnh con gái La Toya Jackson. Khoảnh khắc này nhanh chóng thu hút sự quan tâm của người hâm mộ khi bà sắp bước sang tuổi 96, tờ E! News đưa tin hôm 11.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:27:00+07:00",
+      "fetched": "2026-03-11T23:40:33.585673+07:00"
+    },
+    {
+      "id": "da4f9c0baa2a6ee85740b4f36770d2c4",
+      "title": "Diễn viên Hồ Quang Mẫn và hành trình làm bố đơn thân đầy ấm áp",
+      "link": "https://thanhnien.vn/dien-vien-ho-quang-man-va-hanh-trinh-lam-bo-don-than-day-am-ap-185260311203722135.htm",
+      "summary": "Đầu năm 2026, diễn viên Hồ Quang Mẫn cùng con gái Hồ Bảo Châu sang Nhật Bản du lịch. Chuyến đi không chỉ đơn thuần là kỳ nghỉ mà còn là dịp để hai cha con cùng trải nghiệm, khám phá và lưu giữ những kỷ niệm riêng sau một năm làm việc bận rộn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:23:00+07:00",
+      "fetched": "2026-03-11T23:40:33.585822+07:00"
+    },
+    {
+      "id": "39d2b8f78cdf010a6539af33c2896a9a",
+      "title": "Chiết khấu bán lẻ xăng dầu vọt lên trên 1.000 đồng/lít",
+      "link": "https://thanhnien.vn/chiet-khau-ban-le-xang-dau-vot-len-tren-1000-dong-lit-185260311110343356.htm",
+      "summary": "Sáng 11.3, thông tin từ nhiều doanh nghiệp bán lẻ xăng dầu, nguồn từ các kho bất ngờ dồi dào, chiết khấu thông báo tăng trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:22:00+07:00",
+      "fetched": "2026-03-11T23:40:33.585994+07:00"
+    },
+    {
+      "id": "72674cc6dba0ff966e0d1f05ad1ee015",
+      "title": "Quy định tách thửa đất làm sao không để tổ chức, cá nhân trục lợi",
+      "link": "https://thanhnien.vn/quy-dinh-tach-thua-dat-lam-sao-khong-de-to-chuc-ca-nhan-truc-loi-185260311153618392.htm",
+      "summary": "Đó là ý kiến chỉ đạo của ông Bùi Minh Thạnh, Phó chủ tịch UBND TP.HCM tại cuộc họp với các sở ngành về dự thảo Quy định điều kiện tách thửa đất, điều kiện hợp thửa đất và diện tích tối thiểu được tách thửa trên địa bàn TP.HCM, ngày 11.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:21:00+07:00",
+      "fetched": "2026-03-11T23:40:33.586153+07:00"
+    },
+    {
+      "id": "c31dbf09e869723fdf51cf9f8f3d3cc3",
+      "title": "Du khách hồi hộp ngắm cảnh biển TP.HCM từ trực thăng",
+      "link": "https://thanhnien.vn/du-khach-hoi-hop-ngam-canh-bien-tphcm-tu-truc-thang-185260311145547614.htm",
+      "summary": "Tour bay trực thăng ngắm cảnh TP.HCM và vùng ven biển đang được các doanh nghiệp du lịch phối hợp triển khai, mang đến trải nghiệm mới lạ cho du khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:21:00+07:00",
+      "fetched": "2026-03-11T23:40:33.586300+07:00"
+    },
+    {
+      "id": "93f194c30a9aa427b88e37cc92ae4a47",
+      "title": "Tài xế xe công nghệ được hỗ trợ phí nhiên liệu",
+      "link": "https://thanhnien.vn/tai-xe-xe-cong-nghe-duoc-ho-tro-phi-nhien-lieu-185260311154001921.htm",
+      "summary": "Trong bối cảnh giá xăng dầu tăng mạnh, nhiều nền tảng gọi xe tại Việt Nam bắt đầu triển khai các chương trình hỗ trợ chi phí nhiên liệu nhằm giảm áp lực vận hành cho đội ngũ tài xế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:20:00+07:00",
+      "fetched": "2026-03-11T23:40:33.586447+07:00"
+    },
+    {
+      "id": "0594547fca80838de59f5e1150741c96",
+      "title": "Gia Lai 'hỏa tốc' đề nghị tăng chuyến bay phục vụ Năm Du lịch quốc gia 2026",
+      "link": "https://thanhnien.vn/gia-lai-hoa-toc-de-nghi-tang-chuyen-bay-phuc-vu-nam-du-lich-quoc-gia-2026-185260311165945.htm",
+      "summary": "Dự kiến đón hơn 50.000 lượt khách dự lễ khai mạc Năm Du lịch quốc gia 2026 tại Quy Nhơn, UBND tỉnh Gia Lai đề nghị các hãng hàng không tăng cường chuyến bay đến Phù Cát và Pleiku.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:18:00+07:00",
+      "fetched": "2026-03-11T23:40:33.586593+07:00"
+    },
+    {
+      "id": "773bacc1221ec7e34075b11f57aff4c0",
+      "title": "Iran rút khỏi World Cup 2026, đội tuyển nào sẽ được thế chỗ?",
+      "link": "https://thanhnien.vn/iran-rut-khoi-world-cup-2026-doi-tuyen-nao-se-duoc-the-cho-18526031122141756.htm",
+      "summary": "Sau khi Iran rút khỏi World Cup 2026, FIFA sẽ phải tìm một đội tuyển khác thuộc Liên đoàn Bóng đá châu Á (AFC) để thay thế. Iraq và UAE đang được xem là những ứng viên có khả năng thế chỗ suất dự giải này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T15:17:00+07:00",
+      "fetched": "2026-03-11T23:40:33.586758+07:00"
+    },
+    {
+      "id": "6cd5e33e7eea0dc365599f524975ddb7",
+      "title": "Giá xăng giảm gần 4.000 đồng một lít",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-11-3-5049264.html",
+      "summary": "Từ 22h hôm nay, giá xăng RON95-III giảm xuống 25.240 đồng, dầu diesel hạ 4.240 đồng ở mức 26.470 đồng một lít.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T14:59:41+07:00",
+      "fetched": "2026-03-11T23:40:30.296160+07:00"
+    },
+    {
+      "id": "6cd5e33e7eea0dc365599f524975ddb7",
+      "title": "Giá xăng giảm gần 4.000 đồng một lít",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-11-3-5049264.html",
+      "summary": "Từ 22h hôm nay, giá xăng RON95-III giảm xuống 25.240 đồng, dầu diesel hạ 4.240 đồng ở mức 26.470 đồng một lít.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-11T14:59:41+07:00",
+      "fetched": "2026-03-11T23:40:38.173900+07:00"
+    },
+    {
+      "id": "840ca694014eea7e4a1542887fbcadb2",
+      "title": "Các nước IEA sẽ xả 400 triệu thùng dầu dự trữ",
+      "link": "https://vnexpress.net/cac-nuoc-iea-se-xa-400-trieu-thung-dau-du-tru-5049356.html",
+      "summary": "Để hạ nhiệt giá dầu thế giới, các nước thuộc Cơ quan Năng lượng Quốc tế (IEA) sẽ giải phóng lượng dầu thô kỷ lục từ kho dự trữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T14:44:29+07:00",
+      "fetched": "2026-03-11T23:40:30.296334+07:00"
+    },
+    {
+      "id": "840ca694014eea7e4a1542887fbcadb2",
+      "title": "Các nước IEA sẽ xả 400 triệu thùng dầu dự trữ",
+      "link": "https://vnexpress.net/cac-nuoc-iea-se-xa-400-trieu-thung-dau-du-tru-5049356.html",
+      "summary": "Để hạ nhiệt giá dầu thế giới, các nước thuộc Cơ quan Năng lượng Quốc tế (IEA) sẽ giải phóng lượng dầu thô kỷ lục từ kho dự trữ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-11T14:44:29+07:00",
+      "fetched": "2026-03-11T23:40:38.174103+07:00"
+    },
+    {
       "id": "631a2376d5ec249809e575a881cdf3b4",
       "title": "Israel nói chiến dịch nhằm vào Iran sẽ không giới hạn thời gian",
       "link": "https://vnexpress.net/israel-noi-chien-dich-nham-vao-iran-se-khong-gioi-han-thoi-gian-5049337.html",
@@ -671,6 +1031,16 @@ window.newsData_2026_03_11 = {
       "category": "Tổng hợp",
       "published": "2026-03-11T14:11:26+07:00",
       "fetched": "2026-03-11T21:39:46.014114+07:00"
+    },
+    {
+      "id": "f48d946da2921bd067c4f94ef9f1fcd1",
+      "title": "Cứu sống cô gái nhảy cầu sông Hương",
+      "link": "https://vnexpress.net/cuu-song-co-gai-nhay-cau-song-huong-5049344.html",
+      "summary": "Cô gái 31 tuổi ở phường Thuận Hóa gieo mình xuống sông Hương từ cầu Trường Tiền, được cảnh sát kịp thời cứu sống, ngày 11/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T14:11:26+07:00",
+      "fetched": "2026-03-11T23:40:30.297148+07:00"
     },
     {
       "id": "43066cdaf0d04d74f63a0b7b177a530a",
@@ -1141,6 +1511,16 @@ window.newsData_2026_03_11 = {
       "category": "Công nghệ",
       "published": "2026-03-11T12:21:31+07:00",
       "fetched": "2026-03-11T19:37:12.302662+07:00"
+    },
+    {
+      "id": "4d8eacbd042441e85032e3b8dc70a33b",
+      "title": "Người Việt có thể 'ship hàng' tới 220 quốc gia, vùng lãnh thổ",
+      "link": "https://vnexpress.net/nguoi-viet-co-the-ship-hang-toi-220-quoc-gia-vung-lanh-tho-5049297.html",
+      "summary": "Hợp tác giữa Bưu điện Việt Nam (Vietnam Post) và DHL Express giúp hàng hóa Việt Nam tiếp cận 220 quốc gia, vùng lãnh thổ trên thế giới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-11T12:21:31+07:00",
+      "fetched": "2026-03-11T23:40:40.834458+07:00"
     },
     {
       "id": "b60fa2743a7c6c5eddf242e9e7be8e0a",
