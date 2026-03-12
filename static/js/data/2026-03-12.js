@@ -1,7 +1,107 @@
 window.newsData_2026_03_12 = {
   "date": "2026-03-12",
-  "lastUpdated": "2026-03-12T21:41:48.882922+07:00",
+  "lastUpdated": "2026-03-12T23:50:38.261571+07:00",
   "articles": [
+    {
+      "id": "e7476c16a75ec17dae14f214bdccbd7d",
+      "title": "Hộ kinh doanh lo truy thu thuế: Cục Thuế lên tiếng",
+      "link": "https://tuoitre.vn/ho-kinh-doanh-lo-truy-thu-thue-cuc-thue-len-tieng-20260312193739596.htm",
+      "summary": "Lo ngại bị truy thu khi kê khai doanh thu thật, nhiều hộ kinh doanh đặt câu hỏi với ngành thuế. Cục Thuế khẳng định doanh thu năm 2026 không được dùng làm căn cứ truy thu thuế khoán năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T23:50:31.394267+07:00",
+      "fetched": "2026-03-12T23:50:31.394378+07:00"
+    },
+    {
+      "id": "b545d202f3ca9d9bb718a80e7ee2254f",
+      "title": "Hài cốt liệt sĩ trong hang đá với bộ cờ tướng sáng trắng",
+      "link": "https://tuoitre.vn/hai-cot-liet-si-trong-hang-da-voi-bo-co-tuong-sang-trang-20260312201349404.htm",
+      "summary": "Đội quy tập hài cốt liệt sĩ Đoàn kinh tế - quốc phòng 337 phát hiện một hài cốt liệt sĩ trong hang đá thuộc núi Cô Loong, với nhiều di vật như các quân cờ tướng sáng trắng, đồng xu, nút áo…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T23:50:31.394142+07:00",
+      "fetched": "2026-03-12T23:50:31.394255+07:00"
+    },
+    {
+      "id": "fd306d12bd5c4c35f8f3c56591294902",
+      "title": "Báo Trung Quốc tiết lộ 'hành trình bí ẩn' đưa Lại Lý Huynh lên hàng cao thủ cờ tướng",
+      "link": "https://tuoitre.vn/bao-trung-quoc-tiet-lo-hanh-trinh-bi-an-dua-lai-ly-huynh-len-hang-cao-thu-co-tuong-20260312194542511.htm",
+      "summary": "Dù là một kỳ thủ Việt Nam, Lại Lý Huynh lại có mức độ am hiểu rất sâu về văn hóa Trung Quốc, thông qua những lần được mời sang khoác áo các đội cờ tướng hàng đầu của đại lục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T23:50:31.393999+07:00",
+      "fetched": "2026-03-12T23:50:31.394129+07:00"
+    },
+    {
+      "id": "ba5b709618be0957c86a04ad85513bbb",
+      "title": "Bắc Ninh nhận hỗ trợ 10 tỉ đồng xây trường mầm non ở xã vùng cao",
+      "link": "https://tuoitre.vn/bac-ninh-nhan-ho-tro-10-ti-dong-xay-truong-mam-non-o-xa-vung-cao-20260312202059076.htm",
+      "summary": "Kinh phí hỗ trợ xây dựng Trường mầm non Sa Lý số 2 (tỉnh Bắc Ninh) sẽ giúp hơn 200 trẻ, chủ yếu là con em đồng bào dân tộc thiểu số yên tâm học tập với cơ sở vật chất tốt hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T23:50:31.393876+07:00",
+      "fetched": "2026-03-12T23:50:31.393987+07:00"
+    },
+    {
+      "id": "c2348d2f8d072aad98f9d8032f0bb54e",
+      "title": "Tân Lãnh tụ tối cao Mojtaba Khamenei: Iran quyết trả nợ máu",
+      "link": "https://tuoitre.vn/tan-lanh-tu-toi-cao-mojtaba-khamenei-iran-quyet-tra-no-mau-20260312212401006.htm",
+      "summary": "Tân Lãnh tụ tối cao của Iran, ông Mojtaba Khamenei, tuyên bố trả thù là ưu tiên hàng đầu và kêu gọi đóng cửa căn cứ của Mỹ trong khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T23:50:31.393751+07:00",
+      "fetched": "2026-03-12T23:50:31.393865+07:00"
+    },
+    {
+      "id": "ad631d3b78ce6b964c5cc606a48f2d8d",
+      "title": "Nhân viên bán xe điện bị phạt 7,5 triệu đồng vì loan tin 'xăng còn lên 40.000 đồng'",
+      "link": "https://tuoitre.vn/nhan-vien-ban-xe-dien-bi-phat-7-5-trieu-dong-vi-loan-tin-xang-con-len-40-000-dong-20260312210139903.htm",
+      "summary": "Đ.X.H. bị công an xử phạt 7,5 triệu đồng vì đăng thông tin thất thiệt \"xăng đã 34.000 đồng/lít, thấy bảo mai kia còn lên 40.000\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T23:50:31.393625+07:00",
+      "fetched": "2026-03-12T23:50:31.393740+07:00"
+    },
+    {
+      "id": "6c39169b310020e62f39d6471da438e8",
+      "title": "Tổng Bí thư: Không để tình trạng kiến nghị chung chung, kiến nghị xong để đó, không ai giải quyết",
+      "link": "https://tuoitre.vn/tong-bi-thu-khong-de-tinh-trang-kien-nghi-chung-chung-kien-nghi-xong-de-do-khong-ai-giai-quyet-20260312213914357.htm",
+      "summary": "Tổng Bí thư Tô Lâm nhấn mạnh phát triển khoa học, công nghệ phải hướng mạnh vào việc giải quyết những bài toán thực tiễn của nền kinh tế, nâng cao năng suất lao động, chất lượng sản phẩm và năng lực cạnh tranh của doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T23:50:31.393496+07:00",
+      "fetched": "2026-03-12T23:50:31.393613+07:00"
+    },
+    {
+      "id": "ede87e6ae83ea3579ca31a291bc4b168",
+      "title": "Khởi tố, tạm giam Lê Anh Hùng về hành vi làm, tàng trữ, phát tán tài liệu chống Nhà nước",
+      "link": "https://tuoitre.vn/khoi-to-tam-giam-le-anh-hung-ve-hanh-vi-lam-tang-tru-phat-tan-tai-lieu-chong-nha-nuoc-20260312211832969.htm",
+      "summary": "Lê Anh Hùng bị Cơ quan an ninh điều tra ra quyết định khởi tố bị can, lệnh tạm giam với cáo buộc làm, tàng trữ, phát tán hoặc tuyên truyền thông tin, tài liệu, vật phẩm nhằm chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T23:50:31.393364+07:00",
+      "fetched": "2026-03-12T23:50:31.393484+07:00"
+    },
+    {
+      "id": "c414296bb15995d46f2cb768836e2282",
+      "title": "TP.HCM phấn đấu xây thêm 1.000 phòng học trước năm học mới",
+      "link": "https://tuoitre.vn/tp-hcm-phan-dau-xay-them-1-000-phong-hoc-truoc-nam-hoc-moi-20260312212059141.htm",
+      "summary": "TP.HCM phát động chiến dịch thi đua 150 ngày đêm hoàn thành 1.000 phòng học, phục vụ năm học 2026 - 2027, đồng thời yêu cầu rút ngắn thủ tục, huy động nhiều nguồn lực để đẩy nhanh xây dựng trường lớp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T23:50:31.393221+07:00",
+      "fetched": "2026-03-12T23:50:31.393351+07:00"
+    },
+    {
+      "id": "8780699d1bde376cd0b6fbfc32800add",
+      "title": "Dừng xe ở làn dừng khẩn cấp cao tốc để ngủ, tài xế bị phạt 13 triệu đồng",
+      "link": "https://tuoitre.vn/dung-xe-o-lan-dung-khan-cap-cao-toc-de-ngu-tai-xe-bi-phat-13-trieu-dong-20260312214331289.htm",
+      "summary": "Tối 12-3, đại diện đội cảnh sát giao thông đường cao tốc số 6 cho biết vừa xử lý trường hợp tài xế dừng xe ở làn dừng khẩn cấp sai quy định trên cao tốc Vĩnh Hảo - Phan Thiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T23:50:31.392969+07:00",
+      "fetched": "2026-03-12T23:50:31.393206+07:00"
+    },
     {
       "id": "6e0c6fc7303ce02168ebbef64bd4b193",
       "title": "Tạm giữ nhóm thanh thiếu niên đánh nhau, gây rối trật tự công cộng tại Phú Quốc",
@@ -453,6 +553,126 @@ window.newsData_2026_03_12 = {
       "fetched": "2026-03-12T17:29:57.848511+07:00"
     },
     {
+      "id": "fca30b3da13b57a345f81a836a7d6032",
+      "title": "Giá xăng RON 95 tăng trở lại, E5 giảm gần 447 đồng/lít",
+      "link": "https://thanhnien.vn/gia-xang-ron-95-tang-tro-lai-e5-giam-gan-447-dong-lit-185260312233052966.htm",
+      "summary": "Tối 12.3.2026, Liên Bộ Công Thương - Tài chính thông báo về việc điều chỉnh giá bán lẻ các mặt hàng xăng dầu, áp dụng từ 22 giờ cùng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T16:30:00+07:00",
+      "fetched": "2026-03-12T23:50:30.620470+07:00"
+    },
+    {
+      "id": "b559413f63ab0f65f9c7601e988a4586",
+      "title": "Tân lãnh tụ tối cao Iran thề sẽ trả thù, tiếp tục phong tỏa eo biển Hormuz",
+      "link": "https://thanhnien.vn/tan-lanh-tu-toi-cao-iran-the-se-tra-thu-tiep-tuc-phong-toa-eo-bien-hormuz-185260312231755607.htm",
+      "summary": "Ngày 12.3, nhà lãnh đạo tối cao mới của Iran, trong phát biểu đầu tiên của mình, tuyên bố sẽ báo thù cho những người đã thiệt mạng, tiếp tục phong tỏa eo biển Hormuz và tấn công các căn cứ của Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T16:26:00+07:00",
+      "fetched": "2026-03-12T23:50:30.620638+07:00"
+    },
+    {
+      "id": "dd1965f47a17b8a61b179ab612f8fdb8",
+      "title": "Apple sắp tròn 50 tuổi",
+      "link": "https://vnexpress.net/apple-sap-tron-50-tuoi-5049843.html",
+      "summary": "CEO Tim Cook chia sẻ bức thư \"50 năm suy nghĩ khác biệt\" và hứa hẹn có sự kiện đặc biệt mừng cột mốc 50 năm thành lập công ty vào ngày 1/4 tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T16:18:34+07:00",
+      "fetched": "2026-03-12T23:50:27.705711+07:00"
+    },
+    {
+      "id": "dd1965f47a17b8a61b179ab612f8fdb8",
+      "title": "Apple sắp tròn 50 tuổi",
+      "link": "https://vnexpress.net/apple-sap-tron-50-tuoi-5049843.html",
+      "summary": "CEO Tim Cook chia sẻ bức thư \"50 năm suy nghĩ khác biệt\" và hứa hẹn có sự kiện đặc biệt mừng cột mốc 50 năm thành lập công ty vào ngày 1/4 tới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-12T16:18:34+07:00",
+      "fetched": "2026-03-12T23:50:37.131140+07:00"
+    },
+    {
+      "id": "086b80093d2b812c454a723b51c8428d",
+      "title": "Giá xăng RON95-III tăng 335 đồng/lít, E5RON92 giảm 447 đồng/lít",
+      "link": "https://thanhnien.vn/gia-xang-ron95-iii-tang-335-dong-lit-e5ron92-giam-447-dong-lit-185260312150747387.htm",
+      "summary": "Trong kỳ điều hành tối 12.3, giá xăng dầu tăng giảm tùy mặt hàng, áp dụng từ 22 giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T16:15:00+07:00",
+      "fetched": "2026-03-12T23:50:30.620793+07:00"
+    },
+    {
+      "id": "552beaa27e2f0ab21d1073f0ca0ca92f",
+      "title": "FIFA truy tìm 6 người đại diện trong bê bối giấy tờ cầu thủ Malaysia",
+      "link": "https://thanhnien.vn/fifa-truy-tim-6-nguoi-dai-dien-trong-be-boi-giay-to-cau-thu-malaysia-185260312225641707.htm",
+      "summary": "FIFA đang mở rộng điều tra ít nhất 6 người đại diện liên quan đến vụ làm giả giấy tờ của 7 cầu thủ từng khoác áo đội tuyển Malaysia. Trong khi đó, các cầu thủ bị treo giò vẫn giữ im lặng gần 1 tuần sau phán quyết của CAS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T16:12:00+07:00",
+      "fetched": "2026-03-12T23:50:30.620944+07:00"
+    },
+    {
+      "id": "1819225aebb1d85081f5807a972f68f7",
+      "title": "Tháo gỡ bằng được các điểm nghẽn trong lĩnh vực khoa học, công nghệ",
+      "link": "https://thanhnien.vn/thao-go-bang-duoc-cac-diem-nghen-trong-linh-vuc-khoa-hoc-cong-nghe-185260312222524729.htm",
+      "summary": "Tổng Bí thư Tô Lâm nhấn mạnh cần coi công nghệ chiến lược là trụ cột tạo đột phá tăng trưởng, là thước đo năng lực làm chủ công nghệ và khẳng định tầm vóc, trí tuệ con người Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T16:03:00+07:00",
+      "fetched": "2026-03-12T23:50:30.621112+07:00"
+    },
+    {
+      "id": "3a941a2778391beaa24d41aada8238d7",
+      "title": "Tâm điểm vòng 16 V-League: Ninh Bình tái đấu CLB Công an Hà Nội",
+      "link": "https://thanhnien.vn/tam-diem-vong-16-v-league-ninh-binh-tai-dau-clb-cong-an-ha-noi-185260312222928582.htm",
+      "summary": "Vòng 16 V-League 2025-2026 hứa hẹn nhiều trận cầu hấp dẫn khi các đội trong nhóm đầu đối đầu trực tiếp. Tâm điểm sẽ là cuộc tái đấu giữa Ninh Bình FC và CLB Công an Hà Nội trong cuộc đua vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T15:59:00+07:00",
+      "fetched": "2026-03-12T23:50:30.621284+07:00"
+    },
+    {
+      "id": "455b8dab6aa60dc71959248ba0458229",
+      "title": "Siêu tàu sân bay Mỹ gặp sự cố khi hoạt động gần Iran",
+      "link": "https://vnexpress.net/sieu-tau-san-bay-my-gap-su-co-khi-hoat-dong-gan-iran-5049850.html",
+      "summary": "Một vụ cháy xảy ra trên tàu sân bay Ford đang hoạt động trên Biển Đỏ để hỗ trợ chiến dịch không kích Iran, khiến hai thủy thủ phải điều trị y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T15:55:42+07:00",
+      "fetched": "2026-03-12T23:50:27.705888+07:00"
+    },
+    {
+      "id": "455b8dab6aa60dc71959248ba0458229",
+      "title": "Siêu tàu sân bay Mỹ gặp sự cố khi hoạt động gần Iran",
+      "link": "https://vnexpress.net/sieu-tau-san-bay-my-gap-su-co-khi-hoat-dong-gan-iran-5049850.html",
+      "summary": "Một vụ cháy xảy ra trên tàu sân bay Ford đang hoạt động trên Biển Đỏ để hỗ trợ chiến dịch không kích Iran, khiến hai thủy thủ phải điều trị y tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-12T15:55:42+07:00",
+      "fetched": "2026-03-12T23:50:33.080111+07:00"
+    },
+    {
+      "id": "74efca5ded60adf976b16e2fc2777428",
+      "title": "Golf Việt Nam sắp có bước ngoặt mới: 'Cú swing' hướng ra thế giới",
+      "link": "https://thanhnien.vn/golf-viet-nam-sap-co-buoc-ngoat-moi-cu-swing-huong-ra-the-gioi-185260312223259196.htm",
+      "summary": "Sau hơn một thập kỷ phát triển mạnh mẽ trong nước, golf Việt Nam đang đứng trước bước ngoặt mới: đưa golfer ra thi đấu và trải nghiệm ở sân chơi quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T15:34:00+07:00",
+      "fetched": "2026-03-12T23:50:30.621446+07:00"
+    },
+    {
+      "id": "c4530424a5abbc014104166846faeb7d",
+      "title": "Thần tượng Messi, bộ đôi đặc biệt của đội bóng Thanh Hóa đưa đội nhà vào tứ kết sớm",
+      "link": "https://thanhnien.vn/than-tuong-messi-bo-doi-dac-biet-cua-doi-bong-thanh-hoa-dua-doi-nha-vao-tu-ket-som-185260312223257914.htm",
+      "summary": "Đè bẹp Trường ĐH Quy Nhơn với tỷ số hủy diệt 7-1 vào chiều 12.3, đương kim vô địch Trường ĐH VH-TT-DL Thanh Hóa đã phô diễn sức mạnh tuyệt đối để đoạt vé sớm vào tứ kết. Dấu ấn đậm nét thuộc về màn trình diễn chói sáng của bộ đôi tấn công: tân binh Tuấn Anh và đội trưởng Duy Long cùng cú đúp mang bó...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T15:33:00+07:00",
+      "fetched": "2026-03-12T23:50:30.621601+07:00"
+    },
+    {
       "id": "8c568f419eb57487a6956b6d4c31efb0",
       "title": "KIDO Food 'bắt đáy' 5 triệu cổ phiếu Chứng khoán Rồng Việt trong phiên giảm điểm kỷ lục",
       "link": "https://tuoitre.vn/kido-food-bat-day-5-trieu-co-phieu-chung-khoan-rong-viet-trong-phien-giam-diem-ky-luc-20260312110900795.htm",
@@ -603,6 +823,126 @@ window.newsData_2026_03_12 = {
       "fetched": "2026-03-12T15:32:18.669710+07:00"
     },
     {
+      "id": "409d68922f121383216bf2567bc7d1a5",
+      "title": "FIFA 'truy lùng ráo riết' 6 cò môi giới trong bê bối nhập tịch lậu của bóng đá Malaysia",
+      "link": "https://thanhnien.vn/fifa-truy-lung-rao-riet-6-co-moi-gioi-trong-be-boi-nhap-tich-lau-cua-bong-da-malaysia-185260312220301887.htm",
+      "summary": "Vụ bê bối nhập tịch gây chấn động bóng đá Malaysia tiếp tục có diễn biến mới khi Liên đoàn Bóng đá Thế giới (FIFA) đang mở rộng điều tra và truy tìm 6 người đại diện quốc tế bị nghi có liên quan đến việc làm giả giấy tờ cho các cầu thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T15:28:00+07:00",
+      "fetched": "2026-03-12T23:50:30.621749+07:00"
+    },
+    {
+      "id": "3b46b334e55d5ac617654b175a009ded",
+      "title": "Tìm thấy hài cốt liệt sĩ cùng bộ cờ tướng trong hang đá",
+      "link": "https://vnexpress.net/tim-thay-hai-cot-liet-si-cung-bo-co-tuong-trong-hang-da-5049836.html",
+      "summary": "Hài cốt liệt sĩ được phát hiện trong hang đá sâu khoảng 3 m ở xã Hướng Lập cùng nhiều di vật cá nhân như bật lửa, pin đèn, bàn chải đánh răng và một bộ cờ tướng bằng nhựa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T15:19:32+07:00",
+      "fetched": "2026-03-12T23:50:27.706052+07:00"
+    },
+    {
+      "id": "6895bcb28d2a4bdc4b7d49a924b6edfc",
+      "title": "Nóng: Malaysia và Indonesia cũng được dự ASIAD 20 như U.23 Việt Nam, Thái Lan",
+      "link": "https://thanhnien.vn/nong-malaysia-va-indonesia-cung-duoc-du-asiad-20-nhu-u23-viet-nam-thai-lan-185260312221608913.htm",
+      "summary": "Những thay đổi trong quy định của Hội đồng Olympic châu Á (OCA) đã mở ra cơ hội tham dự môn bóng đá tại ASIAD 20 cho nhiều đội tuyển không góp mặt ở VCK U.23 châu Á 2026, trong đó có các đại diện Đông Nam Á như Indonesia hay Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T15:18:00+07:00",
+      "fetched": "2026-03-12T23:50:30.621895+07:00"
+    },
+    {
+      "id": "aeda23ba82d83d99a989290c9df2e34a",
+      "title": "Cháy trên tàu sân bay USS Gerald R. Ford đang tham gia chiến dịch chống Iran",
+      "link": "https://thanhnien.vn/chay-tren-tau-san-bay-uss-gerald-r-ford-dang-tham-gia-chien-dich-chong-iran-185260312215747507.htm",
+      "summary": "Quân đội Mỹ cho biết vụ cháy trên tàu sân bay USS Gerald R. Ford bắt nguồn từ khu vực giặt ủi chính của tàu, không liên quan chiến đấu và đã được khống chế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T15:16:00+07:00",
+      "fetched": "2026-03-12T23:50:30.622042+07:00"
+    },
+    {
+      "id": "7d1a9b62f776b51015afbccf88b122b0",
+      "title": "Tổng Bí thư: Cần chính sách mạnh thu hút chuyên gia AI, bán dẫn",
+      "link": "https://vnexpress.net/tong-bi-thu-can-chinh-sach-manh-thu-hut-chuyen-gia-ai-ban-dan-5049837.html",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu xây dựng chính sách mạnh mẽ hơn để đào tạo, thu hút và sử dụng hiệu quả đội ngũ chuyên gia, nhà khoa học trong các lĩnh vực trí tuệ nhân tạo, bán dẫn, khoa học dữ liệu và an ninh mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T15:08:01+07:00",
+      "fetched": "2026-03-12T23:50:27.706243+07:00"
+    },
+    {
+      "id": "7d1a9b62f776b51015afbccf88b122b0",
+      "title": "Tổng Bí thư: Cần chính sách mạnh thu hút chuyên gia AI, bán dẫn",
+      "link": "https://vnexpress.net/tong-bi-thu-can-chinh-sach-manh-thu-hut-chuyen-gia-ai-ban-dan-5049837.html",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu xây dựng chính sách mạnh mẽ hơn để đào tạo, thu hút và sử dụng hiệu quả đội ngũ chuyên gia, nhà khoa học trong các lĩnh vực trí tuệ nhân tạo, bán dẫn, khoa học dữ liệu và an ninh mạng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-12T15:08:01+07:00",
+      "fetched": "2026-03-12T23:50:37.131317+07:00"
+    },
+    {
+      "id": "71910fa46099501efe5454f58da54c18",
+      "title": "Bị trộm xe máy gần 1 tháng mới báo công an, 3 ngày sau đã tìm được",
+      "link": "https://thanhnien.vn/bi-trom-xe-may-gan-1-thang-moi-bao-cong-an-3-ngay-sau-da-tim-duoc-185260312211906363.htm",
+      "summary": "Gần 1 tháng chiếc xe máy bị kẻ trộm lấy mất, người đàn ông mới đi báo công an. Chỉ 3 ngày sau, lực lượng chức năng đã tìm thấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T15:07:00+07:00",
+      "fetched": "2026-03-12T23:50:30.622214+07:00"
+    },
+    {
+      "id": "c1a879b991003920bfaf00f8a0df53c0",
+      "title": "Nguyễn Thùy Linh suýt gây bất ngờ lớn trước tài năng cầu lông Nhật Bản ở giải Thụy Sĩ mở rộng",
+      "link": "https://thanhnien.vn/nguyen-thuy-linh-suyt-gay-bat-ngo-lon-truoc-tai-nang-cau-long-nhat-ban-185260312220134964.htm",
+      "summary": "Tay vợt số 1 cầu lông Việt Nam Nguyễn Thùy Linh (hạng 26 thế giới) có trận đấu hay trước tay vợt hạng 9 thế giới Tomoka Miyazaki (Nhật Bản, hạng 9 thế giới) tại giải cầu lông Thụy Sĩ mở rộng 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T15:02:00+07:00",
+      "fetched": "2026-03-12T23:50:30.622362+07:00"
+    },
+    {
+      "id": "456e3f6e62c9898f8730a282cdcc3381",
+      "title": "Giá xăng, dầu cùng tăng",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-12-3-5049651.html",
+      "summary": "Từ 22h hôm nay, giá xăng RON 95-III tăng 330 đồng lên 25.570 đồng, dầu diesel đắt thêm 550 đồng ở mức 27.020 đồng một lít.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T14:56:23+07:00",
+      "fetched": "2026-03-12T23:50:27.706403+07:00"
+    },
+    {
+      "id": "456e3f6e62c9898f8730a282cdcc3381",
+      "title": "Giá xăng, dầu cùng tăng",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-12-3-5049651.html",
+      "summary": "Từ 22h hôm nay, giá xăng RON 95-III tăng 330 đồng lên 25.570 đồng, dầu diesel đắt thêm 550 đồng ở mức 27.020 đồng một lít.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-12T14:56:23+07:00",
+      "fetched": "2026-03-12T23:50:34.733166+07:00"
+    },
+    {
+      "id": "2b930fc6edaee157baee178a3a5b785e",
+      "title": "Thái Lan yêu cầu Iran xin lỗi vụ tấn công tàu hàng",
+      "link": "https://vnexpress.net/thai-lan-yeu-cau-iran-xin-loi-vu-tan-cong-tau-hang-5049828.html",
+      "summary": "Giới chức Thái Lan yêu cầu Iran xin lỗi về việc nước này tập kích khiến tàu Mayuree Naree bốc cháy, buộc thủy thủ phải bỏ phương tiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T14:42:29+07:00",
+      "fetched": "2026-03-12T23:50:27.706559+07:00"
+    },
+    {
+      "id": "2b930fc6edaee157baee178a3a5b785e",
+      "title": "Thái Lan yêu cầu Iran xin lỗi vụ tấn công tàu hàng",
+      "link": "https://vnexpress.net/thai-lan-yeu-cau-iran-xin-loi-vu-tan-cong-tau-hang-5049828.html",
+      "summary": "Giới chức Thái Lan yêu cầu Iran xin lỗi về việc nước này tập kích khiến tàu Mayuree Naree bốc cháy, buộc thủy thủ phải bỏ phương tiện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-12T14:42:29+07:00",
+      "fetched": "2026-03-12T23:50:33.080290+07:00"
+    },
+    {
       "id": "4910d2cfb160702c46a6aa114d641901",
       "title": "Highlight Trường ĐH Quy Nhơn 1-7 Trường ĐH VH-TT-DL Thanh Hóa: Mưa bàn thắng, ĐKVĐ thẳng tiến tứ kết",
       "link": "https://thanhnien.vn/highlight-truong-dh-quy-nhon-1-7-truong-dh-vh-tt-dl-thanh-hoa-mua-ban-thang-dkvd-thang-tien-tu-ket-185260312212412185.htm",
@@ -623,6 +963,26 @@ window.newsData_2026_03_12 = {
       "fetched": "2026-03-12T21:41:40.171379+07:00"
     },
     {
+      "id": "276e5ff158ce78dbab70e212cda65684",
+      "title": "Sinh viên Đại học Công nghiệp TP HCM chật vật tìm chỗ gửi xe",
+      "link": "https://vnexpress.net/sinh-vien-dai-hoc-cong-nghiep-tp-hcm-chat-vat-tim-cho-gui-xe-5049642.html",
+      "summary": "Nhiều sinh viên trường Đại học Công nghiệp TP HCM bỏ buổi học hoặc dựng xe ngoài đường vì nhiều điểm giữ xe xung quanh đột ngột đóng cửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T14:30:41+07:00",
+      "fetched": "2026-03-12T23:50:27.706723+07:00"
+    },
+    {
+      "id": "ab4b1095b50fa24398cf726f515d9c52",
+      "title": "Italy chi 35 triệu USD mua tranh của Caravaggio",
+      "link": "https://vnexpress.net/italy-chi-35-trieu-usd-mua-tranh-cua-caravaggio-5049831.html",
+      "summary": "Chính phủ Italy mua bức tranh do Caravaggio vẽ với giá 35 triệu USD (gần 920 tỷ đồng), khoản chi lớn nhất của nước này cho một tác phẩm nghệ thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T14:23:41+07:00",
+      "fetched": "2026-03-12T23:50:27.706877+07:00"
+    },
+    {
       "id": "452013eccfbfeeb64deac138ccb6139e",
       "title": "Loan tin 'xăng còn lên 40.000 đồng', bị phạt 7,5 triệu đồng",
       "link": "https://thanhnien.vn/loan-tin-xang-con-len-40000-dong-bi-phat-75-trieu-dong-185260312205600426.htm",
@@ -641,6 +1001,26 @@ window.newsData_2026_03_12 = {
       "category": "Tổng hợp",
       "published": "2026-03-12T14:00:00+07:00",
       "fetched": "2026-03-12T21:41:40.171716+07:00"
+    },
+    {
+      "id": "c1336f7629ca4842178466b7265bb4f5",
+      "title": "Mới cưới 4 tháng, chồng luôn để tôi phải chủ động chuyện ấy",
+      "link": "https://vnexpress.net/moi-cuoi-4-thang-chong-luon-de-toi-phai-chu-dong-chuyen-ay-5049330.html",
+      "summary": "Tôi bảo mình còn trẻ, không muốn thanh xuân của mình trôi qua như thế, anh chỉ cười xòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T14:00:00+07:00",
+      "fetched": "2026-03-12T23:50:27.707029+07:00"
+    },
+    {
+      "id": "affa95a184b991ad58b12d9546fbfa50",
+      "title": "Được vô tội sau 22 năm ngồi tù với cáo buộc 'làm con chết do nước tắm quá nóng'",
+      "link": "https://vnexpress.net/duoc-vo-toi-sau-22-nam-ngoi-tu-voi-cao-buoc-lam-con-chet-do-nuoc-tam-qua-nong-5049816.html",
+      "summary": "Bà Carmen Mejia, bị kết án chung thân năm 2003 sau khi con 10 tháng tuổi tử vong vì bỏng trong bồn tắm nước nóng, vừa được minh oan sau 22 năm ngồi tù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:59:42+07:00",
+      "fetched": "2026-03-12T23:50:27.707209+07:00"
     },
     {
       "id": "6024b77aabe2d65b46f53b74ec87f52e",
