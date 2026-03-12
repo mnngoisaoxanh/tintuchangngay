@@ -1,7 +1,157 @@
 window.newsData_2026_03_12 = {
   "date": "2026-03-12",
-  "lastUpdated": "2026-03-12T19:36:54.444886+07:00",
+  "lastUpdated": "2026-03-12T21:41:48.882922+07:00",
   "articles": [
+    {
+      "id": "6e0c6fc7303ce02168ebbef64bd4b193",
+      "title": "Tạm giữ nhóm thanh thiếu niên đánh nhau, gây rối trật tự công cộng tại Phú Quốc",
+      "link": "https://tuoitre.vn/tam-giu-nhom-thanh-thieu-nien-danh-nhau-gay-roi-trat-tu-cong-cong-tai-phu-quoc-20260312170819705.htm",
+      "summary": "Vụ nam học sinh lớp 10 bị đánh hội đồng nằm gục giữa đường ở Phú Quốc, Công an đặc khu Phú Quốc đã có quyết định tạm giữ 4 thanh thiếu niên liên quan để điều tra hành vi gây rối trật tự công cộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.084458+07:00",
+      "fetched": "2026-03-12T21:41:41.084573+07:00"
+    },
+    {
+      "id": "4c6c8088b2b992d18f7bed364bea746e",
+      "title": "Sở Xây dựng TP.HCM đề nghị duy trì cảnh quan các công viên, vườn hoa dịp Tết Bính Ngọ",
+      "link": "https://tuoitre.vn/so-xay-dung-tp-hcm-de-nghi-duy-tri-canh-quan-cac-cong-vien-vuon-hoa-dip-tet-binh-ngo-20260312182110958.htm",
+      "summary": "Sở Xây dựng TP.HCM vừa có văn bản gửi đến các địa phương, đơn vị, doanh nghiệp liên quan đề nghị phối hợp duy trì cảnh quan tại các khu đất làm công viên, vườn hoa dịp Tết Bính Ngọ, tránh hoang hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.084336+07:00",
+      "fetched": "2026-03-12T21:41:41.084447+07:00"
+    },
+    {
+      "id": "0f07eab52c95c3e260322d6e1ced62e6",
+      "title": "Thú cưng bị bỏ rơi, thậm chí bị yêu cầu an tử khi chủ rời đi vì chiến sự Trung Đông",
+      "link": "https://tuoitre.vn/thu-cung-bi-bo-roi-tham-chi-bi-yeu-cau-an-tu-khi-chu-roi-di-vi-chien-su-trung-dong-20260312162154242.htm",
+      "summary": "Các tổ chức cứu hộ động vật cho biết nhiều thú cưng bị bỏ rơi, thậm chí có trường hợp bị yêu cầu an tử vì chủ không thể mang chúng theo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.084212+07:00",
+      "fetched": "2026-03-12T21:41:41.084325+07:00"
+    },
+    {
+      "id": "14db95449379e3724c2ed01afcab8e85",
+      "title": "Ngành đường sắt giảm giá vé tàu 3% sau khi tăng 10%",
+      "link": "https://tuoitre.vn/nganh-duong-sat-giam-gia-ve-tau-3-sau-khi-tang-10-20260312172352743.htm",
+      "summary": "Từ ngày 13-3, Công ty cổ phần Vận tải đường sắt đã giảm giá vé tàu 3%, giảm cước hàng hóa 4% do giá xăng dầu giảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.084084+07:00",
+      "fetched": "2026-03-12T21:41:41.084200+07:00"
+    },
+    {
+      "id": "0f556ca2f2e63df2ef727c26e72acecd",
+      "title": "Ống thép khổng lồ 'trồi lên' giữa lòng đường Nhật Bản",
+      "link": "https://tuoitre.vn/ong-thep-khong-lo-troi-len-giua-long-duong-nhat-ban-20260312180833498.htm",
+      "summary": "Ngày 11-3, một ống thép dài 30m “trồi lên” giữa công trường ở thành phố Osaka, Nhật Bản khiến nhiều người dân lo ngại nguy cơ xảy ra tai nạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.083961+07:00",
+      "fetched": "2026-03-12T21:41:41.084073+07:00"
+    },
+    {
+      "id": "bc6ebd36679a162f3995df20ad4d9dea",
+      "title": "Khi văn hóa giao thông được xây nên từ nhận thức",
+      "link": "https://tuoitre.vn/khi-van-hoa-giao-thong-duoc-xay-nen-tu-nhan-thuc-20260311151547636.htm",
+      "summary": "Cùng với việc tuân thủ luật lệ giao thông, xã hội cũng cần những cơ chế để giảm thiểu thiệt hại khi rủi ro xảy ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.083827+07:00",
+      "fetched": "2026-03-12T21:41:41.083949+07:00"
+    },
+    {
+      "id": "0a59d4a7e67d975195c5a6360427da02",
+      "title": "Hikvision công bố nghiên cứu ‘Hành trình thực hành AI có trách nhiệm’",
+      "link": "https://tuoitre.vn/hikvision-cong-bo-nghien-cuu-hanh-trinh-thuc-hanh-ai-co-trach-nhiem-20260312122614175.htm",
+      "summary": "Mới đây, Hikvision đã ra mắt báo cáo về nghiên cứu: ‘Hikvision’s Journey Practicing Responsible AI’ (Hành trình thực hành AI có trách nhiệm của Hikvision).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.083679+07:00",
+      "fetched": "2026-03-12T21:41:41.083814+07:00"
+    },
+    {
+      "id": "2d6071286fd74921f58913092f2412c9",
+      "title": "Lịch trực tiếp tứ kết Asian Cup nữ 2026: Úc đấu Triều Tiên",
+      "link": "https://tuoitre.vn/lich-truc-tiep-tu-ket-asian-cup-nu-2026-uc-dau-trien-tien-20260312163227978.htm",
+      "summary": "Trận tứ kết đầu tiên của Giải bóng đá nữ châu Á - Asian Cup nữ 2026 là trận \"đại chiến\" giữa tuyển nữ Úc và Triều Tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.083538+07:00",
+      "fetched": "2026-03-12T21:41:41.083667+07:00"
+    },
+    {
+      "id": "577d8ec92b48cef82c65bab2238e4373",
+      "title": "TP.HCM sẽ đưa dữ liệu giao thông, dân cư lên bản đồ số dùng chung",
+      "link": "https://tuoitre.vn/tp-hcm-se-dua-du-lieu-giao-thong-dan-cu-len-ban-do-so-dung-chung-20260312184757979.htm",
+      "summary": "TP.HCM đang làm sạch và tích hợp nhiều nhóm dữ liệu quan trọng để đưa lên nền bản đồ số dùng chung, phục vụ điều hành giao thông, quy hoạch hạ tầng, giáo dục và giải quyết thủ tục hành chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.083412+07:00",
+      "fetched": "2026-03-12T21:41:41.083526+07:00"
+    },
+    {
+      "id": "92ffe88c2f5eb6c8862fa0c3e5b6f407",
+      "title": "Chủ đầu tư cam kết tháng 4-2026, hoàn thành nâng cấp quốc lộ 28B nối Phan Thiết với Đà Lạt",
+      "link": "https://tuoitre.vn/chu-dau-tu-cam-ket-thang-4-2026-hoan-thanh-nang-cap-quoc-lo-28b-noi-phan-thiet-voi-da-lat-20260312184000524.htm",
+      "summary": "Trong bối cảnh sân bay Liên Khương tạm đóng cửa để nâng cấp, một trong những cung đường được nhiều người lựa chọn đến với Đà Lạt hiện nay là quốc lộ 28B.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.083287+07:00",
+      "fetched": "2026-03-12T21:41:41.083401+07:00"
+    },
+    {
+      "id": "ca2b85d102fa6fd59d7b3ec70578d66c",
+      "title": "TP.HCM yêu cầu giải quyết thông suốt hồ sơ đất đai nhận trước và cả sau 31-1-2026",
+      "link": "https://tuoitre.vn/tp-hcm-yeu-cau-giai-quyet-thong-suot-ho-so-dat-dai-nhan-truoc-va-ca-sau-31-1-2026-20260312192000947.htm",
+      "summary": "UBND TP.HCM yêu cầu các cơ quan, đơn vị, địa phương tiếp tục giải quyết thông suốt hồ sơ đất đai đã tiếp nhận trước và cả sau ngày 31-1-2026, cho đến khi TP.HCM có quyết định mới về phân cấp và trình tự, thủ tục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.083158+07:00",
+      "fetched": "2026-03-12T21:41:41.083275+07:00"
+    },
+    {
+      "id": "589de00e9f4524005e00e694af0dab8e",
+      "title": "Thái Lan yêu cầu Iran xin lỗi sau vụ tàu bị tấn công tại eo biển Hormuz",
+      "link": "https://tuoitre.vn/thai-lan-yeu-cau-iran-xin-loi-sau-vu-tau-bi-tan-cong-tai-eo-bien-hormuz-20260312193447216.htm",
+      "summary": "Thái Lan đã yêu cầu Iran đưa ra lời xin lỗi và gửi công hàm phản đối, sau khi một tàu chở hàng của nước này bị tấn công tại Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.083028+07:00",
+      "fetched": "2026-03-12T21:41:41.083147+07:00"
+    },
+    {
+      "id": "5218ca749d853ae629fac027ea4d9651",
+      "title": "Cần Thơ cử cán bộ từ các sở đến hỗ trợ Sở Y tế sớm hoàn thành dự án Bệnh viện Ung bướu",
+      "link": "https://tuoitre.vn/can-tho-cu-can-bo-tu-cac-so-den-ho-tro-so-y-te-som-hoan-thanh-du-an-benh-vien-ung-buou-20260312180124685.htm",
+      "summary": "Để hoàn thành dự án Bệnh viện Ung bướu Cần Thơ vào cuối tháng 11, Chủ tịch Cần Thơ cho biết đã có chỉ đạo cử cán bộ từ các sở khác đến hỗ trợ Sở Y tế, ngay cả công nhân cũng sẽ huy động hỗ trợ nhà thầu nếu cần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.082891+07:00",
+      "fetched": "2026-03-12T21:41:41.083016+07:00"
+    },
+    {
+      "id": "38e7b5a6a6692f248bb124ad3552c555",
+      "title": "Sốc: Vượn bonobo 'hiền lành' hóa ra rất dữ, chuyên bắt nạt con đực",
+      "link": "https://tuoitre.vn/soc-vuon-bonobo-hien-lanh-hoa-ra-rat-du-chuyen-bat-nat-con-duc-20260312191812012.htm",
+      "summary": "Nghiên cứu mới cho thấy bonobo - loài linh trưởng từng được xem là 'yêu hòa bình' - thực ra hung hăng ngang tinh tinh, và con đực thường là mục tiêu bị trút giận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.082717+07:00",
+      "fetched": "2026-03-12T21:41:41.082876+07:00"
+    },
+    {
+      "id": "e0d84d2227b238448b5d7a079029ff0e",
+      "title": "Sắc màu Việt - Nhật: sân chơi sáng tạo cho sinh viên yêu văn hóa",
+      "link": "https://tuoitre.vn/sac-mau-viet-nhat-san-choi-sang-tao-cho-sinh-vien-yeu-van-hoa-20260312184550402.htm",
+      "summary": "Tự mình hiện thực hóa tour trải nghiệm Nhật Bản trong mơ là thử thách thú vị mà các bạn sinh viên yêu văn hóa của đất nước mặt trời mọc sẽ được tham gia trong cuộc thi Sắc màu Việt - Nhật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T21:41:41.082462+07:00",
+      "fetched": "2026-03-12T21:41:41.082701+07:00"
+    },
     {
       "id": "11cf632ee9b2970bb66ada24d8700cf8",
       "title": "Lịch trực tiếp V-League vòng 16: Ninh Bình đấu Công An Hà Nội",
@@ -453,6 +603,66 @@ window.newsData_2026_03_12 = {
       "fetched": "2026-03-12T15:32:18.669710+07:00"
     },
     {
+      "id": "4910d2cfb160702c46a6aa114d641901",
+      "title": "Highlight Trường ĐH Quy Nhơn 1-7 Trường ĐH VH-TT-DL Thanh Hóa: Mưa bàn thắng, ĐKVĐ thẳng tiến tứ kết",
+      "link": "https://thanhnien.vn/highlight-truong-dh-quy-nhon-1-7-truong-dh-vh-tt-dl-thanh-hoa-mua-ban-thang-dkvd-thang-tien-tu-ket-185260312212412185.htm",
+      "summary": "Đương kim vô địch Trường ĐH VH-TT-DL Thanh Hóa đã có chiến thắng đậm 7-1 trước Trường ĐH Quy Nhơn, chính thức đoạt vé vào tứ kết VCK TNSV THACO Cup 2026. Với màn trình diễn ấn tượng, đặc biệt là cú hat-trick của Trần Nguyễn Duy Long, đại diện Thanh Hóa tiếp tục chứng tỏ sức mạnh, trong khi Quy Nhơn ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T14:33:00+07:00",
+      "fetched": "2026-03-12T21:41:40.171195+07:00"
+    },
+    {
+      "id": "21ba5379f582f786c4a88792c61cfe7a",
+      "title": "Highlight Trường ĐH Công nghệ TP.HCM 0-2 Trường ĐH TDTT Đà Nẵng: Đương kim á quân có vé tứ kết sớm",
+      "link": "https://thanhnien.vn/highlight-truong-dh-cong-nghe-tphcm-0-2-truong-dh-tdtt-da-nang-duong-kim-a-quan-co-ve-tu-ket-som-185260312203705118.htm",
+      "summary": "Á quân mùa giải trước là Trường ĐH TDTT Đà Nẵng đã có chiến thắng thuyết phục 2-0 trước Trường ĐH Công nghệ TP.HCM, qua đó chính thức giành vé vào tứ kết VCK TNSV THACO cup 2026 trước 1 vòng đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T14:33:00+07:00",
+      "fetched": "2026-03-12T21:41:40.171379+07:00"
+    },
+    {
+      "id": "452013eccfbfeeb64deac138ccb6139e",
+      "title": "Loan tin 'xăng còn lên 40.000 đồng', bị phạt 7,5 triệu đồng",
+      "link": "https://thanhnien.vn/loan-tin-xang-con-len-40000-dong-bi-phat-75-trieu-dong-185260312205600426.htm",
+      "summary": "Nam nhân viên bán xe điện bị phạt 7,5 triệu đồng vì loan tin 'xăng còn lên 40.000 đồng' nhằm thu hút tương tác, tăng lượt theo dõi để bán xe điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T14:22:00+07:00",
+      "fetched": "2026-03-12T21:41:40.171541+07:00"
+    },
+    {
+      "id": "1a2741f030a982395036ecf4f8077ade",
+      "title": "Toàn cảnh TNSV THACO Cup 2026 ngày 12.3: Số 10 gánh team giành vé tứ kết đầu tiên | 2 CĐV U.80 đặc biệt trên khán đài",
+      "link": "https://thanhnien.vn/toan-canh-tnsv-thaco-cup-2026-ngay-123-so-10-ganh-team-gianh-ve-tu-ket-dau-tien-2-cdv-u80-dac-biet-tren-khan-dai-185260312185545464.htm",
+      "summary": "Bản tin TNSV THACO Cup 2026 ngày 12.3 trên Thanhnien.vn và kênh YouTube Báo Thanh Niên cập nhật những diễn biến mới nhất về các trận đấu, câu chuyện bên lề sân cỏ và lịch thi đấu sắp tới của giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T14:00:00+07:00",
+      "fetched": "2026-03-12T21:41:40.171716+07:00"
+    },
+    {
+      "id": "6024b77aabe2d65b46f53b74ec87f52e",
+      "title": "Các dữ liệu nào trong lĩnh vực giáo dục được tích hợp để phát triển AI?",
+      "link": "https://thanhnien.vn/cac-du-lieu-nao-trong-linh-vuc-giao-duc-duoc-tich-hop-de-phat-trien-ai-185260312202710542.htm",
+      "summary": "Đến năm 2030, Việt Nam đặt mục tiêu 100% các cơ sở dữ liệu ưu tiên sẽ được số hóa và chuẩn hóa để tích hợp vào cơ sở dữ liệu tổng hợp quốc gia phục vụ phát triển trí tuệ nhân tạo, trong đó có các dữ liệu thuộc lĩnh vực giáo dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:50:00+07:00",
+      "fetched": "2026-03-12T21:41:40.171914+07:00"
+    },
+    {
+      "id": "8de10795d93def2921fb81112c0bf76d",
+      "title": "Lãnh tụ Iran tuyên bố vẫn đóng cửa eo biển Hormuz, tấn công căn cứ Mỹ",
+      "link": "https://thanhnien.vn/lanh-tu-iran-tuyen-bo-van-dong-cua-eo-bien-hormuz-tan-cong-can-cu-my-185260312204056264.htm",
+      "summary": "Trong thông điệp đầu tiên kể từ khi nhậm chức, tân Lãnh tụ tối cao Iran Mojtaba Khamenei cho biết nước này sẽ tiếp tục phong tỏa eo biển Hormuz để gây áp lực với Mỹ và Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:49:00+07:00",
+      "fetched": "2026-03-12T21:41:40.172074+07:00"
+    },
+    {
       "id": "8e8fb84cc92cf0b1f78d184843dbb6f5",
       "title": "Triều Tiên công bố ảnh ông Kim Jong Un và con gái trực tiếp bắn súng",
       "link": "https://tuoitre.vn/trieu-tien-cong-bo-anh-ong-kim-jong-un-va-con-gai-truc-tiep-ban-sung-20260312110629381.htm",
@@ -601,6 +811,246 @@ window.newsData_2026_03_12 = {
       "category": "Tổng hợp",
       "published": "2026-03-12T13:41:37.634082+07:00",
       "fetched": "2026-03-12T13:41:37.634300+07:00"
+    },
+    {
+      "id": "09660d979c983c83b6b03a7d4db5cadc",
+      "title": "Khởi tố 23 thanh thiếu niên 'hỗn chiến' trước quán cà phê ở TP.HCM",
+      "link": "https://thanhnien.vn/khoi-to-23-thanh-thieu-nien-hon-chien-truoc-quan-ca-phe-o-tphcm-185260312200003607.htm",
+      "summary": "Công an TP.HCM khởi tố vụ án, khởi tố 23 thanh thiếu niên về tội gây rối trật tự công cộng, liên quan vụ hai nhóm mang hung khí 'hỗn chiến' trước quán cà phê trên đường Lê Đức Thọ, phường An Hội Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:41:00+07:00",
+      "fetched": "2026-03-12T21:41:40.172227+07:00"
+    },
+    {
+      "id": "b3a6f5e627d0c9a1ba86494b46bf78cb",
+      "title": "Sở GD-ĐT TP.HCM: Tránh hội nhập quốc tế vì mục tiêu không phục vụ giáo dục",
+      "link": "https://thanhnien.vn/so-gd-dt-tphcm-tranh-hoi-nhap-quoc-te-vi-muc-tieu-khong-phuc-vu-giao-duc-185260312200530386.htm",
+      "summary": "Ngày 12.3, Sở GD-ĐT TP.HCM tổ chức hội thảo Nâng cao chất lượng đối ngoại và hội nhập quốc tế ngành GD-ĐT. Tại đây, lãnh đạo Sở GD-ĐT đã đưa ra đánh giá và yêu cầu về hội nhập và hợp tác quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:40:00+07:00",
+      "fetched": "2026-03-12T21:41:40.172402+07:00"
+    },
+    {
+      "id": "aefafb80607ac7f182610b4a27eac193",
+      "title": "Đại chiến Messi - Yamal được chuyển tới Bernabeu",
+      "link": "https://vnexpress.net/dai-chien-messi-yamal-duoc-chuyen-toi-bernabeu-5049830.html",
+      "summary": "Trận tranh Siêu Cup Liên lục địa (Finalissima) giữa Argentina và Tây Ban Nha nhiều khả năng sẽ diễn ra trên sân Bernabeu ở Madrid, thay vì Doha như kế hoạch ban đầu vì an ninh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:37:34+07:00",
+      "fetched": "2026-03-12T21:41:37.118061+07:00"
+    },
+    {
+      "id": "aefafb80607ac7f182610b4a27eac193",
+      "title": "Đại chiến Messi - Yamal được chuyển tới Bernabeu",
+      "link": "https://vnexpress.net/dai-chien-messi-yamal-duoc-chuyen-toi-bernabeu-5049830.html",
+      "summary": "Trận tranh Siêu Cup Liên lục địa (Finalissima) giữa Argentina và Tây Ban Nha nhiều khả năng sẽ diễn ra trên sân Bernabeu ở Madrid, thay vì Doha như kế hoạch ban đầu vì an ninh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-12T13:37:34+07:00",
+      "fetched": "2026-03-12T21:41:48.869868+07:00"
+    },
+    {
+      "id": "c6458fdda92656d151d4f351a7bd701c",
+      "title": "An Giang: 63 người nghi ngộ độc thực phẩm sau khi ăn bánh kem",
+      "link": "https://thanhnien.vn/an-giang-63-nguoi-nghi-ngo-doc-thuc-pham-sau-khi-an-banh-kem-185260312194643497.htm",
+      "summary": "Sau khi ăn bánh kem mừng ngày Quốc tế phụ nữ 8.3, có 63 người ở An Giang nghi bị ngộ độc thực phẩm phải nhập viện cấp cứu, điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:30:00+07:00",
+      "fetched": "2026-03-12T21:41:40.172558+07:00"
+    },
+    {
+      "id": "1fd61f227f6d67bc8e5c047fd830d4cc",
+      "title": "Tân Lãnh tụ Tối cao Iran kêu gọi đoàn kết trong thông điệp đầu tiên",
+      "link": "https://vnexpress.net/tan-lanh-tu-toi-cao-iran-keu-goi-doan-ket-trong-thong-diep-dau-tien-5049829.html",
+      "summary": "Tân Lãnh tụ Tối cao Iran Mojtaba Khamenei đưa ra thông điệp đầu tiên sau khi nhậm chức, trong đó kêu gọi người dân đoàn kết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:25:45+07:00",
+      "fetched": "2026-03-12T21:41:37.118243+07:00"
+    },
+    {
+      "id": "8428c8b4880e7cc6598ff962d789bec9",
+      "title": "Tân Lãnh tụ Tối cao Iran tuyên bố sẽ tiếp tục phong tỏa Eo biển Hormuz",
+      "link": "https://vnexpress.net/tan-lanh-tu-toi-cao-iran-tuyen-bo-se-tiep-tuc-phong-toa-eo-bien-hormuz-5049829.html",
+      "summary": "Tân Lãnh tụ Tối cao Iran Mojtaba Khamenei đưa ra thông điệp đầu tiên sau khi nhậm chức, trong đó tuyên bố sẽ tiếp tục phong tỏa Eo biển Hormuz để gây sức ép với Mỹ, Israel.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-12T13:25:45+07:00",
+      "fetched": "2026-03-12T21:41:43.010991+07:00"
+    },
+    {
+      "id": "2fac4803db8658c18029b5ec3c637c91",
+      "title": "Sắp IPO, Điện Máy Xanh kỳ vọng nhân đôi lợi nhuận trong 5 năm",
+      "link": "https://vnexpress.net/sap-ipo-dien-may-xanh-ky-vong-nhan-doi-loi-nhuan-trong-5-nam-5049753.html",
+      "summary": "Chuỗi Điện Máy Xanh đặt mục tiêu lợi nhuận khoảng 13.000 tỷ đồng năm 2030, gấp đôi so với hiện nay, trong bối cảnh chuỗi này sắp IPO trong năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:21:07+07:00",
+      "fetched": "2026-03-12T21:41:37.118408+07:00"
+    },
+    {
+      "id": "2fac4803db8658c18029b5ec3c637c91",
+      "title": "Sắp IPO, Điện Máy Xanh kỳ vọng nhân đôi lợi nhuận trong 5 năm",
+      "link": "https://vnexpress.net/sap-ipo-dien-may-xanh-ky-vong-nhan-doi-loi-nhuan-trong-5-nam-5049753.html",
+      "summary": "Chuỗi Điện Máy Xanh đặt mục tiêu lợi nhuận khoảng 13.000 tỷ đồng năm 2030, gấp đôi so với hiện nay, trong bối cảnh chuỗi này sắp IPO trong năm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-12T13:21:07+07:00",
+      "fetched": "2026-03-12T21:41:44.515783+07:00"
+    },
+    {
+      "id": "33624067c3a62d06dbff35b61bb1e06a",
+      "title": "Có nên mua ổ SSD giá rẻ để tiết kiệm?",
+      "link": "https://thanhnien.vn/co-nen-mua-o-ssd-gia-re-de-tiet-kiem-185260312155349231.htm",
+      "summary": "Do tình trạng giá bộ nhớ tăng vọt trong thời gian qua, người dùng đang phải đối mặt với nhiều lựa chọn khó khăn, đặc biệt khi tìm kiếm ổ SSD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:19:00+07:00",
+      "fetched": "2026-03-12T21:41:40.172717+07:00"
+    },
+    {
+      "id": "4e1fd2d868f79ed23f415d432dae22a3",
+      "title": "Gas tăng vượt 500.000 đồng/bình 12kg",
+      "link": "https://thanhnien.vn/gas-tang-vuot-500000-dong-binh-12kg-18526031220115931.htm",
+      "summary": "Ngày 12.3, Công ty TNHH khí hóa lỏng Việt Nam (VT Gas) cho tăng giá bán lẻ gas tăng thêm 30.000 đồng/bình 12kg, lên 504.400 đồng/bình 12kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:17:00+07:00",
+      "fetched": "2026-03-12T21:41:40.172898+07:00"
+    },
+    {
+      "id": "c0e1470c2edd9cc92d8227ad7d8cb1a3",
+      "title": "10 thí sinh đạt điểm cao nhất Olympic Toán châu Á - Thái Bình Dương ở Việt Nam",
+      "link": "https://vnexpress.net/10-thi-sinh-dat-diem-cao-nhat-olympic-toan-chau-a-thai-binh-duong-o-viet-nam-5049821.html",
+      "summary": "10 học sinh được chọn tranh giải tại Olympic Toán châu Á - Thái Bình Dương năm 2026, khi đoàn Việt Nam quay lại sân chơi này sau gần 1/4 thế kỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:14:20+07:00",
+      "fetched": "2026-03-12T21:41:37.118568+07:00"
+    },
+    {
+      "id": "7f93898b1b185785c7ec4b741f6c1748",
+      "title": "CEO Mua chung Bất động sản bị cáo buộc lừa nhà đầu tư",
+      "link": "https://vnexpress.net/ceo-mua-chung-bat-dong-san-bi-cao-buoc-lua-nha-dau-tu-5049822.html",
+      "summary": "Trần Ngọc Sinh, Tổng giám đốc Công ty Mua chung Bất động sản Việt Nam, kêu gọi nhà đầu tư góp vốn vào các bất động sản để hưởng lãi cao, song mục đích là chiếm đoạt tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:12:48+07:00",
+      "fetched": "2026-03-12T21:41:37.118724+07:00"
+    },
+    {
+      "id": "3b4f18f1d6888f22b1e0321c15db494d",
+      "title": "Sở GD-ĐT TP.HCM thông tin chính thức về tuyển sinh đầu cấp",
+      "link": "https://thanhnien.vn/so-gd-dt-tphcm-thong-tin-chinh-thuc-ve-tuyen-sinh-dau-cap-185260312192028492.htm",
+      "summary": "Chiều 12.3, tại buổi họp báo về tình hình văn hóa, kinh tế, xã hội tại Trung tâm Báo chí TP.HCM, ông Hồ Tấn Minh, Chánh văn phòng Sở GD-ĐT TP.HCM, đã thông tin chính thức về kế hoạch tuyển sinh đầu cấp lớp 1, lớp 6 năm học 2026-2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:05:00+07:00",
+      "fetched": "2026-03-12T21:41:40.173051+07:00"
+    },
+    {
+      "id": "793b3d4a3474b71bd5a9574c2de56307",
+      "title": "Bị phạt 7,5 triệu đồng vì loan tin 'xăng còn lên 40.000 đồng'",
+      "link": "https://vnexpress.net/bi-phat-7-5-trieu-dong-vi-loan-tin-xang-con-len-40-000-dong-5049824.html",
+      "summary": "Nam thanh niên bán xe điện, 23 tuổi, bị phạt 7,5 triệu đồng vì đăng thông tin thất thiệt 'mai kia xăng còn lên 40.000 đồng một lít'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:03:03+07:00",
+      "fetched": "2026-03-12T21:41:37.118906+07:00"
+    },
+    {
+      "id": "c65a2a680320970a4f64411080065385",
+      "title": "Phái đoàn Hungary đến tìm hiểu vấn đề, Ukraine xem như khách không mời",
+      "link": "https://thanhnien.vn/phai-doan-hungary-den-tim-hieu-van-de-ukraine-xem-nhu-khach-khong-moi-185260312170130811.htm",
+      "summary": "Căng thẳng giữa Ukraine và Hungary về đường ống dẫn dầu Nga dường như leo thang hôm 12.3 khi Budapest tuyên bố đã cử một phái đoàn đến đàm phán, nhưng Kyiv nói phái đoàn đó là khách không mời mà đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:01:00+07:00",
+      "fetched": "2026-03-12T21:41:40.173203+07:00"
+    },
+    {
+      "id": "13d8a9757656b877eed66d4918de2c2a",
+      "title": "Khách kiện khách sạn vì phát hiện nhân viên trốn dưới giường",
+      "link": "https://vnexpress.net/khach-kien-khach-san-vi-phat-hien-nhan-vien-tron-duoi-giuong-5049636.html",
+      "summary": "Gia đình Thái Lan kiện khách sạn ở Thượng Hải sau khi phát hiện nam nhân viên lẻn vào phòng, trốn dưới giường và nói rằng mình vào nhầm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:00:00+07:00",
+      "fetched": "2026-03-12T21:41:37.119061+07:00"
+    },
+    {
+      "id": "fa93b2af2694c336b99cc14be1c2e033",
+      "title": "Bức xúc vì xếp hàng nhiều giờ chờ soi chiếu an ninh ở sân bay Mỹ",
+      "link": "https://vnexpress.net/buc-xuc-vi-xep-hang-nhieu-gio-cho-soi-chieu-an-ninh-o-san-bay-my-5049557.html",
+      "summary": "Nhiều hành khách tại sân bay Mỹ phải xếp hàng nhiều giờ chờ soi chiếu, thậm chí tràn ra bãi để xe, song vẫn lỡ chuyến vì hàng loạt nhân viên an ninh nghỉ việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:00:00+07:00",
+      "fetched": "2026-03-12T21:41:37.119223+07:00"
+    },
+    {
+      "id": "da85a9f726ad2eb5afd6ed95e9f81b9e",
+      "title": "Huyền thoại về hội sát thủ say thuốc phiện",
+      "link": "https://vnexpress.net/huyen-thoai-ve-hoi-sat-thu-say-thuoc-phien-5049802.html",
+      "summary": "Thế kỷ XII, các nhà thám hiểm phương Tây tin rằng trong các dãy núi Syria, tồn tại một nhóm sát thủ được cho sử dụng thuốc phiện để sở hữu kỹ năng ám sát tinh nhuệ, khiến cả Trung Đông khiếp sợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:00:00+07:00",
+      "fetched": "2026-03-12T21:41:37.119387+07:00"
+    },
+    {
+      "id": "5360ff8139cc8c3c8dd69d71734b1d47",
+      "title": "Hàng loạt xe Honda khuyến mãi lệ phí trước bạ tháng 3",
+      "link": "https://vnexpress.net/hang-loat-xe-honda-khuyen-mai-le-phi-truoc-ba-thang-3-5049627.html",
+      "summary": "Mức giảm 50-100% lệ phí trước bạ được Honda áp dụng đồng loạt cho các mẫu xe, đi kèm ưu đãi hàng chục triệu đồng khi ‘thu cũ, đổi mới’.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:00:00+07:00",
+      "fetched": "2026-03-12T21:41:37.119542+07:00"
+    },
+    {
+      "id": "516d36ba1a82e381683e675197953b86",
+      "title": "Xem nhanh 20h ngày 12.3: Kéo dài metro Bến Thành-Suối Tiên tới Long Thành | TP.HCM sẽ dỡ vòng xoay Điện Biên Phủ?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-123-keo-dai-metro-ben-thanh-suoi-tien-toi-long-thanh-tphcm-se-do-vong-xoay-dien-bien-phu-185260312193212108.htm",
+      "summary": "'Xem nhanh 20h' ngày 12.3 có nhiều tin tức đáng chú ý về: Kéo dài metro Bến Thành - Suối Tiên tới sân bay Long Thành theo lệnh khẩn cấp; Vì sao TP.HCM tính tháo dỡ vòng xoay Điện Biên Phủ?;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:00:00+07:00",
+      "fetched": "2026-03-12T21:41:40.173356+07:00"
+    },
+    {
+      "id": "6cc6bf56a3c26e7c97bea67f5974e7c5",
+      "title": "Giày loafer giúp nàng hoàn thiện bản phối nhẹ nhàng và thanh lịch",
+      "link": "https://thanhnien.vn/thoi-trang-tre/giay-loafer-giup-nang-hoan-thien-ban-phoi-nhe-nhang-va-thanh-lich-185260311145006286.htm",
+      "summary": "Giày loafer là lựa chọn hoàn hảo giúp nàng hoàn thiện bản phối nhẹ nhàng mà vẫn giữ được nét thanh lịch, tinh tế trong phong cách hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T13:00:00+07:00",
+      "fetched": "2026-03-12T21:41:40.173508+07:00"
+    },
+    {
+      "id": "fa93b2af2694c336b99cc14be1c2e033",
+      "title": "Bức xúc vì xếp hàng nhiều giờ chờ soi chiếu an ninh ở sân bay Mỹ",
+      "link": "https://vnexpress.net/buc-xuc-vi-xep-hang-nhieu-gio-cho-soi-chieu-an-ninh-o-san-bay-my-5049557.html",
+      "summary": "Nhiều hành khách tại sân bay Mỹ phải xếp hàng nhiều giờ chờ soi chiếu, thậm chí tràn ra bãi để xe, song vẫn lỡ chuyến vì hàng loạt nhân viên an ninh nghỉ việc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-12T13:00:00+07:00",
+      "fetched": "2026-03-12T21:41:43.011174+07:00"
+    },
+    {
+      "id": "312c9dd74414256a8b9e6229378b696a",
+      "title": "'Thỏ ơi' của Trấn Thành gây tranh cãi",
+      "link": "https://vnexpress.net/tho-oi-cua-tran-thanh-gay-tranh-cai-5039486.html",
+      "summary": "Phim 18+ \"Thỏ ơi\" (Trấn Thành) bị nhận xét diễn xuất thiếu đồng đều, kịch bản u tối, cái kết gây tranh cãi, hiện doanh thu đạt 438 đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-12T12:55:09+07:00",
+      "fetched": "2026-03-12T21:41:37.119705+07:00"
     },
     {
       "id": "8cf25d01b411ff3c6bde3b85f2d0c2e7",
