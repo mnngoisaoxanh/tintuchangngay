@@ -1,7 +1,17 @@
 window.newsData_2026_03_14 = {
   "date": "2026-03-14",
-  "lastUpdated": "2026-03-14T01:29:29.202703+07:00",
+  "lastUpdated": "2026-03-14T03:23:07.222606+07:00",
   "articles": [
+    {
+      "id": "ead9d8140afeb93a01dfb689947ba9fe",
+      "title": "Tiếp tục chi mạnh quỹ bình ổn lên tới 5.000 đồng/lít để giữ nguyên giá xăng dầu",
+      "link": "https://tuoitre.vn/tiep-tuc-chi-manh-quy-binh-on-len-toi-5-000-dong-lit-de-giu-nguyen-gia-xang-dau-20260313172906353.htm",
+      "summary": "Bộ Công Thương vừa công bố điều hành giá các mặt hàng xăng dầu ngày 14-3 với mức giữ ổn định khi tiếp tục thực hiện chi mạnh quỹ bình ổn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T03:23:01.458742+07:00",
+      "fetched": "2026-03-14T03:23:01.458962+07:00"
+    },
     {
       "id": "6c48de6e396aaec57965b94547796409",
       "title": "Dự kiến trình Quốc hội thông qua Luật Đô thị đặc biệt cho TP.HCM trong năm 2026",
@@ -153,6 +163,16 @@ window.newsData_2026_03_14 = {
       "fetched": "2026-03-14T01:29:23.167516+07:00"
     },
     {
+      "id": "48d18359adee2ec60d3a2d316f5cd4af",
+      "title": "Những người hùng thầm lặng tại sân Nha Trang",
+      "link": "https://thanhnien.vn/nhung-nguoi-hung-tham-lang-tai-san-nha-trang-185260313202122564.htm",
+      "summary": "VCK TNSV THACO cup 2026 đang diễn ra sôi nổi với chất lượng cao, nhờ sự đồng lòng góp sức thầm lặng nhưng quan trọng của thầy trò Trường ĐH Nha Trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T19:49:00+07:00",
+      "fetched": "2026-03-14T03:23:00.372365+07:00"
+    },
+    {
       "id": "0e2d9266300c5f7b9438c86aa267732a",
       "title": "Thách thức với Israel khi Iran dùng tên lửa mang đầu đạn chùm",
       "link": "https://vnexpress.net/thach-thuc-voi-israel-khi-iran-dung-ten-lua-mang-dau-dan-chum-5049907.html",
@@ -161,6 +181,36 @@ window.newsData_2026_03_14 = {
       "category": "Thế giới",
       "published": "2026-03-13T18:00:00+07:00",
       "fetched": "2026-03-14T01:29:24.859645+07:00"
+    },
+    {
+      "id": "e97a4001f26f2da6a3315efe7f0e90f4",
+      "title": "5 món ăn quen thuộc giúp tăng sinh lý nam",
+      "link": "https://vnexpress.net/5-mon-an-quen-thuoc-giup-tang-sinh-ly-nam-5050110.html",
+      "summary": "Hàu, lựu và dưa hấu cung cấp dưỡng chất hỗ trợ lưu thông máu, cân bằng hormone và góp phần cải thiện sinh lý nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T18:00:00+07:00",
+      "fetched": "2026-03-14T03:22:57.469525+07:00"
+    },
+    {
+      "id": "5d0d0614408931c1275ca96467571aaf",
+      "title": "Xả quỹ bình ổn, giữ nguyên giá xăng",
+      "link": "https://vnexpress.net/xa-quy-binh-on-giu-nguyen-gia-xang-5050087.html",
+      "summary": "Giá xăng dầu được giữ nguyên so với hôm qua sau khi nhà điều hành cho xả quỹ bình ổn lần thứ tư trong gần một tuần qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:36:30+07:00",
+      "fetched": "2026-03-14T03:22:57.469885+07:00"
+    },
+    {
+      "id": "5d0d0614408931c1275ca96467571aaf",
+      "title": "Xả quỹ bình ổn, giữ nguyên giá xăng",
+      "link": "https://vnexpress.net/xa-quy-binh-on-giu-nguyen-gia-xang-5050087.html",
+      "summary": "Giá xăng dầu được giữ nguyên so với hôm qua sau khi nhà điều hành cho xả quỹ bình ổn lần thứ tư trong gần một tuần qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-13T17:36:30+07:00",
+      "fetched": "2026-03-14T03:23:03.687222+07:00"
     },
     {
       "id": "a8aa95f9f863a68b5ee2d8a59236c329",
