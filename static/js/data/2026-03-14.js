@@ -1,6 +1,6 @@
 window.newsData_2026_03_14 = {
   "date": "2026-03-14",
-  "lastUpdated": "2026-03-14T03:23:07.222606+07:00",
+  "lastUpdated": "2026-03-14T05:20:10.283551+07:00",
   "articles": [
     {
       "id": "ead9d8140afeb93a01dfb689947ba9fe",
@@ -161,6 +161,216 @@ window.newsData_2026_03_14 = {
       "category": "Tổng hợp",
       "published": "2026-03-14T01:29:23.167306+07:00",
       "fetched": "2026-03-14T01:29:23.167516+07:00"
+    },
+    {
+      "id": "60ac37aa9ab4b21051af589ec45d7630",
+      "title": "Tử vi ngày 14 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-14-thang-3-con-giap-nao-may-man-hom-nay-185260314001608702.htm",
+      "summary": "Tử vi ngày 14 tháng 3 mang đến những gợi ý mang tính tham khảo cho 12 con giáp khi tuần làm việc đang khép lại. Vận khí hôm nay thiên về sự tỉnh táo trong quyết định, đặc biệt liên quan đến các lựa chọn cá nhân. Tài lộc không đến từ sự liều lĩnh mà từ cách bạn xử lý các cơ hội quen thuộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:15:00+07:00",
+      "fetched": "2026-03-14T05:19:59.971555+07:00"
+    },
+    {
+      "id": "40e516a9c134e2a62391f75e2a2bf03e",
+      "title": "Giải mã chiến lược mới của Israel ở Iran",
+      "link": "https://thanhnien.vn/giai-ma-chien-luoc-moi-cua-israel-o-iran-185260313223448451.htm",
+      "summary": "Bằng việc dùng máy bay không người lái tấn công các địa điểm an ninh ở Iran từ sự \"chỉ điểm\" của người dân nước này, Israel dường như đang muốn thúc đẩy người dân Iran đứng lên chống lại chính quyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:15:00+07:00",
+      "fetched": "2026-03-14T05:19:59.971748+07:00"
+    },
+    {
+      "id": "4fc48d93a3f9dbf7018864a0919e8fe3",
+      "title": "Lịch thi đấu V-League cực hay hôm nay: Ninh Bình sẽ hết hẳn cơ hội đua vô địch nếu thua CLB CAHN",
+      "link": "https://thanhnien.vn/lich-thi-dau-v-league-cuc-hay-hom-nay-ninh-binh-se-het-han-co-hoi-dua-vo-dich-neu-thua-clb-cahn-185260313225247344.htm",
+      "summary": "Ở vòng 16 V-League 2025 - 2026 diễn ra vào tối qua 13.3, CLB Nam Định thắng Thanh Hóa 1-0 để vươn lên hạng 7 trên bảng xếp hạng với 21 điểm. Đây là chiến thắng thứ 3 liên tiếp của đội bóng thành Nam kể từ khi HLV Vũ Hồng Việt quay trở lại ghế HLV trưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:11:00+07:00",
+      "fetched": "2026-03-14T05:19:59.971910+07:00"
+    },
+    {
+      "id": "592c1133bfcc11c4af922ac61353ed48",
+      "title": "Tuyết phủ trắng sa mạc nóng nhất thế giới",
+      "link": "https://vnexpress.net/tuyet-phu-trang-sa-mac-nong-nhat-the-gioi-5050179.html",
+      "summary": "Những cồn cát màu cam biểu tượng của sa mạc Sahara vừa được thay bằng lớp tuyết trắng xóa khi nhiệt độ giảm xuống dưới 0°C.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:00:00+07:00",
+      "fetched": "2026-03-14T05:19:56.509988+07:00"
+    },
+    {
+      "id": "30054451c3576bc78780abac2dd3cdd3",
+      "title": "Túi tiền người Mỹ bắt đầu ngấm đòn xung đột Trung Đông",
+      "link": "https://vnexpress.net/tui-tien-nguoi-my-bat-dau-ngam-don-xung-dot-trung-dong-5050121.html",
+      "summary": "Giá dầu 100 USD mỗi thùng khiến gia đình Mỹ tốn thêm hơn 100 USD tiền xăng mỗi tháng, chưa kể lạm phát có thể tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:00:00+07:00",
+      "fetched": "2026-03-14T05:19:56.510175+07:00"
+    },
+    {
+      "id": "f5ff55533800cd483ca9d2a24e7b3bc7",
+      "title": "5 thực phẩm tuyệt đối không nên để ở nhiệt độ thường",
+      "link": "https://vnexpress.net/5-thuc-pham-tuyet-doi-khong-nen-de-o-nhiet-do-thuong-5049603.html",
+      "summary": "Nhiều người có thói quen để siro, mứt hay trứng luộc trên kệ bếp, nhưng chuyên gia cảnh báo đây là môi trường lý tưởng để vi khuẩn phát triển, gây nguy cơ ngộ độc thực phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:00:00+07:00",
+      "fetched": "2026-03-14T05:19:56.510347+07:00"
+    },
+    {
+      "id": "86c369c5eca86043071068c482d3cad4",
+      "title": "Mục tiêu khác biệt của Mỹ - Israel khi tấn công Iran",
+      "link": "https://vnexpress.net/muc-tieu-khac-biet-cua-my-israel-khi-tan-cong-iran-5049146.html",
+      "summary": "Dù phối hợp chặt chẽ, Mỹ và Israel đang lộ rõ những bất đồng về mục tiêu cũng như thời điểm kết thúc chiến dịch tấn công Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:00:00+07:00",
+      "fetched": "2026-03-14T05:19:56.510511+07:00"
+    },
+    {
+      "id": "f55b95e2eeb01e66b164db6ef4cc5059",
+      "title": "Hyundai Stargazer - MPV giá rẻ nhất Việt Nam sắp có bản mới",
+      "link": "https://vnexpress.net/hyundai-stargazer-mpv-gia-re-nhat-viet-nam-sap-co-ban-moi-5050099.html",
+      "summary": "Bản nâng cấp của Hyundai Stargazer đang được các đại lý nhận cọc, thời gian ra mắt dự kiến khoảng cuối tháng 3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:00:00+07:00",
+      "fetched": "2026-03-14T05:19:56.510696+07:00"
+    },
+    {
+      "id": "33e0fb83c7c2033dac81588ba482b20a",
+      "title": "Bộ An ninh Nội địa Mỹ đóng cửa gần một tháng",
+      "link": "https://thanhnien.vn/bo-an-ninh-noi-dia-my-dong-cua-gan-mot-thang-185260313224027948.htm",
+      "summary": "Thượng viện Mỹ ngày 12.3 lại một lần nữa không thông qua được dự luật cấp ngân sách cho Bộ An ninh Nội địa (DHS), khi bộ này phải đóng cửa gần một tháng qua, theo Đài CBS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:00:00+07:00",
+      "fetched": "2026-03-14T05:19:59.972067+07:00"
+    },
+    {
+      "id": "882cbdb037d2d3e5d4664967a6a2a071",
+      "title": "Huyền thoại F-14 nhận kết cục buồn, không quân Iran suy sụp vì Mỹ-Israel đánh phá",
+      "link": "https://thanhnien.vn/huyen-thoai-f-14-nhan-ket-cuc-buon-khong-quan-iran-suy-sup-vi-my-israel-danh-pha-185260313214500625.htm",
+      "summary": "Những hình ảnh vệ tinh mới nhất hé lộ số phận của một số chiến đấu cơ F-14 cuối cùng còn hoạt động trên thế giới, qua đó cũng cho thấy mức độ tàn phá mà các đòn tấn công của Mỹ và Israel đã gây ra cho không quân Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:00:00+07:00",
+      "fetched": "2026-03-14T05:19:59.972237+07:00"
+    },
+    {
+      "id": "9a7303895be45f0766ac01a2e8048430",
+      "title": "Sở Y tế TP.HCM 'chống' nhũng nhiễu trong thẩm định, cấp phép",
+      "link": "https://thanhnien.vn/so-y-te-tphcm-chong-nhung-nhieu-trong-tham-dinh-cap-phep-185260313212017439.htm",
+      "summary": "Sở Y tế TP.HCM khẳng định mọi hành vi lợi dụng nhiệm vụ thẩm định, cấp phép để gây khó khăn cho người dân và doanh nghiệp đều phải được xem xét, xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:00:00+07:00",
+      "fetched": "2026-03-14T05:19:59.972397+07:00"
+    },
+    {
+      "id": "2cd7a71fa8d71af34df6d94773a317cc",
+      "title": "TP.HCM nắng gắt, người lao động vất vả chống nóng, chuyên gia thời tiết cảnh báo điều nguy hiểm",
+      "link": "https://thanhnien.vn/nang-gat-nguoi-lao-dong-vat-va-chong-nong-1852603131712187.htm",
+      "summary": "Thời tiết TP.HCM những ngày giữa tháng 3 bắt đầu oi bức rõ rệt, nhiều thời điểm nhiệt độ tiệm cận hoặc vượt 35°C. Từ gần trưa đến đầu giờ chiều, mặt đường hắt hơi nóng khiến người đi đường phải che chắn kín mít; nhiều tài xế công nghệ và lao động ngoài trời cho biết cảm giác “hầm, bí” kéo dài nhiều ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:00:00+07:00",
+      "fetched": "2026-03-14T05:19:59.972549+07:00"
+    },
+    {
+      "id": "fcb22941ef8d64d074defc97807d9bcb",
+      "title": "Những loại gạo mà người bị tiểu đường không nên bỏ qua",
+      "link": "https://thanhnien.vn/nhung-loai-gao-ma-nguoi-bi-tieu-duong-khong-nen-bo-qua-185260313112424951.htm",
+      "summary": "Đối với người mắc tiểu đường, cơm trắng thường bị điểm mặt vì làm tăng đường huyết nhanh. Tuy nhiên, theo chuyên trang sức khỏe Healthshots, không phải loại gạo nào cũng gây tác động giống nhau. Một số lựa chọn có chỉ số đường huyết thấp hơn, giàu chất xơ và dưỡng chất có thể giúp kiểm soát đường má...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:00:00+07:00",
+      "fetched": "2026-03-14T05:19:59.972722+07:00"
+    },
+    {
+      "id": "9e7c55ca8a3d5949e8e1c1a49a0ca5a0",
+      "title": "Hôm nay 14.3 là ngày đặc biệt gì mà nhiều người quan tâm, rộn ràng chia sẻ?",
+      "link": "https://thanhnien.vn/hom-nay-143-la-ngay-dac-biet-gi-ma-nhieu-nguoi-quan-tam-ron-rang-chia-se-185260313073602842.htm",
+      "summary": "Không phải ai cũng biết hôm nay 14.3 là ngày đặc biệt tôn vinh số Pi (3.14) trong toán học. 14.3 còn là ngày gì nữa mà người Việt đặc biệt quan tâm, chia sẻ lên mạng xã hội?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:00:00+07:00",
+      "fetched": "2026-03-14T05:19:59.972877+07:00"
+    },
+    {
+      "id": "6999dcfaf4189b8aa9bebcd1b24d87d0",
+      "title": "'Xăng dầu tăng giá thì khó thật nhưng biển là nghề của tụi tôi'",
+      "link": "https://thanhnien.vn/xang-dau-tang-gia-thi-kho-that-nhung-bien-la-nghe-cua-tui-toi-185260312180244895.htm",
+      "summary": "Giữa lằn ranh lời - lỗ trong đợt biến động giá xăng dầu, những con tàu của ngư dân miền Trung vẫn kiên cường rẽ sóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T22:00:00+07:00",
+      "fetched": "2026-03-14T05:19:59.973028+07:00"
+    },
+    {
+      "id": "86c369c5eca86043071068c482d3cad4",
+      "title": "Mục tiêu khác biệt của Mỹ - Israel khi tấn công Iran",
+      "link": "https://vnexpress.net/muc-tieu-khac-biet-cua-my-israel-khi-tan-cong-iran-5049146.html",
+      "summary": "Dù phối hợp chặt chẽ, Mỹ và Israel đang lộ rõ những bất đồng về mục tiêu cũng như thời điểm kết thúc chiến dịch tấn công Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-13T22:00:00+07:00",
+      "fetched": "2026-03-14T05:20:03.361769+07:00"
+    },
+    {
+      "id": "12566f6f948db6bb6b93df65f2dbbeb0",
+      "title": "Lời thề giữa đảo Gạc Ma vang mãi suốt 38 năm qua",
+      "link": "https://thanhnien.vn/loi-the-giua-dao-gac-ma-vang-mai-suot-38-nam-qua-185260313122027649.htm",
+      "summary": "38 năm trôi qua, hình ảnh người lính trẻ quấn lá cờ Tổ quốc quanh thân mình trước làn đạn pháo kẻ thù vẫn không phai trong ký ức dân tộc, như lời nhắc về 64 người con đất Việt đã nằm lại giữa biển khơi Gạc Ma, Cô Lin và Len Đao ngày 14.3.1988.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T21:52:00+07:00",
+      "fetched": "2026-03-14T05:19:59.973179+07:00"
+    },
+    {
+      "id": "79acb3178e58ef1779bdc309f2e8b516",
+      "title": "Tình hình Trung Đông mới nhất sáng 14.3: Israel tính đánh Iran thêm vài tuần nữa?",
+      "link": "https://thanhnien.vn/tinh-hinh-trung-dong-moi-nhat-sang-143-israel-tinh-danh-iran-them-vai-tuan-nua-185260313205759922.htm",
+      "summary": "Xung đột ở Trung Đông đã bước sang tuần thứ ba, các cuộc tấn công ăn miếng trả miếng giữa Mỹ - Israel với Iran vẫn tiếp diễn căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T21:30:00+07:00",
+      "fetched": "2026-03-14T05:19:59.973329+07:00"
+    },
+    {
+      "id": "4f5059c81297fa489fd648367e9389b1",
+      "title": "Chiến sự Ukraine ngày 1.479: Mỹ nới lỏng cấm vận Nga, châu Âu phản đối kịch liệt",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1479-my-noi-long-cam-van-nga-chau-au-phan-doi-kich-liet-185260313181147573.htm",
+      "summary": "Việc Mỹ nới lỏng cấm vận đối với dầu mỏ Nga bị xem là sai lầm, làm suy yếu hệ thống trừng phạt Nga và giúp nước này có nguồn tài chính để duy trì xung đột tại Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T21:30:00+07:00",
+      "fetched": "2026-03-14T05:19:59.973478+07:00"
+    },
+    {
+      "id": "cfe0b9767671d67936e94315c441989f",
+      "title": "Bổ sung dầu cá omega-3: Ai nên dùng nhất?",
+      "link": "https://thanhnien.vn/bo-sung-dau-ca-omega-3-ai-nen-dung-nhat-185260313213847269.htm",
+      "summary": "Nhiều người có thói quen bổ sung dầu cá omega-3 mỗi ngày để chăm sóc sức khỏe. Loại dưỡng chất này được cho là có thể hỗ trợ tim mạch, cải thiện chức năng não, giảm viêm... khi sử dụng đúng cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T21:04:00+07:00",
+      "fetched": "2026-03-14T05:19:59.973645+07:00"
+    },
+    {
+      "id": "caa3997b2d20f201d8bcfbe2876fe780",
+      "title": "Cạnh tranh hấp dẫn",
+      "link": "https://thanhnien.vn/canh-tranh-hap-dan-185260313201826237.htm",
+      "summary": "Hôm qua 13.3, đội chủ nhà Trường ĐH Nha Trang và Trường ĐH Tôn Đức Thắng tạo nên những cung bậc cảm xúc khó quên ở vòng chung kết giải bóng đá Thanh Niên sinh viên VN lần IV - 2026 cúp THACO (TNSV THACO cup 2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T20:50:00+07:00",
+      "fetched": "2026-03-14T05:19:59.973797+07:00"
     },
     {
       "id": "48d18359adee2ec60d3a2d316f5cd4af",
