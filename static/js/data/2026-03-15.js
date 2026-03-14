@@ -1,7 +1,17 @@
 window.newsData_2026_03_15 = {
   "date": "2026-03-15",
-  "lastUpdated": "2026-03-15T03:17:35.470690+07:00",
+  "lastUpdated": "2026-03-15T05:16:59.803368+07:00",
   "articles": [
+    {
+      "id": "fa98950a1b206a137c7bb0d0ec193d62",
+      "title": "Thời tiết ngày bầu cử 15-3: Bắc Bộ mưa phùn, Trung Bộ mưa rào, Nam Bộ nắng nóng",
+      "link": "https://tuoitre.vn/thoi-tiet-ngay-bau-cu-15-3-bac-bo-mua-phun-trung-bo-mua-rao-nam-bo-nang-nong-2026031416205319.htm",
+      "summary": "Hôm nay 15-3, ngày người dân cả nước đi bầu cử, thời tiết có sự khác biệt giữa ba miền: Bắc Bộ mưa phùn, Trung Bộ mưa rào, Nam Bộ nắng nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:16:51.502890+07:00",
+      "fetched": "2026-03-15T05:16:51.503135+07:00"
+    },
     {
       "id": "fd0be4db5fc2e1c2cb3d7fd87729a665",
       "title": "Cô gái Việt cao 1m95 và đồng đội vô địch chặng 2 bóng chuyền Thái Lan",
@@ -171,6 +181,136 @@ window.newsData_2026_03_15 = {
       "category": "Tổng hợp",
       "published": "2026-03-15T01:24:25.253997+07:00",
       "fetched": "2026-03-15T01:24:25.254229+07:00"
+    },
+    {
+      "id": "05dd3d169ffc0f15fdc9b6a78f74082f",
+      "title": "Tử vi ngày 15 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-15-thang-3-con-giap-nao-may-man-hom-nay-185260314231753129.htm",
+      "summary": "Tử vi ngày 15 tháng 3 mang đến những gợi ý mang tính tham khảo cho 12 con giáp ngày cuối tuần. Hôm nay vận khí thiên về đời sống cá nhân, cảm xúc và những lựa chọn nhỏ trong sinh hoạt. Tài lộc không đến từ sự bứt phá mà từ cách bạn giữ sự cân bằng giữa chi tiêu, nghỉ ngơi và các mối quan hệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T22:15:00+07:00",
+      "fetched": "2026-03-15T05:16:50.354270+07:00"
+    },
+    {
+      "id": "2e22d7d91aec974bd16fb8626547c09f",
+      "title": "Rộn ràng ngày hội non sông",
+      "link": "https://thanhnien.vn/ron-rang-ngay-hoi-non-song-185260314212108108.htm",
+      "summary": "Hôm nay 15.3, gần 79 triệu cử tri trên cả nước đi bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031. Khắp nơi trên mọi miền Tổ quốc, không khí hân hoan đón chào ngày hội non sông với cờ hoa, biểu ngữ rực rỡ, trang trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T22:15:00+07:00",
+      "fetched": "2026-03-15T05:16:50.354438+07:00"
+    },
+    {
+      "id": "616769bf06f5c80403658461590a76d4",
+      "title": "Xung đột Nga - Ukraine leo thang giữa bế tắc đàm phán",
+      "link": "https://thanhnien.vn/xung-dot-nga-ukraine-leo-thang-giua-be-tac-dam-phan-185260314220521207.htm",
+      "summary": "Nga và Ukraine tiếp tục cáo buộc tấn công lãnh thổ của nhau, sau khi Tổng thống Ukraine Volodymyr Zelensky cho rằng Mỹ muốn hoãn vòng đàm phán 3 bên mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T22:14:00+07:00",
+      "fetched": "2026-03-15T05:16:50.354595+07:00"
+    },
+    {
+      "id": "027ef2d045f7ef10b0cc9790fda4f307",
+      "title": "Kỳ vọng từ ngày hội non sông",
+      "link": "https://thanhnien.vn/ky-vong-tu-ngay-hoi-non-song-185260314225647249.htm",
+      "summary": "Cử tri cả nước hướng tới ngày hội bầu cử toàn dân, đồng thời gửi gắm kỳ vọng vào một nhiệm kỳ Quốc hội, HĐND các cấp đổi mới, đáp ứng yêu cầu của thời kỳ 'vươn mình' của dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T22:08:00+07:00",
+      "fetched": "2026-03-15T05:16:50.354749+07:00"
+    },
+    {
+      "id": "fdc86fd16a0ef952dabfcc1dba4da30c",
+      "title": "Hôm nay chủ nhật ngày 15.3 là ngày gì? Lịch âm, lịch vạn niên có đặc biệt?",
+      "link": "https://thanhnien.vn/hom-nay-chu-nhat-ngay-153-la-ngay-gi-lich-am-lich-van-nien-co-dac-biet-185260314165352764.htm",
+      "summary": "Bạn có biết ngày 15.3 là ngày gì không? Dưới đây là thông tin chi tiết về âm lịch, dương lịch hôm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T22:00:00+07:00",
+      "fetched": "2026-03-15T05:16:50.354915+07:00"
+    },
+    {
+      "id": "4abb332877eb0b35f310f33356175869",
+      "title": "Chiến sự Ukraine ngày 1.480: Nga tấn công ồ ạt, NATO có động thái tức thì?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1480-nga-tan-cong-o-at-nato-co-dong-thai-tuc-thi-185260314112427514.htm",
+      "summary": "Không quân Ukraine cáo buộc Nga đã triển khai các máy bay ném bom chiến lược Tu-95MS và Tu-160 để phóng tên lửa hành trình vào Ukraine trong đêm 13.3 và rạng sáng 14.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T22:00:00+07:00",
+      "fetched": "2026-03-15T05:16:50.355090+07:00"
+    },
+    {
+      "id": "5eba4c62809f1047df258bdbd08fadcd",
+      "title": "Thủy lôi - 'sát thủ ngầm' có thể làm tê liệt Eo biển Hormuz",
+      "link": "https://vnexpress.net/thuy-loi-sat-thu-ngam-co-the-lam-te-liet-eo-bien-hormuz-5049888.html",
+      "summary": "Không chỉ tên lửa hay UAV, thủy lôi là mối lo ngại lớn ở Eo biển Hormuz bởi vũ khí bất đối xứng giá rẻ này đủ sức làm gián đoạn tuyến dầu mỏ huyết mạch của thế giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-14T22:00:00+07:00",
+      "fetched": "2026-03-15T05:16:53.314615+07:00"
+    },
+    {
+      "id": "66e67dfc29540ecf5742479b249992e9",
+      "title": "Ai thay thế HLV Mai Đức Chung: Câu hỏi lớn cần trả lời cho giai đoạn mới của bóng đá nữ Việt Nam",
+      "link": "https://thanhnien.vn/ai-thay-the-hlv-mai-duc-chung-cau-hoi-lon-can-tra-loi-cho-giai-doan-moi-cua-bong-da-nu-viet-nam-18526031418421519.htm",
+      "summary": "Thất bại tại Asian Cup nữ 2026 khiến đội tuyển nữ Việt Nam lỡ cơ hội dự World Cup lần thứ hai, đồng thời mở ra giai đoạn chuyển giao quan trọng khi HLV Mai Đức Chung quyết định rút lui sau nhiều năm gắn bó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T21:42:00+07:00",
+      "fetched": "2026-03-15T05:16:50.355244+07:00"
+    },
+    {
+      "id": "e6e46fc11ad6460dffba25c75337da2f",
+      "title": "Ngày hội bầu cử toàn dân",
+      "link": "https://thanhnien.vn/ngay-hoi-bau-cu-toan-dan-185260314220901991.htm",
+      "summary": "Hôm nay (15.3), gần 79 triệu cử tri trên cả nước bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T21:34:00+07:00",
+      "fetched": "2026-03-15T05:16:50.355393+07:00"
+    },
+    {
+      "id": "fef0ee530bc03755df74826c9711c504",
+      "title": "Đại tá Huỳnh Ngọc Liêm chỉ mẹo phòng tránh lộ dữ liệu cá nhân khi dùng AI",
+      "link": "https://thanhnien.vn/dai-ta-huynh-ngoc-liem-chi-meo-phong-tranh-lo-du-lieu-ca-nhan-khi-dung-ai-185260314220028611.htm",
+      "summary": "Trước nguy cơ lộ dữ liệu cá nhân khi dùng các công cụ AI, người dùng cần cẩn trọng với những vấn đề gì? Đại tá, tiến sĩ Huỳnh Ngọc Liêm, Phó giám đốc Công an tỉnh Lâm Đồng, chỉ mẹo phòng tránh rủi ro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T21:30:00+07:00",
+      "fetched": "2026-03-15T05:16:50.355540+07:00"
+    },
+    {
+      "id": "282ff66de0debd83727e0e05613b44f7",
+      "title": "Tình hình Iran, Trung Đông mới nhất sáng 15.3",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-sang-153-185260314222709143.htm",
+      "summary": "Bước sang tuần thứ ba của cuộc xung đột, chưa bên nào có dấu hiệu xuống thang, trong khi các cuộc tấn công vẫn tiếp diễn khắp nhiều nơi ở vùng Vịnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T21:00:00+07:00",
+      "fetched": "2026-03-15T05:16:50.355693+07:00"
+    },
+    {
+      "id": "512ee6a88ca5d9839a6cc7eba2968f7a",
+      "title": "Arsenal thắng kịch tính Everton, Chelsea khiến trọng tài ‘sốc’ vì hành động dị và cái kết đắng",
+      "link": "https://thanhnien.vn/arsenal-thang-kich-tinh-everton-chelsea-khien-trong-tai-soc-vi-hanh-dong-di-va-cai-ket-dang-185260315023841966.htm",
+      "summary": "Chelsea đã khiến CĐV thất vọng khi để thua 0-1 trước Newcastle ở trận đấu vòng 31 Ngoại hạng Anh 2025 - 2026, diễn ra rạng sáng 15.3. Trái ngược với Chelsea, Arsenal dù gặp đôi chút khó khăn nhưng vẫn có 3 điểm nhờ những sự điều chỉnh hợp lý của HLV Arteta.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T20:56:00+07:00",
+      "fetched": "2026-03-15T05:16:50.355847+07:00"
+    },
+    {
+      "id": "f79f677378e1dc938075dc13c04cca9d",
+      "title": "Đội bóng xứ sen hồng thắp lại hy vọng",
+      "link": "https://thanhnien.vn/doi-bong-xu-sen-hong-thap-lai-hy-vong-18526031421044267.htm",
+      "summary": "Lượt trận cuối bảng B chứng kiến đội Trường ĐH Đồng Tháp vùng lên mạnh mẽ để thắp lại hy vọng vào tứ kết giải bóng đá Thanh Niên sinh viên VN lần IV - 2026 cúp THACO (TNSV THACO cup 2026). Trong khi đó, đội Trường ĐH Công nghệ Đồng Nai giành vé đi tiếp với ngôi nhất bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T20:21:00+07:00",
+      "fetched": "2026-03-15T05:16:50.355993+07:00"
     },
     {
       "id": "0d2ceeabc5ad20daa634d74490fb9d48",
