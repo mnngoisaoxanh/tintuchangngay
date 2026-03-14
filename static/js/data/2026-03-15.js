@@ -1,7 +1,27 @@
 window.newsData_2026_03_15 = {
   "date": "2026-03-15",
-  "lastUpdated": "2026-03-15T01:24:33.917972+07:00",
+  "lastUpdated": "2026-03-15T03:17:35.470690+07:00",
   "articles": [
+    {
+      "id": "fd0be4db5fc2e1c2cb3d7fd87729a665",
+      "title": "Cô gái Việt cao 1m95 và đồng đội vô địch chặng 2 bóng chuyền Thái Lan",
+      "link": "https://tuoitre.vn/co-gai-viet-cao-1m95-va-dong-doi-vo-dich-chang-2-bong-chuyen-thai-lan-20260314220046123.htm",
+      "summary": "Tối ngày 14-3, CLB Nakhon Ratchasima VC với sự góp mặt của Lý Thị Luyến đã giành chức vô địch chặng 2 Giải bóng chuyền Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T03:17:28.637602+07:00",
+      "fetched": "2026-03-15T03:17:28.637730+07:00"
+    },
+    {
+      "id": "e76615151610ebca93fe8f6e1e91800e",
+      "title": "Sáng nay, gần 79 triệu cử tri cả nước đi bầu cử đại biểu Quốc hội và HĐND nhiệm kỳ mới",
+      "link": "https://tuoitre.vn/sang-nay-gan-79-trieu-cu-tri-ca-nuoc-di-bau-cu-dai-bieu-quoc-hoi-va-hdnd-nhiem-ky-moi-20260314211557006.htm",
+      "summary": "Sáng nay 15-3, gần 79 triệu cử tri cả nước sẽ tham gia bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026-2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T03:17:28.637353+07:00",
+      "fetched": "2026-03-15T03:17:28.637586+07:00"
+    },
     {
       "id": "9ca61c1b71e6c2cbcf180721091943e6",
       "title": "Món xáo gà phải có mắm tôm khiến không ít người Nghệ An phản ứng",
@@ -151,6 +171,46 @@ window.newsData_2026_03_15 = {
       "category": "Tổng hợp",
       "published": "2026-03-15T01:24:25.253997+07:00",
       "fetched": "2026-03-15T01:24:25.254229+07:00"
+    },
+    {
+      "id": "0d2ceeabc5ad20daa634d74490fb9d48",
+      "title": "Bayern thoát thua dù nhận 2 thẻ đỏ ở Bundesliga",
+      "link": "https://vnexpress.net/bayern-thoat-thua-du-nhan-2-the-do-o-bundesliga-5050547.html",
+      "summary": "Dù bị truất quyền thi đấu hai cầu thủ, Bayern vẫn cầm hòa chủ nhà Leverkusen 1-1 ở vòng 26 Bundesliga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T19:39:10+07:00",
+      "fetched": "2026-03-15T03:17:24.524059+07:00"
+    },
+    {
+      "id": "0d2ceeabc5ad20daa634d74490fb9d48",
+      "title": "Bayern thoát thua dù nhận 2 thẻ đỏ ở Bundesliga",
+      "link": "https://vnexpress.net/bayern-thoat-thua-du-nhan-2-the-do-o-bundesliga-5050547.html",
+      "summary": "Dù bị truất quyền thi đấu hai cầu thủ, Bayern vẫn cầm hòa chủ nhà Leverkusen 1-1 ở vòng 26 Bundesliga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-14T19:39:10+07:00",
+      "fetched": "2026-03-15T03:17:35.465838+07:00"
+    },
+    {
+      "id": "f36ba452b0758fde431ab2e4e6978d24",
+      "title": "Nghị sĩ Iran cáo buộc Ukraine là 'bên tham chiến' ở Trung Đông",
+      "link": "https://vnexpress.net/nghi-si-iran-cao-buoc-ukraine-la-ben-tham-chien-o-trung-dong-5050538.html",
+      "summary": "Một nghị sĩ Iran nói Ukraine đã trở thành bên tham chiến trong cuộc xung đột ở Trung Đông do hỗ trợ Israel, cảnh báo Tehran có thể nhắm mục tiêu vào nước này để đáp trả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T18:58:32+07:00",
+      "fetched": "2026-03-15T03:17:24.524235+07:00"
+    },
+    {
+      "id": "f36ba452b0758fde431ab2e4e6978d24",
+      "title": "Nghị sĩ Iran cáo buộc Ukraine là 'bên tham chiến' ở Trung Đông",
+      "link": "https://vnexpress.net/nghi-si-iran-cao-buoc-ukraine-la-ben-tham-chien-o-trung-dong-5050538.html",
+      "summary": "Một nghị sĩ Iran nói Ukraine đã trở thành bên tham chiến trong cuộc xung đột ở Trung Đông do hỗ trợ Israel, cảnh báo Tehran có thể nhắm mục tiêu vào nước này để đáp trả.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-14T18:58:32+07:00",
+      "fetched": "2026-03-15T03:17:29.992728+07:00"
     },
     {
       "id": "768af899f086b42d2c8f87b6f8f5bdc8",
