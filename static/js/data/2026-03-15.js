@@ -1,7 +1,97 @@
 window.newsData_2026_03_15 = {
   "date": "2026-03-15",
-  "lastUpdated": "2026-03-15T17:20:56.908008+07:00",
+  "lastUpdated": "2026-03-15T19:31:23.456006+07:00",
   "articles": [
+    {
+      "id": "0382732b0ad3789356c2e83e110f57d7",
+      "title": "Thanh Thúy lần thứ 2 đánh bại Bích Thủy tại giải bóng chuyền Nhật Bản",
+      "link": "https://tuoitre.vn/thanh-thuy-lan-thu-2-danh-bai-bich-thuy-tai-giai-bong-chuyen-nhat-ban-2026031516084216.htm",
+      "summary": "Lần gặp nhau thứ 2 liên tiếp giữa Thanh Thúy và Bích Thủy ở Giải bóng chuyền vô địch Nhật Bản hôm 15-3 kết thúc với kết quả như cũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T19:31:14.972961+07:00",
+      "fetched": "2026-03-15T19:31:14.973095+07:00"
+    },
+    {
+      "id": "e9f12848bfa74bd331dafcd5875b1616",
+      "title": "Á hậu Thúy Vân, MaiQuinn, Quang Huy chữa lành cùng Chuyến xe âm nhạc xanh",
+      "link": "https://tuoitre.vn/a-hau-thuy-van-maiquinn-quang-huy-chua-lanh-cung-chuyen-xe-am-nhac-xanh-20260315161916051.htm",
+      "summary": "Mùa 2 Chuyến xe âm nhạc xanh lên sóng tập đầu tiên. Giữa không gian rừng xanh bạt ngàn, các nghệ sĩ hòa mình vào thiên nhiên, cùng hát và trò chuyện trong một sân khấu tối giản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T19:31:14.972836+07:00",
+      "fetched": "2026-03-15T19:31:14.972949+07:00"
+    },
+    {
+      "id": "f4a4f36f019a3188a20f755abca1695a",
+      "title": "Màu áo xanh thanh niên xung kích hỗ trợ cử tri tại các điểm bầu cử TP.HCM",
+      "link": "https://tuoitre.vn/mau-ao-xanh-thanh-nien-xung-kich-ho-tro-cu-tri-tai-cac-diem-bau-cu-tp-hcm-20260315155636306.htm",
+      "summary": "Phát huy tinh thần “Đâu cần thanh niên có, việc gì khó có thanh niên”, sinh viên, đoàn viên TP.HCM đã tận tình hỗ trợ cử tri tại các điểm bỏ phiếu trong ngày hội non sông 15-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T19:31:14.972702+07:00",
+      "fetched": "2026-03-15T19:31:14.972823+07:00"
+    },
+    {
+      "id": "495424d9b9820111db2d8a058813c5cd",
+      "title": "Kỷ niệm ngày cưới của Chiều Xuân đúng ngày bầu cử, cục trưởng Xuân Bắc dẫn vợ con đi bỏ phiếu",
+      "link": "https://tuoitre.vn/ky-niem-ngay-cuoi-cua-chieu-xuan-dung-ngay-bau-cu-cuc-truong-xuan-bac-dan-vo-con-di-bo-phieu-20260315160946432.htm",
+      "summary": "Vợ chồng nghệ sĩ Chiều Xuân cùng nhiều nghệ sĩ khác hòa vào không khí của gần 79 triệu cử tri trên cả nước thực hiện quyền công dân, đi bầu cử hôm nay 15-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T19:31:14.972576+07:00",
+      "fetched": "2026-03-15T19:31:14.972691+07:00"
+    },
+    {
+      "id": "2c4d3dcb0ae2a11f90ff9aab30832f75",
+      "title": "Thùng phiếu bầu cử đến tận nhà Mẹ Việt Nam anh hùng 101 tuổi",
+      "link": "https://tuoitre.vn/thung-phieu-bau-cu-den-tan-nha-me-viet-nam-anh-hung-101-tuoi-20260315160756998.htm",
+      "summary": "Sáng 15-3, các thành viên tổ bầu cử mang thùng phiếu phụ đến tận nhà Mẹ Việt Nam anh hùng H Nar Rơ Ông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T19:31:14.972449+07:00",
+      "fetched": "2026-03-15T19:31:14.972564+07:00"
+    },
+    {
+      "id": "114fcc282fc4c29e3050a01ebb85be0b",
+      "title": "Ông Trump kêu gọi đưa tàu chiến đến eo biển Hormuz: Pháp từ chối, nhiều nước dè dặt",
+      "link": "https://tuoitre.vn/ong-trump-keu-goi-dua-tau-chien-den-eo-bien-hormuz-phap-tu-choi-nhieu-nuoc-de-dat-20260315155344035.htm",
+      "summary": "Các nước đều thận trọng trước đề nghị của Tổng thống Mỹ Donald Trump gửi tàu chiến hộ tống tàu chở dầu qua eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T19:31:14.972319+07:00",
+      "fetched": "2026-03-15T19:31:14.972437+07:00"
+    },
+    {
+      "id": "2521af1646cb8e336fb894dd7b61f08d",
+      "title": "Thủ tướng Bỉ thúc giục EU đàm phán với Nga",
+      "link": "https://tuoitre.vn/thu-tuong-bi-thuc-giuc-eu-dam-phan-voi-nga-20260315170657689.htm",
+      "summary": "EU có nguy cơ phải nhận “thỏa thuận bất lợi” nếu bị gạt khỏi các cuộc đàm phán hòa bình Ukraine, Thủ tướng Bỉ cảnh báo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T19:31:14.972188+07:00",
+      "fetched": "2026-03-15T19:31:14.972307+07:00"
+    },
+    {
+      "id": "7ad1e15406fde4ba086269b90be5ca8b",
+      "title": "Khai thác keo dưới đường dây 110kV, hai người bị thương nặng do phóng điện",
+      "link": "https://tuoitre.vn/khai-thac-keo-duoi-duong-day-110kv-hai-nguoi-bi-thuong-nang-do-phong-dien-20260315171348875.htm",
+      "summary": "Trong lúc khai thác keo tại khu vực núi Rộc Tông, hai người dân ở xã Ba Tơ (tỉnh Quảng Ngãi) bất ngờ bị phóng điện từ đường dây cao thế 110kV, dẫn đến bị thương nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T19:31:14.972042+07:00",
+      "fetched": "2026-03-15T19:31:14.972175+07:00"
+    },
+    {
+      "id": "e12ceb2619cce38470c5100cf2c2fda9",
+      "title": "Bắt quả tang vụ vận chuyển gần 100kg thuốc nổ ở đảo Lý Sơn",
+      "link": "https://tuoitre.vn/bat-qua-tang-vu-van-chuyen-gan-100kg-thuoc-no-o-dao-ly-son-20260315165421915.htm",
+      "summary": "Bộ đội biên Quảng Ngãi vừa bắt quả tang người đàn ông vận chuyển gần 100kg chất rắn nghi là thuốc nổ ở đảo Lý Sơn. Bước đầu, người này khai tất cả là thuốc nổ, vận chuyển để đưa lên tàu cá đánh bắt hải sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T19:31:14.971783+07:00",
+      "fetched": "2026-03-15T19:31:14.972026+07:00"
+    },
     {
       "id": "dc0a3b25ee77bb3d33d394778aa67209",
       "title": "'Tiền mua xe chưa là gì: Gửi xe hàng chục triệu/năm, bảo dưỡng 'tằn tiện' cũng 4 triệu...'",
@@ -333,6 +423,176 @@ window.newsData_2026_03_15 = {
       "fetched": "2026-03-15T13:44:08.305178+07:00"
     },
     {
+      "id": "162a8e8fb5d07354f88fa525024c0edc",
+      "title": "Học phí thấp nhất Trường ĐH Tôn Đức Thắng năm 2026 ở mức 20,5 triệu đồng/năm",
+      "link": "https://thanhnien.vn/hoc-phi-thap-nhat-truong-dh-ton-duc-thang-nam-2026-o-muc-205-trieu-dong-nam-185260315190810367.htm",
+      "summary": "Trường ĐH Tôn Đức Thắng công bố học phí dự kiến năm học 2026-2027 gồm nhiều mức khác nhau tùy theo chương trình và cơ sở đào tạo, trong đó thấp nhất 20,5 triệu đồng/năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:29:00+07:00",
+      "fetched": "2026-03-15T19:31:13.895038+07:00"
+    },
+    {
+      "id": "e4fc5ba225d6b7e3629ef16a832e5866",
+      "title": "Công an cảnh báo nguy cơ lộ thông tin từ việc đăng thẻ cử tri trên Facebook",
+      "link": "https://thanhnien.vn/cong-an-canh-bao-nguy-co-lo-thong-tin-tu-viec-dang-the-cu-tri-tren-facebook-185260315190251377.htm",
+      "summary": "Theo công an, việc đăng hình ảnh thẻ cử tri mà chưa làm mờ trên mạng xã hội tiềm ẩn nguy cơ lộ thông tin cá nhân, dẫn tới kẻ xấu lợi dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:25:00+07:00",
+      "fetched": "2026-03-15T19:31:13.895241+07:00"
+    },
+    {
+      "id": "01bf450e0dea03e2a29467f1f6a17a79",
+      "title": "Cụ ông 106 tuổi 16 lần đi bầu cử Quốc hội, bỏ phiếu đúng ngày sinh nhật",
+      "link": "https://thanhnien.vn/cu-ong-106-tuoi-16-lan-di-bau-cu-quoc-hoi-bo-phieu-dung-ngay-sinh-nhat-18526031518422353.htm",
+      "summary": "Lần bỏ phiếu thứ 16 bầu cử đại biểu Quốc hội khóa XVI, HĐND các cấp nhiệm kỳ 2026 - 2031 của ông Đồng Phúc Túc, trú tại tổ 3, P.Bắc Kạn, tỉnh Thái Nguyên cũng là sinh nhật 106 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:23:00+07:00",
+      "fetched": "2026-03-15T19:31:13.895408+07:00"
+    },
+    {
+      "id": "60f8104f18ecefe0f328eff0c22eaa66",
+      "title": "Dụng ý của Mỹ khi nới cấm vận Nga",
+      "link": "https://thanhnien.vn/dung-y-cua-my-khi-noi-cam-van-nga-185260315180420274.htm",
+      "summary": "Tổng thống Mỹ Donald Trump tiếp tục bảo vệ quyết định nới lỏng cấm vận dầu mỏ Nga, hành động được cho là mang một mục đích ẩn ý về xung đột Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:22:00+07:00",
+      "fetched": "2026-03-15T19:31:13.895565+07:00"
+    },
+    {
+      "id": "4de4abacd171a494b37fe9a620915bd6",
+      "title": "Hội đàm thương mại Mỹ - Trung, chuẩn bị cho cuộc gặp thượng đỉnh",
+      "link": "https://thanhnien.vn/hoi-dam-thuong-mai-my-trung-chuan-bi-cho-cuoc-gap-thuong-dinh-185260315191030916.htm",
+      "summary": "Phái đoàn thương mại hai nước Mỹ và Trung Quốc đã bắt đầu cuộc làm việc tại Pháp, thảo luận về nhiều vấn đề trước thềm hội nghị thượng đỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:19:00+07:00",
+      "fetched": "2026-03-15T19:31:13.895725+07:00"
+    },
+    {
+      "id": "d9dbee9de4973d8f09dee81d26c0dca1",
+      "title": "Cô gái diễn cảnh tình tứ với Hiếu Thứ Hai",
+      "link": "https://vnexpress.net/co-gai-dien-canh-tinh-tu-voi-hieu-thu-hai-5050676.html",
+      "summary": "Mẫu ảnh Joan Tina, 22 tuổi, người dân tộc Ê đê, gây chú ý khi đóng MV cùng rapper Hiếu Thứ Hai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:00:00+07:00",
+      "fetched": "2026-03-15T19:31:10.694567+07:00"
+    },
+    {
+      "id": "a0aaae0d9235a1426507688f27f2aab6",
+      "title": "Meta có thể sa thải nhân viên quy mô lớn vì AI",
+      "link": "https://vnexpress.net/meta-co-the-sa-thai-nhan-vien-quy-mo-lon-vi-ai-5050671.html",
+      "summary": "Meta cân nhắc cắt giảm lượng lớn nhân sự trong bối cảnh chi phí đầu tư hạ tầng AI tăng mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:00:00+07:00",
+      "fetched": "2026-03-15T19:31:10.694743+07:00"
+    },
+    {
+      "id": "ca5a2e8716796c70ad49f8cbae3c6e21",
+      "title": "Tuyến bay thương mại không dừng nào hiện dài nhất thế giới?",
+      "link": "https://vnexpress.net/tuyen-bay-thuong-mai-khong-dung-nao-hien-dai-nhat-the-gioi-5049294.html",
+      "summary": "Quãng đường hơn 15.300 km, thời gian bay liên tục hơn 18 tiếng là tuyến bay không dừng chở khách dài nhất thế giới cả về thời gian và quãng đường, tính đến năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:00:00+07:00",
+      "fetched": "2026-03-15T19:31:10.694906+07:00"
+    },
+    {
+      "id": "37bcc00386f66bd857f761dd5657852e",
+      "title": "Nhân viên quán ăn Tây Ninh trúng độc đắc: Mua ô tô tặng nhiều người",
+      "link": "https://thanhnien.vn/nhan-vien-quan-an-tay-ninh-trung-doc-dac-mua-o-to-tang-nhieu-nguoi-185260315153039976.htm",
+      "summary": "Sau khi trúng độc đắc xổ số miền Nam đài Bến Tre, nam nhân viên quán ăn ở Tây Ninh đã mua ô tô tặng cho nhiều người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:00:00+07:00",
+      "fetched": "2026-03-15T19:31:13.895882+07:00"
+    },
+    {
+      "id": "c83f7e0ca6270bea415901f2c4780188",
+      "title": "Cuộc đoàn tụ gượng gạo của cô gái bị vứt bỏ 28 năm trước",
+      "link": "https://vnexpress.net/cuoc-doan-tu-guong-gao-cua-co-gai-bi-vut-bo-28-nam-truoc-5050610.html",
+      "summary": "Bị ông nội vứt bỏ từ lúc 2 ngày tuổi, Hong Yangli vượt nửa vòng trái đất về nhận mẹ nhưng đối diện màn đoàn tụ lạnh lẽo, dấy lên nhiều tranh cãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:50:40+07:00",
+      "fetched": "2026-03-15T19:31:10.695085+07:00"
+    },
+    {
+      "id": "ce0482cbbc10a8c8d835deb0c6f4931d",
+      "title": "Sun PhuQuoc Airways mở đường bay thẳng đến Nha Trang, Đà Nẵng",
+      "link": "https://vnexpress.net/sun-phuquoc-airways-mo-duong-bay-thang-den-nha-trang-da-nang-5050704.html",
+      "summary": "Đường bay Phú Quốc - Nha Trang tần suất 4 chuyến mỗi tuần còn Phú Quốc - Đà Nẵng bay hàng ngày, bắt đầu khai thác từ 15/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:45:00+07:00",
+      "fetched": "2026-03-15T19:31:10.695241+07:00"
+    },
+    {
+      "id": "97519baa94cb2a9a3f15afad7f5654e6",
+      "title": "Người trẻ Hà Nội tạo bất ngờ trong ngày trọng đại của đất nước",
+      "link": "https://thanhnien.vn/nguoi-tre-ha-noi-tao-bat-ngo-trong-ngay-trong-dai-cua-dat-nuoc-185260315181519606.htm",
+      "summary": "Hàng nghìn đoàn viên, thanh niên của thủ đô đã tạo ra những điểm nhấn bất ngờ và thú vị khi tình nguyện tham gia phục vụ công tác bầu cử trong Ngày hội non sông, để lại những dấu ấn tốt đẹp cho cử tri.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:43:00+07:00",
+      "fetched": "2026-03-15T19:31:13.896066+07:00"
+    },
+    {
+      "id": "f25eb217da7c2cb2d35f9cd418e2d70a",
+      "title": "Cựu sinh viên trường ĐH Thủy Lợi ‘truyền lửa’ đam mê cho con từ khán đài TNSV THACO Cup 2026",
+      "link": "https://thanhnien.vn/cuu-sinh-vien-truong-dh-thuy-loi-truyen-lua-dam-me-cho-con-tu-khan-dai-tnsv-thaco-cup-2026-185260315183917562.htm",
+      "summary": "Vượt quãng đường 15 km, anh Nguyễn Hải Đăng cùng vợ và hai con nhỏ đến sân cổ vũ đội Trường ĐH Thủy Lợi. Anh không chỉ đi tìm lại ký ức thanh xuân của chính mình mà còn muốn gieo những hạt mầm đam mê, tinh thần thể thao cao thượng vào tâm hồn các con ngay từ thuở nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:40:00+07:00",
+      "fetched": "2026-03-15T19:31:13.896228+07:00"
+    },
+    {
+      "id": "e72ed971554115014d55b06fa1ff7b22",
+      "title": "Tiền vệ Hoàng Hên: 'Tự hào khi lần đầu đi bầu cử tại Việt Nam'",
+      "link": "https://vnexpress.net/tien-ve-hoang-hen-tu-hao-khi-lan-dau-di-bau-cu-tai-viet-nam-5050700.html",
+      "summary": "Có mặt tại điểm bầu cử ở Từ Liêm, cầu thủ gốc Brazil Đỗ Hoàng Hên lần đầu cầm lá phiếu cử tri, chia sẻ niềm vui khi thực hiện quyền công dân, sau khi nhập quốc tịch Việt Nam vào cuối năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:28:05+07:00",
+      "fetched": "2026-03-15T19:31:10.695402+07:00"
+    },
+    {
+      "id": "cd4af8df2848d6c1b4b1d030461fb30e",
+      "title": "Ông Zelensky cáo buộc Nga cung cấp UAV tự sát cho Iran",
+      "link": "https://vnexpress.net/ong-zelensky-cao-buoc-nga-cung-cap-uav-tu-sat-cho-iran-5050690.html",
+      "summary": "Tổng thống Ukraine nói rằng Nga đang cung cấp UAV cho Iran để tập kích căn cứ Mỹ và các nước Trung Đông, nhưng không đưa ra bằng chứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:25:52+07:00",
+      "fetched": "2026-03-15T19:31:10.695567+07:00"
+    },
+    {
+      "id": "cd4af8df2848d6c1b4b1d030461fb30e",
+      "title": "Ông Zelensky cáo buộc Nga cung cấp UAV tự sát cho Iran",
+      "link": "https://vnexpress.net/ong-zelensky-cao-buoc-nga-cung-cap-uav-tu-sat-cho-iran-5050690.html",
+      "summary": "Tổng thống Ukraine nói rằng Nga đang cung cấp UAV cho Iran để tập kích căn cứ Mỹ và các nước Trung Đông, nhưng không đưa ra bằng chứng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-15T11:25:52+07:00",
+      "fetched": "2026-03-15T19:31:16.695311+07:00"
+    },
+    {
+      "id": "53537618ee7504de438ec49739946745",
+      "title": "Truy bắt nghi phạm nổ súng đoạt mạng hai người",
+      "link": "https://vnexpress.net/truy-bat-nghi-pham-no-sung-doat-mang-hai-nguoi-5050702.html",
+      "summary": "Ngô Duy Thắng bị cáo buộc nổ súng bắt chết vợ và một người đàn ông cùng xã rồi bỏ trốn, ngày 15/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:25:05+07:00",
+      "fetched": "2026-03-15T19:31:10.695721+07:00"
+    },
+    {
       "id": "2379f27333605d95abacaaf4932a7577",
       "title": "Bóng đá nữ Việt Nam cần một 'nền móng' mới",
       "link": "https://tuoitre.vn/bong-da-nu-viet-nam-can-mot-nen-mong-moi-20260315083813209.htm",
@@ -481,6 +741,156 @@ window.newsData_2026_03_15 = {
       "category": "Tổng hợp",
       "published": "2026-03-15T11:24:29.054750+07:00",
       "fetched": "2026-03-15T11:24:29.054976+07:00"
+    },
+    {
+      "id": "47e1137bd15e7737352b37f0d8559ad9",
+      "title": "Bắt người đàn ông chở gần 100 kg thuốc nổ ra biển đặc khu Lý Sơn",
+      "link": "https://thanhnien.vn/bat-nguoi-dan-ong-cho-gan-100-kg-thuoc-no-ra-bien-dac-khu-ly-son-185260315180740775.htm",
+      "summary": "Lực lượng Bộ đội biên phòng tỉnh Quảng Ngãi phối hợp các đơn vị bắt quả tang một người đàn ông ở đặc khu Lý Sơn vận chuyển trái phép gần 100 kg thuốc nổ bằng xe máy lúc rạng sáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:24:00+07:00",
+      "fetched": "2026-03-15T19:31:13.896385+07:00"
+    },
+    {
+      "id": "62b7454e599dfe94be77073a6bc78ae4",
+      "title": "Khai thác keo dưới đường dây điện cao thế, 2 người nhập viện cấp cứu",
+      "link": "https://thanhnien.vn/khai-thac-keo-duoi-duong-day-dien-cao-the-2-nguoi-nhap-vien-cap-cuu-185260315175008405.htm",
+      "summary": "Trong lúc khai thác keo dưới đường dây điện 110 kV tại khu vực núi Rộc Tông, xã Ba Tơ (Quảng Ngãi), 2 người đàn ông bất ngờ bị phóng điện nghi từ đường dây điện cao thế, phải nhập viện cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:20:00+07:00",
+      "fetched": "2026-03-15T19:31:13.896535+07:00"
+    },
+    {
+      "id": "bfc0764315a58aa80d26213882c11de5",
+      "title": "Vừa cho thuê nhà, vừa buôn bán sẽ tính thuế thế nào?",
+      "link": "https://thanhnien.vn/vua-cho-thue-nha-vua-buon-ban-se-tinh-thue-the-nao-185260315173544135.htm",
+      "summary": "Thuế TP.Hà Nội vừa trả lời làm rõ một số thắc mắc của hộ kinh doanh liên quan tới kê khai, nộp thuế trong trường hợp vừa cho thuê nhà, vừa buôn bán; cho nhiều doanh nghiệp cùng thuê 1 căn nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:17:00+07:00",
+      "fetched": "2026-03-15T19:31:13.896681+07:00"
+    },
+    {
+      "id": "c975d16f54005114d2f2ffe4a3b5d9cc",
+      "title": "Sách nghiên cứu về nam tính",
+      "link": "https://vnexpress.net/sach-nghien-cuu-ve-nam-tinh-5050694.html",
+      "summary": "''Những nam tính'' của Raewyn Connell là công trình nghiên cứu kinh điển, giúp độc giả nhìn lại cách xã hội định nghĩa về giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:10:04+07:00",
+      "fetched": "2026-03-15T19:31:10.695871+07:00"
+    },
+    {
+      "id": "6205de4af698f1700667f3dc5faa41c0",
+      "title": "Chín người bị bắt vì lập 60 công ty 'ma' mua bán hóa đơn 6.000 tỷ đồng",
+      "link": "https://vnexpress.net/chin-nguoi-bi-bat-vi-lap-60-cong-ty-ma-mua-ban-hoa-don-6-000-ty-dong-5050698.html",
+      "summary": "Nguyễn Thị Hoài Thương cùng đồng phạm bị cáo buộc lập 60 doanh nghiệp \"ma\" để mua bán trái phép hóa đơn GTGT 6.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:09:55+07:00",
+      "fetched": "2026-03-15T19:31:10.696054+07:00"
+    },
+    {
+      "id": "780a34b18c96ec49c532e3763a4a4f5e",
+      "title": "Việt Nam vào top 4 thị trường bất động sản hàng hiệu toàn cầu",
+      "link": "https://vnexpress.net/viet-nam-vao-top-4-thi-truong-bat-dong-san-hang-hieu-toan-cau-5050603.html",
+      "summary": "Với hơn 50 dự án gắn thương hiệu quốc tế, Việt Nam hiện đứng thứ 4 thế giới về số lượng bất động sản hàng hiệu, theo Savills.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:06:01+07:00",
+      "fetched": "2026-03-15T19:31:10.696209+07:00"
+    },
+    {
+      "id": "eb78f2d7a9ba927f375b2bb551a6fb15",
+      "title": "Tôi bối rối vì lần đầu làm cha đã sắp đón hai đứa con sinh đôi",
+      "link": "https://vnexpress.net/toi-boi-roi-vi-lan-dau-lam-cha-da-sap-don-hai-dua-con-sinh-doi-5050649.html",
+      "summary": "Tôi háo hức vì sắp đón hai đứa con chào đời, nhưng cũng từng mất ngủ vì câu hỏi: 'Cả hai cùng khóc thì bế bé nào trước'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:00:00+07:00",
+      "fetched": "2026-03-15T19:31:10.696364+07:00"
+    },
+    {
+      "id": "4f05618758766ca2ea3bbbc8081b2e88",
+      "title": "Quán ăn đường phố Bangkok đồng loạt tăng giá",
+      "link": "https://vnexpress.net/quan-an-duong-pho-bangkok-dong-loat-tang-gia-5050642.html",
+      "summary": "Các quán ăn đường phố ở Bangkok tăng 5 baht cho mỗi món chế biến sẵn từ tháng này, do chi phí năng lượng, vận chuyển, nguyên liệu tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:00:00+07:00",
+      "fetched": "2026-03-15T19:31:10.696523+07:00"
+    },
+    {
+      "id": "e305c138bd4a1fc3df051652336fb2c5",
+      "title": "Tôi ngày càng yêu người vợ không cao sang, không đẹp của mình",
+      "link": "https://vnexpress.net/toi-ngay-cang-yeu-nguoi-vo-khong-cao-sang-khong-dep-cua-minh-5050633.html",
+      "summary": "\"Vợ ơi, nay vợ chồng mình gần 60 rồi nhỉ nhưng thầy vẫn yêu em như ngày nào, yêu cả đời này em nhé\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:00:00+07:00",
+      "fetched": "2026-03-15T19:31:10.696675+07:00"
+    },
+    {
+      "id": "95059f11b12d8db12038fa3bebade2db",
+      "title": "Những tính năng có thể trang bị trên iPhone gập",
+      "link": "https://vnexpress.net/nhung-tinh-nang-co-the-trang-bi-tren-iphone-gap-5049838.html",
+      "summary": "Mẫu iPhone màn hình gập đầu tiên của Apple có thể mang tên Ultra, dùng chip 2 nm, bản lề kim loại lỏng và giá gần 3.000 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:00:00+07:00",
+      "fetched": "2026-03-15T19:31:10.696827+07:00"
+    },
+    {
+      "id": "42dfd23f17594a2393261887578eddc0",
+      "title": "Kính râm khẳng định khí chất, nâng tầm phong cách quý cô",
+      "link": "https://thanhnien.vn/thoi-trang-tre/kinh-ram-khang-dinh-khi-chat-nang-tam-phong-cach-quy-co-185260314091718038.htm",
+      "summary": "Kính râm từ lâu đã vượt khỏi vai trò của một phụ kiện chống nắng thông thường để trở thành tuyên ngôn phong cách của những quý cô hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T11:00:00+07:00",
+      "fetched": "2026-03-15T19:31:13.896827+07:00"
+    },
+    {
+      "id": "95059f11b12d8db12038fa3bebade2db",
+      "title": "Những tính năng có thể trang bị trên iPhone gập",
+      "link": "https://vnexpress.net/nhung-tinh-nang-co-the-trang-bi-tren-iphone-gap-5049838.html",
+      "summary": "Mẫu iPhone màn hình gập đầu tiên của Apple có thể mang tên Ultra, dùng chip 2 nm, bản lề kim loại lỏng và giá gần 3.000 USD.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-15T11:00:00+07:00",
+      "fetched": "2026-03-15T19:31:21.910538+07:00"
+    },
+    {
+      "id": "c48d46aa851362b3691f0724c1e20f91",
+      "title": "Công an tỉnh Đồng Nai triệt phá đường dây mua bán hóa đơn hơn 6.000 tỉ đồng",
+      "link": "https://thanhnien.vn/cong-an-tinh-dong-nai-triet-pha-duong-day-mua-ban-hoa-don-hon-6000-ti-dong-185260315173537147.htm",
+      "summary": "Quá trình điều tra ban đầu xác định, 9 bị can đã thành lập hơn 60 công ty 'ma' để mua bán trái phép hơn 10.000 tờ hóa đơn, với tổng số tiền hơn 6.000 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T10:51:00+07:00",
+      "fetched": "2026-03-15T19:31:13.896974+07:00"
+    },
+    {
+      "id": "2548db5a1c058520d31e86aea49c9322",
+      "title": "72 triệu cử tri đã đi bỏ phiếu, 5 tỉnh sát mức 100%",
+      "link": "https://thanhnien.vn/72-trieu-cu-tri-da-di-bo-phieu-5-tinh-sat-muc-100-185260315172550752.htm",
+      "summary": "Tính đến chiều nay, tổng số cử tri đã tham gia bỏ phiếu trên cả nước là khoảng 72 triệu cử tri, đạt tỷ lệ hơn 93%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T10:48:00+07:00",
+      "fetched": "2026-03-15T19:31:13.897151+07:00"
+    },
+    {
+      "id": "781a81b6fccc34395d802279b503f41b",
+      "title": "Ukraine đề nghị giúp chống UAV, ông Trump nói không cần, Iran chế giễu",
+      "link": "https://thanhnien.vn/ukraine-de-nghi-giup-chong-uav-ong-trump-noi-khong-can-iran-che-gieu-185260315170802015.htm",
+      "summary": "Đại diện ngoại giao Iran tại Ukraine Shahriar Amouzegar đã gọi lời đề nghị của Kyiv về việc hỗ trợ Mỹ và các nước vùng Vịnh đối phó máy bay không người lái của Tehran là ‘trò đùa’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T10:29:00+07:00",
+      "fetched": "2026-03-15T19:31:13.897299+07:00"
     },
     {
       "id": "f27226de9e101a3402e1c5234a6ea075",
