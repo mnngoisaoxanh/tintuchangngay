@@ -1,7 +1,47 @@
 window.newsData_2026_03_15 = {
   "date": "2026-03-15",
-  "lastUpdated": "2026-03-15T13:44:14.525255+07:00",
+  "lastUpdated": "2026-03-15T15:26:48.275196+07:00",
   "articles": [
+    {
+      "id": "d26c2689b802e44515a5550ea18e6583",
+      "title": "Serbia, quốc gia châu Âu đầu tiên vận hành tên lửa Trung Quốc CM-400AKG",
+      "link": "https://tuoitre.vn/serbia-quoc-gia-chau-au-dau-tien-van-hanh-ten-lua-trung-quoc-cm-400akg-20260315125503431.htm",
+      "summary": "Serbia xác nhận đã mua tên lửa CM-400AKG của Trung Quốc trang bị cho không quân, trở thành quốc gia châu Âu đầu tiên có vũ khí này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T15:26:40.863295+07:00",
+      "fetched": "2026-03-15T15:26:40.863413+07:00"
+    },
+    {
+      "id": "78cbd73d86df59cb072c8dbe30a51243",
+      "title": "Hai xe máy tông nhau trực diện, 1 người chết, 2 người bị thương",
+      "link": "https://tuoitre.vn/hai-xe-may-tong-nhau-truc-dien-lam-1-nguoi-chet-2-nguoi-bi-thuong-2026031510303136.htm",
+      "summary": "Phòng Cảnh sát giao thông Công an tỉnh Đồng Tháp cho biết đang phối hợp với các đơn vị nghiệp vụ liên quan điều tra nguyên nhân của vụ tai nạn giao thông giữa hai xe máy khiến 1 người chết và 2 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T15:26:40.863161+07:00",
+      "fetched": "2026-03-15T15:26:40.863283+07:00"
+    },
+    {
+      "id": "6f151f7177ee3be947937422603b9b12",
+      "title": "Sao Việt khoe những khoảnh khắc khó quên khi đi bầu cử",
+      "link": "https://tuoitre.vn/sao-viet-khoe-nhung-khoanh-khac-kho-quen-khi-di-bau-cu-20260315111008243.htm",
+      "summary": "Không chỉ người dân, nhiều nghệ sĩ háo hức thực hiện quyền công dân trong ngày bầu cử. Họ dậy sớm để đến điểm bỏ phiếu, bầu ra những đại biểu đại diện cho ý chí, nguyện vọng và quyền làm chủ của nhân dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T15:26:40.863013+07:00",
+      "fetched": "2026-03-15T15:26:40.863148+07:00"
+    },
+    {
+      "id": "d9853e982afd441d54dd9d3ce1f5f8c8",
+      "title": "Cao tốc Hậu Giang - Cà Mau tạm dừng khai thác từ 13h ngày 16-3, người dân đi lại thế nào?",
+      "link": "https://tuoitre.vn/cao-toc-hau-giang-ca-mau-tam-dung-khai-thac-tu-13h-ngay-16-3-nguoi-dan-di-lai-the-nao-20260315134513238.htm",
+      "summary": "Ban Quản lý dự án Mỹ Thuận thông báo tạm dừng khai thác tuyến cao tốc Hậu Giang - Cà Mau từ ngày 16-3. Các xe có thể lưu thông trên cao tốc Cần Thơ - Hậu Giang rồi ra nút giao IC5 ra quốc lộ 1 và Quản Lộ - Phụng Hiệp để về Cà Mau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T15:26:40.862778+07:00",
+      "fetched": "2026-03-15T15:26:40.862998+07:00"
+    },
     {
       "id": "2695192ab790ae8d3c661d5b62b1e3f7",
       "title": "Kung fu Trung Quốc vô dụng vì giữ lại quá nhiều những thứ thừa thãi",
@@ -303,6 +343,36 @@ window.newsData_2026_03_15 = {
       "fetched": "2026-03-15T11:24:29.054976+07:00"
     },
     {
+      "id": "b121fa2ce32d1919f3b0bd4b95647f42",
+      "title": "Ngày bầu cử của những cử tri đặc biệt tại Cơ sở cai nghiện số 1, TP.HCM",
+      "link": "https://thanhnien.vn/ngay-bau-cu-cua-nhung-cu-tri-dac-biet-tai-co-so-cai-nghien-so-1-tphcm-185260315145638775.htm",
+      "summary": "Những cử tri đặc biệt tại Cơ sở cai nghiện số 1 (xã Xuân Thới Sơn, TP.HCM) cũng được Công an TP.HCM tạo điều kiện tối đa để thực hiện quyền công dân, bỏ phiếu lựa chọn đại biểu Quốc hội khóa XVI và HĐND các cấp nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T08:24:00+07:00",
+      "fetched": "2026-03-15T15:26:39.774162+07:00"
+    },
+    {
+      "id": "321ef96d57ac3dea6accb166294da0be",
+      "title": "Vì sao trend trò chuyện với bản thân 10 năm trước 'gây sốt' mạng?",
+      "link": "https://thanhnien.vn/vi-sao-trend-tro-chuyen-voi-ban-than-10-nam-truoc-gay-sot-mang-18526031514220497.htm",
+      "summary": "Nếu gặp lại chính mình của 10 năm trước, bạn sẽ kể điều gì về cuộc sống hiện tại? Trào lưu “trò chuyện với bản thân 10 năm trước” đang lan truyền trên mạng xã hội, khiến nhiều người nhìn lại chặng đường trưởng thành của chính mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T08:24:00+07:00",
+      "fetched": "2026-03-15T15:26:39.774341+07:00"
+    },
+    {
+      "id": "3f9c919d872202303973c90a01ba8a7a",
+      "title": "1.000 học bổng Liên bang Nga, đặc biệt ngành điện hạt nhân yêu cầu ra sao?",
+      "link": "https://thanhnien.vn/1000-hoc-bong-lien-bang-nga-dac-biet-nganh-dien-hat-nhan-yeu-cau-ra-sao-185260315132714971.htm",
+      "summary": "Bộ GD-ĐT thông báo tuyển chọn ứng viên để cấp 1.000 học bổng du học Liên Bang Nga, trong đó, ưu tiên các ngành học về công nghệ cao, trí tuệ nhân tạo, công nghệ điện toán đám mây... Đặc biệt là ngành điện hạt nhân với những quyền lợi hấp dẫn cho ứng viên .",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T08:24:00+07:00",
+      "fetched": "2026-03-15T15:26:39.774502+07:00"
+    },
+    {
       "id": "429bb7e226627615a498e8b0f57b5533",
       "title": "Ngày hội toàn dân đi bầu cử 15-3: Chọn người tài đức, hành động quyết liệt để phát triển đất nước",
       "link": "https://tuoitre.vn/ngay-hoi-toan-dan-di-bau-cu-15-3-chon-nguoi-tai-duc-hanh-dong-quyet-liet-de-phat-trien-dat-nuoc-20260314230035439.htm",
@@ -453,6 +523,266 @@ window.newsData_2026_03_15 = {
       "fetched": "2026-03-15T08:23:57.512480+07:00"
     },
     {
+      "id": "57bdfea79b66e2c05fcf5b5e2a36d580",
+      "title": "Lào Cai đang dẫn đầu cả nước với tỷ lệ đi bầu cử đạt 91,95%",
+      "link": "https://thanhnien.vn/lao-cai-dang-dan-dau-ca-nuoc-voi-ty-le-di-bau-cu-dat-9195-185260315141142331.htm",
+      "summary": "Tới 14 giờ 30 ngày 15.3, số liệu thống kê từ Hội đồng Bầu cử quốc gia cho biết toàn quốc đã có hơn 61,7 triệu cử tri tham gia bỏ phiếu, đạt 80,63% tổng số cử tri trong danh sách đi bầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T08:17:00+07:00",
+      "fetched": "2026-03-15T15:26:39.774680+07:00"
+    },
+    {
+      "id": "ab3e08f986a793107902edb34a2f92b3",
+      "title": "Cao tốc Hậu Giang - Cà Mau tạm dừng khai thác từ 13 giờ ngày 16.3",
+      "link": "https://thanhnien.vn/cao-toc-hau-giang-ca-mau-tam-dung-khai-thac-tu-13-gio-ngay-163-185260315150005086.htm",
+      "summary": "Cao tốc Hậu Giang - Cà Mau tạm dừng khai thác từ 13 giờ ngày 16.3. Ban Quản lý dự án Mỹ Thuận chỉ dẫn hướng di chuyển  để các phương tiện đi về Cà Mau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T08:12:00+07:00",
+      "fetched": "2026-03-15T15:26:39.774839+07:00"
+    },
+    {
+      "id": "97e42319900fdb5060ac69755a5974d3",
+      "title": "9,6 triệu cử tri TP.HCM bầu cử, có nhà nghiên cứu Nguyễn Đình Tư 106 tuổi",
+      "link": "https://thanhnien.vn/96-trieu-cu-tri-tphcm-bau-cu-co-nha-nghien-cuu-nguyen-dinh-tu-106-tuoi-185260315124534147.htm",
+      "summary": "Ngày 15.3, cùng với cử tri cả nước, hàng triệu cử tri tại TP.HCM đến các khu vực bỏ phiếu để tham gia bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T08:04:00+07:00",
+      "fetched": "2026-03-15T15:26:39.774996+07:00"
+    },
+    {
+      "id": "ae7fa16334642a93717613421b4061f7",
+      "title": "Điện thoại mất tín hiệu, nguy cơ tài khoản bị hack",
+      "link": "https://thanhnien.vn/dien-thoai-mat-tin-hieu-nguy-co-tai-khoan-bi-hack-185260315143319479.htm",
+      "summary": "Ngân hàng TMCP Quốc Dân (NCB) vừa mới đưa ra cảnh báo xuất hiện chiến dịch tấn công lừa đảo nhằm vào người dùng mạng viễn thông tại Việt Nam. Các đối tượng xấu lợi dụng sơ hở trong quy trình đổi SIM (SIM Swap) tại một số điểm giao dịch viễn thông để chiếm quyền sử dụng số điện thoại của nạn nhân, từ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:54:00+07:00",
+      "fetched": "2026-03-15T15:26:39.775157+07:00"
+    },
+    {
+      "id": "83d86b7823e71f6bd763a8ed344a5530",
+      "title": "Nguyên nhân khiến thiếu nữ 16 tuổi rụng tóc từng mảng",
+      "link": "https://thanhnien.vn/nguyen-nhan-khien-thieu-nu-16-tuoi-rung-toc-tung-mang-18526031514533526.htm",
+      "summary": "Em T. (16 tuổi, ở TP.HCM) rụng tóc từng mảng lớn nửa bàn tay sau 3 tháng mất ngủ, căng thẳng kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:53:00+07:00",
+      "fetched": "2026-03-15T15:26:39.775317+07:00"
+    },
+    {
+      "id": "297ccfe418f00726d025e27622265a68",
+      "title": "Thời của smartphone màn hình 7 inch đã đến",
+      "link": "https://thanhnien.vn/thoi-cua-smartphone-man-hinh-7-inch-da-den-185260314221713939.htm",
+      "summary": "Nhờ công nghệ pin mới, nhiều hãng bắt đầu thử nghiệm smartphone màn hình 7 inch, dung lượng pin cao nhằm kéo dài thời gian sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:49:00+07:00",
+      "fetched": "2026-03-15T15:26:39.775470+07:00"
+    },
+    {
+      "id": "86cf8333ef31686a2c8f102dcede9e5e",
+      "title": "Đề xuất hộ kinh doanh được lập hóa đơn tổng với các giao dịch dưới 50.000 đồng",
+      "link": "https://thanhnien.vn/de-xuat-ho-kinh-doanh-duoc-lap-hoa-don-tong-voi-cac-giao-dich-duoi-50000-dong-185260315140113554.htm",
+      "summary": "Bộ Tài chính đề xuất hộ kinh doanh có doanh thu năm từ 3 tỉ đồng trở xuống, có giao dịch bán hàng hóa, dịch vụ có giá trị thanh toán dưới 50.000 đồng mỗi lần, cuối ngày hộ được lập hóa đơn điện tử tổng theo ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:44:00+07:00",
+      "fetched": "2026-03-15T15:26:39.775663+07:00"
+    },
+    {
+      "id": "27e28f6217b44204648017ed7aefaf44",
+      "title": "Xúc động hình ảnh những cử tri trăm tuổi đi bầu cử",
+      "link": "https://thanhnien.vn/xuc-dong-hinh-anh-nhung-cu-tri-tram-tuoi-di-bau-cu-185260315130730399.htm",
+      "summary": "Hình ảnh những cụ ông, cụ bà trăm tuổi tự tay bỏ lá phiếu để chọn người đại diện cho mình đã để lại nhiều xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:41:00+07:00",
+      "fetched": "2026-03-15T15:26:39.775819+07:00"
+    },
+    {
+      "id": "b3201fba5187bdedd43ee084bbfa00d7",
+      "title": "Lãnh đạo Đảng, Nhà nước bỏ phiếu bầu cử",
+      "link": "https://thanhnien.vn/lanh-dao-dang-nha-nuoc-bo-phieu-bau-cu-185260315143328292.htm",
+      "summary": "Trong sáng 15.3, Tổng Bí thư Tô Lâm, Chủ tịch nước Lương Cường, Thủ tướng Phạm Minh Chính, Chủ tịch Quốc hội Trần Thanh Mẫn, Thường trực Ban Bí thư Trần Cẩm Tú đã tham gia bỏ phiếu bầu cử Quốc hội khóa XVI, HĐND các cấp nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:38:00+07:00",
+      "fetched": "2026-03-15T15:26:39.775968+07:00"
+    },
+    {
+      "id": "83ecc3fc71b68735b021e9873c2b8f0d",
+      "title": "Nhà đầu tư tiếp tục bán ròng vàng",
+      "link": "https://thanhnien.vn/nha-dau-tu-tiep-tuc-ban-rong-vang-185260315135232152.htm",
+      "summary": "Quỹ đầu tư vàng lớn thế giới SPDR đã thực hiện bán vàng trong phiên giao dịch cuối tuần qua sau 2 ngày mua vào, nâng lượng bán ròng từ đầu tháng 3 lên 29,76 tấn. Lực bán mạnh từ nhà đầu tư khiến giá vàng đã không thể tăng trong 2 tuần căng thẳng địa chính trị xảy ra tại Trung Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:35:00+07:00",
+      "fetched": "2026-03-15T15:26:39.776127+07:00"
+    },
+    {
+      "id": "c61c429b5d1943a1758f38878ea5a143",
+      "title": "Xe điện toàn cầu trên hành trình tiến tới cột mốc 1.000 tỉ USD",
+      "link": "https://thanhnien.vn/xe-dien-toan-cau-tren-hanh-trinh-tien-toi-cot-moc-1000-ti-usd-185260315140308194.htm",
+      "summary": "Nhờ sự hậu thuẫn từ chính sách công và bước tiến đột phá trong công nghệ pin, ngành xe điện đang vươn mình thành trụ cột của nền kinh tế xanh toàn cầu. Dự báo đến năm 2031, quy mô thị trường sẽ chính thức vượt ngưỡng 1.000 tỉ USD, đánh dấu kỷ nguyên thống trị của xe điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:31:00+07:00",
+      "fetched": "2026-03-15T15:26:39.776278+07:00"
+    },
+    {
+      "id": "190bb66b5c9190001f8e14645433e3ee",
+      "title": "Trường ĐH Quy Nhơn 0-0 Trường ĐH Công nghệ TP.HCM: Lách khe cửa hẹp!",
+      "link": "https://thanhnien.vn/truong-dh-quy-nhon-0-0-truong-dh-cong-nghe-tphcm-lach-khe-cua-hep-185260315122643459.htm",
+      "summary": "Về lý thuyết cơ hội lọt vào vòng trong vẫn còn mở ra cho cả 2 đội, nhưng với hiệu số bàn thắng thua -3, trường ĐH Công nghệ TP.HCM vẫn sáng cửa hơn so với đối thủ Trường ĐH Quy Nhơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:31:00+07:00",
+      "fetched": "2026-03-15T15:26:39.776425+07:00"
+    },
+    {
+      "id": "b7cc1729e77583e7b8f3f54b0423bca4",
+      "title": "Cụ bà 82 tuổi bị lừa kết hôn với chồng 47 tuổi",
+      "link": "https://vnexpress.net/cu-ba-82-tuoi-bi-lua-ket-hon-voi-chong-47-tuoi-5050598.html",
+      "summary": "Cụ bà mù chữ 82 tuổi ở Hồ Nam tưởng làm giấy tờ để nhận trợ cấp 1.000 tệ và 20 quả trứng, không ngờ bị lừa ký giấy đăng ký kết hôn với người đàn ông 47 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:24:45+07:00",
+      "fetched": "2026-03-15T15:26:36.694086+07:00"
+    },
+    {
+      "id": "358b11235ae5645f6febc12a3e640399",
+      "title": "Cảm xúc của cử tri trẻ trong lần đầu đi bầu cử",
+      "link": "https://vnexpress.net/cam-xuc-cua-cu-tri-tre-trong-lan-dau-di-bau-cu-5050636.html",
+      "summary": "Lần đầu tham gia bỏ phiếu bầu đại biểu Quốc hội, nhiều cử tri trẻ chia sẻ cảm giác hồi hộp và tự hào khi thực hiện quyền công dân của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:19:19+07:00",
+      "fetched": "2026-03-15T15:26:36.694272+07:00"
+    },
+    {
+      "id": "43670c9a8e299ec0cfd0e9c981b4ef29",
+      "title": "Bếp trưởng nhà hàng tốt nhất thế giới bị tố bạo hành nhân viên",
+      "link": "https://vnexpress.net/bep-truong-nha-hang-tot-nhat-the-gioi-bi-to-bao-hanh-nhan-vien-5050624.html",
+      "summary": "René Redzepi, bếp trưởng kiêm đồng sáng lập nhà hàng Noma, tuyên bố rời khỏi vị trí điều hành sau những cáo buộc về việc lạm dụng thể chất và tinh thần đối với nhân viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:09:56+07:00",
+      "fetched": "2026-03-15T15:26:36.694437+07:00"
+    },
+    {
+      "id": "456bbf52edf45623e5c839377dbb96ee",
+      "title": "Đề xuất bán hàng trên sàn không phải lập hóa đơn điện tử",
+      "link": "https://vnexpress.net/de-xuat-ban-hang-tren-san-khong-phai-lap-hoa-don-dien-tu-5050629.html",
+      "summary": "Bộ Tài chính đề xuất hộ, cá nhân kinh doanh bán hàng qua sàn không phải lập hóa đơn điện tử nếu sàn đã khấu trừ, nộp thuế thay theo từng giao dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:08:25+07:00",
+      "fetched": "2026-03-15T15:26:36.694618+07:00"
+    },
+    {
+      "id": "456bbf52edf45623e5c839377dbb96ee",
+      "title": "Đề xuất bán hàng trên sàn không phải lập hóa đơn điện tử",
+      "link": "https://vnexpress.net/de-xuat-ban-hang-tren-san-khong-phai-lap-hoa-don-dien-tu-5050629.html",
+      "summary": "Bộ Tài chính đề xuất hộ, cá nhân kinh doanh bán hàng qua sàn không phải lập hóa đơn điện tử nếu sàn đã khấu trừ, nộp thuế thay theo từng giao dịch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-15T07:08:25+07:00",
+      "fetched": "2026-03-15T15:26:43.833844+07:00"
+    },
+    {
+      "id": "4e483af9e0018a8201df42b4d830ab2c",
+      "title": "Tổng thống Mỹ dọa tiếp tục không kích đảo Kharg 'cho vui'",
+      "link": "https://vnexpress.net/tong-thong-my-doa-tiep-tuc-khong-kich-dao-kharg-cho-vui-5050626.html",
+      "summary": "Ông Trump nói các cuộc không kích đã hoàn toàn phá hủy đảo Kharg của Iran, trừ hạ tầng dầu mỏ, cảnh báo có thể tấn công \"vài lần nữa cho vui\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:01:24+07:00",
+      "fetched": "2026-03-15T15:26:36.694778+07:00"
+    },
+    {
+      "id": "4e483af9e0018a8201df42b4d830ab2c",
+      "title": "Tổng thống Mỹ dọa tiếp tục không kích đảo Kharg 'cho vui'",
+      "link": "https://vnexpress.net/tong-thong-my-doa-tiep-tuc-khong-kich-dao-kharg-cho-vui-5050626.html",
+      "summary": "Ông Trump nói các cuộc không kích đã hoàn toàn phá hủy đảo Kharg của Iran, trừ hạ tầng dầu mỏ, cảnh báo có thể tấn công \"vài lần nữa cho vui\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-15T07:01:24+07:00",
+      "fetched": "2026-03-15T15:26:42.317732+07:00"
+    },
+    {
+      "id": "d9bb88f24bad452483a356707b927192",
+      "title": "Cuộc thi Sáng kiến Khoa học 2026 thu hút nhiều giải pháp AI",
+      "link": "https://vnexpress.net/cuoc-thi-sang-kien-khoa-hoc-2026-thu-hut-nhieu-giai-phap-ai-5050532.html",
+      "summary": "Nhiều dự án, giải pháp AI đã gửi đơn đăng ký tham dự sân chơi khoa học thường niên do VnExpress tổ chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:00:00+07:00",
+      "fetched": "2026-03-15T15:26:36.694942+07:00"
+    },
+    {
+      "id": "6a737e77af9592dc34317fa711763271",
+      "title": "Khối u ung thư nhỏ có nên phẫu thuật?",
+      "link": "https://vnexpress.net/khoi-u-ung-thu-nho-co-nen-phau-thuat-5049479.html",
+      "summary": "Người ung thư từ chối mổ vì khối u nhỏ, sợ tế bào lây lan, về uống thuốc nam để u tự teo. Trường hợp này có nên phẫu thuật, nguy hiểm thế nào?(Nam, 44 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:00:00+07:00",
+      "fetched": "2026-03-15T15:26:36.695051+07:00"
+    },
+    {
+      "id": "baac0e4a834d47df3e6a793d3fe1c910",
+      "title": "Bạn có nhìn thấy phu nhân của bá tước trong bức tranh này không?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-ban-co-nhin-thay-phu-nhan-cua-ba-tuoc-trong-buc-tranh-nay-khong-5046513.html",
+      "summary": "Thử thách nhỏ xíu nhưng đủ khiến bạn phải dừng lại vài phút giữa ngày bận rộn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T07:00:00+07:00",
+      "fetched": "2026-03-15T15:26:36.695205+07:00"
+    },
+    {
+      "id": "d9bb88f24bad452483a356707b927192",
+      "title": "Cuộc thi Sáng kiến Khoa học 2026 thu hút nhiều giải pháp AI",
+      "link": "https://vnexpress.net/cuoc-thi-sang-kien-khoa-hoc-2026-thu-hut-nhieu-giai-phap-ai-5050532.html",
+      "summary": "Nhiều dự án, giải pháp AI đã gửi đơn đăng ký tham dự sân chơi khoa học thường niên do VnExpress tổ chức.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-15T07:00:00+07:00",
+      "fetched": "2026-03-15T15:26:47.252627+07:00"
+    },
+    {
+      "id": "3b49434205218a2c3ea7b99d03ac5cf9",
+      "title": "Dàn 'Anh trai say hi' mùa hai hóa trang hài hước",
+      "link": "https://vnexpress.net/dan-anh-trai-say-hi-mua-hai-hoa-trang-hai-huoc-5050612.html",
+      "summary": "Rapper Gill hóa Bắc Đẩu, CongB đóng nhân vật trong phim \"Vườn sao băng\", được khán giả yêu thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T06:59:34+07:00",
+      "fetched": "2026-03-15T15:26:36.695359+07:00"
+    },
+    {
+      "id": "d5094ea283a683a4e75f972d411653a6",
+      "title": "Hoa anh đào Hàn Quốc nở sớm",
+      "link": "https://vnexpress.net/hoa-anh-dao-han-quoc-no-som-5050605.html",
+      "summary": "Dự báo mùa hoa anh đào tại Hàn Quốc năm nay sẽ nở từ ngày 25/3 ở đảo Jeju và 3/4 ở thủ đô Seoul, sớm hơn khoảng 5 ngày so với mọi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T06:43:35+07:00",
+      "fetched": "2026-03-15T15:26:36.695550+07:00"
+    },
+    {
+      "id": "cf9001106592ca2baa1af30f8522c5a5",
+      "title": "Gần 3.000 runner chạy giữa đô thị lớn nhất Nghệ An",
+      "link": "https://vnexpress.net/gan-3-000-runner-chay-giua-do-thi-lon-nhat-nghe-an-5050619.html",
+      "summary": "Gần 3.000 vận động viên dự giải Eco Central Park Marathon lần đầu tổ chức với cung đường xuyên qua công viên và các thảm hoa trong khu đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T06:30:00+07:00",
+      "fetched": "2026-03-15T15:26:36.695722+07:00"
+    },
+    {
       "id": "c6f1dfbc87eb0351c61ee15e1ecc98ed",
       "title": "Quyền Linh, Phương Mỹ Chi… cùng dàn sao Việt háo hức đi bầu cử",
       "link": "https://thanhnien.vn/quyen-linh-phuong-my-chi-cung-dan-sao-viet-hao-huc-di-bau-cu-185260315130058401.htm",
@@ -511,6 +841,16 @@ window.newsData_2026_03_15 = {
       "category": "Tổng hợp",
       "published": "2026-03-15T06:01:00+07:00",
       "fetched": "2026-03-15T13:44:07.458422+07:00"
+    },
+    {
+      "id": "dae58aa4831ed801faa5f14ef3a0cab8",
+      "title": "Cháy căn hộ chung cư 25 tầng ở TP HCM",
+      "link": "https://vnexpress.net/chay-can-ho-chung-cu-25-tang-o-tp-hcm-5050638.html",
+      "summary": "Ngọn lửa bùng lên từ căn hộ nằm ở tầng 7 chung cư Lexington, phường Bình Trưng (TP Thủ Đức cũ), hàng trăm cư dân phải di tản xuống đất, sáng 15/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T06:00:34+07:00",
+      "fetched": "2026-03-15T15:26:36.696338+07:00"
     },
     {
       "id": "b2eef1e6e32ec81e2ed60302dd74cb36",
