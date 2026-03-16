@@ -1,7 +1,157 @@
 window.newsData_2026_03_16 = {
   "date": "2026-03-16",
-  "lastUpdated": "2026-03-16T17:45:11.866586+07:00",
+  "lastUpdated": "2026-03-16T19:48:47.882431+07:00",
   "articles": [
+    {
+      "id": "eee7b64449666c785da3cb4f7143a5fd",
+      "title": "10 nhan sắc nổi bật Miss World Vietnam 2025, ai sẽ giành vương miện?",
+      "link": "https://tuoitre.vn/10-nhan-sac-noi-bat-miss-world-vietnam-2025-ai-se-gianh-vuong-mien-202603161416095.htm",
+      "summary": "10 gương mặt nổi bật trong top 48 cuộc thi Miss World Vietnam 2025 dần lộ diện sau các phần thi phụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.825909+07:00",
+      "fetched": "2026-03-16T19:48:39.826024+07:00"
+    },
+    {
+      "id": "90ee8f2d1190a8dd40fc832fcf9f972f",
+      "title": "Bộ Y tế đề xuất hỗ trợ tài chính cho phụ nữ sinh con",
+      "link": "https://tuoitre.vn/bo-y-te-de-xuat-ho-tro-tai-chinh-cho-phu-nu-sinh-con-2026031616091768.htm",
+      "summary": "Bộ Y tế đang soạn thảo nghị định quy định chi tiết một số điều và biện pháp tổ chức thực hiện Luật Dân số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.825785+07:00",
+      "fetched": "2026-03-16T19:48:39.825898+07:00"
+    },
+    {
+      "id": "a5c58423d022711447fe0c4d7913293a",
+      "title": "Cây hoa sưa bung nở đẹp nhất Hà Nội hút khách check-in",
+      "link": "https://tuoitre.vn/cay-hoa-sua-bung-no-dep-nhat-ha-noi-hut-khach-check-in-20260316161602704.htm",
+      "summary": "Tháng 3, khi nhiều người chọn đến Tây Bắc ngắm hoa đào nở thì Hà Nội khiến những ai si mê vẻ đẹp thành phố này phải ngẩn ngơ trước mùa hoa rực rỡ của hoa sưa, hoa ban, hoa phong linh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.825653+07:00",
+      "fetched": "2026-03-16T19:48:39.825774+07:00"
+    },
+    {
+      "id": "da12ff325e78f5f4814f0b809459015b",
+      "title": "Tác động để khối đá lớn rơi xuống đường đèo Bảo Lộc  tránh xảy ra tai nạn",
+      "link": "https://tuoitre.vn/tac-dong-de-khoi-da-lon-roi-xuong-duong-deo-bao-loc-tranh-xay-ra-tai-nan-20260316162951284.htm",
+      "summary": "Phát hiện khối đá lớn chênh vênh trên đỉnh đèo Bảo Lộc (quốc lộ 20, tỉnh Lâm Đồng), lực lượng chức năng tỉnh Lâm Đồng đã tác động cho đá lăn xuống đường, nhằm tránh xảy ra tai nạn cho người và xe cộ qua lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.825502+07:00",
+      "fetched": "2026-03-16T19:48:39.825640+07:00"
+    },
+    {
+      "id": "0eeca960f32fbed1f828e44f9afd81bf",
+      "title": "Cấu trúc đề kiểm tra học kỳ 2 giáo dục thường xuyên tại TP.HCM",
+      "link": "https://tuoitre.vn/cau-truc-de-kiem-tra-hoc-ky-2-giao-duc-thuong-xuyen-tai-tp-hcm-20260316161830218.htm",
+      "summary": "TP.HCM vừa ban hành văn bản hướng dẫn tổ chức kiểm tra cuối học kỳ 2 năm học 2025-2026 đối với giáo dục thường xuyên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.825381+07:00",
+      "fetched": "2026-03-16T19:48:39.825490+07:00"
+    },
+    {
+      "id": "c113b391c8246deddf7f8e4407748950",
+      "title": "Nhiều doanh nghiệp niêm yết bất ngờ hạ mục tiêu lợi nhuận năm 2026",
+      "link": "https://tuoitre.vn/nhieu-doanh-nghiep-niem-yet-bat-ngo-ha-muc-tieu-loi-nhuan-nam-2026-20260316170910913.htm",
+      "summary": "Một số doanh nghiệp niêm yết lớn công bố kế hoạch kinh doanh năm 2026 khá thận trọng và đặt mục tiêu lợi nhuận thấp hơn năm ngoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.825259+07:00",
+      "fetched": "2026-03-16T19:48:39.825370+07:00"
+    },
+    {
+      "id": "424146a7ffb5bd80ef4a044e7b0a7cd2",
+      "title": "Tây Ninh có 35 đường tỉnh quy hoạch mở mới",
+      "link": "https://tuoitre.vn/tay-ninh-co-35-duong-tinh-quy-hoach-mo-moi-20260316171013235.htm",
+      "summary": "Ngày 16-3, thông tin từ tỉnh Tây Ninh cho biết hiện Sở Tài chính đang chủ trì hoàn thiện bản đồ chi tiết phương án phát triển mạng lưới giao thông, theo bản điều chỉnh quy hoạch tỉnh Tây Ninh thời kỳ 2021-2030, tầm nhìn đến năm 2050.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.825127+07:00",
+      "fetched": "2026-03-16T19:48:39.825247+07:00"
+    },
+    {
+      "id": "9c38e54cdcf55d9c3b6f55573869ce36",
+      "title": "Nhiều vụ nổ rung chuyển thủ đô Tehran",
+      "link": "https://tuoitre.vn/nhieu-vu-no-rung-chuyen-thu-do-tehran-2026031617215689.htm",
+      "summary": "Nhiều vụ nổ đã xảy ra tại thủ đô Tehran của Iran ngày 16-3, trong khi Israel tuyên bố bắt đầu một làn sóng không kích quy mô lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.825003+07:00",
+      "fetched": "2026-03-16T19:48:39.825116+07:00"
+    },
+    {
+      "id": "4c21798f4eac7d7ca598519f31c5efed",
+      "title": "UBND TP.HCM yêu cầu kiểm tra giá vé xe, theo dõi việc cung ứng xăng dầu tại đại lý",
+      "link": "https://tuoitre.vn/ubnd-tp-hcm-yeu-cau-kiem-tra-gia-ve-xe-theo-doi-viec-cung-ung-xang-dau-tai-dai-ly-20260316172232598.htm",
+      "summary": "UBND TP.HCM giao các sở, ngành theo dõi biến động giá xăng dầu, bảo đảm nguồn cung và kiểm soát giá vé xe các loại, kịp thời xử lý các vấn đề phát sinh trong hoạt động vận tải đường bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.824879+07:00",
+      "fetched": "2026-03-16T19:48:39.824992+07:00"
+    },
+    {
+      "id": "8cc1dbbd6d19172799dff7f74666b4a9",
+      "title": "Làng bóng đá khu vực 'nhức đầu' vì cuộc họp báo quá khó hiểu của AFC",
+      "link": "https://tuoitre.vn/lang-bong-da-khu-vuc-nhuc-dau-vi-cuoc-hop-bao-qua-kho-hieu-cua-afc-20260316170025972.htm",
+      "summary": "Giới truyền thông khu vực bị một phen \"việt vị\" với cuộc họp báo mới nhất của Liên đoàn Bóng đá châu Á (AFC).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.824751+07:00",
+      "fetched": "2026-03-16T19:48:39.824868+07:00"
+    },
+    {
+      "id": "d9f37f096b985c94abf44c8bc9ede6dd",
+      "title": "Cách tính dân số chung cư đang làm lệch pha cung cầu trên thị trường?",
+      "link": "https://tuoitre.vn/cach-tinh-dan-so-chung-cu-dang-lam-lech-pha-cung-cau-tren-thi-truong-20260316164846155.htm",
+      "summary": "Sau hơn hai tháng áp dụng quy định về phương pháp xác định dân số trong chung cư tại TP.HCM, Hiệp hội Bất động sản TP.HCM cho rằng cách tính hiện nay đang phát sinh bất cập, có thể khiến cơ cấu căn hộ bị \"lệch\" khỏi nhu cầu thực của thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.824620+07:00",
+      "fetched": "2026-03-16T19:48:39.824739+07:00"
+    },
+    {
+      "id": "b1535eb3c731313d948a9aeb4efa8b2e",
+      "title": "Con trai dán thông báo lên xe máy đi khắp nơi tìm người mẹ mất tích đã mấy tháng",
+      "link": "https://tuoitre.vn/con-trai-dan-thong-bao-len-xe-may-di-khap-noi-tim-nguoi-me-mat-tich-da-may-thang-2026031616542104.htm",
+      "summary": "Để tìm người mẹ bị mất tích, người con trai dán thông báo lên xe máy rồi rong ruổi khắp nơi đi tìm, hy vọng sớm tìm được mẹ để gia đình đoàn tụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.824471+07:00",
+      "fetched": "2026-03-16T19:48:39.824607+07:00"
+    },
+    {
+      "id": "b77d549225a3628ac35f37097c72ccf2",
+      "title": "Giá dịch vụ Internet vệ tinh Starlink dự kiến tháng đầu tốn gần 11,5 triệu",
+      "link": "https://tuoitre.vn/gia-dich-vu-internet-ve-tinh-starlink-du-kien-thang-dau-ton-gan-11-5-trieu-2026031617244679.htm",
+      "summary": "Thời điểm hiện tại, mức giá dự kiến cho người dùng cá nhân sử dụng dịch vụ của Starlink là 435 USD (gần 11,5 triệu đồng) tháng đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.824341+07:00",
+      "fetched": "2026-03-16T19:48:39.824459+07:00"
+    },
+    {
+      "id": "eb38380465a285dbfb90162a4bc63179",
+      "title": "Gia hạn lần cuối cho dự án quảng trường trung tâm Gia Nghĩa",
+      "link": "https://tuoitre.vn/gia-han-lan-cuoi-cho-du-an-quang-truong-trung-tam-gia-nghia-20260316164236746.htm",
+      "summary": "UBND tỉnh Lâm Đồng gia hạn lần cuối dự án quảng trường trung tâm Gia Nghĩa, yêu cầu đẩy nhanh thi công, không tăng giá hợp đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.824202+07:00",
+      "fetched": "2026-03-16T19:48:39.824329+07:00"
+    },
+    {
+      "id": "c40bde31eb76f071f9a56b9d95893669",
+      "title": "Tin hai cảnh sát giao thông tử vong do truy đuổi người vi phạm là bịa đặt",
+      "link": "https://tuoitre.vn/tin-hai-canh-sat-giao-thong-tu-vong-do-truy-duoi-nguoi-vi-pham-la-bia-dat-20260316171631442.htm",
+      "summary": "Công an Thanh Hóa khẳng định trên địa bàn tỉnh không xảy ra vụ hai cán bộ, chiến sĩ cảnh sát giao thông tử vong khi truy đuổi xe vi phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T19:48:39.824021+07:00",
+      "fetched": "2026-03-16T19:48:39.824187+07:00"
+    },
     {
       "id": "bd0f912ed8b02639eb800f38249f5463",
       "title": "Quần vợt Việt Nam 'trồng người' từ tuổi 14",
@@ -453,6 +603,236 @@ window.newsData_2026_03_16 = {
       "fetched": "2026-03-16T14:05:35.452263+07:00"
     },
     {
+      "id": "74286cf3e5392f376b4827c5423916b6",
+      "title": "Màn trình diễn rực rỡ nhất thế kỷ của sao chổi Halley: Năm 2061 mới gặp lại!",
+      "link": "https://thanhnien.vn/man-trinh-dien-ruc-ro-nhat-the-ky-cua-sao-choi-halley-nam-2061-moi-gap-lai-185260316161335324.htm",
+      "summary": "Sao chổi Halley, một trong những sao chổi nổi tiếng nhất lịch sử - trong lần xuất hiện tiếp theo vào năm 2061 được dự báo sẽ có màn trình diễn rực rỡ nhất thế kỷ. Tối nay hãy cùng khám phá về sao chổi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:45:00+07:00",
+      "fetched": "2026-03-16T19:48:38.906914+07:00"
+    },
+    {
+      "id": "cc67295bae0ede710d43b8c65d0b344a",
+      "title": "Đà Lạt tháng 3: Phố núi dịu dàng mùa hoa phượng tím",
+      "link": "https://thanhnien.vn/da-lat-thang-3-pho-nui-diu-dang-mua-hoa-phuong-tim-185260316115334098.htm",
+      "summary": "Tháng 3, Đà Lạt bước vào mùa hoa phượng tím. Sắc tím dịu dàng phủ nhiều con đường, tạo nên vẻ lãng mạn rất riêng của phố núi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:35:00+07:00",
+      "fetched": "2026-03-16T19:48:38.907083+07:00"
+    },
+    {
+      "id": "6572fa8ef6f75692e82cbe2367ee7dee",
+      "title": "Những đường kẻ trên tấm pin mặt trời không chỉ để trang trí",
+      "link": "https://thanhnien.vn/nhung-duong-ke-tren-tam-pin-mat-troi-khong-chi-de-trang-tri-185260313092246181.htm",
+      "summary": "Không chỉ là chi tiết kỹ thuật, các đường kẻ trên tấm pin mặt trời giữ nhiệm vụ thu dòng điện sinh ra từ hiệu ứng quang điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:29:00+07:00",
+      "fetched": "2026-03-16T19:48:38.907240+07:00"
+    },
+    {
+      "id": "abde90599a3f3967d16cd83423ad61af",
+      "title": "Samsung bắt đầu thử nghiệm One UI 9",
+      "link": "https://thanhnien.vn/samsung-bat-dau-thu-nghiem-one-ui-9-185260316180901673.htm",
+      "summary": "Trong khi nhiều người vẫn đang chờ đợi One UI 8.5, Samsung đã bắt đầu thử nghiệm phiên bản One UI 9 dựa trên nền tảng Android 17.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:25:00+07:00",
+      "fetched": "2026-03-16T19:48:38.907394+07:00"
+    },
+    {
+      "id": "a33023de96e6349902d9bcc9eb5afc34",
+      "title": "Muốn da căng, eo gọn sau tuổi 35, bổ sung ngay 5 thực phẩm dưới đây!",
+      "link": "https://thanhnien.vn/muon-da-cang-eo-gon-sau-tuoi-35-bo-sung-ngay-5-thuc-pham-duoi-day-185260316193733042.htm",
+      "summary": "Sau tuổi 35, hormone thay đổi khiến collagen giảm sút, da bắt đầu mất độ căng mọng, eo dễ tích mỡ cứng đầu dù bạn đã cố gắng tập gym hay ăn kiêng. Nhưng đừng lo! Bí quyết 'glass skin' và 'snatched waist' đang hot trend 2025 - 2026 không nằm ở mỹ phẩm đắt đỏ hay filter TikTok, mà chính là bổ sung 5 s...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:18:00+07:00",
+      "fetched": "2026-03-16T19:48:38.907549+07:00"
+    },
+    {
+      "id": "7884b825ac091b35253d3868bff88b67",
+      "title": "Chủ tịch Quốc hội: Không có đơn vị nào phải tổ chức bầu lại",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-khong-co-don-vi-nao-phai-to-chuc-bau-lai-18526031618380334.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn cho biết tỷ lệ cử tri đi bầu cử trên cả nước đạt khoảng 99,69%, không có đơn vị bầu cử nào trên cả nước phải tổ chức bầu lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:16:00+07:00",
+      "fetched": "2026-03-16T19:48:38.907728+07:00"
+    },
+    {
+      "id": "b95d9a82085fb9ee14bf593e7771d6b1",
+      "title": "Đưa Đối thoại chiến lược 3+3 Việt -Trung trở thành cơ chế hợp tác kiểu mẫu",
+      "link": "https://thanhnien.vn/dua-doi-thoai-chien-luoc-33-viet-trung-tro-thanh-co-che-hop-tac-kieu-mau-185260316181928781.htm",
+      "summary": "Chiều ngày 16.3, Tổng Bí thư Tô Lâm đã tiếp Ngoại trưởng Trung Quốc Vương Nghị, Bộ trưởng Công an Trung Quốc Vương Tiểu Hồng, Bộ trưởng Quốc phòng Trung Quốc Đổng Quân nhân dịp hai nước tổ chức Hội nghị lần thứ nhất Đối thoại chiến lược 3+3 cấp Bộ trưởng Ngoại giao, Quốc phòng, Công an Việt Nam - Tr...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:14:00+07:00",
+      "fetched": "2026-03-16T19:48:38.907884+07:00"
+    },
+    {
+      "id": "1e43514655e698bbd3a825fb3f1a06a8",
+      "title": "SCB chuẩn bị đấu giá nhà đất, quần áo liên quan bà Trương Mỹ Lan",
+      "link": "https://vnexpress.net/scb-chuan-bi-dau-gia-nha-dat-quan-ao-lien-quan-ba-truong-my-lan-5051184.html",
+      "summary": "SCB đang tìm đơn vị tư vấn đấu thầu để xử lý 12 loại tài sản liên quan bà Trương Mỹ Lan như bất động sản, ôtô, quần áo, túi xách…",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-16T12:11:22+07:00",
+      "fetched": "2026-03-16T19:48:43.213100+07:00"
+    },
+    {
+      "id": "488522837bf583029976b76e5c90ac88",
+      "title": "Ngôi sao gốc Bỉ xuất hiện trận Malaysia tái đấu chủ nhà Việt Nam, HLV Cklamovski tuyên bố mạnh mẽ",
+      "link": "https://thanhnien.vn/ngoi-sao-goc-bi-xuat-hien-tran-malaysia-tai-dau-chu-nha-viet-nam-hlv-cklamovski-tuyen-bo-manh-me-185260316185732906.htm",
+      "summary": "Chiều 16.3, CLB Cerezo Osaka xác nhận đội tuyển Malaysia sẽ triệu tập hậu vệ Dion Cools, cầu thủ gốc Bỉ, vào danh sách chuẩn bị cho trận đấu gặp đội tuyển Việt Nam vào ngày 31.3 ở lượt cuối vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:07:00+07:00",
+      "fetched": "2026-03-16T19:48:38.908038+07:00"
+    },
+    {
+      "id": "cb78ac677cb19069d9602f99b0ac9d59",
+      "title": "Mỹ nam phim cổ trang Trương Lăng Hách từng nặng gần 100 kg thời còn đi học",
+      "link": "https://thanhnien.vn/my-nam-phim-co-trang-truong-lang-hach-tung-nang-gan-100-kg-thoi-con-di-hoc-18526031618273274.htm",
+      "summary": "Những bức ảnh cũ thời đại học của Trương Lăng Hách bất ngờ viral trên mạng xã hội, cho thấy ngoại hình khó nhận ra của nam diễn viên trước khi trở thành mỹ nam của dòng phim cổ trang Trung Quốc thời điểm hiện tại, Kbizoom đưa tin ngày 15.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:03:00+07:00",
+      "fetched": "2026-03-16T19:48:38.908189+07:00"
+    },
+    {
+      "id": "c8b9baef2546fb1f4c80bb176f48686e",
+      "title": "Trung Quốc tự tin vào nguồn cung năng lượng",
+      "link": "https://vnexpress.net/trung-quoc-tu-tin-vao-nguon-cung-nang-luong-5051108.html",
+      "summary": "Bắc Kinh khẳng định nguồn cung năng lượng của nước này đủ đối phó với biến động giá dầu, khí toàn cầu 2 tuần qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-16T12:02:00+07:00",
+      "fetched": "2026-03-16T19:48:43.213271+07:00"
+    },
+    {
+      "id": "3f57be4fad9f3203862f095e8387316a",
+      "title": "Meygroup và hành trình kiến tạo chuẩn sống ‘tinh khiết’ giữa lòng Thủ đô",
+      "link": "https://thanhnien.vn/meygroup-va-hanh-trinh-kien-tao-chuan-song-tinh-khiet-giua-long-thu-do-185260316180458798.htm",
+      "summary": "Khi thị trường bất động sản cao cấp bước sang giai đoạn cạnh tranh bằng chất lượng sống, những khái niệm như wellness living hay quiet luxury ngày càng được nhắc đến nhiều hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:00:00+07:00",
+      "fetched": "2026-03-16T19:48:38.908345+07:00"
+    },
+    {
+      "id": "8bc400159a559ba5393604c0038a52a1",
+      "title": "Trend hát karaoke 'Cỏ dại và hoa dành dành' phủ sóng cõi mạng: Nguồn gốc từ đâu?",
+      "link": "https://thanhnien.vn/trend-hat-karaoke-co-dai-va-hoa-danh-danh-phu-song-coi-mang-nguon-goc-tu-dau-185260316174657202.htm",
+      "summary": "Ra đường hay lướt mạng xã hội thời điểm này, nhiều người liên tục bắt gặp những clip cover, karaoke bài hát 'Cỏ dại và hoa dành dành'. Bài hát nhanh chóng trở thành trend với nhiều clip đạt hàng triệu lượt xem.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:00:00+07:00",
+      "fetched": "2026-03-16T19:48:38.908500+07:00"
+    },
+    {
+      "id": "ce40a3a054699c386a1563d18617321a",
+      "title": "Chiến dịch 'từ phủ đầu đến sửa sai' của Mỹ nhắm vào Iran",
+      "link": "https://vnexpress.net/chien-dich-tu-phu-dau-den-sua-sai-cua-my-nham-vao-iran-5050797.html",
+      "summary": "Chiến dịch phủ đầu của ông Trump vào Iran dường như chệch hướng ngay từ đầu, đẩy Mỹ vào cuộc chiến không lối thoát và buộc Nhà Trắng tìm cách sửa sai.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T12:00:00+07:00",
+      "fetched": "2026-03-16T19:48:41.476954+07:00"
+    },
+    {
+      "id": "f8a6e13a3c0e51e6f70d64af3fca0c32",
+      "title": "Chiếc Rolls-Royce hơn 30 tỉ của Hyun Bin trở thành 'giàn phơi đồ' cho quý tử",
+      "link": "https://thanhnien.vn/chiec-rolls-royce-hon-30-ti-cua-hyun-bin-tro-thanh-gian-phoi-do-cho-quy-tu-185260316172439124.htm",
+      "summary": "Chiếc Rolls-Royce Ghost của Hyun Bin bất ngờ gây chú ý trên mạng xã hội sau khi bà xã Son Ye Jin chia sẻ bức ảnh cho thấy chiếc xe sang được dùng để phơi quần áo cho con trai, điều này vô tình tạo nên khoảnh khắc đời thường đầy thú vị về cuộc sống riêng tư của gia đình nổi tiếng bậc nhất xứ Hàn, Kbi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:56:00+07:00",
+      "fetched": "2026-03-16T19:48:38.908677+07:00"
+    },
+    {
+      "id": "7420e462b3f4fb4cdcd116f3ff97ab91",
+      "title": "Bôi mãi kem mờ nám đắt tiền da vẫn sạm đen, thử ngay top 4 dưới đây!",
+      "link": "https://thanhnien.vn/boi-mai-kem-mo-nam-dat-tien-da-van-sam-den-thu-ngay-top-4-duoi-day-18526031619175177.htm",
+      "summary": "Chi hàng chục triệu đồng cho kem làm mờ nám nhưng da vẫn xỉn màu, đốm nâu ngày càng đậm? Không ít người rơi vào vòng luẩn quẩn vì chọn sai sản phẩm hoặc chưa tác động đúng cơ chế hình thành sắc tố. Nếu bạn cũng đang 'bôi mãi không thấy sáng', top 4 kem giúp làm mờ nám hiệu quả dưới đây chính là bước...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:55:00+07:00",
+      "fetched": "2026-03-16T19:48:38.908834+07:00"
+    },
+    {
+      "id": "3a8362c0c8c8c0a6ba930a66eba95f51",
+      "title": "Lũ lụt biến đường phố thành sông ở Hawaii",
+      "link": "https://vnexpress.net/lu-lut-bien-duong-pho-thanh-song-o-hawaii-5051144.html",
+      "summary": "Những trận mưa \"lớn chưa từng thấy trong 20 năm\" trút xuống Hawaii gây lũ quét nhấn chìm đường phố, phá hủy hạ tầng, khiến hàng chục nghìn hộ mất điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:51:46+07:00",
+      "fetched": "2026-03-16T19:48:35.745596+07:00"
+    },
+    {
+      "id": "3a8362c0c8c8c0a6ba930a66eba95f51",
+      "title": "Lũ lụt biến đường phố thành sông ở Hawaii",
+      "link": "https://vnexpress.net/lu-lut-bien-duong-pho-thanh-song-o-hawaii-5051144.html",
+      "summary": "Những trận mưa \"lớn chưa từng thấy trong 20 năm\" trút xuống Hawaii gây lũ quét nhấn chìm đường phố, phá hủy hạ tầng, khiến hàng chục nghìn hộ mất điện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T11:51:46+07:00",
+      "fetched": "2026-03-16T19:48:41.477128+07:00"
+    },
+    {
+      "id": "6f4b46a5097f9427cb32cd9f42465bda",
+      "title": "Giá dưa hấu lao dốc, nông dân Gia Lai lao đao",
+      "link": "https://thanhnien.vn/gia-dua-hau-lao-doc-nong-dan-gia-lai-lao-dao-185260316173554437.htm",
+      "summary": "Giá dưa hấu tại Gia Lai lao dốc, chỉ còn 1.000 - 5.000 đồng/kg, khiến hàng trăm hộ nông dân trồng dưa lỗ nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:51:00+07:00",
+      "fetched": "2026-03-16T19:48:38.908988+07:00"
+    },
+    {
+      "id": "425e004aca35c2c5d9308ef69fd28c0f",
+      "title": "SCB lựa chọn đơn vị tư vấn đấu thầu 8 mã tài sản vụ án Trương Mỹ Lan",
+      "link": "https://thanhnien.vn/scb-lua-chon-don-vi-tu-van-dau-thau-8-ma-tai-san-vu-an-truong-my-lan-185260316182733396.htm",
+      "summary": "Chiều 16.3, Ngân hàng TMCP Sài Gòn (SCB) thông báo lựa chọn đơn vị đấu thầu gói thầu xử lý 8 mã tài sản theo phán quyết của Tòa án trong Bản án 157/2024/HS-ST, Bản án 1125/2024/HS-PT liên quan đến vụ án Trương Mỹ Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:49:00+07:00",
+      "fetched": "2026-03-16T19:48:38.909142+07:00"
+    },
+    {
+      "id": "0cee96373dc3331ae1ae13777cc00c95",
+      "title": "Chủ tịch Quốc hội: Không có địa phương nào phải bầu lại",
+      "link": "https://vnexpress.net/chu-tich-quoc-hoi-khong-co-dia-phuong-nao-phai-bau-lai-5051181.html",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn cho biết cuộc bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026-2031 bước đầu thành công tốt đẹp, không có đơn vị bầu cử nào phải tổ chức bầu lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:35:36+07:00",
+      "fetched": "2026-03-16T19:48:35.745788+07:00"
+    },
+    {
+      "id": "b9efba9156365cfb9ea9af88f2066496",
+      "title": "Nhiều nước từ chối cử chiến hạm hộ tống tàu dầu đi qua Eo biển Hormuz",
+      "link": "https://vnexpress.net/nhieu-nuoc-tu-choi-cu-chien-ham-ho-tong-tau-dau-di-qua-eo-bien-hormuz-5051105.html",
+      "summary": "Lãnh đạo nhiều nước không đồng ý với lời kêu gọi của Tổng thống Mỹ về việc cử chiến hạm hộ tống tàu qua Eo biển Hormuz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:32:49+07:00",
+      "fetched": "2026-03-16T19:48:35.745955+07:00"
+    },
+    {
+      "id": "b9efba9156365cfb9ea9af88f2066496",
+      "title": "Nhiều nước từ chối cử chiến hạm hộ tống tàu dầu đi qua Eo biển Hormuz",
+      "link": "https://vnexpress.net/nhieu-nuoc-tu-choi-cu-chien-ham-ho-tong-tau-dau-di-qua-eo-bien-hormuz-5051105.html",
+      "summary": "Lãnh đạo nhiều nước không đồng ý với lời kêu gọi của Tổng thống Mỹ về việc cử chiến hạm hộ tống tàu qua Eo biển Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T11:32:49+07:00",
+      "fetched": "2026-03-16T19:48:41.477288+07:00"
+    },
+    {
       "id": "db7fe3234fea907d0c159498670b9286",
       "title": "Cha và con chung tay một ca mổ đặc biệt",
       "link": "https://tuoitre.vn/cha-va-con-chung-tay-mot-ca-mo-dac-biet-20260316063648183.htm",
@@ -603,6 +983,126 @@ window.newsData_2026_03_16 = {
       "fetched": "2026-03-16T11:31:29.866630+07:00"
     },
     {
+      "id": "0805361751fab21c431c17776f8d9520",
+      "title": "Đăng Facebook xuyên tạc bị CSGT 'cướp xe', người đàn ông bị xử phạt",
+      "link": "https://vnexpress.net/dang-facebook-xuyen-tac-bi-csgt-cuop-xe-nguoi-dan-ong-bi-xu-phat-5051175.html",
+      "summary": "Bị lập biên bản và tạm giữ xe do vi phạm giao thông, người đàn ông 33 tuổi đăng lên mạng xã hội cho rằng mình bị \"cướp xe\" nhằm bôi nhọ lực lượng chức năng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:25:55+07:00",
+      "fetched": "2026-03-16T19:48:35.746115+07:00"
+    },
+    {
+      "id": "2addb0809d07cf6c5bc2cc8bce516469",
+      "title": "Hạ khối đá 15 tấn chênh vênh trên đèo Bảo Lộc",
+      "link": "https://vnexpress.net/ha-khoi-da-15-tan-chenh-venh-tren-deo-bao-loc-5051173.html",
+      "summary": "Khối đá khoảng 15 tấn nằm chênh vênh trên sườn đồi, nguy cơ rơi xuống quốc lộ 20 đoạn qua đèo Bảo Lộc, lực lượng chức năng đục tách, giải tỏa chiều 16/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:06:43+07:00",
+      "fetched": "2026-03-16T19:48:35.746279+07:00"
+    },
+    {
+      "id": "41e93492803c3bf60981f734e09076fb",
+      "title": "Sun Group lập sàn giao dịch tiền số",
+      "link": "https://vnexpress.net/sun-group-lap-san-giao-dich-tien-so-5051174.html",
+      "summary": "Sun Group góp 64% trong 1.000 tỷ đồng vốn điều lệ ban đầu của Công ty cổ phần Tài sản số Việt Nam với chức năng lập sàn giao dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:02:51+07:00",
+      "fetched": "2026-03-16T19:48:35.746437+07:00"
+    },
+    {
+      "id": "41e93492803c3bf60981f734e09076fb",
+      "title": "Sun Group lập sàn giao dịch tiền số",
+      "link": "https://vnexpress.net/sun-group-lap-san-giao-dich-tien-so-5051174.html",
+      "summary": "Sun Group góp 64% trong 1.000 tỷ đồng vốn điều lệ ban đầu của Công ty cổ phần Tài sản số Việt Nam với chức năng lập sàn giao dịch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-16T11:02:51+07:00",
+      "fetched": "2026-03-16T19:48:43.213432+07:00"
+    },
+    {
+      "id": "2b0d8b1c6dc6f16263a8aa464f396328",
+      "title": "7 quốc gia có hệ thống giao thông công cộng tốt nhất thế giới",
+      "link": "https://vnexpress.net/7-quoc-gia-co-he-thong-giao-thong-cong-cong-tot-nhat-the-gioi-5050450.html",
+      "summary": "Tại những quốc gia như Nhật Bản, Hàn Quốc hay Singapore, giao thông công cộng tốt đến nỗi du khách không cần dùng taxi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:00:00+07:00",
+      "fetched": "2026-03-16T19:48:35.746623+07:00"
+    },
+    {
+      "id": "436408c9076efd75a8ee65d6129785c5",
+      "title": "Phát hiện sớm ung thư cổ tử cung dù không triệu chứng",
+      "link": "https://vnexpress.net/phat-hien-som-ung-thu-co-tu-cung-du-khong-trieu-chung-5051137.html",
+      "summary": "Chị Hồng, 46 tuổi, xét nghiệm HPV dương tính theo dõi định kỳ, nay sinh thiết xác định ung thư cổ tử cung giai đoạn sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:00:00+07:00",
+      "fetched": "2026-03-16T19:48:35.746788+07:00"
+    },
+    {
+      "id": "1dca512dfdcec8a4e752522f2941594d",
+      "title": "Thiếu niên mắc bệnh ban xuất huyết",
+      "link": "https://vnexpress.net/thieu-nien-mac-benh-ban-xuat-huyet-5051126.html",
+      "summary": "Huy, 14 tuổi, xuất hiện chấm đỏ nhỏ trên da chân, hai ngày sau chân sưng phù, nổi ban tím, bác sĩ chẩn đoán mắc bệnh ban xuất huyết Henoch-Schonlein.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:00:00+07:00",
+      "fetched": "2026-03-16T19:48:35.746943+07:00"
+    },
+    {
+      "id": "8545d981443ba580bf68d4f2ada72d10",
+      "title": "6 dấu hiệu cholesterol cao xuất hiện ở chân vào ban đêm",
+      "link": "https://vnexpress.net/6-dau-hieu-cholesterol-cao-xuat-hien-o-chan-vao-ban-dem-5050978.html",
+      "summary": "Cholesterol cao thường có có biểu hiện chân sưng phù, lạnh, giãn tĩnh mạch, tê bì, cảm giác khó chịu vào ban đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:00:00+07:00",
+      "fetched": "2026-03-16T19:48:35.747094+07:00"
+    },
+    {
+      "id": "b1c6c5441a459185b3d08a588d5621f7",
+      "title": "Mẹo tăng năng lượng trong 10 phút",
+      "link": "https://vnexpress.net/meo-tang-nang-luong-trong-10-phut-5050942.html",
+      "summary": "Nhâm nhi trà quế, ngửi hương bạc hà hay nghe bài hát yêu thích có thể kích thích hệ thần kinh phó giao cảm, giúp cơ thể thư giãn và tăng năng lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T11:00:00+07:00",
+      "fetched": "2026-03-16T19:48:35.747249+07:00"
+    },
+    {
+      "id": "22c709d898a078f59f6a5b2c2a326983",
+      "title": "Liên danh Việt - Hà Lan đầu tư bến cảng container Liên Chiểu gần 1,8 tỷ USD",
+      "link": "https://vnexpress.net/lien-danh-viet-ha-lan-dau-tu-ben-cang-container-lien-chieu-gan-1-8-ty-usd-5051132.html",
+      "summary": "Liên danh Hateco và APM Terminals (Hà Lan) được chọn đầu tư bến cảng container Liên Chiểu tại Đà Nẵng, tổng vốn khoảng 1,76 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T10:50:22+07:00",
+      "fetched": "2026-03-16T19:48:35.747399+07:00"
+    },
+    {
+      "id": "5826c604f06feb2eb657e9b09d167ac3",
+      "title": "Cô dâu chú rể mất sạch tài sản trong đêm tân hôn",
+      "link": "https://vnexpress.net/co-dau-chu-re-mat-sach-tai-san-trong-dem-tan-hon-5051169.html",
+      "summary": "Kẻ gian đột nhập nhà chú rể trong đêm tân hôn, lấy thùng đựng tiền mừng cưới cùng nhiều điện thoại, tổng tài sản thiệt hại hơn 270 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T10:46:54+07:00",
+      "fetched": "2026-03-16T19:48:35.747548+07:00"
+    },
+    {
+      "id": "40d0b6a542543956fca72a03ffb6649e",
+      "title": "Bên trong cơ sở pha giấm ăn giả từ axit Acetic và nước lọc",
+      "link": "https://vnexpress.net/ben-trong-co-so-pha-giam-an-gia-tu-axit-acetic-va-nuoc-loc-5051167.html",
+      "summary": "Kiểm tra cơ sở sản xuất ở phường Trí Quả do Nguyễn Công Khương, 50 tuổi, làm chủ, công an thu giữ gần 7.500 chai giấm trắng cùng 150 kg phụ gia axit Acetic, nắp chai, nhãn mác...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T10:39:49+07:00",
+      "fetched": "2026-03-16T19:48:35.747747+07:00"
+    },
+    {
       "id": "c1db73df3a76f2414f0b95dc37bdb3b6",
       "title": "Chủ nhà Trường ĐH Nha Trang sẽ đá trận tứ kết để đời?",
       "link": "https://thanhnien.vn/chu-nha-truong-dh-nha-trang-se-da-tran-tu-ket-de-doi-185260316171311218.htm",
@@ -611,6 +1111,26 @@ window.newsData_2026_03_16 = {
       "category": "Tổng hợp",
       "published": "2026-03-16T10:38:00+07:00",
       "fetched": "2026-03-16T17:45:02.550873+07:00"
+    },
+    {
+      "id": "14341937537cdc8862919b25858cbde9",
+      "title": "Israel tuyên bố phá hủy chuyên cơ của cố lãnh tụ tối cao Iran",
+      "link": "https://vnexpress.net/israel-tuyen-bo-pha-huy-chuyen-co-cua-co-lanh-tu-toi-cao-iran-5051157.html",
+      "summary": "Không quân Israel nói đã tấn công và phá hủy máy bay của cố lãnh tụ tối cao Iran Ali Khamenei tại sân bay Mehrabad ở Tehran trong đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T10:35:59+07:00",
+      "fetched": "2026-03-16T19:48:35.747909+07:00"
+    },
+    {
+      "id": "14341937537cdc8862919b25858cbde9",
+      "title": "Israel tuyên bố phá hủy chuyên cơ của cố lãnh tụ tối cao Iran",
+      "link": "https://vnexpress.net/israel-tuyen-bo-pha-huy-chuyen-co-cua-co-lanh-tu-toi-cao-iran-5051157.html",
+      "summary": "Không quân Israel nói đã tấn công và phá hủy máy bay của cố lãnh tụ tối cao Iran Ali Khamenei tại sân bay Mehrabad ở Tehran trong đêm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T10:35:59+07:00",
+      "fetched": "2026-03-16T19:48:41.477463+07:00"
     },
     {
       "id": "06b16b754976cc0883182f5067a924a0",
