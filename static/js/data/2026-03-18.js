@@ -1,7 +1,17 @@
 window.newsData_2026_03_18 = {
   "date": "2026-03-18",
-  "lastUpdated": "2026-03-18T03:29:41.122656+07:00",
+  "lastUpdated": "2026-03-18T05:23:35.840305+07:00",
   "articles": [
+    {
+      "id": "d7df2609c8dc6d9b530d064f0514be94",
+      "title": "Thời tiết hôm nay 18-3: Bắc Bộ hửng nắng, Nam Bộ nóng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-18-3-bac-bo-hung-nang-nam-bo-nong-2026031717215644.htm",
+      "summary": "Hôm nay 18-3, thời tiết cả nước ít mưa, Nam Bộ nắng nóng diện rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T05:23:29.062732+07:00",
+      "fetched": "2026-03-18T05:23:29.062975+07:00"
+    },
     {
       "id": "b20113e59fca13bd2905e85d3f53d2af",
       "title": "Đại tướng Phan Văn Giang làm việc với Tỉnh ủy Quảng Ninh",
@@ -151,6 +161,186 @@ window.newsData_2026_03_18 = {
       "category": "Tổng hợp",
       "published": "2026-03-18T01:48:19.368994+07:00",
       "fetched": "2026-03-18T01:48:19.369206+07:00"
+    },
+    {
+      "id": "4dbfff7cd50dba16758c2d258de919d0",
+      "title": "Tử vi ngày 18 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-18-thang-3-con-giap-nao-may-man-hom-nay-185260317235801234.htm",
+      "summary": "Tử vi ngày 18 tháng 3 mang đến những gợi ý mang tính tham khảo cho 12 con giáp khi tuần làm việc bước sang giai đoạn cần tăng tốc. Vận khí thiên về khả năng thích ứng nhanh và dám điều chỉnh cách làm cũ. Tài lộc hôm nay không đến từ may rủi mà đến từ sự linh hoạt và quyết đoán đúng lúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T22:15:00+07:00",
+      "fetched": "2026-03-18T05:23:28.124485+07:00"
+    },
+    {
+      "id": "6d32104f24f43d67888a1d7f942d4d3d",
+      "title": "Xây dựng Học viện Kỹ thuật quân sự là cơ sở nghiên cứu trọng điểm quốc gia",
+      "link": "https://thanhnien.vn/xay-dung-hoc-vien-ky-thuat-quan-su-la-co-so-nghien-cuu-trong-diem-quoc-gia-185260317213220149.htm",
+      "summary": "Sáng 17.3, tại Hà Nội, Tổng Bí thư Tô Lâm thăm, làm việc với Học viện Kỹ thuật quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T22:15:00+07:00",
+      "fetched": "2026-03-18T05:23:28.124655+07:00"
+    },
+    {
+      "id": "c3da782de5de270ae4ad403a6b660513",
+      "title": "Chấm dứt 'ma trận' đón xe tại nhà ga T3: Xử lý nạn chèo kéo, báo giá 'trên trời' thế nào?",
+      "link": "https://thanhnien.vn/cham-dut-ma-tran-don-xe-tai-nha-ga-t3-xu-ly-nan-cheo-keo-bao-gia-tren-troi-the-nao-185260317171520266.htm",
+      "summary": "Sau hai phóng sự phản ánh tình trạng chèo kéo và báo giá cao khi đón xe tại nhà ga T3 - Tân Sơn Nhất, phóng viên tiếp tục ghi nhận thực tế. Những phản ánh từ hành khách và tài xế đang gợi mở nhiều giải pháp để minh bạch hóa hoạt động đón xe tại sân bay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T22:15:00+07:00",
+      "fetched": "2026-03-18T05:23:28.124830+07:00"
+    },
+    {
+      "id": "e50704737f775c69d4abacb8235af698",
+      "title": "Đưa sức khỏe tâm thần vào hệ thống giám sát chủ động",
+      "link": "https://thanhnien.vn/dua-suc-khoe-tam-than-vao-he-thong-giam-sat-chu-dong-185260317190526426.htm",
+      "summary": "Bộ Y tế đang xây dựng dự thảo, thông tư quy định chi tiết một số điều của luật Phòng bệnh (luật có hiệu lực thi hành từ ngày 1.7.2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T22:14:00+07:00",
+      "fetched": "2026-03-18T05:23:28.124994+07:00"
+    },
+    {
+      "id": "b7e92d241f9a90d5a9106d3d9c8bc0b0",
+      "title": "Đội tuyển Iran muốn đá World Cup ở Mexico thay vì Mỹ: Dễ bị FIFA phản bác",
+      "link": "https://thanhnien.vn/doi-tuyen-iran-muon-da-world-cup-o-mexico-thay-vi-my-de-bi-fifa-phan-bac-185260317231821874.htm",
+      "summary": "Theo truyền thông quốc tế, đề xuất thay đổi địa điểm thi đấu ở World Cup 2026 của đội tuyển Iran nhiều khả năng sẽ bị FIFA từ chối vì nhiều lý do phát sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T22:06:00+07:00",
+      "fetched": "2026-03-18T05:23:28.125146+07:00"
+    },
+    {
+      "id": "688c993203c29141687d232546a77d52",
+      "title": "Chiến sự Iran gây nhiều hệ lụy kinh tế hơn người ta tưởng",
+      "link": "https://thanhnien.vn/chien-su-iran-gay-nhieu-he-luy-kinh-te-hon-nguoi-ta-tuong-185260317223530185.htm",
+      "summary": "Không chỉ làm gián đoạn thị trường năng lượng (như dầu thô, khí tự nhiên hóa lỏng…), chiến sự Iran còn dẫn đến thách thức cho nhiều lĩnh vực như nước, thực phẩm, phân bón…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T22:05:00+07:00",
+      "fetched": "2026-03-18T05:23:28.125296+07:00"
+    },
+    {
+      "id": "996900dbf17e648743c3280ac4d6bd6a",
+      "title": "Real Madrid lần thứ 3 liên tiếp loại Man City, Arsenal đi tiếp nhờ thắng đẹp, Chelsea thất bại khó tin",
+      "link": "https://thanhnien.vn/real-madrid-lan-thu-3-lien-tiep-loai-man-city-arsenal-di-tiep-nho-thang-dep-chelsea-that-bai-kho-tin-185260318050030224.htm",
+      "summary": "Rạng sáng 18.3, Man City không thể làm nên 'phép màu', phải thua trận 1-2 trước Real Madrid ở trận lượt về, qua đó bị loại khỏi Champions League 2025 - 2026. Trong khi đó, hai đại diện thành London là Chelsea và Arsenal đón nhận những kết quả khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T22:04:00+07:00",
+      "fetched": "2026-03-18T05:23:28.125450+07:00"
+    },
+    {
+      "id": "6a8c20090631fbcbe57aa2537c220792",
+      "title": "Chiến sự Ukraine ngày 1.483: Nga báo động trước làn sóng UAV từ Ukraine",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1483-nga-bao-dong-truoc-lan-song-uav-tu-ukraine-18526031721485449.htm",
+      "summary": "Giới chức Nga cảnh báo không khu vực nào của nước này còn an toàn trước các cuộc tấn công bằng máy bay không người lái (UAV) của Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T22:02:00+07:00",
+      "fetched": "2026-03-18T05:23:28.125599+07:00"
+    },
+    {
+      "id": "0baa384492a8ad4666d5e5542489948a",
+      "title": "Chế tài mạnh để răn đe thiết bị bay không người lái trái phép",
+      "link": "https://thanhnien.vn/che-tai-manh-de-ran-de-thiet-bi-bay-khong-nguoi-lai-trai-phep-1852603172031186.htm",
+      "summary": "Việc thiết bị bay không người lái xuất hiện trong khu vực tiếp cận hạ cánh của máy bay dân dụng là hành vi xâm nhập trực tiếp vào khu vực có yêu cầu bảo vệ nghiêm ngặt nhất trong hoạt động hàng không, nơi pháp luật đã có quy định cụ thể và ngày càng được siết chặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T22:00:00+07:00",
+      "fetched": "2026-03-18T05:23:28.125754+07:00"
+    },
+    {
+      "id": "9e6e8e04045c3cb4851114327d5707b2",
+      "title": "Cơ thể chúng ta sẽ phản ứng như thế nào khi tìm thấy tình yêu?",
+      "link": "https://thanhnien.vn/co-the-chung-ta-se-phan-ung-nhu-the-nao-khi-tim-thay-tinh-yeu-185260317135937473.htm",
+      "summary": "Tại sao khi có tình yêu, chúng ta lại cảm thấy hưng phấn như đang trên mây, nhưng cũng có lúc lo âu đến đổ mồ hôi tay?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T22:00:00+07:00",
+      "fetched": "2026-03-18T05:23:28.125926+07:00"
+    },
+    {
+      "id": "b38c6eaf867c112378c9b9f627035eda",
+      "title": "Ngày 18.3 là ngày gì? Theo lịch âm hôm nay có gì thú vị?",
+      "link": "https://thanhnien.vn/ngay-183-la-ngay-gi-theo-lich-am-hom-nay-co-gi-thu-vi-185260317083700589.htm",
+      "summary": "Hôm nay là ngày 18.3. Lịch âm hôm nay được nhiều người quan tâm, chia sẻ, vì sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T22:00:00+07:00",
+      "fetched": "2026-03-18T05:23:28.126080+07:00"
+    },
+    {
+      "id": "7d966a1d7cfedd295e7e0e406dfdb1c5",
+      "title": "Bãi thả diều khổng lồ ở Vĩnh Long thu hút hàng trăm người mỗi chiều",
+      "link": "https://thanhnien.vn/bai-tha-dieu-khong-lo-o-vinh-long-thu-hut-hang-tram-nguoi-moi-chieu-185260316150618787.htm",
+      "summary": "Bãi thả diều khổng lồ ở Vĩnh Long đang thu hút đông người đến xem, chụp ảnh và ngắm hoàng hôn mỗi chiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:45:00+07:00",
+      "fetched": "2026-03-18T05:23:28.126231+07:00"
+    },
+    {
+      "id": "467a0a69cd954f0791dd8a1574981303",
+      "title": "'Ngựa ô' Bodo/Glimt bị loại khỏi Champions League",
+      "link": "https://vnexpress.net/ngua-o-bodo-glimt-bi-loai-khoi-champions-league-5051673.html",
+      "summary": "Thắng 3-0 ở lượt đi, Bodo/Glimt vẫn bị loại khi thua Sporting Lisbon 0-5 ở lượt về vòng 1/8 Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:28:26+07:00",
+      "fetched": "2026-03-18T05:23:25.413251+07:00"
+    },
+    {
+      "id": "467a0a69cd954f0791dd8a1574981303",
+      "title": "'Ngựa ô' Bodo/Glimt bị loại khỏi Champions League",
+      "link": "https://vnexpress.net/ngua-o-bodo-glimt-bi-loai-khoi-champions-league-5051673.html",
+      "summary": "Thắng 3-0 ở lượt đi, Bodo/Glimt vẫn bị loại khi thua Sporting Lisbon 0-5 ở lượt về vòng 1/8 Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-17T21:28:26+07:00",
+      "fetched": "2026-03-18T05:23:35.835156+07:00"
+    },
+    {
+      "id": "5ddddce4b7079295ee1843459ad19453",
+      "title": "Bác sĩ 24/7: Ăn trái cây sau 20 giờ có làm tăng cân?",
+      "link": "https://thanhnien.vn/bac-si-24-7-an-trai-cay-sau-20-gio-co-lam-tang-can-185260317195420541.htm",
+      "summary": "'Thưa bác sĩ, tôi thường ăn trái cây vào khoảng 20 giờ để tăng cường vitamin và đỡ đói. Cho tôi hỏi là thói quen này có khiến tăng cân không?'. (Lan Anh, 35 tuổi, ở TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:12:00+07:00",
+      "fetched": "2026-03-18T05:23:28.126376+07:00"
+    },
+    {
+      "id": "14e387236d7cd575533d55ac385018f9",
+      "title": "Dự kiến giảm 50% với 6 nhóm phí, lệ phí khi làm dịch vụ công trên VNeID",
+      "link": "https://thanhnien.vn/du-kien-giam-50-voi-6-nhom-phi-le-phi-khi-lam-dich-vu-cong-tren-vneid-185260317111307762.htm",
+      "summary": "Dự kiến giảm 50% với 6 nhóm phí, lệ phí dịch vụ công như sát hạch lái xe, giấy phép xây dựng... khi thực hiện dịch vụ công qua VNeID đến hết năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:12:00+07:00",
+      "fetched": "2026-03-18T05:23:28.126525+07:00"
+    },
+    {
+      "id": "aa3e4ecbe18d25dbed7e2bbb178d6c8c",
+      "title": "Hyundai triệu hồi Palisade 2026 vì lỗi nhận diện người trên xe",
+      "link": "https://vnexpress.net/hyundai-trieu-hoi-palisade-2026-vi-loi-nhan-dien-nguoi-tren-xe-5051377.html",
+      "summary": "Mẫu xe gầm cao Palisade dừng bán hai phiên bản sau khi một trẻ 2 tuổi tử vong liên quan đến hàng ghế sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:00:00+07:00",
+      "fetched": "2026-03-18T05:23:25.413435+07:00"
+    },
+    {
+      "id": "45241024101c0f65b69e01244c56918e",
+      "title": "Tình hình Iran, Trung Đông mới nhất sáng 18.3: Tuyên bố rắn của ông Trump",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-sang-183-185260317203238392.htm",
+      "summary": "Cuộc xung đột giữa Mỹ - Israel với Iran đã bước qua ngày thứ 19. Israel tuyên bố đã hạ sát thêm một số nhân vật cấp cao của Iran trong các cuộc không kích mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:00:00+07:00",
+      "fetched": "2026-03-18T05:23:28.126668+07:00"
     },
     {
       "id": "b130cb414ffe05d70288e67782ac197e",
