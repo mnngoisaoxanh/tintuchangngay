@@ -1,7 +1,157 @@
 window.newsData_2026_03_17 = {
   "date": "2026-03-17",
-  "lastUpdated": "2026-03-17T19:46:19.166263+07:00",
+  "lastUpdated": "2026-03-17T21:49:03.990120+07:00",
   "articles": [
+    {
+      "id": "aaf00a906aa5ec38881751a17bcd0acd",
+      "title": "Bắt nhóm thanh thiếu niên từ Cà Mau khống chế người đi đường, cướp 3 vụ trong đêm ở Tây Ninh",
+      "link": "https://tuoitre.vn/bat-nhom-thanh-thieu-nien-tu-ca-mau-khong-che-nguoi-di-duong-cuop-3-vu-trong-dem-o-tay-ninh-20260317183619983.htm",
+      "summary": "Ngày 17-3, thông tin từ Phòng Cảnh sát hình sự Công an tỉnh Tây Ninh cho biết đã phối hợp Cục Cảnh sát hình sự bắt nhóm gây ra 3 vụ khống chế người đi đường, cướp tài sản trong một đêm trên địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.264375+07:00",
+      "fetched": "2026-03-17T21:48:58.264511+07:00"
+    },
+    {
+      "id": "af01c129a4f766e88384e90f6fe5d49b",
+      "title": "TP.HCM ban hành kế hoạch giải phóng mặt bằng cho  đường sắt Bến Thành - Cần Giờ",
+      "link": "https://tuoitre.vn/tp-hcm-ban-hanh-ke-hoach-giai-phong-mat-bang-cho-duong-sat-ben-thanh-can-gio-20260317185654194.htm",
+      "summary": "Phó chủ tịch UBND TP.HCM Hoàng Nguyên Dinh đã ký văn bản ban hành kế hoạch bồi thường, hỗ trợ và tái định cư dự án tuyến đường sắt Bến Thành - Cần Giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.264246+07:00",
+      "fetched": "2026-03-17T21:48:58.264363+07:00"
+    },
+    {
+      "id": "0ed22d2a7af67cf705dd57996cbe6fe0",
+      "title": "Đồng Nai tiếp nhận 344 công dân từ Campuchia về nước, có 4 người bị truy nã",
+      "link": "https://tuoitre.vn/dong-nai-tiep-nhan-344-cong-dan-tu-campuchia-ve-nuoc-co-4-nguoi-bi-truy-na-20260317190526562.htm",
+      "summary": "Lực lượng Bộ đội biên phòng Đồng Nai vừa tiếp nhận thêm 344 công dân từ phía Campuchia trao trả, 4 người trong đó nằm trong diện bị truy nã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.264124+07:00",
+      "fetched": "2026-03-17T21:48:58.264235+07:00"
+    },
+    {
+      "id": "7e8cfb0686d5243fcf664a0236b6edca",
+      "title": "Cầu thủ Lê Phát thoát chấn thương nặng, phải nghỉ khoảng 1 tháng",
+      "link": "https://tuoitre.vn/cau-thu-le-phat-thoat-chan-thuong-nang-phai-nghi-khoang-1-thang-20260317190919111.htm",
+      "summary": "Nguyễn Lê Phát, cầu thủ lỡ Giải CFA Team China 2026 cùng U23 Việt Nam, sẽ phải nghỉ khoảng 1 tháng sau chấn thương vai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.264001+07:00",
+      "fetched": "2026-03-17T21:48:58.264113+07:00"
+    },
+    {
+      "id": "94ff585a0b0fb6bed2dcf021fb4583c4",
+      "title": "Malaysia bị xử thua Việt Nam 0-3: Người hâm mộ thở phào!",
+      "link": "https://tuoitre.vn/malaysia-bi-xu-thua-viet-nam-0-3-nguoi-ham-mo-tho-phao-20260317175727529.htm",
+      "summary": "Bạn đọc báo Tuổi Trẻ hoan nghênh án phạt của Liên đoàn Bóng đá châu Á (AFC) dành cho Malaysia, và khẳng định đã quá mệt mỏi vì vụ việc kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.263878+07:00",
+      "fetched": "2026-03-17T21:48:58.263990+07:00"
+    },
+    {
+      "id": "c92e72ecc816505505ab886dfd9a0c65",
+      "title": "Iran 'đàm phán' với FIFA xin chuyển các trận đấu của họ tại World Cup 2026 sang Mexico",
+      "link": "https://tuoitre.vn/iran-dam-phan-voi-fifa-xin-chuyen-cac-tran-dau-cua-ho-tai-world-cup-2026-sang-mexico-20260317191308588.htm",
+      "summary": "Đại sứ quán Iran tại Mexico cho biết Liên đoàn Bóng đá Iran đang 'đàm phán' với FIFA để chuyển các trận đấu của họ ở World Cup 2026 từ Mỹ sang Mexico, với lý do xung đột ở Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.263749+07:00",
+      "fetched": "2026-03-17T21:48:58.263866+07:00"
+    },
+    {
+      "id": "0e23ccfcb28f3c5c783b7f6998ac8c81",
+      "title": "Đột kích tụ điểm xóc đĩa trong đêm, bắt giữ 17 người, thu hơn 210 triệu đồng",
+      "link": "https://tuoitre.vn/dot-kich-tu-diem-xoc-dia-trong-dem-bat-giu-17-nguoi-thu-hon-210-trieu-dong-20260317190706776.htm",
+      "summary": "Phòng Cảnh sát hình sự Công an tỉnh Quảng Trị vừa triệt phá một tụ điểm đánh bạc bằng hình thức xóc đĩa, bắt giữ 17 người chơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.263613+07:00",
+      "fetched": "2026-03-17T21:48:58.263734+07:00"
+    },
+    {
+      "id": "02ccd8ab55a2a801513dceff3a1328ce",
+      "title": "Đảm bảo nguồn cung, sớm triển khai sản xuất sử dụng xăng sinh học E10",
+      "link": "https://tuoitre.vn/dam-bao-nguon-cung-som-trien-khai-san-xuat-su-dung-xang-sinh-hoc-e10-2026031718521745.htm",
+      "summary": "Ngày 17-3, Thủ tướng Phạm Minh Chính chủ trì cuộc họp với Tổ công tác bảo đảm an ninh năng lượng, nhấn mạnh yêu cầu tiếp tục đa dạng hóa nguồn cung, nâng cao năng lực dự trữ quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.263486+07:00",
+      "fetched": "2026-03-17T21:48:58.263602+07:00"
+    },
+    {
+      "id": "8f24c3717c33e6450c889f721c11814f",
+      "title": "Thủ tướng yêu cầu duy trì hoạt động bình thường của ACV và tiến độ sân bay Long Thành",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-duy-tri-hoat-dong-binh-thuong-cua-acv-va-tien-do-san-bay-long-thanh-20260317192045325.htm",
+      "summary": "Thủ tướng giao Bộ Tài chính tiếp tục hướng dẫn, chỉ đạo ACV và các cơ quan, đơn vị liên quan tháo gỡ khó khăn, vướng mắc tại dự án xây dựng sân bay Long Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.263338+07:00",
+      "fetched": "2026-03-17T21:48:58.263473+07:00"
+    },
+    {
+      "id": "cfacd8e145aa166afd9fe6635586825f",
+      "title": "Tài khoản lãnh đạo an ninh cấp cao Iran bất ngờ đăng thư tay sau tin đồn bị Israel hạ sát",
+      "link": "https://tuoitre.vn/tai-khoan-lanh-dao-an-ninh-cap-cao-iran-bat-ngo-dang-thu-tay-sau-tin-don-bi-israel-ha-sat-20260317193725724.htm",
+      "summary": "Chỉ vài giờ trước đó, Israel thông báo đã hạ sát Thư ký Hội đồng An ninh quốc gia Iran Ali Larijani trong cuộc không kích rạng sáng 17-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.263210+07:00",
+      "fetched": "2026-03-17T21:48:58.263326+07:00"
+    },
+    {
+      "id": "ab5ddf9a34d074ce99e82238d0771465",
+      "title": "Tổng Bí thư Tô Lâm: Cần chiến lược cụ thể tái cơ cấu nền kinh tế",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-can-chien-luoc-cu-the-tai-co-cau-nen-kinh-te-20260317194102346.htm",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu các cơ quan liên quan cần có chiến lược cụ thể nhằm tái cơ cấu nền kinh tế, từng bước cân bằng cán cân thương mại nhưng vẫn bảo đảm mục tiêu tăng trưởng kinh tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.263081+07:00",
+      "fetched": "2026-03-17T21:48:58.263198+07:00"
+    },
+    {
+      "id": "7712f5dc0292e301bf77227d54168994",
+      "title": "Rà soát, thu hồi đất lấn chiếm hành lang đường sắt ở TP.HCM",
+      "link": "https://tuoitre.vn/ra-soat-thu-hoi-dat-lan-chiem-hanh-lang-duong-sat-o-tp-hcm-20260317194244136.htm",
+      "summary": "TP.HCM yêu cầu các địa phương có đường sắt đi qua khẩn trương rà soát, thống kê diện tích đất bị lấn chiếm trong hành lang an toàn giao thông đường sắt, lập hồ sơ quản lý và xây dựng kế hoạch thu hồi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.262952+07:00",
+      "fetched": "2026-03-17T21:48:58.263070+07:00"
+    },
+    {
+      "id": "e21a6d5c0b92330c9f932a3ad64302c2",
+      "title": "TP.HCM định hướng xây bệnh viện chuyên về lão khoa, bắt kịp tốc độ già hóa dân số",
+      "link": "https://tuoitre.vn/tp-hcm-dinh-huong-xay-benh-vien-chuyen-ve-lao-khoa-bat-kip-toc-do-gia-hoa-dan-so-20260317184852029.htm",
+      "summary": "Hiện TP.HCM có hơn 1,5 triệu người cao tuổi (từ 60 tuổi trở lên). Thành phố định hướng hình thành các bệnh viện chuyên lão khoa để bắt kịp tốc độ già hóa dân số nhanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.262818+07:00",
+      "fetched": "2026-03-17T21:48:58.262939+07:00"
+    },
+    {
+      "id": "6d4f91c25179d7626622d447544d0850",
+      "title": "Khởi công hơn 1 năm, dự án thư viện Cần Thơ mới làm được hơn 6%",
+      "link": "https://tuoitre.vn/khoi-cong-hon-1-nam-du-an-thu-vien-can-tho-moi-lam-duoc-hon-6-20260317191506056.htm",
+      "summary": "Ngày 17-3, Ban Quản lý dự án đầu tư xây dựng công trình giao thông và nông nghiệp thành phố Cần Thơ có báo cáo về tình hình thực hiện dự án thư viện thành phố Cần Thơ tại phường Ninh Kiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.262673+07:00",
+      "fetched": "2026-03-17T21:48:58.262804+07:00"
+    },
+    {
+      "id": "b20113e59fca13bd2905e85d3f53d2af",
+      "title": "Đại tướng Phan Văn Giang làm việc với Tỉnh ủy Quảng Ninh",
+      "link": "https://tuoitre.vn/dai-tuong-phan-van-giang-lam-viec-voi-tinh-uy-quang-ninh-20260317201134132.htm",
+      "summary": "Chiều 17-3, Đại tướng Phan Văn Giang - Bộ trưởng Bộ Quốc phòng - đã làm việc với Ban Thường vụ Tỉnh ủy Quảng Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T21:48:58.262443+07:00",
+      "fetched": "2026-03-17T21:48:58.262658+07:00"
+    },
     {
       "id": "d77c0c536ad31288d0c158d8725eb3eb",
       "title": "Volkswagen 'tặng xăng' cả năm cho khách Việt mua xe, quy đổi gần 1.200 lít",
@@ -453,6 +603,136 @@ window.newsData_2026_03_17 = {
       "fetched": "2026-03-17T15:40:11.862141+07:00"
     },
     {
+      "id": "8681b8ebc3123aa32082f442dd91180a",
+      "title": "Tiếp nhận 344 công dân Việt Nam từ phía Campuchia bàn giao",
+      "link": "https://thanhnien.vn/tiep-nhan-344-cong-dan-viet-nam-tu-phia-campuchia-ban-giao-18526031720051285.htm",
+      "summary": "344 công dân Việt Nam được phía Campuchia bàn giao cho Đồn biên phòng cửa khẩu quốc tế Hoa Lư, để đưa về nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:25:00+07:00",
+      "fetched": "2026-03-17T21:48:57.093333+07:00"
+    },
+    {
+      "id": "a6c25a2b800174fd589aadea03c5dbec",
+      "title": "5 thương hiệu SSD tốt nhất hiện nay",
+      "link": "https://thanhnien.vn/5-thuong-hieu-ssd-tot-nhat-hien-nay-18526031613341993.htm",
+      "summary": "Top 5 thương hiệu ổ cứng SSD biến máy tính cũ thành cỗ máy sở hữu tốc độ chóng mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:23:00+07:00",
+      "fetched": "2026-03-17T21:48:57.093524+07:00"
+    },
+    {
+      "id": "8e6c3a96fb9940b31c73133995aa64c0",
+      "title": "Tuyên truyền sử dụng điện an toàn, tiết kiệm cho học sinh qua gameshow 'Kilowatt'",
+      "link": "https://thanhnien.vn/tuyen-truyen-su-dung-dien-an-toan-tiet-kiem-cho-hoc-sinh-qua-gameshow-kilowatt-185260317204926117.htm",
+      "summary": "Gameshow Kilowatt chính thức trở lại mùa 3 với hình thức mới lạ hơn. Chương trình mang format 'giải - trí -tuệ', vừa giúp học sinh và tất cả các thành viên trong gia đình có những khoảnh khắc thư giãn, vừa chia sẻ những kiến thức bổ ích về việc sử dụng điện an toàn, tiết kiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:20:00+07:00",
+      "fetched": "2026-03-17T21:48:57.093689+07:00"
+    },
+    {
+      "id": "3731dab8b758816d79276e539f7a0026",
+      "title": "Tài xế xe tải dùng ma tuý, gây tai nạn liên hoàn",
+      "link": "https://vnexpress.net/tai-xe-xe-tai-dung-ma-tuy-gay-tai-nan-lien-hoan-5051637.html",
+      "summary": "Huỳnh Nhơn bị cáo buộc dương tính với ma túy, chở quá tải trọng, gây tai nạn liên hoàn với 3 xe khác, tông chết một người đi bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:19:34+07:00",
+      "fetched": "2026-03-17T21:48:53.502451+07:00"
+    },
+    {
+      "id": "4204faa37e7b24a2b13f6a6c22228670",
+      "title": "Hoàn thiện đề án cơ cấu Chính phủ nhiệm kỳ mới trong tháng 3",
+      "link": "https://vnexpress.net/hoan-thien-de-an-co-cau-chinh-phu-nhiem-ky-moi-trong-thang-3-5051621.html",
+      "summary": "Phó thủ tướng Phạm Thị Thanh Trà yêu cầu hoàn thiện đề án tổ chức và thành viên Chính phủ nhiệm kỳ mới để trình trước 30/3, phục vụ kiện toàn bộ máy tại kỳ họp đầu tiên của Quốc hội khóa 16.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:18:10+07:00",
+      "fetched": "2026-03-17T21:48:53.502688+07:00"
+    },
+    {
+      "id": "9c6a865a6a1ed2bf088690d421bf0bce",
+      "title": "Dự kiến lắp 10 điểm phát sóng vệ tinh Starlink trên vịnh Hạ Long",
+      "link": "https://vnexpress.net/du-kien-lap-10-diem-phat-song-ve-tinh-starlink-tren-vinh-ha-long-5051575.html",
+      "summary": "10 điểm nằm trong khu vực lõm sóng trên vịnh Hạ Long đã được khảo sát để lắp đặt điểm phát sóng vệ tinh Starlink.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:16:30+07:00",
+      "fetched": "2026-03-17T21:48:53.502862+07:00"
+    },
+    {
+      "id": "6df0ffa26b001b5f4061c4bd2ac957d5",
+      "title": "TV 144 Hz có thực sự mượt mà hơn 120 Hz?",
+      "link": "https://thanhnien.vn/tv-144-hz-co-thuc-su-muot-ma-hon-120-hz-185260317105701478.htm",
+      "summary": "Sự thật về TV 144 Hz và lý do vì sao tần số quét 120 Hz vẫn là 'ông vua' của hiện tại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:16:00+07:00",
+      "fetched": "2026-03-17T21:48:57.093843+07:00"
+    },
+    {
+      "id": "40c511959b24da77c5910aeccb232a84",
+      "title": "Cuba dỡ rào cản với doanh nghiệp Mỹ và nhà đầu tư nước ngoài",
+      "link": "https://vnexpress.net/cuba-do-rao-can-voi-doanh-nghiep-my-va-nha-dau-tu-nuoc-ngoai-5051592.html",
+      "summary": "Phó thủ tướng Cuba cho biết nước này sẵn sàng đón doanh nghiệp Mỹ và nước khác, \"mở rộng cửa\" với người gốc Cuba đang sống ở nước ngoài tới đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:02:09+07:00",
+      "fetched": "2026-03-17T21:48:53.503026+07:00"
+    },
+    {
+      "id": "172f6b826d5691228bf656e161e58f5c",
+      "title": "Giả bác sĩ tư vấn, điều trị tóc cho hàng loạt khách hàng",
+      "link": "https://vnexpress.net/gia-bac-si-tu-van-dieu-tri-toc-cho-hang-loat-khach-hang-5051635.html",
+      "summary": "Lê Thị Thanh Giang, 25 tuổi, cùng đồng phạm mở cơ sở điều trị các bệnh về tóc và da đầu không phép, cho nhân viên giả bác sĩ lừa 50 khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:01:46+07:00",
+      "fetched": "2026-03-17T21:48:53.503186+07:00"
+    },
+    {
+      "id": "748a011ff3c39cd7a4bc93038d034893",
+      "title": "NIC sẽ quy tụ 100 nhân tài công nghệ Việt toàn cầu",
+      "link": "https://vnexpress.net/nic-se-quy-tu-100-nhan-tai-cong-nghe-viet-toan-cau-5050746.html",
+      "summary": "Dự án quy tụ 100 nhân tài công nghệ Việt Nam trên thế giới được đề cập trong tọa đàm phát triển các ngành công nghệ chiến lược do NIC tổ chức tại Thung lũng Silicon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:00:17+07:00",
+      "fetched": "2026-03-17T21:48:53.503356+07:00"
+    },
+    {
+      "id": "748a011ff3c39cd7a4bc93038d034893",
+      "title": "NIC sẽ quy tụ 100 nhân tài công nghệ Việt toàn cầu",
+      "link": "https://vnexpress.net/nic-se-quy-tu-100-nhan-tai-cong-nghe-viet-toan-cau-5050746.html",
+      "summary": "Dự án quy tụ 100 nhân tài công nghệ Việt Nam trên thế giới được đề cập trong tọa đàm phát triển các ngành công nghệ chiến lược do NIC tổ chức tại Thung lũng Silicon.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-17T14:00:17+07:00",
+      "fetched": "2026-03-17T21:49:02.936939+07:00"
+    },
+    {
+      "id": "2736d5355a63391cbec294e0ec0a95d2",
+      "title": "11 năm rồi, cảm ơn em vẫn luôn bên anh",
+      "link": "https://vnexpress.net/bi-quyet-giu-hon-nhan-hanh-phuc-11-nam-roi-cam-on-em-van-luon-ben-anh-5051539.html",
+      "summary": "Cảm ơn em vì vẫn ở đây, vẫn là người phụ nữ của gia đình này và vẫn là người anh thương nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:00:00+07:00",
+      "fetched": "2026-03-17T21:48:53.503545+07:00"
+    },
+    {
+      "id": "ad22c748bc2078a31abb0cea0845c45e",
+      "title": "TNSV THACO Cup 2026 ngày 17.3: Luân lưu kịch tính; lộ diện 2 cái tên vào bán kết",
+      "link": "https://thanhnien.vn/tnsv-thaco-cup-2026-ngay-173-luan-luu-kich-tinh-lo-dien-2-cai-ten-vao-ban-ket-185260317163759946.htm",
+      "summary": "Bản tin TNSV THACO Cup 2026 ngày 17.3 trên Thanhnien.vn và kênh YouTube Báo Thanh Niên cập nhật những diễn biến mới nhất về các trận đấu, câu chuyện bên lề sân cỏ và lịch thi đấu sắp tới của giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:00:00+07:00",
+      "fetched": "2026-03-17T21:48:57.093996+07:00"
+    },
+    {
       "id": "247c5e24887a49c616ab08baba1efb04",
       "title": "Bắt nhóm tổ chức 'bốc thăm trúng thưởng' trong hội chợ ở Tây Ninh để lừa đảo",
       "link": "https://tuoitre.vn/bat-nhom-to-chuc-boc-tham-trung-thuong-trong-hoi-cho-o-tay-ninh-de-lua-dao-20260317110017191.htm",
@@ -601,6 +881,206 @@ window.newsData_2026_03_17 = {
       "category": "Tổng hợp",
       "published": "2026-03-17T13:53:03.685017+07:00",
       "fetched": "2026-03-17T13:53:03.685284+07:00"
+    },
+    {
+      "id": "55527968cd1cdc35b57dfae799d51975",
+      "title": "Tổng Bí thư: Cần có chiến lược cụ thể nhằm tái cơ cấu nền kinh tế",
+      "link": "https://thanhnien.vn/tong-bi-thu-can-co-chien-luoc-cu-the-nham-tai-co-cau-nen-kinh-te-1852603172019182.htm",
+      "summary": "Chiều 17.3, Tổng Bí thư Tô Lâm đã làm việc với Bộ Công thương và một số bộ, ngành liên quan về quan hệ thương mại quốc tế và kết nối thương mại với đối tác quan trọng trong bối cảnh địa - chính trị, địa - kinh tế thế giới hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:50:00+07:00",
+      "fetched": "2026-03-17T21:48:57.094151+07:00"
+    },
+    {
+      "id": "243947059783cef58cee0ed3bf4192f2",
+      "title": "Lãnh tụ tối cao Iran nêu điều kiện hạ nhiệt xung đột",
+      "link": "https://thanhnien.vn/lanh-tu-toi-cao-iran-neu-dieu-kien-ha-nhiet-xung-dot-185260317202534432.htm",
+      "summary": "Lãnh đạo tối cao mới của Iran Mojtaba Khamenei bác bỏ đề xuất giảm leo thang do các bên trung gian chuyển tới Tehran, yêu cầu Mỹ và Israel trước hết phải 'bị khuất phục' trước khi tính đến hòa bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:38:00+07:00",
+      "fetched": "2026-03-17T21:48:57.094310+07:00"
+    },
+    {
+      "id": "918bf76a74e27c88ff1682c2f4f66b82",
+      "title": "Thái Lan tăng tốc 'gia cố' biên giới với Campuchia",
+      "link": "https://thanhnien.vn/thai-lan-tang-toc-gia-co-bien-gioi-voi-campuchia-185260317200015223.htm",
+      "summary": "Thái Lan dự kiến bắt đầu xây dựng một đoạn hàng rào dọc biên giới với Campuchia từ tháng tới, nhằm tăng cường an ninh sau các vụ đụng độ chết người giữa 2 nước hồi năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:37:00+07:00",
+      "fetched": "2026-03-17T21:48:57.094487+07:00"
+    },
+    {
+      "id": "7849954944b2ab6540874d4b971fe58e",
+      "title": "Phát hiện chồng ngoại tình, vợ ra giá cho 'tiểu tam' thuê chồng",
+      "link": "https://thanhnien.vn/phat-hien-chong-ngoai-tinh-vo-ra-gia-cho-tieu-tam-thue-chong-185260317162433706.htm",
+      "summary": "Sau khi phát hiện chồng ngoại tình và vẫn tiếp tục dây dưa, một phụ nữ Thái Lan đưa ra đề nghị 'cho thuê chồng' gây tranh cãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:37:00+07:00",
+      "fetched": "2026-03-17T21:48:57.094639+07:00"
+    },
+    {
+      "id": "71817b72333f8a53400938e615c60a61",
+      "title": "Thủ tướng: Nguồn cung xăng dầu vẫn đảm bảo cho sản xuất, tiêu dùng",
+      "link": "https://vnexpress.net/thu-tuong-nguon-cung-xang-dau-van-dam-bao-cho-san-xuat-tieu-dung-5051631.html",
+      "summary": "Thủ tướng Phạm Minh Chính khẳng định xăng dầu, năng lượng vẫn đảm bảo cho sản xuất, tiêu dùng hiện nay và những tháng tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:31:16+07:00",
+      "fetched": "2026-03-17T21:48:53.503707+07:00"
+    },
+    {
+      "id": "71817b72333f8a53400938e615c60a61",
+      "title": "Thủ tướng: Nguồn cung xăng dầu vẫn đảm bảo cho sản xuất, tiêu dùng",
+      "link": "https://vnexpress.net/thu-tuong-nguon-cung-xang-dau-van-dam-bao-cho-san-xuat-tieu-dung-5051631.html",
+      "summary": "Thủ tướng Phạm Minh Chính khẳng định xăng dầu, năng lượng vẫn đảm bảo cho sản xuất, tiêu dùng hiện nay và những tháng tới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-17T13:31:16+07:00",
+      "fetched": "2026-03-17T21:49:00.897425+07:00"
+    },
+    {
+      "id": "22bcee671b48e327fa387786e4c32b60",
+      "title": "Đại tướng Phan Văn Giang làm việc với Ban Thường vụ Tỉnh ủy Quảng Ninh",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-lam-viec-voi-ban-thuong-vu-tinh-uy-quang-ninh-185260317200751103.htm",
+      "summary": "Chiều 17.3, tại tỉnh Quảng Ninh, đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng, đã làm việc với Ban Thường vụ Tỉnh ủy Quảng Ninh nhân dịp dẫn đầu đoàn đại biểu cấp cao Bộ Quốc phòng Việt Nam tham gia các hoạt động trong khuôn khổ Giao lưu hữu nghị quốc phòng biên giới Việt Nam - Trung Quốc lần t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:31:00+07:00",
+      "fetched": "2026-03-17T21:48:57.094788+07:00"
+    },
+    {
+      "id": "2809d569ba28f7e092184e9a07a06283",
+      "title": "Trường ĐH Nha Trang: Hẹn tái xuất mạnh mẽ ở sân chơi quốc tế",
+      "link": "https://thanhnien.vn/truong-dh-nha-trang-hen-tai-xuat-manh-me-o-san-choi-quoc-te-185260317133957981.htm",
+      "summary": "Trận thua 0-2 trước Trường ĐH Công nghệ Đồng Nai tại tứ kết giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO cup 2026) mang lại cho Trường ĐH Nha Trang bài học quý giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:30:00+07:00",
+      "fetched": "2026-03-17T21:48:57.094936+07:00"
+    },
+    {
+      "id": "bb05c88d56ccd7ee165974e7cf9be792",
+      "title": "Thành phố đầu tiên có 100% taxi chạy bằng điện ở nước nào?",
+      "link": "https://vnexpress.net/thanh-pho-dau-tien-co-100-taxi-chay-bang-dien-o-nuoc-nao-5051601.html",
+      "summary": "Hơn 22.000 taxi được chuyển đổi sang xe điện, biến thành phố này trở thành nơi đầu tiên trên thế giới có 100% taxi điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:28:12+07:00",
+      "fetched": "2026-03-17T21:48:53.503867+07:00"
+    },
+    {
+      "id": "23cb45f11129ea9ce7e646188ef667f7",
+      "title": "Đạo diễn hoạt hình 'Doraemon' qua đời",
+      "link": "https://vnexpress.net/dao-dien-hoat-hinh-doraemon-qua-doi-5051624.html",
+      "summary": "Tsutomu Shibayama, nhà làm phim Nhật thực hiện hơn 20 bộ hoạt hình \"Doraemon\", mất ở tuổi 84 vì bệnh ung thư phổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:24:27+07:00",
+      "fetched": "2026-03-17T21:48:53.504022+07:00"
+    },
+    {
+      "id": "a5b0783c7f717b5f8646b4ec029cdd8c",
+      "title": "Bác sĩ cảnh báo thời gian dễ đột quỵ trong ngày",
+      "link": "https://vnexpress.net/bac-si-canh-bao-thoi-gian-de-dot-quy-trong-ngay-5051568.html",
+      "summary": "Đột quỵ không báo trước, tuy nhiên thời gian từ lúc vừa thức dậy đến khi rời khỏi giường được xem là \"điểm đen\" của bệnh, đặc biệt từ 6-9h sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:15:42+07:00",
+      "fetched": "2026-03-17T21:48:53.504175+07:00"
+    },
+    {
+      "id": "51d90cfda194564639ff7d549e97dd4d",
+      "title": "Bà lão cầm dao chống trả tên cướp ở ngoài đồng",
+      "link": "https://vnexpress.net/ba-lao-cam-dao-chong-tra-ten-cuop-o-ngoai-dong-5051598.html",
+      "summary": "Đang cắt rau ngoài đồng, người phụ nữ 66 tuổi khi bị một thanh niên siết cổ, giật bông tai đã lập tức cầm dao chống trả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:14:26+07:00",
+      "fetched": "2026-03-17T21:48:53.504334+07:00"
+    },
+    {
+      "id": "dbd3cc8c1f5440ad4836faae71b83a85",
+      "title": "Lắp 10 điểm Starlink phủ sóng internet trên vịnh Hạ Long",
+      "link": "https://thanhnien.vn/lap-10-diem-starlink-phu-song-internet-tren-vinh-ha-long-1852603171927516.htm",
+      "summary": "Quảng Ninh triển khai thêm 10 điểm Starlink nhằm phủ sóng internet tại khu vực 'lõm' tín hiệu trên vịnh Hạ Long, góp phần nâng cao trải nghiệm du lịch và đảm bảo kết nối thông suốt cho du khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:14:00+07:00",
+      "fetched": "2026-03-17T21:48:57.095085+07:00"
+    },
+    {
+      "id": "29bfb46f543263a4e442500c9a01728f",
+      "title": "Trình Quốc hội đề án cơ cấu tổ chức và thành viên Chính phủ trước 30.3",
+      "link": "https://thanhnien.vn/trinh-quoc-hoi-de-an-co-cau-to-chuc-va-thanh-vien-chinh-phu-truoc-303-185260317192934706.htm",
+      "summary": "Phó thủ tướng Phạm Thị Thanh Trà yêu cầu Bộ Nội vụ khẩn trương hoàn thiện hồ sơ trình Chính phủ, Quốc hội về đề án cơ cấu tổ chức và thành viên Chính phủ trước ngày 30.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:08:00+07:00",
+      "fetched": "2026-03-17T21:48:57.095238+07:00"
+    },
+    {
+      "id": "6b7b86635d2425a9e612a9fd84068bad",
+      "title": "Thủ tướng: Duy trì ACV hoạt động bình thường, đảm bảo tiến độ sân bay Long Thành",
+      "link": "https://thanhnien.vn/thu-tuong-duy-tri-acv-hoat-dong-binh-thuong-dam-bao-tien-do-san-bay-long-thanh-185260317194834707.htm",
+      "summary": "Thủ tướng yêu cầu các bộ, ngành tiếp tục hướng dẫn, chỉ đạo ACV duy trì hoạt động bình thường và tiến độ triển khai của dự án Cảng hàng không quốc tế Long Thành giai đoạn 1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:02:00+07:00",
+      "fetched": "2026-03-17T21:48:57.095388+07:00"
+    },
+    {
+      "id": "11dff759921c8b11ca7a1092a0e413dc",
+      "title": "Guardiola nói về 'văn hóa đón nhận thất bại' trước thềm đại chiến Real",
+      "link": "https://vnexpress.net/guardiola-noi-ve-van-hoa-don-nhan-that-bai-truoc-them-dai-chien-real-5051625.html",
+      "summary": "Pep Guardiola đã có những phân tích trước thềm trận lượt về Man City - Real Madrid ở vòng 1/8 Champions League, đồng thời đưa ra những chiêm nghiệm về \"văn hóa đón nhận thất bại\" trong thể thao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:00:05+07:00",
+      "fetched": "2026-03-17T21:48:53.504509+07:00"
+    },
+    {
+      "id": "11dff759921c8b11ca7a1092a0e413dc",
+      "title": "Guardiola nói về 'văn hóa đón nhận thất bại' trước thềm đại chiến Real",
+      "link": "https://vnexpress.net/guardiola-noi-ve-van-hoa-don-nhan-that-bai-truoc-them-dai-chien-real-5051625.html",
+      "summary": "Pep Guardiola đã có những phân tích trước thềm trận lượt về Man City - Real Madrid ở vòng 1/8 Champions League, đồng thời đưa ra những chiêm nghiệm về \"văn hóa đón nhận thất bại\" trong thể thao.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-17T13:00:05+07:00",
+      "fetched": "2026-03-17T21:49:03.977567+07:00"
+    },
+    {
+      "id": "8332c83d5ba402ae0e08f546ef9575bd",
+      "title": "Vì sao vật thể lạ có thể làm tê liệt sân bay?",
+      "link": "https://vnexpress.net/vi-sao-vat-the-la-co-the-lam-te-liet-san-bay-5051560.html",
+      "summary": "Sân bay đóng cửa hoặc máy bay phải đổi hướng khi phát hiện vật thể lạ không phải sự thận trọng quá mức, mà là nguyên tắc an toàn bắt buộc trong hàng không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:00:00+07:00",
+      "fetched": "2026-03-17T21:48:53.504665+07:00"
+    },
+    {
+      "id": "557834db6b3a5326a520627945e3dfea",
+      "title": "Nhật Bản thử nghiệm xe tải tự lái đường dài",
+      "link": "https://vnexpress.net/nhat-ban-thu-nghiem-xe-tai-tu-lai-duong-dai-5049761.html",
+      "summary": "Xe tải bán rơ-moóc ứng dụng công nghệ tự lái Level 2+ vận chuyển hàng giữa Tokyo và Osaka, đánh dấu bước tiến hướng tới triển khai xe tải tự hành cấp độ cao hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:00:00+07:00",
+      "fetched": "2026-03-17T21:48:53.504827+07:00"
+    },
+    {
+      "id": "380e3289b00b24bc4e701d194b629a6f",
+      "title": "Xem nhanh 20h ngày 17.3: UAV, rốc két bắn vào Đại sứ quán Mỹ ở Iraq | Ông Trump thất vọng vì đồng minh",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-173-uav-roc-ket-ban-vao-dai-su-quan-my-o-iraq-ong-trump-that-vong-vi-dong-minh-185260317162932474.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 17.3 có nhiều tin tức đáng chú ý về: UAV, rốc két bắn vào Đại sứ quán Mỹ ở Iraq; hàng loạt đồng minh từ chối tham gia liên quân, ông Trump thất vọng;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T13:00:00+07:00",
+      "fetched": "2026-03-17T21:48:57.095563+07:00"
     },
     {
       "id": "8ce7143019e05f9268bccd7a55654d16",
@@ -2353,6 +2833,16 @@ window.newsData_2026_03_17 = {
       "fetched": "2026-03-17T13:53:08.751520+07:00"
     },
     {
+      "id": "94a5afab7e4af0945b88c386b4e89be3",
+      "title": "Rayan Cherki: 'Tôi muốn đưa bóng đá kiểu cũ trở lại thành xu hướng'",
+      "link": "https://vnexpress.net/rayan-cherki-toi-muon-dua-bong-da-kieu-cu-tro-lai-thanh-xu-huong-5051392.html",
+      "summary": "Trả lời phỏng vấn tạp chí Pháp France Football, ngôi sao Man City Rayan Cherki tự nhận là người kế thừa của bóng đá kiểu cũ, của những nghệ sĩ, biết cách tạo ra tính giải trí và những khoảnh khắc khó lường.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-17T04:56:04+07:00",
+      "fetched": "2026-03-17T21:49:03.979234+07:00"
+    },
+    {
       "id": "4d8e293f5976ea1fb8057089126f75a1",
       "title": "Tình thế cô đơn của Mỹ ở eo biển Hormuz",
       "link": "https://vnexpress.net/tinh-the-co-don-cua-my-o-eo-bien-hormuz-5051241.html",
@@ -2991,6 +3481,16 @@ window.newsData_2026_03_17 = {
       "category": "Thể thao",
       "published": "2026-03-17T01:42:59+07:00",
       "fetched": "2026-03-17T11:08:45.934820+07:00"
+    },
+    {
+      "id": "7f556e59b372916f8f5f805d0c68d710",
+      "title": "Jorge Valdano: 'Đừng bao giờ xem thường Real ở Champions League'",
+      "link": "https://vnexpress.net/jorge-valdano-dung-bao-gio-xem-thuong-real-o-champions-league-5051254.html",
+      "summary": "Trên mục góc nhìn của báo Tây Ban Nha El Pais, cựu HLV và CEO Real Madrid Jorge Valdano cảnh báo bất kỳ đội bóng nào cũng không thể xem thường thầy trò Alvaro Arbeloa, nhất là ở sân chơi Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-17T01:42:59+07:00",
+      "fetched": "2026-03-17T21:49:03.979391+07:00"
     },
     {
       "id": "9cd13af8b6d20a878fe4de6a90ddb784",
