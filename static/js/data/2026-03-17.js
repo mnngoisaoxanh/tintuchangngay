@@ -1,7 +1,97 @@
 window.newsData_2026_03_17 = {
   "date": "2026-03-17",
-  "lastUpdated": "2026-03-17T05:23:42.136641+07:00",
+  "lastUpdated": "2026-03-17T08:15:06.872068+07:00",
   "articles": [
+    {
+      "id": "e45fc2e646d3519365fd702602482475",
+      "title": "Eo biển Hormuz và phép thử với NATO",
+      "link": "https://tuoitre.vn/eo-bien-hormuz-va-phep-thu-voi-nato-2026031622314231.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã cảnh báo Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) sẽ đối mặt với một tương lai \"rất tồi tệ\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T08:15:01.799683+07:00",
+      "fetched": "2026-03-17T08:15:01.799815+07:00"
+    },
+    {
+      "id": "6285e593fe9dfcdc5d7b9c2f9515ee6a",
+      "title": "PGS.TS Hoàng Trang và giấc mơ bán dẫn Việt",
+      "link": "https://tuoitre.vn/pgs-ts-hoang-trang-va-giac-mo-ban-dan-viet-20260316222829915.htm",
+      "summary": "PGS.TS Hoàng Trang là nhà khoa học Việt Nam đầu tiên được vinh danh tại giải thưởng Sáng tạo châu Á Hitachi 2025 trong lĩnh vực vi mạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T08:15:01.799543+07:00",
+      "fetched": "2026-03-17T08:15:01.799669+07:00"
+    },
+    {
+      "id": "a765cd8142c82c4108322f9f25ab7dd1",
+      "title": "Lịch trực tiếp lượt về vòng 16 đội Champions League",
+      "link": "https://tuoitre.vn/lich-truc-tiep-luot-ve-vong-16-doi-champions-league-20260316191852659.htm",
+      "summary": "Rạng sáng 18 và 19-3 sẽ diễn ra các trận đấu lượt về vòng 16 đội Champions League, nơi 8 đội bóng xuất sắc nhất sẽ ghi tên vào tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T08:15:01.799387+07:00",
+      "fetched": "2026-03-17T08:15:01.799530+07:00"
+    },
+    {
+      "id": "8f58f1edc171b7f3a44c7cb5d3df52c2",
+      "title": "Thời tiết hôm nay 17-3: Bắc Bộ dễ nồm ẩm, Nam Bộ nắng gắt",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-17-3-bac-bo-de-nom-am-nam-bo-nang-gat-20260316155400882.htm",
+      "summary": "Hôm nay 17-3, thời tiết Bắc Bộ nóng kèm độ ẩm cao kết hợp sương mù là điều kiện tốt để nồm ẩm xuất hiện. Nam Bộ đang cao điểm mùa khô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T08:15:01.799259+07:00",
+      "fetched": "2026-03-17T08:15:01.799376+07:00"
+    },
+    {
+      "id": "6a99cd6ecee03f06bf87ebfac12ad8a4",
+      "title": "Tin tức sáng 17-3: Sun Group rót tiền làm sàn giao dịch tiền số",
+      "link": "https://tuoitre.vn/tin-tuc-sang-17-3-sun-group-rot-tien-lam-san-giao-dich-tien-so-20260316161619146.htm",
+      "summary": "Một số tin tức đáng chú ý: Mức đóng đảng phí mới theo tiền lương tối thiểu vùng; Chứng khoán Xuân Thiện miễn nhiệm tổng giám đốc trước thềm đại hội cổ đông; Triển lãm Kết nối chuỗi cung ứng hàng hóa quốc tế “4 trong 1” sẽ diễn ra tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T08:15:01.799129+07:00",
+      "fetched": "2026-03-17T08:15:01.799248+07:00"
+    },
+    {
+      "id": "5aa0e4c04b827cd3d5f6cfd60f767a20",
+      "title": "Áo dài trở thành 'ngôn ngữ' kể chuyện di sản Việt",
+      "link": "https://tuoitre.vn/ao-dai-tro-thanh-ngon-ngu-ke-chuyen-di-san-viet-20260316163232963.htm",
+      "summary": "Từ chất liệu truyền thống, họa tiết dân gian đến kỹ thuật thủ công, 29 thiết kế là 29 câu chuyện thời trang hướng đến sự bền vững, đồng thời tôn vinh di sản văn hóa Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T08:15:01.798997+07:00",
+      "fetched": "2026-03-17T08:15:01.799117+07:00"
+    },
+    {
+      "id": "c45f1cc64c0994ceaacdd58895458971",
+      "title": "Ngắm 10 khoảnh khắc trang sức kim cương rực rỡ nhất Oscar 2026",
+      "link": "https://tuoitre.vn/ngam-10-khoanh-khac-trang-suc-kim-cuong-ruc-ro-nhat-oscar-2026-20260316221058676.htm",
+      "summary": "Oscar 2026, sự kiện được mong chờ nhất năm của Hollywood mang đến những khoảnh khắc trang sức kim cương khó quên, có giá trị lên đến hàng chục triệu USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T08:15:01.798855+07:00",
+      "fetched": "2026-03-17T08:15:01.798984+07:00"
+    },
+    {
+      "id": "1f043342246d2922c1ff183683609d03",
+      "title": "Ốc lể ăn vặt hút kỳ lạ với người Đà Nẵng",
+      "link": "https://tuoitre.vn/oc-le-an-vat-hut-ky-la-voi-nguoi-da-nang-20260316112559391.htm",
+      "summary": "Dù được ví như là món ăn vặt thử thách sự kiên nhẫn, ốc lể luôn có sức hút kỳ lạ với nhiều người dân Đà Nẵng. Vào mùa này, mỗi lon ốc có giá khoảng 60.000-70.000 đồng vẫn được nhiều người tìm mua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T08:15:01.798706+07:00",
+      "fetched": "2026-03-17T08:15:01.798836+07:00"
+    },
+    {
+      "id": "f78df12134d93cda1da951c7f20d04fe",
+      "title": "Tình hình Trung Đông 17-3: Ông Trump họp báo, khẳng định tân lãnh tụ Iran Khamenei bị thương nặng",
+      "link": "https://tuoitre.vn/tinh-hinh-trung-dong-17-3-ong-trump-hop-bao-khang-dinh-tan-lanh-tu-iran-khamenei-bi-thuong-nang-20260317060835068.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cập nhật tình hình chiến sự tại Trung Đông với báo chí, trong đó ông đề cập nhiều vấn đề.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T08:15:01.798463+07:00",
+      "fetched": "2026-03-17T08:15:01.798690+07:00"
+    },
     {
       "id": "8cb436c216f532de479c4087e3af84bb",
       "title": "CLB Thanh Hóa được FIFA xóa án sát giờ 'G'",
@@ -161,6 +251,416 @@ window.newsData_2026_03_17 = {
       "category": "Tổng hợp",
       "published": "2026-03-17T01:49:10.946864+07:00",
       "fetched": "2026-03-17T01:49:10.947087+07:00"
+    },
+    {
+      "id": "bb65a6b9273074ec4e7e0de31602713e",
+      "title": "Hôm nay HLV Đinh Hồng Vinh dẫn dắt U.23 Việt Nam đấu giải Trung Quốc, thầy Kim làm gì?",
+      "link": "https://thanhnien.vn/hom-nay-hlv-dinh-hong-vinh-dan-dat-u23-viet-nam-dau-giai-trung-quoc-thay-kim-lam-gi-185260317080029057.htm",
+      "summary": "Nằm trong kế hoạch chuẩn bị tham dự giải bóng đá quốc tế CFA Team China – Tây An 2026, đồng thời hướng tới các mục tiêu quan trọng trong giai đoạn sắp tới, đội tuyển U.23 Việt Nam sẽ hội quân trở lại vào ngày hôm nay (17.3) tại Hà Nội với 29 cầu thủ được triệu tập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T01:14:00+07:00",
+      "fetched": "2026-03-17T08:14:59.763111+07:00"
+    },
+    {
+      "id": "5c810cc9abddbc3b8df7b757a05091d3",
+      "title": "Chánh văn phòng Nhà Trắng bị ung thư vú",
+      "link": "https://thanhnien.vn/chanh-van-phong-nha-trang-bi-ung-thu-vu-185260317075836243.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết Chánh văn phòng Nhà Trắng Susie Wiles đã được chẩn đoán mắc ung thư vú giai đoạn đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T01:12:00+07:00",
+      "fetched": "2026-03-17T08:14:59.763286+07:00"
+    },
+    {
+      "id": "d63b72bbd9238ac9d1bcefe1bda80bd7",
+      "title": "Thời tiết khắc nghiệt càn quét Mỹ, hơn 12.000 chuyến bay bị ảnh hưởng",
+      "link": "https://thanhnien.vn/thoi-tiet-khac-nghiet-can-quet-my-hon-12000-chuyen-bay-bi-anh-huong-18526031707274291.htm",
+      "summary": "Loạt sự kiện thời tiết khắc nghiệt đã ảnh hưởng đến hơn một dân số Mỹ, làm gián đoạn hơn 12.000 chuyến bay trong ngày 16.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T01:10:00+07:00",
+      "fetched": "2026-03-17T08:14:59.763462+07:00"
+    },
+    {
+      "id": "50724e8d15afa351e92116ed5b3de1bb",
+      "title": "Sau tuổi 50: đi bộ nhanh hay chậm tốt hơn?",
+      "link": "https://thanhnien.vn/sau-tuoi-50-di-bo-nhanh-hay-cham-tot-hon-185260316181428193.htm",
+      "summary": "Sau tuổi 50, nguy cơ mắc các bệnh tim mạch như huyết áp cao, xơ vữa động mạch hay rối loạn nhịp tim bắt đầu tăng lên. Vì vậy, duy trì đi bộ thường xuyên là một trong những cách đơn giản nhất để bảo vệ tim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T01:06:00+07:00",
+      "fetched": "2026-03-17T08:14:59.763619+07:00"
+    },
+    {
+      "id": "e985776e7a01332658bf149875647f7a",
+      "title": "Tỏa sáng nghị lực phi thường trong chương trình truyền hình thiện nguyện",
+      "link": "https://thanhnien.vn/toa-sang-nghi-luc-phi-thuong-trong-chuong-trinh-truyen-hinh-thien-nguyen-185260316224351627.htm",
+      "summary": "Trong dòng chảy hối hả của những chương trình giải trí sôi động, vẫn có những khoảng lặng dịu êm nhưng đầy sức nặng, nơi những câu chuyện về tình người và ý chí phi thường được tôn vinh. Đó là các chương trình truyền hình thiện nguyện dành cho người khuyết tật như Thần tài gõ cửa, Nối trọn yêu thươn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T01:00:00+07:00",
+      "fetched": "2026-03-17T08:14:59.763772+07:00"
+    },
+    {
+      "id": "95ec92e356a620532713cc52a68faa4c",
+      "title": "Căng da mặt Deep Plane - Trẻ hóa toàn diện không chỉ ở bề mặt",
+      "link": "https://thanhnien.vn/cang-da-mat-deep-plane-tre-hoa-toan-dien-khong-chi-o-be-mat-185260316183322786.htm",
+      "summary": "Trong xu hướng trẻ hóa khuôn mặt bằng các kỹ thuật phẫu thuật hiện đại, căng da mặt Deep Plane được xem là một trong những phương pháp trẻ hóa toàn diện. Kỹ thuật này tác động sâu vào cấu trúc giải phẫu khuôn mặt, giúp cải thiện rõ rệt tình trạng lão hóa, nếp nhăn và da chảy xệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T01:00:00+07:00",
+      "fetched": "2026-03-17T08:14:59.763934+07:00"
+    },
+    {
+      "id": "3b96be3f09c2e30ee137cac36cf691d4",
+      "title": "Đừng bỏ lỡ nhiều quyền lợi khi nhận bảo hiểm thất nghiệp",
+      "link": "https://thanhnien.vn/dung-bo-lo-nhieu-quyen-loi-khi-nhan-bao-hiem-that-nghiep-185260316181933869.htm",
+      "summary": "Với nhiều người trẻ, bảo hiểm thất nghiệp được hiểu đơn giản là \"tiền trợ cấp thất nghiệp khi mất việc làm\". Nhưng thực tế đằng sau khoản tiền trợ cấp thất nghiệp hằng tháng là nhiều quyền lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T01:00:00+07:00",
+      "fetched": "2026-03-17T08:14:59.764084+07:00"
+    },
+    {
+      "id": "299b392557761973f124f959d4a7c7aa",
+      "title": "Nhà phố 1 trệt 3 lầu giá từ 4,8 tỉ đồng thu hút người mua tại TP.HCM",
+      "link": "https://thanhnien.vn/nha-pho-1-tret-3-lau-gia-tu-48-ti-dong-thu-hut-nguoi-mua-tai-tphcm-185260316173435545.htm",
+      "summary": "Trong bối cảnh phân khúc bất động sản thấp tầng đang tiếp đà tăng giá, Salacia Villas thu hút sự quan tâm từ thị trường bởi mức giá cạnh tranh và phương thức thanh toán linh hoạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T01:00:00+07:00",
+      "fetched": "2026-03-17T08:14:59.764232+07:00"
+    },
+    {
+      "id": "b82dfc531aa44b7b5a26660b78afd16b",
+      "title": "Tàn cây che tầm nhìn trên quốc lộ",
+      "link": "https://thanhnien.vn/tan-cay-che-tam-nhin-tren-quoc-lo-18526031615553649.htm",
+      "summary": "Bạn đọc phản ánh trên QL20, tại Km 45, thuộc ấp Hiệp Lực, xã Định Quán, tỉnh Đồng Nai (trước đây là KP.Hiệp Lực, thị trấn Định Quán, H.Định Quán) có một tàn cây sà ra đường, gây khó khăn cho các phươn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T01:00:00+07:00",
+      "fetched": "2026-03-17T08:15:00.910494+07:00"
+    },
+    {
+      "id": "17a2c4ce8e153a848d506dc9a4433322",
+      "title": "Đột biến gen và các kỹ thuật hiện đại để sinh con khỏe mạnh",
+      "link": "https://thanhnien.vn/dot-bien-gen-va-cac-ky-thuat-hien-dai-de-sinh-con-khoe-manh-185260316152118332.htm",
+      "summary": "Theo thống kê, mỗi năm Việt Nam có khoảng hơn 41.000 trẻ dị tật bẩm sinh chào đời, trong đó 80% số trẻ mắc rối loạn di truyền được sinh ra bởi cha mẹ hoàn toàn khỏe mạnh, không hề biết mình mang gen bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T01:00:00+07:00",
+      "fetched": "2026-03-17T08:15:00.910898+07:00"
+    },
+    {
+      "id": "31fa2e33a34bb91a4373cba666912b65",
+      "title": "Từ lướt sóng sang nắm giữ: Sự trở lại đầu tư dài hạn trong bất động sản",
+      "link": "https://thanhnien.vn/tu-luot-song-sang-nam-giu-su-tro-lai-dau-tu-dai-han-trong-bat-dong-san-185260316105128358.htm",
+      "summary": "Trong mọi chu kỳ bất động sản, thị trường luôn chứng kiến sự phân hóa rõ rệt giữa các nhóm tài sản. Khi thị trường tăng trưởng nóng, khoảng cách này thường bị che mờ bởi làn sóng kỳ vọng tăng giá ngắn hạn và tâm lý đầu cơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T01:00:00+07:00",
+      "fetched": "2026-03-17T08:15:00.911066+07:00"
+    },
+    {
+      "id": "5c22bc648bd6b7395ecbafb3a274bad0",
+      "title": "TP.HCM tái cấu trúc hạ tầng: Xác lập tâm điểm mới tại khu đông",
+      "link": "https://thanhnien.vn/tphcm-tai-cau-truc-ha-tang-xac-lap-tam-diem-moi-tai-khu-dong-185260316102816602.htm",
+      "summary": "Không chỉ dừng lại ở các đồ án quy hoạch, việc hình thành những hệ thống hạ tầng huyết mạch và các trung tâm chức năng mới đang tạo ra một lực đẩy mạnh mẽ, đưa khu đông trở thành điểm sáng cho các dòng vốn đầu tư và những tiêu chuẩn sống quốc tế, thay đổi hoàn toàn diện mạo đô thị TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T01:00:00+07:00",
+      "fetched": "2026-03-17T08:15:00.911225+07:00"
+    },
+    {
+      "id": "2c69fe8b8f024c272052cb1ebe58bd05",
+      "title": "NSƯT Hạnh Thúy nói gì về danh xưng 'diễn viên xấu nhất màn ảnh'?",
+      "link": "https://thanhnien.vn/nsut-hanh-thuy-noi-gi-ve-danh-xung-dien-vien-xau-nhat-man-anh-185260316000801987.htm",
+      "summary": "Trong suốt hành trình theo đuổi nghệ thuật, Hạnh Thúy nhiều lần được đạo diễn tin tưởng giao cho những vai diễn có số phận lam lũ, chịu nhiều vất vả. Cũng bởi những tạo hình giản dị, khắc khổ trên màn ảnh mà không ít lần cô bị khán giả gán cho danh xưng 'nữ diễn viên xấu nhất màn ảnh'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T01:00:00+07:00",
+      "fetched": "2026-03-17T08:15:00.911382+07:00"
+    },
+    {
+      "id": "f4d97edce57298e819a0ba487772abf2",
+      "title": "Quyến rũ kiêu kỳ với trang phục vải lụa mềm mại",
+      "link": "https://thanhnien.vn/thoi-trang-tre/quyen-ru-kieu-ky-voi-trang-phuc-vai-lua-mem-mai-185260312100155998.htm",
+      "summary": "Mùa xuân là mùa đẹp nhất để nàng khoác lên mình những bộ trang phục vải lụa mềm mại, tôn lên vẻ ngoài sang trọng và quý phái. Nàng thỏa sức biến hóa hình ảnh cùng bản phối sơ mi lụa, slip dress, chân váy satin phối áo cổ đổ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T01:00:00+07:00",
+      "fetched": "2026-03-17T08:15:00.911556+07:00"
+    },
+    {
+      "id": "39250c3af6893bf105c627810fa0394b",
+      "title": "F88 dự kiến chuyển cổ phiếu sang sàn HoSE",
+      "link": "https://vnexpress.net/f88-du-kien-chuyen-co-phieu-sang-san-hose-5051248.html",
+      "summary": "F88 trình Đại hội cổ đông xem xét kế hoạch tăng vốn điều lệ thêm 1.365 tỷ đồng và phương án chuyển niêm yết cổ phiếu từ sàn UPCoM sang Sở Giao dịch Chứng khoán TP HCM.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-17T01:00:00+07:00",
+      "fetched": "2026-03-17T08:15:03.682307+07:00"
+    },
+    {
+      "id": "366c1618bb5f7f917cfc0256f8a58589",
+      "title": "Nghệ sĩ Lê Thiện nói lý do đóng phim ở tuổi 81, hé lộ về cát sê",
+      "link": "https://thanhnien.vn/nghe-si-le-thien-noi-ly-do-dong-phim-o-tuoi-81-he-lo-ve-cat-se-185260317075204851.htm",
+      "summary": "Gây chú ý khi góp mặt trong dự án điện ảnh 'Anh Hùng', NSƯT Lê Thiện khẳng định bà trân trọng và muốn ủng hộ tác phẩm điện ảnh đầu tay của Võ Thạch Thảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T00:59:00+07:00",
+      "fetched": "2026-03-17T08:15:00.911716+07:00"
+    },
+    {
+      "id": "5477dee3cf721d2cad2bc7da3c41d81e",
+      "title": "Nvidia ra 'OpenClaw phiên bản bảo mật'",
+      "link": "https://vnexpress.net/nvidia-ra-openclaw-phien-ban-bao-mat-5051238.html",
+      "summary": "Nvidia công bố NemoClaw - nền tảng tác nhân được xây dựng dựa trên OpenClaw nhưng tích hợp thêm tính năng bảo mật và quyền riêng tư cấp doanh nghiệp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-17T00:56:00+07:00",
+      "fetched": "2026-03-17T08:15:05.848999+07:00"
+    },
+    {
+      "id": "362cf9ef8e84a3b7928ee9da42e2fa0b",
+      "title": "Israel bác tin sắp cạn tên lửa đánh chặn",
+      "link": "https://vnexpress.net/israel-bac-tin-sap-can-ten-lua-danh-chan-5051242.html",
+      "summary": "Quân đội Israel khẳng định đã \"chuẩn bị cho cuộc chiến kéo dài\", phủ nhận thông tin họ đang cạn kiệt tên lửa đánh chặn sau hơn hai tuần xung đột với Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-17T00:53:16+07:00",
+      "fetched": "2026-03-17T08:15:02.838773+07:00"
+    },
+    {
+      "id": "9a76b407f262e7423159c9ca9316540b",
+      "title": "Chờ các CLB Anh vượt khó ở Champions League",
+      "link": "https://vnexpress.net/cho-cac-clb-anh-vuot-kho-o-champions-league-5051197.html",
+      "summary": "Cả 6 đội Ngoại hạng Anh, là Arsenal, Man City, Liverpool, Chelsea Tottenham, Newcastle đều gặp khó trước lượt về vòng 1/8 Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-17T00:52:26+07:00",
+      "fetched": "2026-03-17T08:15:06.866007+07:00"
+    },
+    {
+      "id": "5379c20c17e176733288e4d255afa452",
+      "title": "Định giá Tucson 2017?",
+      "link": "https://vnexpress.net/dinh-gia-tucson-2017-5051240.html",
+      "summary": "Xe Tucson 2017 bản xăng cao nhất, bảo dưỡng hãng đầy đủ, chạy 125.000 km, xin hỏi có thể bán được bao nhiêu tiền. (Trần Lương)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T00:11:33+07:00",
+      "fetched": "2026-03-17T08:14:57.473442+07:00"
+    },
+    {
+      "id": "6c35b57a118d8f894432f2abdb2a66d0",
+      "title": "TP HCM muốn huy động 1.000 tỷ đồng kiều hối cho khoa học công nghệ",
+      "link": "https://vnexpress.net/tp-hcm-muon-huy-dong-1-000-ty-dong-kieu-hoi-cho-khoa-hoc-cong-nghe-5051207.html",
+      "summary": "TP HCM sẽ lập quỹ đầu tư công nghệ và triển khai các sản phẩm tiền gửi chuyên biệt dành cho kiều bào nhằm huy động nguồn lực đầu tư cho khoa học công nghệ và chuyển đổi xanh trong sản xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T00:00:00+07:00",
+      "fetched": "2026-03-17T08:14:57.473636+07:00"
+    },
+    {
+      "id": "6ce37f7c7d5dbd7bb8aa5657eeca1684",
+      "title": "Điều gì xảy ra nếu Iran rút khỏi World Cup 2026?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-neu-iran-rut-khoi-world-cup-2026-5050948.html",
+      "summary": "Nếu rút khỏi World Cup 2026, Iran sẽ đối mặt với những hậu quả về tài chính, nguy cơ bị cấm dự các giải đấu quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T00:00:00+07:00",
+      "fetched": "2026-03-17T08:14:57.473806+07:00"
+    },
+    {
+      "id": "65ccca192132b1225abbccd3344647df",
+      "title": "Vì sao nhiều người Singapore chọn chỉ sinh một đứa con?",
+      "link": "https://vnexpress.net/vi-sao-nhieu-nguoi-singapore-chon-chi-sinh-mot-dua-con-5050847.html",
+      "summary": "Áp lực tài chính khổng lồ, quỹ thời gian eo hẹp và khao khát nuôi dạy con hoàn hảo khiến nhiều vợ chồng Singapore chọn sinh một đứa để bảo toàn sự nghiệp riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T00:00:00+07:00",
+      "fetched": "2026-03-17T08:14:57.473965+07:00"
+    },
+    {
+      "id": "9976542f77d28631075fcde3928ba674",
+      "title": "Tài xế bỏ chạy sau khi mở cửa gây tai nạn",
+      "link": "https://vnexpress.net/tai-xe-bo-chay-sau-khi-mo-cua-gay-tai-nan-5051007.html",
+      "summary": "Cửa bên lái ôtô màu trắng bật mở khiến người đi xe máy bị xô ngã vào ôtô màu đen, hôm 14/3 tại đường Xô Viết Nghệ Tĩnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T00:00:00+07:00",
+      "fetched": "2026-03-17T08:14:57.474122+07:00"
+    },
+    {
+      "id": "6c35b57a118d8f894432f2abdb2a66d0",
+      "title": "TP HCM muốn huy động 1.000 tỷ đồng kiều hối cho khoa học công nghệ",
+      "link": "https://vnexpress.net/tp-hcm-muon-huy-dong-1-000-ty-dong-kieu-hoi-cho-khoa-hoc-cong-nghe-5051207.html",
+      "summary": "TP HCM sẽ lập quỹ đầu tư công nghệ và triển khai các sản phẩm tiền gửi chuyên biệt dành cho kiều bào nhằm huy động nguồn lực đầu tư cho khoa học công nghệ và chuyển đổi xanh trong sản xuất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-17T00:00:00+07:00",
+      "fetched": "2026-03-17T08:15:05.849178+07:00"
+    },
+    {
+      "id": "47ba255b170fba5374b7f8e14d72da4e",
+      "title": "Tân Lãnh tụ Iran chọn cựu tư lệnh IRGC làm cố vấn quân sự",
+      "link": "https://vnexpress.net/tan-lanh-tu-iran-chon-cuu-tu-lenh-irgc-lam-co-van-quan-su-5051234.html",
+      "summary": "Tân Lãnh tụ Tối cao Iran Mojtaba Khamenei bổ nhiệm cựu tư lệnh IRGC Mohsen Rezaei, người có quan điểm cứng rắn, làm cố vấn quân sự, theo truyền thông địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T23:58:00+07:00",
+      "fetched": "2026-03-17T08:14:57.474290+07:00"
+    },
+    {
+      "id": "47ba255b170fba5374b7f8e14d72da4e",
+      "title": "Tân Lãnh tụ Iran chọn cựu tư lệnh IRGC làm cố vấn quân sự",
+      "link": "https://vnexpress.net/tan-lanh-tu-iran-chon-cuu-tu-lenh-irgc-lam-co-van-quan-su-5051234.html",
+      "summary": "Tân Lãnh tụ Tối cao Iran Mojtaba Khamenei bổ nhiệm cựu tư lệnh IRGC Mohsen Rezaei, người có quan điểm cứng rắn, làm cố vấn quân sự, theo truyền thông địa phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T23:58:00+07:00",
+      "fetched": "2026-03-17T08:15:02.838950+07:00"
+    },
+    {
+      "id": "10fd637a27e4d0d925e95975143c00ae",
+      "title": "Hoa gạo bung nở nhuộm đỏ vùng quê ngoại thành Hà Nội",
+      "link": "https://vnexpress.net/hoa-gao-bung-no-nhuom-do-vung-que-ngoai-thanh-ha-noi-5050108.html",
+      "summary": "Nằm bên dòng sông Đáy, hàng hoa gạo cổ thụ thôn Đoan Nữ, xã Mỹ Đức, Hà Nội, trút lá, nở hoa đỏ rực, đánh dấu sự chuyển giao thời tiết và khởi đầu mùa vụ mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T23:47:26+07:00",
+      "fetched": "2026-03-17T08:14:57.474462+07:00"
+    },
+    {
+      "id": "d45dbfeffb1e559aaabed22676ccba85",
+      "title": "Ông Trump muốn hoãn gặp ông Tập",
+      "link": "https://vnexpress.net/ong-trump-muon-hoan-gap-ong-tap-5051232.html",
+      "summary": "Tổng thống Mỹ Donald Trump đề nghị Trung Quốc lùi cuộc gặp thượng đỉnh giữa lãnh đạo hai nước khoảng một tháng để ông xử lý cuộc chiến tại Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T23:34:20+07:00",
+      "fetched": "2026-03-17T08:14:57.474625+07:00"
+    },
+    {
+      "id": "d45dbfeffb1e559aaabed22676ccba85",
+      "title": "Ông Trump muốn hoãn gặp ông Tập",
+      "link": "https://vnexpress.net/ong-trump-muon-hoan-gap-ong-tap-5051232.html",
+      "summary": "Tổng thống Mỹ Donald Trump đề nghị Trung Quốc lùi cuộc gặp thượng đỉnh giữa lãnh đạo hai nước khoảng một tháng để ông xử lý cuộc chiến tại Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T23:34:20+07:00",
+      "fetched": "2026-03-17T08:15:02.839125+07:00"
+    },
+    {
+      "id": "3f7ec8176004fe3c4e478351d07abc20",
+      "title": "Nhiều hàng quán tăng giá",
+      "link": "https://vnexpress.net/nhieu-hang-quan-tang-gia-5050405.html",
+      "summary": "Sau Tết Nguyên đán, giá nguyên liệu và xăng tăng kéo chi phí vận chuyển, vận hành đi lên, nhiều quán ăn tăng giá 3-50% mỗi món.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T23:32:10+07:00",
+      "fetched": "2026-03-17T08:14:57.474789+07:00"
+    },
+    {
+      "id": "3f7ec8176004fe3c4e478351d07abc20",
+      "title": "Nhiều hàng quán tăng giá",
+      "link": "https://vnexpress.net/nhieu-hang-quan-tang-gia-5050405.html",
+      "summary": "Sau Tết Nguyên đán, giá nguyên liệu và xăng tăng kéo chi phí vận chuyển, vận hành đi lên, nhiều quán ăn tăng giá 3-50% mỗi món.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-16T23:32:10+07:00",
+      "fetched": "2026-03-17T08:15:03.681815+07:00"
+    },
+    {
+      "id": "4c3adf0fdbb0a6745f487cf15b606b20",
+      "title": "Bẫy thổi phồng chức danh khi tuyển dụng",
+      "link": "https://vnexpress.net/bay-thoi-phong-chuc-danh-khi-tuyen-dung-5049842.html",
+      "summary": "Nhiều doanh nghiệp đang gán mác \"giám đốc\", \"trưởng phòng\" cho người lao động nhưng chỉ trả mức lương nhân viên nhằm thu hút ứng viên và tối ưu chi phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T23:29:00+07:00",
+      "fetched": "2026-03-17T08:14:57.474942+07:00"
+    },
+    {
+      "id": "4fba136d03c9d2af47a64d1002a3d3b7",
+      "title": "Bác sĩ ép tim cho nạn nhân giữa phố: ‘Cứu được hay không cũng phải cứu’",
+      "link": "https://vnexpress.net/bac-si-ep-tim-cho-nan-nhan-giua-pho-cuu-duoc-hay-khong-cung-phai-cuu-5051233.html",
+      "summary": "Thấy nam thanh niên gặp tai nạn nằm bất động, tím tái, thậm chí người dân đã rải tiền lẻ vì nghĩ không qua khỏi, bác sĩ Nguyễn Huy Tiến lập tức dừng xe, ép tim liên tục giúp nạn nhân hồi sinh sau vài phút \"vàng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T23:25:06+07:00",
+      "fetched": "2026-03-17T08:14:57.475106+07:00"
+    },
+    {
+      "id": "8583b204e586d15341d798b329b5005f",
+      "title": "AmCham tại Việt Nam hợp nhất",
+      "link": "https://vnexpress.net/amcham-tai-viet-nam-hop-nhat-5051223.html",
+      "summary": "Sau hơn 3 thập kỷ hoạt động tại Việt Nam dưới hai chi hội độc lập ở Hà Nội và TP HCM, Hiệp hội Thương mại Mỹ tại Việt Nam (AmCham) đã hợp nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T23:22:48+07:00",
+      "fetched": "2026-03-17T08:14:57.475269+07:00"
+    },
+    {
+      "id": "8583b204e586d15341d798b329b5005f",
+      "title": "AmCham tại Việt Nam hợp nhất",
+      "link": "https://vnexpress.net/amcham-tai-viet-nam-hop-nhat-5051223.html",
+      "summary": "Sau hơn 3 thập kỷ hoạt động tại Việt Nam dưới hai chi hội độc lập ở Hà Nội và TP HCM, Hiệp hội Thương mại Mỹ tại Việt Nam (AmCham) đã hợp nhất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-16T23:22:48+07:00",
+      "fetched": "2026-03-17T08:15:03.682149+07:00"
+    },
+    {
+      "id": "946238a76b7749a66e8cc29a5272eba3",
+      "title": "Trường lo học sinh sa sút khi bị siết dạy thêm",
+      "link": "https://vnexpress.net/truong-lo-hoc-sinh-sa-sut-khi-bi-siet-day-them-5049373.html",
+      "summary": "Lo học sinh sa sút khi bị siết dạy thêm, một số trường gộp nhóm trung bình với yếu để dạy, hướng dẫn tự học, song vẫn mong được nới quy định để duy trì chất lượng giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T23:06:07+07:00",
+      "fetched": "2026-03-17T08:14:57.475446+07:00"
+    },
+    {
+      "id": "01255b8569488bf226f3e4f4854fae1a",
+      "title": "Điểm tin 6h: Bước sang ngày 18 xung đột Trung Đông",
+      "link": "https://vnexpress.net/diem-tin-6h-buoc-sang-ngay-18-xung-dot-trung-dong-5051231.html",
+      "summary": "Thủ tướng Israel tiếp tục đăng video chứng minh mình còn sống; Ba tàu dầu Pakistan băng qua Eo biển Hormuz an toàn...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T23:01:38+07:00",
+      "fetched": "2026-03-17T08:14:57.475601+07:00"
+    },
+    {
+      "id": "ee76a9a6c0895e2a72799a3b3e12233d",
+      "title": "Lương cơ sở tăng, bạn được hưởng lợi thế nào?",
+      "link": "https://vnexpress.net/luong-co-so-tang-ban-duoc-huong-loi-the-nao-5051171.html",
+      "summary": "Từ ngày 1/7, lương cơ sở dự kiến tăng thêm 8%, không chỉ thu nhập của công chức, viên chức được cải thiện mà các khoản trợ cấp thai sản, lương hưu cũng đồng loạt điều chỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T23:00:00+07:00",
+      "fetched": "2026-03-17T08:14:57.475756+07:00"
+    },
+    {
+      "id": "5e3e68f43db6da273e647a1ce07e81ca",
+      "title": "Vì sao Bitcoin rớt giá nhanh nhưng cũng sớm phục hồi?",
+      "link": "https://vnexpress.net/vi-sao-bitcoin-rot-gia-nhanh-nhung-cung-som-phuc-hoi-5051055.html",
+      "summary": "Khi có xung đột Trung Đông, Bitcoin lập tức sụt về 63.000 USD nhưng đến nay đã tăng trở lại 17% trong khi nhiều tài sản khác biến động mạnh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-16T23:00:00+07:00",
+      "fetched": "2026-03-17T08:15:03.681987+07:00"
+    },
+    {
+      "id": "d60525db0ebd5ec7fd9ab36f05dd473f",
+      "title": "Arsenal nguy cơ mất Dowman vì kỳ thi trung học",
+      "link": "https://vnexpress.net/arsenal-nguy-co-mat-dowman-vi-ky-thi-trung-hoc-5051225.html",
+      "summary": "Việc học và thi có thể buộc tài năng 16 tuổi Max Dowman phải rời xa Arsenal trong giai đoạn đua nước rút Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-16T22:46:38+07:00",
+      "fetched": "2026-03-17T08:15:06.866184+07:00"
     },
     {
       "id": "6e5b514e5fec00b4bf6f8b275a741b8c",
