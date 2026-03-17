@@ -1,7 +1,107 @@
 window.newsData_2026_03_17 = {
   "date": "2026-03-17",
-  "lastUpdated": "2026-03-17T21:49:03.990120+07:00",
+  "lastUpdated": "2026-03-17T23:56:11.205470+07:00",
   "articles": [
+    {
+      "id": "3d4248fe38f8bd31fb152d713b7e4c99",
+      "title": "Không chỉ vé Asian Cup, Malaysia còn 'tặng' Việt Nam một món quà bất ngờ",
+      "link": "https://tuoitre.vn/khong-chi-ve-asian-cup-malaysia-con-tang-viet-nam-mot-mon-qua-bat-ngo-20260317191524495.htm",
+      "summary": "Việc được Liên đoàn Bóng đá châu Á (AFC) xử thắng trận gặp Malaysia ở vòng loại Asian Cup 2027 mang đến cho tuyển Việt Nam nhiều lợi ích, bên cạnh tấm vé trực tiếp đến Giải vô địch châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T23:56:04.734314+07:00",
+      "fetched": "2026-03-17T23:56:04.734427+07:00"
+    },
+    {
+      "id": "0b864fc2e8992aece837b9fe7b90c46d",
+      "title": "Đánh bại nhà vô địch Trung Quốc, Úc vào chung kết Asian Cup 2026",
+      "link": "https://tuoitre.vn/danh-bai-nha-vo-dich-trung-quoc-uc-vao-chung-ket-asian-cup-2026-20260317201633653.htm",
+      "summary": "Đội trưởng Sam Kerr đã ghi bàn thắng quyết định ở phút 58, giúp Úc đánh bại đương kim vô địch Trung Quốc 2-1 vào chiều 17-3 ở trận bán kết đầu tiên của Asian Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T23:56:04.734190+07:00",
+      "fetched": "2026-03-17T23:56:04.734303+07:00"
+    },
+    {
+      "id": "fabe1477afd8117a3639fdd2d7fa6fcf",
+      "title": "Đạo diễn Doraemon Tsutomu Shibayama qua đời",
+      "link": "https://tuoitre.vn/dao-dien-doraemon-tsutomu-shibayama-qua-doi-20260317203403691.htm",
+      "summary": "Tsutomu Shibayama, đạo diễn huyền thoại gắn bó hơn 20 năm với loạt phim Doraemon, đã qua đời vì ung thư phổi, hưởng thọ 84 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T23:56:04.734066+07:00",
+      "fetched": "2026-03-17T23:56:04.734179+07:00"
+    },
+    {
+      "id": "287bb17f944e0c74d6c10ee72243acbf",
+      "title": "Nhà Trắng: Tàu dầu 'nhỏ giọt' qua Hormuz, chiến sự với Iran không gây tổn hại kinh tế Mỹ",
+      "link": "https://tuoitre.vn/nha-trang-tau-dau-nho-giot-qua-hormuz-chien-su-voi-iran-khong-gay-ton-hai-kinh-te-my-20260317204333794.htm",
+      "summary": "Cố vấn kinh tế Nhà Trắng Kevin Hassett cho biết các tàu chở dầu đang bắt đầu đi qua eo biển Hormuz trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T23:56:04.733944+07:00",
+      "fetched": "2026-03-17T23:56:04.734055+07:00"
+    },
+    {
+      "id": "558cd45e97a40209b3df0d14666d6521",
+      "title": "Lý Hoàng Nam nhận dẫn đội pickleball vươn ra toàn cầu",
+      "link": "https://tuoitre.vn/ly-hoang-nam-nhan-dan-doi-pickleball-vuon-ra-toan-cau-20260317205052092.htm",
+      "summary": "Tay vợt pickleball Lý Hoàng Nam sẽ làm đội trưởng trong tập thể gồm nhà vô địch PPA Robert Stirling, các tay vợt Philippines trong kế hoạch \"go global\" năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T23:56:04.733820+07:00",
+      "fetched": "2026-03-17T23:56:04.733932+07:00"
+    },
+    {
+      "id": "924418e235c96b3d59b9e88077e64251",
+      "title": "Điều tra đường dây mua bán hàng ngàn hóa đơn trái phép liên quan công ty xăng dầu ở Đà Nẵng",
+      "link": "https://tuoitre.vn/dieu-tra-duong-day-mua-ban-hang-ngan-hoa-don-trai-phep-lien-quan-cong-ty-xang-dau-o-da-nang-2026031720235323.htm",
+      "summary": "Giám đốc công ty xăng dầu ở Đà Nẵng cùng các đồng phạm vừa bị khởi tố, điều tra hành vi mua bán trái phép hàng ngàn hóa đơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T23:56:04.733692+07:00",
+      "fetched": "2026-03-17T23:56:04.733808+07:00"
+    },
+    {
+      "id": "5947cd2254ed40db708e10d349617655",
+      "title": "8 tiếng phẫu thuật nối 4 ngón tay đứt lìa",
+      "link": "https://tuoitre.vn/8-tieng-phau-thuat-noi-4-ngon-tay-dut-lia-20260317211643047.htm",
+      "summary": "Trong lúc cắt giấy, một bệnh nhân nam đã bị cắt đứt lìa hoàn toàn 4 ngón tay, may mắn được các bác sĩ Bệnh viện Nhân dân 115 (TP.HCM) nối kịp thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T23:56:04.733538+07:00",
+      "fetched": "2026-03-17T23:56:04.733679+07:00"
+    },
+    {
+      "id": "e4c8a458006c70951ba87f8c0ebaf811",
+      "title": "Giả danh bác sĩ điều trị bệnh về tóc, hai phụ nữ ở TP.HCM bị khởi tố",
+      "link": "https://tuoitre.vn/gia-danh-bac-si-dieu-tri-benh-ve-toc-hai-phu-nu-o-tp-hcm-bi-khoi-to-20260317212554882.htm",
+      "summary": "Dù không được cấp phép, BN Center đã quảng cáo trên Facebook là cơ sở khám chữa bệnh chuyên điều trị các bệnh về tóc và tự xưng là bác sĩ để điều trị cho khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T23:56:04.733408+07:00",
+      "fetched": "2026-03-17T23:56:04.733526+07:00"
+    },
+    {
+      "id": "7d20c0ff636fbcb9634a30842ef84db6",
+      "title": "Thái Lan dựng hàng rào dọc biên giới, nói Campuchia đã chấp thuận",
+      "link": "https://tuoitre.vn/thai-lan-dung-hang-rao-doc-bien-gioi-noi-campuchia-da-chap-thuan-20260317212832723.htm",
+      "summary": "Thái Lan sẽ bắt đầu xây dựng hàng rào dọc một đoạn biên giới với Campuchia từ tháng tới nhằm tăng cường an ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T23:56:04.733267+07:00",
+      "fetched": "2026-03-17T23:56:04.733395+07:00"
+    },
+    {
+      "id": "d5fa53b4344c5dc236114ecfcb6e3601",
+      "title": "Vụ MSB thu giữ nhà máy sợi: Thương hiệu thời trang An Phước lên tiếng",
+      "link": "https://tuoitre.vn/vu-msb-thu-giu-nha-may-soi-thuong-hieu-thoi-trang-an-phuoc-len-tieng-20260317190532958.htm",
+      "summary": "Sau thông tin MSB thu giữ tài sản của một doanh nghiệp mang tên An Phước, thương hiệu thời trang An Phước - Pierre Cardin đã lên tiếng khẳng định hai doanh nghiệp hoàn toàn độc lập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T23:56:04.733024+07:00",
+      "fetched": "2026-03-17T23:56:04.733252+07:00"
+    },
     {
       "id": "aaf00a906aa5ec38881751a17bcd0acd",
       "title": "Bắt nhóm thanh thiếu niên từ Cà Mau khống chế người đi đường, cướp 3 vụ trong đêm ở Tây Ninh",
@@ -453,6 +553,36 @@ window.newsData_2026_03_17 = {
       "fetched": "2026-03-17T17:40:44.675097+07:00"
     },
     {
+      "id": "c653ceed64f4e8fa0735a82ee1202804",
+      "title": "Lính Lebanon thiệt mạng trong trận tập kích của Israel",
+      "link": "https://vnexpress.net/linh-lebanon-thiet-mang-trong-tran-tap-kich-cua-israel-5051627.html",
+      "summary": "Một binh sĩ Lebanon thiệt mạng và 4 người bị thương trong cuộc không kích của Israel nhắm vào khu vực Nabatieh ở miền nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-17T16:44:25+07:00",
+      "fetched": "2026-03-17T23:56:06.114380+07:00"
+    },
+    {
+      "id": "4c39724de53daf1c9ec3ab66e42cd777",
+      "title": "Highlight bán kết đội tuyển nữ Úc 2-1 Trung Quốc: Chủ nhà vào chung kết",
+      "link": "https://thanhnien.vn/highlight-ban-ket-doi-tuyen-nu-uc-2-1-trung-quoc-chu-nha-vao-chung-ket-185260317232441488.htm",
+      "summary": "Chiều 17.3, tuyển nữ Úc giành vé vào chung kết Asian Cup nữ 2026 sau khi vượt qua tuyển nữ Trung Quốc với tỷ số 2-1, trở thành đội đầu tiên góp mặt ở trận đấu cuối cùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T16:24:00+07:00",
+      "fetched": "2026-03-17T23:56:03.379421+07:00"
+    },
+    {
+      "id": "aff1dcca380686728aa58b396f04346f",
+      "title": "Tham gia mua bán hóa đơn khống hơn 8,9 tỉ đồng, giám đốc xăng dầu bị bắt",
+      "link": "https://thanhnien.vn/tham-gia-mua-ban-hoa-don-khong-hon-89-ti-dong-giam-doc-xang-dau-bi-bat-185260317215216978.htm",
+      "summary": "Công an TP.Đà Nẵng khởi tố 6 bị can liên quan đường dây mua bán hóa đơn khống kéo dài nhiều năm với tổng giá trị hơn 8,9 tỉ đồng, trong đó có  giám đốc một công ty xăng dầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T15:42:00+07:00",
+      "fetched": "2026-03-17T23:56:03.379609+07:00"
+    },
+    {
       "id": "4a12a44aadb66becdae137e2a4202d2d",
       "title": "Bán giấy xác nhận công tác xã hội cho sinh viên, 3 người lãnh án",
       "link": "https://tuoitre.vn/ban-giay-xac-nhan-cong-tac-xa-hoi-cho-sinh-vien-3-nguoi-lanh-an-20260317114517634.htm",
@@ -603,6 +733,196 @@ window.newsData_2026_03_17 = {
       "fetched": "2026-03-17T15:40:11.862141+07:00"
     },
     {
+      "id": "9d894341a8da00228e366c046fc2b4e6",
+      "title": "Cựu danh thủ Nguyễn Hồng Sơn xuất hiện trong ngày Lý Hoàng Nam đón đồng đội mới",
+      "link": "https://thanhnien.vn/cuu-danh-thu-nguyen-hong-son-xuat-hien-trong-ngay-ly-hoang-nam-don-dong-doi-moi-185260317222258879.htm",
+      "summary": "Chiều 17.3, cựu danh thủ Nguyễn Hồng Sơn và một số ngôi sao trong các lĩnh vực khác nhau đã góp mặt trong sự kiện ra mắt Kamito Global Team.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T15:24:00+07:00",
+      "fetched": "2026-03-17T23:56:03.379768+07:00"
+    },
+    {
+      "id": "d1483b660887608fa13a66e0f1513760",
+      "title": "TP.HCM: Khởi tố chủ cơ sở khám chữa bệnh 'chui' giả danh bác sĩ lừa đảo khách hàng tiền tỉ",
+      "link": "https://thanhnien.vn/tphcm-khoi-to-chu-co-so-kham-chua-benh-chui-gia-danh-bac-si-lua-dao-khach-hang-tien-ti-185260317204314906.htm",
+      "summary": "Công an TP.HCM vừa khởi tố, bắt giam các bị can điều hành cơ sở khám chữa bệnh 'chui' tên BN Center (ở đường Lê Quang Định, phường Bình Lợi Trung), giả danh bác sĩ, lừa đảo khách hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T15:22:00+07:00",
+      "fetched": "2026-03-17T23:56:03.379920+07:00"
+    },
+    {
+      "id": "ae8ce3702af01dc70226d695b976372b",
+      "title": "Quan chức an ninh Mỹ từ chức để phản đối chiến sự Iran",
+      "link": "https://vnexpress.net/quan-chuc-an-ninh-my-tu-chuc-de-phan-doi-chien-su-iran-5051638.html",
+      "summary": "Lãnh đạo cơ quan chống khủng bố của Mỹ từ chức để phản đối chiến sự Iran, cho rằng Washington bị kéo vào xung đột vì áp lực từ Israel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T15:16:36+07:00",
+      "fetched": "2026-03-17T23:56:01.046458+07:00"
+    },
+    {
+      "id": "ae8ce3702af01dc70226d695b976372b",
+      "title": "Quan chức an ninh Mỹ từ chức để phản đối chiến sự Iran",
+      "link": "https://vnexpress.net/quan-chuc-an-ninh-my-tu-chuc-de-phan-doi-chien-su-iran-5051638.html",
+      "summary": "Lãnh đạo cơ quan chống khủng bố của Mỹ từ chức để phản đối chiến sự Iran, cho rằng Washington bị kéo vào xung đột vì áp lực từ Israel.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-17T15:16:36+07:00",
+      "fetched": "2026-03-17T23:56:06.114590+07:00"
+    },
+    {
+      "id": "42f24fef98ca9249dc88e293d2d80965",
+      "title": "Lời kể của thuyền trưởng vụ 5 người ngạt khí trong hầm tàu",
+      "link": "https://vnexpress.net/loi-ke-cua-thuyen-truong-vu-5-nguoi-ngat-khi-trong-ham-tau-5051643.html",
+      "summary": "Phát hiện các thuyền viên bị ngạt trong hầm tàu, thuyền trưởng Bùi Văn Quý, 48 tuổi, lao xuống kéo được hai người, sau đó ngất lịm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T15:11:14+07:00",
+      "fetched": "2026-03-17T23:56:01.046706+07:00"
+    },
+    {
+      "id": "879422dab6927414451e22774f6cbe51",
+      "title": "Quốc hội và Mặt trận tăng cường phối hợp chặt chẽ, nâng cao chất lượng lập pháp, giám sát",
+      "link": "https://thanhnien.vn/quoc-hoi-va-mat-tran-tang-cuong-phoi-hop-chat-che-nang-cao-chat-luong-lap-phap-giam-sat-185260317175753382.htm",
+      "summary": "Chiều 17.3, Ủy ban Thường vụ Quốc hội và Ủy ban T.Ư MTTQ Việt Nam tổ chức hội nghị tổng kết công tác phối hợp năm 2025 và triển khai nhiệm vụ trọng tâm năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T15:09:00+07:00",
+      "fetched": "2026-03-17T23:56:03.380069+07:00"
+    },
+    {
+      "id": "39b047f8c77a6f1480fde382b930687f",
+      "title": "Tìm bạn tâm giao giúp mẹ khi chúng con đã có gia đình riêng",
+      "link": "https://vnexpress.net/tim-ban-tam-giao-giup-me-khi-chung-con-da-co-gia-dinh-rieng-5046039.html",
+      "summary": "Mẹ là một người phụ nữ truyền thống pha thêm nét đẹp hiện đại, mẹ sinh năm 1955 nhưng nhìn rất trẻ trung và năng động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T15:06:36+07:00",
+      "fetched": "2026-03-17T23:56:01.046829+07:00"
+    },
+    {
+      "id": "7fab075f23e25e20b97c106569b78a75",
+      "title": "Giám đốc chống khủng bố Mỹ từ chức vì cuộc chiến ở Iran",
+      "link": "https://thanhnien.vn/giam-doc-chong-khung-bo-my-tu-chuc-vi-cuoc-chien-o-iran-18526031722033338.htm",
+      "summary": "Ông Joe Kent, Giám đốc Trung tâm chống khủng bố quốc gia Mỹ, tuyên bố từ chức, phản đối cuộc chiến với Iran và cho rằng chính sách của chính quyền Tổng thống Donald Trump chịu ảnh hưởng từ Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T15:04:00+07:00",
+      "fetched": "2026-03-17T23:56:03.380218+07:00"
+    },
+    {
+      "id": "d95057c37efac5080b3c4af59df62029",
+      "title": "Anh trân trọng sự đơn giản, chân thành",
+      "link": "https://vnexpress.net/anh-tran-trong-su-don-gian-chan-thanh-5047441.html",
+      "summary": "Anh không mong cầu những điều xa hoa, chỉ hy vọng tìm thấy một người phụ nữ từ 29 đến 38 tuổi, chín chắn và thấu hiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T15:03:49+07:00",
+      "fetched": "2026-03-17T23:56:01.046929+07:00"
+    },
+    {
+      "id": "a3c073e9f7ac1d095faae5787f04c83f",
+      "title": "Tìm người con gái có thể chạm đến trái tim tôi",
+      "link": "https://vnexpress.net/tim-nguoi-con-gai-co-the-cham-den-trai-tim-toi-5048179.html",
+      "summary": "Tôi mong một mối quan hệ lâu dài, trân trọng lẫn nhau dựa trên tình bạn, tình yêu, tình thương, tình nghĩa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T15:03:08+07:00",
+      "fetched": "2026-03-17T23:56:01.047028+07:00"
+    },
+    {
+      "id": "37c2cc7310cf4775f35fda8e55952637",
+      "title": "Người đàn ông chuẩn men mong một mái ấm gia đình",
+      "link": "https://vnexpress.net/nguoi-dan-ong-chuan-men-mong-mot-mai-am-gia-dinh-5048178.html",
+      "summary": "Anh là người sống có trách nhiệm, không vướng các tệ nạn xã hội, không mang chuyện tình cảm ra trêu đùa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T15:02:17+07:00",
+      "fetched": "2026-03-17T23:56:01.047124+07:00"
+    },
+    {
+      "id": "7f95c1591988768b54362da801726772",
+      "title": "Báo Thanh Niên đoạt giải nhất giải báo chí về an toàn giao thông 2025",
+      "link": "https://thanhnien.vn/bao-thanh-nien-doat-giai-nhat-giai-bao-chi-ve-an-toan-giao-thong-2025-185260317213204337.htm",
+      "summary": "Giải thưởng Báo chí tuyên truyền về an toàn giao thông năm 2025 được Ủy ban An toàn giao thông quốc gia đánh giá đã thu hút nhiều loạt bài có chất lượng cao, thể hiện sự đầu tư và công phu trong tác nghiệp. Báo Thanh Niên xuất sắc đoạt 1 giải nhất và 1 nhì ở 2 hạng mục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:58:00+07:00",
+      "fetched": "2026-03-17T23:56:03.380367+07:00"
+    },
+    {
+      "id": "561b6b98351e282a6a1b63a6fc34a997",
+      "title": "Gwyneth Paltrow gây tranh cãi khi diện váy xẻ cao",
+      "link": "https://vnexpress.net/gwyneth-paltrow-gay-tranh-cai-khi-dien-vay-xe-cao-5051630.html",
+      "summary": "Minh tinh Gwyneth Paltrow có khoảnh khắc gây tranh cãi khi diện chiếc váy xẻ hai bên thân tại lễ trao giải Oscar lần thứ 98.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:56:45+07:00",
+      "fetched": "2026-03-17T23:56:01.047292+07:00"
+    },
+    {
+      "id": "72c30ccf08afe4a9db4c459feeec959c",
+      "title": "Món quà đặc biệt từ sân bóng dành tặng vợ con",
+      "link": "https://thanhnien.vn/mon-qua-dac-biet-tu-san-bong-danh-tang-vo-con-185260317213306165.htm",
+      "summary": "Vượt qua vòng tứ kết sau chiến thắng 2-0 đầy thuyết phục trước đội chủ nhà Trường ĐH Nha Trang, HLV trưởng đội Trường ĐH Công nghệ Đồng Nai - Lê Hữu Phát đã có những chia sẻ đầy xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:54:00+07:00",
+      "fetched": "2026-03-17T23:56:03.380516+07:00"
+    },
+    {
+      "id": "4841a3598bb997caa5f21b05739e66d5",
+      "title": "Xuất hiện người trúng 11 tỉ vé số Vietlott Power 6/55 tối 17 tháng 3",
+      "link": "https://thanhnien.vn/xuat-hien-nguoi-trung-11-ti-ve-so-vietlott-power-6-55-toi-17-thang-3-18526031718562984.htm",
+      "summary": "Tối 17.3, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, lần này xuất hiện một người trúng giải jackpot 2 với số tiền cộng dồn là 11 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:53:00+07:00",
+      "fetched": "2026-03-17T23:56:03.380684+07:00"
+    },
+    {
+      "id": "7f32a6ba838013a9b82746291a44bc28",
+      "title": "Đạo diễn 'Doraemon' qua đời",
+      "link": "https://thanhnien.vn/dao-dien-doraemon-qua-doi-185260317214451593.htm",
+      "summary": "Ngày 17.3, hãng phim hoạt hình Ajiado thông báo đạo diễn Tsutomu Shibayama - người đứng sau phim hoạt hình 'Doraemon', đã qua đời sau thời gian chống chọi với ung thư phổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:51:00+07:00",
+      "fetched": "2026-03-17T23:56:03.380840+07:00"
+    },
+    {
+      "id": "97f7e53642015581dfec82c5345db585",
+      "title": "Enrique: 'Câu đùa về Ngoại hạng Anh theo tôi khắp nơi'",
+      "link": "https://vnexpress.net/enrique-cau-dua-ve-ngoai-hang-anh-theo-toi-khap-noi-5051328.html",
+      "summary": "HLV Luis Enrique nói câu đùa của ông về việc đánh bại các CLB Ngoại hạng Anh bị nhắc lại ở khắp nơi, khi PSG chuẩn bị tái đấu Chelsea ở lượt về vòng 1/8 Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:43:01+07:00",
+      "fetched": "2026-03-17T23:56:01.047456+07:00"
+    },
+    {
+      "id": "97f7e53642015581dfec82c5345db585",
+      "title": "Enrique: 'Câu đùa về Ngoại hạng Anh theo tôi khắp nơi'",
+      "link": "https://vnexpress.net/enrique-cau-dua-ve-ngoai-hang-anh-theo-toi-khap-noi-5051328.html",
+      "summary": "HLV Luis Enrique nói câu đùa của ông về việc đánh bại các CLB Ngoại hạng Anh bị nhắc lại ở khắp nơi, khi PSG chuẩn bị tái đấu Chelsea ở lượt về vòng 1/8 Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-17T14:43:01+07:00",
+      "fetched": "2026-03-17T23:56:11.193810+07:00"
+    },
+    {
+      "id": "2c29660871e349873d8dfe282b1971ef",
+      "title": "Rudiger thích tranh chấp sức mạnh với Haaland",
+      "link": "https://vnexpress.net/rudiger-thich-tranh-chap-suc-manh-voi-haaland-5051302.html",
+      "summary": "Trung vệ Antonio Rudiger mong chờ màn đối đầu tiền đạo Erling Haaland khi Real Madrid làm khách của Man City ở lượt về vòng 1/8 Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:38:38+07:00",
+      "fetched": "2026-03-17T23:56:01.047635+07:00"
+    },
+    {
       "id": "8681b8ebc3123aa32082f442dd91180a",
       "title": "Tiếp nhận 344 công dân Việt Nam từ phía Campuchia bàn giao",
       "link": "https://thanhnien.vn/tiep-nhan-344-cong-dan-viet-nam-tu-phia-campuchia-ban-giao-18526031720051285.htm",
@@ -661,6 +981,16 @@ window.newsData_2026_03_17 = {
       "category": "Tổng hợp",
       "published": "2026-03-17T14:16:30+07:00",
       "fetched": "2026-03-17T21:48:53.502862+07:00"
+    },
+    {
+      "id": "bb13f063bf6d22f9e8839413523b419f",
+      "title": "Vịnh Hạ Long sẽ có 10 điểm phát sóng vệ tinh Starlink",
+      "link": "https://vnexpress.net/vinh-ha-long-se-co-10-diem-phat-song-ve-tinh-starlink-5051575.html",
+      "summary": "10 điểm nằm trong khu vực lõm sóng trên vịnh Hạ Long đã được khảo sát để lắp đặt điểm phát sóng vệ tinh Starlink.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T14:16:30+07:00",
+      "fetched": "2026-03-17T23:56:01.048055+07:00"
     },
     {
       "id": "6df0ffa26b001b5f4061c4bd2ac957d5",
