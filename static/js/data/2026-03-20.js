@@ -1,7 +1,157 @@
 window.newsData_2026_03_20 = {
   "date": "2026-03-20",
-  "lastUpdated": "2026-03-20T21:37:26.217597+07:00",
+  "lastUpdated": "2026-03-20T23:32:32.690158+07:00",
   "articles": [
+    {
+      "id": "4fa957c517ce4f454491be57856c37f3",
+      "title": "Thêm thời gian cho dự án đường 11km làm 6 năm chưa xong ở Cà Mau",
+      "link": "https://tuoitre.vn/them-thoi-gian-cho-du-an-duong-11km-lam-6-nam-chua-xong-o-ca-mau-20260320194150512.htm",
+      "summary": "Thời gian thực hiện dự án nâng cấp, mở rộng tuyến Ninh Quới - Ngan Dừa với tổng chiều dài gần 11km được gia hạn đến năm 2026 thay vì năm 2025 như kế hoạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.294842+07:00",
+      "fetched": "2026-03-20T23:32:26.294981+07:00"
+    },
+    {
+      "id": "b7e64b71d5efe4c41a5e8fb835743555",
+      "title": "Cho lấn biển vịnh Cam Ranh xây kho xăng dầu và nhiên liệu bay",
+      "link": "https://tuoitre.vn/cho-lan-bien-vinh-cam-ranh-xay-kho-xang-dau-va-nhien-lieu-bay-20260320200727926.htm",
+      "summary": "Chủ tịch tỉnh Khánh Hòa vừa quyết định giao và cho doanh nghiệp thuê gần 2ha đất, chủ yếu là biển tại vịnh Cam Ranh để lấp lấn làm dự án kho xăng dầu đầu nguồn kết hợp nhiên liệu bay Ba Ngòi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.294717+07:00",
+      "fetched": "2026-03-20T23:32:26.294831+07:00"
+    },
+    {
+      "id": "8bf8d5e3d7753cc5f2864a5dfb23643e",
+      "title": "Iran lần đầu đăng video về tân Lãnh tụ tối cao giữa nghi vấn sức khỏe",
+      "link": "https://tuoitre.vn/iran-lan-dau-dang-video-ve-tan-lanh-tu-toi-cao-giua-nghi-van-suc-khoe-20260320201345041.htm",
+      "summary": "Iran cuối cùng đã phá vỡ sự im lặng xung quanh những tin đồn về tân Lãnh tụ tối cao Mojtaba Khamenei.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.294588+07:00",
+      "fetched": "2026-03-20T23:32:26.294705+07:00"
+    },
+    {
+      "id": "1ee92da516c328d7c2cfc47d5c0bdc67",
+      "title": "Có hai nhạc sĩ hễ bầu sô tổ chức đêm nhạc là chắc thắng",
+      "link": "https://tuoitre.vn/co-hai-nhac-si-he-bau-so-to-chuc-dem-nhac-la-chac-thang-20260320193548279.htm",
+      "summary": "Gần 40 năm làm đạo diễn kiêm bầu sô những đêm nhạc ở Hà Nội, NSND Trần Bình nói có hai nhạc sĩ mà hễ ông tổ chức đêm nhạc của họ là cầm chắc thắng. Đó là Văn Cao và Trịnh Công Sơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.294439+07:00",
+      "fetched": "2026-03-20T23:32:26.294575+07:00"
+    },
+    {
+      "id": "b260b9f079d5d8087024614a568df2f7",
+      "title": "Hà Nội đặt mục tiêu có đội ngũ cán bộ 'đủ năng lực dẫn dắt trong môi trường quốc tế'",
+      "link": "https://tuoitre.vn/ha-noi-dat-muc-tieu-co-doi-ngu-can-bo-du-nang-luc-dan-dat-trong-moi-truong-quoc-te-20260320192846283.htm",
+      "summary": "Nội dung trên nằm trong Chương trình hành động số 08 về việc thực hiện nghị quyết số 80 của Bộ Chính trị về phát triển văn hóa Việt Nam, vừa được Thành ủy Hà Nội ban hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.294311+07:00",
+      "fetched": "2026-03-20T23:32:26.294427+07:00"
+    },
+    {
+      "id": "0f6ee85ff059dc7eb21a5900ccf90f99",
+      "title": "Nguyễn Thành Bảo vượt mặt cao thủ hạng 17 cờ tướng Trung Quốc",
+      "link": "https://tuoitre.vn/nguyen-thanh-bao-vuot-mat-cao-thu-hang-17-co-tuong-trung-quoc-20260320203629747.htm",
+      "summary": "Dù đã ở tuổi U50, kỳ thủ Nguyễn Thành Bảo vẫn là lá cờ đầu của đội cờ Việt Nam khi tham gia Giải cờ Ninh Minh Hoa Sơn, diễn ra tại tỉnh Quảng Tây, Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.294179+07:00",
+      "fetched": "2026-03-20T23:32:26.294299+07:00"
+    },
+    {
+      "id": "11354b4be0e57830a7340b0bc4cefbc6",
+      "title": "Những trải nghiệm không thể bỏ lỡ tại Lễ hội Văn hóa Ẩm thực, Món ngon Saigontourist Group 2026",
+      "link": "https://tuoitre.vn/nhung-trai-nghiem-khong-the-bo-lo-tai-le-hoi-van-hoa-am-thuc-mon-ngon-saigontourist-group-2026-20260320204359714.htm",
+      "summary": "Lễ hội Văn hóa Ẩm thực, Món ngon Saigontourist Group 2026 sẽ chính thức khai mạc lúc 17h30 ngày 26-3 tới đây tại Khu du lịch Văn Thánh (TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.294051+07:00",
+      "fetched": "2026-03-20T23:32:26.294167+07:00"
+    },
+    {
+      "id": "428ae6ce5e77111ee262264e330eaab7",
+      "title": "Cuộc hội ngộ của những giấc mơ",
+      "link": "https://tuoitre.vn/cuoc-hoi-ngo-cua-nhung-giac-mo-20260320192828592.htm",
+      "summary": "8 họa sĩ đương đại đã cùng hội ngộ với 32 tác phẩm tại triển lãm mỹ thuật 'Giấc mơ của những giấc mơ', vừa khai mạc tại Bội Trân Garden, Huế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.293921+07:00",
+      "fetched": "2026-03-20T23:32:26.294039+07:00"
+    },
+    {
+      "id": "c4771747635e7df5e3e8da63f76fe78f",
+      "title": "Thùy Linh dừng bước tại tứ kết ở giải Orleans Masters",
+      "link": "https://tuoitre.vn/thuy-linh-dung-buoc-tai-tu-ket-o-giai-orleans-masters-2026032021130634.htm",
+      "summary": "Trước đối thủ quá mạnh là Nozomi Okuhara (Nhật Bản), tay vợt Nguyễn Thùy Linh đã phải dừng bước tại Giải cầu lông Orleans Masters diễn ra tại Pháp tối 20-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.293789+07:00",
+      "fetched": "2026-03-20T23:32:26.293909+07:00"
+    },
+    {
+      "id": "6f038c48d3c32bd5cf8eee58f685b15d",
+      "title": "Tuyển Bangladesh loại cầu thủ nhập tịch trước khi sang Việt Nam",
+      "link": "https://tuoitre.vn/tuyen-bangladesh-loai-cau-thu-nhap-tich-truoc-khi-sang-viet-nam-20260320213004944.htm",
+      "summary": "Ngày 20-3, HLV trưởng Javier Penato chốt danh sách tuyển Bangladesh sang Việt Nam du đấu với 23 cầu thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.293635+07:00",
+      "fetched": "2026-03-20T23:32:26.293777+07:00"
+    },
+    {
+      "id": "f0d93c4fa3991895e96cc5e0e9181f73",
+      "title": "Tàu sân bay Charles de Gaulle của Pháp bị lộ vị trí ở Địa Trung Hải vì... một thủy thủ mê chạy bộ",
+      "link": "https://tuoitre.vn/tau-san-bay-charles-de-gaulle-cua-phap-bi-lo-vi-tri-o-dia-trung-hai-vi-mot-thuy-thu-me-chay-bo-20260320211056064.htm",
+      "summary": "Một thủy thủ hải quân Pháp được cho là vô tình để lộ vị trí chính xác của tàu sân bay Charles de Gaulle vì sử dụng ứng dụng theo dõi chạy bộ Strava.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.293452+07:00",
+      "fetched": "2026-03-20T23:32:26.293620+07:00"
+    },
+    {
+      "id": "6251acb3b14d7acc59cc0b0c52c52c0f",
+      "title": "Xét xử bị cáo kinh doanh online trốn thuế hơn 650 triệu đồng",
+      "link": "https://tuoitre.vn/xet-xu-bi-cao-kinh-doanh-online-tron-thue-hon-650-trieu-dong-20260320205452372.htm",
+      "summary": "Quá trình kinh doanh online, P.T.T. lợi dụng hình thức nộp thuế khoán dành cho hộ kinh doanh để che giấu doanh thu. T. cố tình kê khai không đúng, không đầy đủ số liệu bán hàng thực tế với cơ quan quản lý thuế nhằm giảm số thuế phải nộp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.293316+07:00",
+      "fetched": "2026-03-20T23:32:26.293439+07:00"
+    },
+    {
+      "id": "e218710713d869b4630d65dec9d0f2a3",
+      "title": "Khởi động chuỗi 3 ngày Lễ hội thanh niên 2026 tại TP.HCM",
+      "link": "https://tuoitre.vn/khoi-dong-chuoi-3-ngay-le-hoi-thanh-nien-2026-tai-tp-hcm-20260320190918387.htm",
+      "summary": "Tối 20-3, Lễ hội thanh niên (Youth Fest) 2026 đã chính thức khai mạc tại công viên Phan Đình Phùng (phường Xuân Hòa, TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.293176+07:00",
+      "fetched": "2026-03-20T23:32:26.293303+07:00"
+    },
+    {
+      "id": "77426dd06b280815f7ee7a4e917cfde5",
+      "title": "Xe điện: Cần chuẩn bị đồng bộ từ hạ tầng, thể chế đến tiêu chuẩn kỹ thuật",
+      "link": "https://tuoitre.vn/xe-dien-can-chuan-bi-dong-bo-tu-ha-tang-the-che-den-tieu-chuan-ky-thuat-20260320214220064.htm",
+      "summary": "Ông Phạm Văn Quân, Phó Cục trưởng Cục Công nghiệp - Bộ Công Thương đề nghị như trên. Trong khi đó, xe điện đang được nhìn nhận như một mắt xích quan trọng trong chiến lược phát triển bền vững của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.293020+07:00",
+      "fetched": "2026-03-20T23:32:26.293162+07:00"
+    },
+    {
+      "id": "c0089625ea05af328a98e923a60a853a",
+      "title": "'Quỷ nhập tràng 2' đạt mốc 100 tỉ, ngang ngửa với phim Tài của Mỹ Tâm",
+      "link": "https://tuoitre.vn/quy-nhap-trang-2-dat-moc-100-ti-ngang-ngua-voi-phim-tai-cua-my-tam-20260320215033399.htm",
+      "summary": "Tối 20-3, Quỷ nhập tràng 2 và phim Tài gần như cùng lúc đạt mốc 100 tỉ đồng trên Box Office Vietnam. Nhà sản xuất Quỷ nhập tràng 2 cũng công bố mốc doanh thu này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T23:32:26.292771+07:00",
+      "fetched": "2026-03-20T23:32:26.293002+07:00"
+    },
     {
       "id": "16257f1b140b623e2f56efd1c3bc448b",
       "title": "PV GAS mua LPG từ Mỹ, Úc, đảm bảo nguồn cung tới tháng 5",
@@ -453,6 +603,36 @@ window.newsData_2026_03_20 = {
       "fetched": "2026-03-20T17:28:49.501739+07:00"
     },
     {
+      "id": "c37f8e75700c92b6dac75f3308e17cab",
+      "title": "Rộ tin Mỹ điều nhóm tàu đổ bộ thứ hai, hàng ngàn binh sĩ đến Trung Đông",
+      "link": "https://thanhnien.vn/ro-tin-my-dieu-nhom-tau-do-bo-thu-hai-hang-ngan-binh-si-den-trung-dong-185260320231221176.htm",
+      "summary": "Quân đội Mỹ đang bổ sung 2 nhóm tàu đổ bộ với hàng ngàn lính thủy đánh bộ đến Trung Đông trong bối cảnh xuất hiện thông tin Washington muốn kiểm soát hòn đảo chiến lược của Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T16:20:00+07:00",
+      "fetched": "2026-03-20T23:32:25.289181+07:00"
+    },
+    {
+      "id": "c850773e09be376691899f7856f61016",
+      "title": "Ông Trump: NATO 'hèn nhát'",
+      "link": "https://vnexpress.net/ong-trump-nato-hen-nhat-5053053.html",
+      "summary": "Tổng thống Trump chỉ trích các đồng minh NATO là \"những kẻ hèn nhát\" vì không đáp ứng yêu cầu hỗ trợ Mỹ mở lại eo biển Hormuz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T15:34:08+07:00",
+      "fetched": "2026-03-20T23:32:22.214019+07:00"
+    },
+    {
+      "id": "c850773e09be376691899f7856f61016",
+      "title": "Ông Trump: NATO 'hèn nhát'",
+      "link": "https://vnexpress.net/ong-trump-nato-hen-nhat-5053053.html",
+      "summary": "Tổng thống Trump chỉ trích các đồng minh NATO là \"những kẻ hèn nhát\" vì không đáp ứng yêu cầu hỗ trợ Mỹ mở lại eo biển Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-20T15:34:08+07:00",
+      "fetched": "2026-03-20T23:32:27.789947+07:00"
+    },
+    {
       "id": "3c95896a934f799eb310d4ad6cc6e6a4",
       "title": "Đội tàu đánh cá quy mô lớn của Thái Lan bị lửa thiêu rụi",
       "link": "https://tuoitre.vn/doi-tau-danh-ca-quy-mo-lon-cua-thai-lan-bi-lua-thieu-rui-20260320123430026.htm",
@@ -603,6 +783,106 @@ window.newsData_2026_03_20 = {
       "fetched": "2026-03-20T15:30:33.054206+07:00"
     },
     {
+      "id": "8b580d755616e3a7819b19774b4afefc",
+      "title": "'Cần ưu tiên bảo vệ dữ liệu cá nhân trong nền kinh tế số'",
+      "link": "https://vnexpress.net/can-uu-tien-bao-ve-du-lieu-ca-nhan-trong-nen-kinh-te-so-5053051.html",
+      "summary": "Cục trưởng Công nghiệp Công nghệ thông tin đánh giá trong kỷ nguyên số, dữ liệu trở thành yếu tố sản xuất cốt lõi, đóng vai trò quyết định trong việc cạnh tranh của doanh nghiệp, của quốc gia, vì vậy cần ưu tiên bảo vệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T15:29:30+07:00",
+      "fetched": "2026-03-20T23:32:22.214215+07:00"
+    },
+    {
+      "id": "8b580d755616e3a7819b19774b4afefc",
+      "title": "'Cần ưu tiên bảo vệ dữ liệu cá nhân trong nền kinh tế số'",
+      "link": "https://vnexpress.net/can-uu-tien-bao-ve-du-lieu-ca-nhan-trong-nen-kinh-te-so-5053051.html",
+      "summary": "Cục trưởng Công nghiệp Công nghệ thông tin đánh giá trong kỷ nguyên số, dữ liệu trở thành yếu tố sản xuất cốt lõi, đóng vai trò quyết định trong việc cạnh tranh của doanh nghiệp, của quốc gia, vì vậy cần ưu tiên bảo vệ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-20T15:29:30+07:00",
+      "fetched": "2026-03-20T23:32:31.756563+07:00"
+    },
+    {
+      "id": "55fa98ce16b4ebcadfec179849719f53",
+      "title": "Hà Nội nghiên cứu chuyển đổi khu tập thể cũ sang nhà xã hội",
+      "link": "https://vnexpress.net/ha-noi-nghien-cuu-chuyen-doi-khu-tap-the-cu-sang-nha-xa-hoi-5052963.html",
+      "summary": "Thành phố Hà Nội dự kiến chuyển đổi công năng khu chung cư cũ sang nhà xã hội, nhà tái định cư hoặc bán đấu giá nếu đủ tiêu chuẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T15:28:09+07:00",
+      "fetched": "2026-03-20T23:32:22.214384+07:00"
+    },
+    {
+      "id": "1a145ad775231b4cdb09831cdc70bf3b",
+      "title": "Tiến Linh nhường phạt đền cho đồng đội Việt kiều",
+      "link": "https://vnexpress.net/tien-linh-nhuong-phat-den-cho-dong-doi-viet-kieu-5053070.html",
+      "summary": "Đang chịu áp lực ghi bàn, nhưng tiền đạo Nguyễn Tiến Linh vẫn nhường cơ hội sút phạt đền cho Khoa Ngô khi CA TP HCM hạ Đồng Nai 1-0 ở tứ kết Cup Quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T15:26:16+07:00",
+      "fetched": "2026-03-20T23:32:22.214568+07:00"
+    },
+    {
+      "id": "1a145ad775231b4cdb09831cdc70bf3b",
+      "title": "Tiến Linh nhường phạt đền cho đồng đội Việt kiều",
+      "link": "https://vnexpress.net/tien-linh-nhuong-phat-den-cho-dong-doi-viet-kieu-5053070.html",
+      "summary": "Đang chịu áp lực ghi bàn, nhưng tiền đạo Nguyễn Tiến Linh vẫn nhường cơ hội sút phạt đền cho Khoa Ngô khi CA TP HCM hạ Đồng Nai 1-0 ở tứ kết Cup Quốc gia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-20T15:26:16+07:00",
+      "fetched": "2026-03-20T23:32:32.676751+07:00"
+    },
+    {
+      "id": "af0598538e53e36478ed6b5d902b538b",
+      "title": "Sập giàn giáo công trình trường học, một người tử vong",
+      "link": "https://vnexpress.net/sap-gian-giao-cong-trinh-truong-hoc-mot-nguoi-tu-vong-5053055.html",
+      "summary": "Tai nạn lao động tại công trình Trường THCS Nguyễn Chí Thanh (phường Bắc Gia Nghĩa) khiến một công nhân tử vong, hai người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T15:10:11+07:00",
+      "fetched": "2026-03-20T23:32:22.214731+07:00"
+    },
+    {
+      "id": "28be01516c2e86d69e7c9e1586c1b699",
+      "title": "Công an TP.HCM bóc trần đường dây 'hô biến' kem trộn thành hàng ngoại",
+      "link": "https://thanhnien.vn/cong-an-tphcm-boc-tran-duong-day-ho-bien-kem-tron-thanh-hang-ngoai-185260320214831088.htm",
+      "summary": "Công an TP.HCM đã khởi tố 5 bị can liên quan đường dây sản xuất, buôn bán mỹ phẩm giả, đồng thời bóc trần thủ đoạn 'hô biến' kem trộn thành hàng ngoại để tiêu thụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T14:58:00+07:00",
+      "fetched": "2026-03-20T23:32:25.289358+07:00"
+    },
+    {
+      "id": "f4900fb5f0dc63ff343fe9219d2bbb4b",
+      "title": "Ngoại trưởng Pháp kêu gọi Iran nhượng bộ để chấm dứt chiến sự",
+      "link": "https://vnexpress.net/ngoai-truong-phap-keu-goi-iran-nhuong-bo-de-cham-dut-chien-su-5053059.html",
+      "summary": "Ngoại trưởng Pháp cho rằng chính quyền Iran cần đưa ra \"những nhượng bộ lớn\" để mang lại giải pháp chính trị dài hạn cho xung đột hiện tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T14:55:40+07:00",
+      "fetched": "2026-03-20T23:32:22.214898+07:00"
+    },
+    {
+      "id": "f4900fb5f0dc63ff343fe9219d2bbb4b",
+      "title": "Ngoại trưởng Pháp kêu gọi Iran nhượng bộ để chấm dứt chiến sự",
+      "link": "https://vnexpress.net/ngoai-truong-phap-keu-goi-iran-nhuong-bo-de-cham-dut-chien-su-5053059.html",
+      "summary": "Ngoại trưởng Pháp cho rằng chính quyền Iran cần đưa ra \"những nhượng bộ lớn\" để mang lại giải pháp chính trị dài hạn cho xung đột hiện tại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-20T14:55:40+07:00",
+      "fetched": "2026-03-20T23:32:27.790124+07:00"
+    },
+    {
+      "id": "57623a7f9b9d39d7d3bde0f548f7f966",
+      "title": "Highlight Cúp quốc gia CLB Công an TP.HCM 1-0 Trường Tươi Đồng Nai: Định đoạt trên chấm penalty",
+      "link": "https://thanhnien.vn/highlight-cup-quoc-gia-clb-cong-an-tphcm-0-1-truong-tuoi-dong-nai-dinh-doat-tren-cham-penalty-185260320213719054.htm",
+      "summary": "Khoa Ngô ghi bàn từ phạt đền cho CLB Công an TP.HCM, Trường Tươi Đồng Nai thua ở thế thiếu người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T14:37:00+07:00",
+      "fetched": "2026-03-20T23:32:25.289537+07:00"
+    },
+    {
       "id": "4faf39e9ac1bc2847290948a95da3816",
       "title": "CLB CA TP.HCM ra mắt đối tác đặc biệt từ Hà Lan",
       "link": "https://thanhnien.vn/clb-ca-tphcm-ra-mat-doi-tac-dac-biet-tu-ha-lan-18526032021193429.htm",
@@ -611,6 +891,16 @@ window.newsData_2026_03_20 = {
       "category": "Tổng hợp",
       "published": "2026-03-20T14:30:00+07:00",
       "fetched": "2026-03-20T21:37:19.659533+07:00"
+    },
+    {
+      "id": "852e01ebd0a552c855f12792f64f70b2",
+      "title": "Hai nhóm hỗn chiến ở bãi đá",
+      "link": "https://vnexpress.net/hai-nhom-hon-chien-o-bai-da-5053057.html",
+      "summary": "Sau khi xuất hiện video hai nhóm cầm hung khí đuổi chém nhau ở bên trong mỏ đá tại TP HCM, các cảnh sát đã bắt 4 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T14:28:29+07:00",
+      "fetched": "2026-03-20T23:32:22.215057+07:00"
     },
     {
       "id": "2f8847fc1a71e3218b3b3d7881f44d1b",
@@ -961,6 +1251,16 @@ window.newsData_2026_03_20 = {
       "category": "Tổng hợp",
       "published": "2026-03-20T13:01:38+07:00",
       "fetched": "2026-03-20T21:37:16.769554+07:00"
+    },
+    {
+      "id": "37eeb5600a343f3e264fff69c8a58274",
+      "title": "Đề xuất khám sức khỏe định kỳ miễn phí cho người nghèo, mắc bệnh mạn tính trong 2026",
+      "link": "https://vnexpress.net/de-xuat-kham-suc-khoe-dinh-ky-mien-phi-cho-nguoi-ngheo-mac-benh-man-tinh-trong-2026-5053029.html",
+      "summary": "Bộ Y tế đề xuất triển khai khám sức khỏe định kỳ hoặc khám sàng lọc miễn phí từ năm 2026, ưu tiên nhóm yếu thế trước khi mở rộng toàn dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T13:01:38+07:00",
+      "fetched": "2026-03-20T23:32:22.216037+07:00"
     },
     {
       "id": "c92eacf60fb4a671e8441ab81691baaa",
