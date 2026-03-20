@@ -1,5 +1,15 @@
 [
   {
+    "id": "fc6628eb39be979fcd077d734415302b",
+    "title": "Thời tiết hôm nay 21-3: Nam Bộ nắng nóng, xâm nhập mặn vào sâu các sông",
+    "link": "https://tuoitre.vn/thoi-tiet-hom-nay-21-3-nam-bo-nang-nong-xam-nhap-man-vao-sau-cac-song-20260320163011342.htm",
+    "summary": "Hôm nay 21-3, thời tiết Bắc Bộ ngày nắng, chiều tối mưa dông vài nơi. Nam Bộ nắng nóng, xâm nhập mặn có xu hướng tăng.",
+    "source": "Tuổi Trẻ",
+    "category": "Tổng hợp",
+    "published": "2026-03-21T05:18:53.392173+07:00",
+    "fetched": "2026-03-21T05:18:53.392384+07:00"
+  },
+  {
     "id": "f0d93c4fa3991895e96cc5e0e9181f73",
     "title": "Tàu sân bay Charles de Gaulle của Pháp bị lộ vị trí ở Địa Trung Hải vì... một thủy thủ mê chạy bộ",
     "link": "https://tuoitre.vn/tau-san-bay-charles-de-gaulle-cua-phap-bi-lo-vi-tri-o-dia-trung-hai-vi-mot-thuy-thu-me-chay-bo-20260320211056064.htm",
@@ -148,6 +158,186 @@
     "category": "Tổng hợp",
     "published": "2026-03-21T01:34:23.525214+07:00",
     "fetched": "2026-03-21T01:34:23.525444+07:00"
+  },
+  {
+    "id": "b97e3d404f91c9045e35a7f4382f191f",
+    "title": "Mỹ và Nhật Bản xúc tiến hợp tác về năng lượng, khoáng sản",
+    "link": "https://thanhnien.vn/my-va-nhat-ban-xuc-tien-hop-tac-ve-nang-luong-khoang-san-185260320205851098.htm",
+    "summary": "AFP ngày 20.3 đưa tin Mỹ và Nhật Bản vừa công bố dự án trị giá 40 tỉ USD để xây các lò phản ứng hạt nhân tại 2 tiểu bang Tennessee và Alabama (Mỹ), sau cuộc gặp giữa lãnh đạo hai nước.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T22:17:00+07:00",
+    "fetched": "2026-03-21T05:18:52.780309+07:00"
+  },
+  {
+    "id": "afd60874a5b326b7e8e912fb7ea9faae",
+    "title": "Tử vi ngày 21 tháng 3: Con giáp nào may mắn hôm nay?",
+    "link": "https://thanhnien.vn/tu-vi-ngay-21-thang-3-con-giap-nao-may-man-hom-nay-185260321003556416.htm",
+    "summary": "Tử vi ngày 21 tháng 3 mang đến những gợi ý mang tính tham khảo cho 12 con giáp khi tuần làm việc dần khép lại. Vận khí thiên về sự hoàn thiện, tinh chỉnh và \"chốt việc\". Tài lộc hôm nay không đến từ việc mở rộng mà đến từ việc làm trọn vẹn những gì đang dang dở.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T22:15:00+07:00",
+    "fetched": "2026-03-21T05:18:52.780476+07:00"
+  },
+  {
+    "id": "f7f0afd163f5e8b5d4457fb6b62b64f3",
+    "title": "Thu hồi nước rửa tay có công thức không đúng công bố",
+    "link": "https://vnexpress.net/thu-hoi-nuoc-rua-tay-co-cong-thuc-khong-dung-cong-bo-5053067.html",
+    "summary": "Cục Quản lý Dược thu hồi lô sản phẩm nước rửa tay Jane Ginger Orange Hand Wash (chai 450 ml) do vi phạm quy định về công bố thành phần.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T22:00:00+07:00",
+    "fetched": "2026-03-21T05:18:49.989277+07:00"
+  },
+  {
+    "id": "84302aff973df35a9e568d8aefd2000b",
+    "title": "Những con tàu vẫn đi qua eo biển Hormuz",
+    "link": "https://vnexpress.net/nhung-con-tau-van-di-qua-eo-bien-hormuz-5052651.html",
+    "summary": "Không còn là tuyến đường tự do, eo biển Hormuz giờ đây chỉ mở cửa cho các con tàu \"được đặc cách\" hoặc chấp nhận bám sát bờ biển Iran để đổi lấy sự an toàn mong manh.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T22:00:00+07:00",
+    "fetched": "2026-03-21T05:18:49.989471+07:00"
+  },
+  {
+    "id": "1efdd9d89751e3e54d999a4682e0acf2",
+    "title": "Xe máy điện Trung Quốc dùng cảm biến LiDAR như ôtô",
+    "link": "https://vnexpress.net/xe-may-dien-trung-quoc-dung-cam-bien-lidar-nhu-oto-5052339.html",
+    "summary": "Mẫu Niu NXT2 ra mắt với cảm biến LiDAR cho phép phát hiện người đi bộ, các phương tiện giao thông và điều kiện đường sá.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T22:00:00+07:00",
+    "fetched": "2026-03-21T05:18:49.989633+07:00"
+  },
+  {
+    "id": "3edc7b851e7a3ff8e6d704297eb76525",
+    "title": "Chi tiết mức án 30 bị cáo trong vụ cấp chứng chỉ lái xe trái phép",
+    "link": "https://thanhnien.vn/chi-tiet-muc-an-30-bi-cao-trong-vu-cap-chung-chi-lai-xe-trai-phep-185260320163300196.htm",
+    "summary": "Sáng 20.3.2026, TAND TP.HCM tuyên án đối với 30 bị cáo có hành vi sai phạm trong việc cấp chứng chỉ lái xe trái phép cho gần 16.000 học viên.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T22:00:00+07:00",
+    "fetched": "2026-03-21T05:18:52.780633+07:00"
+  },
+  {
+    "id": "e58ee855a67673f3b1fe45d85f51bc3b",
+    "title": "Hôm nay 21.3 là ngày gì?: 4 ngày đặc biệt cùng diễn ra, nhiều người quan tâm",
+    "link": "https://thanhnien.vn/hom-nay-213-la-ngay-gi-4-ngay-dac-biet-cung-dien-ra-nhieu-nguoi-quan-tam-185260320121518175.htm",
+    "summary": "Ngày 21.3 là ngày gì theo âm lịch, dương lịch mà nhận được sự quan tâm của nhiều người Việt cũng như trên thế giới?",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T22:00:00+07:00",
+    "fetched": "2026-03-21T05:18:52.780794+07:00"
+  },
+  {
+    "id": "84302aff973df35a9e568d8aefd2000b",
+    "title": "Những con tàu vẫn đi qua eo biển Hormuz",
+    "link": "https://vnexpress.net/nhung-con-tau-van-di-qua-eo-bien-hormuz-5052651.html",
+    "summary": "Không còn là tuyến đường tự do, eo biển Hormuz giờ đây chỉ mở cửa cho các con tàu \"được đặc cách\" hoặc chấp nhận bám sát bờ biển Iran để đổi lấy sự an toàn mong manh.",
+    "source": "VnExpress - Thế Giới",
+    "category": "Thế giới",
+    "published": "2026-03-20T22:00:00+07:00",
+    "fetched": "2026-03-21T05:18:54.682343+07:00"
+  },
+  {
+    "id": "f87f7c177012098f429507eecc84f3ba",
+    "title": "Ống nước kéo ngang nhà, người dân Biển Bạch vẫn chật vật mua từng lu nước",
+    "link": "https://thanhnien.vn/ong-nuoc-keo-ngang-nha-nguoi-dan-bien-bach-van-chat-vat-mua-tung-lu-nuoc-18526032018311255.htm",
+    "summary": "Tại xã Biển Bạch, tỉnh Cà Mau, dù đường ống đã kéo, đồng hồ đã gắn nhưng hàng chục hộ dân phải mua từng lu nước giá cao để sinh hoạt giữa mùa khô.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T21:59:00+07:00",
+    "fetched": "2026-03-21T05:18:52.780947+07:00"
+  },
+  {
+    "id": "f28258ab6b62f70ea936bcf32ba69e94",
+    "title": "Các đại dự án phục vụ APEC 2027 nguy cơ trễ tiến độ",
+    "link": "https://thanhnien.vn/cac-dai-du-an-phuc-vu-apec-2027-nguy-co-tre-tien-do-185260320203931761.htm",
+    "summary": "Dù Chính phủ, chính quyền Phú Quốc liên tục chỉ đạo quyết liệt nhưng các siêu dự án phục vụ APEC 2027 vẫn đứng trước nguy cơ chậm tiến độ, trong khi thời gian thì đang đếm ngược từng ngày.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T21:55:00+07:00",
+    "fetched": "2026-03-21T05:18:52.781123+07:00"
+  },
+  {
+    "id": "4b3b0dbbf0c1ccf1cc4c3e6a0cf5827d",
+    "title": "Vòng xoáy vé số 'mua đứt bán đoạn': Người thợ hồ 'gãy cánh' và chú chó nhỏ",
+    "link": "https://thanhnien.vn/vong-xoay-ve-so-mua-dut-ban-doan-nguoi-tho-ho-gay-canh-va-chu-cho-nho-185250826150915723.htm",
+    "summary": "'Bán vé số. Khi thì xin hộp cơm từ thiện, bữa nào khá thì mua cơm bụi. Nhưng dẫu tui có nhịn, tui cũng ráng mua chút thức ăn ngon cho Kem, nó theo tui chịu khổ nhiều rồi'.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T21:55:00+07:00",
+    "fetched": "2026-03-21T05:18:52.781295+07:00"
+  },
+  {
+    "id": "ce790c7abe18c03fc6a191db543ae06e",
+    "title": "Giảm mạnh thuế để bình ổn thị trường xăng dầu",
+    "link": "https://thanhnien.vn/giam-manh-thue-de-binh-on-thi-truong-xang-dau-185260320185020831.htm",
+    "summary": "Dù đã sử dụng công cụ Quỹ bình ổn, giá xăng dầu tăng vọt gần phá đỉnh được lập gần 4 năm trước. Các chuyên gia đề xuất gấp rút giảm các loại thuế để ổn định thị trường.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T21:54:00+07:00",
+    "fetched": "2026-03-21T05:18:52.781448+07:00"
+  },
+  {
+    "id": "5c2358f6237e91666c962b9259817cca",
+    "title": "Tỷ giá, lãi suất đều 'căng'",
+    "link": "https://thanhnien.vn/ty-gia-lai-suat-deu-cang-18526032018373878.htm",
+    "summary": "Lãi suất tiết kiệm vẫn liên tục tăng cùng chiều đồng USD trong những ngày vừa qua.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T21:54:00+07:00",
+    "fetched": "2026-03-21T05:18:52.781596+07:00"
+  },
+  {
+    "id": "18cc9fc7162d90427fdbdcc28d015ba7",
+    "title": "Du lịch 'gồng' lỗ chờ lễ",
+    "link": "https://thanhnien.vn/du-lich-gong-lo-cho-le-185260320203041296.htm",
+    "summary": "Chi phí tăng mạnh kéo theo giá tour tăng khiến các doanh nghiệp lo ngại ảnh hưởng đến số lượng du khách, nên nhiều đơn vị kỳ vọng dịp lễ 30.4 - 1.5 sắp tới sẽ là liều thuốc kích cầu.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T21:53:00+07:00",
+    "fetched": "2026-03-21T05:18:52.781741+07:00"
+  },
+  {
+    "id": "bcdd8c02f3641db7329775033db0c8d9",
+    "title": "TP.HCM cấm đường khu trung tâm 2 ngày cuối tuần cho giải marathon",
+    "link": "https://thanhnien.vn/tphcm-cam-duong-khu-trung-tam-2-ngay-cuoi-tuan-cho-giai-marathon-1852603202202114.htm",
+    "summary": "CSGT TP.HCM vừa thông báo cấm đường và điều chỉnh giao thông nhiều tuyến đường trung tâm để phục vụ marathon trong 2 ngày cuối tuần.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T21:45:00+07:00",
+    "fetched": "2026-03-21T05:18:52.781893+07:00"
+  },
+  {
+    "id": "67f859b175f6fc25d694770eff1e9228",
+    "title": "Có 26.235 người trúng Vietlott Mega 6/45 tối 20.3, giải độc đắc cộng dồn 31,3 tỉ đồng",
+    "link": "https://thanhnien.vn/co-26235-nguoi-trung-vietlott-mega-6-45-toi-203-giai-doc-dac-cong-don-313-ti-dong-185260320193838605.htm",
+    "summary": "Tối 20.3, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không có người trúng giải độc đắc nào nên số tiền cộng dồn là 31,3 tỉ đồng.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T21:40:00+07:00",
+    "fetched": "2026-03-21T05:18:52.782067+07:00"
+  },
+  {
+    "id": "37c0f79ab1af2c807ac251850516adbe",
+    "title": "Chiến sự Ukraine ngày 1.486: Pháp bắt tàu từ Nga, Ukraine đàm phán với Mỹ",
+    "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1486-phap-bat-tau-tu-nga-ukraine-dam-phan-voi-my-185260320173713058.htm",
+    "summary": "Phái đoàn Ukraine dự kiến làm việc với Mỹ trong ngày 21.3 nhằm khôi phục cuộc đàm phán 3 bên với Nga vốn đang bị gác lại do xung đột tại Trung Đông.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T21:29:00+07:00",
+    "fetched": "2026-03-21T05:18:52.782222+07:00"
+  },
+  {
+    "id": "df3e45f4e533846b63612de92f2c05a4",
+    "title": "Tình hình Iran, Trung Đông mới nhất sáng 21.3",
+    "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-sang-213-185260320194717575.htm",
+    "summary": "Xung đột ở Trung Đông đã chính thức bước sang tuần thứ tư mà chưa có dấu hiệu hạ nhiệt khi các bên vẫn liên tục tấn công các mục tiêu đối phương.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2026-03-20T21:00:00+07:00",
+    "fetched": "2026-03-21T05:18:52.782367+07:00"
   },
   {
     "id": "35222f0f10a1f98a3c8087236f4d6e03",
