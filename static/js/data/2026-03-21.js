@@ -1,6 +1,6 @@
 window.newsData_2026_03_21 = {
   "date": "2026-03-21",
-  "lastUpdated": "2026-03-21T01:34:29.660552+07:00",
+  "lastUpdated": "2026-03-21T03:21:53.264559+07:00",
   "articles": [
     {
       "id": "f0d93c4fa3991895e96cc5e0e9181f73",
@@ -151,6 +151,46 @@ window.newsData_2026_03_21 = {
       "category": "Tổng hợp",
       "published": "2026-03-21T01:34:23.525214+07:00",
       "fetched": "2026-03-21T01:34:23.525444+07:00"
+    },
+    {
+      "id": "35222f0f10a1f98a3c8087236f4d6e03",
+      "title": "TS Võ Trí Thành: Xe điện không phải lời giải duy nhất cho an ninh năng lượng",
+      "link": "https://vnexpress.net/ts-vo-tri-thanh-xe-dien-khong-phai-loi-giai-duy-nhat-cho-an-ninh-nang-luong-5053068.html",
+      "summary": "Xe điện giảm tiêu thụ xăng, dầu, nhưng tăng nguồn năng lượng thứ cấp (điện) nên đây không phải lời giải duy nhất cho an ninh năng lượng, theo tiến sĩ Võ Trí Thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T19:00:50+07:00",
+      "fetched": "2026-03-21T03:21:41.574474+07:00"
+    },
+    {
+      "id": "35222f0f10a1f98a3c8087236f4d6e03",
+      "title": "TS Võ Trí Thành: Xe điện không phải lời giải duy nhất cho an ninh năng lượng",
+      "link": "https://vnexpress.net/ts-vo-tri-thanh-xe-dien-khong-phai-loi-giai-duy-nhat-cho-an-ninh-nang-luong-5053068.html",
+      "summary": "Xe điện giảm tiêu thụ xăng, dầu, nhưng tăng nguồn năng lượng thứ cấp (điện) nên đây không phải lời giải duy nhất cho an ninh năng lượng, theo tiến sĩ Võ Trí Thành.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-20T19:00:50+07:00",
+      "fetched": "2026-03-21T03:21:49.066555+07:00"
+    },
+    {
+      "id": "4955104e5dec1157120e8b1addde6610",
+      "title": "Chỉ một trong gần 100 doanh nghiệp nông nghiệp vay được vốn xanh",
+      "link": "https://vnexpress.net/chi-mot-trong-gan-100-doanh-nghiep-nong-nghiep-vay-duoc-von-xanh-5053095.html",
+      "summary": "Gần 100 doanh nghiệp tham gia khảo sát đạt ít nhất một chứng nhận nông nghiệp bền vững, nhưng chỉ 1 trong số họ vay được vốn xanh, theo MSD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-20T18:44:27+07:00",
+      "fetched": "2026-03-21T03:21:41.574665+07:00"
+    },
+    {
+      "id": "4955104e5dec1157120e8b1addde6610",
+      "title": "Chỉ một trong gần 100 doanh nghiệp nông nghiệp vay được vốn xanh",
+      "link": "https://vnexpress.net/chi-mot-trong-gan-100-doanh-nghiep-nong-nghiep-vay-duoc-von-xanh-5053095.html",
+      "summary": "Gần 100 doanh nghiệp tham gia khảo sát đạt ít nhất một chứng nhận nông nghiệp bền vững, nhưng chỉ 1 trong số họ vay được vốn xanh, theo MSD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-20T18:44:27+07:00",
+      "fetched": "2026-03-21T03:21:49.066729+07:00"
     },
     {
       "id": "d78d9b3f1ed7cc2adb6a5ce41f179dc4",
