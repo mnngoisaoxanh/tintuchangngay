@@ -1,6 +1,6 @@
 window.newsData_2026_03_22 = {
   "date": "2026-03-22",
-  "lastUpdated": "2026-03-22T03:15:47.534052+07:00",
+  "lastUpdated": "2026-03-22T05:14:57.811785+07:00",
   "articles": [
     {
       "id": "9faba7fd70915090d7fe6584b30f9bba",
@@ -161,6 +161,116 @@ window.newsData_2026_03_22 = {
       "category": "Tổng hợp",
       "published": "2026-03-22T01:23:02.181248+07:00",
       "fetched": "2026-03-22T01:23:02.181460+07:00"
+    },
+    {
+      "id": "e4f8ac8e6c8966ec726998abf04ea870",
+      "title": "Hoàng Hên tập luyện cùng đội tuyển Việt Nam: ‘Hên và Son quyết thắng Malaysia’",
+      "link": "https://thanhnien.vn/hoang-hen-tap-luyen-cung-doi-tuyen-viet-nam-hen-va-son-quyet-thang-malaysia-185260322000606097.htm",
+      "summary": "Lần đầu tập trung cùng đội tuyển Việt Nam, Đỗ Hoàng Hên hòa nhập nhanh cùng Xuân Son và các đồng đội, hứa hẹn thi đấu hết mình với quyết tâm giành chiến thắng trước Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T22:03:00+07:00",
+      "fetched": "2026-03-22T05:14:49.722191+07:00"
+    },
+    {
+      "id": "dccb09709f9726a268055f1aee368dfa",
+      "title": "Xinh đẹp và trách nhiệm: những nữ sinh \"tiếp lửa\" cho 12 đội bóng tại VCK",
+      "link": "https://thanhnien.vn/xinh-dep-va-trach-nhiem-nhung-nu-sinh-tiep-lua-cho-12-doi-bong-tai-vck-185260321233432987.htm",
+      "summary": "Không chỉ sôi động với những pha bóng, VCK giải bóng đá Thanh Niên sinh viên lần IV – 2026 cup THACO tại Nha Trang còn ghi dấu ấn bởi sự đồng hành của những nữ sinh viên ưu tú từ Hội sinh viên NTU. Những sinh viên thuộc Hội sinh viên trường đã đại diện cho tinh thần chủ nhà để hỗ trợ, dẫn đội và quả...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T22:03:00+07:00",
+      "fetched": "2026-03-22T05:14:49.722385+07:00"
+    },
+    {
+      "id": "5d9ba81e32ac8dfd406a3a5f96dcd579",
+      "title": "Màn thư hùng cuối cùng để tìm ra nhà vô địch mới của giải bóng đá Thanh Niên sinh viên Việt Nam",
+      "link": "https://thanhnien.vn/man-thu-hung-cuoi-cung-de-tim-ra-nha-vo-dich-moi-cua-giai-bong-da-thanh-nien-sinh-vien-viet-nam-185260322005835226.htm",
+      "summary": "Mọi ánh mắt của người hâm mộ bóng đá sinh viên đang đổ dồn về trận chung kết trong mơ giữa Trường ĐH Thủy Lợi và Trường ĐH Công nghiệp TP.HCM. Trận \"thư hùng kinh điển\" để xác định tân vương của giải bóng đá Thanh Niên sinh viên Việt Nam lần thứ IV - 2026 Cúp THACO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T22:02:00+07:00",
+      "fetched": "2026-03-22T05:14:49.722545+07:00"
+    },
+    {
+      "id": "f28275497233f4fcee05b78c86ba376e",
+      "title": "Hôm nay 22.3 là ngày gì theo âm lịch, dương lịch mà nhiều người quan tâm?",
+      "link": "https://thanhnien.vn/hom-nay-223-la-ngay-gi-theo-am-lich-duong-lich-ma-nhieu-nguoi-quan-tam-18526032109340939.htm",
+      "summary": "Ngày 22.3 hôm nay theo âm lịch, dương lịch có phải ngày lễ, kỷ niệm hay sự kiện gì ở Việt Nam và trên thế giới? Hãy cùng tìm hiểu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T22:00:00+07:00",
+      "fetched": "2026-03-22T05:14:49.722700+07:00"
+    },
+    {
+      "id": "2d8dbbed67d2470cecf6e2aa319fd9d4",
+      "title": "Cách phân biệt giữa tăng sắc tố và nám da để điều trị đúng",
+      "link": "https://thanhnien.vn/cach-phan-biet-giua-tang-sac-to-va-nam-da-de-dieu-tri-dung-185260316160935803.htm",
+      "summary": "Nhiều người thường có thói quen gọi chung tất cả các vết biến đổi màu sắc trên da là \"nám da\", từ đó dẫn đến việc tự ý mua thuốc điều trị sai cách, khiến tình trạng da trở nên tồi tệ hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T22:00:00+07:00",
+      "fetched": "2026-03-22T05:14:49.722851+07:00"
+    },
+    {
+      "id": "50eeb29a046564e015e6cf6ce0b3460f",
+      "title": "OpenAI đang tạo siêu ứng dụng trên máy tính",
+      "link": "https://vnexpress.net/openai-dang-tao-sieu-ung-dung-tren-may-tinh-5053088.html",
+      "summary": "Một số nguồn tin cho biết OpenAI đang hợp nhất các công cụ rời rạc của công ty như chatbot, trình duyệt và ứng dụng lập trình vào một nền tảng duy nhất trên PC.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-21T22:00:00+07:00",
+      "fetched": "2026-03-22T05:14:56.344039+07:00"
+    },
+    {
+      "id": "654d87ff0a286463c430e15f0f4f3c44",
+      "title": "Đáp ứng đủ xăng dầu cho sản xuất, tiêu dùng",
+      "link": "https://thanhnien.vn/dap-ung-du-xang-dau-cho-san-xuat-tieu-dung-185260321234231269.htm",
+      "summary": "Chiều 21.3, Thủ tướng Chính phủ Phạm Minh Chính chủ trì cuộc họp của Thường trực Chính phủ để rà soát công tác lãnh đạo, chỉ đạo, điều hành của Chính phủ từ cuối tháng 2 đến nay trong việc ứng phó cuộc khủng hoảng năng lượng do các tác động của xung đột tại Trung Đông và việc triển khai Kết luận số ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T21:38:00+07:00",
+      "fetched": "2026-03-22T05:14:49.723003+07:00"
+    },
+    {
+      "id": "04731a4a235c7b28698ac368e47b34fb",
+      "title": "Cầu thủ nữ Iran: 'Phía Australia gây sức ép để chúng tôi ở lại'",
+      "link": "https://vnexpress.net/cau-thu-nu-iran-phia-australia-gay-suc-ep-de-chung-toi-o-lai-5053354.html",
+      "summary": "Các cầu thủ nữ Iran lần đầu lên tiếng sau khi về nước, cho rằng họ bị phía Australia tác động trong quá trình cân nhắc ở lại tị nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T21:16:03+07:00",
+      "fetched": "2026-03-22T05:14:46.706809+07:00"
+    },
+    {
+      "id": "04731a4a235c7b28698ac368e47b34fb",
+      "title": "Cầu thủ nữ Iran: 'Phía Australia gây sức ép để chúng tôi ở lại'",
+      "link": "https://vnexpress.net/cau-thu-nu-iran-phia-australia-gay-suc-ep-de-chung-toi-o-lai-5053354.html",
+      "summary": "Các cầu thủ nữ Iran lần đầu lên tiếng sau khi về nước, cho rằng họ bị phía Australia tác động trong quá trình cân nhắc ở lại tị nạn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-21T21:16:03+07:00",
+      "fetched": "2026-03-22T05:14:57.806582+07:00"
+    },
+    {
+      "id": "1f3e9eebb25ec50ea967e1e99ff36ad6",
+      "title": "Tình hình Iran, Trung Đông mới nhất sáng 22.3",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-sang-223-185260321210653576.htm",
+      "summary": "Bước sang ngày thứ 23 của cuộc chiến giữa Mỹ - Israel với Iran, các cuộc ăn miếng trả miếng tiếp diễn và chưa có bên nào có dấu hiệu xuống thang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T21:00:00+07:00",
+      "fetched": "2026-03-22T05:14:49.723166+07:00"
+    },
+    {
+      "id": "fc9bba13346d663c7bfa76e335598b60",
+      "title": "Gay cấn cuộc đua danh hiệu cá nhân",
+      "link": "https://thanhnien.vn/gay-can-cuoc-dua-danh-hieu-ca-nhan-185260321213126465.htm",
+      "summary": "Trận chung kết TNSV THACO cup 2026 giữa Trường ĐH Thủy lợi và Trường ĐH Công nghiệp TP.HCM không chỉ là màn so tài tranh ngôi vô địch, mà còn là 'sàn diễn' để những cá nhân nổi bật của 2 đội khẳng định vị thế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T20:59:00+07:00",
+      "fetched": "2026-03-22T05:14:49.723338+07:00"
     },
     {
       "id": "5e2d29fb2e554f9802db25972f014285",
