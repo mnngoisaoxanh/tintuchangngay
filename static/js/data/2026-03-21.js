@@ -1,7 +1,157 @@
 window.newsData_2026_03_21 = {
   "date": "2026-03-21",
-  "lastUpdated": "2026-03-21T15:21:09.011455+07:00",
+  "lastUpdated": "2026-03-21T17:17:40.098765+07:00",
   "articles": [
+    {
+      "id": "284af9c1e12b074acde7b966a433df25",
+      "title": "Bộ sưu tập tranh ngựa hiếm của Lê Bá Đảng lần đầu triển lãm tại TP.HCM",
+      "link": "https://tuoitre.vn/bo-suu-tap-tranh-ngua-hiem-cua-le-ba-dang-lan-dau-trien-lam-tai-tp-hcm-20260321134327343.htm",
+      "summary": "Hơn 70 tranh và hiện vật về hình tượng ngựa của họa sĩ Lê Bá Đảng lần đầu được giới thiệu tại TP.HCM, do nhà sưu tập Trần Thắng thực hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.644893+07:00",
+      "fetched": "2026-03-21T17:17:30.645013+07:00"
+    },
+    {
+      "id": "3fc072b0b133ef0e7f4013f90c3bcee7",
+      "title": "Chọn ngành 'dễ xin việc', nhiều sinh viên bỏ ngang đại học để làm lại",
+      "link": "https://tuoitre.vn/chon-nganh-de-xin-viec-nhieu-sinh-vien-bo-ngang-dai-hoc-de-lam-lai-20260321095223989.htm",
+      "summary": "Tin lời 'dễ có việc', không ít sinh viên chọn nhầm ngành, học đến năm 3 mới nhận ra mình lạc lối, buộc dừng lại để tìm hướng đi phù hợp hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.644762+07:00",
+      "fetched": "2026-03-21T17:17:30.644882+07:00"
+    },
+    {
+      "id": "8590801aa53be583902898c0d5062afd",
+      "title": "Hợp tác phát triển giải pháp an ninh mạng toàn diện cho ô tô",
+      "link": "https://tuoitre.vn/hop-tac-phat-trien-giai-phap-an-ninh-mang-toan-dien-cho-o-to-20260321110244904.htm",
+      "summary": "Tập đoàn FPT cho biết vừa ký biên bản ghi nhớ với FESCARO - doanh nghiệp hàng đầu Hàn Quốc về nền tảng an ninh tích hợp cho phương tiện, nhằm hợp tác trong lĩnh vực phần mềm ô tô và an ninh mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.644640+07:00",
+      "fetched": "2026-03-21T17:17:30.644751+07:00"
+    },
+    {
+      "id": "6ab45a2c4ce72f5370c971083fb85265",
+      "title": "Chuỗi cung ứng quyết định lợi nhuận doanh nghiệp",
+      "link": "https://tuoitre.vn/chuoi-cung-ung-quyet-dinh-loi-nhuan-doanh-nghiep-20260321104541464.htm",
+      "summary": "Chuỗi cung ứng là yếu tố quyết định hiệu quả tài chính của doanh nghiệp. SME Forum 2026 cho thấy nếu không tái định nghĩa vai trò vận hành, doanh nghiệp có thể đánh mất lợi thế cạnh tranh ngay trong chính hệ thống của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.644517+07:00",
+      "fetched": "2026-03-21T17:17:30.644629+07:00"
+    },
+    {
+      "id": "2174676a0d7990a2433c4e1c116e95e8",
+      "title": "Cao điểm mùa khai thác sứa, ngư dân kiếm 1 - 2 triệu đồng ngày",
+      "link": "https://tuoitre.vn/cao-diem-mua-khai-thac-sua-ngu-dan-kiem-1-2-trieu-dong-ngay-20260321114043319.htm",
+      "summary": "Cao điểm vụ sứa, ngư dân ven biển Quảng Trị trúng đậm, thu nhập mỗi lao động 1 - 2 triệu đồng/ngày. Nghề biển vất vả nhưng mùa sứa mang lại thu nhập cao nên ai cũng vui mừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.644394+07:00",
+      "fetched": "2026-03-21T17:17:30.644506+07:00"
+    },
+    {
+      "id": "8c9c6cce4ebbec75a0f037faba52837f",
+      "title": "Học sinh khám phá 'Mũi tàu Tổ quốc' qua dự án liên môn",
+      "link": "https://tuoitre.vn/hoc-sinh-kham-pha-mui-tau-to-quoc-qua-du-an-lien-mon-20260321121840955.htm",
+      "summary": "Sáng 21-3, Trường THPT Lê Quý Đôn, TP.HCM tổ chức báo cáo dự án liên môn “Mũi tàu Tổ quốc”. Đây là dự án tích hợp kiến thức về biển, đảo qua sự kết hợp của các môn sinh, sử, ngoại ngữ, giáo dục quốc phòng - an ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.644260+07:00",
+      "fetched": "2026-03-21T17:17:30.644383+07:00"
+    },
+    {
+      "id": "59496ed327ba5e6aa7baf790783f7e60",
+      "title": "Vườn cúc họa mi trái mùa hút khách check-in giữa lòng Đà Nẵng",
+      "link": "https://tuoitre.vn/vuon-cuc-hoa-mi-trai-mua-hut-khach-check-in-giua-long-da-nang-20260321121057462.htm",
+      "summary": "Giữa tháng 3, cúc họa mi trắng tinh khôi bung nở tại Đà Nẵng, thu hút du khách và người dân đến tham quan, chụp ảnh lưu niệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.644106+07:00",
+      "fetched": "2026-03-21T17:17:30.644217+07:00"
+    },
+    {
+      "id": "a231e16b134d7f9eb018e77115fe95be",
+      "title": "Doanh nhân Nguyễn Ngọc Tiền chiếm đoạt tiền thông qua dự án Royal Streammy Villas thế nào?",
+      "link": "https://tuoitre.vn/doanh-nhan-nguyen-ngoc-tien-chiem-doat-tien-thong-qua-du-an-royal-streammy-villas-the-nao-20260321141631636.htm",
+      "summary": "Dù chỉ được phép tìm kiếm khách hàng để ký hợp đồng với chủ đầu tư dự án Royal Streammy Villas (Phú Quốc), nhưng Công ty Đảo Vàng do bà Nguyễn Ngọc Tiền làm giám đốc vẫn tự ý ký các hợp đồng để huy động vốn của khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.643981+07:00",
+      "fetched": "2026-03-21T17:17:30.644095+07:00"
+    },
+    {
+      "id": "f2d87a579dfe69a545a3987924068b6b",
+      "title": "Sẽ giao một đầu mối quản lý an toàn thực phẩm, phải kiểm soát từ gốc",
+      "link": "https://tuoitre.vn/se-giao-mot-dau-moi-quan-ly-an-toan-thuc-pham-phai-kiem-soat-tu-goc-20260321083148277.htm",
+      "summary": "Điều này rất cần thiết, nhất là trong bối cảnh bữa cơm người Việt có đến ba bộ quản lý nhưng an toàn thực phẩm vẫn là vấn đề khiến người dân lo lắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.643857+07:00",
+      "fetched": "2026-03-21T17:17:30.643970+07:00"
+    },
+    {
+      "id": "da1e5a45386df5a9a50ed044ef8f2aa9",
+      "title": "Người dân gấp rút dọn, giao mặt bằng rạch Xuyên Tâm",
+      "link": "https://tuoitre.vn/nguoi-dan-gap-rut-don-giao-mat-bang-rach-xuyen-tam-2026032114254124.htm",
+      "summary": "Sau buổi thị sát và chỉ đạo của Chủ tịch UBND TP.HCM Nguyễn Văn Được, các phường, xã có rạch Xuyên Tâm đi qua đã gấp rút đôn đốc người dân bàn giao mặt bằng cho đơn vị thi công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.643731+07:00",
+      "fetched": "2026-03-21T17:17:30.643845+07:00"
+    },
+    {
+      "id": "d622e2d47648fa8e343be289c53d246b",
+      "title": "Anime One Piece sẽ có bản remake hiện đại hơn",
+      "link": "https://tuoitre.vn/anime-one-piece-se-co-ban-remake-hien-dai-hon-20260321140335332.htm",
+      "summary": "Sau nhiều năm gần như im hơi lặng tiếng, dự án remake One Piece trên Netflix đã có cập nhật quan trọng. Lần này, lãnh đạo WIT Studio lần đầu nói rõ vì sao một tượng đài hơn 1.000 tập vẫn cần được làm lại từ đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.643601+07:00",
+      "fetched": "2026-03-21T17:17:30.643719+07:00"
+    },
+    {
+      "id": "bbcaccadca91edcaa7f81ec38ae2a20d",
+      "title": "Lãi margin đắt hơn, loạt cổ phiếu chứng khoán biến động theo nhịp thị trường",
+      "link": "https://tuoitre.vn/lai-margin-dat-hon-loat-co-phieu-chung-khoan-bien-dong-theo-nhip-thi-truong-20260321140342492.htm",
+      "summary": "Trong bối cảnh lãi suất cho vay ký quỹ (margin) có xu hướng tăng trở lại cùng với việc chỉ số VN-Index điều chỉnh mạnh, nhóm cổ phiếu chứng khoán đang ghi nhận diễn biến kém tích cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.643461+07:00",
+      "fetched": "2026-03-21T17:17:30.643589+07:00"
+    },
+    {
+      "id": "cc57f6acb169c07988190f9eddde9ac4",
+      "title": "Chó nghi dại cắn bố con chủ nhà và 3 hàng xóm, Đắk Lắk hỏa tốc phòng chống bệnh dại",
+      "link": "https://tuoitre.vn/cho-nghi-dai-can-bo-con-chu-nha-va-3-hang-xom-dak-lak-hoa-toc-phong-chong-benh-dai-20260321143202786.htm",
+      "summary": "Sở Y tế tỉnh Đắk Lắk có công văn hỏa tốc yêu cầu các đơn vị y tế khẩn trương triển khai các biện pháp phòng chống bệnh dại sau khi 6 người ở xã Ea Na bị chó nghi mắc bệnh dại tấn công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.643323+07:00",
+      "fetched": "2026-03-21T17:17:30.643449+07:00"
+    },
+    {
+      "id": "756dfc2afc3a0777e7eb6edc7fc8964d",
+      "title": "OPPO trình làng smartphone gập Find N6: Nếp gấp gần như biến mất",
+      "link": "https://tuoitre.vn/oppo-trinh-lang-smartphone-gap-find-n6-nep-gap-gan-nhu-bien-mat-20260321125516565.htm",
+      "summary": "Từ màn hình ‘không nếp gấp’, cấu hình cao với Snapdragon 8 Elite Gen 5 và camera tiềm vọng 200MP, kể cả những người khắt khe cũng khó tìm được điểm để chê trên Find N6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.643143+07:00",
+      "fetched": "2026-03-21T17:17:30.643305+07:00"
+    },
+    {
+      "id": "f7a27a09f794552aeeea13e2ee9b9c6b",
+      "title": "Hoa hậu Thế giới Opal Suchata đến Việt Nam",
+      "link": "https://tuoitre.vn/hoa-hau-the-gioi-opal-suchata-den-viet-nam-20260321150311279.htm",
+      "summary": "Ban tổ chức Miss World Vietnam xác nhận đương kim Hoa hậu Thế giới 2025 Opal Suchata sẽ đến Việt Nam, dự đêm chung kết Miss World Vietnam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T17:17:30.642910+07:00",
+      "fetched": "2026-03-21T17:17:30.643127+07:00"
+    },
     {
       "id": "4fd53755adc8c4ed325de01fe6db25c2",
       "title": "Đỗ Hoàng Hên hứng khởi hội quân tuyển Việt Nam",
@@ -403,6 +553,296 @@ window.newsData_2026_03_21 = {
       "fetched": "2026-03-21T10:56:27.343728+07:00"
     },
     {
+      "id": "3b34f70a8bf10c0c49ecf511777a5e7f",
+      "title": "Công bố 500 đại biểu Quốc hội khóa XVI, lần đầu tiên có đại biểu người Ơ Đu",
+      "link": "https://thanhnien.vn/cong-bo-500-dai-bieu-quoc-hoi-khoa-xvi-lan-dau-tien-co-dai-bieu-nguoi-o-du-185260321165323484.htm",
+      "summary": "Trong danh sách 500 đại biểu Quốc hội khóa XVI, lần đầu tiên số lượng đại biểu Quốc hội do Trung ương giới thiệu về địa phương trúng cử cao nhất từ trước tới nay. Cạnh đó, lần đầu tiên có đại biểu trúng cử là người dân tộc Ơ Đu - một trong những dân tộc ít người nhất tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T10:07:00+07:00",
+      "fetched": "2026-03-21T17:17:29.486209+07:00"
+    },
+    {
+      "id": "18b1d57a860a7dae0aa4b0983cf94f9a",
+      "title": "Trung Nguyên Legend và hành trình 30 năm liên tục sáng tạo, phụng sự cộng đồng",
+      "link": "https://thanhnien.vn/trung-nguyen-legend-va-hanh-trinh-30-nam-lien-tuc-sang-tao-phung-su-cong-dong-185260321163221598.htm",
+      "summary": "Từ tháng 3, Tập đoàn Trung Nguyên Legend liên tục có nhiều chuỗi hoạt động phát triển kinh doanh, văn hóa nghệ thuật, phụng sự cộng đồng, hội thảo quốc tế… tại Việt Nam và quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T10:00:00+07:00",
+      "fetched": "2026-03-21T17:17:29.486402+07:00"
+    },
+    {
+      "id": "b83273a46ac3a339796b2467afa6a6b9",
+      "title": "Toàn cảnh 17h: Người dân Hà Nội bất an vì khu tập thể cũ | Iran tấn công nhà máy lọc dầu của Kuwait",
+      "link": "https://thanhnien.vn/toan-canh-17h-nguoi-dan-ha-noi-bat-an-vi-khu-tap-the-cu-iran-tan-cong-nha-may-loc-dau-cua-kuwait-1852603211536361.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T10:00:00+07:00",
+      "fetched": "2026-03-21T17:17:29.486561+07:00"
+    },
+    {
+      "id": "cae1c82214aee1917db54a5163baf62d",
+      "title": "Bộ đôi xe bán tải Ford Ranger, Toyota Hilux đều thuộc nhóm ô tô tải thông dụng",
+      "link": "https://thanhnien.vn/bo-doi-xe-ban-tai-ford-ranger-toyota-hilux-deu-thuoc-nhom-o-to-tai-thong-dung-185260321074836304.htm",
+      "summary": "Cách phân loại mới từ Cục Cảnh sát giao thông cho thấy nhiều mẫu bán tải phổ biến trên thị trường, trong đó có Ford Ranger, Toyota Hilux được xếp vào nhóm ô tô tải pickup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:58:00+07:00",
+      "fetched": "2026-03-21T17:17:29.486716+07:00"
+    },
+    {
+      "id": "70bd0e656733c84e3e1e8b68c94c2a10",
+      "title": "Volvo mang mẫu SUV cao cấp nhất về Việt Nam, giá 3,289 tỉ đồng",
+      "link": "https://thanhnien.vn/volvo-mang-mau-suv-cao-cap-nhat-ve-viet-nam-gia-3289-ti-dong-18526032112552504.htm",
+      "summary": "Volvo XC90 2026 chính thức gia nhập thị trường Việt Nam có những nâng cấp đáng kể về công nghệ, diện mạo cùng mức giá từ 3,289 tỉ đồng, mẫu SUV hạng sang Thụy Điển hứa hẹn tạo ra áp lực lớn cho các đối thủ cùng phân khúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:57:00+07:00",
+      "fetched": "2026-03-21T17:17:29.486869+07:00"
+    },
+    {
+      "id": "57d20318f9a717f361553d29ba981943",
+      "title": "Samsung Galaxy S25 Ultra sau 1 năm sử dụng",
+      "link": "https://thanhnien.vn/samsung-galaxy-s25-ultra-sau-1-nam-su-dung-185260321170103697.htm",
+      "summary": "Sau hơn một năm, Galaxy S25 Ultra đã khẳng định vị thế là một công cụ làm việc chuyên nghiệp, bền bỉ đồng thời mang đến hiệu năng mạnh mẽ và trải nghiệm toàn diện cho người dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:55:00+07:00",
+      "fetched": "2026-03-21T17:17:29.487020+07:00"
+    },
+    {
+      "id": "d3f4748623e67a64fb83519468da5887",
+      "title": "Pickleball D-Joy Tour 2026: Khẳng định vị thế quốc tế của thể thao Việt Nam",
+      "link": "https://thanhnien.vn/pickleball-d-joy-tour-2026-khang-dinh-vi-the-quoc-te-cua-the-thao-viet-nam-185260321165000409.htm",
+      "summary": "Sáng ngày 19.3.2026, tại cụm sân Pickleball D-Joy Nam Sài Gòn, lễ ký kết đối tác chiến lược và khai mạc giải đấu Pickleball D-Joy Tour 2026 - Leg 1 - Petrolimex Cup đã chính thức diễn ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:55:00+07:00",
+      "fetched": "2026-03-21T17:17:29.487172+07:00"
+    },
+    {
+      "id": "9b187a45f8bc7e1481dc001f3b5583a8",
+      "title": "Công an Cần Thơ bắt bị can làm giả giấy tờ đất lừa đảo 2,8 tỉ đồng",
+      "link": "https://thanhnien.vn/cong-an-can-tho-bat-bi-can-lam-gia-giay-to-dat-lua-dao-28-ti-dong-185260321155547095.htm",
+      "summary": "Đặt mua giấy chứng nhận quyền sử dụng đất giả trên mạng xã hội, Đào Chí Nguyện mang đi thế chấp để lừa đảo 2,8 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:53:00+07:00",
+      "fetched": "2026-03-21T17:17:29.487365+07:00"
+    },
+    {
+      "id": "a9a39a4a2b3b99fb5844c5e496591ce7",
+      "title": "Ông Trần Ngô Phúc Vũ được bầu Chủ tịch Hội đồng quản trị Nam A Bank",
+      "link": "https://thanhnien.vn/ong-tran-ngo-phuc-vu-duoc-bau-chu-tich-hoi-dong-quan-tri-nam-a-bank-185260321164708678.htm",
+      "summary": "Ngày 21.3, Ngân hàng TMCP Nam Á (Nam A Bank) công bố thông tin ông Trần Ngô Phúc Vũ tiếp tục được Hội đồng quản trị (HĐQT) nhiệm kỳ IX (2026 - 2031) tín nhiệm bầu giữ chức vụ Chủ tịch HĐQT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:50:00+07:00",
+      "fetched": "2026-03-21T17:17:29.487532+07:00"
+    },
+    {
+      "id": "e8d9b895692b20262c9bccdec4890289",
+      "title": "Bóng chuyền Việt khởi động mùa giải 2,28 tỉ đồng, hướng ra đấu trường quốc tế",
+      "link": "https://thanhnien.vn/bong-chuyen-viet-khoi-dong-mua-giai-228-ti-dong-huong-ra-dau-truong-quoc-te-185260321161345151.htm",
+      "summary": "Ngày 21.3 tại Hà Nội, lễ bốc thăm và công bố nhà tài trợ giải bóng chuyền vô địch quốc gia các câu lạc bộ Cúp Phân bón Cà Mau chính thức diễn ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:50:00+07:00",
+      "fetched": "2026-03-21T17:17:29.487688+07:00"
+    },
+    {
+      "id": "ad017b13cb263a08e0dba538a6aa8721",
+      "title": "Danh sách 500 đại biểu Quốc hội khóa XVI, nhiệm kỳ 2026 - 2031",
+      "link": "https://thanhnien.vn/danh-sach-500-dai-bieu-quoc-hoi-khoa-xvi-nhiem-ky-2026-2031-185260320172515869.htm",
+      "summary": "Danh sách, tiểu sử 500 đại biểu Quốc hội khóa XVI, nhiệm kỳ 2026 - 2031 được Hội đồng Bầu cử Quốc gia công bố, chiều 21.3.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:44:00+07:00",
+      "fetched": "2026-03-21T17:17:29.487842+07:00"
+    },
+    {
+      "id": "c1f5d77c179ffb357032c95c3d560de4",
+      "title": "Từ lớp học đến đại dương: Giáo viên Lý Sơn học cách bảo tồn biển",
+      "link": "https://thanhnien.vn/tu-lop-hoc-den-dai-duong-giao-vien-ly-son-hoc-cach-bao-ton-bien-18526032114285802.htm",
+      "summary": "Giáo viên ở đặc khu Lý Sơn (Quảng Ngãi) được tập huấn kiến thức, phương pháp bảo tồn hệ sinh thái biển, góp phần nâng cao nhận thức, lan tỏa trách nhiệm bảo vệ đại dương trong cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:42:00+07:00",
+      "fetched": "2026-03-21T17:17:29.487990+07:00"
+    },
+    {
+      "id": "ced9b7a5cb28794ff3d93af552f571a7",
+      "title": "Mê mệt với lễ hội vừa sôi động, lại rất… chill",
+      "link": "https://thanhnien.vn/me-met-voi-le-hoi-vua-soi-dong-lai-rat-chill-185260321160822714.htm",
+      "summary": "Có một nơi mà vừa có thể trải nghiệm đa dạng các gian hàng đa sắc màu, vừa được xem phim, nghe nhạc rất chill trên nền cỏ xanh mướt mắt, lại còn tha hồ thưởng thức các món ăn hot trend… Nơi này đang thu hút rất đông người trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:37:00+07:00",
+      "fetched": "2026-03-21T17:17:29.488143+07:00"
+    },
+    {
+      "id": "e0b4b8eaa2600f28c4ce24f73ded3dea",
+      "title": "Tặng 3.000 cây sâm Ngọc Linh cho thanh niên miền núi",
+      "link": "https://thanhnien.vn/tang-3000-cay-sam-ngoc-linh-cho-thanh-nien-mien-nui-185260321152908032.htm",
+      "summary": "Tại xã Tu Mơ Rông (Quảng Ngãi), 3.000 cây sâm Ngọc Linh giống được trao tặng cho thanh niên Xơ Đăng, góp phần định hướng khởi nghiệp, phát triển sinh kế bền vững gắn với bảo tồn dược liệu quý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:36:00+07:00",
+      "fetched": "2026-03-21T17:17:29.488316+07:00"
+    },
+    {
+      "id": "a07754a5be1fdaa1b5f2d821df0581ff",
+      "title": "Gia hạn đăng ký xét chọn Doanh nhân trẻ khởi nghiệp xuất sắc 2026",
+      "link": "https://thanhnien.vn/gia-han-dang-ky-xet-chon-doanh-nhan-tre-khoi-nghiep-xuat-sac-2026-185260321160224007.htm",
+      "summary": "Ngày 21.3, T.Ư Hội Doanh nhân trẻ Việt Nam cho biết, chương trình bình chọn và trao danh hiệu Doanh nhân trẻ khởi nghiệp xuất sắc 2026, sân chơi uy tín hàng đầu của cộng đồng startup Việt, sẽ còn 10 ngày đăng ký.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:35:00+07:00",
+      "fetched": "2026-03-21T17:17:29.488476+07:00"
+    },
+    {
+      "id": "ea602cbe66c23e12a610e539e81e1287",
+      "title": "Công bố 500 người trúng cử đại biểu Quốc hội khóa 16",
+      "link": "https://vnexpress.net/cong-bo-500-nguoi-trung-cu-dai-bieu-quoc-hoi-khoa-16-5053256.html",
+      "summary": "Chiều 21/3, Hội đồng Bầu cử quốc gia công bố danh sách 500 người trúng cử đại biểu Quốc hội khóa 16, sau cuộc bầu cử có 76,19 triệu cử tri tham gia (đạt 99,68%).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:16:32+07:00",
+      "fetched": "2026-03-21T17:17:25.956801+07:00"
+    },
+    {
+      "id": "30abf911e62de9f79d1a63496d93eb0e",
+      "title": "Sàn tiền số ONUS 'sập'",
+      "link": "https://vnexpress.net/san-tien-so-onus-sap-5053262.html",
+      "summary": "Nhiều nhà đầu tư không thể đăng nhập và truy cập vào ứng dụng của ONUS - sàn tiền số có hàng triệu người dùng Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:01:49+07:00",
+      "fetched": "2026-03-21T17:17:25.956980+07:00"
+    },
+    {
+      "id": "30abf911e62de9f79d1a63496d93eb0e",
+      "title": "Sàn tiền số ONUS 'sập'",
+      "link": "https://vnexpress.net/san-tien-so-onus-sap-5053262.html",
+      "summary": "Nhiều nhà đầu tư không thể đăng nhập và truy cập vào ứng dụng của ONUS - sàn tiền số có hàng triệu người dùng Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-21T09:01:49+07:00",
+      "fetched": "2026-03-21T17:17:34.532818+07:00"
+    },
+    {
+      "id": "3470b49c6696ac6598099a3a388fbf32",
+      "title": "Thực phẩm Ba Lan ồ ạt vào Việt Nam",
+      "link": "https://vnexpress.net/thuc-pham-ba-lan-o-at-vao-viet-nam-5053224.html",
+      "summary": "Kim ngạch nhập khẩu thực phẩm Ba Lan tăng gấp đôi trong hai tháng đầu năm và có thể tăng tiếp nhờ nước bạn đẩy mạnh thâm nhập nhóm hàng thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:00:01+07:00",
+      "fetched": "2026-03-21T17:17:25.957146+07:00"
+    },
+    {
+      "id": "3470b49c6696ac6598099a3a388fbf32",
+      "title": "Thực phẩm Ba Lan ồ ạt vào Việt Nam",
+      "link": "https://vnexpress.net/thuc-pham-ba-lan-o-at-vao-viet-nam-5053224.html",
+      "summary": "Kim ngạch nhập khẩu thực phẩm Ba Lan tăng gấp đôi trong hai tháng đầu năm và có thể tăng tiếp nhờ nước bạn đẩy mạnh thâm nhập nhóm hàng thị.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-21T09:00:01+07:00",
+      "fetched": "2026-03-21T17:17:34.532994+07:00"
+    },
+    {
+      "id": "dc92f7c490ff36b4105cafeb5f4972c2",
+      "title": "Sai lầm ăn uống khiến người tiểu đường hỏng thận",
+      "link": "https://vnexpress.net/sai-lam-an-uong-khien-nguoi-tieu-duong-hong-than-5053162.html",
+      "summary": "Kiêng khem quá mức, ăn nhiều muối, không uống đủ nước có thể khiến đường huyết tăng cao, áp lực lên thận, tăng nguy cơ biến chứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T09:00:00+07:00",
+      "fetched": "2026-03-21T17:17:25.957330+07:00"
+    },
+    {
+      "id": "5c84381ba5ea1c6ecf7b1b88f3b76cf2",
+      "title": "Cổng vé thông minh giúp tàu điện Hà Nội tăng khách",
+      "link": "https://vnexpress.net/cong-ve-thong-minh-giup-tau-dien-ha-noi-tang-khach-5053220.html",
+      "summary": "Sau hơn 8 tháng áp dụng định danh điện tử và sinh trắc học, Hà Nội Metro ghi nhận hơn 5,7 triệu lượt hành khách, tăng 15%, doanh thu hai tuyến đường sắt đô thị tăng 48%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:59:07+07:00",
+      "fetched": "2026-03-21T17:17:25.957490+07:00"
+    },
+    {
+      "id": "5e5377491f0186a6b3eff8d35dbaefa5",
+      "title": "Phát hiện chồng ngoại tình khi con chỉ mới được 6 tháng tuổi",
+      "link": "https://vnexpress.net/phat-hien-chong-ngoai-tinh-khi-con-chi-moi-duoc-6-thang-tuoi-5053252.html",
+      "summary": "Anh nói chỉ là qua lại cho vui, không có ý định gì nghiêm túc và hứa sẽ không bao giờ vậy nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:58:00+07:00",
+      "fetched": "2026-03-21T17:17:25.957659+07:00"
+    },
+    {
+      "id": "104046cc4c5bec0cb417b4db591fb6cb",
+      "title": "Ông Putin: Nga vẫn là người bạn trung thành của Iran",
+      "link": "https://vnexpress.net/ong-putin-nga-van-la-nguoi-ban-trung-thanh-cua-iran-5053249.html",
+      "summary": "Ông Putin chúc mừng lãnh đạo Iran nhân dịp lễ Nowruz đánh dấu năm mới của người Ba Tư, khẳng định Moskva vẫn là người bạn trung thành với Tehran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:39:14+07:00",
+      "fetched": "2026-03-21T17:17:25.957832+07:00"
+    },
+    {
+      "id": "104046cc4c5bec0cb417b4db591fb6cb",
+      "title": "Ông Putin: Nga vẫn là người bạn trung thành của Iran",
+      "link": "https://vnexpress.net/ong-putin-nga-van-la-nguoi-ban-trung-thanh-cua-iran-5053249.html",
+      "summary": "Ông Putin chúc mừng lãnh đạo Iran nhân dịp lễ Nowruz đánh dấu năm mới của người Ba Tư, khẳng định Moskva vẫn là người bạn trung thành với Tehran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-21T08:39:14+07:00",
+      "fetched": "2026-03-21T17:17:32.785499+07:00"
+    },
+    {
+      "id": "84e27ddc039d3b15d35cce8145cfea0b",
+      "title": "Nữ runner chạy 42km ở giải marathon đêm dù mắc ung thư",
+      "link": "https://vnexpress.net/nu-runner-ung-thu-chinh-phuc-42km-giai-chay-dem-5053171.html",
+      "summary": "Vừa thực hiện các đợt hóa trị, Quách Thị Bích Thùy vừa duy trì tập luyện để hướng tới chinh phục VM Ho Chi Minh City Midnight sáng 22/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:30:00+07:00",
+      "fetched": "2026-03-21T17:17:25.957988+07:00"
+    },
+    {
+      "id": "8bc4632514e9fa9f218c6080da4cbc41",
+      "title": "Đông nghịt runner trải nghiệm các gian hàng tại Giải chạy đêm TP HCM",
+      "link": "https://vnexpress.net/runner-trai-nghiem-expo-vm-ho-chi-minh-city-midnight-2026-5052529.html",
+      "summary": "Hàng nghìn runner đến check-in, tham quan và trải nghiệm các gian hàng tại Expo VnExpress Marathon Ho Chi Minh City Midnight 2026 trong hai ngày 20-21/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:30:00+07:00",
+      "fetched": "2026-03-21T17:17:25.958140+07:00"
+    },
+    {
+      "id": "dd2cda6a8501329fbade3baf9b96f5a0",
+      "title": "Anh bỏ đề xuất cho AI 'dùng chùa' dữ liệu",
+      "link": "https://vnexpress.net/anh-bo-de-xuat-cho-ai-dung-chua-du-lieu-5053056.html",
+      "summary": "Chính phủ Anh hủy bỏ kế hoạch cho các công ty AI dùng miễn phí dữ liệu để huấn luyện mô hình, sau phản ứng từ giới văn nghệ sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:22:48+07:00",
+      "fetched": "2026-03-21T17:17:25.958323+07:00"
+    },
+    {
+      "id": "e8c4bac6562b86d0f2410c06e352097d",
+      "title": "Nhóm Mắt Ngọc ngày ấy - bây giờ",
+      "link": "https://vnexpress.net/nhom-mat-ngoc-ngay-ay-bay-gio-5053212.html",
+      "summary": "Thanh Ngọc thi ''Chị đẹp đạp gió rẽ sóng 2023'', tích cực hoạt động ca hát, Duy Uyên sống tại Mỹ cùng chồng Việt kiều, sau khi rời nhóm Mắt Ngọc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:19:40+07:00",
+      "fetched": "2026-03-21T17:17:25.958485+07:00"
+    },
+    {
       "id": "31c223da8b8787c5ed07f28be382dc62",
       "title": "Ronaldo có dự World Cup 2026?",
       "link": "https://tuoitre.vn/ronaldo-co-du-world-cup-2026-20260321043030718.htm",
@@ -583,6 +1023,16 @@ window.newsData_2026_03_21 = {
       "fetched": "2026-03-21T15:21:04.934043+07:00"
     },
     {
+      "id": "028c851b7dc45e55811816b0071e3921",
+      "title": "Dự án nhà công nhân tại Bắc Ninh gần 390 triệu đồng một căn",
+      "link": "https://vnexpress.net/du-an-nha-cong-nhan-tai-bac-ninh-gan-390-trieu-dong-mot-can-5053233.html",
+      "summary": "Gần 900 căn nhà xã hội CT1 tại khu nhà ở công nhân xã Yên Phong, Yên Trung có giá dự kiến 15,5 triệu đồng một m2, mở bán từ 15/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:04:16+07:00",
+      "fetched": "2026-03-21T17:17:25.958794+07:00"
+    },
+    {
       "id": "58fdfad90fb519c033fadd23d386c846",
       "title": "Tiến Linh không đáng bị chỉ trích và gây sức ép tâm lý",
       "link": "https://thanhnien.vn/tien-linh-khong-dang-bi-chi-trich-va-gay-suc-ep-tam-ly-185260321141732145.htm",
@@ -591,6 +1041,26 @@ window.newsData_2026_03_21 = {
       "category": "Tổng hợp",
       "published": "2026-03-21T08:00:00+07:00",
       "fetched": "2026-03-21T15:20:59.817087+07:00"
+    },
+    {
+      "id": "7da754254ed5c86e90db2f256026c5db",
+      "title": "An Zen Residences đồng hành cùng chương trình 'Săn nhà thông minh'",
+      "link": "https://vnexpress.net/an-zen-residences-dong-hanh-cung-chuong-trinh-san-nha-thong-minh-5053248.html",
+      "summary": "Dự án An Zen Residences được chọn làm địa điểm quay của \"Săn nhà thông minh\" và xuất hiện trong các tư liệu giới thiệu về chương trình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:00:00+07:00",
+      "fetched": "2026-03-21T17:17:25.958953+07:00"
+    },
+    {
+      "id": "9c0c0801e4a9b74aad3921fc95bd97d3",
+      "title": "Bị thoát vị đĩa đệm có thể tập hít đất không?",
+      "link": "https://vnexpress.net/bi-thoat-vi-dia-dem-co-the-tap-hit-dat-khong-5053230.html",
+      "summary": "Tôi bị thoát vị đĩa đệm, có thể tập hít đất không, nên tập như thế nào? (Văn Thái, 34 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:00:00+07:00",
+      "fetched": "2026-03-21T17:17:25.959108+07:00"
     },
     {
       "id": "401aeb7f32d71e7468c43d973d335e09",
