@@ -1,6 +1,6 @@
 window.newsData_2026_03_21 = {
   "date": "2026-03-21",
-  "lastUpdated": "2026-03-21T13:31:51.928341+07:00",
+  "lastUpdated": "2026-03-21T15:21:09.011455+07:00",
   "articles": [
     {
       "id": "4fd53755adc8c4ed325de01fe6db25c2",
@@ -551,6 +551,256 @@ window.newsData_2026_03_21 = {
       "category": "Tổng hợp",
       "published": "2026-03-21T08:09:49.767367+07:00",
       "fetched": "2026-03-21T08:09:49.767559+07:00"
+    },
+    {
+      "id": "1dafaa1035356cfd07cb580299462bf9",
+      "title": "Cổ vật La Mã gây tranh cãi về người châu Âu đầu tiên đến châu Mỹ",
+      "link": "https://thanhnien.vn/co-vat-la-ma-gay-tranh-cai-ve-nguoi-chau-au-dau-tien-den-chau-my-185260321102513912.htm",
+      "summary": "Trong khi ông Christopher Columbus được công nhận là người đầu tiên khám phá châu Mỹ năm 1492, việc phát hiện cổ vật La Mã đã làm dấy lên cuộc tranh cãi về việc ai thực sự mới là người khám phá ra Tân Thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:09:00+07:00",
+      "fetched": "2026-03-21T15:20:59.816760+07:00"
+    },
+    {
+      "id": "8a3c65e787459cc7d22955fbe4191def",
+      "title": "5 thực tập sinh kỹ thuật người Việt rơi xuống biển ở Nhật Bản",
+      "link": "https://thanhnien.vn/5-thuc-tap-sinh-ky-thuat-nguoi-viet-roi-xuong-bien-o-nhat-ban-185260321142523668.htm",
+      "summary": "Lực lượng Tuần duyên Nhật Bản hôm nay 21.3 thông báo 5 thực tập sinh kỹ thuật đến từ Việt Nam đã rơi xuống biển khi đang đánh cá gần bờ biển thuộc tỉnh Fukui, khiến ít nhất 1 người chết và 3 người mất tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:08:00+07:00",
+      "fetched": "2026-03-21T15:20:59.816930+07:00"
+    },
+    {
+      "id": "b3ceca154fb1a0b353a48e65c4283f80",
+      "title": "Doanh nghiệp tài chính ngày càng chuộng dùng stablecoin",
+      "link": "https://vnexpress.net/doanh-nghiep-tai-chinh-ngay-cang-chuong-dung-stablecoin-5053245.html",
+      "summary": "Khảo sát hơn 1.000 nhà lãnh đạo tài chính toàn cầu cho thấy tiền số, nhất là stablecoin, đang trở thành phương tiện thanh toán, thay vì một tùy chọn thêm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-21T08:06:36+07:00",
+      "fetched": "2026-03-21T15:21:04.934043+07:00"
+    },
+    {
+      "id": "58fdfad90fb519c033fadd23d386c846",
+      "title": "Tiến Linh không đáng bị chỉ trích và gây sức ép tâm lý",
+      "link": "https://thanhnien.vn/tien-linh-khong-dang-bi-chi-trich-va-gay-suc-ep-tam-ly-185260321141732145.htm",
+      "summary": "Trong thời gian vừa qua, tiền đạo Nguyễn Tiến Linh bị người hâm mộ chỉ trích khá nhiều vì phong độ thiếu ổn định trong màu áo CLB Công an TP.HCM tại V-League 2026-2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:00:00+07:00",
+      "fetched": "2026-03-21T15:20:59.817087+07:00"
+    },
+    {
+      "id": "401aeb7f32d71e7468c43d973d335e09",
+      "title": "Rác thải ùn ứ gây ô nhiễm, Đà Nẵng khẩn trương triển khai xử lý",
+      "link": "https://thanhnien.vn/rac-thai-un-u-gay-o-nhiem-da-nang-khan-truong-trien-khai-xu-ly-185260321131716405.htm",
+      "summary": "Trước tình trạng rác thải sinh hoạt ùn ứ tại nhiều xã ở phía nam, thành phố Đà Nẵng lên phương án xử lý nhằm đảm bảo vệ sinh môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:57:00+07:00",
+      "fetched": "2026-03-21T15:20:59.817243+07:00"
+    },
+    {
+      "id": "00a04c9af87b7115aea445b5de7b0d4e",
+      "title": "Thế giới trong tuần qua ảnh",
+      "link": "https://vnexpress.net/the-gioi-trong-tuan-qua-anh-5053143.html",
+      "summary": "Căng thẳng Trung Đông tiếp tục phủ bóng thế giới tuần qua, khi các đòn tập kích lẫn nhau tàn phá cơ sở hạ tầng, nhà cửa tại khu vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-21T07:48:19+07:00",
+      "fetched": "2026-03-21T15:21:02.635617+07:00"
+    },
+    {
+      "id": "6141024388eb5bf8eb10826c3adbf980",
+      "title": "Bót Catinat 'khét tiếng' từng là nơi tra khảo tù nhân xây 145 năm trước ở TP.HCM",
+      "link": "https://thanhnien.vn/bot-catinat-khet-tieng-tung-la-noi-tra-khao-tu-nhan-xay-145-nam-truoc-o-tphcm-185260318163819916.htm",
+      "summary": "Tọa lạc trung tâm TP.HCM, Bót Catinat từng là nơi giam giữ và tra khảo tù nhân chính trị khét tiếng. Trong công trình 145 năm tuổi này có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:43:00+07:00",
+      "fetched": "2026-03-21T15:20:59.817416+07:00"
+    },
+    {
+      "id": "16268bb711189310acad64b3538d1724",
+      "title": "Đắk Lắk khẩn trương phòng, chống bệnh dại",
+      "link": "https://thanhnien.vn/dak-lak-khan-truong-phong-chong-benh-dai-185260321134838014.htm",
+      "summary": "Sở Y tế Đắk Lắk vừa ban hành văn bản hỏa tốc về phòng, chống bệnh dại; rà soát tổng đàn chó mèo, siết chặt quản lý vật nuôi; xử lý ổ dịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:38:00+07:00",
+      "fetched": "2026-03-21T15:20:59.817567+07:00"
+    },
+    {
+      "id": "582f21d158bdd6b294b581dc06de9828",
+      "title": "Xung đột Trung Đông: Tư vấn pháp lý giúp doanh nghiệp bớt hoang mang",
+      "link": "https://thanhnien.vn/xung-dot-trung-dong-day-manh-tu-van-phap-ly-cho-doanh-nghiep-bot-hoang-mang-18526032112443195.htm",
+      "summary": "Trước xung đột Trung Đông, để doanh nghiệp yên tâm trong kinh doanh, Hội Trọng tài thương mại TP.HCM đã ký hợp tác về tư vấn pháp luật với Hiệp hội Doanh nghiệp TP.HCM (HUBA).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:34:00+07:00",
+      "fetched": "2026-03-21T15:20:59.817714+07:00"
+    },
+    {
+      "id": "ecfd0046462590fbe344b8a002302f6e",
+      "title": "Hà Nội cần như London, mỗi người dân một chiếc thẻ liên thông mọi phương tiện",
+      "link": "https://thanhnien.vn/ha-noi-can-nhu-london-moi-nguoi-dan-mot-chiec-the-lien-thong-moi-phuong-tien-185260321141535099.htm",
+      "summary": "Thứ trưởng Bộ GTVT Nguyễn Danh Huy mong muốn Hà Nội sớm đạt được mục tiêu giống như các đô thị lớn trên thế giới như London (Anh), người dân chỉ cần sử dụng một chiếc thẻ duy nhất để đi các loại phương tiện công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:28:00+07:00",
+      "fetched": "2026-03-21T15:20:59.817875+07:00"
+    },
+    {
+      "id": "4e2d1cb52246318dcdfdedb297565f40",
+      "title": "Nhóm người đi ô tô có dấu hiệu hành hung người đi xe máy gây phẫn nộ",
+      "link": "https://thanhnien.vn/nhom-nguoi-di-o-to-co-dau-hieu-hanh-hung-nguoi-di-xe-may-gay-phan-no-185260321131736772.htm",
+      "summary": "Clip nhóm người đi ô tô có dấu hiệu hành hung người đi xe máy ở TP.HCM gây phẫn nộ. Công an vào cuộc xác minh sự việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:25:00+07:00",
+      "fetched": "2026-03-21T15:20:59.818025+07:00"
+    },
+    {
+      "id": "86d79e57f6bf53b2beb30b94cdd85007",
+      "title": "Nguy cơ đột quỵ từ chứng ngưng thở khi ngủ",
+      "link": "https://vnexpress.net/nguy-co-dot-quy-tu-chung-ngung-tho-khi-ngu-5053155.html",
+      "summary": "Hội chứng ngưng thở tắc nghẽn khi ngủ (OSA) khiến hàng triệu người đối mặt nguy cơ suy tim, đột quỵ do nghẹt thở hàng trăm lần mỗi đêm nhưng người bệnh hiếm khi nhận biết dấu hiệu nguy hiểm này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:24:12+07:00",
+      "fetched": "2026-03-21T15:20:56.676687+07:00"
+    },
+    {
+      "id": "05274e8443170bf851b48f735f456df6",
+      "title": "Sai lầm tai hại khi cố bảo vệ ổ SSD",
+      "link": "https://thanhnien.vn/sai-lam-tai-hai-khi-co-bao-ve-o-ssd-185260321111901927.htm",
+      "summary": "Cài đặt trên Windows mà đa phần người dùng nào cũng tắt đi để 'bảo vệ' SSD, nhưng hóa ra lại là sai lầm tai hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:21:00+07:00",
+      "fetched": "2026-03-21T15:20:59.818177+07:00"
+    },
+    {
+      "id": "1c72adb115fbc26b7a02d59706ba37de",
+      "title": "Tăng tốc đưa xăng sinh học E10 ra thị trường trong tháng 4",
+      "link": "https://thanhnien.vn/tang-toc-dua-xang-sinh-hoc-e10-ra-thi-truong-trong-thang-4-185260321140817109.htm",
+      "summary": "Thủ tướng Chính phủ yêu cầu Bộ Công thương đẩy mạnh sử dụng xăng sinh học E10, rà soát để sớm triển khai lộ trình chuyển đổi sang nhiên liệu sinh học (E10) trong tháng 4, góp phần giảm phụ thuộc vào xăng khoáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:20:00+07:00",
+      "fetched": "2026-03-21T15:20:59.818338+07:00"
+    },
+    {
+      "id": "671b1110f8e6567129ab330ecddfa412",
+      "title": "Khi nào nên chụp Xquang tầm soát ung thư vú?",
+      "link": "https://vnexpress.net/khi-nao-nen-chup-xquang-tam-soat-ung-thu-vu-5053180.html",
+      "summary": "Nhiều phụ nữ tin rằng chỉ khi cơ thể xuất hiện bất thường như đau, sờ thấy khối u mới cần đi khám, song các chuyên gia cảnh báo ung thư vú có thể tiến triển âm thầm ngay cả khi cơ thể hoàn toàn bình thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:18:55+07:00",
+      "fetched": "2026-03-21T15:20:56.676865+07:00"
+    },
+    {
+      "id": "b97254c8bb3c0cd64d88eb38387fbdc5",
+      "title": "Công an vào cuộc vụ tài xế xe bán tải cố tình chắn đường người khác",
+      "link": "https://vnexpress.net/cong-an-vao-cuoc-vu-tai-xe-xe-ban-tai-co-tinh-chan-duong-nguoi-khac-5053228.html",
+      "summary": "Công an xã Quỳ Hợp đang xác minh video ghi lại cảnh tài xế đỗ xe bán tải chắn đường ở khối 12 khiến phương tiện khác không thể di chuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:18:33+07:00",
+      "fetched": "2026-03-21T15:20:56.677030+07:00"
+    },
+    {
+      "id": "ab0fa5087e564e136d685761b0493599",
+      "title": "Xuân Son 'chất lừ' ngày hội quân, Hoàng Hên quyết tâm giúp Việt Nam chiến thắng",
+      "link": "https://thanhnien.vn/xuan-son-chat-lu-ngay-hoi-quan-hoang-hen-quyet-tam-giup-viet-nam-chien-thang-185260321140709981.htm",
+      "summary": "Đội tuyển Việt Nam hội quân sáng 21.3 tại Hà Nội với sự góp mặt của nhiều trụ cột, trong đó Nguyễn Xuân Son tiếp tục là tâm điểm chú ý. Bên cạnh đó, tân binh nhập tịch Đỗ Hoàng Hên gây ấn tượng với quyết tâm cống hiến, sẵn sàng cùng đội tuyển hướng tới những kết quả tích cực ở loạt trận sắp tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:08:00+07:00",
+      "fetched": "2026-03-21T15:20:59.818494+07:00"
+    },
+    {
+      "id": "c6228762451c4f35b9fb89738cb4ac62",
+      "title": "Thủ tướng: Xây dựng đội ngũ chuyên gia an ninh mạng tinh nhuệ",
+      "link": "https://thanhnien.vn/thu-tuong-xay-dung-doi-ngu-chuyen-gia-an-ninh-mang-tinh-nhue-18526032113561203.htm",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu tập trung xây dựng đội ngũ chuyên gia an ninh mạng tinh nhuệ thông qua các cơ chế đột phá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:06:00+07:00",
+      "fetched": "2026-03-21T15:20:59.818646+07:00"
+    },
+    {
+      "id": "4be1b1685003b22d650a26f84102419e",
+      "title": "Chủ nhà dọa cho một sao vì shipper từ chối lắp đặt tủ lạnh",
+      "link": "https://vnexpress.net/chu-nha-doa-cho-mot-sao-vi-shipper-tu-choi-lap-dat-tu-lanh-5053219.html",
+      "summary": "Người hàng xóm của tôi, tỏ vẻ bực tức khi shipper không hỗ trợ bê chiếc tủ lạnh to đùng từ sân vào nhà và không hỗ trợ lắp đặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:01:37+07:00",
+      "fetched": "2026-03-21T15:20:56.677194+07:00"
+    },
+    {
+      "id": "c81371cacd06656ed9e3abb029750469",
+      "title": "Neuer: 'Tôi chưa từng ngán đối thủ nào chỉ vì một cá nhân cụ thể'",
+      "link": "https://vnexpress.net/neuer-toi-chua-tung-ngan-doi-thu-nao-chi-vi-mot-ca-nhan-cu-the-5053136.html",
+      "summary": "Trả lời phỏng vấn France Football tháng trước, ở tuổi gần 40, Manuel Neuer  nhìn lại hành trình vào \"ngôi đền\" những huyền thoại thủ môn: từ khả năng chọn vị trí, kỹ năng chơi chân, cá tính và cả những ý tưởng giúp bóng đá tiến hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:00:00+07:00",
+      "fetched": "2026-03-21T15:20:56.677370+07:00"
+    },
+    {
+      "id": "cd4b61f0d137525e55bbf1012c3a1684",
+      "title": "Nguyên nhân gây suy tĩnh mạch mạn tính",
+      "link": "https://vnexpress.net/nguyen-nhan-gay-suy-tinh-mach-man-tinh-5052789.html",
+      "summary": "Ngồi, đứng trong thời gian dài, béo phì, tuổi cao, chấn thương ở chân là những yếu tố làm tăng nguy cơ suy tĩnh mạch mạn tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:00:00+07:00",
+      "fetched": "2026-03-21T15:20:56.677532+07:00"
+    },
+    {
+      "id": "7017beaf7da355022e42cf5df888e715",
+      "title": "Toyota Việt Nam - 31 năm bền bỉ vì tương lai tươi sáng của người Việt",
+      "link": "https://thanhnien.vn/toyota-viet-nam-31-nam-ben-bi-vi-tuong-lai-tuoi-sang-cua-nguoi-viet-185260321121445649.htm",
+      "summary": "Trong suốt hành trình ấy, Toyota Việt Nam luôn dành sự quan tâm đặc biệt cho trẻ em với nhiều chương trình ý nghĩa, bổ ích như trao tặng học bổng, cuộc thi vẽ tranh, xanh hóa học đường… góp phần vun đắp tương lai tươi sáng của người Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:00:00+07:00",
+      "fetched": "2026-03-21T15:20:59.818800+07:00"
+    },
+    {
+      "id": "4d267119c851edc38f0eaf9cd7f510bc",
+      "title": "Điểm xuyết nét đẹp kiêu kỳ nhờ trang sức ngọc trai tinh tế",
+      "link": "https://thanhnien.vn/thoi-trang-tre/diem-xuyet-net-dep-kieu-ky-nho-trang-suc-ngoc-trai-tinh-te-185260319173359058.htm",
+      "summary": "Vẻ đẹp sang trọng của ngọc trai chưa bao giờ lỗi mốt, những viên ngọc trai vẫn giữ nguyên sức hút, biến mọi bộ trang phục trở nên kiêu kỳ hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T07:00:00+07:00",
+      "fetched": "2026-03-21T15:20:59.818953+07:00"
+    },
+    {
+      "id": "c81371cacd06656ed9e3abb029750469",
+      "title": "Neuer: 'Tôi chưa từng ngán đối thủ nào chỉ vì một cá nhân cụ thể'",
+      "link": "https://vnexpress.net/neuer-toi-chua-tung-ngan-doi-thu-nao-chi-vi-mot-ca-nhan-cu-the-5053136.html",
+      "summary": "Trả lời phỏng vấn France Football tháng trước, ở tuổi gần 40, Manuel Neuer  nhìn lại hành trình vào \"ngôi đền\" những huyền thoại thủ môn: từ khả năng chọn vị trí, kỹ năng chơi chân, cá tính và cả những ý tưởng giúp bóng đá tiến hóa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-21T07:00:00+07:00",
+      "fetched": "2026-03-21T15:21:09.001472+07:00"
+    },
+    {
+      "id": "454ede6ebb05ea78e936d949f11bae3b",
+      "title": "Ai có cơ hội sinh tồn cao nhất?",
+      "link": "https://vnexpress.net/ai-co-co-hoi-sinh-ton-cao-nhat-5051166.html",
+      "summary": "Những câu đố kiểu này vừa giúp rèn luyện khả năng quan sát, vừa mang lại cảm giác thư giãn khi bạn bất ngờ nhận ra lời giải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T06:45:00+07:00",
+      "fetched": "2026-03-21T15:20:56.677687+07:00"
     },
     {
       "id": "d414aa2831f07b04b612dc1f5e325f4f",
