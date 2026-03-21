@@ -1,7 +1,17 @@
 window.newsData_2026_03_22 = {
   "date": "2026-03-22",
-  "lastUpdated": "2026-03-22T01:23:09.202657+07:00",
+  "lastUpdated": "2026-03-22T03:15:47.534052+07:00",
   "articles": [
+    {
+      "id": "9faba7fd70915090d7fe6584b30f9bba",
+      "title": "Thủ tướng giao Bộ Công an điều tra, xử nghiêm hành vi găm hàng và thổi giá vật liệu xây dựng",
+      "link": "https://tuoitre.vn/thu-tuong-giao-bo-cong-an-dieu-tra-xu-nghiem-hanh-vi-gam-hang-va-thoi-gia-vat-lieu-xay-dung-2026032123362656.htm",
+      "summary": "Bộ Công an được giao chủ trì, phối hợp với các cơ quan liên quan điều tra, xử lý nghiêm các tổ chức, cá nhân có hành vi thao túng thị trường, găm hàng, thổi giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T03:15:40.192313+07:00",
+      "fetched": "2026-03-22T03:15:40.192560+07:00"
+    },
     {
       "id": "0145c099a09aed1012b0a61d393f500f",
       "title": "Dàn người đẹp đấu pickleball để giành vương miện 1,8 tỉ đồng",
@@ -153,6 +163,76 @@ window.newsData_2026_03_22 = {
       "fetched": "2026-03-22T01:23:02.181460+07:00"
     },
     {
+      "id": "5e2d29fb2e554f9802db25972f014285",
+      "title": "Chiến sự Ukraine thêm nhiều diễn biến căng thẳng",
+      "link": "https://thanhnien.vn/chien-su-ukraine-them-nhieu-dien-bien-cang-thang-185260321225026752.htm",
+      "summary": "Trang The Kyiv Independent ngày 21.3 dẫn thông cáo của Lực lượng Hệ thống không người lái Ukraine cho biết các đơn vị máy bay không người lái (UAV) của nước này đã bắn rơi một trực thăng Ka-52 của Nga tại tỉnh Donetsk.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T20:00:00+07:00",
+      "fetched": "2026-03-22T03:15:39.321898+07:00"
+    },
+    {
+      "id": "518e6b98f5492b37c2f1c6a8737e4fa2",
+      "title": "Bayern ghi 19 bàn trong năm trận liên tiếp",
+      "link": "https://vnexpress.net/bayern-ghi-19-ban-trong-nam-tran-lien-tiep-5053353.html",
+      "summary": "Trận thắng Union Berlin 4-0 ở vòng 27 Bundesliga giúp Bayern nối dài cơn mưa bàn trên mọi đấu trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T19:52:38+07:00",
+      "fetched": "2026-03-22T03:15:36.631979+07:00"
+    },
+    {
+      "id": "518e6b98f5492b37c2f1c6a8737e4fa2",
+      "title": "Bayern ghi 19 bàn trong năm trận liên tiếp",
+      "link": "https://vnexpress.net/bayern-ghi-19-ban-trong-nam-tran-lien-tiep-5053353.html",
+      "summary": "Trận thắng Union Berlin 4-0 ở vòng 27 Bundesliga giúp Bayern nối dài cơn mưa bàn trên mọi đấu trường.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-21T19:52:38+07:00",
+      "fetched": "2026-03-22T03:15:47.529348+07:00"
+    },
+    {
+      "id": "47740107820fc52eab100a1f179767c7",
+      "title": "Sinner cân bằng kỷ lục của Djokovic",
+      "link": "https://vnexpress.net/sinner-can-bang-ky-luc-cua-djokovic-5053366.html",
+      "summary": "Hạ Damir Dzumhur 6-3, 6-3 ở vòng hai Miami Mở rộng, Jannik Sinner cân bằng kỷ lục 24 set thắng liên tiếp ở cấp độ Masters 1000 của Novak Djokovic.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T19:52:11+07:00",
+      "fetched": "2026-03-22T03:15:36.632172+07:00"
+    },
+    {
+      "id": "47740107820fc52eab100a1f179767c7",
+      "title": "Sinner cân bằng kỷ lục của Djokovic",
+      "link": "https://vnexpress.net/sinner-can-bang-ky-luc-cua-djokovic-5053366.html",
+      "summary": "Hạ Damir Dzumhur 6-3, 6-3 ở vòng hai Miami Mở rộng, Jannik Sinner cân bằng kỷ lục 24 set thắng liên tiếp ở cấp độ Masters 1000 của Novak Djokovic.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-21T19:52:11+07:00",
+      "fetched": "2026-03-22T03:15:47.528970+07:00"
+    },
+    {
+      "id": "1e1f18e80c187f7d2c774145e4bf5a1a",
+      "title": "Chelsea thảm bại trước Everton",
+      "link": "https://vnexpress.net/chelsea-tham-bai-truoc-everton-5053365.html",
+      "summary": "Chelsea thua chủ nhà Everton 0-3 ở vòng 31 Ngoại hạng Anh, và tiếp tục đứng ngoài nhóm dự Champions League mùa sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T19:31:40+07:00",
+      "fetched": "2026-03-22T03:15:36.632341+07:00"
+    },
+    {
+      "id": "1e1f18e80c187f7d2c774145e4bf5a1a",
+      "title": "Chelsea thảm bại trước Everton",
+      "link": "https://vnexpress.net/chelsea-tham-bai-truoc-everton-5053365.html",
+      "summary": "Chelsea thua chủ nhà Everton 0-3 ở vòng 31 Ngoại hạng Anh, và tiếp tục đứng ngoài nhóm dự Champions League mùa sau.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-21T19:31:40+07:00",
+      "fetched": "2026-03-22T03:15:47.529177+07:00"
+    },
+    {
       "id": "57b240181eee8a798034acb2d2cc4d4b",
       "title": "Phòng không Iran bắn bị thương F-35 Mỹ thế nào",
       "link": "https://vnexpress.net/phong-khong-iran-ban-bi-thuong-f-35-my-the-nao-5053176.html",
@@ -161,6 +241,16 @@ window.newsData_2026_03_22 = {
       "category": "Thế giới",
       "published": "2026-03-21T18:00:00+07:00",
       "fetched": "2026-03-22T01:23:03.245409+07:00"
+    },
+    {
+      "id": "bc4915555691a4cad2335581934b9c8a",
+      "title": "Lợi ích của vitamin nhóm B",
+      "link": "https://vnexpress.net/loi-ich-cua-vitamin-nhom-b-5052448.html",
+      "summary": "Các vitamin như B1, B2, B3 giúp cơ thể tạo năng lượng, trong khi B6, B9, B12 đóng vai trò quan trọng trong tạo máu và hoạt động não bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T18:00:00+07:00",
+      "fetched": "2026-03-22T03:15:36.632690+07:00"
     },
     {
       "id": "d631a0924d5f88779f61ec54ad072533",
