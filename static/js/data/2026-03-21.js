@@ -1,7 +1,157 @@
 window.newsData_2026_03_21 = {
   "date": "2026-03-21",
-  "lastUpdated": "2026-03-21T21:18:28.008832+07:00",
+  "lastUpdated": "2026-03-21T23:18:23.828355+07:00",
   "articles": [
+    {
+      "id": "667237c0e9ad73309d8030e723d8ebaa",
+      "title": "Sun Group và Changi Airports vận hành sân bay Phú Quốc",
+      "link": "https://tuoitre.vn/sun-group-va-changi-airports-van-hanh-san-bay-phu-quoc-20260321191650635.htm",
+      "summary": "Ngày 21-3, Tập đoàn Sun Group và Changi Airports International (CAI) của Singapore đã ký kết thỏa thuận hợp tác chiến lược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.113410+07:00",
+      "fetched": "2026-03-21T23:18:16.113523+07:00"
+    },
+    {
+      "id": "f39d375bcb75174f5322aa5b7b50eb6f",
+      "title": "Thủ tướng: Thực hiện nghiêm chỉ đạo của Bộ Chính trị về đảm bảo nguồn cung xăng dầu, giá ổn định",
+      "link": "https://tuoitre.vn/thu-tuong-thuc-hien-nghiem-chi-dao-cua-bo-chinh-tri-ve-dam-bao-nguon-cung-xang-dau-gia-on-dinh-20260321192418262.htm",
+      "summary": "Thủ tướng yêu cầu các bộ, ngành, doanh nghiệp liên quan thực hiện nghiêm, kịp thời, hiệu quả các chỉ đạo của Bộ Chính trị trong Kết luận số 14 về bảo đảm nguồn cung và giá nhiên liệu ổn định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.113282+07:00",
+      "fetched": "2026-03-21T23:18:16.113398+07:00"
+    },
+    {
+      "id": "6beb1c28f4783e1611de321f102a99a0",
+      "title": "Quảng Trị tuyển 29 nhân viên an ninh hàng không vào Công an, được phong cấp bậc hàm",
+      "link": "https://tuoitre.vn/quang-tri-tuyen-29-nhan-vien-an-ninh-hang-khong-vao-cong-an-duoc-phong-cap-bac-ham-20260321191953405.htm",
+      "summary": "29 nhân viên an ninh hàng không tại sân bay Đồng Hới, tỉnh Quảng Trị vừa được Công an tỉnh này tuyển chọn vào lực lượng Công an nhân dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.113136+07:00",
+      "fetched": "2026-03-21T23:18:16.113270+07:00"
+    },
+    {
+      "id": "2d811be747005b4a2b4d458aeb3ec5dd",
+      "title": "Cục CSGT: Sát hạch lái xe sẽ chặt chẽ hơn, học viên phải xem clip các vụ tai nạn nghiêm trọng",
+      "link": "https://tuoitre.vn/cuc-csgt-sat-hach-lai-xe-se-chat-che-hon-hoc-vien-phai-xem-clip-cac-vu-tai-nan-nghiem-trong-20260321193141505.htm",
+      "summary": "Việc cho học viên xem clip liên quan đến các vụ tai nạn được Cục CSGT đánh giá là một trong tiến trình xây dựng đạo đức, trách nhiệm tối thiểu cho tài xế ngoài kiến thức về kỹ thuật lái xe và pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.113013+07:00",
+      "fetched": "2026-03-21T23:18:16.113124+07:00"
+    },
+    {
+      "id": "d50e49c29ae659442d978372375f95ad",
+      "title": "Vụ học sinh ở Phú Quốc tử vong do viêm não mô cầu: An Giang khuyến cáo hạn chế tụ tập đông người",
+      "link": "https://tuoitre.vn/vu-hoc-sinh-o-phu-quoc-tu-vong-do-viem-nao-mo-cau-an-giang-khuyen-cao-han-che-tu-tap-dong-nguoi-20260321193515725.htm",
+      "summary": "Vụ một học sinh ở Phú Quốc tử vong do bị mắc bệnh viêm não mô cầu, Sở Y tế tỉnh An Giang khuyến cáo hạn chế tụ tập đông người và tiếp xúc gần với người nghi ngờ mắc bệnh, đảm bảo an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.112873+07:00",
+      "fetched": "2026-03-21T23:18:16.113001+07:00"
+    },
+    {
+      "id": "a29f7e1a5ce74e4574ce08b960ce7045",
+      "title": "Tai nạn giữa xe tải và xe container, 1 tài xế thiệt mạng",
+      "link": "https://tuoitre.vn/tai-nan-giua-xe-tai-va-xe-container-tai-xe-xe-tai-ket-trong-cabin-tu-vong-20260321193633491.htm",
+      "summary": "Trên quốc lộ 1 qua phường Đông Hòa, Đắk Lắk (trước là Phú Yên) xảy ra tai nạn giữa xe tải và xe container khiến 1 tài xế thiệt mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.112688+07:00",
+      "fetched": "2026-03-21T23:18:16.112859+07:00"
+    },
+    {
+      "id": "0145c099a09aed1012b0a61d393f500f",
+      "title": "Dàn người đẹp đấu pickleball để giành vương miện 1,8 tỉ đồng",
+      "link": "https://tuoitre.vn/dan-nguoi-dep-dau-pickleball-de-gianh-vuong-mien-1-8-ti-dong-20260321194632314.htm",
+      "summary": "Hàng chục 'chân dài' từ cuộc thi sắc đẹp đã tề tựu về Icon Pickleball Championship 2026 vì giải thưởng là chiếc vương miện đắt giá như cuộc thi hoa hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.112529+07:00",
+      "fetched": "2026-03-21T23:18:16.112669+07:00"
+    },
+    {
+      "id": "423325ed64c6febab8d28f7fb1c8dbbe",
+      "title": "Hơn 1.000 bạn trẻ diện Việt phục diễu hành giữa trung tâm TP.HCM",
+      "link": "https://tuoitre.vn/hon-1-000-ban-tre-dien-viet-phuc-dieu-hanh-giua-trung-tam-tp-hcm-20260321191720119.htm",
+      "summary": "Trong sắc màu rực rỡ của những tà áo truyền thống, hơn 1.000 bạn trẻ tham gia đồng diễn Việt phục Tóc xanh vạt áo 2026, tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.112396+07:00",
+      "fetched": "2026-03-21T23:18:16.112517+07:00"
+    },
+    {
+      "id": "3d73aefbc8fba14eed68437bc71badd1",
+      "title": "Israel tuyên bố tuần tới sẽ 'gia tăng đáng kể' các cuộc tấn công vào Iran",
+      "link": "https://tuoitre.vn/israel-tuyen-bo-tuan-toi-se-gia-tang-dang-ke-cac-cuoc-tan-cong-vao-iran-20260321200922995.htm",
+      "summary": "Israel tuyên bố cường độ các cuộc tấn công nhằm vào Iran do Mỹ và Israel thực hiện sẽ gia tăng đáng kể trong tuần tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.112271+07:00",
+      "fetched": "2026-03-21T23:18:16.112385+07:00"
+    },
+    {
+      "id": "efde360745eda64691a1a2d704de8fb6",
+      "title": "Kết luận của Bộ Chính trị về bảo đảm nguồn cung, giá xăng dầu ổn định",
+      "link": "https://tuoitre.vn/ket-luan-cua-bo-chinh-tri-ve-bao-dam-nguon-cung-gia-xang-dau-on-dinh-20260321201635739.htm",
+      "summary": "Bộ Chính trị giao Ban Thường vụ Đảng ủy Chính phủ khẩn trương lãnh đạo, chỉ đạo các cơ quan bám sát, dự báo tình hình, diễn biến cung cầu và giá cả xăng dầu thế giới để chủ động, xây dựng kịch bản ứng phó hiệu quả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.112119+07:00",
+      "fetched": "2026-03-21T23:18:16.112258+07:00"
+    },
+    {
+      "id": "4c127734dde275337f7cf40f586e46ab",
+      "title": "Rượt đuổi kịch tính, Ninh Bình thắng nghẹt thở PVF-CAND tại Cúp quốc gia",
+      "link": "https://tuoitre.vn/ruot-duoi-kich-tinh-ninh-binh-thang-nghet-tho-pvf-cand-tai-cup-quoc-gia-20260321204331341.htm",
+      "summary": "Tối 21-3, tại tứ kết Cúp quốc gia, Ninh Bình có được chiến thắng kịch tính 3-2 trước PVF-CAND.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.111988+07:00",
+      "fetched": "2026-03-21T23:18:16.112107+07:00"
+    },
+    {
+      "id": "24275176e0c409a1ca424df9fcb7d033",
+      "title": "Phó thủ tướng Mai Văn Chính: Doanh nghiệp muốn đi xa phải đi cùng văn hóa",
+      "link": "https://tuoitre.vn/pho-thu-tuong-mai-van-chinh-doanh-nghiep-muon-di-xa-phai-di-cung-van-hoa-20260321204641286.htm",
+      "summary": "Theo Phó thủ tướng Mai Văn Chính, doanh nghiệp muốn đi xa phải đi cùng văn hóa, muốn làm lớn phải coi trọng văn hóa, muốn xây dựng thương hiệu mạnh phải xây dựng bằng những giá trị bền vững dựa trên nền tảng đạo đức kinh doanh và trách nhiệm xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.111859+07:00",
+      "fetched": "2026-03-21T23:18:16.111977+07:00"
+    },
+    {
+      "id": "f10a5d5c02ec678e7e733353c0b81477",
+      "title": "Hơn 20 nước ra tuyên bố chung muốn giúp bảo đảm đi lại an toàn qua eo biển Hormuz",
+      "link": "https://tuoitre.vn/hon-20-nuoc-ra-tuyen-bo-chung-muon-giup-bao-dam-di-lai-an-toan-qua-eo-bien-hormuz-2026032120335726.htm",
+      "summary": "Ngày 21-3, hơn 20 quốc gia thông báo họ sẽ đóng góp vào những nỗ lực nhằm bảo đảm lưu thông an toàn qua eo biển Hormuz, đồng thời lên án việc Iran phong tỏa tuyến đường thủy quan trọng này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.111728+07:00",
+      "fetched": "2026-03-21T23:18:16.111847+07:00"
+    },
+    {
+      "id": "1a1f57aeeff5c8b9813cf606fca0d344",
+      "title": "Cam sành, dưa hấu, thanh long, xoài... rớt giá thê thảm, điểm bán đổ thành đống",
+      "link": "https://tuoitre.vn/cam-sanh-dua-hau-thanh-long-xoai-rot-gia-the-tham-diem-ban-do-thanh-dong-20260321202130549.htm",
+      "summary": "Nguồn cung dồi dào, thị trường tiêu thụ hạn chế khiến nhiều loại nông sản, đặc biệt các loại trái cây như dưa hấu, cam sành... giá giảm sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.111586+07:00",
+      "fetched": "2026-03-21T23:18:16.111716+07:00"
+    },
+    {
+      "id": "0a63d3ec6ce38ebb2f24c4b099e60460",
+      "title": "BTS và concert lịch sử: Các 'vị vua' thật sự trở lại",
+      "link": "https://tuoitre.vn/bts-va-concert-lich-su-cac-vi-vua-that-su-tro-lai-20260321203356121.htm",
+      "summary": "Concert miễn phí Comeback Live: Arirang của BTS vừa khép lại đầy mỹ mãn. Buổi biểu diễn thu hút hơn 40.000 người, là minh chứng cho thấy sức hút 'nhóm nhạc lớn nhất K-pop' chưa bao giờ hạ nhiệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T23:18:16.111338+07:00",
+      "fetched": "2026-03-21T23:18:16.111562+07:00"
+    },
     {
       "id": "3dd0c691e07046b05396ab24591e3b4b",
       "title": "Danh sách những người trúng cử đại biểu Quốc hội khóa XVI tại Hà Nội",
@@ -453,6 +603,186 @@ window.newsData_2026_03_21 = {
       "fetched": "2026-03-21T17:17:30.643127+07:00"
     },
     {
+      "id": "04a72dc22eeb19afbb420ced581869d3",
+      "title": "Hà Nội: Phạt 2 người rao bán ‘suất ngoại giao, suất nội bộ’ nhà ở xã hội",
+      "link": "https://thanhnien.vn/ha-noi-phat-2-nguoi-rao-ban-suat-ngoai-giao-suat-noi-bo-nha-o-xa-hoi-185260321224824105.htm",
+      "summary": "2 trường hợp rao bán 'suất ngoại giao', 'suất nội bộ' nhà ở xã hội vừa bị lực lượng An ninh mạng Công an Hà Nội xử phạt vì cung cấp thông tin giả mạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T16:04:00+07:00",
+      "fetched": "2026-03-21T23:18:15.108091+07:00"
+    },
+    {
+      "id": "2c2ea0eff3fb493cc14bcf50af7d955d",
+      "title": "Dùng điện thoại quay lén trong nhà vệ sinh nữ tại trung tâm hành chính công",
+      "link": "https://thanhnien.vn/dung-dien-thoai-quay-len-trong-nha-ve-sinh-nu-tai-trung-tam-hanh-chinh-cong-185260321223705207.htm",
+      "summary": "Tiếp nhận tin báo, lực lượng cảnh sát phản ứng nhanh của Công an Hà Nội đã có mặt tại hiện trường và phát hiện một thanh niên 20 tuổi có hành vi quay lén trong khu vực nhà vệ sinh nữ của Trung tâm phục vụ hành chính công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T15:59:00+07:00",
+      "fetched": "2026-03-21T23:18:15.108291+07:00"
+    },
+    {
+      "id": "d92c8129e39f8c6219af10790c0e683e",
+      "title": "Nghi phạm giết người nước ngoài bị bắt tại sân bay Tân Sơn Nhất",
+      "link": "https://vnexpress.net/nghi-pham-giet-nguoi-nuoc-ngoai-bi-bat-tai-san-bay-tan-son-nhat-5053342.html",
+      "summary": "Hu YongChao, 34 tuổi, quốc tịch Trung Quốc, nghi can sát hại người đàn ông nước ngoài trong khách sạn ở phường An Lạc, bị bắt tại sân bay khi chuẩn bị bỏ trốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T15:34:48+07:00",
+      "fetched": "2026-03-21T23:18:11.903548+07:00"
+    },
+    {
+      "id": "2691613f7423d9bab0f42297cd14c5d2",
+      "title": "Giám đốc Trung tâm Đăng kiểm tàu cá Lâm Đồng bị bắt",
+      "link": "https://vnexpress.net/giam-doc-trung-tam-dang-kiem-tau-ca-lam-dong-bi-bat-5053332.html",
+      "summary": "Ông Trần Nguyên Vũ, Giám đốc Trung tâm Đăng kiểm tàu cá tỉnh Lâm Đồng, cùng hai cấp dưới, bị cáo buộc nhận tiền rồi thực hiện sai phạm khi đăng kiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T15:31:58+07:00",
+      "fetched": "2026-03-21T23:18:11.903735+07:00"
+    },
+    {
+      "id": "38b4b0fe2ddb69dc3597979eec1332ef",
+      "title": "Bộ Chính trị khuyến khích người dân tiết kiệm nhiên liệu",
+      "link": "https://vnexpress.net/bo-chinh-tri-khuyen-khich-nguoi-dan-tiet-kiem-nhien-lieu-5053340.html",
+      "summary": "Nhằm giảm áp lực nguồn cung, tránh ảnh hưởng sản xuất kinh doanh và đời sống, Bộ Chính trị khuyến khích người dân tiêu dùng nhiên liệu tiết kiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T15:26:32+07:00",
+      "fetched": "2026-03-21T23:18:11.903898+07:00"
+    },
+    {
+      "id": "38b4b0fe2ddb69dc3597979eec1332ef",
+      "title": "Bộ Chính trị khuyến khích người dân tiết kiệm nhiên liệu",
+      "link": "https://vnexpress.net/bo-chinh-tri-khuyen-khich-nguoi-dan-tiet-kiem-nhien-lieu-5053340.html",
+      "summary": "Nhằm giảm áp lực nguồn cung, tránh ảnh hưởng sản xuất kinh doanh và đời sống, Bộ Chính trị khuyến khích người dân tiêu dùng nhiên liệu tiết kiệm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-21T15:26:32+07:00",
+      "fetched": "2026-03-21T23:18:19.670254+07:00"
+    },
+    {
+      "id": "c5b4c53dbafeda9d11ae324075a20c40",
+      "title": "Chương trình Tư vấn mùa thi 2026 tại Đà Nẵng sẵn sàng chào đón thí sinh",
+      "link": "https://thanhnien.vn/chuong-trinh-tu-van-mua-thi-2026-tai-da-nang-san-sang-chao-don-thi-sinh-185260321203653985.htm",
+      "summary": "Trước thềm chương trình Tư vấn mùa thi 2026 tại Trường THPT Phan Châu Trinh, TP. Đà Nẵng, không khí chuẩn bị đang diễn ra khẩn trương và sôi động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T15:23:00+07:00",
+      "fetched": "2026-03-21T23:18:15.108454+07:00"
+    },
+    {
+      "id": "2e4508a74e467366cf5a3cb21508356a",
+      "title": "Tuổi trẻ C10 phát huy vai trò xung kích cảm hóa, hướng thiện những người lầm lỡ",
+      "link": "https://thanhnien.vn/tuoi-tre-c10-phat-huy-vai-tro-xung-kich-cam-hoa-huong-thien-nhung-nguoi-lam-lo-185260321201030161.htm",
+      "summary": "Từ khi thành lập đến nay, lực lượng thanh niên Cục C10 Bộ Công an không chỉ làm tốt nhiệm vụ quản lý, giam giữ, đảm bảo an ninh mà còn tham gia giáo dục, cải tạo và cảm hóa, hướng thiện cho những người lầm lỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T15:22:00+07:00",
+      "fetched": "2026-03-21T23:18:15.108622+07:00"
+    },
+    {
+      "id": "dbd35fee26da44db58aa354d9494d95e",
+      "title": "Cháy bãi phế liệu ni lông, cột khói đen phủ kín khu dân cư ở TP.HCM",
+      "link": "https://thanhnien.vn/chay-bai-phe-lieu-ni-long-cot-khoi-den-phu-kin-khu-dan-cu-o-tphcm-185260321193024185.htm",
+      "summary": "Đám cháy bùng phát dữ dội tại bãi phế liệu ni lông ở phường Linh Xuân (TP.HCM), khói đen cuồn cuộn bốc cao, đe dọa nhiều nhà dân xung quanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T15:21:00+07:00",
+      "fetched": "2026-03-21T23:18:15.108777+07:00"
+    },
+    {
+      "id": "3be959e9578bf76bb60d8b3151b88189",
+      "title": "Các nhà khoa học trúng cử đại biểu Quốc hội khóa 16",
+      "link": "https://vnexpress.net/cac-nha-khoa-hoc-trung-cu-dai-bieu-quoc-hoi-khoa-16-5053335.html",
+      "summary": "Hội đồng Bầu cử quốc gia công bố danh sách 500 người trúng cử đại biểu Quốc hội khóa 16, trong đó có một số nhà khoa học nổi tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T15:13:26+07:00",
+      "fetched": "2026-03-21T23:18:11.904064+07:00"
+    },
+    {
+      "id": "3be959e9578bf76bb60d8b3151b88189",
+      "title": "Các nhà khoa học trúng cử đại biểu Quốc hội khóa 16",
+      "link": "https://vnexpress.net/cac-nha-khoa-hoc-trung-cu-dai-bieu-quoc-hoi-khoa-16-5053335.html",
+      "summary": "Hội đồng Bầu cử quốc gia công bố danh sách 500 người trúng cử đại biểu Quốc hội khóa 16, trong đó có một số nhà khoa học nổi tiếng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-21T15:13:26+07:00",
+      "fetched": "2026-03-21T23:18:22.478878+07:00"
+    },
+    {
+      "id": "5873ba491e56d8feedddf7a0c90ae9cd",
+      "title": "Sắc vàng trong tranh Van Gogh",
+      "link": "https://vnexpress.net/sac-vang-trong-tranh-van-gogh-5052253.html",
+      "summary": "Những năm cuối đời ở Pháp, danh họa Van Gogh say mê màu vàng, đem chúng vào nhiều tranh vẽ phong cảnh, tĩnh vật và chân dung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T15:00:00+07:00",
+      "fetched": "2026-03-21T23:18:11.904244+07:00"
+    },
+    {
+      "id": "315c07b3b9b5bc4eec5782480a023922",
+      "title": "TP.HCM: Khoảnh khắc đám cháy bùng phát tại P.Linh Xuân",
+      "link": "https://thanhnien.vn/tphcm-khoanh-khac-dam-chay-bung-phat-tai-plinh-xuan-185260321214648146.htm",
+      "summary": "Khoảng hơn 17 giờ chiều 21.3.2026, một đám cháy lớn bất ngờ bùng phát tại bãi tập kết nilon nằm trong khuôn viên một công ty bỏ hoang trên đường số 1, phường Linh Xuân, TP.Thủ Đức, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T14:50:00+07:00",
+      "fetched": "2026-03-21T23:18:15.108930+07:00"
+    },
+    {
+      "id": "90bc19e4a07070af02246e2108f963cd",
+      "title": "Kết luận của Bộ Chính trị về bảo đảm nguồn cung và ổn định giá nhiên liệu",
+      "link": "https://thanhnien.vn/ket-luan-cua-bo-chinh-tri-ve-bao-dam-nguon-cung-va-on-dinh-gia-nhien-lieu-185260321211953482.htm",
+      "summary": "Bộ Chính trị giao Ban Thường vụ Đảng ủy Chính phủ khẩn trương lãnh đạo, chỉ đạo các cơ quan bám sát, dự báo tình hình, diễn biến cung cầu và giá cả xăng dầu thế giới để chủ động, xây dựng kịch bản ứng phó hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T14:44:00+07:00",
+      "fetched": "2026-03-21T23:18:15.109084+07:00"
+    },
+    {
+      "id": "43fc340893ee2f654bbb9546d65e5501",
+      "title": "Văn Mai Hương, Hà Anh Tuấn khuấy động đêm nhạc với loạt hit",
+      "link": "https://vnexpress.net/van-mai-huong-ha-anh-tuan-khuay-dong-dem-nhac-voi-loat-hit-5052357.html",
+      "summary": "Ca sĩ Văn Mai Hương, Quốc Thiên, Trung Quân, Hà Anh Tuấn hát loạt ca khúc triệu lượt nghe, được khán giả cổ vũ trong đêm nhạc \"Di sản tâm thức\" tối 20/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T14:30:00+07:00",
+      "fetched": "2026-03-21T23:18:11.904408+07:00"
+    },
+    {
+      "id": "d9282a5c10fad5f014b9a02731d2d651",
+      "title": "Tiêm kích Israel bị tên lửa Iran nhắm bắn",
+      "link": "https://vnexpress.net/tiem-kich-israel-bi-ten-lua-iran-nham-ban-5053289.html",
+      "summary": "Một chiến đấu cơ Israel bị tên lửa phòng không Iran nhắm mục tiêu khi làm nhiệm vụ trên vùng trời đối phương, nhưng kịp né tránh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T14:29:29+07:00",
+      "fetched": "2026-03-21T23:18:11.904573+07:00"
+    },
+    {
+      "id": "d9282a5c10fad5f014b9a02731d2d651",
+      "title": "Tiêm kích Israel bị tên lửa Iran nhắm bắn",
+      "link": "https://vnexpress.net/tiem-kich-israel-bi-ten-lua-iran-nham-ban-5053289.html",
+      "summary": "Một chiến đấu cơ Israel bị tên lửa phòng không Iran nhắm mục tiêu khi làm nhiệm vụ trên vùng trời đối phương, nhưng kịp né tránh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-21T14:29:29+07:00",
+      "fetched": "2026-03-21T23:18:17.620564+07:00"
+    },
+    {
+      "id": "0a63c8305b55223946fdd3d71e7203f0",
+      "title": "Bí quyết của tân khoa cao đẳng được VinFast và Toyota tuyển dụng trước tốt nghiệp",
+      "link": "https://thanhnien.vn/bi-quyet-cua-tan-khoa-cao-dang-duoc-vinfast-va-toyota-tuyen-dung-truoc-tot-nghiep-185260321181122057.htm",
+      "summary": "Từng dang dở đại học, rẽ hướng sang cao đẳng, tốt nghiệp xuất sắc và được nhiều công ty lớn nhận vào làm việc trước khi ra trường là câu chuyện của những tân khoa trong lễ tốt nghiệp của một trường cao đẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T14:28:00+07:00",
+      "fetched": "2026-03-21T23:18:15.109264+07:00"
+    },
+    {
       "id": "200d48edb145361cacd5028366b88055",
       "title": "Một học sinh Việt Nam đạt điểm cao nhất thế giới môn toán tiểu học",
       "link": "https://thanhnien.vn/mot-hoc-sinh-viet-nam-dat-diem-cao-nhat-the-gioi-mon-toan-tieu-hoc-185260321155732147.htm",
@@ -463,6 +793,16 @@ window.newsData_2026_03_21 = {
       "fetched": "2026-03-21T21:18:20.873555+07:00"
     },
     {
+      "id": "4e40890f452d47aa2e8942ab3d04b939",
+      "title": "Tai nạn liên hoàn trên quốc lộ, một người chết",
+      "link": "https://vnexpress.net/tai-nan-lien-hoan-tren-quoc-lo-mot-nguoi-chet-5053328.html",
+      "summary": "Ôtô tải va chạm container rồi lật đè xe máy đang chờ qua đường trên quốc lộ 1, đoạn qua phường Đông Hòa, làm một người tử vong, 3 người bị thương, chiều 21/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T14:08:07+07:00",
+      "fetched": "2026-03-21T23:18:11.904726+07:00"
+    },
+    {
       "id": "f43934d1455b0fc1728b713fcf85ac61",
       "title": "Liên Bỉnh Phát sau giải 'Thị đế', tiết lộ chuyện kết hôn với bạn gái xinh đẹp",
       "link": "https://thanhnien.vn/lien-binh-phat-sau-giai-thi-de-tiet-lo-chuyen-ket-hon-voi-ban-gai-xinh-dep-185260321164704036.htm",
@@ -471,6 +811,46 @@ window.newsData_2026_03_21 = {
       "category": "Tổng hợp",
       "published": "2026-03-21T14:08:00+07:00",
       "fetched": "2026-03-21T21:18:20.873730+07:00"
+    },
+    {
+      "id": "b3b75cfbc295b66ff8ca71d0d9edd26d",
+      "title": "Thêm một ca nghi mắc não mô cầu ở Phú Quốc",
+      "link": "https://vnexpress.net/them-mot-ca-nghi-mac-nao-mo-cau-o-phu-quoc-5053312.html",
+      "summary": "Một học sinh ở Phú Quốc vừa có biểu hiện nghi mắc viêm não mô cầu sau khi tiếp xúc gần với bạn học 11 tuổi tử vong do bệnh này 5 ngày trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T14:06:29+07:00",
+      "fetched": "2026-03-21T23:18:11.904824+07:00"
+    },
+    {
+      "id": "f3ca8a9f0004bd3405a16ae02c4cf8fc",
+      "title": "'Gánh nặng kép' khi người già mắc bệnh mạn tính nhiễm khuẩn hô hấp",
+      "link": "https://vnexpress.net/ganh-nang-kep-khi-nguoi-gia-mac-benh-man-tinh-nhiem-khuan-ho-hap-5053325.html",
+      "summary": "Với tỷ lệ 87,7% người cao tuổi mắc ít nhất một bệnh mạn tính, các chuyên gia cảnh báo tình trạng \"bệnh chồng bệnh\" đang tạo ra áp lực lớn cho cả bệnh nhân lẫn hệ thống y tế Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T14:03:32+07:00",
+      "fetched": "2026-03-21T23:18:11.904981+07:00"
+    },
+    {
+      "id": "a0ea0367d313da56b3e89c228471e16a",
+      "title": "Tuyển thủ Việt Nam giúp Ninh Bình thoát hiểm ở Cup Quốc gia",
+      "link": "https://vnexpress.net/tuyen-thu-viet-nam-giup-ninh-binh-thoat-hiem-o-cup-quoc-gia-5053327.html",
+      "summary": "Tiền đạo Phạm Gia Hưng ghi bàn bằng ngực, giúp Ninh Bình hạ PVF-CAND 3-2 ở tứ kết Cup Quốc gia 2025-2026 tối 21/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T14:01:21+07:00",
+      "fetched": "2026-03-21T23:18:11.905136+07:00"
+    },
+    {
+      "id": "a0ea0367d313da56b3e89c228471e16a",
+      "title": "Tuyển thủ Việt Nam giúp Ninh Bình thoát hiểm ở Cup Quốc gia",
+      "link": "https://vnexpress.net/tuyen-thu-viet-nam-giup-ninh-binh-thoat-hiem-o-cup-quoc-gia-5053327.html",
+      "summary": "Tiền đạo Phạm Gia Hưng ghi bàn bằng ngực, giúp Ninh Bình hạ PVF-CAND 3-2 ở tứ kết Cup Quốc gia 2025-2026 tối 21/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-21T14:01:21+07:00",
+      "fetched": "2026-03-21T23:18:23.816055+07:00"
     },
     {
       "id": "39e4e717af46f614ec86ba82b6325930",
@@ -491,6 +871,36 @@ window.newsData_2026_03_21 = {
       "category": "Tổng hợp",
       "published": "2026-03-21T14:00:00+07:00",
       "fetched": "2026-03-21T21:18:20.874044+07:00"
+    },
+    {
+      "id": "02ff2778ef20105ece38d47f92334907",
+      "title": "Sốc khi biết quá khứ của người bạn trai chín chắn, chung thủy",
+      "link": "https://vnexpress.net/soc-khi-biet-qua-khu-cua-nguoi-ban-trai-chin-chan-chung-thuy-5053305.html",
+      "summary": "Trước khi yêu nghiêm túc, anh từng có khá nhiều mối quan hệ tình một đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T14:00:00+07:00",
+      "fetched": "2026-03-21T23:18:11.905314+07:00"
+    },
+    {
+      "id": "b83cbe0d57563ecdb484cbc2321b8ee8",
+      "title": "Chuỗi nhà hàng Mỹ cấm khách mặc đồ tập, đội mũ vào phòng ăn",
+      "link": "https://vnexpress.net/chuoi-nha-hang-my-cam-khach-mac-do-tap-doi-mu-vao-phong-an-5051138.html",
+      "summary": "Hệ thống Ruth’s Chris Steak House yêu cầu thực khách không đội mũ và mặc đồ tập nhằm duy trì không gian ẩm thực lịch sự tại các phòng ăn trên toàn hệ thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T14:00:00+07:00",
+      "fetched": "2026-03-21T23:18:11.905466+07:00"
+    },
+    {
+      "id": "669d44a8644b210e5e72fa956a459296",
+      "title": "Giảm cương dương buổi sáng có đáng lo không?",
+      "link": "https://vnexpress.net/giam-cuong-duong-buoi-sang-co-dang-lo-khong-5053229.html",
+      "summary": "Trước đây, sáng nào tôi cũng có biểu hiện cương dương, sau khi đi tiểu thì hết. Tuy nhiên, vài tháng gần đây tình trạng này giảm, có khi cả tuần không xuất hiện. Điều này có đáng lo không? (Ngọc Sơn, 44 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T14:00:00+07:00",
+      "fetched": "2026-03-21T23:18:11.905629+07:00"
     },
     {
       "id": "776626c4509c6865b70021606afde903",
@@ -531,6 +941,16 @@ window.newsData_2026_03_21 = {
       "category": "Tổng hợp",
       "published": "2026-03-21T13:38:00+07:00",
       "fetched": "2026-03-21T21:18:20.874700+07:00"
+    },
+    {
+      "id": "8e478dcfcada1679ae30e3fa4447d55c",
+      "title": "Động đất gây rung lắc nhiều nơi ở Quảng Ngãi",
+      "link": "https://vnexpress.net/dong-dat-gay-rung-lac-nhieu-noi-o-quang-ngai-5053324.html",
+      "summary": "Trận động đất 3,6 độ xảy ra tối 21/3 tại khu vực xã Măng Bút (Kon Tum cũ) gây rung lắc diện rộng, nhiều người dân ven biển Quảng Ngãi cảm nhận rõ trong vài giây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T13:33:30+07:00",
+      "fetched": "2026-03-21T23:18:11.905782+07:00"
     },
     {
       "id": "4fd53755adc8c4ed325de01fe6db25c2",
@@ -851,6 +1271,16 @@ window.newsData_2026_03_21 = {
       "category": "Tổng hợp",
       "published": "2026-03-21T12:49:00+07:00",
       "fetched": "2026-03-21T21:18:17.813692+07:00"
+    },
+    {
+      "id": "cbe6139062b23a8645ede40d183a7a87",
+      "title": "Thứ trưởng Vũ Hải Quân trúng cử đại biểu Quốc hội khóa 16",
+      "link": "https://vnexpress.net/thu-truong-vu-hai-quan-trung-cu-dai-bieu-quoc-hoi-khoa-16-5053333.html",
+      "summary": "Thứ trưởng Thường trực Bộ Khoa học và Công nghệ Vũ Hải Quân là một trong gần 20 thành viên khối Chính phủ trúng cử đại biểu Quốc hội khóa 16.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-21T12:45:13+07:00",
+      "fetched": "2026-03-21T23:18:22.479050+07:00"
     },
     {
       "id": "6adef6ddb1c61766d591757e4af587f1",
