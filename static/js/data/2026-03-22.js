@@ -1,7 +1,127 @@
 window.newsData_2026_03_22 = {
   "date": "2026-03-22",
-  "lastUpdated": "2026-03-22T21:19:49.093862+07:00",
+  "lastUpdated": "2026-03-22T23:19:08.092679+07:00",
   "articles": [
+    {
+      "id": "0ec776c76e1e6377ed72263b1c58532e",
+      "title": "Cá rồng biển hiếm gặp trôi dạt vào biển La Gi được ngư dân chôn cất",
+      "link": "https://tuoitre.vn/ca-rong-bien-hiem-gap-troi-dat-vao-bien-la-gi-duoc-ngu-dan-chon-cat-20260322190753139.htm",
+      "summary": "Con cá mái chèo, còn được dân gọi là rồng biển, là loài hiếm gặp, dài gần 4m trôi dạt vào vùng biển xã Tân Hải, tỉnh Lâm Đồng (trước thuộc thị xã La Gi, Bình Thuận).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T23:19:00.256780+07:00",
+      "fetched": "2026-03-22T23:19:00.256892+07:00"
+    },
+    {
+      "id": "9ff7b263fda49e47a93ff2d256a1f2d9",
+      "title": "Chuyển cơ quan điều tra vụ xuyên tạc 'chốt trước đo nồng độ cồn không vi phạm, chốt sau lại có lỗi'",
+      "link": "https://tuoitre.vn/chuyen-co-quan-dieu-tra-vu-xuyen-tac-chot-truoc-do-nong-do-con-khong-vi-pham-chot-sau-lai-co-loi-20260322190557605.htm",
+      "summary": "Người vi phạm thừa nhận kiểm tra vi phạm nồng độ cồn là đúng và việc được đo nồng độ cồn cách đó 10km là hoàn toàn bịa đặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T23:19:00.256654+07:00",
+      "fetched": "2026-03-22T23:19:00.256769+07:00"
+    },
+    {
+      "id": "8ab715018cfc7a87937e7bef1ddb4218",
+      "title": "Iran cảnh báo phá hủy toàn bộ hạ tầng năng lượng, dầu mỏ Trung Đông",
+      "link": "https://tuoitre.vn/iran-canh-bao-pha-huy-toan-bo-ha-tang-nang-luong-dau-mo-trung-dong-20260322195023088.htm",
+      "summary": "Đáp trả tối hậu thư của ông Trump, Chủ tịch Quốc hội Iran cảnh báo sẽ phá hủy toàn bộ hạ tầng năng lượng và dầu mỏ khu vực nếu nhà máy điện Iran bị tấn công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T23:19:00.256510+07:00",
+      "fetched": "2026-03-22T23:19:00.256642+07:00"
+    },
+    {
+      "id": "c7520e3759ce9c6e4ba594782b72b472",
+      "title": "Đoàn trong lực lượng Công an nhân dân: Kiên quyết loại bỏ các hoạt động hình thức",
+      "link": "https://tuoitre.vn/doan-trong-luc-luong-cong-an-nhan-dan-kien-quyet-loai-bo-cac-hoat-dong-hinh-thuc-20260322182905833.htm",
+      "summary": "Bộ trưởng Bộ Công an Lương Tam Quang yêu cầu các tổ chức Đoàn trong lực lượng Công an nhân dân kiên quyết loại bỏ các hoạt động hình thức, tập trung vào các công tác thực chất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T23:19:00.256386+07:00",
+      "fetched": "2026-03-22T23:19:00.256499+07:00"
+    },
+    {
+      "id": "f61b0d9128ed362f86057afb2cd2bc8c",
+      "title": "Trường ĐH Thủy lợi vô địch Giải bóng đá Thanh Niên sinh viên Việt Nam",
+      "link": "https://tuoitre.vn/truong-dh-thuy-loi-vo-dich-giai-bong-da-thanh-nien-sinh-vien-viet-nam-20260322191242628.htm",
+      "summary": "Với chiến thắng thuyết phục trước Trường ĐH Công nghiệp TP.HCM, Trường ĐH Thủy lợi lên ngôi vô địch Giải bóng đá Thanh Niên sinh viên Việt Nam lần 4-2026 Cúp THACO.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T23:19:00.256256+07:00",
+      "fetched": "2026-03-22T23:19:00.256374+07:00"
+    },
+    {
+      "id": "9f50ea7698d1b004b05fc5eafcab067b",
+      "title": "Bắt được 3 con khỉ quậy phá khuôn viên công ty ở xã Xuân Thới Sơn, TP.HCM",
+      "link": "https://tuoitre.vn/bat-duoc-3-con-khi-quay-pha-khuon-vien-cong-ty-o-xa-xuan-thoi-son-tp-hcm-20260322195159621.htm",
+      "summary": "Chi cục Kiểm lâm TP.HCM đã bắt được 3 con khỉ quậy phá trong khuôn viên công ty ở ấp 30, xã Xuân Thới Sơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T23:19:00.256102+07:00",
+      "fetched": "2026-03-22T23:19:00.256244+07:00"
+    },
+    {
+      "id": "49b6e7f942bbb727d812033cdab32c66",
+      "title": "David Beckham tự hào về sự nghiệp âm nhạc của con trai Cruz",
+      "link": "https://tuoitre.vn/david-beckham-tu-hao-ve-su-nghiep-am-nhac-cua-con-trai-cruz-20260322192032142.htm",
+      "summary": "Cựu danh thủ David Beckham có mặt tại Paris để ủng hộ con trai út Cruz Beckham trong đêm diễn cùng ban nhạc The Breakers. Ông không giấu được niềm tự hào khi dành lời khen ngắn gọn nhưng đầy cảm xúc sau buổi diễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T23:19:00.255969+07:00",
+      "fetched": "2026-03-22T23:19:00.256090+07:00"
+    },
+    {
+      "id": "d2beb469c6bcbd7414a7e40a8a5f46f2",
+      "title": "'Sốc' với cái tên vào chung kết Giải bóng chuyền Cúp Hoa Lư",
+      "link": "https://tuoitre.vn/soc-voi-cai-ten-vao-chung-ket-giai-bong-chuyen-cup-hoa-lu-20260322203821137.htm",
+      "summary": "Đối thủ của VTV Bình Điền Long An ở chung kết nữ Giải bóng chuyền Cúp Hoa Lư 2026 gây bất ngờ cho nhiều người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T23:19:00.255839+07:00",
+      "fetched": "2026-03-22T23:19:00.255957+07:00"
+    },
+    {
+      "id": "46479b02d030ac59fab7922a2c3d08f6",
+      "title": "6 thiếu niên ném đá khiến hàng loạt xe tải vỡ kính chắn gió trên cao tốc",
+      "link": "https://tuoitre.vn/6-thieu-nien-nem-da-khien-hang-loat-xe-tai-vo-kinh-chan-gio-tren-cao-toc-20260322204940347.htm",
+      "summary": "Thông tin từ phòng Cảnh sát hình sự Công an tỉnh Quảng Trị ngày 22-3 cho biết bước đầu cơ quan chức năng đã làm rõ vụ nhiều ô tô bị ném đá vỡ kính khi chạy trên cao tốc Bắc - Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T23:19:00.255704+07:00",
+      "fetched": "2026-03-22T23:19:00.255828+07:00"
+    },
+    {
+      "id": "00a54525a74534705ca86ce2510d22fd",
+      "title": "145 dự án đoạt giải cuộc thi khoa học kỹ thuật cấp quốc gia năm 2026",
+      "link": "https://tuoitre.vn/145-du-an-doat-giai-cuoc-thi-khoa-hoc-ky-thuat-cap-quoc-gia-nam-2026-20260322203106115.htm",
+      "summary": "145 dự án được trao giải tại cuộc thi nghiên cứu khoa học kỹ thuật cấp quốc gia dành cho học sinh trung học năm 2026 vào chiều 22-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T23:19:00.255554+07:00",
+      "fetched": "2026-03-22T23:19:00.255692+07:00"
+    },
+    {
+      "id": "5beaf6d9a8d5d5f10bf4a5b4b432659a",
+      "title": "Máy đo sóng não sử dụng AI giá chỉ 250.000 đồng",
+      "link": "https://tuoitre.vn/may-do-song-nao-su-dung-ai-gia-chi-250-000-dong-20260322184849095.htm",
+      "summary": "Thiết bị sử dụng AI được thiết kế đặc biệt để giải mã các đường sóng khi quét não, “đọc” được suy nghĩ của con người và diễn dịch bằng ngôn ngữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T23:19:00.255407+07:00",
+      "fetched": "2026-03-22T23:19:00.255540+07:00"
+    },
+    {
+      "id": "923b0019531944aad57e6281dc2f0933",
+      "title": "Vận động viên Philippines và Việt Nam vô địch Marathon quốc tế Đà Nẵng 2026",
+      "link": "https://tuoitre.vn/van-dong-vien-philippines-va-viet-nam-vo-dich-marathon-quoc-te-da-nang-2026-20260322202702473.htm",
+      "summary": "Ngày 22-03, gần 9.000 vận động viên đến từ hơn 75 quốc gia và vùng lãnh thổ đã cùng tham gia tranh tài tại Giải Marathon Quốc tế Đà Nẵng 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T23:19:00.255168+07:00",
+      "fetched": "2026-03-22T23:19:00.255392+07:00"
+    },
     {
       "id": "e3c28cc45b5033f94d6e5405d4548acc",
       "title": "Cô giáo dân tộc ít người vượt núi dạy chữ, thành đại biểu Quốc hội",
@@ -323,6 +443,156 @@ window.newsData_2026_03_22 = {
       "fetched": "2026-03-22T17:18:16.341632+07:00"
     },
     {
+      "id": "8da2d80750bfa87687f0905809ed3431",
+      "title": "Thủ tướng Phạm Minh Chính bắt đầu thăm Nga",
+      "link": "https://vnexpress.net/thu-tuong-pham-minh-chinh-bat-dau-tham-nga-5053551.html",
+      "summary": "Thủ tướng Phạm Minh Chính đến Moskva, bắt đầu chuyến thăm chính thức ngày 22-25/3 theo lời mời của người đồng cấp Mikhail Mishustin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-22T16:03:38+07:00",
+      "fetched": "2026-03-22T23:19:02.068824+07:00"
+    },
+    {
+      "id": "49d1b78c6b9deb0a5c5bfc5a99e94e1b",
+      "title": "Quân nhân Israel bị nghi tuồn thông tin lá chắn Vòm Sắt cho Iran",
+      "link": "https://vnexpress.net/quan-nhan-israel-bi-nghi-tuon-thong-tin-la-chan-vom-sat-cho-iran-5053544.html",
+      "summary": "Một lính dự bị Israel bị bắt với cáo buộc làm gián điệp và chuyển thông tin về hệ thống phòng không Vòm Sắt cho Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-22T15:55:00+07:00",
+      "fetched": "2026-03-22T23:19:02.068995+07:00"
+    },
+    {
+      "id": "6f442b281d67f47feff2af9613554ace",
+      "title": "Arsenal - Man City: Saka, Haaland đá chính",
+      "link": "https://vnexpress.net/arsenal-man-city-saka-haaland-da-chinh-5053546.html",
+      "summary": "Lần đầu tiên trong lịch sử Cup Liên đoàn, trận chung kết sẽ là cuộc đối đầu giữa hai đội dẫn đầu giải Ngoại hạng Anh. Bóng lăn lúc 23h30.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-22T15:29:50+07:00",
+      "fetched": "2026-03-22T23:19:08.080600+07:00"
+    },
+    {
+      "id": "07d39ff47d10e2dc8609a72ce7288fde",
+      "title": "Học tại Việt Nam, có bằng quốc tế: Chương trình liên kết có gì?",
+      "link": "https://thanhnien.vn/hoc-tai-viet-nam-co-bang-quoc-te-chuong-trinh-lien-ket-co-gi-185260322161437629.htm",
+      "summary": "Chương trình Gloucestershire Vietnam xét điểm thi tốt nghiệp, điểm học bạ, điểm V-SAT và điểm thi đánh giá năng lực của ĐH Quốc gia TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T15:27:00+07:00",
+      "fetched": "2026-03-22T23:18:58.776740+07:00"
+    },
+    {
+      "id": "852d65ef0951b2950404764122f772bb",
+      "title": "HLV Polking nêu đích danh trọng tài không nên bắt trận đấu của CAHN",
+      "link": "https://vnexpress.net/hlv-polking-neu-dich-danh-trong-tai-khong-nen-bat-tran-dau-cua-cahn-5053542.html",
+      "summary": "HLV Mano Polking cho biết ông \"không thể chịu đựng được thêm\" trọng tài Nguyễn Viết Duẩn, sau khi Công an Hà Nội hạ Đà Nẵng 1-0 ở trận đấu bù vòng 13 V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-22T15:22:07+07:00",
+      "fetched": "2026-03-22T23:19:08.080779+07:00"
+    },
+    {
+      "id": "2e73c96818a4b95dadc47dfb309a8aae",
+      "title": "Thiếu niên si tình trộm bus, lái 130 km đưa bạn gái đi học",
+      "link": "https://vnexpress.net/thieu-nien-si-tinh-trom-bus-lai-130-km-dua-ban-gai-di-hoc-5053538.html",
+      "summary": "Thiếu niên 15 tuổi đã lấy trộm xe buýt của một công ty vận tải, lái hơn 130 km đến chỗ bạn gái để đưa cô bé đi học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T15:07:29+07:00",
+      "fetched": "2026-03-22T23:18:55.588904+07:00"
+    },
+    {
+      "id": "c1fd74bbf8d4ba9bfe4a56fdb6a4eb0c",
+      "title": "Barca tái lập cách biệt 7 điểm với Real",
+      "link": "https://vnexpress.net/barca-tai-lap-cach-biet-7-diem-voi-real-5053537.html",
+      "summary": "Hậu vệ Ronald Araujo ghi bàn duy nhất giúp Barca thắng đội khách Rayo Vallecano 1-0 ở vòng 29 La Liga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T15:00:35+07:00",
+      "fetched": "2026-03-22T23:18:55.589096+07:00"
+    },
+    {
+      "id": "c1fd74bbf8d4ba9bfe4a56fdb6a4eb0c",
+      "title": "Barca tái lập cách biệt 7 điểm với Real",
+      "link": "https://vnexpress.net/barca-tai-lap-cach-biet-7-diem-voi-real-5053537.html",
+      "summary": "Hậu vệ Ronald Araujo ghi bàn duy nhất giúp Barca thắng đội khách Rayo Vallecano 1-0 ở vòng 29 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-22T15:00:35+07:00",
+      "fetched": "2026-03-22T23:19:08.080938+07:00"
+    },
+    {
+      "id": "90d7e320cad7263a685a9b310058c14e",
+      "title": "Phối thông minh để biến đồ thể thao thành thời trang hằng ngày",
+      "link": "https://thanhnien.vn/thoi-trang-tre/phoi-thong-minh-de-bien-do-the-thao-thanh-thoi-trang-hang-ngay-185260322123820009.htm",
+      "summary": "Không còn bó hẹp trong phòng gym hay những buổi tập ngắn, athleisure (phong cách thể thao ứng dụng) của năm 2026 đang dịch chuyển mạnh mẽ từ thể thao sang đời sống thường nhật nhờ những cách phối thông minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T15:00:00+07:00",
+      "fetched": "2026-03-22T23:18:58.776909+07:00"
+    },
+    {
+      "id": "8da955baed2a6def6c892f2246c44ce6",
+      "title": "Trường ĐH Thủy Lợi vô địch TNSV THACO Cup 2026 đầy cảm xúc",
+      "link": "https://thanhnien.vn/truong-dh-thuy-loi-vo-dich-tnsv-thaco-cup-2026-day-cam-xuc-185260322214120626.htm",
+      "summary": "VCK giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cup THACO chính thức khép lại với ngôi vô địch thuộc về đội Trường ĐH Thủy lợi. Đội bóng đã lần đầu nâng cao chiếc cup vô địch sau khi giành chiến thắng 4-0 trước Trường ĐH Công nghiệp TP.HCM tại trận chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T14:42:00+07:00",
+      "fetched": "2026-03-22T23:18:58.777069+07:00"
+    },
+    {
+      "id": "da3ac9329cb77561ff9a722de3df7ad3",
+      "title": "Thêm không gian đổi mới sáng tạo cho doanh nghiệp tại Tây Ninh",
+      "link": "https://vnexpress.net/them-khong-gian-doi-moi-sang-tao-cho-doanh-nghiep-tai-tay-ninh-5053439.html",
+      "summary": "Tây Ninh khánh thành Trung tâm Đổi mới sáng tạo, định hướng nơi đây trở thành hạt nhân trong hệ sinh thái khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số, thúc đẩy khởi nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T14:36:28+07:00",
+      "fetched": "2026-03-22T23:18:55.589297+07:00"
+    },
+    {
+      "id": "9d0516a31ecf3b69a7c30b56be7b5688",
+      "title": "Đà Nẵng 0-1 Công an Hà Nội",
+      "link": "https://vnexpress.net/da-nang-0-1-cong-an-ha-noi-5053530.html",
+      "summary": "Bàn từ phạt đền của Leo Artur giúp CAHN thắng trận đá bù vòng 14 V-League 2025-2026 và củng cố đỉnh bảng với 7 điểm cách biệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T14:31:15+07:00",
+      "fetched": "2026-03-22T23:18:55.589461+07:00"
+    },
+    {
+      "id": "2d5803fb56d42abbd947ca04c05c1e87",
+      "title": "Nói dối 'đã được đo nồng độ cồn ở trạm trước' còn livestream om sòm trên mạng",
+      "link": "https://thanhnien.vn/noi-doi-da-duoc-do-nong-do-con-o-tram-truoc-con-livestream-om-som-tren-mang-185260322213119464.htm",
+      "summary": "Phòng CSGT Công an tỉnh Tuyên Quang đã chuyển hồ sơ vụ vu khống, bịa đặt thông tin lực lượng 'không cho thổi lại nồng độ cồn và đã kiểm tra ở chốt trước không vi phạm' sang cơ quan điều tra để tiếp tục làm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T14:31:00+07:00",
+      "fetched": "2026-03-22T23:18:58.777248+07:00"
+    },
+    {
+      "id": "8e2fef7384e67326416afac927994bb0",
+      "title": "DOL THPT luyện thi miễn phí cho học sinh lớp 12",
+      "link": "https://vnexpress.net/dol-thpt-luyen-thi-mien-phi-cho-hoc-sinh-lop-12-5053529.html",
+      "summary": "Hệ sinh thái DOL THPT do DOL English phát triển, giúp người học có thể luyện thi tốt nghiệp THPT và đánh giá năng lực miễn phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T14:30:00+07:00",
+      "fetched": "2026-03-22T23:18:55.589627+07:00"
+    },
+    {
+      "id": "eec330d26e46c568c7a8400f6b062c08",
+      "title": "Hải quân Việt - Trung huấn luyện bắn đạn thật chống cướp biển",
+      "link": "https://vnexpress.net/hai-quan-viet-trung-huan-luyen-ban-dan-that-chong-cuop-bien-5053512.html",
+      "summary": "Xạ thủ tàu 015 Trần Hưng Đạo thực hành tiêu diệt mục tiêu bằng vũ khí hạng nhẹ trong tình huống giả định lực lượng liên hợp Hải quân Việt Nam - Trung Quốc đang hộ tống hàng hải thì gặp cướp biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T14:17:13+07:00",
+      "fetched": "2026-03-22T23:18:55.589788+07:00"
+    },
+    {
       "id": "ac4d59223850a7ec48ada60d40e473fd",
       "title": "'Cha mẹ muốn con theo nghề mình nhưng về nhà là nói xấu đồng nghiệp'",
       "link": "https://thanhnien.vn/cha-me-muon-con-theo-nghe-minh-nhung-ve-nha-la-noi-xau-dong-nghiep-185260322190909104.htm",
@@ -371,6 +641,26 @@ window.newsData_2026_03_22 = {
       "category": "Thế giới",
       "published": "2026-03-22T13:57:32+07:00",
       "fetched": "2026-03-22T21:19:43.975113+07:00"
+    },
+    {
+      "id": "89485624e343e46a21629d8d57016dfa",
+      "title": "Iran đe dọa 'xóa sổ hạ tầng năng lượng' ở Trung Đông",
+      "link": "https://vnexpress.net/iran-de-doa-xoa-so-ha-tang-nang-luong-o-trung-dong-5053522.html",
+      "summary": "Tehran cảnh báo sẽ phá hủy hạ tầng năng lượng ở các quốc gia Trung Đông sau khi Tổng thống Mỹ dọa tấn công các nhà máy điện Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:57:32+07:00",
+      "fetched": "2026-03-22T23:18:55.589942+07:00"
+    },
+    {
+      "id": "89485624e343e46a21629d8d57016dfa",
+      "title": "Iran đe dọa 'xóa sổ hạ tầng năng lượng' ở Trung Đông",
+      "link": "https://vnexpress.net/iran-de-doa-xoa-so-ha-tang-nang-luong-o-trung-dong-5053522.html",
+      "summary": "Tehran cảnh báo sẽ phá hủy hạ tầng năng lượng ở các quốc gia Trung Đông sau khi Tổng thống Mỹ dọa tấn công các nhà máy điện Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-22T13:57:32+07:00",
+      "fetched": "2026-03-22T23:19:02.069190+07:00"
     },
     {
       "id": "aa2cab9ed4db3379cd94a4a028e3eb1a",
@@ -711,6 +1001,16 @@ window.newsData_2026_03_22 = {
       "category": "Tổng hợp",
       "published": "2026-03-22T12:34:48+07:00",
       "fetched": "2026-03-22T21:19:38.401198+07:00"
+    },
+    {
+      "id": "db4582db2a0e0b87430dfe2dcfbfa09c",
+      "title": "Nhóm thiếu niên ném đá vào ôtô 'để tiêu khiển'",
+      "link": "https://vnexpress.net/nhom-thieu-nien-nem-da-vao-oto-de-tieu-khien-5053513.html",
+      "summary": "Công an xác định 6 thiếu niên ném đá vỡ kính chắn gió 4 ôtô trên cao tốc Vũng Áng - Bùng, gây thiệt hại khoảng 55 triệu đồng, chỉ để tiêu khiển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:34:48+07:00",
+      "fetched": "2026-03-22T23:18:55.590922+07:00"
     },
     {
       "id": "83c19f3a9da5441e1d4bc023442f1662",
@@ -2861,6 +3161,16 @@ window.newsData_2026_03_22 = {
       "category": "Thế giới",
       "published": "2026-03-22T01:09:07+07:00",
       "fetched": "2026-03-22T11:10:47.130112+07:00"
+    },
+    {
+      "id": "879d7f4b00a72b8061ba180308278022",
+      "title": "Iran phóng tên lửa vào thành phố 'có cơ sở hạt nhân' của Israel",
+      "link": "https://vnexpress.net/iran-phong-ten-lua-vao-thanh-pho-co-co-so-hat-nhan-cua-israel-5053376.html",
+      "summary": "Iran phóng tên lửa đánh trúng thành phố Dimona của Israel, nơi được cho là có cơ sở hạt nhân, nhằm đáp trả vụ Tel Aviv tấn công khu phức hợp Natanz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-22T01:09:07+07:00",
+      "fetched": "2026-03-22T23:19:02.070350+07:00"
     },
     {
       "id": "d4ad3589f140548367408b618f469f2b",
