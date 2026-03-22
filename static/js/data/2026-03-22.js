@@ -1,7 +1,47 @@
 window.newsData_2026_03_22 = {
   "date": "2026-03-22",
-  "lastUpdated": "2026-03-22T19:29:56.333694+07:00",
+  "lastUpdated": "2026-03-22T21:19:49.093862+07:00",
   "articles": [
+    {
+      "id": "e3c28cc45b5033f94d6e5405d4548acc",
+      "title": "Cô giáo dân tộc ít người vượt núi dạy chữ, thành đại biểu Quốc hội",
+      "link": "https://tuoitre.vn/co-giao-dan-toc-it-nguoi-vuot-nui-day-chu-thanh-dai-bieu-quoc-hoi-20260322124326439.htm",
+      "summary": "Từ bản làng heo hút ở miền tây Nghệ An, cô giáo Lo Thị Bảo Vy (24 tuổi) đã trở thành người dân tộc Ơ Đu đầu tiên trúng cử đại biểu Quốc hội, đồng thời là đại biểu trẻ nhất Quốc hội khóa XVI, nhiệm kỳ 2026 - 2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T21:19:42.316164+07:00",
+      "fetched": "2026-03-22T21:19:42.316288+07:00"
+    },
+    {
+      "id": "7be0e5b3b975b2c913d34dd3ca41c4cc",
+      "title": "TP.HCM dự kiến có thêm 4,5km đường riêng cho xe đạp",
+      "link": "https://tuoitre.vn/dap-ung-mong-moi-nguoi-dan-tp-hcm-se-co-them-4-5km-duong-xe-dap-20260322154847121.htm",
+      "summary": "Dọc đại lộ Mai Chí Thọ, hình ảnh người dân thong thả đạp xe trên làn đường riêng đang dần trở nên quen thuộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T21:19:42.315987+07:00",
+      "fetched": "2026-03-22T21:19:42.316150+07:00"
+    },
+    {
+      "id": "c8e39a44c6b7e9ed9cc1e3ef3488b83e",
+      "title": "Đức Hồng y Gioan Baotixita Phạm Minh Mẫn qua đời",
+      "link": "https://tuoitre.vn/duc-hong-y-gioan-baotixita-pham-minh-man-qua-doi-20260322185342391.htm",
+      "summary": "Tòa Giám mục thông tin: Đức Hồng y Gioan Baotixita Phạm Minh Mẫn được Chúa gọi về lúc 17h22 ngày 22-3 tại nhà riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T21:19:42.315843+07:00",
+      "fetched": "2026-03-22T21:19:42.315974+07:00"
+    },
+    {
+      "id": "7bef15a04cfba0abed411ccde58a1e58",
+      "title": "Công an tìm người bắn chim giữa phố Đà Lạt, giật điện thoại và có hành vi hành hung phóng viên",
+      "link": "https://tuoitre.vn/cong-an-tim-nguoi-ban-chim-giua-pho-da-lat-giat-dien-thoai-va-co-hanh-vi-hanh-hung-phong-vien-20260322182800484.htm",
+      "summary": "Công an phường Xuân Hương - Đà Lạt cho biết đang truy tìm người đàn ông bắn chim giữa phố, sau đó giật điện thoại và có hành vi hành hung một phóng viên khi bị nhắc nhở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T21:19:42.315603+07:00",
+      "fetched": "2026-03-22T21:19:42.315827+07:00"
+    },
     {
       "id": "89e4a990dad500adfcaff88a240489f2",
       "title": "Hình ảnh đẹp từ Ngày chạy Olympic Vì sức khỏe toàn dân - Vì an ninh Tổ quốc tại TP.HCM",
@@ -283,6 +323,76 @@ window.newsData_2026_03_22 = {
       "fetched": "2026-03-22T17:18:16.341632+07:00"
     },
     {
+      "id": "ac4d59223850a7ec48ada60d40e473fd",
+      "title": "'Cha mẹ muốn con theo nghề mình nhưng về nhà là nói xấu đồng nghiệp'",
+      "link": "https://thanhnien.vn/cha-me-muon-con-theo-nghe-minh-nhung-ve-nha-la-noi-xau-dong-nghiep-185260322190909104.htm",
+      "summary": "'Cha mẹ muốn con kế tục sự nghiệp của mình, theo nghề mình, nhưng cứ về nhà là nói xấu đồng nghiệp, công ty, thế thì con có thấy nghề của cha mẹ là vui không, hạnh phúc không, còn muốn đi theo hoài bão đó không?'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T14:14:00+07:00",
+      "fetched": "2026-03-22T21:19:41.564347+07:00"
+    },
+    {
+      "id": "d121ef5231523caa16e5a8b6759ea9f4",
+      "title": "TNSV THACO Cup 2026 ngày 22.3: Trường ĐH Thủy Lợi lên ngôi vương",
+      "link": "https://thanhnien.vn/tnsv-thaco-cup-2026-ngay-223-truong-dh-thuy-loi-len-ngoi-vuong-185260322205157142.htm",
+      "summary": "Bản tin TNSV THACO Cup 2026 ngày 22.3 trên Thanhnien.vn và kênh YouTube Báo Thanh Niên cập nhật những diễn biến mới nhất về các trận đấu, câu chuyện bên lề sân cỏ và lịch thi đấu sắp tới của giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T14:00:00+07:00",
+      "fetched": "2026-03-22T21:19:41.564524+07:00"
+    },
+    {
+      "id": "ce5a58b04d59bcb7447e8227ea4815df",
+      "title": "Nga khôi phục sử dụng sân bay vũ trụ sau tai nạn",
+      "link": "https://thanhnien.vn/nga-khoi-phuc-su-dung-san-bay-vu-tru-sau-tai-nan-185260322193438967.htm",
+      "summary": "Cơ quan Vũ trụ liên bang Nga (Roscosmos) hôm 22.3 đã phóng rốc két từ Bãi 31 của sân bay vũ trụ Baikonur ở Kazakhstan, đánh dấu lần đầu tiên sử dụng lại nơi này sau khi địa điểm bị hư hại trong vụ phóng phi thuyền với Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:58:00+07:00",
+      "fetched": "2026-03-22T21:19:41.564685+07:00"
+    },
+    {
+      "id": "44334a0f1a7dd4f118cc2f473794337e",
+      "title": "Iran đáp trả ông Trump, dọa 'xóa sổ hạ tầng năng lượng' ở Trung Đông",
+      "link": "https://vnexpress.net/iran-dap-tra-ong-trump-doa-xoa-so-ha-tang-nang-luong-o-trung-dong-5053522.html",
+      "summary": "Tehran cảnh báo sẽ phá hủy hạ tầng năng lượng ở các quốc gia Trung Đông sau khi Tổng thống Mỹ dọa tấn công các nhà máy điện Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:57:32+07:00",
+      "fetched": "2026-03-22T21:19:38.400156+07:00"
+    },
+    {
+      "id": "44334a0f1a7dd4f118cc2f473794337e",
+      "title": "Iran đáp trả ông Trump, dọa 'xóa sổ hạ tầng năng lượng' ở Trung Đông",
+      "link": "https://vnexpress.net/iran-dap-tra-ong-trump-doa-xoa-so-ha-tang-nang-luong-o-trung-dong-5053522.html",
+      "summary": "Tehran cảnh báo sẽ phá hủy hạ tầng năng lượng ở các quốc gia Trung Đông sau khi Tổng thống Mỹ dọa tấn công các nhà máy điện Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-22T13:57:32+07:00",
+      "fetched": "2026-03-22T21:19:43.975113+07:00"
+    },
+    {
+      "id": "aa2cab9ed4db3379cd94a4a028e3eb1a",
+      "title": "Cruz - con trai nối nghiệp ca sĩ của Victoria Beckham",
+      "link": "https://vnexpress.net/cruz-con-trai-noi-nghiep-ca-si-cua-victoria-beckham-5053475.html",
+      "summary": "Cruz, 21 tuổi, bộc lộ đam mê ca hát từ nhỏ, là người duy nhất kế thừa sự nghiệp âm nhạc của mẹ - Victoria, thành viên Spice Girls.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:47:03+07:00",
+      "fetched": "2026-03-22T21:19:38.400349+07:00"
+    },
+    {
+      "id": "85391f1161f41f8a0979e0b16d64b6ad",
+      "title": "Đội tuyển Việt Nam đón thêm dàn sao Ninh Bình, Xuân Son vẫn phải tập riêng với bác sĩ",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-don-them-dan-sao-ninh-binh-xuan-son-van-phai-tap-rieng-voi-bac-si-185260322203357661.htm",
+      "summary": "Chiều 22.3, đội tuyển Việt Nam tiếp tục bước vào buổi tập thứ hai trong đợt hội quân FIFA Days tháng 3.2026, hướng tới trận giao hữu gặp Bangladesh (26.3) trên sân Hàng Đẫy, trước khi tái đấu Malaysia tại vòng loại cuối Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:40:00+07:00",
+      "fetched": "2026-03-22T21:19:41.564855+07:00"
+    },
+    {
       "id": "0b3494d75171faef2e5a025582f13888",
       "title": "Xài tiết kiệm để không thiếu nước ngọt vào mùa khô",
       "link": "https://tuoitre.vn/xai-tiet-kiem-de-khong-thieu-nuoc-ngot-vao-mua-kho-2026032210355812.htm",
@@ -433,6 +543,186 @@ window.newsData_2026_03_22 = {
       "fetched": "2026-03-22T13:38:46.476606+07:00"
     },
     {
+      "id": "7ebf2240ebda57453845a74db685575a",
+      "title": "Bảng xếp hạng FIFA bất ngờ cập nhật: Việt Nam chính thức tăng 5 bậc nhờ được AFC xử thắng Malaysia",
+      "link": "https://thanhnien.vn/bang-xep-hang-fifa-bat-ngo-cap-nhat-viet-nam-chinh-thuc-tang-5-bac-nho-duoc-afc-xu-thang-malaysia-185260322203050717.htm",
+      "summary": "Tối 22.3, bảng xếp hạng FIFA mới nhất bất ngờ được cập nhật, với đội tuyển Việt Nam chính thức tăng 5 bậc nhờ được tính lại và cộng điểm từ trận được AFC xử thắng đội tuyển Malaysia tỷ số 3-0 tại vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:33:00+07:00",
+      "fetched": "2026-03-22T21:19:41.565021+07:00"
+    },
+    {
+      "id": "2b4c6e1950cdd466e19533abfa2d2104",
+      "title": "Trợ lý HLV Công an Hà Nội choáng sau xô xát với cầu thủ Đà Nẵng",
+      "link": "https://vnexpress.net/tro-ly-hlv-cong-an-ha-noi-choang-sau-xo-xat-voi-cau-thu-da-nang-5053517.html",
+      "summary": "Trợ lý HLV CAHN Luis Viegas bị choáng sau pha xô xát với David Henen cuối trận Công an Hà Nội hạ Đà Nẵng 1-0 khi hai đội đá bù vòng 13 V-League 2025-2026 tối 22/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:32:21+07:00",
+      "fetched": "2026-03-22T21:19:38.400522+07:00"
+    },
+    {
+      "id": "2b4c6e1950cdd466e19533abfa2d2104",
+      "title": "Trợ lý HLV Công an Hà Nội choáng sau xô xát với cầu thủ Đà Nẵng",
+      "link": "https://vnexpress.net/tro-ly-hlv-cong-an-ha-noi-choang-sau-xo-xat-voi-cau-thu-da-nang-5053517.html",
+      "summary": "Trợ lý HLV CAHN Luis Viegas bị choáng sau pha xô xát với David Henen cuối trận Công an Hà Nội hạ Đà Nẵng 1-0 khi hai đội đá bù vòng 13 V-League 2025-2026 tối 22/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-22T13:32:21+07:00",
+      "fetched": "2026-03-22T21:19:49.082447+07:00"
+    },
+    {
+      "id": "977fcf4efdf1561cc99562293aa84dab",
+      "title": "Tiền vệ tài hoa người Hà Tĩnh xuất sắc nhất VCK TNSV THACO cup 2026",
+      "link": "https://thanhnien.vn/tien-ve-tai-hoa-nguoi-ha-tinh-xuat-sac-nhat-vck-tnsv-thaco-cup-2026-185260322201333402.htm",
+      "summary": "Với chức vô địch đầy ấn tượng tại giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO cup 2026), đội Trường ĐH Thủy lợi đóng góp phần lớn các cầu thủ trong đội hình tiêu biểu và những danh hiệu cá nhân quý giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:31:00+07:00",
+      "fetched": "2026-03-22T21:19:41.565196+07:00"
+    },
+    {
+      "id": "cc60b62d87af78b1eade21acce555418",
+      "title": "Nguyễn Filip 'xuất thần', CLB CAHN thắng hú vía Đà Nẵng: Ngôi đầu vững như bàn thạch còn HAGL ở đâu?",
+      "link": "https://thanhnien.vn/nguyen-filip-xuat-than-clb-cahn-thang-hu-via-da-nang-ngoi-dau-vung-nhu-ban-thach-con-hagl-o-dau-185260322200326109.htm",
+      "summary": "Dù có phần vất vả nhưng CLB CAHN vẫn đánh bại CLB Đà Nẵng 1-0 ở trận đấu bù vòng 13 V-League 2025 - 2026, diễn ra tối 22.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:12:00+07:00",
+      "fetched": "2026-03-22T21:19:41.565356+07:00"
+    },
+    {
+      "id": "3ec8a3de3c595bbf6e0cf95415d660f8",
+      "title": "28 giờ Hải quân Việt Nam - Trung Quốc tuần tra, huấn luyện trên vịnh Bắc bộ",
+      "link": "https://thanhnien.vn/28-gio-hai-quan-viet-nam-trung-quoc-tuan-tra-huan-luyen-tren-vinh-bac-bo-185260322195551342.htm",
+      "summary": "Hải quân Việt Nam - Trung Quốc đã thực hiện tuần tra trên 8 tuyến, đi qua 9 điểm, với tổng quãng đường hành trình trên biển 247 hải lý, tổng thời gian 28 giờ trên vịnh Bắc bộ. Đồng thời, huấn luyện các khoa mục vận động đội hình, hộ tống hàng hải, chống cướp biển...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:06:00+07:00",
+      "fetched": "2026-03-22T21:19:41.565507+07:00"
+    },
+    {
+      "id": "7d6fcbc937e234b431580e910ecab1be",
+      "title": "Điều tra vụ chủ tiệm vàng trình báo bị đột nhập, mất lượng lớn vàng ở Cà Mau",
+      "link": "https://thanhnien.vn/dieu-tra-vu-chu-tiem-vang-trinh-bao-bi-dot-nhap-mat-luong-lon-vang-o-ca-mau-185260322194731106.htm",
+      "summary": "Công an tỉnh Cà Mau đang khẩn trương điều tra vụ chủ tiệm vàng ở xã U Minh trình báo bị kẻ gian đột nhập, lấy đi một số vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:04:00+07:00",
+      "fetched": "2026-03-22T21:19:41.565660+07:00"
+    },
+    {
+      "id": "3ada2a525dfee1c55262293b0ef71edc",
+      "title": "Nước nào có giá xăng đắt nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-co-gia-xang-dat-nhat-dong-nam-a-5053491.html",
+      "summary": "Xăng RON-95 của nước này hiện đắt nhất Đông Nam Á và đứng thứ tư thế giới. Bạn có biết đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:00:00+07:00",
+      "fetched": "2026-03-22T21:19:38.400686+07:00"
+    },
+    {
+      "id": "c411fbd8cf8a7bb2c9fd5de1e1b4614a",
+      "title": "Xem nhanh 20h ngày 22.3: Giá vàng rớt thảm, người mua lỗ đậm | Trường ĐH Thủy Lợi vô địch TNSV THACO cup 2026",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-223-gia-vang-rot-tham-nguoi-mua-lo-dam-truong-dh-thuy-loi-vo-dich-tnsv-thaco-cup-2026-18526032219442024.htm",
+      "summary": "'Xem nhanh 20h' ngày 22.3 có nhiều tin tức đáng chú ý về: Giá vàng 22.3.2026: Rớt thảm, người mua lỗ nặng 23 triệu đồng; Trường ĐH Thủy Lợi vô địch TNSV THACO cup 2026;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:00:00+07:00",
+      "fetched": "2026-03-22T21:19:41.565806+07:00"
+    },
+    {
+      "id": "d10c2a36796bcdb3f315e84569826a07",
+      "title": "BB Trần 'tái mặt' vì bị Kiên Ứng 'làm khó'",
+      "link": "https://thanhnien.vn/bb-tran-tai-mat-vi-bi-kien-ung-lam-kho-185260322131750144.htm",
+      "summary": "Xuất hiện tại buổi mini talkshow mới đây, bộ đôi 'anh tài' BB Trần và Kiên Ứng chiêu đãi khán giả một bữa tiệc tấu hài thực thụ. Không chỉ bóc mẽ loạt 'thâm cung bí sử' cười ra nước mắt phía sau MV Healing, cả hai còn liên tục tung hứng bằng những màn 'chặt chém' khó đỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:00:00+07:00",
+      "fetched": "2026-03-22T21:19:41.565958+07:00"
+    },
+    {
+      "id": "68560e39748bf558896ae363dcfec4ae",
+      "title": "Sức hút của blazer phom rộng trong tủ đồ quý cô hiện đại",
+      "link": "https://thanhnien.vn/thoi-trang-tre/suc-hut-cua-blazer-phom-rong-trong-tu-do-quy-co-hien-dai-185260320213739324.htm",
+      "summary": "Blazer phom rộng ghi điểm trong tủ đồ quý cô hiện đại nhờ vẻ thanh lịch, thời thượng và khả năng nâng tầm phong cách một cách đầy cuốn hút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T13:00:00+07:00",
+      "fetched": "2026-03-22T21:19:41.566126+07:00"
+    },
+    {
+      "id": "0bfee8ab4303b5ae5cdcd6419f4c0a04",
+      "title": "Chức vô địch ngọt ngào của đội Trường ĐH Thủy lợi, lễ bế mạc đầy cảm xúc!",
+      "link": "https://thanhnien.vn/chuc-vo-dich-ngot-ngao-cua-doi-truong-dh-thuy-loi-le-be-mac-day-cam-xuc-18526032219442192.htm",
+      "summary": "Đội Trường ĐH Thủy lợi giành chiến thắng ấn tượng 4-0 trước đội Trường ĐH Công nghiệp TP.HCM ở chung kết. Qua đó, đại diện miền Bắc giành chức vô địch đầu tiên, sau 3 lần góp mặt ở trận đấu cuối cùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:53:00+07:00",
+      "fetched": "2026-03-22T21:19:41.566279+07:00"
+    },
+    {
+      "id": "53e26e54c2a8bdaea4517f726479703e",
+      "title": "Hơn 18.000 gian hàng 'chốt đơn' sau khi sàn Arobid ra mắt phiên bản nâng cấp",
+      "link": "https://thanhnien.vn/hon-18000-gian-hang-chot-don-sau-khi-san-arobid-ra-mat-phien-ban-nang-cap-185260322192930638.htm",
+      "summary": "Tại sự kiện ra mắt Arobid Version 2.0 diễn ra mới đây, chỉ qua 10 phút \"giờ vàng ưu đãi\", Ban tổ chức đã công bố \"chốt đơn\" hơn 18.000 gian hàng số đầu tiên trên nền tảng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:50:00+07:00",
+      "fetched": "2026-03-22T21:19:41.566432+07:00"
+    },
+    {
+      "id": "4c9e0df0e6b0d837d1310ce16cf1e189",
+      "title": "Đấu trường Hổ Quyền nằm ở tỉnh nào Việt Nam?",
+      "link": "https://vnexpress.net/dau-truong-ho-quyen-nam-o-tinh-nao-viet-nam-5053293.html",
+      "summary": "Đấu trường Hổ Quyền gần 200 năm là nơi triều Nguyễn tổ chức các trận chiến giữa voi và hổ để tôn vinh sự oai dũng của loài voi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:49:29+07:00",
+      "fetched": "2026-03-22T21:19:38.400857+07:00"
+    },
+    {
+      "id": "c1909c3d3b959661125c1e2320a7ba84",
+      "title": "Hai cuốn sách, một lương tâm nghề nghiệp",
+      "link": "https://vnexpress.net/hai-cuon-sach-mot-luong-tam-nghe-nghiep-5053433.html",
+      "summary": "\"Đèn không hắt bóng\" và \"Thành trì\", một cuốn dạy tôi về sự điềm tĩnh của lương tâm, cuốn còn lại dạy tôi về dũng khí của lương tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:42:50+07:00",
+      "fetched": "2026-03-22T21:19:38.401018+07:00"
+    },
+    {
+      "id": "c56c662b9dc44edeec220de063d51f4a",
+      "title": "Hà Nội: Người dân chờ mong diện mạo mới cho các khu tập thể cũ",
+      "link": "https://thanhnien.vn/ha-noi-nguoi-dan-cho-mong-dien-mao-moi-cho-cac-khu-tap-the-cu-185260321144106567.htm",
+      "summary": "Nhiều khu tập thể như Kim Liên, Trung Tự, Khương Thượng đang được kiểm định, chuẩn bị cải tạo trong thời gian tới để đáp ứng kỳ vọng của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:39:00+07:00",
+      "fetched": "2026-03-22T21:19:41.566582+07:00"
+    },
+    {
+      "id": "29f3b710aa7104426b0c9f2fe292a37e",
+      "title": "Nhóm thiếu niên ném đá vỡ kính ôtô trên cao tốc Vũng Áng - Bùng",
+      "link": "https://vnexpress.net/nhom-thieu-nien-nem-da-vo-kinh-oto-tren-cao-toc-vung-ang-bung-5053513.html",
+      "summary": "Công an xác định 6 thiếu niên ném đá vỡ kính chắn gió 4 ôtô trên cao tốc Vũng Áng - Bùng, tổng thiệt hại khoảng 55 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:34:48+07:00",
+      "fetched": "2026-03-22T21:19:38.401198+07:00"
+    },
+    {
+      "id": "83c19f3a9da5441e1d4bc023442f1662",
+      "title": "Camera ghi cảnh xe ben húc văng ôtô 7 chỗ lên dải phân cách",
+      "link": "https://vnexpress.net/camera-ghi-canh-xe-ben-huc-vang-oto-7-cho-len-dai-phan-cach-5053511.html",
+      "summary": "Khi đến khu vực chợ cóc ở xã An Châu, ôtô 7 chỗ bất ngờ bị xe ben chạy cùng chiều tông mạnh từ phía sau, gây tai nạn liên hoàn với phương tiện khác, khiến một tài xế tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:34:28+07:00",
+      "fetched": "2026-03-22T21:19:38.401361+07:00"
+    },
+    {
       "id": "4270d889f24c0ae4d92b2b4053b7a09a",
       "title": "Ăn từ dưới đất lên trên trời ở Las Vegas: Người Việt ở Mỹ trải nghiệm food tour 'đỉnh nóc'",
       "link": "https://thanhnien.vn/an-tu-duoi-dat-len-tren-troi-o-las-vegas-nguoi-viet-o-my-trai-nghiem-food-tour-dinh-noc-185260320142906605.htm",
@@ -473,6 +763,16 @@ window.newsData_2026_03_22 = {
       "fetched": "2026-03-22T19:29:46.892963+07:00"
     },
     {
+      "id": "4128977ce6b7d23ede974b038e18613f",
+      "title": "Mưa đá ở Sơn La, Phú Thọ",
+      "link": "https://vnexpress.net/mua-da-o-son-la-phu-tho-5053483.html",
+      "summary": "Chiều 22/3, trong cơn giông, mưa đá xuất hiện ở nhiều xã của tỉnh Sơn La, Phó Thọ, hạt đá đường kính 1-2 cm, gây thiệt hại cho hoa màu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:14:34+07:00",
+      "fetched": "2026-03-22T21:19:38.401690+07:00"
+    },
+    {
       "id": "d27cd32833d1b786fe58c5c87f870a58",
       "title": "Chuyên gia lưu ý nguy cơ gây ung thư bị bỏ sót trong nội soi tiêu hóa",
       "link": "https://thanhnien.vn/chuyen-gia-luu-y-nguy-co-gay-ung-thu-bi-bo-sot-trong-noi-soi-tieu-hoa-185260322182635314.htm",
@@ -491,6 +791,46 @@ window.newsData_2026_03_22 = {
       "category": "Công nghệ",
       "published": "2026-03-22T12:00:00+07:00",
       "fetched": "2026-03-22T19:29:54.280902+07:00"
+    },
+    {
+      "id": "8aa80ac71ef6d2f15b7b80f92204fe74",
+      "title": "Tuần nào sau giờ làm vợ cũng đi 'tìm cơ hội kiếm tiền' vài buổi",
+      "link": "https://vnexpress.net/tuan-nao-sau-gio-lam-vo-cung-di-tim-co-hoi-kiem-tien-vai-buoi-5053046.html",
+      "summary": "Vợ bảo phải đi giao lưu, tăng cường kết nối các mối quan hệ mới tốt cho công việc, có nhiều cơ hội kiếm tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:00:00+07:00",
+      "fetched": "2026-03-22T21:19:38.401855+07:00"
+    },
+    {
+      "id": "fae41644d61dd7af2f82da86792a92b5",
+      "title": "Á hậu Minh Kiên năng động tuổi 22",
+      "link": "https://vnexpress.net/a-hau-minh-kien-nang-dong-tuoi-22-5052883.html",
+      "summary": "Sinh ra trong gia đình có mẹ làm giúp việc, Á hậu Minh Kiên nỗ lực tìm cơ hội phát triển bản thân ở mảng thời trang, diễn xuất và ca hát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:00:00+07:00",
+      "fetched": "2026-03-22T21:19:38.402008+07:00"
+    },
+    {
+      "id": "52adce31e44ff9d47af50ed6a22c3660",
+      "title": "Đường nào cho thí sinh thi tốt nghiệp dưới 15 điểm?",
+      "link": "https://vnexpress.net/duong-nao-cho-thi-sinh-thi-tot-nghiep-duoi-15-diem-5048002.html",
+      "summary": "Nếu điểm thi 3 môn tốt nghiệp THPT dưới 15, thí sinh không được đăng ký xét tuyển đại học, chuyên gia cho rằng còn nhiều cơ hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:00:00+07:00",
+      "fetched": "2026-03-22T21:19:38.402199+07:00"
+    },
+    {
+      "id": "eaf646a76c68c8ca271b9d8fc98a896d",
+      "title": "DP World lãi gần hai tỷ USD năm 2025",
+      "link": "https://vnexpress.net/dp-world-lai-gan-hai-ty-usd-nam-2025-5051751.html",
+      "summary": "Tập đoàn DP World công bố kết quả kinh doanh kỷ lục năm 2025, với lợi nhuận đạt 1,96 tỷ USD, tăng 32,2% so với năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:00:00+07:00",
+      "fetched": "2026-03-22T21:19:38.402543+07:00"
     },
     {
       "id": "9aee904580f66ceb7153d8ff262b5c72",
