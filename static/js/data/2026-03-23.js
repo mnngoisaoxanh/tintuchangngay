@@ -1,7 +1,17 @@
 window.newsData_2026_03_23 = {
   "date": "2026-03-23",
-  "lastUpdated": "2026-03-23T03:16:43.054672+07:00",
+  "lastUpdated": "2026-03-23T05:16:02.382865+07:00",
   "articles": [
+    {
+      "id": "1d7694ce5ee72c96bc84d1a28cd65375",
+      "title": "Thời tiết hôm nay 23-3: Cả nước nắng nhưng có thể mưa dông chiều tối",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-23-3-ca-nuoc-nang-nhung-co-the-mua-dong-chieu-toi-20260322184307049.htm",
+      "summary": "Trung tâm Dự báo khí tượng thủy văn quốc gia cho biết hôm nay 23-3, thời tiết giữa các vùng trên cả nước nắng chiếm ưu thế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T05:15:53.614157+07:00",
+      "fetched": "2026-03-23T05:15:53.614413+07:00"
+    },
     {
       "id": "889dddc69d420cce55c616a16adf3d16",
       "title": "HLV mang 2 dòng máu Đức và Brazil muốn VFF nhìn nhận lại công tác trọng tài",
@@ -181,6 +191,136 @@ window.newsData_2026_03_23 = {
       "category": "Tổng hợp",
       "published": "2026-03-23T01:23:29.424587+07:00",
       "fetched": "2026-03-23T01:23:29.424808+07:00"
+    },
+    {
+      "id": "e8b5f506ade62be1fbd41593c43a8895",
+      "title": "Tử vi ngày 23 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-23-thang-3-con-giap-nao-may-man-hom-nay-185260322225248793.htm",
+      "summary": "Tử vi ngày 23 tháng 3 mang đến những gợi ý mang tính tham khảo cho 12 con giáp cho ngày đầu tuần. Vận khí thiên về sự chuẩn bị tinh thần: ai rõ mình muốn gì sẽ đi nhanh hơn. Tài lộc hôm nay không đến từ hành động lớn mà từ việc bạn chọn đúng hướng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T22:15:00+07:00",
+      "fetched": "2026-03-23T05:15:52.599509+07:00"
+    },
+    {
+      "id": "c72d547c0cdeed22a66acad27bf9d7b9",
+      "title": "'Đạp lút ga' kiểm định khí thải: Chuyên gia từng làm ngành ô tô Đức nói gì?",
+      "link": "https://thanhnien.vn/dap-lut-ga-kiem-dinh-khi-thai-chuyen-gia-tung-lam-nganh-o-to-duc-noi-gi-185260322151142065.htm",
+      "summary": "Quy trình 'đạp lút ga' khi kiểm định khí thải ô tô đang gây nhiều tranh cãi. Trao đổi với Báo Thanh Niên, ông Nguyễn Minh Đồng, chuyên gia xử lý khí thải từng làm việc tại Tập đoàn ô tô Volkswagen (Đức), cho rằng cách đo này tiềm ẩn rủi ro kỹ thuật và chưa phản ánh đúng thực tế vận hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T22:09:00+07:00",
+      "fetched": "2026-03-23T05:15:52.599679+07:00"
+    },
+    {
+      "id": "c841d06b8cf52ebdcd46ef095a2fdcc2",
+      "title": "Hôm nay 23.3 là ngày gì theo âm lịch, dương lịch mà nhiều người quan tâm?",
+      "link": "https://thanhnien.vn/hom-nay-233-la-ngay-gi-theo-am-lich-duong-lich-ma-nhieu-nguoi-quan-tam-185260322200043775.htm",
+      "summary": "Ngày 23.3 là ngày gì mà nhiều người quan tâm? Theo lịch âm, lịch vạn niên hôm nay có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T22:00:00+07:00",
+      "fetched": "2026-03-23T05:15:52.599836+07:00"
+    },
+    {
+      "id": "d20bde3e544d01f05e64341ab5861b30",
+      "title": "Cách nào để ngồi tại nhà vẫn đọc được hàng chục nghìn đầu sách quý?",
+      "link": "https://thanhnien.vn/cach-nao-de-ngoi-tai-nha-van-doc-duoc-hang-chuc-nghin-dau-sach-quy-185260322184015161.htm",
+      "summary": "Không còn phải tìm sách trực tiếp tại thư viện, giờ đây chỉ với một thiết bị điện tử thông minh, người dân có thể tiếp cận hàng chục nghìn tài liệu mọi lúc, mọi nơi. Mô hình này đang được Trung tâm Cung ứng dịch vụ công phường Tân Sơn Nhất phối hợp cùng Công ty cổ phần công nghệ Rebo triển khai, mở ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T22:00:00+07:00",
+      "fetched": "2026-03-23T05:15:52.599992+07:00"
+    },
+    {
+      "id": "b2a00a94a0bf151ae3367371c3fba51b",
+      "title": "HĐND TP.HCM họp bầu nhân sự chủ chốt vào ngày 30.3",
+      "link": "https://thanhnien.vn/sang-nay-hdnd-tphcm-hop-bau-nhan-su-chu-chot-185260322124614479.htm",
+      "summary": "Kỳ họp thứ nhất HĐND TP.HCM khóa XI sẽ bầu, kiện toàn nhiều chức danh chủ chốt, hoàn thiện bộ máy cho nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T22:00:00+07:00",
+      "fetched": "2026-03-23T05:15:52.600145+07:00"
+    },
+    {
+      "id": "4ce7faed8e87b51d165d341c58c17c24",
+      "title": "Mè đen có thật sự giúp tóc bạc đen trở lại?",
+      "link": "https://thanhnien.vn/me-den-co-that-su-giup-toc-bac-den-tro-lai-185260320173458425.htm",
+      "summary": "Hạt mè đen từ lâu đã được coi là thực phẩm bổ dưỡng trong ẩm thực Á Đông, nổi tiếng với khả năng chống oxy hóa và bồi bổ sức khỏe. Theo chuyên trang sức khỏe Independent, dù chứa hàm lượng khoáng chất và chất béo lành mạnh dồi dào nhưng việc mè đen có thể giúp tóc bạc đen trở lại vẫn là một câu hỏi ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T22:00:00+07:00",
+      "fetched": "2026-03-23T05:15:52.600299+07:00"
+    },
+    {
+      "id": "c5dc5839561c79e52951c141609b0f84",
+      "title": "Vì sao mạng 3G, IoT không bắt buộc quản lý chất lượng?",
+      "link": "https://vnexpress.net/vi-sao-mang-3g-iot-khong-bat-buoc-quan-ly-chat-luong-5053076.html",
+      "summary": "Mạng 3G chỉ còn vài trăm nghìn người dùng, trong khi mạng cho IoT có nhiều kịch bản ứng dụng khác nhau, nên không bắt buộc quản lý chất lượng để giảm thủ tục không cần thiết.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-22T22:00:00+07:00",
+      "fetched": "2026-03-23T05:16:01.051129+07:00"
+    },
+    {
+      "id": "8b65392ab607fcbd3135a3bd7aa8a688",
+      "title": "Báo Indonesia bất ngờ ca ngợi đội tuyển Việt Nam, dự báo Malaysia sẽ bị đánh bại ở Thiên Trường",
+      "link": "https://thanhnien.vn/bao-indonesia-bat-ngo-ca-ngoi-doi-tuyen-viet-nam-du-bao-malaysia-se-bi-danh-bai-o-thien-truong-185260322165259634.htm",
+      "summary": "Truyền thông Indonesia đánh giá đội tuyển Việt Nam rất mạnh khi chuẩn bị gặp Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T21:43:00+07:00",
+      "fetched": "2026-03-23T05:15:52.600487+07:00"
+    },
+    {
+      "id": "456a2b3950c5a40a55453d02a87e3caa",
+      "title": "Loạt bãi xe trái phép đường Võ Chí Công: Không lẽ bó tay?",
+      "link": "https://thanhnien.vn/loat-bai-xe-trai-phep-duong-vo-chi-cong-khong-le-bo-tay-185260322215738427.htm",
+      "summary": "Sau khi bị cơ quan chức năng xác định hàng loạt vi phạm và yêu cầu tạm ngưng, các bãi xe container dọc đường Võ Chí Công vẫn tiếp tục hoạt động. Diễn biến này đặt ra trách nhiệm quản lý: vì sao vi phạm đã rõ nhưng chưa bị đình chỉ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T21:34:00+07:00",
+      "fetched": "2026-03-23T05:15:52.600647+07:00"
+    },
+    {
+      "id": "f1f77b24509b9d8dffd305151eafdb0d",
+      "title": "Thách thức ngân sách cho Nhà Trắng trong cuộc chiến Iran",
+      "link": "https://thanhnien.vn/thach-thuc-ngan-sach-cho-nha-trang-trong-cuoc-chien-iran-185260322213113583.htm",
+      "summary": "Tiếp tục đe dọa để Iran \"mở cửa\" eo biển Hormuz, Nhà Trắng đồng thời đối mặt với bài toán ngân sách để tiếp tục cuộc chiến dường như đang bị kéo dài ngoài dự tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T21:30:00+07:00",
+      "fetched": "2026-03-23T05:15:52.600800+07:00"
+    },
+    {
+      "id": "39d3fe7371f139aa66f71e7c36e09e28",
+      "title": "Giấc mơ an cư tuổi 30: Khi nỗ lực không theo kịp giá nhà | Phần 1",
+      "link": "https://thanhnien.vn/giac-mo-an-cu-tuoi-30-khi-no-luc-khong-theo-kip-gia-nha-phan-1-18526020602042234.htm",
+      "summary": "Tự nấu cơm mang đi làm, cắt giảm chi tiêu, làm thêm nhiều công việc cùng lúc, ngày càng nhiều người trẻ chấp nhận sống 'thắt lưng buộc bụng' không chỉ để trang trải cuộc sống, mà để tiến gần hơn tới giấc mơ mua nhà. Thế nhưng, khi giá bất động sản tăng nhanh hơn thu nhập, giấc mơ an cư của người trẻ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T21:24:00+07:00",
+      "fetched": "2026-03-23T05:15:52.600952+07:00"
+    },
+    {
+      "id": "c232e9e3527944e5d976cbe9ac9e0afa",
+      "title": "Vespa 946 Horse - bản đặc biệt năm Bính Ngọ giá hơn nửa tỷ đồng",
+      "link": "https://vnexpress.net/vespa-946-horse-ban-dac-biet-nam-binh-ngo-gia-hon-nua-ty-dong-5053486.html",
+      "summary": "Mẫu xe ga 150 phân khối bản đặc biệt có mặt tại một đại lý chính hãng, xe đánh số thứ tự 200, giá 550 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T21:00:00+07:00",
+      "fetched": "2026-03-23T05:15:49.410518+07:00"
+    },
+    {
+      "id": "a432aebf3381e184821a149d6bbeef91",
+      "title": "Tình hình Trung Đông mới nhất sáng 23.3: Iran cảnh báo nóng về eo biển Hormuz",
+      "link": "https://thanhnien.vn/tinh-hinh-trung-dong-moi-nhat-sang-233-iran-canh-bao-nong-ve-eo-bien-hormuz-185260322222808226.htm",
+      "summary": "Mỹ - Israel và Iran liên tục đưa ra những đe dọa nóng nhằm vào nhau khiến cuộc xung đột càng trở nên khó lường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T21:00:00+07:00",
+      "fetched": "2026-03-23T05:15:52.601100+07:00"
     },
     {
       "id": "347092f21c61c419f14d04475d003da9",
@@ -551,6 +691,16 @@ window.newsData_2026_03_23 = {
       "category": "Thể thao",
       "published": "2026-03-22T15:29:50+07:00",
       "fetched": "2026-03-23T01:23:37.529835+07:00"
+    },
+    {
+      "id": "6841c0ac9063e70809dff6a98af8816c",
+      "title": "Man City hạ Arsenal, giành Cup Liên đoàn Anh",
+      "link": "https://vnexpress.net/truc-tiep-arsenal-man-city-5053546-tong-thuat.html",
+      "summary": "Tài năng trẻ Nico O'Reilly lập cú đúp giúp Man City thắng 2-0 trong trận chung kết Cup Liên đoàn, đập tan mộng \"ăn bốn\" của Arsenal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-22T15:29:50+07:00",
+      "fetched": "2026-03-23T05:16:02.378077+07:00"
     },
     {
       "id": "07d39ff47d10e2dc8609a72ce7288fde",
