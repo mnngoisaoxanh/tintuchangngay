@@ -1,6 +1,6 @@
 window.newsData_2026_03_24 = {
   "date": "2026-03-24",
-  "lastUpdated": "2026-03-24T01:39:49.536242+07:00",
+  "lastUpdated": "2026-03-24T03:29:28.724860+07:00",
   "articles": [
     {
       "id": "fc153dcec05dbb4d944a4df46030fa4f",
@@ -151,6 +151,36 @@ window.newsData_2026_03_24 = {
       "category": "Tổng hợp",
       "published": "2026-03-24T01:39:43.518821+07:00",
       "fetched": "2026-03-24T01:39:43.519050+07:00"
+    },
+    {
+      "id": "a44a4f0d5288bc5e2afcf89f8e0c3118",
+      "title": "Làm gì sau khi tiếp xúc người bệnh viêm não mô cầu?",
+      "link": "https://thanhnien.vn/lam-gi-sau-khi-tiep-xuc-nguoi-benh-viem-nao-mo-cau-185260324023042919.htm",
+      "summary": "Viêm não mô cầu là bệnh nhiễm khuẩn cấp tính nguy hiểm do Neisseria meningitidis gây ra, có thể tiến triển rất nhanh và đe dọa tính mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T19:30:00+07:00",
+      "fetched": "2026-03-24T03:29:19.164008+07:00"
+    },
+    {
+      "id": "32f3988f4b7e5c9feb58f52290a00179",
+      "title": "Bí quyết giảm mỡ ngay cả khi bận rộn",
+      "link": "https://thanhnien.vn/bi-quyet-giam-mo-ngay-ca-khi-ban-ron-185260324020510373.htm",
+      "summary": "Lịch trình dày đặc khiến việc chăm sóc sức khỏe trở thành thách thức lớn với nhiều người. Tình trạng này làm quá trình giảm mỡ trở nên khó khăn và dễ bị gián đoạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T19:05:00+07:00",
+      "fetched": "2026-03-24T03:29:19.164189+07:00"
+    },
+    {
+      "id": "fbae3df11ba1c474d583b5ab11a39533",
+      "title": "Đầy bụng kiểu này, đừng tưởng chuyện nhỏ",
+      "link": "https://thanhnien.vn/day-bung-kieu-nay-dung-tuong-chuyen-nho-185260324015219329.htm",
+      "summary": "Đầy bụng thường bị xem nhẹ do có thể là ăn quá no hoặc 'thừa axit', chỉ cần uống thuốc giảm axit là sẽ khỏi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T18:52:00+07:00",
+      "fetched": "2026-03-24T03:29:19.164371+07:00"
     },
     {
       "id": "daa3b487282a8d9dd9e1d755a9fcf649",
