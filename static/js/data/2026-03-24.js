@@ -1,6 +1,6 @@
 window.newsData_2026_03_24 = {
   "date": "2026-03-24",
-  "lastUpdated": "2026-03-24T03:29:28.724860+07:00",
+  "lastUpdated": "2026-03-24T05:21:51.676225+07:00",
   "articles": [
     {
       "id": "fc153dcec05dbb4d944a4df46030fa4f",
@@ -151,6 +151,166 @@ window.newsData_2026_03_24 = {
       "category": "Tổng hợp",
       "published": "2026-03-24T01:39:43.518821+07:00",
       "fetched": "2026-03-24T01:39:43.519050+07:00"
+    },
+    {
+      "id": "3c25dfe9f2e6e0d940fb1cc51a770d75",
+      "title": "Chồng 'ngáo đá' đâm vợ 12 nhát vì ghen tuông",
+      "link": "https://thanhnien.vn/chong-ngao-da-dam-vo-12-nhat-vi-ghen-tuong-185260323220518186.htm",
+      "summary": "Trong cơn 'ngáo đá' và ghen tuông, Phạm Văn Cường (ở tỉnh Tây Ninh) dùng kéo thực hiện hành vi giết vợ. Nạn nhân không chết là ngoài ý muốn của Cường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T22:17:00+07:00",
+      "fetched": "2026-03-24T05:21:44.500229+07:00"
+    },
+    {
+      "id": "1de486ed99622ace4fb85e379385837e",
+      "title": "Tử vi ngày 24 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-24-thang-3-con-giap-nao-may-man-hom-nay-185260323232340019.htm",
+      "summary": "Tử vi ngày 24 tháng 3 mang đến những gợi ý mang tính tham khảo cho 12 con giáp. Vận khí thiên về khả năng \"vào việc nhanh\" - ai bắt nhịp tốt sẽ tạo lợi thế ngay từ đầu tuần. Tài lộc hôm nay không đến từ may mắn bất ngờ mà từ tốc độ thích nghi và cách bạn xử lý việc phát sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T22:15:00+07:00",
+      "fetched": "2026-03-24T05:21:44.500419+07:00"
+    },
+    {
+      "id": "cde12e81cce136d646e9fa6673dbdc02",
+      "title": "Chiến sự Iran 'xuống thang' mong manh",
+      "link": "https://thanhnien.vn/chien-su-iran-xuong-thang-mong-manh-18526032323012716.htm",
+      "summary": "Tổng thống Mỹ Donald Trump bất ngờ thông báo hoãn kế hoạch tấn công các hạ tầng năng lượng và nhà máy điện của Iran, nhưng sự \"xuống thang\" này có thể rất mong manh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T22:15:00+07:00",
+      "fetched": "2026-03-24T05:21:44.500578+07:00"
+    },
+    {
+      "id": "f7e40254dd618db53ea845773a983549",
+      "title": "Đắp lá vùng kín gây viêm loét rộng",
+      "link": "https://thanhnien.vn/dap-la-vung-kin-gay-viem-loet-rong-185260323182832791.htm",
+      "summary": "Mới đây, một nữ bệnh nhân 46 tuổi (ở Ninh Bình) nhập viện điều trị tại Khoa Sản - Bệnh viện Bệnh nhiệt đới T.Ư (Hà Nội) do vùng âm hộ loét rộng, trợt da, nhiễm trùng nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T22:06:00+07:00",
+      "fetched": "2026-03-24T05:21:44.500739+07:00"
+    },
+    {
+      "id": "3d7fb1d75bbf6aff4fe85e79a97a56dc",
+      "title": "Ông Kim Jong-un tái đắc cử Chủ tịch Ủy ban Quốc vụ Triều Tiên",
+      "link": "https://thanhnien.vn/ong-kim-jong-un-tai-dac-cu-chu-tich-uy-ban-quoc-vu-trieu-tien-185260323225341592.htm",
+      "summary": "Hãng thông tấn Trung ương Triều Tiên (KCNA) ngày 23.3 đưa tin nhà lãnh đạo CHDCND Triều Tiên Kim Jong-un vừa tái đắc cử Chủ tịch Ủy ban Quốc vụ nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T22:00:00+07:00",
+      "fetched": "2026-03-24T05:21:44.500894+07:00"
+    },
+    {
+      "id": "739fcc485063c48b55b08d424b7791bc",
+      "title": "Hôm nay 24.3 là ngày gì? Lịch âm, lịch vạn niên có gì  cần chú ý?",
+      "link": "https://thanhnien.vn/hom-nay-243-la-ngay-gi-lich-am-lich-van-nien-co-gi-can-chu-y-1852603230952104.htm",
+      "summary": "Không phải ai cũng biết hôm nay 24.3 là ngày Thế giới phòng chống bệnh lao (World Tuberculosis Day). Nguồn gốc và ý nghĩa ngày này thế nào? Theo lịch âm, lịch vạn niên, hôm nay có gì cần chú ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T22:00:00+07:00",
+      "fetched": "2026-03-24T05:21:44.501061+07:00"
+    },
+    {
+      "id": "e0b13b383384255bb738a465d2bd8771",
+      "title": "26 tuổi mua nhà 10 tỉ ở TP.HCM: 5 năm cày 20 tiếng/ngày để an cư | Phần 2",
+      "link": "https://thanhnien.vn/26-tuoi-mua-nha-10-ti-o-tphcm-5-nam-cay-20-tieng-ngay-185260320115401765.htm",
+      "summary": "Mua nhà trước tuổi 30, với nhiều người trẻ, không chỉ là câu chuyện tài chính mà là lựa chọn mang tính đánh đổi. Đằng sau những căn nhà mua sớm là những năm tháng làm việc cường độ cao, thắt chặt chi tiêu và tạm gác đời sống cá nhân. Khi giá nhà tại các đô thị lớn tăng nhanh hơn thu nhập, an cư trở ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T22:00:00+07:00",
+      "fetched": "2026-03-24T05:21:44.501217+07:00"
+    },
+    {
+      "id": "649d5d3611882c26cf37d849d11f0b7c",
+      "title": "Hệ lụy với thế giới nếu chiến sự Iran kéo dài",
+      "link": "https://vnexpress.net/he-luy-voi-the-gioi-neu-chien-su-iran-keo-dai-5053587.html",
+      "summary": "Chiến sự Iran kéo dài sẽ đe dọa an ninh năng lượng toàn cầu, đặt các cường quốc trước những bài toán kinh tế, chính trị nan giải chưa từng có.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-23T22:00:00+07:00",
+      "fetched": "2026-03-24T05:21:46.472016+07:00"
+    },
+    {
+      "id": "774a74788771a39d586e7e843de6daf9",
+      "title": "Hội nghị Trung ương 2 đặt nền móng cho cả nhiệm kỳ",
+      "link": "https://thanhnien.vn/hoi-nghi-trung-uong-2-dat-nen-mong-cho-ca-nhiem-ky-18526032322591166.htm",
+      "summary": "Tổng Bí thư Tô Lâm nhấn mạnh Hội nghị T.Ư 2 diễn ra trong bối cảnh tình hình thế giới, khu vực tiếp tục biến động rất nhanh, rất mạnh, rất khó dự báo và đặt ra 4 yêu cầu lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T21:37:00+07:00",
+      "fetched": "2026-03-24T05:21:44.501387+07:00"
+    },
+    {
+      "id": "95e6ab3608e04c162b9530f8929c2a3b",
+      "title": "Mỹ - Ukraine công bố kết quả vòng đàm phán mới nhất",
+      "link": "https://thanhnien.vn/my-ukraine-cong-bo-ket-qua-vong-dam-phan-moi-nhat-185260323225654519.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky ngày 22.3 thông báo phái đoàn đàm phán của Mỹ và Ukraine đã kết thúc 2 ngày làm việc cuối tuần tại bang Florida (Mỹ), nhằm thảo luận giải pháp chấm dứt cuộc xung đột Nga - Ukraine, Reuters đưa tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T21:37:00+07:00",
+      "fetched": "2026-03-24T05:21:44.501548+07:00"
+    },
+    {
+      "id": "3cb02601e215f183cf9316bf4c082b7d",
+      "title": "Thúc đẩy các dự án khí LNG với Nga",
+      "link": "https://thanhnien.vn/thuc-day-cac-du-an-khi-lng-voi-nga-185260323234717482.htm",
+      "summary": "Trong chương trình thăm chính thức Liên bang Nga, sáng 23.3 theo giờ địa phương, tại thủ đô Moskva, Thủ tướng Chính phủ Phạm Minh Chính thăm, làm việc với Tập đoàn Novatek - tập đoàn hàng đầu của Nga và thế giới trong lĩnh vực khí tự nhiên để thúc đẩy các dự án khí tự nhiên hóa lỏng (LNG) lớn tại VN...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T21:35:00+07:00",
+      "fetched": "2026-03-24T05:21:44.501702+07:00"
+    },
+    {
+      "id": "7ffa863deee75d28f7ecd420bfec587a",
+      "title": "TP.HCM: Vì sao nhiều hộ dân hơn 20 năm chưa được nhận đất tái định cư?",
+      "link": "https://thanhnien.vn/tphcm-vi-sao-nhieu-ho-dan-hon-20-nam-chua-duoc-nhan-dat-tai-dinh-cu-18526032315592844.htm",
+      "summary": "Có 9 hộ dân ở phường Phú Lợi (TP.HCM) trong dự án khu dân cư Phú Thuận, bị thu hồi đất từ năm 2005 đến nay vẫn chưa được nhận đất tái định cư. Vì sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T21:33:00+07:00",
+      "fetched": "2026-03-24T05:21:44.501850+07:00"
+    },
+    {
+      "id": "416cd6dc89258b9c4e17c577d3cf52b4",
+      "title": "Đà Nẵng giành lại vỉa hè: Dẹp lấn chiếm nhưng hài hòa sinh kế cho người dân",
+      "link": "https://thanhnien.vn/da-nang-gianh-lai-via-he-dep-lan-chiem-nhung-hai-hoa-sinh-ke-cho-nguoi-dan-185260323155739844.htm",
+      "summary": "Trước thực trạng lấn chiếm vỉa hè, TP.Đà Nẵng triển khai chiến dịch tổng lực với lộ trình 3 giai đoạn, quyết tâm tìm lời giải hài hòa giữa việc giữ gìn bộ mặt đô thị du lịch và đảm bảo sinh kế cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T21:31:00+07:00",
+      "fetched": "2026-03-24T05:21:44.502006+07:00"
+    },
+    {
+      "id": "f845a0548af181c5b1c2f5fb08ec6559",
+      "title": "Hiện trạng vỉa hè Đà Nẵng trước khi cấm kinh doanh",
+      "link": "https://vnexpress.net/hien-trang-via-he-da-nang-truoc-khi-cam-kinh-doanh-5053980.html",
+      "summary": "Hàng loạt vỉa hè trên các tuyến phố trung tâm Đà Nẵng đều bị lấn chiếm làm nơi kinh doanh, đỗ xe, nhiều nơi không còn lối cho người đi bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T21:00:00+07:00",
+      "fetched": "2026-03-24T05:21:41.754825+07:00"
+    },
+    {
+      "id": "d1856978fa818ac9c9cd2812486d5d92",
+      "title": "Người đi xe đạp bị húc bay lên nắp ca-pô",
+      "link": "https://vnexpress.net/nguoi-di-xe-dap-bi-huc-bay-len-nap-ca-po-5053643.html",
+      "summary": "Phóng nhanh không có dấu hiệu giảm tốc, ôtô húc một người đàn ông đi xe đạp cùng chiều lên nắp ca-pô hôm 22/3 tại An Dương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T21:00:00+07:00",
+      "fetched": "2026-03-24T05:21:41.755008+07:00"
+    },
+    {
+      "id": "bf3304f78986a7360bdcbd562b9a9246",
+      "title": "Tình hình Trung Đông sáng 24.3: Ông Trump nói đã đồng thuận 15 điểm với Iran, Iran phủ nhận",
+      "link": "https://thanhnien.vn/tinh-hinh-trung-dong-sang-243-ong-trump-noi-da-dong-thuan-15-diem-voi-iran-iran-phu-nhan-185260323223955087.htm",
+      "summary": "Các tuyên bố mới nhất của Tổng thống Mỹ Donald Trump và phía Iran mâu thuẫn, đặt ra nhiều dấu hỏi cho triển vọng xung đột kết thúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T21:00:00+07:00",
+      "fetched": "2026-03-24T05:21:44.502153+07:00"
     },
     {
       "id": "a44a4f0d5288bc5e2afcf89f8e0c3118",
