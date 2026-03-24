@@ -1,6 +1,6 @@
 window.newsData_2026_03_25 = {
   "date": "2026-03-25",
-  "lastUpdated": "2026-03-25T01:49:47.739712+07:00",
+  "lastUpdated": "2026-03-25T03:32:13.493832+07:00",
   "articles": [
     {
       "id": "826bc67e9b2c741748c91165284c547f",
@@ -151,6 +151,46 @@ window.newsData_2026_03_25 = {
       "category": "Tổng hợp",
       "published": "2026-03-25T01:49:41.774686+07:00",
       "fetched": "2026-03-25T01:49:41.774907+07:00"
+    },
+    {
+      "id": "84a09ee6ce927c8d91b9d9c6b729cb69",
+      "title": "Salah thông báo chia tay Liverpool",
+      "link": "https://vnexpress.net/salah-thong-bao-chia-tay-liverpool-5054429.html",
+      "summary": "Tiền đạo 33 tuổi Mohamed Salah xác nhận sẽ rời Liverpool vào cuối mùa giải 2025-2026, sớm một năm so với thời hạn, khép lại 9 mùa giải tại sân Anfield.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-24T19:37:17+07:00",
+      "fetched": "2026-03-25T03:32:03.833226+07:00"
+    },
+    {
+      "id": "84a09ee6ce927c8d91b9d9c6b729cb69",
+      "title": "Salah thông báo chia tay Liverpool",
+      "link": "https://vnexpress.net/salah-thong-bao-chia-tay-liverpool-5054429.html",
+      "summary": "Tiền đạo 33 tuổi Mohamed Salah xác nhận sẽ rời Liverpool vào cuối mùa giải 2025-2026, sớm một năm so với thời hạn, khép lại 9 mùa giải tại sân Anfield.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-24T19:37:17+07:00",
+      "fetched": "2026-03-25T03:32:13.488927+07:00"
+    },
+    {
+      "id": "aeb83b4674b12ac8c5c599889c8b3f43",
+      "title": "Nắng nóng khiến người Mỹ mặc bikini trượt tuyết",
+      "link": "https://vnexpress.net/nang-nong-khien-nguoi-my-mac-bikini-truot-tuyet-5054301.html",
+      "summary": "Cảnh tượng khác thường xuất hiện ở Keystone, Colorados khi nắng nóng làm tan chảy tuyết, người đi chơi bỏ áo khoác dày để mặc đồ bơi trượt tuyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-24T19:00:00+07:00",
+      "fetched": "2026-03-25T03:32:03.833402+07:00"
+    },
+    {
+      "id": "aeb83b4674b12ac8c5c599889c8b3f43",
+      "title": "Nắng nóng khiến người Mỹ mặc bikini trượt tuyết",
+      "link": "https://vnexpress.net/nang-nong-khien-nguoi-my-mac-bikini-truot-tuyet-5054301.html",
+      "summary": "Cảnh tượng khác thường xuất hiện ở Keystone, Colorados khi nắng nóng làm tan chảy tuyết, người đi chơi bỏ áo khoác dày để mặc đồ bơi trượt tuyết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-24T19:00:00+07:00",
+      "fetched": "2026-03-25T03:32:09.076029+07:00"
     },
     {
       "id": "e8bbc7cbb6a576790ba6773959ceaa71",
