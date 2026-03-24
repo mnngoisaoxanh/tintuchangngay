@@ -1,6 +1,6 @@
 window.newsData_2026_03_25 = {
   "date": "2026-03-25",
-  "lastUpdated": "2026-03-25T03:32:13.493832+07:00",
+  "lastUpdated": "2026-03-25T05:21:23.706311+07:00",
   "articles": [
     {
       "id": "826bc67e9b2c741748c91165284c547f",
@@ -151,6 +151,106 @@ window.newsData_2026_03_25 = {
       "category": "Tổng hợp",
       "published": "2026-03-25T01:49:41.774686+07:00",
       "fetched": "2026-03-25T01:49:41.774907+07:00"
+    },
+    {
+      "id": "c928a0005ded6e3e0a211121d9fd5716",
+      "title": "Úc - EU đạt thỏa thuận thương mại tự do",
+      "link": "https://thanhnien.vn/uc-eu-dat-thoa-thuan-thuong-mai-tu-do-18526032421034101.htm",
+      "summary": "Reuters đưa tin Úc và Liên minh châu Âu (EU) hôm qua 24.3 tuyên bố nhất trí các điều khoản của Hiệp định thương mại tự do (FTA), đánh dấu bước ngoặt của quá trình đàm phán kéo dài 8 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-24T22:19:00+07:00",
+      "fetched": "2026-03-25T05:21:13.744997+07:00"
+    },
+    {
+      "id": "7aca4dfda16a56ad41afbf40c1164b39",
+      "title": "Tử vi ngày 25 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-25-thang-3-con-giap-nao-may-man-hom-nay-185260324230933899.htm",
+      "summary": "Tử vi ngày 25 tháng 3 mang đến những gợi ý tham khảo cho 12 con giáp. Vận khí nằm ở việc chọn đúng việc để làm. Tài lộc hôm nay thế nào phụ thuộc khá lớn vào khả năng ưu tiên và sự tỉnh táo trong quyết định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-24T22:15:00+07:00",
+      "fetched": "2026-03-25T05:21:13.745168+07:00"
+    },
+    {
+      "id": "0c18af9e35ff2d574f8a742f3b57ccb1",
+      "title": "Nhiều người Venezuela đòi tăng lương khi giá cả tăng vọt",
+      "link": "https://thanhnien.vn/nhieu-nguoi-venezuela-doi-tang-luong-khi-gia-ca-tang-vot-185260324211137586.htm",
+      "summary": "Hàng trăm lao động và người về hưu Venezuela đã tuần hành ở thủ đô Caracas hôm 23.3 để yêu cầu tăng lương tối thiểu và lương hưu, vốn chưa được điều chỉnh lần nào trong 4 năm qua, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-24T22:11:00+07:00",
+      "fetched": "2026-03-25T05:21:13.745325+07:00"
+    },
+    {
+      "id": "4af32c9d6ed501575ff1d0536a568f4c",
+      "title": "Uống nước ép bưởi bao nhiêu là đủ để tốt cho sức khỏe?",
+      "link": "https://thanhnien.vn/uong-nuoc-ep-buoi-bao-nhieu-la-du-de-tot-cho-suc-khoe-18526032408374958.htm",
+      "summary": "Không phổ biến như nước cam hay nước chanh, nước ép bưởi vẫn là loại đồ uống giàu vitamin và chất chống oxy hóa. Tuy nhiên, nhiều chuyên gia dinh dưỡng cho rằng việc uống đúng tần suất mới là yếu tố quyết định để tận dụng lợi ích sức khỏe của loại nước ép này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-24T22:00:00+07:00",
+      "fetched": "2026-03-25T05:21:13.745479+07:00"
+    },
+    {
+      "id": "fa9a0f59d5c6316140f7c66912a11961",
+      "title": "Ngôi chùa miền Tây lo hậu sự cho hàng ngàn người suốt nhiều năm",
+      "link": "https://thanhnien.vn/ngoi-chua-mien-tay-lo-hau-su-cho-hang-ngan-nguoi-suot-nhieu-nam-185260323093543111.htm",
+      "summary": "Ẩn mình giữa vùng quê miền Tây, chùa Lan Nhã Kỳ Viên được nhiều người biết đến với công trình lo hậu sự cho hàng ngàn người có hoàn cảnh khó khăn suốt nhiều năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-24T22:00:00+07:00",
+      "fetched": "2026-03-25T05:21:13.745633+07:00"
+    },
+    {
+      "id": "abac60bcbc8fe1447645cfa004e024ab",
+      "title": "Tình thế 'cực chẳng đã' của các nước vùng Vịnh trong chiến sự Iran",
+      "link": "https://vnexpress.net/tinh-the-cuc-chang-da-cua-cac-nuoc-vung-vinh-trong-chien-su-iran-5054036.html",
+      "summary": "Liên tục hứng đòn tập kích từ Iran, các nước vùng Vịnh không còn lựa chọn nào khác ngoài tham gia sâu hơn vào cuộc đối đầu với Tehran, dù đối mặt nhiều rủi ro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-24T22:00:00+07:00",
+      "fetched": "2026-03-25T05:21:16.934760+07:00"
+    },
+    {
+      "id": "4b46c35a80f0bdebcc8e3bde4df6bca7",
+      "title": "Cần làm gì khi bị thất lạc iPhone?",
+      "link": "https://vnexpress.net/can-lam-gi-khi-bi-that-lac-iphone-5053697.html",
+      "summary": "Khi thất lạc iPhone, người dùng cần truy cập tính năng Find My để định vị thiết bị, bật chế độ mất và không bấm vào link lạ, tránh bị đánh cắp tài khoản iCloud.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-24T22:00:00+07:00",
+      "fetched": "2026-03-25T05:21:22.415822+07:00"
+    },
+    {
+      "id": "871fbf340300210420ea8aafabbcf6f5",
+      "title": "Chuyên gia cảnh báo ‘bẫy’ mua nhà: Người trẻ dễ mắc nếu không tính kỹ | Phần 3",
+      "link": "https://thanhnien.vn/chuyen-gia-canh-bao-bay-mua-nha-nguoi-tre-de-mac-neu-khong-tinh-ky-phan-3-185260320191640254.htm",
+      "summary": "Giấc mơ an cư của người trẻ ngày càng khó chạm tới khi giá nhà liên tục tăng cao. Không chỉ là bài toán tài chính, nhiều người còn dễ rơi vào \"bẫy\" lãi suất và vị trí nếu thiếu tính toán dài hạn, khiến việc mua nhà từ mục tiêu ổn định trở thành áp lực kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-24T21:39:00+07:00",
+      "fetched": "2026-03-25T05:21:13.745786+07:00"
+    },
+    {
+      "id": "40013ab6473c158ee1c80c044794c052",
+      "title": "Tình hình Iran, Trung Đông mới nhất ngày 25.3",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-ngay-253-185260324215859359.htm",
+      "summary": "Cuộc xung đột ở Trung Đông giữa Mỹ - Israel với Iran đã bước sang ngày thứ 26, khói lửa vẫn tiếp diễn bất chấp tuyên bố của Tổng thống Mỹ Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-24T21:30:00+07:00",
+      "fetched": "2026-03-25T05:21:13.745936+07:00"
+    },
+    {
+      "id": "60add1c240a5b6617c786c038f951b4e",
+      "title": "Vòng xoáy vé số 'mua đứt bán đoạn': Phận đời '3 không' giữa doanh thu 155.500 tỉ",
+      "link": "https://thanhnien.vn/vong-xoay-ve-so-mua-dut-ban-doan-phan-doi-3-khong-giua-doanh-thu-155500-ti-185251205100738938.htm",
+      "summary": "Người bán vé số dạo đang ở trạng thái pháp lý '3 không': không hợp đồng lao động, không bảo hiểm bắt buộc và không có cơ chế bảo hộ an toàn lao động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-24T21:27:00+07:00",
+      "fetched": "2026-03-25T05:21:13.746106+07:00"
     },
     {
       "id": "84a09ee6ce927c8d91b9d9c6b729cb69",
