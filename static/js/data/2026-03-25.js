@@ -1,6 +1,6 @@
 window.newsData_2026_03_25 = {
   "date": "2026-03-25",
-  "lastUpdated": "2026-03-25T13:52:27.199059+07:00",
+  "lastUpdated": "2026-03-25T15:38:28.570896+07:00",
   "articles": [
     {
       "id": "7dcfdf09a13878d9d5fa3e2e3e65d462",
@@ -303,6 +303,36 @@ window.newsData_2026_03_25 = {
       "fetched": "2026-03-25T11:10:45.594973+07:00"
     },
     {
+      "id": "becb4d29ff5ccb7b8ef7c63e50cef0b6",
+      "title": "3 nhóm lựa chọn giúp thí sinh tối ưu 15 nguyện vọng xét tuyển",
+      "link": "https://thanhnien.vn/3-nhom-lua-chon-giup-thi-sinh-toi-uu-15-nguyen-vong-xet-tuyen-1852603251514251.htm",
+      "summary": "Theo đại diện các trường ĐH, chọn môn thi tốt nghiệp THPT vô cùng quan trọng vì liên quan đến các tổ hợp môn xét tuyển ĐH, cần học sinh lớp 12 phải đọc kỹ đề án tuyển sinh của các trường ĐH.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:30:00+07:00",
+      "fetched": "2026-03-25T15:38:21.398515+07:00"
+    },
+    {
+      "id": "87ac0487e0e36cefcef3b728249a2ea3",
+      "title": "Dừng xe ngủ trên cao tốc, tài xế và chủ xe bị phạt 77 triệu đồng",
+      "link": "https://thanhnien.vn/dung-xe-ngu-tren-cao-toc-tai-xe-va-chu-xe-bi-phat-77-trieu-dong-185260325143112346.htm",
+      "summary": "Tài xế dừng xe trên làn khẩn cấp của cao tốc Vĩnh Hảo - Phan Thiết để ngủ, không bật đèn cảnh báo. Khi kiểm tra, lực lượng chức năng phát hiện phương tiện vi phạm hàng loạt quy định, từ không đăng kiểm đến không bảo hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:29:00+07:00",
+      "fetched": "2026-03-25T15:38:21.398664+07:00"
+    },
+    {
+      "id": "ac136b606321a083afd5e080c0ebc3dd",
+      "title": "HLV Kim hé lộ kế hoạch thắng Bangladesh: Linh hoạt xoay tua Xuân Son - Hoàng Hên",
+      "link": "https://thanhnien.vn/hlv-kim-he-lo-ke-hoach-thang-bangladesh-linh-hoat-xoay-tua-xuan-son-hoang-hen-185260325150129889.htm",
+      "summary": "HLV Kim Sang-sik cho biết đội tuyển Việt Nam sẽ đa dạng hóa phương án tấn công trong trận gặp Bangladesh, với trọng tâm là sự kết hợp giữa Xuân Son và tân binh Hoàng Hên, qua đó hướng tới một chiến thắng thuyết phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:24:00+07:00",
+      "fetched": "2026-03-25T15:38:21.398806+07:00"
+    },
+    {
       "id": "512adf57a547512d0f8f1baeb3b2f564",
       "title": "Trả lại vỉa hè: Không chỉ là dẹp hàng rong",
       "link": "https://tuoitre.vn/tra-lai-via-he-khong-chi-la-dep-hang-rong-20260324233112748.htm",
@@ -451,6 +481,356 @@ window.newsData_2026_03_25 = {
       "category": "Tổng hợp",
       "published": "2026-03-25T08:17:15.118677+07:00",
       "fetched": "2026-03-25T08:17:15.118907+07:00"
+    },
+    {
+      "id": "b969ce55d3a43646cab8be635121a42d",
+      "title": "Đà Nẵng ra 'lệnh' siết chất lượng dịch vụ du lịch, xử nghiêm chèo kéo khách",
+      "link": "https://thanhnien.vn/da-nang-ra-lenh-siet-chat-luong-dich-vu-du-lich-xu-nghiem-cheo-keo-khach-18526032514072615.htm",
+      "summary": "Nhằm giữ hình ảnh điểm đến hấp dẫn, Đà Nẵng ban hành kế hoạch siết chặt toàn diện chất lượng dịch vụ du lịch, từ nhân lực, giá cả đến hạ tầng và ứng xử, với thông điệp mạnh tay xử lý các hành vi làm xấu hình ảnh thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:16:00+07:00",
+      "fetched": "2026-03-25T15:38:21.398936+07:00"
+    },
+    {
+      "id": "d5d9c1e8f77a20b6c628eb30cf63adc2",
+      "title": "Nguồn cơn vụ 3 xe bán tải rượt đuổi trong đêm: Mâu thuẫn vì sầu riêng 'không tươi'?",
+      "link": "https://thanhnien.vn/nguon-con-vu-3-xe-ban-tai-ruot-duoi-trong-dem-mau-thuan-vi-sau-rieng-khong-tuoi-185260325150628349.htm",
+      "summary": "Công an xã Ngũ Hiệp đang phối hợp các đơn vị nghiệp vụ Công an tỉnh Đồng Tháp và Viện Kiểm sát nhân dân Khu vực 4 điều tra làm rõ vụ '3 xe bán tải rượt đuổi, hành hung người trong đêm'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:11:00+07:00",
+      "fetched": "2026-03-25T15:38:21.399065+07:00"
+    },
+    {
+      "id": "2c95a980cb126763bc492b3cb9ee340e",
+      "title": "Trịnh Thiếu Thu lên tiếng sau ba năm 'bặt vô âm tín'",
+      "link": "https://vnexpress.net/trinh-thieu-thu-len-tieng-sau-ba-nam-bat-vo-am-tin-5054695.html",
+      "summary": "Tài tử Hong Kong Trịnh Thiếu Thu lên tiếng về cuộc sống hiện tại khi nhiều người thắc mắc lý do ông \"bặt vô âm tín\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:10:20+07:00",
+      "fetched": "2026-03-25T15:38:18.235696+07:00"
+    },
+    {
+      "id": "679a151d695806f0e53e31c7d05ca207",
+      "title": "TP.HCM: Cảnh sát PCCC giải cứu an toàn bé trai kẹt giữa 2 bức tường hẹp",
+      "link": "https://thanhnien.vn/tphcm-canh-sat-pccc-giai-cuu-an-toan-be-trai-ket-giua-2-buc-tuong-hep-185260325142150854.htm",
+      "summary": "Bé trai 9 tuổi mắc kẹt giữa 2 bức tường hẹp trên đường Hội Nghĩa 57, phường Bình Cơ (TP.HCM) khi leo mái nhà bắt mèo đã được lực lượng Cảnh sát PCCC giải cứu an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:10:00+07:00",
+      "fetched": "2026-03-25T15:38:21.399191+07:00"
+    },
+    {
+      "id": "8adec382d0fabb180291c7d1c248b25f",
+      "title": "Vì sao thủ khoa thi TSA sai 9 câu vẫn đạt 98,98 điểm?",
+      "link": "https://vnexpress.net/bach-khoa-ha-noi-ly-giai-cach-tinh-diem-thi-tsa-khi-thu-khoa-sai-9-cau-van-dat-diem-gan-tuyet-doi-5054552.html",
+      "summary": "Thủ khoa thi đánh giá tư duy TSA của Đại học Bách khoa Hà Nội đạt 98,98/100 điểm dù sai 9/100 câu khiến nhiều người thắc mắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:08:23+07:00",
+      "fetched": "2026-03-25T15:38:18.235860+07:00"
+    },
+    {
+      "id": "7d6c6534922246cc715920a66144fbf8",
+      "title": "Tổng chủ biên SGK: Nhiều học sinh không thuộc nổi 1 câu Truyện Kiều, Bình Ngô đại cáo!",
+      "link": "https://thanhnien.vn/tong-chu-bien-sgk-nhieu-hoc-sinh-khong-thuoc-noi-1-cau-truyen-kieu-binh-ngo-dai-cao-185260325123345432.htm",
+      "summary": "Đề kiểm tra cuối kỳ, đề bài ngữ văn các kỳ thi lớn không dùng ngữ liệu trong sách giáo khoa (SGK). Nhiều giáo viên cũng không lấy ngữ liệu trong SGK để kiểm tra thường xuyên, giữa kỳ, từ đây có không ít học sinh không nhớ nổi một câu trong 'Truyện Kiều', 'Bình Ngô đại cáo'...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:08:00+07:00",
+      "fetched": "2026-03-25T15:38:21.399318+07:00"
+    },
+    {
+      "id": "91aac351e78a06596df396ab223b0af8",
+      "title": "Thu tiền tỷ để tổ chức 'đẻ thuê' ở TP HCM",
+      "link": "https://vnexpress.net/thu-tien-ty-de-to-chuc-de-thue-o-tp-hcm-5054683.html",
+      "summary": "Huỳnh Phương Thảo, 30 tuổi, cùng đồng phạm tổ chức mang thai hộ trái phép, thu tiền tỷ, thậm chí làm giả giấy chứng sinh để hợp thức hóa hồ sơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:07:15+07:00",
+      "fetched": "2026-03-25T15:38:18.236005+07:00"
+    },
+    {
+      "id": "d393c93463c4f9b97581ddcb6f58daf3",
+      "title": "Giáo hội Anh có nữ Tổng giám mục đầu tiên sau 1.400 năm",
+      "link": "https://vnexpress.net/giao-hoi-anh-co-nu-tong-giam-muc-dau-tien-sau-1-400-nam-5054697.html",
+      "summary": "Bà Sarah Mullally trở thành người phụ nữ đầu tiên sau 14 thế kỷ được bổ nhiệm làm Tổng giám mục Canterbury, đứng đầu giáo hội Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:05:34+07:00",
+      "fetched": "2026-03-25T15:38:18.236142+07:00"
+    },
+    {
+      "id": "d393c93463c4f9b97581ddcb6f58daf3",
+      "title": "Giáo hội Anh có nữ Tổng giám mục đầu tiên sau 1.400 năm",
+      "link": "https://vnexpress.net/giao-hoi-anh-co-nu-tong-giam-muc-dau-tien-sau-1-400-nam-5054697.html",
+      "summary": "Bà Sarah Mullally trở thành người phụ nữ đầu tiên sau 14 thế kỷ được bổ nhiệm làm Tổng giám mục Canterbury, đứng đầu giáo hội Anh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-25T08:05:34+07:00",
+      "fetched": "2026-03-25T15:38:24.233709+07:00"
+    },
+    {
+      "id": "5e346843ed5681560a55965263ffb0d5",
+      "title": "Bắt 2 đối tượng vận chuyển hơn 2 kg ma túy đá, giấu tinh vi trong ô tô",
+      "link": "https://thanhnien.vn/bat-2-doi-tuong-van-chuyen-hon-2-kg-ma-tuy-da-giau-tinh-vi-trong-o-to-185260325140625977.htm",
+      "summary": "Công an tỉnh Lâm Đồng lập chuyên án, bắt quả tang 2 đối tượng cùng tang vật hơn 2 kg ma túy đá được ngụy trang kỹ trong ô tô, kịp thời ngăn chặn nguồn cung 'cái chết trắng' ra thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:02:00+07:00",
+      "fetched": "2026-03-25T15:38:21.399445+07:00"
+    },
+    {
+      "id": "82cde2ea6fd1c7b09ced52b51b4068c4",
+      "title": "Cựu hiệu trưởng bị đề nghị 4-5 năm tù trong vụ thu sai một tỷ đồng dạy thêm",
+      "link": "https://vnexpress.net/cuu-hieu-truong-bi-de-nghi-4-5-nam-tu-trong-vu-thu-sai-mot-ty-dong-day-them-5054599.html",
+      "summary": "VKS đánh giá cựu hiệu trưởng THCS Ba Đình vụ lợi, làm trái quy định khi phân lớp, quyết định sai mức học phí dạy thêm nên cần nghiêm khắc xử lý, đề nghị tuyên 4-5 tù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:01:58+07:00",
+      "fetched": "2026-03-25T15:38:18.236280+07:00"
+    },
+    {
+      "id": "42d0fd62af51b8f4b4e56ca85e99e5bf",
+      "title": "Iran cho phép tàu dầu Thái Lan đi qua eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-cho-phep-tau-dau-thai-lan-di-qua-eo-bien-hormuz-5054687.html",
+      "summary": "Iran đã cho phép một tàu dầu Thái Lan đi qua eo biển Hormuz và không phải trả phí, sau sự phối hợp ngoại giao giữa Tehran và Bangkok.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:01:51+07:00",
+      "fetched": "2026-03-25T15:38:18.236414+07:00"
+    },
+    {
+      "id": "42d0fd62af51b8f4b4e56ca85e99e5bf",
+      "title": "Iran cho phép tàu dầu Thái Lan đi qua eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-cho-phep-tau-dau-thai-lan-di-qua-eo-bien-hormuz-5054687.html",
+      "summary": "Iran đã cho phép một tàu dầu Thái Lan đi qua eo biển Hormuz và không phải trả phí, sau sự phối hợp ngoại giao giữa Tehran và Bangkok.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-25T08:01:51+07:00",
+      "fetched": "2026-03-25T15:38:24.233862+07:00"
+    },
+    {
+      "id": "16c5fd9d130a0b4600b63f77338ebead",
+      "title": "Sầu riêng, dừa tươi, bưởi… Việt Nam 'ngập' siêu thị Mỹ",
+      "link": "https://thanhnien.vn/sau-rieng-dua-tuoi-buoi-viet-nam-ngap-sieu-thi-my-185260325131013421.htm",
+      "summary": "Các loại trái cây Việt Nam đang được bán ngày càng nhiều tại các siêu thị ở Mỹ. Đáng chú ý, đầu năm 2026, các trái cây đặc sản Việt Nam như sầu riêng, dừa, bưởi… xuất khẩu vào Mỹ cũng tăng đến 3 con số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:01:00+07:00",
+      "fetched": "2026-03-25T15:38:21.399585+07:00"
+    },
+    {
+      "id": "0f88cc2a532fb56bdd6e6942f5a4db6b",
+      "title": "Gần 1.200 runner của một CLB dự VM Green Paradise Cần Giờ",
+      "link": "https://vnexpress.net/gan-1200-runner-clb-du-vnexpress-marathon-can-gio-5054603.html",
+      "summary": "Sau 5 ngày mở đăng ký, P2P Community tại TP HCM đã huy động được gần 1.200 thành viên tham gia VnExpress Marathon Green Paradise Cần Giờ, trở thành nhóm có số lượng áp đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:00:00+07:00",
+      "fetched": "2026-03-25T15:38:18.236562+07:00"
+    },
+    {
+      "id": "701abd93df9265104c0a7d93d2373fee",
+      "title": "Điều gì xảy ra khi người tiểu đường ăn bắp cải?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-nguoi-tieu-duong-an-bap-cai-5054529.html",
+      "summary": "Bắp cải giàu chất chống oxy hóa, giúp giảm viêm, hỗ trợ ổn định đường huyết và thúc đẩy trao đổi chất nhờ hàm lượng chất xơ và kali.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:00:00+07:00",
+      "fetched": "2026-03-25T15:38:18.236695+07:00"
+    },
+    {
+      "id": "70e239bb2d813940a8c4e7427d812345",
+      "title": "Phòng viêm gan virus B tiến triển xơ gan, ung thư",
+      "link": "https://vnexpress.net/phong-viem-gan-virus-b-tien-trien-xo-gan-ung-thu-5054500.html",
+      "summary": "Theo dõi bệnh định kỳ, uống thuốc theo chỉ định, kiểm soát bệnh nền, hạn chế rượu bia, góp phần ngăn viêm gan virus B tiến triển gây tổn thương gan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:00:00+07:00",
+      "fetched": "2026-03-25T15:38:18.236825+07:00"
+    },
+    {
+      "id": "2a21d4c4918aadd5065c37b0564a5919",
+      "title": "Bạn có biết đây là câu thành ngữ nào?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-ban-co-biet-day-la-cau-thanh-ngu-nao-5052757.html",
+      "summary": "Câu thành ngữ chỉ sự việc kinh hoàng trong quá khứ khiến con người trở nên cảnh giác, nghi ngờ và lo sợ những thứ tương tự dù vô hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:00:00+07:00",
+      "fetched": "2026-03-25T15:38:18.236957+07:00"
+    },
+    {
+      "id": "56cc2457bb09403f6cec284a1a1518b6",
+      "title": "Chọn chân váy chuẩn gu: Mặc thanh lịch, tôn dáng mùa hè",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chon-chan-vay-chuan-gu-mac-thanh-lich-ton-dang-mua-he-185260324235627535.htm",
+      "summary": "Từ sàn diễn quốc tế đến phong cách đường phố, các kiểu chân váy đang được 'làm mới' bằng những cách phối linh hoạt, giúp người mặc vừa thanh lịch, vừa thể hiện rõ cá tính riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T08:00:00+07:00",
+      "fetched": "2026-03-25T15:38:21.399713+07:00"
+    },
+    {
+      "id": "632a6df605ca5d6ff962889295829a1e",
+      "title": "Hãng hàng không Mỹ cắt ưu đãi cho nghị sĩ",
+      "link": "https://vnexpress.net/hang-hang-khong-my-cat-uu-dai-cho-nghi-si-5054664.html",
+      "summary": "Delta Air Lines dừng các dịch vụ đặc biệt dành cho nghị sĩ Mỹ do thiếu hụt nguồn lực giữa giai đoạn chính phủ đóng cửa một phần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T07:59:03+07:00",
+      "fetched": "2026-03-25T15:38:18.237091+07:00"
+    },
+    {
+      "id": "632a6df605ca5d6ff962889295829a1e",
+      "title": "Hãng hàng không Mỹ cắt ưu đãi cho nghị sĩ",
+      "link": "https://vnexpress.net/hang-hang-khong-my-cat-uu-dai-cho-nghi-si-5054664.html",
+      "summary": "Delta Air Lines dừng các dịch vụ đặc biệt dành cho nghị sĩ Mỹ do thiếu hụt nguồn lực giữa giai đoạn chính phủ đóng cửa một phần.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-25T07:59:03+07:00",
+      "fetched": "2026-03-25T15:38:24.234001+07:00"
+    },
+    {
+      "id": "b386784b8bee3692a915ab29df49dd12",
+      "title": "Vì sao phố cổ Hà Nội là 'thủ đô ẩm thực' tuyệt nhất thế giới?",
+      "link": "https://thanhnien.vn/vi-sao-pho-co-ha-noi-la-thu-do-am-thuc-tuyet-nhat-the-gioi-185260325143456409.htm",
+      "summary": "Từ khoai lang bán rong bên đường đến thực đơn cao cấp, phố cổ Hà Nội đã định hình cách ăn uống của người Việt Nam trong nhiều thế kỷ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T07:55:00+07:00",
+      "fetched": "2026-03-25T15:38:21.399839+07:00"
+    },
+    {
+      "id": "07ea732df780974b3777d40874d30167",
+      "title": "Hai triệu chứng xuất hiện ban đêm cảnh báo ung thư",
+      "link": "https://vnexpress.net/hai-trieu-chung-xuat-hien-ban-dem-canh-bao-ung-thu-5054655.html",
+      "summary": "Chứng mất ngủ và đổ mồ hôi dữ dội vào ban đêm có thể là dấu hiệu cảnh báo ung thư, theo Tổ chức Nghiên cứu Ung thư Anh (Cancer Research UK).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T07:51:56+07:00",
+      "fetched": "2026-03-25T15:38:18.237219+07:00"
+    },
+    {
+      "id": "1160b40191eeac084f83b9e7ef37ad99",
+      "title": "Gia Lai yêu cầu rà soát toàn bộ dự án đầu tư, tránh lãng phí vốn",
+      "link": "https://thanhnien.vn/gia-lai-yeu-cau-ra-soat-toan-bo-du-an-dau-tu-tranh-lang-phi-von-185260325131003265.htm",
+      "summary": "Hàng loạt 'nút thắt' trong quản lý dự án đầu tư xây dựng tại Gia Lai được chỉ rõ, từ năng lực cán bộ yếu, đến đấu thầu thiếu minh bạch và vướng mặt bằng, đòi hỏi giải pháp mạnh để tránh lãng phí vốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T07:47:00+07:00",
+      "fetched": "2026-03-25T15:38:21.399965+07:00"
+    },
+    {
+      "id": "7e75abe7ae99e49b1380b24a452558e7",
+      "title": "Giá vật liệu xây dựng tăng mạnh",
+      "link": "https://vnexpress.net/gia-vat-lieu-xay-dung-tang-manh-5054488.html",
+      "summary": "Giá vật liệu xây dựng tăng từ đầu tháng 3, có loại đắt thêm 25-30%, trong bối cảnh nguồn cung hạn chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T07:46:13+07:00",
+      "fetched": "2026-03-25T15:38:18.237349+07:00"
+    },
+    {
+      "id": "7e75abe7ae99e49b1380b24a452558e7",
+      "title": "Giá vật liệu xây dựng tăng mạnh",
+      "link": "https://vnexpress.net/gia-vat-lieu-xay-dung-tang-manh-5054488.html",
+      "summary": "Giá vật liệu xây dựng tăng từ đầu tháng 3, có loại đắt thêm 25-30%, trong bối cảnh nguồn cung hạn chế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-25T07:46:13+07:00",
+      "fetched": "2026-03-25T15:38:25.523245+07:00"
+    },
+    {
+      "id": "54d083a28b58768c88beadf2e53eef18",
+      "title": "Hai cựu công an quận Cầu Giấy bị truy tố trong vụ cháy 14 người chết",
+      "link": "https://vnexpress.net/hai-cuu-cong-an-quan-cau-giay-bi-truy-to-trong-vu-chay-14-nguoi-chet-5054638.html",
+      "summary": "Hai cảnh sát phòng cháy chữa cháy bị cáo buộc buông lỏng quản lý khiến dãy nhà trọ ở Trung Kính vi phạm quy định 14 năm không bị phát hiện, dẫn đến hỏa hoạn 14 người chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T07:45:52+07:00",
+      "fetched": "2026-03-25T15:38:18.237481+07:00"
+    },
+    {
+      "id": "fa33d6f8afae9150afa83ef44d69f85d",
+      "title": "Dừng xe ngủ trên cao tốc, tài xế bị phạt 21 triệu đồng",
+      "link": "https://vnexpress.net/dung-xe-ngu-tren-cao-toc-tai-xe-bi-phat-21-trieu-dong-5054671.html",
+      "summary": "Tài xế ôtô bị phạt 21 triệu đồng do dừng xe trái quy định ở làn khẩn cấp trên cao tốc và không xuất trình đủ giấy tờ phương tiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T07:40:54+07:00",
+      "fetched": "2026-03-25T15:38:18.237623+07:00"
+    },
+    {
+      "id": "83938f041eebdec8d5709970453a1b5d",
+      "title": "Pfizer Việt Nam thúc đẩy trao đổi khoa học trong lĩnh vực sức khỏe hô hấp",
+      "link": "https://thanhnien.vn/pfizer-viet-nam-thuc-day-trao-doi-khoa-hoc-trong-linh-vuc-suc-khoe-ho-hap-185260325145823438.htm",
+      "summary": "Hội nghị thường niên Hội Hô hấp TP.HCM 2026 với chủ đề 'Khoa học và công nghệ tiên phong trong hô hấp hiện đại' vừa diễn ra, với gần 800 chuyên gia trong và ngoài nước tham gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T07:39:00+07:00",
+      "fetched": "2026-03-25T15:38:21.400090+07:00"
+    },
+    {
+      "id": "e4748b351668d7b5148e89f490026ac4",
+      "title": "Xe bán tải mất sức hút: 'Người dùng rao bán, khách hàng hủy cọc'",
+      "link": "https://thanhnien.vn/xe-ban-tai-mat-suc-hut-nguoi-dung-rao-ban-khach-hang-huy-coc-185260324115328867.htm",
+      "summary": "Việc bị xem như ô tô tải thông dụng đồng thời thuộc diện hạn chế lưu thông theo từng tuyến đường, khung giờ tại các đô thị lớn đang khiến sức hút dòng xe bán tải tại Việt Nam suy giảm, nhu cầu mua sắm chững lại, khách hủy cọc chuyển sang lựa chọn mới, khiến các nhà sản xuất, phân phối dòng xe này đố...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T07:39:00+07:00",
+      "fetched": "2026-03-25T15:38:21.400216+07:00"
+    },
+    {
+      "id": "69f2065fca947d7f530d0efd2875f4de",
+      "title": "Nam sinh xông vào đám cháy cứu 5 người: 'Đừng gọi tôi là người hùng'",
+      "link": "https://thanhnien.vn/nam-sinh-xong-vao-dam-chay-cuu-5-nguoi-dung-goi-toi-la-nguoi-hung-185260325140409835.htm",
+      "summary": "Giữa tiếng kêu cứu của nạn nhân và ngọn lửa bùng lên dữ dội, nam sinh Nguyễn Lê Tú đã không ngần ngại, liều mình lao vào đám cháy để cứu người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T07:38:00+07:00",
+      "fetched": "2026-03-25T15:38:21.400343+07:00"
+    },
+    {
+      "id": "dfffe5f7376135077e39a5197d803746",
+      "title": "Xếp hàng đến 6 giờ chờ kiểm tra an ninh ở sân bay Mỹ",
+      "link": "https://vnexpress.net/xep-hang-den-6-gio-cho-kiem-tra-an-ninh-o-san-bay-my-5054514.html",
+      "summary": "Do thiếu nhân viên soi chiếu, hành khách phải xếp hàng tràn ra bãi đậu xe tại nhiều sân bay, chờ nhiều giờ để kiểm tra an ninh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-25T07:22:02+07:00",
+      "fetched": "2026-03-25T15:38:24.234135+07:00"
+    },
+    {
+      "id": "d7cd7ffcdeeef382b04766c37933ed13",
+      "title": "Giá xăng giảm gần 4.000 đồng một lít",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-25-4-5054676.html",
+      "summary": "Từ 14h ngày 25/3, giá các loại xăng, dầu cùng giảm 1.770-3.890 đồng một lít, kg tùy loại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-25T07:05:26+07:00",
+      "fetched": "2026-03-25T15:38:25.523406+07:00"
+    },
+    {
+      "id": "2fb87e675a6706e2f8b79094ac7fe564",
+      "title": "Calafiori: 'Gattuso gọi điện nhiều hơn cả mẹ tôi'",
+      "link": "https://vnexpress.net/calafiori-gattuso-goi-dien-nhieu-hon-ca-me-toi-5054456.html",
+      "summary": "Hậu vệ trái Riccardo Calafiori tiết lộ về cách lHLV Gennaro Gattuso chuẩn bị cho trận tranh vé vớt dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-25T07:01:27+07:00",
+      "fetched": "2026-03-25T15:38:28.563184+07:00"
+    },
+    {
+      "id": "ec3297d3d1f3ccb21d4a48890cfe90bc",
+      "title": "Quân đội Iran bác tin đàm phán với ông Trump",
+      "link": "https://vnexpress.net/quan-doi-iran-bac-tin-dam-phan-voi-ong-trump-5054631.html",
+      "summary": "Bộ tư lệnh Trung tâm Khatam al-Anbiya bác bỏ tin Iran đàm phán với Mỹ, sau khi ông Trump tuyên bố hai bên đang đối thoại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-25T06:53:19+07:00",
+      "fetched": "2026-03-25T15:38:24.234288+07:00"
     },
     {
       "id": "469e315de9f52ad1e65f047bb8959221",
