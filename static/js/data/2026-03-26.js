@@ -1,6 +1,6 @@
 window.newsData_2026_03_26 = {
   "date": "2026-03-26",
-  "lastUpdated": "2026-03-26T03:29:43.125191+07:00",
+  "lastUpdated": "2026-03-26T05:26:07.559327+07:00",
   "articles": [
     {
       "id": "99a15425bf32ee290a1a7444b5831a5c",
@@ -151,6 +151,186 @@ window.newsData_2026_03_26 = {
       "category": "Tổng hợp",
       "published": "2026-03-26T01:43:02.710112+07:00",
       "fetched": "2026-03-26T01:43:02.710326+07:00"
+    },
+    {
+      "id": "045d06d145104497079cbe17641deeac",
+      "title": "Đảng Dân chủ thắng ở sân nhà của Tổng thống Trump",
+      "link": "https://thanhnien.vn/dang-dan-chu-thang-o-san-nha-cua-tong-thong-trump-185260325211934281.htm",
+      "summary": "AP hôm qua đưa tin ứng viên Emily Gregory của đảng Dân chủ đã giành chiến thắng trong cuộc bầu cử bổ sung cho nghị viện bang Florida (Mỹ) tại khu vực bầu cử bao gồm khu nghỉ dưỡng Mar-a-Lago, vốn được xem là \"tổng hành dinh\" yêu thích của Tổng thống Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T22:17:00+07:00",
+      "fetched": "2026-03-26T05:26:00.109548+07:00"
+    },
+    {
+      "id": "8f8bea49fb2d3cafad8d208b53bdd025",
+      "title": "Tử vi ngày 26 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-26-thang-3-con-giap-nao-may-man-hom-nay-185260326003542971.htm",
+      "summary": "Tử vi ngày 26 tháng 3 mang đến những gợi ý tham khảo cho 12 con giáp. Vận khí có xu hướng \"tăng tốc sau điều chỉnh\", những ai đã kịp nhìn lại và thay đổi từ trước sẽ bắt đầu thấy hiệu quả rõ rệt. Tài lộc hôm nay thế nào phụ thuộc vào sự kiên trì và cách bạn duy trì nhịp độ, hơn là những bước đi đột ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T22:15:00+07:00",
+      "fetched": "2026-03-26T05:26:00.109720+07:00"
+    },
+    {
+      "id": "7593ec51151aba3eef18ff5b63b789ca",
+      "title": "Giải mã 'bệnh bí ẩn': Đi nhiều nơi, hết tiền vẫn không ra bệnh",
+      "link": "https://thanhnien.vn/giai-ma-benh-bi-an-di-nhieu-noi-het-tien-van-khong-ra-benh-185260325115413689.htm",
+      "summary": "Nhiều người đi khám, điều trị ở nhiều bệnh viện, nhưng bệnh không thuyên giảm thậm chí còn nặng hơn và không rõ nguyên nhân. Họ dường như tuyệt vọng với 'bệnh bí ẩn'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T22:15:00+07:00",
+      "fetched": "2026-03-26T05:26:00.109899+07:00"
+    },
+    {
+      "id": "a2705f0cdfd677337612dffc3d6f191a",
+      "title": "Nga bắt đầu đợt tấn công mới, Ukraine lo tác động từ cuộc chiến Iran",
+      "link": "https://thanhnien.vn/nga-bat-dau-dot-tan-cong-moi-ukraine-lo-tac-dong-tu-cuoc-chien-iran-185260325222429185.htm",
+      "summary": "Quân đội Ukraine và các nhà phân tích cho biết, lực lượng Nga đã bắt đầu đợt tấn công mới sau mùa đông, với quy mô lớn hơn, có huy động xe tăng và xe bọc thép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T22:11:00+07:00",
+      "fetched": "2026-03-26T05:26:00.110057+07:00"
+    },
+    {
+      "id": "887b55465eef2a9611640b837d2102b4",
+      "title": "Hôm nay 26.3 là ngày đặc biệt, nhiều người Việt quan tâm chia sẻ",
+      "link": "https://thanhnien.vn/hom-nay-263-la-ngay-dac-biet-nhieu-nguoi-viet-quan-tam-chia-se-1852603250821509.htm",
+      "summary": "Ngày 26.3 hôm nay kỷ niệm 95 năm thành lập Đoàn TNCS Hồ Chí Minh (26.3.1931 - 26.3.2026). Theo lịch dương, lịch âm hôm nay có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T22:05:00+07:00",
+      "fetched": "2026-03-26T05:26:00.110214+07:00"
+    },
+    {
+      "id": "b01bc1dda09037dc04448b212f6560dd",
+      "title": "Đà Nẵng đề nghị siết chặt cửa khẩu, ngăn xăng dầu 'chảy' lậu ra nước ngoài",
+      "link": "https://thanhnien.vn/da-nang-de-nghi-siet-chat-cua-khau-ngan-xang-dau-chay-lau-ra-nuoc-ngoai-185260325184316196.htm",
+      "summary": "Trước áp lực 'kép' từ giá xăng dầu, lãnh đạo Đà Nẵng yêu cầu kiểm soát biên giới, quyết không để tình trạng thẩm lậu xăng dầu ra nước ngoài gây bất ổn nguồn cung nội địa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T22:04:00+07:00",
+      "fetched": "2026-03-26T05:26:00.110369+07:00"
+    },
+    {
+      "id": "bdb2ca95baccd89e7e37a48c7bd215c5",
+      "title": "Kiểm tra thực tế vụ 'nhà dân chênh vênh bên mép vực sâu'",
+      "link": "https://thanhnien.vn/kiem-tra-thuc-te-vu-nha-dan-chenh-venh-ben-mep-vuc-sau-185260325205552867.htm",
+      "summary": "Sau khi Chủ tịch UBND tỉnh Đồng Nai chỉ đạo xử lý vụ \"nhà dân chênh vênh bên mép vực sâu\" mà Báo Thanh Niên phản ánh, đoàn kiểm tra của tỉnh đã đi kiểm tra thực tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T22:03:00+07:00",
+      "fetched": "2026-03-26T05:26:00.110521+07:00"
+    },
+    {
+      "id": "43c76a99ed10d300d38965935dff5cec",
+      "title": "TP.HCM triển khai dự án cầu đường Bình Tiên, người dân mong sớm thoát cảnh đi vòng",
+      "link": "https://thanhnien.vn/tphcm-trien-khai-du-an-cau-duong-binh-tien-nguoi-dan-mong-som-thoat-canh-di-vong-185260325153358567.htm",
+      "summary": "Dự án cầu đường Bình Tiên mới đây đã được UBND TP.HCM ban hành quyết định phê duyệt, dự án này được kỳ vọng sẽ không chỉ mở thêm một lối đi, mà còn tháo gỡ điểm nghẽn giao thông tồn tại nhiều năm, tạo động lực phát triển cho cả khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T22:03:00+07:00",
+      "fetched": "2026-03-26T05:26:00.110675+07:00"
+    },
+    {
+      "id": "c92a1e250538983d0eb6d0cb16a24140",
+      "title": "Cận cảnh cứu bé trai mắc kẹt giữa vách tường",
+      "link": "https://thanhnien.vn/can-canh-cuu-be-trai-mac-ket-giua-vach-tuong-185260325233414766.htm",
+      "summary": "Bé trai 9 tuổi mắc kẹt giữa 2 bức tường hẹp trên đường Hội Nghĩa 57, phường Bình Cơ (TP.HCM) khi leo mái nhà bắt mèo đã được lực lượng Cảnh sát PCCC giải cứu an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T22:00:00+07:00",
+      "fetched": "2026-03-26T05:26:00.110825+07:00"
+    },
+    {
+      "id": "9ee2f74364bc71a9f57607b764d2cdc9",
+      "title": "Xung đột Trung Đông diễn biến khó lường",
+      "link": "https://thanhnien.vn/xung-dot-trung-dong-dien-bien-kho-luong-18526032521163739.htm",
+      "summary": "Cuộc xung đột tại Trung Đông vẫn đang diễn biến rất phức tạp với sự xuất hiện mâu thuẫn của những tín hiệu mơ hồ về ngoại giao lẫn quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T22:00:00+07:00",
+      "fetched": "2026-03-26T05:26:00.111018+07:00"
+    },
+    {
+      "id": "0aa9ae82e8df0a8e4d3d5bd7f28efa35",
+      "title": "Giải độc đắc của Vietlott Mega 6/45 cộng dồn lên 40 tỉ đồng",
+      "link": "https://thanhnien.vn/giai-doc-dac-cua-vietlott-mega-6-45-cong-don-len-40-ti-dong-185260325203918213.htm",
+      "summary": "Tối 25.3, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không có người trúng giải độc đắc nên số tiền cộng dồn là 40 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T22:00:00+07:00",
+      "fetched": "2026-03-26T05:26:00.111183+07:00"
+    },
+    {
+      "id": "c0977aa74c5fca9efeede540dd3e1c9f",
+      "title": "Ăn gì để không bị loãng xương nhanh?",
+      "link": "https://thanhnien.vn/an-gi-de-khong-bi-loang-xuong-nhanh-185260325165359147.htm",
+      "summary": "Loãng xương không chỉ là hệ quả của tuổi tác mà còn liên quan mật thiết đến thói quen ăn uống hàng ngày. Theo chuyên trang sức khỏe Health Central, việc duy trì nồng độ Canxi và Vitamin D ổn định là yếu tố sống còn để duy trì mật độ xương. Sự thiếu hụt các vi chất này là nguyên nhân hàng đầu dẫn đến...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T22:00:00+07:00",
+      "fetched": "2026-03-26T05:26:00.111335+07:00"
+    },
+    {
+      "id": "55e74a2bf1927a770e7983124a2a5306",
+      "title": "Những phát biểu trái chiều của ông Trump trong chiến sự Iran",
+      "link": "https://vnexpress.net/nhung-phat-bieu-trai-chieu-cua-ong-trump-trong-chien-su-iran-5054661.html",
+      "summary": "Bằng cách liên tục đưa ra những tuyên bố trái chiều, ông Trump dường như đang thực hiện một chiến dịch \"gây nhiễu\" khiến xung đột Iran trở nên khó đoán.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-25T22:00:00+07:00",
+      "fetched": "2026-03-26T05:26:02.098599+07:00"
+    },
+    {
+      "id": "70220eb1b07590fda2e75a8370deeadf",
+      "title": "Nvidia xây 'thành trì mới' sau thành công với chip AI",
+      "link": "https://vnexpress.net/nvidia-xay-thanh-tri-moi-sau-thanh-cong-voi-chip-ai-5054125.html",
+      "summary": "Thông qua NemoClaw, Nvidia được đánh giá đang dựng \"thành trì\" mới cả về phần mềm và phần cứng cho tương lai trí tuệ nhân tạo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-25T22:00:00+07:00",
+      "fetched": "2026-03-26T05:26:06.208171+07:00"
+    },
+    {
+      "id": "466d410a54d88dfff57f51247f289f25",
+      "title": "Giấc mơ an cư tuổi 30: Người trẻ vẫn chọn thuê thay vì còng lưng trả nợ? | Phần 4",
+      "link": "https://thanhnien.vn/giac-mo-an-cu-tuoi-30-nguoi-tre-van-chon-thue-thay-vi-cong-lung-tra-no-phan-4-18526032020114769.htm",
+      "summary": "Thuê nhà, chia sẻ không gian sống, tính toán chặt chẽ từng khoản chi tiêu, nhiều người trẻ tại các đô thị lớn đang lựa chọn lối sống linh hoạt như một cách thích nghi trước áp lực kinh tế ngày càng lớn. Trong bối cảnh đó, khái niệm thành công cũng dần được họ định nghĩa lại, không còn gắn chặt với v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:39:00+07:00",
+      "fetched": "2026-03-26T05:26:00.111491+07:00"
+    },
+    {
+      "id": "6d87ac73b77b9222af77bc347faaa53c",
+      "title": "Tình hình Iran, Trung Đông mới nhất sáng 26.3",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-sang-263-185260325202340023.htm",
+      "summary": "Các cuộc tấn công qua lại vẫn tiếp diễn bất chấp các thông tin mơ hồ về chuyện Mỹ và Iran đã đàm phán với nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:30:00+07:00",
+      "fetched": "2026-03-26T05:26:00.111648+07:00"
+    },
+    {
+      "id": "2bfb3fb276d56e991c4414e014ad93ce",
+      "title": "Chiến sự Ukraine ngày 1.491: Ukraine tấn công Nga dồn dập chưa từng có?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1491-ukraine-tan-cong-nga-don-dap-chua-tung-co-185260325111442406.htm",
+      "summary": "Bộ Quốc phòng Nga tuyên bố đã phá hủy 389 máy bay không người lái do Ukraine phóng vào 12 tỉnh của Nga và bán đảo Crimea chỉ trong 8 giờ đồng hồ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:30:00+07:00",
+      "fetched": "2026-03-26T05:26:00.111797+07:00"
+    },
+    {
+      "id": "c8d8411bd6b52319b3d1507c30b06481",
+      "title": "Xe máy sang đường ẩu, đâm liên tiếp hai ôtô tại ngã tư",
+      "link": "https://vnexpress.net/xe-may-sang-duong-au-dam-lien-tiep-hai-oto-tai-nga-tu-5054675.html",
+      "summary": "Luồn lách tại ngã tư, nam thanh niên đi xe máy đâm vào đầu một ôtô và tiếp tục đâm vào hông một ôtô khác hôm 23/3 tại khu đô thị Thanh Hà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:00:00+07:00",
+      "fetched": "2026-03-26T05:25:57.185145+07:00"
     },
     {
       "id": "29f38024e6e54c8277a74d2924dba6b5",
