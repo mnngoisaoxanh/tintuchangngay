@@ -1,6 +1,6 @@
 window.newsData_2026_03_26 = {
   "date": "2026-03-26",
-  "lastUpdated": "2026-03-26T01:43:12.067498+07:00",
+  "lastUpdated": "2026-03-26T03:29:43.125191+07:00",
   "articles": [
     {
       "id": "99a15425bf32ee290a1a7444b5831a5c",
@@ -151,6 +151,46 @@ window.newsData_2026_03_26 = {
       "category": "Tổng hợp",
       "published": "2026-03-26T01:43:02.710112+07:00",
       "fetched": "2026-03-26T01:43:02.710326+07:00"
+    },
+    {
+      "id": "29f38024e6e54c8277a74d2924dba6b5",
+      "title": "Ngày mới với tin tức sức khỏe: Thanh lọc, cảnh báo đường huyết, dinh dưỡng từ trứng",
+      "link": "https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-thanh-loc-co-the-canh-bao-duong-huyet-va-gia-tri-dinh-duong-cua-trung-185260326023450865.htm",
+      "summary": "Ngày mới với tin tức sức khỏe sẽ cùng điểm qua một số thông tin sức khỏe đáng chú ý liên quan đến việc thanh lọc cơ thể, cảnh báo đường huyết và giá trị dinh dưỡng của trứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T19:34:00+07:00",
+      "fetched": "2026-03-26T03:29:32.381204+07:00"
+    },
+    {
+      "id": "4f3fefeb3c49bdb85736903d19d2600f",
+      "title": "Bí quyết thanh lọc cơ thể tự nhiên, không cần nhịn ăn",
+      "link": "https://thanhnien.vn/bi-quyet-thanh-loc-co-the-tu-nhien-khong-can-nhin-an-185260326021151852.htm",
+      "summary": "Thức khuya, ăn nhiều món giàu năng lượng, tiêu thụ nhiều đường và di chuyển liên tục làm cơ thể mất cân bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T19:11:00+07:00",
+      "fetched": "2026-03-26T03:29:32.381395+07:00"
+    },
+    {
+      "id": "57c1b2e248b723aaa3c3b59f144a46a4",
+      "title": "Đường huyết cao âm thầm gây ra điều gì cho mạch máu, tim?",
+      "link": "https://thanhnien.vn/duong-huyet-cao-am-tham-gay-ra-dieu-gi-cho-mach-mau-tim-185260326020058703.htm",
+      "summary": "Đường huyết tăng cao có thể âm thầm tàn phá cơ thể, dần dần làm tổn thương các tế bào và cơ quan trước khi bệnh tiểu đường được xác định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T19:01:00+07:00",
+      "fetched": "2026-03-26T03:29:32.381557+07:00"
+    },
+    {
+      "id": "189781eccad68083da043605be5cd1e3",
+      "title": "Trứng vịt, trứng gà và trứng cút: loại nào bổ dưỡng hơn?",
+      "link": "https://thanhnien.vn/trung-vit-trung-ga-va-trung-cut-loai-nao-bo-duong-hon-185260325201050842.htm",
+      "summary": "Trứng gà, trứng vịt và trứng cút là 3 loại trứng phổ biến nhất trong bữa ăn hằng ngày. Tuy nhiên, để đánh giá loại nào bổ dưỡng hơn cần xem xét nhiều yếu tố dinh dưỡng, không chỉ dựa vào kích thước hay màu lòng đỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T18:51:00+07:00",
+      "fetched": "2026-03-26T03:29:32.381709+07:00"
     },
     {
       "id": "5d5ef0bb45ababbea81a133a45506509",
