@@ -1,7 +1,157 @@
 window.newsData_2026_03_25 = {
   "date": "2026-03-25",
-  "lastUpdated": "2026-03-25T19:43:56.575918+07:00",
+  "lastUpdated": "2026-03-25T21:52:15.556993+07:00",
   "articles": [
+    {
+      "id": "96c9ab065bf23fc7069dc41659a10b81",
+      "title": "Tuyển Việt Nam tổng duyệt đội hình mạnh, sẵn sàng đấu Bangladesh",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-tong-duyet-doi-hinh-manh-san-sang-dau-bangladesh-20260325192415096.htm",
+      "summary": "Tối 25-3, đội tuyển Việt Nam tập buổi cuối cùng với lực lượng mạnh nhất trước trận giao hữu với Bangladesh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.422462+07:00",
+      "fetched": "2026-03-25T21:52:09.422575+07:00"
+    },
+    {
+      "id": "adf09594d868a0cf30b579c20d958289",
+      "title": "NASA bỏ trạm Gateway, chuyển hướng xây căn cứ lâu dài trên Mặt trăng",
+      "link": "https://tuoitre.vn/nasa-bo-tram-gateway-chuyen-huong-xay-can-cu-lau-dai-tren-mat-trang-20260325141738561.htm",
+      "summary": "NASA vừa công bố bước ngoặt lớn trong chương trình Artemis khi quyết định dừng dự án trạm vũ trụ quỹ đạo Lunar Gateway, tập trung nguồn lực để xây dựng một căn cứ lâu dài trực tiếp trên bề mặt Mặt trăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.422328+07:00",
+      "fetched": "2026-03-25T21:52:09.422450+07:00"
+    },
+    {
+      "id": "d47ba71c94cbb3c77afc527d67ba4eeb",
+      "title": "Ra mắt Câu lạc bộ xúc tiến thương mại đầu tư, ký ngay các hợp đồng trăm tỉ",
+      "link": "https://tuoitre.vn/ra-mat-cau-lac-bo-xuc-tien-thuong-mai-dau-tu-ky-ngay-cac-hop-dong-tram-ti-20260325190705385.htm",
+      "summary": "Ngày 25-3, Hội Doanh nhân trẻ Việt Nam tổ chức lễ ra mắt Câu lạc bộ Xúc tiến thương mại và đầu tư doanh nhân trẻ Việt Nam nhiệm kỳ 2026-2030 và ký biên bản ghi nhớ hợp tác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.422176+07:00",
+      "fetched": "2026-03-25T21:52:09.422315+07:00"
+    },
+    {
+      "id": "035c3b15926938e350575ea33bb2ea93",
+      "title": "Giá dầu giảm mạnh, cú sốc nguồn cung vẫn còn đó",
+      "link": "https://tuoitre.vn/gia-dau-giam-manh-cu-soc-nguon-cung-van-con-do-20260325183433119.htm",
+      "summary": "Giá dầu giảm mạnh ngay sau tuyên bố của ông Trump, phản ánh kỳ vọng của nhà đầu tư rằng nguy cơ gián đoạn nguồn cung có thể được kiểm soát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.422033+07:00",
+      "fetched": "2026-03-25T21:52:09.422164+07:00"
+    },
+    {
+      "id": "38ed6f556144ad5c6f82189aff0a8c20",
+      "title": "Trả đũa Matxcơva, Ukraine phóng kỷ lục gần 400 drone, lửa bốc cháy ở cảng lớn của Nga",
+      "link": "https://tuoitre.vn/tra-dua-matxcova-ukraine-phong-ky-luc-gan-400-drone-lua-boc-chay-o-cang-lon-cua-nga-20260325195848667.htm",
+      "summary": "Ngày 25-3, Nga cho biết Ukraine đã triển khai đợt không kích với gần 400 drone nhằm vào Nga, gây hỏa hoạn tại cảng Ust-Luga ở phía tây bắc nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.421907+07:00",
+      "fetched": "2026-03-25T21:52:09.422022+07:00"
+    },
+    {
+      "id": "0023b9baee5c61f3a520b362a16e6bfc",
+      "title": "Chuyển 3 cơ quan báo chí VTV, VOV, TTXVN và 2 viện hàn lâm trực thuộc Trung ương Đảng",
+      "link": "https://tuoitre.vn/chuyen-3-co-quan-bao-chi-vtv-vov-ttxvn-va-2-vien-han-lam-truc-thuoc-trung-uong-dang-20260325184428354.htm",
+      "summary": "Ban Chấp hành Trung ương Đảng thống nhất chuyển 5 cơ quan thuộc Chính phủ thành đơn vị sự nghiệp trực thuộc Trung ương, gồm VTV, VOV, TTXVN và 2 viện hàn lâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.421780+07:00",
+      "fetched": "2026-03-25T21:52:09.421895+07:00"
+    },
+    {
+      "id": "4a323180382b591651effbb876c4173d",
+      "title": "Khi người làm sân khấu mong có thêm nhà hát để thuê dài hạn",
+      "link": "https://tuoitre.vn/khi-nguoi-lam-san-khau-mong-co-them-nha-hat-de-thue-dai-han-20260325185924607.htm",
+      "summary": "Đó là trăn trở của người làm sân khấu và cũng là vấn đề mà Ban Tuyên giáo và Dân vận Thành ủy TP.HCM mong muốn lắng nghe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.421654+07:00",
+      "fetched": "2026-03-25T21:52:09.421769+07:00"
+    },
+    {
+      "id": "b802fdc68cb53a2a039584de1f2b10a7",
+      "title": "Tranh cãi vụ bắt cóc 'quá dễ dàng' trong phim Không giới hạn",
+      "link": "https://tuoitre.vn/tranh-cai-vu-bat-coc-qua-de-dang-trong-phim-khong-gioi-han-20260325190210123.htm",
+      "summary": "Tập 31 của Không giới hạn đang tạo nên làn sóng tranh luận trên mạng xã hội về các tình tiết bắt cóc trong phim được xây dựng thiếu hợp lý, diễn ra quá dễ dàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.421529+07:00",
+      "fetched": "2026-03-25T21:52:09.421643+07:00"
+    },
+    {
+      "id": "ab14b66f1ccb2ddd6b913f13cdf3b8cc",
+      "title": "Điều chỉnh dự án bến du thuyền Đà Nẵng: Tăng cây xanh, mở lối đi công cộng",
+      "link": "https://tuoitre.vn/dieu-chinh-du-an-ben-du-thuyen-da-nang-tang-cay-xanh-mo-loi-di-cong-cong-20260325163605872.htm",
+      "summary": "UBND phường Sơn Trà (Đà Nẵng) vừa phê duyệt điều chỉnh quy hoạch chi tiết tỉ lệ 1/500 dự án bất động sản và bến du thuyền Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.421402+07:00",
+      "fetched": "2026-03-25T21:52:09.421517+07:00"
+    },
+    {
+      "id": "2b93293533276f8e30d9b100f5a9f8a1",
+      "title": "Mặt bằng thiếu gần 20ha, nhiều gói thầu dang dở, sân bay Quảng Trị có kịp cho tháng 7?",
+      "link": "https://tuoitre.vn/mat-bang-thieu-gan-20ha-nhieu-goi-thau-dang-do-san-bay-quang-tri-co-kip-cho-thang-7-2026032516342157.htm",
+      "summary": "Mặt bằng dự án sân bay Quảng Trị vẫn còn thiếu gần 20ha, nhiều gói thầu đang thi công dang dở, dù thời điểm đưa sân bay vào khai thác theo hợp đồng BOT là tháng 7 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.421250+07:00",
+      "fetched": "2026-03-25T21:52:09.421389+07:00"
+    },
+    {
+      "id": "99a15425bf32ee290a1a7444b5831a5c",
+      "title": "Việt Nam đăng cai tổ chức Hoa hậu Thế giới Miss World lần thứ 73 năm 2026",
+      "link": "https://tuoitre.vn/viet-nam-dang-cai-to-chuc-hoa-hau-the-gioi-miss-world-lan-thu-73-nam-2026-20260325203912662.htm",
+      "summary": "Đại diện ban tổ chức cuộc thi Miss World Vietnam công bố Việt Nam đăng cai tổ chức Hoa hậu Thế giới Miss World lần thứ 73 năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.421121+07:00",
+      "fetched": "2026-03-25T21:52:09.421238+07:00"
+    },
+    {
+      "id": "2fbaa2ef93e8bf22a5c4b48f4a9a67db",
+      "title": "Từ 'siêu thị không ngủ' đến chợ đầu mối nửa đêm, TP.HCM mở lối cho kinh tế đêm",
+      "link": "https://tuoitre.vn/tu-sieu-thi-khong-ngu-den-cho-dau-moi-nua-dem-tp-hcm-mo-loi-cho-kinh-te-dem-20260325171331714.htm",
+      "summary": "TP.HCM cần một bản sắc đêm riêng để níu chân người phương xa, thay vì để họ kết thúc hành trình quá sớm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.420991+07:00",
+      "fetched": "2026-03-25T21:52:09.421109+07:00"
+    },
+    {
+      "id": "f18e27ea4290fd128992d1b0936c2ca4",
+      "title": "2 cặp diễn viên là vợ chồng ngoài đời lên phim làm vợ chồng tiếp, diễn như không diễn?",
+      "link": "https://tuoitre.vn/2-cap-dien-vien-la-vo-chong-ngoai-doi-len-phim-lam-vo-chong-tiep-dien-nhu-khong-dien-20260325192222963.htm",
+      "summary": "Phim Ngược đường ngược nắng gây chú ý khi quy tụ hai cặp đôi ngoài đời thật và trong phim cũng vào vai vợ chồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.420860+07:00",
+      "fetched": "2026-03-25T21:52:09.420979+07:00"
+    },
+    {
+      "id": "aa8f81af3bb2bc99888b8ff6edc9156e",
+      "title": "TP.HCM dự kiến chuyển trụ sở UBND quận 12, Tân Phú cũ thành trường học",
+      "link": "https://tuoitre.vn/tp-hcm-du-kien-chuyen-tru-so-ubnd-quan-12-tan-phu-cu-thanh-truong-hoc-20260325205859044.htm",
+      "summary": "Các đơn vị thống nhất đề xuất chuyển 2 trụ sở UBND quận 12 và Tân Phú cũ về Sở Giáo dục và Đào tạo quản lý, cải tạo thành trường học, kịp phục vụ năm học 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.420715+07:00",
+      "fetched": "2026-03-25T21:52:09.420847+07:00"
+    },
+    {
+      "id": "2d2464d16f826fb0bac6102f991b1fa0",
+      "title": "Ông Kim Jong Un tiếp đón Tổng thống Belarus thăm Triều Tiên",
+      "link": "https://tuoitre.vn/ong-kim-jong-un-tiep-don-tong-thong-belarus-tham-trieu-tien-20260325210323262.htm",
+      "summary": "Ngày 25-3, nhà lãnh đạo Triều Tiên Kim Jong Un đã tiếp đón Tổng thống Belarus Alexander Lukashenko tại Bình Nhưỡng trong chuyến thăm cấp nhà nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T21:52:09.420474+07:00",
+      "fetched": "2026-03-25T21:52:09.420700+07:00"
+    },
     {
       "id": "b54e7680c8c2643175cc62da410e33b5",
       "title": "200 thí sinh thi chung kết ảnh Tuổi Xanh tại cảng cá Bình Châu",
@@ -303,6 +453,156 @@ window.newsData_2026_03_25 = {
       "fetched": "2026-03-25T17:39:23.528173+07:00"
     },
     {
+      "id": "ee9ab019f7142d84532399a3569d63eb",
+      "title": "Bảng xếp hạng U.23 Việt Nam mới nhất: Bám sát Trung Quốc và Thái Lan, tốp 2 giống… Triều Tiên",
+      "link": "https://thanhnien.vn/bang-xep-hang-u23-viet-nam-moi-nhat-bam-sat-trung-quoc-va-thai-lan-top-2-giong-trieu-tien-185260325213704098.htm",
+      "summary": "Lượt đấu đầu tiên giải CFA Team China - Tây An 2026 đã diễn ra hấp dẫn, khi U.23 Việt Nam và 3 đội U.23 Trung Quốc, Thái Lan và CHDCND Triều Tiên cùng có điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:41:00+07:00",
+      "fetched": "2026-03-25T21:52:08.652653+07:00"
+    },
+    {
+      "id": "3a7f7b6f195e9fb835dcb173c7a38e5b",
+      "title": "Bắt tạm giam chủ tàu cá tàng trữ 95 kg thuốc nổ để khai thác hải sản",
+      "link": "https://thanhnien.vn/bat-tam-giam-chu-tau-ca-tang-tru-95-kg-thuoc-no-de-khai-thac-hai-san-185260325210623551.htm",
+      "summary": "Chủ tàu cá ở đặc khu Lý Sơn (Quảng Ngãi) bị khởi tố, tạm giam do vận chuyển, tàng trữ 95 kg thuốc nổ với mục đích sử dụng trong khai thác hải sản trái phép trên vùng biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:30:00+07:00",
+      "fetched": "2026-03-25T21:52:08.652839+07:00"
+    },
+    {
+      "id": "dcb4b492f2eb0b459924984fdbd24d1a",
+      "title": "Châu Bùi sau 'Em xinh say hi'",
+      "link": "https://thanhnien.vn/chau-bui-sau-em-xinh-say-hi-185260325175027021.htm",
+      "summary": "Sau hiệu ứng lan tỏa từ 'Em xinh say hi', Châu Bùi bước vào một giai đoạn định hình mới: không còn chỉ là một fashionista quen thuộc của Vbiz, mà dần trở thành gương mặt có sức ảnh hưởng ra nước ngoài. Hình ảnh của cô vừa xuất hiện tại Times Square, New York, Mỹ giúp đưa tên tuổi Châu Bùi đến gần hơ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:17:00+07:00",
+      "fetched": "2026-03-25T21:52:08.653000+07:00"
+    },
+    {
+      "id": "094c50bfb6c91039ba0333a51c0c0ebb",
+      "title": "'Đạp lút ga' đo khí thải: 'Không phải gây khó, mà để bảo vệ phương tiện'",
+      "link": "https://thanhnien.vn/dap-lut-ga-do-khi-thai-khong-phai-gay-kho-ma-de-bao-ve-phuong-tien-185260325165401016.htm",
+      "summary": "Trước những tranh luận về thao tác \"đạp lút ga\" khi đo khí thải với các loại xe sử dụng động cơ dầu diesel, Cục Đăng kiểm Việt Nam mới đây khẳng định, phương pháp đo không nhằm mục đích gây khó cho chủ xe, mà là yêu cầu kỹ thuật cần thiết, nhằm đo đúng thực trạng phương tiện và đảm bảo an toàn vận h...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:14:00+07:00",
+      "fetched": "2026-03-25T21:52:08.653160+07:00"
+    },
+    {
+      "id": "2d614434a499bbc0701362c3d46ac53e",
+      "title": "Trịnh Thiếu Thu hiếm hoi lên tiếng sau 3 năm 'biến mất'",
+      "link": "https://thanhnien.vn/trinh-thieu-thu-hiem-hoi-len-tieng-sau-3-nam-bien-mat-18526032519475807.htm",
+      "summary": "Hôm 24.3, tài tử Trịnh Thiếu Thu chia sẻ về cuộc sống ở tuổi 79, giải thích lý do ông không lộ diện, không cập nhật tin tức suốt 3 năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:10:00+07:00",
+      "fetched": "2026-03-25T21:52:08.653338+07:00"
+    },
+    {
+      "id": "aaa57ed387dd7617d52222c7bbc2f9a6",
+      "title": "Miss World lần đầu tổ chức tại Việt Nam",
+      "link": "https://vnexpress.net/miss-world-lan-dau-to-chuc-tai-viet-nam-5054837.html",
+      "summary": "Cuộc thi sắc đẹp lâu đời nhất thế giới - Miss World - lần đầu tiên sẽ tổ chức tại Việt Nam ở mùa giải thứ 73, cuối năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:07:26+07:00",
+      "fetched": "2026-03-25T21:52:03.967173+07:00"
+    },
+    {
+      "id": "323725f46aeaf5812f48cb447252d7b8",
+      "title": "Nam sinh lớp 12 viết mã độc xâm nhập hơn 94.000 máy tính trên thế giới",
+      "link": "https://thanhnien.vn/nam-sinh-lop-12-viet-ma-doc-xam-nhap-hon-94000-may-tinh-tren-the-gioi-185260325131301421.htm",
+      "summary": "Một nam sinh lớp 12 ở tỉnh Thanh Hóa đã viết nhiều mã độc xâm nhập hơn 94.000 máy tính của người dùng ở nhiều nước thuộc khu vực châu Âu, châu Mỹ, châu Á để lấy dữ liệu, chiếm đoạt quyền điều khiển máy tính, tài khoản mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:05:00+07:00",
+      "fetched": "2026-03-25T21:52:08.653497+07:00"
+    },
+    {
+      "id": "8ac895da616c1bd24d009390b737d1c8",
+      "title": "Kim Bum chào fan bằng tiếng Việt, xác nhận về Việt Nam tổ chức fan meeting",
+      "link": "https://thanhnien.vn/kim-bum-chao-fan-bang-tieng-viet-xac-nhan-ve-viet-nam-to-chuc-fan-meeting-185260325193625543.htm",
+      "summary": "Không chỉ dừng lại ở vai trò đại sứ cho Beauty Summit 2026, ‘nam thần không tuổi’ Kim Bum còn khiến người hâm mộ vỡ òa khi xác nhận sẽ tổ chức một buổi gặp gỡ fan ngay tại Hà Nội vào giữa tháng 6 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:04:00+07:00",
+      "fetched": "2026-03-25T21:52:08.653651+07:00"
+    },
+    {
+      "id": "9cbcaf9e0d3bc30f5b73a354107a199f",
+      "title": "Đàn ông xài kem chống nắng, skincare thì không nam tính?",
+      "link": "https://vnexpress.net/cham-soc-da-cho-nam-gioi-skincare-cho-nam-gioi-la-khong-nam-tinh-5054727.html",
+      "summary": "Tôi 29 tuổi, mỗi khi xài kem chống nắng phải lén lút vì nhiều người dè bỉu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:00:00+07:00",
+      "fetched": "2026-03-25T21:52:03.967389+07:00"
+    },
+    {
+      "id": "3f8cd9cc1c1a276b9a66497c37b9a9bf",
+      "title": "Tranh cãi ‘kim tự tháp’ ở Nam Cực",
+      "link": "https://thanhnien.vn/tranh-cai-kim-tu-thap-o-nam-cuc-18526032518040561.htm",
+      "summary": "Một cấu trúc phủ băng tại Nam Cực có hình dạng giống kim tự tháp Giza của Ai Cập đang gây chú ý và làm dấy lên nhiều luồng tranh luận trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:00:00+07:00",
+      "fetched": "2026-03-25T21:52:08.653802+07:00"
+    },
+    {
+      "id": "329439875df529c8ff876aaab2de2f86",
+      "title": "Trung Quốc tìm phương pháp phóng tên lửa từ độ sâu 200 m dưới biển",
+      "link": "https://thanhnien.vn/trung-quoc-tim-phuong-phap-phong-ten-lua-tu-do-sau-200-m-duoi-bien-185260325172329786.htm",
+      "summary": "Những cuộc thử nghiệm do các nhà khoa học Trung Quốc tiến hành cho thấy động cơ tên lửa sử dụng nhiên liệu rắn có thể đốt cháy ở độ sâu 200 m, sâu hơn nhiều so với tên lửa phóng từ tàu ngầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:00:00+07:00",
+      "fetched": "2026-03-25T21:52:08.653954+07:00"
+    },
+    {
+      "id": "ef6654a07f790e1dd1184f9c88bbb4df",
+      "title": "Sáng nào cũng ăn 1 quả trứng: Điều gì xảy ra với cơ thể?",
+      "link": "https://thanhnien.vn/sang-nao-cung-an-1-qua-trung-dieu-gi-xay-ra-voi-co-the-185260325205922765.htm",
+      "summary": "Trứng là thực phẩm quen thuộc trong bữa sáng của nhiều người nhờ tiện lợi và giàu dinh dưỡng. Tuy nhiên, việc ăn trứng mỗi ngày có thực sự tốt cho sức khỏe là vấn đề được nhiều người quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:59:00+07:00",
+      "fetched": "2026-03-25T21:52:08.654109+07:00"
+    },
+    {
+      "id": "a97213c85728976fe645cc8416f0ee17",
+      "title": "Nhan sắc MC song ngữ vào top 20 Miss World Vietnam",
+      "link": "https://thanhnien.vn/nhan-sac-mc-song-ngu-vao-top-20-miss-world-vietnam-185260325191512004.htm",
+      "summary": "Lê Phương Khánh Như (SBD 168) giành chiến thắng phần thi Người đẹp bản lĩnh, qua đó góp mặt trong top 20 Miss World Vietnam 2025 - Hoa hậu Thế giới Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:58:00+07:00",
+      "fetched": "2026-03-25T21:52:08.654287+07:00"
+    },
+    {
+      "id": "4954b5ef7a80e66511888f8af9af563f",
+      "title": "Starlink nâng tầm trải nghiệm Wi-Fi trên máy bay",
+      "link": "https://thanhnien.vn/starlink-nang-tam-trai-nghiem-wi-fi-tren-may-bay-185260325130334559.htm",
+      "summary": "Khi nhắc đến Starlink, nhiều người sẽ nghĩ ngay đến các vệ tinh của công ty giúp duy trì kết nối ngay cả ở những khu vực không có sóng di động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:56:00+07:00",
+      "fetched": "2026-03-25T21:52:08.654446+07:00"
+    },
+    {
+      "id": "9f958430051e6afe0de39d5f52856e5f",
+      "title": "Nam ca sĩ giờ là thầy giáo, tiết lộ cuộc sống tuổi 40",
+      "link": "https://thanhnien.vn/nam-ca-si-gio-la-thay-giao-tiet-lo-cuoc-song-tuoi-40-185260325203002709.htm",
+      "summary": "Ở tuổi 40, bên cạnh công việc nghệ thuật, Triệu Lộc còn tất bật với công việc giảng dạy. Nam ca sĩ vẫn sắp xếp thời gian để chăm lo tổ ấm nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:55:00+07:00",
+      "fetched": "2026-03-25T21:52:08.654598+07:00"
+    },
+    {
       "id": "7dcfdf09a13878d9d5fa3e2e3e65d462",
       "title": "HLV tuyển Bangladesh: Mong đấu với đội hình mạnh nhất của tuyển Việt Nam",
       "link": "https://tuoitre.vn/hlv-tuyen-bangladesh-mong-dau-voi-doi-hinh-manh-nhat-cua-tuyen-viet-nam-20260325113603752.htm",
@@ -453,6 +753,156 @@ window.newsData_2026_03_25 = {
       "fetched": "2026-03-25T13:52:19.138329+07:00"
     },
     {
+      "id": "7bdab585acacc2cdc4975b92bee474a7",
+      "title": "Du khách đối mặt nguy cơ bị hủy visa vì dữ liệu trong điện thoại",
+      "link": "https://vnexpress.net/du-khach-doi-mat-nguy-co-bi-huy-visa-vi-du-lieu-trong-dien-thoai-5054737.html",
+      "summary": "Lực lượng an ninh biên giới ở nhiều quốc gia có thẩm quyền khám xét dữ liệu điện tử trên thiết bị cá nhân của hành khách nhằm ngăn chặn tội phạm hoặc lao động trái phép",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:43:48+07:00",
+      "fetched": "2026-03-25T21:52:03.967585+07:00"
+    },
+    {
+      "id": "ea159343566bb29e6557c7a9e4348d84",
+      "title": "Cựu sao Ngoại hạng Anh Hamza Choudhury xuất hiện tại sân Hàng Đẫy, đối đầu Xuân Son: Ai thắng ai?",
+      "link": "https://thanhnien.vn/cuu-sao-ngoai-hang-anh-hamza-choudhury-xuat-hien-tai-san-hang-day-doi-dau-xuan-son-ai-thang-ai-185260325202647614.htm",
+      "summary": "Chiều 25.3 tại sân Hàng Đẫy, đội tuyển Bangladesh có buổi tập làm quen trước trận giao hữu với đội tuyển Việt Nam, trong đó có sự xuất hiện của tiền vệ Hamza Choudhury – người từng thi đấu tại giải Ngoại hạng Anh trong màu áo Leicester City.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:34:00+07:00",
+      "fetched": "2026-03-25T21:52:08.654757+07:00"
+    },
+    {
+      "id": "a82f3c17b85bfb5829a4f1897323ffa9",
+      "title": "Honda Square X125 2026 - xe phượt cá tính đầu tiên về Việt Nam",
+      "link": "https://vnexpress.net/honda-square-x125-2026-xe-phuot-ca-tinh-dau-tien-ve-viet-nam-5054721.html",
+      "summary": "Mẫu xe ga của Honda với động cơ 125 phân khối, thiết kế hầm hố, phá cách kèm nhiều phụ kiện tùy biến cho người chơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:30:26+07:00",
+      "fetched": "2026-03-25T21:52:03.967747+07:00"
+    },
+    {
+      "id": "9ba6b6e3c88d53cc1225d34a7f3dbcf8",
+      "title": "Tài xế taxi ở Lâm Đồng: 'Hoảng loạn khi xe bị đập phá'",
+      "link": "https://vnexpress.net/tai-xe-taxi-o-lam-dong-hoang-loan-khi-xe-bi-dap-pha-5054826.html",
+      "summary": "Chở người phụ nữ đi chưa đầy 100 m, anh Long bị chồng của khách đuổi theo, ép dừng giữa đường rồi đập cửa kính khiến anh hoảng loạn, chỉ biết giữ khoảng cách để không bị đánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:23:10+07:00",
+      "fetched": "2026-03-25T21:52:03.967905+07:00"
+    },
+    {
+      "id": "75a19a8780e87737e308ae01b9a96d90",
+      "title": "Động thái lạ của các sàn tiền số quốc tế tại Việt Nam",
+      "link": "https://thanhnien.vn/dong-thai-la-cua-cac-san-tien-so-quoc-te-tai-viet-nam-185260325141356909.htm",
+      "summary": "OKX lỗi tính năng P2P trong khi Binance tuyển nhân sự tại Việt Nam khiến cộng đồng bất ngờ trong bối cảnh các sàn giao dịch tiền số trong nước sắp được cấp phép thí điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:17:00+07:00",
+      "fetched": "2026-03-25T21:52:08.654911+07:00"
+    },
+    {
+      "id": "8606b92c436505bc663d75d2c0665a6a",
+      "title": "Thông báo hội nghị lần thứ hai Ban Chấp hành Trung ương Đảng khóa 14",
+      "link": "https://vnexpress.net/thong-bao-hoi-nghi-lan-thu-hai-ban-chap-hanh-trung-uong-dang-khoa-14-5054832.html",
+      "summary": "VnExpress giới thiệu nội dung Thông báo hội nghị lần thứ hai Ban Chấp hành Trung ương Đảng khóa 14, phát tối 25/3, ngay sau khi bế mạc hội nghị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:13:01+07:00",
+      "fetched": "2026-03-25T21:52:03.968069+07:00"
+    },
+    {
+      "id": "1537d7b444d7a5c0b91da3075443a301",
+      "title": "Israel tập kích trung tâm tàu ngầm duy nhất của Iran",
+      "link": "https://vnexpress.net/israel-tap-kich-trung-tam-tau-ngam-duy-nhat-cua-iran-5054823.html",
+      "summary": "Quân đội Israel tuyên bố tấn công cơ sở phát triển tàu ngầm tại Isfahan, trong khi Iran phóng tên lửa, UAV đáp trả vào Israel và loạt nước vùng Vịnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:05:47+07:00",
+      "fetched": "2026-03-25T21:52:03.968234+07:00"
+    },
+    {
+      "id": "1537d7b444d7a5c0b91da3075443a301",
+      "title": "Israel tập kích trung tâm tàu ngầm duy nhất của Iran",
+      "link": "https://vnexpress.net/israel-tap-kich-trung-tam-tau-ngam-duy-nhat-cua-iran-5054823.html",
+      "summary": "Quân đội Israel tuyên bố tấn công cơ sở phát triển tàu ngầm tại Isfahan, trong khi Iran phóng tên lửa, UAV đáp trả vào Israel và loạt nước vùng Vịnh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-25T13:05:47+07:00",
+      "fetched": "2026-03-25T21:52:10.808474+07:00"
+    },
+    {
+      "id": "85fcf21510bbb316810e48d839481c9a",
+      "title": "Lập sàn giao dịch tiền mã hóa giúp ngăn lừa đảo mạng",
+      "link": "https://vnexpress.net/lap-san-giao-dich-tien-ma-hoa-giup-ngan-lua-dao-mang-5054816.html",
+      "summary": "Theo đại diện Bộ Công an, sự ra đời của các sàn giao dịch tiền mã hóa chính thống tại Việt Nam sẽ giúp giảm thiểu hành vi vi phạm pháp luật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:00:55+07:00",
+      "fetched": "2026-03-25T21:52:03.968419+07:00"
+    },
+    {
+      "id": "85fcf21510bbb316810e48d839481c9a",
+      "title": "Lập sàn giao dịch tiền mã hóa giúp ngăn lừa đảo mạng",
+      "link": "https://vnexpress.net/lap-san-giao-dich-tien-ma-hoa-giup-ngan-lua-dao-mang-5054816.html",
+      "summary": "Theo đại diện Bộ Công an, sự ra đời của các sàn giao dịch tiền mã hóa chính thống tại Việt Nam sẽ giúp giảm thiểu hành vi vi phạm pháp luật.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-25T13:00:55+07:00",
+      "fetched": "2026-03-25T21:52:14.217623+07:00"
+    },
+    {
+      "id": "c107924fce08b0dc3d6ede3a03146f2e",
+      "title": "Cuộc sống của Orlando Bloom sau hủy hôn Katy Perry",
+      "link": "https://vnexpress.net/cuoc-song-cua-orlando-bloom-sau-huy-hon-katy-perry-5054617.html",
+      "summary": "Tài tử Orlando Bloom được cho đang hẹn hò người mẫu Thụy Sĩ kém 21 tuổi, giữ mối quan hệ tốt với Katy Perry sau chia tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:00:00+07:00",
+      "fetched": "2026-03-25T21:52:03.968603+07:00"
+    },
+    {
+      "id": "c28cb344a242126c9c8b0af5d5f11de9",
+      "title": "Những địa danh biểu tượng trên đường Giải chạy đêm TP HCM",
+      "link": "https://vnexpress.net/dia-danh-bieu-tuong-tphcm-5054789.html",
+      "summary": "Dinh Độc Lập, Nhà thờ Đức Bà, Bưu điện Trung tâm hay Nhà hát Thành phố nằm trên cung đường VM Ho Chi Minh City Midnight 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:00:00+07:00",
+      "fetched": "2026-03-25T21:52:03.968770+07:00"
+    },
+    {
+      "id": "06694477d26a6b8ff3efb18cb937119a",
+      "title": "Phẫu thuật hẹp niệu đạo có gây yếu sinh lý không?",
+      "link": "https://vnexpress.net/phau-thuat-hep-nieu-dao-co-gay-yeu-sinh-ly-khong-5054743.html",
+      "summary": "Tôi bị hẹp niệu đạo gần gốc dương vật, nếu phẫu thuật có ảnh hưởng khả năng cương dương và sinh sản sau này không? (Duy Anh, Long An)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:00:00+07:00",
+      "fetched": "2026-03-25T21:52:03.968926+07:00"
+    },
+    {
+      "id": "c72faa6685f492f8727f5125c63cfc1a",
+      "title": "Yếu tố hút phái đẹp của Toyota Vios",
+      "link": "https://vnexpress.net/yeu-to-hut-phai-dep-cua-toyota-vios-5052213.html",
+      "summary": "Mẫu sedan cỡ B có thiết kế bắt mắt hơn so với trước đây, kích thước vừa phải và dễ lái, phù hợp khách hàng nữ lần đầu sử dụng ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:00:00+07:00",
+      "fetched": "2026-03-25T21:52:03.969086+07:00"
+    },
+    {
+      "id": "98906a448416ce055eda18160f987a23",
+      "title": "5 cơ quan thuộc Chính phủ chuyển thành đơn vị sự nghiệp của Trung ương Đảng",
+      "link": "https://vnexpress.net/5-co-quan-thuoc-chinh-phu-chuyen-thanh-don-vi-su-nghiep-cua-trung-uong-dang-5054827.html",
+      "summary": "Ban Chấp hành Trung ương Đảng thống nhất chuyển 5 cơ quan thuộc Chính phủ thành đơn vị sự nghiệp trực thuộc Trung ương, gồm các cơ quan truyền thông chủ lực và hai viện hàn lâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T12:44:32+07:00",
+      "fetched": "2026-03-25T21:52:03.969246+07:00"
+    },
+    {
       "id": "8402fd42c8f1b03497e8146cb80eb76c",
       "title": "Clip thanh niên ép xe taxi giữa Quốc lộ 20, dùng gậy sắt đập vỡ kính",
       "link": "https://thanhnien.vn/clip-thanh-nien-ep-xe-taxi-giua-quoc-lo-20-dung-gay-sat-dap-vo-kinh-185260325184610448.htm",
@@ -461,6 +911,16 @@ window.newsData_2026_03_25 = {
       "category": "Tổng hợp",
       "published": "2026-03-25T12:37:00+07:00",
       "fetched": "2026-03-25T19:43:47.845416+07:00"
+    },
+    {
+      "id": "6d2b97bcc80b11eb616f9bdc4a13bdc6",
+      "title": "Trung ương đồng ý lập thành phố Đồng Nai trực thuộc Trung ương",
+      "link": "https://vnexpress.net/trung-uong-dong-y-lap-thanh-pho-dong-nai-truc-thuoc-trung-uong-5054822.html",
+      "summary": "Ban Chấp hành Trung ương Đảng đồng ý chủ trương lập thành phố Đồng Nai trực thuộc Trung ương, giao hoàn thiện hồ sơ để trình Quốc hội khóa 16 xem xét, quyết định tại kỳ họp đầu tháng 4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T12:28:53+07:00",
+      "fetched": "2026-03-25T21:52:03.969428+07:00"
     },
     {
       "id": "3a9f2a125e9794a8a97f09b44f9a70db",
