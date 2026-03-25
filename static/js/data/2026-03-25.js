@@ -1,7 +1,107 @@
 window.newsData_2026_03_25 = {
   "date": "2026-03-25",
-  "lastUpdated": "2026-03-25T21:52:15.556993+07:00",
+  "lastUpdated": "2026-03-25T23:54:12.224909+07:00",
   "articles": [
+    {
+      "id": "979d26425b9735154175936769e0aa62",
+      "title": "Thanh niên 23 tuổi cướp giật 8 vụ, nhắm vào phụ nữ và tiệm vàng",
+      "link": "https://tuoitre.vn/thanh-nien-23-tuoi-cuop-giat-8-vu-nham-vao-phu-nu-va-tiem-vang-20260325212839927.htm",
+      "summary": "Nguyễn Duy Khánh bị Cảnh sát hình sự Hà Nội bắt giữ với cáo buộc thực hiện 8 vụ cướp giật tài sản, trong đó có một vụ cướp tại cửa hàng vàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T23:54:05.138407+07:00",
+      "fetched": "2026-03-25T23:54:05.138522+07:00"
+    },
+    {
+      "id": "ab425620e07743ca32f14757b13f65d8",
+      "title": "Truy tố Nguyễn Đình Thắng tội khủng bố tại Đắk Lắk",
+      "link": "https://tuoitre.vn/truy-to-nguyen-dinh-thang-toi-khung-bo-tai-dak-lak-20260325215230528.htm",
+      "summary": "Cơ quan chức năng xác định Nguyễn Đình Thắng có hành vi chỉ đạo, xúi giục vụ giết người tại Đắk Lắk năm 2023.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T23:54:05.138276+07:00",
+      "fetched": "2026-03-25T23:54:05.138390+07:00"
+    },
+    {
+      "id": "78d1422fed2774139b5bfa386e24df20",
+      "title": "Thủ tướng Phạm Minh Chính hội kiến Tổng thống Nga Putin tại Điện Kremlin",
+      "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-hoi-kien-tong-thong-nga-putin-tai-dien-kremlin-20260325214358098.htm",
+      "summary": "Tối 25-3 (giờ Việt Nam), Thủ tướng Phạm Minh Chính đã hội kiến Tổng thống Nga Vladimir Putin tại Điện Kremlin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T23:54:05.138147+07:00",
+      "fetched": "2026-03-25T23:54:05.138264+07:00"
+    },
+    {
+      "id": "2c9c1f22e6f972907bb3471393e59b43",
+      "title": "Thêm 1 con cá rồng biển trôi dạt vào vùng biển Bình Thuận",
+      "link": "https://tuoitre.vn/them-1-con-ca-rong-bien-troi-dat-vao-vung-bien-binh-thuan-20260325214459594.htm",
+      "summary": "Ngày 25-3, người dân xã Phan Rí Cửa, tỉnh Lâm Đồng (vùng Bình Thuận cũ) phát hiện xác một con cá rồng biển (còn gọi cá mái chèo) trôi dạt vào bờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T23:54:05.137990+07:00",
+      "fetched": "2026-03-25T23:54:05.138135+07:00"
+    },
+    {
+      "id": "e0edef46f2dc7c48345ef8159c7b107c",
+      "title": "Thủ tướng đề nghị Nga đẩy mạnh hợp tác đường sắt, tàu điện ngầm",
+      "link": "https://tuoitre.vn/thu-tuong-de-nghi-nga-day-manh-hop-tac-duong-sat-tau-dien-ngam-20260325220516536.htm",
+      "summary": "Thủ tướng Phạm Minh Chính đề nghị hai bên lập ngay tổ công tác phối hợp triển khai công việc để thúc đẩy vận chuyển hàng hóa đường sắt giữa hai nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T23:54:05.137865+07:00",
+      "fetched": "2026-03-25T23:54:05.137978+07:00"
+    },
+    {
+      "id": "8fc188e52c135582d95ca94f4e01ebb6",
+      "title": "Mổ khối u xơ tử cung to như bụng bầu song thai những tuần cuối",
+      "link": "https://tuoitre.vn/mo-khoi-u-xo-tu-cung-to-nhu-bung-bau-song-thai-nhung-tuan-cuoi-20260325215937813.htm",
+      "summary": "Người phụ nữ 25 tuổi mang khối u xơ tử cung gần 12kg (tương đương bà bầu mang song thai 36-38 tuần) vừa được phẫu thuật thành công, bảo tồn được tử cung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T23:54:05.137737+07:00",
+      "fetched": "2026-03-25T23:54:05.137853+07:00"
+    },
+    {
+      "id": "856889799c06e09620e163b92125d7df",
+      "title": "Tỉnh Đoàn Gia Lai tuyên dương 95 gương cán bộ Đoàn, đoàn viên tiêu biểu",
+      "link": "https://tuoitre.vn/tinh-doan-gia-lai-tuyen-duong-95-guong-can-bo-doan-doan-vien-tieu-bieu-20260325215006119.htm",
+      "summary": "Tỉnh Đoàn Gia Lai tuyên dương 95 gương cán bộ, đoàn viên, tập thể tiêu biểu năm 2026 và có thành tích đặc biệt xuất sắc trong \"Chiến dịch Quang Trung thần tốc\"...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T23:54:05.137609+07:00",
+      "fetched": "2026-03-25T23:54:05.137726+07:00"
+    },
+    {
+      "id": "7a8da37a57a8782aafeb90497d40f95a",
+      "title": "Trao Giải thưởng Gương mặt trẻ Việt Nam tiêu biểu 2025 cho 10 thanh niên ưu tú",
+      "link": "https://tuoitre.vn/trao-giai-thuong-guong-mat-tre-viet-nam-tieu-bieu-2025-cho-10-thanh-nien-uu-tu-20260325222838838.htm",
+      "summary": "Lễ trao Giải thưởng Gương mặt trẻ Việt Nam tiêu biểu 2025 vừa diễn ra tối 25-3 tại Hà Nội, tôn vinh những cá nhân xuất sắc trong lĩnh vực công nghệ, khoa học và khởi nghiệp, hội nhập quốc tế...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T23:54:05.137477+07:00",
+      "fetched": "2026-03-25T23:54:05.137597+07:00"
+    },
+    {
+      "id": "a4b6bcf29c4d5550981536667503549a",
+      "title": "Trung ương Đoàn tặng bằng khen cho Đoàn trường ĐH Vinh vì dấu ấn tình nguyện",
+      "link": "https://tuoitre.vn/trung-uong-doan-tang-bang-khen-cho-doan-truong-dh-vinh-vi-dau-an-tinh-nguyen-20260325221744557.htm",
+      "summary": "Các hoạt động tình nguyện của sinh viên Trường Đại học Vinh, Nghệ An đã phát huy vai trò tiên phong trong học tập, lao động, sáng tạo và tình nguyện vì cộng đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T23:54:05.137337+07:00",
+      "fetched": "2026-03-25T23:54:05.137464+07:00"
+    },
+    {
+      "id": "ad04702fbd7fab0626af2808fa60dac0",
+      "title": "Truyền hình nhà nước Iran: 'Bác bỏ kế hoạch 15 điểm của Mỹ, cuộc chiến sẽ hết khi nào Iran muốn'",
+      "link": "https://tuoitre.vn/truyen-hinh-nha-nuoc-iran-bac-bo-ke-hoach-15-diem-cua-my-cuoc-chien-se-het-khi-nao-iran-muon-20260325230037361.htm",
+      "summary": "Truyền hình nhà nước Iran Press TV ngày 25-3 dẫn lời một quan chức cấp cao nước này cho biết Tehran đã bác bỏ kế hoạch hòa bình do Mỹ đề xuất nhằm chấm dứt chiến sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T23:54:05.137152+07:00",
+      "fetched": "2026-03-25T23:54:05.137322+07:00"
+    },
     {
       "id": "96c9ab065bf23fc7069dc41659a10b81",
       "title": "Tuyển Việt Nam tổng duyệt đội hình mạnh, sẵn sàng đấu Bangladesh",
@@ -453,6 +553,136 @@ window.newsData_2026_03_25 = {
       "fetched": "2026-03-25T17:39:23.528173+07:00"
     },
     {
+      "id": "e4629ef45b2b897611cf6984798db138",
+      "title": "Bán Netflix, phạt như lập sàn đánh bạc",
+      "link": "https://vnexpress.net/ban-netflix-phat-nhu-lap-san-danh-bac-5054861.html",
+      "summary": "“Tại sao việc vi phạm hợp đồng giữa người mua và nhà cung cấp dịch vụ lại trở thành câu chuyện an ninh mạng?”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T16:29:45+07:00",
+      "fetched": "2026-03-25T23:54:01.330513+07:00"
+    },
+    {
+      "id": "fd8c36de58b6fafab84825f6ed5f437e",
+      "title": "Iran bác đề xuất ngừng bắn của Mỹ",
+      "link": "https://vnexpress.net/iran-bac-de-xuat-ngung-ban-cua-my-5054854.html",
+      "summary": "Truyền thông nhà nước Iran dẫn lời quan chức cấp cao nước này cho biết Tehran đã xem xét và bác bỏ đề xuất chấm dứt xung đột do Washington đưa ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T15:22:58+07:00",
+      "fetched": "2026-03-25T23:54:01.330691+07:00"
+    },
+    {
+      "id": "fd8c36de58b6fafab84825f6ed5f437e",
+      "title": "Iran bác đề xuất ngừng bắn của Mỹ",
+      "link": "https://vnexpress.net/iran-bac-de-xuat-ngung-ban-cua-my-5054854.html",
+      "summary": "Truyền thông nhà nước Iran dẫn lời quan chức cấp cao nước này cho biết Tehran đã xem xét và bác bỏ đề xuất chấm dứt xung đột do Washington đưa ra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-25T15:22:58+07:00",
+      "fetched": "2026-03-25T23:54:06.329335+07:00"
+    },
+    {
+      "id": "d968a757f4d1bc3015d2500d5727235d",
+      "title": "‘Người hùng bí ẩn’ phá mái tôn: ‘Nay mình giúp người, mai người giúp mình’",
+      "link": "https://thanhnien.vn/nguoi-hung-bi-an-pha-mai-ton-nay-minh-giup-nguoi-mai-nguoi-giup-minh-185260325221407446.htm",
+      "summary": "Giẫm lên mái tôn bỏng rát trên tầng thượng ngôi nhà 7 tầng đang cháy, anh Dung dùng hết sức bình sinh, đập liên tục khiến mái tôn ngôi nhà vỡ ra vừa đủ để đưa 7 người trong nhà mắc kẹt ra ngoài an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T15:21:00+07:00",
+      "fetched": "2026-03-25T23:54:04.236230+07:00"
+    },
+    {
+      "id": "7c12aacc341a08e11b51578fb06e8a49",
+      "title": "'Không diệt không sinh đừng sợ hãi' - hiểu về sinh tử",
+      "link": "https://vnexpress.net/khong-diet-khong-sinh-dung-so-hai-hieu-ve-sinh-tu-5054851.html",
+      "summary": "Đọc ''Không diệt không sinh đừng sợ hãi'' của thiền sư Thích Nhất Hạnh, tôi nhận ra khi tìm hiểu về nghệ thuật chết, bạn sẽ nắm được nghệ thuật sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T15:13:04+07:00",
+      "fetched": "2026-03-25T23:54:01.330854+07:00"
+    },
+    {
+      "id": "a922033387b9aa58af005a0f08da3b91",
+      "title": "HVA hứa sẽ hoàn trả tài sản cho người dùng",
+      "link": "https://vnexpress.net/hva-hua-se-hoan-tra-tai-san-cho-nguoi-dung-5054853.html",
+      "summary": "HVA - nhà đầu tư chiến lược của ONUS - cam kết bảo toàn và sẽ hoàn trả tài sản cho người dùng khi điều kiện pháp lý cho phép.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T15:12:05+07:00",
+      "fetched": "2026-03-25T23:54:01.331019+07:00"
+    },
+    {
+      "id": "a922033387b9aa58af005a0f08da3b91",
+      "title": "HVA hứa sẽ hoàn trả tài sản cho người dùng",
+      "link": "https://vnexpress.net/hva-hua-se-hoan-tra-tai-san-cho-nguoi-dung-5054853.html",
+      "summary": "HVA - nhà đầu tư chiến lược của ONUS - cam kết bảo toàn và sẽ hoàn trả tài sản cho người dùng khi điều kiện pháp lý cho phép.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-25T15:12:05+07:00",
+      "fetched": "2026-03-25T23:54:07.546542+07:00"
+    },
+    {
+      "id": "977eee3670cccd71de5f13131e16fdf3",
+      "title": "Bắt 7 bác sĩ ‘dởm’ dùng nước muối để tiêm tăng kích cỡ dương vật cho khách",
+      "link": "https://thanhnien.vn/bat-7-bac-si-dom-dung-nuoc-muoi-de-tiem-tang-kich-co-duong-vat-cho-khach-185260325213641931.htm",
+      "summary": "Công an Hà Nội vừa khởi tố, bắt tạm giam 7 người giả danh bác sĩ để tư vấn, dùng nước muối sinh lý hoặc filler không được phép lưu hành để tiêm tăng kích cỡ dương vật cho khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T15:04:00+07:00",
+      "fetched": "2026-03-25T23:54:04.236396+07:00"
+    },
+    {
+      "id": "ff1ddd9db7ed742eb8eb83ea57c020f2",
+      "title": "Nhóm 'cát tặc' tẩu thoát, bỏ lại phương tiện khi bị CSGT truy đuổi",
+      "link": "https://thanhnien.vn/nhom-cat-tac-tau-thoat-bo-lai-phuong-tien-khi-bi-csgt-truy-duoi-185260325210145974.htm",
+      "summary": "Bị lực lượng CSGT Đồng Tháp truy đuổi, nhóm 'cát tặc' nhảy xuống kênh Bảo Định tẩu thoát, bỏ lại phương tiện gắn thiết bị bơm hút cát trái phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T15:02:00+07:00",
+      "fetched": "2026-03-25T23:54:04.236551+07:00"
+    },
+    {
+      "id": "9fbc344306f317606b87a46912d0e1c3",
+      "title": "Chân váy tennis giao thoa giữa năng động và quyến rũ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chan-vay-tennis-giao-thoa-giua-nang-dong-va-quyen-ru-185260324142758732.htm",
+      "summary": "Khám phá sức hút bất tận của chân váy tennis, món đồ mang lại vẻ ngoài năng động và cực kỳ sành điệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T15:00:00+07:00",
+      "fetched": "2026-03-25T23:54:04.236702+07:00"
+    },
+    {
+      "id": "1baae3e835b5c86d8e05b56050e4d3ad",
+      "title": "U.23 Trung Quốc bị chỉ trích vì chơi thô bạo, hòa nhọc nhằn U.23 Thái Lan",
+      "link": "https://thanhnien.vn/u23-trung-quoc-bi-chi-trich-vi-choi-tho-bao-hoa-nhoc-nhan-u23-thai-lan-185260325214045741.htm",
+      "summary": "Trận hòa 2-2 trước U.23 Thái Lan tại lượt 1, giải giao hữu CFA Team China 2026 ở Tây An tối 25.3 tưởng chừng chỉ là một kết quả ‘tạm chấp nhận’, nhưng lại khiến truyền thông và CĐV Trung Quốc dậy sóng chỉ trích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:59:00+07:00",
+      "fetched": "2026-03-25T23:54:04.236852+07:00"
+    },
+    {
+      "id": "f1181216991e6b87389476dc95e53d54",
+      "title": "Hoa hậu Thiên Ân: 'Tôi bị chê xấu khi để mặt mộc đóng phim'",
+      "link": "https://vnexpress.net/hoa-hau-thien-an-toi-bi-che-xau-khi-de-mat-moc-dong-phim-5054809.html",
+      "summary": "Đoàn Thiên Ân cho biết đóng \"Hẹn em ngày nhật thực\", cô bị khán giả chê kém sắc khi để mặt mộc, song chấp nhận vì muốn tạo hình chân thực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:50:16+07:00",
+      "fetched": "2026-03-25T23:54:01.331210+07:00"
+    },
+    {
+      "id": "ff70f4d075edddcbfbfa68694b9b7143",
+      "title": "Thần đồng 8 tuổi từng là lập trình viên Apple",
+      "link": "https://vnexpress.net/than-dong-8-tuoi-tung-la-lap-trinh-vien-apple-5054855.html",
+      "summary": "Ở tuổi lên 8, Ranvir Sachdeva là lập trình viên tài năng, diễn giả tại các hội nghị công nghệ, có năng lực học tập tương đương học sinh 14 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:48:34+07:00",
+      "fetched": "2026-03-25T23:54:01.331379+07:00"
+    },
+    {
       "id": "ee9ab019f7142d84532399a3569d63eb",
       "title": "Bảng xếp hạng U.23 Việt Nam mới nhất: Bám sát Trung Quốc và Thái Lan, tốp 2 giống… Triều Tiên",
       "link": "https://thanhnien.vn/bang-xep-hang-u23-viet-nam-moi-nhat-bam-sat-trung-quoc-va-thai-lan-top-2-giong-trieu-tien-185260325213704098.htm",
@@ -461,6 +691,16 @@ window.newsData_2026_03_25 = {
       "category": "Tổng hợp",
       "published": "2026-03-25T14:41:00+07:00",
       "fetched": "2026-03-25T21:52:08.652653+07:00"
+    },
+    {
+      "id": "35a933a0310f7a3b51c15ca06b13bea0",
+      "title": "2.200 người diễn thực cảnh tại lễ khai mạc Năm Du lịch quốc gia",
+      "link": "https://vnexpress.net/2-200-nguoi-dien-thuc-canh-tai-le-khai-mac-nam-du-lich-quoc-gia-5054445.html",
+      "summary": "Ban tổ chức huy động 2.200 người để dàn dựng chương trình nghệ thuật thực cảnh tại lễ khai mạc Năm Du lịch quốc gia 2026 ở Quảng trường Nguyễn Tất Thành, phường Quy Nhơn, tối 28/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T14:36:51+07:00",
+      "fetched": "2026-03-25T23:54:01.331541+07:00"
     },
     {
       "id": "3a7f7b6f195e9fb835dcb173c7a38e5b",
@@ -761,6 +1001,16 @@ window.newsData_2026_03_25 = {
       "category": "Tổng hợp",
       "published": "2026-03-25T13:43:48+07:00",
       "fetched": "2026-03-25T21:52:03.967585+07:00"
+    },
+    {
+      "id": "1ab1989a49ba7ba9609a874c64ea349f",
+      "title": "Du khách có thể bị hủy visa vì dữ liệu trong điện thoại",
+      "link": "https://vnexpress.net/du-khach-co-the-bi-huy-visa-vi-du-lieu-trong-dien-thoai-5054737.html",
+      "summary": "Lực lượng an ninh biên giới ở nhiều quốc gia có thẩm quyền khám xét dữ liệu điện tử trên thiết bị cá nhân của hành khách nhằm ngăn chặn tội phạm hoặc lao động trái phép",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T13:43:48+07:00",
+      "fetched": "2026-03-25T23:54:01.332001+07:00"
     },
     {
       "id": "ea159343566bb29e6557c7a9e4348d84",
