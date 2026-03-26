@@ -1,7 +1,117 @@
 window.newsData_2026_03_26 = {
   "date": "2026-03-26",
-  "lastUpdated": "2026-03-26T21:56:28.087208+07:00",
+  "lastUpdated": "2026-03-26T23:53:02.324115+07:00",
   "articles": [
+    {
+      "id": "15ac889a608d65bd0d61e94f31a51746",
+      "title": "Thứ trưởng Bộ Công Thương: Nỗ lực triển khai ngay xăng sinh học trong tháng 4",
+      "link": "https://tuoitre.vn/thu-truong-bo-cong-thuong-no-luc-trien-khai-ngay-xang-sinh-hoc-trong-thang-4-20260326210619529.htm",
+      "summary": "Ngày 26-3, Bộ Công Thương tổ chức hội nghị triển khai chỉ đạo của Thủ tướng Chính phủ về khả năng đẩy sớm lộ trình chuyển đổi sang xăng sinh học E10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T23:52:56.030215+07:00",
+      "fetched": "2026-03-26T23:52:56.030330+07:00"
+    },
+    {
+      "id": "b50cfae7e09c73eeb18416d35570b23d",
+      "title": "Đỗ Hoàng Hên: Tôi sẽ cố gắng ghi bàn vào lưới Malaysia",
+      "link": "https://tuoitre.vn/do-hoang-hen-toi-se-co-gang-ghi-ban-vao-luoi-malaysia-20260326213753123.htm",
+      "summary": "Không thể ghi bàn vào lưới Bangladesh, nhưng tiền vệ nhập tịch Đỗ Hoàng Hên cho biết sẽ cố gắng ghi bàn vào lưới Malaysia ở vòng loại cuối Asian Cup 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T23:52:56.030075+07:00",
+      "fetched": "2026-03-26T23:52:56.030203+07:00"
+    },
+    {
+      "id": "d6704a8a54ad196253a34cd66ad6ac47",
+      "title": "Hai ‘ông lớn’ dầu khí cài số lùi lợi nhuận năm 2026, vì sao không gây bất ngờ?",
+      "link": "https://tuoitre.vn/hai-ong-lon-dau-khi-cai-so-lui-loi-nhuan-nam-2026-vi-sao-khong-gay-bat-ngo-20260326201348027.htm",
+      "summary": "Số liệu cho thấy Tổng công ty Khí Việt Nam (PV GAS) và Tổng công ty cổ phần Vận tải Dầu khí (PVTrans) có \"truyền thống\" đặt kế hoạch kinh doanh khá thận trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T23:52:56.029930+07:00",
+      "fetched": "2026-03-26T23:52:56.030063+07:00"
+    },
+    {
+      "id": "89ef7661745cb18b80089414ef8b9ed2",
+      "title": "Công an TP Cần Thơ tìm bị hại vụ 'cướp giật tài sản' tại Liên Hoa Bảo Tháp",
+      "link": "https://tuoitre.vn/cong-an-tp-can-tho-tim-bi-hai-vu-cuop-giat-tai-san-tai-lien-hoa-bao-thap-20260326212901318.htm",
+      "summary": "Ngày 26-3, Cơ quan cảnh sát điều tra Công an TP Cần Thơ cho biết đã ra quyết định khởi tố vụ án hình sự “cướp giật tài sản” và khởi tố nhiều bị can liên quan vụ án xảy ra tại Liên Hoa Bảo Tháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T23:52:56.029806+07:00",
+      "fetched": "2026-03-26T23:52:56.029918+07:00"
+    },
+    {
+      "id": "0725052fdce44cd220cb825040b4d25b",
+      "title": "HLV Phạm Minh Đức: Xuân Son không có bóng để chơi trước Bangladesh",
+      "link": "https://tuoitre.vn/hlv-pham-minh-duc-xuan-son-khong-co-bong-de-choi-truoc-bangladesh-20260326214538846.htm",
+      "summary": "HLV Phạm Minh Đức phân tích vì sao hai cầu thủ nhập tịch Nguyễn Xuân Son và Đỗ Hoàng Hên không thể ghi bàn trong chiến thắng 3-0 của tuyển Việt Nam trước Bangladesh tối 26-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T23:52:56.029684+07:00",
+      "fetched": "2026-03-26T23:52:56.029794+07:00"
+    },
+    {
+      "id": "3662633fa65e12d70c55983a7e9db5a7",
+      "title": "Giá dầu tăng 5%, ông Putin cảnh báo hậu quả xung đột Trung Đông như đại dịch COVID-19",
+      "link": "https://tuoitre.vn/gia-dau-tang-5-ong-putin-canh-bao-hau-qua-xung-dot-trung-dong-nhu-dai-dich-covid-19-20260326221449029.htm",
+      "summary": "Giá dầu tăng trước đàm phán bấp bênh ở Trung Đông. WTO cảnh báo hệ thống thương mại toàn cầu đang bị ảnh hưởng nặng nề nhất trong 80 năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T23:52:56.029560+07:00",
+      "fetched": "2026-03-26T23:52:56.029673+07:00"
+    },
+    {
+      "id": "6b1deb0bc4aae4b938f78aa2c96062fd",
+      "title": "Bóng đá Việt Nam thay đổi lớn ở Cúp quốc gia 2026-2027",
+      "link": "https://tuoitre.vn/bong-da-viet-nam-thay-doi-lon-o-cup-quoc-gia-2026-2027-20260326221605219.htm",
+      "summary": "Vòng bán kết Cúp quốc gia mùa mới 2026-2027 sẽ có thay đổi lớn nhằm tăng tính hấp dẫn về mặt chuyên môn và thu hút khán giả theo dõi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T23:52:56.029434+07:00",
+      "fetched": "2026-03-26T23:52:56.029548+07:00"
+    },
+    {
+      "id": "c82d72f3b3152c678dd02162d6c78a32",
+      "title": "Khi ngọn lửa được thắp lên giữa lòng 'ngôi sao' tuổi trẻ",
+      "link": "https://tuoitre.vn/khi-ngon-lua-duoc-thap-len-giua-long-ngoi-sao-tuoi-tre-2026032621521635.htm",
+      "summary": "Không chỉ là một buổi sinh hoạt kỷ niệm, hội trại 26-3 tại Trường THCS Nguyễn Du đã trở thành dấu mốc trưởng thành đầy cảm xúc của học sinh lớp 9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T23:52:56.029305+07:00",
+      "fetched": "2026-03-26T23:52:56.029422+07:00"
+    },
+    {
+      "id": "6717a0380ea79b0c42b4d0d8583d7990",
+      "title": "Video: Cột dọc từ chối bàn thắng đầu tiên của Hoàng Hên cho tuyển Việt Nam",
+      "link": "https://tuoitre.vn/video-cot-doc-tu-choi-ban-thang-dau-tien-cua-hoang-hen-cho-tuyen-viet-nam-2026032622514052.htm",
+      "summary": "Ở trận đấu ra mắt tuyển Việt Nam, Đỗ Hoàng Hên (31 tuổi) đã thi đấu đầy nỗ lực và quyết tâm. Song, tiền vệ nhập tịch này vẫn chưa thể tìm được bàn thắng trong màu áo tuyển Việt Nam trước Bangladesh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T23:52:56.029171+07:00",
+      "fetched": "2026-03-26T23:52:56.029293+07:00"
+    },
+    {
+      "id": "1b9830e9034d1c774868374340c206d6",
+      "title": "Đồ án quy hoạch thủ đô 100 năm: Đã tiếp thu, làm rõ sự cần thiết xây sân bay thứ hai của Hà Nội",
+      "link": "https://tuoitre.vn/do-an-quy-hoach-thu-do-100-nam-da-tiep-thu-lam-ro-su-can-thiet-xay-san-bay-thu-hai-cua-ha-noi-20260326221722549.htm",
+      "summary": "Chiều 26-3, ông Vũ Đại Thắng, Chủ tịch UBND TP. Hà Nội, chủ tịch Hội đồng thẩm định đồ án quy hoạch tổng thể thủ đô Hà Nội tầm nhìn 100 năm chủ trì hội nghị lấy ý kiến về đồ án trước khi trình HĐND TP thông qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T23:52:56.029024+07:00",
+      "fetched": "2026-03-26T23:52:56.029158+07:00"
+    },
+    {
+      "id": "06a09fa839d28c3279c05a459869d19b",
+      "title": "Vinh danh 100 cán bộ Đoàn toàn quốc",
+      "link": "https://tuoitre.vn/vinh-danh-100-can-bo-doan-toan-quoc-20260326222851009.htm",
+      "summary": "100 cán bộ Đoàn tiêu biểu được nhận giải thưởng Lý Tự Trọng năm 2026 là những cán bộ đoàn xuất sắc trong công tác, nhiệt huyết, sáng tạo, không ngại khó khăn, gian khổ, là hạt nhân trong phong trào đoàn ở địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T23:52:56.028773+07:00",
+      "fetched": "2026-03-26T23:52:56.029008+07:00"
+    },
     {
       "id": "43591928a8426e27f5117dcd420f4892",
       "title": "Tổng Bí thư Tô Lâm: Đưa Việt Nam thành trung tâm của đổi mới sáng tạo và chuyển đổi số",
@@ -453,6 +563,16 @@ window.newsData_2026_03_26 = {
       "fetched": "2026-03-26T17:43:17.359866+07:00"
     },
     {
+      "id": "56b1669e3a33b9e66113501bf1f156a6",
+      "title": "Hà Nội giao gần 1 ha đất mặt đường Nguyễn Xiển để xây nhà xã hội",
+      "link": "https://vnexpress.net/ha-noi-giao-gan-1-ha-dat-mat-duong-nguyen-xien-de-xay-nha-xa-hoi-5054897.html",
+      "summary": "Tập đoàn Bắc Hà được giao gần 1 ha đất Khu đô thị mới Tây Nam Kim Giang I, phường Định Công để làm nhà ở xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T15:49:12+07:00",
+      "fetched": "2026-03-26T23:52:52.559466+07:00"
+    },
+    {
       "id": "f93e9415e7e5a329a24402a11630112b",
       "title": "Ba giá trị sống ở khu căn hộ Marriott tại TP.HCM",
       "link": "https://tuoitre.vn/ba-gia-tri-song-o-khu-can-ho-marriott-tai-tphcm-20260326120013122.htm",
@@ -601,6 +721,156 @@ window.newsData_2026_03_26 = {
       "category": "Tổng hợp",
       "published": "2026-03-26T15:43:26.235279+07:00",
       "fetched": "2026-03-26T15:43:26.235487+07:00"
+    },
+    {
+      "id": "3a5b6003fbe0f0577e632f2d930589f6",
+      "title": "Thanh niên cần tự hỏi: 'Mình phải làm gì để đất nước phát triển nhanh hơn?'",
+      "link": "https://thanhnien.vn/thanh-nien-can-tu-hoi-minh-phai-lam-gi-de-dat-nuoc-phat-trien-nhanh-hon-185260326221704265.htm",
+      "summary": "Ông Trịnh Văn Quyết, Ủy viên Bộ Chính trị, Bí thư T.Ư Đảng, Trưởng ban Tuyên giáo và Dân vận T.Ư, mong muốn thanh niên hãy luôn tự đặt câu hỏi: 'Mình phải làm gì để đất nước phát triển nhanh hơn?'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T15:43:00+07:00",
+      "fetched": "2026-03-26T23:52:55.056764+07:00"
+    },
+    {
+      "id": "7155a74c6564c2eb498b1724a1a83bc6",
+      "title": "Giáo hoàng Leo XIV chia buồn Đức Hồng y Gioan Baotixita Phạm Minh Mẫn qua đời",
+      "link": "https://thanhnien.vn/giao-hoang-leo-xiv-chia-buon-duc-hong-y-gioan-baotixita-pham-minh-man-qua-doi-185260326221617875.htm",
+      "summary": "Giáo hoàng Leo XIV đã gửi điện văn đến Tổng giám mục Giuse Nguyễn Năng bày tỏ đau buồn trước sự ra đi của Đức Hồng y Gioan Baotixita Phạm Minh Mẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T15:41:00+07:00",
+      "fetched": "2026-03-26T23:52:55.056969+07:00"
+    },
+    {
+      "id": "91d01e93b5b5b547610baa7c2fb2ee0e",
+      "title": "Nam sinh xông vào đám cháy cứu người được tặng Huy hiệu 'Tuổi trẻ dũng cảm’",
+      "link": "https://thanhnien.vn/nam-sinh-xong-vao-dam-chay-cuu-nguoi-duoc-tang-huy-hieu-tuoi-tre-dung-cam-185260326222249916.htm",
+      "summary": "Chiều 26.3, tại Hà Nội, T.Ư Đoàn tổ chức lễ trao tặng Huy hiệu “Tuổi trẻ dũng cảm” cho sinh viên Nguyễn Lê Tú, Khoa Vật lý kỹ thuật, Đại học Bách khoa Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T15:34:00+07:00",
+      "fetched": "2026-03-26T23:52:55.057139+07:00"
+    },
+    {
+      "id": "f2a871c465dd3aea70fe6064e90bbe26",
+      "title": "Nông nghiệp chịu áp lực thế nào trước xung đột Trung Đông?",
+      "link": "https://vnexpress.net/nong-nghiep-chiu-ap-luc-the-nao-truoc-xung-dot-trung-dong-5055176.html",
+      "summary": "Xung đột Trung Đông đẩy chi phí sản xuất nông nghiệp tăng 3-5%, cước vận tải biển leo thang tới 35%, gây áp lực lên giá thành và thị trường thực phẩm trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T15:26:26+07:00",
+      "fetched": "2026-03-26T23:52:52.559665+07:00"
+    },
+    {
+      "id": "a321db60e4d14f00ead2473ff62b85b1",
+      "title": "Mỹ có thể chuyển vũ khí dành cho Ukraine sang Trung Đông",
+      "link": "https://vnexpress.net/my-co-the-chuyen-vu-khi-danh-cho-ukraine-sang-trung-dong-5055295.html",
+      "summary": "Lầu Năm Góc dường như đang cân nhắc điều chuyển một phần vũ khí cam kết viện trợ cho Ukraine sang Trung Đông vì kho đạn dược đang tiêu hao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T15:19:34+07:00",
+      "fetched": "2026-03-26T23:52:52.559847+07:00"
+    },
+    {
+      "id": "a321db60e4d14f00ead2473ff62b85b1",
+      "title": "Mỹ có thể chuyển vũ khí dành cho Ukraine sang Trung Đông",
+      "link": "https://vnexpress.net/my-co-the-chuyen-vu-khi-danh-cho-ukraine-sang-trung-dong-5055295.html",
+      "summary": "Lầu Năm Góc dường như đang cân nhắc điều chuyển một phần vũ khí cam kết viện trợ cho Ukraine sang Trung Đông vì kho đạn dược đang tiêu hao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-26T15:19:34+07:00",
+      "fetched": "2026-03-26T23:52:57.720745+07:00"
+    },
+    {
+      "id": "2a1802a150a553f282ef3ccdfa8ef4c8",
+      "title": "HLV Bangladesh: 'Việt Nam có nhiều cơ hội thắng Malaysia'",
+      "link": "https://vnexpress.net/hlv-bangladesh-viet-nam-co-nhieu-co-hoi-thang-malaysia-5055307.html",
+      "summary": "Chứng kiến Việt Nam phô diễn sức mạnh khi hạ Bangladesh 3-0, HLV Javier Cabrera tin thầy trò Kim Sang-sik có cơ hội lớn để đánh bại Malaysia trận tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T15:14:03+07:00",
+      "fetched": "2026-03-26T23:52:52.560041+07:00"
+    },
+    {
+      "id": "e7de48c1fb9ed107f7d77f676f2d3c22",
+      "title": "HLV Bangladesh dự đoán Việt Nam thắng Malaysia",
+      "link": "https://vnexpress.net/hlv-bangladesh-du-doan-viet-nam-thang-malaysia-5055307.html",
+      "summary": "Sau trận giao hữu thua 0-3, HLV Javier Cabrera đánh giá cao sức mạnh của Việt Nam, cho rằng đoàn quân của HLV Kim Sang-sik có cơ hội lớn để đánh bại Malaysia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-26T15:14:03+07:00",
+      "fetched": "2026-03-26T23:53:02.310786+07:00"
+    },
+    {
+      "id": "b4c26cdbfd13ad9a32d3e0b07fa56dab",
+      "title": "HLV Kim Sang-sik bình luận rất hay về Hoàng Hên và Văn Hậu, bất ngờ nhắc đến... cân nặng Xuân Son",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-binh-luan-rat-hay-ve-hoang-hen-va-van-hau-bat-ngo-nhac-den-can-nang-xuan-son-185260326220315489.htm",
+      "summary": "HLV Kim Sang-sik khẳng định sự đa năng của Đỗ Hoàng Hên đã giúp đội tuyển Việt Nam có thêm nhiều lựa chọn tấn công trước Bangladesh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T15:10:00+07:00",
+      "fetched": "2026-03-26T23:52:55.057293+07:00"
+    },
+    {
+      "id": "1f1f3c9fc74187e8b10364517a253b75",
+      "title": "FDI vào TP HCM tăng hơn 200%",
+      "link": "https://vnexpress.net/fdi-vao-tp-hcm-tang-hon-200-5055290.html",
+      "summary": "Vốn đầu tư trực tiếp nước ngoài (FDI) vào TP HCM trong quý I ước đạt gần 2,9 tỷ USD, tăng hơn 200% so với cùng kỳ năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T15:09:40+07:00",
+      "fetched": "2026-03-26T23:52:52.560208+07:00"
+    },
+    {
+      "id": "1f1f3c9fc74187e8b10364517a253b75",
+      "title": "FDI vào TP HCM tăng hơn 200%",
+      "link": "https://vnexpress.net/fdi-vao-tp-hcm-tang-hon-200-5055290.html",
+      "summary": "Vốn đầu tư trực tiếp nước ngoài (FDI) vào TP HCM trong quý I ước đạt gần 2,9 tỷ USD, tăng hơn 200% so với cùng kỳ năm ngoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-26T15:09:40+07:00",
+      "fetched": "2026-03-26T23:52:58.607440+07:00"
+    },
+    {
+      "id": "9a1a684cced7d0889dd9e8a639ba425f",
+      "title": "HLV Kim: 'Tôi chưa có phương án nếu thiếu cả Quang Hải, Hoàng Đức'",
+      "link": "https://vnexpress.net/hlv-kim-toi-chua-co-phuong-an-neu-thieu-ca-quang-hai-hoang-duc-5055293.html",
+      "summary": "HLV Kim Sang-sik thừa nhận cần tìm ra phương án điều chỉnh, phòng trường hợp tuyển Việt Nam cùng lúc vắng Nguyễn Quang Hải và Nguyễn Hoàng Đức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T15:09:06+07:00",
+      "fetched": "2026-03-26T23:52:52.560374+07:00"
+    },
+    {
+      "id": "9a1a684cced7d0889dd9e8a639ba425f",
+      "title": "HLV Kim: 'Tôi chưa có phương án nếu thiếu cả Quang Hải, Hoàng Đức'",
+      "link": "https://vnexpress.net/hlv-kim-toi-chua-co-phuong-an-neu-thieu-ca-quang-hai-hoang-duc-5055293.html",
+      "summary": "HLV Kim Sang-sik thừa nhận cần tìm ra phương án điều chỉnh, phòng trường hợp Việt Nam cùng lúc vắng bộ đôi tiền vệ trung tâm Nguyễn Quang Hải và Nguyễn Hoàng Đức.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-26T15:09:06+07:00",
+      "fetched": "2026-03-26T23:53:02.310978+07:00"
+    },
+    {
+      "id": "da11d3c71b41d058e1698e38730ed1e1",
+      "title": "Hóa nàng thơ mùa hạ chỉ với chiếc kẹp tóc hoa",
+      "link": "https://thanhnien.vn/thoi-trang-tre/hoa-nang-tho-mua-ha-chi-voi-chiec-kep-toc-hoa-185260325154645127.htm",
+      "summary": "Trong nhịp sống hiện đại, khi thời trang ngày càng đề cao dấu ấn cá nhân, những chiếc kẹp tóc hoa trở thành người bạn đồng hành lý tưởng giúp phái đẹp tự tin tỏa sáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T15:00:00+07:00",
+      "fetched": "2026-03-26T23:52:55.057443+07:00"
+    },
+    {
+      "id": "e8e38a12d8e9ea9baf1d527ee21496d3",
+      "title": "Giá vé máy bay thế giới tăng vọt từ tháng 4",
+      "link": "https://vnexpress.net/gia-ve-may-bay-the-gioi-tang-vot-tu-thang-4-5055260.html",
+      "summary": "Các hãng hàng không đồng loạt tăng phụ phí nhiên liệu từ tháng 4 khiến giá vé máy bay toàn cầu trở nên đắt đỏ do ảnh hưởng bởi xung đột tại Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:55:55+07:00",
+      "fetched": "2026-03-26T23:52:52.560528+07:00"
     },
     {
       "id": "e527bfd7c98155db7b8fcb340ed728bb",
