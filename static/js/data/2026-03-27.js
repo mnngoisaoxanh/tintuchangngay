@@ -1,7 +1,127 @@
 window.newsData_2026_03_27 = {
   "date": "2026-03-27",
-  "lastUpdated": "2026-03-27T21:43:46.811686+07:00",
+  "lastUpdated": "2026-03-27T23:43:03.063475+07:00",
   "articles": [
+    {
+      "id": "14d37f37c35f85c9e941adeb6d31b030",
+      "title": "Ông Trần Duy Đông tiếp tục làm Chủ tịch UBND tỉnh Phú Thọ",
+      "link": "https://tuoitre.vn/ong-tran-duy-dong-tiep-tuc-lam-chu-tich-ubnd-tinh-phu-tho-20260327193347295.htm",
+      "summary": "Ông Trần Duy Đông, Chủ tịch UBND tỉnh Phú Thọ khóa XIX nhiệm kỳ 2021-2026, tái đắc cử chức danh này ở khóa XX, nhiệm kỳ 2026-2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:42:54.697215+07:00",
+      "fetched": "2026-03-27T23:42:54.697329+07:00"
+    },
+    {
+      "id": "dbbcccbf783fbe30baf80d5cbd3fda29",
+      "title": "Nhu cầu điện năng của Việt Nam được dự báo tiếp tục tăng trưởng ở mức cao",
+      "link": "https://tuoitre.vn/nhu-cau-dien-nang-cua-viet-nam-duoc-du-bao-tiep-tuc-tang-truong-o-muc-cao-20260327193646243.htm",
+      "summary": "Trong điều kiện hệ thống điện Việt Nam, nhất là vào các tháng mùa khô của năm nay và các năm tiếp theo, có thể tiếp tục đối mặt với nguy cơ thiếu công suất vào giờ cao điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:42:54.697079+07:00",
+      "fetched": "2026-03-27T23:42:54.697203+07:00"
+    },
+    {
+      "id": "2bb00bd46c4decb937d01d7f4485d022",
+      "title": "Nhật Bản 'rất tiếc' vì vụ cầm dao đột nhập đại sứ quán, Trung Quốc tuyên bố 'còn lâu mới đủ'",
+      "link": "https://tuoitre.vn/nhat-ban-rat-tiec-vi-vu-cam-dao-dot-nhap-dai-su-quan-trung-quoc-tuyen-bo-con-lau-moi-du-20260327194139524.htm",
+      "summary": "Ngày 27-3, Trung Quốc nói Nhật Bản đã lấy làm tiếc về vụ sĩ quan quân đội Nhật Bản cầm dao đột nhập Đại sứ quán Trung Quốc tại Tokyo, nhưng Bắc Kinh nhấn mạnh điều đó vẫn chưa đủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:42:54.696952+07:00",
+      "fetched": "2026-03-27T23:42:54.697067+07:00"
+    },
+    {
+      "id": "335509283f01dbe61ca13ef7257a7364",
+      "title": "Tạm giữ tài xế Lexus tông liên hoàn 6 xe lúc nửa đêm",
+      "link": "https://tuoitre.vn/tam-giu-tai-xe-lexus-tong-lien-hoan-6-xe-luc-nua-dem-20260327200419534.htm",
+      "summary": "Cú tông liên hoàn làm một tài xế xe máy bị thương nặng, được đưa đi cấp cứu. Tài xế ô tô Lexus gây ra tai nạn bị công an tạm giữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:42:54.696825+07:00",
+      "fetched": "2026-03-27T23:42:54.696940+07:00"
+    },
+    {
+      "id": "381faf8b263e456e42ab7d4b123dc79c",
+      "title": "Tuyên dương 63 thanh niên tiêu biểu của lực lượng cảnh sát giao thông",
+      "link": "https://tuoitre.vn/tuyen-duong-63-thanh-nien-tieu-bieu-cua-luc-luong-canh-sat-giao-thong-20260327201723186.htm",
+      "summary": "63 Thanh niên Cảnh sát giao thông tiêu biểu, đại diện cho các đoàn viên, thanh niên lực lượng đang ngày đêm thực hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông trên các tuyến đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:42:54.696669+07:00",
+      "fetched": "2026-03-27T23:42:54.696812+07:00"
+    },
+    {
+      "id": "00489e8979f15e9fe9906e002b028d33",
+      "title": "U23 Việt Nam thừa nhận một điều về U23 Thái Lan",
+      "link": "https://tuoitre.vn/u23-viet-nam-thua-nhan-mot-dieu-ve-u23-thai-lan-20260327201513534.htm",
+      "summary": "Trước trận đấu với U23 Thái Lan tại Trung Quốc, đội tuyển U23 Việt Nam đánh giá cao đối thủ, nhưng cũng tìm ra điểm yếu của đối thủ để giành chiến thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:42:54.696542+07:00",
+      "fetched": "2026-03-27T23:42:54.696657+07:00"
+    },
+    {
+      "id": "3ef95b510f8f9c8edf26a2e846d29e8c",
+      "title": "Khánh Hòa yêu cầu rà soát, xử lý dứt điểm sai phạm khai thác khoáng sản sau kết luận thanh tra",
+      "link": "https://tuoitre.vn/khanh-hoa-yeu-cau-ra-soat-xu-ly-dut-diem-sai-pham-khai-thac-khoang-san-sau-ket-luan-thanh-tra-20260327203757912.htm",
+      "summary": "Lãnh đạo tỉnh Khánh Hòa vừa chỉ đạo rà soát, xử lý, khắc phục các sai phạm về khai thác khoáng sản theo kết luận thanh tra đối với nhiều doanh nghiệp, truy thu triệt để thuế, phí và các khoản tính sai, thu thiếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:42:54.696416+07:00",
+      "fetched": "2026-03-27T23:42:54.696530+07:00"
+    },
+    {
+      "id": "9f14440bbe284a89e244a4a1c957a037",
+      "title": "Ngày hội ẩm thực Gia Lai vô số món ngon, du khách háo hức nếm thử",
+      "link": "https://tuoitre.vn/ngay-hoi-am-thuc-gia-lai-vo-so-mon-ngon-du-khach-hao-huc-nem-thu-20260327205009616.htm",
+      "summary": "Tối 27-3, hàng ngàn người dân và du khách hồ hởi tìm đến quảng trường Nguyễn Tất Thành, phường Quy Nhơn, nếm thử các món ngon đặc sản tại Ngày hội tinh hoa ẩm thực Gia Lai 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:42:54.696288+07:00",
+      "fetched": "2026-03-27T23:42:54.696403+07:00"
+    },
+    {
+      "id": "55c74af0eb4c5866f74877d388cf221b",
+      "title": "Chủ tịch Cuba Miguel Diaz-Canel lên tiếng vụ 2 tàu viện trợ mất tích trên đường tới Havana",
+      "link": "https://tuoitre.vn/chu-tich-cuba-miguel-diaz-canel-len-tieng-vu-2-tau-vien-tro-mat-tich-tren-duong-toi-havana-20260327205843528.htm",
+      "summary": "Chủ tịch nước Cộng hòa Cuba Miguel Diaz-Canel Bermudez bày tỏ quan ngại sâu sắc về số phận của hai tàu mất tích khi đang chở hàng viện trợ nhân đạo tới Cuba, một tuần sau khi rời Mexico.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:42:54.696158+07:00",
+      "fetched": "2026-03-27T23:42:54.696276+07:00"
+    },
+    {
+      "id": "28d0228e82619d4d60bea0e647cc0592",
+      "title": "Trường đại học Kiến trúc TP.HCM giảm phương thức xét tuyển",
+      "link": "https://tuoitre.vn/truong-dai-hoc-kien-truc-tphcm-giam-phuong-thuc-xet-tuyen-20260327210055972.htm",
+      "summary": "Trường đại học Kiến trúc TP.HCM quyết định giảm phương thức xét tuyển đại học chính quy năm 2026, bỏ ưu tiên xét tuyển học sinh các trường THPT chuyên, năng khiếu và thí sinh có chứng chỉ quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:42:54.696024+07:00",
+      "fetched": "2026-03-27T23:42:54.696145+07:00"
+    },
+    {
+      "id": "957379531cf45ae52084e54fa7ab0a33",
+      "title": "Thạnh An sum vầy ngày lễ hội Nghinh Thủy cầu sóng yên, gió thuận",
+      "link": "https://tuoitre.vn/thanh-an-sum-vay-ngay-le-hoi-nghinh-thuy-cau-song-yen-gio-thuan-20260327160703027.htm",
+      "summary": "Người dân xã đảo Thạnh An quan niệm 'ngày Tết có thể không trở về, nhưng ngày lễ hội Nghinh Thủy nhất định phải có mặt'. Đây là dịp tạ ơn biển cả, cầu mong một năm sóng yên, gió hòa, mùa màng bội thu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:42:54.695874+07:00",
+      "fetched": "2026-03-27T23:42:54.696011+07:00"
+    },
+    {
+      "id": "5e8f3dbc9093a22c8a76a9eebe8a0102",
+      "title": "28 triệu/tháng vẫn có thể chưa phải nộp thuế thu nhập cá nhân",
+      "link": "https://tuoitre.vn/28-trieu-thang-van-co-the-chua-phai-nop-thue-thu-nhap-ca-nhan-20260327214510332.htm",
+      "summary": "Bộ Tài chính đề xuất cho phép người nộp thuế thu nhập cá nhân được trừ thêm chi phí y tế và giáo dục trước khi tính thuế, với mức tối đa gần 50 triệu đồng/năm nếu có đầy đủ hóa đơn, chứng từ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:42:54.695608+07:00",
+      "fetched": "2026-03-27T23:42:54.695856+07:00"
+    },
     {
       "id": "52e42e688784f28fdbca27a114c5bdde",
       "title": "Vệ binh Cách mạng Hồi giáo Iran tuyên bố đóng cửa eo biển Hormuz, tàu thuyền quay đầu",
@@ -423,6 +543,166 @@ window.newsData_2026_03_27 = {
       "fetched": "2026-03-27T17:38:34.362670+07:00"
     },
     {
+      "id": "67b0612e511dc62b31f534df5928ab68",
+      "title": "Thẩm phán Anh khen Barron Trump 'cứu mạng bạn từ xa'",
+      "link": "https://vnexpress.net/tham-phan-anh-khen-barron-trump-cuu-mang-ban-tu-xa-5055716.html",
+      "summary": "Thẩm phán tòa hình sự ở Anh ca ngợi Barron Trump vì đã kịp thời báo cảnh sát \"cứu mạng\" một người bạn, khi thấy cô bị hành hung qua FaceTime.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T16:14:23+07:00",
+      "fetched": "2026-03-27T23:42:56.005853+07:00"
+    },
+    {
+      "id": "35693efc06efcec3b35bf3dde7331aa9",
+      "title": "Phó thủ tướng Nguyễn Hòa Bình đề nghị nhà đầu tư Mỹ đồng hành cùng Việt Nam",
+      "link": "https://thanhnien.vn/pho-thu-tuong-nguyen-hoa-binh-de-nghi-nha-dau-tu-my-dong-hanh-cung-viet-nam-185260327224511898.htm",
+      "summary": "Sáng 23.3, tại New York, Phó thủ tướng Thường trực Nguyễn Hòa Bình đã dự Tọa đàm doanh nghiệp Việt Nam - Mỹ với chủ đề về thu hút nguồn vốn và thúc đẩy đầu tư vào Trung tâm tài chính quốc tế Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T16:00:00+07:00",
+      "fetched": "2026-03-27T23:42:53.683230+07:00"
+    },
+    {
+      "id": "81f21884aab5374d6f3428a8b3d33823",
+      "title": "Các quỹ đầu tư Mỹ quan tâm Trung tâm Tài chính quốc tế của Việt Nam",
+      "link": "https://thanhnien.vn/cac-quy-dau-tu-my-quan-tam-trung-tam-tai-chinh-quoc-te-cua-viet-nam-18526032722190049.htm",
+      "summary": "Ngày 25.3 (giờ địa phương), tại thành phố New York, Phó thủ tướng thường trực Nguyễn Hòa Bình đã tiếp lãnh đạo các định chế tài chính và quỹ đầu tư hàng đầu Mỹ về công nghệ tài chính mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:58:00+07:00",
+      "fetched": "2026-03-27T23:42:53.683396+07:00"
+    },
+    {
+      "id": "2c318c458ccf4cf37769f8c2e2f18cc7",
+      "title": "Nghệ An, Quảng Trị kiện toàn lãnh đạo HĐND, UBND nhiệm kỳ mới",
+      "link": "https://vnexpress.net/nghe-an-quang-tri-kien-toan-lanh-dao-hdnd-ubnd-nhiem-ky-moi-5055715.html",
+      "summary": "Chủ tịch HĐND và Chủ tịch UBND tỉnh Nghệ An, Quảng Trị tiếp tục được bầu giữ chức vụ nhiệm kỳ 2026-2031 tại kỳ họp thứ nhất chiều 27/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:36:34+07:00",
+      "fetched": "2026-03-27T23:42:50.029405+07:00"
+    },
+    {
+      "id": "ca1574fc03d801b84f0c35fb6c382984",
+      "title": "Bắt giam 4 người của phòng khám phụ sản Helia ‘vẽ’ bệnh để ‘cắt cổ’ khách hàng",
+      "link": "https://thanhnien.vn/bat-giam-4-nguoi-cua-phong-kham-phu-san-helia-ve-benh-de-cat-co-khach-hang-185260327212949985.htm",
+      "summary": "Công an TP. Hà Nội vừa khởi tố, bắt tạm giam 4 bị can của Phòng khám phụ sản Helia với cáo buộc giả danh bác sĩ để 'vẽ' bệnh án nhằm bán gói dịch vụ với giá 'cắt cổ'",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:29:00+07:00",
+      "fetched": "2026-03-27T23:42:53.683552+07:00"
+    },
+    {
+      "id": "4a6741e500d8abf39a45a008b9b2bbdd",
+      "title": "Món ăn gây ấn tượng với NSND Xuân Bắc tại Ngày hội Văn hóa ẩm thực Gia Lai",
+      "link": "https://thanhnien.vn/mon-an-gay-an-tuong-voi-nsnd-xuan-bac-tai-ngay-hoi-van-hoa-am-thuc-gia-lai-185260327204725895.htm",
+      "summary": "NSND Xuân Bắc thưởng thức và khen món cá ngừ sashimi, điểm nhấn độc đáo tại Ngày hội Văn hóa ẩm thực 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:06:00+07:00",
+      "fetched": "2026-03-27T23:42:53.683725+07:00"
+    },
+    {
+      "id": "092993653f3907b11f040926bee5bf99",
+      "title": "Sẵn sàng cho ngày hội Tư vấn mùa thi tại Trường ĐH Đà Lạt",
+      "link": "https://thanhnien.vn/san-sang-cho-ngay-hoi-tu-van-mua-thi-tai-truong-dh-da-lat-185260327211929113.htm",
+      "summary": "Sáng mai 28.3, chương trình Tư vấn mùa thi 2026 do Báo Thanh Niên phối hợp với Bộ GD-ĐT, Sở GD-ĐT Lâm Đồng, Trường ĐH Đà Lạt và Tỉnh đoàn Lâm Đồng tổ chức sẽ diễn ra trong không gian xanh mát, giàu truyền thống của Trường ĐH Đà Lạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:04:00+07:00",
+      "fetched": "2026-03-27T23:42:53.683878+07:00"
+    },
+    {
+      "id": "227d477405f306f67a71d6fc21a75749",
+      "title": "Arab Saudi - Ukraine ký thỏa thuận hợp tác quốc phòng",
+      "link": "https://vnexpress.net/arab-saudi-ukraine-ky-thoa-thuan-hop-tac-quoc-phong-5055707.html",
+      "summary": "Tổng thống Zelensky thông báo Ukraine và Arab Saudi đã ký thỏa thuận hợp tác quốc phòng, đặt nền tảng cho các thương vụ đầu tư trong tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:54:26+07:00",
+      "fetched": "2026-03-27T23:42:50.029582+07:00"
+    },
+    {
+      "id": "227d477405f306f67a71d6fc21a75749",
+      "title": "Arab Saudi - Ukraine ký thỏa thuận hợp tác quốc phòng",
+      "link": "https://vnexpress.net/arab-saudi-ukraine-ky-thoa-thuan-hop-tac-quoc-phong-5055707.html",
+      "summary": "Tổng thống Zelensky thông báo Ukraine và Arab Saudi đã ký thỏa thuận hợp tác quốc phòng, đặt nền tảng cho các thương vụ đầu tư trong tương lai.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T14:54:26+07:00",
+      "fetched": "2026-03-27T23:42:56.006031+07:00"
+    },
+    {
+      "id": "08d4c2b79240001109301a0babbe43db",
+      "title": "Bún bung là món ăn gì ở Hà Nội?",
+      "link": "https://vnexpress.net/bun-bung-la-mon-an-gi-o-ha-noi-5054635.html",
+      "summary": "Bún bung là món ăn dân dã của người Hà Nội, tên gọi được đặt theo cách chế biến nước dùng, với các nguyên liệu đơn giản, dễ tìm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:49:06+07:00",
+      "fetched": "2026-03-27T23:42:50.029779+07:00"
+    },
+    {
+      "id": "8663c74fcaea09fee683e7eacb00f5de",
+      "title": "Nghe phụ nữ bản làng kể chuyện qua triển lãm 'Gieo xanh nơi đỉnh mây'",
+      "link": "https://thanhnien.vn/nghe-phu-nu-ban-lang-ke-chuyen-qua-trien-lam-gieo-xanh-noi-dinh-may-185260327210857312.htm",
+      "summary": "Chiều 27.3, triển lãm 'Gieo xanh nơi đỉnh mây' đã chính thức khai mạc tại Bảo tàng Phụ nữ Việt Nam (Hà Nội), nhằm tôn vinh vai trò của phụ nữ dân tộc thiểu số tại vùng cao Lào Cai trong việc bảo tồn di sản và phát triển sinh kế bền vững trước những thách thức của biến đổi khí hậu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:46:00+07:00",
+      "fetched": "2026-03-27T23:42:53.684028+07:00"
+    },
+    {
+      "id": "87141a8f6d320938134fa25cd1c3d451",
+      "title": "TP HCM tăng 11 bậc xếp hạng trung tâm tài chính toàn cầu",
+      "link": "https://vnexpress.net/tp-hcm-tang-11-bac-xep-hang-trung-tam-tai-chinh-toan-cau-5055699.html",
+      "summary": "Thứ hạng trung tâm tài chính toàn cầu của TP HCM tăng 11 bậc sau sáu tháng, vào top 3 của Đông Nam Ấ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:43:46+07:00",
+      "fetched": "2026-03-27T23:42:50.029941+07:00"
+    },
+    {
+      "id": "87141a8f6d320938134fa25cd1c3d451",
+      "title": "TP HCM tăng 11 bậc xếp hạng trung tâm tài chính toàn cầu",
+      "link": "https://vnexpress.net/tp-hcm-tang-11-bac-xep-hang-trung-tam-tai-chinh-toan-cau-5055699.html",
+      "summary": "Thứ hạng trung tâm tài chính toàn cầu của TP HCM tăng 11 bậc sau sáu tháng, vào top 3 của Đông Nam Ấ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-27T14:43:46+07:00",
+      "fetched": "2026-03-27T23:42:57.723565+07:00"
+    },
+    {
+      "id": "93c4a9c66a1442aa7266b459ee8ab814",
+      "title": "Hội thảo khoa học ‘Họ Phùng Việt Nam, Dòng chảy và hội tụ’",
+      "link": "https://thanhnien.vn/hoi-thao-khoa-hoc-ho-phung-viet-nam-dong-chay-va-hoi-tu-185260327214244311.htm",
+      "summary": "Ngày 5.4 tại TP.Đà Nẵng, Hội đồng Họ Phùng Việt Nam phối hợp Hội Khoa học Lịch sử Việt Nam, Hội Khoa học Lịch sử TP.Đà Nẵng sẽ tổ chức Hội thảo khoa học 'Họ Phùng Việt Nam, Dòng chảy và hội tụ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:37:00+07:00",
+      "fetched": "2026-03-27T23:42:53.684189+07:00"
+    },
+    {
+      "id": "5555818ae83924b5434d5925a372db26",
+      "title": "Công ty của bầu Đức đặt kế hoạch lãi kỷ lục 4.200 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-cua-bau-duc-dat-ke-hoach-lai-ky-luc-4-200-ty-dong-5055710.html",
+      "summary": "Hoàng Anh Gia Lai đặt mục tiêu lãi 4.200 tỷ đồng, gấp đôi cùng kỳ, nhờ tái cơ cấu phát huy hiệu quả và nhiều cây trồng bước vào kỳ thu hoạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:32:44+07:00",
+      "fetched": "2026-03-27T23:42:50.030094+07:00"
+    },
+    {
+      "id": "5555818ae83924b5434d5925a372db26",
+      "title": "Công ty của bầu Đức đặt kế hoạch lãi kỷ lục 4.200 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-cua-bau-duc-dat-ke-hoach-lai-ky-luc-4-200-ty-dong-5055710.html",
+      "summary": "Hoàng Anh Gia Lai đặt mục tiêu lãi 4.200 tỷ đồng, gấp đôi cùng kỳ, nhờ tái cơ cấu phát huy hiệu quả và nhiều cây trồng bước vào kỳ thu hoạch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-27T14:32:44+07:00",
+      "fetched": "2026-03-27T23:42:57.723763+07:00"
+    },
+    {
       "id": "65c99332cf38470a9dbfb2d5363b9fc6",
       "title": "Du lịch Gia Lai định vị thương hiệu ‘rừng xanh - biển biếc’",
       "link": "https://thanhnien.vn/du-lich-gia-lai-dinh-vi-thuong-hieu-rung-xanh-bien-biec-185260327173022088.htm",
@@ -431,6 +711,16 @@ window.newsData_2026_03_27 = {
       "category": "Tổng hợp",
       "published": "2026-03-27T14:30:00+07:00",
       "fetched": "2026-03-27T21:43:37.795666+07:00"
+    },
+    {
+      "id": "2201979d1791c5bd9af71d7e1513dc63",
+      "title": "Kiến nghị hỗ trợ tàu biển Việt Nam qua eo biển Hormuz",
+      "link": "https://vnexpress.net/kien-nghi-ho-tro-tau-bien-viet-nam-qua-eo-bien-hormuz-5055696.html",
+      "summary": "Cục Hàng hải và Đường thủy Việt Nam kiến nghị Bộ Ngoại giao làm việc với phía Iran nhằm phối hợp bảo đảm an toàn hàng hải, hỗ trợ tàu biển và thuyền viên Việt Nam lưu thông qua eo biển Hormuz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:26:48+07:00",
+      "fetched": "2026-03-27T23:42:50.030247+07:00"
     },
     {
       "id": "edd948bc5b9547690c50ccdb34c54661",
@@ -741,6 +1031,16 @@ window.newsData_2026_03_27 = {
       "category": "Tổng hợp",
       "published": "2026-03-27T13:41:43+07:00",
       "fetched": "2026-03-27T21:43:34.469755+07:00"
+    },
+    {
+      "id": "a85bd84254a48d62354f9449aab6f48f",
+      "title": "Hà Nội muốn dùng metro để 'tự tạo tiền' phát triển đô thị",
+      "link": "https://vnexpress.net/ha-noi-muon-dung-metro-de-tu-tao-tien-phat-trien-do-thi-5055683.html",
+      "summary": "Dự thảo Luật Thủ đô sửa đổi cho phép Hà Nội khai thác quỹ đất quanh các tuyến metro theo mô hình TOD, tạo nguồn lực tài chính tại chỗ thay vì phụ thuộc vào ngân sách và vốn vay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:41:43+07:00",
+      "fetched": "2026-03-27T23:42:50.031512+07:00"
     },
     {
       "id": "20d6ecacb54ef4143b0f008e28e2b7c8",
