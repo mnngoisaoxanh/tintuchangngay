@@ -1,6 +1,6 @@
 window.newsData_2026_03_28 = {
   "date": "2026-03-28",
-  "lastUpdated": "2026-03-28T03:27:33.463546+07:00",
+  "lastUpdated": "2026-03-28T05:22:30.911755+07:00",
   "articles": [
     {
       "id": "9f14440bbe284a89e244a4a1c957a037",
@@ -151,6 +151,126 @@ window.newsData_2026_03_28 = {
       "category": "Tổng hợp",
       "published": "2026-03-28T01:43:12.631053+07:00",
       "fetched": "2026-03-28T01:43:12.631291+07:00"
+    },
+    {
+      "id": "950cab72f08e2d5f6c241c7bc4bab1ac",
+      "title": "Vì sao người thừa cân vẫn có thể thiếu máu, thiếu sắt?",
+      "link": "https://thanhnien.vn/vi-sao-nguoi-thua-can-van-co-the-thieu-mau-thieu-sat-185260327182007231.htm",
+      "summary": "Thiếu máu có thể xảy ra với bất cứ ai, kể cả những người thừa cân. Nếu chủ quan, thiếu máu có thể ảnh hưởng đến tim mạch và khả năng lao động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T22:19:00+07:00",
+      "fetched": "2026-03-28T05:22:23.389960+07:00"
+    },
+    {
+      "id": "564485627e19e55013af156469557196",
+      "title": "Tử vi ngày 28 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-28-thang-3-con-giap-nao-may-man-hom-nay-18526032801483759.htm",
+      "summary": "Tử vi ngày 28 tháng 3 mang đến những gợi ý tham khảo cho 12 con giápi. Vận khí thiên về sự \"cán đích\" – những ai giữ được sự tập trung sẽ hoàn thành tốt công việc, trong khi những ai phân tâm dễ bị hụt nhịp ở chặng cuối. Tài lộc hôm nay thế nào phụ thuộc nhiều vào việc bạn có giữ được kỷ luật và sự ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T22:15:00+07:00",
+      "fetched": "2026-03-28T05:22:23.390110+07:00"
+    },
+    {
+      "id": "03f67a134b058c6ad2e57bf4f6ab8da7",
+      "title": "Vòng xoáy 'mua đứt bán đoạn vé số': Công ty xổ số cũng khổ tâm?",
+      "link": "https://thanhnien.vn/vong-xoay-mua-dut-ban-doan-ve-so-cong-ty-xo-so-cung-kho-tam-185250826141941339.htm",
+      "summary": "Vướng mắc lớn nằm ở đặc thù nghề nghiệp như người bán vé số là lao động tự do, chưa có khung pháp lý cho phép các công ty xổ số trực tiếp chi trả bảo hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T22:15:00+07:00",
+      "fetched": "2026-03-28T05:22:23.390244+07:00"
+    },
+    {
+      "id": "8b961b9e3f3b035e9e52508b6449f1d7",
+      "title": "Nhà Trắng giải bài toán khủng hoảng ở các sân bay",
+      "link": "https://thanhnien.vn/nha-trang-giai-bai-toan-khung-hoang-o-cac-san-bay-185260327220724367.htm",
+      "summary": "Tờ The Hill ngày 27.3 dẫn lời Tổng thống Mỹ Donald Trump cho biết ông sẽ ký một sắc lệnh chỉ thị Bộ An ninh nội địa (DHS) lập tức trả lương cho các nhân viên Cơ quan An ninh vận tải (TSA), nhằm giải quyết tình trạng tắc nghẽn tại các sân bay do thiếu nhân viên an ninh vì DHS đóng cửa một phần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T22:00:00+07:00",
+      "fetched": "2026-03-28T05:22:23.390390+07:00"
+    },
+    {
+      "id": "54a032faf8c8db286c9afd57ee1767fc",
+      "title": "Thứ bảy ngày 28.3 là ngày gì theo lịch vạn niên, lịch âm hôm nay?",
+      "link": "https://thanhnien.vn/thu-bay-ngay-283-la-ngay-gi-theo-lich-van-nien-lich-am-hom-nay-185260327124416645.htm",
+      "summary": "Nhiều người quan tâm, chia sẻ về ngày hôm nay. Vậy, ngày 28.3 là ngày gì theo lịch âm, lịch vạn niên?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T22:00:00+07:00",
+      "fetched": "2026-03-28T05:22:23.390524+07:00"
+    },
+    {
+      "id": "c476e4c42058e952ca0b367c7135cce6",
+      "title": "Lý do eo biển Hormuz dễ đóng, khó mở",
+      "link": "https://vnexpress.net/ly-do-eo-bien-hormuz-de-dong-kho-mo-5055062.html",
+      "summary": "Eo biển Hormuz dễ đóng, khó mở do yếu tố địa hình hiểm trở, năng lực quân sự khó lường của Iran và rủi ro trong nhiệm vụ hộ tống.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T22:00:00+07:00",
+      "fetched": "2026-03-28T05:22:25.604996+07:00"
+    },
+    {
+      "id": "998519d541c8daaf39e6e7ac7179cd2a",
+      "title": "Hành trình thâu tóm 'startup AI đi trước thời đại' DeepMind của Google",
+      "link": "https://vnexpress.net/hanh-trinh-thau-tom-startup-ai-di-truoc-thoi-dai-deepmind-cua-google-5055311.html",
+      "summary": "Google chỉ cần chi 650 triệu USD vào năm 2014 và khiến Mark Zuckerberg \"thua đau\" khi thâu tóm DeepMind, công ty tham vọng phát triển siêu trí tuệ AGI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-27T22:00:00+07:00",
+      "fetched": "2026-03-28T05:22:30.022975+07:00"
+    },
+    {
+      "id": "711cf0fcd457af0abc2ddb6ed589c5d7",
+      "title": "Chờ làn gió mới từ đội chủ nhà",
+      "link": "https://thanhnien.vn/cho-lan-gio-moi-tu-doi-chu-nha-185260327220024334.htm",
+      "summary": "15 giờ 15 hôm nay 28.3, trên sân Trường ĐH Nha Trang diễn ra lễ khai mạc giải bóng đá Thanh Niên sinh viên (TNSV) quốc tế lần II - 2026 cúp THACO, trực tiếp trên FPT Play, VTV9, HTV Thể thao, SCTV, KTV và các nền tảng của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T21:46:00+07:00",
+      "fetched": "2026-03-28T05:22:23.390655+07:00"
+    },
+    {
+      "id": "1338bfa23d9e1e0b58ecc5799b61d6c0",
+      "title": "Tình hình Iran, Trung Đông mới nhất ngày 28.3: Hàng loạt diễn biến nóng",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-ngay-283-hang-loat-dien-bien-nong-185260327233515478.htm",
+      "summary": "Cuộc xung đột giữa Mỹ - Israel với Iran đã chính thức bước sang tuần thứ 5 với nhiều hệ lụy nguy hiểm cho cả khu vực và toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T21:30:00+07:00",
+      "fetched": "2026-03-28T05:22:23.390786+07:00"
+    },
+    {
+      "id": "1a8c2449ca87c72ae71fe6674e4d7a8a",
+      "title": "Chiến sự Ukraine ngày 1.493: Kyiv đẩy lui quân Nga, nhưng có thể mất vũ khí Mỹ",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1493-kyiv-day-lui-quan-nga-nhung-co-the-mat-vu-khi-my-185260327215038137.htm",
+      "summary": "Ukraine nói lực lượng Kyiv giành lại thế chủ động tại mặt trận Oleksandrivka, khiến Nga tổn thất hơn 2.600 binh sĩ Nga trong 2 tháng, trong khi Moscow tuyên bố kiểm soát thêm 4 khu dân cư trong một tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T21:30:00+07:00",
+      "fetched": "2026-03-28T05:22:23.390915+07:00"
+    },
+    {
+      "id": "e7998b2499f2ef3d5892011b1106f798",
+      "title": "Người châu Âu giảm mua xe xăng, chuyển sang xe điện",
+      "link": "https://vnexpress.net/nguoi-chau-au-giam-mua-xe-xang-chuyen-sang-xe-dien-5055032.html",
+      "summary": "Doanh số xe động cơ đốt trong tại châu Âu giảm 23% trong một tháng, trong khi lượng mua xe điện tăng vọt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T21:00:00+07:00",
+      "fetched": "2026-03-28T05:22:19.205793+07:00"
+    },
+    {
+      "id": "5372deee51db5d370f51831007f4ad9d",
+      "title": "HLV kỳ cựu tiếp sức cho đội bóng quê hương",
+      "link": "https://thanhnien.vn/hlv-ky-cuu-tiep-suc-cho-doi-bong-que-huong-185260327220734744.htm",
+      "summary": "Sự xuất hiện của HLV kỳ cựu Hoàng Anh Tuấn trong vai trò cố vấn chuyên môn được kỳ vọng sẽ giúp đội chủ nhà Trường ĐH Nha Trang thể hiện một diện mạo mới tại TNSV quốc tế 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T20:45:00+07:00",
+      "fetched": "2026-03-28T05:22:23.391043+07:00"
     },
     {
       "id": "ce886a661f3b0a711d524a9f4668c1a4",
