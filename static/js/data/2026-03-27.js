@@ -1,6 +1,6 @@
 window.newsData_2026_03_27 = {
   "date": "2026-03-27",
-  "lastUpdated": "2026-03-27T13:56:41.358572+07:00",
+  "lastUpdated": "2026-03-27T15:40:24.349641+07:00",
   "articles": [
     {
       "id": "26212473a23da0819e84504638c057d1",
@@ -303,6 +303,16 @@ window.newsData_2026_03_27 = {
       "fetched": "2026-03-27T11:26:12.321109+07:00"
     },
     {
+      "id": "114cf64aaccdf1807e14c6b91dd87aa9",
+      "title": "DOTHANH AUTO ra mắt xe tải mới, khởi đầu kỷ nguyên mới",
+      "link": "https://thanhnien.vn/dothanh-auto-ra-mat-xe-tai-moi-khoi-dau-ky-nguyen-moi-185260327145836835.htm",
+      "summary": "Tuyên ngôn bước vào 'Kỷ nguyên mới, vươn tầm cao mới' sau gần 35 năm phát triển, DOTHANH AUTO công bố ra mắt DOTHANH JP120SL & JP120EXL - hai mẫu xe tải chiến lược mới, hợp tác với nhà sản xuất ô tô toàn cầu JMC.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:30:00+07:00",
+      "fetched": "2026-03-27T15:40:13.859176+07:00"
+    },
+    {
       "id": "3531c4403a8687bfbed57063fb0af67a",
       "title": "Thời tiết hôm nay 27-3: Nắng nóng bao trùm cả nước",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-27-3-nang-nong-bao-trum-ca-nuoc-20260326155621598.htm",
@@ -451,6 +461,346 @@ window.newsData_2026_03_27 = {
       "category": "Tổng hợp",
       "published": "2026-03-27T08:22:36.743464+07:00",
       "fetched": "2026-03-27T08:22:36.743680+07:00"
+    },
+    {
+      "id": "21af6f5635e433296c847a613913b626",
+      "title": "Ông Kim Jong-un nhận quà đặc biệt từ Tổng thống Belarus",
+      "link": "https://vnexpress.net/ong-kim-jong-un-nhan-qua-dac-biet-tu-tong-thong-belarus-5055580.html",
+      "summary": "Tổng thống Belarus Alexander Lukashenko tặng một khẩu súng cho ông Kim Jong-un, trong chuyến thăm chính thức đầu tiên của ông tới Triều Tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:17:44+07:00",
+      "fetched": "2026-03-27T15:40:10.522807+07:00"
+    },
+    {
+      "id": "45e39668c2023e5fe26364d1498e93f2",
+      "title": "Vì sao thi giỏi nghề vẫn phải giỏi cả tiếng Anh?",
+      "link": "https://thanhnien.vn/vi-sao-thi-gioi-nghe-van-phai-gioi-ca-tieng-anh-185260327123136518.htm",
+      "summary": "Việc phần thi tiếng Anh xuất hiện tại hội thi học sinh, sinh viên giỏi nghề năm nay đang khiến nhiều người chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:15:00+07:00",
+      "fetched": "2026-03-27T15:40:13.859344+07:00"
+    },
+    {
+      "id": "5163377026c8b454f0d873ae0b02c706",
+      "title": "Biến thể Covid 'Ve sầu' siêu đột biến lây lan tại Mỹ",
+      "link": "https://vnexpress.net/bien-the-covid-ve-sau-sieu-dot-bien-lay-lan-tai-my-5055514.html",
+      "summary": "Biến thể Covid-19 mới BA.3.2, còn gọi Ve sầu, mang bộ gene siêu đột biến đang lây lan nhanh tại Mỹ cùng 23 quốc gia, nhưng ít có khả năng gây bệnh nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:11:14+07:00",
+      "fetched": "2026-03-27T15:40:10.523000+07:00"
+    },
+    {
+      "id": "24c8a052cda39526c03491fd2c6a9e99",
+      "title": "Bài toán gánh hàng rong và trật tự vỉa hè ở Hội An",
+      "link": "https://vnexpress.net/bai-toan-ganh-hang-rong-va-trat-tu-via-he-o-hoi-an-5055502.html",
+      "summary": "Làm cách nào vừa giữ gánh hàng rong truyền thống - nét văn hóa của Hội An, vừa giữ gìn trật tự vỉa hè là bài toán buộc chính quyền phải tính toán cẩn trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:07:11+07:00",
+      "fetched": "2026-03-27T15:40:10.523170+07:00"
+    },
+    {
+      "id": "0b559c89874fe1f6fb9e76d09799b22c",
+      "title": "Thể thao Việt Nam kỳ vọng kiếm tiền tỉ, trở thành trụ cột tăng trưởng mới của đất nước",
+      "link": "https://thanhnien.vn/the-thao-viet-nam-ky-vong-tao-co-may-kiem-tien-ti-tro-thanh-tru-cot-tang-truong-moi-cua-dat-nuoc-185260327143746203.htm",
+      "summary": "Sáng 27.3, tại Melia Hanoi, Diễn đàn Kinh tế thể thao Việt Nam 2026 (VSES 2026) đã diễn ra với sự tham gia của khoảng 300 đại biểu đến từ cơ quan quản lý, doanh nghiệp, nhà đầu tư và giới chuyên gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:03:00+07:00",
+      "fetched": "2026-03-27T15:40:13.859500+07:00"
+    },
+    {
+      "id": "2e42ed2f5bcab10c5afeb3aa11c8ec4e",
+      "title": "Bạn có phải là bậc thầy sắp đặt que diêm trong 10 giây?",
+      "link": "https://vnexpress.net/ban-co-phai-la-bac-thay-sap-dat-que-diem-trong-10-giay-5049806.html",
+      "summary": "Đây là bài tập \"yoga cho não\" tuyệt vời giúp bạn vừa giải tỏa căng thẳng, vừa kích thích tư duy sáng tạo một cách đầy hứng khởi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:00:00+07:00",
+      "fetched": "2026-03-27T15:40:10.523340+07:00"
+    },
+    {
+      "id": "9371bca4215594a7a1feb8b306d3e440",
+      "title": "Những loại thực phẩm tưởng tốt hóa ra chứa nhiều đường",
+      "link": "https://vnexpress.net/nhung-loai-thuc-pham-tuong-tot-hoa-ra-chua-nhieu-duong-5055555.html",
+      "summary": "Nước ép trái cây, ngũ cốc ăn liền tưởng lành mạnh nhưng lại chứa nhiều đường, calo và phụ gia, dễ gây tăng cân và rối loạn chuyển hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:00:00+07:00",
+      "fetched": "2026-03-27T15:40:10.523498+07:00"
+    },
+    {
+      "id": "7fd2e66e1bb8fdf542823ead3b1ed1b1",
+      "title": "Cường giáp gây giảm cân đột ngột",
+      "link": "https://vnexpress.net/cuong-giap-gay-giam-can-dot-ngot-5055540.html",
+      "summary": "Chị Hà, 32 tuổi, đột ngột giảm 6 kg trong 6 tháng, bác sĩ phát hiện nguyên nhân do cường giáp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:00:00+07:00",
+      "fetched": "2026-03-27T15:40:10.523651+07:00"
+    },
+    {
+      "id": "61425bada3b557e3a2d2b421caa1b900",
+      "title": "'Trạm sức khỏe' đồng hành nâng cao thể trạng tuổi trung niên",
+      "link": "https://vnexpress.net/tram-suc-khoe-dong-hanh-nang-cao-the-trang-tuoi-trung-nien-5055118.html",
+      "summary": "Dự án \"Trạm sức khỏe\" của VitaDairy thu hút người dân tham gia trải nghiệm, tư vấn dinh dưỡng, góp phần nâng cao thể trạng tuổi trung niên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:00:00+07:00",
+      "fetched": "2026-03-27T15:40:10.523809+07:00"
+    },
+    {
+      "id": "ac844aec45ecab11a8576417be757b79",
+      "title": "Khóa học SEO Trần Tiến Duy: Giải pháp tối ưu website cho doanh nghiệp thời đại số",
+      "link": "https://thanhnien.vn/khoa-hoc-seo-tran-tien-duy-giai-phap-toi-uu-website-cho-doanh-nghiep-thoi-dai-so-185260327143419278.htm",
+      "summary": "Trong bối cảnh chuyển đổi số mạnh mẽ, SEO website đã trở thành một trong những kênh marketing bền vững giúp doanh nghiệp tiếp cận khách hàng trên Google. Trước nhu cầu đó, Khóa học SEO Trần Tiến Duy đang được nhiều doanh nghiệp quan tâm như một giải pháp đào tạo và cố vấn SEO thực chiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:00:00+07:00",
+      "fetched": "2026-03-27T15:40:13.859652+07:00"
+    },
+    {
+      "id": "7691e31ebf94442cc557a74cf8dd5ebe",
+      "title": "Thay khớp háng thành công cho cụ bà 87 tuổi, phục hồi vận động sau 5 ngày",
+      "link": "https://thanhnien.vn/thay-khop-hang-thanh-cong-cho-cu-ba-87-tuoi-phuc-hoi-van-dong-sau-5-ngay-185260327150324375.htm",
+      "summary": "Ngày 27.3, tin từ Bệnh viện đa khoa Hoàn Mỹ Cửu Long cho biết, các bác sĩ của bệnh viện vừa phẫu thuật thay khớp háng thành công cho bệnh nhân 87 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:59:00+07:00",
+      "fetched": "2026-03-27T15:40:13.859802+07:00"
+    },
+    {
+      "id": "6b5f0ba9ea354253b173e25c773f0e94",
+      "title": "Có được sử dụng tài khoản hộ kinh doanh song song tài khoản cá nhân không?",
+      "link": "https://thanhnien.vn/co-duoc-su-dung-tai-khoan-ho-kinh-doanh-song-song-tai-khoan-ca-nhan-khong-185260327145248106.htm",
+      "summary": "Có được sử dụng song song hai tài khoản hay không là thắc mắc của một số hộ kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:58:00+07:00",
+      "fetched": "2026-03-27T15:40:13.859948+07:00"
+    },
+    {
+      "id": "65d506fb2cce0ed00c54a15e34f72a97",
+      "title": "Làm rõ điểm mới Văn kiện Đại hội XIV, bảo vệ nền tảng tư tưởng của Đảng",
+      "link": "https://thanhnien.vn/lam-ro-diem-moi-van-kien-dai-hoi-xiv-bao-ve-nen-tang-tu-tuong-cua-dang-185260327141019244.htm",
+      "summary": "Hội thảo tại Học viện Chính trị khu vực II làm rõ nội dung mới trong Văn kiện Đại hội XIV, đề xuất giải pháp bảo vệ nền tảng tư tưởng của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:57:00+07:00",
+      "fetched": "2026-03-27T15:40:13.860124+07:00"
+    },
+    {
+      "id": "7d9eac1de2dbfd8ac37f05b3fff6d9e2",
+      "title": "Cuộc chiến giành 'cái chết êm dịu' của cô gái 25 tuổi",
+      "link": "https://vnexpress.net/cuoc-chien-gianh-cai-chet-em-diu-cua-co-gai-25-tuoi-5055385.html",
+      "summary": "Noelia Castillo, cô gái bị liệt sau những biến cố cuộc đời, chính thức được thực hiện nguyện vọng an tử tại Tây Ban Nha, sau cuộc chiến pháp lý kéo dài với cha ruột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:56:30+07:00",
+      "fetched": "2026-03-27T15:40:10.523960+07:00"
+    },
+    {
+      "id": "4550e416212934a212f513c6ee73af3b",
+      "title": "Tổng thống Maduro nói không đủ tiền trả chi phí pháp lý",
+      "link": "https://vnexpress.net/tong-thong-maduro-noi-khong-du-tien-tra-chi-phi-phap-ly-5055509.html",
+      "summary": "Tổng thống Maduro xuất hiện tại tòa án ở Mỹ lần thứ hai và cho biết vợ chồng ông không đủ tiền trả chi phí pháp lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:55:16+07:00",
+      "fetched": "2026-03-27T15:40:10.524139+07:00"
+    },
+    {
+      "id": "4550e416212934a212f513c6ee73af3b",
+      "title": "Tổng thống Maduro nói không đủ tiền trả chi phí pháp lý",
+      "link": "https://vnexpress.net/tong-thong-maduro-noi-khong-du-tien-tra-chi-phi-phap-ly-5055509.html",
+      "summary": "Tổng thống Maduro xuất hiện tại tòa án ở Mỹ lần thứ hai và cho biết vợ chồng ông không đủ tiền trả chi phí pháp lý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T07:55:16+07:00",
+      "fetched": "2026-03-27T15:40:16.628633+07:00"
+    },
+    {
+      "id": "096daf4dbd22c8e39b46211f9ee26558",
+      "title": "Iran dọa tập kích 'khách sạn tiếp nhận lính Mỹ'",
+      "link": "https://vnexpress.net/iran-doa-tap-kich-khach-san-tiep-nhan-linh-my-5055439.html",
+      "summary": "Hãng tin thân cận với Vệ binh Iran cho biết những khách sạn tại Trung Đông cho lính Mỹ lưu trú sẽ bị coi là \"mục tiêu quân sự hợp pháp\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:54:51+07:00",
+      "fetched": "2026-03-27T15:40:10.524296+07:00"
+    },
+    {
+      "id": "096daf4dbd22c8e39b46211f9ee26558",
+      "title": "Iran dọa tập kích 'khách sạn tiếp nhận lính Mỹ'",
+      "link": "https://vnexpress.net/iran-doa-tap-kich-khach-san-tiep-nhan-linh-my-5055439.html",
+      "summary": "Hãng tin thân cận với Vệ binh Iran cho biết những khách sạn tại Trung Đông cho lính Mỹ lưu trú sẽ bị coi là \"mục tiêu quân sự hợp pháp\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T07:54:51+07:00",
+      "fetched": "2026-03-27T15:40:16.628807+07:00"
+    },
+    {
+      "id": "98ea506782b99f4f42a93545a407919b",
+      "title": "Phó chủ tịch UBND TP.HCM Trần Thị Diệu Thúy giao nhiệm vụ cho ngành TDTT TP.HCM",
+      "link": "https://thanhnien.vn/pho-chu-tich-ubnd-tphcm-tran-thi-dieu-thuy-giao-nhiem-vu-cho-nganh-tdtt-tphcm-185260327142650441.htm",
+      "summary": "Ngày 27.3, UBND TP.HCM cùng Sở VH-TT TP.HCM tổ chức lễ kỷ niệm 80 năm Ngày truyền thống ngành Thể dục thể thao Việt Nam và 50 năm ngành thể dục thể thao TP.HCM, với chủ đề 'Tự hào truyền thống - Vững bước tương lai'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:47:00+07:00",
+      "fetched": "2026-03-27T15:40:13.860287+07:00"
+    },
+    {
+      "id": "c4cfb4459ad0b3a6910ee56c4e4f5f50",
+      "title": "Trang Pháp thi 'Đạp gió' của Trung Quốc",
+      "link": "https://vnexpress.net/trang-phap-thi-dap-gio-cua-trung-quoc-5055505.html",
+      "summary": "Ca sĩ Trang Pháp thi \"Tỷ tỷ đạp gió rẽ sóng\", chương trình truyền hình đình đám của đài Hồ Nam, phiên bản gốc show \"Chị đẹp\" tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:43:56+07:00",
+      "fetched": "2026-03-27T15:40:10.524453+07:00"
+    },
+    {
+      "id": "f99ea241ad3248939dd5c2dfb7cc12e2",
+      "title": "Ba trụ cột tạo lợi thế cạnh tranh chiến lược cho quốc gia",
+      "link": "https://vnexpress.net/ba-tru-cot-tao-loi-the-canh-tranh-chien-luoc-cho-quoc-gia-5055572.html",
+      "summary": "Tôi kiến nghị Bộ Khoa học và Công nghệ Việt Nam tăng cường thúc đẩy các chương trình học tập, nghiên cứu và hợp tác quốc tế trong các lĩnh vực AI và công nghệ lượng tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:42:13+07:00",
+      "fetched": "2026-03-27T15:40:10.524557+07:00"
+    },
+    {
+      "id": "2face4b3eae8e55ab4ad5eb46dc3c453",
+      "title": "Giá xăng dầu đe dọa du lịch Đông Nam Á",
+      "link": "https://vnexpress.net/gia-xang-dau-de-doa-du-lich-dong-nam-a-5054934.html",
+      "summary": "Xung đột tại Trung Đông khiến giá nhiên liệu tăng cao, kéo theo chi phí vận chuyển đắt đỏ và ảnh hưởng trực tiếp đến đà phục hồi của ngành du lịch khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:36:54+07:00",
+      "fetched": "2026-03-27T15:40:10.524720+07:00"
+    },
+    {
+      "id": "d6e7814f94ca31ee1d699289997e3c76",
+      "title": "Home Credit lợi nhuận sau thuế đạt 2.076 tỉ đồng nhờ quản trị rủi ro chặt chẽ",
+      "link": "https://thanhnien.vn/home-credit-loi-nhuan-sau-thue-dat-2076-ti-dong-nho-quan-tri-rui-ro-chat-che-185260327144448115.htm",
+      "summary": "Năm 2025, Home Credit Việt Nam tiếp tục ghi nhận lợi nhuận đạt mốc kỷ lục mới. Doanh thu tăng, chi phí được tối ưu và nợ xấu được kiểm soát là động lực cho lợi nhuận của công ty.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:36:00+07:00",
+      "fetched": "2026-03-27T15:40:13.860438+07:00"
+    },
+    {
+      "id": "454f0537d5a903a693405ec25654d161",
+      "title": "Thủ đoạn mới đánh cắp tài khoản Facebook tinh vi hơn bao giờ hết",
+      "link": "https://thanhnien.vn/thu-doan-moi-danh-cap-tai-khoan-facebook-tinh-vi-hon-bao-gio-het-18526032711262976.htm",
+      "summary": "Một chiến dịch lừa đảo trực tuyến mới đang khiến người dùng Facebook đối mặt nguy cơ mất tài khoản, với thủ đoạn ngày càng tinh vi và khó nhận biết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:32:00+07:00",
+      "fetched": "2026-03-27T15:40:13.860584+07:00"
+    },
+    {
+      "id": "02ab77c954a128abc635ef4f2ed056ef",
+      "title": "Audemars Piguet sắp có cửa hàng tại TP HCM",
+      "link": "https://vnexpress.net/audemars-piguet-sap-co-cua-hang-tai-tp-hcm-5055551.html",
+      "summary": "Boutique thứ hai toàn cầu của Audemars Piguet mang diện mạo kiến trúc mới, đặt tại Union Square, dự kiến khai trương vào tháng 5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:30:00+07:00",
+      "fetched": "2026-03-27T15:40:10.524882+07:00"
+    },
+    {
+      "id": "98d85dee62bec25403d642ff48cc8952",
+      "title": "VPBank ưu tiên văn hóa doanh nghiệp song hành hoạt động kinh doanh",
+      "link": "https://vnexpress.net/vpbank-uu-tien-van-hoa-doanh-nghiep-song-hanh-hoat-dong-kinh-doanh-5055548.html",
+      "summary": "VPBank ưu tiên phát triển văn hóa doanh nghiệp với hoạt động khởi động năm kinh doanh mới, đưa gần 6.000 bộ nhân viên tham gia trải nghiệm gắn kết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:30:00+07:00",
+      "fetched": "2026-03-27T15:40:10.525064+07:00"
+    },
+    {
+      "id": "02ab77c954a128abc635ef4f2ed056ef",
+      "title": "Audemars Piguet sắp có cửa hàng tại TP HCM",
+      "link": "https://vnexpress.net/audemars-piguet-sap-co-cua-hang-tai-tp-hcm-5055551.html",
+      "summary": "Boutique thứ hai toàn cầu của Audemars Piguet mang diện mạo kiến trúc mới, đặt tại Union Square, dự kiến khai trương vào tháng 5.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-27T07:30:00+07:00",
+      "fetched": "2026-03-27T15:40:18.380411+07:00"
+    },
+    {
+      "id": "c5276273267f359c57f333cc53883a6e",
+      "title": "Nhà máy chế biến thực phẩm C.P. Củ Chi tăng sản lượng 10 lần sau 10 năm",
+      "link": "https://thanhnien.vn/nha-may-che-bien-thuc-pham-cp-cu-chi-tang-san-luong-10-lan-sau-10-nam-185260327142601035.htm",
+      "summary": "Sau 10 năm đi vào hoạt động tại Khu công nghiệp Tân Phú Trung, xã Củ Chi (TP. HCM), nhà máy C.P. Củ Chi của Công ty Chăn nuôi C.P. Việt Nam dự kiến đạt công suất 33.000 tấn trong năm nay, tăng gần 10 lần so với năm 2016.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:29:00+07:00",
+      "fetched": "2026-03-27T15:40:13.860729+07:00"
+    },
+    {
+      "id": "2aa973ecf50f3bf41b25672229542087",
+      "title": "Đức Hồng y Gioan Baotixita Phạm Minh Mẫn về nơi an nghỉ cuối cùng",
+      "link": "https://thanhnien.vn/duc-hong-y-gioan-baotixita-pham-minh-man-ve-noi-an-nghi-cuoi-cung-185260327124048353.htm",
+      "summary": "Đức Hồng y Gioan Baotixita Phạm Minh Mẫn đã về nơi an nghỉ cuối cùng tại nhà nguyện Đại chủng viện Thánh Giuse Sài Gòn (số 6 Tôn Đức Thắng, phường Sài Gòn).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:29:00+07:00",
+      "fetched": "2026-03-27T15:40:13.860886+07:00"
+    },
+    {
+      "id": "0642267932d74eacaca39f96b2202dc7",
+      "title": "Saigon Co.op giảm giá đến 50% hàng thiết yếu tiếp sức bà nội trợ",
+      "link": "https://thanhnien.vn/saigon-coop-giam-gia-den-50-hang-thiet-yeu-tiep-suc-ba-noi-tro-185260327141425368.htm",
+      "summary": "Saigon Co.op triển khai chương trình ưu đãi với mức giảm giá lên đến 50% cho hơn 1.000 mặt hàng thiết yếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:28:00+07:00",
+      "fetched": "2026-03-27T15:40:13.861063+07:00"
+    },
+    {
+      "id": "957454d6220291d5357da7528d4d3122",
+      "title": "Nhờ AI bùng nổ, công nghiệp chip Trung Quốc tăng trưởng mạnh",
+      "link": "https://thanhnien.vn/nho-ai-bung-no-cong-nghiep-chip-trung-quoc-tang-truong-manh-185260326212256731.htm",
+      "summary": "Ngành công nghiệp chip của Trung Quốc đang cho thấy đà tăng trưởng mạnh mẽ khi cuộc chạy đua toàn cầu xây dựng cơ sở hạ tầng AI tạo ra sự bùng nổ về nhu cầu, dẫn đến chi tiêu vốn cao hơn và mở rộng năng lực sản xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:24:00+07:00",
+      "fetched": "2026-03-27T15:40:13.861213+07:00"
+    },
+    {
+      "id": "31b6b80a6865c5d7858e0ddd8bc2cdde",
+      "title": "Giá vàng trong nước cao hơn thế giới gần 30 triệu đồng/lượng",
+      "link": "https://thanhnien.vn/gia-vang-trong-nuoc-cao-hon-the-gioi-gan-30-trieu-dong-luong-185260327135940481.htm",
+      "summary": "Giá vàng tiếp tục tăng vào đầu chiều 27.3 và ghi nhận mức đắt đỏ kỷ lục so với giá vàng thế giới khi lên gần 30 triệu đồng mỗi lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:21:00+07:00",
+      "fetched": "2026-03-27T15:40:13.861366+07:00"
+    },
+    {
+      "id": "af947e112d49b6be60bea7f4b11c6270",
+      "title": "ADB: 10 nước ASEAN có thể giảm tới 2,3% GDP vì xung đột Trung Đông",
+      "link": "https://vnexpress.net/adb-10-nuoc-asean-co-the-giam-toi-2-3-gdp-vi-xung-dot-trung-dong-5055396.html",
+      "summary": "ADB cho rằng, tăng trưởng kinh tế của 10 nước khu vực ASEAN có thể giảm 0,6-2,3% trong giai đoạn 2026-2027 theo các kịch bản tác động từ xung đột Trung Đông.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-27T07:04:39+07:00",
+      "fetched": "2026-03-27T15:40:18.378772+07:00"
+    },
+    {
+      "id": "3fa0975bad70a984e97c723cd595d348",
+      "title": "Tổng thống Belarus tặng súng cho ông Kim Jong-un",
+      "link": "https://vnexpress.net/tong-thong-belarus-tang-sung-cho-ong-kim-jong-un-5055496.html",
+      "summary": "Ông Lukashenko tặng một khẩu súng trường tấn công VSK cho ông Kim nhân chuyến thăm đầu tiên tới Triều Tiên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T07:03:27+07:00",
+      "fetched": "2026-03-27T15:40:16.628972+07:00"
     },
     {
       "id": "f32db8556da75c32a1cf90e7f95abdb7",
