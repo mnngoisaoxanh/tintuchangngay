@@ -1,6 +1,6 @@
 window.newsData_2026_03_29 = {
   "date": "2026-03-29",
-  "lastUpdated": "2026-03-29T01:27:19.385262+07:00",
+  "lastUpdated": "2026-03-29T03:19:11.465082+07:00",
   "articles": [
     {
       "id": "aa942e6d41fc0e40f028d02977fea01b",
@@ -151,6 +151,56 @@ window.newsData_2026_03_29 = {
       "category": "Tổng hợp",
       "published": "2026-03-29T01:27:10.627930+07:00",
       "fetched": "2026-03-29T01:27:10.628161+07:00"
+    },
+    {
+      "id": "56d48c4a2ecb3d5bad32f49136d7df6f",
+      "title": "Những cảnh sát Mỹ bỏ nghề sau các vụ nổ súng chết người",
+      "link": "https://vnexpress.net/nhung-canh-sat-my-bo-nghe-sau-cac-vu-no-sung-chet-nguoi-5055770.html",
+      "summary": "Arena từng nghĩ mình đủ cứng rắn để vượt qua mọi khốc liệt của nghề cảnh sát, cho đến khi anh nổ súng khiến một người thiệt mạng năm 2020.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-28T20:00:00+07:00",
+      "fetched": "2026-03-29T03:19:06.415389+07:00"
+    },
+    {
+      "id": "13a5eed56b1b2ea4013f64ced7334a2c",
+      "title": "Loài rầy 'ma cà rồng' đe dọa các vườn nho ở Virginia",
+      "link": "https://vnexpress.net/loai-ray-ma-ca-rong-de-doa-cac-vuon-nho-o-virginia-5055626.html",
+      "summary": "Loài rầy đèn lồng đốm có nguồn gốc từ châu Á tấn công các vườn nho ở Virginia, nguồn nguyên liệu cho ngành công nghiệp rượu vang hơn 8 tỷ USD của bang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T19:00:00+07:00",
+      "fetched": "2026-03-29T03:19:00.054469+07:00"
+    },
+    {
+      "id": "13a5eed56b1b2ea4013f64ced7334a2c",
+      "title": "Loài rầy 'ma cà rồng' đe dọa các vườn nho ở Virginia",
+      "link": "https://vnexpress.net/loai-ray-ma-ca-rong-de-doa-cac-vuon-nho-o-virginia-5055626.html",
+      "summary": "Loài rầy đèn lồng đốm có nguồn gốc từ châu Á tấn công các vườn nho ở Virginia, nguồn nguyên liệu cho ngành công nghiệp rượu vang hơn 8 tỷ USD của bang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-28T19:00:00+07:00",
+      "fetched": "2026-03-29T03:19:06.415564+07:00"
+    },
+    {
+      "id": "f0169013cd2475b166ad75df64396f22",
+      "title": "Tuyển Hàn Quốc thua đậm Bờ Biển Ngà",
+      "link": "https://vnexpress.net/tuyen-han-quoc-thua-dam-bo-bien-nga-5055969.html",
+      "summary": "Hàn Quốc ba lần đưa bóng dội cột và mắc nhiều sai lầm phòng ngự, trong trận giao hữu thua Bờ Biển Ngà 0-4 ở Milton Keynes.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T18:49:34+07:00",
+      "fetched": "2026-03-29T03:19:00.054679+07:00"
+    },
+    {
+      "id": "f0169013cd2475b166ad75df64396f22",
+      "title": "Tuyển Hàn Quốc thua đậm Bờ Biển Ngà",
+      "link": "https://vnexpress.net/tuyen-han-quoc-thua-dam-bo-bien-nga-5055969.html",
+      "summary": "Hàn Quốc ba lần đưa bóng dội cột và mắc nhiều sai lầm phòng ngự, trong trận giao hữu thua Bờ Biển Ngà 0-4 ở Milton Keynes.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-28T18:49:34+07:00",
+      "fetched": "2026-03-29T03:19:11.460238+07:00"
     },
     {
       "id": "173088a58e05802464b6b3dbe895e6d2",
