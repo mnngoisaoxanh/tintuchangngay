@@ -1,6 +1,6 @@
 window.newsData_2026_03_29 = {
   "date": "2026-03-29",
-  "lastUpdated": "2026-03-29T03:19:11.465082+07:00",
+  "lastUpdated": "2026-03-29T05:19:02.225589+07:00",
   "articles": [
     {
       "id": "aa942e6d41fc0e40f028d02977fea01b",
@@ -153,6 +153,96 @@ window.newsData_2026_03_29 = {
       "fetched": "2026-03-29T01:27:10.628161+07:00"
     },
     {
+      "id": "9484c114c68b63e33c08d60b5e9c53d6",
+      "title": "Tử vi ngày 29 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-29-thang-3-con-giap-nao-may-man-hom-nay-18526032900103237.htm",
+      "summary": "Tử vi ngày 29 tháng 3 mang đến những gợi ý tham khảo cho 12 con giáp ngày cuối tuần. Vận khí thiên về 'xả - nạp' năng lượng: ai biết buông những áp lực cũ và nạp lại tinh thần sẽ chuẩn bị tốt hơn cho tuần mới. Tài lộc không nằm ở việc kiếm thêm mà ở việc giữ được sự cân bằng và tránh hao hụt không c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T22:15:00+07:00",
+      "fetched": "2026-03-29T05:18:51.217707+07:00"
+    },
+    {
+      "id": "830f40733724724ac9aa9527f04d470c",
+      "title": "Hôm nay 29.3 là ngày thứ 88 năm 2026, vì sao nhiều người quan tâm?",
+      "link": "https://thanhnien.vn/hom-nay-293-la-ngay-thu-88-nam-2026-vi-sao-nhieu-nguoi-quan-tam-185260328174035718.htm",
+      "summary": "Ngày 29.3 hôm nay đánh dấu năm 2026 đi qua 88 ngày. Ngày thứ 88 trong dương lịch đánh dấu một ngày đặc biệt được nhiều người quan tâm hằng năm, là ngày gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T22:00:00+07:00",
+      "fetched": "2026-03-29T05:18:51.217880+07:00"
+    },
+    {
+      "id": "2b1a6fd1f2ec982e369087665522b5b1",
+      "title": "Những lợi ích bất ngờ của dưa hấu",
+      "link": "https://thanhnien.vn/nhung-loi-ich-bat-ngo-cua-dua-hau-185260325165722494.htm",
+      "summary": "Dưa hấu không chỉ là món trái cây giải nhiệt quen thuộc trong mùa hè mà còn mang lại nhiều lợi ích đáng kể cho sức khỏe. Theo Healthline, loại quả mọng nước này cung cấp nhiều vitamin, chất chống oxy hóa và hợp chất thực vật có lợi góp phần hỗ trợ tim mạch, cải thiện làn da và giúp cơ thể duy trì tr...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T22:00:00+07:00",
+      "fetched": "2026-03-29T05:18:51.218040+07:00"
+    },
+    {
+      "id": "21e877a822c360ee60306bfdf5e39c48",
+      "title": "Ông Trump: 'Sao Mỹ phải giúp NATO?'",
+      "link": "https://thanhnien.vn/ong-trump-sao-my-phai-giup-nato-185260328231511349.htm",
+      "summary": "Tổng thống Mỹ Donald Trump hôm 27.3 nhắc lại sự thất vọng của ông đối với các đồng minh NATO về việc họ từ chối gửi quân đến giúp bảo đảm an ninh eo biển Hormuz.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T21:50:00+07:00",
+      "fetched": "2026-03-29T05:18:51.218192+07:00"
+    },
+    {
+      "id": "1c2ece52017b081b9bbae11a23c7657a",
+      "title": "Lịch thi đấu U.23 Việt Nam mới nhất: Quyết đòi thành công ‘món nợ’ thua U.23 Trung Quốc",
+      "link": "https://thanhnien.vn/lich-thi-dau-u23-viet-nam-moi-nhat-quyet-doi-thanh-cong-mon-no-thua-u23-trung-quoc-185260328230258519.htm",
+      "summary": "U.23 Việt Nam sẽ chạm trán đối thủ đầy duyên nợ, U.23 Trung Quốc ở lượt đấu cuối giải giao hữu CFA Team China 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T21:31:00+07:00",
+      "fetched": "2026-03-29T05:18:51.218344+07:00"
+    },
+    {
+      "id": "6d91a065663bbfcf28e32eab28e33cc6",
+      "title": "Tình hình Iran, Trung Đông mới nhất sáng 29.3",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-sang-293-185260328205219443.htm",
+      "summary": "Ngày thứ 30 của cuộc chiến, Iran tiếp tục phát cảnh báo tới các láng giềng ở Trung Đông không được cho phép sử dụng lãnh thổ của họ để Mỹ - Israel tấn công Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T21:30:00+07:00",
+      "fetched": "2026-03-29T05:18:51.218517+07:00"
+    },
+    {
+      "id": "0e1354e60a134ea3c3c3e3b925201523",
+      "title": "Món quà tặng ba của 'người hùng' Trường ĐH Nha Trang",
+      "link": "https://thanhnien.vn/mon-qua-tang-ba-cua-nguoi-hung-truong-dh-nha-trang-185260328230753112.htm",
+      "summary": "Tiền đạo Hồ Thanh Phước muốn dành tặng hai bàn thắng trong trận ra quân của Trường ĐH Nha Trang cho gia đình - những người luôn yêu thương và động viên anh trên hành trình hoàn thiện bản thân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T21:29:00+07:00",
+      "fetched": "2026-03-29T05:18:51.218698+07:00"
+    },
+    {
+      "id": "d71387d5706da36ccb37b2f0f5977ec9",
+      "title": "Hệ thống tự lái 'Mắt Thần' của BYD bị phàn nàn vì lỗi khi vận hành",
+      "link": "https://vnexpress.net/he-thong-tu-lai-mat-than-cua-byd-bi-phan-nan-vi-loi-khi-van-hanh-5055544.html",
+      "summary": "Hệ thống hỗ trợ lái của BYD bị người dùng Trung Quốc phản ánh lỗi như tăng tốc bất thường, đánh lái sai, làm dấy lên lo ngại an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T21:00:00+07:00",
+      "fetched": "2026-03-29T05:18:47.934913+07:00"
+    },
+    {
+      "id": "b673f58888bdcbb767f1b29f3b3322ab",
+      "title": "Khai mạc giải bóng đá Thanh Niên sinh viên quốc tế lần II - 2026 cúp Thaco",
+      "link": "https://thanhnien.vn/khai-mac-giai-bong-da-thanh-nien-sinh-vien-quoc-te-lan-ii-2026-cup-thaco-1852603282224078.htm",
+      "summary": "Hôm qua 28.3 trên sân Trường ĐH Nha Trang diễn ra lễ khai mạc giải bóng đá Thanh Niên sinh viên (TNSV) quốc tế lần II - 2026 cúp THACO với sự góp mặt của 4 đội khách mời quốc tế đến từ Singapore, Malaysia, Lào, Campuchia cùng 2 đại diện chủ nhà VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T20:49:00+07:00",
+      "fetched": "2026-03-29T05:18:51.218857+07:00"
+    },
+    {
       "id": "56d48c4a2ecb3d5bad32f49136d7df6f",
       "title": "Những cảnh sát Mỹ bỏ nghề sau các vụ nổ súng chết người",
       "link": "https://vnexpress.net/nhung-canh-sat-my-bo-nghe-sau-cac-vu-no-sung-chet-nguoi-5055770.html",
@@ -161,6 +251,16 @@ window.newsData_2026_03_29 = {
       "category": "Thế giới",
       "published": "2026-03-28T20:00:00+07:00",
       "fetched": "2026-03-29T03:19:06.415389+07:00"
+    },
+    {
+      "id": "5a2d349ec431643ff1bd68d6f94301fb",
+      "title": "Bạn trai không dám để tình cũ biết chuyện chúng tôi",
+      "link": "https://vnexpress.net/ban-trai-khong-dam-de-tinh-cu-biet-chuyen-chung-toi-5055866.html",
+      "summary": "Tôi không muốn tiếp tục sống trong cảm giác thiếu an toàn mà anh mang lại, cũng không thể dứt ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T20:00:00+07:00",
+      "fetched": "2026-03-29T05:18:47.935099+07:00"
     },
     {
       "id": "13a5eed56b1b2ea4013f64ced7334a2c",
