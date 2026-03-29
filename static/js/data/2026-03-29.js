@@ -1,7 +1,157 @@
 window.newsData_2026_03_29 = {
   "date": "2026-03-29",
-  "lastUpdated": "2026-03-29T11:29:39.469526+07:00",
+  "lastUpdated": "2026-03-29T13:53:37.887277+07:00",
   "articles": [
+    {
+      "id": "1a86f3cf0781262c1af0b0370e6cbf84",
+      "title": "Sinner đứng trước cột mốc lịch sử",
+      "link": "https://tuoitre.vn/sinner-dung-truoc-cot-moc-lich-su-20260329073141985.htm",
+      "summary": "Tay vợt Jannik Sinner đang đứng trước cơ hội giành được cú đúp danh hiệu (Sunshine Double) sau khi vừa tiến vào chung kết Miami Open 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.372886+07:00",
+      "fetched": "2026-03-29T13:53:28.372999+07:00"
+    },
+    {
+      "id": "2ed2f2859bff47cb415e49368a740ba6",
+      "title": "Tuyển thủ Malaysia: 'Chúng  tôi vẫn mạnh, sẵn sàng đấu tuyển Việt Nam'",
+      "link": "https://tuoitre.vn/tuyen-thu-malaysia-chung-toi-van-manh-san-sang-dau-tuyen-viet-nam-20260329100627558.htm",
+      "summary": "Hậu vệ đội trưởng Matthew Davies của tuyển Malaysia khẳng định dù không có vé đi Asian Cup và không còn các cầu thủ nhập tịch lậu nữa, anh và đồng đội vẫn sẽ chơi một trận ra trò với tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.372758+07:00",
+      "fetched": "2026-03-29T13:53:28.372874+07:00"
+    },
+    {
+      "id": "182774c1ccfea05aa9dc8b1583e0743d",
+      "title": "Chủ đầu tư tự xác định giá bán nhà ở xã hội: Làm sao để giá nhà không bị đẩy lên quá cao?",
+      "link": "https://tuoitre.vn/chu-dau-tu-tu-xac-dinh-gia-ban-nha-o-xa-hoi-lam-sao-de-gia-nha-khong-bi-day-len-qua-cao-20260329082021093.htm",
+      "summary": "Nhiều người lo lắng giá nhà ở xã hội sẽ càng xa tầm với của người có thu nhập thấp nếu chủ đầu tư tự xác định giá bán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.372631+07:00",
+      "fetched": "2026-03-29T13:53:28.372747+07:00"
+    },
+    {
+      "id": "7916eb6250502ed425e6f8f72189c7ac",
+      "title": "EVNSPC tổ chức Lễ hưởng ứng hưởng ứng Chiến dịch Giờ Trái đất",
+      "link": "https://tuoitre.vn/evnspc-to-chuc-le-huong-ung-huong-ung-chien-dich-gio-trai-dat-20260329093426882.htm",
+      "summary": "Tối 28-3, tại tỉnh Vĩnh Long, Tổng công ty Điện lực miền Nam (EVNSPC) tổ chức Lễ hưởng ứng Chiến dịch Giờ Trái đất năm 2026, với thông điệp “Sáng tạo xanh - Tương lai xanh”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.372508+07:00",
+      "fetched": "2026-03-29T13:53:28.372620+07:00"
+    },
+    {
+      "id": "6c4b9cffb5bec27539b36e081778acd3",
+      "title": "Vừa giao sầu riêng xong đang trên đường về nhà, chiếc xe tải bốc cháy dữ dội",
+      "link": "https://tuoitre.vn/vua-giao-sau-rieng-xong-dang-tren-duong-ve-nha-chiec-xe-tai-boc-chay-du-doi-20260329073023017.htm",
+      "summary": "Vừa giao sầu riêng xong, xe tải đang trên đường về nhà thì bất ngờ bốc cháy dữ dội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.372384+07:00",
+      "fetched": "2026-03-29T13:53:28.372497+07:00"
+    },
+    {
+      "id": "cf2e3f2bb6bf491d30a06e9e100e9737",
+      "title": "Hoàng Nguyên Thanh, Phạm Thị Hồng Lệ vô địch 42,195km Giải marathon quốc gia 2026",
+      "link": "https://tuoitre.vn/hoang-nguyen-thanh-pham-thi-hong-le-vo-dich-42-195km-giai-marathon-quoc-gia-2026-20260329102512663.htm",
+      "summary": "Sáng 29-3, hơn 12.000 VĐV tranh tài tại Nha Trang (Khánh Hòa) đã tạo nên mùa giải marathon quốc gia sôi động và giàu cảm xúc. Hai VĐV Hoàng Nguyên Thanh (Bình Phước), Phạm Thị Hồng Lệ (Gia Lai) là nhà vô địch marathon nam, nữ của giải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.372254+07:00",
+      "fetched": "2026-03-29T13:53:28.372373+07:00"
+    },
+    {
+      "id": "c78288cc2e84cab2622d4e1acdbe6e99",
+      "title": "Cảnh sát giao thông đưa người đàn ông bị té ngã trên đường do nhồi máu cơ tim đi cấp cứu",
+      "link": "https://tuoitre.vn/canh-sat-giao-thong-dua-nguoi-dan-ong-bi-te-nga-tren-duong-do-nhoi-mau-co-tim-di-cap-cuu-20260329104223482.htm",
+      "summary": "Cảnh sát giao thông Phòng Cảnh sát giao thông Công an tỉnh Vĩnh Long dùng xe đặc chủng đưa người đàn ông bị té ngã trên đường do nhồi máu cơ tim đến bệnh viện cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.372115+07:00",
+      "fetched": "2026-03-29T13:53:28.372232+07:00"
+    },
+    {
+      "id": "8c1014cfd6a1a25893807093632bbf9b",
+      "title": "Dự báo thời tiết từ 29-3 đến 4-4: Cả nước nắng nóng, trời oi bức",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-29-3-den-4-4-ca-nuoc-nang-nong-troi-oi-buc-20260328145514942.htm",
+      "summary": "Tuần này, từ ngày 29-3 đến 4-4, cả nước có đợt nắng nóng diện rộng, mức nhiệt có thể lên tới 38 độ C, trời oi bức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.371964+07:00",
+      "fetched": "2026-03-29T13:53:28.372101+07:00"
+    },
+    {
+      "id": "b200a4edd3568969889068113df746a0",
+      "title": "Tân HLV Herdman được ca ngợi hết lời sau trận ra mắt Indonesia",
+      "link": "https://tuoitre.vn/tan-hlv-herdman-duoc-ca-ngoi-het-loi-sau-tran-ra-mat-indonesia-20260329110247195.htm",
+      "summary": "Khởi đầu của tân HLV trưởng John Herdman cùng đội tuyển Indonesia đang nhận được \"cơn mưa\" lời khen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.371841+07:00",
+      "fetched": "2026-03-29T13:53:28.371953+07:00"
+    },
+    {
+      "id": "3b449fc8fb45a7d35f7287d007a2ee08",
+      "title": "Giảm trừ chi y tế, giáo dục khi tính thuế: Cần 'rộng tay' hơn",
+      "link": "https://tuoitre.vn/giam-tru-chi-y-te-giao-duc-khi-tinh-thue-can-rong-tay-hon-20260329080512547.htm",
+      "summary": "Mức giảm trừ thuế thu nhập cá nhân được xem là khá khiêm tốn trong bối cảnh hiện nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.371716+07:00",
+      "fetched": "2026-03-29T13:53:28.371830+07:00"
+    },
+    {
+      "id": "1be0d3ede2d0e362cdd34b5cf45461fe",
+      "title": "Khán giả có quyền thưởng thức nghệ thuật thật",
+      "link": "https://tuoitre.vn/khan-gia-co-quyen-thuong-thuc-nghe-thuat-that-20260329093722663.htm",
+      "summary": "Siết quản lý trong hoạt động biểu diễn là cần thiết để bảo vệ môi trường nghệ thuật lành mạnh và quyền thưởng thức của khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.371588+07:00",
+      "fetched": "2026-03-29T13:53:28.371704+07:00"
+    },
+    {
+      "id": "ba16f9b941e62240430fd314a2293c17",
+      "title": "Hoàng Anh Gia Lai, PISICO Bình Định đầu tư hàng ngàn tỉ đồng vào Lào",
+      "link": "https://tuoitre.vn/hoang-anh-gia-lai-pisico-binh-dinh-dau-tu-hang-ngan-ti-dong-vao-lao-20260329110828336.htm",
+      "summary": "Tổng công ty PISICO Bình Định cam kết đầu tư thêm 1.500 tỉ đồng vào tỉnh Sekong (Lào). Trong khi đó, Tập đoàn Hoàng Anh Gia Lai tiếp tục đầu tư vào dự án trồng rừng đa canh tại tỉnh Attapeu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.371461+07:00",
+      "fetched": "2026-03-29T13:53:28.371576+07:00"
+    },
+    {
+      "id": "b74b22b95c6d0f2102c7153531a79fb6",
+      "title": "Thủ tướng Phạm Minh Chính: Khai thác, phát huy hơn nữa 'Tứ Sơn' của Thanh Hóa",
+      "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-khai-thac-phat-huy-hon-nua-tu-son-cua-thanh-hoa-20260329111802901.htm",
+      "summary": "Dự Hội nghị Xúc tiến đầu tư tỉnh Thanh Hóa năm 2026, Thủ tướng Chính phủ Phạm Minh Chính nhấn mạnh yêu cầu phát huy hơn nữa \"Tứ Sơn\" của Thanh Hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.371329+07:00",
+      "fetched": "2026-03-29T13:53:28.371449+07:00"
+    },
+    {
+      "id": "8a21e96735e456a0969d10221389d64f",
+      "title": "Nhắn nhủ sinh viên 'chọn bạn mà chơi' thông qua phiên tòa giả định",
+      "link": "https://tuoitre.vn/nhan-nhu-sinh-vien-chon-ban-ma-choi-thong-qua-phien-toa-gia-dinh-20260329105956109.htm",
+      "summary": "Từ phiên tòa giả định, ban tổ chức gửi thông điệp đến sinh viên 'chọn bạn mà chơi'. Cần có bản lĩnh để nói 'không' với những lời rủ rê vi phạm pháp luật. Một người bạn tốt sẽ không bao giờ lôi kéo bạn vào con đường tù tội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.371186+07:00",
+      "fetched": "2026-03-29T13:53:28.371317+07:00"
+    },
+    {
+      "id": "635decbe58b64e6f0298aba7adba6a06",
+      "title": "Xử phạt TikToker phóng mô tô nước trên bãi tắm công cộng ở Nha Trang",
+      "link": "https://tuoitre.vn/xu-phat-tiktoker-phong-mo-to-nuoc-tren-bai-tam-cong-cong-o-nha-trang-2026032911253346.htm",
+      "summary": "Đội Cảnh sát giao thông đường thủy số 1, Phòng Cảnh sát giao thông Công an tỉnh Khánh Hòa đã lập biên bản xử phạt đối với TikToker phóng mô tô nước trên bãi tắm công cộng ở Nha Trang (tỉnh Khánh Hòa).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:53:28.370931+07:00",
+      "fetched": "2026-03-29T13:53:28.371170+07:00"
+    },
     {
       "id": "d8a0eda56bab1a85808deaa51af86afa",
       "title": "Mở đường cho văn hóa cất cánh",
@@ -301,6 +451,376 @@ window.newsData_2026_03_29 = {
       "category": "Tổng hợp",
       "published": "2026-03-29T08:26:02.726354+07:00",
       "fetched": "2026-03-29T08:26:02.726602+07:00"
+    },
+    {
+      "id": "3b4536e1892f45f9fcdc61c080ac1df9",
+      "title": "Hải Phòng đề xuất miễn phí hạ tầng cảng biển đối xăng, dầu",
+      "link": "https://thanhnien.vn/hai-phong-de-xuat-mien-phi-ha-tang-cang-bien-doi-xang-dau-185260329120513558.htm",
+      "summary": "Hải Phòng tổ chức hội nghị tháo gỡ khó khăn cho doanh nghiệp kinh doanh xăng dầu, đề xuất nhiều giải pháp hỗ trợ thiết thực, đảm bảo chuỗi cung ứng thông suốt và ổn định thị trường trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T06:52:00+07:00",
+      "fetched": "2026-03-29T13:53:27.263448+07:00"
+    },
+    {
+      "id": "f1656d42fc83c37eb7bc2c2dfed056d6",
+      "title": "Quyền Linh hoang mang trước tiêu chí 'lạ' của cô gái khi đi hẹn hò",
+      "link": "https://thanhnien.vn/quyen-linh-hoang-mang-truoc-tieu-chi-la-cua-co-gai-khi-di-hen-ho-185260329133443508.htm",
+      "summary": "Tham gia show hẹn hò, cô gái 32 tuổi gây chú ý khi hồn nhiên chia sẻ sở thích 'ghiền cạo gió', khiến Quyền Linh bất ngờ. Cô cho biết chỉ mong tìm được người thật lòng thương và tôn trọng mình, trong khi đàng trai cũng tìm kiếm sự chung thủy, thấu hiểu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T06:46:00+07:00",
+      "fetched": "2026-03-29T13:53:27.263618+07:00"
+    },
+    {
+      "id": "a8ab8cdb466f04ca7db9c9b3ae9c0746",
+      "title": "Vỉa hè Đà Nẵng 'lột xác', người dân đồng thuận, du khách ấn tượng",
+      "link": "https://thanhnien.vn/via-he-da-nang-lot-xac-nguoi-dan-dong-thuan-du-khach-an-tuong-185260329125625702.htm",
+      "summary": "Sau lễ phát động ra quân đồng loạt ngày 29.3, diện mạo vỉa hè tại Đà Nẵng thay đổi rõ rệt. Nhiều tuyến phố trung tâm trở nên gọn gàng, sạch sẽ, trả lại không gian cho người đi bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T06:44:00+07:00",
+      "fetched": "2026-03-29T13:53:27.263776+07:00"
+    },
+    {
+      "id": "e294368a16b1a34ae51544357808c968",
+      "title": "32 người nôn ói sau ăn bánh mì nghi ngộ độc",
+      "link": "https://vnexpress.net/32-nguoi-non-oi-sau-an-banh-mi-nghi-ngo-doc-5056062.html",
+      "summary": "32 người ở xã Ea H'leo đau bụng, nôn ói sau khi ăn bánh mì mua tại một cửa hàng trên địa bàn, nghi ngộ độc thực phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T06:42:37+07:00",
+      "fetched": "2026-03-29T13:53:23.937860+07:00"
+    },
+    {
+      "id": "f45f5a95f37e315b1ef07447b2c6661e",
+      "title": "TP.HCM nắng nóng gay gắt, nhiều người ghé các 'trạm nước 0 đồng' ven đường",
+      "link": "https://thanhnien.vn/tphcm-nang-nong-gay-gat-cac-tram-nuoc-0-dong-xuat-hien-khap-noi-185260329122940085.htm",
+      "summary": "Giữa nắng nóng gay gắt tại TP.HCM, nhiều người đi đường ghé các điểm nước miễn phí ven đường để giải nhiệt trước khi tiếp tục hành trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T06:25:00+07:00",
+      "fetched": "2026-03-29T13:53:27.263928+07:00"
+    },
+    {
+      "id": "114df5266ab5ed419137e25c3e588a7e",
+      "title": "'Hoppers' - thế giới qua lăng kính động vật",
+      "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/hoppers-892",
+      "summary": "Cô bé Mabel đối mặt nhiều tình huống oái oăm khi dùng công nghệ chuyển ý thức vào robot hình dạng hải ly, trong phim \"Hoppers\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T06:22:10+07:00",
+      "fetched": "2026-03-29T13:53:23.938113+07:00"
+    },
+    {
+      "id": "710291f8e6b0c238628925931896147a",
+      "title": "Thích nhắn tin hơn nghe điện thoại - hướng nội hay kém giao tiếp?",
+      "link": "https://vnexpress.net/thich-nhan-tin-hon-nghe-dien-thoai-huong-noi-hay-kem-giao-tiep-5056061.html",
+      "summary": "Nhiều lúc cần thông tin nhưng các đồng nghiệp trẻ không nghe máy, nhắn tin thì phản hồi chậm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T06:13:49+07:00",
+      "fetched": "2026-03-29T13:53:23.938287+07:00"
+    },
+    {
+      "id": "05a23b027ff3ab83476154a90a0dd811",
+      "title": "Gác lại vinh quang quốc nội, Trường ĐH Thủy lợi sẵn sàng chinh phục giải quốc tế",
+      "link": "https://thanhnien.vn/gac-lai-vinh-quang-quoc-noi-truong-dh-thuy-loi-san-sang-chinh-phuc-giai-quoc-te-185260329130939603.htm",
+      "summary": "Chỉ một tuần sau khi bước lên đỉnh cao nhất của bóng đá sinh viên trong nước, đội Trường ĐH Thủy Lợi đã lập tức bắt tay vào hành trình mới tại giải Thanh Niên sinh viên quốc tế. Đối mặt với những đối thủ hàng đầu khu vực, thầy trò HLV Vũ Văn Trung đang nỗ lực gác lại ánh hào quang cũ, tập trung hồi ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T06:11:00+07:00",
+      "fetched": "2026-03-29T13:53:27.264124+07:00"
+    },
+    {
+      "id": "344ef24a8ae138ab60baae2a6824fcf3",
+      "title": "TikToker phóng mô tô nước trên bãi tắm Nha Trang bị xử phạt 5 triệu đồng",
+      "link": "https://thanhnien.vn/tiktoker-phong-mo-to-nuoc-tren-bai-tam-nha-trang-bi-xu-phat-5-trieu-dong-185260329122929508.htm",
+      "summary": "TikToker lái mô tô nước với tốc độ cao trên bãi tắm công cộng ở Nha Trang (Khánh Hòa) để quay clip đăng mạng xã hội đã bị Cảnh sát giao thông đường thủy Khánh Hòa xử phạt hành chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T06:09:00+07:00",
+      "fetched": "2026-03-29T13:53:27.264287+07:00"
+    },
+    {
+      "id": "7639b37d652a1ae6325c20da5cdbfc71",
+      "title": "Sinner hướng đến kỳ tích 'Sunshine Double'",
+      "link": "https://vnexpress.net/sinner-huong-den-ky-tich-sunshine-double-5056068.html",
+      "summary": "Tay vợt số 2 thế giới Jannik Sinner đối đầu Jiri Lehecka, ở chung kết Miami Mở rộng 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T06:08:31+07:00",
+      "fetched": "2026-03-29T13:53:23.938448+07:00"
+    },
+    {
+      "id": "7639b37d652a1ae6325c20da5cdbfc71",
+      "title": "Sinner hướng đến kỳ tích 'Sunshine Double'",
+      "link": "https://vnexpress.net/sinner-huong-den-ky-tich-sunshine-double-5056068.html",
+      "summary": "Tay vợt số 2 thế giới Jannik Sinner đối đầu Jiri Lehecka, ở chung kết Miami Mở rộng 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-29T06:08:31+07:00",
+      "fetched": "2026-03-29T13:53:37.879458+07:00"
+    },
+    {
+      "id": "dcf9dcbb645fe2d4792e2928afd08143",
+      "title": "Không giỏi toán có thể trở thành 'hacker vĩ đại' được không?",
+      "link": "https://thanhnien.vn/khong-gioi-toan-co-the-tro-thanh-hacker-vi-dai-duoc-khong-185260329101136689.htm",
+      "summary": "'Em có ước mơ nồng cháy từ nhỏ là trở thành một hacker vĩ đại, lớn lên em muốn làm công nghệ thông tin. Mà em không giỏi toán lắm'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T06:03:00+07:00",
+      "fetched": "2026-03-29T13:53:27.264438+07:00"
+    },
+    {
+      "id": "7d0753f31937e65c955aaedb35d4fdf0",
+      "title": "Hàng không và du lịch làm gì để vượt bão giá xăng dầu?",
+      "link": "https://thanhnien.vn/hang-khong-va-du-lich-lam-gi-de-vuot-bao-gia-xang-dau-185260329114410033.htm",
+      "summary": "Lần đầu tiên, 5 hãng hàng không Việt Nam (Vietnam Airlines, Vietjet Air, Bamboo Airways, Vietravel Airlines, Sun Phuquoc Airways) cùng có mặt tại buổi Tọa đàm của Báo Thanh Niên, cùng các nhà phát triển du lịch lớn nhất cả nước (Vingroup, Sun Group, Vietravel Corporation...) chia sẻ những khó khăn, ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T06:02:00+07:00",
+      "fetched": "2026-03-29T13:53:27.264589+07:00"
+    },
+    {
+      "id": "aca4097c06ab9bb372628dc1ee376f03",
+      "title": "Người giàu Mỹ cũng bất an về nền kinh tế",
+      "link": "https://vnexpress.net/nguoi-giau-my-cung-bat-an-ve-nen-kinh-te-5056023.html",
+      "summary": "Niềm tin tiêu dùng của người Mỹ xuống thấp nhất 3 tháng, khi xung đột Trung Đông khiến giá xăng tăng vọt và chứng khoán sụt giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T06:00:00+07:00",
+      "fetched": "2026-03-29T13:53:23.938604+07:00"
+    },
+    {
+      "id": "aca4097c06ab9bb372628dc1ee376f03",
+      "title": "Người giàu Mỹ cũng bất an về nền kinh tế",
+      "link": "https://vnexpress.net/nguoi-giau-my-cung-bat-an-ve-nen-kinh-te-5056023.html",
+      "summary": "Niềm tin tiêu dùng của người Mỹ xuống thấp nhất 3 tháng, khi xung đột Trung Đông khiến giá xăng tăng vọt và chứng khoán sụt giảm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-29T06:00:00+07:00",
+      "fetched": "2026-03-29T13:53:32.405032+07:00"
+    },
+    {
+      "id": "8f724d3a5511a1ca76afa9e1a20c0eb2",
+      "title": "Khởi công khu công nghiệp hơn 4.150 tỉ đồng ở cực tăng trưởng nam Đà Nẵng",
+      "link": "https://thanhnien.vn/khoi-cong-khu-cong-nghiep-hon-4150-ti-dong-o-cuc-tang-truong-nam-da-nang-185260329121005662.htm",
+      "summary": "Dự án Khu công nghiệp Tam Anh - An An Hòa tại cực tăng trưởng nam Đà Nẵng khởi công sáng nay 29.3 là một trong 2 mảnh ghép cuối cùng trong 1.545 ha đất công nghiệp đã được quy hoạch của địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:59:00+07:00",
+      "fetched": "2026-03-29T13:53:27.264743+07:00"
+    },
+    {
+      "id": "f0021998c7e0b4926a9c51149f78e265",
+      "title": "Công an cửa khẩu Tân Sơn Nhất tặng quà các bệnh nhi ung thư",
+      "link": "https://thanhnien.vn/cong-an-cua-khau-tan-son-nhat-tang-qua-cac-benh-nhi-ung-thu-185260329114028107.htm",
+      "summary": "Ngày 29.3, Công an cửa khẩu Cảng hàng không quốc tế Tân Sơn Nhất đã thăm hỏi, trao quà cho các bệnh nhi ung thư tại Bệnh viện Nhi đồng 1 (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:59:00+07:00",
+      "fetched": "2026-03-29T13:53:27.264893+07:00"
+    },
+    {
+      "id": "319014b03302eb9ce698cb80303bab41",
+      "title": "Đối thủ to tiếng tranh nhau áo của Messi",
+      "link": "https://vnexpress.net/doi-thu-to-tieng-tranh-nhau-ao-cua-messi-5055987.html",
+      "summary": "Các cầu thủ Mauritania tranh nhau áo đấu của Lionel Messi sau trận giao hữu với tuyển Argentina hôm 27/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:50:19+07:00",
+      "fetched": "2026-03-29T13:53:23.938773+07:00"
+    },
+    {
+      "id": "319014b03302eb9ce698cb80303bab41",
+      "title": "Đối thủ to tiếng tranh nhau áo của Messi",
+      "link": "https://vnexpress.net/doi-thu-to-tieng-tranh-nhau-ao-cua-messi-5055987.html",
+      "summary": "Các cầu thủ Mauritania tranh nhau áo đấu của Lionel Messi sau trận giao hữu với tuyển Argentina hôm 27/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-29T05:50:19+07:00",
+      "fetched": "2026-03-29T13:53:37.879953+07:00"
+    },
+    {
+      "id": "c892446f873b3675ec4d483a63c3f5b5",
+      "title": "SUV 'xịn' nhất của Hyundai tại Việt Nam nhận đặt cọc xe thế hệ mới",
+      "link": "https://thanhnien.vn/suv-xin-nhat-cua-hyundai-tai-viet-nam-nhan-dat-coc-xe-the-he-moi-185260327154307685.htm",
+      "summary": "Các đại lý Hyundai tại Việt Nam bắt đầu nhận đặt cọc với Hyundai Palisade thế hệ mới, mẫu SUV cỡ lớn được chờ đợi với thiết kế lột xác, bổ sung công nghệ và tùy chọn động cơ hybrid.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:49:00+07:00",
+      "fetched": "2026-03-29T13:53:27.265068+07:00"
+    },
+    {
+      "id": "a19f943049ef94ee4fe14f4264b8f211",
+      "title": "Chuyên gia đề xuất tách xe bán tải thành nhóm riêng, tránh ‘đánh đồng’ với xe tải",
+      "link": "https://thanhnien.vn/chuyen-gia-de-xuat-tach-xe-ban-tai-thanh-nhom-rieng-tranh-danh-dong-voi-xe-tai-185260328101115349.htm",
+      "summary": "Theo chuyên gia Vũ Tấn Công, việc tách xe bán tải thành một nhóm xe riêng là giải pháp tối ưu, đảm bảo cách quản lý phù hợp hơn với đặc thù của dòng xe này, đồng thời hạn chế những bất cập phát sinh trong thực tế lưu thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:48:00+07:00",
+      "fetched": "2026-03-29T13:53:27.265222+07:00"
+    },
+    {
+      "id": "9eca38d1808d481b0b5725eaec6d5592",
+      "title": "Tranh cãi về giờ nghỉ uống nước tại World Cup 2026",
+      "link": "https://vnexpress.net/tranh-cai-ve-gio-nghi-uong-nuoc-tai-world-cup-2026-5055973.html",
+      "summary": "Được thử nghiệm trong trận Brazil - Pháp, quy định tạm dừng 3 phút do FIFA đề xuất đang gây tranh luận về nhịp độ thi đấu, khi ranh giới giữa bảo vệ sức khỏe, toan tính chiến thuật và lợi ích thương mại trở nên mờ nhạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:46:20+07:00",
+      "fetched": "2026-03-29T13:53:23.938934+07:00"
+    },
+    {
+      "id": "9eca38d1808d481b0b5725eaec6d5592",
+      "title": "Tranh cãi về giờ nghỉ uống nước tại World Cup 2026",
+      "link": "https://vnexpress.net/tranh-cai-ve-gio-nghi-uong-nuoc-tai-world-cup-2026-5055973.html",
+      "summary": "Được thử nghiệm trong trận Brazil - Pháp, quy định tạm dừng 3 phút do FIFA đề xuất đang gây tranh luận về nhịp độ thi đấu, khi ranh giới giữa bảo vệ sức khỏe, toan tính chiến thuật và lợi ích thương mại trở nên mờ nhạt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-29T05:46:20+07:00",
+      "fetched": "2026-03-29T13:53:37.880137+07:00"
+    },
+    {
+      "id": "457312dcd9abbb66d575bc34f3419a91",
+      "title": "Ngành điện TP.HCM: Nửa thế kỷ xây dựng, phát triển và thắp sáng niềm tin",
+      "link": "https://thanhnien.vn/nganh-dien-tphcm-nua-the-ky-xay-dung-phat-trien-va-thap-sang-niem-tin-185260327210438963.htm",
+      "summary": "Đằng sau vẻ đẹp lung linh của TP.HCM về đêm, là sự đóng góp thầm lặng, bền bỉ của ngành điện thành phố, một hành trình 50 năm xây dựng, phát triển và thắp sáng niềm tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:46:00+07:00",
+      "fetched": "2026-03-29T13:53:27.265368+07:00"
+    },
+    {
+      "id": "19f062d953550ae2d4e1ee6f9416f8bf",
+      "title": "Lý do tai nghe headphone vẫn được ưa chuộng giữa 'cơn sốt' earbuds",
+      "link": "https://thanhnien.vn/ly-do-tai-nghe-headphone-van-duoc-ua-chuong-giua-con-sot-earbuds-185260325115003556.htm",
+      "summary": "Tai nghe không dây đã trở thành một trong những lựa chọn âm thanh cá nhân phổ biến nhất, phục vụ cho nhu cầu chơi game, xem phim và nghe nhạc thư giãn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:39:00+07:00",
+      "fetched": "2026-03-29T13:53:27.265524+07:00"
+    },
+    {
+      "id": "1adfcc6090929bce8f9d043c5f57c0f6",
+      "title": "Phim Việt thu hơn 1,6 tỉ sau 1 tuần ra rạp",
+      "link": "https://thanhnien.vn/phim-viet-thu-hon-16-ti-sau-1-tuan-ra-rap-185260329105832823.htm",
+      "summary": "Ra rạp từ 20.3, tính đến hiện tại, phim 'Bus: Chuyến xe một chiều' chỉ thu hơn 1,6 tỉ đồng. Tác phẩm đứng trước nguy cơ thua lỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:38:00+07:00",
+      "fetched": "2026-03-29T13:53:27.265680+07:00"
+    },
+    {
+      "id": "83813e866bae5f9f21e5e15faa0b692b",
+      "title": "Bộ Y tế: 'Không chủ quan với biến thể Covid Ve sầu'",
+      "link": "https://vnexpress.net/bo-y-te-khong-chu-quan-voi-bien-the-covid-ve-sau-5056012.html",
+      "summary": "Ngành y tế khuyến cáo người dân không hoang mang nhưng cũng không chủ quan, chủ động theo dõi sức khỏe, thực hiện tốt vệ sinh cá nhân và đến cơ sở y tế khi có biểu hiện nghi ngờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:32:42+07:00",
+      "fetched": "2026-03-29T13:53:23.939112+07:00"
+    },
+    {
+      "id": "33c2e56b120748d6dc8c4de2764a57da",
+      "title": "Martinez: 'May mà Argentina không đá với Tây Ban Nha'",
+      "link": "https://vnexpress.net/martinez-may-ma-argentina-khong-da-voi-tay-ban-nha-5056018.html",
+      "summary": "Theo thủ môn Emiliano Martinez, việc không đá Finalissima với Tây Ban Nha là may mắn cho Argentina, xét theo cách anh và đồng đội chơi tệ trong trận giao hữu thắng Mauritania 2-1 hôm 27/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:30:06+07:00",
+      "fetched": "2026-03-29T13:53:23.939273+07:00"
+    },
+    {
+      "id": "33c2e56b120748d6dc8c4de2764a57da",
+      "title": "Martinez: 'May mà Argentina không đá với Tây Ban Nha'",
+      "link": "https://vnexpress.net/martinez-may-ma-argentina-khong-da-voi-tay-ban-nha-5056018.html",
+      "summary": "Theo thủ môn Emiliano Martinez, việc không đá Finalissima với Tây Ban Nha là may mắn cho Argentina, xét theo cách anh và đồng đội chơi tệ trong trận giao hữu thắng Mauritania 2-1 hôm 27/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-29T05:30:06+07:00",
+      "fetched": "2026-03-29T13:53:37.880296+07:00"
+    },
+    {
+      "id": "d0ab22ce1101492132d2d587fa77ed72",
+      "title": "Biển người xem trình diễn thực cảnh khai mạc năm Du lịch quốc gia Gia Lai",
+      "link": "https://vnexpress.net/bien-nguoi-xem-trinh-dien-thuc-canh-khai-mac-nam-du-lich-quoc-gia-gia-lai-5055982.html",
+      "summary": "Hàng chục nghìn du khách trong nước và quốc tế đổ về quảng trường Nguyễn Tất Thành, phường Quy Nhơn dự lễ khai mạc năm du lịch Quốc gia Gia Lai 2026, tối 28/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:27:54+07:00",
+      "fetched": "2026-03-29T13:53:23.939436+07:00"
+    },
+    {
+      "id": "0d9953021c27efdfef4a6195af9aef4d",
+      "title": "Nhóm tác chiến đổ bộ đầu tiên của Mỹ có mặt tại Trung Đông",
+      "link": "https://vnexpress.net/nhom-tac-chien-do-bo-dau-tien-cua-my-co-mat-tai-trung-dong-5056035.html",
+      "summary": "Quân đội Mỹ thông báo tàu đổ bộ tấn công USS Tripoli, chở theo 2.500 lính thủy đánh bộ, đã đến Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:24:40+07:00",
+      "fetched": "2026-03-29T13:53:23.939596+07:00"
+    },
+    {
+      "id": "0d9953021c27efdfef4a6195af9aef4d",
+      "title": "Nhóm tác chiến đổ bộ đầu tiên của Mỹ có mặt tại Trung Đông",
+      "link": "https://vnexpress.net/nhom-tac-chien-do-bo-dau-tien-cua-my-co-mat-tai-trung-dong-5056035.html",
+      "summary": "Quân đội Mỹ thông báo tàu đổ bộ tấn công USS Tripoli, chở theo 2.500 lính thủy đánh bộ, đã đến Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-29T05:24:40+07:00",
+      "fetched": "2026-03-29T13:53:30.395807+07:00"
+    },
+    {
+      "id": "b8c208bb8433f26f09dada3c038aa81d",
+      "title": "Công bố 522 thủ tục hành chính thuộc Bộ Khoa học và Công nghệ",
+      "link": "https://vnexpress.net/cong-bo-522-thu-tuc-hanh-chinh-thuoc-bo-khoa-hoc-va-cong-nghe-5055861.html",
+      "summary": "Bộ Khoa học và Công nghệ công bố 522 thủ tục hành chính, triển khai trên Hệ thống thông tin giải quyết thủ tục hành chính tập trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:24:19+07:00",
+      "fetched": "2026-03-29T13:53:23.939746+07:00"
+    },
+    {
+      "id": "b8c208bb8433f26f09dada3c038aa81d",
+      "title": "Công bố 522 thủ tục hành chính thuộc Bộ Khoa học và Công nghệ",
+      "link": "https://vnexpress.net/cong-bo-522-thu-tuc-hanh-chinh-thuoc-bo-khoa-hoc-va-cong-nghe-5055861.html",
+      "summary": "Bộ Khoa học và Công nghệ công bố 522 thủ tục hành chính, triển khai trên Hệ thống thông tin giải quyết thủ tục hành chính tập trung.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-29T05:24:19+07:00",
+      "fetched": "2026-03-29T13:53:36.116203+07:00"
+    },
+    {
+      "id": "f2598fc271d6b9f2b77e0c3ca854a1e4",
+      "title": "Bạn trai bị tình cũ vừa ly hôn đeo bám",
+      "link": "https://vnexpress.net/ban-trai-bi-tinh-cu-vua-ly-hon-deo-bam-5056021.html",
+      "summary": "Gần như ngày nào cô ấy cũng nhắn tin, sáng hỏi ăn sáng chưa, tối hỏi hôm nay đi làm có mệt không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:00:00+07:00",
+      "fetched": "2026-03-29T13:53:23.939894+07:00"
+    },
+    {
+      "id": "97fbc3464bdec4c928c22d91992171db",
+      "title": "Vua Lý Thánh Tông tên thật là gì?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-vua-ly-thanh-tong-ten-that-la-gi-5054071.html",
+      "summary": "Ông là vị vua thứ ba của nhà Lý, là con trưởng của Lý Thái Tông, mẹ là Kim Thiên thái hậu Mai Thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:00:00+07:00",
+      "fetched": "2026-03-29T13:53:23.940087+07:00"
+    },
+    {
+      "id": "ccd93ce9dd16c4e1d9cc69d9b4641111",
+      "title": "10 năm C.P. Củ Chi chuẩn hóa quy trình sản xuất thực phẩm",
+      "link": "https://vnexpress.net/10-nam-c-p-cu-chi-chuan-hoa-quy-trinh-san-xuat-thuc-pham-5056054.html",
+      "summary": "Nhà máy Củ Chi chọn hướng sản xuất có trách nhiệm, là mắt xích trong chuỗi feed - farm - food (từ thức ăn chăn nuôi, trang trại đến thực phẩm) của C.P. Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T05:00:00+07:00",
+      "fetched": "2026-03-29T13:53:23.940261+07:00"
     },
     {
       "id": "a5817f3123799868e448979de16a0367",
