@@ -1,6 +1,6 @@
 window.newsData_2026_03_30 = {
   "date": "2026-03-30",
-  "lastUpdated": "2026-03-30T01:28:16.952534+07:00",
+  "lastUpdated": "2026-03-30T03:21:02.645285+07:00",
   "articles": [
     {
       "id": "6c1cdcdfcf38a29b0c96f1dc0d27176a",
@@ -151,6 +151,86 @@ window.newsData_2026_03_30 = {
       "category": "Tổng hợp",
       "published": "2026-03-30T01:28:08.676860+07:00",
       "fetched": "2026-03-30T01:28:08.677078+07:00"
+    },
+    {
+      "id": "c24ed9afeab6b9ff916458c019562b1f",
+      "title": "Đội tuyển Việt Nam phải dốc sức quật ngã Malaysia",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-phai-doc-suc-quat-nga-malaysia-185260329190337598.htm",
+      "summary": "Màn so tài với Malaysia ( lúc 19 giờ ngày 31.3, sân Thiên Trường) dù chỉ còn mang ý nghĩa thủ tục, nhưng đội tuyển Việt Nam vẫn sẽ đá hết lực để khẳng định sức mạnh trước khi bước vào chu kỳ thành công mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T20:16:00+07:00",
+      "fetched": "2026-03-30T03:20:55.428191+07:00"
+    },
+    {
+      "id": "5cf22a3625568f086171d05c47c2bcbe",
+      "title": "San Francisco khôi phục môn đại số sau 12 năm giảm tải",
+      "link": "https://vnexpress.net/san-francisco-khoi-phuc-mon-dai-so-sau-12-nam-giam-tai-5055767.html",
+      "summary": "Học khu San Francisco từng quyết định cắt môn đại số khỏi chương trình trung học cơ sở để đảm bảo \"bình đẳng\", nhưng phải khôi phục sau 12 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T19:00:00+07:00",
+      "fetched": "2026-03-30T03:20:52.055254+07:00"
+    },
+    {
+      "id": "5cf22a3625568f086171d05c47c2bcbe",
+      "title": "San Francisco khôi phục môn đại số sau 12 năm giảm tải",
+      "link": "https://vnexpress.net/san-francisco-khoi-phuc-mon-dai-so-sau-12-nam-giam-tai-5055767.html",
+      "summary": "Học khu San Francisco từng quyết định cắt môn đại số khỏi chương trình trung học cơ sở để đảm bảo \"bình đẳng\", nhưng phải khôi phục sau 12 năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-29T19:00:00+07:00",
+      "fetched": "2026-03-30T03:20:57.951672+07:00"
+    },
+    {
+      "id": "f8d4922c848403d4c76e8722386bfc55",
+      "title": "Xưởng gỗ ở Hà Nội cháy ngùn ngụt trong đêm",
+      "link": "https://vnexpress.net/xuong-go-o-ha-noi-chay-ngun-ngut-trong-dem-5056217.html",
+      "summary": "Khoảng 0h40, xưởng gỗ đối diện Bệnh viện K cơ sở Tân Triều trên đường Phạm Tu bốc cháy dữ dội kèm nhiều tiếng nổ lớn, khói đen bao trùm cả khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T18:46:19+07:00",
+      "fetched": "2026-03-30T03:20:52.055430+07:00"
+    },
+    {
+      "id": "2c3ca9d5523cc5546ecc9820d41d6fbf",
+      "title": "Nhan sắc tân Miss World Vietnam",
+      "link": "https://vnexpress.net/nhan-sac-tan-miss-world-vietnam-5056214.html",
+      "summary": "Phan Phương Oanh, Miss World Vietnam 2025, ghi dấu ấn bởi nụ cười rạng rỡ, chiều cao 1,73 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T18:45:29+07:00",
+      "fetched": "2026-03-30T03:20:52.055605+07:00"
+    },
+    {
+      "id": "24f6433f0568f8fd1a783caa815aac94",
+      "title": "Tổn thất với Mỹ nếu mất 'máy bay mắt thần' ở Trung Đông",
+      "link": "https://vnexpress.net/ton-that-voi-my-neu-mat-may-bay-mat-than-o-trung-dong-5056136.html",
+      "summary": "Tổn thất với phi đội E-3, dù chỉ một chiếc, sẽ là vấn đề nghiêm trọng với lực lượng \"máy bay mắt thần\" ngày càng quý hiếm của không quân Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T18:00:00+07:00",
+      "fetched": "2026-03-30T03:20:52.055803+07:00"
+    },
+    {
+      "id": "243c8f0c602cc228cd40bee1d1f3c957",
+      "title": "6 thói quen hàng ngày âm thầm tích mỡ gan",
+      "link": "https://vnexpress.net/6-thoi-quen-hang-ngay-am-tham-tich-mo-gan-5055956.html",
+      "summary": "Thường xuyên ăn đồ ngọt, thực phẩm chế biến sẵn, ngồi nhiều có thể làm tăng lượng calo dư thừa, tăng quá trình chuyển hóa thành mỡ, tích tụ trong gan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T18:00:00+07:00",
+      "fetched": "2026-03-30T03:20:52.055965+07:00"
+    },
+    {
+      "id": "24f6433f0568f8fd1a783caa815aac94",
+      "title": "Tổn thất với Mỹ nếu mất 'máy bay mắt thần' ở Trung Đông",
+      "link": "https://vnexpress.net/ton-that-voi-my-neu-mat-may-bay-mat-than-o-trung-dong-5056136.html",
+      "summary": "Tổn thất với phi đội E-3, dù chỉ một chiếc, sẽ là vấn đề nghiêm trọng với lực lượng \"máy bay mắt thần\" ngày càng quý hiếm của không quân Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-29T18:00:00+07:00",
+      "fetched": "2026-03-30T03:20:57.951849+07:00"
     },
     {
       "id": "9184805ca23fd5370c6f94de71fe54b7",
