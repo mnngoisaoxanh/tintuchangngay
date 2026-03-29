@@ -1,7 +1,117 @@
 window.newsData_2026_03_29 = {
   "date": "2026-03-29",
-  "lastUpdated": "2026-03-29T21:25:51.616111+07:00",
+  "lastUpdated": "2026-03-29T23:24:22.236733+07:00",
   "articles": [
+    {
+      "id": "0367927aa38b67aaa216f60007459662",
+      "title": "Người dân Huế ám ảnh xe chở than trên quốc lộ 49",
+      "link": "https://tuoitre.vn/nguoi-dan-hue-am-anh-xe-cho-than-tren-quoc-lo-49-20260329155516289.htm",
+      "summary": "Thời gian gần đây, nhiều xe tải trọng lớn, đặc biệt là xe đầu kéo chở than chạy trên quốc lộ 49 (đoạn nối trung tâm TP Huế với các xã vùng cao) tăng đột biến, khiến người dân sống dọc tuyến đường luôn trong trạng thái lo lắng, ám ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T23:24:14.538900+07:00",
+      "fetched": "2026-03-29T23:24:14.539013+07:00"
+    },
+    {
+      "id": "b40315fd6fa45f2c30e6ef6cd84410e8",
+      "title": "Công an điều tra nguyên nhân vụ xe khách chở đoàn nhân viên ngân hàng lao xuống vực ở Tam Đảo",
+      "link": "https://tuoitre.vn/cong-an-dieu-tra-nguyen-nhan-vu-xe-khach-cho-doan-nhan-vien-ngan-hang-lao-xuong-vuc-o-tam-dao-20260329200119048.htm",
+      "summary": "Chủ tịch UBND tỉnh Phú Thọ giao Công an tỉnh điều tra làm rõ nguyên nhân vụ xe khách chở đoàn nhân viên ngân hàng lao xuống vực ở Tam Đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T23:24:14.538773+07:00",
+      "fetched": "2026-03-29T23:24:14.538888+07:00"
+    },
+    {
+      "id": "f7e2bf8d1b18bf28a24dd852ea63f5e0",
+      "title": "Nghi vấn giải nhất khoa học kỹ thuật quốc gia 'đạo văn', Bộ Giáo dục đang xác minh",
+      "link": "https://tuoitre.vn/nghi-van-giai-nhat-khoa-hoc-ky-thuat-quoc-gia-dao-van-bo-giao-duc-dang-xac-minh-20260329202718036.htm",
+      "summary": "Bộ Giáo dục và Đào tạo cho biết đã tiếp nhận thông tin phản ánh về một số nghi vấn liên quan đến việc bảo đảm liêm chính khoa học trong Cuộc thi nghiên cứu khoa học, kỹ thuật cấp quốc gia dành cho học sinh THCS và THPT năm học 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T23:24:14.538643+07:00",
+      "fetched": "2026-03-29T23:24:14.538761+07:00"
+    },
+    {
+      "id": "b7b549d9cf12c5aaa13483b159643c67",
+      "title": "Tỉnh ủy Quảng Ngãi điều động bà Hà Thị Anh Thư, bà Huỳnh Thị Ánh Sương nhận nhiệm vụ mới",
+      "link": "https://tuoitre.vn/tinh-uy-quang-ngai-dieu-dong-ba-ha-thi-anh-thu-ba-huynh-thi-anh-suong-nhan-nhiem-vu-moi-20260329183432539.htm",
+      "summary": "Tỉnh ủy Quảng Ngãi điều động, phân công nhiệm vụ với hai Tỉnh ủy viên. Trong đó, bà Hà Thị Anh Thư về Đoàn đại biểu Quốc hội tỉnh; bà Huỳnh Thị Ánh Sương giữ chức Phó trưởng Ban Tổ chức Tỉnh ủy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T23:24:14.538511+07:00",
+      "fetched": "2026-03-29T23:24:14.538631+07:00"
+    },
+    {
+      "id": "3a5c937b1edcad4e21f26588e0ddc3de",
+      "title": "Grey D thừa nhận 'mất phương hướng' trong âm nhạc, phải tạm ở ẩn 2 năm",
+      "link": "https://tuoitre.vn/grey-d-thua-nhan-mat-phuong-huong-trong-am-nhac-phai-tam-o-an-2-nam-20260329202819095.htm",
+      "summary": "Tối 29-3, Grey D tổ chức buổi nghe nhạc giới thiệu Side A - Ánh Sáng thuộc album ÁNH SÁNG • MÀN ĐÊM. Đây là sản phẩm âm nhạc đầu tiên của nam ca sĩ sau 2 năm ở ẩn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T23:24:14.538388+07:00",
+      "fetched": "2026-03-29T23:24:14.538500+07:00"
+    },
+    {
+      "id": "8985947d964712e4a3601d88060941f7",
+      "title": "Xe đầu kéo chở than mất lái, lao thẳng vào cổng trường mầm non",
+      "link": "https://tuoitre.vn/xe-dau-keo-cho-than-mat-lai-lao-thang-vao-cong-truong-mam-non-20260329190721044.htm",
+      "summary": "Một chiếc xe đầu kéo chở than đi ẩu, mất lái, lao thẳng vào cổng trường mầm non bên đường ở Huế rồi tông sập nhà bảo vệ trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T23:24:14.538261+07:00",
+      "fetched": "2026-03-29T23:24:14.538376+07:00"
+    },
+    {
+      "id": "6c1cdcdfcf38a29b0c96f1dc0d27176a",
+      "title": "CĐV bóng đá Trung Quốc chán nản trước ngày tái ngộ U23 Việt Nam",
+      "link": "https://tuoitre.vn/cdv-bong-da-trung-quoc-chan-nan-truoc-ngay-tai-ngo-u23-viet-nam-20260329190953815.htm",
+      "summary": "Trên các diễn đàn bóng đá, đông đảo người hâm mộ Trung Quốc tỏ ra thất vọng với phong độ nghèo nàn của đội U23 bóng đá nước nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T23:24:14.538105+07:00",
+      "fetched": "2026-03-29T23:24:14.538248+07:00"
+    },
+    {
+      "id": "182ca93e4b91e3d00fbdb45ac1634e6d",
+      "title": "Ông Trump liên tục hỏi: Nên chọn ông Vance hay ông Rubio kế thừa mình?",
+      "link": "https://tuoitre.vn/ong-trump-lien-tuc-hoi-nen-chon-ong-vance-hay-ong-rubio-ke-thua-minh-20260329204502801.htm",
+      "summary": "Cuộc tranh luận ai sẽ kế thừa di sản của ông Trump nóng lên khi Tổng thống Mỹ được cho là liên tục hỏi dò các đồng minh thích ông Vance hay ông Rubio hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T23:24:14.537972+07:00",
+      "fetched": "2026-03-29T23:24:14.538088+07:00"
+    },
+    {
+      "id": "1ec6a97a186f07828ce2608ec1705bc2",
+      "title": "Vũ Như Thành ra mắt bóng đá Quảng Ngãi",
+      "link": "https://tuoitre.vn/vu-nhu-thanh-ra-mat-bong-da-quang-ngai-20260329204218564.htm",
+      "summary": "Cựu trung vệ Vũ Như Thành chỉ giành được 1 điểm trong trận ra mắt của CLB Quảng Ngãi với CLB Lâm Đồng ở giải hạng nhì quốc gia 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T23:24:14.537841+07:00",
+      "fetched": "2026-03-29T23:24:14.537959+07:00"
+    },
+    {
+      "id": "35b95d6f7a7c32b9ebe70c4da8ace983",
+      "title": "Hà Nhuận Đông tăng hơn 1 triệu người theo dõi nhờ Hán Sở truyền kỳ hay Trương Lăng Hách?",
+      "link": "https://tuoitre.vn/ha-nhuan-dong-tang-hon-1-trieu-nguoi-theo-doi-nho-han-so-truyen-ky-hay-truong-lang-hach-2026032920494761.htm",
+      "summary": "Diễn viên Hà Nhuận Đông bất ngờ 'lội ngược dòng' vì vai diễn Hạng Vũ trong phim Hán Sở truyền kỳ chiếu từ năm 2012.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T23:24:14.537701+07:00",
+      "fetched": "2026-03-29T23:24:14.537828+07:00"
+    },
+    {
+      "id": "434951d96f03ff8b73abd6413d19a5aa",
+      "title": "Tuyển Việt Nam đi Ninh Bình, sẵn sàng cho trận gặp Malaysia",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-di-ninh-binh-san-sang-cho-tran-gap-malaysia-20260329205613695.htm",
+      "summary": "Tối 29-3, đội tuyển Việt Nam rời nơi lưu trú ở Hà Nội để đi Ninh Bình chuẩn bị cho trận đấu với Malaysia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T23:24:14.537478+07:00",
+      "fetched": "2026-03-29T23:24:14.537686+07:00"
+    },
     {
       "id": "87c5858b7b22ba114edd9bf773658fcf",
       "title": "Đà Nẵng: Bắt chủ nhiệm câu lạc bộ tổ chức giải poker trái phép trong khách sạn",
@@ -393,6 +503,56 @@ window.newsData_2026_03_29 = {
       "fetched": "2026-03-29T17:23:05.199944+07:00"
     },
     {
+      "id": "23b4c4d96492bbd6ac09f618f9650ae8",
+      "title": "Bộ GD-ĐT sẽ xác minh tính liêm chính của cuộc thi nghiên cứu khoa học, kỹ thuật",
+      "link": "https://thanhnien.vn/bo-gd-dt-se-xac-minh-tinh-liem-chinh-cua-cuoc-thi-nghien-cuu-khoa-hoc-ky-thuat-185260329211516305.htm",
+      "summary": "Bộ GD-ĐT đã chỉ đạo kiểm tra, xác minh, làm rõ các nội dung phản ánh liên quan tới cuộc thi nghiên cứu khoa học, kỹ thuật cấp quốc gia năm học 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T16:01:00+07:00",
+      "fetched": "2026-03-29T23:24:13.377686+07:00"
+    },
+    {
+      "id": "1a0a326730fb43540201edef43019d2d",
+      "title": "Vụ xe khách 29 chỗ lao xuống vực Tam Đảo: Nhiều nạn nhân chuyển về Bệnh viện Việt Đức",
+      "link": "https://thanhnien.vn/vu-xe-khach-29-cho-lao-xuong-vuc-tam-dao-nhieu-nan-nhan-chuyen-ve-benh-vien-viet-duc-185260329204651908.htm",
+      "summary": "Liên quan vụ xe khách 29 chỗ lao xuống vực Tam Đảo, nhiều nạn nhân làm thủ tục xin chuyển về Bệnh viện Việt Đức, đồng thời Công an tỉnh Phú Thọ cũng đã vào cuộc điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T16:00:00+07:00",
+      "fetched": "2026-03-29T23:24:13.377849+07:00"
+    },
+    {
+      "id": "032f0844b373e6236eff7b71e58b80e8",
+      "title": "HLV Igor Tudor rời Tottenham sau 44 ngày",
+      "link": "https://vnexpress.net/hlv-igor-tudor-roi-tottenham-sau-44-ngay-5056195.html",
+      "summary": "HLV người Croatia Igor Tudor chia tay Tottenham mà không thắng được trận nào ở Ngoại hạng Anh, trong bối cảnh vừa trải qua biến cố gia đình khi cha của ông qua đời.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-29T15:55:55+07:00",
+      "fetched": "2026-03-29T23:24:22.223030+07:00"
+    },
+    {
+      "id": "be059f6d5a601531b8d717c92ca78ced",
+      "title": "Hai đại diện Việt Nam mở toang cánh cửa bán kết?",
+      "link": "https://thanhnien.vn/hai-dai-dien-viet-nam-mo-toang-canh-cua-ban-ket-185260329222356385.htm",
+      "summary": "Cục diện hai bảng A và B Giải bóng đá Thanh Niên sinh viên (TNSV) quốc tế 2026 - cúp THACO đang mở ra đường vào bán kết thuận lợi cho cả hai đội bóng Việt Nam, đó là Trường ĐH Nha Trang và Trường ĐH Thủy lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T15:46:00+07:00",
+      "fetched": "2026-03-29T23:24:13.378005+07:00"
+    },
+    {
+      "id": "8c62df941c4ca695366433081bea03e8",
+      "title": "Xây thêm 38 cầu Hy Vọng ở đồng bằng sông Cửu Long",
+      "link": "https://vnexpress.net/xay-them-38-cau-hy-vong-o-dong-bang-song-cuu-long-5056143.html",
+      "summary": "38 cầu Hy Vọng là mục tiêu chương trình Nâng bước chân em đến trường 2026, trong đó 9 công trình đã khởi công trong quý 1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T15:45:47+07:00",
+      "fetched": "2026-03-29T23:24:10.061282+07:00"
+    },
+    {
       "id": "cd5fdb3dd0c44fe3a3fc14decad06df3",
       "title": "Vũ Linh, Thanh Thanh Tâm và một thời cải lương sốt vé",
       "link": "https://tuoitre.vn/vu-linh-thanh-thanh-tam-va-mot-thoi-cai-luong-sot-ve-20260329095610701.htm",
@@ -543,6 +703,86 @@ window.newsData_2026_03_29 = {
       "fetched": "2026-03-29T15:29:59.430382+07:00"
     },
     {
+      "id": "24bb035f017ed2741642fdd539c36ed7",
+      "title": "Quan chức UAE yêu cầu Iran bồi thường",
+      "link": "https://vnexpress.net/quan-chuc-uae-yeu-cau-iran-boi-thuong-5056184.html",
+      "summary": "Cố vấn Tổng thống UAE kêu gọi Iran bồi thường những thiệt hại do các cuộc tấn công do Tehran tiến hành nhằm vào nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T15:14:30+07:00",
+      "fetched": "2026-03-29T23:24:10.061460+07:00"
+    },
+    {
+      "id": "24bb035f017ed2741642fdd539c36ed7",
+      "title": "Quan chức UAE yêu cầu Iran bồi thường",
+      "link": "https://vnexpress.net/quan-chuc-uae-yeu-cau-iran-boi-thuong-5056184.html",
+      "summary": "Cố vấn Tổng thống UAE kêu gọi Iran bồi thường những thiệt hại do các cuộc tấn công do Tehran tiến hành nhằm vào nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-29T15:14:30+07:00",
+      "fetched": "2026-03-29T23:24:15.857917+07:00"
+    },
+    {
+      "id": "49f6c1c6090d85e1f5bd45328baec3a1",
+      "title": "Xe đầu kéo tông sập tường trường mầm non",
+      "link": "https://vnexpress.net/xe-dau-keo-tong-sap-tuong-truong-mam-non-5056135.html",
+      "summary": "Tài xế xe đầu kéo không làm chủ phần đường, tông thẳng vào tường rào trường mầm non Hồng Vân ở xã A Lưới 1, chiều 29/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T15:14:17+07:00",
+      "fetched": "2026-03-29T23:24:10.061630+07:00"
+    },
+    {
+      "id": "7cdd458931299fa22512002bdce93356",
+      "title": "Khởi tố 8 bị can vụ 3 xe bán tải rượt đuổi, hành hung người ở Đồng Tháp",
+      "link": "https://thanhnien.vn/khoi-to-8-bi-can-vu-3-xe-ban-tai-ruot-duoi-hanh-hung-nguoi-o-dong-thap-185260329212451603.htm",
+      "summary": "Liên quan vụ 3 xe bán tải rượt đuổi, hành hung người trong đêm, Công an tỉnh Đồng Tháp đã khởi tố 8 bị can để điều tra về hành vi gây rối trật tự công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T15:12:00+07:00",
+      "fetched": "2026-03-29T23:24:13.378175+07:00"
+    },
+    {
+      "id": "93bcfb30b5c2ab044cf5d2ca0d326189",
+      "title": "Trung Quốc tuyên bố vừa tuần tra quanh bãi cạn tranh chấp ở Biển Đông",
+      "link": "https://thanhnien.vn/trung-quoc-tuyen-bo-vua-tuan-tra-quanh-bai-can-tranh-chap-o-bien-dong-185260329213928184.htm",
+      "summary": "Trung Quốc cho biết nước này vừa tiến hành các cuộc tuần tra trên không và trên biển quanh bãi cạn Scarborough tranh chấp ở Biển Đông vào ngày 29.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T14:56:00+07:00",
+      "fetched": "2026-03-29T23:24:13.378332+07:00"
+    },
+    {
+      "id": "b70eb3ffbf95de28b2b18bbe14b97006",
+      "title": "'Ronaldo Campuchia' lập cú đúp xé lưới Trường ĐH quốc gia Singapore",
+      "link": "https://thanhnien.vn/ronaldo-campuchia-lap-cu-dup-xe-luoi-truong-dh-quoc-gia-singapore-185260329170328402.htm",
+      "summary": "Chiều 28.3, lượt trận mở màn của bảng B giải bóng đá Thanh Niên sinh viên quốc tế 2026 - cúp THACO đã chứng kiến màn chào sân ấn tượng của Trường ĐH Svay Rieng (Campuchia) trước đại diện đến từ Singapore. Mang trên vai niềm tự hào quốc gia, tiền đạo chủ lực Sary Taimou đã rực sáng với một cú đúp xé ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T14:47:00+07:00",
+      "fetched": "2026-03-29T23:24:13.378483+07:00"
+    },
+    {
+      "id": "bb87686c2bcbe07e691a39e2891733f7",
+      "title": "Giáo hoàng Leo XIV: Chúa từ chối lời cầu nguyện của những nhà lãnh đạo gây chiến",
+      "link": "https://thanhnien.vn/giao-hoang-leo-xiv-chua-tu-choi-loi-cau-nguyen-cua-nhung-nha-lanh-dao-gay-chien-18526032920545306.htm",
+      "summary": "Phát biểu tại Vatican vào Chúa nhật lễ Lá, Giáo hoàng Leo XIV nói rằng không thể dùng Chúa Giê-su để biện minh cho bất kỳ cuộc chiến tranh nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T14:38:00+07:00",
+      "fetched": "2026-03-29T23:24:13.378631+07:00"
+    },
+    {
+      "id": "157fa5e39456aec396e37c62863d295b",
+      "title": "Em bé chào đời với 'đôi cánh nhỏ' trên lưng",
+      "link": "https://vnexpress.net/em-be-chao-doi-voi-doi-canh-nho-tren-lung-5056038.html",
+      "summary": "Bác sĩ Bệnh viện Phụ sản Trung ương vừa mổ đẻ thành công cho một sản phụ mang thai nhi tràn dịch màng phổi nặng, nhờ thủ thuật đặt ống dẫn lưu trong buồng tử cung từ tuần 32 giúp em bé chào đời khỏe mạnh và tự thở tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T14:01:26+07:00",
+      "fetched": "2026-03-29T23:24:10.061795+07:00"
+    },
+    {
       "id": "f45dd01db44dd7f423e35d12e5830f08",
       "title": "Toàn cảnh TNSV quốc tế 29.3: Trường ĐH Lào sẽ 'tất tay' trận sau | Chìa khóa chiến thắng của đội chủ nhà",
       "link": "https://thanhnien.vn/toan-canh-tnsv-quoc-te-293-truong-dh-lao-se-tat-tay-tran-sau-chia-khoa-chien-thang-cua-doi-chu-nha-185260329164444848.htm",
@@ -551,6 +791,26 @@ window.newsData_2026_03_29 = {
       "category": "Tổng hợp",
       "published": "2026-03-29T14:00:00+07:00",
       "fetched": "2026-03-29T21:25:41.270284+07:00"
+    },
+    {
+      "id": "c90052c187fed04ecfefd46f435cede0",
+      "title": "Chồng đi làm về chỉ ngủ, chẳng thiết tha gần gũi tôi",
+      "link": "https://vnexpress.net/chong-di-lam-ve-chi-ngu-chang-thiet-tha-gan-gui-toi-5056102.html",
+      "summary": "Chuyện gần gũi gần như phụ thuộc vào lúc nào anh đỡ mệt hoặc có thời gian rảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T14:00:00+07:00",
+      "fetched": "2026-03-29T23:24:10.061953+07:00"
+    },
+    {
+      "id": "732f881b8e344c52a4451eadc2544364",
+      "title": "Giải nhất khoa học kỹ thuật của học sinh bị tố giống luận án tiến sĩ",
+      "link": "https://vnexpress.net/giai-nhat-khoa-hoc-ky-thuat-cua-hoc-sinh-bi-to-giong-luan-an-tien-si-5056164.html",
+      "summary": "Dự án phát triển vật liệu chống cháy của học sinh Ninh Bình bị tố có nhiều chi tiết \"giống hệt\" nghiên cứu của một PGS và nghiên cứu sinh, Bộ Giáo dục nói \"sẽ rà soát\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:56:13+07:00",
+      "fetched": "2026-03-29T23:24:10.062118+07:00"
     },
     {
       "id": "71ef47d10cd1cdfbaaf3e8246c52a52b",
@@ -761,6 +1021,16 @@ window.newsData_2026_03_29 = {
       "category": "Tổng hợp",
       "published": "2026-03-29T13:36:01+07:00",
       "fetched": "2026-03-29T21:25:37.902968+07:00"
+    },
+    {
+      "id": "06373d1bea73552d433439502e04d53d",
+      "title": "Mưa đá xuất hiện ở Hà Nội, Nghệ An",
+      "link": "https://vnexpress.net/mua-da-xuat-hien-o-ha-noi-nghe-an-5056163.html",
+      "summary": "Chiều 29/3, cơn giông kèm mưa đá đường kính 1-3 cm bất ngờ trút xuống một số phường, xã ở Hà Nội, Nghệ An trong khoảng 10 phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T13:36:01+07:00",
+      "fetched": "2026-03-29T23:24:10.062621+07:00"
     },
     {
       "id": "e58417cd5ff91582d05a5291bdc8824b",
