@@ -1,6 +1,6 @@
 window.newsData_2026_03_30 = {
   "date": "2026-03-30",
-  "lastUpdated": "2026-03-30T03:21:02.645285+07:00",
+  "lastUpdated": "2026-03-30T05:20:47.608522+07:00",
   "articles": [
     {
       "id": "6c1cdcdfcf38a29b0c96f1dc0d27176a",
@@ -151,6 +151,236 @@ window.newsData_2026_03_30 = {
       "category": "Tổng hợp",
       "published": "2026-03-30T01:28:08.676860+07:00",
       "fetched": "2026-03-30T01:28:08.677078+07:00"
+    },
+    {
+      "id": "041da6611eeb2075122156699ddee43a",
+      "title": "Tử vi ngày 30 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-30-thang-3-con-giap-nao-may-man-hom-nay-185260329235813185.htm",
+      "summary": "Tử vi ngày 30 tháng 3 mang đến những gợi ý tham khảo cho 12 con giáp ngày đầu tuần. Vận khí thiên về \"tái khởi động\" - không phải bắt đầu từ con số 0 mà là tiếp tục những gì còn dang dở với một cách làm mới. Tài lộc hôm nay phụ thuộc vào khả năng bạn bắt nhịp nhanh và điều chỉnh đúng hướng ngay từ đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:15:00+07:00",
+      "fetched": "2026-03-30T05:20:37.590279+07:00"
+    },
+    {
+      "id": "01c9d9fb4b801c452cd388b42ea7f500",
+      "title": "Chiến lược leo thang của Iran",
+      "link": "https://thanhnien.vn/chien-luoc-leo-thang-cua-iran-185260329222904216.htm",
+      "summary": "Sau hơn 4 tuần xung đột kể từ khi bị Mỹ và Israel tấn công, Iran theo đuổi chiến lược leo thang cả về chiều ngang lẫn chiều dọc, mà trong đó eo biển Hormuz là đòn bẩy quan trọng cho Tehran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:15:00+07:00",
+      "fetched": "2026-03-30T05:20:37.590451+07:00"
+    },
+    {
+      "id": "e52cc514b6655f849e71b3d1363b4972",
+      "title": "Câu chuyện cảm động phía sau ngôi nhà giữa đồng lúa đẹp như tranh",
+      "link": "https://thanhnien.vn/cau-chuyen-cam-dong-phia-sau-ngoi-nha-giua-dong-lua-dep-nhu-tranh-185260329103156594.htm",
+      "summary": "Giữa đồng lúa ở TP.HCM có ngôi nhà nhỏ đẹp như tranh của bà Lan gây sốt mạng xã hội, phía sau là câu chuyện tình nghĩa vợ chồng đầy xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:15:00+07:00",
+      "fetched": "2026-03-30T05:20:37.590637+07:00"
+    },
+    {
+      "id": "3fbc1105ba4abcd86e10aa8c817b8c5c",
+      "title": "Chiến sự Ukraine ngày 1.495: Cảng nhiên liệu lớn của Nga chịu 'thiệt hại nghiêm trọng'",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1495-cang-nhien-lieu-lon-cua-nga-chiu-thiet-hai-nghiem-trong-185260329215201013.htm",
+      "summary": "Cảng nhiên liệu Ust-Luga của Nga tại vùng Leningrad bị máy bay không người lái của Ukraine tấn công, trong khi Tổng thống Ukraine Volodymyr Zelensky tiếp tục chuyến công du Trung Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:10:00+07:00",
+      "fetched": "2026-03-30T05:20:37.590794+07:00"
+    },
+    {
+      "id": "705f864b50bd2101ac97941a91023fdc",
+      "title": "Chuyến rời bản cứu con của người cha nghèo",
+      "link": "https://vnexpress.net/chuyen-roi-ban-cuu-con-cua-nguoi-cha-ngheo-5056083.html",
+      "summary": "Dù hỏng một mắt và chưa bao giờ ra khỏi bản, anh Lò Văn Ngoãn vẫn vay mượn khắp nơi, đưa con gái 14 tuổi bị xuất huyết não xuống thủ đô giành giật sự sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:00:00+07:00",
+      "fetched": "2026-03-30T05:20:34.353155+07:00"
+    },
+    {
+      "id": "7921e33c748cf5bd4940b9f15a66f82e",
+      "title": "Vì sao sâm Ngọc Linh chưa trở thành ngành công nghiệp tỷ USD?",
+      "link": "https://vnexpress.net/vi-sao-sam-ngoc-linh-chua-tro-thanh-nganh-cong-nghiep-ty-usd-5055814.html",
+      "summary": "Dù được coi là \"quốc bảo\", sâm Ngọc Linh chưa thể thành ngành công nghiệp tỷ USD do vướng pháp lý đất trồng, rủi ro vốn và nạn hàng giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:00:00+07:00",
+      "fetched": "2026-03-30T05:20:34.353346+07:00"
+    },
+    {
+      "id": "6ae43bdb334d999d5c784a13fc2b75bd",
+      "title": "Thế khó với lính Mỹ nếu đổ bộ vào Iran",
+      "link": "https://vnexpress.net/the-kho-voi-linh-my-neu-do-bo-vao-iran-5055745.html",
+      "summary": "Quân đội Mỹ nguy cơ đối mặt thương vong lớn và bài toán hậu cần hóc búa nếu tiến vào Iran, nơi binh sĩ có thể bị biến thành mục tiêu dễ dàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:00:00+07:00",
+      "fetched": "2026-03-30T05:20:34.353545+07:00"
+    },
+    {
+      "id": "a49e07d9a33278918b9f8e35e75f993a",
+      "title": "4 thực phẩm 'vàng' giúp phụ nữ tiền mãn kinh giữ dáng",
+      "link": "https://vnexpress.net/4-thuc-pham-vang-giup-phu-nu-tien-man-kinh-giu-dang-5055660.html",
+      "summary": "Để duy trì vóc dáng, phụ nữ thời kỳ mãn kinh nên bổ sung các thực phẩm giàu vitamin B12, canxi, vitamin D và protein.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:00:00+07:00",
+      "fetched": "2026-03-30T05:20:34.353712+07:00"
+    },
+    {
+      "id": "0cb43904fe6466edd2efcde136d05623",
+      "title": "Năng lượng rẻ - 'át chủ bài' của Trung Quốc trong cuộc đua siêu AI",
+      "link": "https://vnexpress.net/nang-luong-re-at-chu-bai-cua-trung-quoc-trong-cuoc-dua-sieu-ai-5055655.html",
+      "summary": "Trung Quốc được đánh giá đang nắm lợi thế lớn trong cuộc đua AI nhờ nguồn năng lượng dồi dào, đa dạng và giá rẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:00:00+07:00",
+      "fetched": "2026-03-30T05:20:34.353871+07:00"
+    },
+    {
+      "id": "b027136343d6110d51a57421dbcaa02a",
+      "title": "Hành trình tìm lại ngoại hình bình thường của nữ giám đốc sứt môi",
+      "link": "https://vnexpress.net/hanh-trinh-tim-lai-ngoai-hinh-binh-thuong-cua-nu-giam-doc-sut-moi-5055612.html",
+      "summary": "Dương Kim Tuyên mang nỗi đau dai dẳng hơn 40 năm bởi dị tật sứt môi bẩm sinh, cho đến khi ca phẫu thuật tạo hình giúp chị rũ bỏ hoàn toàn những cay đắng tủi thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:00:00+07:00",
+      "fetched": "2026-03-30T05:20:34.354032+07:00"
+    },
+    {
+      "id": "3c8d5cbf363131411469143be1225204",
+      "title": "HĐND TP HCM bầu các chức danh lãnh đạo chủ chốt",
+      "link": "https://vnexpress.net/hdnd-tp-hcm-bau-cac-chuc-danh-lanh-dao-chu-chot-5055279.html",
+      "summary": "Kỳ họp thứ nhất, HĐND TPHCM khóa XI, nhiệm kỳ 2026-2031, khai mạc sáng nay sẽ bầu Chủ tịch HĐND, Chủ tịch UBND thành phố và nhiều vị trí chủ chốt khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:00:00+07:00",
+      "fetched": "2026-03-30T05:20:34.354197+07:00"
+    },
+    {
+      "id": "5e07de6b45189e11a4c9d23bd4ad41fd",
+      "title": "Lý do túi khí không bung khi xe bị tông đuôi",
+      "link": "https://vnexpress.net/ly-do-tui-khi-khong-bung-khi-xe-bi-tong-duoi-5055106.html",
+      "summary": "Tai nạn tông đuôi thường tiềm ẩn rủi ro chấn thương cổ, cơ chế va chạm này cũng lý giải vì sao túi khí không kích hoạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:00:00+07:00",
+      "fetched": "2026-03-30T05:20:34.354364+07:00"
+    },
+    {
+      "id": "06d081a1fd902f5ad77f0760cb3270f8",
+      "title": "Hơn 200.000 binh sĩ Nga chết trong xung đột với Ukraine?",
+      "link": "https://thanhnien.vn/hon-200000-binh-si-nga-chet-trong-xung-dot-voi-ukraine-185260329222251697.htm",
+      "summary": "Trang tin độc lập Mediazona ở Nga, phối hợp với Đài BBC tiếng Nga và một nhóm tình nguyện viên, đã xác nhận danh tính của 206.202 quân nhân Nga thiệt mạng tại Ukraine, tính từ ngày 24.2.2022 đến 23.3.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:00:00+07:00",
+      "fetched": "2026-03-30T05:20:37.590948+07:00"
+    },
+    {
+      "id": "e364f9a4f1ade2fcbb0f30cb18dddff2",
+      "title": "Lịch âm hôm nay 30.3: Khi nào người Việt đón tiết Thanh minh?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-303-khi-nao-nguoi-viet-don-tiet-thanh-minh-185260329172853787.htm",
+      "summary": "Hôm nay 30.3 là ngày gì theo âm lịch, dương lịch? Hiện đang trong tiết Xuân phân, bao lâu nữa người Việt sẽ đón tiết Thanh minh?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:00:00+07:00",
+      "fetched": "2026-03-30T05:20:37.591101+07:00"
+    },
+    {
+      "id": "ff0998ccbf39179071398cb7007d241b",
+      "title": "'ADN mở' TP.HCM: 'Phố Malaysia' độc bản trăm năm cạnh chợ Bến Thành",
+      "link": "https://thanhnien.vn/adn-mo-tphcm-pho-malaysia-doc-ban-tram-nam-canh-cho-ben-thanh-18526031118403728.htm",
+      "summary": "Ngay cạnh chợ Bến Thành tồn tại một khu 'phố Malaysia' với quán ăn halal, khăn hijab và cộng đồng Hồi giáo sinh sống hơn 100 năm giữa lòng TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T22:00:00+07:00",
+      "fetched": "2026-03-30T05:20:37.591250+07:00"
+    },
+    {
+      "id": "6ae43bdb334d999d5c784a13fc2b75bd",
+      "title": "Thế khó với lính Mỹ nếu đổ bộ vào Iran",
+      "link": "https://vnexpress.net/the-kho-voi-linh-my-neu-do-bo-vao-iran-5055745.html",
+      "summary": "Quân đội Mỹ nguy cơ đối mặt thương vong lớn và bài toán hậu cần hóc búa nếu tiến vào Iran, nơi binh sĩ có thể bị biến thành mục tiêu dễ dàng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-29T22:00:00+07:00",
+      "fetched": "2026-03-30T05:20:40.696023+07:00"
+    },
+    {
+      "id": "7921e33c748cf5bd4940b9f15a66f82e",
+      "title": "Vì sao sâm Ngọc Linh chưa trở thành ngành công nghiệp tỷ USD?",
+      "link": "https://vnexpress.net/vi-sao-sam-ngoc-linh-chua-tro-thanh-nganh-cong-nghiep-ty-usd-5055814.html",
+      "summary": "Dù được coi là \"quốc bảo\", sâm Ngọc Linh chưa thể thành ngành công nghiệp tỷ USD do vướng pháp lý đất trồng, rủi ro vốn và nạn hàng giả.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-29T22:00:00+07:00",
+      "fetched": "2026-03-30T05:20:42.680262+07:00"
+    },
+    {
+      "id": "0cb43904fe6466edd2efcde136d05623",
+      "title": "Năng lượng rẻ - 'át chủ bài' của Trung Quốc trong cuộc đua siêu AI",
+      "link": "https://vnexpress.net/nang-luong-re-at-chu-bai-cua-trung-quoc-trong-cuoc-dua-sieu-ai-5055655.html",
+      "summary": "Trung Quốc được đánh giá đang nắm lợi thế lớn trong cuộc đua AI nhờ nguồn năng lượng dồi dào, đa dạng và giá rẻ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-29T22:00:00+07:00",
+      "fetched": "2026-03-30T05:20:45.542711+07:00"
+    },
+    {
+      "id": "728a39451875d9222860fbd38ddce828",
+      "title": "Bạn trai cổ vũ Ý Nhi tại Miss World Vietnam 2025",
+      "link": "https://vnexpress.net/ban-trai-co-vu-y-nhi-tai-miss-world-vietnam-2025-5056215.html",
+      "summary": "Anh Kiệt mang hoa cổ vũ Ý Nhi khi cô thực hiện màn final walk chia tay nhiệm kỳ hoa hậu tại chung kết Miss World Vietnam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T21:43:00+07:00",
+      "fetched": "2026-03-30T05:20:34.354551+07:00"
+    },
+    {
+      "id": "34c22523ee937933114cad0ebdcbeaa7",
+      "title": "Tình hình Iran, Trung Đông mới nhất sáng 30.3",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-sang-303-185260329215635046.htm",
+      "summary": "Các cuộc tấn công gây thương vong ở Trung Đông vẫn tiếp diễn dù các nước Hồi giáo trong khu vực đang bàn thảo để tìm cách hạ nhiệt xung đột Mỹ - Israel với Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T21:30:00+07:00",
+      "fetched": "2026-03-30T05:20:37.591397+07:00"
+    },
+    {
+      "id": "d1c109440f462cf32e472ee8c4d79b5a",
+      "title": "Honda ra mắt ZR-V 2026, giá cao nhất 29.600 USD",
+      "link": "https://vnexpress.net/honda-ra-mat-zr-v-2026-gia-cao-nhat-29-600-usd-5056025.html",
+      "summary": "Mẫu xe gầm cao cỡ B bản nâng cấp sau 4 năm ra mắt thị trường nội địa, lắp hệ truyền động hybrid, thêm bản off-road, giá từ 23.200 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T21:00:00+07:00",
+      "fetched": "2026-03-30T05:20:34.354709+07:00"
+    },
+    {
+      "id": "a7c8deb255046b775184a876e5671579",
+      "title": "Chạm trán nảy lửa",
+      "link": "https://thanhnien.vn/cham-tran-nay-lua-185260329185900174.htm",
+      "summary": "Hôm nay (30.3) trên sân Trường ĐH Nha Trang diễn ra lượt trận thứ hai vòng bảng giải bóng đá Thanh Niên sinh viên (TNSV) quốc tế lần II - 2026 cúp THACO, trực tiếp trên FPT Play và các nền tảng của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T20:51:00+07:00",
+      "fetched": "2026-03-30T05:20:37.591589+07:00"
+    },
+    {
+      "id": "2b2b34f0358a333bebce590f539f67ba",
+      "title": "Nỗi lo thiếu tiền đạo ở đội U.23 Việt Nam",
+      "link": "https://thanhnien.vn/noi-lo-thieu-tien-dao-o-doi-u23-viet-nam-185260329190448913.htm",
+      "summary": "Đội U.23 VN đang có những trận đấu cọ xát bổ ích tại giải CFA Team China 2026 diễn ra tại Trung Quốc. Tuy nhiên, khâu ghi bàn vẫn là nỗi lo với đội bóng trẻ VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T20:49:00+07:00",
+      "fetched": "2026-03-30T05:20:37.591742+07:00"
     },
     {
       "id": "c24ed9afeab6b9ff916458c019562b1f",
