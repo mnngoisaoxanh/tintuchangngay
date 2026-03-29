@@ -1,7 +1,137 @@
 window.newsData_2026_03_29 = {
   "date": "2026-03-29",
-  "lastUpdated": "2026-03-29T17:23:13.803971+07:00",
+  "lastUpdated": "2026-03-29T19:33:29.382120+07:00",
   "articles": [
+    {
+      "id": "f02288da52ee255393b6546b50b34e5d",
+      "title": "Hàng triệu người Mỹ biểu tình 'No Kings' tại 50 bang, phản đối ông Trump và chiến tranh Iran",
+      "link": "https://tuoitre.vn/hang-trieu-nguoi-my-bieu-tinh-no-kings-tai-50-bang-phan-doi-ong-trump-va-chien-tranh-iran-20260329151018701.htm",
+      "summary": "Biểu tình 'No Kings' diễn ra tại hơn 3.200 điểm trên toàn nước Mỹ, phản đối chính sách của Tổng thống Donald Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T19:33:23.280783+07:00",
+      "fetched": "2026-03-29T19:33:23.280904+07:00"
+    },
+    {
+      "id": "be52db140dfa2f5e5bb239e01994faa3",
+      "title": "Khởi động cuộc thi Giao dịch tài sản số sinh viên Việt Nam",
+      "link": "https://tuoitre.vn/khoi-dong-cuoc-thi-giao-dich-tai-san-so-sinh-vien-viet-nam-20260329150907612.htm",
+      "summary": "Cuộc thi giúp trang bị cho sinh viên kiến thức thực tiễn, rèn luyện kỹ năng phân tích thị trường, quản trị rủi ro, xây dựng chiến lược đầu tư và giao dịch hiệu quả trong môi trường tài chính số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T19:33:23.280635+07:00",
+      "fetched": "2026-03-29T19:33:23.280750+07:00"
+    },
+    {
+      "id": "cc10562b1d5fe1367bdd0cd2068fa38a",
+      "title": "Xe khách chở đoàn nhân viên ngân hàng lao xuống vực ở Tam Đảo, ít nhất 7 người nhập viện",
+      "link": "https://tuoitre.vn/xe-khach-cho-doan-nhan-vien-ngan-hang-lao-xuong-vuc-o-tam-dao-it-nhat-7-nguoi-nhap-vien-20260329152721424.htm",
+      "summary": "Xe khách 29 chỗ đang đổ đèo Tam Đảo (tỉnh Phú Thọ) thì bất ngờ lao xuống vực, ít nhất 7 người bị thương, phải nhập viện cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T19:33:23.280508+07:00",
+      "fetched": "2026-03-29T19:33:23.280619+07:00"
+    },
+    {
+      "id": "7e1422f8410e928cf8bad2092b4fde90",
+      "title": "Thủ tướng làm việc tại Lọc hóa dầu Nghi Sơn, khảo sát địa điểm xây dựng kho dự trữ chiến lược",
+      "link": "https://tuoitre.vn/thu-tuong-lam-viec-tai-loc-hoa-dau-nghi-son-khao-sat-dia-diem-xay-dung-kho-du-tru-chien-luoc-2026032915552813.htm",
+      "summary": "Ngày 29-3, trong chuyến công tác tại Thanh Hóa, Thủ tướng Phạm Minh Chính đã tới làm việc tại Nhà máy Lọc hóa dầu Nghi Sơn và khảo sát địa điểm dự kiến xây dựng kho dự trữ xăng dầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T19:33:23.280380+07:00",
+      "fetched": "2026-03-29T19:33:23.280497+07:00"
+    },
+    {
+      "id": "b079c75f67943d3e74333f9c505957df",
+      "title": "Du khách hào hứng trải nghiệm cưỡi trâu, chụp ảnh giữa đồng lúa ở Hội An",
+      "link": "https://tuoitre.vn/du-khach-hao-hung-trai-nghiem-cuoi-trau-chup-anh-giua-dong-lua-o-hoi-an-20260329152734106.htm",
+      "summary": "Không chỉ là con vật gắn bó với ruộng đồng, những chú trâu ở Hội An nay trở thành 'bạn diễn' đặc biệt khi du khách có thể cưỡi và chụp hình cùng. Dịch vụ này mang lại cho du khách những trải nghiệm mới lạ về đời sống nông thôn Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T19:33:23.280251+07:00",
+      "fetched": "2026-03-29T19:33:23.280364+07:00"
+    },
+    {
+      "id": "b38d0a57af29d65a2905be72c3d86fe4",
+      "title": "Đắk Lắk: 32 người nhập viện sau khi ăn bánh mì",
+      "link": "https://tuoitre.vn/dak-lak-32-nguoi-nhap-vien-sau-khi-an-banh-mi-20260329162535627.htm",
+      "summary": "Sau khi ăn bánh mì mua tại một cửa hàng ở xã Ea Đrăng, tỉnh Đắk Lắk, 32 người phải nhập viện trong tình trạng đau bụng, nôn ói...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T19:33:23.280130+07:00",
+      "fetched": "2026-03-29T19:33:23.280240+07:00"
+    },
+    {
+      "id": "997a8999a7fca5bea4311133241574a9",
+      "title": "Gia Lai: Cứu cô gái trẻ bị kẹt khi rơi xuống giếng sâu",
+      "link": "https://tuoitre.vn/gia-lai-cuu-co-gai-tre-bi-ket-khi-roi-xuong-gieng-sau-20260329162821798.htm",
+      "summary": "Do bất cẩn, một phụ nữ trẻ tại phường Hoài Nhơn Đông, Gia Lai, bị rơi xuống giếng sâu và mắc kẹt dưới đáy, may mắn được lực lượng cứu hộ giải cứu thành công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T19:33:23.280006+07:00",
+      "fetched": "2026-03-29T19:33:23.280118+07:00"
+    },
+    {
+      "id": "fd7a6fd2b490a62037ff5e95e86d215b",
+      "title": "Chiêu trò mua chuộc cán bộ của 'trùm' hàng thực phẩm chức năng giả",
+      "link": "https://tuoitre.vn/chieu-tro-mua-chuoc-can-bo-cua-trum-hang-thuc-pham-chuc-nang-gia-20260328231503374.htm",
+      "summary": "Từ mua chuộc cựu cán bộ công an để được báo tin khi bị kiểm tra nhằm tiêu hủy chứng cứ, đến hối lộ cán bộ hải quan để dễ dàng nhập nguyên liệu từ Trung Quốc về nước sản xuất thực phẩm chức năng cho trẻ em, người già.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T19:33:23.279876+07:00",
+      "fetched": "2026-03-29T19:33:23.279995+07:00"
+    },
+    {
+      "id": "0e61d9cc4b8556e0a8b271bccf2736d0",
+      "title": "Chỉ một chiếc xe đỗ sai, hàng km đường tắc nghẽn",
+      "link": "https://tuoitre.vn/chi-mot-chiec-xe-do-sai-hang-km-duong-tac-nghen-20260329002826279.htm",
+      "summary": "Một chiếc ô tô đỗ sai vị trí tại khúc cua đã khiến xe đầu kéo chở máy xúc mắc kẹt, gây ùn tắc nghiêm trọng hai chiều và làm dấy lên làn sóng phẫn nộ trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T19:33:23.279715+07:00",
+      "fetched": "2026-03-29T19:33:23.279862+07:00"
+    },
+    {
+      "id": "00b5d2ae609d1bc1555ab4682412b2c2",
+      "title": "Mưa đá ở Nghệ An, hạt mưa to bằng ngón chân cái",
+      "link": "https://tuoitre.vn/mua-da-o-nghe-an-hat-mua-to-bang-ngon-chan-cai-20260329165436184.htm",
+      "summary": "Một trận dông kèm theo mưa đá, nhiều hạt to bằng ngón chân cái trút xuống ở xã miền núi Nghệ An chiều 29-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T19:33:23.279576+07:00",
+      "fetched": "2026-03-29T19:33:23.279693+07:00"
+    },
+    {
+      "id": "02f20732cc85ead3693e69aaa1220199",
+      "title": "Ám ảnh, đau đớn khiến cô gái trẻ không thể quan hệ tình dục",
+      "link": "https://tuoitre.vn/am-anh-dau-don-khien-co-gai-tre-khong-the-quan-he-tinh-duc-20260329092045463.htm",
+      "summary": "Né tránh quan hệ suốt gần 2 năm, cô gái 27 tuổi mắc bệnh lý ít ai biết đến là hội chứng “co thắt âm đạo”. Hội chứng không chỉ gây đau đớn về thể xác mà còn trở thành rào cản tâm lý nặng nề, khiến cặp đôi không thể quan hệ tình dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T19:33:23.279442+07:00",
+      "fetched": "2026-03-29T19:33:23.279563+07:00"
+    },
+    {
+      "id": "e5198a939b704612a55713cfdb3f9bde",
+      "title": "Triệu tập 2 người liên quan vụ nam thanh niên bị hành hung trên phố",
+      "link": "https://tuoitre.vn/trieu-tap-2-nguoi-lien-quan-vu-nam-thanh-nien-bi-hanh-hung-tren-pho-20260329170530325.htm",
+      "summary": "Một nam thanh niên bị nhóm người đi ô tô chặn đường, hành hung trên phố Nguyễn Khang (Hà Nội). Cảnh sát triệu tập hai người liên quan để điều tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T19:33:23.279298+07:00",
+      "fetched": "2026-03-29T19:33:23.279429+07:00"
+    },
+    {
+      "id": "27ae49631e9be5f25389797e24b1c5d0",
+      "title": "Xử lý tài xế xe tải để bùn đất rơi xuống đường, đóng thành mảng lớn ở đường vành đai 3 trên cao",
+      "link": "https://tuoitre.vn/xu-ly-tai-xe-xe-tai-de-bun-dat-roi-xuong-duong-dong-thanh-mang-lon-o-duong-vanh-dai-3-tren-cao-20260329172344433.htm",
+      "summary": "Giải trình về nguyên nhân sự việc, tài xế cho biết trong quá trình lưu thông, nắp thùng xe phía sau bất ngờ bị bung. Thời điểm trên thời tiết lại có mưa lớn khiến lượng bùn đất trên thùng tràn xuống mặt đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T19:33:23.279076+07:00",
+      "fetched": "2026-03-29T19:33:23.279282+07:00"
+    },
     {
       "id": "fa53da01f6646d13327bd6b453ecdc5c",
       "title": "BYD tung 4 mẫu xe mới ở Đông Nam Á, trải từ xe điện đến hybrid đấu xe xăng",
@@ -453,6 +583,206 @@ window.newsData_2026_03_29 = {
       "fetched": "2026-03-29T13:53:28.371170+07:00"
     },
     {
+      "id": "a0565ec6a3c638a4c042b5344e69bb6c",
+      "title": "Gia Lai tăng tốc hợp tác kinh tế với nam Lào, đông bắc Campuchia",
+      "link": "https://thanhnien.vn/gia-lai-tang-toc-hop-tac-kinh-te-voi-nam-lao-dong-bac-campuchia-185260329184307652.htm",
+      "summary": "Gia Lai ký kết hợp tác giai đoạn 2026 - 2030 với các tỉnh nam Lào và đông bắc Campuchia, thúc đẩy thương mại, nông nghiệp, logistics, đầu tư, củng cố quan hệ biên giới bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T12:32:00+07:00",
+      "fetched": "2026-03-29T19:33:22.237375+07:00"
+    },
+    {
+      "id": "158c17de2bc5dc3bf41e95c7d399e88a",
+      "title": "Tối nay 29.3 con rắn lớn nhất bầu trời đêm cuộn mình, người Việt nhìn thấy gì?",
+      "link": "https://thanhnien.vn/toi-nay-293-con-ran-lon-nhat-bau-troi-dem-cuon-minh-nguoi-viet-nhin-thay-gi-185260329180921224.htm",
+      "summary": "Tối nay 29.3, nhìn lên chòm sao lớn nhất bầu trời đêm có hình con rắn nước khổng lồ Hydra (Trường Xà), bạn hãy tìm kiếm ngôi sao cô đơn - ngôi sao sáng nhất chòm sao này. Có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T12:30:00+07:00",
+      "fetched": "2026-03-29T19:33:22.237550+07:00"
+    },
+    {
+      "id": "743d4876030194e817c870e263a35005",
+      "title": "Chung kết Miss World Vietnam 2025",
+      "link": "https://vnexpress.net/chung-ket-miss-world-vietnam-2025-5056125.html",
+      "summary": "47 thí sinh sẽ tranh vương miện Miss World Vietnam và giành suất thi Hoa hậu Thế giới lần thứ 74 tại chung kết, tối 29/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T12:20:00+07:00",
+      "fetched": "2026-03-29T19:33:19.153691+07:00"
+    },
+    {
+      "id": "7fa534e4e7a8b6d0b02aa0e64d387ac9",
+      "title": "Chủ nhiệm New Emperors Poker Club bị bắt",
+      "link": "https://vnexpress.net/chu-nhiem-new-emperors-poker-club-bi-bat-5056144.html",
+      "summary": "Đặng Phước Long, chủ nhiệm New Emperors Poker Club, bị cáo buộc tổ chức cho hàng chục người tham gia giải đấu ăn tiền trái phép, thu lợi bất chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T12:18:32+07:00",
+      "fetched": "2026-03-29T19:33:19.153896+07:00"
+    },
+    {
+      "id": "31c14c5e3da4ad30052200c053ae7e97",
+      "title": "Xe đầu kéo tông đổ tường rào trường mầm non trên đường Hồ Chí Minh",
+      "link": "https://thanhnien.vn/xe-dau-keo-tong-do-tuong-rao-truong-mam-non-tren-duong-ho-chi-minh-185260329184645008.htm",
+      "summary": "Trong lúc lưu thông qua địa bàn xã vùng cao A Lưới 1 (thành phố Huế), một xe đầu kéo mang biển kiểm soát Lào đã lao vào tường rào và nhà bảo vệ của Trường mầm non Hồng Vân, gây hư hỏng nhiều hạng mục công trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T12:18:00+07:00",
+      "fetched": "2026-03-29T19:33:22.237710+07:00"
+    },
+    {
+      "id": "537e8a72d86b9e7bb0c079968fad1fe2",
+      "title": "Hoa hậu Thế giới cùng mỹ nhân Việt dự chung kết Miss World Vietnam",
+      "link": "https://vnexpress.net/hoa-hau-the-gioi-cung-my-nhan-viet-du-chung-ket-miss-world-vietnam-5056137.html",
+      "summary": "Opal Suchata - đương kim Miss World - cùng Hoa hậu Ý Nhi, Bảo Ngọc xuất hiện trên thảm xanh ở chung kết Miss World Vietnam 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T12:14:07+07:00",
+      "fetched": "2026-03-29T19:33:19.154065+07:00"
+    },
+    {
+      "id": "9126845079874b408afc11e77cfd1785",
+      "title": "Giải độc đắc của Vietlott Mega 6/45 tối nay cộng dồn tăng lên 49,3 tỉ đồng",
+      "link": "https://thanhnien.vn/giai-doc-dac-cua-vietlott-mega-6-45-toi-nay-cong-don-tang-len-493-ti-dong-18526032918574506.htm",
+      "summary": "Tối 29.3, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không có người trúng giải độc đắc nên số tiền cộng dồn là 49,3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T12:12:00+07:00",
+      "fetched": "2026-03-29T19:33:22.237890+07:00"
+    },
+    {
+      "id": "4596928d794755610000473251976588",
+      "title": "Lợi nhuận BYD lần đầu giảm sau 4 năm",
+      "link": "https://vnexpress.net/loi-nhuan-byd-lan-dau-giam-sau-4-nam-5056057.html",
+      "summary": "Hãng xe điện lớn nhất Trung Quốc - ghi nhận lợi nhuận giảm mạnh hơn dự báo, do hoạt động kinh doanh trong nước suy yếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T12:05:00+07:00",
+      "fetched": "2026-03-29T19:33:19.154240+07:00"
+    },
+    {
+      "id": "4596928d794755610000473251976588",
+      "title": "Lợi nhuận BYD lần đầu giảm sau 4 năm",
+      "link": "https://vnexpress.net/loi-nhuan-byd-lan-dau-giam-sau-4-nam-5056057.html",
+      "summary": "Hãng xe điện lớn nhất Trung Quốc - ghi nhận lợi nhuận giảm mạnh hơn dự báo, do hoạt động kinh doanh trong nước suy yếu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-29T12:05:00+07:00",
+      "fetched": "2026-03-29T19:33:26.331463+07:00"
+    },
+    {
+      "id": "4349b432cd3b1fae92b7dd21c59e0b6f",
+      "title": "Cặp song sinh Lambert 'vũ khí kép' của Malaysia, đội tuyển Việt Nam phải đặc biệt đề phòng",
+      "link": "https://thanhnien.vn/cap-song-sinh-lambert-vu-khi-kep-cua-malaysia-doi-tuyen-viet-nam-phai-dac-biet-de-phong-185260329184127919.htm",
+      "summary": "Cặp song sinh Declan và Ryan Lambert đứng trước cơ hội cùng đá chính, trong bối cảnh đội tuyển Malaysia vẫn quyết tâm thể hiện trước đội tuyển Việt Nam dù đã bị loại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T12:02:00+07:00",
+      "fetched": "2026-03-29T19:33:22.238043+07:00"
+    },
+    {
+      "id": "97254779842527a2fe823f9351a06765",
+      "title": "Phú Mỹ Hưng khai trương khu nhà mẫu Harmonie",
+      "link": "https://vnexpress.net/phu-my-hung-khai-truong-khu-nha-mau-harmonie-5056114.html",
+      "summary": "Phú Mỹ Hưng ra mắt Trung tâm nhà mẫu Sales Gallery Harmonie, ký kết hợp tác tài chính với các ngân hàng và triển khai đặt chỗ đợt mới, thu hút đông khách tham quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T12:00:00+07:00",
+      "fetched": "2026-03-29T19:33:19.154403+07:00"
+    },
+    {
+      "id": "9577ba03bd0196026499ee8552ff9ee3",
+      "title": "Quy trình xử lý pin cũ tại các điểm giao dịch xanh OCB",
+      "link": "https://vnexpress.net/quy-trinh-xu-ly-pin-cu-tai-cac-diem-giao-dich-xanh-ocb-5056112.html",
+      "summary": "Tại OCB, pin cũ được thu gom và xử lý theo quy trình khép kín, kiểm soát phát thải và tái sử dụng tro xỉ, góp phần giảm thiểu rác thải nguy hại ra môi trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T12:00:00+07:00",
+      "fetched": "2026-03-29T19:33:19.154567+07:00"
+    },
+    {
+      "id": "9582892f4349dfcabe31c692b0029f7e",
+      "title": "FedEx ra mắt dịch vụ giao nhanh nội đô trong ngày",
+      "link": "https://vnexpress.net/fedex-ra-mat-dich-vu-giao-nhanh-noi-do-trong-ngay-5055150.html",
+      "summary": "Dịch vụ mới cho phép giao hàng trong 2 giờ hoặc cuối ngày, tích hợp AI và mạng lưới hơn 1.000 đối tác vận chuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T12:00:00+07:00",
+      "fetched": "2026-03-29T19:33:19.154722+07:00"
+    },
+    {
+      "id": "c55878160a2ebd3a4c448e5fbef68b3b",
+      "title": "Danh sách các router Wi-Fi phổ biến đang bị mã độc tấn công",
+      "link": "https://thanhnien.vn/danh-sach-cac-router-wi-fi-pho-bien-dang-bi-ma-doc-tan-cong-185260327093903029.htm",
+      "summary": "FBI cảnh báo khẩn về 369.000 thiết bị Wi-Fi bị nhiễm mã độc AVrecon, với danh sách 18 mẫu router đang lâm nguy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T11:53:00+07:00",
+      "fetched": "2026-03-29T19:33:22.238194+07:00"
+    },
+    {
+      "id": "2139e362d5c65f776a097f4bce9e172a",
+      "title": "4 cán bộ thú y bị khởi tố vì tiếp tay tiêu thụ gần 300 tấn lợn dịch",
+      "link": "https://thanhnien.vn/4-can-bo-thu-y-bi-khoi-to-vi-tiep-tay-tieu-thu-gan-300-tan-lon-dich-18526032918165857.htm",
+      "summary": "Cảnh sát xác định từ đầu năm 2026 đến nay, các bị can đã tiêu thụ khoảng 3.600 con lợn mắc dịch bệnh (tương đương gần 300 tấn) vào chợ đầu mối, công ty thực phẩm dưới sự tiếp tay của cán bộ thú y.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T11:39:00+07:00",
+      "fetched": "2026-03-29T19:33:22.238344+07:00"
+    },
+    {
+      "id": "c3119b22d5ee2c93e34377ec4122523e",
+      "title": "Thái Lan muốn vô địch sớm giải có U.23 Việt Nam, HLV Thawatchai cảnh báo 1 điều về Triều Tiên",
+      "link": "https://thanhnien.vn/thai-lan-muon-vo-dich-som-giai-co-u23-viet-nam-hlv-thawatchai-canh-bao-1-dieu-ve-trieu-tien-185260329183131004.htm",
+      "summary": "Trong buổi tập chiều 29.3, các cầu thủ U.23 Thái Lan đều tỏ ra quyết tâm đánh bại U.23 CHDCND Triều Tiên, lên ngôi vô địch giải giao hữu CFA Team China – Tây An 2026 diễn ra ở Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T11:34:00+07:00",
+      "fetched": "2026-03-29T19:33:22.238495+07:00"
+    },
+    {
+      "id": "c34389cd13cc73c865dfed9b9e023d59",
+      "title": "Nắng nóng: Cách sử dụng máy lạnh để ngủ ngon",
+      "link": "https://thanhnien.vn/nang-nong-cach-su-dung-may-lanh-de-ngu-ngon-185260329183203231.htm",
+      "summary": "Trong những ngày nắng nóng, máy lạnh trở thành 'cứu cánh' giúp nhiều người dễ ngủ hơn. Tuy nhiên, nếu sử dụng không đúng cách, thiết bị này lại có thể khiến bạn ngủ kém, thậm chí ảnh hưởng đến sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T11:32:00+07:00",
+      "fetched": "2026-03-29T19:33:22.238643+07:00"
+    },
+    {
+      "id": "3a2adc38860049e378d516845dfa933f",
+      "title": "Cấm ô tô rẽ vào T3 theo khung giờ: người dân mong điều chỉnh linh hoạt hơn",
+      "link": "https://thanhnien.vn/cam-o-to-re-vao-t3-theo-khung-gio-nguoi-dan-mong-dieu-chinh-linh-hoat-hon-185260328142444549.htm",
+      "summary": "Dù đã cho ô tô rẽ vào đường C12 đi vào ga T3 sân bay Tân Sơn Nhất, nhưng việc cấm chạy vào khung giờ cao điểm buổi sáng đang gây ra nhiều ý kiến trái chiều khi đẩy ùn tắc từ nơi này sang nơi khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T11:32:00+07:00",
+      "fetched": "2026-03-29T19:33:22.238819+07:00"
+    },
+    {
+      "id": "19e839f1e6207b7e61a59272f5ee2a62",
+      "title": "Công viên Lý Thái Tổ tối nào cũng kín chỗ",
+      "link": "https://thanhnien.vn/cong-vien-ly-thai-to-toi-nao-cung-kin-cho-185260329155914861.htm",
+      "summary": "Sở hữu không gian xanh với nhiều cây cổ thụ cùng các công trình mang dấu ấn thời gian, Công viên Lý Thái Tổ đang thu hút đông đảo người dân và du khách. Chỉ sau thời gian ngắn đi vào hoạt động, công viên đã trở thành điểm đến quen thuộc giữa lòng TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T11:31:00+07:00",
+      "fetched": "2026-03-29T19:33:22.238974+07:00"
+    },
+    {
+      "id": "7055fecf6d58f8e9862b4dc6ba077921",
+      "title": "Cháy nhà tại TP.HCM, cả xóm hỗ trợ dập lửa",
+      "link": "https://thanhnien.vn/chay-nha-tai-tphcm-ca-xom-ho-tro-dap-lua-18526032912581735.htm",
+      "summary": "Một vụ cháy nhà dân xảy ra vào sáng 29.3 trên đường Lê Văn Khương, xã Đông Thạnh, TP.HCM. Đám cháy bùng phát tại khu vực lầu 1, thiêu rụi nhiều tài sản nhưng may mắn không gây thiệt hại về người, nguyên nhân ban đầu nghi do chập điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T11:30:00+07:00",
+      "fetched": "2026-03-29T19:33:22.239119+07:00"
+    },
+    {
       "id": "d8a0eda56bab1a85808deaa51af86afa",
       "title": "Mở đường cho văn hóa cất cánh",
       "link": "https://tuoitre.vn/mo-duong-cho-van-hoa-cat-canh-20260329075530776.htm",
@@ -601,6 +931,146 @@ window.newsData_2026_03_29 = {
       "category": "Tổng hợp",
       "published": "2026-03-29T11:29:31.777469+07:00",
       "fetched": "2026-03-29T11:29:31.777674+07:00"
+    },
+    {
+      "id": "3ceb4f00e7150c381d66600e1b4a72f6",
+      "title": "Quán mì Michelin bình dân ở Bangkok được nhiều sao Việt tìm ăn",
+      "link": "https://vnexpress.net/quan-mi-michelin-binh-dan-o-bangkok-duoc-nhieu-sao-viet-tim-an-5055463.html",
+      "summary": "Quán Rung Rueang Pork Noodles phục vụ các loại mì tom yum Thái với mức giá bình dân, nằm trong danh sách Bib Gourmand của Michelin Guide từ năm 2018.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T11:28:15+07:00",
+      "fetched": "2026-03-29T19:33:19.154927+07:00"
+    },
+    {
+      "id": "1fe18d23dddb68aa254b1e1ca9730923",
+      "title": "Chủ tịch Quốc hội Iran: Chúng tôi đang chờ lính Mỹ đổ bộ",
+      "link": "https://vnexpress.net/chu-tich-quoc-hoi-iran-chung-toi-dang-cho-linh-my-do-bo-5056120.html",
+      "summary": "Chủ tịch Quốc hội Iran cáo buộc Washington bí mật chuẩn bị kế hoạch tấn công trên bộ, tuyên bố rằng Tehran đang chờ lính Mỹ xuất hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T11:16:52+07:00",
+      "fetched": "2026-03-29T19:33:19.155085+07:00"
+    },
+    {
+      "id": "1fe18d23dddb68aa254b1e1ca9730923",
+      "title": "Chủ tịch Quốc hội Iran: Chúng tôi đang chờ lính Mỹ đổ bộ",
+      "link": "https://vnexpress.net/chu-tich-quoc-hoi-iran-chung-toi-dang-cho-linh-my-do-bo-5056120.html",
+      "summary": "Chủ tịch Quốc hội Iran cáo buộc Washington bí mật chuẩn bị kế hoạch tấn công trên bộ, tuyên bố rằng Tehran đang chờ lính Mỹ xuất hiện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-29T11:16:52+07:00",
+      "fetched": "2026-03-29T19:33:24.924465+07:00"
+    },
+    {
+      "id": "ca42730a390e498fae85a4c054c2e18f",
+      "title": "Cựu tuyển thủ Malaysia mong Việt Nam 'bị bẽ mặt' trên sân nhà",
+      "link": "https://vnexpress.net/cuu-tuyen-thu-malaysia-mong-viet-nam-bi-be-mat-tren-san-nha-5056123.html",
+      "summary": "Azlan Johar kỳ vọng Malaysia hạ Việt Nam trên sân Thiên Trường ở vòng loại cuối Asian Cup 2027, để chứng minh trận thắng trước đó không chỉ là may mắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T11:15:00+07:00",
+      "fetched": "2026-03-29T19:33:19.155238+07:00"
+    },
+    {
+      "id": "ca42730a390e498fae85a4c054c2e18f",
+      "title": "Cựu tuyển thủ Malaysia mong Việt Nam 'bị bẽ mặt' trên sân nhà",
+      "link": "https://vnexpress.net/cuu-tuyen-thu-malaysia-mong-viet-nam-bi-be-mat-tren-san-nha-5056123.html",
+      "summary": "Azlan Johar kỳ vọng Malaysia hạ Việt Nam trên sân Thiên Trường ở vòng loại cuối Asian Cup 2027, để chứng minh trận thắng trước đó không chỉ là may mắn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-29T11:15:00+07:00",
+      "fetched": "2026-03-29T19:33:29.371271+07:00"
+    },
+    {
+      "id": "c2e6bb9697064167bce41a6e1dc5a80d",
+      "title": "Bồi thường 14 triệu USD vì bán kem lẫn đinh sắt",
+      "link": "https://vnexpress.net/boi-thuong-14-trieu-usd-vi-ban-kem-lan-dinh-sat-5056074.html",
+      "summary": "Một phụ nữ ở Florida đã được bồi thường số tiền khổng lồ sau khi vô tình nuốt phải chiếc đinh kim loại bên trong một phần kem, khiến không thể có con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T11:12:09+07:00",
+      "fetched": "2026-03-29T19:33:19.155407+07:00"
+    },
+    {
+      "id": "e0ec75c6f2bfc1d54feb4833e7b3952a",
+      "title": "Người trẻ Mỹ bỏ phòng khách để có nhà thuê giá rẻ",
+      "link": "https://vnexpress.net/nguoi-tre-my-bo-phong-khach-de-co-nha-thue-gia-re-5056104.html",
+      "summary": "Ngày càng nhiều người trẻ Mỹ chấp nhận sống trong căn hộ không có phòng khách, đánh đổi không gian sinh hoạt chung để ở vị trí thuận tiện, với chi phí hợp lý hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T11:06:56+07:00",
+      "fetched": "2026-03-29T19:33:19.155559+07:00"
+    },
+    {
+      "id": "5f6069e3f5a3f049542769ca017c0d2b",
+      "title": "Mẹ chồng bảo tôi nên nghỉ việc vì hay về muộn",
+      "link": "https://vnexpress.net/me-chong-bao-toi-nen-nghi-viec-vi-hay-ve-muon-5056091.html",
+      "summary": "Gần đây, công việc nhiều hơn, tôi phải ở lại thêm 30-40 phút rồi mới về, có ngày về tới nhà đã gần 7 giờ tối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T11:00:00+07:00",
+      "fetched": "2026-03-29T19:33:19.155710+07:00"
+    },
+    {
+      "id": "f30d3a83a41fb4506a0480e7bf8d7346",
+      "title": "VinFast hoàn tất hơn 3.500 đơn ôtô điện trong một ngày",
+      "link": "https://vnexpress.net/vinfast-hoan-tat-hon-3-500-don-oto-dien-trong-mot-ngay-5056129.html",
+      "summary": "VinFast lập kỷ lục hoàn tất 3.520 đơn đặt hàng ôtô điện trong ngày 28/3, tương đương khoảng 146 đơn mỗi giờ, trung bình 2,4 đơn mỗi phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T11:00:00+07:00",
+      "fetched": "2026-03-29T19:33:19.155900+07:00"
+    },
+    {
+      "id": "99442cebba99823cc967cc14b589fd9f",
+      "title": "Báo Malaysia hiến kế cho HLV Cklamovski, mong đội nhà làm 'điều thần kỳ' ở Việt Nam",
+      "link": "https://thanhnien.vn/bao-malaysia-hien-ke-cho-hlv-cklamovski-mong-doi-nha-lam-dieu-than-ky-o-viet-nam-185260329175128342.htm",
+      "summary": "Báo chí Malaysia những ngày qua dành nhiều sự chú ý đến màn so tài giữa đội tuyển Việt Nam và đội tuyển Malaysia tại lượt trận cuối bảng F vòng loại Asian Cup 2027. Trong bối cảnh đã bị loại, thầy trò HLV Peter Cklamovski vẫn nhận được kỳ vọng lớn: ‘phá dớp’ 12 năm không thắng trên sân Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T10:59:00+07:00",
+      "fetched": "2026-03-29T19:33:22.239266+07:00"
+    },
+    {
+      "id": "729807e7a99cc1ff631a46b8c2e4c642",
+      "title": "Bản đồ nhiệt TP.HCM đỏ rực vì nắng nóng diện rộng",
+      "link": "https://thanhnien.vn/ban-do-nhiet-tphcm-do-ruc-vi-nang-nong-dien-rong-185260329174218385.htm",
+      "summary": "Từ ngày mai 30.3, TP.HCM nắng nóng gia tăng khiến bản đồ nhiệt ở TP nhiều khu vực đỏ rực, dự báo mức nhiệt cao nhất đến 36 độ C, có nơi cao hơn. Đợt nắng nóng có thể còn kéo dài nhiều ngày tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T10:56:00+07:00",
+      "fetched": "2026-03-29T19:33:22.239420+07:00"
+    },
+    {
+      "id": "5bed5d83f2888eda4c9fe382806cec57",
+      "title": "Cựu cán bộ hải quan nhận hối lộ 8,5 tỉ, tráo mẫu quặng 'tuồn' sang Trung Quốc",
+      "link": "https://thanhnien.vn/cuu-can-bo-hai-quan-nhan-hoi-lo-85-ti-trao-mau-quang-tuon-sang-trung-quoc-185260329165931338.htm",
+      "summary": "Cựu cán bộ hải quan tráo mẫu quặng để tiếp tay cho đường dây tuồn quặng sang Trung Quốc, qua đó nhận hối lộ hơn 8,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T10:55:00+07:00",
+      "fetched": "2026-03-29T19:33:22.239577+07:00"
+    },
+    {
+      "id": "29f02371fd87ff21c0bb7d0c139fc3d0",
+      "title": "Thủ tướng khảo sát địa điểm dự kiến xây kho dự trữ xăng dầu quốc gia",
+      "link": "https://vnexpress.net/thu-tuong-khao-sat-dia-diem-du-kien-xay-kho-du-tru-xang-dau-quoc-gia-5056110.html",
+      "summary": "Thủ tướng Phạm Minh Chính khảo sát địa điểm dự kiến xây dựng kho dự trữ xăng dầu chiến lược tại khu kinh tế Nghi Sơn (Thanh Hóa).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T10:32:01+07:00",
+      "fetched": "2026-03-29T19:33:19.156055+07:00"
+    },
+    {
+      "id": "29f02371fd87ff21c0bb7d0c139fc3d0",
+      "title": "Thủ tướng khảo sát địa điểm dự kiến xây kho dự trữ xăng dầu quốc gia",
+      "link": "https://vnexpress.net/thu-tuong-khao-sat-dia-diem-du-kien-xay-kho-du-tru-xang-dau-quoc-gia-5056110.html",
+      "summary": "Thủ tướng Phạm Minh Chính khảo sát địa điểm dự kiến xây dựng kho dự trữ xăng dầu chiến lược tại khu kinh tế Nghi Sơn (Thanh Hóa).",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-29T10:32:01+07:00",
+      "fetched": "2026-03-29T19:33:26.331640+07:00"
     },
     {
       "id": "2bc844835022567820ac0be2c36401c9",
@@ -2131,6 +2601,16 @@ window.newsData_2026_03_29 = {
       "category": "Thế giới",
       "published": "2026-03-29T01:39:27+07:00",
       "fetched": "2026-03-29T11:29:33.652151+07:00"
+    },
+    {
+      "id": "d929559c341a110ea92a79eb16bc7f96",
+      "title": "Iran ra tối hậu thư cho Mỹ sau vụ tập kích trường đại học",
+      "link": "https://vnexpress.net/iran-ra-toi-hau-thu-cho-my-sau-vu-tap-kich-truong-dai-hoc-5055981.html",
+      "summary": "Vệ binh Iran cáo buộc Mỹ và Israel tấn công đại học ở Tehran, cảnh báo sẽ \"giáng đòn trả đũa\" vào cơ sở giáo dục Mỹ ở Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-29T01:39:27+07:00",
+      "fetched": "2026-03-29T19:33:24.925464+07:00"
     },
     {
       "id": "aa942e6d41fc0e40f028d02977fea01b",
