@@ -1,6 +1,6 @@
 window.newsData_2026_03_31 = {
   "date": "2026-03-31",
-  "lastUpdated": "2026-03-31T03:35:30.877343+07:00",
+  "lastUpdated": "2026-03-31T05:25:41.083891+07:00",
   "articles": [
     {
       "id": "3c713f4ba5e878e57c91d327e6c24fb5",
@@ -151,6 +151,236 @@ window.newsData_2026_03_31 = {
       "category": "Tổng hợp",
       "published": "2026-03-31T01:46:11.936835+07:00",
       "fetched": "2026-03-31T01:46:11.937084+07:00"
+    },
+    {
+      "id": "1571e4d900ebfee6847422dd62047c65",
+      "title": "TP.HCM cần chủ động xây dựng luật Đô thị đặc biệt",
+      "link": "https://thanhnien.vn/tphcm-can-chu-dong-xay-dung-luat-do-thi-dac-biet-185260330223054391.htm",
+      "summary": "Ngày 30.3, HĐND TP.HCM khóa XI, nhiệm kỳ 2026 - 2031 tổ chức kỳ họp thứ nhất. Đến dự và chỉ đạo kỳ họp có Ủy viên Bộ Chính trị, Bí thư Thành ủy TP.HCM Trần Lưu Quang; Phó chủ tịch Quốc hội Nguyễn Đức Hải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:21:00+07:00",
+      "fetched": "2026-03-31T05:25:27.851988+07:00"
+    },
+    {
+      "id": "4868326ba8763d0ce641c0b3fd1ad314",
+      "title": "Tử vi ngày 31 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-31-thang-3-con-giap-nao-may-man-hom-nay-185260331051042176.htm",
+      "summary": "Tử vi ngày 31 tháng 3 mang đến những gợi ý tham khảo cho 12 con giáp. Vận khí thiên về 'tổng kết và điều chỉnh', những gì chưa trọn vẹn sẽ có cơ hội được hoàn thiện nếu bạn đủ tỉnh táo nhìn lại. Tài lộc không nằm ở việc kiếm thêm, mà ở việc giữ được những gì đã có và tối ưu lại cách sử dụng nguồn lự...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:15:00+07:00",
+      "fetched": "2026-03-31T05:25:27.852157+07:00"
+    },
+    {
+      "id": "053be3bbb4da1c5d87975f2884934627",
+      "title": "Tổng thống Trump cho tàu dầu Nga viện trợ Cuba",
+      "link": "https://thanhnien.vn/tong-thong-trump-cho-tau-dau-nga-vien-tro-cuba-185260330221124522.htm",
+      "summary": "TASS hôm qua dẫn thông báo của Bộ Giao thông Nga xác nhận tàu dầu Anatoly Kolodkin mang theo khoảng 730.000 thùng dầu thô đã cập cảng Cuba trong ngày 30.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:15:00+07:00",
+      "fetched": "2026-03-31T05:25:27.852313+07:00"
+    },
+    {
+      "id": "d68902b689e05ff373b884fb26d38587",
+      "title": "Người cao tuổi thường sống chung với bệnh trong 5 - 7 năm cuối đời",
+      "link": "https://thanhnien.vn/nguoi-cao-tuoi-thuong-song-chung-voi-benh-trong-5-7-nam-cuoi-doi-18526033018481995.htm",
+      "summary": "Tuổi thọ trung bình của người VN hiện nay trên 74 tuổi nhưng thời gian sống chung với bệnh tật lại kéo dài (thường phải sống chung với bệnh tật trong khoảng 5 - 7 năm cuối đời).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:07:00+07:00",
+      "fetched": "2026-03-31T05:25:27.852465+07:00"
+    },
+    {
+      "id": "82b712077721266e2810c8a5707ee0a1",
+      "title": "Chủng virus EV71 gây bệnh tay chân miệng nguy hiểm thế nào",
+      "link": "https://vnexpress.net/chung-virus-ev71-gay-benh-tay-chan-mieng-nguy-hiem-the-nao-5056418.html",
+      "summary": "Chủng virus EV71 độc lực cao, lây lan nhanh và tấn công trực tiếp hệ thần kinh, tim mạch, khiến trẻ bệnh tay chân miệng nặng nhanh chỉ sau 24 giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:25:24.628211+07:00"
+    },
+    {
+      "id": "55231e5a97a446a946322ee903888fef",
+      "title": "Năng lực đáp trả khó bị xóa sổ của Iran",
+      "link": "https://vnexpress.net/nang-luc-dap-tra-kho-bi-xoa-so-cua-iran-5056249.html",
+      "summary": "Dù ông Trump tuyên bố đã xóa sổ năng lực quân sự của Iran, nước này vẫn tiếp tục tung ra các đòn tập kích gây thiệt hại ngày càng lớn với Mỹ và đồng minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:25:24.628392+07:00"
+    },
+    {
+      "id": "bd1a7007e7fedc1f7b12086275732cff",
+      "title": "Tránh 'án' bản quyền, nhiều cộng đồng ebook tại Việt Nam đóng cửa",
+      "link": "https://vnexpress.net/tranh-an-ban-quyen-nhieu-cong-dong-ebook-tai-viet-nam-dong-cua-5056210.html",
+      "summary": "Một số cộng đồng chia sẻ sách điện tử (ebook) tại Việt Nam đóng cửa hoặc thay đổi cách thức hoạt động nhằm tránh việc chia sẻ sách vi phạm bản quyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:25:24.628564+07:00"
+    },
+    {
+      "id": "502e261269fcba1b10f4868d201f56a4",
+      "title": "Hôm nay 31.3 là ngày cuối cùng tháng 3: Theo lịch âm có phải ngày đẹp?",
+      "link": "https://thanhnien.vn/hom-nay-313-la-ngay-cuoi-cung-thang-3-theo-lich-am-co-phai-ngay-dep-185260330220254421.htm",
+      "summary": "Ngày 31.3 hôm nay là ngày cuối cùng của tháng 3 dương lịch. Đây là ngày gì theo lịch âm, lịch vạn niên mà nhiều người quan tâm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:25:27.852616+07:00"
+    },
+    {
+      "id": "62f49af7ebb5cbed7eaea3a6370658f3",
+      "title": "Khói lửa tiếp tục bao trùm khắp Trung Đông",
+      "link": "https://thanhnien.vn/khoi-lua-tiep-tuc-bao-trum-khap-trung-dong-185260330215006212.htm",
+      "summary": "Hôm qua 30.3, chiến sự tại Trung Đông tiếp tục diễn ra nảy lửa bất chấp những tiếp xúc ngoại giao giữa Mỹ và Iran nhằm chấm dứt xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:25:27.852784+07:00"
+    },
+    {
+      "id": "100128b7bedd65cb7345f447e5f15156",
+      "title": "Hố trước trạm xe buýt",
+      "link": "https://thanhnien.vn/ho-truoc-tram-xe-buyt-18526033017163166.htm",
+      "summary": "Bạn đọc phản ánh trên QL1, tại Km 1849+200, thuộc xã Trảng Bom, tỉnh Đồng Nai, có một hố sâu do mương thoát nước bị sụp tấm đan ngay trước trạm xe buýt, rất nguy hiểm (ảnh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:25:29.644025+07:00"
+    },
+    {
+      "id": "24374dfb4d1998d39c1b81f8a2e852c2",
+      "title": "Nhiều nắp hộp điện, linh kiện trụ đèn chiếu sáng bị mất",
+      "link": "https://thanhnien.vn/nhieu-nap-hop-dien-linh-kien-tru-den-chieu-sang-bi-mat-185260330171325243.htm",
+      "summary": "Tại hẻm 401 Nguyễn Duy Trinh nối với đường số 7, đoạn khu vực cầu Giồng Ông Tố, P.Bình Trưng (trước đây thuộc P.Bình Trưng Tây, TP.Thủ Đức), TP.HCM, chúng tôi thấy có nhiều hộp điện được lắp đặt ở các...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:25:31.409326+07:00"
+    },
+    {
+      "id": "0f24e4775e9ceda7511a38b729b55fc0",
+      "title": "Vì sao nha đam được cho là thần dược để bảo vệ sức khỏe?",
+      "link": "https://thanhnien.vn/vi-sao-nha-dam-duoc-cho-la-than-duoc-de-bao-ve-suc-khoe-185260326172137776.htm",
+      "summary": "Nha đam là loại thực vật có đặc tính sinh học ưu việt trong việc chăm sóc sức khỏe. Theo WebMD, loại cây mọng nước này chứa hơn 75 thành phần hoạt tính, bao gồm các vitamin và khoáng chất thiết yếu. Không chỉ làm dịu vết cháy nắng, nha đam còn đóng vai trò quan trọng trong phục hồi mái tóc, làm sạch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:25:31.409725+07:00"
+    },
+    {
+      "id": "55231e5a97a446a946322ee903888fef",
+      "title": "Năng lực đáp trả khó bị xóa sổ của Iran",
+      "link": "https://vnexpress.net/nang-luc-dap-tra-kho-bi-xoa-so-cua-iran-5056249.html",
+      "summary": "Dù ông Trump tuyên bố đã xóa sổ năng lực quân sự của Iran, nước này vẫn tiếp tục tung ra các đòn tập kích gây thiệt hại ngày càng lớn với Mỹ và đồng minh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:25:34.271633+07:00"
+    },
+    {
+      "id": "bd1a7007e7fedc1f7b12086275732cff",
+      "title": "Tránh 'án' bản quyền, nhiều cộng đồng ebook tại Việt Nam đóng cửa",
+      "link": "https://vnexpress.net/tranh-an-ban-quyen-nhieu-cong-dong-ebook-tai-viet-nam-dong-cua-5056210.html",
+      "summary": "Một số cộng đồng chia sẻ sách điện tử (ebook) tại Việt Nam đóng cửa hoặc thay đổi cách thức hoạt động nhằm tránh việc chia sẻ sách vi phạm bản quyền.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:25:39.261273+07:00"
+    },
+    {
+      "id": "4dc59e933ac6d76a6e6e8f800820810b",
+      "title": "Cụ bà nuôi 3 người thân bị tâm thần",
+      "link": "https://thanhnien.vn/cu-ba-nuoi-3-nguoi-than-bi-tam-than-185260330170802944.htm",
+      "summary": "Kể từ ngày sức khỏe yếu và đôi mắt bị mờ, bà Nguyễn Thị Mai không kiếm sống bằng nghề phun thuốc trừ sâu thuê được nữa. Hằng ngày, bà dậy từ 2 giờ, đi gom thức ăn thừa về cho chó, mèo ăn nhanh lớn để bán lấy tiền nuôi 2 người con và một đứa cháu mắc bệnh tâm thần bẩm sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T21:59:00+07:00",
+      "fetched": "2026-03-31T05:25:31.409925+07:00"
+    },
+    {
+      "id": "66c526d37ac86ffb2c16aa15a375b07c",
+      "title": "'ADN mở' TP.HCM: Khu phố Ấn Độ hơn 100 năm ở phường Bến Thành",
+      "link": "https://thanhnien.vn/adn-mo-tphcm-khu-pho-an-do-hon-100-nam-o-phuong-ben-thanh-185260316154202867.htm",
+      "summary": "Phường Bến Thành có 'khu phố Ấn Độ' hơn 100 năm, nơi cộng đồng người Ấn mang theo ẩm thực, đền Hindu... góp phần đa dạng vào văn hóa 'ADN mở' của Sài Gòn - TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T21:42:00+07:00",
+      "fetched": "2026-03-31T05:25:31.410085+07:00"
+    },
+    {
+      "id": "891550984e66e5215777e16bec6a2eac",
+      "title": "Tình hình Iran, Trung Đông mới nhất sáng 31.3",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-sang-313-185260330213229242.htm",
+      "summary": "Dù Tổng thống Mỹ Donald Trump đưa ra lời đe dọa nóng, Iran vẫn chưa có dấu hiệu nhượng bộ Mỹ, trong khi các cuộc tấn công qua lại tiếp diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T21:30:00+07:00",
+      "fetched": "2026-03-31T05:25:31.410245+07:00"
+    },
+    {
+      "id": "1c804b341918c81c1df0639533fb5cbd",
+      "title": "Chiến sự Ukraine ngày 1.496: 9 vùng của Nga bị tập kích",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1496-9-vung-cua-nga-bi-tap-kich-185260330185317028.htm",
+      "summary": "Bộ Quốc phòng Nga tuyên bố lực lượng phòng không đã phá hủy hơn 100 máy bay không người lái (UAV) do Ukraine phóng vào 9 vùng của Nga và bán đảo Crimea trong một đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T21:29:00+07:00",
+      "fetched": "2026-03-31T05:25:31.410401+07:00"
+    },
+    {
+      "id": "56d9de15639d51322d82eccc7a2f25ab",
+      "title": "Việt Nam chờ vắc xin tay chân miệng nhập về hạ nhiệt dịch",
+      "link": "https://thanhnien.vn/viet-nam-cho-vac-xin-tay-chan-mieng-nhap-ve-ha-nhiet-dich-18526033017423536.htm",
+      "summary": "Vắc xin tay chân miệng là một trong nhiều giải pháp chống dịch, kỳ vọng giảm ca nặng và tử vong trong bối cảnh dịch bệnh diễn biến phức tạp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T21:25:00+07:00",
+      "fetched": "2026-03-31T05:25:31.410551+07:00"
+    },
+    {
+      "id": "ec360681af154bfa498c76471c8d33a0",
+      "title": "Nghiên cứu mới: Nhiễm Covid-19 có thể làm tăng nguy cơ mắc bệnh thận",
+      "link": "https://thanhnien.vn/nghien-cuu-moi-nhiem-covid-19-co-the-lam-tang-nguy-co-mac-benh-than-185260330224035258.htm",
+      "summary": "Gần đây, các chuyên gia tại Trường Y Penn State (Mỹ) phát hiện rằng, tiền sử mắc Covid-19 là một yếu tố nguy cơ đối với bệnh thận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T21:05:00+07:00",
+      "fetched": "2026-03-31T05:25:31.410714+07:00"
+    },
+    {
+      "id": "e48aa61e2156d0f1c57fe6184edb9230",
+      "title": "TP HCM yêu cầu hạn chế cắt điện giờ cao điểm nắng nóng",
+      "link": "https://vnexpress.net/tp-hcm-yeu-cau-han-che-cat-dien-gio-cao-diem-nang-nong-5056549.html",
+      "summary": "Thành phố đề nghị ngành điện hạn chế tối đa cắt điện vào giờ cao điểm nắng nóng và ban đêm, trường hợp bất khả kháng phải báo trước để người dân, doanh nghiệp chủ động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T21:00:00+07:00",
+      "fetched": "2026-03-31T05:25:24.628725+07:00"
+    },
+    {
+      "id": "55a9e7682cefac4e9ad6c4a8381bd926",
+      "title": "TP HCM yêu cầu lắp 3.000 tủ đổi pin xe máy điện trong tháng 4",
+      "link": "https://vnexpress.net/tp-hcm-yeu-cau-lap-3-000-tu-doi-pin-xe-may-dien-trong-thang-4-5056531.html",
+      "summary": "Thành phố yêu cầu các đơn vị hoàn tất lắp 3.000 tủ đổi pin xe máy điện trên vỉa hè trước 20/4, trong bối cảnh hạ tầng sạc hiện chưa đáp ứng đủ nhu cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T21:00:00+07:00",
+      "fetched": "2026-03-31T05:25:24.628929+07:00"
+    },
+    {
+      "id": "0587d6f693197337c527f5fe13ef0547",
+      "title": "Aprilia X 250TH - siêu môtô bản giới hạn giá 150.000 USD",
+      "link": "https://vnexpress.net/aprilia-x-250th-sieu-moto-ban-gioi-han-gia-150-000-usd-5056481.html",
+      "summary": "Mẫu môtô phiên bản đường đua MotoGP, công suất 240 mã lực, phanh carbon, hệ thống điện tử APX, giới hạn 30 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T21:00:00+07:00",
+      "fetched": "2026-03-31T05:25:24.629093+07:00"
     },
     {
       "id": "00c740d500fd519f7ec21d6fb7d25c66",
