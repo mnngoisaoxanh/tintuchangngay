@@ -1,7 +1,157 @@
 window.newsData_2026_03_31 = {
   "date": "2026-03-31",
-  "lastUpdated": "2026-03-31T19:54:22.432106+07:00",
+  "lastUpdated": "2026-03-31T21:54:51.967135+07:00",
   "articles": [
+    {
+      "id": "a672e0fde5e417a6ac905dbd8974a484",
+      "title": "Hối lộ chạy trường mẫu giáo, 13 phụ huynh Hong Kong lãnh án tù",
+      "link": "https://tuoitre.vn/hoi-lo-chay-truong-mau-giao-13-phu-huynh-hong-kong-lanh-an-tu-20260331173215011.htm",
+      "summary": "13 phụ huynh và một trung gian bị tuyên án tù vì hối lộ nhân viên tuyển sinh, tước cơ hội công bằng của trẻ khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.703690+07:00",
+      "fetched": "2026-03-31T21:54:43.703814+07:00"
+    },
+    {
+      "id": "112fc29658fd36237831794505b20da1",
+      "title": "Đăng nhập sàn việc làm quốc gia bằng VNeID: Lừa đảo tuyển dụng đến hồi kết",
+      "link": "https://tuoitre.vn/dang-nhap-san-viec-lam-quoc-gia-bang-vneid-lua-dao-tuyen-dung-den-hoi-ket-20260331174953629.htm",
+      "summary": "Sàn giao dịch việc làm quốc gia trực tuyến giúp người lao động tìm việc, ứng tuyển, phỏng vấn và tiếp cận chính sách thất nghiệp trên một hệ thống, liên thông cả 34 tỉnh, thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.703562+07:00",
+      "fetched": "2026-03-31T21:54:43.703679+07:00"
+    },
+    {
+      "id": "c3d6f0c46a3b12bf310bbbd358615f76",
+      "title": "TP.HCM rà soát kiến nghị bổ sung gần 19.000 phòng học đến năm 2030",
+      "link": "https://tuoitre.vn/tp-hcm-ra-soat-kien-nghi-bo-sung-gan-19-000-phong-hoc-den-nam-2030-20260331183955699.htm",
+      "summary": "UBND TP.HCM giao các sở ngành nghiên cứu kiến nghị của Ban Văn hóa - Xã hội HĐND TP.HCM sau khảo sát cơ sở vật chất trường lớp, cần đầu tư thêm gần 19.000 phòng học đến năm 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.703405+07:00",
+      "fetched": "2026-03-31T21:54:43.703550+07:00"
+    },
+    {
+      "id": "3036effeff72d101ea9bdd4a133884b7",
+      "title": "Vệ tinh Starlink của SpaceX phát nổ trên quỹ đạo, tạo hàng chục mảnh vỡ",
+      "link": "https://tuoitre.vn/ve-tinh-starlink-cua-spacex-phat-no-tren-quy-dao-tao-hang-chuc-manh-vo-20260331183049105.htm",
+      "summary": "Vệ tinh Starlink-34343 gặp sự cố ở quỹ đạo 560km, phát nổ thành nhiều mảnh. SpaceX khẳng định sự cố không gây nguy hiểm cho Trạm Vũ trụ quốc tế ISS.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.703280+07:00",
+      "fetched": "2026-03-31T21:54:43.703394+07:00"
+    },
+    {
+      "id": "f3305b4325d2f7ccfa00435bb7f2578e",
+      "title": "Các nước vùng Vịnh muốn ông Trump kéo dài chiến sự Iran, nói Tehran vẫn chưa suy yếu",
+      "link": "https://tuoitre.vn/cac-nuoc-vung-vinh-muon-ong-trump-keo-dai-chien-su-iran-noi-tehran-van-chua-suy-yeu-20260331184125305.htm",
+      "summary": "Các đồng minh chủ chốt của Mỹ tại vùng Vịnh được cho là đang gia tăng sức ép lên ông Trump nhằm kéo dài chiến sự chống Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.703154+07:00",
+      "fetched": "2026-03-31T21:54:43.703268+07:00"
+    },
+    {
+      "id": "f719e88e4b9143006942414c9b811a23",
+      "title": "Dùng thủ đoạn vay đáo hạn ngân hàng, lừa đảo hơn 13 tỉ đồng",
+      "link": "https://tuoitre.vn/dung-thu-doan-vay-dao-han-ngan-hang-lua-dao-hon-13-ti-dong-20260331185434245.htm",
+      "summary": "Ngày 31-3, Cơ quan an ninh điều tra Công an TP Cần Thơ vừa có quyết định khởi tố vụ án, khởi tố bị can và thực hiện lệnh bắt tạm giam đối với một nghi phạm để điều tra về hành vi “lừa đảo chiếm đoạt tài sản”, với số tiền hơn 13 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.703022+07:00",
+      "fetched": "2026-03-31T21:54:43.703142+07:00"
+    },
+    {
+      "id": "f501fd2739deee1d7a267302de43606b",
+      "title": "Hà Nội rà soát bếp ăn bán trú sau lo ngại thịt heo bệnh",
+      "link": "https://tuoitre.vn/ha-noi-ra-soat-bep-an-ban-tru-sau-lo-ngai-thit-heo-benh-20260331180017677.htm",
+      "summary": "Hà Nội yêu cầu các trường rà soát, niêm yết công khai nguồn thực phẩm bếp ăn bán trú sau vụ 3.600 con heo mắc dịch tả châu Phi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.702895+07:00",
+      "fetched": "2026-03-31T21:54:43.703010+07:00"
+    },
+    {
+      "id": "dd28e40f1cf363314fc8f23dc8ba627c",
+      "title": "TP.HCM tính làm cầu nhánh từ Hoàng Sa, Trường Sa lên các cầu chính ngang kênh Nhiêu Lộc giảm ùn tắc",
+      "link": "https://tuoitre.vn/tp-hcm-tinh-lam-cau-nhanh-tu-hoang-sa-truong-sa-len-cac-cau-chinh-ngang-kenh-nhieu-loc-giam-un-tac-20260331190431196.htm",
+      "summary": "Đây là một trong những giải pháp trong dự thảo kế hoạch phối hợp triển khai các giải pháp xử lý các điểm nguy cơ ùn tắc giao thông tại TP.HCM năm 2026, mà Sở Xây dựng đang nghiên cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.702768+07:00",
+      "fetched": "2026-03-31T21:54:43.702884+07:00"
+    },
+    {
+      "id": "16a542c790a0cb85362277603c82c1f3",
+      "title": "Cựu Cục phó bỏ trốn gửi thư về tòa án nói 'rất choáng' vì bị cáo buộc nhận 6,2 tỉ",
+      "link": "https://tuoitre.vn/cuu-cuc-pho-bo-tron-gui-thu-ve-toa-an-noi-rat-choang-vi-bi-cao-buoc-nhan-6-2-ti-20260331173744562.htm",
+      "summary": "Bỏ trốn ra nước ngoài, cựu Cục phó Nguyễn Hải Thanh gửi thư về tòa án Hà Nội trình bày hoàn cảnh gia đình, lý do sức khỏe và \"rất choáng\" với cáo buộc nhận hối lộ 6,2 tỉ. Ông cho biết gia đình đã nộp khắc phục đủ số tiền này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.702642+07:00",
+      "fetched": "2026-03-31T21:54:43.702757+07:00"
+    },
+    {
+      "id": "a37185e012e30897695c1e7b3992ea1d",
+      "title": "Ngành bao bì bước vào cuộc ‘thanh lọc’ khốc liệt",
+      "link": "https://tuoitre.vn/nganh-bao-bi-buoc-vao-cuoc-thanh-loc-khoc-liet-20260331185949756.htm",
+      "summary": "Chi phí đầu vào leo thang, tiêu chuẩn môi trường ngày càng siết chặt cùng sức ép tối ưu hiệu suất đang đẩy ngành chế biến, đóng gói bao bì vào một chu kỳ “tái sàng lọc” khốc liệt hơn bao giờ hết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.702511+07:00",
+      "fetched": "2026-03-31T21:54:43.702630+07:00"
+    },
+    {
+      "id": "6020e2eee4a24f9f839849b16ef57d60",
+      "title": "Vì sao Quốc tế học ngày càng thu hút người trẻ?",
+      "link": "https://tuoitre.vn/vi-sao-quoc-te-hoc-ngay-cang-thu-hut-nguoi-tre-20260331093759735.htm",
+      "summary": "Ngày càng nhiều học sinh quan tâm đến ngôn ngữ, văn hóa và các vấn đề đang định hình thế giới hôm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.702356+07:00",
+      "fetched": "2026-03-31T21:54:43.702498+07:00"
+    },
+    {
+      "id": "86b274e46e0dd94fd30088ae6df2d18c",
+      "title": "TP.HCM có rừng, có biển, có hệ thống y tế phát triển, rất thuận lợi phát triển du lịch y tế",
+      "link": "https://tuoitre.vn/du-lich-y-te-tp-hcm-cham-soc-suc-khoe-toan-dien-voi-chi-phi-hop-ly-2026033118510093.htm",
+      "summary": "TP.HCM là điểm đến lý tưởng cho du lịch y tế, nơi du khách có thể kết hợp điều trị hiện đại và y học cổ truyền, chăm sóc sức khỏe toàn diện với chi phí hợp lý và trải nghiệm nghỉ dưỡng, ẩm thực, văn hóa Nam Bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.702224+07:00",
+      "fetched": "2026-03-31T21:54:43.702344+07:00"
+    },
+    {
+      "id": "208bdcc3d93e184e68f62294d683d064",
+      "title": "Kiểm tra đột xuất doanh nghiệp liên quan đường dây tiêu thụ gần 300 tấn heo bệnh",
+      "link": "https://tuoitre.vn/kiem-tra-dot-xuat-doanh-nghiep-lien-quan-duong-day-tieu-thu-gan-300-tan-heo-benh-20260331191339599.htm",
+      "summary": "Lực lượng chức năng đã kiểm tra đột xuất một địa điểm kinh doanh của một doanh nghiệp kinh doanh thực phẩm liên quan đường dây giết mổ, tiêu thụ gần 300 tấn heo bệnh tuồn vào chợ, bếp ăn trường học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.702084+07:00",
+      "fetched": "2026-03-31T21:54:43.702211+07:00"
+    },
+    {
+      "id": "650b2f31a2aa5d64eb0476c4bd37195a",
+      "title": "Nga hoài nghi đề xuất ngừng bắn Phục sinh của Ukraine, hướng tới nền hòa bình toàn diện",
+      "link": "https://tuoitre.vn/nga-hoai-nghi-de-xuat-ngung-ban-phuc-sinh-cua-ukraine-huong-toi-nen-hoa-binh-toan-dien-20260331192543659.htm",
+      "summary": "Nga nhấn mạnh ưu tiên thỏa thuận hòa bình toàn diện hơn là các kế hoạch ngắn hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.701931+07:00",
+      "fetched": "2026-03-31T21:54:43.702071+07:00"
+    },
+    {
+      "id": "531eefa1e8a3722231c591d8f3971acf",
+      "title": "Đoàn Thanh niên Chính phủ sẽ là nòng cốt dẫn dắt chuyển đổi số trong các cơ quan, doanh nghiệp",
+      "link": "https://tuoitre.vn/doan-thanh-nien-chinh-phu-se-la-nong-cot-dan-dat-chuyen-doi-so-trong-cac-co-quan-doanh-nghiep-20260331162219228.htm",
+      "summary": "Bí thư Đoàn Thanh niên Chính phủ Bùi Hoàng Tùng cho biết đơn vị này đã ký kết hợp tác xây dựng đề án để nâng năng lực số. Theo đó, đoàn viên, thanh niên, cán bộ trẻ sẽ trở thành nòng cốt dẫn dắt quá trình đổi mới trong cơ quan, doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:54:43.701682+07:00",
+      "fetched": "2026-03-31T21:54:43.701914+07:00"
+    },
     {
       "id": "7ca6435837a4f5f953db1acedf707cca",
       "title": "Hệ thống bảo mật ‘Made in Vietnam’ trên Samsung Galaxy S26",
@@ -453,6 +603,186 @@ window.newsData_2026_03_31 = {
       "fetched": "2026-03-31T15:46:02.752766+07:00"
     },
     {
+      "id": "7ded4bacb054c071cc9b59333a4325ca",
+      "title": "Highlight đội tuyển Việt Nam 3-1 Malaysia: Xuân Son, Duy Mạnh tỏa sáng",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-viet-nam-3-1-malaysia-xuan-son-duy-manh-toa-sang-185260331215255829.htm",
+      "summary": "Đội tuyển Việt Nam giành chiến thắng 3-1 trước Malaysia. Kết quả này phản ánh đúng cục diện trận đấu, khi thầy trò HLV Kim Sang-sik chơi hiệu quả hơn và biết cách tận dụng thời cơ, đặc biệt là sự tỏa sáng đúng lúc của Xuân Son.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:52:00+07:00",
+      "fetched": "2026-03-31T21:54:42.101554+07:00"
+    },
+    {
+      "id": "190f37d8b225ab3f46e95cb9ff25d45c",
+      "title": "HLV Cklamovski nói điều cực bất ngờ: 'Đội tuyển Malaysia bị Việt Nam áp đảo thật đấy, nhưng...'",
+      "link": "https://thanhnien.vn/hlv-cklamovski-noi-dieu-cuc-bat-ngo-doi-tuyen-malaysia-bi-viet-nam-ap-dao-that-day-nhung-185260331204821028.htm",
+      "summary": "HLV Peter Cklamovski khẳng định đội tuyển Malaysia đã chơi hết mình trong trận thua 1-3 trước đội tuyển Việt Nam, tối 31.3 trên sân Thiên Trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:49:00+07:00",
+      "fetched": "2026-03-31T21:54:42.101732+07:00"
+    },
+    {
+      "id": "1bd85d0b42d82dd6ed96c041b213cb20",
+      "title": "Iran có thể đã đánh trúng hai 'máy bay mắt thần' của Mỹ",
+      "link": "https://vnexpress.net/iran-co-the-da-danh-trung-hai-may-bay-mat-than-cua-my-5056901.html",
+      "summary": "Iran dường như đã làm hư hại 2 máy bay E-3 Sentry, mỗi chiếc trị giá hơn 500 triệu USD, trong đòn tấn công ngày 27/3, theo đài NPR.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:44:02+07:00",
+      "fetched": "2026-03-31T21:54:38.359134+07:00"
+    },
+    {
+      "id": "1bd85d0b42d82dd6ed96c041b213cb20",
+      "title": "Iran có thể đã đánh trúng hai 'máy bay mắt thần' của Mỹ",
+      "link": "https://vnexpress.net/iran-co-the-da-danh-trung-hai-may-bay-mat-than-cua-my-5056901.html",
+      "summary": "Iran dường như đã làm hư hại 2 máy bay E-3 Sentry, mỗi chiếc trị giá hơn 500 triệu USD, trong đòn tấn công ngày 27/3, theo đài NPR.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-31T14:44:02+07:00",
+      "fetched": "2026-03-31T21:54:45.707676+07:00"
+    },
+    {
+      "id": "c99310bf4aae8ca0b7afc0d9bab90f3d",
+      "title": "Cách Shopee Debut tối ưu chiến lược giới thiệu sản phẩm mới",
+      "link": "https://vnexpress.net/cach-shopee-debut-toi-uu-chien-luoc-gioi-thieu-san-pham-moi-5056910.html",
+      "summary": "Shopee Debut giúp thương hiệu tối ưu chiến lược ra mắt sản phẩm mới bằng cách tích hợp truyền thông và bán hàng, thu hút chú ý và chuyển hóa thành doanh thu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:40:00+07:00",
+      "fetched": "2026-03-31T21:54:38.359324+07:00"
+    },
+    {
+      "id": "757b63565538e59ec2944d3dae492255",
+      "title": "Xuân Son: 'Việt Nam mạnh hơn khi có Hoàng Hên'",
+      "link": "https://vnexpress.net/xuan-son-viet-nam-manh-hon-khi-co-hoang-hen-5056918.html",
+      "summary": "Tiền đạo Nguyễn Xuân Son mừng vì ghi bàn vào lưới Malaysia từ pha kiến tạo của đồng hương Đỗ Hoàng Hên tại lượt cuối vòng loại Asian Cup 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:38:48+07:00",
+      "fetched": "2026-03-31T21:54:38.359564+07:00"
+    },
+    {
+      "id": "757b63565538e59ec2944d3dae492255",
+      "title": "Xuân Son: 'Việt Nam mạnh hơn khi có Hoàng Hên'",
+      "link": "https://vnexpress.net/xuan-son-viet-nam-manh-hon-khi-co-hoang-hen-5056918.html",
+      "summary": "Tiền đạo Nguyễn Xuân Son mừng vì ghi bàn vào lưới Malaysia từ pha kiến tạo của đồng hương Đỗ Hoàng Hên tại lượt cuối vòng loại Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-31T14:38:48+07:00",
+      "fetched": "2026-03-31T21:54:51.953950+07:00"
+    },
+    {
+      "id": "528f174adea2efc41e6d6e0d49703746",
+      "title": "Vợ NSND Công Lý tiết lộ cuộc sống sau biến cố",
+      "link": "https://thanhnien.vn/vo-nsnd-cong-ly-tiet-lo-cuoc-song-sau-bien-co-185260331202316995.htm",
+      "summary": "Ngọc Hà vừa có những trải lòng về giai đoạn NSND Công Lý đối diện với biến cố sức khỏe. Nhìn lại, cô bày tỏ niềm tự hào khi bản thân 'bước qua khó khăn bằng sự chân thành'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:37:00+07:00",
+      "fetched": "2026-03-31T21:54:42.101891+07:00"
+    },
+    {
+      "id": "798fb1ab72d404a7add154f7240e1fa1",
+      "title": "Tôi không hào hứng gần gũi bạn trai dù yêu xa và rất yêu anh",
+      "link": "https://vnexpress.net/toi-khong-hao-hung-gan-gui-ban-trai-du-yeu-xa-va-rat-yeu-anh-5056914.html",
+      "summary": "Quan hệ với anh, tôi thấy không có vấn đề gì, chỉ là bình thường tôi chẳng mấy khi có nhu cầu được quan hệ với anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:36:16+07:00",
+      "fetched": "2026-03-31T21:54:38.359756+07:00"
+    },
+    {
+      "id": "a73e4653ecabf3d14114ddc5d0a6cfc1",
+      "title": "Đội tuyển Thái Lan thắng Turkmenistan phút 89, lách khe cửa hẹp giành vé Asian Cup 2027",
+      "link": "https://thanhnien.vn/doi-tuyen-thai-lan-thang-turkmenistan-phut-89-lach-khe-cua-hep-gianh-ve-asian-cup-2027-185260331213208952.htm",
+      "summary": "Dù thi đấu có phần vất vả nhưng đội tuyển Thái Lan vẫn đánh bại Turkmenistan 2-1, qua đó chính thức có mặt ở VCK Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:33:00+07:00",
+      "fetched": "2026-03-31T21:54:42.102044+07:00"
+    },
+    {
+      "id": "faed605e0aee8334a941a1d56c7f5270",
+      "title": "HLV Kim Sang-sik họp báo sau trận thắng Malaysia",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-hop-bao-sau-tran-thang-malaysia-5056821.html",
+      "summary": "HLV Kim Sang-sik đưa ra những đánh giá sau khi Việt Nam hạ Malaysia 3-1, ở lượt cuối bảng F vòng loại cuối Asian Cup 2027, tối nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:30:00+07:00",
+      "fetched": "2026-03-31T21:54:38.359915+07:00"
+    },
+    {
+      "id": "faed605e0aee8334a941a1d56c7f5270",
+      "title": "HLV Kim Sang-sik họp báo sau trận thắng Malaysia",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-hop-bao-sau-tran-thang-malaysia-5056821.html",
+      "summary": "HLV Kim Sang-sik đưa ra những đánh giá sau khi Việt Nam hạ Malaysia 3-1, ở lượt cuối bảng F vòng loại cuối Asian Cup 2027, tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-31T14:30:00+07:00",
+      "fetched": "2026-03-31T21:54:51.954131+07:00"
+    },
+    {
+      "id": "6a979f2d6f04d826a61179cae03f6678",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 31.3, tiền cộng dồn lên 59,8 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-313-tien-cong-don-len-598-ti-dong-185260331195722484.htm",
+      "summary": "Tối 31.3, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, lần này không xuất hiện người trúng giải độc đắc nên số tiền cộng dồn là 59,8 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:22:00+07:00",
+      "fetched": "2026-03-31T21:54:42.102197+07:00"
+    },
+    {
+      "id": "27c3236f3f09679a89f11d6f13bcce5b",
+      "title": "Chi Pu: 'Tôi lì và nhiều tham vọng'",
+      "link": "https://vnexpress.net/chi-pu-toi-li-va-nhieu-tham-vong-5056653.html",
+      "summary": "Ca sĩ Chi Pu nói 17 năm vào showbiz, cô giữ được sự tự tin làm nghề lẫn tham vọng phát triển bản thân nhờ tính cách \"lì đòn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:16:15+07:00",
+      "fetched": "2026-03-31T21:54:38.360071+07:00"
+    },
+    {
+      "id": "23c11c8e47b06ec632a9e81615b635e5",
+      "title": "Ốc Thanh Vân tái xuất điện ảnh",
+      "link": "https://vnexpress.net/oc-thanh-van-tai-xuat-dien-anh-5056868.html",
+      "summary": "Diễn viên Ốc Thanh Vân trở lại màn ảnh rộng sau bốn năm, đóng cặp Ngọc Vàng - đàn em kém cô 14 tuổi - trong phim \"Heo năm móng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:15:08+07:00",
+      "fetched": "2026-03-31T21:54:38.360226+07:00"
+    },
+    {
+      "id": "178750afdc810dcc89cda8ac139a8898",
+      "title": "Xuân Son cảm ơn những người chê mình 'béo'",
+      "link": "https://thanhnien.vn/xuan-son-cam-on-nhung-nguoi-che-minh-beo-185260331211337067.htm",
+      "summary": "Sau khi giúp đội tuyển Việt Nam đánh bại Malaysia, Xuân Son đã có những chia sẻ cực kỳ thú vị xoay quanh việc bản thân bị chê nặng nề, thừa cân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:15:00+07:00",
+      "fetched": "2026-03-31T21:54:42.102348+07:00"
+    },
+    {
+      "id": "5c2da2033399ae0efc2bc6c4e0094615",
+      "title": "Việt Nam thắng 10 trận liên tiếp trước các đối thủ Đông Nam Á",
+      "link": "https://vnexpress.net/viet-nam-thang-10-tran-lien-tiep-truoc-cac-doi-thu-dong-nam-a-5056898.html",
+      "summary": "Đội tuyển Việt Nam lập nhiều cột mốc khi đả bại Malaysia 3-1 ở lượt cuối vòng loại Asian Cup 2027, trong đó có những kỷ lục Đông Nam Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:12:41+07:00",
+      "fetched": "2026-03-31T21:54:38.360390+07:00"
+    },
+    {
+      "id": "5c2da2033399ae0efc2bc6c4e0094615",
+      "title": "Việt Nam thắng 10 trận liên tiếp trước các đối thủ Đông Nam Á",
+      "link": "https://vnexpress.net/viet-nam-thang-10-tran-lien-tiep-truoc-cac-doi-thu-dong-nam-a-5056898.html",
+      "summary": "Đội tuyển Việt Nam lập nhiều cột mốc khi đả bại Malaysia 3-1 ở lượt cuối vòng loại Asian Cup 2027, trong đó có những kỷ lục Đông Nam Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-31T14:12:41+07:00",
+      "fetched": "2026-03-31T21:54:51.954297+07:00"
+    },
+    {
       "id": "603fb8a3b86b322ba992b55bcc223d57",
       "title": "Giá mít Thái 'chạm đáy', nhà vườn miền Tây xoay xở đủ đường để gỡ gạc",
       "link": "https://tuoitre.vn/gia-mit-thai-cham-day-nha-vuon-mien-tay-xoay-xo-du-duong-de-go-gac-20260331103219922.htm",
@@ -601,6 +931,226 @@ window.newsData_2026_03_31 = {
       "category": "Tổng hợp",
       "published": "2026-03-31T14:02:11.174901+07:00",
       "fetched": "2026-03-31T14:02:11.175134+07:00"
+    },
+    {
+      "id": "524549e6c20244098e1b63cb2f747802",
+      "title": "Nóng: Đội tuyển Việt Nam nhảy vọt lên vị trí 98 thế giới sau trận thắng đậm Malaysia",
+      "link": "https://thanhnien.vn/nong-doi-tuyen-viet-nam-nhay-vot-len-vi-tri-98-the-gioi-sau-tran-thang-dam-malaysia-185260331210104803.htm",
+      "summary": "Tối 31.3, đội tuyển Việt Nam đã được cộng thêm 9,75 điểm từ trận thắng Malaysia với tỷ số 3-1 tại vòng loại Asian Cup 2027, qua đó đã tích lũy 1.225,75 điểm trên bảng xếp hạng FIFA và nhảy vọt từ vị trí 103 lên 98 thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:01:00+07:00",
+      "fetched": "2026-03-31T21:54:42.102544+07:00"
+    },
+    {
+      "id": "5c8536ab635c66416dba35031572936c",
+      "title": "Thứ trưởng Lê Quân làm Chủ tịch Hội Thể thao đại học và chuyên nghiệp",
+      "link": "https://thanhnien.vn/thu-truong-le-quan-lam-chu-tich-hoi-the-thao-dai-hoc-va-chuyen-nghiep-185260331204644305.htm",
+      "summary": "Thể thao học đường bước vào giai đoạn chuyên nghiệp hóa, gắn chặt với chất lượng nguồn nhân lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:01:00+07:00",
+      "fetched": "2026-03-31T21:54:42.102700+07:00"
+    },
+    {
+      "id": "3fed9bbbd177d6aefdd4833663001da5",
+      "title": "Bỏ phố về quê nhưng tôi phải đi ở trọ Nha Trang vì tiếng ồn karaoke",
+      "link": "https://vnexpress.net/du-lich-he-nha-trang-co-gi-choi-an-gi-nha-trang-phai-thue-tro-nha-trang-vi-bi-karaoke-tra-tan-5056814.html",
+      "summary": "Tưởng tiết kiệm được chi phí và ở gần ba mẹ, tôi phải đi thuê trọ để làm việc online, sau khi rời Sài Gòn về quê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:00:00+07:00",
+      "fetched": "2026-03-31T21:54:38.360579+07:00"
+    },
+    {
+      "id": "31d52d77ee6293190f5ae633f932d63d",
+      "title": "Thương mại điện tử chuyển cách thức cạnh tranh",
+      "link": "https://vnexpress.net/thuong-mai-dien-tu-chuyen-cach-thuc-canh-tranh-5056912.html",
+      "summary": "Thương mại điện tử Việt Nam chuyển từ cạnh tranh giá sang năng lực vận hành, khi người tiêu dùng mua sắm thường xuyên hơn, ưu tiên hàng chính hãng và trải nghiệm mua sắm tin cậy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:00:00+07:00",
+      "fetched": "2026-03-31T21:54:38.360743+07:00"
+    },
+    {
+      "id": "8ea873219128697a95acce848cec88a5",
+      "title": "Vingroup gia hạn chương trình hỗ trợ ôtô, xe máy điện",
+      "link": "https://vnexpress.net/vingroup-gia-han-chuong-trinh-ho-tro-oto-xe-may-dien-5056903.html",
+      "summary": "Chương trình \"thu xăng – đổi điện\", hỗ trợ giá bán các dòng xe điện VinFast được tập đoàn Vingroup gia hạn đến hết tháng 4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:00:00+07:00",
+      "fetched": "2026-03-31T21:54:38.360899+07:00"
+    },
+    {
+      "id": "705e869a18c4bad99301aa20e1f0f950",
+      "title": "TNSV quốc tế 31.3: Tuyển thủ U.23 Lào thần tượng Pedri | Gặp 'người hùng' của Trường ĐH Thủy lợi",
+      "link": "https://thanhnien.vn/tnsv-quoc-te-313-tuyen-thu-u23-lao-than-tuong-pedri-gap-nguoi-hung-cua-truong-dh-thuy-loi-185260331193205709.htm",
+      "summary": "Bản tin Toàn cảnh TNSV quốc tế 2026 THACO Cup ngày 31.3 trên Thanhnien.vn và kênh YouTube Báo Thanh Niên cập nhật những diễn biến mới nhất về các trận đấu, câu chuyện bên lề sân cỏ và lịch thi đấu sắp tới của giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:00:00+07:00",
+      "fetched": "2026-03-31T21:54:42.102852+07:00"
+    },
+    {
+      "id": "85ead308359eac78766fb7552399f242",
+      "title": "Khám phá ngôi chùa bên núi A Mang với hơn 500 mộ cổ",
+      "link": "https://thanhnien.vn/kham-pha-ngoi-chua-ben-nui-a-mang-voi-hon-500-mo-co-185260331162105102.htm",
+      "summary": "Dưới chân núi A Mang (Đắk Lắk) có một ngôi chùa cổ hàng trăm năm tuổi lưu giữ những pho tượng đồng đen và \"canh giữ\" cho hơn 500 mộ cổ lâu đời, không còn bia ký.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:00:00+07:00",
+      "fetched": "2026-03-31T21:54:42.103008+07:00"
+    },
+    {
+      "id": "31d52d77ee6293190f5ae633f932d63d",
+      "title": "Thương mại điện tử chuyển cách thức cạnh tranh",
+      "link": "https://vnexpress.net/thuong-mai-dien-tu-chuyen-cach-thuc-canh-tranh-5056912.html",
+      "summary": "Thương mại điện tử Việt Nam chuyển từ cạnh tranh giá sang năng lực vận hành, khi người tiêu dùng mua sắm thường xuyên hơn, ưu tiên hàng chính hãng và trải nghiệm mua sắm tin cậy.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-31T14:00:00+07:00",
+      "fetched": "2026-03-31T21:54:47.078220+07:00"
+    },
+    {
+      "id": "c3fcbd9588b11b68894928a4a041ccd5",
+      "title": "Đà Nẵng dự kiến di dời gần 400.000 ngôi mộ để tái thiết đô thị ven biển",
+      "link": "https://vnexpress.net/da-nang-du-kien-di-doi-gan-400-000-ngoi-mo-de-tai-thiet-do-thi-ven-bien-5056906.html",
+      "summary": "Sở Xây dựng TP Đà Nẵng đề xuất di dời gần 400.000 ngôi mộ trong khu dân cư, tạo quỹ đất phát triển đô thị ven biển và triển khai các dự án hạ tầng trọng điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T13:59:30+07:00",
+      "fetched": "2026-03-31T21:54:38.361057+07:00"
+    },
+    {
+      "id": "2bd7656c9a4fbb0ae40caef46994dda5",
+      "title": "Xuân Son đếm cơ bụng 8 múi sau khi chọc thủng lưới Malaysia",
+      "link": "https://vnexpress.net/xuan-son-dem-co-bung-8-mui-sau-khi-choc-thung-luoi-malaysia-5056908.html",
+      "summary": "Tiền đạo Nguyễn Xuân Son đáp trả những lời chê hình thể, bằng cách đếm các cơ bụng mừng bàn thắng vào lưới Malaysia ở vòng loại Asian Cup 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T13:58:00+07:00",
+      "fetched": "2026-03-31T21:54:38.361213+07:00"
+    },
+    {
+      "id": "2bd7656c9a4fbb0ae40caef46994dda5",
+      "title": "Xuân Son đếm cơ bụng 8 múi sau khi chọc thủng lưới Malaysia",
+      "link": "https://vnexpress.net/xuan-son-dem-co-bung-8-mui-sau-khi-choc-thung-luoi-malaysia-5056908.html",
+      "summary": "Tiền đạo Nguyễn Xuân Son đáp trả những lời chê hình thể, bằng cách đếm các cơ bụng mừng bàn thắng vào lưới Malaysia ở vòng loại Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-31T13:58:00+07:00",
+      "fetched": "2026-03-31T21:54:51.954482+07:00"
+    },
+    {
+      "id": "89828242c0783c614a36258f298bcb9b",
+      "title": "HLV Malaysia: 'Chúng tôi xứng đáng đi tiếp nếu không bị xử thua hai trận'",
+      "link": "https://vnexpress.net/hlv-malaysia-chung-toi-xung-dang-di-tiep-neu-khong-bi-xu-thua-hai-tran-5056820.html",
+      "summary": "Theo HLV Peter Cklamovski dù thua Việt Nam 1-3 ở lượt cuối bảng F vòng loại cuối Asian Cup 2027, Malaysia vẫn chơi tốt và lẽ ra có thể giành vé dự VCK nếu không chịu án phạt từ AFC và FIFA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T13:57:13+07:00",
+      "fetched": "2026-03-31T21:54:38.361364+07:00"
+    },
+    {
+      "id": "89828242c0783c614a36258f298bcb9b",
+      "title": "HLV Malaysia: 'Chúng tôi xứng đáng đi tiếp nếu không bị xử thua hai trận'",
+      "link": "https://vnexpress.net/hlv-malaysia-chung-toi-xung-dang-di-tiep-neu-khong-bi-xu-thua-hai-tran-5056820.html",
+      "summary": "Theo HLV Peter Cklamovski dù thua Việt Nam 1-3 ở lượt cuối bảng F vòng loại cuối Asian Cup 2027, Malaysia vẫn chơi tốt và lẽ ra có thể giành vé dự VCK nếu không chịu án phạt từ AFC và FIFA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-31T13:57:13+07:00",
+      "fetched": "2026-03-31T21:54:51.954651+07:00"
+    },
+    {
+      "id": "fb57757f6daa986159b0cc202ca630a6",
+      "title": "Vừa Hên vừa Son lại còn Mạnh, đội tuyển Việt Nam thắng giòn giã Malaysia: VFF thưởng lớn",
+      "link": "https://thanhnien.vn/vua-hen-vua-son-lai-con-manh-doi-tuyen-viet-nam-thang-gion-gia-malaysia-vff-thuong-lon-185260331205421407.htm",
+      "summary": "Đội tuyển Việt Nam thắng thuyết phục Malaysia 3-1 trên sân Thiên Trường, với dấu ấn của Duy Mạnh, Xuân Son và thế trận đúng như tính toán của HLV Kim Sang-sik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T13:56:00+07:00",
+      "fetched": "2026-03-31T21:54:42.103156+07:00"
+    },
+    {
+      "id": "685d5dc0f8a7d327bbe55e918e2085dd",
+      "title": "Bé gái 5 tuổi điều khiển xe máy điện gây xôn xao",
+      "link": "https://thanhnien.vn/be-gai-5-tuoi-dieu-khien-xe-may-dien-gay-xon-xao-185260331202219119.htm",
+      "summary": "Clip bé gái 5 tuổi điều khiển xe máy điện chở theo người phía sau, di chuyển tốc độ cao trên đường ở Quảng Ninh khiến dư luận bức xúc. Lực lượng CSGT đang xác minh, xử lý theo quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T13:56:00+07:00",
+      "fetched": "2026-03-31T21:54:42.103303+07:00"
+    },
+    {
+      "id": "6ba73f39f904450654d5f54c93571954",
+      "title": "Bệnh tay chân miệng tăng cao: Vắc xin vẫn chờ công bố  giá",
+      "link": "https://thanhnien.vn/benh-tay-chan-mieng-tang-cao-vac-xin-van-cho-cong-bo-gia-185260331202806813.htm",
+      "summary": "Số ca bệnh tay chân miệng tăng liên tục từ tháng 1 năm nay tại nhiều tỉnh, thành nhưng chỉ áp dụng các biện pháp phòng bệnh không đặc hiệu. Vắc xin bệnh tay chân miệng đã được cấp phép lưu hành tại Việt Nam nhưng đang chờ doanh nghiệp công bố giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T13:53:00+07:00",
+      "fetched": "2026-03-31T21:54:42.103486+07:00"
+    },
+    {
+      "id": "d1c0d92aacd3d8ad52da979efd63048c",
+      "title": "Hạn chót hộ kinh doanh phải thông báo số tài khoản, nộp bảng kê tồn kho",
+      "link": "https://thanhnien.vn/han-chot-ho-kinh-doanh-phai-thong-bao-so-tai-khoan-nop-bang-ke-ton-kho-185260331192445528.htm",
+      "summary": "Trong tháng 4 có nhiều mốc thời gian quan trọng liên quan tới hạn chót hộ kinh doanh phải thông báo số tài khoản cũng như nộp bảng kê tồn kho, tờ khai thuế tới cơ quan thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T13:46:00+07:00",
+      "fetched": "2026-03-31T21:54:42.103652+07:00"
+    },
+    {
+      "id": "b2f7968aebd3b8e618a215b0458387c3",
+      "title": "U.23 Việt Nam thay nửa đội hình khiến chủ nhà Trung Quốc không thể vô địch, Triều Tiên đứng thứ mấy?",
+      "link": "https://thanhnien.vn/u23-viet-nam-thay-nua-doi-hinh-khien-chu-nha-trung-quoc-khong-the-vo-dich-trieu-tien-dung-thu-may-185260331194940739.htm",
+      "summary": "U.23 Việt Nam tung ra đội hình với khá nhiều sự thử nghiệm nhưng đã chơi một trận vững vàng, chỉ thủng lưới 1 lần bởi khoảnh khắc tỏa sáng cá nhân khiến U.23 Trung Quốc không thể đạt được mục tiêu vô địch giải CFA Team China - Tây An 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T13:37:00+07:00",
+      "fetched": "2026-03-31T21:54:42.103808+07:00"
+    },
+    {
+      "id": "1103aa2a881b74bd1f70625fa1132420",
+      "title": "Thiên Long rút khỏi Nhà sách Phương Nam",
+      "link": "https://vnexpress.net/thien-long-rut-khoi-nha-sach-phuong-nam-5056884.html",
+      "summary": "Loạt nhân sự cấp cao liên quan xin từ nhiệm, lập pháp nhân mới để chuyển nhượng cổ phần, cho thấy Thiên Long đang rút khỏi Nhà sách Phương Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T13:27:10+07:00",
+      "fetched": "2026-03-31T21:54:38.361544+07:00"
+    },
+    {
+      "id": "1103aa2a881b74bd1f70625fa1132420",
+      "title": "Thiên Long rút khỏi Nhà sách Phương Nam",
+      "link": "https://vnexpress.net/thien-long-rut-khoi-nha-sach-phuong-nam-5056884.html",
+      "summary": "Loạt nhân sự cấp cao liên quan xin từ nhiệm, lập pháp nhân mới để chuyển nhượng cổ phần, cho thấy Thiên Long đang rút khỏi Nhà sách Phương Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-31T13:27:10+07:00",
+      "fetched": "2026-03-31T21:54:47.075895+07:00"
+    },
+    {
+      "id": "d14d5ea6526f60fd5f726f8052fb239b",
+      "title": "Lãi suất liên ngân hàng lên 12%",
+      "link": "https://vnexpress.net/lai-suat-lien-ngan-hang-len-12-5056881.html",
+      "summary": "Lãi suất vay mượn qua đêm giữa các ngân hàng phiên 30/3 tăng mạnh lên 12%, Ngân hàng Nhà nước bơm ròng 30.000 tỷ hỗ trợ thanh khoản.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-31T13:21:33+07:00",
+      "fetched": "2026-03-31T21:54:47.076075+07:00"
+    },
+    {
+      "id": "6417f3c838386e2fc782fe890bf1f67d",
+      "title": "Công ty của bầu Đức được giảm hơn 1.500 tỷ đồng tiền lãi trái phiếu",
+      "link": "https://vnexpress.net/cong-ty-cua-bau-duc-duoc-giam-hon-1-500-ty-dong-tien-lai-trai-phieu-5056882.html",
+      "summary": "Sau khi được giảm 1.534 tỷ đồng tiền lãi suất trái phiếu, Hoàng Anh Gia Lai còn 819 tỷ đồng nợ gốc chưa thanh toán.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-31T13:00:28+07:00",
+      "fetched": "2026-03-31T21:54:47.076251+07:00"
     },
     {
       "id": "0e89d360fe5c38247415fc67542b37b8",
@@ -1081,6 +1631,16 @@ window.newsData_2026_03_31 = {
       "category": "Thể thao",
       "published": "2026-03-31T11:00:00+07:00",
       "fetched": "2026-03-31T19:54:22.420881+07:00"
+    },
+    {
+      "id": "657a4fad28072a6e2ded6ece914e6f47",
+      "title": "U23 Việt Nam thua sát nút Trung Quốc",
+      "link": "https://vnexpress.net/u23-viet-nam-u23-trung-quoc-5056799-tong-thuat.html",
+      "summary": "U23 Việt Nam thua chủ nhà Trung Quốc 0-1 ở lượt cuối và đứng bét bảng với một điểm tại giải giao hữu CFA Team China Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-31T11:00:00+07:00",
+      "fetched": "2026-03-31T21:54:51.954968+07:00"
     },
     {
       "id": "7e212ada715052d66c48321af6282aaa",
