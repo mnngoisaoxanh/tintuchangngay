@@ -1,7 +1,157 @@
 window.newsData_2026_03_31 = {
   "date": "2026-03-31",
-  "lastUpdated": "2026-03-31T17:44:41.205465+07:00",
+  "lastUpdated": "2026-03-31T19:54:22.432106+07:00",
   "articles": [
+    {
+      "id": "7ca6435837a4f5f953db1acedf707cca",
+      "title": "Hệ thống bảo mật ‘Made in Vietnam’ trên Samsung Galaxy S26",
+      "link": "https://tuoitre.vn/he-thong-bao-mat-made-in-vietnam-tren-samsung-galaxy-s26-20260331174258591.htm",
+      "summary": "Trong câu chuyện về Samsung Galaxy S26 và thế hệ Galaxy AI mới, phần lớn sự chú ý thường tập trung vào những tính năng dễ nhận thấy: chỉnh sửa ảnh bằng AI, trợ lý thông minh hay khả năng hiểu ngữ cảnh người dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.009807+07:00",
+      "fetched": "2026-03-31T19:54:16.009948+07:00"
+    },
+    {
+      "id": "dc4d07ff54e4d5234195f7f7ab8d8faa",
+      "title": "Không khí lạnh áp sát, người dân miền Bắc đề phòng mưa đá, dông lốc đêm nay",
+      "link": "https://tuoitre.vn/khong-khi-lanh-ap-sat-nguoi-dan-mien-bac-de-phong-mua-da-dong-loc-dem-nay-20260331171515971.htm",
+      "summary": "Dự báo do ảnh hưởng của không khí lạnh, nên ở miền Bắc (trừ Lai Châu, Điện Biên) có mưa rào và dông. Nguy cơ xảy ra lốc, sét, mưa đá và gió giật mạnh trong đêm nay và sáng mai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.009686+07:00",
+      "fetched": "2026-03-31T19:54:16.009796+07:00"
+    },
+    {
+      "id": "fde4fae3e0f74188a679e20715526235",
+      "title": "Hơn 2.700 sinh viên thi tài đầu tư chứng khoán sinh viên",
+      "link": "https://tuoitre.vn/hon-2-700-sinh-vien-thi-tai-dau-tu-chung-khoan-sinh-vien-20260331143942396.htm",
+      "summary": "Cuộc thi đầu tư chứng khoán sinh viên Việt Nam - Investment Challenge 2026 thu hút hơn 2.700 sinh viên đến từ 116 trường đại học, lần đầu tiên có sự góp mặt của sinh viên quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.009565+07:00",
+      "fetched": "2026-03-31T19:54:16.009675+07:00"
+    },
+    {
+      "id": "01e873d343fb2a7a8b576bdd74ea76fb",
+      "title": "Đổi mới tiết học, nâng cao năng lực số cho học sinh",
+      "link": "https://tuoitre.vn/doi-moi-tiet-hoc-nang-cao-nang-luc-so-cho-hoc-sinh-20260331154251581.htm",
+      "summary": "Chuyên đề Phát triển năng lực số cho học sinh qua tiết học mở vừa được thực hiện tại Trường THCS Ngô Tất Tố (phường Phú Nhuận, TP.HCM) ngày 31-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.009445+07:00",
+      "fetched": "2026-03-31T19:54:16.009554+07:00"
+    },
+    {
+      "id": "6c7bc23857a34ac11a9c9aac7e2db7d9",
+      "title": "Tuyển Việt Nam tung đội hình siêu tấn công đấu Malaysia",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-tung-doi-hinh-sieu-tan-cong-dau-malaysia-20260331172751964.htm",
+      "summary": "HLV Kim Sang Sik đã tung ra đội hình siêu tấn công cho đội tuyển Việt Nam trong trận đấu với Malaysia ở vòng loại cuối Asian Cup 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.009322+07:00",
+      "fetched": "2026-03-31T19:54:16.009434+07:00"
+    },
+    {
+      "id": "bd0e293c2561c0617f7778d0f94f193d",
+      "title": "Công an điều tra vụ dầu nhớt tràn ruộng lúa bên cao tốc Chí Thạnh - Vân Phong",
+      "link": "https://tuoitre.vn/cong-an-dieu-tra-vu-dau-nhot-tran-ruong-lua-ben-cao-toc-chi-thanh-van-phong-20260331163248954.htm",
+      "summary": "Lãnh đạo địa phương cho hay công an đang điều tra nguyên nhân dầu nhớt tràn ra ruộng lúa ở cánh đồng Chân Rạ tại xã Hòa Xuân, Đắk Lắk (trước là Phú Yên), bên cao tốc Chí Thạnh - Vân Phong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.009190+07:00",
+      "fetched": "2026-03-31T19:54:16.009310+07:00"
+    },
+    {
+      "id": "0e7e369a4c24580955bb0a57a110698c",
+      "title": "Nhiều ca tay chân miệng nặng, mắc chủng vi rút có độc lực cao: Bộ Y tế yêu cầu tăng cường cách ly",
+      "link": "https://tuoitre.vn/nhieu-ca-tay-chan-mieng-nang-mac-chung-vi-rut-co-doc-luc-cao-bo-y-te-yeu-cau-tang-cuong-cach-ly-20260331164615725.htm",
+      "summary": "Bộ Y tế vừa có văn bản hỏa tốc gửi các đơn vị y tế trên cả nước đề nghị tăng cường công tác truyền thông, khám, phân loại, thu dung, điều trị và kiểm soát lây nhiễm tay chân miệng trong cơ sở khám bệnh, chữa bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.009067+07:00",
+      "fetched": "2026-03-31T19:54:16.009179+07:00"
+    },
+    {
+      "id": "e8cf4a3525d021a6e1f6f53f36f1b887",
+      "title": "Các quốc gia Ả Rập có thể thiệt hại 200 tỉ USD do cuộc chiến tại Iran",
+      "link": "https://tuoitre.vn/cac-quoc-gia-a-rap-co-the-thiet-hai-200-ti-usd-do-cuoc-chien-tai-iran-20260331164927028.htm",
+      "summary": "Xung đột Mỹ - Israel và Iran có thể khiến Trung Đông mất gần 200 tỉ USD GDP, kéo theo thất nghiệp, nghèo đói gia tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.008941+07:00",
+      "fetched": "2026-03-31T19:54:16.009056+07:00"
+    },
+    {
+      "id": "c0afceac945c1c0d70fb3041204f8d65",
+      "title": "Chuẩn bị thay Chủ tịch đi định cư nước ngoài, cổ phiếu FTS tăng đột biến",
+      "link": "https://tuoitre.vn/chuan-bi-thay-chu-tich-di-dinh-cu-nuoc-ngoai-co-phieu-fts-tang-dot-bien-20260331171624049.htm",
+      "summary": "Chiều 31-03, CTCP Chứng khoán FPT (FTS) tổ chức ĐHĐCĐ thường niên 2026 trong đó thông qua thay đổi nhân sự cấp cao khi chủ tịch Nguyễn Văn Dũng ra nước ngoài định cư. Đáng chú ý, cổ phiếu FTS đã tăng trần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.008793+07:00",
+      "fetched": "2026-03-31T19:54:16.008929+07:00"
+    },
+    {
+      "id": "dc56995a3cb60f42001d2618963f9a28",
+      "title": "Các xã phường TP.HCM khu vực Bình Dương bầu nhân sự nhiệm kỳ 2026-2031",
+      "link": "https://tuoitre.vn/cac-xa-phuong-tp-hcm-khu-vuc-binh-duong-bau-nhan-su-nhiem-ky-2026-2031-20260331171152172.htm",
+      "summary": "Các xã phường tại TP.HCM tổ chức kỳ họp HĐND đầu tiên để kiện toàn nhân sự nhiệm kỳ mới, đảm bảo bộ máy chính quyền địa phương đi vào hoạt động từ 1-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.008667+07:00",
+      "fetched": "2026-03-31T19:54:16.008781+07:00"
+    },
+    {
+      "id": "3d3b6f5c1326966a827106c092bcc28e",
+      "title": "TP.HCM nâng trần thu nhập mua nhà ở xã hội lên mức 25 triệu đồng/tháng",
+      "link": "https://tuoitre.vn/tp-hcm-nang-tran-thu-nhap-mua-nha-o-xa-hoi-len-muc-25-trieu-dong-thang-20260331172705803.htm",
+      "summary": "UBND TP.HCM vừa quyết định nâng trần thu nhập lên 25 triệu đồng/tháng cho người độc thân và cặp vợ chồng có tổng thu nhập 50 triệu đồng/tháng (tăng 1,25 hệ số so với trước) được mua nhà ở xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.008543+07:00",
+      "fetched": "2026-03-31T19:54:16.008656+07:00"
+    },
+    {
+      "id": "fc73f3611e473debe5db3a58763601d2",
+      "title": "Đắk Lắk yêu cầu siết quản lý giá xăng dầu, vật liệu xây dựng, đẩy tiến độ các dự án trọng điểm",
+      "link": "https://tuoitre.vn/dak-lak-yeu-cau-siet-quan-ly-gia-xang-dau-vat-lieu-xay-dung-day-tien-do-cac-du-an-trong-diem-2026033117092561.htm",
+      "summary": "Giá xăng dầu và vật liệu xây dựng tăng gây áp lực lớn lên doanh nghiệp, UBND tỉnh Đắk Lắk yêu cầu siết quản lý giá, bảo đảm nguồn cung và đẩy nhanh tiến độ các dự án trọng điểm, nhất là cao tốc Khánh Hòa - Buôn Ma Thuột.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.008415+07:00",
+      "fetched": "2026-03-31T19:54:16.008531+07:00"
+    },
+    {
+      "id": "ada5f409d3f4458d431888a03f4c6776",
+      "title": "Giúp sản phẩm mới tạo sức bật ngay khi lên sàn",
+      "link": "https://tuoitre.vn/giup-san-pham-moi-tao-suc-bat-ngay-khi-len-san-20260331172339181.htm",
+      "summary": "Giữa hàng loạt lựa chọn trên sàn thương mại điện tử, việc tạo dấu ấn ngay từ khi ra mắt đang trở thành yếu tố quan trọng giúp các thương hiệu bứt phá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.008281+07:00",
+      "fetched": "2026-03-31T19:54:16.008402+07:00"
+    },
+    {
+      "id": "eaf6bfb7703fc823773236644f350a0d",
+      "title": "Tập đoàn T&T ký kết hợp tác với Cần Thơ, đề xuất nhiều dự án khu đô thị lớn",
+      "link": "https://tuoitre.vn/tap-doan-t-t-ky-ket-hop-tac-voi-can-tho-de-xuat-nhieu-du-an-khu-do-thi-lon-20260331174655867.htm",
+      "summary": "Tập đoàn T&T ký kết hợp tác với UBND thành phố Cần Thơ trong việc nghiên cứu quy hoạch và đề xuất thực hiện một số dự án khu đô thị cụ thể tại đường Võ Văn Kiệt (phường Bình Thủy, phường Long Tuyền) và tại phường Ô Môn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.008130+07:00",
+      "fetched": "2026-03-31T19:54:16.008268+07:00"
+    },
+    {
+      "id": "48bba220f9fd49f46f085e9556ceb583",
+      "title": "Lượt trận cuối cùng vòng loại Asian Cup 2027: Myanmar đánh bại Pakistan, chờ Thái Lan ra sân",
+      "link": "https://tuoitre.vn/luot-tran-cuoi-cung-vong-loai-asian-cup-2027-myanmar-danh-bai-pakistan-cho-thai-lan-ra-san-20260331175105764.htm",
+      "summary": "Mời bạn đọc theo dõi cập nhật trực tuyến kết quả lượt đấu cuối cùng Asian Cup 2027 diễn ra tối nay 31-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T19:54:16.007903+07:00",
+      "fetched": "2026-03-31T19:54:16.008115+07:00"
+    },
     {
       "id": "7357dd83128009b0650c9242487885be",
       "title": "Tiêu dùng điện có thể vượt 1 tỉ kWh do nắng nóng",
@@ -453,6 +603,286 @@ window.newsData_2026_03_31 = {
       "fetched": "2026-03-31T14:02:11.175134+07:00"
     },
     {
+      "id": "0e89d360fe5c38247415fc67542b37b8",
+      "title": "VBA 2026 bắt tay FPT Play, mở rộng hệ sinh thái bóng rổ chuyên nghiệp",
+      "link": "https://thanhnien.vn/vba-2026-bat-tay-fpt-play-mo-rong-he-sinh-thai-bong-ro-chuyen-nghiep-185260331194658093.htm",
+      "summary": "VBA 2026 hợp tác FPT Play phát sóng 5 mùa giải, đồng thời mở rộng hệ sinh thái thể thao - giải trí - cộng đồng nhằm nâng tầm bóng rổ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:51:00+07:00",
+      "fetched": "2026-03-31T19:54:15.356096+07:00"
+    },
+    {
+      "id": "22694cd0e9e76673019a5f286cc7a87f",
+      "title": "Thai đi lạc trong ổ bụng: Phẫu thuật cân não cứu sống thai phụ",
+      "link": "https://thanhnien.vn/thai-di-lac-trong-o-bung-phau-thuat-can-nao-cuu-song-thai-phu-185260331171640887.htm",
+      "summary": "Bằng việc kích hoạt báo động đỏ liên viện, các bác sĩ Bệnh viện Từ Dũ và Chợ Rẫy đã phẫu thuật thành công, lấy trọn khối thai nằm ở vị trí nguy hiểm sát động mạch chủ bụng, cứu sống thai phụ L.T.T thoát khỏi cơn \"thập tử nhất sinh\" do thai lạc chỗ cực kỳ hiếm gặp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:50:00+07:00",
+      "fetched": "2026-03-31T19:54:15.356264+07:00"
+    },
+    {
+      "id": "bceaa3fd5a8c57d0eb4c5c35e003ab34",
+      "title": "Xe đầu kéo lật đè xe máy, 3 người tử vong ở Đắk Lắk",
+      "link": "https://thanhnien.vn/xe-dau-keo-lat-de-xe-may-3-nguoi-tu-vong-o-dak-lak-185260331192217824.htm",
+      "summary": "Một vụ va chạm giao thông giữa xe đầu kéo và xe máy đi chiều ngược lại ở Đắk Lắk đã khiến 3 người tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:49:00+07:00",
+      "fetched": "2026-03-31T19:54:15.356420+07:00"
+    },
+    {
+      "id": "baf918922354126d6adf492da9b5b47a",
+      "title": "TP.HCM: Phường Bình Thạnh, xã Cần Giờ ra mắt bộ máy lãnh đạo nhiệm kỳ mới",
+      "link": "https://thanhnien.vn/tphcm-phuong-binh-thanh-xa-can-gio-ra-mat-bo-may-lanh-dao-nhiem-ky-moi-185260331190415929.htm",
+      "summary": "Ngày 31.3, HĐND phường Bình Thạnh khóa I và HĐND xã Cần Giờ khóa II đã tổ chức kỳ họp thứ nhất, bầu cử các chức danh lãnh đạo chủ chốt của HĐND và UBND nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:34:00+07:00",
+      "fetched": "2026-03-31T19:54:15.356571+07:00"
+    },
+    {
+      "id": "df6ef3083d13f999646764ecf6a95e20",
+      "title": "Cựu kế toán dùng chữ ký số của lãnh đạo để tham ô tiền tỉ",
+      "link": "https://thanhnien.vn/cuu-ke-toan-dung-chu-ky-so-cua-lanh-dao-de-tham-o-tien-ti-185260331180744607.htm",
+      "summary": "Tòa án nhân dân tỉnh Đồng Tháp đã mở phiên tòa xét xử sơ thẩm liên quan vụ cựu kế toán dùng chữ ký số của lãnh đạo, lập chứng từ khống, tham ô tiền tỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:34:00+07:00",
+      "fetched": "2026-03-31T19:54:15.356719+07:00"
+    },
+    {
+      "id": "846322e89c6a81aa2f4ba68f3b884003",
+      "title": "Tình huống trung vệ Duy Mạnh đánh đầu tung lưới Malaysia",
+      "link": "https://vnexpress.net/tinh-huong-trung-ve-duy-manh-danh-dau-tung-luoi-malaysia-5056899.html",
+      "summary": "Từ tình huống phạt góc của Trương Tiến Anh ở phút thứ 6, đội trưởng Đỗ Duy Mạnh bật cao đánh đầu tung lưới Malaysia, khiến sân Thiên Trường bùng nổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:31:01+07:00",
+      "fetched": "2026-03-31T19:54:11.219585+07:00"
+    },
+    {
+      "id": "b5510aef44bf84b41b544a4319e00a37",
+      "title": "Chuyên gia chỉ ra 4 'thủ phạm' khiến bụng tích mỡ, chảy xệ",
+      "link": "https://vnexpress.net/chuyen-gia-chi-ra-4-thu-pham-khien-bung-tich-mo-chay-xe-5056890.html",
+      "summary": "Bụng to nhanh chủ yếu do biến động đường huyết, căng thẳng kéo dài, hệ tiêu hóa kém và cơ lõi yếu khiến mỡ tích tụ hoặc vùng bụng chảy xệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:29:48+07:00",
+      "fetched": "2026-03-31T19:54:11.219763+07:00"
+    },
+    {
+      "id": "40df26e3d92f378df625a77183fccd09",
+      "title": "1 người tử vong, 6 người cấp cứu nghi ngạt khói lò sấy lúa ở Đồng Tháp",
+      "link": "https://thanhnien.vn/1-nguoi-tu-vong-6-nguoi-cap-cuu-do-ngat-khoi-lo-say-lua-o-dong-thap-185260331185605423.htm",
+      "summary": "Một vụ tai nạn lao động nghiêm trọng xảy ra tại cơ sở sấy lúa ở xã Cái Bè (Đồng Tháp) khiến 7 công nhân bị ngạt khói, trong đó 1 người tử vong, những người khác phải nhập viện cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:23:00+07:00",
+      "fetched": "2026-03-31T19:54:15.356887+07:00"
+    },
+    {
+      "id": "c19d247df6949648701f26f10f80b829",
+      "title": "Khánh Hòa đăng cai lễ hội mô tô phân khối lớn châu Á - Thái Bình Dương",
+      "link": "https://thanhnien.vn/khanh-hoa-dang-cai-le-hoi-mo-to-phan-khoi-lon-chau-a-thai-binh-duong-18526033118555576.htm",
+      "summary": "Hơn 2.000 biker cùng hàng chục nghìn du khách và người yêu xe dự kiến đổ về phố biển Nha Trang tham dự lễ hội mô tô phân khối lớn quy mô khu vực lần đầu tiên được tổ chức tại Khánh Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:18:00+07:00",
+      "fetched": "2026-03-31T19:54:15.357052+07:00"
+    },
+    {
+      "id": "cd06328797514f90e4bd19b28204c129",
+      "title": "Xuân Trường: Cú hattrick 'rực lửa' đưa Trường ĐH Thủy Lợi vào bán kết giải quốc tế",
+      "link": "https://thanhnien.vn/xuan-truong-cu-hattrick-ruc-lua-dua-truong-dh-thuy-loi-vao-ban-ket-giai-quoc-te-185260331190040378.htm",
+      "summary": "Vượt qua những áp lực của lần đầu bước ra sân chơi quốc tế, Bùi Xuân Trường đã có màn trình diễn không thể tin nổi với 3 bàn thắng vào lưới ĐH Quốc gia Singapore. Không chỉ giúp ĐH Thủy Lợi giành vé sớm vào bán kết, chàng tiền vệ áo số 10 còn khiến khán giả xúc động với màn ăn mừng cùng lá cờ đỏ sao...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:16:00+07:00",
+      "fetched": "2026-03-31T19:54:15.357208+07:00"
+    },
+    {
+      "id": "a31e36d95b5278bc1f886ff270026ebe",
+      "title": "Xác minh nhóm người ẩu đả trên đường Cách Mạng Tháng Tám gây náo loạn",
+      "link": "https://thanhnien.vn/xac-minh-nhom-nguoi-au-da-tren-duong-cach-mang-thang-tam-gay-nao-loan-185260331185459954.htm",
+      "summary": "Mạng xã hội lan truyền clip ghi cảnh nhóm người ẩu đả trên đường Cách Mạng Tháng Tám (TP.HCM) gây náo loạn. Công an vào cuộc xác minh, mời các bên liên quan lên làm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:14:00+07:00",
+      "fetched": "2026-03-31T19:54:15.357358+07:00"
+    },
+    {
+      "id": "fba36d1cf823a8af257855ebea355780",
+      "title": "Dàn sao Harry Potter bản điện ảnh và truyền hình",
+      "link": "https://vnexpress.net/dan-sao-harry-potter-ban-dien-anh-va-truyen-hinh-5056729.html",
+      "summary": "Diễn viên nhí Dominic McLaughlin, Alastair Stout và Arabella Stanton lần lượt đảm nhận Harry, Ron và Hermione trong bản truyền hình, thay thế bộ ba ở phim điện ảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:13:12+07:00",
+      "fetched": "2026-03-31T19:54:11.219957+07:00"
+    },
+    {
+      "id": "6ba15f5823520bc6deef8aef2987bbfc",
+      "title": "Pháp sắp cấm trẻ em sử dụng mạng xã hội, phụ huynh nói gì?",
+      "link": "https://thanhnien.vn/phap-sap-cam-tre-em-su-dung-mang-xa-hoi-phu-huynh-noi-gi-185260331124728619.htm",
+      "summary": "Thượng viện Pháp dự kiến sẽ bỏ phiếu vào ngày 31.3 về một dự luật quan trọng nhằm cấm sử dụng mạng xã hội ở Pháp đối với những người dưới 15 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:10:00+07:00",
+      "fetched": "2026-03-31T19:54:15.357519+07:00"
+    },
+    {
+      "id": "4246740fd1ec634eb275abdd38420c92",
+      "title": "1.000 tỷ đồng xây dựng Bảo tàng Ký ức chiến tranh",
+      "link": "https://vnexpress.net/1-000-ty-dong-xay-dung-bao-tang-ky-uc-chien-tranh-5056874.html",
+      "summary": "Tỉnh Quảng Trị sẽ xây dựng Bảo tàng Ký ức chiến tranh và khát vọng hòa bình tại phía đông bắc ngã ba sông Hiền Lương - Bến Hải, tổng kinh phí 1.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:09:06+07:00",
+      "fetched": "2026-03-31T19:54:11.220121+07:00"
+    },
+    {
+      "id": "4aeca2660f5e1f4228337f97f4a56d9e",
+      "title": "Ném gạch khiến bạn tử vong, nam sinh lãnh 9 năm tù",
+      "link": "https://thanhnien.vn/nem-gach-khien-ban-tu-vong-nam-sinh-lanh-9-nam-tu-185260331174002967.htm",
+      "summary": "Trong lúc 'hỗn chiến' giữa 2 nhóm, nam sinh 16 tuổi ném gạch trúng vùng cổ khiến bạn tử vong, TAND tỉnh Đắk Lắk tuyên phạt 9 năm tù về tội giết người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:01:00+07:00",
+      "fetched": "2026-03-31T19:54:15.357668+07:00"
+    },
+    {
+      "id": "41155ba0ea414a2df13a321d151d15b3",
+      "title": "DNSE dự kiến lập công ty chứng khoán tại Trung tâm Tài chính TP HCM",
+      "link": "https://vnexpress.net/dnse-du-kien-lap-cong-ty-chung-khoan-tai-trung-tam-tai-chinh-tp-hcm-5056877.html",
+      "summary": "Hội đồng cổ đông Chứng khoán DNSE đã thông qua chủ trương thành lập công ty chứng khoán tại Trung tâm Tài chính Quốc tế Việt Nam (IFC), dưới hình thức công ty TNHH một thành viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:00:00+07:00",
+      "fetched": "2026-03-31T19:54:11.220275+07:00"
+    },
+    {
+      "id": "25046f55109beb91b1cc62445e34e046",
+      "title": "Vì sao người Việt chưa có thói quen sống khỏe?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-viet-chua-co-thoi-quen-song-khoe-5056871.html",
+      "summary": "Tuổi thọ trung bình của người Việt đạt khoảng 73,6, tuy nhiên chưa quen tầm soát bảo vệ sức khỏe từ sớm, dẫn đến phát hiện bệnh muộn, chậm điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:00:00+07:00",
+      "fetched": "2026-03-31T19:54:11.220428+07:00"
+    },
+    {
+      "id": "64a01ef9646f3632fb4751c495f99af5",
+      "title": "Nhiễm biến thể Covid-19 Ve sầu có nguy hiểm không?",
+      "link": "https://vnexpress.net/nhiem-bien-the-covid-19-ve-sau-co-nguy-hiem-khong-5056869.html",
+      "summary": "Biến thể BA.3.2 của virus Covid-19 đang lan rộng trên thế giới, Bộ Y tế Việt Nam cũng cảnh báo. Chủng này có nguy hiểm không, làm sao phòng ngừa? (Hà Nhi, 25 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:00:00+07:00",
+      "fetched": "2026-03-31T19:54:11.220588+07:00"
+    },
+    {
+      "id": "127c8c21568f51115640664455a0b2ef",
+      "title": "Xe hơi bị viết xước 'trả thù' vì đỗ trước quán trà đá vỉa hè",
+      "link": "https://vnexpress.net/vet-xuoc-tra-dua-vi-toi-do-xe-ben-duong-truoc-quan-tra-da-via-he-5056839.html",
+      "summary": "'Đi 45 phút không tìm được chỗ gửi xe, tôi đành dừng tạm ở một đoạn đường vắng không có biển cấm dừng đỗ, rồi nhận nguyên một vết xước'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:00:00+07:00",
+      "fetched": "2026-03-31T19:54:11.220749+07:00"
+    },
+    {
+      "id": "1d167d006e776a17af7273f043094726",
+      "title": "Sinh con sau 9 năm cắt tuyến giáp chữa ung thư",
+      "link": "https://vnexpress.net/sinh-con-sau-9-nam-cat-tuyen-giap-chua-ung-thu-5056769.html",
+      "summary": "Sau phẫu thuật cắt tuyến giáp chữa ung thư, chị Ngọc mang thai hai lần không thành, 9 năm sau thụ tinh ống nghiệm sinh con ở tuổi 40.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:00:00+07:00",
+      "fetched": "2026-03-31T19:54:11.220931+07:00"
+    },
+    {
+      "id": "bb963abd960bafdbc8f1c8215feee0f8",
+      "title": "Tượng Phật cao nhất Đông Nam Á nằm ở tỉnh nào?",
+      "link": "https://vnexpress.net/tuong-phat-cao-nhat-dong-nam-a-nam-o-tinh-nao-5056153.html",
+      "summary": "Tượng Phật được xây dựng trong 6 năm, nằm ở vị trí cuối sông gần cửa biển, từ đây có thể quan sát nhiều hướng, thu hút du khách đến chiêm bái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:00:00+07:00",
+      "fetched": "2026-03-31T19:54:11.221097+07:00"
+    },
+    {
+      "id": "bc2e0ec88dcf0691c643d92b2e8f44a2",
+      "title": "Xe container lật, ba người chết",
+      "link": "https://vnexpress.net/xe-container-lat-ba-nguoi-chet-5056895.html",
+      "summary": "Xe container kéo rơ-moóc chở dăm keo va chạm, lật đè chết hai người đi xe máy, tài xế ôtô sau đó tử vong, ngày 31/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T11:58:11+07:00",
+      "fetched": "2026-03-31T19:54:11.221262+07:00"
+    },
+    {
+      "id": "03cae845f91c0737526899a8974eb688",
+      "title": "Đề xuất giao dịch dưới 200.000 đồng được lập hóa đơn tổng",
+      "link": "https://thanhnien.vn/de-xuat-giao-dich-duoi-200000-dong-duoc-lap-hoa-don-tong-185260331182834029.htm",
+      "summary": "Các chuyên gia cho rằng, nên để hộ kinh doanh được lập hóa đơn tổng trong ngày với các giao dịch có giá trị thanh toán dưới 200.000 đồng, thay vì mức dưới 50.000 đồng như đề xuất của Bộ Tài chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T11:53:00+07:00",
+      "fetched": "2026-03-31T19:54:15.357818+07:00"
+    },
+    {
+      "id": "578d07f818f265d9237aadd76cf19c7c",
+      "title": "Bé gái sơ sinh bị bỏ rơi kèm thư tay 'Con trót dại, xin nuôi giúp…'",
+      "link": "https://thanhnien.vn/be-gai-so-sinh-bi-bo-roi-kem-thu-tay-con-trot-dai-xin-nuoi-giup-18526033118113711.htm",
+      "summary": "Bé gái khoảng 20 ngày tuổi bị bỏ rơi trước cổng nhà dân ở Đà Nẵng, kèm bức thư của người mẹ tự nhận là sinh viên 'trót dại', xin người khác nuôi giúp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T11:52:00+07:00",
+      "fetched": "2026-03-31T19:54:15.357989+07:00"
+    },
+    {
+      "id": "ec180fd31745d3eff667f802784990f3",
+      "title": "Nghi phạm buôn ma túy bơi qua sông, lẩn trốn suốt 6 ngày",
+      "link": "https://vnexpress.net/nghi-pham-buon-ma-tuy-boi-qua-song-lan-tron-suot-6-ngay-5056863.html",
+      "summary": "Nguyễn Trung Thành nhiều lần luồn rừng, vượt suối, bơi qua sông Ngàn Sâu để trốn sự truy bắt của lực lượng chức năng trong gần một tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T11:49:01+07:00",
+      "fetched": "2026-03-31T19:54:11.221421+07:00"
+    },
+    {
+      "id": "dad3f8d29d0f4d1fa740b44d7dba674c",
+      "title": "Cấp mã hồ sơ học tập suốt đời theo định danh cá nhân",
+      "link": "https://vnexpress.net/cap-ma-ho-so-hoc-tap-suot-doi-theo-dinh-danh-ca-nhan-5056888.html",
+      "summary": "Mỗi người dân sẽ có mã hồ sơ học tập, dùng như mã khóa để tra cứu học bạ, bằng cấp, chứng chỉ trên VNeID, thay thế bản giấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T11:38:19+07:00",
+      "fetched": "2026-03-31T19:54:11.221570+07:00"
+    },
+    {
+      "id": "3b659f4c3b0e792884a4c623dd0d79a6",
+      "title": "Mở rộng đường cửa ngõ Vũng Tàu lên 8 làn xe",
+      "link": "https://vnexpress.net/mo-rong-duong-cua-ngo-vung-tau-len-8-lan-xe-5056879.html",
+      "summary": "Đường 3 Tháng 2 (quốc lộ 51C) dài hơn 10 km, dẫn vào trung tâm Vũng Tàu được mở rộng từ 6 lên 8 làn đáp ứng lượng xe tăng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T11:35:58+07:00",
+      "fetched": "2026-03-31T19:54:11.221725+07:00"
+    },
+    {
+      "id": "ed1be548fefab1d1c4f8af47dff68f9f",
+      "title": "Người Mỹ 'quay lưng' với du lịch xa",
+      "link": "https://vnexpress.net/nguoi-my-quay-lung-voi-du-lich-xa-5056721.html",
+      "summary": "Lạm phát, giá nhiên liệu tăng và bất ổn hàng không khiến người Mỹ hủy kế hoạch đi xa, ưu tiên nghỉ dưỡng tại chỗ (staycation).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T11:30:00+07:00",
+      "fetched": "2026-03-31T19:54:11.221905+07:00"
+    },
+    {
       "id": "629c7390e9c17ed32ac66e1bc1d74fc6",
       "title": "Để du khách mở ví về đêm",
       "link": "https://tuoitre.vn/de-du-khach-mo-vi-ve-dem-2026033108360944.htm",
@@ -601,6 +1031,56 @@ window.newsData_2026_03_31 = {
       "category": "Tổng hợp",
       "published": "2026-03-31T11:28:19.174855+07:00",
       "fetched": "2026-03-31T11:28:19.175075+07:00"
+    },
+    {
+      "id": "d891cab6d3e8e4a8c57b1192f78c15f8",
+      "title": "Hoa hậu Phan Phương Oanh 'bắn' 2 thứ tiếng, hé lộ gia thế sau đăng quang",
+      "link": "https://thanhnien.vn/hoa-hau-phan-phuong-oanh-ban-2-thu-tieng-he-lo-gia-the-sau-dang-quang-185260331175315196.htm",
+      "summary": "Trong đêm chung kết, Phan Phương Oanh - Hoa hậu Thế giới Việt Nam 2025 - chinh phục khán giả bằng màn ứng xử song ngữ tự tin, trôi chảy. Người đẹp còn tiết lộ khả năng giao tiếp bằng tiếng Trung và có những phút giây trải lòng về gia đình sau khi đăng quang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T11:28:00+07:00",
+      "fetched": "2026-03-31T19:54:15.358143+07:00"
+    },
+    {
+      "id": "535218c352496cf89f5b5b90000b9fd4",
+      "title": "Việt Nam 1-0 Malaysia (H1): Hoàng Hên suýt ghi bàn",
+      "link": "https://vnexpress.net/truc-tiep-viet-nam-vs-malaysia-5056870.html",
+      "summary": "Cầu thủ nhập tịch Đỗ Hoàng Hên suýt ghi bàn cho Việt Nam, ở trận gặp Malaysia tại lượt trận cuối vòng loại cuối Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-31T11:16:39+07:00",
+      "fetched": "2026-03-31T19:54:22.420685+07:00"
+    },
+    {
+      "id": "43f1e87948694f693a42644a690a4a04",
+      "title": "Gác lại giấc mơ sân cỏ vì chấn thương, cựu cầu thủ Trường ĐH Văn Lang 'cháy' hết mình trên khán đài",
+      "link": "https://thanhnien.vn/gac-lai-giac-mo-san-co-vi-chan-thuong-cuu-cau-thu-truong-dh-van-lang-chay-het-minh-tren-khan-dai-185260331172411993.htm",
+      "summary": "Từng sải bước cùng đội bóng Trường ĐH Văn Lang tại vòng loại giải bóng đá Thanh Niên sinh viên Việt Nam mùa 2, giấc mơ chinh phục sân cỏ của anh Hào đành dang dở vì một chấn thương nghiệt ngã. Mang theo không ít tiếc nuối khi phải sớm chia tay trái bóng tròn, thế nhưng giờ đây, tại giải bóng đá Than...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T11:12:00+07:00",
+      "fetched": "2026-03-31T19:54:15.358290+07:00"
+    },
+    {
+      "id": "43a305989bd64a4e020f5a27c08075d3",
+      "title": "Thủ tướng kêu gọi tiết kiệm điện, tối thiểu 10% trong các tháng cao điểm",
+      "link": "https://vnexpress.net/thu-tuong-keu-goi-tiet-kiem-dien-toi-thieu-10-trong-cac-thang-cao-diem-5056873.html",
+      "summary": "Thủ tướng yêu cầu triển khai các giải pháp tiết kiệm điện, phát triển điện mặt trời mái nhà, trước bối cảnh thị trường năng lượng quốc tế diễn biến phức tạp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-31T11:02:47+07:00",
+      "fetched": "2026-03-31T19:54:18.939234+07:00"
+    },
+    {
+      "id": "863ae13a8708b6407cb2979024cecd26",
+      "title": "U23 Việt Nam 0-1 Trung Quốc (hết H1): Bàn thua từ siêu phẩm vuốt bóng",
+      "link": "https://vnexpress.net/u23-viet-nam-u23-trung-quoc-5056799.html",
+      "summary": "Du Yuezheng ghi siêu phẩm vuốt bóng, giúp Trung Quốc dẫn Việt Nam 1-0 ở lượt trận cuối giải giao hữu CFA Team China Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-31T11:00:00+07:00",
+      "fetched": "2026-03-31T19:54:22.420881+07:00"
     },
     {
       "id": "7e212ada715052d66c48321af6282aaa",
@@ -1501,6 +1981,16 @@ window.newsData_2026_03_31 = {
       "category": "Công nghệ",
       "published": "2026-03-31T07:00:00+07:00",
       "fetched": "2026-03-31T15:46:07.071655+07:00"
+    },
+    {
+      "id": "dfce71c8bbb9a3601c454ccd25727dd4",
+      "title": "Chatbot xu nịnh - mặt trái của AI",
+      "link": "https://vnexpress.net/chatbot-xu-ninh-mat-trai-cua-ai-5056522.html",
+      "summary": "Chuyên gia cảnh báo AI đang có xu hướng chiều lòng người dùng bằng những lời khuyên sai lệch, thậm chí tự \"lập mưu\" lách quy tắc an toàn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-31T07:00:00+07:00",
+      "fetched": "2026-03-31T19:54:21.307168+07:00"
     },
     {
       "id": "a4efd522e6982197c42e747306e9eb42",
