@@ -1,7 +1,157 @@
 window.newsData_2026_03_31 = {
   "date": "2026-03-31",
-  "lastUpdated": "2026-03-31T21:54:51.967135+07:00",
+  "lastUpdated": "2026-03-31T23:48:54.903941+07:00",
   "articles": [
+    {
+      "id": "05c6ce603783e0100ae0edc51d4b4e85",
+      "title": "CĐV Malaysia căng băng rôn chê liên đoàn bóng đá nước nhà ngay trên sân Thiên Trường",
+      "link": "https://tuoitre.vn/cdv-malaysia-cang-bang-ron-che-lien-doan-bong-da-nuoc-nha-ngay-tren-san-thien-truong-20260331202334181.htm",
+      "summary": "Một nhóm nhỏ CĐV Malaysia có mặt trên sân Thiên Trường theo dõi trận đấu giữa tuyển Việt Nam và Malaysia tối 31-3 vẫn để lại hình ảnh gây chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.126688+07:00",
+      "fetched": "2026-03-31T23:48:49.126834+07:00"
+    },
+    {
+      "id": "2bef81b0ff82530441619f74195ce99b",
+      "title": "Lãnh đạo Đà Nẵng đến tận nhà dân khuyên bỏ món cá ủ chua",
+      "link": "https://tuoitre.vn/lanh-dao-da-nang-den-tan-nha-dan-khuyen-bo-mon-ca-u-chua-20260331171259892.htm",
+      "summary": "Sau nhiều vụ ngộ độc botulinum liên tiếp trên địa bàn, cùng lý do từ món cá ủ chua, Phó chủ tịch UBND thành phố Đà Nẵng Nguyễn Thị Anh Thi đã trực tiếp đến kiểm tra và khuyên người dân loại bỏ cách chế biến món cá này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.126563+07:00",
+      "fetched": "2026-03-31T23:48:49.126677+07:00"
+    },
+    {
+      "id": "a9eb451cb10f80cbe5d2cc4e13876697",
+      "title": "Xuân Son ăn mừng bằng cách đếm 'múi bụng', đáp trả chỉ trích về cân nặng",
+      "link": "https://tuoitre.vn/xuan-son-an-mung-bang-cach-dem-mui-bung-dap-tra-chi-trich-ve-can-nang-20260331203559098.htm",
+      "summary": "Cú đúp bàn thắng ghi trong 8 phút vào lưới Malaysia tối 31-3 chính là lời đáp trả đanh thép của tiền đạo tuyển Việt Nam Nguyễn Xuân Son, về những chỉ trích và hoài nghi nhằm vào ngoại hình của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.126436+07:00",
+      "fetched": "2026-03-31T23:48:49.126552+07:00"
+    },
+    {
+      "id": "b00d57f1eb19b146d90a90ef1e29dea2",
+      "title": "Trung Đông tối 31-3: Tướng cấp cao Iran thiệt mạng; Nhà máy dược lớn ở Iran trúng đòn không kích",
+      "link": "https://tuoitre.vn/trung-dong-toi-31-3-tuong-cap-cao-iran-thiet-mang-nha-may-duoc-lon-o-iran-trung-don-khong-kich-2026033120080988.htm",
+      "summary": "IRGC xác nhận tướng cấp cao thiệt mạng; Ngoại trưởng Nga nói Mỹ và Israel không muốn bình thường hóa quan hệ với Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.126313+07:00",
+      "fetched": "2026-03-31T23:48:49.126425+07:00"
+    },
+    {
+      "id": "426f824cb2db476c3c7a273e01010bc2",
+      "title": "Làm giả con dấu của công ty, một giám đốc tại TP.HCM bị phạt tù",
+      "link": "https://tuoitre.vn/lam-gia-con-dau-cua-cong-ty-mot-giam-doc-tai-tp-hcm-bi-phat-tu-2026033120562682.htm",
+      "summary": "Giám đốc Công ty bất động sản Nguồn Lực Việt Bình Dương, TP.HCM làm giả con dấu, giả chữ ký kế toán trưởng để rút, chuyển tiền nên bị Chủ tịch công ty tố giác, bị tòa tuyên phạt án tù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.126190+07:00",
+      "fetched": "2026-03-31T23:48:49.126302+07:00"
+    },
+    {
+      "id": "49ddaccd1f0d7baaa53e5e4be84f63c1",
+      "title": "Ông Trump: Nếu muốn có nhiên liệu, các nước hãy tự chiến đấu hoặc mua của Mỹ",
+      "link": "https://tuoitre.vn/ong-trump-neu-muon-co-nhien-lieu-cac-nuoc-hay-tu-chien-dau-hoac-mua-cua-my-20260331204525754.htm",
+      "summary": "Ông Trump chỉ trích các nước không tham gia chiến dịch quân sự của Mỹ và Israel , nói họ nên \"học cách chiến đấu vì chính mình\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.126067+07:00",
+      "fetched": "2026-03-31T23:48:49.126179+07:00"
+    },
+    {
+      "id": "43ce20761678048a9ab236e9b5379778",
+      "title": "Video: Song sát Son-Hên phối hợp ghi bàn cho tuyển Việt Nam",
+      "link": "https://tuoitre.vn/video-song-sat-son-hen-phoi-hop-ghi-ban-cho-tuyen-viet-nam-20260331211702467.htm",
+      "summary": "Không phụ sự kỳ vọng của người hâm mộ, bộ đôi cầu thủ nhập tịch Xuân Son và Hoàng Hên phối hợp đẹp mắt, ghi bàn thắng nhân đôi cách biệt cho tuyển Việt Nam trước Malaysia. Chung cuộc, Việt Nam thắng Malaysia 3-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.125935+07:00",
+      "fetched": "2026-03-31T23:48:49.126056+07:00"
+    },
+    {
+      "id": "0ff0b9a4153967d8fe8b9fa94ab35fa4",
+      "title": "Xếp hạng chung cuộc CFA Team China 2026: U23 Việt Nam chót bảng",
+      "link": "https://tuoitre.vn/xep-hang-chung-cuoc-cfa-team-china-2026-u23-viet-nam-chot-bang-20260331211220591.htm",
+      "summary": "U23 Việt Nam rời Giải bóng đá giao hữu quốc tế CFA Team China - Tây An 2026 với vị trí chót bảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.125804+07:00",
+      "fetched": "2026-03-31T23:48:49.125920+07:00"
+    },
+    {
+      "id": "d552f21a44e4bc0ab7b25fcde20b6a4a",
+      "title": "Anh Hùng của Thái Hòa, Đại tiệc trăng máu 8 và loạt phim khuấy đảo phòng vé tháng 4",
+      "link": "https://tuoitre.vn/anh-hung-cua-thai-hoa-dai-tiec-trang-mau-8-va-loat-phim-khuay-dao-phong-ve-thang-4-20260331212420813.htm",
+      "summary": "Khi dư âm của mùa phim đầu năm còn chưa kịp lắng xuống, phòng vé Việt Nam lập tức tăng nhiệt với làn sóng phim tháng 4 đầy sôi động và đa sắc màu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.125642+07:00",
+      "fetched": "2026-03-31T23:48:49.125790+07:00"
+    },
+    {
+      "id": "fa67a1d4918fd813c7aaf8c846c626d2",
+      "title": "HLV tuyển Malaysia khen Xuân Son và Hoàng Hên",
+      "link": "https://tuoitre.vn/hlv-tuyen-malaysia-khen-xuan-son-va-hoang-hen-20260331191353982.htm",
+      "summary": "HLV Peter Cklamovski của tuyển Malaysia tâm phục khẩu phục chiến thắng của tuyển Việt Nam với dấu ấn của hai cầu thủ nhập tịch là Nguyễn Xuân Son và Đỗ Hoàng Hên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.125516+07:00",
+      "fetched": "2026-03-31T23:48:49.125630+07:00"
+    },
+    {
+      "id": "d84db8f1fc1961e227d6e5730eba2c0d",
+      "title": "Thông qua dự thảo kết quả kiểm tra, giám sát Ban Thường vụ Đảng ủy Chính phủ",
+      "link": "https://tuoitre.vn/thong-qua-du-thao-ket-qua-kiem-tra-giam-sat-ban-thuong-vu-dang-uy-chinh-phu-20260331205053963.htm",
+      "summary": "Chiều 31-3, Đoàn kiểm tra, giám sát số 26 của Bộ Chính trị, Ban Bí thư tổ chức Hội nghị thông qua dự thảo kết quả kiểm tra, giám sát đối với Ban Thường vụ Đảng ủy Chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.125389+07:00",
+      "fetched": "2026-03-31T23:48:49.125505+07:00"
+    },
+    {
+      "id": "6330b6e3258a3f542819bc62e2212c8d",
+      "title": "Xếp hạng vòng loại Asian Cup 2027: Việt Nam nhất bảng F",
+      "link": "https://tuoitre.vn/xep-hang-vong-loai-asian-cup-2027-viet-nam-nhat-bang-f-20260331213946643.htm",
+      "summary": "Tuyển Việt Nam khép lại vòng loại Asian Cup 2027 với ngôi nhất bảng F.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.125259+07:00",
+      "fetched": "2026-03-31T23:48:49.125377+07:00"
+    },
+    {
+      "id": "3d20a48f1817755dca27d8ded35ae97b",
+      "title": "Nhiều địa phương mong mỏi tìm đầu mối thống nhất về chứng nhận Halal quốc tế",
+      "link": "https://tuoitre.vn/nhieu-dia-phuong-mong-moi-tim-dau-moi-thong-nhat-ve-chung-nhan-halal-quoc-te-20260331213708974.htm",
+      "summary": "Các địa phương phía Nam còn lúng túng với tiêu chuẩn Halal do khác biệt giữa các thị trường. Các Đại sứ Việt Nam tại nước ngoài và Bộ Ngoại giao đã đề xuất hướng tiếp cận phù hợp, đồng thời gợi ý cơ chế hỗ trợ nhằm tháo gỡ và mở rộng thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.125120+07:00",
+      "fetched": "2026-03-31T23:48:49.125242+07:00"
+    },
+    {
+      "id": "f17daea824140910199792182e9e6334",
+      "title": "AFC: Xuân Son không chiến quá xuất sắc",
+      "link": "https://tuoitre.vn/afc-xuan-son-khong-chien-qua-xuat-sac-20260331214626862.htm",
+      "summary": "Chứng kiến 2 bàn thắng Xuân Son ghi được trong trận thắng của tuyển Việt Nam trước Malaysia tại loạt trận cuối cùng bảng F vòng loại Asian Cup 2027, AFC không tiếc lời khen ngợi màn trình diễn xuất sắc của tiền đạo mang áo số 12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.124968+07:00",
+      "fetched": "2026-03-31T23:48:49.125108+07:00"
+    },
+    {
+      "id": "6b44edd6991ad3bc2ad013dd4784ec7c",
+      "title": "HLV Kim Sang Sik cảm ơn Xuân Son và Hoàng Hên",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-cam-on-xuan-son-va-hoang-hen-20260331195503607.htm",
+      "summary": "HLV trưởng Kim Sang Sik khen ngợi Nguyễn Xuân Son, Đỗ Hoàng Hên ở trận tuyển Việt Nam thắng 3-1 Malaysia tối 31-3 trên sân Thiên Trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T23:48:49.124731+07:00",
+      "fetched": "2026-03-31T23:48:49.124951+07:00"
+    },
     {
       "id": "a672e0fde5e417a6ac905dbd8974a484",
       "title": "Hối lộ chạy trường mẫu giáo, 13 phụ huynh Hong Kong lãnh án tù",
@@ -453,6 +603,66 @@ window.newsData_2026_03_31 = {
       "fetched": "2026-03-31T17:44:34.001645+07:00"
     },
     {
+      "id": "5468567826a91a6e76eb34c269002bc7",
+      "title": "HLV Hudson sung sướng vì đội tuyển Thái Lan ‘thoát hiểm’, Madam Pang hành động rất bất ngờ",
+      "link": "https://thanhnien.vn/hlv-hudson-sung-suong-vi-doi-tuyen-thai-lan-thoat-hiem-madam-pang-hanh-dong-rat-bat-ngo-185260331232857571.htm",
+      "summary": "Chiến thắng 2-1 trước Turkmenistan ở lượt trận cuối bảng D vòng loại Asian Cup 2027 không chỉ giúp đội tuyển Thái Lan giành vé đi tiếp, mà còn mang đến cảm xúc vỡ òa cho toàn đội sau hành trình đầy áp lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T16:43:00+07:00",
+      "fetched": "2026-03-31T23:48:48.323937+07:00"
+    },
+    {
+      "id": "828d52194107b7b16994995e3e0026e7",
+      "title": "Báo chí Malaysia khen ngợi đội tuyển Việt Nam, chỉ ra điểm yếu phòng ngự của đoàn quân Cklamovski",
+      "link": "https://thanhnien.vn/bao-chi-malaysia-khen-ngoi-doi-tuyen-viet-nam-chi-ra-diem-yeu-phong-ngu-cua-doan-quan-cklamovski-185260331231638586.htm",
+      "summary": "Chiến thắng 3-1 trước Malaysia tối 31.3 trên sân Thiên Trường không chỉ giúp đội tuyển Việt Nam khép lại vòng loại Asian Cup 2027 với thành tích hoàn hảo, mà còn đánh dấu thất bại đầu tiên của HLV Peter Cklamovski kể từ khi dẫn dắt đội tuyển Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T16:16:00+07:00",
+      "fetched": "2026-03-31T23:48:48.324111+07:00"
+    },
+    {
+      "id": "175eded91fb075c79411714cfe313236",
+      "title": "FIFA chính thức cập nhật tin cực vui, đội tuyển Việt Nam vào tốp 100 thế giới: Hạng 98!",
+      "link": "https://thanhnien.vn/fifa-chinh-thuc-cap-nhat-tin-cuc-vui-doi-tuyen-viet-nam-vao-top-100-the-gioi-hang-98-185260331230054356.htm",
+      "summary": "Tối 31.3, bảng xếp hạng FIFA theo thời gian thực đã chính thức cập nhật, đội tuyển Việt Nam sau trận thắng Malaysia với tỷ số 3-1 đã được cộng 9,67 điểm để có số điểm tích lũy 1.225,67 điểm vươn lên vị trí thứ 98 thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T16:04:00+07:00",
+      "fetched": "2026-03-31T23:48:48.324270+07:00"
+    },
+    {
+      "id": "a05a630621f2dcb496a38d6091e9ec72",
+      "title": "Bộ trưởng Hegseth: Ưu tiên của Mỹ là tìm kiếm thỏa thuận với Iran",
+      "link": "https://vnexpress.net/bo-truong-hegseth-uu-tien-cua-my-la-tim-kiem-thoa-thuan-voi-iran-5056927.html",
+      "summary": "Bộ trưởng Quốc phòng Hegseth nói trọng tâm của Mỹ lúc này là tìm kiếm thỏa thuận với Iran, song vẫn sẵn sàng kéo dài chiến dịch nếu cần.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-31T15:58:22+07:00",
+      "fetched": "2026-03-31T23:48:50.188091+07:00"
+    },
+    {
+      "id": "16fe2977c3b74ba7b09764da1925ff7c",
+      "title": "Bảng xếp hạng bảng F mới nhất: Đội tuyển Việt Nam 18 điểm vững vàng tốp 1, hơn Malaysia 9 điểm",
+      "link": "https://thanhnien.vn/bang-xep-hang-bang-f-moi-nhat-doi-tuyen-viet-nam-18-diem-vung-vang-top-1-hon-malaysia-9-diem-185260331225136156.htm",
+      "summary": "Trang web của VFF viết, tối 31.3 trên sân Thiên Trường (Ninh Bình), đội tuyển Việt Nam đã giành chiến thắng 3-1 trước đội tuyển Malaysia trong khuôn khổ Vòng loại cuối Asian Cup 2027. Với kết quả này, thầy trò HLV Kim Sang-sik chính thức góp mặt tại VCK với ngôi nhất bảng F và 'bỏ túi' 18 điểm tuyệt...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T15:55:00+07:00",
+      "fetched": "2026-03-31T23:48:48.324425+07:00"
+    },
+    {
+      "id": "7862bce4c3a3fb4b6d94cfdb0a180e8e",
+      "title": "HLV Kim Sang-sik khen Xuân Son, Hoàng Hên; HLV Malaysia tâm phục khẩu phục",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-khen-xuan-son-hoang-hen-hlv-malaysia-tam-phuc-khau-phuc-185260331225434058.htm",
+      "summary": "HLV Kim Sang-sik hài lòng với màn trình diễn của đội tuyển Việt Nam, đặc biệt đánh giá cao Xuân Son và Hoàng Hên sau chiến thắng trước Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T15:54:00+07:00",
+      "fetched": "2026-03-31T23:48:48.324576+07:00"
+    },
+    {
       "id": "bc69f88073acc431688a1a15bf62cdcf",
       "title": "Bí thư Tỉnh ủy Lai Châu Lê Minh Ngân được bầu chức Chủ tịch HĐND tỉnh",
       "link": "https://tuoitre.vn/bi-thu-tinh-uy-lai-chau-le-minh-ngan-duoc-bau-chuc-chu-tich-hdnd-tinh-2026033110280834.htm",
@@ -603,6 +813,76 @@ window.newsData_2026_03_31 = {
       "fetched": "2026-03-31T15:46:02.752766+07:00"
     },
     {
+      "id": "ad5bf7a82da0b1fb9beab0965f08fb72",
+      "title": "U.23 Việt Nam thử nghiệm đội hình, khép lại giải CFA Team China 2026 với nhiều bài học",
+      "link": "https://thanhnien.vn/u23-viet-nam-thu-nghiem-doi-hinh-khep-lai-giai-cfa-team-china-2026-voi-nhieu-bai-hoc-185260331222023373.htm",
+      "summary": "U.23 Việt Nam bước vào trận đấu cuối cùng tại giải giao hữu CFA Team China - Tây An 2026 gặp chủ nhà U.23 Trung Quốc với nhiều thay đổi đáng chú ý trong đội hình xuất phát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T15:27:00+07:00",
+      "fetched": "2026-03-31T23:48:48.324752+07:00"
+    },
+    {
+      "id": "7766fe7bd0bb72fc8f9311db97d53cd9",
+      "title": "HLV Kim Sang-sik ca ngợi: 'Hoàng Hên và Xuân Son phối hợp quá tốt, Việt Nam thắng xứng đáng Malaysia’",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-ca-ngoi-hoang-hen-va-xuan-son-phoi-hop-qua-tot-viet-nam-thang-xung-dang-malaysia-185260331204823864.htm",
+      "summary": "HLV Kim Sang-sik khẳng định chiến thắng 3-1 trước Malaysia là phần thưởng xứng đáng cho nỗ lực của đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T15:23:00+07:00",
+      "fetched": "2026-03-31T23:48:48.324908+07:00"
+    },
+    {
+      "id": "54721cabf4bb63a7266c99de99f880de",
+      "title": "Highlight U.23 Trung Quốc 1-0 U.23 Việt Nam: Không thể tạo bất ngờ",
+      "link": "https://thanhnien.vn/highlight-u23-trung-quoc-1-0-u23-viet-nam-khong-the-tao-bat-ngo-185260331220748331.htm",
+      "summary": "U.23 Việt Nam chủ động thử nghiệm đội hình trước U.23 Trung Quốc, chấp nhận thất bại sát nút nhưng có thêm những đánh giá tích cực về dàn cầu thủ trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T15:07:00+07:00",
+      "fetched": "2026-03-31T23:48:48.325056+07:00"
+    },
+    {
+      "id": "7f70bb91b2fba346e2baac0cbc6ae0bf",
+      "title": "Sinh viên đầu tư chứng khoán bằng 'tiền tươi, thóc thật'",
+      "link": "https://vnexpress.net/sinh-vien-dau-tu-chung-khoan-bang-tien-tuoi-thoc-that-5056836.html",
+      "summary": "10 đội thi sinh viên được cấp 10 triệu đồng mỗi đội để đầu tư chứng khoán trên sàn HOSE, NHX, và hưởng lãi nếu có.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T15:04:56+07:00",
+      "fetched": "2026-03-31T23:48:45.767824+07:00"
+    },
+    {
+      "id": "fa9054189ff89b724a2018a8b406cbc9",
+      "title": "Báo Malaysia: ‘Đội tuyển Việt Nam thắng đẳng cấp, tạo khoảng cách rõ rệt với chúng ta’",
+      "link": "https://thanhnien.vn/bao-malaysia-doi-tuyen-viet-nam-thang-dang-cap-tao-khoang-cach-ro-ret-voi-chung-ta-185260331214727067.htm",
+      "summary": "Chiến thắng 3-1 trước Malaysia tối 31.3 không chỉ giúp đội tuyển Việt Nam khép lại vòng loại Asian Cup 2027 với thành tích hoàn hảo, mà còn khiến truyền thông Malaysia phải thừa nhận sự chênh lệch ngày càng lớn giữa hai nền bóng đá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T15:00:00+07:00",
+      "fetched": "2026-03-31T23:48:48.325203+07:00"
+    },
+    {
+      "id": "fc2350306bcd20a2c5c56d5c7c1d58ba",
+      "title": "Xuân Son, Duy Mạnh rực sáng, đội tuyển Việt Nam thắng dễ Malaysia",
+      "link": "https://thanhnien.vn/xuan-son-duy-manh-ruc-sang-doi-tuyen-viet-nam-thang-de-malaysia-185260331210255289.htm",
+      "summary": "Đội tuyển Việt Nam sớm áp đặt thế trận và tận dụng tốt cơ hội để đánh bại Malaysia 3-1, trong đó Xuân Son tỏa sáng với cú đúp sau khi Duy Mạnh mở tỷ số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T15:00:00+07:00",
+      "fetched": "2026-03-31T23:48:48.325359+07:00"
+    },
+    {
+      "id": "3d6a8914069a7233bd37be4ba1788b0e",
+      "title": "Váy hạ eo, nhân vật chính 'thầm lặng' của mùa này",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-ha-eo-nhan-vat-chinh-tham-lang-cua-mua-nay-185260330170311582.htm",
+      "summary": "Váy hạ eo với những đường nét mềm mại và phần váy xòe rộng, bồng bềnh ôm sát cơ thể mà không gây gò bó, định hình lại vóc dáng một cách thoải mái hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T15:00:00+07:00",
+      "fetched": "2026-03-31T23:48:48.325504+07:00"
+    },
+    {
       "id": "7ded4bacb054c071cc9b59333a4325ca",
       "title": "Highlight đội tuyển Việt Nam 3-1 Malaysia: Xuân Son, Duy Mạnh tỏa sáng",
       "link": "https://thanhnien.vn/highlight-doi-tuyen-viet-nam-3-1-malaysia-xuan-son-duy-manh-toa-sang-185260331215255829.htm",
@@ -721,6 +1001,26 @@ window.newsData_2026_03_31 = {
       "category": "Thể thao",
       "published": "2026-03-31T14:30:00+07:00",
       "fetched": "2026-03-31T21:54:51.954131+07:00"
+    },
+    {
+      "id": "d05e3f36b381e743e4678feb47cbf713",
+      "title": "HLV Kim Sang-sik: 'Trận thắng Malaysia diễn ra như ý'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-tran-thang-malaysia-dien-ra-nhu-y-5056821.html",
+      "summary": "HLV Kim Sang-sik hài lòng về tỷ số, sự tập trung của các cầu thủ cũng như bầu không khí từ khán đài, trong trận thắng Malaysia 3-1 ở vòng loại cuối Asian Cup 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:30:00+07:00",
+      "fetched": "2026-03-31T23:48:45.768648+07:00"
+    },
+    {
+      "id": "d05e3f36b381e743e4678feb47cbf713",
+      "title": "HLV Kim Sang-sik: 'Trận thắng Malaysia diễn ra như ý'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-tran-thang-malaysia-dien-ra-nhu-y-5056821.html",
+      "summary": "HLV Kim Sang-sik hài lòng về tỷ số, sự tập trung của các cầu thủ cũng như bầu không khí từ khán đài, trong trận thắng Malaysia 3-1 ở vòng loại cuối Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-31T14:30:00+07:00",
+      "fetched": "2026-03-31T23:48:54.890772+07:00"
     },
     {
       "id": "6a979f2d6f04d826a61179cae03f6678",
@@ -1601,6 +1901,16 @@ window.newsData_2026_03_31 = {
       "category": "Thể thao",
       "published": "2026-03-31T11:16:39+07:00",
       "fetched": "2026-03-31T19:54:22.420685+07:00"
+    },
+    {
+      "id": "c872fd2fc15be401e51b42f1101de251",
+      "title": "Xuân Son giúp Việt Nam hạ Malaysia",
+      "link": "https://vnexpress.net/truc-tiep-viet-nam-vs-malaysia-5056870-tong-thuat.html",
+      "summary": "Tiền đạo Nguyễn Xuân Son lập cú đúp, giúp Việt Nam thắng Malaysia 3-1 tại lượt trận cuối vòng loại Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-31T11:16:39+07:00",
+      "fetched": "2026-03-31T23:48:54.891432+07:00"
     },
     {
       "id": "43f1e87948694f693a42644a690a4a04",
