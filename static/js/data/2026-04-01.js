@@ -1,7 +1,17 @@
 window.newsData_2026_04_01 = {
   "date": "2026-04-01",
-  "lastUpdated": "2026-04-01T03:34:11.497648+07:00",
+  "lastUpdated": "2026-04-01T05:25:19.615621+07:00",
   "articles": [
+    {
+      "id": "4662766c6bd5b11e4f17b70cdb19207b",
+      "title": "Thời tiết hôm nay 1-4: Bắc Bộ hết nóng, Nam Bộ vẫn oi gay gắt",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-1-4-bac-bo-het-nong-nam-bo-van-oi-gay-gat-20260331162108076.htm",
+      "summary": "Hôm nay 1-4, thời tiết Bắc Bộ kết thúc nắng nóng, trời có mưa do không khí lạnh. Nam Bộ trời vẫn oi bức, nắng nóng kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T05:25:10.012379+07:00",
+      "fetched": "2026-04-01T05:25:10.012597+07:00"
+    },
     {
       "id": "50f9bd5bf432033bd18378fba41ca0e4",
       "title": "Thái Lan xuất sắc khiến Việt Nam có thể rơi vào 'bảng tử thần' ở Asian Cup 2027",
@@ -171,6 +181,186 @@ window.newsData_2026_04_01 = {
       "category": "Tổng hợp",
       "published": "2026-04-01T01:47:38.899109+07:00",
       "fetched": "2026-04-01T01:47:38.899335+07:00"
+    },
+    {
+      "id": "a3327c808efed0bce02e58d3ca615161",
+      "title": "Tử vi ngày 1 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-1-thang-4-con-giap-nao-may-man-hom-nay-185260331234327368.htm",
+      "summary": "Tử vi ngày 1 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp trong ngày đầu tháng. Vận khí thiên về 'khởi động có chọn lọc' - không cần làm nhiều, chỉ cần làm đúng. Tài lộc hôm nay phụ thuộc vào việc bạn bắt đầu có kế hoạch hay chỉ hành động theo cảm hứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T22:20:00+07:00",
+      "fetched": "2026-04-01T05:25:08.503495+07:00"
+    },
+    {
+      "id": "0bb9b52b4ec9d52fc03b00c474f1ad1e",
+      "title": "Từ niềm tin của cử tri đến động lực mới cho đất nước phát triển",
+      "link": "https://thanhnien.vn/tu-niem-tin-cua-cu-tri-den-dong-luc-moi-cho-dat-nuoc-phat-trien-185260331213642924.htm",
+      "summary": "Tổng Bí thư Tô Lâm nhấn mạnh mỗi đại biểu trúng cử phải luôn ghi nhớ phía sau mình là niềm tin và kỳ vọng của cử tri để mỗi quyết sách đều tạo động lực mới cho sự phát triển nhanh và bền vững của đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T22:17:00+07:00",
+      "fetched": "2026-04-01T05:25:08.503663+07:00"
+    },
+    {
+      "id": "572ee62056914555194cd67edaa23d94",
+      "title": "Thảm sát tại Haiti, hàng chục người thiệt mạng",
+      "link": "https://thanhnien.vn/tham-sat-tai-haiti-hang-chuc-nguoi-thiet-mang-185260331183515886.htm",
+      "summary": "Reuters ngày 31.3 dẫn số liệu của tổ chức Defenseurs Plus ở Haiti cho hay ít nhất 70 người thiệt mạng và 30 người bị thương trong vụ tấn công gần TP.Petite-Riviere thuộc vùng Artibonite của nước này, cao hơn nhiều so với ước tính của cảnh sát là 16 người thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T22:15:00+07:00",
+      "fetched": "2026-04-01T05:25:08.503822+07:00"
+    },
+    {
+      "id": "8d14793453f3f44572f3f351394828f1",
+      "title": "Mùa bướm, đom đóm ở rừng Cúc Phương đến sớm: Tín hiệu gì từ rừng già?",
+      "link": "https://thanhnien.vn/mua-buom-dom-dom-o-rung-cuc-phuong-den-som-tin-hieu-gi-tu-rung-gia-185260330083035111.htm",
+      "summary": "Rừng Cúc Phương năm 2026 đón mùa bướm và đom đóm đến sớm, đây là phản ứng nhạy bén của thiên nhiên với biến đổi khí hậu, ngoài ra còn có ý nghĩa gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T22:15:00+07:00",
+      "fetched": "2026-04-01T05:25:08.503984+07:00"
+    },
+    {
+      "id": "82e72e7f4b60b62ad295bfdedc5964bf",
+      "title": "Chuyên gia: Thực phẩm giúp cân bằng đường huyết sau tuổi 50",
+      "link": "https://thanhnien.vn/chuyen-gia-thuc-pham-giup-can-bang-duong-huyet-sau-tuoi-50-18526033120265012.htm",
+      "summary": "Không chỉ người tiểu đường, người khỏe mạnh cũng cần kiểm soát đường huyết khi lớn tuổi. Lão hóa là yếu tố nguy cơ chính của tiểu đường loại 2, đặc biệt sau 50 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T22:07:00+07:00",
+      "fetched": "2026-04-01T05:25:08.504201+07:00"
+    },
+    {
+      "id": "1ef34e892c0303ad78a662c07dd6814d",
+      "title": "Đồng minh vùng Vịnh gây áp lực để ông Trump tiếp tục tấn công Iran?",
+      "link": "https://thanhnien.vn/dong-minh-vung-vinh-gay-ap-luc-de-ong-trump-tiep-tuc-tan-cong-iran-185260331215326804.htm",
+      "summary": "Các đồng minh vùng Vịnh của Mỹ được cho là đang thúc giục Tổng thống Donald Trump tiếp tục chiến dịch quân sự nhằm vào Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T22:05:00+07:00",
+      "fetched": "2026-04-01T05:25:08.504362+07:00"
+    },
+    {
+      "id": "20fa6b7ac67a9e22f7baf675dcc6dcfd",
+      "title": "AI có thể 'xóa sổ' hơn 9 triệu việc làm ở Mỹ",
+      "link": "https://vnexpress.net/ai-co-the-xoa-so-hon-9-trieu-viec-lam-o-my-5056671.html",
+      "summary": "Nghiên cứu mới cho thấy khoảng 9,3 triệu việc làm tại Mỹ có nguy cơ bị thay thế trong vòng 2-5 năm tới, với 33 ngành nghề khởi phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T22:00:00+07:00",
+      "fetched": "2026-04-01T05:25:05.027440+07:00"
+    },
+    {
+      "id": "5e12fea48d6d7be0819acc11943e7922",
+      "title": "Ô tô đi thẳng húc xe rẽ trái, ai sai?",
+      "link": "https://vnexpress.net/o-to-di-thang-huc-xe-re-trai-ai-sai-5056605.html",
+      "summary": "Ôtô gắn camera hành trình đâm vào đuôi một ôtô khác đang rẽ trái cắt ngang đường, hôm 29/3 tại đường Lê Trọng Tấn (Dương Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T22:00:00+07:00",
+      "fetched": "2026-04-01T05:25:05.027619+07:00"
+    },
+    {
+      "id": "c32851786fd6a8031e2dcc3bd2c1aa45",
+      "title": "Superleggera V4 Centenario - siêu phẩm mừng 100 năm Ducati",
+      "link": "https://vnexpress.net/superleggera-v4-centenario-sieu-pham-mung-100-nam-ducati-5056684.html",
+      "summary": "Môtô phiên bản giới hạn 500 chiếc mừng sinh nhật một thế kỷ, lắp động cơ Desmosedici 247 mã lực, nhiều công nghệ MotoGP.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T22:00:00+07:00",
+      "fetched": "2026-04-01T05:25:05.027734+07:00"
+    },
+    {
+      "id": "15cbbcdeba9d2fc0f1f371cff9b4b241",
+      "title": "'Anh trai vượt ngàn chông gai' mùa 2 có gì mới?",
+      "link": "https://thanhnien.vn/anh-trai-vuot-ngan-chong-gai-mua-2-co-gi-moi-185260331210131725.htm",
+      "summary": "Sau thành công vang dội ở mùa đầu (năm 2024), nhà sản xuất vừa hé lộ Anh trai vượt ngàn chông gai sẽ chính thức trở lại vào tháng 6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T22:00:00+07:00",
+      "fetched": "2026-04-01T05:25:08.504512+07:00"
+    },
+    {
+      "id": "31960f72affb4c7d2defdefbda75dfe1",
+      "title": "Chiến sự Ukraine ngày 1.497: Ukraine đề xuất tạm ngừng bắn, Nga từ chối khéo",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1497-ukraine-de-xuat-tam-ngung-ban-nga-tu-choi-kheo-185260331180854237.htm",
+      "summary": "Các đồng minh của Ukraine đã gây sức ép để Kyiv ngừng tấn công cơ sở năng lượng Nga trong bối cảnh giá dầu thế giới tăng cao nhưng Ukraine không đồng ý, yêu cầu ngừng bắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T22:00:00+07:00",
+      "fetched": "2026-04-01T05:25:08.504661+07:00"
+    },
+    {
+      "id": "8f222f2de9f5e722a29135c6ae3fa1f1",
+      "title": "Vì sao Cá tháng tư rơi vào ngày 1.4 hôm nay? Nguồn gốc từ nước nào?",
+      "link": "https://thanhnien.vn/vi-sao-ca-thang-tu-roi-vao-ngay-14-hom-nay-nguon-goc-tu-nuoc-nao-185260331110915832.htm",
+      "summary": "Hôm nay 1.4 là ngày Cá tháng tư - ngày của những lời nói dối và trêu đùa vô hại. Nguồn gốc của ngày này từ đâu và vì sao Cá tháng tư lại rơi vào ngày 1.4 như hôm nay?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T22:00:00+07:00",
+      "fetched": "2026-04-01T05:25:08.504809+07:00"
+    },
+    {
+      "id": "a95f63893512f21ee250617f47256777",
+      "title": "Lấp lửng kịch bản ngừng chiến tại Trung Đông",
+      "link": "https://thanhnien.vn/lap-lung-kich-ban-ngung-chien-tai-trung-dong-185260331215558545.htm",
+      "summary": "Israel và Mỹ đã phát động một đợt tấn công mới nhằm vào nhiều thành phố Iran vào rạng sáng qua (31.3).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:50:00+07:00",
+      "fetched": "2026-04-01T05:25:08.504966+07:00"
+    },
+    {
+      "id": "33f44d15ead4137205b6c89f7890526d",
+      "title": "Nhật Bản cảnh báo tàu khảo sát Trung Quốc trong vùng đặc quyền kinh tế",
+      "link": "https://thanhnien.vn/nhat-ban-canh-bao-tau-khao-sat-trung-quoc-trong-vung-dac-quyen-kinh-te-185260331210729218.htm",
+      "summary": "Lực lượng Bảo vệ bờ biển Nhật Bản cho hay đã phát hiện một tàu khảo sát của Trung Quốc trong vùng đặc quyền kinh tế (EEZ) gần đảo Uotsuri, đồng thời yêu cầu tàu này chấm dứt các hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:45:00+07:00",
+      "fetched": "2026-04-01T05:25:08.505143+07:00"
+    },
+    {
+      "id": "f602b141da8555e779a5ddde05904fd9",
+      "title": "Bác sĩ: Cẩn thận với các phương pháp detox qua ăn uống",
+      "link": "https://thanhnien.vn/bac-si-can-than-voi-cac-phuong-phap-detox-qua-an-uong-185260331213244687.htm",
+      "summary": "Phương pháp detox qua ăn uống đang trở thành xu hướng được nhiều người thực hiện, nhưng nếu thực hiện không đúng cách có thể tiềm ẩn nhiều nguy cơ đối với sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:31:00+07:00",
+      "fetched": "2026-04-01T05:25:08.505297+07:00"
+    },
+    {
+      "id": "cb89c6c8f07b9dbc813c7628c764d851",
+      "title": "Tình hình Trung Đông mới nhất sáng 1.4: Iran dọa đánh nhiều công ty hàng đầu của Mỹ",
+      "link": "https://thanhnien.vn/tinh-hinh-trung-dong-moi-nhat-sang-14-iran-doa-danh-nhieu-cong-ty-hang-dau-cua-my-185260331202823489.htm",
+      "summary": "Bước sang ngày thứ 33 của cuộc chiến, Trung Đông vẫn chìm trong căng thẳng khi các cuộc tấn công tiếp tục gây thương vong ở nhiều nơi tại vùng Vịnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:30:00+07:00",
+      "fetched": "2026-04-01T05:25:08.505442+07:00"
+    },
+    {
+      "id": "587e95534a3fd3b0d775a5d10da60c57",
+      "title": "Truy tố 2 TikToker Tàng Keng Ông Trùm, Dù Bầu Trời: Cái giá của miệt thị vùng miền",
+      "link": "https://thanhnien.vn/truy-to-2-tiktoker-tang-keng-ong-trum-du-bau-troi-cai-gia-cua-miet-thi-vung-mien-185260331183521237.htm",
+      "summary": "Nhằm mục đích câu view, tăng tương tác, 2 TikToker 'Tàng Keng Ông Trùm', 'Dù Bầu Trời' đăng tải video với nội dung thô tục, miệt thị, xúc phạm người dân 2 miền Nam - Bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:30:00+07:00",
+      "fetched": "2026-04-01T05:25:08.505596+07:00"
+    },
+    {
+      "id": "f1e3e68409b863d302f0fc54fa8189c1",
+      "title": "Lão nông miền Tây dạy trâu đen, trâu hồng và đàn cò trắng làm du lịch",
+      "link": "https://thanhnien.vn/lao-nong-mien-tay-day-trau-den-trau-hong-va-dan-co-trang-lam-du-lich-185260331152731231.htm",
+      "summary": "Bằng sự kiên trì tập luyện, ông Lê Văn Càng (51 tuổi, phường Bình Thủy, TP.Cần Thơ) đã dạy trâu đen, trâu hồng và đàn cò trắng ở miền Tây thành thú cưng. Đôi trâu thì biết chào mừng khi khách đến, còn đàn cò thì dạn dĩ bay nhảy đến bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T21:28:00+07:00",
+      "fetched": "2026-04-01T05:25:08.505746+07:00"
     },
     {
       "id": "7e7f00bb2ebf9886468345d8b9137296",
