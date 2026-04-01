@@ -1,7 +1,17 @@
 window.newsData_2026_04_02 = {
   "date": "2026-04-02",
-  "lastUpdated": "2026-04-02T01:46:33.953900+07:00",
+  "lastUpdated": "2026-04-02T03:35:17.921114+07:00",
   "articles": [
+    {
+      "id": "cc68721882c934ec8fb443f19a1a35fc",
+      "title": "Rộ tin Iran thúc Houthi chuẩn bị chiến dịch mới, eo biển Bab el-Mandeb 'nóng' sau Hormuz",
+      "link": "https://tuoitre.vn/ro-tin-iran-thuc-houthi-chuan-bi-chien-dich-moi-eo-bien-bab-el-mandeb-nong-sau-hormuz-2026040123585642.htm",
+      "summary": "Nếu cả eo biển Hormuz và eo biển Bab el-Mandeb cùng lúc bị đóng cửa, chuỗi cung ứng toàn cầu và nền kinh tế thế giới sẽ bị gián đoạn nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T03:35:11.284424+07:00",
+      "fetched": "2026-04-02T03:35:11.284649+07:00"
+    },
     {
       "id": "4e0a0e5a5c1718bb4bac8a473eed285b",
       "title": "Bảo Trâm đi đâu sau hit 'Chỉ còn những mùa nhớ'?",
@@ -151,6 +161,36 @@ window.newsData_2026_04_02 = {
       "category": "Tổng hợp",
       "published": "2026-04-02T01:46:26.656520+07:00",
       "fetched": "2026-04-02T01:46:26.656765+07:00"
+    },
+    {
+      "id": "a306e1055309abd35c5ad38e63ee6729",
+      "title": "Đại náo bệnh viện bởi vợ được bác sĩ nam khám thai",
+      "link": "https://vnexpress.net/dai-nao-benh-vien-boi-vo-duoc-bac-si-nam-kham-thai-5057175.html",
+      "summary": "Một người đàn ông tại Cát Lâm gây náo loạn bệnh viện và đòi ly hôn khi phát hiện bác sĩ nam trực tiếp khám thai cho vợ mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T19:00:00+07:00",
+      "fetched": "2026-04-02T03:35:07.108518+07:00"
+    },
+    {
+      "id": "13bb13e4c2cf6daea5e852cdd5bb555d",
+      "title": "'Sentimental Value' - hàn gắn tình cha con",
+      "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/sentimental-value-894",
+      "summary": "\"Sentimental Value\" - Phim quốc tế xuất sắc Oscar 2026 - soi chiếu những vết thương tâm lý qua mối quan hệ cha và con gái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T19:00:00+07:00",
+      "fetched": "2026-04-02T03:35:07.108697+07:00"
+    },
+    {
+      "id": "9ef31a5268b674b0686cac00ee253fba",
+      "title": "Vì sao bạn càng lớn tuổi cơ thể càng dễ mệt?",
+      "link": "https://vnexpress.net/vi-sao-ban-cang-lon-tuoi-co-the-cang-de-met-5057312.html",
+      "summary": "Dễ mệt, lâu hồi phục hơn dù ăn uống, sinh hoạt như trước có thể đến từ những thay đổi âm thầm của tuổi tác, hormone và lối sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T18:03:00+07:00",
+      "fetched": "2026-04-02T03:35:07.108857+07:00"
     },
     {
       "id": "f599fadf453f4e11d4ec153639fefdf1",
