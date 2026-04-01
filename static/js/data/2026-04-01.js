@@ -1,7 +1,157 @@
 window.newsData_2026_04_01 = {
   "date": "2026-04-01",
-  "lastUpdated": "2026-04-01T19:56:19.280984+07:00",
+  "lastUpdated": "2026-04-01T21:57:18.317589+07:00",
   "articles": [
+    {
+      "id": "c5d988f6b89d9131b523523fdaaad5c7",
+      "title": "Phát hiện hóa thạch 'thất lạc' 100.000 năm trong hang ngầm Texas, hé lộ điều bất ngờ",
+      "link": "https://tuoitre.vn/phat-hien-hoa-thach-that-lac-100-000-nam-trong-hang-ngam-texas-he-lo-dieu-bat-ngo-20260401130539121.htm",
+      "summary": "Hóa thạch lười khổng lồ, voi ma mút, rùa khổng lồ trong hang ngầm Texas cho thấy khu vực này từng có khí hậu ấm hơn giữa Kỷ băng hà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.294068+07:00",
+      "fetched": "2026-04-01T21:57:09.294183+07:00"
+    },
+    {
+      "id": "bd2e0cad2da93001d310c6ee54e62e7c",
+      "title": "Tỏ tình ngày Cá tháng tư: Tình cảm mà đem ra giỡn chơi!",
+      "link": "https://tuoitre.vn/to-tinh-ngay-ca-thang-tu-tinh-cam-ma-dem-ra-gion-choi-20260401160113819.htm",
+      "summary": "Mượn cớ Cá tháng tư để tỏ tình người mình thích, nhiều bạn trẻ nghĩ cứ tỏ tình đi, lỡ sau này thành cặp đôi thì còn gì bằng. Nhưng cũng có ý kiến rằng chọn ngày này để bày tỏ tình cảm khác gì không tôn trọng cảm xúc của người kia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.293935+07:00",
+      "fetched": "2026-04-01T21:57:09.294056+07:00"
+    },
+    {
+      "id": "d4e0568a1409327406dbdf02bdfa5074",
+      "title": "Kiểm lâm Thanh Hóa cảnh báo thú chơi cây muội hồng, coi chừng vi phạm pháp luật",
+      "link": "https://tuoitre.vn/kiem-lam-thanh-hoa-canh-bao-thu-choi-cay-muoi-hong-coi-chung-vi-pham-phap-luat-2026040117145663.htm",
+      "summary": "Tại Thanh Hóa đã và đang lên “cơn sốt” về thú chơi cây muội hồng như cây cảnh - loại cây được khai thác từ rừng tự nhiên núi đá. Kiểm lâm cảnh báo hành vi khai thác, mua bán, vận chuyển, tàng trữ cây muội hồng là vi phạm pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.293783+07:00",
+      "fetched": "2026-04-01T21:57:09.293922+07:00"
+    },
+    {
+      "id": "ca491831df7e23701f349e47aeecca42",
+      "title": "Cách cán bộ kiểm dịch vòi tiền, 'mở cửa' cho 3.600 con heo bệnh vào chợ, bếp ăn trường học",
+      "link": "https://tuoitre.vn/cach-can-bo-kiem-dich-voi-tien-mo-cua-cho-3-600-con-heo-benh-vao-cho-bep-an-truong-hoc-20260401181949648.htm",
+      "summary": "Cán bộ kiểm dịch thú y tại lò mổ Vạn Phúc bị cáo buộc lợi dụng chức vụ, vòi tiền chủ lò mổ, lái xe, tiếp tay cho khoảng 3.600 con heo bệnh lọt qua cửa kiểm dịch, tuồn ra thị trường, vào cả bếp ăn trường học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.293656+07:00",
+      "fetched": "2026-04-01T21:57:09.293772+07:00"
+    },
+    {
+      "id": "b77db5a0fffaee44b550511f596941d7",
+      "title": "Ông Trump nói nghiêm túc cân nhắc việc rút Mỹ khỏi NATO",
+      "link": "https://tuoitre.vn/ong-trump-noi-nghiem-tuc-can-nhac-viec-rut-my-khoi-nato-20260401184029148.htm",
+      "summary": "Trả lời phỏng vấn độc quyền Telegraph, ông Trump khẳng định việc xem xét lại tư cách thành viên NATO của Mỹ đã 'không còn dừng ở mức cân nhắc'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.293533+07:00",
+      "fetched": "2026-04-01T21:57:09.293645+07:00"
+    },
+    {
+      "id": "f86357e399c06e2c03762603f007bf5e",
+      "title": "Siêu phẩm của Văn Hậu đẹp nhất tháng 3",
+      "link": "https://tuoitre.vn/sieu-pham-cua-van-hau-dep-nhat-thang-3-2026040118453937.htm",
+      "summary": "Bàn thắng của Đoàn Văn Hậu vào lưới CLB Thanh Hóa ở trận đá bù vòng 10 LPBank V-League 2025 - 2026 được bầu chọn là bàn thắng đẹp nhất tháng 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.293408+07:00",
+      "fetched": "2026-04-01T21:57:09.293522+07:00"
+    },
+    {
+      "id": "d43cd5025d0f4525719582b2124e80cf",
+      "title": "Bóc khối u trong não bệnh nhân nhờ công nghệ Navigation",
+      "link": "https://tuoitre.vn/boc-khoi-u-trong-nao-benh-nhan-nho-cong-nghe-navigation-20260401143857674.htm",
+      "summary": "Sự hỗ trợ của hệ thống định vị KICK Navigation giúp ê-kíp bóc tách khối u chính xác mà không làm tổn thương các vùng chức năng quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.293280+07:00",
+      "fetched": "2026-04-01T21:57:09.293396+07:00"
+    },
+    {
+      "id": "ea29fa95e418ceee778c6fd3cb958d10",
+      "title": "Sawaco chủ động bảo đảm cấp nước an toàn, ổn định \nmùa khô 2026",
+      "link": "https://tuoitre.vn/sawaco-chu-dong-bao-dam-cap-nuoc-an-toan-on-dinh-mua-kho-2026-2026040115084706.htm",
+      "summary": "Tổng Công ty Cấp nước Sài Gòn đã và đang triển khai đồng bộ nhiều giải pháp nhằm đáp ứng đầy đủ nhu cầu của người dân và các cơ sở trọng yếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.293129+07:00",
+      "fetched": "2026-04-01T21:57:09.293265+07:00"
+    },
+    {
+      "id": "f4310df6f9aa75dddddd2f9b0e9edf8e",
+      "title": "Năm nay 15 triệu người dân TP.HCM phải được khám, tầm soát sức khỏe ít nhất 1 lần",
+      "link": "https://tuoitre.vn/nam-nay-15-trieu-nguoi-dan-tp-hcm-phai-duoc-kham-tam-soat-suc-khoe-it-nhat-1-lan-20260401185510456.htm",
+      "summary": "Bí thư Thành ủy TP.HCM Trần Lưu Quang yêu cầu trong năm 2026, gần 15 triệu người dân TP.HCM phải được khám, tầm soát sức khỏe ít nhất 1 lần, không chia giai đoạn. Việc miễn phí xe buýt cũng được đưa ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.292999+07:00",
+      "fetched": "2026-04-01T21:57:09.293117+07:00"
+    },
+    {
+      "id": "1a336bf647d606483cd9cc7539ac3ed8",
+      "title": "U23 Việt Nam về nước sau giải giao hữu ở Trung Quốc",
+      "link": "https://tuoitre.vn/u23-viet-nam-ve-nuoc-sau-giai-giao-huu-o-trung-quoc-20260401190310297.htm",
+      "summary": "Ngày 1-4, U23 Việt Nam trở về nước sau chuyến du đấu bổ ích ở Tây An, Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.292845+07:00",
+      "fetched": "2026-04-01T21:57:09.292985+07:00"
+    },
+    {
+      "id": "52c5b3b6d3a55a0eb8f4a85a9aa88ecd",
+      "title": "Cậu bé 14 tuổi Việt Nam trở thành 'thần đồng' số 4 làng cờ vua thế giới",
+      "link": "https://tuoitre.vn/cau-be-14-tuoi-viet-nam-tro-thanh-than-dong-so-4-lang-co-vua-the-gioi-20260401184929595.htm",
+      "summary": "Dù còn chưa chính thức đón sinh nhật tuổi 15, kỳ thủ Đầu Khương Duy đã đạt đến cột mốc đáng ngưỡng mộ trong sự nghiệp, được làng cờ vua thế giới ghi nhận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.292715+07:00",
+      "fetched": "2026-04-01T21:57:09.292833+07:00"
+    },
+    {
+      "id": "c0122b5e0bbf602b009acac8dd191e8a",
+      "title": "Ống nhựa PVC-O - lựa chọn mới cho hạ tầng cấp thoát nước",
+      "link": "https://tuoitre.vn/ong-nhua-pvc-o-lua-chon-moi-cho-ha-tang-cap-thoat-nuoc-2026040117240717.htm",
+      "summary": "Ngày 30-3, hội thảo chuyên đề “Ống nhựa PVC-O - Công nghệ định hướng phân tử, lựa chọn mới cho hạ tầng cấp thoát nước” đã diễn ra với sự tham gia của nhiều chuyên gia, nhà quản lý và doanh nghiệp trong ngành nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.292582+07:00",
+      "fetched": "2026-04-01T21:57:09.292703+07:00"
+    },
+    {
+      "id": "79af73ed19d4786b382dc7a84c9a8902",
+      "title": "Năm 2026 đối mặt nguy cơ nhiều siêu bão, mưa cực đoan và nắng nóng kéo dài",
+      "link": "https://tuoitre.vn/nam-2026-doi-mat-nguy-co-nhieu-sieu-bao-mua-cuc-doan-va-nang-nong-keo-dai-20260401141724681.htm",
+      "summary": "Dự báo năm 2026, nắng nóng xuất hiện sớm, kéo dài và gay gắt hơn. Nguy cơ sẽ xuất hiện bão mạnh, thậm chí siêu bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.292448+07:00",
+      "fetched": "2026-04-01T21:57:09.292570+07:00"
+    },
+    {
+      "id": "bf11e132a22db1b3ec7c35962b2a7fb7",
+      "title": "Cầm 200.000 USD, cựu Thứ trưởng nói 'nhận tiền trong giây phút không chín chắn'",
+      "link": "https://tuoitre.vn/cam-200-000-usd-cuu-thu-truong-noi-nhan-tien-trong-giay-phut-khong-chin-chan-2026040119214481.htm",
+      "summary": "Nói lời sau cùng tại tòa, cựu Thứ trưởng Bộ Nông nghiệp và Phát triển nông thôn Hoàng Văn Thắng thừa nhận sai phạm khi cầm 200.000 USD, bày tỏ hối hận, xấu hổ vì 'nhận tiền trong giây phút suy nghĩ không chín chắn'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.292306+07:00",
+      "fetched": "2026-04-01T21:57:09.292435+07:00"
+    },
+    {
+      "id": "b4d6e7b54682bd5fdeacd963110ae7cc",
+      "title": "Bộ Y tế kiểm tra đột xuất bếp ăn tập thể tại Hà Nội và Ninh Bình",
+      "link": "https://tuoitre.vn/bo-y-te-kiem-tra-dot-xuat-bep-an-tap-the-tai-ha-noi-va-ninh-binh-20260401192837353.htm",
+      "summary": "Ngày 1-4, Bộ Y tế ban hành quyết định kiểm tra việc thực hiện các quy định của pháp luật về bảo đảm an toàn thực phẩm tại các cơ sở kinh doanh dịch vụ ăn uống, bếp ăn tập thể trên địa bàn TP Hà Nội và tỉnh Ninh Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:57:09.292073+07:00",
+      "fetched": "2026-04-01T21:57:09.292291+07:00"
+    },
     {
       "id": "d83beb895de85a1bc1625e4489f7e594",
       "title": "Triển lãm Doraemon lớn nhất lịch sử tại Tokyo",
@@ -453,6 +603,36 @@ window.newsData_2026_04_01 = {
       "fetched": "2026-04-01T15:54:12.252998+07:00"
     },
     {
+      "id": "0fa7fd09f93a3213b1deb1e37735306d",
+      "title": "Bạn gái cũ từng muốn can thiệp sâu vào công ty và tài sản của tôi",
+      "link": "https://vnexpress.net/ban-gai-cu-tung-muon-can-thiep-sau-vao-cong-ty-va-tai-san-cua-toi-5057280.html",
+      "summary": "Tôi thể hiện sự không đồng ý, cô ấy lập tức đổi thái độ, chính sự thay đổi thất thường đó khiến tôi cảm thấy bất an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T14:30:00+07:00",
+      "fetched": "2026-04-01T21:57:04.943185+07:00"
+    },
+    {
+      "id": "6af947c0570c10f1508ffe7288576535",
+      "title": "Galaxy S26 vẫn có bản 128 GB nhưng không dễ mua",
+      "link": "https://thanhnien.vn/galaxy-s26-van-co-ban-128-gb-nhung-khong-de-mua-185260331212841572.htm",
+      "summary": "Samsung vẫn sản xuất Galaxy S26 bản 128 GB, giá rẻ hơn 8 triệu đồng nhưng không dễ để mua được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T14:12:00+07:00",
+      "fetched": "2026-04-01T21:57:08.187701+07:00"
+    },
+    {
+      "id": "40c8c7aa586dfe991e3397f2d38b730c",
+      "title": "Tòa tiếp tục nghị án vụ cựu kế toán tham ô tiền ngân sách",
+      "link": "https://thanhnien.vn/toa-tiep-tuc-nghi-an-vu-cuu-ke-toan-tham-o-tien-ngan-sach-185260401160502546.htm",
+      "summary": "Tòa án nhân dân tỉnh Đồng Tháp đã quyết định kéo dài thời gian nghị án đến ngày 7.4 đối với vụ cựu kế toán dùng chữ ký số của lãnh đạo, lập chứng từ khống, tham ô tiền tỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T14:10:00+07:00",
+      "fetched": "2026-04-01T21:57:08.187914+07:00"
+    },
+    {
       "id": "c632fba34608121b99404ede720d2e9c",
       "title": "Xe khách giường nằm biển số TP.HCM cháy ở Nha Trang",
       "link": "https://tuoitre.vn/xe-khach-giuong-nam-bien-so-tp-hcm-chay-o-nha-trang-2026040111351822.htm",
@@ -601,6 +781,306 @@ window.newsData_2026_04_01 = {
       "category": "Tổng hợp",
       "published": "2026-04-01T14:08:30.620439+07:00",
       "fetched": "2026-04-01T14:08:30.620644+07:00"
+    },
+    {
+      "id": "57575ae25c217cb67aff92770ed50d6b",
+      "title": "Nhận hối lộ 13,4 tỉ, cựu giám đốc Bộ NN-PTNT bật khóc khi nhắc về mẹ già",
+      "link": "https://thanhnien.vn/nhan-hoi-lo-134-ti-cuu-giam-doc-bo-nn-ptnt-bat-khoc-khi-nhac-ve-me-gia-185260401201147714.htm",
+      "summary": "Bị cáo buộc nhận hối lộ 13,4 tỉ đồng, cựu giám đốc thuộc Bộ NN-PTNT (cũ) bày tỏ hối hận, bật khóc khi nhắc đến mẹ già.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T14:03:00+07:00",
+      "fetched": "2026-04-01T21:57:08.188092+07:00"
+    },
+    {
+      "id": "4401c92c25c47cfd1e4c08f90e00934a",
+      "title": "Nước nào có con đường liên tục dài nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-co-con-duong-lien-tuc-dai-nhat-the-gioi-5057295.html",
+      "summary": "Bao quanh toàn bộ đất nước với chiều dài hơn 14.500km, con đường này được Guinness công nhận là đường liên tục dài nhất thế giới. Bạn có biết nó nằm ở đâu?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T14:00:00+07:00",
+      "fetched": "2026-04-01T21:57:04.943372+07:00"
+    },
+    {
+      "id": "be99ca233e038dce177e7688cb45d450",
+      "title": "Hà Nội đề xuất nới quy định cấm với ô tô tải pickup trong giờ cao điểm",
+      "link": "https://thanhnien.vn/ha-noi-de-xuat-noi-quy-dinh-cam-voi-o-to-tai-pickup-trong-gio-cao-diem-185260401203202089.htm",
+      "summary": "Sở Xây dựng đã đề xuất Hà Nội xem xét, cho phép ô tô tải pickup được phép lưu thông như ô tô con trên địa bàn thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T14:00:00+07:00",
+      "fetched": "2026-04-01T21:57:08.188257+07:00"
+    },
+    {
+      "id": "19fea8c4a92c23b8acbe057d6cd5bdb8",
+      "title": "Đại tướng Phan Văn Giang: Đẩy mạnh chế tạo vũ khí hiện đại",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-day-manh-che-tao-vu-khi-hien-dai-185260401202608302.htm",
+      "summary": "Ngày 1.4, tại Hà Nội, đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng chủ trì hội nghị lãnh đạo Bộ Quốc phòng làm việc với Tổng cục Công nghiệp quốc phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:58:00+07:00",
+      "fetched": "2026-04-01T21:57:08.188413+07:00"
+    },
+    {
+      "id": "fa502efbbb6d801e15256439ebe651dd",
+      "title": "Cần tìm người xây dựng gia đình nhỏ",
+      "link": "https://vnexpress.net/can-tim-nguoi-xay-dung-gia-dinh-nho-5057057.html",
+      "summary": "Hiện tại công việc của em tạm ổn định nên em mong muốn tìm một người cùng em xây dựng gia đình nhỏ cho riêng mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:52:30+07:00",
+      "fetched": "2026-04-01T21:57:04.943485+07:00"
+    },
+    {
+      "id": "249ab409df620b88d1056217b4e26847",
+      "title": "Nam 31 tuổi tìm bạn đồng hành giữa Sài Gòn nhộn nhịp",
+      "link": "https://vnexpress.net/nam-31-tuoi-tim-ban-dong-hanh-giua-sai-gon-nhon-nhip-5057072.html",
+      "summary": "Mình sinh năm 1995, quê ở Hải Phòng nhưng mình sinh ra và lớn lên tại Bình Dương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:52:18+07:00",
+      "fetched": "2026-04-01T21:57:04.943581+07:00"
+    },
+    {
+      "id": "ce54fd083952584f9db04fb419b9c298",
+      "title": "Tìm người đàn ông bao dung và quyết đoán",
+      "link": "https://vnexpress.net/tim-nguoi-dan-ong-bao-dung-va-quyet-doan-5057073.html",
+      "summary": "Chào anh, em là một cô gái ngay thẳng, sống tại TP HCM từ năm 2007.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:52:09+07:00",
+      "fetched": "2026-04-01T21:57:04.943673+07:00"
+    },
+    {
+      "id": "2d412ddd9e3968d2a544b5c13fcb7d37",
+      "title": "Mong gặp chàng trai trầm ổn, phóng khoáng, sống đạo đức",
+      "link": "https://vnexpress.net/mong-gap-chang-trai-tram-on-phong-khoang-song-dao-duc-5057056.html",
+      "summary": "Thấy có nhiều đôi nên duyên từ nơi đây, hôm nay em mạnh dạn gửi thư lên đây, mong rằng sẽ tìm được người phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:51:59+07:00",
+      "fetched": "2026-04-01T21:57:04.943765+07:00"
+    },
+    {
+      "id": "5102aeb7b609d298884e86a753e15cef",
+      "title": "Quốc hội đánh giá cao điều hành của Chính phủ",
+      "link": "https://vnexpress.net/quoc-hoi-danh-gia-cao-dieu-hanh-cua-chinh-phu-5057342.html",
+      "summary": "Các đại biểu Quốc hội ghi nhận Chính phủ điều hành linh hoạt, hiệu quả trong nhiệm kỳ 2021-2025, vượt qua nhiều biến động lớn và cơ bản hoàn thành các mục tiêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:48:57+07:00",
+      "fetched": "2026-04-01T21:57:04.943958+07:00"
+    },
+    {
+      "id": "e479f322c15b0cdaf20a9dd76f11c4dc",
+      "title": "Đề xuất xe bán tải được lưu thông như xe con",
+      "link": "https://vnexpress.net/de-xuat-xe-ban-tai-duoc-luu-thong-nhu-xe-con-5057364.html",
+      "summary": "Liên ngành Sở Xây dựng và Công an đề xuất UBND thành phố điều chỉnh Quyết định 01/2026, không hạn chế giờ hoạt động xe bán tải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:48:45+07:00",
+      "fetched": "2026-04-01T21:57:04.944130+07:00"
+    },
+    {
+      "id": "e00d2d7295296052606248b16aee04a6",
+      "title": "Hé lộ thiết kế thư viện ông Trump: tạc tượng vàng, đặt chuyên cơ Không lực Một",
+      "link": "https://thanhnien.vn/he-lo-thiet-ke-thu-vien-ong-trump-tac-tuong-vang-dat-chuyen-co-khong-luc-mot-185260401195750823.htm",
+      "summary": "Tổng thống Mỹ Donald Trump vừa gây xôn xao khi hé lộ thiết kế thư viện tổng thống sẽ được xây tại bang Florida, với điểm nhấn là hai bức tượng vàng khổng lồ tạc hình chính mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:45:00+07:00",
+      "fetched": "2026-04-01T21:57:08.188568+07:00"
+    },
+    {
+      "id": "8dc6d67c0b15e44542391f5d8ea1be93",
+      "title": "Hà Nội đề xuất 'giải cứu' xe bán tải, cho phép lưu thông như ô tô con",
+      "link": "https://thanhnien.vn/ha-noi-de-xuat-giai-cuu-xe-ban-tai-cho-phep-luu-thong-nhu-o-to-con-185260401202043338.htm",
+      "summary": "Liên ngành Sở Xây dựng - CATP Hà Nội mới đây đề xuất điều chỉnh lại quy định về hạn chế phương tiện di chuyển theo khung giờ trong nội đô, theo hướng linh hoạt hơn, cho phép xe bán tải lưu thông tương tự ô tô con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:44:00+07:00",
+      "fetched": "2026-04-01T21:57:08.188722+07:00"
+    },
+    {
+      "id": "680f12446adde8609c054060b74970d2",
+      "title": "Tổng thống Mỹ nói Iran đề nghị ngừng bắn",
+      "link": "https://vnexpress.net/tong-thong-my-noi-iran-de-nghi-ngung-ban-5057377.html",
+      "summary": "Ông Trump nói \"tổng thống chế độ mới của Iran\" đã đề nghị ngừng bắn, nhưng Mỹ chỉ xem xét điều này khi eo biển Hormuz mở cửa trở lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:40:43+07:00",
+      "fetched": "2026-04-01T21:57:04.944288+07:00"
+    },
+    {
+      "id": "680f12446adde8609c054060b74970d2",
+      "title": "Tổng thống Mỹ nói Iran đề nghị ngừng bắn",
+      "link": "https://vnexpress.net/tong-thong-my-noi-iran-de-nghi-ngung-ban-5057377.html",
+      "summary": "Ông Trump nói \"tổng thống chế độ mới của Iran\" đã đề nghị ngừng bắn, nhưng Mỹ chỉ xem xét điều này khi eo biển Hormuz mở cửa trở lại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-01T13:40:43+07:00",
+      "fetched": "2026-04-01T21:57:11.108169+07:00"
+    },
+    {
+      "id": "2b311ce449a99c9cb64bc2de92b3bb25",
+      "title": "Golden Gate gánh khoản lỗ gần 74 tỷ đồng sau khi mua The Coffee House",
+      "link": "https://vnexpress.net/golden-gate-ganh-khoan-lo-gan-74-ty-dong-sau-khi-mua-the-coffee-house-5057262.html",
+      "summary": "Chi gần 244 tỷ đồng mua The Coffee House, Tập đoàn Golden Gate đang gánh khoản lỗ 73,7 tỷ đồng từ chuỗi cà phê này năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:36:01+07:00",
+      "fetched": "2026-04-01T21:57:04.944444+07:00"
+    },
+    {
+      "id": "2b311ce449a99c9cb64bc2de92b3bb25",
+      "title": "Golden Gate gánh khoản lỗ gần 74 tỷ đồng sau khi mua The Coffee House",
+      "link": "https://vnexpress.net/golden-gate-ganh-khoan-lo-gan-74-ty-dong-sau-khi-mua-the-coffee-house-5057262.html",
+      "summary": "Chi gần 244 tỷ đồng mua The Coffee House, Tập đoàn Golden Gate đang gánh khoản lỗ 73,7 tỷ đồng từ chuỗi cà phê này năm 2025.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-01T13:36:01+07:00",
+      "fetched": "2026-04-01T21:57:12.930343+07:00"
+    },
+    {
+      "id": "cf1c5746ebf69c58d4448634ca876e47",
+      "title": "Từ đam mê đến sự nghiệp toàn cầu: Vì sao Quốc tế học thu hút người trẻ?",
+      "link": "https://thanhnien.vn/tu-dam-me-den-su-nghiep-toan-cau-vi-sao-quoc-te-hoc-thu-hut-nguoi-tre-185260401184658296.htm",
+      "summary": "Trong bối cảnh hội nhập thế giới và cơ hội làm việc quốc tế ngày càng phổ biến, ngành Quốc tế học đang được nhìn nhận như một lựa chọn đúng đắn cho những bạn trẻ muốn phát triển sở thích thành năng lực và định hướng nghề nghiệp dài hạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:30:00+07:00",
+      "fetched": "2026-04-01T21:57:08.188898+07:00"
+    },
+    {
+      "id": "959becc6c8ea143841771a8b391cc4e7",
+      "title": "iPhone kỷ niệm 20 năm lộ diện với thiết kế cong, viền mỏng nhất lịch sử",
+      "link": "https://thanhnien.vn/iphone-ky-niem-20-nam-lo-dien-voi-thiet-ke-cong-vien-mong-nhat-lich-su-18526040110093577.htm",
+      "summary": "iPhone 20 sẽ mang hình dáng của iPhone X nhưng sở hữu công nghệ mà nhiều người hâm mộ mong chờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:29:00+07:00",
+      "fetched": "2026-04-01T21:57:08.189067+07:00"
+    },
+    {
+      "id": "c7550e9d04e34213bcea6bfd8e8cf102",
+      "title": "Cả nước có gần 15 triệu ha rừng, Lâm Đồng đứng đầu về diện tích",
+      "link": "https://vnexpress.net/ca-nuoc-co-gan-15-trieu-ha-rung-lam-dong-dung-dau-ve-dien-tich-5057320.html",
+      "summary": "Việt Nam có hơn 14,9 triệu ha rừng, tỷ lệ che phủ trên 42%; trong đó Lâm Đồng là địa phương có diện tích rừng lớn nhất, vượt 1,12 triệu ha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:28:38+07:00",
+      "fetched": "2026-04-01T21:57:04.944600+07:00"
+    },
+    {
+      "id": "1dad7d51f74361a82c2eb73e7f250c1e",
+      "title": "Highlight The National University of Malaysia 2-0 Nha Trang University | TNIFST2026 THACO Cup",
+      "link": "https://thanhnien.vn/highlight-the-national-university-of-malaysia-2-0-nha-trang-university-tnifst2026-thaco-cup-185260401202001073.htm",
+      "summary": "Bị dồn vào thế buộc phải thắng, Trường ĐH Quốc gia Malaysia đã thể hiện đúng đẳng cấp với thế trận áp đảo, đánh bại Trường ĐH Nha Trang 2-0 để giành ngôi đầu bảng A, trong khi đội chủ nhà vẫn đủ điều kiện đi tiếp vào bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:24:00+07:00",
+      "fetched": "2026-04-01T21:57:08.189226+07:00"
+    },
+    {
+      "id": "ece7fc670bf443b8f97540ba21807d0a",
+      "title": "Lâm Đồng sẽ bàn giao gần 1.900 căn nhà xã hội năm nay",
+      "link": "https://vnexpress.net/lam-dong-se-ban-giao-gan-1-900-can-nha-xa-hoi-nam-nay-5057354.html",
+      "summary": "Tỉnh Lâm Đồng phấn đấu xây xong 1.899 căn nhà ở xã hội nhằm tăng nguồn cung cho người thu nhập thấp, công nhân lao động các khu công nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:22:27+07:00",
+      "fetched": "2026-04-01T21:57:04.944782+07:00"
+    },
+    {
+      "id": "e516438ce7229cbf0d371003d21733ae",
+      "title": "Lãnh tụ Tối cao Iran đăng thông điệp ca ngợi Hezbollah",
+      "link": "https://vnexpress.net/lanh-tu-toi-cao-iran-dang-thong-diep-ca-ngoi-hezbollah-5057362.html",
+      "summary": "Lãnh tụ Tối cao Iran Mojtaba Khamenei gửi thông điệp tới thủ lĩnh Hezbollah, ca ngợi nhóm này và khẳng định sẽ tiếp tục ủng hộ họ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:20:22+07:00",
+      "fetched": "2026-04-01T21:57:04.944962+07:00"
+    },
+    {
+      "id": "e516438ce7229cbf0d371003d21733ae",
+      "title": "Lãnh tụ Tối cao Iran đăng thông điệp ca ngợi Hezbollah",
+      "link": "https://vnexpress.net/lanh-tu-toi-cao-iran-dang-thong-diep-ca-ngoi-hezbollah-5057362.html",
+      "summary": "Lãnh tụ Tối cao Iran Mojtaba Khamenei gửi thông điệp tới thủ lĩnh Hezbollah, ca ngợi nhóm này và khẳng định sẽ tiếp tục ủng hộ họ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-01T13:20:22+07:00",
+      "fetched": "2026-04-01T21:57:11.108346+07:00"
+    },
+    {
+      "id": "e8b19c1b7bb485a7848ddb380ed73898",
+      "title": "Thiết bị trong tương lai có thể mở khóa bằng 'hộp sọ'",
+      "link": "https://thanhnien.vn/thiet-bi-trong-tuong-lai-co-the-mo-khoa-bang-hop-so-185260401181458135.htm",
+      "summary": "Sau vân tay hay khuôn mặt, nếu nghĩ rằng việc mở khóa thiết bị không thể cá nhân hóa hơn nữa, người dùng hãy nghĩ lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:16:00+07:00",
+      "fetched": "2026-04-01T21:57:08.189379+07:00"
+    },
+    {
+      "id": "b1f72ecc754db35c99f2665c7da402c2",
+      "title": "Dân dự án điện hạt nhân được hỗ trợ thuê nhà 5 triệu đồng mỗi tháng",
+      "link": "https://vnexpress.net/dan-du-an-dien-hat-nhan-duoc-ho-tro-thue-nha-5-trieu-dong-moi-thang-5057339.html",
+      "summary": "Người có đất ở bị thu hồi làm dự án điện hạt nhân Ninh Thuận 1 và 2 được bố trí nhà tạm hoặc nhận hỗ trợ thuê nhà, tối đa 5 triệu đồng/tháng trong thời gian chờ tái định cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:08:04+07:00",
+      "fetched": "2026-04-01T21:57:04.945120+07:00"
+    },
+    {
+      "id": "a2e9d097815d6f79d43a0a8fc7178d37",
+      "title": "300 tấn lợn bệnh tuồn vào trường, Bộ Y tế 'siết' bếp ăn tập thể",
+      "link": "https://vnexpress.net/300-tan-lon-benh-tuon-vao-truong-bo-y-te-siet-bep-an-tap-the-5057356.html",
+      "summary": "Bộ Y tế đề nghị các địa phương tăng cường kiểm tra, giám sát bếp ăn tập thể sau khi công an phát hiện 300 tấn thịt lợn dịch tả châu Phi tuồn vào trường học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:03:41+07:00",
+      "fetched": "2026-04-01T21:57:04.945290+07:00"
+    },
+    {
+      "id": "b27f80b093c86674dbffe9628e6410f7",
+      "title": "Xem nhanh 20h ngày 1.4: Cách 300 tấn thịt lợn bệnh lọt vào trường học ở Hà Nội | Đề nghị truy tố ông trùm sản xuất kẹo Kera",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-14-cach-300-tan-thit-lon-benh-lot-vao-truong-hoc-o-ha-noi-de-nghi-truy-to-ong-trum-san-xuat-keo-kera-185260401192745245.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 1.4 có nhiều tin tức đáng chú ý về: Cách 300 tấn thịt lợn bệnh lọt cửa kiểm dịch, vào trường học ở Hà Nội; đề nghị truy tố ông ‘trùm’ sản xuất kẹo Kera giả cho hoa hậu Thùy Tiên;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:00:00+07:00",
+      "fetched": "2026-04-01T21:57:08.189537+07:00"
+    },
+    {
+      "id": "5dc19d21291807ce5713f61278fed866",
+      "title": "Nghệ sĩ Thanh Thủy phải dùng thuốc ngủ khi đóng phim,  tiết lộ cuộc sống ở tuổi 63",
+      "link": "https://thanhnien.vn/nghe-si-thanh-thuy-phai-dung-thuoc-ngu-khi-dong-phim-tiet-lo-cuoc-song-o-tuoi-63-185260401022029883.htm",
+      "summary": "Ở tuổi 63, nghệ sĩ Thanh Thủy vẫn miệt mài với hoạt động nghệ thuật và ấp ủ những ước mơ bình dị. Mới đây, nữ nghệ sĩ thu hút sự chú ý khi tiết lộ phải dùng đến thuốc ngủ trong quá trình tham gia dự án điện ảnh 'Heo 5 móng' do Lưu Thành Luân đạo diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:00:00+07:00",
+      "fetched": "2026-04-01T21:57:08.189693+07:00"
+    },
+    {
+      "id": "c68008ffa94d1b38469ae47682fee836",
+      "title": "Người Việt ở Mỹ lần đầu 'tác nghiệp' ở trận derby 'nóng' nhất Texas",
+      "link": "https://thanhnien.vn/nguoi-viet-o-my-lan-dau-tac-nghiep-o-tran-derby-nong-nhat-texas-185260331160847111.htm",
+      "summary": "Từ lời mời bất ngờ, tôi - một người Việt ở Mỹ lần đầu 'tác nghiệp' trong trận derby giữa FC Dallas và Houston Dynamo, trải nghiệm không khí bóng đá sôi động tại xứ cờ hoa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T13:00:00+07:00",
+      "fetched": "2026-04-01T21:57:08.189848+07:00"
+    },
+    {
+      "id": "c6af979cb3f688e54eadb5f828dca69e",
+      "title": "Người dân Tehran níu giữ bình yên giữa vòng vây bom đạn",
+      "link": "https://vnexpress.net/nguoi-dan-tehran-niu-giu-binh-yen-giua-vong-vay-bom-dan-5057092.html",
+      "summary": "Đối với Fatemeh, cư dân Tehran, được đi uống cà phê buổi sáng là mong ước giản dị nhất trong bối cảnh thành phố liên tục chìm trong khói lửa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-01T13:00:00+07:00",
+      "fetched": "2026-04-01T21:57:11.108511+07:00"
     },
     {
       "id": "50f4e3266e95500c25385b4d3c4d95a0",
