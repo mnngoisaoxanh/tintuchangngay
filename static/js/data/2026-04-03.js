@@ -1,6 +1,6 @@
 window.newsData_2026_04_03 = {
   "date": "2026-04-03",
-  "lastUpdated": "2026-04-03T03:26:02.334350+07:00",
+  "lastUpdated": "2026-04-03T05:23:31.409967+07:00",
   "articles": [
     {
       "id": "b86c21f47ebcb41bfd9e0b880bb32d12",
@@ -153,6 +153,126 @@ window.newsData_2026_04_03 = {
       "fetched": "2026-04-03T01:42:36.437169+07:00"
     },
     {
+      "id": "5d8e7eaf1429f69d9d007d742908a21a",
+      "title": "Chủ quán ăn dùng gas xen củi để giữ giá",
+      "link": "https://thanhnien.vn/chu-quan-an-dung-gas-xen-cui-de-giu-gia-185260402200439712.htm",
+      "summary": "Nhiều hộ kinh doanh, buôn bán nhỏ lẻ cho hay, ngay từ đầu tháng 4.2026, giá gas liên tục tăng mạnh đã khiến họ buộc phải xoay xở, tìm đủ cách để tiết giảm chi phí nhằm duy trì hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T22:20:00+07:00",
+      "fetched": "2026-04-03T05:23:21.868123+07:00"
+    },
+    {
+      "id": "f34a6b216e3f10f7a3f0dfd882f50d6a",
+      "title": "Tử vi ngày 3 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-3-thang-4-con-giap-nao-may-man-hom-nay-185260402224944417.htm",
+      "summary": "Tử vi ngày 3 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm đáng chú ý là sự phân hóa nhịp độ, có người tiến rất nhanh, có người cần chậm lại để tránh sai sót. Tài lộc hôm nay thế nào không nằm ở việc làm nhiều, mà ở việc bạn chọn đúng thời điểm để hành động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T22:15:00+07:00",
+      "fetched": "2026-04-03T05:23:21.868333+07:00"
+    },
+    {
+      "id": "4c2deabc2025ac61623000545b023c35",
+      "title": "Chiến sự Ukraine ngày 1.499: Thông tin trái chiều về Luhansk",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1499-thong-tin-trai-chieu-ve-luhansk-185260402195653411.htm",
+      "summary": "The Kyiv Independent hôm 2.4 dẫn lời quân đội Ukraine bác bỏ tuyên bố trước đó của Nga rằng lực lượng nước này đã thành công kiểm soát toàn bộ tỉnh Luhansk ở miền đông Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T22:10:00+07:00",
+      "fetched": "2026-04-03T05:23:21.868520+07:00"
+    },
+    {
+      "id": "544127b16e35b836e763e252776e72c0",
+      "title": "Mỹ - Iran và cuộc chiến ăn miếng trả miếng",
+      "link": "https://thanhnien.vn/my-iran-va-cuoc-chien-an-mieng-tra-mieng-185260402215830942.htm",
+      "summary": "Hôm qua, Iran đe dọa giáng những đòn \"tấn công hủy diệt\" nhằm vào Mỹ và Israel, đồng thời phóng tên lửa về hướng Tel Aviv sau khi Tổng thống Mỹ Donald Trump phát biểu trước toàn dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T22:00:00+07:00",
+      "fetched": "2026-04-03T05:23:21.868687+07:00"
+    },
+    {
+      "id": "937a412968dff454982eb8f435065494",
+      "title": "Thu nhập vãng lai 3 triệu đồng/lần bị trừ thuế 10% chưa hợp lý?",
+      "link": "https://thanhnien.vn/thu-nhap-vang-lai-3-trieu-dong-lan-bi-tru-thue-10-chua-hop-ly-185260402214113281.htm",
+      "summary": "Theo các chuyên gia, với nhóm lao động thời vụ, việc bị khấu trừ ngay 10% thuế thu nhập cá nhân khi nhận thu nhập từ 3 triệu đồng/lần trở lên có thể tạo áp lực dòng tiền, trong khi thủ tục hoàn thuế còn phức tạp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T22:00:00+07:00",
+      "fetched": "2026-04-03T05:23:21.868844+07:00"
+    },
+    {
+      "id": "da19227b4b18afbadbbfc2a0c8abf48c",
+      "title": "Người giữ 'hồn thiêng' nơi đại ngàn",
+      "link": "https://thanhnien.vn/nguoi-giu-hon-thieng-noi-dai-ngan-185260402210802538.htm",
+      "summary": "Ở tuổi thất thập, nghệ nhân Váng Vần Séng (thôn Cốc Coọc, xã Pà Vầy Sủ, tỉnh Tuyên Quang) vẫn ngày đêm miệt mài 'giữ lửa' và truyền dạy thanh âm truyền thống của cha ông, để 'hồn thiêng' của đại ngàn không bị mai một theo thời gian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T22:00:00+07:00",
+      "fetched": "2026-04-03T05:23:21.868998+07:00"
+    },
+    {
+      "id": "30fd4e7d76cd602332d15c6a3917f475",
+      "title": "Hôm nay 3.4 là ngày gì? Còn mấy ngày nữa tới Tết Thanh minh?",
+      "link": "https://thanhnien.vn/hom-nay-34-la-ngay-gi-con-may-ngay-nua-toi-tet-thanh-minh-185260402104701802.htm",
+      "summary": "Theo lịch âm, lịch vạn niên, hôm nay 3.4 được nhiều người quan tâm. Ngày này cũng báo hiệu Tết Thanh minh, một ngày quan trọng trong văn hóa người Việt đang đến rất gần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T22:00:00+07:00",
+      "fetched": "2026-04-03T05:23:21.869150+07:00"
+    },
+    {
+      "id": "3148b1b8cb75601e44f8e4f255e8017a",
+      "title": "Tình hình Iran, Trung Đông mới nhất sáng 3.4",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-sang-34-185260402204606824.htm",
+      "summary": "Tổng thư ký Liên Hiệp Quốc cảnh báo cuộc xung đột ở Trung Đông có nguy cơ leo thang thành một cuộc chiến rộng lớn hơn có thể nhấn chìm khu vực với những tác động nghiêm trọng trên toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:30:00+07:00",
+      "fetched": "2026-04-03T05:23:21.869343+07:00"
+    },
+    {
+      "id": "37aaad0a687600544e65f55d099a5b8a",
+      "title": "Bữa sáng với món này, giúp duy trì năng lượng nhiều giờ",
+      "link": "https://thanhnien.vn/an-bua-sang-voi-mon-nay-giup-ban-nang-dong-ca-ngay-185260402233148538.htm",
+      "summary": "Không cần bữa sáng cầu kỳ, chỉ cần chọn đúng món sẽ giúp duy trì năng lượng ổn định nhiều giờ. Nhiều chuyên gia khuyến nghị yến mạch trộn sữa chua và trái cây là lựa chọn đơn giản, giàu dinh dưỡng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:08:00+07:00",
+      "fetched": "2026-04-03T05:23:21.869502+07:00"
+    },
+    {
+      "id": "e9cec382acd953e73ba3b5393cb9ba72",
+      "title": "Ukraine bác tin Nga kiểm soát hoàn toàn Luhansk",
+      "link": "https://thanhnien.vn/ukraine-bac-tin-nga-kiem-soat-hoan-toan-luhansk-185260402205409626.htm",
+      "summary": "Quân đội Ukraine ngày 2.4 bác bỏ tuyên bố của Nga về việc đã kiểm soát hoàn toàn tỉnh Luhansk (miền đông Ukraine), cho rằng đây là thông tin mang tính tuyên truyền, theo The Kyiv Independent.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:02:00+07:00",
+      "fetched": "2026-04-03T05:23:21.869654+07:00"
+    },
+    {
+      "id": "f362aba1627d2c7824082f67ef6523c5",
+      "title": "Người phụ nữ đi xe máy vượt ẩu, ngã sấp trước đầu ôtô",
+      "link": "https://vnexpress.net/nguoi-phu-nu-di-xe-may-vuot-au-nga-sap-truoc-dau-oto-5057436.html",
+      "summary": "Vượt ẩu, người phụ nữ bị móc vào đồ vật của người đi xe máy bên cạnh, ngã sõng xoài trước đầu ôtô, hôm 31/3 tại Võ Văn Kiệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:00:00+07:00",
+      "fetched": "2026-04-03T05:23:18.684356+07:00"
+    },
+    {
+      "id": "28436aa65e65bf72598e4eb4f7bc6327",
+      "title": "Màn đấu trí giữa ông Hoàng Anh Tuấn và 'tướng' 9X",
+      "link": "https://thanhnien.vn/man-dau-tri-giua-ong-hoang-anh-tuan-va-tuong-9x-185260402210055425.htm",
+      "summary": "Tâm điểm bán kết TNSV quốc tế 2026 - cúp THACO là màn so tài giữa Trường ĐH Nha Trang và Trường ĐH Thủy lợi, nơi GĐKT Hoàng Anh Tuấn của chủ nhà giải đấu đọ sức với Trương Minh Đức, nhà cầm quân sinh năm 1995 mới gia nhập cuộc chơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:52:00+07:00",
+      "fetched": "2026-04-03T05:23:21.869811+07:00"
+    },
+    {
       "id": "8ca982742c2497a68589693040a8cd35",
       "title": "Ăn ít nhưng vẫn tăng cân: 4 lý do ít ai ngờ",
       "link": "https://thanhnien.vn/an-it-nhung-van-tang-can-4-ly-do-it-ai-ngo-185260402142358349.htm",
@@ -161,6 +281,16 @@ window.newsData_2026_04_03 = {
       "category": "Tổng hợp",
       "published": "2026-04-02T20:05:00+07:00",
       "fetched": "2026-04-03T03:25:52.802774+07:00"
+    },
+    {
+      "id": "f49d7367087bab7fc56a64d332c2c234",
+      "title": "Miranda Kerr không lo lắng việc già đi",
+      "link": "https://vnexpress.net/miranda-kerr-khong-lo-lang-viec-gia-di-5057450.html",
+      "summary": "Cựu \"thiên thần nội y\" Miranda Kerr cho biết không quan tâm tuổi tác, hài lòng bản thân ở hiện tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:00:00+07:00",
+      "fetched": "2026-04-03T05:23:18.684536+07:00"
     },
     {
       "id": "7879c537b965b6406f1869c19de2bd38",
@@ -291,6 +421,16 @@ window.newsData_2026_04_03 = {
       "category": "Công nghệ",
       "published": "2026-04-02T17:09:45+07:00",
       "fetched": "2026-04-03T01:42:42.785716+07:00"
+    },
+    {
+      "id": "457782018a74307898bb3bbbbd89c4d5",
+      "title": "Meta sắp đóng cửa trang Messenger.com",
+      "link": "https://vnexpress.net/meta-sap-dong-cua-trang-messenger-com-5057883.html",
+      "summary": "Sau khi ngừng ứng dụng máy tính, Meta thông báo đóng cửa Messenger.com nhằm tập trung vào trang của Facebook và ứng dụng di động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T17:09:45+07:00",
+      "fetched": "2026-04-03T05:23:18.685525+07:00"
     },
     {
       "id": "a531878f3bcaed002ffe5c3c6a9cbfd2",
