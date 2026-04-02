@@ -1,7 +1,157 @@
 window.newsData_2026_04_02 = {
   "date": "2026-04-02",
-  "lastUpdated": "2026-04-02T19:50:35.471787+07:00",
+  "lastUpdated": "2026-04-02T21:47:14.617486+07:00",
   "articles": [
+    {
+      "id": "5f77c23e9da11e941adbbca979ffda4e",
+      "title": "Chủ tịch UBND TP.HCM chỉ đạo xử lý trách nhiệm nếu chậm trễ tiến độ dự án điện",
+      "link": "https://tuoitre.vn/chu-tich-ubnd-tp-hcm-chi-dao-xu-ly-trach-nhiem-neu-cham-tre-tien-do-du-an-dien-20260402175651794.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được yêu cầu các sở ngành, địa phương đẩy nhanh tiến độ các dự án điện, đồng thời chịu trách nhiệm nếu chậm trễ làm ảnh hưởng tiến độ bảo đảm cung ứng điện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.671754+07:00",
+      "fetched": "2026-04-02T21:47:06.671854+07:00"
+    },
+    {
+      "id": "60ec0e1e4ebb0d04a9adfdca4d37ed7c",
+      "title": "Yamaha Exciter sẽ có bản chạy điện?",
+      "link": "https://tuoitre.vn/yamaha-exciter-se-co-ban-chay-dien-2026040215552123.htm",
+      "summary": "Hình ảnh một mẫu 'Yamaha Exciter EV' bất ngờ lan truyền trên mạng xã hội, làm dấy lên đồn đoán về khả năng hãng sẽ điện hóa dòng xe côn tay đình đám tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.671646+07:00",
+      "fetched": "2026-04-02T21:47:06.671744+07:00"
+    },
+    {
+      "id": "dc34124db9f8a03fba5c285aa12d8667",
+      "title": "Hà Nội rào chắn đường Đặng Văn Ngữ, Trần Cung, Lê Duẩn... làm dự án chống ngập",
+      "link": "https://tuoitre.vn/ha-noi-rao-chan-duong-dang-van-ngu-tran-cung-le-duan-lam-du-an-chong-ngap-20260402174546422.htm",
+      "summary": "Hà Nội sẽ rào chắn loạt tuyến đường quan trọng như Đặng Văn Ngữ, Trần Cung, Lê Duẩn để thi công các dự án cấp bách chống ngập tại thủ đô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.671540+07:00",
+      "fetched": "2026-04-02T21:47:06.671636+07:00"
+    },
+    {
+      "id": "4567f1c4a7f24a69dc2e2814a72af25b",
+      "title": "Thêm Philippines được qua eo Hormuz, Iran mời các nước có nhu cầu tham gia thỏa thuận",
+      "link": "https://tuoitre.vn/them-philippines-duoc-qua-eo-hormuz-iran-moi-cac-nuoc-co-nhu-cau-tham-gia-thoa-thuan-20260402184815342.htm",
+      "summary": "Philippines cho biết Iran đã cam kết cho các tàu chở dầu của nước này được đi qua eo biển Hormuz an toàn, giữa lúc Manila đang đối mặt với khủng hoảng năng lượng do chiến sự Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.671435+07:00",
+      "fetched": "2026-04-02T21:47:06.671531+07:00"
+    },
+    {
+      "id": "13c8b43d2d836f51e2df4088a4b111aa",
+      "title": "MSB đồng hành viết tiếp vũ khúc tình tự",
+      "link": "https://tuoitre.vn/msb-dong-hanh-viet-tiep-vu-khuc-tinh-tu-20260402153243965.htm",
+      "summary": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB) đồng hành cùng Nhà hát Hồ Gươm đưa hai kiệt tác ballet ‘Kẹp hạt dẻ’ và ‘Romeo và Juliet’ do đoàn Russian State Ballet biểu diễn đến với công chúng Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.671329+07:00",
+      "fetched": "2026-04-02T21:47:06.671425+07:00"
+    },
+    {
+      "id": "74999b86a5f4461c60a93d2d0f11a5f8",
+      "title": "Thủ tướng phê chuẩn kết quả bầu Chủ tịch, Phó chủ tịch UBND cấp tỉnh nhiệm kỳ 2026-2031",
+      "link": "https://tuoitre.vn/thu-tuong-phe-chuan-ket-qua-bau-chu-tich-pho-chu-tich-ubnd-cap-tinh-nhiem-ky-2026-2031-2026040219025222.htm",
+      "summary": "Thủ tướng Phạm Minh Chính vừa phê chuẩn các kết quả bầu chức vụ Chủ tịch, Phó chủ tịch UBND các tỉnh, thành phố nhiệm kỳ 2026-2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.671224+07:00",
+      "fetched": "2026-04-02T21:47:06.671319+07:00"
+    },
+    {
+      "id": "c67504563ee391240fffb655b8a88f81",
+      "title": "Nguy cơ cao tốc Tân Phú - Bảo Lộc chậm tiến độ vì phải làm lại hồ sơ rừng",
+      "link": "https://tuoitre.vn/nguy-co-cao-toc-tan-phu-bao-loc-cham-tien-do-vi-phai-lam-lai-ho-so-rung-20260402162924662.htm",
+      "summary": "Cao tốc Tân Phú - Bảo Lộc đang vướng thủ tục chuyển mục đích sử dụng hơn 104ha rừng, khiến không thể bàn giao mặt bằng để thi công 32km đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.671117+07:00",
+      "fetched": "2026-04-02T21:47:06.671214+07:00"
+    },
+    {
+      "id": "059a115a8a12c3287bc109b95389bb92",
+      "title": "Cà Mau kiến nghị y tế TP.HCM hỗ trợ 'cầm tay chỉ việc' trong khám chữa bệnh",
+      "link": "https://tuoitre.vn/ca-mau-kien-nghi-y-te-tp-hcm-ho-tro-cam-tay-chi-viec-trong-kham-chua-benh-20260402174357502.htm",
+      "summary": "Ngày 2-4, Sở Y tế tỉnh Cà Mau và Sở Y tế TP.HCM đã chính thức ký kết thỏa thuận hợp tác về hỗ trợ phát triển y tế giai đoạn 2026-2030. Tỉnh Cà Mau mong muốn ngành y tế TP.HCM hỗ trợ “cầm tay chỉ việc” trong khám chữa bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.670995+07:00",
+      "fetched": "2026-04-02T21:47:06.671107+07:00"
+    },
+    {
+      "id": "d27eefcb14ea3cef0a09520b0140c3c1",
+      "title": "Côn Đảo được tặng máy sàng cát vệ sinh bãi biển tiền tỉ, công suất hơn 1,4ha mỗi giờ",
+      "link": "https://tuoitre.vn/con-dao-duoc-tang-may-sang-cat-ve-sinh-bai-bien-tien-ti-cong-suat-hon-1-4ha-moi-gio-20260402181506573.htm",
+      "summary": "Máy sàng cát vệ sinh bãi biển ở Côn Đảo có chiều rộng làm sạch 180cm, sâu 15cm và công suất hơn 1,4ha/h.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.670889+07:00",
+      "fetched": "2026-04-02T21:47:06.670986+07:00"
+    },
+    {
+      "id": "06341e910e8ab5f85b6b3eb50cb83ccc",
+      "title": "Hài cốt liệt sĩ được chôn cùng lọ thủy tinh chứa thông tin quý",
+      "link": "https://tuoitre.vn/hai-cot-liet-si-duoc-chon-cung-lo-thuy-tinh-chua-thong-tin-quy-20260402183355313.htm",
+      "summary": "Hai hài cốt liệt sĩ liên tiếp được Đội quy tập hài cốt liệt sĩ Đoàn Kinh tế - Quốc phòng 337 phát hiện, trong đó một hài cốt có lọ thủy tinh chứa thông tin được bảo quản cẩn thận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.670781+07:00",
+      "fetched": "2026-04-02T21:47:06.670880+07:00"
+    },
+    {
+      "id": "864887e39588b26eeb9723e784aaf9f9",
+      "title": "Công an TP.HCM phá đường dây ma túy liên tỉnh, bắt nhiều người trong một gia đình",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-pha-duong-day-ma-tuy-lien-tinh-bat-nhieu-nguoi-trong-mot-gia-dinh-20260402183440116.htm",
+      "summary": "Công an TP.HCM vừa triệt phá thành công chuyên án ma túy liên tỉnh mang bí số VA726D, bắt và khởi tố 26 bị can. Nhiều người trong đó cùng một gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.670671+07:00",
+      "fetched": "2026-04-02T21:47:06.670771+07:00"
+    },
+    {
+      "id": "9566d337ce01bcabb2deae13b75c26e6",
+      "title": "Tay đua Nguyễn Thị Thật bị hủy kết quả, mất chức vô địch tại Thái Lan theo cách khó ngờ",
+      "link": "https://tuoitre.vn/tay-dua-nguyen-thi-that-bi-huy-ket-qua-mat-chuc-vo-dich-tai-thai-lan-theo-cach-kho-ngo-20260402190053191.htm",
+      "summary": "Tại Giải xe đạp nữ Tour of Thailand diễn ra ở Thái Lan, cua rơ Việt Nam Nguyễn Thị Thật vuột mất áo vàng theo cách khó tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.670554+07:00",
+      "fetched": "2026-04-02T21:47:06.670654+07:00"
+    },
+    {
+      "id": "057dedf239a3b908dd67173405063f79",
+      "title": "Mưa bàn thắng ở buổi chiều nắng gắt khai mạc Giải U15 quốc gia",
+      "link": "https://tuoitre.vn/mua-ban-thang-o-buoi-chieu-nang-gat-khai-mac-giai-u15-quoc-gia-20260402170106274.htm",
+      "summary": "Trận khai mạc Vòng chung kết U15 quốc gia - Cúp Modern 2026 tại TP.HCM đã có đến 7 bàn thắng, với chiến thắng 4-3 của U15 Tây Ninh trước U15 TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.670440+07:00",
+      "fetched": "2026-04-02T21:47:06.670544+07:00"
+    },
+    {
+      "id": "f716100e8971b8de0c5703dbc4eea606",
+      "title": "Nga phóng gần 6.500 drone vào Ukraine, nhiều nhất trong 4 năm qua",
+      "link": "https://tuoitre.vn/nga-phong-gan-6-500-drone-vao-ukraine-nhieu-nhat-trong-4-nam-qua-20260402192318163.htm",
+      "summary": "Nga đã phóng ít nhất 6.462 drone tầm xa vào Ukraine trong tháng 3, mức cao nhất kể từ năm 2022.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.670316+07:00",
+      "fetched": "2026-04-02T21:47:06.670430+07:00"
+    },
+    {
+      "id": "906eb4d7861ccd231b304bb9df7dd124",
+      "title": "Bắt thêm 7 bị can liên quan vụ án tại Liên Hoa Bảo Tháp, kêu gọi 7 cá nhân còn lại đầu thú",
+      "link": "https://tuoitre.vn/bat-them-7-bi-can-lien-quan-vu-an-tai-lien-hoa-bao-thap-keu-goi-7-ca-nhan-con-lai-dau-thu-20260402193120173.htm",
+      "summary": "Công an TP Cần Thơ tiếp tục bắt tạm giam 7 bị can liên quan vụ dàn cảnh cướp giật tài sản tại khu vực tham quan khu Liên Hoa Bảo Tháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T21:47:06.670089+07:00",
+      "fetched": "2026-04-02T21:47:06.670303+07:00"
+    },
     {
       "id": "2128d778093be8ac0683c411debe9750",
       "title": "Nữ sinh 14 tuổi ở Đà Lạt mất tích sau giờ học thêm",
@@ -453,6 +603,136 @@ window.newsData_2026_04_02 = {
       "fetched": "2026-04-02T15:44:30.405000+07:00"
     },
     {
+      "id": "575365e0669baf962aaf5158e1db970c",
+      "title": "Nóng: Chủ tịch FIGC chính thức từ chức vì đội tuyển Ý không thể có vé dự World Cup 2026",
+      "link": "https://thanhnien.vn/nong-chu-tich-figc-chinh-thuc-tu-chuc-vi-doi-tuyen-y-khong-the-co-ve-du-world-cup-2026-185260402213519176.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá Ý (FIGC), ông Gabriele Gravina đã tuyên bố từ chức sau khi đội tuyển Ý chính thức lỡ hẹn với World Cup 2026, khép lại một nhiệm kỳ nhiều biến động và áp lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:39:00+07:00",
+      "fetched": "2026-04-02T21:47:05.319248+07:00"
+    },
+    {
+      "id": "5b66dd8dfcf64a793ee95c38efc5e23f",
+      "title": "Vụ giật dây chuyền ở Tân Huê Viên: Đã khởi tố 27 bị can",
+      "link": "https://thanhnien.vn/vu-giat-day-chuyen-o-tan-hue-vien-da-khoi-to-27-bi-can-185260402204801562.htm",
+      "summary": "Liên quan vụ giật dây chuyền ở Công ty Tân Huê Viên, đến nay, Công an thành phố Cần Thơ đã khởi tố 27 bị can và đang tiếp tục truy tìm nghi phạm lẩn trốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:39:00+07:00",
+      "fetched": "2026-04-02T21:47:05.319394+07:00"
+    },
+    {
+      "id": "51ab900bcdd1421a6404a7457b3e681e",
+      "title": "Không cần chiêu trò, đây là cách Tôn Lệ giữ danh xưng 'nữ hoàng rating' Trung Quốc",
+      "link": "https://thanhnien.vn/khong-can-chieu-tro-day-la-cach-ton-le-giu-danh-xung-nu-hoang-rating-trung-quoc-1852604021752094.htm",
+      "summary": "Không chạy theo hình ảnh hoàn hảo hay chiêu trò truyền thông, Tôn Lệ đã lựa chọn con đường riêng để duy trì vị thế hàng đầu trong làng phim truyền hình Trung Quốc suốt nhiều năm qua, Sohu đưa tin ngày 2.4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:36:00+07:00",
+      "fetched": "2026-04-02T21:47:05.319525+07:00"
+    },
+    {
+      "id": "206abb9c42090c29e3a111d1f29edaa8",
+      "title": "Cập nhật vụ dàn cảnh cướp giật tài sản ở Tân Huê Viên: 7 bị can vừa bị bắt là ai?",
+      "link": "https://thanhnien.vn/cap-nhat-vu-dan-canh-cuop-giat-tai-san-o-tan-hue-vien-7-bi-can-vua-bi-bat-la-ai-185260402202138861.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an thành phố Cần Thơ tiếp tục mở rộng điều tra vụ dàn cảnh cướp giật tại Tân Huê Viên, bắt tạm giam thêm 7 bị can, nâng tổng số đối tượng bị khởi tố lên 27.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:33:00+07:00",
+      "fetched": "2026-04-02T21:47:05.319650+07:00"
+    },
+    {
+      "id": "988d58d41f4e1a11190e6d844496e593",
+      "title": "Mức lương 'trên trời' của sao Hollywood trong các phim chiếu trực tuyến",
+      "link": "https://thanhnien.vn/muc-luong-tren-troi-cua-sao-hollywood-trong-cac-phim-chieu-truc-tuyen-185260402162039695.htm",
+      "summary": "Danh sách các ngôi sao Hollywood có cát sê cao nhất trong các dự án phim trực tuyến vừa được công bố, với những con số khiến công chúng không khỏi choáng ngợp, Sohu đưa tin ngày 2.4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:29:00+07:00",
+      "fetched": "2026-04-02T21:47:05.319778+07:00"
+    },
+    {
+      "id": "42c591a8fa4bc998d28ea45f29ffb0e3",
+      "title": "Trung Quốc thống trị ngành công nghiệp pin lithium",
+      "link": "https://thanhnien.vn/trung-quoc-thong-tri-nganh-cong-nghiep-pin-lithium-185260402150026697.htm",
+      "summary": "Nhu cầu sử dụng pin lithium ion đã tăng mạnh trong những năm gần đây, trong đó Trung Quốc đóng vai trò chủ chốt trong sự gia tăng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:26:00+07:00",
+      "fetched": "2026-04-02T21:47:05.319907+07:00"
+    },
+    {
+      "id": "8aad3b3f7e86f756922bab2f826bc85a",
+      "title": "Nga sẽ điều tàu dầu thứ hai đến Cuba",
+      "link": "https://vnexpress.net/nga-se-dieu-tau-dau-thu-hai-den-cuba-5057848.html",
+      "summary": "Nga thông báo sẽ triển khai tàu dầu thứ hai tới Cuba, trong lúc quốc gia này đang gặp khủng hoảng năng lượng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-02T14:18:33+07:00",
+      "fetched": "2026-04-02T21:47:08.304666+07:00"
+    },
+    {
+      "id": "534d89cb19d7196a48a41d0e821c0b98",
+      "title": "Giải mã mẹo gói chìa khóa xe ô tô vào giấy bạc để chống trộm",
+      "link": "https://thanhnien.vn/giai-ma-meo-goi-chia-khoa-xe-o-to-vao-giay-bac-de-chong-trom-185260402091647376.htm",
+      "summary": "Tại sao các chuyên gia an ninh khuyên chủ xe ô tô nên dùng giấy bạc để bọc chìa khóa?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:17:00+07:00",
+      "fetched": "2026-04-02T21:47:05.320033+07:00"
+    },
+    {
+      "id": "2e78b642829ceade89286d78185667b4",
+      "title": "Đặng Tụy Văn từng sống như 'người hầu' để nuôi ước mơ làm diễn viên",
+      "link": "https://thanhnien.vn/dang-tuy-van-tung-song-nhu-nguoi-hau-de-nuoi-uoc-mo-lam-dien-vien-185260402183843186.htm",
+      "summary": "Đặng Tụy Văn vừa tròn 60 tuổi, những năm gần đây tuy cô tập trung phát triển sự nghiệp ở Trung Quốc đại lục, nhưng những tác phẩm kinh điển từng thực hiện tại TVB vẫn thường được khán giả nhắc đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:16:00+07:00",
+      "fetched": "2026-04-02T21:47:05.320170+07:00"
+    },
+    {
+      "id": "968856a9edb4f3da06e09e671600a2eb",
+      "title": "Vì sao từ khóa về Chi Dân, An Tây được tìm kiếm 'đột biến'?",
+      "link": "https://thanhnien.vn/vi-sao-tu-khoa-ve-chi-dan-an-tay-duoc-tim-kiem-dot-bien-185260402210308051.htm",
+      "summary": "Từ khóa liên quan đến Chi Dân, An Tây được tìm kiếm tăng vọt sau khi Viện KSND TP.HCM truy tố 227 bị can từ vụ 4 tiếp viên hàng không xách ma túy từ Pháp về Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:10:00+07:00",
+      "fetched": "2026-04-02T21:47:05.320295+07:00"
+    },
+    {
+      "id": "1607dcb36e34ca68c004f8c83b08a96c",
+      "title": "Xe đầu kéo lật đè bẹp xe con và xe máy, 2 phụ nữ tử vong",
+      "link": "https://thanhnien.vn/xe-dau-keo-lat-de-bep-xe-con-va-xe-may-2-phu-nu-tu-vong-185260402205539095.htm",
+      "summary": "Chiếc xe đầu kéo lật nghiêng rồi đè bẹp xe con và xe máy đang lưu thông ngược chiều, khiến 2 phụ nữ tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:08:00+07:00",
+      "fetched": "2026-04-02T21:47:05.320419+07:00"
+    },
+    {
+      "id": "4284cef57eaf519a9472671ae2271035",
+      "title": "Nguyễn Thị Thật mất Áo Vàng chung cuộc Tour of Thái Lan",
+      "link": "https://vnexpress.net/nguyen-thi-that-mat-ao-vang-chung-cuoc-tour-of-thai-lan-5057841.html",
+      "summary": "Do phạm lỗi khi tung nước rút, cua-rơ Nguyễn Thị Thật bị tước Áo Vàng chung cuộc Tour of Thailand 2026 hôm nay 2/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-02T14:07:05+07:00",
+      "fetched": "2026-04-02T21:47:14.606620+07:00"
+    },
+    {
+      "id": "6fecc4ab206a85152fde07c1bc559ce8",
+      "title": "Clip nam đạo diễn bị hành hung đến chết gây phẫn nộ dư luận Hàn Quốc",
+      "link": "https://thanhnien.vn/clip-nam-dao-dien-bi-hanh-hung-den-chet-gay-phan-no-du-luan-han-quoc-185260402181712405.htm",
+      "summary": "Mới đây, truyền thông Hàn Quốc vừa phát sóng đoạn CCTV (video được ghi lại từ camera an ninh) ghi lại vụ hành hung dẫn đến cái chết thương tâm của đạo diễn Kim Chang Min. Những hình ảnh bạo lực này lập tức gây phẫn nộ dư luận xứ kim chi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:04:00+07:00",
+      "fetched": "2026-04-02T21:47:05.320544+07:00"
+    },
+    {
       "id": "c66424c0f7e8b953915825db2084cb8b",
       "title": "Đường kết nối Rạch Giá - Long Xuyên gần 16.000 tỉ đồng sẽ khởi công trong giai đoạn 2026-2027",
       "link": "https://tuoitre.vn/duong-ket-noi-rach-gia-long-xuyen-gan-16-000-ti-dong-se-khoi-cong-trong-giai-doan-2026-2027-20260402104635574.htm",
@@ -601,6 +881,176 @@ window.newsData_2026_04_02 = {
       "category": "Tổng hợp",
       "published": "2026-04-02T14:00:42.073195+07:00",
       "fetched": "2026-04-02T14:00:42.073398+07:00"
+    },
+    {
+      "id": "dcdda6fdd944de8936ab1ca91ebc26fb",
+      "title": "Toàn cảnh TNSV quốc tế 2.4: Vì sao HLV Vũ Văn Trung rời ‘ghế nóng’ | 4 đội dồn lực cho bán kết",
+      "link": "https://thanhnien.vn/toan-canh-tnsv-quoc-te-24-vi-sao-hlv-vu-van-trung-roi-ghe-nong-4-doi-don-luc-cho-ban-ket-185260402175758188.htm",
+      "summary": "Bản tin Toàn cảnh TNSV quốc tế 2026 THACO Cup ngày 2.4 trên Thanhnien.vn và kênh YouTube Báo Thanh Niên cập nhật những diễn biến mới nhất về các trận đấu, câu chuyện bên lề sân cỏ và lịch thi đấu sắp tới của giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:00:00+07:00",
+      "fetched": "2026-04-02T21:47:05.320680+07:00"
+    },
+    {
+      "id": "c7f38b3dde00054f115376cb3dff527b",
+      "title": "Ông Trump có thể đưa Mỹ rút khỏi NATO hay không?",
+      "link": "https://thanhnien.vn/ong-trump-co-the-dua-my-rut-khoi-nato-hay-khong-185260402173657835.htm",
+      "summary": "Tổng thống Donald Trump mới đây tiếp nối những ngôn từ chỉ trích khối quân sự NATO bằng lời đe dọa sẽ rút Mỹ khỏi liên minh này, sau khi các thành viên khác từ chối cử tàu chiến đến để giải tỏa eo biển Hormuz.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:00:00+07:00",
+      "fetched": "2026-04-02T21:47:05.320806+07:00"
+    },
+    {
+      "id": "8efaa345a63ad205d20b419e4c918995",
+      "title": "Kỹ thuật ghép đá 'không kẽ hở' tại di sản Thành Nhà Hồ",
+      "link": "https://vnexpress.net/ky-thuat-ghep-da-khong-ke-ho-tai-di-san-thanh-nha-ho-5057835.html",
+      "summary": "Không cần chất kết dính, những phiến đá 26 tấn vẫn đứng vững suốt 600 năm nhờ kỹ thuật đắp vòm bằng đất và xếp đá hình múi bưởi độc đáo, biến nơi đây thành pháo đài đá vô tiền khoáng hậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:47:35+07:00",
+      "fetched": "2026-04-02T21:47:02.384921+07:00"
+    },
+    {
+      "id": "85e171a0070d3be87e77eb9f5e94ef50",
+      "title": "'Đạo diễn' cho doanh nghiệp trúng thầu, cựu cục trưởng Môi trường nhận gần 35 tỷ đồng",
+      "link": "https://vnexpress.net/dao-dien-cho-doanh-nghiep-trung-thau-cuu-cuc-truong-moi-truong-nhan-gan-35-ty-dong-5057849.html",
+      "summary": "Cựu cục trưởng Môi trường Hoàng Văn Thức bị cáo buộc \"đạo diễn\" cho doanh nghiệp trúng thầu dự án quan trắc môi trường không khí và nhận 34,9 tỷ - tương đương 8%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:45:29+07:00",
+      "fetched": "2026-04-02T21:47:02.385092+07:00"
+    },
+    {
+      "id": "073a2ee02037ebaf0a6cadb4d063817f",
+      "title": "Ông Macron: Dùng vũ lực để mở eo biển Hormuz là 'phi thực tế'",
+      "link": "https://vnexpress.net/ong-macron-dung-vu-luc-de-mo-eo-bien-hormuz-la-phi-thuc-te-5057830.html",
+      "summary": "Tổng thống Pháp cho rằng phát động chiến dịch quân sự để mở cửa eo biển Hormuz là ý tưởng \"phi thực tế\" và cần phải có sự phối hợp với Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:45:14+07:00",
+      "fetched": "2026-04-02T21:47:02.385237+07:00"
+    },
+    {
+      "id": "073a2ee02037ebaf0a6cadb4d063817f",
+      "title": "Ông Macron: Dùng vũ lực để mở eo biển Hormuz là 'phi thực tế'",
+      "link": "https://vnexpress.net/ong-macron-dung-vu-luc-de-mo-eo-bien-hormuz-la-phi-thuc-te-5057830.html",
+      "summary": "Tổng thống Pháp cho rằng phát động chiến dịch quân sự để mở cửa eo biển Hormuz là ý tưởng \"phi thực tế\" và cần phải có sự phối hợp với Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-02T13:45:14+07:00",
+      "fetched": "2026-04-02T21:47:08.304822+07:00"
+    },
+    {
+      "id": "57401014fec722704699cc61d26719f5",
+      "title": "Hàng trăm người tìm kiếm hai bé trai mất tích trên biển",
+      "link": "https://vnexpress.net/hang-tram-nguoi-tim-kiem-hai-be-trai-mat-tich-tren-bien-5057847.html",
+      "summary": "Hai bé trai 12 tuổi mất tích khi tắm biển ở Thanh Hóa, lực lượng chức năng huy động hàng trăm người cùng nhiều phương tiện tìm kiếm suốt nhiều giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:43:48+07:00",
+      "fetched": "2026-04-02T21:47:02.385374+07:00"
+    },
+    {
+      "id": "285951944799b50e6fcefe449b6ecf9c",
+      "title": "Hà Lan thu hồi mũ vàng ròng 2.500 năm tuổi bị trộm",
+      "link": "https://thanhnien.vn/ha-lan-thu-hoi-mu-vang-rong-2500-nam-tuoi-bi-trom-185260402195933307.htm",
+      "summary": "AFP hôm nay 2.4 dẫn lời thám tử nghệ thuật Hà Lan Arthur Brand cho biết chiếc mũ vàng ròng 2.500 năm tuổi vô giá đến từ Romania đã được thu hồi thành công sau khi bị trộm khỏi viện bảo tàng Hà Lan hồi đầu năm ngoái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:43:00+07:00",
+      "fetched": "2026-04-02T21:47:05.320930+07:00"
+    },
+    {
+      "id": "48345fc1eac6dc8a40920ec727b41ab0",
+      "title": "Messi và Ronaldo gây sốt World Cup",
+      "link": "https://thanhnien.vn/messi-va-ronaldo-gay-sot-world-cup-185260402203135562.htm",
+      "summary": "Messi cùng Ronaldo và Mbappe, Vinicius xuất hiện chung trong một đoạn clip của thương hiệu đồ chơi nổi tiếng LEGO quảng bá chiếc cúp vô địch World Cup, gây sốt toàn cầu chỉ trong vài giờ ra mắt ngày 2.4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:39:00+07:00",
+      "fetched": "2026-04-02T21:47:05.321059+07:00"
+    },
+    {
+      "id": "ac6a72ad53e507fc5419f350cf14bc08",
+      "title": "'The Super Mario Galaxy Movie' gây thất vọng",
+      "link": "https://vnexpress.net/the-super-mario-galaxy-movie-gay-that-vong-5057530.html",
+      "summary": "\"The Super Mario Galaxy Movie\" bị giới chuyên môn đánh giá là bước lùi so với tập trước do nội dung thiếu chiều sâu, hình ảnh kém hấp dẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:30:00+07:00",
+      "fetched": "2026-04-02T21:47:02.385515+07:00"
+    },
+    {
+      "id": "95b8c9ce7cb0e4b801dd7a8b47948363",
+      "title": "Ba người trong tiệm sửa xe thoát nạn khi ôtô tải lao tới",
+      "link": "https://vnexpress.net/ba-nguoi-trong-tiem-sua-xe-thoat-nan-khi-oto-tai-lao-toi-5057845.html",
+      "summary": "Camera ghi lại cảnh ôtô tải lao thẳng vào tiệm sửa xe trên quốc lộ 1, sau khi tông một người đi đường và hàng loạt xe máy, khiến nhiều người hoảng loạn, chiều 2/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:19:04+07:00",
+      "fetched": "2026-04-02T21:47:02.385654+07:00"
+    },
+    {
+      "id": "52c26d84d88b8f1aadf5980abfe953ce",
+      "title": "Người dân nước nào dậy sớm nhất thế giới?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-day-som-nhat-the-gioi-5056887.html",
+      "summary": "Người dân nước này thuờng dậy lúc 6h20 vào ngày đi làm, sớm nhất thế giới. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:02:00+07:00",
+      "fetched": "2026-04-02T21:47:02.385784+07:00"
+    },
+    {
+      "id": "29ef8598db5197b12c6dcdac77b43812",
+      "title": "Ác mộng của những thủy thủ mắc kẹt tại eo biển Hormuz",
+      "link": "https://vnexpress.net/ac-mong-cua-nhung-thuy-thu-mac-ket-tai-eo-bien-hormuz-5057652.html",
+      "summary": "Gần 20.000 thủy thủ đang kẹt giữa vùng chiến sự tại eo biển Hormuz, đối mặt hiểm nguy chết người và nỗi lo sinh kế đè nặng lên vai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:01:02+07:00",
+      "fetched": "2026-04-02T21:47:02.385915+07:00"
+    },
+    {
+      "id": "29ef8598db5197b12c6dcdac77b43812",
+      "title": "Ác mộng của những thủy thủ mắc kẹt tại eo biển Hormuz",
+      "link": "https://vnexpress.net/ac-mong-cua-nhung-thuy-thu-mac-ket-tai-eo-bien-hormuz-5057652.html",
+      "summary": "Gần 20.000 thủy thủ đang kẹt giữa vùng chiến sự tại eo biển Hormuz, đối mặt hiểm nguy chết người và nỗi lo sinh kế đè nặng lên vai.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-02T13:01:02+07:00",
+      "fetched": "2026-04-02T21:47:08.304962+07:00"
+    },
+    {
+      "id": "b4bf39da24f6b78cfbfcb9e1cb960707",
+      "title": "Fujifilm hợp tác quản trị hình ảnh y tế số tập trung",
+      "link": "https://vnexpress.net/fujifilm-hop-tac-quan-tri-hinh-anh-y-te-so-tap-trung-5057837.html",
+      "summary": "Fujifilm Việt Nam ký hợp tác chiến lược với J.F. Advance Med, triển khai giải pháp quản trị hình ảnh y tế, nâng tầm quản trị y tế số tại Việt Nam, hôm 28/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:00:00+07:00",
+      "fetched": "2026-04-02T21:47:02.386045+07:00"
+    },
+    {
+      "id": "537fde4124379975356b33bb2bf044d9",
+      "title": "Vì sao người Nhật coi trọng sự yên tĩnh nhưng húp mì thành tiếng?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-nhat-coi-trong-su-yen-tinh-nhung-hup-mi-thanh-tieng-5057589.html",
+      "summary": "Tiếng húp mì xì xụp tại Nhật Bản hình thành từ nhiều thế kỷ trước, giúp thực khách tránh bỏng miệng, cảm nhận hương vị tốt hơn và thể hiện sự tán thưởng cho đầu bếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:00:00+07:00",
+      "fetched": "2026-04-02T21:47:02.386184+07:00"
+    },
+    {
+      "id": "6c9407e1fd55d046cb08ae349dc075d4",
+      "title": "Tuổi 37, tôi vẫn kiên nhẫn chờ người 'hợp chuyện' dù 5 hay 10 năm",
+      "link": "https://vnexpress.net/lay-chong-muon-tuoi-37-toi-van-kien-nhan-cho-nguoi-hop-chuyen-du-5-hay-10-nam-5057419.html",
+      "summary": "Chờ từ khi tóc còn xanh đến lúc tóc bạc cũng được, miễn khi ở bên người ấy, tôi được là chính mình, bình an và cùng nhau già đi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:00:00+07:00",
+      "fetched": "2026-04-02T21:47:02.386313+07:00"
     },
     {
       "id": "2cd362621d01e17858484dbb1aac52d6",
@@ -941,6 +1391,16 @@ window.newsData_2026_04_02 = {
       "category": "Kinh doanh",
       "published": "2026-04-02T11:40:26+07:00",
       "fetched": "2026-04-02T19:50:30.749776+07:00"
+    },
+    {
+      "id": "b015758fbef2f1862f4978c2abb717ab",
+      "title": "Dự án điện gió ngoài khơi, hydrogen xanh được bán tới 90% tín chỉ carbon",
+      "link": "https://vnexpress.net/du-an-dien-gio-ngoai-khoi-hydrogen-xanh-duoc-ban-toi-90-tin-chi-carbon-5057822.html",
+      "summary": "Các dự án công nghệ mới như điện gió ngoài khơi, hydrogen xanh được chuyển giao tới 90% tín chỉ carbon, theo Nghị định 112.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-02T11:40:26+07:00",
+      "fetched": "2026-04-02T21:47:09.740422+07:00"
     },
     {
       "id": "68fcdb2bce618a559271bc75c9486f6d",
