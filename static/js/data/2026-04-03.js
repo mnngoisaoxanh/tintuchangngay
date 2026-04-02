@@ -1,6 +1,6 @@
 window.newsData_2026_04_03 = {
   "date": "2026-04-03",
-  "lastUpdated": "2026-04-03T01:42:43.888230+07:00",
+  "lastUpdated": "2026-04-03T03:26:02.334350+07:00",
   "articles": [
     {
       "id": "b86c21f47ebcb41bfd9e0b880bb32d12",
@@ -151,6 +151,56 @@ window.newsData_2026_04_03 = {
       "category": "Tổng hợp",
       "published": "2026-04-03T01:42:36.436953+07:00",
       "fetched": "2026-04-03T01:42:36.437169+07:00"
+    },
+    {
+      "id": "8ca982742c2497a68589693040a8cd35",
+      "title": "Ăn ít nhưng vẫn tăng cân: 4 lý do ít ai ngờ",
+      "link": "https://thanhnien.vn/an-it-nhung-van-tang-can-4-ly-do-it-ai-ngo-185260402142358349.htm",
+      "summary": "Ăn ít chưa chắc đã giảm cân. Không ít người kiêng khem nghiêm ngặt nhưng cân nặng vẫn không giảm, thậm chí còn tăng lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:05:00+07:00",
+      "fetched": "2026-04-03T03:25:52.802774+07:00"
+    },
+    {
+      "id": "7879c537b965b6406f1869c19de2bd38",
+      "title": "Nảy lửa 2 cặp đấu bán kết",
+      "link": "https://thanhnien.vn/nay-lua-2-cap-dau-ban-ket-185260402210522115.htm",
+      "summary": "Hôm nay 3.4 trên sân Trường ĐH Nha Trang diễn ra 2 cặp bán kết hứa hẹn hấp dẫn của giải bóng đá Thanh Niên sinh viên (TNSV) quốc tế lần II - 2026 cúp THACO, trực tiếp trên FPT Play và các nền tảng của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T19:19:00+07:00",
+      "fetched": "2026-04-03T03:25:52.802970+07:00"
+    },
+    {
+      "id": "b62993008e94b5c7a9de9c00dbd7b10c",
+      "title": "Nghịch lý trong cuộc chiến xóa luật 'sinh ở Mỹ là công dân Mỹ'",
+      "link": "https://vnexpress.net/nghich-ly-trong-cuoc-chien-xoa-luat-sinh-o-my-la-cong-dan-my-5057774.html",
+      "summary": "Ông Trump muốn dùng sắc lệnh để chấm dứt quyền tự động cấp quốc tịch cho trẻ sinh tại Mỹ, nhưng đa số cử tri, kể cả phe Cộng hòa, lại ủng hộ duy trì chính sách này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T19:00:00+07:00",
+      "fetched": "2026-04-03T03:25:49.509496+07:00"
+    },
+    {
+      "id": "b62993008e94b5c7a9de9c00dbd7b10c",
+      "title": "Nghịch lý trong cuộc chiến xóa luật 'sinh ở Mỹ là công dân Mỹ'",
+      "link": "https://vnexpress.net/nghich-ly-trong-cuoc-chien-xoa-luat-sinh-o-my-la-cong-dan-my-5057774.html",
+      "summary": "Ông Trump muốn dùng sắc lệnh để chấm dứt quyền tự động cấp quốc tịch cho trẻ sinh tại Mỹ, nhưng đa số cử tri, kể cả phe Cộng hòa, lại ủng hộ duy trì chính sách này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-02T19:00:00+07:00",
+      "fetched": "2026-04-03T03:25:55.602495+07:00"
+    },
+    {
+      "id": "73ccb71a648c7c6cc66e3f9ccbfb67ed",
+      "title": "Hải Phòng sẽ di dân ở 177 chung cư cũ",
+      "link": "https://vnexpress.net/hai-phong-se-di-dan-o-177-chung-cu-cu-5057618.html",
+      "summary": "Gần 7.000 hộ dân tại 177 chung cư cũ sẽ được bố trí chỗ ở mới trong giai đoạn 2026-2030, phần đất sau phá dỡ nhà cũ chuyển thành trường học, công viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T17:59:52+07:00",
+      "fetched": "2026-04-03T03:25:49.509682+07:00"
     },
     {
       "id": "bce6e5f8a65540aa90c4b05170704c7f",
