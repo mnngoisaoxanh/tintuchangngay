@@ -1,7 +1,157 @@
 window.newsData_2026_04_02 = {
   "date": "2026-04-02",
-  "lastUpdated": "2026-04-02T05:27:51.838825+07:00",
+  "lastUpdated": "2026-04-02T08:21:01.592825+07:00",
   "articles": [
+    {
+      "id": "3cd62d95b8fea83f41c028bf6f7c6e3e",
+      "title": "Tin tức thế giới 2-4: Ông Trump muốn cắt vũ khí cho Ukraine vì Hormuz, sắp phát biểu về Iran",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-2-4-ong-trump-muon-cat-vu-khi-cho-ukraine-vi-hormuz-sap-phat-bieu-ve-iran-20260402015127192.htm",
+      "summary": "Ông Trump sắp phát biểu trước toàn quốc về xung đột với Iran; Mỹ dỡ bỏ lệnh trừng phạt đối với Tổng thống lâm thời Venezuela từ ngày 1-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.038734+07:00",
+      "fetched": "2026-04-02T08:20:55.038851+07:00"
+    },
+    {
+      "id": "6338e0329bb1ec45b9f39888b5ed86e2",
+      "title": "Đừng vội khó chịu với tiếng còi xe, thực tế có lý do của nó",
+      "link": "https://tuoitre.vn/dung-voi-kho-chiu-voi-tieng-coi-xe-thuc-te-co-ly-do-cua-no-2026040117120102.htm",
+      "summary": "'Chỉ vài giây thôi mà, sao phải bấm còi?'. Đó là nhận xét quen thuộc của những người chưa hiểu nhiều về cách giao thông vận hành. Thực tế lại có lý do của nó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.038583+07:00",
+      "fetched": "2026-04-02T08:20:55.038712+07:00"
+    },
+    {
+      "id": "6f471243a38c241678ce99132abcd3c2",
+      "title": "Khi nào Asian Cup 2027 mới xác định được đầy đủ 24 đội tham dự?",
+      "link": "https://tuoitre.vn/khi-nao-asian-cup-2027-moi-xac-dinh-duoc-day-du-24-doi-tham-du-20260402062457095.htm",
+      "summary": "Dù vòng loại cuối cùng Asian Cup 2027 đã khép lại nhưng giải bóng đá vô địch châu Á mới xác định được 23/24 đội tham dự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.038386+07:00",
+      "fetched": "2026-04-02T08:20:55.038569+07:00"
+    },
+    {
+      "id": "6111caf7fd5e9fb39ce776c0a8686243",
+      "title": "Trung Đông sáng 2-4: Iran tiến hành đợt tấn công mới vào Israel và các căn cứ của Mỹ",
+      "link": "https://tuoitre.vn/trung-dong-sang-2-4-iran-tien-hanh-dot-tan-cong-moi-vao-israel-va-cac-can-cu-cua-my-20260402024652338.htm",
+      "summary": "Iran tiến hành đợt tấn công mới vào Israel và các căn cứ Mỹ; Tình báo Iran triệt phá mạng lưới gián điệp, thu giữ thiết bị tiên tiến; Israel tiến hành hơn 400 cuộc không kích ở Tehran... là một số tin tức đáng chú ý về Trung Đông sáng 2-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.038216+07:00",
+      "fetched": "2026-04-02T08:20:55.038366+07:00"
+    },
+    {
+      "id": "9708b84eb825a9a81cc8b567eedb4e9a",
+      "title": "Làng cờ tướng Trung Quốc hẹn tái chiến Lại Lý Huynh ở siêu giải tiền tỉ",
+      "link": "https://tuoitre.vn/lang-co-tuong-trung-quoc-hen-tai-chien-lai-ly-huynh-o-sieu-giai-tien-ti-20260401204007267.htm",
+      "summary": "Làng cờ tướng đỉnh cao nhiều khả năng sẽ tiếp tục được chứng kiến cuộc so tài giữa Lại Lý Huynh và các kỳ thủ hàng đầu Trung Quốc, trong khuôn khổ Giải cờ tướng Trung Quốc - ASEAN Cup diễn ra tại Thành Đô thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.038086+07:00",
+      "fetched": "2026-04-02T08:20:55.038205+07:00"
+    },
+    {
+      "id": "90d41d60d73af01ef89e221e48c9db76",
+      "title": "Tuyển Việt Nam có thể gặp Indonesia hoặc Singapore ở Asian Cup 2027",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-co-the-gap-indonesia-hoac-singapore-o-asian-cup-2027-20260402064721427.htm",
+      "summary": "Căn cứ vào bảng xếp hạng FIFA mới nhất, 24 đội góp mặt ở Asian Cup 2027 đã có thể biết được họ nằm ở nhóm nào trong lễ bốc thăm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.037960+07:00",
+      "fetched": "2026-04-02T08:20:55.038075+07:00"
+    },
+    {
+      "id": "40e1e98f9b519df656ac1a82c3ee25bb",
+      "title": "Thị trường trong nhịp điều chỉnh giảm dài nhất 3 năm, quỹ ngoại nói gì?",
+      "link": "https://tuoitre.vn/thi-truong-trong-nhip-dieu-chinh-giam-dai-nhat-3-nam-quy-ngoai-noi-gi-2026040119530168.htm",
+      "summary": "VN-Index đang trải qua nhịp giảm kéo dài nhất trong vòng 3 năm trở lại đây. Việc chỉ số chậm hồi phục khiến không ít nhà đầu tư đứng trước việc bị bào mòn hy vọng dù thực tế vẫn có những kỳ vọng tích cực từ tổ chức và chuyên gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.037828+07:00",
+      "fetched": "2026-04-02T08:20:55.037943+07:00"
+    },
+    {
+      "id": "ec9e2ef578489f24409afb10c167d408",
+      "title": "Phi hành gia NASA khởi hành lên Mặt trăng lần đầu sau hơn 50 năm",
+      "link": "https://tuoitre.vn/phi-hanh-gia-nasa-khoi-hanh-len-mat-trang-lan-dau-sau-hon-50-nam-20260402070000009.htm",
+      "summary": "Sáng 2-4, sứ mệnh Mặt trăng Artemis II của Cơ quan Hàng không và Vũ trụ Mỹ (NASA) đã được thực hiện từ bang Florida, đưa bốn phi hành gia tham gia chuyến bay có người lái đầu tiên bay quanh Mặt trăng sau hơn 50 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.037684+07:00",
+      "fetched": "2026-04-02T08:20:55.037817+07:00"
+    },
+    {
+      "id": "cd5b2c06932cd341c5a44d1bfb649310",
+      "title": "Mùa đông ấm lên, khu trượt tuyết Mỹ chuyển sang 'nuôi tuyết'",
+      "link": "https://tuoitre.vn/mua-dong-am-len-khu-truot-tuyet-my-chuyen-sang-nuoi-tuyet-20260401151441695.htm",
+      "summary": "Khi mùa đông ngày càng ấm lên và thất thường, nhiều khu trượt tuyết tại Mỹ và châu Âu buộc phải chủ động tích trữ tuyết từ trước để duy trì hoạt động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.037515+07:00",
+      "fetched": "2026-04-02T08:20:55.037669+07:00"
+    },
+    {
+      "id": "b197f34c2efea42783135476ccd0e012",
+      "title": "Tổng thống Iran đặt câu hỏi cho người Mỹ",
+      "link": "https://tuoitre.vn/tong-thong-iran-dat-cau-hoi-cho-nguoi-my-20260402073201605.htm",
+      "summary": "\"Cuộc chiến này thực sự đang phục vụ lợi ích nào của người dân Mỹ?\" - Tổng thống Iran Masoud Pezeshkian đặt câu hỏi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.037385+07:00",
+      "fetched": "2026-04-02T08:20:55.037503+07:00"
+    },
+    {
+      "id": "6eaafebd933d797c216b1bf47541ef43",
+      "title": "Nắp capo bật tung che kín kính lái, tài xế vẫn điềm nhiên chạy xe qua cầu",
+      "link": "https://tuoitre.vn/nap-capo-bat-tung-che-kin-kinh-lai-tai-xe-van-diem-nhien-chay-xe-qua-cau-20260401145230467.htm",
+      "summary": "Đoạn clip ghi lại cảnh một tài xế tại bang Florida (Mỹ) vẫn tiếp tục lái xe dù nắp capo bật dựng, che gần hết tầm nhìn, khiến cộng đồng mạng tranh cãi về mức độ an toàn của tình huống này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.037223+07:00",
+      "fetched": "2026-04-02T08:20:55.037371+07:00"
+    },
+    {
+      "id": "363bc9b7c53b48b042b67dfc73769016",
+      "title": "Điều hòa Daikin Chiller trong môi trường khắc nghiệt cho công trình lớn",
+      "link": "https://tuoitre.vn/dieu-hoa-daikin-chiller-trong-moi-truong-khac-nghiet-cho-cong-trinh-lon-20260401111525473.htm",
+      "summary": "Thế hệ Chiller mới của Daikin kiêm nhiệm máy gia nhiệt hiệu suất giúp các công trình lớn giải quyết cùng lúc hai vấn đề: ổn định nhiệt độ, cắt giảm chi phí vận hành và bảo vệ môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.037078+07:00",
+      "fetched": "2026-04-02T08:20:55.037196+07:00"
+    },
+    {
+      "id": "1a0d9bf9d9387e78ad69948f1e41630f",
+      "title": "Sun Life Việt Nam chiếm thị phần lớn bảo hiểm hưu trí tự nguyện",
+      "link": "https://tuoitre.vn/sun-life-viet-nam-chiem-thi-phan-lon-bao-hiem-huu-tri-tu-nguyen-20260401165801926.htm",
+      "summary": "Trong năm 2025, Sun Life Việt Nam cho biết tiếp tục chiếm thị phần lớn mảng bảo hiểm hưu trí tự nguyện, duy trì tài chính an toàn và chiến lược đầu tư dài hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.036944+07:00",
+      "fetched": "2026-04-02T08:20:55.037067+07:00"
+    },
+    {
+      "id": "8279417ba860e5cbff5a8e36982028ec",
+      "title": "Chứng khoán 2-4: ‘Đi săn’ cổ phiếu mùa đại hội đồng cổ đông, nhà đầu tư cần lưu ý gì?",
+      "link": "https://tuoitre.vn/chung-khoan-2-4-di-san-co-phieu-mua-dai-hoi-dong-co-dong-nha-dau-tu-can-luu-y-gi-20260402073131279.htm",
+      "summary": "Mùa đại hội đồng cổ đông năm 2026 là dịp để nhà đầu tư lựa chọn ra các doanh nghiệp có năng lực, hòa nhịp cùng giai đoạn chuyển mình của đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.036801+07:00",
+      "fetched": "2026-04-02T08:20:55.036931+07:00"
+    },
+    {
+      "id": "1dabcc5792deb1f26e4c5c2e7dc3a63f",
+      "title": "Tổng thống Trump phát biểu giờ vàng trước toàn quốc về xung đột với Iran",
+      "link": "https://tuoitre.vn/tong-thong-trump-phat-bieu-gio-vang-truoc-toan-quoc-ve-xung-dot-voi-iran-20260402075721375.htm",
+      "summary": "Tổng thống Donald Trump bắt đầu có \"bài phát biểu giờ vàng\" vào tối 1-4 theo giờ địa phương trước người dân Mỹ về cuộc chiến với Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T08:20:55.036577+07:00",
+      "fetched": "2026-04-02T08:20:55.036785+07:00"
+    },
     {
       "id": "cc68721882c934ec8fb443f19a1a35fc",
       "title": "Rộ tin Iran thúc Houthi chuẩn bị chiến dịch mới, eo biển Bab el-Mandeb 'nóng' sau Hormuz",
@@ -161,6 +311,376 @@ window.newsData_2026_04_02 = {
       "category": "Tổng hợp",
       "published": "2026-04-02T01:46:26.656520+07:00",
       "fetched": "2026-04-02T01:46:26.656765+07:00"
+    },
+    {
+      "id": "d3980a0068daae772efdba3fa7c0f692",
+      "title": "Sống giữa đất vàng nhưng khổ hơn ở quê?",
+      "link": "https://thanhnien.vn/song-giua-dat-vang-nhung-kho-hon-o-que-185260402082011447.htm",
+      "summary": "30 năm trôi qua, đứa trẻ sinh ra trong vùng quy hoạch nay đã “tay bồng tay bế”, còn dự án vẫn chỉ là những vũng nước tù bốc mùi. Chứng kiến lân cận là Thảo Điền, An Phú vươn cao, người dân “Rạch Chiếc” chỉ biết nuốt nước mắt sống trong cảnh đi không được, ở không xong. Và… cuộc \"đại phẫu\" 145.000 tỷ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T01:20:00+07:00",
+      "fetched": "2026-04-02T08:20:54.085088+07:00"
+    },
+    {
+      "id": "0e1e54ea71274e0ab6af5c3c75253d8b",
+      "title": "Công an TP.HCM khởi tố thêm 3 bị can trong vụ lừa đảo tiền ảo sàn Wedex",
+      "link": "https://thanhnien.vn/cong-an-tphcm-khoi-to-them-3-bi-can-trong-vu-lua-dao-tien-ao-san-wedex-185260402075232888.htm",
+      "summary": "Liên quan vụ sàn tiền ảo Wedex, Công an TP.HCM tiếp tục khởi tố thêm 3 bị can trong đường dây lừa đảo chiếm đoạt hàng tỉ đồng của nhiều nạn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T01:13:00+07:00",
+      "fetched": "2026-04-02T08:20:54.085263+07:00"
+    },
+    {
+      "id": "8c7283355f0a44a339a3670f833426aa",
+      "title": "Bị bắt vì đăng bài dọa giết ông Trump",
+      "link": "https://vnexpress.net/bi-bat-vi-dang-bai-doa-giet-ong-trump-5057434.html",
+      "summary": "Người đàn ông tên Emerald bị giới chức Mỹ bắt vì nhiều lần đăng bài trên mạng xã hội dọa nhắm mục tiêu vào Tổng thống Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-02T01:07:04+07:00",
+      "fetched": "2026-04-02T08:20:56.390229+07:00"
+    },
+    {
+      "id": "3bb1fd05453c6850920a174332a8ba61",
+      "title": "Tổng thống Iran gửi thư nói không 'thù địch' với người dân Mỹ",
+      "link": "https://thanhnien.vn/tong-thong-iran-gui-thu-noi-khong-thu-dich-voi-nguoi-dan-my-185260402075507936.htm",
+      "summary": "Tổng thống Iran Masoud Pezeshkian khẳng định không thù địch với người dân Mỹ, ngay trước khi Tổng thống Mỹ Donald Trump có bài phát biểu quan trọng về bước kế tiếp của xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T01:02:00+07:00",
+      "fetched": "2026-04-02T08:20:54.085418+07:00"
+    },
+    {
+      "id": "d14857ae9fded917980cc45cd5ffe289",
+      "title": "Kể câu chuyện Việt Nam thuyết phục và hấp dẫn",
+      "link": "https://thanhnien.vn/ke-cau-chuyen-viet-nam-thuyet-phuc-va-hap-dan-18526040123094755.htm",
+      "summary": "Nghị quyết 80 nhắc đến việc \"Định vị và quảng bá thương hiệu quốc gia trên trường quốc tế mang đậm bản sắc văn hóa, con người VN\". Đó cũng là kể câu chuyện VN thuyết phục và hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T01:00:00+07:00",
+      "fetched": "2026-04-02T08:20:54.085592+07:00"
+    },
+    {
+      "id": "85e9a7240292d1ae2b91d47fa2a14122",
+      "title": "Cùng nhóm kim loại: Vàng rớt giá liên tục, vonfram liên tiếp lập đỉnh mới",
+      "link": "https://thanhnien.vn/cung-nhom-kim-loai-vang-rot-gia-lien-tuc-vonfram-lien-tiep-lap-dinh-moi-185260401204831012.htm",
+      "summary": "Trong thế giới tài chính, rủi ro không còn chỉ nằm trên bảng điện, mà hiện diện trong cả chuỗi cung ứng và năng lực sản xuất. Thị trường kim loại vì vậy đang cho thấy một sự phân kỳ đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T01:00:00+07:00",
+      "fetched": "2026-04-02T08:20:54.085746+07:00"
+    },
+    {
+      "id": "1ccd6f9ece02d5fca0afb7a9107fb389",
+      "title": "Biển Đà Nẵng hấp dẫn hơn với pool party Columbo",
+      "link": "https://thanhnien.vn/bien-da-nang-hap-dan-hon-voi-pool-party-columbo-185260401202731513.htm",
+      "summary": "'Làm đẹp TP.Đà Nẵng và nhất là biển Mỹ Khê để thu hút du khách là trách nhiệm của doanh nghiệp', ông Nguyễn Anh Minh, chủ đầu tư pool party Columbo (Khu phức hợp giải trí thể thao biển Danabeach, 51 Võ Nguyên Giáp) bày tỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T01:00:00+07:00",
+      "fetched": "2026-04-02T08:20:54.085897+07:00"
+    },
+    {
+      "id": "d1f23e06caec1bf3f3baf3fe1ccb82c4",
+      "title": "'Hồi sinh' trái tim người mẹ",
+      "link": "https://thanhnien.vn/hoi-sinh-trai-tim-nguoi-me-185260401195555964.htm",
+      "summary": "Một chuyến thiện nguyện thường niên tưởng chừng đơn giản lại trở thành cơ duyên để cứu người, khi các bác sĩ trẻ tại Bệnh viện đa khoa tỉnh Quảng Trị phát hiện một ca bệnh tim nguy hiểm, từ đó \"hồi sinh\" trái tim của người mẹ Vân Kiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T01:00:00+07:00",
+      "fetched": "2026-04-02T08:20:54.086043+07:00"
+    },
+    {
+      "id": "f1350b9d1d99f71528fe1cc50e297aa4",
+      "title": "Khu tây TP.HCM: ‘Vùng trũng giá’ trước chu kỳ mới",
+      "link": "https://thanhnien.vn/khu-tay-tphcm-vung-trung-gia-truoc-chu-ky-moi-185260401155919336.htm",
+      "summary": "Khi mặt bằng giá bất động sản tại nhiều khu vực TP.HCM, đặc biệt là khu đông, đã thiết lập ở ngưỡng cao, khu tây đang dần được nhìn nhận lại như một khu vực còn nhiều dư địa. Trong bối cảnh đó, các dự án quy mô lớn, có khả năng hình thành nhịp sống và giao thương tại chỗ bắt đầu thu hút sự quan tâm ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T01:00:00+07:00",
+      "fetched": "2026-04-02T08:20:54.086201+07:00"
+    },
+    {
+      "id": "bae7e35885d45fab82133127430f7e97",
+      "title": "Tư vấn sức khỏe: Công nghệ cao điều trị hiệu quả viêm amidan, VA",
+      "link": "https://thanhnien.vn/tu-van-suc-khoe-cong-nghe-cao-dieu-tri-hieu-qua-viem-amidan-va-185260401153632192.htm",
+      "summary": "Viêm amidan, viêm VA là những bệnh lý tai mũi họng phổ biến ở cả trẻ em và người lớn. Tình trạng viêm kéo dài có thể gây đau rát họng, hơi thở có mùi, biến chứng viêm tai giữa, giảm thính lực, ngưng thở khi ngủ, thậm chí gây thấp tim, viêm cầu thận, viêm khớp…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T01:00:00+07:00",
+      "fetched": "2026-04-02T08:20:54.086349+07:00"
+    },
+    {
+      "id": "5e63a289bcf91732e566daf8b2fd775a",
+      "title": "3 lý do khiến giới đầu tư ‘săn đón’ dự án sắp bàn giao tại Phú Mỹ",
+      "link": "https://thanhnien.vn/3-ly-do-khien-gioi-dau-tu-san-don-du-an-sap-ban-giao-tai-phu-my-185260401150934239.htm",
+      "summary": "Tiến độ hoàn thiện nhanh, hạ tầng bứt tốc và khả năng tạo dòng tiền ổn định đang trở thành 3 lực hút chính giúp dự án cận bàn giao tại đô thị cảng Phú Mỹ ghi điểm trong năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T01:00:00+07:00",
+      "fetched": "2026-04-02T08:20:54.086494+07:00"
+    },
+    {
+      "id": "8f54a483c558c62a7fd09e6b315fd601",
+      "title": "Giá vật liệu tăng, người mua có xu hướng chuyển sang căn hộ hoàn thiện",
+      "link": "https://thanhnien.vn/gia-vat-lieu-tang-nguoi-mua-co-xu-huong-chuyen-sang-can-ho-hoan-thien-185260401090800373.htm",
+      "summary": "Trước những biến động của giá vật liệu xây dựng đang khiến bài toán an cư trở nên khó hơn với nhiều người dân. Xu hướng chuyển từ 'tự xây' sang sở hữu căn hộ hoàn thiện với mức giá rõ ràng đang dần hình thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T01:00:00+07:00",
+      "fetched": "2026-04-02T08:20:54.086664+07:00"
+    },
+    {
+      "id": "27f4ce99b76eef8c27890c79e25d963f",
+      "title": "Những gam màu pastel làm dịu nắng hè",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-gam-mau-pastel-lam-diu-nang-he-185260330110600506.htm",
+      "summary": "Gam màu pastel mang đến cảm giác dịu nhẹ, sự mát mẻ và tinh thần trẻ trung qua từng bản phối. Áo, váy pastel là món đồ xứng đáng được nàng ưu ái diện trong những ngày nắng đầu hè.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T01:00:00+07:00",
+      "fetched": "2026-04-02T08:20:54.086809+07:00"
+    },
+    {
+      "id": "41e9134e52f45b7f3499da962b0fb78c",
+      "title": "Cách phản ánh vi phạm giao thông qua VNeID",
+      "link": "https://vnexpress.net/cach-phan-anh-vi-pham-giao-thong-qua-vneid-5057404.html",
+      "summary": "Từ 1/4, người dân có thể gửi ảnh, video phản ánh vi phạm giao thông qua ứng dụng VNeID và được giữ kín danh tính, thay vì chỉ qua VNeTraffic như trước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-02T01:00:00+07:00",
+      "fetched": "2026-04-02T08:21:00.282614+07:00"
+    },
+    {
+      "id": "5f572914134e7e0be673d7f7a5059bbf",
+      "title": "Anh triệu tập 35 nước bàn mở lại eo biển Hormuz, Mỹ không được mời",
+      "link": "https://thanhnien.vn/anh-trieu-tap-35-nuoc-ban-mo-lai-eo-bien-hormuz-my-khong-duoc-moi-185260402070849589.htm",
+      "summary": "Anh sẽ triệu tập khoảng 35 quốc gia để thảo luận các biện pháp khôi phục hoạt động tại eo biển Hormuz nhưng Mỹ không nằm trong danh sách tham dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T00:49:00+07:00",
+      "fetched": "2026-04-02T08:20:54.086952+07:00"
+    },
+    {
+      "id": "a66433fdf1d8cc788cb1a105e4c2e05c",
+      "title": "Mỗi ngày một lát gừng: Lợi ích bất ngờ cho sức khỏe",
+      "link": "https://thanhnien.vn/moi-ngay-mot-lat-gung-loi-ich-bat-ngo-cho-suc-khoe-185260402074856183.htm",
+      "summary": "Gừng là gia vị quen thuộc trong gian bếp, nhưng ít ai biết rằng chỉ cần một lát gừng mỗi ngày cũng có thể mang lại nhiều lợi ích đáng kể cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T00:48:00+07:00",
+      "fetched": "2026-04-02T08:20:54.087104+07:00"
+    },
+    {
+      "id": "bc23b789176169c42454eed68f99890a",
+      "title": "Động đất 7,4 độ Richter xảy ra ở Indonesia, cảnh báo sóng thần nguy hiểm",
+      "link": "https://thanhnien.vn/dong-dat-74-do-richter-xay-ra-o-indonesia-canh-bao-song-than-nguy-hiem-18526040206472151.htm",
+      "summary": "Cơ quan Khảo sát Địa chất Mỹ (USGS) thông báo một trận động đất mạnh 7,4 độ Richter đã xảy ra ở khu vực phía bắc biển Molucca thuộc Indonesia vào sáng nay 2.4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T00:47:00+07:00",
+      "fetched": "2026-04-02T08:20:54.087261+07:00"
+    },
+    {
+      "id": "451b397f14c5687e5fe3d0d21d3bacbd",
+      "title": "Ông Trump sắp phát biểu trước toàn quốc về chiến sự Iran",
+      "link": "https://vnexpress.net/ong-trump-sap-phat-bieu-truoc-toan-quoc-ve-chien-su-iran-5057430.html",
+      "summary": "Tổng thống Trump sẽ có bài phát biểu trước toàn quốc trong khung giờ vàng để cập nhật thông tin quan trọng về xung đột Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-02T00:32:14+07:00",
+      "fetched": "2026-04-02T08:20:56.390421+07:00"
+    },
+    {
+      "id": "706751016081b019eb52dd19a5c7539d",
+      "title": "Sai lầm khi vào cua khiến nhiều xe tải bị lật",
+      "link": "https://vnexpress.net/sai-lam-khi-vao-cua-khien-nhieu-xe-tai-bi-lat-5057271.html",
+      "summary": "Vào cua không giảm tốc độ, phanh khi đang trong cua, mất tập trung khi lái xe khiến nhiều xe tải nặng dễ bị tai nạn lật xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T00:18:59+07:00",
+      "fetched": "2026-04-02T08:20:50.391420+07:00"
+    },
+    {
+      "id": "9d789b0f3a67c3ce35039afd2ccfffe2",
+      "title": "Thực đơn đậu phụ giúp Song Hye Kyo giảm 17 kg",
+      "link": "https://vnexpress.net/thuc-don-dau-phu-giup-song-hye-kyo-giam-17-kg-5057087.html",
+      "summary": "Nữ diên viên Song Hye Kyo tiết lộ đã giảm thành công 17 kg nhờ ăn sáng và trưa bình thường, nhưng bữa tối hoàn toàn thay thế bằng salad đậu phụ ít gia vị và kết thúc bữa ăn trước 19h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T00:16:43+07:00",
+      "fetched": "2026-04-02T08:20:50.391632+07:00"
+    },
+    {
+      "id": "aefe496d70b7c1cd5a22968c6d48b42d",
+      "title": "Mỹ dỡ trừng phạt với Tổng thống lâm thời Venezuela",
+      "link": "https://vnexpress.net/my-do-trung-phat-voi-tong-thong-lam-thoi-venezuela-5057429.html",
+      "summary": "Mỹ gỡ bỏ các lệnh trừng phạt với bà Delcy Rodriguez, Tổng thống lâm thời Venezuela, sau khi hai nước khôi phục quan hệ ngoại giao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T00:05:34+07:00",
+      "fetched": "2026-04-02T08:20:50.391804+07:00"
+    },
+    {
+      "id": "aefe496d70b7c1cd5a22968c6d48b42d",
+      "title": "Mỹ dỡ trừng phạt với Tổng thống lâm thời Venezuela",
+      "link": "https://vnexpress.net/my-do-trung-phat-voi-tong-thong-lam-thoi-venezuela-5057429.html",
+      "summary": "Mỹ gỡ bỏ các lệnh trừng phạt với bà Delcy Rodriguez, Tổng thống lâm thời Venezuela, sau khi hai nước khôi phục quan hệ ngoại giao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-02T00:05:34+07:00",
+      "fetched": "2026-04-02T08:20:56.390613+07:00"
+    },
+    {
+      "id": "521f8327538629cf86fd06c123c463ed",
+      "title": "iPhone 18 Pro sẽ có Dynamic Island nhỏ hơn",
+      "link": "https://vnexpress.net/iphone-18-pro-se-co-dynamic-island-nho-hon-5056634.html",
+      "summary": "Apple được cho là đang thiết kế lại khu vực Dynamic Island trên iPhone 18 Pro và 18 Pro Max với kích cỡ nhỏ hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T00:00:00+07:00",
+      "fetched": "2026-04-02T08:20:50.391964+07:00"
+    },
+    {
+      "id": "521f8327538629cf86fd06c123c463ed",
+      "title": "iPhone 18 Pro sẽ có Dynamic Island nhỏ hơn",
+      "link": "https://vnexpress.net/iphone-18-pro-se-co-dynamic-island-nho-hon-5056634.html",
+      "summary": "Apple được cho là đang thiết kế lại khu vực Dynamic Island trên iPhone 18 Pro và 18 Pro Max với kích cỡ nhỏ hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-02T00:00:00+07:00",
+      "fetched": "2026-04-02T08:21:00.283123+07:00"
+    },
+    {
+      "id": "feac72f796ffeb896c28281d65865ccb",
+      "title": "10 điểm đến đẹp nhất thế giới 2026",
+      "link": "https://vnexpress.net/10-diem-den-dep-nhat-the-gioi-2026-5057219.html",
+      "summary": "Dãy Picos de Europa ở Tây Ban Nha, thung lũng Punakha của Bhutan được tạp chí Time Out chọn vào danh sách đẹp nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T23:55:56+07:00",
+      "fetched": "2026-04-02T08:20:50.392119+07:00"
+    },
+    {
+      "id": "b1534e69542dcb11a33351ae721b7b83",
+      "title": "Điểm tin 6h: Tổng thống Mỹ nói Iran đề nghị ngừng bắn, Tehran bác bỏ | Đề xuất xe bán tải được lưu thông như xe con",
+      "link": "https://vnexpress.net/diem-tin-6h-tong-thong-my-noi-iran-de-nghi-ngung-ban-tehran-bac-bo-de-xuat-xe-ban-tai-duoc-luu-thong-nhu-xe-con-5057426.html",
+      "summary": "Chứng khoán toàn cầu bật tăng; TP HCM sẽ miễn phí xe buýt cho toàn dân...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T23:44:09+07:00",
+      "fetched": "2026-04-02T08:20:50.392278+07:00"
+    },
+    {
+      "id": "f1185c0d23abeb72ec4b1095e4e39c78",
+      "title": "Sợ thịt lợn bệnh, nhiều phụ huynh Hà Nội bỏ cơm bán trú",
+      "link": "https://vnexpress.net/so-thit-lon-benh-nhieu-phu-huynh-ha-noi-bo-com-ban-tru-5057427.html",
+      "summary": "Phát hiện trường con trong danh sách nghi vấn tiêu thụ 300 tấn thịt lợn bệnh, chị Kim Tuyến ở xã Phú Nghĩa hốt hoảng đón con về, trong khi nhiều phụ huynh khác chỉ biết bất lực dặn con \"không ăn thịt\" tại trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T23:26:06+07:00",
+      "fetched": "2026-04-02T08:20:50.392440+07:00"
+    },
+    {
+      "id": "f1ca3953400e412695f04a2335473b37",
+      "title": "Siết đường từ 'trường' lên 'đại học'",
+      "link": "https://vnexpress.net/siet-duong-tu-truong-len-dai-hoc-5057394.html",
+      "summary": "Các \"trường đại học\" phải có tỷ lệ giảng viên là tiến sĩ tối thiểu 60%, tỷ lệ nguồn thu từ khoa học công nghệ đạt 20% mới được công nhận là \"đại học\", khó hơn trước đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T23:05:00+07:00",
+      "fetched": "2026-04-02T08:20:50.392624+07:00"
+    },
+    {
+      "id": "179bb993f9d1d07b1d9960b0ae04c6b1",
+      "title": "Tìm thấy hài cốt liệt sĩ được bọc trong tấm tăng",
+      "link": "https://vnexpress.net/tim-thay-hai-cot-liet-si-duoc-boc-trong-tam-tang-5057413.html",
+      "summary": "Một hài cốt liệt sĩ được phát hiện sâu 1,6 m, bọc trong tấm tăng cùng nhiều di vật cá nhân như vải dù, túi tử sĩ, cúc quần áo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T23:00:00+07:00",
+      "fetched": "2026-04-02T08:20:50.392789+07:00"
+    },
+    {
+      "id": "987ccb41e83139f53a0f400cf87774b0",
+      "title": "Trẻ nhiễm EV71 triệu chứng tay chân miệng mờ nhạt nhưng nặng nhanh",
+      "link": "https://vnexpress.net/tre-nhiem-ev71-trieu-chung-tay-chan-mieng-mo-nhat-nhung-nang-nhanh-5057361.html",
+      "summary": "Trẻ mắc tay chân miệng chủng virus EV71 thường chỉ sốt, ít ban hoặc loét miệng không điển hình nhưng có thể nhanh chóng chuyển nặng gây biến chứng thần kinh và tim mạch chỉ sau 24-48 giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T23:00:00+07:00",
+      "fetched": "2026-04-02T08:20:50.392942+07:00"
+    },
+    {
+      "id": "36bf400242a2dfb9f7cab49cfa12075c",
+      "title": "Thấy gì khi ngân hàng liên tục tăng lãi suất?",
+      "link": "https://vnexpress.net/thay-gi-khi-ngan-hang-lien-tuc-tang-lai-suat-5056922.html",
+      "summary": "Cuộc đua lãi suất tiết kiệm chạm mốc 9%/năm, phản ánh áp lực thiếu vốn, biến động tỷ giá và sự dịch chuyển dòng tiền trong nền kinh tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T23:00:00+07:00",
+      "fetched": "2026-04-02T08:20:50.393090+07:00"
+    },
+    {
+      "id": "46f3d2620fed4f4a458dc11324d52d29",
+      "title": "Thanh niên tự chuốc họa vì thói luồn lách khi đi xe máy",
+      "link": "https://vnexpress.net/thanh-nien-tu-chuoc-hoa-vi-thoi-luon-lach-khi-di-xe-may-5056992.html",
+      "summary": "Người đi xe máy phóng nhanh, luồn qua khe hẹp giữa các phương tiện nên mất lái, ngã trước đầu ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T23:00:00+07:00",
+      "fetched": "2026-04-02T08:20:50.393244+07:00"
+    },
+    {
+      "id": "e5c2ab62f7bcf9c4b9b54dfdac989a9c",
+      "title": "CĐV Nhật Bản được sân Wembley tôn vinh hành động nhặt rác",
+      "link": "https://vnexpress.net/cdv-nhat-ban-duoc-san-wembley-ton-vinh-hanh-dong-nhat-rac-5057411.html",
+      "summary": "Video CĐV Nhật Bản dọn dẹp khán đài Wembley sau trận giao hữu thắng đội tuyển Anh thu hút hàng triệu lượt xem, với nhiều lời khen ngợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:48:55+07:00",
+      "fetched": "2026-04-02T08:20:50.393393+07:00"
+    },
+    {
+      "id": "e5c2ab62f7bcf9c4b9b54dfdac989a9c",
+      "title": "CĐV Nhật Bản được sân Wembley tôn vinh hành động nhặt rác",
+      "link": "https://vnexpress.net/cdv-nhat-ban-duoc-san-wembley-ton-vinh-hanh-dong-nhat-rac-5057411.html",
+      "summary": "Video CĐV Nhật Bản dọn dẹp khán đài Wembley sau trận giao hữu thắng đội tuyển Anh thu hút hàng triệu lượt xem, với nhiều lời khen ngợi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-01T22:48:55+07:00",
+      "fetched": "2026-04-02T08:21:01.586996+07:00"
+    },
+    {
+      "id": "896937b7edda4f568478ef3b0c2c044b",
+      "title": "Cay đắng không thể mua lại chung cư cũ nay 'ngáo giá' 7 tỷ",
+      "link": "https://vnexpress.net/cay-dang-khong-the-mua-lai-chung-cu-cu-nay-ngao-gia-7-ty-5057292.html",
+      "summary": "5 năm trước tôi từng bán lỗ căn hộ của mình với giá 2,8 tỷ vì xuống cấp. Giờ muốn mua lại, tôi phải bỏ ra ít nhất 7 tỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:47:00+07:00",
+      "fetched": "2026-04-02T08:20:50.393558+07:00"
+    },
+    {
+      "id": "64a0032b62f19a7d3858a3fccacb9377",
+      "title": "NASA phóng thành công tàu chở người tới Mặt Trăng sau 54 năm",
+      "link": "https://vnexpress.net/nasa-phong-thanh-cong-tau-cho-nguoi-toi-mat-trang-sau-54-nam-5057388.html",
+      "summary": "Tàu Artemis 2 rời bệ phóng lúc 5 giờ 35 phút (giờ Hà Nội), đưa bốn phi hành gia bay quanh Mặt Trăng, đánh dấu sứ mệnh có người lái đầu tiên của NASA vượt ra ngoài quỹ đạo Trái Đất tầm thấp sau 54 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:36:03+07:00",
+      "fetched": "2026-04-02T08:20:50.393725+07:00"
+    },
+    {
+      "id": "64a0032b62f19a7d3858a3fccacb9377",
+      "title": "NASA phóng thành công tàu chở người tới Mặt Trăng sau 54 năm",
+      "link": "https://vnexpress.net/nasa-phong-thanh-cong-tau-cho-nguoi-toi-mat-trang-sau-54-nam-5057388.html",
+      "summary": "Tàu Artemis 2 rời bệ phóng lúc 5 giờ 35 phút (giờ Hà Nội), đưa bốn phi hành gia bay quanh Mặt Trăng, đánh dấu sứ mệnh có người lái đầu tiên của NASA vượt ra ngoài quỹ đạo Trái Đất tầm thấp sau 54 năm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-01T22:36:03+07:00",
+      "fetched": "2026-04-02T08:21:00.282799+07:00"
     },
     {
       "id": "6003deab6082658c1b08137ca3263cc8",
