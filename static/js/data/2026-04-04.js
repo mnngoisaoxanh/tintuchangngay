@@ -1,6 +1,6 @@
 window.newsData_2026_04_04 = {
   "date": "2026-04-04",
-  "lastUpdated": "2026-04-04T03:25:55.318407+07:00",
+  "lastUpdated": "2026-04-04T05:23:05.180511+07:00",
   "articles": [
     {
       "id": "5e07178376f81c87ecf7c2ec6194cead",
@@ -151,6 +151,96 @@ window.newsData_2026_04_04 = {
       "category": "Tổng hợp",
       "published": "2026-04-04T01:34:33.091428+07:00",
       "fetched": "2026-04-04T01:34:33.091641+07:00"
+    },
+    {
+      "id": "5e4c4a32d83142c3057472815bcadc76",
+      "title": "Tử vi ngày 4 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-4-thang-4-con-giap-nao-may-man-hom-nay-185260404003941627.htm",
+      "summary": "Tử vi ngày 4 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm đáng chú ý là sự dịch chuyển từ làm nhiều sang làm đúng, ai biết tối ưu cách làm sẽ nhẹ hơn mà vẫn hiệu quả. Tài lộc hôm nay thế nào không nằm ở việc chạy nhanh, mà ở việc bạn tận dụng được những gì mình đã có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T22:15:00+07:00",
+      "fetched": "2026-04-04T05:22:56.070985+07:00"
+    },
+    {
+      "id": "ef0b332de0a4faadcaa0fd034bf5e9d2",
+      "title": "Chàng ‘sát thủ’ dễ thương của đội bóng Malaysia",
+      "link": "https://thanhnien.vn/chang-sat-thu-de-thuong-cua-doi-bong-malaysia-18526040320440912.htm",
+      "summary": "Izrin Ibrahim đã sắm vai người hùng khi ghi bàn thắng 'quý như vàng' từ chấm đá phạt ở phút bù giờ của trận bán kết, qua đó đưa đội Trường ĐH Quốc gia Malaysia vào chung kết TNSV quốc tế lần II - 2026 cúp THACO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T22:05:00+07:00",
+      "fetched": "2026-04-04T05:22:56.071149+07:00"
+    },
+    {
+      "id": "5a755a95aee53085b37f797bd697354f",
+      "title": "Cú bứt tốc lịch sử của phi thuyền NASA",
+      "link": "https://thanhnien.vn/cu-but-toc-lich-su-cua-phi-thuyen-nasa-185260403182909355.htm",
+      "summary": "Sáng qua (3.4, giờ VN), các phi hành gia của Cơ quan Hàng không và vũ trụ Mỹ (NASA) đang thực hiện sứ mệnh Artemis 2 đã kích hoạt động cơ của tàu vũ trụ Orion để thoát khỏi quỹ đạo trái đất và hướng đến mặt trăng, theo AP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T22:00:00+07:00",
+      "fetched": "2026-04-04T05:22:56.071306+07:00"
+    },
+    {
+      "id": "41dc1c812fc03e057831cefa809aaa77",
+      "title": "Lịch âm hôm nay ngày 4.4: Ngày gì mà nhiều người Việt quan tâm?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-44-ngay-gi-ma-nhieu-nguoi-viet-quan-tam-18526040317055655.htm",
+      "summary": "Hôm nay là ngày 4.4 dương lịch. Theo lịch âm, lịch vạn niên, hôm nay là ngày gì đặc biệt mà nhiều người Việt Nam quan tâm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T22:00:00+07:00",
+      "fetched": "2026-04-04T05:22:56.071486+07:00"
+    },
+    {
+      "id": "1c2c26cda9b01b32aae33738c446cc9a",
+      "title": "Phát hiện ung thư sớm từ dấu hiệu trên móng tay",
+      "link": "https://thanhnien.vn/phat-hien-ung-thu-som-tu-dau-hieu-tren-mong-tay-185260402151225705.htm",
+      "summary": "Một nghiên cứu mới từ Viện Y tế Quốc gia Hoa Kỳ vừa chỉ ra rằng những biến đổi nhỏ ở móng tay có thể giúp chẩn đoán sớm một hội chứng di truyền hiếm gặp, nguy cơ dẫn đến một số loại ung thư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T22:00:00+07:00",
+      "fetched": "2026-04-04T05:22:56.071640+07:00"
+    },
+    {
+      "id": "f1c07da49c45add4971d35d840293cbe",
+      "title": "Tình hình Trung Đông sáng 4.4: Máy bay Mỹ lần đầu bị bắn hạ trên không phận Iran",
+      "link": "https://thanhnien.vn/tinh-hinh-trung-dong-sang-44-may-bay-my-lan-dau-bi-ban-ha-tren-khong-phan-iran-185260403214828295.htm",
+      "summary": "Các nguồn tin Mỹ xác nhận thông tin một máy bay chiến đấu của Mỹ đã bị bắn hạ trên không phận Iran và một chiến dịch tìm kiếm phi công máy bay đang được triển khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T21:30:00+07:00",
+      "fetched": "2026-04-04T05:22:56.071787+07:00"
+    },
+    {
+      "id": "c3af65877ab92eef793198b92a9fc693",
+      "title": "Chiến sự Ukraine ngày 1.500: Ông Zelensky nói tình hình 'tốt nhất sau 10 tháng', Nga dội 'mưa UAV'",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1500-ong-zelensky-noi-tinh-hinh-tot-nhat-sau-10-thang-nga-doi-mua-uav-185260403182202507.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky cho biết tình hình tiền tuyến hiện 'tốt nhất trong 10 tháng qua', đồng thời khẳng định lực lượng Kyiv đã đẩy lùi một đợt tấn công lớn của Nga trong tháng 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T21:29:00+07:00",
+      "fetched": "2026-04-04T05:22:56.071933+07:00"
+    },
+    {
+      "id": "f0f14a21a4504eb820e4d353b08a12ca",
+      "title": "Ôtô và xe máy lao vào nhau như hai mũi tên vì cùng một lỗi",
+      "link": "https://vnexpress.net/oto-va-xe-may-lao-vao-nhau-nhu-hai-mui-ten-vi-cung-mot-loi-5057920.html",
+      "summary": "Xe máy và ôtô cùng chuyển làn chéo đường mà người lái không quan sát, dẫn đến tai nạn, hôm 1/4 tại Ngọc Hồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T21:00:00+07:00",
+      "fetched": "2026-04-04T05:22:52.667436+07:00"
+    },
+    {
+      "id": "3df8f79bc51dda3f59cec6460b1d489d",
+      "title": "Ba người ngộ độc sau khi ăn rau lạ",
+      "link": "https://vnexpress.net/ba-nguoi-ngo-doc-sau-khi-an-rau-la-5058346.html",
+      "summary": "Ba người trong một gia đình ở xã Nậm Cắn xuất hiện các triệu chứng ngộ độc thực phẩm sau khi ăn rau lạ hái từ rừng về.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T20:19:51+07:00",
+      "fetched": "2026-04-04T05:22:52.667618+07:00"
     },
     {
       "id": "bc1499af94880e817a2e5faff5aabf55",
