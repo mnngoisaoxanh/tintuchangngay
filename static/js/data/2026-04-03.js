@@ -1,7 +1,157 @@
 window.newsData_2026_04_03 = {
   "date": "2026-04-03",
-  "lastUpdated": "2026-04-03T17:34:59.053049+07:00",
+  "lastUpdated": "2026-04-03T19:40:34.330679+07:00",
   "articles": [
+    {
+      "id": "0d718e7d86677a059d74812acbae4cd6",
+      "title": "Bộ Công an thông tin về vụ án tại Tổng công ty Cảng hàng không Việt Nam",
+      "link": "https://tuoitre.vn/bo-cong-an-thong-tin-ve-vu-an-tai-tong-cong-ty-cang-hang-khong-viet-nam-20260127103340058.htm",
+      "summary": "Cục Cảnh sát điều tra tội phạm về tham nhũng, kinh tế, buôn lậu đang tập trung lực lượng đấu tranh, làm rõ hành vi sai phạm của các nghi phạm liên quan vụ án xảy ra tại Tổng công ty Cảng hàng không Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.168201+07:00",
+      "fetched": "2026-04-03T19:40:28.168301+07:00"
+    },
+    {
+      "id": "b7941176f36e77176f57bc14cdb53e44",
+      "title": "Bí thư Hà Nội yêu cầu giám sát chặt chẽ các dự án lớn đang triển khai để ngừa tiêu cực",
+      "link": "https://tuoitre.vn/bi-thu-ha-noi-yeu-cau-giam-sat-chat-che-cac-du-an-lon-dang-trien-khai-de-ngua-tieu-cuc-2026040317563044.htm",
+      "summary": "Chiều 3-4, Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc đã chủ trì cuộc họp về phòng, chống tham nhũng, lãng phí, tiêu cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.168095+07:00",
+      "fetched": "2026-04-03T19:40:28.168192+07:00"
+    },
+    {
+      "id": "3171de88b2f256711cc02f153d28fe3b",
+      "title": "Cấm xe hạng nặng lưu thông đường Trần Đại Nghĩa - Lê Văn Hiến dịp Lễ hội Quán Thế Âm",
+      "link": "https://tuoitre.vn/cam-xe-hang-nang-luu-thong-duong-tran-dai-nghia-le-van-hien-dip-le-hoi-quan-the-am-20260403175952898.htm",
+      "summary": "Đà Nẵng thực hiện cấm các loại xe sơ mi rơ moóc, xe kéo rơ moóc lưu thông trên tuyến đường Lê Văn Hiến - Trần Đại Nghĩa vào một số thời điểm tổ chức Lễ hội Quán Thế Âm năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.167984+07:00",
+      "fetched": "2026-04-03T19:40:28.168085+07:00"
+    },
+    {
+      "id": "2dd055ebdd884cbc11b2fbcb53c59dd6",
+      "title": "CLB Đồng Tháp thắng 'chung kết ngược', hy vọng trụ hạng",
+      "link": "https://tuoitre.vn/clb-dong-thap-thang-chung-ket-nguoc-hy-vong-tru-hang-20260403181302087.htm",
+      "summary": "CLB Đồng Tháp giành chiến thắng 3-1 trước Thanh Niên TP.HCM trong trận 'chung kết ngược' diễn ra ở vòng 13 Giải hạng nhất vào chiều 3-4 trên sân Cao Lãnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.167877+07:00",
+      "fetched": "2026-04-03T19:40:28.167975+07:00"
+    },
+    {
+      "id": "3a1566dba4fbb5712037cc5179335bfc",
+      "title": "Đại biểu Bộ Văn hóa, TP.HCM cùng đại diện nhiều cơ quan báo chí tham quan tòa soạn báo Tuổi Trẻ",
+      "link": "https://tuoitre.vn/dai-bieu-bo-van-hoa-tp-hcm-cung-dai-dien-nhieu-co-quan-bao-chi-tham-quan-toa-soan-bao-tuoi-tre-20260403134516867.htm",
+      "summary": "Lãnh đạo Cục Báo chí, Cục Phát thanh - Truyền hình và Thông tin điện tử (Bộ Văn hóa, Thể thao và Du lịch), TP.HCM, các sở ban ngành và đại diện nhiều cơ quan báo chí tham quan tòa soạn báo Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.167768+07:00",
+      "fetched": "2026-04-03T19:40:28.167867+07:00"
+    },
+    {
+      "id": "e58b5e550bbe0e115850f72e422dff85",
+      "title": "Nhiều chính sách đặc thù xây dựng Trung tâm Lọc hóa dầu và năng lượng quốc gia tại Dung Quất",
+      "link": "https://tuoitre.vn/nhieu-chinh-sach-dac-thu-xay-dung-trung-tam-loc-hoa-dau-va-nang-luong-quoc-gia-tai-dung-quat-20260403182155031.htm",
+      "summary": "Trung tâm Lọc hóa dầu và năng lượng quốc gia là trung tâm lớn, cần huy động đa dạng hóa nguồn lực nhà nước, tư nhân, trung ương và địa phương, trong nước và ngoài nước, đầu tư trực tiếp và gián tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.167658+07:00",
+      "fetched": "2026-04-03T19:40:28.167758+07:00"
+    },
+    {
+      "id": "48b0771f2deb3c453774062c881b1aa4",
+      "title": "Đạo diễn Bong Joon Ho ra mắt phim hoạt hình đầu tay",
+      "link": "https://tuoitre.vn/dao-dien-bong-joon-ho-ra-mat-phim-hoat-hinh-dau-tay-20260403175250995.htm",
+      "summary": "Sau thành công toàn cầu của Parasite, đạo diễn Bong Joon Ho bất ngờ chuyển hướng sang phim hoạt hình với dự án 'Ally', đánh dấu bước đi mới trong sự nghiệp điện ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.167547+07:00",
+      "fetched": "2026-04-03T19:40:28.167648+07:00"
+    },
+    {
+      "id": "6af0b26287ab936d6bb27b78302d86c5",
+      "title": "Bộ Công an thông tin về quá trình giám định chất lượng sản phẩm của Thẩm mỹ viện Mailisa",
+      "link": "https://tuoitre.vn/bo-cong-an-thong-tin-ve-qua-trinh-giam-dinh-chat-luong-san-pham-cua-tham-my-vien-mailisa-20260403151153907.htm",
+      "summary": "Bộ Công an cho biết đang phối hợp với các cơ quan chuyên môn giám định theo tố tụng hình sự với chất lượng các mẫu sản phẩm của Thẩm mỹ viện Mailisa để có cơ sở làm rõ hành vi vi phạm pháp luật có liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.167408+07:00",
+      "fetched": "2026-04-03T19:40:28.167536+07:00"
+    },
+    {
+      "id": "9bb97d2fafbee6730c1f73bbff5ea07c",
+      "title": "Phòng khiêu vũ 400 triệu USD của ông Trump: 'Lớp vỏ' cho tổ hợp ngầm dưới Nhà Trắng",
+      "link": "https://tuoitre.vn/phong-khieu-vu-400-trieu-usd-cua-ong-trump-lop-vo-cho-to-hop-ngam-duoi-nha-trang-2026040318281901.htm",
+      "summary": "Dự án này thu hút sự chú ý không chỉ vì quy mô lớn, mà còn bởi những gì nằm bên dưới công trình này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.167302+07:00",
+      "fetched": "2026-04-03T19:40:28.167399+07:00"
+    },
+    {
+      "id": "849b590f3a39841198954e6a1867753d",
+      "title": "Trung Quốc điều tra ông Mã Hưng Thụy - ủy viên Bộ Chính trị, cựu bí thư khu tự trị Tân Cương",
+      "link": "https://tuoitre.vn/trung-quoc-dieu-tra-ong-ma-hung-thuy-uy-vien-bo-chinh-tri-cuu-bi-thu-khu-tu-tri-tan-cuong-20260403182722476.htm",
+      "summary": "Ngày 3-4, Tân Hoa xã đưa tin ông Mã Hưng Thụy (Ma Xingrui), ủy viên Bộ Chính trị Trung Quốc và là cựu bí thư tại Tân Cương, đang bị cơ quan chống tham nhũng điều tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.167194+07:00",
+      "fetched": "2026-04-03T19:40:28.167293+07:00"
+    },
+    {
+      "id": "9478ffb0b7f97f1ee51d63a27b8a57df",
+      "title": "Người phụ nữ ở Đà Nẵng được robot hỗ trợ thay khớp gối, hồi phục sau 3 giờ",
+      "link": "https://tuoitre.vn/nguoi-phu-nu-o-da-nang-duoc-robot-ho-tro-thay-khop-goi-hoi-phuc-sau-3-gio-20260403182535553.htm",
+      "summary": "Ở tuổi 63, bị thoái hóa khớp gối giai đoạn nặng, bà Phan Thị Nghiệp (trú tại Đà Nẵng) vẫn có thể đứng dậy, tập đi chỉ sau khoảng 3 giờ phẫu thuật thay khớp gối bằng robot.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.167083+07:00",
+      "fetched": "2026-04-03T19:40:28.167183+07:00"
+    },
+    {
+      "id": "e41acd9c086a34f63a7d14bfb2b9c2e3",
+      "title": "Trước 15-4 hoàn thiện quy định cơ chế hỗ trợ dự án nhà ở xã hội tại TP.HCM",
+      "link": "https://tuoitre.vn/truoc-15-4-hoan-thien-quy-dinh-co-che-ho-tro-du-an-nha-o-xa-hoi-tai-tp-hcm-20260403184057078.htm",
+      "summary": "UBND TP.HCM vừa có chỉ đạo Sở Xây dựng phải hoàn thiện quy định cơ chế hỗ trợ thực hiện dự án đầu tư xây dựng nhà ở xã hội trên địa bàn, nhằm bảo đảm hoàn thành các chỉ tiêu phát triển nhà ở xã hội giai đoạn 2026 - 2030 đã được Chính phủ giao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.166968+07:00",
+      "fetched": "2026-04-03T19:40:28.167073+07:00"
+    },
+    {
+      "id": "ef1d818ed68cb9898d08aca72dedb796",
+      "title": "Chủ tịch UBND TP.HCM: Xây dựng Côn Đảo xanh, không đánh đổi môi trường lấy kinh tế trước mắt",
+      "link": "https://tuoitre.vn/chu-tich-ubnd-tp-hcm-xay-dung-con-dao-xanh-khong-danh-doi-moi-truong-lay-kinh-te-truoc-mat-20260403184858027.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được thống nhất chỉ đạo phát triển đặc khu Côn Đảo theo hướng hài hòa giữa bảo tồn và phát triển, xây dựng thành đảo xanh, không đánh đổi môi trường, di sản lấy tăng trưởng kinh tế trước mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.166851+07:00",
+      "fetched": "2026-04-03T19:40:28.166958+07:00"
+    },
+    {
+      "id": "5dd5d4c12772f7f0389e4b109f2b9e24",
+      "title": "Uống trà chiều trên du thuyền, chụp ảnh TP.HCM lung linh ánh đèn",
+      "link": "https://tuoitre.vn/uong-tra-chieu-tren-du-thuyen-chup-anh-tp-hcm-lung-linh-anh-den-2026040317374599.htm",
+      "summary": "Trong khuôn khổ Ngày hội Du lịch TP.HCM 2026, nhiều người dân và du khách tìm đến các dịch vụ uống trà chiều trên du thuyền, ngắm cảnh thành phố dần lên đèn, vừa lung linh sôi động, vừa mát lành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.166707+07:00",
+      "fetched": "2026-04-03T19:40:28.166840+07:00"
+    },
+    {
+      "id": "221819bd8769617fd986c67fb38f9624",
+      "title": "Hoàng Hường bị điều tra về hành vi sản xuất, buôn bán hàng giả",
+      "link": "https://tuoitre.vn/hoang-huong-bi-dieu-tra-ve-hanh-vi-san-xuat-buon-ban-hang-gia-20251006143210713.htm",
+      "summary": "Bộ Công an cho biết đang tập trung điều tra nội dung về hành vi \"sản xuất, buôn bán hàng giả\", làm rõ nguồn gốc các sản phẩm trong hệ sinh thái của Hoàng Hường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T19:40:28.166457+07:00",
+      "fetched": "2026-04-03T19:40:28.166692+07:00"
+    },
     {
       "id": "a5b191e23886c150d85c861a15c9ce41",
       "title": "Trung Quốc tạo ra cây có thể thắp sáng thành phố",
@@ -453,6 +603,376 @@ window.newsData_2026_04_03 = {
       "fetched": "2026-04-03T13:57:39.531345+07:00"
     },
     {
+      "id": "f7f92057324c8e02bb3fe8ff7e0a7d72",
+      "title": "Tham vọng của Lý Liên Kiệt ở tuổi 63",
+      "link": "https://thanhnien.vn/tham-vong-cua-ly-lien-kiet-o-tuoi-63-185260403171431859.htm",
+      "summary": "Lý Liên Kiệt thu hút sự chú ý khi đóng phim ngắn. Ở tuổi ngoài 60, ngôi sao võ thuật không chỉ muốn duy trì công việc đóng phim mà nhắm tới tham vọng xa hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:37:00+07:00",
+      "fetched": "2026-04-03T19:40:27.131326+07:00"
+    },
+    {
+      "id": "b3890ddfb8199cb226c33d2458001c96",
+      "title": "Thêm một Ủy viên Bộ Chính trị Trung Quốc bị điều tra tham nhũng",
+      "link": "https://vnexpress.net/them-mot-uy-vien-bo-chinh-tri-trung-quoc-bi-dieu-tra-tham-nhung-5058300.html",
+      "summary": "Cựu bí thư Tân Cương Mã Hưng Thụy bị điều tra do nghi ngờ \"vi phạm nghiêm trọng kỷ luật\", là ủy viên Bộ Chính trị thứ ba của Trung Quốc vướng vòng lao lý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-03T12:27:06+07:00",
+      "fetched": "2026-04-03T19:40:29.676293+07:00"
+    },
+    {
+      "id": "7bb1e4cd522a5a03ee1c18dc7e0d6b84",
+      "title": "Bộ Công an lý giải đề xuất hoãn xuất cảnh, cắt điện nước cưỡng chế xử phạt",
+      "link": "https://thanhnien.vn/bo-cong-an-ly-giai-de-xuat-hoan-xuat-canh-cat-dien-nuoc-cuong-che-xu-phat-18526040318515137.htm",
+      "summary": "Bộ Công an đề xuất bổ sung 2 biện pháp cưỡng chế thi hành xử phạt vi phạm hành chính, gồm tạm ngừng xuất cảnh và ngừng cung cấp dịch vụ điện, nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:26:00+07:00",
+      "fetched": "2026-04-03T19:40:27.131480+07:00"
+    },
+    {
+      "id": "7681e788a367f8caad26411c323be067",
+      "title": "Tuần này người Việt ngắm trăng vào ban ngày: Vì sao có thể thấy rõ?",
+      "link": "https://thanhnien.vn/tuan-nay-nguoi-viet-ngam-trang-vao-ban-ngay-vi-sao-co-the-thay-ro-185260403125504431.htm",
+      "summary": "Sau kỳ trăng tròn đầu tháng 4, người Việt có thể quan sát mặt trăng vào ban ngày. Vì sao hiện tượng này xảy ra và thời điểm nào dễ thấy nhất?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:26:00+07:00",
+      "fetched": "2026-04-03T19:40:27.131632+07:00"
+    },
+    {
+      "id": "f63ba15c6f3f12764439358b124bfa15",
+      "title": "Bộ Công an thu giữ số tài sản ‘khủng’ của bà chủ Thẩm mỹ viện Mailisa",
+      "link": "https://thanhnien.vn/bo-cong-an-thu-giu-so-tai-san-khung-cua-ba-chu-tham-my-vien-mailisa-185260403184107331.htm",
+      "summary": "Quá trình điều tra, cảnh sát đã thu hơn 300 tỉ đồng, 400.000 USD, 300 lượng vàng SJC, hơn 100 giấy chứng nhận quyền sử dụng đất của bà chủ Thẩm mỹ viện Mailisa cùng đồng phạm để phục vụ điều tra, xử lý vụ án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:25:00+07:00",
+      "fetched": "2026-04-03T19:40:27.131764+07:00"
+    },
+    {
+      "id": "276a3f8829877d5196991ea93aa3a88e",
+      "title": "Bộ Xây dựng góp ý Hà Nội 'chưa nên chốt vị trí sân bay thứ hai'",
+      "link": "https://thanhnien.vn/bo-xay-dung-gop-y-ha-noi-chua-nen-chot-vi-tri-san-bay-thu-hai-185260403181443943.htm",
+      "summary": "Bộ Xây dựng cho rằng Hà Nội cần nghiên cứu vị trí và quy mô sân bay thứ hai sau năm 2030, khi công nghệ hàng không phát triển hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:24:00+07:00",
+      "fetched": "2026-04-03T19:40:27.131894+07:00"
+    },
+    {
+      "id": "85306394a07be66c8b97ec0ea1affd85",
+      "title": "Giải độc đắc của Vietlott Mega 6/45 tối nay cộng dồn lên 60,5 tỉ đồng",
+      "link": "https://thanhnien.vn/giai-doc-dac-cua-vietlott-mega-6-45-toi-nay-cong-don-len-605-ti-dong-185260403191502344.htm",
+      "summary": "Tối 3.4, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không có người trúng giải độc đắc nên số tiền cộng dồn là 60,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:18:00+07:00",
+      "fetched": "2026-04-03T19:40:27.132023+07:00"
+    },
+    {
+      "id": "f8e6eff3656e79aa7600800661ca23eb",
+      "title": "Nhiều khu vực ở TP.HCM cúp nước từ ngày 5.4 đến 7.4 do khắc phục sự cố",
+      "link": "https://thanhnien.vn/nhieu-khu-vuc-o-tphcm-cup-nuoc-tu-ngay-54-den-74-do-khac-phuc-su-co-185260403170330472.htm",
+      "summary": "SAWACO sẽ tạm ngưng cấp nước 48 giờ để sửa ống DN1000 khiến nhiều khu vực TP.HCM bị nước yếu hoặc cúp nước từ ngày 5.4 đến 7.4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:16:00+07:00",
+      "fetched": "2026-04-03T19:40:27.132152+07:00"
+    },
+    {
+      "id": "9e77f549145455fb9d09b2f108ba8f84",
+      "title": "Cùng sống xanh số 142: Khi phó giáo sư kỹ thuật bay chế tạo máy chăm tôm giúp nông dân làm giàu",
+      "link": "https://thanhnien.vn/cung-song-xanh-so-142-khi-pho-giao-su-ky-thuat-bay-che-tao-may-cham-tom-giup-nong-dan-lam-giau-185260403190022526.htm",
+      "summary": "Trong giới khoa học công nghệ, PGS. TS. Vũ Ngọc Ánh được biết đến bởi ông được công nhận chức danh giáo sư ở tuổi 36 trẻ nhất thời điểm đó. Dấu ấn đậm nét gần đây của Phó giáo sư là dự án máy Airbus S16s – một thiết bị vận hành tự động giúp hiện đại hóa ngành nuôi tôm quảng canh tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:05:00+07:00",
+      "fetched": "2026-04-03T19:40:27.132280+07:00"
+    },
+    {
+      "id": "07ca494b929efb722a854ffdf0de0546",
+      "title": "Phi hành gia Artemis II 'gặp khó' với Microsoft Outlook",
+      "link": "https://vnexpress.net/phi-hanh-gia-artemis-ii-gap-kho-voi-microsoft-outlook-5058195.html",
+      "summary": "Trong chuyến bay Artemis II, chỉ huy Reid Wiseman đã trải nghiệm điều mà nhiều người dùng Microsoft trên Trái Đất từng gặp: email Outlook ngừng hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:00:00+07:00",
+      "fetched": "2026-04-03T19:40:24.095553+07:00"
+    },
+    {
+      "id": "28c2a549f8f8786c9f66ffa88cc43a8b",
+      "title": "Suýt hỏng thận vì thuốc tan sỏi cấp tốc mua trên mạng",
+      "link": "https://vnexpress.net/suyt-hong-than-vi-thuoc-tan-soi-cap-toc-mua-tren-mang-5058077.html",
+      "summary": "Ngại phẫu thuật, người đàn ông 57 tuổi tự mua \"thuốc tan sỏi\" trên mạng uống suốt ba năm khiến viên sỏi phình to 20 mm, gây bít tắc đường niệu và suýt hỏng thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:00:00+07:00",
+      "fetched": "2026-04-03T19:40:24.095713+07:00"
+    },
+    {
+      "id": "e2b355bda20eaabb0f1dc57f645638cc",
+      "title": "Thách thức với nỗ lực mở lại eo biển Hormuz của liên minh hơn 40 nước",
+      "link": "https://vnexpress.net/thach-thuc-voi-no-luc-mo-lai-eo-bien-hormuz-cua-lien-minh-hon-40-nuoc-5057888.html",
+      "summary": "Liên minh quốc tế do Anh huy động khó tạo ra thay đổi tại Hormuz khi nội bộ chưa có sự thống nhất rõ ràng, thiếu Mỹ góp mặt, còn Iran vẫn giữ lợi thế địa lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:00:00+07:00",
+      "fetched": "2026-04-03T19:40:24.095858+07:00"
+    },
+    {
+      "id": "823b0a3ce619ce1a819e143908ea57d3",
+      "title": "Biết tương lai đau khổ vẫn không dám hủy cưới",
+      "link": "https://vnexpress.net/biet-tuong-lai-dau-kho-van-khong-dam-huy-cuoi-5057720.html",
+      "summary": "Cô ấy tiếp tục đóng vai một người hạnh phúc, tiếp tục kể về một \"câu chuyện đẹp\" với mọi người, cho đến khi mọi thứ vỡ tung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:00:00+07:00",
+      "fetched": "2026-04-03T19:40:24.095995+07:00"
+    },
+    {
+      "id": "af2d16032fefd3877201e3d9767a2942",
+      "title": "Bạn gái Leo DiCaprio tình duyên, sự nghiệp thăng hoa",
+      "link": "https://vnexpress.net/ban-gai-leo-dicaprio-tinh-duyen-su-nghiep-thang-hoa-5056855.html",
+      "summary": "Siêu mẫu Vittoria Ceretti diễn hàng trăm show thời trang nổi tiếng thế giới, hẹn hò \"người đàn ông được khao khát ở Hollywood\" Leonardo DiCaprio.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:00:00+07:00",
+      "fetched": "2026-04-03T19:40:24.096132+07:00"
+    },
+    {
+      "id": "2fad39b72075291bcd3432bddb5a66d9",
+      "title": "Napas mở rộng thanh toán QR giữa Việt Nam và Trung Quốc",
+      "link": "https://vnexpress.net/napas-mo-rong-thanh-toan-qr-giua-viet-nam-va-trung-quoc-5058306.html",
+      "summary": "Ngày 3/4, Napas phối hợp Ant International và Vietcombank tổ chức Lễ công bố mở rộng triển khai dịch vụ thanh toán QR giữa Việt Nam - Trung Quốc, nhằm thúc đẩy thanh toán số xuyên biên giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:00:00+07:00",
+      "fetched": "2026-04-03T19:40:24.096268+07:00"
+    },
+    {
+      "id": "0e873149484052f31d249da17be47d3e",
+      "title": "Khám dạ dày bất ngờ phát hiện u thận",
+      "link": "https://vnexpress.net/kham-da-day-bat-ngo-phat-hien-u-than-5058265.html",
+      "summary": "Bà Lan, 67 tuổi, viêm dạ dày, bác sĩ phát hiện có khối u thận trái sát mạch máu, được phẫu thuật triệt căn bằng robot.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:00:00+07:00",
+      "fetched": "2026-04-03T19:40:24.096399+07:00"
+    },
+    {
+      "id": "c7bbaf7dddec1c6440392e1b4eacb029",
+      "title": "FPT thúc đẩy chuyển đổi số cho Ninh Bình",
+      "link": "https://vnexpress.net/fpt-thuc-day-chuyen-doi-so-cho-ninh-binh-5058261.html",
+      "summary": "Tỉnh Ninh Bình và Tập đoàn FPT thống nhất thúc đẩy hợp tác đầu tư hệ thống giáo dục liên cấp và xây dựng trung tâm dữ liệu phục vụ điều hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T12:00:00+07:00",
+      "fetched": "2026-04-03T19:40:24.096539+07:00"
+    },
+    {
+      "id": "e2b355bda20eaabb0f1dc57f645638cc",
+      "title": "Thách thức với nỗ lực mở lại eo biển Hormuz của liên minh hơn 40 nước",
+      "link": "https://vnexpress.net/thach-thuc-voi-no-luc-mo-lai-eo-bien-hormuz-cua-lien-minh-hon-40-nuoc-5057888.html",
+      "summary": "Liên minh quốc tế do Anh huy động khó tạo ra thay đổi tại Hormuz khi nội bộ chưa có sự thống nhất rõ ràng, thiếu Mỹ góp mặt, còn Iran vẫn giữ lợi thế địa lý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-03T12:00:00+07:00",
+      "fetched": "2026-04-03T19:40:29.676446+07:00"
+    },
+    {
+      "id": "07ca494b929efb722a854ffdf0de0546",
+      "title": "Phi hành gia Artemis II 'gặp khó' với Microsoft Outlook",
+      "link": "https://vnexpress.net/phi-hanh-gia-artemis-ii-gap-kho-voi-microsoft-outlook-5058195.html",
+      "summary": "Trong chuyến bay Artemis II, chỉ huy Reid Wiseman đã trải nghiệm điều mà nhiều người dùng Microsoft trên Trái Đất từng gặp: email Outlook ngừng hoạt động.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-03T12:00:00+07:00",
+      "fetched": "2026-04-03T19:40:32.535381+07:00"
+    },
+    {
+      "id": "ebfa72215da24a78d53b7072944247f5",
+      "title": "Bruno Fernandes hay nhất Ngoại hạng Anh tháng 3",
+      "link": "https://vnexpress.net/bruno-fernandes-hay-nhat-ngoai-hang-anh-thang-3-5058312.html",
+      "summary": "Với hai bàn thắng và 4 đường kiến tạo cho Man Utd, tiền vệ Bruno Fernandes giành giải Cầu thủ hay nhất Ngoại hạng Anh tháng 3/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T11:58:10+07:00",
+      "fetched": "2026-04-03T19:40:24.096675+07:00"
+    },
+    {
+      "id": "ebfa72215da24a78d53b7072944247f5",
+      "title": "Bruno Fernandes hay nhất Ngoại hạng Anh tháng 3",
+      "link": "https://vnexpress.net/bruno-fernandes-hay-nhat-ngoai-hang-anh-thang-3-5058312.html",
+      "summary": "Với hai bàn thắng và 4 đường kiến tạo cho Man Utd, tiền vệ Bruno Fernandes giành giải Cầu thủ hay nhất Ngoại hạng Anh tháng 3/2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-03T11:58:10+07:00",
+      "fetched": "2026-04-03T19:40:34.319479+07:00"
+    },
+    {
+      "id": "e2c7f393ce67e3521661e313a335ff2e",
+      "title": "Highlight The National University of Malaysia 1-0 Svay Rieng University | TNIFST2026 THACO Cup",
+      "link": "https://thanhnien.vn/highlight-the-national-university-of-malaysia-1-0-svay-rieng-university-tnifst2026-thaco-cup-185260403174545835.htm",
+      "summary": "Trận bán kết kịch tính của giải bóng đá Thanh Niên sinh viên quốc tế 2026 đã được định đoạt bằng khoảnh khắc tỏa sáng muộn màng. Trường ĐH Quốc gia Malaysia vượt qua Trường ĐH Svay Rieng với chiến thắng tối thiểu 1-0, trong thế trận giằng co và căng thẳng đến những phút cuối, qua đó trở thành cái tê...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T11:58:00+07:00",
+      "fetched": "2026-04-03T19:40:27.132407+07:00"
+    },
+    {
+      "id": "b22114c1b35e4ce26d2ad268fe97de3b",
+      "title": "Vi mạch xanh cho đô thị thông minh của Việt Nam",
+      "link": "https://thanhnien.vn/vi-mach-xanh-cho-do-thi-thong-minh-cua-viet-nam-185260403181522959.htm",
+      "summary": "Cuộc thi Thiết kế vi mạch cho đô thị thông minh lần thứ ba lấy chủ đề \"Vi mạch xanh cho đô thị thông minh\" diễn ra trên khắp Việt Nam, thúc đẩy hệ sinh thái khởi nghiệp bán dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T11:55:00+07:00",
+      "fetched": "2026-04-03T19:40:27.132541+07:00"
+    },
+    {
+      "id": "794198f2c5c43ce95b64985b5d4873ba",
+      "title": "Công an Gia Lai ‘điểm danh’ nhiều thẩm mỹ viện, nha khoa vi phạm",
+      "link": "https://thanhnien.vn/cong-an-gia-lai-diem-danh-nhieu-tham-my-vien-nha-khoa-vi-pham-185260403183102985.htm",
+      "summary": "Ngày 2.4, Phòng Cảnh sát kinh tế Công an tỉnh Gia Lai cho biết, từ đầu năm đến nay đã tăng cường kiểm tra và xử lý 8 cơ sở nha khoa, thẩm mỹ viện hoạt động vi phạm quy định pháp luật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T11:50:00+07:00",
+      "fetched": "2026-04-03T19:40:27.132668+07:00"
+    },
+    {
+      "id": "3240249e4b17d0dcf444861c177e8473",
+      "title": "Vụ Shark Bình lừa đảo qua tiền số Antex: Công an phong tỏa hơn 900 tỉ đồng",
+      "link": "https://thanhnien.vn/vu-shark-binh-lua-dao-qua-tien-so-antex-cong-an-phong-toa-hon-900-ti-dong-185260403180805793.htm",
+      "summary": "Theo lãnh đạo Công an TP.Hà Nội, đơn vị này đã thu giữ, phong tỏa tiền, tài sản tổng với số hơn 900 tỉ đồng của Shark Bình và các bị can để khắc phục hậu quả vụ án, trả lại cho nhà đầu tư tiền số Antex.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T11:47:00+07:00",
+      "fetched": "2026-04-03T19:40:27.132793+07:00"
+    },
+    {
+      "id": "dea9364011df5e3e6601f03cf35e930f",
+      "title": "Ông chủ sàn tiền số ONUS dùng chuỗi cửa hàng bánh mỳ để lừa nhà đầu tư",
+      "link": "https://vnexpress.net/ong-chu-san-tien-so-onus-dung-chuoi-cua-hang-banh-my-de-lua-nha-dau-tu-5057960.html",
+      "summary": "Eric Vương từng quảng cáo dùng đồng tiền số VNDC đầu tư vào chuỗi cửa hàng bánh mỳ Snack House, có thể dùng \"vocher VNDC để đổi bánh mỳ\" song thực chất chỉ là chiêu trò.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T11:46:12+07:00",
+      "fetched": "2026-04-03T19:40:24.096810+07:00"
+    },
+    {
+      "id": "dd19daae8be8e6599c155c5b947ccb13",
+      "title": "Phó thủ tướng gửi thư khen Công an Đà Nẵng triệt phá 3 đường dây buôn lậu lớn",
+      "link": "https://thanhnien.vn/pho-thu-tuong-gui-thu-khen-cong-an-da-nang-do-triet-pha-3-duong-day-buon-lau-lon-185260403180316186.htm",
+      "summary": "Sau loạt chuyên án lớn bóc gỡ 3 đường dây buôn lậu, hàng giả hoạt động liên tỉnh với tang vật gần 10 tỉ đồng, Công an TP.Đà Nẵng được Phó thủ tướng gửi thư khen, biểu dương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T11:44:00+07:00",
+      "fetched": "2026-04-03T19:40:27.132918+07:00"
+    },
+    {
+      "id": "b24b5674c775276041d4d4dc6d799dc0",
+      "title": "‘Giờ vàng sinh tử’: Bệnh viện Phương Nam bản lĩnh cứu thai phụ bị nhau tiền đạo",
+      "link": "https://thanhnien.vn/gio-vang-sinh-tu-benh-vien-phuong-nam-ban-linh-cuu-thai-phu-bi-nhau-tien-dao-185260403184902949.htm",
+      "summary": "Khi thai mới 34 tuần, chị H. (TP.HCM) bất ngờ bị ra huyết ồ ạt do nhau tiền đạo trung tâm, một biến chứng sản khoa nguy hiểm có thể cướp đi sinh mạng cả mẹ lẫn con. Tại Bệnh viện Phương Nam, ê-kíp sản khoa nhanh chóng hội chẩn, can thiệp kịp thời, kiểm soát ca mổ thành công, đảm bảo an toàn cho cả m...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T11:42:00+07:00",
+      "fetched": "2026-04-03T19:40:27.133050+07:00"
+    },
+    {
+      "id": "04b2d5325b1124384c2bfeda21c62b83",
+      "title": "Phát hiện thiết bị kích sóng di động trái phép gây rớt cuộc gọi tại Hưng Yên",
+      "link": "https://thanhnien.vn/phat-hien-thiet-bi-kich-song-di-dong-trai-phep-gay-rot-cuoc-goi-tai-hung-yen-185260403180356123.htm",
+      "summary": "Lực lượng chức năng tỉnh Hưng Yên đã phát hiện và xử lý 3 thiết bị kích sóng di động (Repeater) trái phép, gây rớt cuộc gọi, giảm tốc độ dữ liệu và ảnh hưởng đến nhiều trạm thông tin di động trong khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T11:41:00+07:00",
+      "fetched": "2026-04-03T19:40:27.133184+07:00"
+    },
+    {
+      "id": "57a49abbe5396a505a1783b4876fe1ac",
+      "title": "Mới có 51 nhà đầu tư dự án tiền số của Shark Bình liên hệ với công an",
+      "link": "https://vnexpress.net/moi-co-51-nha-dau-tu-du-an-tien-so-cua-shark-binh-lien-he-voi-cong-an-5058304.html",
+      "summary": "Công an Hà Nội cho hay mới có 51 trong khoảng 30.000 nhà đầu tư liên hệ với cơ quan điều tra để được hướng dẫn về việc bị Shark Bình lừa đảo liên quan dự án tiền số AntEx.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T11:34:53+07:00",
+      "fetched": "2026-04-03T19:40:24.096944+07:00"
+    },
+    {
+      "id": "47464136d4450195ebb25efb96075afb",
+      "title": "Ông Phan Quốc Công tiếp quản vị trí CEO PNJ",
+      "link": "https://vnexpress.net/ong-phan-quoc-cong-tiep-quan-vi-tri-ceo-pnj-5058311.html",
+      "summary": "Ông Phan Quốc Công tiếp quản vị trí Tổng giám đốc tại PNJ từ ngày 3/4, nằm trong lộ trình kế nhiệm đã được chuẩn bị nhằm hướng tới phát triển bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T11:30:00+07:00",
+      "fetched": "2026-04-03T19:40:24.097077+07:00"
+    },
+    {
+      "id": "8ba935d1a6712e7bfa0523f85058b7f4",
+      "title": "Xe máy điện VinFast lập kỷ lục doanh số",
+      "link": "https://vnexpress.net/xe-may-dien-vinfast-lap-ky-luc-doanh-so-5058310.html",
+      "summary": "VinFast nhận hơn 135.000 đơn đặt hàng, xuất xưởng hơn 93.000 xe máy điện trong tháng 3, mức cao nhất từ trước đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T11:30:00+07:00",
+      "fetched": "2026-04-03T19:40:24.097208+07:00"
+    },
+    {
+      "id": "47464136d4450195ebb25efb96075afb",
+      "title": "Ông Phan Quốc Công tiếp quản vị trí CEO PNJ",
+      "link": "https://vnexpress.net/ong-phan-quoc-cong-tiep-quan-vi-tri-ceo-pnj-5058311.html",
+      "summary": "Ông Phan Quốc Công tiếp quản vị trí Tổng giám đốc tại PNJ từ ngày 3/4, nằm trong lộ trình kế nhiệm đã được chuẩn bị nhằm hướng tới phát triển bền vững.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-03T11:30:00+07:00",
+      "fetched": "2026-04-03T19:40:30.787760+07:00"
+    },
+    {
+      "id": "a4a5934f1b199ca319ae55be5fb34d85",
+      "title": "Hong Kong có giá xăng đắt nhất thế giới",
+      "link": "https://vnexpress.net/hong-kong-co-gia-xang-dat-nhat-the-gioi-5058266.html",
+      "summary": "Do xung đột Trung Đông, giá xăng trung bình ở Hong Kong tăng lên mức 4,1 USD mỗi lít, mức cao nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T11:24:31+07:00",
+      "fetched": "2026-04-03T19:40:24.097336+07:00"
+    },
+    {
+      "id": "a4a5934f1b199ca319ae55be5fb34d85",
+      "title": "Hong Kong có giá xăng đắt nhất thế giới",
+      "link": "https://vnexpress.net/hong-kong-co-gia-xang-dat-nhat-the-gioi-5058266.html",
+      "summary": "Do xung đột Trung Đông, giá xăng trung bình ở Hong Kong tăng lên mức 4,1 USD mỗi lít, mức cao nhất thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-03T11:24:31+07:00",
+      "fetched": "2026-04-03T19:40:30.786247+07:00"
+    },
+    {
+      "id": "a54d8b6601941621cdf79db84ffa224c",
+      "title": "Phát ngôn viên Nhà Trắng kể về cuộc gọi bổ nhiệm của ông Trump",
+      "link": "https://vnexpress.net/phat-ngon-vien-nha-trang-ke-ve-cuoc-goi-bo-nhiem-cua-ong-trump-5058299.html",
+      "summary": "Leavitt cho biết Tổng thống Trump thông báo bà sẽ làm thư ký báo chí Nhà Trắng chỉ bằng một câu nói trong cuộc gọi sau khi ông đắc cử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T11:24:15+07:00",
+      "fetched": "2026-04-03T19:40:24.097467+07:00"
+    },
+    {
+      "id": "a54d8b6601941621cdf79db84ffa224c",
+      "title": "Phát ngôn viên Nhà Trắng kể về cuộc gọi bổ nhiệm của ông Trump",
+      "link": "https://vnexpress.net/phat-ngon-vien-nha-trang-ke-ve-cuoc-goi-bo-nhiem-cua-ong-trump-5058299.html",
+      "summary": "Leavitt cho biết Tổng thống Trump thông báo bà sẽ làm thư ký báo chí Nhà Trắng chỉ bằng một câu nói trong cuộc gọi sau khi ông đắc cử.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-03T11:24:15+07:00",
+      "fetched": "2026-04-03T19:40:29.676601+07:00"
+    },
+    {
       "id": "47f1795ecf459a5bed3ccb5748356cc4",
       "title": "Mở rộng lựa chọn điều trị bệnh thận mạn giai đoạn cuối: Mô hình giúp người bệnh ‘chạy thận’ tại nhà",
       "link": "https://tuoitre.vn/mo-rong-lua-chon-dieu-tri-benh-than-man-giai-doan-cuoi-mo-hinh-giup-nguoi-benh-chay-than-tai-nha-20260402150043899.htm",
@@ -603,6 +1123,26 @@ window.newsData_2026_04_03 = {
       "fetched": "2026-04-03T11:22:03.653099+07:00"
     },
     {
+      "id": "a18d8906bf698204897b1fac04c646aa",
+      "title": "Iran công bố mảnh vỡ nghi của tiêm kích F-15E Mỹ bị bắn hạ",
+      "link": "https://vnexpress.net/iran-cong-bo-manh-vo-nghi-cua-tiem-kich-f-15e-my-bi-ban-ha-5058212.html",
+      "summary": "Iran tuyên bố bắn hạ tiêm kích F-35 Mỹ và công bố ảnh mảnh vỡ, nhưng một số chuyên gia cho rằng chúng thuộc về chiến đấu cơ F-15E.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-03T10:30:31+07:00",
+      "fetched": "2026-04-03T19:40:29.676739+07:00"
+    },
+    {
+      "id": "7fae58c4b7bf0d0ff9f9ea1802f42550",
+      "title": "Ba gia đình dùng thiết bị kích sóng trái phép bị xử lý",
+      "link": "https://vnexpress.net/ba-gia-dinh-dung-thiet-bi-kich-song-trai-phep-bi-xu-ly-5058296.html",
+      "summary": "Cục Tần số vô tuyến điện phát hiện và xử lý ba gia đình sử dụng thiết bị kích sóng trái phép, gây nhiễu cho hệ thống thông tin di động.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-03T10:25:12+07:00",
+      "fetched": "2026-04-03T19:40:32.535558+07:00"
+    },
+    {
       "id": "337e49bf2a5288d5771086e1a52f50b0",
       "title": "Thuê bao di động đăng ký bằng CMND 9 số phải bổ sung xác thực sinh trắc học",
       "link": "https://thanhnien.vn/thue-bao-di-dong-dang-ky-bang-cmnd-9-so-phai-bo-sung-xac-thuc-sinh-trac-hoc-18526040316405692.htm",
@@ -641,6 +1181,16 @@ window.newsData_2026_04_03 = {
       "category": "Tổng hợp",
       "published": "2026-04-03T10:11:00+07:00",
       "fetched": "2026-04-03T17:34:51.377801+07:00"
+    },
+    {
+      "id": "bbb12880ede59a5165096957add3e9d7",
+      "title": "Phóng thành công vệ tinh tư nhân Make in Vietnam",
+      "link": "https://vnexpress.net/phong-thanh-cong-ve-tinh-tu-nhan-make-in-vietnam-5058091.html",
+      "summary": "Vệ tinh do Vegacosmos thiết kế, chế tạo, phục vụ mục tiêu thử nghiệm và nghiên cứu, phóng thành công lúc 18h02 ngày 30/3.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-03T10:09:18+07:00",
+      "fetched": "2026-04-03T19:40:32.535997+07:00"
     },
     {
       "id": "c2741cf3066b6e00d057c5dc8ef3d9bd",
