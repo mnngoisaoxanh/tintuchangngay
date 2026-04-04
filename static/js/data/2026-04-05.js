@@ -1,7 +1,37 @@
 window.newsData_2026_04_05 = {
   "date": "2026-04-05",
-  "lastUpdated": "2026-04-05T01:28:08.715835+07:00",
+  "lastUpdated": "2026-04-05T03:19:19.617188+07:00",
   "articles": [
+    {
+      "id": "7e8b00e41a3b0be51b0e13f3198a09f2",
+      "title": "Thời tiết hôm nay 5-4: Nắng nóng gay gắt nhiều nơi 39-40 độ C, người dân chú ý sức khỏe",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-5-4-nang-nong-gay-gat-nhieu-noi-39-40-do-c-nguoi-dan-chu-y-suc-khoe-20260404170515803.htm",
+      "summary": "Hôm nay 5-4, nắng nóng tăng nhiệt, thời tiết cả nước oi bức, nhiệt độ tăng lên ngưỡng 39-40 độ C.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T03:19:14.645100+07:00",
+      "fetched": "2026-04-05T03:19:14.645226+07:00"
+    },
+    {
+      "id": "3e741c00da3b5e8262841465a38bbfc6",
+      "title": "HLV U20 nữ Việt Nam công nhận kỹ thuật của U20 nữ Thái Lan rất tốt",
+      "link": "https://tuoitre.vn/hlv-u20-nu-viet-nam-cong-nhan-ky-thuat-cua-u20-nu-thai-lan-rat-tot-20260405000447695.htm",
+      "summary": "Phát biểu sau trận thua U20 nữ Thái Lan 1-4, HLV Okiyama Masahiko cho biết có sự chênh lệch khá nhiều về mặt kỹ thuật giữa đội tuyển U20 nữ Việt Nam với đối thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T03:19:14.644927+07:00",
+      "fetched": "2026-04-05T03:19:14.645085+07:00"
+    },
+    {
+      "id": "181c459f9a624611b4e84ca607fb62fe",
+      "title": "Câu lạc bộ của Lý Thị Luyến chiến thắng trận chung kết Giải vô địch bóng chuyền Thái Lan",
+      "link": "https://tuoitre.vn/cau-lac-bo-cua-ly-thi-luyen-chien-thang-tran-chung-ket-giai-vo-dich-bong-chuyen-thai-lan-20260404233849049.htm",
+      "summary": "Tối ngày 4-4, Lý Thị Luyến đã ra sân trong trận chung kết Giải vô địch bóng chuyền Thái Lan mùa 2025-2026, và góp công giúp CLB Nakhon Ratchasima VC giành chiến thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T03:19:14.644692+07:00",
+      "fetched": "2026-04-05T03:19:14.644912+07:00"
+    },
     {
       "id": "e662663960d6fd5b5b5f99d4bd0d94d0",
       "title": "Steven Nguyễn ôm đàn hát: Con tướng này mạnh, Anh trai vượt ngàn chông gai hốt ổng đi",
@@ -151,6 +181,56 @@ window.newsData_2026_04_05 = {
       "category": "Tổng hợp",
       "published": "2026-04-05T01:28:02.768373+07:00",
       "fetched": "2026-04-05T01:28:02.768578+07:00"
+    },
+    {
+      "id": "8bf0f5a9dbbaf5687a997a25fd054ac2",
+      "title": "Nỗ lực đến cùng",
+      "link": "https://thanhnien.vn/no-luc-den-cung-185260404224803234.htm",
+      "summary": "Lúc 13 giờ 15 hôm nay (5.4), sân bóng Trường ĐH Nha Trang chắc chắn sẽ không còn một chỗ trống khi hàng ngàn sinh viên, CĐV ngồi chật cứng trên các khán đài để cổ vũ cho đội nhà bước vào trận tranh HCĐ với Trường ĐH Svay Rieng (Campuchia).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T20:06:00+07:00",
+      "fetched": "2026-04-05T03:19:13.616751+07:00"
+    },
+    {
+      "id": "b0415d0d0633847a9faf2a566f0b2d78",
+      "title": "Tập luyện đều vẫn yếu: Bạn đang sai ở đâu?",
+      "link": "https://thanhnien.vn/tap-luyen-deu-van-yeu-ban-dang-sai-o-dau-185260402142706786.htm",
+      "summary": "Có người tập luyện đều thì thấy cơ thể khỏe khoắn, linh hoạt, trong khi số khác lại cảm thấy mệt mỏi, yếu sức, thậm chí càng tập càng xuống sức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T19:01:00+07:00",
+      "fetched": "2026-04-05T03:19:13.616921+07:00"
+    },
+    {
+      "id": "29152a55dc59f86e6d3470adbde62337",
+      "title": "Nỗi ám ảnh tiền bạc của Gen Z Mỹ",
+      "link": "https://vnexpress.net/noi-am-anh-tien-bac-cua-gen-z-my-5058111.html",
+      "summary": "Nhiều người trẻ Mỹ bắt đầu đầu tư và để dành tiền từ rất sớm, nhưng phía sau tâm thế \"lo xa\" này là nỗi bất an thường trực về tiền bạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T19:00:00+07:00",
+      "fetched": "2026-04-05T03:19:10.988792+07:00"
+    },
+    {
+      "id": "e2b6a30fd59d93955c0259f261d665f2",
+      "title": "Hai tranh chưa từng xuất hiện 100 năm qua của Claude Monet",
+      "link": "https://vnexpress.net/hai-tranh-chua-tung-xuat-hien-100-nam-qua-cua-claude-monet-5058439.html",
+      "summary": "Hai bức tranh phong cảnh của danh họa Pháp Claude Monet lần đầu được công bố sau khoảng 100 năm nằm trong các bộ sưu tập tư nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T19:00:00+07:00",
+      "fetched": "2026-04-05T03:19:10.988970+07:00"
+    },
+    {
+      "id": "29152a55dc59f86e6d3470adbde62337",
+      "title": "Nỗi ám ảnh tiền bạc của Gen Z Mỹ",
+      "link": "https://vnexpress.net/noi-am-anh-tien-bac-cua-gen-z-my-5058111.html",
+      "summary": "Nhiều người trẻ Mỹ bắt đầu đầu tư và để dành tiền từ rất sớm, nhưng phía sau tâm thế \"lo xa\" này là nỗi bất an thường trực về tiền bạc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-04T19:00:00+07:00",
+      "fetched": "2026-04-05T03:19:15.704469+07:00"
     },
     {
       "id": "6c1412046c51d4e0d28281f64425e711",
