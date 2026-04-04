@@ -1,7 +1,157 @@
 window.newsData_2026_04_04 = {
   "date": "2026-04-04",
-  "lastUpdated": "2026-04-04T15:30:31.087980+07:00",
+  "lastUpdated": "2026-04-04T17:24:09.730764+07:00",
   "articles": [
+    {
+      "id": "70238180946818ca6faeff33b7794bcd",
+      "title": "K-pop Demon Hunters san bằng kỷ lục của Rosé BlackPink",
+      "link": "https://tuoitre.vn/k-pop-demon-hunters-san-bang-ky-luc-cua-rose-blackpink-20260404135319675.htm",
+      "summary": "Ca khúc 'Golden' thuộc nhạc phim K-pop Demon Hunters vừa đạt cột mốc ấn tượng khi cân bằng thành tích tồn tại lâu nhất của một bản hit K-pop trên bảng xếp hạng Digital Song Sales của Billboard, sánh ngang 'APT.' của Rosé và Bruno Mars.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.558399+07:00",
+      "fetched": "2026-04-04T17:24:02.558521+07:00"
+    },
+    {
+      "id": "5da3db82b552467005eed82c3d136a26",
+      "title": "CSGT dùng ô tô 'hóa trang' quay video lỗi vi phạm trên cao tốc để phạt nguội",
+      "link": "https://tuoitre.vn/csgt-dung-o-to-hoa-trang-quay-video-loi-vi-pham-tren-cao-toc-de-phat-nguoi-20260404141159586.htm",
+      "summary": "Ngày 4-4, đại diện Đội cảnh sát giao thông đường bộ cao tốc số 6 cho biết sẽ tăng cường lực lượng, sử dụng ô tô 'hóa trang' quay video lỗi vi phạm trên cao tốc để xử lý 'phạt nguội'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.558274+07:00",
+      "fetched": "2026-04-04T17:24:02.558387+07:00"
+    },
+    {
+      "id": "334f2f0ad753ca0d14db01a41f9d3c9b",
+      "title": "Ai đoạt giải nhất cuộc thi sáng tác truyện tranh?",
+      "link": "https://tuoitre.vn/ai-doat-giai-nhat-cuoc-thi-sang-tac-truyen-tranh-20260404131407285.htm",
+      "summary": "Phần thưởng giải nhất là chuyến đi đến Liên hoan truyện tranh Angoulême tại Pháp vào tháng 1-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.558152+07:00",
+      "fetched": "2026-04-04T17:24:02.558263+07:00"
+    },
+    {
+      "id": "edd5ba259f0db491b910a636ae51300d",
+      "title": "Hà Nội - Huế - Sài Gòn với 50 không gian đầy ắp kỷ niệm",
+      "link": "https://tuoitre.vn/ha-noi-hue-sai-gon-voi-50-khong-gian-day-ap-ky-niem-20260404072444342.htm",
+      "summary": "Tại buổi ra mắt sách 50 Spaces: Hà Nội - Huế - Sài Gòn diễn ra sáng 4-4 ở Đường sách TP.HCM, kiến trúc sư Trần Xuân Hồng nhận định TP.HCM đang 'thay da đổi thịt' với tốc độ đáng kinh ngạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.558016+07:00",
+      "fetched": "2026-04-04T17:24:02.558141+07:00"
+    },
+    {
+      "id": "5416a562e2795556d008bfb3a89f12ff",
+      "title": "Hà Anh Tuấn, Đen trở lại Ninh Bình cùng FORESTIVAL",
+      "link": "https://tuoitre.vn/ha-anh-tuan-den-tro-lai-ninh-binh-cung-forestival-20260404143148339.htm",
+      "summary": "Với chủ đề 'Chiến binh bình minh', quy tụ dàn nghệ sĩ từ Hà Anh Tuấn, Đen đến Binz, HIEUTHUHAI…, Lễ hội âm nhạc & sáng tạo FORESTIVAL 2026 tiếp tục đặt tham vọng biến Tràng An thành điểm hẹn văn hóa - giải trí quy mô lớn của miền Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.557856+07:00",
+      "fetched": "2026-04-04T17:24:02.558004+07:00"
+    },
+    {
+      "id": "59627e03ed77af043a4a509818532820",
+      "title": "Mixue lãi hơn 22.000 tỉ nhưng cửa hàng ở Việt Nam ‘co' lại: Chuyện gì xảy ra?",
+      "link": "https://tuoitre.vn/mixue-lai-hon-22-000-ti-nhung-cua-hang-o-viet-nam-co-lai-chuyen-gi-xay-ra-2026040414414153.htm",
+      "summary": "Thị trường F&B Việt Nam đang dần bão hòa, khiến Mixue chuyển trọng tâm chiến lược từ mở rộng quy mô sang tối ưu hiệu quả vận hành tại các cửa hàng hiện hữu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.557693+07:00",
+      "fetched": "2026-04-04T17:24:02.557841+07:00"
+    },
+    {
+      "id": "75d4c948c5993e51f43c60304d84193f",
+      "title": "Phát truyện ma hơn 10 tiếng/ngày trả đũa hàng xóm, cơ quan chức năng bó tay",
+      "link": "https://tuoitre.vn/phat-truyen-ma-hon-10-tieng-ngay-tra-dua-hang-xom-co-quan-chuc-nang-bo-tay-20260404140547385.htm",
+      "summary": "Một người đàn ông Trung Quốc mở loa truyện ma 'tra tấn' hàng xóm suốt 10 tiếng mỗi ngày mà cơ quan chức năng không thể xử phạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.557553+07:00",
+      "fetched": "2026-04-04T17:24:02.557678+07:00"
+    },
+    {
+      "id": "702eb364b314b37d57c4fc80d8e245c6",
+      "title": "Bị chó cắn từ tháng 6-2025, người đàn ông ở Tây Ninh vừa tử vong nghi do bệnh dại",
+      "link": "https://tuoitre.vn/bi-cho-can-tu-thang-6-2025-nguoi-dan-ong-o-tay-ninh-vua-tu-vong-nghi-do-benh-dai-20260404143336354.htm",
+      "summary": "Bị chó nhà anh trai cắn vào ngón tay trái gây vết thương từ tháng 6-2025, đến ngày 30-3, bệnh nhân bắt đầu có triệu chứng mệt mỏi, sốt, sợ gió và đến nay đã tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.557425+07:00",
+      "fetched": "2026-04-04T17:24:02.557542+07:00"
+    },
+    {
+      "id": "be43ff87d9a98b738ca74f7683205cda",
+      "title": "HUTECH tổ chức hội nghị toàn quốc",
+      "link": "https://tuoitre.vn/hutech-to-chuc-hoi-nghi-toan-quoc-20260404125910143.htm",
+      "summary": "Trước làn sóng chuyển đổi số, khoa học xã hội đang bước vào giai đoạn chuyển mình mạnh mẽ với nhiều hướng tiếp cận mới, liên ngành và giàu tính ứng dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.557289+07:00",
+      "fetched": "2026-04-04T17:24:02.557414+07:00"
+    },
+    {
+      "id": "5c5f23f23eb1ff6e13ea224555b407c9",
+      "title": "Bộ Công an lý giải đề xuất dừng xuất cảnh, cắt điện, nước cưỡng chế xử phạt vi phạm hành chính",
+      "link": "https://tuoitre.vn/bo-cong-an-ly-giai-de-xuat-dung-xuat-canh-cat-dien-nuoc-cuong-che-xu-phat-vi-pham-hanh-chinh-20260404143607986.htm",
+      "summary": "Việc đề xuất bổ sung biện pháp cưỡng chế dừng xuất cảnh, cắt điện, nước đã được Bộ Công an nghiên cứu, rà soát, đánh giá kỹ lưỡng, bảo đảm tính thống nhất, đồng bộ trong hệ thống pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.557162+07:00",
+      "fetched": "2026-04-04T17:24:02.557277+07:00"
+    },
+    {
+      "id": "7366aca0e189a80152a9aa06f1024b86",
+      "title": "Mùa thi hoa hậu 2026: Miss World đến Việt Nam, Miss Universe chọn Puerto Rico",
+      "link": "https://tuoitre.vn/mua-thi-hoa-hau-2026-miss-world-den-viet-nam-miss-universe-chon-puerto-rico-20260404144953898.htm",
+      "summary": "Năm 2026, nhiều đấu trường nhan sắc quốc tế trở lại, thu hút hàng trăm người đẹp từ khắp nơi trên thế giới tham dự. Đa số các cuộc thi chọn thời điểm tổ chức vòng chung kết vào cuối năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.557030+07:00",
+      "fetched": "2026-04-04T17:24:02.557150+07:00"
+    },
+    {
+      "id": "2e18dccf1e27538671eaa59391aa2b7f",
+      "title": "Khởi tố người phụ nữ làm giá đỗ bằng hóa chất độc hại, bán hơn 500 tấn ra chợ đầu mối",
+      "link": "https://tuoitre.vn/khoi-to-nguoi-phu-nu-lam-gia-do-bang-hoa-chat-doc-hai-ban-hon-500-tan-ra-cho-dau-moi-20260404142800563.htm",
+      "summary": "Một phụ nữ ở Phú Thọ vừa bị khởi tố vì làm giá đỗ bằng hóa chất độc hại, bán hơn 500 tấn ra chợ đầu mối ở khu vực Vĩnh Phúc (Phú Thọ), Sơn Tây (Hà Nội) và Lào Cai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.556893+07:00",
+      "fetched": "2026-04-04T17:24:02.557018+07:00"
+    },
+    {
+      "id": "a32157ca1a8ab080b55b7920bfd8846a",
+      "title": "Nắng nóng Nam Bộ chạm ngưỡng 39 độ C trong tháng 4",
+      "link": "https://tuoitre.vn/nang-nong-nam-bo-cham-nguong-39-do-c-trong-thang-4-20260404123909019.htm",
+      "summary": "Trong tháng 4 này, thời tiết Nam Bộ nắng nóng gay gắt, mức nhiệt chạm ngưỡng 39 độ C ở miền Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.556731+07:00",
+      "fetched": "2026-04-04T17:24:02.556879+07:00"
+    },
+    {
+      "id": "ee02767d14461938b6756a85d6367faf",
+      "title": "Giá dầu vượt gần gấp đôi dự toán, Senegal yêu cầu quan chức dừng công tác nước ngoài",
+      "link": "https://tuoitre.vn/gia-dau-vuot-gan-gap-doi-du-toan-senegal-yeu-cau-quan-chuc-dung-cong-tac-nuoc-ngoai-20260404145745253.htm",
+      "summary": "Các bộ trưởng và quan chức cấp cao Senegal sẽ dừng các chuyến công tác nước ngoài không thiết yếu, trong bối cảnh giá dầu gần gấp đôi mức được giả định trong dự toán ngân sách của nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.556589+07:00",
+      "fetched": "2026-04-04T17:24:02.556718+07:00"
+    },
+    {
+      "id": "0945a55336a24c058a4ae942e40b98aa",
+      "title": "Lộ trình chặng 3 cuộc đua xe đạp Cúp truyền hình TP.HCM 2026",
+      "link": "https://tuoitre.vn/lo-trinh-chang-3-cuoc-dua-xe-dap-cup-truyen-hinh-tp-hcm-2026-20260404150315521.htm",
+      "summary": "Chặng 3 Cuộc đua xe đạp toàn quốc Cúp truyền hình TP.HCM HTV - Tôn Đông Á – 2026 sẽ có lộ trình quanh Hồ Hoàn Kiếm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T17:24:02.556354+07:00",
+      "fetched": "2026-04-04T17:24:02.556574+07:00"
+    },
     {
       "id": "011116f97238a7c68640fa498dc35191",
       "title": "Chuẩn bị nhân lực cho Trung tâm Tài chính quốc tế tại TP.HCM",
@@ -453,6 +603,286 @@ window.newsData_2026_04_04 = {
       "fetched": "2026-04-04T11:08:10.255883+07:00"
     },
     {
+      "id": "3fc960be4ad2aaf7d65ebf9b5338acf1",
+      "title": "Mỹ nhân Hồng Kông đóng cảnh nóng táo bạo, hé lộ phản ứng của chồng",
+      "link": "https://thanhnien.vn/my-nhan-hong-kong-dong-canh-nong-tao-bao-he-lo-phan-ung-cua-chong-185260404155504314.htm",
+      "summary": "Trần Vỹ gây 'choáng' khi có cảnh nóng táo bạo với bạn diễn Cổ Thiên Tường trong 'Nữ thần công lý'. Mỹ nhân Hồng Kông tiết lộ cô đã báo trước với chồng nhưng vẫn bất ngờ trước phản ứng của bạn đời khi xem phim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T10:21:00+07:00",
+      "fetched": "2026-04-04T17:24:01.136764+07:00"
+    },
+    {
+      "id": "59e3485d1fd0507b8cd1c73ad7338939",
+      "title": "Xổ số miền Nam ngày 4 tháng 4: Đài Hậu Giang có 2 dãy số trúng 2 giải",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-4-thang-4-dai-hau-giang-co-2-day-so-trung-2-giai-185260404161401144.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 4 tháng 4, đài Hậu Giang có tới 2 dãy số trúng 2 giải. Nhiều người chơi xổ số bất ngờ khi con số mang lại may mắn là 44 trong ngày 4 tháng 4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T10:03:00+07:00",
+      "fetched": "2026-04-04T17:24:01.136967+07:00"
+    },
+    {
+      "id": "25f3342c4878ba77778076b0f1df5d3c",
+      "title": "TOÀN CẢNH 17H: Sự thật chuỗi bánh mì để Eric Vương lừa đảo | Sắp thông tin vụ án ở Bảo Tín Minh Châu",
+      "link": "https://thanhnien.vn/toan-canh-17h-su-that-chuoi-banh-mi-de-eric-vuong-lua-dao-sap-thong-tin-vu-an-o-bao-tin-minh-chau-185260404160454343.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T10:00:00+07:00",
+      "fetched": "2026-04-04T17:24:01.137129+07:00"
+    },
+    {
+      "id": "762240f73bea321b60b0353399017ee9",
+      "title": "Thứ trưởng Công Thương: Nguồn cung xăng dầu đảm bảo đến hết tháng 4",
+      "link": "https://vnexpress.net/thu-truong-cong-thuong-nguon-cung-xang-dau-dam-bao-den-het-thang-4-5058557.html",
+      "summary": "Lượng hàng nhập khẩu và tồn kho có thể đảm bảo đảm nguồn cung xăng dầu đến hết tháng 4, theo Thứ trưởng Nguyễn Sinh Nhật Tân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-04T09:55:34+07:00",
+      "fetched": "2026-04-04T17:24:05.691464+07:00"
+    },
+    {
+      "id": "4dfe909176dd178564554a686c8e63c9",
+      "title": "Bộ Công an thông tin về những nghiên cứu trước khi bán pháo hoa nổ ra thị trường",
+      "link": "https://thanhnien.vn/bo-cong-an-thong-tin-ve-nhung-nghien-cuu-truoc-khi-ban-phao-hoa-185260404141512936.htm",
+      "summary": "Lãnh đạo Cục Cảnh sát quản lý hành chính về trật tự xã hội (Bộ Công an) cho biết đơn vị đang nghiên cứu về việc điều chỉnh chiều cao, âm thanh, màu sắc của pháo hoa hướng đến sản phẩm đa dạng về màu sắc, mẫu mã, phù hợp thuần phong mỹ tục…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:53:00+07:00",
+      "fetched": "2026-04-04T17:24:01.137283+07:00"
+    },
+    {
+      "id": "edfe923b399aedad0f6b38ae10394189",
+      "title": "Từ 2027, bỏ tem kiểm định dán trên kính ô tô",
+      "link": "https://thanhnien.vn/tu-2027-bo-tem-kiem-dinh-dan-tren-kinh-o-to-185260404164329419.htm",
+      "summary": "Quy định áp dụng theo Nghị định số 89/2026 do Chính phủ mới ban hành về điều kiện kinh doanh dịch vụ kiểm định xe cơ giới; tổ chức, hoạt động của cơ sở đăng kiểm; niên hạn sử dụng của xe cơ giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:46:00+07:00",
+      "fetched": "2026-04-04T17:24:01.137437+07:00"
+    },
+    {
+      "id": "c4b22c4779a1d33b55c709ff89556b8c",
+      "title": "Bộ Công thương sẽ đảm bảo nguồn cung xăng dầu",
+      "link": "https://thanhnien.vn/bo-cong-thuong-se-dam-bao-nguon-cung-xang-dau-185260404162013615.htm",
+      "summary": "Thứ trưởng Nguyễn Sinh Nhật Tân khẳng định: 'Bộ Công thương sẽ đảm bảo nguồn cung xăng dầu' khẳng định và cho hay bộ sẽ cập nhật tình hình giá để điều hành phù hợp, có giải pháp đảm bảo cung cầu, giá hài hòa lợi ích Nhà nước và người tiêu dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:37:00+07:00",
+      "fetched": "2026-04-04T17:24:01.137588+07:00"
+    },
+    {
+      "id": "743ddb23de8e43d358c94721bbe9e79d",
+      "title": "Góp thưởng từ yêu thương, 'Ví Khỏe Nhà Ta' của Long Châu gắn kết gia đình đa thế hệ",
+      "link": "https://thanhnien.vn/gop-thuong-tu-yeu-thuong-vi-khoe-nha-ta-cua-long-chau-gan-ket-gia-dinh-da-the-he-18526040416484023.htm",
+      "summary": "Chăm sóc sức khỏe gia đình vừa chu toàn, vừa tối ưu kinh tế vẫn luôn là 'bài toán khó'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:31:00+07:00",
+      "fetched": "2026-04-04T17:24:01.137738+07:00"
+    },
+    {
+      "id": "7e106c5810b96965fdb28ff99756c026",
+      "title": "Lineage W sắp phát hành tại Việt Nam",
+      "link": "https://vnexpress.net/lineage-w-sap-phat-hanh-tai-viet-nam-5058561.html",
+      "summary": "Lineage W là game nhập vai trực tuyến thuộc series Lineage của NC, dự kiến ra mắt game thủ Việt và thị trường Đông Nam Á thời gian tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:30:00+07:00",
+      "fetched": "2026-04-04T17:23:57.627994+07:00"
+    },
+    {
+      "id": "71ce1a410a806d0b7872cd6776489926",
+      "title": "Quan chức đòi cấm xe Trung Quốc, người Mỹ lại muốn mua… vì giá rẻ",
+      "link": "https://thanhnien.vn/quan-chuc-doi-cam-xe-trung-quoc-nguoi-my-lai-muon-mua-vi-gia-re-185260403173129425.htm",
+      "summary": "Trong khi nhiều quan chức Mỹ muốn \"siết cửa\" xe Trung Quốc vì lo ngại an ninh, không ít người tiêu dùng nước này lại tỏ ra quan tâm, thậm chí muốn mua các mẫu xe này vì giá thấp, nhiều trang bị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:30:00+07:00",
+      "fetched": "2026-04-04T17:24:01.137913+07:00"
+    },
+    {
+      "id": "5bf76e5338d8c7c3537ceb24c5725857",
+      "title": "Vụ 300 tấn thịt lợn bệnh vào trường học: Bộ GD-ĐT nói gì?",
+      "link": "https://thanhnien.vn/vu-300-tan-thit-lon-benh-vao-truong-hoc-bo-gd-dt-noi-gi-185260404160126015.htm",
+      "summary": "Sau vụ việc 300 tấn thịt lợn bệnh vào chợ, trường học, Bộ GD-ĐT đã yêu cầu các cơ sở giáo dục nhanh chóng rà soát các hợp đồng liên quan các đơn vị cung cấp bữa ăn, nếu có vi phạm phải chấm dứt ngay hợp đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:26:00+07:00",
+      "fetched": "2026-04-04T17:24:01.138079+07:00"
+    },
+    {
+      "id": "ec5d8c145a26b3e402547888c1fb6c6a",
+      "title": "Ngày thảm họa của không quân Mỹ ở Iran",
+      "link": "https://vnexpress.net/ngay-tham-hoa-cua-khong-quan-my-o-iran-5058507.html",
+      "summary": "Không quân Mỹ trải qua \"ngày đen tối\" nhất từ đầu chiến sự Iran, khi hai máy bay bị bắn hạ, hai trực thăng trúng đạn và một phi công mất tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:25:47+07:00",
+      "fetched": "2026-04-04T17:23:57.628172+07:00"
+    },
+    {
+      "id": "ec5d8c145a26b3e402547888c1fb6c6a",
+      "title": "Ngày thảm họa của không quân Mỹ ở Iran",
+      "link": "https://vnexpress.net/ngay-tham-hoa-cua-khong-quan-my-o-iran-5058507.html",
+      "summary": "Không quân Mỹ trải qua \"ngày đen tối\" nhất từ đầu chiến sự Iran, khi hai máy bay bị bắn hạ, hai trực thăng trúng đạn và một phi công mất tích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-04T09:25:47+07:00",
+      "fetched": "2026-04-04T17:24:03.744370+07:00"
+    },
+    {
+      "id": "39c6fd250dbe99e0c301b8b47f2fa356",
+      "title": "Nguyên tắc ăn '3 ít, 2 nhiều' giúp ổn định huyết áp",
+      "link": "https://vnexpress.net/nguyen-tac-an-3-it-2-nhieu-giup-on-dinh-huyet-ap-5058102.html",
+      "summary": "Để giúp bệnh nhân tim mạch và người nhà hiểu đúng về cao huyết áp cũng như tự chăm sóc tại nhà, các chuyên gia khuyến nghị quy tắc \"722\" và chế độ ăn \"3 ít, 2 nhiều\" để ổn định huyết áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:19:12+07:00",
+      "fetched": "2026-04-04T17:23:57.628343+07:00"
+    },
+    {
+      "id": "75ee9eed0cd1a54b86097b9bb225e199",
+      "title": "Trường học phải công khai đơn vị cung cấp thực phẩm",
+      "link": "https://vnexpress.net/truong-hoc-phai-cong-khai-don-vi-cung-cap-thuc-pham-5058551.html",
+      "summary": "Bộ Giáo dục và đào tạo yêu cầu tất cả trường học phải công khai đơn vị cung cấp thức ăn, thực phẩm trên trang thông tin điện tử, phương tiện thông tin đại chúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:19:10+07:00",
+      "fetched": "2026-04-04T17:23:57.628514+07:00"
+    },
+    {
+      "id": "6b18eb5d5f252eb9a1df4b6010eebcce",
+      "title": "Chàng trai Nghệ An mất tích 26 ngày, mẹ khóc cạn nước mắt tìm con",
+      "link": "https://thanhnien.vn/chang-trai-nghe-an-mat-tich-26-ngay-me-khoc-can-nuoc-mat-tim-con-185260404161822958.htm",
+      "summary": "Gần 1 tháng con trai mất tích cũng là chừng đó thời gian chị Oanh khóc cạn nước mắt vì nhớ thương con. Ròng rã 26 ngày qua, chị và gia đình mang ảnh con rong ruổi khắp bến xe, nhà ga, khu trọ… với hy vọng tìm được Lê Anh Quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:17:00+07:00",
+      "fetched": "2026-04-04T17:24:01.138236+07:00"
+    },
+    {
+      "id": "7871d786193b40955c07340df1f5cb55",
+      "title": "Nhóm sinh viên phát triển giải pháp truy xuất thông tin y tế bằng QR",
+      "link": "https://vnexpress.net/nhom-sinh-vien-phat-trien-giai-phap-truy-xuat-thong-tin-y-te-bang-qr-5058475.html",
+      "summary": "Nhóm sinh viên Tri-force phát triển giải pháp truy xuất thông tin y tế bằng mã QR, hiển thị dữ liệu bệnh nhân trong vài giây, ngay cả khi không có Internet.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:15:59+07:00",
+      "fetched": "2026-04-04T17:23:57.628674+07:00"
+    },
+    {
+      "id": "7871d786193b40955c07340df1f5cb55",
+      "title": "Nhóm sinh viên phát triển giải pháp truy xuất thông tin y tế bằng QR",
+      "link": "https://vnexpress.net/nhom-sinh-vien-phat-trien-giai-phap-truy-xuat-thong-tin-y-te-bang-qr-5058475.html",
+      "summary": "Nhóm sinh viên Tri-force phát triển giải pháp truy xuất thông tin y tế bằng mã QR, hiển thị dữ liệu bệnh nhân trong vài giây, ngay cả khi không có Internet.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-04T09:15:59+07:00",
+      "fetched": "2026-04-04T17:24:08.520335+07:00"
+    },
+    {
+      "id": "d5d8d178b2624f8ce02b46766422b1fa",
+      "title": "Hàng triệu điện thoại Android đã cài 50 ứng dụng chứa phần mềm độc hại",
+      "link": "https://thanhnien.vn/hang-trieu-dien-thoai-android-da-cai-50-ung-dung-chua-phan-mem-doc-hai-185260404160108358.htm",
+      "summary": "Ngay cả khi khôi phục cài đặt gốc, phần mềm độc hại vẫn có thể tồn tại và gây ra mối nguy hiểm cho người dùng Android.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:11:00+07:00",
+      "fetched": "2026-04-04T17:24:01.138383+07:00"
+    },
+    {
+      "id": "d1d0a9367a9985a10ab3af23ad077e80",
+      "title": "CSGT dùng xe hóa trang xử phạt gần 100 ôtô vi phạm trên cao tốc",
+      "link": "https://vnexpress.net/csgt-dung-xe-hoa-trang-xu-phat-gan-100-oto-vi-pham-tren-cao-toc-5058553.html",
+      "summary": "CSGT trên các tuyến cao tốc từ TP HCM đến Nha Trang dùng ôtô dân dụng gắn thiết bị ghi hình để phát hiện, xử phạt 98 xe vi phạm trong 24 giờ, tổng tiền phạt hơn 500 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:10:01+07:00",
+      "fetched": "2026-04-04T17:23:57.628853+07:00"
+    },
+    {
+      "id": "864a2353c0b43d8d626462c3ec73116e",
+      "title": "Hộ kinh doanh làm đại lý tour du lịch thì kê khai doanh thu như thế nào?",
+      "link": "https://thanhnien.vn/ho-kinh-doanh-lam-dai-ly-tour-du-lich-thi-ke-khai-doanh-thu-nhu-the-nao-185260404154920645.htm",
+      "summary": "Hộ kinh doanh làm đại lý dịch vụ khi kê khai nộp thuế sẽ cần xác định rõ doanh thu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:09:00+07:00",
+      "fetched": "2026-04-04T17:24:01.138531+07:00"
+    },
+    {
+      "id": "b1e5eb9b7fd8dfc9a1c106501ab972d0",
+      "title": "Galaxy S26 FE sẽ trang bị chip 3 nm siêu mạnh",
+      "link": "https://thanhnien.vn/galaxy-s26-fe-se-trang-bi-chip-3-nm-sieu-manh-185260404153845318.htm",
+      "summary": "Đừng mua Galaxy S26 vội, bạn hãy xem qua cấu hình vừa rò rỉ của Galaxy S26 FE xem có đáng để chờ đợi?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:05:00+07:00",
+      "fetched": "2026-04-04T17:24:01.138677+07:00"
+    },
+    {
+      "id": "872c4aadbd0c5c00e466640f05ec918b",
+      "title": "7 dưỡng chất tốt cho xương khớp phái đẹp tuổi 30",
+      "link": "https://vnexpress.net/7-duong-chat-tot-cho-xuong-khop-phai-dep-tuoi-30-5058489.html",
+      "summary": "Bổ sung canxi, sắt, omega-3, vitamin giúp phụ nữ tuổi 30 tăng cường sức khỏe xương và hệ miễn dịch, giảm nguy cơ mắc bệnh mạn tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:00:00+07:00",
+      "fetched": "2026-04-04T17:23:57.629018+07:00"
+    },
+    {
+      "id": "1eb5cd7270fd447229c90955a76096d8",
+      "title": "Khởi tố nhóm thanh thiếu niên mang kiếm, nẹt pô gây náo loạn đường phố Đà Nẵng",
+      "link": "https://thanhnien.vn/khoi-to-nhom-thanh-thieu-nien-mang-kiem-net-po-gay-nao-loan-duong-pho-da-nang-185260404153703364.htm",
+      "summary": "Từ clip một nhóm mang hung khí, nẹt pô rượt đuổi gây náo loạn đường 2 Tháng 9, Công an thành phố Đà Nẵng nhanh chóng truy xét, khởi tố 9 người liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:00:00+07:00",
+      "fetched": "2026-04-04T17:24:01.138847+07:00"
+    },
+    {
+      "id": "833fd38f2ed6c1dce56dd1716d503a3a",
+      "title": "Xổ số miền Nam ngày 4 tháng 4: Kết quả xổ số hôm nay thứ bảy",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-4-thang-4-ket-qua-xo-so-hom-nay-thu-bay-185260404152316986.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 4 tháng 4. Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ bảy ngày 4.4.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T09:00:00+07:00",
+      "fetched": "2026-04-04T17:24:01.138999+07:00"
+    },
+    {
+      "id": "f513ba0c72acb46895f6c96fbdb20f4d",
+      "title": "Phi hành đoàn Artemis II vượt mốc 'nửa đường tới Mặt Trăng'",
+      "link": "https://vnexpress.net/phi-hanh-doan-artemis-ii-vuot-moc-nua-duong-toi-mat-trang-5058538.html",
+      "summary": "Tàu vũ trụ Orion đã bay được nửa đường tới Mặt Trăng, hơn hai ngày sau khi xuất phát từ Trung tâm Vũ trụ Kennedy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T08:45:03+07:00",
+      "fetched": "2026-04-04T17:23:57.629189+07:00"
+    },
+    {
+      "id": "f513ba0c72acb46895f6c96fbdb20f4d",
+      "title": "Phi hành đoàn Artemis II vượt mốc 'nửa đường tới Mặt Trăng'",
+      "link": "https://vnexpress.net/phi-hanh-doan-artemis-ii-vuot-moc-nua-duong-toi-mat-trang-5058538.html",
+      "summary": "Tàu vũ trụ Orion đã bay được nửa đường tới Mặt Trăng, hơn hai ngày sau khi xuất phát từ Trung tâm Vũ trụ Kennedy.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-04T08:45:03+07:00",
+      "fetched": "2026-04-04T17:24:08.519128+07:00"
+    },
+    {
+      "id": "dc0008ba48307d0462ffa17d7f9aaf43",
+      "title": "Thủ tướng: Con thuyền kinh tế xã hội đất nước cập bến an toàn",
+      "link": "https://vnexpress.net/thu-tuong-con-thuyen-kinh-te-xa-hoi-dat-nuoc-cap-ben-an-toan-5058543.html",
+      "summary": "Thủ tướng Phạm Minh Chính khẳng định trong nhiệm kỳ vừa qua, dù phải vượt qua nhiều cơn gió ngược nhưng con thuyền kinh tế xã hội đất nước đã cập bến an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T08:40:10+07:00",
+      "fetched": "2026-04-04T17:23:57.629346+07:00"
+    },
+    {
       "id": "2c5540a63a68a1a98d24c2ff385fcdb0",
       "title": "‘Tướng quân kem nền’ gây bão dư luận, Cục Phát thanh và Truyền hình Trung Quốc họp khẩn",
       "link": "https://thanhnien.vn/tuong-quan-kem-nen-gay-bao-du-luan-cuc-phat-thanh-va-truyen-hinh-trung-quoc-hop-khan-185260404143138546.htm",
@@ -461,6 +891,16 @@ window.newsData_2026_04_04 = {
       "category": "Tổng hợp",
       "published": "2026-04-04T08:29:00+07:00",
       "fetched": "2026-04-04T15:30:22.240902+07:00"
+    },
+    {
+      "id": "f437c7b072f460f531ccd8a88807dad7",
+      "title": "Bỏ dán tem kiểm định trên kính ôtô từ năm 2027",
+      "link": "https://vnexpress.net/bo-dan-tem-kiem-dinh-tren-kinh-oto-tu-nam-2027-5058449.html",
+      "summary": "Từ ngày 1/1/2027, ôtô sẽ không phải dán tem kiểm định trên kính trước, việc quản lý phương tiện được thực hiện thông qua dữ liệu điện tử kết hợp camera AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T08:25:51+07:00",
+      "fetched": "2026-04-04T17:23:57.629499+07:00"
     },
     {
       "id": "6460b852cf195f13b973efd17d4abc74",
@@ -623,6 +1063,16 @@ window.newsData_2026_04_04 = {
       "fetched": "2026-04-04T15:30:22.241392+07:00"
     },
     {
+      "id": "af6c27bd491f07ad9b57ff9b82c52efe",
+      "title": "Tôi muốn bỏ văn phòng lương 15 triệu để làm việc chân tay",
+      "link": "https://vnexpress.net/toi-muon-bo-van-phong-luong-15-trieu-de-lam-viec-chan-tay-5058537.html",
+      "summary": "Tôi cần một kỳ nghỉ để lấy lại tinh thần và tiếp tục công việc hay nên chuyển đổi công việc?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T08:05:27+07:00",
+      "fetched": "2026-04-04T17:23:57.629804+07:00"
+    },
+    {
       "id": "b77536e322f818b67acf52c30a39fc77",
       "title": "Sự thay đổi kinh ngạc của 'thần đồng vũ đạo Hàn Quốc' khi trưởng thành",
       "link": "https://thanhnien.vn/su-thay-doi-kinh-ngac-cua-than-dong-vu-dao-han-quoc-khi-truong-thanh-18526040412194085.htm",
@@ -631,6 +1081,36 @@ window.newsData_2026_04_04 = {
       "category": "Tổng hợp",
       "published": "2026-04-04T08:02:00+07:00",
       "fetched": "2026-04-04T15:30:22.241547+07:00"
+    },
+    {
+      "id": "6f9bbfbee123ca59f37a830498917bc5",
+      "title": "Hợp tác 3 bên thúc đẩy ứng dụng công nghệ tế bào gốc",
+      "link": "https://vnexpress.net/hop-tac-3-ben-thuc-day-ung-dung-cong-nghe-te-bao-goc-5058502.html",
+      "summary": "Cellcare Holdings, Cellresearch Corporation và Cellcare Laboratory hợp tác nghiên cứu, chuyển giao công nghệ tế bào gốc từ màng dây rốn, hướng tới ứng dụng thực tiễn, phù hợp quy định từng quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T08:00:00+07:00",
+      "fetched": "2026-04-04T17:23:57.629991+07:00"
+    },
+    {
+      "id": "d00212e44ef0038aa58b6d3e784e495d",
+      "title": "Tuổi 34, tôi muốn 'nổi đóa' khi bị thúc giục chuyện cưới xin",
+      "link": "https://vnexpress.net/tuoi-34-toi-muon-noi-doa-khi-bi-thuc-giuc-chuyen-cuoi-xin-5058405.html",
+      "summary": "Tôi mạnh dạn theo đuổi những người con gái mà mình thích nhưng sự may mắn lại không mỉm cười với tôi, tôi đều không được chấp nhận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T08:00:00+07:00",
+      "fetched": "2026-04-04T17:23:57.630147+07:00"
+    },
+    {
+      "id": "01c2ae73bd50e6e1fb10e9505a91463e",
+      "title": "8 thói quen lành mạnh vào buổi tối giúp ngủ ngon",
+      "link": "https://vnexpress.net/8-thoi-quen-lanh-manh-vao-buoi-toi-giup-ngu-ngon-5058271.html",
+      "summary": "Uống một cốc nước, xem phim, giảm lượng caffeine vào buổi chiều có thể thúc đẩy cảm giác buồn ngủ đến nhanh, đúng giờ hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T08:00:00+07:00",
+      "fetched": "2026-04-04T17:23:57.630303+07:00"
     },
     {
       "id": "dd5d9bc0bd509d0479e8b1b4dc129d53",
