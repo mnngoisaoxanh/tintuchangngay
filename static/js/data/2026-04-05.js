@@ -1,6 +1,6 @@
 window.newsData_2026_04_05 = {
   "date": "2026-04-05",
-  "lastUpdated": "2026-04-05T03:19:19.617188+07:00",
+  "lastUpdated": "2026-04-05T05:19:31.988569+07:00",
   "articles": [
     {
       "id": "7e8b00e41a3b0be51b0e13f3198a09f2",
@@ -181,6 +181,166 @@ window.newsData_2026_04_05 = {
       "category": "Tổng hợp",
       "published": "2026-04-05T01:28:02.768373+07:00",
       "fetched": "2026-04-05T01:28:02.768578+07:00"
+    },
+    {
+      "id": "dcbb7ba5c8cc20c1c3bec7d51f82a23a",
+      "title": "Tử vi ngày 5 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-5-thang-4-con-giap-nao-may-man-hom-nay-185260404164356091.htm",
+      "summary": "Tử vi ngày 5 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp ngày cuối tuần. Năng lượng chuyển sang 'trải nghiệm và cảm nhận' - không phải lúc nào cũng cần hiệu suất cao, đôi khi bạn cần nhìn lại để hiểu mình đang ở đâu. Tài lộc không đến từ việc làm nhiều, mà từ cách bạn sử dụng thời gian và...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T22:15:00+07:00",
+      "fetched": "2026-04-05T05:19:25.116482+07:00"
+    },
+    {
+      "id": "d2eb2844a26497f1df094cd8c2adaec0",
+      "title": "Chiến sự Ukraine ngày 1.501: Nga ném bom lượn kỷ lục, ông Zelensky đến Thổ Nhĩ Kỳ",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1501-nga-nem-bom-luon-ky-luc-ong-zelensky-den-tho-nhi-ky-185260404210203828.htm",
+      "summary": "Nga tiếp tục phá vỡ kỷ lục của chính mình về số bom lượn sử dụng hằng tháng trong cuộc chiến với Ukraine, trong khi Tổng thống Ukraine Volodymyr Zelensky tiếp tục nỗ lực hợp tác an ninh với các nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T22:05:00+07:00",
+      "fetched": "2026-04-05T05:19:25.116658+07:00"
+    },
+    {
+      "id": "d44471f3978c5d17e52eceae8995f54e",
+      "title": "Chiến sự Ukraine tăng nhiệt trước thềm lễ Phục sinh",
+      "link": "https://thanhnien.vn/chien-su-ukraine-tang-nhiet-truoc-them-le-phuc-sinh-185260404204228615.htm",
+      "summary": "Nga tăng cường tấn công khiến Tổng thống Ukraine Volodymyr Zelensky chỉ trích về \"đợt leo thang dịp lễ Phục sinh\", trong khi Ukraine tiếp tục tập kích hạ tầng nhiên liệu Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T22:00:00+07:00",
+      "fetched": "2026-04-05T05:19:25.116816+07:00"
+    },
+    {
+      "id": "cc9a309e35aff8dd26f9146ac2360759",
+      "title": "Hôm nay 5.4 là Tết Thanh minh 2026, người Việt cần lưu ý gì?",
+      "link": "https://thanhnien.vn/hom-nay-54-la-tet-thanh-minh-2026-nguoi-viet-can-luu-y-gi-185260404084143108.htm",
+      "summary": "Tiết Thanh minh (Tết Thanh minh) chính thức bắt đầu vào hôm nay 5.4. Đây là tiết khí thứ 5 trong 24 tiết khí trong năm, người Việt cần lưu ý gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T22:00:00+07:00",
+      "fetched": "2026-04-05T05:19:25.116969+07:00"
+    },
+    {
+      "id": "a538f052b70a41d785c655a4be5e9b6a",
+      "title": "5 mẫu sạc nhanh trên 100 W tích hợp màn hình",
+      "link": "https://vnexpress.net/5-mau-sac-nhanh-tren-100-w-tich-hop-man-hinh-5057399.html",
+      "summary": "Các củ sạc từ Anker, Ugreen, Cuktech… có công suất cao đi kèm màn hình hiển thị giúp theo dõi thông số chi tiết.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-04T22:00:00+07:00",
+      "fetched": "2026-04-05T05:19:30.286409+07:00"
+    },
+    {
+      "id": "b620dd99549b96b9068b576e119f1cc9",
+      "title": "Chelsea thắng 7-0 ở Cup FA",
+      "link": "https://vnexpress.net/chelsea-thang-7-0-o-cup-fa-5058656.html",
+      "summary": "Sáu cầu thủ ghi bàn cùng một pha phản lưới giúp Chelsea đè bẹp đội khách Port Vale ở tứ kết Cup FA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T21:41:21+07:00",
+      "fetched": "2026-04-05T05:19:22.383756+07:00"
+    },
+    {
+      "id": "b620dd99549b96b9068b576e119f1cc9",
+      "title": "Chelsea thắng 7-0 ở Cup FA",
+      "link": "https://vnexpress.net/chelsea-thang-7-0-o-cup-fa-5058656.html",
+      "summary": "Sáu cầu thủ ghi bàn cùng một pha phản lưới giúp Chelsea đè bẹp đội khách Port Vale ở tứ kết Cup FA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-04T21:41:21+07:00",
+      "fetched": "2026-04-05T05:19:31.983773+07:00"
+    },
+    {
+      "id": "b1974d2ce2b3003635ee8d6c5356b7fe",
+      "title": "NASA công bố hình ảnh được chụp từ Artemis 2",
+      "link": "https://thanhnien.vn/nasa-cong-bo-hinh-anh-duoc-chup-tu-artemis-2-185260404212327616.htm",
+      "summary": "Cơ quan Hàng không vũ trụ Mỹ (NASA) ngày 3.4 đã công bố những bức ảnh đầu tiên được chụp từ bên trong tàu vũ trụ Orion - chở theo các phi hành gia khám phá mặt trăng trong sứ mệnh Artemis 2, CNN đưa tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T21:39:00+07:00",
+      "fetched": "2026-04-05T05:19:25.117119+07:00"
+    },
+    {
+      "id": "b7e9357ca3196699263a99ce5f85fb23",
+      "title": "Tình hình Trung Đông mới nhất sáng 5.4: Ông Trump nói Iran chỉ còn 48 giờ",
+      "link": "https://thanhnien.vn/tinh-hinh-trung-dong-moi-nhat-sang-54-ong-trump-noi-iran-chi-con-48-gio-185260405005154735.htm",
+      "summary": "Chiến sự ở Trung Đông tiếp diễn với một biến số mới khi máy bay quân sự Mỹ bị Iran bắn hạ và nhiều câu hỏi về diễn biến tiếp theo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T21:30:00+07:00",
+      "fetched": "2026-04-05T05:19:25.117268+07:00"
+    },
+    {
+      "id": "af1ae9735f680cca3a9de0e5b64dc0bd",
+      "title": "Ít ai biết: Loại củ rẻ tiền giúp ngủ ngon, giảm 'nóng trong người' hiệu quả",
+      "link": "https://thanhnien.vn/it-ai-biet-loai-cu-re-tien-giup-ngu-ngon-giam-nong-trong-nguoi-hieu-qua-185260404163705559.htm",
+      "summary": "Củ sen là thực phẩm quen thuộc nhưng ít ai biết có thể giúp ngủ ngon, giảm nóng trong và thư giãn thần kinh nếu dùng đúng cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T21:16:00+07:00",
+      "fetched": "2026-04-05T05:19:25.117415+07:00"
+    },
+    {
+      "id": "2cb5d04cb5ac233d318fefa8bd296020",
+      "title": "Neymar đối mặt án treo giò 10 trận",
+      "link": "https://vnexpress.net/neymar-doi-mat-an-treo-gio-10-tran-5058653.html",
+      "summary": "Tiền đạo Neymar nguy cơ bị cấm thi đấu tới 10 trận vì những bình luận nhắm vào trọng tài, giữa lúc cơ hội dự World Cup 2026 đang ngày càng mong manh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T21:15:49+07:00",
+      "fetched": "2026-04-05T05:19:22.383941+07:00"
+    },
+    {
+      "id": "2cb5d04cb5ac233d318fefa8bd296020",
+      "title": "Neymar đối mặt án treo giò 10 trận",
+      "link": "https://vnexpress.net/neymar-doi-mat-an-treo-gio-10-tran-5058653.html",
+      "summary": "Tiền đạo Neymar nguy cơ bị cấm thi đấu tới 10 trận vì những bình luận nhắm vào trọng tài, giữa lúc cơ hội dự World Cup 2026 đang ngày càng mong manh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-04T21:15:49+07:00",
+      "fetched": "2026-04-05T05:19:31.983403+07:00"
+    },
+    {
+      "id": "99a1755e32a09ece29b7a3f31b62d1ed",
+      "title": "Slot, Szoboszlai chê Liverpool thiếu tinh thần chiến đấu",
+      "link": "https://vnexpress.net/slot-szoboszlai-che-liverpool-thieu-tinh-than-chien-dau-5058652.html",
+      "summary": "HLV Arne Slot và tiền vệ Dominik Szoboszlai đều thừa nhận Liverpool không thể hiện tinh thần thi đấu đủ mạnh mẽ khi thua Man City 0-4 ở tứ kết Cup FA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T21:12:16+07:00",
+      "fetched": "2026-04-05T05:19:22.384105+07:00"
+    },
+    {
+      "id": "99a1755e32a09ece29b7a3f31b62d1ed",
+      "title": "Slot, Szoboszlai chê Liverpool thiếu tinh thần chiến đấu",
+      "link": "https://vnexpress.net/slot-szoboszlai-che-liverpool-thieu-tinh-than-chien-dau-5058652.html",
+      "summary": "HLV Arne Slot và tiền vệ Dominik Szoboszlai đều thừa nhận Liverpool không thể hiện tinh thần thi đấu đủ mạnh mẽ khi thua Man City 0-4 ở tứ kết Cup FA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-04T21:12:16+07:00",
+      "fetched": "2026-04-05T05:19:31.983606+07:00"
+    },
+    {
+      "id": "55114562dd92dfee7742f49502a2e11a",
+      "title": "Audi khai tử động cơ 5 xi-lanh biểu tượng vì tiêu chuẩn khí thải",
+      "link": "https://vnexpress.net/audi-khai-tu-dong-co-5-xi-lanh-bieu-tuong-vi-tieu-chuan-khi-thai-5058454.html",
+      "summary": "Sau nửa thế kỷ, Audi chuẩn bị dừng sản xuất động cơ 5 xi-lanh do không còn phù hợp với các tiêu chuẩn khí thải mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T21:00:00+07:00",
+      "fetched": "2026-04-05T05:19:22.384271+07:00"
+    },
+    {
+      "id": "f886a70dd10c1594a360f937a0a718c9",
+      "title": "Khám phá ngọn đồi lãng mạn nhất nhì ở Huế: Nơi sông núi xích lại gần nhau",
+      "link": "https://thanhnien.vn/kham-pha-ngon-doi-lang-man-nhat-nhi-o-hue-noi-song-nui-xich-lai-gan-nhau-185260404132507341.htm",
+      "summary": "Từng là chốn hẹn hò của bao thế hệ sinh viên Huế, đồi Vọng Cảnh nay được đầu tư hàng chục tỉ đồng đồng để 'khoác áo mới', trở thành điểm đến lý tưởng giúp du khách thưởng ngoạn trọn vẹn vẻ đẹp thơ mộng, nơi sông núi xích lại gần nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T21:00:00+07:00",
+      "fetched": "2026-04-05T05:19:25.117590+07:00"
     },
     {
       "id": "8bf0f5a9dbbaf5687a997a25fd054ac2",
@@ -601,6 +761,16 @@ window.newsData_2026_04_05 = {
       "category": "Thể thao",
       "published": "2026-04-04T14:32:48+07:00",
       "fetched": "2026-04-05T01:28:08.712181+07:00"
+    },
+    {
+      "id": "3b975d92bc9becf317b90f2940b18d10",
+      "title": "Đình Bắc lần đầu ghi bàn sau 500 ngày ở V-League",
+      "link": "https://vnexpress.net/dinh-bac-lan-dau-ghi-ban-sau-500-ngay-o-v-league-5058611.html",
+      "summary": "Tiền đạo Nguyễn Đình Bắc ghi cú đúp giúp Công an Hà Nội hạ Đà Nẵng 5-1 ở vòng 17 V-League 2025-2026, tối 4/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-04T14:32:48+07:00",
+      "fetched": "2026-04-05T05:19:31.984090+07:00"
     },
     {
       "id": "d21014018c3faf21efee4e427134ecb5",
