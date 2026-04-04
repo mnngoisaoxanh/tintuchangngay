@@ -1,7 +1,157 @@
 window.newsData_2026_04_04 = {
   "date": "2026-04-04",
-  "lastUpdated": "2026-04-04T13:48:30.523258+07:00",
+  "lastUpdated": "2026-04-04T15:30:31.087980+07:00",
   "articles": [
+    {
+      "id": "011116f97238a7c68640fa498dc35191",
+      "title": "Chuẩn bị nhân lực cho Trung tâm Tài chính quốc tế tại TP.HCM",
+      "link": "https://tuoitre.vn/chuan-bi-nhan-luc-cho-trung-tam-tai-chinh-quoc-te-tai-tp-hcm-20260404092314445.htm",
+      "summary": "TS Majo George đề xuất gắn kết giáo dục, công nghệ và doanh nghiệp để đào tạo nhân lực trẻ, hướng tới trung tâm tài chính quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.258110+07:00",
+      "fetched": "2026-04-04T15:30:23.258221+07:00"
+    },
+    {
+      "id": "f7743134b65fbf37c6df56ab150548db",
+      "title": "Xử lý ổ dịch quai bị tại 1 trường tiểu học ở Đắk Lắk",
+      "link": "https://tuoitre.vn/xu-ly-o-dich-quai-bi-tai-1-truong-tieu-hoc-o-dak-lak-20260404122028094.htm",
+      "summary": "Ngành y tế tại Đắk Lắk đang xử lý, khống chế ổ dịch quai bị tại Trường tiểu học Phạm Hồng Thái, xã Cư Pơng với gần 10 học sinh mắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.257978+07:00",
+      "fetched": "2026-04-04T15:30:23.258098+07:00"
+    },
+    {
+      "id": "58765574d866e4a48323095e55da3ca4",
+      "title": "Sindarov: 'Tôi chả hiểu Nakamura nghĩ gì với nước đi chốt sau gần 68 phút suy nghĩ'",
+      "link": "https://tuoitre.vn/sindarov-toi-cha-hieu-nakamura-nghi-gi-voi-nuoc-di-chot-sau-gan-68-phut-suy-nghi-20260404123416237.htm",
+      "summary": "Tại vòng 5 Giải Candidates 2026 tranh ngôi Vua cờ (tối 3-4), kỳ thủ 20 tuổi Sindarov tỏ ra buồn ngủ và cảm thấy khó hiểu sau khi đợi Nakamura thực hiện nước đi thứ 13 trong 67 phút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.257855+07:00",
+      "fetched": "2026-04-04T15:30:23.257967+07:00"
+    },
+    {
+      "id": "829fd7d4bc405b8362e275a58e048d77",
+      "title": "Ngày 5-4 thi đánh giá năng lực đợt 1: Những điều thí sinh cần nhớ để tránh bị loại sớm",
+      "link": "https://tuoitre.vn/ngay-5-4-thi-danh-gia-nang-luc-dot-1-nhung-dieu-thi-sinh-can-nho-de-tranh-bi-loai-som-20260404121146835.htm",
+      "summary": "Thí sinh dự kỳ thi đánh giá năng lực đợt 1 Đại học Quốc gia TP.HCM ngày 5-4 cần nắm rõ giấy tờ, giờ giấc và quy định thi để tránh bị loại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.257730+07:00",
+      "fetched": "2026-04-04T15:30:23.257844+07:00"
+    },
+    {
+      "id": "756582c1dfbc638ef2dd53c251498585",
+      "title": "Người dùng có thể xác thực SIM chính chủ thông qua VNeID",
+      "link": "https://tuoitre.vn/nguoi-dung-co-the-xac-thuc-sim-chinh-chu-thong-qua-vneid-20260404121252808.htm",
+      "summary": "Theo quy định mới, người dùng có thể thực hiện xác thực SIM chính chủ thông qua VNeID hoặc ứng dụng của nhà mạng, thay vì bắt buộc phải đến điểm giao dịch như trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.257578+07:00",
+      "fetched": "2026-04-04T15:30:23.257718+07:00"
+    },
+    {
+      "id": "9b34b36c1f8158aa226ee07d95a49673",
+      "title": "Giá vật liệu xây dựng ở Đà Nẵng tăng, gây gánh nặng lên người xây nhà mới",
+      "link": "https://tuoitre.vn/gia-vat-lieu-xay-dung-o-da-nang-tang-gay-ganh-nang-len-nguoi-xay-nha-moi-20260404113127162.htm",
+      "summary": "Trước áp lực giá xăng dầu, nhiều loại vật liệu xây dựng có xu hướng tăng, khiến người dân Đà Nẵng xây nhà ở giai đoạn này phải chi nhiều tiền hơn so với năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.257441+07:00",
+      "fetched": "2026-04-04T15:30:23.257566+07:00"
+    },
+    {
+      "id": "2c665f07d53ea56ae98f43d4954df279",
+      "title": "Mê Trục Ngọc, đừng bỏ qua 5 phim Hoa ngữ có cùng đề tài 'nữ tướng quân' này",
+      "link": "https://tuoitre.vn/me-truc-ngoc-dung-bo-qua-5-phim-hoa-ngu-co-cung-de-tai-nu-tuong-quan-nay-20260404110252578.htm",
+      "summary": "Lạc du nguyên, Nhất tiếu tùy ca, A Mạch tòng quân... là những phim Hoa ngữ xoay quanh các nữ tướng mạnh mẽ, kiên cường, đạt điểm số cao nhất những năm gần đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.257310+07:00",
+      "fetched": "2026-04-04T15:30:23.257426+07:00"
+    },
+    {
+      "id": "3b1c5085287f235a81958c4496fc51be",
+      "title": "Tập đoàn FLC của ông Trịnh Văn Quyết trở lại dự án sân golf Đak Đoa",
+      "link": "https://tuoitre.vn/tap-doan-flc-cua-ong-trinh-van-quyet-tro-lai-du-an-san-golf-dak-doa-20260404132211244.htm",
+      "summary": "Sáng 4-4, Tập đoàn FLC của ông Trịnh Văn Quyết đã khởi công dự án quần thể đô thị nghỉ dưỡng giải trí và sân golf FLC Pleiku (dự án sân golf Đak Đoa) tại xã Đak Đoa, tỉnh Gia Lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.257185+07:00",
+      "fetched": "2026-04-04T15:30:23.257299+07:00"
+    },
+    {
+      "id": "fb3ffd3b23f09b3b548f2c165e3fea58",
+      "title": "Trần Tuấn Kiệt rút đẳng cấp, thắng kịch tính chặng 2 Cúp truyền hình TP.HCM",
+      "link": "https://tuoitre.vn/tran-tuan-kiet-rut-dang-cap-thang-kich-tinh-chang-2-cup-truyen-hinh-tp-hcm-20260404134727364.htm",
+      "summary": "Pha leo lên ở những giây quyết định đã giúp tay đua Trần Tuấn Kiệt chiến thắng ở chặng 2 cuộc đua xe đạp toàn quốc Cúp truyền hình TP.HCM HTV - Tôn Đông Á – 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.257062+07:00",
+      "fetched": "2026-04-04T15:30:23.257174+07:00"
+    },
+    {
+      "id": "a73752718f2d53068b5722bc0ca678c3",
+      "title": "Hà Nội có chỉ số giá sinh hoạt đắt đỏ nhất nước, Vĩnh Long rẻ nhất",
+      "link": "https://tuoitre.vn/ha-noi-co-chi-so-gia-sinh-hoat-dat-do-nhat-nuoc-vinh-long-re-nhat-20260404130409913.htm",
+      "summary": "Hà Nội là thành phố có chỉ số giá sinh hoạt đắt đỏ nhất cả nước do có mật độ dân số cao, đô thị hóa nhanh, giá nhà đất, chi phí thuê nhà, thuê mặt bằng, y tế, giáo dục và ăn uống cao hơn các tỉnh, thành phố khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.256937+07:00",
+      "fetched": "2026-04-04T15:30:23.257051+07:00"
+    },
+    {
+      "id": "5d09087f52476bb66f49f9d52ea17bfd",
+      "title": "Đường huyết mạch qua Bến Lức làm 3 năm còn vướng mặt bằng, Tây Ninh yêu cầu làm sạch trong tháng 4",
+      "link": "https://tuoitre.vn/duong-huyet-mach-qua-ben-luc-lam-3-nam-con-vuong-mat-bang-tay-ninh-yeu-cau-lam-sach-trong-thang-4-20260404125417221.htm",
+      "summary": "ĐT.830E là dự án trùng với vành đai 4 TP.HCM qua Tây Ninh, đang được người dân mong chờ hoàn thành đúng tiến độ để sớm giải tỏa áp lực giao thông qua khu vực trung tâm đô thị Bến Lức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.256810+07:00",
+      "fetched": "2026-04-04T15:30:23.256925+07:00"
+    },
+    {
+      "id": "dda5cf4abab2b95d8373af68bbbba16b",
+      "title": "Lý Hoàng Nam tái ngộ Vinh Hiển ở chung kết PPA Hà Nội",
+      "link": "https://tuoitre.vn/ly-hoang-nam-tai-ngo-vinh-hien-o-chung-ket-ppa-ha-noi-20260404131939316.htm",
+      "summary": "Lý Hoàng Nam sẽ gặp Trương Vinh Hiển trong trận chung kết PPA Asia- Hanoi Cup 2026 nội dung đơn nam chuyên nghiệp vào sáng 5-4 ở Cung thể thao Mỹ Đình, Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.256679+07:00",
+      "fetched": "2026-04-04T15:30:23.256798+07:00"
+    },
+    {
+      "id": "8c2ac325b20954c8ae7c45e066dca6b0",
+      "title": "Hải Phòng đăng cai Giải Pickleball qui tụ số lượng VĐV 'khủng'",
+      "link": "https://tuoitre.vn/hai-phong-dang-cai-giai-pickleball-qui-tu-so-luong-vdv-khung-20260404133526409.htm",
+      "summary": "Từ ngày 7-9 tháng 4, tại Hải Phòng sẽ diễn ra Giải Pickleball Lạch Tray Open 2026, quy tụ gần 1.500 VĐV tham dự, trong đó có nhiều ngôi sao hàng đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.256509+07:00",
+      "fetched": "2026-04-04T15:30:23.256654+07:00"
+    },
+    {
+      "id": "ab821d3e8dfb01e1fa39eaaabba329c5",
+      "title": "Trò đùa tai hại khóa xăng xe máy học sinh",
+      "link": "https://tuoitre.vn/tro-dua-tai-hai-khoa-xang-xe-may-hoc-sinh-2026040413373057.htm",
+      "summary": "Một học sinh Trường THPT chuyên Thăng Long ở Đà Lạt suýt gặp tai nạn vì xe chết máy bất ngờ giữa ngã tư. Học sinh này phát hiện xe bị khóa van xăng khi gửi trong bãi xe của trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.256368+07:00",
+      "fetched": "2026-04-04T15:30:23.256496+07:00"
+    },
+    {
+      "id": "f9ba35bef57767ac1e5e041501583b65",
+      "title": "Tin tức giá xe: Wuling Macaron vừa mở bán đã giảm giá còn từ 257 triệu đồng",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-wuling-macaron-vua-mo-ban-da-giam-gia-con-tu-257-trieu-dong-20260403144737036.htm",
+      "summary": "Dù chưa chính thức có mặt tại đại lý, Wuling Macaron thế hệ mới đã được xác nhận mở bán chính hãng với giá khởi điểm từ 269 triệu đồng, đi kèm nhiều chương trình ưu đãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T15:30:23.256142+07:00",
+      "fetched": "2026-04-04T15:30:23.256353+07:00"
+    },
     {
       "id": "7e09f7cc440179ded42e08adf49b0d32",
       "title": "Giải đấu pickleball cho nghệ sĩ, KOLs Việt Nam có giải thưởng 10 tỉ đồng",
@@ -303,6 +453,36 @@ window.newsData_2026_04_04 = {
       "fetched": "2026-04-04T11:08:10.255883+07:00"
     },
     {
+      "id": "2c5540a63a68a1a98d24c2ff385fcdb0",
+      "title": "‘Tướng quân kem nền’ gây bão dư luận, Cục Phát thanh và Truyền hình Trung Quốc họp khẩn",
+      "link": "https://thanhnien.vn/tuong-quan-kem-nen-gay-bao-du-luan-cuc-phat-thanh-va-truyen-hinh-trung-quoc-hop-khan-185260404143138546.htm",
+      "summary": "Sự việc tạo hình võ tướng của nam diễn viên Trương Lăng Hách gây bàn tán vì lạm dụng trang điểm đã trở thành 'ngòi nổ', buộc cơ quan quản lý Trung Quốc tổ chức tọa đàm khẩn nhằm chấn chỉnh thẩm mỹ phim ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T08:29:00+07:00",
+      "fetched": "2026-04-04T15:30:22.240902+07:00"
+    },
+    {
+      "id": "6460b852cf195f13b973efd17d4abc74",
+      "title": "Sự biến chuyển trong lòng Man Utd",
+      "link": "https://vnexpress.net/su-bien-chuyen-trong-long-man-utd-5052947.html",
+      "summary": "Sau những lời chê thẳng thắn từ ông chủ Jim Ratcliffe, Man Utd đang thúc đẩy cuộc cải tổ toàn diện tại Học viện, với mục tiêu đưa lò đào tạo trẻ của CLB trở lại vị thế hàng đầu thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-04T08:22:45+07:00",
+      "fetched": "2026-04-04T15:30:31.078747+07:00"
+    },
+    {
+      "id": "29569b2916407fa3cb939fe588393d2e",
+      "title": "‘Bóng đá Malaysia cần thêm cầu thủ nhập tịch để theo kịp đội tuyển Việt Nam, nhưng…’",
+      "link": "https://thanhnien.vn/bong-da-malaysia-can-them-cau-thu-nhap-tich-de-theo-kip-doi-tuyen-viet-nam-nhung-185260404151359368.htm",
+      "summary": "Thất bại trước đội tuyển Việt Nam không chỉ khiến Malaysia lỡ hẹn Asian Cup 2027 mà còn phơi bày nhiều vấn đề từ chuyên môn đến hệ thống phát triển. Chuyên gia bóng đá nước này nhận định đội tuyển cần thêm các cầu thủ nhập tịch chất lượng để theo kịp bóng đá Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T08:22:00+07:00",
+      "fetched": "2026-04-04T15:30:22.241069+07:00"
+    },
+    {
       "id": "05f87f73b63baeb3be61f1d3dcf34e6c",
       "title": "Lịch trực tiếp V-League vòng 17: CLB Hải Phòng đấu Hà Nội",
       "link": "https://tuoitre.vn/lich-truc-tiep-v-league-vong-17-clb-hai-phong-dau-ha-noi-20260403175409354.htm",
@@ -423,6 +603,286 @@ window.newsData_2026_04_04 = {
       "fetched": "2026-04-04T08:17:27.595154+07:00"
     },
     {
+      "id": "af490d076d56ebe7c150915cfc749dbe",
+      "title": "Nữ ca sĩ từng giành giải á hậu, 'bất chấp hình tượng' trong show thực tế",
+      "link": "https://thanhnien.vn/nu-ca-si-tung-gianh-giai-a-hau-bat-chap-hinh-tuong-trong-show-thuc-te-185260404150002191.htm",
+      "summary": "Xót xa trước hoàn cảnh của những em nhỏ trong 'Mái ấm gia đình Việt', ca sĩ Hiền Hellen sẵn sàng 'bất chấp hình tượng' để cùng đồng đội vượt qua các thử thách, mang tiền thưởng về hỗ trợ các bé.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T08:17:00+07:00",
+      "fetched": "2026-04-04T15:30:22.241227+07:00"
+    },
+    {
+      "id": "03155c397256e6f61da2ae88ccf973a5",
+      "title": "Ông Lưu Tú Bảo xin từ chức Chủ tịch Liên đoàn Quyền anh Việt Nam, lý do là gì?",
+      "link": "https://thanhnien.vn/ong-luu-tu-bao-xin-tu-chuc-chu-tich-lien-doan-quyen-anh-viet-nam-ly-do-la-gi-185260404144202127.htm",
+      "summary": "Liên đoàn Quyền anh Việt Nam vừa nhận được đơn xin từ chức của ông Lưu Tú Bảo - Chủ tịch Liên đoàn Quyền anh Việt Nam nhiệm kỳ 2023-2028.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T08:14:00+07:00",
+      "fetched": "2026-04-04T15:30:22.241392+07:00"
+    },
+    {
+      "id": "b77536e322f818b67acf52c30a39fc77",
+      "title": "Sự thay đổi kinh ngạc của 'thần đồng vũ đạo Hàn Quốc' khi trưởng thành",
+      "link": "https://thanhnien.vn/su-thay-doi-kinh-ngac-cua-than-dong-vu-dao-han-quoc-khi-truong-thanh-18526040412194085.htm",
+      "summary": "Một đoạn video biểu diễn đường phố bất ngờ gây sốt trên mạng xã hội những ngày qua đã đưa cái tên Na Ha Eun trở lại tâm điểm chú ý. Từng được biết đến với danh xưng 'thần đồng vũ đạo' xứ kim chi, nay ở tuổi 17, Na Ha Eun chuẩn bị tái xuất với vai trò hoàn toàn mới trong một nhóm nhạc nữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T08:02:00+07:00",
+      "fetched": "2026-04-04T15:30:22.241547+07:00"
+    },
+    {
+      "id": "dd5d9bc0bd509d0479e8b1b4dc129d53",
+      "title": "U.23 Việt Nam xứng đáng được đầu tư lớn",
+      "link": "https://thanhnien.vn/u23-viet-nam-xung-dang-duoc-dau-tu-lon-185260402211419977.htm",
+      "summary": "Đội tuyển U.23 Việt Nam đã phần nào thể hiện được năng lực của mình qua giải giao hữu CFA Team China - Tây An 2026, nên xứng đáng được đầu tư lớn để phát triển tốt trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:59:00+07:00",
+      "fetched": "2026-04-04T15:30:22.241728+07:00"
+    },
+    {
+      "id": "82bf9224790e13fdbbe0a54c78c2b2df",
+      "title": "Chi 520 triệu USD để bình ổn giá xăng dầu",
+      "link": "https://thanhnien.vn/chi-520-trieu-usd-de-binh-on-gia-xang-dau-185260404124341352.htm",
+      "summary": "Quỹ Bình ổn giá xăng dầu đã chi 5.300 tỉ đồng (khoảng 217 triệu USD) và nếu cộng thêm 8.000 tỉ đồng (khoảng 303 triệu USD) từ ngân sách nhà nước chuyển vào quỹ thì Việt Nam sẽ chi khoảng 520 triệu USD cho mục tiêu bình ổn giá xăng dầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:53:00+07:00",
+      "fetched": "2026-04-04T15:30:22.241882+07:00"
+    },
+    {
+      "id": "52dbd1318d0520bb5ba60c02c71cea88",
+      "title": "Malaysia đối diện thực tế sau thất bại trước đội tuyển Việt Nam, tính lại chiến lược toàn diện",
+      "link": "https://thanhnien.vn/malaysia-doi-dien-thuc-te-sau-that-bai-truoc-doi-tuyen-viet-nam-tinh-lai-chien-luoc-toan-dien-185260404143336981.htm",
+      "summary": "Thất bại trước đội tuyển Việt Nam và bê bối nhập tịch khiến bóng đá Malaysia buộc phải nhìn lại toàn diện, từ lực lượng đến bộ máy quản lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:52:00+07:00",
+      "fetched": "2026-04-04T15:30:22.242031+07:00"
+    },
+    {
+      "id": "a6b993be7632c566206b7cd77479408d",
+      "title": "One UI 9 tiết lộ siêu phẩm Galaxy Z mới",
+      "link": "https://thanhnien.vn/one-ui-9-tiet-lo-sieu-pham-galaxy-z-moi-185260404110503209.htm",
+      "summary": "Rò rỉ từ bên trong firmware cho thấy Samsung sắp ra mắt điện thoại gập lớn chạy One UI 9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:48:00+07:00",
+      "fetched": "2026-04-04T15:30:22.242184+07:00"
+    },
+    {
+      "id": "54cf0cba0fbc18e559ad270e58f89f31",
+      "title": "Trần Tuấn Kiệt bị ngã vẫn giành chiến thắng ở Cúp xe đạp truyền hình TP.HCM",
+      "link": "https://thanhnien.vn/tran-tuan-kiet-bi-nga-van-gianh-chien-thang-o-cup-xe-dap-truyen-hinh-tphcm-185260404143133382.htm",
+      "summary": "Tay đua Trần Tuấn Kiệt của đội Công an TP.HCM có ngày thi đấu cực kỳ ấn tượng tại Cúp xe đạp truyền hình TP.HCM - Tôn Đông Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:47:00+07:00",
+      "fetched": "2026-04-04T15:30:22.242333+07:00"
+    },
+    {
+      "id": "894ddde144a8def4cbac848caa7fb393",
+      "title": "Thủ tướng Phạm Minh Chính trân trọng gửi lời cảm ơn sau 5 năm nhiệm kỳ",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-tran-trong-gui-loi-cam-on-sau-5-nam-nhiem-ky-185260404141135378.htm",
+      "summary": "Cuối bài phát biểu kết luận phiên họp trực tuyến với các địa phương sáng nay 4.4, Thủ tướng Phạm Minh Chính dành thời gian trân trọng gửi lời cảm ơn và tri ân đến các lãnh đạo, các cơ quan trong hệ thống chính trị, toàn thể nhân dân, cộng đồng doanh nghiệp và bạn bè, đối tác quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:46:00+07:00",
+      "fetched": "2026-04-04T15:30:22.242481+07:00"
+    },
+    {
+      "id": "3e1b1b5f3f6d730477d834c248e0f7e7",
+      "title": "'50 Spaces: Hà Nội - Huế - Sài Gòn': Món quà tao nhã cho du khách",
+      "link": "https://thanhnien.vn/50-spaces-ha-noi-hue-sai-gon-mon-qua-tao-nha-cho-du-khach-185260404115207089.htm",
+      "summary": "Nhà báo Nguyễn Tập (Lam Yên) cùng các họa sĩ - kiến trúc sư vừa ra mắt cuốn sách 50 Spaces: Hà Nội - Huế - Sài Gòn dưới định dạng ký họa màu bằng tiếng Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:43:00+07:00",
+      "fetched": "2026-04-04T15:30:22.242652+07:00"
+    },
+    {
+      "id": "f84baad0c34369e15503505a4073d576",
+      "title": "Tuần tới Công an Hà Nội thông tin vụ án xảy ra tại Bảo Tín Minh Châu",
+      "link": "https://thanhnien.vn/tuan-toi-cong-an-ha-noi-thong-tin-vu-an-xay-ra-tai-bao-tin-minh-chau-185260404132303493.htm",
+      "summary": "Theo dự kiến, ngày 6.4 tới, Công an TP.Hà Nội sẽ tổ chức hội nghị thông báo một số vụ án, vụ việc điển hình, trong đó có vụ án vi phạm quy định về kế toán xảy ra tại Công ty TNHH Bảo Tín Minh Châu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:35:00+07:00",
+      "fetched": "2026-04-04T15:30:22.242803+07:00"
+    },
+    {
+      "id": "57dbfba182401499e688eefdad8bb5d9",
+      "title": "Iran bắn rơi UAV nghi do Trung Quốc sản xuất",
+      "link": "https://vnexpress.net/iran-ban-roi-uav-nghi-do-trung-quoc-san-xuat-5058506.html",
+      "summary": "Tehran công bố mảnh vỡ UAV bị hạ, được cho là mẫu Wing Loong II, đặt nghi vấn có quốc gia vùng Vịnh đang trực tiếp tham gia xung đột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:31:10+07:00",
+      "fetched": "2026-04-04T15:30:19.049318+07:00"
+    },
+    {
+      "id": "57dbfba182401499e688eefdad8bb5d9",
+      "title": "Iran bắn rơi UAV nghi do Trung Quốc sản xuất",
+      "link": "https://vnexpress.net/iran-ban-roi-uav-nghi-do-trung-quoc-san-xuat-5058506.html",
+      "summary": "Tehran công bố mảnh vỡ UAV bị hạ, được cho là mẫu Wing Loong II, đặt nghi vấn có quốc gia vùng Vịnh đang trực tiếp tham gia xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-04T07:31:10+07:00",
+      "fetched": "2026-04-04T15:30:25.047409+07:00"
+    },
+    {
+      "id": "b1e7c85a6347a69fb0df864bd207aad8",
+      "title": "Nhật ký Hành trình Từ Trái Tim: Khởi nghiệp kiến quốc bắt đầu từ chí lớn",
+      "link": "https://thanhnien.vn/nhat-ky-hanh-trinh-tu-trai-tim-khoi-nghiep-kien-quoc-bat-dau-tu-chi-lon-185260404133554009.htm",
+      "summary": "Ý chí, khát vọng của con người, đặc biệt là thế hệ trẻ, là yếu tố then chốt góp phần quyết định sự phát triển của quốc gia. Đây cũng là thông điệp xuyên suốt mà Hành trình Từ Trái Tim lan tỏa đến thế hệ trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:30:00+07:00",
+      "fetched": "2026-04-04T15:30:22.242956+07:00"
+    },
+    {
+      "id": "7716c79db080b83e10ab92e42c49a539",
+      "title": "ĐH Trà Vinh đặt mục tiêu top 500 ĐH hàng đầu châu Á vào năm 2035",
+      "link": "https://thanhnien.vn/dh-tra-vinh-dat-muc-tieu-top-500-dh-hang-dau-chau-a-vao-nam-2035-185260404105706218.htm",
+      "summary": "Chuyển Trường đại học Trà Vinh thành Đại học Trà Vinh là đánh dấu bước phát triển quan trọng của nhà trường đồng thời mở ra giai đoạn phát triển mới theo mô hình đại học đa ngành, hiện đại và hội nhập quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:23:00+07:00",
+      "fetched": "2026-04-04T15:30:22.243106+07:00"
+    },
+    {
+      "id": "1795908ea252da3adbaf7c66e11eb48c",
+      "title": "Thủ tướng: Không thay đổi mục tiêu tăng trưởng kinh tế từ 10%",
+      "link": "https://vnexpress.net/thu-tuong-khong-thay-doi-muc-tieu-tang-truong-kinh-te-tu-10-5058481.html",
+      "summary": "Thủ tướng khẳng định không điều chỉnh mục tiêu tăng trưởng từ 10% trở lên, đồng thời yêu cầu biến khó khăn thành động lực tái cơ cấu kinh tế, nâng năng lực cạnh tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:22:27+07:00",
+      "fetched": "2026-04-04T15:30:19.049496+07:00"
+    },
+    {
+      "id": "1795908ea252da3adbaf7c66e11eb48c",
+      "title": "Thủ tướng: Không thay đổi mục tiêu tăng trưởng kinh tế từ 10%",
+      "link": "https://vnexpress.net/thu-tuong-khong-thay-doi-muc-tieu-tang-truong-kinh-te-tu-10-5058481.html",
+      "summary": "Thủ tướng khẳng định không điều chỉnh mục tiêu tăng trưởng từ 10% trở lên, đồng thời yêu cầu biến khó khăn thành động lực tái cơ cấu kinh tế, nâng năng lực cạnh tranh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-04T07:22:27+07:00",
+      "fetched": "2026-04-04T15:30:26.687728+07:00"
+    },
+    {
+      "id": "cd75345e8420cc80dd8a0feca406fa1f",
+      "title": "Con gái ông Đỗ Anh Tú ứng cử vào HĐQT TPBank",
+      "link": "https://vnexpress.net/con-gai-ong-do-anh-tu-ung-cu-vao-hdqt-tpbank-5058524.html",
+      "summary": "Bà Đỗ Quỳnh Anh (31 tuổi), con gái ông Đỗ Anh Tú, ứng cử làm thành viên Hội đồng quản trị TPBank nhiệm kỳ 2023-2028.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:21:00+07:00",
+      "fetched": "2026-04-04T15:30:19.049690+07:00"
+    },
+    {
+      "id": "cd75345e8420cc80dd8a0feca406fa1f",
+      "title": "Con gái ông Đỗ Anh Tú ứng cử vào HĐQT TPBank",
+      "link": "https://vnexpress.net/con-gai-ong-do-anh-tu-ung-cu-vao-hdqt-tpbank-5058524.html",
+      "summary": "Bà Đỗ Quỳnh Anh (31 tuổi), con gái ông Đỗ Anh Tú, ứng cử làm thành viên Hội đồng quản trị TPBank nhiệm kỳ 2023-2028.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-04T07:21:00+07:00",
+      "fetched": "2026-04-04T15:30:26.687903+07:00"
+    },
+    {
+      "id": "06709ed8ba6ed0885048a7b444c2e36e",
+      "title": "Con gái 12 tuổi thích ca hát của Đoan Trang",
+      "link": "https://vnexpress.net/con-gai-12-tuoi-thich-ca-hat-cua-doan-trang-5057600.html",
+      "summary": "Bé Sol, 12 tuổi, con gái của ca sĩ Đoan Trang và chồng người Thụy Điển, thích âm nhạc, được mẹ dạy hát từ nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:19:08+07:00",
+      "fetched": "2026-04-04T15:30:19.049855+07:00"
+    },
+    {
+      "id": "e89008fce1fe10dfe8527134ceaabd20",
+      "title": "Đố bạn tìm thấy chú cún ẩn mình trong 30 giây",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-do-ban-tim-thay-chu-cun-an-minh-trong-30-giay-5058170.html",
+      "summary": "Một bức ảnh tưởng chừng bình thường nhưng lại giấu một chú cún cực kỳ tinh vi, chỉ người tinh mắt mới phát hiện ra trong 30 giây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:00:00+07:00",
+      "fetched": "2026-04-04T15:30:19.050012+07:00"
+    },
+    {
+      "id": "c3357275e6284ceafe64e116f9f3fe72",
+      "title": "5 cách để không dịch sang tiếng Việt khi nói tiếng Anh",
+      "link": "https://vnexpress.net/5-cach-de-khong-dich-sang-tieng-viet-khi-noi-tieng-anh-5056045.html",
+      "summary": "Không ít người sau hàng chục năm học ngoại ngữ vẫn dịch từ tiếng Việt sang tiếng Anh trong đầu, làm gián đoạn giao tiếp và mất tự tin. 5 cách sau giúp cải thiện vấn đề này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:00:00+07:00",
+      "fetched": "2026-04-04T15:30:19.050176+07:00"
+    },
+    {
+      "id": "c75ff96b80736bb7781423a32d7e4dcf",
+      "title": "PV Drilling đầu tư giàn khoan tự nâng đa năng tại TP HCM",
+      "link": "https://vnexpress.net/pv-drilling-dau-tu-gian-khoan-tu-nang-da-nang-tai-tp-hcm-5058255.html",
+      "summary": "PV Drilling đưa giàn khoan tự nâng đa năng PV Drilling IX vào hoạt động tại TP HCM, bổ sung nguồn cung, nâng năng lực cạnh tranh khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T07:00:00+07:00",
+      "fetched": "2026-04-04T15:30:19.050338+07:00"
+    },
+    {
+      "id": "333d21d639c5ef0f6ba9d3a1652fbee5",
+      "title": "Chuyên gia Malaysia: 'Việt Nam mạnh nhất khu vực nhờ Xuân Son, Hoàng Hên'",
+      "link": "https://vnexpress.net/chuyen-gia-malaysia-viet-nam-manh-nhat-khu-vuc-nho-xuan-son-hoang-hen-5058516.html",
+      "summary": "Theo chuyên gia bóng đá của đài Astro Arena, Zulhelmi Zainal Azam, đội tuyển Việt Nam hiện mạnh nhất Đông Nam Á dù chỉ đang đứng thứ hai khu vực theo bảng FIFA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T06:54:17+07:00",
+      "fetched": "2026-04-04T15:30:19.050491+07:00"
+    },
+    {
+      "id": "333d21d639c5ef0f6ba9d3a1652fbee5",
+      "title": "Chuyên gia Malaysia: 'Việt Nam mạnh nhất khu vực nhờ Xuân Son, Hoàng Hên'",
+      "link": "https://vnexpress.net/chuyen-gia-malaysia-viet-nam-manh-nhat-khu-vuc-nho-xuan-son-hoang-hen-5058516.html",
+      "summary": "Theo chuyên gia bóng đá của đài Astro Arena, Zulhelmi Zainal Azam, đội tuyển Việt Nam hiện mạnh nhất Đông Nam Á dù chỉ đang đứng thứ hai khu vực theo bảng FIFA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-04T06:54:17+07:00",
+      "fetched": "2026-04-04T15:30:31.078923+07:00"
+    },
+    {
+      "id": "478b6876f802757f7a5eb75f80419ef3",
+      "title": "Tàu Nhật Bản đầu tiên đi qua Hormuz từ khi chiến sự bùng phát",
+      "link": "https://vnexpress.net/tau-nhat-ban-dau-tien-di-qua-hormuz-tu-khi-chien-su-bung-phat-5058485.html",
+      "summary": "Tàu chở khí Sohar LNG đi qua eo biển Hormuz, trở thành tàu đầu tiên của Nhật Bản di chuyển qua khu vực này trong hơn một tháng qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T06:54:03+07:00",
+      "fetched": "2026-04-04T15:30:19.050671+07:00"
+    },
+    {
+      "id": "478b6876f802757f7a5eb75f80419ef3",
+      "title": "Tàu Nhật Bản đầu tiên đi qua Hormuz từ khi chiến sự bùng phát",
+      "link": "https://vnexpress.net/tau-nhat-ban-dau-tien-di-qua-hormuz-tu-khi-chien-su-bung-phat-5058485.html",
+      "summary": "Tàu chở khí Sohar LNG đi qua eo biển Hormuz, trở thành tàu đầu tiên của Nhật Bản di chuyển qua khu vực này trong hơn một tháng qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-04T06:54:03+07:00",
+      "fetched": "2026-04-04T15:30:25.047582+07:00"
+    },
+    {
+      "id": "3ee74f84102a360dd3d2ed5012ca8765",
+      "title": "Chung cư TP HCM tiếp tục tăng giá",
+      "link": "https://vnexpress.net/chung-cu-tp-hcm-tiep-tuc-tang-gia-5058472.html",
+      "summary": "Giá căn hộ tại TP HCM tiếp tục đi lên trong quý I, với mức tăng hơn 11% so với cùng kỳ năm ngoái, bất chấp lãi suất vay mua nhà vẫn duy trì ở mức cao, theo Knight Frank.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T06:42:44+07:00",
+      "fetched": "2026-04-04T15:30:19.050828+07:00"
+    },
+    {
       "id": "3fa6da32c461339b9c4491b2d9f3126a",
       "title": "Nắng nóng có thể đẩy huyết áp lên ngưỡng nguy hiểm, bạn có biết?",
       "link": "https://thanhnien.vn/nang-nong-co-the-day-huyet-ap-len-nguong-nguy-hiem-ban-co-biet-185260404133516397.htm",
@@ -433,6 +893,26 @@ window.newsData_2026_04_04 = {
       "fetched": "2026-04-04T13:48:19.234065+07:00"
     },
     {
+      "id": "3b972d627a874810140f909e119f236a",
+      "title": "Kinh tế TP HCM tăng cao nhất 5 năm",
+      "link": "https://vnexpress.net/kinh-te-tp-hcm-tang-cao-nhat-5-nam-5058509.html",
+      "summary": "GRDP TP HCM quý I ước tăng 8,27% so với cùng kỳ 2025, mức cao nhất trong 5 năm gần đây, theo Cơ quan Thống kê TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T06:33:30+07:00",
+      "fetched": "2026-04-04T15:30:19.050987+07:00"
+    },
+    {
+      "id": "3b972d627a874810140f909e119f236a",
+      "title": "Kinh tế TP HCM tăng cao nhất 5 năm",
+      "link": "https://vnexpress.net/kinh-te-tp-hcm-tang-cao-nhat-5-nam-5058509.html",
+      "summary": "GRDP TP HCM quý I ước tăng 8,27% so với cùng kỳ 2025, mức cao nhất trong 5 năm gần đây, theo Cơ quan Thống kê TP HCM.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-04T06:33:30+07:00",
+      "fetched": "2026-04-04T15:30:26.688063+07:00"
+    },
+    {
       "id": "0f8859e29485de5e0f92a50e9f66ac07",
       "title": "Highlight Lý Hoàng Nam - Tama Shimabukuro | PPA Asia 1000 - MB Hanoi Cup 2026",
       "link": "https://thanhnien.vn/highlight-ly-hoang-nam-tama-shimabukuro-ppa-asia-1000-mb-hanoi-cup-2026-185260404133151384.htm",
@@ -441,6 +921,16 @@ window.newsData_2026_04_04 = {
       "category": "Tổng hợp",
       "published": "2026-04-04T06:31:00+07:00",
       "fetched": "2026-04-04T13:48:19.234236+07:00"
+    },
+    {
+      "id": "7eff0bb85fd83646d4abf020203c1ed4",
+      "title": "Hơn 500.000 người Việt cần ghép giác mạc",
+      "link": "https://vnexpress.net/hon-500-000-nguoi-viet-can-ghep-giac-mac-5058518.html",
+      "summary": "Việt Nam ước tính có trên 500.000 người bị mù do bệnh lý giác mạc có nhu cầu ghép song nguồn hiến còn hạn chế, người bệnh phải chờ đợi kéo dài, thậm chí mất cơ hội điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T06:30:04+07:00",
+      "fetched": "2026-04-04T15:30:19.051150+07:00"
     },
     {
       "id": "b714909908d2b4df2ff7dfd6c4f5ab11",
@@ -463,6 +953,16 @@ window.newsData_2026_04_04 = {
       "fetched": "2026-04-04T13:48:19.234556+07:00"
     },
     {
+      "id": "0faef0c69a9da29ccb2d6181ccace419",
+      "title": "Hải Phòng chuyển đổi 36 ha đất trồng lúa làm khu đô thị gần tỷ USD",
+      "link": "https://vnexpress.net/hai-phong-chuyen-doi-36-ha-dat-trong-lua-lam-khu-do-thi-gan-ty-usd-5058428.html",
+      "summary": "Hơn 36 ha đất trồng lúa tại phường Dương Kinh và xã Kiến Minh được chuyển đổi mục đích sử dụng để làm khu đô thị Vinhomes Golden City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T06:25:09+07:00",
+      "fetched": "2026-04-04T15:30:19.051313+07:00"
+    },
+    {
       "id": "a2be4ee5fa35e5c4fe3258a9ea51fbe6",
       "title": "Chờ đợi trận chung kết TNSV quốc tế THACO cup 2026 rực lửa",
       "link": "https://thanhnien.vn/cho-doi-tran-chung-ket-tnsv-quoc-te-thaco-cup-2026-ruc-lua-185260404131917323.htm",
@@ -471,6 +971,26 @@ window.newsData_2026_04_04 = {
       "category": "Tổng hợp",
       "published": "2026-04-04T06:20:00+07:00",
       "fetched": "2026-04-04T13:48:19.234708+07:00"
+    },
+    {
+      "id": "fbd1997f6d8b0857f4e7d40ff965de20",
+      "title": "Sacombank thu 86.000 m2 đất của FLC để thu hồi khoản nợ của Bamboo Airways",
+      "link": "https://vnexpress.net/sacombank-thu-86-000-m2-dat-cua-flc-de-thu-hoi-khoan-no-cua-bamboo-airways-5058493.html",
+      "summary": "Sacombank thông báo thu giữ hơn 86.000 m2 đất của FLC tại Gia Lai để xử lý khoản vay từ năm 2021 của Bamboo Airways.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-04T06:13:25+07:00",
+      "fetched": "2026-04-04T15:30:19.051480+07:00"
+    },
+    {
+      "id": "fbd1997f6d8b0857f4e7d40ff965de20",
+      "title": "Sacombank thu 86.000 m2 đất của FLC để thu hồi khoản nợ của Bamboo Airways",
+      "link": "https://vnexpress.net/sacombank-thu-86-000-m2-dat-cua-flc-de-thu-hoi-khoan-no-cua-bamboo-airways-5058493.html",
+      "summary": "Sacombank thông báo thu giữ hơn 86.000 m2 đất của FLC tại Gia Lai để xử lý khoản vay từ năm 2021 của Bamboo Airways.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-04T06:13:25+07:00",
+      "fetched": "2026-04-04T15:30:26.688218+07:00"
     },
     {
       "id": "1aabb04a4a22a02fec3d01a5bcdaf094",
@@ -601,6 +1121,26 @@ window.newsData_2026_04_04 = {
       "category": "Thể thao",
       "published": "2026-04-04T06:00:00+07:00",
       "fetched": "2026-04-04T13:48:30.515234+07:00"
+    },
+    {
+      "id": "ced81d8f18449ebeabdce232780e49ea",
+      "title": "Nhân viên duy nhất vẫn làm tại Apple sau 50 năm",
+      "link": "https://vnexpress.net/nhan-vien-duy-nhat-van-lam-tai-apple-sau-50-nam-5058341.html",
+      "summary": "Cách đây 50 năm, Chris Espinosa mới 14 tuổi đã được Steve Jobs tuyển dụng để lập trình máy tính Apple II và ông hiện vẫn làm tại công ty.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-04T06:00:00+07:00",
+      "fetched": "2026-04-04T15:30:29.262763+07:00"
+    },
+    {
+      "id": "89c51ee22b80f7f347177ad8f835a07f",
+      "title": "HLV xinh đẹp nâng tầm bóng đá Uzbekistan",
+      "link": "https://vnexpress.net/hlv-xinh-dep-nang-tam-bong-da-uzbekistan-5058467.html",
+      "summary": "Kotryna Kulbyte, 33 tuổi, không chỉ giúp Uzbekistan trở lại Asian Cup sau 23 năm, mà còn đưa đội tuyển tiến sâu ngoài kỳ vọng, mở ra chương mới cho bóng đá nữ quốc gia Trung Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-04T06:00:00+07:00",
+      "fetched": "2026-04-04T15:30:31.079687+07:00"
     },
     {
       "id": "eacf06ff5555d394995e6c2c510a67ca",
@@ -1051,6 +1591,16 @@ window.newsData_2026_04_04 = {
       "category": "Thể thao",
       "published": "2026-04-04T03:00:00+07:00",
       "fetched": "2026-04-04T11:08:18.069887+07:00"
+    },
+    {
+      "id": "6b005fd3446241991af4015ac569348d",
+      "title": "Áp lực của cầu thủ nữ Iran khi quay về từ Asian Cup",
+      "link": "https://vnexpress.net/ap-luc-cua-cau-thu-nu-iran-khi-quay-ve-tu-asian-cup-5058384.html",
+      "summary": "Mona Hamoudi và các đồng đội trải qua hành trình đầy cân não tại Asian Cup nữ 2026, nơi họ đã xin tị nạn Australia rồi rút lại để trở về quê nhà Iran.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-04T03:00:00+07:00",
+      "fetched": "2026-04-04T15:30:31.079859+07:00"
     },
     {
       "id": "86c1772b51a941f18f7ecceeb73f7f25",
