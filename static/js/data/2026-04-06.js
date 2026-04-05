@@ -1,7 +1,17 @@
 window.newsData_2026_04_06 = {
   "date": "2026-04-06",
-  "lastUpdated": "2026-04-06T01:30:02.995361+07:00",
+  "lastUpdated": "2026-04-06T03:21:59.166538+07:00",
   "articles": [
+    {
+      "id": "368a5807a8529e83ca9c38f57288fd4b",
+      "title": "Khoảnh khắc kỳ diệu bắt gặp gần 100 con cá voi bơi qua vùng biển Phú Quý",
+      "link": "https://tuoitre.vn/khoanh-khac-ky-dieu-bat-gap-gan-100-con-ca-voi-boi-qua-vung-bien-phu-quy-20260405232101199.htm",
+      "summary": "Trong lúc lặn biển, nhóm của bạn Nguyễn Trọng Tấn ở đặc khu Phú Quý đã bắt gặp khoảnh khắc kỳ diệu khi gần 100 con cá voi bơi tung tăng với mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T03:21:53.204372+07:00",
+      "fetched": "2026-04-06T03:21:53.204619+07:00"
+    },
     {
       "id": "db48b5317daac4116bd1fcbb8a45adb0",
       "title": "Ngày hội Du lịch TP.HCM 2026 khép lại, hàng chục nghìn lượt giao dịch được ghi nhận",
@@ -153,6 +163,26 @@ window.newsData_2026_04_06 = {
       "fetched": "2026-04-06T01:29:54.648478+07:00"
     },
     {
+      "id": "5f73ca833fdeca36a9c5e554113877cb",
+      "title": "Nắng nóng ảnh hưởng chức năng thận thế nào",
+      "link": "https://vnexpress.net/nang-nong-anh-huong-chuc-nang-than-the-nao-5058233.html",
+      "summary": "Bù nước sai cách hoặc thay đổi nhiệt độ đột ngột có thể dẫn đến sỏi thận và rối loạn điện giải kể cả ở người khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T19:00:00+07:00",
+      "fetched": "2026-04-06T03:21:50.069285+07:00"
+    },
+    {
+      "id": "9034c1b2802356019120e8f4c02736f5",
+      "title": "Nhà phố 6 tầng dùng hệ vỏ nhiều lớp giữ riêng tư giữa phố đông",
+      "link": "https://vnexpress.net/nha-pho-6-tang-dung-he-vo-nhieu-lop-giu-rieng-tu-giua-pho-dong-5058792.html",
+      "summary": "Căn nhà giải bài toán riêng tư và thông thoáng bằng hệ mặt đứng nhiều lớp, trong khi nội thất dùng đường cong, vật liệu tự nhiên để làm mềm không gian sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T18:39:23+07:00",
+      "fetched": "2026-04-06T03:21:50.069478+07:00"
+    },
+    {
       "id": "b307a678a4f963b941efd0d4ddc5e335",
       "title": "4 dạng đau chân ban đêm cảnh báo tiểu đường",
       "link": "https://thanhnien.vn/4-dang-dau-chan-ban-dem-canh-bao-tieu-duong-185260405132825242.htm",
@@ -161,6 +191,36 @@ window.newsData_2026_04_06 = {
       "category": "Tổng hợp",
       "published": "2026-04-05T18:25:00+07:00",
       "fetched": "2026-04-06T01:29:53.512172+07:00"
+    },
+    {
+      "id": "199cd3c289f04e062307a885812424c1",
+      "title": "Chuỗi nghỉ dưỡng của ông Phạm Nhật Vượng đặt mục tiêu thu 44 tỷ đồng mỗi ngày",
+      "link": "https://vnexpress.net/chuoi-nghi-duong-cua-ong-pham-nhat-vuong-dat-muc-tieu-thu-44-ty-dong-moi-ngay-5058729.html",
+      "summary": "Vinpearl, chuỗi nghỉ dưỡng của ông Phạm Nhật Vượng, lên kế hoạch mang về 16.000 tỷ đồng doanh thu năm nay, xấp xỉ 44 tỷ đồng mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T18:24:54+07:00",
+      "fetched": "2026-04-06T03:21:50.069676+07:00"
+    },
+    {
+      "id": "c202f762a819c97a1d91163b0ee50281",
+      "title": "Giá vàng được dự báo đi ngang tuần này",
+      "link": "https://vnexpress.net/gia-vang-duoc-du-bao-di-ngang-tuan-nay-5058853.html",
+      "summary": "Nhiều chuyên gia cho rằng giá vàng tuần này sẽ đi ngang và khuyến nghị nhà đầu tư nên giữ trạng thái trung lập thay vì \"đặt cược\" vào biến động ngắn hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T18:21:04+07:00",
+      "fetched": "2026-04-06T03:21:50.069844+07:00"
+    },
+    {
+      "id": "c202f762a819c97a1d91163b0ee50281",
+      "title": "Giá vàng được dự báo đi ngang tuần này",
+      "link": "https://vnexpress.net/gia-vang-duoc-du-bao-di-ngang-tuan-nay-5058853.html",
+      "summary": "Nhiều chuyên gia cho rằng giá vàng tuần này sẽ đi ngang và khuyến nghị nhà đầu tư nên giữ trạng thái trung lập thay vì \"đặt cược\" vào biến động ngắn hạn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-05T18:21:04+07:00",
+      "fetched": "2026-04-06T03:21:55.128658+07:00"
     },
     {
       "id": "dadadb19d68b7bcf01d3054123fa9ef3",
