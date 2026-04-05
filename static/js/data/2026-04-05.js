@@ -1,7 +1,77 @@
 window.newsData_2026_04_05 = {
   "date": "2026-04-05",
-  "lastUpdated": "2026-04-05T19:35:36.480593+07:00",
+  "lastUpdated": "2026-04-05T21:27:45.076123+07:00",
   "articles": [
+    {
+      "id": "8e8ad9850eaaa3ba1605f24637ce3816",
+      "title": "Sở Xây dựng TP.HCM có tờ trình xây dựng nghị quyết miễn phí xe buýt theo thủ tục rút gọn",
+      "link": "https://tuoitre.vn/so-xay-dung-tp-hcm-co-to-trinh-xay-dung-nghi-quyet-mien-phi-xe-buyt-theo-thu-tuc-rut-gon-2026040517225043.htm",
+      "summary": "Sở Xây dựng TP.HCM vừa có tờ trình đăng ký xây dựng nghị quyết của HĐND TP về hỗ trợ cho người sử dụng dịch vụ vận tải hành khách công cộng bằng xe buýt (miễn phí xe buýt) theo trình tự, thủ tục rút gọn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T21:27:38.900629+07:00",
+      "fetched": "2026-04-05T21:27:38.900741+07:00"
+    },
+    {
+      "id": "f173f56ce136b20772d4bf3826e6d3e2",
+      "title": "Quảng cáo, tiếp thị sữa thay thế sữa mẹ có thể bị phạt đến 20 triệu đồng",
+      "link": "https://tuoitre.vn/quang-cao-tiep-thi-sua-thay-the-sua-me-co-the-bi-phat-den-20-trieu-dong-20260405181456473.htm",
+      "summary": "Những hành vi như để nhân viên hãng sữa tiếp cận, quảng bá trực tiếp tới phụ nữ mang thai, bà mẹ, hay cung cấp thông tin bà mẹ để nhân viên tư vấn quảng cáo sữa thay thế sữa mẹ đều bị xử phạt hành chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T21:27:38.900503+07:00",
+      "fetched": "2026-04-05T21:27:38.900617+07:00"
+    },
+    {
+      "id": "aa0ae6bd902c5ab47c56ccf9fbf148fd",
+      "title": "Các bom tấn điện ảnh ngày càng dài hơn, càng đáng tiền hơn?",
+      "link": "https://tuoitre.vn/cac-bom-tan-dien-anh-ngay-cang-dai-hon-cang-dang-tien-hon-20260405181045609.htm",
+      "summary": "Thời lượng trung bình của các phim điện ảnh quy mô lớn tăng vọt trong những năm gần đây và Marvel cũng góp phần vào xu hướng này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T21:27:38.900377+07:00",
+      "fetched": "2026-04-05T21:27:38.900492+07:00"
+    },
+    {
+      "id": "6eb90567f4dde32fe9de09d3a17f2983",
+      "title": "CSGT ngồi trên ô tô ‘hóa trang’ ghi hình xử lý tài xế dùng điện thoại khi lái xe trên cao tốc",
+      "link": "https://tuoitre.vn/csgt-ngoi-tren-o-to-hoa-trang-ghi-hinh-xu-ly-tai-xe-dung-dien-thoai-khi-lai-xe-tren-cao-toc-20260405193016565.htm",
+      "summary": "Ngày 5-4, đại diện Đội Cảnh sát giao thông đường bộ cao tốc số 6 cho biết đã tăng cường sử dụng ô tô 'hóa trang' để ghi hình các tài xế sử dụng điện thoại khi lái xe trên cao tốc, từ đó xử lý theo quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T21:27:38.900246+07:00",
+      "fetched": "2026-04-05T21:27:38.900366+07:00"
+    },
+    {
+      "id": "2fd55b6711ad5aa41e22773ce6a17f03",
+      "title": "Iran tuyên bố Mỹ thất bại hoàn toàn trong chiến dịch giải cứu phi công",
+      "link": "https://tuoitre.vn/iran-tuyen-bo-my-that-bai-hoan-toan-trong-chien-dich-giai-cuu-phi-cong-20260405191859727.htm",
+      "summary": "Iran nói chiến dịch cứu phi công Mỹ tại Isfahan “thất bại hoàn toàn”, trái với tuyên bố của ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T21:27:38.900086+07:00",
+      "fetched": "2026-04-05T21:27:38.900232+07:00"
+    },
+    {
+      "id": "c2970e503afc8ac9466e7aa037da6c3c",
+      "title": "Bắt khẩn cấp nam thanh niên đánh người sau va chạm giao thông ở phường Dĩ An",
+      "link": "https://tuoitre.vn/bat-khan-cap-nam-thanh-nien-danh-nguoi-sau-va-cham-giao-thong-o-phuong-di-an-20260405194818193.htm",
+      "summary": "Sau khi va quẹt với xe máy khác tại hẻm cạnh Công ty giày da Thái Bình (khu phố Bình Đường 1, phường Dĩ An, TP.HCM) Nguyễn Khắc Phi không chỉ xô xát với người va chạm với mình mà còn lao vào tấn công người can ngăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T21:27:38.899943+07:00",
+      "fetched": "2026-04-05T21:27:38.900074+07:00"
+    },
+    {
+      "id": "66c93211c987895579fff02bb94e3bee",
+      "title": "Gia Lai: 6 học sinh lớp 12 đi tắm biển, một em bị mất tích",
+      "link": "https://tuoitre.vn/gia-lai-6-hoc-sinh-lop-12-di-tam-bien-mot-em-bi-mat-tich-20260405194556108.htm",
+      "summary": "Nhóm 6 học sinh lớp 12 tại Gia Lai đi tắm biển sau kỳ thi đánh giá năng lực, 2 em bị đuối nước, trong đó 1 em còn mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T21:27:38.899716+07:00",
+      "fetched": "2026-04-05T21:27:38.899928+07:00"
+    },
     {
       "id": "e52b5bcc74cb5db50c0a7eada5c64489",
       "title": "Dùng AI mạo danh giám đốc Sở Công Thương tỉnh phát biểu quảng cáo cho trang đánh bạc online",
@@ -453,6 +523,96 @@ window.newsData_2026_04_05 = {
       "fetched": "2026-04-05T15:33:15.429604+07:00"
     },
     {
+      "id": "b1dfd36c693df0ac99ab3abf7fb76064",
+      "title": "Hiện tượng hiếm gặp: Cá voi vờn sóng, phô diễn sống động ở Phú Quý",
+      "link": "https://thanhnien.vn/hien-tuong-hiem-gap-ca-voi-von-song-pho-dien-song-dong-o-phu-quy-185260405204736251.htm",
+      "summary": "Khoảnh khắc hiếm gặp khi đàn cá voi hàng chục con bơi sát ca nô của nhóm thợ lặn du lịch, liên tục nhảy lượn trên mặt nước ở đảo Phú Quý, cho thấy môi trường biển nơi đây trong lành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T14:23:00+07:00",
+      "fetched": "2026-04-05T21:27:37.904489+07:00"
+    },
+    {
+      "id": "06e6f0ad5a6927cbfc85ca5cdc78becd",
+      "title": "Highlight SLNA 1-1 Thể Công Viettel: Chia điểm sau màn giằng co quyết liệt",
+      "link": "https://thanhnien.vn/highlight-slna-1-1-the-cong-viettel-chia-diem-sau-man-giang-co-quyet-liet-185260405211729177.htm",
+      "summary": "SLNA và Thể Công Viettel hòa 1-1 trong trận đấu nhiều toan tính, khi cả hai đội đều có cơ hội nhưng không thể tạo ra khác biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T14:20:00+07:00",
+      "fetched": "2026-04-05T21:27:37.904655+07:00"
+    },
+    {
+      "id": "5c7b8dbd7be701ebab8f0de08c2a0a15",
+      "title": "Highlight Thanh hóa 4-0 CLB Công an TP.HCM: Tỷ số khó tin",
+      "link": "https://thanhnien.vn/highlight-thanh-hoa-4-0-clb-cong-an-tphcm-ty-so-kho-tin-185260405211934024.htm",
+      "summary": "Thanh Hóa có màn trình diễn bùng nổ khi đánh bại CLB Công an TP.HCM với tỷ số 4-0, tạo nên kết quả gây bất ngờ với thế trận áp đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T14:19:00+07:00",
+      "fetched": "2026-04-05T21:27:37.904820+07:00"
+    },
+    {
+      "id": "2895135b11cc9ba61a18f7f1bf0f74af",
+      "title": "Xuân Son vừa ghi bàn vừa kiến tạo, Nam Định thắng dễ Hà Tĩnh",
+      "link": "https://thanhnien.vn/xuan-son-vua-ghi-ban-vua-kien-tao-nam-dinh-thang-de-ha-tinh-18526040521125605.htm",
+      "summary": "Chiến thắng 2-0 giúp Nam Định tiếp tục khẳng định vị thế của một ứng viên hàng đầu tại V-League mùa này. Trong khi đó, Hà Tĩnh sẽ cần cải thiện khả năng tận dụng cơ hội nếu muốn tạo ra sự khác biệt ở những trận đấu tiếp theo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T14:15:00+07:00",
+      "fetched": "2026-04-05T21:27:37.904974+07:00"
+    },
+    {
+      "id": "2c0b4329894da9d1c7245632d5b17a68",
+      "title": "Trường ĐH quốc gia Malaysia đăng quang ngôi vương TNSV quốc tế 2026 sau loạt luân lưu nghẹt thở",
+      "link": "https://thanhnien.vn/truong-dh-quoc-gia-malaysia-dang-quang-ngoi-vuong-tnsv-quoc-te-2026-sau-loat-luan-luu-nghet-tho-185260405210349891.htm",
+      "summary": "Vượt qua ĐH Thủy Lợi trong loạt sút luân lưu nghẹt thở với tỉ số 7-6, Trường ĐH Quốc gia Malaysia đã chính thức đăng quang ngôi vô địch giải bóng đá Thanh Niên sinh viên quốc tế 2026. Lễ bế mạc tại Nha Trang không chỉ vinh danh những tập thể ưu tú mà còn là nhịp cầu hữu nghị giữa sinh viên các nước ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T14:15:00+07:00",
+      "fetched": "2026-04-05T21:27:37.905148+07:00"
+    },
+    {
+      "id": "ff6e8c793da3e0e051edb5b2bff22168",
+      "title": "Ông Trump: Mỹ đã thực hiện chiến dịch hiếm có để giải cứu phi công",
+      "link": "https://vnexpress.net/ong-trump-my-da-thuc-hien-chien-dich-hiem-co-de-giai-cuu-phi-cong-5058817.html",
+      "summary": "Tổng thống Trump ca ngợi chiến dịch giải cứu tổ bay F-15E bị bắn rơi ở Iran, khẳng định đây là hoạt động hiếm khi diễn ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T14:05:31+07:00",
+      "fetched": "2026-04-05T21:27:32.484631+07:00"
+    },
+    {
+      "id": "ff6e8c793da3e0e051edb5b2bff22168",
+      "title": "Ông Trump: Mỹ đã thực hiện chiến dịch hiếm có để giải cứu phi công",
+      "link": "https://vnexpress.net/ong-trump-my-da-thuc-hien-chien-dich-hiem-co-de-giai-cuu-phi-cong-5058817.html",
+      "summary": "Tổng thống Trump ca ngợi chiến dịch giải cứu tổ bay F-15E bị bắn rơi ở Iran, khẳng định đây là hoạt động hiếm khi diễn ra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-05T14:05:31+07:00",
+      "fetched": "2026-04-05T21:27:40.196192+07:00"
+    },
+    {
+      "id": "eea7124ba278747bed04cce581242f5b",
+      "title": "Lời kể tài xế cứu em bé ở quốc lộ 1: Bản năng người cha trong thời khắc sinh tử",
+      "link": "https://thanhnien.vn/loi-ke-tai-xe-cuu-em-be-o-quoc-lo-1-ban-nang-nguoi-cha-trong-thoi-khac-sinh-tu-185260405205229016.htm",
+      "summary": "Phát hiện bé gái chạy băng ngang quốc lộ khi xe tải đang lưu thông tốc độ cao, anh Tố (tài xế xe tải, quê Đà Nẵng) lập tức phanh gấp, lao xuống xe bế cháu bé vào lề an toàn trước sự ngỡ ngàng của nhiều người đi đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T14:01:00+07:00",
+      "fetched": "2026-04-05T21:27:37.905312+07:00"
+    },
+    {
+      "id": "677ffd9743e504d2234c1e3deb691f6a",
+      "title": "TNSV quốc tế 5.4: Ngôi vương gọi tên Trường ĐH quốc gia Malaysia",
+      "link": "https://thanhnien.vn/tnsv-quoc-te-54-ngoi-vuong-goi-ten-truong-dh-quoc-gia-malaysia-185260405210551513.htm",
+      "summary": "Bản tin Toàn cảnh TNSV quốc tế 2026 THACO Cup ngày 5.4 trên Thanhnien.vn và kênh YouTube Báo Thanh Niên cập nhật những diễn biến mới nhất về các trận đấu, câu chuyện bên lề sân cỏ và lịch thi đấu sắp tới của giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T14:00:00+07:00",
+      "fetched": "2026-04-05T21:27:37.905467+07:00"
+    },
+    {
       "id": "89b57037c719071e9b06374f22f9ddf5",
       "title": "Lớp yoga miễn phí của bệnh nhân ung thư",
       "link": "https://tuoitre.vn/lop-yoga-mien-phi-cua-benh-nhan-ung-thu-20260405094627889.htm",
@@ -603,6 +763,236 @@ window.newsData_2026_04_05 = {
       "fetched": "2026-04-05T13:54:46.136454+07:00"
     },
     {
+      "id": "9e8246c8fa06cb582016864681f81cbe",
+      "title": "Trung vệ thép của Trường ĐH Quốc gia Malaysia và hành trình vô địch cực kỳ đặc biệt",
+      "link": "https://thanhnien.vn/trung-ve-thep-cua-truong-dh-quoc-gia-malaysia-va-hanh-trinh-vo-dich-cuc-ky-dac-biet-185260405204637891.htm",
+      "summary": "Harith Dusuki trải qua hành trình di chuyển dày đặc trước khi cùng Trường ĐH Quốc gia Malaysia giành chức vô địch TNSV quốc tế THACO cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T13:47:00+07:00",
+      "fetched": "2026-04-05T21:27:37.905614+07:00"
+    },
+    {
+      "id": "f13ba7677aa0114b2f268bad8ba1b3be",
+      "title": "Một kỳ thi tại TP.HCM có lịch sử 30 năm được xác lập kỷ lục Việt Nam",
+      "link": "https://thanhnien.vn/mot-ky-thi-tai-tphcm-co-lich-su-30-nam-duoc-xac-lap-ky-luc-viet-nam-185260405200944724.htm",
+      "summary": "Ngày 5.4, Trường THPT chuyên Lê Hồng Phong (TP.HCM) đã tổng kết và phát thưởng kỳ thi Olympic truyền thống 30/4. Sự kiện không chỉ vinh danh các thí sinh xuất sắc mà còn đánh dấu lần thứ 30 kỳ thi được tổ chức tại ngôi trường này và được xác nhận kỷ lục Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T13:44:00+07:00",
+      "fetched": "2026-04-05T21:27:37.905761+07:00"
+    },
+    {
+      "id": "190003734e9f7ed03753156a0d427a25",
+      "title": "Tìm kiếm học sinh mất tích tại bãi biển Quy Nhơn",
+      "link": "https://thanhnien.vn/tim-kiem-nam-sinh-mat-tich-tai-bai-bien-quy-nhon-185260405200148277.htm",
+      "summary": "Sau khi thi đánh giá năng lực, 6 học sinh rủ nhau tắm biển Quy Nhơn, một em đuối nước mất tích, lực lượng chức năng đang tìm kiếm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T13:43:00+07:00",
+      "fetched": "2026-04-05T21:27:37.905907+07:00"
+    },
+    {
+      "id": "308b7803bba186d49a95c62530b4d3d9",
+      "title": "Highlight CLB Hà Tĩnh 0-2 Nam Định: Dấu ấn Xuân Son",
+      "link": "https://thanhnien.vn/highlight-clb-ha-tinh-0-2-nam-dinh-dau-an-xuan-son-185260405203702796.htm",
+      "summary": "Nam Định tiếp tục thể hiện phong độ ấn tượng khi giành chiến thắng 2-0 trước Hà Tĩnh, trong một trận đấu mà bản lĩnh của nhà đương kim vô địch được thể hiện rõ nét qua từng thời điểm then chốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T13:37:00+07:00",
+      "fetched": "2026-04-05T21:27:37.906050+07:00"
+    },
+    {
+      "id": "0f05959905f26b8416d62137fa8eecda",
+      "title": "Gia đình ca sĩ Thiện Nhân thông báo khẩn",
+      "link": "https://thanhnien.vn/gia-dinh-ca-si-thien-nhan-thong-bao-khan-18526040520153545.htm",
+      "summary": "Gia đình ca sĩ Thiện Nhân gây chú ý khi đăng tải bài viết mới, cho biết không nhận được thông tin liên lạc từ giọng ca 10X suốt 2 tháng qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T13:29:00+07:00",
+      "fetched": "2026-04-05T21:27:37.906223+07:00"
+    },
+    {
+      "id": "203ef0a5c3037d785dba834768748339",
+      "title": "Bảng xếp hạng V-League mới nhất: Thanh Hóa ‘dìm’ HAGL xuống gần đáy, đội HLV Popov vẫn tốp 2 nhưng...",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-thanh-hoa-dim-hagl-xuong-gan-day-doi-hlv-popov-van-top-2-nhung-185260405202400532.htm",
+      "summary": "CLB Thanh Hóa đã đẩy CLB HAGL vào thế khó khi đánh bại CLB CA TP.HCM ở trận đấu vòng 17 V-League 2025 - 2026. Trong khi ở tốp đầu, CLB Thể Công Viettel dù bất ngờ để SLNA cầm chân nhưng vẫn giữ được vị trí nhì bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T13:28:00+07:00",
+      "fetched": "2026-04-05T21:27:37.906371+07:00"
+    },
+    {
+      "id": "dce96b12d9e5a861df5949eae0bb328e",
+      "title": "Thể Công Viettel hòa nghẹt thở SLNA trên sân Vinh, níu kéo cơ hội đua vô địch V-League",
+      "link": "https://thanhnien.vn/the-cong-viettel-hoa-nghet-tho-slna-tren-san-vinh-niu-keo-co-hoi-dua-vo-dich-v-league-185260405201957702.htm",
+      "summary": "Tối 5.4, CLB Thể Công Viettel giành lại 1 điểm đầy nghẹt thở với trận hòa tỷ số 1-1 ở phút cuối trước đối thủ khắc tinh SLNA, để níu kéo cơ hội cạnh tranh ngôi vô địch V-League với đội đầu bảng CAHN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T13:25:00+07:00",
+      "fetched": "2026-04-05T21:27:37.906515+07:00"
+    },
+    {
+      "id": "351132b99c46482adb091806dfdf023f",
+      "title": "Ninh Bình ngược dòng hạ HAGL bằng siêu phẩm: Bản lĩnh lên tiếng đúng lúc",
+      "link": "https://thanhnien.vn/ninh-binh-nguoc-dong-ha-hagl-bang-sieu-pham-ban-linh-len-tieng-dung-luc-185260405201748014.htm",
+      "summary": "Ninh Bình tạo nên màn lội ngược dòng ấn tượng trước HAGL với chiến thắng 2-1, khi bản lĩnh và những khoảnh khắc tỏa sáng đúng lúc đã giúp đội khách xoay chuyển cục diện trận đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T13:22:00+07:00",
+      "fetched": "2026-04-05T21:27:37.906664+07:00"
+    },
+    {
+      "id": "7cd9c6b0dcfeee1f9db237e9719a3229",
+      "title": "Bảo Trúc về nước chuẩn bị đám cưới lần ba",
+      "link": "https://vnexpress.net/bao-truc-ve-nuoc-chuan-bi-dam-cuoi-lan-ba-5058790.html",
+      "summary": "Diễn viên Bảo Trúc, 40 tuổi, cùng doanh nhân Mike, 56 tuổi, từ Đức về Việt Nam may trang phục và chụp ảnh cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T13:16:00+07:00",
+      "fetched": "2026-04-05T21:27:32.484808+07:00"
+    },
+    {
+      "id": "9851438ec05d10062da25b4bfbebc1fb",
+      "title": "Xuân Son ghi bàn, kiến tạo và bỏ lỡ khó tin trong một trận",
+      "link": "https://vnexpress.net/xuan-son-ghi-ban-kien-tao-va-bo-lo-kho-tin-trong-mot-tran-5058818.html",
+      "summary": "Tiền đạo nhập tịch Nguyễn Xuân Son trải qua nhiều cung bậc cảm xúc khi cùng Nam Định thắng chủ nhà Hà Tĩnh 2-0 ở vòng 17 V-League 2025-2026 tối 5/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T13:15:38+07:00",
+      "fetched": "2026-04-05T21:27:32.484969+07:00"
+    },
+    {
+      "id": "9851438ec05d10062da25b4bfbebc1fb",
+      "title": "Xuân Son ghi bàn, kiến tạo và bỏ lỡ khó tin trong một trận",
+      "link": "https://vnexpress.net/xuan-son-ghi-ban-kien-tao-va-bo-lo-kho-tin-trong-mot-tran-5058818.html",
+      "summary": "Tiền đạo nhập tịch Nguyễn Xuân Son trải qua nhiều cung bậc cảm xúc khi cùng Nam Định thắng chủ nhà Hà Tĩnh 2-0 ở vòng 17 V-League 2025-2026 tối 5/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-05T13:15:38+07:00",
+      "fetched": "2026-04-05T21:27:45.064434+07:00"
+    },
+    {
+      "id": "29ccb9733ac44ec5e16c2dcf61fba88c",
+      "title": "Hai học sinh gặp nạn khi tắm biển Quy Nhơn",
+      "link": "https://vnexpress.net/hai-hoc-sinh-gap-nan-khi-tam-bien-quy-nhon-5058809.html",
+      "summary": "Nhóm học sinh lớp 12 tắm tại bãi biển đường Xuân Diệu bị sóng cuốn, một em được cứu sống, người còn lại mất tích, chiều 5/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T13:05:17+07:00",
+      "fetched": "2026-04-05T21:27:32.485332+07:00"
+    },
+    {
+      "id": "723e4ede7ef0fc9fa7349a3a4ce06d50",
+      "title": "Tỉnh nào có mức sống cao nhất nước?",
+      "link": "https://vnexpress.net/tinh-nao-co-muc-song-cao-nhat-nuoc-5058770.html",
+      "summary": "Chi phí sinh hoạt của tỉnh này gần bằng thủ đô Hà Nội, một số mặt hàng, dịch vụ thậm chí cao hơn. Bạn có biết đây là tỉnh nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T13:00:00+07:00",
+      "fetched": "2026-04-05T21:27:32.485579+07:00"
+    },
+    {
+      "id": "a3ca24c2c91eeb5fd6b723538cf674f9",
+      "title": "Lý Hoàng Nam vô địch PPA Tour Hà Nội",
+      "link": "https://vnexpress.net/ly-hoang-nam-vo-dich-ppa-tour-ha-noi-5058815.html",
+      "summary": "Tay vợt pickleball Lý Hoàng Nam đánh bại Trương Vinh Hiển 11-5, 11-6 ở chung kết PPA Hanoi Cup, hôm 5/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:45:51+07:00",
+      "fetched": "2026-04-05T21:27:32.485816+07:00"
+    },
+    {
+      "id": "a3ca24c2c91eeb5fd6b723538cf674f9",
+      "title": "Lý Hoàng Nam vô địch PPA Tour Hà Nội",
+      "link": "https://vnexpress.net/ly-hoang-nam-vo-dich-ppa-tour-ha-noi-5058815.html",
+      "summary": "Tay vợt pickleball Lý Hoàng Nam đánh bại Trương Vinh Hiển 11-5, 11-6 ở chung kết PPA Hanoi Cup, hôm 5/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-05T12:45:51+07:00",
+      "fetched": "2026-04-05T21:27:45.064631+07:00"
+    },
+    {
+      "id": "4c31051e8a31fd8ca1455de505be7d06",
+      "title": "Người đàn ông thoát chết khi cố vượt barie chắn tàu",
+      "link": "https://vnexpress.net/nguoi-dan-ong-thoat-chet-khi-co-vuot-barie-chan-tau-5058804.html",
+      "summary": "Dù barie tự động đã hạ, người đàn ông vẫn cố lách qua đường ray, bị tàu hỏa húc vào đuôi xe máy và hất văng ra đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:41:15+07:00",
+      "fetched": "2026-04-05T21:27:32.486103+07:00"
+    },
+    {
+      "id": "8b805d7aa748ac330d20bf86fcbcde93",
+      "title": "Thế lưỡng nan với ông Trump trong cuộc chiến Iran",
+      "link": "https://vnexpress.net/the-luong-nan-voi-ong-trump-trong-cuoc-chien-iran-5058155.html",
+      "summary": "Vụ Iran bắn rơi tiêm kích F-15E và những diễn biến khác trong chiến sự đang gia tăng sức ép lên Tổng thống Trump, khiến ông ngày càng khó tìm lối thoát như ý muốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:37:22+07:00",
+      "fetched": "2026-04-05T21:27:32.486409+07:00"
+    },
+    {
+      "id": "8b805d7aa748ac330d20bf86fcbcde93",
+      "title": "Thế lưỡng nan với ông Trump trong cuộc chiến Iran",
+      "link": "https://vnexpress.net/the-luong-nan-voi-ong-trump-trong-cuoc-chien-iran-5058155.html",
+      "summary": "Vụ Iran bắn rơi tiêm kích F-15E và những diễn biến khác trong chiến sự đang gia tăng sức ép lên Tổng thống Trump, khiến ông ngày càng khó tìm lối thoát như ý muốn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-05T12:37:22+07:00",
+      "fetched": "2026-04-05T21:27:40.196373+07:00"
+    },
+    {
+      "id": "91f0f6d72cd0e6139ef5e9d43da6cade",
+      "title": "Thành phố Batman nằm ở đâu?",
+      "link": "https://vnexpress.net/thanh-pho-batman-nam-o-dau-5058752.html",
+      "summary": "Batman không chỉ là tên của một siêu anh hùng của DC Comics mà còn là tên của một thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:31:19+07:00",
+      "fetched": "2026-04-05T21:27:32.486679+07:00"
+    },
+    {
+      "id": "13ee9060d2d1c935a41c044a6115e356",
+      "title": "Tuyển thủ U23 Việt Nam 'cứu' Ninh Bình ở V-League",
+      "link": "https://vnexpress.net/tuyen-thu-u23-viet-nam-cuu-ninh-binh-o-v-league-5058802.html",
+      "summary": "Lê Văn Thuận kiếm về phạt đền rồi dứt điểm đẳng cấp giúp Ninh Bình hạ HAGL 2-1 và có chiến thắng đầu tiên tại V-League trong năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:26:02+07:00",
+      "fetched": "2026-04-05T21:27:32.486947+07:00"
+    },
+    {
+      "id": "13ee9060d2d1c935a41c044a6115e356",
+      "title": "Tuyển thủ U23 Việt Nam 'cứu' Ninh Bình ở V-League",
+      "link": "https://vnexpress.net/tuyen-thu-u23-viet-nam-cuu-ninh-binh-o-v-league-5058802.html",
+      "summary": "Lê Văn Thuận kiếm về phạt đền rồi dứt điểm đẳng cấp giúp Ninh Bình hạ HAGL 2-1 và có chiến thắng đầu tiên tại V-League trong năm 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-05T12:26:02+07:00",
+      "fetched": "2026-04-05T21:27:45.064807+07:00"
+    },
+    {
+      "id": "877d9b743095ffe19385e78fb80be0d8",
+      "title": "Ca khúc World Cup 2026 'thiếu sức sống'",
+      "link": "https://vnexpress.net/ca-khuc-world-cup-2026-thieu-suc-song-5058797.html",
+      "summary": "\"Lighter\", ca khúc World Cup 2026 do FIFA phát hành, bị nhận xét buồn tẻ, thiếu sức sống so với các bài hát cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:24:10+07:00",
+      "fetched": "2026-04-05T21:27:32.487245+07:00"
+    },
+    {
+      "id": "af76bf0fcbbbc468de31195c850bf919",
+      "title": "Sách phân tích cội nguồn văn hóa của học giả Đào Duy Anh",
+      "link": "https://vnexpress.net/sach-phan-tich-coi-nguon-van-hoa-cua-hoc-gia-dao-duy-anh-5058435.html",
+      "summary": "Bộ sách của học giả Đào Duy Anh nêu định nghĩa về văn hóa, cung cấp thêm góc nhìn về nguồn gốc dân tộc Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:20:31+07:00",
+      "fetched": "2026-04-05T21:27:32.487529+07:00"
+    },
+    {
       "id": "d4670e06b2ca2a04744b5f4c287b52bf",
       "title": "Ninh Bình bùng nổ phút nhạy cảm, siêu phẩm định đoạt màn lội ngược dòng thắng ngoạn mục HAGL",
       "link": "https://thanhnien.vn/ninh-binh-bung-no-phut-nhay-cam-sieu-pham-dinh-doat-man-loi-nguoc-dong-thang-ngoan-muc-hagl-185260405191149185.htm",
@@ -651,6 +1041,16 @@ window.newsData_2026_04_05 = {
       "category": "Tổng hợp",
       "published": "2026-04-05T12:02:44+07:00",
       "fetched": "2026-04-05T19:35:21.776699+07:00"
+    },
+    {
+      "id": "710fb6728893e0dd40bf615919bf41d4",
+      "title": "Cắn răng vay mua chung cư 3,5 tỷ sau 10 năm chờ giá nhà hạ nhiệt",
+      "link": "https://vnexpress.net/gia-chung-cu-ha-noi-gia-chung-cu-tp-hcm-can-rang-vay-50-mua-chung-cu-3-5-ty-sau-10-nam-cho-gia-nha-ha-nhiet-5058763.html",
+      "summary": "Gần chục năm chờ đợi, những căn hộ tôi từng chê đắt trước đó đều tăng giá vài trăm triệu, thậm chí cả tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:02:44+07:00",
+      "fetched": "2026-04-05T21:27:32.487872+07:00"
     },
     {
       "id": "1d82d572923e682ed708bff1b7b03542",
