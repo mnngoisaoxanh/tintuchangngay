@@ -1,7 +1,127 @@
 window.newsData_2026_04_05 = {
   "date": "2026-04-05",
-  "lastUpdated": "2026-04-05T21:27:45.076123+07:00",
+  "lastUpdated": "2026-04-05T23:25:55.765128+07:00",
   "articles": [
+    {
+      "id": "db48b5317daac4116bd1fcbb8a45adb0",
+      "title": "Ngày hội Du lịch TP.HCM 2026 khép lại, hàng chục nghìn lượt giao dịch được ghi nhận",
+      "link": "https://tuoitre.vn/ngay-hoi-du-lich-tp-hcm-2026-khep-lai-hang-chuc-nghin-luot-giao-dich-duoc-ghi-nhan-20260405193458551.htm",
+      "summary": "Đến tận giờ chót của ngày bế mạc, các gian hàng lữ hành tại Ngày hội Du lịch TP.HCM lần thứ 22 vẫn nhộn nhịp người ra vào, khách liên tục hỏi tour, săn ưu đãi và chốt tour du lịch đi hè.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T23:25:47.063905+07:00",
+      "fetched": "2026-04-05T23:25:47.064019+07:00"
+    },
+    {
+      "id": "86493aa32e7a57c141f4346eedd8e29b",
+      "title": "Bắt nghi can cướp giật điện thoại của hai bé gái ở xã Bình Chánh sau 4 giờ truy xét",
+      "link": "https://tuoitre.vn/bat-nghi-can-cuop-giat-dien-thoai-cua-hai-be-gai-o-xa-binh-chanh-sau-4-gio-truy-xet-20260405202246959.htm",
+      "summary": "Sau 4 giờ tiếp nhận tin báo của bị hại, Công an xã Bình Chánh (TP.HCM) và lực lượng phối hợp đã nhanh chóng bắt được nghi can cướp giật điện thoại iPhone 14 Promax của hai bé gái và thu hồi tang vật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T23:25:47.063755+07:00",
+      "fetched": "2026-04-05T23:25:47.063892+07:00"
+    },
+    {
+      "id": "bcebb4225285d08371a652b06e96123d",
+      "title": "Thể Công - Viettel thoát hiểm phút 90 trước Sông Lam Nghệ An",
+      "link": "https://tuoitre.vn/the-cong-viettel-thoat-hiem-phut-90-truoc-song-lam-nghe-an-20260405201524995.htm",
+      "summary": "Được đánh giá cao hơn, Thể Công - Viettel suýt thua Sông Lam Nghệ An trên sân Vinh, khi mãi đến phút cuối mới gỡ hòa 1-1 ở vòng 17 LPBank V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T23:25:47.063628+07:00",
+      "fetched": "2026-04-05T23:25:47.063743+07:00"
+    },
+    {
+      "id": "f393fdc3446fc23cf967d1d011a92863",
+      "title": "Bộ trưởng Quốc phòng Israel dọa giết lãnh đạo Iran, ca ngợi hợp tác với Mỹ",
+      "link": "https://tuoitre.vn/bo-truong-quoc-phong-israel-doa-giet-lanh-dao-iran-ca-ngoi-hop-tac-voi-my-20260405201030966.htm",
+      "summary": "Israel cảnh báo sẽ tiêu diệt lãnh đạo Iran và đánh mạnh hơn nếu các cuộc tấn công tên lửa tiếp diễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T23:25:47.063502+07:00",
+      "fetched": "2026-04-05T23:25:47.063613+07:00"
+    },
+    {
+      "id": "00391e506e2221bf6977136d2c3a3823",
+      "title": "Xuân Son thăng hoa giúp CLB Nam Định thắng trận thứ 5 liên tiếp",
+      "link": "https://tuoitre.vn/xuan-son-thang-hoa-giup-clb-nam-dinh-thang-tran-thu-5-lien-tiep-20260405202145402.htm",
+      "summary": "Nguyễn Xuân Son thi đấu chói sáng giúp CLB Nam Định kéo dài chuỗi thắng lên con số 5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T23:25:47.063381+07:00",
+      "fetched": "2026-04-05T23:25:47.063491+07:00"
+    },
+    {
+      "id": "ceba6592cd82012037c59fb904b88a99",
+      "title": "Tiến Linh 'vô duyên', CLB Công An TP.HCM thua đậm tại Thanh Hóa",
+      "link": "https://tuoitre.vn/tien-linh-vo-duyen-clb-cong-an-tp-hcm-thua-dam-tai-thanh-hoa-20260405202211282.htm",
+      "summary": "CLB Công An TP.HCM đã thua đậm Thanh Hóa 0-4 trong trận đấu mà tiền đạo Nguyễn Tiến Linh tiếp tục thể hiện sự \"vô duyên\" trong ghi bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T23:25:47.063257+07:00",
+      "fetched": "2026-04-05T23:25:47.063369+07:00"
+    },
+    {
+      "id": "9ec40b4d70491440e2f99883cbe51b56",
+      "title": "Thấy gì qua triển lãm ‘Hai ba bốn’ của Đinh Công Đạt và Trương Quý?",
+      "link": "https://tuoitre.vn/thay-gi-qua-trien-lam-hai-ba-bon-cua-dinh-cong-dat-va-truong-quy-20260405202552678.htm",
+      "summary": "Đinh Công Đạt (Đạt Rồ) nói thông thường mọi người đến xem triển lãm là xem phần tinh túy của người nghệ sĩ. Chẳng ai bày ra sự dở dang, bất toàn, nhọc nhằn, nhếch nhác của mình với công chúng. Nhưng với triển lãm ‘Hai ba bốn’, anh lại chọn khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T23:25:47.063128+07:00",
+      "fetched": "2026-04-05T23:25:47.063246+07:00"
+    },
+    {
+      "id": "ecbcbeda94ced4116ccc5f39d5250ac7",
+      "title": "Văn Thuận lập siêu phẩm vào lưới Hoàng Anh Gia Lai, mang về chiến thắng cho Ninh Bình",
+      "link": "https://tuoitre.vn/van-thuan-lap-sieu-pham-vao-luoi-hoang-anh-gia-lai-mang-ve-chien-thang-cho-ninh-binh-20260405203949697.htm",
+      "summary": "Tuyển thủ U23 Việt Nam - Lê Văn Thuận (19 tuổi) đã có một ngày thi đấu hiệu quả khi lập siêu phẩm sút xa, giúp Ninh Bình lội ngược dòng trước Hoàng Anh Gia Lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T23:25:47.062993+07:00",
+      "fetched": "2026-04-05T23:25:47.063116+07:00"
+    },
+    {
+      "id": "a6a933ac9bb749d599cb8641775ec98e",
+      "title": "Tại sao ảnh Trái đất năm 2026 lại 'nhợt nhạt' hơn ảnh năm 1972?",
+      "link": "https://tuoitre.vn/tai-sao-anh-trai-dat-nam-2026-lai-nhot-nhat-hon-anh-nam-1972-20260405190742264.htm",
+      "summary": "Hai bức ảnh Trái đất được NASA đăng tải đã tạo ra làn sóng tranh luận về sự thay đổi diện mạo của hành tinh xanh sau hơn nửa thế kỷ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T23:25:47.062857+07:00",
+      "fetched": "2026-04-05T23:25:47.062981+07:00"
+    },
+    {
+      "id": "8c77a84afbe56e7866ffb9e1ef178e7e",
+      "title": "Gia đình có trẻ tự kỷ phải ‘giao tiếp’ với xã hội bằng nhiều ánh mắt",
+      "link": "https://tuoitre.vn/gia-dinh-co-tre-tu-ky-phai-giao-tiep-voi-xa-hoi-bang-nhieu-anh-mat-2026040521302501.htm",
+      "summary": "Người tự kỷ thường hạn chế giao tiếp bằng mắt, nhưng chính gia đình của họ lại phải “giao tiếp” với xã hội bằng rất nhiều ánh mắt - có ánh mắt cảm thông, có ánh mắt thương hại, có cả những ánh mắt băn khoăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T23:25:47.062688+07:00",
+      "fetched": "2026-04-05T23:25:47.062843+07:00"
+    },
+    {
+      "id": "17181f5c4c2e12561f1e981ec67e9d97",
+      "title": "Hoàng Anh Gia Lai thua ngược Ninh Bình: Trận đấu diễn ra sòng phẳng",
+      "link": "https://tuoitre.vn/hoang-anh-gia-lai-thua-nguoc-ninh-binh-tran-dau-dien-ra-song-phang-20260405214124486.htm",
+      "summary": "HLV Lê Quang Trãi khẳng định hai đội Hoàng Anh Gia Lai và Ninh Bình không có vấn đề gì về tình cảm. Trận đấu diễn ra sòng phẳng, hai đội chơi cống hiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T23:25:47.062550+07:00",
+      "fetched": "2026-04-05T23:25:47.062676+07:00"
+    },
+    {
+      "id": "99568ce8a1e4ad2abe1cc598d60d1a67",
+      "title": "Nghi găm xăng dầu trước giờ tăng giá: Cục Thuế yêu cầu kiểm tra đột xuất",
+      "link": "https://tuoitre.vn/nghi-gam-xang-dau-truoc-gio-tang-gia-cuc-thue-yeu-cau-kiem-tra-dot-xuat-20260405215117645.htm",
+      "summary": "Cục Thuế phát hiện dấu hiệu bất thường trong dữ liệu hóa đơn của một số doanh nghiệp xăng dầu, có nơi sản lượng bán trước khi tăng giá cao gấp nhiều lần sau đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T23:25:47.062329+07:00",
+      "fetched": "2026-04-05T23:25:47.062535+07:00"
+    },
     {
       "id": "8e8ad9850eaaa3ba1605f24637ce3816",
       "title": "Sở Xây dựng TP.HCM có tờ trình xây dựng nghị quyết miễn phí xe buýt theo thủ tục rút gọn",
@@ -373,6 +493,46 @@ window.newsData_2026_04_05 = {
       "fetched": "2026-04-05T17:24:00.557056+07:00"
     },
     {
+      "id": "310fa9b2cab4c3f07fc156edf17efac0",
+      "title": "Billiards: Tài năng trẻ 17 tuổi gây bất ngờ lớn, giành vé dự World Cup TP.HCM",
+      "link": "https://thanhnien.vn/billiards-tai-nang-tre-17-tuoi-gay-bat-ngo-lon-gianh-ve-du-world-cup-tphcm-185260405225124063.htm",
+      "summary": "Vòng tuyển chọn 2 đã xác định thêm 8 cơ thủ dự World Cup billiards TP.HCM. Trong đó, cơ thủ 17 tuổi gây bất ngờ khi đánh bại đàn anh giàu kinh nghiệm để giành vé.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T16:08:00+07:00",
+      "fetched": "2026-04-05T23:25:45.528998+07:00"
+    },
+    {
+      "id": "eebbdffae21a5b64f06e4a5031358440",
+      "title": "Vượt nửa vòng trái đất tiếp lửa học trò, Hiệu trưởng Trường ĐH Thủy lợi tự hào với tinh thần TLU",
+      "link": "https://thanhnien.vn/vuot-nua-vong-trai-dat-tiep-lua-hoc-tro-hieu-truong-truong-dh-thuy-loi-tu-hao-voi-tinh-than-tlu-185260405221814288.htm",
+      "summary": "Trận chung kết giải bóng đá Thanh Niên sinh viên quốc tế 2026 - cúp THACO đã khép lại với một kịch bản đầy nuối tiếc cho Trường ĐH Thủy Lợi khi để thua đại diện Trường ĐH Quốc gia Malaysia trên chấm luân lưu đầy may rủi. Dù không thể chạm tay vào chiếc cúp vô địch, nhưng các cầu thủ áo đỏ vẫn là nhữ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:54:00+07:00",
+      "fetched": "2026-04-05T23:25:45.529169+07:00"
+    },
+    {
+      "id": "bc4edabeb932541e43cc26ad447702ed",
+      "title": "Trường ĐH Thủy lợi: Gạt niềm đau, đứng dậy, bước tiếp",
+      "link": "https://thanhnien.vn/truong-dh-thuy-loi-gat-niem-dau-dung-day-buoc-tiep-185260405221850131.htm",
+      "summary": "Tạo ra hàng tá cơ hội ở trận chung kết, sút thành công 6 quả luân lưu, nhưng số phận vẫn ngăn Trường ĐH Thủy lợi chạm tay đến chức vô địch giải bóng đá Thanh Niên sinh viên quốc tế lần II - 2026 cúp THACO",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:42:00+07:00",
+      "fetched": "2026-04-05T23:25:45.529324+07:00"
+    },
+    {
+      "id": "3fd67f5fd0ea1daabe54133eca3f6cb7",
+      "title": "Du khách Hàn trả ơn cô gái Việt sau hai năm gặp nạn ở Đà Nẵng",
+      "link": "https://vnexpress.net/du-khach-han-tra-on-co-gai-viet-sau-hai-nam-gap-nan-o-da-nang-5057334.html",
+      "summary": "Anh Sun-jae gặp lại Ngọc Ánh tại Seoul, chiêu đãi và đưa cô đi tham quan để đáp lại sự giúp đỡ của gia đình cô khi anh bị tai nạn tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:35:25+07:00",
+      "fetched": "2026-04-05T23:25:42.304708+07:00"
+    },
+    {
       "id": "b5e9d16d118f86590f23ff333e30df5c",
       "title": "Voi rừng phá rào thép, 'đột nhập' trường học ở Sơn La",
       "link": "https://tuoitre.vn/voi-rung-pha-rao-thep-dot-nhap-truong-hoc-o-son-la-20260405113437126.htm",
@@ -521,6 +681,106 @@ window.newsData_2026_04_05 = {
       "category": "Tổng hợp",
       "published": "2026-04-05T15:33:15.429388+07:00",
       "fetched": "2026-04-05T15:33:15.429604+07:00"
+    },
+    {
+      "id": "b8ea6488109de2db77be830c1456eed4",
+      "title": "Thi Đánh giá năng lực: Sát giờ thi phát hiện quên căn cước công dân, nữ sinh được phụ huynh 'lạ' tốt bụng giúp đỡ",
+      "link": "https://thanhnien.vn/thi-danh-gia-nang-luc-sat-gio-thi-phat-hien-quen-can-cuoc-cong-dan-nu-sinh-duoc-phu-huynh-la-tot-bung-giup-do-185260405204738903.htm",
+      "summary": "Ngay trước giờ G của kỳ thi Đánh giá năng lực đợt 1 năm 2026, một thí sinh bỗng chết lặng khi phát hiện quên căn cước công dân, trong khi nhà ở cách xa điểm thi. Giữa khoảnh khắc rối bời ấy, một phụ huynh xa lạ bất ngờ lên tiếng, mở ra một hành trình gấp gáp mà chỉ cần chậm vài phút, mọi chuyện có t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:29:00+07:00",
+      "fetched": "2026-04-05T23:25:45.529478+07:00"
+    },
+    {
+      "id": "96a9c2b8afd041968b4bca1abba051d6",
+      "title": "Nữ TikToker xin lỗi sau phát ngôn 'bánh mì chỉ đói khát, khổ cực mới ăn'",
+      "link": "https://thanhnien.vn/nu-tiktoker-xin-loi-sau-phat-ngon-banh-mi-chi-doi-khat-kho-cuc-moi-an-18526040521350377.htm",
+      "summary": "Nữ TikToker có hơn 3,1 triệu người theo dõi khiến dân mạng bức xúc với phát ngôn 'bánh mì chỉ đói khát, khổ cực mới ăn'. Sau đó, người này lên tiếng xin lỗi, thừa nhận nội dung thiếu suy nghĩ và kém tinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:05:00+07:00",
+      "fetched": "2026-04-05T23:25:45.529631+07:00"
+    },
+    {
+      "id": "57dc5541661e3bae9ba1e78d734073ab",
+      "title": "Cảnh sát giải cứu người phụ nữ Trung Quốc gặp nạn khi leo núi Dinh",
+      "link": "https://vnexpress.net/canh-sat-giai-cuu-nguoi-phu-nu-trung-quoc-gap-nan-khi-leo-nui-dinh-5058836.html",
+      "summary": "Người phụ nữ Trung Quốc bị gãy chân khi cùng nhóm bạn chung công ty leo núi Dinh, phường Long Hương (Bà Rịa - Vũng Tàu cũ) được cảnh sát giải cứu, ngày 5/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:03:29+07:00",
+      "fetched": "2026-04-05T23:25:42.304921+07:00"
+    },
+    {
+      "id": "ad946146c8d479397b471dcc5ec155d5",
+      "title": "Công an xác minh nhóm người chặn ô tô, đập bể kính chắn gió ở Vĩnh Long",
+      "link": "https://thanhnien.vn/cong-an-xac-minh-nhom-nguoi-chan-o-to-dap-be-kinh-chan-gio-o-vinh-long-185260405211854068.htm",
+      "summary": "Thấy nhóm người đi xe máy di chuyển vào làn ô tô, tài xế bóp còi xin đường thì bất ngờ bị chặn xe và đập bể kính chắn gió phía trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:02:00+07:00",
+      "fetched": "2026-04-05T23:25:45.529782+07:00"
+    },
+    {
+      "id": "cdb92e32394711d1eb8d93c6427b2652",
+      "title": "Hé lộ chi tiết cuộc giải cứu phi công Mỹ trên tiêm kích F-15 bị Iran bắn hạ",
+      "link": "https://thanhnien.vn/he-lo-chi-tiet-cuoc-giai-cuu-phi-cong-my-tren-tiem-kich-f-15-bi-iran-ban-ha-185260405190446711.htm",
+      "summary": "Đài CBS News dẫn lời hai quan chức Mỹ tiết lộ lực lượng đặc nhiệm nước này đã giải cứu được sĩ quan mất tích trong một chiến dịch phức tạp với sự tham gia của hàng trăm người cùng hàng chục máy bay và trực thăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T14:55:00+07:00",
+      "fetched": "2026-04-05T23:25:45.529961+07:00"
+    },
+    {
+      "id": "b189e6067460218217a8742f93c22679",
+      "title": "HLV Popov gọi trọng tài là ‘sát thủ chuyên nghiệp’",
+      "link": "https://vnexpress.net/hlv-popov-goi-trong-tai-la-sat-thu-chuyen-nghiep-5058838.html",
+      "summary": "HLV Velizar Popov chỉ trích trọng tài Lê Vũ Linh vì từ chối bàn thắng của Thể Công trong trận hòa SLNA 1-1 tại vòng 17 V-League 2025-2026, tối nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T14:50:44+07:00",
+      "fetched": "2026-04-05T23:25:42.305088+07:00"
+    },
+    {
+      "id": "b189e6067460218217a8742f93c22679",
+      "title": "HLV Popov gọi trọng tài là ‘sát thủ chuyên nghiệp’",
+      "link": "https://vnexpress.net/hlv-popov-goi-trong-tai-la-sat-thu-chuyen-nghiep-5058838.html",
+      "summary": "HLV Velizar Popov chỉ trích trọng tài Lê Vũ Linh vì từ chối bàn thắng của Thể Công trong trận hòa SLNA 1-1 tại vòng 17 V-League 2025-2026, tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-05T14:50:44+07:00",
+      "fetched": "2026-04-05T23:25:55.752983+07:00"
+    },
+    {
+      "id": "19c8c2800c3bc21c16ba1530d43787f6",
+      "title": "Bệnh viện Nhi đồng 2 tầm soát tim bẩm sinh cho 500 trẻ em tại xã Phú Giáo",
+      "link": "https://thanhnien.vn/benh-vien-nhi-dong-2-tam-soat-tim-bam-sinh-cho-500-tre-em-tai-xa-phu-giao-185260405214836769.htm",
+      "summary": "Sáng 5.4, đoàn y bác sĩ Bệnh viện Nhi đồng 2 tổ chức thăm khám, phát thuốc và tặng quà cho 500 trẻ em hoàn cảnh khó khăn tại xã Phú Giáo (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T14:48:00+07:00",
+      "fetched": "2026-04-05T23:25:45.530111+07:00"
+    },
+    {
+      "id": "41596f1af0fbc728ab6b94d1edb25d5a",
+      "title": "CLB Công an TP.HCM thua sốc Thanh Hóa 0-4, HLV Lê Huỳnh Đức nói gì?",
+      "link": "https://thanhnien.vn/clb-cong-an-tphcm-thua-soc-thanh-hoa-0-4-hlv-le-huynh-duc-noi-gi-185260405214055233.htm",
+      "summary": "HLV Lê Huỳnh Đức nhận trách nhiệm sau khi CLB Công an TP.HCM bất ngờ để thua đội bóng đang đua trụ hạng là đội Thanh Hóa ở vòng 17 V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T14:43:00+07:00",
+      "fetched": "2026-04-05T23:25:45.530258+07:00"
+    },
+    {
+      "id": "c900d413e29c4a1487809db5ba04550a",
+      "title": "Hiện trường ba máy bay Mỹ bốc cháy tại Iran",
+      "link": "https://vnexpress.net/hien-truong-ba-may-bay-my-boc-chay-tai-iran-5058819.html",
+      "summary": "Truyền thông Iran công bố video được mô tả là hiện trường chiếc vận tải cơ C-130 và hai trực thăng Black Hawk của Mỹ, sau chiến dịch tìm kiếm phi công F-15.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T14:37:38+07:00",
+      "fetched": "2026-04-05T23:25:42.305246+07:00"
     },
     {
       "id": "b1dfd36c693df0ac99ab3abf7fb76064",
