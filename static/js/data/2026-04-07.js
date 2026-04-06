@@ -1,7 +1,17 @@
 window.newsData_2026_04_07 = {
   "date": "2026-04-07",
-  "lastUpdated": "2026-04-07T01:43:03.313733+07:00",
+  "lastUpdated": "2026-04-07T03:29:17.018902+07:00",
   "articles": [
+    {
+      "id": "27e6ca73fd05d8a811132b55223247c0",
+      "title": "NÓNG: Tối 7-4 là hạn chót cho Iran? Vì sao Mỹ phải phá hủy máy bay vận tải sau khi giải cứu sĩ quan?",
+      "link": "https://tuoitre.vn/nong-toi-7-4-la-han-chot-cho-iran-vi-sao-my-phai-pha-huy-may-bay-van-tai-sau-khi-giai-cuu-si-quan-20260406222827667.htm",
+      "summary": "Khoảng 0h10 sáng 7-4 (giờ Việt Nam), ông Trump bắt đầu họp báo tại Nhà Trắng cùng các thành viên quân đội Mỹ, ra hạn chót với Iran và tường thuật cuộc giải cứu sĩ quan vũ khí tại Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T03:29:09.196205+07:00",
+      "fetched": "2026-04-07T03:29:09.196375+07:00"
+    },
     {
       "id": "c2fff05f7be3718f7d09f8759be2f309",
       "title": "Du lịch Đà Nẵng tăng tốc, lãnh đạo cảnh báo nguy cơ quá tải, biến động giá phòng",
@@ -153,6 +163,76 @@ window.newsData_2026_04_07 = {
       "fetched": "2026-04-07T01:42:54.250093+07:00"
     },
     {
+      "id": "dd9b144e804292eade5d41f29af44bd9",
+      "title": "Lãi suất liên ngân hàng biến động mạnh trong 3 tháng đầu năm",
+      "link": "https://vnexpress.net/lai-suat-lien-ngan-hang-bien-dong-manh-trong-3-thang-dau-nam-5057688.html",
+      "summary": "Lãi suất vay mượn giữa các ngân hàng nhiều phiên tăng mạnh và được dự báo khó sớm quay về mức thấp như trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T19:00:00+07:00",
+      "fetched": "2026-04-07T03:29:05.321324+07:00"
+    },
+    {
+      "id": "dd9b144e804292eade5d41f29af44bd9",
+      "title": "Lãi suất liên ngân hàng biến động mạnh trong 3 tháng đầu năm",
+      "link": "https://vnexpress.net/lai-suat-lien-ngan-hang-bien-dong-manh-trong-3-thang-dau-nam-5057688.html",
+      "summary": "Lãi suất vay mượn giữa các ngân hàng nhiều phiên tăng mạnh và được dự báo khó sớm quay về mức thấp như trước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-06T19:00:00+07:00",
+      "fetched": "2026-04-07T03:29:12.117100+07:00"
+    },
+    {
+      "id": "f88fc30484d1e94c65b77e1ffc6d72e0",
+      "title": "TP HCM đặt mục tiêu kinh tế số chiếm 30% GRDP năm nay",
+      "link": "https://vnexpress.net/tp-hcm-dat-muc-tieu-kinh-te-so-chiem-30-grdp-nam-nay-5059286.html",
+      "summary": "TP HCM đặt mục tiêu kinh tế số đóng góp từ 30% GRDP trở lên trong năm nay, tức gấp đôi kết quả đạt được vào 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T18:52:58+07:00",
+      "fetched": "2026-04-07T03:29:05.321507+07:00"
+    },
+    {
+      "id": "f88fc30484d1e94c65b77e1ffc6d72e0",
+      "title": "TP HCM đặt mục tiêu kinh tế số chiếm 30% GRDP năm nay",
+      "link": "https://vnexpress.net/tp-hcm-dat-muc-tieu-kinh-te-so-chiem-30-grdp-nam-nay-5059286.html",
+      "summary": "TP HCM đặt mục tiêu kinh tế số đóng góp từ 30% GRDP trở lên trong năm nay, tức gấp đôi kết quả đạt được vào 2025.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-06T18:52:58+07:00",
+      "fetched": "2026-04-07T03:29:12.117281+07:00"
+    },
+    {
+      "id": "722d658a6a0173536c06132c14b01240",
+      "title": "Nên vay ngân hàng một nửa để đầu tư nhà 4 tỷ cho thuê?",
+      "link": "https://vnexpress.net/nen-vay-ngan-hang-mot-nua-de-dau-tu-nha-4-ty-cho-thue-5059084.html",
+      "summary": "Việc vay ngân hàng 50% giá trị căn nhà có thể tạo gánh nặng tài chính lớn, tiềm ẩn nhiều rủi ro khi dòng tiền đứt gãy, lãi suất thả nổi tăng vọt, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T18:46:15+07:00",
+      "fetched": "2026-04-07T03:29:05.321670+07:00"
+    },
+    {
+      "id": "c15b3a80f011617303ddd32d41f7216e",
+      "title": "Cách một công ty Trung Quốc tập sống chung với thuế nhập khẩu",
+      "link": "https://vnexpress.net/cach-mot-cong-ty-trung-quoc-tap-song-chung-voi-thue-nhap-khau-5059206.html",
+      "summary": "Agilian Technology từng bị đóng băng đơn hàng nhiều tháng và bị khách hàng giục mở nhà máy ở nước khác khi Mỹ liên tiếp nâng thuế năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T18:43:53+07:00",
+      "fetched": "2026-04-07T03:29:05.321834+07:00"
+    },
+    {
+      "id": "c15b3a80f011617303ddd32d41f7216e",
+      "title": "Cách một công ty Trung Quốc tập sống chung với thuế nhập khẩu",
+      "link": "https://vnexpress.net/cach-mot-cong-ty-trung-quoc-tap-song-chung-voi-thue-nhap-khau-5059206.html",
+      "summary": "Agilian Technology từng bị đóng băng đơn hàng nhiều tháng và bị khách hàng giục mở nhà máy ở nước khác khi Mỹ liên tiếp nâng thuế năm 2025.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-06T18:43:53+07:00",
+      "fetched": "2026-04-07T03:29:12.117444+07:00"
+    },
+    {
       "id": "7710946f76bb965a383fb2454897bb8d",
       "title": "Ngủ trưa mỗi ngày: Lợi hay hại, chuyên gia nói gì?",
       "link": "https://thanhnien.vn/ngu-trua-moi-ngay-loi-hay-hai-chuyen-gia-noi-gi-185260407001706685.htm",
@@ -201,6 +281,26 @@ window.newsData_2026_04_07 = {
       "category": "Thế giới",
       "published": "2026-04-06T18:00:00+07:00",
       "fetched": "2026-04-07T01:42:55.887925+07:00"
+    },
+    {
+      "id": "5cedf98fd48d64795aad5db75859d93c",
+      "title": "Tương lai xe điện 'sạc' ngược năng lượng cho nền kinh tế",
+      "link": "https://vnexpress.net/tuong-lai-xe-dien-sac-nguoc-nang-luong-cho-nen-kinh-te-5059174.html",
+      "summary": "Mô hình biến xe điện thành pin lưu trữ, cấp lại điện cho lưới vào giờ cao điểm, đang được thí điểm tại nhiều quốc gia, hỗ trợ cho hoạt động sản xuất, sinh hoạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T18:00:00+07:00",
+      "fetched": "2026-04-07T03:29:05.322180+07:00"
+    },
+    {
+      "id": "5cedf98fd48d64795aad5db75859d93c",
+      "title": "Tương lai xe điện 'sạc' ngược năng lượng cho nền kinh tế",
+      "link": "https://vnexpress.net/tuong-lai-xe-dien-sac-nguoc-nang-luong-cho-nen-kinh-te-5059174.html",
+      "summary": "Mô hình biến xe điện thành pin lưu trữ, cấp lại điện cho lưới vào giờ cao điểm, đang được thí điểm tại nhiều quốc gia, hỗ trợ cho hoạt động sản xuất, sinh hoạt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-06T18:00:00+07:00",
+      "fetched": "2026-04-07T03:29:12.117605+07:00"
     },
     {
       "id": "7dbbdddc7fdb2a733db2b338a7557d25",
