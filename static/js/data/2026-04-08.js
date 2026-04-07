@@ -1,7 +1,37 @@
 window.newsData_2026_04_08 = {
   "date": "2026-04-08",
-  "lastUpdated": "2026-04-08T03:36:34.812860+07:00",
+  "lastUpdated": "2026-04-08T05:29:10.624298+07:00",
   "articles": [
+    {
+      "id": "a6e0f2b4366c4d0b9bf70382fb14a35f",
+      "title": "FTSE Russell: Việt Nam vượt rà soát nâng hạng, nhiều cổ phiếu sẽ vào chỉ số toàn cầu",
+      "link": "https://tuoitre.vn/ftse-russell-viet-nam-vuot-ra-soat-nang-hang-nhieu-co-phieu-se-vao-chi-so-toan-cau-20260407223645311.htm",
+      "summary": "FTSE Russell vừa chính thức xác nhận lộ trình nâng hạng thị trường chứng khoán Việt Nam lên mới nổi thứ cấp. Việc đưa cổ phiếu Việt Nam vào các bộ chỉ số toàn cầu của tổ chức này bắt đầu từ tháng 9-2026 và hoàn tất một năm sau đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:29:01.987200+07:00",
+      "fetched": "2026-04-08T05:29:01.987301+07:00"
+    },
+    {
+      "id": "71e0ef8a8e953046208e0184d1b34f69",
+      "title": "Việt Nam được nâng hạng, FTSE Russell hé lộ 32 cổ phiếu dự kiến vào rổ chỉ số toàn cầu",
+      "link": "https://tuoitre.vn/viet-nam-duoc-nang-hang-ftse-russell-he-lo-32-co-phieu-du-kien-vao-ro-chi-so-toan-cau-20260408001216153.htm",
+      "summary": "FTSE Russell vừa công bố danh sách dự kiến hơn 30 cổ phiếu Việt Nam có thể được đưa vào các bộ chỉ số toàn cầu khi thị trường chứng khoán Việt Nam được nâng hạng lên nhóm thị trường mới nổi thứ cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:29:01.987078+07:00",
+      "fetched": "2026-04-08T05:29:01.987189+07:00"
+    },
+    {
+      "id": "589ef25bd2be37e01fb486afd3d54a1c",
+      "title": "Bayern Munich đánh bại Real Madrid ngay tại Bernabeu",
+      "link": "https://tuoitre.vn/bayern-munich-danh-bai-real-madrid-ngay-tai-bernabeu-20260408034728654.htm",
+      "summary": "Rạng sáng 8-4, Real Madrid để thua Bayern Munich 1-2 trên sân nhà Bernabeu ở lượt đi vòng tứ kết Champions League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:29:01.986848+07:00",
+      "fetched": "2026-04-08T05:29:01.987063+07:00"
+    },
     {
       "id": "7f9c3b74c68f4a578a56798ef98389d2",
       "title": "Dựng rạp, rào dây làm nơi buôn bán trên vỉa hè: Tuổi Trẻ vừa đăng, phường xử lý ngay",
@@ -153,6 +183,186 @@ window.newsData_2026_04_08 = {
       "fetched": "2026-04-08T01:49:27.430517+07:00"
     },
     {
+      "id": "de2308c34c9c483e2bd3d69d2e571e30",
+      "title": "Ukraine đề xuất với Nga về ngừng tấn công các cơ sở năng lượng",
+      "link": "https://thanhnien.vn/ukraine-de-xuat-voi-nga-ve-ngung-tan-cong-cac-co-so-nang-luong-185260407222553151.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky tối 6.4 thông báo nước này đã đề xuất với Nga ngừng bắn vào cơ sở năng lượng thông qua Mỹ đóng vai trò trung gian, theo trang The Kyiv Independent.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:21:00+07:00",
+      "fetched": "2026-04-08T05:29:01.077925+07:00"
+    },
+    {
+      "id": "9355c02f8cc6047b4257037613b19a33",
+      "title": "Tử vi ngày 8 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-8-thang-4-con-giap-nao-may-man-hom-nay-185260407225820593.htm",
+      "summary": "Tử vi ngày 8 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm nổi bật là khả năng điều chỉnh kỳ vọng, ai hiểu rõ giới hạn và thế mạnh của mình sẽ làm việc hiệu quả hơn. Tài lộc không nằm ở việc cố vượt quá khả năng, mà ở việc làm đúng mức và đúng thời điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:15:00+07:00",
+      "fetched": "2026-04-08T05:29:01.078088+07:00"
+    },
+    {
+      "id": "6faec7361b79027ceb0ab388255d0460",
+      "title": "Thành lập 10 phường mới ở Đồng Nai: Xuân Lộc phát triển lợi thế ra sao?",
+      "link": "https://thanhnien.vn/thanh-lap-10-phuong-moi-o-dong-nai-xuan-loc-phat-trien-loi-the-ra-sao-185260407073326327.htm",
+      "summary": "Sau khi trở thành phường, Xuân Lộc xác định hạ tầng, dịch vụ, du lịch sẽ là những trụ cột chính, tạo động lực phát triển kinh tế và đô thị của địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:14:00+07:00",
+      "fetched": "2026-04-08T05:29:01.078222+07:00"
+    },
+    {
+      "id": "abb2a28e2a0eeace34a3a61eaec72e09",
+      "title": "Cú chinh phục mặt trăng ngoạn mục sau hơn nửa thế kỷ",
+      "link": "https://thanhnien.vn/cu-chinh-phuc-mat-trang-ngoan-muc-sau-hon-nua-the-ky-185260407222904111.htm",
+      "summary": "Tuy chưa đổ bộ trở lại mặt trăng sau hơn nửa thế kỷ, nhưng những gì sứ mệnh Artemis II của người Mỹ đạt được đến lúc này đã lập kỷ lục để mở ra tương lai hứa hẹn về chinh phục vũ trụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:12:00+07:00",
+      "fetched": "2026-04-08T05:29:01.078349+07:00"
+    },
+    {
+      "id": "5709333e528d362ecbff43cbd93ef717",
+      "title": "Lo ngại rủi ro khi mở rộng kênh đầu tư quỹ BHXH",
+      "link": "https://thanhnien.vn/lo-ngai-rui-ro-khi-mo-rong-kenh-dau-tu-quy-bhxh-185260407181007107.htm",
+      "summary": "Nhiều chuyên gia và đại diện tổ chức công đoàn bày tỏ sự lo ngại trước đề xuất mở rộng danh mục đầu tư quỹ bảo hiểm xã hội (BHXH) vào các ngân hàng thương mại cổ phần có vốn doanh nghiệp nhà nước. Các ý kiến cho rằng đây là bước đi mạo hiểm, đầy rủi ro có thể ảnh hưởng đến của hàng triệu người lao đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:00+07:00",
+      "fetched": "2026-04-08T05:29:01.078477+07:00"
+    },
+    {
+      "id": "df17fb85d3f864c4512fe959c3c35ba4",
+      "title": "Bayern hạ Real ở Champions League",
+      "link": "https://vnexpress.net/bayern-ha-real-o-champions-league-5059767.html",
+      "summary": "Các bàn thắng của Luis Diaz và Harry Kane giúp Bayern thắng 2-1 trên sân Real, ở lượt đi tứ kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-07T22:00:23+07:00",
+      "fetched": "2026-04-08T05:29:10.619621+07:00"
+    },
+    {
+      "id": "32cab53d024c698b84aa8a1b116c520e",
+      "title": "Lịch âm hôm nay: Ngày 8.4 là ngày gì mà nhiều người Việt quan tâm?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-84-la-ngay-gi-ma-nhieu-nguoi-viet-quan-tam-185260407202940701.htm",
+      "summary": "Ngày 8.4 theo lịch dương, lịch âm hôm nay là ngày gì ở Việt Nam cũng như trên thế giới mà nhiều người Việt quan tâm, chia sẻ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:00:00+07:00",
+      "fetched": "2026-04-08T05:29:01.078604+07:00"
+    },
+    {
+      "id": "85b4088f7e23d64875229d2974e72a19",
+      "title": "Chọn nguyện vọng vào lớp 10 như 'canh chứng khoán'",
+      "link": "https://thanhnien.vn/chon-nguyen-vong-vao-lop-10-nhu-canh-chung-khoan-185260407192405924.htm",
+      "summary": "Tỷ lệ học sinh tốt nghiệp THCS lớp 9 có cơ hội đỗ lớp 10 THPT công lập năm nay được đánh giá là thấp nhất trong 10 năm gần đây. Điều này khiến phụ huynh, học sinh càng cân não hơn khi chọn nguyện vọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:00:00+07:00",
+      "fetched": "2026-04-08T05:29:01.078730+07:00"
+    },
+    {
+      "id": "619f22e2bc0444ae618295a301c464e5",
+      "title": "Chiến sự Ukraine ngày 1.504: Kyiv dùng tên lửa công nghệ cao tập kích giàn khoan",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1504-kyiv-dung-ten-lua-cong-nghe-cao-tap-kich-gian-khoan-18526040722151578.htm",
+      "summary": "Giao tranh giữa Nga và Ukraine ngày 7.4 vẫn căng thẳng. Trong khi đó, Ukraine vừa hé lộ về loại tên lửa công nghệ cao 'Gungir'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T21:57:00+07:00",
+      "fetched": "2026-04-08T05:29:01.078857+07:00"
+    },
+    {
+      "id": "c421bae0d099a622c02343a18689c662",
+      "title": "Arsenal thắng phút bù ở Champions League",
+      "link": "https://vnexpress.net/arsenal-thang-phut-bu-o-champions-league-5059765.html",
+      "summary": "Kai Havertz ghi bàn ở phút bù giờ, giúp Arsenal thắng chủ nhà Sporting 1-0 ở lượt đi tứ kết Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T21:37:06+07:00",
+      "fetched": "2026-04-08T05:28:57.968449+07:00"
+    },
+    {
+      "id": "c421bae0d099a622c02343a18689c662",
+      "title": "Arsenal thắng phút bù ở Champions League",
+      "link": "https://vnexpress.net/arsenal-thang-phut-bu-o-champions-league-5059765.html",
+      "summary": "Tiền đạo vào thay người Kai Havertz ghi bàn ở phút bù giờ, giúp Arsenal thắng chủ nhà Sporting 1-0 ở lượt đi tứ kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-07T21:37:06+07:00",
+      "fetched": "2026-04-08T05:29:10.619770+07:00"
+    },
+    {
+      "id": "5a30d40c78649c00ad08cc733098a741",
+      "title": "Tình hình Iran, Trung Đông mới nhất sáng 8.4",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-sang-84-185260407222933002.htm",
+      "summary": "Tình hình Iran và cả Trung Đông trở nên khó lường hơn bao giờ hết khi hạn chót Tổng thống Mỹ Donald Trump đưa ra đã đến với những lời đe dọa đáng lo ngại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T21:30:00+07:00",
+      "fetched": "2026-04-08T05:29:01.078993+07:00"
+    },
+    {
+      "id": "b835e7843e5c01ef4e80bd7aee1117f6",
+      "title": "Thế cuộc Trung Đông trước 'tối hậu thư' của ông Trump",
+      "link": "https://thanhnien.vn/the-cuoc-trung-dong-truoc-toi-hau-thu-cua-ong-trump-185260407231151906.htm",
+      "summary": "Chiến sự tại Trung Đông đang đối diện lằn ranh mỏng: hoặc sẽ đạt được thỏa thuận ngoại giao vào phút chót, hoặc là một sự leo thang khó có thể vãn hồi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T21:20:00+07:00",
+      "fetched": "2026-04-08T05:29:01.079132+07:00"
+    },
+    {
+      "id": "07ab5c04aefba94542e8bf21c3468f8e",
+      "title": "Đà Nẵng chờ tháo gỡ cho 3 dự án 'nợ' gần 1.000 sổ đỏ",
+      "link": "https://vnexpress.net/da-nang-cho-thao-go-cho-3-du-an-no-gan-1-000-so-do-5059724.html",
+      "summary": "TP Đà Nẵng đang chờ hướng dẫn để tháo gỡ cho gần 1.000 khách hàng tại 3 dự án của Công ty Bách Đạt An chưa được cấp sổ đỏ do vướng thủ tục giao đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T21:15:00+07:00",
+      "fetched": "2026-04-08T05:28:57.968608+07:00"
+    },
+    {
+      "id": "8bd21ede24bb68f6450dd54cfc1aaf0b",
+      "title": "Bayern Munich hạ đẹp Real Madrid nhờ khoảnh khắc 'thảm họa' của Vinicius, Arsenal thắng phút 90+1",
+      "link": "https://thanhnien.vn/bayern-munich-ha-dep-real-madrid-nho-khoanh-khac-tham-hoa-cua-vinicius-arsenal-thang-phut-901-185260408040103602.htm",
+      "summary": "Rạng sáng 8.4, Bayern Munich đã tận dụng triệt để những sai lầm của hàng thủ Real Madrid, giành thắng lợi 2-1 ở lượt đi vòng tứ kết Champions League 2025 - 2026. Trong khi đó, Arsenal dù gặp nhiều khó khăn nhưng vẫn có thắng lợi 1-0 trước Sporting Lisbon.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T21:02:00+07:00",
+      "fetched": "2026-04-08T05:29:01.079259+07:00"
+    },
+    {
+      "id": "139153b697dc5d66f8560a2c1ccb770d",
+      "title": "Gay cấn Cúp xe đạp truyền hình TP.HCM",
+      "link": "https://thanhnien.vn/gay-can-cup-xe-dap-truyen-hinh-tphcm-185260407211423452.htm",
+      "summary": "Dàn ngoại binh chất lượng cùng sự tiến bộ của các cua rơ trong nước tạo ra cuộc cạnh tranh gay cấn, hấp dẫn ở Cúp xe đạp truyền hình TP.HCM 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T20:59:00+07:00",
+      "fetched": "2026-04-08T05:29:01.079383+07:00"
+    },
+    {
+      "id": "17aa26711e39aaf5c2d33e17611dae93",
+      "title": "Chứng khoán Việt Nam được nâng hạng",
+      "link": "https://vnexpress.net/chung-khoan-viet-nam-duoc-nang-hang-5059738.html",
+      "summary": "FTSE Russell sáng nay xác nhận chứng khoán Việt Nam chính thức được nâng hạng từ thị trường cận biên lên mới nổi thứ cấp từ ngày 21/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T20:32:39+07:00",
+      "fetched": "2026-04-08T05:28:57.968752+07:00"
+    },
+    {
+      "id": "17aa26711e39aaf5c2d33e17611dae93",
+      "title": "Chứng khoán Việt Nam được nâng hạng",
+      "link": "https://vnexpress.net/chung-khoan-viet-nam-duoc-nang-hang-5059738.html",
+      "summary": "FTSE Russell xác nhận chứng khoán Việt Nam chính thức được nâng hạng từ thị trường cận biên lên mới nổi thứ cấp từ ngày 21/9.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-07T20:32:39+07:00",
+      "fetched": "2026-04-08T05:29:05.424885+07:00"
+    },
+    {
       "id": "d0c83616e37317b88a6f3f59b9d6b2e2",
       "title": "Nhiều ngành sản xuất 'vạ lây' vì gián đoạn sản phẩm từ dầu mỏ",
       "link": "https://vnexpress.net/nhieu-nganh-san-xuat-va-lay-vi-gian-doan-san-pham-tu-dau-mo-5059490.html",
@@ -161,6 +371,26 @@ window.newsData_2026_04_08 = {
       "category": "Kinh doanh",
       "published": "2026-04-07T20:00:00+07:00",
       "fetched": "2026-04-08T03:36:29.977700+07:00"
+    },
+    {
+      "id": "e6fb0bf41e1b0e57b75726cb9dc2986e",
+      "title": "Nhiều ngành sản xuất khốn đốn vì thiếu nguyên liệu dầu mỏ",
+      "link": "https://vnexpress.net/nhieu-nganh-san-xuat-khon-don-vi-thieu-nguyen-lieu-dau-mo-5059490.html",
+      "summary": "Xung đột Trung Đông gây tắc nghẽn eo biển Hormuz, khiến nguyên liệu hóa dầu khan hiếm, đẩy nhiều ngành từ bao bì đến y tế vào cuộc khủng hoảng chi phí mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T20:00:00+07:00",
+      "fetched": "2026-04-08T05:28:57.968887+07:00"
+    },
+    {
+      "id": "e6fb0bf41e1b0e57b75726cb9dc2986e",
+      "title": "Nhiều ngành sản xuất khốn đốn vì thiếu nguyên liệu dầu mỏ",
+      "link": "https://vnexpress.net/nhieu-nganh-san-xuat-khon-don-vi-thieu-nguyen-lieu-dau-mo-5059490.html",
+      "summary": "Xung đột Trung Đông gây tắc nghẽn eo biển Hormuz, khiến nguyên liệu hóa dầu khan hiếm, đẩy nhiều ngành từ bao bì đến y tế vào cuộc khủng hoảng chi phí mới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-07T20:00:00+07:00",
+      "fetched": "2026-04-08T05:29:05.425052+07:00"
     },
     {
       "id": "66fac57c4e7955b2c258a0d0b0fe5319",
@@ -441,6 +671,16 @@ window.newsData_2026_04_08 = {
       "category": "Thể thao",
       "published": "2026-04-07T17:00:00+07:00",
       "fetched": "2026-04-08T01:49:35.447191+07:00"
+    },
+    {
+      "id": "ebdfe1e77752fead1f6dce743ec65102",
+      "title": "Nhà ga lớn nhất Mỹ được trưng dụng cho World Cup 2026",
+      "link": "https://vnexpress.net/nha-ga-lon-nhat-my-duoc-trung-dung-cho-world-cup-2026-5059466.html",
+      "summary": "Người dân New York sẽ bị hạn chế tiếp cận Penn Station - nhà ga đông đúc nhất nước Mỹ - trong vài giờ trước mỗi trận đấu tại World Cup 2026 diễn ra ở sân MetLife.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-07T17:00:00+07:00",
+      "fetched": "2026-04-08T05:29:10.619906+07:00"
     },
     {
       "id": "01f4c23317d2e93da3bbd9e5c23b87af",
