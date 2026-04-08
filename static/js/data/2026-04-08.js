@@ -1,7 +1,157 @@
 window.newsData_2026_04_08 = {
   "date": "2026-04-08",
-  "lastUpdated": "2026-04-08T19:58:58.289166+07:00",
+  "lastUpdated": "2026-04-08T22:01:16.482891+07:00",
   "articles": [
+    {
+      "id": "61c2e27ab14861572519c0b10cda2107",
+      "title": "Quy hoạch khu đất vàng hơn 13.000m² ở Vũng Tàu làm công viên công cộng",
+      "link": "https://tuoitre.vn/quy-hoach-khu-dat-vang-hon-13-000m2-o-vung-tau-lam-cong-vien-cong-cong-20260408180349325.htm",
+      "summary": "Khu đất vàng 4 mặt tiền rộng hơn 13.000m² nằm ở trung tâm Vũng Tàu được quy hoạch làm công viên công cộng theo mô hình mở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.733484+07:00",
+      "fetched": "2026-04-08T22:01:07.733598+07:00"
+    },
+    {
+      "id": "62a317c0a41bee35e263938bcdba5b2c",
+      "title": "Thông tin ‘người dân Thanh Hóa bị cướp đất' là sai sự thật",
+      "link": "https://tuoitre.vn/thong-tin-nguoi-dan-thanh-hoa-bi-cuop-dat-la-sai-su-that-20260408193028113.htm",
+      "summary": "Chiều 8-4, Ban Tuyên giáo và Dân vận Tỉnh ủy Thanh Hóa cho biết video lan truyền trên mạng xã hội với tiêu đề 'Người dân Thanh Hóa là nạn nhân của tình trạng cướp đất' có thông tin sai sự thật, không phản ánh đúng bản chất vụ việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.733347+07:00",
+      "fetched": "2026-04-08T22:01:07.733473+07:00"
+    },
+    {
+      "id": "286e366cd403b45ff810dc5191ddb52b",
+      "title": "Nhiều dịch vụ AI chuẩn bị đổ bộ Việt Nam",
+      "link": "https://tuoitre.vn/nhieu-dich-vu-ai-chuan-bi-do-bo-viet-nam-20260408151502287.htm",
+      "summary": "Trong bối cảnh nền kinh tế số Việt Nam đang tăng trưởng mạnh, Grab vừa công bố loạt sản phẩm mới, có thể trở thành chất xúc tác thúc đẩy quá trình chuyển đổi số trong nhiều lĩnh vực, từ giao thông, bán lẻ đến du lịch và tài chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.733217+07:00",
+      "fetched": "2026-04-08T22:01:07.733336+07:00"
+    },
+    {
+      "id": "32c626cebb4998e4fb13770f4b3670a4",
+      "title": "Tình báo Nga cảnh báo: EU tìm cách phát triển vũ khí hạt nhân",
+      "link": "https://tuoitre.vn/tinh-bao-nga-canh-bao-eu-tim-cach-phat-trien-vu-khi-hat-nhan-20260408192859629.htm",
+      "summary": "Cơ quan tình báo Nga cho rằng EU đã bắt đầu nghiên cứu năng lực sản xuất vũ khí hạt nhân, cảnh báo nguy cơ chạy đua vũ trang toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.733069+07:00",
+      "fetched": "2026-04-08T22:01:07.733205+07:00"
+    },
+    {
+      "id": "401d6c658859e9b0ecff45ab823559c7",
+      "title": "Bảo vệ rạn san hô Hòn Yến gắn với du lịch cộng đồng",
+      "link": "https://tuoitre.vn/bao-ve-ran-san-ho-hon-yen-gan-voi-du-lich-cong-dong-20260408181947464.htm",
+      "summary": "Danh thắng quốc gia Hòn Yến, xã Ô Loan, Đắk Lắk (trước là Phú Yên) thu hút đông du khách, nhưng cũng tạo áp lực lên hệ sinh thái rạn san hô khiến việc kết hợp giữa phát triển du lịch và bảo tồn san hô không dễ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.732947+07:00",
+      "fetched": "2026-04-08T22:01:07.733059+07:00"
+    },
+    {
+      "id": "79a70926e41f1430ef883f689263ab0d",
+      "title": "Prudential Việt Nam công bố kết quả kinh doanh vững mạnh năm 2025",
+      "link": "https://tuoitre.vn/prudential-viet-nam-cong-bo-ket-qua-kinh-doanh-vung-manh-nam-2025-20260408185313346.htm",
+      "summary": "Công ty TNHH Bảo hiểm Nhân thọ Prudential Việt Nam vừa công bố kết quả của năm tài chính 2025, đánh dấu một năm hoạt động bền vững với trọng tâm nhất quán vào chất lượng tăng trưởng và kỷ luật thực thi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.732819+07:00",
+      "fetched": "2026-04-08T22:01:07.732935+07:00"
+    },
+    {
+      "id": "0df1c43f46807e7193483ba4095e8ae0",
+      "title": "Nước sâm giúp thanh nhiệt, giải độc ngày nắng oi bức nhưng 'tối kỵ' với ai?",
+      "link": "https://tuoitre.vn/nuoc-sam-giup-thanh-nhiet-giai-doc-ngay-nang-oi-buc-nhung-toi-ky-voi-ai-2026040816590236.htm",
+      "summary": "Nước mát hay nước sâm (hỗn hợp nguyên liệu rễ tranh, mía lau, hạ khô thảo, lá dâu...) được nhiều người ưa chuộng vì giúp thanh nhiệt, giải độc, thích hợp những ngày nắng nóng oi bức. Tuy nhiên có một số nhóm người cần thận trọng khi dùng nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.732688+07:00",
+      "fetched": "2026-04-08T22:01:07.732803+07:00"
+    },
+    {
+      "id": "b59c419d00fd2d0be219fafe45121222",
+      "title": "Viêm não mô cầu: Đã có vắc xin nghiên cứu lâm sàng tại Việt Nam",
+      "link": "https://tuoitre.vn/viem-nao-mo-cau-da-co-vac-xin-nghien-cuu-lam-sang-tai-viet-nam-20260407120340352.htm",
+      "summary": "Sự xuất hiện của vắc xin mang công nghệ đột phá lại càng được trông đợi, giúp phụ huynh hóa giải nỗi lo về căn bệnh gây tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.732561+07:00",
+      "fetched": "2026-04-08T22:01:07.732676+07:00"
+    },
+    {
+      "id": "daf6dea4cae12d926e14965197f785d2",
+      "title": "Không chỉ khuyến mại, Mitsubishi còn có cách 'bán xe' ít ồn ào mà nhiều người thích",
+      "link": "https://tuoitre.vn/khong-chi-khuyen-mai-mitsubishi-con-co-cach-ban-xe-it-on-ao-ma-nhieu-nguoi-thich-20260408114555434.htm",
+      "summary": "Không còn chỉ là phương tiện đi lại, ô tô đang dần trở thành cầu nối cho các hoạt động gia đình. Sự kiện Star Camp của cộng đồng Mitsubishi cho thấy rõ xu hướng này tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.732433+07:00",
+      "fetched": "2026-04-08T22:01:07.732549+07:00"
+    },
+    {
+      "id": "28c4b92ab75a4a9e2954085ac11d79fc",
+      "title": "GELEX Electric và chiến lược sản phẩm ‘Go Global’",
+      "link": "https://tuoitre.vn/gelex-electric-va-chien-luoc-san-pham-go-global-20260408194858866.htm",
+      "summary": "Sáng 8-4, CTCP Điện lực GELEX (HoSE: GEE - GELEX Electric) tổ chức thành công Đại hội đồng cổ đông (ĐHĐCĐ) thường niên 2026, thông qua các nội dung chiến lược quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.732301+07:00",
+      "fetched": "2026-04-08T22:01:07.732420+07:00"
+    },
+    {
+      "id": "147782ba8f383673b25cb9deb8a877c7",
+      "title": "Lãnh đạo Ngân hàng VIB: Lãi suất sẽ giảm dần từ quý 4-2026",
+      "link": "https://tuoitre.vn/lanh-dao-ngan-hang-vib-lai-suat-se-giam-dan-tu-quy-4-2026-20260408195120576.htm",
+      "summary": "Để huy động vốn các ngân hàng buộc phải duy trì mức lãi suất đủ hấp dẫn. Tuy nhiên từ quý 4 dự báo tỉ giá, lãi suất sẽ hạ nhiệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.732136+07:00",
+      "fetched": "2026-04-08T22:01:07.732288+07:00"
+    },
+    {
+      "id": "1e7a7101ccf0aafd2ea65659af9d051a",
+      "title": "Danh mục cổ phiếu của Chứng khoán MB lỗ hơn 22%, lãi quý 1 tăng nhẹ",
+      "link": "https://tuoitre.vn/danh-muc-co-phieu-cua-chung-khoan-mb-lo-hon-22-lai-quy-1-tang-nhe-20260408194158071.htm",
+      "summary": "MBS mở màn mùa báo cáo quý 1-2026 với doanh thu tăng mạnh, nhưng lợi nhuận chỉ nhích nhẹ do chi phí leo thang, trong khi danh mục cổ phiếu ghi nhận mức lỗ hơn 22%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.732005+07:00",
+      "fetched": "2026-04-08T22:01:07.732124+07:00"
+    },
+    {
+      "id": "bd9de1bb91e0b883bf654d008765a003",
+      "title": "Hy Lạp siết mạng xã hội, cấm người dùng dưới 15 tuổi",
+      "link": "https://tuoitre.vn/hy-lap-siet-mang-xa-hoi-cam-nguoi-dung-duoi-15-tuoi-20260408194951391.htm",
+      "summary": "Chính phủ Hy Lạp quyết định cấm trẻ dưới 15 tuổi truy cập mạng xã hội từ năm 2027, đồng thời kêu gọi EU áp dụng biện pháp tương tự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.731869+07:00",
+      "fetched": "2026-04-08T22:01:07.731993+07:00"
+    },
+    {
+      "id": "191f6af8b3b764b578f8f638369ba938",
+      "title": "Nhiều nước chúc mừng Tổng Bí thư, Chủ tịch nước Tô Lâm và Thủ tướng Lê Minh Hưng",
+      "link": "https://tuoitre.vn/nhieu-nuoc-chuc-mung-tong-bi-thu-chu-tich-nuoc-to-lam-va-thu-tuong-le-minh-hung-20260408200848883.htm",
+      "summary": "Lãnh đạo các nước, chính đảng tiếp tục gửi điện, thư và thông điệp chúc mừng Tổng Bí thư, Chủ tịch nước Tô Lâm và Thủ tướng Lê Minh Hưng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.731724+07:00",
+      "fetched": "2026-04-08T22:01:07.731856+07:00"
+    },
+    {
+      "id": "2932e3c1241de5e1738f1637f5f855b9",
+      "title": "Giá khí đốt tự nhiên châu Âu lao dốc, đã có 2 tàu qua eo biển Hormuz",
+      "link": "https://tuoitre.vn/gia-khi-dot-tu-nhien-chau-au-lao-doc-da-co-2-tau-qua-eo-bien-hormuz-20260408201848688.htm",
+      "summary": "Ngày 8-4, giá khí đốt tự nhiên tại châu Âu giảm mạnh trong bối cảnh giới phân tích kỳ vọng tình trạng gián đoạn nguồn cung do chiến sự sẽ sớm kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:01:07.731489+07:00",
+      "fetched": "2026-04-08T22:01:07.731709+07:00"
+    },
     {
       "id": "cd97f1e58a28e0abc7893f0828c10fcf",
       "title": "Phó bí thư Thành ủy TP.HCM Nguyễn Phước Lộc: Việc đi khám sức khỏe miễn phí cần được 'phi địa giới'",
@@ -453,6 +603,106 @@ window.newsData_2026_04_08 = {
       "fetched": "2026-04-08T15:52:01.683377+07:00"
     },
     {
+      "id": "87ef4c000220702ea85768de4306c5d5",
+      "title": "Xu hướng thời trang đường phố năng động với quần denim lửng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/xu-huong-thoi-trang-duong-pho-nang-dong-voi-quan-denim-lung-185260407142639223.htm",
+      "summary": "Nâng cấp phong cách khi xuống phố với những mẫu quần denim lửng sành điệu, mang lại vẻ ngoài năng động cho người mặc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T15:00:00+07:00",
+      "fetched": "2026-04-08T22:01:06.639530+07:00"
+    },
+    {
+      "id": "3fc29322e97e0d634ae6c0b27399e125",
+      "title": "Thua Thái Lan, đội tuyển Việt Nam chạm trán đối thủ mạnh Indonesia ở bán kết: Đấu ngày nào?",
+      "link": "https://thanhnien.vn/thua-thai-lan-doi-tuyen-viet-nam-cham-tran-doi-thu-manh-indonesia-o-ban-ket-dau-ngay-nao-185260408215714818.htm",
+      "summary": "Đội tuyển Việt Nam nhận thất bại trước Thái Lan ở trận đấu tranh ngôi nhất bảng A. Thầy trò HLV Giustozzi sẽ chạm trán với Indonesia ở vòng bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:59:00+07:00",
+      "fetched": "2026-04-08T22:01:06.639699+07:00"
+    },
+    {
+      "id": "1a622676303c9e0e09a0c9ec12658aa6",
+      "title": "Nhà thiết kế Thái Công nói gì trước nghi vấn mua giải?",
+      "link": "https://thanhnien.vn/nha-thiet-ke-thai-cong-noi-gi-truoc-nghi-van-mua-giai-185260408170533686.htm",
+      "summary": "Trước những hoài nghi liên quan đến chuyện mua giải, nhà thiết kế Thái Công có dòng chia sẻ gây chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:57:00+07:00",
+      "fetched": "2026-04-08T22:01:06.639855+07:00"
+    },
+    {
+      "id": "73aeb7f1ab3af8840fd1fc4baddb93c9",
+      "title": "Bắt khẩn cấp nghi phạm hành hung người bán bánh bèo ở Quy Nhơn",
+      "link": "https://thanhnien.vn/bat-khan-cap-nghi-pham-hanh-hung-nguoi-ban-banh-beo-o-quy-nhon-185260408212033085.htm",
+      "summary": "Vụ hành hung người bán bánh bèo ở Quy Nhơn rạng sáng 7.4 khiến dư luận phẫn nộ, tối 8.4 Công an tỉnh Gia Lai bắt khẩn cấp nghi phạm Nguyễn Văn Ý để điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:43:00+07:00",
+      "fetched": "2026-04-08T22:01:06.640010+07:00"
+    },
+    {
+      "id": "2360d7cdf78f4d1dccbeb001299e6336",
+      "title": "Ngọc Sơn - Ngọc Hải tái hợp, khoe giọng hát live nội lực tại biệt thự trăm tỉ",
+      "link": "https://thanhnien.vn/ngoc-son-ngoc-hai-tai-hop-khoe-giong-hat-live-noi-luc-tai-biet-thu-tram-ti-185260408052300399.htm",
+      "summary": "Khán giả yêu nhạc những năm 1990 chắc chắn không thể quên cái tên Ngọc Hải, em trai ruột của danh ca Ngọc Sơn. Từ đỉnh cao nghệ thuật, anh bước sang thương trường, và giờ đây là một đại biểu HĐND TP.HCM nhiệm kỳ 2026-2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:39:00+07:00",
+      "fetched": "2026-04-08T22:01:06.640186+07:00"
+    },
+    {
+      "id": "52ab9d9b083e31569dbbd6f762360047",
+      "title": "Lật tẩy vụ lừa đảo GFDI: Hồ sơ chuyển tòa với số lượng bị hại rất nhiều",
+      "link": "https://thanhnien.vn/lat-tay-vu-lua-dao-gfdi-ho-so-chuyen-toa-voi-so-luong-bi-hai-rat-nhieu-185260408173200864.htm",
+      "summary": "Vụ lừa đảo tại Công ty GFDI được truy tố, với số lượng bị hại rất nhiều khiến cơ quan chức năng phải thông báo rộng rãi, kêu gọi liên hệ trước ngày xét xử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:35:00+07:00",
+      "fetched": "2026-04-08T22:01:06.640348+07:00"
+    },
+    {
+      "id": "558c3decb225dd07f786766866370be3",
+      "title": "Giáo viên mầm non phải làm việc 10 tiếng mỗi ngày",
+      "link": "https://thanhnien.vn/giao-vien-mam-non-phai-lam-viec-10-tieng-moi-ngay-185260408184857676.htm",
+      "summary": "Nhiều giáo viên mầm non làm việc 10 tiếng mỗi ngày, thầy cô phản ánh họ chỉ chăm sóc con người khác, không có thời gian chăm sóc con mình và gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:34:00+07:00",
+      "fetched": "2026-04-08T22:01:06.640501+07:00"
+    },
+    {
+      "id": "fdd84d48962992daabc430ef8edfceb3",
+      "title": "Đường phố Iran đông kín người sau lệnh ngừng bắn",
+      "link": "https://vnexpress.net/duong-pho-iran-dong-kin-nguoi-sau-lenh-ngung-ban-5060144.html",
+      "summary": "Nhiều nơi ở Tehran, người dân đổ xuống đường, hô khẩu hiệu sau lệnh ngừng bắn hai tuần với Mỹ được công bố ngày 8/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:18:53+07:00",
+      "fetched": "2026-04-08T22:01:03.242947+07:00"
+    },
+    {
+      "id": "7e633e6420388d686c72fd6c9c273fc6",
+      "title": "Cuba, Triều Tiên, Mỹ chúc mừng lãnh đạo Việt Nam",
+      "link": "https://thanhnien.vn/cuba-trieu-tien-my-chuc-mung-lanh-dao-viet-nam-185260408205112736.htm",
+      "summary": "Lãnh đạo các nước, chính đảng Cuba, Triều Tiên, Mỹ, Belarus, Kazakhstan, Mông Cổ, Palestine và Nicaragua đã gửi điện, thư và thông điệp chúc mừng tới Tổng Bí thư, Chủ tịch nước Tô Lâm, Thủ tướng Lê Minh Hưng và Chủ tịch Quốc hội Trần Thanh Mẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:11:00+07:00",
+      "fetched": "2026-04-08T22:01:06.640664+07:00"
+    },
+    {
+      "id": "4acedd1fce6baaeaa2e23b0357c026b9",
+      "title": "Ca tay chân miệng TP HCM tăng hơn 60%",
+      "link": "https://vnexpress.net/ca-tay-chan-mieng-tp-hcm-tang-hon-60-5060183.html",
+      "summary": "TP HCM ghi nhận thêm 1.347 ca mắc tay chân miệng trong tuần qua, tăng 64% so với trung bình 4 tuần trước, nâng tổng số bệnh nhân từ đầu năm vượt 10.000.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:10:52+07:00",
+      "fetched": "2026-04-08T22:01:03.243067+07:00"
+    },
+    {
       "id": "cbb5b25f920bb154aa70dc611f6cc7d1",
       "title": "Mũi Né lọt top 10 điểm đến xu hướng toàn cầu năm 2026",
       "link": "https://tuoitre.vn/mui-ne-lot-top-10-diem-den-xu-huong-toan-cau-nam-2026-20260408110901401.htm",
@@ -603,6 +853,216 @@ window.newsData_2026_04_08 = {
       "fetched": "2026-04-08T14:06:48.047367+07:00"
     },
     {
+      "id": "d5b1d7f723986ac7186666266ea91235",
+      "title": "Các tỷ phú Việt có thêm 2 tỷ USD trong phiên chứng khoán tăng kỷ lục",
+      "link": "https://vnexpress.net/cac-ty-phu-viet-co-them-2-ty-usd-trong-phien-chung-khoan-tang-ky-luc-5060164.html",
+      "summary": "Tài sản của 8 tỷ phú Việt Nam đã tăng hơn 2 tỷ USD trong ngày 8/4, trong đó, gia đình ông Phạm Nhật Vượng có thêm hơn 1,6 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:03:50+07:00",
+      "fetched": "2026-04-08T22:01:03.243281+07:00"
+    },
+    {
+      "id": "d5b1d7f723986ac7186666266ea91235",
+      "title": "Các tỷ phú Việt có thêm 2 tỷ USD trong phiên chứng khoán tăng kỷ lục",
+      "link": "https://vnexpress.net/cac-ty-phu-viet-co-them-2-ty-usd-trong-phien-chung-khoan-tang-ky-luc-5060164.html",
+      "summary": "Tài sản của 8 tỷ phú Việt Nam đã tăng hơn 2 tỷ USD trong ngày 8/4, trong đó, gia đình ông Phạm Nhật Vượng có thêm hơn 1,6 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-08T14:03:50+07:00",
+      "fetched": "2026-04-08T22:01:11.343388+07:00"
+    },
+    {
+      "id": "3038252def949495ed4d71558c60b4a3",
+      "title": "Lốc xoáy làm tốc mái nhiều nhà dân ở Lâm Đồng",
+      "link": "https://vnexpress.net/loc-xoay-lam-toc-mai-nhieu-nha-dan-o-lam-dong-5060204.html",
+      "summary": "Mưa lớn kèm lốc xoáy kéo dài gần một giờ tại khu vực TP Bảo Lộc (cũ) làm nhiều nhà dân bị tốc mái, cây xanh gãy đổ, giao thông gián đoạn, chiều 8/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:02:45+07:00",
+      "fetched": "2026-04-08T22:01:03.243456+07:00"
+    },
+    {
+      "id": "be98251e237100a716411daaf78e7edd",
+      "title": "'Xe lao xuống vực núi, va đập như bom nổ, không ai kịp thoát'",
+      "link": "https://vnexpress.net/xe-lao-xuong-vuc-nui-va-dap-nhu-bom-no-khong-ai-kip-thoat-5060161.html",
+      "summary": "Anh Lê Cung Bắc vừa rời thùng xe vài giây, ôtô tải chở 4 người bất ngờ trôi và rơi xuống vực núi phát ra tiếng nổ như bom, không ai kịp thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:00:13+07:00",
+      "fetched": "2026-04-08T22:01:03.243616+07:00"
+    },
+    {
+      "id": "a667f1ab591122693884be99523c1e10",
+      "title": "Trải nghiệm 'thử thách sức khỏe xương khớp' tại Ngày hội sức khỏe 2026",
+      "link": "https://vnexpress.net/trai-nghiem-thu-thach-suc-khoe-xuong-khop-tai-ngay-hoi-suc-khoe-2026-5060142.html",
+      "summary": "Không gian trải nghiệm của nhãn hàng Vương Hoạt và Bách Niên Kiện thu hút người dân đến kiểm tra tình trạng vận động, đánh giá nguy cơ mắc bệnh xương khớp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:00:00+07:00",
+      "fetched": "2026-04-08T22:01:03.243775+07:00"
+    },
+    {
+      "id": "c0e108696494430b16939e2428c55c49",
+      "title": "Giải pháp cá nhân hóa trong điều trị bệnh nha chu",
+      "link": "https://vnexpress.net/giai-phap-ca-nhan-hoa-trong-dieu-tri-benh-nha-chu-5060122.html",
+      "summary": "Hội nghị khoa học kỹ thuật lần thứ 48 của khoa Răng Hàm Mặt, Đại học Y Dược TPHCM với chủ đề \"Nha khoa cá nhân hóa\" đã đưa ra nhiều giải pháp điều trị viêm nha chu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:00:00+07:00",
+      "fetched": "2026-04-08T22:01:03.243947+07:00"
+    },
+    {
+      "id": "c6cd41c5d5075e1587492880c1a03059",
+      "title": "Lợi thế điểm TOEIC với học sinh, sinh viên",
+      "link": "https://vnexpress.net/loi-the-diem-toeic-voi-hoc-sinh-sinh-vien-5060074.html",
+      "summary": "Ngoài miễn thi tốt nghiệp THPT môn tiếng Anh và xét tuyển đại học, điểm TOEIC còn là cơ sở để nhiều công ty lựa chọn tuyển dụng nhân sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:00:00+07:00",
+      "fetched": "2026-04-08T22:01:03.244102+07:00"
+    },
+    {
+      "id": "c5c3dc7b45c18d84aa790e926a76f79e",
+      "title": "Hạ viện Mỹ tiếp nhận kiến nghị luận tội Tổng thống Trump",
+      "link": "https://thanhnien.vn/ha-vien-my-tiep-nhan-kien-nghi-luan-toi-tong-thong-trump-185260408191605063.htm",
+      "summary": "Hôm nay 8.4 (giờ Việt Nam), hạ nghị sĩ John Larson của đảng Dân chủ cho biết đã trình lên Hạ viện Mỹ các điều khoản luận tội Tổng thống Donald Trump liên quan đến cuộc xung đột với Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T13:48:00+07:00",
+      "fetched": "2026-04-08T22:01:06.640821+07:00"
+    },
+    {
+      "id": "09260666700081f4db6d572bc3efbe5c",
+      "title": "Mỗi thửa đất sẽ có mã định danh duy nhất, tích hợp tọa độ quốc tế",
+      "link": "https://vnexpress.net/moi-thua-dat-se-co-ma-dinh-danh-duy-nhat-tich-hop-toa-do-quoc-te-5060176.html",
+      "summary": "Bộ Nông nghiệp và Môi trường vừa ban hành quy định kỹ thuật về mã định danh thửa đất, lần đầu chuẩn hóa việc gán mã duy nhất cho từng thửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T13:45:11+07:00",
+      "fetched": "2026-04-08T22:01:03.244287+07:00"
+    },
+    {
+      "id": "254d1e1261de004f30933e62a170e671",
+      "title": "Bản đặc biệt Honda SH Vetro Blue 2026 'Made in Italy' rục rịch về Việt Nam",
+      "link": "https://thanhnien.vn/ban-dac-biet-honda-sh-vetro-blue-2026-made-in-italy-ruc-rich-ve-viet-nam-185260407155558289.htm",
+      "summary": "Sở hữu kiểu dáng của Honda SH thế hệ mới nhất, phiên bản đặc biệt Honda SH Vetro Blue 2026 sản xuất tại Ý khoác lên mình \"dàn áo\" mới với màu xanh dương trong suốt, tương ứng hai phiên bản động cơ 125cc và 150cc đang rục rịch gia nhập thị trường Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T13:39:00+07:00",
+      "fetched": "2026-04-08T22:01:06.640973+07:00"
+    },
+    {
+      "id": "282a804c224db2471d315774d043ea4d",
+      "title": "Bộ trưởng Ngô Văn Tuấn: Mục tiêu tăng trưởng cao là yêu cầu rất lớn với ngành tài chính",
+      "link": "https://vnexpress.net/bo-truong-ngo-van-tuan-muc-tieu-tang-truong-cao-la-yeu-cau-rat-lon-voi-nganh-tai-chinh-5060197.html",
+      "summary": "Tân Bộ trưởng Tài chính Ngô Văn Tuấn cho rằng giai đoạn tới, công tác thu chi ngân sách và huy động vốn cho đầu tư phát triển phải được nâng tầm, góp phần thực hiện mục tiêu tăng trưởng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T13:38:31+07:00",
+      "fetched": "2026-04-08T22:01:03.244453+07:00"
+    },
+    {
+      "id": "282a804c224db2471d315774d043ea4d",
+      "title": "Bộ trưởng Ngô Văn Tuấn: Mục tiêu tăng trưởng cao là yêu cầu rất lớn với ngành tài chính",
+      "link": "https://vnexpress.net/bo-truong-ngo-van-tuan-muc-tieu-tang-truong-cao-la-yeu-cau-rat-lon-voi-nganh-tai-chinh-5060197.html",
+      "summary": "Tân Bộ trưởng Tài chính Ngô Văn Tuấn cho rằng giai đoạn tới, công tác thu chi ngân sách và huy động vốn cho đầu tư phát triển phải được nâng tầm, góp phần thực hiện mục tiêu tăng trưởng cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-08T13:38:31+07:00",
+      "fetched": "2026-04-08T22:01:11.343562+07:00"
+    },
+    {
+      "id": "95d837198ac390a76203c30bf8f84e88",
+      "title": "Sử dụng ổ cứng HDD như thế nào cho đúng?",
+      "link": "https://thanhnien.vn/su-dung-o-cung-hdd-nhu-the-nao-cho-dung-185260406094713479.htm",
+      "summary": "Những sai lầm tai hại khi sử dụng ổ cứng khiến dữ liệu quý giá bên trong có thể 'bốc hơi' một cách dễ dàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T13:36:00+07:00",
+      "fetched": "2026-04-08T22:01:06.641121+07:00"
+    },
+    {
+      "id": "4091b268c3929659f8b6dfe58988f3a6",
+      "title": "Cuộc sống tuổi 28 của Trúc Anh 'Mắt biếc'",
+      "link": "https://vnexpress.net/cuoc-song-tuoi-28-cua-truc-anh-mat-biec-5059575.html",
+      "summary": "Trúc Anh, 28 tuổi - nàng thơ phim \"Mắt biếc\" một thời - cho biết nỗ lực giảm hàng chục kg để trở lại với công việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T13:30:00+07:00",
+      "fetched": "2026-04-08T22:01:03.244613+07:00"
+    },
+    {
+      "id": "1ceaeebac5ee46a177ebd073801349ac",
+      "title": "Ông Trump: Iran sẽ không còn làm giàu uranium",
+      "link": "https://vnexpress.net/ong-trump-iran-se-khong-con-lam-giau-uranium-5060191.html",
+      "summary": "Tổng thống Trump cho biết Washington và Tehran sẽ hợp tác để loại bỏ \"bụi hạt nhân\" ở Iran, thêm rằng Tehran sẽ không còn làm giàu uranium.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T13:29:21+07:00",
+      "fetched": "2026-04-08T22:01:03.244772+07:00"
+    },
+    {
+      "id": "1ceaeebac5ee46a177ebd073801349ac",
+      "title": "Ông Trump: Iran sẽ không còn làm giàu uranium",
+      "link": "https://vnexpress.net/ong-trump-iran-se-khong-con-lam-giau-uranium-5060191.html",
+      "summary": "Tổng thống Trump cho biết Washington và Tehran sẽ hợp tác để loại bỏ \"bụi hạt nhân\" ở Iran, thêm rằng Tehran sẽ không còn làm giàu uranium.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T13:29:21+07:00",
+      "fetched": "2026-04-08T22:01:09.397875+07:00"
+    },
+    {
+      "id": "5bdafc2f7feddf7761f79704c0ead71d",
+      "title": "TP.HCM rà soát các cơ chế đặc thù, chuẩn bị xây dựng luật Đô thị đặc biệt",
+      "link": "https://thanhnien.vn/tphcm-ra-soat-cac-co-che-dac-thu-chuan-bi-xay-dung-luat-do-thi-dac-biet-185260408192153529.htm",
+      "summary": "TP.HCM đang rà soát toàn diện việc triển khai các cơ chế, chính sách đặc thù theo nghị quyết của Quốc hội, đồng thời chuẩn bị cơ sở pháp lý phục vụ xây dựng luật Đô thị đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T13:29:00+07:00",
+      "fetched": "2026-04-08T22:01:06.641323+07:00"
+    },
+    {
+      "id": "eef4194ada6ed2162d69b1478c605de6",
+      "title": "Tiêu thụ điện lập kỷ lục mới trong ngày nắng nóng như đổ lửa",
+      "link": "https://thanhnien.vn/tieu-thu-dien-lap-ky-luc-moi-trong-ngay-nang-nong-nhu-do-lua-18526040819563536.htm",
+      "summary": "Thời tiết nắng nóng như đổ lửa với nhiệt độ nhiều nơi trên 40 độ C khiến tiêu thụ điện ngày 7.4 lập đỉnh mới, xô đổ kỷ lục vừa thiết lập trong ngày 31.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T13:22:00+07:00",
+      "fetched": "2026-04-08T22:01:06.641486+07:00"
+    },
+    {
+      "id": "c20b8421033221998a501aea943d603c",
+      "title": "Tỉnh nào có mức sống rẻ nhất cả nước?",
+      "link": "https://vnexpress.net/tinh-nao-co-muc-song-re-nhat-ca-nuoc-5060181.html",
+      "summary": "Giá cả hàng hóa ở tỉnh này bằng hơn 91,4% so với Hà Nội, do có lợi thế về nguồn cung lương thực, thực phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T13:17:57+07:00",
+      "fetched": "2026-04-08T22:01:03.244923+07:00"
+    },
+    {
+      "id": "a6e64be93f25cdeb4dc83807327a44bf",
+      "title": "Tài công say rượu tông chết người lái đò trên sông Tiền bị bắt",
+      "link": "https://vnexpress.net/tai-cong-say-ruou-tong-chet-nguoi-lai-do-tren-song-tien-bi-bat-5060199.html",
+      "summary": "Nguyễn Văn Tuấn, 46 tuổi, say rượu lái vỏ lãi trên sông Tiền do thiếu quan sát đã tông vào đò ngang khiến tài công rơi xuống nước tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T13:04:01+07:00",
+      "fetched": "2026-04-08T22:01:03.245077+07:00"
+    },
+    {
+      "id": "ddfcf8da74d8e72881d7f241da1acae5",
+      "title": "Xem nhanh 20h ngày 8.4: Chính phủ nhiệm kỳ 2026-2031 | Thủ tướng nhận thêm nhiệm vụ mới",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-84-chinh-phu-nhiem-ky-2026-2031-thu-tuong-nhan-them-nhiem-vu-moi-185260408192946225.htm",
+      "summary": "'Xem nhanh 20h' ngày 8.4 có nhiều tin tức đáng chú ý về: Chính phủ nhiệm kỳ 2026-2031; Thủ tướng Lê Minh Hưng nhận thêm nhiệm vụ mới;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T13:00:00+07:00",
+      "fetched": "2026-04-08T22:01:06.641640+07:00"
+    },
+    {
       "id": "8e7fb80972c34e039a4d0d680ee09992",
       "title": "Nguyễn Thùy Linh thắng ấn tượng trận mở màn giải cầu lông vô địch châu Á tại Trung Quốc",
       "link": "https://thanhnien.vn/nguyen-thuy-linh-thang-an-tuong-tran-mo-man-giai-cau-long-vo-dich-chau-a-tai-trung-quoc-185260408195404843.htm",
@@ -751,6 +1211,16 @@ window.newsData_2026_04_08 = {
       "category": "Tổng hợp",
       "published": "2026-04-08T12:11:00+07:00",
       "fetched": "2026-04-08T19:58:51.007627+07:00"
+    },
+    {
+      "id": "b26e5f1b2086194ed7038eaf582e5c8c",
+      "title": "Người Việt ngày càng ít uống cà phê, trà sữa",
+      "link": "https://vnexpress.net/nguoi-viet-ngay-cang-it-uong-ca-phe-tra-sua-5060058.html",
+      "summary": "Doanh thu đồ uống tăng chậm lại hai năm liền, trong khi tần suất uống cà phê, trà sữa phổ biến nhất là 1-2 lần mỗi tuần trong năm 2025.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-08T12:03:27+07:00",
+      "fetched": "2026-04-08T22:01:11.344050+07:00"
     },
     {
       "id": "673ecbafd2b145aa6b92b241ae2942ee",
