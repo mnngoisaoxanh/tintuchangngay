@@ -1,7 +1,17 @@
 window.newsData_2026_04_09 = {
   "date": "2026-04-09",
-  "lastUpdated": "2026-04-09T02:02:49.663751+07:00",
+  "lastUpdated": "2026-04-09T03:33:39.187334+07:00",
   "articles": [
+    {
+      "id": "373eb983cfcbce66eefffeae7ecabcb8",
+      "title": "Tin tức sáng 9-4: Quốc hội thảo luận nhiều dự luật; Tài sản 8 tỉ phú Việt tăng mạnh",
+      "link": "https://tuoitre.vn/tin-tuc-sang-9-4-quoc-hoi-thao-luan-nhieu-du-luat-tai-san-8-ti-phu-viet-tang-manh-20260408223846074.htm",
+      "summary": "Tin tức đáng chú ý: Tài sản gia đình tỉ phú Việt vừa tăng hàng tỉ USD; Bệnh tay chân miệng có xu hướng tăng mạnh ở TP.HCM; Hôm nay, Quốc hội thảo luận tổ về nhiều dự luật, nội dung kinh tế - xã hội...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T03:33:31.041181+07:00",
+      "fetched": "2026-04-09T03:33:31.041435+07:00"
+    },
     {
       "id": "aa91ad88daf670cd26508f8ea38c6c39",
       "title": "Đề xuất lùi tiến độ mở rộng quốc lộ 13 vì vướng tái định cư, chồng lấn dự án",
@@ -151,6 +161,26 @@ window.newsData_2026_04_09 = {
       "category": "Tổng hợp",
       "published": "2026-04-09T02:02:40.097972+07:00",
       "fetched": "2026-04-09T02:02:40.098159+07:00"
+    },
+    {
+      "id": "c4545ce3c625c5bc45bfc89ef99c0509",
+      "title": "Quy định ở Mỹ về cắt tỉa cây hàng xóm vươn sang nhà mình",
+      "link": "https://vnexpress.net/quy-dinh-o-my-ve-cat-tia-cay-hang-xom-vuon-sang-nha-minh-5059898.html",
+      "summary": "Cành cây vươn sang là nguồn cơn tranh chấp phổ biến giữa các hàng xóm ở Mỹ, nhưng việc tự ý cắt tỉa tiềm ẩn nhiều rủi ro pháp lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:00:00+07:00",
+      "fetched": "2026-04-09T03:33:26.680680+07:00"
+    },
+    {
+      "id": "c4545ce3c625c5bc45bfc89ef99c0509",
+      "title": "Quy định ở Mỹ về cắt tỉa cây hàng xóm vươn sang nhà mình",
+      "link": "https://vnexpress.net/quy-dinh-o-my-ve-cat-tia-cay-hang-xom-vuon-sang-nha-minh-5059898.html",
+      "summary": "Cành cây vươn sang là nguồn cơn tranh chấp phổ biến giữa các hàng xóm ở Mỹ, nhưng việc tự ý cắt tỉa tiềm ẩn nhiều rủi ro pháp lý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T19:00:00+07:00",
+      "fetched": "2026-04-09T03:33:32.938031+07:00"
     },
     {
       "id": "6e04e7b667f0de4c38b513055d00eb9f",
