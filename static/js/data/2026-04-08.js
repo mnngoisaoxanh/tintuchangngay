@@ -1,7 +1,87 @@
 window.newsData_2026_04_08 = {
   "date": "2026-04-08",
-  "lastUpdated": "2026-04-08T22:01:16.482891+07:00",
+  "lastUpdated": "2026-04-08T23:51:20.392243+07:00",
   "articles": [
+    {
+      "id": "250e59bb1126ff8182da452bba478ca9",
+      "title": "Triển lãm quốc phòng quốc tế 2026: Diện tích trưng bày khoảng 24.000m2",
+      "link": "https://tuoitre.vn/trien-lam-quoc-phong-quoc-te-2026-dien-tich-trung-bay-khoang-24-000m2-20260408201149094.htm",
+      "summary": "Ngày 8-4, Thượng tướng Nguyễn Trường Thắng, Thứ trưởng Bộ Quốc phòng, chủ trì hội nghị Ban chỉ đạo Triển lãm quốc phòng quốc tế Việt Nam 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:51:14.316378+07:00",
+      "fetched": "2026-04-08T23:51:14.316491+07:00"
+    },
+    {
+      "id": "3145744a666bba0fdd5b50a1f0ff1467",
+      "title": "Xử lý nam thanh niên dùng AI chế ảnh người ngất xỉu tại cây xăng",
+      "link": "https://tuoitre.vn/xu-ly-nam-thanh-nien-dung-ai-che-anh-nguoi-ngat-xiu-tai-cay-xang-2026040820240813.htm",
+      "summary": "Nam thanh niên 21 tuổi ở Hà Nội bị công an xử lý vì đăng tải bài viết sử dụng AI chế ảnh người ngất xỉu tại cây xăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:51:14.316250+07:00",
+      "fetched": "2026-04-08T23:51:14.316367+07:00"
+    },
+    {
+      "id": "aa91ad88daf670cd26508f8ea38c6c39",
+      "title": "Đề xuất lùi tiến độ mở rộng quốc lộ 13 vì vướng tái định cư, chồng lấn dự án",
+      "link": "https://tuoitre.vn/de-xuat-lui-tien-do-mo-rong-quoc-lo-13-vi-vuong-tai-dinh-cu-chong-lan-du-an-20260408203354067.htm",
+      "summary": "Dự án mở rộng quốc lộ 13 tại TP.HCM được đề xuất điều chỉnh tiến độ, do phát sinh tái định cư và cùng hướng tuyến với các dự án đường sắt, hạ tầng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:51:14.316117+07:00",
+      "fetched": "2026-04-08T23:51:14.316238+07:00"
+    },
+    {
+      "id": "9362681dedab622b04407229caf19a85",
+      "title": "K-pop Demon Hunters bắt tay hợp tác với McDonald's",
+      "link": "https://tuoitre.vn/k-pop-demon-hunters-bat-tay-hop-tac-voi-mcdonald-s-20260408203922759.htm",
+      "summary": "Sau chiến thắng Oscar lịch sử, K-pop Demon Hunters tiếp tục tạo hiệu ứng khi hợp tác cùng McDonald's, mang hương vị Hàn Quốc vào thực đơn toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:51:14.315954+07:00",
+      "fetched": "2026-04-08T23:51:14.316103+07:00"
+    },
+    {
+      "id": "5a80a84aeff7bac424c39aeddd80fe71",
+      "title": "Cha Eun Woo xác nhận nộp đủ thuế, gửi lời xin lỗi đến khán giả",
+      "link": "https://tuoitre.vn/cha-eun-woo-xac-nhan-nop-du-thue-gui-loi-xin-loi-den-khan-gia-20260408202509017.htm",
+      "summary": "Cha Eun Woo tiếp tục đăng thư xin lỗi liên quan đến tranh cãi thuế, khẳng định đã nộp toàn bộ khoản thuế theo yêu cầu và sẽ không né tránh trách nhiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:51:14.315822+07:00",
+      "fetched": "2026-04-08T23:51:14.315943+07:00"
+    },
+    {
+      "id": "fc9d2409d2efa6e70c92a75eba7e0a64",
+      "title": "Thùy Linh chạm trán tay vợt số 1 thế giới ở giải châu Á",
+      "link": "https://tuoitre.vn/thuy-linh-cham-tran-tay-vot-so-1-the-gioi-o-giai-chau-a-20260408205648679.htm",
+      "summary": "Tay vợt Nguyễn Thùy Linh sẽ gặp nữ tay vợt số 1 thế giới An Se-young (Hàn Quốc) ở vòng 2 Giải cầu lông vô địch châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:51:14.315690+07:00",
+      "fetched": "2026-04-08T23:51:14.315810+07:00"
+    },
+    {
+      "id": "3b85b4c5dd23c779757c45af5f721d40",
+      "title": "Bộ trưởng Hegseth: Mỹ đã thắng lớn và đạt được mọi mục tiêu đề ra tại Iran",
+      "link": "https://tuoitre.vn/bo-truong-hegseth-my-da-thang-lon-va-dat-duoc-moi-muc-tieu-de-ra-tai-iran-20260408210033725.htm",
+      "summary": "Bộ trưởng Chiến tranh Mỹ Pete Hegseth khẳng định Washington đã giành được một chiến thắng quân sự mang tính quyết định trước Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:51:14.315549+07:00",
+      "fetched": "2026-04-08T23:51:14.315678+07:00"
+    },
+    {
+      "id": "f1112083f5d68d8366d79dbd76e7d78e",
+      "title": "Dân kêu giá bồi thường thu hồi đất tại Tu Bông ‘quá rẻ mạt’, xã giải thích sao?",
+      "link": "https://tuoitre.vn/dan-keu-gia-boi-thuong-thu-hoi-dat-tai-tu-bong-qua-re-mat-xa-giai-thich-sao-20260408201855942.htm",
+      "summary": "Ngoài bị thu hồi đất nông nghiệp để làm khu tái định cư nhưng không được bồi thường đất ở theo nhu cầu, các hộ dân ở xã Tu Bông (tỉnh Khánh Hòa) còn bức xúc vì giá bồi thường đất mà họ cho là 'quá rẻ mạt'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:51:14.315322+07:00",
+      "fetched": "2026-04-08T23:51:14.315534+07:00"
+    },
     {
       "id": "61c2e27ab14861572519c0b10cda2107",
       "title": "Quy hoạch khu đất vàng hơn 13.000m² ở Vũng Tàu làm công viên công cộng",
@@ -453,6 +533,16 @@ window.newsData_2026_04_08 = {
       "fetched": "2026-04-08T17:49:26.998181+07:00"
     },
     {
+      "id": "a21e78811398f1384bd85d8ec813d712",
+      "title": "Thể Công Viettel muốn trợ lý thay HLV Popov dự họp báo, điều lệ V-League nói gì?",
+      "link": "https://thanhnien.vn/the-cong-viettel-muon-tro-ly-thay-hlv-popov-du-hop-bao-dieu-le-v-league-noi-gi-185260408230515821.htm",
+      "summary": "Thể Công Viettel đề xuất thay HLV Velizar Popov tham dự họp báo sau trận, nhưng quy định V-League không cho phép thay thế người đứng đầu ban huấn luyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T16:09:00+07:00",
+      "fetched": "2026-04-08T23:51:12.998334+07:00"
+    },
+    {
       "id": "4f92b7f1823bc6094a46b6d9d095884a",
       "title": "Liên danh Đèo Cả - Trí Tín đề xuất TP.HCM làm đường trên cao 6 làn dọc tuyến Nguyễn Văn Linh",
       "link": "https://tuoitre.vn/lien-danh-deo-ca-tri-tin-de-xuat-tp-hcm-lam-duong-tren-cao-6-lan-doc-duong-nguyen-van-linh-20260408112934255.htm",
@@ -603,6 +693,106 @@ window.newsData_2026_04_08 = {
       "fetched": "2026-04-08T15:52:01.683377+07:00"
     },
     {
+      "id": "6c9a4e6227cddeb7a9439233459f10b5",
+      "title": "Người đánh, nhổ nước bọt vào phụ nữ bị tạm giữ",
+      "link": "https://vnexpress.net/nguoi-danh-nho-nuoc-bot-vao-phu-nu-bi-tam-giu-5060218.html",
+      "summary": "Nguyễn Văn Ý, 35 tuổi, tấn công, nhổ nước bọt vào người phụ nữ phục vụ ở quán bánh bèo trên đường Hoàng Văn Thụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T15:43:06+07:00",
+      "fetched": "2026-04-08T23:51:09.872758+07:00"
+    },
+    {
+      "id": "26e1911c9e5558fb236287f4985430ba",
+      "title": "Lốc xoáy tại Bảo Lộc gây tốc mái nhà nhiều nhà dân",
+      "link": "https://thanhnien.vn/loc-xoay-tai-bao-loc-gay-toc-mai-nha-nhieu-nha-dan-185260408203434254.htm",
+      "summary": "Trận lốc xoáy tại Bảo Lộc, tỉnh Lâm Đồng, chiều 8.4 làm nhiều nhà tốc mái, cây đổ, giao thông ách tắc; chính quyền khẩn trương khắc phục hậu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T15:39:00+07:00",
+      "fetched": "2026-04-08T23:51:12.998500+07:00"
+    },
+    {
+      "id": "994e5c52043490fd5dcae2c3893f8d5d",
+      "title": "Đội tuyển Việt Nam thua Thái Lan, gặp Indonesia ở bán kết futsal Đông Nam Á 2026",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-thua-thai-lan-gap-indonesia-o-ban-ket-futsal-dong-nam-a-2026-185260408223543739.htm",
+      "summary": "Đội tuyển Việt Nam để thua Thái Lan ở lượt cuối vòng bảng và sẽ chạm trán Indonesia tại bán kết giải futsal Đông Nam Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T15:38:00+07:00",
+      "fetched": "2026-04-08T23:51:12.998654+07:00"
+    },
+    {
+      "id": "4e360a272280720b868d72c9da51a519",
+      "title": "Highlight đội tuyển futsal Myanmar 1-3 Timor Leste: Lời chia tay đẹp",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-futsal-myanmar-1-3-timor-leste-loi-chia-tay-dep-185260408223330983.htm",
+      "summary": "Đội tuyển futsal Timor Leste giành chiến thắng thuyết phục trước Myanmar, khép lại giải đấu với màn trình diễn ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T15:33:00+07:00",
+      "fetched": "2026-04-08T23:51:12.998804+07:00"
+    },
+    {
+      "id": "bd0de8f1ab2597ca88d3b3ea9d81559f",
+      "title": "Highlight đội tuyển futsal Malaysia 8-4 Brunei: Mưa bàn thắng chia tay giải",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-futsal-malaysia-8-4-brunei-mua-ban-thang-chia-tay-giai-185260408223201923.htm",
+      "summary": "Đội tuyển futsal Malaysia tạo nên cơn mưa bàn thắng trước Brunei trong trận đấu khép lại hành trình tại giải futsal Đông Nam Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T15:32:00+07:00",
+      "fetched": "2026-04-08T23:51:12.998951+07:00"
+    },
+    {
+      "id": "a118dbc461b6670bdc404da78812568a",
+      "title": "Highlight đội tuyển futsal Indonesia 3-2 Úc: Vào bán kết với ngôi nhất bảng",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-futsal-indonesia-3-2-uc-vao-ban-ket-voi-ngoi-nhat-bang-185260408222955734.htm",
+      "summary": "Đội tuyển futsal Indonesia giành chiến thắng kịch tính trước Úc, qua đó khép lại vòng bảng với ngôi đầu và tấm vé vào bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T15:29:00+07:00",
+      "fetched": "2026-04-08T23:51:12.999128+07:00"
+    },
+    {
+      "id": "0939a5d2151c47d512b15409a8c3d999",
+      "title": "Sân bay Đà Nẵng thí điểm lối đi riêng cho khách dùng VNeID",
+      "link": "https://vnexpress.net/san-bay-da-nang-thi-diem-loi-di-rieng-cho-khach-dung-vneid-5060213.html",
+      "summary": "Từ ngày 10/4, hành khách có tài khoản định danh điện tử mức 2 được sử dụng lối đi riêng khi làm thủ tục bay tại cảng hàng không quốc tế Đà Nẵng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T15:22:19+07:00",
+      "fetched": "2026-04-08T23:51:09.872934+07:00"
+    },
+    {
+      "id": "25ba50afb77b43c70b7f7297afd516e9",
+      "title": "Highlight đội tuyển futsal Việt Nam 2-4 Thái Lan: Thua đáng tiếc",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-futsal-viet-nam-2-4-thai-lan-thua-dang-tiec-18526040822175924.htm",
+      "summary": "Với kết quả này, đội tuyển Việt Nam kết thúc vòng bảng ở vị trí nhì bảng A và sẽ chạm trán Indonesia tại bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T15:18:00+07:00",
+      "fetched": "2026-04-08T23:51:12.999277+07:00"
+    },
+    {
+      "id": "affe314a1fe7597b5f8cd3fc9c9bfd6b",
+      "title": "Có nên ở qua đêm khi lần đầu về chơi nhà bạn trai cách 300 km?",
+      "link": "https://vnexpress.net/co-nen-o-qua-dem-khi-lan-dau-ve-choi-nha-ban-trai-cach-300-km-5060216.html",
+      "summary": "Tôi là con gái, ngủ lại nhà người yêu khi chưa cưới khiến tôi thấy không thoải mái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T15:07:31+07:00",
+      "fetched": "2026-04-08T23:51:09.873124+07:00"
+    },
+    {
+      "id": "b47b9c2dec4c5e7a22f2dda67d80ebbc",
+      "title": "Rosé bị 'ném đá' khi tuyên bố BlackPink chăm chỉ hơn các nhóm khác",
+      "link": "https://thanhnien.vn/rose-bi-nem-da-khi-tuyen-bo-blackpink-cham-chi-hon-cac-nhom-khac-185260408183920896.htm",
+      "summary": "Một đoạn phỏng vấn cũ của Rosé (BlackPink) bất ngờ bị 'đào lại', làm dấy lên làn sóng tranh luận mạnh mẽ trong cộng đồng Kpop, khiến nữ thần tượng rơi vào tâm điểm chỉ trích, theo Kbizoom đưa tin ngày 7.4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T15:01:00+07:00",
+      "fetched": "2026-04-08T23:51:12.999425+07:00"
+    },
+    {
       "id": "87ef4c000220702ea85768de4306c5d5",
       "title": "Xu hướng thời trang đường phố năng động với quần denim lửng",
       "link": "https://thanhnien.vn/thoi-trang-tre/xu-huong-thoi-trang-duong-pho-nang-dong-voi-quan-denim-lung-185260407142639223.htm",
@@ -631,6 +821,26 @@ window.newsData_2026_04_08 = {
       "category": "Tổng hợp",
       "published": "2026-04-08T14:57:00+07:00",
       "fetched": "2026-04-08T22:01:06.639855+07:00"
+    },
+    {
+      "id": "762ce93fd93b9b91c4263ef25d115905",
+      "title": "Việt Nam hoan nghênh lệnh ngừng bắn giữa Mỹ và Iran",
+      "link": "https://vnexpress.net/viet-nam-hoan-nghenh-lenh-ngung-ban-giua-my-va-iran-5060211.html",
+      "summary": "Bộ Ngoại giao Việt Nam hoan nghênh thỏa thuận ngừng bắn tạm thời mà Mỹ và Iran vừa đạt được, cho rằng đây là bước tiến quan trọng để giảm căng thẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T14:48:12+07:00",
+      "fetched": "2026-04-08T23:51:09.873289+07:00"
+    },
+    {
+      "id": "762ce93fd93b9b91c4263ef25d115905",
+      "title": "Việt Nam hoan nghênh lệnh ngừng bắn giữa Mỹ và Iran",
+      "link": "https://vnexpress.net/viet-nam-hoan-nghenh-lenh-ngung-ban-giua-my-va-iran-5060211.html",
+      "summary": "Bộ Ngoại giao Việt Nam hoan nghênh thỏa thuận ngừng bắn tạm thời mà Mỹ và Iran vừa đạt được, cho rằng đây là bước tiến quan trọng để giảm căng thẳng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T14:48:12+07:00",
+      "fetched": "2026-04-08T23:51:15.690300+07:00"
     },
     {
       "id": "73aeb7f1ab3af8840fd1fc4baddb93c9",
