@@ -1,7 +1,157 @@
 window.newsData_2026_04_08 = {
   "date": "2026-04-08",
-  "lastUpdated": "2026-04-08T17:49:35.668550+07:00",
+  "lastUpdated": "2026-04-08T19:58:58.289166+07:00",
   "articles": [
+    {
+      "id": "cd97f1e58a28e0abc7893f0828c10fcf",
+      "title": "Phó bí thư Thành ủy TP.HCM Nguyễn Phước Lộc: Việc đi khám sức khỏe miễn phí cần được 'phi địa giới'",
+      "link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-tp-hcm-nguyen-phuoc-loc-viec-di-kham-suc-khoe-mien-phi-can-duoc-phi-dia-gioi-20260408160937965.htm",
+      "summary": "Theo đó, người dân có thể lựa chọn cơ sở y tế thuận tiện nhất để được khám sức khỏe, không phụ thuộc nơi cư trú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.500819+07:00",
+      "fetched": "2026-04-08T19:58:52.500931+07:00"
+    },
+    {
+      "id": "3bc311a769f7360afc524330f241ea4f",
+      "title": "Tây Ninh lập 3 cụm công nghiệp, chấp thuận đầu tư thêm 3 khu công nghiệp",
+      "link": "https://tuoitre.vn/tay-ninh-lap-3-cum-cong-nghiep-chap-thuan-dau-tu-them-3-khu-cong-nghiep-20260408165611961.htm",
+      "summary": "Tại diễn đàn kết nối doanh nghiệp, Tây Ninh chấp thuận 3 khu công nghiệp, lập thêm 3 cụm, thúc đẩy thu hút đầu tư và mở rộng sản xuất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.500691+07:00",
+      "fetched": "2026-04-08T19:58:52.500807+07:00"
+    },
+    {
+      "id": "3da13e02a279e05236e6c46a105096db",
+      "title": "Dù Hormuz mở lại, nhiên liệu máy bay vẫn có thể bất ổn trong nhiều tháng",
+      "link": "https://tuoitre.vn/du-hormuz-mo-lai-nhien-lieu-may-bay-van-co-the-bat-on-trong-nhieu-thang-20260408165159506.htm",
+      "summary": "Những gián đoạn đối với năng lực lọc dầu tại Trung Đông có thể khiến nguồn cung nhiên liệu máy bay mất nhiều tháng để phục hồi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.500570+07:00",
+      "fetched": "2026-04-08T19:58:52.500680+07:00"
+    },
+    {
+      "id": "e3b77e4a8d0c148454310246fe7aa9de",
+      "title": "Ông Nguyễn Duy Ngọc và Trần Đức Thắng chuyển sinh hoạt Đoàn đại biểu Quốc hội",
+      "link": "https://tuoitre.vn/ong-nguyen-duy-ngoc-va-tran-duc-thang-chuyen-sinh-hoat-doan-dai-bieu-quoc-hoi-2026040817221173.htm",
+      "summary": "Trưởng Ban Tổ chức Trung ương Nguyễn Duy Ngọc chuyển sinh hoạt từ Đoàn đại biểu Quốc hội TP Hà Nội đến Đoàn TP Cần Thơ, còn ông Trần Đức Thắng chuyển từ TP Cần Thơ về Hà Nội và giữ chức Trưởng đoàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.500445+07:00",
+      "fetched": "2026-04-08T19:58:52.500559+07:00"
+    },
+    {
+      "id": "a76e4f80ebab04dc1b52220b8e9b8f02",
+      "title": "Giá thuê nhà tại các đô thị Đức tăng mạnh",
+      "link": "https://tuoitre.vn/gia-thue-nha-tai-cac-do-thi-duc-tang-manh-20260408145423192.htm",
+      "summary": "Giá thuê nhà tại các thành phố lớn của Đức đang tăng mạnh trong suốt thập kỷ qua, bất chấp việc chính phủ triển khai các biện pháp kiểm soát giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.500306+07:00",
+      "fetched": "2026-04-08T19:58:52.500421+07:00"
+    },
+    {
+      "id": "5527e3fa5c18865bea4f526b9b7dc494",
+      "title": "Vượt nắng gắt, hàng chục người trẻ mang ánh sáng lên Sông Y",
+      "link": "https://tuoitre.vn/vuot-nang-gat-hang-chuc-nguoi-tre-mang-anh-sang-len-song-y-20260408162816035.htm",
+      "summary": "Giữa đợt nắng gay gắt kéo dài ở miền Trung, hàng chục sinh viên vẫn lặng lẽ băng dốc, vượt núi đến thôn Sông Y (xã Trà Tân, Đà Nẵng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.500158+07:00",
+      "fetched": "2026-04-08T19:58:52.500293+07:00"
+    },
+    {
+      "id": "49cd9de2798412899a80cad116506880",
+      "title": "Công an xác minh vụ căng cáp kéo xe tải khiến chú rể bị thương",
+      "link": "https://tuoitre.vn/cong-an-xac-minh-vu-cang-cap-keo-xe-tai-khien-chu-re-bi-thuong-20260408170441442.htm",
+      "summary": "Lực lượng cảnh sát giao thông, Công an tỉnh Đắk Lắk xác minh để xử lý vụ các tài xế dùng dây cáp kéo xe tải mắc lầy, để sợi dây căng ngang đường không có cảnh báo khiến chú rể đi xe máy vướng phải, ngã nhào xuống đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.500031+07:00",
+      "fetched": "2026-04-08T19:58:52.500146+07:00"
+    },
+    {
+      "id": "28a151b60d34ed5a8da8db87ea75b7e0",
+      "title": "Tổng rà soát xe tải, xe sơ mi rơ moóc tải trọng 15 tấn trở lên ở Quảng Ngãi",
+      "link": "https://tuoitre.vn/tong-ra-soat-xe-tai-xe-so-mi-ro-mooc-tai-trong-15-tan-tro-len-o-quang-ngai-20260408173029932.htm",
+      "summary": "Công an tỉnh Quảng Ngãi đang triển khai đợt tổng rà soát đối với xe tải tự đổ và sơ mi rơ moóc tự đổ có tải trọng từ 15 tấn trở lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.499907+07:00",
+      "fetched": "2026-04-08T19:58:52.500020+07:00"
+    },
+    {
+      "id": "9c7afaafb77f38c2c21aa1b31f585730",
+      "title": "TP.HCM rà soát cơ chế đặc thù, chuẩn bị xây dựng Luật Đô thị đặc biệt",
+      "link": "https://tuoitre.vn/tp-hcm-ra-soat-co-che-dac-thu-chuan-bi-xay-dung-luat-do-thi-dac-biet-20260408173238227.htm",
+      "summary": "Hội đồng nhân dân TP.HCM rà soát việc triển khai các nghị quyết cơ chế đặc thù, đồng thời chuẩn bị luận cứ pháp lý cho dự thảo Luật Đô thị đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.499782+07:00",
+      "fetched": "2026-04-08T19:58:52.499895+07:00"
+    },
+    {
+      "id": "b50b6c9bfa0a66170ebb2d491ef7bc70",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm ký quyết định phê chuẩn Công ước Hà Nội",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-ky-quyet-dinh-phe-chuan-cong-uoc-ha-noi-20260408175017219.htm",
+      "summary": "Việt Nam trở thành quốc gia đầu tiên ở Đông Nam Á và thứ hai trên thế giới phê chuẩn Công ước Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.499656+07:00",
+      "fetched": "2026-04-08T19:58:52.499770+07:00"
+    },
+    {
+      "id": "2918a796b6f94c9e010789b8b2bf8c7c",
+      "title": "\"Nghi phạm' đào thoát khiến hơn 150 cảnh sát và lính cứu hỏa Hàn Quốc vất vả",
+      "link": "https://tuoitre.vn/nghi-pham-dao-thoat-khien-hon-150-canh-sat-va-linh-cuu-hoa-han-quoc-vat-va-20260408171330283.htm",
+      "summary": "Một con sói bất ngờ đào đất trốn khỏi khu nuôi nhốt, khiến lực lượng chức năng phải triển khai tìm kiếm và tạm dừng đón khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.499526+07:00",
+      "fetched": "2026-04-08T19:58:52.499644+07:00"
+    },
+    {
+      "id": "b3f91f87e85fe9e475100255ad078d2f",
+      "title": "Phối hợp liên ngành xử lý in lậu",
+      "link": "https://tuoitre.vn/phoi-hop-lien-nganh-xu-ly-in-lau-20260407233945322.htm",
+      "summary": "Trong những năm gần đây, tình trạng in lậu, in giả và việc lợi dụng hoạt động in để phục vụ các hành vi vi phạm pháp luật ngày càng diễn biến phức tạp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.499391+07:00",
+      "fetched": "2026-04-08T19:58:52.499513+07:00"
+    },
+    {
+      "id": "d2889f1d20b87e821311de2c630d3b60",
+      "title": "Chủ tịch Quốc hội: Việc sửa Luật Thủ đô là tiền đề để TP.HCM xây dựng Luật Đô thị đặc biệt",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-viec-sua-luat-thu-do-la-tien-de-de-tp-hcm-xay-dung-luat-do-thi-dac-biet-20260408175346806.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn cho hay việc sửa đổi Luật Thủ đô cũng là tiền đề để xây dựng Luật Đô thị đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.499206+07:00",
+      "fetched": "2026-04-08T19:58:52.499376+07:00"
+    },
+    {
+      "id": "767c7165c5ea267bcba9beb3348d8602",
+      "title": "Ủy ban Kiểm tra Trung ương khai trừ Đảng, đề nghị kỷ luật nhiều cựu lãnh đạo ACV",
+      "link": "https://tuoitre.vn/uy-ban-kiem-tra-trung-uong-khai-tru-dang-de-nghi-ky-luat-nhieu-cuu-lanh-dao-acv-20260408180149424.htm",
+      "summary": "UBKTTƯ quyết định khai trừ Đảng ông Lại Xuân Thanh, ông Nguyễn Tiến Việt, đề nghị kỷ luật ông Vũ Thế Phiệt đều là cựu lãnh đạo ACV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.499061+07:00",
+      "fetched": "2026-04-08T19:58:52.499193+07:00"
+    },
+    {
+      "id": "96e2f7134ab2fee8b05254eab53ae727",
+      "title": "Nhiều hành khách xe limousine bị phạt vì không thắt dây an toàn",
+      "link": "https://tuoitre.vn/nhieu-hanh-khach-xe-limousine-bi-phat-vi-khong-that-day-an-toan-20260408170158984.htm",
+      "summary": "Nhiều hành khách trên các xe limousine đã bị cảnh sát giao thông xử phạt vì không thắt dây an toàn khi xe đi trên cao tốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T19:58:52.498821+07:00",
+      "fetched": "2026-04-08T19:58:52.499045+07:00"
+    },
     {
       "id": "dbcbb01307500024e04728d95afac16b",
       "title": "Phụ huynh Mỹ quay lại dùng điện thoại bàn để bảo vệ trẻ em",
@@ -453,6 +603,226 @@ window.newsData_2026_04_08 = {
       "fetched": "2026-04-08T14:06:48.047367+07:00"
     },
     {
+      "id": "8e7fb80972c34e039a4d0d680ee09992",
+      "title": "Nguyễn Thùy Linh thắng ấn tượng trận mở màn giải cầu lông vô địch châu Á tại Trung Quốc",
+      "link": "https://thanhnien.vn/nguyen-thuy-linh-thang-an-tuong-tran-mo-man-giai-cau-long-vo-dich-chau-a-tai-trung-quoc-185260408195404843.htm",
+      "summary": "Tay vợt cầu lông số 1 Việt Nam Nguyễn Thùy Linh khởi đầu ấn tượng ở giải cầu lông vô địch châu Á diễn ra ở Ninh Ba (Trung Quốc).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:55:00+07:00",
+      "fetched": "2026-04-08T19:58:51.005859+07:00"
+    },
+    {
+      "id": "da3d9a902b7b16675ad178babb4b307a",
+      "title": "Trường ĐH Ngoại thương mở nhóm ngành về công nghệ",
+      "link": "https://thanhnien.vn/truong-dh-ngoai-thuong-mo-nhom-nganh-ve-cong-nghe-185260408192602568.htm",
+      "summary": "Từ năm 2026, Trường ĐH Ngoại thương sẽ tuyển sinh thêm nhóm ngành về công nghệ; lần đầu dùng kết quả thi TSA để xét tuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:54:00+07:00",
+      "fetched": "2026-04-08T19:58:51.006031+07:00"
+    },
+    {
+      "id": "45fc282cfcdd646a6ad7d164bba1081d",
+      "title": "Ban Chính sách, chiến lược Trung ương có thêm 3 phó ban",
+      "link": "https://thanhnien.vn/ban-chinh-sach-chien-luoc-trung-uong-co-them-3-pho-ban-185260408184259832.htm",
+      "summary": "Chiều 8.4, tại trụ sở Ban Chính sách, chiến lược Trung ương đã diễn ra Hội nghị triển khai các quyết định của Bộ Chính trị, Ban Bí thư về công tác cán bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:51:00+07:00",
+      "fetched": "2026-04-08T19:58:51.006187+07:00"
+    },
+    {
+      "id": "811ca3ff15bdd6d635455a58ffed9688",
+      "title": "Hoãn thực hiện Nghị định 46 về an toàn thực phẩm",
+      "link": "https://vnexpress.net/hoan-thuc-hien-nghi-dinh-46-ve-an-toan-thuc-pham-5060185.html",
+      "summary": "Nghị định 46, Nghị quyết 66 về công bố, đăng ký thực phẩm chính thức được hoãn thực hiện, theo Nghị quyết mới ban hành của Chính phủ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-08T12:50:24+07:00",
+      "fetched": "2026-04-08T19:58:55.025331+07:00"
+    },
+    {
+      "id": "7933bc9b1b74b4aa025e6f318fd94cec",
+      "title": "'Ngăn sông, cấm chợ' phiên bản cảng Ao Tiên",
+      "link": "https://thanhnien.vn/ngan-song-cam-cho-phien-ban-cang-ao-tien-185260408160836391.htm",
+      "summary": "Quy định điều tiết hành khách tại Vân Đồn khiến nhiều du khách buộc phải đi qua cảng Ao Tiên tại đặc khu Vân Đồn, kéo theo chi phí tăng, gây bức xúc và đặt ra dấu hỏi về tính hợp lý trong tổ chức vận tải du lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:47:00+07:00",
+      "fetched": "2026-04-08T19:58:51.006372+07:00"
+    },
+    {
+      "id": "53d40aafdd456f7725d0114ba5f2b713",
+      "title": "Dự án mở rộng quốc lộ 13 chậm tiến độ, khó khởi công năm 2026",
+      "link": "https://thanhnien.vn/du-an-mo-rong-quoc-lo-13-cham-tien-do-kho-khoi-cong-nam-2026-185260408191557031.htm",
+      "summary": "Dự án mở rộng quốc lộ 13 đoạn qua TP.HCM dài 6,3 km đang bị chậm tiến độ, vướng mắc lớn ở công tác bồi thường, tái định cư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:41:00+07:00",
+      "fetched": "2026-04-08T19:58:51.006531+07:00"
+    },
+    {
+      "id": "9886a58742adeaa6bb1a26a3f7b77c8e",
+      "title": "'Hà Nội luôn trong top 10 thành phố ô nhiễm nhất, đau lòng chứ'",
+      "link": "https://thanhnien.vn/ha-noi-luon-trong-top-10-thanh-pho-o-nhiem-nhat-dau-long-chu-185260408190030544.htm",
+      "summary": "Đại biểu Trần Hoàng Ngân đề cập tình trạng 'Hà Nội luôn trong top 10 thành phố ô nhiễm nhất', do đó cần có những cơ chế đột phá giúp thủ đô giải bài toán này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:41:00+07:00",
+      "fetched": "2026-04-08T19:58:51.006690+07:00"
+    },
+    {
+      "id": "a9855581f1a68933ffaf0430dd894e34",
+      "title": "Loét gót chân kéo dài, bệnh nhân suýt phải cưa chân",
+      "link": "https://thanhnien.vn/loet-got-chan-keo-dai-benh-nhan-suyt-phai-cua-chan-185260408150945086.htm",
+      "summary": "Bệnh nhân 70 tuổi nhập viện vì vết loét ở gót chân lâu lành, kèm đau chân kéo dài. Qua thăm khám, bác sĩ phát hiện người bệnh mắc bệnh lý động mạch chi dưới nặng, có nguy cơ hoại tử cao, cưa chân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:38:00+07:00",
+      "fetched": "2026-04-08T19:58:51.006842+07:00"
+    },
+    {
+      "id": "747dc3df6db695bc220d8b45727afa88",
+      "title": "Trà sữa, kem của Việt Nam lần đầu tham dự triển lãm thức uống quốc tế",
+      "link": "https://thanhnien.vn/tra-sua-kem-cua-viet-nam-lan-dau-tham-du-trien-lam-thuc-uong-quoc-te-185260408184110395.htm",
+      "summary": "Lần đầu tiên trà sữa, kem có trong các nội dung chính của chuỗi triển lãm quốc tế ngành sữa và thức uống hiện đại năm 2026, tổ chức tại Hà Nội  từ 28 - 31.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:32:00+07:00",
+      "fetched": "2026-04-08T19:58:51.006992+07:00"
+    },
+    {
+      "id": "97ba101bc8e5a1f7b7a0329eae1af8d1",
+      "title": "Khối u 10 kg như 'hồ máu' trên lưng bệnh nhân 49 kg mắc bệnh hiếm",
+      "link": "https://thanhnien.vn/khoi-u-10-kg-nhu-ho-mau-tren-lung-benh-nhan-49-kg-mac-benh-hiem-185260408142204094.htm",
+      "summary": "Mang khối u nặng 10 kg, gây biến dạng nghiêm trọng vùng lưng và cong vẹo cột sống, một bệnh nhân được các bác sĩ Bệnh viện Ung bướu Cần Thơ phẫu thuật thành công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:25:00+07:00",
+      "fetched": "2026-04-08T19:58:51.007145+07:00"
+    },
+    {
+      "id": "697fe1b1986d30c3b15c59cbc086c02a",
+      "title": "SaigonTex - SaigonFabric 2026: AI và giải pháp bền vững cho ngành dệt may thời trang",
+      "link": "https://thanhnien.vn/thoi-trang-tre/saigontex-saigonfabric-2026-ai-va-giai-phap-ben-vung-cho-nganh-det-may-thoi-trang-185260408163036169.htm",
+      "summary": "Triển lãm quốc tế ngành công nghiệp dệt & may - thiết bị, nguyên phụ liệu & vải 2026 (SaigonTex - SaigonFabric) đã khai mạc tại Trung tâm Hội chợ và Triển lãm Sài Gòn (SECC), TP.HCM quy tụ hơn 1.000 doanh nghiệp đến từ 22 quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:24:00+07:00",
+      "fetched": "2026-04-08T19:58:51.007326+07:00"
+    },
+    {
+      "id": "8b4c402e0f8ef5f33eb06479678c2824",
+      "title": "Lời kể người bán bánh bèo bị khách hành hung tại Quy Nhơn",
+      "link": "https://thanhnien.vn/loi-ke-nguoi-ban-banh-beo-bi-khach-hanh-hung-tai-quy-nhon-18526040817005235.htm",
+      "summary": "Con trai cụ bà bán bánh bèo bị hành hung ở Quy Nhơn cũng bị nhóm người lao vào đấm đá, thậm chí dùng dao rượt đuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:21:00+07:00",
+      "fetched": "2026-04-08T19:58:51.007476+07:00"
+    },
+    {
+      "id": "243c4bd83b5308eb19a222bb3cae0dc5",
+      "title": "Cơ sở lọc dầu bị tấn công, Iran phóng tên lửa vào các nước vùng Vịnh",
+      "link": "https://vnexpress.net/co-so-loc-dau-bi-tan-cong-iran-phong-ten-lua-vao-cac-nuoc-vung-vinh-5060170.html",
+      "summary": "Truyền thông Iran cho biết nước này đã phóng tên lửa và UAV vào các nước láng giềng vùng Vịnh sau khi cơ sở lọc dầu trên đảo Lavan bị tấn công.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T12:17:25+07:00",
+      "fetched": "2026-04-08T19:58:53.748550+07:00"
+    },
+    {
+      "id": "f600708a85ec9e23d643583f18a9eb86",
+      "title": "Ông Trump áp thuế 50% với các nước cung cấp vũ khí cho Iran",
+      "link": "https://vnexpress.net/ong-trump-ap-thue-50-voi-cac-nuoc-cung-cap-vu-khi-cho-iran-5060187.html",
+      "summary": "Tổng thống Mỹ thông báo áp thuế nhập khẩu mới, chỉ một ngày sau khi công bố lệnh ngừng bắn với quốc gia này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-08T12:12:52+07:00",
+      "fetched": "2026-04-08T19:58:55.025510+07:00"
+    },
+    {
+      "id": "c72dfcb1256f19df8dde15347263d5ea",
+      "title": "Tổng Bí thư, Chủ tịch nước: Không thể quy hoạch thủ đô theo nhiệm kỳ 5 năm",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-khong-the-quy-hoach-thu-do-theo-nhiem-ky-5-nam-185260408181855468.htm",
+      "summary": "Góp ý cho luật Thủ đô sửa đổi, Tổng Bí thư, Chủ tịch nước Tô Lâm nhấn mạnh, quy hoạch thủ đô phải có tính bền vững, không phải quy hoạch nhiệm kỳ 5 năm, 'ông này làm rồi ông kia lên chủ tịch lại đảo lại'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:11:00+07:00",
+      "fetched": "2026-04-08T19:58:51.007627+07:00"
+    },
+    {
+      "id": "673ecbafd2b145aa6b92b241ae2942ee",
+      "title": "Toàn cảnh chuyến bay qua phía sau Mặt Trăng của Artemis II",
+      "link": "https://vnexpress.net/toan-canh-chuyen-bay-qua-phia-sau-mat-trang-cua-artemis-ii-5059894.html",
+      "summary": "Chuyến bay vòng qua Mặt Trăng của Artemis II diễn ra khoảng 7 tiếng, thu được nhiều hình ảnh giá trị về các thiên thể.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-08T12:00:00+07:00",
+      "fetched": "2026-04-08T19:58:57.272480+07:00"
+    },
+    {
+      "id": "3a583b1399f90995bd011fa54ded147b",
+      "title": "Xe tải lao xuống vực ở Lâm Đồng: Vệt trượt hơn 200 m",
+      "link": "https://thanhnien.vn/xe-tai-lao-xuong-vuc-o-lam-dong-vet-truot-hon-200-m-185260408184607393.htm",
+      "summary": "Vụ xe tải lao xuống vực ở Lâm Đồng để lại vệt trượt dài hơn 200 m. Cơ quan Cảnh sát điều tra Công an tỉnh đã hoàn tất khám nghiệm hiện trường và đang tiếp tục khám nghiệm phương tiện gặp nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T11:56:00+07:00",
+      "fetched": "2026-04-08T19:58:51.007784+07:00"
+    },
+    {
+      "id": "064a7a1ceff4297b38663ea83c91d258",
+      "title": "Thể Công Viettel bất ngờ ‘xin đổi’ HLV Popov: Điều lệ V-League có cho phép?",
+      "link": "https://thanhnien.vn/the-cong-viettel-bat-ngo-xin-doi-hlv-popov-nhung-dieu-le-v-league-co-cho-phep-185260408171852251.htm",
+      "summary": "Ngày 8.4, Thể Công Viettel gửi công văn đề nghị thay đổi người tham dự các buổi họp báo sau trận đấu tại V-League nhưng điều lệ giải không cho phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T11:55:00+07:00",
+      "fetched": "2026-04-08T19:58:51.007938+07:00"
+    },
+    {
+      "id": "b86848eecd0a55373ef96284d2dc9337",
+      "title": "Nóng: U.20 nữ Việt Nam lần thứ 2 vào tứ kết châu Á gặp Nhật Bản, VFF thưởng 300 triệu đồng",
+      "link": "https://thanhnien.vn/nong-u20-nu-viet-nam-lan-thu-2-vao-tu-ket-chau-a-vff-thuong-300-trieu-dong-185260408184909174.htm",
+      "summary": "U.20 nữ Việt Nam lần thứ 2 trong lịch sử giành quyền vào tứ kết U.20 nữ châu Á, sau khi có kết quả thuận lợi từ bảng C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T11:52:00+07:00",
+      "fetched": "2026-04-08T19:58:51.008084+07:00"
+    },
+    {
+      "id": "aa9e4fa044d8d8a47fdf5cd71c373d23",
+      "title": "Xây dự án nhà ở hơn 2.200 tỷ đồng tại Hưng Yên cho lực lượng công an",
+      "link": "https://vnexpress.net/xay-du-an-nha-o-hon-2-200-ty-dong-tai-hung-yen-cho-luc-luong-cong-an-5060128.html",
+      "summary": "Dự án xây dựng nhà ở cho lực lượng công an tại xã Tân Hưng có hơn 1.400 căn hộ, tổng mức đầu tư khoảng 2.200 tỷ, dự kiến hoàn thành năm 2028.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T11:43:41+07:00",
+      "fetched": "2026-04-08T19:58:47.753935+07:00"
+    },
+    {
+      "id": "451a7e9faab49e20c91768d492136645",
+      "title": "Chủ tịch Quốc hội: Phân quyền tối đa cho Hà Nội khi sửa Luật Thủ đô",
+      "link": "https://vnexpress.net/chu-tich-quoc-hoi-phan-quyen-toi-da-cho-ha-noi-khi-sua-luat-thu-do-5060151.html",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn nói Luật Thủ đô sửa đổi sẽ phân cấp, phân quyền tối đa cho Hà Nội để giải quyết nhiều vấn đề của thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T11:36:25+07:00",
+      "fetched": "2026-04-08T19:58:47.754120+07:00"
+    },
+    {
+      "id": "f1fb0d5ee2a01b69019da2ad7aeff461",
+      "title": "Ông Đôn Tuấn Phong làm Phó chủ nhiệm Văn phòng Chính phủ",
+      "link": "https://vnexpress.net/ong-don-tuan-phong-lam-pho-chu-nhiem-van-phong-chinh-phu-5060133.html",
+      "summary": "Ông Đôn Tuấn Phong, Phó chủ nhiệm Ủy ban Quốc phòng, An ninh và Đối ngoại của Quốc hội, được Thủ tướng Lê Minh Hưng bổ nhiệm giữ chức Phó chủ nhiệm Văn phòng Chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T11:34:58+07:00",
+      "fetched": "2026-04-08T19:58:47.754309+07:00"
+    },
+    {
       "id": "b721d9555784452004f42f649fb11925",
       "title": "Kanye West bị cấm nhập cảnh vào Anh vì các phát ngôn bài Do Thái trong quá khứ",
       "link": "https://tuoitre.vn/kanye-west-bi-cam-nhap-canh-vao-anh-vi-cac-phat-ngon-bai-do-thai-trong-qua-khu-20260408092035659.htm",
@@ -601,6 +971,76 @@ window.newsData_2026_04_08 = {
       "category": "Tổng hợp",
       "published": "2026-04-08T11:28:55.159544+07:00",
       "fetched": "2026-04-08T11:28:55.159782+07:00"
+    },
+    {
+      "id": "cc4dc3e4d46b86c900a4f6eaccaeaed2",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm phê chuẩn Công ước Hà Nội",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-phe-chuan-cong-uoc-ha-noi-5060158.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm hôm nay ký Quyết định phê chuẩn Công ước của Liên Hợp Quốc về chống tội phạm mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T11:22:28+07:00",
+      "fetched": "2026-04-08T19:58:47.754471+07:00"
+    },
+    {
+      "id": "cc4dc3e4d46b86c900a4f6eaccaeaed2",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm phê chuẩn Công ước Hà Nội",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-phe-chuan-cong-uoc-ha-noi-5060158.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm hôm nay ký Quyết định phê chuẩn Công ước của Liên Hợp Quốc về chống tội phạm mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T11:22:28+07:00",
+      "fetched": "2026-04-08T19:58:53.748730+07:00"
+    },
+    {
+      "id": "8e16e56cce5f6434d63328ba4178e0ed",
+      "title": "Chủ tịch ACV Vũ Thế Phiệt 'vi phạm gây hậu quả rất nghiêm trọng'",
+      "link": "https://vnexpress.net/chu-tich-acv-vu-the-phiet-vi-pham-gay-hau-qua-rat-nghiem-trong-5060165.html",
+      "summary": "Ủy ban Kiểm tra Trung ương đề nghị cấp có thẩm quyền kỷ luật ông Vũ Thế Phiệt, Chủ tịch Hội đồng quản trị Tổng công ty Cảng hàng không Việt Nam, do vi phạm gây hậu quả rất nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T11:19:06+07:00",
+      "fetched": "2026-04-08T19:58:47.754632+07:00"
+    },
+    {
+      "id": "f0b3cca6b18b3791d5483953e067860e",
+      "title": "VIB sẽ chia cổ tức tỷ lệ 19%",
+      "link": "https://vnexpress.net/vib-se-chia-co-tuc-ty-le-19-5060163.html",
+      "summary": "VIB thông qua kế hoạch chia cổ tức gần 19% bằng tiền mặt và cổ phiếu thưởng, đặt mục tiêu lợi nhuận 11.550 tỷ đồng, tăng trưởng tín dụng 15% trong năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T11:15:00+07:00",
+      "fetched": "2026-04-08T19:58:47.754792+07:00"
+    },
+    {
+      "id": "e5e32d43ee69040e00d3a0b4e5c2c939",
+      "title": "Mẹ chồng đi kể căn nhà ba tầng là mình chồng tôi tạo dựng nên",
+      "link": "https://vnexpress.net/me-chong-di-ke-can-nha-ba-tang-la-minh-chong-toi-tao-dung-nen-5060077.html",
+      "summary": "Điều khiến tôi chạnh lòng là mẹ chồng chưa bao giờ công nhận sự cố gắng của tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T11:00:00+07:00",
+      "fetched": "2026-04-08T19:58:47.754950+07:00"
+    },
+    {
+      "id": "4d686e182ccf4634c90ebfbba7db5102",
+      "title": "4 lần mổ tinh hoàn để có con",
+      "link": "https://vnexpress.net/4-lan-mo-tinh-hoan-de-co-con-5060085.html",
+      "summary": "Anh Hưng, 35 tuổi, hai lần mổ tinh hoàn thất bại, sau đó được phẫu thuật điều trị giãn tĩnh mạch thừng tinh và vi phẫu micro-TESE tìm tinh trùng thành công có con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T11:00:00+07:00",
+      "fetched": "2026-04-08T19:58:47.755112+07:00"
+    },
+    {
+      "id": "c2e2df863431f150a5a2dcb3944d8509",
+      "title": "Phụ nữ sau 40 tuổi nên làm gì để tránh loãng xương?",
+      "link": "https://vnexpress.net/phu-nu-sau-40-tuoi-nen-lam-gi-de-tranh-loang-xuong-5059979.html",
+      "summary": "Chế độ ăn đủ canxi, protein, vitamin D, tập thể dục, không uống rượu, bỏ hút thuốc lá giúp phái đẹp phòng loãng xương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T11:00:00+07:00",
+      "fetched": "2026-04-08T19:58:47.755294+07:00"
     },
     {
       "id": "68b14a405f79b87071591d2095ae01a3",
