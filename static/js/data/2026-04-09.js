@@ -1,7 +1,67 @@
 window.newsData_2026_04_09 = {
   "date": "2026-04-09",
-  "lastUpdated": "2026-04-09T05:30:10.004436+07:00",
+  "lastUpdated": "2026-04-09T08:16:51.036029+07:00",
   "articles": [
+    {
+      "id": "325ed88df6fec3f348648e260b1b02d3",
+      "title": "Lịch trực tiếp Giải bóng chuyền vô địch quốc gia ngày 9-4",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-bong-chuyen-vo-dich-quoc-gia-ngay-9-4-20260408154406011.htm",
+      "summary": "Ngày 9-4, Giải bóng chuyền vô địch quốc gia các CLB 2026 sẽ tiếp tục diễn ra tại nhà thi đấu Đông Anh (Hà Nội).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T08:16:43.235973+07:00",
+      "fetched": "2026-04-09T08:16:43.236092+07:00"
+    },
+    {
+      "id": "424d0699c3607cdf7317fb8519db1df3",
+      "title": "PSG thắng thuyết phục Liverpool",
+      "link": "https://tuoitre.vn/psg-thang-thuyet-phuc-liverpool-20260409032923753.htm",
+      "summary": "Đúng như dự đoán, Liverpool trong trạng thái yếu nhất nhiều năm trở lại đây đã không thể gây bất ngờ trước đương kim vô địch PSG ở trận lượt đi tứ kết Champions League diễn ra rạng sáng 9-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T08:16:43.235844+07:00",
+      "fetched": "2026-04-09T08:16:43.235961+07:00"
+    },
+    {
+      "id": "cf131b17a8ef98cbc69f3322ebd0ddf3",
+      "title": "Thường trực Ban Bí thư Trần Cẩm Tú lên đường thăm chính thức Lào và Campuchia",
+      "link": "https://tuoitre.vn/thuong-truc-ban-bi-thu-tran-cam-tu-len-duong-tham-chinh-thuc-lao-va-campuchia-20260409011140933.htm",
+      "summary": "Đây là chuyến thăm chính thức đầu tiên của Thường trực Ban Bí thư Trần Cẩm Tú đến Lào và Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T08:16:43.235713+07:00",
+      "fetched": "2026-04-09T08:16:43.235833+07:00"
+    },
+    {
+      "id": "cfda58dfb4c3facd75509bf3070e8c91",
+      "title": "Thẻ đỏ tai hại khiến Barca thua sốc Atletico Madrid",
+      "link": "https://tuoitre.vn/the-do-tai-hai-khien-barca-thua-soc-atletico-madrid-20260409025959889.htm",
+      "summary": "Rạng sáng 9-4 (giờ Việt Nam), Barca đã gặp kết quả bất lợi trước Atletico Madrid khi tiếp đón đối thủ này trên sân nhà Camp Nou ở tứ kết lượt đi Champions League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T08:16:43.235579+07:00",
+      "fetched": "2026-04-09T08:16:43.235701+07:00"
+    },
+    {
+      "id": "229e40772f2c8a18c13ea60b232b6686",
+      "title": "Tin tức thế giới 9-4: Ông Trump bàn về việc rời NATO; Hezbollah và thỏa thuận ngừng bắn Mỹ - Iran",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-9-4-ong-trump-ban-ve-viec-roi-nato-hezbollah-va-thoa-thuan-ngung-ban-my-iran-20260409052708787.htm",
+      "summary": "Phó tổng thống Mỹ nói thỏa thuận ngừng bắn có đổ vỡ vì Lebanon hay không là tùy thuộc vào Iran; Ông Trump sẽ thảo luận về việc rời NATO trong cuộc gặp với ông Rutte",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T08:16:43.235434+07:00",
+      "fetched": "2026-04-09T08:16:43.235566+07:00"
+    },
+    {
+      "id": "7e13c2ad24c427c712009e0d5075898d",
+      "title": "Vợ chồng sống cùng nhau đáng sợ nhất là lúc nào?",
+      "link": "https://tuoitre.vn/vo-chong-song-cung-nhau-dang-so-nhat-la-luc-nao-20260407224040372.htm",
+      "summary": "Càng thành đạt, nhiều cặp vợ chồng lại càng khó nói chuyện. Người viện cớ công việc, người kêu áp lực cuộc sống, hay thậm chí 'đã hiểu nhau quá rồi, cần gì nói'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T08:16:43.235156+07:00",
+      "fetched": "2026-04-09T08:16:43.235419+07:00"
+    },
     {
       "id": "373eb983cfcbce66eefffeae7ecabcb8",
       "title": "Tin tức sáng 9-4: Quốc hội thảo luận nhiều dự luật; Tài sản 8 tỉ phú Việt tăng mạnh",
@@ -163,6 +223,336 @@ window.newsData_2026_04_09 = {
       "fetched": "2026-04-09T02:02:40.098159+07:00"
     },
     {
+      "id": "a90de42c7669ff4343449d8c75f9d609",
+      "title": "Tranh cãi Ronaldo và Al Nassr được thiên vị để vô địch Saudi Pro League",
+      "link": "https://thanhnien.vn/tranh-cai-ronaldo-va-al-nassr-duoc-thien-vi-de-vo-dich-saudi-pro-league-185260409081203039.htm",
+      "summary": "Các cầu thủ và HLV của CLB Al Ahli, trong đó có ngôi sao Ivan Toney đã tố cáo ban tổ chức Saudi Pro League và trọng tài thiên vị, nhằm giúp sức cho Ronaldo và Al Nassr vô địch mùa giải 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T01:13:00+07:00",
+      "fetched": "2026-04-09T08:16:42.391499+07:00"
+    },
+    {
+      "id": "e364aabb702a78fa1ae6ea1a97f6be44",
+      "title": "Chương trình đào tạo tài năng vẫn còn là thuật ngữ 'xa xỉ'",
+      "link": "https://thanhnien.vn/chuong-trinh-dao-tao-tai-nang-van-con-la-thuat-ngu-xa-xi-185260408211335956.htm",
+      "summary": "Thay vì chỉ là một 'thuật ngữ xa xỉ', chương trình đào tạo tài năng cần trở thành lộ trình tinh hoa thực chất để nhân tài thực sự dẫn dắt và kiến tạo tương lai đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T01:06:00+07:00",
+      "fetched": "2026-04-09T08:16:42.391671+07:00"
+    },
+    {
+      "id": "db9e98f1dd14a94d3dff99a3ffc88f44",
+      "title": "Khai thác văn hóa bản địa hiệu quả trên màn ảnh rộng",
+      "link": "https://thanhnien.vn/khai-thac-van-hoa-ban-dia-hieu-qua-tren-man-anh-rong-185260408223736091.htm",
+      "summary": "Điện ảnh Việt trong những năm gần đây khởi sắc không chỉ bằng doanh thu ấn tượng mà còn ở nỗ lực tìm kiếm và khẳng định \"chất riêng\" thông qua văn hóa bản địa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T01:00:00+07:00",
+      "fetched": "2026-04-09T08:16:42.391833+07:00"
+    },
+    {
+      "id": "34416b6861216c87d09822e81dab8807",
+      "title": "House Of Luggage triển khai chương trình Luggage Trade-in 2026 - Thu vali cũ đổi vali mới",
+      "link": "https://thanhnien.vn/thoi-trang-tre/house-of-luggage-trien-khai-chuong-trinh-luggage-trade-in-2026-thu-vali-cu-doi-vali-moi-185260408210709623.htm",
+      "summary": "Hướng đến hành trình tiêu dùng bền vững và bảo vệ môi trường, House Of Luggage triển khai chương trình Luggage Trade-in 2026 – Thu vali cũ, đổi vali mới với ưu đãi đến 50% mang đến mức giá hợp lý cho người tiêu dùng và góp phần giảm thiểu rác thải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T01:00:00+07:00",
+      "fetched": "2026-04-09T08:16:42.391990+07:00"
+    },
+    {
+      "id": "652d6bd0e0cec287ee345bba852b58b1",
+      "title": "Trung sĩ 27 tuổi sở hữu 2 huy chương vàng thế giới",
+      "link": "https://thanhnien.vn/trung-si-27-tuoi-so-huu-2-huy-chuong-vang-the-gioi-185260408202802254.htm",
+      "summary": "Mang về cho đất nước nhiều vinh quang từ môn võ jujitsu, trung sĩ Lê Kiên được tuyên dương là một trong 20 gương mặt công an trẻ tiêu biểu toàn quốc năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T01:00:00+07:00",
+      "fetched": "2026-04-09T08:16:42.392141+07:00"
+    },
+    {
+      "id": "cc7ac5829af1f0580639b435ec2fe541",
+      "title": "Phòng ngừa các biến chứng sớm trên người bệnh đái tháo đường: Mắt, thận, thần kinh",
+      "link": "https://thanhnien.vn/phong-ngua-cac-bien-chung-som-tren-nguoi-benh-dai-thao-duong-mat-than-than-kinh-185260408194233404.htm",
+      "summary": "Đái tháo đường không đáng sợ bằng… biến chứng đến quá muộn. Nhiều người chỉ biết mình mắc bệnh khi: Mắt đã mờ, tổn thương võng mạc, thận đã suy giảm chức năng, tê bì, mất cảm giác bàn chân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T01:00:00+07:00",
+      "fetched": "2026-04-09T08:16:42.392318+07:00"
+    },
+    {
+      "id": "642e1cc090ab08f86b3ffcdd59be6eab",
+      "title": "EVN thúc đẩy triển khai BESS trên lưới điện",
+      "link": "https://thanhnien.vn/evn-thuc-day-trien-khai-bess-tren-luoi-dien-185260408155517092.htm",
+      "summary": "Lãnh đạo Tập đoàn Điện lực Việt Nam (EVN) cho biết Hệ thống Pin lưu trữ (BESS) là một trong những giải pháp quan trọng trong vận hành và phát triển hệ thống điện. EVN sẽ phối hợp với các đơn vị liên quan kiến nghị Bộ Công thương tháo gỡ vướng mắc về cơ chế, chính sách để triển khai BESS trên diện rộ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T01:00:00+07:00",
+      "fetched": "2026-04-09T08:16:42.392479+07:00"
+    },
+    {
+      "id": "179e2408a7997f417d3646cada171770",
+      "title": "Đồng Nai: Trục kết nối chiến lược nối liền hai cực nam - đông TP.HCM",
+      "link": "https://thanhnien.vn/dong-nai-truc-ket-noi-chien-luoc-noi-lien-hai-cuc-nam-dong-tphcm-185260408154641716.htm",
+      "summary": "Đồng Nai đang tăng tốc trên hành trình trở thành đô thị trực thuộc Trung ương, đồng thời vươn lên là điểm kết nối chiến lược của vùng. Việc khơi thông các trục đông - nam và đông - tây giúp địa phương kéo gần hai cực tăng trưởng TP.HCM, hình thành hành lang kinh tế liên vùng mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T01:00:00+07:00",
+      "fetched": "2026-04-09T08:16:42.392632+07:00"
+    },
+    {
+      "id": "3f86d1d58226691a97fbdc9c2b0806e3",
+      "title": "Nhiều người 'nhìn trộm' màn hình smartphone người khác nơi công cộng",
+      "link": "https://vnexpress.net/nhieu-nguoi-nhin-trom-man-hinh-smartphone-nguoi-khac-noi-cong-cong-5059746.html",
+      "summary": "56% người tham gia khảo sát tại châu Âu cho biết từng nhìn vào màn hình điện thoại của người khác, kể cả vô tình và cố ý, chủ yếu ở nơi công cộng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-09T01:00:00+07:00",
+      "fetched": "2026-04-09T08:16:49.400155+07:00"
+    },
+    {
+      "id": "1e765b04361c1b064dbda4b7ca746b52",
+      "title": "Giá xăng dầu hôm nay 9.3.2026: Lao dốc, dầu thô WTI của Mỹ mất hơn 18 USD/thùng",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-932026-lao-doc-dau-tho-wti-cua-my-mat-hon-18-usd-thung-1852604090741598.htm",
+      "summary": "Giá dầu thế giới giảm mạnh 13 - 16%. Trong nước, giá xăng dầu cũng vừa được điều chỉnh giảm đồng loạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T00:58:00+07:00",
+      "fetched": "2026-04-09T08:16:42.392782+07:00"
+    },
+    {
+      "id": "ea215e5829d91a2dc7f3d0927e0dcf96",
+      "title": "Chứng khoán Mỹ tăng mạnh nhất một năm",
+      "link": "https://vnexpress.net/chung-khoan-my-tang-manh-nhat-mot-nam-5060237.html",
+      "summary": "Các chỉ số chính tại Wall Street tăng gần 3%, sau khi Mỹ và Iran công bố đạt thỏa thuận ngừng bắn trong hai tuần.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-09T00:46:47+07:00",
+      "fetched": "2026-04-09T08:16:46.798083+07:00"
+    },
+    {
+      "id": "09ac1a0a5fa5fb0d6360d7213e2d512c",
+      "title": "Mỹ - Iran dự kiến đàm phán ở Pakistan",
+      "link": "https://vnexpress.net/my-iran-du-kien-dam-phan-o-pakistan-5060232.html",
+      "summary": "Mỹ và Iran thông báo phái đoàn sẽ thảo luận tại Pakistan vào cuối tuần này, là lần đầu tiên hai bên đàm phán trực tiếp kể từ khi xung đột bắt đầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-09T00:42:17+07:00",
+      "fetched": "2026-04-09T08:16:45.067461+07:00"
+    },
+    {
+      "id": "59957b22ebcb8635324c71874b130ead",
+      "title": "Xung đột Iran tác động đến California nặng nề hơn mọi bang khác của Mỹ",
+      "link": "https://thanhnien.vn/xung-dot-iran-tac-dong-den-california-nang-ne-hon-moi-bang-khac-cua-my-1852604081947107.htm",
+      "summary": "Không ai ngờ đến, California lại hứng chịu thiệt hại nặng nề nhất so với bất kỳ tiểu bang nào của Mỹ, do 75% lượng dầu thô mà bang này sử dụng là nhập khẩu, trong đó gần 1/3 đến từ Trung Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T00:34:00+07:00",
+      "fetched": "2026-04-09T08:16:42.392932+07:00"
+    },
+    {
+      "id": "7f4d2a442f4e081107d17b4fb6a6e23b",
+      "title": "Triều Tiên thử nghiệm vũ khí 'đặc biệt' của quân đội",
+      "link": "https://thanhnien.vn/trieu-tien-thu-nghiem-vu-khi-dac-biet-cua-quan-doi-185260409065440277.htm",
+      "summary": "Triều Tiên thử nghiệm vũ khí và công nghệ quân sự trong đó có tên lửa đạn đạo chiến thuật gắn đầu đạn chùm, vũ khí điện từ và bom sợi carbon.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T00:30:00+07:00",
+      "fetched": "2026-04-09T08:16:42.393082+07:00"
+    },
+    {
+      "id": "c94a8247555b88f3a19e350f752d5d2c",
+      "title": "Ảnh dự thi: Nhịp đập thành thị",
+      "link": "https://thanhnien.vn/anh-du-thi-nhip-dap-thanh-thi-185260408181447349.htm",
+      "summary": "Bức ảnh khắc họa sự đối lập giữa nét tĩnh lặng, cũ kỹ của khu dân cư với nhịp sống hối hả nơi đô thị hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T00:30:00+07:00",
+      "fetched": "2026-04-09T08:16:42.393259+07:00"
+    },
+    {
+      "id": "73e8ae8195cc402b89880602a3df1a66",
+      "title": "Ông Trump cân nhắc 'trừng phạt' NATO vì không ủng hộ Mỹ chống Iran",
+      "link": "https://thanhnien.vn/ong-trump-can-nhac-trung-phat-nato-vi-khong-ung-ho-my-chong-iran-185260409071515823.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump đang xem xét các phương án trừng phạt một số thành viên NATO, bị coi là đã không giúp Mỹ chống lại Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T00:29:00+07:00",
+      "fetched": "2026-04-09T08:16:42.393424+07:00"
+    },
+    {
+      "id": "9b42d5899ce85fee330b74c9b6c744a7",
+      "title": "Israel trút thịnh nộ lên Lebanon, Iran đóng eo biển Hormuz, thỏa thuận ngừng bắn lâm nguy",
+      "link": "https://thanhnien.vn/israel-trut-thinh-no-len-lebanon-iran-dong-eo-bien-hormuz-thoa-thuan-ngung-ban-lam-nguy-185260409070721141.htm",
+      "summary": "Israel đã tiến hành cuộc không kích chết chóc nhất tại Lebanon từ đầu chiến sự làm hàng trăm người thiệt mạng khi nước này và Mỹ không đồng ý ngừng bắn tại Lebanon, trái với điều kiện của Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T00:29:00+07:00",
+      "fetched": "2026-04-09T08:16:42.393581+07:00"
+    },
+    {
+      "id": "0e8d5ec94fb4869995e214e0d580a3c9",
+      "title": "Bốn góc màn hình MacBook có thể làm được nhiều điều thú vị",
+      "link": "https://thanhnien.vn/bon-goc-man-hinh-macbook-co-the-lam-duoc-nhieu-dieu-thu-vi-185260408075802056.htm",
+      "summary": "Một trong những điều thú vị khi sở hữu MacBook là việc khám phá các tính năng ẩn mà Apple tích hợp vào hệ điều hành macOS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T00:19:00+07:00",
+      "fetched": "2026-04-09T08:16:42.393737+07:00"
+    },
+    {
+      "id": "d8c7d62499bdaf80d86c9dbe9189f697",
+      "title": "Taxi chở 3 người bị xe tải tông bẹp dúm, tài xế tử vong",
+      "link": "https://vnexpress.net/taxi-cho-3-nguoi-bi-xe-tai-tong-bep-dum-tai-xe-tu-vong-5060231.html",
+      "summary": "Taxi chở 3 người va chạm ôtô tải khi đi qua khu vực chợ Trường Xuân (Đăk Nông cũ), khiến tài xế chết tại chỗ, hai hành khách bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T00:01:29+07:00",
+      "fetched": "2026-04-09T08:16:39.386170+07:00"
+    },
+    {
+      "id": "8e3737b1741b9957f684ae63a6cc46be",
+      "title": "Khách Mỹ luồn lách ngõ nhỏ, lái xe như người Hà Nội",
+      "link": "https://vnexpress.net/khach-my-luon-lach-ngo-nho-lai-xe-nhu-nguoi-ha-noi-5059953.html",
+      "summary": "Gia đình ba thế hệ người Mỹ cùng trải nghiệm đạp xe, luồn lách ngõ nhỏ và đi chợ như người Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T00:00:00+07:00",
+      "fetched": "2026-04-09T08:16:39.386378+07:00"
+    },
+    {
+      "id": "3158e4ac7b73655a20bdf3767c729321",
+      "title": "PGS Nguyễn Lân Hiếu chỉ 5 việc cần làm khi phát hiện khối u",
+      "link": "https://vnexpress.net/pgs-nguyen-lan-hieu-chi-5-viec-can-lam-khi-phat-hien-khoi-u-5059711.html",
+      "summary": "PGS, TS Nguyễn Lân Hiếu, Giám đốc Bệnh viện Đại học Y Hà Nội, hướng dẫn 5 nguyên tắc giúp người dân xử lý đúng cách khi bất ngờ sờ hoặc khám thấy khối u, nhằm tránh tâm lý hoảng loạn và can thiệp y tế sai lầm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T00:00:00+07:00",
+      "fetched": "2026-04-09T08:16:39.386547+07:00"
+    },
+    {
+      "id": "fc7c199da9dbee8ea8ffb5f284cc0aca",
+      "title": "Mỹ cảnh báo Iran không để thỏa thuận đổ vỡ vì Lebanon",
+      "link": "https://vnexpress.net/my-canh-bao-iran-khong-de-thoa-thuan-do-vo-vi-lebanon-5060229.html",
+      "summary": "Phó tổng thống Mỹ Vance cho hay vấn đề Lebanon không nằm trong thỏa thuận ngừng bắn, cảnh báo Iran gánh hậu quả nghiêm trọng nếu phá vỡ cam kết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:54:42+07:00",
+      "fetched": "2026-04-09T08:16:39.386707+07:00"
+    },
+    {
+      "id": "fc7c199da9dbee8ea8ffb5f284cc0aca",
+      "title": "Mỹ cảnh báo Iran không để thỏa thuận đổ vỡ vì Lebanon",
+      "link": "https://vnexpress.net/my-canh-bao-iran-khong-de-thoa-thuan-do-vo-vi-lebanon-5060229.html",
+      "summary": "Phó tổng thống Mỹ Vance cho hay vấn đề Lebanon không nằm trong thỏa thuận ngừng bắn, cảnh báo Iran gánh hậu quả nghiêm trọng nếu phá vỡ cam kết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T23:54:42+07:00",
+      "fetched": "2026-04-09T08:16:45.067639+07:00"
+    },
+    {
+      "id": "26d9582ce395db0dea4fc1fde5cd4a54",
+      "title": "Cuộc sống của 1.800 người trên hòn đảo bằng nửa sân bóng đá",
+      "link": "https://vnexpress.net/cuoc-song-cua-1-800-nguoi-tren-hon-dao-bang-nua-san-bong-da-5060190.html",
+      "summary": "Đảo Migingo ở đông bắc hồ Victoria, nằm giữa Kenya và Uganda, là một tảng đá tròn có diện tích 2.000 m2, được phủ kín bởi những túp lều lợp tôn của gần 1.800 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:26:00+07:00",
+      "fetched": "2026-04-09T08:16:39.386876+07:00"
+    },
+    {
+      "id": "a951b3932289f3b07773bf25ed07fe30",
+      "title": "Điểm tin 6h: Iran đóng eo biển Hormuz, dọa hủy lệnh ngừng bắn | Các tỷ phú Việt có thêm 2 tỷ USD trong phiên chứng khoán tăng kỷ lục",
+      "link": "https://vnexpress.net/diem-tin-6h-iran-dong-eo-bien-hormuz-doa-huy-lenh-ngung-ban-cac-ty-phu-viet-co-them-2-ty-usd-trong-phien-chung-khoan-tang-ky-luc-5060230.html",
+      "summary": "Bộ Công Thương đề xuất đổi khung giờ tính tiền điện; VN-Index tăng kỷ lục...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:07:21+07:00",
+      "fetched": "2026-04-09T08:16:39.387043+07:00"
+    },
+    {
+      "id": "07713b07308dde840bc30148030b7678",
+      "title": "Sức hấp thụ chung cư mới giảm mạnh",
+      "link": "https://vnexpress.net/suc-hap-thu-chung-cu-moi-giam-manh-5060223.html",
+      "summary": "Giỏ hàng chung cư mới tại Hà Nội đạt tỷ lệ hấp thụ 55% trong quý I, giảm mạnh so với mức 84% cùng kỳ năm ngoái, theo Savills.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:00:00+07:00",
+      "fetched": "2026-04-09T08:16:39.387205+07:00"
+    },
+    {
+      "id": "2e6290e504fb6b6a530e1cbdd8f9c8c0",
+      "title": "Cuộc sống người Trung Quốc thời AI",
+      "link": "https://vnexpress.net/cuoc-song-nguoi-trung-quoc-thoi-ai-5059891.html",
+      "summary": "Từ học sinh 11 tuổi đến cụ bà 79 tuổi, hơn 600 triệu người Trung Quốc đang dùng AI mỗi ngày để học tập, làm việc và xua tan cô đơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:00:00+07:00",
+      "fetched": "2026-04-09T08:16:39.387395+07:00"
+    },
+    {
+      "id": "9b586271b4db419e3fd105a1403d824c",
+      "title": "Mẹ 3 con đảo ngược tuổi sinh học, thu nhỏ 15 cm vòng eo",
+      "link": "https://vnexpress.net/me-3-con-dao-nguoc-tuoi-sinh-hoc-thu-nho-15-cm-vong-eo-5059358.html",
+      "summary": "Từng rơi vào tự ti sau khi sinh con thứ ba, chị Hòa đảo ngược 10 năm tuổi sinh học, giảm 15 cm eo nhờ ăn uống, tập luyện đúng cách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:00:00+07:00",
+      "fetched": "2026-04-09T08:16:39.387554+07:00"
+    },
+    {
+      "id": "e6f0634f4ffe3a2b7cd1d0c01918ac83",
+      "title": "Người dân trữ vàng nhiều, nền kinh tế chịu tác động gì?",
+      "link": "https://vnexpress.net/nguoi-dan-tru-vang-nhieu-nen-kinh-te-chiu-tac-dong-gi-5055579.html",
+      "summary": "Việt Nam tiêu thụ tới 55 tấn vàng trong năm 2024, đằng sau con số này là câu hỏi về cơ hội tăng trưởng của nền kinh tế khi dòng tiền “ngủ đông” trong két sắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:00:00+07:00",
+      "fetched": "2026-04-09T08:16:39.387717+07:00"
+    },
+    {
+      "id": "521fe419a976f9c02aff2d8904d1807b",
+      "title": "Land Rover Defender Trophy - chọn hướng lạ mà đi",
+      "link": "https://vnexpress.net/land-rover-defender-trophy-chon-huong-la-ma-di-5059803.html",
+      "summary": "Với mẫu xe nhà Land Rover, off-road không đơn thuần chỉ là đi đường khó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T23:00:00+07:00",
+      "fetched": "2026-04-09T08:16:39.387869+07:00"
+    },
+    {
+      "id": "6723098e0999a0dde347d4e72d2157c6",
+      "title": "Kiện tướng trượt băng 18 tuổi trúng tuyển đại học top đầu Mỹ",
+      "link": "https://vnexpress.net/kien-tuong-truot-bang-18-tuoi-trung-tuyen-dai-hoc-top-dau-my-5059638.html",
+      "summary": "Bài luận về hành trình 10 năm, khi lần đầu chông chênh đứng trên hai lưỡi dao của đôi giày trượt băng tới 9 huy chương vàng quốc gia, giúp Linh Chi trúng tuyển đại học top 2 ngành Tài chính ở Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:50:14+07:00",
+      "fetched": "2026-04-09T08:16:39.388020+07:00"
+    },
+    {
+      "id": "0f423249541985dcf6371d0999ca114d",
+      "title": "PSG thắng dễ Liverpool ở tứ kết Champions League",
+      "link": "https://vnexpress.net/psg-thang-de-liverpool-o-tu-ket-champions-league-5060228.html",
+      "summary": "ĐKVĐ PSG hoàn toàn làm chủ cuộc chơi và hạ Liverpool 2-0 ở lượt đi tứ kết Champions League, tối 8/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:30:12+07:00",
+      "fetched": "2026-04-09T08:16:39.388178+07:00"
+    },
+    {
+      "id": "0f423249541985dcf6371d0999ca114d",
+      "title": "PSG thắng dễ Liverpool ở tứ kết Champions League",
+      "link": "https://vnexpress.net/psg-thang-de-liverpool-o-tu-ket-champions-league-5060228.html",
+      "summary": "ĐKVĐ PSG hoàn toàn làm chủ cuộc chơi và hạ Liverpool 2-0 ở lượt đi tứ kết Champions League, tối 8/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-08T22:30:12+07:00",
+      "fetched": "2026-04-09T08:16:51.030063+07:00"
+    },
+    {
       "id": "a6a5e20a82fde86736c9d701d4fed688",
       "title": "Mỹ triệt phá chiến dịch mạng của Nga",
       "link": "https://thanhnien.vn/my-triet-pha-chien-dich-mang-cua-nga-18526040820391068.htm",
@@ -201,6 +591,16 @@ window.newsData_2026_04_09 = {
       "category": "Tổng hợp",
       "published": "2026-04-08T22:06:00+07:00",
       "fetched": "2026-04-09T05:30:00.060033+07:00"
+    },
+    {
+      "id": "d4fa74b31a548def09a9c20c15e0406a",
+      "title": "5 bài toán chờ đợi tân Bộ trưởng Giáo dục",
+      "link": "https://vnexpress.net/5-bai-toan-cho-doi-tan-bo-truong-giao-duc-hoang-minh-son-5045998.html",
+      "summary": "Tái cấu trúc đại học, ổn định tuyển sinh và đưa tiếng Anh thành ngôn ngữ thứ hai là những \"bài toán khó\" chờ đợi tân Bộ trưởng Hoàng Minh Sơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T22:06:00+07:00",
+      "fetched": "2026-04-09T08:16:39.388359+07:00"
     },
     {
       "id": "a1b2508185b2f8a063ba5b57efd8dc61",
@@ -911,6 +1311,16 @@ window.newsData_2026_04_09 = {
       "category": "Công nghệ",
       "published": "2026-04-08T12:00:00+07:00",
       "fetched": "2026-04-09T02:02:47.850768+07:00"
+    },
+    {
+      "id": "62254a420f66aa72da8cc987fd05c70f",
+      "title": "Gần 40 nhà khoa học thảo luận về quang tử ASEAN",
+      "link": "https://vnexpress.net/gan-40-nha-khoa-hoc-thao-luan-ve-quang-tu-asean-5060166.html",
+      "summary": "Các nhà khoa học, chuyên gia và nghiên cứu sinh đến từ 12 quốc gia trao đổi những tiến bộ mới, triển vọng phát triển của lĩnh vực quang tử học và tương tác ánh sáng - vật chất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-08T12:00:00+07:00",
+      "fetched": "2026-04-09T08:16:49.401995+07:00"
     },
     {
       "id": "cc4dc3e4d46b86c900a4f6eaccaeaed2",
