@@ -1,7 +1,157 @@
 window.newsData_2026_04_10 = {
   "date": "2026-04-10",
-  "lastUpdated": "2026-04-10T19:46:41.053057+07:00",
+  "lastUpdated": "2026-04-10T21:41:53.932979+07:00",
   "articles": [
+    {
+      "id": "f6c800f757b858fb03e59364a15cdd96",
+      "title": "TP.HCM ký văn kiện quan trọng về người Việt Nam ở nước ngoài",
+      "link": "https://tuoitre.vn/tp-hcm-ky-van-kien-quan-trong-ve-nguoi-viet-nam-o-nuoc-ngoai-20260410194623495.htm",
+      "summary": "Văn phòng UBND TP.HCM và Ủy ban Nhà nước về người Việt Nam ở nước ngoài tái ký chương trình phối hợp công tác và triển khai công tác người Việt Nam ở nước ngoài trên địa bàn thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.180845+07:00",
+      "fetched": "2026-04-10T21:41:44.180955+07:00"
+    },
+    {
+      "id": "bcc19988ac8b4163acc66851ac9560f0",
+      "title": "Tôn vinh 80 điển hình tiên tiến Lực lượng Tham mưu Công an nhân dân",
+      "link": "https://tuoitre.vn/ton-vinh-80-dien-hinh-tien-tien-luc-luong-tham-muu-cong-an-nhan-dan-20260410195242404.htm",
+      "summary": "Chiều 10-4, Bộ Công an tổ chức chương trình tôn vinh 80 điển hình tiên tiến Lực lượng Tham mưu Công an nhân dân và tri ân các thế hệ cán bộ, chiến sĩ Lực lượng Tham mưu qua các thời kỳ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.180718+07:00",
+      "fetched": "2026-04-10T21:41:44.180833+07:00"
+    },
+    {
+      "id": "80a1bd718851d2ab480c2b17c56c11fa",
+      "title": "Thanh gươm diệt quỷ: Vô hạn thành là phim Nhật có doanh thu toàn cầu cao nhất lịch sử",
+      "link": "https://tuoitre.vn/thanh-guom-diet-quy-vo-han-thanh-la-phim-nhat-co-doanh-thu-toan-cau-cao-nhat-lich-su-20260410193133264.htm",
+      "summary": "Thanh gươm diệt quỷ: Vô hạn thành tiếp tục tạo nên cột mốc chưa từng có khi trở thành phim Nhật có doanh thu toàn cầu cao nhất mọi thời đại, khép lại hành trình chiếu rạp trong nước với hơn 400 tỉ yen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.180592+07:00",
+      "fetched": "2026-04-10T21:41:44.180707+07:00"
+    },
+    {
+      "id": "bc4285143ff0eafb44b1bb7a5b6c04fa",
+      "title": "Bồn chồn vì nhắn tin ‘seen mà không rep’: Nên hỏi lại hay thôi kệ luôn?",
+      "link": "https://tuoitre.vn/bon-chon-vi-nhan-tin-seen-ma-khong-rep-nen-hoi-lai-hay-thoi-ke-luon-20260410130541997.htm",
+      "summary": "Nhắn tin xong thấy đối phương 'đã xem' mà không thấy trả lời là kiểu ai cũng từng dính ít nhất 1 lần trong đời. Lúc đó não bắt đầu chạy 7749 suy diễn: Bận thật hay không muốn trả lời, hay người ta giận mình rồi?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.180465+07:00",
+      "fetched": "2026-04-10T21:41:44.180581+07:00"
+    },
+    {
+      "id": "3181f026906cd4a5fc439160100a9f42",
+      "title": "Vì sao phi hành gia Artemis II mặc đồ màu cam thay vì màu trắng như Apollo?",
+      "link": "https://tuoitre.vn/vi-sao-phi-hanh-gia-artemis-ii-mac-do-mau-cam-thay-vi-mau-trang-nhu-apollo-20260410101552542.htm",
+      "summary": "Màu sắc bộ đồ du hành vũ trụ đã thay đổi đáng kể qua nhiều thập kỷ, trước khi NASA lựa chọn màu cam cho các phi hành gia trong sứ mệnh Artemis II.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.180341+07:00",
+      "fetched": "2026-04-10T21:41:44.180454+07:00"
+    },
+    {
+      "id": "b8211e7037c647ae154ec0ebbebf9a92",
+      "title": "Phụ công Trần Thị Bích Thủy: 'Tôi tiến bộ nhiều sau khi qua Nhật Bản thi đấu'",
+      "link": "https://tuoitre.vn/phu-cong-tran-thi-bich-thuy-toi-tien-bo-nhieu-sau-khi-qua-nhat-ban-thi-dau-20260410201229442.htm",
+      "summary": "Vừa trở về nước, phụ công Trần Thị Bích Thủy lập tức thể hiện đẳng cấp tại Giải bóng chuyền vô địch quốc gia các CLB 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.180217+07:00",
+      "fetched": "2026-04-10T21:41:44.180330+07:00"
+    },
+    {
+      "id": "6f57110f2a3b4ec93487cf2b2910116f",
+      "title": "Đại biểu đề xuất cá nhân, tổ chức tín ngưỡng, tôn giáo phải định danh, xác thực tài khoản",
+      "link": "https://tuoitre.vn/dai-bieu-de-xuat-ca-nhan-to-chuc-tin-nguong-ton-giao-phai-dinh-danh-xac-thuc-tai-khoan-20260410201209942.htm",
+      "summary": "Cá nhân, tổ chức khi hoạt động tín ngưỡng, tôn giáo trên không gian mạng phải thực hiện việc định danh, xác thực tài khoản tại cơ quan nhà nước có thẩm quyền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.180065+07:00",
+      "fetched": "2026-04-10T21:41:44.180201+07:00"
+    },
+    {
+      "id": "86a16594b5fecd9241ccdf14612d8e97",
+      "title": "Công ty 6 tháng tuổi liên quan Vinaconex 'nhảy' vào Giày Thượng Đình",
+      "link": "https://tuoitre.vn/cong-ty-6-thang-tuoi-lien-quan-vinaconex-nhay-vao-giay-thuong-dinh-20260410202352411.htm",
+      "summary": "Công ty CP Giày Thượng Đình (GTD) vừa xuất hiện một cổ đông lớn mới chiếm tới 24% vốn điều lệ, đó là Công ty CP An Quý Hưng Holding.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.179943+07:00",
+      "fetched": "2026-04-10T21:41:44.180054+07:00"
+    },
+    {
+      "id": "cc3ab21d915f68b3c5010f6f268b17ac",
+      "title": "CLB Thanh Niên TP.HCM chìm sâu ở cuối bảng",
+      "link": "https://tuoitre.vn/clb-thanh-nien-tp-hcm-chim-sau-o-cuoi-bang-20260410201006623.htm",
+      "summary": "CLB Thanh Niên TP.HCM tiếp tục nâng chuỗi trận không thắng suốt từ đầu mùa lên con số 14 khi thua Trẻ PVF-CAND 0-3 trên sân nhà Pleiku.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.179821+07:00",
+      "fetched": "2026-04-10T21:41:44.179931+07:00"
+    },
+    {
+      "id": "f0ba74cf58ea804042ffd5bb1fa92f8f",
+      "title": "Lại Lý Huynh chứng tỏ vị thế sau khi mất ngôi 'kỳ vương Việt Nam'",
+      "link": "https://tuoitre.vn/lai-ly-huynh-chung-to-vi-the-sau-khi-mat-ngoi-ky-vuong-viet-nam-20260410203138431.htm",
+      "summary": "2 ngày sau thất bại gây sốc ở nội dung cờ tiêu chuẩn, Lại Lý Huynh đã vô địch nội dung cờ nhanh ở Giải vô địch cờ tướng quốc gia 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.179698+07:00",
+      "fetched": "2026-04-10T21:41:44.179809+07:00"
+    },
+    {
+      "id": "a4b04fe1e0278d16b716295e4a656b71",
+      "title": "Xác minh clip người đàn ông đánh shipper trên đường phố Đà Nẵng",
+      "link": "https://tuoitre.vn/xac-minh-clip-nguoi-dan-ong-danh-shipper-tren-duong-pho-da-nang-20260410203225293.htm",
+      "summary": "Công an phường Thanh Khê, Đà Nẵng cho biết đang xác minh clip người đàn ông đánh một người giao hàng trên đường sau khi cự cãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.179573+07:00",
+      "fetched": "2026-04-10T21:41:44.179686+07:00"
+    },
+    {
+      "id": "e7daf6c161b8c4e5d104a66642f610b5",
+      "title": "Khởi tranh Giải vô địch bóng rổ 5x5 các đội mạnh quốc gia 2026",
+      "link": "https://tuoitre.vn/khoi-tranh-giai-vo-dich-bong-ro-5x5-cac-doi-manh-quoc-gia-2026-20260410203757932.htm",
+      "summary": "Giải vô địch bóng rổ 5x5 các đội mạnh quốc gia 2026 chính thức khai mạc, quy tụ hơn 200 vận động viên của 12 đội bóng mạnh trên cả nước, hứa hẹn mang đến những trận đấu hấp dẫn và kịch tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.179445+07:00",
+      "fetched": "2026-04-10T21:41:44.179562+07:00"
+    },
+    {
+      "id": "a6ea294cde9805d164671068df477ecd",
+      "title": "Bảo Việt mang hơn 146.500 tỉ đồng gửi ngân hàng, lỗ khi đầu tư cổ phiếu Vinamilk",
+      "link": "https://tuoitre.vn/bao-viet-mang-hon-146-500-ti-dong-gui-ngan-hang-lo-khi-dau-tu-co-phieu-vinamilk-20260410210250512.htm",
+      "summary": "Danh mục đầu tư cổ phiếu niêm yết của Tập đoàn Bảo Việt (BVH) đang tạm lỗ gần 150 tỉ đồng, phần lớn ở khoản đầu tư vào VNM (Vinamilk).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.179309+07:00",
+      "fetched": "2026-04-10T21:41:44.179429+07:00"
+    },
+    {
+      "id": "f7dd34ccec8ead820d9fb937dc38ccc5",
+      "title": "Đại sứ quán Iran phản hồi về đề nghị cho tàu thuyền Việt Nam đi qua eo biển Hormuz",
+      "link": "https://tuoitre.vn/dai-su-quan-iran-phan-hoi-ve-de-nghi-cho-tau-thuyen-viet-nam-di-qua-eo-bien-hormuz-2026041020551652.htm",
+      "summary": "Đại biện lâm thời Iran tại Việt Nam cho biết hai nước đã liên hệ, trao đổi về việc tạo điều kiện cho tàu Việt Nam đi lại qua eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.179167+07:00",
+      "fetched": "2026-04-10T21:41:44.179296+07:00"
+    },
+    {
+      "id": "27cfc4cc19a5f391cbb6ce147cd5fb1a",
+      "title": "Lạ lùng giới trẻ không muốn làm sếp, chỉ muốn làm nhân viên suốt đời",
+      "link": "https://tuoitre.vn/la-lung-gioi-tre-khong-muon-lam-sep-chi-muon-lam-nhan-vien-suot-doi-20260410123320527.htm",
+      "summary": "Nhiều bạn trẻ chỉ muốn làm nhân viên thôi, không có nhu cầu lên làm lãnh đạo hay quản lý. Liệu không có tinh thần cầu tiến hay biết đủ là hạnh phúc?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T21:41:44.178902+07:00",
+      "fetched": "2026-04-10T21:41:44.179151+07:00"
+    },
     {
       "id": "3d0e819826ad4f09c4e033e83eb74c08",
       "title": "Nam thanh niên 20 tuổi suýt mất mạng vì biến chứng viêm xoang",
@@ -453,6 +603,36 @@ window.newsData_2026_04_10 = {
       "fetched": "2026-04-10T15:59:15.266106+07:00"
     },
     {
+      "id": "6ecedbc9b179ba8b2b1d5a5c8a05467b",
+      "title": "Khai mạc giải vô địch bóng rổ 5x5 các đội mạnh quốc gia 2026",
+      "link": "https://thanhnien.vn/khai-mac-giai-vo-dich-bong-ro-5x5-cac-doi-manh-quoc-gia-2026-185260410211516253.htm",
+      "summary": "12 đội bóng rổ nam, nữ với hơn 180 vận động viên trên cả nước quy tụ về Nha Trang tranh tài giải vô địch bóng rổ 5x5 các đội mạnh quốc gia 2026, chuẩn bị lực lượng cho Đại hội thể thao toàn quốc lần thứ X.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T14:35:00+07:00",
+      "fetched": "2026-04-10T21:41:43.041769+07:00"
+    },
+    {
+      "id": "c77fe4bd7c2d684c28bc35edec64e9f7",
+      "title": "Chó sói thoát khỏi vườn thú gây xôn xao, Tổng thống Hàn Quốc phải lên tiếng",
+      "link": "https://thanhnien.vn/cho-soi-thoat-khoi-vuon-thu-gay-xon-xao-tong-thong-han-quoc-phai-len-tieng-18526041021064008.htm",
+      "summary": "Một con sói thoát khỏi vườn thú ở Hàn Quốc đã lang thang ngoài đường suốt vài ngày qua, thu hút sự chú ý của công chúng và thậm chí khiến Tổng thống Lee Jae-myung lên tiếng bày tỏ lo ngại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T14:26:00+07:00",
+      "fetched": "2026-04-10T21:41:43.041935+07:00"
+    },
+    {
+      "id": "f2f2ec312ed798b95babbf039d2b9fd2",
+      "title": "Vụ nhiều thi thể cháy xém trong ngôi nhà ở Gia Lai: Gia đình có 4 người",
+      "link": "https://thanhnien.vn/vu-nhieu-thi-the-chay-xem-trong-ngoi-nha-o-gia-lai-gia-dinh-co-4-nguoi-18526041019195708.htm",
+      "summary": "Cơ quan chức năng đang phong tỏa hiện trường, điều tra làm rõ nguyên nhân vụ phát hiện nhiều thi thể cháy xém trong ngôi nhà ở Gia Lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T14:21:00+07:00",
+      "fetched": "2026-04-10T21:41:43.042114+07:00"
+    },
+    {
       "id": "da5fa688142e00c2fcd5aad65a1f8165",
       "title": "Kinh doanh gặp khó, Vinasun dự kiến trả thù lao cho lãnh đạo 4-10 triệu đồng/tháng",
       "link": "https://tuoitre.vn/kinh-doanh-gap-kho-vinasun-du-kien-tra-thu-lao-cho-lanh-dao-4-10-trieu-dong-thang-20260410114328363.htm",
@@ -603,6 +783,226 @@ window.newsData_2026_04_10 = {
       "fetched": "2026-04-10T14:15:20.718887+07:00"
     },
     {
+      "id": "600be0e5bf95aa927c0b8dcb7d49c2cf",
+      "title": "Thêm một ca sĩ Hàn Quốc hoạt động tại Việt Nam",
+      "link": "https://thanhnien.vn/them-mot-ca-si-han-quoc-hoat-dong-tai-viet-nam-185260410203125463.htm",
+      "summary": "MV ra mắt thị trường Việt Nam của ca sĩ Rayeon đang thu hút sự quan tâm lớn từ cộng đồng yêu âm nhạc, đồng thời mở màn cho chiến lược của một công ty giải trí mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T14:14:00+07:00",
+      "fetched": "2026-04-10T21:41:43.042274+07:00"
+    },
+    {
+      "id": "b6437524936da25a79260c0de5252bb8",
+      "title": "Hai đội phản lưới 6 lần để dàn xếp tỷ số ở giải nhi đồng Trung Quốc",
+      "link": "https://vnexpress.net/hai-doi-phan-luoi-6-lan-de-dan-xep-ty-so-o-giai-nhi-dong-trung-quoc-5061062.html",
+      "summary": "Trận đấu U10 tại Bắc Kinh gây phẫn nộ khi hai đội cố tình không thắng để né nhánh khó, dẫn tới hàng loạt bàn phản lưới, khiến cơ quan quản lý vào cuộc điều tra và xử lý kỷ luật.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-10T14:09:59+07:00",
+      "fetched": "2026-04-10T21:41:53.920483+07:00"
+    },
+    {
+      "id": "ef62e5ccd9377c287e8d6f52f66acd94",
+      "title": "Lời khai vụ xông vào nhà, chém người: Quen biết nhưng nuôi ý định trả thù?",
+      "link": "https://thanhnien.vn/loi-khai-vu-xong-vao-nha-chem-nguoi-quen-biet-nhung-nuoi-y-dinh-tra-thu-185260410185535843.htm",
+      "summary": "Sau khi dùng dao truy sát người đàn ông 52 tuổi tại nhà riêng rồi bỏ trốn, Hoàng Văn Thủy bị Công an TP.HCM bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T14:09:00+07:00",
+      "fetched": "2026-04-10T21:41:43.042426+07:00"
+    },
+    {
+      "id": "7bc6bc588e0c06e7efd1dce01f4c7293",
+      "title": "Bản đồ nhiệt đỏ rực ngày thứ 5, nắng nóng kéo dài thêm 5 - 7 ngày nữa",
+      "link": "https://thanhnien.vn/ban-do-nhiet-do-ruc-ngay-thu-5-nang-nong-keo-dai-them-5-7-ngay-nua-18526041020520333.htm",
+      "summary": "Mức nhiệt cao nhất trong ngày hôm nay (10.4) là 41,2 độ C, khiến bản đồ nhiệt cả nước tiếp tục đỏ rực. Dự báo, đợt nắng nóng hiện tại còn kéo dài thêm 5 - 7 ngày tùy khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T14:03:00+07:00",
+      "fetched": "2026-04-10T21:41:43.042576+07:00"
+    },
+    {
+      "id": "046969abae08c07904990412ccbf84e8",
+      "title": "Bàn phản lưới 'tệ nhất lịch sử' ở Europa League",
+      "link": "https://vnexpress.net/ban-phan-luoi-te-nhat-lich-su-o-europa-league-5061039.html",
+      "summary": "Hậu vệ 20 tuổi Martim Fernandes trải qua 6 phút ác mộng khi phản lưới nhà, trước khi rời sân vì chấn thương trong trận Europa League giữa Porto và Nottingham Forest.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-10T14:00:00+07:00",
+      "fetched": "2026-04-10T21:41:53.920656+07:00"
+    },
+    {
+      "id": "81a7151731582c07e00e32dac40a672e",
+      "title": "Khởi động dự án nhà máy nhiệt điện 57.000 tỷ đồng ở Khánh Hòa",
+      "link": "https://vnexpress.net/khoi-dong-du-an-nha-may-nhiet-dien-57-000-ty-dong-o-khanh-hoa-5061075.html",
+      "summary": "Nhà máy nhiệt điện công suất 1.500 MW, tổng vốn hơn 57.000 tỷ đồng vừa được UBND tỉnh phối hợp với liên danh Tập đoàn Trung Nam - Sideros River ký kết hợp đồng đầu tư kinh doanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T13:43:32+07:00",
+      "fetched": "2026-04-10T21:41:38.130454+07:00"
+    },
+    {
+      "id": "9ab0c41ca7edf42f7f27b68edd3964cc",
+      "title": "Barca khiếu nại vụ mất phạt đền lên UEFA",
+      "link": "https://vnexpress.net/barca-khieu-nai-vu-mat-phat-den-len-uefa-5061071.html",
+      "summary": "Barca cho rằng trọng tài sai lầm khi không cho Barca hưởng phạt đền trong trận thua Atletico ở tứ kết lượt đi Champions League và đã gửi đơn khiếu nại lên UEFA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T13:36:23+07:00",
+      "fetched": "2026-04-10T21:41:38.130634+07:00"
+    },
+    {
+      "id": "9ab0c41ca7edf42f7f27b68edd3964cc",
+      "title": "Barca khiếu nại vụ mất phạt đền lên UEFA",
+      "link": "https://vnexpress.net/barca-khieu-nai-vu-mat-phat-den-len-uefa-5061071.html",
+      "summary": "Barca cho rằng trọng tài sai lầm khi không cho Barca hưởng phạt đền trong trận thua Atletico ở tứ kết lượt đi Champions League và đã gửi đơn khiếu nại lên UEFA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-10T13:36:23+07:00",
+      "fetched": "2026-04-10T21:41:53.920816+07:00"
+    },
+    {
+      "id": "cc985813ee632df8ad491d0785793414",
+      "title": "Lộ diện thêm 2 đối thủ mạnh vào bán kết giải U.15 quốc gia",
+      "link": "https://thanhnien.vn/lo-dien-them-2-doi-thu-manh-vao-ban-ket-giai-u15-quoc-gia-185260410202233935.htm",
+      "summary": "Chiều 10.4, hai trận tứ kết tiếp theo của giải U.15 quốc gia – Cúp Modern 2026 đã diễn ra sôi nổi, qua đó xác định thêm hai đội bóng giành quyền vào bán kết là Hà Nội I và Thể Công Viettel I. Với những chiến thắng thuyết phục, hai đại diện của bóng đá trẻ thủ đô tiếp tục thể hiện sức mạnh và sự ổn đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T13:22:00+07:00",
+      "fetched": "2026-04-10T21:41:43.042726+07:00"
+    },
+    {
+      "id": "8aa21c37bda3c00aa8543c1b8fe7d43e",
+      "title": "TP HCM bắn pháo hoa 7 điểm dịp 30/4",
+      "link": "https://vnexpress.net/tp-hcm-ban-phao-hoa-7-diem-dip-30-4-5061076.html",
+      "summary": "Thành phố bắn pháo hoa 3 điểm tầm cao, 4 điểm tầm thấp ở cả 3 khu vực trung tâm TP HCM, Bình Dương và Bà Rịa Vũng Tàu cũ dịp 30/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T13:18:50+07:00",
+      "fetched": "2026-04-10T21:41:38.130803+07:00"
+    },
+    {
+      "id": "7430fb9c8b1ae7b346b126a38b5abc6b",
+      "title": "Ba người Hàn Quốc trốn truy nã đỏ của Interpol bị bắt tại Nha Trang",
+      "link": "https://vnexpress.net/ba-nguoi-han-quoc-tron-truy-na-do-cua-interpol-bi-bat-tai-nha-trang-5061068.html",
+      "summary": "Kim Hansaem, Park Gyoungmo, Cho Wooseok, đều quốc tịch Hàn Quốc, là những tội phạm lừa đảo bị truy nã quốc tế, đã bị bắt giữ tại Nha Trang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T13:13:55+07:00",
+      "fetched": "2026-04-10T21:41:38.130961+07:00"
+    },
+    {
+      "id": "1169aeb4d7afa2e6cbd50a2ad76e3584",
+      "title": "Jackpot gần 80 tỷ đồng có chủ",
+      "link": "https://vnexpress.net/jackpot-gan-80-ty-dong-co-chu-5061074.html",
+      "summary": "Tối 10/4, Vietlott đã xác định được một khách hàng trúng Jackpot trị giá gần 80 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T13:13:13+07:00",
+      "fetched": "2026-04-10T21:41:38.131139+07:00"
+    },
+    {
+      "id": "1169aeb4d7afa2e6cbd50a2ad76e3584",
+      "title": "Jackpot gần 80 tỷ đồng có chủ",
+      "link": "https://vnexpress.net/jackpot-gan-80-ty-dong-co-chu-5061074.html",
+      "summary": "Tối 10/4, Vietlott đã xác định được một khách hàng trúng Jackpot trị giá gần 80 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-10T13:13:13+07:00",
+      "fetched": "2026-04-10T21:41:48.098653+07:00"
+    },
+    {
+      "id": "3afc98c18a6d8c2ff0258b5ff7659ac6",
+      "title": "Iran tuyên bố không chấp nhận 'ngoại giao lừa dối'",
+      "link": "https://vnexpress.net/iran-tuyen-bo-khong-chap-nhan-ngoai-giao-lua-doi-5061066.html",
+      "summary": "Iran tuyên bố nước này sẵn sàng đối thoại, nhưng không chấp nhận \"ngoại giao lừa dối\", trong khi Mỹ cảnh báo Tehran không \"tìm cách lợi dụng\" Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T13:11:22+07:00",
+      "fetched": "2026-04-10T21:41:38.131304+07:00"
+    },
+    {
+      "id": "3afc98c18a6d8c2ff0258b5ff7659ac6",
+      "title": "Iran tuyên bố không chấp nhận 'ngoại giao lừa dối'",
+      "link": "https://vnexpress.net/iran-tuyen-bo-khong-chap-nhan-ngoai-giao-lua-doi-5061066.html",
+      "summary": "Iran tuyên bố nước này sẵn sàng đối thoại, nhưng không chấp nhận \"ngoại giao lừa dối\", trong khi Mỹ cảnh báo Tehran không \"tìm cách lợi dụng\" Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-10T13:11:22+07:00",
+      "fetched": "2026-04-10T21:41:46.017796+07:00"
+    },
+    {
+      "id": "8a2227e1de93aae6def4189dc0d40c86",
+      "title": "Nước nào có đèn giao thông đầu tiên trên thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-co-den-giao-thong-dau-tien-tren-the-gioi-5061065.html",
+      "summary": "Hệ thống đèn giao thông được nước này sử dụng đầu tiên vào năm 1868, vận hành bằng tay. Đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T13:00:03+07:00",
+      "fetched": "2026-04-10T21:41:38.131456+07:00"
+    },
+    {
+      "id": "7ac069932433c99c0d29fc33246495b3",
+      "title": "Điều gì xảy ra khi trẻ ăn phải thịt nhiễm tả lợn châu Phi?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-tre-an-phai-thit-nhiem-ta-lon-chau-phi-5060988.html",
+      "summary": "Ăn thịt lợn mắc dịch tả châu Phi chứa độc tố, nhiễm khuẩn có thể gây ngộ độc thực phẩm, tổn thương lớp tế bào biểu mô ruột, rối loạn chức năng hấp thu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T13:00:00+07:00",
+      "fetched": "2026-04-10T21:41:38.131608+07:00"
+    },
+    {
+      "id": "f8a757b6386198a8123c87da2a6cee20",
+      "title": "Xem nhanh 20h ngày 10.4: Nắng nóng đổ lửa, tài xế ám ảnh dừng đèn đỏ, chuyển sang mưu sinh đêm khuya",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-104-nang-nong-do-lua-tai-xe-am-anh-dung-den-do-chuyen-sang-muu-sinh-dem-khuya-185260410190438114.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 10.4 có nhiều tin tức đáng chú ý về: Nắng nóng: Tài xế chạy đêm ‘đỡ cực lại nhiều cuốc’, chuyên gia cảnh báo sốc nhiệt; nắng nóng 'nướng' mặt đường nhựa, dừng đèn đỏ cũng thành nỗi ám ảnh mưu sinh;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T13:00:00+07:00",
+      "fetched": "2026-04-10T21:41:43.042875+07:00"
+    },
+    {
+      "id": "033124f609943fe16cb821a983ea8877",
+      "title": "Váy chấm bi sang trọng, tinh tế mà vẫn lãng mạn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-cham-bi-sang-trong-tinh-te-ma-van-lang-man-185260402075732843.htm",
+      "summary": "Váy chấm bi là kiểu trang phục nữ tính, mang tinh thần của thời trang cổ điển qua các họa tiết chấm tròn nhỏ trên nền vải khác màu tương phản. Một chiếc váy chấm bi đẹp đủ để nàng thể hiện gu thời trang tinh tế, sang trọng và sự lãng mạn của tâm hồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T13:00:00+07:00",
+      "fetched": "2026-04-10T21:41:43.043038+07:00"
+    },
+    {
+      "id": "20c004588b6d33e441f905282a70e79d",
+      "title": "Bộ Nội vụ khẳng định sẽ không hoán đổi ngày làm việc để kéo dài nghỉ lễ",
+      "link": "https://thanhnien.vn/bo-noi-vu-khang-dinh-se-khong-hoan-doi-ngay-lam-viec-de-keo-dai-nghi-le-185260410194556285.htm",
+      "summary": "Không có chủ trương điều chỉnh lịch nghỉ và Bộ Nội vụ cũng không đề xuất phương án hoán đổi ngày làm việc để kéo dài kỳ nghỉ. Do đó, không có phương án hoán đổi để nghỉ liền 9 ngày trong dịp này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:58:00+07:00",
+      "fetched": "2026-04-10T21:41:43.043214+07:00"
+    },
+    {
+      "id": "120168af3b09dda4ebab3b969e708687",
+      "title": "Đội tuyển Việt Nam thua tiếc nuối trước Indonesia, lỡ hẹn chung kết futsal Đông Nam Á",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-thua-tiec-nuoi-truoc-indonesia-lo-hen-chung-ket-futsal-dong-nam-a-185260410192113193.htm",
+      "summary": "Đội tuyển Việt Nam tạo ra nhiều cơ hội nhưng không tận dụng thành công, chấp nhận thua 2-3 trước Indonesia và lỡ hẹn chung kết sau trận đấu đầy tiếc nuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:57:00+07:00",
+      "fetched": "2026-04-10T21:41:43.043363+07:00"
+    },
+    {
+      "id": "9c364ea1fd9142707d33612344e4f54d",
+      "title": "Phi công lo mất việc vì từ chối bay qua vùng chiến sự Trung Đông",
+      "link": "https://vnexpress.net/phi-cong-lo-mat-viec-vi-tu-choi-bay-qua-vung-chien-su-trung-dong-5061046.html",
+      "summary": "Nhiều phi công lo ngại bị kỷ luật, cắt lương hoặc sa thải nếu từ chối thực hiện các chuyến bay qua không phận Trung Đông trong bối cảnh xung đột leo thang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:45:55+07:00",
+      "fetched": "2026-04-10T21:41:38.131773+07:00"
+    },
+    {
       "id": "b009bfddc7801cac82b9c0c778cb49eb",
       "title": "Quyết định của Bộ Chính trị về nhân sự Đảng ủy Quốc hội nhiệm kỳ 2025 - 2030",
       "link": "https://thanhnien.vn/quyet-dinh-cua-bo-chinh-tri-ve-nhan-su-dang-uy-quoc-hoi-nhiem-ky-2025-2030-185260410191955189.htm",
@@ -611,6 +1011,16 @@ window.newsData_2026_04_10 = {
       "category": "Tổng hợp",
       "published": "2026-04-10T12:40:00+07:00",
       "fetched": "2026-04-10T19:46:32.251452+07:00"
+    },
+    {
+      "id": "7bae194f64a60548a6bfc90c6a93e8fe",
+      "title": "Bà Nguyễn Thị Như Loan bị phạt 18 tháng tù treo",
+      "link": "https://vnexpress.net/ba-nguyen-thi-nhu-loan-bi-phat-18-thang-tu-treo-5061063.html",
+      "summary": "Tòa áp dụng nhiều tình tiết giảm nhẹ cùng Nghị quyết 68, tuyên bà Nguyễn Thị Như Loan, cựu CEO Quốc Cường Gia Lai, 18 tháng tù nhưng được hưởng án treo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:37:07+07:00",
+      "fetched": "2026-04-10T21:41:38.131929+07:00"
     },
     {
       "id": "aa91f84c58fe2b9f475d9722bb4b499c",
@@ -771,6 +1181,56 @@ window.newsData_2026_04_10 = {
       "category": "Công nghệ",
       "published": "2026-04-10T12:00:00+07:00",
       "fetched": "2026-04-10T19:46:40.026848+07:00"
+    },
+    {
+      "id": "ec5cbbef65c0c7ea1fc4059edd000be4",
+      "title": "'Doanh nghiệp một người' của tôi 2 lần đổ bể vì không có tiền trả lương kế toán",
+      "link": "https://vnexpress.net/doanh-nghiep-mot-nguoi-cua-toi-2-lan-do-be-vi-khong-co-tien-tra-luong-ke-toan-5060960.html",
+      "summary": "Tôi hai lần mở 'doanh nghiệp một người' nhưng đều gặp khó khăn với 'khai báo kế toán'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T21:41:38.132104+07:00"
+    },
+    {
+      "id": "6aa38bd2cf292c436bf43b533d11bf26",
+      "title": "AI đang khiến sinh viên 'na ná nhau'",
+      "link": "https://vnexpress.net/ai-dang-khien-sinh-vien-na-na-nhau-5060802.html",
+      "summary": "Việc sinh viên sử dụng AI gây lo ngại khi nhiều bài luận, quan điểm cá nhân hiện có cách trình bày hoặc nội dung tương tự nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T21:41:38.132259+07:00"
+    },
+    {
+      "id": "9e20d26f8077ade229da92632b877f28",
+      "title": "Thời trang xa xỉ của HLV đội Real Madrid",
+      "link": "https://vnexpress.net/thoi-trang-xa-xi-cua-hlv-doi-real-madrid-5060955.html",
+      "summary": "Álvaro Arbeloa - huấn luyện viên Real Madrid - thường mặc thiết kế đắt tiền của Louis Vuitton, Brunello Cucinelli.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T21:41:38.132561+07:00"
+    },
+    {
+      "id": "9764cd69b45866626079e8cda8de6aa5",
+      "title": "VinFast bán gần 28.000 ôtô điện tháng 3",
+      "link": "https://vnexpress.net/vinfast-ban-gan-28-000-oto-dien-thang-3-5061059.html",
+      "summary": "VinFast tiếp tục là hãng ôtô bán chạy nhất thị trường Việt, mức tăng 127% so với cùng kỳ năm ngoái, cho thấy xu hướng người dùng chuyển đổi sang xe thuần điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T21:41:38.132711+07:00"
+    },
+    {
+      "id": "6aa38bd2cf292c436bf43b533d11bf26",
+      "title": "AI đang khiến sinh viên 'na ná nhau'",
+      "link": "https://vnexpress.net/ai-dang-khien-sinh-vien-na-na-nhau-5060802.html",
+      "summary": "Việc sinh viên sử dụng AI gây lo ngại khi nhiều bài luận, quan điểm cá nhân hiện có cách trình bày hoặc nội dung tương tự nhau.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T21:41:51.950959+07:00"
     },
     {
       "id": "12e448c748cec761cb3e73b6051afd06",
