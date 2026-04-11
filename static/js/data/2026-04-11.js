@@ -1,7 +1,127 @@
 window.newsData_2026_04_11 = {
   "date": "2026-04-11",
-  "lastUpdated": "2026-04-11T17:25:07.207000+07:00",
+  "lastUpdated": "2026-04-11T19:36:08.077231+07:00",
   "articles": [
+    {
+      "id": "ad3e56341e308194d77c3e23cb620732",
+      "title": "Tàu đang đậu trên sông Cần Lộc bốc cháy khói đen mịt mù, dân xịt nước dập lửa",
+      "link": "https://tuoitre.vn/tau-dang-dau-tren-song-can-loc-boc-chay-khoi-den-mit-mu-dan-xit-nuoc-dap-lua-20260411163928779.htm",
+      "summary": "Một chiếc tàu cá của người dân đang neo đậu ven sông Cần Lộc ở xã Gia Thuận, tỉnh Đồng Tháp bất ngờ bốc cháy dữ dội, thiêu rụi toàn bộ cabin và mặt trên của chiếc tàu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T19:35:58.642061+07:00",
+      "fetched": "2026-04-11T19:35:58.642151+07:00"
+    },
+    {
+      "id": "0bac122525e978ea0deb6f695d5be338",
+      "title": "Kiếm hàng trăm tỉ yen, manga Nhật vẫn bị độc giả trẻ 'quay lưng'?",
+      "link": "https://tuoitre.vn/kiem-hang-tram-ti-yen-manga-nhat-van-bi-doc-gia-tre-quay-lung-20260410232200411.htm",
+      "summary": "Dù đạt doanh thu kỷ lục, ngành công nghiệp manga tại Nhật Bản đang đối diện một vấn đề mang tính cấu trúc: ngày càng ít trẻ em và thanh thiếu niên đọc truyện, trong khi nền tảng số lại chưa đủ để giữ chân thế hệ mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T19:35:58.641950+07:00",
+      "fetched": "2026-04-11T19:35:58.642052+07:00"
+    },
+    {
+      "id": "a1f73e461e9bfcb44c08a0597fbd42e4",
+      "title": "Khô hạn ‘bủa vây’, dân trên đảo Hải Tặc tất bật trữ nước ngọt",
+      "link": "https://tuoitre.vn/kho-han-bua-vay-dan-tren-dao-hai-tac-tat-bat-tru-nuoc-ngot-20260411153213114.htm",
+      "summary": "Dân xã Tiên Hải (hay gọi đảo Hải Tặc, tỉnh An Giang) đang đối mặt với nguy cơ thiếu nước ngọt sử dụng vào mùa khô. Địa phương có cách gì đưa nước ngọt ra đảo phục vụ dân và phát triển du lịch?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T19:35:58.641853+07:00",
+      "fetched": "2026-04-11T19:35:58.641942+07:00"
+    },
+    {
+      "id": "750de10e537d53d1815797d398258d13",
+      "title": "Đang học thạc sĩ, chưa nhập ngũ, có dự tuyển viên chức quốc phòng?",
+      "link": "https://tuoitre.vn/dang-hoc-thac-si-chua-nhap-ngu-co-du-tuyen-vien-chuc-quoc-phong-20260411155957778.htm",
+      "summary": "Đã tốt nghiệp đại học, đang học thạc sĩ nhưng chưa nhập ngũ hay qua đào tạo sĩ quan dự bị, nhưng muốn dự tuyển viên chức quốc phòng. Bộ Quốc phòng nói gì về trường hợp này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T19:35:58.641751+07:00",
+      "fetched": "2026-04-11T19:35:58.641841+07:00"
+    },
+    {
+      "id": "029bdbf636d62c5524bed849d7d7daa1",
+      "title": "Cô gái đi xe máy chui ra từ gầm xe ben khiến nhiều người thót tim",
+      "link": "https://tuoitre.vn/co-gai-di-xe-may-chui-ra-tu-gam-xe-ben-khien-nhieu-nguoi-thot-tim-20260411091624726.htm",
+      "summary": "Tai nạn tại một giao lộ ở Trung Quốc một lần nữa gióng lên hồi chuông cảnh báo về \"điểm mù chết người\" của xe ben - nơi chỉ một khoảnh khắc bất cẩn có thể dẫn đến hậu quả nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T19:35:58.641652+07:00",
+      "fetched": "2026-04-11T19:35:58.641743+07:00"
+    },
+    {
+      "id": "72bc1ba81ba04783979602c920ac9874",
+      "title": "Conan Movie 29 khởi đầu bùng nổ nhất lịch sử phòng vé Nhật",
+      "link": "https://tuoitre.vn/conan-movie-29-khoi-dau-bung-no-nhat-lich-su-phong-ve-nhat-20260411161545277.htm",
+      "summary": "Sau thời gian mòn mỏi chờ đợi, phim hoạt hình Conan Movie 29: Thiên thần sa ngã trên xa lộ, chuyển thể từ manga của Gosho Aoyama, chính thức ra rạp ở Nhật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T19:35:58.641553+07:00",
+      "fetched": "2026-04-11T19:35:58.641644+07:00"
+    },
+    {
+      "id": "1959ea1eea79d89317974310aa47dd2b",
+      "title": "Không để gián đoạn nhiên liệu thi công sân bay Long Thành và các dự án trọng điểm",
+      "link": "https://tuoitre.vn/khong-de-gian-doan-nhien-lieu-thi-cong-san-bay-long-thanh-va-cac-du-an-trong-diem-20260411165232197.htm",
+      "summary": "Tỉnh Đồng Nai vừa yêu cầu rà soát nguồn cung ứng nhiên liệu để cung cấp đầy đủ, liên tục cho các nhà thầu thi công dự án sân bay Long Thành và các dự án, công trình trọng điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T19:35:58.641454+07:00",
+      "fetched": "2026-04-11T19:35:58.641544+07:00"
+    },
+    {
+      "id": "bd2267e80fa891dd8e718b17c7d5578b",
+      "title": "Mỹ sẽ giải phóng hơn 6 tỉ USD tài sản của Iran bị phong tỏa  ở Qatar?",
+      "link": "https://tuoitre.vn/my-se-giai-phong-hon-6-ti-usd-tai-san-cua-iran-bi-phong-toa-o-qatar-20260411172753582.htm",
+      "summary": "Một nguồn tin Iran tiết lộ Mỹ đã đồng ý giải phóng các tài sản bị đóng băng của Iran ở Qatar và các ngân hàng nước ngoài khác trước thềm đàm phán tại Pakistan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T19:35:58.641349+07:00",
+      "fetched": "2026-04-11T19:35:58.641445+07:00"
+    },
+    {
+      "id": "8556c04c3572ebef36e43ccaddb2f047",
+      "title": "Perfect Crown bùng nổ rating từ tập 1, IU 'mặt dày' cầu hôn Byeon Woo Seok",
+      "link": "https://tuoitre.vn/perfect-crown-bung-no-rating-tu-tap-1-iu-mat-day-cau-hon-byeon-woo-seok-20260411152513427.htm",
+      "summary": "Perfect Crown của bộ đôi IU, Byeon Woo Seok có mở màn thuận lợi khi ghi nhận mức rating 7,8% trên toàn quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T19:35:58.641245+07:00",
+      "fetched": "2026-04-11T19:35:58.641340+07:00"
+    },
+    {
+      "id": "98895ebea6231fb3f0523c6d8915161d",
+      "title": "Việt Nam và Lào tăng cường hợp tác an ninh",
+      "link": "https://tuoitre.vn/viet-nam-va-lao-tang-cuong-hop-tac-an-ninh-20260411172900569.htm",
+      "summary": "Trong hai ngày 9 và 10-4, Việt Nam và Lào tổ chức Hội nghị hợp tác an ninh tại Vientiane. Trong đó trao đổi thông tin, phối hợp phòng, chống tác động từ các mối đe dọa an ninh đến hai nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T19:35:58.641132+07:00",
+      "fetched": "2026-04-11T19:35:58.641235+07:00"
+    },
+    {
+      "id": "9bc3663b549c3470f8d4fab8d6723aea",
+      "title": "Lộ trình chặng 9 cuộc đua xe đạp Cúp truyền hình TP.HCM 2026",
+      "link": "https://tuoitre.vn/lo-trinh-chang-9-cuoc-dua-xe-dap-cup-truyen-hinh-tp-hcm-2026-20260411174346011.htm",
+      "summary": "Ngày 12-4, cuộc đua xe đạp toàn quốc Cúp truyền hình TP.HCM HTV - Tôn Đông Á 2026 sẽ trở lại sau 1 ngày nghỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T19:35:58.640978+07:00",
+      "fetched": "2026-04-11T19:35:58.641115+07:00"
+    },
+    {
+      "id": "c8640757ce77bbcbd8d75a372f739b2f",
+      "title": "Nắng nóng ở Thanh Hóa khiến trẻ em và người già nhập viện tăng 20-50%",
+      "link": "https://tuoitre.vn/nang-nong-o-thanh-hoa-khien-tre-em-va-nguoi-gia-nhap-vien-tang-20-50-20260411172858197.htm",
+      "summary": "Trong những ngày đầu tháng 4, tại Thanh Hóa có nắng nóng kéo dài, với nền nhiệt từ 36 - 38 độ C. Nắng nóng đầu mùa đã ảnh hưởng đến sức khỏe người dân, nhất là trẻ em, người già với số bệnh nhân nhập viện gia tăng từ 20-50%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T19:35:58.640739+07:00",
+      "fetched": "2026-04-11T19:35:58.640964+07:00"
+    },
     {
       "id": "134dfaaabc36eaf3a2e57c595cee2c43",
       "title": "Mưu sinh giữa nóng thiêu đốt ở 'chảo lửa' 40 độ C",
@@ -383,6 +503,186 @@ window.newsData_2026_04_11 = {
       "fetched": "2026-04-11T13:50:20.491375+07:00"
     },
     {
+      "id": "6fa56acccf8e2d1ebe8266038012ab84",
+      "title": "Khách Tây quảng bá ẩm thực TP.HCM: Mê phở, bánh mì đến… hột vịt lộn, bún mắm",
+      "link": "https://thanhnien.vn/khach-tay-quang-ba-am-thuc-tphcm-me-pho-banh-mi-den-hot-vit-lon-bun-mam-18526040915452953.htm",
+      "summary": "Không chỉ mê phở, bánh mì, bún bò nhiều khách Tây còn ghiền cả hột vịt lộn, bún đậu mắm tôm, chuột đồng... Thông qua mạng xã hội, nhiều người nhiệt tình giới thiệu, quảng bá ẩm thực TP.HCM nói riêng và ẩm thực Việt nói chung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:30:00+07:00",
+      "fetched": "2026-04-11T19:35:57.492097+07:00"
+    },
+    {
+      "id": "d4a1367578cd6d2a8ab123b33a5ce68c",
+      "title": "Cuộc thi giải toán trên máy tính cầm tay 'tái xuất' tại Hà Nội",
+      "link": "https://thanhnien.vn/cuoc-thi-giai-toan-tren-may-tinh-cam-tay-tai-xuat-tai-ha-noi-185260411181759399.htm",
+      "summary": "Kỳ thi giải toán trên máy tính cầm tay được Sở GD-ĐT Hà Nội tổ chức trở lại sau nhiều năm gián đoạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:27:00+07:00",
+      "fetched": "2026-04-11T19:35:57.492252+07:00"
+    },
+    {
+      "id": "e57b640e60a62d4978d2593421111876",
+      "title": "Hồi sinh khu Casino Đồ Sơn với dự án hơn 2.100 tỷ đồng",
+      "link": "https://vnexpress.net/hoi-sinh-khu-casino-do-son-voi-du-an-hon-2-100-ty-dong-5061288.html",
+      "summary": "Dự án Trung tâm Hội nghị, thương mại và du lịch quốc tế Hải Phòng sẽ được xây tại khu đất Casino Đồ Sơn, diện tích 25 ha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:18:03+07:00",
+      "fetched": "2026-04-11T19:35:53.917969+07:00"
+    },
+    {
+      "id": "55604c143ed635f364d12b185bfdffe5",
+      "title": "Trò cưng Soobin Hoàng Sơn bị loại khỏi 'Tân binh toàn năng' giờ ra sao?",
+      "link": "https://thanhnien.vn/tro-cung-soobin-hoang-son-bi-loai-khoi-tan-binh-toan-nang-gio-ra-sao-185260411172415967.htm",
+      "summary": "Dừng lại khá sớm tại Tân binh toàn năng, Hồ Đông Quan vẫn theo đuổi con đường trở thành 'idol toàn năng' với vai trò solo. Việc ra mắt MV 'Ngày đẹp trời mà em không tới' cùng các dự án trong tháng 4 đánh dấu bước chuyển mình rõ rệt trong hành trình âm nhạc của ca sĩ - diễn viên 9X.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:18:00+07:00",
+      "fetched": "2026-04-11T19:35:57.492383+07:00"
+    },
+    {
+      "id": "16de2049ffda7fbed7913d52bfe10e42",
+      "title": "PANACO - Đơn vị lắp đặt thiết bị an ninh hàng đầu tại Việt Nam",
+      "link": "https://thanhnien.vn/panaco-don-vi-lap-dat-thiet-bi-an-ninh-hang-dau-tai-viet-nam-185260411191946662.htm",
+      "summary": "PANACO là đơn vị tiên phong trong lĩnh vực phân phối và thi công trọn gói hệ thống an ninh hiện đại. Với bề dày kinh nghiệm thực chiến, chúng tôi mang đến giải pháp bảo vệ toàn diện từ camera giám sát, khóa cửa vân tay, máy chấm công đến hệ thống nhà thông minh. Các giải pháp này được thiết kế linh ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:14:00+07:00",
+      "fetched": "2026-04-11T19:35:57.492512+07:00"
+    },
+    {
+      "id": "251d05f3b11799dc120bed309f47b5a3",
+      "title": "Vingroup nhận thêm 47,2 ha đất tại 'đảo tỷ phú' ở Hải Phòng",
+      "link": "https://vnexpress.net/vingroup-nhan-them-47-2-ha-dat-tai-dao-ty-phu-o-hai-phong-5061277.html",
+      "summary": "Hải Phòng vừa giao cho Vingroup thêm 47,2 ha đất để làm nhà ở thương mại trên đảo Vũ Yên, hay còn được gọi là 'đảo tỷ phú'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:12:11+07:00",
+      "fetched": "2026-04-11T19:35:53.918151+07:00"
+    },
+    {
+      "id": "8fdc7a9007a5a240147450974f3cff57",
+      "title": "Xe khách giường nằm cháy ngùn ngụt trên quốc lộ",
+      "link": "https://vnexpress.net/xe-khach-giuong-nam-chay-ngun-ngut-tren-quoc-lo-5061287.html",
+      "summary": "Ôtô khách giường nằm chạy qua xã Tu Bông bất ngờ cháy từ phía sau, tài xế cùng hành khách kịp thoát trước khi lửa bao trùm, thiêu rụi xe, chiều 11/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:06:25+07:00",
+      "fetched": "2026-04-11T19:35:53.918295+07:00"
+    },
+    {
+      "id": "7bcae122b4699ee9841f5fe6bc645fad",
+      "title": "Hoàng tử Harry bị tổ chức từ thiện do chính mình thành lập khởi kiện",
+      "link": "https://thanhnien.vn/hoang-tu-harry-bi-to-chuc-tu-thien-do-chinh-minh-thanh-lap-khoi-kien-185260411173654059.htm",
+      "summary": "Hoàng tử Harry vừa bị tổ chức từ thiện Sentebale do anh đồng sáng lập đệ đơn kiện với cáo buộc phỉ báng. Hồ sơ tòa án cũng cho thấy cựu ủy viên hội đồng quản trị Mark Dyer là đồng bị đơn trong vụ việc này, Variety đưa tin ngày 10.4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:06:00+07:00",
+      "fetched": "2026-04-11T19:35:57.492636+07:00"
+    },
+    {
+      "id": "cdebd2ad4d5571d41c6b6e8f1d23bd64",
+      "title": "Cách phòng ngừa viêm gan B khi chung sống với người bệnh",
+      "link": "https://vnexpress.net/cach-phong-ngua-viem-gan-b-khi-chung-song-voi-nguoi-benh-5061245.html",
+      "summary": "Hơn 30 năm chung sống với vợ mắc viêm gan B, anh Vương, 50 tuổi ở Phú Yên, luôn tuân thủ tiêm vaccine, khám định kỳ để tránh nhiễm bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:00:00+07:00",
+      "fetched": "2026-04-11T19:35:53.918430+07:00"
+    },
+    {
+      "id": "fdbd74a26c5e069e64e622652c1a2622",
+      "title": "Lê Phương tiết lộ cảnh quay ‘đau đớn đến kiệt sức’ trong ‘Bóng ma hạnh phúc’",
+      "link": "https://thanhnien.vn/le-phuong-tiet-lo-canh-quay-dau-don-den-kiet-suc-trong-bong-ma-hanh-phuc-185260411165952069.htm",
+      "summary": "Phim 'Bóng ma hạnh phúc' có Lê Phương đóng chính cùng Lương Thế Thành đang 'gây bão' mạng xã hội. Nữ diễn viên tiết lộ cảnh quay khiến cô kiệt sức vì diễn tâm lý nặng nề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:55:00+07:00",
+      "fetched": "2026-04-11T19:35:57.492756+07:00"
+    },
+    {
+      "id": "878f97c119f4abbfaa260252c6b4cad5",
+      "title": "Chồng cũ yêu cầu Cardi B xét nghiệm ADN cho các con",
+      "link": "https://thanhnien.vn/chong-cu-yeu-cau-cardi-b-xet-nghiem-adn-cho-cac-con-185260411164123547.htm",
+      "summary": "Căng thẳng ly hôn kéo dài giữa Cardi B và chồng cũ Offset tiếp tục 'leo thang' khi nam rapper bất ngờ yêu cầu tòa án tiến hành xét nghiệm ADN đối với các con của nữ ca sĩ, làm dấy lên làn sóng tranh cãi trong dư luận, TMZ đưa tin ngày 10.4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:43:00+07:00",
+      "fetched": "2026-04-11T19:35:57.492879+07:00"
+    },
+    {
+      "id": "3c4ace01a57186421e5db46d0628bd28",
+      "title": "Anh hoãn trao trả quần đảo Chagos vì Mỹ phản đối",
+      "link": "https://vnexpress.net/anh-hoan-trao-tra-quan-dao-chagos-vi-my-phan-doi-5061253.html",
+      "summary": "Chính phủ Anh hoãn kế hoạch trả quần đảo Chagos cho Mauritius vì không nhận được ủng hộ từ Mỹ, đồng minh đang cùng vận hành căn cứ tại đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:40:46+07:00",
+      "fetched": "2026-04-11T19:35:53.918559+07:00"
+    },
+    {
+      "id": "3c4ace01a57186421e5db46d0628bd28",
+      "title": "Anh hoãn trao trả quần đảo Chagos vì Mỹ phản đối",
+      "link": "https://vnexpress.net/anh-hoan-trao-tra-quan-dao-chagos-vi-my-phan-doi-5061253.html",
+      "summary": "Chính phủ Anh hoãn kế hoạch trả quần đảo Chagos cho Mauritius vì không nhận được ủng hộ từ Mỹ, đồng minh đang cùng vận hành căn cứ tại đây.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-11T11:40:46+07:00",
+      "fetched": "2026-04-11T19:36:00.763450+07:00"
+    },
+    {
+      "id": "d35c01516ddc458f214ff382f2d8249a",
+      "title": "VnExpress Marathon Huế mở rộng top trao thưởng",
+      "link": "https://vnexpress.net/vnexpress-marathon-hue-mo-rong-top-trao-thuong-5061284.html",
+      "summary": "VnExpress Marathon Huế 2026 mở rộng top trao thưởng chung cuộc nhằm tăng cơ hội nhận giải cho các VĐV với quỹ thưởng hàng trăm triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:40:00+07:00",
+      "fetched": "2026-04-11T19:35:53.918687+07:00"
+    },
+    {
+      "id": "7e2ddb6d2b29298a87c9b846280fc7f1",
+      "title": "Khách đổ đến hội chợ du lịch tìm tour giá rẻ",
+      "link": "https://vnexpress.net/khach-do-den-hoi-cho-du-lich-tim-tour-gia-re-5061090.html",
+      "summary": "Nhiều người tìm đến hội chợ du lịch VITM 2026 để tìm các tour giá tốt trong bối cảnh chi phí du lịch tăng cao do biến động xăng dầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:30:07+07:00",
+      "fetched": "2026-04-11T19:35:53.918810+07:00"
+    },
+    {
+      "id": "66518b16d9976fae5e808336d27a7255",
+      "title": "Giảm tải gánh nặng thủ tục giấy tờ cho bệnh nhân tại Bệnh viện Đại học Y Dược TP.HCM",
+      "link": "https://thanhnien.vn/giam-tai-ganh-nang-thu-tuc-giay-to-cho-benh-nhan-tai-benh-vien-dai-hoc-y-duoc-tphcm-185260411171000736.htm",
+      "summary": "Với đề án số hóa bảo hiểm y tế vừa đạt giải Nhất “Cuộc thi Giải pháp Marketing Trải nghiệm”, Bệnh viện Đại học Y Dược TP.HCM đang từng bước hiện thực hóa mô hình y tế “không giấy tờ”, gỡ bỏ hoàn toàn gánh nặng thủ tục hành chính qua ứng dụng UMC Care.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:30:00+07:00",
+      "fetched": "2026-04-11T19:35:57.493011+07:00"
+    },
+    {
+      "id": "543350bd94e57d7caf197ae88aeaa300",
+      "title": "Tăng Duy Tân, Bích Phương công khai hẹn hò",
+      "link": "https://vnexpress.net/tang-duy-tan-bich-phuong-cong-khai-hen-ho-5061273.html",
+      "summary": "Ca sĩ Tăng Duy Tân, Bích Phương xác nhận mối quan hệ thông qua loạt hình ảnh tay trong tay dự sự kiện, đi du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:24:20+07:00",
+      "fetched": "2026-04-11T19:35:53.918937+07:00"
+    },
+    {
+      "id": "4c7cfff34b9130ef2c9bbb10e5590b4c",
+      "title": "Gmail tung mã hóa đầu cuối cho ứng dụng di động",
+      "link": "https://thanhnien.vn/gmail-tung-ma-hoa-dau-cuoi-cho-ung-dung-di-dong-185260411133703199.htm",
+      "summary": "Google cập nhật tính năng mã hóa đầu cuối cho Gmail trên Android và iOS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:15:00+07:00",
+      "fetched": "2026-04-11T19:35:57.493135+07:00"
+    },
+    {
       "id": "98632e50d11a6f5605c735c6c127cce1",
       "title": "Đếm ngược đến 15-4: Làm gì để không bị khóa SIM?",
       "link": "https://tuoitre.vn/dem-nguoc-den-15-4-lam-gi-de-khong-bi-khoa-sim-20260411083943218.htm",
@@ -533,6 +833,166 @@ window.newsData_2026_04_11 = {
       "fetched": "2026-04-11T11:12:27.814391+07:00"
     },
     {
+      "id": "4cc57e747fe56d1e4117b40df93ed95c",
+      "title": "Đề xuất nâng ngưỡng thu nhập xác định người phụ thuộc lên 3 - 4,5 triệu đồng",
+      "link": "https://thanhnien.vn/de-xuat-nang-nguong-thu-nhap-xac-dinh-nguoi-phu-thuoc-len-3-45-trieu-dong-185260411172238663.htm",
+      "summary": "Các chuyên gia đề xuất, cần nhanh chóng nâng ngưỡng thu nhập làm căn cứ xác định người phụ thuộc lên khoảng 3 - 4,5 triệu đồng/tháng, bởi mức 1 triệu đồng/tháng duy trì gần 13 năm đã quá lạc hậu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:10:00+07:00",
+      "fetched": "2026-04-11T19:35:57.493261+07:00"
+    },
+    {
+      "id": "cd78f3067498b2ab7c13f7b67f918f4a",
+      "title": "YouTube thừa nhận lỗi sau sự cố quảng cáo 90 giây trên TV",
+      "link": "https://thanhnien.vn/youtube-thua-nhan-loi-sau-su-co-quang-cao-90-giay-tren-tv-185260411151118075.htm",
+      "summary": "YouTube đã lên tiếng về quảng cáo 90 giây gây tranh cãi khi cho biết lỗi phần mềm làm sai lệch bộ đếm thời gian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:09:00+07:00",
+      "fetched": "2026-04-11T19:35:57.493376+07:00"
+    },
+    {
+      "id": "be1bf8813f8069eb5c3996d35cb0afae",
+      "title": "Cận cảnh đập dâng hạ lưu sông Trà Khúc trước ngày vận hành tích nước thử nghiệm",
+      "link": "https://thanhnien.vn/can-canh-dap-dang-ha-luu-song-tra-khuc-truoc-ngay-van-hanh-tich-nuoc-thu-nghiem-18526041117254106.htm",
+      "summary": "Chủ đầu tư dự án đập dâng hạ lưu sông Trà Khúc yêu cầu các địa phương thông báo đến người dân thu dọn hoa màu trên đất bãi bồi ven sông nhằm tránh thiệt hại khi tích nước, vận hành thử công trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:07:00+07:00",
+      "fetched": "2026-04-11T19:35:57.493490+07:00"
+    },
+    {
+      "id": "a9424061381ec32d2976c81f5a27a94c",
+      "title": "Nữ sinh tử vong khi cứu bạn đuối nước ở biển Cửa Lò",
+      "link": "https://vnexpress.net/nu-sinh-tu-vong-khi-cuu-ban-duoi-nuoc-o-bien-cua-lo-5061267.html",
+      "summary": "Nữ sinh 17 tuổi lao xuống biển cứu bạn bị sóng cuốn, đưa được nạn nhân vào gần bờ nhưng kiệt sức, bị dòng nước cuốn ra xa và tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:02:02+07:00",
+      "fetched": "2026-04-11T19:35:53.919084+07:00"
+    },
+    {
+      "id": "13037753fe996330c433e55d89746f70",
+      "title": "Tăng gấp đôi mức phạt với hành vi ngoại tình, từ 18/5",
+      "link": "https://vnexpress.net/tang-gap-doi-muc-phat-voi-hanh-vi-ngoai-tinh-tu-18-5-5061261.html",
+      "summary": "Theo quy định mới, người đang có vợ, chồng mà kết hôn hoặc chung sống như vợ chồng với người khác có thể bị phạt 5-10 triệu đồng, gấp đôi mức cũ là 3-5 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:01:45+07:00",
+      "fetched": "2026-04-11T19:35:53.919218+07:00"
+    },
+    {
+      "id": "34f59ddd71296a573beea3fbf9df79dd",
+      "title": "Bạn trai từ chối quay lại để đi nước ngoài kiếm tiền",
+      "link": "https://vnexpress.net/ban-trai-tu-choi-quay-lai-de-di-nuoc-ngoai-kiem-tien-5061001.html",
+      "summary": "Anh quyết bỏ tôi ở lại dẫu còn yêu tôi sao; tôi thật không tin anh có thể làm được điều đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:00:00+07:00",
+      "fetched": "2026-04-11T19:35:53.919346+07:00"
+    },
+    {
+      "id": "08053cc28f0b55bf2e73773ce2f5eaac",
+      "title": "Hàng chục nghìn nhân sự công nghệ 'bị sa thải vì AI'",
+      "link": "https://vnexpress.net/hang-chuc-nghin-nhan-su-cong-nghe-bi-sa-thai-vi-ai-5060956.html",
+      "summary": "Thị trường việc làm công nghệ quý I/2026 chứng kiến gần 80.000 người bị cho thôi việc, nhưng cũng có hàng chục nghìn vị trí mới cần tuyển dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:00:00+07:00",
+      "fetched": "2026-04-11T19:35:53.919471+07:00"
+    },
+    {
+      "id": "881b62cdd4014ea5213cb73a5fb6baf3",
+      "title": "Phối blazer với quần jeans, cặp đôi thời trang tối giản hợp với mọi cô gái",
+      "link": "https://thanhnien.vn/thoi-trang-tre/phoi-blazer-voi-quan-jeans-cap-doi-thoi-trang-toi-gian-hop-voi-moi-co-gai-185260409160036209.htm",
+      "summary": "Phối blazer với quần jeans là công thức lên đồ đơn giản nhưng hiệu quả với mọi vóc dáng. Cặp đôi thời trang tối giản này mang đến cách phối đồ dễ dàng và ấn tượng qua các ý tưởng làm mới về chất liệu và màu sắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T11:00:00+07:00",
+      "fetched": "2026-04-11T19:35:57.493607+07:00"
+    },
+    {
+      "id": "08053cc28f0b55bf2e73773ce2f5eaac",
+      "title": "Hàng chục nghìn nhân sự công nghệ 'bị sa thải vì AI'",
+      "link": "https://vnexpress.net/hang-chuc-nghin-nhan-su-cong-nghe-bi-sa-thai-vi-ai-5060956.html",
+      "summary": "Thị trường việc làm công nghệ quý I/2026 chứng kiến gần 80.000 người bị cho thôi việc, nhưng cũng có hàng chục nghìn vị trí mới cần tuyển dụng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-11T11:00:00+07:00",
+      "fetched": "2026-04-11T19:36:06.171440+07:00"
+    },
+    {
+      "id": "194a9085785c963cf652825b3db3e293",
+      "title": "Cận cảnh 'siêu dự án' 11.000 tỉ đồng hoang tàn trên đất vàng ở Đà Nẵng",
+      "link": "https://thanhnien.vn/can-canh-sieu-du-an-11000-ti-dong-hoang-tan-tren-dat-vang-o-da-nang-185260411145117424.htm",
+      "summary": "Từng một thời 'làm mưa làm gió' trên thị trường bất động sản nghỉ dưỡng khi mời siêu sao bóng đá Cristiano Ronaldo quảng bá, Cocobay Đà Nẵng giờ đây chỉ còn là những khối bê tông xám xịt, phơi mình cùng nắng gió.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T10:59:00+07:00",
+      "fetched": "2026-04-11T19:35:57.493724+07:00"
+    },
+    {
+      "id": "e9d7c116a61e0243ebcf1a6790d6c30d",
+      "title": "Xuất khẩu thanh long sang Thái Lan, Trung Đông tăng mạnh",
+      "link": "https://vnexpress.net/xuat-khau-thanh-long-sang-thai-lan-trung-dong-tang-manh-5061211.html",
+      "summary": "Xuất khẩu thanh long phục hồi trong 2 tháng đầu năm, với lực kéo rõ rệt từ Thái Lan và UAE, trong khi Trung Quốc - thị trường dẫn đầu ổn định trở lại sau giai đoạn giảm sâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T10:43:20+07:00",
+      "fetched": "2026-04-11T19:35:53.919589+07:00"
+    },
+    {
+      "id": "e9d7c116a61e0243ebcf1a6790d6c30d",
+      "title": "Xuất khẩu thanh long sang Thái Lan, Trung Đông tăng mạnh",
+      "link": "https://vnexpress.net/xuat-khau-thanh-long-sang-thai-lan-trung-dong-tang-manh-5061211.html",
+      "summary": "Xuất khẩu thanh long phục hồi trong 2 tháng đầu năm, với lực kéo rõ rệt từ Thái Lan và UAE, trong khi Trung Quốc - thị trường dẫn đầu ổn định trở lại sau giai đoạn giảm sâu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-11T10:43:20+07:00",
+      "fetched": "2026-04-11T19:36:02.701665+07:00"
+    },
+    {
+      "id": "a8fd6485420b722050f09a469ccb086f",
+      "title": "Rory McIlroy bứt phá ở Masters 2026",
+      "link": "https://vnexpress.net/rory-mcilroy-but-pha-o-masters-2026-5061269.html",
+      "summary": "Sau khi đứng T1 cùng Sam Burns, golfer người Bắc Ireland Rory McIlroy vươn lên độc chiếm vị trí dẫn đầu ở điểm -12 với cách biệt sáu gậy sau vòng 2 Masters 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T10:39:56+07:00",
+      "fetched": "2026-04-11T19:35:53.919703+07:00"
+    },
+    {
+      "id": "a8fd6485420b722050f09a469ccb086f",
+      "title": "Rory McIlroy bứt phá ở Masters 2026",
+      "link": "https://vnexpress.net/rory-mcilroy-but-pha-o-masters-2026-5061269.html",
+      "summary": "Sau khi đứng T1 cùng Sam Burns, golfer người Bắc Ireland Rory McIlroy vươn lên độc chiếm vị trí dẫn đầu ở điểm -12 với cách biệt sáu gậy sau vòng 2 Masters 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-11T10:39:56+07:00",
+      "fetched": "2026-04-11T19:36:08.066685+07:00"
+    },
+    {
+      "id": "3ca7d922e186bf291be653c6076eeb03",
+      "title": "TP.HCM: Giả vờ chuộc đồ, thanh niên giật 2 điện thoại tẩu thoát",
+      "link": "https://thanhnien.vn/tphcm-gia-vo-chuoc-do-thanh-nien-giat-2-dien-thoai-tau-thoat-185260411151642482.htm",
+      "summary": "Vờ chuộc tài sản rồi giật 2 điện thoại di động tại tiệm cầm đồ, nam thanh niên bị Công an phường Hòa Hưng (TP.HCM) truy xét, bắt giữ nhanh chóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T10:35:00+07:00",
+      "fetched": "2026-04-11T19:35:57.493840+07:00"
+    },
+    {
+      "id": "137bafaf5672a7a4ee4364d9a335fb11",
+      "title": "Điểm tin 17h: Nhà mạng khuyến khích xác thực thông tin thuê bao trước ngày quy định | Đề xuất bỏ xác nhận độc thân khi đăng ký hộ tịch",
+      "link": "https://vnexpress.net/diem-tin-17h-nha-mang-khuyen-khich-xac-thuc-thong-tin-thue-bao-truoc-ngay-quy-dinh-de-xuat-bo-xac-nhan-doc-than-khi-dang-ky-ho-tich-5061270.html",
+      "summary": "Công chứng viên không chụp ảnh cùng khách hàng sẽ bị phạt 7-10 triệu đồng; Phái đoàn Mỹ, Iran đến Islamabad, chuẩn bị đàm phán...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T10:33:57+07:00",
+      "fetched": "2026-04-11T19:35:53.919825+07:00"
+    },
+    {
       "id": "87966e0453afeb973c95d08deb8eb9d5",
       "title": "Những dấu hiệu nhỏ nhưng nguy hiểm với ổ cứng gắn ngoài",
       "link": "https://thanhnien.vn/nhung-dau-hieu-nho-nhung-nguy-hiem-voi-o-cung-gan-ngoai-185260409142818371.htm",
@@ -541,6 +1001,16 @@ window.newsData_2026_04_11 = {
       "category": "Tổng hợp",
       "published": "2026-04-11T10:24:00+07:00",
       "fetched": "2026-04-11T17:24:58.099215+07:00"
+    },
+    {
+      "id": "5ac1c45017812afbae17d61cd81f367d",
+      "title": "Nga - Ukraine tập kích nhau trước giờ ngừng bắn",
+      "link": "https://vnexpress.net/nga-ukraine-tap-kich-nhau-truoc-gio-ngung-ban-5061263.html",
+      "summary": "Quân đội Nga, Ukraine phóng nhiều đợt drone nhằm vào nhau, vài tiếng trước khi lệnh ngừng bắn 32 giờ nhân dịp lễ Phục sinh có hiệu lực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-11T10:22:18+07:00",
+      "fetched": "2026-04-11T19:36:00.763627+07:00"
     },
     {
       "id": "269e7e0964bdc2b3dc9c25e237ec344e",
