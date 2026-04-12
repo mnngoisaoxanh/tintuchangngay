@@ -1,7 +1,157 @@
 window.newsData_2026_04_12 = {
   "date": "2026-04-12",
-  "lastUpdated": "2026-04-12T11:39:30.666359+07:00",
+  "lastUpdated": "2026-04-12T14:03:31.491827+07:00",
   "articles": [
+    {
+      "id": "c92ebd9995e3a69e038861d27ac7dd75",
+      "title": "Những chia sẻ đầu tiên của phi hành đoàn Artemis II sau khi trở về Trái đất",
+      "link": "https://tuoitre.vn/nhung-chia-se-dau-tien-cua-phi-hanh-doan-artemis-ii-sau-khi-tro-ve-trai-dat-2026041212212212.htm",
+      "summary": "Phi hành đoàn Artemis II đã nhận được sự chào đón nồng nhiệt tại Houston khi trở về sau chuyến bay lịch sử quanh Mặt trăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.317305+07:00",
+      "fetched": "2026-04-12T14:03:25.317410+07:00"
+    },
+    {
+      "id": "c6e9fc8b37506732e4db65f3539c94d4",
+      "title": "Thủ tướng dự lễ khởi công dự án tuyến đường sắt tốc độ cao Hà Nội - Quảng Ninh",
+      "link": "https://tuoitre.vn/thu-tuong-du-le-khoi-cong-du-an-tuyen-duong-sat-toc-do-cao-ha-noi-quang-ninh-20260412124334284.htm",
+      "summary": "Sáng 12-4, tại Quảng Ninh, Thủ tướng Chính phủ Lê Minh Hưng đã dự lễ khởi công xây dựng tuyến đường sắt tốc độ cao Hà Nội - Quảng Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.317198+07:00",
+      "fetched": "2026-04-12T14:03:25.317295+07:00"
+    },
+    {
+      "id": "f703ef0ecdc59a707c2e0d4396539e57",
+      "title": "Đồng Nai nghiên cứu lập Sở Quy hoạch - Kiến trúc và yêu cầu điều chỉnh con dấu, thông tin cư trú",
+      "link": "https://tuoitre.vn/dong-nai-nghien-cuu-lap-so-quy-hoach-kien-truc-va-yeu-cau-dieu-chinh-con-dau-thong-tin-cu-tru-2026041212180478.htm",
+      "summary": "Để chuẩn bị thành lập thành phố Đồng Nai, lãnh đạo UBND tỉnh Đồng Nai vừa giao nhiệm vụ cụ thể cho từng sở ngành nhưng yêu cầu không để gián đoạn công việc, đồng thời chỉ đạo nghiên cứu lập Sở Quy hoạch - Kiến trúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.317089+07:00",
+      "fetched": "2026-04-12T14:03:25.317188+07:00"
+    },
+    {
+      "id": "b0624d045eb0c9d98baa211392a6954d",
+      "title": "Chuẩn hóa giảng viên đại học",
+      "link": "https://tuoitre.vn/chuan-hoa-giang-vien-dai-hoc-2026041212544883.htm",
+      "summary": "Không nên đánh giá giảng viên chỉ bằng số lượng bài báo, mà cần nhìn vào chất lượng, tác động và tính ứng dụng. Chuẩn hóa là cần thiết, nhưng chuẩn phải phù hợp với thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.316985+07:00",
+      "fetched": "2026-04-12T14:03:25.317080+07:00"
+    },
+    {
+      "id": "07f9b0b5340a9bc208ed0ed2fe5cd3ef",
+      "title": "Cảnh báo 'cò' thu cọc 150 triệu tại nhà ở xã hội Lý Thường Kiệt",
+      "link": "https://tuoitre.vn/canh-bao-co-thu-coc-150-trieu-tai-nha-o-xa-hoi-ly-thuong-kiet-20260412122801231.htm",
+      "summary": "Chủ đầu tư dự án nhà ở xã hội Lý Thường Kiệt khẳng định chưa mở bán, chưa nhận hồ sơ nhưng đã xuất hiện môi giới tự ý rao bán, nhận đặt cọc, có trường hợp chuyển tới 150 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.316881+07:00",
+      "fetched": "2026-04-12T14:03:25.316975+07:00"
+    },
+    {
+      "id": "374c045e32b24c2ed9b87c80dd980a92",
+      "title": "Đề xuất điều chỉnh 2 khu đô thị Hòa Xuân - Cẩm Lệ lên hơn 110ha",
+      "link": "https://tuoitre.vn/de-xuat-dieu-chinh-2-khu-do-thi-hoa-xuan-cam-le-len-hon-110ha-20260412125229194.htm",
+      "summary": "Đà Nẵng đề xuất tăng quy mô 2 khu đô thị ven sông tại Hòa Xuân, Cẩm Lệ lên hơn 110ha, nhằm hoàn thiện hạ tầng, khai thác quỹ đất, tăng thu ngân sách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.316774+07:00",
+      "fetched": "2026-04-12T14:03:25.316871+07:00"
+    },
+    {
+      "id": "c21730c2afc7d61fe4644ea1d42d5905",
+      "title": "Các hãng xe đua làm nhà giá tới 1.500 tỉ/căn nhưng lún nền, nợ nần, biển thủ quỹ cư dân",
+      "link": "https://tuoitre.vn/cac-hang-xe-dua-lam-nha-gia-toi-1-500-ti-can-nhung-lun-nen-no-nan-bien-thu-quy-cu-dan-20260412101521536.htm",
+      "summary": "Dù thiết kế xa xỉ, tiện ích độc đáo như đưa xe hơi lên tận phòng khách, nhiều dự án căn hộ do các hãng xe đầu tư tại Miami (Mỹ) đang bộc lộ loạt vấn đề nghiêm trọng, từ lún nền đến tranh chấp tài chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.316667+07:00",
+      "fetched": "2026-04-12T14:03:25.316765+07:00"
+    },
+    {
+      "id": "7784ca81100bfd75ed5c4ee0f7fa11a4",
+      "title": "Thanh niên Việt Nam tìm về 'địa chỉ đỏ' tại Quảng Châu",
+      "link": "https://tuoitre.vn/thanh-nien-viet-nam-tim-ve-dia-chi-do-tai-quang-chau-20260412090642582.htm",
+      "summary": "Tại Quảng Châu, gần 200 thanh niên, thiếu nhi Việt Nam đã đến thăm mộ liệt sĩ Phạm Hồng Thái và nơi từng là trụ sở Hội Việt Nam Cách mạng Thanh niên, những dấu tích quan trọng của phong trào cách mạng Việt Nam đầu thế kỷ XX.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.316560+07:00",
+      "fetched": "2026-04-12T14:03:25.316657+07:00"
+    },
+    {
+      "id": "dd7d350526d6223fdf11ffdfb9e19ead",
+      "title": "Thủ tướng: Tuần tới sẽ họp bàn cắt giảm điều kiện kinh doanh, giảm chi phí cho người dân",
+      "link": "https://tuoitre.vn/thu-tuong-tuan-toi-se-hop-ban-cat-giam-dieu-kien-kinh-doanh-giam-chi-phi-cho-nguoi-dan-20260412124855255.htm",
+      "summary": "Thủ tướng Lê Minh Hưng cho biết Chính phủ sẽ họp trong tuần tới để cắt giảm thủ tục, điều kiện kinh doanh, giảm chi phí cho người dân, doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.316446+07:00",
+      "fetched": "2026-04-12T14:03:25.316550+07:00"
+    },
+    {
+      "id": "c2f41f39b115a9d5d0a895783d8ba934",
+      "title": "Hàng rong giữa New York giá lạnh và ký ức tiếng rao",
+      "link": "https://tuoitre.vn/hang-rong-giua-new-york-gia-lanh-va-ky-uc-tieng-rao-20260313144546291.htm",
+      "summary": "Những ngày đông New York, khi tuyết rơi dày và gió lạnh từ sông Hudson thổi qua các con phố Manhattan, những xe đẩy thức ăn ven đường vẫn sáng đèn giữa dòng người hối hả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.316324+07:00",
+      "fetched": "2026-04-12T14:03:25.316436+07:00"
+    },
+    {
+      "id": "73712d2868510a20181b0bc74f54dd0c",
+      "title": "Bữa ăn bán trú và 'người chưa bị lộ'",
+      "link": "https://tuoitre.vn/bua-an-ban-tru-va-nguoi-chua-bi-lo-2026041208025496.htm",
+      "summary": "Rất cần có một quy trình kiểm soát chặt chẽ để thực phẩm \"bẩn\" không thể lọt vào trường học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.316217+07:00",
+      "fetched": "2026-04-12T14:03:25.316314+07:00"
+    },
+    {
+      "id": "33e5c40b7f5b7eb579ab1a0ba0294d40",
+      "title": "Đạo diễn Vì mẹ anh phán chia tay: Ông bố đưa 'xì tin' vào phim",
+      "link": "https://tuoitre.vn/dao-dien-vi-me-anh-phan-chia-tay-ong-bo-dua-xi-tin-vao-phim-20260412093415858.htm",
+      "summary": "Bộ phim Vì mẹ anh phán chia tay đang tạo nên sức hút lớn khi liên tục nằm trong top nội dung thảo luận nhiều nhất trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.316110+07:00",
+      "fetched": "2026-04-12T14:03:25.316208+07:00"
+    },
+    {
+      "id": "df7d7cd276a8ef3fe107e4aeac9e21f7",
+      "title": "Du lịch 2 kỳ nghỉ lễ: tour nội, ngoại đều 'nóng'",
+      "link": "https://tuoitre.vn/du-lich-2-ky-nghi-le-tour-noi-ngoai-deu-nong-20260412000200821.htm",
+      "summary": "Sức mua tour lễ 30-4 và 1-5 tăng mạnh, cả tour quốc tế lẫn nội địa đều ‘cháy chỗ’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.315998+07:00",
+      "fetched": "2026-04-12T14:03:25.316100+07:00"
+    },
+    {
+      "id": "f59ac720042d025cb40036edbba57fec",
+      "title": "Hát Mê Linh biệt khúc để nhớ tuồng kinh điển Tiếng trống Mê Linh",
+      "link": "https://tuoitre.vn/hat-me-linh-biet-khuc-de-nho-tuong-kinh-dien-tieng-trong-me-linh-20260412125447082.htm",
+      "summary": "Trong chương trình biểu diễn âm nhạc dân tộc Hoa quê hương sáng 12-4 tại Cung văn hóa Lao động TP.HCM, nhà giáo ưu tú Phạm Thúy Hoan đã bắt nhịp để mọi người cùng ca bài Mê Linh biệt khúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.315875+07:00",
+      "fetched": "2026-04-12T14:03:25.315987+07:00"
+    },
+    {
+      "id": "774753ea3133d58d344e2e72b60298f9",
+      "title": "'Chuyên gia nước rút' Marchuk Dzianis giữ lại áo vàng, xanh Cúp truyền hình TP.HCM",
+      "link": "https://tuoitre.vn/chuyen-gia-nuoc-rut-marchuk-dzianis-giu-lai-ao-vang-xanh-cup-truyen-hinh-tp-hcm-20260412132513643.htm",
+      "summary": "Chặng đua thứ 9 của cuộc đua xe đạp toàn quốc Cúp truyền hình TP.HCM HTV - Tôn Đông Á 2026 chứng kiến Marchuk Dzianis giành chiến thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:03:25.315660+07:00",
+      "fetched": "2026-04-12T14:03:25.315861+07:00"
+    },
     {
       "id": "2d6cfabe07f6358d35041925a282c022",
       "title": "Tài xế xe đầu kéo đánh lái 'ép' ô tô, suýt xảy ra va chạm trên đường Võ Chí Công",
@@ -303,6 +453,336 @@ window.newsData_2026_04_12 = {
       "fetched": "2026-04-12T08:43:44.853581+07:00"
     },
     {
+      "id": "f64828889679a9474af1e7ac026264a5",
+      "title": "Làm chủ trang phục màu nâu cho ngày hè",
+      "link": "https://thanhnien.vn/thoi-trang-tre/lam-chu-trang-phuc-mau-nau-cho-ngay-he-185260411163212434.htm",
+      "summary": "Không rực rỡ như sắc đỏ hay quyền lực như màu đen, màu nâu thời thượng đang len lỏi vào tủ đồ của những tín đồ sành điệu như một bản tuyên ngôn về sự tinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:00:00+07:00",
+      "fetched": "2026-04-12T14:03:24.345939+07:00"
+    },
+    {
+      "id": "7809260a93eed1c9f85fde4785b2597e",
+      "title": "Đà Nẵng sẽ di dời gần 400.000 ngôi mộ để tái thiết không gian đô thị",
+      "link": "https://thanhnien.vn/da-nang-se-di-doi-gan-400000-ngoi-mo-de-tai-thiet-khong-gian-do-thi-185260412125735156.htm",
+      "summary": "Trước áp lực phát triển đô thị và nguy cơ ô nhiễm môi trường, thành phố Đà Nẵng lên kế hoạch di dời gần 400.000 ngôi mộ tại khu vực phía đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:48:00+07:00",
+      "fetched": "2026-04-12T14:03:24.346087+07:00"
+    },
+    {
+      "id": "ed59c9ae5a8e660d6c6427aa92819991",
+      "title": "Khám phá nút âm lượng trên smartphone",
+      "link": "https://thanhnien.vn/kham-pha-nut-am-luong-tren-smartphone-185260412082939062.htm",
+      "summary": "Mặc dù smartphone là thiết bị mà người dùng sử dụng hằng ngày, nhưng có thể họ chưa khám phá hết những tính năng ẩn thú vị của nó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:40:00+07:00",
+      "fetched": "2026-04-12T14:03:24.346219+07:00"
+    },
+    {
+      "id": "449505722bda1706c3bf0aebecb0b918",
+      "title": "TP.HCM: Nhà cạnh xưởng inox, sống như có động đất?",
+      "link": "https://thanhnien.vn/tphcm-nha-canh-xuong-inox-song-nhu-co-dong-dat-185260411142551345.htm",
+      "summary": "Người dân phản ánh xưởng inox gây tiếng ồn, rung lắc làm nứt tường nhà; chủ xưởng inox thừa nhận có tiếng động nhưng đang tìm cách khắc phục triệt để.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:39:00+07:00",
+      "fetched": "2026-04-12T14:03:24.346359+07:00"
+    },
+    {
+      "id": "3d877c282382276327be0cc76947da1e",
+      "title": "Đề xuất cấm xích lô ở Nha Trang: Sinh kế người lao động sẽ ra sao?",
+      "link": "https://thanhnien.vn/de-xuat-cam-xich-lo-o-nha-trang-sinh-ke-nguoi-lao-dong-se-ra-sao-185260412123040877.htm",
+      "summary": "Ngày 12.4, UBND phường Nha Trang cho biết đã có văn bản gửi UBND tỉnh Khánh Hòa báo cáo tình hình hoạt động, đồng thời đề xuất cấm xích lô lưu thông trên địa bàn do tiềm ẩn nhiều nguy cơ mất an toàn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:31:00+07:00",
+      "fetched": "2026-04-12T14:03:24.346487+07:00"
+    },
+    {
+      "id": "e163eb60239e0cfe5b25b7eb9cc5ae8b",
+      "title": "Lịch thi đấu billiards mới nhất: Trần Thanh Lực đụng cao thủ người Đức tại bán kết",
+      "link": "https://thanhnien.vn/lich-thi-dau-billiards-moi-nhat-tran-thanh-luc-dung-cao-thu-nguoi-duc-tai-ban-ket-185260412122050874.htm",
+      "summary": "Trần Thanh Lực là cơ thủ duy nhất của carom 3 băng Việt Nam góp mặt tại vòng bán kết giải World Cup billiards Bogota 2026 đang diễn ra tại Colombia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:19:00+07:00",
+      "fetched": "2026-04-12T14:03:24.346613+07:00"
+    },
+    {
+      "id": "9cd47346009d8d27fda2158054b48641",
+      "title": "Đột nhập sân bay, chém hỏng vận tải cơ chục triệu USD của Mỹ",
+      "link": "https://vnexpress.net/dot-nhap-san-bay-chem-hong-van-tai-co-chuc-trieu-usd-cua-my-5061423.html",
+      "summary": "Một người đàn ông trèo lên vận tải cơ C-130H của Mỹ rồi dùng rìu phá hoại, khiến phi cơ bị hư hỏng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-12T06:14:30+07:00",
+      "fetched": "2026-04-12T14:03:26.407617+07:00"
+    },
+    {
+      "id": "7b85abaf47598a86420f9160c6383ef4",
+      "title": "Timeline hồi phục sau cắt chỉ: Chăm sóc vết thương không để lại sẹo",
+      "link": "https://thanhnien.vn/timeline-hoi-phuc-sau-cat-chi-cham-soc-vet-thuong-khong-de-lai-seo-18526041213171093.htm",
+      "summary": "Việc tháo chỉ không đồng nghĩa với việc vết thương đã lành hoàn toàn. Trên thực tế, đây chỉ là bước khởi đầu của quá trình hồi phục sâu bên trong da - nơi quyết định bạn có bị sẹo lồi, sẹo thâm hay không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:05:00+07:00",
+      "fetched": "2026-04-12T14:03:24.346738+07:00"
+    },
+    {
+      "id": "73f2a9aacf4335a41f44e768560b809c",
+      "title": "Đại học Quốc tế công bố công thức tính điểm xét tuyển tổng hợp",
+      "link": "https://vnexpress.net/cong-thuc-tinh-diem-xet-tuyen-ma-xet-tuyen-bang-quy-doi-ielts-cua-truong-dai-hoc-quoc-te-dai-hoc-quoc-gia-tp-hcm-5049352.html",
+      "summary": "Năm 2026, trường Đại học Quốc tế tuyển 2.300 sinh viên, 99% được xét bằng cách kết hợp nhiều đầu điểm thay vì riêng biệt như các năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:03:15+07:00",
+      "fetched": "2026-04-12T14:03:21.135989+07:00"
+    },
+    {
+      "id": "c169a3d47ccdd8926539ed1b5f5ffbf9",
+      "title": "Xe cứu thương lật ngang khi va chạm xe bán tải: ai sai?",
+      "link": "https://vnexpress.net/xe-cuu-thuong-lat-ngang-khi-va-cham-xe-ban-tai-ai-sai-5061431.html",
+      "summary": "Xe cứu thương lao nhanh qua ngã tư đúng lúc xe bán tải đi tới nên xảy ra tai nạn tại ngã tư Nguyễn Tất Thành - Trường Chinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:02:54+07:00",
+      "fetched": "2026-04-12T14:03:21.136145+07:00"
+    },
+    {
+      "id": "b13b1539c04a8af26239ad05406e9ff6",
+      "title": "Tay đua người Belarus 'làm mưa làm gió' ở Cúp xe đạp truyền hình TP.HCM",
+      "link": "https://thanhnien.vn/tay-dua-nguoi-belarus-lam-mua-lam-gio-o-cup-xe-dap-truyen-hinh-tphcm-185260412121136665.htm",
+      "summary": "Ngoại binh người Belarus, tay đua Marchuk Dzianis thi đấu trong màu áo đội Kenda Đồng Nai thể hiện sức mạnh nước rút vượt trội so với các đối thủ ở Cúp xe đạp truyền hình TP.HCM - Tôn Đông Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:02:00+07:00",
+      "fetched": "2026-04-12T14:03:24.346868+07:00"
+    },
+    {
+      "id": "eb2eeebfe2a1ba5b1246149166c9844b",
+      "title": "Từ ngày 18.5, Chủ tịch UBND cấp xã được tước chứng chỉ hành nghề luật sư khi nào?",
+      "link": "https://thanhnien.vn/tu-ngay-185-chu-tich-ubnd-cap-xa-duoc-tuoc-chung-chi-hanh-nghe-luat-su-khi-nao-185260412115229593.htm",
+      "summary": "Chủ tịch UBND cấp xã có quyền phạt cảnh cáo và phạt tiền luật sư đến 25 triệu đồng về vi phạm hành chính; còn Giám đốc Sở Tư pháp phạt đến 40 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:02:00+07:00",
+      "fetched": "2026-04-12T14:03:24.346994+07:00"
+    },
+    {
+      "id": "5759e8f7a89107e06370e9c8822af6e2",
+      "title": "Dấu hiệu nào ở mắt có thể cảnh báo thiếu magie?",
+      "link": "https://vnexpress.net/dau-hieu-nao-o-mat-co-the-canh-bao-thieu-magie-5061281.html",
+      "summary": "Thiếu magie không chỉ ảnh hưởng sức khỏe mà còn để lộ những dấu hiệu ở đôi mắt, dù thường dễ bị bỏ qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:00:00+07:00",
+      "fetched": "2026-04-12T14:03:21.136286+07:00"
+    },
+    {
+      "id": "1ee9aef4f99bc527accea6d817aa9f76",
+      "title": "VFF: Trọng tài sai khi không thổi 11m cho Xuân Son",
+      "link": "https://vnexpress.net/vff-trong-tai-sai-khi-khong-thoi-11m-cho-xuan-son-5061440.html",
+      "summary": "Ban trọng tài VFF xác định Nguyễn Trung Kiên đã sai khi không cho Nam Định hưởng phạt đền trong trận thua HAGL 1-2 ở vòng 18 V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:58:02+07:00",
+      "fetched": "2026-04-12T14:03:21.136433+07:00"
+    },
+    {
+      "id": "1ee9aef4f99bc527accea6d817aa9f76",
+      "title": "VFF: Trọng tài sai khi không thổi 11m cho Xuân Son",
+      "link": "https://vnexpress.net/vff-trong-tai-sai-khi-khong-thoi-11m-cho-xuan-son-5061440.html",
+      "summary": "Ban trọng tài VFF xác định Nguyễn Trung Kiên đã sai khi không cho Nam Định hưởng phạt đền trong trận thua HAGL 1-2 ở vòng 18 V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-12T05:58:02+07:00",
+      "fetched": "2026-04-12T14:03:31.484340+07:00"
+    },
+    {
+      "id": "8b95bbddd17ce64d41b82d51d8bbedb9",
+      "title": "Alcaraz - Sinner: Chung kết 'bom tấn' ở Monte Carlo",
+      "link": "https://vnexpress.net/alcaraz-sinner-chung-ket-bom-tan-o-monte-carlo-5061438.html",
+      "summary": "Cặp kỳ phùng địch thủ vĩ đại của quần vợt sẽ tái đấu sau gần nửa năm, ở chung kết Monte Carlo Masters.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:50:45+07:00",
+      "fetched": "2026-04-12T14:03:21.136566+07:00"
+    },
+    {
+      "id": "8b95bbddd17ce64d41b82d51d8bbedb9",
+      "title": "Alcaraz - Sinner: Chung kết 'bom tấn' ở Monte Carlo",
+      "link": "https://vnexpress.net/alcaraz-sinner-chung-ket-bom-tan-o-monte-carlo-5061438.html",
+      "summary": "Cặp kỳ phùng địch thủ vĩ đại của quần vợt sẽ tái đấu sau gần nửa năm, ở chung kết Monte Carlo Masters.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-12T05:50:45+07:00",
+      "fetched": "2026-04-12T14:03:31.484493+07:00"
+    },
+    {
+      "id": "75ca6b4317620a4ed87859f752c90569",
+      "title": "Mâu thuẫn tình cảm, lập tài khoản ảo bôi nhọ người khác trên mạng",
+      "link": "https://thanhnien.vn/mau-thuan-tinh-cam-lap-tai-khoan-ao-boi-nho-nguoi-khac-tren-mang-185260412115509698.htm",
+      "summary": "Tại Cà Mau, xuất phát từ mâu thuẫn tình cảm, nhiều trường hợp lập tài khoản ảo đăng tải thông tin sai sự thật trên mạng nhằm xúc phạm uy tín, danh dự cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:43:00+07:00",
+      "fetched": "2026-04-12T14:03:24.347120+07:00"
+    },
+    {
+      "id": "18d9f73ab15b72ec56a0b995e09fe94c",
+      "title": "Thủ tướng bấm nút khởi công đường sắt tốc độ cao Hà Nội - Quảng Ninh",
+      "link": "https://thanhnien.vn/thu-tuong-bam-nut-khoi-cong-duong-sat-toc-do-cao-ha-noi-quang-ninh-185260412111856181.htm",
+      "summary": "Sáng 12.4, Thủ tướng Lê Minh Hưng cùng các lãnh đạo, nguyên lãnh đạo Chính phủ đã bấm nút khởi công dự án đường sắt tốc độ cao Hà Nội - Quảng Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:32:00+07:00",
+      "fetched": "2026-04-12T14:03:24.347248+07:00"
+    },
+    {
+      "id": "a6048dfabd1e38255cb921377e2e10b9",
+      "title": "Con trai 16 tuổi của Hồ Ngọc Hà dự sự kiện cùng loạt sao",
+      "link": "https://vnexpress.net/con-trai-16-tuoi-cua-ho-ngoc-ha-du-su-kien-cung-loat-sao-5061428.html",
+      "summary": "Subeo, 16 tuổi - con trai lớn của Hồ Ngọc Hà - gây chú ý khán giả với chiều cao gần 1,8 m khi dự sự kiện cùng  nhiều sao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:31:40+07:00",
+      "fetched": "2026-04-12T14:03:21.136699+07:00"
+    },
+    {
+      "id": "e5caaac86db99100380164b56f02fcc9",
+      "title": "Bắt đối tượng truy nã quốc tế lẩn trốn trong chung cư ở Đà Nẵng",
+      "link": "https://thanhnien.vn/bat-doi-tuong-truy-na-quoc-te-lan-tron-trong-chung-cu-o-da-nang-185260412120801229.htm",
+      "summary": "Ẩn mình dưới 'vỏ bọc' du khách đến thành phố Đà Nẵng, bị can bị truy nã quốc tế vẫn không thoát khỏi sự truy xét của lực lượng công an và nhanh chóng bị bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:31:00+07:00",
+      "fetched": "2026-04-12T14:03:24.347386+07:00"
+    },
+    {
+      "id": "30306cd7a2936a6d548889921787ed07",
+      "title": "'Ngọc nữ Nhật Bản' Yuko Araki kết hôn",
+      "link": "https://vnexpress.net/ngoc-nu-nhat-ban-yuko-araki-ket-hon-5061399.html",
+      "summary": "Yuko Araki - diễn viên được mệnh danh \"ngọc nữ\" showbiz Nhật - kết hôn với ca sĩ Yuto Nakajima.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:30:17+07:00",
+      "fetched": "2026-04-12T14:03:21.136835+07:00"
+    },
+    {
+      "id": "7e6e98721b13f2867922ff005a9cafdc",
+      "title": "Hoàng Hên có hành động đặc biệt, khẳng định tình yêu vĩnh cửu với Việt Nam",
+      "link": "https://thanhnien.vn/hoang-hen-co-hanh-dong-dac-biet-khang-dinh-tinh-yeu-vinh-cuu-voi-viet-nam-185260412113849452.htm",
+      "summary": "Ngay sau khi có màn ra mắt đội tuyển Việt Nam, Đỗ Hoàng Hên có quyết định đặc biệt: đưa hình ảnh lá quốc kỳ đỏ thắm cùng ngôi sao vàng 5 cánh trở thành một phần vĩnh cửu trên làn da của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:24:00+07:00",
+      "fetched": "2026-04-12T14:03:24.347515+07:00"
+    },
+    {
+      "id": "4e441de6e443036367d775c7f8d6ce8a",
+      "title": "Sản phụ 35 tuần trải qua 4 lần mổ, vừa bắt con vừa bóc u xơ khủng",
+      "link": "https://thanhnien.vn/san-phu-35-tuan-trai-qua-4-lan-mo-vua-bat-con-vua-boc-u-xo-khung-185260412111759503.htm",
+      "summary": "Khối u xơ tử cung tái phát nhiều lần trong thai kỳ khiến sản phụ 35 tuần phải liên tiếp can thiệp. Sau hành trình đầy nguy cơ, bé gái hơn 2 kg đã chào đời an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:24:00+07:00",
+      "fetched": "2026-04-12T14:03:24.347642+07:00"
+    },
+    {
+      "id": "a855fc38e83833aba6e6b5eceede0180",
+      "title": "Báo cáo mới nhất vụ cháy nhà trọ khiến 2 người chết ở TP.HCM",
+      "link": "https://thanhnien.vn/bao-cao-moi-nhat-vu-chay-nha-tro-khien-2-nguoi-chet-o-tphcm-185260412113521187.htm",
+      "summary": "Cháy nhà trọ ở TP.HCM lúc rạng sáng 12.4 khiến 2 người tử vong, 5 người bị thương, bỏng, ngạt khí, đang được điều trị tích cực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:22:00+07:00",
+      "fetched": "2026-04-12T14:03:24.347768+07:00"
+    },
+    {
+      "id": "31db8828d390291c1647a6b39ff3c1f1",
+      "title": "Mẹ chồng thường chỉ để lại một chén cơm, mặc kệ tôi đói",
+      "link": "https://vnexpress.net/me-chong-thuong-chi-de-lai-mot-chen-com-mac-ke-toi-doi-5061358.html",
+      "summary": "Đôi lúc tôi thấy ít quá, nấu thêm mì, bà hầm mặt không vui; còn nếu tôi ghé quán, về không ăn cơm nhà, bà bảo đi ăn quán ăn đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:00:00+07:00",
+      "fetched": "2026-04-12T14:03:21.136968+07:00"
+    },
+    {
+      "id": "477cb93248d8fd28b0cd024e9e54178a",
+      "title": "24 giờ trên hòn đảo bằng nửa sân bóng đá với 1.800 người sinh sống",
+      "link": "https://vnexpress.net/24-gio-tren-hon-dao-bang-nua-san-bong-da-voi-1-800-nguoi-sinh-song-5060887.html",
+      "summary": "YouTuber Joe Hattab trải nghiệm 24 giờ trên đảo Migingo - nơi được xem là có mật độ dân số cao nhất thế giới với 1.800 người sống trên diện tích chỉ khoảng 2.000 m².",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:00:00+07:00",
+      "fetched": "2026-04-12T14:03:21.137098+07:00"
+    },
+    {
+      "id": "d21aa4ef34708c179b38a83a1df65bcc",
+      "title": "Hòn đảo duy nhất Đông Nam Á nào thuộc lãnh thổ 3 quốc gia?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-hon-dao-duy-nhat-dong-nam-a-nao-thuoc-lanh-tho-3-quoc-gia-5058963.html",
+      "summary": "Đây là đảo thuộc chủ quyền của 3 quốc gia ĐNA gồm: Indonesia chiếm khoảng 3/4 diện tích, Malaysia chiếm 1/4 và Brunei chiếm khoảng 1%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:00:00+07:00",
+      "fetched": "2026-04-12T14:03:21.137234+07:00"
+    },
+    {
+      "id": "9774bb2977158ec2fafd33ba53eb31bb",
+      "title": "Người tăng huyết áp có nên uống trà đặc mỗi ngày?",
+      "link": "https://vnexpress.net/nguoi-tang-huyet-ap-co-nen-uong-tra-dac-moi-ngay-5061256.html",
+      "summary": "Uống một cốc trà đặc mỗi sáng có thể ổn định huyết áp không? Tôi bị tăng huyết áp nhiều năm, chỉ số dao động khoảng 130-140/90 mmHg có nên áp dụng cách này? (Nguyễn Văn Bằng, 53 tuổi, Hải Phòng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:00:00+07:00",
+      "fetched": "2026-04-12T14:03:21.137374+07:00"
+    },
+    {
+      "id": "53bda6d3fb39061cd98adcc1bd8f19fc",
+      "title": "Xe cứu thương lật nghiêng sau va chạm ôtô bán tải",
+      "link": "https://vnexpress.net/xe-cuu-thuong-lat-nghieng-sau-va-cham-oto-ban-tai-5061417.html",
+      "summary": "Ôtô bán tải lưu thông trên đường Trường Chinh, khi đến nút giao va chạm với xe cứu thương của Trung tâm Y tế khu vực Lâm Thao đang chở 4 người khiến phương tiện lật nghiêng, tối 11/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T04:51:06+07:00",
+      "fetched": "2026-04-12T14:03:21.137506+07:00"
+    },
+    {
+      "id": "f1364ea14733f86471d95dc368165371",
+      "title": "Thủ tướng: Tiếp tục phát triển VNeID thành nền tảng quốc gia",
+      "link": "https://vnexpress.net/thu-tuong-tiep-tuc-phat-trien-vneid-thanh-nen-tang-quoc-gia-5061406.html",
+      "summary": "Thủ tướng Lê Minh Hưng yêu cầu Cảnh sát Quản lý hành chính lấy hiệu quả phục vụ người dân làm thước đo cao nhất, tiếp tục phát triển VNeID thành nền tảng quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T04:47:07+07:00",
+      "fetched": "2026-04-12T14:03:21.137636+07:00"
+    },
+    {
+      "id": "6be1b0db4c7dc980ee18865008d04329",
+      "title": "Hai năm yêu của Tăng Duy Tân, Bích Phương",
+      "link": "https://vnexpress.net/hai-nam-yeu-cua-tang-duy-tan-bich-phuong-5061374.html",
+      "summary": "Ca sĩ Tăng Duy Tân, Bích Phương từ yêu kín tiếng đến thoải mái công khai tình cảm với fan qua loạt ảnh gây sốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T04:40:46+07:00",
+      "fetched": "2026-04-12T14:03:21.137767+07:00"
+    },
+    {
+      "id": "1d76044247e119f4b04b55ef33cb30cd",
+      "title": "Trang Pháp gây chú ý khi song ca mỹ nhân 'Tiểu Lý phi đao'",
+      "link": "https://vnexpress.net/trang-phap-gay-chu-y-khi-song-ca-my-nhan-tieu-ly-phi-dao-5061361.html",
+      "summary": "Ca sĩ Trang Pháp được khán giả Trung Quốc khen phát âm rõ khi so giọng với Tiêu Tường - mỹ nhân phim \"Tiểu Lý phi đao\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T04:30:19+07:00",
+      "fetched": "2026-04-12T14:03:21.137897+07:00"
+    },
+    {
       "id": "e3d3189074b183830acac4d72a52251d",
       "title": "Bình xét sai 442 hồ sơ mua nền tại tuyến dân cư vượt lũ Cái Côn ở Cần Thơ",
       "link": "https://thanhnien.vn/binh-xet-sai-442-ho-so-mua-nen-tai-tuyen-dan-cu-vuot-lu-cai-con-o-can-tho-185260412102238368.htm",
@@ -393,6 +873,16 @@ window.newsData_2026_04_12 = {
       "fetched": "2026-04-12T11:39:21.711246+07:00"
     },
     {
+      "id": "30903d5db84c0cb1e7217ec27d55613e",
+      "title": "Phi hành đoàn Artemis II: 'Trái Đất như thuyền cứu sinh lơ lửng trong vũ trụ'",
+      "link": "https://vnexpress.net/phi-hanh-doan-artemis-ii-trai-dat-nhu-thuyen-cuu-sinh-lo-lung-trong-vu-tru-5061401.html",
+      "summary": "Các phi hành gia Artemis II cho biết đã trở nên gắn bó sau chuyến bay đến Mặt Trăng, đồng thời cũng trân trọng cuộc sống trên Trái Đất hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-12T04:05:27+07:00",
+      "fetched": "2026-04-12T14:03:29.703173+07:00"
+    },
+    {
       "id": "7230d5759d9298a0923772409592cb4b",
       "title": "Mỹ nêu bất đồng trong đàm phán với Iran",
       "link": "https://vnexpress.net/my-neu-bat-dong-trong-dam-phan-voi-iran-5061404.html",
@@ -401,6 +891,16 @@ window.newsData_2026_04_12 = {
       "category": "Thế giới",
       "published": "2026-04-12T04:03:21+07:00",
       "fetched": "2026-04-12T11:39:24.869656+07:00"
+    },
+    {
+      "id": "d1fa3a672fcb9ff420a87fa175c985ea",
+      "title": "Mỹ, Iran nêu bất đồng trong đàm phán",
+      "link": "https://vnexpress.net/my-iran-neu-bat-dong-trong-dam-phan-5061404.html",
+      "summary": "Phó tổng thống Vance cho biết Iran từ chối những điều khoản \"khá linh hoạt\" từ Mỹ, trong khi Tehran chỉ trích Washington đưa ra \"yêu cầu quá đáng\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-12T04:03:21+07:00",
+      "fetched": "2026-04-12T14:03:26.407768+07:00"
     },
     {
       "id": "9821f7b09a83f3cff7d03b5b1dddde3e",
