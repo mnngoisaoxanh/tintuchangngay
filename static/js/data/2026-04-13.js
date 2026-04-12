@@ -1,7 +1,17 @@
 window.newsData_2026_04_13 = {
   "date": "2026-04-13",
-  "lastUpdated": "2026-04-13T03:25:18.287773+07:00",
+  "lastUpdated": "2026-04-13T05:24:00.599874+07:00",
   "articles": [
+    {
+      "id": "e2f953faf044276a0295a038e455d55d",
+      "title": "Thói quen 'trả tiền thì có đội ngũ dọn dẹp' nên luôn để lại sự bừa bộn cho người khác",
+      "link": "https://tuoitre.vn/thoi-quen-tra-tien-thi-co-doi-ngu-don-dep-nen-luon-de-lai-su-bua-bon-cho-nguoi-khac-20260401163146401.htm",
+      "summary": "Điều khiến tôi đau lòng không phải là rác, mà là thái độ thản nhiên của những người tạo ra chúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T05:23:54.632653+07:00",
+      "fetched": "2026-04-13T05:23:54.632873+07:00"
+    },
     {
       "id": "e297a64d68d6e0f8520919a2c2eae433",
       "title": "Đè bẹp Chelsea, Man City đe dọa ngôi đầu của Arsenal",
@@ -181,6 +191,76 @@ window.newsData_2026_04_13 = {
       "category": "Tổng hợp",
       "published": "2026-04-13T01:33:50.310019+07:00",
       "fetched": "2026-04-13T01:33:50.310245+07:00"
+    },
+    {
+      "id": "c5306c011f2f710bf54529c9c04d4f47",
+      "title": "Chiến sự Ukraine ngày 1.509: Hai bên tố cáo nhau vi phạm ngừng bắn",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1509-hai-ben-to-cao-nhau-vi-pham-ngung-ban-18526041217133903.htm",
+      "summary": "Cả Nga và Ukraine đều cáo buộc đối phương vi phạm cam kết ngừng bắn nhân dịp lễ Phục sinh của Chính thống giáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T22:00:00+07:00",
+      "fetched": "2026-04-13T05:23:53.528016+07:00"
+    },
+    {
+      "id": "59dce52bc84b899989145861aebee492",
+      "title": "Sinner hạ Alcaraz, vô địch Monte Carlo Masters",
+      "link": "https://vnexpress.net/sinner-ha-alcaraz-vo-dich-monte-carlo-masters-5061555.html",
+      "summary": "Tay vợt Jannik Sinner thắng kình địch Carlos Alcaraz 7-6(5), 6-3 ở chung kết Monte Carlo Masters, qua đó vươn lên vị trí số một thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T21:52:57+07:00",
+      "fetched": "2026-04-13T05:23:50.077520+07:00"
+    },
+    {
+      "id": "0d70b2a02702d3a8635c07a7e86716bd",
+      "title": "Tình hình Iran, Trung Đông mới nhất ngày 13.4: Eo biển Hormuz rất nóng",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-ngay-134-eo-bien-hormuz-rat-nong-185260412221811981.htm",
+      "summary": "Eo biển Hormuz lại trở thành điểm nóng sau khi Tổng thống Donald Trump đưa ra tuyên bố Mỹ ngay lập tức phong tỏa eo biển này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T21:30:00+07:00",
+      "fetched": "2026-04-13T05:23:53.528165+07:00"
+    },
+    {
+      "id": "c4350e01ac2359fb14d6f7dbe88c9f3e",
+      "title": "Giải mã chiến cuộc Iran sau đàm phán thất bại",
+      "link": "https://thanhnien.vn/giai-ma-chien-cuoc-iran-sau-dam-phan-that-bai-185260412222841973.htm",
+      "summary": "Sau khi hai bên đàm phán thất bại, chiến cuộc Iran trở nên khó lường với nhiều dấu hiệu căng thẳng quanh Hormuz khi Tổng thống Mỹ Donald Trump điều tàu chiến đến eo biển này và tuyên bố phong tỏa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T21:22:00+07:00",
+      "fetched": "2026-04-13T05:23:53.528298+07:00"
+    },
+    {
+      "id": "ca74ef861ba9e1141c3a579eb0a73381",
+      "title": "Bác sĩ 'mách' cách ăn uống giúp giải nhiệt khi trời nắng nóng",
+      "link": "https://vnexpress.net/bac-si-mach-cach-an-uong-giup-giai-nhiet-khi-troi-nang-nong-5060935.html",
+      "summary": "Nắng nóng, bạn nên uống nước lọc, nước chanh pha loãng, nước dừa ăn món canh mát, hạn chế đồ cay nóng để giảm nhiệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T21:00:00+07:00",
+      "fetched": "2026-04-13T05:23:50.077631+07:00"
+    },
+    {
+      "id": "45a363eac7d9f2bd75cbd1640cccb9d8",
+      "title": "Range Rover Sport 2026 ra mắt khách Việt, giá từ 5,9 tỷ đồng",
+      "link": "https://vnexpress.net/range-rover-sport-2026-ra-mat-khach-viet-gia-tu-5-9-ty-dong-5061341.html",
+      "summary": "Mẫu SUV hạng sang phiên bản mới, hai hệ truyền động PHEV hoặc ICE, tùy chọn 6 phiên bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T21:00:00+07:00",
+      "fetched": "2026-04-13T05:23:50.077781+07:00"
+    },
+    {
+      "id": "8c575c77147308e46f56a74dcefbb2c8",
+      "title": "Cứu 5 người mắc kẹt trong căn nhà cháy ở Hà Nội",
+      "link": "https://vnexpress.net/cuu-5-nguoi-mac-ket-trong-can-nha-chay-o-ha-noi-5061560.html",
+      "summary": "Tối 12/4, căn nhà ống 5 tầng trong ngõ đường Hồng Hà bốc cháy khiến 5 người mắc kẹt, cảnh sát PCCC phải dùng thang tiếp cận từ cửa sổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T20:39:04+07:00",
+      "fetched": "2026-04-13T05:23:50.077935+07:00"
     },
     {
       "id": "f12292d9edb7799108708d677a6cf513",
@@ -421,6 +501,26 @@ window.newsData_2026_04_13 = {
       "category": "Thể thao",
       "published": "2026-04-12T17:00:00+07:00",
       "fetched": "2026-04-13T01:33:57.395292+07:00"
+    },
+    {
+      "id": "4085ba810c34056ab74e48f52882bc30",
+      "title": "Thiết kế vật chỉ báo không trọng lực Artemis II của cậu bé 8 tuổi",
+      "link": "https://vnexpress.net/thiet-ke-vat-chi-bao-khong-trong-luc-artemis-ii-cua-cau-be-8-tuoi-5061511.html",
+      "summary": "Trong nhiệm vụ Artemis II, Rise, vật chỉ báo không trọng lực dễ thương do cậu bé lớp hai thiết kế, luôn đồng hành cùng bốn phi hành gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T17:00:00+07:00",
+      "fetched": "2026-04-13T05:23:50.079118+07:00"
+    },
+    {
+      "id": "4085ba810c34056ab74e48f52882bc30",
+      "title": "Thiết kế vật chỉ báo không trọng lực Artemis II của cậu bé 8 tuổi",
+      "link": "https://vnexpress.net/thiet-ke-vat-chi-bao-khong-trong-luc-artemis-ii-cua-cau-be-8-tuoi-5061511.html",
+      "summary": "Trong nhiệm vụ Artemis II, Rise, vật chỉ báo không trọng lực dễ thương do cậu bé lớp hai thiết kế, luôn đồng hành cùng bốn phi hành gia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-12T17:00:00+07:00",
+      "fetched": "2026-04-13T05:23:59.515012+07:00"
     },
     {
       "id": "4f47ffddbda825602dbe1927434d4158",
