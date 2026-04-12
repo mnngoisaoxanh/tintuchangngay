@@ -1,7 +1,37 @@
 window.newsData_2026_04_13 = {
   "date": "2026-04-13",
-  "lastUpdated": "2026-04-13T01:33:57.398703+07:00",
+  "lastUpdated": "2026-04-13T03:25:18.287773+07:00",
   "articles": [
+    {
+      "id": "e297a64d68d6e0f8520919a2c2eae433",
+      "title": "Đè bẹp Chelsea, Man City đe dọa ngôi đầu của Arsenal",
+      "link": "https://tuoitre.vn/de-bep-chelsea-man-city-de-doa-ngoi-dau-cua-arsenal-2026041301082975.htm",
+      "summary": "Rạng sáng 13-4, chủ nhà Chelsea đã để thua Man City 0-3 ở trận cầu tâm điểm vòng 32 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T03:25:09.956816+07:00",
+      "fetched": "2026-04-13T03:25:09.956937+07:00"
+    },
+    {
+      "id": "6654b6a236aa70f1a91757673da25fb8",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Trung Quốc: Nâng tầm gắn kết chiến lược hai nước",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tham-trung-quoc-nang-tam-gan-ket-chien-luoc-hai-nuoc-20260412234642934.htm",
+      "summary": "Đây là lần thứ ba trong thời gian ngắn chưa đầy 2 năm, hai lãnh đạo cao nhất hai Đảng, hai nước thăm song phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T03:25:09.956673+07:00",
+      "fetched": "2026-04-13T03:25:09.956804+07:00"
+    },
+    {
+      "id": "bbf963e1aeafcccf905626195e072540",
+      "title": "Thời tiết hôm nay 13-4: Nghệ An, Hà Tĩnh, Quảng Trị nóng nhất nước, Nam Bộ sắp có mưa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-13-4-nghe-an-ha-tinh-quang-tri-nong-nhat-nuoc-nam-bo-sap-co-mua-20260412161300465.htm",
+      "summary": "Hôm nay 13-4, thời tiết miền Trung vẫn nắng nóng gay gắt, miền Nam trời bắt đầu dịu dần, khả năng sắp có đợt mưa trái mùa giải nhiệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T03:25:09.956410+07:00",
+      "fetched": "2026-04-13T03:25:09.956657+07:00"
+    },
     {
       "id": "d178838137dbcf8c582861ee5f798db1",
       "title": "Ấn Độ: Chủ xe điện bị phạt vì không có giấy kiểm định khí thải đầy tranh cãi",
@@ -151,6 +181,26 @@ window.newsData_2026_04_13 = {
       "category": "Tổng hợp",
       "published": "2026-04-13T01:33:50.310019+07:00",
       "fetched": "2026-04-13T01:33:50.310245+07:00"
+    },
+    {
+      "id": "f12292d9edb7799108708d677a6cf513",
+      "title": "Tàu tuần duyên Pakistan bị tấn công, 3 người thiệt mạng",
+      "link": "https://thanhnien.vn/tau-tuan-duyen-pakistan-bi-tan-cong-3-nguoi-thiet-mang-185260412222937961.htm",
+      "summary": "Một tổ chức vũ trang đã sát hại 3 nhân viên Tuần duyên Pakistan ngày 12.4 trong vụ tấn công đầu tiên nhằm vào một trong những tàu tuần tra của cơ quan hàng hải này hoạt động trên biển Ả Rập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:02:00+07:00",
+      "fetched": "2026-04-13T03:25:08.970364+07:00"
+    },
+    {
+      "id": "b933f345935db52698627a1a95539ac1",
+      "title": "Uống rượu dồn dập một thời điểm có thể gây tổn thương gan",
+      "link": "https://vnexpress.net/uong-ruou-don-dap-mot-thoi-diem-co-the-gay-ton-thuong-gan-5061078.html",
+      "summary": "Việc uống rượu bia dồn dập trong một thời điểm - dù chỉ một lần mỗi tháng - cũng có thể gây tổn thương gan nghiêm trọng, đặc biệt với những người có sẵn bệnh gan nhiễm mỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:00:00+07:00",
+      "fetched": "2026-04-13T03:25:06.029884+07:00"
     },
     {
       "id": "14fc42a662156a7d4480af62b1305096",
