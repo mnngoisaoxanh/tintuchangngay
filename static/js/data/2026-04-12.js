@@ -1,7 +1,97 @@
 window.newsData_2026_04_12 = {
   "date": "2026-04-12",
-  "lastUpdated": "2026-04-12T14:03:31.491827+07:00",
+  "lastUpdated": "2026-04-12T15:37:30.988650+07:00",
   "articles": [
+    {
+      "id": "fcfe96f4742d422e02d3da38c3cbb2fc",
+      "title": "Khi hội nhóm mạng xã hội dẫn lối lệch lạc - Kỳ 1: Hệ lụy từ 'phòng' mai mối online và nhóm kín 18+",
+      "link": "https://tuoitre.vn/khi-hoi-nhom-mang-xa-hoi-dan-loi-lech-lac-ky-1-he-luy-tu-phong-mai-moi-online-va-nhom-kin-18-20260412092009197.htm",
+      "summary": "Nhiều hội nhóm mạng xã hội hiện nay đang chuyển dần vào các nền tảng bảo mật cao, khó kiểm soát hơn. Đáng lo ngại, trong số đó có không ít nhóm đang âm thầm gieo những ảnh hưởng tiêu cực tới tâm lý, hành vi của trẻ vị thành niên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:37:22.127692+07:00",
+      "fetched": "2026-04-12T15:37:22.127808+07:00"
+    },
+    {
+      "id": "4a4240548922724d9bd26648c5ce0b17",
+      "title": "Chấn động nước Pháp: Bé trai 9 tuổi bị cha nhốt trong xe tải suốt 2 năm",
+      "link": "https://tuoitre.vn/chan-dong-nuoc-phap-be-trai-9-tuoi-bi-cha-nhot-trong-xe-tai-suot-2-nam-20260412135049855.htm",
+      "summary": "Một bé trai 9 tuổi đã được cảnh sát giải cứu sau thời gian dài bị giam giữ trong xe tải. Em đã ở tình trạng suy dinh dưỡng nghiêm trọng và mất khả năng đi lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:37:22.127563+07:00",
+      "fetched": "2026-04-12T15:37:22.127680+07:00"
+    },
+    {
+      "id": "c382839f3c0f455ba06e0fb555d48f1c",
+      "title": "Tháng 4 và những vở cải lương, kịch nói sử Việt",
+      "link": "https://tuoitre.vn/thang-4-va-nhung-vo-cai-luong-kich-noi-su-viet-2026041209383109.htm",
+      "summary": "Tháng 4 này khán giả sẽ có dịp xem những vở cải lương, kịch nói sử Việt ý nghĩa. Mỗi vở diễn như nhắc nhở về giá trị của văn hóa dân tộc, về vẻ đẹp của hai chữ tự do, hòa bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:37:22.127436+07:00",
+      "fetched": "2026-04-12T15:37:22.127552+07:00"
+    },
+    {
+      "id": "648e8a5def8bbaa4e3217d020be75668",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Quân khu 1 luôn giữ vị trí đặc biệt quan trọng",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-quan-khu-1-luon-giu-vi-tri-dac-biet-quan-trong-20260412125050913.htm",
+      "summary": "Sáng 12-4, tại Thái Nguyên, Đảng ủy, Bộ Tư lệnh Quân khu 1 (Bộ Quốc phòng) đã tổ chức đón nhận danh hiệu Anh hùng Lực lượng vũ trang nhân dân. Tổng Bí thư, Chủ tịch nước Tô Lâm, Bí thư Quân ủy Trung ương dự và phát biểu tại buổi lễ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:37:22.127296+07:00",
+      "fetched": "2026-04-12T15:37:22.127424+07:00"
+    },
+    {
+      "id": "28291ce30f499f46e17a15fbfca143ee",
+      "title": "Cảnh sát hình sự bắt 3 người trộm chó bandog và mèo lông xám ở TP.HCM",
+      "link": "https://tuoitre.vn/canh-sat-hinh-su-bat-3-nguoi-trom-cho-bandog-va-meo-long-xam-o-tp-hcm-20260412135815938.htm",
+      "summary": "Trong quý 1 năm 2026, Công an TP.HCM đã phát hiện 12 vụ, 31 nghi can trộm cắp vật nuôi là chó mèo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:37:22.127135+07:00",
+      "fetched": "2026-04-12T15:37:22.127282+07:00"
+    },
+    {
+      "id": "178f316b6407c6b7ccd7f3e75ee6ac30",
+      "title": "Nhếch nhác tại các điểm trung chuyển rác ở TP.HCM",
+      "link": "https://tuoitre.vn/nhech-nhac-tai-cac-diem-trung-chuyen-rac-o-tp-hcm-20260411103716849.htm",
+      "summary": "Rác thải sinh hoạt từ lâu luôn là nỗi ám ảnh của người dân. Dù lực lượng môi trường đã làm việc hết công suất nhưng việc các bãi rác vẫn tồn đọng tại các trạm trung chuyển khiến nhiều người dân 'nhức mũi'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:37:22.127003+07:00",
+      "fetched": "2026-04-12T15:37:22.127123+07:00"
+    },
+    {
+      "id": "8f84bce570676e0bfa3427334035e678",
+      "title": "Nền kinh tế hoài niệm",
+      "link": "https://tuoitre.vn/nen-kinh-te-hoai-niem-20260412094621072.htm",
+      "summary": "Xem trailer phim tiểu sử Michael, khi ca khúc Billie Jean vang lên, Michael Jackson hiện ra trên sân khấu với chiếc găng tay đính đá, khi anh nhảy điệu Moonwalk như chống lại mọi quy luật vật lý, khán giả đều thấy lòng chộn rộn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:37:22.126864+07:00",
+      "fetched": "2026-04-12T15:37:22.126991+07:00"
+    },
+    {
+      "id": "cd5e8fb3c8a60f0eec0e2cf5bf1e7c09",
+      "title": "Những mùa atiso của tuổi thơ",
+      "link": "https://tuoitre.vn/nhung-mua-aitiso-cua-tuoi-tho-20260224152859324.htm",
+      "summary": "Tôi yêu tuổi thơ bao nhiêu thì cũng yêu những mùa atiso bấy nhiêu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:37:22.126712+07:00",
+      "fetched": "2026-04-12T15:37:22.126851+07:00"
+    },
+    {
+      "id": "c1a871f66529a473eca80d60a477f6bf",
+      "title": "Lợi nhuận Vietnam Airlines giảm sau kiểm toán, tiết lộ thu nhập tăng mạnh của lãnh đạo",
+      "link": "https://tuoitre.vn/loi-nhuan-vietnam-airlines-giam-sau-kiem-toan-tiet-lo-thu-nhap-tang-manh-cua-lanh-dao-20260412140707228.htm",
+      "summary": "Báo cáo thuyết minh năm ngoái Vietnam Airlines chi hơn 23,2 tỉ đồng để trả thu nhập cho đội ngũ lãnh đạo chủ chốt, tăng khoảng 63% so với năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:37:22.126463+07:00",
+      "fetched": "2026-04-12T15:37:22.126695+07:00"
+    },
     {
       "id": "c92ebd9995e3a69e038861d27ac7dd75",
       "title": "Những chia sẻ đầu tiên của phi hành đoàn Artemis II sau khi trở về Trái đất",
@@ -453,6 +543,266 @@ window.newsData_2026_04_12 = {
       "fetched": "2026-04-12T08:43:44.853581+07:00"
     },
     {
+      "id": "223d9b393f8e115ac84bac5c800f97b0",
+      "title": "Diễn viên Thanh Sơn ở tuổi 35",
+      "link": "https://thanhnien.vn/dien-vien-thanh-son-o-tuoi-35-185260412142321839.htm",
+      "summary": "Trải nghiệm các vai diễn ở sân khấu kịch, phim truyền hình lẫn điện ảnh, Thanh Sơn chia sẻ nguồn động lực lớn nhất của anh chính là khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:34:00+07:00",
+      "fetched": "2026-04-12T15:37:21.046510+07:00"
+    },
+    {
+      "id": "7fd850b6ad215066b99795a7bdc058f0",
+      "title": "Sạt lở cắt đôi đường, ảnh hưởng 1.000 hộ dân",
+      "link": "https://vnexpress.net/sat-lo-cat-doi-duong-anh-huong-1-000-ho-dan-5061463.html",
+      "summary": "Đoạn đê dài gần 100 m ở xã Bình Phú sạt xuống sông, làm đứt đường, ảnh hưởng đi lại của khoảng 1.000 hộ dân và đe dọa 500 ha sầu riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:27:14+07:00",
+      "fetched": "2026-04-12T15:37:17.814958+07:00"
+    },
+    {
+      "id": "9a59191beebcb05c4a506645137c2380",
+      "title": "Ốc Thanh Vân: Có lúc tôi đứng rửa chén mà nước mắt chảy không ngừng",
+      "link": "https://thanhnien.vn/oc-thanh-van-co-luc-toi-dung-rua-chen-ma-nuoc-mat-chay-khong-ngung-185260412123809662.htm",
+      "summary": "Sau khi trở về Việt Nam và quay lại với sân khấu, Ốc Thanh Vân lấy lại cân bằng trong cuộc sống. Cô thừa nhận không khí ở Úc rất thích hợp với mình, tuy có những lúc vất vả đến mức bật khóc nhưng đó vẫn là trải nghiệm đẹp và đáng nhớ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:26:00+07:00",
+      "fetched": "2026-04-12T15:37:21.046684+07:00"
+    },
+    {
+      "id": "ca55b8d6992a725825898a2f97078bf7",
+      "title": "Hoa hậu Đinh Như Phương tốt nghiệp thạc sĩ",
+      "link": "https://thanhnien.vn/hoa-hau-dinh-nhu-phuong-tot-nghiep-thac-si-185260412122221343.htm",
+      "summary": "Sau khi nhận bằng thạc sĩ Quản trị kinh doanh, Hoa hậu Biển đảo Việt Nam 2022 Đinh Như Phương cho biết vẫn ưu tiên học vấn dù lịch trình hoạt động nghệ thuật dày đặc. Bên cạnh đó, người đẹp cũng chia sẻ thêm quan điểm cá nhân trong chuyện tình cảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:21:00+07:00",
+      "fetched": "2026-04-12T15:37:21.046844+07:00"
+    },
+    {
+      "id": "17e9f2a4bf4b5fb789ac69100d6d9a9f",
+      "title": "Ủy ban Trung ương MTTQ Việt Nam có 3 phó chủ tịch mới",
+      "link": "https://thanhnien.vn/uy-ban-trung-uong-mttq-viet-nam-co-3-pho-chu-tich-moi-185260412135628858.htm",
+      "summary": "Chiều 12.4, Hội nghị Ủy ban Trung ương MTTQ Việt Nam lần thứ 7, khóa X tiến hành hiệp thương, cử bổ sung 3 nhân sự giữ chức phó chủ tịch nhiệm kỳ 2024 - 2029.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:14:00+07:00",
+      "fetched": "2026-04-12T15:37:21.046998+07:00"
+    },
+    {
+      "id": "c8ff00ffaf103cc90fbc4c8e6a39e2b8",
+      "title": "Bắt Đội phó Đội điều tra PC01 Công an tỉnh An Giang",
+      "link": "https://thanhnien.vn/bat-doi-pho-doi-dieu-tra-pc01-cong-an-tinh-an-giang-185260412142332012.htm",
+      "summary": "Cơ quan điều tra Viện KSND tối cao vừa bắt tạm giam ông Lê Văn Triệu, 41 tuổi, Đội phó Đội điều tra PC01 Công an tỉnh An Giang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:11:00+07:00",
+      "fetched": "2026-04-12T15:37:21.047187+07:00"
+    },
+    {
+      "id": "80a5c025c8c4d8814088f65b87f7494f",
+      "title": "Công an TP.HCM liên tiếp triệt phá các vụ trộm chó, mèo",
+      "link": "https://thanhnien.vn/cong-an-tphcm-lien-tiep-triet-pha-cac-vu-trom-cho-meo-185260412143711339.htm",
+      "summary": "Công an TP.HCM vừa triệt phá nhiều vụ trộm cắp chó, mèo trên địa bàn, khẳng định tinh thần quyết liệt đấu tranh với tội phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:01:00+07:00",
+      "fetched": "2026-04-12T15:37:21.047363+07:00"
+    },
+    {
+      "id": "835007c2fd768db4796ca9b4fda3c5aa",
+      "title": "Ba mẹ quên sinh nhật em, cũng không động viên lời nào trước kỳ thi vào lớp 10",
+      "link": "https://vnexpress.net/ba-me-quen-sinh-nhat-em-cung-khong-dong-vien-loi-nao-truoc-ky-thi-vao-lop-10-5061409.html",
+      "summary": "Vào chính ngày sinh nhật của em, mẹ còn mắng chửi, nói em hỗn hào chỉ vì em im lặng khi mẹ chửi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:00:00+07:00",
+      "fetched": "2026-04-12T15:37:17.815164+07:00"
+    },
+    {
+      "id": "c83e18763f97a466fc5c8da69bc93c01",
+      "title": "Cách làm măng tươi hết đắng trong 10 phút",
+      "link": "https://vnexpress.net/cach-lam-mang-tuoi-het-dang-trong-10-phut-5061197.html",
+      "summary": "Không ít người ngần ngại khi xử lý măng tươi vì tốn khá nhiều thời gian, nếu không biết cách dễ làm mất độ giòn, nhạt vị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:00:00+07:00",
+      "fetched": "2026-04-12T15:37:17.815347+07:00"
+    },
+    {
+      "id": "83372966c5810c1629f443e6e81ce626",
+      "title": "Hành động đột phá, biến quyết sách thành kết quả",
+      "link": "https://thanhnien.vn/hanh-dong-dot-pha-bien-quyet-sach-thanh-ket-qua-185260412141156974.htm",
+      "summary": "Theo Tổng Bí thư, Chủ tịch nước Tô Lâm, Bí thư Quân ủy Trung ương, phải đổi mới mạnh mẽ phương thức lãnh đạo, siết chặt kỷ luật thực thi, tăng cường công tác chính trị, tư tưởng, kiểm tra, giám sát và tổ chức hành động đến cùng để đưa Nghị quyết Đại hội XIV nhanh chóng đi vào cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:00:00+07:00",
+      "fetched": "2026-04-12T15:37:21.047524+07:00"
+    },
+    {
+      "id": "101bd7c6a746386896a984ad4bc49fd2",
+      "title": "Đàm phán Mỹ-Iran kết thúc, không đạt được thỏa thuận nào",
+      "link": "https://thanhnien.vn/dam-phan-my-iran-ket-thuc-khong-dat-duoc-thoa-thuan-nao-185260412140945413.htm",
+      "summary": "Phó Tổng thống Mỹ J.D. Vance hôm 12.4 cho biết nhóm đàm phán của ông đang rời Pakistan sau khi không đạt được thỏa thuận với Iran sau 21 giờ đàm phán, khiến thỏa thuận ngừng bắn thêm mong manh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:00:00+07:00",
+      "fetched": "2026-04-12T15:37:21.047679+07:00"
+    },
+    {
+      "id": "0b04ece3041f3221104e124d20b26e85",
+      "title": "Lái xe không biết chữ được 'ông trùm' đa cấp dựng làm giám đốc",
+      "link": "https://thanhnien.vn/lai-xe-khong-biet-chu-duoc-ong-trum-da-cap-dung-lam-giam-doc-185260412132115337.htm",
+      "summary": "'Ông trùm' đa cấp Vũ Đức Tĩnh đã lập ra nhiều công ty, phân công người làm giám đốc, kế toán, thậm chí dựng cả lái xe riêng, không biết chữ làm giám đốc công ty đa cấp, lừa đảo hơn 5.000 người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:54:00+07:00",
+      "fetched": "2026-04-12T15:37:21.047831+07:00"
+    },
+    {
+      "id": "28bfa72f269b395f883d286ba46e940e",
+      "title": "Lật tẩy chiêu trò buôn lậu dầu xuyên biên giới",
+      "link": "https://thanhnien.vn/lat-tay-chieu-tro-buon-lau-dau-xuyen-bien-gioi-185260412142147334.htm",
+      "summary": "Sáng 12.4.2026, Hải quan Cửa khẩu quốc tế Lao Bảo cho biết đơn vị vừa phối hợp với Đồn biên phòng Cửa khẩu quốc tế Lao Bảo và Phòng Cảnh sát kinh tế Công an tỉnh Quảng Trị phát hiện một xe đầu kéo biển số Lào có hành vi vận chuyển trái phép dầu diesel từ Việt Nam sang Lào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:51:00+07:00",
+      "fetched": "2026-04-12T15:37:21.047990+07:00"
+    },
+    {
+      "id": "c0ba7a64558646af36dd730b48d5264a",
+      "title": "Cháy nhà trọ ở TP.HCM: 2 người chết, nhiều người bị thương",
+      "link": "https://thanhnien.vn/chay-nha-tro-o-tphcm-2-nguoi-chet-nhieu-nguoi-bi-thuong-185260412141848641.htm",
+      "summary": "Một vụ cháy nhà trọ vừa xảy ra rạng sáng nay 12.4 tại hẻm đường Nguyễn Thị Thơi (phường Tân Thới Hiệp, TP.HCM) khiến 2 người tử vong và nhiều người khác bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:51:00+07:00",
+      "fetched": "2026-04-12T15:37:21.048139+07:00"
+    },
+    {
+      "id": "1c9346142bc211387e236002ecbc9284",
+      "title": "Hà Tĩnh: Cháy lớn tại showroom đồ gỗ",
+      "link": "https://thanhnien.vn/ha-tinh-chay-lon-tai-showroom-do-go-185260412135537127.htm",
+      "summary": "Trưa nay 12.4, một vụ cháy lớn đã xảy ra tại tòa nhà trưng bày sản phẩm của Công ty TNHH Chế biến gỗ và thương mại Hào Quang (P.Thành Sen, tỉnh Hà Tĩnh). Hàng chục chiến sĩ PCCC đã được điều động để khống chế ngọn lửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:44:00+07:00",
+      "fetched": "2026-04-12T15:37:21.048328+07:00"
+    },
+    {
+      "id": "ec957ef9ac132e874d777750d4d9a32b",
+      "title": "‘Hành trình đỏ’ mang theo khát vọng của thanh niên Việt Nam",
+      "link": "https://thanhnien.vn/hanh-trinh-do-mang-theo-khat-vong-cua-thanh-nien-viet-nam-185260412122628019.htm",
+      "summary": "Tham gia chuyến “Hành trình đỏ nghiên cứu, học tập năm 2026” tại Trung Quốc, á hậu Việt Nam 2024 Trần Ngọc Châu Anh cho rằng mình không chỉ đến để học lịch sử mà còn mang theo khát vọng của thanh niên Việt Nam thời đại mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:43:00+07:00",
+      "fetched": "2026-04-12T15:37:21.048502+07:00"
+    },
+    {
+      "id": "0b2f9506c5ee43d7cbf82e620129c61a",
+      "title": "Nhóm giang hồ nổ súng tại tiệc nhậu bị bắt",
+      "link": "https://vnexpress.net/nhom-giang-ho-no-sung-tai-tiec-nhau-bi-bat-5061453.html",
+      "summary": "Nguyễn Thành Tiến, 27 tuổi, cùng đồng phạm bị bắt sau gần một tuần nổ súng, dùng dao truy sát làm hai người bị thương ở tiệc nhậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:36:15+07:00",
+      "fetched": "2026-04-12T15:37:17.815515+07:00"
+    },
+    {
+      "id": "7e908dac9659729b18c1497ec9581f6f",
+      "title": "Áp lực du lịch cho giới trẻ mùa lễ 30.4 - 1.5: Gia tăng những ngày gần đây",
+      "link": "https://thanhnien.vn/ap-luc-du-lich-gioi-tre-mua-le-304-15-gia-tang-nhung-ngay-gan-day-185260412133404753.htm",
+      "summary": "Khi trên mạng ngập tràn hình ảnh du lịch, săn vé, đặt phòng… cho mùa lễ 30.4 - 1.5 sắp tới, điều này dẫn tới việc áp lực du lịch cho giới trẻ. Không ít người trẻ sốt ruột vì 'tiền chưa có, làm sao đi chơi?'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:36:00+07:00",
+      "fetched": "2026-04-12T15:37:21.048659+07:00"
+    },
+    {
+      "id": "3623f89e210b0754e5139d392acc7007",
+      "title": "Bất ngờ khi 'mổ xẻ' chiếc smartphone màn hình cuộn bị khai tử của LG",
+      "link": "https://thanhnien.vn/bat-ngo-khi-mo-xe-chiec-smartphone-man-hinh-cuon-bi-khai-tu-cua-lg-185260410091341274.htm",
+      "summary": "Khám phá chiếc smartphone hiếm nhất: Động cơ, bánh răng và bí mật của LG bị vùi lấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:33:00+07:00",
+      "fetched": "2026-04-12T15:37:21.048815+07:00"
+    },
+    {
+      "id": "3d98975d56f759d66cd2b6a962b04424",
+      "title": "Loạt ôtô gầm thấp bàn giao nhiều nhất tháng 3",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/loat-oto-gam-thap-ban-giao-nhieu-nhat-thang-3-5061337.html",
+      "summary": "Toyota Vios duy trì vị trí dẫn đầu bảng xếp hạng doanh số với 1.004 xe, Mazda2 leo lên hạng hai đẩy Honda City xuống thứ ba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:31:02+07:00",
+      "fetched": "2026-04-12T15:37:17.815678+07:00"
+    },
+    {
+      "id": "900adc0b8c87bee12f40a87c40f01427",
+      "title": "Công ty gỗ ở Hà Tĩnh cháy lớn",
+      "link": "https://vnexpress.net/cong-ty-go-o-ha-tinh-chay-lon-5061447.html",
+      "summary": "Khu trưng bày sản phẩm rộng hàng nghìn mét vuông của công ty gỗ ở phường Thành Sen bốc cháy dữ dội, trưa 12/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:27:44+07:00",
+      "fetched": "2026-04-12T15:37:17.815846+07:00"
+    },
+    {
+      "id": "75e83a9b7ce9b653e9422fef9a739dfe",
+      "title": "4 nạn nhân trong vụ cháy nhà trọ 4 tầng 'tiên lượng nặng'",
+      "link": "https://vnexpress.net/4-nan-nhan-trong-vu-chay-nha-tro-4-tang-tien-luong-nang-5061448.html",
+      "summary": "4 người từ 21 đến 29 tuổi suy hô hấp nặng, bé trai một tuổi ngạt khí độc, sau vụ cháy nhà trọ ở phường Tân Thới Hiệp khiến hai trường hợp tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:23:33+07:00",
+      "fetched": "2026-04-12T15:37:17.816009+07:00"
+    },
+    {
+      "id": "d60f3908a7031078a767553edae13a8b",
+      "title": "Thai phụ 35 tuổi tử vong sau khi ăn đồ thừa trong tủ lạnh",
+      "link": "https://vnexpress.net/thai-phu-35-tuoi-tu-vong-sau-khi-an-do-thua-trong-tu-lanh-5061060.html",
+      "summary": "Tiêu thụ thức ăn thừa để qua đêm trong tủ lạnh, thai phụ tại thành phố Trịnh Châu, tỉnh Hà Nam, nhiễm vi khuẩn listeria, tử vong sau ba tháng điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:20:30+07:00",
+      "fetched": "2026-04-12T15:37:17.816193+07:00"
+    },
+    {
+      "id": "4ad2df6a1a92e1dbb50e506e86d822af",
+      "title": "Cảnh người dân tháo chạy khỏi nhà trọ cháy lúc rạng sáng",
+      "link": "https://vnexpress.net/canh-nguoi-dan-thao-chay-khoi-nha-tro-chay-luc-rang-sang-5061450.html",
+      "summary": "Camera ghi cảnh người dân tháo chạy thoát thân khỏi căn nhà trọ 4 tầng ở phường Tân Thới Hiệp bốc cháy rạng sáng 12/4, vụ việc khiến đôi nam nữ tử vong, 5 người ngạt khói.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:12:34+07:00",
+      "fetched": "2026-04-12T15:37:17.816356+07:00"
+    },
+    {
+      "id": "1ea9c39df9c1fc83868fb4f97728ad04",
+      "title": "EU cân nhắc áp thêm thuế với các hãng dầu, khí",
+      "link": "https://vnexpress.net/eu-can-nhac-ap-them-thue-voi-cac-hang-dau-khi-5061390.html",
+      "summary": "Quan chức Liên minh châu Âu (EU) đang nghiên cứu thuế với lợi nhuận bất thường của các công ty năng lượng, khi giá dầu tăng cao vì chiến sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:05:00+07:00",
+      "fetched": "2026-04-12T15:37:17.816525+07:00"
+    },
+    {
+      "id": "1ea9c39df9c1fc83868fb4f97728ad04",
+      "title": "EU cân nhắc áp thêm thuế với các hãng dầu, khí",
+      "link": "https://vnexpress.net/eu-can-nhac-ap-them-thue-voi-cac-hang-dau-khi-5061390.html",
+      "summary": "Quan chức Liên minh châu Âu (EU) đang nghiên cứu thuế với lợi nhuận bất thường của các công ty năng lượng, khi giá dầu tăng cao vì chiến sự.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-12T07:05:00+07:00",
+      "fetched": "2026-04-12T15:37:26.734244+07:00"
+    },
+    {
       "id": "f64828889679a9474af1e7ac026264a5",
       "title": "Làm chủ trang phục màu nâu cho ngày hè",
       "link": "https://thanhnien.vn/thoi-trang-tre/lam-chu-trang-phuc-mau-nau-cho-ngay-he-185260411163212434.htm",
@@ -461,6 +811,76 @@ window.newsData_2026_04_12 = {
       "category": "Tổng hợp",
       "published": "2026-04-12T07:00:00+07:00",
       "fetched": "2026-04-12T14:03:24.345939+07:00"
+    },
+    {
+      "id": "6e2d68d176c34e7f05ef8e37bfc421e6",
+      "title": "Bài tập nhảy tại chỗ 50 giây giúp bay mỡ thừa của người Nhật",
+      "link": "https://vnexpress.net/bai-tap-nhay-tai-cho-50-giay-giup-bay-mo-thua-cua-nguoi-nhat-5061172.html",
+      "summary": "Phương pháp nhảy tại chỗ chỉ mất 50 giây mỗi ngày trở thành xu hướng bùng nổ ở Nhật Bản nhờ khả năng kích hoạt nhóm cơ đặc biệt giúp đốt cháy mỡ thừa hiệu quả và tăng cường cơ bắp nhanh chóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:00:00+07:00",
+      "fetched": "2026-04-12T15:37:17.816685+07:00"
+    },
+    {
+      "id": "797cd0dfa88ec32838b129ce3b214473",
+      "title": "Nhìn hình ảnh bạn có đoán được câu thành ngữ này là gì?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-nhin-hinh-anh-ban-co-doan-duoc-cau-thanh-ngu-nay-la-gi-5059977.html",
+      "summary": "Thành ngữ nói về sự vất vả, cực nhọc của con người khi phải chịu đựng cảnh làm việc nặng nhọc trong điều kiện không thuận lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:00:00+07:00",
+      "fetched": "2026-04-12T15:37:17.816847+07:00"
+    },
+    {
+      "id": "88632cbde60fa7873ef0781a7ae35918",
+      "title": "TBS Group và Lefaso tiếp đoàn công tác Bộ Công Thương",
+      "link": "https://vnexpress.net/tbs-group-va-lefaso-tiep-doan-cong-tac-bo-cong-thuong-5061400.html",
+      "summary": "TBS Group phối hợp Lefaso cùng đoàn Bộ Công Thương thảo luận chiến lược phát triển ngành thời trang quốc gia qua đổi mới sáng tạo và chuyển đổi số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:00:00+07:00",
+      "fetched": "2026-04-12T15:37:17.817005+07:00"
+    },
+    {
+      "id": "a352ce36f300dd722bbf2776288036fc",
+      "title": "Sứ mệnh Mặt Trăng tiếp theo sau thành công của Artemis II là gì?",
+      "link": "https://vnexpress.net/su-menh-mat-trang-tiep-theo-sau-thanh-cong-cua-artemis-ii-la-gi-5061435.html",
+      "summary": "Sau chuyến bay vòng quanh Mặt Trăng, NASA bước vào giai đoạn tiếp theo của chương trình Artemis, hướng tới đổ bộ và xây căn cứ trên thiên thể này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:51:06+07:00",
+      "fetched": "2026-04-12T15:37:17.817186+07:00"
+    },
+    {
+      "id": "a352ce36f300dd722bbf2776288036fc",
+      "title": "Sứ mệnh Mặt Trăng tiếp theo sau thành công của Artemis II là gì?",
+      "link": "https://vnexpress.net/su-menh-mat-trang-tiep-theo-sau-thanh-cong-cua-artemis-ii-la-gi-5061435.html",
+      "summary": "Sau chuyến bay vòng quanh Mặt Trăng, NASA bước vào giai đoạn tiếp theo của chương trình Artemis, hướng tới đổ bộ và xây căn cứ trên thiên thể này.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-12T06:51:06+07:00",
+      "fetched": "2026-04-12T15:37:29.469806+07:00"
+    },
+    {
+      "id": "9b991fa2d7515c71c8f51a11e4a3259a",
+      "title": "Nhiều nhân viên 'phá' AI vì sợ bị sa thải",
+      "link": "https://vnexpress.net/nhieu-nhan-vien-pha-ai-vi-so-bi-sa-thai-5060373.html",
+      "summary": "Nhiều người, đặc biệt là Gen Z, cố gắng tạo ra những lý do để ngăn công ty của mình triển khai AI vì sợ bị thay thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:50:00+07:00",
+      "fetched": "2026-04-12T15:37:17.817353+07:00"
+    },
+    {
+      "id": "9b991fa2d7515c71c8f51a11e4a3259a",
+      "title": "Nhiều nhân viên 'phá' AI vì sợ bị sa thải",
+      "link": "https://vnexpress.net/nhieu-nhan-vien-pha-ai-vi-so-bi-sa-thai-5060373.html",
+      "summary": "Nhiều người, đặc biệt là Gen Z, cố gắng tạo ra những lý do để ngăn công ty của mình triển khai AI vì sợ bị thay thế.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-12T06:50:00+07:00",
+      "fetched": "2026-04-12T15:37:29.469991+07:00"
     },
     {
       "id": "7809260a93eed1c9f85fde4785b2597e",
