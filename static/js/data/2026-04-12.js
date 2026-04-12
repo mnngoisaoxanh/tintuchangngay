@@ -1,7 +1,177 @@
 window.newsData_2026_04_12 = {
   "date": "2026-04-12",
-  "lastUpdated": "2026-04-12T05:21:41.588668+07:00",
+  "lastUpdated": "2026-04-12T08:43:51.257590+07:00",
   "articles": [
+    {
+      "id": "226cd251a1c6fa41ee53a487abc53431",
+      "title": "Chế độ ăn nào được chuyên gia đánh giá cao về mức độ lành mạnh?",
+      "link": "https://tuoitre.vn/che-do-an-nao-duoc-chuyen-gia-danh-gia-cao-ve-muc-do-lanh-manh-20260411235719615.htm",
+      "summary": "Chuyên gia dinh dưỡng khuyên chế độ ăn với nhiều thực phẩm tự nhiên, cân bằng, lành mạnh có lợi cho sức khỏe hơn việc ăn kiêng khắc nghiệt. Trong đó, chế độ ăn Địa Trung Hải được cho là một trong  số cách ăn lành mạnh hàng đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.855052+07:00",
+      "fetched": "2026-04-12T08:43:44.855150+07:00"
+    },
+    {
+      "id": "cc9b23f7399ac10da39e5d9ccbf5e09b",
+      "title": "Gặp người bất tỉnh, nên bế lên hay để nằm yên?",
+      "link": "https://tuoitre.vn/gap-nguoi-bat-tinh-nen-be-len-hay-de-nam-yen-20260410200457353.htm",
+      "summary": "Đứng trước một người bất tỉnh, phản xạ tự nhiên của nhiều người là lập tức bế nạn nhân lên và tìm cách đưa đi cấp cứu càng nhanh càng tốt. Tuy nhiên, theo các bác sĩ, hành động này chưa chắc đã đúng, thậm chí có thể khiến tình trạng nghiêm trọng hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.854944+07:00",
+      "fetched": "2026-04-12T08:43:44.855043+07:00"
+    },
+    {
+      "id": "064a18802a8c08c459d097ea5db35aac",
+      "title": "Làng cờ tướng Trung Quốc ngỡ ngàng khi biết Lại Lý Huynh bị soán ngôi",
+      "link": "https://tuoitre.vn/lang-co-tuong-trung-quoc-ngo-ngang-khi-biet-lai-ly-huynh-bi-soan-ngoi-20260411153318744.htm",
+      "summary": "Không chỉ người hâm mộ cờ tướng Việt Nam, ngay cả kỳ đàn đại lục cũng bị bất ngờ với diễn biến ở Giải vô địch cờ tướng Việt Nam 2026, khi Lại Lý Huynh đánh mất ngôi vị kỳ vương trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.854835+07:00",
+      "fetched": "2026-04-12T08:43:44.854934+07:00"
+    },
+    {
+      "id": "366668cd39f84c90751c4142979f4e02",
+      "title": "Tin tức thế giới 12-4: Mỹ rà phá thủy lôi ở eo biển Hormuz; Đàm phán Iran - Mỹ tiếp diễn",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-12-4-my-ra-pha-thuy-loi-o-eo-bien-hormuz-dam-phan-iran-my-tiep-dien-20260412062326171.htm",
+      "summary": "Ông Trump nói Mỹ đã thắng, đạt thỏa thuận với Iran hay không cũng chẳng khác gì; Nga - Ukraine tố nhau vi phạm ngừng bắn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.854720+07:00",
+      "fetched": "2026-04-12T08:43:44.854826+07:00"
+    },
+    {
+      "id": "17e0a0f2780f86004b8c029f3201ad2e",
+      "title": "Ăn uống cân bằng để khỏe mạnh, lạm dụng da heo để tăng collagen dễ ôm bụng mỡ",
+      "link": "https://tuoitre.vn/an-uong-can-bang-de-khoe-manh-lam-dung-da-heo-de-tang-collagen-de-om-bung-mo-20260410160757132.htm",
+      "summary": "Collagen trong da heo đi qua bao tử và 'ba tầng bảy lớp' khác mới đến da. Nên ăn uống cân bằng thì cơ thể mới khỏe mạnh chứ đừng vì câu ăn gì bổ nấy mà có ngày căng mỡ bụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.854610+07:00",
+      "fetched": "2026-04-12T08:43:44.854711+07:00"
+    },
+    {
+      "id": "49fac0b3a23fbb16e4de650e078b3b71",
+      "title": "Bức thư 'giải nhiệt' của hiệu trưởng giữa những ngày nắng nóng",
+      "link": "https://tuoitre.vn/buc-thu-giai-nhiet-cua-hieu-truong-giua-nhung-ngay-nang-nong-20260411221441941.htm",
+      "summary": "Không phải là một văn bản chỉ đạo khô khan, lá thư của thầy hiệu trưởng Trường THPT Bùi Thị Xuân gửi đến học sinh và giáo viên như cơn mưa \"giải nhiệt\" giữa những ngày nắng nóng ở TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.854500+07:00",
+      "fetched": "2026-04-12T08:43:44.854600+07:00"
+    },
+    {
+      "id": "bb1b1573319312b79fc14d77e863a639",
+      "title": "Đàm phán Mỹ - Iran: Gần 15 giờ thất thường, bất đồng vẫn tồn tại",
+      "link": "https://tuoitre.vn/dam-phan-my-iran-gan-15-gio-that-thuong-bat-dong-van-ton-tai-20260412070155209.htm",
+      "summary": "Phía Pakistan tiết lộ tâm trạng của Mỹ và Iran lên xuống thất thường trong cuộc đàm phán marathon suốt đêm. Eo biển Hormuz vẫn là nút thắt lớn nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.854393+07:00",
+      "fetched": "2026-04-12T08:43:44.854491+07:00"
+    },
+    {
+      "id": "f4a7d15906f083f0596c10dcea36000e",
+      "title": "Range Rover Sport 2026 ra mắt Việt Nam: Giá từ gần 6 tỉ đồng, có bản đi 100km không cần xăng",
+      "link": "https://tuoitre.vn/range-rover-sport-2026-ra-mat-viet-nam-gia-tu-gan-6-ti-dong-co-ban-di-100km-khong-can-xang-20260411225110641.htm",
+      "summary": "Range Rover Sport 2026 chính thức được giới thiệu tại Việt Nam với nhiều phiên bản và tùy chọn động cơ, trong đó đáng chú ý là biến thể plug-in hybrid có khả năng vận hành thuần điện gần 100km.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.854276+07:00",
+      "fetched": "2026-04-12T08:43:44.854379+07:00"
+    },
+    {
+      "id": "837bfe99c5eaaf8a330e7679c78fa46b",
+      "title": "Miền Tây sống chung với hạn mặn, không chống mặn bằng mọi giá",
+      "link": "https://tuoitre.vn/mien-tay-song-chung-voi-han-man-khong-chong-man-bang-moi-gia-20260411235616544.htm",
+      "summary": "Những ngày đầu tháng 4, khi cái nắng miền Tây bắt đầu trở nên gay gắt, trên dòng sông Tiền, máy đo độ mặn nhấp nháy liên tục, dừng lại ở mức 3,8‰ rồi nhanh chóng vượt qua ngưỡng 4‰ chỉ sau một con nước lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.854169+07:00",
+      "fetched": "2026-04-12T08:43:44.854267+07:00"
+    },
+    {
+      "id": "516e7b0dd24758853a69723b193976c2",
+      "title": "Phát huy vai trò của phát thanh như một diễn đàn tin cậy của Nhân dân",
+      "link": "https://tuoitre.vn/phat-huy-vai-tro-cua-phat-thanh-nhu-mot-dien-dan-tin-cay-cua-nhan-dan-20260412074645699.htm",
+      "summary": "Tuổi Trẻ Online đăng bài phát biểu của ông Trịnh Văn Quyết - Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Trưởng Ban Tuyên giáo và Dân vận Trung ương - tại lễ khai mạc Liên hoan Phát thanh toàn quốc lần thứ XVII - Quảng Ninh năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.854061+07:00",
+      "fetched": "2026-04-12T08:43:44.854160+07:00"
+    },
+    {
+      "id": "6c6aefbdc677a57c230fa3eaec1f58c0",
+      "title": "Vỉa hè lộn xộn đang cản trở hành khách xe buýt",
+      "link": "https://tuoitre.vn/via-he-lon-xon-dang-can-tro-hanh-khach-xe-buyt-20260412075346291.htm",
+      "summary": "TP.HCM đang lập lại trật tự vỉa hè, lòng lề đường, khuyến khích người dân sử dụng giao thông công cộng. Thế nhưng không gian vỉa hè, nơi người dân tiếp cận xe buýt, lại đang bị sử dụng thiếu kiểm soát, bị \"xẻ nhỏ\" bởi nhiều loại hạ tầng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.853952+07:00",
+      "fetched": "2026-04-12T08:43:44.854051+07:00"
+    },
+    {
+      "id": "e4fe9aff19730997bbe749ab3d4bd369",
+      "title": "Giá thuê văn phòng hạng A trung tâm TP.HCM gần 65 USD/m²/tháng, top 5 đắt đỏ nhất khu vực",
+      "link": "https://tuoitre.vn/gia-thue-van-phong-hang-a-trung-tam-tp-hcm-gan-65-usd-m-thang-top-5-dat-do-nhat-khu-vuc-20260411174334997.htm",
+      "summary": "Với mức giá trung bình gần 65 USD/m²/tháng, thị trường văn phòng TP.HCM đã chính thức ghi danh vào danh sách 5 thị trường có giá thuê đắt đỏ nhất khu vực châu Á - Thái Bình Dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.853842+07:00",
+      "fetched": "2026-04-12T08:43:44.853942+07:00"
+    },
+    {
+      "id": "d4c4f32b4992a96e6ae83baac6b06455",
+      "title": "Tài xế xe điện bốn bánh ở Hải Tiến phải có bằng B2 trở lên",
+      "link": "https://tuoitre.vn/tai-xe-xe-dien-bon-banh-o-hai-tien-phai-co-bang-b2-tro-len-20260412073604085.htm",
+      "summary": "UBND xã Hoằng Tiến và Hoằng Thanh (Thanh Hóa) yêu cầu tài xế xe điện bốn bánh ở Hải Tiến phải có bằng B2 trở lên, siết chặt quản lý phương tiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.853716+07:00",
+      "fetched": "2026-04-12T08:43:44.853832+07:00"
+    },
+    {
+      "id": "d1b6b4e377e9437172378c8155e3bbba",
+      "title": "Sinh viên Bách khoa đưa luận văn AI lên tạp chí Q1",
+      "link": "https://tuoitre.vn/sinh-vien-bach-khoa-dua-luan-van-ai-len-tap-chi-q1-20260412080023156.htm",
+      "summary": "Sinh viên ĐH Bách khoa (ĐH Quốc gia TP.HCM) phát triển kỹ thuật giúp AI làm trắc nghiệm ổn định hơn, công bố trên tạp chí Q1 quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.853595+07:00",
+      "fetched": "2026-04-12T08:43:44.853706+07:00"
+    },
+    {
+      "id": "cfb8b3550c7d5a4438cde84bc4899fb9",
+      "title": "Tiền đạo Gyokeres đổ lỗi cho mặt sân sau khi Arsenal thua Bournemouth",
+      "link": "https://tuoitre.vn/tien-dao-gyokeres-do-loi-cho-mat-san-sau-khi-arsenal-thua-bournemouth-20260412082116009.htm",
+      "summary": "Viktor Gyokeres (Arsenal) cho rằng mặt sân Emirates không đủ tốt khiến Arsenal thua Bournemouth.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T08:43:44.853374+07:00",
+      "fetched": "2026-04-12T08:43:44.853581+07:00"
+    },
+    {
+      "id": "b265d739c05e85d5c0688af2a12534bd",
+      "title": "Giá Bitcoin hôm nay 12.4.2026: Vượt mốc 73.000 USD",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1242026-vuot-moc-73000-usd-185260412071351469.htm",
+      "summary": "Giá Bitcoin hôm nay tiếp tục đà tăng giá, vượt mốc 73.000 USD khi tâm lý thị trường lạc quan trở lại, nhiều dự báo cho thấy giá BTC đã chạm đáy, sẵn sàng cho đợt tăng giá mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T01:40:00+07:00",
+      "fetched": "2026-04-12T08:43:40.904941+07:00"
+    },
+    {
+      "id": "da7837361607fe52486c20ba63bc43cc",
+      "title": "Bí quyết chọn trang phục để 'hạ nhiệt' cơ thể trong ngày nắng nóng",
+      "link": "https://thanhnien.vn/bi-quyet-chon-trang-phuc-de-ha-nhiet-co-the-trong-ngay-nang-nong-185260410175808173.htm",
+      "summary": "Nắng nóng gay gắt khiến cơ thể dễ rơi vào trạng thái tích nhiệt, mệt mỏi và mất nước. Ít ai biết rằng, trang phục không phù hợp cũng có thể khiến cơ thể nóng lên nhanh hơn. Lựa chọn đúng quần áo không chỉ giúp cảm thấy dễ chịu mà còn góp phần hỗ trợ điều hòa thân nhiệt hiệu quả trong những ngày oi b...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T01:40:00+07:00",
+      "fetched": "2026-04-12T08:43:40.905085+07:00"
+    },
     {
       "id": "f64b9c59d812e045249d0e68e1fea7fa",
       "title": "Nhiều 'tên tuổi lớn' trong danh sách 108 doanh nghiệp Cục Thuế sẽ kiểm tra",
@@ -153,6 +323,356 @@ window.newsData_2026_04_12 = {
       "fetched": "2026-04-12T01:30:11.548611+07:00"
     },
     {
+      "id": "df7af1bf2ef97747e23ee86ac8611437",
+      "title": "Mỹ thu hồi hơn 350.000 hộp vitamin, thực phẩm bổ sung",
+      "link": "https://thanhnien.vn/my-thu-hoi-hon-350000-hop-vitamin-thuc-pham-bo-sung-185260412075759946.htm",
+      "summary": "Hơn 350.000 sản phẩm vitamin và thực phẩm bổ sung có thành phần sắt vừa bị thu hồi tại Mỹ, do không thiết kế nắp an toàn bảo vệ trẻ em trong quá trình đóng gói.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T01:07:00+07:00",
+      "fetched": "2026-04-12T08:43:40.905217+07:00"
+    },
+    {
+      "id": "6d4da1cc6ea033c3da7a983e86a578bf",
+      "title": "Thường xuân - Thơ của Mai Nhật",
+      "link": "https://thanhnien.vn/thuong-xuan-tho-cua-mai-nhat-185260411190118686.htm",
+      "summary": "",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T01:05:00+07:00",
+      "fetched": "2026-04-12T08:43:42.390049+07:00"
+    },
+    {
+      "id": "6fbcf490085dbd18a9310c5600f8462b",
+      "title": "Anh Tây ngơ ngác trước 'bài tập nâng cao' tiếng Việt - Đàn ca tài tử",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-anh-tay-ngo-ngac-truoc-bai-tap-nang-cao-tieng-viet-dan-ca-tai-tu-5060912.html",
+      "summary": "Anh Tây cùng gia đình “đơ toàn tập” khi gặp bài tập nâng cao liên quan đến Đàn ca tài tử khi du lịch miền Tây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T01:00:00+07:00",
+      "fetched": "2026-04-12T08:43:37.953397+07:00"
+    },
+    {
+      "id": "e1ddc535f5546a3ba73e9382d68d0968",
+      "title": "Ăn gì buổi sáng để ổn định huyết áp?",
+      "link": "https://vnexpress.net/an-gi-buoi-sang-de-on-dinh-huyet-ap-5061246.html",
+      "summary": "Protein từ ức gà, các loại đậu, cá tốt cho mạch máu, còn kali và magie trong rau xanh, quả giúp đào thải muối dư thừa, hỗ trợ kiểm soát huyết áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T01:00:00+07:00",
+      "fetched": "2026-04-12T08:43:37.953555+07:00"
+    },
+    {
+      "id": "07ce9fb8975f62fa1ff871a4dc043baa",
+      "title": "5 việc nên làm thường xuyên giúp giảm mỡ nội tạng",
+      "link": "https://vnexpress.net/5-viec-nen-lam-thuong-xuyen-giup-giam-mo-noi-tang-5061232.html",
+      "summary": "Xen kẽ các bài tập cường độ thấp, cao liên tục trong tuần, bổ sung chất béo lành mạnh để hỗ trợ đốt calo, có thể giảm mỡ nội tạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T01:00:00+07:00",
+      "fetched": "2026-04-12T08:43:37.953698+07:00"
+    },
+    {
+      "id": "e28c5b411618cffa0ab1bb5651aa8fd7",
+      "title": "Ngủ ngáy có phải do viêm amidan?",
+      "link": "https://vnexpress.net/ngu-ngay-co-phai-do-viem-amidan-5061227.html",
+      "summary": "Tôi bị viêm amidan quá phát, ngủ ngáy to, giật mình giữa đêm hụt hơi. Viêm amidan có gây ngủ ngáy không, điều trị ra sao? (Lê Lâm, 40 tuổi, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T01:00:00+07:00",
+      "fetched": "2026-04-12T08:43:37.953852+07:00"
+    },
+    {
+      "id": "0d9eaf488650ee50120d9ce6ad4a7722",
+      "title": "Người trẻ chi mạnh cho trải nghiệm, tận hưởng; còn tích lũy thì sao?",
+      "link": "https://thanhnien.vn/nguoi-tre-chi-manh-cho-trai-nghiem-tan-huong-con-tich-luy-thi-sao-18526041119224095.htm",
+      "summary": "Thay vì dồn toàn bộ thu nhập để mua nhà hay tích trữ tài sản như thế hệ trước, hiện nay người trẻ ưu tiên trải nghiệm hơn tiết kiệm bằng cách sẵn sàng chi mạnh tay cho những chuyến du lịch hay các buổi concert đắt đỏ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T01:00:00+07:00",
+      "fetched": "2026-04-12T08:43:42.390228+07:00"
+    },
+    {
+      "id": "f0753c404c8d3e89d37bbca0a782762e",
+      "title": "Nhàn đàm: Mùa rung me",
+      "link": "https://thanhnien.vn/nhan-dam-mua-rung-me-185260411190740716.htm",
+      "summary": "Những cây me quanh nhà tôi có trái chín rộ từ tháng 3 đến tháng 5 dương lịch, kéo dài đến hết mùa hạ. Từ thuở nhỏ, trong tôi đã có một mùa khác xuân - hạ - thu - đông, đó là: mùa rung me.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T01:00:00+07:00",
+      "fetched": "2026-04-12T08:43:42.390375+07:00"
+    },
+    {
+      "id": "ae46ebe2d6039bf4df0801f64234c28a",
+      "title": "Agribank chủ động giảm lãi suất tiền gửi, tiên phong thực hiện giảm lãi suất cho vay",
+      "link": "https://thanhnien.vn/agribank-chu-dong-giam-lai-suat-tien-gui-tien-phong-thuc-hien-giam-lai-suat-cho-vay-18526041115225183.htm",
+      "summary": "Thực hiện chỉ đạo của NHNN về ổn định mặt bằng lãi suất, Agribank chủ động hạ lãi suất tiền gửi, đồng thời, là ngân hàng tiên phong tuyên bố giảm 0,5% lãi suất cho vay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T01:00:00+07:00",
+      "fetched": "2026-04-12T08:43:42.390511+07:00"
+    },
+    {
+      "id": "29b469c3fe76e112548664ca404d3a3a",
+      "title": "Xanh dương pastel, gam xanh trong trẻo tôn nét dịu dàng ngày nắng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/xanh-duong-pastel-gam-xanh-trong-treo-ton-net-diu-dang-ngay-nang-185260406143627775.htm",
+      "summary": "Xanh dương pastel là gam màu xanh nhạt mang đến cảm giác mát mẻ và nhẹ nhàng. Trong tiết trời oi ả mùa hè, trang phục màu xanh pastel giúp tôn da, vừa đem đến cho người mặc sự dễ chịu vừa tạo nên hình ảnh dịu dàng và thanh thoát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T01:00:00+07:00",
+      "fetched": "2026-04-12T08:43:42.390647+07:00"
+    },
+    {
+      "id": "63b590b1bf990feceed623ec58f29833",
+      "title": "Ronaldo giúp Al Nassr thắng trận thứ 16 liên tiếp",
+      "link": "https://vnexpress.net/ronaldo-giup-al-nassr-thang-tran-thu-16-lien-tiep-5061333.html",
+      "summary": "Tiền đạo Cristiano Ronaldo ghi bàn trong chiến thắng 2-0 của Al Nassr trước Al Okhdood, ở vòng 28 Saudi Pro League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T00:48:03+07:00",
+      "fetched": "2026-04-12T08:43:37.953989+07:00"
+    },
+    {
+      "id": "63b590b1bf990feceed623ec58f29833",
+      "title": "Ronaldo giúp Al Nassr thắng trận thứ 16 liên tiếp",
+      "link": "https://vnexpress.net/ronaldo-giup-al-nassr-thang-tran-thu-16-lien-tiep-5061333.html",
+      "summary": "Tiền đạo Cristiano Ronaldo ghi bàn trong chiến thắng 2-0 của Al Nassr trước Al Okhdood, ở vòng 28 Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-12T00:48:03+07:00",
+      "fetched": "2026-04-12T08:43:51.252160+07:00"
+    },
+    {
+      "id": "d6c26dee4e484b89537134736525359c",
+      "title": "Tiêu điểm quốc tế ngày 12.4: Ông Trump quyết mở khóa Hormuz | Iran còn bao nhiêu tên lửa?",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-124-ong-trump-quyet-mo-khoa-hormuz-iran-con-bao-nhieu-ten-lua-185260411232809556.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế ngày 12.4.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T00:46:00+07:00",
+      "fetched": "2026-04-12T08:43:42.390795+07:00"
+    },
+    {
+      "id": "d6e7df698bbe4960aec108386c56cf0a",
+      "title": "Vịnh Hạ Long: nơi 'rồng đáp' là đảo đá từ biển cổ 500 triệu năm",
+      "link": "https://thanhnien.vn/vinh-ha-long-noi-rong-dap-la-dao-da-tu-bien-co-500-trieu-nam-185260411202635745.htm",
+      "summary": "Vịnh Hạ Long (tỉnh Quảng Ninh) không chỉ là nơi \"rồng đáp xuống\" mà còn ẩn giấu hóa thạch biển cổ, dấu tích người tiền sử và những \"vịnh trong vịnh\" kỳ lạ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T00:45:00+07:00",
+      "fetched": "2026-04-12T08:43:43.857076+07:00"
+    },
+    {
+      "id": "f623aedb3ca856e47a00cec2806bc938",
+      "title": "Hôn nhân của tài tử 'Ước mơ vươn tới một ngôi sao'",
+      "link": "https://vnexpress.net/hon-nhan-cua-tai-tu-uoc-mo-vuon-toi-mot-ngoi-sao-5061329.html",
+      "summary": "Ahn Jae Wook - diễn viên Hàn đóng \"Ước mơ vươn tới một ngôi sao\" - biết ơn mỗi ngày cả nhà được ôm nhau, cười đùa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T00:39:09+07:00",
+      "fetched": "2026-04-12T08:43:37.954122+07:00"
+    },
+    {
+      "id": "494c27eb57c0d381cb6351db696bf5bf",
+      "title": "Mỹ tuyên bố triển khai chiến dịch rà phá thủy lôi ở eo biển Hormuz",
+      "link": "https://vnexpress.net/my-tuyen-bo-trien-khai-chien-dich-ra-pha-thuy-loi-o-eo-bien-hormuz-5061336.html",
+      "summary": "Mỹ điều tàu chiến qua eo biển Hormuz để mở đường cho chiến dịch rà phá mìn, trong khi Iran dọa sẽ \"xử lý nghiêm\" tàu quân sự ở đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T00:39:00+07:00",
+      "fetched": "2026-04-12T08:43:37.954258+07:00"
+    },
+    {
+      "id": "494c27eb57c0d381cb6351db696bf5bf",
+      "title": "Mỹ tuyên bố triển khai chiến dịch rà phá thủy lôi ở eo biển Hormuz",
+      "link": "https://vnexpress.net/my-tuyen-bo-trien-khai-chien-dich-ra-pha-thuy-loi-o-eo-bien-hormuz-5061336.html",
+      "summary": "Mỹ điều tàu chiến qua eo biển Hormuz để mở đường cho chiến dịch rà phá mìn, trong khi Iran dọa sẽ \"xử lý nghiêm\" tàu quân sự ở đây.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-12T00:39:00+07:00",
+      "fetched": "2026-04-12T08:43:46.585431+07:00"
+    },
+    {
+      "id": "69be8c80be1d0aff64cddddc7ca1302b",
+      "title": "HAGL hạ gục Nam Định, thủ môn Trung Kiên vui sướng khôn xiết: Vẫn lo sợ rớt hạng",
+      "link": "https://thanhnien.vn/hagl-ha-guc-nam-dinh-thu-mon-trung-kien-vui-suong-khon-xiet-van-lo-so-rot-hang-185260412071848367.htm",
+      "summary": "Vòng 18 V-League 2025 - 2026 vào ngày 11.4 đã chứng kiến bất ngờ cực lớn khi HAGL đánh bại Nam Định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T00:31:00+07:00",
+      "fetched": "2026-04-12T08:43:43.857321+07:00"
+    },
+    {
+      "id": "abf80c65fcd716904052fc3589e08c27",
+      "title": "Có nên mua RAM DDR4 vào năm 2026 khi DDR5 tăng vọt?",
+      "link": "https://thanhnien.vn/co-nen-mua-ram-ddr4-vao-nam-2026-khi-ddr5-tang-vot-185260411222430794.htm",
+      "summary": "Liệu RAM DDR4 là giải pháp 'vàng' hay 'ngõ cụt' cho game thủ giữa cơn bão giá linh kiện năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T00:31:00+07:00",
+      "fetched": "2026-04-12T08:43:43.857467+07:00"
+    },
+    {
+      "id": "5a36a80f68987464d8623210a620d726",
+      "title": "Đà Nẵng: 'Đánh thức' hàng trăm nhà, đất công bỏ trống, quyết không để lãng phí",
+      "link": "https://thanhnien.vn/da-nang-danh-thuc-hang-tram-nha-dat-cong-bo-trong-quyet-khong-de-lang-phi-185260411151518706.htm",
+      "summary": "Thay vì để các cơ sở nhà, đất dôi dư sau sáp nhập bộ máy rơi vào tình trạng xuống cấp, thành phố Đà Nẵng đang quyết liệt triển khai phương án chuyển đổi công năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T00:31:00+07:00",
+      "fetched": "2026-04-12T08:43:43.857601+07:00"
+    },
+    {
+      "id": "bfe01cff1ed3a89fe8dd7ca97a7b11bf",
+      "title": "Ronaldo lên tiếng đáp trả mọi chỉ trích bằng bàn thắng thứ 969, tiếp tục cùng Al Nassr bay cao",
+      "link": "https://thanhnien.vn/ronaldo-len-tieng-dap-tra-moi-chi-trich-bang-ban-thang-thu-969-tiep-tuc-cung-al-nassr-bay-cao-185260412072559895.htm",
+      "summary": "Rạng sáng 12.4, Ronaldo ghi bàn thắng thứ 969 trong sự nghiệp giúp CLB Al Nassr đánh bại đối thủ Al Okhdood với tỷ số 2-0 để bỏ xa Al Hilal đến 5 điểm, thẳng tiến đến ngôi vô địch Saudi Pro League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T00:28:00+07:00",
+      "fetched": "2026-04-12T08:43:43.857736+07:00"
+    },
+    {
+      "id": "5fee96d1082d31b506309044096daac1",
+      "title": "Đi đảo tránh nóng ngay tại TP.HCM?",
+      "link": "https://thanhnien.vn/di-dao-tranh-nong-ngay-tai-tphcm-185260412072014448.htm",
+      "summary": "Nắng nóng kéo dài với nhiệt độ 36 - 37 độ C khiến nhiều người dân TP.HCM lựa chọn rời thành phố, tìm đến Côn Đảo để nghỉ ngơi, “giải nhiệt” và cân bằng lại nhịp sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T00:20:00+07:00",
+      "fetched": "2026-04-12T08:43:43.857877+07:00"
+    },
+    {
+      "id": "b040cb44c680bbae6ccfab63a7c6d7ff",
+      "title": "10 ngày du hành quanh Trái Đất - Mặt Trăng của Artemis II",
+      "link": "https://vnexpress.net/10-ngay-du-hanh-quanh-trai-dat-mat-trang-cua-artemis-ii-5061326.html",
+      "summary": "Nhiệm vụ Artemis II của NASA diễn ra gần 10 ngày và kết thúc thành công, mở đường cho những sứ mệnh tiếp theo, hướng đến sự hiện diện lâu dài của con người trên Mặt Trăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T00:00:00+07:00",
+      "fetched": "2026-04-12T08:43:37.954390+07:00"
+    },
+    {
+      "id": "b3503dc7370deda9be779b8388b94c8f",
+      "title": "Lão nông biến vườn cau thành 'kho' dược liệu quý",
+      "link": "https://vnexpress.net/lao-nong-bien-vuon-cau-thanh-kho-duoc-lieu-quy-5061250.html",
+      "summary": "Tận dụng hàng chục nghìn thân cau làm giá thể trồng cốt toái bổ, ông Hà Văn Dũng xây dựng mô hình kết hợp “hai trong một”, tạo thêm nguồn thu hàng trăm triệu đồng mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T00:00:00+07:00",
+      "fetched": "2026-04-12T08:43:37.954518+07:00"
+    },
+    {
+      "id": "b2eb4e3a8ea632fae9fa8c6ae72d5dc4",
+      "title": "Dự báo ca ung thư tại Việt Nam tăng 70% vào năm 2050",
+      "link": "https://vnexpress.net/du-bao-ca-ung-thu-tai-viet-nam-tang-70-vao-nam-2050-5061219.html",
+      "summary": "Số ca ung thư mới tại Việt Nam có thể tăng 60-70% vào năm 2050, dẫn đến nhu cầu cấp thiết phòng ngừa, phát hiện sớm và tối ưu hóa điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T00:00:00+07:00",
+      "fetched": "2026-04-12T08:43:37.954650+07:00"
+    },
+    {
+      "id": "c16e627a79adae2056a255a17cd9981e",
+      "title": "Doanh số ôtô Trung Quốc: xuất khẩu tăng, nội địa giảm",
+      "link": "https://vnexpress.net/doanh-so-oto-trung-quoc-xuat-khau-tang-noi-dia-giam-5061166.html",
+      "summary": "Xuất khẩu ôtô Trung Quốc tăng 73,7% trong tháng 3, trong khi nội địa giảm 15,2%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T00:00:00+07:00",
+      "fetched": "2026-04-12T08:43:37.954787+07:00"
+    },
+    {
+      "id": "b040cb44c680bbae6ccfab63a7c6d7ff",
+      "title": "10 ngày du hành quanh Trái Đất - Mặt Trăng của Artemis II",
+      "link": "https://vnexpress.net/10-ngay-du-hanh-quanh-trai-dat-mat-trang-cua-artemis-ii-5061326.html",
+      "summary": "Nhiệm vụ Artemis II của NASA diễn ra gần 10 ngày và kết thúc thành công, mở đường cho những sứ mệnh tiếp theo, hướng đến sự hiện diện lâu dài của con người trên Mặt Trăng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-12T00:00:00+07:00",
+      "fetched": "2026-04-12T08:43:49.516029+07:00"
+    },
+    {
+      "id": "9a5a3848f0f40170b90141d42078ab39",
+      "title": "Nhìn lại hành trình 10 ngày bay quanh Mặt Trăng của Artemis II",
+      "link": "https://vnexpress.net/nhin-lai-hanh-trinh-10-ngay-bay-quanh-mat-trang-cua-artemis-ii-5061328.html",
+      "summary": "Phi hành đoàn Artemis II đã di chuyển hơn 1,1 triệu km trước khi bung dù đáp xuống Thái Bình Dương, đánh dấu lần đầu con người bay quanh Mặt Trăng kể từ năm 1972.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T23:47:39+07:00",
+      "fetched": "2026-04-12T08:43:37.954917+07:00"
+    },
+    {
+      "id": "c1c77ac3c87aa7ab60fc3cfcafb05700",
+      "title": "Alcaraz đấu Sinner ở chung kết Monte Carlo Masters",
+      "link": "https://vnexpress.net/alcaraz-dau-sinner-o-chung-ket-monte-carlo-masters-5061332.html",
+      "summary": "Hai tay vợt hàng đầu thế giới, Carlos Alcaraz và Jannik Sinner lần đầu chạm trán trong năm 2026, khi cùng thắng ở bán kết Monte Carlo Masters.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T23:46:48+07:00",
+      "fetched": "2026-04-12T08:43:37.955045+07:00"
+    },
+    {
+      "id": "c1c77ac3c87aa7ab60fc3cfcafb05700",
+      "title": "Alcaraz đấu Sinner ở chung kết Monte Carlo Masters",
+      "link": "https://vnexpress.net/alcaraz-dau-sinner-o-chung-ket-monte-carlo-masters-5061332.html",
+      "summary": "Hai tay vợt hàng đầu thế giới, Carlos Alcaraz và Jannik Sinner lần đầu chạm trán trong năm 2026, khi cùng thắng ở bán kết Monte Carlo Masters.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-11T23:46:48+07:00",
+      "fetched": "2026-04-12T08:43:51.252312+07:00"
+    },
+    {
+      "id": "b6eccad4ae0ec407b7f820b356c90695",
+      "title": "Nam sinh đỗ đại học Ivy League sau 'cú vấp' trượt trường Ams",
+      "link": "https://vnexpress.net/nam-sinh-do-dai-hoc-ivy-league-sau-cu-vap-truot-truong-ams-5060779.html",
+      "summary": "Từ cú vấp trượt chuyên Ams, Quang Anh chuyển hướng sang chương trình quốc tế, chinh phục 10 môn AP để giành tấm vé vào Đại học Cornell - top 12 Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T23:20:14+07:00",
+      "fetched": "2026-04-12T08:43:37.955175+07:00"
+    },
+    {
+      "id": "e88030b67b6ad66f9fbc0f457c86ddec",
+      "title": "Thuê người nấu cơm nhà",
+      "link": "https://vnexpress.net/thue-nguoi-nau-com-nha-5060720.html",
+      "summary": "18h30, Hải Ngọc, 27 tuổi, chuyên viên nội dung của một công ty công nghệ ở Hà Nội mở cửa bước vào nhà với mâm cơm đã đợi sẵn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T23:15:00+07:00",
+      "fetched": "2026-04-12T08:43:37.955305+07:00"
+    },
+    {
+      "id": "cf37b2922f6c5afdff2f8560e478ea45",
+      "title": "Tiền đạo Arsenal đổ lỗi cho mặt sân Emirates",
+      "link": "https://vnexpress.net/tien-dao-arsenal-do-loi-cho-mat-san-emirates-5061318.html",
+      "summary": "Tiền đạo Viktor Gyokeres cho rằng mặt sân khô tại Emirates ảnh hưởng đến khả năng triển khai bóng của Arsenal, ở trận thua Bournemouth 1-2 tại vòng 32 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-11T23:13:36+07:00",
+      "fetched": "2026-04-12T08:43:51.252718+07:00"
+    },
+    {
+      "id": "59bca97d4f2257eaa8b531d05f2759d3",
+      "title": "Arteta: 'Thua Bournemouth giống như cú đấm đau vào mặt'",
+      "link": "https://vnexpress.net/arteta-thua-bournemouth-giong-nhu-cu-dam-dau-vao-mat-5061316.html",
+      "summary": "HLV Mikel Arteta thất vọng khi các cầu thủ Arsenal chơi hoàn toàn dưới sức và bị trừng phạt đích đáng trong trận thua Bournemouth 1-2 ở vòng 32 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-11T23:02:08+07:00",
+      "fetched": "2026-04-12T08:43:51.252449+07:00"
+    },
+    {
+      "id": "40202c34b213c9e3a0bc7bb7ad1bda62",
+      "title": "YouTube nói việc hiển thị quảng cáo 90 giây 'là lỗi kỹ thuật'",
+      "link": "https://vnexpress.net/youtube-noi-viec-hien-thi-quang-cao-90-giay-la-loi-ky-thuat-5061319.html",
+      "summary": "Vài ngày qua, nhiều người dùng YouTube trên nền tảng TV thông minh phản ánh việc phải xem 90 giây quảng cáo mới có tùy chọn bỏ qua.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-11T23:00:00+07:00",
+      "fetched": "2026-04-12T08:43:49.516327+07:00"
+    },
+    {
       "id": "f24f6509b7d53d696c601bd5760f0387",
       "title": "Cuộc bầu cử không chỉ của Hungary",
       "link": "https://thanhnien.vn/cuoc-bau-cu-khong-chi-cua-hungary-185260411213801898.htm",
@@ -281,6 +801,16 @@ window.newsData_2026_04_12 = {
       "category": "Tổng hợp",
       "published": "2026-04-11T21:30:00+07:00",
       "fetched": "2026-04-12T05:21:33.531135+07:00"
+    },
+    {
+      "id": "43a5b43ade4e89b4b9ac8c07883d8826",
+      "title": "Barca tiến gần tới chức vô địch La Liga",
+      "link": "https://vnexpress.net/barca-tien-gan-toi-chuc-vo-dich-la-liga-5061317.html",
+      "summary": "Barca nới rộng cách biệt với Real Madrid lên 9 điểm bằng trận thắng Espanyol 4-1 ở vòng 31, tối 11/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-11T21:08:01+07:00",
+      "fetched": "2026-04-12T08:43:51.252584+07:00"
     },
     {
       "id": "a640b29c7c153e5cd9887a646020532c",
