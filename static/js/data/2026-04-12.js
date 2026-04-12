@@ -1,7 +1,157 @@
 window.newsData_2026_04_12 = {
   "date": "2026-04-12",
-  "lastUpdated": "2026-04-12T17:30:05.363768+07:00",
+  "lastUpdated": "2026-04-12T19:39:10.223202+07:00",
   "articles": [
+    {
+      "id": "b4adb20baea9774acb03c5fd62733abb",
+      "title": "PVF CAND - Công An Hà Nội (hết hiệp 1) 0-1: Chờ hiệp 2 bùng nổ",
+      "link": "https://tuoitre.vn/pvf-cand-cong-an-ha-noi-het-hiep-1-0-1-cho-hiep-2-bung-no-20260412085021528.htm",
+      "summary": "Kết thúc hiệp thi đấu đầu tiên, Công An Hà Nội đang tạm dẫn PVF- CAND 1-0 nhờ bàn thắng của Đình Bắc ở phút 13.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.576376+07:00",
+      "fetched": "2026-04-12T19:39:00.576491+07:00"
+    },
+    {
+      "id": "96fb4d9bb239f8361c8c16a017891c78",
+      "title": "Băng qua đường ngang, xe công nông bị tàu lửa tông, 3 ông cháu thương vong",
+      "link": "https://tuoitre.vn/bang-qua-duong-ngang-xe-cong-nong-bi-tau-lua-tong-3-ong-chau-thuong-vong-20260412164117296.htm",
+      "summary": "Xe công nông do ông cầm lái chở 2 cháu băng qua đường dân sinh tự mở cắt ngang đường sắt ở xã Ô Loan, Đắk Lắk (trước là Phú Yên) và bị tàu lửa SE9 tông. Tai nạn khiến 1 cháu bé chết tại chỗ, 2 ông cháu còn lại bị thương nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.576243+07:00",
+      "fetched": "2026-04-12T19:39:00.576360+07:00"
+    },
+    {
+      "id": "8dca27741d9147b5c29ba646a309f502",
+      "title": "Biểu tượng âm nhạc Bollywood Asha Bhosle qua đời",
+      "link": "https://tuoitre.vn/bieu-tuong-am-nhac-bollywood-asha-bhosle-qua-doi-20260412164441734.htm",
+      "summary": "Ngày 12-4, truyền thông quốc tế đồng loạt đưa tin 'nữ hoàng nhạc phim' Ấn Độ Asha Bhosle đã trút hơi thở cuối cùng tại Mumbai sau một cơn đau tim, hưởng thọ 92 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.576076+07:00",
+      "fetched": "2026-04-12T19:39:00.576230+07:00"
+    },
+    {
+      "id": "a5b945a3ce5961b77734674c47a5ef32",
+      "title": "Hà Tĩnh: Người dân thiếu nước sạch sinh hoạt giữa nắng nóng gay gắt",
+      "link": "https://tuoitre.vn/ha-tinh-nguoi-dan-thieu-nuoc-sach-sinh-hoat-giua-nang-nong-gay-gat-20260412163049816.htm",
+      "summary": "Hà Tĩnh đang trải qua đợt nắng nóng gay gắt, đây là thời điểm người dân cần dùng nhiều nước sạch để sinh hoạt, thế nhưng nguồn nước từ nhà máy cấp về bị gián đoạn khiến cuộc sống người dân bị đảo lộn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.575951+07:00",
+      "fetched": "2026-04-12T19:39:00.576064+07:00"
+    },
+    {
+      "id": "f4487fa18e0190fba23f600b42245797",
+      "title": "Lương Thế Thành bị khán giả 'ném đá' vì Bóng ma hạnh phúc, Thúy Diễm bảo 'khổ thân anh nhà'",
+      "link": "https://tuoitre.vn/luong-the-thanh-bi-khan-gia-nem-da-vi-bong-ma-hanh-phuc-thuy-diem-bao-kho-than-anh-nha-20260412170105222.htm",
+      "summary": "Vai người chồng tệ bạc trong phim Bóng ma hạnh phúc khiến Lương Thế Thành bị khán giả 'ném đá'. Ngay lập tức vợ anh, Thúy Diễm lên tiếng bênh vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.575827+07:00",
+      "fetched": "2026-04-12T19:39:00.575940+07:00"
+    },
+    {
+      "id": "67018c4081493fb6470c2b1530a12d0c",
+      "title": "Khánh Hòa muốn đẩy mạnh du lịch nông nghiệp, du khách được cho cừu ăn, hái xoài",
+      "link": "https://tuoitre.vn/khanh-hoa-muon-day-manh-du-lich-nong-nghiep-du-khach-duoc-cho-cuu-an-hai-xoai-20260412165321527.htm",
+      "summary": "Không chỉ dừng ở biển đảo, Khánh Hòa đang từng bước định hình hướng đi mới cho du lịch nông nghiệp. Từ các nông trại chăn nuôi đến các mô hình farmstay, nông nghiệp hữu cơ… dần hình thành một hệ sinh thái du lịch gắn với nông nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.575699+07:00",
+      "fetched": "2026-04-12T19:39:00.575815+07:00"
+    },
+    {
+      "id": "8a92e9ec5ca0c5f9f66852b998d94349",
+      "title": "Campuchia muốn sớm phân định biên giới, Thái Lan nói 'chưa sẵn sàng'",
+      "link": "https://tuoitre.vn/campuchia-muon-som-phan-dinh-bien-gioi-thai-lan-noi-chua-san-sang-20260412162242518.htm",
+      "summary": "Sau lệnh ngừng bắn cuối năm ngoái, Thủ tướng Hun Manet cho rằng đây là cơ hội để giải quyết tranh chấp biên giới với Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.575562+07:00",
+      "fetched": "2026-04-12T19:39:00.575684+07:00"
+    },
+    {
+      "id": "0b23ddb280054ec5cbac4fe94770a721",
+      "title": "Trải nghiệm 48 giờ ở TP.HCM cho bạn trẻ dịp nghỉ lễ, đi đâu cũng thấy đã!",
+      "link": "https://tuoitre.vn/trai-nghiem-48-gio-o-tp-hcm-cho-ban-tre-dip-nghi-le-di-dau-cung-thay-da-20260411203857699.htm",
+      "summary": "48 giờ ở TP.HCM cho hai dịp nghỉ lễ sắp tới không phải kiểu đi chơi cho có, mà là 'lên lịch là phải chất'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.575436+07:00",
+      "fetched": "2026-04-12T19:39:00.575550+07:00"
+    },
+    {
+      "id": "66999378dc83591db593151e26f3eee4",
+      "title": "Nga, Ukraine tố nhau vi phạm lệnh ngừng bắn trong lễ Phục sinh",
+      "link": "https://tuoitre.vn/nga-ukraine-to-nhau-vi-pham-lenh-ngung-ban-trong-le-phuc-sinh-20260412163201155.htm",
+      "summary": "Ngày 12-4, Ukraine và Nga đồng loạt cáo buộc đối phương vi phạm lệnh ngừng bắn trong dịp lễ Phục sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.575309+07:00",
+      "fetched": "2026-04-12T19:39:00.575424+07:00"
+    },
+    {
+      "id": "e2932004dd3203af670c96c5b26a4e8d",
+      "title": "Lễ hội Tết cổ truyền cho sinh viên Lào và Campuchia học tập ở TP.HCM",
+      "link": "https://tuoitre.vn/le-hoi-tet-co-truyen-cho-sinh-vien-lao-va-campuchia-hoc-tap-o-tp-hcm-20260412173312091.htm",
+      "summary": "Lễ hội Tết cổ truyền dành cho sinh viên Lào và Campuchia đang học tập ở TP.HCM đã diễn ra ngày 12-4 tại Trường THPT Phú Nhuận, phường Đức Nhuận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.575164+07:00",
+      "fetched": "2026-04-12T19:39:00.575296+07:00"
+    },
+    {
+      "id": "2819eb6a9de7ee1be79688d1652cd033",
+      "title": "Lạ lùng người trẻ không muốn làm sếp: Nhẹ đầu, khỏi phải phạt nhân viên vì KPI",
+      "link": "https://tuoitre.vn/la-lung-nguoi-tre-khong-muon-lam-sep-nhe-dau-khoi-phai-phat-nhan-vien-vi-kpi-20260411212728539.htm",
+      "summary": "Nhiều người chẳng muốn làm sếp vì không thích phải quản lý người khác, không thích giao việc rồi theo dõi nhân viên. Nhưng cũng có ý kiến cho rằng nếu cứ né tránh sẽ là người ngại thử thách, thiếu chí tiến thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.574998+07:00",
+      "fetched": "2026-04-12T19:39:00.575149+07:00"
+    },
+    {
+      "id": "c712ec1762f9e2e066b8523901e7d1c9",
+      "title": "Chủ tịch Quốc hội Iran: Mỹ không giành được lòng tin của Tehran",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-iran-my-khong-gianh-duoc-long-tin-cua-tehran-20260412182710984.htm",
+      "summary": "Chủ tịch Quốc hội Iran Mohammad Bagher Ghalibaf nhận định Mỹ đã không thể tạo dựng được lòng tin từ phía Tehran trong cuộc đàm phán vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.574864+07:00",
+      "fetched": "2026-04-12T19:39:00.574986+07:00"
+    },
+    {
+      "id": "af020b5dbb6ddf8a6011df78942fcf91",
+      "title": "Thanh Thúy xếp hạng bao nhiêu khi chia tay giải bóng chuyền Nhật Bản?",
+      "link": "https://tuoitre.vn/thanh-thuy-xep-hang-bao-nhieu-khi-chia-tay-giai-bong-chuyen-nhat-ban-20260412171026823.htm",
+      "summary": "Trưa 12-4, Trần Thị Thanh Thúy đã chơi trận đấu cuối cùng trong màu áo CLB Gunma Green Wings ở Giải vô địch bóng chuyền Nhật Bản (SV League) mùa giải 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.574728+07:00",
+      "fetched": "2026-04-12T19:39:00.574852+07:00"
+    },
+    {
+      "id": "b062c1823252884a3ac55d8c41aa8c32",
+      "title": "Lưu Tự Nhân lãnh thẻ đỏ, ứng viên lên V-League mất vui",
+      "link": "https://tuoitre.vn/luu-tu-nhan-lanh-the-do-ung-vien-len-v-league-mat-vui-20260412183550605.htm",
+      "summary": "Chiếc thẻ đỏ của tiền đạo Lưu Tự Nhân vô tình khiến CLB Trường Tươi Đồng Nai bị cầm hòa 0-0 trên sân Cao Lãnh của CLB Đồng Tháp ở vòng 14 giải hạng nhất vào tối 12-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.574584+07:00",
+      "fetched": "2026-04-12T19:39:00.574715+07:00"
+    },
+    {
+      "id": "cf8113748bf3dfe96cb8de8394e0bb08",
+      "title": "Thủ tướng Slovakia bắt đầu thăm chính thức Việt Nam",
+      "link": "https://tuoitre.vn/thu-tuong-slovakia-bat-dau-tham-chinh-thuc-viet-nam-20260412184337296.htm",
+      "summary": "Chiều 12-4, Thủ tướng Slovakia Robert Fico đến Hà Nội, bắt đầu chuyến thăm chính thức Việt Nam trong 3 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T19:39:00.574339+07:00",
+      "fetched": "2026-04-12T19:39:00.574569+07:00"
+    },
     {
       "id": "f2e34f6806e3345fb3ab705c6d3933e8",
       "title": "2 siêu tàu chở dầu đột ngột quay đầu ở eo Hormuz ngay khi đàm phán Mỹ - Iran đổ vỡ",
@@ -393,6 +543,146 @@ window.newsData_2026_04_12 = {
       "fetched": "2026-04-12T14:03:25.315861+07:00"
     },
     {
+      "id": "239720468ca06d49e46ea51a5e73d957",
+      "title": "Video AI người khuyết tật bán hàng: Chiêu giả mạo 'đánh thẳng' vào tâm lý",
+      "link": "https://thanhnien.vn/video-ai-nguoi-khuyet-tat-ban-hang-chieu-gia-mao-danh-thang-vao-tam-ly-185260412193757729.htm",
+      "summary": "Một video với nội dung 'người khuyết tật bán hàng' lan truyền trên mạng xã hội gây chú ý. Trong khuôn khổ học phần 'Thẩm định tin tức' tại Báo Thanh Niên, nhóm sinh viên trường Đại học Văn Lang đã làm rõ các dấu hiệu tin giả, chiêu trò đánh vào tâm lý người xem, đồng thời cảnh báo hệ lụy xã hội trên...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T12:37:00+07:00",
+      "fetched": "2026-04-12T19:38:59.243927+07:00"
+    },
+    {
+      "id": "e95162157a7765050ef9859aa8812ec4",
+      "title": "Chủ tịch Quốc hội Iran: Washington không tạo được tin tưởng cho Tehran",
+      "link": "https://vnexpress.net/chu-tich-quoc-hoi-iran-washington-khong-tao-duoc-tin-tuong-cho-tehran-5061500.html",
+      "summary": "Chủ tịch Quốc hội Iran cho biết Tehran không tin tưởng Washington trước khi đàm phán diễn ra và điều này không thay đổi trong cuộc đối thoại ở Pakistan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-12T12:14:09+07:00",
+      "fetched": "2026-04-12T19:39:02.348807+07:00"
+    },
+    {
+      "id": "cbfbc2da590c7e277119dcd58b85a025",
+      "title": "Trường Tươi Đồng Nai bị Đồng Tháp cầm hòa: Ngôi đầu chưa lung lay",
+      "link": "https://thanhnien.vn/truong-tuoi-dong-nai-bi-dong-thap-cam-hoa-ngoi-dau-chua-lung-lay-185260412185443743.htm",
+      "summary": "CLB Trường Tươi Đồng Nai bất ngờ bị Đồng Tháp cầm hòa 0-0 ở vòng 14 giải hạng nhất 2025-2026, trong trận đấu bế tắc dù chơi hơn người phần lớn thời gian. Dù vậy, đội bóng vẫn giữ vững ngôi đầu bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T12:08:00+07:00",
+      "fetched": "2026-04-12T19:38:59.244094+07:00"
+    },
+    {
+      "id": "762c27a6f1c0cea2e6ef956f2ca9663b",
+      "title": "Thủ tướng Slovakia bắt đầu chuyến thăm Việt Nam",
+      "link": "https://thanhnien.vn/thu-tuong-slovakia-bat-dau-chuyen-tham-viet-nam-185260412183325399.htm",
+      "summary": "Chiều 12.4, Thủ tướng Slovakia Robert Fico đến Hà Nội, bắt đầu thăm chính thức Việt Nam từ ngày 12 - 14.4 theo lời mời của Thủ tướng Lê Minh Hưng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T12:06:00+07:00",
+      "fetched": "2026-04-12T19:38:59.244283+07:00"
+    },
+    {
+      "id": "eb0ee43428bcbd4e3e8a1755d22c7b4b",
+      "title": "Sinh viên quốc tế muốn mang kiến thức từ Việt Nam về đóng góp quê nhà",
+      "link": "https://thanhnien.vn/sinh-vien-quoc-te-muon-mang-kien-thuc-tu-viet-nam-ve-dong-gop-que-nha-185260412183807644.htm",
+      "summary": "Chọn ngành từ khoa học sức khỏe đến công nghệ thông tin, sinh viên quốc tế xem việc học tập tại Việt Nam không chỉ là cơ hội giao lưu văn hóa mà còn là dịp trau dồi năng lực để về nước phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T12:04:00+07:00",
+      "fetched": "2026-04-12T19:38:59.244437+07:00"
+    },
+    {
+      "id": "1512978cbecdea5a49ad8a8b0968bccd",
+      "title": "Bi Rain 'kiệt sức' khi đóng phản diện",
+      "link": "https://vnexpress.net/bi-rain-kiet-suc-khi-dong-phan-dien-5061480.html",
+      "summary": "Bi Rain cho biết tăng cân, tập luyện cường độ cao đến mức phải dùng thuốc giảm đau trong lần đầu đóng vai phản diện ở phim \"Bloodhounds 2\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T12:00:00+07:00",
+      "fetched": "2026-04-12T19:38:55.956229+07:00"
+    },
+    {
+      "id": "873b940b5bc2d62a23e8bab64ca1fa82",
+      "title": "Người Khmer xa quê sum vầy đón Tết Chôl Chnăm Thmây ở chùa TP.HCM",
+      "link": "https://thanhnien.vn/nguoi-khmer-xa-que-sum-vay-don-tet-chol-chnam-thmay-o-chua-tphcm-185260412160615592.htm",
+      "summary": "Giữa nhịp sống mưu sinh nơi đất khách, người Khmer xa quê tìm về chùa ở TP.HCM đón Tết Chôl Chnăm Thmây, vơi nỗi nhớ nhà, giữ gìn bản sắc văn hóa truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T12:00:00+07:00",
+      "fetched": "2026-04-12T19:38:59.244604+07:00"
+    },
+    {
+      "id": "6f14c722601639b2fda47ee200af135d",
+      "title": "Kết quả xổ số Vietlott Mega 6/45 tối nay, giải độc đắc cộng dồn 13,5 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-mega-6-45-toi-nay-giai-doc-dac-cong-don-135-ti-dong-185260412185000509.htm",
+      "summary": "Tối 12.4, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không có người trúng giải độc đắc nên số tiền cộng dồn là 13,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:57:00+07:00",
+      "fetched": "2026-04-12T19:38:59.244759+07:00"
+    },
+    {
+      "id": "5bf83e0a8402aba528bff5214bcc4ab8",
+      "title": "Highlight Đồng Tháp 0-0 Trường Tươi Đồng Nai: Bất ngờ trên sân Cao Lãnh",
+      "link": "https://thanhnien.vn/highlight-dong-thap-0-0-truong-tuoi-dong-nai-bat-ngo-tren-san-cao-lanh-185260412185319784.htm",
+      "summary": "CLB Trường Tươi Đồng Nai bất ngờ bị Đồng Tháp cầm hòa 0-0 ở vòng 14 giải hạng nhất 2025-2026, trong trận đấu bế tắc dù chơi hơn người phần lớn thời gian. Dù vậy, đội bóng vẫn giữ vững ngôi đầu bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:53:00+07:00",
+      "fetched": "2026-04-12T19:38:59.244915+07:00"
+    },
+    {
+      "id": "9ba2b7c702a67b44f8bb2aab189800b7",
+      "title": "Dự án về khoai lang của học sinh Gia Lai vào chung kết cuộc thi khởi nghiệp",
+      "link": "https://thanhnien.vn/du-an-ve-khoai-lang-cua-hoc-sinh-gia-lai-vao-chung-ket-cuoc-thi-khoi-nghiep-185260412161541233.htm",
+      "summary": "Dự án BESOP - Gia Lai Beyond Starch Optimization, thuộc lĩnh vực nông nghiệp, môi trường và năng lượng, là đại diện duy nhất của tỉnh Gia Lai, đã vượt qua vòng bán kết để bước vào vòng chung kết cuộc thi Học sinh, sinh viên với ý tưởng khởi nghiệp lần thứ VIII (SV_STARTUP VIII).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:53:00+07:00",
+      "fetched": "2026-04-12T19:38:59.245071+07:00"
+    },
+    {
+      "id": "95949cf12eb70a91438052266bd884c4",
+      "title": "Thắng ấn tượng Úc, đội tuyển Việt Nam giành hạng ba Đông Nam Á: VFF thưởng nóng",
+      "link": "https://thanhnien.vn/thang-an-tuong-uc-doi-tuyen-viet-nam-gianh-hang-ba-dong-nam-a-vff-thuong-nong-185260412184800264.htm",
+      "summary": "Đội tuyển Việt Nam giành chiến thắng đầy ấn tượng trước Úc, qua đó đoạt tấm HCĐ giải futsal vô địch Đông Nam Á 2026 diễn ra tại Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:51:00+07:00",
+      "fetched": "2026-04-12T19:38:59.245249+07:00"
+    },
+    {
+      "id": "4c6c2ee0fa1e13c282afa1b878707cb9",
+      "title": "Xe rơ-moóc tạt đầu, ép ôtô con rời khỏi lề đường",
+      "link": "https://vnexpress.net/xe-ro-mooc-tat-dau-ep-oto-con-roi-khoi-le-duong-5061467.html",
+      "summary": "Xe rơ-moóc vượt ẩu, không xi-nhan, đánh võng, tạt đầu xe khác, ép xe này ra khỏi phần đường xe chạy trên đường Võ Chí Công, ngày 11/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:47:41+07:00",
+      "fetched": "2026-04-12T19:38:55.956422+07:00"
+    },
+    {
+      "id": "5be0363eaabdaa75688649028cbd8c15",
+      "title": "TP.HCM đề xuất miễn phí đường bộ, phí BOT với xe khách và xe chở hàng",
+      "link": "https://thanhnien.vn/tphcm-de-xuat-mien-phi-duong-bo-phi-bot-voi-xe-khach-va-xe-cho-hang-18526041218422204.htm",
+      "summary": "Sở Xây dựng TP.HCM vừa có văn bản gửi Bộ Xây dựng báo cáo khó khăn của doanh nghiệp vận tải đường bộ và đề xuất giải pháp bình ổn giá cước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:47:00+07:00",
+      "fetched": "2026-04-12T19:38:59.245399+07:00"
+    },
+    {
+      "id": "488609d518c96d1ff6fd2730a0ad725e",
+      "title": "Nữ sinh lớp 7 bị nhóm nam sinh đánh hội đồng trước cổng trường",
+      "link": "https://thanhnien.vn/nu-sinh-lop-7-bi-nhom-nam-sinh-danh-hoi-dong-truoc-cong-truong-185260412171517934.htm",
+      "summary": "Một nữ sinh lớp 7 ở Quảng Ngãi bị nhóm nam sinh đánh tới tấp trước cổng trường sau giờ thi giữa kỳ, phải nhập viện điều trị. Vụ việc gây phẫn nộ dư luận, cơ quan công an đã vào cuộc xác minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:42:00+07:00",
+      "fetched": "2026-04-12T19:38:59.245556+07:00"
+    },
+    {
       "id": "2d6cfabe07f6358d35041925a282c022",
       "title": "Tài xế xe đầu kéo đánh lái 'ép' ô tô, suýt xảy ra va chạm trên đường Võ Chí Công",
       "link": "https://tuoitre.vn/tai-xe-xe-dau-keo-danh-lai-ep-o-to-suyt-xay-ra-va-cham-tren-duong-vo-chi-cong-20260412093558631.htm",
@@ -543,6 +833,156 @@ window.newsData_2026_04_12 = {
       "fetched": "2026-04-12T11:39:22.804679+07:00"
     },
     {
+      "id": "05b62a26d94c9db7287ad0f72e7717a3",
+      "title": "Giải cứu tài xế mắc kẹt trong cabin ở vực sâu 80 m",
+      "link": "https://vnexpress.net/giai-cuu-tai-xe-mac-ket-trong-cabin-o-vuc-sau-80-m-5061481.html",
+      "summary": "Xe tải lao xuống vực sâu khoảng 80 m trên Quốc lộ 4D, đoạn qua xã Pà Vầy Sủ, khiến tài xế 46 tuổi mắc kẹt trong cabin biến dạng, phụ xe may mắn tự thoát ra ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:29:39+07:00",
+      "fetched": "2026-04-12T19:38:55.956590+07:00"
+    },
+    {
+      "id": "2889387991d7564101b8b4197dec2f5a",
+      "title": "Khói lửa bao trùm công ty gỗ ở Hà Tĩnh",
+      "link": "https://vnexpress.net/khoi-lua-bao-trum-cong-ty-go-o-ha-tinh-5061506.html",
+      "summary": "Hoả hoạn bùng phát từ tầng ba khu trưng bày công ty gỗ ở phường Thành Sen, bên trong chứa nhiều vật liệu dễ cháy khiến lửa lan nhanh, cột khói cao hàng chục mét, trưa 12/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:25:51+07:00",
+      "fetched": "2026-04-12T19:38:55.956754+07:00"
+    },
+    {
+      "id": "209e671b7500c79dc693458f42a154dd",
+      "title": "2 dấu hiệu trên mặt cảnh báo cholesterol xấu chạm ngưỡng nguy hiểm",
+      "link": "https://vnexpress.net/2-dau-hieu-tren-mat-canh-bao-cholesterol-xau-cham-nguong-nguy-hiem-5060453.html",
+      "summary": "Nếp gấp dái tai và ban vàng quanh mắt là những dấu hiệu cảnh báo chỉ số cholesterol LDL tăng cao, có thể chạm ngưỡng nguy hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:17:11+07:00",
+      "fetched": "2026-04-12T19:38:55.956918+07:00"
+    },
+    {
+      "id": "44c2b9cb10f596995bc6b97827d2a17d",
+      "title": "'Xe ghép' cạnh tranh thiếu công bằng, gây thất thu ngân sách",
+      "link": "https://thanhnien.vn/xe-ghep-canh-tranh-thieu-cong-bang-gay-that-thu-ngan-sach-185260412151336013.htm",
+      "summary": "Bộ Công an cho rằng, tình trạng xe không đăng ký kinh doanh vận tải nhưng vẫn chở khách để thu tiền gây thiếu công bằng và thất thu thuế cho ngân sách, cần xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:07:00+07:00",
+      "fetched": "2026-04-12T19:38:59.245739+07:00"
+    },
+    {
+      "id": "bc6093552a556df19c8e635c8867a8b0",
+      "title": "Thủ tướng Slovakia đến Việt Nam",
+      "link": "https://vnexpress.net/thu-tuong-slovakia-den-viet-nam-5061507.html",
+      "summary": "Thủ tướng Robert Fico đến Hà Nội chiều nay, bắt đầu chuyến thăm chính thức Việt Nam theo lời mời của Thủ tướng Lê Minh Hưng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:01:57+07:00",
+      "fetched": "2026-04-12T19:38:55.957079+07:00"
+    },
+    {
+      "id": "bc6093552a556df19c8e635c8867a8b0",
+      "title": "Thủ tướng Slovakia đến Việt Nam",
+      "link": "https://vnexpress.net/thu-tuong-slovakia-den-viet-nam-5061507.html",
+      "summary": "Thủ tướng Robert Fico đến Hà Nội chiều nay, bắt đầu chuyến thăm chính thức Việt Nam theo lời mời của Thủ tướng Lê Minh Hưng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-12T11:01:57+07:00",
+      "fetched": "2026-04-12T19:39:02.348983+07:00"
+    },
+    {
+      "id": "e31ce000a0eb7c249bd6961b881bf9ae",
+      "title": "Người đi xe máy chật vật giờ cao điểm vì chung làn với ôtô",
+      "link": "https://vnexpress.net/nguoi-di-xe-may-chat-vat-gio-cao-diem-vi-chung-lan-voi-oto-5061366.html",
+      "summary": "Bố trí làn đường chưa hợp lý cao gây khó khăn cho người xe máy, đặc biệt vào giờ cao điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:00:00+07:00",
+      "fetched": "2026-04-12T19:38:55.957264+07:00"
+    },
+    {
+      "id": "22ba932b3b2e42f7a3e18a430345a39a",
+      "title": "Yêu chàng bác sĩ gây mê cách nửa vòng trái đất em chưa từng gặp",
+      "link": "https://vnexpress.net/yeu-chang-bac-si-gay-me-cach-nua-vong-trai-dat-em-chua-tung-gap-5061356.html",
+      "summary": "Tình yêu online mang đến cho ta thật nhiều cảm xúc, tuy chưa gặp ngoài đời nhưng cảm xúc lại rất mãnh liệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:00:00+07:00",
+      "fetched": "2026-04-12T19:38:55.957419+07:00"
+    },
+    {
+      "id": "23c638d307cc44f209af32e8abd1200e",
+      "title": "Túi da quai xích, lựa chọn thông minh của nàng sành điệu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tui-da-quai-xich-lua-chon-thong-minh-cua-nang-sanh-dieu-185260411183336082.htm",
+      "summary": "Với khả năng biến hóa linh hoạt trong nhiều phong cách khác nhau, túi da quai xích chính là món phụ kiện giúp phái đẹp tự tin thể hiện bản sắc riêng trong từng khoảnh khắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T11:00:00+07:00",
+      "fetched": "2026-04-12T19:38:59.245904+07:00"
+    },
+    {
+      "id": "aefae53c93479095b14b35015bce53dd",
+      "title": "Khách đổ đến dự sinh nhật ngựa lùn ở Thảo Cầm Viên Sài Gòn",
+      "link": "https://vnexpress.net/khach-do-den-du-sinh-nhat-ngua-lun-o-thao-cam-vien-sai-gon-5061439.html",
+      "summary": "Đông đảo du khách tập trung ở Thảo Cầm Viên tặng quà, chụp ảnh, hát mừng sinh nhật và đầy tháng của gia đình ngựa lùn, sáng 12/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T10:59:06+07:00",
+      "fetched": "2026-04-12T19:38:55.957575+07:00"
+    },
+    {
+      "id": "38324424e27219cad8b815aa4888eb87",
+      "title": "Trường Tươi Đồng Nai bất ngờ bị Đồng Tháp chia điểm: Tốp 1 vẫn vững như bàn thạch",
+      "link": "https://thanhnien.vn/truong-tuoi-dong-nai-bat-ngo-bi-dong-thap-chia-diem-top-1-van-vung-nhu-ban-thach-185260412175640752.htm",
+      "summary": "Chiều 12.4, ở vòng 14 giải hạng nhất 2025-2026, CLB Trường Tươi Đồng Nai chỉ có được trận hòa 0-0 khi đối thủ yếu hơn là đội Đồng Tháp đã phòng ngự chặt chẽ, kiên cường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T10:59:00+07:00",
+      "fetched": "2026-04-12T19:38:59.246062+07:00"
+    },
+    {
+      "id": "00f1c9ae29d09dcd3ee4448ed12396cb",
+      "title": "21 giờ đàm phán thất bại của Mỹ - Iran",
+      "link": "https://vnexpress.net/21-gio-dam-phan-that-bai-cua-my-iran-5061456.html",
+      "summary": "Phó tổng thống Mỹ JD Vance cho biết Washington và Tehran vẫn không thể thu hẹp khoảng cách sau 21 giờ đàm phán tại Islamabad.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T10:52:34+07:00",
+      "fetched": "2026-04-12T19:38:55.957736+07:00"
+    },
+    {
+      "id": "83f9f59689b06856273f045e59f15c2e",
+      "title": "Phụ nữ trẻ ra cả thập kỷ: Kết quả không ngờ từ 5 loại nước uống rẻ tiền",
+      "link": "https://thanhnien.vn/phu-nu-tre-ra-ca-thap-ky-ket-qua-khong-ngo-tu-5-loai-nuoc-uong-re-tien-185260412174719834.htm",
+      "summary": "Không cần đến những liệu trình thẩm mỹ đắt đỏ, bí quyết để sở hữu làn da \"không tuổi\" và nguồn năng lượng dồi dào đôi khi nằm ngay trong gian bếp của bạn. Việc tối ưu hóa các loại nước uống hằng ngày chính là phương pháp \"Bio-hacking\" đơn giản để đảo ngược lão hóa từ cấp độ tế bào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T10:44:00+07:00",
+      "fetched": "2026-04-12T19:38:59.246249+07:00"
+    },
+    {
+      "id": "ea9f904fa093ad8c306b0f523aa58863",
+      "title": "Nhà ga quốc tế Đà Nẵng đạt 5 sao năm thứ ba liên tiếp",
+      "link": "https://vnexpress.net/nha-ga-quoc-te-da-nang-dat-5-sao-nam-thu-ba-lien-tiep-5061446.html",
+      "summary": "Nhà ga quốc tế Đà Nẵng (T2) tiếp tục đạt chứng chỉ 5 sao của tổ chức Skytrax nhờ cải thiện hiệu suất xử lý luồng khách và đẩy mạnh chuyển đổi số trong năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T10:38:08+07:00",
+      "fetched": "2026-04-12T19:38:55.957896+07:00"
+    },
+    {
+      "id": "381f403db686e22e403911fc007ec323",
+      "title": "Mặt trận Tổ quốc Việt Nam có thêm 3 Phó chủ tịch",
+      "link": "https://vnexpress.net/mat-tran-to-quoc-viet-nam-co-them-3-pho-chu-tich-5061497.html",
+      "summary": "Ông Nguyễn Phi Long, bà Lê Thị Thủy và ông Nguyễn Anh Tuấn được hiệp thương cử giữ chức Phó chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, chiều 12/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T10:25:57+07:00",
+      "fetched": "2026-04-12T19:38:55.958064+07:00"
+    },
+    {
       "id": "d07021cce7d1946cbc09b12ea07fef87",
       "title": "Lộ diện các quán quân Olympic tin học miền Trung - Tây nguyên",
       "link": "https://thanhnien.vn/lo-dien-cac-quan-quan-olympic-tin-hoc-mien-trung-tay-nguyen-185260412133219631.htm",
@@ -581,6 +1021,16 @@ window.newsData_2026_04_12 = {
       "category": "Tổng hợp",
       "published": "2026-04-12T10:15:00+07:00",
       "fetched": "2026-04-12T17:29:58.168872+07:00"
+    },
+    {
+      "id": "b12d10cbc5fb8095bd5f4209ceabc951",
+      "title": "Khu công nghiệp lâu đời nhất Việt Nam hoàn thành thu hồi đất",
+      "link": "https://vnexpress.net/khu-cong-nghiep-lau-doi-nhat-viet-nam-hoan-thanh-thu-hoi-dat-5061470.html",
+      "summary": "UBND tỉnh Đồng Nai đã duyệt phương án bồi thường và quyết định thu hồi 235 ha đất của 67 công ty tại khu công nghiệp Biên Hòa 1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T10:09:53+07:00",
+      "fetched": "2026-04-12T19:38:55.958258+07:00"
     },
     {
       "id": "5cc259ca371602fd0aee3002b39e649d",
