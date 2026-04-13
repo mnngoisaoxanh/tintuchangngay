@@ -1,6 +1,6 @@
 window.newsData_2026_04_14 = {
   "date": "2026-04-14",
-  "lastUpdated": "2026-04-14T02:01:48.844500+07:00",
+  "lastUpdated": "2026-04-14T03:42:55.392081+07:00",
   "articles": [
     {
       "id": "c57d35499061d11972a175229812877c",
@@ -151,6 +151,16 @@ window.newsData_2026_04_14 = {
       "category": "Tổng hợp",
       "published": "2026-04-14T02:01:43.158910+07:00",
       "fetched": "2026-04-14T02:01:43.159158+07:00"
+    },
+    {
+      "id": "0477c2c613e800dfa5b863448384d744",
+      "title": "4 loại hạt người cao huyết áp nên ăn thường xuyên",
+      "link": "https://vnexpress.net/4-loai-hat-nguoi-cao-huyet-ap-nen-an-thuong-xuyen-5061282.html",
+      "summary": "Hạt óc chó, hạt dẻ cười, hạnh nhân giàu protein, chất xơ, chất béo tốt cùng vitamin và khoáng chất, có thể giúp duy trì huyết áp ở mức khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T19:00:00+07:00",
+      "fetched": "2026-04-14T03:42:41.702355+07:00"
     },
     {
       "id": "475b5ebe61872b1a6382b4ad5d9138e6",
