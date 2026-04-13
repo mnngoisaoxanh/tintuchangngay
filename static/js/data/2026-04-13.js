@@ -1,7 +1,157 @@
 window.newsData_2026_04_13 = {
   "date": "2026-04-13",
-  "lastUpdated": "2026-04-13T16:27:27.016941+07:00",
+  "lastUpdated": "2026-04-13T18:09:21.321991+07:00",
   "articles": [
+    {
+      "id": "c7d1f3a7d60af85337f549a4cdc25f05",
+      "title": "Giả danh công an, dùng súng nhựa cướp tài sản ở Lâm Đồng",
+      "link": "https://tuoitre.vn/gia-danh-cong-an-dung-sung-nhua-cuop-tai-san-o-lam-dong-20260413153852401.htm",
+      "summary": "Công an đã khởi tố, bắt tạm giam hai thanh niên giả danh công an, dùng súng nhựa đe dọa để cướp xe máy và điện thoại của hai thiếu niên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.398152+07:00",
+      "fetched": "2026-04-13T18:09:15.398266+07:00"
+    },
+    {
+      "id": "6118ae0093e47404bdeb83e677c195d4",
+      "title": "Iran cảnh báo 'không cảng nào ở vịnh Ba Tư được an toàn'",
+      "link": "https://tuoitre.vn/iran-canh-bao-khong-cang-nao-o-vinh-ba-tu-duoc-an-toan-20260413160214704.htm",
+      "summary": "Phản hồi lệnh phong tỏa của Mỹ, Iran khẳng định an ninh tại khu vực vịnh Ba Tư hoặc dành cho tất cả, hoặc không dành cho ai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.398022+07:00",
+      "fetched": "2026-04-13T18:09:15.398138+07:00"
+    },
+    {
+      "id": "3ad9deddfa8b434299e946258812c02b",
+      "title": "Vượt đèn đỏ nơi giao nhau đường sắt, cô gái bị phạt 5 triệu, tước GPLX 2 tháng",
+      "link": "https://tuoitre.vn/vuot-den-do-noi-giao-nhau-duong-sat-co-gai-bi-phat-5-trieu-tuoc-gplx-2-thang-20260413152729307.htm",
+      "summary": "Ngày 13-4, Phòng Cảnh sát giao thông Công an thành phố Đà Nẵng cho hay đã xử phạt đối với một người ở địa phương này lái ô tô vượt đường ngang, nơi giao nhau với đường sắt khi đèn đỏ đã bật sáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.397900+07:00",
+      "fetched": "2026-04-13T18:09:15.398011+07:00"
+    },
+    {
+      "id": "befa5d1ac67ae27fe05fce9625f8b678",
+      "title": "Chứng khoán được nâng hạng, làm sao thu hút thêm doanh nghiệp FDI lên sàn?",
+      "link": "https://tuoitre.vn/chung-khoan-duoc-nang-hang-lam-sao-thu-hut-them-doanh-nghiep-fdi-len-san-2026041316023333.htm",
+      "summary": "Chuyên gia đánh giá Chính phủ có những nỗ lực thay đổi mang tính cấu trúc nhằm cải thiện độ mở của thị trường vốn. Tuy nhiên để thực sự khai thác tiềm lực niêm yết từ các doanh nghiệp FDI, Việt Nam sẽ còn phải cần thêm thời gian.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.397776+07:00",
+      "fetched": "2026-04-13T18:09:15.397889+07:00"
+    },
+    {
+      "id": "2921c99ac8363078d04ce5cd6b807e5b",
+      "title": "Bắt nhóm chuyên trộm cắp tài sản của khách du lịch ở bãi biển Nha Trang",
+      "link": "https://tuoitre.vn/bat-nhom-chuyen-trom-cap-tai-san-cua-khach-du-lich-o-bai-bien-nha-trang-20260413161014155.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an tỉnh Khánh Hòa vừa bắt giữ 3 người chuyên trộm cắp tài sản của khách du lịch ở bãi biển Nha Trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.397654+07:00",
+      "fetched": "2026-04-13T18:09:15.397765+07:00"
+    },
+    {
+      "id": "c50ee89e615dd2e27411fa266d899791",
+      "title": "Hạ Alcaraz, Sinner phá thêm những kỷ lục nào?",
+      "link": "https://tuoitre.vn/ha-alcaraz-sinner-pha-them-nhung-ki-luc-nao-20260413111617747.htm",
+      "summary": "Không chỉ đòi lại ngôi vị số 1 thế giới từ tay Carlos Alcaraz, tay vợt Jannik Sinner còn phá sâu thêm những kỷ lục được huyền thoại Novak Djokovic thiết lập vào năm 2015 sau khi vô địch Giải Monte-Carlo 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.397530+07:00",
+      "fetched": "2026-04-13T18:09:15.397643+07:00"
+    },
+    {
+      "id": "70a4ce17baa2d5b2cc8207872b3d43b1",
+      "title": "Ông Peter Magyar - người đánh bại Thủ tướng Hungary Viktor Orban - là ai?",
+      "link": "https://tuoitre.vn/ong-peter-magyar-nguoi-danh-bai-thu-tuong-hungary-viktor-orban-la-ai-20260413154540904.htm",
+      "summary": "Ông Peter Magyar dự kiến sẽ trở thành tân thủ tướng Hungary sau khi Đảng Tisza của ông giành chiến thắng áp đảo trong cuộc bầu cử Quốc hội nước này, đánh bại Đảng Fidesz của vị thủ tướng lâu năm Viktor Orban.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.397398+07:00",
+      "fetched": "2026-04-13T18:09:15.397518+07:00"
+    },
+    {
+      "id": "65ce1d648e7de54d927e9ad6230292bf",
+      "title": "Vợ chồng giám đốc đậu phộng Tân Tân lãnh án tù vì không chấp hành bản án",
+      "link": "https://tuoitre.vn/vo-chong-giam-doc-dau-phong-tan-tan-lanh-an-tu-vi-khong-chap-hanh-ban-an-20260413154839867.htm",
+      "summary": "Ông Trần Quốc Tân cùng vợ và em trai bị tuyên án tù vì không chấp hành bản án, riêng ông Tân còn bị xử thêm tội trốn thuế liên quan hoạt động công ty.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.397255+07:00",
+      "fetched": "2026-04-13T18:09:15.397386+07:00"
+    },
+    {
+      "id": "e610edbf69f19a2649c9ba4855780f6b",
+      "title": "Tình trạng được mùa mất giá, điệp khúc trồng - chặt vẫn là điểm nóng ngành nông nghiệp",
+      "link": "https://tuoitre.vn/tinh-trang-duoc-mua-mat-gia-diep-khuc-trong-chat-van-la-diem-nong-nganh-nong-nghiep-20260413155630801.htm",
+      "summary": "Dù không phải là vấn đề mới, nhưng câu chuyện 'được mùa mất giá' hay tình trạng trồng - chặt vẫn luôn là 'điểm nóng' của ngành nông nghiệp, đặc biệt là với sầu riêng và mít.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.397132+07:00",
+      "fetched": "2026-04-13T18:09:15.397244+07:00"
+    },
+    {
+      "id": "bf1c1d04549a45f6ae85db7085445bf6",
+      "title": "Loạt biển thông báo dời điểm bán hàng trên vỉa hè ở Hội An sau loạt yêu cầu của chính quyền",
+      "link": "https://tuoitre.vn/loat-bien-thong-bao-doi-diem-ban-hang-tren-via-he-o-hoi-an-sau-loat-yeu-cau-cua-chinh-quyen-20260413154848026.htm",
+      "summary": "Trước sự quyết liệt của chính quyền Hội An, nhiều gánh hàng rong, tiệm ăn quen thuộc với người dân, du khách nằm trên vỉa hè Hội An nhiều ngày qua treo biển dời về địa điểm khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.397006+07:00",
+      "fetched": "2026-04-13T18:09:15.397120+07:00"
+    },
+    {
+      "id": "ee30eacf92a555323e1c3881202ebcd7",
+      "title": "Úc lần đầu bổ nhiệm nữ tư lệnh lục quân sau 125 năm",
+      "link": "https://tuoitre.vn/uc-lan-dau-bo-nhiem-nu-tu-lenh-luc-quan-sau-125-nam-20260413161632502.htm",
+      "summary": "Úc công bố loạt thay đổi quan trọng trong bộ máy lãnh đạo quốc phòng, trong đó bổ nhiệm người phụ nữ đầu tiên đứng đầu lực lượng lục quân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.396879+07:00",
+      "fetched": "2026-04-13T18:09:15.396995+07:00"
+    },
+    {
+      "id": "ac83e8d7c0bdc1e2adfecd3606472a60",
+      "title": "Lo xung đột leo thang, Saudi Arabia hối Hàn Quốc giao tên lửa phòng không",
+      "link": "https://tuoitre.vn/lo-xung-dot-leo-thang-saudi-arabia-hoi-han-quoc-giao-ten-lua-phong-khong-20260413161229875.htm",
+      "summary": "Nhiều quốc gia Trung Đông đang đẩy mạnh tìm kiếm vũ khí phòng không từ Hàn Quốc để đa dạng hóa nguồn cung và tăng khả năng đánh chặn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.396750+07:00",
+      "fetched": "2026-04-13T18:09:15.396867+07:00"
+    },
+    {
+      "id": "0bb5fe5d16ce6f9704545c54fa59ce9a",
+      "title": "Ngày Di sản phở dự kiến diễn ra vào cuối năm 2026",
+      "link": "https://tuoitre.vn/ngay-di-san-pho-du-kien-dien-ra-vao-cuoi-nam-2026-20260413162501126.htm",
+      "summary": "Hà Nội đang đẩy mạnh triển khai kế hoạch bảo vệ, quảng bá và phát huy giá trị di sản văn hóa phi vật thể Phở Hà Nội, đồng thời xây dựng hồ sơ đề nghị UNESCO ghi danh phở vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.396617+07:00",
+      "fetched": "2026-04-13T18:09:15.396738+07:00"
+    },
+    {
+      "id": "aae3516c53cf74f85b3973e87940f1fd",
+      "title": "Để vật liệu, đất đá gây cản trở, công trình giao thông ở ngã tư Bảy Hiền bị lập biên bản",
+      "link": "https://tuoitre.vn/de-vat-lieu-dat-da-gay-can-tro-cong-trinh-giao-thong-o-nga-tu-bay-hien-bi-lap-bien-ban-20260413162357228.htm",
+      "summary": "Theo thông tin từ Phòng Cảnh sát giao thông Công an TP.HCM, Đội Cảnh sát giao thông Bàn Cờ vừa xử lý trường hợp công trình thi công 'để vật liệu, đất đá, phương tiện thi công ngoài phạm vi thi công gây cản trở giao thông'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.396474+07:00",
+      "fetched": "2026-04-13T18:09:15.396605+07:00"
+    },
+    {
+      "id": "62fc80a4cb705a3bdf7981514438c44d",
+      "title": "Nga và Ukraine lại tập kích nhau ngay sau khi lệnh ngừng bắn hết hạn",
+      "link": "https://tuoitre.vn/nga-va-ukraine-lai-tap-kich-nhau-ngay-sau-khi-lenh-ngung-ban-het-han-20260413163055184.htm",
+      "summary": "Quân đội Nga và Ukraine cáo buộc đối phương không kích ngay sau khi lệnh ngừng bắn trong dịp Phục sinh hết hạn vào rạng sáng 13-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:09:15.396249+07:00",
+      "fetched": "2026-04-13T18:09:15.396458+07:00"
+    },
     {
       "id": "02363ef19fdc0f8966648ed0071fd53b",
       "title": "Lữ đoàn Đặc công 126 Hải quân đón nhận Huân chương Bảo vệ Tổ quốc hạng nhất",
@@ -451,6 +601,386 @@ window.newsData_2026_04_13 = {
       "category": "Tổng hợp",
       "published": "2026-04-13T11:51:13.824822+07:00",
       "fetched": "2026-04-13T11:51:13.825045+07:00"
+    },
+    {
+      "id": "ec227af056cfdb8223acbe0792158162",
+      "title": "Sạt lở đường ven sông ở Tây Ninh, giao thông bị chia cắt",
+      "link": "https://thanhnien.vn/sat-lo-duong-ven-song-o-tay-ninh-giao-thong-bi-chia-cat-1852604131701492.htm",
+      "summary": "Tuyến đường dân sinh ven sông Lò Gạch ở Tây Ninh bất ngờ bị sạt lở nghiêm trọng, khiến giao thông qua lại khu vực này bị chia cắt, tiềm ẩn nguy cơ mất an toàn cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T11:06:00+07:00",
+      "fetched": "2026-04-13T18:09:14.493916+07:00"
+    },
+    {
+      "id": "d633f8b26b690293c29494e3291ae7d9",
+      "title": "Highlight U.17 Việt Nam 4-0 U.17 Malaysia: Thắng giòn giã ngày ra quân",
+      "link": "https://thanhnien.vn/highlight-u17-viet-nam-4-0-u17-malaysia-thang-gion-gia-ngay-ra-quan-185260413180444251.htm",
+      "summary": "Chiều 13.4, đội tuyển U.17 Việt Nam đã có chiến thắng ấn tượng 4-0 trước U.17 Malaysia trong trận ra quân bảng A giải U.17 Đông Nam Á 2026 diễn ra tại Indonesia. Thầy trò HLV Cristiano Roland thi đấu áp đảo và kiểm soát hoàn toàn thế trận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T11:04:00+07:00",
+      "fetched": "2026-04-13T18:09:14.494083+07:00"
+    },
+    {
+      "id": "677a15a9aa2711400703d86d8e8893a7",
+      "title": "Dấu ấn Takeda Việt Nam trong hành trình phòng ngừa sốt xuất huyết Dengue",
+      "link": "https://thanhnien.vn/dau-an-takeda-viet-nam-trong-hanh-trinh-phong-ngua-sot-xuat-huyet-dengue-185260413163757662.htm",
+      "summary": "Trong bối cảnh sốt xuất huyết Dengue vẫn là thách thức lớn tại Việt Nam, nhu cầu phòng bệnh chủ động ngày càng được chú trọng nhằm hạn chế gánh nặng bệnh tật. Trong đó, truyền thông y tế đóng vai trò then chốt giúp người dân hiểu đúng và chủ động dự phòng đúng cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T11:00:00+07:00",
+      "fetched": "2026-04-13T18:09:14.494243+07:00"
+    },
+    {
+      "id": "01c3068a7bd675a573bfc57ae63a29e4",
+      "title": "Ông Nguyễn Mạnh Quyền được bầu làm Chủ tịch tỉnh Hưng Yên",
+      "link": "https://thanhnien.vn/ong-nguyen-manh-quyen-duoc-bau-lam-chu-tich-tinh-hung-yen-185260413171939896.htm",
+      "summary": "Phó bí thư Tỉnh ủy Nguyễn Mạnh Quyền được HĐND tỉnh Hưng Yên bầu giữ chức Chủ tịch UBND tỉnh nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:58:00+07:00",
+      "fetched": "2026-04-13T18:09:14.494420+07:00"
+    },
+    {
+      "id": "4e178c62b5a9f77bb1fd820422c383b1",
+      "title": "Siêu bão mạnh nhất từ đầu năm áp sát quần đảo thuộc Mỹ",
+      "link": "https://vnexpress.net/sieu-bao-manh-nhat-tu-dau-nam-ap-sat-quan-dao-thuoc-my-5061888.html",
+      "summary": "Siêu bão Sinlaku mạnh nhất thế giới với sức gió 290 km/h đang di chuyển đến chuỗi đảo thuộc Mỹ ở Tây Thái Bình Dương, trong đó có đảo Guam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-13T10:57:29+07:00",
+      "fetched": "2026-04-13T18:09:16.454934+07:00"
+    },
+    {
+      "id": "7a15b6fc67e9a9ff813e28890a3f2a6a",
+      "title": "Thượng tướng Lê Đức Thái làm Bí thư Tỉnh ủy Thanh Hóa",
+      "link": "https://thanhnien.vn/thuong-tuong-le-duc-thai-lam-bi-thu-tinh-uy-thanh-hoa-185260413161318109.htm",
+      "summary": "Thượng tướng Lê Đức Thái, Ủy viên T.Ư Đảng, Thứ trưởng Bộ Quốc phòng, đã được T.Ư điều động giữ chức Bí thư Tỉnh ủy Thanh Hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:57:00+07:00",
+      "fetched": "2026-04-13T18:09:14.494577+07:00"
+    },
+    {
+      "id": "d2660f7affd7b5fa0f5761a778a97ff8",
+      "title": "Doanh nghiệp sở hữu chương trình 'Anh trai say hi' sắp IPO",
+      "link": "https://thanhnien.vn/doanh-nghiep-so-huu-chuong-trinh-anh-trai-say-hi-sap-ipo-18526041314490431.htm",
+      "summary": "Ngày 13.4, DatVietVAC - doanh nghiệp sở hữu chương trình \"Anh trai say hi\"chia sẻ về kế hoạch IPO ra công chúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:57:00+07:00",
+      "fetched": "2026-04-13T18:09:14.494727+07:00"
+    },
+    {
+      "id": "68338c43f7f14d6368abf8bc265b9de2",
+      "title": "FIFA từ chối đề nghị dời địa điểm thi đấu của đội tuyển Iran tại World Cup 2026",
+      "link": "https://thanhnien.vn/fifa-tu-choi-de-nghi-doi-dia-diem-thi-dau-cua-doi-tuyen-iran-tai-world-cup-2026-185260413172832696.htm",
+      "summary": "FIFA khẳng định các trận đấu của đội tuyển Iran tại World Cup 2026 vẫn diễn ra ở Mỹ theo kế hoạch, bất chấp đề nghị chuyển địa điểm vì lo ngại an ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:48:00+07:00",
+      "fetched": "2026-04-13T18:09:14.494878+07:00"
+    },
+    {
+      "id": "dc9e14336659ba5f67bbd8861d8045e3",
+      "title": "Xung đột Trung Đông củng cố vị thế công nghiệp xanh Trung Quốc",
+      "link": "https://vnexpress.net/xung-dot-trung-dong-cung-co-vi-the-cong-nghiep-xanh-trung-quoc-5061827.html",
+      "summary": "Vị thế các ngành thiết bị điện mặt trời, pin lưu trữ, xe điện Trung Quốc dự báo được củng cố nhờ xung đột Trung Đông, theo giới phân tích.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-13T10:45:26+07:00",
+      "fetched": "2026-04-13T18:09:17.527346+07:00"
+    },
+    {
+      "id": "d04811aa9cb8be8c11a522319560f8f1",
+      "title": "Hào hứng tranh tài giải pickleball Đại hội TDTT TP.HCM 2026",
+      "link": "https://thanhnien.vn/hao-hung-tranh-tai-giai-pickleball-dai-hoi-tdtt-tphcm-2026-185260413171946412.htm",
+      "summary": "Giải pickleball Đại hội TDTT TP.HCM hào hứng khởi tranh hôm nay tại CLB Phú Thọ (phường Phú Thọ, TP.HCM) thu hút 200 tay vợt tham gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:40:00+07:00",
+      "fetched": "2026-04-13T18:09:14.495035+07:00"
+    },
+    {
+      "id": "8cc98bfd8d77185160b74b9624ea941f",
+      "title": "Tuyển thủ Indonesia đá rách chân đối thủ ở giải Hà Lan",
+      "link": "https://vnexpress.net/tuyen-thu-indonesia-da-rach-chan-doi-thu-o-giai-ha-lan-5061916.html",
+      "summary": "Trung vệ Justin Hubner phạm lỗi với Lewis Holtby dẫn đến tranh cãi về trọng tài và miếng bảo vệ ống đồng, sau trận Fortuna Sittard hòa NAC Breda 1-1 ở giải VĐQG Hà Lan 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-13T10:39:32+07:00",
+      "fetched": "2026-04-13T18:09:21.311543+07:00"
+    },
+    {
+      "id": "4e7f8fbd2c43886912ffff87d0fc4524",
+      "title": "Ba đột phá y khoa cho bệnh hiếm, mạn tính nặng đã có mặt tại Việt Nam",
+      "link": "https://thanhnien.vn/ba-dot-pha-y-khoa-cho-benh-hiem-man-tinh-nang-da-co-mat-tai-viet-nam-185260413173251537.htm",
+      "summary": "Vừa qua, Long Châu và AstraZeneca (Anh quốc) tiên phong giới thiệu ba đột phá y khoa cho bệnh hiếm và bệnh mạn tính nặng, đưa Việt Nam trở thành một trong những thị trường sớm tiếp cận các liệu pháp thế hệ mới chỉ sau Mỹ, châu Âu và Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:38:00+07:00",
+      "fetched": "2026-04-13T18:09:14.495185+07:00"
+    },
+    {
+      "id": "f18310a81b0edcb3aeafa5a147f9ae27",
+      "title": "Thực hư tin Tổng thống Thổ Nhĩ Kỳ dọa hành động quân sự đối với Israel",
+      "link": "https://thanhnien.vn/thuc-hu-tin-tong-thong-tho-nhi-ky-doa-hanh-dong-quan-su-doi-voi-israel-185260413161221734.htm",
+      "summary": "Tờ The Jerusalem Post đưa tin Tổng thống Thổ Nhĩ Kỳ Recep Tayyip Erdogan ngày 12.4 cáo buộc Israel gây ra những hành động tàn bạo chống lại Palestine và Lebanon, đồng thời đe dọa sẽ có hành động quân sự đối với Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:38:00+07:00",
+      "fetched": "2026-04-13T18:09:14.495336+07:00"
+    },
+    {
+      "id": "83e77f4107f2a4b23db6e032e5de87ed",
+      "title": "Macbook Neo - mối đe dọa với laptop Windows giá rẻ",
+      "link": "https://vnexpress.net/macbook-neo-moi-de-doa-voi-laptop-windows-gia-re-5061842.html",
+      "summary": "Chất lượng hoàn thiện tốt, RAM 8 GB nhưng các tác vụ cơ bản hoạt động mượt khiến MacBook Neo được coi là mối đe dọa lớn với laptop Windows giá rẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:34:17+07:00",
+      "fetched": "2026-04-13T18:09:11.595170+07:00"
+    },
+    {
+      "id": "83e77f4107f2a4b23db6e032e5de87ed",
+      "title": "MacBook Neo - mối đe dọa với laptop Windows giá rẻ",
+      "link": "https://vnexpress.net/macbook-neo-moi-de-doa-voi-laptop-windows-gia-re-5061842.html",
+      "summary": "Chất lượng hoàn thiện tốt, RAM 8 GB nhưng các tác vụ cơ bản hoạt động mượt khiến MacBook Neo được coi là mối đe dọa lớn với laptop Windows giá rẻ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-13T10:34:17+07:00",
+      "fetched": "2026-04-13T18:09:19.712604+07:00"
+    },
+    {
+      "id": "cf60523eb708065cd1f7de4417712249",
+      "title": "Thắng đậm Malaysia, U.17 Việt Nam ra quân suôn sẻ ở giải Đông Nam Á",
+      "link": "https://thanhnien.vn/thang-dam-malaysia-u17-viet-nam-ra-quan-suon-se-o-giai-dong-nam-a-185260413172521954.htm",
+      "summary": "U.17 Việt Nam ra quân suôn sẻ tại giải U.17 Đông Nam Á 2026, khi giành chiến thắng đậm trước U.17 Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:32:00+07:00",
+      "fetched": "2026-04-13T18:09:14.495512+07:00"
+    },
+    {
+      "id": "9ffb56dc0d36398595ee227521cd5d28",
+      "title": "Cảnh sát đột kích sòng Poker trong khách sạn 5 sao ở Đà Nẵng",
+      "link": "https://vnexpress.net/canh-sat-dot-kich-song-poker-trong-khach-san-5-sao-o-da-nang-5061914.html",
+      "summary": "Hàng chục cảnh sát ập vào khách sạn 5 sao Wyndham Soleil, bắt quả tang 86 người đang sát phạt tại 13 bàn Poker do hai nghi phạm Trung Quốc cầm đầu",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:30:52+07:00",
+      "fetched": "2026-04-13T18:09:11.595348+07:00"
+    },
+    {
+      "id": "726f3ce96564e5b40dc72bad8050bc95",
+      "title": "Nữ cảnh sát Brazil rút súng bắn gục hai thanh niên định cướp tài sản",
+      "link": "https://vnexpress.net/nu-canh-sat-brazil-rut-sung-ban-guc-hai-thanh-nien-dinh-cuop-tai-san-5061911.html",
+      "summary": "Camera ghi lại cảnh hai nam thanh niên áp sát một nữ cảnh sát đi trên đường, nghi nhằm cướp tài sản, trước khi người này rút súng tự vệ, bắn ít nhất bảy phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:27:38+07:00",
+      "fetched": "2026-04-13T18:09:11.595539+07:00"
+    },
+    {
+      "id": "6f448bea0a96cfb68b38f9d06c585766",
+      "title": "Nhân viên tại HSBC thu nhập bình quân gần 1 tỷ đồng một năm",
+      "link": "https://vnexpress.net/nhan-vien-tai-hsbc-thu-nhap-binh-quan-gan-1-ty-dong-mot-nam-5061861.html",
+      "summary": "Bình quân mỗi nhân viên của ngân hàng HSBC Việt Nam có thu nhập 925 triệu đồng trong năm 2025, tăng 7% so với năm trước, trong khi lợi nhuận giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:26:34+07:00",
+      "fetched": "2026-04-13T18:09:11.595699+07:00"
+    },
+    {
+      "id": "6f448bea0a96cfb68b38f9d06c585766",
+      "title": "Nhân viên tại HSBC thu nhập bình quân gần 1 tỷ đồng một năm",
+      "link": "https://vnexpress.net/nhan-vien-tai-hsbc-thu-nhap-binh-quan-gan-1-ty-dong-mot-nam-5061861.html",
+      "summary": "Bình quân mỗi nhân viên của ngân hàng HSBC Việt Nam có thu nhập 925 triệu đồng trong năm 2025, tăng 7% so với năm trước, trong khi lợi nhuận giảm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-13T10:26:34+07:00",
+      "fetched": "2026-04-13T18:09:17.528979+07:00"
+    },
+    {
+      "id": "709eb747fa88f32069ceba364e66658f",
+      "title": "Đăng ký thi tốt nghiệp THPT 2026: Ngoài toán và văn, thí sinh nên chọn môn nào?",
+      "link": "https://thanhnien.vn/dang-ky-thi-tot-nghiep-thpt-2026-ngoai-toan-va-van-thi-sinh-nen-chon-mon-nao-185260413105923292.htm",
+      "summary": "Điểm thi tốt nghiệp THPT 2026 có vai trò quan trọng trong xét tuyển năm nay. Vậy thí sinh cần lưu ý gì khi lựa chọn môn thi khi đăng ký dự thi tốt nghiệp THPT để có cơ hội trúng tuyển ngành/trường yêu thích nhất?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:26:00+07:00",
+      "fetched": "2026-04-13T18:09:14.495661+07:00"
+    },
+    {
+      "id": "c49232cab6739c01cb75420e3fbe762d",
+      "title": "Dịch vụ giúp người sống một mình đi bệnh viện, chuyển nhà ở Seoul",
+      "link": "https://vnexpress.net/dich-vu-giup-nguoi-song-mot-minh-di-benh-vien-chuyen-nha-o-seoul-5061852.html",
+      "summary": "Seoul cung cấp dịch vụ \"người đồng hành\" với giá 4 USD/giờ, để hỗ trợ cư dân sống một mình trong những việc khó tự xoay xở như đi bệnh viện, chuyển nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:14:15+07:00",
+      "fetched": "2026-04-13T18:09:11.595854+07:00"
+    },
+    {
+      "id": "c49232cab6739c01cb75420e3fbe762d",
+      "title": "Dịch vụ giúp người sống một mình đi bệnh viện, chuyển nhà ở Seoul",
+      "link": "https://vnexpress.net/dich-vu-giup-nguoi-song-mot-minh-di-benh-vien-chuyen-nha-o-seoul-5061852.html",
+      "summary": "Seoul cung cấp dịch vụ \"người đồng hành\" với giá 4 USD/giờ, để hỗ trợ cư dân sống một mình trong những việc khó tự xoay xở như đi bệnh viện, chuyển nhà.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-13T10:14:15+07:00",
+      "fetched": "2026-04-13T18:09:16.455108+07:00"
+    },
+    {
+      "id": "71855ca05aa1388722485314fb053ca9",
+      "title": "Agribank phát 200.000 cảnh báo giao dịch đáng ngờ, khách dừng chuyển hơn 360 tỉ đồng",
+      "link": "https://thanhnien.vn/agribank-phat-200000-canh-bao-giao-dich-dang-ngo-khach-dung-chuyen-hon-360-ti-dong-18526041316462532.htm",
+      "summary": "Ngân hàng Nông nghiệp và Phát triển Việt Nam (Agribank) cho biết, tính đến ngày 5.4, dịch vụ giải pháp phát hiện, cảnh báo tài khoản nghi ngờ gian lận, lừa đảo (AgriNotify) đã ghi nhận trên 200.000 lượt cảnh báo giao dịch, trong đó hơn 91.000 giao dịch tạm dừng hoặc hủy bỏ với tổng giá trị hơn 360 t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:14:00+07:00",
+      "fetched": "2026-04-13T18:09:14.495815+07:00"
+    },
+    {
+      "id": "614ed8aacc7e907c4ec96ed59570e354",
+      "title": "Đội đầu tiên phải chia tay V-League sắp lộ diện?",
+      "link": "https://thanhnien.vn/doi-dau-tien-phai-chia-tay-v-league-sap-lo-dien-185260413153607026.htm",
+      "summary": "Thua SLNA trong trận cầu vốn dĩ buộc phải thắng ở vòng 18, CLB Đà Nẵng khó trụ lại sân chơi V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:14:00+07:00",
+      "fetched": "2026-04-13T18:09:14.495969+07:00"
+    },
+    {
+      "id": "92560c150ae1245b21c79872a955b2d1",
+      "title": "U.23 Việt Nam ‘nhập’ thêm ngôi sao, quyết chiến ASIAD 20: Cơ hội tạo cú sốc?",
+      "link": "https://thanhnien.vn/u23-viet-nam-nhap-them-ngoi-sao-quyet-chien-asiad-20-co-hoi-tao-cu-soc-185260408191522281.htm",
+      "summary": "Đội tuyển U.23 Việt Nam hé lộ khả năng có thể bổ sung ngôi sao trong lứa tuổi, dự ASIAD 20, diễn ra từ giữa tháng 9 đến đầu tháng 10 tới đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:12:00+07:00",
+      "fetched": "2026-04-13T18:09:14.496118+07:00"
+    },
+    {
+      "id": "84a8dc615d3ba767e526b4faf9c49e23",
+      "title": "Điểm tin 17h: 'Cần 38 triệu tỷ đồng cho giai đoạn phát triển mới' | Nhà máy lọc dầu Dung Quất đủ dầu thô vận hành đến tháng 7",
+      "link": "https://vnexpress.net/diem-tin-17h-can-38-trieu-ty-dong-cho-giai-doan-phat-trien-moi-nha-may-loc-dau-dung-quat-du-dau-tho-van-hanh-den-thang-7-5061912.html",
+      "summary": "'Sẽ có cơ chế đặc thù cho trung tâm năng lượng quốc gia'; Đề xuất xe máy dưới 5 năm không phải kiểm định khí thải trực tiếp...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:05:45+07:00",
+      "fetched": "2026-04-13T18:09:11.596015+07:00"
+    },
+    {
+      "id": "5e27d0bbe98d22c6394f43de10e5d72e",
+      "title": "Thượng tướng Lê Đức Thái làm Bí thư Tỉnh ủy Thanh Hóa",
+      "link": "https://vnexpress.net/thuong-tuong-le-duc-thai-lam-bi-thu-tinh-uy-thanh-hoa-5060381.html",
+      "summary": "Thượng tướng Lê Đức Thái, Thứ trưởng Bộ Quốc phòng, được Bộ Chính trị chỉ định giữ chức Bí thư Tỉnh ủy Thanh Hóa, thay ông Nguyễn Doãn Anh vừa được bầu làm Phó chủ tịch Quốc hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:03:52+07:00",
+      "fetched": "2026-04-13T18:09:11.596185+07:00"
+    },
+    {
+      "id": "9a6049850b0db342ab3e48188b5990f4",
+      "title": "'Học sinh Việt lãng phí thời gian vì cân bằng phản ứng oxi hóa khử'",
+      "link": "https://vnexpress.net/hoc-sinh-viet-lang-phi-thoi-gian-tinh-so-mol-can-bang-phan-ung-oxi-hoa-khu-5061897.html",
+      "summary": "'Việc dành quá nhiều thời gian cho dạng bài tính số mol, cân bằng phản ứng oxi hóa khử, khiến học sinh thêm mơ hồ và chán nản học Hóa'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:00:35+07:00",
+      "fetched": "2026-04-13T18:09:11.596341+07:00"
+    },
+    {
+      "id": "58b7864adb0433cbcc5aeb6cecde8241",
+      "title": "7 lầm tưởng thường gặp về sức khỏe tim mạch",
+      "link": "https://vnexpress.net/7-lam-tuong-thuong-gap-ve-suc-khoe-tim-mach-5061830.html",
+      "summary": "Người mắc bệnh tim nên kiêng chất béo, suy tim đồng nghĩa tim ngừng đập, bệnh tiểu đường không ảnh hưởng đến tim là những cách hiểu chưa đúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:00:00+07:00",
+      "fetched": "2026-04-13T18:09:11.596525+07:00"
+    },
+    {
+      "id": "6df12484aa282b7124c164974b3aac0e",
+      "title": "Huế đón không khí lạnh dịp VnExpress Marathon",
+      "link": "https://vnexpress.net/hue-co-the-mua-trong-ngay-dua-vnexpress-marathon-hue-2026-5061029.html",
+      "summary": "Trong hai ngày diễn ra VnExpress Marathon, 18-19/4, Huế đón không khí lạnh khiến nhiệt độ giảm còn khoảng 23 độ C vào thời điểm thi đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T10:00:00+07:00",
+      "fetched": "2026-04-13T18:09:11.596680+07:00"
+    },
+    {
+      "id": "90aa1044569235d24b64b8a687173e43",
+      "title": "Đường ven sông mới thảm nhựa sụt lún hơn 2 m",
+      "link": "https://vnexpress.net/duong-ven-song-moi-tham-nhua-sut-lun-hon-2-m-5061900.html",
+      "summary": "Đoạn đường ven sông Vàm Cỏ Tây vừa thảm nhựa, chưa nghiệm thu bị đứt gãy, sụt lún hơn 2 m, kéo dài khoảng 60 m, khiến giao thông qua khu vực bị chia cắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T09:47:25+07:00",
+      "fetched": "2026-04-13T18:09:11.596850+07:00"
+    },
+    {
+      "id": "69dba9276bd9e4999e14358bb51c47b8",
+      "title": "Lưu Diệc Phi diện đầm cắt xẻ của Lê Thanh Hòa",
+      "link": "https://vnexpress.net/luu-diec-phi-dien-dam-cat-xe-cua-le-thanh-hoa-5061895.html",
+      "summary": "Mỹ nhân Hoa ngữ Lưu Diệc Phi diện mốt không nội y với hai bộ đầm tôn đường cong của Lê Thanh Hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T09:47:05+07:00",
+      "fetched": "2026-04-13T18:09:11.597005+07:00"
+    },
+    {
+      "id": "e4318462c68cfdb3b24508061cc0ef5f",
+      "title": "Tây Ban Nha mở lại đại sứ quán ở Iran",
+      "link": "https://vnexpress.net/tay-ban-nha-mo-lai-dai-su-quan-o-iran-5061865.html",
+      "summary": "Tây Ban Nha, quốc gia phản đối gay gắt chiến dịch của Mỹ - Israel với Iran, là nước châu Âu đầu tiên mở lại đại sứ quán ở Tehran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T09:46:29+07:00",
+      "fetched": "2026-04-13T18:09:11.597156+07:00"
+    },
+    {
+      "id": "e4318462c68cfdb3b24508061cc0ef5f",
+      "title": "Tây Ban Nha mở lại đại sứ quán ở Iran",
+      "link": "https://vnexpress.net/tay-ban-nha-mo-lai-dai-su-quan-o-iran-5061865.html",
+      "summary": "Tây Ban Nha, quốc gia phản đối gay gắt chiến dịch của Mỹ - Israel với Iran, là nước châu Âu đầu tiên mở lại đại sứ quán ở Tehran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-13T09:46:29+07:00",
+      "fetched": "2026-04-13T18:09:16.455269+07:00"
+    },
+    {
+      "id": "1e7bd1707831e964874dcac89d5a476b",
+      "title": "Nguồn cung dầu sẽ càng thiếu hụt vì lệnh phong tỏa của Mỹ",
+      "link": "https://vnexpress.net/nguon-cung-dau-se-cang-thieu-hut-vi-lenh-phong-toa-cua-my-5061850.html",
+      "summary": "Nguồn cung dầu toàn cầu sẽ càng bị siết chặt khi dầu Iran không thể tham gia thị trường, ảnh hưởng tới nhiều nước nhập khẩu tại châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T09:45:39+07:00",
+      "fetched": "2026-04-13T18:09:11.597314+07:00"
+    },
+    {
+      "id": "1e7bd1707831e964874dcac89d5a476b",
+      "title": "Nguồn cung dầu sẽ càng thiếu hụt vì lệnh phong tỏa của Mỹ",
+      "link": "https://vnexpress.net/nguon-cung-dau-se-cang-thieu-hut-vi-lenh-phong-toa-cua-my-5061850.html",
+      "summary": "Nguồn cung dầu toàn cầu sẽ càng bị siết chặt khi dầu Iran không thể tham gia thị trường, ảnh hưởng tới nhiều nước nhập khẩu tại châu Á.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-13T09:45:39+07:00",
+      "fetched": "2026-04-13T18:09:17.527546+07:00"
+    },
+    {
+      "id": "f44824c4dfd09fe7d0334a0ad1a91644",
+      "title": "Em có muốn cùng anh bắt đầu thật nghiêm túc?",
+      "link": "https://vnexpress.net/em-co-muon-cung-anh-bat-dau-that-nghiem-tuc-5061680.html",
+      "summary": "Anh muốn có bạn đồng hành hàng ngày trong cuộc sống, một người bạn đời cùng nhau sẻ chia và tận hưởng cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T09:44:14+07:00",
+      "fetched": "2026-04-13T18:09:11.597439+07:00"
     },
     {
       "id": "56c8d055c4ce6c8db50f2b56bd02cb26",
