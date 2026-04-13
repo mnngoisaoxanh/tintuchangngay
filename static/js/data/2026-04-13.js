@@ -1,7 +1,97 @@
 window.newsData_2026_04_13 = {
   "date": "2026-04-13",
-  "lastUpdated": "2026-04-13T22:07:42.686863+07:00",
+  "lastUpdated": "2026-04-13T23:54:04.680928+07:00",
   "articles": [
+    {
+      "id": "f8db320abe3dd1dfd57d85f666321d9d",
+      "title": "Sốc: Ngôi sao bóng đá qua đời sau vụ tấn công dã man bằng súng",
+      "link": "https://tuoitre.vn/soc-ngoi-sao-bong-da-qua-doi-sau-vu-tan-cong-da-man-bang-sung-20260413203330415.htm",
+      "summary": "Làng bóng đá đỉnh cao phải đón nhận một thông tin bàng hoàng khi ngôi sao Dominic Frimpong, người Ghana, đã qua đời sau một vụ tấn công dã man bằng súng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T23:53:56.841635+07:00",
+      "fetched": "2026-04-13T23:53:56.841752+07:00"
+    },
+    {
+      "id": "1395a9f16d28bcc6c3c01dd9e49301b7",
+      "title": "Trung Đông tối 13-4: Iran ra điều kiện đàm phán; Mỹ chuẩn bị phong tỏa gần Hormuz",
+      "link": "https://tuoitre.vn/trung-dong-toi-13-4-iran-ra-dieu-kien-dam-phan-my-chuan-bi-phong-toa-gan-hormuz-20260413204338114.htm",
+      "summary": "Đại sứ Iran tại Ấn Độ nói đàm phán có thể nối lại nếu Mỹ chấp nhận các điều kiện mà Tehran đặt ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T23:53:56.841480+07:00",
+      "fetched": "2026-04-13T23:53:56.841622+07:00"
+    },
+    {
+      "id": "8e70e60b131a260c39d94934ff897ad3",
+      "title": "Thêm 3 trường ở TP.HCM dừng bán trú sau vụ 200 học sinh ngộ độc",
+      "link": "https://tuoitre.vn/them-3-truong-o-tp-hcm-dung-ban-tru-sau-vu-200-hoc-sinh-ngo-doc-20260413204059883.htm",
+      "summary": "Sau vụ ngộ độc tại Trường tiểu học Bình Quới Tây, ba trường THCS ở TP.HCM tạm dừng bán trú từ ngày 13 và 14-4, phụ huynh tự lo bữa trưa cho học sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T23:53:56.841354+07:00",
+      "fetched": "2026-04-13T23:53:56.841468+07:00"
+    },
+    {
+      "id": "11b951acfccb32f29b679c63c8bd7173",
+      "title": "Khánh Hòa yêu cầu xử lý việc thu tiền cọc, ‘cò mồi’ giữ chỗ mua nhà ở xã hội",
+      "link": "https://tuoitre.vn/khanh-hoa-yeu-cau-xu-ly-viec-thu-tien-coc-co-moi-giu-cho-mua-nha-o-xa-hoi-20260413202751785.htm",
+      "summary": "Tỉnh Khánh Hòa chỉ đạo chấn chỉnh việc nộp hồ sơ mua bán nhà ở xã hội và kiểm tra, xử lý môi giới trái phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T23:53:56.841228+07:00",
+      "fetched": "2026-04-13T23:53:56.841343+07:00"
+    },
+    {
+      "id": "ec2b86fd4634dd5d2f312f64b78b1625",
+      "title": "Cờ tướng Trung Quốc lại mất thêm 3 kỳ vương vì nạn bán độ",
+      "link": "https://tuoitre.vn/co-tuong-trung-quoc-lai-mat-them-3-ky-vuong-vi-nan-ban-do-2026041320481528.htm",
+      "summary": "Ngày 13-4, Hiệp hội Cờ tướng Trung Quốc (CXA) đã ra phán quyết cấm trọn đời với 3 vị kỳ thủ nổi danh là Hồng Trí, Tạ Tĩnh và Từ Siêu vì tội mua bán độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T23:53:56.841099+07:00",
+      "fetched": "2026-04-13T23:53:56.841216+07:00"
+    },
+    {
+      "id": "5caa05b66b7a6e9a01700f19c6d7a6e0",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị có các dự án 'hải đăng' trong hợp tác Việt Nam và Slovakia",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-de-nghi-co-cac-du-an-hai-dang-trong-hop-tac-viet-nam-va-slovakia-20260413210430656.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị đưa hợp tác kinh tế, thương mại, đầu tư trở thành trụ cột chính trong hợp tác giữa Việt Nam và Slovakia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T23:53:56.840967+07:00",
+      "fetched": "2026-04-13T23:53:56.841086+07:00"
+    },
+    {
+      "id": "8f3e6ec25734e0a3dad96efb27a65efb",
+      "title": "Chiếm đoạt sim, vượt mặt sinh trắc học, nhóm lừa đảo chiếm tiền tỉ",
+      "link": "https://tuoitre.vn/chiem-doat-sim-vuot-mat-sinh-trac-hoc-nhom-lua-dao-chiem-tien-ti-20260413195114646.htm",
+      "summary": "Thứ trưởng Bộ Công an vừa biểu dương Công an Quảng Trị triệt phá đường dây tội phạm công nghệ cao, bắt 4 người chiếm đoạt và rửa tiền với quy mô 23 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T23:53:56.840832+07:00",
+      "fetched": "2026-04-13T23:53:56.840955+07:00"
+    },
+    {
+      "id": "1eaf9759555adc41c93fdbcb9e155fbc",
+      "title": "Nữ tài xế ô tô tông liên hoàn 4 xe ở Hà Nội",
+      "link": "https://tuoitre.vn/nu-tai-xe-o-to-tong-lien-hoan-4-xe-o-ha-noi-2026041321305916.htm",
+      "summary": "Người dân chứng kiến cho biết sau khi va chạm liên hoàn xảy ra, nữ tài xế nằm gục trên vô lăng và mất khoảng 10 phút mới xuống được xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T23:53:56.840681+07:00",
+      "fetched": "2026-04-13T23:53:56.840819+07:00"
+    },
+    {
+      "id": "f9eeb92405c69f1a09ba52241a9db8ef",
+      "title": "Eximbank được LSEG trao giải cao nhất “Best Market Maker”",
+      "link": "https://tuoitre.vn/eximbank-duoc-lseg-trao-giai-cao-nhat-best-market-maker-20260413213955333.htm",
+      "summary": "Ngày 8-4, tại Hà Nội, London Stock Exchange Group (LSEG) đã tổ chức Lễ trao Giải thưởng Ngoại hối Xuất sắc Việt Nam 2026 (FX Awards 2026), quy tụ các ngân hàng và định chế tài chính lớn trên thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T23:53:56.840406+07:00",
+      "fetched": "2026-04-13T23:53:56.840663+07:00"
+    },
     {
       "id": "b66735108ace1fb788ddda1532d264ea",
       "title": "SHB: Từ ‘ngân hàng hạnh phúc’ đến hành trình phụng sự cộng đồng",
@@ -603,6 +693,56 @@ window.newsData_2026_04_13 = {
       "fetched": "2026-04-13T16:27:20.896279+07:00"
     },
     {
+      "id": "90705cc8b31d1c68d6f1ab9043c050b0",
+      "title": "Ông Trump: Xuồng Iran đến gần vùng phong tỏa ở Hormuz sẽ bị tiêu diệt",
+      "link": "https://vnexpress.net/ong-trump-xuong-iran-den-gan-vung-phong-toa-o-hormuz-se-bi-tieu-diet-5061987.html",
+      "summary": "Tổng thống Trump cảnh báo quân đội Mỹ sẽ phá hủy bất kỳ xuồng tấn công nhanh nào của Iran tiếp cận khu vực phong tỏa trên eo biển Hormuz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T15:45:49+07:00",
+      "fetched": "2026-04-13T23:53:52.618772+07:00"
+    },
+    {
+      "id": "90705cc8b31d1c68d6f1ab9043c050b0",
+      "title": "Ông Trump: Xuồng Iran đến gần vùng phong tỏa ở Hormuz sẽ bị tiêu diệt",
+      "link": "https://vnexpress.net/ong-trump-xuong-iran-den-gan-vung-phong-toa-o-hormuz-se-bi-tieu-diet-5061987.html",
+      "summary": "Tổng thống Trump cảnh báo quân đội Mỹ sẽ phá hủy bất kỳ xuồng tấn công nhanh nào của Iran tiếp cận khu vực phong tỏa trên eo biển Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-13T15:45:49+07:00",
+      "fetched": "2026-04-13T23:53:58.160102+07:00"
+    },
+    {
+      "id": "09971fb91f659cfe90aafa7ce0d8ff6b",
+      "title": "Cựu kỹ sư Grok 3: Nên chú trọng Toán hơn mở lớp chuyên AI",
+      "link": "https://vnexpress.net/cuu-ky-su-grok-3-nen-chu-trong-toan-hon-mo-lop-chuyen-ai-5061819.html",
+      "summary": "Từng tham gia phát triển Grok 3 - AI được Elon Musk gọi là \"thông minh nhất thế giới\", TS Phạm Hy Hiếu cho rằng việc lập lớp chuyên AI ở phổ thông là không cần thiết, thay vào đó nên chú trọng vào Toán học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T15:25:05+07:00",
+      "fetched": "2026-04-13T23:53:52.618962+07:00"
+    },
+    {
+      "id": "7c354727323fcac3bbfde7716fe9ef36",
+      "title": "Hỗ trợ 1 tỷ đồng mỗi năm cho nghiên cứu sinh xuất sắc",
+      "link": "https://vnexpress.net/ho-tro-1-ty-dong-moi-nam-cho-nghien-cuu-sinh-xuat-sac-5061984.html",
+      "summary": "Nghiên cứu sinh xuất sắc có thể nhận được hỗ trợ tối đa 1 tỷ đồng mỗi năm từ ngân sách Nhà nước, trong thời gian không quá 3 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T15:12:35+07:00",
+      "fetched": "2026-04-13T23:53:52.619130+07:00"
+    },
+    {
+      "id": "7c354727323fcac3bbfde7716fe9ef36",
+      "title": "Hỗ trợ 1 tỷ đồng mỗi năm cho nghiên cứu sinh xuất sắc",
+      "link": "https://vnexpress.net/ho-tro-1-ty-dong-moi-nam-cho-nghien-cuu-sinh-xuat-sac-5061984.html",
+      "summary": "Nghiên cứu sinh xuất sắc có thể nhận được hỗ trợ tối đa 1 tỷ đồng mỗi năm từ ngân sách Nhà nước, trong thời gian không quá 3 năm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-13T15:12:35+07:00",
+      "fetched": "2026-04-13T23:54:03.377019+07:00"
+    },
+    {
       "id": "0891075922292e0f3fc5d52150f6b232",
       "title": "Những 'sứ giả văn hóa' trẻ bắc cầu nối hữu nghị Việt - Trung",
       "link": "https://thanhnien.vn/nhung-su-gia-van-hoa-tre-bac-cau-noi-huu-nghi-viet-trung-185260413212802876.htm",
@@ -631,6 +771,16 @@ window.newsData_2026_04_13 = {
       "category": "Tổng hợp",
       "published": "2026-04-13T14:59:00+07:00",
       "fetched": "2026-04-13T22:07:33.394608+07:00"
+    },
+    {
+      "id": "d3f21978343dbc3240cd25b38a1158e3",
+      "title": "Nữ tài xế gây tai nạn liên hoàn trên phố Hà Nội",
+      "link": "https://vnexpress.net/nu-tai-xe-gay-tai-nan-lien-hoan-tren-pho-ha-noi-5061985.html",
+      "summary": "Một phụ nữ điều khiển ôtô tông 2 xe máy và 2 ôtô trên phố Doãn Kế Thiện, phường Phú Diễn, khiến một người phải đi kiểm tra sức khỏe, tối 13/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T14:58:56+07:00",
+      "fetched": "2026-04-13T23:53:52.619295+07:00"
     },
     {
       "id": "e4d576b8187a9eba097680b5beffb9a8",
