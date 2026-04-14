@@ -1,6 +1,6 @@
 window.newsData_2026_04_15 = {
   "date": "2026-04-15",
-  "lastUpdated": "2026-04-15T01:59:12.594203+07:00",
+  "lastUpdated": "2026-04-15T03:42:46.724757+07:00",
   "articles": [
     {
       "id": "7588068bfb7ad4d16007b83849f95a79",
@@ -151,6 +151,46 @@ window.newsData_2026_04_15 = {
       "category": "Tổng hợp",
       "published": "2026-04-15T01:59:04.880709+07:00",
       "fetched": "2026-04-15T01:59:04.880979+07:00"
+    },
+    {
+      "id": "41bc40b891c3c9bee69835a002f95d2b",
+      "title": "Bất ngờ thú vị tại giải bóng chuyền vô địch quốc gia",
+      "link": "https://thanhnien.vn/bat-ngo-thu-vi-tai-giai-bong-chuyen-vo-dich-quoc-gia-185260414213540266.htm",
+      "summary": "Giải bóng chuyền vô địch quốc gia 2026 đang diễn ra tại nhà thi đấu Đông Anh (Hà Nội) với những diễn biến hấp dẫn, bất ngờ ở nội dung nam và nữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T20:25:00+07:00",
+      "fetched": "2026-04-15T03:42:38.296139+07:00"
+    },
+    {
+      "id": "2bbbe2970284f1c62bf8be7cad6ec732",
+      "title": "IMF cảnh báo nguy cơ suy thoái toàn cầu vì chiến sự Trung Đông",
+      "link": "https://vnexpress.net/imf-canh-bao-nguy-co-suy-thoai-toan-cau-vi-chien-su-trung-dong-5062416.html",
+      "summary": "Với kịch bản xấu nhất, khi xung đột Trung Đông có thể kéo tăng trưởng toàn cầu về 2% - tiệm cận tình trạng suy thoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T19:34:46+07:00",
+      "fetched": "2026-04-15T03:42:34.960468+07:00"
+    },
+    {
+      "id": "2bbbe2970284f1c62bf8be7cad6ec732",
+      "title": "IMF cảnh báo nguy cơ suy thoái toàn cầu vì chiến sự Trung Đông",
+      "link": "https://vnexpress.net/imf-canh-bao-nguy-co-suy-thoai-toan-cau-vi-chien-su-trung-dong-5062416.html",
+      "summary": "Với kịch bản xấu nhất, khi xung đột Trung Đông có thể kéo tăng trưởng toàn cầu về 2% - tiệm cận tình trạng suy thoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-14T19:34:46+07:00",
+      "fetched": "2026-04-15T03:42:42.211888+07:00"
+    },
+    {
+      "id": "17757bef54f74cfd4ecf67c001bacdf7",
+      "title": "Bữa sáng giúp người đàn ông giảm 8 kg sau 3 tháng",
+      "link": "https://vnexpress.net/bua-sang-giup-nguoi-dan-ong-giam-8-kg-sau-3-thang-5061776.html",
+      "summary": "Một nam nhân viên văn phòng đã giảm cân thành công nhờ thay đổi chiến thuật ăn uống, tập trung vào bộ đôi \"đạm cao và tinh bột tốt\" ngay từ bữa đầu tiên trong ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T19:00:00+07:00",
+      "fetched": "2026-04-15T03:42:34.960647+07:00"
     },
     {
       "id": "a31e5d5ab6b45fc7173d3045a7caed22",
