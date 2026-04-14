@@ -1,7 +1,157 @@
 window.newsData_2026_04_14 = {
   "date": "2026-04-14",
-  "lastUpdated": "2026-04-14T20:02:40.439223+07:00",
+  "lastUpdated": "2026-04-14T22:05:57.855720+07:00",
   "articles": [
+    {
+      "id": "3f551237e218bc9b4c8f8dcbea1f7812",
+      "title": "Hà Nội lần đầu vô địch Giải U15 quốc gia",
+      "link": "https://tuoitre.vn/ha-noi-lan-dau-vo-dich-giai-u15-quoc-gia-20260414191304527.htm",
+      "summary": "U15 Hà Nội I đã lần đầu tiên đăng quang Giải U15 quốc gia - Cúp Modern 2026, sau khi thắng U15 Thể Công - Viettel I trong trận chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.072853+07:00",
+      "fetched": "2026-04-14T22:05:52.072981+07:00"
+    },
+    {
+      "id": "1747a13a09eb9ca3505ddd869d2c4ad9",
+      "title": "TP.HCM triển khai chiếu sáng nghệ thuật, 3D mapping ở Nhà hát thành phố, chợ Bến Thành, cầu Ba Son",
+      "link": "https://tuoitre.vn/tp-hcm-trien-khai-chieu-sang-nghe-thuat-3d-mapping-o-nha-hat-thanh-pho-cho-ben-thanh-cau-ba-son-2026041418344671.htm",
+      "summary": "Triển khai chỉ đạo của Bí thư Thành ủy Trần Lưu Quang, Sở Xây dựng vừa có văn bản triển khai việc chiếu sáng nghệ thuật, 3D mapping ở khu vực trung tâm như Bưu Điện thành phố, Nhà hát thành phố, chợ Bến Thành, cầu Ba Son...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.072726+07:00",
+      "fetched": "2026-04-14T22:05:52.072842+07:00"
+    },
+    {
+      "id": "0cdadffb3cd8ee2de7d610068fe49cf6",
+      "title": "Phó bí thư Thành ủy TP.HCM Văn Thị Bạch Tuyết: Mỗi cán bộ phải đảm nhận được nhiều vị trí việc làm",
+      "link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-tp-hcm-van-thi-bach-tuyet-moi-can-bo-phai-dam-nhan-duoc-nhieu-vi-tri-viec-lam-20260414084858571.htm",
+      "summary": "Phó bí thư Thành ủy TP.HCM Văn Thị Bạch Tuyết chỉ rõ tinh gọn là bắt buộc phải làm, không thể nào \"mở rộng hết sức\". Yêu cầu đặt ra là mỗi cán bộ phải làm được nhiều việc, từ đó đẩy mạnh công tác đào tạo, bồi dưỡng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.072598+07:00",
+      "fetched": "2026-04-14T22:05:52.072714+07:00"
+    },
+    {
+      "id": "b257f7c22e64543d33065afb98e04ad6",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp Chủ tịch Chính hiệp toàn quốc Trung Quốc",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-chu-tich-chinh-hiep-toan-quoc-trung-quoc-20260414193654755.htm",
+      "summary": "Tại cuộc gặp, Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị hai bên cùng nỗ lực tạo ra những điểm sáng trong các lĩnh vực mới như xây dựng cơ sở hạ tầng giao thông, nhất là đường sắt; đẩy mạnh hợp tác chuyển đổi số, công nghệ chiến lược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.072468+07:00",
+      "fetched": "2026-04-14T22:05:52.072582+07:00"
+    },
+    {
+      "id": "6d7204c531b9b7422e0ff05690208aad",
+      "title": "Iraq nói đạt thỏa thuận 'ngầm' với Mỹ - Iran để đối phó lệnh phong tỏa eo biển Hormuz",
+      "link": "https://tuoitre.vn/iraq-noi-dat-thoa-thuan-ngam-voi-my-iran-de-doi-pho-lenh-phong-toa-eo-bien-hormuz-2026041419364917.htm",
+      "summary": "Iraq xác nhận đã đạt được các thỏa thuận \"ngầm\" với Mỹ và Iran, nhằm giảm thiểu tác động của việc phong tỏa eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.072342+07:00",
+      "fetched": "2026-04-14T22:05:52.072456+07:00"
+    },
+    {
+      "id": "a24de66de21c90fc931213ac615d0330",
+      "title": "Đêm nghệ thuật khai mạc Lễ hội đền Hùng sẽ tôn vinh di sản của Phú Thọ sau sáp nhập",
+      "link": "https://tuoitre.vn/dem-nghe-thuat-khai-mac-le-hoi-den-hung-se-ton-vinh-di-san-cua-phu-tho-sau-sap-nhap-20260414193200318.htm",
+      "summary": "Tác giả kịch bản và đạo diễn sân khấu của chương trình nghệ thuật khai mạc Lễ hội đền Hùng Lê Thế Long cho biết điểm nổi bật của chương trình năm nay là tôn vinh được di sản văn hóa nghệ thuật đặc sắc của Phú Thọ sau sáp nhập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.072211+07:00",
+      "fetched": "2026-04-14T22:05:52.072329+07:00"
+    },
+    {
+      "id": "cc347713deacc7235565acab27f32859",
+      "title": "Sở Xây dựng TP.HCM yêu cầu báo cáo để gỡ việc ngưng cấp giấy phép xây dựng nhà ở riêng lẻ",
+      "link": "https://tuoitre.vn/so-xay-dung-tp-hcm-yeu-cau-bao-cao-de-go-viec-ngung-cap-giay-phep-xay-dung-nha-o-rieng-le-20260414192947031.htm",
+      "summary": "Sở Xây dựng TP.HCM vừa có văn bản gửi đến UBND các phường, xã, đặc khu để có giải pháp gỡ vướng mắc đang làm ngưng trệ việc cấp giấy phép xây dựng nhà ở riêng lẻ cho người dân thuộc thẩm quyền của UBND cấp xã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.072052+07:00",
+      "fetched": "2026-04-14T22:05:52.072194+07:00"
+    },
+    {
+      "id": "f12ebb5a8e96367eaa75f3dd0b4381e1",
+      "title": "Bộ đội biên phòng Cần Thơ nhận Huân chương Chiến công hạng nhì",
+      "link": "https://tuoitre.vn/bo-doi-bien-phong-can-tho-nhan-huan-chuong-chien-cong-hang-nhi-20260414192522715.htm",
+      "summary": "Bộ đội biên phòng Cần Thơ đã lập chiến công xuất sắc, đột xuất trong đấu tranh phòng, chống tội phạm, góp phần giữ vững an ninh chính trị, trật tự an toàn xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.071918+07:00",
+      "fetched": "2026-04-14T22:05:52.072040+07:00"
+    },
+    {
+      "id": "95b3819ce5a84fb3128d44ae33f45da8",
+      "title": "Nhiều nút giao ở TP.HCM ô nhiễm không khí, Cát Lái tới 84% số liệu vượt quy chuẩn",
+      "link": "https://tuoitre.vn/nhieu-nut-giao-o-tp-hcm-o-nhiem-khong-khi-cat-lai-toi-84-so-lieu-vuot-quy-chuan-20260414184422258.htm",
+      "summary": "Chất lượng không khí TP.HCM nhìn chung ổn định, nhưng nhiều nút giao đông xe như Cát Lái, An Phú, An Sương vẫn ghi nhận ô nhiễm, có nơi vượt quy chuẩn nhiều lần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.071790+07:00",
+      "fetched": "2026-04-14T22:05:52.071906+07:00"
+    },
+    {
+      "id": "437637b40d19b39f6e1890176fc3acd2",
+      "title": "Giải cờ tướng tiền tỉ của Trung Quốc hồi hộp chờ Lại Lý Huynh",
+      "link": "https://tuoitre.vn/giai-co-tuong-tien-ti-cua-trung-quoc-hoi-hop-cho-lai-ly-huynh-20260414173542136.htm",
+      "summary": "Trong 2 ngày tới, nhiều khả năng Lại Lý Huynh sẽ sang Trung Quốc tham dự một giải cờ tướng danh giá, diễn ra tại Đại Trúc, Đạt Châu, tỉnh Tứ Xuyên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.071661+07:00",
+      "fetched": "2026-04-14T22:05:52.071778+07:00"
+    },
+    {
+      "id": "f3ada07898891e75901d591139888c3c",
+      "title": "Cầu thủ Văn Thanh cầu hôn bạn gái",
+      "link": "https://tuoitre.vn/cau-thu-van-thanh-cau-hon-ban-gai-20260413084319626.htm",
+      "summary": "Tối 14-4, hậu vệ Vũ Văn Thanh cầu hôn \"hot girl\" Trần Bích Hạnh đúng dịp sinh nhật của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.071530+07:00",
+      "fetched": "2026-04-14T22:05:52.071649+07:00"
+    },
+    {
+      "id": "b19ac5ce22ef8728c71a2cc89d200bf0",
+      "title": "Sút hỏng phạt đền, cầu thủ vô tình có bàn thắng theo kiểu... 'đau điếng'",
+      "link": "https://tuoitre.vn/sut-hong-phat-den-cau-thu-vo-tinh-co-ban-thang-theo-kieu-dau-dieng-20260414195348579.htm",
+      "summary": "Một tình huống khá kỳ lạ vừa xảy ra ở Giải vô địch Paraguay (Primera Division), khi cầu thủ sút hỏng phạt đền nhưng được thưởng một bàn thắng đau điếng vì bị đối thủ đá bóng trúng mặt văng vào lưới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.071400+07:00",
+      "fetched": "2026-04-14T22:05:52.071518+07:00"
+    },
+    {
+      "id": "c53c7884b9ca05c2f4155d719b056f56",
+      "title": "Petrolimex báo tin bất thường: Gần 43.300 cổ đông, vẫn có nguy cơ phải rời sàn",
+      "link": "https://tuoitre.vn/petrolimex-bao-tin-bat-thuong-gan-43-300-co-dong-van-co-nguy-co-phai-roi-san-20260414194406823.htm",
+      "summary": "Petrolimex hiện có 43.266 cổ đông, trong đó 43.264 cổ đông không phải cổ đông lớn nắm giữ cổ phiếu có quyền biểu quyết, song tổng tỉ lệ sở hữu của nhóm này chỉ đạt khoảng 9,4%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.071253+07:00",
+      "fetched": "2026-04-14T22:05:52.071387+07:00"
+    },
+    {
+      "id": "4fbc2ac4b96cb967e9e2adcd167a51eb",
+      "title": "Sun Group thí điểm làm thủ tục chuyến bay ngay tại khách sạn ở Phú Quốc",
+      "link": "https://tuoitre.vn/sungroup-thi-diem-lam-thu-tuc-chuyen-bay-ngay-tai-khach-san-o-phu-quoc-20260414201959178.htm",
+      "summary": "Sau ba tháng chuyển giao Sun Group vận hành, Cảng hàng không quốc tế Phú Quốc ghi nhận mức tăng trưởng đột biến về lượng khách và chuyến bay quốc tế. Đáng chú ý, từ 17-4 sẽ thí điểm mô hình làm thủ tục chuyến bay ngay tại khách sạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.071065+07:00",
+      "fetched": "2026-04-14T22:05:52.071238+07:00"
+    },
+    {
+      "id": "7588068bfb7ad4d16007b83849f95a79",
+      "title": "Người già, người Việt ở nước ngoài sẽ xác thực SIM như thế nào?",
+      "link": "https://tuoitre.vn/nguoi-gia-nguoi-viet-o-nuoc-ngoai-se-xac-thuc-sim-nhu-the-nao-20260414201621308.htm",
+      "summary": "Theo lộ trình, các số thuê bao không xác thực SIM sẽ bị tạm dừng dịch vụ một chiều, sau đó hai chiều và có thể bị chấm dứt hợp đồng nếu không bổ sung thông tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T22:05:52.070818+07:00",
+      "fetched": "2026-04-14T22:05:52.071050+07:00"
+    },
     {
       "id": "62f2d940f1db4255a1c27b0cb122e927",
       "title": "Đại tướng Nguyễn Trọng Nghĩa thăm, kiểm tra các đơn vị Quân khu 5 đóng tại Đà Nẵng",
@@ -453,6 +603,56 @@ window.newsData_2026_04_14 = {
       "fetched": "2026-04-14T16:08:58.395106+07:00"
     },
     {
+      "id": "8bfee4848b43605b2549aae6a102a75c",
+      "title": "Màu chì 'phát sáng' - ít nhưng đắt, giúp nàng công sở tỏa sáng mỗi ngày",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mau-chi-phat-sang-it-nhung-dat-giup-nang-cong-so-toa-sang-moi-ngay-185260414165144975.htm",
+      "summary": "Không rực rỡ như ánh kim vàng hay nổi bật như bảng màu neon, màu chì và xám bạc đang trở thành lựa chọn 'âm thầm nhưng quyền lực' trong tủ đồ công sở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T15:00:00+07:00",
+      "fetched": "2026-04-14T22:05:51.328966+07:00"
+    },
+    {
+      "id": "ef0deb39dc243be97cc348d8cf9300f3",
+      "title": "Nuôi thủy sản trái phép trên vịnh Hạ Long",
+      "link": "https://thanhnien.vn/nuoi-thuy-san-trai-phep-tren-vinh-ha-long-185260414201231544.htm",
+      "summary": "Lực lượng chức năng Quảng Ninh xử phạt nuôi thủy sản trái phép trên vịnh Hạ Long, phát hiện nhiều lồng nuôi, phương tiện vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T14:46:00+07:00",
+      "fetched": "2026-04-14T22:05:51.329170+07:00"
+    },
+    {
+      "id": "d77c5479bf05f9a6a5cac04fff983c1c",
+      "title": "Lương Thế Thành kỷ niệm 10 năm hôn nhân, nói về vai diễn gây tranh cãi",
+      "link": "https://thanhnien.vn/luong-the-thanh-ky-niem-10-nam-hon-nhan-noi-ve-vai-dien-gay-tranh-cai-185260414213633313.htm",
+      "summary": "Đăng tải hình ảnh tình cảm bên Thúy Diễm nhân kỷ niệm 10 năm kết hôn, Lương Thế Thành cũng có những chia sẻ gây chú ý về vai diễn trong 'Bóng ma hạnh phúc'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T14:45:00+07:00",
+      "fetched": "2026-04-14T22:05:51.329333+07:00"
+    },
+    {
+      "id": "59f22ca7fd995a9172ae2fec3548f8d3",
+      "title": "Ý đình chỉ thỏa thuận quốc phòng với Israel",
+      "link": "https://thanhnien.vn/y-dinh-chi-thoa-thuan-quoc-phong-voi-israel-18526041421073747.htm",
+      "summary": "Hôm nay (14.4), Thủ tướng Ý Giorgia Meloni tuyên bố nước này đã đình chỉ thỏa thuận quốc phòng với Israel, bao gồm hoạt động trao đổi thiết bị quân sự và nghiên cứu công nghệ song phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T14:40:00+07:00",
+      "fetched": "2026-04-14T22:05:51.329491+07:00"
+    },
+    {
+      "id": "404c4e46ce4114cdff23990cce6e0631",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp gỡ cộng đồng người Việt tại Trung Quốc",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-go-cong-dong-nguoi-viet-tai-trung-quoc-18526041421173337.htm",
+      "summary": "Chiều tối 14.4, tại Bắc Kinh, Trung Quốc, Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân gặp gỡ cán bộ các cơ quan đại diện và cộng đồng người Việt Nam tại Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T14:24:00+07:00",
+      "fetched": "2026-04-14T22:05:51.329646+07:00"
+    },
+    {
       "id": "265077ab10f964591c0e04e0ebb2bb56",
       "title": "Mua hàng cho shipper chờ dài cổ: Trễ vài phút thôi hay thiếu tôn trọng?",
       "link": "https://tuoitre.vn/mua-hang-cho-shipper-cho-dai-co-tre-vai-phut-thoi-hay-thieu-ton-trong-20260410120406116.htm",
@@ -603,6 +803,206 @@ window.newsData_2026_04_14 = {
       "fetched": "2026-04-14T14:17:57.293722+07:00"
     },
     {
+      "id": "f11cdb091d4958d82657ee202f1d249e",
+      "title": "Metropolitano - pháo đài có thể chặn đứng Barca",
+      "link": "https://vnexpress.net/metropolitano-phao-dai-co-the-chan-dung-barca-5062017.html",
+      "summary": "Metropolitano, sân nhà của Atletico Madrid, có thể là nơi Barca phải kết thúc hành trình Champions League tối 14/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T14:09:20+07:00",
+      "fetched": "2026-04-14T22:05:48.326390+07:00"
+    },
+    {
+      "id": "f11cdb091d4958d82657ee202f1d249e",
+      "title": "Metropolitano - pháo đài có thể chặn đứng Barca",
+      "link": "https://vnexpress.net/metropolitano-phao-dai-co-the-chan-dung-barca-5062017.html",
+      "summary": "Metropolitano, sân nhà của Atletico Madrid, có thể là nơi Barca phải kết thúc hành trình Champions League tối 14/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-14T14:09:20+07:00",
+      "fetched": "2026-04-14T22:05:57.842967+07:00"
+    },
+    {
+      "id": "ebc051f1595fc6e4dbeedfb1cd083abb",
+      "title": "Nhiều chủ thuê bao đi xác thực vì hiểu nhầm 'sẽ bị khóa SIM'",
+      "link": "https://vnexpress.net/nhieu-chu-thue-bao-di-xac-thuc-vi-hieu-nham-se-bi-khoa-sim-5062375.html",
+      "summary": "Chờ gần 30 phút đến lượt \"xác thực\" tại một cửa hàng của nhà mạng, chị Phương Thảo được nhân viên thông báo có thể về vì thuê bao đã đủ thông tin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T14:06:58+07:00",
+      "fetched": "2026-04-14T22:05:48.326577+07:00"
+    },
+    {
+      "id": "ebc051f1595fc6e4dbeedfb1cd083abb",
+      "title": "Nhiều chủ thuê bao đi xác thực vì hiểu nhầm 'sẽ bị khóa SIM'",
+      "link": "https://vnexpress.net/nhieu-chu-thue-bao-di-xac-thuc-vi-hieu-nham-se-bi-khoa-sim-5062375.html",
+      "summary": "Chờ gần 30 phút đến lượt \"xác thực\" tại một cửa hàng của nhà mạng, chị Phương Thảo được nhân viên thông báo có thể về vì thuê bao đã đủ thông tin.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-14T14:06:58+07:00",
+      "fetched": "2026-04-14T22:05:56.311986+07:00"
+    },
+    {
+      "id": "fb7c36177bb4211a951f6f9cacb4674e",
+      "title": "Tôi lẳng lặng chấp nhận 'khuyết điểm' có bồ của người chồng tốt",
+      "link": "https://vnexpress.net/tha-thu-chong-ngoai-tinh-toi-lang-lang-chap-nhan-khuyet-diem-co-bo-cua-nguoi-chong-tot-5062177.html",
+      "summary": "Suốt 10 năm, tôi lặng lẽ đứng sau, biết rõ từng bóng hồng đi qua đời anh nhưng vẫn giữ cho tổ ấm sự bình yên tuyệt đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T14:00:00+07:00",
+      "fetched": "2026-04-14T22:05:48.326744+07:00"
+    },
+    {
+      "id": "b8f2daaa39fe6b0599cf39f9ac9f0920",
+      "title": "Ôtô khách chở 9 người lao xuống mương",
+      "link": "https://vnexpress.net/oto-khach-cho-9-nguoi-lao-xuong-muong-5062394.html",
+      "summary": "Giữa trời mưa, xe giường nằm chở 9 người chạy qua xã Đăk Tô tông vào lan can rồi trượt xuống mương nước, hành khách hoảng loạn tìm cách thoát thân, tối 14/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:59:21+07:00",
+      "fetched": "2026-04-14T22:05:48.326903+07:00"
+    },
+    {
+      "id": "96d8fa2aea903d79f0eac179ad3bc17a",
+      "title": "Những thiết bị công nghệ 'mua một lần dùng cả đời'",
+      "link": "https://thanhnien.vn/nhung-thiet-bi-cong-nghe-mua-mot-lan-dung-ca-doi-185260409093116432.htm",
+      "summary": "Thay vì chạy theo thiết bị mới, nhiều người chọn những sản phẩm chất lượng cao có thể hoạt động ổn định trong nhiều năm liền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:55:00+07:00",
+      "fetched": "2026-04-14T22:05:51.329799+07:00"
+    },
+    {
+      "id": "7f70c0de86dddff50dc8deb7d5d1eaf5",
+      "title": "Lý Sơn cấm du khách trèo lên Cổng Tò Vò",
+      "link": "https://vnexpress.net/ly-son-cam-du-khach-treo-len-cong-to-vo-5062373.html",
+      "summary": "Chính quyền đặc khu Lý Sơn yêu cầu du khách ngừng leo trèo và đứng trên vòm đá Cổng Tò Vò nhằm bảo vệ di tích quốc gia này trước mùa du lịch cao điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:52:46+07:00",
+      "fetched": "2026-04-14T22:05:48.327066+07:00"
+    },
+    {
+      "id": "06b5dc53ff8f0ab95bfd6a3e00a3f25c",
+      "title": "'Conan 29' lập kỷ lục hút fan",
+      "link": "https://vnexpress.net/conan-29-lap-ky-luc-hut-fan-5062333.html",
+      "summary": "Hoạt hình \"Conan 29\" thu 21,91 triệu USD trong ba ngày, là phần ăn khách nhất series phim đề tài trinh thám.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:46:49+07:00",
+      "fetched": "2026-04-14T22:05:48.327253+07:00"
+    },
+    {
+      "id": "8a42ccaeb9ca2815800b78ccc3e9428e",
+      "title": "Thủ tướng phê chuẩn bổ nhiệm chủ tịch và 5 phó chủ tịch tỉnh Hưng Yên",
+      "link": "https://thanhnien.vn/thu-tuong-phe-chuan-bo-nhiem-chu-tich-va-5-pho-chu-tich-tinh-hung-yen-185260414202344276.htm",
+      "summary": "Ngày 14.4, Thủ tướng Lê Minh Hưng đã ký các quyết định phê chuẩn kết quả bầu chức vụ Chủ tịch UBND tỉnh Hưng Yên và 5 phó chủ tịch tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:41:00+07:00",
+      "fetched": "2026-04-14T22:05:51.329949+07:00"
+    },
+    {
+      "id": "67dc15fcd2dc543cac3df8a89aacd4a4",
+      "title": "Mẹ bị bắt vì pha sữa cho con bằng nước rửa kim tiêm ma túy",
+      "link": "https://vnexpress.net/me-bi-bat-vi-pha-sua-cho-con-bang-nuoc-rua-kim-tiem-ma-tuy-5062328.html",
+      "summary": "Jalyn Brownworth, 32 tuổi, bị bắt với cáo buộc ngược đãi trẻ em sau khi pha sữa cho con sơ sinh bằng nước rửa kim tiêm ma túy đá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:39:29+07:00",
+      "fetched": "2026-04-14T22:05:48.327426+07:00"
+    },
+    {
+      "id": "b35dce0c8feb3cd22d8c7f5c16baefbc",
+      "title": "Thực hư vụ cô gái giằng co với 2 CSGT TP.HCM, giật tờ giấy xanh",
+      "link": "https://thanhnien.vn/thuc-hu-vu-co-gai-giang-co-voi-2-csgt-tphcm-giat-2-to-giay-xanh-185260414203053073.htm",
+      "summary": "Mạng xã hội đang chia sẻ đoạn clip ghi lại cảnh cô gái giằng co với 2 CSGT TP.HCM thu hút nhiều ý kiến bình luận. Thực hư thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:33:00+07:00",
+      "fetched": "2026-04-14T22:05:51.330120+07:00"
+    },
+    {
+      "id": "ad682dbd886f951fc3cb39038cfaaa33",
+      "title": "Kháng sinh sẽ thành 'thuốc vô dụng' nếu dùng bừa bãi",
+      "link": "https://vnexpress.net/khang-sinh-se-thanh-thuoc-vo-dung-neu-dung-bua-bai-5062356.html",
+      "summary": "Chuyên gia cảnh báo tình trạng lạm dụng kháng sinh và dùng sai cách có thể biến 'vũ khí cứu mạng' này thành những viên thuốc vô tác dụng trong tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:32:53+07:00",
+      "fetched": "2026-04-14T22:05:48.327591+07:00"
+    },
+    {
+      "id": "e2d73bdc46896fcdd2f11d22998bff23",
+      "title": "3 thói quen buổi tối âm thầm gây hại thận",
+      "link": "https://thanhnien.vn/3-thoi-quen-buoi-toi-am-tham-gay-hai-than-185260414202620825.htm",
+      "summary": "Thận là cơ quan giữ vai trò lọc máu và đào thải độc tố. Theo các chuyên gia, nhiều thói quen buổi tối tưởng chừng vô hại lại có thể làm tăng gánh nặng cho thận nếu kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:26:00+07:00",
+      "fetched": "2026-04-14T22:05:51.330294+07:00"
+    },
+    {
+      "id": "fc8f89781ffeeb373cd5dd95acfa76f3",
+      "title": "Phục chế màu và phát sóng vở 'Tiếng trống Mê Linh' của cố NSƯT Thanh Nga",
+      "link": "https://thanhnien.vn/phuc-che-mau-va-phat-song-vo-tieng-trong-me-linh-cua-co-nsut-thanh-nga-185260414194102792.htm",
+      "summary": "Đài phát thanh và Truyền hình TP.HCM (HTV) phục chế màu vở cải lương kinh điển 'Tiếng trống Mê Linh' nhân dịp Giỗ tổ Hùng Vương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:25:00+07:00",
+      "fetched": "2026-04-14T22:05:51.330446+07:00"
+    },
+    {
+      "id": "e07a9f9496c26662179d06f6cea7239a",
+      "title": "Việt Nam mong muốn đẩy mạnh hợp tác công nghệ với Trung Quốc",
+      "link": "https://vnexpress.net/viet-nam-mong-muon-day-manh-hop-tac-cong-nghe-voi-trung-quoc-5062379.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm bày tỏ mong muốn hai nước đẩy mạnh hợp tác chuyển đổi số, công nghệ chiến lược như AI, lượng tử, bán dẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:20:52+07:00",
+      "fetched": "2026-04-14T22:05:48.327756+07:00"
+    },
+    {
+      "id": "e07a9f9496c26662179d06f6cea7239a",
+      "title": "Việt Nam mong muốn đẩy mạnh hợp tác công nghệ với Trung Quốc",
+      "link": "https://vnexpress.net/viet-nam-mong-muon-day-manh-hop-tac-cong-nghe-voi-trung-quoc-5062379.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm bày tỏ mong muốn hai nước đẩy mạnh hợp tác chuyển đổi số, công nghệ chiến lược như AI, lượng tử, bán dẫn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-14T13:20:52+07:00",
+      "fetched": "2026-04-14T22:05:53.158006+07:00"
+    },
+    {
+      "id": "8cc33ab40676edb90e0cd25c860df191",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Chủ tịch Chính hiệp Trung Quốc",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-chu-tich-chinh-hiep-trung-quoc-185260414200629354.htm",
+      "summary": "Ngày 14.4, Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Chủ tịch Chính hiệp toàn quốc Trung Quốc Vương Hộ Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:10:00+07:00",
+      "fetched": "2026-04-14T22:05:51.330595+07:00"
+    },
+    {
+      "id": "d7b9049dbbcbe7c23decb67217659f70",
+      "title": "Cận cảnh 'hàm ếch' khổng lồ ngoác miệng bên sông Lò Gạch",
+      "link": "https://thanhnien.vn/can-canh-ham-ech-khong-lo-ngoac-mieng-ben-song-lo-gach-185260414194905495.htm",
+      "summary": "Ngày 14.4, chính quyền địa phương xã Vĩnh Hưng (Tây Ninh) vẫn đang phối hợp đơn vị thi công tổ chức rào chắn, cắm biển cảnh báo, không cho người và phương tiện lưu thông qua khu vực sạt lở ở sông Lò Gạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:07:00+07:00",
+      "fetched": "2026-04-14T22:05:51.330742+07:00"
+    },
+    {
+      "id": "674e3075490f5d34b4ae0ea0ba039c94",
+      "title": "Hòn đảo thỏ đông hơn người ở nước nào?",
+      "link": "https://vnexpress.net/hon-dao-tho-dong-hon-nguoi-o-nuoc-nao-5062342.html",
+      "summary": "Nơi đây có khoảng 30 người sinh sống, trong khi có hàng nghìn con thỏ. Bạn có biết hòn đảo này thuộc nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:01:00+07:00",
+      "fetched": "2026-04-14T22:05:48.327907+07:00"
+    },
+    {
       "id": "c6a0832abceedd96c5cf7d7c918dacb2",
       "title": "Xem nhanh 20h ngày 14.4: CSGT siết nồng độ cồn cả khung giờ trưa | Bao giờ Nam bộ đón mưa giải nhiệt?",
       "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-144-csgt-siet-nong-do-con-ca-khung-gio-trua-bao-gio-nam-bo-don-mua-giai-nhiet-18526041419095891.htm",
@@ -611,6 +1011,46 @@ window.newsData_2026_04_14 = {
       "category": "Tổng hợp",
       "published": "2026-04-14T13:00:00+07:00",
       "fetched": "2026-04-14T20:02:30.532376+07:00"
+    },
+    {
+      "id": "d86b12e99f083546306bd2911b2caa78",
+      "title": "Bên trong Hùng An - 'thành phố tương lai' của Trung Quốc",
+      "link": "https://vnexpress.net/ben-trong-hung-an-thanh-pho-tuong-lai-cua-trung-quoc-5062274.html",
+      "summary": "Khu mới Hùng An được thiết kế để trở thành một thành phố xanh, hiện đại, với nhiều công nghệ tích hợp, giúp giảm tải cho thủ đô Bắc Kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:00:00+07:00",
+      "fetched": "2026-04-14T22:05:48.328063+07:00"
+    },
+    {
+      "id": "8711dae17f7dd34b426745b489d17ccc",
+      "title": "Bức thư tay giúp khách Việt xin được visa Nhật 3 năm",
+      "link": "https://vnexpress.net/buc-thu-tay-giup-khach-viet-xin-duoc-visa-nhat-3-nam-5059686.html",
+      "summary": "Anh Thắng Nguyễn chia sẻ bí quyết sử dụng bức thư cá nhân hóa để thuyết phục Lãnh sự quán cấp thị thực nhập cảnh nhiều lần thay vì chỉ dùng hồ sơ tài chính thuần túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:00:00+07:00",
+      "fetched": "2026-04-14T22:05:48.328244+07:00"
+    },
+    {
+      "id": "b195654a9f45823bea79583286448f9f",
+      "title": "Cách nào vực dậy tuổi 27 làm phục vụ quán ăn, lương 8 triệu đồng?",
+      "link": "https://vnexpress.net/cach-nao-vuc-day-tuoi-27-lam-phuc-vu-quan-an-luong-8-trieu-dong-5062283.html",
+      "summary": "Tôi tính đăng ký đi học nghề đầu bếp hoặc bán trà sữa, đồ ăn vặt vào buổi tối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T13:00:00+07:00",
+      "fetched": "2026-04-14T22:05:48.328396+07:00"
+    },
+    {
+      "id": "d86b12e99f083546306bd2911b2caa78",
+      "title": "Bên trong Hùng An - 'thành phố tương lai' của Trung Quốc",
+      "link": "https://vnexpress.net/ben-trong-hung-an-thanh-pho-tuong-lai-cua-trung-quoc-5062274.html",
+      "summary": "Khu mới Hùng An được thiết kế để trở thành một thành phố xanh, hiện đại, với nhiều công nghệ tích hợp, giúp giảm tải cho thủ đô Bắc Kinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-14T13:00:00+07:00",
+      "fetched": "2026-04-14T22:05:53.158210+07:00"
     },
     {
       "id": "3a0279d78f8c3de057c7a364a47df3bd",
@@ -681,6 +1121,16 @@ window.newsData_2026_04_14 = {
       "category": "Thể thao",
       "published": "2026-04-14T12:41:38+07:00",
       "fetched": "2026-04-14T20:02:40.427014+07:00"
+    },
+    {
+      "id": "06e6c050c14a444c9bd080e958007097",
+      "title": "Garnacho nguy cơ bị kỷ luật vì xóa ảnh Chelsea",
+      "link": "https://vnexpress.net/garnacho-nguy-co-bi-ky-luat-vi-xoa-anh-chelsea-5062377.html",
+      "summary": "Tiền đạo cánh 21 tuổi Alejandro Garnacho đối mặt nguy cơ bị Chelsea kỷ luật nội bộ, sau khi xóa bài đăng về đội nhà và đăng lại hình ảnh đội bóng cũ Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-14T12:41:38+07:00",
+      "fetched": "2026-04-14T22:05:57.843169+07:00"
     },
     {
       "id": "e8dab23f19c835916335b65da70d304c",
@@ -2331,6 +2781,16 @@ window.newsData_2026_04_14 = {
       "category": "Thể thao",
       "published": "2026-04-14T05:14:53+07:00",
       "fetched": "2026-04-14T14:18:05.397541+07:00"
+    },
+    {
+      "id": "20e5d2d914e86b4af9f09615cbf4db6b",
+      "title": "HLV Popov bị cấm 4 trận ở V-League",
+      "link": "https://vnexpress.net/hlv-popov-bi-cam-4-tran-o-v-league-5062198.html",
+      "summary": "HLV Velizar Popov bị cấm chỉ đạo bốn trận và phạt 20 triệu đồng do phản ứng với trọng tài ở vòng 18 V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-14T05:14:53+07:00",
+      "fetched": "2026-04-14T22:05:57.843967+07:00"
     },
     {
       "id": "69a6377a0e2dc489cf1e0b1790c3c341",
