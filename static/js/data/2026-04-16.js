@@ -1,7 +1,17 @@
 window.newsData_2026_04_16 = {
   "date": "2026-04-16",
-  "lastUpdated": "2026-04-16T03:38:18.783666+07:00",
+  "lastUpdated": "2026-04-16T05:33:53.165528+07:00",
   "articles": [
+    {
+      "id": "c3a34fd0809b73c369000967c8fdccea",
+      "title": "Thời tiết hôm nay 16-4: Ban ngày vẫn nắng nóng, đêm có nơi mưa rất to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-16-4-ban-ngay-van-nang-nong-dem-co-noi-mua-rat-to-20260415160440278.htm",
+      "summary": "Hôm nay 16-4, thời tiết nắng nóng có phần dịu bớt trong ngày, về đêm một số nơi mưa to đến rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T05:33:46.032495+07:00",
+      "fetched": "2026-04-16T05:33:46.032738+07:00"
+    },
     {
       "id": "e87da26bf38fa881bf6a4733b64974d8",
       "title": "Hai thanh niên vận chuyển 24.000 viên hồng phiến để lấy 30 triệu tiền công",
@@ -151,6 +161,376 @@ window.newsData_2026_04_16 = {
       "category": "Tổng hợp",
       "published": "2026-04-16T02:01:03.964329+07:00",
       "fetched": "2026-04-16T02:01:03.964542+07:00"
+    },
+    {
+      "id": "723944f22c2c0d36148fc3684101f8e6",
+      "title": "VinFast chiếm 85% thị phần MPV cỡ trung",
+      "link": "https://vnexpress.net/vinfast-chiem-85-thi-phan-mpv-co-trung-5062764.html",
+      "summary": "Tổng doanh số Limo Green và VF MPV 7 đạt hơn 16.000 xe sau quý I, giúp VinFast thống trị thị phần xe đa dụng giá dưới một tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:30:00+07:00",
+      "fetched": "2026-04-16T05:33:41.332872+07:00"
+    },
+    {
+      "id": "47a4ddfdf5b5d3b928b3e9d45b769248",
+      "title": "Tiêu điểm quốc tế 17.4: Ukraine lo Mỹ lơ là vì Trung Đông | Hy vọng gì cho hòa đàm Mỹ - Iran?",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-174-ukraine-lo-my-lo-la-vi-trung-dong-hy-vong-gi-cho-hoa-dam-my-iran-185260415232501666.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 15.4.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:30:00+07:00",
+      "fetched": "2026-04-16T05:33:44.621259+07:00"
+    },
+    {
+      "id": "50365bfdcb482c5644c549b4f7a43df2",
+      "title": "Nhà tập thể hơn 50 năm xuống cấp: Cư dân lo lắng vì tầng trên cải tạo, xây thêm",
+      "link": "https://thanhnien.vn/nha-tap-the-hon-50-nam-xuong-cap-cu-dan-lo-lang-vi-tang-tren-cai-tao-xay-them-185260414230938064.htm",
+      "summary": "Nhà tập thể hơn 50 năm ở phường Cầu Kiệu (TP.HCM) đang xuống cấp. Cư dân lo ngại việc cải tạo, xây thêm tại tầng 4 có thể ảnh hưởng đến kết cấu và an toàn chung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:30:00+07:00",
+      "fetched": "2026-04-16T05:33:44.621507+07:00"
+    },
+    {
+      "id": "96514c585e28ebe1d73d4fc3dd8c3ee1",
+      "title": "Arsenal đấu Atletico ở bán kết Champions League",
+      "link": "https://vnexpress.net/arsenal-dau-atletico-o-ban-ket-champions-league-5062958.html",
+      "summary": "Arsenal hòa Sporting Lisbon 0-0 ở lượt về tứ kết Champions League, qua đó đi tiếp với tổng tỷ số 1-0.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:29:15+07:00",
+      "fetched": "2026-04-16T05:33:41.333095+07:00"
+    },
+    {
+      "id": "60b37c5e8b1545a3a52a669effb89975",
+      "title": "HLV Real Madrid và cầu thủ 'công kích' trọng tài dữ dội, Chủ tịch Perez làm điều hiếm gặp",
+      "link": "https://thanhnien.vn/hlv-real-madrid-va-cau-thu-cong-kich-trong-tai-du-doi-chu-tich-perez-lam-dieu-hiem-gap-185260416045123429.htm",
+      "summary": "Rạng sáng 16.4, Real Madrid đã bị Bayern Munich loại khỏi Champions League theo kịch bản nghiệt ngã. Thất bại 3-4 trước Bayern Munich (tổng tỷ số 4-6) không chỉ khiến 'Los Blancos' dừng bước, mà còn để lại dư chấn lớn xoay quanh quyết định của trọng tài Slavko Vincic.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:29:00+07:00",
+      "fetched": "2026-04-16T05:33:44.621687+07:00"
+    },
+    {
+      "id": "9c31d32a03460920a5edda960d1548e7",
+      "title": "Phó tổng thống Mỹ nêu thành tựu lớn về Ukraine",
+      "link": "https://thanhnien.vn/pho-tong-thong-my-neu-thanh-tuu-lon-ve-ukraine-185260415224325753.htm",
+      "summary": "Tại một sự kiện chính trị ở bang Georgia ngày 14.4, Phó tổng thống Mỹ J.D. Vance tuyên bố tự hào về việc chính quyền Tổng thống Donald Trump cắt nguồn viện trợ cho Ukraine trong xung đột với Nga, gọi đó là một trong những thành tựu tốt nhất của chính quyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:29:00+07:00",
+      "fetched": "2026-04-16T05:33:44.621854+07:00"
+    },
+    {
+      "id": "466514aa387b3df6de3740b05af95133",
+      "title": "Xem trực tiếp giải bóng chuyền vô địch quốc gia 2026 hôm nay ở đâu, kênh nào?",
+      "link": "https://thanhnien.vn/xem-truc-tiep-giai-bong-chuyen-vo-dich-quoc-gia-2026-hom-nay-o-dau-kenh-nao-185260416052524168.htm",
+      "summary": "Hôm nay (16.4), vòng 1 giải bóng chuyền vô địch quốc gia 2026 tiếp tục diễn ra tại nhà thi đấu Đông Anh (Hà Nội) với nhiều cặp đấu hứa hẹn hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:28:00+07:00",
+      "fetched": "2026-04-16T05:33:44.622042+07:00"
+    },
+    {
+      "id": "858c3fe378a83f2c9b80eefc49a1864d",
+      "title": "Tiết kiệm ít nhất 10% chi thường xuyên",
+      "link": "https://thanhnien.vn/tiet-kiem-it-nhat-10-chi-thuong-xuyen-185260415203435115.htm",
+      "summary": "Sáng 15.4, Thủ tướng Lê Minh Hưng, Chủ tịch Hội đồng Thi đua - Khen thưởng T.Ư nhiệm kỳ 2026-2031, chủ trì phiên họp thứ nhất của hội đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:27:00+07:00",
+      "fetched": "2026-04-16T05:33:44.622202+07:00"
+    },
+    {
+      "id": "900d4aa8f4ebf8978571f1e8f25f6664",
+      "title": "Chim vạc rừng bị thương được giải cứu: Cần làm gì khi phát hiện?",
+      "link": "https://thanhnien.vn/chim-vac-rung-bi-thuong-duoc-giai-cuu-can-lam-gi-khi-phat-hien-185260410151219308.htm",
+      "summary": "Một con chim vạc rừng bị thương vừa được người dân phối hợp với Trung tâm Giáo dục thiên nhiên giải cứu, chăm sóc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:25:00+07:00",
+      "fetched": "2026-04-16T05:33:44.622355+07:00"
+    },
+    {
+      "id": "c1ad18a7b7dd38c80221b7aa501dc533",
+      "title": "Cảnh sát điều tra vụ diễn viên tố cáo Katy Perry 'tấn công tình dục'",
+      "link": "https://vnexpress.net/canh-sat-dieu-tra-vu-dien-vien-to-cao-katy-perry-tan-cong-tinh-duc-5062935.html",
+      "summary": "Cảnh sát Australia đang điều tra vụ diễn viên Ruby Rose tố cáo ca sĩ Katy Perry tấn công tình dục cô tại một hộp đêm gần 20 năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:17:42+07:00",
+      "fetched": "2026-04-16T05:33:41.333271+07:00"
+    },
+    {
+      "id": "a60654c510c020af3091e8583a824c78",
+      "title": "Tử vi ngày 16 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-16-thang-4-con-giap-nao-may-man-hom-nay-185260416002216434.htm",
+      "summary": "Tử vi ngày 16 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm đáng chú ý là khả năng đọc tình huống - không phải lúc nào hành động nhiều cũng tốt, đôi khi biết chờ đúng lúc lại mang đến kết quả cao hơn. Tài lộc phụ thuộc vào việc bạn có nhận ra thời điểm nên tiến và lúc nên dừng hay khô...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:15:00+07:00",
+      "fetched": "2026-04-16T05:33:44.622510+07:00"
+    },
+    {
+      "id": "8204a4f38e2908f8a0d831caabdea69c",
+      "title": "Mỹ nới lỏng cấm vận đối với Venezuela",
+      "link": "https://thanhnien.vn/my-noi-long-cam-van-doi-voi-venezuela-185260415224604595.htm",
+      "summary": "Hãng Reuters ngày 15.4 đưa tin Bộ Tài chính Mỹ vừa ban hành 2 giấy phép chung liên quan Venezuela.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:14:00+07:00",
+      "fetched": "2026-04-16T05:33:44.622662+07:00"
+    },
+    {
+      "id": "2a5360b042281571a43181b4831df293",
+      "title": "Tín dụng bất động sản, kiểm soát thế nào để phát triển?",
+      "link": "https://thanhnien.vn/tin-dung-bat-dong-san-kiem-soat-the-nao-de-phat-trien-185260415173521591.htm",
+      "summary": "Lãi suất cho vay bất động sản (BĐS) đã và đang tăng cao, lên đến 14 - 15%/năm, các hợp đồng cũ còn bị điều chỉnh cao hơn. Nhưng đáng lo ngại hơn là vay mua BĐS, đầu tư hay cho nhu cầu ở thực, lúc này không đơn giản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:14:00+07:00",
+      "fetched": "2026-04-16T05:33:44.622821+07:00"
+    },
+    {
+      "id": "2e80e478a174c28334d1515db43dc4c3",
+      "title": "Hòa Minzy, Soobin là Ca sĩ của năm",
+      "link": "https://vnexpress.net/hoa-minzy-soobin-la-ca-si-cua-nam-5062941.html",
+      "summary": "Hòa Minzy, Soobin lần lượt nhận danh hiệu nữ và nam ca sĩ của năm, tại lễ trao giải Cống Hiến, tối 15/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:12:51+07:00",
+      "fetched": "2026-04-16T05:33:41.333436+07:00"
+    },
+    {
+      "id": "e7e92766845a14dd4ba5d0c89bb60c11",
+      "title": "Đình cổ 200 năm còn giữ sắc phong vua Bảo Đại ở TP.HCM ít ai biết",
+      "link": "https://thanhnien.vn/dinh-co-200-nam-con-giu-sac-phong-vua-bao-dai-o-tphcm-it-ai-biet-185260405161500558.htm",
+      "summary": "Khám phá bên trong đình Xuân Hiệp hơn 200 năm ở TP.HCM - đình cổ còn giữ sắc phong vua Bảo Đại, kiến trúc cổ tinh xảo và lễ hội Nam bộ độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:07:00+07:00",
+      "fetched": "2026-04-16T05:33:44.622995+07:00"
+    },
+    {
+      "id": "fa06c25e072a43202699d54b37227a8b",
+      "title": "Tâm trạng trái chiều của người Mỹ về chiến dịch ở Iran",
+      "link": "https://vnexpress.net/tam-trang-trai-chieu-cua-nguoi-my-ve-chien-dich-o-iran-5062452.html",
+      "summary": "Nhiều người Mỹ cảm thấy hoang mang trước chiến dịch tấn công Iran của ông Trump, nhưng số khác vẫn đặt niềm tin vào chiến lược của Tổng thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:00:00+07:00",
+      "fetched": "2026-04-16T05:33:41.333599+07:00"
+    },
+    {
+      "id": "b02c2b3ede159d5151a6fd6571723915",
+      "title": "Bác sĩ cảnh báo nguy hiểm chết người khi lạm dụng vitamin",
+      "link": "https://vnexpress.net/bac-si-canh-bao-nguy-hiem-chet-nguoi-khi-lam-dung-vitamin-5062411.html",
+      "summary": "Mọi người uống nhiều vitamin vì nghĩ là thuốc bổ làm tăng áp lực lên gan, lâu dài có thể dẫn đến viêm gan, xơ gan, thậm chí suy gan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:00:00+07:00",
+      "fetched": "2026-04-16T05:33:41.333760+07:00"
+    },
+    {
+      "id": "b91c952a5c0bedbb90cdc8bcbf12ae44",
+      "title": "Loạt trạm xe buýt ở TP HCM bị chiếm dụng để buôn bán, đổ rác",
+      "link": "https://vnexpress.net/loat-tram-xe-buyt-o-tp-hcm-bi-chiem-dung-de-buon-ban-do-rac-5062012.html",
+      "summary": "Nhiều trạm dừng xe buýt bị lấn chiếm buôn bán, xả rác làm mất mỹ quan, khách khó đón xe, khiến chủ trương miễn vé của thành phố giảm hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:00:00+07:00",
+      "fetched": "2026-04-16T05:33:41.333930+07:00"
+    },
+    {
+      "id": "3cda12798c3f2d13673d65012baf7d1e",
+      "title": "Bài toán thu - chi của tân Bộ trưởng Tài chính",
+      "link": "https://vnexpress.net/bai-toan-thu-chi-cua-tan-bo-truong-tai-chinh-5061891.html",
+      "summary": "Tân Bộ trưởng Tài chính Ngô Văn Tuấn đối diện áp lực khơi thông dòng vốn và duy trì dư địa tài khóa, trong bối cảnh nền kinh tế cần nguồn lực lớn để tăng trưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:00:00+07:00",
+      "fetched": "2026-04-16T05:33:41.334124+07:00"
+    },
+    {
+      "id": "d20de9a1f77b6a1fa96e23100cfc4251",
+      "title": "Chưa có lối thoát cho eo biển Hormuz",
+      "link": "https://thanhnien.vn/chua-co-loi-thoat-cho-eo-bien-hormuz-185260415224902255.htm",
+      "summary": "Mỹ điều động lực lượng phong tỏa tất cả cảng của Iran cả trong lẫn ngoài Hormuz và cho phép các tàu khác di chuyển, nhưng vẫn chưa thể \"thông chốt\" cho eo biển này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:00:00+07:00",
+      "fetched": "2026-04-16T05:33:44.623146+07:00"
+    },
+    {
+      "id": "e2768631696033b6984deab45fd2e30e",
+      "title": "Đừng bỏ qua chanh dây vào mùa nóng",
+      "link": "https://thanhnien.vn/dung-bo-qua-chanh-day-vao-mua-nong-185260415201201126.htm",
+      "summary": "Giữa những ngày nắng nóng oi bức, chanh dây không chỉ là thức uống giải khát quen thuộc mà còn mang lại nhiều lợi ích bất ngờ cho sức khỏe, từ thanh nhiệt, bổ sung vitamin đến hỗ trợ làm đẹp da.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:00:00+07:00",
+      "fetched": "2026-04-16T05:33:44.623301+07:00"
+    },
+    {
+      "id": "5119f788734528d23fdd5958a8117505",
+      "title": "Hoa bún hơn 300 tuổi nở vào mùa đẹp nhất năm",
+      "link": "https://thanhnien.vn/hoa-bun-hon-300-tuoi-no-vao-mua-dep-nhat-nam-18526041517425788.htm",
+      "summary": "Giữa lòng Hà Nội, một cây hoa bún với tuổi đời hơn 300 năm đang bước vào thời điểm nở rộ nhất trong năm. Mùa hoa ngắn ngày nhưng đủ thu hút nhiều người dân và du khách đến chiêm ngưỡng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:00:00+07:00",
+      "fetched": "2026-04-16T05:33:44.623454+07:00"
+    },
+    {
+      "id": "e6c6958ace3eafb22827c4b28bf557bd",
+      "title": "Lịch âm hôm nay: Ngày 16.4 là ngày cuối cùng tháng 2 âm, có gì đặc biệt?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-164-la-ngay-cuoi-cung-thang-2-am-co-gi-dac-biet-185260415171946233.htm",
+      "summary": "Theo lịch âm hôm nay, 16.4 là ngày cuối cùng của tháng 2 - tháng Tân Mão. Hôm nay là ngày gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T22:00:00+07:00",
+      "fetched": "2026-04-16T05:33:44.623608+07:00"
+    },
+    {
+      "id": "fa06c25e072a43202699d54b37227a8b",
+      "title": "Tâm trạng trái chiều của người Mỹ về chiến dịch ở Iran",
+      "link": "https://vnexpress.net/tam-trang-trai-chieu-cua-nguoi-my-ve-chien-dich-o-iran-5062452.html",
+      "summary": "Nhiều người Mỹ cảm thấy hoang mang trước chiến dịch tấn công Iran của ông Trump, nhưng số khác vẫn đặt niềm tin vào chiến lược của Tổng thống.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-15T22:00:00+07:00",
+      "fetched": "2026-04-16T05:33:47.483961+07:00"
+    },
+    {
+      "id": "3cda12798c3f2d13673d65012baf7d1e",
+      "title": "Bài toán thu - chi của tân Bộ trưởng Tài chính",
+      "link": "https://vnexpress.net/bai-toan-thu-chi-cua-tan-bo-truong-tai-chinh-5061891.html",
+      "summary": "Tân Bộ trưởng Tài chính Ngô Văn Tuấn đối diện áp lực khơi thông dòng vốn và duy trì dư địa tài khóa, trong bối cảnh nền kinh tế cần nguồn lực lớn để tăng trưởng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-15T22:00:00+07:00",
+      "fetched": "2026-04-16T05:33:49.095673+07:00"
+    },
+    {
+      "id": "856fcf4a999a90ec49d24ee542fdb947",
+      "title": "Messi bị kiện vì vắng mặt trận giao hữu",
+      "link": "https://vnexpress.net/messi-bi-kien-vi-vang-mat-tran-giao-huu-5062952.html",
+      "summary": "Công ty tổ chức sự kiện VID cáo buộc Lionel Messi và LĐBĐ Argentina (AFA) vi phạm hợp đồng liên quan đến hai trận giao hữu của đội tuyển này hồi tháng 10/2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T21:34:09+07:00",
+      "fetched": "2026-04-16T05:33:41.334289+07:00"
+    },
+    {
+      "id": "856fcf4a999a90ec49d24ee542fdb947",
+      "title": "Messi bị kiện vì vắng mặt trận giao hữu",
+      "link": "https://vnexpress.net/messi-bi-kien-vi-vang-mat-tran-giao-huu-5062952.html",
+      "summary": "Công ty tổ chức sự kiện VID cáo buộc Lionel Messi và LĐBĐ Argentina (AFA) vi phạm hợp đồng liên quan đến hai trận giao hữu của đội tuyển này hồi tháng 10/2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-15T21:34:09+07:00",
+      "fetched": "2026-04-16T05:33:53.160310+07:00"
+    },
+    {
+      "id": "56964970aededadf2fcddc6871770d98",
+      "title": "Trọng tài bị bắn chết giữa trận đấu ở Ecuador",
+      "link": "https://vnexpress.net/trong-tai-bi-ban-chet-giua-tran-dau-o-ecuador-5062954.html",
+      "summary": "Một trọng tài bóng đá đã bị bắn chết trong một trận đấu phong trào tại khu dân cư ở Ecuador, khiến dư luận địa phương bàng hoàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T21:31:03+07:00",
+      "fetched": "2026-04-16T05:33:41.334445+07:00"
+    },
+    {
+      "id": "56964970aededadf2fcddc6871770d98",
+      "title": "Trọng tài bị bắn chết giữa trận đấu ở Ecuador",
+      "link": "https://vnexpress.net/trong-tai-bi-ban-chet-giua-tran-dau-o-ecuador-5062954.html",
+      "summary": "Một trọng tài bóng đá đã bị bắn chết trong một trận đấu phong trào tại khu dân cư ở Ecuador, khiến dư luận địa phương bàng hoàng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-15T21:31:03+07:00",
+      "fetched": "2026-04-16T05:33:53.160486+07:00"
+    },
+    {
+      "id": "7f31a19d2396882a5647ca663c3f3ffa",
+      "title": "Nhiều nước miễn kiểm định xe máy trong 3-5 năm đầu",
+      "link": "https://vnexpress.net/nhieu-nuoc-mien-kiem-dinh-xe-may-trong-3-5-nam-dau-5062600.html",
+      "summary": "Nhiều quốc gia như Thái Lan, Indonesia miễn kiểm định xe máy trong những năm đầu vì xe còn mới, đạt chuẩn khí thải, giúp giảm chi phí xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T21:30:00+07:00",
+      "fetched": "2026-04-16T05:33:41.334599+07:00"
+    },
+    {
+      "id": "9ae066b881b74f1a63c536c0ed377fa5",
+      "title": "Chủ tịch Barca chỉ trích trọng tài, dọa kiện lên UEFA",
+      "link": "https://vnexpress.net/chu-tich-barca-chi-trich-trong-tai-doa-kien-len-uefa-5062951.html",
+      "summary": "Ông Joan Laporta cho rằng các quyết định sai lầm của trọng tài đã ảnh hưởng trực tiếp đến kết quả, khiến Barca bị loại khỏi Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T21:29:18+07:00",
+      "fetched": "2026-04-16T05:33:41.334758+07:00"
+    },
+    {
+      "id": "9ae066b881b74f1a63c536c0ed377fa5",
+      "title": "Chủ tịch Barca chỉ trích trọng tài, dọa kiện lên UEFA",
+      "link": "https://vnexpress.net/chu-tich-barca-chi-trich-trong-tai-doa-kien-len-uefa-5062951.html",
+      "summary": "Ông Joan Laporta cho rằng các quyết định sai lầm của trọng tài đã ảnh hưởng trực tiếp đến kết quả, khiến Barca bị loại khỏi Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-15T21:29:18+07:00",
+      "fetched": "2026-04-16T05:33:53.160650+07:00"
+    },
+    {
+      "id": "f85860207bf4f15439684deef062c5ed",
+      "title": "Người dùng Messenger gặp khó khi đồng bộ lịch sử chat",
+      "link": "https://vnexpress.net/nguoi-dung-messenger-gap-kho-khi-dong-bo-lich-su-chat-5062953.html",
+      "summary": "Đêm 16/4, nhiều người dùng Messenger gặp khó khi được yêu cầu nhập mã PIN để đồng bộ lịch sử chat, nhưng không thể thực hiện thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T21:22:29+07:00",
+      "fetched": "2026-04-16T05:33:41.334915+07:00"
+    },
+    {
+      "id": "f85860207bf4f15439684deef062c5ed",
+      "title": "Người dùng Messenger gặp khó khi đồng bộ lịch sử chat",
+      "link": "https://vnexpress.net/nguoi-dung-messenger-gap-kho-khi-dong-bo-lich-su-chat-5062953.html",
+      "summary": "Đêm 16/4, nhiều người dùng Messenger gặp khó khi được yêu cầu nhập mã PIN để đồng bộ lịch sử chat, nhưng không thể thực hiện thành công.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-15T21:22:29+07:00",
+      "fetched": "2026-04-16T05:33:51.499992+07:00"
+    },
+    {
+      "id": "cc8d49ae2ad0bcb4289b9276013c7258",
+      "title": "Bayern loại Real, vào bán kết Champions League",
+      "link": "https://vnexpress.net/bayern-loai-real-vao-ban-ket-champions-league-5062956.html",
+      "summary": "Thắng trận lượt về 4-3 dù ba lần bị dẫn trước, Bayern Munich loại Real Madrid ở tứ kết Champions League với tỷ số chung cuộc 6-4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T21:11:28+07:00",
+      "fetched": "2026-04-16T05:33:41.335099+07:00"
+    },
+    {
+      "id": "cc8d49ae2ad0bcb4289b9276013c7258",
+      "title": "Bayern loại Real, vào bán kết Champions League",
+      "link": "https://vnexpress.net/bayern-loai-real-vao-ban-ket-champions-league-5062956.html",
+      "summary": "Thắng trận lượt về 4-3 dù ba lần bị dẫn trước, Bayern Munich loại Real Madrid ở tứ kết Champions League với tỷ số chung cuộc 6-4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-15T21:11:28+07:00",
+      "fetched": "2026-04-16T05:33:53.159918+07:00"
+    },
+    {
+      "id": "1ab8b36c82469287135d52e4e7430d5e",
+      "title": "Tại sao xe máy dưới 5 năm được miễn kiểm định khí thải trực tiếp",
+      "link": "https://vnexpress.net/tai-sao-xe-may-duoi-5-nam-duoc-mien-kiem-dinh-khi-thai-truc-tiep-5062786.html",
+      "summary": "Đại diện Cục Đăng kiểm Việt Nam cho biết khảo sát cho thấy xe máy dưới 5 năm có mức phát thải thấp, ít biến động, nên được đề xuất miễn kiểm định khí thải trực tiếp trong lần đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T21:00:00+07:00",
+      "fetched": "2026-04-16T05:33:41.335281+07:00"
     },
     {
       "id": "21807ce3f204d8602d9cdff9421442d7",
