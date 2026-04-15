@@ -1,7 +1,157 @@
 window.newsData_2026_04_15 = {
   "date": "2026-04-15",
-  "lastUpdated": "2026-04-15T21:59:19.085445+07:00",
+  "lastUpdated": "2026-04-15T23:53:34.868940+07:00",
   "articles": [
+    {
+      "id": "7895c6cb1261febfdb069dbe6d351c1a",
+      "title": "Vì sao vị kỳ vương tố cáo nạn bán độ cờ tướng Trung Quốc cuối cùng cũng bị cấm trọn đời?",
+      "link": "https://tuoitre.vn/vi-sao-vi-ky-vuong-to-cao-nan-ban-do-co-tuong-trung-quoc-cuoi-cung-cung-bi-cam-tron-doi-20260415181424663.htm",
+      "summary": "Sau Ngũ Dương Bôi 2026, làng cờ tướng Trung Quốc từng dấy lên dư luận mong muốn giảm án, xử nhẹ cho Hồng Trí, vị kỳ vương liên đới một cách đặc biệt với đại án mua bán độ chấn động kỳ đàn đại lục 3 năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.813455+07:00",
+      "fetched": "2026-04-15T23:53:27.813573+07:00"
+    },
+    {
+      "id": "f9d99cddf6cb5a568550d55a368e5883",
+      "title": "Báo Washington Post: Mỹ sẽ điều thêm 10.200 binh sĩ đến Trung Đông",
+      "link": "https://tuoitre.vn/bao-washington-post-my-se-dieu-them-10-200-binh-si-den-trung-dong-20260415210544242.htm",
+      "summary": "Mỹ dự kiến triển khai thêm hàng ngàn binh sĩ tới Trung Đông vào cuối tháng này, gồm thủy thủ và lính thủy đánh bộ trong bối cảnh Washington đang phong tỏa eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.813299+07:00",
+      "fetched": "2026-04-15T23:53:27.813442+07:00"
+    },
+    {
+      "id": "32ae3e8d14572997f533cdc894ea419b",
+      "title": "5 học sinh tiểu học bị cô giáo phạt tự dùng kim tiêm chích vào tay",
+      "link": "https://tuoitre.vn/5-hoc-sinh-tieu-hoc-bi-co-giao-phat-tu-dung-kim-tiem-chich-vao-tay-20260415211119035.htm",
+      "summary": "Sự việc gây phẫn nộ trong dư luận và phụ huynh vì cho rằng giáo viên vi phạm nguyên tắc ứng xử trong giáo dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.813155+07:00",
+      "fetched": "2026-04-15T23:53:27.813287+07:00"
+    },
+    {
+      "id": "c9ee0a1d11423cd15279aa04932ec0ab",
+      "title": "Trung Quốc sẵn sàng chia sẻ cơ hội phát triển với Việt Nam",
+      "link": "https://tuoitre.vn/trung-quoc-san-sang-chia-se-co-hoi-phat-trien-voi-viet-nam-20260415211021674.htm",
+      "summary": "Trung Quốc sẵn sàng chia sẻ cơ hội phát triển với Việt Nam trong quá trình triển khai Quy hoạch phát triển kinh tế - xã hội 5 năm lần thứ 15.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.813018+07:00",
+      "fetched": "2026-04-15T23:53:27.813143+07:00"
+    },
+    {
+      "id": "e87da26bf38fa881bf6a4733b64974d8",
+      "title": "Hai thanh niên vận chuyển 24.000 viên hồng phiến để lấy 30 triệu tiền công",
+      "link": "https://tuoitre.vn/hai-thanh-nien-van-chuyen-24-000-vien-hong-phien-de-lay-30-trieu-tien-cong-20260415204529042.htm",
+      "summary": "Các nghi phạm khai nhận vận chuyển 24.000 viên ma túy từ Hà Tĩnh sang Nghệ An cho một người lạ mặt để lấy 30 triệu đồng tiền công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.812893+07:00",
+      "fetched": "2026-04-15T23:53:27.813007+07:00"
+    },
+    {
+      "id": "cb61f72598b54dd7704f2721801735cb",
+      "title": "Cháy lớn ở khu đô thị tại Bắc Ninh, khói đen cuồn cuộn, 7 ki ốt bị thiêu rụi",
+      "link": "https://tuoitre.vn/chay-lon-o-khu-do-thi-tai-bac-ninh-khoi-den-cuon-cuon-7-kiot-bi-thieu-rui-20260415211024778.htm",
+      "summary": "Vụ hỏa hoạn xảy ra ở khu đô thị Bắc Hà, khiến 7 ki ốt kinh doanh hàng tiêu dùng bị thiêu rụi, rất may không có thiệt hại về người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.812763+07:00",
+      "fetched": "2026-04-15T23:53:27.812881+07:00"
+    },
+    {
+      "id": "ab5362be37bddc19c294156fd317e9a2",
+      "title": "Ai là người làm thương hiệu cho nông sản Việt Nam?",
+      "link": "https://tuoitre.vn/ai-la-nguoi-lam-thuong-hieu-cho-nong-san-viet-nam-20260415213011993.htm",
+      "summary": "Một ngày nào đó, khi bước vào siêu thị ở một đất nước xa xôi, người ta không chỉ thấy \"mango from Vietnam\" hay \"rice from Vietnam\", mà thấy một cái tên cụ thể, một câu chuyện rõ ràng, một sự khác biệt không thể thay thế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.812619+07:00",
+      "fetched": "2026-04-15T23:53:27.812739+07:00"
+    },
+    {
+      "id": "0b88ddfc53c639d7fdc8e9ea2421d431",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp thân nhân các tướng lĩnh, nhân sĩ hữu nghị Việt - Trung",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-than-nhan-cac-tuong-linh-nhan-si-huu-nghi-viet-trung-20260415214037015.htm",
+      "summary": "Tại cuộc gặp, Tổng Bí thư, Chủ tịch nước Tô Lâm bày tỏ mong muốn thời gian tới thân nhân các tướng lĩnh, chuyên gia tiếp tục truyền cảm hứng cho các thế hệ kế cận, viết tiếp những trang sử hữu nghị của quan hệ hai nước Việt Nam - Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.812487+07:00",
+      "fetched": "2026-04-15T23:53:27.812608+07:00"
+    },
+    {
+      "id": "f0063999a86f5141e7a227841ad04785",
+      "title": "TP.HCM chỉ đạo chuẩn bị đủ điều kiện khởi công cảng Cần Giờ, Cái Mép dịp 30-4",
+      "link": "https://tuoitre.vn/tp-hcm-chi-dao-chuan-bi-du-dieu-kien-khoi-cong-cang-can-gio-cai-mep-dip-30-4-20260415215014987.htm",
+      "summary": "UBND TP.HCM yêu cầu chuẩn bị đầy đủ điều kiện để khởi công, khánh thành loạt dự án hạ tầng, giao thông dịp lễ 30-4, trong đó có cảng trung chuyển Cần Giờ và cảng tổng hợp Cái Mép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.812353+07:00",
+      "fetched": "2026-04-15T23:53:27.812475+07:00"
+    },
+    {
+      "id": "b2fcc20978ba45a95e79451344960314",
+      "title": "Cầu thủ Đình Bắc nói về ước mơ ra nước ngoài thi đấu",
+      "link": "https://tuoitre.vn/cau-thu-dinh-bac-noi-ve-uoc-mo-ra-nuoc-ngoai-thi-dau-20260415220747978.htm",
+      "summary": "Đình Bắc được vinh danh ở hạng mục Gương mặt trẻ Thể thao của năm tại Lễ trao giải Cống hiến lần thứ 20 tổ chức tối nay 15-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.812203+07:00",
+      "fetched": "2026-04-15T23:53:27.812339+07:00"
+    },
+    {
+      "id": "aecca2ae986635c5b8ae099e04095c89",
+      "title": "Xếp hạng hiệu suất nhân viên ngân hàng: Có nơi mỗi người tạo gần 3 tỉ đồng/năm",
+      "link": "https://tuoitre.vn/xep-hang-hieu-suat-nhan-vien-ngan-hang-co-noi-moi-nguoi-tao-gan-3-ti-dong-nam-20260415193751428.htm",
+      "summary": "Dữ liệu từ 30 ngân hàng cho thấy cuộc đua hiệu suất lao động ngày càng rõ rệt, khi một số nhà băng đạt gần 3 tỉ đồng lợi nhuận/nhân viên mỗi năm, trong khi mặt bằng chung vẫn quanh 1-2 tỉ đồng/người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.812073+07:00",
+      "fetched": "2026-04-15T23:53:27.812191+07:00"
+    },
+    {
+      "id": "cd449ed63c34c63760f9c1f1f6f3d523",
+      "title": "Tuấn Trần 'nằng nặc' đòi quay cảnh cuối Hộ linh tráng sĩ bất chấp chấn thương",
+      "link": "https://tuoitre.vn/tuan-tran-nang-nac-doi-quay-canh-cuoi-ho-linh-trang-si-bat-chap-chan-thuong-20260415220214805.htm",
+      "summary": "Trong buổi sneak showcase Hộ linh tráng sĩ: Bí ẩn mộ vua Đinh, Tuấn Trần kể mình từng gặp chấn thương khá nghiêm trọng trong quá trình quay phim, thậm chí để lại di chứng đến hiện tại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.811941+07:00",
+      "fetched": "2026-04-15T23:53:27.812061+07:00"
+    },
+    {
+      "id": "011a4d61792f84dcac04f3389b811e63",
+      "title": "Concert cá nhân, giá cả thị trường ‘chiếm sóng’ tìm kiếm của người Việt",
+      "link": "https://tuoitre.vn/dai-hoi-dang-va-gia-xang-chiem-song-tim-kiem-tren-mang-cua-nguoi-viet-20260415170847065.htm",
+      "summary": "Giá cả thị trường ‘chiếm sóng’ tìm kiếm của cư dân mạng Việt Nam trong quý đầu tiên của năm 2026, cho thấy người dân ngày càng quan tâm đến những biến động kinh tế - tài chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.811806+07:00",
+      "fetched": "2026-04-15T23:53:27.811929+07:00"
+    },
+    {
+      "id": "72d3442560e8d43c84bb1e117dae5abf",
+      "title": "43 'sắc màu đất Quảng' cùng kể chuyện cho công chúng",
+      "link": "https://tuoitre.vn/43-sac-mau-dat-quang-cung-ke-chuyen-cho-cong-chung-20260415204722735.htm",
+      "summary": "43 tác phẩm tôn vinh vẻ đẹp của mảnh đất và con người Đà Nẵng được giới thiệu tới công chúng trong triển lãm Sắc màu đất Quảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.811658+07:00",
+      "fetched": "2026-04-15T23:53:27.811792+07:00"
+    },
+    {
+      "id": "9996e89531468d62452be566122ff3eb",
+      "title": "Giá vàng thế giới có về lại ngưỡng 5.000 USD/ounce?",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-co-ve-lai-nguong-5-000-usd-ounce-20260415222336529.htm",
+      "summary": "Giá vàng thế giới đã tăng lên sát 4.900 USD/ounce trước khi suy giảm trở lại vào tối nay, 15-4. Bộ trưởng Tài chính Mỹ Scott Bessent tiếp tục kêu gọi FED hạ lãi suất. Liệu giá vàng có bật tăng?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T23:53:27.811418+07:00",
+      "fetched": "2026-04-15T23:53:27.811643+07:00"
+    },
     {
       "id": "cfce6b3e92c05ffe78894ea92a842087",
       "title": "Nợ xấu hàng triệu tỉ đồng kẹt ở bất động sản, xây dựng",
@@ -453,6 +603,16 @@ window.newsData_2026_04_15 = {
       "fetched": "2026-04-15T17:52:40.829739+07:00"
     },
     {
+      "id": "bd50b3433402c106f730c8bee1a1cb89",
+      "title": "Soobin lập 'hat-trick' tại giải thưởng Cống hiến",
+      "link": "https://thanhnien.vn/soobin-lap-hat-trick-tai-giai-thuong-cong-hien-185260415231304985.htm",
+      "summary": "Đêm trao giải Cống hiến được cho là 'đêm của… Soobin' với cú 'hat-trick' ngoạn mục dành cho 3 hạng mục:  Chương trình của năm, Ca sĩ của năm và MV của năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T16:36:00+07:00",
+      "fetched": "2026-04-15T23:53:26.975606+07:00"
+    },
+    {
       "id": "836ce4bd3c98f0bffa4981aa4a1344ab",
       "title": "Bắt tạm giam 2 bị can giả danh nhà báo cưỡng đoạt tài sản",
       "link": "https://tuoitre.vn/bat-tam-giam-2-bi-can-gia-danh-nha-bao-cuong-doat-tai-san-20260415124941656.htm",
@@ -603,6 +763,86 @@ window.newsData_2026_04_15 = {
       "fetched": "2026-04-15T16:09:53.375839+07:00"
     },
     {
+      "id": "e8793639135f7da2a6be8f3934b2ad5c",
+      "title": "Loạt rapper phải xin lỗi sau vụ B Ray rap phản cảm",
+      "link": "https://thanhnien.vn/loat-rapper-phai-xin-loi-sau-vu-b-ray-rap-phan-cam-185260415221919118.htm",
+      "summary": "Rapper 24k.Right, Mason Nguyễn, Gill đều xin lỗi sau khi xuất hiện cùng B Ray trong buổi livestream gây tranh cãi. Trong khi đó, chủ nhân của đoạn rap 'muốn ngủ với tất cả em xinh' gây bức xúc vẫn chưa chính thức lên tiếng về sự việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T16:08:00+07:00",
+      "fetched": "2026-04-15T23:53:26.975790+07:00"
+    },
+    {
+      "id": "34edfb77247ad7ff98fc1b251a833d16",
+      "title": "Mỹ - Iran 'sẽ tiếp tục đàm phán nhưng chưa ấn định thời điểm'",
+      "link": "https://vnexpress.net/my-iran-se-tiep-tuc-dam-phan-nhung-chua-an-dinh-thoi-diem-5062912.html",
+      "summary": "Mỹ và Iran đã nhất trí tiếp tục đàm phán hòa bình, nhưng hai bên chưa ấn định thời gian và địa điểm cho vòng thương lượng mới, theo WSJ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T15:50:11+07:00",
+      "fetched": "2026-04-15T23:53:23.868231+07:00"
+    },
+    {
+      "id": "34edfb77247ad7ff98fc1b251a833d16",
+      "title": "Mỹ - Iran 'sẽ tiếp tục đàm phán nhưng chưa ấn định thời điểm'",
+      "link": "https://vnexpress.net/my-iran-se-tiep-tuc-dam-phan-nhung-chua-an-dinh-thoi-diem-5062912.html",
+      "summary": "Mỹ và Iran đã nhất trí tiếp tục đàm phán hòa bình, nhưng hai bên chưa ấn định thời gian và địa điểm cho vòng thương lượng mới, theo WSJ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-15T15:50:11+07:00",
+      "fetched": "2026-04-15T23:53:29.182153+07:00"
+    },
+    {
+      "id": "8b3d7497d569604dd27b65dfca01d0e0",
+      "title": "Neuer và cuộc chiến trường kỳ với Real",
+      "link": "https://vnexpress.net/neuer-va-cuoc-chien-truong-ky-voi-real-5062837.html",
+      "summary": "Suốt 14 năm, thủ môn Manuel Neuer đối đầu 9 trận với Real và để thua 19 bàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T15:39:03+07:00",
+      "fetched": "2026-04-15T23:53:23.868437+07:00"
+    },
+    {
+      "id": "8b3d7497d569604dd27b65dfca01d0e0",
+      "title": "Neuer và cuộc chiến trường kỳ với Real",
+      "link": "https://vnexpress.net/neuer-va-cuoc-chien-truong-ky-voi-real-5062837.html",
+      "summary": "Suốt 14 năm, thủ môn Manuel Neuer đối đầu 9 trận với Real và để thua 19 bàn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-15T15:39:03+07:00",
+      "fetched": "2026-04-15T23:53:34.855304+07:00"
+    },
+    {
+      "id": "201136531f02d9b45d2f5b483d16311b",
+      "title": "Lốc xoáy tại Gia Lai chiều 15.4, hơn 10 nhà bị tốc mái",
+      "link": "https://thanhnien.vn/loc-xoay-tai-gia-lai-chieu-154-hon-10-nha-bi-toc-mai-185260415211546971.htm",
+      "summary": "Lốc xoáy tại Gia Lai xảy ra chiều 15.4 làm hơn 10 nhà tốc mái, không có thương vong về người, hiện chính quyền khẩn trương hỗ trợ người dân khắc phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T15:34:00+07:00",
+      "fetched": "2026-04-15T23:53:26.975955+07:00"
+    },
+    {
+      "id": "f55d8535efcb3c377510c9089bbecb7e",
+      "title": "Cháy lớn thiêu rụi 7 ki-ốt ở Bắc Ninh",
+      "link": "https://vnexpress.net/chay-lon-thieu-rui-7-ki-ot-o-bac-ninh-5062909.html",
+      "summary": "Chiều 15/4, hỏa hoạn bất ngờ bùng phát tại dãy ki-ốt trên đường Gia Thuận, ở phường Song Liễu, thiêu rụi nhiều tiệm bán quần áo, phụ kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T15:05:31+07:00",
+      "fetched": "2026-04-15T23:53:23.868620+07:00"
+    },
+    {
+      "id": "19e3875acd3cfc032917429d85014fdd",
+      "title": "Đình Bắc, Hoàng Hên dự thảm đỏ cùng dàn nghệ sĩ",
+      "link": "https://vnexpress.net/dinh-bac-hoang-hen-du-tham-do-cung-dan-nghe-si-5062913.html",
+      "summary": "Cầu thủ Đình Bắc, Hoàng Hên xuất hiện tại lễ trao giải Cống Hiến cùng Hòa Minzy, Soobin, tối 15/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T14:52:34+07:00",
+      "fetched": "2026-04-15T23:53:23.868789+07:00"
+    },
+    {
       "id": "091bb3570ab546bedf8fbd2ac0df1830",
       "title": "Hai vụ xả súng trường học liên tiếp xảy ra ở Thổ Nhĩ Kỳ",
       "link": "https://vnexpress.net/hai-vu-xa-sung-truong-hoc-lien-tiep-xay-ra-o-tho-nhi-ky-5062876.html",
@@ -631,6 +871,26 @@ window.newsData_2026_04_15 = {
       "category": "Tổng hợp",
       "published": "2026-04-15T14:44:00+07:00",
       "fetched": "2026-04-15T21:59:11.572772+07:00"
+    },
+    {
+      "id": "a102e586c9a5da77f765d779344f706a",
+      "title": "Doanh nghiệp hồ tiêu thiệt hại gần 600.000 USD vì bẫy thanh toán",
+      "link": "https://vnexpress.net/doanh-nghiep-ho-tieu-thiet-hai-gan-600-000-usd-vi-bay-thanh-toan-5062885.html",
+      "summary": "Một doanh nghiệp xuất khẩu tiêu đã thiệt hại gần 600.000 USD trong một vụ việc có dấu hiệu lừa đảo thương mại khi xuất hàng sang Karachi, Pakistan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T14:39:11+07:00",
+      "fetched": "2026-04-15T23:53:23.869275+07:00"
+    },
+    {
+      "id": "a102e586c9a5da77f765d779344f706a",
+      "title": "Doanh nghiệp hồ tiêu thiệt hại gần 600.000 USD vì bẫy thanh toán",
+      "link": "https://vnexpress.net/doanh-nghiep-ho-tieu-thiet-hai-gan-600-000-usd-vi-bay-thanh-toan-5062885.html",
+      "summary": "Một doanh nghiệp xuất khẩu tiêu đã thiệt hại gần 600.000 USD trong một vụ việc có dấu hiệu lừa đảo thương mại khi xuất hàng sang Karachi, Pakistan.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-15T14:39:11+07:00",
+      "fetched": "2026-04-15T23:53:30.902415+07:00"
     },
     {
       "id": "39005d3a7f8610e1e1f7d7d23899b4b5",
@@ -821,6 +1081,16 @@ window.newsData_2026_04_15 = {
       "category": "Tổng hợp",
       "published": "2026-04-15T14:00:00+07:00",
       "fetched": "2026-04-15T21:59:08.923615+07:00"
+    },
+    {
+      "id": "cba418c2901c7b1f1fc28a236bbabbf1",
+      "title": "'Ở thuê 9 triệu một tháng nên tôi cần gì mua nhà'",
+      "link": "https://vnexpress.net/o-thue-9-trieu-mot-thang-nen-toi-can-gi-mua-nha-5062325.html",
+      "summary": "Ở thành phố, nhà cho thuê không thiếu, giá nào cũng có, tha hồ lựa chọn, nên tôi chẳng cần phải vay nợ mua nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T14:00:00+07:00",
+      "fetched": "2026-04-15T23:53:23.869790+07:00"
     },
     {
       "id": "6f6b827c2509a30999a1ad3e7138734b",
