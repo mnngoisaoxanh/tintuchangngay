@@ -1,7 +1,117 @@
 window.newsData_2026_04_15 = {
   "date": "2026-04-15",
-  "lastUpdated": "2026-04-15T05:37:07.594749+07:00",
+  "lastUpdated": "2026-04-15T08:29:42.570779+07:00",
   "articles": [
+    {
+      "id": "a17b8b8eac5cc22d21bb2c46e08b780e",
+      "title": "Ý ủng hộ tiến trình phê chuẩn Hiệp định Bảo hộ Đầu tư Việt Nam - EU",
+      "link": "https://tuoitre.vn/y-ung-ho-tien-trinh-phe-chuan-hiep-dinh-bao-ho-dau-tu-viet-nam-eu-20260415045510834.htm",
+      "summary": "Ngày 14-4 tại Rome, Chủ tịch Quốc hội Trần Thanh Mẫn đã có cuộc gặp Tổng thống Ý Sergio Mattarella và Phó chủ tịch Thượng viện Ý Licia Ronzulli.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T08:29:35.297717+07:00",
+      "fetched": "2026-04-15T08:29:35.297832+07:00"
+    },
+    {
+      "id": "604988749c1dc92caf7b23324819ed90",
+      "title": "Liverpool lực bất tòng tâm trước PSG",
+      "link": "https://tuoitre.vn/liverpool-luc-bat-tong-tam-truoc-psg-20260415033551632.htm",
+      "summary": "Rạng sáng 15-4 (giờ Việt Nam) đã diễn ra trận tứ kết lượt về Champions League giữa Liverpool và PSG. Và dù có lợi thế sân nhà, \"lữ đoàn đỏ\" vẫn hoàn toàn bất lực trước nhiệm vụ ngược dòng quá khó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T08:29:35.297589+07:00",
+      "fetched": "2026-04-15T08:29:35.297706+07:00"
+    },
+    {
+      "id": "aa32987caa51b22e4d1649cdefe01209",
+      "title": "Lại lãnh thẻ đỏ, Barca thua cay đắng Atletico Madrid",
+      "link": "https://tuoitre.vn/lai-lanh-the-do-barca-thua-cay-dang-atletico-madrid-20260415030349463.htm",
+      "summary": "Cuộc ngược dòng ngoạn mục đã không đến, dù có những thời điểm Barca dồn ép Atletico Madrid vào tình thế vô cùng khó khăn, trong khuôn khổ trận lượt về tứ kết Champions League diễn ra rạng sáng 15-4 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T08:29:35.297454+07:00",
+      "fetched": "2026-04-15T08:29:35.297573+07:00"
+    },
+    {
+      "id": "4c77ba887cf9e941d5e429d60eb6c556",
+      "title": "Muôn vàn kiểu biến tấu áo sơ mi nhàm chán trở nên sành điệu hơn",
+      "link": "https://tuoitre.vn/muon-van-kieu-bien-tau-ao-so-mi-nham-chan-tro-nen-sanh-dieu-hon-20260414222329167.htm",
+      "summary": "Việc làm mới những chiếc sơ mi tưởng chừng đơn điệu sẽ giúp thổi làn gió mới vào các bản phối thường ngày của người mặc trong đời sống thường nhật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T08:29:35.297302+07:00",
+      "fetched": "2026-04-15T08:29:35.297441+07:00"
+    },
+    {
+      "id": "4540c3e0e5dc969936189b4fa458510a",
+      "title": "Người trẻ đi làm hay phải 'chữa lành', sức khỏe tâm thần có ổn?",
+      "link": "https://tuoitre.vn/nguoi-tre-di-lam-hay-phai-chua-lanh-suc-khoe-tam-than-co-on-20260414223533293.htm",
+      "summary": "Chăm sóc sức khỏe tâm thần nơi công sở ra sao để người trẻ không phải tự 'chữa lành'? Áp lực công việc, học tập và cuộc sống đang khiến các vấn đề sức khỏe tâm thần gia tăng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T08:29:35.297168+07:00",
+      "fetched": "2026-04-15T08:29:35.297290+07:00"
+    },
+    {
+      "id": "4a45eb4d9297cd13d86d257b12e84bfb",
+      "title": "Có một nhà hát ra đời đúng năm đất nước đổi mới, luôn diễn 365 ngày trong năm",
+      "link": "https://tuoitre.vn/co-mot-nha-hat-ra-doi-dung-nam-dat-nuoc-doi-moi-luon-dien-365-ngay-trong-nam-20260414223130541.htm",
+      "summary": "Đó là Nhà hát Nghệ thuật Đương đại Việt Nam, đơn vị đầu tiên thuộc Bộ Văn hóa tự chủ tài chính, là cái nôi của những tên tuổi nghệ sĩ lớn như Trần Hiếu, Quang Thọ, Thanh Lam, Mỹ Linh, Hồng Nhung, Ái Vân, Lê Vi…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T08:29:35.297039+07:00",
+      "fetched": "2026-04-15T08:29:35.297156+07:00"
+    },
+    {
+      "id": "2aa6c998ab2c6cbc26f509d530d7b5f3",
+      "title": "Đinh Tiến Đạt từ chất 'đời' hip hop đến rung động rất nhẹ của R&B",
+      "link": "https://tuoitre.vn/dinh-tien-dat-tu-chat-doi-hip-hop-den-rung-dong-rat-nhe-cua-r-b-20260414212812454.htm",
+      "summary": "Sau EP Tôi 30, MV Mùi (t)Hương cho thấy một bước chuyển đáng chú ý trong tư duy âm nhạc của rapper Đinh Tiến Đạt (Mr.D): tiết chế hơn, mềm mại hơn, hướng đến những cảm xúc đời thường hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T08:29:35.296910+07:00",
+      "fetched": "2026-04-15T08:29:35.297026+07:00"
+    },
+    {
+      "id": "cfbe35e9b933aef7713453c7ee4571c0",
+      "title": "Gạo Việt đang 'bỏ rơi' thị trường thuế suất 0%?",
+      "link": "https://tuoitre.vn/gao-viet-dang-bo-roi-thi-truong-thue-suat-0-20260414224546125.htm",
+      "summary": "Mỗi năm Việt Nam xuất khẩu 8 - 9 triệu tấn gạo, nhưng tập trung chủ yếu vào các thị trường có mức thuế cao, trong khi nhiều thị trường được hưởng ưu đãi thuế suất 0% từ các hiệp định thương mại tự do vẫn chưa được khai thác hiệu quả. Vì sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T08:29:35.296780+07:00",
+      "fetched": "2026-04-15T08:29:35.296898+07:00"
+    },
+    {
+      "id": "265cd64c6a9e29aca344d1fd8fb267e9",
+      "title": "Tin tức sáng 15-4: Thời tiết cực đoan ảnh hưởng nghiêm trọng đến sức khỏe; Phá đường dây thuốc giả",
+      "link": "https://tuoitre.vn/tin-tuc-sang-15-4-thoi-tiet-cuc-doan-anh-huong-nghiem-trong-den-suc-khoe-pha-duong-day-thuoc-gia-20260414234557852.htm",
+      "summary": "Tin tức đáng chú ý: Thời tiết cực đoan ảnh hưởng nghiêm trọng đến sức khỏe; ACV chấm dứt hoạt động chi nhánh Phú Quốc sau khi bàn giao sân bay cho Sun Group; Triệt phá nhóm sản xuất, bán thuốc giả 'gia truyền 4 đời' trên mạng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T08:29:35.296644+07:00",
+      "fetched": "2026-04-15T08:29:35.296768+07:00"
+    },
+    {
+      "id": "504658753892d8978408adcb4fe7584c",
+      "title": "Có nên đạp xe tập thể dục trên quốc lộ?",
+      "link": "https://tuoitre.vn/co-nen-dap-xe-tap-the-duc-tren-quoc-lo-20260414112625445.htm",
+      "summary": "Vụ tai nạn của hai người đạp xe tập thể dục trên quốc lộ 50 là lời cảnh báo đối với nhiều người. Bạn đọc nhắc nhau đạp xe trên quốc lộ quá nguy hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T08:29:35.296501+07:00",
+      "fetched": "2026-04-15T08:29:35.296631+07:00"
+    },
+    {
+      "id": "715f7bd405d9596d807cb96d3933d8a2",
+      "title": "Tin tức thế giới 15-4: Mỹ - Iran sẽ lại đàm phán trong 2 ngày nữa; Israel - Lebanon đối thoại",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-15-4-my-iran-se-lai-dam-phan-trong-2-ngay-nua-israel-lebanon-doi-thoai-20260415055616939.htm",
+      "summary": "Ông Trump phát tín hiệu nối lại đàm phán Mỹ - Iran trong 2 ngày tới; Ông Zelensky nói Mỹ không có thời gian cho Ukraine vì chiến sự với Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T08:29:35.296240+07:00",
+      "fetched": "2026-04-15T08:29:35.296485+07:00"
+    },
     {
       "id": "d133e157bd93376bd1acca51153df49b",
       "title": "Lịch trực tiếp U17 Đông Nam Á ngày 15-4: Thái Lan đấu Myanmar",
@@ -183,6 +293,416 @@ window.newsData_2026_04_15 = {
       "fetched": "2026-04-15T01:59:04.880979+07:00"
     },
     {
+      "id": "05be39142f8c844496901cc70c873336",
+      "title": "Real Madrid gặp khó trong trận đại chiến với Bayern Munich",
+      "link": "https://thanhnien.vn/real-madrid-gap-kho-trong-tran-dai-chien-voi-bayern-munich-185260414214023877.htm",
+      "summary": "Tỷ lệ đi tiếp sau khi thua trận lượt đi trên sân nhà trong thể thức knock-out ở Champions League chỉ là 6,1% (từng có 7 trong 115 đội làm được như thế). Real Madrid - ông vua của Champions League - liệu có làm được như vậy?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T01:24:00+07:00",
+      "fetched": "2026-04-15T08:29:34.092973+07:00"
+    },
+    {
+      "id": "9cd42ea006d03edcca68f52f74a17768",
+      "title": "Đổi mới truyền thông, đưa an sinh phủ sóng đến từng nhà",
+      "link": "https://thanhnien.vn/doi-moi-truyen-thong-dua-an-sinh-phu-song-den-tung-nha-185260415082050189.htm",
+      "summary": "BHXH tỉnh Khánh Hòa chính thức triển khai Kế hoạch số 68/KH-BHXH về công tác tuyên truyền, giải đáp và tư vấn chính sách pháp luật BHXH, Bảo hiểm y tế (BHYT) năm 2026. Đây được xem là 'chiến dịch' trọng điểm nhằm cụ thể hóa luật BHXH 2024, hướng tới mục tiêu phủ sóng an sinh toàn diện, không để ai b...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T01:08:00+07:00",
+      "fetched": "2026-04-15T08:29:34.093143+07:00"
+    },
+    {
+      "id": "152c163772ab53837d1b9c876f24bbb7",
+      "title": "Thủ tướng Đức muốn đưa thanh niên Ukraine về nước chiến đấu",
+      "link": "https://thanhnien.vn/thu-tuong-duc-muon-dua-thanh-nien-ukraine-ve-nuoc-chien-dau-185260415075602391.htm",
+      "summary": "Berlin và Kyiv sẽ phối hợp để đưa nam giới Ukraine ở tuổi tòng quân đang cư trú tại Đức về nước để chiến đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T01:04:00+07:00",
+      "fetched": "2026-04-15T08:29:34.093300+07:00"
+    },
+    {
+      "id": "a8943eb57bfecc4742f6869c368d9692",
+      "title": "Lật tàu từ Bangladesh đi Malaysia, hơn 250 người mất tích",
+      "link": "https://thanhnien.vn/lat-tau-tu-bangladesh-di-malaysia-hon-250-nguoi-mat-tich-18526041507391276.htm",
+      "summary": "Chiếc tàu cá chở hàng trăm người Bangladesh và người tị nạn Rohingya bị lật ở biển Andaman do quá tải và thời tiết xấu, khiến hơn 250 người mất tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T01:02:00+07:00",
+      "fetched": "2026-04-15T08:29:34.093501+07:00"
+    },
+    {
+      "id": "4752e28c210fdc409a1db8764f24a880",
+      "title": "Mỹ xác nhận mất UAV hơn 200 triệu USD",
+      "link": "https://vnexpress.net/my-xac-nhan-mat-uav-hon-200-trieu-usd-5062442.html",
+      "summary": "Hải quân Mỹ thông báo một UAV MQ-4C bị rơi hồi tuần trước, dường như đề cập phi cơ mất tích trên vịnh Ba Tư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-15T01:00:21+07:00",
+      "fetched": "2026-04-15T08:29:36.387113+07:00"
+    },
+    {
+      "id": "453f75dc5560e505988179e80b0e92f3",
+      "title": "Sao Mỹ gốc Cần Thơ sau 8 năm gây sốt toàn cầu",
+      "link": "https://thanhnien.vn/sao-my-goc-can-tho-sau-8-nam-gay-sot-toan-cau-185260415063638863.htm",
+      "summary": "Sau khi vụt sáng thành sao với 'To All the Boys I've Loved Before' (2018), Lana Condor duy trì đam mê diễn xuất qua hàng loạt dự án Hollywood. Ngôi sao gốc Việt đang gây chú ý nhờ vừa trở lại với vai diễn làm nên tên tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T01:00:00+07:00",
+      "fetched": "2026-04-15T08:29:34.093663+07:00"
+    },
+    {
+      "id": "62e0758dc03167c65752a78ff621a2c8",
+      "title": "Rộn ràng tiếng kinh cầu bình an ngày Tết Chôl Chnăm Thmây",
+      "link": "https://thanhnien.vn/ron-rang-tieng-kinh-cau-binh-an-ngay-tet-chol-chnam-thmay-185260414220140419.htm",
+      "summary": "Từ mờ sáng, các ngôi chùa Khmer ở Vĩnh Long đã tập trung đông đảo người dân về dâng cơm, cúng quả và thực hiện các nghi thức tín ngưỡng đặc trưng Tết Chôl Chnăm Thmây. Những nụ cười rạng rỡ của những bạn trẻ xua tan mọi nhọc nhằn năm cũ, cùng hướng tới một năm mới mùa vàng bội thu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T01:00:00+07:00",
+      "fetched": "2026-04-15T08:29:34.093816+07:00"
+    },
+    {
+      "id": "a003be3e34952f9b70c484e036a55fd7",
+      "title": "Triệt lông ‘không chạm’ giảm mồ hôi, trị mụn công nghệ cao",
+      "link": "https://thanhnien.vn/triet-long-khong-cham-giam-mo-hoi-tri-mun-cong-nghe-cao-185260414200730338.htm",
+      "summary": "Làm sao để tự tin diện bikini, khoe làn da mịn màng và không còn nỗi lo về \"mùi cơ thể\" hay mụn sưng viêm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T01:00:00+07:00",
+      "fetched": "2026-04-15T08:29:34.093965+07:00"
+    },
+    {
+      "id": "28ee1cb39964730fc910e8b54f1a4f91",
+      "title": "Khi ba mẹ ‘bé lại’ để cùng con lớn lên",
+      "link": "https://thanhnien.vn/khi-ba-me-be-lai-de-cung-con-lon-len-185260414194443339.htm",
+      "summary": "Bỏ qua áp lực điểm số, không khí sôi động của sự kiện TEDx ICS Youth 2026 đã thu hút hơn 700 phụ huynh và học sinh tham gia. Tại đây, ba mẹ trở thành “bạn học” để cùng con lớn lên, trải nghiệm nhiều hoạt động sáng tạo và nuôi dưỡng sự tự tin trong con, giúp con dám nói lên suy nghĩ của mình để xây d...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T01:00:00+07:00",
+      "fetched": "2026-04-15T08:29:34.094123+07:00"
+    },
+    {
+      "id": "65f5d94c2bdbabc90bcc5764eb605fb5",
+      "title": "Điều trị ảo thanh ở người bệnh tâm thần phân liệt",
+      "link": "https://thanhnien.vn/dieu-tri-ao-thanh-o-nguoi-benh-tam-than-phan-liet-185260414163344515.htm",
+      "summary": "Tâm thần phân liệt là bệnh lý loạn thần nặng và mạn tính, ảnh hưởng đến tư duy, hành vi, cảm xúc; tỷ lệ ảo thanh trên người bệnh hiện chiếm khoảng 60 - 80%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T01:00:00+07:00",
+      "fetched": "2026-04-15T08:29:34.094273+07:00"
+    },
+    {
+      "id": "7c23b130f187331f4c5e9bb54b088ffd",
+      "title": "Grab tiếp sức bóng rổ học đường, lan tỏa tinh thần thể thao",
+      "link": "https://thanhnien.vn/grab-tiep-suc-bong-ro-hoc-duong-lan-toa-tinh-than-the-thao-185260414155349844.htm",
+      "summary": "Trung ương Hội Sinh viên Việt Nam, Grab Việt Nam và Giải bóng rổ chuyên nghiệp Việt Nam (VBA) đồng hành mang đến nhiều sáng kiến nhằm tiếp sức cho các tài năng trẻ, mở rộng cơ hội tiếp cận với 'trái bóng cam' và lan tỏa tinh thần thể thao trong cộng đồng sinh viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T01:00:00+07:00",
+      "fetched": "2026-04-15T08:29:34.094449+07:00"
+    },
+    {
+      "id": "6ce63a5bc729f6002206f86adb6f8041",
+      "title": "'Đêm trắng màu xanh' - để chỉ còn thương xót và sẻ chia",
+      "link": "https://thanhnien.vn/dem-trang-mau-xanh-de-chi-con-thuong-xot-va-se-chia-185260414212652761.htm",
+      "summary": "Mối quan hệ giữa người và người có thể giản đơn trong sự phức tạp đa tầng, và ngược lại - cực kỳ phức tạp trong một cục diện thực chất rất giản dị minh triết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:57:00+07:00",
+      "fetched": "2026-04-15T08:29:34.094607+07:00"
+    },
+    {
+      "id": "e0b10fa09b0d0c1eaed3c70621bc0448",
+      "title": "Ca sĩ Dương Hồng Loan: May mắn khi giữ hôn nhân viên mãn bên mối tình đầu",
+      "link": "https://thanhnien.vn/ca-si-duong-hong-loan-may-man-khi-giu-hon-nhan-vien-man-ben-moi-tinh-dau-185260415074105682.htm",
+      "summary": "Đối với Dương Hồng Loan, âm nhạc và gia đình là 2 điều quan trọng. Do đó, cô luôn nỗ lực cân bằng giữa vai trò một nghệ sĩ và một người vợ, người mẹ trong cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:53:00+07:00",
+      "fetched": "2026-04-15T08:29:34.094756+07:00"
+    },
+    {
+      "id": "438eb3adadcce6192cead28606166ac8",
+      "title": "Tìm phương án chiếu sáng 3D chợ Bến Thành, cầu Ba Son...",
+      "link": "https://thanhnien.vn/tim-phuong-an-chieu-sang-3d-cho-ben-thanh-cau-ba-son-185260415073135648.htm",
+      "summary": "TP.HCM đang nghiên cứu phương án chiếu sáng mỹ thuật, ứng dụng công nghệ 3D mapping lên mặt ngoài loạt công trình biểu tượng khu vực trung tâm để tạo điểm nhấn cảnh quan về đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:45:00+07:00",
+      "fetched": "2026-04-15T08:29:34.094909+07:00"
+    },
+    {
+      "id": "5c826c90037552ab44acc019d6f61832",
+      "title": "Việt Nam đặt an toàn là hàng đầu khi phát triển điện hạt nhân",
+      "link": "https://vnexpress.net/viet-nam-dat-an-toan-la-hang-dau-khi-phat-trien-dien-hat-nhan-5062409.html",
+      "summary": "Việt Nam khẳng định tính an toàn là yếu tố luôn được đặt trên hết, tuân thủ các tiêu chuẩn an toàn quốc tế để triển khai thành công chương trình điện hạt nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:40:52+07:00",
+      "fetched": "2026-04-15T08:29:30.439655+07:00"
+    },
+    {
+      "id": "5c826c90037552ab44acc019d6f61832",
+      "title": "Việt Nam đặt an toàn là hàng đầu khi phát triển điện hạt nhân",
+      "link": "https://vnexpress.net/viet-nam-dat-an-toan-la-hang-dau-khi-phat-trien-dien-hat-nhan-5062409.html",
+      "summary": "Việt Nam khẳng định tính an toàn là yếu tố luôn được đặt trên hết, tuân thủ các tiêu chuẩn an toàn quốc tế để triển khai thành công chương trình điện hạt nhân.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-15T00:40:52+07:00",
+      "fetched": "2026-04-15T08:29:41.516473+07:00"
+    },
+    {
+      "id": "1dfffb3833e325f345be2924a9e3d130",
+      "title": "Ông Vance: Tổng thống Trump muốn đạt 'thỏa thuận lớn' với Iran",
+      "link": "https://vnexpress.net/ong-vance-tong-thong-trump-muon-dat-thoa-thuan-lon-voi-iran-5062440.html",
+      "summary": "Phó tổng thống Vance nói sẽ tiếp tục nỗ lực thúc đẩy \"thỏa thuận lớn\" mà ông Trump muốn đạt được với Iran, bày tỏ lạc quan về tình hình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:40:49+07:00",
+      "fetched": "2026-04-15T08:29:30.439838+07:00"
+    },
+    {
+      "id": "1dfffb3833e325f345be2924a9e3d130",
+      "title": "Ông Vance: Tổng thống Trump muốn đạt 'thỏa thuận lớn' với Iran",
+      "link": "https://vnexpress.net/ong-vance-tong-thong-trump-muon-dat-thoa-thuan-lon-voi-iran-5062440.html",
+      "summary": "Phó tổng thống Vance nói sẽ tiếp tục nỗ lực thúc đẩy \"thỏa thuận lớn\" mà ông Trump muốn đạt được với Iran, bày tỏ lạc quan về tình hình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-15T00:40:49+07:00",
+      "fetched": "2026-04-15T08:29:36.387286+07:00"
+    },
+    {
+      "id": "2bd538c80acdd28fdbcd81f3c62e3544",
+      "title": "Siết chặt an toàn thực phẩm suất ăn bán trú: Hàng trăm cơ sở ký cam kết",
+      "link": "https://thanhnien.vn/siet-chat-an-toan-thuc-pham-suat-an-ban-tru-hang-tram-co-so-ky-cam-ket-18526041506361473.htm",
+      "summary": "Sau vụ ngộ độc tại Bình Quới Tây và hàng loạt lùm xùm thực phẩm bẩn, nỗi lo suất ăn bán trú tại TP.HCM đang nhức nhối hơn bao giờ hết. Để siết chặt kỷ cương, ngày 14.4, Sở An toàn thực phẩm TP.HCM đã buộc 317 đơn vị cung ứng ký cam kết trách nhiệm. Đây là bước đi quyết liệt nhằm minh bạch nguồn gốc,...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:39:00+07:00",
+      "fetched": "2026-04-15T08:29:34.095056+07:00"
+    },
+    {
+      "id": "5aea93c59f0f7f497f170e8260f94c00",
+      "title": "Phó tổng thống Vance nói Mỹ - Iran vẫn còn rất nghi ngờ nhau",
+      "link": "https://thanhnien.vn/pho-tong-thong-vance-noi-my-iran-van-con-rat-nghi-ngo-nhau-185260415073031162.htm",
+      "summary": "Phó tổng thống Mỹ J.D. Vance thừa nhận giữa Mỹ và Iran còn rất thiếu sự tin tưởng nhưng ông cảm nhận Tehran muốn có thỏa thuận chấm dứt xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:35:00+07:00",
+      "fetched": "2026-04-15T08:29:34.095200+07:00"
+    },
+    {
+      "id": "d9f4f283a64f0c832e1f8cfde30f5ab9",
+      "title": "HLV Simeone: 'Atletico đi tiếp vì tấn công Barca'",
+      "link": "https://vnexpress.net/hlv-simeone-atletico-di-tiep-vi-tan-cong-barca-5062438.html",
+      "summary": "HLV Diego Simeone khẳng định Atletico Madrid giành vé vào bán kết Champions League nhờ lựa chọn lối chơi tấn công trước Barca, thay vì phòng ngự như thường thấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:27:11+07:00",
+      "fetched": "2026-04-15T08:29:30.440009+07:00"
+    },
+    {
+      "id": "d9f4f283a64f0c832e1f8cfde30f5ab9",
+      "title": "HLV Simeone: 'Atletico đi tiếp vì tấn công Barca'",
+      "link": "https://vnexpress.net/hlv-simeone-atletico-di-tiep-vi-tan-cong-barca-5062438.html",
+      "summary": "HLV Diego Simeone khẳng định Atletico Madrid giành vé vào bán kết Champions League nhờ lựa chọn lối chơi tấn công trước Barca, thay vì phòng ngự như thường thấy.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-15T00:27:11+07:00",
+      "fetched": "2026-04-15T08:29:42.564762+07:00"
+    },
+    {
+      "id": "5cc9bfa4ac2263c2f06db1e9b009f5de",
+      "title": "Alcaraz chấn thương vẫn thắng trận ra quân Barcelona Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-chan-thuong-van-thang-tran-ra-quan-barcelona-mo-rong-5062448.html",
+      "summary": "Tay vợt số hai thế giới Carlos Alcaraz đau cổ tay và cánh tay phải trong trận thắng Otto Virtanen 6-4, 6-3, ở vòng một Barcelona Mở rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:24:17+07:00",
+      "fetched": "2026-04-15T08:29:30.440180+07:00"
+    },
+    {
+      "id": "5cc9bfa4ac2263c2f06db1e9b009f5de",
+      "title": "Alcaraz chấn thương vẫn thắng trận ra quân Barcelona Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-chan-thuong-van-thang-tran-ra-quan-barcelona-mo-rong-5062448.html",
+      "summary": "Tay vợt số hai thế giới Carlos Alcaraz đau cổ tay và cánh tay phải trong trận thắng Otto Virtanen 6-4, 6-3, ở vòng một Barcelona Mở rộng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-15T00:24:17+07:00",
+      "fetched": "2026-04-15T08:29:42.565921+07:00"
+    },
+    {
+      "id": "aad8b10b994b80a2ce7e9abe3c7ebafa",
+      "title": "Hôm nay bắt đầu xác nhận SIM chính chủ bằng VNeID",
+      "link": "https://vnexpress.net/hom-nay-bat-dau-xac-nhan-sim-chinh-chu-bang-vneid-5062426.html",
+      "summary": "Từ ngày 15/4, VNeID sẽ gửi thông báo theo đợt đến người dùng về các số điện thoại họ đang đứng tên, bắt đầu chiến dịch xác nhận thuê bao chính chủ và loại bỏ SIM rác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:08:08+07:00",
+      "fetched": "2026-04-15T08:29:30.440335+07:00"
+    },
+    {
+      "id": "aad8b10b994b80a2ce7e9abe3c7ebafa",
+      "title": "Hôm nay bắt đầu xác nhận SIM chính chủ bằng VNeID",
+      "link": "https://vnexpress.net/hom-nay-bat-dau-xac-nhan-sim-chinh-chu-bang-vneid-5062426.html",
+      "summary": "Từ ngày 15/4, VNeID sẽ gửi thông báo theo đợt đến người dùng về các số điện thoại họ đang đứng tên, bắt đầu chiến dịch xác nhận thuê bao chính chủ và loại bỏ SIM rác.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-15T00:08:08+07:00",
+      "fetched": "2026-04-15T08:29:41.516111+07:00"
+    },
+    {
+      "id": "2d3e1a28e71778331615bf9370c6ec92",
+      "title": "Ukraine lo ngại bị Mỹ 'gạt sang bên lề' vì chiến sự Iran",
+      "link": "https://vnexpress.net/ukraine-lo-ngai-bi-my-gat-sang-ben-le-vi-chien-su-iran-5062436.html",
+      "summary": "Ông Zelenksy nói các nhà đàm phán Mỹ \"không còn dành thời gian cho Ukraine\" do chiến sự Iran và lo ngại về sự gián đoạn nguồn cung vũ khí từ Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:05:32+07:00",
+      "fetched": "2026-04-15T08:29:30.440558+07:00"
+    },
+    {
+      "id": "2d3e1a28e71778331615bf9370c6ec92",
+      "title": "Ukraine lo ngại bị Mỹ 'gạt sang bên lề' vì chiến sự Iran",
+      "link": "https://vnexpress.net/ukraine-lo-ngai-bi-my-gat-sang-ben-le-vi-chien-su-iran-5062436.html",
+      "summary": "Ông Zelenksy nói các nhà đàm phán Mỹ \"không còn dành thời gian cho Ukraine\" do chiến sự Iran và lo ngại về sự gián đoạn nguồn cung vũ khí từ Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-15T00:05:32+07:00",
+      "fetched": "2026-04-15T08:29:36.387489+07:00"
+    },
+    {
+      "id": "0808944323b53ee6b92927a5e39f6c5e",
+      "title": "5 thay đổi trên da có thể cảnh báo bệnh gan",
+      "link": "https://vnexpress.net/5-thay-doi-tren-da-co-the-canh-bao-benh-gan-5062158.html",
+      "summary": "Ngứa kéo dài, da sẫm màu, vàng da, mắt hay dễ bầm tím có thể là tín hiệu sớm cho thấy gan hoạt động kém mà nhiều người thường bỏ qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:00:00+07:00",
+      "fetched": "2026-04-15T08:29:30.440743+07:00"
+    },
+    {
+      "id": "b0944d89651fc3d642c99ace6a74d0f4",
+      "title": "Quán cà phê trang trí bằng sắt thép cũ ở TP HCM",
+      "link": "https://vnexpress.net/quan-ca-phe-trang-tri-bang-sat-thep-cu-o-tp-hcm-5062040.html",
+      "summary": "Anh Mai Đình Vinh chi hơn một tỷ đồng mua tôn cũ cùng nhiều phế liệu, sắt thép, đồ cũ để tái chế và trang trí quán cà phê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:00:00+07:00",
+      "fetched": "2026-04-15T08:29:30.440906+07:00"
+    },
+    {
+      "id": "04f89c8888255a264e54257a6ca98b89",
+      "title": "Bác sĩ dự báo ca thay khớp háng tăng trong 10 năm tới",
+      "link": "https://vnexpress.net/bac-si-du-bao-ca-thay-khop-hang-tang-trong-10-nam-toi-5061826.html",
+      "summary": "Xu hướng trẻ hóa ở bệnh nhân phẫu thuật lần đầu cùng với tuổi thọ trung bình tăng cao sẽ kéo theo nhu cầu thay lại khớp háng gia tăng đáng kể tại Việt Nam trong thập kỷ tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:00:00+07:00",
+      "fetched": "2026-04-15T08:29:30.441078+07:00"
+    },
+    {
+      "id": "67018e2e574b13960e34a7e1a467016f",
+      "title": "Xe giao hàng tự động và những tai nạn 'dở khóc dở cười'",
+      "link": "https://vnexpress.net/xe-giao-hang-tu-dong-va-nhung-tai-nan-do-khoc-do-cuoi-5061574.html",
+      "summary": "Một robot giao hàng chạy qua đường sắt và bị tàu đâm bay, trong khi hai chiếc khác đâm vỡ tan vách kính ở trạm chờ xe buýt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T00:00:00+07:00",
+      "fetched": "2026-04-15T08:29:30.441231+07:00"
+    },
+    {
+      "id": "d66cdb7e86245159ff3f72f101961318",
+      "title": "Raphinha: 'Barca bị cướp suất vào bán kết Champions League'",
+      "link": "https://vnexpress.net/raphinha-barca-bi-cuop-suat-vao-ban-ket-champions-league-5062437.html",
+      "summary": "Tiền đạo Raphinha chỉ trích trọng tài sau khi Barca thua Atletico Madrid hai lượt 2-3 ở tứ kết Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T23:34:33+07:00",
+      "fetched": "2026-04-15T08:29:30.441408+07:00"
+    },
+    {
+      "id": "d66cdb7e86245159ff3f72f101961318",
+      "title": "Raphinha: 'Barca bị cướp suất vào bán kết Champions League'",
+      "link": "https://vnexpress.net/raphinha-barca-bi-cuop-suat-vao-ban-ket-champions-league-5062437.html",
+      "summary": "Tiền đạo Raphinha chỉ trích trọng tài sau khi Barca thua Atletico Madrid hai lượt 2-3 ở tứ kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-14T23:34:33+07:00",
+      "fetched": "2026-04-15T08:29:42.564937+07:00"
+    },
+    {
+      "id": "ad682dbd886f951fc3cb39038cfaaa33",
+      "title": "Kháng sinh sẽ thành 'thuốc vô dụng' nếu dùng bừa bãi",
+      "link": "https://vnexpress.net/khang-sinh-se-thanh-thuoc-vo-dung-neu-dung-bua-bai-5062356.html",
+      "summary": "Chuyên gia cảnh báo tình trạng lạm dụng kháng sinh và dùng sai cách có thể biến 'vũ khí cứu mạng' này thành những viên thuốc vô tác dụng trong tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T23:32:53+07:00",
+      "fetched": "2026-04-15T08:29:30.441575+07:00"
+    },
+    {
+      "id": "4a719096bbfb085fc0d19a51921fd15d",
+      "title": "Sindarov giành quyền thách đấu Vua cờ Gukesh",
+      "link": "https://vnexpress.net/sindarov-gianh-quyen-thach-dau-vua-co-gukesh-5062435.html",
+      "summary": "Kỳ thủ 20 tuổi Javokhir Sindarov vô địch Candidates 2026 sớm một lượt sau khi hòa Anish Giri ở vòng 13, giành quyền thách đấu Vua cờ Gukesh Dommaraju.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T23:11:21+07:00",
+      "fetched": "2026-04-15T08:29:30.441730+07:00"
+    },
+    {
+      "id": "4a719096bbfb085fc0d19a51921fd15d",
+      "title": "Sindarov giành quyền thách đấu Vua cờ Gukesh",
+      "link": "https://vnexpress.net/sindarov-gianh-quyen-thach-dau-vua-co-gukesh-5062435.html",
+      "summary": "Kỳ thủ 20 tuổi Javokhir Sindarov vô địch Candidates 2026 sớm một lượt sau khi hòa Anish Giri ở vòng 13, giành quyền thách đấu Vua cờ Gukesh Dommaraju.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-14T23:11:21+07:00",
+      "fetched": "2026-04-15T08:29:42.565101+07:00"
+    },
+    {
+      "id": "6bae1e7ce7fd2a5d2f5a8c4fb2036ea6",
+      "title": "Arteta: 'Tôi đang bùng cháy vì cơ hội lịch sử của Arsenal'",
+      "link": "https://vnexpress.net/arteta-toi-dang-bung-chay-vi-co-hoi-lich-su-cua-arsenal-5062428.html",
+      "summary": "HLV Mikel Arteta kêu gọi Arsenal thi đấu với tinh thần không sợ hãi trước loạt trận then chốt, giữa lúc đội bóng bị nghi ngờ bản lĩnh ở giai đoạn quyết định mùa giải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T23:09:53+07:00",
+      "fetched": "2026-04-15T08:29:30.441883+07:00"
+    },
+    {
+      "id": "6bae1e7ce7fd2a5d2f5a8c4fb2036ea6",
+      "title": "Arteta: 'Tôi đang bùng cháy vì cơ hội lịch sử của Arsenal'",
+      "link": "https://vnexpress.net/arteta-toi-dang-bung-chay-vi-co-hoi-lich-su-cua-arsenal-5062428.html",
+      "summary": "HLV Mikel Arteta kêu gọi Arsenal thi đấu với tinh thần không sợ hãi trước loạt trận then chốt, giữa lúc đội bóng bị nghi ngờ bản lĩnh ở giai đoạn quyết định mùa giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-14T23:09:53+07:00",
+      "fetched": "2026-04-15T08:29:42.566072+07:00"
+    },
+    {
+      "id": "675f5782d57cbf4490c958bb0e25ecc6",
+      "title": "Điểm tin 6h: Nhiều chủ thuê bao đi xác thực vì hiểu nhầm 'sẽ bị khóa SIM' | 11 đơn vị xin cấp phép sản xuất vàng miếng",
+      "link": "https://vnexpress.net/diem-tin-6h-nhieu-chu-thue-bao-di-xac-thuc-vi-hieu-nham-se-bi-khoa-sim-11-don-vi-xin-cap-phep-san-xuat-vang-mieng-5062433.html",
+      "summary": "Mỹ có thể phong tỏa eo biển Hormuz thế nào; Thị trường tiền số \"nổi sóng\"...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T23:05:19+07:00",
+      "fetched": "2026-04-15T08:29:30.442043+07:00"
+    },
+    {
+      "id": "8745efe9b1ed98a8fc50530b34869b75",
+      "title": "Epson EB-L690U - máy chiếu tuổi thọ 30.000 giờ",
+      "link": "https://vnexpress.net/epson-eb-l690u-may-chieu-tuoi-tho-30-000-gio-5062420.html",
+      "summary": "EB-L690U của Epson tích hợp nguồn sáng laser 3LCD cho tuổi thọ 30.000 giờ không cần bảo trì cùng độ sáng và độ phân giải cao trong phân khúc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-14T22:52:30+07:00",
+      "fetched": "2026-04-15T08:29:41.516638+07:00"
+    },
+    {
       "id": "99fc7c62991f4566d0513a16384b3363",
       "title": "Kinh tế châu Á bị tác động thế nào từ chiến sự Iran?",
       "link": "https://thanhnien.vn/kinh-te-chau-a-bi-tac-dong-the-nao-tu-chien-su-iran-185260414215051879.htm",
@@ -221,6 +741,16 @@ window.newsData_2026_04_15 = {
       "category": "Tổng hợp",
       "published": "2026-04-14T22:28:00+07:00",
       "fetched": "2026-04-15T05:36:58.731136+07:00"
+    },
+    {
+      "id": "481d4d15f3c9eb92905dc1c718d9edbe",
+      "title": "PSG loại Liverpool khỏi Champions League",
+      "link": "https://vnexpress.net/psg-loai-liverpool-khoi-champions-league-5062432.html",
+      "summary": "Thua 0-2 trong trận lượt về trên sân nhà, Liverpool bị PSG loại ở vòng tứ kết Champions League với tổng tỷ số 0-4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-14T22:15:17+07:00",
+      "fetched": "2026-04-15T08:29:42.565259+07:00"
     },
     {
       "id": "9324d32fff0af7fcf006bd7c39da1a5d",
@@ -741,6 +1271,16 @@ window.newsData_2026_04_15 = {
       "category": "Thể thao",
       "published": "2026-04-14T17:00:00+07:00",
       "fetched": "2026-04-15T01:59:12.590612+07:00"
+    },
+    {
+      "id": "f71450c51ffbc4aefebd309df367ee6a",
+      "title": "Nghi án giả mạo danh tính của tuyển thủ bóng rổ Trung Quốc",
+      "link": "https://vnexpress.net/nghi-an-gia-mao-danh-tinh-cua-tuyen-thu-bong-ro-trung-quoc-5062005.html",
+      "summary": "Liên đoàn Bóng rổ Trung Quốc (CBA) điều tra sau khi nổ ra những nghi vấn về sự tương đồng giữa tài năng bóng rổ U18 Li Yize và một cầu thủ đã “mất tích”.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-14T17:00:00+07:00",
+      "fetched": "2026-04-15T08:29:42.566223+07:00"
     },
     {
       "id": "57819e549b27c027486178fd7e1c27ad",
