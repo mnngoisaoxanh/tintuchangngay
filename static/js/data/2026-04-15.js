@@ -1,7 +1,157 @@
 window.newsData_2026_04_15 = {
   "date": "2026-04-15",
-  "lastUpdated": "2026-04-15T17:52:46.998404+07:00",
+  "lastUpdated": "2026-04-15T20:01:25.401883+07:00",
   "articles": [
+    {
+      "id": "8d327ea30706bbd78ae0f8668ddf7268",
+      "title": "Vụ Nha Trang đề xuất cấm xích lô điện: Nên quy hoạch khung giờ, tuyến đường hoạt động",
+      "link": "https://tuoitre.vn/vu-nha-trang-de-xuat-cam-xich-lo-dien-nen-quy-hoach-khung-gio-tuyen-duong-hoat-dong-20260415165355723.htm",
+      "summary": "Nhiều bạn đọc cho rằng thay vì cấm hoạt động xích lô điện ở Nha Trang, chính quyền nên quy hoạch khung giờ, tuyến đường, quản lý chặt và tạo điều kiện cho loại hình này hoạt động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.758313+07:00",
+      "fetched": "2026-04-15T20:01:18.758438+07:00"
+    },
+    {
+      "id": "15d2d77c6fcd5f1100f7f828d5a310f3",
+      "title": "Game of Thrones - Trò chơi vương quyền lên màn ảnh rộng",
+      "link": "https://tuoitre.vn/game-of-thrones-tro-choi-vuong-quyen-len-man-anh-rong-20260415174007221.htm",
+      "summary": "Sau hơn một thập kỷ thống trị màn ảnh nhỏ, 'vũ trụ' Game of Thrones (Trò chơi vương quyền) đã chính thức công bố dự án điện ảnh đầu tiên mang tên Aegon’s Conquest (tạm dịch: Cuộc chinh phạt của chiến thần Aegon).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.758169+07:00",
+      "fetched": "2026-04-15T20:01:18.758279+07:00"
+    },
+    {
+      "id": "48297378c70be2c960d965bbda33adc2",
+      "title": "Mất hơn 1 tỉ vì 'cào vé số online' trên Facebook",
+      "link": "https://tuoitre.vn/mat-hon-1-ti-vi-cao-ve-so-online-tren-facebook-20260415173727992.htm",
+      "summary": "Công an tỉnh Lạng Sơn vừa có cảnh báo về hình thức lừa đảo \"cào vé số trực tuyến\" trên Facebook.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.758049+07:00",
+      "fetched": "2026-04-15T20:01:18.758158+07:00"
+    },
+    {
+      "id": "8b3812720de0ea521c62eede9cd35dd7",
+      "title": "Công an điều tra vụ người đàn ông lao vào đá người mẹ trẻ ngã bật ngửa",
+      "link": "https://tuoitre.vn/cong-an-dieu-tra-vu-nguoi-dan-ong-lao-vao-da-nguoi-me-tre-nga-bat-ngua-20260415181129754.htm",
+      "summary": "Người phụ nữ đang trông hai con nhỏ trong cửa hàng bất ngờ bị một người đàn ông lao vào dùng chân đá mạnh vào vùng mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.757926+07:00",
+      "fetched": "2026-04-15T20:01:18.758038+07:00"
+    },
+    {
+      "id": "0ea0af8a2a8c3d579bb834985c5c5a6b",
+      "title": "TP Đà Nẵng đánh giá hiệu quả công việc của cán bộ theo thang điểm 100",
+      "link": "https://tuoitre.vn/tp-da-nang-danh-gia-hieu-qua-cong-viec-cua-can-bo-theo-thang-diem-100-20260415180509207.htm",
+      "summary": "Để đánh giá hiệu quả công việc cán bộ, UBND TP Đà Nẵng áp dụng thang điểm 100 với hai nhóm tiêu chí chính gồm phẩm chất, tinh thần làm việc (30 điểm) và tiêu chí về kết quả thực hiện nhiệm vụ (chiếm tối đa 70 điểm).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.757800+07:00",
+      "fetched": "2026-04-15T20:01:18.757915+07:00"
+    },
+    {
+      "id": "c60bc5e5605858e6fddc553f08bb9513",
+      "title": "Cao tốc Quy Nhơn - Pleiku 'gồng' tiến độ giữa bão giá xăng dầu, cát, đá",
+      "link": "https://tuoitre.vn/cao-toc-quy-nhon-pleiku-gong-tien-do-giua-bao-gia-xang-dau-cat-da-20260415175623281.htm",
+      "summary": "Dù chịu ảnh hưởng giá xăng dầu và vật liệu như thép, cát, đá xây dựng tăng cao, chủ đầu tư và nhà thầu dự án đường cao tốc Quy Nhơn - Pleiku (Gia Lai) đang nỗ lực giữ tiến độ trên công trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.757675+07:00",
+      "fetched": "2026-04-15T20:01:18.757789+07:00"
+    },
+    {
+      "id": "bc9e11dc3387218af2cd0d84a2de6175",
+      "title": "Đầu bếp robot Trung Quốc biết nấu hơn 100 món ăn 'ngon như mẹ nấu'",
+      "link": "https://tuoitre.vn/dau-bep-robot-trung-quoc-biet-nau-hon-100-mon-an-ngon-nhu-me-nau-20260415163739861.htm",
+      "summary": "Nhà hàng robot đang trở thành trào lưu tại Trung Quốc, tuy nhiên nhiều người dùng mạng cho rằng công nghệ đang lấy đi cơ hội việc làm của con người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.757548+07:00",
+      "fetched": "2026-04-15T20:01:18.757660+07:00"
+    },
+    {
+      "id": "9883b793847e6a3f36c9f2e2c641ea0b",
+      "title": "Ranh giới mong manh giữa quản lý hành chính và nguyên tắc hành nghề luật sư",
+      "link": "https://tuoitre.vn/ranh-gioi-mong-manh-giua-quan-ly-hanh-chinh-va-nguyen-tac-hanh-nghe-luat-su-2026041514541321.htm",
+      "summary": "Văn bản của UBND xã Long Thành gởi Đoàn Luật sư tỉnh Đồng Nai đề nghị 'phối hợp hỗ trợ giải quyết các nội dung liên quan đến các tổ chức cá nhân hành nghề luật sư trên địa bàn xã Long Thành' đã làm dấy lên nhiều tranh luận trong giới luật sư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.757410+07:00",
+      "fetched": "2026-04-15T20:01:18.757535+07:00"
+    },
+    {
+      "id": "4f690bc7d0afe1fa4eea84fb63875a78",
+      "title": "Trung tâm hỗ trợ nông dân ở Huế hoang phế, lãng phí",
+      "link": "https://tuoitre.vn/trung-tam-ho-tro-nong-dan-o-hue-hoang-phe-lang-phi-20260415161203667.htm",
+      "summary": "Nhiều năm sau khi được đầu tư xây dựng, Trung tâm Hỗ trợ nông dân, nông thôn khu vực Bắc miền Trung (phường Mỹ Thượng, TP Huế) rơi vào cảnh hoang phế, xuống cấp nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.757254+07:00",
+      "fetched": "2026-04-15T20:01:18.757396+07:00"
+    },
+    {
+      "id": "2a28ea473906256b3ca54691c6c33f85",
+      "title": "Nhật Bản cấm dùng sạc dự phòng trên máy bay, vi phạm có thể bị tù 2 năm",
+      "link": "https://tuoitre.vn/nhat-ban-cam-dung-sac-du-phong-tren-may-bay-vi-pham-co-the-bi-tu-2-nam-2026041514523443.htm",
+      "summary": "Quy định mới từ 24-4 giới hạn mỗi khách 2 pin dự phòng, cấm sạc trên chuyến bay, vi phạm có thể bị phạt tiền hoặc tù đến 2 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.757131+07:00",
+      "fetched": "2026-04-15T20:01:18.757243+07:00"
+    },
+    {
+      "id": "1b69bf284fc049085ab85f7e249454cd",
+      "title": "Người khuyết tật Việt Nam đã được thế giới số ‘bao trùm' chưa?",
+      "link": "https://tuoitre.vn/nguoi-khuyet-tat-viet-nam-da-duoc-the-gioi-so-bao-trum-chua-20260415153321644.htm",
+      "summary": "Những kinh nghiệm trong cuộc chuyển đổi số mạnh mẽ trên toàn cầu cho thấy thế giới càng hiện đại càng không bao giờ nên bỏ quên người khuyết tật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.757008+07:00",
+      "fetched": "2026-04-15T20:01:18.757120+07:00"
+    },
+    {
+      "id": "31ad05b6cacf0c6fcbaca67441efca45",
+      "title": "Vụ hối lộ 71 tỉ để trúng hợp đồng bán thuốc: Nhiều giám đốc bệnh viện xin giảm án",
+      "link": "https://tuoitre.vn/vu-hoi-lo-71-ti-de-trung-hop-dong-ban-thuoc-nhieu-giam-doc-benh-vien-xin-giam-an-20260415184543104.htm",
+      "summary": "Hai chủ doanh nghiệp cùng xin giảm án trong vụ đưa hối lộ 71 tỉ để tuồn thuốc vào bệnh viện, trong đó một người xin được miễn tội đưa hối lộ với hành vi đưa 700 triệu cho cựu Giám đốc Bảo hiểm xã hội Bắc Giang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.756877+07:00",
+      "fetched": "2026-04-15T20:01:18.756996+07:00"
+    },
+    {
+      "id": "1151d959a644a3089e5e1204633de656",
+      "title": "Rolls-Royce ra mắt xe điện siêu sang phiên bản giới hạn",
+      "link": "https://tuoitre.vn/rolls-royce-ra-mat-xe-dien-sieu-sang-phien-ban-gioi-han-20260415155650246.htm",
+      "summary": "Trái ngược với xu hướng suy giảm của nhiều hãng xe sang trong những năm gần đây, Hãng Rolls-Royce (Anh) đã giới thiệu một mẫu xe điện siêu sang phiên bản giới hạn, tiếp tục mở rộng hiện diện trong phân khúc xe điện hạng sang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.756744+07:00",
+      "fetched": "2026-04-15T20:01:18.756865+07:00"
+    },
+    {
+      "id": "b13909145c79747cc053c72bc395e1de",
+      "title": "Bắt nghi phạm vụ đâm chém khiến anh rể cũ thiệt mạng",
+      "link": "https://tuoitre.vn/bat-nghi-pham-vu-dam-chem-khien-anh-re-cu-thiet-mang-20260415184304311.htm",
+      "summary": "Nghi phạm Lê Văn Dương bị công an bắt giữ với cáo buộc xô xát bằng hung khí khiến chồng cũ của chị gái tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.756602+07:00",
+      "fetched": "2026-04-15T20:01:18.756731+07:00"
+    },
+    {
+      "id": "4debe18f8441c06cfa39d4df6eca41d3",
+      "title": "Hà Nội dự tính lắp 100 camera AI tại các lò mổ, chợ để kiểm tra an toàn thực phẩm",
+      "link": "https://tuoitre.vn/ha-noi-du-tinh-lap-100-camera-ai-tai-cac-lo-mo-cho-de-kiem-tra-an-toan-thuc-pham-20260415183748426.htm",
+      "summary": "Chiều 15-4, UBND TP Hà Nội đã tổ chức cuộc họp trực tiếp kết hợp trực tuyến, đánh giá kết quả khắc phục các “điểm nghẽn” về an toàn thực phẩm và triển khai \"tháng hành động vì An toàn thực phẩm\" năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T20:01:18.756370+07:00",
+      "fetched": "2026-04-15T20:01:18.756586+07:00"
+    },
     {
       "id": "9b951fe7865e2c3692be4ae8a30d682a",
       "title": "Đức: Ông cụ 100 tuổi vẫn tập gym 2 lần mỗi tuần",
@@ -453,6 +603,336 @@ window.newsData_2026_04_15 = {
       "fetched": "2026-04-15T14:18:24.597631+07:00"
     },
     {
+      "id": "44b414a0474799d5f8ac97954dcd579e",
+      "title": "Xem nhanh 20h ngày 15.4: Thực hư vụ cô gái giằng co với CSGT | Đức muốn đưa thanh niên Ukraine về nước chiến đấu?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-154-thuc-hu-vu-co-gai-giang-co-voi-csgt-duc-muon-dua-thanh-nien-ukraine-ve-nuoc-chien-dau-18526041519381638.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 15.4 có nhiều tin tức đáng chú ý về: Cô gái giằng co với 2 CSGT TP.HCM, nghi giật biên bản vi phạm; Thủ tướng Đức muốn đưa thanh niên Ukraine về nước chiến đấu;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T13:00:00+07:00",
+      "fetched": "2026-04-15T20:01:17.914827+07:00"
+    },
+    {
+      "id": "b84f511a2a6944a3642426541ca77d69",
+      "title": "Aristino xuân hè tiếp nối bản ghi chép về phong thái quý ông Việt",
+      "link": "https://thanhnien.vn/thoi-trang-tre/aristino-xuan-he-tiep-noi-ban-ghi-chep-ve-phong-thai-quy-ong-viet-18526041516441697.htm",
+      "summary": "Aristino đưa câu chuyện thời trang nam trở về với cội nguồn, từ đó mở ra một hướng tiếp cận giàu chiều sâu cho phong cách đương đại. Bộ sưu tập xuân hè 'Tiếp nối huyền thoại' khắc họa hình ảnh người đàn ông Việt Nam với bản lĩnh vững vàng và khát vọng vươn lên, được kể bằng ngôn ngữ thiết kế tinh tế...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T13:00:00+07:00",
+      "fetched": "2026-04-15T20:01:17.915002+07:00"
+    },
+    {
+      "id": "cfee2d61dc89af071ee8d3fa589f5c7a",
+      "title": "Hương Tràm: Khởi động 'Phao cứu sinh' để tái sinh trong năm 2026",
+      "link": "https://thanhnien.vn/huong-tram-khoi-dong-phao-cuu-sinh-de-tai-sinh-trong-nam-2026-185260415141127695.htm",
+      "summary": "Hương Tràm mở đầu series 'Bàn bạc' của Báo Thanh Niên bằng những chia sẻ thẳng thắn về hành trình âm nhạc nhiều dấu ấn, từ ánh hào quang của loạt hit trăm triệu view đến quyết định tạm dừng sự nghiệp để du học. Đồng thời, nữ ca sĩ cũng hé lộ kế hoạch trở lại đầy tham vọng trong năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T13:00:00+07:00",
+      "fetched": "2026-04-15T20:01:17.915158+07:00"
+    },
+    {
+      "id": "8666c460b67bcce2d10a64e0ddecbe2d",
+      "title": "Tàu cá chìm cách bờ biển Đà Nẵng 4 hải lý, biên phòng ứng cứu thành công",
+      "link": "https://thanhnien.vn/tau-ca-chim-cach-bo-bien-da-nang-4-hai-ly-bien-phong-ung-cuu-thanh-cong-185260415173329259.htm",
+      "summary": "Dù con tàu ĐNa 91009-TS đã bị nhấn chìm hoàn toàn do sự cố phá nước, nhưng nhờ sự ứng cứu kịp thời của lực lượng Biên phòng thành phố Đà Nẵng, 2 thuyền viên đã được đưa vào bờ an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:55:00+07:00",
+      "fetched": "2026-04-15T20:01:17.915329+07:00"
+    },
+    {
+      "id": "4fbc742e4a82c714058331f6affaed51",
+      "title": "Một người trúng độc đắc 14,9 tỉ đồng vé số Vietlott Mega 6/45 tối nay",
+      "link": "https://thanhnien.vn/mot-nguoi-trung-doc-dac-149-ti-dong-ve-so-vietlott-mega-6-45-toi-nay-185260415191351692.htm",
+      "summary": "Tối 15.4, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, ghi nhận có 1 người trúng giải độc đắc với số tiền cộng dồn là 14,9 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:54:00+07:00",
+      "fetched": "2026-04-15T20:01:17.915486+07:00"
+    },
+    {
+      "id": "2e3c1a4f1ef57751db4ee098946d5ed2",
+      "title": "Bộ Công thương thông báo giảm loạt thuế xăng dầu từ 0 giờ ngày 16.4",
+      "link": "https://thanhnien.vn/bo-cong-thuong-thong-bao-giam-loat-thue-xang-dau-tu-0-gio-ngay-164-185260415194600702.htm",
+      "summary": "Cục Quản lý và Phát triển thị trường trong nước (Bộ Công thương) vừa có thông báo mới về thuế bảo vệ môi trường, thuế giá trị gia tăng, thuế tiêu thụ đặc biệt đối với xăng, dầu và nhiên liệu bay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:49:00+07:00",
+      "fetched": "2026-04-15T20:01:17.915642+07:00"
+    },
+    {
+      "id": "212a9e72568cb98311b1f8e3e83c50d8",
+      "title": "Khởi tố bị can hành hung người bán bánh bèo ở Quy Nhơn",
+      "link": "https://thanhnien.vn/khoi-to-bi-can-hanh-hung-nguoi-ban-banh-beo-o-quy-nhon-185260415184243843.htm",
+      "summary": "Viện Kiểm sát nhân dân khu vực 1, tỉnh Gia Lai đã phê chuẩn quyết định khởi tố, lệnh tạm giam Nguyễn Văn Ý (35 tuổi) để điều tra làm rõ về hành vi gây rối trật tự công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:49:00+07:00",
+      "fetched": "2026-04-15T20:01:17.915791+07:00"
+    },
+    {
+      "id": "40b21f7bd7d2f73c5707267dbdf9a399",
+      "title": "Xúc phạm bà Phương Hằng, YouTuber Đinh Thị Lan bị bác kháng cáo",
+      "link": "https://thanhnien.vn/xuc-pham-ba-phuong-hang-youtuber-dinh-thi-lan-bi-bac-khang-cao-185260415173945212.htm",
+      "summary": "HĐXX phúc thẩm tuyên bác kháng cáo của bị cáo Lan, tuyên y án sơ thẩm 1 năm 9 tháng tù do xúc phạm bà Nguyễn Phương Hằng (55 tuổi, Tổng giám đốc Công ty CP Đại Nam) và chồng là ông Huỳnh Uy Dũng (65 tuổi, Chủ tịch HĐQT Công ty CP Đại Nam).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:45:00+07:00",
+      "fetched": "2026-04-15T20:01:17.915938+07:00"
+    },
+    {
+      "id": "639bd79afba4e2016ed62c7c0b4dd3b3",
+      "title": "Mưa sao băng Lyrids xuất hiện từ tối nay: Cách ngắm bằng mắt thường",
+      "link": "https://thanhnien.vn/mua-sao-bang-lyrids-xuat-hien-tu-toi-nay-cach-ngam-bang-mat-thuong-185260415133730508.htm",
+      "summary": "Mưa sao băng Lyrids bắt đầu xuất hiện từ tối 15.4 và đạt cực điểm vào ngày 21 – 22.4. Người xem có thể quan sát bằng mắt thường nếu chọn vị trí tối và ít ánh đèn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:45:00+07:00",
+      "fetched": "2026-04-15T20:01:17.916088+07:00"
+    },
+    {
+      "id": "6dc5ac8c2522e02af276fc7de074851f",
+      "title": "Bà mẹ hai con thắng The Voice Mỹ",
+      "link": "https://vnexpress.net/ba-me-hai-con-thang-the-voice-my-5062811.html",
+      "summary": "Alexia Jayy, 33 tuổi, đoạt quán quân The Voice mùa 29, khiến ban giám khảo xúc động khi thể hiện ca khúc \"One and Only\" của Adele.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:37:33+07:00",
+      "fetched": "2026-04-15T20:01:15.347549+07:00"
+    },
+    {
+      "id": "6fa03b576e01f3c7451e3b12a05f3183",
+      "title": "Nhật Bản tung gói 10 tỉ USD 'chống sốc' năng lượng cho châu Á",
+      "link": "https://thanhnien.vn/nhat-ban-tung-goi-10-ti-usd-chong-soc-nang-luong-cho-chau-a-185260415192309756.htm",
+      "summary": "Nhật Bản thông báo sẽ thiết lập một khuôn khổ tài chính trị giá khoảng 10 tỉ USD nhằm hỗ trợ các nước châu Á mua sắm và tăng dự trữ năng lượng giữa căng thẳng tại Trung Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:34:00+07:00",
+      "fetched": "2026-04-15T20:01:17.916240+07:00"
+    },
+    {
+      "id": "840b43eb80efedb90ceaca9a3d6ec5df",
+      "title": "Khách Việt 'ướt sũng' 6 tiếng tại lễ hội té nước lớn nhất Thái Lan",
+      "link": "https://vnexpress.net/khach-viet-uot-sung-6-tieng-tai-le-hoi-te-nuoc-lon-nhat-thai-lan-5062788.html",
+      "summary": "Hồng Quân, ở TP HCM, kể về trải nghiệm chưa từng có trong suốt 6 tiếng tham gia lễ hội Songkran ở Bangkok cùng hàng triệu du khách khác trên đường phố, vào giữa tháng 4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:30:00+07:00",
+      "fetched": "2026-04-15T20:01:15.347727+07:00"
+    },
+    {
+      "id": "8fc0984efc391745caacbbe5ca7fcff1",
+      "title": "Tôi không muốn em gái phải vào viện dưỡng lão",
+      "link": "https://vnexpress.net/toi-khong-muon-em-gai-phai-vao-vien-duong-lao-5062535.html",
+      "summary": "Em gái tôi còn rất trẻ trung, nhanh nhẹn, tôi không thể nghĩ từ nay về già em chỉ có một mình và hướng đến viện dưỡng lão được.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:30:00+07:00",
+      "fetched": "2026-04-15T20:01:15.347838+07:00"
+    },
+    {
+      "id": "751b453af63bcf34448cf0ee611c4215",
+      "title": "Cô giáo phạt học sinh tự dùng kim tiêm chích vào tay",
+      "link": "https://vnexpress.net/co-giao-phat-hoc-sinh-tu-dung-kim-tiem-chich-vao-tay-5062875.html",
+      "summary": "5 học sinh Tiểu học Lương Thế Vinh bị cô giáo phạt, yêu cầu tự dùng kim tiêm y tế chích vào tay, vì nói chuyện trong lớp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:27:29+07:00",
+      "fetched": "2026-04-15T20:01:15.348002+07:00"
+    },
+    {
+      "id": "20662b2a944d1355b554bda3be836d51",
+      "title": "U.17 Việt Nam cần thắng đậm trước trận 'đại chiến' Indonesia: Xem kênh nào?",
+      "link": "https://thanhnien.vn/u17-viet-nam-can-thang-dam-truoc-dai-chien-voi-indonesia-xem-kenh-nao-185260415185511583.htm",
+      "summary": "Trước đối thủ yếu nhất bảng đấu U.17 Timor Leste, đội tuyển U.17 Việt Nam cần tận dụng cơ hội để nắm lợi thế, trước khi bước vào trận đấu quyết định cho ngôi đầu với chủ nhà Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:27:00+07:00",
+      "fetched": "2026-04-15T20:01:17.916410+07:00"
+    },
+    {
+      "id": "dd60b14cdb4420f031bfa999d48707c4",
+      "title": "HLV Bae Ji-won dẫn dắt CLB Ninh Bình từ ngày 18.4: Đối thủ PVF-CAND đang gần chạm đáy",
+      "link": "https://thanhnien.vn/hlv-bae-ji-won-dan-dat-clb-ninh-binh-tu-ngay-184-doi-thu-pvf-cand-dang-gan-cham-day-18526041421244109.htm",
+      "summary": "Hai chiến thắng trên sân khách giúp CLB Ninh Bình hồi sinh trở lại để sẵn sàng cho mục tiêu đánh chiếm ngôi nhì bảng V-League 2025-2026. Đến vòng 19, đội bóng cố đô sẽ được dẫn dắt bởi HLV Bae Ji-won thay vì ông Vũ Tiến Thành. Sáng 15.4, ông Bae đã có mặt ở Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:26:00+07:00",
+      "fetched": "2026-04-15T20:01:17.916558+07:00"
+    },
+    {
+      "id": "1aaced3cb3ac64f02b31690b46389da7",
+      "title": "Thi công ga ngầm metro số 2 đường Cách Mạng Tháng 8: Đi sao tránh kẹt xe?",
+      "link": "https://thanhnien.vn/thi-cong-ga-ngam-metro-so-2-duong-cach-mang-thang-8-di-sao-tranh-ket-xe-185260415174517813.htm",
+      "summary": "Nhà ga ngầm Lê Thị Riêng của tuyến metro số 2 trên đường Cách Mạng Tháng 8 đang rào chắn để thi công. Người dân đi sao để tránh kẹt xe?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:25:00+07:00",
+      "fetched": "2026-04-15T20:01:17.916708+07:00"
+    },
+    {
+      "id": "7cd7eb2969a082c527881ea7c961defc",
+      "title": "Nộp bệnh án tâm thần, 'nữ quái' vẫn bị tòa tuyên 13 năm tù",
+      "link": "https://thanhnien.vn/nop-benh-an-tam-than-nu-quai-van-bi-toa-tuyen-13-nam-tu-185260415183340634.htm",
+      "summary": "Dù gia đình nộp bệnh án tâm thần nhưng người phụ nữ vẫn bị tòa tuyên 13 năm tù với cáo buộc chiếm đoạt tiền tỉ của ngân hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:24:00+07:00",
+      "fetched": "2026-04-15T20:01:17.916859+07:00"
+    },
+    {
+      "id": "a63ae228d4bb15270be7c7265430eaa5",
+      "title": "iPhone 18 Pro không tăng giá, các đối thủ Android sẽ gặp khó",
+      "link": "https://thanhnien.vn/iphone-18-pro-khong-tang-gia-cac-doi-thu-android-se-gap-kho-185260415175455466.htm",
+      "summary": "Apple có thể ra mắt iPhone 18 Pro vào cuối năm nay với hứa hẹn trở thành một trong những \"vũ khí\" hiệu quả nhất của công ty.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:23:00+07:00",
+      "fetched": "2026-04-15T20:01:17.917003+07:00"
+    },
+    {
+      "id": "bf2750194c6ac816ac015796836dc8d8",
+      "title": "Thuốc bổ, thấp khớp của Bệnh viện Y học cổ truyền TP HCM bị làm giả",
+      "link": "https://vnexpress.net/thuoc-bo-thap-khop-cua-benh-vien-y-hoc-co-truyen-tp-hcm-bi-lam-gia-5062871.html",
+      "summary": "Một bệnh nhân mang hai lọ Viên thấp khớp và Bổ trung ích khí đến Bệnh viện Y học cổ truyền TP HCM mua thêm, bị phát hiện là thuốc giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:20:32+07:00",
+      "fetched": "2026-04-15T20:01:15.348159+07:00"
+    },
+    {
+      "id": "4dc6933c0e0d7ad9f46730df7836a691",
+      "title": "'Doanh nghiệp nhỏ là cửa ngõ các cuộc tấn công mạng'",
+      "link": "https://vnexpress.net/doanh-nghiep-nho-la-cua-ngo-cac-cuoc-tan-cong-mang-5062672.html",
+      "summary": "Theo chuyên gia, doanh nghiệp nhỏ và vừa là cửa ngõ cho các cuộc tấn công mạng, nhưng cũng là nhóm gặp hạn chế về nhận thức và ngân sách an ninh mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:08:30+07:00",
+      "fetched": "2026-04-15T20:01:15.348337+07:00"
+    },
+    {
+      "id": "4dc6933c0e0d7ad9f46730df7836a691",
+      "title": "'Doanh nghiệp nhỏ là cửa ngõ các cuộc tấn công mạng'",
+      "link": "https://vnexpress.net/doanh-nghiep-nho-la-cua-ngo-cac-cuoc-tan-cong-mang-5062672.html",
+      "summary": "Theo chuyên gia, doanh nghiệp nhỏ và vừa là cửa ngõ cho các cuộc tấn công mạng, nhưng cũng là nhóm gặp hạn chế về nhận thức và ngân sách an ninh mạng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-15T12:08:30+07:00",
+      "fetched": "2026-04-15T20:01:23.916281+07:00"
+    },
+    {
+      "id": "9f218d4f60dbf445bfb57b06c8880d66",
+      "title": "Thủ tướng nêu ba định hướng hợp tác giải quyết các vấn đề năng lượng",
+      "link": "https://vnexpress.net/thu-tuong-neu-ba-dinh-huong-hop-tac-giai-quyet-cac-van-de-nang-luong-5062869.html",
+      "summary": "Thủ tướng Lê Minh Hưng dự hội nghị AZEC mở rộng, đề xuất ba định hướng hợp tác để các nước châu Á giải quyết các vấn đề năng lượng và duy trì chuỗi cung ứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:06:05+07:00",
+      "fetched": "2026-04-15T20:01:15.348497+07:00"
+    },
+    {
+      "id": "9f218d4f60dbf445bfb57b06c8880d66",
+      "title": "Thủ tướng nêu ba định hướng hợp tác giải quyết các vấn đề năng lượng",
+      "link": "https://vnexpress.net/thu-tuong-neu-ba-dinh-huong-hop-tac-giai-quyet-cac-van-de-nang-luong-5062869.html",
+      "summary": "Thủ tướng Lê Minh Hưng dự hội nghị AZEC mở rộng, đề xuất ba định hướng hợp tác để các nước châu Á giải quyết các vấn đề năng lượng và duy trì chuỗi cung ứng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-15T12:06:05+07:00",
+      "fetched": "2026-04-15T20:01:20.021908+07:00"
+    },
+    {
+      "id": "809f723b9c3e8287d885de59982e2513",
+      "title": "Hành trình truy bắt kẻ sát hại dã man người đàn ông ở Phú Quốc",
+      "link": "https://vnexpress.net/hanh-trinh-truy-bat-ke-sat-hai-da-man-nguoi-dan-ong-o-phu-quoc-5062858.html",
+      "summary": "Sát hại dã man người đàn ông ở Phú Quốc, Trần Nhật Trường, lên tàu cao tốc vào đất liền bằng thân phận giả, liên tục di chuyển, xóa dấu vết nhưng không thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:00:50+07:00",
+      "fetched": "2026-04-15T20:01:15.348655+07:00"
+    },
+    {
+      "id": "6e8c7e3e8eab78dcbb5bf9f1ccc3c262",
+      "title": "Diễn viên 'Tể tướng Lưu Gù' sau 30 năm",
+      "link": "https://vnexpress.net/dien-vien-te-tuong-luu-gu-sau-30-nam-5062630.html",
+      "summary": "Tài tử Trung Quốc Lý Bảo Điền ở ẩn, không màng danh lợi, sau ba thập niên đóng \"Tể tướng Lưu Gù\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:00:00+07:00",
+      "fetched": "2026-04-15T20:01:15.348819+07:00"
+    },
+    {
+      "id": "6c1b3bc8f62fc21ffbe54eb15eabff6c",
+      "title": "Iran có thể tổn thất thế nào khi Mỹ phong tỏa cảng biển",
+      "link": "https://vnexpress.net/iran-co-the-ton-that-the-nao-khi-my-phong-toa-cang-bien-5062469.html",
+      "summary": "Lệnh phong tỏa cảng biển của Mỹ đang đe dọa nguồn thu tỷ USD từ dầu mỏ của Iran và làm tê liệt toàn bộ hoạt động giao thương quan trọng của nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:00:00+07:00",
+      "fetched": "2026-04-15T20:01:15.348979+07:00"
+    },
+    {
+      "id": "efbb10cc878534edb55c7daca6fb0926",
+      "title": "Cô gái gặp nạn khi tạt đầu xe tải",
+      "link": "https://vnexpress.net/co-gai-gap-nan-khi-tat-dau-xe-tai-5062244.html",
+      "summary": "Camera hành trình của chiếc xe tải ghi lại hình ảnh cô gái đi xe điện mất hút dưới gầm xe, hôm 14/4 tại quốc lộ 19 địa phận Quy Nhơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:00:00+07:00",
+      "fetched": "2026-04-15T20:01:15.349137+07:00"
+    },
+    {
+      "id": "c52368d8f2007d507f2f1a34335bde61",
+      "title": "Não bộ cần bao nhiêu giờ ngủ mỗi ngày?",
+      "link": "https://vnexpress.net/nao-bo-can-bao-nhieu-gio-ngu-moi-ngay-5051015.html",
+      "summary": "Thời lượng ngủ thay đổi theo độ tuổi, giấc ngủ không phải lúc não \"tắt máy\" mà là thời điểm thực hiện các chức năng bảo dưỡng sinh học quan trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:00:00+07:00",
+      "fetched": "2026-04-15T20:01:15.349304+07:00"
+    },
+    {
+      "id": "cf70268a32752678067f2f988047c594",
+      "title": "Triệu chứng não mô cầu dễ nhầm cảm cúm",
+      "link": "https://vnexpress.net/trieu-chung-nao-mo-cau-de-nham-cam-cum-5062797.html",
+      "summary": "Bệnh do não mô cầu tiến triển nhanh có thể gây tử vong trong 24 giờ, song dấu hiệu sốt, đau đầu, buồn nôn dễ nhầm cúm thông thường dẫn đến chẩn đoán muộn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:00:00+07:00",
+      "fetched": "2026-04-15T20:01:15.349474+07:00"
+    },
+    {
+      "id": "eadb465490bfee52515f87bdc04ec598",
+      "title": "Trẻ em khám phá muôn loài tại Kun Marathon Huế 2026",
+      "link": "https://vnexpress.net/kun-marathon-hue-2026-bao-ve-muon-loai-5062661.html",
+      "summary": "Giải chạy diễn ra ngày 18/4 tại Quảng trường Ngọ Môn sẽ kết hợp các hoạt động giáo dục bảo vệ động vật cho 2.500 trẻ em 6-10 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:00:00+07:00",
+      "fetched": "2026-04-15T20:01:15.349628+07:00"
+    },
+    {
+      "id": "758142922d709282c02fb0a09802edcf",
+      "title": "Đường chạy di sản hút runner nhờ trải nghiệm khác biệt",
+      "link": "https://vnexpress.net/duong-chay-di-san-vnexpress-marathon-hue-2026-5061283.html",
+      "summary": "Bằng cách đặt cuộc đua thể lực vào không gian các công trình hàng trăm năm tuổi, các giải chạy di sản tạo hiệu ứng tâm lý đặc biệt cho người tham dự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T12:00:00+07:00",
+      "fetched": "2026-04-15T20:01:15.349783+07:00"
+    },
+    {
+      "id": "6c1b3bc8f62fc21ffbe54eb15eabff6c",
+      "title": "Iran có thể tổn thất thế nào khi Mỹ phong tỏa cảng biển",
+      "link": "https://vnexpress.net/iran-co-the-ton-that-the-nao-khi-my-phong-toa-cang-bien-5062469.html",
+      "summary": "Lệnh phong tỏa cảng biển của Mỹ đang đe dọa nguồn thu tỷ USD từ dầu mỏ của Iran và làm tê liệt toàn bộ hoạt động giao thương quan trọng của nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-15T12:00:00+07:00",
+      "fetched": "2026-04-15T20:01:20.022078+07:00"
+    },
+    {
       "id": "835526ef332a64ccabbc65dd807e472a",
       "title": "Ông Trump: Chiến sự Iran 'rất gần hồi kết', nhưng Mỹ chưa xong việc",
       "link": "https://tuoitre.vn/ong-trump-chien-su-iran-rat-gan-hoi-ket-nhung-my-chua-xong-viec-20260415093914971.htm",
@@ -601,6 +1081,26 @@ window.newsData_2026_04_15 = {
       "category": "Tổng hợp",
       "published": "2026-04-15T11:38:30.815736+07:00",
       "fetched": "2026-04-15T11:38:30.815965+07:00"
+    },
+    {
+      "id": "cc6e0249f0a00b1dcb1d2a341f5d08bd",
+      "title": "Việt - Trung sẽ xác lập tầm cao mới cho hợp tác kinh tế, thương mại",
+      "link": "https://vnexpress.net/viet-trung-se-xac-lap-tam-cao-moi-cho-hop-tac-kinh-te-thuong-mai-5062850.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Thủ tướng Trung Quốc Lý Cường, đề nghị hai bên xác lập tầm cao mới cho hợp tác kinh tế, thương mại, đầu tư và du lịch.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-15T11:32:23+07:00",
+      "fetched": "2026-04-15T20:01:20.022237+07:00"
+    },
+    {
+      "id": "fbad4754a47cef74189455cf5a05c8c6",
+      "title": "Ông Trump khen thủ tướng tương lai Hungary",
+      "link": "https://vnexpress.net/ong-trump-khen-thu-tuong-tuong-lai-hungary-5062810.html",
+      "summary": "Tổng thống Mỹ dành lời khen cho ông Peter Magyar, thủ tướng tương lai của Hungary, dù trước đó tích cực vận động ủng hộ Thủ tướng Viktor Orban.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-15T10:44:05+07:00",
+      "fetched": "2026-04-15T20:01:20.022418+07:00"
     },
     {
       "id": "05430a912ec17bf50b9599e830b774ec",
