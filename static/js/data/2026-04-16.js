@@ -1,7 +1,157 @@
 window.newsData_2026_04_16 = {
   "date": "2026-04-16",
-  "lastUpdated": "2026-04-16T20:07:03.640335+07:00",
+  "lastUpdated": "2026-04-16T22:18:31.617774+07:00",
   "articles": [
+    {
+      "id": "acf3e57be8f5f7efee702454b0537a27",
+      "title": "Lừa 200.000 USD 'chạy' tại ngoại, cựu cán bộ hải quan còn đòi thêm 400.000 USD",
+      "link": "https://tuoitre.vn/lua-200-000-usd-chay-tai-ngoai-cuu-can-bo-hai-quan-con-doi-them-400-000-usd-20260416192450336.htm",
+      "summary": "Cựu cán bộ hải quan Phan Đình Quân dựng lên các mối quan hệ, nhận 200.000 USD lừa \"chạy\" tại ngoại cho một tổng giám đốc đang bị tạm giam. Không thực hiện được, bị cáo tiếp tục nâng “giá” lên 600.000 USD rồi cắt liên lạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.521871+07:00",
+      "fetched": "2026-04-16T22:18:25.521994+07:00"
+    },
+    {
+      "id": "d81008a71686a13ad2552314655f7a89",
+      "title": "Tây Ninh hợp tác với Đại học Kinh tế TP.HCM đào tạo, nghiên cứu, chuyển giao khoa học công nghệ",
+      "link": "https://tuoitre.vn/tay-ninh-hop-tac-voi-dai-hoc-kinh-te-tp-hcm-dao-tao-nghien-cuu-chuyen-giao-khoa-hoc-cong-nghe-2026041619334621.htm",
+      "summary": "Chiều 16-4, UBND tỉnh Tây Ninh đã tổ chức lễ ký kết biên bản ghi nhớ hợp tác với Đại học Kinh tế TP.HCM giai đoạn 2026-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.521742+07:00",
+      "fetched": "2026-04-16T22:18:25.521859+07:00"
+    },
+    {
+      "id": "51ef2fa0da92530bd0351f788df4b803",
+      "title": "Phó chủ tịch TP.HCM Hoàng Nguyên Dinh: Sớm bố trí tái định cư cho Khu thể thao Rạch Chiếc",
+      "link": "https://tuoitre.vn/pho-chu-tich-tp-hcm-hoang-nguyen-dinh-som-bo-tri-tai-dinh-cu-cho-khu-the-thao-rach-chiec-20260416192904445.htm",
+      "summary": "Phó chủ tịch UBND TP.HCM Hoàng Nguyên Dinh đề nghị rà soát quỹ nhà đất tái định cư để sớm hoàn thành giải phóng mặt bằng dự án Khu liên hợp thể dục thể thao Rạch Chiếc (thường được gọi là Khu thể thao Rạch Chiếc).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.521614+07:00",
+      "fetched": "2026-04-16T22:18:25.521729+07:00"
+    },
+    {
+      "id": "809d4d271e94bb03a3e8b3b2bd105b90",
+      "title": "Liên đoàn Quyền anh Việt Nam có Chủ tịch mới sau biến động",
+      "link": "https://tuoitre.vn/lien-doan-quyen-anh-viet-nam-co-chu-tich-moi-sau-bien-dong-2026041619383261.htm",
+      "summary": "Ông Phạm Quang Long đã được bầu làm Chủ tịch Liên đoàn Quyền anh Việt Nam (VBF) tại hội nghị bất thường, sau khi ông Lưu Tú Bảo xin từ nhiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.521484+07:00",
+      "fetched": "2026-04-16T22:18:25.521602+07:00"
+    },
+    {
+      "id": "2181a37d5a5249d402f6df37983c9407",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm đến Nam Ninh, Trung Quốc",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-den-nam-ninh-trung-quoc-20260416193224044.htm",
+      "summary": "Sau khoảng 10 tiếng đi tàu cao tốc từ Bắc Kinh, Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân cùng đoàn đại biểu cấp cao Việt Nam đã đến Nam Ninh tối 16-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.521356+07:00",
+      "fetched": "2026-04-16T22:18:25.521472+07:00"
+    },
+    {
+      "id": "531d359d58673d4891885d3efdaa7dba",
+      "title": "Chủ đầu tư các dự án đường cao tốc qua đông Đắk Lắk cam kết thông tuyến cuối tháng 4 này",
+      "link": "https://tuoitre.vn/chu-dau-tu-cac-du-an-duong-cao-toc-qua-dong-dak-lak-cam-ket-thong-tuyen-cuoi-thang-4-nay-2026041619174107.htm",
+      "summary": "Chủ đầu tư các dự án cao tốc Quy Nhơn - Chí Thạnh, Chí Thạnh - Vân Phong (qua tỉnh Phú Yên, nay thuộc đông Đắk Lắk) nỗ lực hoàn thành công đoạn cuối, cam kết thông tuyến vào cuối tháng 4 này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.521227+07:00",
+      "fetched": "2026-04-16T22:18:25.521344+07:00"
+    },
+    {
+      "id": "92045bd95100f363d84566d81b0395e5",
+      "title": "Tòa án cấm thay đổi hiện trạng tài sản đang tranh chấp tại dự án Ocean View Nha Trang",
+      "link": "https://tuoitre.vn/toa-an-cam-thay-doi-hien-trang-tai-san-dang-tranh-chap-tai-du-an-ocean-view-nha-trang-20260416173802616.htm",
+      "summary": "Ngày 16-4, Tòa án nhân dân khu vực 1 Khánh Hòa đã quyết định “áp dụng biện pháp khẩn cấp tạm thời” cấm thay đổi hiện trạng tài sản đang tranh chấp trong vụ án dân sự tại dự án khu biệt thự cao cấp Ocean View Nha Trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.521088+07:00",
+      "fetched": "2026-04-16T22:18:25.521213+07:00"
+    },
+    {
+      "id": "7c5ad93edda846712712ebcfe7436a4f",
+      "title": "Mất sạch kỳ vương, làng cờ tướng Trung Quốc ngao ngán: 'Còn ai đấu Lại Lý Huynh'?",
+      "link": "https://tuoitre.vn/mat-sach-ky-vuong-lang-co-tuong-trung-quoc-ngao-ngan-con-ai-dau-lai-ly-huynh-20260416192035916.htm",
+      "summary": "Các cuộc tranh cãi tiếp tục dấy lên khi Hiệp hội Cờ tướng Trung Quốc (CXA) đưa ra đợt án phạt thứ 3 trong đại án bán độ kéo dài 2 năm qua, và qua đó gần như \"phong sát\" toàn bộ dàn cao thủ nước nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.520930+07:00",
+      "fetched": "2026-04-16T22:18:25.521075+07:00"
+    },
+    {
+      "id": "08c93cc00a8516135ed109ebbae566f5",
+      "title": "Đề xuất không chốt cứng ngưỡng miễn thuế 500 triệu cho hộ kinh doanh",
+      "link": "https://tuoitre.vn/de-xuat-khong-chot-cung-nguong-mien-thue-500-trieu-cho-ho-kinh-doanh-20260416193715437.htm",
+      "summary": "Sau hơn 3 tháng áp dụng ngưỡng doanh thu 500 triệu đồng/năm không phải nộp thuế đối với hộ kinh doanh, cá nhân kinh doanh, Bộ Tài chính đề xuất giao Chính phủ điều chỉnh theo tình hình thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.520797+07:00",
+      "fetched": "2026-04-16T22:18:25.520915+07:00"
+    },
+    {
+      "id": "669e7f406d932f08d47b5ad792ca0c33",
+      "title": "Conan Movie 29 mở màn kỷ lục nhưng Mario đang đến",
+      "link": "https://tuoitre.vn/conan-movie-29-mo-man-ky-luc-nhung-mario-dang-den-20260416195406368.htm",
+      "summary": "Lập kỷ lục mở màn nhưng Conan Movie 29 chưa thể 'yên tâm' khi vấp ý kiến trái chiều, đồng thời phải cạnh tranh với bom tấn Mario trên đường đua giữ chuỗi doanh thu 10 tỉ yen 4 năm liên tiếp tại phòng vé Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.520655+07:00",
+      "fetched": "2026-04-16T22:18:25.520784+07:00"
+    },
+    {
+      "id": "80e0f9a3b346053c7db6827c4bf99aa5",
+      "title": "Thủ tướng: Đẩy mạnh sắp xếp, tinh gọn đầu mối tổ chức bên trong các bộ, ngành",
+      "link": "https://tuoitre.vn/thu-tuong-day-manh-sap-xep-tinh-gon-dau-moi-to-chuc-ben-trong-cac-bo-nganh-20260416201754742.htm",
+      "summary": "Các bộ, ngành Trung ương được yêu cầu khẩn trương rà soát chức năng, nhiệm vụ, tổ chức bộ máy, đẩy mạnh việc sắp xếp, tinh gọn đầu mối tổ chức bên trong của các bộ, ngành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.520510+07:00",
+      "fetched": "2026-04-16T22:18:25.520629+07:00"
+    },
+    {
+      "id": "d3a96f177849cd04f1a38ababf08fc7b",
+      "title": "Thủ tướng Lê Minh Hưng làm việc với 52 doanh nghiệp hàng đầu của Mỹ",
+      "link": "https://tuoitre.vn/thu-tuong-le-minh-hung-lam-viec-voi-52-doanh-nghiep-hang-dau-cua-my-20260416201635884.htm",
+      "summary": "Chiều 16-4, Thủ tướng Lê Minh Hưng tiếp, làm việc với đoàn doanh nghiệp Mỹ do quyền Chủ tịch Hội đồng Kinh doanh Hoa Kỳ - ASEAN (USABC) Brian McFeeters dẫn đầu, cùng đại diện 52 doanh nghiệp lớn, hàng đầu của Mỹ trên nhiều lĩnh vực...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.520375+07:00",
+      "fetched": "2026-04-16T22:18:25.520498+07:00"
+    },
+    {
+      "id": "815919ec722893c80e0971874833886a",
+      "title": "Ngành giáo dục TP.HCM điều động, bổ nhiệm nhiều cán bộ quản lý",
+      "link": "https://tuoitre.vn/nganh-giao-duc-tp-hcm-dieu-dong-bo-nhiem-nhieu-can-bo-quan-ly-20260416201819702.htm",
+      "summary": "Chiều 16-4, Sở Giáo dục và Đào tạo TP.HCM đã trao quyết định điều động, bổ nhiệm nhiều cán bộ quản lý, kiện toàn bộ máy lãnh đạo tại các phòng ban thuộc sở và các trường THPT.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.520236+07:00",
+      "fetched": "2026-04-16T22:18:25.520364+07:00"
+    },
+    {
+      "id": "aefee813a4305f204d2b9d88e2032d64",
+      "title": "Valentin Tran rút khỏi Miss Universe Vietnam, nói Hoa hậu Hoàn vũ 'thiếu minh bạch’",
+      "link": "https://tuoitre.vn/valentin-tran-rut-khoi-miss-universe-vietnam-noi-hoa-hau-hoan-vu-thieu-minh-bach-20260416204335722.htm",
+      "summary": "Sau hai năm nắm bản quyền Miss Universe tại Việt Nam, ông Valentin Tran bất ngờ rút lui, cho biết thất vọng với cách xử lý những bê bối của ban tổ chức Miss Universe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.520071+07:00",
+      "fetched": "2026-04-16T22:18:25.520222+07:00"
+    },
+    {
+      "id": "142d5e4897d37967fa6a339934bceb5d",
+      "title": "Kiến trúc sư Đoàn Thanh Hà nhận Giải thưởng Kiến trúc bền vững toàn cầu",
+      "link": "https://tuoitre.vn/kien-truc-su-doan-thanh-ha-nhan-giai-thuong-kien-truc-ben-vung-toan-cau-20260416205020885.htm",
+      "summary": "Gần 20 năm làm kiến trúc, Đoàn Thanh Hà với cụm công trình kiến trúc ‘vì con người, vì cộng đồng và vì hành tinh’, quan tâm các vấn đề dân sinh, xã hội đã được trao Giải thưởng Kiến trúc bền vững toàn cầu năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:18:25.519782+07:00",
+      "fetched": "2026-04-16T22:18:25.520050+07:00"
+    },
     {
       "id": "bc2275b520bb63a159fd0d9ee24d8377",
       "title": "Doraemon Movie 45 mất ngôi vương sau 6 tuần thống trị phòng vé Nhật",
@@ -453,6 +603,76 @@ window.newsData_2026_04_16 = {
       "fetched": "2026-04-16T16:08:58.417530+07:00"
     },
     {
+      "id": "0b1a7b7309dc3b2a5a64ca0acf841394",
+      "title": "Miss World Opal Suchata hòa mình với lễ hội Songkran",
+      "link": "https://vnexpress.net/miss-world-opal-suchata-hoa-minh-voi-le-hoi-songkran-5063313.html",
+      "summary": "Hoa hậu Thế giới 2025 Opal Suchata gây chú ý với khán giả khi tận hưởng lễ hội Songkran 2026 cùng du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T14:48:28+07:00",
+      "fetched": "2026-04-16T22:18:21.774634+07:00"
+    },
+    {
+      "id": "59a4146ad0b518fd5ceb09562fe3eacc",
+      "title": "Bảng xếp hạng U.17 Đông Nam Á mới nhất: Indonesia thua sốc Malaysia, Việt Nam chiếm ngôi đầu",
+      "link": "https://thanhnien.vn/bang-xep-hang-u17-dong-nam-a-moi-nhat-indonesia-thua-soc-malaysia-viet-nam-chiem-ngoi-dau-185260416214242965.htm",
+      "summary": "Đội tuyển U.17 Việt Nam vươn lên chiếm vị trí nhất bảng A, sau trận thắng với tỷ số cực đậm trước U.17 Timor Leste tại giải U.17 Đông Nam Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T14:43:00+07:00",
+      "fetched": "2026-04-16T22:18:24.655675+07:00"
+    },
+    {
+      "id": "310faae334c381edfbe1f0f6993cf795",
+      "title": "Thi công đèn khoan nhầm ống nước, ảnh hưởng hơn 20.000 hộ dân",
+      "link": "https://vnexpress.net/thi-cong-den-khoan-nham-ong-nuoc-anh-huong-hon-20-000-ho-dan-5063370.html",
+      "summary": "Đơn vị thi công đèn giao thông khoan hỏng đường ống nước thô của nhà máy Tuy Hòa, khiến hơn 20.000 hộ dân tại 7 xã, phường phía đông tỉnh bị ảnh hưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T14:42:11+07:00",
+      "fetched": "2026-04-16T22:18:21.774817+07:00"
+    },
+    {
+      "id": "c56550da7fa0c8f4125f768a6a11c113",
+      "title": "Đà Nẵng chuẩn bị không gian đón dòng khách chi tiêu cao",
+      "link": "https://vnexpress.net/da-nang-chuan-bi-khong-gian-don-dong-khach-chi-tieu-cao-5063320.html",
+      "summary": "Ngành du lịch thành phố phối hợp với các hãng lữ hành lớn quy hoạch lại không gian điểm đến, đào tạo nhân lực để đón dòng khách Nga và khối CIS lưu trú dài, chi tiêu cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T14:37:33+07:00",
+      "fetched": "2026-04-16T22:18:21.774986+07:00"
+    },
+    {
+      "id": "3b27525392acc841515bc924f2e93525",
+      "title": "Bé 2 tuổi ở TP HCM tử vong do viêm màng não mô cầu",
+      "link": "https://vnexpress.net/be-2-tuoi-o-tp-hcm-tu-vong-do-viem-mang-nao-mo-cau-5063369.html",
+      "summary": "Bệnh nhi 2 tuổi ngụ phường Hòa Hưng, tử vong do viêm màng não mô cầu thể tối cấp, bệnh diễn tiến nhanh trong thời gian ngắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T14:31:59+07:00",
+      "fetched": "2026-04-16T22:18:21.775193+07:00"
+    },
+    {
+      "id": "0b9471023a6fdc6709ec376d3b0c9930",
+      "title": "Thủ tướng Lê Minh Hưng làm việc với 52 doanh nghiệp hàng đầu Mỹ",
+      "link": "https://thanhnien.vn/thu-tuong-le-minh-hung-lam-viec-voi-52-doanh-nghiep-hang-dau-my-18526041620433269.htm",
+      "summary": "Chiều 16.4, Thủ tướng Lê Minh Hưng đã làm việc với lãnh đạo 52 doanh nghiệp hàng đầu Mỹ, do ông Brian McFeeters, quyền Chủ tịch kiêm Tổng giám đốc Hội đồng Kinh doanh Mỹ - ASEAN (USABC) dẫn đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T14:25:00+07:00",
+      "fetched": "2026-04-16T22:18:24.655858+07:00"
+    },
+    {
+      "id": "03cbc5d93c23a13555db9a4817847f28",
+      "title": "CLB Đà Nẵng có cú 'quay xe' cực gắt, tiếp tục đặt niềm tin vào HLV cũ: Không ‘Chiến’ chỉ Tuấn",
+      "link": "https://thanhnien.vn/clb-da-nang-co-cu-quay-xe-cuc-gat-tiep-tuc-dat-niem-tin-vao-hlv-cu-khong-chien-chi-tuan-185260416211731431.htm",
+      "summary": "HLV Lê Đức Tuấn sẽ tiếp tục dìu dắt CLB Đà Nẵng trong phần còn lại của mùa giải nhờ sự tín nhiệm từ các cầu thủ đội bóng sông Hàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T14:22:00+07:00",
+      "fetched": "2026-04-16T22:18:24.656042+07:00"
+    },
+    {
       "id": "16568d248c0cc7b8a6e5a0c5d759aa3a",
       "title": "Đêm nay, miền Bắc có nơi mưa to, nguy cơ dông lốc, mưa đá",
       "link": "https://tuoitre.vn/dem-nay-mien-bac-co-noi-mua-to-nguy-co-dong-loc-mua-da-20260416112717034.htm",
@@ -603,6 +823,216 @@ window.newsData_2026_04_16 = {
       "fetched": "2026-04-16T14:19:12.005159+07:00"
     },
     {
+      "id": "13711278b90d7c3dd04dea1eb2c7ddd4",
+      "title": "Lầu Năm Góc họp báo quan trọng, tuyên bố sẽ truy đuổi tàu Iran 'khắp thế giới'",
+      "link": "https://thanhnien.vn/lau-nam-goc-hop-bao-quan-trong-tuyen-bo-se-truy-duoi-tau-iran-khap-the-gioi-185260416210054192.htm",
+      "summary": "Lãnh đạo quân đội Mỹ khẳng định Mỹ đang kiểm soát eo biển Hormuz nhờ chênh lệch lực lượng hải quân, đồng thời đưa ra thêm cảnh báo đến Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T14:06:00+07:00",
+      "fetched": "2026-04-16T22:18:24.656210+07:00"
+    },
+    {
+      "id": "4566a211d242a994e5477260a34e789e",
+      "title": "Động thái của ca sĩ Hương Tràm giữa bão phẫn nộ",
+      "link": "https://thanhnien.vn/dong-thai-cua-ca-si-huong-tram-giua-bao-phan-no-185260416200301524.htm",
+      "summary": "Giữa 'bão phẫn nộ' xoay quanh giải thưởng vừa nhận được, ca sĩ Hương Tràm có những chia sẻ gây chú ý trên trang cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T14:02:00+07:00",
+      "fetched": "2026-04-16T22:18:24.656366+07:00"
+    },
+    {
+      "id": "433c658b11c2811f220fb0dab081914c",
+      "title": "Chú chồng độc thân nhiều tiền vàng nhưng vợ chồng tôi phải gánh tiền ăn lẫn viện phí",
+      "link": "https://vnexpress.net/chu-chong-doc-than-nhieu-tien-vang-nhung-vo-chong-toi-phai-ganh-tien-an-lan-vien-phi-5063279.html",
+      "summary": "'Cứ lo đi, sau này ông ấy cho nhà và tài sản' - tôi nghe những họ hàng nói vậy chứ chú chưa hề đề cập và khẳng định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T14:00:00+07:00",
+      "fetched": "2026-04-16T22:18:21.775365+07:00"
+    },
+    {
+      "id": "72c1e50573b5a516dffef118881f77eb",
+      "title": "Đàn ong hơn 5,6 triệu con bên dưới nghĩa trang New York",
+      "link": "https://vnexpress.net/dan-ong-hon-5-6-trieu-con-ben-duoi-nghia-trang-new-york-5063218.html",
+      "summary": "Nghĩa trang East Lawn ở New York là nơi làm tổ của 5,6 triệu con ong, trở thành một trong những quần thể ong lớn nhất và lâu đời nhất tại Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T14:00:00+07:00",
+      "fetched": "2026-04-16T22:18:21.775527+07:00"
+    },
+    {
+      "id": "72c1e50573b5a516dffef118881f77eb",
+      "title": "Đàn ong hơn 5,6 triệu con bên dưới nghĩa trang New York",
+      "link": "https://vnexpress.net/dan-ong-hon-5-6-trieu-con-ben-duoi-nghia-trang-new-york-5063218.html",
+      "summary": "Nghĩa trang East Lawn ở New York là nơi làm tổ của 5,6 triệu con ong, trở thành một trong những quần thể ong lớn nhất và lâu đời nhất tại Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-16T14:00:00+07:00",
+      "fetched": "2026-04-16T22:18:27.172634+07:00"
+    },
+    {
+      "id": "52017ffe656885767e6270081d2db347",
+      "title": "Cho vay nặng lãi 530%",
+      "link": "https://vnexpress.net/cho-vay-nang-lai-530-5063357.html",
+      "summary": "Nguyễn Ngọc Tuấn, 35 tuổi cùng Phạm Huỳnh Thanh Trúc, 24 tuổi, bị khởi tố do cho vay với lãi suất gấp 26 lần quy định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:58:42+07:00",
+      "fetched": "2026-04-16T22:18:21.775687+07:00"
+    },
+    {
+      "id": "a6d048cbf04911237d9fa6bb3a598646",
+      "title": "Phi vụ 'chạy án' 5 tỉ đồng giao dịch trên chiếc ô tô Lexus 570",
+      "link": "https://thanhnien.vn/phi-vu-chay-an-5-ti-dong-giao-dich-tren-chiec-o-to-lexus-570-185260416204119629.htm",
+      "summary": "Để 'chạy' tại ngoại cho chồng, người phụ nữ để chiếc túi đựng 5 tỉ đồng lên ô tô Lexus 570, ngay trước cổng trại tạm giam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:55:00+07:00",
+      "fetched": "2026-04-16T22:18:24.656520+07:00"
+    },
+    {
+      "id": "ec089d5cd9827952ecf50d49c43dc3af",
+      "title": "Hai thanh niên dán đè mã QR, lừa tiền 86 người mua hàng",
+      "link": "https://vnexpress.net/hai-thanh-nien-dan-de-ma-qr-lua-tien-86-nguoi-mua-hang-5063359.html",
+      "summary": "Nguyễn Duy Minh và Tướng Đình Trực dán đè mã QR tài khoản ngân hàng của mình lên QR của các cửa hàng để lừa đảo 86 người mua chuyển tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:54:47+07:00",
+      "fetched": "2026-04-16T22:18:21.775856+07:00"
+    },
+    {
+      "id": "4d117e95ac06f111da3b40c2c10a8264",
+      "title": "Ô tô con bị 'kẹp thịt' vì vượt ẩu trên đèo",
+      "link": "https://thanhnien.vn/o-to-con-bi-kep-thit-vi-vuot-au-tren-deo-185260416115054541.htm",
+      "summary": "Tài xế cố tình lái ô tô con lấn làn, vượt ẩu tại khu vực đường đèo khuất tầm nhìn, suýt dẫn đến tai nạn đối đầu với một xe tải ngược hướng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:54:00+07:00",
+      "fetched": "2026-04-16T22:18:24.656671+07:00"
+    },
+    {
+      "id": "1c676bd3490a4407849e45786a16dde5",
+      "title": "Xe máy số 'Made in Malaysia' tham vọng cạnh tranh Honda Wave Alpha, Yamaha Sirius",
+      "link": "https://thanhnien.vn/xe-may-so-made-in-malaysia-tham-vong-canh-tranh-honda-wave-alpha-yamaha-sirius-185260416101230318.htm",
+      "summary": "Mẫu xe máy số phổ thông Aveta VS115 V3 sản xuất tại Malaysia sở hữu kiểu dáng thiết kế thể thao, động cơ 113cc và có cả cổng sạc Type-A, Type-C cho các thiết bị di động… vừa được tung ra thị trường Đông Nam Á, tham vọng cạnh tranh Honda Wave Alpha, Yamaha Sirius.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:54:00+07:00",
+      "fetched": "2026-04-16T22:18:24.656822+07:00"
+    },
+    {
+      "id": "4614d7948516125fc91cc1824a4efea4",
+      "title": "Tư lệnh Pakistan 'giúp thu hẹp khác biệt' giữa Mỹ - Iran",
+      "link": "https://vnexpress.net/tu-lenh-pakistan-giup-thu-hep-khac-biet-giua-my-iran-5063272.html",
+      "summary": "Quan chức Pakistan cho biết chuyến thăm của tư lệnh quân đội Asim Munir đến Tehran giúp giảm bất đồng trong đàm phán hòa bình Mỹ - Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:47:58+07:00",
+      "fetched": "2026-04-16T22:18:21.776031+07:00"
+    },
+    {
+      "id": "4614d7948516125fc91cc1824a4efea4",
+      "title": "Tư lệnh Pakistan 'giúp thu hẹp khác biệt' giữa Mỹ - Iran",
+      "link": "https://vnexpress.net/tu-lenh-pakistan-giup-thu-hep-khac-biet-giua-my-iran-5063272.html",
+      "summary": "Quan chức Pakistan cho biết chuyến thăm của tư lệnh quân đội Asim Munir đến Tehran giúp giảm bất đồng trong đàm phán hòa bình Mỹ - Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-16T13:47:58+07:00",
+      "fetched": "2026-04-16T22:18:27.172825+07:00"
+    },
+    {
+      "id": "9f1b3d700dc9828acf2d5deda2224e19",
+      "title": "'Kê' khống chất bổ, sản xuất 187.000 hộp sữa giả cho bà bầu, người đau yếu",
+      "link": "https://vnexpress.net/ke-khong-chat-bo-san-xuat-187-000-hop-sua-gia-cho-ba-bau-nguoi-dau-yeu-5063229.html",
+      "summary": "Công ty Rance Pharma và Hacofood Group bị cáo buộc đã sản xuất hơn 187.000 hộp sữa giả cho bà bầu, trẻ sơ sinh, người bị tiểu đường, suy thận và bán ra gần hết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:43:01+07:00",
+      "fetched": "2026-04-16T22:18:21.776210+07:00"
+    },
+    {
+      "id": "f8f9e78ca40aa6b57f7c82e82cb031c0",
+      "title": "Trợ lý cũ của HLV Park Hang-seo xuất hiện ở CLB Ninh Bình, ông Vũ Tiến Thành đi đâu?",
+      "link": "https://thanhnien.vn/tro-ly-cu-cua-hlv-park-hang-seo-xuat-hien-o-clb-ninh-binh-ong-vu-tien-thanh-di-dau-185260416202634388.htm",
+      "summary": "Khi HLV Bae Ji-won chính thức nhận nhiệm vụ, có buổi tập đầu tiên cùng CLB Ninh Bình, HLV Vũ Tiến Thành cũng lùi về sau 'cánh gà'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:33:00+07:00",
+      "fetched": "2026-04-16T22:18:24.656984+07:00"
+    },
+    {
+      "id": "c5bdcfbe472001bc151b16edb5c6ae17",
+      "title": "Đà Nẵng tính toán đưa Làng đại học vào phía nam thành phố",
+      "link": "https://thanhnien.vn/da-nang-tinh-toan-dua-lang-dai-hoc-vao-phia-nam-thanh-pho-185260416190352003.htm",
+      "summary": "Đà Nẵng đang nghiên cứu phương án đưa Làng đại học Đà Nẵng về khu vực phía nam thành phố, gắn với không gian đô thị cũ của Tam Kỳ. Đây được xem là bước đi chiến lược nhằm giảm áp lực hạ tầng giáo dục khu vực trung tâm...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:26:00+07:00",
+      "fetched": "2026-04-16T22:18:24.657163+07:00"
+    },
+    {
+      "id": "910451f6660e9ce4e5f29d58262bf9ed",
+      "title": "Sẽ không quy định cứng ngưỡng doanh thu miễn thuế với hộ kinh doanh",
+      "link": "https://vnexpress.net/se-khong-quy-dinh-cung-nguong-doanh-thu-mien-thue-voi-ho-kinh-doanh-5063271.html",
+      "summary": "Bộ Tài chính đề xuất Chính phủ quy định ngưỡng doanh thu miễn thuế thu nhập cá nhân, giá trị gia tăng của hộ kinh doanh, thay vì cố định 500 triệu đồng như hiện hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:17:28+07:00",
+      "fetched": "2026-04-16T22:18:21.776368+07:00"
+    },
+    {
+      "id": "910451f6660e9ce4e5f29d58262bf9ed",
+      "title": "Sẽ không quy định cứng ngưỡng doanh thu miễn thuế với hộ kinh doanh",
+      "link": "https://vnexpress.net/se-khong-quy-dinh-cung-nguong-doanh-thu-mien-thue-voi-ho-kinh-doanh-5063271.html",
+      "summary": "Bộ Tài chính đề xuất Chính phủ quy định ngưỡng doanh thu miễn thuế thu nhập cá nhân, giá trị gia tăng của hộ kinh doanh, thay vì cố định 500 triệu đồng như hiện hành.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-16T13:17:28+07:00",
+      "fetched": "2026-04-16T22:18:28.214653+07:00"
+    },
+    {
+      "id": "4aa7636f78f3d8abe8f0e6254c2633c3",
+      "title": "Giải thể Ủy ban An toàn giao thông quốc gia",
+      "link": "https://vnexpress.net/giai-the-uy-ban-an-toan-giao-thong-quoc-gia-5063348.html",
+      "summary": "Từ 1/6, Ủy ban An toàn giao thông quốc gia, Ban An toàn giao thông địa phương sẽ giải thể; việc theo dõi, tổng hợp tình hình an toàn giao thông được chuyển cho công an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:17:23+07:00",
+      "fetched": "2026-04-16T22:18:21.776524+07:00"
+    },
+    {
+      "id": "8daad15f391a196fbc83c9f535ca4733",
+      "title": "Tiểu thuyết về án oan nổi tiếng thời Trần",
+      "link": "https://vnexpress.net/tieu-thuyet-ve-an-oan-noi-tieng-thoi-tran-5062697.html",
+      "summary": "Tiểu thuyết lịch sử \"Cúc giậu đông\", tác giả Phạm Giai Quỳnh, đề cập vụ án oan nổi tiếng nhà Trần, khi vua Trần Minh Tông giết cha vợ Trần Quốc Chẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:10:57+07:00",
+      "fetched": "2026-04-16T22:18:21.776686+07:00"
+    },
+    {
+      "id": "5f08c53f917b86f4704e341eb1a77540",
+      "title": "Phó tổng giám đốc FPT: Chúng tôi đã có nhiều nỗ lực để ổn định giá cổ phiếu",
+      "link": "https://vnexpress.net/pho-tong-giam-doc-fpt-chung-toi-da-co-nhieu-no-luc-de-on-dinh-gia-co-phieu-5063338.html",
+      "summary": "Sau khi cổ phiếu giảm 20% trong một năm qua, ông Nguyễn Thế Phương, Phó tổng giám đốc FPT khẳng định công ty đã có nhiều nỗ lực để ổn định giá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:06:54+07:00",
+      "fetched": "2026-04-16T22:18:21.776853+07:00"
+    },
+    {
+      "id": "5f08c53f917b86f4704e341eb1a77540",
+      "title": "Phó tổng giám đốc FPT: Chúng tôi đã có nhiều nỗ lực để ổn định giá cổ phiếu",
+      "link": "https://vnexpress.net/pho-tong-giam-doc-fpt-chung-toi-da-co-nhieu-no-luc-de-on-dinh-gia-co-phieu-5063338.html",
+      "summary": "Sau khi cổ phiếu giảm 20% trong một năm qua, ông Nguyễn Thế Phương, Phó tổng giám đốc FPT khẳng định công ty đã có nhiều nỗ lực để ổn định giá.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-16T13:06:54+07:00",
+      "fetched": "2026-04-16T22:18:28.214833+07:00"
+    },
+    {
       "id": "579007344979a1bd06fbc941a96c201e",
       "title": "Xem nhanh 20h ngày 16.4: Nghịch lý cầu 79 tỉ xây xong ‘đắp chiếu’ chờ đường | HLV Hoàng Văn Phúc dẫn dắt ĐT nữ VN",
       "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-164-nghich-ly-cau-79-ti-xay-xong-dap-chieu-cho-duong-hlv-hoang-van-phuc-dan-dat-dt-nu-vn-185260416194235173.htm",
@@ -643,6 +1073,26 @@ window.newsData_2026_04_16 = {
       "fetched": "2026-04-16T20:06:57.290890+07:00"
     },
     {
+      "id": "65bb41cdc1909fe3d49f2495dbc55685",
+      "title": "Khoang thương gia tàu cao tốc Trung Quốc có gì đặc biệt?",
+      "link": "https://vnexpress.net/khoang-thuong-gia-tau-cao-toc-trung-quoc-co-gi-dac-biet-5063301.html",
+      "summary": "Nicole Tan, du khách Australia, mô tả các dịch vụ cao cấp bên trong khoang thương gia tàu cao tốc khi di chuyển từ Thượng Hải đến Bắc Kinh hồi tháng 1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:00:00+07:00",
+      "fetched": "2026-04-16T22:18:21.777030+07:00"
+    },
+    {
+      "id": "64d10898ec046229f973317d1501683e",
+      "title": "Iran có thể gỡ phong tỏa một phần eo biển Hormuz?",
+      "link": "https://thanhnien.vn/iran-co-the-go-phong-toa-mot-phan-eo-bien-hormuz-185260416194248423.htm",
+      "summary": "Iran có thể xem xét cho phép tàu thuyền di chuyển tự do đi lại qua phần eo biển Hormuz giáp Oman như điều khoản mặc cả với Mỹ trên bàn đàm phán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T13:00:00+07:00",
+      "fetched": "2026-04-16T22:18:24.657314+07:00"
+    },
+    {
       "id": "31f9bfa62c6afb98a3a924f1c02da10b",
       "title": "Israel bị tố đánh sập cầu, cô lập miền nam Lebanon",
       "link": "https://vnexpress.net/israel-bi-to-danh-sap-cau-co-lap-mien-nam-lebanon-5063341.html",
@@ -661,6 +1111,16 @@ window.newsData_2026_04_16 = {
       "category": "Tổng hợp",
       "published": "2026-04-16T12:56:00+07:00",
       "fetched": "2026-04-16T20:06:54.935788+07:00"
+    },
+    {
+      "id": "59c901b46103f5e79490a843b47460c8",
+      "title": "Một khách hàng trúng Jackpot gần 92 tỷ đồng",
+      "link": "https://vnexpress.net/mot-khach-hang-trung-jackpot-gan-92-ty-dong-5063350.html",
+      "summary": "Tối 16/4, Công ty Xổ số điện toán Việt Nam (Vietlott) xác định được một khách hàng trúng Jackpot trị giá hơn 91,8 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-16T12:54:26+07:00",
+      "fetched": "2026-04-16T22:18:28.214998+07:00"
     },
     {
       "id": "0867ac0a43c0d5894249052f538d2ecf",
@@ -851,6 +1311,16 @@ window.newsData_2026_04_16 = {
       "category": "Công nghệ",
       "published": "2026-04-16T12:04:30+07:00",
       "fetched": "2026-04-16T20:07:02.133566+07:00"
+    },
+    {
+      "id": "1e59db3342d3c9c9841a63d183f18a1a",
+      "title": "Bên trong điều hòa 6 triệu đồng dùng máy nén Inverter",
+      "link": "https://vnexpress.net/ben-trong-dieu-hoa-6-trieu-dong-dung-may-nen-inverter-5063154.html",
+      "summary": "Điều hòa Casper JC-09IU36 có giá 6 triệu đồng nhưng sử dụng máy nén của Panasonic với công nghệ biến tần Advanced Inverter tiết kiệm điện.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-16T12:04:30+07:00",
+      "fetched": "2026-04-16T22:18:30.748143+07:00"
     },
     {
       "id": "9b81a30f03b02e8b732e30c98c2be69c",
