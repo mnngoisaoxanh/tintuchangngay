@@ -1,7 +1,27 @@
 window.newsData_2026_04_17 = {
   "date": "2026-04-17",
-  "lastUpdated": "2026-04-17T01:59:15.416071+07:00",
+  "lastUpdated": "2026-04-17T03:38:57.356942+07:00",
   "articles": [
+    {
+      "id": "2b0539d409b8a8f3f457dc6bf3f6dc66",
+      "title": "Nhà vô địch pickleball Phúc Huỳnh đổi hướng đánh đôi",
+      "link": "https://tuoitre.vn/nha-vo-dich-pickleball-phuc-huynh-doi-huong-danh-doi-20260417000702887.htm",
+      "summary": "Phúc Huỳnh sẽ tập trung cho nội dung đánh đôi khi lựa chọn được vũ khí mới cùng đối tác là Đạt \"Trố\" trong những kế hoạch thi đấu pickleball trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T03:38:47.309760+07:00",
+      "fetched": "2026-04-17T03:38:47.309896+07:00"
+    },
+    {
+      "id": "cc9a5b40aa9fc4c7150bb1333cf8fac4",
+      "title": "Thời tiết hôm nay 17-4: Bắc Bộ mưa to; Nam Bộ ngày nắng, chiều mưa dông",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-17-4-bac-bo-mua-to-nam-bo-ngay-nang-chieu-mua-dong-20260416162356857.htm",
+      "summary": "Hôm nay 17-4, nhiều nơi như Bắc Bộ, cao nguyên Trung Bộ mưa to. Nam Bộ ngày nắng, chiều tối có mưa dông giải nhiệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T03:38:47.309473+07:00",
+      "fetched": "2026-04-17T03:38:47.309743+07:00"
+    },
     {
       "id": "d3ff5ca8f34be461df681b9bc3ec371b",
       "title": "Diễn tập quy mô lớn chưa từng có ứng phó sự cố quá tải đường dây gây nguy cơ mất điện diện rộng",
@@ -191,6 +211,66 @@ window.newsData_2026_04_17 = {
       "category": "Tổng hợp",
       "published": "2026-04-17T00:03:12.908009+07:00",
       "fetched": "2026-04-17T00:03:12.908203+07:00"
+    },
+    {
+      "id": "bd4ae3eaa1fb864cdbc82cc348ad57ce",
+      "title": "Đội tuyển nữ Việt Nam bước sang chương mới",
+      "link": "https://thanhnien.vn/doi-tuyen-nu-viet-nam-buoc-sang-chuong-moi-185260416215549737.htm",
+      "summary": "Đội tuyển nữ VN sẽ có nhiều thay đổi lớn dưới sự dẫn dắt của tân HLV trưởng Hoàng Văn Phúc - người thay thế ông Mai Đức Chung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T20:06:00+07:00",
+      "fetched": "2026-04-17T03:38:45.830059+07:00"
+    },
+    {
+      "id": "f4f68221877500969b28b74b28c26814",
+      "title": "Súc miệng bằng dầu dừa giúp trắng răng, giảm hôi",
+      "link": "https://vnexpress.net/suc-mieng-bang-dau-dua-giup-trang-rang-giam-hoi-5062621.html",
+      "summary": "Súc miệng bằng dầu dừa đúng cách kết hợp vệ sinh răng miệng sạch sẽ có thể giúp hạn chế vi khuẩn, mảng bám và hôi miệng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T20:00:00+07:00",
+      "fetched": "2026-04-17T03:38:42.497986+07:00"
+    },
+    {
+      "id": "3970ec6e7d016dc9104f930ac63bc4d0",
+      "title": "Nhân viên taxi Vinasun thu nhập bình quân hơn 13 triệu đồng mỗi tháng",
+      "link": "https://vnexpress.net/nhan-vien-taxi-vinasun-thu-nhap-binh-quan-hon-13-trieu-dong-moi-thang-5063393.html",
+      "summary": "Doanh thu giảm mạnh nhưng thu nhập mỗi tháng của nhân viên taxi Vinasun năm ngoái cải thiện từ 12,9 triệu đồng lên 13,18 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T19:59:26+07:00",
+      "fetched": "2026-04-17T03:38:42.498180+07:00"
+    },
+    {
+      "id": "3970ec6e7d016dc9104f930ac63bc4d0",
+      "title": "Nhân viên taxi Vinasun thu nhập bình quân hơn 13 triệu đồng mỗi tháng",
+      "link": "https://vnexpress.net/nhan-vien-taxi-vinasun-thu-nhap-binh-quan-hon-13-trieu-dong-moi-thang-5063393.html",
+      "summary": "Doanh thu giảm mạnh nhưng thu nhập mỗi tháng của nhân viên taxi Vinasun năm ngoái cải thiện từ 12,9 triệu đồng lên 13,18 triệu đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-16T19:59:26+07:00",
+      "fetched": "2026-04-17T03:38:51.683759+07:00"
+    },
+    {
+      "id": "a1be374e9781eac7a77f6b6641f69f7f",
+      "title": "Hoài nghi về 'khoản hoàn thuế 11.000 USD' của nhân viên giao hàng Mỹ",
+      "link": "https://vnexpress.net/hoai-nghi-ve-khoan-hoan-thue-11-000-usd-cua-nhan-vien-giao-hang-my-5063069.html",
+      "summary": "Nhà Trắng tuyên bố một nhân viên giao đồ ăn tiết kiệm được 11.000 USD nhờ chính sách không áp thuế tiền boa của ông Trump, nhưng con số này không phù hợp với tính toán trên thực tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T19:00:00+07:00",
+      "fetched": "2026-04-17T03:38:42.498353+07:00"
+    },
+    {
+      "id": "a1be374e9781eac7a77f6b6641f69f7f",
+      "title": "Hoài nghi về 'khoản hoàn thuế 11.000 USD' của nhân viên giao hàng Mỹ",
+      "link": "https://vnexpress.net/hoai-nghi-ve-khoan-hoan-thue-11-000-usd-cua-nhan-vien-giao-hang-my-5063069.html",
+      "summary": "Nhà Trắng tuyên bố một nhân viên giao đồ ăn tiết kiệm được 11.000 USD nhờ chính sách không áp thuế tiền boa của ông Trump, nhưng con số này không phù hợp với tính toán trên thực tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-16T19:00:00+07:00",
+      "fetched": "2026-04-17T03:38:49.490420+07:00"
     },
     {
       "id": "86bef64cff6c059356d997cce971dade",
