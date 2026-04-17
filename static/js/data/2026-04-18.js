@@ -1,6 +1,6 @@
 window.newsData_2026_04_18 = {
   "date": "2026-04-18",
-  "lastUpdated": "2026-04-18T03:35:46.237333+07:00",
+  "lastUpdated": "2026-04-18T05:29:18.148635+07:00",
   "articles": [
     {
       "id": "4268b0535c0aef5e6a624da5f15ebe5b",
@@ -151,6 +151,186 @@ window.newsData_2026_04_18 = {
       "category": "Tổng hợp",
       "published": "2026-04-18T01:43:37.070428+07:00",
       "fetched": "2026-04-18T01:43:37.070667+07:00"
+    },
+    {
+      "id": "b77ad98a855785226442301d3eadec9a",
+      "title": "Tử vi ngày 18 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-18-thang-4-con-giap-nao-may-man-hom-nay-185260417231117103.htm",
+      "summary": "Tử vi ngày 18 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm đáng chú ý là khả năng kết nối lại - những mối quan hệ, công việc hoặc cơ hội tưởng chừng rời rạc có thể bất ngờ liên kết với nhau. Tài lộc không chỉ đến từ nỗ lực cá nhân, mà còn từ cách bạn tương tác và tận dụng các mối liê...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T22:15:00+07:00",
+      "fetched": "2026-04-18T05:29:07.957826+07:00"
+    },
+    {
+      "id": "c14f9b8fae8892530d1df82104338975",
+      "title": "Ông Trump nói gì về loạt nhà khoa học Mỹ mất tích bí ẩn?",
+      "link": "https://thanhnien.vn/ong-trump-noi-gi-ve-loat-nha-khoa-hoc-my-mat-tich-bi-an-185260417191355307.htm",
+      "summary": "Ít nhất 10 nhà khoa học, tướng quân đội Mỹ bị mất tích hoặc chết bí ẩn trong khoảng 3 năm trở lại đây, gây sự chú ý từ chính quyền Tổng thống Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T22:15:00+07:00",
+      "fetched": "2026-04-18T05:29:07.957998+07:00"
+    },
+    {
+      "id": "b62cb06684739b189693a91ac4e5b720",
+      "title": "Bài toán Hezbollah cho hòa bình Trung Đông",
+      "link": "https://thanhnien.vn/bai-toan-hezbollah-cho-hoa-binh-trung-dong-185260417222253548.htm",
+      "summary": "Dù Israel và Li Băng đã đạt lệnh ngừng bắn, nhưng vấn đề Hezbollah không chỉ là rào cản lớn cho thỏa thuận giữa hai nước mà còn cả cuộc chiến Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T22:00:00+07:00",
+      "fetched": "2026-04-18T05:29:07.958136+07:00"
+    },
+    {
+      "id": "723560de30bb25be0ffcbb9f24574637",
+      "title": "Doanh nghiệp phường Cát Lái đón 'cơ hội vàng' từ cảng nội địa top 20 thế giới",
+      "link": "https://thanhnien.vn/doanh-nghiep-phuong-cat-lai-don-co-hoi-vang-tu-cang-noi-dia-top-20-the-gioi-185260417204638268.htm",
+      "summary": "Sở hữu cảng nội địa top 20 lớn nhất thế giới, doanh nghiệp phường Cát Lái đón cơ hội bứt phá mạnh về logistics, mở rộng thị trường và nâng cao năng lực cạnh tranh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T22:00:00+07:00",
+      "fetched": "2026-04-18T05:29:07.958266+07:00"
+    },
+    {
+      "id": "f2459ad82d423df9f4492176bda2c176",
+      "title": "Dỡ nhà, bàn giao mặt bằng mở rộng quốc lộ 13: ‘mong mỏi nơi tái định cư’",
+      "link": "https://thanhnien.vn/do-nha-ban-giao-mat-bang-mo-rong-quoc-lo-13-mong-moi-noi-tai-dinh-cu-185260417160937103.htm",
+      "summary": "Nhiều hộ chủ động di dời, cắt bỏ mặt tiền, sửa sang lại nơi ở để bàn giao mặt bằng cho dự án mở rộng quốc lộ 13. Với hàng trăm hộ dân, một chính sách tái định cư thấu tình đạt lý chính là \"điểm tựa\" quan trọng nhất để họ yên tâm nhường đất và sớm ổn định lại cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T22:00:00+07:00",
+      "fetched": "2026-04-18T05:29:07.958394+07:00"
+    },
+    {
+      "id": "4948c8161218ff04ca4ab314759fcc4d",
+      "title": "Lịch âm hôm nay: Ngày 18.4 là ngày gì mà nhiều người mong may mắn gõ cửa?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-184-la-ngay-gi-ma-nhieu-nguoi-mong-may-man-go-cua-185260417103117193.htm",
+      "summary": "Ngày 18.4 là ngày gì mà theo lịch vạn niên, lịch âm hôm nay, nhiều người mong may mắn gõ cửa đầu tháng 3?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T22:00:00+07:00",
+      "fetched": "2026-04-18T05:29:07.958516+07:00"
+    },
+    {
+      "id": "a85119fa1acd5862821eef47d0f4f906",
+      "title": "Bí quyết sống hạnh phúc nhờ những mối quan hệ bạn bè này",
+      "link": "https://thanhnien.vn/bi-quyet-song-hanh-phuc-nho-nhung-moi-quan-he-ban-be-nay-185260416163623761.htm",
+      "summary": "Trong cuộc sống, sở hữu một mạng lưới quan hệ bạn bè rộng lớn chưa chắc đã mang lại sự thỏa mãn, đôi khi còn khiến chúng ta rơi vào cảm giác cô đơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T22:00:00+07:00",
+      "fetched": "2026-04-18T05:29:07.958635+07:00"
+    },
+    {
+      "id": "f2aae6cd15b7750bfcbc0e4cb73bdaba",
+      "title": "Thập kỷ tiến nhanh của hợp tác kinh tế Việt Nam - Trung Quốc",
+      "link": "https://vnexpress.net/thap-ky-tien-nhanh-cua-hop-tac-kinh-te-viet-nam-trung-quoc-5063366.html",
+      "summary": "Thương mại song phương Việt Nam - Trung Quốc tăng bốn lần trong thập kỷ qua, FDI tăng ba lần 5 năm gần đây, với nhiều triển vọng giai đoạn tới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-17T22:00:00+07:00",
+      "fetched": "2026-04-18T05:29:12.569433+07:00"
+    },
+    {
+      "id": "ac80e9de26435c1d8b3703b2c017d34e",
+      "title": "Bên trong hệ thống điện phân sản xuất hydrogen do người Việt chế tạo",
+      "link": "https://vnexpress.net/ben-trong-he-thong-dien-phan-san-xuat-hydrogen-do-nguoi-viet-che-tao-5063377.html",
+      "summary": "IDF-EX1000X là thiết bị điện phân sản xuất hydro sạch từ nước, do Indefol làm chủ 50% công nghệ, vận hành bằng nguồn năng lượng tái tạo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-17T22:00:00+07:00",
+      "fetched": "2026-04-18T05:29:16.000652+07:00"
+    },
+    {
+      "id": "5c3de767f9da9574f97d18d449e3b6a6",
+      "title": "Diễn viên Võ Điền Gia Huy lên tiếng về tin đồn đời tư",
+      "link": "https://thanhnien.vn/dien-vien-vo-dien-gia-huy-len-tieng-ve-tin-don-doi-tu-185260418024517278.htm",
+      "summary": "Thông qua trang cá nhân, diễn viên Võ Điền Gia Huy đăng tải bài viết đính chính thông tin liên quan đến đời tư. Nam diễn viên bày tỏ sự khó xử khi làm ảnh hưởng đến những người bạn, người đồng nghiệp của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T21:53:00+07:00",
+      "fetched": "2026-04-18T05:29:07.958765+07:00"
+    },
+    {
+      "id": "4c76be86efd0540827ab2a73b4569400",
+      "title": "'Tứ đại gia' Đại Cứ Hòa Sơn là ai?",
+      "link": "https://thanhnien.vn/tu-dai-gia-dai-cu-hoa-son-la-ai-185260417220252673.htm",
+      "summary": "Để một cuốn sách chạm tay độc giả, phía sau là hành trình nhọc nhằn của bao người với những công việc thầm lặng, mà nếu thiếu đam mê hẳn khó lòng trụ lại. Có những người dù xuất thân từ các ngành nghề khác nhau nhưng bỗng một ngày lại cùng chung đam mê làm sách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T21:49:00+07:00",
+      "fetched": "2026-04-18T05:29:07.958889+07:00"
+    },
+    {
+      "id": "9ecbecca1769a9558db611ae65ff38b2",
+      "title": "Nha sĩ = nha xỉ?",
+      "link": "https://thanhnien.vn/nha-si-nha-xi-185260417220959862.htm",
+      "summary": "Nhìn chung, nha sĩ và nha xỉ là hai từ viết đúng chính tả, có sự tương đồng và khác biệt về nghĩa. Xin \"chiết tự\" như sau:",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T21:47:00+07:00",
+      "fetched": "2026-04-18T05:29:07.959024+07:00"
+    },
+    {
+      "id": "ed413001c677303f31239b9431c291f5",
+      "title": "Chiến sự Ukraine ngày 1.514: Lãnh thổ bị tấn công, Nga ra tuyên bố mới",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1514-lanh-tho-bi-tan-cong-nga-ra-tuyen-bo-moi-185260417192351439.htm",
+      "summary": "Bộ Quốc phòng Nga tuyên bố đã bắn hạ hơn 60 UAV do Ukraine phóng vào 7 tỉnh thuộc Nga và bán đảo Crimea trong một đêm, trong khi hơn 20 UAV, tên lửa Nga xuyên thủng hệ thống phòng thủ Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T21:33:00+07:00",
+      "fetched": "2026-04-18T05:29:07.959148+07:00"
+    },
+    {
+      "id": "089c86a18ff40fa362f930bc1862ddff",
+      "title": "Tình hình Iran, Trung Đông ngày 18.4: Rất nhiều bước chuyển mới",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-ngay-184-rat-nhieu-buoc-chuyen-moi-185260417214723916.htm",
+      "summary": "Khu vực Trung Đông đang theo dõi những diễn biến tiếp theo sau khi Iran tuyên bố mở cửa hoàn toàn eo biển Hormuz trong thời gian còn lại của lệnh ngừng bắn đã đạt được với Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T21:30:00+07:00",
+      "fetched": "2026-04-18T05:29:07.959272+07:00"
+    },
+    {
+      "id": "80acbba9db650ca7639d850e0618645a",
+      "title": "Người dân TP.HCM xúc động khi được khám sức khỏe miễn phí: ‘Quý giá vô cùng’",
+      "link": "https://thanhnien.vn/nguoi-dan-tphcm-xuc-dong-khi-duoc-kham-suc-khoe-mien-phi-quy-gia-vo-cung-185260417154507003.htm",
+      "summary": "Hàng ngàn người dân TP.HCM vui mừng khi được các y bác sĩ từ hơn 100 bệnh viện về tận địa phương khám sức khỏe miễn phí vào ngày 17.4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T21:30:00+07:00",
+      "fetched": "2026-04-18T05:29:07.959404+07:00"
+    },
+    {
+      "id": "9236a6bb9e970421c15309224c876da1",
+      "title": "Thịt gà hay thịt bò: Đâu mới là 'chân ái' cho người tập gym?",
+      "link": "https://thanhnien.vn/thit-ga-hay-thit-bo-dau-moi-la-chan-ai-cho-nguoi-tap-gym-185260417200019803.htm",
+      "summary": "'Ăn thịt gà hay thịt bò để tăng cơ nhanh hơn' là câu hỏi của rất nhiều người tập gym. Cả hai đều là nguồn protein động vật chất lượng cao, vốn là dưỡng chất quan trọng giúp cơ bắp phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T21:05:00+07:00",
+      "fetched": "2026-04-18T05:29:07.959529+07:00"
+    },
+    {
+      "id": "77f1db0f33b6a49426c1adb71d4d668a",
+      "title": "Hàng không Việt mở rộng mạng bay quốc tế đón cao điểm hè",
+      "link": "https://vnexpress.net/hang-khong-viet-mo-rong-mang-bay-quoc-te-don-cao-diem-he-5063553.html",
+      "summary": "Các hãng hàng không Việt Nam đồng loạt mở thêm đường bay quốc tế tới Trung Quốc, Nhật Bản, Đông Nam Á và châu Âu, nhằm đón nhu cầu du lịch và giao thương tăng cao dịp hè 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T21:00:00+07:00",
+      "fetched": "2026-04-18T05:29:04.776141+07:00"
+    },
+    {
+      "id": "1d95496cb6e52b7279055155d36e018c",
+      "title": "Nhu cầu mua xe gầm cao cỡ B tăng cao",
+      "link": "https://vnexpress.net/nhu-cau-mua-xe-gam-cao-co-b-tang-cao-5063288.html",
+      "summary": "Gần 20.500 xe CUV cỡ B bán ra sau quý I, tăng 62% so với cùng kỳ 2025, VF 6 và Yaris Cross vẫn dẫn đầu doanh số phân khúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T21:00:00+07:00",
+      "fetched": "2026-04-18T05:29:04.776310+07:00"
     },
     {
       "id": "6078c7ef3c61d11f625264cf41f3b732",
