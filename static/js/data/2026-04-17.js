@@ -1,7 +1,157 @@
 window.newsData_2026_04_17 = {
   "date": "2026-04-17",
-  "lastUpdated": "2026-04-17T21:47:48.415544+07:00",
+  "lastUpdated": "2026-04-17T23:43:45.795189+07:00",
   "articles": [
+    {
+      "id": "9bc25b80e6012a255ca588ebbfc8d774",
+      "title": "Phu nhân Ngô Phương Ly tại điểm hẹn của những âm vang hữu nghị Việt - Trung",
+      "link": "https://tuoitre.vn/phu-nhan-ngo-phuong-ly-tai-diem-hen-cua-nhung-am-vang-huu-nghi-viet-trung-20260417210444818.htm",
+      "summary": "Một điểm đến của Phu nhân Ngô Phương Ly tại Nam Ninh (Trung Quốc) ngày 16-4 cho thấy cách âm nhạc bồi đắp hiểu biết, làm giàu tình hữu nghị giữa nhân dân Việt Nam - Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.655234+07:00",
+      "fetched": "2026-04-17T23:43:38.655347+07:00"
+    },
+    {
+      "id": "4268b0535c0aef5e6a624da5f15ebe5b",
+      "title": "Đặt nguyện vọng vào lớp 10 Hà Nội: Sát giờ chót vẫn 'tim đập chân run'",
+      "link": "https://tuoitre.vn/dat-nguyen-vong-vao-lop-10-ha-noi-sat-gio-chot-van-tim-dap-chan-run-20260417205310556.htm",
+      "summary": "Sát giờ đóng cổng đăng ký lớp 10 Hà Nội, phụ huynh 'trực chiến' theo dõi biến động nguyện vọng như thị trường chứng khoán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.655106+07:00",
+      "fetched": "2026-04-17T23:43:38.655223+07:00"
+    },
+    {
+      "id": "5b2086bee479eccafad5d9377f0d219f",
+      "title": "Tăng cường mở cửa thị trường Việt Nam - Thổ Nhĩ Kỳ, sớm ký hiệp định thương mại tự do",
+      "link": "https://tuoitre.vn/tang-cuong-mo-cua-thi-truong-viet-nam-tho-nhi-ky-som-ky-hiep-dinh-thuong-mai-tu-do-20260417212619674.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn đề nghị Việt Nam - Thổ Nhĩ Kỳ mở rộng thị trường, sớm ký FTA, tăng hợp tác kinh tế, thương mại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.654975+07:00",
+      "fetched": "2026-04-17T23:43:38.655094+07:00"
+    },
+    {
+      "id": "23daa39cb085447332f7e6677dd48aba",
+      "title": "Bài tập STEM giao chung chung, học trò làm mà cả nhà phải ‘vào cuộc’",
+      "link": "https://tuoitre.vn/bai-tap-stem-giao-chung-chung-hoc-tro-lam-ma-ca-nha-phai-vao-cuoc-20260417211530347.htm",
+      "summary": "Nhiều bài tập STEM giao chung chung, thiếu hướng dẫn khiến học sinh lúng túng, phụ huynh phải ‘vào cuộc’ giúp con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.654853+07:00",
+      "fetched": "2026-04-17T23:43:38.654963+07:00"
+    },
+    {
+      "id": "ac01f47db44ec34154670ae8e2a26f7a",
+      "title": "Chủ tịch Hội đồng Liên bang Nga: Việt Nam là đối tác tin cậy nhất của Nga tại Đông Nam Á",
+      "link": "https://tuoitre.vn/chu-tich-hoi-dong-lien-bang-nga-viet-nam-la-doi-tac-tin-cay-nhat-cua-nga-tai-dong-nam-a-20260417214246209.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn hội kiến lãnh đạo Thượng viện Nga, khẳng định coi trọng quan hệ Đối tác chiến lược toàn diện, thúc đẩy hợp tác nghị viện và các lĩnh vực trọng điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.654729+07:00",
+      "fetched": "2026-04-17T23:43:38.654841+07:00"
+    },
+    {
+      "id": "d845dce4dd6a3465ae6414db03054c3a",
+      "title": "Hoàng Hên lại rực sáng, câu lạc bộ Hà Nội thắng Becamex TP.HCM",
+      "link": "https://tuoitre.vn/hoang-hen-lai-ruc-sang-cau-lac-bo-ha-noi-thang-becamex-tp-hcm-20260417215159299.htm",
+      "summary": "Tiền đạo nhập tịch Đỗ Hoàng Hên tiếp tục thể hiện phong độ thăng hoa và đóng góp quan trọng vào chiến thắng của câu lạc bộ Hà Nội trước Becamex TP.HCM ở vòng 19 LPBank V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.654600+07:00",
+      "fetched": "2026-04-17T23:43:38.654717+07:00"
+    },
+    {
+      "id": "8d7c146a22c0af390715866f2d2c5fda",
+      "title": "15 năm gắn bó học sinh khiếm thị, Trần Thế Phong ra sách ảnh Vượt qua bóng tối 2",
+      "link": "https://tuoitre.vn/15-nam-gan-bo-hoc-sinh-khiem-thi-tran-the-phong-ra-sach-anh-vuot-qua-bong-toi-2-20260417203913126.htm",
+      "summary": "Nhiếp ảnh gia Trần Thế Phong ra mắt sách ảnh 'Vượt qua bóng tối 2' ghi lại những khoảnh khắc và câu chuyện nghị lực của học sinh khiếm thị nhân Ngày Người khuyết tật Việt Nam 18-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.654467+07:00",
+      "fetched": "2026-04-17T23:43:38.654588+07:00"
+    },
+    {
+      "id": "c864e49be1dc7291732b57f7e9e3698a",
+      "title": "Teaser Hộ linh tráng sĩ hấp dẫn, fan bảo 'phim Việt đỉnh nhất từ trước đến giờ'",
+      "link": "https://tuoitre.vn/teaser-ho-linh-trang-si-hap-dan-fan-bao-phim-viet-dinh-nhat-tu-truoc-den-gio-20260417220041275.htm",
+      "summary": "Chỉ sau 1 ngày ra mắt, teaser Hộ linh tráng sĩ: Bí ẩn mộ vua Đinh nhanh chóng ghi nhận gần 500.000 lượt xem trên YouTube và nhận về loạt phản hồi tích cực từ khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.654314+07:00",
+      "fetched": "2026-04-17T23:43:38.654454+07:00"
+    },
+    {
+      "id": "8dfc025af5829432ebd9089d8601d806",
+      "title": "Biểu tượng của Belarus đến Hà Nội",
+      "link": "https://tuoitre.vn/bieu-tuong-cua-belarus-den-ha-noi-2026041710264857.htm",
+      "summary": "Gần 100 nghệ sĩ xuất sắc của Nhà hát Opera và ballet quốc gia Belarus (Bolshoi Theatre of Belarus) sẽ trở lại Hà Nội diễn trong hai đêm Bella Belarus: Những kiệt tác opera và ballet vào ngày 7 và 8-5  tại Nhà hát Hồ Gươm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.654187+07:00",
+      "fetched": "2026-04-17T23:43:38.654302+07:00"
+    },
+    {
+      "id": "25cfbd1e843933a46b506d212dba57c1",
+      "title": "Người Hàn Quốc kinh ngạc 'sao áo dài Việt có thể đẹp như vậy'",
+      "link": "https://tuoitre.vn/nguoi-han-quoc-kinh-ngac-sao-ao-dai-viet-co-the-dep-nhu-vay-20260417212655055.htm",
+      "summary": "Mỗi lần thấy những tà áo dài thướt tha theo mỗi nhịp chân bước của người mẫu trên sân khấu lễ hội văn hóa ‘Chúng ta là một - We are together’ tại Hàn Quốc, người dân xứ kim chi lại thốt lên: ‘Sao áo dài Việt có thể đẹp như vậy!’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.654059+07:00",
+      "fetched": "2026-04-17T23:43:38.654175+07:00"
+    },
+    {
+      "id": "5dca493c87ed2a93d939b101431d6d52",
+      "title": "Trung Quốc: Tàu chiến Nhật Bản đi qua eo biển Đài Loan là 'hành động khiêu khích'",
+      "link": "https://tuoitre.vn/trung-quoc-tau-chien-nhat-ban-di-qua-eo-bien-dai-loan-la-hanh-dong-khieu-khich-20260417221452913.htm",
+      "summary": "Ngày 17-4, Bộ Ngoại giao Trung Quốc nói rằng tàu quân sự của Lực lượng Phòng vệ Nhật Bản đã đi vào eo biển Đài Loan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.653931+07:00",
+      "fetched": "2026-04-17T23:43:38.654047+07:00"
+    },
+    {
+      "id": "bd33f45b713ca7df1006378c3fc79c90",
+      "title": "Bắt hiệu trưởng, chủ cơ sở thực phẩm vụ tuồn thịt heo bệnh vào trường mầm non",
+      "link": "https://tuoitre.vn/bat-hieu-truong-chu-co-so-thuc-pham-vu-tuon-thit-heo-benh-vao-truong-mam-non-20260417221535736.htm",
+      "summary": "Công an Thái Nguyên khởi tố, bắt tạm giam 3 người gồm chủ cơ sở thực phẩm, cựu hiệu trưởng và kế toán vì liên quan đường dây hối lộ để tuồn thực phẩm kém chất lượng vào trường học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.653801+07:00",
+      "fetched": "2026-04-17T23:43:38.653919+07:00"
+    },
+    {
+      "id": "b6a34f16a9f87abaa1422614761a33f2",
+      "title": "Hành hung người khác vì cho rằng 'đi láo', nam tài xế bị tạm giữ",
+      "link": "https://tuoitre.vn/hanh-hung-nguoi-khac-vi-cho-rang-di-lao-nam-tai-xe-bi-tam-giu-20260417222204958.htm",
+      "summary": "Người đàn ông lái ô tô ở Hà Nội bị tạm giữ hình sự để điều tra hành vi gây rối trật tự công cộng, sau khi chặn xe, chửi bới và hành hung tài xế khác trên đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.653668+07:00",
+      "fetched": "2026-04-17T23:43:38.653789+07:00"
+    },
+    {
+      "id": "2d0dffd5d41fb7a441d58c995b31b2c7",
+      "title": "Giá vàng bật tăng mạnh sau khi ông Trump tuyên bố eo biển Hormuz 'hoàn toàn mở cửa'",
+      "link": "https://tuoitre.vn/gia-vang-bat-tang-manh-sau-khi-ong-trump-tuyen-bo-eo-bien-hormuz-hoan-toan-mo-cua-20260417223052467.htm",
+      "summary": "Tối 17-4, giá vàng thế giới lên sát 4.880 USD/ounce sau khi Tổng thống Mỹ Donald Trump thông báo eo biển Hormuz hoàn toàn mở cửa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.653524+07:00",
+      "fetched": "2026-04-17T23:43:38.653655+07:00"
+    },
+    {
+      "id": "1b465ec8eb21575a1fdc5df0e88da1e1",
+      "title": "3 trụ cột giáo dục học sinh khuyết tật",
+      "link": "https://tuoitre.vn/3-tru-cot-giao-duc-hoc-sinh-khuyet-tat-20260417103314812.htm",
+      "summary": "Giáo dục học sinh khuyết tật không thể chỉ là được đến trường mà cần hành trình dài hướng tới hòa nhập thực chất và hiệu quả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:43:38.653260+07:00",
+      "fetched": "2026-04-17T23:43:38.653507+07:00"
+    },
     {
       "id": "93f5d6c553f60f27e22adee774f00a03",
       "title": "Giám đốc Sở Y tế TP.HCM: 104 bệnh viện về cơ sở là ‘hình ảnh rất đẹp của ngành y’",
@@ -603,6 +753,96 @@ window.newsData_2026_04_17 = {
       "fetched": "2026-04-17T16:08:12.911725+07:00"
     },
     {
+      "id": "5b97514bdc21fcf23a9f160666efb90f",
+      "title": "Tổng Bí thư, Chủ tịch nước kết thúc chuyến thăm Trung Quốc, đi tàu về Việt Nam",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-ket-thuc-chuyen-tham-trung-quoc-di-tau-ve-viet-nam-5063875.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân đi tàu từ Nam Ninh về Hà Nội, sau khi kết thúc chuyến thăm Trung Quốc ngày 14-17/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T15:40:43+07:00",
+      "fetched": "2026-04-17T23:43:34.395340+07:00"
+    },
+    {
+      "id": "5b97514bdc21fcf23a9f160666efb90f",
+      "title": "Tổng Bí thư, Chủ tịch nước kết thúc chuyến thăm Trung Quốc, đi tàu về Việt Nam",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-ket-thuc-chuyen-tham-trung-quoc-di-tau-ve-viet-nam-5063875.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân đi tàu từ Nam Ninh về Việt Nam, sau khi kết thúc chuyến thăm Trung Quốc ngày 14-17/4.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-17T15:40:43+07:00",
+      "fetched": "2026-04-17T23:43:39.873480+07:00"
+    },
+    {
+      "id": "a9a650ab58d8c3992a1d431a1879398c",
+      "title": "Hiệu trưởng bị bắt trong vụ tuồn thịt lợn bệnh vào trường học",
+      "link": "https://vnexpress.net/hieu-truong-bi-bat-trong-vu-tuon-thit-lon-benh-vao-truong-hoc-5063902.html",
+      "summary": "Hiệu trưởng Trường Mầm non Nam Hòa bị cáo buộc nhận tiền 6% trên tổng giá trị hàng hóa hộ kinh doanh cung cấp, trong đó có thịt lợn bẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T15:29:55+07:00",
+      "fetched": "2026-04-17T23:43:34.395550+07:00"
+    },
+    {
+      "id": "9896c44da34724fa8e097f9602b243a0",
+      "title": "CLB Hà Nội ngược dòng thắng Becamex TP.HCM 4-2, Hoàng Hên xuất sắc lập cú đúp",
+      "link": "https://thanhnien.vn/clb-ha-noi-nguoc-dong-thang-becamex-tphcm-4-2-hoang-hen-xuat-sac-lap-cu-dup-185260417221456093.htm",
+      "summary": "Bị dẫn trước từ rất sớm, CLB Hà Nội vẫn thể hiện bản lĩnh để lội ngược dòng đánh bại Becamex TP.HCM 4-2, qua đó rút ngắn khoảng cách với tốp 3 xuống chỉ còn 1 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T15:27:00+07:00",
+      "fetched": "2026-04-17T23:43:37.619175+07:00"
+    },
+    {
+      "id": "61f5051ccf62f3c94097c7095e69e392",
+      "title": "Phó thủ tướng yêu cầu Hà Nội, TP HCM ưu tiên TOD quanh ga metro",
+      "link": "https://vnexpress.net/pho-thu-tuong-yeu-cau-ha-noi-tp-hcm-uu-tien-tod-quanh-ga-metro-5063882.html",
+      "summary": "Phó thủ tướng Thường trực Phạm Gia Túc yêu cầu hoàn thiện cơ chế TOD, ưu tiên phát triển đô thị quanh ga metro, đồng thời thúc tiến độ các dự án đường sắt đô thị tại Hà Nội, TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T15:07:57+07:00",
+      "fetched": "2026-04-17T23:43:34.395731+07:00"
+    },
+    {
+      "id": "398a220d1bca4740764c1910e4b035e3",
+      "title": "Quảng Trị 'khoác áo mới', chờ Ngày hội đạp xe Vì hòa bình",
+      "link": "https://thanhnien.vn/quang-tri-khoac-ao-moi-cho-ngay-hoi-dap-xe-vi-hoa-binh-185260417220054468.htm",
+      "summary": "Tại Thành cổ Quảng Trị, di tích quốc gia đặc biệt Đôi bờ Hiền Lương - Bến Hải được trang hoàng rực rỡ, sẵn sàng cho Ngày hội đạp xe Vì hòa bình lần thứ 2. Không khí lễ hội nhộn nhịp, hứa hẹn một sự kiện thể thao, văn hóa ý nghĩa sẽ lan tỏa thông điệp hòa bình từ 'vùng đất thép'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T15:00:00+07:00",
+      "fetched": "2026-04-17T23:43:37.619346+07:00"
+    },
+    {
+      "id": "41f2f76ff5cbfe5b47735188c7c83df9",
+      "title": "Highlight ĐH Văn Hiến 1-1 CLB TP.HCM: Chia điểm kịch tính",
+      "link": "https://thanhnien.vn/highlight-dh-van-hien-1-1-clb-tphcm-chia-diem-kich-tinh-185260417215822278.htm",
+      "summary": "Trận đấu diễn ra căng thẳng với nhiều tình huống ăn miếng trả miếng, khi ĐH Văn Hiến và CLB TP.HCM cầm chân nhau 1-1 trong màn rượt đuổi tỷ số kịch tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T14:58:00+07:00",
+      "fetched": "2026-04-17T23:43:37.619533+07:00"
+    },
+    {
+      "id": "a8f903f3a14f1fed5255b91ebdac48a1",
+      "title": "Highlight CLB Khánh Hòa 2-1 CLB Thanh niên TP.HCM: Không có bất ngờ",
+      "link": "https://thanhnien.vn/highlight-clb-khanh-hoa-2-1-clb-thanh-nien-tphcm-khong-co-bat-ngo-185260417215703591.htm",
+      "summary": "Dù bị đánh giá thấp hơn về lực lượng, CLB Thanh niên TP.HCM không tạo được bất ngờ khi để CLB Khánh Hòa đánh bại 2-1 tại giải hạng nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T14:57:00+07:00",
+      "fetched": "2026-04-17T23:43:37.619705+07:00"
+    },
+    {
+      "id": "dd0c7780f577e78c5ef9880fe1bbdf9d",
+      "title": "Highlight CLB Hà Nội 4-2 Becamex TP.HCM: Hoàng Hên xuất sắc",
+      "link": "https://thanhnien.vn/highlight-clb-ha-noi-4-2-becamex-tphcm-hoang-hen-xuat-sac-185260417215424262.htm",
+      "summary": "CLB Hà Nội có 33 điểm, tạm thời rút ngắn khoảng cách với tốp 3 xuống còn 1 điểm. Dù chưa thể cải thiện thứ hạng ngay lập tức, nhưng cánh cửa cạnh tranh huy chương vẫn rộng mở với thầy trò HLV Harry Kewell nếu duy trì phong độ hiện tại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T14:54:00+07:00",
+      "fetched": "2026-04-17T23:43:37.619857+07:00"
+    },
+    {
       "id": "f429a10ee7e366938fc832dc0d9bc06e",
       "title": "Iran tuyên bố mở lại eo biển Hormuz, ông Trump cảm ơn",
       "link": "https://thanhnien.vn/iran-tuyen-bo-mo-lai-eo-bien-hormuz-ong-trump-cam-on-185260417210349759.htm",
@@ -631,6 +871,16 @@ window.newsData_2026_04_17 = {
       "category": "Tổng hợp",
       "published": "2026-04-17T14:30:00+07:00",
       "fetched": "2026-04-17T21:47:39.017359+07:00"
+    },
+    {
+      "id": "cbd112275d66c01989a6785af0b4a034",
+      "title": "Tạm giữ tài xế đánh tới tấp lái xe khác sau va chạm giao thông",
+      "link": "https://vnexpress.net/tam-giu-tai-xe-danh-toi-tap-lai-xe-khac-sau-va-cham-giao-thong-5063884.html",
+      "summary": "Nguyễn Ngọc Ngân, 55 tuổi, vừa bị công an tạm giữ để điều tra hành vi Gây rối trật tự công cộng, sau khi đánh liên tiếp vào tài xế ôtô 5 chỗ giữa đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T14:29:20+07:00",
+      "fetched": "2026-04-17T23:43:34.395901+07:00"
     },
     {
       "id": "979a32f821a52dd8026297b786fd6f55",
@@ -791,6 +1041,16 @@ window.newsData_2026_04_17 = {
       "category": "Tổng hợp",
       "published": "2026-04-17T14:19:37.894579+07:00",
       "fetched": "2026-04-17T14:19:37.894789+07:00"
+    },
+    {
+      "id": "2e0fadd20a89b0bc9a82d5ea7452ea90",
+      "title": "'Không nên có thành kiến với bất động sản khi kiểm soát tín dụng'",
+      "link": "https://vnexpress.net/khong-nen-co-thanh-kien-voi-bat-dong-san-khi-kiem-soat-tin-dung-5063874.html",
+      "summary": "Nhiều chuyên gia, doanh nghiệp cho rằng việc kiểm soát tín dụng bất động sản cần linh hoạt và có phân loại, thay vì áp dụng cứng nhắc, thành kiến, gây ách tắc dòng vốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T14:17:33+07:00",
+      "fetched": "2026-04-17T23:43:34.396060+07:00"
     },
     {
       "id": "13857801d11d3a25a7baa3e9c72002fe",
