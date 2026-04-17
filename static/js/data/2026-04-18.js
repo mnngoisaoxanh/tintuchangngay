@@ -1,6 +1,6 @@
 window.newsData_2026_04_18 = {
   "date": "2026-04-18",
-  "lastUpdated": "2026-04-18T01:43:46.004713+07:00",
+  "lastUpdated": "2026-04-18T03:35:46.237333+07:00",
   "articles": [
     {
       "id": "4268b0535c0aef5e6a624da5f15ebe5b",
@@ -151,6 +151,46 @@ window.newsData_2026_04_18 = {
       "category": "Tổng hợp",
       "published": "2026-04-18T01:43:37.070428+07:00",
       "fetched": "2026-04-18T01:43:37.070667+07:00"
+    },
+    {
+      "id": "6078c7ef3c61d11f625264cf41f3b732",
+      "title": "Dân văn phòng ngồi nhiều: Ăn cơm thế nào để tránh tăng đường huyết?",
+      "link": "https://thanhnien.vn/dan-van-phong-ngoi-nhieu-an-com-the-nao-de-tranh-tang-duong-huyet-185260417195724264.htm",
+      "summary": "Với công việc văn phòng, nhiều người phải ngồi liên tục từ 6 - 10 tiếng/ngày. Thói quen ít vận động này không chỉ ảnh hưởng đến cơ xương mà còn tác động mạnh đến chuyển hóa đường huyết, nhất là với người ăn nhiều cơm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T20:22:00+07:00",
+      "fetched": "2026-04-18T03:35:36.739924+07:00"
+    },
+    {
+      "id": "1f8098cddca0db0984759735526ed116",
+      "title": "5 loại rau củ 'khắc tinh' của ung thư",
+      "link": "https://vnexpress.net/5-loai-rau-cu-khac-tinh-cua-ung-thu-5063395.html",
+      "summary": "Cần tây, súp lơ xanh, cà rốt, hành tây và cà chua là 5 loại thực phẩm đứng đầu danh sách kháng ung thư nhờ chứa các hoạt chất thực vật quý giá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T19:00:00+07:00",
+      "fetched": "2026-04-18T03:35:33.416446+07:00"
+    },
+    {
+      "id": "4171ac09ec436add2ac8f68b3a547427",
+      "title": "Anh, Pháp muốn lập lực lượng đa quốc gia ở eo biển Hormuz",
+      "link": "https://vnexpress.net/anh-phap-muon-lap-luc-luong-da-quoc-gia-o-eo-bien-hormuz-5063915.html",
+      "summary": "Anh và Pháp tuyên bố sẽ dẫn dắt sứ mệnh đa quốc gia nhằm đảm bảo tự do hàng hải tại eo biển Hormuz, nhấn mạnh đây là lực lượng phòng thủ thuần túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T18:41:11+07:00",
+      "fetched": "2026-04-18T03:35:33.416720+07:00"
+    },
+    {
+      "id": "4171ac09ec436add2ac8f68b3a547427",
+      "title": "Anh, Pháp muốn lập lực lượng đa quốc gia ở eo biển Hormuz",
+      "link": "https://vnexpress.net/anh-phap-muon-lap-luc-luong-da-quoc-gia-o-eo-bien-hormuz-5063915.html",
+      "summary": "Anh và Pháp tuyên bố sẽ dẫn dắt sứ mệnh đa quốc gia nhằm đảm bảo tự do hàng hải tại eo biển Hormuz, nhấn mạnh đây là lực lượng phòng thủ thuần túy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-17T18:41:11+07:00",
+      "fetched": "2026-04-18T03:35:39.478629+07:00"
     },
     {
       "id": "51261013525db56988223c0fa9255a55",
