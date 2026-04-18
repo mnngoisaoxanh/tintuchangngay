@@ -1,7 +1,157 @@
 window.newsData_2026_04_18 = {
   "date": "2026-04-18",
-  "lastUpdated": "2026-04-18T13:56:47.529721+07:00",
+  "lastUpdated": "2026-04-18T15:38:03.361177+07:00",
   "articles": [
+    {
+      "id": "a0115f803c34a0a92c363831980f78e6",
+      "title": "Khi ánh sáng tri thức thắp lên từ những điều bình dị",
+      "link": "https://tuoitre.vn/khi-anh-sang-tri-thuc-thap-len-tu-nhung-dieu-binh-di-20260418083522928.htm",
+      "summary": "Đã đến lúc chúng ta không chỉ nói về chuyển đổi số như một mục tiêu, mà phải sống với nó như một trách nhiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.990948+07:00",
+      "fetched": "2026-04-18T15:37:55.991064+07:00"
+    },
+    {
+      "id": "d52e88a41a59baaeefec93c6c78cc64b",
+      "title": "Người khuyết tật khát khao tiếp cận giáo dục hiện đại, môi trường tiện ích, cơ hội công bằng",
+      "link": "https://tuoitre.vn/nguoi-khuyet-tat-khat-khao-tiep-can-giao-duc-hien-dai-moi-truong-tien-ich-co-hoi-cong-bang-20260418112801826.htm",
+      "summary": "Hội thảo 'Thực thi quyền tiếp cận cho người khuyết tật - Kinh nghiệm quốc tế cho Việt Nam' diễn ra đúng Ngày Người khuyết tật Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.990821+07:00",
+      "fetched": "2026-04-18T15:37:55.990937+07:00"
+    },
+    {
+      "id": "12252acbf54b06146b14d58ef4b35c96",
+      "title": "Tổng Bí thư, Chủ tịch nước: Củng cố khối đại đoàn kết, tạo sức mạnh nội sinh cho phát triển đất nước",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-cung-co-khoi-dai-doan-ket-tao-suc-manh-noi-sinh-cho-phat-trien-dat-nuoc-20260418141134727.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đã tiếp các già làng, trưởng bản, nghệ nhân, người có uy tín tiêu biểu toàn quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.990693+07:00",
+      "fetched": "2026-04-18T15:37:55.990810+07:00"
+    },
+    {
+      "id": "c14801aeef41364d58050e6f43262a9d",
+      "title": "Một công ty dầu khí tại TP.HCM bất ngờ lãi quý 1 gấp 4.997 lần năm ngoái",
+      "link": "https://tuoitre.vn/mot-cong-ty-dau-khi-tai-tp-hcm-bat-ngo-lai-quy-1-gap-4-997-lan-nam-ngoai-20260418140729291.htm",
+      "summary": "Quý 1-2026, lãi sau thuế của PV GAS D đạt gần 65 tỉ đồng, tăng vọt so với mức 13,5 triệu đồng cùng kỳ năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.990573+07:00",
+      "fetched": "2026-04-18T15:37:55.990683+07:00"
+    },
+    {
+      "id": "fcc832a8b30d7ff00fdd66f1ede194e0",
+      "title": "Giảng viên gây tranh cãi vì từ ‘dồ dại’ trong tin nhắn với sinh viên",
+      "link": "https://tuoitre.vn/giang-vien-gay-tranh-cai-vi-tu-do-dai-trong-tin-nhan-voi-sinh-vien-20260418122928401.htm",
+      "summary": "Tin nhắn giữa giảng viên và sinh viên lan truyền trên mạng, nhiều ý kiến cho rằng từ ‘dồ dại’ dùng chưa phù hợp và có thể sai chính tả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.990449+07:00",
+      "fetched": "2026-04-18T15:37:55.990562+07:00"
+    },
+    {
+      "id": "72640bd0d8a2f0c6124f3386b7236072",
+      "title": "Rimario đột ngột xin rời CLB Thanh Hóa chưa rõ lý do",
+      "link": "https://tuoitre.vn/rimario-dot-ngot-xin-roi-clb-thanh-hoa-chua-ro-ly-do-20260418144516598.htm",
+      "summary": "Ngay trước vòng 19 V-League 2025-2026, tiền đạo chủ lực Rimario Gordon đột ngột xin nghỉ, rời CLB Thanh Hóa, để lại nhiều phỏng đoán không hay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.990323+07:00",
+      "fetched": "2026-04-18T15:37:55.990438+07:00"
+    },
+    {
+      "id": "9c5ca9e059a7148d707eb6a9d182ad71",
+      "title": "Gần 3.000 cơ hội việc làm chờ đón sinh viên Đồng Tháp",
+      "link": "https://tuoitre.vn/gan-3-000-co-hoi-viec-lam-cho-don-sinh-vien-dong-thap-20260418132019296.htm",
+      "summary": "Trường đại học Đồng Tháp tổ chức Ngày hội việc làm và kết nối nhà tuyển dụng, thu hút hàng ngàn sinh viên tham gia tìm kiếm cơ hội việc làm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.990198+07:00",
+      "fetched": "2026-04-18T15:37:55.990313+07:00"
+    },
+    {
+      "id": "6e2c858ecc92f512414f8738836cf419",
+      "title": "Bộ trưởng Thụy Sĩ kiện chatbot Grok vì bài đăng phỉ báng",
+      "link": "https://tuoitre.vn/bo-truong-thuy-si-kien-chatbot-grok-vi-bai-dang-phi-bang-20260418142032865.htm",
+      "summary": "Bộ trưởng Tài chính Thụy Sĩ kiện chatbot Grok sau khi AI này tạo nội dung xúc phạm bà, làm dấy lên tranh cãi về trách nhiệm nền tảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.990033+07:00",
+      "fetched": "2026-04-18T15:37:55.990185+07:00"
+    },
+    {
+      "id": "364d30e409941cd62f6a649ab8d1f3bb",
+      "title": "Đề xuất sửa đổi điều lệ Liên đoàn Luật sư Việt Nam: Hướng đến bộ máy tinh gọn, phù hợp thực tiễn",
+      "link": "https://tuoitre.vn/de-xuat-sua-doi-dieu-le-lien-doan-luat-su-viet-nam-huong-den-bo-may-tinh-gon-phu-hop-thuc-tien-20260418102217085.htm",
+      "summary": "Việc sửa đổi điều lệ của Liên đoàn Luật sư Việt Nam đang được đặt ra như một yêu cầu cấp thiết, nhằm đáp ứng những biến chuyển trong thực tiễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.989904+07:00",
+      "fetched": "2026-04-18T15:37:55.990017+07:00"
+    },
+    {
+      "id": "103554127e74b01fee539526dc4b339c",
+      "title": "HLV U17 Indonesia tuyên bố hùng hồn trước trận đấu Việt Nam",
+      "link": "https://tuoitre.vn/hlv-u17-indonesia-tuyen-bo-hung-hon-truoc-tran-dau-viet-nam-20260418143724242.htm",
+      "summary": "Dù đang rơi vào thế khó, HLV Kurniawan Dwi Yulianto của U17 Indonesia vẫn tỏ ra vô cùng tự tin trước trận đấu với U17 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.989778+07:00",
+      "fetched": "2026-04-18T15:37:55.989893+07:00"
+    },
+    {
+      "id": "b86177d6c3d20579dce155250570e4e8",
+      "title": "Bạn có đang vô tình bỏ qua ‘bước đệm hội nhập’ cho con?",
+      "link": "https://tuoitre.vn/ban-co-dang-vo-tinh-bo-qua-buoc-dem-hoi-nhap-cho-con-2026041716585563.htm",
+      "summary": "Trong bối cảnh hội nhập ngày càng sâu rộng, cơ hội tiếp cận môi trường quốc tế không còn bị giới hạn bởi khoảng cách địa lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.989640+07:00",
+      "fetched": "2026-04-18T15:37:55.989754+07:00"
+    },
+    {
+      "id": "fbff5d1312adc32b10b56c0b2d2225a4",
+      "title": "Khởi công Co.opmart tại Khu đô thị Agora City",
+      "link": "https://tuoitre.vn/khoi-cong-co-opmart-tai-khu-do-thi-agora-city-2026041811272735.htm",
+      "summary": "Thủ Thừa Invest phối hợp Liên hiệp HTX Thương mại TP.HCM (Saigon Co.op) khởi công siêu thị Co.opmart.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.989513+07:00",
+      "fetched": "2026-04-18T15:37:55.989629+07:00"
+    },
+    {
+      "id": "c1040102b086e3e25b30d08463b7f5d2",
+      "title": "'Hạm đội muỗi' Iran: 'Bóng ma' tại eo biển Hormuz",
+      "link": "https://tuoitre.vn/ham-doi-muoi-iran-bong-ma-tai-eo-bien-hormuz-20260418141647772.htm",
+      "summary": "Dù Mỹ - Israel tuyên bố đã đánh chìm nhiều tàu chiến ở Iran dọc vịnh Ba Tư, một lực lượng tàu nhỏ được gọi là 'hạm đội muỗi'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.989379+07:00",
+      "fetched": "2026-04-18T15:37:55.989502+07:00"
+    },
+    {
+      "id": "252bc939797ab0f2f7e0023a31c23200",
+      "title": "Khánh thành nhà máy ống thép 2.600 tỉ đồng ở Tây Ninh",
+      "link": "https://tuoitre.vn/khanh-thanh-nha-may-ong-thep-2-600-ti-dong-o-tay-ninh-20260418140552447.htm",
+      "summary": "Ngày 18-4, UBND tỉnh Tây Ninh phối hợp với Công ty Ống thép Hòa Phát tổ chức lễ khánh thành dự án Nhà máy sản xuất, kinh doanh sản phẩm thép Hòa Phát Long An.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.989230+07:00",
+      "fetched": "2026-04-18T15:37:55.989366+07:00"
+    },
+    {
+      "id": "97fcfa771be820c959beae169632af8a",
+      "title": "Nhiễm vi khuẩn H. pylori có thể gây ung thư dạ dày, phòng lây nhiễm thế nào?",
+      "link": "https://tuoitre.vn/nhiem-vi-khuan-h-pylori-co-the-gay-ung-thu-da-day-phong-lay-nhiem-the-nao-20260418103030683.htm",
+      "summary": "Viêm dạ dày do nhiễm vi khuẩn H. pylori có thể đưa đến viêm teo niêm mạc, dị sản ruột, loạn sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:37:55.988959+07:00",
+      "fetched": "2026-04-18T15:37:55.989214+07:00"
+    },
     {
       "id": "272658daa4e0706351c4ba61824da1a3",
       "title": "Hôn nhân dần nhàm chán, giữ lửa yêu không phải phép màu",
@@ -303,6 +453,86 @@ window.newsData_2026_04_18 = {
       "fetched": "2026-04-18T11:24:16.546064+07:00"
     },
     {
+      "id": "05c75918f4cc3242a5b602cf5a391f4d",
+      "title": "Học sinh kể chuyện, sáng tạo bằng ngôn ngữ thị giác",
+      "link": "https://thanhnien.vn/hoc-sinh-ke-chuyen-sang-tao-bang-ngon-ngu-thi-giac-185260418140649151.htm",
+      "summary": "Hàng trăm tác phẩm mỹ thuật thể hiện năng khiếu nghệ thuật độc đáo, bày tỏ cảm xúc và sự sáng tạo trong các câu chuyện kể qua ngôn ngữ thị giác ấn tượng với đa sắc màu được trưng bày tại Triển lãm mỹ thuật 'You are my destiny - two worlds experience' từ ngày 18-25.4 tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:34:00+07:00",
+      "fetched": "2026-04-18T15:37:55.039661+07:00"
+    },
+    {
+      "id": "e85e9f4955c614257d04c8f4e19356d8",
+      "title": "Địa điểm chơi lễ 30.4 gần TP.HCM: Hồ Trị An đang mùa đẹp nhất trong năm",
+      "link": "https://thanhnien.vn/dia-diem-choi-le-304-gan-tphcm-ho-tri-an-dang-mua-dep-nhat-trong-nam-185260418115318537.htm",
+      "summary": "Nếu mọi người đang tìm một địa điểm đi chơi trong dịp lễ 30.4 này thì hồ Trị An là một lựa chọn. Nơi đây vừa gần TP.HCM, vừa gần gũi với thiên nhiên, có hồ, có rừng, thích hợp để thư giãn, giải nhiệt giữa tiết trời oi ả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:32:00+07:00",
+      "fetched": "2026-04-18T15:37:55.039830+07:00"
+    },
+    {
+      "id": "dda2c48fae4d5ac9bc8885710c64802e",
+      "title": "Công trường 'đắp chiếu', khắc phục sạt lở đèo D’Ran vẫn dang dở",
+      "link": "https://thanhnien.vn/cong-truong-dap-chieu-khac-phuc-sat-lo-deo-dran-van-dang-do-185260418150049167.htm",
+      "summary": "Đèo D'Ran trên quốc lộ 20, tuyến giao thông huyết mạch nối Đà Lạt - Phan Rang, sau gần 6 tháng kể từ vụ sạt lở nghiêm trọng vẫn chưa được khắc phục dứt điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:31:00+07:00",
+      "fetched": "2026-04-18T15:37:55.039990+07:00"
+    },
+    {
+      "id": "a39ed0feb38e9734de81278c94c86aa8",
+      "title": "Tỷ lệ trượt visa du học Mỹ cao nhất 10 năm, khe cửa ngày càng hẹp",
+      "link": "https://thanhnien.vn/ty-le-truot-visa-du-hoc-my-cao-nhat-10-nam-khe-cua-ngay-cang-hep-185260418151553283.htm",
+      "summary": "Tỷ lệ trượt visa du học Mỹ F-1 trên toàn cầu vừa lập đỉnh 35% trong năm 2025, đánh dấu mức cao nhất trong 10 năm qua. Trước những thay đổi về quy trình xét duyệt ngày càng khắt khe, xác suất để một du học sinh cầm trên tay tấm vé nhập cảnh Mỹ đang ngày càng trở nên mong manh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:29:00+07:00",
+      "fetched": "2026-04-18T15:37:55.040165+07:00"
+    },
+    {
+      "id": "64dfe134dc77faaa9894c2bd336c93f8",
+      "title": "Sơn La thiếu hụt cả ngàn nhân lực y tế",
+      "link": "https://thanhnien.vn/son-la-thieu-hut-ca-ngan-nhan-luc-y-te-185260418132549292.htm",
+      "summary": "Sơn La thiếu hụt cả ngàn nhân lực y tế. Y tế cơ sở không tốt thì y tế chuyên sâu xây dựng bao nhiêu cũng thiếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:29:00+07:00",
+      "fetched": "2026-04-18T15:37:55.040322+07:00"
+    },
+    {
+      "id": "45cd757aaac5686746fe4c4797da8238",
+      "title": "iOS 27 hé lộ cải tiến lớn, iPhone sắp thông minh hơn",
+      "link": "https://thanhnien.vn/ios-27-he-lo-cai-tien-lon-iphone-sap-thong-minh-hon-185260418142657451.htm",
+      "summary": "Apple đang chuẩn bị cho bản cập nhật phần mềm lớn tiếp theo mang tên iOS 27 mà công ty dự kiến công bố tại hội nghị các nhà phát triển toàn cầu - WWDC 2026 vào ngày 8.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:28:00+07:00",
+      "fetched": "2026-04-18T15:37:55.040472+07:00"
+    },
+    {
+      "id": "252cb529975439230bad1ac95a6369f1",
+      "title": "Microsoft tiếp tục cải tiến Start Menu Windows 11",
+      "link": "https://thanhnien.vn/microsoft-tiep-tuc-cai-tien-start-menu-windows-11-185260418113944693.htm",
+      "summary": "Bản thiết kế menu Start mới của Windows 11 được kỳ vọng sẽ hoạt động mượt hơn, cho phép thay đổi bố cục và tùy chỉnh sâu hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:26:00+07:00",
+      "fetched": "2026-04-18T15:37:55.040618+07:00"
+    },
+    {
+      "id": "d7ac1c7e147719022508ffc8355180bf",
+      "title": "Giai đoạn chông chênh của danh hài Vân Sơn",
+      "link": "https://thanhnien.vn/giai-doan-chong-chenh-cua-danh-hai-van-son-185260418102418752.htm",
+      "summary": "Danh hài Vân Sơn thừa nhận có những giai đoạn muốn buông bỏ vì sự nghiệp không như ý. Tuy nhiên, tình yêu của khán giả đã giúp nam nghệ sĩ hải ngoại thắp lại lửa nghề và có động lực trở lại với điện ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:25:00+07:00",
+      "fetched": "2026-04-18T15:37:55.040764+07:00"
+    },
+    {
       "id": "ab09ce92eba2a3592e1698a8aba71200",
       "title": "Xóa bỏ rào cản cho người khuyết tật: Từ trợ giúp đến trao quyền",
       "link": "https://tuoitre.vn/xoa-bo-rao-can-cho-nguoi-khuyet-tat-tu-tro-giup-den-trao-quyen-20260417233752813.htm",
@@ -453,6 +683,256 @@ window.newsData_2026_04_18 = {
       "fetched": "2026-04-18T08:23:31.442722+07:00"
     },
     {
+      "id": "3287ad7cb89aa907f86f38b15413ec91",
+      "title": "Ngay sau cuộc họp cổ đông, bầu Đức đăng ký mua 4 triệu cổ phiếu HAG",
+      "link": "https://thanhnien.vn/ngay-sau-cuoc-hop-co-dong-bau-duc-dang-ky-mua-4-trieu-co-phieu-hag-185260418150227145.htm",
+      "summary": "Bầu Đức đăng ký mua vào 4 triệu cổ phiếu HAG của Công ty CP Hoàng Anh Gia Lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:20:00+07:00",
+      "fetched": "2026-04-18T15:37:55.040908+07:00"
+    },
+    {
+      "id": "13a3aeaa4d7ee5241b4e8b8434adbca4",
+      "title": "Cà phê Việt Nam có vị trí đặc biệt trong dòng chảy toàn cầu",
+      "link": "https://thanhnien.vn/ca-phe-viet-nam-co-vi-tri-dac-biet-trong-dong-chay-toan-cau-185260418143303098.htm",
+      "summary": "Đánh giá cao hệ sinh thái văn hóa cà phê tại Đắk Lắk, Trưởng đại diện UNESCO tại Việt Nam cho rằng những tri thức trồng trọt, chế biến và thưởng thức của người dân nơi đây chính là tài sản quý giá cần được bảo tồn và làm sống động trong dòng chảy văn minh nhân loại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:20:00+07:00",
+      "fetched": "2026-04-18T15:37:55.041062+07:00"
+    },
+    {
+      "id": "e6b285f25ae69c12249cff83515ff82e",
+      "title": "Vụ 4.000 tấn lươn quá lứa ‘kêu cứu’: Chợ sợ lươn to, càng để lâu càng khó",
+      "link": "https://thanhnien.vn/vu-4000-tan-luon-qua-lua-keu-cuu-cho-so-luon-to-cang-de-lau-cang-kho-185260418115657327.htm",
+      "summary": "Giá lươn giảm mạnh, nhiều nông dân ở TP.Cần Thơ đành nuôi quá lứa để chờ thị trường khởi sắc, nhưng tiểu thương cho biết \"ở chợ sợ lươn to\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:19:00+07:00",
+      "fetched": "2026-04-18T15:37:55.041233+07:00"
+    },
+    {
+      "id": "170151df6530e5f41872bc36183c35fe",
+      "title": "Trường ĐH Thái Bình Dương công bố hội đồng trường và hiệu trưởng mới",
+      "link": "https://thanhnien.vn/truong-dh-thai-binh-duong-co-hieu-truong-moi-185260418125446793.htm",
+      "summary": "Ngày 18.4, tại Khánh Hòa, Trường ĐH Thái Bình Dương tổ chức lễ công bố Hội đồng trường và hiệu trưởng nhiệm kỳ 2025–2030, kết hợp Ngày hội hướng nghiệp & việc làm U-Fest 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:14:00+07:00",
+      "fetched": "2026-04-18T15:37:55.041387+07:00"
+    },
+    {
+      "id": "ab5b2e18840a91002333296081a22526",
+      "title": "Iran mở lại một phần không phận",
+      "link": "https://vnexpress.net/iran-mo-lai-mot-phan-khong-phan-5064060.html",
+      "summary": "Cơ quan Hàng không Dân dụng Iran cho hay nước này đã mở lại một phần không phận cho các chuyến bay quốc tế đi qua phía đông lãnh thổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:09:08+07:00",
+      "fetched": "2026-04-18T15:37:51.726058+07:00"
+    },
+    {
+      "id": "ab5b2e18840a91002333296081a22526",
+      "title": "Iran mở lại một phần không phận",
+      "link": "https://vnexpress.net/iran-mo-lai-mot-phan-khong-phan-5064060.html",
+      "summary": "Cơ quan Hàng không Dân dụng Iran cho hay nước này đã mở lại một phần không phận cho các chuyến bay quốc tế đi qua phía đông lãnh thổ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-18T08:09:08+07:00",
+      "fetched": "2026-04-18T15:37:57.559929+07:00"
+    },
+    {
+      "id": "dfd05816351e2c74ac0d3363d749ea33",
+      "title": "Gần 4.000 căn hộ tại khu 'Cao Xà Lá' được phép bán cho người nước ngoài",
+      "link": "https://vnexpress.net/gan-4-000-can-ho-tai-khu-cao-xa-la-duoc-phep-ban-cho-nguoi-nuoc-ngoai-5063988.html",
+      "summary": "Theo Sở Xây dựng, 3.944 căn hộ tại khu chức năng đô thị số 233, 233B và 235 đường Nguyễn Trãi được phép bán cho người nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:02:00+07:00",
+      "fetched": "2026-04-18T15:37:51.726263+07:00"
+    },
+    {
+      "id": "3b383a44ba313ba6766888eef0f2ab65",
+      "title": "Bạn nhậu và nhân tình tránh xa khi tôi ra đi tay trắng sau ly dị",
+      "link": "https://vnexpress.net/ngoai-tinh-ban-nhau-va-nhan-tinh-tranh-xa-khi-toi-ra-di-tay-trang-sau-ly-di-5063974.html",
+      "summary": "Lúc vợ mang thai, tôi bắt đầu đổ đốn, cặp kè với mấy cô trẻ tuổi bên ngoài theo kiểu \"bóc bánh trả tiền\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:00:00+07:00",
+      "fetched": "2026-04-18T15:37:51.726428+07:00"
+    },
+    {
+      "id": "4626a0d8c4b885719f929993d34a91a5",
+      "title": "iPhone 18 Pro lộ diện màu sắc mới",
+      "link": "https://vnexpress.net/iphone-18-pro-lo-dien-mau-sac-moi-5063914.html",
+      "summary": "Apple được cho là sẽ thay thế màu cam vũ trụ trên iPhone 17 Pro bằng tông đỏ rượu vang đậm mang tên Dark Cherry trên dòng iPhone 18 Pro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:00:00+07:00",
+      "fetched": "2026-04-18T15:37:51.726586+07:00"
+    },
+    {
+      "id": "d73c1799176aa540256b883fa9586218",
+      "title": "Nên dùng tinh trùng tươi hay trữ đông khi làm IVF?",
+      "link": "https://vnexpress.net/nen-dung-tinh-trung-tuoi-hay-tru-dong-khi-lam-ivf-5063994.html",
+      "summary": "Vợ chồng tôi ở Mỹ, muốn về Việt Nam điều trị vô sinh. Tôi nên trữ đông tinh trùng hay sử dụng tinh trùng tươi để tạo phôi? (Jenny Phạm, 40 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:00:00+07:00",
+      "fetched": "2026-04-18T15:37:51.726745+07:00"
+    },
+    {
+      "id": "15018709a5a69a98f66e656334aa0fb2",
+      "title": "Đắk Lắk sắp khởi công khu công nghiệp gần 2.500 tỷ đồng",
+      "link": "https://vnexpress.net/dak-lak-sap-khoi-cong-khu-cong-nghiep-gan-2-500-ty-dong-5063216.html",
+      "summary": "Khu công nghiệp Phú Xuân quy mô hơn 313 ha tại Đắk Lắk dự kiến khởi công cuối tháng 4, tổng vốn đầu tư 2.477 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T08:00:00+07:00",
+      "fetched": "2026-04-18T15:37:51.726900+07:00"
+    },
+    {
+      "id": "4626a0d8c4b885719f929993d34a91a5",
+      "title": "iPhone 18 Pro lộ diện màu sắc mới",
+      "link": "https://vnexpress.net/iphone-18-pro-lo-dien-mau-sac-moi-5063914.html",
+      "summary": "Apple được cho là sẽ thay thế màu cam vũ trụ trên iPhone 17 Pro bằng tông đỏ rượu vang đậm mang tên Dark Cherry trên dòng iPhone 18 Pro.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-18T08:00:00+07:00",
+      "fetched": "2026-04-18T15:38:02.289207+07:00"
+    },
+    {
+      "id": "4c394d5aad8c64fe63cf3deeaee81b44",
+      "title": "Cầu thủ chấn thương kinh hoàng phải khâu 30 mũi, đội bóng Malaysia bị loại đau đớn",
+      "link": "https://thanhnien.vn/cau-thu-chan-thuong-kinh-hoang-phai-khau-30-mui-doi-bong-malaysia-bi-loai-dau-don-185260418144112223.htm",
+      "summary": "Trận tứ kết AFC Champions League Elite giữa Johor Darul Ta'zim (JDT) và Al-Ahli diễn ra ngày 17.4 đã bị lu mờ bởi một sự cố rùng mình, khi tiền đạo Jairo da Silva dính chấn thương nghiêm trọng sau pha va chạm cực mạnh vào vùng mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T07:59:00+07:00",
+      "fetched": "2026-04-18T15:37:55.041533+07:00"
+    },
+    {
+      "id": "eaf331e6cc7a695a78f3cf2efe38eb34",
+      "title": "U.17 Việt Nam lợi thế cực lớn trước 'đại chiến' Indonesia: Chủ nhà vào đường cùng",
+      "link": "https://thanhnien.vn/u17-viet-nam-loi-the-cuc-lon-truoc-dai-chien-indonesia-chu-nha-vao-duong-cung-185260418114852587.htm",
+      "summary": "Bước vào trận đấu thuộc lượt cuối bảng A mang tính quyết định cho tấm vé vào bán kết giải U.17 Đông Nam Á 2026, đội tuyển U.17 Việt Nam đang nắm lợi thế cực lớn trước chủ nhà Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T07:59:00+07:00",
+      "fetched": "2026-04-18T15:37:55.041684+07:00"
+    },
+    {
+      "id": "17539a223c7680229d472341ace646cd",
+      "title": "Ông Bùi Cao Nhật Quân được đề cử vào Hội đồng quản trị Novaland",
+      "link": "https://vnexpress.net/ong-bui-cao-nhat-quan-duoc-de-cu-vao-hoi-dong-quan-tri-novaland-5064064.html",
+      "summary": "Ông Bùi Cao Nhật Quân - con trai nhà sáng lập Bùi Thành Nhơn - được đề cử vào Hội đồng quản trị Novaland, sau khi tiếp quản ghế Chủ tịch công ty mẹ NovaGroup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T07:58:04+07:00",
+      "fetched": "2026-04-18T15:37:51.727058+07:00"
+    },
+    {
+      "id": "17539a223c7680229d472341ace646cd",
+      "title": "Ông Bùi Cao Nhật Quân được đề cử vào Hội đồng quản trị Novaland",
+      "link": "https://vnexpress.net/ong-bui-cao-nhat-quan-duoc-de-cu-vao-hoi-dong-quan-tri-novaland-5064064.html",
+      "summary": "Ông Bùi Cao Nhật Quân - con trai nhà sáng lập Bùi Thành Nhơn - được đề cử vào Hội đồng quản trị Novaland, sau khi tiếp quản ghế Chủ tịch công ty mẹ NovaGroup.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-18T07:58:04+07:00",
+      "fetched": "2026-04-18T15:37:58.639281+07:00"
+    },
+    {
+      "id": "aca5535806fa712817834ecae88d6c94",
+      "title": "Có nên húp cạn nước phở?",
+      "link": "https://vnexpress.net/co-nen-hup-can-nuoc-pho-5063534.html",
+      "summary": "Nước phở vốn đậm đà do chứa nhiều muối, nước dùng ninh từ xương và thịt trong nhiều giờ nhiều chất béo, mỡ, không nên lạm dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T07:56:48+07:00",
+      "fetched": "2026-04-18T15:37:51.727243+07:00"
+    },
+    {
+      "id": "a8cbdeb2cd3fae79a09adfaeff833845",
+      "title": "Đạp xe qua vùng ‘đất lửa’ Quảng Trị, lan tỏa khát vọng hòa bình",
+      "link": "https://thanhnien.vn/dap-xe-qua-vung-dat-lua-quang-tri-lan-toa-khat-vong-hoa-binh-185260418142751006.htm",
+      "summary": "Diễn ra trên vùng 'đất lửa' Quảng Trị, Ngày hội đạp xe Vì hòa bình năm 2026 không chỉ là hoạt động thể thao cộng đồng mà còn là thông điệp mạnh mẽ về khát vọng hòa bình, sự đoàn kết và trách nhiệm chung của nhân loại trước những biến động toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T07:52:00+07:00",
+      "fetched": "2026-04-18T15:37:55.041832+07:00"
+    },
+    {
+      "id": "c8395623281607b502119caab244170d",
+      "title": "Khách Tây so sánh ba hạng ghế tàu cao tốc Trung Quốc",
+      "link": "https://vnexpress.net/khach-tay-so-sanh-ba-hang-ghe-tau-cao-toc-trung-quoc-5062804.html",
+      "summary": "Trong hành trình hơn 4 tiếng di chuyển 800 km từ Trùng Khánh đến Côn Minh, du khách Mỹ trải nghiệm ba hạng ghế trên tàu cao tốc để so sánh dịch vụ và không gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T07:44:54+07:00",
+      "fetched": "2026-04-18T15:37:51.727398+07:00"
+    },
+    {
+      "id": "75b007b44567d9ca401796d5ce4f4f9b",
+      "title": "Trường Giang truyền thông điệp bảo vệ động vật đến trẻ em Huế",
+      "link": "https://vnexpress.net/truong-giang-kun-marathon-hue-bao-ve-dong-vat-5063969.html",
+      "summary": "Nam nghệ sĩ chia sẻ tầm quan trọng của việc gìn giữ tự nhiên và yêu thương muôn loài với 2.500 runner nhí tham dự Kun Marathon tại Quảng trường Ngọ Môn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T07:40:00+07:00",
+      "fetched": "2026-04-18T15:37:51.727561+07:00"
+    },
+    {
+      "id": "d167a30577398e6ef6deacf543207826",
+      "title": "Khám sức khỏe miễn phí ở TP HCM, 64% trường hợp có bất thường",
+      "link": "https://vnexpress.net/kham-suc-khoe-mien-phi-o-tp-hcm-64-truong-hop-co-bat-thuong-5064000.html",
+      "summary": "Gần 30.000 người dân tham gia khám sức khỏe miễn phí tại 168 trạm y tế phường xã trong ngày 17/4, kết quả 64% có vấn đề sức khỏe, nhiều trường hợp lần đầu được phát hiện bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T07:38:21+07:00",
+      "fetched": "2026-04-18T15:37:51.727719+07:00"
+    },
+    {
+      "id": "be3cc081f69d09b28038c64c13c0884e",
+      "title": "Tháo dỡ hai trạm thu phí trên quốc lộ 51",
+      "link": "https://vnexpress.net/thao-do-hai-tram-thu-phi-tren-quoc-lo-51-5064051.html",
+      "summary": "Hai trạm thu phí T1, T2 trên quốc lộ 51 được tháo dỡ sau nhiều năm bỏ không, nhằm đảm bảo an toàn giao thông trên tuyến kết nối TP HCM - Đồng Nai và cụm cảng Cái Mép - Thị Vải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T07:30:01+07:00",
+      "fetched": "2026-04-18T15:37:51.727870+07:00"
+    },
+    {
+      "id": "fee2f4b9fcbb037b82a3ab3f047eaebc",
+      "title": "FSEL cùng Cục Nhà giáo ký hợp tác nâng cao năng lực tiếng Anh giáo viên",
+      "link": "https://vnexpress.net/fsel-cung-cuc-nha-giao-ky-hop-tac-nang-cao-nang-luc-tieng-anh-giao-vien-5063984.html",
+      "summary": "Cục Nhà giáo và FSEL ký biên bản hợp tác triển khai chương trình tự học tiếng Anh trực tuyến quy mô toàn quốc dành cho giáo viên phổ thông, ngày 17/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T07:30:00+07:00",
+      "fetched": "2026-04-18T15:37:51.728033+07:00"
+    },
+    {
+      "id": "051c072817c4d18685e78023a83da570",
+      "title": "5 hành vi 'xấu' chứng tỏ cha mẹ nuôi dạy con đúng cách",
+      "link": "https://vnexpress.net/5-hanh-vi-xau-chung-to-cha-me-nuoi-day-con-dung-cach-5063276.html",
+      "summary": "Trẻ cãi lời, nổi giận hay chê bai quà tặng không phải là biểu hiện hư hỏng, mà là minh chứng cho thấy bạn đang tạo ra một môi trường giáo dục an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T07:03:02+07:00",
+      "fetched": "2026-04-18T15:37:51.728208+07:00"
+    },
+    {
+      "id": "0e3584c46b9b6e89fbc1ad0b5e4268cb",
+      "title": "Ai thông minh sửa phép tính sai '4 - 9 = 2' thành đúng?",
+      "link": "https://vnexpress.net/cau-do-que-diem-di-chuyen-que-diem-ai-thong-minh-sua-phep-tinh-sai-4-9-2-thanh-dung-5061907.html",
+      "summary": "Chỉ với 1 que diêm, bạn có thể \"lật kèo\" cả bài toán, biến sai thành đúng trong tích tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T07:00:00+07:00",
+      "fetched": "2026-04-18T15:37:51.728372+07:00"
+    },
+    {
       "id": "d5515326b19676c1c32187928f3abf21",
       "title": "Rạp xiếc 'nghìn tỉ' mới của TP.HCM có gì?",
       "link": "https://thanhnien.vn/rap-xiec-nghin-ti-moi-cua-tphcm-co-gi-18526041813361703.htm",
@@ -461,6 +941,16 @@ window.newsData_2026_04_18 = {
       "category": "Tổng hợp",
       "published": "2026-04-18T06:54:00+07:00",
       "fetched": "2026-04-18T13:56:40.171297+07:00"
+    },
+    {
+      "id": "3158869225e13682dfcc34d4fdb4f6d9",
+      "title": "Nhiều nước muốn phát triển tên miền tiếng bản địa",
+      "link": "https://vnexpress.net/nhieu-nuoc-muon-phat-trien-ten-mien-tieng-ban-dia-5063756.html",
+      "summary": "Nhiều nước có ngôn ngữ riêng, như Trung Quốc, Nga, Thái Lan, Việt Nam, Lào, mong muốn thúc đẩy tên miền đa ngữ, bên cạnh tên miền tiếng Latinh như hiện nay.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-18T06:49:22+07:00",
+      "fetched": "2026-04-18T15:38:02.289368+07:00"
     },
     {
       "id": "25236ba9914eeffa7e076324c20d0ce7",
