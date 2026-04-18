@@ -1,6 +1,6 @@
 window.newsData_2026_04_19 = {
   "date": "2026-04-19",
-  "lastUpdated": "2026-04-19T01:34:29.983020+07:00",
+  "lastUpdated": "2026-04-19T03:26:05.240576+07:00",
   "articles": [
     {
       "id": "86918f45455bd0679f0ec51a77abf437",
@@ -151,6 +151,106 @@ window.newsData_2026_04_19 = {
       "category": "Tổng hợp",
       "published": "2026-04-19T01:34:21.212372+07:00",
       "fetched": "2026-04-19T01:34:21.212614+07:00"
+    },
+    {
+      "id": "05a3e44bf534fc5d604c6e6072f09114",
+      "title": "Thịt tươi và thịt đông lạnh: Loại nào giữ dinh dưỡng tốt hơn?",
+      "link": "https://thanhnien.vn/thit-tuoi-va-thit-dong-lanh-loai-nao-giu-dinh-duong-tot-hon-185260418000611907.htm",
+      "summary": "Trong suy nghĩ của nhiều người, thịt tươi thường được xem là lựa chọn tốt hơn so với thịt đông lạnh vì cảm giác tự nhiên, mềm và ngon hơn. Nhưng dưới góc độ khoa học dinh dưỡng, vấn đề này không đơn giản như vậy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T20:20:00+07:00",
+      "fetched": "2026-04-19T03:25:56.970912+07:00"
+    },
+    {
+      "id": "382b02246b8ba64fe9abb8401a39fb06",
+      "title": "Rơi chiến thắng phút bù, Tottenham ngụp lặn trong nhóm đèn đỏ",
+      "link": "https://vnexpress.net/roi-chien-thang-phut-bu-tottenham-ngup-lan-trong-nhom-den-do-5064199.html",
+      "summary": "Tottenham vẫn chưa thể thoát khỏi nhóm xuống hạng sau khi bị đội khách Brighton cầm hòa 2-2 với bàn quyết định ở phút 95, vòng 33 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T19:23:22+07:00",
+      "fetched": "2026-04-19T03:25:53.709526+07:00"
+    },
+    {
+      "id": "382b02246b8ba64fe9abb8401a39fb06",
+      "title": "Rơi chiến thắng phút bù, Tottenham ngụp lặn trong nhóm đèn đỏ",
+      "link": "https://vnexpress.net/roi-chien-thang-phut-bu-tottenham-ngup-lan-trong-nhom-den-do-5064199.html",
+      "summary": "Tottenham vẫn chưa thể thoát khỏi nhóm xuống hạng sau khi bị đội khách Brighton cầm hòa 2-2 với bàn quyết định ở phút 95, vòng 33 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-18T19:23:22+07:00",
+      "fetched": "2026-04-19T03:26:05.235680+07:00"
+    },
+    {
+      "id": "150feec0ca4bf15e4d1ca4f3763eb5d4",
+      "title": "Kiều hối chuyển về TP HCM giảm mạnh đầu năm",
+      "link": "https://vnexpress.net/kieu-hoi-chuyen-ve-tp-hcm-giam-manh-dau-nam-5064192.html",
+      "summary": "Khoảng 2 tỷ USD kiều hối được chuyển về TP HCM trong ba tháng đầu năm, giảm gần 17% so với cùng kỳ năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T18:30:00+07:00",
+      "fetched": "2026-04-19T03:25:53.709706+07:00"
+    },
+    {
+      "id": "150feec0ca4bf15e4d1ca4f3763eb5d4",
+      "title": "Kiều hối chuyển về TP HCM giảm mạnh đầu năm",
+      "link": "https://vnexpress.net/kieu-hoi-chuyen-ve-tp-hcm-giam-manh-dau-nam-5064192.html",
+      "summary": "Khoảng 2 tỷ USD kiều hối được chuyển về TP HCM trong ba tháng đầu năm, giảm gần 17% so với cùng kỳ năm trước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-18T18:30:00+07:00",
+      "fetched": "2026-04-19T03:26:00.377435+07:00"
+    },
+    {
+      "id": "da0b1ab6a13082193df3d5b6b433ad24",
+      "title": "Mạng lưới căn cứ ngầm giúp tiêm kích Iran thoát đòn hủy diệt",
+      "link": "https://vnexpress.net/mang-luoi-can-cu-ngam-giup-tiem-kich-iran-thoat-don-huy-diet-5063450.html",
+      "summary": "Iran dường như đã giấu nhiều máy bay còn hoạt động dưới những căn cứ ngầm, giúp chúng sống sót sau 6 tuần xung đột với Mỹ -Israel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T18:00:00+07:00",
+      "fetched": "2026-04-19T03:25:53.709896+07:00"
+    },
+    {
+      "id": "4ab72ea917a5a42ba4d2b4d47503df10",
+      "title": "Lợi ích sức khỏe của omega-3",
+      "link": "https://vnexpress.net/loi-ich-suc-khoe-cua-omega-3-5063712.html",
+      "summary": "Omega-3 là nhóm axit béo thiết yếu mà cơ thể không thể tự tổng hợp, đóng vai trò quan trọng đối với tim mạch, não bộ, thị lực và làn da",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T18:00:00+07:00",
+      "fetched": "2026-04-19T03:25:53.710065+07:00"
+    },
+    {
+      "id": "da0b1ab6a13082193df3d5b6b433ad24",
+      "title": "Mạng lưới căn cứ ngầm giúp tiêm kích Iran thoát đòn hủy diệt",
+      "link": "https://vnexpress.net/mang-luoi-can-cu-ngam-giup-tiem-kich-iran-thoat-don-huy-diet-5063450.html",
+      "summary": "Iran dường như đã giấu nhiều máy bay còn hoạt động dưới những căn cứ ngầm, giúp chúng sống sót sau 6 tuần xung đột với Mỹ -Israel.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-18T18:00:00+07:00",
+      "fetched": "2026-04-19T03:25:59.292398+07:00"
+    },
+    {
+      "id": "ddd2e054dbb06c6960f8090cb19598e2",
+      "title": "Ấn Độ triệu Đại sứ Iran vì vụ tàu bị tấn công ở eo biển Hormuz",
+      "link": "https://vnexpress.net/an-do-trieu-dai-su-iran-vi-vu-tau-bi-tan-cong-o-eo-bien-hormuz-5064187.html",
+      "summary": "New Delhi đã triệu Đại sứ Iran để phản đối vụ nổ súng vào hai tàu treo cờ Ấn Độ tại eo biển Hormuz, sau khi Tehran tái áp đặt hạn chế với tuyến hàng hải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T17:59:38+07:00",
+      "fetched": "2026-04-19T03:25:53.710221+07:00"
+    },
+    {
+      "id": "ddd2e054dbb06c6960f8090cb19598e2",
+      "title": "Ấn Độ triệu Đại sứ Iran vì vụ tàu bị tấn công ở eo biển Hormuz",
+      "link": "https://vnexpress.net/an-do-trieu-dai-su-iran-vi-vu-tau-bi-tan-cong-o-eo-bien-hormuz-5064187.html",
+      "summary": "New Delhi đã triệu Đại sứ Iran để phản đối vụ nổ súng vào hai tàu treo cờ Ấn Độ tại eo biển Hormuz, sau khi Tehran tái áp đặt hạn chế với tuyến hàng hải.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-18T17:59:38+07:00",
+      "fetched": "2026-04-19T03:25:59.292571+07:00"
     },
     {
       "id": "9bf7ee0ff4c12c2bd68fc1013436973b",
