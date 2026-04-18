@@ -1,7 +1,147 @@
 window.newsData_2026_04_18 = {
   "date": "2026-04-18",
-  "lastUpdated": "2026-04-18T19:39:38.887182+07:00",
+  "lastUpdated": "2026-04-18T21:34:49.995400+07:00",
   "articles": [
+    {
+      "id": "125bc7debaad59aa9d26c546ef828d05",
+      "title": "Bắt xe khách liên tỉnh chở 181 con khỉ, 16 con rái cá và 14 chim hồng hoàng",
+      "link": "https://tuoitre.vn/bat-xe-khach-lien-tinh-cho-181-con-khi-16-con-rai-ca-va-14-chim-hong-hoang-20260418175159488.htm",
+      "summary": "Hai người đàn ông dùng xe khách chở 181 con khỉ, 16 con rái cá và 14 con chim hồng hoàng bị công an phát hiện, bắt giữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:34:41.685618+07:00",
+      "fetched": "2026-04-18T21:34:41.685734+07:00"
+    },
+    {
+      "id": "7e956909fd553e3e5ef67763bf2fed1e",
+      "title": "Thủ tướng Lê Minh Hưng: Quân khu 4 viết tiếp trang sử hào hùng, bảo vệ vững chắc đất nước",
+      "link": "https://tuoitre.vn/thu-tuong-le-minh-hung-quan-khu-4-viet-tiep-trang-su-hao-hung-bao-ve-vung-chac-dat-nuoc-20260418185230965.htm",
+      "summary": "Chiều 18-4, tại Nghệ An, Thủ tướng Chính phủ Lê Minh Hưng dự lễ đón nhận danh hiệu Anh hùng Lực lượng vũ trang nhân dân của Quân khu 4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:34:41.685473+07:00",
+      "fetched": "2026-04-18T21:34:41.685607+07:00"
+    },
+    {
+      "id": "97bce19aa48c1af7632fd47700fb3c9e",
+      "title": "Hơn 1.600 cơ hội việc làm cho sinh viên sắp ra trường tại TP.HCM",
+      "link": "https://tuoitre.vn/hon-1-600-co-hoi-viec-lam-cho-sinh-vien-sap-ra-truong-tai-tp-hcm-20260418182630593.htm",
+      "summary": "Không chỉ chờ đợi sinh viên tốt nghiệp tìm việc, nhiều doanh nghiệp tại TP.HCM còn chủ động đến trường đại học để tìm người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:34:41.685330+07:00",
+      "fetched": "2026-04-18T21:34:41.685462+07:00"
+    },
+    {
+      "id": "cfdc3381e44c9c1b822a21928cacb25a",
+      "title": "Công an mời tài xế xe ôm công nghệ cầm 'gậy 3 khúc' đánh người đi đường lên trụ sở làm việc",
+      "link": "https://tuoitre.vn/cong-an-moi-tai-xe-xe-om-cong-nghe-cam-gay-3-khuc-danh-nguoi-di-duong-len-tru-so-lam-viec-20260418191001398.htm",
+      "summary": "Tối 18-4, Công an phường Bình Hưng Hòa (TP.HCM) phối hợp Phòng Cảnh sát hình sự (PC02) Công an TP.HCM đã mời được nam tài xế xe ôm công nghệ cầm 'gậy 3 khúc' đánh người đi đường lên trụ sở công an làm việc, củng cố hồ sơ xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:34:41.685173+07:00",
+      "fetched": "2026-04-18T21:34:41.685317+07:00"
+    },
+    {
+      "id": "21b1474058d720217504dd66c81514e8",
+      "title": "'Du hành 16 vương quốc sách', học sinh TP.HCM dự hội thi 'Lớn lên cùng sách'",
+      "link": "https://tuoitre.vn/du-hanh-16-vuong-quoc-sach-hoc-sinh-tp-hcm-du-hoi-thi-lon-len-cung-sach-20260418185247626.htm",
+      "summary": "308 học sinh từ lớp 6 đến lớp 9 ở TP.HCM đã có trải nghiệm thú vị khi 'du hành 16 vương quốc sách' trước khi chính thức thi 'Lớn lên cùng sách' do Sở Giáo dục và Đào tạo TP.HCM tổ chức ngày 18-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:34:41.685046+07:00",
+      "fetched": "2026-04-18T21:34:41.685162+07:00"
+    },
+    {
+      "id": "459acd163ac4ba49a229165ad94c5cfb",
+      "title": "Trung Đông tối 18-4: Rộ tin tàu Iran nổ súng vào tàu chở dầu ở eo biển Hormuz",
+      "link": "https://tuoitre.vn/trung-dong-toi-18-4-ro-tin-tau-iran-no-sung-vao-tau-cho-dau-o-eo-bien-hormuz-20260418175838631.htm",
+      "summary": "Rộ tin tàu Iran nổ súng vào tàu chở dầu ở eo biển Hormuz; Iran nói chưa ấn định ngày cho vòng đàm phán tiếp theo với Mỹ; Israel lập \"đường vàng\" ở Lebanon, tương tự như ở Gaza... là một số tin tức đáng chú ý về Trung Đông tối 18-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:34:41.684915+07:00",
+      "fetched": "2026-04-18T21:34:41.685031+07:00"
+    },
+    {
+      "id": "f59c9561e8b65946c10c42c9e092ac5d",
+      "title": "Hiệu trưởng trường THPT top 1 TP.HCM tư vấn thi lớp 10 khiến học sinh bất ngờ",
+      "link": "https://tuoitre.vn/hieu-truong-truong-thpt-top-1-tp-hcm-tu-van-thi-lop-10-khien-hoc-sinh-bat-ngo-20260418175723875.htm",
+      "summary": "Đứng trước quyết định lựa chọn, các em không nên chọn theo số đông, không chọn vì áp lực mà hãy chọn bằng sự am hiểu chính mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:34:41.684784+07:00",
+      "fetched": "2026-04-18T21:34:41.684903+07:00"
+    },
+    {
+      "id": "3cccedb3a978ca66a3c47df364df2630",
+      "title": "Ford triệu hồi gần 1,4 triệu xe bán tải do lỗi hộp số",
+      "link": "https://tuoitre.vn/ford-trieu-hoi-gan-1-4-trieu-xe-ban-tai-do-loi-hop-so-2026041809272194.htm",
+      "summary": "Hãng xe Ford vừa thông báo triệu hồi gần 1,4 triệu xe bán tải Ford F-150 tại Mỹ do lỗi liên quan đến hộp số, có thể khiến người lái mất kiểm soát và làm tăng nguy cơ tai nạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:34:41.684656+07:00",
+      "fetched": "2026-04-18T21:34:41.684772+07:00"
+    },
+    {
+      "id": "3678f36de77af282a92b78fd5aef3540",
+      "title": "Phường Phú Lợi ở Cần Thơ triển khai mô hình sinh viên hỗ trợ hộ kinh doanh chuyển đổi số",
+      "link": "https://tuoitre.vn/phuong-phu-loi-o-can-tho-trien-khai-mo-hinh-sinh-vien-ho-tro-ho-kinh-doanh-chuyen-doi-so-20260418202347687.htm",
+      "summary": "Mô hình này hứa hẹn sẽ hỗ trợ hơn 8.000 cơ sở kinh doanh và trên 1.000 doanh nghiệp của phường Phú Lợi triển khai các hoạt động chuyển đổi số, từ bán hàng online đến xây dựng thương hiệu số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:34:41.684525+07:00",
+      "fetched": "2026-04-18T21:34:41.684644+07:00"
+    },
+    {
+      "id": "61326206ab7de456b333f73e8b1d0b42",
+      "title": "Thua Bắc Ninh, Đồng Tháp là đội duy nhất ở các giải đấu chuyên nghiệp mới chỉ thắng được một trận",
+      "link": "https://tuoitre.vn/thua-bac-ninh-dong-thap-la-doi-duy-nhat-o-cac-giai-dau-chuyen-nghiep-moi-chi-thang-duoc-mot-tran-20260418200619114.htm",
+      "summary": "CLB Đồng Tháp tiếp tục thể hiện thành tích báo động khi mới thắng được 1 trận, thua 7 và hòa 7 trận ở Giải hạng nhất quốc gia 2025-2026 (V-League 2).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:34:41.684394+07:00",
+      "fetched": "2026-04-18T21:34:41.684513+07:00"
+    },
+    {
+      "id": "acd5b12f5570463cd40a9bf3cba65ed3",
+      "title": "Bóng chuyền nữ: VTV Bình Điền Long An đánh bại Binh chủng Thông tin",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-vtv-binh-dien-long-an-danh-bai-binh-chung-thong-tin-20260418201146636.htm",
+      "summary": "Tối 18-4, tại Giải bóng chuyền vô địch quốc gia các CLB 2026, VTV Bình Điền Long An giành chiến thắng quan trọng trước kỳ phùng địch thủ Binh chủng Thông tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:34:41.684229+07:00",
+      "fetched": "2026-04-18T21:34:41.684380+07:00"
+    },
+    {
+      "id": "611f78982db9b15232bc37cf85bd9f39",
+      "title": "Giá vàng biến động theo tin tức cuộc chiến Mỹ - Iran",
+      "link": "https://tuoitre.vn/gia-vang-bien-dong-theo-tin-tuc-cuoc-chien-my-iran-20260418202216083.htm",
+      "summary": "Giá vàng miếng SJC tăng 1 triệu đồng/lượng, lên 172 triệu đồng/lượng sau khi giá vàng thế giới bật tăng lên 4.831,4 USD/ounce khi kết thúc tuần giao dịch vào hôm nay, 18-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:34:41.684096+07:00",
+      "fetched": "2026-04-18T21:34:41.684217+07:00"
+    },
+    {
+      "id": "c7c76e759566233562ceaf8a80be04ef",
+      "title": "Xưởng sản xuất nhựa gần cây xăng, ki ốt bốc cháy ngùn ngụt",
+      "link": "https://tuoitre.vn/xuong-san-xuat-nhua-gan-cay-xang-ki-ot-boc-chay-ngun-ngut-20260418202617091.htm",
+      "summary": "Nhà xưởng sản xuất nhựa phía sau cây xăng và gần bên nhiều ki ốt kinh doanh ở phường Tân Hiệp, TP.HCM (khu vực thành phố Tân Uyên, tỉnh Bình Dương cũ) đã bốc cháy dữ dội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:34:41.683955+07:00",
+      "fetched": "2026-04-18T21:34:41.684084+07:00"
+    },
+    {
+      "id": "6d076ada6d4b56f312f62d692cce4ccb",
+      "title": "Những trường hợp thí sinh được miễn thi, bảo lưu điểm thi tốt nghiệp THPT",
+      "link": "https://tuoitre.vn/nhung-truong-hop-thi-sinh-duoc-mien-thi-bao-luu-diem-thi-tot-nghiep-thpt-20260418195428601.htm",
+      "summary": "Bộ Giáo dục và Đào tạo vừa công bố Thông tư ban hành quy chế thi tốt nghiệp THPT, trong đó nêu rõ những thí sinh nào sẽ được miễn thi tốt nghiệp THPT tất cả các môn, hoặc miễn thi môn tiếng Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:34:41.683746+07:00",
+      "fetched": "2026-04-18T21:34:41.683940+07:00"
+    },
     {
       "id": "d043ec62e2999539d8c966f0defbe393",
       "title": "Giấc mơ của Luffy trong One Piece thực sự mang ý nghĩa gì?",
@@ -453,6 +593,76 @@ window.newsData_2026_04_18 = {
       "fetched": "2026-04-18T15:37:55.989214+07:00"
     },
     {
+      "id": "a5d303776fcde67e2003d4a59decd9c3",
+      "title": "Diễn đàn Di sản Cà phê Thế giới, kết nối văn hóa và tri thức cà phê",
+      "link": "https://thanhnien.vn/dien-dan-di-san-ca-phe-the-gioi-ket-noi-van-hoa-va-tri-thuc-ca-phe-185260418204050325.htm",
+      "summary": "Sáng ngày 18.4.2026, tại Bảo tàng Thế giới Cà phê (Buôn Ma Thuột), Diễn đàn Di sản Cà phê Thế giới đã chính thức khai mạc, mở ra không gian đối thoại quốc tế cấp cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T14:30:00+07:00",
+      "fetched": "2026-04-18T21:34:40.637379+07:00"
+    },
+    {
+      "id": "bac69bddfd71f132b376d98742a877f6",
+      "title": "Lực lượng U.23 Việt Nam dự ASIAD 20: Trẻ nhưng không thiếu trải nghiệm",
+      "link": "https://thanhnien.vn/luc-luong-u23-viet-nam-du-asiad-20-tre-nhung-khong-thieu-trai-nghiem-185260418211551507.htm",
+      "summary": "U.23 Việt Nam hướng đến ASIAD 20 với lực lượng chủ yếu U.21, nhưng sở hữu nhiều cầu thủ đã chinh chiến quốc tế và thi đấu thường xuyên ở V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T14:27:00+07:00",
+      "fetched": "2026-04-18T21:34:40.637551+07:00"
+    },
+    {
+      "id": "2c57a4b5eaf2abae3d961bb6d328fe10",
+      "title": "Xuân Tín lập siêu phẩm phút bù giờ, CLB Bắc Ninh áp sát ngôi đầu của Trường Tươi Đồng Nai",
+      "link": "https://thanhnien.vn/xuan-tin-lap-sieu-pham-phut-bu-gio-clb-bac-ninh-ap-sat-ngoi-dau-cua-truong-tuoi-dong-nai-185260418205147587.htm",
+      "summary": "Siêu phẩm của Vũ Xuân Tín giúp CLB Bắc Ninh thắng nghẹt thở, qua đó áp sát ngôi đầu, trong khi CLB Quy Nhơn đánh rơi vị trí nhì bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T14:22:00+07:00",
+      "fetched": "2026-04-18T21:34:40.637711+07:00"
+    },
+    {
+      "id": "ffa6e9127d7f99ff2484d96129ba68d6",
+      "title": "Trần Thành Trung ghi bàn đẹp, CLB Ninh Bình thắng thuyết phục ngày HLV Hàn Quốc ra mắt",
+      "link": "https://thanhnien.vn/tran-thanh-trung-ghi-ban-dep-clb-ninh-binh-thang-thuyet-phuc-ngay-hlv-han-quoc-ra-mat-185260418204815734.htm",
+      "summary": "CLB Ninh Bình có màn trình diễn áp đảo trước PVF-CAND trong ngày HLV Bae Ji-won ra mắt, với dấu ấn nổi bật từ bàn thắng đẹp của cầu thủ Việt kiều Trần Thành Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T14:13:00+07:00",
+      "fetched": "2026-04-18T21:34:40.637865+07:00"
+    },
+    {
+      "id": "f01f8fd81cb2737fb4e8868d7e48d846",
+      "title": "Ninh Bình thắng liền 3 trận V-League dù vắng Hoàng Đức",
+      "link": "https://vnexpress.net/ninh-binh-thang-lien-3-tran-v-league-du-vang-hoang-duc-5064145.html",
+      "summary": "Ninh Bình hạ PVF-CAND 3-0 ở vòng 19 tối nay, để có trận thắng thứ ba liên tiếp tại V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-18T14:12:45+07:00",
+      "fetched": "2026-04-18T21:34:49.983037+07:00"
+    },
+    {
+      "id": "2780d66d915dc8aea7930906df38e157",
+      "title": "Highlight Hà Tĩnh 1-0 Hải Phòng: Chiến thắng bất ngờ",
+      "link": "https://thanhnien.vn/highlight-ha-tinh-1-0-hai-phong-chien-thang-bat-ngo-185260418211233318.htm",
+      "summary": "Hà Tĩnh tạo bất ngờ khi đánh bại Hải Phòng 1-0, giành trọn 3 điểm trong trận đấu trên sân nhà, đồng thời cũng cắt mạch thua của chính họ ở V-League mùa này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T14:12:00+07:00",
+      "fetched": "2026-04-18T21:34:40.638017+07:00"
+    },
+    {
+      "id": "182997dc450754e87bd732012c466d37",
+      "title": "CĐV Thái Lan phản ứng mạnh sau trận thua sốc Lào, bất ngờ khen ngợi U.17 Việt Nam",
+      "link": "https://thanhnien.vn/cdv-thai-lan-phan-ung-manh-sau-tran-thua-soc-lao-bat-ngo-khen-ngoi-u17-viet-nam-185260418210526878.htm",
+      "summary": "Việc để thua ngược trước U.17 Lào và bị loại khỏi giải Đông Nam Á khiến U.17 Thái Lan vấp phải làn sóng chỉ trích từ người hâm mộ xứ sở chùa vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T14:07:00+07:00",
+      "fetched": "2026-04-18T21:34:40.638175+07:00"
+    },
+    {
       "id": "272658daa4e0706351c4ba61824da1a3",
       "title": "Hôn nhân dần nhàm chán, giữ lửa yêu không phải phép màu",
       "link": "https://tuoitre.vn/hon-nhan-dan-nham-chan-giu-lua-yeu-khong-phai-phep-mau-20260418111353424.htm",
@@ -603,6 +813,206 @@ window.newsData_2026_04_18 = {
       "fetched": "2026-04-18T13:56:41.173279+07:00"
     },
     {
+      "id": "f70a97cfcc548bda2fb19fecf027106a",
+      "title": "Cháy nhà xưởng gần cây xăng ở TP.HCM, cột khói đen cuồn cuộn bốc lên",
+      "link": "https://thanhnien.vn/chay-nha-xuong-gan-cay-xang-o-tphcm-cot-khoi-den-cuon-cuon-boc-len-185260418204911103.htm",
+      "summary": "Đám cháy bùng phát tại nhà xưởng phía sau cây xăng ở phường Tân Hiệp (TP.HCM) khiến nhiều người hoảng hốt, cột khói đen cao hàng chục mét bốc lên cuồn cuộn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:55:00+07:00",
+      "fetched": "2026-04-18T21:34:40.638356+07:00"
+    },
+    {
+      "id": "028b789fa052b54e5d59bb989865c3be",
+      "title": "Bảng xếp hạng V-League mới nhất: Ninh Bình hồi sinh vững tốp 3, HAGL vẫn nguy cấp vì gần dưới đáy",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-ninh-binh-hoi-sinh-vung-top-3-hagl-van-nguy-cap-vi-gan-duoi-day-185260418202642663.htm",
+      "summary": "Ninh Bình FC thắng đậm PVF-CAND 3-0 để vững vị trí tốp 3, còn HAGL chịu áp lực lớn sau chiến thắng của CLB Hà Tĩnh trước Hải Phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:54:00+07:00",
+      "fetched": "2026-04-18T21:34:40.638516+07:00"
+    },
+    {
+      "id": "d2d2ae119be3d723c9c95b5212c532c5",
+      "title": "Giáo viên học cách xử lý khủng hoảng, hỗ trợ tâm lý cho học sinh",
+      "link": "https://thanhnien.vn/giao-vien-hoc-cach-xu-ly-khung-hoang-ho-tro-tam-ly-cho-hoc-sinh-185260418190918067.htm",
+      "summary": "Hàng loạt các sự cố được coi là khủng hoảng trong môi trường giáo dục như ngộ độc thực phẩm, học sinh đánh nhau, bữa ăn bán trú không đạt chất lượng... trong thời gian qua, đã khiến dư luận quan tâm bức xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:47:00+07:00",
+      "fetched": "2026-04-18T21:34:40.638665+07:00"
+    },
+    {
+      "id": "6bc6b047294033cb44f93541a577e0ae",
+      "title": "Samsung nói rõ lý do điện thoại màn hình nhỏ biến mất khỏi thị trường",
+      "link": "https://thanhnien.vn/samsung-noi-ro-ly-do-dien-thoai-man-hinh-nho-bien-mat-khoi-thi-truong-18526041809442161.htm",
+      "summary": "Tại sao màn hình nhỏ biến mất? Samsung lên tiếng về lý do và chỉ tay về phía người dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:40:00+07:00",
+      "fetched": "2026-04-18T21:34:40.638814+07:00"
+    },
+    {
+      "id": "94ca4ba57bbcb7fcd914232104a1090e",
+      "title": "Highlight CLB Ninh Bình 3-0 PVF-CAND: Thành Trung đã ghi bàn",
+      "link": "https://thanhnien.vn/highlight-clb-ninh-binh-3-0-pvf-cand-thanh-trung-da-ghi-ban-185260418203151501.htm",
+      "summary": "CLB Ninh Bình thắng đậm PVF-CAND 3-0 trên sân nhà, trong đó Trần Thành Trung để lại dấu ấn với bàn thắng ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:31:00+07:00",
+      "fetched": "2026-04-18T21:34:40.638968+07:00"
+    },
+    {
+      "id": "0c0e9c8f625e7cbbb813da51357de25f",
+      "title": "Bí thư Hà Nội chốt tiến độ Vành đai 1, yêu cầu xong dự án chống ngập trước 30/4",
+      "link": "https://vnexpress.net/bi-thu-ha-noi-chot-tien-do-vanh-dai-1-yeu-cau-xong-du-an-chong-ngap-truoc-30-4-5064118.html",
+      "summary": "Bí thư Thành ủy Hà Nội Trần Đức Thắng yêu cầu hoàn thành nền đường Vành đai 1 trước 2/9, xong cầu vượt trước 31/12, đồng thời chốt tiến độ các dự án thoát nước trước 30/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:30:40+07:00",
+      "fetched": "2026-04-18T21:34:37.405944+07:00"
+    },
+    {
+      "id": "cc9e30524a87b11e1c907b4611d5abbb",
+      "title": "HLV Thái Lan từ chức khi bị loại sớm ở giải U17 Đông Nam Á",
+      "link": "https://vnexpress.net/hlv-thai-lan-tu-chuc-khi-bi-loai-som-o-giai-u17-dong-nam-a-5064158.html",
+      "summary": "HLV Sirisak Yodyardthai xin lỗi rồi từ chức sau khi Thái Lan dừng bước từ vòng bảng U17 Đông Nam Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:28:37+07:00",
+      "fetched": "2026-04-18T21:34:37.406127+07:00"
+    },
+    {
+      "id": "cc9e30524a87b11e1c907b4611d5abbb",
+      "title": "HLV Thái Lan từ chức khi bị loại sớm ở giải U17 Đông Nam Á",
+      "link": "https://vnexpress.net/hlv-thai-lan-tu-chuc-khi-bi-loai-som-o-giai-u17-dong-nam-a-5064158.html",
+      "summary": "HLV Sirisak Yodyardthai xin lỗi rồi từ chức sau khi Thái Lan dừng bước từ vòng bảng U17 Đông Nam Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-18T13:28:37+07:00",
+      "fetched": "2026-04-18T21:34:49.983210+07:00"
+    },
+    {
+      "id": "f20c259fa17ebb07a4408c71e662b307",
+      "title": "FUTA Land: Top 5 Thương hiệu mạnh ASEAN tại Diễn đàn Kinh tế Việt Nam ASEAN 2026",
+      "link": "https://thanhnien.vn/futa-land-top-5-thuong-hieu-manh-asean-tai-dien-dan-kinh-te-viet-nam-asean-2026-185260418194716747.htm",
+      "summary": "Ngày 18.4, Lễ công bố Thương hiệu mạnh ASEAN 2026 (Diễn đàn Hợp tác kinh tế Việt Nam ASEAN) vinh danh Công ty CP Bất động sản (BĐS) FUTA Land thuộc Top 5 Thương hiệu mạnh ASEAN 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:26:00+07:00",
+      "fetched": "2026-04-18T21:34:40.639116+07:00"
+    },
+    {
+      "id": "87ebfd19abf4a9b30b6d2a07f8c7ac04",
+      "title": "'Đồng hành phát triển, vững bước vươn xa' của Tôn Đông Á 'tăng tốc' ở Gia Lai",
+      "link": "https://thanhnien.vn/dong-hanh-phat-trien-vung-buoc-vuon-xa-cua-ton-dong-a-tang-toc-o-gia-lai-185260418182918662.htm",
+      "summary": "Tiếp nối hành trình lan tỏa niềm tin từ vùng đất Tổ Phú Thọ và cố đô Huế, chuỗi sự kiện tri ân 'Đồng hành phát triển - vững bước vươn xa' của Tôn Đông Á được viết tiếp tại tỉnh Gia Lai (từ ngày 15.4 - 17.4.2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:26:00+07:00",
+      "fetched": "2026-04-18T21:34:40.639286+07:00"
+    },
+    {
+      "id": "01f6145fb306569cccf277fc16bf5a10",
+      "title": "Highlight CLB Trẻ PVF-CAND 1 -1 Quy Nhơn: Giằng co chia điểm",
+      "link": "https://thanhnien.vn/highlight-clb-tre-pvf-cand-1-1-quy-nhon-giang-co-chia-diem-185260418202106139.htm",
+      "summary": "CLB Trẻ PVF-CAND và Quy Nhơn tạo nên thế trận giằng co, trước khi hòa 1-1 trong trận đấu mà cả hai đội đều có cơ hội nhưng không thể tận dụng trọn vẹn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:21:00+07:00",
+      "fetched": "2026-04-18T21:34:40.639446+07:00"
+    },
+    {
+      "id": "0c8f4d83bf0048e8f87301ba671b68e7",
+      "title": "Highlight CLB Bắc Ninh 1-0 Đồng Tháp: Siêu phẩm định đoạt",
+      "link": "https://thanhnien.vn/highlight-clb-bac-ninh-1-0-dong-thap-sieu-pham-dinh-doat-185260418201912758.htm",
+      "summary": "Siêu phẩm phút bù giờ của Vũ Xuân Tín giúp CLB Bắc Ninh giành chiến thắng nghẹt thở trước Đồng Tháp, qua đó tiếp tục bám đuổi ngôi đầu bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:19:00+07:00",
+      "fetched": "2026-04-18T21:34:40.639595+07:00"
+    },
+    {
+      "id": "4845cbefbbf370e4e983d562b0786571",
+      "title": "Đề xuất giảm thuế nhập khẩu ưu đãi với xăng dầu về 0% tới 30/6",
+      "link": "https://vnexpress.net/de-xuat-giam-thue-nhap-khau-uu-dai-voi-xang-dau-ve-0-toi-30-6-5064149.html",
+      "summary": "Bộ Tài chính đề xuất giảm thuế nhập khẩu xăng dầu thêm 2 tháng, đến hết 30/6, đồng thời bổ sung 3 mặt hàng vào danh mục ưu đãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:16:32+07:00",
+      "fetched": "2026-04-18T21:34:37.406317+07:00"
+    },
+    {
+      "id": "4845cbefbbf370e4e983d562b0786571",
+      "title": "Đề xuất giảm thuế nhập khẩu ưu đãi với xăng dầu về 0% tới 30/6",
+      "link": "https://vnexpress.net/de-xuat-giam-thue-nhap-khau-uu-dai-voi-xang-dau-ve-0-toi-30-6-5064149.html",
+      "summary": "Bộ Tài chính đề xuất giảm thuế nhập khẩu xăng dầu thêm 2 tháng, đến hết 30/6, đồng thời bổ sung 3 mặt hàng vào danh mục ưu đãi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-18T13:16:32+07:00",
+      "fetched": "2026-04-18T21:34:44.888179+07:00"
+    },
+    {
+      "id": "bc5a1bd75f09ee0b51857d55a5d012f8",
+      "title": "Đổ hơn 500 tấn chất thải gây ô nhiễm môi trường",
+      "link": "https://vnexpress.net/do-hon-500-tan-chat-thai-gay-o-nhiem-moi-truong-5064151.html",
+      "summary": "Phan Văn Lợi, 40 tuổi bị xác định đổ hơn 567 tấn da bò thải ra môi trường, gây ô nhiễm nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:15:52+07:00",
+      "fetched": "2026-04-18T21:34:37.406484+07:00"
+    },
+    {
+      "id": "2c8d4809e0588917e20129b1e71c8850",
+      "title": "VPBank bắt tay Western Union triển khai dịch vụ kiều hối nhanh",
+      "link": "https://vnexpress.net/vpbank-bat-tay-western-union-trien-khai-dich-vu-kieu-hoi-nhanh-5064120.html",
+      "summary": "VPBank ký kết hợp tác chiến lược với Western Union ngày 15/4, triển khai dịch vụ nhận tiền kiều hối siêu tốc vào ví điện tử và tài khoản ngân hàng tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:15:00+07:00",
+      "fetched": "2026-04-18T21:34:37.406654+07:00"
+    },
+    {
+      "id": "7056163aa2925351ac2ceb606e959d4d",
+      "title": "Đường chạy VnExpress Marathon Huế nhìn từ flycam",
+      "link": "https://vnexpress.net/duong-chay-vnexpress-marathon-hue-nhin-tu-flycam-5064073.html",
+      "summary": "Đường chạy 21 km được ví như một “tour khám phá cố đô” khi đi qua loạt biểu tượng của Huế như: sông Hương, cầu Trường Tiền, trường Quốc học...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:00:00+07:00",
+      "fetched": "2026-04-18T21:34:37.406816+07:00"
+    },
+    {
+      "id": "7d734671477310353b4f3605beb1c1b6",
+      "title": "Việt Nam mua dầu thô từ nước nào nhiều nhất?",
+      "link": "https://vnexpress.net/viet-nam-mua-dau-tho-tu-nuoc-nao-nhieu-nhat-5063907.html",
+      "summary": "Việt Nam xuất khẩu 2,5 triệu tấn dầu thô, đồng thời nhập về 14,15 triệu tấn năm 2025, trong đó 80% dầu mua về từ một quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T13:00:00+07:00",
+      "fetched": "2026-04-18T21:34:37.406970+07:00"
+    },
+    {
+      "id": "e6f9442602d6c7f7142ce0f66252c013",
+      "title": "Hơn 20 người nghi ngộ độc sau khi ăn bánh mì",
+      "link": "https://vnexpress.net/hon-20-nguoi-nghi-ngo-doc-sau-khi-an-banh-mi-5064121.html",
+      "summary": "Hơn 20 người xuất hiện triệu chứng nôn ói, đau bụng, tiêu chảy, sau khi ăn bánh mì mua tại một tiệm trên địa bàn xã Diễn Châu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T12:57:41+07:00",
+      "fetched": "2026-04-18T21:34:37.407124+07:00"
+    },
+    {
+      "id": "4d09ffd6558d5dc54c540a5277b4652d",
+      "title": "Mưa đá phủ trắng đồi núi Sơn La",
+      "link": "https://vnexpress.net/mua-da-phu-trang-doi-nui-son-la-5064139.html",
+      "summary": "Mưa giông kèm mưa đá xảy ra tại xã Phiêng Cằm, tỉnh Sơn La chiều tối 18/4, trong bối cảnh thiên tai tiếp tục gây thiệt hại trên diện rộng ở nhiều địa phương miền Bắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T12:43:50+07:00",
+      "fetched": "2026-04-18T21:34:37.407301+07:00"
+    },
+    {
       "id": "fee6e286a91f957abafee44e8bbedcc5",
       "title": "Kết quả xổ số Vietlott Power 6/55 tối 18.4, giải độc đắc tăng 31,1 tỉ đồng",
       "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-184-giai-doc-dac-tang-311-ti-dong-185260418192055878.htm",
@@ -621,6 +1031,16 @@ window.newsData_2026_04_18 = {
       "category": "Tổng hợp",
       "published": "2026-04-18T12:36:00+07:00",
       "fetched": "2026-04-18T19:39:29.811574+07:00"
+    },
+    {
+      "id": "61c1c8d00571090acdab791e86ce4642",
+      "title": "Hơn 180 con khỉ trong xe khách chất đầy động vật quý hiếm",
+      "link": "https://vnexpress.net/hon-180-con-khi-trong-xe-khach-chat-day-dong-vat-quy-hiem-5064141.html",
+      "summary": "Nguyễn Văn Chương bị bắt khi đang vận chuyển hàng trăm con chim hồng hoàng, rái cá và khỉ ra miền Bắc tiêu thụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T12:34:41+07:00",
+      "fetched": "2026-04-18T21:34:37.407469+07:00"
     },
     {
       "id": "49d71755c3797372dc232b5877e3a7ca",
