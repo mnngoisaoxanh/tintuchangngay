@@ -1,6 +1,6 @@
 window.newsData_2026_04_19 = {
   "date": "2026-04-19",
-  "lastUpdated": "2026-04-19T03:26:05.240576+07:00",
+  "lastUpdated": "2026-04-19T05:24:15.366007+07:00",
   "articles": [
     {
       "id": "86918f45455bd0679f0ec51a77abf437",
@@ -153,6 +153,206 @@ window.newsData_2026_04_19 = {
       "fetched": "2026-04-19T01:34:21.212614+07:00"
     },
     {
+      "id": "d34aed8b35507cf3e60355cbaf605f77",
+      "title": "Tín hiệu tích cực cho Ukraine từ Mỹ, EU",
+      "link": "https://thanhnien.vn/tin-hieu-tich-cuc-cho-ukraine-tu-my-eu-185260418180919536.htm",
+      "summary": "Thủ tướng Ukraine Yulia Svyrydenko vừa có những cuộc hội đàm với các quan chức cấp cao Mỹ, trong khi Liên minh châu Âu (EU) phát tín hiệu về việc hỗ trợ tài chính cho Kyiv.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T22:16:00+07:00",
+      "fetched": "2026-04-19T05:24:05.553389+07:00"
+    },
+    {
+      "id": "4a09d9ecdc91231480c241470428dcba",
+      "title": "Tử vi ngày 19 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-19-thang-4-con-giap-nao-may-man-hom-nay-185260419025546372.htm",
+      "summary": "Tử vi ngày 19 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm nổi bật là 'làm mới trải nghiệm' - không phải thay đổi lớn, mà là cách bạn nhìn lại những điều quen thuộc với tâm thế khác. Tài lộc không đến từ cơ hội lớn, mà từ những lựa chọn nhỏ nhưng đúng lúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T22:15:00+07:00",
+      "fetched": "2026-04-19T05:24:05.553534+07:00"
+    },
+    {
+      "id": "9510dd3c007dd80c9f1f49a1bbafcd9d",
+      "title": "Khóa thông minh và an toàn PCCC: Có thể biến ngôi nhà hiện đại thành 'cạm bẫy'?",
+      "link": "https://thanhnien.vn/khoa-thong-minh-va-an-toan-pccc-co-the-bien-ngoi-nha-hien-dai-thanh-cam-bay-1852604181444322.htm",
+      "summary": "Trong xu thế nhà thông minh đang phát triển mạnh mẽ, các loại khóa điện tử, vân tay ngày càng được ưa chuộng bởi sự tiện lợi. Tuy nhiên, khi đối mặt với sự cố hỏa hoạn, những thiết bị khóa thông minh này liệu có đảm bảo an toàn cho người sử dụng?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T22:02:00+07:00",
+      "fetched": "2026-04-19T05:24:05.553665+07:00"
+    },
+    {
+      "id": "1c0eb8a78634ed6acbc83bb24d113411",
+      "title": "HLV Kim Sang-sik: 'Ở Việt Nam, ăn phở là cách xả stress hiệu quả'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-o-viet-nam-an-pho-la-cach-xa-stress-hieu-qua-5064102.html",
+      "summary": "HLV Kim Sang-sik cho biết mỗi khi chịu áp lực và căng thẳng, ông thường gặp gỡ bạn bè, chơi golf, nhưng ăn phở là cách giúp ông giải tỏa hiệu quả nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T22:00:01+07:00",
+      "fetched": "2026-04-19T05:24:02.720156+07:00"
+    },
+    {
+      "id": "ae1d6d563e79ee5c1e535a4a05eca1f3",
+      "title": "7 loại bữa sáng có thể 'tàn phá' thận bệnh nhân",
+      "link": "https://vnexpress.net/7-loai-bua-sang-co-the-tan-pha-than-benh-nhan-5063390.html",
+      "summary": "Nhiều bệnh nhân thận lầm tưởng rằng uống nước ép rau củ hay ăn ngũ cốc nguyên hạt là tốt, nhưng thực tế đây có thể là \"bản án\" cho chức năng thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T22:00:00+07:00",
+      "fetched": "2026-04-19T05:24:02.720318+07:00"
+    },
+    {
+      "id": "53bd9dbc51af89960b985035b56999e3",
+      "title": "5 giờ Mỹ giải cứu phi công bị bắn hạ giữa chiến tranh Bosnia",
+      "link": "https://vnexpress.net/5-gio-my-giai-cuu-phi-cong-bi-ban-ha-giua-chien-tranh-bosnia-5060081.html",
+      "summary": "Một phi công Mỹ bị bắn rơi ở Bosnia đã sinh tồn 6 ngày tại vùng chiến sự và được giải cứu trong chiến dịch kéo dài gần 5 giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T22:00:00+07:00",
+      "fetched": "2026-04-19T05:24:02.720456+07:00"
+    },
+    {
+      "id": "0cc48a7aca490bae8f394711d1b3dfa2",
+      "title": "Xe máy chở ba lao vào ôtô rẽ trái, ai sai?",
+      "link": "https://vnexpress.net/xe-may-cho-ba-lao-vao-oto-re-trai-ai-sai-5063759.html",
+      "summary": "Xe máy chở ba người đi thẳng qua ngã tư, trong khi ở hướng đối diện một ô tô rẽ trái cắt đường dẫn tới va chạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T22:00:00+07:00",
+      "fetched": "2026-04-19T05:24:02.720591+07:00"
+    },
+    {
+      "id": "e89b8f2f14cc0484bd8ceebb1ecef679",
+      "title": "ASIAD 20: Niềm tin vào lứa U.23 Việt Nam mới",
+      "link": "https://thanhnien.vn/asiad-20-niem-tin-vao-lua-u23-viet-nam-moi-185260418210718888.htm",
+      "summary": "Nếu được tích lũy kinh nghiệm và bản lĩnh thi đấu, lứa cầu thủ mới như Lê Văn Thuận, Nguyễn Lê Phát… sẽ đủ sức gánh vác trọng trách của U.23 VN tại ASIAD 20 và xa hơn là ở đội tuyển VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T22:00:00+07:00",
+      "fetched": "2026-04-19T05:24:05.553789+07:00"
+    },
+    {
+      "id": "ecb748a99f09b7e990fbcc91c807e05f",
+      "title": "Lịch trả lương hưu, trợ cấp BHXH tháng 5 ở TP.HCM dời ngày vì trùng lễ 30.4",
+      "link": "https://thanhnien.vn/lich-tra-luong-huu-tro-cap-bhxh-thang-5-o-tphcm-doi-ngay-vi-trung-le-304-185260417204900675.htm",
+      "summary": "Cơ quan Bảo hiểm xã hội TP.HCM thông báo, lịch trả lương hưu, trợ cấp BHXH tháng 5 sẽ dời ngày do trùng với kỳ nghỉ lễ 30.4 và 1.5, cụ thể ngày nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T22:00:00+07:00",
+      "fetched": "2026-04-19T05:24:05.553909+07:00"
+    },
+    {
+      "id": "7c8d2ca40c3e49df3a579f485fd4714d",
+      "title": "Mộ cổ bát giác ở TP.HCM, dấu tích gia tộc giàu thứ 3 Sài Gòn xưa",
+      "link": "https://thanhnien.vn/mo-co-bat-giac-o-tphcm-dau-tich-gia-toc-giau-thu-3-sai-gon-xua-185260408181545045.htm",
+      "summary": "Giữa TP.HCM vẫn tồn tại ngôi mộ cổ bát giác gần 100 năm tuổi của hậu duệ đại gia giàu thứ 3 Sài Gòn xưa và kiến trúc đá cẩm thạch Pháp độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T22:00:00+07:00",
+      "fetched": "2026-04-19T05:24:05.554052+07:00"
+    },
+    {
+      "id": "53bd9dbc51af89960b985035b56999e3",
+      "title": "5 giờ Mỹ giải cứu phi công bị bắn hạ giữa chiến tranh Bosnia",
+      "link": "https://vnexpress.net/5-gio-my-giai-cuu-phi-cong-bi-ban-ha-giua-chien-tranh-bosnia-5060081.html",
+      "summary": "Một phi công Mỹ bị bắn rơi ở Bosnia đã sinh tồn 6 ngày tại vùng chiến sự và được giải cứu trong chiến dịch kéo dài gần 5 giờ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-18T22:00:00+07:00",
+      "fetched": "2026-04-19T05:24:08.186726+07:00"
+    },
+    {
+      "id": "f495f2463d4770d7255751ca20882171",
+      "title": "TP.HCM nhìn từ sông Sài Gòn: Tiếng cười của đứa con không bao giờ nói",
+      "link": "https://thanhnien.vn/tphcm-nhin-tu-song-sai-gon-tieng-cuoi-cua-dua-con-khong-bao-gio-noi-18526041616194381.htm",
+      "summary": "Lênh đênh trên sông Sài Gòn, ông Nguyễn Văn Mạnh (56 tuổi) miệt mài vớt ve chai nuôi người con mắc bệnh não bẩm sinh. Với ông, hạnh phúc chỉ gói gọn trong nụ cười hồn nhiên của đứa con chưa một lần biết nói.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:40:00+07:00",
+      "fetched": "2026-04-19T05:24:05.554176+07:00"
+    },
+    {
+      "id": "f867dba6b0afb269ad3fed05d6204b70",
+      "title": "Nghỉ lễ 30.4 và 1.5: Người dân rục rịch đi chơi, chuyên gia lưu ý về thời tiết",
+      "link": "https://thanhnien.vn/nghi-le-304-va-15-nguoi-dan-ruc-rich-di-choi-chuyen-gia-luu-y-ve-thoi-tiet-185260418193741478.htm",
+      "summary": "Nhiều người dân đã bắt đầu đặt vé, lên kế hoạch du lịch giải nhiệt cho kỳ nghỉ lễ 30.4 và 1.5 sắp tới. Các chuyên gia dự báo nắng nóng sẽ bao trùm cả ba miền, đi kèm nguy cơ giông sét nguy hiểm vào chiều tối mà người dân cần đặc biệt lưu ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:38:00+07:00",
+      "fetched": "2026-04-19T05:24:05.554298+07:00"
+    },
+    {
+      "id": "e87ec73c7bdab5e556c41d7b16178e3e",
+      "title": "Tình hình Iran, Trung Đông mới nhất ngày 19.4",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-ngay-194-185260418211324381.htm",
+      "summary": "Đã có những sự khác biệt rõ ràng trong thông điệp của Mỹ và Iran liên quan đến các động thái ở khu vực Trung Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:30:00+07:00",
+      "fetched": "2026-04-19T05:24:05.554417+07:00"
+    },
+    {
+      "id": "3fa387390becd1d2f0f1706f4998dff0",
+      "title": "Lịch vạn niên, lịch âm hôm nay: Ngày 19.4 là ngày gì?",
+      "link": "https://thanhnien.vn/lich-van-nien-lich-am-hom-nay-ngay-194-la-ngay-gi-185260418094658022.htm",
+      "summary": "Theo lịch dương, lịch âm hôm nay, ngày 19.4 là ngày gì đáng lưu ý ở Việt Nam và trên thế giới mà nhiều người quan tâm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:29:00+07:00",
+      "fetched": "2026-04-19T05:24:05.554531+07:00"
+    },
+    {
+      "id": "5fdc51a02dd2a76c931741464c277751",
+      "title": "Chồng không chịu thừa nhận quá khứ từng quan hệ với bạn gái cũ",
+      "link": "https://vnexpress.net/chong-lua-doi-chong-khong-chiu-thua-nhan-qua-khu-tung-quan-he-voi-ban-gai-cu-5064085.html",
+      "summary": "Khi đó anh nói với tôi rằng chưa từng quan hệ với ai và tôi là người đầu tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:27:53+07:00",
+      "fetched": "2026-04-19T05:24:02.720718+07:00"
+    },
+    {
+      "id": "206ef8031078ce2c4358a16544dbc0ba",
+      "title": "Những hành động khiến bàn tiệc mất ngon",
+      "link": "https://vnexpress.net/nhung-hanh-dong-khien-ban-tiec-mat-ngon-5064109.html",
+      "summary": "Một người cầm miếng sườn nướng ăn nhồm nhoàm, dùng khăn giấy ướt lau qua loa rồi cầm ly đi mời bia các bàn tiệc khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:27:36+07:00",
+      "fetched": "2026-04-19T05:24:02.720847+07:00"
+    },
+    {
+      "id": "37c41c3c9cba415438d7cd8028b91619",
+      "title": "M.U đánh bại Chelsea ngay tại Stamford Bridge, Tottenham bị Brighton chia điểm phút 90+5",
+      "link": "https://thanhnien.vn/mu-danh-bai-chelsea-ngay-tai-stamford-bridge-tottenham-bi-brighton-chia-diem-phut-905-185260419040138289.htm",
+      "summary": "Rạng sáng 19.4, dù thi đấu lép vế và có ít cơ hội ăn bàn nhưng M.U vẫn biết cách vượt khó, đánh bại Chelsea 1-0 ở trận đấu vòng 33 Ngoại hạng Anh 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T21:06:00+07:00",
+      "fetched": "2026-04-19T05:24:05.554653+07:00"
+    },
+    {
+      "id": "1da9197795af52ea96fcecc3ea3f3d8f",
+      "title": "Man Utd thắng Chelsea, tiến sát suất Champions League",
+      "link": "https://vnexpress.net/man-utd-thang-chelsea-tien-sat-suat-champions-league-5064203.html",
+      "summary": "Bàn thắng của Matheus Cunha giúp Man Utd thắng chủ nhà Chelsea 1-0 ở vòng 33 Ngoại hạng Anh, để chạm một tay vào suất Champions League mùa sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T20:55:20+07:00",
+      "fetched": "2026-04-19T05:24:02.720990+07:00"
+    },
+    {
+      "id": "1da9197795af52ea96fcecc3ea3f3d8f",
+      "title": "Man Utd thắng Chelsea, tiến sát suất Champions League",
+      "link": "https://vnexpress.net/man-utd-thang-chelsea-tien-sat-suat-champions-league-5064203.html",
+      "summary": "Bàn thắng của Matheus Cunha giúp Man Utd thắng chủ nhà Chelsea 1-0 ở vòng 33 Ngoại hạng Anh, để chạm một tay vào suất Champions League mùa sau.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-18T20:55:20+07:00",
+      "fetched": "2026-04-19T05:24:15.361119+07:00"
+    },
+    {
       "id": "05a3e44bf534fc5d604c6e6072f09114",
       "title": "Thịt tươi và thịt đông lạnh: Loại nào giữ dinh dưỡng tốt hơn?",
       "link": "https://thanhnien.vn/thit-tuoi-va-thit-dong-lanh-loai-nao-giu-dinh-duong-tot-hon-185260418000611907.htm",
@@ -161,6 +361,16 @@ window.newsData_2026_04_19 = {
       "category": "Tổng hợp",
       "published": "2026-04-18T20:20:00+07:00",
       "fetched": "2026-04-19T03:25:56.970912+07:00"
+    },
+    {
+      "id": "49dd8c7c87f17b1f968cca2e6db62e25",
+      "title": "Lê Văn Hương bảo vệ chức vô địch VnExpress Marathon Huế",
+      "link": "https://vnexpress.net/8-000-runner-chinh-phuc-vnexpress-marathon-hue-5064065.html",
+      "summary": "Chân chạy Nghệ An Lê Văn Hương bảo vệ thành công chức vô địch 21km VnExpress Marathon Huế sau khi vượt Lê Đình Tường ở những km cuối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T20:15:00+07:00",
+      "fetched": "2026-04-19T05:24:02.721122+07:00"
     },
     {
       "id": "382b02246b8ba64fe9abb8401a39fb06",
