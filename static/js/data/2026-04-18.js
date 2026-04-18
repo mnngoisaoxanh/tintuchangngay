@@ -1,7 +1,137 @@
 window.newsData_2026_04_18 = {
   "date": "2026-04-18",
-  "lastUpdated": "2026-04-18T21:34:49.995400+07:00",
+  "lastUpdated": "2026-04-18T23:28:24.759510+07:00",
   "articles": [
+    {
+      "id": "86918f45455bd0679f0ec51a77abf437",
+      "title": "Cầu thủ U23 tỏa sáng, CLB Ninh Bình nuôi hy vọng đua vô địch",
+      "link": "https://tuoitre.vn/cau-thu-u23-toa-sang-clb-ninh-binh-nuoi-hy-vong-dua-vo-dich-20260418205831932.htm",
+      "summary": "Bàn thắng của 2 tuyển thủ U23 Việt Nam Lê Văn Thuận và Trần Thành Trung đã giúp CLB Ninh Bình thắng PVF-CAND 3-0, qua đó nuôi hy vọng đua vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T23:28:15.551263+07:00",
+      "fetched": "2026-04-18T23:28:15.551376+07:00"
+    },
+    {
+      "id": "b2733a17566548b33751726e0664a41c",
+      "title": "TP.HCM muốn bắt tay đại học, viện nghiên cứu để gỡ bài toán lớn về tăng trưởng",
+      "link": "https://tuoitre.vn/tp-hcm-muon-bat-tay-dai-hoc-vien-nghien-cuu-de-go-bai-toan-lon-ve-tang-truong-20260418201907525.htm",
+      "summary": "Mô hình hợp tác truyền thống giữa 3 nhà đang bộc lộ nhiều hạn chế khi vận hành rời rạc, thiếu hiệu quả, giá trị tạo ra chưa tương xứng với yêu cầu phát triển mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T23:28:15.551138+07:00",
+      "fetched": "2026-04-18T23:28:15.551252+07:00"
+    },
+    {
+      "id": "c3c88a3de6fa84935a3bfb3ccd9f089e",
+      "title": "Khủng hoảng tâm lý, thứ làm dịu cơn đau không nằm trong màn hình",
+      "link": "https://tuoitre.vn/khung-hoang-tam-ly-thu-lam-diu-con-dau-khong-nam-trong-man-hinh-20260418210544652.htm",
+      "summary": "Thạc sĩ giáo dục và nhà tham vấn tâm lý Lương Dũng Nhân nhắn nhủ các bạn trẻ thứ thực sự làm dịu cơn đau không nằm trong màn hình, mà nằm ở hơi thở của một người khác đang ngồi gần, ở ánh nhìn không phán xét, không bị đòi hỏi 'phải ổn'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T23:28:15.551016+07:00",
+      "fetched": "2026-04-18T23:28:15.551128+07:00"
+    },
+    {
+      "id": "5baf84e783f7680e3469cc0e82340f86",
+      "title": "Bị loại sốc, HLV U17 Thái Lan từ chức",
+      "link": "https://tuoitre.vn/bi-loai-soc-hlv-u17-thai-lan-tu-chuc-20260418212410185.htm",
+      "summary": "Không lâu sau khi U17 Thái Lan thua Lào 2-3 và bị loại khỏi Giải U17 Đông Nam Á 2026, HLV U17 Thái Lan Sirisak Yodyardthai đã tuyên bố từ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T23:28:15.550892+07:00",
+      "fetched": "2026-04-18T23:28:15.551005+07:00"
+    },
+    {
+      "id": "55ddc6d91d556870758c2602b1a3e3c1",
+      "title": "Giáo hoàng Leo XIV giải thích về căng thẳng với ông Trump",
+      "link": "https://tuoitre.vn/giao-hoang-leo-xiv-giai-thich-ve-cang-thang-voi-ong-trump-20260418220042174.htm",
+      "summary": "Ngày 18-4, Giáo hoàng Leo XIV đã tìm cách hạ nhiệt căng thẳng với Tổng thống Mỹ Donald Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T23:28:15.550761+07:00",
+      "fetched": "2026-04-18T23:28:15.550880+07:00"
+    },
+    {
+      "id": "a9dfa1b41921d1a58a91367c8d21622c",
+      "title": "Ngoại binh CLB Hải Phòng nhập viện bất thường trước trận đấu",
+      "link": "https://tuoitre.vn/ngoai-binh-clb-hai-phong-nhap-vien-bat-thuong-truoc-tran-dau-20260418221714696.htm",
+      "summary": "Tiền đạo Welo Lupeta nhập viện, không đủ sức khỏe để đá chính trong trận thua của CLB Hải Phòng trên sân Hà Tĩnh ở vòng 19 V-League 2025-2026 diễn ra vào tối 18-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T23:28:15.550612+07:00",
+      "fetched": "2026-04-18T23:28:15.550749+07:00"
+    },
+    {
+      "id": "519118dbba3a25e03017c0ce4d3e126b",
+      "title": "Ô tô bị tàu hỏa tông biến dạng, nam tài xế bỏ xe tháo chạy",
+      "link": "https://tuoitre.vn/o-to-bi-tau-hoa-tong-bien-dang-nam-tai-xe-bo-xe-thao-chay-20260418221650579.htm",
+      "summary": "Cú tông khiến ô tô bị văng ra xa, hư hỏng nặng. Nam tài xế đã kịp thời rời khỏi xe trước khi xảy ra va chạm nên không có thiệt hại về người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T23:28:15.550485+07:00",
+      "fetched": "2026-04-18T23:28:15.550599+07:00"
+    },
+    {
+      "id": "8157ade43ef41f21f3de584da290c056",
+      "title": "Ông Trump nói Iran 'không thể tống tiền chúng tôi' bằng eo biển Hormuz",
+      "link": "https://tuoitre.vn/ong-trump-noi-iran-khong-the-tong-tien-chung-toi-bang-eo-bien-hormuz-20260418223008317.htm",
+      "summary": "Bình luận của ông Trump được đưa ra trong bối cảnh quân đội Iran tuyên bố eo biển Hormuz một lần nữa bị đóng cửa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T23:28:15.550361+07:00",
+      "fetched": "2026-04-18T23:28:15.550474+07:00"
+    },
+    {
+      "id": "e2bde4f511031aac050667e36e7e07b1",
+      "title": "Lan tỏa hình ảnh cán bộ chiến sĩ công an 'vì nước quên thân, vì dân phục vụ' trong thời đại số",
+      "link": "https://tuoitre.vn/lan-toa-hinh-anh-can-bo-chien-si-cong-an-vi-nuoc-quen-than-vi-dan-phuc-vu-trong-thoi-dai-so-20260418213718288.htm",
+      "summary": "Tối 18-4, Công an TP.HCM tổ chức lễ hưởng ứng điểm cuộc thi sáng tạo video 'Tổ quốc bình yên' do Bộ Công an phối hợp Bộ Giáo dục và Đào tạo tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T23:28:15.550234+07:00",
+      "fetched": "2026-04-18T23:28:15.550349+07:00"
+    },
+    {
+      "id": "14812c6d536d198e2f4046dd49bdd599",
+      "title": "Pickle Allstars khuấy động giới showbiz Việt",
+      "link": "https://tuoitre.vn/pickle-allstars-khuay-dong-gioi-showbiz-viet-20260418155556089.htm",
+      "summary": "Hoa hậu Hương Giang khuấy động giải Pickle Allstars mùa thứ 2 bằng thể thức và nhân tố mới chứ không còn kết hợp cùng Lý Hoàng Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T23:28:15.550102+07:00",
+      "fetched": "2026-04-18T23:28:15.550223+07:00"
+    },
+    {
+      "id": "26b4dd41e142c35810b93e0f3a9c23d5",
+      "title": "Video: Tiền đạo Ninh Bình dứt điểm 'cháy lưới' PVF-CAND",
+      "link": "https://tuoitre.vn/video-tien-dao-ninh-binh-dut-diem-chay-luoi-pvf-cand-20260418224616782.htm",
+      "summary": "Đối mặt với hàng phòng ngự PVF-CAND, tiền đạo Phạm Gia Hưng (25 tuổi) xử lý bình tĩnh rồi tung cú dứt điểm lạnh lùng, mở tỉ số cho CLB Ninh Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T23:28:15.549963+07:00",
+      "fetched": "2026-04-18T23:28:15.550084+07:00"
+    },
+    {
+      "id": "d19e8a2f41ac7e5e915fd00bd07dfd89",
+      "title": "Xả súng ở Kiev khiến nhiều người chết, ông Zelensky lên tiếng",
+      "link": "https://tuoitre.vn/xa-sung-o-kiev-khien-nhieu-nguoi-chet-ong-zelensky-len-tieng-20260418225446808.htm",
+      "summary": "Ngày 18-4, một người đàn ông nổ súng khiến ít nhất 5 người chết và một số người bị thương tại thủ đô Kiev của Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T23:28:15.549821+07:00",
+      "fetched": "2026-04-18T23:28:15.549951+07:00"
+    },
+    {
+      "id": "b7b020d2137e4dde50b1a0cf8f53bbc0",
+      "title": "Hương vị Úc 2026: ẩm thực trở thành cầu nối chiến lược Việt Nam - Úc",
+      "link": "https://tuoitre.vn/huong-vi-uc-2026-am-thuc-tro-thanh-cau-noi-chien-luoc-viet-nam-uc-20260418230109885.htm",
+      "summary": "Hương vị Úc 2026 không chỉ là sự kiện ẩm thực thường niên mà còn là biểu tượng cho quan hệ đối tác và tình đoàn kết hữu nghị giữa Úc và Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T23:28:15.549570+07:00",
+      "fetched": "2026-04-18T23:28:15.549806+07:00"
+    },
     {
       "id": "125bc7debaad59aa9d26c546ef828d05",
       "title": "Bắt xe khách liên tỉnh chở 181 con khỉ, 16 con rái cá và 14 chim hồng hoàng",
@@ -443,6 +573,16 @@ window.newsData_2026_04_18 = {
       "fetched": "2026-04-18T17:31:41.260345+07:00"
     },
     {
+      "id": "b80c2963958e583f1a39df3b6894f5f9",
+      "title": "Xả súng chết người tại Kyiv, nghi phạm đang cố thủ trong siêu thị",
+      "link": "https://thanhnien.vn/xa-sung-chet-nguoi-tai-kyiv-nghi-pham-dang-co-thu-trong-sieu-thi-185260418223821191.htm",
+      "summary": "Một người đàn ông đã xả súng làm nhiều người chết và bị thương, sau đó cố thủ bên trong siêu thị tại thủ đô Kyiv của Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:42:00+07:00",
+      "fetched": "2026-04-18T23:28:07.547387+07:00"
+    },
+    {
       "id": "a0115f803c34a0a92c363831980f78e6",
       "title": "Khi ánh sáng tri thức thắp lên từ những điều bình dị",
       "link": "https://tuoitre.vn/khi-anh-sang-tri-thuc-thap-len-tu-nhung-dieu-binh-di-20260418083522928.htm",
@@ -593,6 +733,106 @@ window.newsData_2026_04_18 = {
       "fetched": "2026-04-18T15:37:55.989214+07:00"
     },
     {
+      "id": "b0c13c19c9dc6486acca0b8c0747c68c",
+      "title": "Cà phê tạo không gian văn hóa, kết nối cộng đồng toàn cầu",
+      "link": "https://vnexpress.net/ca-phe-tao-khong-gian-van-hoa-ket-noi-cong-dong-toan-cau-5064177.html",
+      "summary": "Diễn đàn Di sản Cà phê Thế giới tại Đăk Lăk mở rộng cách nhìn về cà phê, từ sản phẩm nông nghiệp sang không gian văn hóa và kết nối cộng đồng toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:30:00+07:00",
+      "fetched": "2026-04-18T23:28:04.064641+07:00"
+    },
+    {
+      "id": "43290b14f04ef4510763113d7d83c619",
+      "title": "Phim ‘Bóng ma hạnh phúc’ kết thúc ở tập bao nhiêu?",
+      "link": "https://thanhnien.vn/phim-bong-ma-hanh-phuc-ket-thuc-o-tap-bao-nhieu-185260418213758506.htm",
+      "summary": "Phim 'Bóng ma hạnh phúc' đang gây chú ý thời gian gần đây, không phải vì sự mới mẻ trong đề tài mà chính bởi cách đẩy cao kịch tính, khai thác triệt để cảm xúc ức chế khiến khán giả 'không thể bỏ xem'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:05:00+07:00",
+      "fetched": "2026-04-18T23:28:07.547558+07:00"
+    },
+    {
+      "id": "9777366ee17ea8038df22f1ee1df5bce",
+      "title": "Eo biển Hormuz lại bị đóng, ông Trump tuyên bố không để Iran 'tống tiền'",
+      "link": "https://thanhnien.vn/eo-bien-hormuz-lai-bi-dong-ong-trump-tuyen-bo-khong-de-iran-tong-tien-185260418220053071.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết đang đàm phán với Iran và tuyên bố sẽ không để nước này tống tiền sau khi Tehran tái đóng cửa eo biển Hormuz.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T15:03:00+07:00",
+      "fetched": "2026-04-18T23:28:07.547736+07:00"
+    },
+    {
+      "id": "5584c300dc14727692515cc9d05b6c41",
+      "title": "Hàng nghìn người đổ về công viên nước Hồ Tây ngày đầu mở cửa",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-do-ve-cong-vien-nuoc-ho-tay-ngay-dau-mo-cua-5064152.html",
+      "summary": "Hơn 6.000 người dân và du khách đổ đến công viên nước Hồ Tây trải nghiệm các hoạt động vui chơi, giải trí trong ngày đầu tiên điểm đến này mở cửa phục vụ dịp mùa hè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T14:59:21+07:00",
+      "fetched": "2026-04-18T23:28:04.064854+07:00"
+    },
+    {
+      "id": "579a320ad968803365cc447173b68c73",
+      "title": "Hoang mang khi biết bố chồng tương lai gia trưởng, cờ bạc",
+      "link": "https://vnexpress.net/song-chung-voi-nha-chong-hoang-mang-khi-biet-bo-chong-tuong-lai-gia-truong-co-bac-5064078.html",
+      "summary": "Bạn trai tôi vẫn giữ thái độ như trước, nói rằng chuyện của bố mẹ, anh sẽ cố gắng lo, không để ảnh hưởng nhiều đến tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T14:56:58+07:00",
+      "fetched": "2026-04-18T23:28:04.065024+07:00"
+    },
+    {
+      "id": "42fbf2f1c14b9b801aad1692ee7f7bee",
+      "title": "Đạo diễn '50 sắc thái' và chồng kém 23 tuổi sau 14 năm kết hôn",
+      "link": "https://thanhnien.vn/dao-dien-50-sac-thai-va-chong-kem-23-tuoi-sau-14-nam-ket-hon-185260418195340533.htm",
+      "summary": "Sau hơn một thập kỷ chung sống, cuộc hôn nhân của đạo diễn phim '50 sắc thái' và chồng kém tuổi vẫn nhận được sự quan tâm của công chúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T14:53:00+07:00",
+      "fetched": "2026-04-18T23:28:07.547897+07:00"
+    },
+    {
+      "id": "46a9c3b093f3d7bc4d949df942f46090",
+      "title": "Kẹt trên đường ray, ôtô bị tàu hỏa tông",
+      "link": "https://vnexpress.net/ket-tren-duong-ray-oto-bi-tau-hoa-tong-5064161.html",
+      "summary": "Ôtô điện bị tàu hỏa tông văng khi kẹt trên đường ray đường sắt Bắc Nam đoạn qua xã Đại Xuyên, tối 18/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T14:45:30+07:00",
+      "fetched": "2026-04-18T23:28:04.065191+07:00"
+    },
+    {
+      "id": "73803fde7d2c6d19175e0ed0ea91bc1f",
+      "title": "Phi cơ Qatar tặng cho Mỹ bắt đầu bay thử",
+      "link": "https://vnexpress.net/phi-co-qatar-tang-cho-my-bat-dau-bay-thu-5063990.html",
+      "summary": "Không quân Mỹ thông báo bắt đầu thử nghiệm trên không chiếc Boeing 747-8i do Qatar tặng để hoán cải làm chuyên cơ cho Tổng thống Trump.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T14:38:25+07:00",
+      "fetched": "2026-04-18T23:28:04.065360+07:00"
+    },
+    {
+      "id": "73803fde7d2c6d19175e0ed0ea91bc1f",
+      "title": "Phi cơ Qatar tặng cho Mỹ bắt đầu bay thử",
+      "link": "https://vnexpress.net/phi-co-qatar-tang-cho-my-bat-dau-bay-thu-5063990.html",
+      "summary": "Không quân Mỹ thông báo bắt đầu thử nghiệm trên không chiếc Boeing 747-8i do Qatar tặng để hoán cải làm chuyên cơ cho Tổng thống Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-18T14:38:25+07:00",
+      "fetched": "2026-04-18T23:28:17.412568+07:00"
+    },
+    {
+      "id": "8cfe4be6507ba9cc381f9fd6d6e7c491",
+      "title": "Nữ đầu bếp Việt đầu tiên đạt sao Michelin mang gì đến Hương vị Úc 2026?",
+      "link": "https://thanhnien.vn/nu-dau-bep-viet-dau-tien-dat-sao-michelin-mang-gi-den-huong-vi-uc-2026-18526041821093413.htm",
+      "summary": "Đêm gala Hương vị Úc 2026 tại TP.HCM gây chú ý với thực đơn do Sam Trần - nữ đầu bếp Việt đầu tiên đạt sao Michelin - sáng tạo, kết hợp nguyên liệu Úc và cảm hứng ẩm thực Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T14:36:00+07:00",
+      "fetched": "2026-04-18T23:28:07.548052+07:00"
+    },
+    {
       "id": "a5d303776fcde67e2003d4a59decd9c3",
       "title": "Diễn đàn Di sản Cà phê Thế giới, kết nối văn hóa và tri thức cà phê",
       "link": "https://thanhnien.vn/dien-dan-di-san-ca-phe-the-gioi-ket-noi-van-hoa-va-tri-thuc-ca-phe-185260418204050325.htm",
@@ -661,6 +901,16 @@ window.newsData_2026_04_18 = {
       "category": "Tổng hợp",
       "published": "2026-04-18T14:07:00+07:00",
       "fetched": "2026-04-18T21:34:40.638175+07:00"
+    },
+    {
+      "id": "dc2365f14411cb828b46affc9e5339eb",
+      "title": "'Bloodhounds 2' duy trì sức hút",
+      "link": "https://vnexpress.net/bloodhounds-2-duy-tri-suc-hut-5063951.html",
+      "summary": "\"Bloodhounds 2\" dẫn đầu lượt xem trên Netflix suốt ba tuần nhờ các màn đối kháng tay đôi dồn dập cùng diễn xuất của dàn nghệ sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T14:00:00+07:00",
+      "fetched": "2026-04-18T23:28:04.065679+07:00"
     },
     {
       "id": "272658daa4e0706351c4ba61824da1a3",
