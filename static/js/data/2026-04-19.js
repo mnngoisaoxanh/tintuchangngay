@@ -1,7 +1,157 @@
 window.newsData_2026_04_19 = {
   "date": "2026-04-19",
-  "lastUpdated": "2026-04-19T15:42:41.565675+07:00",
+  "lastUpdated": "2026-04-19T17:31:27.025056+07:00",
   "articles": [
+    {
+      "id": "dc24f1a7ee1bb219adedb59276f4b754",
+      "title": "Cửa Lò xây 15 điểm tắm nước ngọt phục vụ du khách",
+      "link": "https://tuoitre.vn/cua-lo-xay-15-diem-tam-nuoc-ngot-phuc-vu-du-khach-2026041915325421.htm",
+      "summary": "Hệ thống 15 điểm tắm nước ngọt ở biển Cửa Lò, Nghệ An sẽ được đấu giá, đưa vào khai thác, dự kiến thu phí để phục vụ du khách trong mùa du lịch 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.622242+07:00",
+      "fetched": "2026-04-19T17:31:18.622359+07:00"
+    },
+    {
+      "id": "272bea481d1773c81acaa4db8405e3d7",
+      "title": "Lộ trình chặng 16 cuộc đua xe đạp Cúp truyền hình TP.HCM 2026",
+      "link": "https://tuoitre.vn/lo-trinh-chang-16-cuoc-dua-xe-dap-cup-truyen-hinh-tp-hcm-2026-20260419160951941.htm",
+      "summary": "Chặng 16 của cuộc đua xe đạp toàn quốc Cúp truyền hình TP.HCM HTV - Tôn Đông Á 2026 ngày 20-4 có thể là bước ngoặt của giải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.622090+07:00",
+      "fetched": "2026-04-19T17:31:18.622229+07:00"
+    },
+    {
+      "id": "2a161ffd3f8fc418399d7e1183ec8d7c",
+      "title": "Miss Grand Vietnam 2026 khởi động, ai sẽ đại diện Việt Nam thi quốc tế?",
+      "link": "https://tuoitre.vn/miss-grand-vietnam-2026-khoi-dong-ai-se-dai-dien-viet-nam-thi-quoc-te-20260419160542871.htm",
+      "summary": "Sau những dấu ấn của các đại diện Việt Nam tại Miss Grand International, cuộc thi Miss Grand Vietnam 2026 khởi động, tìm kiếm gương mặt tiếp theo tranh tài ở đấu trường sắc đẹp quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.621957+07:00",
+      "fetched": "2026-04-19T17:31:18.622078+07:00"
+    },
+    {
+      "id": "e350a388e675941b5928a05f77d7c595",
+      "title": "Mây dông hình thành, Lâm Đồng, Đồng Tháp, Vĩnh Long, Tây Ninh đón mưa trước, về tối càng lan rộng",
+      "link": "https://tuoitre.vn/may-dong-hinh-thanh-lam-dong-dong-thap-vinh-long-tay-ninh-don-mua-truoc-ve-toi-cang-lan-rong-20260419161028227.htm",
+      "summary": "Đài khí tượng thủy văn Nam Bộ cho biết mây dông đang hình thành ở một số tỉnh miền Nam sau ngày dài oi bức, mưa rào đã xuất hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.621830+07:00",
+      "fetched": "2026-04-19T17:31:18.621945+07:00"
+    },
+    {
+      "id": "d8fb053041b321acfb2cae961f5e4d10",
+      "title": "Trực tuyến U17 Indonesia - U17 Việt Nam (19h30): Vé đầu bảng cho Việt Nam?",
+      "link": "https://tuoitre.vn/truc-tuyen-u17-indonesia-u17-viet-nam-19h30-ve-dau-bang-cho-viet-nam-2026041915545696.htm",
+      "summary": "Chỉ cần một trận hòa trước chủ nhà U17 Indonesia vào tối nay 19-4, U17 Việt Nam sẽ chắc chắn giành ngôi đầu bảng A để góp mặt ở bán kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.621699+07:00",
+      "fetched": "2026-04-19T17:31:18.621818+07:00"
+    },
+    {
+      "id": "3580efef9f12d6dd1ec5166e0a17de39",
+      "title": "Học sinh miền Tây ứng dụng AI trong 'Sáng tạo vì cộng đồng'",
+      "link": "https://tuoitre.vn/hoc-sinh-mien-tay-ung-dung-ai-trong-sang-tao-vi-cong-dong-20260419162037879.htm",
+      "summary": "Sáng 19-4, tại Trường đại học Đồng Tháp diễn ra Ngày hội giáo dục STEM với chủ đề Sáng tạo vì cộng đồng, thu hút khoảng 4.000 học sinh Đồng bằng sông Cửu Long và tỉnh Tây Ninh tham dự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.621568+07:00",
+      "fetched": "2026-04-19T17:31:18.621687+07:00"
+    },
+    {
+      "id": "da902261147d77c7596ce6a6f7742725",
+      "title": "20.000 hecta rừng U Minh Hạ bên ngưỡng cháy nguy hiểm",
+      "link": "https://tuoitre.vn/20-000-hecta-rung-u-minh-ha-ben-nguong-chay-nguy-hiem-20260419161030114.htm",
+      "summary": "Nắng nóng kéo dài khiến mực nước sụt giảm nhanh làm gần 20.000ha rừng tại khu vực U Minh Hạ, tỉnh Cà Mau, bị lên cấp cảnh báo cháy cực kỳ nguy hiểm - cấp cao nhất trong thang cảnh báo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.621438+07:00",
+      "fetched": "2026-04-19T17:31:18.621556+07:00"
+    },
+    {
+      "id": "400d825e0579e8f92020a5c6f6418850",
+      "title": "Món quà bất ngờ của Sơn Tùng M-TP cho Thảo cầm viên",
+      "link": "https://tuoitre.vn/mon-qua-bat-ngo-cua-son-tung-m-tp-cho-thao-cam-vien-20260419123626571.htm",
+      "summary": "Tranh thủ ngày cuối tuần, nhiều bạn trẻ đã đến Thảo cầm viên để chụp hình cùng chú ếch ngồi thiền và loạt thú hóa đá. Người khởi xướng trào lưu chụp ảnh này là ca sĩ Sơn Tùng M-TP.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.621303+07:00",
+      "fetched": "2026-04-19T17:31:18.621425+07:00"
+    },
+    {
+      "id": "f850b9923842e9a04d37cacbbc616a2f",
+      "title": "Bế mạc Hội thao giáo dục quốc phòng và an ninh học sinh THPT toàn quốc",
+      "link": "https://tuoitre.vn/be-mac-hoi-thao-giao-duc-quoc-phong-va-an-ninh-hoc-sinh-thpt-toan-quoc-20260419152321157.htm",
+      "summary": "Lễ bế mạc hội thao diễn ra chiều 19-4 tại TP.HCM, với sự tham dự của hơn 700 vận động viên đến từ các tỉnh, thành trên cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.621148+07:00",
+      "fetched": "2026-04-19T17:31:18.621289+07:00"
+    },
+    {
+      "id": "8fdcfd1e9b52a62c56e0f4b0c5bb2de5",
+      "title": "Hơn 4.000 thanh niên Cần Thơ đạt Sinh viên 5 tốt, làm lợi cho cộng đồng hơn 10 tỉ đồng",
+      "link": "https://tuoitre.vn/hon-4-000-thanh-nien-can-tho-dat-sinh-vien-5-tot-lam-loi-cho-cong-dong-hon-10-ti-dong-20260419123900888.htm",
+      "summary": "Anh Lâm Tùng - Phó chủ tịch thường trực Trung ương Hội Sinh viên Việt Nam - đánh giá cao kết quả làm lợi hơn 10 tỉ đồng từ công trình phần việc vì lợi ích cộng đồng của tuổi trẻ Cần Thơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.621013+07:00",
+      "fetched": "2026-04-19T17:31:18.621135+07:00"
+    },
+    {
+      "id": "c12a5489df6183c4239d3c0c84e819f8",
+      "title": "Lãnh tụ tối cao Iran tuyên bố 'nỗ lực gấp đôi' để phát triển quân đội",
+      "link": "https://tuoitre.vn/lanh-tu-toi-cao-iran-tuyen-bo-no-luc-gap-doi-de-phat-trien-quan-doi-20260419164203637.htm",
+      "summary": "Lãnh tụ tối cao Mojtaba Khamenei cảnh báo lực lượng hải quân Iran đã sẵn sàng giáng xuống Mỹ và Israel “những thất bại cay đắng”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.620885+07:00",
+      "fetched": "2026-04-19T17:31:18.621001+07:00"
+    },
+    {
+      "id": "64e9151512c92d591f9f38f51e5de5c0",
+      "title": "Game On Crew giành ngôi vị Quán quân Super24 Vietnam 2026",
+      "link": "https://tuoitre.vn/game-on-crew-gianh-ngoi-vi-quan-quan-super24-vietnam-2026-20260419162402985.htm",
+      "summary": "Sau hành trình tranh tài kịch tính, nhóm nhảy Game On Crew đã chính thức giành ngôi vị quán quân, khép lại mùa giải với chiến thắng thuyết phục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.620745+07:00",
+      "fetched": "2026-04-19T17:31:18.620873+07:00"
+    },
+    {
+      "id": "c7f8fd29b24465db1275cf177c15aff8",
+      "title": "Skoda Kodiaq 2026 về đại lý Việt Nam: Giá từ 1,6 tỉ, hơn Palisade đắt nhất dù cạnh tranh Santa Fe",
+      "link": "https://tuoitre.vn/skoda-kodiaq-2026-ve-dai-ly-viet-nam-gia-tu-1-6-ti-hon-palisade-dat-nhat-du-canh-tranh-santa-fe-20260419092507172.htm",
+      "summary": "Với mức giá tăng thêm 148 triệu đồng, Skoda Kodiaq 2026 được bổ sung gói ADAS cùng một số tiện ích nội thất hướng đến tính thực dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.620613+07:00",
+      "fetched": "2026-04-19T17:31:18.620733+07:00"
+    },
+    {
+      "id": "04ee74b4f533cae0a3ca32c7cbe83629",
+      "title": "Đồng Tháp họp mặt kỷ niệm 30-4: Đại tướng Nguyễn Trọng Nghĩa nhấn mạnh trách nhiệm với hiện tại",
+      "link": "https://tuoitre.vn/dong-thap-hop-mat-ky-niem-30-4-dai-tuong-nguyen-trong-nghia-nhan-manh-trach-nhiem-voi-hien-tai-20260419165557385.htm",
+      "summary": "Đại tướng Nguyễn Trọng Nghĩa nhắc nhở giá trị của hòa bình, độc lập, tự do và thống nhất đất nước hôm nay được đánh đổi bằng nhiều hy sinh to lớn, do đó mỗi cán bộ, chiến sĩ, cựu quân nhân cần phát huy phẩm chất \"Bộ đội Cụ Hồ\" trong mọi hoàn cảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.620470+07:00",
+      "fetched": "2026-04-19T17:31:18.620600+07:00"
+    },
+    {
+      "id": "7cce4e1b3829e94db5fe4472a2d1272e",
+      "title": "Cầu vượt quốc lộ 1 nối vào cao tốc Phan Thiết - Dầu Giây lại lỗi hẹn",
+      "link": "https://tuoitre.vn/cau-vuot-quoc-lo-1-noi-vao-cao-toc-phan-thiet-dau-giay-lai-loi-hen-20260419163851366.htm",
+      "summary": "Cầu vượt quốc lộ 1 nối vào nút giao Ba Bàu lên cao tốc Phan Thiết - Dầu Giây ở xã Hàm Kiệm, tỉnh Lâm Đồng có nguy cơ lỗi hẹn lần nữa, gây khó khăn cho xe cộ qua lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T17:31:18.620240+07:00",
+      "fetched": "2026-04-19T17:31:18.620454+07:00"
+    },
     {
       "id": "b8030343123ed9b96f84b95eb038dbb4",
       "title": "Màn bứt phá ngoạn mục của Đỗ Hoàng Hên",
@@ -453,6 +603,186 @@ window.newsData_2026_04_19 = {
       "fetched": "2026-04-19T11:43:57.580788+07:00"
     },
     {
+      "id": "e27e88a88d30c377b72d186d1f8cc0f9",
+      "title": "Trường ĐH Cảnh sát nhân dân nhận danh hiệu Anh hùng Lực lượng vũ trang nhân dân",
+      "link": "https://thanhnien.vn/truong-dh-canh-sat-nhan-dan-nhan-danh-hieu-anh-hung-luc-luong-vu-trang-nhan-dan-185260419163108979.htm",
+      "summary": "Trường ĐH Cảnh sát nhân dân đón nhận danh hiệu cao quý Anh hùng Lực lượng vũ trang nhân dân nhân dịp kỷ niệm 50 năm Ngày truyền thống (24.4.1976 – 24.4.2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:28:00+07:00",
+      "fetched": "2026-04-19T17:31:17.270857+07:00"
+    },
+    {
+      "id": "220a7e32ba67df2139633a50b33a8c81",
+      "title": "Mua loa mới nhưng nghe chưa hay, hãy thử ngay 'chiêu' này",
+      "link": "https://thanhnien.vn/mua-loa-moi-nhung-nghe-chua-hay-hay-thu-ngay-chieu-nay-185260418085755335.htm",
+      "summary": "Loa mới mua nghe không hay như kỳ vọng, đừng vội trả hàng vì có thể đang thiếu bước 'chạy rô-đai'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:25:00+07:00",
+      "fetched": "2026-04-19T17:31:17.271022+07:00"
+    },
+    {
+      "id": "277c7d33874212b65682125925e60a38",
+      "title": "Cua rơ Việt Nam gây sốc, vượt ngoại binh để giữ danh hiệu vua leo núi",
+      "link": "https://thanhnien.vn/cua-ro-viet-nam-gay-soc-vuot-ngoai-binh-de-giu-danh-hieu-vua-leo-nui-185260419170748514.htm",
+      "summary": "Bất ngờ xảy ra trong chặng 15 Cúp xe đạp truyền hình TP.HCM - Tôn Đông Á 2026 diễn ra sáng nay (19.4) khi tay đua xuất sắc nhất Việt Nam Phạm Lê Xuân Lộc (đang mặc chiếc áo cam) xuất sắc vượt qua các ngoại binh mạnh trên đỉnh Đèo Cả, qua đó khoác lên mình thêm chiếc áo chấm đỏ - vua leo núi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:17:00+07:00",
+      "fetched": "2026-04-19T17:31:17.271198+07:00"
+    },
+    {
+      "id": "b878dc1fcbc33665922287f28dc3d2ae",
+      "title": "Vụ 4.000 tấn lươn quá lứa ‘kêu cứu’: Bán thì lỗ, nuôi tiếp càng khó",
+      "link": "https://thanhnien.vn/vu-4000-tan-luon-qua-lua-keu-cuu-ban-thi-lo-nuoi-tiep-cung-kho-185260419155508172.htm",
+      "summary": "Trong lúc neo lươn quá lứa chờ giá tăng, người nuôi nóng lòng như \"ngồi trên đống lửa\" vì mỗi ngày tiền thức ăn càng tăng nhưng lươn càng hao hụt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:03:00+07:00",
+      "fetched": "2026-04-19T17:31:17.271360+07:00"
+    },
+    {
+      "id": "fc91d0a1ebfba5b82c52a0c9abe88ac5",
+      "title": "Toàn cảnh 17h: Tàu hỏa tông ô tô biến dạng ở Hà Nội | Cháy lớn giữa khu dân cư trung tâm Đà Lạt",
+      "link": "https://thanhnien.vn/toan-canh-17h-tau-hoa-tong-o-to-bien-dang-o-ha-noi-chay-lon-giua-khu-dan-cu-trung-tam-da-lat-185260419163508205.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:00:00+07:00",
+      "fetched": "2026-04-19T17:31:17.271511+07:00"
+    },
+    {
+      "id": "770afdef1e0e91a0285f7100c0cee00e",
+      "title": "Xử phạt 3 doanh nghiệp đầu mối xăng dầu, 5 doanh nghiệp khác đang vào 'tầm ngắm'",
+      "link": "https://thanhnien.vn/xu-phat-3-doanh-nghiep-dau-moi-xang-dau-5-doanh-nghiep-khac-dang-vao-tam-ngam-185260419163816856.htm",
+      "summary": "Ngày 19.4, Cục Quản lý và Phát triển thị trường trong nước (Bộ Công thương) thông tin, cơ quan này vừa xử phạt 3 doanh nghiệp đầu mối và đang làm việc với 5 doanh nghiệp khác vì hành vi không duy trì mức dự trữ tối thiểu theo quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T09:58:00+07:00",
+      "fetched": "2026-04-19T17:31:17.271664+07:00"
+    },
+    {
+      "id": "58df7a2efa9ee00640cea0d9f1ea0b7e",
+      "title": "Cảnh sát Áo phát hiện thuốc chuột trong thức ăn dặm",
+      "link": "https://thanhnien.vn/canh-sat-ao-phat-hien-thuoc-chuot-trong-thuc-an-dam-185260419162810795.htm",
+      "summary": "DW hôm 19.4 dẫn thông tin từ cảnh sát Áo cho biết phát hiện thuốc chuột trong một lọ thức ăn dặm cho trẻ từ 5 tháng tuổi của HIPP, một nhãn hàng của Đức, đồng thời cảnh báo người dân không sử dụng sản phẩm này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T09:56:00+07:00",
+      "fetched": "2026-04-19T17:31:17.271812+07:00"
+    },
+    {
+      "id": "58e4accd5d0d8095b29ad88db76e2e4e",
+      "title": "Xổ số miền Nam ngày 19 tháng 4: Khách trúng đài Tiền Giang lãnh tiền ngay",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-19-thang-4-khach-trung-dai-tien-giang-lanh-tien-ngay-18526041916490138.htm",
+      "summary": "Vừa xong kết quả xổ số miền Nam ngày 19 tháng 4, một đại lý ở TP.HCM thông báo bán trúng và đổi thưởng cho khách có 160 tờ trúng số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T09:51:00+07:00",
+      "fetched": "2026-04-19T17:31:17.271972+07:00"
+    },
+    {
+      "id": "392140f234f1308b88a27aedf1c75abb",
+      "title": "Ăn cơm với thịt gà mỗi ngày: Lợi ích và rủi ro cần biết",
+      "link": "https://thanhnien.vn/an-com-voi-thit-ga-moi-ngay-loi-ich-va-rui-ro-can-biet-185260419165015958.htm",
+      "summary": "Ăn cơm với thịt gà giúp cung cấp năng lượng và đạm nạc. Tuy nhiên, ăn lặp lại mỗi ngày có thể gây mất cân bằng dinh dưỡng và thiếu vi chất quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T09:50:00+07:00",
+      "fetched": "2026-04-19T17:31:17.272121+07:00"
+    },
+    {
+      "id": "fd748fdd6c2fcffa05ee63a2846c6442",
+      "title": "Thót tim khoảnh khắc tàu hỏa húc văng ô tô kẹt giữa thanh chắn đường ngang tại Hà Nội",
+      "link": "https://thanhnien.vn/thot-tim-khoanh-khac-tau-hoa-huc-vang-o-to-ket-giua-thanh-chan-duong-ngang-tai-ha-noi-185260419164721952.htm",
+      "summary": "Chiếc ô tô di chuyển qua đường ngang dân sinh thì bị tàu hỏa đâm trúng khiến xe bị biến dạng, rất may tài xế đã kịp thời thoát ra ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T09:48:00+07:00",
+      "fetched": "2026-04-19T17:31:17.272298+07:00"
+    },
+    {
+      "id": "4d8049c98b0d867da340c38b039acf0a",
+      "title": "Đề xuất tăng mức phạt tù quảng cáo gian dối, vu khống, làm nhục người khác",
+      "link": "https://thanhnien.vn/de-xuat-tang-muc-phat-tu-quang-cao-gian-doi-vu-khong-lam-nhuc-nguoi-khac-185260419150150545.htm",
+      "summary": "Bộ Công an đề xuất tăng mức phạt tù với các tội danh xâm hại đến danh dự, nhân phẩm, hoặc có tính chất gian dối, gây nhiều bức xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T09:14:00+07:00",
+      "fetched": "2026-04-19T17:31:17.272444+07:00"
+    },
+    {
+      "id": "2585d127d7cd487bc9508cc40c55c1af",
+      "title": "Honda Square X125 ồ ạt về Việt Nam, giá 88 triệu sẵn sàng đến tay khách hàng",
+      "link": "https://thanhnien.vn/honda-square-x125-o-at-ve-viet-nam-gia-88-trieu-san-sang-den-tay-khach-hang-185260419115534725.htm",
+      "summary": "Mẫu xe tay ga sở hữu kiểu dáng thiết kế cá tính, lạ mắt - Honda Square X125 ồ ạt về Việt Nam với nhiều lựa chọn màu sắc, được một số cửa hàng xe máy tại TP.HCM, Cần Thơ, Cà Mau… phân phối với giá 88 triệu đồng, sẵn sàng giao xe ngay trong tháng 4.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T09:06:00+07:00",
+      "fetched": "2026-04-19T17:31:17.272588+07:00"
+    },
+    {
+      "id": "50af1aa76fd5ecf5650b48959821d4df",
+      "title": "5 quy tắc dạy con cha mẹ không nên nhượng bộ",
+      "link": "https://vnexpress.net/5-quy-tac-day-con-cha-me-khong-nen-nhuong-bo-5064080.html",
+      "summary": "Các chuyên gia tâm lý đúc kết 5 quy tắc về an toàn, kết nối và kỷ luật mà phụ huynh không nên thỏa hiệp để giúp trẻ phát triển toàn diện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T09:00:00+07:00",
+      "fetched": "2026-04-19T17:31:14.298844+07:00"
+    },
+    {
+      "id": "02bb9ef8a30ebc31b8997707f5e70970",
+      "title": "5 món ăn tối giúp ngủ ngon mỗi đêm",
+      "link": "https://vnexpress.net/5-mon-an-toi-giup-ngu-ngon-moi-dem-5063787.html",
+      "summary": "Ăn tối với các thực phẩm như cơm, khoai tây, rau xanh, protein nạc có thể hỗ trợ cơ thể thư giãn, điều hòa hormone, giúp bạn dễ đi vào giấc ngủ hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T09:00:00+07:00",
+      "fetched": "2026-04-19T17:31:14.299026+07:00"
+    },
+    {
+      "id": "a741d47028688071509bc50cbd0ce79c",
+      "title": "Xổ số miền Nam ngày 19 tháng 4 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-19-thang-4-ket-qua-xo-so-hom-nay-chu-nhat-185260419153927787.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 19 tháng 4; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 19.4.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T09:00:00+07:00",
+      "fetched": "2026-04-19T17:31:17.272733+07:00"
+    },
+    {
+      "id": "bd6c00509adc7a6ed0d710866a5dff58",
+      "title": "Ô tô giá rẻ máy xăng tại Việt Nam đang mất dần sức hút",
+      "link": "https://thanhnien.vn/o-to-gia-re-may-xang-tai-viet-nam-dang-mat-dan-suc-hut-185260418144626673.htm",
+      "summary": "Sở hữu giá bán hấp dẫn đồng thời ngày càng được các nhà sản xuất chăm chút về thiết kế, trang bị, tính năng… nhưng ô tô giá rẻ máy xăng tại Việt Nam lại đang mất dần sức hút, doanh số nhiều mẫu mã vẫn đang trên đà \"lao dốc không phanh\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T08:57:00+07:00",
+      "fetched": "2026-04-19T17:31:17.272882+07:00"
+    },
+    {
+      "id": "7c40ea0130285bb391851fb05ade2541",
+      "title": "5 điểm nóng ở đại chiến Man City - Arsenal",
+      "link": "https://vnexpress.net/5-diem-nong-o-dai-chien-man-city-arsenal-5063870.html",
+      "summary": "Cuộc đại chiến ở vòng 33 Ngoại hạng Anh có thể được định đoạt bởi loạt điểm nóng chiến thuật: từ vai trò sáng tạo của Rayan Cherki, bài học dồn biên ở Wembley cho đến hệ thống 4-2-3-1 đang giúp Pep Guardiola hồi sinh sức mạnh Man City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T08:51:39+07:00",
+      "fetched": "2026-04-19T17:31:14.299224+07:00"
+    },
+    {
+      "id": "7c40ea0130285bb391851fb05ade2541",
+      "title": "5 điểm nóng ở đại chiến Man City - Arsenal",
+      "link": "https://vnexpress.net/5-diem-nong-o-dai-chien-man-city-arsenal-5063870.html",
+      "summary": "Cuộc đại chiến ở vòng 33 Ngoại hạng Anh có thể được định đoạt bởi loạt điểm nóng chiến thuật: từ vai trò sáng tạo của Rayan Cherki, bài học dồn biên ở Wembley cho đến hệ thống 4-2-3-1 đang giúp Pep Guardiola hồi sinh sức mạnh Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-19T08:51:39+07:00",
+      "fetched": "2026-04-19T17:31:27.014986+07:00"
+    },
+    {
       "id": "c437ad24b7050b9072509346e84df30f",
       "title": "Real Sociedad đoạt Cúp Nhà vua Tây Ban Nha, sau khi hạ Atletico Madrid ở loạt sút luân lưu 11m",
       "link": "https://tuoitre.vn/real-sociedad-doat-cup-nha-vua-tay-ban-nha-sau-khi-ha-atletico-madrid-o-loat-sut-luan-luu-11m-2026041905432671.htm",
@@ -603,6 +933,46 @@ window.newsData_2026_04_19 = {
       "fetched": "2026-04-19T08:47:12.994029+07:00"
     },
     {
+      "id": "026c61cc302ad0a2f6a018b2d536fb61",
+      "title": "Cầu thủ Man Utd chế giễu Garnacho",
+      "link": "https://vnexpress.net/cau-thu-man-utd-che-gieu-garnacho-5064297.html",
+      "summary": "Hậu vệ Luke Shaw đăng hình quật ngã Alejandro Garnacho xuống sân, được nhiều cầu thủ Man Utd hưởng ứng sau trận thắng Chelsea ở vòng 33 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T08:42:33+07:00",
+      "fetched": "2026-04-19T17:31:14.299393+07:00"
+    },
+    {
+      "id": "026c61cc302ad0a2f6a018b2d536fb61",
+      "title": "Cầu thủ Man Utd chế giễu Garnacho",
+      "link": "https://vnexpress.net/cau-thu-man-utd-che-gieu-garnacho-5064297.html",
+      "summary": "Hậu vệ Luke Shaw đăng hình quật ngã Alejandro Garnacho xuống sân, được nhiều cầu thủ Man Utd hưởng ứng sau trận thắng Chelsea ở vòng 33 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-19T08:42:33+07:00",
+      "fetched": "2026-04-19T17:31:27.015160+07:00"
+    },
+    {
+      "id": "8be6bba1d48ec0c45ae82f5606c3a80a",
+      "title": "Tay đua tử nạn ở chặng có Verstappen",
+      "link": "https://vnexpress.net/tay-dua-tu-nan-o-chang-co-verstappen-5064290.html",
+      "summary": "Tay đua nghiệp dư Juha Miettinen qua đời sau tai nạn liên hoàn bảy xe tại chặng đua thuộc hệ thống Nurburgring Langstrecken-Serie (NLS), sự kiện có ngôi sao F1 Max Verstappen.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T08:41:29+07:00",
+      "fetched": "2026-04-19T17:31:14.299556+07:00"
+    },
+    {
+      "id": "8be6bba1d48ec0c45ae82f5606c3a80a",
+      "title": "Tay đua tử nạn ở chặng có Verstappen",
+      "link": "https://vnexpress.net/tay-dua-tu-nan-o-chang-co-verstappen-5064290.html",
+      "summary": "Tay đua nghiệp dư Juha Miettinen qua đời sau tai nạn liên hoàn bảy xe tại chặng đua thuộc hệ thống Nurburgring Langstrecken-Serie (NLS), sự kiện có ngôi sao F1 Max Verstappen.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-19T08:41:29+07:00",
+      "fetched": "2026-04-19T17:31:27.015672+07:00"
+    },
+    {
       "id": "3ff18353c4505628016e5735d80bc700",
       "title": "Chênh lệch giá vàng giảm nhanh, đầu tư vàng không còn  'sáng cửa'",
       "link": "https://thanhnien.vn/chenh-lech-gia-vang-giam-nhanh-dau-tu-vang-khong-con-sang-cua-185260419150631076.htm",
@@ -641,6 +1011,16 @@ window.newsData_2026_04_19 = {
       "category": "Tổng hợp",
       "published": "2026-04-19T08:30:48+07:00",
       "fetched": "2026-04-19T15:42:32.592412+07:00"
+    },
+    {
+      "id": "8d12d0e5a643b913c950f3b4cfb551ef",
+      "title": "Dùng AI phục chế vở cải lương kinh điển 'Tiếng trống Mê Linh'",
+      "link": "https://vnexpress.net/dung-ai-phuc-che-vo-cai-luong-kinh-dien-tieng-trong-me-linh-5062699.html",
+      "summary": "\"Tiếng trống Mê Linh\" - vở cải lương kinh điển gắn liền với nghệ sĩ Thanh Nga, Thanh Sang - lần đầu được phục chế dạng màu bằng AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T08:30:48+07:00",
+      "fetched": "2026-04-19T17:31:14.299877+07:00"
     },
     {
       "id": "d26680fe61ce68bdee332bbe1da8fa4f",
@@ -701,6 +1081,16 @@ window.newsData_2026_04_19 = {
       "category": "Tổng hợp",
       "published": "2026-04-19T08:00:38+07:00",
       "fetched": "2026-04-19T15:42:32.592864+07:00"
+    },
+    {
+      "id": "edddd0f45a2c005ea071805adb39e589",
+      "title": "Chủ tịch Hà Nội yêu cầu hoàn thành 5 km đường 70 trong năm",
+      "link": "https://vnexpress.net/chu-tich-ha-noi-yeu-cau-hoan-thanh-5-km-duong-70-trong-nam-5064291.html",
+      "summary": "Chủ tịch UBND TP Hà Nội Vũ Đại Thắng yêu cầu hoàn thành toàn bộ gần 5 km đường 70 trong năm 2026, sớm hơn khoảng một năm so với kế hoạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T08:00:38+07:00",
+      "fetched": "2026-04-19T17:31:14.300385+07:00"
     },
     {
       "id": "c3e2d1d21c9d71931e8757d6e7a576c2",
@@ -2051,6 +2441,16 @@ window.newsData_2026_04_19 = {
       "category": "Công nghệ",
       "published": "2026-04-19T01:00:00+07:00",
       "fetched": "2026-04-19T08:47:18.685284+07:00"
+    },
+    {
+      "id": "423dd3ba846dacbc84b812e3e583c60c",
+      "title": "VBA đón 6 tài năng trẻ từ kỳ Draft 2026",
+      "link": "https://vnexpress.net/vba-don-6-tai-nang-tre-tu-ky-draft-2026-5064322.html",
+      "summary": "Sau kỳ tuyển chọn VĐV có quy mô lớn, VBA Rookie Draft 2026 tìm ra 6 tân binh cho các đội bóng rổ chuyên nghiệp tại giải VĐQG VBA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-19T01:00:00+07:00",
+      "fetched": "2026-04-19T17:31:27.017268+07:00"
     },
     {
       "id": "de214841061b02ddbb915b1d8d3e5950",
