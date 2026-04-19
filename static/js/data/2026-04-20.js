@@ -1,7 +1,27 @@
 window.newsData_2026_04_20 = {
   "date": "2026-04-20",
-  "lastUpdated": "2026-04-20T01:34:49.953092+07:00",
+  "lastUpdated": "2026-04-20T03:27:14.857712+07:00",
   "articles": [
+    {
+      "id": "b4e1a08eb4b4dbe097ee396ae7e96e2e",
+      "title": "Gục ngã ở Etihad, Arsenal chỉ còn hơn Man City 3 điểm",
+      "link": "https://tuoitre.vn/guc-nga-o-etihad-arsenal-chi-con-hon-man-city-3-diem-20260420011641257.htm",
+      "summary": "Rạng sáng 20-4, chủ nhà Man City đã đánh bại Arsenal 2-1 trên sân Etihad ở vòng 33 Giải ngoại hạng Anh (Premier League), qua đó đe dọa ngôi đầu bảng của đối thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T03:27:09.771237+07:00",
+      "fetched": "2026-04-20T03:27:09.771369+07:00"
+    },
+    {
+      "id": "65937ea3694ee1f9d6b4af0b85c38bbe",
+      "title": "Công An TP.HCM vô địch bóng chuyền nam Đại hội TDTT thành phố",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-vo-dich-bong-chuyen-nam-dai-hoi-tdtt-thanh-pho-20260420012637816.htm",
+      "summary": "Tối 19-4, đội Công An TP.HCM đã trở thành nhà vô địch bóng chuyền nam Đại hội Thể dục thể thao TP.HCM 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T03:27:09.771006+07:00",
+      "fetched": "2026-04-20T03:27:09.771221+07:00"
+    },
     {
       "id": "9fe5541c63686c84317fe1bf833616a6",
       "title": "Đình Bắc 'xát muối' vào ngày buồn của Tiến Linh",
@@ -151,6 +171,36 @@ window.newsData_2026_04_20 = {
       "category": "Tổng hợp",
       "published": "2026-04-20T01:34:44.971252+07:00",
       "fetched": "2026-04-20T01:34:44.971446+07:00"
+    },
+    {
+      "id": "6904d53462feabe87c7ae4999356e046",
+      "title": "Sôi động cuộc đua xe đạp quanh Thành cổ",
+      "link": "https://thanhnien.vn/soi-dong-cuoc-dua-xe-dap-quanh-thanh-co-185260419195705211.htm",
+      "summary": "Từ vùng đất từng khắc ghi những năm tháng chiến tranh khốc liệt, Thành cổ Quảng Trị rộn ràng nhịp bánh xe tại giải đua xe đạp 'Chung tay kiến tạo hòa bình' năm 2026. Sự kiện mở ra một ngày hội thể thao sôi động, đồng thời lan tỏa mạnh mẽ thông điệp về hòa bình, kết nối và phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T19:35:00+07:00",
+      "fetched": "2026-04-20T03:27:08.712437+07:00"
+    },
+    {
+      "id": "99e8ec987497b3fdf41bc22bc6b0a586",
+      "title": "Nạn đục trộm bình xăng ở Mỹ khi giá nhiên liệu tăng",
+      "link": "https://vnexpress.net/nan-duc-trom-binh-xang-o-my-khi-gia-nhien-lieu-tang-5064260.html",
+      "summary": "Chỉ với những dụng cụ đơn giản, kẻ trộm có thể khoan thủng bình xăng rồi rút nhiên liệu, khiến chủ xe phải gánh những khoản sửa chữa tốn kém.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T19:00:00+07:00",
+      "fetched": "2026-04-20T03:27:06.163810+07:00"
+    },
+    {
+      "id": "99e8ec987497b3fdf41bc22bc6b0a586",
+      "title": "Nạn đục trộm bình xăng ở Mỹ khi giá nhiên liệu tăng",
+      "link": "https://vnexpress.net/nan-duc-trom-binh-xang-o-my-khi-gia-nhien-lieu-tang-5064260.html",
+      "summary": "Chỉ với những dụng cụ đơn giản, kẻ trộm có thể khoan thủng bình xăng rồi rút nhiên liệu, khiến chủ xe phải gánh những khoản sửa chữa tốn kém.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-19T19:00:00+07:00",
+      "fetched": "2026-04-20T03:27:11.076638+07:00"
     },
     {
       "id": "a40194e35ea5689dcdf2ff7093b8bce9",
