@@ -1,7 +1,117 @@
 window.newsData_2026_04_19 = {
   "date": "2026-04-19",
-  "lastUpdated": "2026-04-19T19:38:31.168558+07:00",
+  "lastUpdated": "2026-04-19T21:34:44.362691+07:00",
   "articles": [
+    {
+      "id": "f4fe57bb78076a183793a21819339aa8",
+      "title": "Đại hội Thể dục Thể thao TP.HCM tưng bừng khai mạc",
+      "link": "https://tuoitre.vn/dai-hoi-the-duc-the-thao-tp-hcm-tung-bung-khai-mac-20260419111422399.htm",
+      "summary": "19h30 ngày 19-4, Lễ khai mạc Đại hội Thể dục Thể thao TP.HCM lần thứ I năm 2026 với chủ đề 'Vươn cao cùng thành phố' chính thức bắt đầu. Ngọn đuốc lớn được ông Nguyễn Mạnh Cường - Phó chủ tịch UBND TP.HCM, thắp sáng. Tuổi Trẻ Online cập nhật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:34:37.311877+07:00",
+      "fetched": "2026-04-19T21:34:37.311998+07:00"
+    },
+    {
+      "id": "3398c28520dd3bf0de3aa34ef2b52410",
+      "title": "Dịp lễ 30-4, 1-5, Đắk Lắk tổ chức Lễ hội cá ngừ đại dương và giải chạy chinh phục núi Đá Bia",
+      "link": "https://tuoitre.vn/dip-le-30-4-1-5-dak-lak-to-chuc-le-hoi-ca-ngu-dai-duong-va-giai-chay-chinh-phuc-nui-da-bia-20260419185747317.htm",
+      "summary": "Dịp lễ 30-4, 1-5 năm nay, Đắk Lắk tổ chức chuỗi hoạt động kích cầu du lịch với điểm nhấn là đêm nghệ thuật, không gian ẩm thực cá ngừ đại dương và giải chạy chinh phục núi Đá Bia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:34:37.311334+07:00",
+      "fetched": "2026-04-19T21:34:37.311450+07:00"
+    },
+    {
+      "id": "77075390dca82f2d421c0a61b3d7ffab",
+      "title": "Nicole Kidman nhớ lại giây phút hay tin mẹ qua đời",
+      "link": "https://tuoitre.vn/nicole-kidman-nho-lai-giay-phut-hay-tin-me-qua-doi-20260419190958324.htm",
+      "summary": "Nicole Kidman hồi tưởng khoảnh khắc biết tin mẹ cô qua đời ngay trước chiến thắng tại Liên hoan phim Venice lần thứ 81: 'Tôi hoàn toàn suy sụp'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:34:37.311204+07:00",
+      "fetched": "2026-04-19T21:34:37.311322+07:00"
+    },
+    {
+      "id": "537345411d6861a69745ecc0016a48e6",
+      "title": "Bí thư Hà Nội thị sát dự án cầu Ngọc Hồi, yêu cầu 'không đánh đổi độ bền công trình để lấy tiến độ'",
+      "link": "https://tuoitre.vn/bi-thu-ha-noi-thi-sat-du-an-cau-ngoc-hoi-yeu-cau-khong-danh-doi-do-ben-cong-trinh-de-lay-tien-do-20260419191441653.htm",
+      "summary": "Chiều 19-4, Bí thư Thành ủy Hà Nội Trần Đức Thắng đã kiểm tra tiến độ loạt công trình, dự án trọng điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:34:37.311070+07:00",
+      "fetched": "2026-04-19T21:34:37.311192+07:00"
+    },
+    {
+      "id": "623f4ec7b338c18682e0e736df1dde53",
+      "title": "Điều tra bổ sung vụ Mr Pips lừa 1.300 tỉ đồng, có sự tham gia rửa tiền của Shark Bình",
+      "link": "https://tuoitre.vn/dieu-tra-bo-sung-vu-mr-pips-lua-1-300-ti-dong-co-su-tham-gia-rua-tien-cua-shark-binh-20260419192855798.htm",
+      "summary": "Viện kiểm sát trả hồ sơ yêu cầu điều tra bổ sung vụ Mr Pips cùng đồng phạm thực hiện chuỗi 738 vụ lừa đảo, chiếm đoạt hơn 1.300 tỉ đồng của nhà đầu tư, và có sự tham gia rửa tiền hàng trăm tỉ từ Shark Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:34:37.310934+07:00",
+      "fetched": "2026-04-19T21:34:37.311058+07:00"
+    },
+    {
+      "id": "8f2eefac68348184e120fb4eeeb864b9",
+      "title": "Iran tuyên bố tăng tốc bổ sung vũ khí, tung kèm video bằng chứng",
+      "link": "https://tuoitre.vn/iran-tuyen-bo-tang-toc-bo-sung-vu-khi-tung-kem-video-bang-chung-20260419192819591.htm",
+      "summary": "Chuẩn tướng Majid Mousavi khẳng định Tehran đang bổ sung vũ khí với tốc độ nhanh hơn so với trước khi xung đột với Mỹ và Israel nổ ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:34:37.310704+07:00",
+      "fetched": "2026-04-19T21:34:37.310917+07:00"
+    },
+    {
+      "id": "9ce54b897949b60f4abec2e82afbd55d",
+      "title": "Chôn xe Mercedes tiền tỉ làm đồ tùy táng gây sốc",
+      "link": "https://tuoitre.vn/chon-xe-mercedes-tien-ti-lam-do-tuy-tang-gay-soc-20260419103606602.htm",
+      "summary": "Việc một gia đình tại Trung Quốc chôn chiếc xe Mercedes trị giá khoảng 1 triệu NDT (gần 4 tỉ đồng) xuống mộ làm đồ tùy táng đang gây tranh cãi dữ dội về sự phô trương và nguy cơ vi phạm pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:34:37.310577+07:00",
+      "fetched": "2026-04-19T21:34:37.310693+07:00"
+    },
+    {
+      "id": "f17e50b24dec1be0b1c6b631f384093d",
+      "title": "Đề xuất thể chế hóa ngày 24-11 hằng năm là 'Ngày Văn hóa Việt Nam', được nghỉ lễ, hưởng nguyên lương",
+      "link": "https://tuoitre.vn/de-xuat-the-che-hoa-ngay-24-11-hang-nam-la-ngay-van-hoa-viet-nam-duoc-nghi-le-huong-nguyen-luong-20260419200937248.htm",
+      "summary": "Dự thảo nghị quyết đề xuất thể chế hóa việc lấy ngày 24-11 hằng năm là Ngày Văn hóa Việt Nam và người lao động được nghỉ làm việc, hưởng nguyên lương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:34:37.310447+07:00",
+      "fetched": "2026-04-19T21:34:37.310565+07:00"
+    },
+    {
+      "id": "0a5e31d85be05e0e51d3a0f98d124589",
+      "title": "Vắng Rimario, CLB Thanh Hóa không thắng nổi Sông Lam Nghệ An dù đá hơn người",
+      "link": "https://tuoitre.vn/vang-rimario-clb-thanh-hoa-khong-thang-noi-song-lam-nghe-an-du-da-hon-nguoi-20260419202006602.htm",
+      "summary": "Thiếu vắng trụ cột Rimario Gordon, CLB Thanh Hóa không thể giải quyết Sông Lam Nghệ An và bị đối thủ cầm hòa 1-1 trên sân nhà ở vòng 19 LPBank V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:34:37.310315+07:00",
+      "fetched": "2026-04-19T21:34:37.310435+07:00"
+    },
+    {
+      "id": "21da3ae04cf56e157cd15d43ce2dc25f",
+      "title": "Justin Bieber 'quậy tung' Coachella với loạt hit kinh điển",
+      "link": "https://tuoitre.vn/justin-bieber-quay-tung-coachella-voi-loat-hit-kinh-dien-20260419194322459.htm",
+      "summary": "Justin Bieber mang đến màn 'comeback' lớn nhất trong nhiều năm tại Coachella Weekend 2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:34:37.310163+07:00",
+      "fetched": "2026-04-19T21:34:37.310303+07:00"
+    },
+    {
+      "id": "7cebff44180963923489b1d238417c88",
+      "title": "Ông Trump tố Iran 'vi phạm hoàn toàn' thỏa thuận ngừng bắn",
+      "link": "https://tuoitre.vn/ong-trump-to-iran-vi-pham-hoan-toan-thoa-thuan-ngung-ban-20260419193848257.htm",
+      "summary": "Tổng thống Trump tố Iran \"vi phạm hoàn toàn\" thỏa thuận ngừng bắn, cảnh báo phá hủy cơ sở hạ tầng của Tehran nếu đàm phán thất bại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:34:37.309933+07:00",
+      "fetched": "2026-04-19T21:34:37.310148+07:00"
+    },
     {
       "id": "5c335504614c8f6188d71b59379b1524",
       "title": "Thần đồng cờ vua của Việt Nam giành chức vô địch trên đất Thái Lan",
@@ -383,6 +493,56 @@ window.newsData_2026_04_19 = {
       "fetched": "2026-04-19T15:42:36.046821+07:00"
     },
     {
+      "id": "627bc06160accd144c56daadf6b1d94b",
+      "title": "U.17 Việt Nam chính thức loại chủ nhà Indonesia, vào bán kết với ngôi nhất bảng: Đấu Úc ngày nào?",
+      "link": "https://thanhnien.vn/u17-viet-nam-chinh-thuc-loai-chu-nha-indonesia-vao-ban-ket-voi-ngoi-nhat-bang-dau-uc-ngay-nao-185260419212637583.htm",
+      "summary": "Trước chủ nhà Indonesia không còn gì để mất, đội tuyển U.17 Việt Nam vẫn tạo ra thế trận áp đảo. Một kết quả hòa là đủ để thầy trò HLV Cristiano Roland vào bán kết với ngôi nhất bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:30:00+07:00",
+      "fetched": "2026-04-19T21:34:36.261644+07:00"
+    },
+    {
+      "id": "d749c9b2f5f84c5e5fa866fb87d0a459",
+      "title": "Bảng xếp hạng V-League mới nhất: HAGL thua nhưng có vị trí cực bất ngờ, CLB CAHN lừng lững tốp 1",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-hagl-thua-nhung-co-vi-tri-cuc-bat-ngo-clb-cahn-lung-lung-top-1-185260419151701036.htm",
+      "summary": "Bảng xếp hạng V-League đã xáo trộn sau 4 trận đấu vòng 19 V-League 2025 - 2026 diễn ra tối nay (19.4).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:18:00+07:00",
+      "fetched": "2026-04-19T21:34:36.261842+07:00"
+    },
+    {
+      "id": "de60a9c387b1a30db0360162c1cddf52",
+      "title": "Robot Trung Quốc phá kỷ lục chạy bán marathon của con người",
+      "link": "https://thanhnien.vn/robot-trung-quoc-pha-ky-luc-chay-ban-marathon-cua-con-nguoi-185260419203826867.htm",
+      "summary": "Robot hình người của Trung Quốc đã tham gia cuộc thi chạy bán marathon (21 km) và về đích với thời gian nhanh hơn 6 phút so với kỷ lục của con người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:17:00+07:00",
+      "fetched": "2026-04-19T21:34:36.262007+07:00"
+    },
+    {
+      "id": "8bed11098cfe7e5afe949856bf5cf6c0",
+      "title": "Thể Công Viettel thắng nhọc HAGL ngày HLV Popov bị kỷ luật: Chưa buông đua vô địch",
+      "link": "https://thanhnien.vn/the-cong-viettel-thang-nhoc-hagl-ngay-hlv-popov-bi-ky-luat-chua-buong-dua-vo-dich-185260419211404506.htm",
+      "summary": "Không có HLV Velizar Popov trực tiếp chỉ đạo vì án phạt, Thể Công Viettel vẫn duy trì thế trận chủ động và đánh bại HAGL 1-0 nhờ pha đánh đầu của Wesley Nata trong hiệp hai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:16:00+07:00",
+      "fetched": "2026-04-19T21:34:36.262162+07:00"
+    },
+    {
+      "id": "ce34e36ea57ab14d249793afb2ed83a7",
+      "title": "Thuốc diệt chuột được tìm thấy trong đồ ăn dặm HiPP tại Áo",
+      "link": "https://vnexpress.net/thuoc-diet-chuot-duoc-tim-thay-trong-do-an-dam-hipp-tai-ao-5064364.html",
+      "summary": "Cảnh sát Áo xác nhận tìm thấy thuốc diệt chuột trong một hũ thực phẩm ăn dặm HiPP, sau khi sản phẩm này bị thu hồi do lo ngại nhiễm độc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:08:31+07:00",
+      "fetched": "2026-04-19T21:34:32.933356+07:00"
+    },
+    {
       "id": "e2cca24db7e4c4f24490998d881e8692",
       "title": "Tăng tốc xử lý đất yếu đoạn phía tây vành đai 3 TP.HCM sau phản ánh của Tuổi Trẻ",
       "link": "https://tuoitre.vn/tang-toc-xu-ly-dat-yeu-doan-phia-tay-vanh-dai-3-tp-hcm-sau-phan-anh-cua-tuoi-tre-20260418134519447.htm",
@@ -533,6 +693,256 @@ window.newsData_2026_04_19 = {
       "fetched": "2026-04-19T14:06:55.832590+07:00"
     },
     {
+      "id": "efee4c200f43ff7afe72f9b6a3b77549",
+      "title": "Đà Nẵng thua đau Nam Định trong trận Xuân Son lập công, nguy cơ rớt hạng tăng cao",
+      "link": "https://thanhnien.vn/da-nang-thua-dau-nam-dinh-trong-tran-xuan-son-lap-cong-nguy-co-rot-hang-tang-cao-185260419210542436.htm",
+      "summary": "Dù gỡ hòa trong hiệp 2 khi chơi thiếu người, CLB Đà Nẵng vẫn thua 1-2 trước CLB Nam Định, tiếp tục đứng cuối bảng và đối mặt nguy cơ rớt hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:05:00+07:00",
+      "fetched": "2026-04-19T21:34:36.262315+07:00"
+    },
+    {
+      "id": "5336db51412b7556ddca8c960168f6b6",
+      "title": "Đình Bắc lại ‘nổ súng’, CLB Công an Hà Nội thắng đậm CLB Công an TP.HCM",
+      "link": "https://thanhnien.vn/dinh-bac-lai-no-sung-clb-cong-an-ha-noi-thang-dam-clb-cong-an-tphcm-185260419204320163.htm",
+      "summary": "Đình Bắc ghi bàn trận thứ 3 liên tiếp, góp công giúp CLB CAHN thắng 3-0 trước CLB CA TP.HCM, qua đó tiến gần hơn đến mục tiêu vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:04:00+07:00",
+      "fetched": "2026-04-19T21:34:36.262469+07:00"
+    },
+    {
+      "id": "05ebd9736cde5114371d3de5bbe930eb",
+      "title": "Bạn trai không tặng tôi bất cứ thứ gì trong 4 năm yêu nhau",
+      "link": "https://vnexpress.net/ban-trai-khong-tang-toi-bat-cu-thu-gi-trong-4-nam-yeu-nhau-5064327.html",
+      "summary": "Tôi 27 tuổi, quen bạn trai 4 năm, trong suốt thời gian đó anh chưa hề thể hiện tình yêu đối với tôi, dù tôi biết anh yêu mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:00:00+07:00",
+      "fetched": "2026-04-19T21:34:32.933536+07:00"
+    },
+    {
+      "id": "b419573a7ca521e076d9ea95dc68dd9b",
+      "title": "Highlight Thanh Hóa 1-1 SLNA: Giằng co chia điểm",
+      "link": "https://thanhnien.vn/highlight-thanh-hoa-1-1-slna-giang-co-chia-diem-185260419205847179.htm",
+      "summary": "Thanh Hóa và Nghệ An tạo nên thế trận giằng co, hai đội chia điểm sau trận hòa 1-1 với nhiều pha bóng đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:58:00+07:00",
+      "fetched": "2026-04-19T21:34:36.262617+07:00"
+    },
+    {
+      "id": "2680afba4319a3fd11be73b5714790ba",
+      "title": "Đề nghị ngân sách cho văn hóa tối thiểu 2% tổng chi ngân sách",
+      "link": "https://thanhnien.vn/de-nghi-ngan-sach-cho-van-hoa-toi-thieu-2-tong-chi-ngan-sach-185260419200801539.htm",
+      "summary": "Bộ VH-TT-DL đề xuất nhiều cơ chế, chính sách ưu đãi để phát triển văn hóa Việt Nam, trong đó ngân sách cho văn hóa tối thiểu 2% tổng chi ngân sách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:57:00+07:00",
+      "fetched": "2026-04-19T21:34:36.262791+07:00"
+    },
+    {
+      "id": "98498eee13411436690a0cdec207552e",
+      "title": "Cảnh báo nguy cơ 'không ai dám ký, không dám quyết' khi triển khai quỹ văn hóa",
+      "link": "https://thanhnien.vn/canh-bao-nguy-co-khong-ai-dam-ky-khong-dam-quyet-khi-trien-khai-quy-van-hoa-185260419191414087.htm",
+      "summary": "Các thành viên Ủy ban Văn hóa và Xã hội của Quốc hội nêu ra một số khó khăn khi thành lập quỹ văn hóa nghệ thuật, cũng như cảnh báo tình trạng phân tán trong đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:53:00+07:00",
+      "fetched": "2026-04-19T21:34:36.262945+07:00"
+    },
+    {
+      "id": "dd20f769e2b1933d998d98157f3deb13",
+      "title": "Thủ môn Đà Nẵng bắt bóng ngoài vòng cấm ở trận thua Nam Định",
+      "link": "https://vnexpress.net/thu-mon-da-nang-bat-bong-ngoai-vong-cam-o-tran-thua-nam-dinh-5064373.html",
+      "summary": "Phan Văn Biểu mắc lỗi nghiệp dư và phải nhận thẻ đỏ, khi Đà Nẵng thua Nam Định 1-2 ở vòng 19 và tiếp tục đứng cuối V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:47:19+07:00",
+      "fetched": "2026-04-19T21:34:32.933707+07:00"
+    },
+    {
+      "id": "dd20f769e2b1933d998d98157f3deb13",
+      "title": "Thủ môn Đà Nẵng bắt bóng ngoài vòng cấm ở trận thua Nam Định",
+      "link": "https://vnexpress.net/thu-mon-da-nang-bat-bong-ngoai-vong-cam-o-tran-thua-nam-dinh-5064373.html",
+      "summary": "Phan Văn Biểu mắc lỗi nghiệp dư góp phần khiến Đà Nẵng thua Nam Định 1-2 ở vòng 19, qua đó tiếp tục đứng cuối V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-19T13:47:19+07:00",
+      "fetched": "2026-04-19T21:34:44.350876+07:00"
+    },
+    {
+      "id": "a4b8706b056954d9c2462103577919bf",
+      "title": "Highlight Trường Tươi Đồng Nai 3-0 Quảng Ninh: Thắng thuyết phục",
+      "link": "https://thanhnien.vn/highlight-truong-tuoi-dong-nai-3-0-quang-ninh-thang-thuyet-phuc-185260419204037111.htm",
+      "summary": "Chiến thắng này giúp CLB Trường Tươi Đồng Nai củng cố vị trí dẫn đầu với 35 điểm, hơn CLB Bắc Ninh 6 điểm. Trong khi đó, CLB Quảng Ninh dậm chân ở vị trí thứ 9 với 15 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:40:00+07:00",
+      "fetched": "2026-04-19T21:34:36.263095+07:00"
+    },
+    {
+      "id": "8d18575348331e3e555c5ca9517483d5",
+      "title": "Blue Origin lần đầu phóng tên lửa bằng tầng đẩy tái sử dụng",
+      "link": "https://vnexpress.net/blue-origin-lan-dau-phong-ten-lua-bang-tang-day-tai-su-dung-5064362.html",
+      "summary": "Blue Origin phóng thành công tên lửa New Glenn, đánh dấu lần đầu tái sử dụng tầng đẩy và tăng tốc cạnh tranh với SpaceX.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:29:03+07:00",
+      "fetched": "2026-04-19T21:34:32.933900+07:00"
+    },
+    {
+      "id": "8d18575348331e3e555c5ca9517483d5",
+      "title": "Blue Origin lần đầu phóng tên lửa bằng tầng đẩy tái sử dụng",
+      "link": "https://vnexpress.net/blue-origin-lan-dau-phong-ten-lua-bang-tang-day-tai-su-dung-5064362.html",
+      "summary": "Blue Origin phóng thành công tên lửa New Glenn, đánh dấu lần đầu tái sử dụng tầng đẩy và tăng tốc cạnh tranh với SpaceX.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-19T13:29:03+07:00",
+      "fetched": "2026-04-19T21:34:43.361343+07:00"
+    },
+    {
+      "id": "869b351fc74dacc24c04f7d188d4057a",
+      "title": "HLV U.17 Thái Lan phát ngôn gây tranh cãi sau khi từ chức, hé lộ thông tin bất ngờ",
+      "link": "https://thanhnien.vn/hlv-u17-thai-lan-phat-ngon-gay-tranh-cai-sau-khi-tu-chuc-he-lo-thong-tin-bat-ngo-185260419202643879.htm",
+      "summary": "Chỉ 1 ngày sau khi U.17 Thái Lan bị loại, HLV Sirisak Yodthaythai tiếp tục gây ra làn sóng tranh cãi ở xứ chùa vàng khi đáp trả chỉ trích, cho rằng ông không có đội hình mạnh nhất tại U.17 Đông Nam Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:28:00+07:00",
+      "fetched": "2026-04-19T21:34:36.263250+07:00"
+    },
+    {
+      "id": "28333c3e1949e79f8c9b849318c2b04c",
+      "title": "Hội thao giáo dục quốc phòng và an ninh phản ánh đúng chất lượng dạy học",
+      "link": "https://thanhnien.vn/hoi-thao-giao-duc-quoc-phong-va-an-ninh-phan-anh-dung-chat-luong-day-hoc-185260419200524855.htm",
+      "summary": "Chiều nay, 19.4, tại TP.HCM, Bộ GD-ĐT tổ chức lễ bế mạc Hội thao Giáo dục quốc phòng và an ninh dành cho học sinh THPT toàn quốc lần thứ 4. Kết quả chung cuộc, đoàn Sở GD-ĐT Hà Tĩnh giành giải nhất toàn đoàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:28:00+07:00",
+      "fetched": "2026-04-19T21:34:36.263398+07:00"
+    },
+    {
+      "id": "ad459e4d7dc443536cc6abe8ce8e33e2",
+      "title": "Highlight CLB Công an TP.HCM 0-3 CLB Công an Hà Nội: Đình Bắc lại tỏa sáng",
+      "link": "https://thanhnien.vn/highlight-clb-cong-an-tphcm-0-3-clb-cong-an-ha-noi-dinh-bac-lai-toa-sang-185260419202604691.htm",
+      "summary": "Chiến thắng này giúp CLB CAHN nâng tổng điểm lên 48, tiếp tục duy trì vị trí dẫn đầu. Trong khi đó, CLB CA TP.HCM đứng thứ 7 với 26 điểm sau vòng đấu này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:26:00+07:00",
+      "fetched": "2026-04-19T21:34:36.263545+07:00"
+    },
+    {
+      "id": "ee5204ce77af4fcf01cc526e26b19fe8",
+      "title": "Thủ môn Văn Biểu bị đuổi, Đà Nẵng bị Nam Định nhấn chìm: Xuân Son lại quá ‘son’",
+      "link": "https://thanhnien.vn/thu-mon-van-bieu-bi-duoi-da-nang-bi-nam-dinh-nhan-chim-xuan-son-lai-qua-son-185260419201636215.htm",
+      "summary": "Tối 19.4, CLB Đà Nẵng trong thế còn 10 người do thủ môn Văn Biểu nhận thẻ đỏ cuối hiệp 1 đã tìm được bàn gỡ hòa 1-1 trong hiệp 2, nhưng đáng tiếc chung cuộc họ để thua CLB Nam Định của Xuân Son tỷ số 1-2 khiến nguy cơ rớt hạng cận kề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:23:00+07:00",
+      "fetched": "2026-04-19T21:34:36.263704+07:00"
+    },
+    {
+      "id": "26f94bd47839e225f4dcd9cf794cd394",
+      "title": "Từ “giải cứu bé 9 tuổi” triệu view đến lời mời kể chuyện “Tổ quốc bình yên”",
+      "link": "https://thanhnien.vn/tu-giai-cuu-be-9-tuoi-trieu-view-den-loi-moi-ke-chuyen-to-quoc-binh-yen-18526041920130421.htm",
+      "summary": "Một đoạn video ghi lại khoảnh khắc giải cứu bé trai 9 tuổi mắc kẹt giữa hai bức tường hẹp đã lan tỏa mạnh mẽ, chạm đến cảm xúc cộng đồng. Từ câu chuyện ấy, lễ hưởng ứng cuộc thi video “Tổ quốc bình yên” của Công an TP.HCM mở ra lời mời mỗi người cùng kể lại những câu chuyện bình yên bằng góc nhìn và...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:19:00+07:00",
+      "fetched": "2026-04-19T21:34:36.263884+07:00"
+    },
+    {
+      "id": "62d5e354793ac2c6accae392f9e5af5a",
+      "title": "Justin Bieber ôm Billie Eilish trên sân khấu Coachella",
+      "link": "https://vnexpress.net/justin-bieber-om-billie-eilish-tren-san-khau-coachella-5064343.html",
+      "summary": "Khán giả phấn khích khi thấy Justin Bieber vừa ôm Billie Eilish vừa hát ca khúc \"One Less Lonely Girl\" trên sân khấu Coachella.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:17:29+07:00",
+      "fetched": "2026-04-19T21:34:32.934062+07:00"
+    },
+    {
+      "id": "c0c44de7732bdfd1df7dfbc0072b9201",
+      "title": "Cháy làng ven biển ở Malaysia, hơn 1.000 ngôi nhà bị thiêu rụi",
+      "link": "https://vnexpress.net/chay-lang-ven-bien-o-malaysia-hon-1-000-ngoi-nha-bi-thieu-rui-5064366.html",
+      "summary": "Vụ hỏa hoạn lớn đã phá hủy khoảng 1.000 ngôi nhà tại làng ven biển ở bang Sabah của Malaysia, khiến hàng nghìn người phải di dời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:13:09+07:00",
+      "fetched": "2026-04-19T21:34:32.934231+07:00"
+    },
+    {
+      "id": "c0c44de7732bdfd1df7dfbc0072b9201",
+      "title": "Cháy làng ven biển ở Malaysia, hơn 1.000 ngôi nhà bị thiêu rụi",
+      "link": "https://vnexpress.net/chay-lang-ven-bien-o-malaysia-hon-1-000-ngoi-nha-bi-thieu-rui-5064366.html",
+      "summary": "Vụ hỏa hoạn lớn đã phá hủy khoảng 1.000 ngôi nhà tại làng ven biển ở bang Sabah của Malaysia, khiến hàng nghìn người phải di dời.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-19T13:13:09+07:00",
+      "fetched": "2026-04-19T21:34:38.970049+07:00"
+    },
+    {
+      "id": "ebb88308b96661ae16fd079aab9fc2d7",
+      "title": "Nước nào có đường bờ biển dài nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-co-duong-bo-bien-dai-nhat-the-gioi-5064099.html",
+      "summary": "Nước này có ít nhất hơn 202.000 km2 đường bờ biển, được Tổ chức Kỷ lục Guinness công nhận là dài nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:01:00+07:00",
+      "fetched": "2026-04-19T21:34:32.934393+07:00"
+    },
+    {
+      "id": "b43e217e5248c97856923896528e058a",
+      "title": "Ăn tối muộn âm thầm gây hại cơ thể ra sao?",
+      "link": "https://vnexpress.net/an-toi-muon-am-tham-gay-hai-co-the-ra-sao-5064214.html",
+      "summary": "Ăn tối quá trễ sẽ cản trở quá trình cơ thể đốt mỡ, khiến dạ dày phải làm việc quá sức tăng nguy cơ trào ngược và các rối loạn chuyển hóa kéo dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T13:00:00+07:00",
+      "fetched": "2026-04-19T21:34:32.934560+07:00"
+    },
+    {
+      "id": "abdeee976589ef0580b47175bd3122f1",
+      "title": "Xe máy ngã nhào trên quốc lộ vì vệt mỡ rò rỉ từ xe tải",
+      "link": "https://vnexpress.net/xe-may-nga-nhao-tren-quoc-lo-vi-vet-mo-ro-ri-tu-xe-tai-5064368.html",
+      "summary": "Xe tải chở hàng chạy trên quốc lộ 54 làm mỡ cá rò rỉ, loang dài hơn hai km trên mặt đường khiến nhiều xe máy trượt ngã, sáng 19/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T12:54:44+07:00",
+      "fetched": "2026-04-19T21:34:32.934717+07:00"
+    },
+    {
+      "id": "ae24b83e3aa4e8f953fb959f348e0670",
+      "title": "Bé trai 6 tuổi tử vong tại hồ bơi ở TP HCM",
+      "link": "https://vnexpress.net/be-trai-6-tuoi-tu-vong-tai-ho-boi-o-tp-hcm-5064369.html",
+      "summary": "Trong lúc chơi đùa tại hồ bơi ở phường Bình Tân, bé trai 6 tuổi bị trượt chân xuống vùng hồ sâu bị ngạt nước, tử vong, chiều 19/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T12:50:46+07:00",
+      "fetched": "2026-04-19T21:34:32.934910+07:00"
+    },
+    {
+      "id": "ae4548866f43b218a2947f3de9636f1f",
+      "title": "Iran bổ sung bệ phóng tên lửa 'nhanh hơn trước chiến sự'",
+      "link": "https://vnexpress.net/iran-bo-sung-be-phong-ten-lua-nhanh-hon-truoc-chien-su-5064349.html",
+      "summary": "Tướng Iran khẳng định nước này đang nhanh chóng bổ sung các bệ phóng tên lửa và UAV, cho rằng Mỹ - Israel \"đã thua\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T12:12:45+07:00",
+      "fetched": "2026-04-19T21:34:32.935070+07:00"
+    },
+    {
+      "id": "ae4548866f43b218a2947f3de9636f1f",
+      "title": "Iran bổ sung bệ phóng tên lửa 'nhanh hơn trước chiến sự'",
+      "link": "https://vnexpress.net/iran-bo-sung-be-phong-ten-lua-nhanh-hon-truoc-chien-su-5064349.html",
+      "summary": "Tướng Iran khẳng định nước này đang nhanh chóng bổ sung các bệ phóng tên lửa và UAV, cho rằng Mỹ - Israel \"đã thua\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-19T12:12:45+07:00",
+      "fetched": "2026-04-19T21:34:38.970233+07:00"
+    },
+    {
       "id": "73b13050575bee5ee42955fbbc039650",
       "title": "Lời khai tài xế xe công nghệ dùng gậy kim loại đánh người sau va chạm",
       "link": "https://thanhnien.vn/loi-khai-tai-xe-xe-cong-nghe-dung-gay-kim-loai-danh-nguoi-sau-va-cham-185260419183239475.htm",
@@ -571,6 +981,16 @@ window.newsData_2026_04_19 = {
       "category": "Tổng hợp",
       "published": "2026-04-19T12:00:00+07:00",
       "fetched": "2026-04-19T19:38:17.910231+07:00"
+    },
+    {
+      "id": "993a338c0b34c949968077257aebd3a0",
+      "title": "Có nên hủy hôn khi tiền cưới tôi đã tiêu hết, lại cầm cố cả nhà",
+      "link": "https://vnexpress.net/co-nen-huy-hon-khi-tien-cuoi-toi-da-tieu-het-lai-cam-co-ca-nha-5064325.html",
+      "summary": "Tôi sợ cưới giờ, bạn gái sẽ khổ khi có người chồng nợ nần, cuộc sống không ổn định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T12:00:00+07:00",
+      "fetched": "2026-04-19T21:34:32.935381+07:00"
     },
     {
       "id": "9ae36e5719f460e0a090aa0c219e14c6",
