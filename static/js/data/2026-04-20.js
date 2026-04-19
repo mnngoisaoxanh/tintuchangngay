@@ -1,7 +1,27 @@
 window.newsData_2026_04_20 = {
   "date": "2026-04-20",
-  "lastUpdated": "2026-04-20T03:27:14.857712+07:00",
+  "lastUpdated": "2026-04-20T05:25:21.951679+07:00",
   "articles": [
+    {
+      "id": "dfa578d77864f2e57e2adf0bfb13ca05",
+      "title": "Thời tiết hôm nay 20-4: Bắc Bộ tiếp tục mưa dông, Nam Bộ nắng trở lại",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-20-4-bac-bo-tiep-tuc-mua-dong-nam-bo-nang-tro-lai-20260419162741544.htm",
+      "summary": "Hôm nay 20-4, dự báo thời tiết Bắc Bộ đến Thanh Hóa tiếp tục có mưa. Nam Bộ nắng sẽ dần tăng trở lại, về chiều tối mưa dông vài nơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T05:25:15.586777+07:00",
+      "fetched": "2026-04-20T05:25:15.586931+07:00"
+    },
+    {
+      "id": "896e0625b7036b226578db61f12804ec",
+      "title": "Sáng dậy sớm tập thể dục, rồi lén xách bịch rác bỏ qua nhà người khác để đỡ đóng tiền",
+      "link": "https://tuoitre.vn/sang-day-som-tap-the-duc-roi-len-xach-bich-rac-bo-qua-nha-nguoi-khac-de-do-dong-tien-20260419135059549.htm",
+      "summary": "Nhiều bạn đọc ủng hộ cơ quan chức năng xã Bình Chánh (TP.HCM) rà soát camera, xử phạt người xả rác bừa bãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T05:25:15.586555+07:00",
+      "fetched": "2026-04-20T05:25:15.586762+07:00"
+    },
     {
       "id": "b4e1a08eb4b4dbe097ee396ae7e96e2e",
       "title": "Gục ngã ở Etihad, Arsenal chỉ còn hơn Man City 3 điểm",
@@ -171,6 +191,186 @@ window.newsData_2026_04_20 = {
       "category": "Tổng hợp",
       "published": "2026-04-20T01:34:44.971252+07:00",
       "fetched": "2026-04-20T01:34:44.971446+07:00"
+    },
+    {
+      "id": "9f4b45c5ab4b3192c873ee50cae08838",
+      "title": "Mua vé số mỗi ngày, người đàn ông trúng độc đắc xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-ve-so-moi-ngay-nguoi-dan-ong-trung-doc-dac-xo-so-mien-nam-185260419201643422.htm",
+      "summary": "Người đàn ông ở An Giang trúng độc đắc 2 tỉ xổ số miền Nam đài Trà Vinh. Người này ngày nào cũng mua vé số cầu may, bất ngờ có số tiền lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T22:15:00+07:00",
+      "fetched": "2026-04-20T05:25:14.658026+07:00"
+    },
+    {
+      "id": "2d485ce8bc468fbbfb890f743879c8c8",
+      "title": "Lịch âm hôm nay: Tiết Cốc vũ bắt đầu, ngày 20.4 người Việt lưu ý gì?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-tiet-coc-vu-bat-dau-ngay-204-nguoi-viet-luu-y-gi-185260419172219417.htm",
+      "summary": "Theo lịch vạn niên, lịch âm hôm nay, ngày 20.4 là ngày đầu tiên của tiết Cốc vũ. Ngoài ra hôm nay có phải là ngày đặc biệt gì ở Việt Nam và trên thế giới mà nhiều người quan tâm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T22:03:00+07:00",
+      "fetched": "2026-04-20T05:25:14.658194+07:00"
+    },
+    {
+      "id": "b6e32946ddb9b6740a8ec86f9a698a82",
+      "title": "Ván cờ Trung Đông ngày càng khó đoán",
+      "link": "https://thanhnien.vn/van-co-trung-dong-ngay-cang-kho-doan-185260419220845685.htm",
+      "summary": "Giới quan sát đang dõi theo cuộc xung đột Trung Đông để chờ xem Mỹ và Iran sẽ đi nước cờ nào khi thỏa thuận ngừng bắn hết hạn giữa tuần này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T22:00:00+07:00",
+      "fetched": "2026-04-20T05:25:14.658349+07:00"
+    },
+    {
+      "id": "e972da8995dde28d69299df5f4008317",
+      "title": "Chiến sự Ukraine ngày 1.516: Ông Zelensky bất mãn khi Mỹ ‘cởi trói’ dầu Nga",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1516-ong-zelensky-bat-man-khi-my-coi-troi-dau-nga-185260419220412083.htm",
+      "summary": "Các cuộc tấn công trong ngày giữa Nga và Ukraine tiếp diễn ngày 19.4. Trong khi đó, Tổng thống Ukraine Volodymyr Zelensky chỉ trích quyết định của Mỹ khi tiếp tục miễn trừ cấm vận dầu Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T22:00:00+07:00",
+      "fetched": "2026-04-20T05:25:14.658500+07:00"
+    },
+    {
+      "id": "d950ee0ad72aa3d0e9dbd0a52086ac17",
+      "title": "Nỗi bất an của đảng Cộng hòa về chiến sự Iran",
+      "link": "https://vnexpress.net/noi-bat-an-cua-dang-cong-hoa-ve-chien-su-iran-5063948.html",
+      "summary": "Chiến sự Iran khiến các đảng viên Cộng hòa ngày càng bất an, khi hệ lụy từ xung đột khiến triển vọng của họ trong bầu cử giữa kỳ trở nên bấp bênh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-19T22:00:00+07:00",
+      "fetched": "2026-04-20T05:25:17.227504+07:00"
+    },
+    {
+      "id": "a4dd77cf87d62f277173042afd2eb0bc",
+      "title": "Bayern vô địch Bundesliga sớm 4 vòng",
+      "link": "https://vnexpress.net/bayern-vo-dich-bundesliga-som-4-vong-5064410.html",
+      "summary": "Bayern Munich thắng ngược đội khách Stuttgart 4-2 ở vòng 30, qua đó đủ điểm vô địch Bundesliga sớm bốn vòng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-19T21:30:04+07:00",
+      "fetched": "2026-04-20T05:25:21.946948+07:00"
+    },
+    {
+      "id": "d6b204ab6689ff5a2b51ff42b2701a5e",
+      "title": "Tình hình Iran, Trung Đông mới nhất sáng 20.4",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-sang-204-185260419220525449.htm",
+      "summary": "Tổng thống Donald Trump nói phái đoàn Mỹ lên đường tới Pakistan để đàm phán, trong khi Iran chưa quyết định rõ ràng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:30:00+07:00",
+      "fetched": "2026-04-20T05:25:14.658648+07:00"
+    },
+    {
+      "id": "54b199192cb2046c9632ca975772d1c5",
+      "title": "Man City thắng Arsenal, sáng cửa vô địch Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-city-thang-arsenal-sang-cua-vo-dich-ngoai-hang-anh-5064409.html",
+      "summary": "Thắng đỉnh bảng Arsenal 2-1 ở vòng 33, Man City rút cách biệt với đối thủ xuống còn ba điểm, nhưng vẫn còn trong tay một trận chưa đấu tại Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:09:29+07:00",
+      "fetched": "2026-04-20T05:25:11.640381+07:00"
+    },
+    {
+      "id": "54b199192cb2046c9632ca975772d1c5",
+      "title": "Man City thắng Arsenal, sáng cửa vô địch Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-city-thang-arsenal-sang-cua-vo-dich-ngoai-hang-anh-5064409.html",
+      "summary": "Thắng đỉnh bảng Arsenal 2-1 ở vòng 33, Man City rút cách biệt với đối thủ xuống còn ba điểm, nhưng vẫn còn trong tay một trận chưa đấu tại Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-19T21:09:29+07:00",
+      "fetched": "2026-04-20T05:25:21.946587+07:00"
+    },
+    {
+      "id": "1d213fb72781aac3893e9f396b5529ab",
+      "title": "Ngủ đủ 8 tiếng vẫn mệt mỏi: Cơ thể đang cảnh báo điều gì?",
+      "link": "https://thanhnien.vn/ngu-du-8-tieng-van-met-moi-co-the-dang-canh-bao-dieu-gi-185260415232018767.htm",
+      "summary": "Bạn ngủ đủ giờ, không thức khuya nhưng sáng nào cũng mệt mỏi. Chuyên gia cho biết nguyên nhân có thể do rối loạn chu kỳ ngủ, đường huyết hoặc ngưng thở khi ngủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:09:00+07:00",
+      "fetched": "2026-04-20T05:25:14.658797+07:00"
+    },
+    {
+      "id": "4505f14d9960324a2c6989173a3745ba",
+      "title": "Nhà 5 tầng biến mặt tiền thành vườn cây lơ lửng giữa không trung",
+      "link": "https://vnexpress.net/nha-5-tang-bien-mat-tien-thanh-vuon-cay-lo-lung-giua-khong-trung-5064253.html",
+      "summary": "Ngôi nhà tại khu đô thị mới được bọc toàn bộ mặt trước và mặt sau bằng hệ chum gốm, tạo lớp màng cây, vừa là hàng rào xanh vừa là vườn canh tác cho gia chủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:00:10+07:00",
+      "fetched": "2026-04-20T05:25:11.640561+07:00"
+    },
+    {
+      "id": "50a760c985ee6b267d2c46fce0ec8240",
+      "title": "Xuyên đêm thi công dự án chống ngập ở trung tâm Thủ đô",
+      "link": "https://vnexpress.net/xuyen-dem-thi-cong-du-an-chong-ngap-o-trung-tam-thu-do-5063371.html",
+      "summary": "Các hạng mục bể ngầm, cống thoát nước được thi công xuyên đêm tại khu vực trung tâm Hà Nội nhằm đẩy nhanh tiến độ dự án chống ngập, kịp đưa vào vận hành trước mùa mưa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:00:00+07:00",
+      "fetched": "2026-04-20T05:25:11.640724+07:00"
+    },
+    {
+      "id": "2c1f761435411605febcf95b9446eec5",
+      "title": "Những cư dân nội đô vẫn coi 'xe xăng là số một'",
+      "link": "https://vnexpress.net/nhung-cu-dan-noi-do-van-coi-xe-xang-la-so-mot-5064079.html",
+      "summary": "Sự e ngại tìm chỗ sạc, chờ đợi sạc đối với xe điện là những yếu tố chính khiến không ít cư dân nội đô vẫn trung thành với xe xăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T21:00:00+07:00",
+      "fetched": "2026-04-20T05:25:11.640911+07:00"
+    },
+    {
+      "id": "5141a39a7e47322d500bf753c2b860da",
+      "title": "Giá vàng tuần này có thể tăng mạnh",
+      "link": "https://vnexpress.net/gia-vang-tuan-nay-co-the-tang-manh-5064390.html",
+      "summary": "Phần đông chuyên gia Phố Wall lẫn nhà đầu tư cá nhân dự báo giá vàng thế giới nối dài mạch tăng 5 tuần liên tiếp, vượt 5.000 USD, khi lệnh ngừng bắn có thể tiếp diễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T20:57:19+07:00",
+      "fetched": "2026-04-20T05:25:11.641080+07:00"
+    },
+    {
+      "id": "5141a39a7e47322d500bf753c2b860da",
+      "title": "Giá vàng tuần này có thể tăng mạnh",
+      "link": "https://vnexpress.net/gia-vang-tuan-nay-co-the-tang-manh-5064390.html",
+      "summary": "Phần đông chuyên gia Phố Wall lẫn nhà đầu tư cá nhân dự báo giá vàng thế giới nối dài mạch tăng 5 tuần liên tiếp, vượt 5.000 USD, khi lệnh ngừng bắn có thể tiếp diễn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-19T20:57:19+07:00",
+      "fetched": "2026-04-20T05:25:18.904716+07:00"
+    },
+    {
+      "id": "87d536bae7f1fc4e013de59aea8fa770",
+      "title": "Trái phiếu doanh nghiệp lặng sóng",
+      "link": "https://vnexpress.net/trai-phieu-doanh-nghiep-lang-song-5064395.html",
+      "summary": "Bên cạnh yếu tố mùa vụ, thị trường trái phiếu trầm lắng trong những tháng đầu năm còn do tâm lý thận trọng của doanh nghiệp trước căng thẳng tại Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T20:52:00+07:00",
+      "fetched": "2026-04-20T05:25:11.641238+07:00"
+    },
+    {
+      "id": "87d536bae7f1fc4e013de59aea8fa770",
+      "title": "Trái phiếu doanh nghiệp lặng sóng",
+      "link": "https://vnexpress.net/trai-phieu-doanh-nghiep-lang-song-5064395.html",
+      "summary": "Bên cạnh yếu tố mùa vụ, thị trường trái phiếu trầm lắng trong những tháng đầu năm còn do tâm lý thận trọng của doanh nghiệp trước căng thẳng tại Trung Đông.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-19T20:52:00+07:00",
+      "fetched": "2026-04-20T05:25:18.904919+07:00"
+    },
+    {
+      "id": "8dbb07312b90c6c08392368178665d7e",
+      "title": "Hà Nội tăng 25-30% năng lực thoát nước, giảm 60% điểm ngập",
+      "link": "https://vnexpress.net/ha-noi-tang-25-30-nang-luc-thoat-nuoc-giam-60-diem-ngap-5064374.html",
+      "summary": "Giám đốc Sở Xây dựng Hà Nội cho biết khi các công trình chống úng ngập khẩn cấp hoàn thành, năng lực tiêu thoát nước toàn thành phố tăng 25-30%, xử lý khoảng 60% điểm ngập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T20:00:00+07:00",
+      "fetched": "2026-04-20T05:25:11.641397+07:00"
     },
     {
       "id": "6904d53462feabe87c7ae4999356e046",
