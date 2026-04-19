@@ -1,7 +1,157 @@
 window.newsData_2026_04_19 = {
   "date": "2026-04-19",
-  "lastUpdated": "2026-04-19T11:44:06.356937+07:00",
+  "lastUpdated": "2026-04-19T14:07:01.810407+07:00",
   "articles": [
+    {
+      "id": "e2cca24db7e4c4f24490998d881e8692",
+      "title": "Tăng tốc xử lý đất yếu đoạn phía tây vành đai 3 TP.HCM sau phản ánh của Tuổi Trẻ",
+      "link": "https://tuoitre.vn/tang-toc-xu-ly-dat-yeu-doan-phia-tay-vanh-dai-3-tp-hcm-sau-phan-anh-cua-tuoi-tre-20260418134519447.htm",
+      "summary": "Trong bối cảnh nhiều gói thầu vành đai 3 TP.HCM đang chậm tiến độ do thiếu nguồn vật liệu như cát và đá, phóng viên Tuổi Trẻ đã đến công trường để ghi nhận cách nhà thầu xoay xở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.834369+07:00",
+      "fetched": "2026-04-19T14:06:55.834484+07:00"
+    },
+    {
+      "id": "e3bc1fb16782643043cfcd4e3f608dd2",
+      "title": "'Bức tường dông' khổng lồ đang quét Bắc Bộ",
+      "link": "https://tuoitre.vn/buc-tuong-dong-khong-lo-dang-quet-bac-bo-20260419105847939.htm",
+      "summary": "Một dải mây dông chạy dọc Bắc Bộ đang quét qua nhiều tỉnh Lai Châu, Lào Cai, Tuyên Quang, Phú Thọ Hà Nội, Hưng Yên, Ninh Bình... và gây mưa nhiều khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.834236+07:00",
+      "fetched": "2026-04-19T14:06:55.834357+07:00"
+    },
+    {
+      "id": "0b87be29a877477cab22784eb07bf5e1",
+      "title": "Thủ lĩnh Hezbollah đưa ra điều kiện duy trì hòa bình với Israel",
+      "link": "https://tuoitre.vn/thu-linh-hezbollah-dua-ra-dieu-kien-duy-tri-hoa-binh-voi-israel-20260419114121252.htm",
+      "summary": "Thủ lĩnh nhóm vũ trang Hezbollah tại Lebanon đưa ra 5 điều kiện nhằm 'gia hạn hòa bình' với Israel trong bối cảnh 2 bên vừa đưa ra thỏa thuận ngừng bắn 10 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.834090+07:00",
+      "fetched": "2026-04-19T14:06:55.834224+07:00"
+    },
+    {
+      "id": "31f507cee7533e0c8bbe5e99013ac02e",
+      "title": "Hai người đàn ông té xuống sông Tiền mất tích sau khi dự tiệc sinh nhật trên tàu du lịch",
+      "link": "https://tuoitre.vn/hai-nguoi-dan-ong-te-xuong-song-tien-mat-tich-sau-khi-du-tiec-sinh-nhat-tren-tau-du-lich-20260419110711586.htm",
+      "summary": "Sau khi tàu cập bến, hành khách trên tàu lần lượt lên bờ ra về, ông Sơn và ông Tùng cũng từ tàu bước lên bờ thì bị té xuống sông mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.833967+07:00",
+      "fetched": "2026-04-19T14:06:55.834079+07:00"
+    },
+    {
+      "id": "5b56e718ae45b99982dee380663f7f4b",
+      "title": "Thỏa thuận Mỹ - Iran sắp định hình",
+      "link": "https://tuoitre.vn/thoa-thuan-my-iran-sap-dinh-hinh-20260419075042353.htm",
+      "summary": "Những thông điệp lẫn lộn đã được phát đi từ cả Mỹ và Iran vào cuối tuần, nhưng chiều hướng chung có vẻ là một thỏa thuận tương đối toàn diện đã bắt đầu định hình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.833843+07:00",
+      "fetched": "2026-04-19T14:06:55.833955+07:00"
+    },
+    {
+      "id": "66a17d0a8a9043aff7ca41fa3001a796",
+      "title": "El Nino sắp xuất hiện, tác động đến mưa, nguồn nước ở Việt Nam thế nào?",
+      "link": "https://tuoitre.vn/el-nino-sap-xuat-hien-tac-dong-den-mua-nguon-nuoc-o-viet-nam-the-nao-20260419092755574.htm",
+      "summary": "Dự báo từ giữa năm nay, El Nino xuất hiện và có thể đạt cường độ rất mạnh, kéo dài tới đầu năm 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.833716+07:00",
+      "fetched": "2026-04-19T14:06:55.833832+07:00"
+    },
+    {
+      "id": "e091b642bf4a95ad9d79462abbbfcc7d",
+      "title": "TP.HCM: Hơn 5.000 cơ hội việc làm chất lượng cao 'đợi' sinh viên năm cuối",
+      "link": "https://tuoitre.vn/tp-hcm-hon-5-000-co-hoi-viec-lam-chat-luong-cao-doi-sinh-vien-nam-cuoi-20260419105028581.htm",
+      "summary": "Sáng 19-4, Đại học Kinh tế TP.HCM (UEH) phối hợp cùng hơn 60 doanh nghiệp tổ chức ngày hội thực tập và việc làm TP.HCM (Career Fair 2026).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.833587+07:00",
+      "fetched": "2026-04-19T14:06:55.833701+07:00"
+    },
+    {
+      "id": "53c6d38aaf1184db01df5220808c4f2e",
+      "title": "Kỳ thủ 15 tuổi Đầu Khương Duy thi đấu thăng hoa, tiến gần đẳng cấp Đại kiện tướng",
+      "link": "https://tuoitre.vn/ky-thu-15-tuoi-dau-khuong-duy-thi-dau-thang-hoa-tien-gan-dang-cap-dai-kien-tuong-20260419114509824.htm",
+      "summary": "Kỳ thủ trẻ Đầu Khương Duy chính thức giành chuẩn Đại kiện tướng (GM norm) thứ hai sau 8 ván đấu tại Giải Bangkok Chess Club Open 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.833460+07:00",
+      "fetched": "2026-04-19T14:06:55.833576+07:00"
+    },
+    {
+      "id": "897ea439cc8aec33f828ee7c2c89f507",
+      "title": "Xe điện Nissan NX8 bất ngờ xuất hiện ở Việt Nam: Giá 'siêu rẻ', nhiều công nghệ",
+      "link": "https://tuoitre.vn/xe-dien-nissan-nx8-bat-ngo-xuat-hien-o-viet-nam-gia-sieu-re-nhieu-cong-nghe-20260418203325051.htm",
+      "summary": "Nissan NX8 là mẫu xe thuần điện mới nhất của hãng xe Nhật, phát triển trên nền tảng khung gầm do Dongfeng cung cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.833326+07:00",
+      "fetched": "2026-04-19T14:06:55.833448+07:00"
+    },
+    {
+      "id": "487b0d610bb653565cc7a7041ecd1658",
+      "title": "Tấm lòng giúp người của ông Tư Ngoan",
+      "link": "https://tuoitre.vn/tam-long-giup-nguoi-cua-ong-tu-ngoan-20260419120120074.htm",
+      "summary": "Ở xã Bình Mỹ (An Giang) có phòng khám đông y của ông Tư Ngoan lúc nào cũng chật kín hàng trăm người. Hơn 20 năm qua, người bệnh tới đây khám, lấy thuốc, nghỉ ngơi, cơm nước… không phải trả đồng nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.833163+07:00",
+      "fetched": "2026-04-19T14:06:55.833313+07:00"
+    },
+    {
+      "id": "a7f432b511d7b33e4bcf8a7b8bc6d379",
+      "title": "Vòng 19 V-League 2025 - 2026: Áp lực lớn cho HLV Lê Huỳnh Đức",
+      "link": "https://tuoitre.vn/vong-19-v-league-2025-2026-ap-luc-lon-cho-hlv-le-huynh-duc-20260419114402088.htm",
+      "summary": "Sau 2 trận thua đậm liên tiếp, CLB Công An TP.HCM buộc phải tìm kết quả tốt nhất trong trận derby ngành với đội đầu bảng Công An Hà Nội ở vòng 19 V-League 2025 - 2026, diễn ra vào 18h hôm nay (19-4, FPT Play & VTV7 THTT) trên sân Bình Dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.833022+07:00",
+      "fetched": "2026-04-19T14:06:55.833150+07:00"
+    },
+    {
+      "id": "85ea0d69874cc6b77b56aac808417a43",
+      "title": "Công an Hà Nội sẽ làm việc với các quản trị viên hội nhóm 'xe ghép, xe tiện chuyến'",
+      "link": "https://tuoitre.vn/cong-an-ha-noi-se-lam-viec-voi-cac-quan-tri-vien-hoi-nhom-xe-ghep-xe-tien-chuyen-2026041912074799.htm",
+      "summary": "Văn phòng UBND TP Hà Nội vừa có văn bản phản hồi cử tri về việc đề nghị TP nghiên cứu triển khai các biện pháp quản lý hạn chế xe cá nhân, xử lý nghiêm những trường hợp vi phạm luật giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.832885+07:00",
+      "fetched": "2026-04-19T14:06:55.833005+07:00"
+    },
+    {
+      "id": "070518703c5c393e6c989e9c0db28840",
+      "title": "Katy Perry đánh mất hình tượng trong mắt Justin Trudeau",
+      "link": "https://tuoitre.vn/katy-perry-danh-mat-hinh-tuong-trong-mat-justin-trudeau-2026041912072732.htm",
+      "summary": "Katy Perry đang nỗ lực xây dựng hình ảnh chín chắn, đáng tôn trọng bên cựu Thủ tướng Canada Justin Trudeau, nhưng quá khứ của cô liên tục quay lại ám ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.832751+07:00",
+      "fetched": "2026-04-19T14:06:55.832873+07:00"
+    },
+    {
+      "id": "290cdc0a63f23514cf65bb3b77fb977e",
+      "title": "Kỳ Duyên đáp trả fan chuyện xây trường, nhận bão tranh cãi",
+      "link": "https://tuoitre.vn/ky-duyen-dap-tra-fan-chuyen-xay-truong-nhan-bao-tranh-cai-20260419114640585.htm",
+      "summary": "Bình luận của Kỳ Duyên trên mạng xã hội khi trả lời fan về dự án xây trường, final walk trở thành chủ đề bàn luận trên các diễn đàn sắc đẹp. Cách dùng từ của cô được cho chưa phù hợp với hình ảnh hoa hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.832605+07:00",
+      "fetched": "2026-04-19T14:06:55.832737+07:00"
+    },
+    {
+      "id": "9100d30b2ac482571d03f0998f98400f",
+      "title": "Bọ chét chó mèo ‘tấn công’ người, gây ngứa ngáy, viêm da vì điều trị sai cách",
+      "link": "https://tuoitre.vn/bo-chet-cho-meo-tan-cong-nguoi-gay-ngua-ngay-viem-da-vi-dieu-tri-sai-cach-20260419120049732.htm",
+      "summary": "Thời gian gần đây, Bệnh viện Da liễu Trung ương tiếp nhận nhiều bệnh nhân thăm khám do bọ chét cắn với nhiều tổn thương trên da, sẩn đỏ da, ngứa ngáy, viêm da. Hầu hết các bệnh nhân đều điều trị sai cách, nhầm lẫn với dị ứng da thông thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T14:06:55.832380+07:00",
+      "fetched": "2026-04-19T14:06:55.832590+07:00"
+    },
     {
       "id": "603c86e66661d9153ca999ec2044d369",
       "title": "Dự báo thời tiết từ 19 đến 25-4: Bắc Bộ mưa dông, Trung Bộ và Nam Bộ ngày nắng, chiều mưa",
@@ -303,6 +453,326 @@ window.newsData_2026_04_19 = {
       "fetched": "2026-04-19T08:47:12.994029+07:00"
     },
     {
+      "id": "c1f76952c6409a4a5d24f3747b6fea07",
+      "title": "Những vòng xe đạp lăn qua Thành cổ Quảng Trị lan tỏa thông điệp hòa bình",
+      "link": "https://thanhnien.vn/nhung-vong-xe-dap-lan-qua-thanh-co-quang-tri-lan-toa-thong-diep-hoa-binh-185260419133535718.htm",
+      "summary": "Tại di tích quốc gia đặc biệt Thành cổ Quảng Trị, giải đua xe đạp tỉnh Quảng Trị năm 2026 'Chung tay kiến tạo hòa bình' chính thức khai mạc, quy tụ hơn 260 VĐV trong và ngoài nước tham gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T07:00:00+07:00",
+      "fetched": "2026-04-19T14:06:54.824021+07:00"
+    },
+    {
+      "id": "20ff0712562e524d5174d6c40b00845a",
+      "title": "Cháy lớn tại khu dân cư Ba Toa Đà Lạt: Khói đen bao trùm, người dân hốt hoảng",
+      "link": "https://thanhnien.vn/chay-lon-tai-khu-dan-cu-ba-toa-da-lat-khoi-den-bao-trum-nguoi-dan-hot-hoang-185260419125945577.htm",
+      "summary": "Vụ cháy nhà bất ngờ xảy ra ở khu dân cư Ba Toa trên đường Tô Ngọc Vân, phường Cam Ly - Đà Lạt (Lâm Đồng), lực lượng PCCC - cứu nạn cứu hộ huy động hàng chục cán bộ, chiến sĩ cùng nhiều xe chuyên dụng đến hiện trường dập lửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:53:00+07:00",
+      "fetched": "2026-04-19T14:06:54.824210+07:00"
+    },
+    {
+      "id": "a93d8c43eeff2dab74ee23a2f584588a",
+      "title": "Lễ nhập kim quan Trưởng lão hòa thượng Thích Thanh Dục",
+      "link": "https://thanhnien.vn/le-nhap-kim-quan-truong-lao-hoa-thuong-thich-thanh-duc-185260419132902641.htm",
+      "summary": "Giáo hội Phật giáo Việt Nam đã trang nghiêm cử hành lễ nhập kim quan Trưởng lão hòa thượng Thích Thanh Dục tại chùa Thánh Long (P.Trần Lãm, tỉnh Hưng Yên), sáng nay 19.4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:52:00+07:00",
+      "fetched": "2026-04-19T14:06:54.824379+07:00"
+    },
+    {
+      "id": "5db6fd765cb61c2d7b0a69bf73ab2e0c",
+      "title": "Khám phá 'Tiếng Việt lạ mà quen' ở các vùng miền",
+      "link": "https://thanhnien.vn/kham-pha-tieng-viet-la-ma-quen-o-cac-vung-mien-185260419121433156.htm",
+      "summary": "Góp phần lý giải nhiều điều thú vị về sự phong phú của tiếng Việt ở các vùng miền, các tác giả: GS-TS Nguyễn Đức Dân, PGS-TS Trịnh Sâm và nhà báo Dương Thành Truyền đã có buổi chia sẻ Tiếng Việt lạ mà quen nhân Ngày sách và văn hóa đọc Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:50:00+07:00",
+      "fetched": "2026-04-19T14:06:54.824537+07:00"
+    },
+    {
+      "id": "ee4a1dee076ae904e74e1cd1e5a1bdb4",
+      "title": "Con lai lớn lên ở nước ngoài, nhập quốc tịch Việt Nam ra sao?",
+      "link": "https://vnexpress.net/con-lai-lon-len-o-nuoc-ngoai-nhap-quoc-tich-viet-nam-ra-sao-5064213.html",
+      "summary": "Tôi có cha là người Việt, mẹ là người Đức, sinh ra và lớn lên ở nước ngoài không thường trú ở Việt Nam thì có được xin quốc tịch không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:43:30+07:00",
+      "fetched": "2026-04-19T14:06:52.448890+07:00"
+    },
+    {
+      "id": "9a9250e180fe8b7cfe0998ca4b8032f5",
+      "title": "Hơn 50% sinh viên Bách khoa Hà Nội làm ở doanh nghiệp có vốn ngoại",
+      "link": "https://vnexpress.net/hon-50-sinh-vien-bach-khoa-ha-noi-lam-o-doanh-nghiep-co-von-ngoai-5064274.html",
+      "summary": "Hơn 50% sinh viên tốt nghiệp Đại học Bách khoa Hà Nội làm việc tại các doanh nghiệp FDI hoặc ra nước ngoài làm việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:40:30+07:00",
+      "fetched": "2026-04-19T14:06:52.449096+07:00"
+    },
+    {
+      "id": "64a841555d637bbbea183be8bc5d1d16",
+      "title": "Tiêu điểm thị trường BĐS TP.HCM: Khu tây bước vào chu kỳ tăng trưởng mới",
+      "link": "https://thanhnien.vn/tieu-diem-thi-truong-bds-tphcm-khu-tay-buoc-vao-chu-ky-tang-truong-moi-18526041913532543.htm",
+      "summary": "Hội thảo 'Tiêu điểm thị trường bất động sản TP.HCM - Tiềm năng & triển vọng khu vực phía tây' do Batdongsan.com.vn phối hợp cùng chủ đầu tư Prodezi Long An và Hướng Việt Properties tổ chức ngày 19.4 tại Hà Nội đã thu hút hàng trăm nhà đầu tư và chuyên gia tham dự, tập trung phân tích các động lực đa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:39:00+07:00",
+      "fetched": "2026-04-19T14:06:54.824702+07:00"
+    },
+    {
+      "id": "9f3a40b0a5e2ba633b816ca4e815bfed",
+      "title": "Cơ trưởng yêu cầu hành khách rời máy bay vì quá tải",
+      "link": "https://vnexpress.net/co-truong-yeu-cau-hanh-khach-roi-may-bay-vi-qua-tai-5064256.html",
+      "summary": "Cơ trưởng hãng EasyJet yêu cầu 5 hành khách xuống máy bay tại Anh nhằm đảm bảo trọng lượng an toàn để cất cánh trong điều kiện đường băng ngắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:31:56+07:00",
+      "fetched": "2026-04-19T14:06:52.449300+07:00"
+    },
+    {
+      "id": "f44b431ede40906fed49d5b77e77ad4a",
+      "title": "Không phải đắt tiền mới tốt, 6 món ăn tối là 'vũ khí' giúp da căng bóng",
+      "link": "https://thanhnien.vn/khong-phai-dat-tien-moi-tot-6-mon-an-toi-la-vu-khi-giup-da-cang-bong-185260419133900294.htm",
+      "summary": "Đừng mải mê 'đu' serum tiền triệu mà quên rằng làn da cực phẩm bắt nguồn từ chính căn bếp! 'Kết thân' với 6 món ăn tối này là đủ để da dẻ căng bóng, chuẩn vibe 'glass skin'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:27:00+07:00",
+      "fetched": "2026-04-19T14:06:54.824855+07:00"
+    },
+    {
+      "id": "c8105dddfca1a04dc8799df70abf0304",
+      "title": "Toyota chiếm lĩnh thị phần xe hybrid tại Việt Nam",
+      "link": "https://vnexpress.net/toyota-chiem-linh-thi-phan-xe-hybrid-tai-viet-nam-5064228.html",
+      "summary": "Sau quý I, Toyota bán 3.174 xe hybrid, chiếm hơn 60% thị phần phân khúc, theo sau là Suzuki với 15%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:23:04+07:00",
+      "fetched": "2026-04-19T14:06:52.449468+07:00"
+    },
+    {
+      "id": "1ee628dcb7d85825a667826e395e1b95",
+      "title": "Không còn rào cản ngôn ngữ, Lineage W kết nối người chơi toàn cầu",
+      "link": "https://thanhnien.vn/khong-con-rao-can-ngon-ngu-lineage-w-ket-noi-nguoi-choi-toan-cau-185260419104458093.htm",
+      "summary": "Vào buổi tối ngày 18.4 vừa qua, NPH NCV Games (NPH NCV Games) đã chính thức giới thiệu sản phẩm game chất lượng cao đang được mong đợi là Lineage W.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:14:00+07:00",
+      "fetched": "2026-04-19T14:06:54.825014+07:00"
+    },
+    {
+      "id": "2259b8b2a675a44387436a11bf26d3f2",
+      "title": "Chủng mới lở mồm long móng lan rộng, nguy cơ xâm nhập Việt Nam",
+      "link": "https://vnexpress.net/chung-moi-lo-mom-long-mong-lan-rong-nguy-co-xam-nhap-viet-nam-5064267.html",
+      "summary": "Virus lở mồm long móng serotype SAT1 lan từ châu Phi sang Trung Đông, Tây Á và đã xuất hiện tại Trung Quốc, trong khi Việt Nam chưa có vaccine phòng ngừa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:06:47+07:00",
+      "fetched": "2026-04-19T14:06:52.449576+07:00"
+    },
+    {
+      "id": "c9076baeefc4f07445e44d6a65538baa",
+      "title": "Kinh nghiệm bán hàng thuê, làm web dạo giúp tôi trúng tuyển công ty nước ngoài",
+      "link": "https://vnexpress.net/kinh-nghiem-ban-hang-thue-lam-web-dao-giup-toi-trung-tuyen-cong-ty-nuoc-ngoai-5064272.html",
+      "summary": "Buổi phỏng vấn hôm đó, tôi không có gì ngoài một 'bảng thành tích' kinh nghiệm lộn xộn: từ bán hàng thuê, viết báo, đến làm web dạo...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:00:00+07:00",
+      "fetched": "2026-04-19T14:06:52.449751+07:00"
+    },
+    {
+      "id": "34e7e5592147ddc93f84c117174c2cf8",
+      "title": "BIDV nhận giải quốc tế về truyền thông giáo dục tài chính",
+      "link": "https://vnexpress.net/bidv-nhan-giai-quoc-te-ve-truyen-thong-giao-duc-tai-chinh-5064288.html",
+      "summary": "BIDV nhận giải vàng tại The Stevie Awards châu Á - Thái Bình Dương nhờ chiến lược tiếp thị đa kênh, tập trung vào công tác phổ cập kiến thức tài chính cho giới trẻ, ngày 17/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:00:00+07:00",
+      "fetched": "2026-04-19T14:06:52.449912+07:00"
+    },
+    {
+      "id": "38d5130b89f05567a273b256d3dbce68",
+      "title": "Những yếu tố giúp dự đoán thời điểm mãn kinh",
+      "link": "https://vnexpress.net/nhung-yeu-to-giup-du-doan-thoi-diem-man-kinh-5064172.html",
+      "summary": "Yếu tố di truyền, lối sống và rối loạn nội tiết có thể ảnh hưởng đến thời điểm mãn kinh, hiểu rõ điều này giúp phụ nữ chăm sóc sức khỏe phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:00:00+07:00",
+      "fetched": "2026-04-19T14:06:52.450078+07:00"
+    },
+    {
+      "id": "062273a7d74e18bded9e7903d8700283",
+      "title": "Công an Tân Sơn Nhất hỗ trợ xây nhà cho lực lượng bảo vệ an ninh cơ sở",
+      "link": "https://thanhnien.vn/cong-an-tan-son-nhat-ho-tro-xay-nha-cho-luc-luong-bao-ve-an-ninh-co-so-185260419102402021.htm",
+      "summary": "Công an Tân Sơn Nhất vừa tổ chức chương trình khám bệnh, phát thuốc miễn phí, tặng quà cho các hộ gia đình khó khăn; hỗ trợ kinh phí xây nhà cho lực lượng bảo vệ an ninh trật tự cơ sở tại xã Tân Lân, tỉnh Tây Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T06:00:00+07:00",
+      "fetched": "2026-04-19T14:06:54.825170+07:00"
+    },
+    {
+      "id": "34e7e5592147ddc93f84c117174c2cf8",
+      "title": "BIDV nhận giải quốc tế về truyền thông giáo dục tài chính",
+      "link": "https://vnexpress.net/bidv-nhan-giai-quoc-te-ve-truyen-thong-giao-duc-tai-chinh-5064288.html",
+      "summary": "BIDV nhận giải vàng tại The Stevie Awards châu Á - Thái Bình Dương nhờ chiến lược tiếp thị đa kênh, tập trung vào công tác phổ cập kiến thức tài chính cho giới trẻ, ngày 17/4.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-19T06:00:00+07:00",
+      "fetched": "2026-04-19T14:06:58.439636+07:00"
+    },
+    {
+      "id": "869b4356328be2204a1b5dfe36e7fc9a",
+      "title": "Nắng nóng uống bia có giải được nhiệt?",
+      "link": "https://vnexpress.net/nang-nong-uong-bia-co-giai-duoc-nhiet-5060943.html",
+      "summary": "Thời tiết nắng nóng, uống bia có giúp giải nhiệt, giải khát không? (Hòa, 33 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T05:57:50+07:00",
+      "fetched": "2026-04-19T14:06:52.450300+07:00"
+    },
+    {
+      "id": "8129dc31a2942c007c92dd56a64eb726",
+      "title": "'Ký ức các thành phố' trên cung đường nghệ thuật Đà Lạt",
+      "link": "https://thanhnien.vn/ky-uc-cac-thanh-pho-tren-cung-duong-nghe-thuat-da-lat-185260419114756594.htm",
+      "summary": "Gần 200 tác phẩm của các nghệ sĩ trong và ngoài nước được tuyển chọn triển lãm trên cung đường nghệ thuật Đà Lạt, với chủ đề \"Ký ức các thành phố\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T05:57:00+07:00",
+      "fetched": "2026-04-19T14:06:54.825355+07:00"
+    },
+    {
+      "id": "73764a79cb141089255fe29a4aa91ebb",
+      "title": "HIEUTHUHAI, Quang Hùng MasterD cùng dàn anh trai 'đốt cháy' sân khấu",
+      "link": "https://thanhnien.vn/hieuthuhai-quang-hung-masterd-cung-dan-anh-trai-dot-chay-san-khau-185260419114626906.htm",
+      "summary": "Tối 18.4, tại Khu đô thị Vạn Phúc (TP.HCM), concert 'Anh trai say hi' đêm 9 – 'Reply 2024' đã diễn ra với cấu trúc đảo chiều thời gian, tái hiện hành trình rực rỡ của mùa hè 2024 và đánh dấu sự trưởng thành của dàn 'anh trai'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T05:52:00+07:00",
+      "fetched": "2026-04-19T14:06:54.825508+07:00"
+    },
+    {
+      "id": "50d05019745a60ecad562dda1eb50233",
+      "title": "'Tổng tài' phim Việt giờ vàng hé lộ cuộc sống hôn nhân bên vợ xinh đẹp",
+      "link": "https://thanhnien.vn/tong-tai-phim-viet-gio-vang-he-lo-cuoc-song-hon-nhan-ben-vo-xinh-dep-185260419100507025.htm",
+      "summary": "Để có thể toàn tâm toàn ý cho các vai diễn, Hà Việt Dũng trân trọng sự vun vén, thấu hiểu của người bạn đời. Đây cũng là bí quyết giúp cả hai duy trì tổ ấm viên mãn sau 8 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T05:50:00+07:00",
+      "fetched": "2026-04-19T14:06:54.825661+07:00"
+    },
+    {
+      "id": "995d40f6fa1067227754465b69979937",
+      "title": "Nắng nóng: Trẻ bị bỏ quên trong ô tô có thể nguy kịch sau 15 phút",
+      "link": "https://thanhnien.vn/nang-nong-tre-bi-bo-quen-trong-o-to-co-the-nguy-kich-sau-15-phut-185260419124923856.htm",
+      "summary": "Nguyên tắc quan trọng nhất khi đi ô tô mùa nắng nóng là không bao giờ để trẻ một mình trong xe, dù chỉ vài phút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T05:49:00+07:00",
+      "fetched": "2026-04-19T14:06:54.825808+07:00"
+    },
+    {
+      "id": "7a86abae70176d0d5862fa21e70872a2",
+      "title": "Đề xuất công an được phạt đến 100 triệu đồng với vi phạm kinh doanh xổ số",
+      "link": "https://vnexpress.net/de-xuat-cong-an-duoc-phat-den-100-trieu-dong-voi-vi-pham-kinh-doanh-xo-so-5064240.html",
+      "summary": "Giám đốc công an cấp tỉnh có thể xử phạt tiền tối đa 100 triệu đồng với vi phạm hành chính trong lĩnh vực kinh doanh xổ số, theo đề xuất của Bộ Tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T05:45:43+07:00",
+      "fetched": "2026-04-19T14:06:52.450477+07:00"
+    },
+    {
+      "id": "7a86abae70176d0d5862fa21e70872a2",
+      "title": "Đề xuất công an được phạt đến 100 triệu đồng với vi phạm kinh doanh xổ số",
+      "link": "https://vnexpress.net/de-xuat-cong-an-duoc-phat-den-100-trieu-dong-voi-vi-pham-kinh-doanh-xo-so-5064240.html",
+      "summary": "Giám đốc công an cấp tỉnh có thể xử phạt tiền tối đa 100 triệu đồng với vi phạm hành chính trong lĩnh vực kinh doanh xổ số, theo đề xuất của Bộ Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-19T05:45:43+07:00",
+      "fetched": "2026-04-19T14:06:58.438327+07:00"
+    },
+    {
+      "id": "f4112c6bf4a172b66df8e8348ef6d503",
+      "title": "Toàn cảnh Thành cổ Quảng Trị rộn ràng nhịp bánh xe lan tỏa thông điệp hòa bình",
+      "link": "https://thanhnien.vn/toan-canh-thanh-co-quang-tri-ron-rang-nhip-banh-xe-lan-toa-thong-diep-hoa-binh-185260419115224049.htm",
+      "summary": "Từ vùng đất từng khắc ghi những năm tháng chiến tranh khốc liệt, Thành cổ Quảng Trị hôm nay rộn ràng nhịp bánh xe đạp lăn tại giải đua xe đạp 'Chung tay kiến tạo hòa bình' năm 2026, mở ra một ngày hội thể thao sôi động, lan tỏa mạnh mẽ thông điệp về hòa bình và kết nối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T05:29:00+07:00",
+      "fetched": "2026-04-19T14:06:54.825966+07:00"
+    },
+    {
+      "id": "cee5ef2ab7a67f5a45b664c6b409307d",
+      "title": "Lộ diện các nhà vô địch sau 4 nội dung thi đấu đua xe đạp",
+      "link": "https://thanhnien.vn/lo-dien-cac-nha-vo-dich-sau-4-noi-dung-thi-dau-dua-xe-dap-185260419114607155.htm",
+      "summary": "Hơn 260 tay đua tranh tài quyết liệt trên cung đường lịch sử, giải đua xe đạp 'Chung tay kiến tạo hòa bình' tại Quảng Trị khép lại với những dấu ấn chuyên môn đậm nét và thông điệp hòa bình lan tỏa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T05:28:00+07:00",
+      "fetched": "2026-04-19T14:06:54.826117+07:00"
+    },
+    {
+      "id": "7686cb295a1b4b2bcf0bf982d543adde",
+      "title": "Xưởng sản xuất than gáo dừa gây ô nhiễm nặng, dân khốn khổ nhiều năm",
+      "link": "https://thanhnien.vn/xuong-san-xuat-than-gao-dua-gay-o-nhiem-nang-dan-khon-kho-nhieu-nam-185260419080149633.htm",
+      "summary": "Hàng loạt sai phạm được kết luận, cùng nhiều quyết định xử phạt và yêu cầu đình chỉ đã được ban hành… nhưng xưởng sản xuất than gáo dừa gây ô nhiễm môi trường ở Vĩnh Long vẫn hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T05:23:00+07:00",
+      "fetched": "2026-04-19T14:06:54.826295+07:00"
+    },
+    {
+      "id": "c4820d8ed3c90fdb889b8364386e67e0",
+      "title": "Nicole Kidman kể về ngày hay tin mẹ qua đời",
+      "link": "https://vnexpress.net/nicole-kidman-ke-ve-ngay-hay-tin-me-qua-doi-5064250.html",
+      "summary": "Minh tinh Nicole Kidman suy sụp khi nhận tin mẹ mất vài phút trước khi nhận giải tại LHP Venice 2024, từng không biết vượt nỗi đau này thế nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T05:07:20+07:00",
+      "fetched": "2026-04-19T14:06:52.450641+07:00"
+    },
+    {
+      "id": "631f284f1c77b26daaee8db4a3596b50",
+      "title": "Hai người mất tích trên sông Tiền sau tiệc sinh nhật",
+      "link": "https://vnexpress.net/hai-nguoi-mat-tich-tren-song-tien-sau-tiec-sinh-nhat-5064277.html",
+      "summary": "Hai người đàn ông rơi xuống sông Tiền sâu gần 5 m khi rời tàu du lịch sau tiệc sinh nhật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T05:02:19+07:00",
+      "fetched": "2026-04-19T14:06:52.450795+07:00"
+    },
+    {
+      "id": "ca3d91a07220f93d87d923e51fb78bca",
+      "title": "Johnny Trí Nguyễn và dàn sao đóng 'Hộ linh tráng sĩ'",
+      "link": "https://vnexpress.net/johnny-tri-nguyen-va-dan-sao-dong-ho-linh-trang-si-5064268.html",
+      "summary": "Tài tử Johnny Trí Nguyễn đóng tướng quân, cùng Đỗ Thị Hải Yến - vai hoàng hậu, Thúy Hiền - cận vệ, trong phim cổ trang \"Hộ linh tráng sĩ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T05:00:14+07:00",
+      "fetched": "2026-04-19T14:06:52.450950+07:00"
+    },
+    {
+      "id": "861ed28434a004612d57fe2b644dfcf9",
+      "title": "Vô tình trở thành người thứ ba, tôi không còn niềm tin để lấy chồng",
+      "link": "https://vnexpress.net/vo-tinh-tro-thanh-nguoi-thu-ba-toi-khong-con-niem-tin-de-lay-chong-5064244.html",
+      "summary": "Giờ tôi cứ mâu thuẫn, nhiều khi thấy thật mệt mỏi; một phần còn hy vọng tìm kiếm một nửa, một phần mất niềm tin vào hạnh phúc lứa đôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T05:00:00+07:00",
+      "fetched": "2026-04-19T14:06:52.451103+07:00"
+    },
+    {
+      "id": "83fe1934c6edaad406c1475e95549a4e",
+      "title": "Ai là vua thứ tư nhà Lý, có thời gian trị vì lâu nhất sử Việt?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-ai-la-vua-thu-tu-nha-ly-co-thoi-gian-tri-vi-lau-nhat-su-viet-5061644.html",
+      "summary": "Ông trị vì Đại Việt từ năm 1072 đến năm 1128, tổng cộng gần 56 năm, cũng là vị vua có thời gian trị vì lâu nhất trong lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T05:00:00+07:00",
+      "fetched": "2026-04-19T14:06:52.451296+07:00"
+    },
+    {
       "id": "a9506a0d48eeb5bea513e6bbc89426a5",
       "title": "Vì sao Arsenal vẫn sáng cửa vô địch Ngoại hạng Anh?",
       "link": "https://vnexpress.net/vi-sao-arsenal-van-sang-cua-vo-dich-ngoai-hang-anh-5063868.html",
@@ -601,6 +1071,16 @@ window.newsData_2026_04_19 = {
       "category": "Kinh doanh",
       "published": "2026-04-19T03:33:22+07:00",
       "fetched": "2026-04-19T11:44:01.035355+07:00"
+    },
+    {
+      "id": "0fc66c6a03f515e3913bd18d5e4c7379",
+      "title": "Thêm ngân hàng thu hồi nợ của Bamboo Airways",
+      "link": "https://vnexpress.net/them-ngan-hang-thu-hoi-no-cua-bamboo-airways-5064237.html",
+      "summary": "Sau Sacombank, MSB cũng thông báo thu giữ hàng trăm tài sản bảo đảm để xử lý khoản nợ của Bamboo Airways từ ngày 10/5 do vi phạm nghĩa vụ trả nợ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-19T03:33:22+07:00",
+      "fetched": "2026-04-19T14:06:58.438504+07:00"
     },
     {
       "id": "69781c640dcbd2234b78a2aee4f3bf37",
