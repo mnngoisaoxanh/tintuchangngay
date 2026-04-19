@@ -1,7 +1,87 @@
 window.newsData_2026_04_19 = {
   "date": "2026-04-19",
-  "lastUpdated": "2026-04-19T17:31:27.025056+07:00",
+  "lastUpdated": "2026-04-19T19:38:31.168558+07:00",
   "articles": [
+    {
+      "id": "5c335504614c8f6188d71b59379b1524",
+      "title": "Thần đồng cờ vua của Việt Nam giành chức vô địch trên đất Thái Lan",
+      "link": "https://tuoitre.vn/than-dong-co-vua-cua-viet-nam-gianh-chuc-vo-dich-tren-dat-thai-lan-20260419162637319.htm",
+      "summary": "Chiều 19-4, kỳ thủ 15 tuổi Đầu Khương Duy chính thức lên ngôi vô địch tại Giải cờ vua Bangkok Chess Club Open 2026 sau 9 ván đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T19:38:22.254342+07:00",
+      "fetched": "2026-04-19T19:38:22.254457+07:00"
+    },
+    {
+      "id": "b4ded37c5b1cb3c15265895ff57f1b90",
+      "title": "Quốc hội xem xét, thành lập thành phố Đồng Nai, quyết định nhiều nội dung quan trọng",
+      "link": "https://tuoitre.vn/quoc-hoi-xem-xet-thanh-lap-thanh-pho-dong-nai-quyet-dinh-nhieu-noi-dung-quan-trong-20260419172238112.htm",
+      "summary": "Trong đợt 2 của kỳ họp thứ nhất bắt đầu từ ngày mai (20-4 và kéo dài đến 23-4), Quốc hội sẽ xem xét, quyết định nhiều nội dung quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T19:38:22.254215+07:00",
+      "fetched": "2026-04-19T19:38:22.254331+07:00"
+    },
+    {
+      "id": "97eb162bf1521cebc2d243db74b30f21",
+      "title": "Tạm giữ tài xế xe ôm công nghệ dùng hung khí đánh người ở phường Bình Hưng Hòa",
+      "link": "https://tuoitre.vn/tam-giu-tai-xe-xe-om-cong-nghe-dung-hung-khi-danh-nguoi-o-phuong-binh-hung-hoa-20260419173259714.htm",
+      "summary": "Ngày 19-4, Công an phường Bình Hưng Hòa (TP.HCM) phối hợp cùng Phòng Cảnh sát hình sự (PC02) Công an TP.HCM khẩn trương củng cố hồ sơ để xử lý vụ việc có dấu hiệu cố ý gây thương tích xảy ra trên địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T19:38:22.254084+07:00",
+      "fetched": "2026-04-19T19:38:22.254204+07:00"
+    },
+    {
+      "id": "c0c0bc26b24c8b1fda08e31eda5a2699",
+      "title": "Nhiều doanh nghiệp đầu mối xăng dầu bị phạt do vi phạm dự trữ",
+      "link": "https://tuoitre.vn/nhieu-doanh-nghiep-dau-moi-xang-dau-bi-phat-do-vi-pham-du-tru-20260419181015223.htm",
+      "summary": "Ngoài 3 đơn vị đầu mối xăng dầu bị phạt cùng mức 130 triệu đồng do không duy trì mức dự trữ xăng dầu bắt buộc, hoặc duy trì mức dự trữ xăng dầu thấp hơn mức tối thiểu, cơ quan chức năng còn đang làm việc với 5 thương nhân khác vì có dấu hiệu vi phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T19:38:22.253936+07:00",
+      "fetched": "2026-04-19T19:38:22.254055+07:00"
+    },
+    {
+      "id": "44e9c41aff5f784caf3362373de8340f",
+      "title": "Khai mạc Đại hội Thể dục Thể thao TP.HCM",
+      "link": "https://tuoitre.vn/khai-mac-dai-hoi-the-duc-the-thao-tp-hcm-20260419111422399.htm",
+      "summary": "Từ 18h ngày 19-4, Lễ khai mạc Đại hội Thể dục thể thao TP.HCM lần thứ I 2026 bắt đầu với nhiều hoạt động. Tuổi Trẻ Online cập nhật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T19:38:22.253806+07:00",
+      "fetched": "2026-04-19T19:38:22.253925+07:00"
+    },
+    {
+      "id": "b848ec9706af19e5c9e45c1fc07510af",
+      "title": "Tiếp nhận 12 công dân Đắk Lắk trở về từ Campuchia, điều tra đường dây 'việc nhẹ, lương cao'",
+      "link": "https://tuoitre.vn/tiep-nhan-12-cong-dan-dak-lak-tro-ve-tu-campuchia-dieu-tra-duong-day-viec-nhe-luong-cao-20260419184554201.htm",
+      "summary": "UBND tỉnh Đắk Lắk chỉ đạo tiếp nhận 12 công dân do Campuchia bàn giao, đồng thời yêu cầu điều tra, xử lý nghiêm các đường dây dụ dỗ người dân xuất cảnh trái phép bằng chiêu \"việc nhẹ, lương cao\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T19:38:22.253666+07:00",
+      "fetched": "2026-04-19T19:38:22.253794+07:00"
+    },
+    {
+      "id": "7ec3eec0f7ef9a3e6f0604f88d8cd165",
+      "title": "Xe tải làm đổ mỡ kéo dài trên đường khiến nhiều người đi xe máy bị trượt ngã",
+      "link": "https://tuoitre.vn/xe-tai-lam-do-mo-keo-dai-tren-duong-khien-nhieu-nguoi-di-xe-may-bi-truot-nga-20260419174647625.htm",
+      "summary": "Ngày 19-4, Đội Cảnh sát giao thông đường bộ số 2, tỉnh Đồng Tháp thông tin đã khắc phục hậu quả, trả lại mặt đường an toàn, sau vụ một xe tải làm đổ mỡ trên tuyến quốc lộ 54 làm nhiều người đi xe máy bị trượt ngã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T19:38:22.253494+07:00",
+      "fetched": "2026-04-19T19:38:22.253652+07:00"
+    },
+    {
+      "id": "884fdcb6e042aaa7985cef75b7422be0",
+      "title": "Thêm ngân hàng nhắm vào hơn 300 bất động sản của Bamboo Airways để thu giữ",
+      "link": "https://tuoitre.vn/them-ngan-hang-nham-vao-hon-300-bat-dong-san-cua-bamboo-airways-de-thu-giu-2026041918590017.htm",
+      "summary": "Áp lực xử lý nợ xấu tại Bamboo Airways tiếp tục gia tăng khi thêm một ngân hàng công bố kế hoạch thu giữ tài sản bảo đảm liên quan đến hãng hàng không này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T19:38:22.253268+07:00",
+      "fetched": "2026-04-19T19:38:22.253479+07:00"
+    },
     {
       "id": "dc24f1a7ee1bb219adedb59276f4b754",
       "title": "Cửa Lò xây 15 điểm tắm nước ngọt phục vụ du khách",
@@ -453,6 +533,76 @@ window.newsData_2026_04_19 = {
       "fetched": "2026-04-19T14:06:55.832590+07:00"
     },
     {
+      "id": "73b13050575bee5ee42955fbbc039650",
+      "title": "Lời khai tài xế xe công nghệ dùng gậy kim loại đánh người sau va chạm",
+      "link": "https://thanhnien.vn/loi-khai-tai-xe-xe-cong-nghe-dung-gay-kim-loai-danh-nguoi-sau-va-cham-185260419183239475.htm",
+      "summary": "Ngày 19.4.2026, Công an phường Bình Hưng Hòa phối hợp Phòng Cảnh sát hình sự - Công an Thành phố Hồ Chí Minh đang củng cố hồ sơ, xử lý vụ việc liên quan đến hành vi cố ý gây thương tích xảy ra sau va chạm giao thông trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T12:07:00+07:00",
+      "fetched": "2026-04-19T19:38:21.284148+07:00"
+    },
+    {
+      "id": "bfce951f709ab394fee9c50edd31a9f6",
+      "title": "Top 3 kem dưỡng giúp giảm nếp nhăn mắt ai cũng muốn dùng dù đắt tiền",
+      "link": "https://thanhnien.vn/top-3-kem-duong-giup-giam-nep-nhan-mat-ai-cung-muon-dung-du-dat-tien-185260419191952757.htm",
+      "summary": "Bạn có thể giấu tuổi bằng makeup, nhưng vùng mắt thì không biết nói dối. Chỉ một nếp nhăn nhỏ cũng đủ khiến gương mặt kém tươi tắn. Vì thế, nhiều phụ nữ sẵn sàng chi mạnh cho 3 kem mắt giúp giảm nếp nhăn \"đắt xắt ra miếng\" dưới đây. Bởi họ hiểu, đầu tư đúng từ sớm, giữ lại cả thanh xuân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T12:05:00+07:00",
+      "fetched": "2026-04-19T19:38:21.284322+07:00"
+    },
+    {
+      "id": "1a4e7ed89eabf817e0b85b423a028e8e",
+      "title": "Trường học Trung Quốc lùi giờ vào lớp để học sinh ngủ thêm",
+      "link": "https://vnexpress.net/truong-hoc-trung-quoc-lui-gio-vao-lop-de-hoc-sinh-ngu-them-5062392.html",
+      "summary": "Nhiều thành phố lớn đồng loạt bỏ tiết đọc bài sáng sớm, lùi giờ vào lớp để học sinh được ngủ nhiều hơn, song vấp phải nhiều lo ngại của phụ huynh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T12:01:00+07:00",
+      "fetched": "2026-04-19T19:38:17.910052+07:00"
+    },
+    {
+      "id": "d2adc8fe7117cc3ffe9face0111d158f",
+      "title": "Ngày hỗn loạn ở eo biển Hormuz",
+      "link": "https://vnexpress.net/ngay-hon-loan-o-eo-bien-hormuz-5064312.html",
+      "summary": "Eo biển Hormuz rơi vào hỗn loạn khi Mỹ và Iran liên tục đưa ra các tuyên bố trái chiều, khiến hoạt động của tàu thuyền thêm gián đoạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T12:00:00+07:00",
+      "fetched": "2026-04-19T19:38:17.910231+07:00"
+    },
+    {
+      "id": "9ae36e5719f460e0a090aa0c219e14c6",
+      "title": "Khách có phải trả thêm tiền nếu hãng bay điều chỉnh phụ phí xăng dầu?",
+      "link": "https://vnexpress.net/khach-co-phai-tra-them-tien-neu-hang-bay-dieu-chinh-phu-phi-xang-dau-5057406.html",
+      "summary": "Thông tin các hãng bay tăng phụ phí xăng dầu, áp dụng cho một số loại vé khiến một số du khách băn khoăn có phải trả thêm tiền nếu đã thanh toán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T11:56:14+07:00",
+      "fetched": "2026-04-19T19:38:17.910395+07:00"
+    },
+    {
+      "id": "288176142dd60666394a1e751330318e",
+      "title": "Điều tra vụ bé trai đuối nước tử vong tại hồ bơi ở TP.HCM",
+      "link": "https://thanhnien.vn/dieu-tra-vu-be-trai-duoi-nuoc-tu-vong-tai-ho-boi-o-tphcm-18526041918063631.htm",
+      "summary": "Cơ quan chức năng đang khẩn trương điều tra làm rõ vụ bé trai đuối nước tử vong xảy ra tại một hồ bơi trên địa bàn phường Bình Tân, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T11:53:00+07:00",
+      "fetched": "2026-04-19T19:38:21.284478+07:00"
+    },
+    {
+      "id": "304c7564f2d18a8abad5f16fed15d9fe",
+      "title": "Ca sĩ Ngọc Linh nhắc về biến cố và lý do 'mất tích' khỏi showbiz 11 năm",
+      "link": "https://thanhnien.vn/ca-si-ngoc-linh-nhac-ve-bien-co-va-ly-do-mat-tich-khoi-showbiz-11-nam-185260419171555683.htm",
+      "summary": "Là giọng ca được nhiều khán giả yêu mến, Ngọc Linh từng trải qua giai đoạn vắng bóng để tập trung cuộc sống riêng. Đó cũng là thời điểm cô đối diện với biến cố sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T11:52:00+07:00",
+      "fetched": "2026-04-19T19:38:21.284655+07:00"
+    },
+    {
       "id": "603c86e66661d9153ca999ec2044d369",
       "title": "Dự báo thời tiết từ 19 đến 25-4: Bắc Bộ mưa dông, Trung Bộ và Nam Bộ ngày nắng, chiều mưa",
       "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-19-den-25-4-bac-bo-mua-dong-trung-bo-va-nam-bo-ngay-nang-chieu-mua-20260418183739497.htm",
@@ -603,6 +753,136 @@ window.newsData_2026_04_19 = {
       "fetched": "2026-04-19T11:43:57.580788+07:00"
     },
     {
+      "id": "d703455985deeb3255b4e694b5908536",
+      "title": "Người yêu thiên văn TP.HCM khám phá bí ẩn vũ trụ: Chuyện về hố đen, thiên hà",
+      "link": "https://thanhnien.vn/nguoi-yeu-thien-van-tphcm-kham-pha-bi-an-vu-tru-chuyen-ve-ho-den-thien-ha-185260419164938343.htm",
+      "summary": "Những thiên hà đầu tiên đã hình thành như thế nào? Bằng cách nào những hố đen siêu khổng lồ có thể tồn tại từ thuở bình minh của vũ trụ?... nhiều người yêu thiên văn ở TP.HCM hào hứng tìm câu trả lời từ buổi seminar thú vị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T11:36:00+07:00",
+      "fetched": "2026-04-19T19:38:21.284810+07:00"
+    },
+    {
+      "id": "8a72676c8405fdba4bb09d171a6c66c7",
+      "title": "Manchester United ‘vượt ải’ Chelsea, Michael Carrick có chắc suất HLV trưởng mùa tới?",
+      "link": "https://thanhnien.vn/manchester-united-vuot-ai-chelsea-michael-carrick-co-chac-suat-hlv-truong-mua-toi-185260419170117751.htm",
+      "summary": "Chiến thắng tối thiểu trước Chelsea giúp M.U giữ vững vị trí tốp 3, đồng thời tiếp tục củng cố niềm tin dành cho HLV tạm quyền Michael Carrick trong giai đoạn then chốt của mùa giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T11:28:00+07:00",
+      "fetched": "2026-04-19T19:38:21.284960+07:00"
+    },
+    {
+      "id": "a3847a14e8453d90b78363fc243920d5",
+      "title": "Kỳ thủ Khương Duy vô địch giải có 16 Đại kiện tướng",
+      "link": "https://vnexpress.net/ky-thu-khuong-duy-vo-dich-giai-co-16-dai-kien-tuong-5064326.html",
+      "summary": "Kỳ thủ 15 tuổi Đầu Khương Duy vô địch Bangkok Mở rộng 2026, giải đấu quy tụ 16 Đại kiện tướng (GM), đồng thời giành chuẩn GM thứ hai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T11:24:07+07:00",
+      "fetched": "2026-04-19T19:38:17.910553+07:00"
+    },
+    {
+      "id": "a3847a14e8453d90b78363fc243920d5",
+      "title": "Kỳ thủ Khương Duy vô địch giải có 16 Đại kiện tướng",
+      "link": "https://vnexpress.net/ky-thu-khuong-duy-vo-dich-giai-co-16-dai-kien-tuong-5064326.html",
+      "summary": "Kỳ thủ 15 tuổi Đầu Khương Duy vô địch Bangkok Mở rộng 2026, giải đấu quy tụ 16 Đại kiện tướng (GM), đồng thời giành chuẩn GM thứ hai.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-19T11:24:07+07:00",
+      "fetched": "2026-04-19T19:38:31.157693+07:00"
+    },
+    {
+      "id": "40022c2327cfa93b16b7704003780fcf",
+      "title": "Taste of Australia 2026: Liên doanh Việt - Úc ghi dấu dinh dưỡng chuẩn quốc tế",
+      "link": "https://thanhnien.vn/taste-of-australia-2026-lien-doanh-viet-uc-ghi-dau-dinh-duong-chuan-quoc-te-185260419182028752.htm",
+      "summary": "Ngày 18.4.2026, sự kiện Taste of Australia trở lại TP.HCM trong không khí sôi động, tiếp nối chuỗi hoạt động thường niên uy tín do Tổng Lãnh sự quán Úc tại Việt Nam tổ chức. Với sự hiện diện của bà Sarah Hooper - đại diện Tổng Lãnh sự quán Úc, chương trình năm nay quy tụ nhiều thương hiệu thực phẩm,...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T11:12:00+07:00",
+      "fetched": "2026-04-19T19:38:21.285112+07:00"
+    },
+    {
+      "id": "c4adaba69bfe543f4e1fc52dea46c4c5",
+      "title": "'Go Global' - lộ trình bước ra thế giới",
+      "link": "https://vnexpress.net/go-global-lo-trinh-buoc-ra-the-gioi-5063275.html",
+      "summary": "Trong sách ''Go Global'', tác giả Nguyễn Phi Vân xây dựng bộ công cụ giúp người đọc trau dồi tư duy, năng lực để tự tin vươn ra quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T11:06:03+07:00",
+      "fetched": "2026-04-19T19:38:17.910736+07:00"
+    },
+    {
+      "id": "7a3f943c5b695a6a5db4ec7bbcc8216f",
+      "title": "Nhà đầu tư thế giới tăng cường mua vàng, bạc",
+      "link": "https://thanhnien.vn/nha-dau-tu-the-gioi-tang-cuong-mua-vang-bac-185260419170706291.htm",
+      "summary": "Các quỹ đầu tư vàng, bạc lớn trên thế giới thực hiện mua vào với khối lượng lấn áp bán ra trong tuần qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T11:00:00+07:00",
+      "fetched": "2026-04-19T19:38:21.285259+07:00"
+    },
+    {
+      "id": "0e1fd61ccbbe60c3e216af307eeb560e",
+      "title": "Cách phối áo phông xuống phố giúp nàng năng động, cuốn hút",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cach-phoi-ao-phong-xuong-pho-giup-nang-nang-dong-cuon-hut-185260419145113935.htm",
+      "summary": "Không cần quá cầu kỳ hay gò bó, chỉ một chiếc áo phông đơn giản cũng đủ mang đến vẻ ngoài phóng khoáng cho nàng xuống phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T11:00:00+07:00",
+      "fetched": "2026-04-19T19:38:21.285403+07:00"
+    },
+    {
+      "id": "72bd22225441ea19464b4de6a42cb672",
+      "title": "Sức hấp thụ nhà đất quý I giảm xuống 15-20%",
+      "link": "https://vnexpress.net/suc-hap-thu-nha-dat-quy-i-giam-xuong-15-20-5064273.html",
+      "summary": "Thị trường bất động sản quý I ghi nhận tỷ lệ hấp thụ chỉ đạt khoảng 15-20%, cho thấy thanh khoản suy giảm rõ rệt sau giai đoạn phục hồi ngắn, theo Đatxanh Serviecs.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:57:20+07:00",
+      "fetched": "2026-04-19T19:38:17.910893+07:00"
+    },
+    {
+      "id": "ee4035b308a2616b0754d4d8eb494db4",
+      "title": "5 sai lầm trước khi ngủ khiến bạn mệt mỏi hơn vào sáng hôm sau",
+      "link": "https://thanhnien.vn/5-sai-lam-truoc-khi-ngu-khien-ban-met-moi-hon-vao-sang-hom-sau-185260419174342003.htm",
+      "summary": "Nhiều thói quen tưởng vô hại trước khi ngủ lại âm thầm phá hỏng giấc ngủ. Chuyên gia cảnh báo 5 sai lầm phổ biến dưới đây có thể khiến bạn ngủ kém và mệt mỏi kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:43:00+07:00",
+      "fetched": "2026-04-19T19:38:21.285552+07:00"
+    },
+    {
+      "id": "418e34b5b1d1f213f778b1ac56fcca9e",
+      "title": "Cảnh báo chiêu giả danh nhân viên cấp nước để lừa đảo",
+      "link": "https://vnexpress.net/canh-bao-chieu-gia-danh-nhan-vien-cap-nuoc-de-lua-dao-5064333.html",
+      "summary": "Nhiều người dân tại Đà Nẵng nhận cuộc gọi yêu cầu cập nhật hợp đồng nước, cài ứng dụng lạ; có người bị chiếm đoạt hàng trăm triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:40:57+07:00",
+      "fetched": "2026-04-19T19:38:17.911054+07:00"
+    },
+    {
+      "id": "615e9783ec129beace6cf40552bb5660",
+      "title": "TP.HCM: Xử lý tài xế xe ôm công nghệ dùng gậy kim loại đánh người sau va chạm",
+      "link": "https://thanhnien.vn/tphcm-xu-ly-tai-xe-xe-om-cong-nghe-dung-gay-kim-loai-danh-nguoi-sau-va-cham-185260419170822404.htm",
+      "summary": "Tài xế xe ôm công nghệ sử dụng hung khí giải quyết mâu thuẫn sau va chạm giao thông xảy ra trên địa bàn phường Bình Hưng Hòa, TP.HCM đã bị lực lượng chức năng đưa về xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:34:00+07:00",
+      "fetched": "2026-04-19T19:38:21.285732+07:00"
+    },
+    {
+      "id": "796137ea6be3893ac4ddb7c753813b2d",
+      "title": "Quán quân 'So you think you can dance' của Mỹ ngồi ghế nóng 'Super24 Vietnam 2026'",
+      "link": "https://thanhnien.vn/quan-quan-so-you-think-you-can-dance-cua-my-ngoi-ghe-nong-super24-vietnam-2026-185260419172921732.htm",
+      "summary": "Sự xuất hiện của Sabra Johnson trên hàng ghế giám khảo đã trở thành điểm nhấn của Super24 Vietnam 2026. Bên cạnh đó, sân chơi còn có sự góp mặt của vũ công Quang Đăng, ca sĩ Mỹ Anh cùng dàn nghệ sĩ indie.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:32:00+07:00",
+      "fetched": "2026-04-19T19:38:21.285884+07:00"
+    },
+    {
       "id": "e27e88a88d30c377b72d186d1f8cc0f9",
       "title": "Trường ĐH Cảnh sát nhân dân nhận danh hiệu Anh hùng Lực lượng vũ trang nhân dân",
       "link": "https://thanhnien.vn/truong-dh-canh-sat-nhan-dan-nhan-danh-hieu-anh-hung-luc-luong-vu-trang-nhan-dan-185260419163108979.htm",
@@ -611,6 +891,16 @@ window.newsData_2026_04_19 = {
       "category": "Tổng hợp",
       "published": "2026-04-19T10:28:00+07:00",
       "fetched": "2026-04-19T17:31:17.270857+07:00"
+    },
+    {
+      "id": "f22af64fb68817f023c5e59bc7b1f436",
+      "title": "Dùng gậy 3 khúc đánh tới tấp thanh niên sau va chạm giao thông",
+      "link": "https://vnexpress.net/dung-gay-3-khuc-danh-toi-tap-thanh-nien-sau-va-cham-giao-thong-5064335.html",
+      "summary": "Trần Văn Hòa, 37 tuổi, tài xế xe ôm công nghệ, sau khi va chạm với nam thanh niên chạy xe máy đã chửi bới, dùng gậy 3 khúc bằng kim loại tấn công tới tấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:25:17+07:00",
+      "fetched": "2026-04-19T19:38:17.911215+07:00"
     },
     {
       "id": "220a7e32ba67df2139633a50b33a8c81",
@@ -623,6 +913,16 @@ window.newsData_2026_04_19 = {
       "fetched": "2026-04-19T17:31:17.271022+07:00"
     },
     {
+      "id": "7604ea7d5c2a5a917cbafcca1068204a",
+      "title": "Khánh Hòa mở bán gần 1.000 căn nhà ở xã hội giá từ 24 triệu đồng mỗi m2",
+      "link": "https://vnexpress.net/khanh-hoa-mo-ban-gan-1-000-can-nha-o-xa-hoi-gia-tu-24-trieu-dong-moi-m2-5064280.html",
+      "summary": "Dự án nhà ở xã hội CT-02 tại Khu đô thị An Bình Tân sẽ tiếp nhận hồ sơ đăng ký mua từ giữa tháng 5, giá dự kiến khoảng 24 triệu đồng mỗi m2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:21:29+07:00",
+      "fetched": "2026-04-19T19:38:17.911386+07:00"
+    },
+    {
       "id": "277c7d33874212b65682125925e60a38",
       "title": "Cua rơ Việt Nam gây sốc, vượt ngoại binh để giữ danh hiệu vua leo núi",
       "link": "https://thanhnien.vn/cua-ro-viet-nam-gay-soc-vuot-ngoai-binh-de-giu-danh-hieu-vua-leo-nui-185260419170748514.htm",
@@ -631,6 +931,56 @@ window.newsData_2026_04_19 = {
       "category": "Tổng hợp",
       "published": "2026-04-19T10:17:00+07:00",
       "fetched": "2026-04-19T17:31:17.271198+07:00"
+    },
+    {
+      "id": "a0e45fbe3d590649edb4d5da9c765652",
+      "title": "Thanh niên giả 'cô đồng' để lừa tiền xem bói",
+      "link": "https://vnexpress.net/thanh-nien-gia-co-dong-de-lua-tien-xem-boi-5064323.html",
+      "summary": "Nguyễn Đức Quyền, 25 tuổi, bị cáo buộc mua tài khoản mạng xã hội có lượt theo dõi lớn, giả danh \"cô đồng\" để chiếm đoạt tiền của khách qua dịch vụ xem tử vi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:16:37+07:00",
+      "fetched": "2026-04-19T19:38:17.911542+07:00"
+    },
+    {
+      "id": "4515173631fb199b4651245b6239d32b",
+      "title": "Ba thương nhân đầu mối bị phạt do vi phạm dự trữ xăng dầu",
+      "link": "https://vnexpress.net/ba-thuong-nhan-dau-moi-bi-phat-do-vi-pham-du-tru-xang-dau-5064303.html",
+      "summary": "Ba thương nhân đầu mối xăng dầu bị phạt cùng mức 130 triệu đồng, do không duy trì hoặc duy trì dự trữ bắt buộc dưới mức tối thiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:16:23+07:00",
+      "fetched": "2026-04-19T19:38:17.911729+07:00"
+    },
+    {
+      "id": "4515173631fb199b4651245b6239d32b",
+      "title": "Ba thương nhân đầu mối bị phạt do vi phạm dự trữ xăng dầu",
+      "link": "https://vnexpress.net/ba-thuong-nhan-dau-moi-bi-phat-do-vi-pham-du-tru-xang-dau-5064303.html",
+      "summary": "Ba thương nhân đầu mối xăng dầu bị phạt cùng mức 130 triệu đồng, do không duy trì hoặc duy trì dự trữ bắt buộc dưới mức tối thiểu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-19T10:16:23+07:00",
+      "fetched": "2026-04-19T19:38:25.757399+07:00"
+    },
+    {
+      "id": "e7aa78d0fa179dfc00257f08629c0886",
+      "title": "Công chứng và hàng rào địa hạt",
+      "link": "https://vnexpress.net/cong-chung-va-hang-rao-dia-hat-5064320.html",
+      "summary": "Người dân bước vào phòng công chứng không chỉ để hoàn tất một thủ tục. Nhiều người mang theo cả số tiền tích cóp nhiều năm, căn nhà cha mẹ để lại hay mảnh đất là tài sản lớn nhất của gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:07:05+07:00",
+      "fetched": "2026-04-19T19:38:17.911889+07:00"
+    },
+    {
+      "id": "4c72c4d83e8c568f440886ad0df1eec7",
+      "title": "'Xe buýt TP HCM nên hoạt động đến 23h30'",
+      "link": "https://vnexpress.net/xe-buyt-tp-hcm-nen-hoat-dong-den-23h30-5064321.html",
+      "summary": "Nếu chỉ thuận tiện một chiều, thì dù giá vé có rẻ, thậm chí là 0 đồng, người ta vẫn sẽ quay về với xe máy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:05:27+07:00",
+      "fetched": "2026-04-19T19:38:17.912039+07:00"
     },
     {
       "id": "b878dc1fcbc33665922287f28dc3d2ae",
@@ -643,6 +993,16 @@ window.newsData_2026_04_19 = {
       "fetched": "2026-04-19T17:31:17.271360+07:00"
     },
     {
+      "id": "d907dbb2f4c628541f7b3c7c816f78fa",
+      "title": "Điểm tin 17h: 'Hội thánh Đức Chúa Trời Mẹ' ở Quảng Trị bị điều tra | Meta sắp sa thải hàng nghìn người",
+      "link": "https://vnexpress.net/diem-tin-17h-hoi-thanh-duc-chua-troi-me-o-quang-tri-bi-dieu-tra-meta-sap-sa-thai-hang-nghin-nguoi-5064336.html",
+      "summary": "Vu khống, làm nhục người khác trên mạng có thể bị tăng án tù; Lãnh tụ Iran cảnh báo Mỹ, Israel về 'thất bại cay đắng'...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:02:10+07:00",
+      "fetched": "2026-04-19T19:38:17.912193+07:00"
+    },
+    {
       "id": "fc91d0a1ebfba5b82c52a0c9abe88ac5",
       "title": "Toàn cảnh 17h: Tàu hỏa tông ô tô biến dạng ở Hà Nội | Cháy lớn giữa khu dân cư trung tâm Đà Lạt",
       "link": "https://thanhnien.vn/toan-canh-17h-tau-hoa-tong-o-to-bien-dang-o-ha-noi-chay-lon-giua-khu-dan-cu-trung-tam-da-lat-185260419163508205.htm",
@@ -651,6 +1011,16 @@ window.newsData_2026_04_19 = {
       "category": "Tổng hợp",
       "published": "2026-04-19T10:00:00+07:00",
       "fetched": "2026-04-19T17:31:17.271511+07:00"
+    },
+    {
+      "id": "ee8f4f65f30cfc11fc7fb20f6554bdd7",
+      "title": "Tôi tự kỷ nhưng luôn muốn được yêu",
+      "link": "https://vnexpress.net/toi-tu-ky-nhung-luon-muon-duoc-yeu-5064255.html",
+      "summary": "Có lúc tôi thấy mình như đứng ngoài cuộc chơi; người khác yêu nhau dễ dàng, còn tôi loay hoay với những điều cơ bản nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T10:00:00+07:00",
+      "fetched": "2026-04-19T19:38:17.912349+07:00"
     },
     {
       "id": "770afdef1e0e91a0285f7100c0cee00e",
