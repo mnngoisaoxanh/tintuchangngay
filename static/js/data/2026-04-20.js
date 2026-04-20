@@ -1,7 +1,97 @@
 window.newsData_2026_04_20 = {
   "date": "2026-04-20",
-  "lastUpdated": "2026-04-20T22:09:57.352341+07:00",
+  "lastUpdated": "2026-04-20T23:55:09.179724+07:00",
   "articles": [
+    {
+      "id": "6cc7001d917c1178a309afb0403ce5e8",
+      "title": "'Ngưỡng chịu thuế với hộ kinh doanh nên từ 2 tỉ đồng'",
+      "link": "https://tuoitre.vn/nguong-chiu-thue-voi-ho-kinh-doanh-nen-tu-2-ti-dong-20260420203926297.htm",
+      "summary": "Ủy ban Kinh tế và Tài chính của Quốc hội cho rằng ngưỡng chịu thuế với hộ kinh doanh nên từ 2 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T23:55:03.571282+07:00",
+      "fetched": "2026-04-20T23:55:03.571378+07:00"
+    },
+    {
+      "id": "5ec5716b97c987577c4981caeff64779",
+      "title": "Trung Đông tối 20-4: Iran đang xem xét tích cực việc đàm phán với Mỹ, ông Tập nói về Hormuz",
+      "link": "https://tuoitre.vn/trung-dong-toi-20-4-iran-dang-xem-xet-tich-cuc-viec-dam-phan-voi-my-ong-tap-noi-ve-hormuz-20260420205017163.htm",
+      "summary": "Chủ tịch Trung Quốc Tập Cận Bình nhấn mạnh cần duy trì hoạt động lưu thông bình thường qua eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T23:55:03.571177+07:00",
+      "fetched": "2026-04-20T23:55:03.571273+07:00"
+    },
+    {
+      "id": "87db885fe0eb41eab872df3dc048e280",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn ký nghị quyết thành lập 10 phường thuộc tỉnh Đồng Nai",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-ky-nghi-quyet-thanh-lap-10-phuong-thuoc-tinh-dong-nai-20260420204908599.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn đã ký nghị quyết của Ủy ban Thường vụ Quốc hội về việc thành lập 10 phường thuộc tỉnh Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T23:55:03.571073+07:00",
+      "fetched": "2026-04-20T23:55:03.571168+07:00"
+    },
+    {
+      "id": "d95f7ed0768eddecbd39e88e56c32631",
+      "title": "Thủ tướng yêu cầu bộ trưởng, chủ tịch tỉnh chỉ đạo tổng rà soát văn bản pháp luật",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-bo-truong-chu-tich-tinh-chi-dao-tong-ra-soat-van-ban-phap-luat-20260420203537164.htm",
+      "summary": "Phó thủ tướng Lê Tiến Châu vừa ký công điện số 32 của Thủ tướng Chính phủ về việc tổ chức thực hiện tổng rà soát hệ thống văn bản quy phạm pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T23:55:03.570966+07:00",
+      "fetched": "2026-04-20T23:55:03.571063+07:00"
+    },
+    {
+      "id": "dc54377387aab792754f688fcd96026c",
+      "title": "Tử hình 2 người trong đường dây mua bán, vận chuyển 143kg ma túy xuyên quốc gia",
+      "link": "https://tuoitre.vn/tu-hinh-2-nguoi-trong-duong-day-mua-ban-van-chuyen-143-kg-ma-tuy-xuyen-quoc-gia-20260420210640999.htm",
+      "summary": "Tối 20-4, TAND TP.HCM đã tuyên án đối với 9 bị cáo trong vụ án mua bán, vận chuyển trái phép chất ma túy với quy mô đặc biệt lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T23:55:03.570857+07:00",
+      "fetched": "2026-04-20T23:55:03.570956+07:00"
+    },
+    {
+      "id": "33d35e77a5c5b28350a91c6795bd97dd",
+      "title": "Ổ dịch não mô cầu làm một người tử vong ở Cà Mau đã được dập",
+      "link": "https://tuoitre.vn/o-dich-nao-mo-cau-lam-mot-nguoi-tu-vong-o-ca-mau-da-duoc-dap-20260420194345532.htm",
+      "summary": "Ngày 20-4, Trung tâm Kiểm soát bệnh tật tỉnh Cà Mau cho biết đã kết thúc ổ dịch do bệnh não mô cầu liên quan Trại giam Cái Tàu, xã Khánh An, tỉnh Cà Mau. Ổ dịch này đã làm một người tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T23:55:03.570730+07:00",
+      "fetched": "2026-04-20T23:55:03.570846+07:00"
+    },
+    {
+      "id": "25169c052301c02fb031ead603b20d4c",
+      "title": "Đề nghị truy tố 10 bị can trong vụ mua bán, tàng trữ súng quân dụng ở Đồng Tháp",
+      "link": "https://tuoitre.vn/de-nghi-truy-to-10-bi-can-trong-vu-mua-ban-tang-tru-sung-quan-dung-o-dong-thap-20260420184552546.htm",
+      "summary": "Công an tỉnh Đồng Tháp đã đề nghị truy tố 10 bị can về tội chế tạo, tàng trữ, sử dụng, mua bán trái phép vũ khí quân dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T23:55:03.570620+07:00",
+      "fetched": "2026-04-20T23:55:03.570721+07:00"
+    },
+    {
+      "id": "5b4d809e0025498f0d04f57cd4976c6a",
+      "title": "Nam sinh viên ở Hà Nội mất tích khi leo núi Tam Đảo",
+      "link": "https://tuoitre.vn/nam-sinh-vien-o-ha-noi-mat-tich-khi-leo-nui-tam-dao-20260420212447119.htm",
+      "summary": "UBND xã Đạo Trù (tỉnh Phú Thọ) cùng các lực lượng đang tổ chức tìm kiếm một nam sinh viên Trường Đại học Đại Nam mất tích từ ngày 19-4, khi leo núi Tam Đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T23:55:03.570499+07:00",
+      "fetched": "2026-04-20T23:55:03.570610+07:00"
+    },
+    {
+      "id": "b6b2740fba790ea39586ebcc9a3026a3",
+      "title": "Thu nhập Chủ tịch và CEO TCBS giảm; lương thưởng lãnh đạo hai 'ông lớn' VPS, SSI ra sao?",
+      "link": "https://tuoitre.vn/thu-nhap-chu-tich-va-ceo-tcbs-giam-luong-thuong-lanh-dao-hai-ong-lon-vps-ssi-ra-sao-20260420214417716.htm",
+      "summary": "Dù lợi nhuận tăng mạnh, nhưng thù lao và lương của Chủ tịch và Tổng giám đốc Chứng khoán TCBS đều giảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T23:55:03.570280+07:00",
+      "fetched": "2026-04-20T23:55:03.570487+07:00"
+    },
     {
       "id": "b6c5e78f2617cdf738892ab8af1805c2",
       "title": "Phát hiện thác nước cực hiếm cao khoảng 350m trong hang động tại Phong Nha - Kẻ Bàng",
@@ -603,6 +693,86 @@ window.newsData_2026_04_20 = {
       "fetched": "2026-04-20T16:49:18.339623+07:00"
     },
     {
+      "id": "2acdf3bfd57a84455175d91ae47b4e4f",
+      "title": "Phát hiện hơn nửa tấn thịt heo bốc mùi ở lò mổ trái phép",
+      "link": "https://thanhnien.vn/phat-hien-hon-nua-tan-thit-heo-boc-mui-o-lo-mo-trai-phep-185260420210324254.htm",
+      "summary": "Kiểm tra một lò mổ trái phép ở phường Long Bình, lực lượng Công an tỉnh Đồng Nai phát hiện tại đây đang trữ đông hơn nửa tấn thịt heo đã bốc mùi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T16:46:00+07:00",
+      "fetched": "2026-04-20T23:55:02.590023+07:00"
+    },
+    {
+      "id": "8a7472f3471bf67161f40d6cabd7be13",
+      "title": "Ông Trump tuyên bố sắp 'ký thỏa thuận với Iran'",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-sap-ky-thoa-thuan-voi-iran-5064877.html",
+      "summary": "Tổng thống Mỹ nói thỏa thuận hạt nhân Iran sẽ được ký trong hôm nay, dù chưa có dấu hiệu cho thấy đàm phán Mỹ - Iran sẽ diễn ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T16:34:54+07:00",
+      "fetched": "2026-04-20T23:54:59.795943+07:00"
+    },
+    {
+      "id": "8a7472f3471bf67161f40d6cabd7be13",
+      "title": "Ông Trump tuyên bố sắp 'ký thỏa thuận với Iran'",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-sap-ky-thoa-thuan-voi-iran-5064877.html",
+      "summary": "Tổng thống Mỹ nói thỏa thuận hạt nhân Iran sẽ được ký trong hôm nay, dù chưa có dấu hiệu cho thấy đàm phán Mỹ - Iran sẽ diễn ra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-20T16:34:54+07:00",
+      "fetched": "2026-04-20T23:55:05.277979+07:00"
+    },
+    {
+      "id": "995a68c462e29873aaa61ac0f70994f4",
+      "title": "16/16 bộ gửi phương án cắt giảm thủ tục hành chính",
+      "link": "https://vnexpress.net/16-16-bo-gui-phuong-an-cat-giam-thu-tuc-hanh-chinh-5064871.html",
+      "summary": "Đến 18/4, toàn bộ 16 bộ, cơ quan ngang bộ đã gửi phương án cắt giảm thủ tục hành chính, nhưng chỉ 3 bộ đạt đủ chỉ tiêu, nhiều đơn vị còn chậm hoặc không đạt yêu cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T15:48:26+07:00",
+      "fetched": "2026-04-20T23:54:59.796105+07:00"
+    },
+    {
+      "id": "faa2b0daa9b20d5fa93a4f96398a77f0",
+      "title": "Tổng Bí thư, Chủ tịch nước: Thước đo chính sách là đời sống đồng bào",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-thuoc-do-chinh-sach-la-doi-song-dong-bao-5064831.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu đổi mới căn bản chính sách dân tộc, chuyển từ giảm nghèo sang trao cơ hội phát triển, lấy cải thiện đời sống người dân làm thước đo hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T15:23:31+07:00",
+      "fetched": "2026-04-20T23:54:59.796250+07:00"
+    },
+    {
+      "id": "4d7fb4e1b0129ac991de2124df49f862",
+      "title": "Tasco Auto vươn lên chiếm gần 14,2% thị phần ô tô",
+      "link": "https://thanhnien.vn/tasco-auto-vuon-len-chiem-gan-142-thi-phan-o-to-185260420220730167.htm",
+      "summary": "Theo công bố của Tasco, Tasco Auto ghi nhận doanh thu năm 2025 đạt 37.375 tỉ đồng, với sản lượng tiêu thụ đạt 37.639 xe, tương ứng thị phần 14,2% (theo VAMA).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T15:23:00+07:00",
+      "fetched": "2026-04-20T23:55:02.590172+07:00"
+    },
+    {
+      "id": "fb0442b9a07c4fa976846c0fa85ecfb0",
+      "title": "Phát hiện kho hàng khổng lồ nghi thuốc nổ sau chuyến xe mô tô bất thường",
+      "link": "https://thanhnien.vn/phat-hien-kho-hang-khong-lo-nghi-thuoc-no-sau-chuyen-xe-mo-to-day-bat-thuong-185260420221037634.htm",
+      "summary": "Lực lượng biên phòng tỉnh Quảng Ngãi phối hợp với các đơn vị bắt quả tang người đàn ông vận chuyển gần 400 kg nghi thuốc nổ, đồng thời làm rõ dấu hiệu sử dụng để khai thác thủy sản trái phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T15:21:00+07:00",
+      "fetched": "2026-04-20T23:55:02.590304+07:00"
+    },
+    {
+      "id": "2d256464aedf802bd2ab15737c2d4041",
+      "title": "Nam sinh mất tích trên núi Tam Đảo, hơn 100 người đang tìm kiếm",
+      "link": "https://vnexpress.net/nam-sinh-mat-tich-tren-nui-tam-dao-hon-100-nguoi-dang-tim-kiem-5064860.html",
+      "summary": "UBND xã Đạo Trù huy động hơn 100 người và flycam gắn camera nhiệt, khẩn trương tìm kiếm một nam sinh mất tích khi leo núi tại khu vực rừng núi Tam Đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T15:07:37+07:00",
+      "fetched": "2026-04-20T23:54:59.796389+07:00"
+    },
+    {
       "id": "44bca16bb924a62c695310acd230ff95",
       "title": "Kỳ lạ phố giữa rừng Amazon và những 'người tị nạn khí hậu'",
       "link": "https://tuoitre.vn/ky-la-pho-giua-rung-amazon-va-nhung-nguoi-ti-nan-khi-hau-20260420095912513.htm",
@@ -813,6 +983,16 @@ window.newsData_2026_04_20 = {
       "fetched": "2026-04-20T22:09:45.230097+07:00"
     },
     {
+      "id": "c6e39b995b596a707377cfaa81f959c7",
+      "title": "Quảng Trị phát hiện hang động dạng hố sụt có thác nước dài gần 600 m",
+      "link": "https://vnexpress.net/quang-tri-phat-hien-hang-dong-dang-ho-sut-co-thac-nuoc-dai-gan-600-m-5064855.html",
+      "summary": "Đoàn thám hiểm hang động Anh - Việt vừa phát hiện một hang động dạng hố sụt dài khoảng 583 m, bên trong có thác nước, trong Vườn Quốc gia Phong Nha - Kẻ Bàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T14:29:57+07:00",
+      "fetched": "2026-04-20T23:54:59.796749+07:00"
+    },
+    {
       "id": "7fee76b0b7dd9e02c27d8f45e7e7863d",
       "title": "Tuyến đường sắt đô thị Đà Nẵng gần 266.000 tỉ đồng sẽ khởi công đầu năm 2027",
       "link": "https://thanhnien.vn/tuyen-duong-sat-do-thi-da-nang-gan-266000-ti-dong-se-khoi-cong-dau-nam-2027-185260420200135035.htm",
@@ -871,6 +1051,26 @@ window.newsData_2026_04_20 = {
       "category": "Kinh doanh",
       "published": "2026-04-20T13:47:06+07:00",
       "fetched": "2026-04-20T22:09:52.036459+07:00"
+    },
+    {
+      "id": "0a07b90705e8b296b05d69f1911459fe",
+      "title": "Thanh niên ở TP HCM trúng Jackpot gần 80 tỷ đồng",
+      "link": "https://vnexpress.net/thanh-nien-o-tp-hcm-trung-jackpot-gan-80-ty-dong-5064845.html",
+      "summary": "Một thanh niên làm văn phòng tại TP HCM vừa trúng Jackpot trị giá gần 80 tỷ đồng, nhận về khoảng 71 tỷ sau khi trừ thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:47:06+07:00",
+      "fetched": "2026-04-20T23:54:59.797024+07:00"
+    },
+    {
+      "id": "0a07b90705e8b296b05d69f1911459fe",
+      "title": "Thanh niên ở TP HCM trúng Jackpot gần 80 tỷ đồng",
+      "link": "https://vnexpress.net/thanh-nien-o-tp-hcm-trung-jackpot-gan-80-ty-dong-5064845.html",
+      "summary": "Một thanh niên làm văn phòng tại TP HCM vừa trúng Jackpot trị giá gần 80 tỷ đồng, nhận về khoảng 71 tỷ sau khi trừ thuế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-20T13:47:06+07:00",
+      "fetched": "2026-04-20T23:55:06.421230+07:00"
     },
     {
       "id": "a7f79b8a73ca655f96c8d7ceba4a5104",
