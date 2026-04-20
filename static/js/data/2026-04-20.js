@@ -1,7 +1,157 @@
 window.newsData_2026_04_20 = {
   "date": "2026-04-20",
-  "lastUpdated": "2026-04-20T16:49:26.758971+07:00",
+  "lastUpdated": "2026-04-20T18:12:18.527365+07:00",
   "articles": [
+    {
+      "id": "91e625186cea92ab3d653fa63a20572a",
+      "title": "Công an Đồng Tháp, Tây Ninh phối hợp bắt nhanh nghi phạm trộm",
+      "link": "https://tuoitre.vn/cong-an-dong-thap-tay-ninh-phoi-hop-bat-nhanh-nghi-pham-trom-20260420155258033.htm",
+      "summary": "Cò từng có 2 tiền án về tội trộm cắp tài sản và từng có biểu hiện sử dụng trái phép chất ma túy. Mới đây nhất, Cò ra tay trộm cắp tài sản tại địa bàn tỉnh Tây Ninh và bị Công an tỉnh Đồng Tháp bắt giữ khi đang bỏ trốn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.039428+07:00",
+      "fetched": "2026-04-20T18:12:09.039528+07:00"
+    },
+    {
+      "id": "82ee84eec12e8b6b460307b4de51e5f6",
+      "title": "Xác minh thông tin phụ huynh 'tố' thầy giáo dạy toán véo tai, đánh 17 học sinh lớp 7",
+      "link": "https://tuoitre.vn/xac-minh-thong-tin-phu-huynh-to-thay-giao-day-toan-veo-tai-danh-17-hoc-sinh-lop-7-20260420155333664.htm",
+      "summary": "Vụ việc phụ huynh 'tố' thầy giáo dạy toán véo tai, đánh 17 học sinh lớp 7 tại Trường THCS Trương Văn Chỉ ở Vĩnh Long đang được địa phương xác minh làm rõ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.039329+07:00",
+      "fetched": "2026-04-20T18:12:09.039419+07:00"
+    },
+    {
+      "id": "12fcfbf6dd0c71dd9860a7f3b6be81df",
+      "title": "Dân hết kêu trạm thu phí, lại kêu chuyện thi công gây ùn tắc trên quốc lộ 51",
+      "link": "https://tuoitre.vn/dan-het-keu-tram-thu-phi-lai-keu-chuyen-thi-cong-gay-un-tac-tren-quoc-lo-51-20260420155300077.htm",
+      "summary": "Sau khi cơ quan chức năng quyết tâm tháo dỡ trạm thu phí bỏ hoang, giới tài xế đang qua quốc lộ 51 lại than vãn chuyện thi công quốc lộ 51 gây ra cảnh ùn tắc giao thông liên tục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.039220+07:00",
+      "fetched": "2026-04-20T18:12:09.039320+07:00"
+    },
+    {
+      "id": "fd20c540eaf0f2341ce14a5e8144d2cf",
+      "title": "Cán bộ công an tử vong sau khi ô tô va vào rào chắn trên cao tốc Nội Bài - Lào Cai",
+      "link": "https://tuoitre.vn/can-bo-cong-an-tu-vong-sau-khi-o-to-va-vao-rao-chan-tren-cao-toc-noi-bai-lao-cai-20260420160229081.htm",
+      "summary": "Một cán bộ công an tử vong, sau khi ô tô va vào rào chắn trên đường cao tốc Nội Bài - Lào Cai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.039126+07:00",
+      "fetched": "2026-04-20T18:12:09.039212+07:00"
+    },
+    {
+      "id": "cba0427761931d1cf885b910ad055f15",
+      "title": "VN-Index bứt tốc gần 20 điểm, cổ phiếu họ Vingroup kéo chỉ số",
+      "link": "https://tuoitre.vn/vn-index-but-toc-gan-20-diem-co-phieu-ho-vingroup-keo-chi-so-20260420153345329.htm",
+      "summary": "VHM và VIC bứt phá trở thành động lực chính giúp VN-Index tăng mạnh, dù thị trường vẫn phân hóa, thanh khoản hạ nhiệt và khối ngoại quay đầu bán ròng hơn 600 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.039029+07:00",
+      "fetched": "2026-04-20T18:12:09.039117+07:00"
+    },
+    {
+      "id": "79ea26730f41b75a714d387a3caaf87a",
+      "title": "'Chăm cây hơn chăm con', nông dân vẫn lo mất mùa vải thiều",
+      "link": "https://tuoitre.vn/cham-cay-hon-cham-con-nong-dan-van-lo-mat-mua-vai-thieu-20260420155944436.htm",
+      "summary": "Sắp đến chính vụ, nhiều người nông dân ở thủ phủ vải thiều phía Bắc như \"ngồi trên đống lửa\", lo lắng mất mùa vì tỉ lệ ra hoa thấp hơn mọi năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.038932+07:00",
+      "fetched": "2026-04-20T18:12:09.039021+07:00"
+    },
+    {
+      "id": "d7de748235edc20b48b594a276964c6c",
+      "title": "Sạt mỏ đá trong đêm, vùi lấp nhiều máy móc",
+      "link": "https://tuoitre.vn/sat-mo-da-trong-dem-vui-lap-nhieu-may-moc-20260420154405918.htm",
+      "summary": "Hàng trăm mét khối đất đá trượt từ đỉnh núi xuống trong đêm, vùi lấp nhiều thiết bị máy móc. Mỏ đá này đã tạm dừng khai thác, doanh nghiệp đang lắp đặt thiết bị chuẩn bị khai thác trở lại thì xảy ra sạt lở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.038832+07:00",
+      "fetched": "2026-04-20T18:12:09.038923+07:00"
+    },
+    {
+      "id": "f8ecc8b53daacd70b268f1e983eabf66",
+      "title": "Iran học được gì từ chiến sự Nga - Ukraine?",
+      "link": "https://tuoitre.vn/iran-hoc-duoc-gi-tu-chien-su-nga-ukraine-20260420161139203.htm",
+      "summary": "Iran được cho là đã theo dõi sát sao diễn biến tại Ukraine để rút ra những bài học khi xung đột với Mỹ và Israel kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.038731+07:00",
+      "fetched": "2026-04-20T18:12:09.038824+07:00"
+    },
+    {
+      "id": "dbfafdd205767799eabfb75de411c921",
+      "title": "Xe lao xuống kênh ở Thái Lan, người cha hy sinh cứu 4 người thân",
+      "link": "https://tuoitre.vn/xe-lao-xuong-kenh-o-thai-lan-nguoi-cha-hy-sinh-cuu-4-nguoi-than-20260420161507427.htm",
+      "summary": "Xe bán tải lao xuống kênh ở Thái Lan sau khi tránh xe khác, người cha đã kịp cứu 4 người thân trước khi tử vong thương tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.038630+07:00",
+      "fetched": "2026-04-20T18:12:09.038722+07:00"
+    },
+    {
+      "id": "7a1cf78df21e740c1dd82da8211c6b37",
+      "title": "Những bẫy tâm lý thường gặp khi nhà đầu tư đặt lệnh chứng khoán",
+      "link": "https://tuoitre.vn/nhung-bay-tam-ly-thuong-gap-khi-nha-dau-tu-dat-lenh-chung-khoan-20260420160923184.htm",
+      "summary": "Đầu tư chứng khoán không chỉ thử thách kiến thức của nhà đầu tư, mà còn là lúc bộc lộ những lỗi tâm lý thường gặp của con người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.038506+07:00",
+      "fetched": "2026-04-20T18:12:09.038620+07:00"
+    },
+    {
+      "id": "a8bdda27342abd92d36abf6fe240c965",
+      "title": "Cô gái Trung Quốc về quê nuôi hơn 60.000 con rắn độc, thu nhập hơn 3,8 tỉ đồng mỗi năm",
+      "link": "https://tuoitre.vn/co-gai-trung-quoc-ve-que-nuoi-60-000-con-ran-doc-thu-nhap-hon-3-8-ti-dong-moi-nam-20260420163108035.htm",
+      "summary": "Cô gái trẻ ở Trung Quốc gây chú ý khi về quê nuôi hơn 60.000 con rắn độc, chia sẻ về nỗi đau khi bị rắn cắn. Thu nhập hàng tỉ đồng mỗi năm nhưng cô luôn đối mặt với rủi ro chết người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.038397+07:00",
+      "fetched": "2026-04-20T18:12:09.038496+07:00"
+    },
+    {
+      "id": "09d1d15537640d8158ace37890f39a55",
+      "title": "Diện mạo 33 khu 'đất vàng' được TP.HCM chọn để thanh toán cho các dự án BT",
+      "link": "https://tuoitre.vn/dien-mao-33-khu-dat-vang-duoc-tp-hcm-chon-de-thanh-toan-cho-cac-du-an-bt-20260420115540546.htm",
+      "summary": "Danh mục 33 khu \"đất vàng\" mà HĐND TP.HCM thông qua, dự kiến để thanh toán cho các dự án BT đa phần nằm ở vị trí trung tâm thành phố (thuộc quận 1, quận 3 cũ) và khu đô thị mới Thủ Thiêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.038293+07:00",
+      "fetched": "2026-04-20T18:12:09.038388+07:00"
+    },
+    {
+      "id": "466e280ff9572e68c11326be79e372b3",
+      "title": "Đại biểu Quốc hội: Cần mức chi hoa hồng công bằng, minh bạch cho người bán vé số dạo",
+      "link": "https://tuoitre.vn/dai-bieu-quoc-hoi-can-muc-chi-hoa-hong-cong-bang-minh-bach-cho-nguoi-ban-ve-so-dao-20260420161749199.htm",
+      "summary": "Đại biểu Quốc hội đề nghị quy định trách nhiệm của doanh nghiệp kinh doanh xổ số trong việc bảo đảm điều kiện lao động, mức hoa hồng công bằng và minh bạch cho người bán vé số dạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.038185+07:00",
+      "fetched": "2026-04-20T18:12:09.038285+07:00"
+    },
+    {
+      "id": "954888b7303ce947b632804243ad5791",
+      "title": "Khởi tố người phụ nữ cố tình bán hàng rong, gây rối trong sân bay Nội Bài",
+      "link": "https://tuoitre.vn/khoi-to-nguoi-phu-nu-co-tinh-ban-hang-rong-gay-roi-trong-san-bay-noi-bai-20260420163959218.htm",
+      "summary": "Bà N.T.T. bị công an khởi tố với cáo buộc có hành vi bán hàng rong trái phép tại khu vực Cảng hàng không quốc tế Nội Bài, khi bị kiểm tra, xử lý còn la hét, đập phá, vứt đồ ra lòng đường, gây cản trở giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.038061+07:00",
+      "fetched": "2026-04-20T18:12:09.038175+07:00"
+    },
+    {
+      "id": "2d25c273c85fb339ed22d404e4e7c6c3",
+      "title": "Bộ Công an hướng dẫn người dân cam kết về thu nhập để mua nhà ở xã hội",
+      "link": "https://tuoitre.vn/bo-cong-an-huong-dan-nguoi-dan-cam-ket-ve-thu-nhap-de-mua-nha-o-xa-hoi-20260420164823427.htm",
+      "summary": "Cục Cảnh sát quản lý hành chính về trật tự xã hội (C06, Bộ Công an) có công văn gửi công an các tỉnh, thành phố hướng dẫn về việc xác nhận điều kiện thu nhập để mua nhà ở xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:12:09.037829+07:00",
+      "fetched": "2026-04-20T18:12:09.038047+07:00"
+    },
     {
       "id": "99f061de5f2b0e01d19c70063a0bcace",
       "title": "Dời đại học ra phía nam Đà Nẵng: ‘Đại học không phải khối nhà có thể di dời’",
@@ -453,6 +603,296 @@ window.newsData_2026_04_20 = {
       "fetched": "2026-04-20T11:51:00.610533+07:00"
     },
     {
+      "id": "2de46f8dfa5c9cfc9e0e795de1ecc2eb",
+      "title": "Phó thủ tướng yêu cầu bố trí trạm dừng nghỉ tạm trên cao tốc dịp lễ tới",
+      "link": "https://thanhnien.vn/pho-thu-tuong-yeu-cau-bo-tri-tram-dung-nghi-tam-tren-cao-toc-dip-le-toi-185260420180640627.htm",
+      "summary": "Bố trí các điểm dừng nghỉ tạm thời trên các tuyến cao tốc phân kỳ đầu tư là 1 trong những yêu cầu của Phó thủ tướng Thường trực Chính phủ Phạm Gia Túc nêu trong Công điện số 30 về tăng cường công tác vận tải, bảo đảm trật tự, an toàn giao thông trong kỳ nghỉ lễ Giỗ Tổ Hùng Vương và dịp 30.4 - 1.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T11:10:00+07:00",
+      "fetched": "2026-04-20T18:12:07.777195+07:00"
+    },
+    {
+      "id": "e08d6a060b25fa90eda8e96cdd46523c",
+      "title": "THACO đề xuất đầu tư trồng hàng nghìn ha sâm Ngọc Linh ở vùng cao Đà Nẵng",
+      "link": "https://thanhnien.vn/thaco-de-xuat-dau-tu-trong-hang-nghin-ha-sam-ngoc-linh-o-vung-cao-da-nang-185260420173817923.htm",
+      "summary": "UBND thành phố Đà Nẵng làm việc với Tập đoàn THACO, mở ra định hướng phát triển quy mô lớn sâm Ngọc Linh và dược liệu theo mô hình nông nghiệp công nghệ cao, gắn với chuỗi giá trị bền vững và thị trường quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T11:10:00+07:00",
+      "fetched": "2026-04-20T18:12:07.777342+07:00"
+    },
+    {
+      "id": "d19624bd2315a50bcdea82f70ec567a4",
+      "title": "Chi phí sửa chữa đường bộ đội lên gần 1.000 tỉ, nhiều nhà thầu dừng thi công",
+      "link": "https://thanhnien.vn/chi-phi-sua-chua-duong-bo-doi-len-gan-1000-ti-nhieu-nha-thau-dung-thi-cong-185260420175035811.htm",
+      "summary": "Do các dự án bảo trì đường bộ chủ yếu là sửa chữa thảm bê tông nhựa mặt đường, nên chịu tác động trực tiếp và mạnh mẽ từ biến động giá xăng dầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T11:09:00+07:00",
+      "fetched": "2026-04-20T18:12:07.777471+07:00"
+    },
+    {
+      "id": "9782b5abdfcaf7b715d58230c29339e9",
+      "title": "Kiến nghị cho nhập 50 tấn vàng nguyên liệu",
+      "link": "https://thanhnien.vn/kien-nghi-cho-nhap-50-tan-vang-nguyen-lieu-huy-dong-vang-trong-dan-185260420175923038.htm",
+      "summary": "Hiệp hội kinh doanh vàng Việt Nam ( Hiệp hội) vừa mới có công văn gửi Thủ tướng Chính phủ Lê Minh Hưng kiến nghị cụ thể hóa chính sách quản lý đối với hoạt động kinh doanh vàng trang sức mỹ nghệ, trong đó cho phép doanh nghiệp (DN) được nhập khẩu vàng nguyên liệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T11:07:00+07:00",
+      "fetched": "2026-04-20T18:12:07.777613+07:00"
+    },
+    {
+      "id": "cd8402a5d7316ce1cf3c6f06e702a8b1",
+      "title": "Những trường hợp nhà chưa có sổ hồng vẫn được mua bán",
+      "link": "https://thanhnien.vn/nhung-truong-hop-nha-chua-co-so-hong-van-duoc-mua-ban-185260420171513706.htm",
+      "summary": "Nghị định 95 của Chính phủ hướng dẫn luật Nhà ở 2024 quy định một số trường hợp chưa có giấy chứng nhận (sổ hồng) vẫn có thể mua bán, giao dịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T11:03:00+07:00",
+      "fetched": "2026-04-20T18:12:07.777737+07:00"
+    },
+    {
+      "id": "e76cce8d59ca7e8dfe60781829372db2",
+      "title": "Chỉ một sợi dây chuyền mảnh giúp nàng nâng tầm trang phục",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chi-mot-soi-day-chuyen-manh-giup-nang-nang-tam-trang-phuc-185260419145941326.htm",
+      "summary": "Một sợi dây chuyền bạc mảnh, tưởng như nhỏ bé lại có khả năng định hình trang phục, tạo điểm nhấn tinh tế cho vùng cổ và góp phần hoàn thiện thần thái người mặc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T11:00:00+07:00",
+      "fetched": "2026-04-20T18:12:07.777864+07:00"
+    },
+    {
+      "id": "af6c53a8c740bd6d752a3de503a37f67",
+      "title": "Nguy cơ xe điện nước ngoài giá rẻ tràn vào do kéo dài ưu đãi thuế",
+      "link": "https://thanhnien.vn/nguy-co-xe-dien-nuoc-ngoai-gia-re-tran-vao-do-keo-dai-uu-dai-thue-185260420170058352.htm",
+      "summary": "Chủ nhiệm Ủy ban Pháp luật và Tư pháp Quốc hội đề nghị cân nhắc chính sách thuế ưu đãi với xe điện, tránh nguy cơ xe điện nước ngoài giá rẻ tràn vào Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:49:00+07:00",
+      "fetched": "2026-04-20T18:12:07.777986+07:00"
+    },
+    {
+      "id": "f627c60c3eaa2dedbc811915fa4c2eb0",
+      "title": "Động đất mạnh gây cảnh báo sóng thần ở Nhật Bản",
+      "link": "https://thanhnien.vn/dong-dat-manh-gay-canh-bao-song-than-o-nhat-ban-185260420172649525.htm",
+      "summary": "Cảnh báo sóng thần, với nguy cơ sóng cao tới 3 mét, đã được ban hành vào tối 20.4 đối với các tỉnh Iwate, Aomori và Hokkaido ở miền bắc Nhật Bản sau trận động đất xảy ra ngoài khơi đảo Iwate.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:47:00+07:00",
+      "fetched": "2026-04-20T18:12:07.778109+07:00"
+    },
+    {
+      "id": "0d7ed9ead19d1c1ddd0785c357b68995",
+      "title": "Vụ ngộ độc sau khi ăn bánh mì ở Nghệ An: Thêm nhiều người nhập viện",
+      "link": "https://thanhnien.vn/vu-ngo-doc-sau-khi-an-banh-mi-o-nghe-an-them-nhieu-nguoi-nhap-vien-185260420171425029.htm",
+      "summary": "57 người đã phải nhập viện sau khi ăn bánh mì tại một tiệm bánh mì ở xã Diễn Châu, Nghệ An với các triệu chứng ngộ độc thực phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:47:00+07:00",
+      "fetched": "2026-04-20T18:12:07.778228+07:00"
+    },
+    {
+      "id": "029e8870d594a0bfb835f0af2a8a06f8",
+      "title": "Thái Lan có nguy cơ 'chạm ngưỡng nhiệt như Sahara' vào năm 2070",
+      "link": "https://vnexpress.net/thai-lan-co-nguy-co-cham-nguong-nhiet-nhu-sahara-vao-nam-2070-5064706.html",
+      "summary": "Thái Lan có thể có nhiệt độ trung bình năm tương đương sa mạc Sahara vào năm 2070 do biến đổi khí hậu, theo các nghiên cứu mới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-20T10:46:32+07:00",
+      "fetched": "2026-04-20T18:12:11.213450+07:00"
+    },
+    {
+      "id": "f19f8ff0b615535c1945fc70ce8e9706",
+      "title": "TP.HCM sụt lún không đều, có nơi 5 cm/năm: Khu vực nào 'đang chìm' nhanh nhất?",
+      "link": "https://thanhnien.vn/tphcm-sut-lun-khong-deu-co-noi-5-cm-nam-khu-vuc-nao-dang-chim-nhanh-nhat-185260420170622218.htm",
+      "summary": "Nghiên cứu mới cho thấy TP.HCM sụt lún không đồng đều, có nơi tới 5 cm/năm. Các khu vực như quận 7, Bình Tân, huyện Nhà Bè, Bình Chánh (cũ)…, được xác định là 'điểm đỏ' sụt lún.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:41:00+07:00",
+      "fetched": "2026-04-20T18:12:07.778348+07:00"
+    },
+    {
+      "id": "996e898214c493346e0e8ffc9777dca3",
+      "title": "Ủy ban Kinh tế Tài chính: Ngưỡng chịu thuế với hộ kinh doanh nên từ 2 tỉ đồng",
+      "link": "https://thanhnien.vn/uy-ban-kinh-te-tai-chinh-nguong-chiu-thue-voi-ho-kinh-doanh-nen-tu-2-ti-dong-185260420162727922.htm",
+      "summary": "Theo ông Phan Văn Mãi, Chủ nhiệm Ủy ban Kinh tế và Tài chính Quốc hội, ngưỡng chịu thuế với hộ kinh doanh nên ở mức tối thiểu khoảng 2 tỉ đồng để bảo đảm tính nhân văn và phù hợp với thực tiễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:39:00+07:00",
+      "fetched": "2026-04-20T18:12:07.778463+07:00"
+    },
+    {
+      "id": "29918181a6797aeebf6328758529dc87",
+      "title": "Vợ chồng Bảo Thanh sánh đôi, thu hút chú ý tại sự kiện thời trang",
+      "link": "https://thanhnien.vn/vo-chong-bao-thanh-sanh-doi-thu-hut-chu-y-tai-su-kien-thoi-trang-18526042016083894.htm",
+      "summary": "Show thời trang và triển lãm 'Thinh lặng'26' đánh dấu 25 năm làm nghề của NTK Xuân Lê vừa diễn ra với sự góp mặt của vợ chồng diễn viên Bảo Thanh. Sự kiện gồm hai phần chính: trình diễn bộ sưu tập Xuân/Hè 2026 và không gian trưng bày di sản, thu hút đông đảo nghệ sĩ tham dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:39:00+07:00",
+      "fetched": "2026-04-20T18:12:07.778605+07:00"
+    },
+    {
+      "id": "38a87b1dc4a56a00c5aee87b5f39bed5",
+      "title": "Thanh tra Chính phủ chuyển Bộ Công an điều tra dự án Usilk City",
+      "link": "https://thanhnien.vn/thanh-tra-chinh-phu-chuyen-bo-cong-an-dieu-tra-du-an-usilk-city-185260420170319641.htm",
+      "summary": "Thanh tra Chính phủ chuyển hồ sơ dự án Khu đô thị Văn Khê mở rộng (Usilk City) để Bộ Công an xem xét điều tra, xử lý theo quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:38:00+07:00",
+      "fetched": "2026-04-20T18:12:07.778731+07:00"
+    },
+    {
+      "id": "c23efe0b128d8f1bc8c3f76eea67e721",
+      "title": "Đại biểu Quốc hội: Cần luật về phát triển kinh tế tư nhân",
+      "link": "https://vnexpress.net/dai-bieu-quoc-hoi-can-luat-ve-phat-trien-kinh-te-tu-nhan-5064770.html",
+      "summary": "Đại biểu Phạm Trọng Nhân đề xuất nhanh chóng có luật riêng về đảm bảo quyền phát triển kinh tế tư nhân, để khu vực này đóng góp 70% GDP vào 2030.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-20T10:35:59+07:00",
+      "fetched": "2026-04-20T18:12:13.303599+07:00"
+    },
+    {
+      "id": "ead55d0c6c5f24fec4cec16221ee72c3",
+      "title": "NSND Trịnh Kim Chi chia sẻ tin vui",
+      "link": "https://thanhnien.vn/nsnd-trinh-kim-chi-chia-se-tin-vui-185260420171716848.htm",
+      "summary": "NSND Trịnh Kim Chi tự hào khi con gái tốt nghiệp đại học. Trên trang cá nhân, sao phim 'Những nẻo đường phù sa' cũng có những chia sẻ đầy xúc động dành cho con nhân cột mốc đặc biệt này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:35:00+07:00",
+      "fetched": "2026-04-20T18:12:07.778847+07:00"
+    },
+    {
+      "id": "803e4c975ae7b57aa80265c2c8b4b69d",
+      "title": "Công an TP.HCM tạm giữ nhóm thanh niên gây rối trước Khu công nghiệp Sóng Thần",
+      "link": "https://thanhnien.vn/cong-an-tphcm-tam-giu-nhom-thanh-nien-gay-roi-truoc-khu-cong-nghiep-song-than-18526042017101209.htm",
+      "summary": "Công an TP.HCM tạm giữ nhóm thanh niên gây rối, mang hung khí rượt đuổi, đánh nhau trước cổng một công ty thực phẩm ở Khu công nghiệp Sóng Thần 2, phường Dĩ An, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:25:00+07:00",
+      "fetched": "2026-04-20T18:12:07.778970+07:00"
+    },
+    {
+      "id": "dee1c387a5a91cc2a24e41eb93aaafd1",
+      "title": "Hàng triệu học sinh tham gia tuần lễ đọc sách trên DLib K12",
+      "link": "https://vnexpress.net/hang-trieu-hoc-sinh-tham-gia-tuan-le-doc-sach-tren-dlib-k12-5064805.html",
+      "summary": "DLib K12 triển khai tuần lễ Đọc sách 2026 trực tuyến, thu hút 1.567 trường, triển khai sáu trạm tri thức số, góp phần thúc đẩy văn hóa đọc và trải nghiệm học tập số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:15:00+07:00",
+      "fetched": "2026-04-20T18:12:04.283782+07:00"
+    },
+    {
+      "id": "eb1cf8199d70dae58163315b15731fd2",
+      "title": "Iran chỉ trích Mỹ 'không nghiêm túc' trong nỗ lực ngoại giao",
+      "link": "https://vnexpress.net/iran-chi-trich-my-khong-nghiem-tuc-trong-no-luc-ngoai-giao-5064697.html",
+      "summary": "Tehran cáo buộc Mỹ vi phạm thỏa thuận ngừng bắn khi tấn công tàu hàng Iran và nói rằng họ chưa quyết định liệu có tiếp tục đàm phán với Washington hay không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:14:21+07:00",
+      "fetched": "2026-04-20T18:12:04.283939+07:00"
+    },
+    {
+      "id": "eb1cf8199d70dae58163315b15731fd2",
+      "title": "Iran chỉ trích Mỹ 'không nghiêm túc' trong nỗ lực ngoại giao",
+      "link": "https://vnexpress.net/iran-chi-trich-my-khong-nghiem-tuc-trong-no-luc-ngoai-giao-5064697.html",
+      "summary": "Tehran cáo buộc Mỹ vi phạm thỏa thuận ngừng bắn khi tấn công tàu hàng Iran và nói rằng họ chưa quyết định liệu có tiếp tục đàm phán với Washington hay không.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-20T10:14:21+07:00",
+      "fetched": "2026-04-20T18:12:11.213627+07:00"
+    },
+    {
+      "id": "b053de4e63d98c170cc9377e9b2fed6a",
+      "title": "Bánh flan và canh bắp cải khiến 266 học sinh tiểu học ngộ độc",
+      "link": "https://vnexpress.net/banh-flan-va-canh-bap-cai-khien-266-hoc-sinh-tieu-hoc-ngo-doc-5064780.html",
+      "summary": "Sở An toàn Thực phẩm TP HCM kết luận bánh flan và canh bắp cải là hai món trong bữa ăn bán trú trường tiểu học Bình Quới khả năng nhiễm chéo vi khuẩn khiến 266 học sinh ngộ độc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:01:58+07:00",
+      "fetched": "2026-04-20T18:12:04.284079+07:00"
+    },
+    {
+      "id": "6aef0685272801137c8564dad6dba92e",
+      "title": "Toyota Yaris Cross dẫn đầu doanh số, bản hybrid tăng hơn 7 lần",
+      "link": "https://vnexpress.net/toyota-yaris-cross-dan-dau-doanh-so-ban-hybrid-tang-hon-7-lan-5064759.html",
+      "summary": "Mẫu crossover cỡ B bán chạy nhất trong nhóm xe xăng, dầu tại Việt Nam tháng 3, riêng bản hybrid bàn giao 464 chiếc đến tay người dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:00:00+07:00",
+      "fetched": "2026-04-20T18:12:04.284212+07:00"
+    },
+    {
+      "id": "9a288ce00326a03fe34ad7e7ddc8bbf6",
+      "title": "Doanh thu thuần Mộc Châu Milk đạt 2.834 tỷ đồng",
+      "link": "https://vnexpress.net/doanh-thu-thuan-moc-chau-milk-dat-2-834-ty-dong-5064688.html",
+      "summary": "Mộc Châu Milk ghi nhận doanh thu thuần 2.834,9 tỷ đồng, lợi nhuận trước thuế 248,5 tỷ đồng nhờ kiểm soát tốt chi phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:00:00+07:00",
+      "fetched": "2026-04-20T18:12:04.284346+07:00"
+    },
+    {
+      "id": "f71cf960e5963bb58133339404e41014",
+      "title": "Cần Giờ xanh mướt trong video giới thiệu VnExpress Marathon",
+      "link": "https://vnexpress.net/can-gio-xanh-muot-trong-video-vnexpress-marathon-5064678.html",
+      "summary": "VnExpress Marathon Green Paradise Cần Giờ tung video giới thiệu, với điểm nhấn là \"thảm xanh bất tận\" bao trùm cung đường giải đấu ngày 1/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:00:00+07:00",
+      "fetched": "2026-04-20T18:12:04.284474+07:00"
+    },
+    {
+      "id": "e687fa99529709e12aabab05123be76a",
+      "title": "Điều trị bọng mắt cho người đàn ông",
+      "link": "https://vnexpress.net/dieu-tri-bong-mat-cho-nguoi-dan-ong-5064646.html",
+      "summary": "Bọng mắt lớn, lộ rõ hai năm nay khiến gương mặt anh Tú trông mệt mỏi, được bác sĩ điều trị bằng công nghệ vi kim RF.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:00:00+07:00",
+      "fetched": "2026-04-20T18:12:04.284632+07:00"
+    },
+    {
+      "id": "16b73cef435a639e232b8457bb85eead",
+      "title": "Đau bụng dưới xương sườn phải là bệnh gì?",
+      "link": "https://vnexpress.net/dau-bung-duoi-xuong-suon-phai-la-benh-gi-5064540.html",
+      "summary": "Đau tức vùng dưới xương sườn phải có thể xuất phát từ các cơ quan tiêu hóa và lân cận như gan, túi mật, tuyến tụy, thận phải và ruột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:00:00+07:00",
+      "fetched": "2026-04-20T18:12:04.284771+07:00"
+    },
+    {
+      "id": "f735cf52dc44c02e1e0358861a037dfe",
+      "title": "Runner quốc tế mê bánh nậm, chè heo quay Huế",
+      "link": "https://vnexpress.net/runner-quoc-te-me-che-heo-quay-hue-5064222.html",
+      "summary": "Từ Đà Nẵng đến Huế tham gia VnExpress Marathon, Arvin và Xander mê mẩn các đặc sản cố đô nhưng đợi hoàn thành cuộc đua mới dám thưởng thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T10:00:00+07:00",
+      "fetched": "2026-04-20T18:12:04.284904+07:00"
+    },
+    {
+      "id": "d98b604d3136ed25ed23282bcc043b41",
+      "title": "Điểm tin 17h: Bí thư Vũ Hồng Văn: Đồng Nai sẽ gánh vác vai trò cực tăng trưởng quốc gia | Ủy ban Kinh tế Tài chính: Ngưỡng chịu thuế với hộ kinh doanh nên từ 2 tỷ đồng",
+      "link": "https://vnexpress.net/diem-tin-17h-bi-thu-vu-hong-van-dong-nai-se-ganh-vac-vai-tro-cuc-tang-truong-quoc-gia-uy-ban-kinh-te-tai-chinh-nguong-chiu-thue-voi-ho-kinh-doanh-nen-tu-2-ty-dong-5064800.html",
+      "summary": "Trình Quốc hội quyết định ngày nghỉ lễ 24/11; 10 nhóm ngành 'hot' nhất năm 2025;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T09:56:29+07:00",
+      "fetched": "2026-04-20T18:12:04.285033+07:00"
+    },
+    {
+      "id": "884a3ab0c062b2e3d7224cadbba9012e",
+      "title": "Bí ẩn ở 'ngôi làng ngủ gật'",
+      "link": "https://vnexpress.net/bi-an-o-ngoi-lang-ngu-gat-5064584.html",
+      "summary": "Một hiện tượng bí ẩn đã khiến hơn 140 người tại làng Kalachi và Krasnogorsk từ tháng 3/2013 rơi vào giấc ngủ kéo dài nhiều ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T09:54:39+07:00",
+      "fetched": "2026-04-20T18:12:04.285158+07:00"
+    },
+    {
       "id": "cabffc37a69a0a06696141c66163232f",
       "title": "Bác tài Grab hết lo sạc xe điện",
       "link": "https://thanhnien.vn/bac-tai-grab-het-lo-sac-xe-dien-185260420162654467.htm",
@@ -461,6 +901,66 @@ window.newsData_2026_04_20 = {
       "category": "Tổng hợp",
       "published": "2026-04-20T09:46:00+07:00",
       "fetched": "2026-04-20T16:49:17.285062+07:00"
+    },
+    {
+      "id": "da5be698b11b1c610e0ac05c90de3e3c",
+      "title": "Sân bay Long Thành bắt đầu tuyển lao động",
+      "link": "https://vnexpress.net/san-bay-long-thanh-bat-dau-tuyen-lao-dong-5064760.html",
+      "summary": "Tổng công ty Cảng hàng không Việt Nam (ACV) vừa thông báo tuyển dụng lao động đợt đầu tiên làm việc tại sân bay Long Thành, dự kiến hoạt động cuối năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T09:42:44+07:00",
+      "fetched": "2026-04-20T18:12:04.285281+07:00"
+    },
+    {
+      "id": "6ba4d94984766bd161afb2e710d64a48",
+      "title": "Xe đua bay vào khán giả, đám đông thương vong",
+      "link": "https://vnexpress.net/xe-dua-bay-vao-khan-gia-dam-dong-thuong-vong-5064677.html",
+      "summary": "Một người thiệt mạng và hai người bị thương khi chiếc xe mất lái lao vào đám đông đứng ngay bên đường đua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T09:38:18+07:00",
+      "fetched": "2026-04-20T18:12:04.285401+07:00"
+    },
+    {
+      "id": "a4ac5966fbb2c2efba6c85dc3da827b2",
+      "title": "Vé xe chưa 'nóng' trước cao điểm 30/4-1/5",
+      "link": "https://vnexpress.net/ve-xe-chua-nong-truoc-cao-diem-30-4-1-5-5064710.html",
+      "summary": "Còn 5 ngày trước kỳ nghỉ lễ giỗ Tổ Hùng Vương và 30/4-1/5, thị trường vận tải hành khách ghi nhận diễn biến trầm lắng, trái với xu hướng sôi động những năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T09:38:06+07:00",
+      "fetched": "2026-04-20T18:12:04.285537+07:00"
+    },
+    {
+      "id": "4fee0776f67c1728246cbc942813557f",
+      "title": "Nhạc sĩ Nguyễn Hải Phong làm sếp tại công ty con Yeah1",
+      "link": "https://vnexpress.net/nhac-si-nguyen-hai-phong-lam-sep-tai-cong-ty-con-yeah1-5064730.html",
+      "summary": "Nhạc sĩ Nguyễn Hải Phong được giao ghế Giám đốc sáng tạo âm nhạc tại SYE Holdings - công ty liên doanh giữa Yeah1 và Sony Music.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T09:35:30+07:00",
+      "fetched": "2026-04-20T18:12:04.285670+07:00"
+    },
+    {
+      "id": "4fee0776f67c1728246cbc942813557f",
+      "title": "Nhạc sĩ Nguyễn Hải Phong làm sếp tại công ty con Yeah1",
+      "link": "https://vnexpress.net/nhac-si-nguyen-hai-phong-lam-sep-tai-cong-ty-con-yeah1-5064730.html",
+      "summary": "Nhạc sĩ Nguyễn Hải Phong được giao ghế Giám đốc sáng tạo âm nhạc tại SYE Holdings - công ty liên doanh giữa Yeah1 và Sony Music.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-20T09:35:30+07:00",
+      "fetched": "2026-04-20T18:12:13.303758+07:00"
+    },
+    {
+      "id": "9ca72af00ea37d639db167f1f6631de0",
+      "title": "'Chậm một nhịp công nghệ, Việt Nam có thể lỡ cơ hội tăng trưởng'",
+      "link": "https://vnexpress.net/cham-mot-nhip-cong-nghe-viet-nam-co-the-lo-co-hoi-tang-truong-5064726.html",
+      "summary": "Đại biểu Quốc hội cảnh báo nếu không theo kịp nhịp đổi mới công nghệ và tháo gỡ các điểm nghẽn thể chế, vốn, Việt Nam có thể đánh mất lợi thế cạnh tranh và bỏ lỡ cơ hội tăng trưởng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-20T09:34:24+07:00",
+      "fetched": "2026-04-20T18:12:17.112475+07:00"
     },
     {
       "id": "afd2aa42f4afef1c2a6c8bce9659a4bf",
