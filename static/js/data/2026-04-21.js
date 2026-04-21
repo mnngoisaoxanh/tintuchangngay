@@ -1,7 +1,157 @@
 window.newsData_2026_04_21 = {
   "date": "2026-04-21",
-  "lastUpdated": "2026-04-21T16:17:19.526502+07:00",
+  "lastUpdated": "2026-04-21T17:58:56.190555+07:00",
   "articles": [
+    {
+      "id": "d2c508066babb477f1f411a8cd81ba50",
+      "title": "Biết tin NSND Lê Khanh đóng phim Một thời ta đã yêu, khán giả hỏi ‘mẹ có cản ai nữa không?’",
+      "link": "https://tuoitre.vn/biet-tin-nsnd-le-khanh-dong-phim-mot-thoi-ta-da-yeu-khan-gia-hoi-me-co-can-ai-nua-khong--20260421162849123.htm",
+      "summary": "Vào vai bà Hoa quá dữ, ngăn cấm tình yêu đôi trẻ trong phim Hẹn em ngày nhật thực, nghe tin NSND Lê Khanh đóng phim mới Một thời ta đã yêu, khán giả hỏi vui ‘mẹ có cản ai nữa không?’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.733148+07:00",
+      "fetched": "2026-04-21T17:58:50.733247+07:00"
+    },
+    {
+      "id": "17b6c793c4428eef48b3f9bca0ddcc90",
+      "title": "Cựu phó chủ tịch phường lãnh 7 năm tù vì tổ chức 'bay lắc' thâu đêm trong quán karaoke",
+      "link": "https://tuoitre.vn/cuu-pho-chu-tich-phuong-lanh-7-nam-tu-vi-to-chuc-bay-lac-thau-dem-trong-quan-karaoke-20260421155138628.htm",
+      "summary": "Chiều 21-4, hội đồng xét xử công bố bản án đối với 32 bị cáo vụ mua bán, sử dụng trái phép chất ma túy tại quán karaoke Hoàng Kim, trong đó có cựu Phó chủ tịch phường Phú Lãm bị cáo buộc tổ chức bay lắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.733042+07:00",
+      "fetched": "2026-04-21T17:58:50.733138+07:00"
+    },
+    {
+      "id": "2aaae764c002a53a7c3e8035f21bb95f",
+      "title": "Tổ chức Hàng hải quốc tế chuẩn bị kế hoạch sơ tán ở eo biển Hormuz",
+      "link": "https://tuoitre.vn/to-chuc-hang-hai-quoc-te-chuan-bi-ke-hoach-so-tan-o-eo-bien-hormuz-20260421164428481.htm",
+      "summary": "Tổ chức Hàng hải quốc tế (IMO) chuẩn bị kế hoạch sơ tán tàu mắc kẹt, trong bối cảnh tình hình căng thẳng ở eo biển Hormuz khi đàm phán Mỹ - Iran có nguy cơ đổ vỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.732927+07:00",
+      "fetched": "2026-04-21T17:58:50.733033+07:00"
+    },
+    {
+      "id": "b023366eb8fd6f09f2070a7c84f4f3cc",
+      "title": "Elon Musk tiết lộ thích anime Your Name, hồi đáp di nguyện của cô bé 15 tuổi",
+      "link": "https://tuoitre.vn/elon-musk-tiet-lo-thich-anime-your-name-hoi-dap-di-nguyen-cua-co-be-15-tuoi-20260421162529254.htm",
+      "summary": "Câu chuyện về cô bé Liv Perrotto - bệnh nhân ung thư 15 tuổi không kịp gặp Elon Musk trước khi qua đời - đang gây xúc động khi vị tỉ phú công nghệ trả lời đầy đủ 8 câu hỏi cuối cùng mà cô bé để lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.732814+07:00",
+      "fetched": "2026-04-21T17:58:50.732918+07:00"
+    },
+    {
+      "id": "fc393895fa2c8f6319dfe9e3c21a2af1",
+      "title": "Trung Quân Idol khóa mạng xã hội sau khi có thông tin tố cáo anh hành hung một bác sĩ",
+      "link": "https://tuoitre.vn/trung-quan-idol-khoa-mang-xa-hoi-sau-khi-co-thong-tin-to-cao-anh-hanh-hung-mot-bac-si-2026042116551335.htm",
+      "summary": "Ca sĩ Trung Quân Idol tiếp tục trở thành tâm điểm trên mạng xã hội, khi xuất hiện thông tin tố cáo từ một cá nhân tự nhận là chồng của người phụ nữ bị hành hung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.732708+07:00",
+      "fetched": "2026-04-21T17:58:50.732805+07:00"
+    },
+    {
+      "id": "f2fb5563e029b8bc38f082910228dfb8",
+      "title": "Chủ tịch PAN Group Nguyễn Duy Hưng: Tôi bàng quan với bất động sản",
+      "link": "https://tuoitre.vn/chu-tich-pan-group-nguyen-duy-hung-toi-bang-quan-voi-bat-dong-san-20260421163608765.htm",
+      "summary": "Ông Nguyễn Duy Hưng - Chủ tịch Tập đoàn PAN Group - cho biết PAN không có chủ trương phát triển bất động sản như một ngành kinh doanh chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.732603+07:00",
+      "fetched": "2026-04-21T17:58:50.732699+07:00"
+    },
+    {
+      "id": "6076d668b9dcc1205d1308ee6f6b81c6",
+      "title": "Chuyển đổi xanh: Doanh nghiệp kể chuyện xài điện mặt trời, điện sinh khối đến kinh tế tuần hoàn",
+      "link": "https://tuoitre.vn/chuyen-doi-xanh-doanh-nghiep-ke-chuyen-xai-dien-mat-troi-dien-sinh-khoi-den-kinh-te-tuan-hoan-20260421163741898.htm",
+      "summary": "Các doanh nghiệp kể chuyện chuyển dịch năng lượng xanh từ điện mặt trời, sinh khối đến kinh tế tuần hoàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.732497+07:00",
+      "fetched": "2026-04-21T17:58:50.732594+07:00"
+    },
+    {
+      "id": "a092e1596ba86daaf0c978052fe29528",
+      "title": "Chính thức trình Quốc hội luật bỏ ngưỡng doanh thu miễn thuế 500 triệu đồng/năm của hộ kinh doanh",
+      "link": "https://tuoitre.vn/chinh-thuc-trinh-quoc-hoi-luat-bo-nguong-doanh-thu-mien-thue-500-trieu-dong-nam-cua-ho-kinh-doanh-2026042116571533.htm",
+      "summary": "Dự thảo luật sửa đổi Chính phủ trình lần này theo hướng không quy định cụ thể ngưỡng doanh thu không phải nộp thuế thu nhập cá nhân, mức doanh thu không chịu thuế VAT của hộ, cá nhân kinh doanh như hiện hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.732390+07:00",
+      "fetched": "2026-04-21T17:58:50.732488+07:00"
+    },
+    {
+      "id": "094a672349bfe90c5d77b89a92447321",
+      "title": "Lộ trình chặng 18 cuộc đua xe đạp Cúp truyền hình TP.HCM 2026",
+      "link": "https://tuoitre.vn/lo-trinh-chang-18-cuoc-dua-xe-dap-cup-truyen-hinh-tp-hcm-2026-20260421163953421.htm",
+      "summary": "Ngày 22-4, cuộc đua xe đạp toàn quốc Cúp truyền hình TP.HCM HTV - Tôn Đông Á 2026 sẽ tiếp tục với chặng 18.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.732285+07:00",
+      "fetched": "2026-04-21T17:58:50.732381+07:00"
+    },
+    {
+      "id": "4663045c7b556372de418812b2ba1f67",
+      "title": "Rắn 'khủng' bò vào bệnh viện ở Đắk Lắk là hổ mang chúa cực độc, không phải rắn hổ trâu",
+      "link": "https://tuoitre.vn/ran-khung-bo-vao-benh-vien-o-dak-lak-la-ho-mang-chua-cuc-doc-khong-phai-ran-ho-trau-20260421165255498.htm",
+      "summary": "Lực lượng kiểm lâm xác định con rắn dài 3m được nhân viên bảo vệ và người dân vây bắt ở sân Bệnh viện Đại học Y dược Buôn Ma Thuột (Đắk Lắk) là rắn hổ mang chúa, loài có nọc độc cực mạnh, có thể gây chết người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.732178+07:00",
+      "fetched": "2026-04-21T17:58:50.732276+07:00"
+    },
+    {
+      "id": "25fccf61caccf8fa7cf3baa54f0446cd",
+      "title": "Bé gái lớp 2 bị bạn đánh bầm tím người trong giờ ra chơi",
+      "link": "https://tuoitre.vn/be-gai-lop-2-bi-ban-danh-bam-tim-nguoi-trong-gio-ra-choi-20260421170047724.htm",
+      "summary": "Hình ảnh bé gái lớp 2 bị bạn đánh bầm tìm người và tay khiến dư luận không khỏi xót xa. Phía nhà trường nhận trách nhiệm và xin lỗi phụ huynh về sự việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.732068+07:00",
+      "fetched": "2026-04-21T17:58:50.732168+07:00"
+    },
+    {
+      "id": "e087479778274739accb02534730c4c2",
+      "title": "Nhiều doanh nghiệp tiềm năng tiên phong dẫn dắt nền kinh tế Gia Lai",
+      "link": "https://tuoitre.vn/nhieu-doanh-nghiep-tiem-nang-tien-phong-dan-dat-nen-kinh-te-gia-lai-20260421170344412.htm",
+      "summary": "Tỉnh Gia Lai đang rà soát, lựa chọn các doanh nghiệp đầu ngành tham gia vào chương trình phát triển 1.000 doanh nghiệp tiên phong theo chủ trương của Thủ tướng, làm động lực dẫn dắt nền kinh tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.731946+07:00",
+      "fetched": "2026-04-21T17:58:50.732058+07:00"
+    },
+    {
+      "id": "82ea676edf27b24d7948b8e27046d6d9",
+      "title": "Ngoài mức hoa hồng công bằng, bạn đọc mong có bảo hiểm cho người bán vé số dạo",
+      "link": "https://tuoitre.vn/ngoai-muc-hoa-hong-cong-bang-ban-doc-mong-co-bao-hiem-cho-nguoi-ban-ve-so-dao-20260421161443904.htm",
+      "summary": "Nhiều bạn đọc cho rằng ý kiến của Đại biểu Quốc hội rất nhân văn, đồng thời đề xuất tăng hoa hồng, mua bảo hiểm cho người bán vé số dạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.731835+07:00",
+      "fetched": "2026-04-21T17:58:50.731937+07:00"
+    },
+    {
+      "id": "3909a7ac1526f715164ce1197c2a1710",
+      "title": "Đừng dồn rủi ro cho người bán vé số dạo",
+      "link": "https://tuoitre.vn/dung-don-rui-ro-cho-nguoi-ban-ve-so-dao-20260421095618603.htm",
+      "summary": "Quy định mua đứt, bán đoạn giúp hệ thống xổ số vận hành giảm chi phí hủy vé, nhưng lại đẩy phần rủi ro cho người yếu thế. Đã đến lúc cần một cách tiếp cận công bằng hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.731712+07:00",
+      "fetched": "2026-04-21T17:58:50.731825+07:00"
+    },
+    {
+      "id": "e170f8383893c1818c5b8a04c031eda7",
+      "title": "Vụ nổ súng giữa khu dân cư ở Đà Lạt: Bắt tạm giam một nhóm thanh niên",
+      "link": "https://tuoitre.vn/vu-no-sung-giua-khu-dan-cu-o-da-lat-bat-tam-giam-mot-nhom-thanh-nien-20260421165454811.htm",
+      "summary": "Công an tỉnh Lâm Đồng khởi tố, bắt tạm giam một số người liên quan vụ nổ súng, hỗn chiến trên đường Bùi Thị Xuân, Đà Lạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T17:58:50.731495+07:00",
+      "fetched": "2026-04-21T17:58:50.731699+07:00"
+    },
     {
       "id": "765cd62d264ca0424aa1734e5868af8e",
       "title": "Hữu Châu viết gì về Hồng Đào trong một cơn say?",
@@ -453,6 +603,336 @@ window.newsData_2026_04_21 = {
       "fetched": "2026-04-21T11:41:27.834943+07:00"
     },
     {
+      "id": "b28f4072bc486f321f013cf7c49c169a",
+      "title": "Đề xuất ngưỡng doanh thu chịu thuế hộ kinh doanh từ 1 - 3 tỉ đồng",
+      "link": "https://thanhnien.vn/de-xuat-nguong-doanh-thu-chiu-thue-ho-kinh-doanh-tu-1-3-ti-dong-185260421173929877.htm",
+      "summary": "Đề xuất nâng mức doanh thu chịu thuế để 'chính sách thuế bao phủ được đại đa số các đối tượng yếu thế', đại biểu Quốc hội Nguyễn Văn Thân cho rằng doanh thu chịu thuế hộ kinh doanh nên từ 1 - 3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:58:00+07:00",
+      "fetched": "2026-04-21T17:58:50.078135+07:00"
+    },
+    {
+      "id": "52d321dbc6032cd59b6bfed14c27752f",
+      "title": "Đồng Nai: Triệt phá đường dây ma túy, thu giữ 4 khẩu súng",
+      "link": "https://thanhnien.vn/dong-nai-triet-pha-duong-day-ma-tuy-thu-giu-4-khau-sung-185260421173938191.htm",
+      "summary": "Công an xã Phú Riềng phối hợp Công an tỉnh Đồng Nai vừa triệt phá đường dây ma túy, thu giữ súng và đạn cùng ma túy tổng hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:53:00+07:00",
+      "fetched": "2026-04-21T17:58:50.078285+07:00"
+    },
+    {
+      "id": "6087aecf5903b64602480813830a5510",
+      "title": "Khởi tố vụ mua bán trái phép hóa đơn gia công hơn 20.000 con heo cho Công ty C.P",
+      "link": "https://thanhnien.vn/khoi-to-vu-mua-ban-trai-phep-hoa-don-gia-cong-hon-20000-con-heo-cho-cong-ty-cp-185260421162629894.htm",
+      "summary": "Công an tỉnh Cà Mau đã khởi tố vụ án mua bán trái phép hóa đơn liên quan việc xuất hóa đơn gia công hơn 20.000 con heo cho Công ty C.P.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:45:00+07:00",
+      "fetched": "2026-04-21T17:58:50.078420+07:00"
+    },
+    {
+      "id": "dd09ecc18b0c3198ae775340079b75d2",
+      "title": "'Hot girl' billiards tranh tài ở Đại hội TDTT TP.HCM: Chạy đà cho World Cup",
+      "link": "https://thanhnien.vn/hot-girl-billiards-tranh-tai-o-dai-hoi-tdtt-tphcm-chay-da-cho-world-cup-185260421174330107.htm",
+      "summary": "Môn billiards & snooker tại Đại hội Thể dục thể thao (TDTT) TP.HCM lần I - năm 2026 chính thức khởi tranh từ ngày 21.4 tại CLB Nguyễn Du.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:44:00+07:00",
+      "fetched": "2026-04-21T17:58:50.078555+07:00"
+    },
+    {
+      "id": "99315dcaa048e8efc69dbe7ddd7d8d60",
+      "title": "Điện áp lực lớn sau 12 năm nắng nóng kỉ lục liên tiếp",
+      "link": "https://thanhnien.vn/dien-ap-luc-lon-sau-12-nam-nang-nong-ki-luc-lien-tiep-185260421095755831.htm",
+      "summary": "Sáng 21.4, tọa đàm \"Tiết kiệm điện và điện mặt trời áp mái: Giải pháp giảm áp lực cung ứng điện giai đoạn 2026 - 2030\" do Báo Công thương phối hợp với Tập đoàn Điện lực Việt Nam (EVN) và Tổng công ty Điện lực miền Nam (EVNSPC) tổ chức tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:40:00+07:00",
+      "fetched": "2026-04-21T17:58:50.078684+07:00"
+    },
+    {
+      "id": "a3325606817ad371eace345ea196e48d",
+      "title": "Khởi động dự án 1.000 thư viện tri thức cho học sinh",
+      "link": "https://thanhnien.vn/khoi-dong-du-an-1000-thu-vien-tri-thuc-cho-hoc-sinh-185260421151756723.htm",
+      "summary": "Theo kế hoạch, dự án sẽ được triển khai trên phạm vi toàn quốc trong giai đoạn 2026 - 2035, với mục tiêu xây dựng và trao tặng 1.000 thư viện tại các trường học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:39:00+07:00",
+      "fetched": "2026-04-21T17:58:50.078811+07:00"
+    },
+    {
+      "id": "08e91403da1a96906b0f424c354746dc",
+      "title": "Tuyển 20 đại biểu chương trình Tàu Thanh niên Đông Nam Á - Nhật Bản",
+      "link": "https://thanhnien.vn/tuyen-20-dai-bieu-chuong-trinh-tau-thanh-nien-dong-nam-a-nhat-ban-185260421164028545.htm",
+      "summary": "Tham gia chương trình Tàu Thanh niên Đông Nam Á - Nhật Bản, các đại biểu sẽ hoạt động và giao lưu trên tàu, Nhật Bản và một số quốc gia ASEAN: Campuchia, Malaysia, Philippines.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:35:00+07:00",
+      "fetched": "2026-04-21T17:58:50.078938+07:00"
+    },
+    {
+      "id": "d45472e302247e9cd4f6108e966711ff",
+      "title": "Điểm đến nào dẫn đầu tìm kiếm dịp nghỉ lễ Giỗ tổ Hùng Vương và 30.4?",
+      "link": "https://thanhnien.vn/diem-den-nao-dan-dau-tim-kiem-dip-nghi-le-gio-to-hung-vuong-va-304-185260421163312696.htm",
+      "summary": "Kỳ nghỉ lễ 'kép' hiếm có trong tháng 4 là dịp Giỗ tổ Hùng Vương và 30.4 - 1.5 đang tạo ra cú hích mạnh mẽ cho nhu cầu du lịch của người Việt. Không ngoài dự đoán, các điểm đến ven biển tiếp tục thống trị bảng xếp hạng tìm kiếm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:32:00+07:00",
+      "fetched": "2026-04-21T17:58:50.079074+07:00"
+    },
+    {
+      "id": "1f6d08eec2d6792e9df65167823f5b48",
+      "title": "Nhiệt điện Phú Mỹ diễn tập chữa cháy và cứu nạn, cứu hộ cấp thành phố",
+      "link": "https://thanhnien.vn/nhiet-dien-phu-my-dien-tap-chua-chay-va-cuu-nan-cuu-ho-cap-thanh-pho-185260421173042939.htm",
+      "summary": "Sáng ngày 3.4.2026, tại Công ty Nhiệt điện Phú Mỹ (Khu Công nghiệp Phú Mỹ 1, phường Phú Mỹ), Công an TP.HCM chủ trì tổ chức buổi thực tập phương án chữa cháy và cứu nạn, cứu hộ (PCCC&CNCH) quy mô cấp Thành phố. Đây là hoạt động trọng điểm nằm trong kế hoạch đảm bảo an toàn PCCC đợt cao điểm trên địa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:29:00+07:00",
+      "fetched": "2026-04-21T17:58:50.079210+07:00"
+    },
+    {
+      "id": "69f588c56def7facb8f09e22e9ddb2f1",
+      "title": "Sau cảnh báo sóng thần: Người Việt ở Nhật Bản nói gì?",
+      "link": "https://thanhnien.vn/sau-canh-bao-song-than-nguoi-viet-o-nhat-ban-noi-gi-18526042117205452.htm",
+      "summary": "Sau gần 24 giờ xảy ra động đất mạnh ở ngoài khơi vùng đông bắc Nhật Bản, cộng đồng người Việt tại Tokyo đã trở lại nhịp sống bình thường nhưng vẫn theo dõi sát diễn biến tiếp theo để phòng ngừa dư chấn và nguy cơ sóng thần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:29:00+07:00",
+      "fetched": "2026-04-21T17:58:50.079349+07:00"
+    },
+    {
+      "id": "f41927061aa89d42f854096b5f200337",
+      "title": "Cựu Phó chủ tịch phường ‘xào ke’ thâu đêm cùng nữ nhân viên lãnh án 7 năm tù",
+      "link": "https://thanhnien.vn/cuu-pho-chu-tich-phuong-xao-ke-thau-dem-cung-nu-nhan-vien-lanh-an-7-nam-tu-185260421170744593.htm",
+      "summary": "Bị cáo Phạm Quang Thiện, cựu Phó chủ tịch UBND P.Phú Lãm (Q.Hà Đông cũ, Hà Nội) bị tòa tuyên 7 năm tù về tội tổ chức sử dụng trái phép chất ma túy, với cáo buộc cùng bạn và 2 nữ nhân viên 'xào ke' thâu đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:28:00+07:00",
+      "fetched": "2026-04-21T17:58:50.079476+07:00"
+    },
+    {
+      "id": "96f0ad71c23ad24694307da9507de8da",
+      "title": "'Tài sản lớn trong dân, đặc biệt là vàng, còn nằm ngoài hệ thống tài chính'",
+      "link": "https://thanhnien.vn/tai-san-lon-trong-dan-dac-biet-la-vang-con-nam-ngoai-he-thong-tai-chinh-185260421162220491.htm",
+      "summary": "Đại biểu Quốc hội Nguyễn Thị Kim Thoa (đoàn Vĩnh Long) cho rằng lượng tài sản lớn trong dân, đặc biệt là vàng, vẫn nằm ngoài hệ thống tài chính. Điều này cho thấy nguồn lực trong dân rất dồi dào nhưng còn phân tán, chưa được dẫn dắt vào sản xuất và kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:23:00+07:00",
+      "fetched": "2026-04-21T17:58:50.079604+07:00"
+    },
+    {
+      "id": "862d3db3e75b69cacce627f4667a099a",
+      "title": "Thơ văn của Tố Hữu, Xuân Diệu, Nguyễn Nhật Ánh... được thi dịch sang tiếng Trung",
+      "link": "https://thanhnien.vn/tho-van-cua-to-huu-xuan-dieu-nguyen-nhat-anh-duoc-thi-dich-sang-tieng-trung-18526042116504445.htm",
+      "summary": "Hoạt động này là một phần cuộc thi dịch văn học Việt-Trung, Trung-Việt lần thứ 2 được khởi động tại Trường ĐH Hoa Sen sáng nay 21.4, nhân Ngày sách và văn hóa đọc Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:19:00+07:00",
+      "fetched": "2026-04-21T17:58:50.079729+07:00"
+    },
+    {
+      "id": "6a190a3ff02d43a9662546fe87bcc444",
+      "title": "Bắt nghi phạm say rượu đâm chết vợ rồi ôm con 9 tháng tuổi bỏ trốn",
+      "link": "https://thanhnien.vn/bat-nghi-pham-say-ruou-dam-chet-vo-roi-om-con-9-thang-tuoi-bo-tron-18526042116354675.htm",
+      "summary": "Sau khi đâm chết vợ và làm bị thương mẹ vợ, người đàn ông ở Khánh Hòa ôm theo con nhỏ 9 tháng tuổi bỏ trốn khỏi hiện trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:18:00+07:00",
+      "fetched": "2026-04-21T17:58:50.079855+07:00"
+    },
+    {
+      "id": "d02b38aeaeb29d65afc4207da0ee7523",
+      "title": "Trình Quốc hội bỏ ngưỡng chịu thuế 500 triệu với hộ kinh doanh",
+      "link": "https://thanhnien.vn/trinh-quoc-hoi-bo-nguong-chiu-thue-500-trieu-voi-ho-kinh-doanh-185260421154335666.htm",
+      "summary": "Chính phủ đề xuất bỏ ngưỡng chịu thuế cụ thể với hộ kinh doanh (500 triệu đồng), giao Chính phủ quy định cụ thể. Tuy nhiên, cơ quan thẩm tra đề nghị Chính phủ nêu rõ phương án cụ thể về ngưỡng doanh thu chịu thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:17:00+07:00",
+      "fetched": "2026-04-21T17:58:50.079986+07:00"
+    },
+    {
+      "id": "f651151c22a1587b5523e19b699abffe",
+      "title": "Côn Đảo vào top điểm đến trải nghiệm rùa biển hàng đầu thế giới",
+      "link": "https://vnexpress.net/con-dao-vao-top-diem-den-trai-nghiem-rua-bien-hang-dau-the-gioi-5065118.html",
+      "summary": "Tạp chí Condé Nast Traveller vinh danh Côn Đảo là một trong bảy điểm đến toàn cầu sở hữu các khu nghỉ dưỡng bảo tồn rùa biển ấn tượng nhân Ngày Trái Đất 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:06:41+07:00",
+      "fetched": "2026-04-21T17:58:42.736174+07:00"
+    },
+    {
+      "id": "29ce35941a1634e1fab94b33e2a1ea77",
+      "title": "Sân bay Long Thành thiếu gần 6.000 nhân sự để về đích",
+      "link": "https://vnexpress.net/san-bay-long-thanh-thieu-gan-6-000-nhan-su-de-ve-dich-5065146.html",
+      "summary": "Khó khăn thanh toán, cạnh tranh nhân lực khiến dự án sân bay Long Thành thiếu gần 6.000 lao động, nguy cơ chậm tiến độ hoàn thành cuối năm nay, theo chủ đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:05:10+07:00",
+      "fetched": "2026-04-21T17:58:42.736330+07:00"
+    },
+    {
+      "id": "1ad7b5258dda08b98b88821a4c318cdc",
+      "title": "Điểm tin 17h: Giá xăng giảm về sát 23.000 đồng | Đề xuất thu phí nhà thứ hai bỏ hoang hoặc cho thuê",
+      "link": "https://vnexpress.net/diem-tin-17h-gia-xang-giam-ve-sat-23-000-dong-de-xuat-thu-phi-nha-thu-hai-bo-hoang-hoac-cho-thue-5065321.html",
+      "summary": "Phó thủ tướng: Mục tiêu vốn hóa thị trường chứng khoán đạt 120% GDP vào 2028; Bộ Công an đề xuất phạt tù người phát tán AI deepfake, dụ trẻ em chat sex;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:04:48+07:00",
+      "fetched": "2026-04-21T17:58:42.736469+07:00"
+    },
+    {
+      "id": "c5fd321a5e0d7b95d945e7fcba381051",
+      "title": "Kiềm chế để không đi quá giới hạn khi vào khách sạn với anh",
+      "link": "https://vnexpress.net/kiem-che-de-khong-di-qua-gioi-han-khi-vao-khach-san-voi-anh-5065221.html",
+      "summary": "Buổi gặp hôm đó không có gì đặc biệt, chỉ là những câu chuyện vu vơ, rồi anh bảo vào khách sạn vì muốn ôm tôi thôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:00:00+07:00",
+      "fetched": "2026-04-21T17:58:42.736609+07:00"
+    },
+    {
+      "id": "35b0b50c39e10d99b46f51d0008da7d0",
+      "title": "Bị viêm da cơ địa nên tắm thế nào",
+      "link": "https://vnexpress.net/bi-viem-da-co-dia-nen-tam-the-nao-5065292.html",
+      "summary": "Người bị viêm da cơ địa nên tắm nước ấm 5-10 phút, dùng sữa tắm dịu nhẹ, không chà xát mạnh, thoa dưỡng ẩm ngay sau tắm để phục hồi hàng rào bảo vệ da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:00:00+07:00",
+      "fetched": "2026-04-21T17:58:42.736743+07:00"
+    },
+    {
+      "id": "028e44e415ecbbdc4e94ac80688918e4",
+      "title": "Giải Audition Vietnam Championship tìm ra các nhà vô địch",
+      "link": "https://vnexpress.net/giai-audition-vietnam-championship-tim-ra-cac-nha-vo-dich-5065258.html",
+      "summary": "Lê Thị Hoài Phương chiến thắng nội dung đơn nữ, Nguyễn Ngọc Quý đăng quang nội dung đơn nam, còn cặp đôi Hoài Phương – Bùi Tấn Tài lên ngôi nội dung đôi nam nữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:00:00+07:00",
+      "fetched": "2026-04-21T17:58:42.736878+07:00"
+    },
+    {
+      "id": "26216878b7f1744ad0bf424cee6979d6",
+      "title": "Cách giảm mắt đỏ",
+      "link": "https://vnexpress.net/cach-giam-mat-do-5065084.html",
+      "summary": "Chườm lạnh, sử dụng nước mắt nhân tạo hoặc thuốc kháng histamine có thể giúp giảm tình trạng mắt đỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:00:00+07:00",
+      "fetched": "2026-04-21T17:58:42.737019+07:00"
+    },
+    {
+      "id": "ae4185645578a15178a83cbbb1d6f6dd",
+      "title": "Vì sao đầy bụng sau khi uống cà phê?",
+      "link": "https://vnexpress.net/vi-sao-day-bung-sau-khi-uong-ca-phe-5065033.html",
+      "summary": "Cà phê có chất chống oxy hóa, hỗ trợ nhu động ruột và chuyển hóa mỡ ở gan, nhưng uống khi đói có thể hại dạ dày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T10:00:00+07:00",
+      "fetched": "2026-04-21T17:58:42.737151+07:00"
+    },
+    {
+      "id": "58f49284abb31b78f57df5b7a878539b",
+      "title": "Đội nữ Vinschool thể hiện tinh thần thể thao tại Media Day",
+      "link": "https://vnexpress.net/doi-nu-vinschool-the-hien-tinh-than-the-thao-tai-media-day-5065303.html",
+      "summary": "Các thành viên đội nữ THPT Vinschool tràn đầy nhiệt huyết và thể hiện quyết tâm mạnh mẽ tại Media Day.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T09:51:55+07:00",
+      "fetched": "2026-04-21T17:58:42.737281+07:00"
+    },
+    {
+      "id": "1cd65a2415051c5174ad4524939940a9",
+      "title": "Đại biểu Quốc hội: Giá bỏ thầu càng thấp, dự án càng chậm tiến độ",
+      "link": "https://vnexpress.net/dai-bieu-quoc-hoi-gia-bo-thau-cang-thap-du-an-cang-cham-tien-do-5065253.html",
+      "summary": "Phó chủ tịch Quảng Trị Hoàng Xuân Tân cho rằng giá bỏ thầu càng thấp, dự án có xu hướng chất lượng thấp, chậm tiến độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T09:51:42+07:00",
+      "fetched": "2026-04-21T17:58:42.737417+07:00"
+    },
+    {
+      "id": "1cd65a2415051c5174ad4524939940a9",
+      "title": "Đại biểu Quốc hội: Giá bỏ thầu càng thấp, dự án càng chậm tiến độ",
+      "link": "https://vnexpress.net/dai-bieu-quoc-hoi-gia-bo-thau-cang-thap-du-an-cang-cham-tien-do-5065253.html",
+      "summary": "Phó chủ tịch Quảng Trị Hoàng Xuân Tân cho rằng giá bỏ thầu càng thấp, dự án có xu hướng chất lượng thấp, chậm tiến độ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-21T09:51:42+07:00",
+      "fetched": "2026-04-21T17:58:53.291955+07:00"
+    },
+    {
+      "id": "1957b189e31b29060263b08edf93adee",
+      "title": "Đội nam Lê Hồng Phong khởi động mùa giải ấn tượng tại Media Day",
+      "link": "https://vnexpress.net/doi-nam-le-hong-phong-khoi-dong-mua-giai-an-tuong-tai-media-day-5065308.html",
+      "summary": "Các vận động viên của đội nam THPT chuyên Lê Hồng Phong gây ấn tượng với phong thái tự tin, sẵn sàng chinh phục mùa giải mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T09:51:26+07:00",
+      "fetched": "2026-04-21T17:58:42.737546+07:00"
+    },
+    {
+      "id": "47f568b17c9458e9d94d82ac62090f7f",
+      "title": "Vinhomes mở bán 3 đại dự án, quy mô hơn 7.500 ha năm nay",
+      "link": "https://vnexpress.net/vinhomes-mo-ban-3-dai-du-an-quy-mo-hon-7-500-ha-nam-nay-5065163.html",
+      "summary": "Năm nay, Vinhomes sẽ mở bán 3 đại dự án, với tổng quy mô hơn 7.500 ha tại Quảng Ninh, Đà Nẵng và TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T09:47:36+07:00",
+      "fetched": "2026-04-21T17:58:42.737676+07:00"
+    },
+    {
+      "id": "f3a82de503dcde9636f4e5d6527d6ac0",
+      "title": "Tinh thần đồng đội của nữ sinh Tây Thạnh tại Media Day",
+      "link": "https://vnexpress.net/tinh-than-dong-doi-cua-nu-sinh-tay-thanh-tai-media-day-5065293.html",
+      "summary": "Đội nữ THPT Tây Thạnh thể hiện tinh thần tập thể và quyết tâm chiến đấu tại Media Day.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T09:34:12+07:00",
+      "fetched": "2026-04-21T17:58:42.737807+07:00"
+    },
+    {
+      "id": "c9fea6365ed1af101324a995801064cf",
+      "title": "Cựu trưởng Công an Phú Quốc phủ nhận cùng 'em gái nuôi' lừa đảo",
+      "link": "https://vnexpress.net/cuu-truong-cong-an-phu-quoc-phu-nhan-cung-em-gai-nuoi-lua-dao-5065210.html",
+      "summary": "Tại tòa, ông Lê Văn Mót, cựu trưởng Công an TP Phú Quốc, phản bác cáo buộc cùng “em gái nuôi” Nguyễn Thị Hằng lừa đảo nhiều người chiếm đoạt gần 68 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T09:32:34+07:00",
+      "fetched": "2026-04-21T17:58:42.737938+07:00"
+    },
+    {
+      "id": "37266a2933d3b8df075ad5dff5b239bf",
+      "title": "Các nữ cầu thủ Nguyễn Thượng Hiền háo hức tại Media Day",
+      "link": "https://vnexpress.net/cac-nu-cau-thu-nguyen-thuong-hien-hao-huc-tai-media-day-5065286.html",
+      "summary": "Các nữ cầu thủ Nguyễn Thượng Hiền mang phong cách thể thao đến với buổi ghi hình hôm 3/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T09:30:26+07:00",
+      "fetched": "2026-04-21T17:58:42.738082+07:00"
+    },
+    {
+      "id": "a46f786eb06a99e6c986ac8dfa93ca7d",
+      "title": "'Mục tiêu 50% mái nhà lắp điện mặt trời là thách thức lớn'",
+      "link": "https://vnexpress.net/muc-tieu-50-mai-nha-lap-dien-mat-troi-la-thach-thuc-lon-5065217.html",
+      "summary": "Mục tiêu 5 năm tới, 50% mái nhà hộ dân, doanh nghiệp lắp điện mặt trời là \"tham vọng và thách thức\", đòi hỏi cơ chế đủ mạnh, tháo gỡ rào cản chi phí, theo lãnh đạo ngành điện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-21T09:29:58+07:00",
+      "fetched": "2026-04-21T17:58:53.292123+07:00"
+    },
+    {
+      "id": "c9becd31fa14d645b70cb2ac4300a6ca",
+      "title": "Mỹ thử nghiệm bom lượn bay xa 370 km",
+      "link": "https://vnexpress.net/my-thu-nghiem-bom-luon-bay-xa-370-km-5065096.html",
+      "summary": "Bom lượn JDAM-LR sử dụng động cơ phản lực bay được khoảng 370 km khi thử nghiệm, tương đương nhiều loại tên lửa hành trình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-21T09:23:51+07:00",
+      "fetched": "2026-04-21T17:58:51.795381+07:00"
+    },
+    {
       "id": "c3dfce7bf17bef9e2ccdf29b7745cd7c",
       "title": "TP.HCM thêm 348 căn hộ giá bán từ 119 triệu đồng/m2",
       "link": "https://thanhnien.vn/tphcm-them-348-can-ho-gia-ban-tu-119-trieu-dong-m2-185260421145922366.htm",
@@ -781,6 +1261,16 @@ window.newsData_2026_04_21 = {
       "category": "Kinh doanh",
       "published": "2026-04-21T08:38:09+07:00",
       "fetched": "2026-04-21T16:17:15.717631+07:00"
+    },
+    {
+      "id": "fac7e567489ac14f208a5b4ee4f602d3",
+      "title": "Tỷ phú Trần Đình Long: Tham gia dự án đại lộ cảnh quan sông Hồng 'không vì lợi nhuận'",
+      "link": "https://vnexpress.net/ty-phu-tran-dinh-long-tham-gia-du-an-dai-lo-canh-quan-song-hong-khong-vi-loi-nhuan-5065147.html",
+      "summary": "Tỷ phú Trần Đình Long nói \"tự hào, may mắn\" tham gia dự án trục đại lộ cảnh quan sông Hồng, nên Hòa Phát không đặt lợi nhuận khi làm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-21T08:38:09+07:00",
+      "fetched": "2026-04-21T17:58:53.292681+07:00"
     },
     {
       "id": "ed2d759f897ac8b1b260d1594000ffc0",
