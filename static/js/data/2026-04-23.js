@@ -1,6 +1,6 @@
 window.newsData_2026_04_23 = {
   "date": "2026-04-23",
-  "lastUpdated": "2026-04-23T01:59:05.471282+07:00",
+  "lastUpdated": "2026-04-23T03:42:40.996582+07:00",
   "articles": [
     {
       "id": "75983e983d71e14e11278074319c8332",
@@ -151,6 +151,36 @@ window.newsData_2026_04_23 = {
       "category": "Tổng hợp",
       "published": "2026-04-23T01:58:59.201210+07:00",
       "fetched": "2026-04-23T01:58:59.201431+07:00"
+    },
+    {
+      "id": "8bf630bb950be20323ca49849656bed5",
+      "title": "Đường dây hoang báo bị cướp để được cấp visa ở lại Mỹ",
+      "link": "https://vnexpress.net/duong-day-hoang-bao-bi-cuop-de-duoc-cap-visa-o-lai-my-5065571.html",
+      "summary": "Loạt cảnh sát ở Louisiana bị cáo buộc tiếp tay cho đường dây người nhập cư chuyên hoang báo bị cướp để được cấp visa U, giúp họ ở lại Mỹ \"phục vụ điều tra\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T19:00:00+07:00",
+      "fetched": "2026-04-23T03:42:31.527469+07:00"
+    },
+    {
+      "id": "50bc1ec8611e06936d552d3e6b5396dc",
+      "title": "6 loại đồ uống 'gắn mác' lành mạnh gây tăng cân",
+      "link": "https://vnexpress.net/6-loai-do-uong-gan-mac-lanh-manh-gay-tang-can-5064506.html",
+      "summary": "Nhiều người lầm tưởng nước ép trái cây, sữa đậu nành hay nước chanh mật ong là lựa chọn tốt cho sức khỏe, nhưng thực tế chúng có thể chứa lượng đường và calo khổng lồ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T19:00:00+07:00",
+      "fetched": "2026-04-23T03:42:31.527688+07:00"
+    },
+    {
+      "id": "8bf630bb950be20323ca49849656bed5",
+      "title": "Đường dây hoang báo bị cướp để được cấp visa ở lại Mỹ",
+      "link": "https://vnexpress.net/duong-day-hoang-bao-bi-cuop-de-duoc-cap-visa-o-lai-my-5065571.html",
+      "summary": "Loạt cảnh sát ở Louisiana bị cáo buộc tiếp tay cho đường dây người nhập cư chuyên hoang báo bị cướp để được cấp visa U, giúp họ ở lại Mỹ \"phục vụ điều tra\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-22T19:00:00+07:00",
+      "fetched": "2026-04-23T03:42:36.232253+07:00"
     },
     {
       "id": "5b3790a30a133489295494539c9c2db3",
