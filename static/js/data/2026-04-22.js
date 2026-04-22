@@ -1,7 +1,157 @@
 window.newsData_2026_04_22 = {
   "date": "2026-04-22",
-  "lastUpdated": "2026-04-22T11:39:23.600887+07:00",
+  "lastUpdated": "2026-04-22T14:20:13.875107+07:00",
   "articles": [
+    {
+      "id": "cea9d18a7606db9739ae14382465c4d8",
+      "title": "Những ngày nắng gắt, về đầm Chuồn tận hưởng không gian mênh mông, mát lành",
+      "link": "https://tuoitre.vn/nhung-ngay-nang-gat-ve-dam-chuon-tan-huong-khong-gian-menh-mong-mat-lanh-20260422101026849.htm",
+      "summary": "Giữa cái nắng gắt của mùa hè Huế, nhiều người rời trung tâm thành phố, tìm về đầm Chuồn (vùng đầm phá thuộc hệ phá Tam Giang) để 'giải nhiệt'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.407252+07:00",
+      "fetched": "2026-04-22T14:20:06.407363+07:00"
+    },
+    {
+      "id": "18cc58b7aa7b9c8e6fd6152a4a29c530",
+      "title": "Vô tư vứt rác thải xuống sông, có phải là chuyện nhỏ?",
+      "link": "https://tuoitre.vn/vo-tu-vut-rac-thai-xuong-song-co-phai-la-chuyen-nho-20260422120313534.htm",
+      "summary": "Công an xã Nhu Gia, TP Cần Thơ cho biết từ tin báo của người dân và camera giám sát, đã phát hiện và bắt quả tang một người đàn ông đang vứt rác là các bao kính vỡ, chai thủy tinh xuống sông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.407129+07:00",
+      "fetched": "2026-04-22T14:20:06.407241+07:00"
+    },
+    {
+      "id": "3f7fc3489bb99c3868f6a0bdec4b554b",
+      "title": "10 xã lên phường ở Đồng Nai bắn pháo hoa mừng ngày 30-4",
+      "link": "https://tuoitre.vn/10-xa-len-phuong-o-dong-nai-ban-phao-hoa-mung-ngay-30-4-20260422122517172.htm",
+      "summary": "Dịp lễ 30-4, 10 xã vừa lên phường ở Đồng Nai sẽ tổ chức bắn pháo hoa tầm thấp, còn 2 phường khác sẽ bắn pháo hoa tầm cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.407005+07:00",
+      "fetched": "2026-04-22T14:20:06.407117+07:00"
+    },
+    {
+      "id": "991d54fb749a5ae30d92eb0f01fef782",
+      "title": "Thuê người giả mạo chủ đất đã chết, lừa ngân hàng vay 3 tỉ",
+      "link": "https://tuoitre.vn/thue-nguoi-gia-mao-chu-dat-da-chet-lua-ngan-hang-vay-3-ti-20260422121641042.htm",
+      "summary": "Thuê người đóng giả chủ đất đã qua đời, làm giấy tờ ủy quyền, rồi dùng chính thửa đất này thế chấp vay vốn, Chu Trường Giang bị cáo buộc tạo dựng một kịch bản tinh vi để chiếm đoạt hàng tỉ đồng của Ngân hàng NCB.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.406879+07:00",
+      "fetched": "2026-04-22T14:20:06.406994+07:00"
+    },
+    {
+      "id": "f3164811d220303de6f1dbe5797492be",
+      "title": "Từ đêm nay, miền Bắc có nơi mưa to, Nam Bộ sắp nắng nóng diện rộng",
+      "link": "https://tuoitre.vn/tu-dem-nay-mien-bac-co-noi-mua-to-nam-bo-sap-nang-nong-dien-rong-2026042122082695.htm",
+      "summary": "Dự báo từ đêm nay (22-4) các tỉnh Bắc Bộ có mưa rào và dông, có nơi mưa to do ảnh hưởng của không khí lạnh. Còn Nam Bộ oi nóng duy trì và mở rộng trong những ngày tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.406750+07:00",
+      "fetched": "2026-04-22T14:20:06.406868+07:00"
+    },
+    {
+      "id": "92932632f846210dd7124b32ff9b3313",
+      "title": "7 đứa trẻ mơ vươn lên trong căn chòi 10m²",
+      "link": "https://tuoitre.vn/7-dua-tre-mo-vuon-len-trong-can-choi-10m-20260422110538074.htm",
+      "summary": "Cha bệnh không thể làm việc nặng, người mẹ trụ cột cũng đột ngột qua đời bỏ lại bảy đứa con nheo nhóc trong căn chòi hàng xóm cho ở đậu. Không đầu hàng số phận, những đứa trẻ ấy vẫn nghị lực vươn lên tìm hy vọng cho tương lai của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.406625+07:00",
+      "fetched": "2026-04-22T14:20:06.406739+07:00"
+    },
+    {
+      "id": "8e7418a1fd356df4f3042d4d34023e6f",
+      "title": "Trước ngày phát sóng bản màu Tiếng trống Mê Linh, nghệ sĩ rưng rưng nhớ Thanh Nga",
+      "link": "https://tuoitre.vn/truoc-ngay-phat-song-ban-mau-tieng-trong-me-linh-nghe-si-rung-rung-nho-thanh-nga-20260422120351754.htm",
+      "summary": "Thông tin chuẩn bị phát sóng bản màu vở kinh điển Tiếng trống Mê Linh khiến nhiều khán giả cải lương nôn nao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.406485+07:00",
+      "fetched": "2026-04-22T14:20:06.406613+07:00"
+    },
+    {
+      "id": "27833b65004087812c442fd4b4d9a3a3",
+      "title": "Man City chớ vội chủ quan",
+      "link": "https://tuoitre.vn/man-city-cho-voi-chu-quan-20260422103332214.htm",
+      "summary": "Sau trận thắng quan trọng trước Arsenal ở vòng 33 Premier League, Man City bị cựu danh thủ Rooney chỉ trích vì \"ăn mừng như thể đã giành chức vô địch\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.406338+07:00",
+      "fetched": "2026-04-22T14:20:06.406470+07:00"
+    },
+    {
+      "id": "85e7fbac61a968f5f0f1fee4d5358d9c",
+      "title": "Giỗ Tổ Hùng Vương: Thảo cầm viên miễn phí khu lễ hội theo khung giờ mỗi ngày",
+      "link": "https://tuoitre.vn/gio-to-hung-vuong-thao-cam-vien-mien-phi-khu-le-hoi-theo-khung-gio-moi-ngay-20260422115907365.htm",
+      "summary": "Lễ hội văn hóa được tổ chức tại Thảo cầm viên Sài Gòn nhân dịp giỗ Tổ Hùng Vương năm nay sẽ miễn phí vé vào khu lễ hội trong khoảng 17 - 21h mỗi ngày từ hôm nay đến 27-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.406214+07:00",
+      "fetched": "2026-04-22T14:20:06.406327+07:00"
+    },
+    {
+      "id": "b87595c72f7e6878e2e84f2a82a7ad45",
+      "title": "13 người vứt rác bừa bãi ở xã Bình Chánh bị phạt 21,5 triệu đồng",
+      "link": "https://tuoitre.vn/13-nguoi-vut-rac-bua-bai-o-xa-binh-chanh-bi-phat-21-5-trieu-dong-20260422121445271.htm",
+      "summary": "Từ tháng 11-2025 đến nay, qua rà soát camera an ninh, cơ quan chức năng xã Bình Chánh (TP.HCM) đã phát hiện, mời làm việc, xử phạt 13 trường hợp vứt rác không đúng nơi quy định với tổng số tiền 21,5 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.406082+07:00",
+      "fetched": "2026-04-22T14:20:06.406203+07:00"
+    },
+    {
+      "id": "6980dbd392eed7a0d3f8a750c0ab9bf5",
+      "title": "Kỳ thủ 15 tuổi Đầu Khương Duy tiếp bước đàn anh Lê Quang Liêm",
+      "link": "https://tuoitre.vn/ky-thu-15-tuoi-dau-khuong-duy-tiep-buoc-dan-anh-le-quang-liem-20260422103704954.htm",
+      "summary": "Nổi lên từ danh hiệu kiện tướng quốc tế (IM) vào năm 2022, tài năng trẻ 15 tuổi Đầu Khương Duy đang cho thấy sự thăng tiến mạnh mẽ, từng bước nối gót đàn anh Lê Quang Liêm trên con đường chinh phục những danh hiệu cao quý của làng cờ vua quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.405952+07:00",
+      "fetched": "2026-04-22T14:20:06.406070+07:00"
+    },
+    {
+      "id": "8ee88d914b5778ec4408c6a812bca281",
+      "title": "Đồng tiền đẫm máu từ ma túy Mỹ Latin - Kỳ 4: Liên minh ma quỷ để vươn vòi bạch tuộc đen",
+      "link": "https://tuoitre.vn/dong-tien-dam-mau-tu-ma-tuy-my-latin-ky-4-lien-minh-ma-quy-de-vuon-voi-bach-tuoc-den-20260422111549442.htm",
+      "summary": "Trước đây, các băng ma túy ở Mỹ Latin thường kiểm soát địa bàn nhỏ và mua bán ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.405823+07:00",
+      "fetched": "2026-04-22T14:20:06.405939+07:00"
+    },
+    {
+      "id": "11a510483e6d5b9ce5b7bdae91c9ecdf",
+      "title": "Nhiều người bệnh ung thư vú đã sống thêm trên 30 năm kể từ khi phát hiện bệnh",
+      "link": "https://tuoitre.vn/nhieu-nguoi-benh-ung-thu-vu-da-song-them-tren-30-nam-ke-tu-khi-phat-hien-benh-20260422120929011.htm",
+      "summary": "Theo PGS.TS Lê Hồng Quang, Trưởng khoa ngoại vú Bệnh viện K, kết quả điều trị ung thư vú ở Việt Nam đã tiệm cận với thế giới, tỉ lệ sống thêm từ 5 năm kể từ khi phát hiện bệnh đạt 85-90%, nhiều bệnh nhân đã sống thêm trên 30 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.405689+07:00",
+      "fetched": "2026-04-22T14:20:06.405811+07:00"
+    },
+    {
+      "id": "2aeea96443e1094a6daed8e6a37e2e70",
+      "title": "Nghệ An làm 229 nhà '3 cứng' cho con của người đi kháng chiến nhiễm chất độc da cam",
+      "link": "https://tuoitre.vn/nghe-an-lam-229-nha-3-cung-cho-con-nguoi-di-khang-chien-nhiem-da-cam-20260422112850255.htm",
+      "summary": "Những nhà cũ được sửa chữa, xây mới sẽ giúp con đẻ của người đi kháng chiến nhiễm chất độc da cam ổn định cuộc sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.405546+07:00",
+      "fetched": "2026-04-22T14:20:06.405676+07:00"
+    },
+    {
+      "id": "2340bbc96221affdd6770821d68ca0c4",
+      "title": "Đội bóng 'trả lại' cúp vô địch vì lỗi thay người ngớ ngẩn của... đội khác",
+      "link": "https://tuoitre.vn/doi-bong-tra-lai-cup-vo-dich-vi-loi-thay-nguoi-ngo-ngan-cua-doi-khac-20260422110558167.htm",
+      "summary": "Một kịch bản khó tin vừa xảy ra tại Giải vô địch Qatar (Qatar Stars League) khi HLV kỳ cựu Roberto Mancini cùng đội bóng Al Sadd vừa phải “trả lại” cúp vô địch vì một quyết định bất ngờ từ Liên đoàn bóng đá Qatar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:20:06.405288+07:00",
+      "fetched": "2026-04-22T14:20:06.405530+07:00"
+    },
     {
       "id": "fee69440a9a7fa54c11ad46d5cb87a4f",
       "title": "Giá vàng bật tăng trở lại sau tin ông Trump gia hạn lệnh ngừng bắn",
@@ -243,6 +393,206 @@ window.newsData_2026_04_22 = {
       "fetched": "2026-04-22T08:29:17.489721+07:00"
     },
     {
+      "id": "e05bb8a08b26afc0e7d8d40ca802a3a2",
+      "title": "Bà Mai Kiều Liên: 'Sức mua ì ạch, Vinamilk kỳ vọng kéo thị trường'",
+      "link": "https://vnexpress.net/ba-mai-kieu-lien-suc-mua-i-ach-vinamilk-ky-vong-keo-thi-truong-5065601.html",
+      "summary": "Ngành sữa vẫn tăng trưởng âm, sức mua chưa hồi phục, song Vinamilk duy trì đà tăng và kỳ vọng kéo thị trường này nhích 1,5-2%, CEO Mai Kiều Liên nói.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-22T06:54:46+07:00",
+      "fetched": "2026-04-22T14:20:09.368625+07:00"
+    },
+    {
+      "id": "384a0529198145776770808b40a3e12b",
+      "title": "Động lực thúc đẩy ông Trump gia hạn lệnh ngừng bắn với Iran",
+      "link": "https://vnexpress.net/dong-luc-thuc-day-ong-trump-gia-han-lenh-ngung-ban-voi-iran-5065456.html",
+      "summary": "Ông Trump gia hạn ngừng bắn giúp duy trì nỗ lực ngoại giao và tránh xung đột tái bùng phát, cho phép Mỹ - Iran tiếp tục thương lượng về một thỏa thuận lâu dài, theo các chuyên gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-22T06:52:42+07:00",
+      "fetched": "2026-04-22T14:20:08.105114+07:00"
+    },
+    {
+      "id": "84632ca0d92b6e57a92e06c7584317d7",
+      "title": "VIB Privilege Banking - giải pháp tài chính linh hoạt theo khách hàng",
+      "link": "https://vnexpress.net/vib-privilege-banking-giai-phap-tai-chinh-linh-hoat-theo-khach-hang-5065665.html",
+      "summary": "Ngân hàng ưu tiên VIB giúp khách hàng chủ động điều phối dòng tiền, tối ưu tài sản và nắm bắt cơ hội nhờ hệ giải pháp tích hợp, theo bà Tường Nguyễn, Phó tổng giám đốc VIB.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T06:30:00+07:00",
+      "fetched": "2026-04-22T14:20:02.780978+07:00"
+    },
+    {
+      "id": "6488290abca30bcd4670e407c418f9cd",
+      "title": "Bảo tàng Trường Sa khởi công dịp 30/4",
+      "link": "https://vnexpress.net/bao-tang-truong-sa-khoi-cong-dip-30-4-5065658.html",
+      "summary": "Bảo tàng Trường Sa tại Cam Lâm sẽ khởi công ngày 29/4, hướng ra Biển Đông, dự kiến hoàn thành quý I/2028.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T06:29:12+07:00",
+      "fetched": "2026-04-22T14:20:02.781159+07:00"
+    },
+    {
+      "id": "874dc6074adcee4924c051ea8fd4ee18",
+      "title": "Bài học từ người gặp nạn lưu số điện thoại của mẹ là 'chủ nợ'",
+      "link": "https://vnexpress.net/cach-thiet-lap-thong-tin-lien-lac-khan-cap-so-dien-thoai-5065612.html",
+      "summary": "Một thanh niên bị tai nạn giao thông, cả xóm loay hoay không tìm được số điện thoại của người thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T06:22:12+07:00",
+      "fetched": "2026-04-22T14:20:02.781330+07:00"
+    },
+    {
+      "id": "9482267dc8e06e4c674c4ab0d1a3778f",
+      "title": "Điều bất thường trong ảnh này là gì?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-dieu-bat-thuong-trong-anh-nay-la-gi-5064792.html",
+      "summary": "Ai tinh mắt sẽ phát hiện ngay trong vài giây, còn không thì dễ \"mắc bẫy\" dài dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T06:16:00+07:00",
+      "fetched": "2026-04-22T14:20:02.781518+07:00"
+    },
+    {
+      "id": "6b05b261eb67756d0593f6b0a7ff275a",
+      "title": "Ba người chết vì bệnh dại, TP HCM cảnh báo dịch mùa nóng",
+      "link": "https://vnexpress.net/ba-nguoi-chet-vi-benh-dai-tp-hcm-canh-bao-dich-mua-nong-5065645.html",
+      "summary": "Trung tâm Kiểm soát Bệnh tật (CDC) TP HCM ghi nhận 3 người tử vong do bệnh dại trong 4 tháng đầu năm, cảnh báo nguy cơ bùng phát bệnh giữa cao điểm nắng nóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T06:05:22+07:00",
+      "fetched": "2026-04-22T14:20:02.781678+07:00"
+    },
+    {
+      "id": "6b3a531936f07b30278897bc25110075",
+      "title": "Chiêu giả mạo hãng thời trang để rửa tiền từ Campuchia",
+      "link": "https://vnexpress.net/chieu-gia-mao-hang-thoi-trang-de-rua-tien-tu-campuchia-5065642.html",
+      "summary": "Nguyễn Văn Dương và Đỗ Nguyễn Bích Trâm bị cáo buộc sang Campuchia vận hành hệ thống tài khoản ngân hàng để rửa tiền cho nhóm lừa đảo, hưởng lợi bất chính hơn 410 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T06:03:06+07:00",
+      "fetched": "2026-04-22T14:20:02.781840+07:00"
+    },
+    {
+      "id": "cf5088f245eff5e290e3da90f10d1664",
+      "title": "Sản xuất dấm giả từ axit và nước lã",
+      "link": "https://vnexpress.net/san-xuat-dam-gia-tu-axit-va-nuoc-la-5065643.html",
+      "summary": "Phạm Thanh Tuấn cùng mẹ điều hành cơ sở sản xuất gần 1.000 lít dấm giả bằng cách pha axit acetic với nước máy rồi gắn mác dấm nếp ủ men trong suốt 8 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T06:00:54+07:00",
+      "fetched": "2026-04-22T14:20:02.781996+07:00"
+    },
+    {
+      "id": "e7838b295fcffa47ae70dade44ff98ab",
+      "title": "NASA hé lộ tầng lõi tên lửa cho nhiệm vụ Artemis III",
+      "link": "https://vnexpress.net/nasa-he-lo-tang-loi-ten-lua-cho-nhiem-vu-artemis-iii-5065549.html",
+      "summary": "NASA hé lộ bộ phận lớn nhất của tên lửa trong nhiệm vụ Artemis III, thuộc chương trình Mặt Trăng Artemis sau hơn một tuần phi hành đoàn Artemis II hạ cánh thành công ngoài khơi San Diego.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T06:00:00+07:00",
+      "fetched": "2026-04-22T14:20:02.782159+07:00"
+    },
+    {
+      "id": "a9f21d83fb53b65af10ba4a42507b606",
+      "title": "Cảm ơn cuộc đời đã mang 'cô vợ tiểu thư' đến bên tôi",
+      "link": "https://vnexpress.net/hon-nhan-hanh-phuc-cam-on-cuoc-doi-da-mang-co-vo-tieu-thu-den-ben-toi-5065472.html",
+      "summary": "Gia đình hai bên chan hòa, con cái lớn lên bình yên và ổn định, đều do bàn tay của vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T06:00:00+07:00",
+      "fetched": "2026-04-22T14:20:02.782318+07:00"
+    },
+    {
+      "id": "f5a0d7e388921ac0ec0cecd80616f8b8",
+      "title": "Harper Beckham mặc hở eo dạo phố cùng bố",
+      "link": "https://vnexpress.net/harper-beckham-mac-ho-eo-dao-pho-cung-bo-5065589.html",
+      "summary": "Harper diện crop top, cùng bố David Beckham đi mua sắm trên đường phố New York.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T06:00:00+07:00",
+      "fetched": "2026-04-22T14:20:02.782488+07:00"
+    },
+    {
+      "id": "db1ca2895cb44bff266fe08065371120",
+      "title": "VinDynamics hợp tác hãng công nghệ Đức làm robot hình người",
+      "link": "https://vnexpress.net/vindynamics-hop-tac-hang-cong-nghe-duc-lam-robot-hinh-nguoi-5065656.html",
+      "summary": "Công ty công nghệ thuộc Vingroup ký hợp tác (MOU) tập đoàn công nghệ Schaeffler nhằm nghiên cứu, phát triển cấu kiện lõi cho robot hình người trong tương lai, hôm 21/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T06:00:00+07:00",
+      "fetched": "2026-04-22T14:20:02.782652+07:00"
+    },
+    {
+      "id": "15bfc8929c0eec0dfe35c9e71c53f5d6",
+      "title": "BIDV ra mắt hệ sinh thái số hỗ trợ doanh nghiệp",
+      "link": "https://vnexpress.net/bidv-ra-mat-he-sinh-thai-so-ho-tro-doanh-nghiep-5065649.html",
+      "summary": "BIDV ra mắt hệ sinh thái số gồm nhiều nền tảng liên kết cho phép doanh nghiệp vận hành các hoạt động tài chính, thương mại, chuỗi cung ứng liền mạch thay cho cách quản lý rời rạc trước đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T06:00:00+07:00",
+      "fetched": "2026-04-22T14:20:02.782831+07:00"
+    },
+    {
+      "id": "9623ff95597a8749f0f5dfd655482d39",
+      "title": "Mắc ung thư hắc tố cơ quan sinh dục ở tuổi 72",
+      "link": "https://vnexpress.net/mac-ung-thu-hac-to-co-quan-sinh-duc-o-tuoi-72-5065454.html",
+      "summary": "Bà Nương, 72 tuổi, mãn kinh 20 năm, nay xuất huyết bất thường kèm khối sùi đen ở vùng kín, bác sĩ chẩn đoán mắc u hắc tố ác tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T06:00:00+07:00",
+      "fetched": "2026-04-22T14:20:02.782981+07:00"
+    },
+    {
+      "id": "15bfc8929c0eec0dfe35c9e71c53f5d6",
+      "title": "BIDV ra mắt hệ sinh thái số hỗ trợ doanh nghiệp",
+      "link": "https://vnexpress.net/bidv-ra-mat-he-sinh-thai-so-ho-tro-doanh-nghiep-5065649.html",
+      "summary": "BIDV ra mắt hệ sinh thái số gồm nhiều nền tảng liên kết cho phép doanh nghiệp vận hành các hoạt động tài chính, thương mại, chuỗi cung ứng liền mạch thay cho cách quản lý rời rạc trước đây.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-22T06:00:00+07:00",
+      "fetched": "2026-04-22T14:20:09.370123+07:00"
+    },
+    {
+      "id": "e7838b295fcffa47ae70dade44ff98ab",
+      "title": "NASA hé lộ tầng lõi tên lửa cho nhiệm vụ Artemis III",
+      "link": "https://vnexpress.net/nasa-he-lo-tang-loi-ten-lua-cho-nhiem-vu-artemis-iii-5065549.html",
+      "summary": "NASA hé lộ bộ phận lớn nhất của tên lửa trong nhiệm vụ Artemis III, thuộc chương trình Mặt Trăng Artemis sau hơn một tuần phi hành đoàn Artemis II hạ cánh thành công ngoài khơi San Diego.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-22T06:00:00+07:00",
+      "fetched": "2026-04-22T14:20:12.106514+07:00"
+    },
+    {
+      "id": "db1ca2895cb44bff266fe08065371120",
+      "title": "VinDynamics hợp tác hãng công nghệ Đức làm robot hình người",
+      "link": "https://vnexpress.net/vindynamics-hop-tac-hang-cong-nghe-duc-lam-robot-hinh-nguoi-5065656.html",
+      "summary": "Công ty công nghệ thuộc Vingroup ký hợp tác (MOU) tập đoàn công nghệ Schaeffler nhằm nghiên cứu, phát triển cấu kiện lõi cho robot hình người trong tương lai, hôm 21/4.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-22T06:00:00+07:00",
+      "fetched": "2026-04-22T14:20:12.107821+07:00"
+    },
+    {
+      "id": "a2b10f15f9b70226b30e6cbac60c7c96",
+      "title": "Tài xế taxi chở khách tới trụ sở công an vì nghi bị lừa",
+      "link": "https://vnexpress.net/tai-xe-taxi-cho-khach-toi-tru-so-cong-an-vi-nghi-bi-lua-5065657.html",
+      "summary": "Phát hiện khách nữ 64 tuổi bị người lạ lừa gạt tình cảm, bắt chuyển 131 triệu đồng để nhận 50.000 USD từ nước ngoài gửi về, tài xế đã chở đến công an trình báo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T05:58:18+07:00",
+      "fetched": "2026-04-22T14:20:02.783137+07:00"
+    },
+    {
+      "id": "c1f9f98b9efe4ab407ad48c83ae8b0e4",
+      "title": "Cận cảnh rạp xiếc hiện đại nhất TP HCM",
+      "link": "https://vnexpress.net/can-canh-rap-xiec-hien-dai-nhat-tp-hcm-5064893.html",
+      "summary": "Sau hơn hai năm thi công, Rạp xiếc và Biểu diễn đa năng Phú Thọ gần 1.400 tỷ đồng với tổ hợp sân khấu 2.000 chỗ hoàn thành, trở thành điểm đến mới của khán giả TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T05:51:26+07:00",
+      "fetched": "2026-04-22T14:20:02.783291+07:00"
+    },
+    {
       "id": "cf24128edb80f36a96729b2e2abaf3c1",
       "title": "Thời tiết hôm nay 22-4: Tối nay Bắc Bộ mưa to, Nam Bộ nắng nóng",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-22-4-toi-nay-bac-bo-mua-to-nam-bo-nang-nong-20260421164439339.htm",
@@ -283,6 +633,56 @@ window.newsData_2026_04_22 = {
       "fetched": "2026-04-22T05:31:15.897152+07:00"
     },
     {
+      "id": "e2bb4712c08ef35e6bac0b6f8f92383b",
+      "title": "Ông Phạm Nhật Vượng: Sẽ không bao giờ sản xuất lại xe xăng",
+      "link": "https://vnexpress.net/ong-pham-nhat-vuong-se-khong-bao-gio-san-xuat-lai-xe-xang-5065520.html",
+      "summary": "Ông Phạm Nhật Vượng, Chủ tịch tập đoàn Vingroup, khẳng định VinFast sẽ sản xuất thêm những mẫu ôtô điện mới, đi xa hơn thay vì quay lại làm xe xăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-22T05:23:09+07:00",
+      "fetched": "2026-04-22T14:20:09.368826+07:00"
+    },
+    {
+      "id": "9502227a0f9a673a77b5be32c01691a4",
+      "title": "Sai phạm hy hữu khiến cuộc đua đảo chiều ở giải Qatar",
+      "link": "https://vnexpress.net/sai-pham-hy-huu-khien-cuoc-dua-dao-chieu-o-giai-qatar-5065566.html",
+      "summary": "Sai phạm thay người của Qatar SC khiến kết quả trận đấu bị điều chỉnh, đẩy Al Sadd từ thế sớm đăng quang vào cuộc đua nghẹt thở với Al Shamal ở vòng cuối giải VĐQG Qatar.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-22T05:07:30+07:00",
+      "fetched": "2026-04-22T14:20:13.867386+07:00"
+    },
+    {
+      "id": "bf503ad1cb0f5735db13b2052718cacf",
+      "title": "LIV Golf trước ngã rẽ sinh tử",
+      "link": "https://vnexpress.net/liv-golf-truoc-nga-re-sinh-tu-5065272.html",
+      "summary": "Chi hơn 5 tỷ USD nhằm phá thế thống trị của PGA Tour ở làng golf, nhưng LIV Golf đang đứng trước bờ vực sụp đổ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-22T05:00:00+07:00",
+      "fetched": "2026-04-22T14:20:13.866897+07:00"
+    },
+    {
+      "id": "a4a82391a622ed934d585eb60815213f",
+      "title": "Những điểm mới của Sàn giao dịch công nghệ TP HCM",
+      "link": "https://vnexpress.net/nhung-diem-moi-cua-san-giao-dich-cong-nghe-tp-hcm-5065411.html",
+      "summary": "Sàn giao dịch công nghệ TP HCM chuyển sang mô hình vận hành số hóa, cho phép quản lý toàn bộ giao dịch từ đàm phán đến ký kết hợp đồng theo thời gian thực.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-22T04:47:06+07:00",
+      "fetched": "2026-04-22T14:20:12.107660+07:00"
+    },
+    {
+      "id": "d47ba7dc8883c5a02d8bc552094da4b0",
+      "title": "Thiên Long đặt kế hoạch doanh thu 4.400 tỷ, mở rộng quốc tế",
+      "link": "https://vnexpress.net/thien-long-dat-ke-hoach-doanh-thu-4-400-ty-mo-rong-quoc-te-5065563.html",
+      "summary": "Sau kết quả kinh doanh tích cực năm 2025, Thiên Long lên kế hoạch doanh thu 4.400 tỷ đồng, tập trung mở rộng thị trường quốc tế, nâng cao giá trị sản phẩm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-22T04:40:00+07:00",
+      "fetched": "2026-04-22T14:20:09.370277+07:00"
+    },
+    {
       "id": "1c08b13348360a185642423fe4bf9d86",
       "title": "Ô tô Trung Quốc ồ ạt vào Việt Nam, xe giá rẻ từ Indonesia chiếm ưu thế",
       "link": "https://thanhnien.vn/o-to-trung-quoc-o-at-vao-viet-nam-xe-gia-re-tu-indonesia-chiem-uu-the-185260421145249697.htm",
@@ -291,6 +691,26 @@ window.newsData_2026_04_22 = {
       "category": "Tổng hợp",
       "published": "2026-04-22T04:38:00+07:00",
       "fetched": "2026-04-22T11:39:13.964686+07:00"
+    },
+    {
+      "id": "20dfd1a6efe549900a7c7735213f5f89",
+      "title": "ChatGPT cải thiện tạo chữ viết tiếng Việt trong ảnh",
+      "link": "https://vnexpress.net/chatgpt-cai-thien-tao-chu-viet-tieng-viet-trong-anh-5065463.html",
+      "summary": "ChatGPT được cập nhật mô hình tạo ảnh Images 2.0, cải thiện khả năng hiển thị chữ viết chính xác cho nhiều ngôn ngữ, trong đó có tiếng Việt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-22T04:35:27+07:00",
+      "fetched": "2026-04-22T14:20:12.106686+07:00"
+    },
+    {
+      "id": "719708fee23cfec2164b61526ec8af17",
+      "title": "Ứng viên Chủ tịch Fed không hứa giảm lãi suất với ông Trump",
+      "link": "https://vnexpress.net/ung-vien-chu-tich-fed-khong-hua-giam-lai-suat-voi-ong-trump-5065556.html",
+      "summary": "Kevin Warsh khẳng định không hứa với Tổng thống rằng sẽ giảm lãi suất, và chỉ làm những gì có lợi nhất cho nền kinh tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-22T04:34:31+07:00",
+      "fetched": "2026-04-22T14:20:09.368989+07:00"
     },
     {
       "id": "ab657b3b1f2b5d938ce7f71bf2a3cad8",
