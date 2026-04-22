@@ -1,7 +1,147 @@
 window.newsData_2026_04_22 = {
   "date": "2026-04-22",
-  "lastUpdated": "2026-04-22T22:04:24.627433+07:00",
+  "lastUpdated": "2026-04-22T23:49:31.215423+07:00",
   "articles": [
+    {
+      "id": "ef5a6a972e5a1b95eb9ece6ef1de1314",
+      "title": "Ukraine sẽ nhận khoản vay 106 tỉ USD từ EU sau khi Hungary bỏ quyền phủ quyết",
+      "link": "https://tuoitre.vn/ukraine-se-nhan-khoan-vay-106-ti-usd-tu-eu-sau-khi-hungary-bo-quyen-phu-quyet-20260422202014126.htm",
+      "summary": "Sau phiên họp của EU, Ukraine cuối cùng sẽ bắt đầu nhận khoản vay trị giá 90 tỉ euro (106 tỉ USD) từ khối này, sau khi Hungary dỡ bỏ quyền phủ quyết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T23:49:21.561783+07:00",
+      "fetched": "2026-04-22T23:49:21.561897+07:00"
+    },
+    {
+      "id": "fb853ac789a14a4de3e4366ccc567d1a",
+      "title": "Cha tham gia kháng chiến, con là ca sĩ nay hát ‘Việt Nam khúc kiêu hùng’",
+      "link": "https://tuoitre.vn/cha-tham-gia-chong-my-con-la-ca-si-nay-hat-viet-nam-khuc-kieu-hung-tu-hao-oi-viet-nam-20260422191944702.htm",
+      "summary": "Buổi họp báo của ca sĩ Anh Quân Idol giới thiệu MV Việt Nam khúc kiêu hùng chiều 22-4 xúc động khi bố anh lên sân khấu chia sẻ về một thời không thể nào quên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T23:49:21.561660+07:00",
+      "fetched": "2026-04-22T23:49:21.561771+07:00"
+    },
+    {
+      "id": "f6cbae4bdaec3084441aeed208f8aea4",
+      "title": "Trần Ngọc Vàng: Không có hình tượng nào để mất khi đóng phim 'Heo năm móng'",
+      "link": "https://tuoitre.vn/tran-ngoc-vang-khong-co-hinh-tuong-nao-de-mat-khi-dong-phim-heo-nam-mong-20260422195205883.htm",
+      "summary": "Lấy cảm hứng từ truyền thuyết ở miền Tây, phim Heo năm móng đưa yếu tố tín ngưỡng dân gian lên màn ảnh với cách kể tập trung vào không khí và tâm lý nhân vật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T23:49:21.561512+07:00",
+      "fetched": "2026-04-22T23:49:21.561647+07:00"
+    },
+    {
+      "id": "9d2a51a369580de7df8d22688f88e8be",
+      "title": "Tổng thống Lee Jae Myung: Việt - Hàn là quan hệ đặc biệt, thân thiết như anh em",
+      "link": "https://tuoitre.vn/tong-thong-lee-jae-myung-viet-han-la-quan-he-dac-biet-than-thiet-nhu-anh-em-20260422202423246.htm",
+      "summary": "Tổng thống Lee Jae Myung khẳng định Hàn Quốc sẽ là đối tác đáng tin cậy, đồng hành cùng Việt Nam trong việc thực hiện hai mục tiêu 100 năm vào năm 2030 và 2045.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T23:49:21.561386+07:00",
+      "fetched": "2026-04-22T23:49:21.561501+07:00"
+    },
+    {
+      "id": "7e97ae5f96b98d1f35613bd5d5d0bc84",
+      "title": "Ngân hàng Nhà nước: Đề nghị hưởng ứng, ủng hộ chương trình 'Ngày Tài chính số năm 2026'",
+      "link": "https://tuoitre.vn/ngan-hang-nha-nuoc-de-nghi-huong-ung-ung-ho-chuong-trinh-ngay-tai-chinh-so-nam-2026-20260422202409003.htm",
+      "summary": "Chương trình Ngày không tiền mặt năm 2026 đánh dấu bước chuyển mới khi được đổi tên thành Ngày Tài chính số với chủ đề: “Thanh toán thông minh thúc đẩy tài chính số”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T23:49:21.561261+07:00",
+      "fetched": "2026-04-22T23:49:21.561375+07:00"
+    },
+    {
+      "id": "75983e983d71e14e11278074319c8332",
+      "title": "Xe tải tông xe đầu kéo đang dừng ở làn khẩn cấp làm 1 người chết, Cục CSGT phát cảnh báo",
+      "link": "https://tuoitre.vn/xe-tai-tong-xe-dau-keo-dang-dung-o-lan-khan-cap-lam-1-nguoi-chet-cuc-csgt-phat-canh-bao-20260422205124189.htm",
+      "summary": "Ngày 22-4, Cục Cảnh sát giao thông đưa ra cảnh báo sau vụ tai nạn nghiêm trọng liên quan một ô tô dừng ở làn khẩn cấp trên đường cao tốc Pháp Vân - Cầu Giẽ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T23:49:21.561135+07:00",
+      "fetched": "2026-04-22T23:49:21.561250+07:00"
+    },
+    {
+      "id": "2f338257bb8ec1a8970abf106e8ad48f",
+      "title": "Hơn 2,5 triệu hộ kinh doanh, 235.800 doanh nghiệp có thể được miễn thuế",
+      "link": "https://tuoitre.vn/hon-2-5-trieu-ho-kinh-doanh-235-800-doanh-nghiep-co-the-duoc-mien-thue-20260422205807395.htm",
+      "summary": "Bộ Tài chính đề xuất nâng ngưỡng doanh thu miễn thuế với hộ, cá nhân kinh doanh lên 1 tỉ đồng/năm. Doanh nghiệp doanh thu đến 1 tỉ đồng cũng được miễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T23:49:21.561011+07:00",
+      "fetched": "2026-04-22T23:49:21.561124+07:00"
+    },
+    {
+      "id": "1c3f623527a30e71f4bbfea2f2970573",
+      "title": "Người phụ nữ chi 300 triệu đồng thuê 2 sát thủ ở Hải Phòng giết đối thủ, đã ra đầu thú",
+      "link": "https://tuoitre.vn/nguoi-phu-nu-chi-300-trieu-dong-thue-2-sat-thu-o-hai-phong-giet-doi-thu-da-ra-dau-thu-20260422211738634.htm",
+      "summary": "Sau nhiều năm lẩn trốn qua nhiều địa phương, thậm chí trốn sang nước ngoài, Trần Thị Xuân Hương - người thuê 2 sát thủ ở Hải Phòng giết đối thủ làm ăn ở Gia Lâm (Hà Nội) - đã ra đầu thú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T23:49:21.560881+07:00",
+      "fetched": "2026-04-22T23:49:21.560999+07:00"
+    },
+    {
+      "id": "a253cf8969db4a4a56e30780e85d37ab",
+      "title": "Cầu thủ Campuchia và Thái Lan nắm tay nhau sau trận đấu trên sân Hàng Đẫy",
+      "link": "https://tuoitre.vn/cau-thu-campuchia-va-thai-lan-nam-tay-nhau-sau-tran-dau-tren-san-hang-day-20260422211502369.htm",
+      "summary": "Các cầu thủ Campuchia và Thái Lan thi đấu cho 2 đội Svay Rieng và Bangkok United đã dành cho nhau những cử chỉ đẹp sau trận hòa 1-1 tối 22-4, trên sân Hàng Đẫy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T23:49:21.560758+07:00",
+      "fetched": "2026-04-22T23:49:21.560870+07:00"
+    },
+    {
+      "id": "49b7c065c35a6247308524e45de6ef3d",
+      "title": "Giáo viên ứng dụng AI trong dạy học nhưng học sinh không biết sử dụng công nghệ thì sao?",
+      "link": "https://tuoitre.vn/giao-vien-ung-dung-ai-trong-day-hoc-nhung-hoc-sinh-khong-biet-su-dung-cong-nghe-thi-sao-20260422210927232.htm",
+      "summary": "Đó là câu hỏi nhiều giáo viên thắc mắc tại chuyên đề \"Ứng dụng AI trong dạy học\" do cụm chuyên môn 3, TP.HCM tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T23:49:21.560630+07:00",
+      "fetched": "2026-04-22T23:49:21.560746+07:00"
+    },
+    {
+      "id": "7ff6e7015fe4a5554410f2f988dba0d9",
+      "title": "Thượng tướng Nguyễn Văn Gấu làm việc với Cục Điều tra hình sự Bộ Quốc phòng",
+      "link": "https://tuoitre.vn/thuong-tuong-nguyen-van-gau-lam-viec-voi-cuc-dieu-tra-hinh-su-bo-quoc-phong-20260422220549396.htm",
+      "summary": "Chiều 22-4, Thượng tướng Nguyễn Văn Gấu - Thứ trưởng Bộ Quốc phòng - đã làm việc với Cục Điều tra hình sự Bộ Quốc phòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T23:49:21.560476+07:00",
+      "fetched": "2026-04-22T23:49:21.560617+07:00"
+    },
+    {
+      "id": "f5435327fad33e0552f51d551dadb789",
+      "title": "Bộ Quốc phòng Thổ Nhĩ Kỳ sẽ cử đoàn và doanh nghiệp tham gia Triển lãm quốc phòng quốc tế Việt Nam",
+      "link": "https://tuoitre.vn/bo-quoc-phong-tho-nhi-ky-se-cu-doan-va-doanh-nghiep-tham-gia-trien-lam-quoc-phong-quoc-te-viet-nam-20260422222014964.htm",
+      "summary": "Khẳng định trên là của Thứ trưởng Bộ Quốc phòng Thổ Nhĩ Kỳ Musa Heybet trong buổi làm việc với Thượng tướng Nguyễn Trường Thắng - Thứ trưởng Bộ Quốc phòng Việt Nam tại Malaysia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T23:49:21.560346+07:00",
+      "fetched": "2026-04-22T23:49:21.560464+07:00"
+    },
+    {
+      "id": "f327ae755c0f60657f83980aa2dc3247",
+      "title": "Tổng giám đốc PGBank: Không dồn vốn vào bất động sản, chấp nhận biên lợi nhuận mỏng",
+      "link": "https://tuoitre.vn/dat-muc-tieu-loi-nhuan-2026-gan-gap-doi-so-voi-nam-2025-pgbank-co-tham-vong-20260422222856168.htm",
+      "summary": "Năm 2026, PGBank đặt mục tiêu lợi nhuận đạt 1.438 tỉ đồng, tăng gần 98% so với năm 2025; tăng trưởng tín dụng lên đến 31%, gấp đôi so với mức bình quân của toàn ngành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T23:49:21.560207+07:00",
+      "fetched": "2026-04-22T23:49:21.560334+07:00"
+    },
+    {
+      "id": "dcc169b89da9326ff6a9f2f558dce36d",
+      "title": "CNN: Mỹ sẽ cho Iran thời hạn để đưa cuộc đàm phán trở lại đúng hướng",
+      "link": "https://tuoitre.vn/cnn-my-se-cho-iran-thoi-han-de-dua-cuoc-dam-phan-tro-lai-dung-huong-20260422223253476.htm",
+      "summary": "Các nguồn tin của CNN tiết lộ ông Trump dự định cho phía Iran một khoảng thời gian giới hạn để đưa ra đề xuất thống nhất và tiếp tục đàm phán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T23:49:21.559977+07:00",
+      "fetched": "2026-04-22T23:49:21.560192+07:00"
+    },
     {
       "id": "00df2d93840d44426899cb1ef3a9c186",
       "title": "TP.HCM lên danh sách đầu tư hơn 80 dự án văn hóa, nhiều công trình ngàn tỉ",
@@ -433,6 +573,26 @@ window.newsData_2026_04_22 = {
       "fetched": "2026-04-22T17:57:29.673084+07:00"
     },
     {
+      "id": "b8eb02922d60f8aab47f3d0524056f5c",
+      "title": "HLV U.17 Việt Nam tiết lộ chiến thuật tuyệt vời đánh bại Úc, nói điều bất ngờ về Malaysia",
+      "link": "https://thanhnien.vn/hlv-u17-viet-nam-tiet-lo-chien-thuat-tuyet-voi-danh-bai-uc-noi-dieu-bat-ngo-ve-malaysia-185260422232709437.htm",
+      "summary": "Sau chiến thắng 2-1 trước U.17 Úc ở bán kết giải U.17 Đông Nam Á 2026, HLV trưởng Cristiano Roland bày tỏ niềm vui và sự hài lòng với màn trình diễn của các học trò, đồng thời nhấn mạnh U.17 Việt Nam cần duy trì sự tập trung cao độ cho trận chung kết gặp U.17 Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T16:35:00+07:00",
+      "fetched": "2026-04-22T23:49:20.374612+07:00"
+    },
+    {
+      "id": "f8aa507f2f378f020a439535ebe22be8",
+      "title": "U.17 Việt Nam ngược dòng hạ U.17 Úc, giành vé vào chung kết Đông Nam Á",
+      "link": "https://thanhnien.vn/u17-viet-nam-nguoc-dong-ha-u17-uc-gianh-ve-vao-chung-ket-dong-nam-a-185260422231948677.htm",
+      "summary": "U.17 Việt Nam thể hiện bản lĩnh khi lội ngược dòng đánh bại U.17 Úc 2-1, qua đó giành quyền vào chung kết U.17 Đông Nam Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T16:24:00+07:00",
+      "fetched": "2026-04-22T23:49:20.374782+07:00"
+    },
+    {
       "id": "8052d53eb43f346922916710331b6067",
       "title": "Mỹ chặn chuyến bay chở 500 triệu USD tiền mặt về Iraq để gây sức ép",
       "link": "https://tuoitre.vn/my-chan-chuyen-bay-cho-500-trieu-usd-tien-mat-ve-iraq-de-gay-suc-ep-2026042214303662.htm",
@@ -583,6 +743,136 @@ window.newsData_2026_04_22 = {
       "fetched": "2026-04-22T16:11:45.825352+07:00"
     },
     {
+      "id": "a8a51c357b2d31fa5d0315fe02f1c9b2",
+      "title": "Highlight U.17 Việt Nam 2-1 U.17 Úc: Quả cảm đến phút cuối",
+      "link": "https://thanhnien.vn/highlight-u17-viet-nam-2-1-u17-uc-qua-cam-den-phut-cuoi-185260422230928327.htm",
+      "summary": "Chiến thắng trước U.17 Úc không chỉ giúp U.17 Việt Nam giành vé vào chung kết, mà còn cho thấy sự tiến bộ rõ rệt về bản lĩnh thi đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T16:09:00+07:00",
+      "fetched": "2026-04-22T23:49:20.374937+07:00"
+    },
+    {
+      "id": "98b06a2ccb94cedb9afb0b06955599ff",
+      "title": "Doanh nghiệp và rủi ro hình sự",
+      "link": "https://vnexpress.net/doanh-nghiep-va-rui-ro-hinh-su-5065922.html",
+      "summary": "“Vậy là có cơ chế cho doanh nhân sửa sai rồi đúng không?”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T16:04:11+07:00",
+      "fetched": "2026-04-22T23:49:17.061001+07:00"
+    },
+    {
+      "id": "e916c198f7f6cae93bd8e718270839e4",
+      "title": "Đàm phán Mỹ - Iran có thể diễn ra trong 3 ngày tới",
+      "link": "https://vnexpress.net/dam-phan-my-iran-co-the-dien-ra-trong-3-ngay-toi-5065909.html",
+      "summary": "Tổng thống Trump cho rằng vòng đàm phán thứ hai giữa Mỹ và Iran có khả năng diễn ra trong 36-72 giờ tới tại Islamabad, sau khi ông gia hạn lệnh ngừng bắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T15:58:49+07:00",
+      "fetched": "2026-04-22T23:49:17.061240+07:00"
+    },
+    {
+      "id": "ae8b72e808ce3a99338713f5a06bcaf7",
+      "title": "Ông Trump: Đàm phán Mỹ - Iran 'có thể diễn ra trong 3 ngày tới'",
+      "link": "https://vnexpress.net/ong-trump-dam-phan-my-iran-co-the-dien-ra-trong-3-ngay-toi-5065909.html",
+      "summary": "Tổng thống Trump cho rằng \"rất có khả năng\" vòng đàm phán thứ hai giữa Mỹ và Iran sẽ diễn ra trong 36-72 giờ tới tại Islamabad, sau khi ông gia hạn lệnh ngừng bắn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-22T15:58:49+07:00",
+      "fetched": "2026-04-22T23:49:23.584866+07:00"
+    },
+    {
+      "id": "bfa31a8dda75a42ca5086fa6daf81a57",
+      "title": "Báo khu vực khen U.17 Việt Nam bản lĩnh thắng Úc, dự đoán màn tái đấu Malaysia cực hay",
+      "link": "https://thanhnien.vn/bao-khu-vuc-khen-u17-viet-nam-ban-linh-thang-uc-du-doan-man-tai-dau-malaysia-cuc-hay-185260422224901088.htm",
+      "summary": "Truyền thông Đông Nam Á đánh giá rất cao hành trình vào chung kết U.17 Đông Nam Á 2026 của U.17 Việt Nam. Màn ngược dòng trước U.17 Úc không chỉ là chiến thắng, mà còn cho thấy rõ bản lĩnh và sự trưởng thành của lứa cầu thủ trẻ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T15:57:00+07:00",
+      "fetched": "2026-04-22T23:49:20.375090+07:00"
+    },
+    {
+      "id": "5714fa691a6251ce648d476641a24f1b",
+      "title": "Khách quốc tế e ngại đến Mỹ xem World Cup 2026",
+      "link": "https://vnexpress.net/khach-quoc-te-e-ngai-den-my-xem-world-cup-2026-5065879.html",
+      "summary": "Thủ tục visa phức tạp, chi phí di chuyển đắt đỏ và các vấn đề về an ninh đang khiến nhiều người hâm mộ bóng đá cân nhắc bỏ qua kỳ World Cup tại Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T15:53:56+07:00",
+      "fetched": "2026-04-22T23:49:17.061423+07:00"
+    },
+    {
+      "id": "d8e70a15f1874d20e82387316715b32d",
+      "title": "Á hậu Khánh Như thi Miss International 2026",
+      "link": "https://vnexpress.net/a-hau-khanh-nhu-thi-miss-international-2026-5065917.html",
+      "summary": "Lê Phương Khánh Như, 22 tuổi, có khoảng nửa năm chuẩn bị để đại diện nhan sắc trong nước thi Hoa hậu Quốc tế 2026 ở Nhật Bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T15:47:12+07:00",
+      "fetched": "2026-04-22T23:49:17.061623+07:00"
+    },
+    {
+      "id": "07155539b6a0f3c16288854912ab7e2f",
+      "title": "Việt - Hàn hợp tác về công nghệ số, đổi mới sáng tạo và sở hữu trí tuệ",
+      "link": "https://vnexpress.net/viet-han-hop-tac-ve-cong-nghe-so-doi-moi-sang-tao-va-so-huu-tri-tue-5065912.html",
+      "summary": "Ba bản thỏa thuận về công nghệ số, đổi mới sáng tạo và sở hữu trí tuệ được Bộ trưởng Khoa học và Công nghệ Việt Nam và các đối tác Hàn Quốc trao chiều 22/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T15:43:44+07:00",
+      "fetched": "2026-04-22T23:49:17.061810+07:00"
+    },
+    {
+      "id": "07155539b6a0f3c16288854912ab7e2f",
+      "title": "Việt - Hàn hợp tác về công nghệ số, đổi mới sáng tạo và sở hữu trí tuệ",
+      "link": "https://vnexpress.net/viet-han-hop-tac-ve-cong-nghe-so-doi-moi-sang-tao-va-so-huu-tri-tue-5065912.html",
+      "summary": "Ba bản thỏa thuận về công nghệ số, đổi mới sáng tạo và sở hữu trí tuệ được Bộ trưởng Khoa học và Công nghệ Việt Nam và các đối tác Hàn Quốc trao chiều 22/4.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-22T15:43:44+07:00",
+      "fetched": "2026-04-22T23:49:29.370703+07:00"
+    },
+    {
+      "id": "a5552d5bea6b7ba348e6c8de41d168fa",
+      "title": "6 ôtô tông liên hoàn trên cầu Phú Mỹ, ùn tắc kéo dài",
+      "link": "https://vnexpress.net/6-oto-tong-lien-hoan-tren-cau-phu-my-un-tac-keo-dai-5065914.html",
+      "summary": "Ôtô Porsche chỗ cùng ba xe tải và hai xe đầu kéo va chạm liên hoàn, chắn ngang một làn cầu Phú Mỹ, khiến giao thông ùn tắc kéo dài, tối 22/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T15:14:43+07:00",
+      "fetched": "2026-04-22T23:49:17.061974+07:00"
+    },
+    {
+      "id": "0742ed14553dd54dd7b3707150e702df",
+      "title": "Biến Úc thành cựu vương, U.17 Việt Nam đứng trước cơ hội lịch sử giải U.17 Đông Nam Á",
+      "link": "https://thanhnien.vn/bien-uc-thanh-cuu-vuong-u17-viet-nam-dung-truoc-co-hoi-lich-su-giai-u17-dong-nam-a-2026-185260422220758069.htm",
+      "summary": "Đánh bại U.17 Úc để ghi tên vào trận chung kết, đội tuyển U.17 Việt Nam đứng trước cơ hội lịch sử vượt lên dẫn đầu trong bảng vàng giải U.17 Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T15:13:00+07:00",
+      "fetched": "2026-04-22T23:49:20.375240+07:00"
+    },
+    {
+      "id": "88eed7d16743b63c81d1dfc99beb9fba",
+      "title": "Lịch thi đấu chung kết U.17 Việt Nam - Malaysia mới nhất: Khi nào, xem trực tiếp ở đâu?",
+      "link": "https://thanhnien.vn/lich-thi-dau-chung-ket-u17-viet-nam-malaysia-moi-nhat-khi-nao-xem-truc-tiep-o-dau-185260422220532982.htm",
+      "summary": "Tại trận chung kết giải U.17 Đông Nam Á 2026 diễn ra vào ngày 24.4, U.17 Việt Nam sẽ có màn tái đấu với đội tuyển U.17 Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T15:06:00+07:00",
+      "fetched": "2026-04-22T23:49:20.375396+07:00"
+    },
+    {
+      "id": "a9a8574a202e58b6140173437e902a3f",
+      "title": "Ca sĩ Tố My đăng clip đính chính",
+      "link": "https://thanhnien.vn/ca-si-to-my-dang-clip-dinh-chinh-185260422203004262.htm",
+      "summary": "Tố My chia sẻ việc một số nhà sáng tạo nội dung đăng tải clip cô trình diễn trên sân khấu nhưng lại lồng ghép bản thu âm khiến khán giả hiểu lầm nữ ca sĩ đang hát nhép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T15:06:00+07:00",
+      "fetched": "2026-04-22T23:49:20.375573+07:00"
+    },
+    {
       "id": "541efcbe5a341dfa395194f3168f556a",
       "title": "Bản phối sắc xanh dịu dàng sánh đôi cùng đen cá tính",
       "link": "https://thanhnien.vn/thoi-trang-tre/ban-phoi-sac-xanh-diu-dang-sanh-doi-cung-den-ca-tinh-185260421001724343.htm",
@@ -613,6 +903,26 @@ window.newsData_2026_04_22 = {
       "fetched": "2026-04-22T22:04:16.749430+07:00"
     },
     {
+      "id": "bb46798dd875f42ed1a4f2eaa48a89b1",
+      "title": "Việt - Hàn nỗ lực đạt kim ngạch thương mại 150 tỷ USD",
+      "link": "https://vnexpress.net/viet-han-no-luc-dat-kim-ngach-thuong-mai-150-ty-usd-5065902.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng thống Hàn Quốc Lee Jae Myung hội đàm, trao đổi các biện pháp tăng cường hợp tác chiến lược và kinh tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:40:50+07:00",
+      "fetched": "2026-04-22T23:49:17.062128+07:00"
+    },
+    {
+      "id": "bb46798dd875f42ed1a4f2eaa48a89b1",
+      "title": "Việt - Hàn nỗ lực đạt kim ngạch thương mại 150 tỷ USD",
+      "link": "https://vnexpress.net/viet-han-no-luc-dat-kim-ngach-thuong-mai-150-ty-usd-5065902.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng thống Hàn Quốc Lee Jae Myung hội đàm, trao đổi các biện pháp tăng cường hợp tác chiến lược và kinh tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-22T14:40:50+07:00",
+      "fetched": "2026-04-22T23:49:23.585037+07:00"
+    },
+    {
       "id": "157a685cfc842335ead0b671a4c67de5",
       "title": "Dàn tuyển thủ trọng điểm thể thao Việt Nam được chăm sóc đặc biệt cho ASIAD 20",
       "link": "https://thanhnien.vn/dan-tuyen-thu-trong-diem-the-thao-viet-nam-duoc-cham-soc-dac-biet-cho-asiad-20-185260422204534647.htm",
@@ -631,6 +941,16 @@ window.newsData_2026_04_22 = {
       "category": "Thể thao",
       "published": "2026-04-22T14:32:10+07:00",
       "fetched": "2026-04-22T22:04:24.615798+07:00"
+    },
+    {
+      "id": "219f0df790d889d2007675b3f79bf156",
+      "title": "Tam Triều Dâng tạo sức hút với váy áo cắt xẻ",
+      "link": "https://vnexpress.net/tam-trieu-dang-tao-suc-hut-voi-vay-ao-cat-xe-5065780.html",
+      "summary": "Tam Triều Dâng - diễn viên \"Vì mẹ anh phán chia tay\" - theo đuổi mốt khoe nội y, áo yếm và corset ở tuổi 28.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:30:00+07:00",
+      "fetched": "2026-04-22T23:49:17.062448+07:00"
     },
     {
       "id": "cea9d18a7606db9739ae14382465c4d8",
@@ -783,6 +1103,16 @@ window.newsData_2026_04_22 = {
       "fetched": "2026-04-22T14:20:06.405530+07:00"
     },
     {
+      "id": "5b94ec25886ccef9ee5babb946c66395",
+      "title": "Người đàn bà 'thuê hai sát thủ giết người' ra đầu thú",
+      "link": "https://vnexpress.net/nguoi-dan-ba-thue-hai-sat-thu-giet-nguoi-ra-dau-thu-5065897.html",
+      "summary": "Trần Thị Xuân Hương ra đầu thú sau 6 năm lẩn trốn tính từ khi bỏ 300 triệu đồng thuê hai sát thủ giết người do mâu thuẫn trong làm ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:17:33+07:00",
+      "fetched": "2026-04-22T23:49:17.062630+07:00"
+    },
+    {
       "id": "5f5d9d00d926f07616e1061c85e85344",
       "title": "Vệ sinh điện thoại như thế nào cho đúng?",
       "link": "https://thanhnien.vn/ve-sinh-dien-thoai-nhu-the-nao-cho-dung-185260422104317127.htm",
@@ -831,6 +1161,16 @@ window.newsData_2026_04_22 = {
       "category": "Thế giới",
       "published": "2026-04-22T14:00:00+07:00",
       "fetched": "2026-04-22T22:04:19.552318+07:00"
+    },
+    {
+      "id": "be9acba3d029e069273aeea70d14f558",
+      "title": "Áp lực vì tuần nào cũng phải về nhà bố mẹ chồng hai, ba lần",
+      "link": "https://vnexpress.net/ap-luc-vi-tuan-nao-cung-phai-ve-nha-bo-me-chong-hai-ba-lan-5065892.html",
+      "summary": "Không khí mỗi lần về nhà chồng không được tự nhiên, tôi lúc nào cũng trong trạng thái phải giữ ý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:00:00+07:00",
+      "fetched": "2026-04-22T23:49:17.063096+07:00"
     },
     {
       "id": "ab6fe120d34c33a374e0ca41556cd842",
