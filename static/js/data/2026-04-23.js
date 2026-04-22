@@ -1,7 +1,107 @@
 window.newsData_2026_04_23 = {
   "date": "2026-04-23",
-  "lastUpdated": "2026-04-23T03:42:40.996582+07:00",
+  "lastUpdated": "2026-04-23T05:38:43.312773+07:00",
   "articles": [
+    {
+      "id": "819d5d6674c22efad9ddb44abe995177",
+      "title": "Thời tiết hôm nay 23-4: Bắc Bộ mưa to, Trung Bộ chiều mưa, Nam Bộ nắng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-23-4-bac-bo-mua-to-trung-bo-chieu-mua-nam-bo-nang-20260422165406471.htm",
+      "summary": "Hôm nay 23-4, thời tiết Bắc Bộ mưa to đến rất to, trời mát. Trung Bộ ngày nắng nhưng tối có mưa, Nam Bộ nắng nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T05:38:34.032261+07:00",
+      "fetched": "2026-04-23T05:38:34.032352+07:00"
+    },
+    {
+      "id": "03bbf18d2c013c305ab73814c156fcc5",
+      "title": "Đại tướng Nguyễn Trọng Nghĩa: ‘Không đọc sách, không có tôi ngày hôm nay’",
+      "link": "https://tuoitre.vn/dai-tuong-nguyen-trong-nghia-khong-doc-sach-khong-co-toi-ngay-hom-nay-20260422221445008.htm",
+      "summary": "Đại tướng Nguyễn Trọng Nghĩa - Chủ nhiệm Tổng cục Chính trị Quân đội Nhân dân Việt Nam - khẳng định nếu khi xưa không đọc sách thì không có ông ngày hôm nay, không có Đại tướng Nguyễn Trọng Nghĩa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T05:38:34.032144+07:00",
+      "fetched": "2026-04-23T05:38:34.032252+07:00"
+    },
+    {
+      "id": "fa68d830f06b320c4c91103065d14d52",
+      "title": "Chiếu miễn phí phim Địa đạo, mở màn đợt phim kỷ niệm các ngày lễ lớn",
+      "link": "https://tuoitre.vn/chieu-mien-phi-phim-dia-dao-mo-man-dot-phim-ky-niem-cac-ngay-le-lon-20260422101430194.htm",
+      "summary": "Phim Địa đạo: Mặt trời trong bóng tối được chọn chiếu mở màn đợt phim kỷ niệm các ngày lễ lớn 30-4, 1-5, 7-5, 19-5 năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T05:38:34.032043+07:00",
+      "fetched": "2026-04-23T05:38:34.032135+07:00"
+    },
+    {
+      "id": "c7dbda708ebdfcab21d3416aea46a421",
+      "title": "90 đội thi gói bánh chưng dâng Quốc Tổ Hùng Vương dịp giỗ Tổ",
+      "link": "https://tuoitre.vn/90-doi-thi-goi-banh-chung-dang-quoc-to-hung-vuong-dip-gio-to-20260422223224382.htm",
+      "summary": "Những chiếc bánh chưng ngon nhất từ hội thi gói, nấu bánh chưng sẽ được chọn dâng lên Quốc Tổ Hùng Vương dịp giỗ Tổ, thể hiện lòng tri ân và nhắc nhớ truyền thống 'uống nước nhớ nguồn'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T05:38:34.031943+07:00",
+      "fetched": "2026-04-23T05:38:34.032034+07:00"
+    },
+    {
+      "id": "7c59775ed979ac1c94811c1fdd9a47a4",
+      "title": "Không phải Luffy, Loki mới là đối thủ lớn nhất của Imu tại Elbaph trong One Piece",
+      "link": "https://tuoitre.vn/khong-phai-luffy-loki-moi-la-doi-thu-lon-nhat-cua-imu-tai-elbaph-trong-one-piece-20260422224415025.htm",
+      "summary": "Arc Elbaph của manga One Piece đang leo thang căng thẳng khi nhân vật bí ẩn Imu trực tiếp xuất hiện, mở ra trận chiến then chốt với hoàng tử Loki thay vì Luffy như nhiều fan dự đoán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T05:38:34.031844+07:00",
+      "fetched": "2026-04-23T05:38:34.031934+07:00"
+    },
+    {
+      "id": "732061f2904bd23a6fe960b275f1fb52",
+      "title": "Thời trang nghỉ dưỡng cảm hứng từ tủ đồ Jackie Kennedy",
+      "link": "https://tuoitre.vn/thoi-trang-nghi-duong-cam-hung-tu-tu-do-jackie-kennedy-20260422223315191.htm",
+      "summary": "Với sự hòa quyện giữa quá khứ và hiện tại, hãy xem những bản phối mùa hè dễ áp dụng này như chìa khóa để chạm đến nét thời trang tinh tế đặc trưng của Đệ nhất phu nhân Mỹ Jackie Kennedy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T05:38:34.031742+07:00",
+      "fetched": "2026-04-23T05:38:34.031835+07:00"
+    },
+    {
+      "id": "db975c74ce86f21cf181cd2501d8b618",
+      "title": "Arsenal mất ngôi đầu vào tay Man City sau hơn 200 ngày ngự trị",
+      "link": "https://tuoitre.vn/arsenal-mat-ngoi-dau-vao-tay-man-city-sau-hon-200-ngay-ngu-tri-20260423033901984.htm",
+      "summary": "Rạng sáng 23-4 (giờ Việt Nam), Man City đã thắng sát nút Burnley ở trận đấu sớm vòng 34 Premier League (Giải ngoại hạng Anh) và chính thức vượt mặt Arsenal trong cuộc đua vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T05:38:34.031637+07:00",
+      "fetched": "2026-04-23T05:38:34.031734+07:00"
+    },
+    {
+      "id": "c524063abf0c8e0cfa26e2f52575a5e8",
+      "title": "Ronaldo chơi tệ nhất đội, Al Nassr vẫn vào chung kết 'C2 châu Á'",
+      "link": "https://tuoitre.vn/ronaldo-choi-te-nhat-doi-al-nassr-van-vao-chung-ket-c2-chau-a-2026042304331674.htm",
+      "summary": "Dù Al Nassr thắng dễ Al Ahli ở bán kết AFC Champions League Two khuya ngày 22-4 (giờ Việt Nam), siêu sao Ronaldo lại có ngày thi đấu đáng quên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T05:38:34.031505+07:00",
+      "fetched": "2026-04-23T05:38:34.031627+07:00"
+    },
+    {
+      "id": "e8350a9db64bec4ee744906e4a39b53d",
+      "title": "Barca đẩy Real Madrid đến gần cảnh tay trắng",
+      "link": "https://tuoitre.vn/barca-day-real-madrid-den-gan-canh-tay-trang-2026042304280112.htm",
+      "summary": "Sáng 23-4 (giờ Việt Nam), Barca đã thắng Celta Vigo với tỉ số tối thiểu ở vòng 32 La Liga, qua đó duy trì cách biệt an toàn với Real Madrid trong cuộc đua vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T05:38:34.031379+07:00",
+      "fetched": "2026-04-23T05:38:34.031495+07:00"
+    },
+    {
+      "id": "4c449b4d1b2462e179f4d0e5c1e97f6d",
+      "title": "Ngưỡng doanh thu miễn thuế đối với hộ kinh doanh: Nên nâng lên mức 2 - 3 tỉ đồng",
+      "link": "https://tuoitre.vn/nguong-doanh-thu-mien-thue-doi-voi-ho-kinh-doanh-nen-nang-len-muc-2-3-ti-dong-20260422232155793.htm",
+      "summary": "Bộ Tài chính vừa đề xuất ngưỡng doanh thu miễn thuế đối với hộ kinh doanh 1 tỉ đồng/năm. Tuy nhiên, nhiều hộ kinh doanh và đại biểu Quốc hội đề nghị nâng lên mức 2 - 3 tỉ đồng/năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T05:38:34.031144+07:00",
+      "fetched": "2026-04-23T05:38:34.031366+07:00"
+    },
     {
       "id": "75983e983d71e14e11278074319c8332",
       "title": "Xe tải tông xe đầu kéo đang dừng ở làn khẩn cấp làm 1 người chết, Cục CSGT phát cảnh báo",
@@ -151,6 +251,196 @@ window.newsData_2026_04_23 = {
       "category": "Tổng hợp",
       "published": "2026-04-23T01:58:59.201210+07:00",
       "fetched": "2026-04-23T01:58:59.201431+07:00"
+    },
+    {
+      "id": "818f30690514a613461e7b77f7cf96e8",
+      "title": "Man City chiếm đỉnh bảng Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-city-chiem-dinh-bang-ngoai-hang-anh-5065945.html",
+      "summary": "Erling Haaland ghi bàn giúp Man City thắng chủ nhà Burnley 1-0 ở vòng 34 để chiếm đỉnh bảng Ngoại hạng Anh từ tay Arsenal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-22T22:33:06+07:00",
+      "fetched": "2026-04-23T05:38:43.308212+07:00"
+    },
+    {
+      "id": "0a4f0d1f481b0d31be207469ced5ba0a",
+      "title": "Ukraine nối lại đường ống dẫn dầu cho Hungary, Slovakia",
+      "link": "https://thanhnien.vn/ukraine-noi-lai-duong-ong-dan-dau-cho-hungary-slovakia-185260422210653468.htm",
+      "summary": "AFP hôm qua dẫn lời một quan chức của chính quyền Kyiv cho biết nước này đã nối lại hoạt động vận chuyển dầu Nga thông qua đường ống Druzhba đến Hungary và Slovakia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:33:00+07:00",
+      "fetched": "2026-04-23T05:38:32.266532+07:00"
+    },
+    {
+      "id": "0a9dc26bc742a91b4dc7c24ced5cecc0",
+      "title": "Anh trước bước đi lịch sử cấm thuốc lá vĩnh viễn",
+      "link": "https://thanhnien.vn/anh-truoc-buoc-di-lich-su-cam-thuoc-la-vinh-vien-185260422191021297.htm",
+      "summary": "Khi đạo luật thuốc lá và thuốc lá điện tử chính thức có hiệu lực vào tháng 1.2027, Anh sẽ cấm thuốc lá trọn đời đối với những người sinh từ ngày 1.1.2009.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:33:00+07:00",
+      "fetched": "2026-04-23T05:38:32.266699+07:00"
+    },
+    {
+      "id": "811b22b1c658df1cf999627f5c48f7b2",
+      "title": "Tiêu điểm quốc tế ngày 23.4: Nga đe dọa 'vành đai pháo đài' | Tàu sân bay UAV Trung Quốc ra biển",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-234-nga-de-doa-vanh-dai-phao-dai-tau-san-bay-uav-trung-quoc-ra-bien-185260422234720452.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 23.4.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:30:00+07:00",
+      "fetched": "2026-04-23T05:38:32.266832+07:00"
+    },
+    {
+      "id": "959f7dc512220bb1af671eeac53fcb7f",
+      "title": "Thủ tục mua đấu giá túi HERMES của bà Trương Mỹ Lan ra sao?",
+      "link": "https://thanhnien.vn/thu-tuc-mua-dau-gia-tui-hermes-cua-ba-truong-my-lan-ra-sao-185260422165636686.htm",
+      "summary": "Hai túi xách HERMES của bà Trương Mỹ Lan được định giá hơn 4 tỉ đồng để đưa ra tổ chức bán đấu giá. Vậy thủ tục mua đấu giá được thực hiện ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:26:00+07:00",
+      "fetched": "2026-04-23T05:38:32.266960+07:00"
+    },
+    {
+      "id": "610775731e2a8341fc48f1778ef5a894",
+      "title": "Bên trong tháp nước cổ nhất TP.HCM hơn 140 năm tuổi",
+      "link": "https://thanhnien.vn/ben-trong-thap-nuoc-co-nhat-tphcm-hon-140-nam-tuoi-185260421001639711.htm",
+      "summary": "Tháp nước cổ nhất TP.HCM, xây dựng từ năm 1886, hiện vẫn lưu giữ nhiều chi tiết kiến trúc và hệ thống vận hành bên trong, tái hiện dấu ấn Sài Gòn xưa giữa đô thị hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:25:00+07:00",
+      "fetched": "2026-04-23T05:38:32.267084+07:00"
+    },
+    {
+      "id": "b2b9419caa3c361d6b5d230078c1a7fa",
+      "title": "Tử vi ngày 23 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-23-thang-4-con-giap-nao-may-man-hom-nay-185260422165527204.htm",
+      "summary": "Tử vi ngày 23 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm đáng chú ý là khả năng đổi cách tiếp cận - cùng một vấn đề nhưng nếu nhìn theo hướng khác, bạn sẽ thấy lời giải đơn giản hơn. Tài lộc không phụ thuộc vào việc bạn cố làm thêm, mà nằm ở việc bạn có dám thay đổi cách làm hay kh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:15:00+07:00",
+      "fetched": "2026-04-23T05:38:32.267208+07:00"
+    },
+    {
+      "id": "a377f5f1cd5cb0c2f5970ce3e3097a58",
+      "title": "Trẻ từ 6 đến 14 tuổi đăng ký tài khoản định danh mức độ 2 thế nào?",
+      "link": "https://thanhnien.vn/tre-tu-6-den-14-tuoi-dang-ky-tai-khoan-dinh-danh-muc-do-2-the-nao-185260422160350615.htm",
+      "summary": "Sở hữu tài khoản định danh điện tử (VNeID) mức độ 2 đối với trẻ em từ 6 đến 14 tuổi giúp phụ huynh quản lý giấy tờ, thực hiện các thủ tục hành chính cho con một cách nhanh chóng, bảo mật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:12:00+07:00",
+      "fetched": "2026-04-23T05:38:32.267334+07:00"
+    },
+    {
+      "id": "f9a6b73c8479caa511164f8ffaadfae1",
+      "title": "Áp lực giải phóng mặt bằng cho đại công trường APEC Phú Quốc",
+      "link": "https://vnexpress.net/ap-luc-giai-phong-mat-bang-cho-dai-cong-truong-apec-phu-quoc-5065654.html",
+      "summary": "Hàng loạt dự án hạ tầng phục vụ APEC 2027 tại Phú Quốc vướng giải phóng mặt bằng, nhiều vị trí bị tái chiếm, thi công gián đoạn, nguy cơ chậm tiến độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:00:00+07:00",
+      "fetched": "2026-04-23T05:38:28.698000+07:00"
+    },
+    {
+      "id": "c074eb233d92d97adf1ad5df38816d45",
+      "title": "Tham vọng thay thế bộ binh bằng robot của Ukraine",
+      "link": "https://vnexpress.net/tham-vong-thay-the-bo-binh-bang-robot-cua-ukraine-5065457.html",
+      "summary": "Ukraine đang đẩy mạnh ứng dụng công nghệ chiến đấu bằng robot, với mục tiêu thay thế hàng trăm nghìn binh sĩ trên chiến trường trong cuộc đối đầu với Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:00:00+07:00",
+      "fetched": "2026-04-23T05:38:28.698162+07:00"
+    },
+    {
+      "id": "9e17c66b6273a910246bb5203e07c176",
+      "title": "Cảnh sát tung bẫy đinh chặn xe chạy trốn",
+      "link": "https://vnexpress.net/canh-sat-tung-bay-dinh-chan-xe-chay-tron-5065677.html",
+      "summary": "Một cảnh sát đứng sau dải phân cách và tung bẫy đinh ngay trước khi chiếc xe của nghi phạm chạy qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:00:00+07:00",
+      "fetched": "2026-04-23T05:38:28.698304+07:00"
+    },
+    {
+      "id": "8565d756c87a351bbe03e0b771339646",
+      "title": "Thách thức cho đối thoại Mỹ - Iran",
+      "link": "https://thanhnien.vn/thach-thuc-cho-doi-thoai-my-iran-185260422211057491.htm",
+      "summary": "Việc Mỹ phong tỏa các cảng của Iran trở thành vấn đề tranh cãi, trong khi các tàu hàng bị tấn công tại eo biển Hormuz làm phức tạp thêm nỗ lực đàm phán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:00:00+07:00",
+      "fetched": "2026-04-23T05:38:32.267453+07:00"
+    },
+    {
+      "id": "64d999b256d2af927a24ed6a5463b52f",
+      "title": "Lịch âm hôm nay: Ngày 23.4 được xem là ngày đẹp, vì sao?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-234-duoc-xem-la-ngay-dep-vi-sao-185260422134841033.htm",
+      "summary": "Theo lịch dương, lịch âm hôm nay 23.4 là ngày gì mà nhiều người quan tâm? Nhiều người Việt mong hôm nay gặp nhiều may mắn, vì sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:00:00+07:00",
+      "fetched": "2026-04-23T05:38:32.267572+07:00"
+    },
+    {
+      "id": "a0b0db6ef5db0f3626f0b18eaf8e3719",
+      "title": "Những lợi ích đáng kinh ngạc khi ăn chuối thường xuyên",
+      "link": "https://thanhnien.vn/nhung-loi-ich-dang-kinh-ngac-khi-an-chuoi-thuong-xuyen-185260421205417283.htm",
+      "summary": "Chuối là loại trái cây quen thuộc, sở hữu nguồn dinh dưỡng dồi dào, mang lại nhiều tác động tích cực cho sức khỏe nếu được tiêu thụ đúng cách. Theo Prevention, việc duy trì thói quen ăn một quả chuối mỗi ngày có thể giúp cải thiện hệ tiêu hóa, ổn định năng lượng và hỗ trợ hệ miễn dịch hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:00:00+07:00",
+      "fetched": "2026-04-23T05:38:32.267714+07:00"
+    },
+    {
+      "id": "c074eb233d92d97adf1ad5df38816d45",
+      "title": "Tham vọng thay thế bộ binh bằng robot của Ukraine",
+      "link": "https://vnexpress.net/tham-vong-thay-the-bo-binh-bang-robot-cua-ukraine-5065457.html",
+      "summary": "Ukraine đang đẩy mạnh ứng dụng công nghệ chiến đấu bằng robot, với mục tiêu thay thế hàng trăm nghìn binh sĩ trên chiến trường trong cuộc đối đầu với Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-22T22:00:00+07:00",
+      "fetched": "2026-04-23T05:38:36.148429+07:00"
+    },
+    {
+      "id": "a572cfa6033e4e4f9f1dee4dce3e0694",
+      "title": "Dự án thủy điện tích năng Đơn Dương: Vì sao chưa thể triển khai?",
+      "link": "https://thanhnien.vn/du-an-thuy-dien-tich-nang-don-duong-vi-sao-chua-the-trien-khai-185260422161651698.htm",
+      "summary": "Dự án thủy điện tích năng Đơn Dương tại Lâm Đồng đã hoàn tất bước nghiên cứu tiền khả thi, song hiện vẫn 'đứng chờ' do chưa thống nhất quy mô công suất giữa quy hoạch và đề xuất của Tập đoàn Điện lực Việt Nam (EVN).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T21:31:00+07:00",
+      "fetched": "2026-04-23T05:38:32.267838+07:00"
+    },
+    {
+      "id": "7841b0db6ee5536d3c43cf69eb5208c1",
+      "title": "Tình hình Iran, Trung Đông mới nhất ngày 23.4",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-ngay-234-185260422221533084.htm",
+      "summary": "Mọi sự chú ý đang tập trung vào những động thái tiếp theo của Mỹ và Iran khi lệnh ngừng bắn thì mong manh, tình hình eo biển Hormuz tiếp tục căng thẳng, còn triển vọng đàm phán vẫn mịt mờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T21:30:00+07:00",
+      "fetched": "2026-04-23T05:38:32.267959+07:00"
+    },
+    {
+      "id": "f8429fbf5e6c521c6661ba1688f37c28",
+      "title": "Chiến sự Ukraine ngày 1.519: Nga nói Ukraine thử vũ khí mới, Kyiv 'nhắc khéo' ông Trump",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1519-nga-noi-ukraine-thu-vu-khi-moi-kyiv-nhac-kheo-ong-trump-185260422220421368.htm",
+      "summary": "Nga cho rằng phương Tây cung cấp vũ khí mới cho Ukraine để thử nghiệm trong cuộc xung đột, trong khi Kyiv muốn Tổng thống Mỹ Donald Trump lưu ý vấn đề lãnh thổ trong đàm phán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T21:29:00+07:00",
+      "fetched": "2026-04-23T05:38:32.268074+07:00"
+    },
+    {
+      "id": "fea7863c1d0546271640e08d87332946",
+      "title": "Ăn hôm trước, hôm sau đau bụng: Cảnh báo thời gian ủ bệnh ngộ độc thực phẩm",
+      "link": "https://thanhnien.vn/an-hom-truoc-hom-sau-dau-bung-canh-bao-thoi-gian-u-benh-ngo-doc-thuc-pham-185260422161818069.htm",
+      "summary": "Sau vụ ngộ độc thực phẩm, nhiều phụ huynh thắc mắc vì sao học sinh ăn hôm trước nhưng hôm sau mới có triệu chứng. Chuyên gia cho biết đây là diễn tiến bình thường, do thời gian ủ bệnh của vi khuẩn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T21:18:00+07:00",
+      "fetched": "2026-04-23T05:38:32.268194+07:00"
     },
     {
       "id": "8bf630bb950be20323ca49849656bed5",
