@@ -1,7 +1,27 @@
 window.newsData_2026_04_24 = {
   "date": "2026-04-24",
-  "lastUpdated": "2026-04-24T00:09:53.103408+07:00",
+  "lastUpdated": "2026-04-24T01:55:51.189544+07:00",
   "articles": [
+    {
+      "id": "ef37dd689bc1c91ae847bec22a062876",
+      "title": "Phở đã trở thành món ăn quốc dân của cả Việt Nam và Hàn Quốc",
+      "link": "https://tuoitre.vn/pho-da-tro-thanh-mon-an-quoc-dan-cua-ca-viet-nam-va-han-quoc-20260423235239079.htm",
+      "summary": "Tổng thống Hàn Quốc Lee Jae Myung lấy ví dụ về tình hữu nghị giữa hai nước như việc nhóm nhạc nữ BlackPink biểu diễn tại Hà Nội, phở của Việt Nam đã trở thành món ăn quốc dân của cả hai nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T01:55:45.386088+07:00",
+      "fetched": "2026-04-24T01:55:45.386222+07:00"
+    },
+    {
+      "id": "8d3244af5e890dc090bb9c3bda0a31c7",
+      "title": "Hà Nội miễn phí vé đi xe buýt, tàu metro trong dịp Giỗ Tổ Hùng Vương và nghỉ lễ 30-4",
+      "link": "https://tuoitre.vn/ha-noi-mien-phi-ve-di-xe-buyt-tau-metro-trong-dip-gio-to-hung-vuong-va-nghi-le-30-4-2026042323365167.htm",
+      "summary": "Hà Nội sẽ miễn tiền vé sử dụng xe buýt, đường sắt đô thị có trợ giá cho người dân và du khách trong dịp nghỉ lễ Giỗ Tổ Hùng Vương và lễ 30-4, 1-5 theo đề xuất của Sở Xây dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T01:55:45.385806+07:00",
+      "fetched": "2026-04-24T01:55:45.386072+07:00"
+    },
     {
       "id": "f041e04b0e4cffbb6cc61641bafbb8c0",
       "title": "Lần đầu Cẩm Ly và Hòa Minzy song ca, 'Người Việt mình thương nhau' gây chú ý",
@@ -151,6 +171,206 @@ window.newsData_2026_04_24 = {
       "category": "Tổng hợp",
       "published": "2026-04-24T00:09:43.867269+07:00",
       "fetched": "2026-04-24T00:09:43.867505+07:00"
+    },
+    {
+      "id": "62d3012568095801ae4542e2d94e9f66",
+      "title": "Tổng thống Hàn Quốc và phu nhân bắt tay người dân ở Hồ Gươm",
+      "link": "https://vnexpress.net/tong-thong-han-quoc-va-phu-nhan-bat-tay-nguoi-dan-o-ho-guom-5066444.html",
+      "summary": "Tổng thống Hàn Quốc Lee Jae Myung cùng phu nhân dạo quanh Hồ Gươm, bắt tay và vẫy chào người dân Hà Nội, tối 23/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:24:22+07:00",
+      "fetched": "2026-04-24T01:55:41.089469+07:00"
+    },
+    {
+      "id": "b67771ed49db04763536e850af1fe513",
+      "title": "Dấu hiệu cho thấy cơ thể bạn già nhanh hơn tuổi",
+      "link": "https://vnexpress.net/dau-hieu-cho-thay-co-the-ban-gia-nhanh-hon-tuoi-5064741.html",
+      "summary": "Lão hóa nhanh hơn tuổi thật biểu hiện qua các dấu hiệu như da xuất hiện nếp nhăn, đốm đồi mồi, rụng tóc, tăng mỡ bụng và đau nhức khớp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:03:00+07:00",
+      "fetched": "2026-04-24T01:55:41.089650+07:00"
+    },
+    {
+      "id": "fa9e75c4d7a16cc9a848256f86d378da",
+      "title": "Giải mã 'cỗ máy' đưa Changi thành sân bay tốt nhất thế giới",
+      "link": "https://vnexpress.net/giai-ma-co-may-dua-changi-thanh-san-bay-tot-nhat-the-gioi-5066330.html",
+      "summary": "Sân bay Changi duy trì vị thế dẫn đầu nhờ hệ thống vận hành ưu tiên tính hiệu quả và khả năng dự báo chính xác mọi tình huống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T17:14:31+07:00",
+      "fetched": "2026-04-24T01:55:41.089822+07:00"
+    },
+    {
+      "id": "1927008a00334f4462cb329068778d9a",
+      "title": "Ăn uống lành mạnh vẫn tăng cân: Những sai lầm ít ai ngờ",
+      "link": "https://thanhnien.vn/an-uong-lanh-manh-van-tang-can-nhung-sai-lam-it-ai-ngo-185260420200712948.htm",
+      "summary": "Trên thực tế, có những người ăn nhiều rau củ, trái cây, ưu tiên thực phẩm lành mạnh nhưng cân nặng vẫn tăng. Thậm chí, đây là tình huống khá phổ biến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T17:11:00+07:00",
+      "fetched": "2026-04-24T01:55:44.400190+07:00"
+    },
+    {
+      "id": "01fb159e07ba490cc8dca667d418d118",
+      "title": "7 bệnh có thể khiến nam giới mất khả năng làm cha",
+      "link": "https://vnexpress.net/7-benh-co-the-khien-nam-gioi-mat-kha-nang-lam-cha-5065124.html",
+      "summary": "Giãn tĩnh mạch thừng tinh, viêm nhiễm đường sinh dục... có thể khiến nam giới vô sinh, song hoàn toàn có thể xử trí bảo tồn chức năng sinh sản nếu phát hiện sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T17:03:00+07:00",
+      "fetched": "2026-04-24T01:55:41.090018+07:00"
+    },
+    {
+      "id": "22b725eddac2e800346eb69ec614e4d6",
+      "title": "Bốn con giáp kiếm tiền 'mát tay' giai đoạn cuối tháng 4",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-bon-con-giap-kiem-tien-mat-tay-giai-doan-cuoi-thang-4-5066250.html",
+      "summary": "Đây không chỉ là thời điểm để tận hưởng thành quả mà còn là cơ hội để đặt nền móng cho những bước tiến dài hơi hơn trong tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T17:02:00+07:00",
+      "fetched": "2026-04-24T01:55:41.090183+07:00"
+    },
+    {
+      "id": "a38982182bb69e46d76099f645513b1f",
+      "title": "Thí sinh đăng ký thi tốt nghiệp THPT từ hôm nay",
+      "link": "https://vnexpress.net/lich-va-huong-dan-dang-ky-thi-tot-nghiep-thpt-nam-2026-cac-buoc-chi-tiet-nhat-5066107.html",
+      "summary": "Học sinh lớp 12 và thí sinh tự do có 12 ngày để đăng ký thi tốt nghiệp THPT, từ 24/4 đến 17h ngày 5/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T17:02:00+07:00",
+      "fetched": "2026-04-24T01:55:41.090351+07:00"
+    },
+    {
+      "id": "5877e434837e14c7fcaec0868711d655",
+      "title": "Nữ tù nhân dụ dỗ quản giáo, lôi kéo bạn tù giúp vượt ngục",
+      "link": "https://vnexpress.net/nu-tu-nhan-du-do-quan-giao-loi-keo-ban-tu-giup-vuot-nguc-5066376.html",
+      "summary": "Bị kết án 110 năm tù, Sarah Jo Pender lôi kéo quản giáo bằng tình dục và hối lộ, đồng thời thuyết phục các bạn tù tin rằng mình bị oan để được hỗ trợ đưa khỏi trại giam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T17:00:00+07:00",
+      "fetched": "2026-04-24T01:55:41.090513+07:00"
+    },
+    {
+      "id": "77985538595af356a3107052e457c25e",
+      "title": "Người bắn chết anh họ vì mâu thuẫn đất đai bị phạt 22 năm tù",
+      "link": "https://vnexpress.net/nguoi-ban-chet-anh-ho-vi-mau-thuan-dat-dai-bi-phat-22-nam-tu-5066370.html",
+      "summary": "Hồ Trung Nga, 63 tuổi, phát hiện anh họ (bị câm điếc) đắp bờ ranh đất tranh chấp trước đó nên ngăn cản, dùng súng hơi bắn nạn nhân tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T17:00:00+07:00",
+      "fetched": "2026-04-24T01:55:41.090669+07:00"
+    },
+    {
+      "id": "430a000970f3fdc209f82ae8cab468c5",
+      "title": "Chung cư 'cắt lỗ' 80 triệu một m2 khiến tôi chết đứng",
+      "link": "https://vnexpress.net/gia-chung-cu-ha-noi-gia-chung-cu-tp-hcm-chung-cu-cat-lo-80-trieu-mot-m2-khien-toi-chet-dung-5066312.html",
+      "summary": "Căn hộ ở khu vực ngoại thành, 'khỉ ho cò gáy', nhưng người bán vẫn hét giá gần 80 triệu đồng mỗi m2 dù mang tiếng cắt lỗ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T17:00:00+07:00",
+      "fetched": "2026-04-24T01:55:41.090826+07:00"
+    },
+    {
+      "id": "b43c2ff981caf05acba35d50ba79712a",
+      "title": "Thuế: ngưỡng nào mới là ngưỡng cuối?",
+      "link": "https://vnexpress.net/thue-nguong-nao-moi-la-nguong-cuoi-5066234.html",
+      "summary": "Sau bốn thập kỷ, chúng ta vẫn miệt mài tranh luận về hộ kinh doanh, về địa vị pháp lý cho họ, về sắc thuế và cách tính thuế với khu vực đang đóng góp tới 32% GDP này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T17:00:00+07:00",
+      "fetched": "2026-04-24T01:55:41.091011+07:00"
+    },
+    {
+      "id": "d17a7e8d65f0539baa405882cb89396a",
+      "title": "TP HCM sẽ mở 13 tuyến buýt kết nối sân bay Long Thành",
+      "link": "https://vnexpress.net/tp-hcm-se-mo-13-tuyen-buyt-ket-noi-san-bay-long-thanh-5066209.html",
+      "summary": "TP HCM dự kiến tổ chức 13 tuyến buýt mới kết nối trực tiếp tới Long Thành, định hướng vận hành theo mô hình buýt sân bay chất lượng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T17:00:00+07:00",
+      "fetched": "2026-04-24T01:55:41.091118+07:00"
+    },
+    {
+      "id": "4294c277eae491ad128f4fa3c33a10dd",
+      "title": "Vợ đặt idol lên trên chồng con",
+      "link": "https://vnexpress.net/vo-dat-idol-len-tren-chong-con-5066192.html",
+      "summary": "Mỗi lần đến mùa sự kiện, tôi lại cảm thấy ngột ngạt, bức bối đến mức chỉ muốn ôm con trai rời đi thật xa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T17:00:00+07:00",
+      "fetched": "2026-04-24T01:55:41.091289+07:00"
+    },
+    {
+      "id": "f4b61453193e9b6331ba64bd561cb15d",
+      "title": "Loài cá tự nhân bản 100.000 năm gồm toàn con cái",
+      "link": "https://vnexpress.net/loai-ca-tu-nhan-ban-100-000-nam-gom-toan-con-cai-5065941.html",
+      "summary": "Cá molly Amazon tồn tại trong thời gian dài dù chỉ sinh sản vô tính nhờ cơ chế \"dọn dẹp\" gene, loại bỏ hoặc sửa chữa đột biến có hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T17:00:00+07:00",
+      "fetched": "2026-04-24T01:55:41.091458+07:00"
+    },
+    {
+      "id": "6285d696907a4a482b5b87ca5e780b67",
+      "title": "Nhà 160 m2 'cắt bớt' sàn tầng trên để kết nối gia đình",
+      "link": "https://vnexpress.net/nha-160-m2-cat-bot-san-tang-tren-de-ket-noi-gia-dinh-5065681.html",
+      "summary": "Ngôi nhà ở Khánh Hòa lược bỏ một phần sàn tầng hai tạo khoảng thông tầng kết nối các thế hệ, đồng thời dùng bếp làm trung tâm sinh hoạt thay phòng khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T17:00:00+07:00",
+      "fetched": "2026-04-24T01:55:41.091612+07:00"
+    },
+    {
+      "id": "73e2ef555e67a26d0686dfc1b53ac020",
+      "title": "Quang Minh: 'Tôi và bạn gái không cần đám cưới'",
+      "link": "https://vnexpress.net/quang-minh-toi-va-ban-gai-khong-can-dam-cuoi-5062931.html",
+      "summary": "Diễn viên Quang Minh, 67 tuổi, cho biết anh và Tăng Khánh Chi, 30 tuổi, đã đăng ký kết hôn, không làm đám cưới vì không thích ồn ào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T17:00:00+07:00",
+      "fetched": "2026-04-24T01:55:41.091773+07:00"
+    },
+    {
+      "id": "f4b61453193e9b6331ba64bd561cb15d",
+      "title": "Loài cá tự nhân bản 100.000 năm gồm toàn con cái",
+      "link": "https://vnexpress.net/loai-ca-tu-nhan-ban-100-000-nam-gom-toan-con-cai-5065941.html",
+      "summary": "Cá molly Amazon tồn tại trong thời gian dài dù chỉ sinh sản vô tính nhờ cơ chế \"dọn dẹp\" gene, loại bỏ hoặc sửa chữa đột biến có hại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-23T17:00:00+07:00",
+      "fetched": "2026-04-24T01:55:50.139327+07:00"
+    },
+    {
+      "id": "e25d911a98f8c86abbc6edd8b06588b2",
+      "title": "Italy bị 'xúc phạm' bởi đề xuất thay Iran dự World Cup 2026",
+      "link": "https://vnexpress.net/italy-bi-xuc-pham-boi-de-xuat-thay-iran-du-world-cup-2026-5066405.html",
+      "summary": "Các quan chức thể thao Italy khẳng định đội tuyển nhà phải giành vé bằng thành tích trên sân cỏ, và xem ý tưởng thay thế Iran dự World Cup 2026 là không phù hợp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-23T17:00:00+07:00",
+      "fetched": "2026-04-24T01:55:51.184302+07:00"
+    },
+    {
+      "id": "abe2ec2cf9f2e46bbc7d23db95b54681",
+      "title": "Sawe - từ 25 lần thử doping đến tham vọng kỷ lục thế giới",
+      "link": "https://vnexpress.net/sawe-tu-25-lan-thu-doping-den-tham-vong-ky-luc-the-gioi-5066397.html",
+      "summary": "Chủ động thực hiện 25 lần kiểm tra doping chỉ trong hai tháng, runner Kenya Sabastian Sawe muốn chứng minh anh có thể đạt đỉnh cao mà không cần chất cấm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-23T17:00:00+07:00",
+      "fetched": "2026-04-24T01:55:51.184478+07:00"
+    },
+    {
+      "id": "043e21238b3cd240ab36c7f3e24cd7fd",
+      "title": "Neville: 'Arsenal hưởng lợi từ chiến thắng tối thiểu của Man City'",
+      "link": "https://vnexpress.net/neville-arsenal-huong-loi-tu-chien-thang-toi-thieu-cua-man-city-5066048.html",
+      "summary": "Hai cựu danh thủ Gary Neville và Paul Merson cho rằng việc Man City chỉ thắng Burnley 1-0 có thể trở thành bất lợi, trong bối cảnh cuộc đua vô địch Ngoại hạng Anh có thể được định đoạt bằng hiệu số.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-23T17:00:00+07:00",
+      "fetched": "2026-04-24T01:55:51.184644+07:00"
     },
     {
       "id": "28fa5ef1380d17cf07b9769ae1972aeb",
