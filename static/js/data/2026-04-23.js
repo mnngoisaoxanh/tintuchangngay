@@ -1,7 +1,157 @@
 window.newsData_2026_04_23 = {
   "date": "2026-04-23",
-  "lastUpdated": "2026-04-23T11:44:05.752217+07:00",
+  "lastUpdated": "2026-04-23T14:22:30.499825+07:00",
   "articles": [
+    {
+      "id": "6a1a4d289ee018c34b1b40043959def0",
+      "title": "Thanh Nam mê ca vọng cổ hài của chú Bảy Viễn Châu",
+      "link": "https://tuoitre.vn/thanh-nam-me-ca-vong-co-hai-cua-chu-bay-vien-chau-20260423113330477.htm",
+      "summary": "Tối 26-4, trong chương trình Vầng trăng cổ nhạc do Đài Phát thanh - Truyền hình TP.HCM thực hiện, NSND Thanh Nam sẽ tham gia với bài ca cổ Tàu về quê hương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.011813+07:00",
+      "fetched": "2026-04-23T14:22:22.011935+07:00"
+    },
+    {
+      "id": "9dc5cb71c3f9ea4039d500a1bc3e59db",
+      "title": "Ban nhạc dân tộc Việt được cộng đồng doanh nhân Hàn Quốc vinh danh",
+      "link": "https://tuoitre.vn/ban-nhac-dan-toc-viet-duoc-cong-dong-doanh-nhan-han-quoc-vinh-danh-20260423104213551.htm",
+      "summary": "Chào Band, một ban nhạc chuyên sử dụng các dụng cụ âm nhạc dân tộc vừa được vinh danh bởi cộng đồng doanh nhân Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.011646+07:00",
+      "fetched": "2026-04-23T14:22:22.011799+07:00"
+    },
+    {
+      "id": "8b50c5ae639163a194dda35273fbfa7c",
+      "title": "Bảo hiểm nhân thọ Techcom Life triển khai hành trình 'Sống trọn vẹn mỗi ngày'",
+      "link": "https://tuoitre.vn/bao-hiem-nhan-tho-techcom-life-trien-khai-hanh-trinh-song-tron-ven-moi-ngay-20260423113252304.htm",
+      "summary": "Thông qua hành trình 'Sống trọn vẹn mỗi ngày', Techcom Life mang tới mô hình tích hợp liền mạch công nghệ AI, tư vấn y khoa và lập kế hoạch tài chính, đặt sức khỏe cá nhân làm điểm khởi đầu cho các quyết định tài chính và bảo vệ dài hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.011521+07:00",
+      "fetched": "2026-04-23T14:22:22.011634+07:00"
+    },
+    {
+      "id": "2c4f3850a73f98f4ad433b567590f816",
+      "title": "Đắk Lắk 'chặt mắt xích' đường dây ma túy từ Lào vận chuyển về Việt Nam",
+      "link": "https://tuoitre.vn/dak-lak-chat-mac-xich-duong-day-ma-tuy-tu-lao-van-chuyen-ve-viet-nam-20260423111831989.htm",
+      "summary": "Chủ tịch UBND tỉnh Đắk Lắk vừa có thư khen, biểu dương và khen thưởng đột xuất các lực lượng tham gia phá án trong vụ triệt phá đường dây vận chuyển, mua bán trái phép chất ma túy quy mô lớn trên địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.011395+07:00",
+      "fetched": "2026-04-23T14:22:22.011510+07:00"
+    },
+    {
+      "id": "bacd7b14dd6f885d233cc6e485b670c6",
+      "title": "Đề xuất tăng thuế với xe điện từ 2031: Đại biểu lo thị trường đóng băng khi giá tăng mạnh",
+      "link": "https://tuoitre.vn/de-xuat-tang-thue-voi-xe-dien-tu-2031-dai-bieu-lo-thi-truong-dong-bang-khi-gia-tang-manh-20260423111529846.htm",
+      "summary": "Ngày 23-4, Quốc hội thảo luận về dự án sửa đổi các luật về thuế, bao gồm Luật Thuế thu nhập cá nhân, Luật Thuế giá trị gia tăng, Luật Thuế thu nhập doanh nghiệp và Luật Thuế tiêu thụ đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.011263+07:00",
+      "fetched": "2026-04-23T14:22:22.011383+07:00"
+    },
+    {
+      "id": "1cce0aa5048c3a959cb83b30bd431838",
+      "title": "'Chàng rể Việt' Jung Il Woo check-in báo Hà Nội Mới, ăn phở Bát Đàn",
+      "link": "https://tuoitre.vn/chang-re-viet-jung-il-woo-check-in-bao-ha-noi-moi-an-pho-bat-dan-20260423114123427.htm",
+      "summary": "Người hâm mộ Việt thích thú khi thấy trang Instagram của tài tử Hàn Quốc Jung Il Woo cập nhật những hình ảnh mới nhất trong chuyến đi đến Hà Nội ngày 22-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.011128+07:00",
+      "fetched": "2026-04-23T14:22:22.011252+07:00"
+    },
+    {
+      "id": "aed69b063f244bed79f26d380d153030",
+      "title": "Cần Thơ biệt phái phó giám đốc sở, bổ nhiệm giám đốc ‘siêu trung tâm’ sau hợp nhất",
+      "link": "https://tuoitre.vn/can-tho-biet-phai-pho-giam-doc-so-bo-nhiem-giam-doc-sieu-trung-tam-sau-hop-nhat-20260423111604104.htm",
+      "summary": "Cần Thơ biệt phái thêm 1 phó giám đốc Sở Tài chính, đồng thời bổ nhiệm giám đốc một 'siêu trung tâm' được thành lập sau hợp nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.011000+07:00",
+      "fetched": "2026-04-23T14:22:22.011116+07:00"
+    },
+    {
+      "id": "2ab7cafff6ed27aa22cfb6bcb8235f3d",
+      "title": "Đà Nẵng: Cảnh sát ‘giải cứu’ du khách nước ngoài nặng 300kg mắc kẹt trong phòng vệ sinh",
+      "link": "https://tuoitre.vn/da-nang-canh-sat-giai-cuu-du-khach-nuoc-ngoai-nang-300kg-mac-ket-trong-phong-ve-sinh-20260423114513953.htm",
+      "summary": "Lực lượng chức năng tại Đà Nẵng đã ‘giải cứu’ một nam du khách nước ngoài có thể trạng đặc biệt, nặng khoảng 300kg bị mắc kẹt trong phòng vệ sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.010866+07:00",
+      "fetched": "2026-04-23T14:22:22.010988+07:00"
+    },
+    {
+      "id": "bf26201762033d8ee759cbc21a642258",
+      "title": "Tủ đồ toàn hàng hiệu của tiểu thư tài phiệt IU trong Perfect Crown",
+      "link": "https://tuoitre.vn/tu-do-toan-hang-hieu-cua-tieu-thu-tai-phiet-iu-trong-perfect-crown-20260423115107951.htm",
+      "summary": "Hóa thân thành nữ tài phiệt trong Perfect Crown, IU rũ bỏ vẻ đẹp mong manh thường thấy để khoác lên mình những thiết kế quyền lực, sắc sảo, phản ánh tham vọng mãnh liệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.010690+07:00",
+      "fetched": "2026-04-23T14:22:22.010851+07:00"
+    },
+    {
+      "id": "401a6969e8363fd5a6fa18df7003bd1b",
+      "title": "Chuông vàng vọng cổ Lê Hoàng Nghi và vai diễn lớn trong Đế đô sóng cả",
+      "link": "https://tuoitre.vn/chuong-vang-vong-co-le-hoang-nghi-va-vai-dien-lon-trong-de-do-song-ca-20260423101722909.htm",
+      "summary": "Chuông vàng vọng cổ năm 2024 Lê Hoàng Nghi vừa có vai diễn lớn trong vở cải lương Đế đô sóng cả. Đây là vở diễn của chuỗi chương trình Ngân mãi chuông vàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.010563+07:00",
+      "fetched": "2026-04-23T14:22:22.010679+07:00"
+    },
+    {
+      "id": "2d3520ddc05d450e4fc35adbd41afded",
+      "title": "Vì sao Cục Hàng không tiếp tục đề xuất phụ thu nhiên liệu với giá vé máy bay?",
+      "link": "https://tuoitre.vn/vi-sao-cuc-hang-khong-tiep-tuc-de-xuat-phu-thu-nhien-lieu-voi-gia-ve-may-bay-20260423114914802.htm",
+      "summary": "Cục Hàng không Việt Nam tiếp tục đề xuất áp dụng cơ chế phụ thu nhiên liệu đối với giá vé máy bay nội địa hạng phổ thông cơ bản do giá nhiên liệu Jet A1 tăng mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.010435+07:00",
+      "fetched": "2026-04-23T14:22:22.010551+07:00"
+    },
+    {
+      "id": "8b0a8ca4418215825d936bc48fb2c04c",
+      "title": "Hà Nội sẽ lắp camera tự động nhận diện xe đạt chuẩn ra vào vùng phát thải thấp",
+      "link": "https://tuoitre.vn/ha-noi-se-lap-camera-tu-dong-nhan-dien-xe-dat-chuan-ra-vao-vung-phat-thai-thap-2026042311440637.htm",
+      "summary": "UBND TP Hà Nội vừa có dự thảo tờ trình về việc dự kiến triển khai thí điểm vùng phát thải thấp (LEZ) trong vành đai 1, bắt đầu từ ngày 1-7 đến hết 31-12-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.010304+07:00",
+      "fetched": "2026-04-23T14:22:22.010422+07:00"
+    },
+    {
+      "id": "f9b27549d829a8ee070455048ed55810",
+      "title": "7 màn biến hình 'dị' nhất anime ngoài Dragon Ball, Naruto",
+      "link": "https://tuoitre.vn/7-man-bien-hinh-di-nhat-anime-ngoai-dragon-ball-naruto-20260423115314456.htm",
+      "summary": "Biến hình luôn là một trong những yếu tố hấp dẫn của anime. Không chỉ dừng ở phần nhìn hoành tráng, chúng còn mang ý nghĩa sâu sắc, phản ánh sự trưởng thành của nhân vật qua những thử thách và biến cố đã trải qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.010167+07:00",
+      "fetched": "2026-04-23T14:22:22.010292+07:00"
+    },
+    {
+      "id": "851d3d9da58220d93210d389621b6790",
+      "title": "Chi hàng trăm triệu đổi lấy khoảnh khắc chụp được loài voọc quý trên bán đảo Sơn Trà",
+      "link": "https://tuoitre.vn/chi-hang-tram-trieu-doi-lay-khoanh-khac-chup-duoc-loai-vooc-quy-tren-ban-dao-son-tra-2026042300434087.htm",
+      "summary": "Những ngày bán đảo Sơn Trà (TP Đà Nẵng) khoác lên sắc màu rực rỡ của hoa lim xẹt, hoa thàn mát cũng là lúc nhiều nhiếp ảnh gia bước vào mùa \"săn ảnh” đặc biệt trong năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.010024+07:00",
+      "fetched": "2026-04-23T14:22:22.010154+07:00"
+    },
+    {
+      "id": "ee3699f12bd78fba191cf1e168ba2166",
+      "title": "Chủ xe điện có thể kiếm tiền nhờ đổi pin, áp dụng ở Việt Nam dễ gây sốt",
+      "link": "https://tuoitre.vn/chu-xe-dien-co-the-kiem-tien-nho-doi-pin-ap-dung-o-viet-nam-de-gay-sot-20260422141710002.htm",
+      "summary": "Không chỉ giúp rút ngắn thời gian nạp năng lượng, hệ thống đổi pin mới của CATL còn mở ra khả năng tạo thu nhập cho người dùng khi tận dụng chênh lệch giá điện giờ cao điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T14:22:22.009786+07:00",
+      "fetched": "2026-04-23T14:22:22.010009+07:00"
+    },
     {
       "id": "cc624125cea9998df2f23ead48e9a8f8",
       "title": "Vẫn chưa có kết luận nguyên nhân rò thấm nước đập hồ Sông Than",
@@ -243,6 +393,326 @@ window.newsData_2026_04_23 = {
       "fetched": "2026-04-23T08:47:43.677737+07:00"
     },
     {
+      "id": "0af47e712fc34e7cf4621638f320d36d",
+      "title": "10 thay đổi tư duy giúp thu hút tiền bạc",
+      "link": "https://vnexpress.net/10-thay-doi-tu-duy-giup-thu-hut-tien-bac-5064991.html",
+      "summary": "Chuyển đổi tư duy từ thiếu thốn sang đủ đầy, kết hợp kỷ luật chi tiêu giúp bạn mở ra các cơ hội làm giàu, giảm lo âu về tiền bạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:18:15+07:00",
+      "fetched": "2026-04-23T14:22:17.264821+07:00"
+    },
+    {
+      "id": "1f5f12cb699f98186a5b367c50208bb0",
+      "title": "Trí tuệ nhân tạo 'vận hành ngược' tại các nhà máy AI",
+      "link": "https://thanhnien.vn/tri-tue-nhan-tao-van-hanh-nguoc-tai-cac-nha-may-ai-185260423120940546.htm",
+      "summary": "Sự bùng nổ của AI (trí tuệ nhân tạo) thúc đẩy ngành trung tâm dữ liệu tăng trưởng đột phá và chính trí tuệ nhân tạo lại là công cụ đắc lực giúp tối ưu vận hành hạ tầng phức tạp này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:18:00+07:00",
+      "fetched": "2026-04-23T14:22:20.877504+07:00"
+    },
+    {
+      "id": "a1f059be29ab7160de89f835ab1d9e47",
+      "title": "Vì sao ăn ổi mỗi ngày giúp ổn định đường huyết, tốt cho tim?",
+      "link": "https://thanhnien.vn/vi-sao-an-oi-moi-ngay-giup-on-dinh-duong-huyet-tot-cho-tim-185260423141151654.htm",
+      "summary": "Ổi là loại trái cây quen thuộc giàu vitamin C, chất xơ và chất chống oxy hóa. Ăn ổi thường xuyên giúp tăng miễn dịch, ổn định đường huyết và hỗ trợ tim mạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:11:00+07:00",
+      "fetched": "2026-04-23T14:22:20.877673+07:00"
+    },
+    {
+      "id": "f44e7211739f241911e81a814954cf8e",
+      "title": "Giá Bitcoin hôm nay 23.4.2026: Tiến sát 80.000 USD",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-2342026-tien-sat-80000-usd-185260423133747324.htm",
+      "summary": "Giá Bitcoin hôm nay biến động mạnh sau khi tiến sát mốc 80.000 USD, trong khi tâm lý của thị trường tăng vọt lên mức cao nhất trong vòng 3 tháng qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:11:00+07:00",
+      "fetched": "2026-04-23T14:22:20.877860+07:00"
+    },
+    {
+      "id": "59c4296798445e345e0819600a7d13fc",
+      "title": "‘Sắc xanh’ giải nhiệt ngày nóng: Giải mã sức hút của ly chè thạch xanh",
+      "link": "https://thanhnien.vn/sac-xanh-giai-nhiet-ngay-nong-giai-ma-suc-hut-cua-ly-che-thach-xanh-185260423134304247.htm",
+      "summary": "Sắc xanh dịu mắt từ lá dứa tự nhiên, độ dẻo mềm của thạch hòa quyện cùng vị béo ngậy của nước cốt dừa - đó là những ấn tượng khó phai về ly chè thạch xanh vỉa hè quen thuộc suốt gần 2 thập kỷ qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:10:00+07:00",
+      "fetched": "2026-04-23T14:22:20.878020+07:00"
+    },
+    {
+      "id": "33b1cf2ed231606bbda2f562ea5eb7d5",
+      "title": "Du lịch TP.HCM dịp 30.4: Nhiều điểm đến giảm giá 50%, loạt tour 'độc lạ' hút khách",
+      "link": "https://thanhnien.vn/du-lich-tphcm-dip-304-nhieu-diem-den-giam-gia-50-loat-tour-doc-la-hut-khach-185260423134003698.htm",
+      "summary": "Du lịch TP.HCM dịp 30.4 - 1.5 bùng nổ với loạt tour mới, giá từ 599.000 đồng, nhiều điểm đến giảm giá tới 50%, thu hút mạnh du khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:10:00+07:00",
+      "fetched": "2026-04-23T14:22:20.878174+07:00"
+    },
+    {
+      "id": "80b7867fb8391149282a5312a04c0e01",
+      "title": "Chào cô gái nhẹ nhàng và thấu hiểu",
+      "link": "https://vnexpress.net/chao-co-gai-nhe-nhang-va-thau-hieu-5066114.html",
+      "summary": "Giữa dòng đời hối hả, anh vẫn tin vào vẻ đẹp của sự giản dị và mộc mạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:09:53+07:00",
+      "fetched": "2026-04-23T14:22:17.264942+07:00"
+    },
+    {
+      "id": "8a5ec5055aa5a2bc6570032af0319c9b",
+      "title": "Nhu cầu xe điện gia tăng, thị trường xe máy Việt Nam lập kỷ lục mới",
+      "link": "https://thanhnien.vn/nhu-cau-xe-dien-gia-tang-thi-truong-xe-may-viet-nam-lap-ky-luc-moi-185260418112034451.htm",
+      "summary": "Doanh số xe máy xăng tiếp tục gia tăng, kết hợp xu hướng chuyển đổi sang xe điện diễn ra ngày càng mạnh mẽ, góp phần tạo động lực giúp thị trường xe máy Việt Nam lập kỷ lục mới với khoảng 1 triệu xe bán ra trong quý 1/2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:07:00+07:00",
+      "fetched": "2026-04-23T14:22:20.878325+07:00"
+    },
+    {
+      "id": "f89b541a962576b1d7a8ebf813ef30a1",
+      "title": "Kỳ thủ Khương Duy trước cơ hội bắt kịp Quang Liêm",
+      "link": "https://vnexpress.net/ky-thu-khuong-duy-truoc-co-hoi-bat-kip-quang-liem-5066125.html",
+      "summary": "Ở tuổi 15, Đầu Khương Duy đang hướng tới mục tiêu trở thành Đại kiện tướng sớm hơn đàn anh Lê Quang Liêm, sau cú đúp vô địch Bangkok Mở rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:04:24+07:00",
+      "fetched": "2026-04-23T14:22:17.265118+07:00"
+    },
+    {
+      "id": "0f333a3cba7e6395b5ae8dfffd7a22c5",
+      "title": "Đề xuất đầu tư hơn 15.700 tỷ đồng làm đường trên cao vào Tân Sơn Nhất",
+      "link": "https://vnexpress.net/de-xuat-dau-tu-hon-15-700-ty-dong-lam-duong-tren-cao-vao-tan-son-nhat-5066146.html",
+      "summary": "Đường trên cao dài khoảng 11 km từ An Sương đến khu vực sân bay Tân Sơn Nhất được đề xuất đầu tư kỳ vọng giảm ùn tắc cho trục Trường Chinh - Cộng Hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:04:08+07:00",
+      "fetched": "2026-04-23T14:22:17.265291+07:00"
+    },
+    {
+      "id": "0b68c8b5d8b71a1eab7c090158d167d1",
+      "title": "Mắc kẹt vì 'đu trend' vắt chéo chân quanh cột đèn",
+      "link": "https://vnexpress.net/mac-ket-vi-du-trend-vat-cheo-chan-quanh-cot-den-5066165.html",
+      "summary": "Trào lưu vắt chéo chân trên cột đèn khiến nhiều người mắc kẹt, phải nhờ cảnh sát giải cứu và đối mặt nguy cơ chấn thương xương khớp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:03:30+07:00",
+      "fetched": "2026-04-23T14:22:17.265455+07:00"
+    },
+    {
+      "id": "c55ca38b0dcb5f05f9b278458c045773",
+      "title": "Sedan hạng B dưới 600 triệu: Người Việt ưa chuộng xe nào nhất?",
+      "link": "https://thanhnien.vn/sedan-hang-b-duoi-600-trieu-nguoi-viet-ua-chuong-xe-nao-nhat-185260422083742432.htm",
+      "summary": "Phân khúc sedan hạng B tại Việt Nam quý 1/2026 ghi nhận sự sụt giảm nhẹ về doanh số nhưng vẫn duy trì cuộc đua doanh số quyết liệt giữa các mẫu xe thương hiệu Nhật Bản, Hàn Quốc. Dù chịu sức ép từ làn sóng xe gầm cao, nhóm xe này vẫn giữ sức hút nhờ loạt ưu đãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:01:00+07:00",
+      "fetched": "2026-04-23T14:22:20.878483+07:00"
+    },
+    {
+      "id": "92afd9d548e2a84f83b2c2c7827845fa",
+      "title": "Dụ bé gái quay video nhạy cảm rồi tống tiền",
+      "link": "https://vnexpress.net/du-be-gai-quay-video-nhay-cam-roi-tong-tien-5066170.html",
+      "summary": "Nguyễn Hữu Lộc, 19 tuổi, nhiều lần dụ dỗ bé gái 13 tuổi quay video nhạy cảm sau đó nhắn tin đe dọa tung lên mạng, ép nạn nhân chuyển 800.000 đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:00:20+07:00",
+      "fetched": "2026-04-23T14:22:17.265555+07:00"
+    },
+    {
+      "id": "91e66f68406edc2aff1f6c05e4b79cdf",
+      "title": "Techcombank tung ưu đãi cho 'gai con' trước thềm Gai Home Concert",
+      "link": "https://vnexpress.net/techcombank-tung-uu-dai-cho-gai-con-truoc-them-gai-home-concert-5066179.html",
+      "summary": "Techcombank giảm 12% giá vé, hoàn điểm U-Point, triển khai loạt ưu đãi dành cho hội viên chương trình khách hàng thân thiết trước thềm Gai Home Concert, diễn ra ngày 26/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:00:00+07:00",
+      "fetched": "2026-04-23T14:22:17.265717+07:00"
+    },
+    {
+      "id": "32cd97e85ea19138ce33fc5438778689",
+      "title": "Bệnh tiểu đường có làm giảm tuổi thọ?",
+      "link": "https://vnexpress.net/benh-tieu-duong-co-lam-giam-tuoi-tho-5066042.html",
+      "summary": "Tăng đường huyết kéo dài có thể làm tổn thương võng mạc, gây suy thận, làm tăng nguy cơ mắc các bệnh tim mạch và dẫn đến tử vong sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:00:00+07:00",
+      "fetched": "2026-04-23T14:22:17.265905+07:00"
+    },
+    {
+      "id": "6975b984f1a0f0ebb394c1d92b3e7162",
+      "title": "Phenikaa School nhận chứng nhận STEM quốc tế",
+      "link": "https://vnexpress.net/phenikaa-school-nhan-chung-nhan-stem-quoc-te-5066006.html",
+      "summary": "Phenikaa School được STEM Educational Research (SER) công nhận đạt tiêu chuẩn quốc tế về giáo dục STEM, ngày 20/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:00:00+07:00",
+      "fetched": "2026-04-23T14:22:17.266073+07:00"
+    },
+    {
+      "id": "41f9b919ffd2444591f9fa1810690bb0",
+      "title": "Nhà đầu tư tìm hiểu 'đô thị giao thương' Thanh Phú Centre Point",
+      "link": "https://vnexpress.net/nha-dau-tu-tim-hieu-do-thi-giao-thuong-thanh-phu-centre-point-5065802.html",
+      "summary": "Chủ đầu tư BIM Land tổ chức sự kiện giới thiệu Thanh Phú Centre Point ngày 18/4, thu hút hàng nghìn nhà đầu tư tìm hiểu không gian sống, tiềm năng phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:00:00+07:00",
+      "fetched": "2026-04-23T14:22:17.266239+07:00"
+    },
+    {
+      "id": "e63010f32d6cafc22f17a471b423e16e",
+      "title": "Gamuda Land ra mắt dự án gần 1.000 căn hộ tại Hải Phòng",
+      "link": "https://vnexpress.net/gamuda-land-ra-mat-du-an-gan-1-000-can-ho-tai-hai-phong-5065801.html",
+      "summary": "Gamuda giới thiệu khu căn hộ Ambience quy hoạch theo mô hình \"hệ sinh thái cao tầng\", tích hợp 50 tiện ích vào trục dọc tòa tháp, hướng đến chuẩn sống quốc tế tại hải Phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:00:00+07:00",
+      "fetched": "2026-04-23T14:22:17.266403+07:00"
+    },
+    {
+      "id": "baf502577f6b3dca6c23352f22e47e88",
+      "title": "BV Land trong top 500 doanh nghiệp tăng trưởng nhanh nhất Việt Nam 2026",
+      "link": "https://vnexpress.net/bv-land-trong-top-500-doanh-nghiep-tang-truong-nhanh-nhat-viet-nam-2026-5065250.html",
+      "summary": "BV Land ghi nhận lợi nhuận sau thuế khoảng 370 tỷ đồng năm 2025, tăng gần 20 lần, qua đó góp mặt trong Top 500 doanh nghiệp tăng trưởng nhanh nhất Việt Nam (FAST500) năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:00:00+07:00",
+      "fetched": "2026-04-23T14:22:17.266574+07:00"
+    },
+    {
+      "id": "bb27a8d873f2d736d0d1bd1c41e4083e",
+      "title": "GO! tái định vị từ 'giá luôn rẻ' đến đa trải nghiệm",
+      "link": "https://vnexpress.net/go-tai-dinh-vi-tu-gia-luon-re-den-da-trai-nghiem-5065165.html",
+      "summary": "GO! mở rộng vai trò từ điểm mua sắm thành không gian đa trải nghiệm, đáp ứng phong cách sống khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:00:00+07:00",
+      "fetched": "2026-04-23T14:22:17.266757+07:00"
+    },
+    {
+      "id": "607ea0c3da493de67b8f7740702d30a7",
+      "title": "Một kỷ lục vừa xác lập tại ĐHĐCĐ ngân hàng Top 5 TMCP tư nhân Việt Nam",
+      "link": "https://thanhnien.vn/mot-ky-luc-vua-xac-lap-tai-dhdcd-ngan-hang-top-5-tmcp-tu-nhan-viet-nam-185260423134951564.htm",
+      "summary": "Ngày 22.4.2026, Ngân hàng TMCP Sài Gòn - Hà Nội (SHB) tổ chức thành công Đại hội đồng cổ đông thường niên 2026, thu hút gần 3.000 cổ đông trực tiếp tham dự - mức cao kỷ lục trong mùa đại hội ngân hàng năm nay. Con số ấn tượng này là minh chứng rõ nét cho thấy sức hút mạnh mẽ và niềm tin ngày càng bề...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:00:00+07:00",
+      "fetched": "2026-04-23T14:22:20.878641+07:00"
+    },
+    {
+      "id": "e536e95733cce6353876308a83e64053",
+      "title": "Người trẻ nên chọn gì trong ngành kỹ xảo điện ảnh (VFX), diễn hoạt 3D (Animation) và đồ họa game?",
+      "link": "https://thanhnien.vn/nguoi-tre-nen-chon-gi-trong-nganh-ky-xao-dien-anh-vfx-dien-hoat-3d-animation-va-do-hoa-game-185260422180909508.htm",
+      "summary": "Ngày 23.4.2026, Báo Thanh Niên tổ chức chương trình tư vấn truyền hình trực tuyến với chủ đề: “Chọn ngành học cho tương lai - Người trẻ nên chọn gì trong ngành kỹ xảo điện ảnh (VFX), diễn hoạt 3D (Animation) và đồ họa game?\". Chương trình được trực tuyến tại địa chỉ: thanhnien.vn, fanpage Facebook, ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:00:00+07:00",
+      "fetched": "2026-04-23T14:22:20.878821+07:00"
+    },
+    {
+      "id": "af9263b01720dbfecf6033882391b893",
+      "title": "Váy denim mềm mại, lựa chọn hoàn hảo cho mọi phong cách",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-denim-mem-mai-lua-chon-hoan-hao-cho-moi-phong-cach-185260421152357754.htm",
+      "summary": "Váy denim, chân váy denim có mặt ở các bản phối thường ngày trong dáng vẻ ngày càng nữ tính và hiện đại. Quý cô diện váy denim mềm mại đi làm, đi tiệc; phối chân váy denim cùng sơ mi, áo kiểu... xuống phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T07:00:00+07:00",
+      "fetched": "2026-04-23T14:22:20.878975+07:00"
+    },
+    {
+      "id": "573ac7720f1c39f7f34c60f1dc0b1e7b",
+      "title": "Tài xế công nghệ được thưởng thêm giữa mùa nắng nóng",
+      "link": "https://thanhnien.vn/tai-xe-cong-nghe-duoc-thuong-them-giua-mua-nang-nong-185260423133359728.htm",
+      "summary": "Tài xế Be tại Hà Nội và TP.HCM được thưởng thêm 40.000 - 70.000 đồng khi hoạt động trong khung giờ nắng nóng cao điểm. Doanh nghiệp cũng mở thêm trạm dừng chân và khám sức khỏe miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T06:59:00+07:00",
+      "fetched": "2026-04-23T14:22:20.879123+07:00"
+    },
+    {
+      "id": "36590b2dc7a01f63701d40db25874b8c",
+      "title": "Saigon Co.op khởi động chương trình ưu đãi lớn nhất trong năm",
+      "link": "https://thanhnien.vn/saigon-coop-khoi-dong-chuong-trinh-uu-dai-lon-nhat-trong-nam-185260423133945542.htm",
+      "summary": "Ngày 23.4, Liên hiệp Hợp tác xã Thương mại TP.HCM (Saigon Co.op) tổ chức lễ phát động tháng sinh nhật Co.opmart 30 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T06:58:00+07:00",
+      "fetched": "2026-04-23T14:22:20.879274+07:00"
+    },
+    {
+      "id": "02d7330559cb39b115417085f88f9696",
+      "title": "Chấm dứt hành vi thu hồi nợ như đe dọa, quấy rối, bôi nhọ…",
+      "link": "https://thanhnien.vn/cham-dut-hanh-vi-thu-hoi-no-nhu-de-doa-quay-roi-boi-nho-185260423113632135.htm",
+      "summary": "Ông Nguyễn Quốc Hùng - Phó chủ tịch kiêm Tổng thư ký Hiệp hội Ngân hàng Việt Nam (VNBA) thông tin nội dung trên tại hội nghị triển khai bộ quy tắc ứng xử trong hoạt động thu hồi nợ do Hiệp hội Ngân hàng Việt Nam và Tổ chức Tài chính quốc tế (IFC) tổ chức ngày 23.4. Việc xây dựng và ban hành Bộ quy t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T06:58:00+07:00",
+      "fetched": "2026-04-23T14:22:20.879434+07:00"
+    },
+    {
+      "id": "b2f4d9b128ca476db1140fd3ad5be7f4",
+      "title": "Dấu ấn rực rỡ của ROX Group qua các chặng đường kiến tạo",
+      "link": "https://thanhnien.vn/dau-an-ruc-ro-cua-rox-group-qua-cac-chang-duong-kien-tao-18526042312202946.htm",
+      "summary": "Một lễ rước thành hoàng làng được gìn giữ giữa khu công nghiệp, những sự kiện cộng đồng đánh thức nhịp sống mới của khu đô thị, nỗ lực đưa âm nhạc hàn lâm tới gần hơn với công chúng… Chính cách tiếp cận ấy đã góp phần tạo nên dấu ấn rực rỡ của ROX Group trên hành trình 30 năm kiến tạo, đưa giá trị V...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T06:55:00+07:00",
+      "fetched": "2026-04-23T14:22:20.879594+07:00"
+    },
+    {
+      "id": "11522810a5bccbcd37c2811f60e30040",
+      "title": "Học gì để góp phần tạo nên những bộ phim 'bom tấn'?",
+      "link": "https://thanhnien.vn/hoc-gi-de-gop-phan-tao-nen-nhung-bo-phim-bom-tan-185260422142643542.htm",
+      "summary": "Việt Nam đang là 'công xưởng' hậu kỳ lớn của thế giới với việc tham gia vào các phim bom tấn của Disney, Netflix, và các studios nước ngoài từ châu Âu, Bắc Mỹ, châu Á. Vậy giới trẻ học ngành gì để có thể theo đuổi lĩnh vực 'hot' này?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T06:54:00+07:00",
+      "fetched": "2026-04-23T14:22:20.879766+07:00"
+    },
+    {
+      "id": "55865855c9efc842908e3eab1a08a0f1",
+      "title": "Người dân 19 xã, phường TP HCM được cấp thẻ BHYT miễn phí",
+      "link": "https://vnexpress.net/nguoi-dan-19-xa-phuong-tp-hcm-duoc-cap-the-bhyt-mien-phi-5066159.html",
+      "summary": "Hơn 1,13 triệu dân ở 19 xã, phường TP HCM là “xã an toàn khu” được cấp thẻ BHYT miễn phí, một số địa phương đang rà soát danh sách người được hưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T06:46:24+07:00",
+      "fetched": "2026-04-23T14:22:17.266929+07:00"
+    },
+    {
+      "id": "13bc1ac19570c40746b58d0f27cc1b0c",
+      "title": "Phó giám đốc Công an Đăk Lăk: Thiếu tá CSGT 'đuổi theo' nam sinh",
+      "link": "https://vnexpress.net/pho-giam-doc-cong-an-dak-lak-thieu-ta-csgt-duoi-theo-nam-sinh-5066158.html",
+      "summary": "Theo cơ quan điều tra, phát hiện nam sinh lớp 12 có dấu hiệu vi phạm hành chính, thiếu tá Hoàng đuổi theo, nhưng khi thấy nạn nhân lao xe xuống mương nước lại quay xe bỏ đi, không cứu giúp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T06:39:28+07:00",
+      "fetched": "2026-04-23T14:22:17.267085+07:00"
+    },
+    {
+      "id": "1610d2503bca7fdb748ddb982ab363c9",
+      "title": "Alcaraz: 'Tôi muốn đứng dậy mạnh mẽ hơn bao giờ hết'",
+      "link": "https://vnexpress.net/alcaraz-toi-muon-dung-day-manh-me-hon-bao-gio-het-5065982.html",
+      "summary": "Tay vợt số hai thế giới Carlos Alcaraz hy vọng sớm trở lại sân đấu, sau khi buộc phải rút khỏi Madrid Mở rộng vì chấn thương cổ tay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-23T06:00:00+07:00",
+      "fetched": "2026-04-23T14:22:30.491165+07:00"
+    },
+    {
+      "id": "e07b57a29f883078d8d0121b2f5857de",
+      "title": "Đại biểu Quốc hội: Nên tăng thuế với xe điện từng bước để tránh 'cú sốc' thị trường",
+      "link": "https://vnexpress.net/dai-bieu-quoc-hoi-nen-tang-thue-voi-xe-dien-tung-buoc-de-tranh-cu-soc-thi-truong-5066075.html",
+      "summary": "Thay vì tăng thuế tiêu thụ đặc biệt từ 3% lên 11% từ sau năm 2030, các đại biểu Quốc hội đề xuất nâng theo lộ trình hoặc cơ chế bậc thang để ổn định thị trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-23T05:41:55+07:00",
+      "fetched": "2026-04-23T14:22:25.650697+07:00"
+    },
+    {
       "id": "819d5d6674c22efad9ddb44abe995177",
       "title": "Thời tiết hôm nay 23-4: Bắc Bộ mưa to, Trung Bộ chiều mưa, Nam Bộ nắng",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-23-4-bac-bo-mua-to-trung-bo-chieu-mua-nam-bo-nang-20260422165406471.htm",
@@ -343,6 +813,66 @@ window.newsData_2026_04_23 = {
       "fetched": "2026-04-23T05:38:34.031366+07:00"
     },
     {
+      "id": "bbd66030906ad0929b0dd55fbb82b070",
+      "title": "Chiếc bánh kem phanh phui góc khuất giao đồ ăn ở Trung Quốc",
+      "link": "https://vnexpress.net/chiec-banh-kem-phanh-phui-goc-khuat-giao-do-an-o-trung-quoc-5066054.html",
+      "summary": "Lời phàn nàn của một khách hàng về bánh kem khởi đầu cuộc điều tra quy mô lớn phanh phui hàng nghìn cửa hàng thực phẩm \"ma\" tại Trung Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-23T05:26:56+07:00",
+      "fetched": "2026-04-23T14:22:23.753217+07:00"
+    },
+    {
+      "id": "4d165eae48b213681837bf45976699d3",
+      "title": "Trùm hệ thống web lậu bóng đá bị phạt hơn 10 triệu USD",
+      "link": "https://vnexpress.net/trum-he-thong-web-lau-bong-da-bi-phat-hon-10-trieu-usd-5065990.html",
+      "summary": "Một ông trùm cầm đầu đường dây phát trực tuyến (livestream) thể thao bất hợp pháp vừa bị tuyên phạt 10,2 triệu USD và nhận án tù 23 tháng sau khi cuộc điều tra xuyên quốc gia kéo dài 8 năm kết thúc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-23T05:13:01+07:00",
+      "fetched": "2026-04-23T14:22:30.491342+07:00"
+    },
+    {
+      "id": "4598ee701642ce4b9b81cf235333f626",
+      "title": "Tài sản tỷ phú Phạm Nhật Vượng vượt Jack Ma",
+      "link": "https://vnexpress.net/tai-san-ty-phu-pham-nhat-vuong-vuot-jack-ma-5066133.html",
+      "summary": "Với tài sản gần 35 tỷ USD, Chủ tịch Vingroup Phạm Nhật Vượng hiện là người giàu thứ 65 thế giới, vượt tỷ phú Jack Ma hay vợ cũ người sáng lập Amazon Jeff Bezos.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-23T05:05:30+07:00",
+      "fetched": "2026-04-23T14:22:25.650903+07:00"
+    },
+    {
+      "id": "a15da0ff46c540c504a1f9327a8fbb7e",
+      "title": "Sun PhuQuoc Airways hướng đến thị trường xuyên lục địa với Airbus A330",
+      "link": "https://vnexpress.net/sun-phuquoc-airways-huong-den-thi-truong-xuyen-luc-dia-voi-airbus-a330-5066138.html",
+      "summary": "Sun PhuQuoc Airways hiện đẩy nhanh chuẩn hóa đội tàu, nâng cấp trải nghiệm và chuẩn bị khai thác Airbus A330 nhằm mở rộng mạng bay với chiến lược \"vươn ra thế giới - rise to the world\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-23T05:00:00+07:00",
+      "fetched": "2026-04-23T14:22:25.652512+07:00"
+    },
+    {
+      "id": "2b8a1f8ba7650e9a567b0bcaf753634a",
+      "title": "Apple ra bản cập nhật iPhone chặn FBI trích xuất dữ liệu",
+      "link": "https://vnexpress.net/apple-ra-ban-cap-nhat-iphone-chan-fbi-trich-xuat-du-lieu-5066043.html",
+      "summary": "Apple đã bất ngờ tung ra iOS 26.4.2 cho người dùng, trong đó sửa lỗi mà FBI từng sử dụng để trích xuất tin nhắn đã xóa trên iPhone.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-23T05:00:00+07:00",
+      "fetched": "2026-04-23T14:22:28.589216+07:00"
+    },
+    {
+      "id": "5f66dec55ffeba8446aa77fe1f49785e",
+      "title": "Chelsea gây khó hiểu khi sa thải HLV Rosenior sau 3 tháng",
+      "link": "https://vnexpress.net/chelsea-gay-kho-hieu-khi-sa-thai-hlv-rosenior-sau-3-thang-5066081.html",
+      "summary": "Cựu hậu vệ Gary Neville đặt câu hỏi về cách làm của Chelsea, khi ký hợp đồng 6 năm với HLV Liam Rosenior rồi sa thải sau 3 tháng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-23T04:50:45+07:00",
+      "fetched": "2026-04-23T14:22:30.492187+07:00"
+    },
+    {
       "id": "ad58b93e515a32e450008cf8a0c0ec05",
       "title": "Lễ hội bánh mì ngay trung tâm TP.HCM ngày đầu: Ùn ùn người đổ về giữa trưa",
       "link": "https://thanhnien.vn/le-hoi-banh-mi-ngay-trung-tam-tphcm-ngay-dau-un-un-nguoi-do-ve-giua-trua-185260423113448847.htm",
@@ -361,6 +891,16 @@ window.newsData_2026_04_23 = {
       "category": "Tổng hợp",
       "published": "2026-04-23T04:38:00+07:00",
       "fetched": "2026-04-23T11:43:53.676135+07:00"
+    },
+    {
+      "id": "c31fabb426a8ed64df1c4b088d753945",
+      "title": "Châu Âu đề xuất biện pháp khẩn cấp hỗ trợ kinh tế",
+      "link": "https://vnexpress.net/chau-au-de-xuat-bien-phap-khan-cap-ho-tro-kinh-te-5066016.html",
+      "summary": "Xung đột Trung Đông khiến châu Âu tốn thêm gần 600 triệu USD mỗi ngày, buộc EU đề xuất xả kho dự trữ khẩn cấp để ứng phó thiếu hụt năng lượng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-23T04:35:39+07:00",
+      "fetched": "2026-04-23T14:22:25.651068+07:00"
     },
     {
       "id": "6af9799b277f23c9ff5f58c197ad165f",
@@ -591,6 +1131,16 @@ window.newsData_2026_04_23 = {
       "category": "Kinh doanh",
       "published": "2026-04-23T03:46:55+07:00",
       "fetched": "2026-04-23T11:43:59.685827+07:00"
+    },
+    {
+      "id": "4cb86343b6cd4be1da48b57bf4619b5f",
+      "title": "Nhiều hàng quán tiếp tục tăng giá",
+      "link": "https://vnexpress.net/nhieu-hang-quan-tiep-tuc-tang-gia-5065192.html",
+      "summary": "Giá xăng, dầu giảm mạnh, nhưng chi phí nguyên liệu, nhân công neo cao khiến nhiều hàng quán tiếp tục tăng giá bán.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-23T03:46:55+07:00",
+      "fetched": "2026-04-23T14:22:25.651229+07:00"
     },
     {
       "id": "0334f699ec73cbcdbc413c6c58b7bd3d",
