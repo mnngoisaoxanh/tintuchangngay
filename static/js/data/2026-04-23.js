@@ -1,7 +1,157 @@
 window.newsData_2026_04_23 = {
   "date": "2026-04-23",
-  "lastUpdated": "2026-04-23T16:18:20.468325+07:00",
+  "lastUpdated": "2026-04-23T18:00:26.322020+07:00",
   "articles": [
+    {
+      "id": "4e94b5511d1d91839f541da7b3ff6f78",
+      "title": "Phụ huynh tố con đi học thêm bị thầy đánh bầm tím, thầy giáo nói gì?",
+      "link": "https://tuoitre.vn/phu-huynh-to-con-di-hoc-them-bi-thay-danh-bam-tim-thay-giao-noi-gi-20260423152027551.htm",
+      "summary": "B., học sinh lớp 7, tự ý gỡ miếng cao su giảm chấn trên ghế nên bị thầy dùng cành cây đánh gây nhiều vết thương bầm tím. Tuy nhiên thầy giáo cho rằng thầy chỉ đánh một, hai cây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.748582+07:00",
+      "fetched": "2026-04-23T18:00:17.748691+07:00"
+    },
+    {
+      "id": "1c0cf3f9a50d25036a429a529aa5a1d1",
+      "title": "Công an TP.HCM làm gì để ngăn ‘xe dù, bến cóc’ dịp lễ 30-4?",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-lam-gi-de-ngan-xe-du-ben-coc-dip-le-30-4-20260423161210478.htm",
+      "summary": "Dịp lễ 30-4 và 1-5, nhu cầu đi lại của người dân tăng cao, cũng là lúc tình trạng “xe dù, bến cóc” tại TP.HCM nóng lên. Vậy Công an TP.HCM đã chuẩn bị những biện pháp gì để ngăn ngừa và xử lý tình trạng này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.748477+07:00",
+      "fetched": "2026-04-23T18:00:17.748573+07:00"
+    },
+    {
+      "id": "b969245d4d9e1d29f8e3d9794fbc1b3a",
+      "title": "Làm rõ vụ việc sập nhà khi tháo dỡ công trình ở Đà Nẵng",
+      "link": "https://tuoitre.vn/lam-ro-vu-viec-sap-nha-khi-thao-do-cong-trinh-o-da-nang-20260423135046236.htm",
+      "summary": "Trong quá trình thi công tháo dỡ khối nhà phía bắc của công trình, Công ty cổ phần Vinatex Đà Nẵng đã làm sập 1 nhà giáp các nhà dân mặt tiền đường Trần Quý Cáp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.748369+07:00",
+      "fetched": "2026-04-23T18:00:17.748465+07:00"
+    },
+    {
+      "id": "4d9fbacd885f6c1d0c8312676e7bd05b",
+      "title": "Cá chết hàng loạt quanh khu bơm cát dự án sân bay Cà Mau",
+      "link": "https://tuoitre.vn/ca-chet-hang-loat-quanh-khu-bom-cat-du-an-san-bay-ca-mau-20260423160404083.htm",
+      "summary": "Hàng chục hộ dân tại khóm 3 và khóm 4, phường Tân Thành đang lo lắng khi các ao nuôi cá chình, cá bống tượng cùng cây trái bị thiệt hại do ảnh hưởng của việc bơm cát phục vụ dự án nâng cấp, mở rộng sân bay Cà Mau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.748262+07:00",
+      "fetched": "2026-04-23T18:00:17.748360+07:00"
+    },
+    {
+      "id": "9da8de5dd314a4146e70328982757521",
+      "title": "Đầu tư Hàn Quốc vào Việt Nam: biến chuyển về chất",
+      "link": "https://tuoitre.vn/dau-tu-han-quoc-vao-viet-nam-bien-chuyen-ve-chat-2026042315082472.htm",
+      "summary": "Mười năm FTA Hàn Quốc - Việt Nam là cột mốc để nhìn lại một mối quan hệ kinh tế đã vượt xa khuôn khổ thương mại thông thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.748155+07:00",
+      "fetched": "2026-04-23T18:00:17.748253+07:00"
+    },
+    {
+      "id": "bdb030f269a7976b5dde1336ef7906f2",
+      "title": "Du lịch Quy Nhơn, Pleiku 'nóng' nhờ sức hút Năm Du lịch quốc gia",
+      "link": "https://tuoitre.vn/du-lich-quy-nhon-pleiku-nong-nho-suc-hut-nam-du-lich-quoc-gia-20260423153455559.htm",
+      "summary": "Trong kỳ nghỉ lễ Giỗ Tổ Hùng Vương và 30-4, 1-5 sắp tới, dự kiến lượng khách đổ về Quy Nhơn và Pleiku khá đông nhờ hiệu ứng của Năm Du lịch quốc gia - Gia Lai 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.748048+07:00",
+      "fetched": "2026-04-23T18:00:17.748146+07:00"
+    },
+    {
+      "id": "95e87d0f14f21e625d3a9c5780a5a2a7",
+      "title": "Lộ trình chặng 19 cuộc đua xe đạp Cúp truyền hình TP.HCM 2026",
+      "link": "https://tuoitre.vn/lo-trinh-chang-19-cuoc-dua-xe-dap-cup-truyen-hinh-tp-hcm-2026-20260423163730167.htm",
+      "summary": "Ngày 24-4, cuộc đua xe đạp toàn quốc Cúp truyền hình TP.HCM HTV - Tôn Đông Á 2026 trở lại với chặng 19.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.747932+07:00",
+      "fetched": "2026-04-23T18:00:17.748028+07:00"
+    },
+    {
+      "id": "6f775ccd07f5f6d2e8d65f380e566e0e",
+      "title": "Bộ Ngoại giao thông tin về việc bảo đảm tàu của Việt Nam được qua eo biển Hormuz",
+      "link": "https://tuoitre.vn/bo-ngoai-giao-thong-tin-ve-viec-bao-dam-tau-cua-viet-nam-duoc-qua-eo-bien-hormuz-20260423162811.htm",
+      "summary": "Bộ Ngoại giao và Bộ Xây dựng đang phối hợp cung cấp cho phía Iran thông tin kỹ thuật các tàu hàng của Việt Nam đề nghị qua eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.747825+07:00",
+      "fetched": "2026-04-23T18:00:17.747922+07:00"
+    },
+    {
+      "id": "f8b027a1cbdeaf5191fe11232c04525c",
+      "title": "TP.HCM có thêm 5 trường THPT công lập mới, tuyển 3.375 học sinh lớp 10",
+      "link": "https://tuoitre.vn/tp-hcm-co-them-5-truong-thpt-cong-lap-moi-tuyen-3-375-hoc-sinh-lop-10-20260423163725596.htm",
+      "summary": "Sở Giáo dục và Đào tạo TP.HCM cho biết 5 trường THPT công lập mới dự kiến sẽ tuyển 3.375 học sinh lớp 10 ngay trong năm học 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.747718+07:00",
+      "fetched": "2026-04-23T18:00:17.747816+07:00"
+    },
+    {
+      "id": "cd077208291be724d036c2c13f4070b1",
+      "title": "Thủ tướng Nhật Bản ‘muốn ngủ thêm một chút’ sau 6 tháng làm việc cường độ cao",
+      "link": "https://tuoitre.vn/thu-tuong-nhat-ban-muon-ngu-them-mot-chut-sau-6-thang-lam-viec-cuong-do-cao-20260423163531186.htm",
+      "summary": "Sau nửa năm nhậm chức với cường độ làm việc liên tục, Thủ tướng Nhật Bản Takaichi Sanae thừa nhận 'muốn ngủ thêm một chút'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.747597+07:00",
+      "fetched": "2026-04-23T18:00:17.747708+07:00"
+    },
+    {
+      "id": "93cdd4274a06c65c2bdffb84623e654d",
+      "title": "Đắk Lắk chuẩn bị hồi hương 22 hài cốt liệt sĩ từ chiến trường K",
+      "link": "https://tuoitre.vn/dak-lak-chuan-bi-hoi-huong-22-hai-cot-liet-si-tu-chien-truong-k-20260423162531052.htm",
+      "summary": "Sau hơn 5 tháng tìm kiếm tại Mondulkiri (Campuchia), Đội K51 - Bộ Chỉ huy Quân sự tỉnh Đắk Lắk đã tìm kiếm, quy tập 22 hài cốt liệt sĩ, dự kiến hồi hương cuối tháng 5-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.747489+07:00",
+      "fetched": "2026-04-23T18:00:17.747587+07:00"
+    },
+    {
+      "id": "1d73bc77b7aac559295b9327ae6fa5a3",
+      "title": "Xe máy Yamaha rục rịch tăng giá ở Đông Nam Á",
+      "link": "https://tuoitre.vn/xe-may-yamaha-ruc-rich-tang-gia-o-dong-nam-a-20260423115554874.htm",
+      "summary": "Giá vật liệu nhựa leo thang trên toàn cầu đang gây sức ép lên chi phí sản xuất xe máy, buộc một số hãng Nhật Bản tại Đông Nam Á như Yamaha, Suzuki tính đến phương án tăng giá bán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.747379+07:00",
+      "fetched": "2026-04-23T18:00:17.747479+07:00"
+    },
+    {
+      "id": "bbc807f55cbdb0af279025f7937226c9",
+      "title": "Sân bay Phù Cát tăng tốc làm đường băng số 2, kịp bay hiệu chuẩn tháng 7",
+      "link": "https://tuoitre.vn/san-bay-phu-cat-tang-toc-lam-duong-bang-so-2-kip-bay-hieu-chuan-thang-7-20260423161909494.htm",
+      "summary": "Dự án xây dựng đường băng số 2 sân bay Phù Cát (Gia Lai) đang được chủ đầu tư đẩy nhanh tiến độ, để kịp hoàn thành trong tháng 6 và bay hiệu chuẩn vào tháng 7-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.747265+07:00",
+      "fetched": "2026-04-23T18:00:17.747369+07:00"
+    },
+    {
+      "id": "a4e09f9e2c6aced988f82b929730625e",
+      "title": "Trẻ em gây chết người, cha mẹ có bị tội?",
+      "link": "https://tuoitre.vn/tre-em-gay-chet-nguoi-cha-me-co-bi-toi-20260422180123264.htm",
+      "summary": "Trẻ em chơi bên đường rồi đá bóng ra đường gây chết người, cha mẹ phải bồi thường cho gia đình người chết nhưng không phải chịu trách nhiệm hình sự về hành vi của con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.747143+07:00",
+      "fetched": "2026-04-23T18:00:17.747255+07:00"
+    },
+    {
+      "id": "1a17d2b9b55149296319afa9f8abd9d2",
+      "title": "Du thuyền Hạ Long đắt khách dịp lễ 30-4",
+      "link": "https://tuoitre.vn/du-thuyen-ha-long-dat-khach-dip-le-30-4-20260423161302613.htm",
+      "summary": "Sát dịp lễ 30-4, lượng khách tìm kiếm dịch vụ du thuyền trên vịnh Hạ Long tăng mạnh. Nhiều du thuyền đã đạt 100% công suất cho các hải trình ngủ đêm, du thuyền ngày, du thuyền ăn tối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T18:00:17.746923+07:00",
+      "fetched": "2026-04-23T18:00:17.747130+07:00"
+    },
     {
       "id": "0e0c57223cdb1ad348439e109dc03303",
       "title": "Bắt TikToker 'Master Dũng Văn' lừa đảo tâm linh",
@@ -453,6 +603,356 @@ window.newsData_2026_04_23 = {
       "fetched": "2026-04-23T11:43:54.793264+07:00"
     },
     {
+      "id": "1110d7b95a70f97474eaaba5d32e17d6",
+      "title": "Không cần rực rỡ, trang phục màu đen vẫn giúp nàng nổi bật theo cách riêng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/khong-can-ruc-ro-trang-phuc-mau-den-van-giup-nang-noi-bat-theo-cach-rieng-185260421211852586.htm",
+      "summary": "Dù không mang sắc màu nổi bật, trang phục màu đen vẫn giúp nàng tỏa sáng theo cách riêng đầy tinh tế và cuốn hút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T11:00:00+07:00",
+      "fetched": "2026-04-23T18:00:16.636264+07:00"
+    },
+    {
+      "id": "9acc0c23d58a6b8699b078c6f680dfeb",
+      "title": "Án mạng ở Quảng Trị, nghi phạm bị bắt sau 2 giờ",
+      "link": "https://thanhnien.vn/an-mang-o-quang-tri-nghi-pham-bi-bat-sau-2-gio-185260423172201342.htm",
+      "summary": "Sau 2 giờ xảy ra vụ án mạng ở Quảng Trị, lực lượng công an đã bắt được nghi phạm liên quan cái chết của một phụ nữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:55:00+07:00",
+      "fetched": "2026-04-23T18:00:16.636414+07:00"
+    },
+    {
+      "id": "a912968ee66d83131dc5815208b2d32b",
+      "title": "Nỗ lực giữ gìn smartphone để bán lại giá cao liệu có đáng?",
+      "link": "https://thanhnien.vn/no-luc-giu-gin-smartphone-de-ban-lai-gia-cao-lieu-co-dang-185260419223213189.htm",
+      "summary": "Nhiều người dùng hiện nay quan tâm đến giá trị bán lại của chiếc smartphone mà họ sở hữu, vì vậy luôn tìm cách bảo vệ chúng trong quá trình sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:54:00+07:00",
+      "fetched": "2026-04-23T18:00:16.636553+07:00"
+    },
+    {
+      "id": "e7826aa1d3c10932312aaace957bdf79",
+      "title": "Việt Nam phối hợp Iran, thúc đẩy thủ tục cho tàu qua eo biển Hormuz an toàn",
+      "link": "https://thanhnien.vn/viet-nam-phoi-hop-iran-thuc-day-thu-tuc-cho-tau-qua-eo-bien-hormuz-an-toan-185260423172645841.htm",
+      "summary": "Bộ Ngoại giao đang phối hợp chặt chẽ với Bộ Xây dựng cùng các doanh nghiệp vận tải liên quan cung cấp cho phía Iran thông tin kỹ thuật các tàu hàng của Việt Nam đề nghị qua eo biển Hormuz.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:46:00+07:00",
+      "fetched": "2026-04-23T18:00:16.636695+07:00"
+    },
+    {
+      "id": "db166ef32eae1f03379edb64b644e581",
+      "title": "Mexico tôn tạo tượng Chủ tịch Hồ Chí Minh ở thủ đô",
+      "link": "https://vnexpress.net/mexico-ton-tao-tuong-chu-tich-ho-chi-minh-o-thu-do-5066331.html",
+      "summary": "Bộ Ngoại giao Việt Nam xác nhận chính quyền Mexico đang tôn tạo tượng Chủ tịch Hồ Chí Minh tại thủ đô Mexico City.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-23T10:41:43+07:00",
+      "fetched": "2026-04-23T18:00:19.425002+07:00"
+    },
+    {
+      "id": "e269775e7a519eff1799cee5c8fef367",
+      "title": "Nuốt mủ hoa sứ, 2 trẻ nhập viện cấp cứu vì ngộ độc",
+      "link": "https://thanhnien.vn/nuot-mu-hoa-su-2-tre-nhap-vien-cap-cuu-vi-ngo-doc-185260423001119549.htm",
+      "summary": "Liên tiếp 2 trường hợp trẻ em tại xã Tân Long Hội, tỉnh Vĩnh Long nhập cấp cứu trong tình trạng mệt lả, nôn ói nhiều, kèm đau đầu sau khi vô tình nuốt mủ hoa sứ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:41:00+07:00",
+      "fetched": "2026-04-23T18:00:16.636824+07:00"
+    },
+    {
+      "id": "aade8da1b2fd2bed01f0b82e6467e47d",
+      "title": "Cà Mau: Lại xảy ra sụt lún đường ở xã Cái Nước",
+      "link": "https://thanhnien.vn/ca-mau-lai-xay-ra-sut-lun-duong-o-xa-cai-nuoc-18526042316465956.htm",
+      "summary": "Sụt lún xảy ra trên đường Kinh Xáng Đông Hưng (xã Cái Nước, Cà Mau) làm mặt đường nứt gãy dài 61 mét, tiềm ẩn nguy cơ lún sâu, gây khó khăn cho người dân lưu thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:38:00+07:00",
+      "fetched": "2026-04-23T18:00:16.636958+07:00"
+    },
+    {
+      "id": "fa32fe0c73b4575755d91c2ab65249b0",
+      "title": "Tuyển sinh đầu cấp ở TP.HCM năm học 2026 - 2027: Áp dụng tiêu chí nào?",
+      "link": "https://thanhnien.vn/tuyen-sinh-dau-cap-o-tphcm-nam-hoc-2026-2027-ap-dung-tieu-chi-nao-185260423161806793.htm",
+      "summary": "Sở Giáo dục - Đào tạo TP.HCM vừa thông tin chi tiết về tiêu chí tuyển sinh đầu cấp ở TP.HCM năm học 2026 - 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:32:00+07:00",
+      "fetched": "2026-04-23T18:00:16.637086+07:00"
+    },
+    {
+      "id": "715f0d0ffb3d47d0b1d4c6c2ae76d6a4",
+      "title": "Việt Nam làm việc với Iran để tàu thuyền sớm được qua eo biển Hormuz",
+      "link": "https://vnexpress.net/viet-nam-lam-viec-voi-iran-de-tau-thuyen-som-duoc-qua-eo-bien-hormuz-5066314.html",
+      "summary": "Bộ Ngoại giao cho biết tàu, thuyền viên Việt Nam vẫn an toàn ở khu vực eo biển Hormuz, trong khi cơ quan chức năng tiếp tục liên lạc với Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-23T10:31:48+07:00",
+      "fetched": "2026-04-23T18:00:19.425153+07:00"
+    },
+    {
+      "id": "3a91b11931e9140913564dbf34ae8dd4",
+      "title": "Xác định niên đại 3 cọc gỗ phát hiện dưới sông Vân",
+      "link": "https://thanhnien.vn/xac-dinh-nien-dai-3-coc-go-phat-hien-duoi-song-van-185260423171451452.htm",
+      "summary": "Quá trình cải tạo sông Vân (P.Hoa Lư, Ninh Bình), đơn vị thi công đã phát hiện dưới lòng sông có 3 cọc gỗ dài từ 3,76 - 4,08 m, nghi có niên đại từ thời nhà Trần và có vai trò như vật dụng quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:25:00+07:00",
+      "fetched": "2026-04-23T18:00:16.637216+07:00"
+    },
+    {
+      "id": "b58b0ebe67f425f39c57db2d1e40c5c8",
+      "title": "Nghẹn ngào đám cưới cô dâu mồ côi: 'Bố mẹ yên tâm, em bé đã trưởng thành'",
+      "link": "https://thanhnien.vn/nghen-ngao-dam-cuoi-co-dau-mo-coi-bo-me-yen-tam-em-be-da-truong-thanh-185260423164116543.htm",
+      "summary": "Cô dâu Kim Ngân, người mồ côi cả bố lẫn mẹ từ năm 6 tuổi, đã có một đám cưới ấm áp bên ông bà nội. Hình ảnh hai chiếc ghế trống được đặt trang trọng trong tiệc cưới cùng những dòng nhắn gửi xúc động đã khiến nhiều người không cầm được nước mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:22:00+07:00",
+      "fetched": "2026-04-23T18:00:16.637344+07:00"
+    },
+    {
+      "id": "85cfc046e2ecf5b0037ebc0efe63aaff",
+      "title": "SSI cam kết mang lại lợi nhuận cho cổ đông",
+      "link": "https://thanhnien.vn/ssi-cam-ket-mang-lai-loi-nhuan-cho-co-dong-185260423162608943.htm",
+      "summary": "Ngày 23.4, Công ty CP chứng khoán SSI tổ chức Đại hội đồng cổ đông thường niên 2026 tại TP.HCM",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:22:00+07:00",
+      "fetched": "2026-04-23T18:00:16.637470+07:00"
+    },
+    {
+      "id": "17bc56a21774f76db0c62f34b3866108",
+      "title": "Triệu chứng mơ hồ khiến người mắc lupus ban đỏ lỡ thời gian vàng điều trị",
+      "link": "https://vnexpress.net/trieu-chung-mo-ho-khien-nguoi-mac-lupus-ban-do-lo-thoi-gian-vang-dieu-tri-5066311.html",
+      "summary": "Triệu chứng không đặc hiệu khiến người mắc lupus ban đỏ hệ thống mất trung bình 24 tháng để phát hiện bệnh, dẫn đến tổn thương nội tạng nghiêm trọng trước khi tiếp cận liệu pháp sinh học tiên tiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:18:56+07:00",
+      "fetched": "2026-04-23T18:00:13.248603+07:00"
+    },
+    {
+      "id": "0b854a25310c258a95620d053cc80622",
+      "title": "TP.HCM sắp có bãi đỗ xe ngầm hoặc nổi ở khu trung tâm, Chợ Lớn, Tân Phú",
+      "link": "https://thanhnien.vn/tphcm-sap-co-bai-do-xe-ngam-hoac-noi-o-khu-trung-tam-cho-lon-tan-phu-185260423165826857.htm",
+      "summary": "TP.HCM sắp có bãi đỗ xe ngầm hoặc nổi ở công viên 23 Tháng 9, Tân Phú, Chợ Lớn... để người dân thuận lợi gửi xe, chuyển sang sử dụng phương tiện giao thông công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:17:00+07:00",
+      "fetched": "2026-04-23T18:00:16.637599+07:00"
+    },
+    {
+      "id": "6d5ada4fcf30a3601242db6581db9e5d",
+      "title": "Top 7 sữa rửa mặt trắng da được hội skincare 'fomo' nên liên tục hết hàng",
+      "link": "https://thanhnien.vn/top-7-sua-rua-mat-trang-da-duoc-hoi-skincare-fomo-nen-lien-tuc-het-hang-185260423165857424.htm",
+      "summary": "Không cần routine 10 bước, làn da vẫn có thể bật tông nếu bạn chọn đúng sữa rửa mặt. 'Top 7 sữa rửa mặt trắng da' đang gây sốt cộng đồng skincare, liên tục cháy hàng vì hiệu quả vượt kỳ vọng: làm sạch sâu, hỗ trợ sáng da và cải thiện nền da. Bạn có tò mò đâu là 7 cái tên khiến hội chị em sẵn sàng 'f...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:15:00+07:00",
+      "fetched": "2026-04-23T18:00:16.637735+07:00"
+    },
+    {
+      "id": "390f4360292ce21d8c34fa76ec1f723b",
+      "title": "Cặp vợ chồng da trắng sinh con da màu đã tìm được cha mẹ ruột của đứa trẻ",
+      "link": "https://vnexpress.net/cap-vo-chong-da-trang-sinh-con-da-mau-da-tim-duoc-cha-me-ruot-cua-dua-tre-5066284.html",
+      "summary": "Vợ chồng Tiffany Score và Steven Mills tại bang Florida thông báo đã tìm thấy cha mẹ ruột của con gái họ, sau sự cố Trung tâm Hỗ trợ Sinh sản Orlando cấy nhầm phôi thai hồi tháng 4/2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:13:36+07:00",
+      "fetched": "2026-04-23T18:00:13.248774+07:00"
+    },
+    {
+      "id": "dce105b7b266ca73e58663e202b9c09b",
+      "title": "Game Việt cán mốc 4,9 tỉ lượt tải toàn cầu trong năm 2025",
+      "link": "https://thanhnien.vn/game-viet-can-moc-49-ti-luot-tai-toan-cau-trong-nam-2025-185260423170259342.htm",
+      "summary": "Khép lại năm tài chính 2025, mảng trò chơi trên thiết bị di động (mobile game) do người Việt sản xuất và phát hành đã ghi nhận con số khổng lồ: 4,9 tỉ lượt tải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:12:00+07:00",
+      "fetched": "2026-04-23T18:00:16.637863+07:00"
+    },
+    {
+      "id": "4562c1878693c9a9e56a6741563b98a3",
+      "title": "'Ông lớn' thực phẩm Việt mạnh tay đầu tư, đẩy mạnh xuất khẩu",
+      "link": "https://thanhnien.vn/ong-lon-thuc-pham-viet-manh-tay-dau-tu-day-manh-xuat-khau-185260423161826995.htm",
+      "summary": "Thương hiệu thực phẩm VISSAN lên kế hoạch đầu tư mạnh vào khâu chăn nuôi và chế biến qua đó tăng cường xuất khẩu trong năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:11:00+07:00",
+      "fetched": "2026-04-23T18:00:16.637993+07:00"
+    },
+    {
+      "id": "ed4d87e6e9cdd21863a9531b98080158",
+      "title": "Xe bán tải có bị cấm giờ ở TP.HCM? Sở Xây dựng trả lời rõ",
+      "link": "https://thanhnien.vn/xe-ban-tai-co-bi-cam-gio-o-tphcm-so-xay-dung-tra-loi-ro-185260423163448331.htm",
+      "summary": "Giải đáp thắc mắc của nhiều người liệu xe bán tải có bị cấm giờ ở TP.HCM, Sở Xây dựng cho biết loại xe này không bị hạn chế, nhưng phải tuân theo biển báo phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:10:00+07:00",
+      "fetched": "2026-04-23T18:00:16.638122+07:00"
+    },
+    {
+      "id": "6a68e91a6d7f538c43a0238483dbacc2",
+      "title": "Điểm tin 17h: Đề xuất chi 1.800 tỷ đồng mỗi năm hỗ trợ người sinh đủ 2 con | Thiếu tá CSGT liên quan vụ nam sinh tử nạn ở Đăk Lăk bị khởi tố",
+      "link": "https://vnexpress.net/diem-tin-17h-de-xuat-chi-1-800-ty-dong-moi-nam-ho-tro-nguoi-sinh-du-2-con-thieu-ta-csgt-lien-quan-vu-nam-sinh-tu-nan-o-dak-lak-bi-khoi-to-5066336.html",
+      "summary": "Giá xăng giảm về dưới 23.000 đồng một lít | Tài sản tỷ phú Phạm Nhật Vượng vượt Jack Ma",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:09:16+07:00",
+      "fetched": "2026-04-23T18:00:13.248916+07:00"
+    },
+    {
+      "id": "73223d6adda1e6b5e3483424629beaa1",
+      "title": "Phu nhân Tổng thống Hàn Quốc mặc áo dài, thưởng thức múa rối nước",
+      "link": "https://vnexpress.net/phu-nhan-tong-thong-han-quoc-mac-ao-dai-thuong-thuc-mua-roi-nuoc-5066308.html",
+      "summary": "Phu nhân Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân Tổng thống Hàn Quốc Lee Jae Myung cùng xem múa rối nước khi tham quan Bảo tàng Dân tộc học Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:07:37+07:00",
+      "fetched": "2026-04-23T18:00:13.249053+07:00"
+    },
+    {
+      "id": "73223d6adda1e6b5e3483424629beaa1",
+      "title": "Phu nhân Tổng thống Hàn Quốc mặc áo dài, thưởng thức múa rối nước",
+      "link": "https://vnexpress.net/phu-nhan-tong-thong-han-quoc-mac-ao-dai-thuong-thuc-mua-roi-nuoc-5066308.html",
+      "summary": "Phu nhân Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân Tổng thống Hàn Quốc Lee Jae Myung cùng xem múa rối nước khi tham quan Bảo tàng Dân tộc học Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-23T10:07:37+07:00",
+      "fetched": "2026-04-23T18:00:19.425304+07:00"
+    },
+    {
+      "id": "7ec0e29f95f996c84e4ed972863e25ee",
+      "title": "Xe giường nằm khốn khổ vì nữ khách gọi video suốt 3 tiếng đồng hồ",
+      "link": "https://vnexpress.net/xe-giuong-nam-khon-kho-vi-nu-khach-goi-video-suot-3-tieng-dong-ho-5066252.html",
+      "summary": "Cả xe chịu trận vì bà khách gọi video call rất to và dĩ nhiên là bật loa ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:00:00+07:00",
+      "fetched": "2026-04-23T18:00:13.249183+07:00"
+    },
+    {
+      "id": "742ea0518c4436b96e960e87d262665e",
+      "title": "Xấu hổ khi người đời hỏi: 'Mẹ con lại lấy chồng mới à'",
+      "link": "https://vnexpress.net/xau-ho-khi-nguoi-doi-hoi-me-con-lai-lay-chong-moi-a-5066189.html",
+      "summary": "Bố mẹ ly hôn, tôi sống với mẹ, không lâu mẹ lập gia đình mới, tôi sang sống với bố, sau đó mẹ lại lấy sang người chồng thứ ba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:00:00+07:00",
+      "fetched": "2026-04-23T18:00:13.249315+07:00"
+    },
+    {
+      "id": "38719eb313df3d2798a9d6afe1772807",
+      "title": "Ăn mỡ trộn cơm để tăng cân?",
+      "link": "https://vnexpress.net/an-mo-tron-com-de-tang-can-5057678.html",
+      "summary": "Con trai tôi lười ăn, không tăng cân, tôi có thể trộn mỡ với cơm để tăng dinh dưỡng, chất béo, cải thiện cân nặng cho con được không? (Thương, 30 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:00:00+07:00",
+      "fetched": "2026-04-23T18:00:13.249450+07:00"
+    },
+    {
+      "id": "a647cd8a42c3fa45538fec2ebbf2749d",
+      "title": "VPBank ra mắt Trung tâm cho vay Nhà dự án",
+      "link": "https://vnexpress.net/vpbank-ra-mat-trung-tam-cho-vay-nha-du-an-5066327.html",
+      "summary": "VPBank đưa vào hoạt động Trung tâm cho vay Nhà dự án tại Hà Nội và TP HCM, nhằm tập trung xử lý hồ sơ, rút ngắn thời gian giải ngân vốn vay mua nhà, nâng cao trải nghiệm khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:00:00+07:00",
+      "fetched": "2026-04-23T18:00:13.249583+07:00"
+    },
+    {
+      "id": "ab342b7c37495e7748f9deae5ffea137",
+      "title": "FPT mở rộng quy mô đào tạo tại Đà Nẵng lên 7.000 học sinh",
+      "link": "https://vnexpress.net/fpt-mo-rong-quy-mo-dao-tao-tai-da-nang-len-7-000-hoc-sinh-5066277.html",
+      "summary": "Tập đoàn FPT khánh thành Tòa nhà Zeta, công trình trọng điểm theo chuẩn mực giáo dục xanh và mô hình trường học thông minh, mở rộng quy mô đào tạo lên 7.000 học sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:00:00+07:00",
+      "fetched": "2026-04-23T18:00:13.249735+07:00"
+    },
+    {
+      "id": "94322b52749782bef30edae5436cca57",
+      "title": "Văn phú đặt mục tiêu doanh thu kỷ lục 4.500 tỷ đồng",
+      "link": "https://vnexpress.net/van-phu-dat-muc-tieu-doanh-thu-ky-luc-4-500-ty-dong-5066272.html",
+      "summary": "Ban lãnh đạo công ty Văn Phú cho biết sẽ tăng tốc bán hàng, đẩy nhanh tiến độ thi công tại các dự án trọng điểm để hoàn thành mục tiêu doanh thu 4.500 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:00:00+07:00",
+      "fetched": "2026-04-23T18:00:13.249870+07:00"
+    },
+    {
+      "id": "f47b82e0fa2855a280befc644c460500",
+      "title": "Fortis, Hùng Vương, Vinschool khởi đầu thuận lợi ở Giải bóng rổ Trẻ VnExpress",
+      "link": "https://vnexpress.net/fortis-hung-vuong-vinschool-central-park-thang-dam-tuan-dau-giai-bong-ro-tre-vnexpress-2025-2026-5066258.html",
+      "summary": "Sau ba ngày thi đấu đầu tiên (17-19/4), nhiều đội tuyển THPT đã để lại dấu ấn rõ nét bằng những chiến thắng với tỷ số cách biệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:00:00+07:00",
+      "fetched": "2026-04-23T18:00:13.250002+07:00"
+    },
+    {
+      "id": "8ff9272ab3d9e87057f6b25eb7041c1a",
+      "title": "Viettel Construction muốn phát triển 50.000 căn nhà ở xã hội",
+      "link": "https://vnexpress.net/viettel-construction-muon-phat-trien-50-000-can-nha-o-xa-hoi-5066222.html",
+      "summary": "Viettel Construction dự kiến phát triển 50.000 căn nhà ở xã hội, đồng thời đặt mục tiêu lợi nhuận cao nhất từ trước đến nay trong năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:00:00+07:00",
+      "fetched": "2026-04-23T18:00:13.250133+07:00"
+    },
+    {
+      "id": "24c5d990b5aee37503124180241bb6bd",
+      "title": "'Ngành thời trang Việt Nam còn thiếu sự kết nối'",
+      "link": "https://vnexpress.net/nganh-thoi-trang-viet-nam-con-thieu-su-ket-noi-5066070.html",
+      "summary": "Các chuyên gia cho rằng, ngành thời trang Việt Nam vẫn thiếu một nền tảng để các nhà thiết kế, nhà cung ứng và chuyên gia có thể cùng nhau trao đổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:00:00+07:00",
+      "fetched": "2026-04-23T18:00:13.250267+07:00"
+    },
+    {
+      "id": "d15d597dbdccb1436104675808fc67f5",
+      "title": "'Chăm sóc sức khỏe phụ nữ cần chủ động theo từng giai đoạn'",
+      "link": "https://vnexpress.net/cham-soc-suc-khoe-phu-nu-can-chu-dong-theo-tung-giai-doan-5065860.html",
+      "summary": "Theo các chuyên gia, chăm sóc sức khỏe phụ nữ cần được tiếp cận theo vòng đời, liên tục và chủ động thay vì chỉ can thiệp khi đã có triệu chứng rõ ràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T10:00:00+07:00",
+      "fetched": "2026-04-23T18:00:13.250397+07:00"
+    },
+    {
+      "id": "a420bb42f91ba059ea9f4c57c2d26d21",
+      "title": "Cầu Vỹ Dạ mở rộng 5 năm chưa xong",
+      "link": "https://vnexpress.net/cau-vy-da-mo-rong-5-nam-chua-xong-5066278.html",
+      "summary": "Được đầu tư hơn 110 tỷ đồng để nâng cấp mở rộng lên 16 m, song cầu Vỹ Dạ bắc qua sông Như Ý vẫn dang dở sau gần 5 năm thi công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T09:50:54+07:00",
+      "fetched": "2026-04-23T18:00:13.250533+07:00"
+    },
+    {
+      "id": "6402fb4d31f656f26e0716191452e10b",
+      "title": "Hoàng tử Harry bất ngờ tới Kiev, kêu gọi 'không lãng quên Ukraine'",
+      "link": "https://vnexpress.net/hoang-tu-harry-bat-ngo-toi-kiev-keu-goi-khong-lang-quen-ukraine-5066267.html",
+      "summary": "Hoàng tử Anh Harry có chuyến thăm bất ngờ tới Ukraine, nhằm kêu gọi thế giới không lãng quên về chiến sự tại quốc gia này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-23T09:36:48+07:00",
+      "fetched": "2026-04-23T18:00:19.425444+07:00"
+    },
+    {
+      "id": "652bf822f9b3f7b9b128d1f92911330d",
+      "title": "HLV U17 Malaysia: 'Cầu thủ mạnh mẽ hơn sau khi thua Việt Nam 0-4'",
+      "link": "https://vnexpress.net/hlv-u17-malaysia-cau-thu-manh-me-hon-sau-khi-thua-viet-nam-0-4-5066313.html",
+      "summary": "HLV Shukor Adan muốn các cầu thủ Malaysia duy trì bản lĩnh để tiếp đà chiến thắng khi tái đấu Việt Nam ở chung kết U17 Đông Nam Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-23T09:32:17+07:00",
+      "fetched": "2026-04-23T18:00:26.312085+07:00"
+    },
+    {
       "id": "c4352775c9d1c3822301ed1e9e7ac93d",
       "title": "Sắc vóc của 'hoa hậu' đang gây tranh cãi trên phim giờ vàng",
       "link": "https://thanhnien.vn/sac-voc-cua-hoa-hau-dang-gay-tranh-cai-tren-phim-gio-vang-185260423150412205.htm",
@@ -471,6 +971,16 @@ window.newsData_2026_04_23 = {
       "category": "Tổng hợp",
       "published": "2026-04-23T09:04:00+07:00",
       "fetched": "2026-04-23T16:18:10.616229+07:00"
+    },
+    {
+      "id": "3865e123b7f3127a61f8acd401dfdbb7",
+      "title": "Ngân hàng ngoại thứ 10 được cấp phép tại Việt Nam",
+      "link": "https://vnexpress.net/ngan-hang-ngoai-thu-10-duoc-cap-phep-tai-viet-nam-5066248.html",
+      "summary": "Lần đầu tiên sau 9 năm, Ngân hàng Nhà nước cấp giấy phép thành lập cho một ngân hàng 100% vốn nước ngoài.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-23T09:02:49+07:00",
+      "fetched": "2026-04-23T18:00:21.365116+07:00"
     },
     {
       "id": "b09e6d38936104b82fc253f5980b1a07",
