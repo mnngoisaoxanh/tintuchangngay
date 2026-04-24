@@ -1,7 +1,157 @@
 window.newsData_2026_04_24 = {
   "date": "2026-04-24",
-  "lastUpdated": "2026-04-24T11:47:53.354475+07:00",
+  "lastUpdated": "2026-04-24T14:48:40.815418+07:00",
   "articles": [
+    {
+      "id": "6274da9f8571f81e51b6039abedb099d",
+      "title": "Gia Lai miễn tiền thuê đất đầu tư dự án tại nhiều xã",
+      "link": "https://tuoitre.vn/gia-lai-mien-tien-thue-dat-dau-tu-du-an-tai-nhieu-xa-20260424110841658.htm",
+      "summary": "Tỉnh Gia Lai quyết định miễn tiền thuê đất khi doanh nghiệp đầu tư dự án xã hội hóa để phát triển kinh tế - xã hội tại xã đảo Nhơn Châu và một số địa bàn trong tỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.173781+07:00",
+      "fetched": "2026-04-24T14:48:33.173895+07:00"
+    },
+    {
+      "id": "6245d1fc1f944fc74e827f903f25b052",
+      "title": "Chủ tịch Vietcombank tiết lộ kế hoạch phát hành riêng lẻ 6,5% cổ phiếu để tăng vốn",
+      "link": "https://tuoitre.vn/chu-tich-vietcombank-tiet-lo-ke-hoach-phat-hanh-rieng-le-6-5-co-phieu-de-tang-von-20260424092418606.htm",
+      "summary": "Sáng 24-4, Ngân hàng thương mại cổ phần Ngoại thương Việt Nam (VCB) tổ chức đại hội đồng cổ đông (ĐHĐCĐ) thường niên năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.173655+07:00",
+      "fetched": "2026-04-24T14:48:33.173770+07:00"
+    },
+    {
+      "id": "609341a387d7a50ed3626fc9f0941d4f",
+      "title": "Không qua đấu thầu, doanh nghiệp vẫn được cấp thực phẩm vào trường học",
+      "link": "https://tuoitre.vn/khong-qua-dau-thau-doanh-nghiep-van-duoc-cap-thuc-pham-vao-truong-hoc-2026042216275963.htm",
+      "summary": "Một doanh nghiệp ở Hải Phòng không qua đấu thầu nhưng vẫn được cung cấp thực phẩm vào trường học. Đặc biệt, ngay cả thời gian đơn vị này hết hạn giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm, thực phẩm vẫn được cung cấp vào nhà trường,",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.173523+07:00",
+      "fetched": "2026-04-24T14:48:33.173643+07:00"
+    },
+    {
+      "id": "db03d582be06442ea3d98bee411ad947",
+      "title": "Cận cảnh VinFast Amio: Giá gần 14 triệu đồng, 65km/sạc, hết điện cũng không phải lo dắt bộ",
+      "link": "https://tuoitre.vn/can-canh-vinfast-amio-gia-gan-14-trieu-dong-65km-sac-het-dien-cung-khong-phai-lo-dat-bo-20260424080717404.htm",
+      "summary": "Với quãng đường đi khoảng 65km sau mỗi lần sạc và tốc độ tối đa 30km/h, VinFast Amio đáp ứng tốt nhu cầu đi lại hằng ngày trong phạm vi ngắn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.173358+07:00",
+      "fetched": "2026-04-24T14:48:33.173497+07:00"
+    },
+    {
+      "id": "77a22e4fa0a4ddb154c1339b3a56be6b",
+      "title": "Phía bên kia bức tường mừng 50 năm thành phố mang tên Bác",
+      "link": "https://tuoitre.vn/phia-ben-kia-buc-tuong-mung-50-nam-thanh-pho-mang-ten-bac-20260424111452535.htm",
+      "summary": "TFS vừa khởi quay bộ phim truyền hình Phía bên kia bức tường nhân kỷ niệm 50 năm ngày thành phố mang tên Bác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.173230+07:00",
+      "fetched": "2026-04-24T14:48:33.173346+07:00"
+    },
+    {
+      "id": "0e14f8331ece1b65d372d4d49aa0c605",
+      "title": "Vì sao remake anime Dragon Ball Super được xem là quyết định đúng đắn?",
+      "link": "https://tuoitre.vn/vi-sao-remake-anime-dragon-ball-super-duoc-xem-la-quyet-dinh-dung-dan-2026042401054801.htm",
+      "summary": "Thương hiệu Dragon Ball Super công bố dự án phim remake trong năm 2026, không chỉ nâng cấp hình ảnh, tác phẩm còn được kỳ vọng khắc phục các hạn chế của bản gốc và mở ra loạt remake tiếp theo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.173105+07:00",
+      "fetched": "2026-04-24T14:48:33.173219+07:00"
+    },
+    {
+      "id": "f513e4677f2cf657d09df60c7975826c",
+      "title": "Quốc hội đồng ý phân bổ 8,22 triệu tỉ đồng vốn đầu tư công trung hạn",
+      "link": "https://tuoitre.vn/quoc-hoi-dong-y-phan-bo-8-22-trieu-ti-dong-von-dau-tu-cong-trung-han-20260424114621296.htm",
+      "summary": "Ngày 24-4, Quốc hội đã thông qua các nghị quyết về tài chính quốc gia và vay, trả nợ công, kế hoạch đầu tư công trung hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.172977+07:00",
+      "fetched": "2026-04-24T14:48:33.173093+07:00"
+    },
+    {
+      "id": "220f4650e22e725795c30e702ca6aeea",
+      "title": "Thi hành án vụ Vạn Thịnh Phát: Túi Hermes của bà Trương Mỹ Lan được định giá từ 1,7 tỉ đồng",
+      "link": "https://tuoitre.vn/thi-hanh-an-vu-van-thinh-phat-tui-hermes-cua-ba-truong-my-lan-duoc-dinh-gia-tu-1-7-ti-dong-20260424121859226.htm",
+      "summary": "Thi hành án dân sự TP.HCM có thông báo về việc lựa chọn tổ chức đấu giá tài sản thi hành án với 2 túi Hermes của bà Trương Mỹ Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.172851+07:00",
+      "fetched": "2026-04-24T14:48:33.172966+07:00"
+    },
+    {
+      "id": "61418137b020a2beb29a0785d225ae99",
+      "title": "Chủ tịch TPBank nói về chuyện sa thải nhân sự vì AI",
+      "link": "https://tuoitre.vn/chu-tich-tpbank-noi-ve-chuyen-sa-thai-nhan-su-vi-ai-20260424121731694.htm",
+      "summary": "Ông Đỗ Minh Phú, Chủ tịch TPBank, cho rằng AI không thể thay thế hoàn toàn con người. Ngân hàng quy định rõ nhân viên không được tùy tiện sử dụng AI, phó mặc toàn bộ công việc cho AI...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.172724+07:00",
+      "fetched": "2026-04-24T14:48:33.172839+07:00"
+    },
+    {
+      "id": "a2c50f3d38b8448729b7603d61c5820d",
+      "title": "Chủ tịch Quốc hội: Kỳ họp đầu tiên, Quốc hội đã bầu, phê chuẩn 39 nhân sự cấp cao",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-ky-hop-dau-tien-quoc-hoi-da-bau-phe-chuan-39-nhan-su-cap-cao-20260424121453914.htm",
+      "summary": "Tại kỳ họp đầu tiên của khóa XVI, Quốc hội đã xem xét, quyết định cơ cấu tổ chức và bầu, phê chuẩn 39 nhân sự cấp cao của bộ máy Nhà nước, trong đó bầu Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng với sự tín nhiệm rất cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.172595+07:00",
+      "fetched": "2026-04-24T14:48:33.172712+07:00"
+    },
+    {
+      "id": "057fca02416ae5047f17983b0e7a5b60",
+      "title": "Việt Nam có huy chương vàng đầu tiên tại Đại hội thể thao bãi biển châu Á",
+      "link": "https://tuoitre.vn/viet-nam-co-huy-chuong-vang-dau-tien-tai-dai-hoi-the-thao-bai-bien-chau-a-2026042412385439.htm",
+      "summary": "Sáng 24-4, VĐV Hà Thị Thúy Hằng đã thi đấu xuất sắc, giúp thể thao Việt Nam có được tấm huy chương vàng đầu tiên tại Đại hội thể thao bãi biển châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.172433+07:00",
+      "fetched": "2026-04-24T14:48:33.172581+07:00"
+    },
+    {
+      "id": "6d31fcf80ad9d13ca66931e86cbabf7f",
+      "title": "Giá dầu tăng khi Mỹ, Iran đều đòi kiểm soát eo biển Hormuz",
+      "link": "https://tuoitre.vn/gia-dau-tang-khi-my-iran-deu-doi-kiem-soat-eo-bien-hormuz-20260424121842502.htm",
+      "summary": "Giá dầu tăng lên 106 USD/thùng sau khi ông Trump yêu cầu tàu qua eo biển Hormuz phải được Hải quân Mỹ cho phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.172304+07:00",
+      "fetched": "2026-04-24T14:48:33.172421+07:00"
+    },
+    {
+      "id": "28b335f8aaa7fc3ae8f94f5ccc3188a8",
+      "title": "Có bất công cho Lý Hoàng Nam ở PPA Kuala Lumpur?",
+      "link": "https://tuoitre.vn/co-bat-cong-cho-ly-hoang-nam-o-ppa-kuala-lumpur-20260424114829247.htm",
+      "summary": "Vừa vô địch đơn nam PPA Hanoi Cup, nhưng Lý Hoàng Nam vẫn bị xếp đánh từ vòng loại ở Malaysia. Liệu có bất công cho tay vợt pickleball Việt Nam, hay anh sẽ rút lui như Phúc Huỳnh trước đó?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.172173+07:00",
+      "fetched": "2026-04-24T14:48:33.172292+07:00"
+    },
+    {
+      "id": "538902b82a60c74cc9b6329e331bd2b5",
+      "title": "Gia Lai hỗ trợ để gìn giữ, phát huy nghệ thuật tuồng, bài chòi",
+      "link": "https://tuoitre.vn/gia-lai-ho-tro-de-gin-giu-phat-huy-nghe-thuat-tuong-bai-choi-20260424114410317.htm",
+      "summary": "Nghệ thuật tuồng và bài chòi truyền thống thiếu nghệ nhân, ít người học, tỉnh Gia Lai quyết định triển khai chính sách hỗ trợ đào tạo, biểu diễn, mua sắm trang bị cho các đoàn tuồng, bài chòi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.172032+07:00",
+      "fetched": "2026-04-24T14:48:33.172161+07:00"
+    },
+    {
+      "id": "a21cc40f1386dff8cc63ce74ca1a3dec",
+      "title": "Ớn hồn chuyện đốt rác bên đường ray xe lửa trên đường Lương Ngọc Quyến",
+      "link": "https://tuoitre.vn/on-hon-chuyen-dot-rac-ben-duong-ray-xe-lua-tren-duong-luong-ngoc-quyen-20260424123510077.htm",
+      "summary": "Đường Lương Ngọc Quyến, TP.HCM chỉ rộng 5m, tình trạng kẹt xe diễn ra cả sáng lẫn chiều. Dọc tuyến, rác thải tràn lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:48:33.171772+07:00",
+      "fetched": "2026-04-24T14:48:33.172016+07:00"
+    },
     {
       "id": "43f0118568dac05bfce135fae26bb892",
       "title": "2 phút hát thêm của Justin Bieber, Coachella mất cả tỉ đồng",
@@ -303,6 +453,376 @@ window.newsData_2026_04_24 = {
       "fetched": "2026-04-24T08:46:58.132006+07:00"
     },
     {
+      "id": "822d4fe7963c71ad7915f0466b1b88c0",
+      "title": "Chủ quán phở Hà Nội kể 25 phút đón Tổng thống Hàn Quốc và phu nhân",
+      "link": "https://thanhnien.vn/chu-quan-pho-ha-noi-ke-25-phut-don-tong-thong-han-quoc-va-phu-nhan-185260424141410725.htm",
+      "summary": "Đón tiếp Tổng thống Hàn Quốc Lee Jae Myung cùng phu nhân Kim Hae Kyung dùng bữa tối 23.4, chủ quán phở Lý Quốc Sư trên phố Đinh Liệt cho biết, anh rất vui sướng, tự hào khi góp phần quảng bá văn hóa ẩm thực Việt Nam ra quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:46:00+07:00",
+      "fetched": "2026-04-24T14:48:31.936601+07:00"
+    },
+    {
+      "id": "d7ab7f6d998cc8fdc3d60c94663442eb",
+      "title": "Đi bộ lúc bụng đói có giúp đốt mỡ nhiều hơn?",
+      "link": "https://thanhnien.vn/di-bo-luc-bung-doi-co-giup-dot-mo-nhieu-hon-185260424140459599.htm",
+      "summary": "Giảm mỡ không chỉ phụ thuộc vào việc tập luyện mà còn liên quan chặt chẽ đến cách cơ thể đốt calo trong từng thời điểm. Đi bộ lúc bụng đói được cho là có thể giúp đốt mỡ nhiều hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:43:00+07:00",
+      "fetched": "2026-04-24T14:48:31.936787+07:00"
+    },
+    {
+      "id": "06249ca6ed13616be98167ae394ec9a2",
+      "title": "Công an TP.HCM ưu tiên cấp định danh điện tử cho học sinh cuối cấp",
+      "link": "https://thanhnien.vn/cong-an-tphcm-uu-tien-cap-dinh-danh-dien-tu-cho-hoc-sinh-cuoi-cap-185260424135115583.htm",
+      "summary": "Ngày 24.4, Công an TP.HCM cho biết những học sinh cuối cấp chưa có thẻ căn cước và tài khoản định danh điện tử mức 2, đề nghị phụ huynh đưa đến 59 điểm cấp thẻ căn cước trên địa bàn TP.HCM để được ưu tiên tối đa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:31:00+07:00",
+      "fetched": "2026-04-24T14:48:31.936946+07:00"
+    },
+    {
+      "id": "ff8f124cf943b4f07e0989e759f5efe3",
+      "title": "Trường top Úc mở rộng tuyển thẳng học sinh Việt Nam dựa trên điểm học bạ",
+      "link": "https://thanhnien.vn/truong-top-uc-mo-rong-tuyen-thang-hoc-sinh-viet-nam-dua-tren-diem-hoc-ba-185260424091313756.htm",
+      "summary": "Đại học Công nghệ Sydney (UTS, Úc) chính thức tuyển thẳng học sinh Việt Nam từ tất cả các trường THPT chuyên và một số trường điểm của Việt Nam sau nhiều năm chỉ giới hạn ở nhóm nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:28:00+07:00",
+      "fetched": "2026-04-24T14:48:31.937113+07:00"
+    },
+    {
+      "id": "3e6311edb8b42beb5d7d606f2480ad86",
+      "title": "Khuyến khích doanh nghiệp Estonia hợp tác chuyển đổi số với TP.HCM",
+      "link": "https://thanhnien.vn/khuyen-khich-doanh-nghiep-estonia-hop-tac-chuyen-doi-so-voi-tphcm-185260424131521453.htm",
+      "summary": "Tiếp Bộ trưởng Bộ Ngoại giao Estonia, ông Nguyễn Lộc Hà, Phó chủ tịch Thường trực UBND TP.HCM, khuyến khích các doanh nghiệp Estonia hợp tác đầu tư trong lĩnh vực công nghệ thông tin, an ninh mạng, logistics số hóa, công nghệ mới cho pin ô tô điện…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:16:00+07:00",
+      "fetched": "2026-04-24T14:48:31.937282+07:00"
+    },
+    {
+      "id": "8c979c278647f62b6990ae501a7e7820",
+      "title": "HDBank chia cổ tức 30%",
+      "link": "https://thanhnien.vn/hdbank-chia-co-tuc-30-185260424135938372.htm",
+      "summary": "Các cổ đông Ngân hàng TMCP Phát triển TP.HCM (HDBank) đã thông qua các tờ trình chia cổ tức 30% và tăng vốn điều lệ 51% tại Đại hội đồng cổ đông ngày 24.4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:13:00+07:00",
+      "fetched": "2026-04-24T14:48:31.937473+07:00"
+    },
+    {
+      "id": "1a35d26d8435304bc9d8f916a72be670",
+      "title": "Sầu riêng, cà phê, hồ tiêu trúng giá giúp phân bón hưởng lợi lớn",
+      "link": "https://thanhnien.vn/sau-rieng-ca-phe-ho-tieu-trung-gia-giup-phan-bon-huong-loi-lon-185260424135016245.htm",
+      "summary": "Nhiều mặt hàng nông sản chủ lực của Việt Nam như sầu riêng, cà phê hay hồ tiêu trúng mùa được giá giúp ngành phân bón hưởng lợi lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:11:00+07:00",
+      "fetched": "2026-04-24T14:48:31.937656+07:00"
+    },
+    {
+      "id": "850da32c89998bd040e5f01e31e84a78",
+      "title": "Hệ thống Winmart đặt mục tiêu 1.000 tỉ đồng lợi nhuận năm 2026",
+      "link": "https://thanhnien.vn/he-thong-winmart-dat-muc-tieu-1000-ti-dong-loi-nhuan-nam-2026-185260424102225262.htm",
+      "summary": "Sáng nay 24.4, Công ty cổ phần Tập đoàn Masan (mã chứng khoán MSN) cùng hai công ty thành viên là Masan Consumer (MCH) và Masan MEATLife (MML) tổ chức Đại hội đồng cổ đông thường niên năm 2026, khẳng định chu kỳ tăng trưởng mới sẽ bắt đầu tăng tốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:11:00+07:00",
+      "fetched": "2026-04-24T14:48:31.937822+07:00"
+    },
+    {
+      "id": "77389cc5af651cb040fc16cc14ab6f0e",
+      "title": "'Bóng hồng' nhảy xa giành HC vàng châu Á",
+      "link": "https://vnexpress.net/bong-hong-nhay-xa-gianh-hc-vang-chau-a-5066633.html",
+      "summary": "VĐV Hà Thị Thúy Hằng đạt 6,16 m để giành HC vàng nhảy xa nữ Đại hội thể thao bãi biển châu Á 2026, sáng 25/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:02:28+07:00",
+      "fetched": "2026-04-24T14:48:28.478775+07:00"
+    },
+    {
+      "id": "77389cc5af651cb040fc16cc14ab6f0e",
+      "title": "'Bóng hồng' nhảy xa giành HC vàng châu Á",
+      "link": "https://vnexpress.net/bong-hong-nhay-xa-gianh-hc-vang-chau-a-5066633.html",
+      "summary": "VĐV Hà Thị Thúy Hằng đạt 6,16 m để giành HC vàng nhảy xa nữ Đại hội thể thao bãi biển châu Á 2026, sáng 25/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-24T07:02:28+07:00",
+      "fetched": "2026-04-24T14:48:40.807296+07:00"
+    },
+    {
+      "id": "9e14de867a0a1871e2ec7528703e6afb",
+      "title": "Hố đen phun luồng vật chất mạnh gấp 10.000 lần Mặt Trời",
+      "link": "https://vnexpress.net/ho-den-phun-luong-vat-chat-manh-gap-10-000-lan-mat-troi-5066605.html",
+      "summary": "Các chuyên gia lần đầu tiên trực tiếp đo sức mạnh của luồng vật chất phun từ hố đen, cho thấy mức năng lượng lớn gấp 10.000 lần Mặt Trời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:00:00+07:00",
+      "fetched": "2026-04-24T14:48:28.478953+07:00"
+    },
+    {
+      "id": "23b69fd656f7a1683bb061fd5b145c74",
+      "title": "Lợi thế đào tạo tại trường Quốc tế True North",
+      "link": "https://vnexpress.net/loi-the-dao-tao-tai-truong-quoc-te-true-north-5066644.html",
+      "summary": "Chương trình AP, đội ngũ giáo viên chuyên môn cao và môi trường kỷ luật là những yếu tố giúp học sinh True North đạt được nhiều thành tích sau tốt nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:00:00+07:00",
+      "fetched": "2026-04-24T14:48:28.479122+07:00"
+    },
+    {
+      "id": "b840ff5b3b029d1c7324b1220b7a5f0a",
+      "title": "Điều gì xảy ra với mắt khi tăng đường huyết?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-mat-khi-tang-duong-huyet-5066596.html",
+      "summary": "Đường huyết tăng cao có thể âm thầm gây tổn thương mắt bằng cách làm suy yếu các mạch máu nhỏ trong võng mạc, giảm thị lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:00:00+07:00",
+      "fetched": "2026-04-24T14:48:28.479282+07:00"
+    },
+    {
+      "id": "f474c2814f1ae89983d5166788b671db",
+      "title": "Herbalife chi 55 triệu USD mua tài sản của Bioniq",
+      "link": "https://vnexpress.net/herbalife-chi-55-trieu-usd-mua-tai-san-cua-bioniq-5063089.html",
+      "summary": "Herbalife sẽ hoàn tất thương vụ mua lại một số tài sản của Bioniq trong quý II, nhằm mở rộng mảng dinh dưỡng và chăm sóc sức khỏe cá nhân hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:00:00+07:00",
+      "fetched": "2026-04-24T14:48:28.479439+07:00"
+    },
+    {
+      "id": "9a919468fc6e2e0036a29f359d2fee76",
+      "title": "Tuyển sinh lớp 10 TP.HCM: Đề thi năm đầu sau sáp nhập có gì đáng chú ý?",
+      "link": "https://thanhnien.vn/tuyen-sinh-lop-10-tphcm-de-thi-nam-dau-sau-sap-nhap-co-gi-dang-chu-y-185260423104416671.htm",
+      "summary": "Nhiều phụ huynh và học sinh thắc mắc Sở GD-ĐT giới hạn chương trình và nội dung đề thi lớp 10 ra sao? Kỳ tuyển sinh lớp 10 đầu tiên của TP.HCM sau sáp nhập có những điểm nào phụ huynh, học sinh cần lưu ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:00:00+07:00",
+      "fetched": "2026-04-24T14:48:31.937975+07:00"
+    },
+    {
+      "id": "39f3a8f5fc4815f1d015ac93198a8a8d",
+      "title": "Sở hữu vẻ ngoài thanh thoát, nữ tính với đầm suông",
+      "link": "https://thanhnien.vn/thoi-trang-tre/so-huu-ve-ngoai-thanh-thoat-nu-tinh-voi-dam-suong-185260420131828144.htm",
+      "summary": "Trang phục đầm suông mang đến cho người mặc vẻ ngoài thanh thoát, nữ tính nhờ vào phom dáng rộng rãi nhưng luôn cài cắm nhiều chi tiết trang trí tinh tế và giàu sức biểu cảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T07:00:00+07:00",
+      "fetched": "2026-04-24T14:48:31.938125+07:00"
+    },
+    {
+      "id": "f474c2814f1ae89983d5166788b671db",
+      "title": "Herbalife chi 55 triệu USD mua tài sản của Bioniq",
+      "link": "https://vnexpress.net/herbalife-chi-55-trieu-usd-mua-tai-san-cua-bioniq-5063089.html",
+      "summary": "Herbalife sẽ hoàn tất thương vụ mua lại một số tài sản của Bioniq trong quý II, nhằm mở rộng mảng dinh dưỡng và chăm sóc sức khỏe cá nhân hóa.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-24T07:00:00+07:00",
+      "fetched": "2026-04-24T14:48:36.283621+07:00"
+    },
+    {
+      "id": "9e14de867a0a1871e2ec7528703e6afb",
+      "title": "Hố đen phun luồng vật chất mạnh gấp 10.000 lần Mặt Trời",
+      "link": "https://vnexpress.net/ho-den-phun-luong-vat-chat-manh-gap-10-000-lan-mat-troi-5066605.html",
+      "summary": "Các chuyên gia lần đầu tiên trực tiếp đo sức mạnh của luồng vật chất phun từ hố đen, cho thấy mức năng lượng lớn gấp 10.000 lần Mặt Trời.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-24T07:00:00+07:00",
+      "fetched": "2026-04-24T14:48:38.793208+07:00"
+    },
+    {
+      "id": "8dee67ded115712717be5d3d4d647674",
+      "title": "Nỗ lực bất thành của các cua-rơ Công an TP HCM",
+      "link": "https://vnexpress.net/no-luc-bat-thanh-cua-cac-cua-ro-cong-an-tp-hcm-5066648.html",
+      "summary": "Đội Công an TP HCM bung hết sức ở nội dung cá nhân tính giờ sáng 24/4, nhưng không thể lật đổ vị trí nhất đồng đội của Vinama TP HCM ở giải xe đạp xuyên Việt tranh Cup Truyền hình HTV 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:58:42+07:00",
+      "fetched": "2026-04-24T14:48:28.479631+07:00"
+    },
+    {
+      "id": "8dee67ded115712717be5d3d4d647674",
+      "title": "Nỗ lực bất thành của các cua-rơ Công an TP HCM",
+      "link": "https://vnexpress.net/no-luc-bat-thanh-cua-cac-cua-ro-cong-an-tp-hcm-5066648.html",
+      "summary": "Đội Công an TP HCM bung hết sức ở nội dung cá nhân tính giờ sáng 24/4, nhưng không thể lật đổ vị trí nhất đồng đội của Vinama TP HCM ở giải xe đạp xuyên Việt tranh Cup Truyền hình HTV 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-24T06:58:42+07:00",
+      "fetched": "2026-04-24T14:48:40.808116+07:00"
+    },
+    {
+      "id": "f1ef1b7af7c138cd2dcc2926bc635c68",
+      "title": "Đồng Nai: Xử lý nhóm 'quái xế' bốc đầu xe, gây mất an toàn giao thông",
+      "link": "https://thanhnien.vn/dong-nai-xu-ly-nhom-quai-xe-boc-dau-xe-gay-mat-an-toan-giao-thong-185260424130414084.htm",
+      "summary": "Nhận tin báo, Công an phường Chơn Thành đã mật phục, bắt quả tang nhóm 'quái xế' bốc đầu xe máy, lạng lách, gây nguy hiểm cho người tham gia giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:57:00+07:00",
+      "fetched": "2026-04-24T14:48:31.938272+07:00"
+    },
+    {
+      "id": "1009b7ed6c964dce83b38b6e814a05df",
+      "title": "Iran 'rải thêm thủy lôi' ở eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-rai-them-thuy-loi-o-eo-bien-hormuz-5066629.html",
+      "summary": "Quan chức Mỹ cho biết Vệ binh Iran đã rải thêm thủy lôi ở eo biển Hormuz, đánh dấu đợt thứ hai từ khi xung đột bùng phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:56:30+07:00",
+      "fetched": "2026-04-24T14:48:28.479793+07:00"
+    },
+    {
+      "id": "1009b7ed6c964dce83b38b6e814a05df",
+      "title": "Iran 'rải thêm thủy lôi' ở eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-rai-them-thuy-loi-o-eo-bien-hormuz-5066629.html",
+      "summary": "Quan chức Mỹ cho biết Vệ binh Iran đã rải thêm thủy lôi ở eo biển Hormuz, đánh dấu đợt thứ hai từ khi xung đột bùng phát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-24T06:56:30+07:00",
+      "fetched": "2026-04-24T14:48:34.483964+07:00"
+    },
+    {
+      "id": "3be281007d375531c969ebc2b1e34a17",
+      "title": "iPhone 18 Ultra màn hình gập lộ diện thiết kế",
+      "link": "https://thanhnien.vn/iphone-18-ultra-man-hinh-gap-lo-dien-thiet-ke-185260424130932449.htm",
+      "summary": "iPhone 18 Ultra lần đầu lộ diện ngoài đời thực, liệu có đủ sức 'khai tử' iPad mini?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:51:00+07:00",
+      "fetched": "2026-04-24T14:48:31.938427+07:00"
+    },
+    {
+      "id": "f946fead018649c3ba3d4d8b53bd1480",
+      "title": "Chuyển gần 83 ha rừng ở Măng Đen làm khu đô thị hơn 6.640 tỉ đồng",
+      "link": "https://thanhnien.vn/chuyen-gan-83-ha-rung-o-mang-den-lam-khu-do-thi-hon-6640-ti-dong-185260424110206845.htm",
+      "summary": "HĐND tỉnh Quảng Ngãi thông qua nghị quyết chuyển mục đích sử dụng rừng sang mục đích khác để thực hiện dự án Khu đô thị số 1 tại xã Măng Đen với tổng vốn đầu tư hơn 6.600 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:51:00+07:00",
+      "fetched": "2026-04-24T14:48:31.938612+07:00"
+    },
+    {
+      "id": "1025c2e58b71301c9279f4bd9bf5241f",
+      "title": "Hơn 90% doanh nghiệp rút lui khỏi thị trường quy mô nhỏ dưới 10 tỉ",
+      "link": "https://thanhnien.vn/hon-90-doanh-nghiep-rut-lui-khoi-thi-truong-quy-mo-nho-duoi-10-ti-185260424120023669.htm",
+      "summary": "Theo Chính phủ, doanh nghiệp rút lui khỏi thị trường chủ yếu có quy mô vốn nhỏ dưới 10 tỉ đồng, chiếm 90,3%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:46:00+07:00",
+      "fetched": "2026-04-24T14:48:31.938769+07:00"
+    },
+    {
+      "id": "e14d469e568cd0dc3189b97a10099a6d",
+      "title": "Quốc hội đã bầu, phê chuẩn 39 nhân sự cấp cao của bộ máy Nhà nước",
+      "link": "https://thanhnien.vn/quoc-hoi-da-bau-phe-chuan-39-nhan-su-cap-cao-cua-bo-may-nha-nuoc-1852604241157394.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn cho hay, Quốc hội đã hoàn thành nhiệm vụ hệ trọng khi xem xét, quyết định cơ cấu tổ chức và bầu, phê chuẩn 39 nhân sự cấp cao của bộ máy Nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:44:00+07:00",
+      "fetched": "2026-04-24T14:48:31.938922+07:00"
+    },
+    {
+      "id": "370d6a053d00c15e4b555eed1751a8cb",
+      "title": "Kẻ đốt quán hát khiến 11 người chết chưa bồi thường cho nạn nhân",
+      "link": "https://vnexpress.net/ke-dot-quan-hat-khien-11-nguoi-chet-chua-boi-thuong-cho-nan-nhan-5066653.html",
+      "summary": "Bị nhắc nhở khi uống bia quỵt tiền, Cao Văn Hùng mua xăng đốt quán khiến 11 người chết, đến nay vẫn chưa xin lỗi hay bồi thường cho các nạn nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:42:02+07:00",
+      "fetched": "2026-04-24T14:48:28.479950+07:00"
+    },
+    {
+      "id": "0c11f68ca7e8ab6bbe11c486d8c481a0",
+      "title": "Xe máy lao ngược chiều vào xe khác như cảm tử",
+      "link": "https://vnexpress.net/xe-may-lao-nguoc-chieu-vao-xe-khac-nhu-cam-tu-5066659.html",
+      "summary": "Xe máy đi ngược chiều tốc độ cao tông trực diện xe khác, va chạm phát ra tiếng động lớn, hai phương tiện hư hỏng, chưa rõ thương vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:31:12+07:00",
+      "fetched": "2026-04-24T14:48:28.480112+07:00"
+    },
+    {
+      "id": "5757565d93504c5c862b2ceb0a9d3aa5",
+      "title": "Từ tiếng Việt nào để nguyên là con trâu, bỏ bớt chữ thành con cá?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-tu-tieng-viet-nao-de-nguyen-la-con-trau-bo-bot-chu-thanh-con-ca-5066521.html",
+      "summary": "Một từ tiếng Việt cực thú vị: để nguyên là con trâu, nhưng chỉ cần bỏ đi một chữ lại hóa thành con cá, bạn đoán ra chưa?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:15:00+07:00",
+      "fetched": "2026-04-24T14:48:28.480276+07:00"
+    },
+    {
+      "id": "01f376f7e77e3ac04064897be56cbb77",
+      "title": "Phim về Michael Jackson 'thiếu chiều sâu'",
+      "link": "https://vnexpress.net/phim-ve-michael-jackson-thieu-chieu-sau-5066121.html",
+      "summary": "Giới chuyên môn cho rằng kịch bản phim \"Michael\" chỉ tập trung vào cột mốc sự nghiệp, thiếu câu chuyện đời tư để làm rõ tính cách nhân vật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:06:13+07:00",
+      "fetched": "2026-04-24T14:48:28.480429+07:00"
+    },
+    {
+      "id": "59b5d6126a4122105ef503d7963553fc",
+      "title": "Ngắm chim - liệu pháp 'chữa lành' mới của giới trẻ Mỹ",
+      "link": "https://vnexpress.net/ngam-chim-lieu-phap-chua-lanh-moi-cua-gioi-tre-my-5064866.html",
+      "summary": "Thay vì tiệc tùng, nhiều người thuộc thế hệ Gen Z và Millennials đang mang ống nhòm vào rừng tìm chim để ngắt kết nối mạng và giải tỏa áp lực cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:00:00+07:00",
+      "fetched": "2026-04-24T14:48:28.480615+07:00"
+    },
+    {
+      "id": "2ce52ce8fba1ef49d73005a94db241a7",
+      "title": "Mức độ yên tâm của tôi phụ thuộc vào giá trị của khoản tiết kiệm",
+      "link": "https://vnexpress.net/muc-do-yen-tam-cua-toi-phu-thuoc-vao-gia-tri-cua-khoan-tiet-kiem-5066613.html",
+      "summary": "Khoản tiết kiệm đó ít thì độ yên tâm ít, còn nhiều hơn thì tôi sẽ yên tâm hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:00:00+07:00",
+      "fetched": "2026-04-24T14:48:28.480773+07:00"
+    },
+    {
+      "id": "dd0796378424a84d5ad5adaa86639de4",
+      "title": "Các hãng ôtô tại Việt Nam đua nhau tăng thời gian bảo hành",
+      "link": "https://vnexpress.net/cac-hang-oto-tai-viet-nam-dua-nhau-tang-thoi-gian-bao-hanh-5066230.html",
+      "summary": "Sau VinFast, Omoda và Jaecoo, Toyota là thương hiệu mới nhất nâng mức bảo hành xe lên 10 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:00:00+07:00",
+      "fetched": "2026-04-24T14:48:28.480930+07:00"
+    },
+    {
+      "id": "14adc9c86d0f714864662ae53daac39a",
+      "title": "Vinpearl đặt mục tiêu lãi sau thuế 3.000 tỷ đồng",
+      "link": "https://vnexpress.net/vinpearl-dat-muc-tieu-lai-sau-thue-3-000-ty-dong-5066620.html",
+      "summary": "Vinpearl đặt mục tiêu lợi nhuận 3.000 tỷ đồng vào năm nay, tăng gần gấp ba lần năm trước, tham vọng trở thành thương hiệu du lịch và giải trí tích hợp hàng đầu châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T06:00:00+07:00",
+      "fetched": "2026-04-24T14:48:28.481087+07:00"
+    },
+    {
+      "id": "14adc9c86d0f714864662ae53daac39a",
+      "title": "Vinpearl đặt mục tiêu lãi sau thuế 3.000 tỷ đồng",
+      "link": "https://vnexpress.net/vinpearl-dat-muc-tieu-lai-sau-thue-3-000-ty-dong-5066620.html",
+      "summary": "Vinpearl đặt mục tiêu lợi nhuận 3.000 tỷ đồng vào năm nay, tăng gần gấp ba lần năm trước, tham vọng trở thành thương hiệu du lịch và giải trí tích hợp hàng đầu châu Á.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-24T06:00:00+07:00",
+      "fetched": "2026-04-24T14:48:36.283777+07:00"
+    },
+    {
+      "id": "402c26e1c701867eeab8d9277ad0f163",
+      "title": "Malaysia quyết 'phục thù' Việt Nam ở chung kết U17 Đông Nam Á",
+      "link": "https://vnexpress.net/malaysia-quyet-phuc-thu-viet-nam-o-chung-ket-u17-dong-nam-a-5066658.html",
+      "summary": "Các thành viên đội tuyển lẫn truyền thông Malaysia đều tin vào một chiến thắng trước Việt Nam ở chung kết U17 Đông Nam Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-24T05:49:46+07:00",
+      "fetched": "2026-04-24T14:48:40.806431+07:00"
+    },
+    {
       "id": "3156cedde788e0557a297b15519af918",
       "title": "Lịch trực tiếp chung kết U17 Đông Nam Á: Việt Nam đấu Malaysia",
       "link": "https://tuoitre.vn/lich-truc-tiep-chung-ket-u17-dong-nam-a-viet-nam-dau-malaysia-20260423174623589.htm",
@@ -311,6 +831,56 @@ window.newsData_2026_04_24 = {
       "category": "Tổng hợp",
       "published": "2026-04-24T05:34:35.747594+07:00",
       "fetched": "2026-04-24T05:34:35.747836+07:00"
+    },
+    {
+      "id": "df9fc17ad01f35ad524d7f89fe0724f9",
+      "title": "DeepSeek ra mô hình V4",
+      "link": "https://vnexpress.net/deepseek-ra-mo-hinh-v4-5066619.html",
+      "summary": "Sau hơn một năm gây chấn động thế giới với mô hình V3, DeepSeek tung ra bản cập nhật lớn V4 với nhiều nâng cấp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-24T05:16:54+07:00",
+      "fetched": "2026-04-24T14:48:38.793382+07:00"
+    },
+    {
+      "id": "00d837fcce47dc57ca63ae623273c219",
+      "title": "Saigon Co.op ưu đãi toàn hệ thống tháng sinh nhật Co.opmart 30 năm",
+      "link": "https://vnexpress.net/saigon-co-op-uu-dai-toan-he-thong-thang-sinh-nhat-co-opmart-30-nam-5066608.html",
+      "summary": "Saigon Co.op triển khai chương trình ưu đãi lớn nhất năm tại hơn 800 điểm bán trên toàn quốc, tháng sinh nhật Co.opmart 30 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-24T05:00:00+07:00",
+      "fetched": "2026-04-24T14:48:36.283939+07:00"
+    },
+    {
+      "id": "ef4434db693956e061462ef4183f5b27",
+      "title": "Cổ đông tham dự đại hội đồng cổ đông SHB cao kỷ lục",
+      "link": "https://vnexpress.net/co-dong-tham-du-dai-hoi-dong-co-dong-shb-cao-ky-luc-5066562.html",
+      "summary": "SHB ghi nhận gần 3.000 cổ đông tham dự trực tiếp Đại hội đồng cổ đông thường niên năm 2026, mức cao kỷ lục trong các kỳ đại hội của ngân hàng này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-24T05:00:00+07:00",
+      "fetched": "2026-04-24T14:48:36.284096+07:00"
+    },
+    {
+      "id": "1e514f0d536b1d01c90ca05729b05bd7",
+      "title": "Vì sao Chelsea sớm sa thải Rosenior?",
+      "link": "https://vnexpress.net/vi-sao-chelsea-som-sa-thai-rosenior-5066041.html",
+      "summary": "Bị nghi ngờ về trình độ, thiếu sự ủng hộ từ nhóm trụ cột nói tiếng Tây Ban Nha và cả lãnh đạo, nên HLV Liam Rosenior phải rời Chelsea sau gần 4 tháng từ khi ký hợp đồng 5,5 năm với Chelsea.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-24T05:00:00+07:00",
+      "fetched": "2026-04-24T14:48:40.806644+07:00"
+    },
+    {
+      "id": "dd28d6b087dd09782d9fbb429cdd94bd",
+      "title": "Dành hơn 8,2 triệu tỷ đồng cho đầu tư công 5 năm tới",
+      "link": "https://vnexpress.net/danh-hon-8-2-trieu-ty-dong-cho-dau-tu-cong-5-nam-toi-5066594.html",
+      "summary": "Quốc hội vừa chốt kế hoạch đầu tư công 8,22 triệu tỷ đồng trong 5 năm tới - gấp 2,7 lần thực hiện giai đoạn 2021-2025.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-24T04:54:23+07:00",
+      "fetched": "2026-04-24T14:48:36.282426+07:00"
     },
     {
       "id": "e572a48df5dd474bdf1414edf8c21051",
@@ -353,6 +923,16 @@ window.newsData_2026_04_24 = {
       "fetched": "2026-04-24T11:47:46.370458+07:00"
     },
     {
+      "id": "0021b6ef4727a113812a810b60bfaf18",
+      "title": "Những nỗi niềm bóng đá Italy trong mắt Buffon",
+      "link": "https://vnexpress.net/nhung-noi-niem-bong-da-italy-trong-mat-buffon-5066111.html",
+      "summary": "Cựu thủ môn huyền thoại của Italy Gianluigi Buffon chia sẻ về cuộc sống hậu giải nghệ, sự suy tàn của bóng đá nước nhà và lý do ông tự trách mình trong vụ thẻ đỏ của Zinedine Zidane ở chung kết World Cup 2006.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-24T04:32:31+07:00",
+      "fetched": "2026-04-24T14:48:40.806823+07:00"
+    },
+    {
       "id": "36657903ae1551a15fcb885f936406a8",
       "title": "Thuế tiêu thụ đặc biệt với xe điện thay đổi ra sao?",
       "link": "https://thanhnien.vn/thue-tieu-thu-dac-biet-voi-xe-dien-thay-doi-ra-sao-185260424092605708.htm",
@@ -361,6 +941,16 @@ window.newsData_2026_04_24 = {
       "category": "Tổng hợp",
       "published": "2026-04-24T04:29:00+07:00",
       "fetched": "2026-04-24T11:47:46.370611+07:00"
+    },
+    {
+      "id": "93fcc14f70ea17e73ab92a314877fba7",
+      "title": "Đu dây giải cứu gia đình 7 người kẹt trên vách đá giữa sóng dữ",
+      "link": "https://vnexpress.net/du-day-giai-cuu-gia-dinh-7-nguoi-ket-tren-vach-da-giua-song-du-5066488.html",
+      "summary": "Các nhân viên cứu nạn bang New South Wales lần lượt đu dây để giải cứu gia đình 7 người mắc kẹt nhiều giờ trên vách đá cheo leo sát biển.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-24T04:27:06+07:00",
+      "fetched": "2026-04-24T14:48:34.484143+07:00"
     },
     {
       "id": "fdad97c249889ab6dd0a4c79248c8173",
