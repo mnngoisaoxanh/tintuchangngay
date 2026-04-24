@@ -1,7 +1,157 @@
 window.newsData_2026_04_24 = {
   "date": "2026-04-24",
-  "lastUpdated": "2026-04-24T20:00:07.967826+07:00",
+  "lastUpdated": "2026-04-24T22:00:41.554926+07:00",
   "articles": [
+    {
+      "id": "c5c6d6221a40f5171ef96b12d8c7d687",
+      "title": "Petrolimex hé lộ chiến lược kinh doanh 'không tránh né làn sóng xe điện'",
+      "link": "https://tuoitre.vn/petrolimex-he-lo-chien-luoc-kinh-doanh-khong-tranh-ne-lan-song-xe-dien-20260424183124042.htm",
+      "summary": "Petrolimex cho biết không đứng ngoài xu hướng xe điện, sắp ra mắt công ty mới về pin và xe điện, đồng thời duy trì xăng dầu và tối ưu lợi nhuận hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.279825+07:00",
+      "fetched": "2026-04-24T22:00:35.279938+07:00"
+    },
+    {
+      "id": "f8eb47d29648d82e514152546e799bfd",
+      "title": "Sầm Sơn công khai đường dây nóng hỗ trợ du khách",
+      "link": "https://tuoitre.vn/sam-son-cong-khai-duong-day-nong-ho-tro-du-khach-20260424183218206.htm",
+      "summary": "Công an phường Sầm Sơn công khai đường dây nóng 0905.151.338 để tiếp nhận phản ánh, xử lý nhanh vi phạm, đảm bảo du lịch an toàn, văn minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.279697+07:00",
+      "fetched": "2026-04-24T22:00:35.279813+07:00"
+    },
+    {
+      "id": "a7f4605be867d37a57d31999cda1b546",
+      "title": "Bình Tân lập hội doanh nghiệp, tạo điểm tựa mới cho hơn 13.000 đơn vị kinh tế",
+      "link": "https://tuoitre.vn/binh-tan-lap-hoi-doanh-nghiep-tao-diem-tua-moi-cho-hon-13-000-don-vi-kinh-te-20260424185640365.htm",
+      "summary": "Hội doanh nghiệp cấp phường được kỳ vọng trở thành “điểm tựa” để lắng nghe, phản ánh vướng mắc, đồng thời tăng cường liên kết, nâng cao năng lực cạnh tranh cho doanh nghiệp nhỏ và vừa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.279560+07:00",
+      "fetched": "2026-04-24T22:00:35.279685+07:00"
+    },
+    {
+      "id": "2547d7e2ad6273a914d808c8c033eb05",
+      "title": "Trung Đông tối 24-4: Mỹ triển khai cùng lúc 3 tàu sân bay mang theo 15.000 quân",
+      "link": "https://tuoitre.vn/trung-dong-toi-24-4-my-trien-khai-cung-luc-3-tau-san-bay-mang-theo-15-000-quan-2026042419323505.htm",
+      "summary": "Mỹ triển khai cùng lúc 3 tàu sân bay ở Trung Đông, nói lệnh phong tỏa đối với Iran đang mở rộng ra toàn cầu; Israel ra lệnh sơ tán thị trấn ở miền nam Lebanon... là một số tin tức đáng chú ý về Trung Đông tối 24-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.279412+07:00",
+      "fetched": "2026-04-24T22:00:35.279548+07:00"
+    },
+    {
+      "id": "4a6e4292faa0d97fbc0d451702cc1fb0",
+      "title": "12 tài khoản mạng đăng tin xuyên tạc vụ tai nạn ở Đắk Lắk",
+      "link": "https://tuoitre.vn/12-tai-khoan-mang-dang-tin-xuyen-tac-vu-tai-nan-o-dak-lak-20260424195911084.htm",
+      "summary": "Công an tỉnh Đắk Lắk mời 12 chủ tài khoản Facebook, TikTok làm việc vì đăng thông tin sai sự thật về vụ tai nạn khiến nam sinh lớp 12 thiệt mạng ở xã Cư Pơng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.279288+07:00",
+      "fetched": "2026-04-24T22:00:35.279401+07:00"
+    },
+    {
+      "id": "595ab49bf266cc3ee708c6c190fb0f69",
+      "title": "46 học sinh ở Cà Mau nghi ngộ độc sau bữa ăn ‘0 đồng’",
+      "link": "https://tuoitre.vn/46-hoc-sinh-o-ca-mau-nghi-ngo-doc-sau-bua-an-0-dong-20260424192016165.htm",
+      "summary": "Sau khi ăn suất ăn miễn phí tại trường, 46 học sinh ở Cà Mau xuất hiện nôn ói, đau bụng, nghi ngộ độc thực phẩm, đang được theo dõi y tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.279159+07:00",
+      "fetched": "2026-04-24T22:00:35.279276+07:00"
+    },
+    {
+      "id": "c7e65eff3b669c1955db8dfc0ca0ac85",
+      "title": "Giá bán chung cư Hà Nội ngày càng bỏ xa TP.HCM, giao dịch sụt giảm",
+      "link": "https://tuoitre.vn/gia-ban-chung-cu-ha-noi-ngay-cang-bo-xa-tp-hcm-giao-dich-sut-giam-20260424184035364.htm",
+      "summary": "Giá bán chung cư thương mại trung bình quý 1-2026 tại Hà Nội 128 triệu đồng/m² trong khi giá ở TP.HCM khoảng 112 triệu đồng/m².",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.279032+07:00",
+      "fetched": "2026-04-24T22:00:35.279147+07:00"
+    },
+    {
+      "id": "b21f99c24e10db1a5a5d1863127b4fd4",
+      "title": "Video: Thủ môn Úc xuất sắc cứu thua, khiến U17 Lào ‘ôm hận’",
+      "link": "https://tuoitre.vn/video-thu-mon-uc-xuat-sac-cuu-thua-khien-u17-lao-om-han-20260424191020926.htm",
+      "summary": "Thủ môn Úc xuất sắc cứu thua trên chấm 11m, khiến U17 Lào “ôm hận” vì không ghi được bàn danh dự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.278898+07:00",
+      "fetched": "2026-04-24T22:00:35.279020+07:00"
+    },
+    {
+      "id": "fd25c0de337d60e2e38f0f7bfd17ac8b",
+      "title": "Đại gia Trầm Bê tái xuất với loạt dự án nghìn tỉ, tiềm lực công ty ra sao?",
+      "link": "https://tuoitre.vn/dai-gia-tram-be-tai-xuat-voi-loat-du-an-nghin-ti-tiem-luc-cong-ty-ra-sao-20260424195132999.htm",
+      "summary": "Ông Trầm Bê xuất hiện với vai trò là đại diện Công ty TNHH Xây dựng Hàm Giang. Đây là chủ đầu tư 4 dự án ở Vĩnh Long với tổng diện tích khoảng 468ha, tổng vốn đầu tư gần 6.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.278765+07:00",
+      "fetched": "2026-04-24T22:00:35.278882+07:00"
+    },
+    {
+      "id": "652582445373f99cc3885647a9f569bd",
+      "title": "Đà Nẵng đăng cai Pickleball World Cup 2026, dự kiến 4.000 VĐV từ 80 nước",
+      "link": "https://tuoitre.vn/da-nang-dang-cai-pickleball-world-cup-2026-du-kien-4-000-vdv-tu-80-nuoc-20260424181324912.htm",
+      "summary": "Đà Nẵng được chọn tổ chức Pickleball World Cup 2026. Sự kiện thể thao quốc tế lớn nhất từ trước đến nay của bộ môn pickleball tại châu Á kỳ vọng thu hút vận động viên từ 80 nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.278630+07:00",
+      "fetched": "2026-04-24T22:00:35.278753+07:00"
+    },
+    {
+      "id": "43c39d19561839bbc12b3488c33b3b35",
+      "title": "'Thích làm nhà văn mà cha mẹ muốn thành bác sĩ, có SV bật khóc'",
+      "link": "https://tuoitre.vn/thich-lam-nha-van-ma-cha-me-muon-thanh-bac-si-co-sv-bat-khoc-20260424164725316.htm",
+      "summary": "Tại Future Fest 2026, chuyên gia cho biết nhiều học sinh chọn sai ngành do áp lực gia đình, thiếu định hướng, dễ dẫn đến bỏ học, chuyển ngành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.278469+07:00",
+      "fetched": "2026-04-24T22:00:35.278617+07:00"
+    },
+    {
+      "id": "386f36da59566610b89ec643e229ab7f",
+      "title": "Hà Nội sẽ bắn pháo hoa tại sân Mỹ Đình lúc 20h đêm 28-4",
+      "link": "https://tuoitre.vn/ha-noi-se-ban-phao-hoa-tai-san-my-dinh-luc-20g-dem-28-4-20260424191145509.htm",
+      "summary": "Trong khuôn khổ chương trình \"Âm vang Tổ quốc\" diễn ra vào 20h ngày 28-4 tại sân vận động quốc gia Mỹ Đình (phường Từ Liêm), Hà Nội sẽ tổ chức bắn pháo hoa tầm cao kết hợp tầm thấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.278337+07:00",
+      "fetched": "2026-04-24T22:00:35.278456+07:00"
+    },
+    {
+      "id": "d280b9423370d0f580fd52113c4f6b1f",
+      "title": "Cần Thơ xây 20 ‘Mái ấm công đoàn’, hỗ trợ công nhân khó khăn",
+      "link": "https://tuoitre.vn/can-tho-xay-20-mai-am-cong-doan-ho-tro-cong-nhan-kho-khan-20260424174545824.htm",
+      "summary": "Ngoài hỗ trợ xây dựng 20 'Mái ấm công đoàn' với số tiền 1 tỉ đồng, Cần Thơ còn trao 20 suất học bổng và 100 phần quà cho đoàn viên, công nhân lao động có hoàn cảnh khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.278203+07:00",
+      "fetched": "2026-04-24T22:00:35.278325+07:00"
+    },
+    {
+      "id": "a7f03b7ad59fef3f100cedddd4f062a4",
+      "title": "Đến Tuy Hòa dịp lễ 30-4, có cơ hội bay khinh khí cầu miễn phí tại tháp Nghinh Phong",
+      "link": "https://tuoitre.vn/den-tuy-hoa-dip-le-30-4-co-co-hoi-bay-khinh-khi-cau-mien-phi-tai-thap-nghinh-phong-20260424164649108.htm",
+      "summary": "Bay khinh khí cầu sẽ được tổ chức trong 4 ngày, từ 28-4 đến 1-5, tại khu vực tháp Nghinh Phong (Tuy Hòa, Phú Yên, nay thuộc Đắk Lắk).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.278061+07:00",
+      "fetched": "2026-04-24T22:00:35.278190+07:00"
+    },
+    {
+      "id": "936e0bbaf83a626de2edcc4e0b7c9d22",
+      "title": "CSGT TP.HCM gợi ý nhiều đường đi tránh ùn tắc dịp lễ 30-4, 1-5",
+      "link": "https://tuoitre.vn/csgt-tp-hcm-goi-y-nhieu-duong-di-tranh-un-tac-dip-le-30-4-1-5-20260424190049438.htm",
+      "summary": "Phòng Cảnh sát giao thông Công an TP.HCM khuyến nghị người dân chủ động lựa chọn các lộ trình phù hợp khi đi lại dịp lễ sắp tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T22:00:35.277830+07:00",
+      "fetched": "2026-04-24T22:00:35.278045+07:00"
+    },
     {
       "id": "8aa75e84593d34e5229462083ab85358",
       "title": "Sacombank và Vingroup ký kết hợp tác chiến lược toàn diện",
@@ -453,6 +603,26 @@ window.newsData_2026_04_24 = {
       "fetched": "2026-04-24T16:22:22.871542+07:00"
     },
     {
+      "id": "6db68212912b848e3235d2d9a76353fe",
+      "title": "'Xuyên thấu có kiểm soát' vẫn khoe được phong cách thời trang tinh tế",
+      "link": "https://thanhnien.vn/thoi-trang-tre/xuyen-thau-co-kiem-soat-van-khoe-duoc-phong-cach-thoi-trang-tinh-te-185260424000238202.htm",
+      "summary": "Sử dụng các thiết kế gần như xuyên thấu hoàn toàn, nhằm tạo vẻ ngoài gợi cảm đang là xu hướng được các tín đồ theo đuổi phong cách quyến rũ ưa thích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T15:00:00+07:00",
+      "fetched": "2026-04-24T22:00:34.245648+07:00"
+    },
+    {
+      "id": "cc01003b2cd988be68d17477c19ee3f7",
+      "title": "Vụ nam sinh lớp 12 tử vong ở Đắk Lắk: Cục CSGT thông tin thêm",
+      "link": "https://thanhnien.vn/vu-nam-sinh-lop-12-tu-vong-o-dak-lak-cuc-csgt-thong-tin-them-185260424213633751.htm",
+      "summary": "Cục CSGT (Bộ Công an) thông tin bổ sung về vụ tai nạn giao thông xảy ra tại xã Cư Pơng, tỉnh Đắk Lắk khiến một nam sinh lớp 12 tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:58:00+07:00",
+      "fetched": "2026-04-24T22:00:34.245818+07:00"
+    },
+    {
       "id": "6274da9f8571f81e51b6039abedb099d",
       "title": "Gia Lai miễn tiền thuê đất đầu tư dự án tại nhiều xã",
       "link": "https://tuoitre.vn/gia-lai-mien-tien-thue-dat-dau-tu-du-an-tai-nhieu-xa-20260424110841658.htm",
@@ -601,6 +771,256 @@ window.newsData_2026_04_24 = {
       "category": "Tổng hợp",
       "published": "2026-04-24T14:48:33.171772+07:00",
       "fetched": "2026-04-24T14:48:33.172016+07:00"
+    },
+    {
+      "id": "f3d51de83d3ea8ee99dfda607e2bb30e",
+      "title": "Thanh Thúy cùng CLB VTV Bình Điền Long An thua ngược ở Cúp bóng chuyền Hùng Vương",
+      "link": "https://thanhnien.vn/thanh-thuy-cung-clb-vtv-binh-dien-long-an-thua-nguoc-o-cup-bong-chuyen-hung-vuong-185260424213415971.htm",
+      "summary": "Trần Thị Thanh Thúy cùng CLB VTV Bình Điền Long An thất thủ trước CLB Hóa chất Đức Giang Lào Cai ở bán kết Cúp bóng chuyền Hùng Vương 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:35:00+07:00",
+      "fetched": "2026-04-24T22:00:34.245975+07:00"
+    },
+    {
+      "id": "385811912cf8a6c28a7ebab1c6651c51",
+      "title": "Phó giám đốc Sở GD-ĐT TP.HCM bị hack Zalo phát tán tin nhắn lừa đảo mượn tiền",
+      "link": "https://thanhnien.vn/pho-giam-doc-so-gd-dt-tphcm-bi-hack-zalo-phat-tan-tin-nhan-lua-dao-muon-tien-185260424211315505.htm",
+      "summary": "Ông Nguyễn Văn Phong, Phó giám đốc Sở GD-ĐT TP.HCM, thông báo về việc bị hack Zalo, lừa đảo mượn tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:35:00+07:00",
+      "fetched": "2026-04-24T22:00:34.246128+07:00"
+    },
+    {
+      "id": "cfadea505e4bd884244474d030ddcde2",
+      "title": "OpenAI giới thiệu GPT-5.5 giúp thay đổi cách con người làm việc",
+      "link": "https://thanhnien.vn/openai-gioi-thieu-gpt-55-giup-thay-doi-cach-con-nguoi-lam-viec-185260424103854038.htm",
+      "summary": "OpenAI vừa công bố mô hình trí tuệ nhân tạo (AI) mới mang tên GPT-5.5, hứa hẹn thông minh và trực quan nhất từ trước đến nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:35:00+07:00",
+      "fetched": "2026-04-24T22:00:34.246280+07:00"
+    },
+    {
+      "id": "4831e0655e30a5a6ada1a7e8136f6ce5",
+      "title": "U.17 Việt Nam về nước ngày 26.4, độc chiếm ngôi đầu lịch sử giải Đông Nam Á",
+      "link": "https://thanhnien.vn/u17-viet-nam-ve-nuoc-ngay-264-doc-chiem-ngoi-dau-lich-su-giai-dong-nam-a-185260424205500102.htm",
+      "summary": "U.17 Việt Nam sẽ về nước 2 ngày sau khi lên ngôi vô địch Đông Nam Á lần thứ 4 với màn trình diễn đầy thuyết phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:34:00+07:00",
+      "fetched": "2026-04-24T22:00:34.246430+07:00"
+    },
+    {
+      "id": "36579440fd034a11317e0ed8987a4276",
+      "title": "Thắng đậm Malaysia, U.17 Việt Nam lần thứ tư lên ngôi Đông Nam Á: VFF thưởng lớn 1,1 tỉ đồng",
+      "link": "https://thanhnien.vn/thang-dam-malaysia-u17-viet-nam-lan-thu-tu-len-ngoi-dong-nam-a-vff-thuong-nong-vi-chien-tich-lich-su-185260424204453998.htm",
+      "summary": "U.17 Việt Nam áp đảo hoàn toàn U.17 Malaysia, giành chiến thắng 3-0 trong trận chung kết để lên ngôi vô địch Đông Nam Á lần thứ 4 với màn trình diễn thuyết phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:34:00+07:00",
+      "fetched": "2026-04-24T22:00:34.246605+07:00"
+    },
+    {
+      "id": "1084bff809cb7c62a0940b6eb6d4331d",
+      "title": "U.17 Việt Nam đá giải nào sau khi vô địch Đông Nam Á, giờ thi đấu đẹp: Lộ diện kênh phát",
+      "link": "https://thanhnien.vn/u17-viet-nam-da-giai-nao-sau-khi-vo-dich-dong-nam-a-gio-thi-dau-dep-lo-dien-kenh-phat-185260424212438489.htm",
+      "summary": "Sau khi đánh bại U.17 Malaysia 3 bàn không gỡ để đoạt ngôi vương Đông Nam Á, U.17 Việt Nam sẽ bước vào thử thách tiếp theo mang tên VCK U.17 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:31:00+07:00",
+      "fetched": "2026-04-24T22:00:34.246757+07:00"
+    },
+    {
+      "id": "73afa3d829414e2d22969eb6b4863e01",
+      "title": "Liên tiếp gây ra hơn 20 vụ trộm tại bệnh viện ở Đà Nẵng",
+      "link": "https://vnexpress.net/lien-tiep-gay-ra-hon-20-vu-trom-tai-benh-vien-o-da-nang-5066879.html",
+      "summary": "Trong chưa đầy một tháng, Trần Duy Khoa đã thực hiện hơn 20 vụ trộm điện thoại và tài sản của bệnh nhân tại nhiều bệnh viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:17:07+07:00",
+      "fetched": "2026-04-24T22:00:31.116365+07:00"
+    },
+    {
+      "id": "8fe2a0b8a3bc4a079aff46f439dca8e8",
+      "title": "Văn Quyết: 'Ninh Bình có ba Hoàng Đức cũng vậy thôi'",
+      "link": "https://vnexpress.net/van-quyet-ninh-binh-co-ba-hoang-duc-cung-vay-thoi-5066885.html",
+      "summary": "Tiền đạo Hà Nội FC Nguyễn Văn Quyết mỉa mai lối chơi của Ninh Bình sau khi thắng đối thủ này 3-2 ở vòng 20 V-League 2025-2026 tối 24/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:14:52+07:00",
+      "fetched": "2026-04-24T22:00:31.116576+07:00"
+    },
+    {
+      "id": "8fe2a0b8a3bc4a079aff46f439dca8e8",
+      "title": "Văn Quyết: 'Ninh Bình có ba Hoàng Đức cũng vậy thôi'",
+      "link": "https://vnexpress.net/van-quyet-ninh-binh-co-ba-hoang-duc-cung-vay-thoi-5066885.html",
+      "summary": "Tiền đạo Hà Nội FC Nguyễn Văn Quyết mỉa mai lối chơi của Ninh Bình sau khi thắng đối thủ này 3-2 ở vòng 20 V-League 2025-2026 tối 24/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-24T14:14:52+07:00",
+      "fetched": "2026-04-24T22:00:41.541787+07:00"
+    },
+    {
+      "id": "15a491bbf1f1584f8baac17248fbdb3c",
+      "title": "Vụ nam sinh lớp 12 tử vong ở Đắk Lắk: Công an cung cấp clip mới",
+      "link": "https://thanhnien.vn/vu-nam-sinh-lop-12-tu-vong-o-dak-lak-cong-an-cung-cap-clip-moi-185260424195222208.htm",
+      "summary": "Công an tỉnh Đắk Lắk đã cung cấp thêm thông tin, clip liên quan đến vụ tai nạn khiến nam sinh lớp 12 tử vong cho Cục CSGT (Bộ Công an).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:13:00+07:00",
+      "fetched": "2026-04-24T22:00:34.246905+07:00"
+    },
+    {
+      "id": "ca7e3ec5d688c4e745a4090dd95eb859",
+      "title": "Nỗi lo đánh thuế nhà cho thuê, người thuê nhà gánh hết",
+      "link": "https://vnexpress.net/thue-bat-dong-san-thu-hai-noi-lo-danh-thue-nha-cho-thue-nguoi-thue-nha-ganh-het-5066775.html",
+      "summary": "'Căn phòng tôi đang thuê giá 4 triệu một tháng, nếu chủ nhà bị đánh thuế thì họ chỉ cần tăng giá cho thuê nhà lên 4,5 triệu là xong'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T14:00:00+07:00",
+      "fetched": "2026-04-24T22:00:31.116748+07:00"
+    },
+    {
+      "id": "1aba7b9c3108f0c971333cfa239337cd",
+      "title": "Cựu viện phó và kiểm sát viên vụ 'nữ sinh tử vong ở Vĩnh Long' bị khởi tố",
+      "link": "https://vnexpress.net/cuu-vien-pho-va-kiem-sat-vien-vu-nu-sinh-tu-vong-o-vinh-long-bi-khoi-to-5066878.html",
+      "summary": "Cựu phó viện trưởng VKSND và kiểm sát viên huyện Trà Ôn (cũ) bị khởi tố với cáo buộc bỏ qua trách nhiệm người có tội trong vụ tai nạn giao thông khiến nữ sinh tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T13:55:56+07:00",
+      "fetched": "2026-04-24T22:00:31.116910+07:00"
+    },
+    {
+      "id": "0ba2f72e081cb6c0dede630757323345",
+      "title": "Binh sĩ ốm đói giơ xương, tư lệnh Ukraine mất chức",
+      "link": "https://thanhnien.vn/binh-si-om-doi-gio-xuong-tu-lenh-ukraine-mat-chuc-185260424203338279.htm",
+      "summary": "Hai tư lệnh Ukraine mất chức sau khi xuất hiện hình ảnh binh sĩ trên tiền tuyến thuộc đơn vị do họ quản lý gầy gò đến mức giơ xương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T13:49:00+07:00",
+      "fetched": "2026-04-24T22:00:34.247053+07:00"
+    },
+    {
+      "id": "7ad3035f5fac6c45ac12ca2a9e9e8d74",
+      "title": "Hà Nội FC hạ Ninh Bình để áp sát top 3 V-League",
+      "link": "https://vnexpress.net/ha-noi-fc-ha-ninh-binh-de-ap-sat-top-3-v-league-5066867.html",
+      "summary": "Chiến thắng 3-2 trên sân Ninh Bình tại vòng 20 giúp Hà Nội FC thu hẹp cách biệt với đối thủ xuống một điểm trên bảng thứ bậc V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T13:39:06+07:00",
+      "fetched": "2026-04-24T22:00:31.117069+07:00"
+    },
+    {
+      "id": "7ad3035f5fac6c45ac12ca2a9e9e8d74",
+      "title": "Hà Nội FC hạ Ninh Bình để áp sát top 3 V-League",
+      "link": "https://vnexpress.net/ha-noi-fc-ha-ninh-binh-de-ap-sat-top-3-v-league-5066867.html",
+      "summary": "Chiến thắng 3-2 trên sân Ninh Bình tại vòng 20 giúp Hà Nội FC thu hẹp cách biệt với đối thủ xuống một điểm trên bảng thứ bậc V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-24T13:39:06+07:00",
+      "fetched": "2026-04-24T22:00:41.541965+07:00"
+    },
+    {
+      "id": "1c4a909eca69877e3b35fe22bc60769c",
+      "title": "Người đàn ông dâm ô 2 bé gái bị bắt",
+      "link": "https://vnexpress.net/nguoi-dan-ong-dam-o-2-be-gai-bi-bat-5066872.html",
+      "summary": "Lợi dụng trời tối vắng vẻ, Vũ Đình Vinh, 53 tuổi, đã dâm ô hai bé gái 11 và 14 tuổi tại phường Nam Đồ Sơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T13:32:50+07:00",
+      "fetched": "2026-04-24T22:00:31.117227+07:00"
+    },
+    {
+      "id": "1d587e101084682a68adf65c5b198643",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn sinh học | Chuyên đề 2 | Quá trình nguyên phân và giảm phân",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-sinh-hoc-chuyen-de-2-qua-trinh-nguyen-phan-va-giam-phan-185260418094254998.htm",
+      "summary": "Chương trình hướng dẫn học sinh làm bài thi môn sinh học, kỳ thi THPT quốc gia 2026. Buổi hướng dẫn \"Bí quyết ôn thi THPT 2026\" do thầy Võ Thanh Bình, Trường THPT chuyên Lê Hồng Phong, TP.HCM – thực hiện. Chương trình được phát trên các kênh thanhnien.vn, Facebook.com/thanhnien và YouTube Báo Thanh ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T13:30:00+07:00",
+      "fetched": "2026-04-24T22:00:34.247201+07:00"
+    },
+    {
+      "id": "33dabec6e2b0f09f5e34a5d97b81a041",
+      "title": "Nhớ 30.4 qua ảnh của nghệ sĩ Lâm Hồng Long, Đoàn Công Tính",
+      "link": "https://thanhnien.vn/nho-304-qua-anh-cua-nghe-si-lam-hong-long-doan-cong-tinh-18526042420084779.htm",
+      "summary": "Những bức ảnh của nghệ sĩ Lâm Hồng Long, Đoàn Công Tính làm nhớ ngày 30.4.1975 lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T13:27:00+07:00",
+      "fetched": "2026-04-24T22:00:34.247348+07:00"
+    },
+    {
+      "id": "ea7b7a007a725da0f898e2dbe2965ac7",
+      "title": "CLB Hà Nội thắng nghẹt thở Ninh Bình, rượt đuổi kịch tính đến phút bù giờ",
+      "link": "https://thanhnien.vn/clb-ha-noi-thang-nghet-tho-ninh-binh-ruot-duoi-kich-tinh-den-phut-bu-gio-185260424203620098.htm",
+      "summary": "CLB Hà Nội giành chiến thắng 3-2 đầy kịch tính trên sân Ninh Bình, trong trận đấu mà cả hai đội tạo ra màn rượt đuổi tỷ số hấp dẫn đến những phút cuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T13:25:00+07:00",
+      "fetched": "2026-04-24T22:00:34.247528+07:00"
+    },
+    {
+      "id": "790aff18d0617d91d66889f7e4c508e4",
+      "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Phân biệt nguyên phân và giảm phân",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-phan-biet-nguyen-phan-va-giam-phan-185260422223839536.htm",
+      "summary": "Vào lúc 20 giờ 30 ngày 24.4, Báo Thanh Niên phát sóng chuyên đề số 2 của môn sinh học trong chương trình Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T13:25:00+07:00",
+      "fetched": "2026-04-24T22:00:34.247692+07:00"
+    },
+    {
+      "id": "953dd91c3d0b9c6f6f3137cb1bac1b2f",
+      "title": "Bảo tàng Pháp thỏa thuận chuyển giao tài liệu quý về Hoàng thành cho Huế",
+      "link": "https://thanhnien.vn/bao-tang-phap-thoa-thuan-chuyen-giao-tai-lieu-quy-ve-hoang-thanh-cho-hue-185260424185741291.htm",
+      "summary": "Bảo tàng Quai Branly - Jacques Chirac (Pháp) đã ký thỏa thuận hợp tác với Trung tâm Bảo tồn di tích cố đô Huế về việc chuyển giao tài liệu quý về Hoàng thành cho Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T13:22:00+07:00",
+      "fetched": "2026-04-24T22:00:34.247850+07:00"
+    },
+    {
+      "id": "b318589176a80fae04139eb9452606e7",
+      "title": "Khối băng khổng lồ phong toả đường lên đỉnh Everest",
+      "link": "https://vnexpress.net/khoi-bang-khong-lo-phong-toa-duong-len-dinh-everest-5066840.html",
+      "summary": "Một khối băng lớn xuất hiện tại thác băng Khumbu buộc hàng trăm nhà leo núi phải tạm dừng hành trình chinh phục đỉnh Everest từ phía Nepal.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T13:01:15+07:00",
+      "fetched": "2026-04-24T22:00:31.117390+07:00"
+    },
+    {
+      "id": "4d376566d7bfb4b35e9363db1093a16f",
+      "title": "MSB đặt mục tiêu lãi 8.000 tỷ đồng",
+      "link": "https://vnexpress.net/msb-dat-muc-tieu-lai-8-000-ty-dong-5066868.html",
+      "summary": "MSB đặt mục tiêu lợi nhuận trước thuế đạt 8.000 tỷ đồng, tăng 13% so với năm trước, đồng thời dự kiến phát hành thêm 624 triệu cổ phiếu để tăng vốn điều lệ lên 37.440 tỷ đồng trong năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T13:00:00+07:00",
+      "fetched": "2026-04-24T22:00:31.117570+07:00"
+    },
+    {
+      "id": "d9068febe1b0b8d844e6964db0778ef8",
+      "title": "Tiêm trẻ hóa có giúp nam giới bền bỉ hơn?",
+      "link": "https://vnexpress.net/tiem-tre-hoa-co-giup-nam-gioi-ben-bi-hon-5066785.html",
+      "summary": "Nhiều nam giới đang hầm tưởng việc tân trang vẻ ngoài là có thể chữa được yếu sinh lý, nhưng theo bác sỹ bản lĩnh đàn ông nằm ở não bộ chứ không phải do lớp da bên ngoài bị già đi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T13:00:00+07:00",
+      "fetched": "2026-04-24T22:00:31.117741+07:00"
+    },
+    {
+      "id": "2e1352676dd681b76a48247478c629b8",
+      "title": "Vành đai 3 TP HCM tạo lợi thế cho căn hộ Iki Village",
+      "link": "https://vnexpress.net/vanh-dai-3-tp-hcm-tao-loi-the-cho-can-ho-iki-village-5066388.html",
+      "summary": "Vành đai 3 sắp về đích kéo theo nhu cầu an cư, tạo sức hút cho Iki Village - khu căn hộ kết nối trực tiếp với trục đường qua nút giao Gò Công cách đó 1 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T13:00:00+07:00",
+      "fetched": "2026-04-24T22:00:31.117906+07:00"
     },
     {
       "id": "13d27275673dd80c2320939794b36b97",
@@ -921,6 +1341,16 @@ window.newsData_2026_04_24 = {
       "category": "Thể thao",
       "published": "2026-04-24T11:51:49+07:00",
       "fetched": "2026-04-24T20:00:07.957230+07:00"
+    },
+    {
+      "id": "49ac7f50ef09262b493eb93c959357a8",
+      "title": "Việt Nam hạ Malaysia, lập kỷ lục vô địch U17 Đông Nam Á",
+      "link": "https://vnexpress.net/ket-qua-u17-viet-nam-vs-malaysia-5066862.html",
+      "summary": "Việt Nam thắng Malaysia 3-0 ở chung kết, qua đó lần thứ tư vô địch giải U17 Đông Nam Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-24T11:51:49+07:00",
+      "fetched": "2026-04-24T22:00:41.542229+07:00"
     },
     {
       "id": "43f0118568dac05bfce135fae26bb892",
