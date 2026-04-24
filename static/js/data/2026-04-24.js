@@ -1,7 +1,157 @@
 window.newsData_2026_04_24 = {
   "date": "2026-04-24",
-  "lastUpdated": "2026-04-24T17:58:04.519511+07:00",
+  "lastUpdated": "2026-04-24T20:00:07.967826+07:00",
   "articles": [
+    {
+      "id": "8aa75e84593d34e5229462083ab85358",
+      "title": "Sacombank và Vingroup ký kết hợp tác chiến lược toàn diện",
+      "link": "https://tuoitre.vn/sacombank-va-vingroup-ky-ket-hop-tac-chien-luoc-toan-dien-20260424174627133.htm",
+      "summary": "Ngày 24-4, tại Hà Nội, Ngân hàng TMCP Sài Gòn Thương Tín (Sacombank) và Tập đoàn Vingroup chính thức ký kết Thỏa thuận hợp tác chiến lược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.562950+07:00",
+      "fetched": "2026-04-24T20:00:00.563027+07:00"
+    },
+    {
+      "id": "304a3373c9d280b0435d91819d344d07",
+      "title": "Ông Trump ám chỉ tàu Iran chở 'quà từ Trung Quốc', Bắc Kinh bác bỏ",
+      "link": "https://tuoitre.vn/ong-trump-am-chi-tau-iran-cho-qua-tu-trung-quoc-bac-kinh-bac-bo-20260424162432155.htm",
+      "summary": "Bộ Ngoại giao Trung Quốc bác bỏ phát biểu của ông Trump gọi một tàu hàng treo cờ Iran bị Mỹ bắt giữ chở 'quà từ Trung Quốc'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.562869+07:00",
+      "fetched": "2026-04-24T20:00:00.562941+07:00"
+    },
+    {
+      "id": "573f281ee5dde8544631aeab82007b11",
+      "title": "Giá thức ăn chăn nuôi tăng 14%, khuyến cáo không tăng đàn vì cung vượt cầu",
+      "link": "https://tuoitre.vn/gia-thuc-an-chan-nuoi-tang-14-khuyen-cao-khong-tang-dan-vi-cung-vuot-cau-20260424162541751.htm",
+      "summary": "Giá thức ăn chăn nuôi đã tăng 10-14% so với đầu năm và khả năng sẽ còn tăng nếu tình hình chiến sự tại Trung Đông còn phức tạp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.562792+07:00",
+      "fetched": "2026-04-24T20:00:00.562863+07:00"
+    },
+    {
+      "id": "571c3f5de4483235b0fea6a4e9181c0c",
+      "title": "Kỷ luật 5 đảng viên, thanh tra toàn diện dự án nâng cấp Dinh tỉnh trưởng Gò Công",
+      "link": "https://tuoitre.vn/ky-luat-5-dang-vien-thanh-tra-toan-dien-du-an-nang-cap-dinh-tinh-truong-go-cong-20260424173105216.htm",
+      "summary": "UBND tỉnh Đồng Tháp đã đề xuất giao Thanh tra tỉnh thanh tra toàn diện dự án nâng cấp di tích kiến trúc nghệ thuật Dinh tỉnh trưởng Gò Công. Hiện đã có 5 cán bộ liên quan bị kỷ luật về mặt Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.562714+07:00",
+      "fetched": "2026-04-24T20:00:00.562786+07:00"
+    },
+    {
+      "id": "d88116972a027a0a9a3cf77d9f2002dd",
+      "title": "Trình UBND TP.HCM duyệt đề án di dời đại học, cơ sở y tế ra ngoại thành",
+      "link": "https://tuoitre.vn/trinh-ubnd-tp-hcm-duyet-de-an-di-doi-dai-hoc-co-so-y-te-ra-ngoai-thanh-20260424172412697.htm",
+      "summary": "Sở Quy hoạch - Kiến trúc TP.HCM vừa trình UBND TP.HCM đề án sắp xếp, di dời, mở rộng các cơ sở giáo dục đại học, cao đẳng, đào tạo nghề và các cơ sở y tế ra khỏi khu vực nội thành theo lộ trình phù hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.562639+07:00",
+      "fetched": "2026-04-24T20:00:00.562707+07:00"
+    },
+    {
+      "id": "93833770f0b4a42c47c2a905093cd63c",
+      "title": "Bắt quả tang 'cát tặc' trên sông Cái qua Nha Trang",
+      "link": "https://tuoitre.vn/bat-qua-tang-cat-tac-tren-song-cai-qua-nha-trang-20260424172336895.htm",
+      "summary": "Cảnh sát kinh tế Công an tỉnh Khánh Hòa vừa bắt quả tang điểm khai thác cát trái phép trên sông Cái đoạn qua phường Tây Nha Trang vào rạng sáng nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.562563+07:00",
+      "fetched": "2026-04-24T20:00:00.562632+07:00"
+    },
+    {
+      "id": "8b840559185de5e8e98192ae8b88eb7c",
+      "title": "Sôi nổi Liên hoan các CLB Vovinam TP.HCM lần thứ I năm 2026",
+      "link": "https://tuoitre.vn/soi-noi-lien-hoan-cac-clb-vovinam-tp-hcm-lan-thu-i-nam-2026-2026042417423009.htm",
+      "summary": "Liên hoan các CLB Vovinam TP.HCM nằm trong chuỗi sự kiện hưởng ứng Đại hội Thể dục thể thao TP.HCM lần thứ I năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.562484+07:00",
+      "fetched": "2026-04-24T20:00:00.562554+07:00"
+    },
+    {
+      "id": "e52d6250ea572fcf8cb3a21221a88495",
+      "title": "Sawaco hỗ trợ 200 người dân phẫu thuật mắt miễn phí",
+      "link": "https://tuoitre.vn/sawaco-ho-tro-200-nguoi-dan-phau-thuat-mat-mien-phi-20260424172243637.htm",
+      "summary": "Sáng 23-4, Tổng Công ty Cấp nước Sài Gòn - TNHH MTV (Sawaco) cùng Hội Bảo trợ bệnh nhân nghèo TPHCM tổ chức chương trình hỗ trợ bệnh nhân Trảng Bàng, tỉnh Tây Ninh mổ mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.562395+07:00",
+      "fetched": "2026-04-24T20:00:00.562477+07:00"
+    },
+    {
+      "id": "b530d62048ad4767b9ec14b564b70eec",
+      "title": "Học liên ngành mở ra cơ hội việc làm gì cho người trẻ?",
+      "link": "https://tuoitre.vn/hoc-lien-nganh-mo-ra-co-hoi-viec-lam-gi-cho-nguoi-tre-20260424173307335.htm",
+      "summary": "Trong giai đoạn doanh nghiệp cùng lúc cần ở nhân sự cả tư duy kinh doanh, năng lực công nghệ, hiểu biết về phát triển bền vững và khả năng làm việc xuyên biên giới, xu hướng đào tạo liên ngành trở thành một lời đáp mới cho bài toán việc làm toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.562318+07:00",
+      "fetched": "2026-04-24T20:00:00.562388+07:00"
+    },
+    {
+      "id": "fc56cda3eebb34fec53f2864a197e729",
+      "title": "Đại biểu Quốc hội nói về chính sách mới giúp 5 triệu hộ kinh doanh giảm gánh nặng thuế",
+      "link": "https://tuoitre.vn/dai-bieu-quoc-hoi-noi-ve-chinh-sach-moi-giup-5-trieu-ho-kinh-doanh-giam-ganh-nang-thue-20260424174429961.htm",
+      "summary": "Theo bà Phạm Thị Hồng Yến, trong quá trình thực hiện rà soát, báo cáo, chỉnh lý, tiếp thu dự luật, Chính phủ dự kiến quy định theo hướng nâng ngưỡng doanh thu miễn thuế của cá nhân, hộ kinh doanh lên 1 tỉ đồng/năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.562239+07:00",
+      "fetched": "2026-04-24T20:00:00.562311+07:00"
+    },
+    {
+      "id": "361b2b54261eb30f7ef1f9ead98584b0",
+      "title": "Kinh doanh liên quan di sản rất tinh tế, không được bán rẻ di sản",
+      "link": "https://tuoitre.vn/kinh-doanh-lien-quan-di-san-rat-tinh-te-khong-duoc-ban-re-di-san-20260424171826682.htm",
+      "summary": "Đó là câu hỏi mà một doanh nghiệp làm sáng tạo dựa trên di sản văn hóa, lịch sử gặp phải khi lần đầu gặp đại diện Công ty cổ phần Phát triển Tùng Lâm để đề xuất hợp tác sản xuất linh vật lưu niệm mang tính đại diện cho di tích danh thắng Yên Tử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.562161+07:00",
+      "fetched": "2026-04-24T20:00:00.562232+07:00"
+    },
+    {
+      "id": "470dee488a416a28f770d6c2855e1dfd",
+      "title": "Cảnh cáo cô giáo phạt học sinh dùng kim tiêm chích vào tay, chuyển công việc khác",
+      "link": "https://tuoitre.vn/canh-cao-co-giao-phat-hoc-sinh-dung-kim-tiem-chich-vao-tay-chuyen-cong-viec-khac-20260424175140384.htm",
+      "summary": "Cô giáo trong vụ phạt học sinh dùng kim tiêm chích vào tay ở TP.HCM bị kỷ luật cảnh cáo, tạm ngưng giảng dạy, chuyển sang phụ trách phòng thiết bị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.562080+07:00",
+      "fetched": "2026-04-24T20:00:00.562154+07:00"
+    },
+    {
+      "id": "02948f5686aea3c5026f5566128a8541",
+      "title": "Bộ trưởng Indonesia đính chính: Sẽ không có chuyện thu phí tàu qua eo biển Malacca",
+      "link": "https://tuoitre.vn/bo-truong-indonesia-dinh-chinh-se-khong-co-chuyen-thu-phi-tau-qua-eo-bien-malacca-20260424180309159.htm",
+      "summary": "Bộ trưởng Tài chính Indonesia tái khẳng định phát ngôn của ngoại trưởng nước này về việc Indonesia không có ý định thu phí qua lại eo biển Malacca, cam kết tuân thủ UNCLOS.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.561981+07:00",
+      "fetched": "2026-04-24T20:00:00.562061+07:00"
+    },
+    {
+      "id": "f238b275280d6bf0a2b930ab74a5e6bc",
+      "title": "Vietcombank muốn tăng vốn hơn 10.600 tỉ đồng, tính mở ngân hàng tại VIFC",
+      "link": "https://tuoitre.vn/vietcombank-muon-tang-von-hon-10600-ti-dong-tinh-mo-ngan-hang-tai-vifc-20260424184434091.htm",
+      "summary": "Đại hội đồng cổ đông thường niên 2026 của Vietcombank đã thông qua kế hoạch phát hành hơn 1 tỉ cổ phiếu để tăng vốn điều lệ hơn 10.600 tỉ đồng, đồng thời chấp thuận chủ trương thành lập ngân hàng tại Trung tâm tài chính quốc tế Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.561882+07:00",
+      "fetched": "2026-04-24T20:00:00.561974+07:00"
+    },
+    {
+      "id": "7ea2532bc3c2d7e2c32147e64e64d2ae",
+      "title": "Người dân TP.HCM háo hức trải nghiệm hàng loạt dịch vụ thiết thực tại 'Trạm Công dân số' thứ 5",
+      "link": "https://tuoitre.vn/nguoi-dan-tp-hcm-hao-huc-trai-nghiem-hang-loat-dich-vu-thiet-thuc-tai-tram-cong-dan-so-thu-5-20260424190431936.htm",
+      "summary": "Ngày 24-4, Công an TP.HCM khánh thành 'Trạm Công dân số' thứ 5 tại phường Gò Vấp, hướng tới 100 trạm trong năm 2026 trên địa bàn TP.HCM và nhân rộng trên phạm vi cả nước trong thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T20:00:00.561684+07:00",
+      "fetched": "2026-04-24T20:00:00.561871+07:00"
+    },
     {
       "id": "e96f8b5f8396fe5acce346af1389c926",
       "title": "Nguồn nhân lực phục vụ APEC 2027 ở Phú Quốc sẽ được đào tạo, bồi dưỡng ra sao?",
@@ -453,6 +603,326 @@ window.newsData_2026_04_24 = {
       "fetched": "2026-04-24T14:48:33.172016+07:00"
     },
     {
+      "id": "13d27275673dd80c2320939794b36b97",
+      "title": "Highlight HAGL 0-0 Hải Phòng: Chủ nhà bế tắc",
+      "link": "https://thanhnien.vn/highlight-hagl-0-0-hai-phong-chu-nha-be-tac-185260424195839311.htm",
+      "summary": "Trận hòa trên sân Pleiku không chỉ khiến HAGL bỏ lỡ cơ hội bứt lên, mà còn phơi bày rõ những hạn chế trong khâu dứt điểm của đội bóng phố Núi trước giai đoạn quan trọng của mùa giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:58:00+07:00",
+      "fetched": "2026-04-24T19:59:59.006835+07:00"
+    },
+    {
+      "id": "aaddb28bd7a1539c0f25e611807e62a8",
+      "title": "Petrolimex dự kiến lỗ hơn 1.000 tỷ đồng kinh doanh xăng dầu quý I",
+      "link": "https://vnexpress.net/petrolimex-du-kien-lo-hon-1-000-ty-dong-kinh-doanh-xang-dau-quy-i-5066857.html",
+      "summary": "Petrolimex dự kiến lỗ hơn 1.000 tỷ đồng trong quý I từ kinh doanh xăng dầu do biến động \"chưa từng có trong lịch sử\" của thị trường năng lượng thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:55:13+07:00",
+      "fetched": "2026-04-24T19:59:56.219855+07:00"
+    },
+    {
+      "id": "6c5bd62cd75752151b84bc7539d77375",
+      "title": "Việt Nam mua ôtô từ nước nào nhiều nhất?",
+      "link": "https://vnexpress.net/viet-nam-mua-oto-tu-nuoc-nao-nhieu-nhat-5066853.html",
+      "summary": "Gần 40% trong hơn 205.600 ôtô Việt Nam nhập khẩu năm 2025 được mua từ một quốc gia châu Á. Đó là Thái Lan, Nhật Bản hay Hàn Quốc?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:55:04+07:00",
+      "fetched": "2026-04-24T19:59:56.219982+07:00"
+    },
+    {
+      "id": "ff585042d885fcbc8b032111f9fb6afc",
+      "title": "Thêm 8 dự án tại TP HCM được bán cho người nước ngoài",
+      "link": "https://vnexpress.net/them-8-du-an-tai-tp-hcm-duoc-ban-cho-nguoi-nuoc-ngoai-5066852.html",
+      "summary": "UBND TP HCM vừa công bố thêm danh sách 8 dự án đầu tư xây dựng nhà ở trên địa bàn được phép bán cho tổ chức, cá nhân nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:51:56+07:00",
+      "fetched": "2026-04-24T19:59:56.220092+07:00"
+    },
+    {
+      "id": "e92b7aa6f01c83133b3b793245b531a4",
+      "title": "Trạm Công dân số: Đưa dịch vụ công và y tế số đến khu dân cư",
+      "link": "https://thanhnien.vn/tram-cong-dan-so-dua-dich-vu-cong-va-y-te-so-den-khu-dan-cu-18526042419512927.htm",
+      "summary": "Ngày 24.4, Cục Cảnh sát Quản lý hành chính về trật tự xã hội (C06) và Công an TP.HCM phối hợp cùng các đơn vị đồng hành khánh thành Trạm Công dân số tại Khu đô thị Cityland Park Hills (phường Gò Vấp).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:51:00+07:00",
+      "fetched": "2026-04-24T19:59:59.006953+07:00"
+    },
+    {
+      "id": "85cacef28365223702da2e1b4da74605",
+      "title": "Búi tóc 'lấp kín' dạ dày bé gái 7 tuổi, cảnh báo hội chứng nguy hiểm",
+      "link": "https://thanhnien.vn/bui-toc-lap-kin-da-day-be-gai-7-tuoi-canh-bao-hoi-chung-nguy-hiem-185260424182516359.htm",
+      "summary": "Một bé gái 7 tuổi ở Quảng Ngãi được phẫu thuật lấy búi tóc gần 0,3 kg trong dạ dày. Trường hợp hiếm gặp, liên quan rối loạn tâm lý, cảnh báo nguy cơ khó phát hiện và dễ tái phát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:38:00+07:00",
+      "fetched": "2026-04-24T19:59:59.007053+07:00"
+    },
+    {
+      "id": "c5946cb29da9daf8b5e44c39c875469b",
+      "title": "Sắp thêm chế độ mới cho người có công",
+      "link": "https://thanhnien.vn/sap-them-che-do-moi-cho-nguoi-co-cong-185260424180109428.htm",
+      "summary": "Người có công hưởng chính sách như thương binh, bệnh binh, người hoạt động kháng chiến bị nhiễm chất độc hóa học có tỷ lệ tổn thương cơ thể từ 61% đến 80% hiện đang được điều dưỡng 2 năm một lần sẽ thuộc đối tượng điều dưỡng hằng năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:38:00+07:00",
+      "fetched": "2026-04-24T19:59:59.007156+07:00"
+    },
+    {
+      "id": "3ac6b2e6b3b475addfb688fbb2955980",
+      "title": "Hưng Yên: Khởi tố Phó giám đốc bệnh viện tiếp tay trục lợi tiền bảo hiểm",
+      "link": "https://thanhnien.vn/hung-yen-khoi-to-pho-giam-doc-benh-vien-tiep-tay-truc-loi-tien-bao-hiem-185260424184140678.htm",
+      "summary": "Trong vụ án trục lợi chiếm đoạt tài sản của Công ty TNHH Manulife Việt Nam, Công an tỉnh Hưng Yên đã khởi tố 9 bác sĩ, trong đó có Phó giám đốc Bệnh viện đa khoa Hưng Nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:37:00+07:00",
+      "fetched": "2026-04-24T19:59:59.007258+07:00"
+    },
+    {
+      "id": "f2cbc45c2ee33ae870f8191ba6c2a46e",
+      "title": "ĐH Quốc gia TP.HCM bổ sung địa điểm thi đánh giá năng lực đợt 2",
+      "link": "https://thanhnien.vn/dh-quoc-gia-tphcm-bo-sung-dia-diem-thi-danh-gia-nang-luc-dot-2-185260424192545782.htm",
+      "summary": "ĐH Quốc gia TP.HCM quyết định bổ sung địa điểm thi đánh giá năng lực đợt 2, sau đợt đầu tiên kỳ thi thu hút số lượng thí sinh đông kỷ lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:36:00+07:00",
+      "fetched": "2026-04-24T19:59:59.007352+07:00"
+    },
+    {
+      "id": "f9272e0b9aaa18ca9b05600df1127aa7",
+      "title": "Giày tháo rời thay đế, đổi kiểu: Ý tưởng giành giải nhất khởi nghiệp",
+      "link": "https://thanhnien.vn/giay-thao-roi-thay-de-doi-kieu-y-tuong-gianh-giai-nhat-khoi-nghiep-185260424072304569.htm",
+      "summary": "Ý tưởng giày tháo rời, có thể thay thế đế giày hoặc mũ giày đã đạt giải nhất cuộc thi khởi nghiệp trong sinh viên trên địa bàn tỉnh Đồng Nai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:35:00+07:00",
+      "fetched": "2026-04-24T19:59:59.007459+07:00"
+    },
+    {
+      "id": "b821331e0dd6a59387215b82f6ce455a",
+      "title": "200 nhân sự Carlsberg Việt Nam chinh phục VnExpress Marathon Huế 2026",
+      "link": "https://vnexpress.net/200-nhan-su-carlsberg-viet-nam-chinh-phuc-vnexpress-marathon-hue-2026-5066860.html",
+      "summary": "Gần 200 nhân sự từ lãnh đạo đến nhân viên Carlsberg Việt Nam tham gia chinh phục các cung đường di sản, khám phá Kinh thành, sông Hương tại VM Huế, ngày 19/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:30:00+07:00",
+      "fetched": "2026-04-24T19:59:56.220196+07:00"
+    },
+    {
+      "id": "b821331e0dd6a59387215b82f6ce455a",
+      "title": "200 nhân sự Carlsberg Việt Nam chinh phục VnExpress Marathon Huế 2026",
+      "link": "https://vnexpress.net/200-nhan-su-carlsberg-viet-nam-chinh-phuc-vnexpress-marathon-hue-2026-5066860.html",
+      "summary": "Gần 200 nhân sự từ lãnh đạo đến nhân viên Carlsberg Việt Nam tham gia chinh phục các cung đường di sản, khám phá Kinh thành, sông Hương tại VM Huế, ngày 19/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-24T12:30:00+07:00",
+      "fetched": "2026-04-24T20:00:07.958781+07:00"
+    },
+    {
+      "id": "c65b1a09e1e44b929b034239f8b99cbd",
+      "title": "Khủng hoảng nhà vệ sinh công cộng ở Anh",
+      "link": "https://vnexpress.net/khung-hoang-nha-ve-sinh-cong-cong-o-anh-5066244.html",
+      "summary": "Tình trạng một nhà vệ sinh phải phục vụ hơn 15.000 người đang đẩy nước Anh vào cuộc khủng hoảng y tế, buộc người dân nhịn uống nước và gây ra nạn phóng uế bừa bãi khắp đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:29:01+07:00",
+      "fetched": "2026-04-24T19:59:56.220306+07:00"
+    },
+    {
+      "id": "c63fcaf6ced944e4fd54170c1952f7af",
+      "title": "Tây Ban Nha lên tiếng về thông tin 'bị Mỹ đe dọa trừng phạt'",
+      "link": "https://vnexpress.net/tay-ban-nha-len-tieng-ve-thong-tin-bi-my-de-doa-trung-phat-5066833.html",
+      "summary": "Thủ tướng Sanchez nhấn mạnh Tây Ban Nha là \"thành viên NATO đáng tin cậy\", sau khi có thông tin Mỹ đang cân nhắc đình chỉ tư cách đồng minh của nước này trong liên minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:28:47+07:00",
+      "fetched": "2026-04-24T19:59:56.220414+07:00"
+    },
+    {
+      "id": "4a3f66fc5d5b8dfb543c91ac773b79e4",
+      "title": "Giá Bitcoin hôm nay 24.4.2026: Sắp có biến động mạnh",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-2442026-sap-co-bien-dong-manh-185260424163753981.htm",
+      "summary": "Giá Bitcoin hôm nay liên tục rung lắc mạnh quanh vùng giá 78.000 USD, trong khi nhiều dự báo cho thấy thị trường sắp trải qua đợt tăng giá mới nếu BTC vượt mốc 80.000 USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:25:00+07:00",
+      "fetched": "2026-04-24T19:59:59.007563+07:00"
+    },
+    {
+      "id": "de50ab999750cead3abb767f48baa2b0",
+      "title": "CEO Masan: Cổ phiếu đang bị định giá thấp hơn 60% so với giá trị thực",
+      "link": "https://vnexpress.net/ceo-masan-co-phieu-dang-bi-dinh-gia-thap-hon-60-so-voi-gia-tri-thuc-5066695.html",
+      "summary": "Ông Danny Le nói cổ phiếu Masan đang thấp hơn 60% so với giá trị thực vì chưa phản ánh hết tiềm năng của hai mảng thịt và bán lẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:19:34+07:00",
+      "fetched": "2026-04-24T19:59:56.220532+07:00"
+    },
+    {
+      "id": "de50ab999750cead3abb767f48baa2b0",
+      "title": "CEO Masan: Cổ phiếu đang bị định giá thấp hơn 60% so với giá trị thực",
+      "link": "https://vnexpress.net/ceo-masan-co-phieu-dang-bi-dinh-gia-thap-hon-60-so-voi-gia-tri-thuc-5066695.html",
+      "summary": "Ông Danny Le nói cổ phiếu Masan đang thấp hơn 60% so với giá trị thực vì chưa phản ánh hết tiềm năng của hai mảng thịt và bán lẻ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-24T12:19:34+07:00",
+      "fetched": "2026-04-24T20:00:03.683349+07:00"
+    },
+    {
+      "id": "1bf2064fd0d109c67f0b6396554fc006",
+      "title": "Lợi nhuận quý I của F88 tăng mạnh",
+      "link": "https://vnexpress.net/loi-nhuan-quy-i-cua-f88-tang-manh-5066749.html",
+      "summary": "F88 ghi nhận lợi nhuận trước thuế khoảng 303 tỷ đồng trong quý I, tăng 130% so với cùng kỳ, trong bối cảnh nhu cầu vay phục hồi và hiệu quả vận hành cải thiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:19:16+07:00",
+      "fetched": "2026-04-24T19:59:56.220642+07:00"
+    },
+    {
+      "id": "1bf2064fd0d109c67f0b6396554fc006",
+      "title": "Lợi nhuận quý I của F88 tăng mạnh",
+      "link": "https://vnexpress.net/loi-nhuan-quy-i-cua-f88-tang-manh-5066749.html",
+      "summary": "F88 ghi nhận lợi nhuận trước thuế khoảng 303 tỷ đồng trong quý I, tăng 130% so với cùng kỳ, trong bối cảnh nhu cầu vay phục hồi và hiệu quả vận hành cải thiện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-24T12:19:16+07:00",
+      "fetched": "2026-04-24T20:00:03.683485+07:00"
+    },
+    {
+      "id": "26a5d22be84da1aa6b5c431179aee79e",
+      "title": "Đi phỏng vấn, trúng tuyển ngân hàng ngay tại ngày hội việc làm TP.HCM",
+      "link": "https://thanhnien.vn/di-phong-van-buoi-sang-trung-tuyen-ngan-hang-ngay-tai-ngay-hoi-viec-lam-tphcm-185260424123429817.htm",
+      "summary": "Ngày hội việc làm tại TP.HCM sáng 24.4 thu hút hơn 20 doanh nghiệp với trên 1.000 vị trí. Nhiều người lao động, trong đó có bạn trẻ, trúng tuyển ngay sau buổi phỏng vấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:19:00+07:00",
+      "fetched": "2026-04-24T19:59:59.007657+07:00"
+    },
+    {
+      "id": "5dc93a22dfedadf2ac66a561ebd43049",
+      "title": "Tàu hỏa dừng khẩn cấp, chờ ôtô rời hành lang an toàn",
+      "link": "https://vnexpress.net/tau-hoa-dung-khan-cap-cho-oto-roi-hanh-lang-an-toan-5066864.html",
+      "summary": "Đoàn tàu phải phanh khẩn cấp, đợi tài xế xe tải di chuyển xe khỏi hành lang an toàn đường sắt Bắc - Nam. Tài xế sau đó bị phạt 900.000 đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:13:55+07:00",
+      "fetched": "2026-04-24T19:59:56.220745+07:00"
+    },
+    {
+      "id": "9e7841d5ffc27a7a41f68a044e568452",
+      "title": "TP HCM lắp trạm số cho người dân giao dịch hành chính ngoài giờ",
+      "link": "https://vnexpress.net/tp-hcm-lap-tram-so-cho-nguoi-dan-giao-dich-hanh-chinh-ngoai-gio-5066861.html",
+      "summary": "TP HCM triển khai Trạm công dân số tại khu dân cư, tích hợp 6 nhóm tiện ích từ hành chính, y tế đến tài chính, giúp người dân thực hiện dịch vụ mọi lúc, giảm thời gian đi lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:13:28+07:00",
+      "fetched": "2026-04-24T19:59:56.220840+07:00"
+    },
+    {
+      "id": "9e7841d5ffc27a7a41f68a044e568452",
+      "title": "TP HCM lắp trạm số cho người dân giao dịch hành chính ngoài giờ",
+      "link": "https://vnexpress.net/tp-hcm-lap-tram-so-cho-nguoi-dan-giao-dich-hanh-chinh-ngoai-gio-5066861.html",
+      "summary": "TP HCM triển khai Trạm công dân số tại khu dân cư, tích hợp 6 nhóm tiện ích từ hành chính, y tế đến tài chính, giúp người dân thực hiện dịch vụ mọi lúc, giảm thời gian đi lại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-24T12:13:28+07:00",
+      "fetched": "2026-04-24T20:00:07.063215+07:00"
+    },
+    {
+      "id": "2ab2d9e075863d2814f6c7e9f013540a",
+      "title": "Đồng Nai: Xử lý 4 đối tượng đánh nhau giữa đường sau va chạm giao thông",
+      "link": "https://thanhnien.vn/dong-nai-xu-ly-4-doi-tuong-danh-nhau-giua-duong-sau-va-cham-giao-thong-185260424185256809.htm",
+      "summary": "4 đối tượng đánh nhau sau va chạm giao thông trên đường Dương Tử Giang (phường Tam Hiệp, tỉnh Đồng Nai) đang bị điều tra về hành vi gây rối trật tự công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:13:00+07:00",
+      "fetched": "2026-04-24T19:59:59.007759+07:00"
+    },
+    {
+      "id": "76bc5c6e3a070dce6ef37ea287bb34b9",
+      "title": "Đại hội Liên chi hội Báo Thanh Niên: Lan tỏa trách nhiệm xã hội của người làm báo",
+      "link": "https://thanhnien.vn/dai-hoi-lien-chi-hoi-bao-thanh-nien-lan-toa-trach-nhiem-xa-hoi-cua-nguoi-lam-bao-185260424162455355.htm",
+      "summary": "Phó chủ tịch Hội Nhà báo Việt Nam Trần Trọng Dũng đánh giá hội viên Báo Thanh Niên đã giữ vững bản lĩnh, đạo đức, tạo dấu ấn với nhiều tác phẩm giá trị và hoạt động thiện nguyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:13:00+07:00",
+      "fetched": "2026-04-24T19:59:59.007851+07:00"
+    },
+    {
+      "id": "d153ce70608c26c59a7ae37466cd58a2",
+      "title": "46 học sinh Cà Mau nghi ngộ độc sau bữa ăn miễn phí",
+      "link": "https://vnexpress.net/46-hoc-sinh-ca-mau-nghi-ngo-doc-sau-bua-an-mien-phi-5066859.html",
+      "summary": "Hàng chục học sinh Trường Tiểu học Nhị Cầm ở xã Vĩnh Lộc bị nôn ói, đau bụng sau khi ăn suất cơm, bánh bao, bánh mì, bún miễn phí, nghi ngộ độc thực phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:12:31+07:00",
+      "fetched": "2026-04-24T19:59:56.220908+07:00"
+    },
+    {
+      "id": "8b50751d3c186665b55735b9c5dfae9d",
+      "title": "Hỗn chiến sau va chạm ở Đồng Nai, 4 người bị bắt",
+      "link": "https://vnexpress.net/hon-chien-sau-va-cham-o-dong-nai-4-nguoi-bi-bat-5066863.html",
+      "summary": "Sau va chạm giao thông, hai nhóm thanh niên lao vào hỗn chiến gây mất an ninh trật tự trên đường qua trung tâm Đồng Nai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:04:20+07:00",
+      "fetched": "2026-04-24T19:59:56.221013+07:00"
+    },
+    {
+      "id": "e1757b24a76ddf42b9c579f26f38a9c9",
+      "title": "Thời trang sánh đôi của hậu vệ Vũ Văn Thanh và bạn gái",
+      "link": "https://vnexpress.net/thoi-trang-sanh-doi-cua-hau-ve-vu-van-thanh-va-ban-gai-5065410.html",
+      "summary": "Cầu thủ Vũ Văn Thanh và vợ sắp cưới Trần Bích Hạnh được khen đẹp đôi với gu mặc đồng điệu, trẻ trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:00:08+07:00",
+      "fetched": "2026-04-24T19:59:56.221115+07:00"
+    },
+    {
+      "id": "ba8cfd451b032fb91cd28861b15f9185",
+      "title": "Chồng từ chối đi massage trá hình nhưng sao vẫn thả tim tin nhắn",
+      "link": "https://vnexpress.net/chong-tu-choi-di-massage-tra-hinh-nhung-sao-van-tha-tim-tin-nhan-5066782.html",
+      "summary": "Nhận được lời rủ đi massage không lành mạnh từ bạn làm ăn, chồng tôi không trả lời nhưng lại thả tim vào tin nhắn đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:00:00+07:00",
+      "fetched": "2026-04-24T19:59:56.221217+07:00"
+    },
+    {
+      "id": "8bf4a3cfd1a112f34fc3adcdfcbb4a45",
+      "title": "Nhà đất có giảm giá khi mặt tiền 'đi vào dĩ vãng'?",
+      "link": "https://vnexpress.net/thue-mat-bang-quan-1-gia-thue-mat-bang-trung-tam-tphcm-nha-mat-tien-sap-di-vao-di-vang-5066718.html",
+      "summary": "Người muốn mua nhà có dễ dàng tiếp cận hơn khi nhà mặt tiền vắng khách thuê?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T12:00:00+07:00",
+      "fetched": "2026-04-24T19:59:56.221312+07:00"
+    },
+    {
+      "id": "03bd98de2a11e5e6ad1fc0d1e41fafda",
+      "title": "Hơn 1,1 triệu học sinh cả nước thi kiến thức an ninh mạng",
+      "link": "https://vnexpress.net/hon-1-1-trieu-hoc-sinh-ca-nuoc-thi-kien-thuc-an-ninh-mang-5066850.html",
+      "summary": "Cuộc thi Học sinh với An ninh mạng 2026 thu hút hơn 1,1 triệu học sinh trung học cơ sở trên cả nước tham dự, trong đó một học sinh Quảng Trị giành giải Nhất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-24T11:56:13+07:00",
+      "fetched": "2026-04-24T20:00:07.063840+07:00"
+    },
+    {
+      "id": "c323871c7508983c73bba8374f41dff5",
+      "title": "Việt Nam 0-0 Malaysia (H1): Nhập cuộc khí thế",
+      "link": "https://vnexpress.net/viet-nam-malaysia-di-vao-lich-su-dong-nam-a-5066862.html",
+      "summary": "Nếu thắng Malaysia ở chung kết tối 24/4, Việt Nam sẽ trở thành đội đầu tiên bốn lần vô địch tại giải U17 Đông Nam Á. Bóng lăn lúc 19h30.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-24T11:51:49+07:00",
+      "fetched": "2026-04-24T20:00:07.957230+07:00"
+    },
+    {
       "id": "43f0118568dac05bfce135fae26bb892",
       "title": "2 phút hát thêm của Justin Bieber, Coachella mất cả tỉ đồng",
       "link": "https://tuoitre.vn/2-phut-hat-them-cua-justin-bieber-coachella-mat-ca-ty-dong-20260424102536511.htm",
@@ -601,6 +1071,56 @@ window.newsData_2026_04_24 = {
       "category": "Tổng hợp",
       "published": "2026-04-24T11:47:47.293710+07:00",
       "fetched": "2026-04-24T11:47:47.293943+07:00"
+    },
+    {
+      "id": "695cd3dc2b1f92ffd2c1617208990eee",
+      "title": "Phát hiện 15 vụ xâm hại tình dục trẻ em ở Đồng Tháp",
+      "link": "https://thanhnien.vn/phat-hien-15-vu-xam-hai-tinh-duc-tre-em-o-dong-thap-185260424174344452.htm",
+      "summary": "Chỉ trong tháng 4.2026, trên địa bàn tỉnh Đồng Tháp xảy ra 15 vụ xâm hại tình dục trẻ em. Thủ đoạn của loại tội phạm này chủ yếu là sử dụng mạng xã hội để kết bạn, làm quen sau đó hẹn nạn nhân đi chơi, ăn uống...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T11:42:00+07:00",
+      "fetched": "2026-04-24T19:59:59.007950+07:00"
+    },
+    {
+      "id": "2b0f8e8f2d239b759d23043b770c7c6b",
+      "title": "Sạt lở liên tiếp tại Cà Mau, đường sá và nhà cửa người dân nằm dưới sông",
+      "link": "https://thanhnien.vn/sat-lo-lien-tiep-tai-ca-mau-duong-sa-va-nha-cua-nguoi-dan-nam-duoi-song-185260424173950378.htm",
+      "summary": "Trong vòng hơn một tuần, trên địa bàn tỉnh Cà Mau liên tiếp xảy ra nhiều vụ sạt lở bờ sông khiến đường sá và tài sản của người dân trôi theo dòng nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T11:41:00+07:00",
+      "fetched": "2026-04-24T19:59:59.008046+07:00"
+    },
+    {
+      "id": "42ff1cbc1d8f4e02ce51d3a27dd913b7",
+      "title": "Auspacific Investment Việt Nam ra mắt Hà Nội, xác lập chuẩn mới cho BĐS cao cấp",
+      "link": "https://thanhnien.vn/auspacific-investment-viet-nam-ra-mat-ha-noi-xac-lap-chuan-moi-cho-bds-cao-cap-185260424184914665.htm",
+      "summary": "Ngày 19.4.2026, Auspacific Investment Việt Nam (APIV) chính thức khai trương văn phòng đầu tiên tại tòa Grandeur Palace 138B Giảng Võ, phường Giảng Võ, Hà Nội. Với vị thế 'Nhà giám tuyển độc lập', doanh nghiệp kỳ vọng mang những chuẩn mực quản trị tài sản quốc tế về thị trường nội địa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T11:38:00+07:00",
+      "fetched": "2026-04-24T19:59:59.008139+07:00"
+    },
+    {
+      "id": "eedb2fd1a76245aee2bdbddee85957d1",
+      "title": "Khởi tố 196 bị can chọi gà tại Trường gà quốc tế Viêng Xay",
+      "link": "https://thanhnien.vn/khoi-to-196-bi-can-choi-ga-tai-truong-ga-quoc-te-vieng-xay-185260424181323511.htm",
+      "summary": "Lực lượng của Bộ Công an, Công an tỉnh Thanh Hóa và công an nước bạn Lào đã triệt phá Trường gà quốc tế Viêng Xay, khởi tố 196 bị can.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T11:34:00+07:00",
+      "fetched": "2026-04-24T19:59:59.008234+07:00"
+    },
+    {
+      "id": "297ef8266f279fb2869e2ef6373d775e",
+      "title": "Bốn định hướng Việt Nam - Hàn Quốc hợp tác khoa học công nghệ",
+      "link": "https://vnexpress.net/bon-dinh-huong-viet-nam-han-quoc-hop-tac-khoa-hoc-cong-nghe-5066772.html",
+      "summary": "Việt Nam - Hàn Quốc hợp tác khoa học, công nghệ theo hướng thực chất, gắn nhu cầu của doanh nghiệp và giới nghiên cứu, thúc đẩy công nghệ chiến lược và phát triển nguồn nhân lực.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-24T11:23:27+07:00",
+      "fetched": "2026-04-24T20:00:07.062783+07:00"
     },
     {
       "id": "268c49e426555cf0cbc11004b9e05112",
