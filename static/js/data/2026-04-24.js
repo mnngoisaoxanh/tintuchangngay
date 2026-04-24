@@ -1,7 +1,157 @@
 window.newsData_2026_04_24 = {
   "date": "2026-04-24",
-  "lastUpdated": "2026-04-24T16:22:31.608879+07:00",
+  "lastUpdated": "2026-04-24T17:58:04.519511+07:00",
   "articles": [
+    {
+      "id": "e96f8b5f8396fe5acce346af1389c926",
+      "title": "Nguồn nhân lực phục vụ APEC 2027 ở Phú Quốc sẽ được đào tạo, bồi dưỡng ra sao?",
+      "link": "https://tuoitre.vn/nguon-nhan-luc-phuc-vu-apec-2027-o-phu-quoc-se-duoc-dao-tao-boi-duong-ra-sao-20260424160436328.htm",
+      "summary": "An Giang đã thành lập Tiểu ban đào tạo, bồi dưỡng nguồn nhân lực phục vụ việc tổ chức các hoạt động phục vụ Diễn đàn hợp tác kinh tế châu Á - Thái Bình Dương vào năm 2027 ở Phú Quốc (APEC 2027). Đến nay tỉnh triển khai đạt kết quả ra sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.950879+07:00",
+      "fetched": "2026-04-24T17:57:56.950951+07:00"
+    },
+    {
+      "id": "bd1ea85ff6c7326bd726cc9149c40a56",
+      "title": "Học sinh ở thủ phủ vải thiều 'đánh liều' qua cầu phao cũ nát để đến trường",
+      "link": "https://tuoitre.vn/hoc-sinh-o-thu-phu-vai-thieu-danh-lieu-qua-cau-phao-cu-nat-de-den-truong-2026042415313457.htm",
+      "summary": "Mỗi lần có xe máy chạy qua, cây cầu phao cũ nát trên hồ Cấm Sơn lại rung lên bần bật. Những học sinh trên đường tới lớp phải nép mình vào mép ván, bên dưới là mặt nước sâu hun hút, nhìn không thấy đáy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.950806+07:00",
+      "fetched": "2026-04-24T17:57:56.950873+07:00"
+    },
+    {
+      "id": "b21707e3817f2b5ade867c73965eb4cb",
+      "title": "Phát hiện 26 hang động mới ở Phong Nha - Kẻ Bàng, có hang đặc sắc dài 4,2km",
+      "link": "https://tuoitre.vn/phat-hien-26-hang-dong-moi-o-phong-nha-ke-bang-co-hang-dac-sac-dai-4-2km-20260424161626802.htm",
+      "summary": "Đoàn chuyên gia Hiệp hội Hang động Hoàng gia Anh vừa phát hiện thêm 26 hang động mới tại Vườn quốc gia Phong Nha - Kẻ Bàng, nhiều hang đặc sắc, có hang dài 4,2km, hoặc có thác nước sâu 350m nhưng vẫn chưa khảo sát hết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.950730+07:00",
+      "fetched": "2026-04-24T17:57:56.950800+07:00"
+    },
+    {
+      "id": "1be28f358f6993bcaf8ef7b1e845ff7c",
+      "title": "Trực tuyến Ninh Bình - CLB Hà Nội (18h): Quyết chiến vì top 3",
+      "link": "https://tuoitre.vn/truc-tuyen-ninh-binh-clb-ha-noi-18h-quyet-chien-vi-top-3-20260424100611938.htm",
+      "summary": "CLB Ninh Bình và CLB Hà Nội sẽ quyết chiến với nhau vào chiều nay 24-4 để cạnh tranh vị trí trong top 3 V-League mùa giải 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.950656+07:00",
+      "fetched": "2026-04-24T17:57:56.950724+07:00"
+    },
+    {
+      "id": "da5d8c72985f1ecb31624e0e64cd54ba",
+      "title": "Chubb - Tự do an phát: Giải pháp bảo hiểm và đầu tư linh hoạt",
+      "link": "https://tuoitre.vn/chubb-tu-do-an-phat-giai-phap-bao-hiem-va-dau-tu-linh-hoat-20260424150748623.htm",
+      "summary": "Nhằm đáp ứng nhu cầu bảo vệ và tích lũy tài chính ngày càng đa dạng của người dân Việt Nam, Công ty TNHH Bảo hiểm Nhân thọ Chubb Việt Nam (Chubb Life Việt Nam) vừa ra mắt sản phẩm bảo hiểm liên kết đơn vị Chubb - Tự do an phát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.950581+07:00",
+      "fetched": "2026-04-24T17:57:56.950650+07:00"
+    },
+    {
+      "id": "665e5b75ee923e4b29bb8120e419e49f",
+      "title": "Miền Bắc có tới 6 concert trong 5 ngày cuối tháng 4",
+      "link": "https://tuoitre.vn/men-bac-co-toi-6-concert-trong-5-ngay-cuoi-thang-4-20260424152600012.htm",
+      "summary": "'Nhiệt' của thị trường concert vẫn chưa có dấu hiệu hạ khi chỉ trong 5 ngày cuối tháng 4 này, Hà Nội và vùng phụ cận có tới 6 concert lớn, nhỏ, chưa kể những nơi khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.950502+07:00",
+      "fetched": "2026-04-24T17:57:56.950575+07:00"
+    },
+    {
+      "id": "f3521712ce562001d51aac514c9df408",
+      "title": "Quảng Ngãi dự kiến thành lập khoảng 1.700 đội dân phòng để chữa cháy từ cơ sở",
+      "link": "https://tuoitre.vn/quang-ngai-du-kien-thanh-lap-khoang-1-700-doi-dan-phong-de-chua-chay-tu-co-so-20260424161752852.htm",
+      "summary": "HĐND tỉnh Quảng Ngãi thông qua dự thảo nghị quyết quy định thành lập đội dân phòng tại tất cả thôn, tổ dân phố nhằm nâng cao năng lực phòng cháy, chữa cháy ngay từ cơ sở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.950410+07:00",
+      "fetched": "2026-04-24T17:57:56.950494+07:00"
+    },
+    {
+      "id": "8a46984c266b810c6eceb9c991323224",
+      "title": "Lãnh đạo thể thao Ý: Dự định đưa tuyển Ý thay Iran dự World Cup 2026 'thật xúc phạm'",
+      "link": "https://tuoitre.vn/lanh-dao-the-thao-y-du-dinh-dua-tuyen-y-thay-iran-du-world-cup-2026-that-xuc-pham-20260424163123385.htm",
+      "summary": "Các quan chức thể thao của Ý cảm thấy bị xúc phạm nếu đội tuyển nước nhà được thay thế Iran tham dự World Cup 2026 do các vấn đề chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.950335+07:00",
+      "fetched": "2026-04-24T17:57:56.950404+07:00"
+    },
+    {
+      "id": "fd0a9c7f9cfa10f5f12adc282060c6f5",
+      "title": "Đà Nẵng xây dựng công trình khẩn cấp tuyến kè sông gần 500 tỉ đồng",
+      "link": "https://tuoitre.vn/da-nang-xay-dung-cong-trinh-khan-cap-tuyen-ke-song-gan-500-ti-dong-20260424162104561.htm",
+      "summary": "TP Đà Nẵng ban hành lệnh xây dựng công trình khẩn cấp tuyến kè sông gần 500 tỉ đồng, đoạn qua xã Duy Nghĩa (kế bên Hội An).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.950259+07:00",
+      "fetched": "2026-04-24T17:57:56.950329+07:00"
+    },
+    {
+      "id": "96458b1c85271a75401a4fcc176351b6",
+      "title": "Chọn Công ty Đầu tư và Phát triển Mặt Trời Sài Gòn xây Trung tâm hành chính mới ở TP.HCM",
+      "link": "https://tuoitre.vn/chon-cong-ty-dau-tu-va-phat-trien-mat-troi-sai-gon-xay-trung-tam-hanh-chinh-moi-o-tp-hcm-20260424163157096.htm",
+      "summary": "UBND TP.HCM vừa có quyết định chọn Công ty TNHH Đầu tư và Phát triển Mặt Trời Sài Gòn xây Trung tâm hành chính mới và quảng trường trung tâm ở Thủ Thiêm theo hợp đồng BT, tổng mức đầu tư gần 30.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.950181+07:00",
+      "fetched": "2026-04-24T17:57:56.950253+07:00"
+    },
+    {
+      "id": "536a4140dccd1bbb4d90913791070f98",
+      "title": "Trọng Hoàng dính thẻ ngồi ngoài 1 trận, tuổi 38 vẫn là trụ cột của đội",
+      "link": "https://tuoitre.vn/trong-hoang-dinh-the-ngoi-ngoai-1-tran-tuoi-38-van-la-tru-cot-cua-doi-20260424163343425.htm",
+      "summary": "Ở tuổi 38, tiền vệ Nguyễn Trọng Hoàng vẫn dẻo dai trong màu áo Hồng Lĩnh Hà Tĩnh. Dù vậy, anh phải ngồi ngoài ở vòng 20 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.950103+07:00",
+      "fetched": "2026-04-24T17:57:56.950174+07:00"
+    },
+    {
+      "id": "e73a8e8a82880d5cf91e7140c558f7df",
+      "title": "Nữ 'thầy bói' dụ góp tiền mua đất chiếm đoạt gần 100 tỉ đồng",
+      "link": "https://tuoitre.vn/nu-thay-boi-du-gop-tien-mua-dat-chiem-doat-gan-100-ti-dong-20260424164149525.htm",
+      "summary": "Giả danh xem bói, dụ góp tiền mua đất, người phụ nữ ở Tây Ninh chiếm đoạt gần 100 tỉ đồng của 14 nạn nhân, bị tuyên tù chung thân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.950021+07:00",
+      "fetched": "2026-04-24T17:57:56.950096+07:00"
+    },
+    {
+      "id": "d8ea32fca6cb1bd0ad6cf85a716f4427",
+      "title": "Chặng 20 Cúp truyền hình TP.HCM: Đua 141km từ Vũng Tàu về Thủ Dầu Một",
+      "link": "https://tuoitre.vn/chang-20-cup-truyen-hinh-tp-hcm-dua-141km-tu-vung-tau-ve-thu-dau-mot-20260424164652103.htm",
+      "summary": "Ngày 25-4, cuộc đua xe đạp toàn quốc Cúp truyền hình TP.HCM HTV - Tôn Đông Á 2024 sẽ tiếp tục hành trình với chặng 20.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.949934+07:00",
+      "fetched": "2026-04-24T17:57:56.950014+07:00"
+    },
+    {
+      "id": "4a64167c66dbf0c0027146fbc63c6402",
+      "title": "Một đội futsal ghi 39 bàn sau 2 trận để vào tứ kết Đại hội TDTT TP.HCM",
+      "link": "https://tuoitre.vn/mot-doi-futsal-ghi-39-ban-sau-2-tran-de-vao-tu-ket-dai-hoi-tdtt-tp-hcm-20260424165824057.htm",
+      "summary": "Đội Chánh Hưng Thái Sơn Nam đã giành vé vào tứ kết môn futsal Đại hội TDTT TP.HCM lần I-2026, sau khi thắng đậm trận thứ hai liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.949837+07:00",
+      "fetched": "2026-04-24T17:57:56.949926+07:00"
+    },
+    {
+      "id": "926a9f64c1dc20a025b94cf5aecbf455",
+      "title": "Đường cái và nhà cửa sau một đêm nằm dưới lòng sông do sạt lở ở Cà Mau",
+      "link": "https://tuoitre.vn/duong-cai-va-nha-cua-sau-mot-dem-nam-duoi-long-song-do-sat-lo-o-ca-mau-20260424160630614.htm",
+      "summary": "Vụ sạt lở nghiêm trọng vừa xảy ra trên tuyến sông Đầm Dơi, đoạn qua ấp 1, xã Đầm Dơi. Đây là vụ sạt lở đường, nhà cửa thứ 4 trong khoảng 10 ngày qua tại tỉnh Cà Mau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T17:57:56.949640+07:00",
+      "fetched": "2026-04-24T17:57:56.949827+07:00"
+    },
     {
       "id": "99d944801d66943135ed8625be7aabe2",
       "title": "Phát động tháng công nhân và tháng hành động về an toàn vệ sinh lao động năm 2026",
@@ -453,6 +603,306 @@ window.newsData_2026_04_24 = {
       "fetched": "2026-04-24T11:47:47.293943+07:00"
     },
     {
+      "id": "268c49e426555cf0cbc11004b9e05112",
+      "title": "Quan hệ Việt Nam - Úc ngày càng phát triển mạnh mẽ",
+      "link": "https://thanhnien.vn/quan-he-viet-nam-uc-ngay-cang-phat-trien-manh-me-1852604241732235.htm",
+      "summary": "Sáng ngày 24.4, tại Trụ sở Trung ương Đảng, Tổng Bí thư, Chủ tịch nước Tô Lâm đã điện đàm với Thủ tướng Úc Anthony Albanese.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:48:00+07:00",
+      "fetched": "2026-04-24T17:57:55.942173+07:00"
+    },
+    {
+      "id": "48f67ba690d3d83ae8e18c80ca923b39",
+      "title": "Công ty môi trường đô thị Cà Mau hết người điều hành từ 29.4",
+      "link": "https://thanhnien.vn/cong-ty-moi-truong-do-thi-ca-mau-het-nguoi-dieu-hanh-tu-294-185260424170511004.htm",
+      "summary": "Công ty cổ phần môi trường đô thị Cà Mau đối mặt tình trạng không còn người điều hành theo quy định từ ngày 29.4, phải báo cáo hỏa tốc xin ý kiến UBND tỉnh để tránh đình trệ hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:46:00+07:00",
+      "fetched": "2026-04-24T17:57:55.942288+07:00"
+    },
+    {
+      "id": "c31d6fe4ecb0c33fd1cd67d4c9376da1",
+      "title": "Sacombank và Vingroup ký kết hợp tác chiến lược toàn diện",
+      "link": "https://thanhnien.vn/sacombank-va-vingroup-ky-ket-hop-tac-chien-luoc-toan-dien-185260424170613607.htm",
+      "summary": "Ngày 24.4, Ngân hàng TMCP Sài Gòn Thương Tín (Sacombank) và Tập đoàn Vingroup chính thức ký kết thỏa thuận hợp tác chiến lược, đánh dấu bước tiến quan trọng trong việc thiết lập quan hệ đối tác toàn diện, lâu dài giữa hai doanh nghiệp hàng đầu trong lĩnh vực tài chính - ngân hàng và kinh tế tư nhân ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:44:00+07:00",
+      "fetched": "2026-04-24T17:57:55.942394+07:00"
+    },
+    {
+      "id": "32e78d8eb35e4868dc832da2655518b3",
+      "title": "Vietcombank dự kiến phát hành hơn 1 tỉ cổ phiếu, mở ngân hàng con tại VIFC",
+      "link": "https://thanhnien.vn/vietcombank-du-kien-phat-hanh-hon-1-ti-co-phieu-mo-ngan-hang-con-tai-vifc-185260424173100354.htm",
+      "summary": "Ngày 24.4, các cổ đông Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank) đã thông qua phương án phát hành cổ phiếu tăng vốn điều lệ hơn 10.600 tỉ đồng và chủ trương thành lập ngân hàng tại Trung tâm tài chính quốc tế Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:43:00+07:00",
+      "fetched": "2026-04-24T17:57:55.942509+07:00"
+    },
+    {
+      "id": "9e86113d1d006fdfe99e4a7e38266e79",
+      "title": "WMO nói không có 'siêu El Nino', vì sao?",
+      "link": "https://thanhnien.vn/wmo-noi-khong-co-sieu-el-nino-vi-sao-185260424171352857.htm",
+      "summary": "Tổ chức khí tượng thế giới (WMO) cho biết, El Nino sẽ xuất hiện sớm và gia tăng cường độ trong những tháng tiếp theo; nhưng sẽ không có 'siêu El Nino'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:43:00+07:00",
+      "fetched": "2026-04-24T17:57:55.942608+07:00"
+    },
+    {
+      "id": "845d439facff487a9d7c8a7ad3e71440",
+      "title": "Huế: Phó chủ tịch phường bị cách tất cả chức vụ vì vụ bán rừng phòng hộ",
+      "link": "https://thanhnien.vn/hue-pho-chu-tich-phuong-bi-cach-tat-ca-chuc-vu-vi-vu-ban-rung-phong-ho-185260424155220721.htm",
+      "summary": "Một phó chủ tịch phường ở Huế đã bị cách tất cả các chức vụ trong Đảng do liên quan đến vụ án bán trái phép rừng phòng hộ ven biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:37:00+07:00",
+      "fetched": "2026-04-24T17:57:55.942705+07:00"
+    },
+    {
+      "id": "98d7ffebda62e26f463b43b3257fbd96",
+      "title": "Thanh Vũ Medic Bạc Liêu đạt giải thưởng Vàng đột quỵ thế giới",
+      "link": "https://thanhnien.vn/thanh-vu-medic-bac-lieu-dat-giai-thuong-vang-dot-quy-the-gioi-185260424152650305.htm",
+      "summary": "Bệnh viện đa khoa Thanh Vũ Medic Bạc Liêu đón nhận giải thưởng Vàng đột quỵ thế giới, đánh dấu bước tiến quan trọng của bệnh viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:36:00+07:00",
+      "fetched": "2026-04-24T17:57:55.942800+07:00"
+    },
+    {
+      "id": "106cfbdb2f10d88b01ba4e78d91d7c35",
+      "title": "Điểm tin 17h: Đồng Nai lên thành phố từ 30/4 | Kéo dài metro Bến Thành - Suối Tiên 41 km, kết nối sân bay Long Thành",
+      "link": "https://vnexpress.net/diem-tin-17h-dong-nai-len-thanh-pho-tu-30-4-keo-dai-metro-ben-thanh-suoi-tien-41-km-ket-noi-san-bay-long-thanh-5066835.html",
+      "summary": "Quốc hội chốt thêm ngày nghỉ hưởng nguyên lương 24/11; Bỏ ngưỡng chịu thuế 500 triệu đồng với hộ kinh doanh...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:31:49+07:00",
+      "fetched": "2026-04-24T17:57:52.982863+07:00"
+    },
+    {
+      "id": "a8366d40bf3f657f2b23745e322eb3fb",
+      "title": "Thắng cực đậm đội Lào, U.17 Úc giành HCĐ giải vô địch Đông Nam Á",
+      "link": "https://thanhnien.vn/thang-cuc-dam-doi-lao-u17-uc-gianh-hcd-giai-vo-dich-dong-nam-a-1852604241718062.htm",
+      "summary": "U.17 Úc đã giành chiến thắng cực đậm 8-0 trước U.17 Lào, qua đó giành hạng ba chung cuộc tại giải U.17 Đông Nam Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:31:00+07:00",
+      "fetched": "2026-04-24T17:57:55.942902+07:00"
+    },
+    {
+      "id": "ebf5862ecab9adcd791368d97a00c5ce",
+      "title": "'Thông chốt', tông thẳng vào rào chắn của công an, nam thanh niên bị khởi tố",
+      "link": "https://thanhnien.vn/thong-chot-tong-thang-vao-rao-chan-cua-cong-an-nam-thanh-nien-bi-khoi-to-185260424164716789.htm",
+      "summary": "Bất chấp hiệu lệnh dừng xe, Trần Kiêm Anh Khoa điều khiển xe máy chưa biển số lạng lách, tông thẳng vào rào chắn của lực lượng chức năng, khiến một cán bộ đang làm nhiệm vụ bị ngã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:31:00+07:00",
+      "fetched": "2026-04-24T17:57:55.942996+07:00"
+    },
+    {
+      "id": "df2344495283bf3f8fdb3e42fa704617",
+      "title": "Diễn biến nặng khi nhiễm RSV ở nhóm người cao tuổi",
+      "link": "https://vnexpress.net/dien-bien-nang-khi-nhiem-rsv-o-nhom-nguoi-cao-tuoi-5060120.html",
+      "summary": "Theo các chuyên gia, người lớn tuổi và người lớn có hệ miễn dịch suy giảm sẽ gặp nguy cơ diễn biến nặng cao hơn khi mắc RSV trong khi nguy cơ này đang bị đánh giá thấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:30:00+07:00",
+      "fetched": "2026-04-24T17:57:52.982996+07:00"
+    },
+    {
+      "id": "542d9388057486fab538740ff10967aa",
+      "title": "Họp Hội đồng xét trao Giải thưởng Cánh én hồng và Giải thưởng Kim Đồng",
+      "link": "https://thanhnien.vn/hop-hoi-dong-xet-trao-giai-thuong-canh-en-hong-va-giai-thuong-kim-dong-185260424165323209.htm",
+      "summary": "Tại cuộc họp xét trao Giải thưởng Cánh én hồng năm 2026 và Giải thưởng Kim Đồng năm học 2025 - 2026, ban tổ chức đã đề xuất trao giải cho 45 giáo viên và 98 học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:30:00+07:00",
+      "fetched": "2026-04-24T17:57:55.943091+07:00"
+    },
+    {
+      "id": "f4d81c208af239fba04c659b6d3590b8",
+      "title": "Rohto-Mentholatum (Việt Nam) 30 năm: ‘Hành trình truyền cảm hứng cho những tài năng tương lai’",
+      "link": "https://thanhnien.vn/rohto-mentholatum-viet-nam-30-nam-hanh-trinh-truyen-cam-hung-cho-nhung-tai-nang-tuong-lai-185260424163147851.htm",
+      "summary": "Nhằm mục đích mang đến cho sinh viên cơ hội trải nghiệm môi trường doanh nghiệp thực tế, tiếp cận công nghệ sản xuất hiện đại cũng như tìm hiểu cách doanh nghiệp xây dựng thương hiệu và phát triển thị trường trong ngành dược mỹ phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:30:00+07:00",
+      "fetched": "2026-04-24T17:57:55.943184+07:00"
+    },
+    {
+      "id": "a78dd3d8d7c13310b23d4ba00313afc5",
+      "title": "Hoài Linh diện áo bà ba tái xuất trong đêm nhạc Bằng Cường",
+      "link": "https://thanhnien.vn/hoai-linh-dien-ao-ba-ba-tai-xuat-trong-dem-nhac-bang-cuong-185260424165548114.htm",
+      "summary": "Tối 23.4, ca sĩ Bằng Cường tổ chức đêm nhạc kỷ niệm 25 năm ca hát mang tên 'Yêu đời ta hát' tại phòng trà Không Tên (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:27:00+07:00",
+      "fetched": "2026-04-24T17:57:55.943281+07:00"
+    },
+    {
+      "id": "34f498870cd503c8a09591611675fa82",
+      "title": "Chủ tịch VFF giao nhiệm vụ đặc biệt, U.17 nữ Việt Nam quyết đấu Trung Quốc và Thái Lan tại châu Á",
+      "link": "https://thanhnien.vn/chu-tich-vff-giao-nhiem-vu-dac-biet-u17-nu-viet-nam-quyet-dau-trung-quoc-va-thai-lan-tai-chau-a-185260424172105058.htm",
+      "summary": "Ngày 24.4, tại trụ sở Liên đoàn Bóng đá Việt Nam (VFF), Chủ tịch VFF Trần Quốc Tuấn đã gặp và động viên đội tuyển U.17 nữ Việt Nam trước khi lên đường tham dự VCK giải bóng đá nữ U.17 châu Á Trung Quốc 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:25:00+07:00",
+      "fetched": "2026-04-24T17:57:55.943373+07:00"
+    },
+    {
+      "id": "e8979ef7a6b9e805c806811ef0d548d5",
+      "title": "Vietbank tổ chức ĐHĐCĐ thường niên 2026, thông qua nhiều mục tiêu tăng trưởng quan trọng",
+      "link": "https://thanhnien.vn/vietbank-to-chuc-dhdcd-thuong-nien-2026-thong-qua-nhieu-muc-tieu-tang-truong-quan-trong-185260424172058097.htm",
+      "summary": "Ngân hàng TMCP Việt Nam Thương Tín (Vietbank, mã chứng khoán: VBB) vừa tổ chức thành công Đại hội đồng cổ đông thường niên năm 2026, thông qua nhiều nội dung quan trọng liên quan đến kế hoạch tăng vốn điều lệ lên 15.500 tỉ đồng, mục tiêu kinh doanh năm 2026 và các định hướng phát triển dài hạn. Đây ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:11:00+07:00",
+      "fetched": "2026-04-24T17:57:55.943475+07:00"
+    },
+    {
+      "id": "c6721e2beaa993f184ff0ad070a7eda1",
+      "title": "Từ trung tâm TP HCM đi Vũng Tàu nhanh hơn bao nhiêu nhờ cao tốc mới?",
+      "link": "https://vnexpress.net/tu-trung-tam-tp-hcm-di-vung-tau-nhanh-hon-bao-nhieu-nho-cao-toc-moi-5066323.html",
+      "summary": "Hơn 37 km cao tốc Biên Hòa – Vũng Tàu dự kiến vận hành cuối tháng 4 nhằm giảm áp lực cho quốc lộ 51 và rút ngắn thời gian từ trung tâm TP HCM đi Vũng Tàu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:09:21+07:00",
+      "fetched": "2026-04-24T17:57:52.983105+07:00"
+    },
+    {
+      "id": "e2ef69eb1cb63d168ce69469f7fbe01b",
+      "title": "'Chạy show' đám cưới 45 phút tranh thủ giờ nghỉ trưa",
+      "link": "https://vnexpress.net/chay-show-dam-cuoi-45-phut-tranh-thu-gio-nghi-trua-5066731.html",
+      "summary": "Bàn tôi có người vừa ngồi xuống đã nhìn đồng hồ canh giờ phải quay lại công ty, có người bỏ về sớm khi món chính còn chưa dọn hết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:00:00+07:00",
+      "fetched": "2026-04-24T17:57:52.983220+07:00"
+    },
+    {
+      "id": "0501357c1d7f904e54608b466d5a199d",
+      "title": "Tôi tự giải thoát khỏi cuộc hôn nhân chỉ có hơi tiền, thiếu đi hơi ấm",
+      "link": "https://vnexpress.net/ly-hon-toi-tu-giai-thoat-khoi-cuoc-hon-nhan-chi-co-hoi-tien-thieu-di-hoi-am-5066711.html",
+      "summary": "Sau khi đóng góp xong phần tài chính, anh ấy mặc nhiên xem mình đã hoàn thành nghĩa vụ với gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:00:00+07:00",
+      "fetched": "2026-04-24T17:57:52.983322+07:00"
+    },
+    {
+      "id": "cb55012ddc47c5280b8d76a795d5d284",
+      "title": "Làm gì để ngủ ngon tuổi trung niên?",
+      "link": "https://vnexpress.net/lam-gi-de-ngu-ngon-tuoi-trung-nien-5066766.html",
+      "summary": "Đến tuổi trung niên, giấc ngủ thường chập chờn, nhưng những thói quen đơn giản mỗi ngày có thể giúp phụ nữ ngủ ngon và sâu giấc hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:00:00+07:00",
+      "fetched": "2026-04-24T17:57:52.983432+07:00"
+    },
+    {
+      "id": "a0e7e0cc56270ea2166fd7ec6308e28c",
+      "title": "TCIE Việt Nam ra mắt minibus 16 chỗ TQ Fortune",
+      "link": "https://vnexpress.net/tcie-viet-nam-ra-mat-minibus-16-cho-tq-fortune-5066678.html",
+      "summary": "Mẫu minibus 16 chỗ dành cho mục đích kinh doanh dịch vụ, ra đời từ hợp tác với JMCG Jingma Motors (Trung Quốc) và lắp động cơ Isuzu, theo TCIE Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:00:00+07:00",
+      "fetched": "2026-04-24T17:57:52.983565+07:00"
+    },
+    {
+      "id": "8537ea631c5c69b6a04a4eff663d77e3",
+      "title": "Điều gì xảy ra khi ăn bơ đậu phộng buổi tối?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-an-bo-dau-phong-buoi-toi-5066603.html",
+      "summary": "Bơ đậu phộng giàu magie, chất xơ và chất béo lành mạnh, giúp cơ thể thư giãn và duy trì đường huyết ổn định, từ đó hỗ trợ giấc ngủ tốt hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:00:00+07:00",
+      "fetched": "2026-04-24T17:57:52.983669+07:00"
+    },
+    {
+      "id": "b89feec6114c6b06fb7fca4dd0a78df7",
+      "title": "Định hướng phát triển game anime của startup Việt",
+      "link": "https://vnexpress.net/dinh-huong-phat-trien-game-anime-cua-startup-viet-5066389.html",
+      "summary": "Startup Neotrix do hai nhà sáng lập 9X xây dựng, tập trung vào phân khúc game anime và bước đầu ghi nhận doanh thu hàng tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:00:00+07:00",
+      "fetched": "2026-04-24T17:57:52.983766+07:00"
+    },
+    {
+      "id": "008746746e92f60022559418875ea0bc",
+      "title": "Electrolux trình làng thiết bị gia dụng tối giản tại Milan Design Week",
+      "link": "https://vnexpress.net/electrolux-trinh-lang-thiet-bi-gia-dung-toi-gian-tai-milan-design-week-5066199.html",
+      "summary": "Tại sự kiện thiết kế nội thất Milan Design Week 2026, Electrolux giới thiệu bộ sưu tập gia dụng \"The Swedish Home\", nhấn mạnh trải nghiệm trực quan và giảm áp lực trong sinh hoạt hàng ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:00:00+07:00",
+      "fetched": "2026-04-24T17:57:52.983868+07:00"
+    },
+    {
+      "id": "3b543820a6bf9e921edd0f3dbca68412",
+      "title": "Hội thảo khoa học: ‘Dinh dưỡng lâm sàng cho nhóm bệnh lý chuyên biệt’",
+      "link": "https://thanhnien.vn/hoi-thao-khoa-hoc-dinh-duong-lam-sang-cho-nhom-benh-ly-chuyen-biet-185260424161907802.htm",
+      "summary": "Ngày 23.4.2026 vừa qua, Bệnh viện Hoàn Mỹ Bình Dương đã tổ chức thành công hội thảo khoa học với chủ đề 'Dinh dưỡng lâm sàng cho nhóm bệnh lý chuyên biệt'. Hội thảo là diễn đàn chuyên môn nhằm cập nhật kiến thức và tăng cường khả năng ứng dụng trong điều trị và quản lý bệnh, đồng thời khẳng định nỗ ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T10:00:00+07:00",
+      "fetched": "2026-04-24T17:57:55.943574+07:00"
+    },
+    {
+      "id": "4692e0d02a95cdf674b25c02e98f94bc",
+      "title": "Anh sống đơn giản, luôn hướng mình về những điều thiện lành",
+      "link": "https://vnexpress.net/anh-song-don-gian-luon-huong-minh-ve-nhung-dieu-thien-lanh-5066548.html",
+      "summary": "Anh muốn cùng em xây dựng một mái ấm, nơi em luôn rạng rỡ nụ cười, tràn đầy hạnh phúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T09:57:17+07:00",
+      "fetched": "2026-04-24T17:57:52.983936+07:00"
+    },
+    {
+      "id": "925f053a4647cbef7e03853e7acefdf1",
+      "title": "Hơn 40 năm trái tim em lang thang chưa cập bến",
+      "link": "https://vnexpress.net/hon-40-nam-trai-tim-em-lang-thang-chua-cap-ben-5066549.html",
+      "summary": "Em là con có hiếu, biết lễ nghĩa, hiền ngoan trong gia đình; lịch sự và nhã nhặn ngoài xã hội nhưng khá cầu thị với bản thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T09:56:53+07:00",
+      "fetched": "2026-04-24T17:57:52.983995+07:00"
+    },
+    {
+      "id": "79238e97b59f1ebafdd8a3cbce9666bd",
+      "title": "Em đã yêu ai sẽ yêu hết lòng, chân thành, giàu cảm xúc",
+      "link": "https://vnexpress.net/em-da-yeu-ai-se-yeu-het-long-chan-thanh-giau-cam-xuc-5066551.html",
+      "summary": "Em từng mơ nhiều lần sẽ có anh đồng hành trên những cung đường ấy, cùng trải nghiệm và sống hết lòng với từng khoảnh khắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T09:56:32+07:00",
+      "fetched": "2026-04-24T17:57:52.984051+07:00"
+    },
+    {
+      "id": "f8615ef5f1fb2e47b840dc23c1d56a30",
+      "title": "Vợ Bằng Cường viết ca khúc tặng chồng",
+      "link": "https://vnexpress.net/vo-bang-cuong-viet-ca-khuc-tang-chong-5066669.html",
+      "summary": "Vợ Bằng Cường, ca sĩ Bảo Anh, viết ca khúc \"Yêu trở thành thương\", hát trong đêm nhạc kỷ niệm 25 năm ca hát của chồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T09:48:56+07:00",
+      "fetched": "2026-04-24T17:57:52.984148+07:00"
+    },
+    {
+      "id": "c48de7db3c0f5dd52373579b178ba82c",
+      "title": "Quảng Trị công bố 26 hang động mới phát hiện",
+      "link": "https://vnexpress.net/quang-tri-cong-bo-26-hang-dong-moi-phat-hien-5066794.html",
+      "summary": "Đoàn thám hiểm hang động Anh - Việt và Ban Quản lý Vườn quốc gia Phong Nha - Kẻ Bàng vừa phát hiện 26 hang động mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T09:48:00+07:00",
+      "fetched": "2026-04-24T17:57:52.984257+07:00"
+    },
+    {
       "id": "922220b96777ec0ac1c8251e95cb7260",
       "title": "Thủ tướng phê bình 28 bộ, cơ quan và 18 địa phương giải ngân đầu tư công thấp",
       "link": "https://vnexpress.net/thu-tuong-phe-binh-28-bo-co-quan-va-18-dia-phuong-giai-ngan-dau-tu-cong-thap-5066773.html",
@@ -681,6 +1131,26 @@ window.newsData_2026_04_24 = {
       "category": "Tổng hợp",
       "published": "2026-04-24T08:56:02+07:00",
       "fetched": "2026-04-24T16:22:18.126470+07:00"
+    },
+    {
+      "id": "d3a55a5207cbd8c21725fe06cc48ade4",
+      "title": "VN-Index mất hơn 17 điểm trước nghỉ lễ",
+      "link": "https://vnexpress.net/vn-index-mat-hon-17-diem-truoc-nghi-le-5066750.html",
+      "summary": "Các cổ phiếu Vingroup gồm VIC, VHM và VPL thuộc nhóm mã ảnh hưởng lớn nhất tới chứng khoán, khiến VN-Index rơi hơn 17 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-24T08:55:33+07:00",
+      "fetched": "2026-04-24T17:58:00.410631+07:00"
+    },
+    {
+      "id": "587d365b4299c260c6e91878442585f3",
+      "title": "TPBank sẽ lập công ty bảo hiểm phi nhân thọ",
+      "link": "https://vnexpress.net/tpbank-se-lap-cong-ty-bao-hiem-phi-nhan-tho-5066611.html",
+      "summary": "Lãnh đạo TPBank cho biết sẽ lập hãng bảo hiểm riêng để mở rộng hệ sinh thái, tăng thu ngoài lãi trong bối cảnh hạn mức tín dụng hạn hẹp hơn trước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-24T08:52:55+07:00",
+      "fetched": "2026-04-24T17:58:00.410732+07:00"
     },
     {
       "id": "d0e80d7665f56a1ec5b00d3a553025fb",
