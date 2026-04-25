@@ -1,6 +1,6 @@
 window.newsData_2026_04_25 = {
   "date": "2026-04-25",
-  "lastUpdated": "2026-04-25T14:02:58.639437+07:00",
+  "lastUpdated": "2026-04-25T15:42:11.813765+07:00",
   "articles": [
     {
       "id": "d35930844f853a9bb2ba11e79a2f8592",
@@ -303,6 +303,76 @@ window.newsData_2026_04_25 = {
       "fetched": "2026-04-25T11:28:50.920271+07:00"
     },
     {
+      "id": "238c354218fc045d95d8899ba6497b2c",
+      "title": "TP.HCM trao chứng nhận đăng ký đầu tư cho 4 'siêu' dự án công nghệ cao",
+      "link": "https://thanhnien.vn/tphcm-trao-chung-nhan-dang-ky-dau-tu-cho-4-sieu-du-an-cong-nghe-cao-185260425134215404.htm",
+      "summary": "TP.HCM trao giấy chứng nhận đăng ký đầu tư 4 dự án công nghệ cao hơn 1,23 tỉ USD nhằm bứt phá hạ tầng số, AI, y sinh... tạo cú hích tăng trưởng hai con số năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:39:00+07:00",
+      "fetched": "2026-04-25T15:41:49.587858+07:00"
+    },
+    {
+      "id": "d9a27f9956ad28f7d088e0e66a15930c",
+      "title": "Tay đua Thụy Sĩ solo ấn tượng, giành chiến thắng chặng Cúp xe đạp truyền hình",
+      "link": "https://thanhnien.vn/tay-dua-thuy-si-solo-an-tuong-gianh-chien-thang-chang-cup-xe-dap-truyen-hinh-18526042515340768.htm",
+      "summary": "Tay đua Christoph Janssen tỏa sáng với màn solo ấn tượng để giành chiến thắng ở chặng 20 Cúp xe đạp truyền hình TP.HCM - Tôn Đông Á 2026 diễn ra hôm nay (25.4) từ phường Vũng Tàu về phường Thủ Dầu Một với cự ly thi đấu 141 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:35:00+07:00",
+      "fetched": "2026-04-25T15:41:49.588026+07:00"
+    },
+    {
+      "id": "b94d11634b4a5a7e251067f6bd8a4bdc",
+      "title": "Bí mật phía sau 'mái vòm đen' trên camera an ninh",
+      "link": "https://thanhnien.vn/bi-mat-phia-sau-mai-vom-den-tren-camera-an-ninh-18526042505472848.htm",
+      "summary": "Camera an ninh hiện nay có nhiều hình dạng và kích cỡ khác nhau, nhưng không loại nào gây tò mò như loại có mái vòm đen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:33:00+07:00",
+      "fetched": "2026-04-25T15:41:49.588184+07:00"
+    },
+    {
+      "id": "a366dc4e50b87b7f9d0e5de4e637ef51",
+      "title": "THACO giảm giá niêm yết tăng ưu đãi, nhiều xe đa dụng KIA chỉ khoảng 500 triệu",
+      "link": "https://thanhnien.vn/thaco-giam-gia-niem-yet-tang-uu-dai-nhieu-xe-da-dung-kia-chi-khoang-500-trieu-185260424072508544.htm",
+      "summary": "Nhiều mẫu xe KIA đang được THACO điều chỉnh niêm yết và tăng ưu đãi, giúp giá thực tế giảm mạnh. Trong đó không ít dòng xe gầm cao, MPV đa dụng chỉ còn quanh mốc 500 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:33:00+07:00",
+      "fetched": "2026-04-25T15:41:49.588336+07:00"
+    },
+    {
+      "id": "7f95b9990a525da1c0eeeb365d2d76dc",
+      "title": "Phó Chủ tịch Hội Chữ thập đỏ mượn sổ đỏ thật, làm giả để vay tiền tỷ",
+      "link": "https://vnexpress.net/pho-chu-tich-hoi-chu-thap-do-muon-so-do-that-lam-gia-de-vay-tien-ty-5067078.html",
+      "summary": "Trần Thị Mười Bảy bị cáo buộc khi là Phó Chủ tịch Hội chữ thập đỏ tỉnh Bình Dương đã mượn 2 sổ đỏ của chủ đất, làm giả rồi thế chấp cho người quen lừa vay tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:32:29+07:00",
+      "fetched": "2026-04-25T15:41:46.754484+07:00"
+    },
+    {
+      "id": "1f3633eb6081ab707dffe1e39aa67fdb",
+      "title": "5 bộ phận cần kiểm tra khi lái ô tô đi chơi lễ giữa mùa nắng nóng",
+      "link": "https://thanhnien.vn/5-bo-phan-can-kiem-tra-khi-lai-o-to-di-choi-le-giua-mua-nang-nong-185260423085439488.htm",
+      "summary": "Kỳ nghỉ lễ đang cận kề, nhu cầu di chuyển đường dài bằng ô tô tăng cao trong bối cảnh thời tiết nắng nóng gay gắt, do đó việc kiểm tra kỹ các bộ phận quan trọng trên ô tô trước chuyến đi không chỉ giúp đảm bảo an toàn mà còn hạn chế rủi ro hư hỏng giữa đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:29:00+07:00",
+      "fetched": "2026-04-25T15:41:49.588485+07:00"
+    },
+    {
+      "id": "ae78aa8f8ae959fbcf880f360da79009",
+      "title": "'Thót tim' ô tô con bị đâm ngang vì sang đường ẩu",
+      "link": "https://thanhnien.vn/thot-tim-o-to-con-bi-dam-ngang-vi-sang-duong-au-185260425124648953.htm",
+      "summary": "Tình huống tai nạn nguy hiểm khiến nhiều người một phen \"thót tim\" khi tài xế lái ô tô con hiệu Mitsubishi Xforce sang đường ẩu dẫn đến tai nạn, bị xe khác tông trực diện từ bên hông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:28:00+07:00",
+      "fetched": "2026-04-25T15:41:49.588657+07:00"
+    },
+    {
       "id": "8ef6c804b8d953c021a12870dceefe71",
       "title": "CĐV Đông Nam Á: U17 Việt Nam đá chung kết như đá tập",
       "link": "https://tuoitre.vn/cdv-dong-nam-a-u17-viet-nam-da-chung-ket-nhu-da-tap-20260424231754679.htm",
@@ -451,6 +521,256 @@ window.newsData_2026_04_25 = {
       "category": "Tổng hợp",
       "published": "2026-04-25T08:26:19.088498+07:00",
       "fetched": "2026-04-25T08:26:19.088712+07:00"
+    },
+    {
+      "id": "f6844393b5a8a86d559b0eb5c1b1207a",
+      "title": "Bị khởi tố vì đốt xưởng gỗ trong lúc say rượu",
+      "link": "https://thanhnien.vn/bi-khoi-to-vi-dot-xuong-go-trong-luc-say-ruou-185260425151150033.htm",
+      "summary": "Chiều 25.4, Công an Hà Nội cho biết, cơ quan này vừa ra quyết định khởi tố vụ án, khởi tố bị can đối với Nguyễn Bá Khoa (44 tuổi, trú xã Ô Diên, Hà Nội) về tội hủy hoại tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:26:00+07:00",
+      "fetched": "2026-04-25T15:41:49.588815+07:00"
+    },
+    {
+      "id": "f1395accc7c3925374ba5505c71c3d84",
+      "title": "Ukraine để lọt toàn bộ tên lửa Iskander trong đòn tập kích của Nga",
+      "link": "https://vnexpress.net/ukraine-de-lot-toan-bo-ten-lua-iskander-trong-don-tap-kich-cua-nga-5067076.html",
+      "summary": "Ukraine tuyên bố đánh chặn thành công 580 UAV và 30 tên lửa Nga, song dường như để lọt toàn bộ số đạn Iskander-M của đối phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:20:14+07:00",
+      "fetched": "2026-04-25T15:41:46.754694+07:00"
+    },
+    {
+      "id": "f1395accc7c3925374ba5505c71c3d84",
+      "title": "Ukraine để lọt toàn bộ tên lửa Iskander trong đòn tập kích của Nga",
+      "link": "https://vnexpress.net/ukraine-de-lot-toan-bo-ten-lua-iskander-trong-don-tap-kich-cua-nga-5067076.html",
+      "summary": "Ukraine tuyên bố đánh chặn thành công 580 UAV và 30 tên lửa Nga, song dường như để lọt toàn bộ số đạn Iskander-M của đối phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-25T08:20:14+07:00",
+      "fetched": "2026-04-25T15:41:52.104053+07:00"
+    },
+    {
+      "id": "eb8f6a5b8c8718bf9b642922c6fc812b",
+      "title": "Thủ tướng: Đánh giá kết quả KPI, thay thế cán bộ không hoàn thành nhiệm vụ",
+      "link": "https://thanhnien.vn/thu-tuong-danh-gia-ket-qua-kpi-thay-the-can-bo-khong-hoan-thanh-nhiem-vu-185260425145713547.htm",
+      "summary": "Thủ tướng lưu ý Bộ VH-TT-DL cần đánh giá kết quả (KPI), kịp thời thay thế các cán bộ không hoàn thành nhiệm vụ, không bảo đảm chất lượng công việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:19:00+07:00",
+      "fetched": "2026-04-25T15:41:49.588962+07:00"
+    },
+    {
+      "id": "432cd7b578e905f7c2c28ef59b829537",
+      "title": "Văn Quyết nói 'chua chát' nhưng đúng: CLB Ninh Bình có 3 Hoàng Đức vẫn sẽ thua Hà Nội, vì...",
+      "link": "https://thanhnien.vn/van-quyet-noi-chua-chat-nhung-dung-clb-ninh-binh-co-3-hoang-duc-van-se-thua-ha-noi-vi-185260425144818903.htm",
+      "summary": "Phát ngôn của Văn Quyết dẫu gây tranh cãi, nhưng tiết lộ một phần sự thật trong cách vận hành lối chơi của CLB Ninh Bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:17:00+07:00",
+      "fetched": "2026-04-25T15:41:49.589108+07:00"
+    },
+    {
+      "id": "fffbca840af6f20b56d22db2c931c0db",
+      "title": "Tôi tiếc căn nhà 1,5 tỷ bán làm vốn học đại học",
+      "link": "https://vnexpress.net/toi-tiec-can-nha-1-5-ty-ban-lam-von-hoc-dai-hoc-5067037.html",
+      "summary": "Ba mẹ bán nhà 1,5 tỷ cho con học đại học, nhưng giờ ra trường, lương tôi vẫn chỉ 10 triệu một tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:16:33+07:00",
+      "fetched": "2026-04-25T15:41:46.754874+07:00"
+    },
+    {
+      "id": "73af26699bee9ca9dba50458c23be110",
+      "title": "PVOIL thay đổi nhân sự cấp cao, nêu mục tiêu 2026",
+      "link": "https://vnexpress.net/pvoil-thay-doi-nhan-su-cap-cao-neu-muc-tieu-2026-5067092.html",
+      "summary": "PVOIL kiện toàn nhân sự cấp cao nhiệm kỳ 2026-2032, mục tiêu doanh thu 150,7 nghìn tỷ đồng năm nay, đẩy mạnh kinh doanh quốc tế ở phiên họp sáng 24/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:15:00+07:00",
+      "fetched": "2026-04-25T15:41:46.755039+07:00"
+    },
+    {
+      "id": "73af26699bee9ca9dba50458c23be110",
+      "title": "PVOIL thay đổi nhân sự cấp cao, nêu mục tiêu 2026",
+      "link": "https://vnexpress.net/pvoil-thay-doi-nhan-su-cap-cao-neu-muc-tieu-2026-5067092.html",
+      "summary": "PVOIL kiện toàn nhân sự cấp cao nhiệm kỳ 2026-2032, mục tiêu doanh thu 150,7 nghìn tỷ đồng năm nay, đẩy mạnh kinh doanh quốc tế ở phiên họp sáng 24/4.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-25T08:15:00+07:00",
+      "fetched": "2026-04-25T15:41:53.732539+07:00"
+    },
+    {
+      "id": "f603aee93be266bd3841f5c94562f12e",
+      "title": "Nâng tầm bóng đá khu vực Đông Nam Á",
+      "link": "https://thanhnien.vn/nang-tam-bong-da-khu-vuc-dong-nam-a-185260424210905747.htm",
+      "summary": "Từ khi về với Liên đoàn Bóng đá Đông Nam Á (AFF) năm 2013, bóng đá Úc chỉ tham dự đầy đủ các giải trẻ của bóng đá khu vực, chứ chưa bao giờ bước vào sân chơi AFF Cup của nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:09:00+07:00",
+      "fetched": "2026-04-25T15:41:49.589252+07:00"
+    },
+    {
+      "id": "647959ee3f3eb1333bd1133fa6f5ef4f",
+      "title": "CEO Techcombank: Các khoản vay bất động sản rủi ro thấp",
+      "link": "https://vnexpress.net/ceo-techcombank-cac-khoan-vay-bat-dong-san-rui-ro-thap-5067050.html",
+      "summary": "Tổng giám đốc Jens Lottner cho rằng Techcombank có dư nợ cao với nhóm bất động sản, nhưng các khoản vay đều rủi ro thấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:08:00+07:00",
+      "fetched": "2026-04-25T15:41:46.755196+07:00"
+    },
+    {
+      "id": "647959ee3f3eb1333bd1133fa6f5ef4f",
+      "title": "CEO Techcombank: Các khoản vay bất động sản rủi ro thấp",
+      "link": "https://vnexpress.net/ceo-techcombank-cac-khoan-vay-bat-dong-san-rui-ro-thap-5067050.html",
+      "summary": "Tổng giám đốc Jens Lottner cho rằng Techcombank có dư nợ cao với nhóm bất động sản, nhưng các khoản vay đều rủi ro thấp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-25T08:08:00+07:00",
+      "fetched": "2026-04-25T15:41:53.731066+07:00"
+    },
+    {
+      "id": "87ce916d3c3370b60dd5d0427a8cd9bc",
+      "title": "Đề xuất dự án 10.000 tỉ lột xác 'điểm đen' ùn tắc ngã tư Hàng Xanh",
+      "link": "https://thanhnien.vn/de-xuat-du-an-10000-ti-lot-xac-diem-den-un-tac-nga-tu-hang-xanh-185260425150403223.htm",
+      "summary": "Sở Tài chính TP.HCM vừa có văn bản gửi UBND TP.HCM báo cáo về đề xuất dự án đầu tư cải tạo hạ tầng giao thông tại khu vực Hàng Xanh - Bình Triệu, theo phương thức đối tác công tư (PPP)",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:06:00+07:00",
+      "fetched": "2026-04-25T15:41:49.589398+07:00"
+    },
+    {
+      "id": "7feffdba76e16b5ff297920766d0af28",
+      "title": "TP.HCM và miền Đông có mưa vàng giải nhiệt; nắng nóng cục bộ còn kéo dài",
+      "link": "https://thanhnien.vn/tphcm-va-mien-dong-co-mua-vang-giai-nhiet-nang-nong-cuc-bo-con-keo-dai-185260425150208333.htm",
+      "summary": "Chiều nay (25.4), mưa vàng giải nhiệt xuất hiện ở TP.HCM và một số khu vực ở miền Đông Nam bộ. Tình trạng nắng nóng cục bộ trên khu vực Nam bộ còn kéo dài đến cuối tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:04:00+07:00",
+      "fetched": "2026-04-25T15:41:49.589549+07:00"
+    },
+    {
+      "id": "40522f5a58880c49bc8055f4199af22a",
+      "title": "Để mẹ làm chút việc nhà, tôi bị anh chị chỉ trích",
+      "link": "https://vnexpress.net/de-me-lam-chut-viec-nha-toi-bi-anh-chi-chi-trich-5066971.html",
+      "summary": "Tôi bị bố và anh chị góp ý nên làm việc nhà thêm để mẹ đỡ vất vả; tôi thấy buồn, muốn tách ra ăn riêng vì quá áp lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:00:00+07:00",
+      "fetched": "2026-04-25T15:41:46.755358+07:00"
+    },
+    {
+      "id": "0b8db9204aa078a284c92b3aca9f6fd3",
+      "title": "Mô hình iPhone gập so dáng cùng thiết bị Apple",
+      "link": "https://vnexpress.net/mo-hinh-iphone-gap-so-dang-cung-thiet-bi-apple-5066904.html",
+      "summary": "Mẫu iPhone gập đầu tiên dự kiến ra mắt cuối năm nay, nhưng một số mô hình của sản phẩm đã bắt đầu xuất hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:00:00+07:00",
+      "fetched": "2026-04-25T15:41:46.755516+07:00"
+    },
+    {
+      "id": "dcd9bb0419c9cc9e325efa74fc7a54c8",
+      "title": "Làm thế nào phòng tránh sặc sữa cho trẻ sơ sinh?",
+      "link": "https://vnexpress.net/lam-the-nao-phong-tranh-sac-sua-cho-tre-so-sinh-5067020.html",
+      "summary": "Bé 20 ngày tuổi bú sữa hay bị sặc có nguy hiểm không, làm sao để phòng tránh? (Phạm Mây, 22 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:00:00+07:00",
+      "fetched": "2026-04-25T15:41:46.755699+07:00"
+    },
+    {
+      "id": "bb4fa5574a7efe2a7fefc6fc2985d51d",
+      "title": "Orchard Collection ra mắt bộ sưu tập 12 căn hộ giới hạn với gara tại gia",
+      "link": "https://vnexpress.net/orchard-collection-ra-mat-bo-suu-tap-12-can-ho-gioi-han-voi-gara-tai-gia-5066987.html",
+      "summary": "Khu đô thị phức hợp Sycamore giới thiệu bộ sưu tập 12 căn hộ giới hạn, thuộc phân khu Orchard Collection, diện tích tới 175 m2, thiết kế hai đến bốn phòng ngủ, trần cao đến 5 m tích hợp gara ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:00:00+07:00",
+      "fetched": "2026-04-25T15:41:46.755857+07:00"
+    },
+    {
+      "id": "616daddfa0538a6e5f34366de3a8568d",
+      "title": "Vì sao thủy đậu, nấm da thường bùng phát khi chuyển mùa?",
+      "link": "https://vnexpress.net/vi-sao-thuy-dau-nam-da-thuong-bung-phat-khi-chuyen-mua-5066975.html",
+      "summary": "Độ ẩm gia tăng khi chuyển mùa tạo điều kiện cho virus thủy đậu và vi nấm phát triển, hệ miễn dịch chưa thích nghi kịp khiến bệnh dễ bùng phát và lây lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:00:00+07:00",
+      "fetched": "2026-04-25T15:41:46.756013+07:00"
+    },
+    {
+      "id": "bda8572170494a5e273dc2139cfabb9f",
+      "title": "Thử thách 'lể' ốc ruốc bằng gai chanh: Nét mộc mạc miền Trung giữa lòng Sài Gòn",
+      "link": "https://thanhnien.vn/thu-thach-le-oc-ruoc-bang-gai-chanh-net-moc-mac-mien-trung-giua-long-sai-gon-185260425121817446.htm",
+      "summary": "Giữa Sài Gòn nhộn nhịp, quán Ốc Ruốc Ngon mang đến nét mộc mạc miền Trung qua món ốc lể li ti. Thưởng thức ốc bằng chiếc gai chanh truyền thống không chỉ là \"thử thách kiên nhẫn\" mà còn là thú vui \"gây nghiện\", lý tưởng để lai rai, tán gẫu cùng bạn bè.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T08:00:00+07:00",
+      "fetched": "2026-04-25T15:41:49.589728+07:00"
+    },
+    {
+      "id": "9850b6eb5e1a801da95dce1fef64eedd",
+      "title": "Trung Quốc gửi cho Mỹ thêm cặp gấu trúc",
+      "link": "https://vnexpress.net/trung-quoc-gui-cho-my-them-cap-gau-truc-5067061.html",
+      "summary": "Cặp gấu trúc được đưa từ tỉnh Tứ Xuyên của Trung Quốc đến thành phố Atlanta của Mỹ theo thỏa thuận bảo tồn kéo dài 10 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T07:58:54+07:00",
+      "fetched": "2026-04-25T15:41:46.756171+07:00"
+    },
+    {
+      "id": "9850b6eb5e1a801da95dce1fef64eedd",
+      "title": "Trung Quốc gửi cho Mỹ thêm cặp gấu trúc",
+      "link": "https://vnexpress.net/trung-quoc-gui-cho-my-them-cap-gau-truc-5067061.html",
+      "summary": "Cặp gấu trúc được đưa từ tỉnh Tứ Xuyên của Trung Quốc đến thành phố Atlanta của Mỹ theo thỏa thuận bảo tồn kéo dài 10 năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-25T07:58:54+07:00",
+      "fetched": "2026-04-25T15:41:52.104229+07:00"
+    },
+    {
+      "id": "2631dc2414a5c16a71570b9da63b84ff",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Giữ vững Quân khu 5 là giữ vững một phên dậu chiến lược của Tổ quốc",
+      "link": "https://thanhnien.vn/giu-vung-quan-khu-5-la-giu-vung-mot-phen-dau-chien-luoc-cua-to-quoc-185260425124327657.htm",
+      "summary": "Sáng 25.4, tại thành phố Đà Nẵng, Quân khu 5 long trọng tổ chức lễ đón nhận danh hiệu Anh hùng Lực lượng vũ trang nhân dân. Tổng Bí thư, Chủ tịch nước Tô Lâm dự và trao danh hiệu, phát biểu chỉ đạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T07:56:00+07:00",
+      "fetched": "2026-04-25T15:41:49.589880+07:00"
+    },
+    {
+      "id": "fffa684974ae659437b33ea4ceb208d5",
+      "title": "Vé trận chung kết World Cup được rao bán lại hơn 60 tỉ đồng, khán giả choáng váng",
+      "link": "https://thanhnien.vn/ve-tran-chung-ket-world-cup-duoc-rao-ban-lai-hon-60-ti-dong-khan-gia-choang-vang-185260425144717624.htm",
+      "summary": "Giá vé trận chung kết World Cup 2026 đang gây sốc khi bị đẩy lên tới hơn hơn 2,299 triệu USD/vé (khoảng 60,6 tỉ đồng) trên thị trường bán lại. Trong khi người hâm mộ choáng váng vì mức giá 'trên trời', FIFA cũng được cho là hưởng lợi lớn nhờ cơ chế thu hoa hồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T07:54:00+07:00",
+      "fetched": "2026-04-25T15:41:49.590033+07:00"
+    },
+    {
+      "id": "d7842e0d3260c07b65136121f51c6eb4",
+      "title": "Giới trẻ mặc giáp binh thời Lý - Trần diễu hành tại Thảo Cầm Viên",
+      "link": "https://vnexpress.net/gioi-tre-mac-giap-binh-thoi-ly-tran-dieu-hanh-tai-thao-cam-vien-5067031.html",
+      "summary": "Nhiều nhóm bạn trẻ trình diễn các bộ giáp mô phỏng thời kỳ dựng nước và giữ nước trên lộ trình dài 2 km kết nối Bảo tàng Lịch sử TP HCM với Đền Quốc Tổ, sáng 25/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T07:16:44+07:00",
+      "fetched": "2026-04-25T15:41:46.756324+07:00"
+    },
+    {
+      "id": "d4cf7673557fde9202f8bf96a58c9776",
+      "title": "Bốn anh em nói bị Michael Jackson 'lạm dụng, tẩy não'",
+      "link": "https://vnexpress.net/bon-anh-em-noi-bi-michael-jackson-lam-dung-tay-nao-5066957.html",
+      "summary": "Những người con nhà Cascio tố cáo bị Michael Jackson \"lạm dụng, chuốc thuốc và thao túng\" lúc nhỏ dù gia đình họ từng bênh vực ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T07:15:47+07:00",
+      "fetched": "2026-04-25T15:41:46.756482+07:00"
     },
     {
       "id": "8670706c35fe795f0d857dc99f995fdc",
