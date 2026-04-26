@@ -1,6 +1,6 @@
 window.newsData_2026_04_27 = {
   "date": "2026-04-27",
-  "lastUpdated": "2026-04-27T01:37:24.208550+07:00",
+  "lastUpdated": "2026-04-27T03:28:55.475999+07:00",
   "articles": [
     {
       "id": "7f7b549d47edcfbeb13660e785d1858e",
@@ -151,6 +151,36 @@ window.newsData_2026_04_27 = {
       "category": "Tổng hợp",
       "published": "2026-04-27T01:37:15.597366+07:00",
       "fetched": "2026-04-27T01:37:15.597590+07:00"
+    },
+    {
+      "id": "006c973190d9f4d2a0b272e546a99c76",
+      "title": "Da chưa chảy xệ có cần nâng cơ?",
+      "link": "https://vnexpress.net/da-chua-chay-xe-co-can-nang-co-5067247.html",
+      "summary": "Tôi bắt đầu xuất hiện nếp nhăn mảnh ở khóe mắt, da kém săn chắc nhưng chưa chảy xệ. Tôi có nên can thiệp nâng cơ sớm không? (Ánh Thu, 25 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T20:00:00+07:00",
+      "fetched": "2026-04-27T03:28:41.816584+07:00"
+    },
+    {
+      "id": "71d4cfd932ddaffbef038227fe83cbbb",
+      "title": "Tưởng mụn thịt hóa sùi mào gà",
+      "link": "https://vnexpress.net/tuong-mun-thit-hoa-sui-mao-ga-5067243.html",
+      "summary": "Sau hai tháng quan hệ không an toàn, anh Quân, 49 tuổi, xuất hiện các nốt nhỏ ở vùng kín, tưởng là mụn thịt song bác sĩ chẩn đoán sùi mào gà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T19:00:00+07:00",
+      "fetched": "2026-04-27T03:28:41.816751+07:00"
+    },
+    {
+      "id": "ab624d36bbd3948ddc91e1b31feb09aa",
+      "title": "Bữa sáng tốt cho gan và thận, ít người tận dụng đúng cách",
+      "link": "https://thanhnien.vn/bua-sang-tot-cho-gan-va-than-it-nguoi-tan-dung-dung-cach-185260427014925548.htm",
+      "summary": "Bữa sáng không chỉ cung cấp năng lượng mà còn ảnh hưởng trực tiếp đến gan và thận. Chuyên gia cho biết lựa chọn đúng thực phẩm vào buổi sáng sẽ giúp giảm áp lực chuyển hóa và hỗ trợ cơ thể 'thải độc' hiệu quả hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T18:49:00+07:00",
+      "fetched": "2026-04-27T03:28:45.763957+07:00"
     },
     {
       "id": "c77bf2473f175607f45a2b10b18f3190",
