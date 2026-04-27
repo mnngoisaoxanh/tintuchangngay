@@ -1,7 +1,17 @@
 window.newsData_2026_04_28 = {
   "date": "2026-04-28",
-  "lastUpdated": "2026-04-28T00:14:58.280794+07:00",
+  "lastUpdated": "2026-04-28T02:04:11.039366+07:00",
   "articles": [
+    {
+      "id": "b062e910cc164c610542758c5767c454",
+      "title": "Bệnh nhi nuốt chìa khóa vào dạ dày, bác sĩ phải gây mê gắp ra ngoài",
+      "link": "https://tuoitre.vn/benh-nhi-nuot-chia-khoa-vao-da-day-bac-si-phai-gay-me-gap-ra-ngoai-20260427233312282.htm",
+      "summary": "Một bé trai ở Quảng Ngãi được đưa vào cấp cứu trong tình trạng hoảng loạn sau khi nuốt phải chìa khóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T02:04:04.394244+07:00",
+      "fetched": "2026-04-28T02:04:04.394459+07:00"
+    },
     {
       "id": "23853fa404f9f5b63f7ca4b0fc054f95",
       "title": "Chiến sự Iran giúp Trung Quốc 'thắng lớn' trên thị trường năng lượng",
@@ -153,6 +163,96 @@ window.newsData_2026_04_28 = {
       "fetched": "2026-04-28T00:14:49.389833+07:00"
     },
     {
+      "id": "d1474569b9e3342056f25d04406fee2e",
+      "title": "Lý do CEO Kia tham gia 'cuộc chiến giá' với đối thủ Trung Quốc tại châu Âu",
+      "link": "https://vnexpress.net/ly-do-ceo-kia-tham-gia-cuoc-chien-gia-voi-doi-thu-trung-quoc-tai-chau-au-5067586.html",
+      "summary": "CEO hãng xe lớn thứ hai Hàn Quốc quyết định thu hẹp khoảng cách giá với đối thủ, cho rằng họ thiếu nguồn lực để tiến xa hơn khi Bắc Kinh ngưng trợ cấp xe điện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-27T18:42:13+07:00",
+      "fetched": "2026-04-28T02:04:06.544150+07:00"
+    },
+    {
+      "id": "b509e6d49be44a29888684729404a411",
+      "title": "Bữa sáng đơn giản với 2 món này giúp tràn đầy năng lượng",
+      "link": "https://thanhnien.vn/bua-sang-don-gian-voi-2-mon-nay-giup-tran-day-nang-luong-18526042719063049.htm",
+      "summary": "Không cần những bữa sáng phức tạp, chỉ một lựa chọn đơn giản như chuối kết hợp sữa chua cũng có thể giúp cơ thể nạp đủ năng lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T18:25:00+07:00",
+      "fetched": "2026-04-28T02:04:03.412620+07:00"
+    },
+    {
+      "id": "ed6007c7a0db78b3462e76e9f309d5ca",
+      "title": "Đàn ông ăn chay có yếu sinh lý?",
+      "link": "https://vnexpress.net/dan-ong-an-chay-co-yeu-sinh-ly-5067504.html",
+      "summary": "Tôi 36 tuổi, ăn thuần thực vật 5 năm, gần đây giảm ham muốn, thiếu năng lượng và phong độ. Có phải ăn chay làm giảm testosterone? (Hiếu, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T18:09:00+07:00",
+      "fetched": "2026-04-28T02:03:59.979760+07:00"
+    },
+    {
+      "id": "2c7de92a364bbda1e880e107543629fb",
+      "title": "Quy tắc đèn giao thông giúp bệnh nhân thận ăn trái cây an toàn",
+      "link": "https://vnexpress.net/quy-tac-den-giao-thong-giup-benh-nhan-than-an-trai-cay-an-toan-5067188.html",
+      "summary": "Dựa trên quy tắc \"đèn giao thông\", chuyên gia dinh dưỡng Đài Loan hướng dẫn cách chọn lựa trái cây thông minh giúp người suy thận bổ sung chất xơ hiệu quả vừa ngăn chặn nguy cơ tăng kali máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T18:00:00+07:00",
+      "fetched": "2026-04-28T02:03:59.979962+07:00"
+    },
+    {
+      "id": "84e1251be09e18d5f34ac540a4522258",
+      "title": "Nhà báo ngồi cạnh ông Trump kể khoảnh khắc nghe súng nổ",
+      "link": "https://vnexpress.net/nha-bao-ngoi-canh-ong-trump-ke-khoanh-khac-nghe-sung-no-5067653.html",
+      "summary": "Ngồi cạnh ông Trump trong đêm tiệc, nhà báo Weijia Jiang bàng hoàng nhớ lại khoảnh khắc tiếng súng vang lên và mọi người hỗn loạn bò rạp xuống sàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:12:38+07:00",
+      "fetched": "2026-04-28T02:03:59.980150+07:00"
+    },
+    {
+      "id": "84e1251be09e18d5f34ac540a4522258",
+      "title": "Nhà báo ngồi cạnh ông Trump kể khoảnh khắc nghe súng nổ",
+      "link": "https://vnexpress.net/nha-bao-ngoi-canh-ong-trump-ke-khoanh-khac-nghe-sung-no-5067653.html",
+      "summary": "Ngồi cạnh ông Trump trong đêm tiệc, nhà báo Weijia Jiang bàng hoàng nhớ lại khoảnh khắc tiếng súng vang lên và mọi người hỗn loạn bò rạp xuống sàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-27T17:12:38+07:00",
+      "fetched": "2026-04-28T02:04:05.481290+07:00"
+    },
+    {
+      "id": "88d67ce02663d7a5f66d5c1e1ba1813d",
+      "title": "Dấu hiệu ban đêm cảnh báo gan đang 'kêu cứu'",
+      "link": "https://vnexpress.net/dau-hieu-ban-dem-canh-bao-gan-dang-keu-cuu-5066901.html",
+      "summary": "Ngứa da, rối loạn giấc ngủ, chuột rút chân, cứng cơ xuất hiện ban đêm có thể là dấu hiệu cảnh báo gan đang bị tổn thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:04:00+07:00",
+      "fetched": "2026-04-28T02:03:59.980310+07:00"
+    },
+    {
+      "id": "b7a253edbb8589775d2457216f0dfe98",
+      "title": "Bị 'nuốt' sạch học phí sau khi trượt visa du học",
+      "link": "https://vnexpress.net/du-hoc-sinh-bi-quyt-tien-sau-khi-khong-xin-duoc-visa-5067648.html",
+      "summary": "Hàng chục sinh viên quốc tế tố các trường Anh ngữ tại Ireland \"găm\" học phí suốt nhiều tháng trời, không hoàn lại như cam kết sau khi trượt visa du học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:02:00+07:00",
+      "fetched": "2026-04-28T02:03:59.980466+07:00"
+    },
+    {
+      "id": "a4e89cab6cd1de140e1fb8ee427b4146",
+      "title": "4 con giáp đánh đâu thắng đó, lợi nhuận dồi dào từ hôm nay",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-4-con-giap-danh-dau-thang-do-loi-nhuan-doi-dao-tu-hom-nay-5066765.html",
+      "summary": "Dòng chảy tài lộc bắt đầu tăng tốc, công việc hanh thông hơn, các quyết định đưa ra cũng \"trúng sóng\" hơn thường lệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:02:00+07:00",
+      "fetched": "2026-04-28T02:03:59.980621+07:00"
+    },
+    {
       "id": "c0419d87666759554abe3284b76ca74f",
       "title": "Tấm chắn nhiệt của tàu Artemis II vượt qua thử thách khắc nghiệt",
       "link": "https://vnexpress.net/tam-chan-nhiet-cua-tau-artemis-ii-vuot-qua-thu-thach-khac-nghiet-5066808.html",
@@ -161,6 +261,136 @@ window.newsData_2026_04_28 = {
       "category": "Công nghệ",
       "published": "2026-04-27T17:00:00+07:00",
       "fetched": "2026-04-28T00:14:56.334661+07:00"
+    },
+    {
+      "id": "29263099b5cbbcf1ecfea1147b14297e",
+      "title": "Xe bồn lao vào nhà dân, tài xế tử vong",
+      "link": "https://vnexpress.net/xe-bon-lao-vao-nha-dan-tai-xe-tu-vong-5067661.html",
+      "summary": "Ôtô đầu kéo bất ngờ rẽ trái trên quốc lộ 3, phường Trung Thành khiến xe bồn chạy chiều ngược lại lao vào hai nhà dân, tài xế gần 50 tuổi tử vong, chiều 27/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:00:00+07:00",
+      "fetched": "2026-04-28T02:03:59.980784+07:00"
+    },
+    {
+      "id": "e1e109174f9dec71c6fbd776f1101db5",
+      "title": "Barca muốn hỏi mua Julian Alvarez",
+      "link": "https://vnexpress.net/barca-muon-hoi-mua-julian-alvarez-5067657.html",
+      "summary": "Barca được cho đã bắt đầu triển khai các bước tiếp cận Atletico Madrid, để tìm hiểu quan điểm của CLB này về khả năng hỏi mua tiền đạo Julian Alvarez trong hè 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:00:00+07:00",
+      "fetched": "2026-04-28T02:03:59.980963+07:00"
+    },
+    {
+      "id": "a1c4259caa5e19b6ba7cfa1a6e964c7a",
+      "title": "'Siêu giày' 97 gram chắp cánh cho kỷ lục marathon thế giới",
+      "link": "https://vnexpress.net/sieu-giay-97-gram-chap-canh-cho-ky-luc-marathon-the-gioi-5067640.html",
+      "summary": "Adizero Adios Pro Evo 3 - mẫu giày mới ra mắt của adidas - lập tức ghi dấu, khi được cả nhà vô địch nam và nữ sử dụng trong hành trình phá kỷ lục thế giới tại London Marathon 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:00:00+07:00",
+      "fetched": "2026-04-28T02:03:59.981126+07:00"
+    },
+    {
+      "id": "32c522bc8e0182bb56ff0775921af4d0",
+      "title": "Lời ca khúc 'Người Việt mình thương nhau' gây tranh luận",
+      "link": "https://vnexpress.net/loi-ca-khuc-nguoi-viet-minh-thuong-nhau-gay-tranh-luan-5067620.html",
+      "summary": "Nhiều khán giả cho rằng câu \"lúa chín không cúi đầu\" trong bài \"Người Việt mình thương nhau\" - Hòa Minzy, Cẩm Ly hát - sai kiến thức, vô nghĩa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:00:00+07:00",
+      "fetched": "2026-04-28T02:03:59.981286+07:00"
+    },
+    {
+      "id": "005bca25bc5f4fc3d760067df3222b62",
+      "title": "Những quy định mới về công chứng vừa được Quốc hội thông qua",
+      "link": "https://vnexpress.net/nhung-quy-dinh-moi-ve-cong-chung-vua-duoc-quoc-hoi-thong-qua-5067604.html",
+      "summary": "Luật Công chứng sửa đổi, bổ sung năm 2026 đưa ra nhiều quy định mới nhằm thu hẹp phạm vi giao dịch phải công chứng, ứng dụng công nghệ và đơn giản hóa quy trình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:00:00+07:00",
+      "fetched": "2026-04-28T02:03:59.981444+07:00"
+    },
+    {
+      "id": "6e3f295b05f304543cdfccae98bcf2fc",
+      "title": "Kênh 20 tỷ bỏ hoang, địa phương xin thêm 50 tỷ để xử lý",
+      "link": "https://vnexpress.net/kenh-20-ty-bo-hoang-dia-phuong-xin-them-50-ty-de-xu-ly-5067603.html",
+      "summary": "Tuyến kênh D3 đầu tư gần 20 tỷ đồng bị bỏ hoang hơn 10 năm, xuống cấp, đe dọa nhà dân, địa phương đề xuất chi 50 tỷ đồng khắc phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:00:00+07:00",
+      "fetched": "2026-04-28T02:03:59.981596+07:00"
+    },
+    {
+      "id": "8dba2e202aba6127d26a28bb9b4a609d",
+      "title": "Tôi tiếc 400 triệu thuê nhà đất thay vì mua chung cư",
+      "link": "https://vnexpress.net/toi-tiec-400-trieu-thue-nha-dat-thay-vi-mua-chung-cu-5067592.html",
+      "summary": "Nghĩ đơn giản 'lên chung cư ở thử hai, ba năm cho biết, nếu không hợp thì lại về nhà đất', nhưng đến giờ tôi quên luôn ý định đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:00:00+07:00",
+      "fetched": "2026-04-28T02:03:59.981749+07:00"
+    },
+    {
+      "id": "e7e009f34b62d0d9830920186f37556a",
+      "title": "Bê bối mới của trọng tài bóng đá Italy: Thêm một 'Calciopoli'?",
+      "link": "https://vnexpress.net/be-boi-moi-cua-trong-tai-bong-da-italy-them-mot-calciopoli-5067584.html",
+      "summary": "Bóng đá Italy tiếp tục một phen rúng động, sau vụ việc Trưởng ban Phân công Trọng tài cho hai hạng đấu cao nhất Serie A và Serie B buộc phải từ nhiệm khi bị đưa vào danh sách điều tra, do nghi ngờ có hành vi gian lận trong thể thao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:00:00+07:00",
+      "fetched": "2026-04-28T02:03:59.981925+07:00"
+    },
+    {
+      "id": "348574b676f13b6c54043655826671f8",
+      "title": "Anh tôi biết rõ cha của đứa con trong bụng vợ nhưng chấp nhận",
+      "link": "https://vnexpress.net/anh-toi-biet-ro-cha-cua-dua-con-trong-bung-vo-nhung-chap-nhan-5067565.html",
+      "summary": "Tôi vừa thương anh vừa đau cho gia đình mình, một sự thật tôi và anh đều hiểu nhưng không ai nói thẳng ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:00:00+07:00",
+      "fetched": "2026-04-28T02:03:59.982096+07:00"
+    },
+    {
+      "id": "e1e109174f9dec71c6fbd776f1101db5",
+      "title": "Barca muốn hỏi mua Julian Alvarez",
+      "link": "https://vnexpress.net/barca-muon-hoi-mua-julian-alvarez-5067657.html",
+      "summary": "Barca được cho đã bắt đầu triển khai các bước tiếp cận Atletico Madrid, để tìm hiểu quan điểm của CLB này về khả năng hỏi mua tiền đạo Julian Alvarez trong hè 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-27T17:00:00+07:00",
+      "fetched": "2026-04-28T02:04:11.034307+07:00"
+    },
+    {
+      "id": "a1c4259caa5e19b6ba7cfa1a6e964c7a",
+      "title": "'Siêu giày' 97 gram chắp cánh cho kỷ lục marathon thế giới",
+      "link": "https://vnexpress.net/sieu-giay-97-gram-chap-canh-cho-ky-luc-marathon-the-gioi-5067640.html",
+      "summary": "Adizero Adios Pro Evo 3 - mẫu giày mới ra mắt của adidas - lập tức ghi dấu, khi được cả nhà vô địch nam và nữ sử dụng trong hành trình phá kỷ lục thế giới tại London Marathon 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-27T17:00:00+07:00",
+      "fetched": "2026-04-28T02:04:11.034478+07:00"
+    },
+    {
+      "id": "e7e009f34b62d0d9830920186f37556a",
+      "title": "Bê bối mới của trọng tài bóng đá Italy: Thêm một 'Calciopoli'?",
+      "link": "https://vnexpress.net/be-boi-moi-cua-trong-tai-bong-da-italy-them-mot-calciopoli-5067584.html",
+      "summary": "Bóng đá Italy tiếp tục một phen rúng động, sau vụ việc Trưởng ban Phân công Trọng tài cho hai hạng đấu cao nhất Serie A và Serie B buộc phải từ nhiệm khi bị đưa vào danh sách điều tra, do nghi ngờ có hành vi gian lận trong thể thao.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-27T17:00:00+07:00",
+      "fetched": "2026-04-28T02:04:11.034646+07:00"
+    },
+    {
+      "id": "49a8f795e0fd72808ee2271b4df7fc25",
+      "title": "LĐBĐ Na Uy muốn hủy giải FIFA Hòa bình của Tổng thống Trump",
+      "link": "https://vnexpress.net/ldbd-na-uy-muon-huy-giai-fifa-hoa-binh-cua-tong-thong-trump-5067665.html",
+      "summary": "Chủ tịch LĐBĐ Na Uy (NFF) Lise Klaveness kêu gọi hủy bỏ giải thưởng FIFA Hòa bình từng được trao cho Tổng thống Mỹ Donald Trump, đồng thời ủng hộ đơn khiếu nại đạo đức nhắm vào Chủ tịch FIFA Gianni Infantino.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-27T17:00:00+07:00",
+      "fetched": "2026-04-28T02:04:11.034803+07:00"
     },
     {
       "id": "1209d84a1dfdb1d9cbd9fd7fd208daa4",
