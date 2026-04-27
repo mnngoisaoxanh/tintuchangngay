@@ -1,7 +1,157 @@
 window.newsData_2026_04_27 = {
   "date": "2026-04-27",
-  "lastUpdated": "2026-04-27T18:30:07.808801+07:00",
+  "lastUpdated": "2026-04-27T20:17:39.261770+07:00",
   "articles": [
+    {
+      "id": "28a26ebbae229f92001d03764e80c611",
+      "title": "Đạo diễn Tử chiến trên không trở lại với phim kinh dị nặng đô Sợi chỉ đỏ",
+      "link": "https://tuoitre.vn/dao-dien-tu-chien-tren-khong-tro-lai-voi-phim-kinh-di-nang-do-soi-chi-do-20260427173252188.htm",
+      "summary": "Đạo diễn Hàm Trần cùng nhà sản xuất Tiệm ăn của quỷ tái xuất màn ảnh rộng với phim kinh dị nặng đô, mang tên Sợi chỉ đỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.866930+07:00",
+      "fetched": "2026-04-27T20:17:32.867063+07:00"
+    },
+    {
+      "id": "f7c28b73b4dbe166f7d292d94f80fb7c",
+      "title": "Khoảnh khắc ngàn người đổ vào Đại Nội Huế viral trên mạng, du lịch Huế thắng lớn dịp lễ",
+      "link": "https://tuoitre.vn/khoanh-khac-ngan-nguoi-do-vao-dai-noi-hue-viral-tren-mang-du-lich-hue-thang-lon-dip-le-20260427180150661.htm",
+      "summary": "Khoảnh khắc ghi lại cảnh hàng ngàn người cùng chen chân đổ vào Đại Nội Huế bỗng viral trên mạng, khiến nhiều người thích thú. Vì sao lại như vậy?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.866803+07:00",
+      "fetched": "2026-04-27T20:17:32.866919+07:00"
+    },
+    {
+      "id": "f6169e7fd5f233d78d7e9520be8c125e",
+      "title": "Đã mắt với hàng trăm loại bánh dân gian ở Cần Thơ, Cà Mau",
+      "link": "https://tuoitre.vn/da-mat-voi-hang-tram-loai-banh-dan-gian-o-can-tho-ca-mau-20260427174123967.htm",
+      "summary": "Du khách không chỉ được thưởng thức \"thực đơn\" hàng trăm loại bánh dân gian mà còn trải nghiệm nghệ nhân làm bánh, thậm chí còn được chơi các trò chơi dân gian vui tươi. Đó là những hoạt động thu hút tại lễ hội bánh dân gian Cần Thơ, Cà Mau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.866673+07:00",
+      "fetched": "2026-04-27T20:17:32.866787+07:00"
+    },
+    {
+      "id": "d11ab9b1a011fdf610d14d93ed54a28a",
+      "title": "Bà Melania Trump bị 'chấn động' bởi vụ nổ súng ở dạ tiệc báo chí Nhà Trắng",
+      "link": "https://tuoitre.vn/ba-melania-trump-bi-chan-dong-boi-vu-no-sung-o-da-tiec-bao-chi-nha-trang-20260427182010803.htm",
+      "summary": "Bà Melania Trump vốn nổi tiếng là người điềm tĩnh, nhưng không giấu được sự lo lắng và bối rối khi tiếng súng vang lên ở dạ tiệc báo chí Nhà Trắng hôm 25-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.866549+07:00",
+      "fetched": "2026-04-27T20:17:32.866661+07:00"
+    },
+    {
+      "id": "e3e7eb8c22abedb52e50bf7cf1a8a09d",
+      "title": "Nằm dài trên yên xe đua trong đêm ở Phú Quốc, hai thanh thiếu niên bị công an mời làm việc",
+      "link": "https://tuoitre.vn/nam-dai-tren-yen-xe-dua-trong-dem-o-phu-quoc-hai-thanh-thieu-nien-bi-cong-an-moi-lam-viec-2026042718043454.htm",
+      "summary": "Hai thanh thiếu niên có hành vi đua xe trong đêm tại đặc khu Phú Quốc (tỉnh An Giang) đã bị công an mời lên làm việc, để xử lý theo quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.866426+07:00",
+      "fetched": "2026-04-27T20:17:32.866538+07:00"
+    },
+    {
+      "id": "3f85b70c02b03b2e76dd8cd6498adc4c",
+      "title": "U17 Việt Nam bắt đầu kế hoạch giành vé World Cup",
+      "link": "https://tuoitre.vn/u17-viet-nam-bat-dau-ke-hoach-gianh-ve-world-cup-20260426170937525.htm",
+      "summary": "Một ngày sau khi về nước, U17 Việt Nam gác lại niềm vui vô địch để ra sân tập luyện chuẩn bị cho vòng chung kết U17 châu Á, giải đấu là vòng loại cho U17 World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.866276+07:00",
+      "fetched": "2026-04-27T20:17:32.866414+07:00"
+    },
+    {
+      "id": "21cf9a73ef2af50eb3a5d8c04820bb3b",
+      "title": "Hàng ngàn du khách đổ về biển Đà Nẵng dịp nghỉ lễ Giỗ Tổ",
+      "link": "https://tuoitre.vn/hang-ngan-du-khach-do-ve-bien-da-nang-dip-nghi-le-gio-to-20260427184028078.htm",
+      "summary": "Chiều 27-4, hàng ngàn người dân và du khách đổ về các bãi biển ở Đà Nẵng tắm mát, vui chơi trong dịp nghỉ lễ Giỗ Tổ Hùng Vương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.866137+07:00",
+      "fetched": "2026-04-27T20:17:32.866261+07:00"
+    },
+    {
+      "id": "100507579b3c938329bd68189c655709",
+      "title": "Miền Bắc đón không khí lạnh trước nghỉ lễ 30-4",
+      "link": "https://tuoitre.vn/mien-bac-don-khong-khi-lanh-truoc-nghi-le-30-4-20260427182022768.htm",
+      "summary": "Dự báo từ khoảng đêm mai (28-4), một đợt không khí lạnh ảnh hưởng đến miền Bắc gây mưa, có nơi mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.865984+07:00",
+      "fetched": "2026-04-27T20:17:32.866124+07:00"
+    },
+    {
+      "id": "433f195aaf97be39f9345cbd69e34ea8",
+      "title": "Chấm dứt hiệu lực thi hành với quy hoạch năng lượng quốc gia",
+      "link": "https://tuoitre.vn/thu-tuong-le-minh-hung-cham-dut-hieu-luc-thi-hanh-voi-quy-hoach-nang-luong-quoc-gia-20260427170434454.htm",
+      "summary": "Thủ tướng Chính phủ chấm dứt hiệu lực thi hành của Quyết định số 893 về việc phê duyệt Quy hoạch tổng thể về năng lượng quốc gia thời kỳ 2021 - 2030, tầm nhìn đến năm 2050.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.865857+07:00",
+      "fetched": "2026-04-27T20:17:32.865972+07:00"
+    },
+    {
+      "id": "b5cff13a4e4945b71bdb23de07ad520f",
+      "title": "Thanh niên Pháp gây sốc vì liếm ống hút của máy bán nước ở Singapore, đối mặt án tù",
+      "link": "https://tuoitre.vn/thanh-nien-phap-gay-soc-vi-liem-ong-hut-may-cua-ban-nuoc-o-singapore-doi-mat-an-tu-2026042718500232.htm",
+      "summary": "Một thanh niên 18 tuổi người Pháp đang học tập tại Singapore đã bị cáo buộc gây rối trật tự công cộng và phá hoại tài sản, khi liếm ống hút của máy bán nước cam tự động rồi đặt lại vào máy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.865729+07:00",
+      "fetched": "2026-04-27T20:17:32.865845+07:00"
+    },
+    {
+      "id": "ffa5221bd6e9c0760338d86e42e19ed7",
+      "title": "Toyota lập kỷ lục doanh số toàn cầu nhờ xe hybrid",
+      "link": "https://tuoitre.vn/toyota-lap-ky-luc-doanh-so-toan-cau-nho-xe-hybrid-20260427154310868.htm",
+      "summary": "Ngày 26-4, Toyota Motor Corp. thông báo hãng đã bán 10,48 triệu xe trên toàn cầu trong năm tài chính 2025, lập kỷ lục mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.865602+07:00",
+      "fetched": "2026-04-27T20:17:32.865718+07:00"
+    },
+    {
+      "id": "852667ce9a7a16ba777887b09d6ee5ed",
+      "title": "ChatGPT đạt thủ khoa nhiều kỳ thi vào đại học top Nhật Bản",
+      "link": "https://tuoitre.vn/chatgpt-dat-thu-khoa-nhieu-ky-thi-vao-dai-hoc-top-nhat-ban-20260427184749936.htm",
+      "summary": "ChatGPT đã đạt điểm cao nhất trong kỳ thi tuyển sinh của hai trường đại học hàng đầu Nhật Bản, thậm chí vượt cả những thí sinh thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.865472+07:00",
+      "fetched": "2026-04-27T20:17:32.865589+07:00"
+    },
+    {
+      "id": "d72c8b9b7785b61da80fdd11c925bbf0",
+      "title": "Nghe Bức Tường phóng tác dân ca ‘Inh lả ơi’",
+      "link": "https://tuoitre.vn/nghe-buc-tuong-phong-tac-dan-ca-inh-la-oi-20260427181810448.htm",
+      "summary": "Sau ‘Ra khơi’ phóng tác từ bài dân ca Nam bộ ‘Lý kéo chài’ từ năm 2004, ban nhạc Bức Tường lại vừa cho ra mắt MV ca khúc mới ‘Trên đỉnh gió’ do trưởng ban nhạc Trần Tuấn Hùng phóng tác từ bài dân ca Thái miền Tây Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.865336+07:00",
+      "fetched": "2026-04-27T20:17:32.865460+07:00"
+    },
+    {
+      "id": "50a37efe809d39bd158a7dd7864de0ce",
+      "title": "Bất ngờ với bụi Mặt trăng: Tăng độ bền vật liệu tới 40%, mở đường xây căn cứ ngoài Trái đất",
+      "link": "https://tuoitre.vn/bat-ngo-voi-bui-mat-trang-tang-do-ben-vat-lieu-toi-40-mo-duong-xay-can-cu-ngoai-trai-dat-2026042413270191.htm",
+      "summary": "Nghiên cứu mới cho thấy bụi Mặt trăng có thể gia cường vật liệu, tăng độ bền tới 40%, mở hướng xây dựng hạ tầng ngay tại chỗ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.865190+07:00",
+      "fetched": "2026-04-27T20:17:32.865323+07:00"
+    },
+    {
+      "id": "fdc0a6a7ba9a978fabb213104e048097",
+      "title": "Trịnh Linh Giang 'làm nóng' bằng danh hiệu trước PPA Asia",
+      "link": "https://tuoitre.vn/trinh-linh-giang-lam-nong-bang-danh-hieu-truoc-ppa-asia-20260427191409058.htm",
+      "summary": "Được vào thẳng vòng đấu chính ở PPA Asia - Kuala Lumpur, tay vợt pickleball Trịnh Linh Giang đang có những bước chạy đà hoàn hảo bằng danh hiệu ở giải Nàng Sen 2026 ở trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:17:32.864934+07:00",
+      "fetched": "2026-04-27T20:17:32.865173+07:00"
+    },
     {
       "id": "b0b11cc359d983345e5297d75a6afbb0",
       "title": "Thái Lan dự định khôi phục danh sách miễn thị thực cũ, ít hơn hiện tại 36 nước",
@@ -303,6 +453,86 @@ window.newsData_2026_04_27 = {
       "fetched": "2026-04-27T15:05:19.204513+07:00"
     },
     {
+      "id": "60a09e1e08b41d1404470858831f6c54",
+      "title": "Lợi ích của việc mua bộ sạc có màn hình hiển thị",
+      "link": "https://thanhnien.vn/loi-ich-cua-viec-mua-bo-sac-co-man-hinh-hien-thi-185260427181952474.htm",
+      "summary": "Không còn đoán mò khi sạc, màn hình trên bộ sạc hiển thị công suất giúp người dùng biết thiết bị đang nhận bao nhiêu điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T13:11:00+07:00",
+      "fetched": "2026-04-27T20:17:31.983020+07:00"
+    },
+    {
+      "id": "854c870fe8fc391d212c5a59672eb1fa",
+      "title": "Không khí lạnh gây ra đợt mưa giông trước nghỉ lễ 30.4 - 1.5",
+      "link": "https://thanhnien.vn/khong-khi-lanh-gay-ra-dot-mua-giong-truoc-nghi-le-304-15-185260427193641975.htm",
+      "summary": "Không khí lạnh tác động đến nước ta sẽ gây ra đợt mưa giông ở các tỉnh miền Bắc, Bắc Trung bộ và  thời tiết xấu trên vùng biển vịnh Bắc bộ, bắc Biển Đông ngay trước kỳ nghỉ lễ 30.4 - 1.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T13:03:00+07:00",
+      "fetched": "2026-04-27T20:17:31.983218+07:00"
+    },
+    {
+      "id": "86647bb7f3a185ce2a4074c09876338b",
+      "title": "Xem nhanh 20h ngày 27.4: Bỏ ngưỡng thuế 500 triệu, hộ kinh doanh nói gì? | Khởi tố thêm 9 bị can vụ Tân Huê Viên",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-274-bo-nguong-thue-500-trieu-ho-kinh-doanh-noi-gi-khoi-to-them-9-bi-can-vu-tan-hue-vien-185260427190818967.htm",
+      "summary": "'Xem nhanh 20h' ngày 27.4 có nhiều tin tức đáng chú ý về: Bỏ ngưỡng chịu thuế 500 triệu, hộ kinh doanh kỳ vọng giảm áp lực; Khởi tố thêm 9 bị can trong vụ dàn cảnh cướp giật tại Công ty Tân Huê Viên;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T13:00:00+07:00",
+      "fetched": "2026-04-27T20:17:31.983375+07:00"
+    },
+    {
+      "id": "e92a9a6adfd453c52ba95cccefb2b6ab",
+      "title": "Hóa thành nàng thơ ngọt ngào cùng đầm hai dây dáng xòe",
+      "link": "https://thanhnien.vn/thoi-trang-tre/hoa-thanh-nang-tho-ngot-ngao-cung-dam-hai-day-dang-xoe-185260426162911669.htm",
+      "summary": "Đầm hai dây dáng xòe chính là biểu tượng của sự nữ tính và duyên dáng mà mọi cô gái nên sở hữu trong tủ đồ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T13:00:00+07:00",
+      "fetched": "2026-04-27T20:17:31.983527+07:00"
+    },
+    {
+      "id": "5c51e4b93a12d94dd1bc4f29f977476c",
+      "title": "Huyết áp thấp cần cẩn trọng khi dùng omega-3",
+      "link": "https://thanhnien.vn/huyet-ap-thap-can-can-trong-khi-dung-omega-3-185260426100249344.htm",
+      "summary": "Omega-3 từ lâu được xem là dưỡng chất “vàng” cho tim mạch. Với những người huyết áp thấp, việc bổ sung omega-3 nếu không đúng cách có thể khiến tình trạng tụt huyết áp trở nên nghiêm trọng hơn, tiềm ẩn nhiều rủi ro cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T13:00:00+07:00",
+      "fetched": "2026-04-27T20:17:31.983676+07:00"
+    },
+    {
+      "id": "c59e6830621e76d62e69572d306ce7f9",
+      "title": "AI bùng nổ, người học VFX, 3D Animation có bị thay thế?",
+      "link": "https://thanhnien.vn/ai-bung-no-nguoi-hoc-vfx-3d-animation-co-bi-thay-the-185260424191120455.htm",
+      "summary": "Có một thực tế là hiện nay trí tuệ nhân tạo (AI) đang làm được quá nhiều việc, đặc biệt trong lĩnh vực thiết kế. Vậy học sinh có nên học VFX, 3D Animation, Game Art hay không? Với sự tác động của AI, chương trình đào tạo của MAAC có những đổi mới gì? Cơ hội thực tập, thực hành và tham gia các dự án ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T13:00:00+07:00",
+      "fetched": "2026-04-27T20:17:31.983827+07:00"
+    },
+    {
+      "id": "bd6f33a8efc526c675e08e2a5763d6c4",
+      "title": "Ông Trump chỉ trích phóng viên vì đọc tuyên bố của nghi phạm nổ súng",
+      "link": "https://vnexpress.net/ong-trump-chi-trich-phong-vien-vi-doc-tuyen-bo-cua-nghi-pham-no-sung-5067610.html",
+      "summary": "Tổng thống Trump chỉ trích phóng viên Norah O'Donnell của CBS trong chương trình 60 Minutes ngày 26/4, cho rằng cô \"nên xấu hổ\" vì đọc một đoạn trong tuyên bố của kẻ xả súng tại bữa tiệc ông tham dự một ngày trước đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T12:20:16+07:00",
+      "fetched": "2026-04-27T20:17:28.699418+07:00"
+    },
+    {
+      "id": "bd6f33a8efc526c675e08e2a5763d6c4",
+      "title": "Ông Trump chỉ trích phóng viên vì đọc tuyên bố của nghi phạm nổ súng",
+      "link": "https://vnexpress.net/ong-trump-chi-trich-phong-vien-vi-doc-tuyen-bo-cua-nghi-pham-no-sung-5067610.html",
+      "summary": "Tổng thống Trump chỉ trích phóng viên Norah O'Donnell của CBS trong chương trình 60 Minutes ngày 26/4, cho rằng cô \"nên xấu hổ\" vì đọc một đoạn trong tuyên bố của kẻ xả súng tại bữa tiệc ông tham dự một ngày trước đó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-27T12:20:16+07:00",
+      "fetched": "2026-04-27T20:17:34.422698+07:00"
+    },
+    {
       "id": "89c8ed0fb756eb05de1bc861ace7bffb",
       "title": "Mơ về một bảo tàng ngoài trời ở Khe Sanh",
       "link": "https://tuoitre.vn/mo-ve-mot-bao-tang-ngoai-troi-o-khe-sanh-20260424201722437.htm",
@@ -453,6 +683,156 @@ window.newsData_2026_04_27 = {
       "fetched": "2026-04-27T12:15:28.286027+07:00"
     },
     {
+      "id": "dd66202f56270731b42fdcff17df53ae",
+      "title": "Chủ tịch MTTQ Việt Nam tặng quà cho 320 gia đình chính sách, hộ nghèo",
+      "link": "https://thanhnien.vn/chu-tich-mttq-viet-nam-tang-qua-cho-320-gia-dinh-chinh-sach-ho-ngheo-185260427180433713.htm",
+      "summary": "Chủ tịch Ủy ban T.Ư MTTQ Việt Nam Bùi Thị Minh Hoài đã thăm, tặng quà cho 320 gia đình chính sách, hộ nghèo trên địa bàn các tỉnh Thanh Hóa, Ninh Bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T12:15:00+07:00",
+      "fetched": "2026-04-27T20:17:31.983987+07:00"
+    },
+    {
+      "id": "938f3404878e123fc860842b608ee9f8",
+      "title": "Chủ tiệm tạp hóa 60 tuổi không ngại đóng thuế, chỉ e thủ tục",
+      "link": "https://vnexpress.net/chu-tiem-tap-hoa-60-tuoi-khong-ngai-dong-thue-chi-ngan-thu-tuc-5067583.html",
+      "summary": "Cái khiến những hộ kinh doanh quán ăn nhỏ, tiệm tạp hóa băn khoăn nhất không phải là mức thuế, mà là thủ tục đăng ký, kê khai, hóa đơn...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T12:11:30+07:00",
+      "fetched": "2026-04-27T20:17:28.699610+07:00"
+    },
+    {
+      "id": "de05096b65c2f16928d1a76082fbff74",
+      "title": "Người dùng Galaxy S25 sắp đón tin vui từ One UI 8.5",
+      "link": "https://thanhnien.vn/nguoi-dung-galaxy-s25-sap-don-tin-vui-tu-one-ui-85-185260427182058897.htm",
+      "summary": "Samsung dự kiến phát hành One UI 8.5 ổn định từ ngày 30.4, mang AI mới, sửa lỗi và cải thiện hiệu năng cho dòng Galaxy S25.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T12:09:00+07:00",
+      "fetched": "2026-04-27T20:17:31.984161+07:00"
+    },
+    {
+      "id": "5fd81ff5a1f0b8f5746375d3280579e2",
+      "title": "Đình Bắc ghi bàn như… máy, HLV Kim sớm định hình hàng công đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/dinh-bac-ghi-ban-nhu-may-hlv-kim-som-dinh-hinh-hang-cong-doi-tuyen-viet-nam-185260427170208507.htm",
+      "summary": "Chuỗi trận bùng nổ bàn thắng của Đình Bắc, kết hợp phong độ cao của Xuân Son, Hoàng Hên giúp HLV Kim Sang-sik sớm định hình hàng công đội tuyển Việt Nam cho AFF Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T12:08:00+07:00",
+      "fetched": "2026-04-27T20:17:31.984313+07:00"
+    },
+    {
+      "id": "c51f255b0aa48273ba0804d33461b9d4",
+      "title": "'Chứng thư' đặc biệt của loại gạo 3 lần ngon nhất thế giới",
+      "link": "https://thanhnien.vn/chung-thu-dac-biet-cua-loai-gao-3-lan-ngon-nhat-the-gioi-185260427182233908.htm",
+      "summary": "Anh hùng Lao động Hồ Quang Cua, \"cha đẻ\" giống lúa ST25, say sưa nói về những hang trùn chi chít trên mặt ruộng. Ông gọi đó là \"chứng thư\" sống động nhất của một nền nông nghiệp tuần hoàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T12:06:00+07:00",
+      "fetched": "2026-04-27T20:17:31.984467+07:00"
+    },
+    {
+      "id": "9f66f43836babdcac7b68fbdba1537e4",
+      "title": "Y tế Anh lo thiếu găng tay và kim tiêm vì xung đột Trung Đông",
+      "link": "https://vnexpress.net/y-te-anh-lo-thieu-gang-tay-va-kim-tiem-vi-xung-dot-trung-dong-5067485.html",
+      "summary": "Chiến sự tại Iran khiến Dịch vụ Y tế Quốc gia Anh (NHS) đặt trong tình trạng báo động đỏ trước nỗi lo thiếu hụt vật tư và chi phí thuốc men tăng cao, đặc biệt là các mặt hàng thiết yếu như bơm kim tiêm, túi truyền dịch và găng tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T12:00:00+07:00",
+      "fetched": "2026-04-27T20:17:28.699782+07:00"
+    },
+    {
+      "id": "6b5e45ba1b966f3208397d1339ae1a59",
+      "title": "Thuyết âm mưu về loạt nhà khoa học chết, mất tích khiến FBI vào cuộc",
+      "link": "https://vnexpress.net/thuyet-am-muu-ve-loat-nha-khoa-hoc-chet-mat-tich-khien-fbi-vao-cuoc-5067476.html",
+      "summary": "Mạng xã hội Mỹ liên kết những vụ tử vong và mất tích riêng lẻ của các nhà khoa học thành thuyết âm mưu, buộc FBI phải vào cuộc điều tra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T12:00:00+07:00",
+      "fetched": "2026-04-27T20:17:28.699949+07:00"
+    },
+    {
+      "id": "a02bfe100b4569dbb90e1a2f444e9c38",
+      "title": "Bí mật Gen Z: Trà sữa - đồ uống gây hại hay gây 'nghiện'?",
+      "link": "https://thanhnien.vn/bi-mat-gen-z-tra-sua-do-uong-gay-hai-hay-gay-nghien-185260427154021379.htm",
+      "summary": "Trà sữa - thức uống “quốc dân” của Gen Z - không chỉ đơn giản là một món giải khát. Với Gen Z, đó là “liều dopamin” ngọt ngào sau một ngày dài. Nhưng với nhiều người, trà sữa lại là thứ đồ uống đắt đỏ, tiềm ẩn nhiều lo ngại cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T12:00:00+07:00",
+      "fetched": "2026-04-27T20:17:31.984616+07:00"
+    },
+    {
+      "id": "6b5e45ba1b966f3208397d1339ae1a59",
+      "title": "Thuyết âm mưu về loạt nhà khoa học chết, mất tích khiến FBI vào cuộc",
+      "link": "https://vnexpress.net/thuyet-am-muu-ve-loat-nha-khoa-hoc-chet-mat-tich-khien-fbi-vao-cuoc-5067476.html",
+      "summary": "Mạng xã hội Mỹ liên kết những vụ tử vong và mất tích riêng lẻ của các nhà khoa học thành thuyết âm mưu, buộc FBI phải vào cuộc điều tra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-27T12:00:00+07:00",
+      "fetched": "2026-04-27T20:17:34.422875+07:00"
+    },
+    {
+      "id": "5b1017e00b1aae10517635a4a8733103",
+      "title": "Ngoại trưởng Iran tới Nga, cáo buộc Mỹ khiến đàm phán thất bại",
+      "link": "https://vnexpress.net/ngoai-truong-iran-toi-nga-cao-buoc-my-khien-dam-phan-that-bai-5067598.html",
+      "summary": "Ngoại trưởng Iran tới Nga để gặp Tổng thống Putin, cho rằng các vòng đàm phán trước đó với Mỹ thất bại là do \"yêu cầu quá đáng\" của Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T11:46:41+07:00",
+      "fetched": "2026-04-27T20:17:28.700135+07:00"
+    },
+    {
+      "id": "5b1017e00b1aae10517635a4a8733103",
+      "title": "Ngoại trưởng Iran tới Nga, cáo buộc Mỹ khiến đàm phán thất bại",
+      "link": "https://vnexpress.net/ngoai-truong-iran-toi-nga-cao-buoc-my-khien-dam-phan-that-bai-5067598.html",
+      "summary": "Ngoại trưởng Iran tới Nga để gặp Tổng thống Putin, cho rằng các vòng đàm phán trước đó với Mỹ thất bại là do \"yêu cầu quá đáng\" của Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-27T11:46:41+07:00",
+      "fetched": "2026-04-27T20:17:34.423073+07:00"
+    },
+    {
+      "id": "83e92b0ae5ab6eae82fbac395377f215",
+      "title": "Khởi tố thêm 9 bị can trong vụ dàn cảnh cướp giật tại Công ty Tân Huê Viên",
+      "link": "https://thanhnien.vn/khoi-to-them-9-bi-can-trong-vu-dan-canh-cuop-giat-tai-cong-ty-tan-hue-vien-185260427104818559.htm",
+      "summary": "Mở rộng điều tra vụ dàn cảnh cướp giật táo tợn tại cổng sau Công ty Tân Huê Viên, Công an TP.Cần Thơ đã khởi tố thêm 9 bị can, qua đó từng bước làm rõ đường dây phạm tội có tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T11:36:00+07:00",
+      "fetched": "2026-04-27T20:17:31.984772+07:00"
+    },
+    {
+      "id": "afdcefe7ef5eacecfaec788dcafe57c5",
+      "title": "ĐHĐCĐ Vietjet 2026: Kết quả xuất sắc 2025, chia cổ tức 30%",
+      "link": "https://thanhnien.vn/dhdcd-vietjet-2026-ket-qua-xuat-sac-2025-chia-co-tuc-30-185260427184815066.htm",
+      "summary": "Công ty cổ phần Hàng không Vietjet (HOSE: VJC) đã tổ chức thành công Đại hội đồng cổ đông thường niên 2026, bắt đầu một giai đoạn phát triển mới với tầm nhìn toàn cầu, tăng trưởng bền vững và giá trị dài hạn cho cổ đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T11:32:00+07:00",
+      "fetched": "2026-04-27T20:17:31.984922+07:00"
+    },
+    {
+      "id": "42dfd0d0ca8c02b354f1907b606a11ef",
+      "title": "Tổ hợp Vui-Fest Cát Bà và Sun Bavaria đi vào hoạt động",
+      "link": "https://vnexpress.net/to-hop-vui-fest-cat-ba-va-sun-bavaria-di-vao-hoat-dong-5067606.html",
+      "summary": "Vui-Fest Cát Bà và Sun Bavaria Cat Ba gồm tổ hợp phố đi bộ, chợ đêm, hoạt động giải trí… tạo trải nghiệm liên tục, đáp ứng nhu cầu vui chơi, ăn uống của du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T11:30:00+07:00",
+      "fetched": "2026-04-27T20:17:28.700302+07:00"
+    },
+    {
+      "id": "e73c22657f4662e5d244b1d33a164e42",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn địa lý | Chuyên đề 3 |  Địa lý dân cư Việt Nam",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-dia-ly-chuyen-de-3-dia-ly-dan-cu-viet-nam-185260427100354085.htm",
+      "summary": "Chương trình hướng dẫn học sinh làm bài thi môn địa lý, kỳ thi tốt nghiệp THPT 2026. Buổi hướng dẫn \"Bí quyết ôn thi THPT 2026\" do thầy Hoàng Đạt - Trường Quốc tế Á Châu thực hiện. Chương trình được phát trên các kênh thanhnien.vn, facebook.com/thanhnien và YouTube Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T11:30:00+07:00",
+      "fetched": "2026-04-27T20:17:31.985094+07:00"
+    },
+    {
       "id": "992ab3993a90f51579c0f81e3014e326",
       "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Địa lý dân cư Việt Nam",
       "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-dia-ly-dan-cu-viet-nam-185260423193121984.htm",
@@ -501,6 +881,16 @@ window.newsData_2026_04_27 = {
       "category": "Tổng hợp",
       "published": "2026-04-27T11:00:00+07:00",
       "fetched": "2026-04-27T18:29:57.263788+07:00"
+    },
+    {
+      "id": "0feb216525a6ceb3b2a7cc577ed35190",
+      "title": "Nghi ngờ chồng phản bội khi mới cưới hơn nửa năm",
+      "link": "https://vnexpress.net/nghi-ngo-chong-phan-boi-khi-moi-cuoi-hon-nua-nam-5067563.html",
+      "summary": "Một đêm chồng say, vô tình tôi thấy tin nhắn: \"Em nhớ anh, không hiểu sao mỗi khi say em đều nhớ đến anh, anh đừng im lặng như thế\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T11:00:00+07:00",
+      "fetched": "2026-04-27T20:17:28.700621+07:00"
     },
     {
       "id": "18771550a0e867a5ae3e6a8ae4188de1",
@@ -571,6 +961,16 @@ window.newsData_2026_04_27 = {
       "category": "Tổng hợp",
       "published": "2026-04-27T10:24:00+07:00",
       "fetched": "2026-04-27T18:29:57.264430+07:00"
+    },
+    {
+      "id": "e3e4368958f0770d72595c7aac87c3ef",
+      "title": "Khách đổ về Đại nội Huế kỳ nghỉ lễ, nhiều tuyến đường ùn tắc",
+      "link": "https://vnexpress.net/khach-do-ve-dai-noi-hue-ky-nghi-le-nhieu-tuyen-duong-un-tac-5067589.html",
+      "summary": "Hàng chục nghìn du khách chen chân vào cổng Ngọ Môn trải nghiệm không gian di sản đêm khiến nhiều trục đường quanh Hoàng thành ùn tắc cục bộ trong kỳ nghỉ lễ Giỗ Tổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T10:23:18+07:00",
+      "fetched": "2026-04-27T20:17:28.701116+07:00"
     },
     {
       "id": "7f8e43bf8ff0bc977c387edc18c0fac9",
