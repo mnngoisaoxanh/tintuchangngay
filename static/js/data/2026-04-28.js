@@ -1,7 +1,17 @@
 window.newsData_2026_04_28 = {
   "date": "2026-04-28",
-  "lastUpdated": "2026-04-28T02:04:11.039366+07:00",
+  "lastUpdated": "2026-04-28T03:52:23.229931+07:00",
   "articles": [
+    {
+      "id": "ca86abdeee2901f7bd23cba36da5da69",
+      "title": "Thời tiết hôm nay 28-4: Nam Bộ nắng nóng diện rộng, Bắc Bộ đón không khí lạnh",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-28-4-nam-bo-nang-nong-dien-rong-bac-bo-don-khong-khi-lanh-20260427171115628.htm",
+      "summary": "Hôm nay 28-4, thời tiết Nam Bộ tiếp tục nắng nóng diện rộng, Bắc Bộ ngày nắng, chiều tối sẽ có mưa do không khí lạnh tràn về.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T03:52:16.857049+07:00",
+      "fetched": "2026-04-28T03:52:16.857256+07:00"
+    },
     {
       "id": "b062e910cc164c610542758c5767c454",
       "title": "Bệnh nhi nuốt chìa khóa vào dạ dày, bác sĩ phải gây mê gắp ra ngoài",
@@ -161,6 +171,76 @@ window.newsData_2026_04_28 = {
       "category": "Tổng hợp",
       "published": "2026-04-28T00:14:49.389599+07:00",
       "fetched": "2026-04-28T00:14:49.389833+07:00"
+    },
+    {
+      "id": "004dc334ab2e30120ea9de04c0f602d6",
+      "title": "Bổ sung dầu cá omega-3: Điều gì xảy ra với cơ thể nếu dùng quá nhiều?",
+      "link": "https://thanhnien.vn/bo-sung-dau-ca-omega-3-dieu-gi-xay-ra-voi-co-the-neu-dung-qua-nhieu-18526042721230574.htm",
+      "summary": "Nhiều người duy trì thói quen uống dầu cá omega-3 mỗi ngày để tăng cường sức khỏe. Tuy nhiên, việc lạm dụng loại thực phẩm bổ sung này có thể gây ra những tác động không mong muốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T20:21:00+07:00",
+      "fetched": "2026-04-28T03:52:15.716668+07:00"
+    },
+    {
+      "id": "1ed34781029843748fa566b9005ba38b",
+      "title": "Đối thủ của U.17 Việt Nam ở giải châu Á mạnh cỡ nào ?",
+      "link": "https://thanhnien.vn/doi-thu-cua-u17-viet-nam-o-giai-chau-a-manh-co-nao-185260427214925462.htm",
+      "summary": "Sau chức vô địch Đông Nam Á thuyết phục, U.17 VN sẽ dong buồm ra 'đại dương' U.17 châu Á với mục tiêu vượt qua vòng bảng (giành ngôi nhất hoặc nhì) để bước tới sân chơi U.17 World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T19:57:00+07:00",
+      "fetched": "2026-04-28T03:52:15.716840+07:00"
+    },
+    {
+      "id": "98e7f3423c26b724d59723c37c6faa73",
+      "title": "Champions League: Cuộc so tài đỉnh cao",
+      "link": "https://thanhnien.vn/champions-league-cuoc-so-tai-dinh-cao-185260427214646199.htm",
+      "summary": "Vòng bán kết Champions League mùa này sẽ bắt đầu bằng trận lượt đi PSG - Bayern Munich (2 giờ ngày 29.4). Đấy là sự lặp lại của trận chung kết Champions League 2020. PSG là đội ĐKVĐ của giải đấu danh giá nhất châu Âu tầm CLB này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T19:56:00+07:00",
+      "fetched": "2026-04-28T03:52:15.716996+07:00"
+    },
+    {
+      "id": "86e9b3606e0e108b3339376bfbced644",
+      "title": "Cuộc giã từ ngành điện gia dụng của Hitachi",
+      "link": "https://vnexpress.net/cuoc-gia-tu-nganh-dien-gia-dung-cua-hitachi-5066350.html",
+      "summary": "Hitachi hoàn tất chia tay mảng điện gia dụng với thương vụ trị giá hơn 630 triệu USD, dồn lực cho mảng hạ tầng kỹ thuật số, năng lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T19:33:52+07:00",
+      "fetched": "2026-04-28T03:52:12.177613+07:00"
+    },
+    {
+      "id": "86e9b3606e0e108b3339376bfbced644",
+      "title": "Cuộc giã từ ngành điện gia dụng của Hitachi",
+      "link": "https://vnexpress.net/cuoc-gia-tu-nganh-dien-gia-dung-cua-hitachi-5066350.html",
+      "summary": "Hitachi hoàn tất chia tay mảng điện gia dụng với thương vụ trị giá hơn 630 triệu USD, dồn lực cho mảng hạ tầng kỹ thuật số, năng lượng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-27T19:33:52+07:00",
+      "fetched": "2026-04-28T03:52:19.296089+07:00"
+    },
+    {
+      "id": "a08cfa0079830d87f5c64ee1972baf0d",
+      "title": "Nhà 1.150 m2 dùng 'dòng thác' ngói điều tiết ánh sáng và thông gió",
+      "link": "https://vnexpress.net/nha-1-150-m2-dung-dong-thac-ngoi-dieu-tiet-anh-sang-va-thong-gio-5067474.html",
+      "summary": "Công trình tổ chức các \"dòng chảy\" ánh sáng, thông gió xuyên suốt từ lõi nhà ra mặt ngoài, với lớp màng ngói treo và tường gạch đóng vai trò bộ lọc khí hậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T19:23:45+07:00",
+      "fetched": "2026-04-28T03:52:12.177798+07:00"
+    },
+    {
+      "id": "17811a2587ddeeca54dff5b133595466",
+      "title": "2 tỷ đồng nhàn rỗi, có nên đầu tư chung cư thời điểm này?",
+      "link": "https://vnexpress.net/2-ty-dong-nhan-roi-co-nen-dau-tu-chung-cu-thoi-diem-nay-5067576.html",
+      "summary": "Để sở hữu chung cư Hà Nội, ngoài 2 tỷ đồng nhàn rồi, người mua sẽ phải vay thêm ít nhất 1,5-2 tỷ đồng, tạo áp lực tài chính lớn trong khi hiệu suất thuê xuống thấp, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T19:17:54+07:00",
+      "fetched": "2026-04-28T03:52:12.177966+07:00"
     },
     {
       "id": "d1474569b9e3342056f25d04406fee2e",
