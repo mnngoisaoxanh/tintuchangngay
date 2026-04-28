@@ -1,7 +1,107 @@
 window.newsData_2026_04_28 = {
   "date": "2026-04-28",
-  "lastUpdated": "2026-04-28T20:29:09.859041+07:00",
+  "lastUpdated": "2026-04-28T23:08:24.889810+07:00",
   "articles": [
+    {
+      "id": "1a4bae2cc3d6acaa9ce7624747fbfe6a",
+      "title": "Ngày nghỉ lễ 30-4 không điều hành giá xăng dầu, Bộ Công Thương ra thông báo mới",
+      "link": "https://tuoitre.vn/ngay-nghi-le-30-4-khong-dieu-hanh-gia-xang-dau-bo-cong-thuong-ra-thong-bao-moi-20260428195813774.htm",
+      "summary": "Do ngày điều hành giá cố định là thứ Năm trong tuần này rơi vào ngày nghỉ lễ 30-4, Bộ Công Thương đã công bố thời gian điều chỉnh giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T23:08:16.329521+07:00",
+      "fetched": "2026-04-28T23:08:16.329617+07:00"
+    },
+    {
+      "id": "3607a3b332c7dd71b0d13fc7dfcc2e62",
+      "title": "Kỳ thủ bán độ gieo sầu cho dàn 'kỳ vương gen Z' cờ tướng Trung Quốc",
+      "link": "https://tuoitre.vn/ky-thu-ban-do-gieo-sau-cho-dan-ky-vuong-gen-z-co-tuong-trung-quoc-20260428191932497.htm",
+      "summary": "Mạnh Thần, nhà vô địch cờ tướng thế giới 2023, đã xuất sắc đánh bại dàn ngôi sao thế hệ gen Z của kỳ đàn Trung Quốc, trong khuôn khổ giải đấu danh giá Kim Tượng Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T23:08:16.329405+07:00",
+      "fetched": "2026-04-28T23:08:16.329512+07:00"
+    },
+    {
+      "id": "a28a4a42b50538e085e541500baf8c35",
+      "title": "Giải cứu người phụ nữ bị chồng bạo hành trong đêm",
+      "link": "https://tuoitre.vn/giai-cuu-nguoi-phu-nu-bi-chong-bao-hanh-trong-dem-20260428202423051.htm",
+      "summary": "Lực lượng cảnh sát phản ứng nhanh Công an TP Hà Nội đã kịp thời có mặt, can thiệp, hỗ trợ một phụ nữ bị chồng bạo hành tại phường Bạch Mai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T23:08:16.329300+07:00",
+      "fetched": "2026-04-28T23:08:16.329396+07:00"
+    },
+    {
+      "id": "f30921c0620fd46e17035685bbb0c6f6",
+      "title": "Vì sao Thủ tướng phải chấm dứt hiệu lực thi hành quy hoạch năng lượng quốc gia?",
+      "link": "https://tuoitre.vn/vi-sao-thu-tuong-phai-cham-dut-hieu-luc-thi-hanh-quy-hoach-nang-luong-quoc-gia-20260428202450897.htm",
+      "summary": "Việc chấm dứt hiệu lực của quy hoạch tổng thể năng lượng quốc gia để tránh chồng chéo, trùng lặp với các quy hoạch ngành đã được phê duyệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T23:08:16.329184+07:00",
+      "fetched": "2026-04-28T23:08:16.329290+07:00"
+    },
+    {
+      "id": "5f217729f6ac25b09ae75dd5f6d6d907",
+      "title": "Bộ Y tế vào cuộc vụ 25 ca nghi ngộ độc thực phẩm tại Trường tiểu học Đặng Thùy Trâm TP.HCM",
+      "link": "https://tuoitre.vn/bo-y-te-vao-cuoc-vu-25-ca-nghi-ngo-doc-thuc-pham-tai-truong-tieu-hoc-dang-thuy-tram-tp-hcm-20260428203541166.htm",
+      "summary": "Bộ Y tế đề nghị Sở An toàn thực phẩm TP.HCM tổ chức điều tra, truy xuất nguồn gốc thực phẩm để xác định rõ nguồn cung cấp nguyên liệu, thực phẩm nghi ngờ gây ngộ độc khiến 25 học sinh nhập viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T23:08:16.329078+07:00",
+      "fetched": "2026-04-28T23:08:16.329175+07:00"
+    },
+    {
+      "id": "9aa4b794b33fbd21ba3212984e9d1b14",
+      "title": "Thông xe lại tuyến chính cao tốc Hậu Giang - Cà Mau từ trưa 29-4",
+      "link": "https://tuoitre.vn/thong-xe-lai-tuyen-chinh-cao-toc-hau-giang-ca-mau-tu-trua-29-4-20260428204005774.htm",
+      "summary": "Ban Quản lý dự án Mỹ Thuận cho biết từ 11h30 ngày 29-4 sẽ chính thức thông xe, đưa vào khai thác tuyến chính cao tốc đoạn Hậu Giang - Cà Mau sau khi các hạng mục cơ bản hoàn thành, đáp ứng điều kiện an toàn vận hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T23:08:16.328967+07:00",
+      "fetched": "2026-04-28T23:08:16.329068+07:00"
+    },
+    {
+      "id": "1ee9286a12eab0e9a97741ad439fa8a8",
+      "title": "Drone Ukraine liên tiếp đánh trúng nhà máy lọc dầu chiến lược của Nga",
+      "link": "https://tuoitre.vn/drone-ukraine-lien-tiep-danh-trung-nha-may-loc-dau-chien-luoc-cua-nga-20260428203443696.htm",
+      "summary": "Ukraine tiếp tục tấn công nhà máy lọc dầu của tập đoàn Nga Rosneft tại thành phố Tuapse, vùng Krasnodar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T23:08:16.328839+07:00",
+      "fetched": "2026-04-28T23:08:16.328957+07:00"
+    },
+    {
+      "id": "e0ff695718a8124922903c416cc9c64d",
+      "title": "5 'át chủ bài' bảo chứng doanh thu phòng vé phim Việt dịp 30-4",
+      "link": "https://tuoitre.vn/5-at-chu-bai-bao-chung-doanh-thu-phong-ve-phim-viet-dip-30-4-20260425224429845.htm",
+      "summary": "Không chỉ là màn so tài của các đạo diễn, 5 phim Việt dịp 30-4 đều sở hữu cho mình một gương mặt, được xem là 'át chủ bài' giúp bảo chứng doanh thu phòng vé.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T23:08:16.328725+07:00",
+      "fetched": "2026-04-28T23:08:16.328829+07:00"
+    },
+    {
+      "id": "7c0854d2dd4c4dd63cffe2797d6518c5",
+      "title": "NÓNG: UAE tuyên bố rút khỏi OPEC và OPEC+",
+      "link": "https://tuoitre.vn/nong-uae-tuyen-bo-rut-khoi-opec-va-opec-20260428212006641.htm",
+      "summary": "UAE tuyên bố sẽ rời Tổ chức các nước xuất khẩu dầu mỏ (OPEC) và liên minh mở rộng OPEC+ kể từ ngày 1-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T23:08:16.328600+07:00",
+      "fetched": "2026-04-28T23:08:16.328715+07:00"
+    },
+    {
+      "id": "23ae8ae70f0bc58530712f1e705000e0",
+      "title": "Nghịch lý: Robot đang thừa nhận chúng ta là con người",
+      "link": "https://tuoitre.vn/nghich-ly-robot-dang-thua-nhan-chung-ta-la-con-nguoi-20260428210855403.htm",
+      "summary": "Thỉnh thoảng vào một trang web nào đó, hay vào mạng xã hội, chúng ta được yêu cầu phải chứng minh chúng ta không phải là người máy. Loài đang thừa nhận chúng ta là con người lại là robot.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T23:08:16.328388+07:00",
+      "fetched": "2026-04-28T23:08:16.328586+07:00"
+    },
     {
       "id": "981714af310f0812d8ebb6b8d2dca686",
       "title": "Hồ Văn Ý đưa futsal Chánh Hưng vào chung kết ĐH TDTT TP.HCM",
@@ -303,6 +403,56 @@ window.newsData_2026_04_28 = {
       "fetched": "2026-04-28T18:40:38.617867+07:00"
     },
     {
+      "id": "e4fad456ce751b29bc976b4bce32241d",
+      "title": "Công an làm việc với chủ nhà cầm dao dọa chém thợ sửa khóa",
+      "link": "https://vnexpress.net/cong-an-lam-viec-voi-chu-nha-cam-dao-doa-chem-tho-sua-khoa-5068046.html",
+      "summary": "Trước việc chồng say rượu ngủ trong phòng song không thể liên lạc được, người vợ thuê thợ khóa đến phá cửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T15:47:41+07:00",
+      "fetched": "2026-04-28T23:08:12.142229+07:00"
+    },
+    {
+      "id": "de1085af5ef9e459cd67bae96852a9a7",
+      "title": "Bị phạt vì cố tình vượt đường sắt khi tàu sắp đến",
+      "link": "https://vnexpress.net/bi-phat-vi-co-tinh-vuot-duong-sat-khi-tau-sap-den-5068024.html",
+      "summary": "Tài xế 36 tuổi, trú xã Trường Ninh, bị phạt 5 triệu đồng, tước bằng lái hai tháng, do cố tình lái xe đầu kéo vượt đường sắt khi đèn đỏ đã bật sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T15:38:52+07:00",
+      "fetched": "2026-04-28T23:08:12.142388+07:00"
+    },
+    {
+      "id": "13d2a31f4303d29743ec6ac7e295dbb9",
+      "title": "11 thanh niên rượt đuổi, gây náo loạn đường phố ở Quảng Trị bị khởi tố",
+      "link": "https://vnexpress.net/11-thanh-nien-ruot-duoi-gay-nao-loan-duong-pho-o-quang-tri-bi-khoi-to-5068043.html",
+      "summary": "Trong 21 thanh thiếu niên chạy xe tốc độ cao, lạng lách, mang theo hung khí gây náo loạn đường phố tại phường Đông Hà và Nam Đông Hà, 11 người bị khởi tố về tội Gây rối trật tự công cộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T15:33:17+07:00",
+      "fetched": "2026-04-28T23:08:12.142536+07:00"
+    },
+    {
+      "id": "4b9ba75fa64febadd515f560cbe87e25",
+      "title": "Đại học Luật TP HCM hạ 1/2 mức cộng IELTS, giữ khối C00",
+      "link": "https://vnexpress.net/tuyen-sinh-dai-hoc-luat-tp-hcm-2026-bang-quy-doi-ielts-to-hop-xet-tuyen-5067924.html",
+      "summary": "Thí sinh có chứng chỉ IELTS từ 5.5 trở lên khi xét kết hợp học bạ vào Đại học Luật TP HCM sẽ được cộng tối đa 1,5 điểm thay vì 3 như trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T15:17:09+07:00",
+      "fetched": "2026-04-28T23:08:12.142683+07:00"
+    },
+    {
+      "id": "fce06166dcb74d4d136c2463e46b0f00",
+      "title": "Mưa đá phủ trắng núi đồi ở Điện Biên",
+      "link": "https://vnexpress.net/mua-da-phu-trang-nui-doi-o-dien-bien-5068041.html",
+      "summary": "Trận mưa đá kéo dài khoảng 10 phút với mật độ đá dày khiến núi đồi ở xã Pu Nhi phủ trắng xóa, một số nhà bị hư hỏng mái, chiều 28/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T15:12:38+07:00",
+      "fetched": "2026-04-28T23:08:12.142823+07:00"
+    },
+    {
       "id": "ac027bec3a83e80efe8f89d9107b4d2d",
       "title": "Trúng đấu giá, có sổ đỏ nhưng… 'lô đất ảo': Công an vào cuộc xác minh, lộ nhiều bất cập",
       "link": "https://tuoitre.vn/trung-dau-gia-co-so-do-nhung-lo-dat-ao-cong-an-vao-cuoc-xac-minh-lo-nhieu-bat-cap-20260428111228902.htm",
@@ -433,6 +583,226 @@ window.newsData_2026_04_28 = {
       "fetched": "2026-04-28T15:07:14.708950+07:00"
     },
     {
+      "id": "bea03477db4ade134a1ecf0f08ff8a36",
+      "title": "Công nghệ in digital giúp doanh nghiệp dệt may ngược dòng, giảm thải",
+      "link": "https://vnexpress.net/cong-nghe-in-digital-giup-doanh-nghiep-det-may-nguoc-dong-giam-thai-5050007.html",
+      "summary": "Nhìn 30% đối tác giảm đặt hàng, mỗi đơn từ 5.000 mét vải giảm chỉ còn 500 mét, Giám đốc xưởng vải Como quyết thực hiện \"ván cược lớn\" - chuyển sang công nghệ kỹ thuật số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T15:00:00+07:00",
+      "fetched": "2026-04-28T23:08:12.142979+07:00"
+    },
+    {
+      "id": "eae326fe61798a5a20d44d77523a66dd",
+      "title": "Những đôi xăng đan mùa hè đang được nàng sành điệu săn đón",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-doi-xang-dan-mua-he-dang-duoc-nang-sanh-dieu-san-don-1852604272323478.htm",
+      "summary": "Nhẹ nhàng nhưng không kém phần thời thượng, những đôi xăng đan trở thành mảnh ghép hoàn hảo giúp nàng hoàn thiện diện mạo mùa hè, vừa thoải mái vừa dễ dàng nâng tầm phong cách trong mọi bản phối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T15:00:00+07:00",
+      "fetched": "2026-04-28T23:08:15.415093+07:00"
+    },
+    {
+      "id": "54e0585497812291b79f13091394da59",
+      "title": "Mưa đá, gió lốc xảy ra nhiều nơi ở Thanh Hóa",
+      "link": "https://thanhnien.vn/mua-da-gio-loc-xay-ra-nhieu-noi-o-thanh-hoa-185260428211646998.htm",
+      "summary": "Nhiều nơi ở Thanh Hóa đã xảy ra mưa đá, giông lốc, gây thiệt hại về nhà và tài sản khác của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T14:56:00+07:00",
+      "fetched": "2026-04-28T23:08:15.415241+07:00"
+    },
+    {
+      "id": "4a1f3f6757c368ed6b846b90c012530f",
+      "title": "Hà Nội công bố số lượng học sinh đăng ký vào lớp 10 của từng trường",
+      "link": "https://thanhnien.vn/ha-noi-cong-bo-so-luong-hoc-sinh-dang-ky-vao-lop-10-cua-tung-truong-185260428210412975.htm",
+      "summary": "Sở GD-ĐT Hà Nội vừa công bố số lượng học sinh đăng ký dự tuyển vào lớp 10 của các trường trung học phổ thông công lập không chuyên và chuyên năm học 2026 - 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T14:53:00+07:00",
+      "fetched": "2026-04-28T23:08:15.415375+07:00"
+    },
+    {
+      "id": "7734e8cbbf9326d11864c5bf4b9334f3",
+      "title": "Cách giữ SIM chính chủ ở nước ngoài mà không cần về nước xác thực thông tin",
+      "link": "https://thanhnien.vn/cach-giu-sim-chinh-chu-o-nuoc-ngoai-ma-khong-can-ve-nuoc-xac-thuc-thong-tin-18526042821183238.htm",
+      "summary": "Trước yêu cầu chuẩn hóa thông tin thuê bao ngày càng siết chặt, nhiều người Việt đang sinh sống, làm việc ở nước ngoài lo bị gián đoạn liên lạc. Theo các nhà mạng, người dùng vẫn có thể xác thực SIM chính chủ từ xa ngay trên điện thoại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T14:50:00+07:00",
+      "fetched": "2026-04-28T23:08:15.415503+07:00"
+    },
+    {
+      "id": "e11f50c0b601051c95e9e1218cc155f9",
+      "title": "Ôtô tải hất văng loạt xe máy chờ đèn đỏ ở TP HCM",
+      "link": "https://vnexpress.net/oto-tai-hat-vang-loat-xe-may-cho-den-do-o-tp-hcm-5068037.html",
+      "summary": "Camera ghi lại khoảnh khắc ôtô tải lao vào nhiều xe máy đang dừng chờ đèn đỏ tại ngã tư ở Hóc Môn, khiến một người chết, một người bị thương, chiều 28/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T14:46:49+07:00",
+      "fetched": "2026-04-28T23:08:12.143116+07:00"
+    },
+    {
+      "id": "5a1b8ae9e3f05dd4e88abdb74a25d74f",
+      "title": "UAE bất ngờ thông báo rời khỏi Tổ chức Các nước xuất khẩu dầu mỏ",
+      "link": "https://thanhnien.vn/uae-bat-ngo-thong-bao-roi-khoi-to-chuc-cac-nuoc-xuat-khau-dau-mo-18526042820473462.htm",
+      "summary": "Các tiểu vương quốc Ả Rập thống nhất (UAE) thông báo sẽ rời Tổ chức Các nước xuất khẩu dầu mỏ (OPEC) vào ngày 1.5 tới, trong bối cảnh xung đột trong khu vực ảnh hưởng lớn đến lĩnh vực năng lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T14:36:00+07:00",
+      "fetched": "2026-04-28T23:08:15.415637+07:00"
+    },
+    {
+      "id": "db8f1cd56bed253a546eb7885366fd44",
+      "title": "Thượng nghị sĩ Campuchia Kok An bác bỏ cáo buộc liên quan đường dây lừa đảo",
+      "link": "https://thanhnien.vn/thuong-nghi-si-campuchia-kok-an-bac-bo-cao-buoc-lien-quan-duong-day-lua-dao-185260428202809329.htm",
+      "summary": "Thượng nghị sĩ Campuchia Kok An bác bỏ cáo buộc liên quan đường dây lừa đảo, sau khi bị Mỹ cấm vận liên quan cáo buộc này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T14:36:00+07:00",
+      "fetched": "2026-04-28T23:08:15.415764+07:00"
+    },
+    {
+      "id": "26d45f9ff29f268e114d98606f802cb9",
+      "title": "Mỹ nhân 'Tây du ký' 1986 được khen khí chất",
+      "link": "https://vnexpress.net/my-nhan-tay-du-ky-1986-duoc-khen-khi-chat-5067963.html",
+      "summary": "Nghệ sĩ Chu Lâm, đóng quốc vương Nữ Nhi Quốc ở \"Tây du ký\" 1986, được khán giả nhận xét thanh thoát ở tuổi 74.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T14:30:00+07:00",
+      "fetched": "2026-04-28T23:08:12.143252+07:00"
+    },
+    {
+      "id": "412752002fc4d1965e5c2def48c5bee8",
+      "title": "22.000 học sinh Hà Nội bỏ thi lớp 10 công lập",
+      "link": "https://vnexpress.net/22-000-hoc-sinh-ha-noi-bo-thi-lop-10-cong-lap-5068034.html",
+      "summary": "Khoảng 22.000 trong 147.000 học sinh lớp 9 chủ động rời cuộc đua vào lớp 10 công lập năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T14:20:45+07:00",
+      "fetched": "2026-04-28T23:08:12.143386+07:00"
+    },
+    {
+      "id": "9c6c67be0846a77e5254afd69c54cd90",
+      "title": "Con trai tỉ phú Ấn Độ muốn nuôi đàn hà mã của trùm ma túy Pablo Escobar",
+      "link": "https://thanhnien.vn/con-trai-ti-phu-an-do-muon-nuoi-dan-ha-ma-cua-trum-ma-tuy-pablo-escobar-185260428194812352.htm",
+      "summary": "Con trai của một tỉ phú Ấn Độ vừa đề nghị nhận nuôi những con hà mã thuộc dòng dõi đàn hà mã được trùm ma túy Pablo Escobar đưa vào Colombia, thay vì để chúng bị giết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T14:08:00+07:00",
+      "fetched": "2026-04-28T23:08:15.415900+07:00"
+    },
+    {
+      "id": "2aeb271107319b9d8a551063eb11075c",
+      "title": "Nên thân mật hơn hay giữ khoảng cách khi đi du lịch cùng bạn gái?",
+      "link": "https://vnexpress.net/nen-than-mat-hon-hay-giu-khoang-cach-khi-di-du-lich-cung-ban-gai-5067966.html",
+      "summary": "Hôm rồi tôi rủ bạn gái đi du lịch xa vào dịp lễ và cô ấy đã đồng ý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T14:00:00+07:00",
+      "fetched": "2026-04-28T23:08:12.143516+07:00"
+    },
+    {
+      "id": "bdac2a15b36cca840cf46b77227fb55e",
+      "title": "Vợ chồng một năm tiết kiệm 350 triệu đồng từ lương 40 triệu",
+      "link": "https://vnexpress.net/vo-chong-mot-nam-tiet-kiem-350-trieu-tu-luong-40-trieu-5067923.html",
+      "summary": "Mỗi tháng, nếu biết chi tiêu hợp lý, tôi hoàn toàn có thể tiết kiệm 28 triệu. Sau một năm, tôi có gần 350 triệu tích lũy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T14:00:00+07:00",
+      "fetched": "2026-04-28T23:08:12.143647+07:00"
+    },
+    {
+      "id": "db42e85f2038620ee5caeed62d68d055",
+      "title": "Dùng thuốc sinh học chữa bệnh tự miễn cho cụ ông",
+      "link": "https://vnexpress.net/dung-thuoc-sinh-hoc-chua-benh-tu-mien-cho-cu-ong-5067969.html",
+      "summary": "Ông Văn, 80 tuổi, mắc bệnh viêm cơ hoại tử qua trung gian miễn dịch, thể kháng trị, được bác sĩ điều trị bằng thuốc sinh học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T14:00:00+07:00",
+      "fetched": "2026-04-28T23:08:12.143779+07:00"
+    },
+    {
+      "id": "a24555477b047a1363efc36a90dccceb",
+      "title": "Tai nạn tại giao lộ ở TP.HCM khiến 1 người tử vong",
+      "link": "https://thanhnien.vn/tai-nan-tai-giao-lo-o-tphcm-khien-1-nguoi-tu-vong-185260428193253393.htm",
+      "summary": "Vụ tai nạn tại giao lộ khiến 1 người tử vong tại chỗ, 1 người bị thương phải nhập viện cấp cứu và nhiều người khác may mắn thoát nạn trong gang tấc khi bỏ xe tháo chạy để tránh xe tải lao đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T14:00:00+07:00",
+      "fetched": "2026-04-28T23:08:15.416031+07:00"
+    },
+    {
+      "id": "72ed602c2ce6457388ceca63ae7671b4",
+      "title": "Lãnh đạo vùng Vịnh họp bàn chiến lược đối phó Iran",
+      "link": "https://vnexpress.net/lanh-dao-vung-vinh-hop-ban-chien-luoc-doi-pho-iran-5068030.html",
+      "summary": "Quan chức vùng Vịnh cho biết lãnh đạo các quốc gia trong khu vực họp tại Arab Saudi để bàn cách đối phó mối đe dọa từ tên lửa và UAV Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T13:52:59+07:00",
+      "fetched": "2026-04-28T23:08:12.143917+07:00"
+    },
+    {
+      "id": "72ed602c2ce6457388ceca63ae7671b4",
+      "title": "Lãnh đạo vùng Vịnh họp bàn chiến lược đối phó Iran",
+      "link": "https://vnexpress.net/lanh-dao-vung-vinh-hop-ban-chien-luoc-doi-pho-iran-5068030.html",
+      "summary": "Quan chức vùng Vịnh cho biết lãnh đạo các quốc gia trong khu vực họp tại Arab Saudi để bàn cách đối phó mối đe dọa từ tên lửa và UAV Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-28T13:52:59+07:00",
+      "fetched": "2026-04-28T23:08:17.940158+07:00"
+    },
+    {
+      "id": "f54f74c50fd8495f047633cc5b816761",
+      "title": "Ông Vũ Văn Tiền: Tôi không chịu nổi khi ABBank mãi giậm chân tại chỗ",
+      "link": "https://vnexpress.net/ong-vu-van-tien-toi-khong-chiu-noi-khi-abbank-mai-giam-chan-tai-cho-5068002.html",
+      "summary": "Chủ tịch ABBank Vũ Văn Tiền nói quyết định quay lại vị trí Chủ tịch HĐQT vì không chịu nổi khi các ngân hàng bạn đang thay đổi từng ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T13:50:27+07:00",
+      "fetched": "2026-04-28T23:08:12.144051+07:00"
+    },
+    {
+      "id": "f54f74c50fd8495f047633cc5b816761",
+      "title": "Ông Vũ Văn Tiền: Tôi không chịu nổi khi ABBank mãi giậm chân tại chỗ",
+      "link": "https://vnexpress.net/ong-vu-van-tien-toi-khong-chiu-noi-khi-abbank-mai-giam-chan-tai-cho-5068002.html",
+      "summary": "Chủ tịch ABBank Vũ Văn Tiền nói quyết định quay lại vị trí Chủ tịch HĐQT vì không chịu nổi khi các ngân hàng bạn đang thay đổi từng ngày.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-28T13:50:27+07:00",
+      "fetched": "2026-04-28T23:08:19.484500+07:00"
+    },
+    {
+      "id": "0c85c225d6b1f60c24c6b7086b3361d8",
+      "title": "Chuẩn bị phương án cải cách chính sách tiền lương trong quý 2/2026",
+      "link": "https://thanhnien.vn/chuan-bi-phuong-an-cai-cach-chinh-sach-tien-luong-trong-quy-2-2026-185260428203123797.htm",
+      "summary": "Bộ Nội vụ đang chuẩn bị các phương án cụ thể để triển khai cải cách chính sách tiền lương theo lộ trình trong quý 2/2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T13:48:00+07:00",
+      "fetched": "2026-04-28T23:08:15.416156+07:00"
+    },
+    {
+      "id": "83df0edb2a62b388624dbc3847da5104",
+      "title": "Khai mạc Tháng công nhân: Tặng 12 'mái ấm Công đoàn cho' người lao động",
+      "link": "https://thanhnien.vn/khai-mac-thang-cong-nhan-tang-12-mai-am-cong-doan-cho-nguoi-lao-dong-185260428144611658.htm",
+      "summary": "Tối 28.4, Liên đoàn Lao động TP.HCM tổ chức lễ khai mạc Tháng công nhân lần thứ 18, đồng thời trao tặng 12 'mái ấm Công đoàn' và nhiều phần quà cho người lao động khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T13:46:00+07:00",
+      "fetched": "2026-04-28T23:08:15.416284+07:00"
+    },
+    {
+      "id": "1059d84c89eaa38da1c0da9ddfa019ab",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn sinh học | Chuyên đề 3 | Số loại thể ba và tam bội khác nhau về kiểu gene",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-sinh-hoc-chuyen-de-3-so-loai-the-ba-va-tam-boi-khac-nhau-ve-kieu-gene-185260424172402739.htm",
+      "summary": "Chương trình hướng dẫn học sinh làm bài thi môn sinh học, kỳ thi THPT quốc gia 2026. Buổi hướng dẫn \"Bí quyết ôn thi THPT 2026\" do thầy Võ Thanh Bình, Trường THPT chuyên Lê Hồng Phong, TP.HCM – thực hiện. Chương trình được phát trên các kênh thanhnien.vn, Facebook.com/thanhnien và YouTube Báo Thanh ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T13:30:00+07:00",
+      "fetched": "2026-04-28T23:08:15.416411+07:00"
+    },
+    {
       "id": "e15437cf5970d22379474e18056ea5d7",
       "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Công thức tính số loại kiểu gen",
       "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-cong-thuc-tinh-so-loai-kieu-gen-185260424160434076.htm",
@@ -441,6 +811,26 @@ window.newsData_2026_04_28 = {
       "category": "Tổng hợp",
       "published": "2026-04-28T13:26:00+07:00",
       "fetched": "2026-04-28T20:29:00.571894+07:00"
+    },
+    {
+      "id": "238c866a531548bf1ed4183daba6153b",
+      "title": "Thủ tướng: Tuần tới ban hành Nghị định nâng ngưỡng chịu thuế cho hộ kinh doanh",
+      "link": "https://vnexpress.net/thu-tuong-tuan-toi-ban-hanh-nghi-dinh-nang-nguong-chiu-thue-cho-ho-kinh-doanh-5068014.html",
+      "summary": "Chính phủ sẽ ban hành nghị định vào tuần sau để nâng doanh thu chịu thuế thu nhập của hộ kinh doanh từ 500 triệu lên 1 tỷ đồng, theo Thủ tướng Lê Minh Hưng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T13:25:37+07:00",
+      "fetched": "2026-04-28T23:08:12.144183+07:00"
+    },
+    {
+      "id": "238c866a531548bf1ed4183daba6153b",
+      "title": "Thủ tướng: Tuần tới ban hành Nghị định nâng ngưỡng chịu thuế cho hộ kinh doanh",
+      "link": "https://vnexpress.net/thu-tuong-tuan-toi-ban-hanh-nghi-dinh-nang-nguong-chiu-thue-cho-ho-kinh-doanh-5068014.html",
+      "summary": "Chính phủ sẽ ban hành nghị định vào tuần sau để nâng doanh thu chịu thuế thu nhập của hộ kinh doanh từ 500 triệu lên 1 tỷ đồng, theo Thủ tướng Lê Minh Hưng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-28T13:25:37+07:00",
+      "fetched": "2026-04-28T23:08:19.484652+07:00"
     },
     {
       "id": "7ff5076cb7b977f3ee43197d084c50a3",
