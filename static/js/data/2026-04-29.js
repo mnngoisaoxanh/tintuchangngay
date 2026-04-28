@@ -1,6 +1,6 @@
 window.newsData_2026_04_29 = {
   "date": "2026-04-29",
-  "lastUpdated": "2026-04-29T02:19:54.707036+07:00",
+  "lastUpdated": "2026-04-29T03:59:00.817087+07:00",
   "articles": [
     {
       "id": "3607a3b332c7dd71b0d13fc7dfcc2e62",
@@ -151,6 +151,26 @@ window.newsData_2026_04_29 = {
       "category": "Tổng hợp",
       "published": "2026-04-29T02:19:49.034738+07:00",
       "fetched": "2026-04-29T02:19:49.034991+07:00"
+    },
+    {
+      "id": "7da5cf416df1422e427cc6b8d25826d9",
+      "title": "Ông Trump: 'Iran nói họ đang trên bờ vực sụp đổ'",
+      "link": "https://vnexpress.net/ong-trump-iran-noi-ho-dang-tren-bo-vuc-sup-do-5068054.html",
+      "summary": "Tổng thống Trump cho biết Iran nói với Mỹ rằng họ \"đang trên bờ vực sụp đổ\" và đề nghị Washington dỡ lệnh phong tỏa với cảng biển của nước này càng sớm càng tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T19:35:27+07:00",
+      "fetched": "2026-04-29T03:58:45.965624+07:00"
+    },
+    {
+      "id": "7da5cf416df1422e427cc6b8d25826d9",
+      "title": "Ông Trump: 'Iran nói họ đang trên bờ vực sụp đổ'",
+      "link": "https://vnexpress.net/ong-trump-iran-noi-ho-dang-tren-bo-vuc-sup-do-5068054.html",
+      "summary": "Tổng thống Trump cho biết Iran nói với Mỹ rằng họ \"đang trên bờ vực sụp đổ\" và đề nghị Washington dỡ lệnh phong tỏa với cảng biển của nước này càng sớm càng tốt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-28T19:35:27+07:00",
+      "fetched": "2026-04-29T03:58:52.852661+07:00"
     },
     {
       "id": "6f9a8b39bcfbf8651fe8726547f69873",
