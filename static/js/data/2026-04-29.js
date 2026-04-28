@@ -1,6 +1,6 @@
 window.newsData_2026_04_29 = {
   "date": "2026-04-29",
-  "lastUpdated": "2026-04-29T03:59:00.817087+07:00",
+  "lastUpdated": "2026-04-29T05:46:17.158471+07:00",
   "articles": [
     {
       "id": "3607a3b332c7dd71b0d13fc7dfcc2e62",
@@ -151,6 +151,216 @@ window.newsData_2026_04_29 = {
       "category": "Tổng hợp",
       "published": "2026-04-29T02:19:49.034738+07:00",
       "fetched": "2026-04-29T02:19:49.034991+07:00"
+    },
+    {
+      "id": "85ccd1b2a6a97e95fdc087a76cd07ed2",
+      "title": "Mua vé số khi đi chợ, người phụ nữ bất ngờ trúng độc đắc xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-ve-so-khi-di-cho-nguoi-phu-nu-bat-ngo-trung-doc-dac-xo-so-mien-nam-18526042815192552.htm",
+      "summary": "Vị khách ở Vĩnh Long mua vé số khi đi chợ mừng rỡ khi biết tin trúng độc đắc 2 tỉ  xổ số miền Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:45:00+07:00",
+      "fetched": "2026-04-29T05:46:07.092449+07:00"
+    },
+    {
+      "id": "d74809299cfa33bd797de9d89531bf86",
+      "title": "U.17 Hàn Quốc chốt nhân sự cực mạnh, sẵn sàng đấu U.17 Việt Nam: HLV Roland lên gấp phương án",
+      "link": "https://thanhnien.vn/u17-han-quoc-chot-nhan-su-cuc-manh-san-sang-dau-u17-viet-nam-hlv-roland-len-gap-phuong-an-185260428183342275.htm",
+      "summary": "U.17 Hàn Quốc – đội được xem là đối thủ nặng ký nhất của U.17 Việt Nam tại bảng C, VCK U.17 châu Á 2026 đã chính thức công bố danh sách 23 cầu thủ tham dự. Với lực lượng đồng đều và giàu tài năng, đại diện xứ kim chi cho thấy tham vọng rất lớn trong cuộc đua giành chức vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:39:00+07:00",
+      "fetched": "2026-04-29T05:46:07.092602+07:00"
+    },
+    {
+      "id": "b5b1fcf1fa89de0e1a7eca8d5b09671c",
+      "title": "Tiêu điểm quốc tế ngày 29.4: Ông Trump nổi giận vì câu đùa | 'Lằn ranh đỏ' cho binh sĩ Israel",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-294-ong-trump-noi-gian-vi-cau-dua-lan-ranh-do-cho-binh-si-israel-185260429012140678.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 29.4.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:30:00+07:00",
+      "fetched": "2026-04-29T05:46:07.092736+07:00"
+    },
+    {
+      "id": "99ee272bb5887af7f50a7b2ce227fca3",
+      "title": "TP.HCM rợp sắc cờ Tổ quốc dịp lễ 30.4, từ phố lớn đến hẻm nhỏ",
+      "link": "https://thanhnien.vn/tphcm-rop-sac-co-to-quoc-dip-le-304-tu-pho-lon-den-hem-nho-185260428150100591.htm",
+      "summary": "Những ngày cuối tháng 4, nhiều tuyến đường, khu dân cư và cả hẻm nhỏ ở TP.HCM rực đỏ sắc cờ Tổ quốc, chào mừng 51 năm ngày đất nước thống nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:30:00+07:00",
+      "fetched": "2026-04-29T05:46:07.092882+07:00"
+    },
+    {
+      "id": "8c8f1ba7b734a2ccd305934917eeafc0",
+      "title": "Sức hút kỳ lạ từ công viên tạm trên 'đất vàng': Nơi trẻ nhỏ có sân patin, người lớn có chỗ thở",
+      "link": "https://thanhnien.vn/suc-hut-ky-la-tu-cong-vien-tam-tren-dat-vang-noi-tre-nho-co-san-patin-nguoi-lon-co-cho-tho-185260427111924069.htm",
+      "summary": "Từ đề xuất của Sở Xây dựng TP.HCM về việc duy trì các công viên tạm trên đất trống, một hướng đi linh hoạt đang dần hình thành: tận dụng quỹ đất chưa sử dụng để bổ sung không gian xanh, đáp ứng nhu cầu sinh hoạt, vui chơi ngày càng rõ nét của người dân đô thị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:27:00+07:00",
+      "fetched": "2026-04-29T05:46:07.093016+07:00"
+    },
+    {
+      "id": "7761d7f3824424cc940ff3a37da76f21",
+      "title": "Nhiều nhân viên Google yêu cầu bác bỏ đề xuất của Lầu Năm Góc",
+      "link": "https://thanhnien.vn/nhieu-nhan-vien-google-yeu-cau-bac-bo-de-xuat-cua-lau-nam-goc-185260428211837903.htm",
+      "summary": "Hơn 600 nhân viên Google ngày 27.4 đã gửi thư tới Tổng giám đốc điều hành Sundar Pichai, yêu cầu công ty bác bỏ thỏa thuận do Lầu Năm Góc đề xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:23:00+07:00",
+      "fetched": "2026-04-29T05:46:07.093138+07:00"
+    },
+    {
+      "id": "586825aeab2d9f28a43d57e9ea234bb8",
+      "title": "NATO cân nhắc hạn chế họp vì ông Trump",
+      "link": "https://thanhnien.vn/nato-can-nhac-han-che-hop-vi-ong-trump-185260428211701045.htm",
+      "summary": "Reuters dẫn 6 nguồn thạo tin tiết lộ NATO đang cân nhắc hạn chế tổ chức hội nghị thường niên nhằm tránh nguy cơ đối đầu với Tổng thống Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:21:00+07:00",
+      "fetched": "2026-04-29T05:46:07.093267+07:00"
+    },
+    {
+      "id": "e8166a8fd11b638e3c2a3886e3a452df",
+      "title": "Tử vi ngày 29 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-29-thang-4-con-giap-nao-may-man-hom-nay-185260428231423612.htm",
+      "summary": "Tử vi ngày 29 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm nổi bật là 'đóng - mở đúng lúc', có việc cần khép lại dứt khoát, có việc nên để mở để quay lại sau kỳ nghỉ. Tài lộc phụ thuộc vào việc bạn biết dừng đúng chỗ và không ôm quá nhiều kỳ vọng trong một ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:15:00+07:00",
+      "fetched": "2026-04-29T05:46:07.093389+07:00"
+    },
+    {
+      "id": "ec36ac4b63c02a5da4a61f1c0132c25d",
+      "title": "Vì sao khoai lang giúp ổn định đường huyết dù chứa nhiều tinh bột?",
+      "link": "https://thanhnien.vn/vi-sao-khoai-lang-giup-on-dinh-duong-huyet-du-chua-nhieu-tinh-bot-185260429001014594.htm",
+      "summary": "Khoai lang được xếp vào nhóm thực phẩm có nhiều tinh bột. Tuy nhiên, điều này không có nghĩa là ăn khoai lang sẽ dễ làm tăng đường huyết. Mức đường huyết có tăng nhiều sau khi ăn hay không lại phụ thuộc vào nhiều yếu tố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:04:00+07:00",
+      "fetched": "2026-04-29T05:46:07.093514+07:00"
+    },
+    {
+      "id": "5f1a137f094c7eeb188deb696c18de07",
+      "title": "Cao tốc Biên Hòa - Vũng Tàu trước thông xe",
+      "link": "https://vnexpress.net/cao-toc-bien-hoa-vung-tau-truoc-thong-xe-5068018.html",
+      "summary": "Tuyến cao tốc huyết mạch nối Đồng Nai với TP HCM cơ bản hoàn thành hạ tầng kỹ thuật trước khi cho phép xe chạy vào tối 29/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:00:00+07:00",
+      "fetched": "2026-04-29T05:46:03.716470+07:00"
+    },
+    {
+      "id": "ef8ddfb5fc5366f8955bae77808b3391",
+      "title": "Bê bối ấu dâm làm lu mờ hào quang 'Vua nhạc Pop' Michael Jackson",
+      "link": "https://vnexpress.net/be-boi-au-dam-lam-lu-mo-hao-quang-vua-nhac-pop-michael-jackson-5068003.html",
+      "summary": "Từ năm 1993, Michael Jackson liên tiếp bị các cậu bé cáo buộc xâm hại tình dục; kể cả sau cái chết vào năm 2009, di sản của ngôi sao nhạc pop vẫn vướng tranh chấp không ngừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:00:00+07:00",
+      "fetched": "2026-04-29T05:46:03.716644+07:00"
+    },
+    {
+      "id": "95d3f8098dcd2f4f928b2ad922ef842c",
+      "title": "Bác sĩ cảnh báo thói quen làm tăng gần 20% nguy cơ ung thư",
+      "link": "https://vnexpress.net/bac-si-canh-bao-thoi-quen-lam-tang-gan-20-nguy-co-ung-thu-5062500.html",
+      "summary": "Nếu tiêu thụ khoảng 50 g thịt chế biến sẵn mỗi ngày - tương đương với 2 cây xúc xích nhỏ - nguy cơ mắc ung thư đại trực tràng có thể tăng lên khoảng 18%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:00:00+07:00",
+      "fetched": "2026-04-29T05:46:03.716792+07:00"
+    },
+    {
+      "id": "3a02abc397b37aaecb6aa2afc7e20ae2",
+      "title": "YouTuber người Mỹ chuyên khen xe Trung Quốc",
+      "link": "https://vnexpress.net/youtuber-nguoi-my-chuyen-khen-xe-trung-quoc-5067691.html",
+      "summary": "Người đàn ông Mỹ đưa hơn 10 người đến từ các quốc gia khác nhau tham quan các gian hàng ở Triển lãm Ôtô Bắc Kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:00:00+07:00",
+      "fetched": "2026-04-29T05:46:03.716946+07:00"
+    },
+    {
+      "id": "59fa9698553421f2833d564d410640e3",
+      "title": "Chiến sự Ukraine ngày 1.525: Thảm họa nhà máy Tuapse thêm trầm trọng, Nga cảnh báo",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1525-tham-hoa-nha-may-tuapse-them-tram-trong-nga-canh-bao-185260428214525694.htm",
+      "summary": "Ukraine tiếp tục tấn công nhắm vào nhà máy lọc dầu Tuapse tại vùng Krasnodar phía nam nước Nga, khiến Moscow cảnh báo tình trạng thiếu dầu trên thị trường toàn cầu sẽ thêm trầm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:00:00+07:00",
+      "fetched": "2026-04-29T05:46:07.093638+07:00"
+    },
+    {
+      "id": "9baaed0e91d897a4711465e0e1d4ede4",
+      "title": "Công an TP.HCM sẽ xác minh chủ sử dụng hàng triệu thửa đất",
+      "link": "https://thanhnien.vn/cong-an-tphcm-se-xac-minh-chu-su-dung-hang-trieu-thua-dat-185260428214243224.htm",
+      "summary": "Sở Nông nghiệp và Môi trường TP.HCM sẽ chuyển cho công an dữ liệu hàng triệu thửa đất để xác minh thông tin chủ sử dụng đất, đảm bảo thống nhất, đồng bộ thông tin người sử dụng đất trên giấy chứng nhận với cơ sở dữ liệu đất đai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:00:00+07:00",
+      "fetched": "2026-04-29T05:46:07.093759+07:00"
+    },
+    {
+      "id": "b6982a7980b26b2a9941d203dea4bbb2",
+      "title": "Iran tìm cách thay đổi cục diện đàm phán với Mỹ",
+      "link": "https://thanhnien.vn/iran-tim-cach-thay-doi-cuc-dien-dam-phan-voi-my-185260428211338491.htm",
+      "summary": "Giới phân tích cho rằng Iran đang tìm cách lôi kéo sự ủng hộ của các nước và thể hiện mình không đơn độc, trong bối cảnh đàm phán với Mỹ gặp bế tắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:00:00+07:00",
+      "fetched": "2026-04-29T05:46:07.093894+07:00"
+    },
+    {
+      "id": "48c550eb2d9f9065617ac7bf2e815909",
+      "title": "Lịch âm hôm nay: Ngày 29.4 là ngày gì đặc biệt mà người Việt quan tâm?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-294-la-ngay-gi-dac-biet-ma-nguoi-viet-quan-tam-185260428155519627.htm",
+      "summary": "Theo lịch vạn niên, lịch âm hôm nay 29.4 là ngày gì mà nhiều người Việt Nam quan tâm, chia sẻ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:00:00+07:00",
+      "fetched": "2026-04-29T05:46:07.094021+07:00"
+    },
+    {
+      "id": "e31dbaf3710d89ac0a0a590cdcfc1935",
+      "title": "Hiến kế phát triển đô thị tại TP.HCM – Kỳ 2: Đóng góp từ chuyên gia",
+      "link": "https://thanhnien.vn/hien-ke-phat-trien-do-thi-tai-tphcm-ky-2-dong-gop-tu-chuyen-gia-185260427225953845.htm",
+      "summary": "Trong những ngày nắng nóng như đổ lửa, cây xanh công cộng đóng vai trò như một chiếc ô hay máy lạnh thiên nhiên giúp người dân đi đường phần nào đỡ ngột ngạt trước sức nóng hầm hập khi lưu thông ngoài trời",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T22:00:00+07:00",
+      "fetched": "2026-04-29T05:46:07.094147+07:00"
+    },
+    {
+      "id": "96baa6e45483c76f51b4cf4e0d034d1c",
+      "title": "Trứng lòng đào và chín kỹ: Loại nào tốt cho sức khỏe hơn?",
+      "link": "https://thanhnien.vn/trung-long-dao-va-chin-ky-loai-nao-tot-cho-suc-khoe-hon-185260429000643071.htm",
+      "summary": "Trứng là thực phẩm cung cấp dinh dưỡng toàn diện. Trứng giàu protein chất lượng cao, có đủ các a xít amin thiết yếu cùng nhiều vi chất như vitamin A, D, B12 và choline.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T21:40:00+07:00",
+      "fetched": "2026-04-29T05:46:07.094275+07:00"
+    },
+    {
+      "id": "c46dee495741e2ddf8e0cf8c6668bd22",
+      "title": "Bạo lực chính trị - 'thùng thuốc súng' trong lòng nước Mỹ",
+      "link": "https://vnexpress.net/bao-luc-chinh-tri-thung-thuoc-sung-trong-long-nuoc-my-5067704.html",
+      "summary": "Âm mưu ám sát Tổng thống Trump tại khách sạn Washington Hilton gióng lên hồi chuông báo động về tình trạng bạo lực chính trị leo thang chưa từng thấy trong xã hội Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T21:00:00+07:00",
+      "fetched": "2026-04-29T05:46:03.717078+07:00"
+    },
+    {
+      "id": "c46dee495741e2ddf8e0cf8c6668bd22",
+      "title": "Bạo lực chính trị - 'thùng thuốc súng' trong lòng nước Mỹ",
+      "link": "https://vnexpress.net/bao-luc-chinh-tri-thung-thuoc-sung-trong-long-nuoc-my-5067704.html",
+      "summary": "Âm mưu ám sát Tổng thống Trump tại khách sạn Washington Hilton gióng lên hồi chuông báo động về tình trạng bạo lực chính trị leo thang chưa từng thấy trong xã hội Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-28T21:00:00+07:00",
+      "fetched": "2026-04-29T05:46:10.638848+07:00"
     },
     {
       "id": "7da5cf416df1422e427cc6b8d25826d9",
