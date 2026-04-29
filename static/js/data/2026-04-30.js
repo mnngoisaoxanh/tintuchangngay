@@ -1,7 +1,17 @@
 window.newsData_2026_04_30 = {
   "date": "2026-04-30",
-  "lastUpdated": "2026-04-30T02:08:57.613804+07:00",
+  "lastUpdated": "2026-04-30T03:52:41.506447+07:00",
   "articles": [
+    {
+      "id": "06a3bddebf994e897ee283e505affea5",
+      "title": "Thời tiết hôm nay lễ 30-4: Hai miền Nam, Bắc nắng nóng, Trung Bộ mưa dông",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-le-30-4-hai-mien-nam-bac-nang-nong-trung-bo-mua-dong-20260429155808852.htm",
+      "summary": "Hôm nay 30-4, thời tiết hai miền Nam - Bắc nắng, có nơi nắng nóng. Trung Bộ mưa rào, chiều tối mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T03:52:32.357983+07:00",
+      "fetched": "2026-04-30T03:52:32.358204+07:00"
+    },
     {
       "id": "657ef07acfcc1c6b958fd97b8ad6c578",
       "title": "Ngôi sao 70 triệu euro của Chelsea bị cấm thi đấu 4 năm",
@@ -181,6 +191,16 @@ window.newsData_2026_04_30 = {
       "category": "Tổng hợp",
       "published": "2026-04-30T00:17:29.749197+07:00",
       "fetched": "2026-04-30T00:17:29.749422+07:00"
+    },
+    {
+      "id": "a7fe24feac5c0fa313f27cf940db37a8",
+      "title": "Bữa sáng với sữa chua, cơ thể thu lợi được gì?",
+      "link": "https://thanhnien.vn/bua-sang-voi-sua-chua-co-the-thu-loi-duoc-gi-185260430021357712.htm",
+      "summary": "Một bữa sáng đơn giản nhưng đúng cách sẽ ảnh hưởng rõ rệt đến năng lượng, khả năng tập trung và tâm trạng trong suốt cả ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T19:14:00+07:00",
+      "fetched": "2026-04-30T03:52:31.237232+07:00"
     },
     {
       "id": "4e2f9e2d8ee8dc929c3cfd4b466269fa",
