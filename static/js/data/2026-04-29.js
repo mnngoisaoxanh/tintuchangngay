@@ -1,7 +1,157 @@
 window.newsData_2026_04_29 = {
   "date": "2026-04-29",
-  "lastUpdated": "2026-04-29T05:46:17.158471+07:00",
+  "lastUpdated": "2026-04-29T09:02:27.110534+07:00",
   "articles": [
+    {
+      "id": "b70ea14270d9f2c3be446501ecf4d1b1",
+      "title": "Tủ đồ mùa hè thức giấc với 8 xu hướng phá cách từ sàn diễn thời trang",
+      "link": "https://tuoitre.vn/tu-do-mua-he-thuc-giac-voi-8-xu-huong-pha-cach-tu-san-dien-thoi-trang-20260428201009739.htm",
+      "summary": "Khi sàn diễn dịch chuyển sang những chất liệu nhẹ, phom dáng linh hoạt và tinh thần phóng khoáng, tủ đồ mùa hè cũng được 'thay áo mới'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.719014+07:00",
+      "fetched": "2026-04-29T09:02:18.719126+07:00"
+    },
+    {
+      "id": "327c3f766293e0ccbf6811f46518bbb2",
+      "title": "Michael Jackson và di sản thời trang xứng tầm 'ông hoàng nhạc pop'",
+      "link": "https://tuoitre.vn/michael-jackson-va-di-san-thoi-trang-xung-tam-ong-hoang-nhac-pop-20260428230529329.htm",
+      "summary": "Cơn sốt phòng vé của phim tiểu sử Michael cho thấy tầm ảnh hưởng của Michael Jackson vẫn vang vọng mạnh mẽ trong thời trang, văn hóa đại chúng và nghệ thuật trình diễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.718877+07:00",
+      "fetched": "2026-04-29T09:02:18.718994+07:00"
+    },
+    {
+      "id": "43c942c69ad27a2610693567be394ad9",
+      "title": "Bộ Công an: Dự án 'Nuôi em' không có dấu hiệu của tội phạm",
+      "link": "https://tuoitre.vn/bo-cong-an-du-an-nuoi-em-khong-co-dau-hieu-cua-toi-pham-2026040316471113.htm",
+      "summary": "Cơ quan cảnh sát điều tra Bộ Công an vừa ban hành quyết định không khởi tố vụ án hình sự liên quan đến các dự án thiện nguyện 'Nuôi em', 'sucmanh2000' do ông Hoàng Hoa Trung sáng lập và điều hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.718727+07:00",
+      "fetched": "2026-04-29T09:02:18.718860+07:00"
+    },
+    {
+      "id": "db0bbb076cc77c871395c554fc3879bd",
+      "title": "Xe ben va chạm xe máy trong cơn mưa ở Hà Nội, 2 người chết",
+      "link": "https://tuoitre.vn/xe-ben-va-cham-xe-may-trong-con-mua-o-ha-noi-2-nguoi-chet-20260429071515063.htm",
+      "summary": "Vụ tai nạn khiến 2 người đi trên xe máy tử vong tại chỗ, nhiều mảnh vỡ của xe máy văng ra đường, ngay sát gầm xe ben.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.718603+07:00",
+      "fetched": "2026-04-29T09:02:18.718716+07:00"
+    },
+    {
+      "id": "96edeca5722a1359e08fe5bfbc5db8db",
+      "title": "Mang dao bầu, kiếm Nhật gây rối trên phố, 11 thanh niên bị khởi tố",
+      "link": "https://tuoitre.vn/mang-dao-bau-kiem-nhat-gay-roi-tren-pho-11-thanh-nien-bi-khoi-to-20260428215017479.htm",
+      "summary": "Công an tỉnh Quảng Trị vừa khởi tố bị can về hành vi gây rối trật tự công cộng với 11 thanh niên mang dao bầu, kiếm Nhật chạy xe máy lạng lách trên đường phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.718480+07:00",
+      "fetched": "2026-04-29T09:02:18.718592+07:00"
+    },
+    {
+      "id": "e46f3777c8e2b30631cc4e38b274b47d",
+      "title": "Quy hoạch xây hai đập dâng trên sông Hồng và sông Đuống đoạn qua Hà Nội",
+      "link": "https://tuoitre.vn/quy-hoach-xay-hai-dap-dang-tren-song-hong-va-song-duong-doan-qua-ha-noi-20260428163805371.htm",
+      "summary": "Hai đập Xuân Quan và Long Tửu được đưa vào quy hoạch, dự kiến xây mới nhằm điều tiết, dâng mực nước trên sông Hồng trong mùa cạn, phục vụ đa mục tiêu như lấy nước, làm 'sống lại' các sông Tô Lịch, Nhuệ... và tạo cảnh quan, phát triển du lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.718344+07:00",
+      "fetched": "2026-04-29T09:02:18.718468+07:00"
+    },
+    {
+      "id": "9ad6226bea2fe3c75e0552502a4dc120",
+      "title": "Việt Nam chia buồn vụ tai nạn đường sắt nghiêm trọng ở Indonesia",
+      "link": "https://tuoitre.vn/viet-nam-chia-buon-vu-tai-nan-duong-sat-nghiem-trong-o-indonesia-2026042906301317.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đã gửi điện chia buồn tới Tổng thống Indonesia về vụ tai nạn đường sắt nghiêm trọng ở thủ đô Jakarta hôm 27-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.718221+07:00",
+      "fetched": "2026-04-29T09:02:18.718333+07:00"
+    },
+    {
+      "id": "3521281a2e4703d12060ac4799fb5300",
+      "title": "Xe máy điện an toàn như ô tô, có va chạm cũng không dễ bị văng ra",
+      "link": "https://tuoitre.vn/xe-may-dien-an-toan-nhu-o-to-co-va-cham-cung-khong-de-bi-vang-ra-20260428170337411.htm",
+      "summary": "Mẫu xe máy điện ba bánh Kairos gây chú ý khi tích hợp loạt công nghệ an toàn chưa từng có, nhưng cũng làm dấy lên tranh cãi về việc đánh đổi cảm giác lái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.718097+07:00",
+      "fetched": "2026-04-29T09:02:18.718210+07:00"
+    },
+    {
+      "id": "208c237e29b6f7085e87becdac571361",
+      "title": "Đại biện Mỹ tại Ukraine nghỉ việc vì ông Trump không ủng hộ Kiev?",
+      "link": "https://tuoitre.vn/dai-bien-my-tai-ukraine-nghi-viec-vi-ong-trump-khong-ung-ho-kiev-20260429064816221.htm",
+      "summary": "Đại biện lâm thời Mỹ tại Ukraine Julia Davis được cho là đã thất vọng vì ông Trump thiếu ủng hộ Kiev, tuy nhiên Bộ Ngoại giao Mỹ lên tiếng phủ nhận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.717967+07:00",
+      "fetched": "2026-04-29T09:02:18.718085+07:00"
+    },
+    {
+      "id": "594396d8d116d984ef54b00deffbaa7c",
+      "title": "Đề xuất hoán đổi lịch làm việc để nghỉ 4 ngày dịp Ngày Văn hóa: Công đoàn nói gì?",
+      "link": "https://tuoitre.vn/de-xuat-hoan-doi-lich-lam-viec-de-nghi-4-ngay-dip-ngay-van-hoa-cong-doan-noi-gi-20260429063923602.htm",
+      "summary": "Trước mong muốn của nhiều người lao động về hoán đổi ngày làm việc dịp Ngày Văn hóa Việt Nam, Tổng liên đoàn Lao động Việt Nam sẽ nghiên cứu cùng với Bộ Nội vụ có phương án phù hợp để báo cáo Thủ tướng Chính phủ quyết định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.717830+07:00",
+      "fetched": "2026-04-29T09:02:18.717955+07:00"
+    },
+    {
+      "id": "de1ab8029e6c253f25ed8abdc0c7ded3",
+      "title": "7 trường hợp bị thu hồi, hủy giá trị hộ chiếu từ ngày 1-7",
+      "link": "https://tuoitre.vn/7-truong-hop-bi-thu-hoi-huy-gia-tri-ho-chieu-tu-ngay-1-7-20260429072221602.htm",
+      "summary": "Nhiều quy định mới về xuất nhập cảnh sẽ có hiệu lực từ 1-7, trong đó đáng chú ý là việc mở rộng các trường hợp hộ chiếu bị thu hồi hoặc hủy giá trị sử dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.717685+07:00",
+      "fetched": "2026-04-29T09:02:18.717799+07:00"
+    },
+    {
+      "id": "99a3bd41a80d2e87420a6a7774965bf8",
+      "title": "Điều gì xảy ra khi UAE rút khỏi OPEC?",
+      "link": "https://tuoitre.vn/dieu-gi-xay-ra-khi-uae-rut-khoi-opec-20260429070246168.htm",
+      "summary": "UAE quyết định rời OPEC và OPEC+ vì lợi ích quốc gia và phát huy năng lực sản xuất. Quyết định này được cho là không gây ra tác động trước mắt, nhưng về dài hạn có thể gây biến động trên thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.717554+07:00",
+      "fetched": "2026-04-29T09:02:18.717673+07:00"
+    },
+    {
+      "id": "769fbe6480716e4420ab9bd254079551",
+      "title": "Đồng Tháp xử phạt 90 triệu đồng, đình chỉ 4 tháng cơ sở bánh mì Hồng Ngọc 12",
+      "link": "https://tuoitre.vn/dong-thap-xu-phat-90-trieu-dong-dinh-chi-4-thang-co-so-banh-mi-hong-ngoc-12-20260429073043027.htm",
+      "summary": "Chủ tịch UBND tỉnh Đồng Tháp vừa ra quyết định xử phạt cơ sở sản xuất bánh mì Hồng Ngọc 12 (phường Hồng Ngự, Đồng Tháp) với tổng số tiền 90 triệu đồng, đình chỉ hoạt động trong thời hạn 4 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.717421+07:00",
+      "fetched": "2026-04-29T09:02:18.717542+07:00"
+    },
+    {
+      "id": "64de684eb97ff819891801ada8fcf285",
+      "title": "4 dấu hiệu suy giảm sức khỏe dễ bị bỏ qua ở người lớn tuổi",
+      "link": "https://tuoitre.vn/4-dau-hieu-suy-giam-suc-khoe-de-bi-bo-qua-o-nguoi-lon-tuoi-20260428220000502.htm",
+      "summary": "Không phải lúc nào sức khỏe suy giảm cũng biểu hiện rõ ràng. Những thay đổi nhỏ trong sinh hoạt hằng ngày mới chính là tín hiệu sớm quan trọng, nếu nhận ra kịp thời, nhiều vấn đề có thể được ngăn chặn trước khi trở nên nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.717279+07:00",
+      "fetched": "2026-04-29T09:02:18.717408+07:00"
+    },
+    {
+      "id": "6201b9b0d1bc938646eb901be4028911",
+      "title": "Thêm nhiều vụ học sinh ngộ độc thực phẩm",
+      "link": "https://tuoitre.vn/them-nhieu-vu-hoc-sinh-ngo-doc-thuc-pham-20260428222156698.htm",
+      "summary": "Chưa đầy một tháng, TP.HCM đã ghi nhận 2 vụ nghi ngộ độc thực phẩm khiến hàng trăm học sinh phải nhập viện điều trị sau khi ăn suất ăn bán trú. Đáng lo ngại, một số em đã có chuyển biến nặng, thậm chí phải thở máy nguy kịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:02:18.717063+07:00",
+      "fetched": "2026-04-29T09:02:18.717263+07:00"
+    },
     {
       "id": "3607a3b332c7dd71b0d13fc7dfcc2e62",
       "title": "Kỳ thủ bán độ gieo sầu cho dàn 'kỳ vương gen Z' cờ tướng Trung Quốc",
@@ -153,6 +303,416 @@ window.newsData_2026_04_29 = {
       "fetched": "2026-04-29T02:19:49.034991+07:00"
     },
     {
+      "id": "67e2b59aff837a979dba7cbf989aa0d9",
+      "title": "Giá vàng hôm nay 29.4.2026: Giảm sâu chưa có điểm dừng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-2942026-giam-sau-chua-co-diem-dung-185260429084051729.htm",
+      "summary": "Giá vàng tiếp tục giảm và chưa có điểm dừng trước khi các nước công bố chính sách tiền tệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T02:01:00+07:00",
+      "fetched": "2026-04-29T09:02:17.731933+07:00"
+    },
+    {
+      "id": "d919664eaa1f7374b4820a08ac18253f",
+      "title": "Những cách ôn thi hiệu quả của thủ khoa, bạn đã biết chưa?",
+      "link": "https://thanhnien.vn/nhung-cach-on-thi-hieu-qua-cua-thu-khoa-ban-da-biet-chua-18526042819030935.htm",
+      "summary": "Bước vào giai đoạn ôn thi, việc ôn tập không có phương pháp cũng dẫn đến kết quả không như mong muốn. Đâu là những cách ôn thi hiệu quả mà các thủ khoa đã áp dụng để vượt qua điều này?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T02:00:00+07:00",
+      "fetched": "2026-04-29T09:02:17.732105+07:00"
+    },
+    {
+      "id": "e7d8bd2ad34f8a780cc099aee05b2f4c",
+      "title": "Nghỉ lễ thảnh thơi với những giải pháp tiệc tại gia tiện lợi cho gia đình",
+      "link": "https://thanhnien.vn/nghi-le-thanh-thoi-voi-nhung-giai-phap-tiec-tai-gia-tien-loi-cho-gia-dinh-185260428160753264.htm",
+      "summary": "Kỳ nghỉ lễ 30.4 - 1.5 năm nay kéo dài 4 ngày, nhiều gia đình chọn ở lại thành phố, tận hưởng nhịp sống thư thái và niềm vui trọn vẹn bên người thân, bạn bè trong những bữa tiệc tại gia ấm cúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T02:00:00+07:00",
+      "fetched": "2026-04-29T09:02:17.732264+07:00"
+    },
+    {
+      "id": "95097512e4dcf6f3c8e95467345d180a",
+      "title": "Vivo X300 Ultra: Siêu phẩm nhiếp ảnh Zeiss và hiệu năng Snapdragon 8 Elite mạnh mẽ",
+      "link": "https://thanhnien.vn/vivo-x300-ultra-sieu-pham-nhiep-anh-zeiss-va-hieu-nang-snapdragon-8-elite-manh-me-185260428160729631.htm",
+      "summary": "Vivo X300 Ultra vừa chính thức ra mắt, thiết lập những kỷ lục mới về công nghệ nhiếp ảnh di động. Điện thoại tập trung nâng chuẩn nhiếp ảnh di động với hệ thống camera Zeiss 200 MP sử dụng cảm biến LYT-901. Khung hình ghi lại có độ chi tiết cao, tái hiện rõ từng vùng sáng và tối trong nhiều điều kiệ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T02:00:00+07:00",
+      "fetched": "2026-04-29T09:02:17.732420+07:00"
+    },
+    {
+      "id": "184cb1dca3bf5bd783461bcbeac995d8",
+      "title": "Chủ tịch VFF Trần Quốc Tuấn ký biên bản ghi nhớ đặc biệt với Chủ tịch Liên đoàn Bóng đá Hàn Quốc",
+      "link": "https://thanhnien.vn/chu-tich-vff-tran-quoc-tuan-ky-thoa-thuan-dac-biet-voi-chu-tich-lien-doan-bong-da-han-quoc-185260429084935814.htm",
+      "summary": "Tại Canada, Chủ tịch Liên đoàn Bóng đá Việt Nam (VFF) Trần Quốc Tuấn và Chủ tịch Liên đoàn Bóng đá Hàn Quốc (KFA) Chung Mong-gyu đã tiến hành lễ ký kết biên bản ghi nhớ hợp tác (MoU) trong giai đoạn mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:55:00+07:00",
+      "fetched": "2026-04-29T09:02:17.732572+07:00"
+    },
+    {
+      "id": "305e619243eed24ea431fec9cf07c076",
+      "title": "Đội tuyển Việt Nam không đấu World Cup 2026, FIFA vẫn giải ngân 5 triệu USD: Tại sao?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-khong-dau-world-cup-2026-fifa-van-giai-ngan-5-trieu-usd-tai-sao-185260429080354222.htm",
+      "summary": "Ngày 29.4, Hội đồng FIFA đã nhất trí tăng mức phân bổ tài chính kỷ lục cho tất cả 48 đội tham dự World Cup 2026 thêm 15%, tổng cộng là 871 triệu USD (khoảng 22.949 tỉ đồng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:41:00+07:00",
+      "fetched": "2026-04-29T09:02:17.732722+07:00"
+    },
+    {
+      "id": "de0cb7486b19b305347b6d5be9bdb130",
+      "title": "EVNSPC chủ động giữ vững nguồn cung mùa khô 2026",
+      "link": "https://thanhnien.vn/evnspc-chu-dong-giu-vung-nguon-cung-mua-kho-2026-185260429085234628.htm",
+      "summary": "Với sự chủ động triển khai đồng bộ các giải pháp, linh hoạt trong điều hành và đẩy mạnh thực hành tiết kiệm điện, Tổng công ty Điện lực miền Nam (EVNSPC) đã và đang đảm bảo cung cấp điện an toàn, tin cậy cho mùa khô và cả năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:40:00+07:00",
+      "fetched": "2026-04-29T09:02:17.732904+07:00"
+    },
+    {
+      "id": "eab60592f3fd7e854febfb5d551c8ff4",
+      "title": "Phòng không Iraq bất lực trước drone lạ bay gần đại sứ quán Mỹ",
+      "link": "https://vnexpress.net/phong-khong-iraq-bat-luc-truoc-drone-la-bay-gan-dai-su-quan-my-5068074.html",
+      "summary": "Lưới phòng không Iraq nhắm bắn drone bay trên Vùng Xanh, nơi đặt đại sứ quán Mỹ và được bảo vệ cẩn mật, song không hạ được mục tiêu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-29T01:38:07+07:00",
+      "fetched": "2026-04-29T09:02:19.710340+07:00"
+    },
+    {
+      "id": "c62aaf1c6efc334f0a57d8ce19f4f50d",
+      "title": "Những bất thường đường tiết niệu ở trẻ em: Nhận diện kịp thời, điều trị hiệu quả",
+      "link": "https://thanhnien.vn/nhung-bat-thuong-duong-tiet-nieu-o-tre-em-nhan-dien-kip-thoi-dieu-tri-hieu-qua-185260429083931666.htm",
+      "summary": "Các bất thường đường tiết niệu ở trẻ em là nhóm bệnh lý thường gặp trong quá trình phát triển, bao gồm các rối loạn bẩm sinh hoặc chức năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:36:00+07:00",
+      "fetched": "2026-04-29T09:02:17.733057+07:00"
+    },
+    {
+      "id": "5e70ffbd677ad3eed0024076a70d0c52",
+      "title": "Tại sao điện thoại Android thích hợp với người lớn tuổi?",
+      "link": "https://thanhnien.vn/tai-sao-dien-thoai-android-thich-hop-voi-nguoi-lon-tuoi-185260428210647134.htm",
+      "summary": "Đừng mua iPhone cho cha mẹ nếu bạn chưa biết 3 lợi ích này của Android.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:30:00+07:00",
+      "fetched": "2026-04-29T09:02:17.733205+07:00"
+    },
+    {
+      "id": "5618b2eff30aeab8cfedd72e142fda6f",
+      "title": "Dai-ichi Life Việt Nam khởi động dự án ‘Thư viện Hạnh phúc’ tại tỉnh Gia Lai",
+      "link": "https://thanhnien.vn/dai-ichi-life-viet-nam-khoi-dong-du-an-thu-vien-hanh-phuc-tai-tinh-gia-lai-185260429083518946.htm",
+      "summary": "Nhằm mang đến cơ hội tiếp cận kiến thức và nâng cao chất lượng học tập cho trẻ em, Quỹ \"Vì cuộc sống tươi đẹp\" của Công ty Bảo hiểm Nhân thọ Dai-ichi Việt Nam (Dai-ichi Life Việt Nam) đã chính thức khánh thành \"Thư viện Hạnh phúc\" tại Trường tiểu học số 3 KDang, xã KDang, tỉnh Gia Lai, với tổng kinh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:25:00+07:00",
+      "fetched": "2026-04-29T09:02:17.733367+07:00"
+    },
+    {
+      "id": "4d70680fb54db71f36d63581c67971dc",
+      "title": "Đài Thơm 8 - Hạt gạo Việt trở thành thước đo giá trị",
+      "link": "https://thanhnien.vn/dai-thom-8-hat-gao-viet-tro-thanh-thuoc-do-gia-tri-185260429082447614.htm",
+      "summary": "Nửa thế kỷ sau ngày đất nước thống nhất, ngành lúa gạo Việt Nam không chỉ đảm bảo an ninh lương thực mà còn vươn lên trở thành một trong những trụ cột xuất khẩu của nền kinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:19:00+07:00",
+      "fetched": "2026-04-29T09:02:17.733516+07:00"
+    },
+    {
+      "id": "3b255536bd109a967b35bfb47f33d550",
+      "title": "Cầu thủ che miệng nói chuyện sẽ bị đuổi ở World Cup 2026",
+      "link": "https://vnexpress.net/cau-thu-che-mieng-noi-chuyen-se-bi-duoi-o-world-cup-2026-5068075.html",
+      "summary": "World Cup 2026 sẽ áp dụng \"luật Vinicius\", khi cầu thủ che miệng trong lúc tranh cãi với đối thủ có nguy cơ nhận thẻ đỏ trực tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:17:33+07:00",
+      "fetched": "2026-04-29T09:02:14.499430+07:00"
+    },
+    {
+      "id": "3b255536bd109a967b35bfb47f33d550",
+      "title": "Cầu thủ che miệng nói chuyện sẽ bị đuổi ở World Cup 2026",
+      "link": "https://vnexpress.net/cau-thu-che-mieng-noi-chuyen-se-bi-duoi-o-world-cup-2026-5068075.html",
+      "summary": "World Cup 2026 sẽ áp dụng \"luật Vinicius\", khi cầu thủ che miệng trong lúc tranh cãi với đối thủ có nguy cơ nhận thẻ đỏ trực tiếp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-29T01:17:33+07:00",
+      "fetched": "2026-04-29T09:02:27.105633+07:00"
+    },
+    {
+      "id": "be305408a5799bfc6cc1dfb32519d156",
+      "title": "Dự báo thời tiết hôm nay 29.4: Không khí lạnh vào miền Trung, 18 tỉnh mưa giông",
+      "link": "https://thanhnien.vn/du-bao-thoi-tiet-hom-nay-294-khong-khi-lanh-vao-mien-trung-18-tinh-mua-giong-185260429073045656.htm",
+      "summary": "Dự báo thời tiết hôm nay 29.4, không khí lạnh sẽ đi vào miền Trung, 15 tỉnhh miền Bắc và 3 tỉnh Bắc Trung bộ trời mát mẻ, có mưa giông đến trước nghỉ lễ 30.4 - 1.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:13:00+07:00",
+      "fetched": "2026-04-29T09:02:17.733668+07:00"
+    },
+    {
+      "id": "f05779816ad8fd14cf809bdaf7a6296c",
+      "title": "Porsche Cayenne coupe thuần điện giá từ 4,82 tỷ đồng",
+      "link": "https://vnexpress.net/porsche-cayenne-coupe-thuan-dien-gia-tu-4-82-ty-dong-5067943.html",
+      "summary": "Biến thể coupe của dòng Cayenne thuần điện nhận cọc tại Việt Nam, công suất môtơ đạt 442-857 mã lực, tăng tốc 0-100 km/h trong 2,5 giây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:10:26+07:00",
+      "fetched": "2026-04-29T09:02:14.499611+07:00"
+    },
+    {
+      "id": "1b436308a08a6f058d85cfc5893de037",
+      "title": "Bệnh viện đa khoa Vĩnh Long: Vững vàng y đức, nâng tầm chuyên môn",
+      "link": "https://thanhnien.vn/benh-vien-da-khoa-vinh-long-vung-vang-y-duc-nang-tam-chuyen-mon-185260429081854643.htm",
+      "summary": "Trong không khí cả nước hân hoan chào mừng 51 năm ngày đất nước thống nhất (30.4.1975 - 30.4.2026), ngành y tế tiếp tục khẳng định vai trò trụ cột trong sự nghiệp chăm sóc và bảo vệ sức khỏe nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:09:00+07:00",
+      "fetched": "2026-04-29T09:02:17.733845+07:00"
+    },
+    {
+      "id": "4f21055f500dac0e9c17b6895ccdc055",
+      "title": "Tại sao 9-10 giờ tối, giới trẻ TP.HCM lại rủ nhau ra công viên?",
+      "link": "https://thanhnien.vn/tai-sao-9-10-gio-toi-gioi-tre-tphcm-lai-ru-nhau-ra-cong-vien-185260428171536807.htm",
+      "summary": "Khi các bar bắt đầu xập xình, các quán cà phê trở nên chật chội, giới trẻ TP.HCM lại chọn một hướng đi khác. Họ rủ nhau ra công viên khi trời về đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:08:00+07:00",
+      "fetched": "2026-04-29T09:02:17.734005+07:00"
+    },
+    {
+      "id": "ac0e9dea4fcd31e158c404807a99cd96",
+      "title": "Châu Nhuận Phát tái xuất màn ảnh, tuyên bố đóng phim đến 100 tuổi",
+      "link": "https://thanhnien.vn/chau-nhuan-phat-tai-xuat-man-anh-tuyen-bo-dong-phim-den-100-tuoi-185260429031916628.htm",
+      "summary": "Châu Nhuận Phát gây chú ý khi trở lại màn ảnh rộng với phim điện ảnh 'Cold War 1994' đóng cùng dàn sao hùng hậu. Ở tuổi 71, tài tử vẫn tràn đầy đam mê, nhiệt huyết với diễn xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:07:00+07:00",
+      "fetched": "2026-04-29T09:02:17.734164+07:00"
+    },
+    {
+      "id": "f6e3fe37650109fdc860e8c7ec0e7e2b",
+      "title": "Trúng mánh cá ngát khi thăm câu đêm trên sông",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-trung-manh-ca-ngat-khi-tham-cau-dem-tren-song-5066224.html",
+      "summary": "Thả câu đêm bên hàng dừa nước, hai thanh niên bất ngờ dính cá ngát nặng ký, thành quả khiến cả hai thích thú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:00:00+07:00",
+      "fetched": "2026-04-29T09:02:14.499778+07:00"
+    },
+    {
+      "id": "b868ac05d54013db402f0098bfbdcd35",
+      "title": "Đột quỵ mùa nóng dễ nhầm với say nắng",
+      "link": "https://vnexpress.net/dot-quy-mua-nong-de-nham-voi-say-nang-5068093.html",
+      "summary": "Nắng nóng khiến cơ thể mất nước, máu cô đặc làm tăng nguy cơ đột quỵ, song triệu chứng có thể bị nhầm say nắng dẫn đến cấp cứu muộn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:00:00+07:00",
+      "fetched": "2026-04-29T09:02:14.499972+07:00"
+    },
+    {
+      "id": "80df744546f6f4ecf9c37b35db219bd7",
+      "title": "Nút mạch có điều trị ung thư gan?",
+      "link": "https://vnexpress.net/nut-mach-co-dieu-tri-ung-thu-gan-5068090.html",
+      "summary": "Tôi có khối u gan ác tính kích thước 7 cm. Tôi có thể điều trị bằng phương pháp nút mạch không? (Mạnh Dũng, Hưng Yên)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:00:00+07:00",
+      "fetched": "2026-04-29T09:02:14.500134+07:00"
+    },
+    {
+      "id": "4c5ca00727b2c3963ee78a1703272151",
+      "title": "Eximbank đặt mục tiêu lãi trước thuế 1.500 tỷ đồng",
+      "link": "https://vnexpress.net/eximbank-dat-muc-tieu-lai-truoc-thue-1-500-ty-dong-5068082.html",
+      "summary": "Eximbank lên kế hoạch kinh doanh 2026 với lợi nhuận trước thuế khoảng 1.500 tỷ đồng, tổng tài sản 310.000 tỷ và nợ xấu kiểm soát quanh 2,5%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:00:00+07:00",
+      "fetched": "2026-04-29T09:02:14.500292+07:00"
+    },
+    {
+      "id": "c97349d62e9f507afce58733292857fb",
+      "title": "Sun Life cung cấp giải pháp bảo vệ cho gia đình nhiều thế hệ",
+      "link": "https://vnexpress.net/sun-life-cung-cap-giai-phap-bao-ve-cho-gia-dinh-nhieu-the-he-5068081.html",
+      "summary": "Sun Life phát triển các giải pháp bảo hiểm đa dạng, giúp gia đình nhiều thế hệ chủ động quản lý rủi ro, cân bằng nhu cầu tài chính hiện tại và tích lũy cho tương lai dài hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:00:00+07:00",
+      "fetched": "2026-04-29T09:02:14.500455+07:00"
+    },
+    {
+      "id": "f266ee891d5a9d97ea5a1dc837221300",
+      "title": "10 năm Amy Grupo mở rộng quy mô, xuất khẩu 30 thị trường",
+      "link": "https://vnexpress.net/10-nam-amy-grupo-mo-rong-quy-mo-xuat-khau-30-thi-truong-5067984.html",
+      "summary": "Amy Grupo liên tục mở rộng sản xuất suốt 10 năm qua, xuất khẩu hơn 30 thị trường và định hướng phát triển hệ sinh thái vật liệu trong giai đoạn mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:00:00+07:00",
+      "fetched": "2026-04-29T09:02:14.500628+07:00"
+    },
+    {
+      "id": "a7de489b1cd310191b5b49b52afa21e3",
+      "title": "Khai trương cửa hàng Miniso Friends tại TP HCM",
+      "link": "https://vnexpress.net/khai-truong-cua-hang-miniso-friends-tai-tp-hcm-5067964.html",
+      "summary": "Miniso khai trương cửa hàng Miniso Friends tại Vạn Hạnh Mall, giới thiệu mô hình bán lẻ theo chủ đề nhân vật bản quyền (IP), nâng trải nghiệm mua sắm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:00:00+07:00",
+      "fetched": "2026-04-29T09:02:14.500790+07:00"
+    },
+    {
+      "id": "c7fb34538bec2c659cd26f990102d43d",
+      "title": "Xuất huyết kết mạc kèm phù hoàng điểm",
+      "link": "https://vnexpress.net/xuat-huyet-ket-mac-kem-phu-hoang-diem-5067904.html",
+      "summary": "Mắt trái đột ngột xuất huyết, bà Nga, 50 tuổi, đi khám phát hiện thêm phù hoàng điểm, được bác sĩ can thiệp khôi phục thị lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T01:00:00+07:00",
+      "fetched": "2026-04-29T09:02:14.500972+07:00"
+    },
+    {
+      "id": "2f4cf881c08f4484e91baf59c0bab748",
+      "title": "Tông trúng xe ben trong mưa giông, hai người tử vong",
+      "link": "https://vnexpress.net/tong-trung-xe-ben-trong-mua-giong-hai-nguoi-tu-vong-5068077.html",
+      "summary": "Chạy xe máy trên đường trục phía Nam trong cơn mưa giông, xe máy chở đôi nam nữ tông trúng xe tải ben, hai người tử vong tại chỗ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T00:54:51+07:00",
+      "fetched": "2026-04-29T09:02:14.501134+07:00"
+    },
+    {
+      "id": "5c2ad11c8155d3fa6ccd0c43e496bdcb",
+      "title": "Mỹ sẽ phát hành hộ chiếu in hình ông Trump",
+      "link": "https://vnexpress.net/my-se-phat-hanh-ho-chieu-in-hinh-ong-trump-5068078.html",
+      "summary": "Bộ Ngoại giao Mỹ thông báo sẽ phát hành hộ chiếu in hình Tổng thống Trump ở mặt trong bìa nhân dịp kỷ niệm 250 năm quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T00:49:25+07:00",
+      "fetched": "2026-04-29T09:02:14.501304+07:00"
+    },
+    {
+      "id": "5c2ad11c8155d3fa6ccd0c43e496bdcb",
+      "title": "Mỹ sẽ phát hành hộ chiếu in hình ông Trump",
+      "link": "https://vnexpress.net/my-se-phat-hanh-ho-chieu-in-hinh-ong-trump-5068078.html",
+      "summary": "Bộ Ngoại giao Mỹ thông báo sẽ phát hành hộ chiếu in hình Tổng thống Trump ở mặt trong bìa nhân dịp kỷ niệm 250 năm quốc khánh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-29T00:49:25+07:00",
+      "fetched": "2026-04-29T09:02:19.710515+07:00"
+    },
+    {
+      "id": "15a6e1876414fec3c3151efd9e0172c2",
+      "title": "Nhà mạng khuyến khích người dùng xác thực trong dịp lễ",
+      "link": "https://vnexpress.net/nha-mang-khuyen-khich-nguoi-dung-xac-thuc-trong-dip-le-5067979.html",
+      "summary": "Đại diện Viettel, VinaPhone cho biết hàng chục nghìn điểm giao dịch và nhân viên kỹ thuật sẽ làm việc trong kỳ nghỉ lễ để người dùng hoàn tất xác thực, tránh nguy cơ bị khóa SIM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T00:43:57+07:00",
+      "fetched": "2026-04-29T09:02:14.501460+07:00"
+    },
+    {
+      "id": "15a6e1876414fec3c3151efd9e0172c2",
+      "title": "Nhà mạng khuyến khích người dùng xác thực trong dịp lễ",
+      "link": "https://vnexpress.net/nha-mang-khuyen-khich-nguoi-dung-xac-thuc-trong-dip-le-5067979.html",
+      "summary": "Đại diện Viettel, VinaPhone cho biết hàng chục nghìn điểm giao dịch và nhân viên kỹ thuật sẽ làm việc trong kỳ nghỉ lễ để người dùng hoàn tất xác thực, tránh nguy cơ bị khóa SIM.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-29T00:43:57+07:00",
+      "fetched": "2026-04-29T09:02:25.167635+07:00"
+    },
+    {
+      "id": "1680147686e90a19598524060dd5eb4f",
+      "title": "Bệnh viện quận 10 cũ thành khu điều trị đột quỵ của Nhân dân 115",
+      "link": "https://vnexpress.net/benh-vien-quan-10-cu-thanh-khu-dieu-tri-dot-quy-cua-nhan-dan-115-5068025.html",
+      "summary": "Cơ sở Trung tâm Y tế Khu vực Hòa Hưng (Bệnh viện Quận 10 cũ) được giao cho Bệnh viện Nhân dân 115 phát triển thành khu điều trị chuyên sâu, chăm sóc toàn diện người bệnh đột quỵ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T00:41:55+07:00",
+      "fetched": "2026-04-29T09:02:14.501612+07:00"
+    },
+    {
+      "id": "7eaa44680af7ae6a2e66431794388afa",
+      "title": "Giá vàng thế giới thấp nhất gần một tháng",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-thap-nhat-gan-mot-thang-5068084.html",
+      "summary": "Nỗi lo lạm phát kéo dài khi chiến sự Trung Đông chưa thể chấm dứt khiến giá vàng thế giới có thời điểm xuống dưới 4.600 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T00:34:04+07:00",
+      "fetched": "2026-04-29T09:02:14.501770+07:00"
+    },
+    {
+      "id": "7eaa44680af7ae6a2e66431794388afa",
+      "title": "Giá vàng thế giới thấp nhất gần một tháng",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-thap-nhat-gan-mot-thang-5068084.html",
+      "summary": "Nỗi lo lạm phát kéo dài khi chiến sự Trung Đông chưa thể chấm dứt khiến giá vàng thế giới có thời điểm xuống dưới 4.600 USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-29T00:34:04+07:00",
+      "fetched": "2026-04-29T09:02:21.507296+07:00"
+    },
+    {
+      "id": "1197cc11771d74f6eb59596e08c6a050",
+      "title": "OPEC và thị trường năng lượng ra sao khi UAE rời đi?",
+      "link": "https://vnexpress.net/opec-ra-sao-khi-uae-roi-di-5068047.html",
+      "summary": "UAE rút khiến OPEC mất khoảng 4% thị phần sản lượng, đồng thời làm suy giảm khả năng kiểm soát giá dầu, do công suất dự phòng thu hẹp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-29T00:31:20+07:00",
+      "fetched": "2026-04-29T09:02:21.507469+07:00"
+    },
+    {
+      "id": "985d3bb21ed55d0dea04aa7af3cbb804",
+      "title": "Cựu giám đốc FBI bị truy tố với cáo buộc đe dọa tính mạng ông Trump",
+      "link": "https://vnexpress.net/cuu-giam-doc-fbi-bi-truy-to-voi-cao-buoc-de-doa-tinh-mang-ong-trump-5068073.html",
+      "summary": "James Comey, cựu lãnh đạo FBI, bị truy tố với cáo buộc đe dọa tính mạng Tổng thống Donald Trump, liên quan bài đăng trên mạng xã hội năm ngoái.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-29T00:20:14+07:00",
+      "fetched": "2026-04-29T09:02:19.710678+07:00"
+    },
+    {
+      "id": "82a777704a4e1d7f627b515844c2d0de",
+      "title": "Mẹo giặt sạch giày bằng máy giặt",
+      "link": "https://vnexpress.net/meo-giat-sach-giay-bang-may-giat-5067669.html",
+      "summary": "Máy giặt có thể làm sạch một số loại giày nhưng cần chọn chế độ phù hợp như sử dụng nước lạnh, kết hợp khăn lau để tăng độ bền cho giày.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-29T00:00:00+07:00",
+      "fetched": "2026-04-29T09:02:25.167459+07:00"
+    },
+    {
+      "id": "b9bb3f0efc1e3162bffcde06184a1e22",
+      "title": "HLV Enrique: 'Trận PSG – Bayern là hay nhất tôi từng dẫn dắt'",
+      "link": "https://vnexpress.net/hlv-enrique-tran-psg-bayern-la-hay-nhat-toi-tung-dan-dat-5068072.html",
+      "summary": "Thắng kịch tính Bayern 5-4 ở lượt đi bán kết Champions League 2025-2026, HLV PSG Luis Enrique khẳng định đây là trận đấu có cường độ khủng khiếp nhất ông từng dẫn dắt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-28T23:43:02+07:00",
+      "fetched": "2026-04-29T09:02:27.105005+07:00"
+    },
+    {
+      "id": "44d768bf6631a6095cba083b8e34e474",
+      "title": "Dembele: 'Khi dẫn Bayern 5-2, PSG đã ngừng chơi'",
+      "link": "https://vnexpress.net/dembele-khi-dan-bayern-5-2-psg-da-ngung-choi-5068068.html",
+      "summary": "Tiền đạo Ousmane Dembele tiếc nuối vì PSG chỉ thắng Bayern 5-4, dù có thời điểm tạo cách biệt ba bàn, trong trận lượt đi bán kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-28T23:34:47+07:00",
+      "fetched": "2026-04-29T09:02:27.105164+07:00"
+    },
+    {
+      "id": "35e36031dcb7e73a33da6c48a700e1fb",
+      "title": "Trận PSG - Bayern được xem 'hay nhất lịch sử Champions League'",
+      "link": "https://vnexpress.net/tran-psg-bayern-duoc-xem-hay-nhat-lich-su-champions-league-5068067.html",
+      "summary": "Trận lượt đi bán kết Champions League giữa PSG và Bayern được báo chí châu Âu đồng loạt ca ngợi là màn so tài hay bậc nhất lịch sử giải đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-28T23:29:27+07:00",
+      "fetched": "2026-04-29T09:02:27.104471+07:00"
+    },
+    {
       "id": "85ccd1b2a6a97e95fdc087a76cd07ed2",
       "title": "Mua vé số khi đi chợ, người phụ nữ bất ngờ trúng độc đắc xổ số miền Nam",
       "link": "https://thanhnien.vn/mua-ve-so-khi-di-cho-nguoi-phu-nu-bat-ngo-trung-doc-dac-xo-so-mien-nam-18526042815192552.htm",
@@ -161,6 +721,16 @@ window.newsData_2026_04_29 = {
       "category": "Tổng hợp",
       "published": "2026-04-28T22:45:00+07:00",
       "fetched": "2026-04-29T05:46:07.092449+07:00"
+    },
+    {
+      "id": "07696d06a9c40655cbc0b8531ced2399",
+      "title": "PSG hạ Bayern trong trận cầu 9 bàn ở Champions League",
+      "link": "https://vnexpress.net/psg-ha-bayern-trong-tran-cau-9-ban-o-champions-league-5068069.html",
+      "summary": "ĐKVĐ chiếm lợi thế nhỏ trước Bayern Munich khi thắng 5-4 trong màn rượt đuổi tỷ số ngoạn mục ở lượt đi bán kết Champions League ngày 28/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-28T22:44:43+07:00",
+      "fetched": "2026-04-29T09:02:27.104647+07:00"
     },
     {
       "id": "d74809299cfa33bd797de9d89531bf86",
@@ -381,6 +951,16 @@ window.newsData_2026_04_29 = {
       "category": "Thế giới",
       "published": "2026-04-28T19:35:27+07:00",
       "fetched": "2026-04-29T03:58:52.852661+07:00"
+    },
+    {
+      "id": "bebd13110521b32b026518af8439937d",
+      "title": "Ông Trump: 'Iran nói đang trên bờ vực sụp đổ'",
+      "link": "https://vnexpress.net/ong-trump-iran-noi-dang-tren-bo-vuc-sup-do-5068054.html",
+      "summary": "Tổng thống Trump cho biết Iran nói với Mỹ rằng họ \"đang trên bờ vực sụp đổ\" và đề nghị Washington dỡ lệnh phong tỏa với cảng biển của nước này càng sớm càng tốt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-28T19:35:27+07:00",
+      "fetched": "2026-04-29T09:02:19.711031+07:00"
     },
     {
       "id": "6f9a8b39bcfbf8651fe8726547f69873",
