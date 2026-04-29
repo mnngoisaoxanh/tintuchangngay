@@ -1,7 +1,157 @@
 window.newsData_2026_04_29 = {
   "date": "2026-04-29",
-  "lastUpdated": "2026-04-29T18:25:47.462381+07:00",
+  "lastUpdated": "2026-04-29T20:23:03.583304+07:00",
   "articles": [
+    {
+      "id": "e30b22a07cb337839f50ab41ca0a78a3",
+      "title": "Lộ trình chặng cuối cuộc đua xe đạp Cúp truyền hình TP.HCM 2026",
+      "link": "https://tuoitre.vn/lo-trinh-chang-cuoi-cuoc-dua-xe-dap-cup-truyen-hinh-tp-hcm-2026-20260429173757315.htm",
+      "summary": "Sáng 30-4, cuộc đua xe đạp toàn quốc Cúp truyền hình TP.HCM HTV - Tôn Đông Á 2026 sẽ khép lại sau chặng đua thứ 25.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.751811+07:00",
+      "fetched": "2026-04-29T20:22:55.751929+07:00"
+    },
+    {
+      "id": "4de45a06c4d26c07b7c14fbb30d4bed3",
+      "title": "VCCI: Cân nhắc việc bổ sung một số hành vi kinh tế vào Bộ luật Hình sự vì có thể gây rủi ro pháp lý",
+      "link": "https://tuoitre.vn/vcci-can-nhac-viec-bo-sung-mot-so-hanh-vi-kinh-te-vao-bo-luat-hinh-su-vi-co-the-gay-rui-ro-phap-ly-20260429162329576.htm",
+      "summary": "Liên đoàn Thương mại và Công nghiệp Việt Nam (VCCI) cho rằng cần cân nhắc việc bổ sung mới các hành vi kinh tế mới vào Bộ luật Hình sự, khi có thể gây ra những rủi ro pháp lý mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.751649+07:00",
+      "fetched": "2026-04-29T20:22:55.751798+07:00"
+    },
+    {
+      "id": "27cfbff8c8b6b3f581a86acfc157841c",
+      "title": "Taylor Swift, Lana Del Rey đứng cạnh Willie Nelson trong 30 nhạc sĩ Mỹ còn sống vĩ đại nhất",
+      "link": "https://tuoitre.vn/taylor-swift-lana-del-rey-dung-canh-willie-nelson-trong-30-nhac-si-my-con-song-vi-dai-nhat-20260429180039083.htm",
+      "summary": "Không căn cứ vào bảng xếp hạng Billboard hay doanh số đĩa bạch kim, danh sách '30 nhạc sĩ người Mỹ còn sống vĩ đại nhất' vừa được The New York Times công bố đã gây chú ý khi đặt bút lực và tầm ảnh hưởng nghệ thuật làm trọng tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.751517+07:00",
+      "fetched": "2026-04-29T20:22:55.751637+07:00"
+    },
+    {
+      "id": "040fd88bf3c4eef4f7961996aa4684cf",
+      "title": "Dàn đầu bếp Michelin và các nghệ sĩ nổi tiếng sẽ trổ tài tại lễ hội ẩm thực và nghệ thuật Đà Nẵng",
+      "link": "https://tuoitre.vn/dan-dau-bep-michelin-va-cac-nghe-si-noi-tieng-se-tro-tai-tai-le-hoi-am-thuc-va-nghe-thuat-da-nang-20260429112532292.htm",
+      "summary": "Theo kế hoạch, từ 6 đến 11-6, lễ hội \"Câu chuyện từ những nghệ nhân\" sẽ lần đầu được tổ chức ở bán đảo Sơn Trà, TP Đà Nẵng, quy tụ các đầu bếp ba sao Michelin cùng các nghệ sĩ đương đại tại Việt Nam, Hong Kong, Thái Lan...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.751386+07:00",
+      "fetched": "2026-04-29T20:22:55.751505+07:00"
+    },
+    {
+      "id": "625e392889b8aaec93dc9412f9aec513",
+      "title": "TP.HCM công bố chỉ tiêu lớp 10 công lập năm học 2026-2027",
+      "link": "https://tuoitre.vn/tp-hcm-cong-bo-chi-tieu-lop-10-cong-lap-nam-hoc-2026-2027-20260429083129304.htm",
+      "summary": "Ngày 29-4, Sở Giáo dục và Đào tạo TP.HCM đã công bố chỉ tiêu tuyển sinh lớp 10 công lập TP.HCM năm học 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.751255+07:00",
+      "fetched": "2026-04-29T20:22:55.751370+07:00"
+    },
+    {
+      "id": "a5e8b8cd044886ea140239104a40d3de",
+      "title": "Nga duyệt binh không có khí tài quân sự sau gần 20 năm do 'tình hình tác chiến'",
+      "link": "https://tuoitre.vn/nga-duyet-binh-khong-co-khi-tai-quan-su-sau-gan-20-nam-do-tinh-hinh-tac-chien-20260429181407744.htm",
+      "summary": "Nga sẽ không trưng bày khí tài quân sự trong lễ duyệt binh 9-5 tại quảng trường Đỏ năm nay, do tình hình tác chiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.751123+07:00",
+      "fetched": "2026-04-29T20:22:55.751243+07:00"
+    },
+    {
+      "id": "2ebc286067b73ec2eeba57fc5340fcd3",
+      "title": "Thủ tướng: Số hóa, làm sạch dữ liệu đất đai, thiết lập cơ chế xử lý đất bỏ hoang",
+      "link": "https://tuoitre.vn/thu-tuong-so-hoa-lam-sach-du-lieu-dat-dai-thiet-lap-co-che-xu-ly-dat-bo-hoang-20260429174810619.htm",
+      "summary": "Tập trung số hóa và làm sạch hệ thống dữ liệu đất đai trên toàn quốc, thiết lập cơ chế xử lý đất bỏ hoang, thu hồi các dự án không triển khai theo cam kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.750986+07:00",
+      "fetched": "2026-04-29T20:22:55.751111+07:00"
+    },
+    {
+      "id": "38cb9af165d48fcc7c33e54f1eda8bae",
+      "title": "Nga nói sẽ ở lại OPEC+, hy vọng liên minh không tan rã",
+      "link": "https://tuoitre.vn/nga-noi-se-o-lai-opec-hy-vong-lien-minh-khong-tan-ra-20260429182259658.htm",
+      "summary": "Nga sẽ tiếp tục ở lại liên minh OPEC+ và kỳ vọng nhóm này duy trì hoạt động ổn định, bất chấp việc UAE tuyên bố rút khỏi OPEC.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.750854+07:00",
+      "fetched": "2026-04-29T20:22:55.750973+07:00"
+    },
+    {
+      "id": "7a91a0900073f26db3da26dc20b2d65d",
+      "title": "HLV Phan Tôn Lợi qua đời ở tuổi 59 tại Quy Nhơn",
+      "link": "https://tuoitre.vn/hlv-phan-ton-loi-qua-doi-o-tuoi-59-tai-quy-nhon-20260429183129398.htm",
+      "summary": "HLV Phan Tôn Lợi qua đời sáng 29-4 tại quê nhà Quy Nhơn ở tuổi 59 sau thời gian dài điều trị bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.750719+07:00",
+      "fetched": "2026-04-29T20:22:55.750843+07:00"
+    },
+    {
+      "id": "6e60eac9b1d7d7ef3c8f38747d2e01a3",
+      "title": "Giám đốc cùng kế toán bị khởi tố vì trốn thuế",
+      "link": "https://tuoitre.vn/giam-doc-cung-ke-toan-bi-khoi-to-vi-tron-thue-20260429175042422.htm",
+      "summary": "Chiều 29-4, Công an tỉnh Ninh Bình cho biết vừa khởi tố một giám đốc và kế toán của công ty chế tạo máy trên địa bàn vì hành vi trốn thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.750566+07:00",
+      "fetched": "2026-04-29T20:22:55.750705+07:00"
+    },
+    {
+      "id": "0eebdde32a782d2d81106c50c5e4565f",
+      "title": "Chính thức nâng ngưỡng doanh thu chịu thuế của hộ kinh doanh lên 1 tỉ đồng",
+      "link": "https://tuoitre.vn/chinh-thuc-nang-nguong-doanh-thu-chiu-thue-cua-ho-kinh-doanh-len-1-ti-dong-20260429184716431.htm",
+      "summary": "Chính thức nâng ngưỡng doanh thu chịu thuế lên 1 tỉ đồng, hộ kinh doanh có doanh thu dưới mức này có nhu cầu vẫn được sử dụng hóa đơn điện tử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.750436+07:00",
+      "fetched": "2026-04-29T20:22:55.750554+07:00"
+    },
+    {
+      "id": "76f505cd07b50569c981aa0405dafd63",
+      "title": "Người dân rời TP.HCM nghỉ lễ 30-4, các cửa ngõ đông đúc, có lúc ùn ứ nhẹ",
+      "link": "https://tuoitre.vn/nguoi-dan-roi-tp-hcm-nghi-le-30-4-cac-cua-ngo-dong-duc-co-luc-un-u-nhe-20260429182851211.htm",
+      "summary": "Chiều 29-4, rất đông người dân rời TP.HCM về quê, đi du lịch… dịp lễ 30-4 và 1-5. Lượng xe cộ tăng khiến các khu vực cửa ngõ thành phố ùn ứ nhẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.750303+07:00",
+      "fetched": "2026-04-29T20:22:55.750424+07:00"
+    },
+    {
+      "id": "49b833a39fdbfc461317e3dbee752cbd",
+      "title": "Bắt đầu cho xe vào cao tốc Biên Hòa - Vũng Tàu, đi tốc độ không quá 80km/h",
+      "link": "https://tuoitre.vn/bat-dau-cho-xe-vao-cao-toc-bien-hoa-vung-tau-di-toc-do-khong-qua-80km-h-20260429184402943.htm",
+      "summary": "17h chiều 29-4, cao tốc Biên Hòa - Vũng Tàu đưa vào khai thác đoạn hơn 37km thuộc các dự án thành phần 2, 3 qua địa bàn Đồng Nai và TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.750166+07:00",
+      "fetched": "2026-04-29T20:22:55.750291+07:00"
+    },
+    {
+      "id": "d2fd3db7bf9c5e5a145fd812a33ed301",
+      "title": "Lo thực phẩm bẩn, cử tri TP.HCM đề xuất thưởng nóng người tố giác vi phạm",
+      "link": "https://tuoitre.vn/lo-thuc-pham-ban-cu-tri-tp-hcm-de-xuat-thuong-nong-nguoi-to-giac-vi-pham-2026042918171339.htm",
+      "summary": "Sau nhiều vụ ngộ độc xảy ra thời gian gần đây, cử tri TP.HCM kiến nghị xử nghiêm vi phạm, đồng thời thưởng nóng người tố giác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.750018+07:00",
+      "fetched": "2026-04-29T20:22:55.750153+07:00"
+    },
+    {
+      "id": "ad1f483caa930a288c9e57ed35e34b3e",
+      "title": "CLB có nhiều tuyển thủ futsal Việt Nam vô địch Đại hội TDTT TP.HCM",
+      "link": "https://tuoitre.vn/clb-co-nhieu-tuyen-thu-futsal-viet-nam-vo-dich-dai-hoi-tdtt-tp-hcm-20260429191529324.htm",
+      "summary": "CLB Chánh Hưng Thái Sơn Nam lên ngôi vô địch môn futsal Đại hội TDTT TP.HCM lần I-2026 sau khi đánh bại Trung Mỹ Tây THF với tỉ số 5-1 trong trận chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T20:22:55.749784+07:00",
+      "fetched": "2026-04-29T20:22:55.750002+07:00"
+    },
     {
       "id": "dd240073b1607df507c5bebc9840f272",
       "title": "Dông lốc gây thiệt hại ở miền núi Thanh Hóa, một học sinh thiệt mạng",
@@ -423,6 +573,316 @@ window.newsData_2026_04_29 = {
       "fetched": "2026-04-29T13:17:14.766429+07:00"
     },
     {
+      "id": "b0d344af54a0afc43d89299046e46b92",
+      "title": "[FLYCAM] Cận cảnh nhánh cầu vượt N3 trước giờ thông xe: Diện mạo mới của nút giao",
+      "link": "https://thanhnien.vn/flycam-can-canh-nhanh-cau-vuot-n3-truoc-gio-thong-xe-dien-mao-moi-cua-nut-giao-18526042917071934.htm",
+      "summary": "Nhánh cầu vượt N3 tại nút giao An Phú đang hoàn thiện những công đoạn cuối, dự kiến thông xe dịp 30.4, góp phần giảm áp lực giao thông tại cửa ngõ phía Đông TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:12:00+07:00",
+      "fetched": "2026-04-29T20:22:54.603832+07:00"
+    },
+    {
+      "id": "284f9f2fc49d6a66e13cada095752345",
+      "title": "Nghỉ lễ 30.4 - 1.5: Lượng khách tăng cao, thông báo quan trọng từ rừng Cúc Phương",
+      "link": "https://thanhnien.vn/nghi-le-304-15-luong-khach-tang-cao-thong-bao-quan-trong-tu-rung-cuc-phuong-185260429180813103.htm",
+      "summary": "Dịp nghỉ lễ 30.4 - 1.5, Vườn quốc gia Cúc Phương (tỉnh Ninh Bình) dự báo lượng khách sẽ tăng cao do trùng cao điểm mùa bươm bướm và ra thông báo quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:07:00+07:00",
+      "fetched": "2026-04-29T20:22:54.604011+07:00"
+    },
+    {
+      "id": "2d093c67b4f56e2f62c4bc822705243f",
+      "title": "Những trường THPT của TP.HCM có chỉ tiêu tuyển sinh lớp 10 cao nhất",
+      "link": "https://thanhnien.vn/nhung-truong-thpt-cua-tphcm-co-chi-tieu-tuyen-sinh-lop-10-cao-nhat-185260421164253501.htm",
+      "summary": "Năm học 2026-2027 là năm đầu tiên TP.HCM sẽ tổ chức thi lớp 10 trên quy mô lớn với tổng số khoảng 170 trường THPT sau khi sáp nhập với Bình Dương và Bà Rịa-Vũng Tàu. Trong đó 50 trường THPT có chỉ tiêu tuyển sinh lớp 10 cao nhất năm nay như sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:04:00+07:00",
+      "fetched": "2026-04-29T20:22:54.604174+07:00"
+    },
+    {
+      "id": "1bcc2e943170ea4eba7ac382c389423b",
+      "title": "Xem nhanh 20h ngày 29.4: Phụ huynh bức xúc nói Trường Đặng Thùy Trâm thiếu minh bạch | Vớt xác xe tăng ở Quy Nhơn",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-294-phu-huynh-buc-xuc-noi-truong-dang-thuy-tram-thieu-minh-bach-vot-xac-xe-tang-o-quy-nhon-18526042917440864.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 29.4 có nhiều tin tức đáng chú ý về: Vụ học sinh Trường tiểu học Đặng Thùy Trâm nghi ngộ độc: Phụ huynh bức xúc; quân đội tổ chức trục vớt xác xe tăng ở bãi biển Quy Nhơn;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:00:00+07:00",
+      "fetched": "2026-04-29T20:22:54.604332+07:00"
+    },
+    {
+      "id": "0947156a6d4cb4a97d32345b57e1cec0",
+      "title": "Cây cảnh giá tiền tỉ, dáng độc lạ hút khách tại festival ở TP.HCM",
+      "link": "https://thanhnien.vn/cay-canh-gia-tien-ti-dang-doc-la-hut-khach-tai-festival-o-tphcm-185260429155047488.htm",
+      "summary": "Festival sinh vật cảnh tại TP.HCM thu hút đông người với nhiều cây cảnh giá trị từ vài trăm triệu đến hàng tỉ đồng, tạo hình độc đáo, lạ mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:00:00+07:00",
+      "fetched": "2026-04-29T20:22:54.604488+07:00"
+    },
+    {
+      "id": "6afb275d6646f64641e286ed5d81e70d",
+      "title": "Thoải mái nhưng vẫn thời thượng với quần denim dáng rộng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/thoai-mai-nhung-van-thoi-thuong-voi-quan-denim-dang-rong-185260428121728291.htm",
+      "summary": "Quần denim dáng rộng giờ đã trở thành món đồ cơ bản trong tủ đồ. Dù ai mặc, dù phối thế nào, tỷ lệ thành công đều rất cao. Không còn giới hạn trong phong cách năng động thường ngày, chiếc quần này ngày càng đa dạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:00:00+07:00",
+      "fetched": "2026-04-29T20:22:54.604653+07:00"
+    },
+    {
+      "id": "02a292a7be02944cf8f72655beea9777",
+      "title": "Quán quân 'Đấu trường tiếu lâm' Duy Khương: 5 con vẫn bị nghi 'bóng' vì mê giả gái",
+      "link": "https://thanhnien.vn/quan-quan-dau-truong-tieu-lam-duy-khuong-5-con-van-bi-nghi-bong-vi-me-gia-gai-185260425173917496.htm",
+      "summary": "Dù đã lập gia đình và có 5 con, quán quân 'Đấu trường tiếu lâm' Duy Khương vẫn không ít lần vướng nghi vấn giới tính vì thường xuyên đảm nhận các vai giả gái. Nam diễn viên tin rằng khi trưởng thành, các con sẽ nhìn nhận đó là sự hy sinh và nỗ lực vì gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:00:00+07:00",
+      "fetched": "2026-04-29T20:22:54.604840+07:00"
+    },
+    {
+      "id": "2f1616ef5500a3463f4ab01b3f06da99",
+      "title": "Chủ tịch Samsung SEAO: Thị trường TV cạnh tranh nhất từ trước đến nay",
+      "link": "https://vnexpress.net/chu-tich-samsung-seao-thi-truong-tv-canh-tranh-nhat-tu-truoc-den-nay-5068456.html",
+      "summary": "Samsung nhìn nhận thị trường khắc nghiệt nhất trong 20 năm qua, từ đó đưa ra chiến lược tạo trải nghiệm mới với AI, kỳ vọng đưa TV thành trung tâm trải nghiệm tại gia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-29T13:00:00+07:00",
+      "fetched": "2026-04-29T20:23:02.509089+07:00"
+    },
+    {
+      "id": "e7ffc11619053fe1f804a24609fc8809",
+      "title": "Đổi mới tổ chức, hoạt động các hội quần chúng do Đảng, Nhà nước giao nhiệm vụ",
+      "link": "https://thanhnien.vn/doi-moi-to-chuc-hoat-dong-cac-hoi-quan-chung-do-dang-nha-nuoc-giao-nhiem-vu-185260429191645065.htm",
+      "summary": "Đổi mới tổ chức và hoạt động của các hội không còn là vấn đề mang tính kỹ thuật tổ chức, mà đã trở thành yêu cầu có tính chiến lược, gắn trực tiếp với việc củng cố 'thế trận lòng dân', phát huy sức mạnh tổng hợp của toàn xã hội trong kỷ nguyên phát triển mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:45:00+07:00",
+      "fetched": "2026-04-29T20:22:54.604999+07:00"
+    },
+    {
+      "id": "d1043ab1c5f13d99718992f8dd64c055",
+      "title": "Đại Nghĩa 'choáng' trước màn xử lý cao tay của người phụ nữ khi chồng hay ghen",
+      "link": "https://thanhnien.vn/dai-nghia-choang-truoc-man-xu-ly-cao-tay-cua-nguoi-phu-nu-khi-chong-hay-ghen-185260429191756357.htm",
+      "summary": "Hành trình hôn nhân của cặp đôi Bùi Thị Diễm và Đinh Văn Chói được chia sẻ trong 'Mảnh ghép hoàn hảo' khiến MC Đại Nghĩa xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:44:00+07:00",
+      "fetched": "2026-04-29T20:22:54.605153+07:00"
+    },
+    {
+      "id": "4a48b25de806e58647e643358b33bf59",
+      "title": "Nghệ An: 62 người ngộ độc bánh mì do vi khuẩn Salmonella",
+      "link": "https://thanhnien.vn/nghe-an-62-nguoi-ngo-doc-banh-mi-do-vi-khuan-salmonella-185260429174922705.htm",
+      "summary": "Các mẫu bệnh phẩm trong bánh mỳ khiến 62 người bị ngộ độc sau khi ăn dương tính với vi khuẩn Salmonella.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:42:00+07:00",
+      "fetched": "2026-04-29T20:22:54.605312+07:00"
+    },
+    {
+      "id": "15f27a203319f4a77a1903a0d5978265",
+      "title": "Quốc yến ông Trump chiêu đãi Vua Anh",
+      "link": "https://vnexpress.net/quoc-yen-ong-trump-chieu-dai-vua-anh-5068426.html",
+      "summary": "Tổng thống Trump chủ trì quốc yến chiêu đãi Vua Anh tại Nhà Trắng trong không khí thân tình, với sự tham dự của nhiều quan chức cấp cao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-29T12:40:34+07:00",
+      "fetched": "2026-04-29T20:22:57.548650+07:00"
+    },
+    {
+      "id": "7251c00e58cab3c998b6f11b68f728fc",
+      "title": "Hoài Linh hội ngộ Quyền Linh, hé lộ vai diễn trong phim điện ảnh mới",
+      "link": "https://thanhnien.vn/hoai-linh-hoi-ngo-quyen-linh-he-lo-vai-dien-trong-phim-dien-anh-moi-185260429183834335.htm",
+      "summary": "Trong buổi khai máy phim 'La bàn không hướng Bắc', đạo diễn Quách Beem đã có những bật mí về vai trò của bộ đôi nghệ sĩ Hoài Linh - Quyền Linh trong tác phẩm điện ảnh này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:40:00+07:00",
+      "fetched": "2026-04-29T20:22:54.605471+07:00"
+    },
+    {
+      "id": "b377e4e9f82a56a60d01a2ab57923495",
+      "title": "Chính thức miễn thuế cho hơn 2,5 triệu hộ kinh doanh và 236.800 doanh nghiệp",
+      "link": "https://thanhnien.vn/chinh-thuc-mien-thue-cho-hon-25-trieu-ho-kinh-doanh-va-236800-doanh-nghiep-185260429180533731.htm",
+      "summary": "Với việc xác định ngưỡng doanh thu miễn thuế của hộ kinh doanh và doanh nghiệp đều ở mức 1 tỉ đồng/năm, ngay năm nay, hơn 2,5 triệu hộ kinh doanh và khoảng 236.800 doanh nghiệp được miễn thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:38:00+07:00",
+      "fetched": "2026-04-29T20:22:54.605628+07:00"
+    },
+    {
+      "id": "0301847278db6b833aa8ddd91100c6fc",
+      "title": "Đường phố kẹt cứng khi người dân ùn ùn rời Hà Nội nghỉ lễ 30.4 - 1.5.",
+      "link": "https://thanhnien.vn/duong-pho-ket-cung-khi-nguoi-dan-un-un-roi-ha-noi-nghi-le-304-15-185260429183424133.htm",
+      "summary": "Chiều cuối cùng của ngày làm việc trước kỳ nghỉ lễ 30.4 - 1.5, nhiều tuyến đường vành đai, cửa ngõ thủ đô rơi vào tình trạng ùn ứ nghiêm trọng khi rất đông người dân rời Hà Nội về quê, đi du lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:36:00+07:00",
+      "fetched": "2026-04-29T20:22:54.605813+07:00"
+    },
+    {
+      "id": "85239396098f731f6f271ff8032056e5",
+      "title": "Đi Đà Nẵng dịp lễ 30.4 - 1.5, 'né' đường cấm ra sao?",
+      "link": "https://thanhnien.vn/di-da-nang-dip-le-304-15-ne-duong-cam-ra-sao-18526042918382285.htm",
+      "summary": "Dịp lễ 30.4 - 1.5, hàng loạt tuyến đường trung tâm thành phố Đà Nẵng, đặc biệt quanh cầu Rồng, sẽ bị cấm hoặc hạn chế lưu thông để phục vụ Gala 'Tổ quốc bình yên'. Vậy phương tiện lưu thông đường nào để không rơi vào cảnh kẹt xe?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:31:00+07:00",
+      "fetched": "2026-04-29T20:22:54.605976+07:00"
+    },
+    {
+      "id": "ee5c09c45da49deccaa3c4ea83f96288",
+      "title": "Xây dựng Quảng Trị là điểm đến hòa bình, tâm linh, hang động và biển đảo",
+      "link": "https://thanhnien.vn/xay-dung-quang-tri-la-diem-den-hoa-binh-tam-linh-hang-dong-va-bien-dao-185260429184110196.htm",
+      "summary": "Đó là chỉ đạo của Tổng Bí thư, Chủ tịch nước Tô Lâm tại buổi làm việc với Ban Thường vụ Tỉnh ủy Quảng Trị về tình hình kết quả thực hiện nhiệm vụ chính trị, triển khai nghị quyết Đại hội 14 của Đảng và nghị quyết Đại hội Đảng bộ tỉnh lần thứ nhất, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:27:00+07:00",
+      "fetched": "2026-04-29T20:22:54.606139+07:00"
+    },
+    {
+      "id": "951dfbe7029d280fdb64a49b1327f5e5",
+      "title": "Trung Quốc bàn giao tàu chở ôtô lớn nhất thế giới",
+      "link": "https://vnexpress.net/trung-quoc-ban-giao-tau-cho-oto-lon-nhat-the-gioi-5068419.html",
+      "summary": "Tàu vận tải Glovis Leader với sức chở tối đa 10.800 ôtô được bàn giao tại thành phố Quảng Châu, miền nam Trung Quốc, hôm 28/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:00:00+07:00",
+      "fetched": "2026-04-29T20:22:51.026458+07:00"
+    },
+    {
+      "id": "1221ed77c6a17e62d5ac22412cf1a2f5",
+      "title": "Mắt kính Jins ra mắt cửa hàng đầu tiên tại miền Bắc",
+      "link": "https://vnexpress.net/mat-kinh-jins-ra-mat-cua-hang-dau-tien-tai-mien-bac-5068458.html",
+      "summary": "Jins mở cửa hàng mới tại Aeon Mall Hà Đông, giúp người dân bảo vệ đôi mắt và nâng tầm chất lượng sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:00:00+07:00",
+      "fetched": "2026-04-29T20:22:51.026640+07:00"
+    },
+    {
+      "id": "1843f4bf189bc690b10d7c01e02a4760",
+      "title": "'Nội địa hóa laser CO2 giúp doanh nghiệp giảm phụ thuộc nhập khẩu'",
+      "link": "https://vnexpress.net/noi-dia-hoa-laser-co2-giup-doanh-nghiep-giam-phu-thuoc-nhap-khau-5068455.html",
+      "summary": "Doanh nghiệp sản xuất đối mặt chi phí cao, gián đoạn khi phụ thuộc laser CO2 nhập khẩu, giải pháp nội địa vừa tăng chủ động vận hành, vừa tối ưu ngân sách, theo Chủ tịch Infalway-Laser.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:00:00+07:00",
+      "fetched": "2026-04-29T20:22:51.026845+07:00"
+    },
+    {
+      "id": "2ef24fd7b7b4847b2722f59baf1bf446",
+      "title": "Doanh nghiệp mua hàng không có hóa đơn cần làm gì?",
+      "link": "https://vnexpress.net/doanh-nghiep-mua-hang-khong-co-hoa-don-can-lam-gi-5068446.html",
+      "summary": "Để được tính chi phí hợp lệ khi mua hàng không hóa đơn, doanh nghiệp cần chuẩn bị các chứng từ như bảng kê thu mua hàng hóa, biên bản bàn giao nếu có.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:00:00+07:00",
+      "fetched": "2026-04-29T20:22:51.027012+07:00"
+    },
+    {
+      "id": "64db67aaa1365a6671d35ebfe4c03ef7",
+      "title": "Sun Group hợp tác Keppel 'xanh hóa' các điểm du lịch",
+      "link": "https://vnexpress.net/sun-group-hop-tac-keppel-xanh-hoa-cac-diem-du-lich-5068430.html",
+      "summary": "Tập đoàn Sun Group ký kết hợp tác chiến lược với Công ty TNHH Keppel EaaS Việt Nam (thuộc Tập đoàn Keppel - Singapore) nhằm tối ưu hóa năng lượng và chuyển đổi xanh tại các điểm du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:00:00+07:00",
+      "fetched": "2026-04-29T20:22:51.027181+07:00"
+    },
+    {
+      "id": "7099a2c12b7732cfb23ed0d739092344",
+      "title": "Người cao tuổi tự thiết kế cuộc sống riêng",
+      "link": "https://vnexpress.net/nguoi-cao-tuoi-tu-thiet-ke-cuoc-song-rieng-5068379.html",
+      "summary": "Nhiều người cao tuổi chủ động sống riêng, quản lý tài chính, duy trì vận động, tiêm vaccine để tận hưởng tuổi già khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:00:00+07:00",
+      "fetched": "2026-04-29T20:22:51.027347+07:00"
+    },
+    {
+      "id": "aa3f10cb094ea7b2174296ac17a36662",
+      "title": "Đường phố Cần Giờ rợp cờ hoa dịp 30/4",
+      "link": "https://vnexpress.net/duong-pho-can-gio-rop-co-hoa-dip-30-4-5052672.html",
+      "summary": "Các tuyến đường chính của Cần Giờ như Rừng Rác, Duyên Hải, treo cờ Tổ quốc mừng đại lễ 30/4, tạo khung cảnh tươi vui, rực rỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:00:00+07:00",
+      "fetched": "2026-04-29T20:22:51.027520+07:00"
+    },
+    {
+      "id": "64db67aaa1365a6671d35ebfe4c03ef7",
+      "title": "Sun Group hợp tác Keppel 'xanh hóa' các điểm du lịch",
+      "link": "https://vnexpress.net/sun-group-hop-tac-keppel-xanh-hoa-cac-diem-du-lich-5068430.html",
+      "summary": "Tập đoàn Sun Group ký kết hợp tác chiến lược với Công ty TNHH Keppel EaaS Việt Nam (thuộc Tập đoàn Keppel - Singapore) nhằm tối ưu hóa năng lượng và chuyển đổi xanh tại các điểm du lịch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-29T12:00:00+07:00",
+      "fetched": "2026-04-29T20:22:58.915236+07:00"
+    },
+    {
+      "id": "951dfbe7029d280fdb64a49b1327f5e5",
+      "title": "Trung Quốc bàn giao tàu chở ôtô lớn nhất thế giới",
+      "link": "https://vnexpress.net/trung-quoc-ban-giao-tau-cho-oto-lon-nhat-the-gioi-5068419.html",
+      "summary": "Tàu vận tải Glovis Leader với sức chở tối đa 10.800 ôtô được bàn giao tại thành phố Quảng Châu, miền nam Trung Quốc, hôm 28/4.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-29T12:00:00+07:00",
+      "fetched": "2026-04-29T20:23:02.507579+07:00"
+    },
+    {
+      "id": "d7f576395d2e89dba9f72c64b728b3ff",
+      "title": "Sân bay Tân Sơn Nhất tấp nập người về quê, du lịch",
+      "link": "https://vnexpress.net/san-bay-tan-son-nhat-tap-nap-nguoi-ve-que-du-lich-5068421.html",
+      "summary": "Trước ngày nghỉ lễ 30/4, ga quốc nội sân bay Tân Sơn Nhất đông người chờ xếp hàng làm thủ tục, hành khách đến sớm trước nhiều giờ để tránh trễ chuyến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T11:44:42+07:00",
+      "fetched": "2026-04-29T20:22:51.027700+07:00"
+    },
+    {
+      "id": "aa3d49171e75dcc85eadb317dc8f9a78",
+      "title": "Iran đối mặt nguy cơ hết chỗ chứa dầu",
+      "link": "https://vnexpress.net/iran-doi-mat-nguy-co-het-cho-chua-dau-5068103.html",
+      "summary": "Bị siết chặt bởi lệnh phong tỏa của Mỹ, ngành dầu mỏ Iran rơi vào thế khó khi các kho chứa sắp cạn chỗ và đối mặt nguy cơ phải đóng cửa giếng dầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T11:30:00+07:00",
+      "fetched": "2026-04-29T20:22:51.027868+07:00"
+    },
+    {
+      "id": "aa3d49171e75dcc85eadb317dc8f9a78",
+      "title": "Iran đối mặt nguy cơ hết chỗ chứa dầu",
+      "link": "https://vnexpress.net/iran-doi-mat-nguy-co-het-cho-chua-dau-5068103.html",
+      "summary": "Bị siết chặt bởi lệnh phong tỏa của Mỹ, ngành dầu mỏ Iran rơi vào thế khó khi các kho chứa sắp cạn chỗ và đối mặt nguy cơ phải đóng cửa giếng dầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-29T11:30:00+07:00",
+      "fetched": "2026-04-29T20:22:57.548859+07:00"
+    },
+    {
+      "id": "bb1f7680dc9e3def47de70342d11594e",
+      "title": "Shark Hưng xin từ nhiệm thành viên HĐQT Cenland",
+      "link": "https://vnexpress.net/shark-hung-xin-tu-nhiem-thanh-vien-hdqt-cenland-5068450.html",
+      "summary": "Ông Phạm Thanh Hưng nộp đơn từ nhiệm vị trí thành viên HĐQT Cen Land vì \"có những định hướng mới cho bản thân\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T11:27:01+07:00",
+      "fetched": "2026-04-29T20:22:51.028028+07:00"
+    },
+    {
+      "id": "1f5bb3c6611c862c642e641bde7148e7",
+      "title": "TP HCM công bố chỉ tiêu lớp 10 của 181 trường",
+      "link": "https://vnexpress.net/tra-cuu-chi-tiet-chi-tieu-lop-10-cua-181-truong-thpt-o-tp-hcm-nam-2026-5063177.html",
+      "summary": "181 trường công lập ở TP HCM có khoảng 118.550 suất học lớp 10, tỷ lệ đỗ khoảng 70%, theo công bố của Sở Giáo dục, chiều 29/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T11:25:57+07:00",
+      "fetched": "2026-04-29T20:22:51.028192+07:00"
+    },
+    {
       "id": "03f788fd87634634919797cf4b7d6b90",
       "title": "Mưa lớn ở Đồng Nai kèm lốc xoáy làm gãy đổ 2.800 trụ tiêu, sầu riêng",
       "link": "https://thanhnien.vn/mua-lon-o-dong-nai-kem-loc-xoay-lam-gay-do-2800-tru-tieu-sau-rieng-185260429174700201.htm",
@@ -613,6 +1073,26 @@ window.newsData_2026_04_29 = {
       "fetched": "2026-04-29T18:25:37.433244+07:00"
     },
     {
+      "id": "57b67a20b7b58f3ef422beba7d53ed6c",
+      "title": "Arsenal được dự đoán vô địch sau trận PSG - Bayern",
+      "link": "https://vnexpress.net/arsenal-duoc-du-doan-vo-dich-sau-tran-psg-bayern-5068283.html",
+      "summary": "Ngay sau trận PSG thắng Bayern Munich 5-4, cựu danh thủ Clarence Seedorf nhận định Arsenal là ứng viên sáng giá cho chức vô địch Champions League nhờ sự khác biệt ở hàng phòng ngự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T11:00:00+07:00",
+      "fetched": "2026-04-29T20:22:51.028857+07:00"
+    },
+    {
+      "id": "57b67a20b7b58f3ef422beba7d53ed6c",
+      "title": "Arsenal được dự đoán vô địch sau trận PSG - Bayern",
+      "link": "https://vnexpress.net/arsenal-duoc-du-doan-vo-dich-sau-tran-psg-bayern-5068283.html",
+      "summary": "Ngay sau trận PSG thắng Bayern Munich 5-4, cựu danh thủ Clarence Seedorf nhận định Arsenal là ứng viên sáng giá cho chức vô địch Champions League nhờ sự khác biệt ở hàng phòng ngự.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-29T11:00:00+07:00",
+      "fetched": "2026-04-29T20:23:03.572725+07:00"
+    },
+    {
       "id": "d1e4a2ebcadbaaa8d1a0a313bebc05bb",
       "title": "TAND TP HCM có chánh án mới",
       "link": "https://vnexpress.net/tand-tp-hcm-co-chanh-an-moi-5068448.html",
@@ -631,6 +1111,16 @@ window.newsData_2026_04_29 = {
       "category": "Tổng hợp",
       "published": "2026-04-29T10:57:00+07:00",
       "fetched": "2026-04-29T18:25:37.433370+07:00"
+    },
+    {
+      "id": "af8020a6eb49c959b69752e697e0d5d6",
+      "title": "Arteta muốn định đoạt bán kết Champions League ngay lượt đi",
+      "link": "https://vnexpress.net/arteta-muon-dinh-doat-ban-ket-champions-league-ngay-luot-di-5068242.html",
+      "summary": "HLV Mikel Arteta bác ý tưởng cầu hòa, đặt mục tiêu thắng khi Arsenal làm khách của Atletico Madrid ở lượt đi bán kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-29T10:57:00+07:00",
+      "fetched": "2026-04-29T20:23:03.572911+07:00"
     },
     {
       "id": "68ab2168afdb09ea8434c6f2cdbb0fd4",
