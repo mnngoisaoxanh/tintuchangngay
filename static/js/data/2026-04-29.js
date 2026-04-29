@@ -1,7 +1,157 @@
 window.newsData_2026_04_29 = {
   "date": "2026-04-29",
-  "lastUpdated": "2026-04-29T13:17:21.669166+07:00",
+  "lastUpdated": "2026-04-29T16:57:21.283320+07:00",
   "articles": [
+    {
+      "id": "31e24a19a7ccde073c1eac17e591eead",
+      "title": "OpenAI phát triển smartphone AI thay thế ứng dụng",
+      "link": "https://tuoitre.vn/openai-phat-trien-smartphone-ai-thay-the-ung-dung-20260429113942097.htm",
+      "summary": "OpenAI được cho là phát triển smartphone dùng tác nhân AI thay ứng dụng, mở ra hướng cạnh tranh mới với Apple và Google.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.368009+07:00",
+      "fetched": "2026-04-29T16:57:13.368120+07:00"
+    },
+    {
+      "id": "8153d10cc3f1d3458c8d13fe010c260b",
+      "title": "Bộ Công Thương điều chỉnh giá xăng dầu trước kỳ nghỉ lễ 30-4",
+      "link": "https://tuoitre.vn/bo-cong-thuong-dieu-chinh-gia-xang-dau-truoc-ky-nghi-le-30-4-20260429145136785.htm",
+      "summary": "Sau nhiều phiên giảm giá xăng dầu trong tháng 4, giá xăng dầu đã liên tục quay trở lại mức tăng, áp dụng từ 15h ngày 29-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.367881+07:00",
+      "fetched": "2026-04-29T16:57:13.367998+07:00"
+    },
+    {
+      "id": "251455e410fb90674ea97bffd675bfe6",
+      "title": "Triển lãm quốc phòng: Sẽ có sản phẩm quốc phòng mới, hiện đại do Việt Nam sản xuất",
+      "link": "https://tuoitre.vn/trien-lam-quoc-phong-se-co-san-pham-quoc-phong-moi-hien-dai-do-viet-nam-san-xuat-20260429140125294.htm",
+      "summary": "Sáng 29-4, Bộ Quốc phòng đã tổ chức Hội nghị xúc tiến Triển lãm quốc phòng quốc tế Việt Nam 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.367731+07:00",
+      "fetched": "2026-04-29T16:57:13.367865+07:00"
+    },
+    {
+      "id": "483f2ac48da640d7e6c7ed95d46a3023",
+      "title": "Lãnh đạo Mali tuyên bố kiểm soát được tình hình, phe đối địch dọa phong tỏa thủ đô",
+      "link": "https://tuoitre.vn/lanh-dao-mali-tuyen-bo-kiem-soat-duoc-tinh-hinh-phe-doi-dich-doa-phong-toa-thu-do-20260429145303958.htm",
+      "summary": "Lãnh đạo quân sự Mali xuất hiện lần đầu tiên kể từ sau khi xảy ra cuộc tấn công cuối tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.367612+07:00",
+      "fetched": "2026-04-29T16:57:13.367720+07:00"
+    },
+    {
+      "id": "db15e2ffd2cf900dcadef0593a4a7f0a",
+      "title": "Thủ tướng Lê Minh Hưng: Hạn chế tối đa tâm lý găm giữ và đầu cơ vàng",
+      "link": "https://tuoitre.vn/thu-tuong-le-minh-hung-han-che-toi-da-tam-ly-gam-giu-va-dau-co-vang-20260429144059944.htm",
+      "summary": "Cần có cơ chế, chính sách quản lý hiệu quả thị trường vàng, có lộ trình phù hợp với tình hình thực tế, yêu cầu chính sách qua các thời kỳ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.367487+07:00",
+      "fetched": "2026-04-29T16:57:13.367601+07:00"
+    },
+    {
+      "id": "34d2e18c4c448bcbf77cd58701641384",
+      "title": "Cựu Tổng thống Hàn Quốc bị tăng án lên 7 năm tù",
+      "link": "https://tuoitre.vn/cuu-tong-thong-han-quoc-bi-tang-an-len-7-nam-tu-202604291507332.htm",
+      "summary": "Tòa án Cấp cao Seoul ngày 29-4 đã tuyên mức án tăng thêm đối với cựu Tổng thống Hàn Quốc Yoon Suk Yeol từ 5 năm lên 7 năm tù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.367355+07:00",
+      "fetched": "2026-04-29T16:57:13.367475+07:00"
+    },
+    {
+      "id": "b935d75b70b32cfbb50978b69fd5418e",
+      "title": "Ngày đầu thông xe cao tốc từ Quảng Ngãi tới hầm Cù Mông: Lượng xe chưa nhiều",
+      "link": "https://tuoitre.vn/ngay-dau-thong-xe-cao-toc-tu-quang-ngai-toi-ham-cu-mong-luong-xe-chua-nhieu-20260429150117504.htm",
+      "summary": "Trong nửa ngày đầu tiên đưa vào khai thác các đoạn cao tốc từ Quảng Ngãi tới hầm Cù Mông (giữa Gia Lai và Đắk Lắk), lượng xe còn ít.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.367228+07:00",
+      "fetched": "2026-04-29T16:57:13.367339+07:00"
+    },
+    {
+      "id": "033cb83a35bbabfda46dc9bf165f6594",
+      "title": "Sản phẩm triệu USD của Viettel chinh phục thị trường Philippines như thế nào?",
+      "link": "https://tuoitre.vn/san-pham-trieu-usd-cua-viettel-chinh-phuc-thi-truong-philippines-nhu-the-nao-20260429152215272.htm",
+      "summary": "Hệ thống mô phỏng huấn luyện bắn súng của Viettel High Tech đã liên tục giành được những hợp đồng hàng triệu USD tại Philippines.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.367105+07:00",
+      "fetched": "2026-04-29T16:57:13.367217+07:00"
+    },
+    {
+      "id": "a1ba3ab4976acb7fdb306dfe4fbe618d",
+      "title": "Elon Musk ra tòa làm chứng, cáo buộc OpenAI phản bội sứ mệnh 'phi lợi nhuận'",
+      "link": "https://tuoitre.vn/elon-musk-truc-tiep-ra-toa-lam-chung-cao-buoc-openai-phan-boi-su-menh-phi-loi-nhuan-20260429150000206.htm",
+      "summary": "Tỉ phú công nghệ Elon Musk ngày 28-4 (giờ Mỹ) đã ra tòa làm chứng trong vụ kiện OpenAI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.366981+07:00",
+      "fetched": "2026-04-29T16:57:13.367094+07:00"
+    },
+    {
+      "id": "8714aa8a76c686caf6a19a7c3e8baa7d",
+      "title": "Cá heo bơi vào sát bờ biển, người dân Lý Sơn thích thú",
+      "link": "https://tuoitre.vn/ca-heo-boi-vao-sat-bo-bien-nguoi-dan-ly-son-thich-thu-20260429152507601.htm",
+      "summary": "Giữa làn nước trong xanh, một con cá heo bất ngờ xuất hiện gần khu vực cảng An Vĩnh (Lý Sơn), thu hút sự chú ý của người dân và du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.366849+07:00",
+      "fetched": "2026-04-29T16:57:13.366969+07:00"
+    },
+    {
+      "id": "e9983298e355abbd9a71c03a75b14383",
+      "title": "Sinh viên Đà Nẵng trả lại 900 triệu đồng chuyển nhầm, cách xử trí được khen ngợi",
+      "link": "https://tuoitre.vn/sinh-vien-da-nang-tra-lai-900-trieu-dong-chuyen-nham-cach-xu-tri-duoc-khen-ngoi-20260429152303757.htm",
+      "summary": "Chiều 29-4, Trường đại học Bách khoa Đà Nẵng tổ chức khen thưởng sinh viên Lê Thành Luân (lớp 23TDH2, khóa 23) vì hành động trung thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.366680+07:00",
+      "fetched": "2026-04-29T16:57:13.366835+07:00"
+    },
+    {
+      "id": "86e90b7320bbf38ddea36ceab17ebb4a",
+      "title": "Còn 34 triệu thuê bao chưa xác thực thông tin",
+      "link": "https://tuoitre.vn/con-34-trieu-thue-bao-chua-xac-thuc-thong-tin-20260429152220373.htm",
+      "summary": "Người dân có thể tiếp tục thực hiện việc xác nhận này từ nay đến ngày 15-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.366552+07:00",
+      "fetched": "2026-04-29T16:57:13.366668+07:00"
+    },
+    {
+      "id": "5f441dcc5423538ea40a0cadb7d40a93",
+      "title": "Đức nỗ lực giải cứu cá voi nặng 12 tấn mắc kẹt 1 tháng trên bãi cát",
+      "link": "https://tuoitre.vn/duc-no-luc-giai-cuu-ca-voi-nang-12-tan-mac-ket-1-thang-tren-bai-cat-20260429151609155.htm",
+      "summary": "Sau một tháng mắc cạn, cá voi lưng gù Timmy đã được lực lượng cứu hộ Đức đưa lên sà lan, bắt đầu hành trình trở về vùng biển sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.366418+07:00",
+      "fetched": "2026-04-29T16:57:13.366540+07:00"
+    },
+    {
+      "id": "56e8743bf6abfefb011f1ccc2925b7bc",
+      "title": "U19 Việt Nam vượt khó tập luyện hướng đến giải Đông Nam Á",
+      "link": "https://tuoitre.vn/u19-viet-nam-vuot-kho-tap-luyen-huong-den-giai-dong-nam-a-20260429154411645.htm",
+      "summary": "Dù một nửa quân số không thể lên tập trung, U19 Việt Nam vẫn tập luyện như kế hoạch đề ra để chuẩn bị cho Giải U19 Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.366275+07:00",
+      "fetched": "2026-04-29T16:57:13.366406+07:00"
+    },
+    {
+      "id": "15a8d118967c73db7fc1768b717f6107",
+      "title": "TP.HCM khởi công xây dựng trường THPT chuyên ở khu đất mới",
+      "link": "https://tuoitre.vn/tp-hcm-khoi-cong-xay-dung-truong-thpt-chuyen-o-khu-dat-moi-20260429144846353.htm",
+      "summary": "Lễ khởi công xây dựng Trường THPT chuyên Hùng Vương, TP.HCM diễn ra sáng 29-4 tại khu đất mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T16:57:13.366045+07:00",
+      "fetched": "2026-04-29T16:57:13.366260+07:00"
+    },
     {
       "id": "61bff7280db287953087501be5b0f510",
       "title": "Bị bắt vì xuyên tạc, xúc phạm tổ chức, cá nhân",
@@ -151,6 +301,296 @@ window.newsData_2026_04_29 = {
       "category": "Tổng hợp",
       "published": "2026-04-29T13:17:14.766203+07:00",
       "fetched": "2026-04-29T13:17:14.766429+07:00"
+    },
+    {
+      "id": "ef795983390e1945eca56a948d2e6c09",
+      "title": "Bổ nhiệm Phó chánh án TAND tối cao kiêm nhiệm chức vụ Chánh án TAND TP.HCM",
+      "link": "https://thanhnien.vn/bo-nhiem-pho-chanh-an-tand-toi-cao-kiem-nhiem-chuc-vu-chanh-an-tand-tphcm-185260429145313117.htm",
+      "summary": "Chánh án TAND tối cao phân công, bổ nhiệm ông Phạm Quốc Hưng (Phó chánh án TAND tối cao) kiêm nhiệm chức vụ Chánh án TAND TP.HCM, từ ngày 29.4.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:56:00+07:00",
+      "fetched": "2026-04-29T16:57:12.402982+07:00"
+    },
+    {
+      "id": "1dcf7c796835a71e80fb6ce43e3d6aa8",
+      "title": "Quân khu 5 dâng hương tại các 'địa chỉ đỏ' ở Quảng Ngãi",
+      "link": "https://thanhnien.vn/quan-khu-5-dang-huong-tai-cac-dia-chi-do-o-quang-ngai-185260429161508571.htm",
+      "summary": "Hoạt động tri ân diễn ra trong không khí trang nghiêm, thể hiện đạo lý 'uống nước nhớ nguồn', đồng thời khơi dậy tinh thần trách nhiệm của cán bộ, chiến sĩ Quân khu 5 trong sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:54:00+07:00",
+      "fetched": "2026-04-29T16:57:12.403155+07:00"
+    },
+    {
+      "id": "6c4503d32e95c7a0b1b507ffa9918a2a",
+      "title": "Nhà đầu tư mua bán chứng khoán cần lưu ý gì?",
+      "link": "https://thanhnien.vn/nha-dau-tu-mua-ban-chung-khoan-can-luu-y-gi-185260429163021547.htm",
+      "summary": "Ủy ban Chứng khoán Nhà nước vừa đưa ra một số lưu ý cho nhà đầu tư khi tham gia thị trường chứng khoán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:49:00+07:00",
+      "fetched": "2026-04-29T16:57:12.403312+07:00"
+    },
+    {
+      "id": "7fdc5d0881dc3679c31290f3e63c0bb6",
+      "title": "'Bí quyết' tham quan ga cổ Đà Lạt giá rẻ hơn 1 nửa",
+      "link": "https://thanhnien.vn/bi-quyet-tham-quan-ga-co-da-lat-gia-re-hon-1-nua-185260429164016162.htm",
+      "summary": "Ga Đà Lạt là công trình kiến trúc mang tính biểu tượng của thành phố Đà Lạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:48:00+07:00",
+      "fetched": "2026-04-29T16:57:12.403464+07:00"
+    },
+    {
+      "id": "17856efb3516abd413222d62ffecb63b",
+      "title": "Vướng mặt bằng, cao tốc Bắc - Nam qua Đắk Lắk chưa thông xe hoàn toàn",
+      "link": "https://thanhnien.vn/vuong-mat-bang-cao-toc-bac-nam-qua-dak-lak-chua-thong-xe-hoan-toan-185260429160338405.htm",
+      "summary": "Cao tốc Bắc - Nam đoạn qua địa bàn tỉnh Đắk Lắk chưa thể thông xe hoàn toàn vì một số hạng mục chưa hoàn thành, trong đó có khoảng 700 mét đường gom chưa thi công do vướng mặt bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:47:00+07:00",
+      "fetched": "2026-04-29T16:57:12.403614+07:00"
+    },
+    {
+      "id": "62ce341c0277b7cce331ed5d816d7f90",
+      "title": "U.17 Việt Nam sẽ chốt quân trước giờ sang Ả Rập Xê Út dự giải châu Á",
+      "link": "https://thanhnien.vn/u17-viet-nam-se-chot-quan-truoc-gio-sang-a-rap-xe-ut-du-giai-chau-a-185260429162518773.htm",
+      "summary": "U.17 Việt Nam hoàn tất bước rà soát lực lượng cuối cùng sau trận đấu tập nội bộ, trước khi lên đường dự VCK U.17 châu Á 2026 với danh sách 23 cầu thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:46:00+07:00",
+      "fetched": "2026-04-29T16:57:12.403786+07:00"
+    },
+    {
+      "id": "edfe4b40325b94d740cab90e536ec5ea",
+      "title": "Xổ số miền Nam ngày 29 tháng 4: Nhiều người trúng số đài Sóc Trăng nhận thưởng sớm",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-29-thang-4-nhieu-nguoi-trung-so-dai-soc-trang-nhan-thuong-som-185260429155150777.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 29 tháng 4, nhiều người trúng số đài Sóc Trăng lộ diện, nhận thưởng sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:45:00+07:00",
+      "fetched": "2026-04-29T16:57:12.403943+07:00"
+    },
+    {
+      "id": "4dc04bd3f9148488df12b36843d2fca0",
+      "title": "Cháy nhà xưởng hàng nghìn mét vuông ở TP.HCM",
+      "link": "https://thanhnien.vn/chay-nha-xuong-hang-nghin-met-vuong-o-tphcm-185260429163415698.htm",
+      "summary": "Nhà xưởng rộng hàng nghìn mét vuông ở phường Vĩnh Tân (TP.HCM) bị cháy vào chiều 29.4 gây thiệt hại nhiều tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:44:00+07:00",
+      "fetched": "2026-04-29T16:57:12.404092+07:00"
+    },
+    {
+      "id": "34ace7210d78eddfa3b2b1bf791a2c9e",
+      "title": "Nhân viên đạp ngã xe tên cướp giật tiệm vàng",
+      "link": "https://vnexpress.net/nhan-vien-dap-nga-xe-ten-cuop-giat-tiem-vang-5068382.html",
+      "summary": "Camera an ninh ghi cảnh nhân viên tiệm vàng ở xã Phú Hòa Đông lao ra chặn tên cướp giật vàng, đá ngã xe máy, nghi phạm bị bắt vài giờ sau đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:42:39+07:00",
+      "fetched": "2026-04-29T16:57:09.036888+07:00"
+    },
+    {
+      "id": "1957f82082853da14689b9aef076c111",
+      "title": "TP.HCM khởi công loạt siêu dự án hơn 280.000 tỉ đồng",
+      "link": "https://thanhnien.vn/tphcm-khoi-cong-loat-sieu-du-an-hon-280000-ti-dong-185260429163817145.htm",
+      "summary": "Sáng 29.4.2026, UBND TP.HCM tổ chức lễ khởi công các dự án, công trình quy mô lớn, ý nghĩa quan trọng chào mừng kỷ niệm 51 năm đất nước thống nhất (30.4.1975 - 30.4.2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:41:00+07:00",
+      "fetched": "2026-04-29T16:57:12.404246+07:00"
+    },
+    {
+      "id": "f7e39b24e9f9e7fb432724fddeeb38a4",
+      "title": "Herbalife vào top 100 thương hiệu giá trị nhất nước Mỹ",
+      "link": "https://vnexpress.net/herbalife-vao-top-100-thuong-hieu-gia-tri-nhat-nuoc-my-5063113.html",
+      "summary": "Herbalife xếp thứ 97 trong danh sách \"Những thương hiệu giá trị nhất nước Mỹ\" do Forbes công bố, thuộc nhóm 9% doanh nghiệp dẫn đầu trong trong 3.500 thương hiệu được đánh giá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:30:00+07:00",
+      "fetched": "2026-04-29T16:57:09.037077+07:00"
+    },
+    {
+      "id": "b73c5b0459db2ca6c3d9035d6c45262f",
+      "title": "Lái xe chơi lễ 30.4, lưu ngay vị trí 21 trạm dừng nghỉ trên cao tốc này",
+      "link": "https://thanhnien.vn/lai-xe-choi-le-304-luu-ngay-vi-tri-21-tram-dung-nghi-tren-cao-toc-nay-185260429162905341.htm",
+      "summary": "Cục Đường bộ Việt Nam vừa thông tin vị trí các trạm dừng nghỉ, trạm tạm, các nút giao ra vào tuyến cao tốc, các dịch vụ phục vụ nhu cầu thiết yếu trên tuyến cao tốc Bắc - Nam phía Đông và các tuyến kết nối với đường cao tốc phục vụ người dân đi lại trong dịp nghỉ lễ 30.4 - 1.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:30:00+07:00",
+      "fetched": "2026-04-29T16:57:12.404395+07:00"
+    },
+    {
+      "id": "1c527b4a45d9a496dd52e18f2496aadc",
+      "title": "Mỹ cùng 5 nước ra tuyên bố chung về Panama, Trung Quốc phản ứng",
+      "link": "https://thanhnien.vn/my-cung-5-nuoc-ra-tuyen-bo-chung-ve-panama-trung-quoc-phan-ung-185260429161653387.htm",
+      "summary": "Mỹ đã dẫn đầu một nhóm các quốc gia trong khu vực đưa ra tuyên bố chung ủng hộ Panama trong tranh chấp với Trung Quốc về kênh đào Panama. Bắc Kinh sau đó đã phản ứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:30:00+07:00",
+      "fetched": "2026-04-29T16:57:12.404541+07:00"
+    },
+    {
+      "id": "a36eb0b9321a260476ebe71264f100ee",
+      "title": "Thanh toán Zalopay tại Trung Quốc: Từ trung tâm thương mại đến gánh hàng rong",
+      "link": "https://thanhnien.vn/thanh-toan-zalopay-tai-trung-quoc-tu-trung-tam-thuong-mai-den-ganh-hang-rong-185260429153330117.htm",
+      "summary": "Du lịch Trung Quốc ngày càng thu hút người Việt, nhưng sự khác biệt trong thói quen thanh toán từng là rào cản lớn. Với sự xuất hiện của các giải pháp như Zalopay, việc chi tiêu từ trung tâm thương mại đến các quầy hàng rong giờ đây trở nên đơn giản hơn chỉ với một lần quét mã QR.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:30:00+07:00",
+      "fetched": "2026-04-29T16:57:12.404685+07:00"
+    },
+    {
+      "id": "f3bc598c9b144ff0efc867d9ca399581",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn lịch sử | Chuyên đề 3 | Cách mạng tháng Tám năm 1945",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-lich-su-chuyen-de-3-cach-mang-thang-tam-nam-1945-185260427101519103.htm",
+      "summary": "Chương trình \"Bí quyết ôn thi THPT 2026\" hướng dẫn học sinh làm bài thi môn lịch sử, kỳ thi tốt nghiệp THPT 2026. Buổi hướng dẫn do thầy Nguyễn Viết Đăng Du, Trường THPT Lê Quý Đôn, TP.HCM thực hiện. Chương trình được phát trên các kênh thanhnien.vn, facebook.com/thanhnien và YouTube Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:30:00+07:00",
+      "fetched": "2026-04-29T16:57:12.404862+07:00"
+    },
+    {
+      "id": "ae0e5f77f9f1be73b517dcb56a0f4242",
+      "title": "Vietjet đề xuất ở ga T1-Tân Sơn Nhất dài hạn, tham gia đầu tư loạt sân bay",
+      "link": "https://thanhnien.vn/vietjet-de-xuat-o-ga-t1-tan-son-nhat-dai-han-tham-gia-dau-tu-loat-san-bay-185260429162002849.htm",
+      "summary": "Bộ trưởng Bộ Xây dựng Trần Hồng Minh vừa chủ trì cuộc họp triển khai kết luận của Thường trực Chính phủ về đề xuất của Công ty CP Hàng không Vietjet liên quan tới việc tham gia các dự án hạ tầng hàng không trên cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:29:00+07:00",
+      "fetched": "2026-04-29T16:57:12.405020+07:00"
+    },
+    {
+      "id": "4bbdd7909094e639c0640c381060d91b",
+      "title": "Ba tuyến cao tốc lớn đồng loạt khai thác trước kỳ nghỉ lễ",
+      "link": "https://vnexpress.net/ba-tuyen-cao-toc-lon-dong-loat-khai-thac-truoc-ky-nghi-le-5068373.html",
+      "summary": "Ba tuyến cao tốc tại miền Trung, miền Tây và Đông Nam Bộ đồng loạt thông xe ngày 29/4, góp phần giảm tải quốc lộ, tăng kết nối liên vùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:28:17+07:00",
+      "fetched": "2026-04-29T16:57:09.037244+07:00"
+    },
+    {
+      "id": "8148e2f29d12e2bf965a2c5e491af438",
+      "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Cách mạng tháng Tám",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-cach-mang-thang-tam-185260428120623376.htm",
+      "summary": "Vào lúc 16 giờ 30 ngày 29.4, Báo Thanh Niên phát sóng chuyên đề số 3 của môn lích sử trong chương trình Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:27:00+07:00",
+      "fetched": "2026-04-29T16:57:12.405166+07:00"
+    },
+    {
+      "id": "4517631603a88d4c572e0babb11a7e2c",
+      "title": "Phát hiện súng AR15, đạn pháo khi trục vớt xe tăng ở biển Quy Nhơn",
+      "link": "https://vnexpress.net/phat-hien-sung-ar15-dan-phao-khi-truc-vot-xe-tang-o-bien-quy-nhon-5068381.html",
+      "summary": "Khi trục vớt xe tăng trồi lên ở bờ biển Quy Nhơn, lực lượng chức năng phát hiện nhiều súng, đạn pháo, xương và mảnh vải, chiều 29/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:25:04+07:00",
+      "fetched": "2026-04-29T16:57:09.037405+07:00"
+    },
+    {
+      "id": "9f2b9f3e6b2ab3743c0d8de7cc643a4e",
+      "title": "Giá vé máy bay quốc tế dịp 30/4 leo thang",
+      "link": "https://vnexpress.net/gia-ve-may-bay-quoc-te-dip-30-4-leo-thang-5068226.html",
+      "summary": "Giá vé máy bay chặng khứ hồi TP HCM - Bangkok dịp lễ 30/4 có giá khoảng 7-12 triệu, cao hơn cùng kỳ 3-5 triệu, riêng ngày cao điểm như 29/4 chỉ còn hạng thương gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:24:36+07:00",
+      "fetched": "2026-04-29T16:57:09.037559+07:00"
+    },
+    {
+      "id": "176e828b93fa3888dfecc82ca7b87279",
+      "title": "'Chặt chém' du khách, chủ bãi trông xe ở Sầm Sơn bị phạt",
+      "link": "https://vnexpress.net/chat-chem-du-khach-chu-bai-trong-xe-o-sam-son-bi-phat-5068395.html",
+      "summary": "Thu 200.000 đồng/lượt trông ôtô của du khách, cao gấp 5 lần mức tối đa quy định, Nguyễn Tuấn Trường bị phạt 15 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:21:24+07:00",
+      "fetched": "2026-04-29T16:57:09.037711+07:00"
+    },
+    {
+      "id": "ee63d4c21dd12d1e77c64ebdb670124e",
+      "title": "Người canh gác kim tự tháp giữa chiến tranh",
+      "link": "https://vnexpress.net/nguoi-canh-gac-kim-tu-thap-giua-chien-tranh-5068175.html",
+      "summary": "Mostafa Ahmed Mostafa, người kế thừa của gia tộc trông giữ quần thể kim tự tháp Meroe cổ đại, vẫn tiếp tục bảo vệ di sản suốt ba năm nội chiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:12:10+07:00",
+      "fetched": "2026-04-29T16:57:09.037886+07:00"
+    },
+    {
+      "id": "ee63d4c21dd12d1e77c64ebdb670124e",
+      "title": "Người canh gác kim tự tháp giữa chiến tranh",
+      "link": "https://vnexpress.net/nguoi-canh-gac-kim-tu-thap-giua-chien-tranh-5068175.html",
+      "summary": "Mostafa Ahmed Mostafa, người kế thừa của gia tộc trông giữ quần thể kim tự tháp Meroe cổ đại, vẫn tiếp tục bảo vệ di sản suốt ba năm nội chiến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-29T09:12:10+07:00",
+      "fetched": "2026-04-29T16:57:14.684151+07:00"
+    },
+    {
+      "id": "1184b53526ebf0e6c4f9823f3019fc26",
+      "title": "Tìm người đàn ông trưởng thành và có trách nhiệm",
+      "link": "https://vnexpress.net/tim-nguoi-dan-ong-truong-thanh-va-co-trach-nhiem-5068234.html",
+      "summary": "Mình là người phụ nữ trưởng thành, làm trong lĩnh vực tư vấn, thu nhập đủ chi tiêu cá nhân và tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:11:08+07:00",
+      "fetched": "2026-04-29T16:57:09.037997+07:00"
+    },
+    {
+      "id": "3cc51379757f44eac3e996af25c7f5f3",
+      "title": "Tìm cô gái thích học hỏi, biết đúng sai",
+      "link": "https://vnexpress.net/tim-co-gai-thich-hoc-hoi-biet-dung-sai-5068238.html",
+      "summary": "Giữa cuộc sống náo nhiệt, xô bồ, vội vã, anh vẫn mong tìm được người phù hợp với mình, một mối tình lâu dài, chung thủy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:08:15+07:00",
+      "fetched": "2026-04-29T16:57:09.038093+07:00"
+    },
+    {
+      "id": "505dd41723e4136cc2562cc7a132fc16",
+      "title": "Chỉ cần em chân thành, hay mỉm cười rạng rỡ",
+      "link": "https://vnexpress.net/chi-can-em-chan-thanh-hay-mim-cuoi-rang-ro-5068237.html",
+      "summary": "Anh là người vui vẻ, hoạt bát, yêu thích những điều khiến cuộc sống thêm màu sắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:07:57+07:00",
+      "fetched": "2026-04-29T16:57:09.038190+07:00"
+    },
+    {
+      "id": "f7adfc15f08f5fd3888f43131f490dbb",
+      "title": "Việt Nam có thêm cầu thủ nhập tịch gốc Brazil",
+      "link": "https://vnexpress.net/viet-nam-co-them-cau-thu-nhap-tich-goc-brazil-5068405.html",
+      "summary": "Tiền đạo Geovane Magno của CLB Ninh Bình chính thức mang quốc tịch Việt Nam với cái tên Nguyễn Tài Lộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:05:29+07:00",
+      "fetched": "2026-04-29T16:57:09.038355+07:00"
+    },
+    {
+      "id": "f7adfc15f08f5fd3888f43131f490dbb",
+      "title": "Việt Nam có thêm cầu thủ nhập tịch gốc Brazil",
+      "link": "https://vnexpress.net/viet-nam-co-them-cau-thu-nhap-tich-goc-brazil-5068405.html",
+      "summary": "Tiền đạo Geovane Magno của CLB Ninh Bình chính thức mang quốc tịch Việt Nam với cái tên Nguyễn Tài Lộc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-29T09:05:29+07:00",
+      "fetched": "2026-04-29T16:57:21.274632+07:00"
+    },
+    {
+      "id": "357a7ccd5e8255024dae0e607665f6fb",
+      "title": "Váy của bà Melania Trump gợi nhớ biểu tượng Jackie Kennedy",
+      "link": "https://vnexpress.net/vay-cua-ba-melania-trump-goi-nho-bieu-tuong-jackie-kennedy-5068336.html",
+      "summary": "Đệ nhất phu nhân Tổng thống Mỹ Melania Trump diện đầm hồng gợi nhớ phong cách thời trang của bà Jackie Kennedy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:04:24+07:00",
+      "fetched": "2026-04-29T16:57:09.038509+07:00"
     },
     {
       "id": "b70ea14270d9f2c3be446501ecf4d1b1",
@@ -303,6 +743,186 @@ window.newsData_2026_04_29 = {
       "fetched": "2026-04-29T09:02:18.717263+07:00"
     },
     {
+      "id": "1f714078940396dd44708470040cfa58",
+      "title": "Yêu vợ nhưng tôi vẫn có cảm xúc với nam đồng nghiệp",
+      "link": "https://vnexpress.net/yeu-vo-nhung-toi-van-co-cam-xuc-voi-nam-dong-nghiep-5061765.html",
+      "summary": "Tôi vẫn ham muốn và tình cảm với vợ, lại có cảm xúc với đồng nghiệp; kiểu khi gần ai là dễ bị cuốn theo cảm xúc với người đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:00:00+07:00",
+      "fetched": "2026-04-29T16:57:09.038662+07:00"
+    },
+    {
+      "id": "64075359537d61307456b012b47d2d19",
+      "title": "Club Med hợp tác Central Group Capital mở khu nghỉ dưỡng mới tại Thái Lan",
+      "link": "https://vnexpress.net/club-med-hop-tac-central-group-capital-mo-khu-nghi-duong-moi-tai-thai-lan-5068369.html",
+      "summary": "Thương hiệu nghỉ dưỡng Club Med vừa ký thỏa thuận với Central Group Capital phát triển dự án hạng sang đầu tiên tại đảo Koh Samui, dự kiến đón khách năm 2028.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:00:00+07:00",
+      "fetched": "2026-04-29T16:57:09.038843+07:00"
+    },
+    {
+      "id": "44e0b4d892cc9f0289db804a3d96e4fe",
+      "title": "Phòng ngừa cháy nắng khi đi biển",
+      "link": "https://vnexpress.net/phong-ngua-chay-nang-khi-di-bien-5068368.html",
+      "summary": "Ngoài sử dụng đủ kem chống nắng, nên đội mũ mặc áo dài tay khi đi biển, dưỡng ẩm và làm dịu da sau khi tiếp xúc ánh nắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T09:00:00+07:00",
+      "fetched": "2026-04-29T16:57:09.039001+07:00"
+    },
+    {
+      "id": "0f230448e3ae8972dfbde539abd29131",
+      "title": "Gelex lãi hơn 800 tỷ đồng quý I",
+      "link": "https://vnexpress.net/gelex-lai-hon-800-ty-dong-quy-i-5068213.html",
+      "summary": "Tập đoàn Gelex ghi nhận lợi nhuận trước thuế quý I là 806 tỷ đồng, tăng gần 25% so với cùng kỳ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-29T09:00:00+07:00",
+      "fetched": "2026-04-29T16:57:16.058703+07:00"
+    },
+    {
+      "id": "221aa2e42aa5d9264cfd33068622a863",
+      "title": "'Nhà nước không khuyến khích người dân nắm giữ vàng'",
+      "link": "https://vnexpress.net/nha-nuoc-khong-khuyen-khich-nguoi-dan-nam-giu-vang-5068372.html",
+      "summary": "Thủ tướng cho biết người dân được quyền nắm giữ vàng như một loại tài sản, nhưng Nhà nước không khuyến khích vì không tạo giá trị gia tăng cho nền kinh tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-29T08:49:16+07:00",
+      "fetched": "2026-04-29T16:57:16.057235+07:00"
+    },
+    {
+      "id": "a2a449856bb65f4595c3185e30ef509b",
+      "title": "Công ty Việt làm chủ hơn 300 công nghệ lõi",
+      "link": "https://vnexpress.net/cong-ty-viet-lam-chu-hon-300-cong-nghe-loi-5068351.html",
+      "summary": "Viettel High Tech làm chủ trên 300 công nghệ lõi, xây dựng hệ sinh thái 5G hoàn chỉnh, sánh ngang thế giới, từ thiết bị vô tuyến, truyền dẫn đến mạng lõi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-29T08:28:09+07:00",
+      "fetched": "2026-04-29T16:57:19.334261+07:00"
+    },
+    {
+      "id": "f305ea28748299d1f5d7409238a5b46c",
+      "title": "900.000 số điện thoại bị xác nhận 'không chính chủ'",
+      "link": "https://vnexpress.net/900-000-so-dien-thoai-bi-xac-nhan-khong-chinh-chu-5068347.html",
+      "summary": "Khoảng 900.000 số điện thoại đã được xác nhận không chính chủ sau hai tuần triển khai Thông tư 08 về xác thực thông tin thuê bao di động.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-29T08:11:39+07:00",
+      "fetched": "2026-04-29T16:57:19.333564+07:00"
+    },
+    {
+      "id": "5b2b91059ebf77e4672ed34d8a0c3642",
+      "title": "Apple Maps bắt đầu hiển thị địa giới hành chính mới ở Việt Nam",
+      "link": "https://vnexpress.net/apple-maps-bat-dau-hien-thi-dia-gioi-hanh-chinh-moi-o-viet-nam-5068335.html",
+      "summary": "Dịch vụ bản đồ Apple Maps bắt đầu hiển thị địa giới hành chính theo hai cấp và các tỉnh, thành sau sáp nhập.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-29T08:10:00+07:00",
+      "fetched": "2026-04-29T16:57:19.333748+07:00"
+    },
+    {
+      "id": "d059d1a318ec6aedfd2c55a955cbe4d9",
+      "title": "Con trai tỷ phú Ấn Độ muốn cứu đàn hà mã của trùm ma túy Colombia",
+      "link": "https://vnexpress.net/con-trai-ty-phu-an-do-muon-cuu-dan-ha-ma-cua-trum-ma-tuy-colombia-5068329.html",
+      "summary": "Anant Ambani, con trai tỷ phú Mukesh Ambani, đề nghị nhận nuôi 80 con hà mã của trùm ma túy Pablo Escobar, để chúng không bị giới chức Colombia tiêu hủy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-29T08:07:10+07:00",
+      "fetched": "2026-04-29T16:57:14.684346+07:00"
+    },
+    {
+      "id": "56d845969e6d79b4ad6816c9cdd8b59a",
+      "title": "Atletico - Arsenal: Phép thử bản lĩnh",
+      "link": "https://vnexpress.net/atletico-arsenal-phep-thu-ban-linh-5068045.html",
+      "summary": "Sự thực dụng, kỷ luật của Atletico Madrid và lối chơi kiểm soát giàu tính tổ chức của Arsenal hứa hẹn biến trận lượt đi bán kết Champions League hôm nay thành màn đấu trí căng thẳng, đầy toan tính.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-29T08:00:00+07:00",
+      "fetched": "2026-04-29T16:57:21.274837+07:00"
+    },
+    {
+      "id": "16a9034952df8000e28a11dda298edfe",
+      "title": "Ông Vance 'lo ngại về kho dự trữ tên lửa Mỹ'",
+      "link": "https://vnexpress.net/ong-vance-lo-ngai-ve-kho-du-tru-ten-lua-my-5068193.html",
+      "summary": "Phó tổng thống Mỹ dường như đã bày tỏ lo ngại về kho dự trữ một số tên lửa và nghi vấn báo cáo từ Lầu Năm Góc, theo Atlantic.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-29T07:56:23+07:00",
+      "fetched": "2026-04-29T16:57:14.684515+07:00"
+    },
+    {
+      "id": "9530ae09a35ca4a1f40b13340d556cd3",
+      "title": "Thủ tướng: Có giải pháp đủ mạnh phát triển thị trường chứng khoán",
+      "link": "https://vnexpress.net/thu-tuong-co-giai-phap-du-manh-phat-trien-thi-truong-chung-khoan-5068310.html",
+      "summary": "Thủ tướng yêu cầu Bộ Tài chính có giải pháp đủ mạnh để thị trường chứng khoán trở thành kênh huy động vốn trung và dài hạn của nền kinh tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-29T07:51:51+07:00",
+      "fetched": "2026-04-29T16:57:16.057410+07:00"
+    },
+    {
+      "id": "cddeaee92c3b7394b35b84185fceff01",
+      "title": "Áo Xanh lần thứ 6 thắng chặng giải xuyên Việt",
+      "link": "https://vnexpress.net/ao-xanh-lan-thu-6-thang-chang-giai-xuyen-viet-5068326.html",
+      "summary": "Cua-rơ Marchuk Dzianis giữ chắc danh hiệu Áo Xanh khi thắng chặng 24 cuộc đua xe đạp xuyên Việt tranh Cup Truyền hình HTV 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-29T07:33:32+07:00",
+      "fetched": "2026-04-29T16:57:21.275485+07:00"
+    },
+    {
+      "id": "0ae6710cffd25ab9243ad80e644e3872",
+      "title": "Giấc mơ và nỗi ám ảnh của HLV Simeone ở Champions League",
+      "link": "https://vnexpress.net/giac-mo-va-noi-am-anh-cua-hlv-simeone-o-champions-league-5068275.html",
+      "summary": "Với HLV Diego Simeone, chức vô địch Champions League là giấc mơ, thay vì nỗi ám ảnh từ nhiều lần vấp ngã trước ngưỡng cửa thiên đường cùng Atletico Madrid.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-29T07:24:10+07:00",
+      "fetched": "2026-04-29T16:57:21.275003+07:00"
+    },
+    {
+      "id": "c17afe5b8b989186505d7ba5a40e18f3",
+      "title": "5 cuộc rượt đuổi tỷ số sánh ngang trận PSG - Bayern",
+      "link": "https://vnexpress.net/5-cuoc-ruot-duoi-ty-so-sanh-ngang-tran-psg-bayern-5068285.html",
+      "summary": "Real Madrid từng tạo ra ba cuộc rượt đuổi tỷ số hấp dẫn không kém trận lượt đi bán kết Champions League giữa PSG và Bayern Munich tối 28/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-29T07:14:30+07:00",
+      "fetched": "2026-04-29T16:57:21.275161+07:00"
+    },
+    {
+      "id": "9d61a0a9ce7d1171e865095f6ac01d79",
+      "title": "Musk nhắc đến 'bạn cũ' Larry Page tại phiên tòa với OpenAI",
+      "link": "https://vnexpress.net/musk-nhac-den-ban-cu-larry-page-tai-phien-toa-voi-openai-5068230.html",
+      "summary": "Elon Musk cho biết mâu thuẫn với nhà đồng sáng lập Google Larry Page về nguy cơ AI đe dọa nhân loại là động lực lớn khiến ông tham gia OpenAI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-29T07:12:18+07:00",
+      "fetched": "2026-04-29T16:57:19.333945+07:00"
+    },
+    {
+      "id": "d47a3dc2f51cd66f55e89fbb55c085dc",
+      "title": "Lễ Duyệt binh Chiến thắng của Nga sẽ không có khí tài cơ giới",
+      "link": "https://vnexpress.net/le-duyet-binh-chien-thang-cua-nga-se-khong-co-khi-tai-co-gioi-5068206.html",
+      "summary": "Bộ Quốc phòng Nga cho biết lễ duyệt binh trên Quảng trường Đỏ ngày 9/5 sẽ không có những đội hình xe cơ giới như các năm trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-29T07:04:35+07:00",
+      "fetched": "2026-04-29T16:57:14.684676+07:00"
+    },
+    {
+      "id": "56e852fbde1080c4e662dd714a70da06",
+      "title": "Chủ tịch FIFA muốn được hộ tống như Tổng thống Mỹ",
+      "link": "https://vnexpress.net/chu-tich-fifa-muon-duoc-ho-tong-nhu-tong-thong-my-5068297.html",
+      "summary": "FIFA đề nghị cảnh sát Canada hộ tống Chủ tịch Gianni Infantino bằng đoàn xe an ninh tối tân nhất, với cấp độ bảo vệ thường chỉ dành cho Giáo hoàng hoặc Tổng thống Mỹ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-29T06:50:19+07:00",
+      "fetched": "2026-04-29T16:57:21.275640+07:00"
+    },
+    {
       "id": "d9aeb381243183cef0a2cea8d32924be",
       "title": "Người dân ở Tân Thành mang cá chết đến cuộc họp, yêu cầu làm rõ nguyên nhân",
       "link": "https://thanhnien.vn/nguoi-dan-o-tan-thanh-mang-ca-chet-den-cuoc-hop-yeu-cau-lam-ro-nguyen-nhan-185260429113656464.htm",
@@ -321,6 +941,16 @@ window.newsData_2026_04_29 = {
       "category": "Tổng hợp",
       "published": "2026-04-29T06:09:00+07:00",
       "fetched": "2026-04-29T13:17:13.892822+07:00"
+    },
+    {
+      "id": "4374cb4a774e46e0cf72c9450306f749",
+      "title": "Hãng tàu cao tốc ra Phú Quốc lãi gấp rưỡi dù giá dầu lên cao",
+      "link": "https://vnexpress.net/hang-tau-cao-toc-ra-phu-quoc-lai-gap-ruoi-du-gia-dau-len-cao-5068136.html",
+      "summary": "Giá dầu vượt 30.000 đồng một lít vào cuối quý I nhưng hãng tàu cao tốc Superdong vẫn lãi gần 25 tỷ đồng, gấp rưỡi cùng kỳ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-29T06:07:06+07:00",
+      "fetched": "2026-04-29T16:57:16.057572+07:00"
     },
     {
       "id": "279cd57c71532038a84b81032dee28bd",
@@ -2201,6 +2831,16 @@ window.newsData_2026_04_29 = {
       "category": "Công nghệ",
       "published": "2026-04-28T07:06:44+07:00",
       "fetched": "2026-04-29T02:19:53.570435+07:00"
+    },
+    {
+      "id": "7f053bc6eb4e9291a188e4a64a9c2954",
+      "title": "Elon Musk và Sam Altman lần đầu đối đầu tại tòa",
+      "link": "https://vnexpress.net/elon-musk-va-sam-altman-lan-dau-doi-dau-tai-toa-5067765.html",
+      "summary": "Cuộc chiến pháp lý giữa Elon Musk và Sam Altman dự kiến diễn ra các phiên tranh tụng đầu tiên từ 28/4 với nhiều tình tiết đáng chú ý, trong đó có trang nhật ký của Chủ tịch OpenAI Greg Brockman.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-28T07:06:44+07:00",
+      "fetched": "2026-04-29T16:57:19.335222+07:00"
     },
     {
       "id": "1555f6d87d7029d6a64cab78936e2569",
