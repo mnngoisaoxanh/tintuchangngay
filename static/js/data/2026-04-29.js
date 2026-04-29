@@ -1,7 +1,157 @@
 window.newsData_2026_04_29 = {
   "date": "2026-04-29",
-  "lastUpdated": "2026-04-29T20:23:03.583304+07:00",
+  "lastUpdated": "2026-04-29T22:51:44.442636+07:00",
   "articles": [
+    {
+      "id": "28646f20d9233b29303955a95d1edd97",
+      "title": "'Vòng luẩn quẩn' ở Trung Đông và những mục tiêu bị bỏ ngỏ",
+      "link": "https://tuoitre.vn/vong-luan-quan-o-trung-dong-va-nhung-muc-tieu-bi-bo-ngo-20260429175819432.htm",
+      "summary": "Mỹ dường như đang một lần nữa sa vào một cuộc chiến 'không lối thoát' tại Trung Đông. Một vòng lẩn quẩn lại bắt đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.415020+07:00",
+      "fetched": "2026-04-29T22:51:36.415117+07:00"
+    },
+    {
+      "id": "b3071204042153d23b5969e68971e3ab",
+      "title": "Bắt người đàn ông trộm tiền công đức tại Ninh Bình",
+      "link": "https://tuoitre.vn/bat-nguoi-dan-ong-trom-tien-cong-duc-tai-ninh-binh-20260429204509167.htm",
+      "summary": "Công an tỉnh Ninh Bình cho biết vừa bắt người đàn ông trộm cắp tiền công đức một số cơ sở thờ tự tại tỉnh Ninh Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.414912+07:00",
+      "fetched": "2026-04-29T22:51:36.415010+07:00"
+    },
+    {
+      "id": "1b5efe5917de843277a59bf16af74cd7",
+      "title": "Tạm giữ người phụ nữ huy động vốn đầu tư bất động sản, chiếm đoạt gần 180 tỉ đồng",
+      "link": "https://tuoitre.vn/tam-giu-nguoi-phu-nu-huy-dong-von-dau-tu-bat-dong-san-chiem-doat-gan-180-ti-dong-20260429204424161.htm",
+      "summary": "Công an TP Hải Phòng đã tạm giữ hình sự người phụ nữ huy động, kêu gọi góp vốn đầu tư bất động sản để chiếm đoạt gần 180 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.414804+07:00",
+      "fetched": "2026-04-29T22:51:36.414902+07:00"
+    },
+    {
+      "id": "7078851e44fbf367f68486375653bd40",
+      "title": "Saigon Co.op tung thêm ưu đãi đón cao điểm lễ 30-4, 1-5",
+      "link": "https://tuoitre.vn/saigon-co-op-tung-them-uu-dai-don-cao-diem-le-30-4-1-5-20260429204349217.htm",
+      "summary": "Hơn 800 điểm bán trên toàn quốc thuộc Saigon Co.op đồng loạt tung ưu đãi, giảm giá sâu hàng ngàn mặt hàng thiết yếu, giúp người tiêu dùng thoải mái mua sắm, tiết kiệm chi tiêu trong kỳ lễ dài ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.414693+07:00",
+      "fetched": "2026-04-29T22:51:36.414795+07:00"
+    },
+    {
+      "id": "bf34a6447ca1ad0a873e2f690c9b6db9",
+      "title": "Ngày mai 30-4, Đồng Nai chính thức trở thành thành phố thứ 7 của Việt Nam",
+      "link": "https://tuoitre.vn/ngay-mai-30-4-dong-nai-chinh-thuc-tro-thanh-thanh-pho-thu-7-cua-viet-nam-20260429210727081.htm",
+      "summary": "Theo nghị quyết của Quốc hội, từ ngày mai (30-4), Đồng Nai chính thức trở thành thành phố thứ 7 của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.414587+07:00",
+      "fetched": "2026-04-29T22:51:36.414684+07:00"
+    },
+    {
+      "id": "4c71b122eddc2b73a7e8053dbe9cdbe6",
+      "title": "Cục Thuế triển khai ngay chính sách mới về thuế với doanh nghiệp, hộ kinh doanh",
+      "link": "https://tuoitre.vn/cuc-thue-trien-khai-ngay-chinh-sach-moi-ve-thue-voi-doanh-nghiep-ho-kinh-doanh-20260429210815987.htm",
+      "summary": "Ngoài nâng ngưỡng doanh thu miễn thuế đối với hộ kinh doanh, Chính phủ cũng quyết định miễn thuế thu nhập doanh nghiệp cho doanh nghiệp có doanh thu năm từ 1 tỉ đồng trở xuống, áp dụng luôn từ ngày 1-1-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.414475+07:00",
+      "fetched": "2026-04-29T22:51:36.414577+07:00"
+    },
+    {
+      "id": "d53032d3b7a4fb01a8c83076e6975147",
+      "title": "Đóng điện 51 công trình điện khắp miền Nam dịp 30-4",
+      "link": "https://tuoitre.vn/dong-dien-51-cong-trinh-dien-khap-mien-nam-dip-30-4-20260429212214979.htm",
+      "summary": "Làm việc xuyên lễ, Tổng công ty Điện lực miền Nam EVNSPC cho biết sẽ đóng điện 51 công trình khắp các tỉnh miền Nam trong dịp 30-4 này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.414357+07:00",
+      "fetched": "2026-04-29T22:51:36.414465+07:00"
+    },
+    {
+      "id": "5c93c567ab7e6019d1f7d333926c20c5",
+      "title": "Takeru hạ gục 'người sắt' Rodtang trong ngày chia tay võ đài",
+      "link": "https://tuoitre.vn/takeru-ha-guc-nguoi-sat-rodtang-trong-ngay-chia-tay-vo-dai-20260429212358251.htm",
+      "summary": "Võ sĩ người Nhật Takeru Segawa đã giành chiến thắng trước Rodtang Jitmuangnon (Thái Lan) trong ngày chia ngay sự nghiệp thi đấu chuyên nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.414189+07:00",
+      "fetched": "2026-04-29T22:51:36.414340+07:00"
+    },
+    {
+      "id": "22f1b924341b02246a838b88c13ce034",
+      "title": "Cao tốc Bắc - Nam có 21 trạm dừng nghỉ hoạt động dịp lễ 30-4, 1-5",
+      "link": "https://tuoitre.vn/cao-toc-bac-nam-co-21-tram-dung-nghi-hoat-dong-dip-le-30-4-1-5-20260429210756518.htm",
+      "summary": "Thông tin từ Cục Đường bộ Việt Nam cho biết trong dịp nghỉ lễ 30-4, 1-5, cao tốc Bắc - Nam từ Hà Nội đến Cà Mau có 21 trạm dừng nghỉ hoạt động với khoảng cách trung bình khoảng 100km/trạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.414081+07:00",
+      "fetched": "2026-04-29T22:51:36.414177+07:00"
+    },
+    {
+      "id": "e677492aa32b4ffe9cddc79eed5bd121",
+      "title": "TP.HCM đưa thêm 5 trường THPT công lập vào hệ thống tuyển sinh lớp 10",
+      "link": "https://tuoitre.vn/tp-hcm-dua-them-5-truong-thpt-cong-lap-vao-he-thong-tuyen-sinh-lop-10-20260429212944011.htm",
+      "summary": "Chiều 29-4, Sở Giáo dục và Đào tạo TP.HCM đã có văn bản bổ sung thêm 5 trường THPT công lập vào hệ thống tuyển sinh lớp 10 năm học 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.413972+07:00",
+      "fetched": "2026-04-29T22:51:36.414071+07:00"
+    },
+    {
+      "id": "8b578f4c925a0eb5f4a5930c52ef5a4e",
+      "title": "Mâu thuẫn gia tộc vẫn cao, Philippines sắp đưa phó tổng thống ra luận tội",
+      "link": "https://tuoitre.vn/mau-thuan-gia-toc-van-cao-philippines-sap-dua-pho-tong-thong-ra-luan-toi-2026042921250101.htm",
+      "summary": "Ủy ban Tư pháp Hạ viện Philippines kết luận có \"căn cứ pháp lý\" để luận tội Phó tổng thống Sara Duterte, là bước đệm để Hạ viện xem xét luận tội bà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.413864+07:00",
+      "fetched": "2026-04-29T22:51:36.413963+07:00"
+    },
+    {
+      "id": "f55e929fe6aa90f9535e9db434033468",
+      "title": "Giá sách giáo khoa năm học mới giảm hơn 13%",
+      "link": "https://tuoitre.vn/gia-sach-giao-khoa-nam-hoc-moi-giam-hon-13-20260429214422734.htm",
+      "summary": "Giá sách giáo khoa từ lớp 1 đến lớp 12 năm học 2026-2027 được điều chỉnh giảm bình quân 13,3% so với năm trước. Nhiều sách đã in trước đó vẫn tiếp tục sử dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.413753+07:00",
+      "fetched": "2026-04-29T22:51:36.413854+07:00"
+    },
+    {
+      "id": "e5cf47bf3b547980bb9e8c9cce872aa3",
+      "title": "Tai nạn giao thông trên quốc lộ 24 do tránh xe kéo ba bánh, một người chết",
+      "link": "https://tuoitre.vn/tai-nan-giao-thong-tren-quoc-lo-24-do-tranh-xe-keo-ba-banh-mot-nguoi-chet-20260429204045605.htm",
+      "summary": "Một vụ tai nạn giao thông vừa xảy ra trên quốc lộ 24, đoạn qua xã Kon Braih, tỉnh Quảng Ngãi khiến một người chết, một người bị thương nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.413640+07:00",
+      "fetched": "2026-04-29T22:51:36.413744+07:00"
+    },
+    {
+      "id": "26e2e1b973ffaa5a7534bfe45bec2677",
+      "title": "HDBank đạt 6.107 tỉ đồng lợi nhuận quý 1-2026",
+      "link": "https://tuoitre.vn/hdbank-dat-6-107-ti-dong-loi-nhuan-quy-1-2026-20260429214253268.htm",
+      "summary": "HDBank vừa công bố kết quả kinh doanh quý 1-2026 với 6.107 tỉ đồng lợi nhuận, ROE đạt 24,29% và CAR đạt 16,16%, tiếp tục ghi nhận hiệu quả ở nhóm đầu ngành trên nền tảng vốn mạnh và quản trị chặt chẽ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.413506+07:00",
+      "fetched": "2026-04-29T22:51:36.413630+07:00"
+    },
+    {
+      "id": "feb812e49d30c5def57f4540aa8022e9",
+      "title": "Agribank đưa Kiosk thông minh tới Quảng Ninh, người dân vùng đảo làm thủ tục trong vài phút",
+      "link": "https://tuoitre.vn/agribank-dua-kiosk-thong-minh-toi-quang-ninh-nguoi-dan-vung-dao-lam-thu-tuc-trong-vai-phut-20260429214243393.htm",
+      "summary": "Agribank triển khai Kiosk thông minh tại Quảng Ninh góp phần giảm tải áp lực thủ tục hành chính. Theo đó, hệ thống tự động hóa các khâu tiếp nhận, xác thực và trả kết quả chỉ trong vài phút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T22:51:36.413264+07:00",
+      "fetched": "2026-04-29T22:51:36.413492+07:00"
+    },
     {
       "id": "e30b22a07cb337839f50ab41ca0a78a3",
       "title": "Lộ trình chặng cuối cuộc đua xe đạp Cúp truyền hình TP.HCM 2026",
@@ -423,6 +573,226 @@ window.newsData_2026_04_29 = {
       "fetched": "2026-04-29T16:57:13.366260+07:00"
     },
     {
+      "id": "fa96ebca80578f1b77e079957c756cb0",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Quảng Trị xác định chiến lược 'vươn Đông tỏa Tây'",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-quang-tri-xac-dinh-chien-luoc-vuon-dong-toa-tay-5068462.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước gợi mở tỉnh Quảng Trị phát triển mạnh các ngành kinh tế lợi thế biển, năng lượng, du lịch; tận dụng vai trò cửa ngõ ra biển của hành lang Đông -Tây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T15:32:57+07:00",
+      "fetched": "2026-04-29T22:51:32.338366+07:00"
+    },
+    {
+      "id": "c9d8d670ca5b1e7422818ce55d304665",
+      "title": "Giá bộ sách giáo khoa chung sẽ giảm khoảng 13%",
+      "link": "https://vnexpress.net/gia-sach-giao-khoa-lop-1-den-lop-12-nam-hoc-2026-2027-moi-nhat-5068495.html",
+      "summary": "Giá sách giáo khoa từ lớp 1 đến lớp 12 bộ \"Kết nối tri thức với cuộc sống\" giảm bình quân 13,3% so với năm học này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T15:30:35+07:00",
+      "fetched": "2026-04-29T22:51:32.338526+07:00"
+    },
+    {
+      "id": "8787b9abdd76999cd3fe58bf97ba56ca",
+      "title": "Vinaconex tiếp tục thay lãnh đạo cấp cao",
+      "link": "https://vnexpress.net/vinaconex-tiep-tuc-thay-lanh-dao-cap-cao-5068474.html",
+      "summary": "Vinaconex vừa bổ nhiệm Phó tổng giám đốc Phạm Thái Dương làm Tổng giám đốc, kiêm đại diện pháp luật thay cho ông Nguyễn Xuân Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T15:09:50+07:00",
+      "fetched": "2026-04-29T22:51:32.338667+07:00"
+    },
+    {
+      "id": "8787b9abdd76999cd3fe58bf97ba56ca",
+      "title": "Vinaconex tiếp tục thay lãnh đạo cấp cao",
+      "link": "https://vnexpress.net/vinaconex-tiep-tuc-thay-lanh-dao-cap-cao-5068474.html",
+      "summary": "Vinaconex vừa bổ nhiệm Phó tổng giám đốc Phạm Thái Dương làm Tổng giám đốc, kiêm đại diện pháp luật thay cho ông Nguyễn Xuân Đông.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-29T15:09:50+07:00",
+      "fetched": "2026-04-29T22:51:39.747273+07:00"
+    },
+    {
+      "id": "0e646d5341a333696c35fa425e3bb98f",
+      "title": "Tiền rial của Iran mất giá kỷ lục so với USD",
+      "link": "https://thanhnien.vn/tien-rial-cua-iran-mat-gia-ky-luc-so-voi-usd-185260429210333787.htm",
+      "summary": "Hãng thông tấn sinh viên Iran (ISNA) đưa tin tiền rial của Iran mất giá kỷ lục trong ngày 29.4 khi 1.810.000 rial chỉ đổi được 1 USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T15:06:00+07:00",
+      "fetched": "2026-04-29T22:51:35.394083+07:00"
+    },
+    {
+      "id": "adcc2dfade75ed8e6f001e2207ad95c4",
+      "title": "Trái đắng du học dù có IELTS 7.0",
+      "link": "https://vnexpress.net/trai-dang-du-hoc-du-co-ielts-7-0-5068388.html",
+      "summary": "Nhiều gia đình nghĩ rằng con giỏi tiếng Anh, GPA tốt là sẵn sàng đi duc học, nhưng đó chỉ là vé vào cửa, không phải đảm bảo thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T15:00:00+07:00",
+      "fetched": "2026-04-29T22:51:32.338805+07:00"
+    },
+    {
+      "id": "8177bd046f530f272e2d0ca909975615",
+      "title": "Đồng nội tệ Iran mất giá chưa từng thấy",
+      "link": "https://vnexpress.net/dong-noi-te-iran-mat-gia-chua-tung-thay-5068482.html",
+      "summary": "Đồng nội tệ Iran giảm xuống mức 1,8 triệu rial đổi 1 USD, mức thấp kỷ lục, trong lúc nền kinh tế nước này khó khăn vì lệnh phong tỏa của Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T14:56:07+07:00",
+      "fetched": "2026-04-29T22:51:32.338940+07:00"
+    },
+    {
+      "id": "8177bd046f530f272e2d0ca909975615",
+      "title": "Đồng nội tệ Iran mất giá chưa từng thấy",
+      "link": "https://vnexpress.net/dong-noi-te-iran-mat-gia-chua-tung-thay-5068482.html",
+      "summary": "Đồng nội tệ Iran giảm xuống mức 1,8 triệu rial đổi 1 USD, mức thấp kỷ lục, trong lúc nền kinh tế nước này khó khăn vì lệnh phong tỏa của Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-29T14:56:07+07:00",
+      "fetched": "2026-04-29T22:51:38.074120+07:00"
+    },
+    {
+      "id": "9c88bd80f24dc1a0e637d8cf662fc576",
+      "title": "Chiều 29.4: Cửa ngõ phía Tây TP.HCM ùn ứ, bến xe dự báo đón gần 70.000 khách",
+      "link": "https://thanhnien.vn/chieu-294-cua-ngo-phia-tay-tphcm-un-u-ben-xe-du-bao-don-gan-70000-khach-185260429215106365.htm",
+      "summary": "Dịp lễ 2026, Bến xe Miền Tây ghi nhận lượng hành khách tăng cao đáng kể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T14:53:00+07:00",
+      "fetched": "2026-04-29T22:51:35.394229+07:00"
+    },
+    {
+      "id": "3e68b8a871e7f6eed497091c18bb7547",
+      "title": "Arsenal trước ngưỡng cửa lịch sử Champions League: Phương án nào để khuất phục Atletico Madrid?",
+      "link": "https://thanhnien.vn/arsenal-truoc-nguong-cua-lich-su-champions-league-phuong-an-nao-de-khuat-phuc-atletico-madrid-185260429210639727.htm",
+      "summary": "Arsenal bước vào bán kết Champions League với chuyến làm khách đầy thử thách trước Atletico Madrid, nơi mọi sai số đều có thể phải trả giá, và lựa chọn cách tiếp cận trận đấu sẽ quyết định trực tiếp cơ hội vào chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T14:52:00+07:00",
+      "fetched": "2026-04-29T22:51:35.394379+07:00"
+    },
+    {
+      "id": "64b9ae93254b64fff54c4dddbba33bc3",
+      "title": "Gần 230 trẻ ở Bangladesh tử vong do bệnh sởi",
+      "link": "https://thanhnien.vn/gan-230-tre-o-bangladesh-tu-vong-do-benh-soi-185260429210148147.htm",
+      "summary": "Bangladesh đã ghi nhận 227 trường hợp tử vong ở trẻ em kể từ tháng 3, khi nước này đối mặt một trong những đợt bùng phát bệnh sởi tồi tệ nhất trong nhiều thập niên, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T14:17:00+07:00",
+      "fetched": "2026-04-29T22:51:35.394508+07:00"
+    },
+    {
+      "id": "d15470ed80d3969a66614ab8b40d8cca",
+      "title": "Truy đuổi hơn ba km bắt kẻ trộm đồ ở homestay",
+      "link": "https://vnexpress.net/truy-duoi-hon-ba-km-bat-ke-trom-do-o-homestay-5068468.html",
+      "summary": "Phát hiện xe tải nghi chở tài sản trộm cắp qua quốc lộ 20, cảnh sát ra hiệu dừng kiểm tra nhưng tài xế tăng ga bỏ chạy, buộc tổ công tác truy đuổi gần ba km để khống chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T14:14:30+07:00",
+      "fetched": "2026-04-29T22:51:32.339085+07:00"
+    },
+    {
+      "id": "ca97aa4c9cae44c5ab219c9892a633dc",
+      "title": "Chơi an toàn trước Atletico Madrid ở bán kết Champions League, Arsenal coi chừng nhận 'trái đắng'",
+      "link": "https://thanhnien.vn/choi-an-toan-truoc-atletico-madrid-o-ban-ket-champions-league-arsenal-coi-chung-nhan-trai-dang-185260429210138536.htm",
+      "summary": "Arsenal làm khách Atletico Madrid ở bán kết Champions League trong bối cảnh phong độ chưa ổn định và lực lượng sứt mẻ, nhưng vẫn đứng trước cơ hội lớn tiến vào trận chung kết sau gần 20 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T14:10:00+07:00",
+      "fetched": "2026-04-29T22:51:35.394638+07:00"
+    },
+    {
+      "id": "8af9d2dce22916191058cbb32c809c80",
+      "title": "Thủ tướng Lê Minh Hưng gặp mặt, chúc mừng U.17 Việt Nam: ‘Mong đội giành những chiến thắng lớn hơn’",
+      "link": "https://thanhnien.vn/thu-tuong-le-minh-hung-gap-mat-chuc-mung-u17-viet-nam-mong-doi-gianh-nhung-chien-thang-lon-hon-185260429205739816.htm",
+      "summary": "Chiều 29.4, Thủ tướng Chính phủ Lê Minh Hưng gặp mặt, chúc mừng đội tuyển bóng đá nam U.17 quốc gia Việt Nam vừa xuất sắc giành chức vô địch giải U.17 Đông Nam Á năm 2026 tổ chức tại Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T14:04:00+07:00",
+      "fetched": "2026-04-29T22:51:35.394765+07:00"
+    },
+    {
+      "id": "e4f3beb95250147f1d17f804e2a55efa",
+      "title": "Nhan sắc công chúa Đức Talita Von Fürstenberg",
+      "link": "https://vnexpress.net/nhan-sac-cong-chua-duc-talita-von-f-rstenberg-5067813.html",
+      "summary": "Talita - công chúa dòng dõi Fürstenberg của Đức - có gương mặt thon, miệng rộng, làn da rám nắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T14:00:00+07:00",
+      "fetched": "2026-04-29T22:51:32.339221+07:00"
+    },
+    {
+      "id": "5bab506ff53804708e307088e0a8a8b0",
+      "title": "Nghiên cứu phát hành trái phiếu Chính phủ để hút vốn ngoại",
+      "link": "https://vnexpress.net/nghien-cuu-phat-hanh-trai-phieu-chinh-phu-de-hut-von-ngoai-5068470.html",
+      "summary": "Thủ tướng Lê Minh Hưng yêu cầu nghiên cứu phát hành trái phiếu Chính phủ kỳ hạn 15-30 năm cho nhà đầu tư nước ngoài, nhằm huy động thêm nguồn lực cho các dự án hạ tầng giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:46:10+07:00",
+      "fetched": "2026-04-29T22:51:32.339370+07:00"
+    },
+    {
+      "id": "cce9860030b9e83a86675beaf7fb3c7e",
+      "title": "Mẹo giảm say tàu xe khi đi chơi dịp lễ, bạn đã biết chưa?",
+      "link": "https://thanhnien.vn/cac-meo-giam-say-tau-xe-khi-di-choi-dip-le-ban-da-biet-chua-185260429204041387.htm",
+      "summary": "Say tàu xe thường không gây hậu quả lâu dài nhưng có thể khiến cơ thể mệt mỏi, nhất là khi phải di chuyển nhiều. Áp dụng một số mẹo đơn giản sẽ giúp hạn chế tình trạng này và tận hưởng chuyến đi thoải mái hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:40:00+07:00",
+      "fetched": "2026-04-29T22:51:35.394893+07:00"
+    },
+    {
+      "id": "ce4fe0b980d7667b40dc362fe57da2cb",
+      "title": "Ông Nguyễn Thanh Nghị thăm, tặng quà cho Mẹ Việt Nam anh hùng ở Quảng Ngãi",
+      "link": "https://thanhnien.vn/ong-nguyen-thanh-nghi-tham-tang-qua-cho-me-viet-nam-anh-hung-o-quang-ngai-185260429185147875.htm",
+      "summary": "Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Trưởng ban Chính sách, Chiến lược Trung ương Nguyễn Thanh Nghị dẫn đầu đoàn công tác thăm, tặng quà gia đình chính sách, công nhân khó khăn tại Quảng Ngãi dịp 30.4 - 1.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:39:00+07:00",
+      "fetched": "2026-04-29T22:51:35.395028+07:00"
+    },
+    {
+      "id": "205a4dec3d5a55f92a75928364c92686",
+      "title": "Hiện trạng khu tập thể Thanh Xuân Bắc: Nhìn tốt nhưng có an toàn?",
+      "link": "https://thanhnien.vn/hien-trang-khu-tap-the-thanh-xuan-bac-nhin-tot-nhung-co-an-toan-185260429133018471.htm",
+      "summary": "Giữa lòng Hà Nội, khu tập thể 60 tòa Thanh Xuân Bắc đã tồn tại suốt hơn 40 năm, gắn bó với nhiều thế hệ cư dân. Được xây dựng từ thời kỳ bao cấp, nơi đây từng là không gian sống tiêu biểu dành cho công nhân và cán bộ. Theo thời gian, khu nhà dần bộc lộ những bất cập về hạ tầng, không gian và chất lư...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:34:00+07:00",
+      "fetched": "2026-04-29T22:51:35.395156+07:00"
+    },
+    {
+      "id": "cc6e89bfe6d064eb8cf256e6555ac9c9",
+      "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Kiến thức về an sinh xã hội",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-kien-thuc-ve-an-sinh-xa-hoi-185260428122916481.htm",
+      "summary": "Vào lúc 20 giờ 30 ngày 29.4, Báo Thanh Niên phát sóng chuyên đề số 3 của môn giáo dục kinh tế và pháp luật trong chương trình Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:30:00+07:00",
+      "fetched": "2026-04-29T22:51:35.395294+07:00"
+    },
+    {
+      "id": "1e22d07d6215449e17c82d20eee78ae5",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn giáo dục kinh tế và pháp luật | Chuyên đề 3 | Bảo hiểm và an ninh xã hội",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-giao-duc-kinh-te-va-phap-luat-chuyen-de-3-bao-hiem-va-an-ninh-xa-hoi-1852604241736342.htm",
+      "summary": "Chương trình hướng dẫn học sinh làm bài thi môn giáo dục kinh tế và pháp luật, kỳ thi THPT quốc gia 2026. Buổi hướng dẫn \"Bí quyết ôn thi THPT 2026\" do cô Võ Hậu – Trường THPT Marie Curie (TP.HCM) – thực hiện. Chương trình được phát trên các kênh thanhnien.vn, Facebook.com/thanhnien và YouTube Báo T...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:30:00+07:00",
+      "fetched": "2026-04-29T22:51:35.395424+07:00"
+    },
+    {
+      "id": "9ac739712425734f4ecdc428d549223a",
+      "title": "Trục vớt thành công xe tăng chìm 51 năm ở biển Quy Nhơn",
+      "link": "https://vnexpress.net/truc-vot-thanh-cong-xe-tang-chim-51-nam-o-bien-quy-nhon-5068472.html",
+      "summary": "Sau 5 giờ triển khai cùng với điều thêm thiết bị, phương tiện, quân đội trục vớt thành công xe tăng chìm ở biển Quy Nhơn và nhiều vũ khí, tư trang, tối 29/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:19:38+07:00",
+      "fetched": "2026-04-29T22:51:32.339503+07:00"
+    },
+    {
       "id": "61bff7280db287953087501be5b0f510",
       "title": "Bị bắt vì xuyên tạc, xúc phạm tổ chức, cá nhân",
       "link": "https://tuoitre.vn/bi-bat-vi-xuyen-tac-xuc-pham-to-chuc-ca-nhan-20260429102215437.htm",
@@ -603,6 +973,16 @@ window.newsData_2026_04_29 = {
       "fetched": "2026-04-29T20:22:54.604174+07:00"
     },
     {
+      "id": "7edd0b5fdaca480637335615fbb12857",
+      "title": "Phi công nào của Việt Nam bắn rơi nhiều máy bay nhất?",
+      "link": "https://vnexpress.net/phi-cong-viet-nam-ban-roi-nhieu-may-bay-nhat-5068459.html",
+      "summary": "Phi công này bắn rơi tổng cộng 9 máy bay Mỹ, là Anh hùng Lực lượng vũ trang nhân dân khi 25 tuổi. Bạn có biết ông là ai?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:01:00+07:00",
+      "fetched": "2026-04-29T22:51:32.339639+07:00"
+    },
+    {
       "id": "1bcc2e943170ea4eba7ac382c389423b",
       "title": "Xem nhanh 20h ngày 29.4: Phụ huynh bức xúc nói Trường Đặng Thùy Trâm thiếu minh bạch | Vớt xác xe tăng ở Quy Nhơn",
       "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-294-phu-huynh-buc-xuc-noi-truong-dang-thuy-tram-thieu-minh-bach-vot-xac-xe-tang-o-quy-nhon-18526042917440864.htm",
@@ -651,6 +1031,56 @@ window.newsData_2026_04_29 = {
       "category": "Công nghệ",
       "published": "2026-04-29T13:00:00+07:00",
       "fetched": "2026-04-29T20:23:02.509089+07:00"
+    },
+    {
+      "id": "a40e85bc5a82be65d4d054e0d9691dba",
+      "title": "Tôi phải khai quê quán Hải Phòng dù chưa ngày nào sống tại đó",
+      "link": "https://vnexpress.net/toi-phai-khai-que-quan-hai-phong-du-chua-ngay-nao-song-tai-do-5068340.html",
+      "summary": "Tôi phải ghi nguyên quán Hải Phòng, dù sinh tại Hòa Bình (nay là Phú Thọ), còn toàn bộ quá trình học tập và làm việc lại ở Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:00:00+07:00",
+      "fetched": "2026-04-29T22:51:32.339771+07:00"
+    },
+    {
+      "id": "b160e2a0c07c73239ce26c809427d4f6",
+      "title": "Bạn gái ngọt ngào với những người tán tỉnh em",
+      "link": "https://vnexpress.net/ban-gai-ngot-ngao-voi-nhung-nguoi-tan-tinh-em-5065757.html",
+      "summary": "Em luôn bảo không có gì, vẫn yêu tôi nhưng nội dung nhắn với họ rất thân mật, ngọt ngào, đôi khi còn tán tỉnh nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:00:00+07:00",
+      "fetched": "2026-04-29T22:51:32.339900+07:00"
+    },
+    {
+      "id": "2162d71f29eb3759dcfe8e9197d7cfe5",
+      "title": "Saigontourist Group nhận Huân chương Lao động hạng Nhất lần thứ hai",
+      "link": "https://vnexpress.net/saigontourist-group-nhan-huan-chuong-lao-dong-hang-nhat-lan-thu-hai-5068449.html",
+      "summary": "Saigontourist Group phát triển du lịch bền vững, tăng liên kết vùng và quốc tế, cùng nhiều hoạt động vì cộng đồng qua hơn 50 năm, được trao Huân chương Lao động hạng Nhất, ngày 29/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T13:00:00+07:00",
+      "fetched": "2026-04-29T22:51:32.340166+07:00"
+    },
+    {
+      "id": "2162d71f29eb3759dcfe8e9197d7cfe5",
+      "title": "Saigontourist Group nhận Huân chương Lao động hạng Nhất lần thứ hai",
+      "link": "https://vnexpress.net/saigontourist-group-nhan-huan-chuong-lao-dong-hang-nhat-lan-thu-hai-5068449.html",
+      "summary": "Saigontourist Group phát triển du lịch bền vững, tăng liên kết vùng và quốc tế, cùng nhiều hoạt động vì cộng đồng qua hơn 50 năm, được trao Huân chương Lao động hạng Nhất, ngày 29/4.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-29T13:00:00+07:00",
+      "fetched": "2026-04-29T22:51:39.748919+07:00"
+    },
+    {
+      "id": "a688ba9ead7a4ab58af1aef1119f2140",
+      "title": "Chánh án TAND Tối cao: 'Cần nhân rộng mô hình tòa án điện tử tại TP HCM'",
+      "link": "https://vnexpress.net/chanh-an-tand-toi-cao-can-nhan-rong-mo-hinh-toa-an-dien-tu-tai-tp-hcm-5068438.html",
+      "summary": "Sau khi làm việc với TAND Khu vực 1, Chánh án TAND Tối cao Nguyễn Văn Quảng yêu cầu nhân rộng tòa án điện tử để giảm thủ tục, tăng minh bạch cho người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-29T12:52:58+07:00",
+      "fetched": "2026-04-29T22:51:32.340306+07:00"
     },
     {
       "id": "e7ffc11619053fe1f804a24609fc8809",
