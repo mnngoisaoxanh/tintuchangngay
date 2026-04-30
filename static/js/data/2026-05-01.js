@@ -1,7 +1,27 @@
 window.newsData_2026_05_01 = {
   "date": "2026-05-01",
-  "lastUpdated": "2026-05-01T03:50:31.724567+07:00",
+  "lastUpdated": "2026-05-01T05:41:59.433571+07:00",
   "articles": [
+    {
+      "id": "aae5106b1100d794e0c1f919e669514b",
+      "title": "Lịch trực tiếp V-League vòng 21: Thể Công - Viettel đấu Ninh Bình",
+      "link": "https://tuoitre.vn/lich-truc-tiep-v-league-vong-21-the-cong-viettel-dau-ninh-binh-20260430085131811.htm",
+      "summary": "Tâm điểm của vòng 21 V-League 2025-2026 là cuộc đụng độ giữa CLB Thể Công - Viettel với Ninh Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T05:41:53.612081+07:00",
+      "fetched": "2026-05-01T05:41:53.612213+07:00"
+    },
+    {
+      "id": "6a7b854a05979667b3b8db286a9214c4",
+      "title": "Thời tiết hôm nay 1-5: Nam Bộ vẫn nắng gắt nhưng đợt nắng nóng sắp kết thúc",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-1-5-nam-bo-van-nang-gat-nhung-dot-nang-nong-sap-ket-thuc-202604301622515.htm",
+      "summary": "Hôm nay 1-5, thời tiết Nam Bộ vẫn nắng gay gắt nhưng đợt nắng nóng sắp kết thúc, thời tiết dịu dần và mưa xuất hiện nhiều nơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T05:41:53.611849+07:00",
+      "fetched": "2026-05-01T05:41:53.612066+07:00"
+    },
     {
       "id": "9382a89d8394e3eeddf28c15122eb094",
       "title": "Rực rỡ pháo hoa đêm nghệ thuật 'Đồng Nai dòng chảy lịch sử - khát vọng tương lai'",
@@ -183,6 +203,236 @@ window.newsData_2026_05_01 = {
       "fetched": "2026-05-01T00:08:54.156805+07:00"
     },
     {
+      "id": "f51f47563899b6c48fff5c92cb70888e",
+      "title": "Tiêu điểm quốc tế 1.5: Thảo luận Trump - Putin | Bí ẩn 'trứng vàng' dưới đáy biển",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-15-thao-luan-trump-putin-bi-an-trung-vang-duoi-day-bien-185260430214146966.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 1.5.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:31:00+07:00",
+      "fetched": "2026-05-01T05:41:52.824354+07:00"
+    },
+    {
+      "id": "ebfff5fc7ebe399949dc2b1395e52b4b",
+      "title": "Hé mở bí ẩn ‘trứng vàng’ dưới đáy đại dương",
+      "link": "https://thanhnien.vn/he-mo-bi-an-trung-vang-duoi-day-dai-duong-185260430172041044.htm",
+      "summary": "Theo Live Science ngày 27.4, các nhà khoa học cuối cùng đã có lời giải về bí ẩn kéo dài hơn 2 năm, khi tìm thấy vật thể màu vàng kỳ lạ ở đáy đại dương ngoài khơi bang Alaska của Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:26:00+07:00",
+      "fetched": "2026-05-01T05:41:52.824551+07:00"
+    },
+    {
+      "id": "7156d2e59a91ff265dfd59369eac48da",
+      "title": "Simeone và hậu vệ Arsenal căng thẳng vì chuyện giẫm lên logo Atletico",
+      "link": "https://vnexpress.net/simeone-va-hau-ve-arsenal-cang-thang-vi-chuyen-giam-len-logo-atletico-5068780.html",
+      "summary": "Trên đường lui vào đường hầm sân Metropolitano, hậu vệ Ben White đã không chú ý, dẫn đến việc bước lên logo Atletico Madrid được vẽ trên thảm cỏ khiến HLV Diego Simeone và con trai Giuliano nổi nóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:22:51+07:00",
+      "fetched": "2026-05-01T05:41:49.898536+07:00"
+    },
+    {
+      "id": "7156d2e59a91ff265dfd59369eac48da",
+      "title": "Simeone và hậu vệ Arsenal căng thẳng vì chuyện giẫm lên logo Atletico",
+      "link": "https://vnexpress.net/simeone-va-hau-ve-arsenal-cang-thang-vi-chuyen-giam-len-logo-atletico-5068780.html",
+      "summary": "Trên đường lui vào đường hầm sân Metropolitano, hậu vệ Ben White đã không chú ý, dẫn đến việc bước lên logo Atletico Madrid được vẽ trên thảm cỏ khiến HLV Diego Simeone và con trai Giuliano nổi nóng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-30T22:22:51+07:00",
+      "fetched": "2026-05-01T05:41:59.427914+07:00"
+    },
+    {
+      "id": "f53e3a8577f8b5e64c6ea1d9eccda906",
+      "title": "Mount: 'Man Utd có thể vô địch Ngoại hạng Anh mùa tới'",
+      "link": "https://vnexpress.net/mount-man-utd-co-the-vo-dich-ngoai-hang-anh-mua-toi-5068781.html",
+      "summary": "Tiền vệ Mason Mount tin Man Utd đủ khả năng chấm dứt cơn khát danh hiệu Ngoại hạng kéo dài 14 năm, nếu giữ tinh thần và sự ổn định hiện tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:19:06+07:00",
+      "fetched": "2026-05-01T05:41:49.898726+07:00"
+    },
+    {
+      "id": "f53e3a8577f8b5e64c6ea1d9eccda906",
+      "title": "Mount: 'Man Utd có thể vô địch Ngoại hạng Anh mùa tới'",
+      "link": "https://vnexpress.net/mount-man-utd-co-the-vo-dich-ngoai-hang-anh-mua-toi-5068781.html",
+      "summary": "Tiền vệ Mason Mount tin Man Utd đủ khả năng chấm dứt cơn khát danh hiệu Ngoại hạng kéo dài 14 năm, nếu giữ tinh thần và sự ổn định hiện tại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-30T22:19:06+07:00",
+      "fetched": "2026-05-01T05:41:59.428093+07:00"
+    },
+    {
+      "id": "7f61508ef009242483d3b1577755279a",
+      "title": "Tử vi ngày 1 tháng 5: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-1-thang-5-con-giap-nao-may-man-hom-nay-185260430234019144.htm",
+      "summary": "Tử vi ngày 1 tháng 5 mang đến những gợi ý tham khảo cho 12 con giáp trong kỳ nghỉ lễ. Điểm nổi bật là tận hưởng có ý thức - nghỉ ngơi không chỉ là dừng lại mà còn là cách bạn chọn trải nghiệm điều gì. Tài lộc không nằm ở việc kiếm thêm, mà ở việc bạn biết sử dụng thời gian và tiền bạc một cách hợp l...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:15:00+07:00",
+      "fetched": "2026-05-01T05:41:52.824716+07:00"
+    },
+    {
+      "id": "1bb98bf1f4dc9483a5aeaf44e5890be7",
+      "title": "Điều gì xảy ra nếu uống nước dưa chuột thường xuyên?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-neu-uong-nuoc-dua-chuot-thuong-xuyen-5068228.html",
+      "summary": "Nước dưa chuột bổ sung nước, hỗ trợ giảm cân, cung cấp chất chống oxy hóa và có thể giảm nguy cơ ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:12:03+07:00",
+      "fetched": "2026-05-01T05:41:49.898896+07:00"
+    },
+    {
+      "id": "b2bf26409f7e1c69626da3493fe14664",
+      "title": "U.17 Việt Nam lên đường sang Ả Rập Xê Út, quyết săn vé World Cup: Đấu đối thủ nào?",
+      "link": "https://thanhnien.vn/u17-viet-nam-len-duong-sang-a-rap-xe-ut-quyet-san-ve-world-cup-dau-doi-thu-nao-185260501050042613.htm",
+      "summary": "Tối 30.4, đội tuyển U.17 Việt Nam đã lên đường sang Ả Rập Xê Út tham dự VCK U.17 châu Á 2026. Đây là giải đấu có ý nghĩa quan trọng đối với mục tiêu cạnh tranh suất dự FIFA U.17 World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:11:00+07:00",
+      "fetched": "2026-05-01T05:41:52.824870+07:00"
+    },
+    {
+      "id": "c8386a1a759d5e84bae22ea27bf04b65",
+      "title": "Học sinh chế keo bôi vết thương từ trà, rẻ bằng 1/10 hàng ngoại",
+      "link": "https://vnexpress.net/hoc-sinh-che-keo-boi-vet-thuong-tu-tra-re-bang-1-10-hang-ngoai-5066602.html",
+      "summary": "Dùng chất chiết xuất từ lá trà, vỏ tôm và nano bạc, 5 học sinh tạo ra keo dán vết thương với giá 18-35.000 đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:06:00+07:00",
+      "fetched": "2026-05-01T05:41:49.899060+07:00"
+    },
+    {
+      "id": "49a826e6ef42026aab354f619473ac7f",
+      "title": "Metro Bến Thành - Thủ Thiêm sẽ đi ngầm qua đáy sông Sài Gòn",
+      "link": "https://vnexpress.net/metro-ben-thanh-thu-thiem-se-di-ngam-qua-day-song-sai-gon-5068491.html",
+      "summary": "Tuyến metro Bến Thành - Thủ Thiêm dài 6 km đi ngầm hoàn toàn, chui qua đáy sông Sài Gòn ở độ sâu 41 m tính từ mặt nước với ga Hàm Nghi sâu 33 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:00:00+07:00",
+      "fetched": "2026-05-01T05:41:49.899220+07:00"
+    },
+    {
+      "id": "d57bbc9c9c147ccf4573dcc5ac66bbad",
+      "title": "Hãng máy hút bụi Trung Quốc ra mắt concept ôtô gắn tên lửa",
+      "link": "https://vnexpress.net/hang-may-hut-bui-trung-quoc-ra-mat-concept-oto-gan-ten-lua-5068607.html",
+      "summary": "Mẫu concept Nebula NEXT 01 Jet Edition của hãng Dreame sử dụng hai tên lửa đẩy nhiên liệu rắn, cho thời gian tăng tốc 0-100 km/h chỉ dưới 1 giây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:00:00+07:00",
+      "fetched": "2026-05-01T05:41:49.899391+07:00"
+    },
+    {
+      "id": "ae4a4fa961e85da5ef5944355a45d35d",
+      "title": "5 thói quen khi đi du lịch hại đường tiết niệu",
+      "link": "https://vnexpress.net/5-thoi-quen-khi-di-du-lich-hai-duong-tiet-nieu-5068658.html",
+      "summary": "Nhịn tiểu, uống ít nước, ngồi lâu trên xe là những yếu tố làm tăng nguy cơ nhiễm khuẩn dẫn đến viêm đường tiết niệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:00:00+07:00",
+      "fetched": "2026-05-01T05:41:49.899588+07:00"
+    },
+    {
+      "id": "8ad130984b0856c1288d321c10f27bd3",
+      "title": "Bác sĩ chỉ cách bảo vệ khớp gối khi trekking dịp lễ",
+      "link": "https://vnexpress.net/bac-si-chi-cach-bao-ve-khop-goi-khi-trekking-dip-le-5068657.html",
+      "summary": "Sử dụng dụng cụ bảo hộ, di chuyển đúng cách, không gắng sức quá mức để bảo vệ khớp gối khi trekking.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:00:00+07:00",
+      "fetched": "2026-05-01T05:41:49.899751+07:00"
+    },
+    {
+      "id": "770c99377510565330e90f16f401d508",
+      "title": "Có thể uống thuốc hạ sốt khi mang thai?",
+      "link": "https://vnexpress.net/co-the-uong-thuoc-ha-sot-khi-mang-thai-5068576.html",
+      "summary": "Tôi mang thai 13 tuần, sốt 38,5 độ C thì có thể uống thuốc hạ sốt không, có ảnh hưởng đến sự phát triển của bé không? (Thảo, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:00:00+07:00",
+      "fetched": "2026-05-01T05:41:49.899913+07:00"
+    },
+    {
+      "id": "8b8d29450d4cc6d93cc1a4e168880dc8",
+      "title": "Chiến sự Ukraine ngày 1.527: UAV tấn công nhiều nơi, ông Putin đề xuất ngừng bắn",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1527-uav-tan-cong-nhieu-noi-ong-putin-de-xuat-ngung-ban-185260430181040399.htm",
+      "summary": "Tổng thống Nga Vladimir Putin đã có cuộc điện đàm với Tổng thống Mỹ Donald Trump và đề xuất ngừng bắn ngắn hạn tại Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:00:00+07:00",
+      "fetched": "2026-05-01T05:41:52.825024+07:00"
+    },
+    {
+      "id": "5a93f4778de0268d648e3826ab54d934",
+      "title": "Nguồn gốc ngày Quốc tế lao động 1.5 từ đâu? Lịch âm hôm nay có gì lưu ý?",
+      "link": "https://thanhnien.vn/nguon-goc-ngay-quoc-te-lao-dong-15-tu-dau-lich-am-hom-nay-co-gi-luu-y-185260429152224059.htm",
+      "summary": "Hôm nay là ngày Quốc tế lao động 1.5, cũng là ngày thứ 2 trong kỳ nghỉ lễ 30.4 - 1.5 kéo dài 4 ngày. Vậy, nguồn gốc ngày Quốc tế lao động từ đâu, ý nghĩa thế nào? Vì sao lịch âm hôm nay được người Việt quan tâm lớn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:00:00+07:00",
+      "fetched": "2026-05-01T05:41:52.825183+07:00"
+    },
+    {
+      "id": "14b9735e3ec2d1023193d08757f32b1d",
+      "title": "Tình hình Iran, Trung Đông mới nhất ngày 1.5",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-ngay-15-185260430211656783.htm",
+      "summary": "Cả Lãnh tụ tối cao Iran lẫn Chủ tịch Quốc hội Iran đều gửi đi thông điệp cho thấy nước này không muốn có sự can thiệp của Mỹ ở eo biển Hormuz.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T21:30:00+07:00",
+      "fetched": "2026-05-01T05:41:52.825337+07:00"
+    },
+    {
+      "id": "6fe97d1170f68b81333a436462b1b658",
+      "title": "World Cup 2026 trước giờ G: Quy mô khổng lồ nhưng nhiều tranh cãi",
+      "link": "https://thanhnien.vn/world-cup-2026-truoc-gio-g-quy-mo-khong-lo-nhung-nhieu-tranh-cai-185260430160410277.htm",
+      "summary": "Chỉ còn hơn 1 tháng trước khi World Cup 2026 khởi tranh, giải đấu lớn nhất hành tinh lại đối mặt nhiều tranh cãi liên quan đến giá vé, an ninh và các yếu tố chính trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T21:03:00+07:00",
+      "fetched": "2026-05-01T05:41:52.825521+07:00"
+    },
+    {
+      "id": "55be9b113323257ae38140c83fd68ba3",
+      "title": "Công đoàn sẽ nghiên cứu phương án hoán đổi lịch nghỉ lễ 24/11",
+      "link": "https://vnexpress.net/cong-doan-se-nghien-cuu-phuong-an-hoan-doi-lich-nghi-le-24-11-5068767.html",
+      "summary": "Tổng liên đoàn sẽ trao đổi với Bộ Nội vụ để có đề xuất phù hợp báo cáo Thủ tướng trước mong muốn của lao động hoán đổi lịch làm việc để kéo dài nghỉ lễ ngày Văn hóa Việt Nam 24/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T21:00:00+07:00",
+      "fetched": "2026-05-01T05:41:49.900077+07:00"
+    },
+    {
+      "id": "d5bf82bf160109885303611a515ae8f8",
+      "title": "Ôtô đi ngược chiều cao tốc rọi đèn chói như mặt trời",
+      "link": "https://vnexpress.net/oto-di-nguoc-chieu-cao-toc-roi-den-choi-nhu-mat-troi-5068718.html",
+      "summary": "Lái xe có gắn camera hành trình bị lóa đèn của ôtô đi ngược chiều cao tốc lúc 3h sáng, hôm 28/4 tại Cao tốc Lộ Tẻ - Rạch Sỏi đoạn Km2170.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T21:00:00+07:00",
+      "fetched": "2026-05-01T05:41:49.900242+07:00"
+    },
+    {
+      "id": "b288f8d81ef3e1f037333867137efb66",
+      "title": "Cách bảo quản thực phẩm khi đi cắm trại",
+      "link": "https://vnexpress.net/cach-bao-quan-thuc-pham-khi-di-cam-trai-5068587.html",
+      "summary": "Sơ chế món ăn tại nhà, hút chân không và phân tách đồ sống - chín giúp giảm nguy cơ ngộ độc thực phẩm trong các chuyến dã ngoại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T21:00:00+07:00",
+      "fetched": "2026-05-01T05:41:49.900405+07:00"
+    },
+    {
+      "id": "3a68b59a15509b5a630beb50591e5dfb",
+      "title": "Cự ly 21km VM Green Paradise Cần Giờ xuất phát",
+      "link": "https://vnexpress.net/5-000-runner-chinh-phuc-duong-dua-xuyen-rung-cham-bien-can-gio-5068772.html",
+      "summary": "1.500 VĐV 21km xuất phát lúc 5h, tiếp tục đưa đoàn người tỏa khắp Đại lộ Thời đại. Lúc này, Huỳnh Anh Khôi đang dẫn đầu 42km nam trong khi nội dung nữ chứng kiến đua tranh quyết liệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T20:30:00+07:00",
+      "fetched": "2026-05-01T05:41:49.900592+07:00"
+    },
+    {
       "id": "909dffa303dd66a8f96b362b714c55d2",
       "title": "Kinh tế Mỹ tăng tốc",
       "link": "https://vnexpress.net/kinh-te-my-tang-toc-5068751.html",
@@ -211,6 +461,16 @@ window.newsData_2026_05_01 = {
       "category": "Tổng hợp",
       "published": "2026-04-30T19:15:00+07:00",
       "fetched": "2026-05-01T03:50:21.299876+07:00"
+    },
+    {
+      "id": "530e988481f25495ca625408790ab08a",
+      "title": "Vì sao lặn biển có thể gây thủng màng nhĩ?",
+      "link": "https://vnexpress.net/vi-sao-lan-bien-co-the-gay-thung-mang-nhi-5068506.html",
+      "summary": "Chênh lệch áp suất lớn và đột ngột ở tai giữa và môi trường bên ngoài khi lặn biển khiến màng nhĩ căng quá mức, có thể gây thủng, rách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T19:00:00+07:00",
+      "fetched": "2026-05-01T05:41:49.900916+07:00"
     },
     {
       "id": "f6eba1ce01d5b7a4e779219853e52470",
