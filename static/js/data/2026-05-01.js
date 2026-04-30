@@ -1,6 +1,6 @@
 window.newsData_2026_05_01 = {
   "date": "2026-05-01",
-  "lastUpdated": "2026-05-01T02:05:45.600751+07:00",
+  "lastUpdated": "2026-05-01T03:50:31.724567+07:00",
   "articles": [
     {
       "id": "9382a89d8394e3eeddf28c15122eb094",
@@ -181,6 +181,36 @@ window.newsData_2026_05_01 = {
       "category": "Tổng hợp",
       "published": "2026-05-01T00:08:54.156586+07:00",
       "fetched": "2026-05-01T00:08:54.156805+07:00"
+    },
+    {
+      "id": "909dffa303dd66a8f96b362b714c55d2",
+      "title": "Kinh tế Mỹ tăng tốc",
+      "link": "https://vnexpress.net/kinh-te-my-tang-toc-5068751.html",
+      "summary": "Sau khi chậm lại vào cuối năm 2025, tăng trưởng GDP Mỹ tăng tốc trong quý I nhờ chi tiêu công phục hồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T20:05:36+07:00",
+      "fetched": "2026-05-01T03:50:18.106331+07:00"
+    },
+    {
+      "id": "909dffa303dd66a8f96b362b714c55d2",
+      "title": "Kinh tế Mỹ tăng tốc",
+      "link": "https://vnexpress.net/kinh-te-my-tang-toc-5068751.html",
+      "summary": "Sau khi chậm lại vào cuối năm 2025, tăng trưởng GDP Mỹ tăng tốc trong quý I nhờ chi tiêu công phục hồi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-30T20:05:36+07:00",
+      "fetched": "2026-05-01T03:50:26.440044+07:00"
+    },
+    {
+      "id": "ce5b24467c636a4156796e5edc5f1e2b",
+      "title": "Cá tươi hay cá đông lạnh: Loại nào thực sự tốt hơn cho sức khỏe?",
+      "link": "https://thanhnien.vn/ca-tuoi-hay-ca-dong-lanh-loai-nao-thuc-su-tot-hon-cho-suc-khoe-185260501003553923.htm",
+      "summary": "Trong suy nghĩ của nhiều người, cá tươi luôn được xem là tốt hơn so với cá đông lạnh. Nhưng thực tế, giá trị dinh dưỡng của cá còn phụ thuộc vào thời điểm đánh bắt, điều kiện bảo quản và thời gian lưu trữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T19:15:00+07:00",
+      "fetched": "2026-05-01T03:50:21.299876+07:00"
     },
     {
       "id": "f6eba1ce01d5b7a4e779219853e52470",
