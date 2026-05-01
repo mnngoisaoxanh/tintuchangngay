@@ -1,7 +1,157 @@
 window.newsData_2026_05_01 = {
   "date": "2026-05-01",
-  "lastUpdated": "2026-05-01T13:31:22.528726+07:00",
+  "lastUpdated": "2026-05-01T16:25:52.129928+07:00",
   "articles": [
+    {
+      "id": "eaa88b81b78f2a20bbfd1a9e7bff7891",
+      "title": "Thông xe nhánh cầu vượt N3 thuộc nút giao An Phú",
+      "link": "https://tuoitre.vn/thong-xe-nhanh-cau-vuot-n3-thuoc-nut-giao-an-phu-20260501132024211.htm",
+      "summary": "Trưa 1-5, hạng mục cầu vượt N3 thuộc nút giao An Phú đã thông xe, kết nối đường Mai Chí Thọ với đường Đồng Văn Cống, góp phần giảm ùn tắc cửa ngõ phía đông thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.971984+07:00",
+      "fetched": "2026-05-01T16:25:43.972117+07:00"
+    },
+    {
+      "id": "80912fcebd3d08e05b55e57b8c220983",
+      "title": "VnExpress Marathon Green Paradise Cần Giờ: chạy và tận hưởng",
+      "link": "https://tuoitre.vn/vnexpress-marathon-green-paradise-can-gio-chay-va-tan-huong-20260501111109712.htm",
+      "summary": "Bầu không khí trong lành, khí hậu mát mẻ từ những cơn gió biển đã mang đến cho các runner những ngày nghỉ lễ sảng khoái, vui tươi tại VnExpress Marathon Green Paradise Cần Giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.971857+07:00",
+      "fetched": "2026-05-01T16:25:43.971973+07:00"
+    },
+    {
+      "id": "80d097cd3a5330354fc772b0e327c17b",
+      "title": "Lâm Đồng điều tra vụ tàu hỏa tông tử vong nhân viên tuần đường",
+      "link": "https://tuoitre.vn/lam-dong-dieu-tra-vu-tau-hoa-tong-tu-vong-nhan-vien-tuan-duong-20260501123547511.htm",
+      "summary": "Một nhân viên tuần đường tử vong khi đang làm nhiệm vụ trên tuyến đường sắt Bắc - Nam đoạn qua xã Hàm Kiệm, tỉnh Lâm Đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.971729+07:00",
+      "fetched": "2026-05-01T16:25:43.971844+07:00"
+    },
+    {
+      "id": "40e69528bda7c357c47063f55429d53a",
+      "title": "Những khoảnh khắc ấn tượng tại VnExpress Marathon Green Paradise Cần Giờ",
+      "link": "https://tuoitre.vn/nhung-khoanh-khac-an-tuong-tai-vnexpress-marathon-green-paradise-can-gio-20260501115004324.htm",
+      "summary": "Sáng 1-5,  5.000 VĐV đã tranh tài tại VnExpress Marathon Green Paradise Cần Giờ, tạo nên bầu không khí vô cùng sôi nổi tại đô thị Vinhomes Green Paradise Cần Giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.971603+07:00",
+      "fetched": "2026-05-01T16:25:43.971718+07:00"
+    },
+    {
+      "id": "bac24d7102a5307b8e12869c2c3287ab",
+      "title": "Iran tấn công, gây thiệt hại gần 3 tỉ USD vũ khí cho Mỹ",
+      "link": "https://tuoitre.vn/iran-tan-cong-gay-thiet-hai-gan-3-ti-usd-vu-khi-cho-my-2026050112292141.htm",
+      "summary": "Mỹ đã chịu thiệt hại tới gần 3 tỉ USD thiết bị quân sự, trong đó có các hệ thống radar và máy bay tối tân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.971473+07:00",
+      "fetched": "2026-05-01T16:25:43.971592+07:00"
+    },
+    {
+      "id": "99671fd9089f55043c71e051c35e390f",
+      "title": "Cô Tô ‘hot’ dịp lễ 30-4, du khách ùn ùn lên tàu ra đảo",
+      "link": "https://tuoitre.vn/co-to-hot-dip-le-30-4-du-khach-un-un-len-tau-ra-dao-20260501122026343.htm",
+      "summary": "Dịp lễ 30-4, điểm đến biển đảo tại miền Bắc thu hút du khách, riêng trong ngày đầu nghỉ lễ, đảo Cô Tô (tỉnh Quảng Ninh) đã thu hút lượng khách lớn. Công suất phòng dịp lễ trên 90%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.971325+07:00",
+      "fetched": "2026-05-01T16:25:43.971461+07:00"
+    },
+    {
+      "id": "36d01617901ef8e1e8e30401efd7a78a",
+      "title": "Hệ lụy kinh tế do 'điểm nghẽn' Hormuz nghiêm trọng hơn từng giờ",
+      "link": "https://tuoitre.vn/he-luy-kinh-te-do-diem-nghen-hormuz-nghiem-trong-hon-tung-gio-20260501122252141.htm",
+      "summary": "Tổng thư ký Antonio Guterres cảnh báo tình trạng gián đoạn tại Hormuz đang gây ra những hệ lụy nghiêm trọng cho kinh tế thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.971199+07:00",
+      "fetched": "2026-05-01T16:25:43.971314+07:00"
+    },
+    {
+      "id": "793b49fcc56fb3c0ebb2231bffdb8ff3",
+      "title": "Tìm thấy thi thể người đàn ông 'nhậu rồi xuống đập tắm'",
+      "link": "https://tuoitre.vn/tim-thay-thi-the-nguoi-dan-ong-nhau-roi-xuong-dap-tam-20260501120409997.htm",
+      "summary": "9 thợ lặn địa phương cùng lực lượng chức năng quần thảo tại đập Hòa Lang cả buổi sáng 1-5. Đến 10h15 đã tìm thấy thi thể người đàn ông \"đang nhậu thì xuống tắm, bơi ra giữa hồ thì đuối nước, mất tích\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.971072+07:00",
+      "fetched": "2026-05-01T16:25:43.971188+07:00"
+    },
+    {
+      "id": "1790effcfc0d1e893c118a6310f9ae50",
+      "title": "Kết quả kinh doanh tích cực, Vietjet tự tin bước vào giai đoạn tăng trưởng mới",
+      "link": "https://tuoitre.vn/ket-qua-kinh-doanh-tich-cuc-vietjet-tu-tin-buoc-vao-giai-doan-tang-truong-moi-20260501140013373.htm",
+      "summary": "Công ty cổ phần Hàng không Vietjet Air (HOSE: VJC) vừa công bố báo cáo tài chính quý 1-2026, ghi nhận kết quả kinh doanh tăng trưởng mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.970947+07:00",
+      "fetched": "2026-05-01T16:25:43.971061+07:00"
+    },
+    {
+      "id": "86a28bfe7e5745f18865f20bb40ad5f6",
+      "title": "Tháng 5, nắng nóng có thể nhiều hơn, mùa mưa Nam Bộ đến muộn hơn",
+      "link": "https://tuoitre.vn/thang-5-nang-nong-kha-nang-nhieu-hon-mua-mua-nam-bo-den-muon-hon-20260501124941305.htm",
+      "summary": "Dự báo trong tháng 5, nắng nóng trên cả nước có khả năng xảy ra nhiều hơn so với các năm, còn mùa mưa ở cao nguyên Trung Bộ (Tây Nguyên) và Nam Bộ cũng đến muộn hơn so với các năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.970816+07:00",
+      "fetched": "2026-05-01T16:25:43.970935+07:00"
+    },
+    {
+      "id": "ef4d2eab3a1f0d230db5d7a8849882c2",
+      "title": "Tay đua hệ Exciter thiệt mạng ở chặng 2 tại Cần Thơ",
+      "link": "https://tuoitre.vn/tay-dua-he-exciter-thiet-mang-o-chang-2-tai-can-tho-20260501134850488.htm",
+      "summary": "Tay đua Đinh Hoàng Quốc Hiếu qua đời sau khi tông vào hàng rào ở Giải đua xe mô tô sân tròn cúp vô địch quốc gia lần thứ 2 năm 2026 tại sân vận động Cần Thơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.970687+07:00",
+      "fetched": "2026-05-01T16:25:43.970805+07:00"
+    },
+    {
+      "id": "5b0183d78602400c0f5f4b290397d77a",
+      "title": "Lực lượng chức năng dẹp lán trại ăn nhậu nhếch nhác, cắm trại đêm quanh bán đảo Sơn Trà",
+      "link": "https://tuoitre.vn/luc-luong-chuc-nang-dep-lan-trai-an-nhau-nhech-nhac-cam-trai-dem-quanh-ban-dao-son-tra-20260501132831359.htm",
+      "summary": "Trước việc du khách đổ về các bãi biển đông đúc và tổ chức ăn uống, cắm trại ở khu vực chưa được cấp phép, các lực lượng chức năng tại TP Đà Nẵng huy động người xử lý xuyên lễ 30-4, 1-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.970552+07:00",
+      "fetched": "2026-05-01T16:25:43.970675+07:00"
+    },
+    {
+      "id": "152d93a15621409492825087c9b01106",
+      "title": "11 khoảnh khắc ấn tượng nhất tại đêm vinh danh Phụ nữ trong âm nhạc Billboard 2026",
+      "link": "https://tuoitre.vn/11-khoanh-khac-an-tuong-nhat-tai-le-vinh-danh-phu-nu-trong-am-nhac-billboard-2026-2026050113551419.htm",
+      "summary": "Từ những màn trình diễn bùng nổ cho đến những phát biểu đầy cảm xúc, đêm vinh danh Phụ nữ trong âm nhạc (Women in Music) 2026 của tạp chí Billboard đã mang đến một bức tranh truyền cảm hứng mạnh mẽ về tình đoàn kết và sức mạnh của phái nữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.970366+07:00",
+      "fetched": "2026-05-01T16:25:43.970538+07:00"
+    },
+    {
+      "id": "638f97b645d7c62cbbe49c8a5dc4b8f1",
+      "title": "Du khách chen chân ở Lô Lô Chải, Sa Pa dịp lễ 30-4, 1-5",
+      "link": "https://tuoitre.vn/du-khach-chen-chan-o-lo-lo-chai-sa-pa-dip-le-30-4-1-5-20260501131653767.htm",
+      "summary": "Không chỉ điểm đến biển đảo được yêu thích, các bản làng cổ tích ở Tuyên Quang, Sa Pa (tỉnh Lào Cai) cũng đông nghẹt khách dịp lễ 30-4 và 1-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.970224+07:00",
+      "fetched": "2026-05-01T16:25:43.970353+07:00"
+    },
+    {
+      "id": "9f0b2572e3a97119cdd4378e85b5f615",
+      "title": "Honda City 2026 chạy thử trên đường: nhiều đường nét của Civic, thêm trang bị tiện nghi",
+      "link": "https://tuoitre.vn/honda-city-2026-chay-thu-tren-duong-nhieu-duong-net-cua-civic-them-trang-bi-tien-nghi-20260501112810837.htm",
+      "summary": "Những hình ảnh thực tế đầu tiên của Honda City 2026 cho thấy mẫu sedan hạng B này đang bước vào giai đoạn hoàn thiện trước khi ra mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:25:43.969992+07:00",
+      "fetched": "2026-05-01T16:25:43.970208+07:00"
+    },
     {
       "id": "b40dedebe310e92afdb1e7b22c659633",
       "title": "Ông Trump từ chối mặc áo chống đạn vì sợ... trông mập hơn",
@@ -151,6 +301,46 @@ window.newsData_2026_05_01 = {
       "category": "Tổng hợp",
       "published": "2026-05-01T13:31:15.608043+07:00",
       "fetched": "2026-05-01T13:31:15.608264+07:00"
+    },
+    {
+      "id": "63b684121869026c24d35771c4cce5a8",
+      "title": "Trường học lịch sử 'không vách ngăn'",
+      "link": "https://thanhnien.vn/truong-hoc-lich-su-khong-vach-ngan-185260501152922712.htm",
+      "summary": "Giữa thủ đô Hà Nội, Trung tâm Giáo dục truyền thống và lịch sử của ông Lê Xuân Niêm, một người lính già, đã thu hút hàng triệu người tìm đến để trải nghiệm hơn 30 năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:16:00+07:00",
+      "fetched": "2026-05-01T16:25:42.878032+07:00"
+    },
+    {
+      "id": "64806388e16af8ecf6ca28c9500473e6",
+      "title": "Mẫu ảnh bán bánh tráng, xe hủ tiếu bán trà sữa: Phố đêm Bình Tây có gì thú vị?",
+      "link": "https://thanhnien.vn/mau-anh-ban-banh-trang-xe-hu-tieu-ban-tra-sua-pho-dem-binh-tay-co-gi-thu-vi-185260501161241535.htm",
+      "summary": "Phía sau sự nhộn nhịp của Phố đêm Bình Tây vừa mới ra mắt là những ý tưởng kinh doanh đầy thú vị mang đậm dấu ấn cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:12:00+07:00",
+      "fetched": "2026-05-01T16:25:42.878204+07:00"
+    },
+    {
+      "id": "f6d6a0a3abf3fc1dc7e7fd85de7a4c93",
+      "title": "Nghỉ lễ 30.4 - 1.5, du khách thích mê tour đêm Hạ Long",
+      "link": "https://thanhnien.vn/nghi-le-304-15-du-khach-thich-me-tour-dem-ha-long-185260501152133065.htm",
+      "summary": "Du khách thích mê tour đêm Hạ Long dịp nghỉ lễ 30.4 - 1.5 khi mỗi tối đều có pháo hoa tầm cao rực rỡ, kết hợp \"Sóng hội ánh sáng\" và phố đêm VUI-Fest, tạo trải nghiệm mới lạ, giữ chân du khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:10:00+07:00",
+      "fetched": "2026-05-01T16:25:42.878366+07:00"
+    },
+    {
+      "id": "d5ee86bca551ac3df828b21ffaab8dfb",
+      "title": "Châu Phi đang tách làm đôi, sẽ hình thành đại dương mới?",
+      "link": "https://thanhnien.vn/chau-phi-dang-tach-lam-doi-se-hinh-thanh-dai-duong-moi-185260501154929381.htm",
+      "summary": "Các nhà địa chất vừa phát hiện ra rằng lục địa châu Phi sẽ bị chia tách làm hai và một đại dương mới sẽ hình thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:07:00+07:00",
+      "fetched": "2026-05-01T16:25:42.878550+07:00"
     },
     {
       "id": "e64c813bac7430ffa6b4076e266a23e9",
@@ -303,6 +493,336 @@ window.newsData_2026_05_01 = {
       "fetched": "2026-05-01T09:05:24.875148+07:00"
     },
     {
+      "id": "e7613d94d37808aa8743c544c981d436",
+      "title": "Xổ số miền Nam ngày 1 tháng 5 - Kết quả xổ số hôm nay thứ sáu",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-1-thang-5-ket-qua-xo-so-hom-nay-thu-sau-18526050111105837.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 1 tháng 5; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ sáu ngày 1.5.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:00:00+07:00",
+      "fetched": "2026-05-01T16:25:42.878704+07:00"
+    },
+    {
+      "id": "a0ac494a0776a3d5adb02a702f105c4f",
+      "title": "Từ đi chơi đến du lịch: Một chiếc quần shorts denim, nhiều cách diện",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tu-di-choi-den-du-lich-mot-chiec-quan-shorts-denim-nhieu-cach-dien-18526042923283312.htm",
+      "summary": "Chỉ với một chiếc quần shorts denim, nàng vẫn có thể linh hoạt biến hóa phong cách từ dạo phố đến những chuyến đi đầy cảm hứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:00:00+07:00",
+      "fetched": "2026-05-01T16:25:42.878863+07:00"
+    },
+    {
+      "id": "f24428c869dbbff8e6ee8d419f3d6496",
+      "title": "LIV Golf mất nguồn tài trợ hàng tỷ USD",
+      "link": "https://vnexpress.net/liv-golf-mat-nguon-tai-tro-hang-ty-usd-5068914.html",
+      "summary": "Quỹ Đầu tư Công Arab Saudi (PIF) xác nhận sẽ ngừng tài trợ cho hệ thống LIV Golf sau mùa giải 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-01T08:47:26+07:00",
+      "fetched": "2026-05-01T16:25:52.122141+07:00"
+    },
+    {
+      "id": "7e822544cc6bdec5bcfb13f720af8edc",
+      "title": "Quang Liêm thôi làm HLV cờ vua trường đại học Mỹ",
+      "link": "https://vnexpress.net/quang-liem-thoi-lam-hlv-co-vua-truong-dai-hoc-my-5068884.html",
+      "summary": "Siêu đại kiện tướng Lê Quang Liêm xác nhận chia tay chương trình cờ vua của Đại học Webster, sau khi nhà trường dừng hoạt động đội cờ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-01T08:44:46+07:00",
+      "fetched": "2026-05-01T16:25:52.121112+07:00"
+    },
+    {
+      "id": "d76432e693687078bf7a47ad41d999fd",
+      "title": "Đối mặt hạn chót pháp lý, ông Trump có phải dừng xung đột với Iran?",
+      "link": "https://thanhnien.vn/doi-mat-han-chot-phap-ly-ong-trump-co-phai-dung-xung-dot-voi-iran-185260501152820694.htm",
+      "summary": "Một luật liên bang tồn tại nhiều thập niên nhằm hạn chế quyền chiến tranh của tổng thống Mỹ đang trở thành tâm điểm tranh cãi pháp lý về việc kéo dài cuộc xung đột của Mỹ với Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T08:38:00+07:00",
+      "fetched": "2026-05-01T16:25:42.879017+07:00"
+    },
+    {
+      "id": "b9391db2643cc60ce5f0bb75f2fbe80d",
+      "title": "Tuyển Malaysia bị Hội CĐV số 1 tẩy chay",
+      "link": "https://vnexpress.net/tuyen-malaysia-bi-hoi-cdv-so-1-tay-chay-5068918.html",
+      "summary": "Ultras Malaya bắt đầu chiến dịch tẩy chay tất cả các trận đấu của đội tuyển Malaysia, để gây áp lực buộc các cơ quan quản lý bóng đá thực hiện ba yêu cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T08:35:58+07:00",
+      "fetched": "2026-05-01T16:25:39.409066+07:00"
+    },
+    {
+      "id": "b9391db2643cc60ce5f0bb75f2fbe80d",
+      "title": "Tuyển Malaysia bị Hội CĐV số 1 tẩy chay",
+      "link": "https://vnexpress.net/tuyen-malaysia-bi-hoi-cdv-so-1-tay-chay-5068918.html",
+      "summary": "Ultras Malaya bắt đầu chiến dịch tẩy chay tất cả các trận đấu của đội tuyển Malaysia, để gây áp lực buộc các cơ quan quản lý bóng đá thực hiện ba yêu cầu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-01T08:35:58+07:00",
+      "fetched": "2026-05-01T16:25:52.121292+07:00"
+    },
+    {
+      "id": "d8ad2e406fa2428979115b10e477d787",
+      "title": "290 ha mặt nước ven biển Đồ Sơn được chuyển thành đất đô thị, dịch vụ",
+      "link": "https://vnexpress.net/290-ha-mat-nuoc-ven-bien-do-son-duoc-chuyen-thanh-dat-do-thi-dich-vu-5068908.html",
+      "summary": "Hải Phòng điều chỉnh quy hoạch cục bộ, trong đó 290 ha mặt nước ven biển Đồ Sơn được chuyển thành đất hỗn hợp (đô thị, dịch vụ, du lịch).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T08:33:42+07:00",
+      "fetched": "2026-05-01T16:25:39.409254+07:00"
+    },
+    {
+      "id": "baf27a3c1d8afa19a618e76fb96a4675",
+      "title": "Lưu ý hộ kinh doanh lập bảng kê tồn kho để xác định thu nhập chịu thuế",
+      "link": "https://thanhnien.vn/luu-y-ho-kinh-doanh-lap-bang-ke-ton-kho-de-xac-dinh-thu-nhap-chiu-thue-185260501145710781.htm",
+      "summary": "Hộ kinh doanh phải lập, gửi bảng kê hàng tồn kho cùng tờ khai thuế của quý 1 tới cơ quan thuế. Đây là căn cứ để xác định thu nhập chịu thuế thu nhập cá nhân 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T08:29:00+07:00",
+      "fetched": "2026-05-01T16:25:42.879176+07:00"
+    },
+    {
+      "id": "a81569d2e1a5899a352279b05f399cf1",
+      "title": "Vườn thú Hà Nội đông nghịt người, loa phát thanh liên tục cảnh báo móc túi",
+      "link": "https://thanhnien.vn/vuon-thu-ha-noi-dong-nghit-nguoi-loa-phat-thanh-lien-tuc-canh-bao-moc-tui-185260501143809733.htm",
+      "summary": "Dịp nghỉ lễ 30.4 - 1.5, lượng khách đổ về Vườn thú Hà Nội rất đông. Ngoài việc bảo đảm cơ sở vật chất phục vụ khách tham quan, vườn thú cũng liên tục phát loa cảnh báo nạn móc túi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T08:23:00+07:00",
+      "fetched": "2026-05-01T16:25:42.879328+07:00"
+    },
+    {
+      "id": "c6ad38adc1b2a953f53d71040faa8fae",
+      "title": "Hãng ôtô bị phạt khi xe tự lái vi phạm giao thông",
+      "link": "https://vnexpress.net/hang-oto-bi-phat-khi-xe-tu-lai-vi-pham-giao-thong-5068815.html",
+      "summary": "Luật mới ở California đã lấp đầy kẽ hở pháp luật khiến xe tự lái được miễn trừ với vé phạt giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T08:20:15+07:00",
+      "fetched": "2026-05-01T16:25:39.409456+07:00"
+    },
+    {
+      "id": "a12992e18ece26990c971dfc46d8a5cc",
+      "title": "Venezuela ký thỏa thuận dầu khí với hai công ty Mỹ",
+      "link": "https://thanhnien.vn/venezuela-ky-thoa-thuan-dau-khi-voi-hai-cong-ty-my-185260501150011587.htm",
+      "summary": "Chính phủ Venezuela ngày 30.4 ký thỏa thuận với hai công ty Mỹ nhằm tăng cường sản lượng dầu khí, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T08:20:00+07:00",
+      "fetched": "2026-05-01T16:25:42.879502+07:00"
+    },
+    {
+      "id": "4735e370d620accb75b66c7ec295db53",
+      "title": "Vợ trách tôi vô tâm vì 55 tuổi nghỉ hưu sớm khi chưa mua nhà cho con",
+      "link": "https://vnexpress.net/vo-trach-toi-vo-tam-vi-55-tuoi-nghi-huu-som-khi-chua-mua-nha-cho-con-5068907.html",
+      "summary": "Vợ muốn tôi cố làm thêm chục năm nữa, tích góp đủ tiền mua cho con một căn nhà riêng, rồi khi ấy hai vợ chồng nghỉ cũng chưa muộn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T08:16:01+07:00",
+      "fetched": "2026-05-01T16:25:39.409638+07:00"
+    },
+    {
+      "id": "e56606297feb646f4813b44b0f638bca",
+      "title": "Sự thật đằng sau việc Bluetooth lúc được lúc không",
+      "link": "https://thanhnien.vn/su-that-dang-sau-viec-bluetooth-luc-duoc-luc-khong-185260430003906543.htm",
+      "summary": "Bluetooth tưởng chừng quen thuộc nhưng lại dễ \"dở chứng\", từ nhiễu sóng đến giới hạn thiết kế khiến trải nghiệm kết nối không ổn định hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T08:08:00+07:00",
+      "fetched": "2026-05-01T16:25:42.879664+07:00"
+    },
+    {
+      "id": "7ec2fcf92808ba3fb073e533a24511ac",
+      "title": "Nhớ những năm tiếp sức mùa thi không có Google maps, không có ứng dụng đặt phòng...",
+      "link": "https://thanhnien.vn/nho-nhung-nam-tiep-suc-mua-thi-khong-co-google-maps-khong-co-ung-dung-dat-phong-185260501120240027.htm",
+      "summary": "Với thạc sĩ Võ Minh Thành, giảng viên, Bí thư Đoàn khoa Tâm lý học, Trường ĐH Sư phạm TP.HCM, hành trình kéo dài suốt 15 năm gắn bó với Tiếp sức mùa thi là một phần thanh xuân không thể thay thế và phai nhòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T08:07:00+07:00",
+      "fetched": "2026-05-01T16:25:42.879815+07:00"
+    },
+    {
+      "id": "d340dfb2bc0c84ce879c31e1a77a48a1",
+      "title": "Tổ ấm của Ốc Thanh Vân",
+      "link": "https://vnexpress.net/to-am-cua-oc-thanh-van-5068875.html",
+      "summary": "Diễn viên Ốc Thanh Vân nói biết ơn khi có chồng làm chỗ dựa trong cuộc sống, ba người con biết sớm tự lập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T08:06:23+07:00",
+      "fetched": "2026-05-01T16:25:39.409807+07:00"
+    },
+    {
+      "id": "cccb06d8626e9131b16dae267154df33",
+      "title": "Nam bộ gần 38 độ C, ngày mai nắng nóng quay lại miền Trung",
+      "link": "https://thanhnien.vn/nam-bo-gan-38-do-c-ngay-mai-nang-nong-quay-lai-mien-trung-185260501143929807.htm",
+      "summary": "Trưa nay (1.5), Nam bộ nắng nóng gay gắt trên diện rộng, nhiều nơi ghi nhận mức nhiệt gần 38 độ C. Riêng các tỉnh thành miền Trung, ngày mai mức nhiệt cao nhất có nơi vượt 38 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T08:04:00+07:00",
+      "fetched": "2026-05-01T16:25:42.879964+07:00"
+    },
+    {
+      "id": "4e6e93b087109d9aa6470b872316a17a",
+      "title": "40 quán ẩm thực nào ở Cần Thơ được xếp vào hàng trứ danh?",
+      "link": "https://thanhnien.vn/40-quan-am-thuc-nao-o-can-tho-duoc-xep-vao-hang-tru-danh-185260501125657761.htm",
+      "summary": "Thành phố Cần Thơ vừa vinh danh 40 quán trứ danh nhằm quảng bá các món ẩm thực đặc trưng, giúp du khách có sự lựa chọn trải nghiệm hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T08:02:00+07:00",
+      "fetched": "2026-05-01T16:25:42.880120+07:00"
+    },
+    {
+      "id": "13e78ef2bbd64b7d42c4a1000e31e8b7",
+      "title": "Giảm cảnh chen chúc ở Bệnh viện Mắt TP HCM bằng cách mở thêm nhiều cơ sở",
+      "link": "https://vnexpress.net/giam-canh-chen-chuc-o-benh-vien-mat-tp-hcm-bang-cach-mo-them-nhieu-co-so-5068811.html",
+      "summary": "Bệnh viện Mắt TP HCM tiếp nhận thêm hai cơ sở mới nhằm giảm quá tải bệnh nhân đồng thời mở rộng mạng lưới nhãn khoa chuyên sâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T08:00:00+07:00",
+      "fetched": "2026-05-01T16:25:39.409971+07:00"
+    },
+    {
+      "id": "3c69bc37a05585cce276e138ac1fdb4f",
+      "title": "Người lướt ván kể khoảnh khắc bị cá mập rượt đuổi",
+      "link": "https://vnexpress.net/nguoi-luot-van-ke-khoanh-khac-bi-ca-map-ruot-duoi-5068895.html",
+      "summary": "Ron Takeda và Tavis Boise đang lướt ván ở cách bờ biển Santa Barbara, California, vài km thì phát hiện một con vật lớn đang bám theo phía sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T07:55:15+07:00",
+      "fetched": "2026-05-01T16:25:39.410138+07:00"
+    },
+    {
+      "id": "3c69bc37a05585cce276e138ac1fdb4f",
+      "title": "Người lướt ván kể khoảnh khắc bị cá mập rượt đuổi",
+      "link": "https://vnexpress.net/nguoi-luot-van-ke-khoanh-khac-bi-ca-map-ruot-duoi-5068895.html",
+      "summary": "Ron Takeda và Tavis Boise đang lướt ván ở cách bờ biển Santa Barbara, California, vài km thì phát hiện một con vật lớn đang bám theo phía sau.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-01T07:55:15+07:00",
+      "fetched": "2026-05-01T16:25:45.336959+07:00"
+    },
+    {
+      "id": "b4f67ed9b568133ec823075470e5e960",
+      "title": "Bác sĩ ơi: Làm sao sơ cứu trẻ sơ sinh bị ọc sữa, hóc thức ăn dặm?",
+      "link": "https://thanhnien.vn/bac-si-oi-lam-sao-so-cuu-tre-so-sinh-bi-oc-sua-hoc-thuc-an-dam-185260501144444574.htm",
+      "summary": "Chỉ một lần ọc sữa hay hóc thức ăn dặm cũng có thể khiến trẻ sơ sinh rơi vào tình huống nguy hiểm nếu xử lý sai cách. Nhiều cha mẹ lúng túng, thậm chí áp dụng mẹo truyền miệng phản khoa học. Vậy đâu là cách sơ cứu trẻ sơ sinh đúng khi trẻ bị sặc, nghẹt thở?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T07:54:00+07:00",
+      "fetched": "2026-05-01T16:25:42.880271+07:00"
+    },
+    {
+      "id": "cecb4d70a442182d2c866c6367611683",
+      "title": "Xét xử băng bắt cóc đại gia Trung Quốc đòi 5 triệu USDT ở TP HCM",
+      "link": "https://vnexpress.net/xet-xu-bang-bat-coc-dai-gia-trung-quoc-doi-5-trieu-usdt-o-tp-hcm-5068863.html",
+      "summary": "Ma Cai cùng hai người Trung Quốc thuê người theo dõi, bắt cóc đại gia đồng hương, ép chuyển 10 triệu USDT, sau đó giảm còn 5 triệu USDT (khoảng 125 tỷ đồng).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T07:47:48+07:00",
+      "fetched": "2026-05-01T16:25:39.410295+07:00"
+    },
+    {
+      "id": "fbb6a84f255a43632a1acfd410c64ad8",
+      "title": "Nên quay mặt hay quay lưng khi tắm vòi sen?",
+      "link": "https://vnexpress.net/nen-quay-mat-hay-quay-lung-khi-tam-voi-sen-5068804.html",
+      "summary": "Các chuyên gia da liễu cho biết việc quay mặt hay quay lưng khi tắm vòi sen phụ thuộc vào sự cân bằng giữa nhu cầu thư giãn hệ thần kinh và bảo vệ làn da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T07:33:37+07:00",
+      "fetched": "2026-05-01T16:25:39.410506+07:00"
+    },
+    {
+      "id": "15198076c1097ebeacb4f15c41daade6",
+      "title": "Kinh doanh casino, karaoke có thể không cần xin giấy phép",
+      "link": "https://vnexpress.net/kinh-doanh-casino-karaoke-co-the-khong-can-xin-giay-phep-5068886.html",
+      "summary": "Bộ Tài chính đề xuất bỏ giấy phép cho 58 ngành, nghề kinh doanh có điều kiện, trong đó có casino, karaoke, vũ trường, môi giới bảo hiểm, khí, xuất khẩu gạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T07:27:36+07:00",
+      "fetched": "2026-05-01T16:25:39.410691+07:00"
+    },
+    {
+      "id": "15198076c1097ebeacb4f15c41daade6",
+      "title": "Kinh doanh casino, karaoke có thể không cần xin giấy phép",
+      "link": "https://vnexpress.net/kinh-doanh-casino-karaoke-co-the-khong-can-xin-giay-phep-5068886.html",
+      "summary": "Bộ Tài chính đề xuất bỏ giấy phép cho 58 ngành, nghề kinh doanh có điều kiện, trong đó có casino, karaoke, vũ trường, môi giới bảo hiểm, khí, xuất khẩu gạo.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-01T07:27:36+07:00",
+      "fetched": "2026-05-01T16:25:47.306617+07:00"
+    },
+    {
+      "id": "dac4bcc472f0b5a58be5184339bbf836",
+      "title": "Hết lòng với nhà nội vẫn bị mẹ chồng ghét",
+      "link": "https://vnexpress.net/het-long-voi-nha-noi-van-bi-me-chong-ghet-5068845.html",
+      "summary": "Tôi cảm thấy như bị giam cầm trong ngôi nhà này, cũng không thể ép chồng ra riêng vì mẹ chồng chỉ sống một mình sau khi bố chồng mất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T07:00:00+07:00",
+      "fetched": "2026-05-01T16:25:39.410850+07:00"
+    },
+    {
+      "id": "75955ed7ad0bfac77adac7b050891bbe",
+      "title": "Đột quỵ do huyết áp cao",
+      "link": "https://vnexpress.net/dot-quy-do-huyet-ap-cao-5068805.html",
+      "summary": "Nam thanh niên 21 tuổi vào viện cấp cứu vì đau đầu, yếu tay chân, người nhà phán đoán đột quỵ do \"tắm đêm\" song nguyên nhân thì khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T07:00:00+07:00",
+      "fetched": "2026-05-01T16:25:39.411005+07:00"
+    },
+    {
+      "id": "5aec3d6f2f10a1a0d4ad6f9f49388826",
+      "title": "Bạn có biết câu tục ngữ khó nhằn này là gì?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-ban-co-biet-cau-tuc-ngu-kho-nhan-nay-la-gi-5068201.html",
+      "summary": "Tục ngữ thể hiện câu nói khẳng định tầm quan trọng của việc học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T07:00:00+07:00",
+      "fetched": "2026-05-01T16:25:39.411161+07:00"
+    },
+    {
+      "id": "7bf5c9ca64107b70e8101a6a81cc3b8b",
+      "title": "Chàng trai chạy 21 km để làm lễ 'nhập gia' nhà vợ",
+      "link": "https://vnexpress.net/chang-trai-chay-21km-lam-le-nhap-gia-nha-vo-5068475.html",
+      "summary": "Sau 6 tháng kết hôn, Phạm Duy Ngọc (30 tuổi) được vợ gợi ý làm lễ 'nhập gia' bằng việc chạy 21km tại giải VM Green Paradise Cần Giờ cùng bố, mẹ và em trai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T07:00:00+07:00",
+      "fetched": "2026-05-01T16:25:39.411314+07:00"
+    },
+    {
+      "id": "8b649c0cc0e7881340eb9019428eb07d",
+      "title": "Hai ngôi đền tâm linh dưới chân đèo Ngang",
+      "link": "https://vnexpress.net/hai-ngoi-den-tam-linh-duoi-chan-deo-ngang-5065836.html",
+      "summary": "Hai ngôi đền tại Hà Tĩnh và Quảng Trị cùng thờ phụng Thánh mẫu Liễu Hạnh giúp du khách có thêm điểm đến chiêm bái, cầu an khi đi ngang vùng ranh giới miền Trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T06:57:19+07:00",
+      "fetched": "2026-05-01T16:25:39.411517+07:00"
+    },
+    {
+      "id": "b21dd4d0c73b7f44c31dc0a32d5814ac",
+      "title": "Cầu thủ Indonesia bị cấm 3 năm vì đá kungfu vào lưng đối phương",
+      "link": "https://vnexpress.net/cau-thu-indonesia-bi-cam-3-nam-vi-da-kungfu-vao-lung-doi-phuong-5068897.html",
+      "summary": "LĐBĐ Indonesia đưa ra án cấm từ một đến ba năm cho 8 cầu thủ, liên quan vụ ẩu đả trong trận Dewa United thắng Bhayangkara FC 2-1 ở giải U20 Indonesia hôm 19/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-01T06:55:27+07:00",
+      "fetched": "2026-05-01T16:25:52.121484+07:00"
+    },
+    {
+      "id": "44acfb141b517506cfd12993a80dcd24",
+      "title": "Khoảnh khắc Mật vụ Mỹ nổ súng vào nghi phạm mưu sát ông Trump",
+      "link": "https://vnexpress.net/khoanh-khac-mat-vu-my-no-sung-vao-nghi-pham-muu-sat-ong-trump-5068843.html",
+      "summary": "Công tố viên Mỹ công bố video khoảnh khắc Mật vụ Mỹ khai hỏa khi Cole Allen cầm súng xông vào nơi tổ chức bữa tiệc có ông Trump tham dự tại Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-01T06:34:00+07:00",
+      "fetched": "2026-05-01T16:25:45.337137+07:00"
+    },
+    {
       "id": "f05effd0749b34af32da9a0a5de87108",
       "title": "Mark Zuckerberg lý giải nguyên do đẩy Meta vào '28 ngày địa ngục'",
       "link": "https://vnexpress.net/mark-zuckerberg-ly-giai-nguyen-do-day-meta-vao-28-ngay-dia-nguc-5068854.html",
@@ -431,6 +951,16 @@ window.newsData_2026_05_01 = {
       "category": "Kinh doanh",
       "published": "2026-05-01T05:30:21+07:00",
       "fetched": "2026-05-01T13:31:18.451100+07:00"
+    },
+    {
+      "id": "7166469e372dd775ff87f9db9e209b85",
+      "title": "Ông Khuất Việt Hùng tham gia HĐQT Vietjet",
+      "link": "https://vnexpress.net/ong-khuat-viet-hung-tham-gia-hdqt-vietjet-5068870.html",
+      "summary": "Ông Khuất Việt Hùng, Cựu Chủ tịch Công ty Hanoi Metro làm thành viên HĐQT Vietjet.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-01T05:30:21+07:00",
+      "fetched": "2026-05-01T16:25:47.306796+07:00"
     },
     {
       "id": "6e9af25f72fb213414e48bddd3eb526a",
