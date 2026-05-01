@@ -1,7 +1,157 @@
 window.newsData_2026_05_01 = {
   "date": "2026-05-01",
-  "lastUpdated": "2026-05-01T05:41:59.433571+07:00",
+  "lastUpdated": "2026-05-01T09:05:33.602127+07:00",
   "articles": [
+    {
+      "id": "e64c813bac7430ffa6b4076e266a23e9",
+      "title": "Vì một Việt Nam khỏe mạnh: Lấy phòng bệnh làm trọng tâm",
+      "link": "https://tuoitre.vn/vi-mot-viet-nam-khoe-manh-lay-phong-benh-lam-trong-tam-20260425162128934.htm",
+      "summary": "Thay vì tập trung vào điều trị khi người dân đã mắc bệnh, Nghị quyết 72 của Bộ Chính trị định hướng lấy phòng bệnh làm trọng tâm, tăng cường quản lý sức khỏe toàn dân và nâng cao thể chất cộng đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.876527+07:00",
+      "fetched": "2026-05-01T09:05:24.876614+07:00"
+    },
+    {
+      "id": "339ba2f5758639432a7a30b1151b5f59",
+      "title": "Những năm tháng hòa bình của chú Tư Cang",
+      "link": "https://tuoitre.vn/nhung-nam-thang-hoa-binh-cua-chu-tu-cang-20260427193725912.htm",
+      "summary": "\"Ôi cha, muốn nghe chuyện gì thì cứ tới, nhưng mà nghe ta kể chuyện chắc tới mai, tới mốt còn chưa rồi…\" - chú Tư Cang (Đại tá - Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Tàu) cười sảng khoái...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.876433+07:00",
+      "fetched": "2026-05-01T09:05:24.876519+07:00"
+    },
+    {
+      "id": "91cc3a0fe1e64b18dd8fce5cfa4655b6",
+      "title": "Bảo tàng hòa bình và kỷ vật vĩ tuyến 17",
+      "link": "https://tuoitre.vn/bao-tang-hoa-binh-va-ky-vat-vi-tuyen-17-20260427232020761.htm",
+      "summary": "Dự án Bảo tàng Chứng tích chiến tranh và khát vọng hòa bình với tổng kinh phí 1.000 tỉ đồng sẽ được UBND tỉnh Quảng Trị triển khai xây dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.876340+07:00",
+      "fetched": "2026-05-01T09:05:24.876425+07:00"
+    },
+    {
+      "id": "206901cfe276ae4a4e7158a77f4d41ed",
+      "title": "Thế hệ mới định vị tương lai Việt - Mỹ",
+      "link": "https://tuoitre.vn/the-he-moi-dinh-vi-tuong-lai-viet-my-20260426171411837.htm",
+      "summary": "Lịch sử quan hệ Việt - Mỹ thường được ví như một cuốn biên niên sử về sự hòa giải, rồi trở thành đối tác thân hữu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.876245+07:00",
+      "fetched": "2026-05-01T09:05:24.876331+07:00"
+    },
+    {
+      "id": "d13d59c9fe0c746054103157369dcd78",
+      "title": "Giã từ gia công, vào chuỗi cung ứng toàn cầu",
+      "link": "https://tuoitre.vn/gia-tu-gia-cong-vao-chuoi-cung-ung-toan-cau-20260427133938023.htm",
+      "summary": "Nhiều sản phẩm của Việt Nam không dừng lại ở gia công lắp ráp mà đã thâm nhập sâu vào chuỗi cung ứng toàn cầu ở những lĩnh vực yêu cầu cao như điện tử, bán dẫn, hàng không…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.876145+07:00",
+      "fetched": "2026-05-01T09:05:24.876237+07:00"
+    },
+    {
+      "id": "d972dff59ea679d7e956773aca5a7174",
+      "title": "Việt Nam lần đầu tổ chức cuộc thi Nam vương Quốc tế Mister Supermen",
+      "link": "https://tuoitre.vn/viet-nam-lan-dau-to-chuc-cuoc-thi-nam-vuong-quoc-te-mister-supermen-20260501003510649.htm",
+      "summary": "Nam vương Quốc tế Mister Supermen 2026 là sân chơi do người Việt sáng lập, tổ chức lần đầu, quy tụ khoảng 40 người mẫu khắp thế giới tranh tài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.876046+07:00",
+      "fetched": "2026-05-01T09:05:24.876137+07:00"
+    },
+    {
+      "id": "9e803ada81d319cba2fb09c7bab8919c",
+      "title": "Tuấn Cry từng sợ lu mờ khi cạnh Hòa Minzy",
+      "link": "https://tuoitre.vn/tuan-cry-tung-so-lu-mo-khi-canh-hoa-minzy-20260501014622505.htm",
+      "summary": "Nhạc sĩ Tuấn Cry tham gia chương trình Sao check phát sóng tối 30-4 có những chia sẻ thẳng thắn về hành trình âm nhạc, tình yêu quê hương cũng như dấu ấn sau thành công của Bắc Bling.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.875939+07:00",
+      "fetched": "2026-05-01T09:05:24.876035+07:00"
+    },
+    {
+      "id": "7d4181a587d8fd55b1fac2884b490c3e",
+      "title": "Hoa hậu Thanh Thủy, Bảo Ngọc ‘đụng độ’ đầm trắng, ai mặc đẹp hơn?",
+      "link": "https://tuoitre.vn/hoa-hau-thanh-thuy-bao-ngoc-dung-do-dam-trang-ai-mac-dep-hon-20260501024644343.htm",
+      "summary": "Việc các nghệ sĩ, hoa hậu mặc đầm ‘đụng hàng’ là điều không tránh khỏi và được người hâm mộ đưa lên bàn cân so sánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.875838+07:00",
+      "fetched": "2026-05-01T09:05:24.875931+07:00"
+    },
+    {
+      "id": "0b2de31fad4a068ac61afa985057f9fb",
+      "title": "MGI All Stars mở cổng bình chọn, Hương Giang vẫn 'im hơi lặng tiếng’",
+      "link": "https://tuoitre.vn/mgi-all-stars-mo-cong-binh-chon-huong-giang-van-im-hoi-lang-tieng-20260501014108975.htm",
+      "summary": "Số lượng lượt bình chọn cho hoa hậu Hương Giang tại MGI All Stars 2026 đang đứng trong top đầu. Tuy nhiên Hương Giang vẫn 'án binh bất động' khiến fan sốt ruột.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.875722+07:00",
+      "fetched": "2026-05-01T09:05:24.875829+07:00"
+    },
+    {
+      "id": "a4534acec7c74e28b511d66e9dc02fb5",
+      "title": "Lê Văn Miến, người thầy truyền lửa, họa sĩ đầu tiên của Việt Nam",
+      "link": "https://tuoitre.vn/le-van-mien-nguoi-thay-truyen-lua-hoa-si-dau-tien-cua-viet-nam-20260427221531166.htm",
+      "summary": "Lê Văn Miến là một nhân vật thú vị trong lịch sử Việt Nam. Ông không chỉ là người thầy đã có ảnh hưởng lớn đến lựa chọn con đường cứu nước của Nguyễn Tất Thành, mà còn được coi là họa sĩ đầu tiên của hội họa giá vẽ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.875622+07:00",
+      "fetched": "2026-05-01T09:05:24.875713+07:00"
+    },
+    {
+      "id": "8bc35f556a1c12a535a6497946ec9fdc",
+      "title": "Ai thực sự gây ra thảm sát tộc Uchiha trong Naruto: Itachi hay Obito?",
+      "link": "https://tuoitre.vn/ai-thuc-su-gay-ra-tham-sat-toc-uchiha-trong-naruto-itachi-hay-obito-20260430225316539.htm",
+      "summary": "Bi kịch diệt tộc Uchiha trong Naruto từ lâu được gắn với Itachi Uchiha. Tuy nhiên nhiều phân tích cho thấy Uchiha Obito mới là nhân tố quyết định phía sau biến cố này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.875518+07:00",
+      "fetched": "2026-05-01T09:05:24.875613+07:00"
+    },
+    {
+      "id": "d88164593abc22beb2052bf69059a23f",
+      "title": "Iran: Việc Mỹ phong tỏa hải quân là 'sự tiếp nối các hoạt động quân sự'",
+      "link": "https://tuoitre.vn/iran-viec-my-phong-toa-hai-quan-la-su-tiep-noi-cac-hoat-dong-quan-su-20260501070240014.htm",
+      "summary": "Ngày 30-4, Tổng thống Iran Masoud Pezeshkian cho rằng việc Mỹ phong tỏa hải quân các cảng của Iran thực chất là “sự tiếp nối của các hoạt động quân sự” từ phía Washington.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.875410+07:00",
+      "fetched": "2026-05-01T09:05:24.875509+07:00"
+    },
+    {
+      "id": "b885b82c63a85d817043e6b5a66d2a64",
+      "title": "Tuổi 18, cần nắm tay vừa đủ để con lớn lên",
+      "link": "https://tuoitre.vn/tuoi-18-can-nam-tay-vua-du-de-con-lon-len-20260428154725552.htm",
+      "summary": "Lúc con bắt đầu rời khỏi những lối đi quen thuộc, còn cha mẹ phải học một điều không hề dễ: đồng hành mà không làm thay, yêu thương mà không vô tình tạo áp lực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.875288+07:00",
+      "fetched": "2026-05-01T09:05:24.875388+07:00"
+    },
+    {
+      "id": "e1722c06cf179f503d344bbef6b89227",
+      "title": "Mazda2 2026 ra mắt: Bổ sung tiện nghi, ADAS, động cơ hybrid mượn từ Toyota",
+      "link": "https://tuoitre.vn/mazda2-2026-ra-mat-bo-sung-tien-nghi-adas-dong-co-hybrid-muon-tu-toyota-20260501005157931.htm",
+      "summary": "Trong khi Mazda2 phát triển từ Toyota Yaris tiếp tục được nâng cấp, phiên bản truyền thống do Mazda tự phát triển đang dần bị loại bỏ, nhường chỗ cho dòng xe hợp tác nhằm đáp ứng các tiêu chuẩn khí thải ngày càng khắt khe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.875161+07:00",
+      "fetched": "2026-05-01T09:05:24.875278+07:00"
+    },
+    {
+      "id": "e1403369742143ceb780f4de26f4b4aa",
+      "title": "Sốt xuất huyết, tay chân miệng, COVID-19 gia tăng",
+      "link": "https://tuoitre.vn/sot-xuat-huyet-tay-chan-mieng-covid-19-gia-tang-20260501073036417.htm",
+      "summary": "Theo báo cáo của Bộ Y tế, tháng qua cả nước ghi nhận số ca mắc sốt xuất huyết, tay chân miệng, COVID-19 gia tăng rõ rệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:05:24.874916+07:00",
+      "fetched": "2026-05-01T09:05:24.875148+07:00"
+    },
     {
       "id": "aae5106b1100d794e0c1f919e669514b",
       "title": "Lịch trực tiếp V-League vòng 21: Thể Công - Viettel đấu Ninh Bình",
@@ -51,6 +201,256 @@ window.newsData_2026_05_01 = {
       "category": "Tổng hợp",
       "published": "2026-05-01T02:05:39.778882+07:00",
       "fetched": "2026-05-01T02:05:39.779118+07:00"
+    },
+    {
+      "id": "44690899a089b774265eb7bef92ecff9",
+      "title": "Học sinh 12 ôn thi đừng phạm 4 lỗi này…",
+      "link": "https://thanhnien.vn/hoc-sinh-12-on-thi-dung-pham-4-loi-nay-185260430180417528.htm",
+      "summary": "Những điều tưởng chừng đơn giản nhưng lại vô tình khiến bạn tốn rất nhiều thời gian trong lúc ôn luyện nhưng không mang lại kết quả như ý muốn. Nếu bạn đang ôn thi tốt nghiệp THPT thì đừng phạm phải những lỗi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T02:00:00+07:00",
+      "fetched": "2026-05-01T09:05:23.769994+07:00"
+    },
+    {
+      "id": "c61eced35370db7604161b12b65b282b",
+      "title": "Giá USD hôm nay 1.5.2026: Đô la Mỹ cùng EUR, bảng Anh… tăng",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-152026-do-la-my-cung-eur-bang-anh-tang-18526050108383959.htm",
+      "summary": "Kết thúc tháng 4, ngân hàng tăng nhẹ giá USD, còn các ngoại tệ khác tăng khá mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:47:00+07:00",
+      "fetched": "2026-05-01T09:05:23.770143+07:00"
+    },
+    {
+      "id": "18956ea4ab84ee08a5365ab5506e1282",
+      "title": "Khách Việt du lịch Thái Lan lưu ý nắng nóng 'nguy hiểm cực độ'",
+      "link": "https://thanhnien.vn/khach-viet-du-lich-thai-lan-luu-y-nang-nong-nguy-hiem-cuc-do-185260501081647269.htm",
+      "summary": "Chỉ số nhiệt độ tại Bangkok, Thái Lan ở mức 'nguy hiểm cực độ'. Người dân và du khách được khuyến cáo nên thận trọng hơn và tránh các hoạt động ngoài trời vào ban ngày nếu có thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:47:00+07:00",
+      "fetched": "2026-05-01T09:05:23.770274+07:00"
+    },
+    {
+      "id": "3fa23e4b2bc2af47cea9d78882aa256b",
+      "title": "Người cho thuê nhà, bất động sản có phải khai báo toàn bộ tài khoản?",
+      "link": "https://thanhnien.vn/nguoi-cho-thue-nha-bat-dong-san-co-phai-khai-bao-toan-bo-tai-khoan-18526043017364405.htm",
+      "summary": "Người cho thuê nhà, bất động sản phải thực hiện kê khai thuế như hộ kinh doanh, cá nhân kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:46:00+07:00",
+      "fetched": "2026-05-01T09:05:23.770403+07:00"
+    },
+    {
+      "id": "6825c740261066b1b783968b36812b73",
+      "title": "Ông Trump nói 'để tính sau' khi được hỏi nếu Iran vô địch World Cup thì sao",
+      "link": "https://thanhnien.vn/ong-trump-noi-de-tinh-sau-khi-duoc-hoi-neu-iran-vo-dich-world-cup-thi-sao-185260501081932489.htm",
+      "summary": "Trả lời báo chí ở Nhà Trắng, Tổng thống Mỹ Donald Trump tỏ ra khá vui vẻ, hài hước khi nhắc đến việc đội tuyển Iran tham dự World Cup 2026 tại Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:41:00+07:00",
+      "fetched": "2026-05-01T09:05:23.770523+07:00"
+    },
+    {
+      "id": "e0193a7601370d966dc891ad74155752",
+      "title": "Chủ tịch FIFA tuyên bố tiếp tục tranh cử, Iran chắc chắn tham dự World Cup 2026",
+      "link": "https://thanhnien.vn/chu-tich-fifa-tuyen-bo-tiep-tuc-tranh-cu-iran-se-tham-du-world-cup-2026-185260501083414779.htm",
+      "summary": "Ngày 1.5, tại Đại hội FIFA lần thứ 76 tại Trung tâm Hội nghị Vancouver (Canada), Chủ tịch FIFA Gianni Infantino tuyên bố sẽ tranh cử nhiệm kỳ thứ tư và tái khẳng định đội tuyển Iran tham dự World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:36:00+07:00",
+      "fetched": "2026-05-01T09:05:23.770643+07:00"
+    },
+    {
+      "id": "077e274a6879d0d303f5e6a6d821345f",
+      "title": "Tài Lộc đã nhập tịch, vẫn đấu đội bóng cũ Thể Công Viettel với tư cách ngoại binh: Tại sao?",
+      "link": "https://thanhnien.vn/tai-loc-da-nhap-tich-van-dau-doi-bong-cu-the-cong-viettel-voi-tu-cach-ngoai-binh-tai-sao-185260501083129029.htm",
+      "summary": "Dù đã nhập quốc tịch Việt Nam, tiền đạo Nguyễn Tài Lộc (Geovane Magno) vẫn ra sân với tư cách ngoại binh ở vòng 21 V-League 2025-2026. Điều này được quy định ở điều lệ giải V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:36:00+07:00",
+      "fetched": "2026-05-01T09:05:23.770775+07:00"
+    },
+    {
+      "id": "827ea8195cefe614fd798aacf5ec3792",
+      "title": "Giá Bitcoin hôm nay 1.5.2026: Mỹ tịch thu gần 500 triệu USD tiền số của Iran",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-152026-my-tich-thu-gan-500-trieu-usd-tien-so-cua-iran-185260501074722641.htm",
+      "summary": "Giá Bitcoin hôm nay phục hồi nhẹ trong khi Mỹ tuyên bố tịch thu gần 500 triệu USD tiền số của Iran, vượt con số 344 triệu USD bị đóng băng trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:35:00+07:00",
+      "fetched": "2026-05-01T09:05:23.770905+07:00"
+    },
+    {
+      "id": "c6a5eb58644fe47b40c3cef6628c5f12",
+      "title": "FIFA khẳng định Iran vẫn thi đấu World Cup 2026 tại Mỹ, ông Trump lên tiếng",
+      "link": "https://thanhnien.vn/fifa-khang-dinh-iran-van-thi-dau-world-cup-2026-tai-my-ong-trump-len-tieng-185260501081043959.htm",
+      "summary": "Chủ tịch FIFA Gianni Infantino xác nhận đội tuyển Iran sẽ thi đấu tại Mỹ ở World Cup 2026, giữa bối cảnh nhiều tranh cãi liên quan đến an ninh, chính trị và vấn đề nhập cảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:22:00+07:00",
+      "fetched": "2026-05-01T09:05:23.771023+07:00"
+    },
+    {
+      "id": "8d9a06ac03a93c1554f4298dd4aabdcd",
+      "title": "Các công trình điện phục vụ APEC 2027 tại Phú Quốc 'chạy đua' tiến độ",
+      "link": "https://thanhnien.vn/cac-cong-trinh-dien-phuc-vu-apec-2027-tai-phu-quoc-chay-dua-tien-do-185260430193836594.htm",
+      "summary": "Trên các công trình điện phục vụ APEC 2027 hầu như không có khái niệm về kỳ nghỉ lễ. Từ lãnh đạo, cán bộ, kỹ sư, công nhân ngành điện miền Nam không quản ngày đêm, nắng nóng vẫn đang lăn xả làm việc để kịp hoàn thành các công trình lưới điện phục vụ sự kiện quan trọng của đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:22:00+07:00",
+      "fetched": "2026-05-01T09:05:23.771142+07:00"
+    },
+    {
+      "id": "7d0cbe318be2e21c1e1f3e47bd5b5415",
+      "title": "‘Nậm thoong’ là gì mà công an vùng biên Lao Bảo phải cảnh báo?",
+      "link": "https://thanhnien.vn/nam-thoong-la-gi-ma-cong-an-vung-bien-lao-bao-phai-canh-bao-185260501074858999.htm",
+      "summary": "Một loại nước lạ không rõ nguồn gốc, được cho là nấu từ lá cây kratom, đang âm thầm lan rộng ở xã vùng biên Lao Bảo (Quảng Trị) khiến lực lượng chức năng phải lên tiếng cảnh báo vì nguy cơ tác động đến thần kinh và an ninh trật tự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:20:00+07:00",
+      "fetched": "2026-05-01T09:05:23.771260+07:00"
+    },
+    {
+      "id": "9710f82d85a19111894b6a7a3fdce964",
+      "title": "U.17 Việt Nam lên đường dự VCK châu Á, chốt danh sách 23 cầu thủ",
+      "link": "https://thanhnien.vn/u17-viet-nam-len-duong-du-vck-chau-a-chot-danh-sach-23-cau-thu-185260501074227829.htm",
+      "summary": "Đội tuyển U.17 Việt Nam đã chốt danh sách 23 cầu thủ và lên đường sang Ả Rập Xê Út tham dự giải U.17 châu Á 2026, với mục tiêu cạnh tranh vé dự World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:15:00+07:00",
+      "fetched": "2026-05-01T09:05:23.771373+07:00"
+    },
+    {
+      "id": "ec6502ae278e4fa9b83b2d777eaea90a",
+      "title": "Thủ tướng phê duyệt nhiệm vụ quy hoạch chung đô thị Khánh Hòa đến năm 2050",
+      "link": "https://thanhnien.vn/thu-tuong-phe-duyet-nhiem-vu-quy-hoach-chung-do-thi-khanh-hoa-den-nam-2050-185260501072610414.htm",
+      "summary": "Tỉnh Khánh Hòa được định hướng trở thành đô thị biển cửa ngõ quốc tế, cực tăng trưởng quan trọng của cả nước, sau khi Chính phủ Việt Nam phê duyệt nhiệm vụ quy hoạch chung đô thị tỉnh đến năm 2050, tầm nhìn đến năm 2075.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:15:00+07:00",
+      "fetched": "2026-05-01T09:05:23.771492+07:00"
+    },
+    {
+      "id": "6e1cb390a44f0e75c296854a8d9a6155",
+      "title": "Hồ sen trước một ngôi làng ven biển ở Huế đẹp như tranh",
+      "link": "https://thanhnien.vn/ho-sen-truoc-mot-ngoi-lang-ven-bien-o-hue-dep-nhu-tranh-185260429121351786.htm",
+      "summary": "Giữa những cánh đồng đang mùa cắt, hồ sen trước cổng làng Thế Chí Tây (phường Phong Phú, thành phố Huế) bung nở rực rỡ, tạo thành một bức tranh làng quê tuyệt đẹp, hoà quyện cùng nhịp sống yên bình của ngôi làng ven biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:15:00+07:00",
+      "fetched": "2026-05-01T09:05:23.771614+07:00"
+    },
+    {
+      "id": "81dff29b87418559aee8ab4b26e70d06",
+      "title": "Giá vàng hôm nay 1.5.2026: Bật tăng 300.000 đồng dù đang kỳ nghỉ lễ",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-152026-bat-tang-300000-dong-du-dang-ky-nghi-le-185260501073516051.htm",
+      "summary": "Giá vàng trong nước bật tăng trở lại dù nhiều công ty vẫn đang nghỉ lễ 30.4 - 1.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:13:00+07:00",
+      "fetched": "2026-05-01T09:05:23.771729+07:00"
+    },
+    {
+      "id": "a3a9590463a4c1495a267f01d12eab29",
+      "title": "Biệt thự 640 m2 thông thoáng với thiết kế 'trên kín dưới hở'",
+      "link": "https://vnexpress.net/biet-thu-640-m2-thong-thoang-voi-thiet-ke-tren-kin-duoi-ho-5067783.html",
+      "summary": "Công trình hai tầng kết hợp không gian ở, sân vườn và khu tiếp khách, phục vụ nhu cầu sinh hoạt lẫn gặp gỡ bạn bè tại nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:05:00+07:00",
+      "fetched": "2026-05-01T09:05:20.646495+07:00"
+    },
+    {
+      "id": "33d64df29be662b1f9a57258e39b408d",
+      "title": "Nàng dâu Tây 'quay xe' khi ăn trứng vịt lộn",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-nang-dau-tay-quay-xe-khi-an-trung-vit-lon-5068625.html",
+      "summary": "Ban đầu e dè trước món ăn lạ, cô gái Tây tìm cách từ chối nhưng chỉ sau một lần thử đã bất ngờ “quay xe” vì quá ngon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:00:00+07:00",
+      "fetched": "2026-05-01T09:05:20.646661+07:00"
+    },
+    {
+      "id": "390e5e8945862a4363f82af18836824e",
+      "title": "Có thể bỏ qua bước hòa giải tại tòa khi hôn nhân 'đã không thể cứu vãn'?",
+      "link": "https://vnexpress.net/co-the-bo-qua-buoc-hoa-giai-tai-toa-khi-hon-nhan-da-khong-the-cuu-van-5068312.html",
+      "summary": "Hôn nhân ngột ngạt đến mức \"không thể cứu vãn\", tôi muốn nhanh chóng được giải thoát nhưng chồng tìm mọi cách gây khó dễ, nói sẽ không bao giờ đến tòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:00:00+07:00",
+      "fetched": "2026-05-01T09:05:20.646824+07:00"
+    },
+    {
+      "id": "bd009456911d91df55bfa97da5bf4509",
+      "title": "Bữa sáng nên bắt đầu lúc nào sau khi ngủ dậy?",
+      "link": "https://vnexpress.net/bua-sang-nen-bat-dau-luc-nao-sau-khi-ngu-day-5067595.html",
+      "summary": "Việc ăn sáng sau khi thức dậy từ 20 đến 30 phút giúp hệ tiêu hóa đạt trạng thái lý tưởng nhất để hấp thụ trọn vẹn dưỡng chất từ thực phẩm ấm nóng kết hợp cùng rau xanh và trái cây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:00:00+07:00",
+      "fetched": "2026-05-01T09:05:20.646978+07:00"
+    },
+    {
+      "id": "18303b6041c0c01b75c813467898126e",
+      "title": "Pháo hoa kết hợp trình diễn LED tại tòa tháp 55 tầng",
+      "link": "https://vnexpress.net/phao-hoa-ket-hop-trinh-dien-led-tai-toa-thap-55-tang-5068788.html",
+      "summary": "Tòa tháp Saigon Marina IFC dùng hơn 90 giàn pháo và hàng nghìn ống phun hoa, hỏa thuật các loại, kết hợp trình diễn LED đa sắc, hút hàng nghìn người tham quan, check-in vào đêm 30/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:00:00+07:00",
+      "fetched": "2026-05-01T09:05:20.647115+07:00"
+    },
+    {
+      "id": "e74c28b456d429fd8c9da590f780b980",
+      "title": "Van Phuc Group ưu đãi 25% nhà phố, shophouse",
+      "link": "https://vnexpress.net/van-phuc-group-uu-dai-25-nha-pho-shophouse-5068307.html",
+      "summary": "Van Phuc Group triển khai chính sách giảm giá 25% nhà phố, shophouse Van Phuc City nhằm, mở rộng cơ hội đầu tư bất động sản ven sông tại TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T01:00:00+07:00",
+      "fetched": "2026-05-01T09:05:20.647246+07:00"
+    },
+    {
+      "id": "a8bab51e3b155469f6812aa231aff154",
+      "title": "Các hãng nước ngoài dọa rút các mẫu xe rẻ nhất khỏi Mỹ",
+      "link": "https://vnexpress.net/cac-hang-nuoc-ngoai-doa-rut-cac-mau-xe-re-nhat-khoi-my-5068100.html",
+      "summary": "Các nhà sản xuất ôtô nước ngoài cảnh báo chính quyền Trump rằng họ có thể rút các mẫu xe rẻ nhất khỏi Mỹ nếu không có thỏa thuận thương mại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T00:55:00+07:00",
+      "fetched": "2026-05-01T09:05:20.647375+07:00"
+    },
+    {
+      "id": "ed24d5e3624c50f5041022c76d96b230",
+      "title": "William - Kate đăng ảnh kỷ niệm 15 năm ngày cưới",
+      "link": "https://vnexpress.net/william-kate-dang-anh-ky-niem-15-nam-ngay-cuoi-5068807.html",
+      "summary": "Thái tử William và Vương phi Kate đăng ảnh chụp cùng ba con, nhân kỷ niệm 15 năm ngày cưới của hai người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T00:28:10+07:00",
+      "fetched": "2026-05-01T09:05:20.647501+07:00"
+    },
+    {
+      "id": "ed24d5e3624c50f5041022c76d96b230",
+      "title": "William - Kate đăng ảnh kỷ niệm 15 năm ngày cưới",
+      "link": "https://vnexpress.net/william-kate-dang-anh-ky-niem-15-nam-ngay-cuoi-5068807.html",
+      "summary": "Thái tử William và Vương phi Kate đăng ảnh chụp cùng ba con, nhân kỷ niệm 15 năm ngày cưới của hai người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-01T00:28:10+07:00",
+      "fetched": "2026-05-01T09:05:26.528336+07:00"
+    },
+    {
+      "id": "12b356a51b484f25cbf4bd8701784eaf",
+      "title": "Con gái 15 tuổi của 'thiên thần' Kaka",
+      "link": "https://vnexpress.net/con-gai-15-tuoi-cua-thien-than-kaka-5068616.html",
+      "summary": "Isabella, con gái \"thiên thần\" Kaka và vợ cũ - người mẫu Caroline Celico - có đường nét hài hòa, sóng mũi cao ở tuổi 15.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T00:11:39+07:00",
+      "fetched": "2026-05-01T09:05:20.647629+07:00"
     },
     {
       "id": "f94d77aca5cb3c993f21a2578ea983ab",
@@ -201,6 +601,86 @@ window.newsData_2026_05_01 = {
       "category": "Tổng hợp",
       "published": "2026-05-01T00:08:54.156586+07:00",
       "fetched": "2026-05-01T00:08:54.156805+07:00"
+    },
+    {
+      "id": "1793a71186e8457f61e73ceb9cc7aa1a",
+      "title": "Việt Nam đặt mục tiêu một triệu 'doanh nghiệp một người'",
+      "link": "https://vnexpress.net/viet-nam-dat-muc-tieu-mot-trieu-doanh-nghiep-mot-nguoi-5068453.html",
+      "summary": "Việt Nam đặt mục tiêu phát triển một triệu doanh nghiệp một người - mô hình kinh doanh mới dựa trên nền tảng công nghệ số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T00:00:00+07:00",
+      "fetched": "2026-05-01T09:05:20.647754+07:00"
+    },
+    {
+      "id": "8459b440f7064609f7ad02da010e411a",
+      "title": "Bên trong các công sản ở trung tâm Đà Nẵng chuẩn bị cho thuê",
+      "link": "https://vnexpress.net/ben-trong-cac-cong-san-o-trung-tam-da-nang-chuan-bi-cho-thue-5068436.html",
+      "summary": "Trong số hàng chục nhà công sản ở trung tâm thành phố nằm trong danh sách chuẩn bị cho thuê, nhiều căn đã xuống cấp, hư hỏng do để hoang nhiều năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T00:00:00+07:00",
+      "fetched": "2026-05-01T09:05:20.647896+07:00"
+    },
+    {
+      "id": "1793a71186e8457f61e73ceb9cc7aa1a",
+      "title": "Việt Nam đặt mục tiêu một triệu 'doanh nghiệp một người'",
+      "link": "https://vnexpress.net/viet-nam-dat-muc-tieu-mot-trieu-doanh-nghiep-mot-nguoi-5068453.html",
+      "summary": "Việt Nam đặt mục tiêu phát triển một triệu doanh nghiệp một người - mô hình kinh doanh mới dựa trên nền tảng công nghệ số.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-01T00:00:00+07:00",
+      "fetched": "2026-05-01T09:05:31.641229+07:00"
+    },
+    {
+      "id": "5dc76efa50d13e340f9baf6a6c094977",
+      "title": "Ông Trump: Lệnh phong tỏa của Mỹ khiến nền kinh tế Iran sụp đổ",
+      "link": "https://vnexpress.net/ong-trump-lenh-phong-toa-cua-my-khien-nen-kinh-te-iran-sup-do-5068800.html",
+      "summary": "Tổng thống Trump tuyên bố vẫn duy trì lệnh phong tỏa cảng biển Iran, cho rằng biện pháp này đang phát huy hiệu quả với nền kinh tế của Tehran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T23:53:45+07:00",
+      "fetched": "2026-05-01T09:05:20.648023+07:00"
+    },
+    {
+      "id": "5dc76efa50d13e340f9baf6a6c094977",
+      "title": "Ông Trump: Lệnh phong tỏa của Mỹ khiến nền kinh tế Iran sụp đổ",
+      "link": "https://vnexpress.net/ong-trump-lenh-phong-toa-cua-my-khien-nen-kinh-te-iran-sup-do-5068800.html",
+      "summary": "Tổng thống Trump tuyên bố vẫn duy trì lệnh phong tỏa cảng biển Iran, cho rằng biện pháp này đang phát huy hiệu quả với nền kinh tế của Tehran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-30T23:53:45+07:00",
+      "fetched": "2026-05-01T09:05:26.528489+07:00"
+    },
+    {
+      "id": "c98736e5c48504b74da9cfc0de49a921",
+      "title": "Những yếu tố 'chặn đường' sinh hai con của phụ nữ Việt",
+      "link": "https://vnexpress.net/nhung-yeu-to-chan-duong-sinh-hai-con-cua-phu-nu-viet-5065694.html",
+      "summary": "Sau lần mẹ ruột và mẹ chồng phải cùng đưa cháu đi cấp cứu, Bảo Yến quyết định dừng ở một con để không tạo thêm gánh nặng cho gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T23:30:00+07:00",
+      "fetched": "2026-05-01T09:05:20.648143+07:00"
+    },
+    {
+      "id": "005a1a417efd9e3f406818bfa507579e",
+      "title": "Điểm tin 6h: Metro Bến Thành - Thủ Thiêm sẽ đi ngầm qua đáy sông Sài Gòn | Hà Nội cho phép xe bán tải hoạt động cả ngày",
+      "link": "https://vnexpress.net/diem-tin-6h-metro-ben-thanh-thu-thiem-se-di-ngam-qua-day-song-sai-gon-ha-noi-cho-phep-xe-ban-tai-hoat-dong-ca-ngay-5068801.html",
+      "summary": "Công đoàn sẽ nghiên cứu phương án hoán đổi lịch nghỉ lễ 24/11; Tiếp tục giảm thuế nhập khẩu xăng dầu về 0% đến 30/6....",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T23:21:05+07:00",
+      "fetched": "2026-05-01T09:05:20.648272+07:00"
+    },
+    {
+      "id": "bca22965d330751b71e9fc81cb2b29b2",
+      "title": "Người dân mãn nhãn với màn pháo hoa tầm cao tối 30/4",
+      "link": "https://vnexpress.net/nguoi-dan-man-nhan-voi-man-phao-hoa-tam-cao-toi-30-4-5068785.html",
+      "summary": "Người dân và du khách tập trung quanh khu vực chân cầu Ba Son, chiêm ngưỡng màn pháo hoa rực sáng mừng 51 năm thống nhất đất nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T23:19:52+07:00",
+      "fetched": "2026-05-01T09:05:20.648399+07:00"
     },
     {
       "id": "f51f47563899b6c48fff5c92cb70888e",
