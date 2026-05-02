@@ -1,7 +1,157 @@
 window.newsData_2026_05_02 = {
   "date": "2026-05-02",
-  "lastUpdated": "2026-05-02T17:41:52.690913+07:00",
+  "lastUpdated": "2026-05-02T19:46:56.889867+07:00",
   "articles": [
+    {
+      "id": "ea89eeae2c9b5aa462235c5131267839",
+      "title": "Trạm cảnh sát giao thông Tây Bắc đo nồng độ cồn cả ban ngày, bắn tốc độ cả ban đêm trong dịp lễ",
+      "link": "https://tuoitre.vn/tram-canh-sat-giao-thong-tay-bac-do-nong-do-con-ca-ban-ngay-ban-toc-do-ca-ban-dem-trong-dip-le-20260502163149686.htm",
+      "summary": "Ngày 2-5, Trạm cảnh sát giao thông Tây Bắc cho biết dịp lễ 30-4, 1-5 đã tăng cường xử lý hàng loạt tài xế vi phạm tốc độ trên các tuyến huyết mạch như đường Phan Văn Khải, DT744.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.196621+07:00",
+      "fetched": "2026-05-02T19:46:51.196734+07:00"
+    },
+    {
+      "id": "841272fe0ddf8e4661592e15e51d3cc5",
+      "title": "Cách để TP.HCM chạm vào cảm xúc du khách",
+      "link": "https://tuoitre.vn/cach-de-tp-hcm-cham-vao-cam-xuc-du-khach-20260426141405264.htm",
+      "summary": "Không dừng lại ở trung tâm mua sắm sôi động, TP.HCM đang có loạt sản phẩm du lịch mới, mở rộng không gian trải nghiệm từ bình dân đến cao cấp, gia tăng sức hút với du khách trong và ngoài nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.196494+07:00",
+      "fetched": "2026-05-02T19:46:51.196607+07:00"
+    },
+    {
+      "id": "13bd6ab30d55b73d1fc58258b210d9cc",
+      "title": "Trăm năm giấc mơ bầu trời",
+      "link": "https://tuoitre.vn/tram-nam-giac-mo-bau-troi-20260428225248778.htm",
+      "summary": "'Trường nào đào tạo ngành hàng không? Dạy lái máy bay? Dạy chế tạo UAV? Sân bay quốc tế Long Thành sắp hoạt động, nhu cầu tuyển dụng nhân viên như thế nào?'",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.196368+07:00",
+      "fetched": "2026-05-02T19:46:51.196482+07:00"
+    },
+    {
+      "id": "a1cf7d67e1fea94431234f2d6ece3e74",
+      "title": "Benoît Chaigneau phiêu lưu cùng nước mắm",
+      "link": "https://tuoitre.vn/benot-chaigneau-phieu-luu-cung-nuoc-mam-20260427133248117.htm",
+      "summary": "'Mọi người có biết nước mắm được làm ra như thế nào không? Chỉ cần hai nguyên liệu thôi: cá cơm và muối'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.196248+07:00",
+      "fetched": "2026-05-02T19:46:51.196357+07:00"
+    },
+    {
+      "id": "6dd358646a736a358312acf1fb8af5b1",
+      "title": "Vụ cháy xe ở cây xăng: Người nhà nạn nhân 16 tuổi thông tin về vụ việc",
+      "link": "https://tuoitre.vn/vu-chay-xe-o-cay-xang-nguoi-nha-nan-nhan-16-tuoi-thong-tin-ve-vu-viec-20260502160611637.htm",
+      "summary": "Chiều 2-5, liên quan đến vụ cháy ô tô ở cây xăng khiến 2 người chết, ông Trương Công Sơn - Chủ tịch UBND xã Thăng Điền, TP Đà Nẵng - cho hay trong ngày lãnh đạo xã đã đến động viên, chia buồn cùng gia đình 2 nạn nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.196128+07:00",
+      "fetched": "2026-05-02T19:46:51.196238+07:00"
+    },
+    {
+      "id": "46d94aaebf309a5c33b4092c5afe7bd1",
+      "title": "Chính quyền phải cắm biển cảnh báo khỉ hoang trên đường ven biển gần Mũi Điện",
+      "link": "https://tuoitre.vn/chinh-quyen-phai-cam-bien-canh-bao-khi-hoang-tren-duong-ven-bien-gan-mui-dien-20260502171137165.htm",
+      "summary": "Xã Hòa Xuân, Đắk Lắk (trước là Phú Yên) đã cắm biển cảnh báo nguy hiểm ở khu vực có khỉ hoang, nhắc nhở du khách không lại gần hay cho khỉ ăn dọc tuyến đường ven biển Phước Tân - Bãi Ngà (đường đến danh thắng Mũi Điện).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.196005+07:00",
+      "fetched": "2026-05-02T19:46:51.196117+07:00"
+    },
+    {
+      "id": "042215e4bbe1ebc117b6d97f0f3b5c0a",
+      "title": "Lại đăng clip 'bốc đầu' xe, đua xe để câu like, nhóm thanh niên bị gọi lên ngay",
+      "link": "https://tuoitre.vn/lai-dang-clip-boc-dau-xe-dua-xe-de-cau-like-nhom-thanh-nien-bi-goi-len-ngay-20260502171606223.htm",
+      "summary": "Sau khi được rủ “so xe”, hai thanh niên đã điều khiển xe máy tăng tốc, chạy tốc độ cao, trong đó có trường hợp nâng bánh trước khỏi mặt đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.195877+07:00",
+      "fetched": "2026-05-02T19:46:51.195993+07:00"
+    },
+    {
+      "id": "762b011753044c3ec8ea25be5f0e8811",
+      "title": "Đề xuất lắp 3 lớp cửa, camera, bảo vệ giám sát 24/24 người phạm tội bị bắt buộc chữa bệnh",
+      "link": "https://tuoitre.vn/de-xuat-lap-3-lop-cua-camera-bao-ve-giam-sat-24-24-nguoi-pham-toi-bi-bat-buoc-chua-benh-20260502173446126.htm",
+      "summary": "Bộ Y tế đề xuất cơ sở điều trị với người bị áp dụng bắt buộc chữa bệnh phải thiết kế 3 lớp cửa, camera giám sát, bảo vệ trực 24/24, riêng người phạm tội giết người sẽ bị giám sát 24/7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.195727+07:00",
+      "fetched": "2026-05-02T19:46:51.195864+07:00"
+    },
+    {
+      "id": "c817212a425d97d5ff9d6072bffe447e",
+      "title": "Ngày cuối kỳ nghỉ lễ, các tỉnh miền Bắc đón không khí lạnh, có nơi mưa to",
+      "link": "https://tuoitre.vn/ngay-cuoi-ky-nghi-le-cac-tinh-mien-bac-don-khong-khi-lanh-co-noi-mua-to-20260502173716432.htm",
+      "summary": "Dự báo từ ngày mai (3-5), một đợt không khí lạnh yếu gây mưa cho các tỉnh Bắc Bộ, trong đó có thủ đô Hà Nội có mưa rào và dông, cục bộ có nơi mưa rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.195607+07:00",
+      "fetched": "2026-05-02T19:46:51.195716+07:00"
+    },
+    {
+      "id": "f6dc2cddb0d13cfcd00c7e6cb42c2dba",
+      "title": "Mưa lớn tại Đồng Nai, cảnh báo dông dốc",
+      "link": "https://tuoitre.vn/mua-lon-tai-dong-nai-canh-bao-dong-doc-20260502155114078.htm",
+      "summary": "Chiều 2-5, nhiều khu vực ở thành phố Đồng Nai đã xuất hiện mưa lớn. Đây là cơn mưa giải nhiệt sau nhiều ngày nắng nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.195482+07:00",
+      "fetched": "2026-05-02T19:46:51.195595+07:00"
+    },
+    {
+      "id": "1ae17e587b563f1e309bea82a908305b",
+      "title": "Iran kêu gọi dân Mỹ phản chiến, cảnh báo xung đột 'tái diễn'",
+      "link": "https://tuoitre.vn/iran-keu-goi-dan-my-phan-chien-canh-bao-xung-dot-tai-dien-20260502174330272.htm",
+      "summary": "Iran kêu gọi dân Mỹ đòi chính phủ chịu trách nhiệm về chiến sự, giữa lúc nhiều người Mỹ coi hành động quân sự này là một sai lầm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.195323+07:00",
+      "fetched": "2026-05-02T19:46:51.195469+07:00"
+    },
+    {
+      "id": "c3303bc12d99b00e03e99c1397f75a78",
+      "title": "Vinhomes Green Paradise Cần Giờ: Đô thị biển đáng sống nhất ngay cửa ngõ phía Nam TP.HCM",
+      "link": "https://tuoitre.vn/vinhomes-green-paradise-can-gio-do-thi-bien-dang-song-nhat-ngay-cua-ngo-phia-nam-tp-hcm-20260502170249308.htm",
+      "summary": "Sự phát triển hạ tầng giao thông chiến lược lẫn dự án Vinhomes Green Paradise Cần Giờ đưa Cần Giờ dần vươn lên thành một đô thị biển đáng sống nhất ngay cửa ngõ phía nam TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.195144+07:00",
+      "fetched": "2026-05-02T19:46:51.195305+07:00"
+    },
+    {
+      "id": "d3431d66ce6daf4ec8afde032fdf1ace",
+      "title": "Trực tuyến Trường Tươi Đồng Nai - Thanh Niên TP.HCM (19h15): Chủ nhà quyết thắng",
+      "link": "https://tuoitre.vn/19h15-truc-tuyen-truong-tuoi-dong-nai-thanh-nien-tp-hc-chu-nha-quyet-thang-20260502102644329.htm",
+      "summary": "Không chỉ thắng để tiếp tục dẫn đầu cuộc đua vô địch, CLB Trường Tươi Đồng Nai cũng muốn làm điều đặc biệt chào mừng Đồng Nai là thành phố trực thuộc trung ương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.195012+07:00",
+      "fetched": "2026-05-02T19:46:51.195132+07:00"
+    },
+    {
+      "id": "0ea5ca44d46b19266abeb26f2566ff00",
+      "title": "Tin tặc thân Iran gửi tin nhắn, đe dọa binh sĩ Mỹ",
+      "link": "https://tuoitre.vn/tin-tac-than-iran-gui-tin-nhan-de-doa-binh-si-my-20260502174744493.htm",
+      "summary": "Các tin tặc có liên hệ với Iran đã gửi tin nhắn đe dọa tới binh sĩ Mỹ, giữa lúc lệnh ngừng bắn Mỹ và Iran có dấu hiệu sụp đổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.194864+07:00",
+      "fetched": "2026-05-02T19:46:51.195000+07:00"
+    },
+    {
+      "id": "8757570e1d908028952342b947b76500",
+      "title": "Toyota Hilux hóa thành 'công trường di động' chở được tới 5 tấn, có cả cần cẩu tự bốc hàng",
+      "link": "https://tuoitre.vn/toyota-hilux-hoa-thanh-cong-truong-di-dong-cho-duoc-toi-5-tan-co-ca-can-cau-tu-boc-hang-20260502113431677.htm",
+      "summary": "Toyota Hilux được một công ty Thái Lan nâng cấp thành xe ben tự đổ với khả năng chở tới 5 tấn, đồng thời tích hợp cần cẩu phía sau cabin, biến mẫu bán tải này thành một 'công trường di động'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:46:51.194618+07:00",
+      "fetched": "2026-05-02T19:46:51.194848+07:00"
+    },
     {
       "id": "d0631ab8a4b5f3101ca6fe489d5bf0fe",
       "title": "Saigon Marina IFC: ngọn hải đăng giữa dòng di sản",
@@ -313,6 +463,106 @@ window.newsData_2026_05_02 = {
       "fetched": "2026-05-02T14:19:17.183326+07:00"
     },
     {
+      "id": "4d8a71158b39aa2a9525615474823dba",
+      "title": "Các 'đội ăn chực' về quê nghỉ lễ: Nhà ông bà bỗng thành đại bản doanh",
+      "link": "https://thanhnien.vn/cac-doi-an-chuc-ve-que-nghi-le-nha-ong-ba-bong-thanh-dai-ban-doanh-185260502065214107.htm",
+      "summary": "Mỗi kỳ nghỉ dài, con cháu từ thành phố kéo về, biến nhà ông bà thành đại bản doanh náo nhiệt. Những bữa cơm đông vui, giặt giũ, nấu nướng… trở thành ký ức khó quên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T12:45:00+07:00",
+      "fetched": "2026-05-02T19:46:50.032209+07:00"
+    },
+    {
+      "id": "40f133d1bbe54ec5257d3160c35e8eba",
+      "title": "Giảm hơn 13% giá sách giáo khoa từ năm học 2026 - 2027",
+      "link": "https://thanhnien.vn/giam-hon-13-gia-sach-giao-khoa-tu-nam-hoc-2026-2027-185260502185459193.htm",
+      "summary": "Nhà xuất bản Giáo dục Việt Nam thông báo từ năm học 2026 - 2027 giá sách giáo khoa sẽ giảm bình quân 13,3% so với giá sách giáo khoa của năm học trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T12:39:00+07:00",
+      "fetched": "2026-05-02T19:46:50.032377+07:00"
+    },
+    {
+      "id": "46c03e975a507e254c669b2bc4ee0695",
+      "title": "Biển người chơi lễ ở phố cổ Hội An",
+      "link": "https://vnexpress.net/bien-nguoi-choi-le-o-pho-co-hoi-an-5069004.html",
+      "summary": "Dịp lễ 30/4-1/5, các tuyến đường ở phố cổ Hội An kín người tham quan từ sáng đến tối, nhiều quán ăn, dịch vụ quá tải khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T12:31:26+07:00",
+      "fetched": "2026-05-02T19:46:47.268407+07:00"
+    },
+    {
+      "id": "119d5a23a7ea57f3c903d6f5ec5e0d87",
+      "title": "Tối nay 2.5 người Việt đừng bỏ lỡ trăng hoa huyền ảo: Vì sao hiếm gặp?",
+      "link": "https://thanhnien.vn/toi-nay-25-nguoi-viet-dung-bo-lo-trang-hoa-huyen-ao-vi-sao-hiem-gap-185260502141148594.htm",
+      "summary": "Bầu trời Việt Nam tối nay 2.5 có sự xuất hiện của trăng hoa, lần trăng tròn đầu tiên trong tháng 5. Có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T12:26:00+07:00",
+      "fetched": "2026-05-02T19:46:50.032533+07:00"
+    },
+    {
+      "id": "3037458b1876da34c09d2dede9b5e49e",
+      "title": "Trải nghiệm chụp ảnh với camera ZEISS trên vivo V70",
+      "link": "https://thanhnien.vn/trai-nghiem-chup-anh-voi-camera-zeiss-tren-vivo-v70-185260502113325489.htm",
+      "summary": "Không đặt trọng tâm vào cấu hình thuần túy, vivo V70 được xây dựng theo hướng phục vụ tốt hơn cho nhu cầu chụp ảnh hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T12:01:00+07:00",
+      "fetched": "2026-05-02T19:46:50.032688+07:00"
+    },
+    {
+      "id": "a5d4158d4fcdd651a60aa9479c25f45d",
+      "title": "Lật thuyền chở khách viếng Mẹ Đông Hải, hơn 10 người rơi xuống sông",
+      "link": "https://vnexpress.net/lat-thuyen-cho-khach-vieng-me-dong-hai-hon-10-nguoi-roi-xuong-song-5069179.html",
+      "summary": "Vỏ lãi (thuyền máy nhỏ) chở hơn 10 du khách vào khu Mẹ Đông Hải bị lật giữa sông sau khi vướng gốc cây, toàn bộ hành khách rơi xuống nước được cứu kịp thời, trưa 2/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T12:00:44+07:00",
+      "fetched": "2026-05-02T19:46:47.268582+07:00"
+    },
+    {
+      "id": "e3b9252eb1a371c97bb06346959fd8e9",
+      "title": "Trường Đại học Y Dược quy đổi IELTS từ 5.5 vào ngành Y khoa",
+      "link": "https://vnexpress.net/tuyen-sinh-dai-hoc-2026-bang-quy-doi-ielts-hoc-phi-truong-dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-chi-tiet-nhat-5069150.html",
+      "summary": "Thí sinh có IELTS 5.5 được quy đổi thành 8 điểm môn tiếng Anh khi xét vào các ngành như Y khoa, Dược học của trường Đại học Y Dược, Đại học Quốc gia Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T12:00:00+07:00",
+      "fetched": "2026-05-02T19:46:47.268786+07:00"
+    },
+    {
+      "id": "9706b82372b4fcec93b755bcd3a303b6",
+      "title": "Bác sĩ cảnh báo 6 thực phẩm âm thầm 'nuôi' tế bào ung thư",
+      "link": "https://vnexpress.net/bac-si-canh-bao-6-thuc-pham-am-tham-nuoi-te-bao-ung-thu-5069098.html",
+      "summary": "Tiêu thụ thường xuyên thực phẩm quá nóng, nấm mốc hoặc đồ muối chua, hun khói, chiên rán nhiệt độ cao... làm tăng nguy cơ ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T12:00:00+07:00",
+      "fetched": "2026-05-02T19:46:47.268954+07:00"
+    },
+    {
+      "id": "342fd19fb943f65af2a9895d31640b9d",
+      "title": "Tuyến nối sân bay Long Thành sáng rực như 'đường băng'",
+      "link": "https://vnexpress.net/tuyen-noi-san-bay-long-thanh-sang-ruc-nhu-duong-bang-5063526.html",
+      "summary": "Tỉnh lộ 25B nối Vành đai 3 TP HCM với sân bay Long Thành rộng 10 làn xe sáng rực trong đêm, tạo điểm nhấn cho đô thị Đồng Nai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T12:00:00+07:00",
+      "fetched": "2026-05-02T19:46:47.269112+07:00"
+    },
+    {
+      "id": "84891d22f7874e13f94d6738bcd52233",
+      "title": "Vì sao ngủ đủ vẫn cảm thấy buồn ngủ?",
+      "link": "https://thanhnien.vn/vi-sao-ngu-du-van-cam-thay-buon-ngu-185260501085614152.htm",
+      "summary": "Nhiều người cho dù ngủ đủ vẫn cảm thấy buồn ngủ. Theo Healthline, tình trạng buồn ngủ quá mức có thể phản ánh nhiều vấn đề sức khỏe tiềm ẩn, từ rối loạn giấc ngủ đến căng thẳng kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T12:00:00+07:00",
+      "fetched": "2026-05-02T19:46:50.032875+07:00"
+    },
+    {
       "id": "829db381a5b8b756f810d3eb2f5a1de6",
       "title": "Mỗi ngày 3 vụ rò rỉ dữ liệu, Pháp chi 200 triệu euro 'vá' an ninh mạng",
       "link": "https://tuoitre.vn/moi-ngay-3-vu-ro-ri-du-lieu-phap-chi-200-trieu-euro-va-an-ninh-mang-20260501090532451.htm",
@@ -461,6 +711,236 @@ window.newsData_2026_05_02 = {
       "category": "Tổng hợp",
       "published": "2026-05-02T11:52:39.561357+07:00",
       "fetched": "2026-05-02T11:52:39.561601+07:00"
+    },
+    {
+      "id": "5d4db1e2595ad86f7b9a724aaa723520",
+      "title": "AFC đánh giá U.17 Việt Nam và các đối thủ: Hàn Quốc rất mạnh nhưng chưa có duyên…",
+      "link": "https://thanhnien.vn/afc-danh-gia-u17-viet-nam-va-cac-doi-thu-han-quoc-rat-manh-nhung-chua-co-duyen-185260502183146582.htm",
+      "summary": "Đội tuyển U.17 Việt Nam được AFC đánh giá cao trước VCK U.17 châu Á 2026, nhưng bảng C vẫn tiềm ẩn nhiều thách thức, đặc biệt là với sự góp mặt của ứng viên vô địch Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:00+07:00",
+      "fetched": "2026-05-02T19:46:50.033031+07:00"
+    },
+    {
+      "id": "5cfb8387954c56cf098b401e853123fa",
+      "title": "Meta mất 20 triệu người dùng trong quý đầu năm 2026",
+      "link": "https://thanhnien.vn/meta-mat-20-trieu-nguoi-dung-trong-quy-dau-nam-2026-185260502155756249.htm",
+      "summary": "Trong ba tháng đầu năm, 20 triệu người dùng của Meta đã rời bỏ các nền tảng phổ biến như Facebook, Messenger, Instagram, WhatsApp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:39:00+07:00",
+      "fetched": "2026-05-02T19:46:50.033188+07:00"
+    },
+    {
+      "id": "74d10b1a0d1a5947a38bd232ff14b953",
+      "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Đọc hiểu văn bản nghị luận",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-doc-hieu-van-ban-nghi-luan-185260430185918946.htm",
+      "summary": "Vào lúc 18 giờ 30 ngày 2.5, Báo Thanh Niên phát sóng chuyên đề số 4 của môn ngữ văn trong chương trình Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:30:00+07:00",
+      "fetched": "2026-05-02T19:46:50.033335+07:00"
+    },
+    {
+      "id": "31807b9f7cda6e773243a9cb2e156fb0",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn ngữ văn | Chuyên đề 4 | Đọc hiểu văn bản nghị luận",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-ngu-van-chuyen-de-4-doc-hieu-van-ban-nghi-luan-185260428141519108.htm",
+      "summary": "Chương trình \"Bí quyết ôn thi THPT 2026\" hướng dẫn học sinh làm bài thi môn ngữ văn, kỳ thi tốt nghiệp THPT 2026. Buổi hướng dẫn do thầy Đỗ Đức Anh, Trường THPT Bùi Thị Xuân, TP.HCM thực hiện. Chương trình được phát trên các kênh thanhnien.vn, facebook.com/thanhnien và YouTube Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:30:00+07:00",
+      "fetched": "2026-05-02T19:46:50.033482+07:00"
+    },
+    {
+      "id": "1183c53271ae5d9ec742a7bfef6efe60",
+      "title": "TP.HCM đón mưa vàng giải nhiệt, nhiều người bất ngờ 'không kịp trở tay'",
+      "link": "https://thanhnien.vn/tphcm-don-mua-vang-giai-nhiet-nhieu-nguoi-bat-ngo-khong-kip-tro-tay-185260502182515002.htm",
+      "summary": "Sau chuỗi ngày nắng nóng đỉnh điểm bủa vây, chiều 2.5, nhiều nơi trên địa bàn TP.HCM bất ngờ đón một cơn 'mưa vàng' giải nhiệt. Dù phải hối hả tìm chỗ trú vì quên mang áo mưa, nhưng hầu hết người dân đều mang tâm trạng phấn khởi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:28:00+07:00",
+      "fetched": "2026-05-02T19:46:50.033625+07:00"
+    },
+    {
+      "id": "3faac8690eca9b39a69c399327bddc6a",
+      "title": "Hà Nội và nhiều tỉnh miền Bắc xuất hiện mưa đá",
+      "link": "https://vnexpress.net/ha-noi-va-nhieu-tinh-mien-bac-xuat-hien-mua-da-5069157.html",
+      "summary": "Mưa đá bất ngờ trút xuống Hà Nội, Điện Biên và Lào Cai chiều 2/5, có nơi viên đá to 4 cm, khi không khí lạnh tăng cường nén rãnh áp thấp xuống phía nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:27:55+07:00",
+      "fetched": "2026-05-02T19:46:47.269275+07:00"
+    },
+    {
+      "id": "68cdc4cbe1127595070f83bd143f275b",
+      "title": "Mưa lớn ở TP.HCM: Nhiều tuyến đường ngập sâu đến 1 m, kéo dài 2 tiếng",
+      "link": "https://thanhnien.vn/mua-lon-o-tphcm-nhieu-tuyen-duong-ngap-sau-den-1-m-keo-dai-2-tieng-1852605021809295.htm",
+      "summary": "Chiều 2.5, cơn mưa lớn bất ngờ đổ xuống làm nhiều tuyến đường ở TP.HCM ngập sâu. Có nơi nước ngập lên đến 1 m, kéo dài hơn 2 tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:20:00+07:00",
+      "fetched": "2026-05-02T19:46:50.033792+07:00"
+    },
+    {
+      "id": "a76f1df00a3f8b14cce3211a0bba3eca",
+      "title": "Giải VĐQG Hà Lan nguy cơ hỗn loạn vì vụ kiện cầu thủ lai Indonesia",
+      "link": "https://vnexpress.net/giai-vdqg-ha-lan-nguy-co-hon-loan-vi-vu-kien-cau-thu-lai-indonesia-5069167.html",
+      "summary": "133 trận đấu tại giải VĐQG Hà Lan Eredivisie 2025-2026 nguy cơ thay đổi kết quả do \"bê bối hộ chiếu\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:14:37+07:00",
+      "fetched": "2026-05-02T19:46:47.269440+07:00"
+    },
+    {
+      "id": "a76f1df00a3f8b14cce3211a0bba3eca",
+      "title": "Giải VĐQG Hà Lan nguy cơ hỗn loạn vì vụ kiện cầu thủ lai Indonesia",
+      "link": "https://vnexpress.net/giai-vdqg-ha-lan-nguy-co-hon-loan-vi-vu-kien-cau-thu-lai-indonesia-5069167.html",
+      "summary": "133 trận đấu tại giải VĐQG Hà Lan Eredivisie 2025-2026 nguy cơ thay đổi kết quả do \"bê bối hộ chiếu\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-02T11:14:37+07:00",
+      "fetched": "2026-05-02T19:46:56.879695+07:00"
+    },
+    {
+      "id": "1c1f17d6e29a75d629c6b4d11881f553",
+      "title": "Saigon Marina IFC: Ngọn hải đăng giữa dòng di sản, thắp sáng khát vọng Việt Nam",
+      "link": "https://thanhnien.vn/saigon-marina-ifc-ngon-hai-dang-giua-dong-di-san-thap-sang-khat-vong-viet-nam-185260502174556995.htm",
+      "summary": "Vào lúc 21 giờ ngày 30.4.2026, trong không khí hào hùng kỷ niệm ngày Thống nhất đất nước, bầu trời Sài Gòn đã được thắp sáng bởi màn trình diễn pháo hoa nghệ thuật mãn nhãn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:13:00+07:00",
+      "fetched": "2026-05-02T19:46:50.033956+07:00"
+    },
+    {
+      "id": "19eb9aedd57751264e1ad9d95358ce77",
+      "title": "Phạm Băng Băng mặc váy nhà mốt Việt dự liên hoan phim",
+      "link": "https://vnexpress.net/pham-bang-bang-mac-vay-nha-mot-viet-du-lien-hoan-phim-5069154.html",
+      "summary": "Diễn viên Trung Quốc Phạm Băng Băng chọn váy áo của nhà mốt Phan Huy khi được vinh danh tại Liên hoan phim Viễn Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:00:04+07:00",
+      "fetched": "2026-05-02T19:46:47.269599+07:00"
+    },
+    {
+      "id": "059659a74c5cf892a8ec63fcb418e190",
+      "title": "Tổng thống Indonesia: Chiết khấu các nền tảng gọi xe phải dưới 10%",
+      "link": "https://vnexpress.net/tong-thong-indonesia-chiet-khau-cac-nen-tang-goi-xe-phai-duoi-10-5069151.html",
+      "summary": "Tổng thống Indonesia thông tin về quy định trần chiết khấu nền tảng giảm từ 20% về 8%, bởi \"không thể để tài xế là người đổ mồ hôi, còn nền tảng lại là bên nhận tiền\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:00:00+07:00",
+      "fetched": "2026-05-02T19:46:47.269775+07:00"
+    },
+    {
+      "id": "81a67330a84e1866afdddba814ce9a81",
+      "title": "Mẹ kéo tôi đi hết nhà này đến nhà khác để gặp 'con gái người ta'",
+      "link": "https://vnexpress.net/me-keo-toi-di-het-nha-nay-den-nha-khac-de-gap-con-gai-nguoi-ta-5069125.html",
+      "summary": "Ở đâu cũng gần giống nhau: ngồi uống nước, hỏi công việc, lương bao nhiêu, trao đổi liên lạc,..., toàn những câu chuyện đãi bôi, sáo rỗng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:00:00+07:00",
+      "fetched": "2026-05-02T19:46:47.269936+07:00"
+    },
+    {
+      "id": "744928f61c8fa6dbe9724e6cb3126380",
+      "title": "Kỹ sư IT làm shipper 'lấy ngắn nuôi dài' vì không xin được việc",
+      "link": "https://vnexpress.net/ky-su-it-lam-shipper-lay-ngan-nuoi-dai-vi-khong-xin-duoc-viec-5069119.html",
+      "summary": "Nộp nhiều CV nhưng không nhận được thư mời nhận việc nào, bạn tôi đành chấp nhận chạy giao hàng trong khi tìm việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:00:00+07:00",
+      "fetched": "2026-05-02T19:46:47.270096+07:00"
+    },
+    {
+      "id": "f370b0505b977438a32f2311777e83ae",
+      "title": "Xe tải điện Sany có nhà phân phối tại Việt Nam",
+      "link": "https://vnexpress.net/xe-tai-dien-sany-co-nha-phan-phoi-tai-viet-nam-5069163.html",
+      "summary": "Hưng Thịnh EV Truck nhận quyền phân phối chính hãng các dòng xe tải điện của tập đoàn Sany, tại lễ ra mắt có hơn 200 khách mời doanh nghiệp trên toàn quốc, hôm 25/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:00:00+07:00",
+      "fetched": "2026-05-02T19:46:47.270247+07:00"
+    },
+    {
+      "id": "98acf441f41fcb504aa09bd13027161a",
+      "title": "Chỉ tiêm một mũi vaccine dại có giúp phòng bệnh?",
+      "link": "https://vnexpress.net/chi-tiem-mot-mui-vaccine-dai-co-giup-phong-benh-5068400.html",
+      "summary": "Con tôi 5 tuổi bị chó cắn vào tay, tôi sợ tiêm nhiều vaccine dại không tốt, muốn cho con tiêm một mũi được không? (Mai Phương, Thừa Thiên Huế)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:00:00+07:00",
+      "fetched": "2026-05-02T19:46:47.270396+07:00"
+    },
+    {
+      "id": "866a602f7234f17aff532f62310408a0",
+      "title": "Ít ai ngờ: Rau thơm, gia vị quen thuộc lại là ‘kho vitamin C’",
+      "link": "https://thanhnien.vn/it-ai-ngo-rau-thom-gia-vi-quen-thuoc-lai-la-kho-vitamin-c-185260502180026993.htm",
+      "summary": "Trong bữa cơm hằng ngày, nhiều người chú ý bổ sung vitamin C từ trái cây quen thuộc mà ít để ý đến nguồn dinh dưỡng ngay trong các loại rau thơm và gia vị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:00:00+07:00",
+      "fetched": "2026-05-02T19:46:50.034106+07:00"
+    },
+    {
+      "id": "54c11378d6c63cda2d93c74b0ad17a88",
+      "title": "Áo ba lỗ mát mẻ cho ngày hè nóng bức",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-ba-lo-mat-me-cho-ngay-he-nong-buc-185260501183054783.htm",
+      "summary": "Từ bãi biển rực nắng đến những buổi cà phê dạo phố, áo ba lỗ dáng ngắn chính là biểu tượng của sự tự do và quyến rũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:00:00+07:00",
+      "fetched": "2026-05-02T19:46:50.034272+07:00"
+    },
+    {
+      "id": "059659a74c5cf892a8ec63fcb418e190",
+      "title": "Tổng thống Indonesia: Chiết khấu các nền tảng gọi xe phải dưới 10%",
+      "link": "https://vnexpress.net/tong-thong-indonesia-chiet-khau-cac-nen-tang-goi-xe-phai-duoi-10-5069151.html",
+      "summary": "Tổng thống Indonesia thông tin về quy định trần chiết khấu nền tảng giảm từ 20% về 8%, bởi \"không thể để tài xế là người đổ mồ hôi, còn nền tảng lại là bên nhận tiền\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-02T11:00:00+07:00",
+      "fetched": "2026-05-02T19:46:54.398169+07:00"
+    },
+    {
+      "id": "aa0c6868f89613a97100100e1f385cd8",
+      "title": "Tài sản tỉ phú Phạm Nhật Vượng lần đầu vượt 34 tỉ USD",
+      "link": "https://thanhnien.vn/tai-san-ti-phu-pham-nhat-vuong-lan-dau-vuot-34-ti-usd-185260502173018935.htm",
+      "summary": "Tài sản tỉ phú Phạm Nhật Vượng cùng vợ tăng cao sau chưa đầy 2 tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T10:56:00+07:00",
+      "fetched": "2026-05-02T19:46:50.034424+07:00"
+    },
+    {
+      "id": "eac78f088828e276456f69b52bac54bd",
+      "title": "Khách đến Cát Bà 'đông chưa từng thấy'",
+      "link": "https://vnexpress.net/khach-den-cat-ba-dong-chua-tung-thay-5069041.html",
+      "summary": "Đảo Cát Bà ước đón gần 70.000 lượt khách trong hai ngày đầu kỳ nghỉ lễ 30/4, tăng 40% so với cùng kỳ năm ngoái nhờ thời tiết thuận lợi và hạ tầng giao thông cải thiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T10:55:46+07:00",
+      "fetched": "2026-05-02T19:46:47.270560+07:00"
+    },
+    {
+      "id": "5fadff91456cb8e80f85449123844c6c",
+      "title": "Trẻ nguy kịch vì người lớn sơ cứu đuối nước sai cách",
+      "link": "https://vnexpress.net/tre-nguy-kich-vi-nguoi-lon-so-cuu-duoi-nuoc-sai-cach-5069120.html",
+      "summary": "Trong ba ngày nghỉ lễ 29/4-1/5, Bệnh viện Nhi Trung ương tiếp nhận 4 trẻ đuối nước, người lớn áp dụng sai phương pháp sơ cứu ban đầu khiến một số bệnh nhi rơi vào tình trạng nguy kịch, phải thở máy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T10:55:03+07:00",
+      "fetched": "2026-05-02T19:46:47.270717+07:00"
+    },
+    {
+      "id": "ba76a91b881c5487cb680df288e11f2d",
+      "title": "'Giọt nước tràn ly' khiến ông Trump rút 5.000 lính Mỹ khỏi Đức",
+      "link": "https://vnexpress.net/giot-nuoc-tran-ly-khien-ong-trump-rut-5-000-linh-my-khoi-duc-5069135.html",
+      "summary": "Bình luận của Thủ tướng Merz liên quan cuộc chiến Iran giống như \"giọt nước tràn ly\", khiến Tổng thống Trump tức giận đến mức ra lệnh rút 5.000 binh sĩ khỏi Đức.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T10:53:24+07:00",
+      "fetched": "2026-05-02T19:46:53.045776+07:00"
     },
     {
       "id": "abf2011bcdff4a7cf7f02d7b1a876553",
