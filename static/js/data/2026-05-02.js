@@ -1,7 +1,157 @@
 window.newsData_2026_05_02 = {
   "date": "2026-05-02",
-  "lastUpdated": "2026-05-02T08:52:25.190775+07:00",
+  "lastUpdated": "2026-05-02T11:52:48.762848+07:00",
   "articles": [
+    {
+      "id": "829db381a5b8b756f810d3eb2f5a1de6",
+      "title": "Mỗi ngày 3 vụ rò rỉ dữ liệu, Pháp chi 200 triệu euro 'vá' an ninh mạng",
+      "link": "https://tuoitre.vn/moi-ngay-3-vu-ro-ri-du-lieu-phap-chi-200-trieu-euro-va-an-ninh-mang-20260501090532451.htm",
+      "summary": "Chính phủ Pháp công bố gói 200 triệu euro nhằm tăng cường an ninh mạng, khắc phục lỗ hổng hệ thống số khi các vụ tấn công và rò rỉ dữ liệu gia tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.562990+07:00",
+      "fetched": "2026-05-02T11:52:39.563082+07:00"
+    },
+    {
+      "id": "7fb7b5fe76f3b93a3fcdc6cdaf5404a9",
+      "title": "Buổi sáng vội vã có thể gây hại cho tim mạch",
+      "link": "https://tuoitre.vn/buoi-sang-voi-va-co-the-gay-hai-cho-tim-mach-2026050110323309.htm",
+      "summary": "Bỏ bữa sáng, uống cà phê khi bụng rỗng, vội vã hoặc căng thẳng ngay khi thức dậy... đều có thể âm thầm làm tăng huyết áp, gây áp lực lên tim và mạch máu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.562895+07:00",
+      "fetched": "2026-05-02T11:52:39.562982+07:00"
+    },
+    {
+      "id": "1d4ae76d41cd8ed227a5fdcff2c53da9",
+      "title": "Cố tình vượt rào chắn đang hạ, tài xế xe tải bị tước bằng 2 tháng",
+      "link": "https://tuoitre.vn/co-tinh-vuot-rao-chan-dang-ha-tai-xe-xe-tai-bi-tuoc-bang-2-thang-20260502073225663.htm",
+      "summary": "Dù tín hiệu cảnh báo đã bật, tài xế xe tải vẫn cố băng qua đường sắt. Cảnh sát giao thông TP.HCM xác minh, xử phạt 5 triệu đồng và tước bằng lái 2 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.562800+07:00",
+      "fetched": "2026-05-02T11:52:39.562887+07:00"
+    },
+    {
+      "id": "be9f7dab0d3540251b06b8b444cd7159",
+      "title": "Hành trình đi tìm trĩ sao cực hiếm của hai chàng trai An Lão",
+      "link": "https://tuoitre.vn/hanh-trinh-di-tim-tri-sao-cuc-hiem-cua-hai-chang-trai-an-lao-20260501161730631.htm",
+      "summary": "Gần một tháng qua, trĩ sao gây xôn xao giới săn ảnh chim hoang dã. Ít ai ngờ dấu vết loài cực hiếm này lại do hai chàng trai An Lão lần ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.562702+07:00",
+      "fetched": "2026-05-02T11:52:39.562792+07:00"
+    },
+    {
+      "id": "bf3f0a6def458380fa715f86d330e8c5",
+      "title": "Rùng mình với kiểu chăm sóc sức khỏe, làm đẹp bằng 'nước tiểu tự thân'",
+      "link": "https://tuoitre.vn/rung-minh-voi-kieu-cham-soc-suc-suc-khoe-lam-dep-bang-nuoc-tieu-tu-than-20260429214139527.htm",
+      "summary": "Những ngày qua, trên mạng xã hội lan truyền cách chăm sóc sức khỏe, làm đẹp bằng nước tiểu khiến không ít người hoang mang. Đáng nói, một phương pháp nghe đã “có vấn đề” nhưng lại có nhiều người tin tưởng và làm theo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.562603+07:00",
+      "fetched": "2026-05-02T11:52:39.562693+07:00"
+    },
+    {
+      "id": "9bb620e17a27b406418490893fee2e57",
+      "title": "Ông Trump nói chiến sự Iran đã chấm dứt từ tháng 4, không cần Quốc hội phê chuẩn",
+      "link": "https://tuoitre.vn/ong-trump-noi-chien-su-iran-da-cham-dut-tu-thang-4-khong-can-quoc-hoi-phe-chuan-20260502083324284.htm",
+      "summary": "Ông Trump khẳng định xung đột với Iran thực chất đã kết thúc từ đầu tháng 4, sau khi hai bên đạt thỏa thuận ngừng bắn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.562495+07:00",
+      "fetched": "2026-05-02T11:52:39.562595+07:00"
+    },
+    {
+      "id": "41bba56cb20795cc39a55bbc23bd4068",
+      "title": "Làm việc ở tư thế đứng hay ngồi thì tốt hơn?",
+      "link": "https://tuoitre.vn/lam-viec-o-tu-the-dung-hay-ngoi-thi-tot-hon-20260501093853036.htm",
+      "summary": "Tranh luận \"ngồi hay đứng tốt hơn?\" đã kéo dài nhiều năm, nhưng các chuyên gia cho rằng vấn đề không nằm ở việc chọn một tư thế \"đứng\", \"ngồi\", mà ở cách chúng ta sử dụng cơ thể trong suốt ngày làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.562375+07:00",
+      "fetched": "2026-05-02T11:52:39.562479+07:00"
+    },
+    {
+      "id": "271a7ca041c9ee029d862704abeba1b9",
+      "title": "Du lịch thể thao giúp 'một nửa thế giới đang ở Đà Nẵng'",
+      "link": "https://tuoitre.vn/du-lich-the-thao-giup-mot-nua-the-gioi-dang-o-da-nang-2026050208094827.htm",
+      "summary": "Trong đợt nghỉ lễ 30-4, nhiều người hay đùa với nhau \"một nửa thế giới đang ở Đà Nẵng, một nửa còn lại đang đến Đà Nẵng\" để nhắc đến sự có mặt của đông đảo du khách trong và ngoài nước tại đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.562280+07:00",
+      "fetched": "2026-05-02T11:52:39.562367+07:00"
+    },
+    {
+      "id": "f65aaa5d8eca611f2455de2c58dc531e",
+      "title": "'Cha đẻ' Doraemon kỷ niệm tuổi 50, tung 7 dự án lớn trải dài cả năm 2026",
+      "link": "https://tuoitre.vn/cha-de-doraemon-ky-niem-tuoi-50-tung-7-du-an-lon-trai-dai-ca-nam-2026-20260502080622848.htm",
+      "summary": "Shin-Ei Animation - hãng phim đứng sau loạt anime quốc dân như Doraemon và Shin cậu bé bút chì - chính thức bước sang tuổi 50, khởi động chuỗi hoạt động quy mô gồm phim điện ảnh, anime mới, triển lãm và nhiều dự án hợp tác đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.562184+07:00",
+      "fetched": "2026-05-02T11:52:39.562271+07:00"
+    },
+    {
+      "id": "613ebbb4cc9b6a198f67306ae8e7b83b",
+      "title": "Indonesia siết quản lý Roblox, buộc xác minh độ tuổi bằng khuôn mặt",
+      "link": "https://tuoitre.vn/indonesia-siet-quan-ly-roblox-buoc-xac-minh-do-tuoi-bang-khuon-mat-20260502085306131.htm",
+      "summary": "Người dùng Roblox dưới 16 tuổi phải quay video selfie xác minh tuổi, trong bối cảnh Indonesia siết chặt quản lý trẻ em trên các nền tảng số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.562086+07:00",
+      "fetched": "2026-05-02T11:52:39.562176+07:00"
+    },
+    {
+      "id": "6f6015be38092a7e27b96ed79211c73e",
+      "title": "Công thức tính tiền lương, phụ cấp cán bộ, công chức khi lương cơ sở sẽ tăng 2,53 triệu đồng từ 1-7",
+      "link": "https://tuoitre.vn/cong-thuc-tinh-tien-luong-phu-cap-can-bo-cong-chuc-khi-luong-co-so-se-tang-2-53-trieu-dong-tu-1-7-20260502085845477.htm",
+      "summary": "Bộ Nội vụ đã đề xuất công thức cụ thể tính tiền lương, phụ cấp của cán bộ, công chức khi dự kiến tăng 2,53 triệu đồng từ 1-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.561983+07:00",
+      "fetched": "2026-05-02T11:52:39.562077+07:00"
+    },
+    {
+      "id": "e3f46dce90694078457d0308b316658b",
+      "title": "Mùa hòa bình, mùa vui ở Bàn Cờ",
+      "link": "https://tuoitre.vn/mua-hoa-binh-mua-vui-o-ban-co-20260427212952961.htm",
+      "summary": "Làn gió sớm mai len lỏi cũng là lúc cư dân khu Bàn Cờ (TP.HCM) lục tục chuẩn bị đi học, đi làm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.561878+07:00",
+      "fetched": "2026-05-02T11:52:39.561974+07:00"
+    },
+    {
+      "id": "bcaa4de85a72f95df959c4336f6cb4a3",
+      "title": "Chiếc áo thiên nga, Độc thoại đêm có mặt trong sách của tác giả Lê Duy Hạnh",
+      "link": "https://tuoitre.vn/chiec-ao-thien-nga-doc-thoai-dem-co-mat-trong-sach-cua-tac-gia-le-duy-hanh-20260502092943436.htm",
+      "summary": "Tiến sĩ Lê Hoàng Long, con trai cố tác giả Lê Duy Hạnh, vui mừng cho biết gia đình đã hoàn thành sách kịch bản sân khấu thứ 5 của ông, trong đó có những tác phẩm như Chiếc áo thiên nga, Độc thoại đêm…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.561758+07:00",
+      "fetched": "2026-05-02T11:52:39.561869+07:00"
+    },
+    {
+      "id": "fc9064572e7c5c005ffdb536b0712449",
+      "title": "Vụ cháy xe ở cây xăng khiến 2 người chết: xe chở nhiều pin, cứu hộ không được báo có người bên trong",
+      "link": "https://tuoitre.vn/vu-chay-xe-o-cay-xang-khien-2-nguoi-chet-xe-cho-nhieu-pin-cuu-ho-khong-duoc-bao-co-nguoi-ben-trong-20260502090848403.htm",
+      "summary": "Xe bất ngờ phát nổ từ cốp khi chuẩn bị đổ xăng. Trên xe có nhiều pin, ắc quy đã sạc đầy, khiến hai người không kịp thoát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.561616+07:00",
+      "fetched": "2026-05-02T11:52:39.561733+07:00"
+    },
+    {
+      "id": "de467e3d3f59ced0e569b8f342aba911",
+      "title": "Một giám đốc người Hàn Quốc mất tích khi chèo SUP ở hồ Đá Đen",
+      "link": "https://tuoitre.vn/mot-giam-doc-nguoi-han-quoc-mat-tich-khi-cheo-sup-o-ho-da-den-20260502094206409.htm",
+      "summary": "Gần 100 người được huy động để tìm kiếm một giám đốc doanh nghiệp có quốc tịch Hàn Quốc mất tích khi chèo SUP ở hồ Đá Đen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T11:52:39.561357+07:00",
+      "fetched": "2026-05-02T11:52:39.561601+07:00"
+    },
     {
       "id": "d380e8751518934797c79ee80e50ef2a",
       "title": "Không có chuyện Mourinho trở lại dẫn dắt Real Madrid",
@@ -151,6 +301,406 @@ window.newsData_2026_05_02 = {
       "category": "Tổng hợp",
       "published": "2026-05-02T05:40:22.848670+07:00",
       "fetched": "2026-05-02T05:40:22.848881+07:00"
+    },
+    {
+      "id": "3dbe9f460ecb79db55c2b5fe5ba56756",
+      "title": "Tin tặc thân Iran gửi tin nhắn đe dọa loạt quân nhân Mỹ",
+      "link": "https://vnexpress.net/tin-tac-than-iran-gui-tin-nhan-de-doa-loat-quan-nhan-my-5069070.html",
+      "summary": "Một số quân nhân và nhân viên dân sự của Lầu Năm Góc nhận tin nhắn đe dọa từ nhóm tin tặc thân Iran từng nhắm vào Giám đốc FBI.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T04:31:12+07:00",
+      "fetched": "2026-05-02T11:52:41.621908+07:00"
+    },
+    {
+      "id": "9bed4b246fc2ecb291af5478961af2d9",
+      "title": "Rải hàng chục CV vẫn bặt vô âm tín, nhiều người chật vật tìm việc",
+      "link": "https://thanhnien.vn/rai-hang-chuc-cv-van-bat-vo-am-tin-nhieu-nguoi-chat-vat-tim-viec-185260430142005756.htm",
+      "summary": "Trong bối cảnh thị trường lao động cạnh tranh khốc liệt, nhiều bạn trẻ rơi vào tình cảnh gửi đi hàng chục CV nhưng nhận lại sự im lặng. Khoảng thời gian tìm việc kéo dài không chỉ tạo áp lực tài chính, mà còn khiến nhiều người tự nghi ngờ bản thân, mất phương hướng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:30:00+07:00",
+      "fetched": "2026-05-02T11:52:38.459026+07:00"
+    },
+    {
+      "id": "511f37857ba70e569fe39a21b8825042",
+      "title": "Những món đồ từng bị bỏ quên đang 'hồi sinh' mạnh mẽ",
+      "link": "https://thanhnien.vn/nhung-mon-do-tung-bi-bo-quen-dang-hoi-sinh-manh-me-185260424133743303.htm",
+      "summary": "Nhiều người dùng vẫn hoài niệm về những thiết bị cũ và sự yêu thích này đã giúp thế hệ trẻ ngày nay khám phá lại những món đồ từng bị lãng quên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:28:00+07:00",
+      "fetched": "2026-05-02T11:52:38.459180+07:00"
+    },
+    {
+      "id": "6d090b2df6449db82d5ee037c82566f4",
+      "title": "Chính thức xác định 8 đội tham dự giải bóng chuyền nữ quốc tế VTV9 - Bình Điền 2026",
+      "link": "https://thanhnien.vn/chinh-thuc-xac-dinh-8-doi-tham-du-giai-bong-chuyen-nu-quoc-te-vtv9-binh-dien-2026-185260502112228594.htm",
+      "summary": "Ban tổ chức giải bóng chuyền nữ quốc tế VTV9 - Bình Điền chính thức công bố 8 đội bóng tham dự mùa giải năm nay, hứa hẹn mang đến cho người hâm mộ những trận đấu hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:26:00+07:00",
+      "fetched": "2026-05-02T11:52:38.459317+07:00"
+    },
+    {
+      "id": "0c61596d5ee98d379676def53f5b9231",
+      "title": "Quảng Trị: Bắt giữ nghi phạm vận chuyển 16.000 viên ma túy từ Lào qua Việt Nam",
+      "link": "https://thanhnien.vn/quang-tri-bat-giu-nghi-pham-van-chuyen-16000-vien-ma-tuy-tu-lao-qua-viet-nam-185260502104245268.htm",
+      "summary": "Công an xã Tân Lập (Quảng Trị) vừa phát hiện và bắt giữ một nghi phạm vận chuyển trái phép 16.000 viên ma túy từ Lào qua Việt Nam để bán và sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:21:00+07:00",
+      "fetched": "2026-05-02T11:52:38.459463+07:00"
+    },
+    {
+      "id": "64fa89da196d5819413feb7b6fbef492",
+      "title": "Tập thể dục buổi nào giúp kiểm soát đường huyết tốt hơn?",
+      "link": "https://thanhnien.vn/tap-the-duc-buoi-nao-giup-kiem-soat-duong-huyet-tot-hon-185260502111923514.htm",
+      "summary": "Không chỉ tập đều, thời điểm vận động cũng ảnh hưởng kiểm soát đường huyết. Nghiên cứu mới cho thấy tập thể dục buổi chiều và tối giúp cải thiện độ nhạy insulin, ổn định đường huyết tốt hơn buổi sáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:19:00+07:00",
+      "fetched": "2026-05-02T11:52:38.459595+07:00"
+    },
+    {
+      "id": "96ac66f28c63d1a24ff396099b8c6efa",
+      "title": "Báo Trung Quốc phân tích sâu điểm mạnh U.17 nữ Việt Nam, cảnh báo đội nhà ‘thận trọng’",
+      "link": "https://thanhnien.vn/bao-trung-quoc-phan-tich-sau-diem-manh-u17-nu-viet-nam-canh-bao-doi-nha-than-trong-185260502110849217.htm",
+      "summary": "Sau lượt đấu đầu tiên ở bảng A giải vô địch bóng đá nữ U.17 châu Á 2026, truyền thông Trung Quốc đã dành sự chú ý đặc biệt cho U.17 nữ Việt Nam, đồng thời đưa ra cảnh báo rõ ràng dành cho đội nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:19:00+07:00",
+      "fetched": "2026-05-02T11:52:38.459717+07:00"
+    },
+    {
+      "id": "6d2873b3b3ffd5ead0528cf8c03cbd3e",
+      "title": "Chính quyền ông Trump duyệt gói bán vũ khí 8,6 tỉ USD cho Trung Đông",
+      "link": "https://thanhnien.vn/chinh-quyen-ong-trump-duyet-goi-ban-vu-khi-86-ti-usd-cho-trung-dong-1852605021104469.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump đã phê duyệt thương vụ bán vũ khí trị giá 8,6 tỉ USD cho 4 đồng minh Trung Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:16:00+07:00",
+      "fetched": "2026-05-02T11:52:38.459836+07:00"
+    },
+    {
+      "id": "2f2b373bf74d4d494058606d04577fe9",
+      "title": "Antony xấu hổ khi đứng trước cơ thể của Ronaldo",
+      "link": "https://vnexpress.net/antony-xau-ho-khi-dung-truoc-co-the-cua-ronaldo-5069010.html",
+      "summary": "Tiền đạo người Brazil Antony thừa nhận sự mặc cảm khi không chăm sóc tốt cơ thể như siêu sao đồng đội cũ Cristiano Ronaldo tại Man Utd.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:11:31+07:00",
+      "fetched": "2026-05-02T11:52:34.836218+07:00"
+    },
+    {
+      "id": "2f2b373bf74d4d494058606d04577fe9",
+      "title": "Antony xấu hổ khi đứng trước cơ thể của Ronaldo",
+      "link": "https://vnexpress.net/antony-xau-ho-khi-dung-truoc-co-the-cua-ronaldo-5069010.html",
+      "summary": "Tiền đạo người Brazil Antony thừa nhận sự mặc cảm khi không chăm sóc tốt cơ thể như siêu sao đồng đội cũ Cristiano Ronaldo tại Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-02T04:11:31+07:00",
+      "fetched": "2026-05-02T11:52:48.756740+07:00"
+    },
+    {
+      "id": "474f513728b5711538ff6be97d7d872e",
+      "title": "Su-34 Nga lần đầu mang cùng lúc 6 bom lượn để tập kích Ukraine",
+      "link": "https://vnexpress.net/su-34-nga-lan-dau-mang-cung-luc-6-bom-luon-de-tap-kich-ukraine-5069056.html",
+      "summary": "Máy bay Su-34 Nga lắp 6 bom dẫn đường UMPK và UMPB, thay vì 2-4 quả như trước, giúp tăng tối hỏa lực tấn công mục tiêu ở Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:08:58+07:00",
+      "fetched": "2026-05-02T11:52:34.836386+07:00"
+    },
+    {
+      "id": "474f513728b5711538ff6be97d7d872e",
+      "title": "Su-34 Nga lần đầu mang cùng lúc 6 bom lượn để tập kích Ukraine",
+      "link": "https://vnexpress.net/su-34-nga-lan-dau-mang-cung-luc-6-bom-luon-de-tap-kich-ukraine-5069056.html",
+      "summary": "Máy bay Su-34 Nga lắp 6 bom dẫn đường UMPK và UMPB, thay vì 2-4 quả như trước, giúp tăng tối hỏa lực tấn công mục tiêu ở Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T04:08:58+07:00",
+      "fetched": "2026-05-02T11:52:41.622061+07:00"
+    },
+    {
+      "id": "c73af447c8bb0cf617bc26274f325d23",
+      "title": "8 thói quen sinh hoạt 'tưởng sạch nhưng rất bẩn'",
+      "link": "https://vnexpress.net/8-thoi-quen-sinh-hoat-tuong-sach-nhung-rat-ban-5068749.html",
+      "summary": "Uống nước trực tiếp từ lon, gấp chăn sau khi ngủ dậy hay rửa thịt dưới vòi nước là những thói quen tưởng sạch nhưng lại giúp vi khuẩn sinh sôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:08:51+07:00",
+      "fetched": "2026-05-02T11:52:34.836549+07:00"
+    },
+    {
+      "id": "45238fa55d47b21246e63fbf393550f8",
+      "title": "Thiết bị tương lai có thể không cần thay pin nhờ đột phá mới",
+      "link": "https://thanhnien.vn/thiet-bi-tuong-lai-co-the-khong-can-thay-pin-nho-dot-pha-moi-18526050118493914.htm",
+      "summary": "Công nghệ pin perovskite mới hoạt động hiệu quả dưới ánh sáng trong nhà, mở ra khả năng cung cấp năng lượng liên tục cho thiết bị nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:08:00+07:00",
+      "fetched": "2026-05-02T11:52:38.459959+07:00"
+    },
+    {
+      "id": "2d96971ca50c9e4538433c6eebc91bf3",
+      "title": "8 giờ nghẹt thở truy bắt đôi nam nữ dùng dao tấn công chủ tiệm vàng tại Hà Tĩnh",
+      "link": "https://thanhnien.vn/8-gio-nghet-tho-truy-bat-doi-nam-nu-dung-dao-tan-cong-chu-tiem-vang-tai-ha-tinh-185260502104333142.htm",
+      "summary": "Sau khi vờ mua rồi cướp 1 cây vàng tại tiệm vàng ở Hà Tĩnh, đôi nam nữ đã dùng dao nhọn tấn công chủ tiệm và người dân để thoát thân. Tuy nhiên, chỉ sau 8 giờ gây án, cả hai đã sa lưới lực lượng công an.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:06:00+07:00",
+      "fetched": "2026-05-02T11:52:38.460085+07:00"
+    },
+    {
+      "id": "306eb46fea3ef238ec8225f78c7ff800",
+      "title": "Ông Trump áp đặt biện pháp cấm vận mới, Cuba lên án",
+      "link": "https://thanhnien.vn/ong-trump-ap-dat-bien-phap-cam-van-moi-cuba-len-an-185260502104515547.htm",
+      "summary": "Ngoại trưởng Cuba Bruno Rodriguez ngày 1.5 đã có phản ứng về những biện pháp cấm vận mới của Tổng thống Mỹ Donald Trump đối với quốc đảo này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:04:00+07:00",
+      "fetched": "2026-05-02T11:52:38.460210+07:00"
+    },
+    {
+      "id": "edeeebe237ddf64db88bd1cb134ea45d",
+      "title": "Tổng thống Trump nói Hải quân Mỹ bắt tàu Iran như 'cướp biển'",
+      "link": "https://thanhnien.vn/tong-thong-trump-noi-hai-quan-my-bat-tau-iran-nhu-cuop-bien-18526050211005793.htm",
+      "summary": "Tổng thống Donald Trump cho rằng Hải quân Mỹ đang hành động \"như cướp biển\" khi thực hiện lệnh phong tỏa đối với các cảng của Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:02:00+07:00",
+      "fetched": "2026-05-02T11:52:38.460327+07:00"
+    },
+    {
+      "id": "0b6adc631e5f464d5dfa51c483bca5d5",
+      "title": "Giám đốc người Hàn mất tích khi chèo SUP ở TP HCM",
+      "link": "https://vnexpress.net/giam-doc-nguoi-han-mat-tich-khi-cheo-sup-o-tp-hcm-5069075.html",
+      "summary": "Ông Kim Heon Su, 65 tuổi, giám đốc một công ty vốn Hàn Quốc, mất tích khi chèo ván SUP trên hồ Đá Đen, xã Kim Long, lực lượng chức năng đang xuyên đêm tìm kiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:00:06+07:00",
+      "fetched": "2026-05-02T11:52:34.836686+07:00"
+    },
+    {
+      "id": "844073810642de3f3a6b91f591a874da",
+      "title": "Tôi không chở con ra quán cà phê vì thanh niên chửi thề quá nhiều",
+      "link": "https://vnexpress.net/toi-khong-cho-con-ra-quan-ca-phe-vi-thanh-nien-chui-the-qua-nhieu-5069046.html",
+      "summary": "Tôi phản ánh với chủ quán thì được bảo: 'Bó tay, mồm ai nấy nói, không quản được'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:00:00+07:00",
+      "fetched": "2026-05-02T11:52:34.836824+07:00"
+    },
+    {
+      "id": "74bb38be9fd1c9d5e609ba7bdbd96909",
+      "title": "Anh không chịu cưới nhưng cũng không cho tôi yêu người khác",
+      "link": "https://vnexpress.net/anh-khong-chiu-cuoi-nhung-cung-khong-cho-toi-yeu-nguoi-khac-5069018.html",
+      "summary": "Thậm chí anh còn đe dọa: \"Tao không có được thì thằng khác đừng mong có được\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:00:00+07:00",
+      "fetched": "2026-05-02T11:52:34.836963+07:00"
+    },
+    {
+      "id": "472a141df6746133e89e15ac7c2e4c19",
+      "title": "Rợp bóng cờ đỏ sao vàng trên đường chạy VM Green Paradise Cần Giờ",
+      "link": "https://vnexpress.net/rop-bong-co-do-sao-vang-tren-duong-chay-vm-green-paradise-can-gio-5069027.html",
+      "summary": "Diễn ra dịp 30/4 và 1/5, giải đấu ghi dấu bằng sắc đỏ sao vàng phủ khắp cung đường khi hơn 5.000 người tham gia mang niềm tự hào dân tộc vào từng bước chạy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:00:00+07:00",
+      "fetched": "2026-05-02T11:52:34.837099+07:00"
+    },
+    {
+      "id": "4fea680173930ced9c77561c4e07effe",
+      "title": "Bị viêm tụy mạn tính có cần tầm soát ung thư?",
+      "link": "https://vnexpress.net/bi-viem-tuy-man-tinh-co-can-tam-soat-ung-thu-5068511.html",
+      "summary": "Tôi 33 tuổi, viêm tụy mạn tính, hiện điều trị bằng thuốc. Tôi có cần tầm soát ung thư tụy định kỳ không? Nhờ bác sĩ tư vấn. (Hoàng Dung, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:00:00+07:00",
+      "fetched": "2026-05-02T11:52:34.837236+07:00"
+    },
+    {
+      "id": "fe504e376609d60d778c1788dd3500b2",
+      "title": "Ăn gì để không nhiễm HPV?",
+      "link": "https://vnexpress.net/an-gi-de-khong-nhiem-hpv-5068393.html",
+      "summary": "Tôi 25 tuổi, nghe nói quan hệ tình dục dễ lây nhiễm HPV, ăn món gì giúp phòng nhiễm bệnh? (Kiều Oanh, 25 tuổi, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:00:00+07:00",
+      "fetched": "2026-05-02T11:52:34.837361+07:00"
+    },
+    {
+      "id": "42155246c0f2b3dbb2001a4ecbcb02d1",
+      "title": "Xem nhanh 12h: Xung đột Mỹ - Iran chấm dứt? | Thông tin vụ ô tô cháy rực ở cây xăng",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-xung-dot-my-iran-cham-dut-thong-tin-vu-o-to-chay-ruc-o-cay-xang-185260502103517508.htm",
+      "summary": "Diễn biến xung đột Mỹ - Iran; Vụ cháy xe ở cây xăng; CSGT TP.HCM đo nồng độ cồn ban ngày dịp lễ;... là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 2.5.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T04:00:00+07:00",
+      "fetched": "2026-05-02T11:52:38.460466+07:00"
+    },
+    {
+      "id": "a7d8e58844bf692f68e38eed1a46eb1c",
+      "title": "Hàng loạt ôtô, xe máy dừng đỗ trên cầu vượt cửa biển dài nhất miền Trung",
+      "link": "https://vnexpress.net/hang-loat-oto-xe-may-dung-do-tren-cau-vuot-cua-bien-dai-nhat-mien-trung-5069000.html",
+      "summary": "Dù biết vi phạm, nhiều người dân vẫn dừng, đỗ ôtô, xe máy trên cầu vượt cửa biển Thuận An để chụp ảnh kỷ niệm cây cầu mới thông xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T03:57:19+07:00",
+      "fetched": "2026-05-02T11:52:34.837504+07:00"
+    },
+    {
+      "id": "ecf4d425dd888a278d9b3f134fad64dc",
+      "title": "Akira Phan hỏi cưới bạn gái doanh nhân",
+      "link": "https://vnexpress.net/akira-phan-hoi-cuoi-ban-gai-doanh-nhan-5069058.html",
+      "summary": "Ca sĩ \"Mùa đông không lạnh\" Akira Phan cùng doanh nhân Trúc Phương tổ chức lễ ăn hỏi sau một năm hẹn hò, sáng 2/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T03:51:33+07:00",
+      "fetched": "2026-05-02T11:52:34.837630+07:00"
+    },
+    {
+      "id": "02d59d7b0590ace9f6a724c5e8545938",
+      "title": "Cây 'cô đơn' thành điểm check-in hút khách trên đảo Phú Quý",
+      "link": "https://vnexpress.net/cay-co-don-thanh-diem-check-in-hut-khach-tren-dao-phu-quy-5068778.html",
+      "summary": "Từ một cây cách mọc bên bờ biển thôn Tam Thanh, cây \"cô đơn\" ở Phú Quý trở thành tọa độ check-in được nhiều du khách tìm đến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T03:50:40+07:00",
+      "fetched": "2026-05-02T11:52:34.837748+07:00"
+    },
+    {
+      "id": "cdc664f84e6f2e6ba65ebfe970e37e1b",
+      "title": "Lịch thi đấu U.17 nữ Việt Nam mới nhất: Chủ nhà Trung Quốc mạnh cỡ nào, tại sao không phát trực tiếp?",
+      "link": "https://thanhnien.vn/lich-thi-dau-u17-nu-viet-nam-moi-nhat-chu-nha-trung-quoc-manh-co-nao-tai-sao-khong-phat-truc-tiep-185260502104039204.htm",
+      "summary": "Thắng đậm 6-0 ở trận ra quân gặp Myanmar, đội tuyển U.17 nữ Trung Quốc cho thấy sức mạnh đáng gờm trước khi chạm trán đội tuyển U.17 nữ Việt Nam tại bảng A giải U.17 nữ châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T03:47:00+07:00",
+      "fetched": "2026-05-02T11:52:38.460593+07:00"
+    },
+    {
+      "id": "b811e6449c1c54fefe7229ed95f91b5d",
+      "title": "Cái gì Adam có 2, Eva chỉ có 1?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-cai-gi-adam-co-2-eva-chi-co-1-5068938.html",
+      "summary": "Một câu đố tưởng dễ mà khiến nhiều người 'đứng hình', Adam có 2, Eva chỉ có 1 – bí ẩn nằm ngay trong cách bạn nhìn chữ!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T03:46:00+07:00",
+      "fetched": "2026-05-02T11:52:34.837877+07:00"
+    },
+    {
+      "id": "098a4ab1c00a8d57808de4c5ca938595",
+      "title": "Cháy nhà 5 tầng ở TP HCM, cảnh sát bắc thang cứu cụ ông",
+      "link": "https://vnexpress.net/chay-nha-5-tang-o-tp-hcm-canh-sat-bac-thang-cuu-cu-ong-5069072.html",
+      "summary": "Hỏa hoạn bùng lên tại căn nhà 5 tầng gần cầu Thủ Thiêm, phường Thạnh Mỹ Tây, khiến cụ ông 82 tuổi mắc kẹt trên tầng cao nhất, được cảnh sát giải cứu, sáng 2/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T03:43:13+07:00",
+      "fetched": "2026-05-02T11:52:34.838006+07:00"
+    },
+    {
+      "id": "9fa62e40bc30b8e05b6f02ca5e548bee",
+      "title": "Hoài Linh, Quyền Linh lần đầu đóng phim chung",
+      "link": "https://vnexpress.net/hoai-linh-quyen-linh-lan-dau-dong-phim-chung-5069064.html",
+      "summary": "Diễn viên Hoài Linh, Quyền Linh lần đầu kết hợp trong phim điện ảnh về áp lực của người trẻ giữa cuộc sống hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T03:41:26+07:00",
+      "fetched": "2026-05-02T11:52:34.838129+07:00"
+    },
+    {
+      "id": "2dc4e9047845d8262f91244e80286638",
+      "title": "Vải thiều mất mùa",
+      "link": "https://vnexpress.net/vai-thieu-mat-mua-5069052.html",
+      "summary": "Sản lượng vải thiều năm nay tại nhiều vùng giảm mạnh, có nơi tới 50% nên giá được dự báo tiếp tục neo cao ngay cả vào chính vụ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-02T03:40:10+07:00",
+      "fetched": "2026-05-02T11:52:43.206130+07:00"
+    },
+    {
+      "id": "b67d1721f34afebee9f90c2513e30386",
+      "title": "Siêu xe BYD đắt đỏ nhất có giá gần 2,8 triệu USD, sản xuất 30 chiếc",
+      "link": "https://thanhnien.vn/sieu-xe-byd-dat-do-nhat-co-gia-gan-28-trieu-usd-san-xuat-30-chiec-185260501141118546.htm",
+      "summary": "Được hãng xe Trung Quốc chốt giá hơn 20 triệu nhân dân tệ, tương đương 2,76 triệu USD, Yangwang U9 Xtreme trở thành mẫu xe có giá đắt đỏ nhất của BYD từ trước đến nay và chỉ sản xuất, phân phối giới hạn 30 chiếc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T03:31:00+07:00",
+      "fetched": "2026-05-02T11:52:38.460716+07:00"
+    },
+    {
+      "id": "6b49522b5e9a7b2d35e0ea5ad59d3a4b",
+      "title": "Thời tiết tháng 5 miền Bắc nắng nóng bất thường, Nam bộ đón mùa mưa muộn",
+      "link": "https://thanhnien.vn/thoi-tiet-thang-5-mien-bac-nang-nong-bat-thuong-nam-bo-don-mua-mua-muon-185260502095126337.htm",
+      "summary": "Dự báo thời tiết tháng 5, các tỉnh miền Bắc sẽ có nhiều ngày nắng nóng hơn so với trung bình nhiều năm. Trong khi đó, mùa mưa ở Nam bộ đến muộn hơn so với trung bình nhiều năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T03:28:00+07:00",
+      "fetched": "2026-05-02T11:52:38.460839+07:00"
+    },
+    {
+      "id": "ddd29946add8c13e4a65e11bc7bdf46b",
+      "title": "Streamer nổi tiếng Thái Lan gây tranh cãi vì 'giải cứu' sầu riêng",
+      "link": "https://vnexpress.net/streamer-noi-tieng-thai-lan-gay-tranh-cai-vi-giai-cuu-sau-rieng-5069057.html",
+      "summary": "Streamer hàng đầu Thái Lan Pimrypie mở phiên bán \"phá giá\" nhằm giải cứu sầu riêng, gây tranh cãi tác động thị trường và tình hình kinh tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T03:23:42+07:00",
+      "fetched": "2026-05-02T11:52:41.622197+07:00"
+    },
+    {
+      "id": "26ecfe7095088bbac48ffdf2bfbd1488",
+      "title": "Triển khai 5 nhiệm vụ nghiên cứu bán dẫn Việt Nam - Nhật Bản",
+      "link": "https://vnexpress.net/trien-khai-5-nhiem-vu-nghien-cuu-ban-dan-viet-nam-nhat-ban-5068758.html",
+      "summary": "Bộ Khoa học và Công nghệ vừa phê duyệt 5 nhiệm vụ về vi mạch tích hợp 3D, vật liệu transistor độ linh động cao, cảm biến môi trường, chip AI SoC và linh kiện điện tử công suất, có sự hợp tác giữa các trường đại học Việt Nam và Nhật Bản.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-02T03:00:00+07:00",
+      "fetched": "2026-05-02T11:52:46.918279+07:00"
+    },
+    {
+      "id": "6df603cafb4a1314ee2aceb898c7f71b",
+      "title": "Ukraine tuyên bố phóng UAV, đánh trúng tiêm kích Su-57 Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-phong-uav-danh-trung-tiem-kich-su-57-nga-5069028.html",
+      "summary": "Quân đội Ukraine thông báo tập kích sân bay tại tỉnh Chelyabinsk của Nga, cách biên giới 1.700 km, đánh trúng các chiến đấu cơ Su-57 và Su-34.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T02:43:48+07:00",
+      "fetched": "2026-05-02T11:52:41.622329+07:00"
+    },
+    {
+      "id": "ba58f42f9662ceeaf2e19674a4de4668",
+      "title": "Ông Trump: Phủ nhận 'Mỹ chiến thắng Iran' là hành vi phản quốc",
+      "link": "https://vnexpress.net/ong-trump-phu-nhan-my-chien-thang-iran-la-hanh-vi-phan-quoc-5069042.html",
+      "summary": "Tổng thống Trump chỉ trích bình luận từ phe cánh tả Mỹ cho rằng nước này không chiến thắng trong xung đột với Iran, gọi quan điểm đó là \"phản quốc\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T02:38:17+07:00",
+      "fetched": "2026-05-02T11:52:41.622548+07:00"
+    },
+    {
+      "id": "a5aa5892e20b50f1452d8f530e0996b3",
+      "title": "iPhone 17 là sản phẩm thành công nhất trong lịch sử Apple",
+      "link": "https://vnexpress.net/iphone-17-la-san-pham-thanh-cong-nhat-trong-lich-su-apple-5068997.html",
+      "summary": "Bất chấp khó khăn về chuỗi cung ứng, iPhone 17 xác lập kỷ lục khi trở thành thế hệ iPhone bán chạy nhất từ trước đến nay.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-02T02:15:44+07:00",
+      "fetched": "2026-05-02T11:52:46.918453+07:00"
+    },
+    {
+      "id": "5bc3c1e76bdf1a7c2ea5d90cfef279e8",
+      "title": "Iran 'tăng tốc cứu tên lửa' kẹt trong hầm ngầm",
+      "link": "https://vnexpress.net/iran-tang-toc-cuu-ten-lua-ket-trong-ham-ngam-5068919.html",
+      "summary": "Quan chức Mỹ cho biết Iran tận dụng thời gian ngừng bắn để tăng tốc chuyển các loại vũ khí, trong đó có tên lửa, ra khỏi hầm ngầm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T02:13:10+07:00",
+      "fetched": "2026-05-02T11:52:41.622691+07:00"
     },
     {
       "id": "49156609cbbe61ade95f35c3cd93aba6",
