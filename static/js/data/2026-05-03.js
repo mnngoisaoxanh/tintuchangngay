@@ -1,6 +1,6 @@
 window.newsData_2026_05_03 = {
   "date": "2026-05-03",
-  "lastUpdated": "2026-05-03T01:43:22.283505+07:00",
+  "lastUpdated": "2026-05-03T03:31:55.138967+07:00",
   "articles": [
     {
       "id": "1742a95f6148c7ffde2ff2b589330ba5",
@@ -151,6 +151,46 @@ window.newsData_2026_05_03 = {
       "category": "Tổng hợp",
       "published": "2026-05-03T01:43:12.925820+07:00",
       "fetched": "2026-05-03T01:43:12.926037+07:00"
+    },
+    {
+      "id": "8e883d2f354a7b09b74dec6699bbcd24",
+      "title": "Biến chứng do tổn thương chất trắng trong não",
+      "link": "https://vnexpress.net/bien-chung-do-ton-thuong-chat-trang-trong-nao-5068537.html",
+      "summary": "Tổn thương chất trắng ở trong não do bệnh lý có thể dẫn đến suy giảm nhận thức, ảnh hưởng đến trí nhớ, gây rối loạn cảm xúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T20:00:00+07:00",
+      "fetched": "2026-05-03T03:31:43.341539+07:00"
+    },
+    {
+      "id": "1414b27d87fe17690d3c5a1dcf2d22ca",
+      "title": "Vì sao bạn chỉ cận một bên mắt?",
+      "link": "https://vnexpress.net/vi-sao-ban-chi-can-mot-ben-mat-5068325.html",
+      "summary": "Cận một bên mắt có thể xuất phát từ thói quen dùng một mắt nhiều hơn bên còn lại, đeo kính sai độ, ánh sáng học tập không phù hợp hoặc di truyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T19:00:00+07:00",
+      "fetched": "2026-05-03T03:31:43.341713+07:00"
+    },
+    {
+      "id": "a54cd2f1c798d0d2768a619309dd78e0",
+      "title": "Arsenal hơn Man City 6 điểm ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-hon-man-city-6-diem-o-ngoai-hang-anh-5069221.html",
+      "summary": "Arsenal thắng đội khách Fulham 3-0 ở vòng 35 Ngoại hạng Anh để tạm nới rộng cách biệt với Man City lên sáu điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T18:58:40+07:00",
+      "fetched": "2026-05-03T03:31:43.341892+07:00"
+    },
+    {
+      "id": "a54cd2f1c798d0d2768a619309dd78e0",
+      "title": "Arsenal hơn Man City 6 điểm ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-hon-man-city-6-diem-o-ngoai-hang-anh-5069221.html",
+      "summary": "Arsenal thắng đội khách Fulham 3-0 ở vòng 35 Ngoại hạng Anh để tạm nới rộng cách biệt với Man City lên sáu điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-02T18:58:40+07:00",
+      "fetched": "2026-05-03T03:31:55.134152+07:00"
     },
     {
       "id": "8f830f5839cb695f4e02fa7fac6680ca",
