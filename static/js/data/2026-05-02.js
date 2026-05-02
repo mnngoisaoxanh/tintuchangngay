@@ -1,7 +1,147 @@
 window.newsData_2026_05_02 = {
   "date": "2026-05-02",
-  "lastUpdated": "2026-05-02T19:46:56.889867+07:00",
+  "lastUpdated": "2026-05-02T21:40:33.676635+07:00",
   "articles": [
+    {
+      "id": "604f0206c411111b6a9fc52273db2cb3",
+      "title": "Hải quân Mỹ chi tiền thuê AI rà thủy lôi Iran cho nhanh hơn",
+      "link": "https://tuoitre.vn/hai-quan-my-chi-tien-thue-ai-ra-thuy-loi-iran-cho-nhanh-hon-20260502171817247.htm",
+      "summary": "Hải quân Mỹ đã chi gần 100 triệu USD để đưa AI vào cuộc săn thủy lôi Iran, rút ngắn thời gian xử lý từ hàng tháng xuống còn vài ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:40:24.064789+07:00",
+      "fetched": "2026-05-02T21:40:24.064902+07:00"
+    },
+    {
+      "id": "87965169dca04398f01ebd0464d7ae00",
+      "title": "Lật đò chở khách tham quan Mẹ Đông Hải, hơn 10 người rớt xuống sông",
+      "link": "https://tuoitre.vn/lat-do-cho-khach-tham-quan-me-dong-hai-hon-10-nguoi-rot-xuong-song-20260502173704436.htm",
+      "summary": "Chiều 2-5, một lãnh đạo xã Hưng Hội, tỉnh Cà Mau cho biết trên địa bàn vừa xảy ra vụ lật đò chở khách tham quan khu Mẹ Đông Hải làm nhiều người rớt xuống sông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:40:24.064664+07:00",
+      "fetched": "2026-05-02T21:40:24.064778+07:00"
+    },
+    {
+      "id": "7d792465ba48e49d58d9539faede92c5",
+      "title": "Cao tốc kẹt cứng từ Long Thành - nút An Phú, CSGT khuyến cáo đi quốc lộ 1",
+      "link": "https://tuoitre.vn/cao-toc-ket-cung-tu-long-thanh-nut-an-phu-csgt-khuyen-cao-di-quoc-lo-1-20260502181353113.htm",
+      "summary": "Sau lễ, lượng xe từ các tỉnh đổ về TP.HCM và TP Đồng Nai tăng đột biến, khiến cao tốc Phan Thiết - Dầu Giây rơi vào tình trạng ùn ứ nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:40:24.064539+07:00",
+      "fetched": "2026-05-02T21:40:24.064652+07:00"
+    },
+    {
+      "id": "40f410138a0f361a4700dc85f58559bd",
+      "title": "Xe cộ bắt đầu dồn về các cửa ngõ Hà Nội, nội đô vẫn thông thoáng",
+      "link": "https://tuoitre.vn/xe-co-bat-dau-don-ve-cac-cua-ngo-ha-noi-noi-do-van-thong-thoang-20260502181004681.htm",
+      "summary": "Các cửa ngõ Hà Nội bắt đầu xuất hiện tình trạng ùn dài do xe cộ gia tăng trong chiều 2-5. Tuy nhiên, nhiều tuyến vành đai, đường nội đô vẫn thông thoáng, chưa ghi nhận lượng xe gia tăng đột biến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:40:24.064413+07:00",
+      "fetched": "2026-05-02T21:40:24.064528+07:00"
+    },
+    {
+      "id": "013f845416d0a3e582a29ed39847a992",
+      "title": "Cuộc đua MGI All Stars nóng dần, Hương Giang áp sát vị trí số 1",
+      "link": "https://tuoitre.vn/cuoc-dua-mgi-all-stars-nong-dan-huong-giang-ap-sat-vi-tri-so-1-20260502182018547.htm",
+      "summary": "Sau ba ngày mở cổng bình chọn của MGI All Stars 2026, Hương Giang có hơn 300.000 lượt tương tác trên Facebook và trên 420.000 lượt yêu thích trên Instagram, tạm đứng thứ hai và bám sát vị trí dẫn đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:40:24.064275+07:00",
+      "fetched": "2026-05-02T21:40:24.064401+07:00"
+    },
+    {
+      "id": "734c14ea50640ee606d4ad3b90e4bc42",
+      "title": "Đi bộ 2 tiếng, xếp hàng chờ trượt thác ở Cửa Tử",
+      "link": "https://tuoitre.vn/di-bo-2-tieng-xep-hang-cho-truot-thac-o-cua-tu-20260502174848749.htm",
+      "summary": "Sau hàng giờ nối đuôi nhau đi đến máng trượt tại suối Cửa Tử, người dân, du khách lại xếp hàng chờ đến lượt trượt thác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:40:24.064123+07:00",
+      "fetched": "2026-05-02T21:40:24.064262+07:00"
+    },
+    {
+      "id": "0f2fd4eb8d2d13d8a9c4f29fb3f54879",
+      "title": "Thành phố mình giữa đôi bờ quen - lạ",
+      "link": "https://tuoitre.vn/thanh-pho-minh-giua-doi-bo-quen-la-20260426163332493.htm",
+      "summary": "Mọi chuyện bắt đầu từ câu nói của cô bạn có công việc về đêm trong nhóm: 'Khách nước ngoài ghé đến đây có khi họ biết những chỗ mà dân Sài Gòn chính gốc còn không biết có tồn tại, dù bọn mình lớn lên từ nhỏ ở đây!'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:40:24.063997+07:00",
+      "fetched": "2026-05-02T21:40:24.064112+07:00"
+    },
+    {
+      "id": "a96ce8e6e5f86e61d58633bbb77293b9",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Thủ tướng Nhật Bản",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-thu-tuong-nhat-ban-20260502184238671.htm",
+      "summary": "Sáng 2-5, tại Phủ Chủ tịch, Tổng Bí thư, Chủ tịch nước Tô Lâm đã tiếp Chủ tịch Đảng Dân chủ tự do, Thủ tướng Nhật Bản Takaichi Sanae đang thăm chính thức Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:40:24.063870+07:00",
+      "fetched": "2026-05-02T21:40:24.063986+07:00"
+    },
+    {
+      "id": "69ceb7a90abb66db26934de2ad9725d8",
+      "title": "Nghỉ lễ 4 ngày là 'mùa vàng' của ngành dịch vụ đô thị",
+      "link": "https://tuoitre.vn/nghi-le-4-ngay-la-mua-vang-cua-nganh-dich-vu-do-thi-20260502172226741.htm",
+      "summary": "Kỳ nghỉ lễ kéo dài 4 ngày đã biến TP.HCM thành một \"điểm hẹn\" sôi động, người dân đổ ra đường vui chơi, mua sắm, ăn uống và tận hưởng các hoạt động giải trí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:40:24.063734+07:00",
+      "fetched": "2026-05-02T21:40:24.063858+07:00"
+    },
+    {
+      "id": "f218ca6adf80fa0eadf3f604e607fc0a",
+      "title": "Tiêu Chiến lên ngôi Ảnh đế nhưng lại bị gọi là 'phông bạt'",
+      "link": "https://tuoitre.vn/tieu-chien-len-ngoi-anh-de-nhung-lai-bi-goi-la-phong-bat-2026050218392484.htm",
+      "summary": "Với việc giành giải Nam diễn viên được sinh viên yêu thích nhất tại Liên hoan phim sinh viên Bắc Kinh, Tiêu Chiến trở thành nghệ sĩ 9X đầu tiên đạt thành tích 'song đế' trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:40:24.063607+07:00",
+      "fetched": "2026-05-02T21:40:24.063722+07:00"
+    },
+    {
+      "id": "33dfdcf6dc97d66e68acb97c512cb1f0",
+      "title": "Bác sĩ, điều dưỡng tiếp tay làm giả bệnh án: 32 bị can bị khởi tố",
+      "link": "https://tuoitre.vn/bac-si-dieu-duong-tiep-tay-lam-gia-benh-an-32-bi-can-bi-khoi-to-20260502185133239.htm",
+      "summary": "Công an tỉnh Bắc Ninh vừa khởi tố 32 bị can trong đường dây làm giả bệnh án để trốn tránh chấp hành án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:40:24.063478+07:00",
+      "fetched": "2026-05-02T21:40:24.063595+07:00"
+    },
+    {
+      "id": "ce4714b8a908ed4bff820109b83c9abf",
+      "title": "Bí thư xã bị cách chức Ủy viên Ban chấp hành Đảng bộ xã nhiệm kỳ 2025-2030",
+      "link": "https://tuoitre.vn/bi-thu-xa-bi-cach-chuc-uy-vien-ban-chap-hanh-dang-bo-xa-nhiem-ky-2025-2030-20260502184234428.htm",
+      "summary": "Ban Thường vụ Thành ủy Đà Nẵng đã thi hành kỷ luật ông Hà Ra Diêu, Bí thư Đảng ủy xã Trà Tập, bằng hình thức cách chức Ủy viên Ban Chấp hành Đảng bộ xã Trà Tập nhiệm kỳ 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:40:24.063344+07:00",
+      "fetched": "2026-05-02T21:40:24.063466+07:00"
+    },
+    {
+      "id": "2968579683dd60791198e337e23098ba",
+      "title": "Mưa đầu mùa chợ Thủ Đức ngập, TP.HCM sẽ giải quyết dứt điểm",
+      "link": "https://tuoitre.vn/mua-dau-mua-cho-thu-duc-ngap-tp-hcm-se-giai-quyet-dut-diem-20260502190627812.htm",
+      "summary": "Chợ Thủ Đức là một trong bảy điểm ngập cấp bách đang được TP.HCM nỗ lực giải quyết bằng các giải pháp công trình, chiều nay trong cơn mưa đầu mùa, khu vực này bị ngập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:40:24.063177+07:00",
+      "fetched": "2026-05-02T21:40:24.063330+07:00"
+    },
+    {
+      "id": "1256cd88047449d5b7e7ced208ceea5a",
+      "title": "Thủ tướng yêu cầu tiếp tục cắt giảm các thủ tục về phòng cháy chữa cháy, cấp phép xây dựng",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-tiep-tuc-cat-giam-cac-thu-tuc-ve-phong-chay-chua-chay-cap-phep-xay-dung-20260502184138267.htm",
+      "summary": "Bốn lĩnh vực được yêu cầu thực hiện cắt giảm thủ tục bao gồm: phòng cháy chữa cháy, thành lập và hoạt động khu công nghiệp, cụm công nghiệp, đánh giá tác động môi trường và cấp phép xây dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:40:24.062946+07:00",
+      "fetched": "2026-05-02T21:40:24.063161+07:00"
+    },
     {
       "id": "ea89eeae2c9b5aa462235c5131267839",
       "title": "Trạm cảnh sát giao thông Tây Bắc đo nồng độ cồn cả ban ngày, bắn tốc độ cả ban đêm trong dịp lễ",
@@ -313,6 +453,36 @@ window.newsData_2026_05_02 = {
       "fetched": "2026-05-02T15:57:05.975567+07:00"
     },
     {
+      "id": "46407366162263323a64c75daf82146c",
+      "title": "Thanh Hóa chia điểm kịch tính với Becamex TP.HCM: Ngọc Mỹ tỏa sáng",
+      "link": "https://thanhnien.vn/thanh-hoa-chia-diem-kich-tinh-voi-becamex-tphcm-ngoc-my-toa-sang-185260502210948649.htm",
+      "summary": "Tối 2.5.2026, CLB Thanh Hóa có chuyến làm khách không hề dễ dàng trên sân của Becamex TP.HCM, nhưng vẫn ra về với 1 điểm nhờ lối chơi chặt chẽ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T14:24:00+07:00",
+      "fetched": "2026-05-02T21:40:22.954759+07:00"
+    },
+    {
+      "id": "093972068cdb621e3e39fca2d473694d",
+      "title": "PVF-CAND hụt chiến thắng trước Hà Tĩnh, vẫn chật vật ở nhóm cuối bảng",
+      "link": "https://thanhnien.vn/pvf-cand-hut-chien-thang-truoc-ha-tinh-van-chat-vat-o-nhom-cuoi-bang-185260502210816415.htm",
+      "summary": "Tối 2.5, CLB PVF-CAND tiếp đón Hà Tĩnh trên sân nhà trong khuôn khổ vòng 21 V-League 2025-2026 với mục tiêu giành điểm để cải thiện vị trí trên bảng xếp hạng. Trước giờ bóng lăn, đội chủ nhà đứng cuối bảng nên nhập cuộc với quyết tâm cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T14:24:00+07:00",
+      "fetched": "2026-05-02T21:40:22.954930+07:00"
+    },
+    {
+      "id": "8c6df6929ad23d763771fc53a6ef79d0",
+      "title": "Đình Bắc ghi bàn trận thứ 5 liên tiếp, CLB CAHN thắng dễ Hải Phòng",
+      "link": "https://thanhnien.vn/dinh-bac-ghi-ban-tran-thu-5-lien-tiep-clb-cahn-thang-de-hai-phong-185260502210655368.htm",
+      "summary": "Tối 2.5.2026, CLB Công an Hà Nội (CAHN) có chuyến làm khách trên sân của Hải Phòng và giành chiến thắng 2-0 nhờ màn trình diễn vượt trội cả về thế trận lẫn chất lượng cơ hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T14:24:00+07:00",
+      "fetched": "2026-05-02T21:40:22.955087+07:00"
+    },
+    {
       "id": "355536cd6f6fd266fc18cf36eb4de843",
       "title": "Chìa khóa hiện thực - khát vọng tăng trưởng",
       "link": "https://tuoitre.vn/chia-khoa-hien-thuc-khat-vong-tang-truong-20260427134852464.htm",
@@ -461,6 +631,206 @@ window.newsData_2026_05_02 = {
       "category": "Tổng hợp",
       "published": "2026-05-02T14:19:17.183102+07:00",
       "fetched": "2026-05-02T14:19:17.183326+07:00"
+    },
+    {
+      "id": "0e380182b82dbc96383de5789ff58d60",
+      "title": "Highlight CLB Long An 1-0 Quảng Ninh: Đội áp chót thắng bất ngờ",
+      "link": "https://thanhnien.vn/highlight-clb-long-an-1-0-quang-ninh-doi-ap-chot-thang-bat-ngo-185260502211939482.htm",
+      "summary": "CLB Long An tạo bất ngờ lớn khi đánh bại Quảng Ninh, qua đó giành 3 điểm quý giá dù vẫn đang ở nhóm cuối bảng giải hạng nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T14:19:00+07:00",
+      "fetched": "2026-05-02T21:40:22.955266+07:00"
+    },
+    {
+      "id": "1782d1914297824cf255c50518b5723d",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 2.5, giải độc đắc tăng 45,3 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-25-giai-doc-dac-tang-453-ti-dong-185260502192236031.htm",
+      "summary": "Tối 2.5, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, không có người trúng độc đắc nên số tiền cộng dồn là 45,3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T14:15:00+07:00",
+      "fetched": "2026-05-02T21:40:22.955427+07:00"
+    },
+    {
+      "id": "a3cbb14570b12d9ed72f435cfb51c230",
+      "title": "Minh Vương tỏa sáng, Trường Tươi Đồng Nai thắng cực đậm Thanh Niên TP.HCM: Sừng sững tốp 1",
+      "link": "https://thanhnien.vn/minh-vuong-toa-sang-truong-tuoi-dong-nai-thang-cuc-dam-thanh-nien-tphcm-sung-sung-top-1-185260502200231097.htm",
+      "summary": "Tối 2.5, Trường Tươi Đồng Nai đã chào mừng Đồng Nai là thành phố trực thuộc T.Ư bằng trận đại thắng 6-0 trước CLB Thanh Niên TP.HCM để giữ vững ngôi đầu giải hạng nhất quốc gia 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T14:13:00+07:00",
+      "fetched": "2026-05-02T21:40:22.955579+07:00"
+    },
+    {
+      "id": "68dd25edf35354c36d3b9a4be4178979",
+      "title": "Thủ tướng Nhật trải nghiệm trống truyền thống Việt Nam",
+      "link": "https://vnexpress.net/thu-tuong-nhat-trai-nghiem-trong-truyen-thong-viet-nam-5069196.html",
+      "summary": "Thủ tướng Nhật Bản Takaichi Sanae dự tiệc chiêu đãi do Thủ tướng Lê Minh Hưng chủ trì và trải nghiệm chơi trống truyền thống của Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T14:12:59+07:00",
+      "fetched": "2026-05-02T21:40:26.068618+07:00"
+    },
+    {
+      "id": "01eb5e3899e460c16cd2768da7e21f42",
+      "title": "Highlight Becamex TP.HCM 1-1 Thanh Hóa: Chia điểm gay cấn",
+      "link": "https://thanhnien.vn/highlight-becamex-tphcm-1-1-thanh-hoa-chia-diem-gay-can-185260502205743388.htm",
+      "summary": "Becamex TP.HCM và Thanh Hóa tạo nên màn rượt đuổi hấp dẫn, khép lại bằng kết quả hòa trong thế trận giằng co và nhiều tình huống đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T13:57:00+07:00",
+      "fetched": "2026-05-02T21:40:22.955742+07:00"
+    },
+    {
+      "id": "2f9643d2694681a4f66100f9c30e8f76",
+      "title": "Nhật Bản trao huân chương cho nguyên Tổng Bí thư Nông Đức Mạnh, nguyên Thủ tướng Nguyễn Tấn Dũng",
+      "link": "https://thanhnien.vn/nhat-ban-trao-huan-chuong-cho-nguyen-tong-bi-thu-nong-duc-manh-nguyen-thu-tuong-nguyen-tan-dung-185260502203448387.htm",
+      "summary": "Tối 2.5, chính phủ hai nước Việt Nam và Nhật Bản đã long trọng tổ chức lễ trao tặng Huân chương Mặt trời mọc hạng nhất Đại thập tự của Nhật Bản cho nguyên Tổng Bí thư Nông Đức Mạnh và nguyên Thủ tướng Nguyễn Tấn Dũng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T13:53:00+07:00",
+      "fetched": "2026-05-02T21:40:22.955895+07:00"
+    },
+    {
+      "id": "23dd7633501c5844c03bfbfcd2a7222c",
+      "title": "Thói quen: Ăn quá ít chất xơ có thể âm thầm làm tăng nguy cơ ung thư",
+      "link": "https://thanhnien.vn/thoi-quen-an-qua-it-chat-xo-co-the-am-tham-lam-tang-nguy-co-ung-thu-185260502204459469.htm",
+      "summary": "Thói quen ăn nhiều thịt, đồ tinh chế nhưng ít rau xanh, trái cây, ngũ cốc nguyên hạt khá phổ biến và âm thầm ảnh hưởng sức khỏe lâu dài, trong đó có nguy cơ ung thư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T13:44:00+07:00",
+      "fetched": "2026-05-02T21:40:22.956044+07:00"
+    },
+    {
+      "id": "54a70ab6c372ca57c38e132511c862a0",
+      "title": "Phó giám đốc bệnh viện phổi bán bệnh án giả cho người bị kết án tù",
+      "link": "https://vnexpress.net/pho-giam-doc-benh-vien-phoi-ban-benh-an-gia-cho-nguoi-bi-ket-an-tu-5069194.html",
+      "summary": "Ông Hoàng Văn Huấn, Phó giám đốc Bệnh viện Phổi Hà Nội, bị cáo buộc làm giả kết quả xét nghiệm để \"vẽ ra\" bệnh án lao phổi nặng độ 4 cho người bị kết án.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T13:42:20+07:00",
+      "fetched": "2026-05-02T21:40:19.611255+07:00"
+    },
+    {
+      "id": "a466b679a586da5dcb0ef7488d2b14b4",
+      "title": "Highlight Hải Phòng 0-2 CLB Công an Hà Nội: Băng băng đến ngôi vương V-League",
+      "link": "https://thanhnien.vn/highlight-hai-phong-0-1-clb-cong-an-ha-noi-bang-bang-den-ngoi-vuong-v-league-185260502203955326.htm",
+      "summary": "CLB CAHN tiếp tục thể hiện phong độ ấn tượng khi vượt qua Hải Phòng, qua đó tiến thêm một bước vững chắc trong cuộc đua đến ngôi vô địch V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T13:39:00+07:00",
+      "fetched": "2026-05-02T21:40:22.956190+07:00"
+    },
+    {
+      "id": "81084bc3a93f8fe86570ba38427ae0f2",
+      "title": "Highlight CLB PVF-CAND 0-0 Hà Tĩnh: Phung phí cơ hội",
+      "link": "https://thanhnien.vn/highlight-clb-pvf-cand-0-0-ha-tinh-phung-phi-co-hoi-185260502203859406.htm",
+      "summary": "PVF-CAND tạo ra không ít cơ hội nhưng không thể tận dụng, đành chấp nhận chia điểm với Hà Tĩnh trong trận đấu thiếu hiệu quả ở khâu dứt điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T13:38:00+07:00",
+      "fetched": "2026-05-02T21:40:22.956370+07:00"
+    },
+    {
+      "id": "802c90d540ec9f1953b3b3f57970d4bb",
+      "title": "Trèo vào cứu người rồi mắc kẹt trong đám cháy: Nghẹt thở giải cứu 3 nạn nhân",
+      "link": "https://thanhnien.vn/nguoi-dan-treo-vao-ho-tro-nan-nhan-mac-ket-luon-trong-vu-chay-tai-tphcm-185260502202955916.htm",
+      "summary": "Lực lượng cảnh sát vừa kịp thời giải cứu 3 người mắc kẹt trong vụ cháy căn nhà ở kết hợp kinh doanh trên đường Ngô Tất Tố (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T13:38:00+07:00",
+      "fetched": "2026-05-02T21:40:22.956518+07:00"
+    },
+    {
+      "id": "6e7be857726e02d62a5297f44a2d7ed4",
+      "title": "Thông tin cá sấu trên sông ở Vĩnh Long là tin giả dàn dựng",
+      "link": "https://thanhnien.vn/thong-tin-ca-sau-tren-song-o-vinh-long-la-tin-gia-dan-dung-185260502202011881.htm",
+      "summary": "Liên quan đến thông tin trên mạng xã hội về 2 con cá sấu xuất hiện trên sông ở Vĩnh Long gây xôn xao dư luận, cơ quan chức năng đã xác định đây là tin giả, do một người dàn dựng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T13:37:00+07:00",
+      "fetched": "2026-05-02T21:40:22.956664+07:00"
+    },
+    {
+      "id": "5efd56eaf9f60b03a96c7fa09ae90269",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn giáo dục kinh tế và pháp luật | Chuyên đề 4 | Lập kế hoạch kinh doanh",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-giao-duc-kinh-te-va-phap-luat-chuyen-de-4-lap-ke-hoach-kinh-doanh-185260424174020003.htm",
+      "summary": "Chương trình hướng dẫn học sinh làm bài thi môn giáo dục kinh tế và pháp luật, kỳ thi THPT quốc gia 2026. Buổi hướng dẫn \"Bí quyết ôn thi THPT 2026\" do cô Võ Hậu – Trường THPT Marie Curie (TP.HCM) – thực hiện. Chương trình được phát trên các kênh thanhnien.vn, Facebook.com/thanhnien và YouTube Báo T...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T13:30:00+07:00",
+      "fetched": "2026-05-02T21:40:22.956812+07:00"
+    },
+    {
+      "id": "d45ad7626ced75c142238917045fdb51",
+      "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Lập kế hoạch kinh doanh",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-lap-ke-hoach-kinh-doanh-18526043018410267.htm",
+      "summary": "Vào lúc 20 giờ 30 ngày 2.5, Báo Thanh Niên phát sóng chuyên đề số 4 của môn giáo dục kinh tế và pháp luật trong chương trình Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T13:29:00+07:00",
+      "fetched": "2026-05-02T21:40:22.956964+07:00"
+    },
+    {
+      "id": "053dc96e06882843783e9b7b688fbd9d",
+      "title": "Giải cứu người đàn ông rơi xuống giếng sâu 35 m ở TP HCM",
+      "link": "https://vnexpress.net/giai-cuu-nguoi-dan-ong-roi-xuong-gieng-sau-35-m-o-tp-hcm-5069192.html",
+      "summary": "Người đàn ông 64 tuổi rơi xuống giếng sâu khoảng 35 m tại phường Tam Long, hoảng loạn, được cảnh sát cứu nạn đưa lên an toàn sau hơn một giờ tiếp cận, chiều 2/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T13:23:13+07:00",
+      "fetched": "2026-05-02T21:40:19.611437+07:00"
+    },
+    {
+      "id": "a95c172f3f8429044becd87ca0e43032",
+      "title": "Đình Bắc liên tục ghi bàn, Quang Hải áp sát kỷ lục kiến tạo ở V-League",
+      "link": "https://vnexpress.net/dinh-bac-lien-tuc-ghi-ban-quang-hai-ap-sat-ky-luc-kien-tao-o-v-league-5069189.html",
+      "summary": "Nguyễn Đình Bắc ghi bàn 5 trận liền, còn Nguyễn Quang Hải cán mốc 10 kiến tạo tại V-League 2025-2026, sau khi Công an Hà Nội hạ Hải Phòng 2-0 tối nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T13:02:32+07:00",
+      "fetched": "2026-05-02T21:40:19.611607+07:00"
+    },
+    {
+      "id": "67dd4301c3c93c0cf3cb919907d59058",
+      "title": "Đình Bắc ghi bàn 5 trận liên tiếp ở V-League",
+      "link": "https://vnexpress.net/dinh-bac-ghi-ban-5-tran-lien-tiep-o-v-league-5069189.html",
+      "summary": "Nguyễn Đình Bắc ghi bàn 5 trận liên tiếp, còn Nguyễn Quang Hải cán mốc 10 kiến tạo tại V-League 2025-2026, khi Công an Hà Nội hạ Hải Phòng 2-0 ở vòng 21.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-02T13:02:32+07:00",
+      "fetched": "2026-05-02T21:40:33.665606+07:00"
+    },
+    {
+      "id": "6a63d384821aec2694e7218a549953f7",
+      "title": "Đường sắt Trung Quốc lập kỷ lục trong dịp lễ Quốc tế Lao động",
+      "link": "https://vnexpress.net/duong-sat-trung-quoc-lap-ky-luc-trong-dip-le-quoc-te-lao-dong-5069180.html",
+      "summary": "Hệ thống đường sắt Trung Quốc phục vụ 24,8 triệu lượt khách trong lễ Quốc tế Lao động, mức cao kỷ lục, cho thấy sự phục hồi của thị trường du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T12:55:02+07:00",
+      "fetched": "2026-05-02T21:40:19.611766+07:00"
+    },
+    {
+      "id": "6a63d384821aec2694e7218a549953f7",
+      "title": "Đường sắt Trung Quốc lập kỷ lục trong dịp lễ Quốc tế Lao động",
+      "link": "https://vnexpress.net/duong-sat-trung-quoc-lap-ky-luc-trong-dip-le-quoc-te-lao-dong-5069180.html",
+      "summary": "Hệ thống đường sắt Trung Quốc phục vụ 24,8 triệu lượt khách trong lễ Quốc tế Lao động, mức cao kỷ lục, cho thấy sự phục hồi của thị trường du lịch.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T12:55:02+07:00",
+      "fetched": "2026-05-02T21:40:26.068792+07:00"
+    },
+    {
+      "id": "458ce2ed9c9f7e48067d51607eaa37a2",
+      "title": "Video tố hiệu trưởng Ivy League lái xe chèn sinh viên",
+      "link": "https://vnexpress.net/hieu-truong-truong-ivy-league-lai-xe-va-vao-sinh-vien-5069152.html",
+      "summary": "Video cho thấy xe của Hiệu trưởng Đại học Cornell chèn qua chân sinh viên rồi rời đi, trái ngược với khẳng định của ông về việc bị nhóm này quấy rối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T12:52:39+07:00",
+      "fetched": "2026-05-02T21:40:19.611921+07:00"
     },
     {
       "id": "4d8a71158b39aa2a9525615474823dba",
