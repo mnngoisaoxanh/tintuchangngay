@@ -1,7 +1,147 @@
 window.newsData_2026_05_02 = {
   "date": "2026-05-02",
-  "lastUpdated": "2026-05-02T14:19:24.583004+07:00",
+  "lastUpdated": "2026-05-02T15:57:11.316706+07:00",
   "articles": [
+    {
+      "id": "67ef21670a16addc747d9fd0a193902f",
+      "title": "Biển người đổ về Regal Legend dịp lễ 30-4",
+      "link": "https://tuoitre.vn/bien-nguoi-do-ve-regal-legend-dip-le-30-4-20260502141332669.htm",
+      "summary": "Tối 30-4, gần 30.000 lượt khách đã đổ về khu đô thị biển Regal Legend, biến bán đảo Bảo Ninh thành tâm điểm rực rỡ trong ngày đại lễ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:05.976572+07:00",
+      "fetched": "2026-05-02T15:57:05.976637+07:00"
+    },
+    {
+      "id": "736df1b472f9b794c402d628044771b1",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm Ấn Độ: Kỳ vọng đột phá mới trên nhiều lĩnh vực",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tham-an-do-ky-vong-dot-pha-moi-tren-nhieu-linh-vuc-20260502135941966.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm sẽ có chương trình rất phong phú tại Ấn Độ, không chỉ ở thủ đô New Delhi mà còn tại Mumbai - trung tâm kinh tế, tài chính, khoa học công nghệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:05.976499+07:00",
+      "fetched": "2026-05-02T15:57:05.976565+07:00"
+    },
+    {
+      "id": "e22720718dc93674f46036b42ca9f62f",
+      "title": "Để TP.HCM luôn xứng đáng là thành phố điện ảnh của thế giới",
+      "link": "https://tuoitre.vn/de-tp-hcm-luon-xung-dang-la-thanh-pho-dien-anh-cua-the-gioi-20260426142357186.htm",
+      "summary": "Sáu tháng sau khi được UNESCO chỉ định gia nhập Mạng lưới các thành phố sáng tạo, là thành phố điện ảnh (Film City) đầu tiên ở khu vực Đông Nam Á, đời sống phim ảnh ở thành phố đang từng ngày chuyển động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:05.976425+07:00",
+      "fetched": "2026-05-02T15:57:05.976492+07:00"
+    },
+    {
+      "id": "71020b2e19a5a3f2bfd012ba45e7bdd7",
+      "title": "Thủ tướng: Nhật Bản sẽ hỗ trợ nguồn cung dầu thô cho Nhà máy lọc hóa dầu Nghi Sơn",
+      "link": "https://tuoitre.vn/thu-tuong-nhat-ban-se-ho-tro-nguon-cung-dau-tho-cho-nha-may-loc-hoa-dau-nghi-son-20260502133820572.htm",
+      "summary": "Thủ tướng Lê Minh Hưng cho biết Nhật Bản sẽ hỗ trợ, thu xếp nguồn cung dầu thô cho Nhà máy lọc hóa dầu Nghi Sơn trong khuôn khổ sáng kiến POWER Asia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:05.976352+07:00",
+      "fetched": "2026-05-02T15:57:05.976419+07:00"
+    },
+    {
+      "id": "105ffeec194c1630fe15960571680db4",
+      "title": "Trừng phạt công ty Trung Quốc vì dầu Iran, Mỹ - Trung thêm căng thẳng trước thềm thượng đỉnh",
+      "link": "https://tuoitre.vn/trung-phat-cong-ty-trung-quoc-vi-dau-iran-my-trung-them-cang-thang-truoc-them-thuong-dinh-20260502140733087.htm",
+      "summary": "Mỹ tiếp tục trừng phạt một công ty cảng dầu tại Trung Quốc, với cáo buộc liên quan đến hoạt động buôn bán dầu mỏ của Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:05.976275+07:00",
+      "fetched": "2026-05-02T15:57:05.976345+07:00"
+    },
+    {
+      "id": "a62d43bc891b99c23011637606c4da44",
+      "title": "Hồng Đào, Phương Anh Đào 'trả hết duyên nợ cũ' trong Ngày con còn mẹ",
+      "link": "https://tuoitre.vn/hong-dao-phuong-anh-dao-tra-het-duyen-no-cu-trong-ngay-con-con-me-20260502142229374.htm",
+      "summary": "Từng gây chú ý với mối quan hệ 'mẹ chồng - nàng dâu hụt' nhiều va chạm trong phim Mai, Hồng Đào và Phương Anh Đào nay tái ngộ trong Ngày con còn mẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:05.976199+07:00",
+      "fetched": "2026-05-02T15:57:05.976268+07:00"
+    },
+    {
+      "id": "11731d8791c4bcafb12d58255d17965f",
+      "title": "Manga Ichi the Witch sẽ là 'hiện tượng' tiếp theo của Shonen Jump sau Kagurabachi?",
+      "link": "https://tuoitre.vn/manga-ichi-the-witch-se-la-hien-tuong-tiep-theo-cua-shonen-jump-sau-kagurabachi-20260502001551729.htm",
+      "summary": "Sau khi Kagurabachi được thông báo chuyển thể anime, một manga khác của Shonen Jump là Ichi the Witch đang được dự đoán sẽ trở thành hiện tượng tiếp theo nhờ nội dung dễ tiếp cận và sức hút tăng nhanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:05.976119+07:00",
+      "fetched": "2026-05-02T15:57:05.976192+07:00"
+    },
+    {
+      "id": "9cde49850cff6d4561a423cd8bf6840f",
+      "title": "Tìm được thi thể giám đốc người Hàn Quốc mất tích tại hồ Đá Đen",
+      "link": "https://tuoitre.vn/tim-duoc-thi-the-giam-doc-nguoi-han-quoc-mat-tich-tai-ho-da-den-20260502144026817.htm",
+      "summary": "Lực lượng chức năng đã tìm được thi thể giám đốc doanh nghiệp người Hàn Quốc sau hơn một ngày mất tích khi chèo SUP ở hồ Đá Đen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:05.976020+07:00",
+      "fetched": "2026-05-02T15:57:05.976108+07:00"
+    },
+    {
+      "id": "ecfd4a8c4cd9ee18b32aff97bee89e97",
+      "title": "Iran cảnh báo xung đột với Mỹ 'có khả năng tái diễn'",
+      "link": "https://tuoitre.vn/iran-canh-bao-xung-dot-voi-my-co-kha-nang-tai-dien-20260502143927303.htm",
+      "summary": "Một quan chức Iran ngày 2-5 nhận định xung đột với Mỹ \"có khả năng\" tái diễn, trong bối cảnh các cuộc đàm phán vẫn bị bế tắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:05.975942+07:00",
+      "fetched": "2026-05-02T15:57:05.976013+07:00"
+    },
+    {
+      "id": "7d62164de5d303e96f679890b4794bc4",
+      "title": "Đề cử: Trung tâm tiêm chủng 'chạm đến từng giường bệnh' tại Bệnh viện Nhân dân Gia Định",
+      "link": "https://tuoitre.vn/de-cu-trung-tam-tiem-chung-cham-den-tung-giuong-benh-tai-benh-vien-nhan-dan-gia-dinh-20260502133014506.htm",
+      "summary": "Bệnh viện Nhân dân Gia Định đang phát triển trung tâm tiêm chủng hiện đại, ưu tiên người cao tuổi và người có công. Mô hình tiêm tại giường giúp an toàn, thuận tiện. Dịch vụ tiêm cấp cứu 24/7 góp phần nâng cao chất lượng, tạo sự an tâm cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:05.975855+07:00",
+      "fetched": "2026-05-02T15:57:05.975935+07:00"
+    },
+    {
+      "id": "e25d10da35cc1314a36f71b00fce5aed",
+      "title": "Lái tới 190km/h trên cao tốc chỉ vì muộn làm, tài xế Ford vào trại tạm giam",
+      "link": "https://tuoitre.vn/lai-toi-190km-h-tren-cao-toc-chi-vi-muon-lam-tai-xe-ford-vao-trai-tam-giam-20260502122247824.htm",
+      "summary": "Một tài xế tại Mỹ bị bắt giữ sau khi lái xe trên cao tốc với tốc độ tới 190km/h để 'chạy đua' với thời gian đi làm, nhưng lại gây tai nạn nghiêm trọng, đẩy cả hai ô tô lên đường ray tàu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:05.975766+07:00",
+      "fetched": "2026-05-02T15:57:05.975847+07:00"
+    },
+    {
+      "id": "a351e782eee418ada341dc6bec197faf",
+      "title": "Cách tập luyện đúng để trị chứng viêm quanh khớp vai, rất hay gặp nhiều lứa tuổi",
+      "link": "https://tuoitre.vn/cach-tap-luyen-dung-de-tri-chung-viem-quanh-khop-vai-rat-hay-gap-nhieu-lua-tuoi-20260502151115989.htm",
+      "summary": "Viêm quanh khớp vai là bệnh lý phổ biến, gặp ở nhiều lứa tuổi, đặc biệt ở người trung niên, người dùng tay nhiều, dân văn phòng ngồi sai tư thế kéo dài. Nếu không điều trị đúng, tình trạng đau vai có thể tiến triển thành cứng khớp, hạn chế vận động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:05.975675+07:00",
+      "fetched": "2026-05-02T15:57:05.975754+07:00"
+    },
+    {
+      "id": "fa248ce83c3b67c7cbbdd172d111a658",
+      "title": "Bị tước bằng lái vì vi phạm nồng độ cồn kịch khung, cán bộ xã vẫn lái xe trên cao tốc",
+      "link": "https://tuoitre.vn/bi-tuoc-bang-lai-vi-vi-pham-nong-do-con-kich-khung-can-bo-xa-van-lai-xe-tren-cao-toc-2026050215125597.htm",
+      "summary": "Việc lái xe không có bằng lái như trên, nam tài xế sẽ bị phạt tiền 19 triệu đồng. Đồng thời Cục CSGT sẽ gửi thông báo về Đảng ủy, UBND xã Bảo Hà (Lào Cai) đề nghị xem xét xử lý kỷ luật theo quy định của Đảng, công chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:05.975578+07:00",
+      "fetched": "2026-05-02T15:57:05.975667+07:00"
+    },
+    {
+      "id": "2e8fd05d79ad18921dad76f351db7609",
+      "title": "Thủ tướng Nhật Bản ấn tượng với sự phát triển của Việt Nam, ví như 'rồng bay lên'",
+      "link": "https://tuoitre.vn/thu-tuong-nhat-ban-an-tuong-voi-su-phat-trien-cua-viet-nam-vi-nhu-rong-bay-len-20260502151410819.htm",
+      "summary": "Mượn tên gọi xưa của đất Hà Nội là Thăng Long, Thủ tướng Nhật Bản Takaichi Sanae bày tỏ ấn tượng với tốc độ phát triển của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:05.975374+07:00",
+      "fetched": "2026-05-02T15:57:05.975567+07:00"
+    },
     {
       "id": "355536cd6f6fd266fc18cf36eb4de843",
       "title": "Chìa khóa hiện thực - khát vọng tăng trưởng",
@@ -443,6 +583,336 @@ window.newsData_2026_05_02 = {
       "fetched": "2026-05-02T08:52:18.051520+07:00"
     },
     {
+      "id": "8123c50a20be07f2cfb3c88da9a7871b",
+      "title": "AI khiến cơn khát chip ngày càng tồi tệ hơn",
+      "link": "https://thanhnien.vn/ai-khien-con-khat-chip-ngay-cang-toi-te-hon-185260501155202137.htm",
+      "summary": "Cả Apple và Samsung đều cho biết việc thiếu hụt nguồn cung chip nhớ sẽ ngày càng tồi tệ hơn khi ngành công nghiệp AI chạy đua xây dựng cơ sở hạ tầng tính toán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:47:00+07:00",
+      "fetched": "2026-05-02T15:57:04.694869+07:00"
+    },
+    {
+      "id": "bb466b80c7116ec53f1d31ccfa23ade2",
+      "title": "Bruno Fernandes vượt trội thế nào ở khả năng kiến tạo?",
+      "link": "https://vnexpress.net/bruno-fernandes-vuot-troi-the-nao-o-kha-nang-kien-tao-5069128.html",
+      "summary": "Tiền vệ người Bồ Đào Nha đang tiến sát kỷ lục kiến tạo Ngoại hạng Anh, sau mùa giải vượt trội toàn bộ giải đấu về khả năng sáng tạo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-02T08:27:04+07:00",
+      "fetched": "2026-05-02T15:57:11.310006+07:00"
+    },
+    {
+      "id": "dffeb15db436c3e0c30894bc08df46dc",
+      "title": "Bình luận 'xả rác thoải mái cho lao công dọn' ở Thảo Cầm Viên gây bức xúc",
+      "link": "https://thanhnien.vn/binh-luan-xa-rac-thoai-mai-cho-lao-cong-don-o-thao-cam-vien-gay-buc-xuc-185260502131739936.htm",
+      "summary": "Một bình luận về xả rác tại Thảo Cầm Viên lan truyền mạng xã hội, gây tranh cãi gay gắt và dấy lên lo ngại về ý thức giữ gìn vệ sinh nơi công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:20:00+07:00",
+      "fetched": "2026-05-02T15:57:04.694987+07:00"
+    },
+    {
+      "id": "66d72ffd61b9df88d9fe32d4bf0ab14e",
+      "title": "Thủ tướng Lê Minh Hưng chủ trì lễ đón chính thức Thủ tướng Nhật Bản",
+      "link": "https://thanhnien.vn/thu-tuong-le-minh-hung-chu-tri-le-don-chinh-thuc-thu-tuong-nhat-ban-185260502151944086.htm",
+      "summary": "Sáng 2.5, tại Trụ sở Chính phủ, Thủ tướng Lê Minh Hưng đã chủ trì lễ đón Thủ tướng Nhật Bản Takaichi Sanae thăm chính thức Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:19:00+07:00",
+      "fetched": "2026-05-02T15:57:04.695104+07:00"
+    },
+    {
+      "id": "fba27da7050a72eda5f3dfb7d74ca33e",
+      "title": "5 cách bấm còi dễ gây bức xúc khi lái xe tham gia giao thông",
+      "link": "https://thanhnien.vn/5-cach-bam-coi-de-gay-buc-xuc-khi-lai-xe-tham-gia-giao-thong-185260427063859367.htm",
+      "summary": "Còi xe vốn là công cụ được sử dụng để cảnh báo an toàn nhưng khi bị lạm dụng hoặc sử dụng sai cách, dễ trở thành \"ngòi nổ\" gây bức xúc, thậm chí dẫn đến xung đột giữa các tài xế; thực tế có không ít hành vi bấm còi thiếu chuẩn mực đang góp phần làm gia tăng căng thẳng trên đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:16:00+07:00",
+      "fetched": "2026-05-02T15:57:04.695206+07:00"
+    },
+    {
+      "id": "afd2df037db78128412516a8afbb558f",
+      "title": "GPS trên smartwatch liệu có cần thiết?",
+      "link": "https://thanhnien.vn/gps-tren-smartwatch-lieu-co-can-thiet-185260502103332072.htm",
+      "summary": "GPS giúp theo dõi lộ trình chính xác, nhưng với nhiều người dùng smartwatch hằng ngày, tính năng này có thể không thực sự cần thiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:08:00+07:00",
+      "fetched": "2026-05-02T15:57:04.695300+07:00"
+    },
+    {
+      "id": "73a720efb64d94c68378e21df2bb04c9",
+      "title": "Ra mắt truyện tranh tương tác để độc giả tự tạo nội dung",
+      "link": "https://thanhnien.vn/ra-mat-truyen-tranh-tuong-tac-de-doc-gia-tu-tao-noi-dung-185260502140255198.htm",
+      "summary": "Huỳnh Thái Ngọc, tác giả truyện tranh Việt Nam được đông đảo bạn đọc trẻ quan tâm thời gian gần đây, được biết đến như là người sáng tạo nhân vật Thỏ Bảy Màu - hình tượng mang phong cách hài hước và gần gũi với đời sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:02:00+07:00",
+      "fetched": "2026-05-02T15:57:04.695397+07:00"
+    },
+    {
+      "id": "1e0cc237f648bb447bd10a86a39b3a0d",
+      "title": "Mỹ rút 5.000 quân khỏi Đức",
+      "link": "https://thanhnien.vn/my-rut-5000-quan-khoi-duc-185260502142745734.htm",
+      "summary": "Mỹ đang rút 5.000 binh sĩ khỏi Đức, đồng minh NATO, Lầu Năm Góc thông báo hôm 1.5, trong bối cảnh rạn nứt về cuộc chiến tranh Iran giữa Tổng thống Donald Trump và châu Âu ngày càng sâu sắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:01:00+07:00",
+      "fetched": "2026-05-02T15:57:04.695497+07:00"
+    },
+    {
+      "id": "4547de691be2ac92f6ca72a7ebfdb1e7",
+      "title": "Arsenal cầu cứu bạn thân Arteta vì bão chấn thương",
+      "link": "https://vnexpress.net/arsenal-cau-cuu-ban-than-arteta-vi-bao-chan-thuong-5069102.html",
+      "summary": "HLV Mikel Arteta mời một người bạn thân là chuyên gia vật lý trị liệu về làm việc nhằm tìm ra căn nguyên của các vấn đề thể lực khiến các cầu thủ Arsenal vắng mặt tổng cộng 262 trận mùa này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:00:00+07:00",
+      "fetched": "2026-05-02T15:57:01.782665+07:00"
+    },
+    {
+      "id": "d56d9460a87c1ddcc4451fe7b5ab96dc",
+      "title": "'AI bị sa thải' vì chi phí cao",
+      "link": "https://vnexpress.net/ai-bi-sa-thai-vi-chi-phi-cao-5068957.html",
+      "summary": "Trong khi nhiều công ty lấy lý do triển khai AI để cắt giảm nhân sự, vấn đề chi phí có thể dẫn đến tình huống ngược là \"AI bị sa thải\" để tuyển lại con người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:00:00+07:00",
+      "fetched": "2026-05-02T15:57:01.782795+07:00"
+    },
+    {
+      "id": "f91d271e3c0356a9c6fe9a502c6e5502",
+      "title": "Hành tây giúp bảo vệ thận, kháng ung thư",
+      "link": "https://vnexpress.net/hanh-tay-giup-bao-ve-than-khang-ung-thu-5067154.html",
+      "summary": "Sở hữu nguồn quercetin cùng hợp chất lưu huỳnh dồi dào, hành tây đóng vai trò như lá chắn tự nhiên giúp ngăn ngừa xơ hóa cầu thận, ổn định đường huyết và ức chế sự phát triển khối u.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:00:00+07:00",
+      "fetched": "2026-05-02T15:57:01.782914+07:00"
+    },
+    {
+      "id": "a0a6cdd5b93600705096538529ba9d2b",
+      "title": "Phiến quân ở Mali đe dọa thế đứng của Nga ở châu Phi",
+      "link": "https://thanhnien.vn/phien-quan-o-mali-de-doa-the-dung-cua-nga-o-chau-phi-185260502142918866.htm",
+      "summary": "Một loạt thất bại giáng vào chính phủ quân sự Mali được Moscow hậu thuẫn đã làm tổn hại hình ảnh của Nga với tư cách là đối tác bảo đảm an ninh ở châu Phi và đe dọa các lợi ích chiến lược và kinh tế của nước này trên lục địa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:00:00+07:00",
+      "fetched": "2026-05-02T15:57:04.695594+07:00"
+    },
+    {
+      "id": "d56d9460a87c1ddcc4451fe7b5ab96dc",
+      "title": "'AI bị sa thải' vì chi phí cao",
+      "link": "https://vnexpress.net/ai-bi-sa-thai-vi-chi-phi-cao-5068957.html",
+      "summary": "Trong khi nhiều công ty lấy lý do triển khai AI để cắt giảm nhân sự, vấn đề chi phí có thể dẫn đến tình huống ngược là \"AI bị sa thải\" để tuyển lại con người.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-02T08:00:00+07:00",
+      "fetched": "2026-05-02T15:57:10.454713+07:00"
+    },
+    {
+      "id": "4547de691be2ac92f6ca72a7ebfdb1e7",
+      "title": "Arsenal cầu cứu bạn thân Arteta vì bão chấn thương",
+      "link": "https://vnexpress.net/arsenal-cau-cuu-ban-than-arteta-vi-bao-chan-thuong-5069102.html",
+      "summary": "HLV Mikel Arteta mời một người bạn thân là chuyên gia vật lý trị liệu về làm việc nhằm tìm ra căn nguyên của các vấn đề thể lực khiến các cầu thủ Arsenal vắng mặt tổng cộng 262 trận mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-02T08:00:00+07:00",
+      "fetched": "2026-05-02T15:57:11.310150+07:00"
+    },
+    {
+      "id": "46d916781836a50de9bef6f82e020185",
+      "title": "14 binh sĩ Iran thiệt mạng khi rà phá bom",
+      "link": "https://vnexpress.net/14-binh-si-iran-thiet-mang-khi-ra-pha-bom-5069118.html",
+      "summary": "14 binh sĩ Iran đã thiệt mạng tại tỉnh Zanjan trong quá trình xử lý số bom chưa nổ được cho là do Mỹ và Israel rải xuống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:59:36+07:00",
+      "fetched": "2026-05-02T15:57:01.783019+07:00"
+    },
+    {
+      "id": "46d916781836a50de9bef6f82e020185",
+      "title": "14 binh sĩ Iran thiệt mạng khi rà phá bom",
+      "link": "https://vnexpress.net/14-binh-si-iran-thiet-mang-khi-ra-pha-bom-5069118.html",
+      "summary": "14 binh sĩ Iran đã thiệt mạng tại tỉnh Zanjan trong quá trình xử lý số bom chưa nổ được cho là do Mỹ và Israel rải xuống.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T07:59:36+07:00",
+      "fetched": "2026-05-02T15:57:07.282507+07:00"
+    },
+    {
+      "id": "83591699e3aa9f5dd631883cda9f4c41",
+      "title": "'Mưa vàng' giải nhiệt cho TP.HCM và Nam bộ",
+      "link": "https://thanhnien.vn/mua-vang-giai-nhiet-cho-tphcm-va-nam-bo-185260502142820803.htm",
+      "summary": "TP.HCM và Nam bộ xuất hiện 'mưa vàng' giải nhiệt sau nhiều ngày nắng nóng như đổ lửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:59:00+07:00",
+      "fetched": "2026-05-02T15:57:04.695685+07:00"
+    },
+    {
+      "id": "0c0a6310f3dec4866a6f45783742a400",
+      "title": "Pakistan biên chế tàu ngầm mua của Trung Quốc",
+      "link": "https://thanhnien.vn/pakistan-bien-che-tau-ngam-mua-cua-trung-quoc-185260502144053801.htm",
+      "summary": "Pakistan đã nhận được tàu ngầm lớp Hangor đầu tiên trong số 8 chiếc đã đặt mua của Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:58:00+07:00",
+      "fetched": "2026-05-02T15:57:04.695776+07:00"
+    },
+    {
+      "id": "be75b6d515ce1a74406cd9596fe825ae",
+      "title": "HLV U.17 Việt Nam hài lòng trận mở màn, sẵn sàng cho thử thách lớn nhất là đội chủ nhà Trung Quốc",
+      "link": "https://thanhnien.vn/hlv-u17-viet-nam-hai-long-tran-mo-man-san-sang-cho-thu-thach-lon-nhat-la-doi-chu-nha-trung-quoc-18526050214500626.htm",
+      "summary": "HLV Okiyama Masahiko đánh giá cao tinh thần thi đấu của U.17 nữ Việt Nam sau trận ra quân, nhưng phía trước là thử thách lớn mang tên chủ nhà Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:56:00+07:00",
+      "fetched": "2026-05-02T15:57:04.695870+07:00"
+    },
+    {
+      "id": "d82ba839bd6cf95ccefa201fbef2ef1b",
+      "title": "Chủ shop quần áo kể giây phút lửa cháy lan dãy cửa hàng ở Hải Phòng",
+      "link": "https://vnexpress.net/chu-shop-quan-ao-ke-giay-phut-lua-chay-lan-day-cua-hang-o-hai-phong-5069121.html",
+      "summary": "Chị Long Na cho biết lửa từ quán cà phê đã lan nhanh qua shop quần áo của mình, sau đó bén sang các cửa hàng hải sản, xe máy và tạp hóa, khiến mọi người không kịp di dời tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:46:41+07:00",
+      "fetched": "2026-05-02T15:57:01.783142+07:00"
+    },
+    {
+      "id": "2b63fb1cb344ac2f36d7689336ea03c5",
+      "title": "Xe tăng tối tân Israel bốc cháy sau đòn tập kích của drone Hezbollah",
+      "link": "https://vnexpress.net/xe-tang-toi-tan-israel-boc-chay-sau-don-tap-kich-cua-drone-hezbollah-5069045.html",
+      "summary": "Drone Hezbollah tập kích xe tăng Merkava Mark 4M hiện đại nhất của Israel, dường như đánh trúng khoang chứa đạn và gây cháy lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:33:12+07:00",
+      "fetched": "2026-05-02T15:57:01.783252+07:00"
+    },
+    {
+      "id": "2b63fb1cb344ac2f36d7689336ea03c5",
+      "title": "Xe tăng tối tân Israel bốc cháy sau đòn tập kích của drone Hezbollah",
+      "link": "https://vnexpress.net/xe-tang-toi-tan-israel-boc-chay-sau-don-tap-kich-cua-drone-hezbollah-5069045.html",
+      "summary": "Drone Hezbollah tập kích xe tăng Merkava Mark 4M hiện đại nhất của Israel, dường như đánh trúng khoang chứa đạn và gây cháy lớn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T07:33:12+07:00",
+      "fetched": "2026-05-02T15:57:07.282627+07:00"
+    },
+    {
+      "id": "dc83ed4c376243fa6b2c84fe994e9b29",
+      "title": "Tài xế mở cửa ôtô bất cẩn hất văng người lái xe máy",
+      "link": "https://vnexpress.net/tai-xe-mo-cua-oto-bat-can-hat-vang-nguoi-lai-xe-may-5069099.html",
+      "summary": "Tài xế mở cửa xe không quan sát, va chạm vào người lái xe máy và làm nạn nhân bị thương nặng, ngày 30/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:30:22+07:00",
+      "fetched": "2026-05-02T15:57:01.783355+07:00"
+    },
+    {
+      "id": "baf8db457b1e3d99509e95cedc1dfa78",
+      "title": "Tôi lỡ mua 5 cây vàng không hóa đơn",
+      "link": "https://vnexpress.net/toi-lo-mua-5-cay-vang-khong-hoa-don-5069062.html",
+      "summary": "Trong lòng nhẫn có khắc tên cửa tiệm, có đủ để chứng minh nguồn gốc?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:24:51+07:00",
+      "fetched": "2026-05-02T15:57:01.783455+07:00"
+    },
+    {
+      "id": "b84bddeab7e1c5524350e70c4ba8db60",
+      "title": "Tôi lỡ có bầu với chồng người ta",
+      "link": "https://vnexpress.net/toi-lo-co-bau-voi-chong-nguoi-ta-5069111.html",
+      "summary": "Lúc xảy ra chuyện, tôi hoàn toàn không biết, đến khi biết thì mọi thứ đã muộn rồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:22:00+07:00",
+      "fetched": "2026-05-02T15:57:01.783552+07:00"
+    },
+    {
+      "id": "6e38d0cef82cc34fc1384e163f789495",
+      "title": "Tìm thấy thi thể giám đốc người Hàn Quốc mất tích dưới hồ Đá Đen",
+      "link": "https://thanhnien.vn/tim-thay-thi-the-giam-doc-nguoi-han-quoc-mat-tich-duoi-ho-da-den-185260502140840817.htm",
+      "summary": "Hơn 1 ngày lặn tìm kiếm dưới hồ Đá Đen, lực lượng chức năng đã vớt được thi thể giám đốc người Hàn Quốc bị mất tích khi chèo thuyền SUP ở hồ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:22:00+07:00",
+      "fetched": "2026-05-02T15:57:04.695965+07:00"
+    },
+    {
+      "id": "5d70955bf0c0eb88aeb14e4af3113864",
+      "title": "Ghẹ đỏ ngon như thế nào mà giá cả triệu đồng mỗi kilogram",
+      "link": "https://thanhnien.vn/ghe-do-ngon-nhu-the-nao-ma-gia-ca-trieu-dong-moi-kilogram-185260502115947681.htm",
+      "summary": "Ghẹ đỏ loại to (từ 2 - 3 con/1 kg) thường được đánh bắt ở vùng biển xa bờ. Ngày thường loại ghẹ này có giá từ 500.000 - 600.000 đồng/kg; các dịp lễ như 30.4 và 1.5 năm nay giá ghẹ đỏ loại to lên tới trên 1 triệu đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:21:00+07:00",
+      "fetched": "2026-05-02T15:57:04.696070+07:00"
+    },
+    {
+      "id": "e9c1b5ce31c4a037f4b55aa97b9978e0",
+      "title": "Cháy lớn tại Hải Phòng thiêu rụi 5 gian hàng",
+      "link": "https://thanhnien.vn/chay-lon-tai-hai-phong-thieu-rui-5-gian-hang-185260502120719549.htm",
+      "summary": "Vụ cháy lớn xảy ra tại khu Đình Ngọ, P.An Phong (Hải Phòng) vào sáng 2.5 đã khiến nhiều gian hàng bị thiêu rụi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:20:00+07:00",
+      "fetched": "2026-05-02T15:57:04.696173+07:00"
+    },
+    {
+      "id": "5d64897a71cbd3105f78bf1a776eddff",
+      "title": "24 giờ thử thách không dùng đồ nguồn gốc dầu mỏ",
+      "link": "https://vnexpress.net/24-gio-thu-thach-khong-dung-do-nguon-goc-dau-mo-5069088.html",
+      "summary": "Caitlin Cassidy, biên tập viên The Guardian, đã thử sinh tồn trong 24 giờ mà không dùng các sản phẩm gốc dầu mỏ nhưng vô cùng vật vã.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:19:51+07:00",
+      "fetched": "2026-05-02T15:57:01.783647+07:00"
+    },
+    {
+      "id": "5d64897a71cbd3105f78bf1a776eddff",
+      "title": "24 giờ thử thách không dùng đồ nguồn gốc dầu mỏ",
+      "link": "https://vnexpress.net/24-gio-thu-thach-khong-dung-do-nguon-goc-dau-mo-5069088.html",
+      "summary": "Caitlin Cassidy, biên tập viên The Guardian, đã thử sinh tồn trong 24 giờ mà không dùng các sản phẩm gốc dầu mỏ nhưng vô cùng vật vã.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-02T07:19:51+07:00",
+      "fetched": "2026-05-02T15:57:08.333460+07:00"
+    },
+    {
+      "id": "0613bb9424a0d94464110101e796758a",
+      "title": "Những nghị sĩ Cộng hòa cạn kiên nhẫn với chiến dịch tại Iran",
+      "link": "https://vnexpress.net/nhung-nghi-si-cong-hoa-can-kien-nhan-voi-chien-dich-tai-iran-5069022.html",
+      "summary": "Nhiều nghị sĩ Cộng hòa then chốt tại quốc hội Mỹ đang mất kiên nhẫn trước cuộc xung đột phức tạp và tốn kém với Iran, khi chiến sự chạm mốc 60 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:19:40+07:00",
+      "fetched": "2026-05-02T15:57:01.783741+07:00"
+    },
+    {
+      "id": "0613bb9424a0d94464110101e796758a",
+      "title": "Những nghị sĩ Cộng hòa cạn kiên nhẫn với chiến dịch tại Iran",
+      "link": "https://vnexpress.net/nhung-nghi-si-cong-hoa-can-kien-nhan-voi-chien-dich-tai-iran-5069022.html",
+      "summary": "Nhiều nghị sĩ Cộng hòa then chốt tại quốc hội Mỹ đang mất kiên nhẫn trước cuộc xung đột phức tạp và tốn kém với Iran, khi chiến sự chạm mốc 60 ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T07:19:40+07:00",
+      "fetched": "2026-05-02T15:57:07.282731+07:00"
+    },
+    {
+      "id": "7456e74792558144d338c25ba48cb66d",
+      "title": "Xiaomi YU7 Max - xe điện sạc 15 phút đi 620 km",
+      "link": "https://vnexpress.net/xiaomi-yu7-max-xe-dien-sac-15-phut-di-620-km-5069090.html",
+      "summary": "Mẫu xe gầm cao thuần điện của hãng công nghệ Trung Quốc lắp 2 môtơ điện, tổng công suất 681 mã lực, phạm vi hoạt động 760 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:19:32+07:00",
+      "fetched": "2026-05-02T15:57:01.783837+07:00"
+    },
+    {
       "id": "07bf9ec78b69c2038ef7f4a86fd55c50",
       "title": "Bắt 2 tàu chở cát lậu tại cửa sông Cửa Đại và Hàm Luông",
       "link": "https://thanhnien.vn/bat-2-tau-cho-cat-lau-tai-cua-song-cua-dai-va-ham-luong-185260502131450654.htm",
@@ -503,6 +973,16 @@ window.newsData_2026_05_02 = {
       "fetched": "2026-05-02T14:19:16.199897+07:00"
     },
     {
+      "id": "94302b2b25b620b5cb4f0ae464e57c5c",
+      "title": "Trang phục bình dân của tỷ phú Taylor Swift",
+      "link": "https://vnexpress.net/trang-phuc-binh-dan-cua-ty-phu-taylor-swift-5069051.html",
+      "summary": "Ca sĩ Taylor Swift diện nhiều quần áo giá rẻ, từ vài chục đến vài trăm USD, trong đời thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:00:15+07:00",
+      "fetched": "2026-05-02T15:57:01.783935+07:00"
+    },
+    {
       "id": "32777ba04d9a284a4d3bc609ad86e7db",
       "title": "Ông Trump nói chiến sự với Iran 'chấm dứt', chưa hài lòng với đề xuất mới",
       "link": "https://thanhnien.vn/ong-trump-noi-chien-su-voi-iran-cham-dut-chua-hai-long-voi-de-xuat-moi-185260502134746667.htm",
@@ -531,6 +1011,16 @@ window.newsData_2026_05_02 = {
       "category": "Tổng hợp",
       "published": "2026-05-02T07:00:00+07:00",
       "fetched": "2026-05-02T14:19:16.200350+07:00"
+    },
+    {
+      "id": "f112997d11751adfad7baa17d6c4b4d9",
+      "title": "Nhiều người chỉ thấy 5 con mèo trong ảnh, còn bạn?",
+      "link": "https://vnexpress.net/do-vui-thu-gian-thu-tai-tinh-mat-hidden-tinh-mat-thi-giac-do-vui-vnexpress-nhieu-nguoi-chi-thay-5-con-meo-trong-anh-con-ban-5068262.html",
+      "summary": "Bức hình những quả dâu tưởng chừng đơn giản nhưng lại khiến nhiều người đếm sai ngay lần đầu, bạn có tinh mắt tìm ra con số chính xác?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T07:00:00+07:00",
+      "fetched": "2026-05-02T15:57:01.784029+07:00"
     },
     {
       "id": "e5f5ffd3c2e4e8318c40e14ca08beb5a",
