@@ -1,7 +1,17 @@
 window.newsData_2026_05_03 = {
   "date": "2026-05-03",
-  "lastUpdated": "2026-05-03T03:31:55.138967+07:00",
+  "lastUpdated": "2026-05-03T05:30:17.342389+07:00",
   "articles": [
+    {
+      "id": "108892b6c614a6ef1dac536cac73f4f7",
+      "title": "Thời tiết hôm nay 3-5: Bắc Bộ mưa to, Nam Bộ ngày nắng, chiều tối mưa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-3-5-bac-bo-mua-to-nam-bo-ngay-nang-chieu-toi-mua-20260502170726365.htm",
+      "summary": "Hôm nay 3-5, do ảnh hưởng không khí lạnh nên thời tiết Bắc Bộ mưa to đến rất to. Nam Bộ ngày nắng nhưng đề phòng những cơn mưa bất chợt chiều tối đến đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:30:08.273357+07:00",
+      "fetched": "2026-05-03T05:30:08.273579+07:00"
+    },
     {
       "id": "1742a95f6148c7ffde2ff2b589330ba5",
       "title": "PVF-CAND đẩy CLB Đà Nẵng xuống chót bảng",
@@ -151,6 +161,186 @@ window.newsData_2026_05_03 = {
       "category": "Tổng hợp",
       "published": "2026-05-03T01:43:12.925820+07:00",
       "fetched": "2026-05-03T01:43:12.926037+07:00"
+    },
+    {
+      "id": "896afd4f0b8d0dcf4902d65893fc12d9",
+      "title": "Nhà Trắng liên tiếp làm khó đồng minh châu Âu",
+      "link": "https://thanhnien.vn/nha-trang-lien-tiep-lam-kho-dong-minh-chau-au-18526050221472844.htm",
+      "summary": "Bộ Chiến tranh Mỹ ngày 2.5 thông báo sẽ rút khoảng 5.000 binh sĩ khỏi Đức trong vòng 6 - 12 tháng tới, theo chỉ đạo của Bộ trưởng Pete Hegseth.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T22:30:00+07:00",
+      "fetched": "2026-05-03T05:30:07.177926+07:00"
+    },
+    {
+      "id": "41f7fe2895b6d6a9257db82181887d0e",
+      "title": "Tiêu điểm quốc tế ngày 3.5: Chiến sự Mỹ - Iran 'chấm dứt' | Châu Phi tách đôi?",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-35-chien-su-my-iran-cham-dut-chau-phi-tach-doi-185260503002634805.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 3.5.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T22:29:00+07:00",
+      "fetched": "2026-05-03T05:30:07.178104+07:00"
+    },
+    {
+      "id": "cee855d5bbe6ab7b883d4a517161de42",
+      "title": "Đề xuất phạt đến 30 triệu đồng khi phát tán thông tin khám chữa bệnh sai lệch",
+      "link": "https://thanhnien.vn/de-xuat-phat-den-30-trieu-dong-khi-phat-tan-thong-tin-kham-chua-benh-sai-lech-185260502222533842.htm",
+      "summary": "Cục Quản lý khám chữa bệnh, Bộ Y tế vừa có văn bản góp ý dự thảo Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T22:29:00+07:00",
+      "fetched": "2026-05-03T05:30:07.178263+07:00"
+    },
+    {
+      "id": "d0930e162e7cb82516a029acdc7fd047",
+      "title": "Tử vi ngày 3 tháng 5: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-3-thang-5-con-giap-nao-may-man-hom-nay-185260502235705622.htm",
+      "summary": "Tử vi ngày 3 tháng 5 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm đáng chú ý là tinh chỉnh lựa chọn: không cần thay đổi lớn, chỉ cần điều chỉnh vài quyết định nhỏ cũng đủ tạo khác biệt. Tài lộc phụ thuộc vào việc bạn có nhận ra đâu là điều nên giữ và đâu là điều nên buông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T22:15:00+07:00",
+      "fetched": "2026-05-03T05:30:07.178418+07:00"
+    },
+    {
+      "id": "4ebc768ea27fdd1ff6c2fe2fdefea4ee",
+      "title": "Mỹ bào mòn Iran",
+      "link": "https://thanhnien.vn/my-bao-mon-iran-18526050221500633.htm",
+      "summary": "Ngừng bắn và tuyên bố ngừng oanh kích Iran, nhưng Tổng thống Mỹ Donald Trump dường như đang theo đuổi một chiến lược bào mòn nhằm vào đối phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T22:10:00+07:00",
+      "fetched": "2026-05-03T05:30:07.178574+07:00"
+    },
+    {
+      "id": "75ad0e7a4a1f8d69b2d01876f592cd7d",
+      "title": "Thần thái cuốn hút của Tôn Lệ",
+      "link": "https://vnexpress.net/than-thai-cuon-hut-cua-ton-le-5069164.html",
+      "summary": "Tôn Lệ - minh tinh \"Tân Bến Thượng Hải\", \"Chân Hoàn truyện\" - ghi điểm với thần thái cuốn hút, thanh tú, biến hóa gu mặc ở tuổi 44.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T22:00:00+07:00",
+      "fetched": "2026-05-03T05:30:03.793962+07:00"
+    },
+    {
+      "id": "6864745e0365ce98b9eb631994327cef",
+      "title": "Iran khó hóa giải vòng phong tỏa của Mỹ",
+      "link": "https://vnexpress.net/iran-kho-hoa-giai-vong-phong-toa-cua-my-5069031.html",
+      "summary": "Iran từng nắm lợi thế nhờ kiểm soát huyết mạch dầu khí Hormuz, nhưng giờ đây rơi vào thế lưỡng nan khi nền kinh tế bị vòng phong tỏa của Mỹ bóp nghẹt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T22:00:00+07:00",
+      "fetched": "2026-05-03T05:30:03.794149+07:00"
+    },
+    {
+      "id": "75cf9a6a4c8d876eae8b7e1c2e14a1a6",
+      "title": "Range Rover SV Ultra - xe sang dùng hệ âm thanh độc nhất thế giới",
+      "link": "https://vnexpress.net/range-rover-sv-ultra-xe-sang-dung-he-am-thanh-doc-nhat-the-gioi-5069187.html",
+      "summary": "Phiên bản tiên tiến nhất của mẫu SV bổ sung công nghệ âm thanh, sàn xe phản hồi xúc giác và cabin không dùng da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T22:00:00+07:00",
+      "fetched": "2026-05-03T05:30:03.794320+07:00"
+    },
+    {
+      "id": "448e3149dab731835741f6391e1a4e78",
+      "title": "4 triệu chứng bệnh thực quản dễ bị bỏ qua",
+      "link": "https://vnexpress.net/4-trieu-chung-benh-thuc-quan-de-bi-bo-qua-5068539.html",
+      "summary": "Trào ngược dạ dày thực quản, viêm thực quản gây ho kéo dài, khàn tiếng, nuốt nghẹn song triệu chứng này có thể gặp ở người bệnh viêm phổi, viêm họng, dễ gây nhầm lẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T22:00:00+07:00",
+      "fetched": "2026-05-03T05:30:03.794487+07:00"
+    },
+    {
+      "id": "10baa357128fa7b57050ee927ead66f8",
+      "title": "Ukraine tăng cường tấn công lãnh thổ Nga",
+      "link": "https://thanhnien.vn/ukraine-tang-cuong-tan-cong-lanh-tho-nga-18526050221412931.htm",
+      "summary": "Phía Ukraine tuyên bố tiếp tục tập kích một nhà máy lọc dầu ở Nga bất chấp cảnh báo từ Moscow, và gia tăng tầm bắn của các cuộc tấn công sâu vào lãnh thổ Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T22:00:00+07:00",
+      "fetched": "2026-05-03T05:30:07.178725+07:00"
+    },
+    {
+      "id": "28c0f5415b329cc62beb85ac5e9b924c",
+      "title": "Ánh sáng điện mỗi đêm là 'mạch sống' của những ngày đại dịch",
+      "link": "https://thanhnien.vn/anh-sang-dien-moi-dem-la-mach-song-cua-nhung-ngay-dai-dich-185260502145143214.htm",
+      "summary": "Đại dịch đã qua lâu. Thành phố trở lại với nhịp sống quen thuộc. Nhưng những ký ức, những thay đổi, và cả sự trân trọng dành cho ngành điện thành phố, luôn ở lại trong tim tôi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T22:00:00+07:00",
+      "fetched": "2026-05-03T05:30:07.178899+07:00"
+    },
+    {
+      "id": "da9d870fbfd64a3a8ccb2dfa199a7fea",
+      "title": "Lịch âm hôm nay: Nhiều người Việt quan tâm ngày 3.5, là ngày gì?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-nhieu-nguoi-viet-quan-tam-ngay-35-la-ngay-gi-185260502143631549.htm",
+      "summary": "Theo lịch vạn niên, lịch âm hôm nay, ngày 3.5 là ngày gì mà nhiều người Việt Nam quan tâm, chia sẻ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T22:00:00+07:00",
+      "fetched": "2026-05-03T05:30:07.179052+07:00"
+    },
+    {
+      "id": "00bcb868dd67094599a298fdc7cac4b3",
+      "title": "Người dân muốn đi làm bằng buýt sông TP.HCM, nhưng vì sao vẫn chưa phổ biến?",
+      "link": "https://thanhnien.vn/nguoi-dan-muon-di-lam-bang-buyt-song-tphcm-nhung-vi-sao-van-chua-pho-bien-18526042910122959.htm",
+      "summary": "Với lợi thế gần 1.000 km sông, kênh rạch, nhiều chuyên gia cho rằng TP.HCM còn dư địa lớn để phát triển buýt sông. Nếu được quy hoạch hợp lý, kết nối đồng bộ và có chính sách phù hợp, loại hình này có thể trở thành mảnh ghép quan trọng trong mạng lưới giao thông công cộng đa phương thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T22:00:00+07:00",
+      "fetched": "2026-05-03T05:30:07.179203+07:00"
+    },
+    {
+      "id": "6864745e0365ce98b9eb631994327cef",
+      "title": "Iran khó hóa giải vòng phong tỏa của Mỹ",
+      "link": "https://vnexpress.net/iran-kho-hoa-giai-vong-phong-toa-cua-my-5069031.html",
+      "summary": "Iran từng nắm lợi thế nhờ kiểm soát huyết mạch dầu khí Hormuz, nhưng giờ đây rơi vào thế lưỡng nan khi nền kinh tế bị vòng phong tỏa của Mỹ bóp nghẹt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T22:00:00+07:00",
+      "fetched": "2026-05-03T05:30:09.998617+07:00"
+    },
+    {
+      "id": "ebf2eff633a4855e793952c19a84652e",
+      "title": "Tình hình Iran, Trung Đông mới nhất ngày 3.5",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-ngay-35-185260502215119318.htm",
+      "summary": "Cả Mỹ và Iran liên tục đưa ra những cảnh báo và thông điệp không lạc quan, khiến cục diện tình hình xung đột ở Trung Đông vẫn rất phức tạp và khó lường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:30:00+07:00",
+      "fetched": "2026-05-03T05:30:07.179353+07:00"
+    },
+    {
+      "id": "023a33c0a6fbc32a25d36a9179823d65",
+      "title": "Khi nào cần nội soi buồng tử cung tìm nguyên nhân hiếm muộn?",
+      "link": "https://vnexpress.net/khi-nao-can-noi-soi-buong-tu-cung-tim-nguyen-nhan-hiem-muon-5068667.html",
+      "summary": "Vợ chồng tôi 2 năm không có con, được chẩn đoán vô sinh không rõ nguyên nhân. Tôi đã chuyển phôi một lần thất bại, có nên nội soi buồng tử cung không? (My, 35 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T21:00:00+07:00",
+      "fetched": "2026-05-03T05:30:03.794652+07:00"
+    },
+    {
+      "id": "1254b46791b6a28b4c316a0a7b7494a0",
+      "title": "Jamaica phá mốc 40 giây ở tiếp sức hỗn hợp 4x100m",
+      "link": "https://vnexpress.net/jamaica-pha-moc-40-giay-o-tiep-suc-hon-hop-4x100m-5069226.html",
+      "summary": "Giải tiếp sức thế giới tại Gaborone khởi tranh ngày 2/5 với màn mở đầu bùng nổ khi Jamaica thiết lập kỷ lục thế giới ở nội dung 4x100m hỗn hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T20:58:09+07:00",
+      "fetched": "2026-05-03T05:30:03.794819+07:00"
+    },
+    {
+      "id": "1254b46791b6a28b4c316a0a7b7494a0",
+      "title": "Jamaica phá mốc 40 giây ở tiếp sức hỗn hợp 4x100m",
+      "link": "https://vnexpress.net/jamaica-pha-moc-40-giay-o-tiep-suc-hon-hop-4x100m-5069226.html",
+      "summary": "Giải tiếp sức thế giới tại Gaborone khởi tranh ngày 2/5 với màn mở đầu bùng nổ khi Jamaica thiết lập kỷ lục thế giới ở nội dung 4x100m hỗn hợp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-02T20:58:09+07:00",
+      "fetched": "2026-05-03T05:30:17.337406+07:00"
     },
     {
       "id": "8e883d2f354a7b09b74dec6699bbcd24",
