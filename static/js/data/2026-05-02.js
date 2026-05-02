@@ -1,7 +1,147 @@
 window.newsData_2026_05_02 = {
   "date": "2026-05-02",
-  "lastUpdated": "2026-05-02T05:40:31.273086+07:00",
+  "lastUpdated": "2026-05-02T08:52:25.190775+07:00",
   "articles": [
+    {
+      "id": "d380e8751518934797c79ee80e50ef2a",
+      "title": "Không có chuyện Mourinho trở lại dẫn dắt Real Madrid",
+      "link": "https://tuoitre.vn/khong-co-chuyen-mourinho-tro-lai-dan-dat-real-madrid-20260502045647105.htm",
+      "summary": "Cuộc tái hợp giữa HLV Jose Mourinho và Real Madrid nhiều khả năng sẽ không thể xảy ra, khi những người trong cuộc đều bác bỏ thông tin này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:52:18.053178+07:00",
+      "fetched": "2026-05-02T08:52:18.053296+07:00"
+    },
+    {
+      "id": "8280ea00f2486e7d34c86142282085b7",
+      "title": "Tin tức thế giới 2-5: Ông Trump dọa đánh Iran tan tành; Mỹ sẽ rút 5.000 binh sĩ khỏi Đức",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-2-5-ong-trump-doa-danh-iran-tan-tanh-my-se-rut-5-000-binh-si-khoi-duc-20260502053320389.htm",
+      "summary": "Ông Trump không hài lòng với đề xuất mới nhất của Iran; Mỹ tăng thuế ô tô từ Liên minh châu Âu lên 25% từ tuần tới vì vi phạm thỏa thuận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:52:18.053042+07:00",
+      "fetched": "2026-05-02T08:52:18.053163+07:00"
+    },
+    {
+      "id": "c90dff1ebd3eeaff5d5cf4df5631d37f",
+      "title": "Giữ lấy sự thống nhất - Giữ lấy tương lai",
+      "link": "https://tuoitre.vn/giu-lay-su-thong-nhat-giu-lay-tuong-lai-20260427192321362.htm",
+      "summary": "Có những ngày không chỉ được ghi lại trong lịch sử, mà còn in sâu trong ký ức của một dân tộc. Ngày 30-4-1975 là một ngày như thế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:52:18.052901+07:00",
+      "fetched": "2026-05-02T08:52:18.053030+07:00"
+    },
+    {
+      "id": "2b3eee642ab0e034c0d1a42e51dd11f8",
+      "title": "Thế giới khát khao hòa bình",
+      "link": "https://tuoitre.vn/the-gioi-khat-khao-hoa-binh-20260428223711742.htm",
+      "summary": "Hòa bình được định nghĩa là trạng thái hài hòa, đòi hỏi cả sự vắng mặt của xung đột và sự hiện diện của công lý, bình đẳng và phẩm giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:52:18.052774+07:00",
+      "fetched": "2026-05-02T08:52:18.052890+07:00"
+    },
+    {
+      "id": "b00869319c7fb9eac6c135680a6bb8d4",
+      "title": "Người dân hưởng lợi trăm bề nhờ chuyển đổi số",
+      "link": "https://tuoitre.vn/nguoi-dan-huong-loi-tram-be-nho-chuyen-doi-so-20260427141513231.htm",
+      "summary": "Không phải lo xếp hàng rồng rắn, không phải lo quên mang theo giấy tờ tùy thân hay tập hồ sơ giày cộp, cuộc cách mạng số hóa tại Việt Nam đang giúp người dân và doanh nghiệp tiết kiệm thời gian, công sức và cả tiền bạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:52:18.052615+07:00",
+      "fetched": "2026-05-02T08:52:18.052761+07:00"
+    },
+    {
+      "id": "0d6a1baff839056ee85a2e65f65f2bee",
+      "title": "Jujutsu Kaisen Modulo: Màn lộ diện của Aoi Todo chưa đủ thuyết phục?",
+      "link": "https://tuoitre.vn/jujutsu-kaisen-modulo-man-lo-dien-cua-aoi-todo-chua-du-thuyet-phuc-20260501235237457.htm",
+      "summary": "Chương bonus trong tập cuối Jujutsu Kaisen Modulo gây chú ý khi hé lộ diện mạo tương lai của một nhân vật bí ẩn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:52:18.052490+07:00",
+      "fetched": "2026-05-02T08:52:18.052603+07:00"
+    },
+    {
+      "id": "c8fb943ef505b87a0233d38e41d2eb11",
+      "title": "Ký ức lịch sử dưới vòm me xanh",
+      "link": "https://tuoitre.vn/ky-uc-lich-su-duoi-vom-me-xanh-20260426165623835.htm",
+      "summary": "Tháng tư, TP.HCM chang chang nắng, những vòng xe trên đường, bước chân trên hè phố tự động chậm lại mỗi khi gặp một bóng cây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:52:18.052364+07:00",
+      "fetched": "2026-05-02T08:52:18.052478+07:00"
+    },
+    {
+      "id": "14b5f4308a88aa50472a58bec1c82020",
+      "title": "Trung Đông sáng 2-5: Vệ binh Iran kiểm soát Hormuz theo cách mới; Lãnh tụ Iran nêu thông điệp",
+      "link": "https://tuoitre.vn/trung-dong-sang-2-5-ve-binh-iran-kiem-soat-hormuz-theo-cach-moi-lanh-tu-iran-neu-thong-diep-20260502062749646.htm",
+      "summary": "Mỹ nói sẽ không kết thúc chiến sự nếu chưa đạt mục tiêu, trong khi ông Mojtaba Khamenei kêu gọi người dân chiến đấu bằng kinh tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:52:18.052237+07:00",
+      "fetched": "2026-05-02T08:52:18.052353+07:00"
+    },
+    {
+      "id": "ed127825237dc0ee5ff91518dc762c45",
+      "title": "Mỹ mở rộng trừng phạt Cuba, Havana nói 'không sợ hãi'",
+      "link": "https://tuoitre.vn/my-mo-rong-trung-phat-cuba-havana-noi-khong-so-hai-20260502071800261.htm",
+      "summary": "Tổng thống Trump ngày 1-5 đã ký sắc lệnh mở rộng đáng kể các biện pháp trừng phạt đối với Cuba.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:52:18.052105+07:00",
+      "fetched": "2026-05-02T08:52:18.052223+07:00"
+    },
+    {
+      "id": "cac5bb216cb9840f2b59417313bffdf0",
+      "title": "Việt Nam từng đăng quang Miss Eco International, Thu Trúc có lặp lại kỳ tích?",
+      "link": "https://tuoitre.vn/viet-nam-tung-dang-quang-miss-eco-international-thu-truc-co-lap-lai-ky-tich-20260502060118421.htm",
+      "summary": "Sở hữu ngoại hình sáng cùng khả năng ngoại ngữ tốt, Nguyễn Thị Thu Trúc bước vào cuộc thi Miss Eco International 2026 với không ít kỳ vọng của fan sắc đẹp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:52:18.051977+07:00",
+      "fetched": "2026-05-02T08:52:18.052092+07:00"
+    },
+    {
+      "id": "16881bad038c2cbc2fdb8926bb66a0ea",
+      "title": "Sthefany Gutiérrez rút lui khỏi MGI All Stars: Venezuela trước nguy cơ 'trắng vé'?",
+      "link": "https://tuoitre.vn/sthefany-gutierrez-rut-lui-khoi-mgi-all-stars-venezuela-truoc-nguy-co-trang-ve-20260502065939754.htm",
+      "summary": "Thông tin đại diện Venezuela rút khỏi MGI All Stars 2026 khiến fan sắc đẹp xôn xao. Tuy nhiên cả Sthefany Gutiérrez lẫn ban tổ chức vẫn chưa đưa ra xác nhận chính thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:52:18.051845+07:00",
+      "fetched": "2026-05-02T08:52:18.051964+07:00"
+    },
+    {
+      "id": "aed9703eb8df603dff9ffab66f998afa",
+      "title": "Sau dịp 30-4 và 1-5, người lao động vẫn còn một đợt nghỉ lễ 5 ngày",
+      "link": "https://tuoitre.vn/sau-dip-30-4-va-1-5-nguoi-lao-dong-se-duoc-nghi-le-keo-dai-5-ngay-2026050122013664.htm",
+      "summary": "Sau kỳ nghỉ lễ 30-4 và 1-5, người lao động sẽ bước vào kỳ nghỉ lễ 2-9 kéo dài 5 ngày liên tiếp do hoán đổi ngày làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:52:18.051710+07:00",
+      "fetched": "2026-05-02T08:52:18.051833+07:00"
+    },
+    {
+      "id": "79932169640883ea6576471474c6455a",
+      "title": "Toyota Corolla Cross sắp nâng cấp, nhưng vẫn thiếu một số tính năng phổ biến",
+      "link": "https://tuoitre.vn/toyota-corolla-cross-sap-nang-cap-nhung-van-thieu-mot-so-tinh-nang-pho-bien-2026050201310123.htm",
+      "summary": "Toyota Corolla Cross sắp được nâng cấp, tuy nhiên nhiều khả năng sẽ khiến không ít khách hàng tiếc nuối khi một số tính năng phổ biến tiếp tục vắng mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:52:18.051536+07:00",
+      "fetched": "2026-05-02T08:52:18.051695+07:00"
+    },
+    {
+      "id": "97cdad6193c70d79d30080f3573bf6d1",
+      "title": "Bảo tàng thành 'lớp học lịch sử'",
+      "link": "https://tuoitre.vn/bao-tang-thanh-lop-hoc-lich-su-20260429093552119.htm",
+      "summary": "Xây dựng Không gian văn hóa Hồ Chí Minh tại các bảo tàng ở TP.HCM trở thành điểm nhấn trong hoạt động bảo tồn và phát huy giá trị lịch sử, văn hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T08:52:18.051295+07:00",
+      "fetched": "2026-05-02T08:52:18.051520+07:00"
+    },
     {
       "id": "087319f1d5942a92ff5db39a64994bc4",
       "title": "Thời tiết hôm nay 2-5: Nam Bộ ngày nắng nóng, miền Đông chiều tối mưa dông",
@@ -163,6 +303,416 @@ window.newsData_2026_05_02 = {
       "fetched": "2026-05-02T01:57:35.154254+07:00"
     },
     {
+      "id": "e210dd42d8428b680a1a0e927613c1b3",
+      "title": "Giá vàng hôm nay 2.5.2026: Dậm chân tại chỗ nhưng người mua đã lỗ 13 triệu đồng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-252026-dam-chan-tai-cho-nhung-nguoi-mua-da-lo-13-trieu-dong-185260502075901392.htm",
+      "summary": "Giá vàng trong nước đứng yên khi nhiều công ty vẫn tiếp tục nghỉ lễ nhưng đã giảm mạnh sau một tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:51:00+07:00",
+      "fetched": "2026-05-02T08:52:16.908892+07:00"
+    },
+    {
+      "id": "6ec6a574125a1c841ecfac312639cc8f",
+      "title": "AFC bất ngờ nhắc tên Son Heung-min nổi lên từ U.17 châu Á, kỳ vọng tài năng trẻ U.17 Việt Nam",
+      "link": "https://thanhnien.vn/afc-bat-ngo-nhac-ten-son-heung-min-noi-len-tu-u17-chau-a-ky-vong-tai-nang-tre-u17-viet-nam-185260502084224783.htm",
+      "summary": "Trang chủ Liên đoàn Bóng đá châu Á, the-AFC.com, khẳng định giải U.17 châu Á đã sẵn sàng cho thế hệ cầu thủ trẻ tài năng tiếp theo tỏa sáng, để tiếp bước các đàn anh Son Heung-min, Sardar Azmoun, Takefusa Kubo, trong đó có U.17 Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:50:00+07:00",
+      "fetched": "2026-05-02T08:52:16.909063+07:00"
+    },
+    {
+      "id": "ee6a4e67dba35e2fdd86224444e9b5a3",
+      "title": "8 giờ truy bắt đôi nam nữ cướp tiệm vàng ở Hà Tĩnh",
+      "link": "https://thanhnien.vn/8-gio-truy-bat-doi-nam-nu-cuop-tiem-vang-o-ha-tinh-18526050207122363.htm",
+      "summary": "Sau khi vờ mua rồi cướp 1 cây vàng tại tiệm vàng ở Hà Tĩnh, đôi nam nữ đã dùng dao nhọn tấn công chủ tiệm và người dân để thoát thân. Tuy nhiên, chỉ sau 8 giờ gây án, cả hai đã sa lưới lực lượng công an.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:44:00+07:00",
+      "fetched": "2026-05-02T08:52:16.909222+07:00"
+    },
+    {
+      "id": "8a97ce4c25e36cf1e410403d55b64bb4",
+      "title": "Tại sao tiếp viên hàng không luôn có hành động lạ này khi ngồi xuống ghế?",
+      "link": "https://thanhnien.vn/tai-sao-tiep-vien-hang-khong-luon-co-hanh-dong-la-nay-khi-ngoi-xuong-ghe-18526042014262451.htm",
+      "summary": "Trong các giai đoạn quan trọng của chuyến bay, đó là cất cánh và hạ cánh, bạn sẽ thấy tiếp viên hàng không ngồi trên ghế phụ của họ ở tư thế chống tay và gần như ngồi lên bàn tay của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:38:00+07:00",
+      "fetched": "2026-05-02T08:52:16.909377+07:00"
+    },
+    {
+      "id": "2b2ce7474de3ee9fd0d730a33d32339f",
+      "title": "Giá USD hôm nay 2.5.2026: Tăng trở lại sau đợt giảm mạnh",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-252026-tang-tro-lai-sau-dot-giam-manh-185260502082143516.htm",
+      "summary": "Các ngân hàng tăng giá mua vào cao hơn bán ra so với đầu năm, trong khi các ngoại tệ khác tăng giảm trái chiều. Trên thị trường thế giới, giá USD tăng trở lại sau đợt giảm sâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:37:00+07:00",
+      "fetched": "2026-05-02T08:52:16.909535+07:00"
+    },
+    {
+      "id": "01fc29652f20409a0865b03dd657f366",
+      "title": "Ông Trump tuyên bố xung đột với Iran đã 'chấm dứt'",
+      "link": "https://thanhnien.vn/ong-trump-tuyen-bo-xung-dot-voi-iran-da-cham-dut-18526050208221584.htm",
+      "summary": "Tổng thống Mỹ Donald Trump báo cáo với quốc hội rằng chiến sự với Iran đã kết thúc dù không bác bỏ khả năng thực hiện thêm hành động quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:27:00+07:00",
+      "fetched": "2026-05-02T08:52:16.909711+07:00"
+    },
+    {
+      "id": "46209e7ac0d5f7d83babf36f997e0572",
+      "title": "Ông Trump tức giận, Mỹ rút 5.000 binh sĩ khỏi Đức",
+      "link": "https://thanhnien.vn/ong-trump-tuc-gian-my-rut-5000-binh-si-khoi-duc-185260502074204968.htm",
+      "summary": "Bộ trưởng Chiến tranh Mỹ Pete Hegseth đã ra lệnh rút khoảng 5.000 binh sĩ khỏi Đức trong vòng một năm tới giữa những mâu thuẫn gần đây của lãnh đạo hai nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:17:00+07:00",
+      "fetched": "2026-05-02T08:52:16.909875+07:00"
+    },
+    {
+      "id": "e059cf5ce3d922824de04b5126f35dfd",
+      "title": "Rơi máy bay chở đội pickleball ở Mỹ, 5 người thiệt mạng",
+      "link": "https://thanhnien.vn/roi-may-bay-cho-doi-pickleball-o-my-5-nguoi-thiet-mang-18526050207454284.htm",
+      "summary": "Cơ quan chức năng bang Texas, Mỹ ngày 1.5 cho biết một chiếc máy bay chở các tay vợt pickleball đã rơi xuống một khu vực thành phố Wimberley, khiến toàn bộ 5 người trên máy bay thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:10:00+07:00",
+      "fetched": "2026-05-02T08:52:16.910033+07:00"
+    },
+    {
+      "id": "428a90891400c8645107fbc9ab89c337",
+      "title": "Enrique: 'Ngốc nghếch mới chỉ trích trận thắng Bayern 5-4'",
+      "link": "https://vnexpress.net/enrique-ngoc-nghech-moi-chi-trich-tran-thang-bayern-5-4-5069006.html",
+      "summary": "HLV Luis Enrique tuyên bố không tôn trọng quan điểm cho rằng trận PSG thắng Bayern 5-4 là một thảm họa phòng ngự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:06:32+07:00",
+      "fetched": "2026-05-02T08:52:13.336252+07:00"
+    },
+    {
+      "id": "428a90891400c8645107fbc9ab89c337",
+      "title": "Enrique: 'Ngốc nghếch mới chỉ trích trận thắng Bayern 5-4'",
+      "link": "https://vnexpress.net/enrique-ngoc-nghech-moi-chi-trich-tran-thang-bayern-5-4-5069006.html",
+      "summary": "HLV Luis Enrique tuyên bố không tôn trọng quan điểm cho rằng trận PSG thắng Bayern 5-4 là một thảm họa phòng ngự.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-02T01:06:32+07:00",
+      "fetched": "2026-05-02T08:52:25.185910+07:00"
+    },
+    {
+      "id": "2cd57a4784d4a4e98cb44bbaea529363",
+      "title": "Trúng mánh hàng trăm cua biển trên đồng lúa",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-trung-manh-hang-tram-cua-bien-tren-dong-lua-5068624.html",
+      "summary": "Từ những chiếc lợp đặt dưới kênh, người dân bất ngờ thu về hàng trăm cua biển chen chúc, tạo nên mẻ “lộc trời” đầy ấn tượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:00:00+07:00",
+      "fetched": "2026-05-02T08:52:13.336434+07:00"
+    },
+    {
+      "id": "376b98050492f499e9291a7095bdbd8b",
+      "title": "Biến chứng sau mổ đại tràng",
+      "link": "https://vnexpress.net/bien-chung-sau-mo-dai-trang-5068515.html",
+      "summary": "Người bệnh sau phẫu thuật cắt đại tràng cần theo dõi và chăm sóc đúng cách theo hướng dẫn của bác sĩ nhằm tránh xuất huyết, xì rò miệng nối, dính ruột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:00:00+07:00",
+      "fetched": "2026-05-02T08:52:13.336605+07:00"
+    },
+    {
+      "id": "e248dad33ad3f70961c9d8ba5989e21d",
+      "title": "Trần Ngọc Vàng, Thùy Anh hé lộ cảnh tình tứ trong thang máy",
+      "link": "https://thanhnien.vn/tran-ngoc-vang-thuy-anh-he-lo-canh-tinh-tu-trong-thang-may-185260430004515949.htm",
+      "summary": "Vai diễn Phan Minh và Hoàn Mỹ trong phim 'Vì mẹ anh phán chia tay' để lại nhiều kỷ niệm cho Trần Ngọc Vàng và Thùy Anh. Trong đó, cảnh tình tứ trong thang máy là phân đoạn khiến cả hai ấn tượng nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:00:00+07:00",
+      "fetched": "2026-05-02T08:52:16.910187+07:00"
+    },
+    {
+      "id": "5a7575dc4924adb85af5c3fa37c28620",
+      "title": "Tiếng đồng vọng phương Nam trong nhịp trống \nhiệu triệu vươn mình",
+      "link": "https://thanhnien.vn/tieng-dong-vong-phuong-nam-trong-nhip-trong-hieu-trieu-vuon-minh-185260427171505272.htm",
+      "summary": "Người Nam bộ đã hấp thụ những gì từ truyền thống \"mang gươm đi mở cõi\" của các thế hệ cha ông, từ vượng khí của vùng đất đồng bằng trù phú hội tụ phù sa của nhiều con sông lớn để hun đúc cho mình những tính cách tốt đẹp?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:00:00+07:00",
+      "fetched": "2026-05-02T08:52:16.910340+07:00"
+    },
+    {
+      "id": "296877adf1f22952788b1c99a64868ac",
+      "title": "Về làm việc nghĩa nơi nguồn cội",
+      "link": "https://thanhnien.vn/ve-lam-viec-nghia-noi-nguon-coi-185260427154313151.htm",
+      "summary": "Sinh ra và lớn lên tại Mỹ, mang trong mình đời sống rất 'Mỹ' từ ngôn ngữ, học tập đến văn hóa, Chris Trần từng không nghĩ sẽ có ngày về Việt Nam để sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:00:00+07:00",
+      "fetched": "2026-05-02T08:52:16.910491+07:00"
+    },
+    {
+      "id": "8f5ea428f3ee5df77ec9c10ca20a37ff",
+      "title": "Sắc hồng pastel tôn nét tinh khôi và ngọt ngào của nàng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/sac-hong-pastel-ton-net-tinh-khoi-va-ngot-ngao-cua-nang-185260423163100118.htm",
+      "summary": "Gam hồng pastel hiện diện trong tủ đồ mùa hạ tựa như một làn gió mát lành, đem đến cảm giác bình yên, nhẹ nhàng và sang trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T01:00:00+07:00",
+      "fetched": "2026-05-02T08:52:16.910660+07:00"
+    },
+    {
+      "id": "9b200750a4f758d8aba04e7eb124f219",
+      "title": "Ngọn gió lành Cô đỡ thôn bản",
+      "link": "https://thanhnien.vn/ngon-gio-lanh-co-do-thon-ban-185260427155921242.htm",
+      "summary": "Con ơi, con ngủ nhé/Để cha lên rẫy/Để mẹ lên nương/ Ngoan nhé, con của mẹ/Rồi ngày mai khôn lớn/Con sẽ dệt vải giỏi, để may áo đẹp…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T00:56:00+07:00",
+      "fetched": "2026-05-02T08:52:16.910820+07:00"
+    },
+    {
+      "id": "984a086256f9d7cddcce22d3a3adb702",
+      "title": "Phim kinh dị có Lan Phương, Kiều Minh Tuấn lập kỷ lục",
+      "link": "https://thanhnien.vn/phim-kinh-di-co-lan-phuong-kieu-minh-tuan-lap-ky-luc-185260501194946546.htm",
+      "summary": "Với 166 tỉ đồng sau 2 tuần ra rạp, 'Phí phông: Quỷ máu rừng thiêng' có sự tham gia của Kiều Minh Tuấn, Diệp Bảo Ngọc, Lan Phương... trở thành phim kinh dị Việt có doanh thu cao nhất tính đến hiện tại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T00:54:00+07:00",
+      "fetched": "2026-05-02T08:52:16.910972+07:00"
+    },
+    {
+      "id": "3f11d50b9cb1f91158b3f874335ef21f",
+      "title": "Phi cơ Qatar tặng Mỹ hoàn tất thử nghiệm bay",
+      "link": "https://vnexpress.net/phi-co-qatar-tang-my-hoan-tat-thu-nghiem-bay-5069016.html",
+      "summary": "Không quân Mỹ cho biết chiếc Boeing 747 mà Qatar tặng chính quyền Trump đã hoàn tất thử nghiệm bay và dự kiến ra mắt vào mùa hè này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T00:52:03+07:00",
+      "fetched": "2026-05-02T08:52:13.336826+07:00"
+    },
+    {
+      "id": "3f11d50b9cb1f91158b3f874335ef21f",
+      "title": "Phi cơ Qatar tặng Mỹ hoàn tất thử nghiệm bay",
+      "link": "https://vnexpress.net/phi-co-qatar-tang-my-hoan-tat-thu-nghiem-bay-5069016.html",
+      "summary": "Không quân Mỹ cho biết chiếc Boeing 747 mà Qatar tặng chính quyền Trump đã hoàn tất thử nghiệm bay và dự kiến ra mắt vào mùa hè này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T00:52:03+07:00",
+      "fetched": "2026-05-02T08:52:20.120362+07:00"
+    },
+    {
+      "id": "0d0917b5f89ae679eb8333524a9ff667",
+      "title": "Scholes đoán Arsenal không vô địch cả Ngoại hạng Anh lẫn Champions League",
+      "link": "https://vnexpress.net/scholes-doan-arsenal-khong-vo-dich-ca-ngoai-hang-anh-lan-champions-league-5069012.html",
+      "summary": "Cựu tiền vệ Man Utd Paul Scholes không tin Arsenal có thể đoạt cú đúp danh hiệu Ngoại hạng Anh và Champions League mùa này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T00:52:01+07:00",
+      "fetched": "2026-05-02T08:52:13.336991+07:00"
+    },
+    {
+      "id": "0d0917b5f89ae679eb8333524a9ff667",
+      "title": "Scholes đoán Arsenal không vô địch cả Ngoại hạng Anh lẫn Champions League",
+      "link": "https://vnexpress.net/scholes-doan-arsenal-khong-vo-dich-ca-ngoai-hang-anh-lan-champions-league-5069012.html",
+      "summary": "Cựu tiền vệ Man Utd Paul Scholes không tin Arsenal có thể đoạt cú đúp danh hiệu Ngoại hạng Anh và Champions League mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-02T00:52:01+07:00",
+      "fetched": "2026-05-02T08:52:25.186075+07:00"
+    },
+    {
+      "id": "7ce728f4121a67c65398e1494228958f",
+      "title": "Giá dầu giảm, chứng khoán Mỹ lập đỉnh mới",
+      "link": "https://vnexpress.net/gia-dau-giam-chung-khoan-my-lap-dinh-moi-5069017.html",
+      "summary": "Dầu thô WTI về sát 100 USD một thùng khi Iran gửi đề xuất đàm phán mới cho Mỹ, trong khi cổ phiếu Apple giúp Wall Street lập kỷ lục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T00:45:15+07:00",
+      "fetched": "2026-05-02T08:52:13.337151+07:00"
+    },
+    {
+      "id": "7ce728f4121a67c65398e1494228958f",
+      "title": "Giá dầu giảm, chứng khoán Mỹ lập đỉnh mới",
+      "link": "https://vnexpress.net/gia-dau-giam-chung-khoan-my-lap-dinh-moi-5069017.html",
+      "summary": "Dầu thô WTI về sát 100 USD một thùng khi Iran gửi đề xuất đàm phán mới cho Mỹ, trong khi cổ phiếu Apple giúp Wall Street lập kỷ lục.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-02T00:45:15+07:00",
+      "fetched": "2026-05-02T08:52:21.209034+07:00"
+    },
+    {
+      "id": "12b5c86e9559f78293b7e53bf05d1182",
+      "title": "Samsung và Apple cùng lên tiếng về khủng hoảng chip nhớ",
+      "link": "https://vnexpress.net/samsung-va-apple-cung-len-tieng-ve-khung-hoang-chip-nho-5068993.html",
+      "summary": "Samsung và SK Hynix cho rằng tình trạng thiếu hụt chip nhớ vì cơn sốt AI sẽ kéo dài, trong khi Apple cũng dự báo chi phí bộ nhớ \"tăng đáng kể\" trong quý II/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T00:35:29+07:00",
+      "fetched": "2026-05-02T08:52:13.337318+07:00"
+    },
+    {
+      "id": "12b5c86e9559f78293b7e53bf05d1182",
+      "title": "Samsung và Apple cùng lên tiếng về khủng hoảng chip nhớ",
+      "link": "https://vnexpress.net/samsung-va-apple-cung-len-tieng-ve-khung-hoang-chip-nho-5068993.html",
+      "summary": "Samsung và SK Hynix cho rằng tình trạng thiếu hụt chip nhớ vì cơn sốt AI sẽ kéo dài, trong khi Apple cũng dự báo chi phí bộ nhớ \"tăng đáng kể\" trong quý II/2026.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-02T00:35:29+07:00",
+      "fetched": "2026-05-02T08:52:24.087661+07:00"
+    },
+    {
+      "id": "04453d9caf56ebc57221e6bdfc16ed2f",
+      "title": "Chuyện tình 9 năm của nam chính 'Ở nhà một mình' và sao nữ gốc H'Mông",
+      "link": "https://thanhnien.vn/chuyen-tinh-9-nam-cua-nam-chinh-o-nha-mot-minh-va-sao-nu-goc-hmong-185260502045807136.htm",
+      "summary": "Gắn bó từ 2017, Macaulay Culkin và Brenda Song đang có tổ ấm ngọt ngào bên hai con nhỏ. Mối tình 9 năm cũng đưa tài tử 'Ở nhà một mình' thoát khỏi hình ảnh nghiện ngập, bê tha, trở thành người đàn ông của gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T00:35:00+07:00",
+      "fetched": "2026-05-02T08:52:16.911124+07:00"
+    },
+    {
+      "id": "d71031d4d427a5b0328712399494ef67",
+      "title": "Nhiều gia đình nắm tay nhau về đích tại VM Green Paradise Cần Giờ",
+      "link": "https://vnexpress.net/nhieu-gia-dinh-nam-tay-nhau-ve-dich-tai-vm-green-paradise-can-gio-5068617.html",
+      "summary": "Bố mẹ chạy bộ cùng con, có người mang theo thú cưng, biến VM Green Paradise Cần Giờ thành ngày hội thể thao của các gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T00:30:00+07:00",
+      "fetched": "2026-05-02T08:52:13.337481+07:00"
+    },
+    {
+      "id": "983e5f096a3ed363097384ceebcab960",
+      "title": "Mỹ sẽ rút 5.000 binh sĩ khỏi Đức",
+      "link": "https://vnexpress.net/my-se-rut-5-000-binh-si-khoi-duc-5069011.html",
+      "summary": "Lầu Năm Góc thông báo Mỹ sẽ rút khoảng 5.000 binh sĩ đồn trú khỏi Đức trong năm tới, khi quan hệ giữa hai nước có dấu hiệu rạn nứt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T00:27:32+07:00",
+      "fetched": "2026-05-02T08:52:13.337656+07:00"
+    },
+    {
+      "id": "983e5f096a3ed363097384ceebcab960",
+      "title": "Mỹ sẽ rút 5.000 binh sĩ khỏi Đức",
+      "link": "https://vnexpress.net/my-se-rut-5-000-binh-si-khoi-duc-5069011.html",
+      "summary": "Lầu Năm Góc thông báo Mỹ sẽ rút khoảng 5.000 binh sĩ đồn trú khỏi Đức trong năm tới, khi quan hệ giữa hai nước có dấu hiệu rạn nứt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T00:27:32+07:00",
+      "fetched": "2026-05-02T08:52:20.120536+07:00"
+    },
+    {
+      "id": "be754b9bff45b74ade31dd78bda30cfd",
+      "title": "Lãnh tụ Khamenei: Iran đã trở thành cường quốc quân sự",
+      "link": "https://vnexpress.net/lanh-tu-khamenei-iran-da-tro-thanh-cuong-quoc-quan-su-5069013.html",
+      "summary": "Lãnh tụ Tối cao Khamenei tuyên bố Iran đã trở thành \"cường quốc quân sự\" trong thông điệp ngày Quốc tế Lao động và Ngày Nhà giáo của nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T00:08:49+07:00",
+      "fetched": "2026-05-02T08:52:13.337829+07:00"
+    },
+    {
+      "id": "be754b9bff45b74ade31dd78bda30cfd",
+      "title": "Lãnh tụ Khamenei: Iran đã trở thành cường quốc quân sự",
+      "link": "https://vnexpress.net/lanh-tu-khamenei-iran-da-tro-thanh-cuong-quoc-quan-su-5069013.html",
+      "summary": "Lãnh tụ Tối cao Khamenei tuyên bố Iran đã trở thành \"cường quốc quân sự\" trong thông điệp ngày Quốc tế Lao động và Ngày Nhà giáo của nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T00:08:49+07:00",
+      "fetched": "2026-05-02T08:52:20.120759+07:00"
+    },
+    {
+      "id": "ad30e719a6d09cc7425d9fbb09ffb1da",
+      "title": "Khách xếp hàng dài trên phố chờ thăm Nhà tù Hỏa Lò",
+      "link": "https://vnexpress.net/khach-xep-hang-dai-tren-pho-cho-tham-nha-tu-hoa-lo-5068960.html",
+      "summary": "Gần 10.000 đổ đến tham quan Nhà tù Hỏa Lò trong ngày 1/5, có khách bật khóc sau chuyến đi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T00:00:00+07:00",
+      "fetched": "2026-05-02T08:52:13.337983+07:00"
+    },
+    {
+      "id": "be974eb303a2d3ebdb608deb60cdf744",
+      "title": "Covid-19, sốt xuất huyết và chân tay miệng tăng mạnh",
+      "link": "https://vnexpress.net/covid-19-sot-xuat-huyet-va-chan-tay-mieng-tang-manh-5068959.html",
+      "summary": "Ca tay chân miệng, sốt xuất huyết, Covid-19 đồng loạt tăng tại nhiều địa phương từ 2 đến 4 lần, ngành y tế khuyến cáo ngăn dịch chồng dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T00:00:00+07:00",
+      "fetched": "2026-05-02T08:52:13.338138+07:00"
+    },
+    {
+      "id": "4edc368f5f4dc90cc2d58b776ac60f2c",
+      "title": "Thùng rác tại Nhật Bản đặt ở đâu?",
+      "link": "https://vnexpress.net/thung-rac-tai-nhat-ban-dat-o-dau-5068272.html",
+      "summary": "Nhật Bản luôn giữ gìn đường phố sạch sẽ và có rất ít thùng rác ở những nơi công cộng, một phần do thói quen của người dân, phần còn lại đến từ lý do đảm bảo an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T00:00:00+07:00",
+      "fetched": "2026-05-02T08:52:13.338294+07:00"
+    },
+    {
+      "id": "45b53de5b5dce0b488796ff630766097",
+      "title": "Khoảnh khắc định đoạt chức vô địch VM Green Paradise Cần Giờ",
+      "link": "https://vnexpress.net/khoanh-khac-dinh-doat-chuc-vo-dich-vm-green-paradise-can-gio-5068962.html",
+      "summary": "Huỳnh Anh Khôi và Lý Nhân Tín dù bị đối thủ bám đuổi ở đoạn đầu, vẫn biết cách vượt lên bằng lợi thế riêng để đăng quang VM Cần Giờ sáng 1/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T00:00:00+07:00",
+      "fetched": "2026-05-02T08:52:13.338448+07:00"
+    },
+    {
+      "id": "55b93879dc4f73329d979592addc015c",
+      "title": "Người phụ nữ gốc Việt tự cuốc đất làm vườn trồng 200 loại hoa hồng",
+      "link": "https://vnexpress.net/nguoi-phu-nu-goc-viet-tu-cuoc-dat-lam-vuon-trong-200-loai-hoa-hong-5065862.html",
+      "summary": "Từ một người chưa bao giờ cầm cuốc, Christine Nguyễn, 44 tuổi, tự tay biến khu đất hoang thành vườn hoa hồng hàng trăm giống khác nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T23:29:00+07:00",
+      "fetched": "2026-05-02T08:52:13.338609+07:00"
+    },
+    {
+      "id": "b0e94e14651441ef8eefc810e11171f4",
+      "title": "Sinner đấu Zverev ở chung kết Madrid Mở rộng",
+      "link": "https://vnexpress.net/sinner-dau-zverev-o-chung-ket-madrid-mo-rong-5069014.html",
+      "summary": "Hai hạt giống hàng đầu Jannik Sinner và Alexander Zverev cùng thắng dễ ở bán kết giải ATP 1000 đất nện Madrid Mở rộng 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-01T23:22:43+07:00",
+      "fetched": "2026-05-02T08:52:25.184755+07:00"
+    },
+    {
+      "id": "c21b26f571a93be648e3fc605439e2db",
+      "title": "Ông Trump tuyên bố chiến sự với Iran 'đã chấm dứt'",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-chien-su-voi-iran-da-cham-dut-5069008.html",
+      "summary": "Tổng thống Trump thông báo kết thúc chiến sự với Iran, ngay trước khi hết thời hạn được tiến hành chiến dịch quân sự mà không cần xin phép quốc hội Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-01T23:07:44+07:00",
+      "fetched": "2026-05-02T08:52:20.120925+07:00"
+    },
+    {
+      "id": "e16fc582c375cf6e5a8ad4b395409634",
+      "title": "Nguy cơ 'cuộc chiến giá dầu' sau khi UAE rời OPEC",
+      "link": "https://vnexpress.net/nguy-co-cuoc-chien-gia-dau-sau-khi-uae-roi-opec-5068930.html",
+      "summary": "Chuyên gia cảnh báo nguy cơ bùng nổ cuộc chiến giá dầu do UAE không bị hạn ngạch của OPEC ràng buộc, khi xung đột Trung Đông kết thúc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-01T23:00:00+07:00",
+      "fetched": "2026-05-02T08:52:21.209224+07:00"
+    },
+    {
+      "id": "e414c5938b8fe640939130dd699fb6b7",
+      "title": "Carragher: 'Carrick phù hợp với Man Utd hơn Ancelotti, Nagelsmann'",
+      "link": "https://vnexpress.net/carragher-carrick-phu-hop-voi-man-utd-hon-ancelotti-nagelsmann-5069007.html",
+      "summary": "Theo cựu hậu vệ Jamie Carragher, Man Utd nên trao hợp đồng dài hạn cho Michael Carrick thay vì nhắm những HLV tên tuổi như Carlo Ancelotti hay Julian Nagelsmann.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-01T22:42:17+07:00",
+      "fetched": "2026-05-02T08:52:25.185410+07:00"
+    },
+    {
       "id": "ee99bbafc154e35cdc6cb21db663d90a",
       "title": "Người phụ nữ đánh thức vùng đất phèn bằng 'con trâu sắt'",
       "link": "https://thanhnien.vn/nguoi-phu-nu-danh-thuc-vung-dat-phen-bang-con-trau-sat-185260427173850686.htm",
@@ -171,6 +721,16 @@ window.newsData_2026_05_02 = {
       "category": "Tổng hợp",
       "published": "2026-05-01T22:40:00+07:00",
       "fetched": "2026-05-02T05:40:21.756364+07:00"
+    },
+    {
+      "id": "14a7fbac978d29ef1a8d057261cc1f0d",
+      "title": "Arteta muốn Ngoại hạng Anh hỗ trợ CLB đá Champions League",
+      "link": "https://vnexpress.net/arteta-muon-ngoai-hang-anh-ho-tro-clb-da-champions-league-5069005.html",
+      "summary": "HLV Mikel Arteta cho rằng Ngoại hạng Anh nên tạo điều kiện thuận lợi hơn cho các CLB thi đấu tại sân chơi châu Âu, đồng thời khẳng định Arsenal sẽ rút kinh nghiệm từ những lần sảy chân trước đây.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-01T22:38:27+07:00",
+      "fetched": "2026-05-02T08:52:25.185568+07:00"
     },
     {
       "id": "961ab9d90ab3b026b2bd36b6f7f2d643",
