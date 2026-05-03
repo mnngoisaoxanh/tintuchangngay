@@ -1,7 +1,157 @@
 window.newsData_2026_05_03 = {
   "date": "2026-05-03",
-  "lastUpdated": "2026-05-03T12:23:00.202124+07:00",
+  "lastUpdated": "2026-05-03T14:47:58.440290+07:00",
   "articles": [
+    {
+      "id": "57df56581f97ae8e00198a4081fce1dc",
+      "title": "The Devil Wears Prada 2 mở màn bùng nổ phòng vé",
+      "link": "https://tuoitre.vn/the-devil-wears-prada-2-mo-man-bung-no-phong-ve-20260503110621133.htm",
+      "summary": "The Devil Wears Prada 2 đang tạo \"cú nổ\" lớn tại phòng vé toàn cầu, đạt 115 triệu USD ngay trong ngày mở màn và được kỳ vọng chạm mốc 180 triệu USD trong tuần đầu tiên ra mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.881790+07:00",
+      "fetched": "2026-05-03T14:47:52.881905+07:00"
+    },
+    {
+      "id": "b271f406243ecb03c83dc574cb812fbc",
+      "title": "Hàn Quốc thắng sốc Trung Quốc ở Giải vô địch bóng bàn thế giới",
+      "link": "https://tuoitre.vn/han-quoc-thang-soc-trung-quoc-o-giai-vo-dich-bong-ban-the-gioi-2026050311240356.htm",
+      "summary": "\"Địa chấn\" xuất hiện ngay ở lượt trận thứ 2, giai đoạn vòng bảng của Giải vô địch bóng bàn thế giới 2026, khi vị vua tuyệt đối môn banh nhựa là Trung Quốc bất ngờ thua sốc đội Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.881662+07:00",
+      "fetched": "2026-05-03T14:47:52.881776+07:00"
+    },
+    {
+      "id": "fa082a5dbf31d6524c57b94dc8880c48",
+      "title": "Nghẹt thở cứu ca đứt lìa động mạch cổ, ngưng tim: Ép tim 20 phút, vừa mổ vừa hồi sức",
+      "link": "https://tuoitre.vn/nghet-tho-cuu-ca-dut-lia-dong-mach-co-ngung-tim-ep-tim-20-phut-vua-mo-vua-hoi-suc-20260503112916413.htm",
+      "summary": "Bị đứt lìa động mạch cổ, chỉ ít phút nhập viện, thanh niên 20 tuổi bị ngưng tim, ngưng thở. Các bác sĩ ép tim ngoài lồng ngực 20 phút, sau đó vừa phẫu thuật vừa tiếp tục truyền máu và hồi sức tích cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.881535+07:00",
+      "fetched": "2026-05-03T14:47:52.881651+07:00"
+    },
+    {
+      "id": "2cd7cd7a9faac1e736dbe82dc804bdc3",
+      "title": "Xe điện Nissan N7 từng xuất hiện ở Việt Nam sẽ bán dưới tên Primera, to hơn Camry, đi 500km/sạc",
+      "link": "https://tuoitre.vn/xe-dien-nissan-n7-tung-xuat-hien-o-viet-nam-se-ban-duoi-ten-primera-to-hon-camry-di-500km-sac-20260503093836661.htm",
+      "summary": "Sau gần hai thập kỷ vắng bóng, Nissan Primera bất ngờ xuất hiện trở lại trong hồ sơ đăng ký tại Philippines với diện mạo hoàn toàn mới. Đáng chú ý, đây có thể chính là tên gọi khác của Nissan N7 từng được trưng bày ở Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.881405+07:00",
+      "fetched": "2026-05-03T14:47:52.881524+07:00"
+    },
+    {
+      "id": "6b5999dc6b24c6e398358fc4dd017bc5",
+      "title": "‘Cửa sổ vũ trụ’ Atacama bị ô nhiễm ánh sáng đe dọa",
+      "link": "https://tuoitre.vn/cua-so-vu-tru-atacama-bi-o-nhiem-anh-sang-de-doa-20260502155432689.htm",
+      "summary": "Sa mạc Atacama - nơi có bầu trời đêm lý tưởng cho thiên văn - đang bị ánh sáng từ đô thị, công nghiệp lấn tới, đe dọa các đài quan sát tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.881273+07:00",
+      "fetched": "2026-05-03T14:47:52.881394+07:00"
+    },
+    {
+      "id": "c9df50b493836106547d29e6ef6f25ab",
+      "title": "Người dân Mỹ Latin khốn khổ do chiến sự Mỹ - Iran",
+      "link": "https://tuoitre.vn/nguoi-dan-my-latin-khon-kho-do-chien-su-my-iran-20260503121325925.htm",
+      "summary": "Các chuyên gia cho rằng ngay cả khi xung đột Mỹ - Iran hạ nhiệt, tác động đến các nền kinh tế ở Mỹ Latin sẽ còn kéo dài trong nhiều tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.881126+07:00",
+      "fetched": "2026-05-03T14:47:52.881258+07:00"
+    },
+    {
+      "id": "49cd2677563a895c0c3287241cc4ccb4",
+      "title": "Thời khắc cuối cùng của hãng bay giá rẻ Spirit Airlines  trước khi ngừng hoạt động",
+      "link": "https://tuoitre.vn/thoi-khac-cuoi-cung-cua-hang-bay-gia-re-spirit-airlines-truoc-khi-ngung-hoat-dong-20260503121321978.htm",
+      "summary": "Hãng hàng không giá rẻ Spirit Airlines của Mỹ đã ngừng toàn bộ hoạt động từ rạng sáng 2-5 (giờ Mỹ), khép lại hành trình 34 năm hoạt động sau khi không đạt được thỏa thuận cứu trợ vào phút chót.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.880976+07:00",
+      "fetched": "2026-05-03T14:47:52.881104+07:00"
+    },
+    {
+      "id": "1f4ba8a8502b8d9d6648af45a215d2b6",
+      "title": "Khả năng cao kẹt xe chiều nay, cảnh sát giao thông khuyến cáo gì?",
+      "link": "https://tuoitre.vn/kha-nang-cao-ket-xe-chieu-nay-canh-sat-giao-thong-khuyen-cao-gi-2026050311332255.htm",
+      "summary": "Sau kỳ nghỉ lễ 30-4 và 1-5, lưu lượng xe từ các tỉnh đổ về TP.HCM và TP Đồng Nai tăng đột biến, nhiều tuyến cao tốc bị quá tải. Vậy khi cao tốc ùn ứ, các tài xế cần lưu ý gì?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.880829+07:00",
+      "fetched": "2026-05-03T14:47:52.880962+07:00"
+    },
+    {
+      "id": "34c0d4845666b38af2958f15edb5e308",
+      "title": "Khánh Hòa đón hơn 1,5 triệu lượt khách kỳ nghỉ giỗ Tổ Hùng Vương, 30-4 và 1-5",
+      "link": "https://tuoitre.vn/khanh-hoa-don-hon-1-5-trieu-luot-khach-ky-nghi-gio-to-hung-vuong-30-4-va-1-5-20260503123244796.htm",
+      "summary": "Với chuỗi nghỉ lễ kéo dài và thời tiết thuận lợi, du lịch Khánh Hòa ghi nhận sự tăng trưởng mạnh khi đón hơn 1,5 triệu lượt khách, doanh thu du lịch hơn 2.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.880700+07:00",
+      "fetched": "2026-05-03T14:47:52.880817+07:00"
+    },
+    {
+      "id": "a2048aceda8c89d4bb0d3c863fd6da29",
+      "title": "Chủ trọ thu tiền điện sai sẽ bị phạt nặng: Người thuê và chủ nhà đều có 'nỗi niềm riêng'",
+      "link": "https://tuoitre.vn/chu-tro-thu-tien-dien-sai-se-bi-phat-nang-nguoi-thue-va-chu-nha-deu-co-noi-niem-rieng-20260503075052179.htm",
+      "summary": "Nghị định 133/2026 vừa được Chính phủ ban hành, có hiệu lực từ 25-5 sẽ xử phạt 20 - 30 triệu đồng với chủ nhà trọ thu tiền điện của người thuê cao hơn giá bán lẻ điện sinh hoạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.880572+07:00",
+      "fetched": "2026-05-03T14:47:52.880689+07:00"
+    },
+    {
+      "id": "7af98a4457cf9ba5f961ae860990e92b",
+      "title": "Cô gái Trung Quốc kể chuyện bằng tiếng Việt",
+      "link": "https://tuoitre.vn/co-gai-trung-quoc-ke-chuyen-bang-tieng-viet-20260503091944751.htm",
+      "summary": "Làm việc tại Đài truyền hình trung ương Trung Quốc, chị Hồ Hạ Vy đã đồng thời xây dựng kênh video du lịch bằng tiếng Việt, hướng đến khán giả Việt Nam qua những câu chuyện đời sống và trải nghiệm thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.880436+07:00",
+      "fetched": "2026-05-03T14:47:52.880560+07:00"
+    },
+    {
+      "id": "9e3dee8bb222d324273b6cd5d24d10de",
+      "title": "Phản diện tối cao Imu với loạt câu thoại làm rung chuyển thế giới One Piece",
+      "link": "https://tuoitre.vn/phan-dien-toi-cao-imu-voi-loat-cau-thoai-lam-rung-chuyen-the-gioi-one-piece-20260503131410893.htm",
+      "summary": "Phản diện tối cao Nerona Imu lần đầu trực tiếp tham chiến trong arc Elbaph, mang theo hàng loạt câu thoại quan trọng có thể làm lung lay tương lai hành trình trở thành Vua hải tặc của Monkey D. Luffy trong One Piece.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.880298+07:00",
+      "fetched": "2026-05-03T14:47:52.880424+07:00"
+    },
+    {
+      "id": "a3fbd89a9f5906b49d0df4a212035296",
+      "title": "Để những người lính không còn mất tích",
+      "link": "https://tuoitre.vn/de-nhung-nguoi-linh-khong-con-mat-tich-20260428221706662.htm",
+      "summary": "Ngày 29-3 vừa rồi, bầu trời Thái Thụy (nay thuộc tỉnh Hưng Yên) trong xanh thuận lòng người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.880163+07:00",
+      "fetched": "2026-05-03T14:47:52.880286+07:00"
+    },
+    {
+      "id": "c752bc6f9c9f8f6569b7a401347a63bc",
+      "title": "Người phụ nữ lừa đảo bằng thủ đoạn 'mua xe thật, chuyển khoản giả'",
+      "link": "https://tuoitre.vn/nguoi-phu-nu-lua-dao-bang-thu-doan-mua-xe-that-chuyen-khoan-gia-20260503121916693.htm",
+      "summary": "Mua xe thật nhưng chuyển khoản giả, người phụ nữ ở tỉnh Đồng Tháp lừa đảo 3 xe SH Mode tại cửa hàng ở Quảng Ngãi, chiếm đoạt gần 100 triệu đồng, sau đó trốn lên Lâm Đồng sinh sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.880015+07:00",
+      "fetched": "2026-05-03T14:47:52.880150+07:00"
+    },
+    {
+      "id": "2967da24bfaf840f3a572b7ca651be45",
+      "title": "Cắm trại trên đỉnh cây cầu cao 45 mét ở Mỹ để phản đối cuộc chiến Iran và AI",
+      "link": "https://tuoitre.vn/cam-trai-tren-dinh-cay-cau-cao-45-met-o-my-de-phan-doi-cuoc-chien-iran-va-ai-20260503123654303.htm",
+      "summary": "Một nhà hoạt động đã cắm trại trên đỉnh cây cầu giữa tại thủ đô Washington (Mỹ) để bày tỏ sự phản đối cuộc chiến với Iran và 'sự trỗi dậy' của trí tuệ nhân tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:47:52.879741+07:00",
+      "fetched": "2026-05-03T14:47:52.879998+07:00"
+    },
     {
       "id": "4d6060be618247a9019ab762c5cf9957",
       "title": "CSGT TP.HCM dùng flycam, camera để ‘nắn’ dòng xe, hạn chế ùn tắc dịp lễ",
@@ -303,6 +453,356 @@ window.newsData_2026_05_03 = {
       "fetched": "2026-05-03T08:55:12.897264+07:00"
     },
     {
+      "id": "3106863a58c5f26db6dcc86dad8118d4",
+      "title": "Gặp 'núi lớn' ở giải châu Á: Mục tiêu nào cho U.17 nữ Việt Nam?",
+      "link": "https://thanhnien.vn/gap-nui-lon-o-giai-chau-a-muc-tieu-nao-cho-u17-nu-viet-nam-185260503143822327.htm",
+      "summary": "Sau trận hòa kịch tính trước Thái Lan, đội tuyển U.17 nữ Việt Nam sẽ đối đầu thử thách cực đại mang tên chủ nhà Trung Quốc. Đây là thời điểm thầy trò HLV Okiyama Masahiko cần những toan tính cho mục tiêu giành vé đi tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:40:00+07:00",
+      "fetched": "2026-05-03T14:47:52.200613+07:00"
+    },
+    {
+      "id": "d95627f0553eebe308ac9adaf2ada527",
+      "title": "Không cà phê hay mua sắm, cô gái 27 tuổi lại thích ngồi câu cá hàng giờ",
+      "link": "https://thanhnien.vn/khong-ca-phe-hay-mua-sam-co-gai-27-tuoi-lai-thich-ngoi-cau-ca-hang-gio-18526050312381617.htm",
+      "summary": "Thay vì chọn quán xá, trung tâm thương mại, cô gái 27 tuổi tại TP.HCM lại tìm đến sông nước với chiếc cần câu. Với cô, việc ngồi hàng giờ câu cá không hề nhàm chán, mà là khoảng thời gian để thư giãn và rèn luyện sự kiên nhẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:30:00+07:00",
+      "fetched": "2026-05-03T14:47:52.200783+07:00"
+    },
+    {
+      "id": "b43ae0a9c92367be4a075893c8be6a1d",
+      "title": "Ngủ thêm 11 phút, tập 5 phút mỗi ngày giúp giảm nguy cơ mắc bệnh nguy hiểm",
+      "link": "https://thanhnien.vn/ngu-them-11-phut-tap-5-phut-moi-ngay-giup-giam-nguy-co-mac-benh-nguy-hiem-185260503142932939.htm",
+      "summary": "Một thay đổi rất nhỏ trong thói quen hằng ngày - ngủ thêm 11 phút và vận động nhẹ 5 phút - có thể mang lại lợi ích bất ngờ trong việc giảm nguy cơ bệnh tật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:29:00+07:00",
+      "fetched": "2026-05-03T14:47:52.200956+07:00"
+    },
+    {
+      "id": "bb06d89c2429e2dfbef426f7b0c5768a",
+      "title": "Học sinh TP.HCM bắt đầu nghỉ hè từ ngày nào?",
+      "link": "https://thanhnien.vn/hoc-sinh-tphcm-bat-dau-nghi-he-tu-ngay-nao-185260503140734473.htm",
+      "summary": "Thời gian này, học sinh tại TP.HCM đang hoàn tất bài kiểm tra cuối học kỳ 2. Sau đó, theo kế hoạch năm học, các em chuẩn bị bước vào kỳ nghỉ hè.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:29:00+07:00",
+      "fetched": "2026-05-03T14:47:52.201119+07:00"
+    },
+    {
+      "id": "478a488ac276059330008204b8e792af",
+      "title": "Bún giấm nuốc xứ Huế: Món ngon của phá Tam Giang, ăn một lần là nhớ",
+      "link": "https://thanhnien.vn/bun-giam-nuoc-xu-hue-mon-ngon-ben-pha-tam-giang-an-mot-lan-la-nho-185260413142907991.htm",
+      "summary": "Bún giấm nuốc xứ Huế là món ăn dân dã của phá Tam Giang, nổi bật với nuốc giòn sần sật, nước lèo chua cay, đậm vị miền Trung, ăn một lần là nhớ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:23:00+07:00",
+      "fetched": "2026-05-03T14:47:52.201269+07:00"
+    },
+    {
+      "id": "06ff752f5e1c65f162c51352e0783626",
+      "title": "Tính năng giấu kín trên iPhone giúp tiết kiệm pin tới 20%",
+      "link": "https://thanhnien.vn/tinh-nang-giau-kin-tren-iphone-giup-tiet-kiem-pin-toi-20-185260503113539549.htm",
+      "summary": "Apple đã âm thầm tích hợp một tính năng hữu ích trên iPhone mà nhiều người dùng có thể chưa biết đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:22:00+07:00",
+      "fetched": "2026-05-03T14:47:52.201417+07:00"
+    },
+    {
+      "id": "aaaf78c5b5778d2b9163d5014d7b6d89",
+      "title": "4 sai lầm về Bluetooth đang đánh lừa người dùng công nghệ",
+      "link": "https://thanhnien.vn/4-sai-lam-ve-bluetooth-dang-danh-lua-nguoi-dung-cong-nghe-185260503131357559.htm",
+      "summary": "Giải mã những lầm tưởng kinh điển về Bluetooth khiến người dùng công nghệ 'ôm hận' suốt bao năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:18:00+07:00",
+      "fetched": "2026-05-03T14:47:52.201569+07:00"
+    },
+    {
+      "id": "a2036b069f3a8da64630d5e478612098",
+      "title": "Dung mạo Miss Universe Philippines 2026",
+      "link": "https://vnexpress.net/dung-mao-miss-universe-philippines-2026-5069288.html",
+      "summary": "Tân Hoa hậu Hoàn vũ Philippines, Bea Millan-Windorski, cao 1,8 m, có gương mặt sắc sảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:14:17+07:00",
+      "fetched": "2026-05-03T14:47:49.473507+07:00"
+    },
+    {
+      "id": "ae5c46de38be6bb7166b4c88d7fac54a",
+      "title": "Khu rừng giữa lòng đô thị công nghiệp Đồng Nai",
+      "link": "https://vnexpress.net/khu-rung-giua-long-do-thi-cong-nghiep-dong-nai-5060433.html",
+      "summary": "Rộng khoảng 210 ha, rừng phòng hộ Biên Hòa được xem 'lá phổi xanh' điều hòa không khí giữa lòng đô thị công nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:10:00+07:00",
+      "fetched": "2026-05-03T14:47:49.473680+07:00"
+    },
+    {
+      "id": "dd7c40adab7f6071823a939643699745",
+      "title": "Tôi khổ sở khi không còn yêu nghề tiếp viên",
+      "link": "https://vnexpress.net/toi-kho-so-khi-khong-con-yeu-nghe-tiep-vien-5069264.html",
+      "summary": "Tôi buồn và stress rất nhiều, gần như không còn động lực để làm công việc này nữa mà vẫn cần tiền để tự lo cho bản thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:00:00+07:00",
+      "fetched": "2026-05-03T14:47:49.473846+07:00"
+    },
+    {
+      "id": "9c9768dc1bf02b3312bdd6a1b220ac01",
+      "title": "Chỉ 2 que diêm bạn có thể biến sai thành đúng trong 10 giây",
+      "link": "https://vnexpress.net/cau-do-que-diem-di-chuyen-que-diem-chi-2-que-diem-ban-co-the-bien-sai-thanh-dung-trong-10-giay-5067935.html",
+      "summary": "Nhìn qua tưởng bài toán lớp 1, ai ngờ lại là \"cú lừa nhẹ nhàng\" dành cho não bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:00:00+07:00",
+      "fetched": "2026-05-03T14:47:49.474040+07:00"
+    },
+    {
+      "id": "77a0d6f88e368fe916b0a7fbc48a1890",
+      "title": "Mac Mini, Mac Studio 'cháy hàng' vì chạy được mô hình huấn luyện AI",
+      "link": "https://vnexpress.net/mac-mini-mac-studio-chay-hang-vi-chay-duoc-mo-hinh-huan-luyen-ai-5069207.html",
+      "summary": "CEO Apple Tim Cook cho biết Mac Mini đang được mua \"nhanh hơn dự đoán\" khi nguồn cung không đủ nhu cầu, chủ yếu phục vụ huấn luyện AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:00:00+07:00",
+      "fetched": "2026-05-03T14:47:49.474227+07:00"
+    },
+    {
+      "id": "cdcf75c53baecb5bdfe4f4bca82168c5",
+      "title": "Nghẹt thở: CSGT Lâm Đồng dùng xe chuyên dụng cứu bé 3 tuổi co giật trong đêm",
+      "link": "https://thanhnien.vn/nghet-tho-csgt-lam-dong-dung-xe-chuyen-dung-cuu-be-3-tuoi-co-giat-trong-dem-185260503134458753.htm",
+      "summary": "Bé trai 3 tuổi lên cơn co giật được CSGT Lâm Đồng đang làm nhiệm vụ trên quốc lộ 27C hỗ trợ đưa bằng xe chuyên dụng đến bệnh viện kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:00:00+07:00",
+      "fetched": "2026-05-03T14:47:52.201715+07:00"
+    },
+    {
+      "id": "4e234dd67842afcf899497856a2e6b97",
+      "title": "Sao phim 'Gia đình là số 1' Jung Il Woo và 'bí mật' tại Việt Nam",
+      "link": "https://thanhnien.vn/sao-phim-gia-dinh-la-so-1-jung-il-woo-va-bi-mat-tai-viet-nam-185260503132729804.htm",
+      "summary": "Sao Hàn Jung Il Woo của phim 'Gia đình là số 1' cho biết anh tham gia phim mới, dựa trên một câu chuyện có thật về một xạ thủ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:00:00+07:00",
+      "fetched": "2026-05-03T14:47:52.201858+07:00"
+    },
+    {
+      "id": "dee3c117a694424ba6e08ebde3a58705",
+      "title": "3 lý do khiến công sức ôn thi tốt nghiệp THPT của bạn đang bị lãng phí",
+      "link": "https://thanhnien.vn/3-ly-do-khien-cong-suc-on-thi-tot-nghiep-thpt-cua-ban-dang-bi-lang-phi-185260502230719649.htm",
+      "summary": "Võ Thị Yến Vy, thủ khoa Trường ĐH Kinh tế - Tài chính TP.HCM năm 2024, chỉ ra 3 lý do khiến công sức ôn thi tốt nghiệp THPT của bạn đang bị lãng phí và cách học thông minh để bứt phá điểm số trong giai đoạn nước rút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:00:00+07:00",
+      "fetched": "2026-05-03T14:47:52.202037+07:00"
+    },
+    {
+      "id": "b61f870172f9a32dedfcbd21d564dd54",
+      "title": "Chẳng sợ nắng hè với những chiếc kính mát cực xinh",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chang-so-nang-he-voi-nhung-chiec-kinh-mat-cuc-xinh-185260501184635472.htm",
+      "summary": "Không chỉ là lớp màng chắn bảo vệ đôi mắt khỏi tia UV độc hại, kính mát còn là 'chìa khóa' định hình thần thái và hoàn thiện bản sắc thời trang cá nhân cho mọi quý cô sành điệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:00:00+07:00",
+      "fetched": "2026-05-03T14:47:52.202189+07:00"
+    },
+    {
+      "id": "77a0d6f88e368fe916b0a7fbc48a1890",
+      "title": "Mac Mini, Mac Studio 'cháy hàng' vì chạy được mô hình huấn luyện AI",
+      "link": "https://vnexpress.net/mac-mini-mac-studio-chay-hang-vi-chay-duoc-mo-hinh-huan-luyen-ai-5069207.html",
+      "summary": "CEO Apple Tim Cook cho biết Mac Mini đang được mua \"nhanh hơn dự đoán\" khi nguồn cung không đủ nhu cầu, chủ yếu phục vụ huấn luyện AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-03T07:00:00+07:00",
+      "fetched": "2026-05-03T14:47:57.336652+07:00"
+    },
+    {
+      "id": "bb2399dfd8a3ae6098e16c633bebf6cd",
+      "title": "Dấu ấn runner trên cung đường chạy xuyên rừng ở Cần Giờ",
+      "link": "https://vnexpress.net/dau-an-runner-tren-cung-duong-chay-xuyen-rung-o-can-gio-5069308.html",
+      "summary": "Giữa rừng ngập mặn và biển Cần Giờ, 5.000 runner đã cùng sải bước tại VnExpress Marathon Green Paradise ngày 1/5, giải chạy có quy mô lớn nhất từng được tổ chức ở địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:56:03+07:00",
+      "fetched": "2026-05-03T14:47:49.474392+07:00"
+    },
+    {
+      "id": "fcc93f227813eaa0b0a3a25465cd5cec",
+      "title": "Giá tăng nhưng thị trường NFT vẫn kém nhiệt",
+      "link": "https://vnexpress.net/gia-tang-nhung-thi-truong-nft-van-kem-nhiet-5069095.html",
+      "summary": "Hai bộ sưu tập NFT Bored Ape Yacht Club và Pudgy Penguins tăng giá gần đây nhưng thanh khoản vẫn thấp, nhiều người tham gia còn đang thua lỗ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:53:12+07:00",
+      "fetched": "2026-05-03T14:47:49.474558+07:00"
+    },
+    {
+      "id": "fcc93f227813eaa0b0a3a25465cd5cec",
+      "title": "Giá tăng nhưng thị trường NFT vẫn kém nhiệt",
+      "link": "https://vnexpress.net/gia-tang-nhung-thi-truong-nft-van-kem-nhiet-5069095.html",
+      "summary": "Hai bộ sưu tập NFT Bored Ape Yacht Club và Pudgy Penguins tăng giá gần đây nhưng thanh khoản vẫn thấp, nhiều người tham gia còn đang thua lỗ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-03T06:53:12+07:00",
+      "fetched": "2026-05-03T14:47:55.077664+07:00"
+    },
+    {
+      "id": "5082939c21a58e0a1e8b495150678d01",
+      "title": "Tòa án kêu gọi Đào Minh Quân và đồng phạm ra đầu thú",
+      "link": "https://vnexpress.net/toa-an-keu-goi-dao-minh-quan-va-dong-pham-ra-dau-thu-5067286.html",
+      "summary": "Trước khi xét xử, tòa án kêu gọi Đào Minh Quân và 5 đồng phạm đang bị truy nã ra đầu thú để hưởng chính sách khoan hồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:49:38+07:00",
+      "fetched": "2026-05-03T14:47:49.474711+07:00"
+    },
+    {
+      "id": "f37223bae42b4ad5670b8429345bd5b7",
+      "title": "Miền Bắc tuần tới tạnh ráo, Nam Bộ mưa giông",
+      "link": "https://vnexpress.net/mien-bac-tuan-toi-tanh-rao-nam-bo-mua-giong-5069303.html",
+      "summary": "Thời tiết cả nước phân hóa rõ rệt khi miền Bắc và miền Trung duy trì trạng thái dịu mát, chưa xuất hiện nắng nóng, trong khi miền Nam bắt đầu mưa chuyển mùa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:48:24+07:00",
+      "fetched": "2026-05-03T14:47:49.474876+07:00"
+    },
+    {
+      "id": "bb95c3ffdaab1a505c270d775622672e",
+      "title": "Dòng người từ các tỉnh thành đổ về TP.HCM sau kỳ nghỉ dài",
+      "link": "https://thanhnien.vn/dong-nguoi-tu-cac-tinh-thanh-do-ve-tphcm-sau-ky-nghi-dai-185260503095941235.htm",
+      "summary": "Sau kỳ nghỉ dài (lễ 30.4 – 1.5 và thứ bảy, chủ nhật), sinh viên và người lao động từ các tỉnh thành đổ về các bến xe, tuyến đường cửa ngõ phía Tây để quay trở lại TP.HCM bắt đầu làm việc và đi học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:47:00+07:00",
+      "fetched": "2026-05-03T14:47:52.202344+07:00"
+    },
+    {
+      "id": "5c3f48716b5c5c0599cd65cef5f20e43",
+      "title": "Quân đội, công an dựng nhà, dọn cây sau giông lốc",
+      "link": "https://vnexpress.net/quan-doi-cong-an-dung-nha-don-cay-sau-giong-loc-5069318.html",
+      "summary": "Chính quyền Thái Nguyên, Tuyên Quang huy động công an, quân đội cùng người dân khắc phục hậu quả giông lốc, mưa đá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:45:13+07:00",
+      "fetched": "2026-05-03T14:47:49.475054+07:00"
+    },
+    {
+      "id": "15f7b051e4099ac4f94550c31a40b001",
+      "title": "Hứa Vĩ Văn trải lòng về cột mốc '20 năm hoạt động nghệ thuật'",
+      "link": "https://thanhnien.vn/hua-vi-van-trai-long-ve-cot-moc-20-nam-hoat-dong-nghe-thuat-185260503115810766.htm",
+      "summary": "Sau hai thập niên theo đuổi nghệ thuật, Hứa Vĩ Văn dần định hình rõ cách làm nghề của mình. Ở hiện tại Hứa Vĩ Văn có tâm thế điềm tĩnh và khắt khe hơn trong lựa chọn. Nam diễn viên ưu tiên những dự án có chiều sâu và có thể thực sự 'sống' cùng nhân vật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:45:00+07:00",
+      "fetched": "2026-05-03T14:47:52.202493+07:00"
+    },
+    {
+      "id": "ec7d19e2fec90ef8bcba4b259290740a",
+      "title": "Bị kiện vì bé gái hàng xóm đuối nước khi đi bơi cùng",
+      "link": "https://vnexpress.net/bi-kien-vi-be-gai-hang-xom-duoi-nuoc-khi-di-boi-cung-5069321.html",
+      "summary": "Khuyên can không được, người đàn ông họ Phạm để cô bé hàng xóm xuống sông bơi cùng gia đình mình nhưng không ngờ tai nạn xảy ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:41:26+07:00",
+      "fetched": "2026-05-03T14:47:49.475216+07:00"
+    },
+    {
+      "id": "25994dd12ba7c0d3456caf1417abba44",
+      "title": "Báo Yemen vừa ca ngợi vừa dè chừng U.17 Việt Nam, thừa nhận trận ra quân châu Á cực khó",
+      "link": "https://thanhnien.vn/bao-yemen-ca-ngoi-u17-viet-nam-thua-nhan-tran-ra-quan-se-day-thu-thach-185260503132513349.htm",
+      "summary": "Truyền thông Yemen đã có những nhận định đáng chú ý về cục diện bảng C, trong đó đặc biệt dành sự tôn trọng lớn cho U.17 Việt Nam. Dù đang tích cực chuẩn bị với quyết tâm cao, giới chuyên môn nước này vẫn thừa nhận đội nhà sẽ đối diện nhiều thử thách ngay trận ra quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:41:00+07:00",
+      "fetched": "2026-05-03T14:47:52.202639+07:00"
+    },
+    {
+      "id": "ec6b4ea7051ae87c838a3b3b37628060",
+      "title": "'Trùm Sò' của Đức Thịnh ra sao sau lời 'kêu cứu' của Thanh Thúy?",
+      "link": "https://thanhnien.vn/trum-so-cua-duc-thinh-ra-sao-sau-loi-keu-cuu-cua-thanh-thuy-185260503113142569.htm",
+      "summary": "Dù doanh thu chưa khả quan song phim điện ảnh 'Trùm Sò' do Đức Thịnh làm đạo diễn đang có những tín hiệu tích cực sau lời 'kêu cứu' từ nhà sản xuất Thanh Thúy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:39:00+07:00",
+      "fetched": "2026-05-03T14:47:52.202784+07:00"
+    },
+    {
+      "id": "90be8b747ff62eeba927f985db315458",
+      "title": "Robot hình người tuần tra cùng cảnh sát Trung Quốc",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-tuan-tra-cung-canh-sat-trung-quoc-5069316.html",
+      "summary": "Cao 1,73 m, nặng 75 kg, có thể biểu diễn võ thuật, đá xoay và di chuyển linh hoạt, robot T800 xuất hiện trên đường phố Thâm Quyến cùng lực lượng cảnh sát đặc nhiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:31:18+07:00",
+      "fetched": "2026-05-03T14:47:49.475371+07:00"
+    },
+    {
+      "id": "62c13c224a09f0372e894ec0e6538245",
+      "title": "Những quy tắc ứng xử cần dạy trẻ từ khi còn nhỏ",
+      "link": "https://vnexpress.net/nhung-quy-tac-ung-xu-can-day-tre-tu-khi-con-nho-5069217.html",
+      "summary": "Phép lịch sự là một trong những nền tảng giúp trẻ hình thành nhân cách và xây dựng các mối quan hệ xã hội nên cần được rèn từ nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:30:00+07:00",
+      "fetched": "2026-05-03T14:47:49.475519+07:00"
+    },
+    {
+      "id": "482554a11ca26f7f1b285467873b8ceb",
+      "title": "Xúc xích thay cho trứng cá tầm: Cách Carrick vực dậy Man Utd",
+      "link": "https://vnexpress.net/xuc-xich-thay-cho-trung-ca-tam-cach-carrick-vuc-day-man-utd-5068784.html",
+      "summary": "Tưởng như chỉ là một phương án chữa cháy tạm thời, một lựa chọn an toàn, nhưng Michael Carrick – người mang trong mình dòng máu \"Quỷ Đỏ\" – đã hồi sinh một tập thể rệu rã bằng sự giản đơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:15:31+07:00",
+      "fetched": "2026-05-03T14:47:49.475679+07:00"
+    },
+    {
+      "id": "482554a11ca26f7f1b285467873b8ceb",
+      "title": "Xúc xích thay cho trứng cá tầm: Cách Carrick vực dậy Man Utd",
+      "link": "https://vnexpress.net/xuc-xich-thay-cho-trung-ca-tam-cach-carrick-vuc-day-man-utd-5068784.html",
+      "summary": "Tưởng như chỉ là một phương án chữa cháy tạm thời, một lựa chọn an toàn, nhưng Michael Carrick – người mang trong mình dòng máu \"Quỷ Đỏ\" – đã hồi sinh một tập thể rệu rã bằng sự giản đơn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-03T06:15:31+07:00",
+      "fetched": "2026-05-03T14:47:58.432148+07:00"
+    },
+    {
+      "id": "87c1ad5183f398bf8ec75c4674f662c4",
+      "title": "Lợi thế căn hộ sân vườn FourS Tower tại Nam Đà Nẵng",
+      "link": "https://vnexpress.net/loi-the-can-ho-san-vuon-fours-tower-tai-nam-da-nang-5069319.html",
+      "summary": "FourS Jardin, thuộc FourS Tower Nam Đà Nẵng, được phát triển theo mô hình căn hộ sân vườn, có vị trí đắc địa, kết nối đa điểm và loạt tiện ích nội khu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:15:00+07:00",
+      "fetched": "2026-05-03T14:47:49.475830+07:00"
+    },
+    {
+      "id": "24fbea94612222a01c0b1ece435d9bd7",
+      "title": "Flick đi xem ảo thuật thay vì chờ Real sảy chân",
+      "link": "https://vnexpress.net/flick-di-xem-ao-thuat-thay-vi-cho-real-say-chan-5069283.html",
+      "summary": "HLV Hansi Flick dự định cùng vợ đi xem buổi biểu diễn ảo thuật, thay vì chờ Real sảy chân để giúp Barca sớm đăng quang La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-03T06:00:00+07:00",
+      "fetched": "2026-05-03T14:47:58.432323+07:00"
+    },
+    {
+      "id": "dba351cee206ee4a88837ee8444db96c",
+      "title": "Carlsen thắng Đại kiện tướng đầu tiên ở cờ chuẩn sau gần một năm",
+      "link": "https://vnexpress.net/carlsen-thang-dai-kien-tuong-dau-tien-o-co-chuan-sau-gan-mot-nam-5069315.html",
+      "summary": "Magnus Carlsen thắng Đại kiện tướng Nils Grandelius tại vòng hai cờ tiêu chuẩn TePe Sigeman 2026, để vươn lên nhóm đầu giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-03T05:56:28+07:00",
+      "fetched": "2026-05-03T14:47:58.434256+07:00"
+    },
+    {
       "id": "108892b6c614a6ef1dac536cac73f4f7",
       "title": "Thời tiết hôm nay 3-5: Bắc Bộ mưa to, Nam Bộ ngày nắng, chiều tối mưa",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-3-5-bac-bo-mua-to-nam-bo-ngay-nang-chieu-toi-mua-20260502170726365.htm",
@@ -311,6 +811,16 @@ window.newsData_2026_05_03 = {
       "category": "Tổng hợp",
       "published": "2026-05-03T05:30:08.273357+07:00",
       "fetched": "2026-05-03T05:30:08.273579+07:00"
+    },
+    {
+      "id": "3bbf9c990f86cf5b8a97e6d95c836b40",
+      "title": "Tàu Iran chở gần 2 triệu thùng dầu 'vượt vòng phong tỏa của Mỹ'",
+      "link": "https://vnexpress.net/tau-iran-cho-gan-2-trieu-thung-dau-vuot-vong-phong-toa-cua-my-5069280.html",
+      "summary": "Tàu hàng cỡ lớn của Iran, chở theo lượng dầu trị giá khoảng 220 triệu USD, dường như đã vượt qua vòng phong tỏa cảng biển do Mỹ áp đặt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-03T05:19:26+07:00",
+      "fetched": "2026-05-03T14:47:54.173567+07:00"
     },
     {
       "id": "c2b9644af679e97bbe596671512e87df",
