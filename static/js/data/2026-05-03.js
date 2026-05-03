@@ -1,7 +1,157 @@
 window.newsData_2026_05_03 = {
   "date": "2026-05-03",
-  "lastUpdated": "2026-05-03T14:47:58.440290+07:00",
+  "lastUpdated": "2026-05-03T16:13:35.683904+07:00",
   "articles": [
+    {
+      "id": "e428b5af73f4f8cab2f99341e9428e6e",
+      "title": "TP.HCM và nhiều nơi ở Nam Bộ có dông, cảnh báo lốc, mưa cục bộ",
+      "link": "https://tuoitre.vn/tp-hcm-va-nhieu-noi-o-nam-bo-co-dong-canh-bao-loc-mua-cuc-bo-2026050314342925.htm",
+      "summary": "Theo dự báo, TP.HCM và nhiều tỉnh Nam Bộ có mưa dông, dự báo 3 giờ tới mưa lớn, có nơi trên 60mm kèm nguy cơ lốc, sét, gió giật mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.929542+07:00",
+      "fetched": "2026-05-03T16:13:27.929672+07:00"
+    },
+    {
+      "id": "803e9469b52c1d6a16c2517b730b969e",
+      "title": "Đề cử: ThS Đỗ Thị Nam Phương và hành trình lan tỏa tri thức y khoa",
+      "link": "https://tuoitre.vn/de-cu-ths-do-thi-nam-phuong-va-hanh-trinh-lan-toa-tri-thuc-y-khoa-20260503130240947.htm",
+      "summary": "Hơn 15 năm theo đuổi truyền thông y tế, ThS Đỗ Thị Nam Phương kiên trì lan tỏa tri thức y khoa đến cộng đồng bằng cách kết nối bác sĩ với xã hội số. Sáng kiến KMOLs đã góp phần đưa kiến thức chuẩn mực đến gần hơn với người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.929374+07:00",
+      "fetched": "2026-05-03T16:13:27.929528+07:00"
+    },
+    {
+      "id": "dd629b6945c9c46d1a09b91d718d5d65",
+      "title": "Bác sĩ ép tim cứu bé trai ngừng tim nghi do bị điện giật",
+      "link": "https://tuoitre.vn/bac-si-ep-tim-cuu-be-trai-ngung-tim-nghi-do-bi-dien-giat-20260503145206684.htm",
+      "summary": "Đi nghỉ lễ cùng gia đình, một bác sĩ ở Nghệ An kịp thời cấp cứu, ép tim một bé trai ngừng tim nghi do bị điện giật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.929237+07:00",
+      "fetched": "2026-05-03T16:13:27.929362+07:00"
+    },
+    {
+      "id": "3a323638df57ad8cdd02ccf77fdb9c26",
+      "title": "Đề xuất bỏ quyết toán với thu nhập vãng lai nhỏ",
+      "link": "https://tuoitre.vn/de-xuat-bo-quyet-toan-voi-thu-nhap-vang-lai-nho-2026050314271585.htm",
+      "summary": "Những khoản thu nhập chỉ vài trăm nghìn đồng có thể không còn phải quyết toán thuế nếu đề xuất của chuyên gia được chấp nhận, qua đó giúp người dân bớt thủ tục và giảm rủi ro bị xử phạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.929100+07:00",
+      "fetched": "2026-05-03T16:13:27.929225+07:00"
+    },
+    {
+      "id": "e94b859504a89d4f339769ab66109249",
+      "title": "Nhìn từ thành công phòng vé của Michael ở nước ngoài: Khán giả quyết định thành bại",
+      "link": "https://tuoitre.vn/nhin-tu-thanh-cong-phong-ve-cua-michael-o-nuoc-ngoai-khan-gia-quyet-dinh-thanh-bai-20260503141938253.htm",
+      "summary": "Bất chấp những đánh giá gay gắt từ giới phê bình, phim tiểu sử Michael vẫn thu hàng trăm triệu USD ngoài rạp. Một trường hợp tương tự là The Super Mario Galaxy Movie, cho thấy khoảng cách ngày càng lớn giữa ý kiến chuyên môn và thị hiếu khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.928927+07:00",
+      "fetched": "2026-05-03T16:13:27.929084+07:00"
+    },
+    {
+      "id": "ff72470f07acff24ed097e1f2395337e",
+      "title": "Tay đấm Trung Quốc giành đai WBO SL Youth sau 10 hiệp",
+      "link": "https://tuoitre.vn/tay-dam-trung-quoc-gianh-dai-wbo-sl-youth-sau-10-hiep-20260503143450918.htm",
+      "summary": "Tay đấm người Trung Quốc Balihenbieke thắng điểm trước Romer Pinili (Philippines) ở hạng cân 63,5kg tại giải đấu Ho Tram Power Clash.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.928799+07:00",
+      "fetched": "2026-05-03T16:13:27.928915+07:00"
+    },
+    {
+      "id": "0a62fa081d9266f9e8d37f85db7f0e53",
+      "title": "Dông lốc, mưa đá còn xuất hiện nhiều và khốc liệt hơn do El Nino",
+      "link": "https://tuoitre.vn/dong-loc-mua-da-con-xuat-hien-nhieu-va-khoc-liet-hon-do-el-nino-2026050314430566.htm",
+      "summary": "Theo chuyên gia khí tượng, sắp tới khả năng hiện tượng El Nino xảy ra với cường độ mạnh khiến nền nhiệt cao hơn trung bình nhiều năm nên hiện tượng dông lốc, sét, mưa đá có khả năng xảy ra nhiều và khốc liệt hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.928670+07:00",
+      "fetched": "2026-05-03T16:13:27.928787+07:00"
+    },
+    {
+      "id": "1403356a143bc684142e52e873858d33",
+      "title": "Xác minh vụ người cha livestream có hành vi không bình thường với con gái nhỏ của mình",
+      "link": "https://tuoitre.vn/xac-minh-vu-nguoi-cha-livestream-co-hanh-vi-khong-binh-thuong-voi-con-gai-nho-cua-minh-20260503154107154.htm",
+      "summary": "Hình ảnh từ livestream ghi cảnh T. vừa phát trực tiếp vừa cầm chai dung dịch có chữ 'nước oxy già' nhỏ trực tiếp vào vùng kín của bé gái, mặc cho đứa trẻ khóc và la hét dữ dội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.928540+07:00",
+      "fetched": "2026-05-03T16:13:27.928658+07:00"
+    },
+    {
+      "id": "e101799368ae7b0d0296171816fc523f",
+      "title": "Ảnh pháo hoa gây tranh cãi, ban tổ chức vẫn quyết bảo lưu giải nhất",
+      "link": "https://tuoitre.vn/anh-phao-hoa-gay-tranh-cai-ban-to-chuc-van-quyet-bao-luu-giai-nhat-20260503152336008.htm",
+      "summary": "Trước những ý kiến trái chiều về chi tiết pháo hoa trong ảnh đoạt giải nhất, Hội Nhiếp ảnh TP.HCM cho biết đã kiểm tra lại và đưa ra kết luận chính thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.928392+07:00",
+      "fetched": "2026-05-03T16:13:27.928527+07:00"
+    },
+    {
+      "id": "04bc5414e3ebad579d7b26036413276f",
+      "title": "Tạm biệt ông chủ Phở Dậu, người đồng hành thân thương nhiều năm cùng Ngày của Phở",
+      "link": "https://tuoitre.vn/tam-biet-ong-chu-pho-dau-nguoi-dong-hanh-than-thuong-nhieu-nam-cung-ngay-cua-pho-20260503145128605.htm",
+      "summary": "Trong ký ức của con gái út Bích Hoàng, bố Bình - ông chủ Phở Dậu - là người tận tụy, chỉn chu. Ông tự hào khi được góp phần lan tỏa món phở của gia đình qua chương trình Ngày của Phở của báo Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.928216+07:00",
+      "fetched": "2026-05-03T16:13:27.928378+07:00"
+    },
+    {
+      "id": "8c4401cb3ca1e6dfa8384cdb00f47ed8",
+      "title": "Hai ngân hàng tư nhân 'ôm' hơn triệu tỉ đồng bất động sản thế chấp",
+      "link": "https://tuoitre.vn/hai-ngan-hang-tu-nhan-om-hon-trieu-ti-dong-bat-dong-san-the-chap-20260503153323234.htm",
+      "summary": "Techcombank, VPBank là những ngân hàng có dư nợ cho vay bất động sản lớn. Tuy nhiên ở hai ngân hàng này, lượng tài sản thế chấp là bất động sản không phải quá lớn, cộng gộp lại hơn 1 triệu tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.928083+07:00",
+      "fetched": "2026-05-03T16:13:27.928204+07:00"
+    },
+    {
+      "id": "3dbd7f9d3be053684fca22b4f6271d53",
+      "title": "Nhật Bản nhập dầu thô Nga sau khi Mỹ miễn trừng phạt",
+      "link": "https://tuoitre.vn/nhat-ban-nhap-dau-tho-nga-sau-khi-my-mien-trung-phat-20260503153242721.htm",
+      "summary": "Nhật Bản nhập dầu thô từ Nga sau khi chính quyền Tổng thống Mỹ Donald Trump miễn trừ các lệnh trừng phạt, trong bối cảnh cuộc xung đột giữa Mỹ - Israel và Iran làm tắc nghẽn huyết mạch năng lượng Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.927920+07:00",
+      "fetched": "2026-05-03T16:13:27.928070+07:00"
+    },
+    {
+      "id": "7543a2deb0dccac16ae8f8e79c496a25",
+      "title": "Ngân hàng Phát triển châu Á ra mắt cơ chế tài chính mới liên quan khoáng sản thiết yếu",
+      "link": "https://tuoitre.vn/ngan-hang-phat-trien-chau-a-ra-mat-co-che-tai-chinh-moi-lien-quan-khoang-san-thiet-yeu-20260503154310348.htm",
+      "summary": "Cơ chế tài chính mới sẽ giúp các quốc gia ở châu Á - Thái Bình Dương phát triển chuỗi cung ứng khoáng sản thiết yếu cần thiết cho năng lượng sạch, pin, xe điện và công nghệ số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.927784+07:00",
+      "fetched": "2026-05-03T16:13:27.927907+07:00"
+    },
+    {
+      "id": "ffa62ce2771786806a1c90f0f54b36fc",
+      "title": "Cửa ngõ thông thoáng, người dân thuận lợi trở lại Hà Nội trong ngày cuối nghỉ lễ",
+      "link": "https://tuoitre.vn/cua-ngo-thong-thoang-nguoi-dan-thuan-loi-tro-lai-ha-noi-trong-ngay-cuoi-nghi-le-20260503155534571.htm",
+      "summary": "Ghi nhận của Tuổi Trẻ Online, khoảng 15h ngày 3-5, các trục vành đai, cao tốc hướng về Hà Nội có lượng xe tăng nhưng không xảy ra ùn tắc kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.927639+07:00",
+      "fetched": "2026-05-03T16:13:27.927771+07:00"
+    },
+    {
+      "id": "ff6022007feb91a2102ac6db04896682",
+      "title": "Manga Jujutsu Kaisen chính thức khép lại sau hậu truyện Modulo",
+      "link": "https://tuoitre.vn/manga-jujutsu-kaisen-chinh-thuc-khep-lai-sau-hau-truyen-modulo-20260503160153429.htm",
+      "summary": "Sau nhiều đồn đoán, tác giả Jujutsu Kaisen - Gege Akutami - đã chính thức xác nhận câu chuyện đã kết thúc hoàn toàn sau tập cuối của phần hậu truyện Jujutsu Kaisen Modulo. Dù vậy, thương hiệu này vẫn sẽ tiếp tục trên màn ảnh với anime mùa 4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T16:13:27.927410+07:00",
+      "fetched": "2026-05-03T16:13:27.927623+07:00"
+    },
     {
       "id": "57df56581f97ae8e00198a4081fce1dc",
       "title": "The Devil Wears Prada 2 mở màn bùng nổ phòng vé",
@@ -303,6 +453,46 @@ window.newsData_2026_05_03 = {
       "fetched": "2026-05-03T12:22:53.976776+07:00"
     },
     {
+      "id": "618985f43befb861366a4804bf50f765",
+      "title": "Bộ trưởng Israel được tặng bánh sinh nhật có hình thòng lọng",
+      "link": "https://vnexpress.net/bo-truong-israel-duoc-tang-banh-sinh-nhat-co-hinh-thong-long-5069324.html",
+      "summary": "Bộ trưởng An ninh Quốc gia Israel được tặng bánh sinh nhật có hình thòng lọng, ám chỉ đạo luật gây tranh cãi mà ông thúc đẩy quốc hội thông qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-03T09:01:16+07:00",
+      "fetched": "2026-05-03T16:13:29.477841+07:00"
+    },
+    {
+      "id": "e5713fb89b9c76048907c158efee3bd0",
+      "title": "Làm rõ vụ bắn pháo hoa trái phép dịp lễ 30.4 - 1.5 ở Đà Lạt",
+      "link": "https://thanhnien.vn/lam-ro-vu-ban-phao-hoa-trai-phep-dip-le-304-15-o-da-lat-185260503154039416.htm",
+      "summary": "Các cơ quan chức năng tỉnh Lâm Đồng đang phối hợp với phường Xuân Hương - Đà Lạt làm rõ vụ bắn pháo hoa trái phép dịp nghỉ lễ 30.4 - 1.5 ở quán cà phê Đồi Cù.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T09:01:00+07:00",
+      "fetched": "2026-05-03T16:13:26.931136+07:00"
+    },
+    {
+      "id": "2ff62c46ec6eeb500fac2268c7feb3aa",
+      "title": "Xổ số miền Nam ngày 3 tháng 5 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-3-thang-5-ket-qua-xo-so-hom-nay-chu-nhat-185260503143445579.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 3 tháng 5; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 3.5.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T09:00:00+07:00",
+      "fetched": "2026-05-03T16:13:26.931311+07:00"
+    },
+    {
+      "id": "e127aaad84d6db28a4a3d27139c636dd",
+      "title": "Mặc váy thế nào để vóc dáng cân đối càng nổi bật?",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mac-vay-the-nao-de-voc-dang-can-doi-cang-noi-bat-18526050218495409.htm",
+      "summary": "Sở hữu vóc dáng cân đối là lợi thế giúp nhiều cô gái dễ mặc đẹp hơn khi lựa chọn trang phục. Tuy nhiên, điều đó không có nghĩa cứ diện bất kỳ kiểu váy nào cũng sẽ nổi bật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T09:00:00+07:00",
+      "fetched": "2026-05-03T16:13:26.931474+07:00"
+    },
+    {
       "id": "e440faceaa7d08dca8836550be77e10a",
       "title": "Philippines tìm ra tân hoa hậu hướng đến vương miện Miss Universe thứ 5",
       "link": "https://tuoitre.vn/philippines-tim-ra-tan-hoa-hau-huong-den-vuong-mien-miss-universe-thu-5-20260503021359496.htm",
@@ -451,6 +641,146 @@ window.newsData_2026_05_03 = {
       "category": "Tổng hợp",
       "published": "2026-05-03T08:55:12.897041+07:00",
       "fetched": "2026-05-03T08:55:12.897264+07:00"
+    },
+    {
+      "id": "6978393835afd196daaae5064d33fcd3",
+      "title": "Đang câu cá, người đàn ông bất ngờ nhồi máu cơ tim",
+      "link": "https://thanhnien.vn/dang-cau-ca-nguoi-dan-ong-bat-ngo-nhoi-mau-co-tim-185260503152041361.htm",
+      "summary": "Trong lúc đang câu cá, người đàn ông bất ngờ xuất hiện triệu chứng nhồi máu cơ tim và được đưa đi cấp cứu kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T08:45:00+07:00",
+      "fetched": "2026-05-03T16:13:26.931633+07:00"
+    },
+    {
+      "id": "2cfed6e13ad2ab97c637c771123ab818",
+      "title": "Không ai ngờ cô giáo một chân này lại làm điều đặc biệt suốt 5 năm qua",
+      "link": "https://thanhnien.vn/khong-ai-ngo-co-giao-mot-chan-nay-lai-lam-dieu-dac-biet-suot-5-nam-qua-185260503091829114.htm",
+      "summary": "Cô giáo một chân nhưng 5 năm qua, cô Nguyễn Thị Minh Tâm, giáo viên Trường THPT Thiên Hộ Dương (P.Cao Lãnh, tỉnh Đồng Tháp) đều tích cực tham gia chương trình Tiếp sức mùa thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T08:30:00+07:00",
+      "fetched": "2026-05-03T16:13:26.931788+07:00"
+    },
+    {
+      "id": "8fba2c0b1bd778c0812cfc6bf0e801ed",
+      "title": "Những 'đế chế' thống trị World Cup trong lịch sử",
+      "link": "https://thanhnien.vn/nhung-de-che-thong-tri-world-cup-trong-lich-su-18526050300321651.htm",
+      "summary": "Chiếc cúp vàng World Cup luôn là đỉnh cao danh vọng mà mọi nền bóng đá đều khao khát. Trải qua gần một thế kỷ, lịch sử giải đấu ghi dấu sự thống trị của những 'đế chế' thực sự trên bản đồ bóng đá thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T08:27:00+07:00",
+      "fetched": "2026-05-03T16:13:26.931960+07:00"
+    },
+    {
+      "id": "7cd7c35c8585b7b5f4722b77ba564775",
+      "title": "Ukraine tuyên bố tấn công phương tiện thuộc 'đội tàu bóng tối' của Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-tan-cong-phuong-tien-thuoc-doi-tau-bong-toi-cua-nga-5069326.html",
+      "summary": "Tổng thống Zelensky tuyên bố quân đội Ukraine đã tấn công hai tàu chở dầu thuộc \"đội tàu bóng tối\" gần cảng Novorossiysk của Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-03T08:27:00+07:00",
+      "fetched": "2026-05-03T16:13:29.478051+07:00"
+    },
+    {
+      "id": "780123a80fb23ee9e3070b02e1545de5",
+      "title": "Công an vào cuộc vụ 'bán cơm 35.000 đồng vẫn bị tố chặt chém'",
+      "link": "https://vnexpress.net/cong-an-vao-cuoc-vu-ban-com-35-000-dong-van-bi-to-chat-chem-5069317.html",
+      "summary": "Quán cơm bán suất 35.000 đồng ở Phan Thiết bị du khách tố \"chặt chém\", công an vào cuộc làm rõ hành vi tranh cãi gây ảnh hưởng an ninh trật tự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T08:23:02+07:00",
+      "fetched": "2026-05-03T16:13:23.926648+07:00"
+    },
+    {
+      "id": "400b7577deb2bb9e7516b86c6be55d0d",
+      "title": "'Hotboy' cầm đầu nhóm hỗn chiến náo loạn đường phố",
+      "link": "https://vnexpress.net/hotboy-cam-dau-nhom-hon-chien-nao-loan-duong-pho-5069325.html",
+      "summary": "Trần Hồ Tiến Dũng (tức Dũng Gầy) bị cáo buộc cầm đầu nhóm thanh niên hẹn đối thủ giải quyết mâu thuẫn, sau đó diễn ra màn rượt đuổi, tấn công gây náo loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T08:13:46+07:00",
+      "fetched": "2026-05-03T16:13:23.926829+07:00"
+    },
+    {
+      "id": "77d94a1eff799c5980619916653951f8",
+      "title": "Voi quật nát ôtô, một người chết ở Ấn Độ",
+      "link": "https://vnexpress.net/voi-quat-nat-oto-mot-nguoi-chet-o-an-do-5069328.html",
+      "summary": "Con voi đang trên đường được chở đến ngôi đền ở bang Kerala để tham gia lễ hội bất ngờ thoát khỏi dây xích, hất tung ôtô, phá cây cối khiến một người chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T08:11:39+07:00",
+      "fetched": "2026-05-03T16:13:23.927037+07:00"
+    },
+    {
+      "id": "02e62fa078c9645f971af2945d0eb21f",
+      "title": "Dấu ấn xanh tại VnExpress Marathon Green Paradise Cần Giờ",
+      "link": "https://vnexpress.net/dau-an-xanh-tai-vnexpress-marathon-green-paradise-can-gio-5069310.html",
+      "summary": "Từ khu expo, đoàn xe điện, sắc áo thi đấu đến cung Rừng Sác, giải ghi dấu loạt điểm nhấn xanh, kết nối thể thao với thiên nhiên và tinh thần sống bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T08:00:00+07:00",
+      "fetched": "2026-05-03T16:13:23.927212+07:00"
+    },
+    {
+      "id": "0aa21cd139c02825092c2c24c5249881",
+      "title": "U.17 Việt Nam tái khởi động giấc mơ World Cup",
+      "link": "https://thanhnien.vn/u17-viet-nam-tai-khoi-dong-giac-mo-world-cup-185260502161059254.htm",
+      "summary": "Rất nhiều người đã đặt câu hỏi nếu thầy trò HLV Roland giành quyền dự World Cup U.17 tại VCK U.17 châu Á sắp tới, bước tiếp theo của U.17 Việt Nam (VN) sẽ diễn tiến như thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:59:00+07:00",
+      "fetched": "2026-05-03T16:13:26.932168+07:00"
+    },
+    {
+      "id": "a4954f08f927c5214f6a13aea5046dc4",
+      "title": "Công ty Trung Quốc dùng AI tạo gần 500 phim ngắn mỗi ngày",
+      "link": "https://vnexpress.net/cong-ty-trung-quoc-dung-ai-tao-gan-500-phim-ngan-moi-ngay-5069291.html",
+      "summary": "Tại Trung Quốc, phim ngắn đang được tạo với tốc độ đáng kinh ngạc cùng chi phí thấp nhờ AI, với hàng trăm phim được sản xuất mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:58:42+07:00",
+      "fetched": "2026-05-03T16:13:23.927372+07:00"
+    },
+    {
+      "id": "a4954f08f927c5214f6a13aea5046dc4",
+      "title": "Công ty Trung Quốc dùng AI tạo gần 500 phim ngắn mỗi ngày",
+      "link": "https://vnexpress.net/cong-ty-trung-quoc-dung-ai-tao-gan-500-phim-ngan-moi-ngay-5069291.html",
+      "summary": "Tại Trung Quốc, phim ngắn đang được tạo với tốc độ đáng kinh ngạc cùng chi phí thấp nhờ AI, với hàng trăm phim được sản xuất mỗi ngày.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-03T07:58:42+07:00",
+      "fetched": "2026-05-03T16:13:33.578195+07:00"
+    },
+    {
+      "id": "6a53706df6918f4b3385788f95ae03c4",
+      "title": "Hy hữu: Người đàn ông nuốt nắp chai bia trong lúc nhậu",
+      "link": "https://thanhnien.vn/hy-huu-nguoi-dan-ong-nuot-nap-chai-bia-trong-luc-nhau-185260503141051314.htm",
+      "summary": "Trong lúc nhậu, người đàn ông vô tình nuốt nắp chai bia vào bụng. Ông được người thân đưa đến bệnh viện cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:55:00+07:00",
+      "fetched": "2026-05-03T16:13:26.932385+07:00"
+    },
+    {
+      "id": "fa7930d283af5a24cd81dc05fdaf2b00",
+      "title": "Đón hơn 1,5 triệu lượt khách, Khánh Hoà thắng lớn kỳ nghỉ lễ",
+      "link": "https://thanhnien.vn/don-hon-15-trieu-luot-khach-khanh-hoa-thang-lon-ky-nghi-le-185260503120625354.htm",
+      "summary": "Khánh Hòa đón hơn 1,5 triệu lượt khách tham quan, nghỉ dưỡng trong 9 ngày nghỉ lễ kép Giỗ Tổ Hùng Vương và 30.4 - 1.5, tổng thu từ du lịch ước đạt 2.638 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:55:00+07:00",
+      "fetched": "2026-05-03T16:13:26.932551+07:00"
+    },
+    {
+      "id": "4c5f428f8e2669ef9db9552042e05b2e",
+      "title": "Bán hàng trên chợ mạng hết 'ngon ăn'?",
+      "link": "https://thanhnien.vn/ban-hang-tren-cho-mang-het-ngon-an-185260503113000913.htm",
+      "summary": "Sau một thời gian dài tăng trưởng thẳng đứng, doanh thu trên sàn thương mại điện tử đang có dấu hiệu chững lại khi giá bán qua sàn không còn rẻ, người bán người mua dần rút lui.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T07:47:00+07:00",
+      "fetched": "2026-05-03T16:13:26.932705+07:00"
     },
     {
       "id": "3106863a58c5f26db6dcc86dad8118d4",
