@@ -1,6 +1,6 @@
 window.newsData_2026_05_03 = {
   "date": "2026-05-03",
-  "lastUpdated": "2026-05-03T19:46:38.859761+07:00",
+  "lastUpdated": "2026-05-03T21:41:17.800253+07:00",
   "articles": [
     {
       "id": "ad1b4a194869cdfbeb137042a8be1171",
@@ -513,6 +513,266 @@ window.newsData_2026_05_03 = {
       "fetched": "2026-05-03T14:47:52.879998+07:00"
     },
     {
+      "id": "67f484c6ac6efa2f474977c15b296af6",
+      "title": "Highlight CLB Thể Công Viettel 1-1 Ninh Bình: Đánh rơi chiến thắng đầy tiếc nuối",
+      "link": "https://thanhnien.vn/highlight-clb-the-cong-viettel-1-1-ninh-binh-danh-roi-chien-thang-day-tiec-nuoi-185260503213135691.htm",
+      "summary": "CLB Thể Công Viettel dẫn trước nhưng không thể giữ lợi thế, chấp nhận hòa 1-1 trước Ninh Bình, bị CLB CAHN bỏ xa trên BXH.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:31:00+07:00",
+      "fetched": "2026-05-03T21:41:07.517478+07:00"
+    },
+    {
+      "id": "939c1a96fd2770320285bd724e400d70",
+      "title": "Bảng xếp hạng V-League mới nhất: HAGL bất ngờ đứng vị trí khó tin, Ninh Bình rơi khỏi tốp 3",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-hagl-bat-ngo-dung-vi-tri-kho-tin-ninh-binh-roi-khoi-top-3-185260503211233014.htm",
+      "summary": "Rời sân Vinh với 3 điểm, HAGL tiến gần thêm một bước đến cánh cửa trụ hạng sau khi vòng 21 V-League 2025-2026 khép lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:29:00+07:00",
+      "fetched": "2026-05-03T21:41:07.517680+07:00"
+    },
+    {
+      "id": "9f271d30ccdd620b657b484fc8d988ac",
+      "title": "Nam diễn viên từng chật vật mưu sinh, mặc cảm vì... là trai quê",
+      "link": "https://thanhnien.vn/nam-dien-vien-tung-chat-vat-muu-sinh-mac-cam-vi-la-trai-que-185260503185826972.htm",
+      "summary": "Để có được thành công như hiện tại, diễn viên Quách Hữu Lộc cho biết từng trải qua quãng thời gian chật vật mưu sinh với nhiều công việc như bồi bàn, bảo vệ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:28:00+07:00",
+      "fetched": "2026-05-03T21:41:07.517843+07:00"
+    },
+    {
+      "id": "efe391916405f7ec2423346d5e087d83",
+      "title": "Xe tăng Merkava tối tân của Israel bùng cháy sau đòn UAV tự sát của Hezbollah",
+      "link": "https://thanhnien.vn/xe-tang-merkava-toi-tan-cua-israel-bung-chay-sau-don-uav-tu-sat-cua-hezbollah-185260503174658806.htm",
+      "summary": "Lực lượng Hezbollah hôm 1.5 đã công bố đoạn video cho thấy một máy bay không người lái góc nhìn thứ nhất (FPV) được điều khiển bằng cáp quang tấn công một xe tăng chiến đấu chủ lực của Israel ở thị trấn Qantara (miền nam Lebanon).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:28:00+07:00",
+      "fetched": "2026-05-03T21:41:07.518002+07:00"
+    },
+    {
+      "id": "e127d0a59a34fcf1fca508d03c2df94b",
+      "title": "Ninh Bình và Thể Công Viettel hòa mà như cùng... thua: Đua vô địch sắp hạ màn",
+      "link": "https://thanhnien.vn/ninh-binh-va-the-cong-viettel-hoa-ma-nhu-cung-thua-dua-vo-dich-sap-ha-man-185260503202614493.htm",
+      "summary": "CLB Thể Công Viettel chia điểm với Ninh Bình trong trận hòa 1-1 nhạt màu, ở cuộc so tài vốn dĩ được dự đoán 'nóng' nhất vòng 21 V-League diễn ra tối 3.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:19:00+07:00",
+      "fetched": "2026-05-03T21:41:07.518158+07:00"
+    },
+    {
+      "id": "6df682815e8dc4503eb37f2cb96101a8",
+      "title": "Hai lính Mỹ mất tích trong diễn tập lớn nhất ở châu Phi",
+      "link": "https://vnexpress.net/hai-linh-my-mat-tich-trong-dien-tap-lon-nhat-o-chau-phi-5069405.html",
+      "summary": "Hai binh sĩ Mỹ mất tích khi tham gia diễn tập African Lion 2026 tại Morocco, khiến giới chức triển khai nhiều lực lượng để tìm kiếm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-03T14:15:01+07:00",
+      "fetched": "2026-05-03T21:41:10.506162+07:00"
+    },
+    {
+      "id": "957caf3f860f27dc339e9cfa002550d2",
+      "title": "Truyền thông Yemen dè chừng U.17 Việt Nam, cảnh báo trận ra quân đầy khó khăn",
+      "link": "https://thanhnien.vn/truyen-thong-yemen-de-chung-u17-viet-nam-canh-bao-tran-ra-quan-day-kho-khan-185260503210909231.htm",
+      "summary": "Truyền thông Yemen đánh giá cao U.17 Việt Nam trước thềm U.17 châu Á 2026, trong khi thầy trò HLV Roland đứng trước cơ hội khẳng định năng lực của lứa cầu thủ trẻ giàu tiềm năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:09:00+07:00",
+      "fetched": "2026-05-03T21:41:07.518312+07:00"
+    },
+    {
+      "id": "aa1179f84e7ba4dbd794389311eb6365",
+      "title": "Cao tốc TP.HCM - Long Thành - Dầu Giây ùn ứ hơn 10 km, cửa ngõ phía đông vẫn thông thoáng",
+      "link": "https://thanhnien.vn/cao-toc-tphcm-long-thanh-dau-giay-un-u-hon-10-km-cua-ngo-185260503210707329.htm",
+      "summary": "Cao tốc TP.HCM - Long Thành - Dầu Giây ùn ùn xe ngày cuối nghỉ lễ 30.4 - 1.5, một số thời điểm dòng xe di chuyển chậm khi có va chạm trên đường, trong khi các cửa ngõ phía đông TP.HCM vẫn lưu thông thông thoáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T14:08:00+07:00",
+      "fetched": "2026-05-03T21:41:07.518472+07:00"
+    },
+    {
+      "id": "7422df557b7035a79efe7eef49e78806",
+      "title": "Từ 25/5, chủ nhà trọ thu tiền điện sai có thể bị phạt đến 30 triệu đồng",
+      "link": "https://vnexpress.net/tu-25-5-chu-nha-tro-thu-tien-dien-sai-co-the-bi-phat-den-30-trieu-dong-5069260.html",
+      "summary": "Chủ nhà trọ thu tiền của người thuê cao hơn mức quy định khi mua điện theo giá bán lẻ sinh hoạt sẽ bị phạt 20-30 triệu đồng, theo Nghị định 133.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-03T14:02:19+07:00",
+      "fetched": "2026-05-03T21:41:12.400318+07:00"
+    },
+    {
+      "id": "58a0c0941c710118bc3cb08edd4129a8",
+      "title": "Cao Văn Bình nhận thẻ đỏ, SLNA thua đau HAGL trong cơn mưa sân Vinh",
+      "link": "https://thanhnien.vn/cao-van-binh-nhan-the-do-slna-thua-dau-hagl-trong-con-mua-san-vinh-185260503205920455.htm",
+      "summary": "HAGL tận dụng tốt cơ hội hiếm hoi để giành chiến thắng 1-0 trước SLNA, dù bị ép sân phần lớn thời gian trong trận đấu thuộc vòng 21 V-League tối 3.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:59:00+07:00",
+      "fetched": "2026-05-03T21:41:07.518652+07:00"
+    },
+    {
+      "id": "9b124c647e97b85a04c1a41502b3483c",
+      "title": "Trung Kiên giúp HAGL sáng cửa trụ hạng V-League",
+      "link": "https://vnexpress.net/trung-kien-giup-hagl-sang-cua-tru-hang-v-league-5069402.html",
+      "summary": "Thủ môn Trần Trung Kiên có nhiều pha xử lý xuất thần giúp HAGL đánh bại chủ nhà SLNA 1-0 ở vòng 21 V-League 2025-2026, tối 3/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:58:15+07:00",
+      "fetched": "2026-05-03T21:41:04.492836+07:00"
+    },
+    {
+      "id": "9b124c647e97b85a04c1a41502b3483c",
+      "title": "Trung Kiên giúp HAGL sáng cửa trụ hạng V-League",
+      "link": "https://vnexpress.net/trung-kien-giup-hagl-sang-cua-tru-hang-v-league-5069402.html",
+      "summary": "Thủ môn Trần Trung Kiên có nhiều pha xử lý xuất thần giúp HAGL đánh bại chủ nhà SLNA 1-0 ở vòng 21 V-League 2025-2026, tối 3/5.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-03T13:58:15+07:00",
+      "fetched": "2026-05-03T21:41:17.789121+07:00"
+    },
+    {
+      "id": "2fb181233ec2bc17b2dd76ccc38fb6fe",
+      "title": "Sét đánh trúng nhà máy đường, vỡ bể chứa, 2.000 tấn mật tràn ra sân",
+      "link": "https://thanhnien.vn/set-danh-trung-nha-may-duong-vo-be-chua-2000-tan-mat-tran-ra-san-185260503203719009.htm",
+      "summary": "Trong cơn giông, sét đánh trúng một bể chứa của nhà máy đường ở Nghệ An, khoảng 2.000 tấn mật tràn ra ngoài, thiệt hại nhiều tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:45:00+07:00",
+      "fetched": "2026-05-03T21:41:07.518807+07:00"
+    },
+    {
+      "id": "16fa2c48f42e3b1c0cb3d24d729687f0",
+      "title": "Mưa đá xảy ra tại nhiều xã ở Nghệ An",
+      "link": "https://thanhnien.vn/mua-da-xay-ra-tai-nhieu-xa-o-nghe-an-185260503201442242.htm",
+      "summary": "Cuối giờ chiều nay 3.5, do ảnh hưởng của không khí lạnh, mưa đá đã xảy ra ở nhiều xã tại Nghệ An. Có nơi, những cục đá to như quả trứng gà rơi xuống làm thủng mái nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:43:00+07:00",
+      "fetched": "2026-05-03T21:41:07.518958+07:00"
+    },
+    {
+      "id": "e374da754a3fe24d15d268eeb6a7fe53",
+      "title": "Trực thăng đưa nam công nhân ngã trọng thương ở Trường Sa vào đất liền",
+      "link": "https://vnexpress.net/truc-thang-dua-nam-cong-nhan-nga-trong-thuong-o-truong-sa-vao-dat-lien-5069338.html",
+      "summary": "Nam công nhân 49 tuổi đa chấn thương do ngã khi thi công tại đảo Trường Sa Lớn, được phẫu thuật cấp cứu rồi chuyển về đất liền bằng trực thăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:39:12+07:00",
+      "fetched": "2026-05-03T21:41:04.493022+07:00"
+    },
+    {
+      "id": "a4e65f1fc77524debed25a6cb37e566d",
+      "title": "Israel chi hàng chục tỉ USD mua chiến đấu cơ Mỹ",
+      "link": "https://thanhnien.vn/israel-chi-hang-chuc-ti-usd-mua-chien-dau-co-my-185260503202755035.htm",
+      "summary": "Israel đã phê duyệt kế hoạch mua 2 phi đội máy bay chiến đấu F-35 và F-15IA từ các nhà thầu Lockheed Martin và Boeing (Mỹ), trong một thỏa thuận trị giá hàng chục tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:38:00+07:00",
+      "fetched": "2026-05-03T21:41:07.519108+07:00"
+    },
+    {
+      "id": "e66fad09d5ea556120e220140f64dede",
+      "title": "Highlight SLNA 0-1 HAGL: Chủ nhà áp đảo nhưng thua cay đắng",
+      "link": "https://thanhnien.vn/highlight-slna-0-1-hagl-chu-nha-ap-dao-nhung-thua-cay-dang-185260503203737494.htm",
+      "summary": "SLNA chơi lấn lướt và tạo ra nhiều cơ hội nhưng không thể ghi bàn, qua đó chấp nhận thất bại 0-1 trước HAGL ngay trên sân nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:37:00+07:00",
+      "fetched": "2026-05-03T21:41:07.519266+07:00"
+    },
+    {
+      "id": "66c749364df04977892f38bb7a20c918",
+      "title": "Trung Quốc lần đầu cấp điện xanh thẳng cho trung tâm dữ liệu",
+      "link": "https://thanhnien.vn/trung-quoc-lan-dau-cap-dien-xanh-thang-cho-trung-tam-du-lieu-185260503200941695.htm",
+      "summary": "Trung Quốc đã đưa vào vận hành dự án năng lượng tái tạo đầu tiên cung cấp điện trực tiếp cho trung tâm dữ liệu, trong bối cảnh nhu cầu điện và năng lực tính toán bùng nổ do trí tuệ nhân tạo (AI) thúc đẩy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:36:00+07:00",
+      "fetched": "2026-05-03T21:41:07.519420+07:00"
+    },
+    {
+      "id": "46541cecbedacb4c8c26ae2fe3c7e5d1",
+      "title": "Nam sinh lớp 9 bị nhóm lớp 7 vụt tới tấp giữa đường",
+      "link": "https://vnexpress.net/hoc-sinh-lop-7-o-duy-tien-danh-ban-da-man-giua-duong-5069394.html",
+      "summary": "Trên đường đi học về, nam sinh lớp 9 trường THCS Chuyên Ngoại bị nhóm học sinh lớp 7 vụt tới tấp bằng thắt lưng, gây sốc trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:33:52+07:00",
+      "fetched": "2026-05-03T21:41:04.493191+07:00"
+    },
+    {
+      "id": "594c3b64dc45aca8fd1ae5c76cf864e1",
+      "title": "Highlight Khánh Hòa 1-1 Phú Thọ: Chia điểm đáng tiếc",
+      "link": "https://thanhnien.vn/highlight-khanh-hoa-1-1-phu-tho-chia-diem-dang-tiec-185260503203232763.htm",
+      "summary": "Khánh Hòa và Phú Thọ tạo nên thế trận giằng co trước khi chia điểm với tỷ số 1-1, kết quả khiến cả 2 đội đều có lý do tiếc nuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:32:00+07:00",
+      "fetched": "2026-05-03T21:41:07.519605+07:00"
+    },
+    {
+      "id": "6b043dd3571b6462f4b3ed549b581b4e",
+      "title": "11.000 ca vi phạm nồng độ cồn trong 4 ngày nghỉ lễ",
+      "link": "https://vnexpress.net/11-000-ca-vi-pham-nong-do-con-trong-4-ngay-nghi-le-5069364.html",
+      "summary": "Trong hơn 53.000 trường hợp vi phạm giao thông bị lập biên bản xử lý trong 4 ngày lễ, có tới 11.000 ca người điều khiển phương tiện vi phạm quy định nồng độ cồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:21:07+07:00",
+      "fetched": "2026-05-03T21:41:04.493354+07:00"
+    },
+    {
+      "id": "e9c1860f9c5f4ef09d58b9c31bf9fe75",
+      "title": "5 tính năng dễ đánh lừa bạn khi mua màn hình mới",
+      "link": "https://thanhnien.vn/5-tinh-nang-de-danh-lua-ban-khi-mua-man-hinh-moi-185260428112342885.htm",
+      "summary": "Bạn sắp mua màn hình máy tính mới? Hãy cân nhắc trước những thông số màn hình vốn chỉ đẹp trên giấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:12:00+07:00",
+      "fetched": "2026-05-03T21:41:07.519762+07:00"
+    },
+    {
+      "id": "e12caf1032e1321fcacf5ca73841273d",
+      "title": "Sắp cưới tôi nhưng anh vẫn nhận lời xem mắt người khác",
+      "link": "https://vnexpress.net/sap-cuoi-toi-nhung-anh-van-nhan-loi-xem-mat-nguoi-khac-5069348.html",
+      "summary": "Anh nói thật may mắn khi yêu được tôi, thế nhưng cách anh đối xử với tôi nhiều khi lại không như vậy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:00:00+07:00",
+      "fetched": "2026-05-03T21:41:04.493540+07:00"
+    },
+    {
+      "id": "60a2bd1b06c0fc624858f5c8cf0de3c4",
+      "title": "Cháy bệnh viện ở Thanh Hoá",
+      "link": "https://vnexpress.net/chay-benh-vien-o-thanh-hoa-5069390.html",
+      "summary": "Khu cấp phát thuốc của Bệnh viện Đa khoa Thọ Xuân bất ngờ bốc cháy khiến nhiều người hoảng sợ, ngọn lửa sau đó được khống chế, không gây thiệt hại về người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T12:59:02+07:00",
+      "fetched": "2026-05-03T21:41:04.493706+07:00"
+    },
+    {
+      "id": "a3180737aa393b45f365edbc14888070",
+      "title": "Sách truyền cảm hứng về chạy bộ",
+      "link": "https://vnexpress.net/sach-truyen-cam-hung-ve-chay-bo-5068773.html",
+      "summary": "Tác giả Phạm Duy Cường cho biết tìm đến bộ môn chạy khi cơ thể kiệt quệ sau những cuộc nhậu, trong cuốn ''Run4Self - Những cuộc đối thoại trên đường chạy''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T12:55:33+07:00",
+      "fetched": "2026-05-03T21:41:04.493878+07:00"
+    },
+    {
+      "id": "c750139f5c07173841bbacfc5e39cb0b",
+      "title": "Các tỉnh thành ven biển 'thắng đậm' dịp nghỉ lễ",
+      "link": "https://vnexpress.net/cac-tinh-thanh-ven-bien-thang-dam-dip-nghi-le-5069343.html",
+      "summary": "Lượng khách tập trung vào các điểm đến ven biển trong hai kỳ nghỉ lễ giúp Đà Nẵng, Thanh Hóa, Quảng Ninh... đạt doanh thu vượt kỳ vọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T12:55:15+07:00",
+      "fetched": "2026-05-03T21:41:04.494038+07:00"
+    },
+    {
       "id": "6239b9f7dba1ac5f129306f7c583e892",
       "title": "CLB TP.HCM thắng đậm Quy Nhơn United, giật luôn tốp 3 từ tay đối thủ",
       "link": "https://thanhnien.vn/clb-tphcm-thang-dam-quy-nhon-united-giat-luon-top-3-tu-tay-doi-thu-185260503194405591.htm",
@@ -563,6 +823,16 @@ window.newsData_2026_05_03 = {
       "fetched": "2026-05-03T19:46:31.345498+07:00"
     },
     {
+      "id": "e73ae927499468434f3f1cc3700b9225",
+      "title": "Những quy định ở Met Gala",
+      "link": "https://vnexpress.net/nhung-quy-dinh-o-met-gala-5069340.html",
+      "summary": "Các khách mời phải chi hàng trăm nghìn USD để mua vé, đặt bàn tại Met Gala, sự kiện lớn nhất của làng thời trang thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T12:35:56+07:00",
+      "fetched": "2026-05-03T21:41:04.494191+07:00"
+    },
+    {
       "id": "d64d13d4858c019c786ac10a5494d3a5",
       "title": "Có 20.567 người trúng số Vietlott Mega 6/45 tối 3.5, giải độc đắc tăng 18,4 tỉ đồng",
       "link": "https://thanhnien.vn/co-20567-nguoi-trung-so-vietlott-mega-6-45-toi-35-giai-doc-dac-tang-184-ti-dong-185260503190107154.htm",
@@ -581,6 +851,36 @@ window.newsData_2026_05_03 = {
       "category": "Tổng hợp",
       "published": "2026-05-03T12:33:00+07:00",
       "fetched": "2026-05-03T19:46:31.345747+07:00"
+    },
+    {
+      "id": "1f2ca6674b87dc29c91db5cbfbf3eae7",
+      "title": "Iran cảnh báo eo biển Hormuz sẽ là 'mồ chôn tàu sân bay Mỹ'",
+      "link": "https://vnexpress.net/iran-canh-bao-eo-bien-hormuz-se-la-mo-chon-tau-san-bay-my-5069370.html",
+      "summary": "Giới chức Iran cảnh báo lực lượng Mỹ sẽ hứng tổn thất nặng ở eo biển Hormuz, đồng thời cho rằng Tổng thống Trump không còn nhiều lựa chọn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T12:28:28+07:00",
+      "fetched": "2026-05-03T21:41:04.494351+07:00"
+    },
+    {
+      "id": "1f2ca6674b87dc29c91db5cbfbf3eae7",
+      "title": "Iran cảnh báo eo biển Hormuz sẽ là 'mồ chôn tàu sân bay Mỹ'",
+      "link": "https://vnexpress.net/iran-canh-bao-eo-bien-hormuz-se-la-mo-chon-tau-san-bay-my-5069370.html",
+      "summary": "Giới chức Iran cảnh báo lực lượng Mỹ sẽ hứng tổn thất nặng ở eo biển Hormuz, đồng thời cho rằng Tổng thống Trump không còn nhiều lựa chọn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-03T12:28:28+07:00",
+      "fetched": "2026-05-03T21:41:10.506338+07:00"
+    },
+    {
+      "id": "f2852dfc611233d74abe128d1ef502d5",
+      "title": "Nước nào có cây cầu rộng nhất thế giới?",
+      "link": "https://vnexpress.net/cau-rong-nhat-the-gioi-o-nuoc-nao-5069354.html",
+      "summary": "Với tổng chiều rộng gần 80 m, cây cầu này được Guinness công nhận là rộng nhất thế giới. Bạn có biết nó ở nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T12:25:05+07:00",
+      "fetched": "2026-05-03T21:41:04.494555+07:00"
     },
     {
       "id": "4d6060be618247a9019ab762c5cf9957",
@@ -731,6 +1031,26 @@ window.newsData_2026_05_03 = {
       "category": "Tổng hợp",
       "published": "2026-05-03T12:22:53.976570+07:00",
       "fetched": "2026-05-03T12:22:53.976776+07:00"
+    },
+    {
+      "id": "8639d3b21dfff924fed27c2c77d83f74",
+      "title": "Sập nhà hai tầng ở Quảng Ninh, một người tử vong",
+      "link": "https://vnexpress.net/sap-nha-hai-tang-o-quang-ninh-mot-nguoi-tu-vong-5069385.html",
+      "summary": "Trong lúc nhóm thợ đang cải tạo tầng một, ngôi nhà hai tầng tại phường Bình Khê bất ngờ đổ sập hoàn toàn khiến chủ nhà tử vong, hai người khác bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T12:19:42+07:00",
+      "fetched": "2026-05-03T21:41:04.494726+07:00"
+    },
+    {
+      "id": "19161ba325e2a812236d7a29abec6273",
+      "title": "Hai người lao xuống nước khi bay flyboard ở Ninh Bình",
+      "link": "https://vnexpress.net/hai-nguoi-lao-xuong-nuoc-khi-bay-flyboard-o-ninh-binh-5069365.html",
+      "summary": "Nam vận động viên flyboard cùng nữ du khách đang bay trên mặt nước ở hồ núi Lớ, phường Hoa Lư thì lao xuống, chìm dưới nước, ngất xỉu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T12:17:34+07:00",
+      "fetched": "2026-05-03T21:41:04.494889+07:00"
     },
     {
       "id": "145b6b0c6cb08d97b6328c8dc738457e",
@@ -891,6 +1211,26 @@ window.newsData_2026_05_03 = {
       "category": "Thế giới",
       "published": "2026-05-03T11:03:30+07:00",
       "fetched": "2026-05-03T19:46:33.818284+07:00"
+    },
+    {
+      "id": "8b8490ca50ee9237b6140ff3757bc11d",
+      "title": "51.000 người tham gia giải chạy kỷ niệm 75 năm ngành ngân hàng",
+      "link": "https://vnexpress.net/51-000-nguoi-tham-gia-giai-chay-ky-niem-75-nam-nganh-ngan-hang-5069378.html",
+      "summary": "Ngày 3/5, Ngân hàng Nhà nước tổ chức lễ phát động Giải chạy trực tuyến \"75 năm Ngân hàng Việt Nam\", dự kiến quy đổi thành 7,5 tỷ đồng đóng góp cho an sinh xã hội.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-03T11:00:11+07:00",
+      "fetched": "2026-05-03T21:41:12.401335+07:00"
+    },
+    {
+      "id": "8b8490ca50ee9237b6140ff3757bc11d",
+      "title": "51.000 người tham gia giải chạy kỷ niệm 75 năm ngành ngân hàng",
+      "link": "https://vnexpress.net/51-000-nguoi-tham-gia-giai-chay-ky-niem-75-nam-nganh-ngan-hang-5069378.html",
+      "summary": "Ngày 3/5, Ngân hàng Nhà nước tổ chức lễ phát động Giải chạy trực tuyến \"75 năm Ngân hàng Việt Nam\", dự kiến quy đổi thành 7,5 tỷ đồng đóng góp cho an sinh xã hội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-03T11:00:11+07:00",
+      "fetched": "2026-05-03T21:41:17.790303+07:00"
     },
     {
       "id": "79e411f2cea713f52f97b52e09f59073",
