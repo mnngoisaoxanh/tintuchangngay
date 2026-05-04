@@ -1,6 +1,6 @@
 window.newsData_2026_05_05 = {
   "date": "2026-05-05",
-  "lastUpdated": "2026-05-05T02:14:15.362912+07:00",
+  "lastUpdated": "2026-05-05T03:58:24.707283+07:00",
   "articles": [
     {
       "id": "1b09a0764f3533dc3af421ba603009c4",
@@ -181,6 +181,16 @@ window.newsData_2026_05_05 = {
       "category": "Tổng hợp",
       "published": "2026-05-05T00:22:16.838822+07:00",
       "fetched": "2026-05-05T00:22:16.839014+07:00"
+    },
+    {
+      "id": "fff6b93cdc96e3e372ce344d40d4898c",
+      "title": "Bữa sáng với khoai lang: Món quen thuộc, lợi ích bất ngờ",
+      "link": "https://thanhnien.vn/bua-sang-voi-khoai-lang-mon-quen-thuoc-loi-ich-bat-ngo-185260504210509399.htm",
+      "summary": "Khoai lang là món ăn quen thuộc trong bữa sáng của nhiều người châu Á. Không chỉ dễ chế biến, loại củ này còn mang lại nhiều lợi ích cho tiêu hóa, đường huyết và cân nặng nếu ăn đúng cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:03:00+07:00",
+      "fetched": "2026-05-05T03:58:18.977772+07:00"
     },
     {
       "id": "c66cd7b8a3bf5ec1836cf8275977a682",
