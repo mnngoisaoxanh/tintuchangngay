@@ -1,6 +1,6 @@
 window.newsData_2026_05_05 = {
   "date": "2026-05-05",
-  "lastUpdated": "2026-05-05T03:58:24.707283+07:00",
+  "lastUpdated": "2026-05-05T05:48:26.619793+07:00",
   "articles": [
     {
       "id": "1b09a0764f3533dc3af421ba603009c4",
@@ -181,6 +181,256 @@ window.newsData_2026_05_05 = {
       "category": "Tổng hợp",
       "published": "2026-05-05T00:22:16.838822+07:00",
       "fetched": "2026-05-05T00:22:16.839014+07:00"
+    },
+    {
+      "id": "d6140622eda9e2e56bcba79f5a31ab31",
+      "title": "Địa đạo: Mặt trời trong bóng tối giành cú đúp giải thưởng tại LHP Viễn Đông",
+      "link": "https://thanhnien.vn/dia-dao-mat-troi-trong-bong-toi-gianh-cu-dup-giai-thuong-tai-lhp-vien-dong-185260504215722275.htm",
+      "summary": "Bộ phim Địa đạo: Mặt trời trong bóng tối của đạo diễn Bùi Thạc Chuyên tiếp tục ghi dấu ấn trên bản đồ điện ảnh quốc tế khi giành 2 giải thưởng quan trọng tại Liên hoan phim (LHP) Viễn Đông (FEFF) 2026 lần thứ 28 diễn ra tại thành phố Udine (Ý) từ ngày 24.4 - 2.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:45:00+07:00",
+      "fetched": "2026-05-05T05:48:16.847622+07:00"
+    },
+    {
+      "id": "a5a5765634b9e9b4d7ad1d22680e8d1c",
+      "title": "Giải mã ‘cơn sốt’ tăng đột biến thí sinh thi đánh giá năng lực",
+      "link": "https://thanhnien.vn/giai-ma-con-sot-tang-dot-bien-thi-sinh-thi-danh-gia-nang-luc-185260504183733164.htm",
+      "summary": "Chưa năm nào số lượng thí sinh tham dự kỳ thi đánh giá năng lực của ĐH Quốc gia TP.HCM tăng đột biến như năm nay. Nguyên nhân nào khiến kỳ thi có sức hút đến vậy, tác động của việc này tới bức tranh xét tuyển ĐH năm 2026 được dự báo ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:45:00+07:00",
+      "fetched": "2026-05-05T05:48:16.847771+07:00"
+    },
+    {
+      "id": "d9898579d5f8ee72b19ca3f8134c8592",
+      "title": "Cây vé trúng 4,8 tỉ xổ số miền Nam xuất hiện, may mắn đến với nhiều người ở TP.HCM",
+      "link": "https://thanhnien.vn/cay-ve-trung-48-ti-xo-so-mien-nam-xuat-hien-may-man-den-voi-nhieu-nguoi-o-tphcm-185260504124303656.htm",
+      "summary": "May mắn 'gõ cửa' nhiều người chơi xổ số miền Nam khi mua vé số thuộc cây vé trúng 4,8 tỉ đồng do một đại lý ở TP.HCM bán ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:45:00+07:00",
+      "fetched": "2026-05-05T05:48:16.847930+07:00"
+    },
+    {
+      "id": "d9fb4956266439448ec77a007e1481e5",
+      "title": "Đông Nam Á sẽ tăng tốc phát triển điện hạt nhân",
+      "link": "https://thanhnien.vn/dong-nam-a-se-tang-toc-phat-trien-dien-hat-nhan-185260504224637551.htm",
+      "summary": "Tờ The Straits Times ngày 4.5 dẫn lời một số chuyên gia cho rằng cuộc xung đột giữa Mỹ - Israel với Iran có thể thúc đẩy kế hoạch khai thác năng lượng hạt nhân của Đông Nam Á khi khu vực này tìm cách giảm bớt sự phụ thuộc vào dầu khí Trung Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:42:00+07:00",
+      "fetched": "2026-05-05T05:48:16.848055+07:00"
+    },
+    {
+      "id": "ad1767d6d1f1cae1eee667865aadb33b",
+      "title": "Chậm cải tạo chung cư cũ, Hà Nội sẽ bỏ lỡ cơ hội tái thiết đô thị",
+      "link": "https://thanhnien.vn/cham-cai-tao-chung-cu-cu-ha-noi-se-bo-lo-co-hoi-tai-thiet-do-thi-185260504224118082.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm cho biết, nhiều khu chung cư cũ ở Hà Nội giống như 'ổ chuột'; việc cải tạo, chỉnh trang chung cư cũ liên quan trực tiếp đến an toàn tính mạng, chất lượng cuộc sống của người dân; thành phố cũng bỏ lỡ cơ hội tái thiết đô thị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:34:00+07:00",
+      "fetched": "2026-05-05T05:48:16.848188+07:00"
+    },
+    {
+      "id": "ff656cba6e0b20c5be79a9ce3433cafd",
+      "title": "Cấp bách mở rộng quốc lộ",
+      "link": "https://thanhnien.vn/cap-bach-mo-rong-quoc-lo-185260504222632574.htm",
+      "summary": "Tình trạng ùn tắc nghiêm trọng đường về TP.HCM sau kỳ nghỉ lễ 30.4 - 1.5 vừa qua đã cho thấy bất cập rất lớn trong hệ thống giao thông hiện hữu: cao tốc đã được nối dài thần tốc nhưng bước xuống quốc lộ là kẹt xe và xuống cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:31:00+07:00",
+      "fetched": "2026-05-05T05:48:16.848317+07:00"
+    },
+    {
+      "id": "114b373a14b7ee9c3ade734b09886246",
+      "title": "Tiêu điểm quốc tế ngày 5.5: Biến động mới ở eo biển Hormuz | Ổ dịch chết người trên du thuyền",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-55-bien-dong-moi-o-eo-bien-hormuz-o-dich-chet-nguoi-tren-du-thuyen-185260504232732044.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 5.5.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:30:00+07:00",
+      "fetched": "2026-05-05T05:48:16.848440+07:00"
+    },
+    {
+      "id": "5d1000e02b09f21863b2b85721bf7841",
+      "title": "'Cởi trói' xuất khẩu gạo cần lộ trình?",
+      "link": "https://thanhnien.vn/coi-troi-xuat-khau-gao-can-lo-trinh-185260504225619947.htm",
+      "summary": "Xuất khẩu gạo được Bộ Tài chính đưa vào danh sách cắt giảm thủ tục kinh doanh, nhưng nhiều doanh nghiệp trong ngành này lại tỏ ra băn khoăn, vì sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:30:00+07:00",
+      "fetched": "2026-05-05T05:48:16.848567+07:00"
+    },
+    {
+      "id": "485996f61af07908c6ceb75811804ac6",
+      "title": "Giữa tâm bão giá, tiểu thương than trời: 'Buôn bán giờ chỉ là để giữ sạp'",
+      "link": "https://thanhnien.vn/giua-tam-bao-gia-tieu-thuong-than-troi-buon-ban-gio-chi-la-de-giu-sap-185260428175451646.htm",
+      "summary": "Sức mua sụt giảm, giá cả leo thang khiến nhiều chợ truyền thống tại TP.HCM rơi vào cảnh vắng khách, hàng hóa bán chậm. Giữa vòng xoáy chi phí tăng và thu nhập co hẹp, tiểu thương buộc phải cầm cự từng ngày để giữ sạp, giữ nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:30:00+07:00",
+      "fetched": "2026-05-05T05:48:16.848693+07:00"
+    },
+    {
+      "id": "cc20f58887b4ff827eb62000747c72a5",
+      "title": "Người đàn ông 7 năm cứu hộ hổ, tê tê, rái cá… vì trót yêu thiên nhiên",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-7-nam-cuu-ho-ho-te-te-rai-ca-vi-trot-yeu-thien-nhien-185260427105133726.htm",
+      "summary": "Suốt 7 năm gắn bó với công việc cứu hộ động vật hoang dã, anh Tuấn đã chăm sóc hổ, tê tê, rái cá… và không ít lần thức trắng đêm để giữ sự sống cho chúng. Với anh, tất cả bắt đầu từ một điều rất giản dị: trót yêu thiên nhiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:30:00+07:00",
+      "fetched": "2026-05-05T05:48:16.848831+07:00"
+    },
+    {
+      "id": "4c87bd372b8958ed2299b75da837f307",
+      "title": "Vì sao nên uống sữa đậu nành vào buổi sáng?",
+      "link": "https://thanhnien.vn/vi-sao-nen-uong-sua-dau-nanh-vao-buoi-sang-185260504212628687.htm",
+      "summary": "Sữa đậu nành là thức uống quen thuộc với nhiều người Việt. Khi dùng vào buổi sáng, loại sữa này không chỉ cung cấp năng lượng mà còn hỗ trợ tim mạch, tiêu hóa và kiểm soát cân nặng nếu sử dụng đúng cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:22:00+07:00",
+      "fetched": "2026-05-05T05:48:16.848954+07:00"
+    },
+    {
+      "id": "b5463fc685180ffbf439ce540682934d",
+      "title": "Trước ngày Chiến thắng, tòa nhà Moscow trúng UAV",
+      "link": "https://thanhnien.vn/truoc-ngay-chien-thang-toa-nha-moscow-trung-uav-185260504224351301.htm",
+      "summary": "Hôm qua, Thị trưởng Moscow Sergei Sobyanin xác nhận một máy bay không người lái (UAV) của Ukraine đã đâm vào một tòa nhà dân cư cao tầng ở khu cao cấp thuộc trung tâm Moscow vào khuya 3.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:19:00+07:00",
+      "fetched": "2026-05-05T05:48:16.849074+07:00"
+    },
+    {
+      "id": "5006b406f32ca0049ca7db35a17471a1",
+      "title": "Tử vi ngày 5 tháng 5: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-5-thang-5-con-giap-nao-may-man-hom-nay-185260504211505684.htm",
+      "summary": "Tử vi ngày 5 tháng 5 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm đáng chú ý là định hình ưu tiên - không phải việc nào cũng quan trọng như nhau, và ai biết chọn đúng việc để tập trung sẽ tiến nhanh hơn. Tài lộc phụ thuộc vào việc bạn dám bỏ bớt những điều không cần thiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:15:00+07:00",
+      "fetched": "2026-05-05T05:48:16.849196+07:00"
+    },
+    {
+      "id": "b95e6574f8c11799087741caaed1bc13",
+      "title": "Man City sảy chân trong cuộc đua vô địch Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-city-say-chan-trong-cuoc-dua-vo-dich-ngoai-hang-anh-5069859.html",
+      "summary": "Hòa 3-3 trên sân Everton ở vòng 35 Ngoại hạng Anh, Man City trao quyền tự quyết cho đỉnh bảng Arsenal trong cuộc đua vô địch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:11:26+07:00",
+      "fetched": "2026-05-05T05:48:13.562252+07:00"
+    },
+    {
+      "id": "b95e6574f8c11799087741caaed1bc13",
+      "title": "Man City sảy chân trong cuộc đua vô địch Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-city-say-chan-trong-cuoc-dua-vo-dich-ngoai-hang-anh-5069859.html",
+      "summary": "Hòa 3-3 trên sân Everton ở vòng 35 Ngoại hạng Anh, Man City trao quyền tự quyết cho đỉnh bảng Arsenal trong cuộc đua vô địch.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-04T22:11:26+07:00",
+      "fetched": "2026-05-05T05:48:26.614766+07:00"
+    },
+    {
+      "id": "565f6f58903e3fbe6073fff6b02523f9",
+      "title": "Người đàn ông tát vào mặt tài xế chở thực phẩm cho trường nói gì khi bị triệu tập?",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-tat-vao-mat-tai-xe-cho-thuc-pham-cho-truong-noi-gi-khi-bi-trieu-tap-18526050422493691.htm",
+      "summary": "Mạng xã hội vừa lan truyền đoạn phim ghi lại hành vi bạo lực xảy ra ngay tại sân trường mầm non trên địa bàn tỉnh Bắc Ninh. Ngày 4.5.2026, Công an xã Hiệp Hòa đã tiến hành triệu tập, làm việc với người đàn ông có hành vi dùng tay tát vào mặt một tài xế xe tải đang đến giao thực phẩm cho nhà trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:04:00+07:00",
+      "fetched": "2026-05-05T05:48:16.849321+07:00"
+    },
+    {
+      "id": "26d80ca3a9de3a53fa78e60d8e13ddd0",
+      "title": "Mỹ bắt đầu giải tỏa tàu thuyền khỏi eo biển Hormuz",
+      "link": "https://thanhnien.vn/my-bat-dau-giai-toa-tau-thuyen-khoi-eo-bien-hormuz-185260504224033509.htm",
+      "summary": "Mỹ bắt đầu kế hoạch hướng dẫn tàu thuyền bị mắc kẹt rời khỏi eo biển Hormuz, bất chấp lời đe dọa từ phía Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:04:00+07:00",
+      "fetched": "2026-05-05T05:48:16.849445+07:00"
+    },
+    {
+      "id": "9593cf0cc6d8871558497b8a65c91be6",
+      "title": "Thiết kế đường trên cao 16.400 tỷ đồng dọc quốc lộ 51",
+      "link": "https://vnexpress.net/thiet-ke-duong-tren-cao-16-400-ty-dong-doc-quoc-lo-51-5069773.html",
+      "summary": "Dự án đường trên cao dọc quốc lộ 51 tổng vốn khoảng 16.400 tỷ đồng đang được hoàn thiện phương án, dự kiến khởi công trong năm nay nhằm giảm ùn tắc cho cửa ngõ phía đông Biên Hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:00:00+07:00",
+      "fetched": "2026-05-05T05:48:13.562414+07:00"
+    },
+    {
+      "id": "69f8916f9e13cc91e3ca9d715fc4885e",
+      "title": "Nợ thuế 1 triệu đồng và bỏ địa điểm kinh doanh có thể bị cấm xuất cảnh",
+      "link": "https://vnexpress.net/no-thue-1-trieu-dong-va-bo-dia-diem-kinh-doanh-co-the-bi-cam-xuat-canh-5069644.html",
+      "summary": "Bộ Tài chính đề xuất tạm hoãn xuất cảnh với trường hợp nợ thuế từ 1 triệu đồng và không còn hoạt động tại địa chỉ đăng ký kinh doanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:00:00+07:00",
+      "fetched": "2026-05-05T05:48:13.562556+07:00"
+    },
+    {
+      "id": "641efce2f3d4eb666bfa0ca245eb9641",
+      "title": "5 nguyên tắc ăn quả cho người đái tháo đường",
+      "link": "https://vnexpress.net/5-nguyen-tac-an-qua-cho-nguoi-dai-thao-duong-5069347.html",
+      "summary": "Người bị đái tháo đường nên ưu tiên ăn táo, lê, cam nguyên múi, bưởi, ổi, dâu tây, việt quất..., hạn chế xoài chín, mít, nhãn, vải, sầu riêng, nho ngọt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:00:00+07:00",
+      "fetched": "2026-05-05T05:48:13.562692+07:00"
+    },
+    {
+      "id": "c56a48fbd362940f96a9dcdaa89700f5",
+      "title": "Nhiều người bắt đầu bị khóa SIM vì không xác thực",
+      "link": "https://vnexpress.net/nhieu-nguoi-bat-dau-bi-khoa-sim-vi-khong-xac-thuc-5067900.html",
+      "summary": "Hai tuần kể từ khi Thông tư 08 về xác thực thông tin di động có hiệu lực, nhiều thuê bao bị khóa vì chưa thực hiện theo quy định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:00:00+07:00",
+      "fetched": "2026-05-05T05:48:13.562849+07:00"
+    },
+    {
+      "id": "c16d529d100a826cb9ccdf0738f49f91",
+      "title": "Đề xuất miễn kiểm định lần đầu với xe được cải tạo chính hãng",
+      "link": "https://vnexpress.net/de-xuat-mien-kiem-dinh-lan-dau-voi-xe-duoc-cai-tao-chinh-hang-5069821.html",
+      "summary": "Tập đoàn Thành Công kiến nghị bổ sung trường hợp xe có thay đổi kết cấu do chính nhà sản xuất thực hiện vẫn được miễn kiểm định lần đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T22:00:00+07:00",
+      "fetched": "2026-05-05T05:48:13.562987+07:00"
+    },
+    {
+      "id": "69f8916f9e13cc91e3ca9d715fc4885e",
+      "title": "Nợ thuế 1 triệu đồng và bỏ địa điểm kinh doanh có thể bị cấm xuất cảnh",
+      "link": "https://vnexpress.net/no-thue-1-trieu-dong-va-bo-dia-diem-kinh-doanh-co-the-bi-cam-xuat-canh-5069644.html",
+      "summary": "Bộ Tài chính đề xuất tạm hoãn xuất cảnh với trường hợp nợ thuế từ 1 triệu đồng và không còn hoạt động tại địa chỉ đăng ký kinh doanh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-04T22:00:00+07:00",
+      "fetched": "2026-05-05T05:48:21.728807+07:00"
+    },
+    {
+      "id": "c56a48fbd362940f96a9dcdaa89700f5",
+      "title": "Nhiều người bắt đầu bị khóa SIM vì không xác thực",
+      "link": "https://vnexpress.net/nhieu-nguoi-bat-dau-bi-khoa-sim-vi-khong-xac-thuc-5067900.html",
+      "summary": "Hai tuần kể từ khi Thông tư 08 về xác thực thông tin di động có hiệu lực, nhiều thuê bao bị khóa vì chưa thực hiện theo quy định.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-04T22:00:00+07:00",
+      "fetched": "2026-05-05T05:48:24.674677+07:00"
+    },
+    {
+      "id": "f3cc27b61d6c1bfd2e66be9db6c3a27f",
+      "title": "Biển báo 'Bật đèn pha' khiến nhiều tài xế hiểu nhầm",
+      "link": "https://vnexpress.net/bien-bao-bat-den-pha-khien-nhieu-tai-xe-hieu-nham-5069679.html",
+      "summary": "Biển \"Bật đèn pha\" trước khi vào hầm khiến nhiều tài xế nghĩ là chế độ chiếu xa, trong khi luật yêu cầu đèn chiếu gần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T21:32:00+07:00",
+      "fetched": "2026-05-05T05:48:13.563118+07:00"
     },
     {
       "id": "fff6b93cdc96e3e372ce344d40d4898c",
