@@ -1,7 +1,17 @@
 window.newsData_2026_05_06 = {
   "date": "2026-05-06",
-  "lastUpdated": "2026-05-06T00:13:55.590386+07:00",
+  "lastUpdated": "2026-05-06T02:04:58.821134+07:00",
   "articles": [
+    {
+      "id": "a66a4a9b08506248a5fab802ce4e4120",
+      "title": "Thủ tướng yêu cầu kiện toàn lãnh đạo ACV, điều tra nhanh vi phạm ở sân bay Long Thành",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-kien-toan-lanh-dao-acv-dieu-tra-nhanh-vi-pham-o-san-bay-long-thanh-20260505233543663.htm",
+      "summary": "Thủ tướng yêu cầu Bộ Tài chính cần khẩn trương cho chủ trương về việc kiện toàn nhân sự chủ chốt tại Tổng công ty Cảng hàng không Việt Nam (ACV) theo quy định, hoàn thành dứt điểm trước ngày 7-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T02:04:53.389633+07:00",
+      "fetched": "2026-05-06T02:04:53.389822+07:00"
+    },
     {
       "id": "cdb6cffa86e7bbf055a22a19b14ef028",
       "title": "Cà Mau rà soát giao thông đường thủy sau vụ lật vỏ lãi chở khách tham quan",
@@ -153,6 +163,46 @@ window.newsData_2026_05_06 = {
       "fetched": "2026-05-06T00:13:50.095470+07:00"
     },
     {
+      "id": "219bf53074f4649c8187ab884932af17",
+      "title": "Hơn 80% người trẻ Mỹ nói 'kinh tế quốc gia tồi tệ'",
+      "link": "https://vnexpress.net/hon-80-nguoi-tre-my-noi-kinh-te-quoc-gia-toi-te-5070215.html",
+      "summary": "81% người Mỹ trong độ tuổi 18-34 đánh giá tình hình kinh tế nước này là tồi tệ hoặc rất tồi tệ, theo khảo sát mới của Generation Lab.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T19:00:00+07:00",
+      "fetched": "2026-05-06T02:04:49.617898+07:00"
+    },
+    {
+      "id": "eb0036b8276fd70ee413bc9ace40d589",
+      "title": "Ăn hải sản mỗi ngày, người đàn ông suy thận",
+      "link": "https://vnexpress.net/an-hai-san-moi-ngay-nguoi-dan-ong-suy-than-5069838.html",
+      "summary": "Kết quả xét nghiệm của ông Lý, 64 tuổi, cho thấy chức năng thận suy giảm nghiêm trọng do thói quen ăn hải sản quá độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T19:00:00+07:00",
+      "fetched": "2026-05-06T02:04:49.618091+07:00"
+    },
+    {
+      "id": "c66dd8550b6174a5fb9459c18860e9a0",
+      "title": "Nghiện thủ dâm có gây mất cảm giác thật?",
+      "link": "https://vnexpress.net/nghien-thu-dam-co-gay-mat-cam-giac-that-5069162.html",
+      "summary": "Bạn gái khuyên tôi không được thủ dâm vì gây mất cảm giác khi quan hệ thật, nhưng tôi thấy hành động này làm tăng cảm hứng, vậy tần suất thế nào là phù hợp? (Tùng, 25 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T18:04:00+07:00",
+      "fetched": "2026-05-06T02:04:49.618264+07:00"
+    },
+    {
+      "id": "2a53ff1cda3c011e3469543e1ffd9738",
+      "title": "Bắt đầu tập gym, sau bao lâu mới thấy kết quả?",
+      "link": "https://thanhnien.vn/bat-dau-tap-gym-sau-bao-lau-moi-thay-ket-qua-18526042400253272.htm",
+      "summary": "Khi mới tập gym, nhiều người kỳ vọng cơ thể sẽ thay đổi nhanh chóng chỉ sau vài tuần. Nhưng thực tế, quá trình này diễn ra theo từng giai đoạn và không phải lúc nào cũng nhìn thấy ngay kết quả bằng mắt thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T17:19:00+07:00",
+      "fetched": "2026-05-06T02:04:52.500133+07:00"
+    },
+    {
       "id": "ba722342e1e48b7f36dfe5c55081e084",
       "title": "Bưởi tươi: ít đường, tốt cho kiểm soát đường huyết nhưng cần ăn đúng cách",
       "link": "https://thanhnien.vn/buoi-tuoi-it-duong-tot-cho-kiem-soat-duong-huyet-nhung-can-an-dung-cach-185260505194506832.htm",
@@ -163,6 +213,46 @@ window.newsData_2026_05_06 = {
       "fetched": "2026-05-06T00:13:49.103075+07:00"
     },
     {
+      "id": "679bc5b7df914689f54e8246d2e7d24e",
+      "title": "Làm gì khi nhà phố hướng tây nắng chiều thẳng vào phòng ngủ?",
+      "link": "https://vnexpress.net/lam-gi-khi-nha-pho-huong-tay-nang-chieu-thang-vao-phong-ngu-5068134.html",
+      "summary": "Với ngân sách khoảng 100 triệu đồng, tôi đang băn khoăn chưa biết xử lý như nào để giảm nắng nóng cho nhà phố hướng tây ở TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T17:04:00+07:00",
+      "fetched": "2026-05-06T02:04:49.618427+07:00"
+    },
+    {
+      "id": "c3b1542f171bfc7c8058750ef02cc96d",
+      "title": "3 con giáp giàu có bất ngờ",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-3-con-giap-giau-co-bat-ngo-5070204.html",
+      "summary": "Với những con giáp này, tiền bạc không chỉ là may mắn mà còn là kết quả của việc biết đi đúng hướng vào đúng thời điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T17:02:00+07:00",
+      "fetched": "2026-05-06T02:04:49.618587+07:00"
+    },
+    {
+      "id": "c05a4146ebda4a6d7a9c11384db90f19",
+      "title": "Australia 'lời' hàng chục triệu AUD từ du học sinh trượt visa",
+      "link": "https://vnexpress.net/australia-loi-hang-chuc-trieu-aud-tu-du-hoc-sinh-truot-visa-5070093.html",
+      "summary": "Vì không hoàn lại phí xin visa, Australia thu về gần 10 triệu AUD từ nhóm trượt trong một tháng, bị chỉ trích là 'trục lợi' trên giấc mơ của du học sinh từ các nước nghèo hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T17:02:00+07:00",
+      "fetched": "2026-05-06T02:04:49.618778+07:00"
+    },
+    {
+      "id": "ead56af33f55baf75e283c8dfbedd83d",
+      "title": "5 thay đổi trên cơ thể cảnh báo thận hoạt động kém",
+      "link": "https://vnexpress.net/5-thay-doi-tren-co-the-canh-bao-than-hoat-dong-kem-5069744.html",
+      "summary": "Tiểu đêm nhiều, mệt mỏi kéo dài hay phù nhẹ ở mặt, mắt cá chân có thể là cảnh báo thận đang suy yếu nhưng không ít người bỏ qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T17:02:00+07:00",
+      "fetched": "2026-05-06T02:04:49.618944+07:00"
+    },
+    {
       "id": "a71889bfca46f0e282843c6fbe63d074",
       "title": "Các nhà hàng Mỹ thất thu vì giá xăng tăng",
       "link": "https://vnexpress.net/cac-nha-hang-my-that-thu-vi-gia-xang-tang-5070163.html",
@@ -171,6 +261,26 @@ window.newsData_2026_05_06 = {
       "category": "Kinh doanh",
       "published": "2026-05-05T17:01:00+07:00",
       "fetched": "2026-05-06T00:13:52.847843+07:00"
+    },
+    {
+      "id": "8a0aa85727fdd87bc765ea8d5d7a08d3",
+      "title": "Ấn Độ chào đón Tổng Bí thư, Chủ tịch nước Tô Lâm bằng điệu múa Cheraw",
+      "link": "https://vnexpress.net/an-do-chao-don-tong-bi-thu-chu-tich-nuoc-to-lam-bang-dieu-mua-cheraw-5070355.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm được Ấn Độ chào đón bằng điệu múa Cheraw truyền thống, giống nhảy sạp của Việt Nam, trong chuyến thăm cấp nhà nước 3 ngày tới quốc gia Nam Á này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T17:00:12+07:00",
+      "fetched": "2026-05-06T02:04:49.619420+07:00"
+    },
+    {
+      "id": "b0aea75aa52771d0c374494234778bf8",
+      "title": "Túi gạo 5 cân, rào cản 'nghìn tấn'",
+      "link": "https://vnexpress.net/tui-gao-5-can-rao-can-nghin-tan-5070339.html",
+      "summary": "Tôi gần đây gặp một doanh nhân trẻ khởi nghiệp ở Sóc Trăng, làm gạo thơm chất lượng cao, đóng gói 2 kg và 5 kg, có chứng nhận organic của EU. Một chuỗi siêu thị ở Đức ngỏ ý mua đều đặn 30 đến 50 tấn mỗi tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T17:00:07+07:00",
+      "fetched": "2026-05-06T02:04:49.619579+07:00"
     },
     {
       "id": "1bd028b40dbdaa0a932a9ee032794db3",
@@ -201,6 +311,46 @@ window.newsData_2026_05_06 = {
       "category": "Kinh doanh",
       "published": "2026-05-05T17:00:00+07:00",
       "fetched": "2026-05-06T00:13:52.848013+07:00"
+    },
+    {
+      "id": "6e27844ee54607fee3b2927602fca7f4",
+      "title": "Màn kịch 'đưa con đi học' của cha dượng bất nhân",
+      "link": "https://vnexpress.net/man-kich-dua-con-di-hoc-cua-cha-duong-bat-nhan-5070306.html",
+      "summary": "Yuuki Yamamoto lái xe đưa con riêng 11 tuổi của vợ đến trường dự lễ tốt nghiệp, nhưng sau đó cậu bé biến mất, giày và cặp sách lần lượt được tìm thấy trên núi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T17:00:00+07:00",
+      "fetched": "2026-05-06T02:04:49.619773+07:00"
+    },
+    {
+      "id": "5b19a15568b6481097b740e646972329",
+      "title": "Tốn 600 triệu học đại học nhưng lương thua bạn xuất khẩu lao động'",
+      "link": "https://vnexpress.net/ton-600-trieu-hoc-dai-hoc-nhung-luong-thua-ban-xuat-khau-lao-dong-5070239.html",
+      "summary": "5 năm làm việc cật lực, lương của tôi vẫn lẹt đẹt ở mức 15 triệu đồng một tháng, thua xa đứa bạn ở quê đi xuất khẩu lao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T17:00:00+07:00",
+      "fetched": "2026-05-06T02:04:49.619938+07:00"
+    },
+    {
+      "id": "273d0e2bdc9d2161b3f5a7f10d3791d5",
+      "title": "12 mỹ nhân mặc đẹp nhất Met Gala 2026",
+      "link": "https://vnexpress.net/12-my-nhan-mac-dep-nhat-met-gala-2026-5070221.html",
+      "summary": "Jisoo, Kendall Jenner, Hailey Bieber nằm trong nhóm sao được khen có phong cách thời trang hút mắt ở Met Gala 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T17:00:00+07:00",
+      "fetched": "2026-05-06T02:04:49.620097+07:00"
+    },
+    {
+      "id": "9c83bbbe7ce6013852973e7991fb28ea",
+      "title": "Biệt thự 500 m2 'giấu' không gian mở sau lớp vỏ bê tông",
+      "link": "https://vnexpress.net/biet-thu-500-m2-giau-khong-gian-mo-sau-lop-vo-be-tong-5070059.html",
+      "summary": "Lớp vỏ bê tông giúp công trình giảm tác động từ bên ngoài, trong khi không gian sống tổ chức mở quanh lõi thông tầng và sân vườn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T17:00:00+07:00",
+      "fetched": "2026-05-06T02:04:49.620258+07:00"
     },
     {
       "id": "91ef77b3b6396bc5741fa92c80d2e00a",
