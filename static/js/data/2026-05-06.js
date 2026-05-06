@@ -1,7 +1,157 @@
 window.newsData_2026_05_06 = {
   "date": "2026-05-06",
-  "lastUpdated": "2026-05-06T12:22:29.781705+07:00",
+  "lastUpdated": "2026-05-06T15:08:11.380704+07:00",
   "articles": [
+    {
+      "id": "126e164697b43608412a98a6ea5e377b",
+      "title": "Khởi tố giám đốc sản xuất 'dung dịch vệ sinh phụ nữ trầu không bạc hà' giả",
+      "link": "https://tuoitre.vn/khoi-to-giam-doc-san-xuat-dung-dich-ve-sinh-phu-nu-trau-khong-bac-ha-gia-20260506114758823.htm",
+      "summary": "Công an thành phố Hải Phòng đã khởi tố giám đốc doanh nghiệp sản xuất 'dung dịch vệ sinh phụ nữ trầu không bạc hà' giả số lượng lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.966431+07:00",
+      "fetched": "2026-05-06T15:08:01.966565+07:00"
+    },
+    {
+      "id": "2e5abbef32745d2635a11e5bb4fcf5cc",
+      "title": "Nhà đầu tư đổ vốn vào căn hộ cho thuê và khách sạn tại CH Czech",
+      "link": "https://tuoitre.vn/nha-dau-tu-do-von-vao-can-ho-cho-thue-va-khach-san-tai-ch-czech-20260506133418526.htm",
+      "summary": "Các nhà đầu tư đang chuyển hướng mạnh sang phân khúc căn hộ cho thuê và khách sạn tại CH Czech, với dòng vốn lên tới hàng tỉ korun trong những tháng đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.966307+07:00",
+      "fetched": "2026-05-06T15:08:01.966420+07:00"
+    },
+    {
+      "id": "e05c3b7b4b2b852046ec22825b4b78a8",
+      "title": "Diện mạo mới của cầu Long Biên sau thời gian cấm xe để sửa chữa",
+      "link": "https://tuoitre.vn/dien-mao-moi-cua-cau-long-bien-sau-thoi-gian-cam-xe-de-sua-chua-20260506120414061.htm",
+      "summary": "Cầu Long Biên đang trong quá trình sửa chữa kéo dài 2 tháng, đơn vị thi công đang đẩy nhanh tiến độ để phấn đấu hoàn thành vào ngày 27-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.966184+07:00",
+      "fetched": "2026-05-06T15:08:01.966297+07:00"
+    },
+    {
+      "id": "07e2513b28cc0bda569d07468a0d9e31",
+      "title": "Báo Trung Quốc: 'Chúng ta giờ đi sau cả Indonesia ở bóng đá'",
+      "link": "https://tuoitre.vn/bao-trung-quoc-chung-ta-gio-di-sau-ca-indonesia-o-bong-da-20260506130353494.htm",
+      "summary": "Truyền thông và người hâm mộ Trung Quốc bày tỏ thái độ ngao ngán khi đội U17 nước nhà nhận thất bại trước U17 Indonesia trong trận ra quân Giải U17 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.966058+07:00",
+      "fetched": "2026-05-06T15:08:01.966172+07:00"
+    },
+    {
+      "id": "a82caa1304b71e7f9015050ea402ddb4",
+      "title": "Dừng xe hơi choán gần hết làn ngược chiều, tài xế bị CSGT xử phạt",
+      "link": "https://tuoitre.vn/dung-xe-hoi-choan-gan-het-lan-nguoc-chieu-tai-xe-bi-csgt-xu-phat-20260506121011725.htm",
+      "summary": "Từ phản ánh trên mạng xã hội, cảnh sát giao thông tỉnh Đắk Lắk đã xác minh, lập biên bản xử phạt tài xế xe hơi dừng xe ngược chiều, cản trở giao thông trên quốc lộ 29.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.965928+07:00",
+      "fetched": "2026-05-06T15:08:01.966046+07:00"
+    },
+    {
+      "id": "22f6fafe058a02523176e21de5f4d232",
+      "title": "Festival hoa Đà Lạt diễn ra cả ở Phan Thiết, Gia Nghĩa",
+      "link": "https://tuoitre.vn/festival-hoa-da-lat-dien-ra-ca-o-phan-thiet-gia-nghia-20260506122926422.htm",
+      "summary": "Festival hoa Đà Lạt lần thứ XI - 2026 sẽ mở rộng ra toàn tỉnh Lâm Đồng, bao gồm các đô thị Phan Thiết và Gia Nghĩa, hướng tới mô hình 'Festival hoa quanh năm'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.965806+07:00",
+      "fetched": "2026-05-06T15:08:01.965917+07:00"
+    },
+    {
+      "id": "c5581da5ea9390bf6b41ed037af5124f",
+      "title": "Chủ tịch Hà Nội: Hạn chế tối đa việc áp dụng cưỡng chế khi giải phóng mặt bằng",
+      "link": "https://tuoitre.vn/chu-tich-ha-noi-han-che-toi-da-viec-ap-dung-cuong-che-khi-giai-phong-mat-bang-20260506121017247.htm",
+      "summary": "Sáng 6-5, Chủ tịch UBND TP Hà Nội Vũ Đại Thắng chủ trì cuộc họp tháo gỡ khó khăn, vướng mắc trong công tác giải phóng mặt bằng các dự án trọng điểm đường vành đai 2,5 và vành đai 3,5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.965683+07:00",
+      "fetched": "2026-05-06T15:08:01.965794+07:00"
+    },
+    {
+      "id": "c378b95f6bc9afe39f4caab68bea2aae",
+      "title": "Đoàn tụ sau 34 năm thất lạc nhờ dữ liệu dân cư quốc gia",
+      "link": "https://tuoitre.vn/doan-tu-sau-34-nam-that-lac-nho-du-lieu-dan-cu-quoc-gia-20260506132815338.htm",
+      "summary": "Sau hơn ba thập kỷ tìm kiếm trong vô vọng, người đàn ông ở Quảng Ngãi đã đoàn tụ với gia đình nhờ dữ liệu quốc gia về dân cư. Câu chuyện đoàn tụ của anh Phan Chí Hoàn cho thấy giá trị của dữ liệu quốc gia về dân cư trong đời sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.965555+07:00",
+      "fetched": "2026-05-06T15:08:01.965672+07:00"
+    },
+    {
+      "id": "f5664326f43ecd4b66cc41af36474355",
+      "title": "Môi chảy mủ, nhiễm trùng nặng sau tiêm ‘giải filler’",
+      "link": "https://tuoitre.vn/moi-chay-mu-nhiem-trung-nang-sau-tiem-giai-filler-20260506131818261.htm",
+      "summary": "Sau khi tiêm 'giải filler' tại một spa, cô gái 18 tuổi đến viện trong tình trạng môi dưới sưng nề, biến dạng, mưng mủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.965403+07:00",
+      "fetched": "2026-05-06T15:08:01.965542+07:00"
+    },
+    {
+      "id": "e03a124e26cdc2d031956d6e6b035d12",
+      "title": "Liều lĩnh nhảy, nằm trên mặt đường cao tốc, nhóm học sinh bị công an xử lý",
+      "link": "https://tuoitre.vn/lieu-linh-nhay-nam-tren-mat-duong-cao-toc-nhom-hoc-sinh-bi-cong-an-xu-ly-20260506131456724.htm",
+      "summary": "Nhóm 4 học sinh tại Quảng Trị lên cao tốc bắc nam đoạn Vũng Áng – Bùng nhảy, nằm trên mặt đường. Rất may công an xã đã phát hiện kịp thời và đưa về làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.965272+07:00",
+      "fetched": "2026-05-06T15:08:01.965386+07:00"
+    },
+    {
+      "id": "99a450faaee80679d4d08771e1fa8a71",
+      "title": "Mỹ hoãn Dự án Tự do, truyền thông Iran tuyên bố ông Trump 'chùn bước'",
+      "link": "https://tuoitre.vn/my-hoan-du-an-tu-do-truyen-thong-iran-tuyen-bo-ong-trump-chun-buoc-20260506131310316.htm",
+      "summary": "Truyền thông nhà nước Iran tuyên bố Mỹ “thất bại” trong Dự án Tự do sau khi ông Trump quyết định tạm dừng chiến dịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.965145+07:00",
+      "fetched": "2026-05-06T15:08:01.965261+07:00"
+    },
+    {
+      "id": "1a1582fb1c5d7ccb29e0277729c2668e",
+      "title": "Cá trên sông Lam tiếp tục chết lan xuống hạ lưu, người dân lo lắng",
+      "link": "https://tuoitre.vn/ca-tren-song-lam-tiep-tuc-chet-lan-xuong-ha-luu-nguoi-dan-lo-lang-20260506124523245.htm",
+      "summary": "Nhiều địa phương ở Nghệ An ghi nhận hiện tượng cá, tôm trên sông Lam chết chưa rõ nguyên nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.965015+07:00",
+      "fetched": "2026-05-06T15:08:01.965133+07:00"
+    },
+    {
+      "id": "14cc7f1405e2303a807f848fd87d3356",
+      "title": "Có thể nhờ tổ chức khác đóng thay BHXH được không?",
+      "link": "https://tuoitre.vn/co-the-nho-to-chuc-khac-dong-thay-bhxh-duoc-khong-20260506102241666.htm",
+      "summary": "Tôi nghỉ việc chưa đủ số năm đóng bảo hiểm xã hội để được hưởng lương hưu, vậy tôi có thể nhờ tổ chức khác đóng thay được không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.964885+07:00",
+      "fetched": "2026-05-06T15:08:01.965003+07:00"
+    },
+    {
+      "id": "c524aaa71b94f8bd3308501026b0b038",
+      "title": "Đề xuất sửa Luật Đất đai ngay trong năm nay, dự kiến có những thay đổi lớn",
+      "link": "https://tuoitre.vn/de-xuat-sua-luat-dat-dai-ngay-trong-nam-nay-du-kien-co-nhung-thay-doi-lon-20260506122515639.htm",
+      "summary": "Bộ Nông nghiệp và Môi trường đề xuất sửa Luật Đất đai trong năm 2026 nhằm tháo gỡ vướng mắc, đẩy mạnh phân cấp, phân quyền và khơi thông nguồn lực từ đất đai để đáp ứng yêu cầu về tăng trưởng kinh tế hai con số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.964742+07:00",
+      "fetched": "2026-05-06T15:08:01.964872+07:00"
+    },
+    {
+      "id": "2b2d521cd483cd828b875c789d8b9efc",
+      "title": "Đổ bậy xà bần, rác thải, tài xế xe tải bị tạm giữ phương tiện",
+      "link": "https://tuoitre.vn/do-bay-xa-ban-rac-thai-tai-xe-xe-tai-bi-tam-giu-phuong-tien-2026050612283443.htm",
+      "summary": "Lực lượng chức năng của phường Sơn Trà (Đà Nẵng) đã phát hiện một trường hợp sử dụng ô tô tải để đổ bậy xà bần, rác thải trên địa bàn. Phương tiện vi phạm đã bị tạm giữ để xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:08:01.964515+07:00",
+      "fetched": "2026-05-06T15:08:01.964727+07:00"
+    },
     {
       "id": "89c6d75cec074c6b14e58fb5432883a1",
       "title": "Sinh viên học gì từ quy trình sản xuất thực tế chuẩn xanh, Net Zero?",
@@ -301,6 +451,286 @@ window.newsData_2026_05_06 = {
       "category": "Tổng hợp",
       "published": "2026-05-06T08:56:00.397085+07:00",
       "fetched": "2026-05-06T08:56:00.397338+07:00"
+    },
+    {
+      "id": "44d9871b43a40464a1e490d1f3e5635a",
+      "title": "Chủ tịch OpenAI nói về sự 'bất nhất' của Elon Musk",
+      "link": "https://vnexpress.net/chu-tich-openai-noi-ve-su-bat-nhat-cua-elon-musk-5070412.html",
+      "summary": "Greg Brockman, nhà đồng sáng lập kiêm Chủ tịch OpenAI, cho biết Elon Musk từng đề nghị làm CEO công ty và chuyển sang mô hình vì lợi nhuận nhưng bị từ chối.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-06T07:56:27+07:00",
+      "fetched": "2026-05-06T15:08:09.360315+07:00"
+    },
+    {
+      "id": "1aee5c3a5f909b3096a93e7f8b39ccaa",
+      "title": "Vì sao Petrolimex lỗ nặng nhất 6 năm?",
+      "link": "https://vnexpress.net/vi-sao-petrolimex-lo-nang-nhat-6-nam-5070631.html",
+      "summary": "Quý I, Petrolimex đạt doanh thu cao nhất 13 năm nhưng vẫn báo lỗ 662 tỷ đồng, chủ yếu do trích lập dự phòng tồn kho khi giá xăng lên cao theo chiến sự.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-06T07:50:47+07:00",
+      "fetched": "2026-05-06T15:08:05.748787+07:00"
+    },
+    {
+      "id": "c4f301cdcb5e1042527a558736462e0c",
+      "title": "Chủ nhà hàng gốc Việt tử vong tại nhà riêng cùng chồng con",
+      "link": "https://vnexpress.net/chu-nha-hang-goc-viet-tu-vong-tai-nha-rieng-cung-chong-con-5070542.html",
+      "summary": "Bà Thy Mitchell cùng hai con bị bắn chết tại nhà riêng ở Houston, giới chức nghi ngờ người chồng đã sát hại vợ con rồi tự sát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-06T07:34:57+07:00",
+      "fetched": "2026-05-06T15:08:04.015439+07:00"
+    },
+    {
+      "id": "36372ef2f0bff217ed289aac4c48ff18",
+      "title": "Giá gà và trứng lao dốc, người nuôi lỗ nặng",
+      "link": "https://vnexpress.net/gia-ga-va-trung-lao-doc-nguoi-nuoi-lo-nang-5070533.html",
+      "summary": "Giá gà tại Đông Nam Bộ lao dốc, nhiều loại xuống dưới giá thành, trong khi trứng giảm về mức thấp nhất nhiều năm, khiến người nuôi thua lỗ kéo dài.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-06T07:32:13+07:00",
+      "fetched": "2026-05-06T15:08:05.748957+07:00"
+    },
+    {
+      "id": "07d75da3fe7059cdb2e413aad54a2c8b",
+      "title": "Tên lửa Flamingo Ukraine tập kích 'nhà máy thiết bị dẫn đường' của Nga",
+      "link": "https://vnexpress.net/ten-lua-flamingo-ukraine-tap-kich-nha-may-thiet-bi-dan-duong-cua-nga-5070458.html",
+      "summary": "Ukraine phóng hàng loạt tên lửa Flamingo và UAV nhằm vào mục tiêu ở Nga, trong đó dường như có nhà máy sản xuất thiết bị dẫn đường Kometa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-06T07:26:44+07:00",
+      "fetched": "2026-05-06T15:08:04.015639+07:00"
+    },
+    {
+      "id": "96a449a3424d5d385e9cd67049997e74",
+      "title": "Việt Nam – Yemen: Bắt đầu săn vé U17 World Cup",
+      "link": "https://vnexpress.net/viet-nam-yemen-bat-dau-san-ve-u17-world-cup-5070352.html",
+      "summary": "Thầy trò HLV Cristiano Roland sẽ bắt đầu chiến dịch săn vé dự giải thế giới từ hôm nay, bằng trận ra quân vòng chung kết U17 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T07:06:48+07:00",
+      "fetched": "2026-05-06T15:07:27.989874+07:00"
+    },
+    {
+      "id": "96a449a3424d5d385e9cd67049997e74",
+      "title": "Việt Nam – Yemen: Bắt đầu săn vé U17 World Cup",
+      "link": "https://vnexpress.net/viet-nam-yemen-bat-dau-san-ve-u17-world-cup-5070352.html",
+      "summary": "Thầy trò HLV Cristiano Roland sẽ bắt đầu chiến dịch săn vé dự giải thế giới từ hôm nay, bằng trận ra quân vòng chung kết U17 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-06T07:06:48+07:00",
+      "fetched": "2026-05-06T15:08:11.371945+07:00"
+    },
+    {
+      "id": "c36764590ad770b76c86b81d0f43116d",
+      "title": "Jorge Valdano: 'PSG - Bayern là thứ bóng đá đúng nghĩa'",
+      "link": "https://vnexpress.net/jorge-valdano-psg-bayern-la-thu-bong-da-dung-nghia-5070378.html",
+      "summary": "Trên mục góc nhìn của báo Tây Ban Nha El Pais, cựu HLV và CEO Real Madrid Jorge Valdano đánh giá cặp PSG - Bayern ở bán kết Champions League chứng minh khát vọng đã cởi trói bóng đá khỏi những xiềng xích của sự rập khuôn dễ đoán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T07:05:37+07:00",
+      "fetched": "2026-05-06T15:07:27.990052+07:00"
+    },
+    {
+      "id": "c36764590ad770b76c86b81d0f43116d",
+      "title": "Jorge Valdano: 'PSG - Bayern là thứ bóng đá đúng nghĩa'",
+      "link": "https://vnexpress.net/jorge-valdano-psg-bayern-la-thu-bong-da-dung-nghia-5070378.html",
+      "summary": "Trên mục góc nhìn của báo Tây Ban Nha El Pais, cựu HLV và CEO Real Madrid Jorge Valdano đánh giá cặp PSG - Bayern ở bán kết Champions League chứng minh khát vọng đã cởi trói bóng đá khỏi những xiềng xích của sự rập khuôn dễ đoán.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-06T07:05:37+07:00",
+      "fetched": "2026-05-06T15:08:11.372121+07:00"
+    },
+    {
+      "id": "1058921c78f0fc9c17a9725bfff3c6d9",
+      "title": "Enrique: 'PSG đấu Bayern như Nadal gặp Federer, Djokovic'",
+      "link": "https://vnexpress.net/enrique-psg-dau-bayern-nhu-nadal-gap-federer-djokovic-5070360.html",
+      "summary": "HLV Luis Enrique ví cuộc chạm trán giữa PSG và Bayern như màn cạnh tranh đỉnh cao giữa nhóm \"Big 3\" trong tennis - nơi đối thủ lớn trở thành động lực đưa nhau tới phiên bản tốt nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T07:00:44+07:00",
+      "fetched": "2026-05-06T15:07:27.990225+07:00"
+    },
+    {
+      "id": "1058921c78f0fc9c17a9725bfff3c6d9",
+      "title": "Enrique: 'PSG đấu Bayern như Nadal gặp Federer, Djokovic'",
+      "link": "https://vnexpress.net/enrique-psg-dau-bayern-nhu-nadal-gap-federer-djokovic-5070360.html",
+      "summary": "HLV Luis Enrique ví cuộc chạm trán giữa PSG và Bayern như màn cạnh tranh đỉnh cao giữa nhóm \"Big 3\" trong tennis - nơi đối thủ lớn trở thành động lực đưa nhau tới phiên bản tốt nhất.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-06T07:00:44+07:00",
+      "fetched": "2026-05-06T15:08:11.372816+07:00"
+    },
+    {
+      "id": "0722c0883059880364f08219ce406153",
+      "title": "Muller: 'Trận Bayern - PSG sẽ không hỗn loạn như lượt đi'",
+      "link": "https://vnexpress.net/muller-tran-bayern-psg-se-khong-hon-loan-nhu-luot-di-5070342.html",
+      "summary": "Trái với lượt đi, tiền đạo Thomas Muller dự đoán trận lượt về bán kết Champions League giữa đội bóng cũ Bayern với PSG sẽ diễn ra chặt chẽ và toan tính hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T07:00:00+07:00",
+      "fetched": "2026-05-06T15:07:27.990383+07:00"
+    },
+    {
+      "id": "902cd6050d86870f1a63c2b949146066",
+      "title": "Loạt smartphone tích hợp AI tầm giá 10 triệu đồng",
+      "link": "https://vnexpress.net/loat-smartphone-tich-hop-ai-tam-gia-10-trieu-dong-5057401.html",
+      "summary": "Các smartphone trong phân khúc giá 10 triệu đồng từ Samsung, Xiaomi, Vivo, Oppo trang bị nhiều tính năng AI phục vụ đa dạng nhu cầu, đặt biệt là giới trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T07:00:00+07:00",
+      "fetched": "2026-05-06T15:07:27.990595+07:00"
+    },
+    {
+      "id": "148dfea612f4ab6fe88fefafa88cb2cd",
+      "title": "4 món giàu carbohydrate làm tăng đường huyết đột biến",
+      "link": "https://vnexpress.net/4-mon-giau-carbohydrate-lam-tang-duong-huyet-dot-bien-5070497.html",
+      "summary": "Nước ngọt, nước ép trái cây, kẹo có lượng đường cao nhưng ít chất xơ, có thể khiến lượng đường trong máu tăng nhanh sau giảm đột ngột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T07:00:00+07:00",
+      "fetched": "2026-05-06T15:07:27.990760+07:00"
+    },
+    {
+      "id": "902cd6050d86870f1a63c2b949146066",
+      "title": "Loạt smartphone tích hợp AI tầm giá 10 triệu đồng",
+      "link": "https://vnexpress.net/loat-smartphone-tich-hop-ai-tam-gia-10-trieu-dong-5057401.html",
+      "summary": "Các smartphone trong phân khúc giá 10 triệu đồng từ Samsung, Xiaomi, Vivo, Oppo trang bị nhiều tính năng AI phục vụ đa dạng nhu cầu, đặt biệt là giới trẻ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-06T07:00:00+07:00",
+      "fetched": "2026-05-06T15:08:09.360838+07:00"
+    },
+    {
+      "id": "0722c0883059880364f08219ce406153",
+      "title": "Muller: 'Trận Bayern - PSG sẽ không hỗn loạn như lượt đi'",
+      "link": "https://vnexpress.net/muller-tran-bayern-psg-se-khong-hon-loan-nhu-luot-di-5070342.html",
+      "summary": "Trái với lượt đi, tiền đạo Thomas Muller dự đoán trận lượt về bán kết Champions League giữa đội bóng cũ Bayern với PSG sẽ diễn ra chặt chẽ và toan tính hơn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-06T07:00:00+07:00",
+      "fetched": "2026-05-06T15:08:11.372284+07:00"
+    },
+    {
+      "id": "d7a750a7856dc9ec0b546a1b1250beac",
+      "title": "Founder Dat Bike: 'Viên pin là mấu chốt làm chủ công nghệ xe điện'",
+      "link": "https://vnexpress.net/founder-dat-bike-vien-pin-la-mau-chot-lam-chu-cong-nghe-xe-dien-5070335.html",
+      "summary": "Nhà sáng lập Dat Bike tiết lộ lý do viên pin của hãng to và vượt trội so với nhiều hãng khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T06:55:38+07:00",
+      "fetched": "2026-05-06T15:07:27.990925+07:00"
+    },
+    {
+      "id": "ea3c7edd2242e4c7ff1ef777c5787340",
+      "title": "Trường đại học loại môn Tin khỏi tổ hợp xét tuyển ngành Y",
+      "link": "https://vnexpress.net/truong-dai-hoc-loai-mon-tin-khoi-to-hop-xet-tuyen-nganh-y-5070343.html",
+      "summary": "Môn Sinh trở lại, trong khi các môn Tin học, Giáo dục kinh tế và pháp luật được bỏ nên 4 trong 5 tổ hợp xét tuyển khối Khoa học sức khỏe của trường Đại học Văn Lang thay đổi so với trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T06:55:14+07:00",
+      "fetched": "2026-05-06T15:07:27.991082+07:00"
+    },
+    {
+      "id": "d0ac8cecb1d358a1a1c51fd6e77ef636",
+      "title": "Cô gái gen Z tìm người thương",
+      "link": "https://vnexpress.net/co-gai-gen-z-tim-nguoi-thuong-5070503.html",
+      "summary": "25 tuổi nhưng em thấy mình giống một đứa con nít lắm, sợ mình sẽ không phù hợp nếu anh lớn hơn em quá nhiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T06:53:24+07:00",
+      "fetched": "2026-05-06T15:07:27.991186+07:00"
+    },
+    {
+      "id": "5b58bb4a578b45a04b7d0e081a94d1e3",
+      "title": "Lý do có thể khiến ông Trump dừng chiến dịch hộ tống ở Hormuz",
+      "link": "https://vnexpress.net/ly-do-co-the-khien-ong-trump-dung-chien-dich-ho-tong-o-hormuz-5070400.html",
+      "summary": "Quyết định dừng chiến dịch hộ tống ở eo biển Hormuz chỉ sau một ngày triển khai cho thấy Tổng thống Trump có thể đang có những tính toán ngoại giao, quân sự phức tạp với Iran, theo các chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T06:48:23+07:00",
+      "fetched": "2026-05-06T15:07:27.991346+07:00"
+    },
+    {
+      "id": "5b58bb4a578b45a04b7d0e081a94d1e3",
+      "title": "Lý do có thể khiến ông Trump dừng chiến dịch hộ tống ở Hormuz",
+      "link": "https://vnexpress.net/ly-do-co-the-khien-ong-trump-dung-chien-dich-ho-tong-o-hormuz-5070400.html",
+      "summary": "Quyết định dừng chiến dịch hộ tống ở eo biển Hormuz chỉ sau một ngày triển khai cho thấy Tổng thống Trump có thể đang có những tính toán ngoại giao, quân sự phức tạp với Iran, theo các chuyên gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-06T06:48:23+07:00",
+      "fetched": "2026-05-06T15:08:04.015802+07:00"
+    },
+    {
+      "id": "7a78a536f4bb0ebee70a6ceb73d2e4f5",
+      "title": "Từ 15/5, bán thuốc kê đơn thiếu chỉ định bác sĩ bị phạt 20 triệu đồng",
+      "link": "https://vnexpress.net/tu-15-5-ban-thuoc-ke-don-thieu-chi-dinh-bac-si-bi-phat-20-trieu-dong-5070578.html",
+      "summary": "Hành vi bán thuốc kê đơn khi không có chỉ định bác sĩ sẽ bị phạt từ 10 đến 20 triệu đồng, tăng gấp đôi so với mức cũ, nhằm siết tình trạng bán thuốc tùy tiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T06:41:06+07:00",
+      "fetched": "2026-05-06T15:07:27.991521+07:00"
+    },
+    {
+      "id": "446a4c165643159ec63c933facd0f711",
+      "title": "Taxi tự lái thả khách ở sân bay rồi chở hành lý chạy mất",
+      "link": "https://vnexpress.net/taxi-tu-lai-tha-khach-o-san-bay-roi-cho-hanh-ly-chay-mat-5070387.html",
+      "summary": "Vị khách xuống xe ở sân bay San Jose nhưng không thể mở cốp, rồi chiếc robotaxi nhanh chóng chạy đi mang theo hành lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T06:30:00+07:00",
+      "fetched": "2026-05-06T15:07:27.991681+07:00"
+    },
+    {
+      "id": "29475920c0213ddea6deea27afe92605",
+      "title": "Ai an toàn nhất?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-thu-tai-suy-luan-ai-an-toan-nhat-5070295.html",
+      "summary": "Câu đố này không chỉ hỏi \"ai an toàn nhất\" mà còn thử luôn khả năng quan sát và phản xạ logic của bạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T06:17:00+07:00",
+      "fetched": "2026-05-06T15:07:27.991838+07:00"
+    },
+    {
+      "id": "7db37659e8d3d784b25a9f5356762843",
+      "title": "Thủ tục đất đai tại TP HCM dự kiến làm trực tuyến toàn bộ từ 2027",
+      "link": "https://vnexpress.net/thu-tuc-dat-dai-tai-tp-hcm-du-kien-lam-truc-tuyen-toan-bo-tu-2027-5070105.html",
+      "summary": "Thành phố lên kế hoạch hoàn tất hạ tầng dữ liệu đất đai vào cuối năm nay, tiến tới từ đầu năm 2027 sẽ thực hiện trực tuyến 100% thủ tục hành chính về đất đai đủ điều kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T06:11:16+07:00",
+      "fetched": "2026-05-06T15:07:27.991995+07:00"
+    },
+    {
+      "id": "dc1909149219d569a5970a54dcb2f3fb",
+      "title": "Việt Nam xác định 10 nhóm công nghệ chiến lược",
+      "link": "https://vnexpress.net/viet-nam-xac-dinh-10-nhom-cong-nghe-chien-luoc-5070604.html",
+      "summary": "Chính phủ ban hành quyết định về 10 nhóm công nghệ chiến lược và 30 sản phẩm công nghệ chiến lược mà Việt Nam ưu tiên phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T06:00:00+07:00",
+      "fetched": "2026-05-06T15:07:27.992150+07:00"
+    },
+    {
+      "id": "dc1909149219d569a5970a54dcb2f3fb",
+      "title": "Việt Nam xác định 10 nhóm công nghệ chiến lược",
+      "link": "https://vnexpress.net/viet-nam-xac-dinh-10-nhom-cong-nghe-chien-luoc-5070604.html",
+      "summary": "Chính phủ ban hành quyết định về 10 nhóm công nghệ chiến lược và 30 sản phẩm công nghệ chiến lược mà Việt Nam ưu tiên phát triển.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-06T06:00:00+07:00",
+      "fetched": "2026-05-06T15:08:09.360510+07:00"
+    },
+    {
+      "id": "4dd09db2e51b5bd1767411cbb276c292",
+      "title": "Giá vàng lên 166 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-hom-nay-5070590.html",
+      "summary": "Mỗi lượng vàng tăng 2,5 triệu đồng lúc mở cửa, lên hơn 167 triệu, sau đó giảm nhẹ về 166 triệu đồng một lượng trưa nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-06T05:33:48+07:00",
+      "fetched": "2026-05-06T15:08:05.749118+07:00"
     },
     {
       "id": "d8c5c63da3d0528974054367b97d70a5",
