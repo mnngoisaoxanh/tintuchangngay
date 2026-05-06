@@ -1,7 +1,17 @@
 window.newsData_2026_05_07 = {
   "date": "2026-05-07",
-  "lastUpdated": "2026-05-07T02:22:40.756599+07:00",
+  "lastUpdated": "2026-05-07T04:02:30.802102+07:00",
   "articles": [
+    {
+      "id": "d64a21601ae23e0ee8320c74eb067f9e",
+      "title": "Việt Nam đánh bại Yemen ở trận ra quân Giải U17 châu Á 2026",
+      "link": "https://tuoitre.vn/viet-nam-danh-bai-yemen-o-tran-ra-quan-giai-u17-chau-a-2026-20260506105103176.htm",
+      "summary": "Rạng sáng 7-5, U17 Việt Nam đã đánh bại U17 Yemen 1-0 ở trận ra quân bảng C Giải U17 châu Á 2026 tại Saudi Arabia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T04:02:22.674801+07:00",
+      "fetched": "2026-05-07T04:02:22.674937+07:00"
+    },
     {
       "id": "0de4910059fa1b2c89926b96b9fe3560",
       "title": "U17 Việt Nam - U17 Yemen (hiệp 1) 0-0: Đại Nhân lại bỏ lỡ cơ hội",
@@ -161,6 +171,56 @@ window.newsData_2026_05_07 = {
       "category": "Tổng hợp",
       "published": "2026-05-07T00:25:17.937136+07:00",
       "fetched": "2026-05-07T00:25:17.937296+07:00"
+    },
+    {
+      "id": "00b515a1eb8ae66ddc54a56951361baf",
+      "title": "Giật mình nửa đêm rồi khó ngủ lại: Khi nào cần đi khám?",
+      "link": "https://thanhnien.vn/giat-minh-nua-dem-roi-kho-ngu-lai-khi-nao-can-di-kham-185260506200652729.htm",
+      "summary": "Nhiều người từng trải qua cảm giác đang ngủ ngon thì bất ngờ tỉnh giấc lúc nửa đêm, nhìn đồng hồ thấy mới 2 - 3 giờ sáng rồi trằn trọc mãi không ngủ lại được. Đôi khi, thức giấc giữa đêm có thể là dấu hiệu bất thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:04:00+07:00",
+      "fetched": "2026-05-07T04:02:21.189239+07:00"
+    },
+    {
+      "id": "b509e0bf8ae1b8bcfdb310dd5a4b70db",
+      "title": "U.17 Việt Nam thắng quả cảm Yemen, mở toang cánh cửa World Cup",
+      "link": "https://thanhnien.vn/u17-viet-nam-thang-qua-cam-yemen-mo-toang-canh-cua-world-cup-185260506232924074.htm",
+      "summary": "Chiến thắng 1-0 trước U.17 Yemen giúp U.17 Việt Nam tạo lợi thế trên đường đua giành vé vượt qua vòng bảng VCK U.17 châu Á 2026, tương đương suất dự U.17 World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T19:49:00+07:00",
+      "fetched": "2026-05-07T04:02:21.189406+07:00"
+    },
+    {
+      "id": "82154dfa3adf56ee44aca78a2286a906",
+      "title": "Bảng xếp hạng U.17 châu Á mới nhất: U.17 Việt Nam bất ngờ dẫn đầu, Hàn Quốc và UAE cùng tốp 2",
+      "link": "https://thanhnien.vn/bang-xep-hang-u17-chau-a-moi-nhat-u17-viet-nam-bat-ngo-dan-dau-han-quoc-va-uae-cung-top-2-185260507022841026.htm",
+      "summary": "Sau lượt trận đầu tiên trong khuôn khổ bảng C U.17 châu Á 2026, U.17 Việt Nam dẫn đầu bảng C với 3 điểm, trong khi U.17 Hàn Quốc và U.17 UAE xếp sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T19:34:00+07:00",
+      "fetched": "2026-05-07T04:02:21.189590+07:00"
+    },
+    {
+      "id": "8ec864ff6645371117e62d06bfb3eb0b",
+      "title": "Việt Nam lần đầu thắng ở VCK U17 châu Á sau 10 năm",
+      "link": "https://vnexpress.net/viet-nam-lan-dau-thang-o-vck-u17-chau-a-sau-10-nam-5070840.html",
+      "summary": "Việt Nam hạ Yemen 1-0 ở lượt ra quân bảng C vòng chung kết U17 châu Á 2026 rạng sáng nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T19:07:03+07:00",
+      "fetched": "2026-05-07T04:02:17.850293+07:00"
+    },
+    {
+      "id": "8ec864ff6645371117e62d06bfb3eb0b",
+      "title": "Việt Nam lần đầu thắng ở VCK U17 châu Á sau 10 năm",
+      "link": "https://vnexpress.net/viet-nam-lan-dau-thang-o-vck-u17-chau-a-sau-10-nam-5070840.html",
+      "summary": "Việt Nam hạ Yemen 1-0 ở lượt ra quân bảng C vòng chung kết U17 châu Á 2026 rạng sáng nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-06T19:07:03+07:00",
+      "fetched": "2026-05-07T04:02:30.796899+07:00"
     },
     {
       "id": "5c82a907162ea5bf75604c45578f0a39",
