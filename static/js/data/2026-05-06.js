@@ -1,7 +1,157 @@
 window.newsData_2026_05_06 = {
   "date": "2026-05-06",
-  "lastUpdated": "2026-05-06T18:45:38.031873+07:00",
+  "lastUpdated": "2026-05-06T20:29:52.390173+07:00",
   "articles": [
+    {
+      "id": "6b7f2dbb1d882d394369d0463f30af2f",
+      "title": "Ajinomoto bứt phá trên bảng xếp hạng giá trị thương hiệu tại Nhật Bản",
+      "link": "https://tuoitre.vn/ajinomoto-but-pha-tren-bang-xep-hang-gia-tri-thuong-hieu-tai-nhat-ban-20260506174830229.htm",
+      "summary": "Bảng xếp hạng “Thương hiệu hàng đầu Nhật Bản 2026” ghi nhận sự tăng trưởng ấn tượng của Ajinomoto, với giá trị thương hiệu đạt 2,4 tỷ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.749901+07:00",
+      "fetched": "2026-05-06T20:29:44.750023+07:00"
+    },
+    {
+      "id": "7bb07120f384e864c574f7351cc58d94",
+      "title": "Bắt quả tang nhóm khai thác trái phép 3.000m³ đất mặt ruộng ở Tây Ninh",
+      "link": "https://tuoitre.vn/bat-qua-tang-nhom-khai-thac-trai-phep-3-000m-dat-mat-ruong-o-tay-ninh-20260506174344702.htm",
+      "summary": "Nhóm 6 người khai thác, vận chuyển khoảng 3.000m³ đất mặt ruộng tại khu vực biên giới Tây Ninh đem bán bị công an bắt quả tang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.749768+07:00",
+      "fetched": "2026-05-06T20:29:44.749890+07:00"
+    },
+    {
+      "id": "0eda6aa54ea24968dea5cd6ba7c1e022",
+      "title": "Đã thu khoảng 11.400 tỉ đồng từ đấu giá biển số xe, loạt biển ngũ quý lại sắp lên sàn",
+      "link": "https://tuoitre.vn/da-thu-khoang-11-400-ti-dong-tu-dau-gia-bien-so-xe-loat-bien-ngu-quy-lai-sap-len-san-20260506182904318.htm",
+      "summary": "Phiên đấu giá biển số xe thứ 10 sẽ diễn ra từ 11-5 với hơn 1,4 triệu biển lên sàn, nhiều số đẹp, ngũ quý; thời gian cấp xác nhận được rút ngắn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.749622+07:00",
+      "fetched": "2026-05-06T20:29:44.749736+07:00"
+    },
+    {
+      "id": "d84ce07fbe82e58a1a0470e488fecfc9",
+      "title": "Phá đường dây lừa đảo thi, cấp chứng chỉ ngoại ngữ 'Học viện Bright online LL' cho 80.000 người",
+      "link": "https://tuoitre.vn/pha-duong-day-lua-dao-thi-cap-chung-chi-ngoai-ngu-hoc-vien-bright-online-ll-cho-80-000-nguoi-20260506181917613.htm",
+      "summary": "Trước khi bị triệt phá, đường dây này tổ chức cho 80.000 người thi và thu lợi bất chính gần 200 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.749498+07:00",
+      "fetched": "2026-05-06T20:29:44.749608+07:00"
+    },
+    {
+      "id": "50f2fa393c0615456e85d982e670375b",
+      "title": "Netflix Việt Nam 'rã đông', nhiều anime và phim Hàn cập nhật trở lại",
+      "link": "https://tuoitre.vn/netflix-viet-nam-ra-dong-nhieu-anime-va-phim-han-cap-nhat-tro-lai-2026050618261014.htm",
+      "summary": "Sau gần hai tuần chậm cập nhật nội dung, Netflix Việt Nam đã bắt đầu bổ sung trở lại nhiều phim Hàn, anime và series quốc tế, giúp khán giả phần nào yên tâm sau thời gian phải chuyển nền tảng theo dõi phim.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.749372+07:00",
+      "fetched": "2026-05-06T20:29:44.749487+07:00"
+    },
+    {
+      "id": "63f77bfa35a2c392f75721f51f1970e1",
+      "title": "Thúc tiến độ quốc lộ 13: TP.HCM chốt bàn giao toàn bộ mặt bằng vào 30-7",
+      "link": "https://tuoitre.vn/thuc-tien-do-quoc-lo-13-tp-hcm-chot-ban-giao-toan-bo-mat-bang-vao-30-7-20260506181401946.htm",
+      "summary": "Chiều 6-5, đoàn công tác do Phó chủ tịch UBND TP.HCM Hoàng Nguyên Dinh dẫn đầu đã khảo sát hiện trạng, tiến độ bồi thường, giải phóng mặt bằng dự án nâng cấp, mở rộng quốc lộ 13 (từ cầu Bình Triệu đến giáp tỉnh Bình Dương cũ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.749247+07:00",
+      "fetched": "2026-05-06T20:29:44.749361+07:00"
+    },
+    {
+      "id": "284586f710ecd32a2252ccb9077ef44f",
+      "title": "Chủ tịch TP Đồng Nai yêu cầu khắc phục ùn tắc do container sầu riêng ở Dầu Giây",
+      "link": "https://tuoitre.vn/chu-tich-tp-dong-nai-yeu-cau-khac-phuc-un-tac-do-container-sau-rieng-o-dau-giay-20260506184842262.htm",
+      "summary": "Liên quan vụ 'Chờ kiểm định sầu riêng xuất khẩu, container đậu kín đường quanh bến xe Dầu Giây', Chủ tịch TP Đồng Nai chỉ đạo các sở ngành, địa phương nhanh chóng khắc phục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.749118+07:00",
+      "fetched": "2026-05-06T20:29:44.749235+07:00"
+    },
+    {
+      "id": "a672c332790a0d4687aaad135f82020d",
+      "title": "Bộ trưởng Hoàng Minh Sơn: Trọng tâm thời gian tới là phát triển, sắp xếp các trường đại học",
+      "link": "https://tuoitre.vn/bo-truong-hoang-minh-son-trong-tam-thoi-gian-toi-la-phat-trien-sap-xep-cac-truong-dai-hoc-2026050618242899.htm",
+      "summary": "Bộ trưởng Hoàng Minh Sơn yêu cầu đổi mới quản lý đại học, chuyển từ kiểm soát sang kiến tạo, đặt trọng tâm hỗ trợ trường, sinh viên, giảng viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.748994+07:00",
+      "fetched": "2026-05-06T20:29:44.749107+07:00"
+    },
+    {
+      "id": "ac253d02a65cb23e28b44b0dfc79c3dd",
+      "title": "Giá vàng tăng không ngừng khi Mỹ - Iran sắp đạt thỏa thuận chấm dứt chiến tranh",
+      "link": "https://tuoitre.vn/gia-vang-tang-khong-ngung-khi-my-iran-sap-dat-thoa-thuan-cham-dut-chien-tranh-20260506190821399.htm",
+      "summary": "18h30 hôm nay 6-5, giá vàng thế giới đã chạm mức 4.717 USD/ounce, tăng đến 158 USD/ounce so với đầu phiên sau khi có thông tin Mỹ - Iran đang tiến gần đến một thỏa thuận hòa bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.748866+07:00",
+      "fetched": "2026-05-06T20:29:44.748982+07:00"
+    },
+    {
+      "id": "8a2923ec3b901be3a726449f83ba9634",
+      "title": "Chủ tịch TP.HCM Nguyễn Văn Được: Cơ bản đã gỡ vướng 838 dự án tồn đọng, tiếp tục rà soát để gỡ thêm",
+      "link": "https://tuoitre.vn/chu-tich-tp-hcm-nguyen-van-duoc-co-ban-da-go-vuong-838-du-an-ton-dong-tiep-tuc-ra-soat-de-go-them-20260506190426556.htm",
+      "summary": "Sau gần 1 năm, TP.HCM cơ bản tháo gỡ vướng mắc cho 838 dự án, công trình, khu đất tồn đọng, vướng mắc và đang tiếp tục rà soát để gỡ thêm các công trình, dự án tồn đọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.748711+07:00",
+      "fetched": "2026-05-06T20:29:44.748853+07:00"
+    },
+    {
+      "id": "01a27236725302fba077a7be1d05f530",
+      "title": "Cao tốc nội thị từ trung tâm Đà Nẵng đến Chu Lai sẽ đi qua 17 xã, phường",
+      "link": "https://tuoitre.vn/cao-toc-noi-thi-tu-trung-tam-da-nang-den-chu-lai-se-di-qua-17-xa-phuong-20260506190504808.htm",
+      "summary": "Đường cao tốc nội thị từ trung tâm Đà Nẵng đến Chu Lai sẽ đi qua 17 xã, phường. Dự kiến tháng 10-2027 hoàn thành đấu thầu lựa chọn nhà thầu thi công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.748584+07:00",
+      "fetched": "2026-05-06T20:29:44.748700+07:00"
+    },
+    {
+      "id": "269f802c65332b7e71057e18da7562f0",
+      "title": "Iran nêu điều kiện đảm bảo lưu thông ổn định qua eo biển Hormuz",
+      "link": "https://tuoitre.vn/iran-neu-dieu-kien-dam-bao-luu-thong-on-dinh-qua-eo-bien-hormuz-20260506192104633.htm",
+      "summary": "Ngày 6-5, lực lượng Hải quân thuộc Vệ binh Cách mạng Hồi giáo Iran (IRGC) cam kết sẽ đảm bảo an toàn cho tàu thuyền qua eo biển Hormuz khi các mối đe dọa từ Mỹ chấm dứt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.748454+07:00",
+      "fetched": "2026-05-06T20:29:44.748572+07:00"
+    },
+    {
+      "id": "14e37433d4e6e218a6b88aa509b00f4e",
+      "title": "TP.HCM bắt đầu đánh giá toàn diện tổ chức chính quyền 2 cấp",
+      "link": "https://tuoitre.vn/tp-hcm-bat-dau-danh-gia-toan-dien-to-chuc-chinh-quyen-2-cap-20260506191023033.htm",
+      "summary": "TP.HCM sẽ sơ kết 1 năm sắp xếp đơn vị hành chính và vận hành chính quyền 2 cấp, yêu cầu đánh giá toàn diện, thực chất, làm rõ hiệu quả hoạt động, nhất là ở cấp xã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.748317+07:00",
+      "fetched": "2026-05-06T20:29:44.748442+07:00"
+    },
+    {
+      "id": "98d41c2148a3003fc84a403db996fa77",
+      "title": "Phường Minh Phụng làm việc đến 19h mỗi thứ tư để phục vụ người dân",
+      "link": "https://tuoitre.vn/phuong-minh-phung-lam-viec-den-19h-moi-thu-tu-de-phuc-vu-nguoi-dan-20260506191218208.htm",
+      "summary": "Mỗi thứ 4 hàng tuần, phường Minh Phụng (TP.HCM) tiếp nhận và giải quyết thủ tục hành chính đến 19h nhằm tạo điều kiện thuận lợi cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.748170+07:00",
+      "fetched": "2026-05-06T20:29:44.748304+07:00"
+    },
+    {
+      "id": "3ab669487fa75b42ea48c03142d52b57",
+      "title": "Việt Nam chuẩn hóa huấn luyện gìn giữ hòa bình, tiệm cận chuẩn quốc tế",
+      "link": "https://tuoitre.vn/viet-nam-chuan-hoa-huan-luyen-gin-giu-hoa-binh-tiem-can-chuan-quoc-te-20260506174840463.htm",
+      "summary": "Việt Nam chủ động nâng cao năng lực, chuẩn hóa các khóa huấn luyện gìn giữ hòa bình đạt chuẩn Liên hợp quốc, tăng vai trò trong khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:29:44.747940+07:00",
+      "fetched": "2026-05-06T20:29:44.748155+07:00"
+    },
     {
       "id": "2dadb4bcceb8c5911d64f1df918e3f39",
       "title": "Đang làm tóc, nữ giảng viên lao đi cứu bé trai bị đuối nước",
@@ -303,6 +453,126 @@ window.newsData_2026_05_06 = {
       "fetched": "2026-05-06T15:08:01.964727+07:00"
     },
     {
+      "id": "6153c4a9a55ad5376a3b89db622588c9",
+      "title": "ON TRENDING: Dàn diễn viên 'Thẩm mỹ viện âm phủ' hé lộ hậu trường kịch tính tại Đà Lạt",
+      "link": "https://thanhnien.vn/on-trending-dan-dien-vien-tham-my-vien-am-phu-he-lo-hau-truong-kich-tinh-tai-da-lat-185260506181448023.htm",
+      "summary": "Kính mời quý khán giả đón xem chương trình livestream On Trending vào lúc 20 giờ ngày 6.5 trên các nền tảng Thanh Niên Online, Fanpage, Zalo Báo Thanh Niên cùng kênh YouTube và TikTok iHay TV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:00:00+07:00",
+      "fetched": "2026-05-06T20:29:43.655172+07:00"
+    },
+    {
+      "id": "2a7a473d03d598a4704919867ea9e065",
+      "title": "Xem nhanh 20h ngày 6.5: Học viên xem clip tai nạn trước giờ thi sát hạch | Đề nghị chấm dứt giải đua mô tô ở Cần Thơ",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-65-hoc-vien-xem-clip-tai-nan-truoc-gio-thi-sat-hach-de-nghi-cham-dut-giai-dua-mo-to-o-can-tho-185260506172613503.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 6.5 có nhiều tin tức đáng chú ý về: Giám đốc Công an TP.Cần Thơ đề nghị chấm dứt giải đua xe sau vụ VĐV tử vong; xem clip tai nạn trước giờ thi sát hạch;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:00:00+07:00",
+      "fetched": "2026-05-06T20:29:43.655342+07:00"
+    },
+    {
+      "id": "89675a7a938553075f30fbd5c326c51d",
+      "title": "Vòng tay chunky: Phụ kiện phá cách nâng tầm mọi trang phục",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vong-tay-chunky-phu-kien-pha-cach-nang-tam-moi-trang-phuc-185260505131455995.htm",
+      "summary": "Vòng tay chunky với phom dáng bản to, màu sắc táo bạo và hiệu ứng thị giác ấn tượng đang trở lại đầy ngoạn mục, trở thành điểm nhấn không thể thiếu trong tủ đồ của các tín đồ thời trang hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:00:00+07:00",
+      "fetched": "2026-05-06T20:29:43.655502+07:00"
+    },
+    {
+      "id": "614b806c44a41229a20774c3fc7a5ad4",
+      "title": "Có 21.142 người trúng số Vietlott Mega 6/45 tối 6.5, giải độc đắc tăng 20,3 tỉ đồng",
+      "link": "https://thanhnien.vn/co-21142-nguoi-trung-so-vietlott-mega-6-45-toi-65-giai-doc-dac-tang-203-ti-dong-185260506192901648.htm",
+      "summary": "Tối 6.5, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, không ghi nhận người trúng giải độc đắc nên số tiền cộng dồn là 20,3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:59:00+07:00",
+      "fetched": "2026-05-06T20:29:43.655655+07:00"
+    },
+    {
+      "id": "f1fea1502b284306a59bafe9c7a0cd17",
+      "title": "Chủ tịch Đà Nẵng yêu cầu rút ngắn tiến độ 'siêu dự án’ cao tốc nội thị",
+      "link": "https://thanhnien.vn/chu-tich-da-nang-yeu-cau-rut-ngan-tien-do-sieu-du-an-cao-toc-noi-thi-185260506192144688.htm",
+      "summary": "Trước đề xuất dự án cao tốc nội thị kết nối trung tâm Đà Nẵng với Chu Lai tiến độ kéo dài đến năm 2031, Chủ tịch UBND thành phố Đà Nẵng yêu cầu phải đẩy nhanh hơn nữa, thậm chí tính toán phương án thi công chỉ trong 1 - 2 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:59:00+07:00",
+      "fetched": "2026-05-06T20:29:43.655834+07:00"
+    },
+    {
+      "id": "ddd80c2a9e9874234511e1f5662b82c2",
+      "title": "Samsung phát hành One UI 8.5 cho loạt điện thoại Galaxy",
+      "link": "https://thanhnien.vn/samsung-phat-hanh-one-ui-85-cho-loat-dien-thoai-galaxy-185260506184625893.htm",
+      "summary": "Bản cập nhật One UI 8.5 chính thức được phát hành, đánh dấu bước tiến mới của Samsung khi đẩy nhanh tốc độ triển khai cho loạt điện thoại Galaxy mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:44:00+07:00",
+      "fetched": "2026-05-06T20:29:43.655989+07:00"
+    },
+    {
+      "id": "9ef6d87bcc1a84a9f9331641c722763a",
+      "title": "Giá vàng tăng hơn 100 USD, dầu giảm mạnh",
+      "link": "https://vnexpress.net/gia-vang-tang-hon-100-usd-dau-giam-manh-5070801.html",
+      "summary": "Thông tin Mỹ và Iran gần tiến tới thỏa thuận chấm dứt chiến sự giúp giá vàng vượt 4.700 USD và dầu thô Mỹ về sát 90 USD tối 6/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:41:30+07:00",
+      "fetched": "2026-05-06T20:29:40.472005+07:00"
+    },
+    {
+      "id": "9ef6d87bcc1a84a9f9331641c722763a",
+      "title": "Giá vàng tăng hơn 100 USD, dầu giảm mạnh",
+      "link": "https://vnexpress.net/gia-vang-tang-hon-100-usd-dau-giam-manh-5070801.html",
+      "summary": "Thông tin Mỹ và Iran gần tiến tới thỏa thuận chấm dứt chiến sự giúp giá vàng vượt 4.700 USD và dầu thô Mỹ về sát 90 USD tối 6/5.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-06T12:41:30+07:00",
+      "fetched": "2026-05-06T20:29:48.228331+07:00"
+    },
+    {
+      "id": "07bfb205d0f8600016c349f1dfb05b32",
+      "title": "Giá vàng 'sập' mạnh, giao dịch đìu hiu",
+      "link": "https://thanhnien.vn/gia-vang-sap-manh-giao-dich-diu-hiu-185260506190857171.htm",
+      "summary": "Thay vì ồ ạt xếp hàng mua vàng như giai đoạn trước, tình hình giao dịch tại các cửa hàng vàng hiện khá đìu hiu, dù giá vàng đã giảm xuống vùng thấp nhất trong khoảng 1 tháng trở lại đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:34:00+07:00",
+      "fetched": "2026-05-06T20:29:43.656146+07:00"
+    },
+    {
+      "id": "1656235db10ba27af0b1931d1d6b41c8",
+      "title": "Khám sức khỏe miễn phí toàn dân từ 2026",
+      "link": "https://vnexpress.net/kham-suc-khoe-mien-phi-toan-dan-tu-2026-5070793.html",
+      "summary": "Người đứng đầu Chính phủ yêu cầu các cơ quan chuẩn bị nguồn lực để khám sức khỏe định kỳ, khám sàng lọc miễn phí toàn dân từ năm nay, trong đó khám cho học sinh, sinh viên ngay đầu năm học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:26:35+07:00",
+      "fetched": "2026-05-06T20:29:40.472192+07:00"
+    },
+    {
+      "id": "f70d084f7222f59a37993d99aab7e53c",
+      "title": "Việt Nam - Ấn Độ nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện Tăng cường",
+      "link": "https://vnexpress.net/viet-nam-an-do-nang-cap-quan-he-len-doi-tac-chien-luoc-toan-dien-tang-cuong-5070781.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Thủ tướng Ấn Độ, nhất trí nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện Tăng cường, thúc đẩy hợp tác trên nhiều lĩnh vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:26:34+07:00",
+      "fetched": "2026-05-06T20:29:40.472363+07:00"
+    },
+    {
+      "id": "f70d084f7222f59a37993d99aab7e53c",
+      "title": "Việt Nam - Ấn Độ nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện Tăng cường",
+      "link": "https://vnexpress.net/viet-nam-an-do-nang-cap-quan-he-len-doi-tac-chien-luoc-toan-dien-tang-cuong-5070781.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Thủ tướng Ấn Độ, nhất trí nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện Tăng cường, thúc đẩy hợp tác trên nhiều lĩnh vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-06T12:26:34+07:00",
+      "fetched": "2026-05-06T20:29:46.234850+07:00"
+    },
+    {
       "id": "89c6d75cec074c6b14e58fb5432883a1",
       "title": "Sinh viên học gì từ quy trình sản xuất thực tế chuẩn xanh, Net Zero?",
       "link": "https://tuoitre.vn/sinh-vien-hoc-gi-tu-quy-trinh-san-xuat-thuc-te-chuan-xanh-net-zero-2026050518014929.htm",
@@ -453,6 +723,196 @@ window.newsData_2026_05_06 = {
       "fetched": "2026-05-06T12:22:21.281124+07:00"
     },
     {
+      "id": "cf5ff0bafa5446d6716da9a273f3e620",
+      "title": "Rủ bạn về nhà phá két của mẹ, sau khi xin tiền bất thành",
+      "link": "https://vnexpress.net/ru-ban-ve-nha-pha-ket-cua-me-sau-khi-xin-tien-bat-thanh-5070796.html",
+      "summary": "Nam thanh niên 19 tuổi đục két sắt khi nhà vắng người, lấy trộm tiền và trang sức trị giá 96 triệu đồng mua xe máy, điện thoại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:20:35+07:00",
+      "fetched": "2026-05-06T20:29:40.472525+07:00"
+    },
+    {
+      "id": "7c1769db1de10701fc0ab0f9531a5888",
+      "title": "Nhiều năm liền quầng mặt trời xuất hiện vào tháng 5: Trùng hợp hay báo hiệu gì?",
+      "link": "https://thanhnien.vn/nhieu-nam-lien-quang-mat-troi-xuat-hien-vao-thang-5-trung-hop-hay-bao-hieu-gi-185260506104853816.htm",
+      "summary": "Suốt nhiều năm qua, cứ đến tháng 5 - 6 hình ảnh về quầng sáng nhiều màu sắc như cầu vồng bao quanh mặt trời (quầng mặt trời) lại gây xôn xao mạng xã hội. Đây là sự trùng hợp thú vị hay quy luật thời tiết?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:19:00+07:00",
+      "fetched": "2026-05-06T20:29:43.656293+07:00"
+    },
+    {
+      "id": "7d8e0275099999a6d87c96494ac402e9",
+      "title": "Thiếu niên 15 tuổi bốc đầu xe máy, bị tịch thu phương tiện",
+      "link": "https://thanhnien.vn/thieu-nien-15-tuoi-boc-dau-xe-may-bi-tich-thu-phuong-tien-185260506190242694.htm",
+      "summary": "Thiếu niên 15 tuổi ở Quảng Ngãi điều khiển xe máy chạy bằng một bánh, không đội mũ bảo hiểm gây mất an toàn giao thông bị lực lượng công an tịch thu xe máy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:17:00+07:00",
+      "fetched": "2026-05-06T20:29:43.656439+07:00"
+    },
+    {
+      "id": "a735a25ad8a1eceb04a1b8caeeb0e518",
+      "title": "Bí thư Đà Nẵng lên tiếng về thông tin dời Làng đại học vào phía nam",
+      "link": "https://thanhnien.vn/bi-thu-da-nang-len-tieng-ve-thong-tin-doi-lang-dai-hoc-vao-phia-nam-185260506185649738.htm",
+      "summary": "Bí thư thành ủy Đà Nẵng cho rằng thông tin di dời Làng đại học vào khu vực phía nam thành phố là cách hiểu 'chưa chính xác'. Trong khi định hướng quy hoạch vẫn giữ nguyên nhưng có điều chỉnh linh hoạt để giảm áp lực đô thị và phát triển bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:15:00+07:00",
+      "fetched": "2026-05-06T20:29:43.656586+07:00"
+    },
+    {
+      "id": "70b68807394239fa65a2b077f48a5cfc",
+      "title": "Trăn trở của NSND Công Lý sau biến cố sức khỏe",
+      "link": "https://thanhnien.vn/tran-tro-cua-nsnd-cong-ly-sau-bien-co-suc-khoe-185260506171253329.htm",
+      "summary": "Vợ NSND Công Lý hiếm hoi bày tỏ cảm xúc về chồng sau nhiều năm đồng hành cùng anh vượt qua biến cố sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:15:00+07:00",
+      "fetched": "2026-05-06T20:29:43.656730+07:00"
+    },
+    {
+      "id": "c39246491af4a86b529860d225a826bc",
+      "title": "Công an xã giúp người dân tìm lại người thân sau 34 năm mất liên lạc",
+      "link": "https://thanhnien.vn/cong-an-xa-giup-nguoi-dan-tim-lai-nguoi-than-sau-34-nam-mat-lien-lac-185260506182912407.htm",
+      "summary": "Sau 34 năm mất liên lạc, một người đàn ông ở tỉnh Quảng Ngãi đã được Công an xã Đăk Tô hỗ trợ tìm lại người thân nhờ khai thác hiệu quả Cơ sở dữ liệu quốc gia về dân cư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:13:00+07:00",
+      "fetched": "2026-05-06T20:29:43.656910+07:00"
+    },
+    {
+      "id": "7fd64bc2e0fe922ff37f7f866f75c560",
+      "title": "Con trai rủ bạn đột nhập nhà mình phá két sắt, trộm gần 100 triệu đồng ở Đà Nẵng",
+      "link": "https://thanhnien.vn/con-trai-ru-ban-dot-nhap-nha-minh-pha-ket-sat-trom-gan-100-trieu-dong-o-da-nang-185260506184518875.htm",
+      "summary": "Chỉ vì không xin được tiền, nam thiếu niên 17 tuổi ở thành phố Đà Nẵng rủ bạn đột nhập chính nhà mình, phá két sắt lấy gần 100 triệu đồng rồi tiêu xài cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:05:00+07:00",
+      "fetched": "2026-05-06T20:29:43.657063+07:00"
+    },
+    {
+      "id": "e1cbdb2130d46fbc9cb18f6c82ab95a9",
+      "title": "Việt Nam - Ấn Độ chia sẻ mô hình phát triển công nghệ lõi",
+      "link": "https://vnexpress.net/viet-nam-an-do-chia-se-mo-hinh-phat-trien-cong-nghe-loi-5070774.html",
+      "summary": "Làm việc với các viện công nghệ hàng đầu Ấn Độ, đoàn công tác Việt Nam tìm hiểu mô hình tự chủ đại học, cơ chế tài chính và cách thức xây dựng hệ sinh thái khởi nghiệp, phát triển công nghệ lõi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:03:23+07:00",
+      "fetched": "2026-05-06T20:29:40.472683+07:00"
+    },
+    {
+      "id": "e1cbdb2130d46fbc9cb18f6c82ab95a9",
+      "title": "Việt Nam - Ấn Độ chia sẻ mô hình phát triển công nghệ lõi",
+      "link": "https://vnexpress.net/viet-nam-an-do-chia-se-mo-hinh-phat-trien-cong-nghe-loi-5070774.html",
+      "summary": "Làm việc với các viện công nghệ hàng đầu Ấn Độ, đoàn công tác Việt Nam tìm hiểu mô hình tự chủ đại học, cơ chế tài chính và cách thức xây dựng hệ sinh thái khởi nghiệp, phát triển công nghệ lõi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-06T12:03:23+07:00",
+      "fetched": "2026-05-06T20:29:50.544901+07:00"
+    },
+    {
+      "id": "1e4989642a6f0ea4de9ae012e4643f74",
+      "title": "Chi 20 triệu tự lái ôtô 1.500 km đưa gia đình đi chơi Đà Nẵng",
+      "link": "https://vnexpress.net/roadtrip-chi-20-trieu-tu-lai-oto-1-500-km-dua-gia-dinh-di-da-nang-choi-le-5070665.html",
+      "summary": "Thay vì cố gắng chạy xe thục mạng cho xong quãng đường gần 1.500 km, chúng tôi chia lộ trình thành thành những chặng nghỉ dưỡng nối tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:00:00+07:00",
+      "fetched": "2026-05-06T20:29:40.472889+07:00"
+    },
+    {
+      "id": "70103dacba909558241b4483156d45d7",
+      "title": "Robot hình người tiếp tục 'mất kiểm soát'",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-tiep-tuc-mat-kiem-soat-5070550.html",
+      "summary": "Khi biểu diễn tại một lễ hội ở Tân Cương, robot hình người bất ngờ có hành động khiến người xung quanh giật mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:00:00+07:00",
+      "fetched": "2026-05-06T20:29:40.473069+07:00"
+    },
+    {
+      "id": "baec7835aa4a2592dc30fed4b8816f30",
+      "title": "Victoria Beckham: Tôi không phải kiểu phụ huynh thúc ép con",
+      "link": "https://vnexpress.net/victoria-beckham-toi-khong-phai-kieu-phu-huynh-thuc-ep-con-5070642.html",
+      "summary": "Nhà thiết kế Victoria Beckham nói muốn giúp các con sống vui vẻ, phát huy hết tiềm năng chứ không nuôi dạy theo kiểu thúc ép.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:00:00+07:00",
+      "fetched": "2026-05-06T20:29:40.473232+07:00"
+    },
+    {
+      "id": "6b97c667d52af518670ddcdeaf8dcfa6",
+      "title": "5 trái cây hỗ trợ bảo vệ da khỏi tia cực tím",
+      "link": "https://vnexpress.net/5-trai-cay-ho-tro-bao-ve-da-khoi-tia-cuc-tim-5070759.html",
+      "summary": "Lựu, ổi, đu đủ, dâu tây, cà chua là những trái cây giàu vitamin C có thể giúp bảo vệ da khỏi tác hại của tia UV từ ánh nắng mặt trời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:00:00+07:00",
+      "fetched": "2026-05-06T20:29:40.473388+07:00"
+    },
+    {
+      "id": "4571683e70cbbc4828bf25e9e6148733",
+      "title": "10 phong cách hoá trang vào chung kết Cosplay Contest 2026",
+      "link": "https://vnexpress.net/10-phong-cach-hoa-trang-vao-chung-ket-cosplay-contest-2026-5070753.html",
+      "summary": "Từ nhân vật game đến anime, manga, 10 thí sinh lọt vào chung kết Cosplay Contest, thuộc khuôn khổ Vietnam GameVerse 2026 ngày 9/5, thể hiện sự sáng tạo trong việc phối hợp màu sắc, trang phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:00:00+07:00",
+      "fetched": "2026-05-06T20:29:40.473549+07:00"
+    },
+    {
+      "id": "0daab1a537f2737cdbb2d06bd1d84cc2",
+      "title": "8 vaccine hỗ trợ giảm nguy cơ sa sút trí tuệ",
+      "link": "https://vnexpress.net/8-vaccine-ho-tro-giam-nguy-co-sa-sut-tri-tue-5070459.html",
+      "summary": "Các vaccine giúp phòng bệnh như zona thần kinh, RSV, cúm... hỗ trợ giảm nguy cơ sa sút trí tuệ, nhờ cơ chế bảo vệ khỏi tác nhân có thể tấn công não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T12:00:00+07:00",
+      "fetched": "2026-05-06T20:29:40.473700+07:00"
+    },
+    {
+      "id": "70103dacba909558241b4483156d45d7",
+      "title": "Robot hình người tiếp tục 'mất kiểm soát'",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-tiep-tuc-mat-kiem-soat-5070550.html",
+      "summary": "Khi biểu diễn tại một lễ hội ở Tân Cương, robot hình người bất ngờ có hành động khiến người xung quanh giật mình.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-06T12:00:00+07:00",
+      "fetched": "2026-05-06T20:29:50.544357+07:00"
+    },
+    {
+      "id": "e666b933460d7b1fda41d3dcdbe820d9",
+      "title": "Vòng kim loại siết chặt ngón tay học sinh lớp 6 được Cảnh sát PCCC giải cứu",
+      "link": "https://thanhnien.vn/vong-kim-loai-siet-chat-ngon-tay-hoc-sinh-lop-6-duoc-canh-sat-pccc-giai-cuu-185260506182939159.htm",
+      "summary": "Đeo nhiều vòng kim loại rồi không tháo được, ngón tay học sinh lớp 6 bị siết chặt, nguy cơ tổn thương, phải nhờ lực lượng Cảnh sát PCCC dùng thiết bị chuyên dụng giải cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T11:58:00+07:00",
+      "fetched": "2026-05-06T20:29:43.657212+07:00"
+    },
+    {
+      "id": "193c4ff616634799a1becd0e8258b6ba",
+      "title": "Mẹo làm sạch đồ bếp bằng bột đá 5.000 đồng",
+      "link": "https://vnexpress.net/meo-lam-sach-do-bep-bang-bot-da-5-000-dong-5069890.html",
+      "summary": "Bột đá vôi (CaCO3) giá rẻ đang được ứng dụng làm sạch xoong nồi, thiết bị nhà bếp nhờ khả năng đánh bay dầu mỡ, gỉ sét mà không làm trầy xước vật liệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T11:46:56+07:00",
+      "fetched": "2026-05-06T20:29:40.473881+07:00"
+    },
+    {
+      "id": "fd3e185c2fc3773cef0e4ed3ca6c67db",
+      "title": "Tình hình hiện tại của bé trai 2 tuổi bị mẹ ruột và người tình bạo hành",
+      "link": "https://thanhnien.vn/tinh-hinh-hien-tai-cua-be-trai-2-tuoi-bi-me-ruot-va-nguoi-tinh-bao-hanh-185260506184531062.htm",
+      "summary": "Bé trai 2 tuổi bị mẹ ruột và người tình bạo hành dã man đến mức dập gan, đứt tụy nay đã vượt qua cơn nguy kịch tại Bệnh viện Nhi Đồng 1. Tình trạng sức khỏe của bé hiện nay có tiến triển tích cực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T11:45:00+07:00",
+      "fetched": "2026-05-06T20:29:43.657363+07:00"
+    },
+    {
       "id": "b7c5751a1a195b171b62a30d3a3a0893",
       "title": "Học viện Ngoại giao lần đầu đào tạo bằng tiếng Anh 6 ngành học",
       "link": "https://thanhnien.vn/hoc-vien-ngoai-giao-lan-dau-dao-tao-bang-tieng-anh-6-nganh-hoc-185260506173321102.htm",
@@ -471,6 +931,26 @@ window.newsData_2026_05_06 = {
       "category": "Tổng hợp",
       "published": "2026-05-06T11:43:00+07:00",
       "fetched": "2026-05-06T18:45:28.385764+07:00"
+    },
+    {
+      "id": "b6c3fdb2026da1c61be6163bb70f18b0",
+      "title": "Ngân hàng số Timo về tay Kredivo Group",
+      "link": "https://vnexpress.net/ngan-hang-so-timo-ve-tay-kredivo-group-5070708.html",
+      "summary": "\"Kỳ lân\" fintech Kredivo (Indonesia) mua lại gần 100% Timo Digital Bank - nền tảng ngân hàng số phát triển hợp tác cùng BVBank.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T11:41:49+07:00",
+      "fetched": "2026-05-06T20:29:40.474040+07:00"
+    },
+    {
+      "id": "b6c3fdb2026da1c61be6163bb70f18b0",
+      "title": "Ngân hàng số Timo về tay Kredivo Group",
+      "link": "https://vnexpress.net/ngan-hang-so-timo-ve-tay-kredivo-group-5070708.html",
+      "summary": "\"Kỳ lân\" fintech Kredivo (Indonesia) mua lại gần 100% Timo Digital Bank - nền tảng ngân hàng số phát triển hợp tác cùng BVBank.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-06T11:41:49+07:00",
+      "fetched": "2026-05-06T20:29:48.228516+07:00"
     },
     {
       "id": "c757abd858204c4b283bedd3e6dc2ab5",
@@ -503,6 +983,16 @@ window.newsData_2026_05_06 = {
       "fetched": "2026-05-06T18:45:28.386240+07:00"
     },
     {
+      "id": "cfb0b3429273f8c04357974aa906c1eb",
+      "title": "Công việc 'độc đáo nhất của các phi công'",
+      "link": "https://vnexpress.net/cong-viec-doc-dao-nhat-cua-cac-phi-cong-5070593.html",
+      "summary": "Một hãng hàng không sẵn sàng trả 100.000 USD tiền lương mỗi năm cho các phi công để họ di dời máy bay quanh sân bay quốc tế Chicago O'Hare",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T11:30:00+07:00",
+      "fetched": "2026-05-06T20:29:40.474198+07:00"
+    },
+    {
       "id": "e5c610cc6aa992d67363f05a7d01f627",
       "title": "Israel - Hezbollah tập kích nhau dữ dội bất chấp lệnh ngừng bắn",
       "link": "https://vnexpress.net/israel-hezbollah-tap-kich-nhau-du-doi-bat-chap-lenh-ngung-ban-5070715.html",
@@ -521,6 +1011,16 @@ window.newsData_2026_05_06 = {
       "category": "Tổng hợp",
       "published": "2026-05-06T11:27:00+07:00",
       "fetched": "2026-05-06T18:45:28.386399+07:00"
+    },
+    {
+      "id": "fbbdd8265b22ac97ebc8d2e2918abf34",
+      "title": "Đội của Ronaldo bị áp sát vì sai lầm khó tin ở Saudi League",
+      "link": "https://vnexpress.net/doi-cua-ronaldo-bi-ap-sat-vi-sai-lam-kho-tin-o-saudi-league-5070748.html",
+      "summary": "Một đường chuyền về khó hiểu giúp Al Hilal hạ chủ nhà Al Khaleej 2-1, để giành quyền tự quyết trong cuộc đua vô địch Saudi Pro League với Al Nassr của Cristiano Ronaldo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-06T11:26:54+07:00",
+      "fetched": "2026-05-06T20:29:52.379331+07:00"
     },
     {
       "id": "5c0f185e93ae9722e5e417d3bc96e078",
