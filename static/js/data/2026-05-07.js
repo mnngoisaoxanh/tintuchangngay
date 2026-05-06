@@ -1,6 +1,6 @@
 window.newsData_2026_05_07 = {
   "date": "2026-05-07",
-  "lastUpdated": "2026-05-07T04:02:30.802102+07:00",
+  "lastUpdated": "2026-05-07T05:40:01.138156+07:00",
   "articles": [
     {
       "id": "d64a21601ae23e0ee8320c74eb067f9e",
@@ -171,6 +171,196 @@ window.newsData_2026_05_07 = {
       "category": "Tổng hợp",
       "published": "2026-05-07T00:25:17.937136+07:00",
       "fetched": "2026-05-07T00:25:17.937296+07:00"
+    },
+    {
+      "id": "341295c21dc014e3380fa65dc74b9c77",
+      "title": "Nga, Ukraine đều tố đối phương tấn công trước lệnh ngừng bắn",
+      "link": "https://thanhnien.vn/nga-ukraine-deu-to-doi-phuong-tan-cong-truoc-lenh-ngung-ban-185260506210457453.htm",
+      "summary": "Trang The Kyiv Independent ngày 6.5 dẫn lời giới chức địa phương Ukraine cáo buộc Nga tấn công tại các thành phố Kramatorsk (tỉnh Donetsk) và Zaporizhzhia (tỉnh Zaporizhzhia) vào một ngày trước đó, khiến ít nhất 17 người thiệt mạng và 56 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:33:00+07:00",
+      "fetched": "2026-05-07T05:39:51.513360+07:00"
+    },
+    {
+      "id": "fafe43a4affa65978935d4c2066ce5eb",
+      "title": "Tiêu điểm quốc tế 7.5: Ông Trump tạm dừng 'Dự án Tự do' | Virus hanta lây lan ra sao?",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-75-ong-trump-tam-dung-du-an-tu-do-virus-hanta-lay-lan-ra-sao-185260506231744877.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Tiêu điểm quốc tế ngày 7.5.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:30:00+07:00",
+      "fetched": "2026-05-07T05:39:51.513509+07:00"
+    },
+    {
+      "id": "77d133347ff1119df6ce51f4075e2b51",
+      "title": "Ít ai biết nhà thờ 200 năm tuổi ở vùng đầm lầy Giồng Rùm",
+      "link": "https://thanhnien.vn/it-ai-biet-nha-tho-200-nam-tuoi-o-vung-dam-lay-giong-rum-185260505161830644.htm",
+      "summary": "Tồn tại gần 2 thế kỷ giữa vùng đất từng phủ đầy cỏ năng, tràm nước, Nhà thờ Phước Hảo là điểm tựa tinh thần của hàng ngàn giáo dân miền Tây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:30:00+07:00",
+      "fetched": "2026-05-07T05:39:51.513640+07:00"
+    },
+    {
+      "id": "ad0c39d61bd1e1ff2c58e3a4d6c380dc",
+      "title": "Kinh hoàng công nghệ 'phù phép' a xít dệt nhuộm thành giấm ăn dán nhãn ngoại",
+      "link": "https://thanhnien.vn/kinh-hoang-cong-nghe-phu-phep-a-xit-det-nhuom-thanh-giam-an-dan-nhan-ngoai-185260506212446247.htm",
+      "summary": "Dùng a xít chuyên dùng trong dệt nhuộm, chống mốc gỗ để pha chế thành giấm ăn rồi dán nhãn xuất xứ nước ngoài, một doanh nghiệp tại TP.HCM đã tuồn ra thị trường hàng trăm can giấm giả cực kỳ độc hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:27:00+07:00",
+      "fetched": "2026-05-07T05:39:51.513771+07:00"
+    },
+    {
+      "id": "cf28b362f901c6d34e554687dea849b6",
+      "title": "Mở rộng đường Trần Bình Trọng, người dân đồng thuận, tiểu thương điều chỉnh buôn bán",
+      "link": "https://thanhnien.vn/mo-rong-duong-tran-binh-trong-nguoi-dan-dong-thuan-tieu-thuong-dieu-chinh-buon-ban-185260506172127196.htm",
+      "summary": "Dự án mở rộng 361 mét đường Trần Bình Trọng, từ 5 mét lên 23 mét với quy mô 4 làn xe sẽ được triển khai, hướng tới hình thành trục giao thông thông suốt, đồng bộ với công viên Lý Thái Tổ và góp phần giảm áp lực giao thông khu trung tâm TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:26:00+07:00",
+      "fetched": "2026-05-07T05:39:51.513903+07:00"
+    },
+    {
+      "id": "f696b1158682b3e06a6eef8a33e80c94",
+      "title": "Chính phủ Romania sụp đổ",
+      "link": "https://thanhnien.vn/chinh-phu-romania-sup-do-185260506210249842.htm",
+      "summary": "Reuters đưa tin vào ngày 5.5, quốc hội Romania đã phế truất chính phủ của Thủ tướng Ilie Bolojan thông qua cuộc bỏ phiếu bất tín nhiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:16:00+07:00",
+      "fetched": "2026-05-07T05:39:51.514040+07:00"
+    },
+    {
+      "id": "be0da797cde6feba5e38ea9c0aa73c2d",
+      "title": "Tử vi ngày 7 tháng 5: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-7-thang-5-con-giap-nao-may-man-hom-nay-185260506223528686.htm",
+      "summary": "Tử vi ngày 7 tháng 5 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm đáng chú ý là nhịp chuyển bất ngờ - có những việc tưởng đang chậm lại bỗng tăng tốc, trong khi điều bạn kỳ vọng nhiều lại chưa có kết quả ngay. Tài lộc hôm nay thế nào phụ thuộc vào khả năng thích nghi và giữ sự bình tĩnh trướ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:15:00+07:00",
+      "fetched": "2026-05-07T05:39:51.514177+07:00"
+    },
+    {
+      "id": "7ecd7bf803fbcac58bfcecec20fabf07",
+      "title": "Vì sao Mỹ dừng hộ tống tàu qua eo biển Hormuz ?",
+      "link": "https://thanhnien.vn/vi-sao-my-dung-ho-tong-tau-qua-eo-bien-hormuz-185260506210713377.htm",
+      "summary": "Việc Tổng thống Mỹ Donald Trump thông báo tạm dừng chiến dịch hộ tống tàu thuyền qua eo biển Hormuz một ngày sau khi khởi động đã gây ra luồng ý kiến trái chiều từ giới quan sát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:01:00+07:00",
+      "fetched": "2026-05-07T05:39:51.514303+07:00"
+    },
+    {
+      "id": "c2f7c1a4b9d2e9f36a7ec4a6142e8550",
+      "title": "Tuyệt kỹ hàn gắn gốm bằng vàng ròng",
+      "link": "https://thanhnien.vn/tuyet-ky-han-gan-gom-bang-vang-rong-185260506214032638.htm",
+      "summary": "Từ những sản phẩm gốm vỡ, sứt mẻ..., anh Nguyễn Lê Uyên Viễn dùng vàng ròng hàn gắn, biến tổn thương thành vẻ đẹp. Đó là một nghề hiếm có, đòi hỏi sự kiên nhẫn và tuyệt kỹ công phu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:00:00+07:00",
+      "fetched": "2026-05-07T05:39:51.514425+07:00"
+    },
+    {
+      "id": "d4a415ea65a27a2fb2530e8816fb66dd",
+      "title": "Virus 'thông minh' tiêu diệt ung thư, bảo vệ tế bào lành như thế nào?",
+      "link": "https://thanhnien.vn/virus-thong-minh-tieu-diet-ung-thu-bao-ve-te-bao-lanh-nhu-the-nao-185260506210716459.htm",
+      "summary": "Giữa lúc cuộc chiến chống ung thư vẫn còn nhiều đau đớn và giới hạn, một hướng đi mới từ Nga đang thu hút sự chú ý của giới khoa học toàn cầu: sử dụng virus 'thông minh' tiêu diệt ung thư mà không làm tổn hại mô lành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:00:00+07:00",
+      "fetched": "2026-05-07T05:39:51.514546+07:00"
+    },
+    {
+      "id": "7962fee935fe72d4c13f717ff086a65a",
+      "title": "Lịch âm hôm nay: Ngày 7.5 là ngày gì ở Việt Nam?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-75-la-ngay-gi-o-viet-nam-185260506172158747.htm",
+      "summary": "Theo lịch vạn niên, lịch âm hôm nay 7.5 là ngày đặc biệt gì mà ở Việt Nam nhiều người quan tâm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:00:00+07:00",
+      "fetched": "2026-05-07T05:39:51.514666+07:00"
+    },
+    {
+      "id": "6215edbb30ac351f5c507fd808210aca",
+      "title": "Lý do châu Âu không nao núng khi ông Trump dọa rút quân",
+      "link": "https://vnexpress.net/ly-do-chau-au-khong-nao-nung-khi-ong-trump-doa-rut-quan-5070209.html",
+      "summary": "Tuyên bố rút ít nhất 5.000 quân đồn trú tại Đức của ông Trump không khiến châu Âu nao núng, khi họ đang chuẩn bị cho kịch bản tự chủ an ninh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-06T22:00:00+07:00",
+      "fetched": "2026-05-07T05:39:54.371480+07:00"
+    },
+    {
+      "id": "1d3e2445c29970c0a0099b71d61a06aa",
+      "title": "Tắm nước nóng rồi vào phòng lạnh có gây liệt mặt? Bác sĩ cảnh báo nguy cơ",
+      "link": "https://thanhnien.vn/tam-nuoc-nong-roi-vao-phong-lanh-co-gay-liet-mat-bac-si-canh-bao-nguy-co-185260506225109746.htm",
+      "summary": "Tắm nước nóng rồi nằm điều hòa không phải lúc nào cũng gây liệt mặt ngoại biên. Tuy nhiên, thay đổi nhiệt độ đột ngột trong mùa nóng vẫn có thể làm tăng nguy cơ ở một số người, vì vậy cần chú ý sinh hoạt hợp lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T21:49:00+07:00",
+      "fetched": "2026-05-07T05:39:51.514784+07:00"
+    },
+    {
+      "id": "5f80344c84b91668b1d132b79c8978a7",
+      "title": "Cao tốc Quy Nhơn - Pleiku: Chạy đua trước mùa mưa Tây nguyên",
+      "link": "https://thanhnien.vn/cao-toc-quy-nhon-pleiku-chay-dua-truoc-mua-mua-tay-nguyen-185260506151434425.htm",
+      "summary": "Trên đại công trường cao tốc Quy Nhơn - Pleiku, các đơn vị chức năng đang khẩn trương giải phóng mặt bằng, chuẩn bị thi công để kịp tiến độ trước mùa mưa Tây nguyên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T21:38:00+07:00",
+      "fetched": "2026-05-07T05:39:51.514902+07:00"
+    },
+    {
+      "id": "7cc7fccebabe0602d8143429c84bd8bf",
+      "title": "Quy định mới nhất về vận chuyển người bị dẫn độ bằng đường hàng không",
+      "link": "https://thanhnien.vn/quy-dinh-moi-nhat-ve-van-chuyen-nguoi-bi-dan-do-bang-duong-hang-khong-185260506131604217.htm",
+      "summary": "Bộ Công an vừa ban hành Thông tư 14/2026/TT-BCA siết chặt quy trình vận chuyển hành khách đặc biệt là bị can, phạm nhân và người bị dẫn độ trên các chuyến bay dân dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T21:35:00+07:00",
+      "fetched": "2026-05-07T05:39:51.515037+07:00"
+    },
+    {
+      "id": "bcb482478c2b170e3744278cc4d0a017",
+      "title": "Hiện trạng và phối cảnh dự án đường trên cao dọc quốc lộ 51",
+      "link": "https://thanhnien.vn/hien-trang-va-phoi-canh-du-an-duong-tren-cao-doc-quoc-lo-51-185260506202533637.htm",
+      "summary": "Quốc lộ 51 đoạn từ ngã tư Vũng Tàu đến vòng xoay cổng 11 và cao tốc Biên Hòa - Vũng Tàu có lượng xe lưu thông rất đông, thường xuyên xảy ra kẹt xe, ùn ứ. Dự án đường trên cao dọc quốc lộ 51 được kỳ vọng giải quyết vấn đề này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T21:34:00+07:00",
+      "fetched": "2026-05-07T05:39:51.515163+07:00"
+    },
+    {
+      "id": "57e66ce9b60be4273b86a46934ac93ce",
+      "title": "Lệ làng giữ rừng nghiến trăm năm nguyên vẹn",
+      "link": "https://vnexpress.net/le-lang-giu-rung-nghien-tram-nam-nguyen-ven-5070598.html",
+      "summary": "Rừng nghiến nguyên sinh Đông Đằng được bảo vệ bởi thiết chế cộng đồng với quy ước bất thành văn không được mang thứ gì khỏi rừng, kể cả gỗ mục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T21:00:00+07:00",
+      "fetched": "2026-05-07T05:39:48.162190+07:00"
+    },
+    {
+      "id": "90cce8a97a059b5ea5a36edc252697a3",
+      "title": "PSG loại Bayern, vào chung kết Champions League",
+      "link": "https://vnexpress.net/psg-loai-bayern-vao-chung-ket-champions-league-5070842.html",
+      "summary": "Cầm hòa Bayern 1-1 ở lượt về, PSG đi tiếp với tỷ số hai lượt 6-5, để lần thứ hai liên tiếp vào chung kết Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:59:17+07:00",
+      "fetched": "2026-05-07T05:39:48.162355+07:00"
+    },
+    {
+      "id": "90cce8a97a059b5ea5a36edc252697a3",
+      "title": "PSG loại Bayern, vào chung kết Champions League",
+      "link": "https://vnexpress.net/psg-loai-bayern-vao-chung-ket-champions-league-5070842.html",
+      "summary": "Cầm hòa Bayern 1-1 ở lượt về, PSG đi tiếp với tỷ số hai lượt 6-5, để lần thứ hai liên tiếp vào chung kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-06T20:59:17+07:00",
+      "fetched": "2026-05-07T05:40:01.133061+07:00"
     },
     {
       "id": "00b515a1eb8ae66ddc54a56951361baf",
