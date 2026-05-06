@@ -1,7 +1,157 @@
 window.newsData_2026_05_06 = {
   "date": "2026-05-06",
-  "lastUpdated": "2026-05-06T20:29:52.390173+07:00",
+  "lastUpdated": "2026-05-06T22:56:53.519325+07:00",
   "articles": [
+    {
+      "id": "2ff80778dc4bcd7925d0e438b331a84a",
+      "title": "SCG báo doanh thu tại Việt Nam tăng mạnh nhờ Tổ hợp hóa dầu Long Sơn",
+      "link": "https://tuoitre.vn/scg-bao-doanh-thu-tai-viet-nam-tang-manh-nho-to-hop-hoa-dau-long-son-20260506192238092.htm",
+      "summary": "Theo SCG, doanh thu tại Việt Nam của tập đoàn trong quý vừa qua tăng mạnh nhờ Tổ hợp hóa dầu Long Sơn vận hành trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.570566+07:00",
+      "fetched": "2026-05-06T22:56:47.570683+07:00"
+    },
+    {
+      "id": "aa84d17648b1904206f2383394162872",
+      "title": "Những bộ cánh ở Met Gala khiến khán giả 'cạn lời'",
+      "link": "https://tuoitre.vn/nhung-bo-canh-o-met-gala-khien-khan-gia-can-loi-20260506202800351.htm",
+      "summary": "Bên cạnh những màn hóa thân táo bạo, thảm đỏ Met Gala 2026 chứng kiến không ít khoảnh khắc khiến khán giả chỉ biết lắc đầu ngao ngán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.570438+07:00",
+      "fetched": "2026-05-06T22:56:47.570554+07:00"
+    },
+    {
+      "id": "cb54c2fccf46bdc638c70cb79ba10537",
+      "title": "Học viện Ngoại giao siết xét học bạ, lần đầu đào tạo 6 ngành bằng tiếng Anh",
+      "link": "https://tuoitre.vn/hoc-vien-ngoai-giao-siet-xet-hoc-ba-lan-dau-dao-tao-6-nganh-bang-tieng-anh-20260506201359335.htm",
+      "summary": "Thí sinh xét tuyển kết hợp học bạ vào Học viện Ngoại giao, ngoài phải đạt các điều kiện điểm học bạ, điểm sàn 3 môn thi tốt nghiệp từ 22 trở lên, còn phải có chứng chỉ IELTS đạt từ 6.0 trở lên...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.570308+07:00",
+      "fetched": "2026-05-06T22:56:47.570426+07:00"
+    },
+    {
+      "id": "c663b0fb967ea3c49120b63464852e4b",
+      "title": "1 người tử vong, 5 người nhập viện sau khi ăn canh nấm rừng",
+      "link": "https://tuoitre.vn/1-nguoi-tu-vong-5-nguoi-nhap-vien-nghi-do-an-canh-nam-rung-20260506203152736.htm",
+      "summary": "6 người ở xã Phiêng Pằn (tỉnh Sơn La) nghi bị ngộ độc sau khi ăn canh nấm mọc tự nhiên, trong đó 1 người đã tử vong, các trường hợp còn lại đang được điều trị tích cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.570175+07:00",
+      "fetched": "2026-05-06T22:56:47.570292+07:00"
+    },
+    {
+      "id": "9341a096b32d1e3323638a2910ae4bea",
+      "title": "Đề xuất đưa sinh viên về đào tạo tại Hậu Giang, Sóc Trăng cũ",
+      "link": "https://tuoitre.vn/de-xuat-dua-sinh-vien-ve-dao-tao-tai-hau-giang-soc-trang-cu-20260506192356937.htm",
+      "summary": "Đưa sinh viên về Hậu Giang, Sóc Trăng đào tạo để các em được gần cha mẹ, chi phí thấp và giảm áp lực giao thông cho khu vực trung tâm thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.570033+07:00",
+      "fetched": "2026-05-06T22:56:47.570163+07:00"
+    },
+    {
+      "id": "8b9c2e9b907c2175052cbcda0816256e",
+      "title": "Doanh nghiệp hóa chất Đức mở phòng thí nghiệm công nghệ xử lý bề mặt tại Việt Nam",
+      "link": "https://tuoitre.vn/doanh-nghiep-hoa-chat-duc-mo-phong-thi-nghiem-cong-nghe-xu-ly-be-mat-tai-viet-nam-20260506194812125.htm",
+      "summary": "Theo BASF Coatings, dự án đầu tư chiến lược này nhằm nâng cao năng lực kỹ thuật, đáp ứng tốt hơn nhu cầu ngày càng tăng của khách hàng Đông Nam Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.569877+07:00",
+      "fetched": "2026-05-06T22:56:47.570001+07:00"
+    },
+    {
+      "id": "cf8ac688ff8d43133cdd6cf0999f5062",
+      "title": "Triệt phá sòng bạc 'khủng' núp bóng khu vui chơi giải trí ở biên giới, thu giữ trên 300 tỉ đồng",
+      "link": "https://tuoitre.vn/triet-pha-song-bac-khung-nup-bong-khu-vui-choi-giai-tri-o-bien-gioi-thu-giu-tren-300-ti-dong-20260506200930749.htm",
+      "summary": "Công an tỉnh Lạng Sơn triệt phá sòng bạc 'khủng' núp bóng khu vui chơi giải trí, với gần 100 người Việt Nam và nước ngoài tham gia, tổng số tiền giao dịch trên 301 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.569739+07:00",
+      "fetched": "2026-05-06T22:56:47.569864+07:00"
+    },
+    {
+      "id": "7349c61cac7b3f353bf59710f7eb0dba",
+      "title": "Vương Vũ Bác bị làng cờ tướng Trung Quốc chê 'không xứng danh kỳ vương'",
+      "link": "https://tuoitre.vn/vuong-vu-bac-bi-lang-co-tuong-trung-quoc-che-khong-xung-danh-ky-vuong-20260506203046795.htm",
+      "summary": "Người hâm mộ cờ tướng Trung Quốc tỏ ra lo ngại về phong độ của Vương Vũ Bác, người đang giữ danh hiệu kỳ vương làng cờ đại lục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.569609+07:00",
+      "fetched": "2026-05-06T22:56:47.569727+07:00"
+    },
+    {
+      "id": "89a081dba26c4196f0d8da2ce0c92be8",
+      "title": "Ông Trump: Chiến dịch Cuồng nộ chỉ chấm dứt nếu Iran đồng ý với những gì đã thống nhất",
+      "link": "https://tuoitre.vn/ong-trump-chien-dich-cuong-no-chi-cham-dut-neu-iran-dong-y-voi-nhung-gi-da-thong-nhat-20260506204309524.htm",
+      "summary": "Sáng 6-5 (giờ Mỹ), Tổng thống Donald Trump nói rằng hiện vẫn còn ‘quá sớm’ để bắt đầu nghĩ đến các cuộc đàm phán hòa bình trực tiếp giữa Mỹ và Iran. Ông vẫn nói về khả năng đánh bom trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.569478+07:00",
+      "fetched": "2026-05-06T22:56:47.569597+07:00"
+    },
+    {
+      "id": "c4ddacb12bfcd8ba271ec4be64db18fe",
+      "title": "Tìm kiếm hoa hậu 'có tình yêu sâu sắc với văn hóa dân tộc'",
+      "link": "https://tuoitre.vn/tim-kiem-hoa-hau-co-tinh-yeu-sau-sac-voi-van-hoa-dan-toc-20260506210033239.htm",
+      "summary": "Thêm một cuộc thi hoa hậu vừa được công bố chiều 6-5 tại Bắc Ninh, để tìm kiếm những người phụ nữ không chỉ đẹp về hình thể, trí tuệ, mà còn 'có tình yêu sâu sắc đối với văn hóa dân tộc': Hoa hậu Văn hóa Việt Nam toàn cầu 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.569346+07:00",
+      "fetched": "2026-05-06T22:56:47.569466+07:00"
+    },
+    {
+      "id": "d0aa00efd3b16b07da77dfdcb6b0796e",
+      "title": "Thủ tướng: Từ năm 2026 khám sức khỏe định kỳ, khám sàng lọc miễn phí cho toàn dân",
+      "link": "https://tuoitre.vn/thu-tuong-tu-nam-2026-kham-suc-khoe-dinh-ky-kham-sang-loc-mien-phi-cho-toan-dan-20260506204728221.htm",
+      "summary": "Phó thủ tướng Phạm Thị Thanh Trà vừa ký ban hành chỉ thị của Thủ tướng Chính phủ về việc tổ chức khám sức khỏe định kỳ hoặc khám sàng lọc miễn phí cho người dân trên phạm vi cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.569208+07:00",
+      "fetched": "2026-05-06T22:56:47.569333+07:00"
+    },
+    {
+      "id": "c15757b22be12259e474a87c8a35c23d",
+      "title": "Đất hiếm, công nghệ số, dược phẩm nằm trong số 13 văn kiện hợp tác mới giữa Việt Nam - Ấn Độ",
+      "link": "https://tuoitre.vn/dat-hiem-cong-nghe-so-duoc-pham-nam-trong-so-13-van-kien-hop-tac-moi-giua-viet-nam-an-do-20260506213559253.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Thủ tướng Ấn Độ Narendra Modi cùng chứng kiến lễ trao các văn kiện hợp tác mới giữa các bộ, ngành, địa phương hai nước ngày 6-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.569062+07:00",
+      "fetched": "2026-05-06T22:56:47.569195+07:00"
+    },
+    {
+      "id": "5b60694299de62f34e9bd57721ab99d3",
+      "title": "Một tổ chức tăng mạnh tiền gửi tại ngân hàng, lên tới hơn 563.000 tỉ đồng",
+      "link": "https://tuoitre.vn/mot-to-chuc-tang-manh-tien-gui-tai-ngan-hang-len-toi-hon-563-000-ti-dong-20260506212930629.htm",
+      "summary": "Báo cáo tài chính quý 1-2026 của nhóm 3 ngân hàng quốc doanh cho thấy dòng tiền gửi từ Kho bạc Nhà nước tiếp tục tăng mạnh trong 3 tháng đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.568888+07:00",
+      "fetched": "2026-05-06T22:56:47.569047+07:00"
+    },
+    {
+      "id": "998a42c96ec60d443b8bdb58ac5944e2",
+      "title": "Bé gái 4 tuổi tử vong sau nhiều lần bị cha dượng và mẹ đẻ bạo hành tại phòng trọ",
+      "link": "https://tuoitre.vn/be-gai-4-tuoi-tu-vong-sau-nhieu-lan-bi-cha-duong-va-me-de-bao-hanh-tai-phong-tro-20260506214342371.htm",
+      "summary": "Bé gái 4 tuổi tử vong với tỉ lệ thương tích 99% sau thời gian bị cha dượng và mẹ đẻ bạo hành tại phòng trọ ở Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.568716+07:00",
+      "fetched": "2026-05-06T22:56:47.568859+07:00"
+    },
+    {
+      "id": "b5518910826db7a748d4a0464e3bd926",
+      "title": "Trực tuyến U17 Việt Nam - U17 Yemen (0h): Quyết tâm giành trọn 3 điểm",
+      "link": "https://tuoitre.vn/truc-tuyen-u17-viet-nam-u17-yemen-0h-quyet-tam-gianh-tron-3-diem-20260506105103176.htm",
+      "summary": "Mời bạn đọc đón xem trực tuyến cuộc đối đầu giữa U17 Việt Nam và U17 Yemen lúc 0h ngày 7-5 tại Giải U17 châu Á 2026 trên Tuổi Trẻ Online.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T22:56:47.568445+07:00",
+      "fetched": "2026-05-06T22:56:47.568697+07:00"
+    },
     {
       "id": "6b7f2dbb1d882d394369d0463f30af2f",
       "title": "Ajinomoto bứt phá trên bảng xếp hạng giá trị thương hiệu tại Nhật Bản",
@@ -303,6 +453,36 @@ window.newsData_2026_05_06 = {
       "fetched": "2026-05-06T18:45:29.430148+07:00"
     },
     {
+      "id": "d61b6c1f409b77dc2d3295486bfc4a21",
+      "title": "Tổng Bí thư, Chủ tịch nước nêu 5 định hướng hợp tác trọng tâm Việt Nam - Ấn Độ",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-neu-5-dinh-huong-hop-tac-trong-tam-viet-nam-an-do-5070816.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm phát biểu chính sách tại Hội đồng các vấn đề thế giới của Ấn Độ, nêu 5 định hướng hợp tác lớn cho quan hệ giữa hai nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-06T15:18:25+07:00",
+      "fetched": "2026-05-06T22:56:48.674946+07:00"
+    },
+    {
+      "id": "47f4109be78b66620ea7afa4d1807b20",
+      "title": "Nam Định thua CLB Malaysia ở bán kết Cup Đông Nam Á",
+      "link": "https://vnexpress.net/nam-dinh-thua-clb-malaysia-o-ban-ket-cup-dong-nam-a-5070808.html",
+      "summary": "Nam Định thua Selangor 1-2 trên sân đối phương ở lượt đi bán kết Cup CLB Đông Nam Á 2025-2026 vào tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-06T15:17:38+07:00",
+      "fetched": "2026-05-06T22:56:53.506836+07:00"
+    },
+    {
+      "id": "0ce3995cd1f24a1bd0c5f9acc678ce9c",
+      "title": "Tàu sân bay Pháp chuẩn bị cho sứ mệnh tại eo biển Hormuz",
+      "link": "https://thanhnien.vn/tau-san-bay-phap-chuan-bi-cho-su-menh-tai-eo-bien-hormuz-185260506213610137.htm",
+      "summary": "Nhóm tác chiến tàu sân bay Pháp Charles de Gaulle đang chuẩn bị cho một sứ mệnh tự do hàng hải tại eo biển Hormuz giữa căng thẳng Mỹ - Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:13:00+07:00",
+      "fetched": "2026-05-06T22:56:46.600441+07:00"
+    },
+    {
       "id": "126e164697b43608412a98a6ea5e377b",
       "title": "Khởi tố giám đốc sản xuất 'dung dịch vệ sinh phụ nữ trầu không bạc hà' giả",
       "link": "https://tuoitre.vn/khoi-to-giam-doc-san-xuat-dung-dich-ve-sinh-phu-nu-trau-khong-bac-ha-gia-20260506114758823.htm",
@@ -453,6 +633,276 @@ window.newsData_2026_05_06 = {
       "fetched": "2026-05-06T15:08:01.964727+07:00"
     },
     {
+      "id": "913eb84e4c5e9025694486357ac91bcc",
+      "title": "Xuân Son mờ nhạt, Văn Vĩ lập công nhưng Nam Định vẫn thua Selangor: Còn hy vọng bán kết lượt về",
+      "link": "https://thanhnien.vn/xuan-son-mo-nhat-van-vi-lap-cong-nhung-nam-dinh-van-thua-selangor-van-con-hy-vong-ban-ket-luot-ve-185260506215636996.htm",
+      "summary": "Xuân Son mở nhạt trong ngày hàng thủ chơi kém ở trận bán kết lượt đi Cúp vô địch CLB Đông Nam Á, nhưng bàn thắng của Văn Vĩ gieo hy vọng cho CLB Nam Định ở lượt về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:05:00+07:00",
+      "fetched": "2026-05-06T22:56:46.600636+07:00"
+    },
+    {
+      "id": "e5187af3de13c6d29ea4365818db8066",
+      "title": "Phụ nữ trẻ mê phong cách Old Money vì càng tối giản càng sang",
+      "link": "https://thanhnien.vn/thoi-trang-tre/phu-nu-tre-me-phong-cach-old-money-vi-cang-toi-gian-cang-sang-185260506012706094.htm",
+      "summary": "Không còn chạy theo thời trang phô trương, nhiều phụ nữ trẻ đang chuyển sang phong cách Old Money với sơ mi trắng, váy midi, blazer và gam màu trung tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T15:00:00+07:00",
+      "fetched": "2026-05-06T22:56:46.600806+07:00"
+    },
+    {
+      "id": "ece2dbb34280c69c53c241e15bb46ce3",
+      "title": "U.17 nữ Việt Nam quyết đấu Myanmar, nuôi hy vọng vào tứ kết giải châu Á",
+      "link": "https://thanhnien.vn/u17-nu-viet-nam-quyet-dau-myanmar-nuoi-hy-vong-vao-tu-ket-giai-chau-a-185260506205732588.htm",
+      "summary": "U.17 nữ Việt Nam đang hướng đến trận đấu mang tính quyết định với U.17 nữ Myanmar tại VCK U.17 nữ châu Á 2026. Ban huấn luyện yêu cầu toàn đội tập trung tối đa cho thể lực và hồi phục nhằm hướng tới mục tiêu giành vé vào tứ kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T14:59:00+07:00",
+      "fetched": "2026-05-06T22:56:46.600969+07:00"
+    },
+    {
+      "id": "618857b27e44ccd8431482edfca221b8",
+      "title": "Chủ tịch Viện giáo dục IEMS bị bắt vì cấp chứng chỉ tiếng Anh giả cho 80.000 người",
+      "link": "https://vnexpress.net/chu-tich-vien-giao-duc-iems-bi-bat-vi-cap-chung-chi-tieng-anh-gia-cho-80-000-nguoi-5070807.html",
+      "summary": "Đỗ Văn Mạnh - Chủ tịch Hội đồng Viện Khoa học quản lý giáo dục IEMS, bị cáo buộc dùng vỏ bọc học viện quốc tế để tổ chức 120 kỳ thi chứng chỉ tiếng Anh cho 80.000 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T14:51:02+07:00",
+      "fetched": "2026-05-06T22:56:43.706675+07:00"
+    },
+    {
+      "id": "fc3b38d028db5f7ac735f457217ee891",
+      "title": "U.17 Việt Nam 0-0 U.17 Yemen: Thầy trò HLV Roland quyết thắng trận ra quân",
+      "link": "https://thanhnien.vn/u17-viet-nam-0-0-u17-yemen-thay-tro-hlv-roland-quyet-thang-tran-ra-quan-185260506213453076.htm",
+      "summary": "Với thực lực nhỉnh hơn cùng quá trình chuẩn bị kỹ càng, U.17 Việt Nam được cho là đủ sức đánh bại U.17 Yemen ở trận ra quân bảng C vòng chung kết U.17 châu Á 2026 diễn ra vào 0 giờ ngày 7.5 tại Ả Rập Xê Út.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T14:44:00+07:00",
+      "fetched": "2026-05-06T22:56:46.601162+07:00"
+    },
+    {
+      "id": "933841401d6d5d644e3c5d09d9bcc989",
+      "title": "Cảnh sát đột kích sòng bạc đội lốt câu lạc bộ giải trí quốc tế ở biên giới",
+      "link": "https://vnexpress.net/canh-sat-dot-kich-song-bac-doi-lot-cau-lac-bo-giai-tri-quoc-te-o-bien-gioi-5070818.html",
+      "summary": "Cảnh sát đồng loạt đột kích khách sạn sát biên giới, bắt quả tang sòng bạc “đội lốt” câu lạc bộ giải trí quốc tế, thu giữ lượng chip quy đổi hơn 300 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T14:40:15+07:00",
+      "fetched": "2026-05-06T22:56:43.706889+07:00"
+    },
+    {
+      "id": "76625b800170ffc5333a46e360f7cc0f",
+      "title": "‘Nghẹt thở’ khoảnh khắc nữ giảng viên điều dưỡng cấp cứu bé trai đuối nước",
+      "link": "https://thanhnien.vn/nghet-tho-khoanh-khac-nu-giang-vien-dieu-duong-cap-cuu-be-trai-duoi-nuoc-185260506212328787.htm",
+      "summary": "Những ngày qua, đoạn clip ghi lại khoảnh khắc một người phụ nữ lao ra từ tiệm làm tóc, bình tĩnh thực hiện ép tim ngoài lồng ngực cứu sống một bé trai đuối nước đã lan truyền mạnh trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T14:26:00+07:00",
+      "fetched": "2026-05-06T22:56:46.601341+07:00"
+    },
+    {
+      "id": "029fb4960b37402bd6a5d4cc9fe1032c",
+      "title": "Cisco muốn giải quyết 'điểm nghẽn' hạ tầng AI tại Việt Nam",
+      "link": "https://vnexpress.net/cisco-muon-giai-quyet-diem-nghen-ha-tang-ai-tai-viet-nam-5070803.html",
+      "summary": "Cisco cho biết đang góp phần thu hẹp khoảng trống hạ tầng AI của Việt Nam bằng loạt giải pháp thúc đẩy quá trình ứng dụng công nghệ này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T14:24:48+07:00",
+      "fetched": "2026-05-06T22:56:43.707105+07:00"
+    },
+    {
+      "id": "029fb4960b37402bd6a5d4cc9fe1032c",
+      "title": "Cisco muốn giải quyết 'điểm nghẽn' hạ tầng AI tại Việt Nam",
+      "link": "https://vnexpress.net/cisco-muon-giai-quyet-diem-nghen-ha-tang-ai-tai-viet-nam-5070803.html",
+      "summary": "Cisco cho biết đang góp phần thu hẹp khoảng trống hạ tầng AI của Việt Nam bằng loạt giải pháp thúc đẩy quá trình ứng dụng công nghệ này.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-06T14:24:48+07:00",
+      "fetched": "2026-05-06T22:56:52.191243+07:00"
+    },
+    {
+      "id": "f6eab86a1e44986ce8ee0bc207084ef0",
+      "title": "Xác định 2 ngoại binh sát cánh cùng Trần Thị Thanh Thúy săn cúp vô địch",
+      "link": "https://thanhnien.vn/xac-dinh-2-ngoai-binh-sat-canh-cung-tran-thi-thanh-thuy-san-cup-vo-dich-185260506210207188.htm",
+      "summary": "CLB VTV Bình Điền Long An chốt 2 ngoại binh sẽ sát cánh cùng ngôi sao Trần Thị Thanh Thúy tranh tài ở giải bóng chuyền nữ quốc tế VTV9 - Bình Điền 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T14:07:00+07:00",
+      "fetched": "2026-05-06T22:56:46.601501+07:00"
+    },
+    {
+      "id": "1e6bc8b9131b0b970bfdbf7adce99b14",
+      "title": "'An toàn đường đua môtô tại sân Cần Thơ chưa đảm bảo'",
+      "link": "https://vnexpress.net/an-toan-duong-dua-moto-tai-san-can-tho-chua-dam-bao-5070791.html",
+      "summary": "Thiếu tướng Huỳnh Việt Hòa, Giám đốc Công an TP Cần Thơ, nói sau tai nạn khiến tay đua tử vong, cơ quan chức năng vào cuộc phát hiện đường đua chưa thực sự an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T14:00:30+07:00",
+      "fetched": "2026-05-06T22:56:43.707283+07:00"
+    },
+    {
+      "id": "398a1e7ca6361c0ee8c1b528b26eb1b0",
+      "title": "Cú sốc lương 11 triệu dù đầu tư tiền tỷ du học Anh",
+      "link": "https://vnexpress.net/du-hoc-anh-cu-soc-luong-11-trieu-du-dau-tu-tien-ty-du-hoc-anh-5070716.html",
+      "summary": "Bằng ngoại nhưng lương nội, tôi cay đắng tự hỏi: 'Mình đã bỏ ra từng ấy tiền du học ở nước ngoài, để rồi bắt đầu như thế này sao?”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T14:00:00+07:00",
+      "fetched": "2026-05-06T22:56:43.707449+07:00"
+    },
+    {
+      "id": "c79f21d85d21b7929d51e9ea378d1e28",
+      "title": "Em chán nản vì học Toán không tiến bộ trong khi sắp thi vào lớp 10",
+      "link": "https://vnexpress.net/on-thi-em-chan-nan-vi-hoc-toan-khong-tien-bo-trong-khi-sap-thi-vao-lop-10-5070661.html",
+      "summary": "Em thấy cố gắng của mình như chẳng để làm gì cả vì hết lỗi vặt này, em lại mắc lỗi vặt khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T14:00:00+07:00",
+      "fetched": "2026-05-06T22:56:43.707612+07:00"
+    },
+    {
+      "id": "d8237b05228765f49557e94a03ece200",
+      "title": "Samsung giới thiệu màn hình OLED tích hợp cảm biến theo dõi sức khỏe",
+      "link": "https://thanhnien.vn/samsung-gioi-thieu-man-hinh-oled-tich-hop-cam-bien-theo-doi-suc-khoe-185260506153312158.htm",
+      "summary": "Samsung đang giới thiệu những cải tiến mới nhất về công nghệ màn hình tại sự kiện Display Week 2026 do hãng tổ chức ở California (Mỹ) từ ngày 5 - 7.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:59:00+07:00",
+      "fetched": "2026-05-06T22:56:46.601665+07:00"
+    },
+    {
+      "id": "062e589428091ab24acd6eec51842cad",
+      "title": "Những ai ở TP.HCM được nhận 1 triệu đồng dịp 50 năm thành phố mang tên Bác?",
+      "link": "https://thanhnien.vn/nhung-ai-o-tphcm-duoc-nhan-1-trieu-dong-dip-50-nam-thanh-pho-mang-ten-bac-185260506201351589.htm",
+      "summary": "Trong dịp kỷ niệm 50 năm ngày thành phố Sài Gòn - Gia Định mang tên Chủ tịch Hồ Chí Minh, TP.HCM tặng quà 1 triệu đồng cho nhiều hộ gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:52:00+07:00",
+      "fetched": "2026-05-06T22:56:46.601823+07:00"
+    },
+    {
+      "id": "cf04dca25f4e7de4655c651d89c255e6",
+      "title": "Bánh mì Việt vào khách sạn 4 sao ở Singapore",
+      "link": "https://thanhnien.vn/banh-mi-viet-vao-khach-san-4-sao-o-singapore-185260506202523558.htm",
+      "summary": "Từ món ăn đường phố quen thuộc, một thương hiệu bánh mì của người Việt vừa trở thành đối tác của khách sạn 4 sao Park Regis by Prince Singapore.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:48:00+07:00",
+      "fetched": "2026-05-06T22:56:46.601979+07:00"
+    },
+    {
+      "id": "2369d6384cfcaff717380fa5340e33db",
+      "title": "Ông Trump: Mỹ sẽ ném bom dữ dội hơn nếu Iran khước từ thỏa thuận",
+      "link": "https://vnexpress.net/ong-trump-my-se-nem-bom-du-doi-hon-neu-iran-khuoc-tu-thoa-thuan-5070804.html",
+      "summary": "Tổng thống Trump yêu cầu Iran chấp nhận thỏa thuận chấm dứt xung đột, nếu không sẽ phải đối mặt đợt ném bom dữ dội hơn từ Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:47:43+07:00",
+      "fetched": "2026-05-06T22:56:43.707783+07:00"
+    },
+    {
+      "id": "2369d6384cfcaff717380fa5340e33db",
+      "title": "Ông Trump: Mỹ sẽ ném bom dữ dội hơn nếu Iran khước từ thỏa thuận",
+      "link": "https://vnexpress.net/ong-trump-my-se-nem-bom-du-doi-hon-neu-iran-khuoc-tu-thoa-thuan-5070804.html",
+      "summary": "Tổng thống Trump yêu cầu Iran chấp nhận thỏa thuận chấm dứt xung đột, nếu không sẽ phải đối mặt đợt ném bom dữ dội hơn từ Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-06T13:47:43+07:00",
+      "fetched": "2026-05-06T22:56:48.675194+07:00"
+    },
+    {
+      "id": "74aa33491d5cd3e5df1c3f4ac4c7ef7e",
+      "title": "Mỹ - Iran bắn tín hiệu xuống thang, hé lộ đề xuất 14 điểm",
+      "link": "https://thanhnien.vn/my-iran-ban-tin-hieu-xuong-thang-he-lo-de-xuat-14-diem-185260506195039771.htm",
+      "summary": "Iran tuyên bố có thể mở lại eo biển Hormuz nếu Mỹ chấm dứt chiến sự trong khi Washington nói xung đột có thể kết thúc nếu Tehran chấp nhận đề xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:46:00+07:00",
+      "fetched": "2026-05-06T22:56:46.602175+07:00"
+    },
+    {
+      "id": "381e76c6a0744f0ddb61b8797c0ccd27",
+      "title": "Tham gia cuộc thi ‘Sống đẹp’ lần 6: Hành trình không giới hạn",
+      "link": "https://thanhnien.vn/tham-gia-cuoc-thi-song-dep-lan-6-hanh-trinh-khong-gioi-han-185260418084224029.htm",
+      "summary": "Tiếp nối thành công rực rỡ của 5 mùa trước, cuộc thi 'Sống đẹp' lần 6 chính thức trở lại với chủ đề 'Hành trình không giới hạn'. Không dừng lại ở việc tôn vinh những tấm gương tử tế, năm nay Báo Thanh Niên mở rộng quy mô với hạng mục mới dành cho 'người nổi tiếng', hứa hẹn tạo nên một làn sóng nhân ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:40:00+07:00",
+      "fetched": "2026-05-06T22:56:46.602337+07:00"
+    },
+    {
+      "id": "390b2ee92267af3a6aaea3a3b482aacf",
+      "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Quản lý tài chính",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-quan-ly-tai-chinh-185260506132158946.htm",
+      "summary": "Vào lúc 20 giờ 30 ngày 6.5, Báo Thanh Niên phát sóng chuyên đề số 5 của môn giáo dục kinh tế và pháp luật trong chương trình Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:30:00+07:00",
+      "fetched": "2026-05-06T22:56:46.602492+07:00"
+    },
+    {
+      "id": "4071e44f0c8b4ea2950a1867d4e15b66",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn giáo dục kinh tế và pháp luật | Chuyên đề 5 | Trách nhiệm xã hội của doanh nghiệp",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-giao-duc-kinh-te-va-phap-luat-chuyen-de-5-trach-nhiem-xa-hoi-cua-doanh-nghiep-185260430140131453.htm",
+      "summary": "Chương trình hướng dẫn học sinh làm bài thi môn giáo dục kinh tế và pháp luật, kỳ thi THPT quốc gia 2026. Buổi hướng dẫn \"Bí quyết ôn thi THPT 2026\" do cô Võ Hậu – Trường THPT Marie Curie (TP.HCM) – thực hiện. Chương trình được phát trên các kênh thanhnien.vn, Facebook.com/thanhnien và YouTube Báo T...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:30:00+07:00",
+      "fetched": "2026-05-06T22:56:46.602658+07:00"
+    },
+    {
+      "id": "11af10888ce8054e2cae64c4c971e3a7",
+      "title": "Chuyên gia cảnh báo rủi ro gói vay mua nhà lãi suất thấp",
+      "link": "https://vnexpress.net/chuyen-gia-canh-bao-rui-ro-goi-vay-mua-nha-lai-suat-thap-5070777.html",
+      "summary": "Nhiều chủ đầu tư tung các gói vay mua nhà lãi suất 5-6% một năm, song chuyên gia cảnh báo rủi ro dòng tiền của người mua khi hết thời gian ưu đãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:24:03+07:00",
+      "fetched": "2026-05-06T22:56:43.707949+07:00"
+    },
+    {
+      "id": "7992d9d34b44f2ea7126c9dfddce8ca1",
+      "title": "10 tạo hình 'lạ' nhất thảm đỏ Met Gala 2026",
+      "link": "https://vnexpress.net/10-tao-hinh-la-nhat-tham-do-met-gala-2026-5070800.html",
+      "summary": "Tượng cẩm thạch, búp bê ma mị, cánh tay 3D ôm quanh cơ thể… là những tạo hình được Vogue chọn vào nhóm trang phục độc đáo nhất Met Gala 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:14:03+07:00",
+      "fetched": "2026-05-06T22:56:43.708140+07:00"
+    },
+    {
+      "id": "fee7e638fd1c627f4f0e00c6aca56546",
+      "title": "Ngoại trưởng Araghchi: Trung Quốc là người bạn chân thành của Iran",
+      "link": "https://vnexpress.net/ngoai-truong-araghchi-trung-quoc-la-nguoi-ban-chan-thanh-cua-iran-5070768.html",
+      "summary": "Ngoại trưởng Iran hội đàm cùng người đồng cấp Trung Quốc, ca ngợi mối quan hệ và cảm ơn lập trường của Bắc Kinh trong xung đột Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:08:23+07:00",
+      "fetched": "2026-05-06T22:56:43.708304+07:00"
+    },
+    {
+      "id": "fee7e638fd1c627f4f0e00c6aca56546",
+      "title": "Ngoại trưởng Araghchi: Trung Quốc là người bạn chân thành của Iran",
+      "link": "https://vnexpress.net/ngoai-truong-araghchi-trung-quoc-la-nguoi-ban-chan-thanh-cua-iran-5070768.html",
+      "summary": "Ngoại trưởng Iran hội đàm cùng người đồng cấp Trung Quốc, ca ngợi mối quan hệ và cảm ơn lập trường của Bắc Kinh trong xung đột Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-06T13:08:23+07:00",
+      "fetched": "2026-05-06T22:56:48.675387+07:00"
+    },
+    {
+      "id": "4a087e0fbe0168ba60a63d3f146e17ba",
+      "title": "Nước châu Á nào có bức tượng cao 182 m?",
+      "link": "https://vnexpress.net/nuoc-chau-a-nao-co-buc-tuong-cao-182-m-5070797.html",
+      "summary": "Bức tượng người này cao 182 m, được Guinness công nhận là cao nhất thế giới. Bạn có biết nó ở nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:03:00+07:00",
+      "fetched": "2026-05-06T22:56:43.708480+07:00"
+    },
+    {
       "id": "6153c4a9a55ad5376a3b89db622588c9",
       "title": "ON TRENDING: Dàn diễn viên 'Thẩm mỹ viện âm phủ' hé lộ hậu trường kịch tính tại Đà Lạt",
       "link": "https://thanhnien.vn/on-trending-dan-dien-vien-tham-my-vien-am-phu-he-lo-hau-truong-kich-tinh-tai-da-lat-185260506181448023.htm",
@@ -481,6 +931,16 @@ window.newsData_2026_05_06 = {
       "category": "Tổng hợp",
       "published": "2026-05-06T13:00:00+07:00",
       "fetched": "2026-05-06T20:29:43.655502+07:00"
+    },
+    {
+      "id": "452605f99fb4f39bef5db0d83c8629db",
+      "title": "Quy Nhon Sea Hotel ghi điểm nhờ vị trí gần biển",
+      "link": "https://vnexpress.net/quy-nhon-sea-hotel-ghi-diem-nho-vi-tri-gan-bien-5070273.html",
+      "summary": "Quy Nhon Sea Hotel được nhiều du khách quan tâm nhờ vị trí gần biển, hệ thống phòng đa dạng cùng các tiện ích đi kèm, đáp ứng nhiều nhu cầu lưu trú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T13:00:00+07:00",
+      "fetched": "2026-05-06T22:56:43.708640+07:00"
     },
     {
       "id": "614b806c44a41229a20774c3fc7a5ad4",
