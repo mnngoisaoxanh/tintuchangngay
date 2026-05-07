@@ -1,6 +1,6 @@
 window.newsData_2026_05_08 = {
   "date": "2026-05-08",
-  "lastUpdated": "2026-05-08T02:25:55.020519+07:00",
+  "lastUpdated": "2026-05-08T03:57:44.196209+07:00",
   "articles": [
     {
       "id": "0657edd19495111866d42e0d57827373",
@@ -163,6 +163,36 @@ window.newsData_2026_05_08 = {
       "fetched": "2026-05-08T00:46:47.799655+07:00"
     },
     {
+      "id": "4daa3af2ea8f5b804a126d6872217ddf",
+      "title": "Nhóm PETA chôn chân vào khối bê tông phản đối 'ngược đãi bò'",
+      "link": "https://vnexpress.net/nhom-peta-chon-chan-vao-khoi-be-tong-phan-doi-nguoc-dai-bo-5070995.html",
+      "summary": "Các nhà hoạt động vì quyền động vật PETA chôn chân vào khối bê tông trước trụ sở PepsiCo, cáo buộc tập đoàn này mua đường từ các trang trại \"ngược đãi bò\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T20:00:00+07:00",
+      "fetched": "2026-05-08T03:57:31.057408+07:00"
+    },
+    {
+      "id": "704e8749cb5d615538ba39dc5f803c8a",
+      "title": "Phân biệt triệu chứng do virus Hanta với các bệnh truyền nhiễm khác",
+      "link": "https://vnexpress.net/phan-biet-trieu-chung-do-virus-hanta-voi-cac-benh-truyen-nhiem-khac-5071175.html",
+      "summary": "Triệu chứng bệnh do virus Hanta từ chuột dễ nhầm với cúm, sốt xuất huyết hay sốt siêu vi, song khác ở chỗ đi tiểu ít, phù mặt hoặc chân, tụt huyết áp, khó thở sau 3-5 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T20:00:00+07:00",
+      "fetched": "2026-05-08T03:57:31.057598+07:00"
+    },
+    {
+      "id": "4daa3af2ea8f5b804a126d6872217ddf",
+      "title": "Nhóm PETA chôn chân vào khối bê tông phản đối 'ngược đãi bò'",
+      "link": "https://vnexpress.net/nhom-peta-chon-chan-vao-khoi-be-tong-phan-doi-nguoc-dai-bo-5070995.html",
+      "summary": "Các nhà hoạt động vì quyền động vật PETA chôn chân vào khối bê tông trước trụ sở PepsiCo, cáo buộc tập đoàn này mua đường từ các trang trại \"ngược đãi bò\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-07T20:00:00+07:00",
+      "fetched": "2026-05-08T03:57:36.906598+07:00"
+    },
+    {
       "id": "3f98f62062b3167d52b655fe10a7db29",
       "title": "Sống chật vật ở tỉnh đòi ly khai khỏi Canada",
       "link": "https://vnexpress.net/song-chat-vat-o-tinh-doi-ly-khai-khoi-canada-5071037.html",
@@ -181,6 +211,16 @@ window.newsData_2026_05_08 = {
       "category": "Kinh doanh",
       "published": "2026-05-07T19:00:00+07:00",
       "fetched": "2026-05-08T02:25:50.400549+07:00"
+    },
+    {
+      "id": "87962fb433ea23a3aacf4d45a84ed56a",
+      "title": "Thông tuyến lệ cho trẻ có cần gây mê?",
+      "link": "https://vnexpress.net/thong-tuyen-le-cho-tre-co-can-gay-me-5071150.html",
+      "summary": "Con tôi một tuổi, tắc lệ đạo hơn 4 tháng, đã được massage nhưng không giảm. Bé có cần thông tuyến lệ và gây mê khi thực hiện không? (Yến Nguyễn, 25 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T19:00:00+07:00",
+      "fetched": "2026-05-08T03:57:31.058104+07:00"
     },
     {
       "id": "39672a069197d8d9a08e309c020819b7",
