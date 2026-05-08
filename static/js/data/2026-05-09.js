@@ -1,7 +1,27 @@
 window.newsData_2026_05_09 = {
   "date": "2026-05-09",
-  "lastUpdated": "2026-05-09T00:02:35.640066+07:00",
+  "lastUpdated": "2026-05-09T02:04:15.076403+07:00",
   "articles": [
+    {
+      "id": "a744fe52d3576ddf31fe13b9fc0795b2",
+      "title": "Nhóm thanh niên mang hung khí vào quán cà phê chém người tử vong",
+      "link": "https://tuoitre.vn/nhom-thanh-nien-mang-hung-khi-vao-quan-ca-phe-chem-nguoi-tu-vong-20260508225741854.htm",
+      "summary": "Nhóm thanh niên mang hung khí xông vào quán cà phê ở xã Tân Lộc, tỉnh Cà Mau tấn công bốn thanh thiếu niên đang ngồi bên trong làm một người tử vong tại chỗ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T02:04:09.542342+07:00",
+      "fetched": "2026-05-09T02:04:09.542476+07:00"
+    },
+    {
+      "id": "dee34769b70703bc7ca272df1931fc65",
+      "title": "Mỹ tung video bắn hai tàu treo cờ Iran cố vượt vòng phong tỏa",
+      "link": "https://tuoitre.vn/my-tung-video-ban-hai-tau-treo-co-iran-co-vuot-vong-phong-toa-20260508231608878.htm",
+      "summary": "Quân đội Mỹ nổ súng và vô hiệu hóa hai tàu chở dầu treo cờ Iran bị cáo buộc tìm cách vượt qua lệnh phong tỏa của Washington.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T02:04:09.542118+07:00",
+      "fetched": "2026-05-09T02:04:09.542327+07:00"
+    },
     {
       "id": "7c0f36157eca89c210087531da1cdef4",
       "title": "Iran: 'Mỗi khi giải pháp ngoại giao được đặt lên, Mỹ lại lựa chọn phiêu lưu quân sự liều lĩnh'",
@@ -153,6 +173,136 @@ window.newsData_2026_05_09 = {
       "fetched": "2026-05-09T00:02:27.358472+07:00"
     },
     {
+      "id": "a53ca7f8bdddf486aa4cbcc96a718b25",
+      "title": "Tân vương V-League sắp lộ diện",
+      "link": "https://thanhnien.vn/tan-vuong-v-league-sap-lo-dien-185260508194252591.htm",
+      "summary": "Cuộc đua vô địch V-League 2025 - 2026 có thể hạ màn ngay vòng 22, khi CLB Công an Hà Nội đã ở rất gần bục vinh quang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T18:09:00+07:00",
+      "fetched": "2026-05-09T02:04:08.388112+07:00"
+    },
+    {
+      "id": "6c8db9fa651b9e57d802c1d75b7de3bd",
+      "title": "Lưới phòng thủ giúp tàu chiến Mỹ đối mặt 'mưa hỏa lực' của Iran",
+      "link": "https://vnexpress.net/luoi-phong-thu-giup-tau-chien-my-doi-mat-mua-hoa-luc-cua-iran-5071421.html",
+      "summary": "Các khu trục hạm Mỹ được trang bị radar cảnh giới hiện đại và hàng chục tên lửa các loại, cho phép đối mặt với đòn tấn công của Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T18:00:00+07:00",
+      "fetched": "2026-05-09T02:04:05.902761+07:00"
+    },
+    {
+      "id": "6c8db9fa651b9e57d802c1d75b7de3bd",
+      "title": "Lưới phòng thủ giúp tàu chiến Mỹ đối mặt 'mưa hỏa lực' của Iran",
+      "link": "https://vnexpress.net/luoi-phong-thu-giup-tau-chien-my-doi-mat-mua-hoa-luc-cua-iran-5071421.html",
+      "summary": "Các khu trục hạm Mỹ được trang bị radar cảnh giới hiện đại và hàng chục tên lửa các loại, cho phép đối mặt với đòn tấn công của Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-08T18:00:00+07:00",
+      "fetched": "2026-05-09T02:04:10.816492+07:00"
+    },
+    {
+      "id": "ab9be2a7711c47b4c629d48df8674346",
+      "title": "Uống nước dừa mỗi ngày: Lợi ích và rủi ro ít người để ý",
+      "link": "https://thanhnien.vn/uong-nuoc-dua-moi-ngay-loi-ich-va-rui-ro-it-nguoi-de-y-18526050814213664.htm",
+      "summary": "Nước dừa được xem là lựa chọn lành mạnh vì có nguồn gốc tự nhiên và giải khát nhanh. Nhưng điều cần lưu ý là tự nhiên không có nghĩa là uống càng nhiều càng tốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:58:00+07:00",
+      "fetched": "2026-05-09T02:04:08.388282+07:00"
+    },
+    {
+      "id": "42989192332609112b5fc3a9e4197f9b",
+      "title": "Việt Nam - Sri Lanka nhất trí thúc đẩy hợp tác khoa học công nghệ",
+      "link": "https://vnexpress.net/viet-nam-sri-lanka-nhat-tri-thuc-day-hop-tac-khoa-hoc-cong-nghe-5071729.html",
+      "summary": "Việt Nam và Sri Lanka ra tuyên bố chung, nhất trí mở rộng hợp tác trên nhiều lĩnh vực, trong đó có khoa học công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:20:32+07:00",
+      "fetched": "2026-05-09T02:04:05.902948+07:00"
+    },
+    {
+      "id": "42989192332609112b5fc3a9e4197f9b",
+      "title": "Việt Nam - Sri Lanka nhất trí thúc đẩy hợp tác khoa học công nghệ",
+      "link": "https://vnexpress.net/viet-nam-sri-lanka-nhat-tri-thuc-day-hop-tac-khoa-hoc-cong-nghe-5071729.html",
+      "summary": "Việt Nam và Sri Lanka ra tuyên bố chung, nhất trí mở rộng hợp tác trên nhiều lĩnh vực, trong đó có khoa học công nghệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-08T17:20:32+07:00",
+      "fetched": "2026-05-09T02:04:10.816670+07:00"
+    },
+    {
+      "id": "96cf92944bfeec551ba2db6360bff5a4",
+      "title": "Mỹ chờ Iran sớm phản hồi đề xuất hòa bình",
+      "link": "https://vnexpress.net/my-cho-iran-som-phan-hoi-de-xuat-hoa-binh-5071710.html",
+      "summary": "Ngoại trưởng Mỹ Rubio nói nước này đang chờ Iran sớm phản hồi đề xuất về cuộc xung đột hiện nay, mong đó là \"đề nghị nghiêm túc\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:20:12+07:00",
+      "fetched": "2026-05-09T02:04:05.903115+07:00"
+    },
+    {
+      "id": "96cf92944bfeec551ba2db6360bff5a4",
+      "title": "Mỹ chờ Iran sớm phản hồi đề xuất hòa bình",
+      "link": "https://vnexpress.net/my-cho-iran-som-phan-hoi-de-xuat-hoa-binh-5071710.html",
+      "summary": "Ngoại trưởng Mỹ Rubio nói nước này đang chờ Iran sớm phản hồi đề xuất về cuộc xung đột hiện nay, mong đó là \"đề nghị nghiêm túc\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-08T17:20:12+07:00",
+      "fetched": "2026-05-09T02:04:10.816865+07:00"
+    },
+    {
+      "id": "f5772b4851f115b88f4c2bbdeb557034",
+      "title": "Ăn trái cây ngọt có làm tăng nguy cơ tiểu đường không?",
+      "link": "https://thanhnien.vn/an-trai-cay-ngot-co-lam-tang-nguy-co-tieu-duong-khong-185260508142349249.htm",
+      "summary": "Một hiểu lầm khá phổ biến là ăn nhiều trái cây ngọt như xoài chín, sầu riêng hay mít dễ làm tăng đường huyết và gây tiểu đường. Trên thực tế, những loại trái cây này không trực tiếp gây tiểu đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:08:00+07:00",
+      "fetched": "2026-05-09T02:04:08.388438+07:00"
+    },
+    {
+      "id": "1ad07f44653fac9eb3e622bd06b4c2b0",
+      "title": "Đồ chơi 'trứng rồng' kẹt trong hậu môn thanh niên",
+      "link": "https://vnexpress.net/do-choi-trung-rong-ket-trong-hau-mon-thanh-nien-5071583.html",
+      "summary": "Nam thanh niên 31 tuổi nhập viện cấp cứu vì món đồ chơi tình dục 'trứng rồng' dài gần 14 cm mắc kẹt sâu trong hậu môn - trực tràng sau khi thử cảm giác lạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:03:00+07:00",
+      "fetched": "2026-05-09T02:04:05.903278+07:00"
+    },
+    {
+      "id": "b972dedb55791d7f5afbdc33df51040a",
+      "title": "Dấu hiệu ban đêm cảnh báo gan, thận gặp vấn đề",
+      "link": "https://vnexpress.net/dau-hieu-ban-dem-canh-bao-gan-than-gap-van-de-5071438.html",
+      "summary": "Ngứa dữ dội thường xuyên, tiểu đêm nhiều lần hoặc đổ mồ hôi khi ngủ có thể là dấu hiệu cảnh báo bệnh lý ở gan hoặc thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:03:00+07:00",
+      "fetched": "2026-05-09T02:04:05.903442+07:00"
+    },
+    {
+      "id": "26a1262c15bd4f59551bd6cfe4a996f8",
+      "title": "5 con giáp ngập tràn kho báu từ cuối tuần",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-5-con-giap-ngap-tran-kho-bau-tu-cuoi-tuan-5071234.html",
+      "summary": "Có người được quý nhân giúp sức, có người lại gặp đúng thời cơ vàng để bứt phá tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:02:00+07:00",
+      "fetched": "2026-05-09T02:04:05.903598+07:00"
+    },
+    {
+      "id": "84a84d3ae22054d3c2dc4cb51be5a851",
+      "title": "20 đại học sản sinh nhiều tỷ phú nhất thế giới",
+      "link": "https://vnexpress.net/top-dai-hoc-dao-tao-nhieu-ty-phu-nhat-the-gioi-5071172.html",
+      "summary": "Hơn một nửa số tỷ phú tốt nghiệp ở 20 trường đại học, phần lớn từ Mỹ và Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:02:00+07:00",
+      "fetched": "2026-05-09T02:04:05.903777+07:00"
+    },
+    {
       "id": "dc6ec53d2743eb068e43e3433caa9b9a",
       "title": "Lịch thi đấu, trực tiếp V-League rất hay hôm nay: Thanh Hóa quyết chiến Hà Nội, Ninh Bình lên tốp 3 nếu…",
       "link": "https://thanhnien.vn/lich-thi-dau-truc-tiep-v-league-rat-hay-hom-nay-thanh-hoa-quyet-chien-ha-noi-ninh-binh-len-top-3-neu-185260508211555822.htm",
@@ -181,6 +331,126 @@ window.newsData_2026_05_09 = {
       "category": "Tổng hợp",
       "published": "2026-05-08T17:00:00+07:00",
       "fetched": "2026-05-09T00:02:26.252902+07:00"
+    },
+    {
+      "id": "6c7c288dbfbbb3e5e2c356ce58ba2302",
+      "title": "Nỗi lo sinh kế của xe ôm trong vành đai 1",
+      "link": "https://vnexpress.net/noi-lo-sinh-ke-cua-xe-om-trong-vanh-dai-1-5071704.html",
+      "summary": "Trên phố Tràng Tiền, nơi dự kiến hạn chế xe ôm xăng từ ngày 1/7, ông Tiến dong chiếc Wave nép sát vỉa hè, lọt thỏm trong góc phố sầm uất bậc nhất Thủ đô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:00:00+07:00",
+      "fetched": "2026-05-09T02:04:05.903945+07:00"
+    },
+    {
+      "id": "f10ca16b87c2eecde42c0c6bdeca4af0",
+      "title": "Bạn gái chia tay sau khi tôi đề nghị mình góp 2 tỷ, em 4 tỷ cùng mua nhà",
+      "link": "https://vnexpress.net/ban-gai-chia-tay-sau-khi-toi-de-nghi-minh-gop-2-ty-em-4-ty-cung-mua-nha-5071702.html",
+      "summary": "Sau đó, tôi tình cờ nghe bạn của em nói rằng em từng nhận xét tôi không có tự trọng, muốn dựa vào tiền của em để nuôi cháu mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:00:00+07:00",
+      "fetched": "2026-05-09T02:04:05.904104+07:00"
+    },
+    {
+      "id": "6291f04ad4375dcbb98fe21e63f28bfc",
+      "title": "Giả vờ mua cây cảnh, giật dây chuyền vàng",
+      "link": "https://vnexpress.net/gia-vo-mua-cay-canh-giat-day-chuyen-vang-5071700.html",
+      "summary": "Võ Văn Tài, 33 tuổi, bị bắt sau khi trộm xe SH, điện thoại rồi tiếp tục đóng giả khách mua cây cảnh để giật dây chuyền của một phụ nữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:00:00+07:00",
+      "fetched": "2026-05-09T02:04:05.904263+07:00"
+    },
+    {
+      "id": "cec02269ea363f556018e206df36a717",
+      "title": "Bí ẩn vụ trộm chôn siêu xe Ferrari dưới sân hơn 3 năm",
+      "link": "https://vnexpress.net/bi-an-vu-trom-chon-sieu-xe-ferrari-duoi-san-hon-3-nam-5071670.html",
+      "summary": "Rosendo Cruz bỏ số tiền lớn mua chiếc Ferrari Dino tặng vợ, nhưng nó biến mất không dấu vết, hơn 3 năm sau bất ngờ được phát hiện dưới lòng đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:00:00+07:00",
+      "fetched": "2026-05-09T02:04:05.904420+07:00"
+    },
+    {
+      "id": "a0392403f07d5ae42b96e6e8ccd538e8",
+      "title": "AI và ảo tưởng 'tôi biết tuốt'",
+      "link": "https://vnexpress.net/ai-va-ao-tuong-toi-biet-tuot-5071665.html",
+      "summary": "Một cuốn sách về các loài nấm ở vùng Saskatchewan (Canada), từng được xuất bản trên Amazon, có thể trở thành lời hướng dẫn chết người nếu thực hiện theo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:00:00+07:00",
+      "fetched": "2026-05-09T02:04:05.904573+07:00"
+    },
+    {
+      "id": "33e94b86116448323e403b494197a3e3",
+      "title": "Đồng Nai xây cầu 6 làn xe nối TP HCM",
+      "link": "https://vnexpress.net/dong-nai-xay-cau-6-lan-xe-noi-tp-hcm-5071657.html",
+      "summary": "TP Đồng Nai dự kiến khởi công cầu Tân Hiền nối TP HCM vào quý IV/2026 nhằm tăng kết nối giao thông liên vùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:00:00+07:00",
+      "fetched": "2026-05-09T02:04:05.904750+07:00"
+    },
+    {
+      "id": "d21887a502472dceb8c474887864a1f2",
+      "title": "CEO Nvidia, Apple sẽ cùng ông Trump đến Trung Quốc",
+      "link": "https://vnexpress.net/ceo-nvidia-apple-se-cung-ong-trump-den-trung-quoc-5071620.html",
+      "summary": "Hơn 10 lãnh đạo doanh nghiệp, trong đó có CEO Nvidia, Apple, Qualcomm, Citigroup và Boeing sẽ cùng Tổng thống Mỹ đến Trung Quốc tuần tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:00:00+07:00",
+      "fetched": "2026-05-09T02:04:05.904913+07:00"
+    },
+    {
+      "id": "60ab3c76b1120f962486820a1e13923e",
+      "title": "Công ty dịch thuật cắt giảm 1/4 nhân sự do AI",
+      "link": "https://vnexpress.net/cong-ty-dich-thuat-cat-giam-1-4-nhan-su-do-ai-5071618.html",
+      "summary": "Công ty dịch thuật AI DeepL (Đức) thông báo khoảng 250 trong số 1.000 nhân viên công ty sẽ mất việc vì AI khiến những vị trí đó trở nên dư thừa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:00:00+07:00",
+      "fetched": "2026-05-09T02:04:05.905065+07:00"
+    },
+    {
+      "id": "d21887a502472dceb8c474887864a1f2",
+      "title": "CEO Nvidia, Apple sẽ cùng ông Trump đến Trung Quốc",
+      "link": "https://vnexpress.net/ceo-nvidia-apple-se-cung-ong-trump-den-trung-quoc-5071620.html",
+      "summary": "Hơn 10 lãnh đạo doanh nghiệp, trong đó có CEO Nvidia, Apple, Qualcomm, Citigroup và Boeing sẽ cùng Tổng thống Mỹ đến Trung Quốc tuần tới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-08T17:00:00+07:00",
+      "fetched": "2026-05-09T02:04:11.700817+07:00"
+    },
+    {
+      "id": "60ab3c76b1120f962486820a1e13923e",
+      "title": "Công ty dịch thuật cắt giảm 1/4 nhân sự do AI",
+      "link": "https://vnexpress.net/cong-ty-dich-thuat-cat-giam-1-4-nhan-su-do-ai-5071618.html",
+      "summary": "Công ty dịch thuật AI DeepL (Đức) thông báo khoảng 250 trong số 1.000 nhân viên công ty sẽ mất việc vì AI khiến những vị trí đó trở nên dư thừa.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-08T17:00:00+07:00",
+      "fetched": "2026-05-09T02:04:14.178468+07:00"
+    },
+    {
+      "id": "8e420c942d88a5395b0537068941afdb",
+      "title": "Sinner: 'Tiền thưởng cho thấy 4 Grand Slam không tôn trọng các tay vợt'",
+      "link": "https://vnexpress.net/sinner-tien-thuong-cho-thay-4-grand-slam-khong-ton-trong-cac-tay-vot-5071676.html",
+      "summary": "Phương án phân bổ tiền thưởng tại Roland Garros 2026 làm bùng lên làn sóng phản đối từ các tay vợt, và Jannik Sinner là cái tên mới nhất công khai chỉ trích sự thiếu công bằng của ban tổ chức các giải Grand Slam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-08T17:00:00+07:00",
+      "fetched": "2026-05-09T02:04:15.071232+07:00"
+    },
+    {
+      "id": "d8c58e6f3016d2cc72f1e48b7dcfb61d",
+      "title": "Carragher: 'Arsenal cần thắng hai trận nữa để trở thành bất tử'",
+      "link": "https://vnexpress.net/carragher-arsenal-can-thang-hai-tran-nua-de-tro-thanh-bat-tu-5071651.html",
+      "summary": "Trên mục góc nhìn của báo Anh Telegraph, cựu danh thủ Jamie Carragher cho rằng chỉ cần hai chiến thắng nữa, thầy trò Mikel Arteta sẽ đứng chung hàng ngũ với thế hệ \"Bất bại\" của Arsene Wenger dưới danh xưng \"Những vị thần bất tử\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-08T17:00:00+07:00",
+      "fetched": "2026-05-09T02:04:15.071414+07:00"
     },
     {
       "id": "59c735dcc54ed6c4f9626b9615be5de8",
