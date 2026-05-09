@@ -1,7 +1,17 @@
 window.newsData_2026_05_10 = {
   "date": "2026-05-10",
-  "lastUpdated": "2026-05-10T01:44:19.947165+07:00",
+  "lastUpdated": "2026-05-10T03:35:02.967537+07:00",
   "articles": [
+    {
+      "id": "f99e1f78fc755a12e07cb5cb00c5876d",
+      "title": "Việt Nam cùng bảng với Hàn Quốc, UAE tại Asian Cup 2027",
+      "link": "https://tuoitre.vn/viet-nam-cung-bang-voi-han-quoc-uae-tai-asian-cup-2027-20260509102614143.htm",
+      "summary": "Theo như kết quả bốc thăm, tuyển Việt Nam sẽ nằm tại bảng E Asian Cup 2027 cùng Hàn Quốc, UAE và một đại diện chưa xác định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T03:34:55.654255+07:00",
+      "fetched": "2026-05-10T03:34:55.654353+07:00"
+    },
     {
       "id": "ca94c3a661a446163894ad8a40870832",
       "title": "Chính phủ ban hành nghị định tháo gỡ khó khăn cho các dự án tồn đọng, kéo dài",
@@ -153,6 +163,156 @@ window.newsData_2026_05_10 = {
       "fetched": "2026-05-10T01:44:11.276249+07:00"
     },
     {
+      "id": "82d1b271783c0ac0013e88ba0a83826f",
+      "title": "Đối thủ thoát thẻ đỏ khi đánh vào mặt Bruno Fernandes",
+      "link": "https://vnexpress.net/doi-thu-thoat-the-do-khi-danh-vao-mat-bruno-fernandes-5072020.html",
+      "summary": "Trọng tài và VAR gây tranh cãi khi bỏ qua thẻ đỏ của cầu thủ Sunderland trong trận hòa Man Utd 0-0 ở vòng 36 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-09T20:25:18+07:00",
+      "fetched": "2026-05-10T03:35:02.956472+07:00"
+    },
+    {
+      "id": "49441cc81f3d81531278958484a4c5fc",
+      "title": "Loại vitamin quen thuộc có thể là 'cứu tinh' cho gan nhiễm mỡ",
+      "link": "https://thanhnien.vn/loai-vitamin-quen-thuoc-co-the-la-cuu-tinh-cho-gan-nhiem-mo-185260509215952581.htm",
+      "summary": "Khoảng 30% người dân trên toàn thế giới mắc gan nhiễm mỡ - một tình trạng nguy hiểm có thể âm thầm tiến triển thành tổn thương gan, xơ gan và ung thư gan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T20:11:00+07:00",
+      "fetched": "2026-05-10T03:34:54.758429+07:00"
+    },
+    {
+      "id": "ed632e00ab34ed0eb16c14ce10a06ef7",
+      "title": "Báo Hàn Quốc háo hức khi đấu đội tuyển Việt Nam và HLV Kim Sang-sik tại Asian Cup",
+      "link": "https://thanhnien.vn/bao-han-quoc-hao-huc-khi-dau-doi-tuyen-viet-nam-va-hlv-kim-tai-asian-cup-18526051002430624.htm",
+      "summary": "Truyền thông Hàn Quốc tỏ ra đặc biệt chú ý đến đội tuyển Việt Nam sau lễ bốc thăm vòng chung kết AFC Asian Cup 2027, khi thầy trò HLV Kim Sang-sik nằm cùng bảng E với đội tuyển Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T19:56:00+07:00",
+      "fetched": "2026-05-10T03:34:54.758578+07:00"
+    },
+    {
+      "id": "f331431faf2b65afe4df622766e5a3b7",
+      "title": "Lịch thi đấu gay cấn mới nhất hôm nay: Nảy lửa cuộc đua trụ hạng",
+      "link": "https://thanhnien.vn/lich-thi-dau-gay-can-moi-nhat-hom-nay-nay-lua-cuoc-dua-tru-hang-18526050920341048.htm",
+      "summary": "Sau khi Đà Nẵng xuất sắc đánh bại Becamex TP.HCM cách đây 1 ngày, PVF-CAND buộc phải giành chiến thắng trên sân Pleiku của HAGL trong trận đấu diễn ra lúc 17 giờ hôm nay, nhưng đây không phải mục tiêu dễ chinh phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T19:53:00+07:00",
+      "fetched": "2026-05-10T03:34:54.758712+07:00"
+    },
+    {
+      "id": "784d8c9a5776957d7de35e104d7148d7",
+      "title": "U.17 Thái Lan thua Ả Rập Xê Út, bị loại ngay vòng bảng châu Á",
+      "link": "https://thanhnien.vn/u17-thai-lan-thua-a-rap-xe-ut-bi-loai-ngay-vong-bang-chau-a-185260510021521437.htm",
+      "summary": "U.17 Thái Lan đã không thể làm nên bất ngờ, thua 0-2 trước U.17 Ả Rập Xê Út ở lượt đấu thứ 2 bảng A, VCK U.17 châu Á 2026 vào rạng sáng 10.5. Đồng thời, kết quả này khiến U.17 Thái Lan bị loại ngay từ vòng bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T19:52:00+07:00",
+      "fetched": "2026-05-10T03:34:54.758840+07:00"
+    },
+    {
+      "id": "c60f0e8e6b7a5a0ed7ef2de6fd6f3140",
+      "title": "Những bà mẹ Mỹ buông bỏ kỳ vọng nuôi con hoàn hảo",
+      "link": "https://vnexpress.net/nhung-ba-me-my-buong-bo-ky-vong-nuoi-con-hoan-hao-5071755.html",
+      "summary": "Suốt nhiều thập kỷ, những người mẹ thành đạt tại Mỹ luôn chịu áp lực phải nuôi dạy con xuất sắc nhưng giờ đây, họ không còn muốn gồng mình nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T19:51:52+07:00",
+      "fetched": "2026-05-10T03:34:52.134762+07:00"
+    },
+    {
+      "id": "c60f0e8e6b7a5a0ed7ef2de6fd6f3140",
+      "title": "Những bà mẹ Mỹ buông bỏ kỳ vọng nuôi con hoàn hảo",
+      "link": "https://vnexpress.net/nhung-ba-me-my-buong-bo-ky-vong-nuoi-con-hoan-hao-5071755.html",
+      "summary": "Suốt nhiều thập kỷ, những người mẹ thành đạt tại Mỹ luôn chịu áp lực phải nuôi dạy con xuất sắc nhưng giờ đây, họ không còn muốn gồng mình nữa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-09T19:51:52+07:00",
+      "fetched": "2026-05-10T03:34:57.126981+07:00"
+    },
+    {
+      "id": "7302e2f31c251e7823a27b58f07cd855",
+      "title": "Đội tuyển Việt Nam đủ sức vượt qua vòng bảng Asian Cup 2027",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-du-suc-vuot-qua-vong-bang-asian-cup-2027-185260510022459565.htm",
+      "summary": "Nằm ở bảng đấu có Hàn Quốc, UAE và đội thắng trong cặp đấu giữa Li băng và Yemen, đội tuyển Việt Nam đủ khả năng có mặt tại vòng 16 đội Asian Cup 2027 nếu chơi đúng sức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T19:47:00+07:00",
+      "fetched": "2026-05-10T03:34:54.758966+07:00"
+    },
+    {
+      "id": "940802efdff546a915b0ba97d530dc02",
+      "title": "VnExpress Marathon Cần Thơ 2026 khởi tranh",
+      "link": "https://vnexpress.net/10-000-runner-chinh-phuc-vnexpress-marathon-can-tho-2026-5072024.html",
+      "summary": "Nhóm VĐV 42km xuất phát lúc 3h, mở màn cho giải marathon lớn nhất miền Tây Nam Bộ trong nửa đầu năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T19:30:00+07:00",
+      "fetched": "2026-05-10T03:34:52.134925+07:00"
+    },
+    {
+      "id": "20e23f53fbe0e2a131fdef200d9681c2",
+      "title": "Messi ghi bàn, kiến tạo trận thứ hai liên tiếp",
+      "link": "https://vnexpress.net/messi-ghi-ban-kien-tao-tran-thu-hai-lien-tiep-5072025.html",
+      "summary": "Thủ quân Lionel Messi ghi dấu giày vào ba bàn, giúp Inter Miami thắng chủ nhà Toronto 4-2 ở vòng 12 MLS 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T19:23:43+07:00",
+      "fetched": "2026-05-10T03:34:52.135086+07:00"
+    },
+    {
+      "id": "20e23f53fbe0e2a131fdef200d9681c2",
+      "title": "Messi ghi bàn, kiến tạo trận thứ hai liên tiếp",
+      "link": "https://vnexpress.net/messi-ghi-ban-kien-tao-tran-thu-hai-lien-tiep-5072025.html",
+      "summary": "Thủ quân Lionel Messi ghi dấu giày vào ba bàn, giúp Inter Miami thắng chủ nhà Toronto 4-2 ở vòng 12 MLS 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-09T19:23:43+07:00",
+      "fetched": "2026-05-10T03:35:02.956006+07:00"
+    },
+    {
+      "id": "8dd87061046fed9007721e576a4d40dd",
+      "title": "12 đội vào vòng play-off Giải bóng rổ trẻ VnExpress",
+      "link": "https://vnexpress.net/12-doi-vao-vong-play-off-giai-bong-ro-tre-vnexpress-5071302.html",
+      "summary": "Tám đội nam và bốn đội nữ của các trường THPT tại TP HCM tranh vô địch Giải Bóng rổ Trẻ VnExpress - Cup Ziaja từ cuối tuần này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T19:00:00+07:00",
+      "fetched": "2026-05-10T03:34:52.135225+07:00"
+    },
+    {
+      "id": "6e10574dfd9df37d23fedbdaff9f942b",
+      "title": "Nóng: Đội tuyển Việt Nam chạm trán Hàn Quốc và UAE tại Asian Cup 2027",
+      "link": "https://thanhnien.vn/nong-doi-tuyen-viet-nam-cham-tran-han-quoc-va-uae-tai-asian-cup-2027-185260509205502866.htm",
+      "summary": "Lá thăm may rủi đã đưa đội tuyển Việt Nam rơi vào bảng E tại Asian Cup 2027, cùng các đối thủ Hàn Quốc, UAE và đội thắng trong cặp đấu giữa Li Băng và Yemen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T18:59:00+07:00",
+      "fetched": "2026-05-10T03:34:54.759106+07:00"
+    },
+    {
+      "id": "452976dc1b7dea0f0d3404b58770ab01",
+      "title": "Việt Nam cùng bảng Hàn Quốc, UAE ở Asian Cup 2027",
+      "link": "https://vnexpress.net/viet-nam-cung-bang-han-quoc-uae-o-asian-cup-2027-5072019.html",
+      "summary": "Việt Nam cùng bảng E với Nhật Bản, UAE và Lebanon hoặc Yemen, theo kết quả bốc thăm vòng chung kết Asian Cup 2027 rạng sáng nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T18:52:20+07:00",
+      "fetched": "2026-05-10T03:34:52.135360+07:00"
+    },
+    {
+      "id": "452976dc1b7dea0f0d3404b58770ab01",
+      "title": "Việt Nam cùng bảng Hàn Quốc, UAE ở Asian Cup 2027",
+      "link": "https://vnexpress.net/viet-nam-cung-bang-han-quoc-uae-o-asian-cup-2027-5072019.html",
+      "summary": "Việt Nam cùng bảng E với Nhật Bản, UAE và Lebanon hoặc Yemen, theo kết quả bốc thăm vòng chung kết Asian Cup 2027 rạng sáng nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-09T18:52:20+07:00",
+      "fetched": "2026-05-10T03:35:02.956195+07:00"
+    },
+    {
       "id": "f0ce209a204351b735bd70ca7d25d98f",
       "title": "U.17 Indonesia trả giá đắt vì phung phí cơ hội, thua choáng váng Qatar: Chưa thể vào tứ kết",
       "link": "https://thanhnien.vn/u17-indonesia-tra-gia-dat-vi-phung-phi-co-hoi-thua-choang-vang-qatar-chua-the-vao-tu-ket-185260510013453487.htm",
@@ -181,6 +341,26 @@ window.newsData_2026_05_10 = {
       "category": "Thế giới",
       "published": "2026-05-09T18:00:00+07:00",
       "fetched": "2026-05-10T01:44:13.203683+07:00"
+    },
+    {
+      "id": "28d0fbd99fd8ea826f1378ed1faee848",
+      "title": "Đi tiểu nhiều bọt có phải suy thận?",
+      "link": "https://vnexpress.net/di-tieu-nhieu-bot-co-phai-suy-than-5070333.html",
+      "summary": "Khi đi vệ sinh, tôi thấy nước tiểu có bọt, lâu tan, có phải dấu hiệu cảnh báo bệnh thận không?(Tùng, 33 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T18:00:00+07:00",
+      "fetched": "2026-05-10T03:34:52.135629+07:00"
+    },
+    {
+      "id": "001b6ccfb289e00dd9f050c35a5f24a7",
+      "title": "Hội chứng ăn tóc",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-an-toc-423",
+      "summary": "Chứng ăn tóc là một rối loạn tâm thần khiến người bệnh có xu hướng nhổ và ăn tóc của chính mình, tóc tích tụ trong bụng lâu ngày gây tắc ruột, buồn nôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T18:00:00+07:00",
+      "fetched": "2026-05-10T03:34:52.135852+07:00"
     },
     {
       "id": "8784b5fc348ca8e7834dc1b8a2c05662",
