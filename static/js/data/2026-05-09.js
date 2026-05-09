@@ -1,7 +1,17 @@
 window.newsData_2026_05_09 = {
   "date": "2026-05-09",
-  "lastUpdated": "2026-05-09T14:43:05.491492+07:00",
+  "lastUpdated": "2026-05-09T16:08:19.288389+07:00",
   "articles": [
+    {
+      "id": "f27cd07599a3619d3b68ceb40f55abc6",
+      "title": "Giáo sư Hoàng Xuân Phú trở thành viện sĩ của 6 viện hàn lâm danh tiếng thế giới",
+      "link": "https://tuoitre.vn/giao-su-hoang-xuan-phu-tro-thanh-vien-si-cua-6-vien-han-lam-danh-tieng-the-gioi-20260509094244991.htm",
+      "summary": "Giáo sư Hoàng Xuân Phú vừa được bầu vào Academia Europaea, trở thành nhà khoa học Việt Nam hiếm hoi là viện sĩ của 6 viện hàn lâm quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T16:08:10.390906+07:00",
+      "fetched": "2026-05-09T16:08:10.391045+07:00"
+    },
     {
       "id": "91f49ed53653df95ec15354bf580f8b6",
       "title": "CLB Thanh Hóa nhận cảnh báo từ VFF",
@@ -303,6 +313,26 @@ window.newsData_2026_05_09 = {
       "fetched": "2026-05-09T12:23:12.771546+07:00"
     },
     {
+      "id": "b4bf4b3226f7404d78788918938d0dd8",
+      "title": "Lịch thi đấu tứ kết U.17 nữ Việt Nam - Úc mới nhất: Đá mấy giờ, xem trên kênh nào?",
+      "link": "https://thanhnien.vn/lich-thi-dau-tu-ket-u17-nu-viet-nam-uc-moi-nhat-da-may-gio-xem-tren-kenh-nao-185260509160036643.htm",
+      "summary": "Vòng tứ kết giải U.17 nữ châu Á 2026 đã chính thức xác định đủ 8 đội góp mặt sau loạt trận ngày 8.5. Các đội đi tiếp gồm Trung Quốc, Việt Nam, Thái Lan ở bảng A; Nhật Bản, Úc, Ấn Độ ở bảng B; Triều Tiên và Hàn Quốc ở bảng C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T09:01:00+07:00",
+      "fetched": "2026-05-09T16:08:09.383124+07:00"
+    },
+    {
+      "id": "d13fa4ccf7499271d85f2e42c266e8a1",
+      "title": "Xổ số miền Nam ngày 9 tháng 5: Kết quả xổ số hôm nay thứ bảy",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-9-thang-5-ket-qua-xo-so-hom-nay-thu-bay-185260509145031391.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 9 tháng 5. Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ bảy ngày 9.5.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T09:00:00+07:00",
+      "fetched": "2026-05-09T16:08:09.383294+07:00"
+    },
+    {
       "id": "03c18d06a74dde53c8b9dcac958ba289",
       "title": "50 năm chi nhánh Nhà xuất bản Kim Đồng tại TP.HCM: Nhìn vào trẻ thơ mà làm sách",
       "link": "https://tuoitre.vn/50-nam-chi-nhanh-nha-xuat-ban-kim-dong-tai-tp-hcm-nhin-vao-tre-tho-ma-lam-sach-20260508234301687.htm",
@@ -453,6 +483,256 @@ window.newsData_2026_05_09 = {
       "fetched": "2026-05-09T08:59:43.391110+07:00"
     },
     {
+      "id": "e98d69956632be55b02316b34657d9b2",
+      "title": "Khi người dân rời quê, nông thôn sẽ khó thành nơi đáng sống",
+      "link": "https://thanhnien.vn/khi-nguoi-dan-roi-que-nong-thon-se-kho-thanh-noi-dang-song-185260509150426731.htm",
+      "summary": "Không chỉ nói chuyện hạ tầng hay xã đạt chuẩn, tọa đàm 'Phát triển nông thôn bền vững, nông thôn đáng sống' ở Cà Mau lần này đặt thẳng vấn đề làm sao để nông thôn giữ được người dân bằng sinh kế, văn hóa và sự gắn bó với quê hương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:59:00+07:00",
+      "fetched": "2026-05-09T16:08:09.383450+07:00"
+    },
+    {
+      "id": "af92694db7cd1d26e1d590c0f09ccf9f",
+      "title": "U.17 Việt Nam gặp thử thách cực đại",
+      "link": "https://thanhnien.vn/u17-viet-nam-gap-thu-thach-cuc-dai-185260508193958652.htm",
+      "summary": "Chiến thắng tối thiểu trước Yemen không chỉ mang về 3 điểm quý giá mà còn giúp U.17 VN tìm lại cảm giác thắng trận tại đấu trường châu lục sau 10 năm chờ đợi. Tuy nhiên, đối thủ tiếp theo của thầy trò HLV Cristiano Roland mang tên U.17 Hàn Quốc là thử thách lớn hơn rất nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:59:00+07:00",
+      "fetched": "2026-05-09T16:08:09.383604+07:00"
+    },
+    {
+      "id": "bfaa2c53c78844e92af87c301125be73",
+      "title": "'Tượng đài' IRONMAN Mark Allen khuấy động đường đua tại Đà Nẵng",
+      "link": "https://thanhnien.vn/tuong-dai-ironman-mark-allen-khuay-dong-duong-dua-tai-da-nang-185260509140258834.htm",
+      "summary": "Gần 800 VĐV trong và ngoài nước đã tranh tài sôi động tại SUNRISE SPRINT và IRONKIDS Việt Nam 2026 diễn ra ở Đà Nẵng. Đặc biệt, huyền thoại IRONMAN Mark Allen đã khuấy động đường đua SUNRISE SPRINT, tạo điểm nhấn cho ngày hội thể thao sức bền bên bờ biển miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:56:00+07:00",
+      "fetched": "2026-05-09T16:08:09.383756+07:00"
+    },
+    {
+      "id": "302888aace785d1fdbc2285a9059c541",
+      "title": "Phát hiện 2 người tử vong bất thường trong nhà ở Khánh Hòa",
+      "link": "https://thanhnien.vn/phat-hien-2-nguoi-tu-vong-bat-thuong-trong-nha-o-khanh-hoa-185260509151809255.htm",
+      "summary": "Công an tỉnh Khánh Hòa đang khẩn trương điều tra làm rõ nguyên nhân 2 người tử vong bên trong căn nhà trên quốc lộ 1, đoạn qua thôn Xuân Tự 2, xã Vạn Hưng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:49:00+07:00",
+      "fetched": "2026-05-09T16:08:09.383908+07:00"
+    },
+    {
+      "id": "00e363ddd7c948f18c98a92ab6932fe2",
+      "title": "Tìm kiếm ngư dân mất tích sau vụ đắm thuyền ở Cô Tô",
+      "link": "https://thanhnien.vn/tim-kiem-ngu-dan-mat-tich-sau-vu-dam-thuyen-o-co-to-185260509151017182.htm",
+      "summary": "Một vụ đắm thuyền câu xảy ra trên vùng biển Cô Tô (Quảng Ninh) khiến 1 ngư dân mất tích, lực lượng chức năng đang khẩn trương phối hợp tìm kiếm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:48:00+07:00",
+      "fetched": "2026-05-09T16:08:09.384086+07:00"
+    },
+    {
+      "id": "7015e478c8576447e915839791e66aff",
+      "title": "Sạt lở núi, tảng đá hàng chục tấn đè bẹp nhà bếp, 3 mẹ con thoát chết",
+      "link": "https://thanhnien.vn/sat-lo-nui-tang-da-hang-chuc-tan-de-bep-nha-bep-3-me-con-thoat-chet-185260509151523533.htm",
+      "summary": "Chị Nguyễn Thị Thắm (ngụ xã Cẩm Thủy, Thanh Hóa) cùng 2 con nhỏ đang ngủ trong nhà thì tảng đá nặng hàng chục tấn từ núi rơi xuống đè bẹp nhà bếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:43:00+07:00",
+      "fetched": "2026-05-09T16:08:09.384237+07:00"
+    },
+    {
+      "id": "2f7ef0f682655ad0492b73d074a07a9b",
+      "title": "Thời điểm nên thay thế miếng dán màn hình điện thoại",
+      "link": "https://thanhnien.vn/thoi-diem-nen-thay-the-mieng-dan-man-hinh-dien-thoai-185260509104733869.htm",
+      "summary": "Dù có lên kế hoạch hay không, miếng dán màn hình điện thoại sẽ cần được thay thế vào một thời điểm nào đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:35:00+07:00",
+      "fetched": "2026-05-09T16:08:09.384393+07:00"
+    },
+    {
+      "id": "882bca1fc8418fdca44054e0e2686b9b",
+      "title": "Duyệt binh ở Quảng trường Đỏ, Tổng thống Putin tin tưởng chiến thắng tại Ukraine",
+      "link": "https://thanhnien.vn/duyet-binh-o-quang-truong-do-tong-thong-putin-tin-tuong-chien-thang-tai-ukraine-185260509151220643.htm",
+      "summary": "Nga tổ chức cuộc duyệt binh kỷ niệm 81 năm ngày Chiến thắng phát xít Đức, lần đầu tiên trong gần 2 thập niên không có các xe tăng, tên lửa và những vũ khí hạng nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:25:00+07:00",
+      "fetched": "2026-05-09T16:08:09.384545+07:00"
+    },
+    {
+      "id": "e2a0be69e7f5f9db65b2d23169182c8e",
+      "title": "Trì hoãn giấc ngủ để 'trả thù': Vì đâu nên nỗi?",
+      "link": "https://thanhnien.vn/tri-hoan-giac-ngu-de-tra-thu-vi-dau-nen-noi-185260507185652689.htm",
+      "summary": "\"Trì hoãn giấc ngủ để trả thù\" là cụm từ mô tả thói quen cố thức khuya dù cơ thể đã rã rời. Đằng sau những đêm dài lướt mạng, hay làm việc riêng là câu chuyện về áp lực, mất cân bằng trong cuộc sống của người trẻ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:20:00+07:00",
+      "fetched": "2026-05-09T16:08:09.384698+07:00"
+    },
+    {
+      "id": "09a2e3d05fcb77d30bdbdcd40694106b",
+      "title": "34 xã, phường tại Đà Nẵng thiếu cán bộ sau vận hành chính quyền địa phương 2 cấp",
+      "link": "https://thanhnien.vn/34-xa-phuong-tai-da-nang-thieu-can-bo-sau-van-hanh-chinh-quyen-dia-phuong-2-cap-185260509141803029.htm",
+      "summary": "Trong giai đoạn đầu vận hành mô hình chính quyền địa phương 2 cấp, tình trạng mất cân đối nhân sự đang diễn ra tại nhiều xã, phường trên địa bàn thành phố Đà Nẵng. Một số nơi thiếu cán bộ chủ chốt, trong khi nhiều địa phương khác lại dư biên chế so với định mức tạm giao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:18:00+07:00",
+      "fetched": "2026-05-09T16:08:09.384856+07:00"
+    },
+    {
+      "id": "06aaf96b02e0e9b7531c1ad1ac6d8262",
+      "title": "Cơ hội để Việt Nam vươn mình thành cường quốc Esports",
+      "link": "https://thanhnien.vn/co-hoi-de-viet-nam-vuon-minh-thanh-cuong-quoc-esports-185260509121359294.htm",
+      "summary": "Việt Nam có lượng tuyển thủ chuyên nghiệp, cộng đồng cuồng nhiệt nhưng vẫn chưa khai thác tiềm năng tương xứng để trở thành cường quốc Esports hàng đầu thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:18:00+07:00",
+      "fetched": "2026-05-09T16:08:09.385034+07:00"
+    },
+    {
+      "id": "ecaddbf43f6b46f67a01f4e6a1d47273",
+      "title": "4 điều không nên làm khi người thân bị đau tim đột ngột",
+      "link": "https://thanhnien.vn/4-dieu-khong-nen-lam-khi-nguoi-than-bi-dau-tim-dot-ngot-185260509141013501.htm",
+      "summary": "Mỗi phút trôi qua với bệnh nhân đau tim đều rất quan trọng. Khi dòng máu đến tim bị tắc nghẽn, cơ tim bắt đầu thiếu ô xy và có thể bị tổn thương vĩnh viễn nếu không được cứu chữa kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:08:00+07:00",
+      "fetched": "2026-05-09T16:08:09.385186+07:00"
+    },
+    {
+      "id": "5b35da4e18968636b17b4bf68e491db9",
+      "title": "AI có đang thay thế con người trong chữa trị bệnh tim mạch?",
+      "link": "https://thanhnien.vn/ai-co-dang-thay-the-con-nguoi-trong-chua-tri-benh-tim-mach-185260509133546385.htm",
+      "summary": "Tử vong do bệnh tim mạch hiện chiếm tới 31% số ca tử vong tại Việt Nam, vượt qua cả ung thư và tai nạn giao thông. Trong bối cảnh đó, Hội nghị khoa học “Xu hướng mới trong điều trị bệnh tim mạch năm 2026” quy tụ gần 1.000 chuyên gia, bác sĩ trên cả nước để cập nhật những tiến bộ mới trong chẩn đoán,...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:08:00+07:00",
+      "fetched": "2026-05-09T16:08:09.385341+07:00"
+    },
+    {
+      "id": "0b946fe834cbbd958313a799c57a63af",
+      "title": "Nội bộ Real rối ren thế nào",
+      "link": "https://vnexpress.net/noi-bo-real-roi-ren-the-nao-5071712.html",
+      "summary": "Qua chưa đầy 2 năm, nội bộ Real Madrid từ hình mẫu đoàn kết dưới thời Carlo Ancelotti đã rơi vào khủng hoảng nghiêm trọng với hàng loạt mâu thuẫn nội bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:00:00+07:00",
+      "fetched": "2026-05-09T16:08:06.357720+07:00"
+    },
+    {
+      "id": "0cb1707b1e90a0a8f18c12bd56a7b452",
+      "title": "Đa dạng hoạt động tại gian hàng FPT Shop ở Vietnam GameVerse 2026",
+      "link": "https://vnexpress.net/da-dang-hoat-dong-tai-gian-hang-fpt-shop-o-vietnam-gameverse-2026-5071890.html",
+      "summary": "FPT Shop mang đến không gian trải nghiệm gaming với laptop, PC, màn hình, điện thoại, tablet từ thương hiệu nubia, Epower, Acer, Asus tại Vietnam Gameverse 2026, ngày 8-9/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:00:00+07:00",
+      "fetched": "2026-05-09T16:08:06.357900+07:00"
+    },
+    {
+      "id": "fa7f50c8ff3132f8a68eafcb6d7390e3",
+      "title": "5 thói quen khiến sỏi thận dễ tái phát",
+      "link": "https://vnexpress.net/5-thoi-quen-khien-soi-than-de-tai-phat-5071811.html",
+      "summary": "Uống ít nước, nhịn tiểu, ăn mặn và nhiều đạm, bỏ tái khám khiến sỏi thận dễ tái phát dù đã điều trị thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T08:00:00+07:00",
+      "fetched": "2026-05-09T16:08:06.358093+07:00"
+    },
+    {
+      "id": "0cb1707b1e90a0a8f18c12bd56a7b452",
+      "title": "Đa dạng hoạt động tại gian hàng FPT Shop ở Vietnam GameVerse 2026",
+      "link": "https://vnexpress.net/da-dang-hoat-dong-tai-gian-hang-fpt-shop-o-vietnam-gameverse-2026-5071890.html",
+      "summary": "FPT Shop mang đến không gian trải nghiệm gaming với laptop, PC, màn hình, điện thoại, tablet từ thương hiệu nubia, Epower, Acer, Asus tại Vietnam Gameverse 2026, ngày 8-9/5.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-09T08:00:00+07:00",
+      "fetched": "2026-05-09T16:08:13.995106+07:00"
+    },
+    {
+      "id": "0b946fe834cbbd958313a799c57a63af",
+      "title": "Nội bộ Real rối ren thế nào",
+      "link": "https://vnexpress.net/noi-bo-real-roi-ren-the-nao-5071712.html",
+      "summary": "Qua chưa đầy 2 năm, nội bộ Real Madrid từ hình mẫu đoàn kết dưới thời Carlo Ancelotti đã rơi vào khủng hoảng nghiêm trọng với hàng loạt mâu thuẫn nội bộ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-09T08:00:00+07:00",
+      "fetched": "2026-05-09T16:08:19.279070+07:00"
+    },
+    {
+      "id": "1cfc4cb33c5f6e33e4ad375f42af203e",
+      "title": "Chuyến thăm của Tổng Bí thư, Chủ tịch nước tạo đột phá cho quan hệ với Ấn Độ, Sri Lanka",
+      "link": "https://vnexpress.net/chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-tao-dot-pha-cho-quan-he-voi-an-do-sri-lanka-5071883.html",
+      "summary": "Bộ trưởng Ngoại giao cho biết chuyến thăm Ấn Độ, Sri Lanka của Tổng Bí thư, Chủ tịch nước Tô Lâm đã mở ra đột phá chiến lược với hai quốc gia Nam Á này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T07:55:56+07:00",
+      "fetched": "2026-05-09T16:08:06.358257+07:00"
+    },
+    {
+      "id": "1cfc4cb33c5f6e33e4ad375f42af203e",
+      "title": "Chuyến thăm của Tổng Bí thư, Chủ tịch nước tạo đột phá cho quan hệ với Ấn Độ, Sri Lanka",
+      "link": "https://vnexpress.net/chuyen-tham-cua-tong-bi-thu-chu-tich-nuoc-tao-dot-pha-cho-quan-he-voi-an-do-sri-lanka-5071883.html",
+      "summary": "Bộ trưởng Ngoại giao cho biết chuyến thăm Ấn Độ, Sri Lanka của Tổng Bí thư, Chủ tịch nước Tô Lâm đã mở ra đột phá chiến lược với hai quốc gia Nam Á này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-09T07:55:56+07:00",
+      "fetched": "2026-05-09T16:08:12.327599+07:00"
+    },
+    {
+      "id": "50f5de419219c43c9c43324bdacef680",
+      "title": "Thợ mỏ phát hiện khối hồng ngọc nặng 2,2 kg",
+      "link": "https://vnexpress.net/tho-mo-phat-hien-khoi-hong-ngoc-nang-2-2-kg-5071893.html",
+      "summary": "Thợ mỏ phát hiện khối hồng ngọc đặc biệt lớn với trọng lượng 11.000 carat, được đánh giá quý hiếm, tại thành phố Mogok.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T07:54:50+07:00",
+      "fetched": "2026-05-09T16:08:06.358420+07:00"
+    },
+    {
+      "id": "50f5de419219c43c9c43324bdacef680",
+      "title": "Thợ mỏ phát hiện khối hồng ngọc nặng 2,2 kg",
+      "link": "https://vnexpress.net/tho-mo-phat-hien-khoi-hong-ngoc-nang-2-2-kg-5071893.html",
+      "summary": "Thợ mỏ phát hiện khối hồng ngọc đặc biệt lớn với trọng lượng 11.000 carat, được đánh giá quý hiếm, tại thành phố Mogok.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-09T07:54:50+07:00",
+      "fetched": "2026-05-09T16:08:17.418065+07:00"
+    },
+    {
+      "id": "54fa4cb0de6a926ca58affc9f67172bf",
+      "title": "Kahn chỉ ra điểm yếu chí mạng của Bayern dưới thời Kompany",
+      "link": "https://vnexpress.net/kahn-chi-ra-diem-yeu-chi-mang-cua-bayern-duoi-thoi-kompany-5071871.html",
+      "summary": "Theo cựu thủ môn Oliver Kahn, thất bại dưới tay PSG ở bán kết Champions League cho thấy Bayern đang trả giá vì lối chơi quá mạo của HLV Vincent Kompany.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T07:53:56+07:00",
+      "fetched": "2026-05-09T16:08:06.358582+07:00"
+    },
+    {
+      "id": "54fa4cb0de6a926ca58affc9f67172bf",
+      "title": "Kahn chỉ ra điểm yếu chí mạng của Bayern dưới thời Kompany",
+      "link": "https://vnexpress.net/kahn-chi-ra-diem-yeu-chi-mang-cua-bayern-duoi-thoi-kompany-5071871.html",
+      "summary": "Theo cựu thủ môn Oliver Kahn, thất bại dưới tay PSG ở bán kết Champions League cho thấy Bayern đang trả giá vì lối chơi quá mạo của HLV Vincent Kompany.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-09T07:53:56+07:00",
+      "fetched": "2026-05-09T16:08:19.281054+07:00"
+    },
+    {
+      "id": "5d47e0998de0f6897b4fe6d17ac8fb6e",
+      "title": "Những 'thanh âm vượt tầng' của Lưu Hồng Quang",
+      "link": "https://vnexpress.net/nhung-thanh-am-vuot-tang-cua-luu-hong-quang-5071783.html",
+      "summary": "Nghệ sĩ Lưu Hồng Quang phô diễn những nốt đàn mạnh mẽ, lắng đọng khi chơi 12 bản nhạc của Franz Liszt, tối 8/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T07:51:54+07:00",
+      "fetched": "2026-05-09T16:08:06.358738+07:00"
+    },
+    {
       "id": "bc917402f0ffab1769ed7d2f9c7bbad0",
       "title": "Đà Nẵng lập 'tổ đặc biệt' rà soát dự án ngoài ngân sách chậm tiến độ",
       "link": "https://thanhnien.vn/da-nang-lap-to-dac-biet-ra-soat-du-an-ngoai-ngan-sach-cham-tien-do-185260509135732201.htm",
@@ -471,6 +751,46 @@ window.newsData_2026_05_09 = {
       "category": "Tổng hợp",
       "published": "2026-05-09T07:42:00+07:00",
       "fetched": "2026-05-09T14:42:57.328979+07:00"
+    },
+    {
+      "id": "464653faea84040c2ad38229de02c037",
+      "title": "Tạo hành trình không chạm cho du khách quốc tế đến Việt Nam",
+      "link": "https://vnexpress.net/tao-hanh-trinh-khong-cham-cho-du-khach-quoc-te-den-viet-nam-5071633.html",
+      "summary": "Ngành du lịch ưu tiên phát triển hạ tầng thanh toán không tiền mặt và giải pháp công nghệ để đáp ứng nhu cầu trải nghiệm liền mạch của thế hệ du khách mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T07:37:15+07:00",
+      "fetched": "2026-05-09T16:08:06.358895+07:00"
+    },
+    {
+      "id": "acb260ac32dbbc8453c829686e4971c3",
+      "title": "Quảng Ngãi phê bình chủ tịch phường để hồ sơ đất đai bị đôn đốc tới 13 lần",
+      "link": "https://vnexpress.net/quang-ngai-phe-binh-chu-tich-phuong-de-ho-so-dat-dai-bi-don-doc-toi-13-lan-5071877.html",
+      "summary": "Để hàng loạt hồ sơ đất đai tồn đọng, có trường hợp bị đôn đốc tới 13 lần, Chủ tịch UBND phường Nghĩa Lộ bị tỉnh Quảng Ngãi phê bình, yêu cầu kiểm điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T07:33:58+07:00",
+      "fetched": "2026-05-09T16:08:06.359089+07:00"
+    },
+    {
+      "id": "6fa4ae0e86067267817bb76615ab870e",
+      "title": "Real đàm phán với Mourinho",
+      "link": "https://vnexpress.net/real-dam-phan-voi-mourinho-5071869.html",
+      "summary": "Real Madrid bắt đầu đàm phán với Jose Mourinho về khả năng bổ nhiệm HLV người Bồ Đào Nha, theo mong muốn của Chủ tịch Florentino Perez.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T07:31:23+07:00",
+      "fetched": "2026-05-09T16:08:06.359247+07:00"
+    },
+    {
+      "id": "6fa4ae0e86067267817bb76615ab870e",
+      "title": "Real đàm phán với Mourinho",
+      "link": "https://vnexpress.net/real-dam-phan-voi-mourinho-5071869.html",
+      "summary": "Real Madrid bắt đầu đàm phán với Jose Mourinho về khả năng bổ nhiệm HLV người Bồ Đào Nha, theo mong muốn của Chủ tịch Florentino Perez.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-09T07:31:23+07:00",
+      "fetched": "2026-05-09T16:08:19.279245+07:00"
     },
     {
       "id": "dd32a60cc14c09ba1950698b1cdddebd",
@@ -561,6 +881,46 @@ window.newsData_2026_05_09 = {
       "category": "Thể thao",
       "published": "2026-05-09T07:00:00+07:00",
       "fetched": "2026-05-09T14:43:05.484640+07:00"
+    },
+    {
+      "id": "5cbcda365288f7d59fff6671cb788b3c",
+      "title": "'Tôi thuê trọ phải gánh tiền điện cho chủ nhà'",
+      "link": "https://vnexpress.net/toi-thue-tro-phai-ganh-tien-dien-cho-chu-nha-5071857.html",
+      "summary": "'Tôi bị sốc khi vô tình thấy hóa đơn điện, nước của chủ trọ, vì con số thực tế thấp hơn nhiều số tiền chúng tôi phải đóng hàng tháng'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T07:00:00+07:00",
+      "fetched": "2026-05-09T16:08:06.359402+07:00"
+    },
+    {
+      "id": "ba1c1412338d3e8bfdbc9d375a3c797f",
+      "title": "Chồng khinh thường vợ và nhà vợ",
+      "link": "https://vnexpress.net/chong-khinh-thuong-vo-va-nha-vo-5071844.html",
+      "summary": "Tôi sinh xong lên nhà ngoại để được chăm sóc, vậy mà mỗi lần không hài lòng là anh lại thái độ cả với mẹ vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T07:00:00+07:00",
+      "fetched": "2026-05-09T16:08:06.359567+07:00"
+    },
+    {
+      "id": "fabfdf5361e2a5398759d83da0489e49",
+      "title": "Dấu hiệu cho thấy gan suy yếu",
+      "link": "https://vnexpress.net/dau-hieu-cho-thay-gan-suy-yeu-5071588.html",
+      "summary": "Chướng bụng sau khi ăn, mệt mỏi kéo dài, ngủ không ngon giấc là những dấu hiệu cảnh báo chức năng thải độc, chuyển hóa năng lượng của gan suy yếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T07:00:00+07:00",
+      "fetched": "2026-05-09T16:08:06.359676+07:00"
+    },
+    {
+      "id": "b6ff2cfc10f9e0e0683b5c6de834d790",
+      "title": "Bạn làm gì để thoát khỏi kẻ bắt cóc?",
+      "link": "https://vnexpress.net/ban-lam-gi-de-thoat-khoi-ke-bat-coc-5070646.html",
+      "summary": "Bạn bị bắt cóc và giam giữ trong tầng hầm của giáo sư điên, nhưng tầng hầm có ba cánh cửa và một trong số đó dẫn đến tự do.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T07:00:00+07:00",
+      "fetched": "2026-05-09T16:08:06.359833+07:00"
     },
     {
       "id": "45ce014593dfe15c8f4cdd8584573e82",
@@ -681,6 +1041,16 @@ window.newsData_2026_05_09 = {
       "category": "Tổng hợp",
       "published": "2026-05-09T06:00:00+07:00",
       "fetched": "2026-05-09T14:42:57.330862+07:00"
+    },
+    {
+      "id": "0b16938467a086958f6ec657f7c3ee5d",
+      "title": "Điểm nhấn đêm trao giải Vietnam Game Awards 2026",
+      "link": "https://vnexpress.net/diem-nhan-dem-trao-giai-vietnam-game-awards-2026-5071870.html",
+      "summary": "Vietnam Game Awards 2026 trao 21 giải thưởng nhằm ghi nhận những tựa game, nhà phát hành, đội tuyển và cá nhân tạo dấu ấn nổi bật của ngành game Việt Nam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-09T06:00:00+07:00",
+      "fetched": "2026-05-09T16:08:19.281368+07:00"
     },
     {
       "id": "3f9cf0e8005b28e514617198b53e00b4",
