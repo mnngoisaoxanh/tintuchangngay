@@ -1,7 +1,17 @@
 window.newsData_2026_05_11 = {
   "date": "2026-05-11",
-  "lastUpdated": "2026-05-11T03:38:00.956984+07:00",
+  "lastUpdated": "2026-05-11T05:36:47.282098+07:00",
   "articles": [
+    {
+      "id": "de940abab85fd83063ae3ff8bf8d87ac",
+      "title": "Arsenal 'chết đi sống lại' trước West Ham, vẫn hơn Man City 5 điểm",
+      "link": "https://tuoitre.vn/arsenal-chet-di-song-lai-truoc-west-ham-van-hon-man-city-5-diem-20260511003941392.htm",
+      "summary": "Rạng sáng 11-5, Arsenal đã đánh bại West Ham 1-0 trên sân khách ở vòng 36 Giải ngoại hạng Anh (Premier League) để duy trì khoảng cách 5 điểm với Man City trong cuộc đua vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T05:36:38.172158+07:00",
+      "fetched": "2026-05-11T05:36:38.172370+07:00"
+    },
     {
       "id": "c4ad1f863743fbf9db6d93b88ddf029c",
       "title": "Sụp đổ 10 phút cuối, U17 Việt Nam để thua ngược U17 Hàn Quốc",
@@ -181,6 +191,216 @@ window.newsData_2026_05_11 = {
       "category": "Tổng hợp",
       "published": "2026-05-11T01:46:33.727849+07:00",
       "fetched": "2026-05-11T01:46:33.728074+07:00"
+    },
+    {
+      "id": "b691774a4ef443c3f122aef5333f0ae5",
+      "title": "Đường Rừng Sác dự kiến mở lên 10 làn, đón đầu phát triển Cần Giờ",
+      "link": "https://thanhnien.vn/duong-rung-sac-du-kien-mo-len-10-lan-don-dau-phat-trien-can-gio-18526051012043484.htm",
+      "summary": "Từ tuyến đường xuyên rừng vốn quen thuộc với người dân Cần Giờ, đường Rừng Sác đang được nghiên cứu mở rộng lên 10 làn xe nhằm đón đầu nhu cầu phát triển hạ tầng, giao thông và đô thị biển trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:35:00+07:00",
+      "fetched": "2026-05-11T05:36:37.027824+07:00"
+    },
+    {
+      "id": "68c4571f4cbd3260da760ded565a5e75",
+      "title": "VAR gây tranh cãi trong trận Arsenal thắng West Ham",
+      "link": "https://vnexpress.net/var-gay-tranh-cai-trong-tran-arsenal-thang-west-ham-5072274.html",
+      "summary": "Quyết định khước từ bàn gỡ ở phút bù trận West Ham thua Arsenal 0-1 gây tranh cãi lớn, khi Gary Neville gọi đây là \"khoảnh khắc lớn nhất lịch sử VAR\" còn giới chuyên môn chia rẽ về phán quyết của tổ trọng tài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:33:14+07:00",
+      "fetched": "2026-05-11T05:36:33.664810+07:00"
+    },
+    {
+      "id": "e91be5334d65cd760fa9f3dfe067a9f8",
+      "title": "Tiêu điểm quốc tế ngày 11.5: Lãnh tụ Iran thương tích ra sao? | Ông Putin nêu điều kiện gặp Tổng thống Ukraine",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-115-lanh-tu-iran-thuong-tich-ra-sao-ong-putin-neu-dieu-kien-gap-tong-thong-ukraine-185260511011255451.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 11.5.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:30:00+07:00",
+      "fetched": "2026-05-11T05:36:37.027993+07:00"
+    },
+    {
+      "id": "604445b88f71c94f2f1dfdaae08a54b3",
+      "title": "Syria cải tổ chính phủ",
+      "link": "https://thanhnien.vn/syria-cai-to-chinh-phu-185260510215911044.htm",
+      "summary": "Tổng thống lâm thời Syria Ahmed al-Sharaa vừa công bố loạt thay đổi trong chính phủ thông qua các sắc lệnh mới. Cụ thể, theo hãng thông tấn nhà nước SANA, ông Sharaa bổ nhiệm ông Khaled Zaarour làm bộ trưởng thông tin, thay thế ông Hamza Mustafa, người được điều sang làm ngoại trưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:29:00+07:00",
+      "fetched": "2026-05-11T05:36:37.028160+07:00"
+    },
+    {
+      "id": "0b5f4c5914586eb1301cd92c557dd889",
+      "title": "Chiến sự Ukraine sắp tới hồi kết ?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-sap-toi-hoi-ket-185260510214719982.htm",
+      "summary": "Hãng tin TASS hôm qua đưa tin Tổng thống Nga Vladimir Putin ngày 9.5 nói ông tin cuộc xung đột với Ukraine đang tiến gần đến hồi kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:19:00+07:00",
+      "fetched": "2026-05-11T05:36:37.028323+07:00"
+    },
+    {
+      "id": "c2604deb10573507e49f5dca056309d7",
+      "title": "Tử vi ngày 11 tháng 5: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-11-thang-5-con-giap-nao-may-man-hom-nay-185260510151423122.htm",
+      "summary": "Tử vi ngày 11 tháng 5 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm nổi bật là 'dọn khoảng trống' đón điều mới mẻ, có những thứ không còn phù hợp nhưng bạn vẫn giữ vì thói quen. Tài lộc hôm nay thế nào không nằm ở việc cố tích thêm, mà ở việc bạn dám bỏ bớt điều không cần thiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:15:00+07:00",
+      "fetched": "2026-05-11T05:36:37.028480+07:00"
+    },
+    {
+      "id": "8fec4affd4aeffc0b689d60ebfff9309",
+      "title": "Học trò 'cắn bút', ngán ngẩm vì Toán thực tế",
+      "link": "https://vnexpress.net/hoc-tro-can-but-ngan-ngam-vi-toan-thuc-te-5070727.html",
+      "summary": "Giải \"nhoay nhoáy\" nếu bài yêu cầu tính diện tích hình trụ, nhưng Hoài Anh lại \"cắn bút\" nếu đề được đổi thành thiết kế vỏ lon nước ngọt sao cho tốn ít nhôm nhất, dù bản chất như nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:06:00+07:00",
+      "fetched": "2026-05-11T05:36:33.665000+07:00"
+    },
+    {
+      "id": "3eabafa7706d532789a023fbf90db7d2",
+      "title": "Chung dòng máu Lạc Hồng: Lan tỏa hồn Việt trên đảo quốc Sri Lanka",
+      "link": "https://thanhnien.vn/chung-dong-mau-lac-hong-lan-toa-hon-viet-tren-dao-quoc-sri-lanka-185260510203700445.htm",
+      "summary": "Chuyến thăm cấp Nhà nước của Tổng Bí thư, Chủ tịch nước Tô Lâm cùng đoàn đại biểu cấp cao Việt Nam tới Sri Lanka vừa qua là nguồn động viên lớn đối với cộng đồng kiều bào nơi đây, trong đó có đại đức Thích Pháp Quang, trụ trì Thiền viện Trúc Lâm Sri Lanka.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:06:00+07:00",
+      "fetched": "2026-05-11T05:36:37.028654+07:00"
+    },
+    {
+      "id": "b7b239a4453afc22b9b437aee884db1c",
+      "title": "Ngành sản xuất bo mạch chủ lao đao vì AI",
+      "link": "https://vnexpress.net/nganh-san-xuat-bo-mach-chu-lao-dao-vi-ai-5072181.html",
+      "summary": "Doanh số bo mạch chủ của nhiều hãng sụt giảm mạnh, bắt nguồn từ tình trạng thiếu hụt linh kiện và chi phí tăng vọt do cơn sốt AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:00:00+07:00",
+      "fetched": "2026-05-11T05:36:33.665173+07:00"
+    },
+    {
+      "id": "64635c37aff68723a899b12e8a472343",
+      "title": "Những sai lầm khi dùng chảo chống dính gây nhiễm độc nhựa, hóa chất vĩnh cửu",
+      "link": "https://vnexpress.net/nhung-sai-lam-khi-dung-chao-chong-dinh-gay-nhiem-doc-nhua-hoa-chat-vinh-cuu-5072009.html",
+      "summary": "Việc sử dụng chảo chống dính bị hư hại có thể giải phóng hàng triệu hạt vi nhựa vào thực phẩm, gây ra những rủi ro nghiêm trọng về ung thư và nội tiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:00:00+07:00",
+      "fetched": "2026-05-11T05:36:33.665335+07:00"
+    },
+    {
+      "id": "c7aa753f5aecae82127eb361705d7531",
+      "title": "Những việc nên làm buổi sáng để gan khỏe",
+      "link": "https://vnexpress.net/nhung-viec-nen-lam-buoi-sang-de-gan-khoe-5071832.html",
+      "summary": "Uống nước sau khi thức dậy, vận động nhẹ, ăn sáng và dùng cà phê hợp lý tốt cho tiêu hóa, thúc đẩy chuyển hóa, tăng hiệu quả hoạt động của gan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:00:00+07:00",
+      "fetched": "2026-05-11T05:36:33.665498+07:00"
+    },
+    {
+      "id": "8717d40ddaf6b0fd0454e1a8d93ea1da",
+      "title": "Dàn sao sẽ biểu diễn ở lễ khai mạc World Cup 2026",
+      "link": "https://vnexpress.net/dan-sao-se-bieu-dien-o-le-khai-mac-world-cup-2026-5071818.html",
+      "summary": "Katy Perry, Lisa sẽ diễn trong lễ khai mạc World Cup của Mỹ, ban nhạc rock huyền thoại Maná hát chính tại sự kiện mở màn mùa giải ở Mexico.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:00:00+07:00",
+      "fetched": "2026-05-11T05:36:33.665691+07:00"
+    },
+    {
+      "id": "68054dbbb29ceb8bab7bd408c7908847",
+      "title": "Chụp trộm phụ nữ nhưng 'không làm gì khác', có phải là quấy rối tình dục?",
+      "link": "https://vnexpress.net/chup-trom-phu-nu-nhung-khong-lam-gi-khac-co-phai-la-quay-roi-tinh-duc-5071556.html",
+      "summary": "Hôm trước ngoài đường, tôi thấy một người bị bắt quả tang chụp trộm ảnh phần ngực, chân nhiều phụ nữ, nhưng khi bị tra hỏi thì bảo \"thấy mặc đẹp nên chụp\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:00:00+07:00",
+      "fetched": "2026-05-11T05:36:33.665853+07:00"
+    },
+    {
+      "id": "ae2cec5cc1ffba81344af7f0f9b275b6",
+      "title": "177 ngày chống chọi với tử thần của người lính Ukraine giữa 'vùng chết'",
+      "link": "https://vnexpress.net/177-ngay-chong-choi-voi-tu-than-cua-nguoi-linh-ukraine-giua-vung-chet-5070293.html",
+      "summary": "Bị kẹt 177 ngày giữa \"vùng đất chết\" Vovchansk, Roman đã vượt qua lằn ranh sinh tử nhờ ý chí và những tin nhắn ghi âm từ người vợ nơi quê nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:00:00+07:00",
+      "fetched": "2026-05-11T05:36:33.666019+07:00"
+    },
+    {
+      "id": "1664d385ba959e7aeb1317bbaa3c7b38",
+      "title": "Cựu nhân viên FBI kiện cảnh sát vì bị bắt oan lỗi say rượu lái xe",
+      "link": "https://vnexpress.net/cuu-nhan-vien-fbi-kien-canh-sat-vi-bi-bat-oan-loi-say-ruou-lai-xe-5071777.html",
+      "summary": "Người phụ nữ bị cảnh sát dừng xe, buộc thực hiện bài kiểm tra độ tỉnh táo và bị bắt giữ dù không vi phạm luật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:00:00+07:00",
+      "fetched": "2026-05-11T05:36:33.666179+07:00"
+    },
+    {
+      "id": "4c2ce030ad4e4d30af5896641fa1103f",
+      "title": "Xung đột Mỹ - Iran còn nhiều biến số",
+      "link": "https://thanhnien.vn/xung-dot-my-iran-con-nhieu-bien-so-185260510220350714.htm",
+      "summary": "Iran vừa phản hồi đề xuất của Mỹ về chấm dứt xung đột nhưng cũng đưa ra cảnh báo mới có khả năng khiến tình hình thêm căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:00:00+07:00",
+      "fetched": "2026-05-11T05:36:37.028815+07:00"
+    },
+    {
+      "id": "80f62980935d1c12a250904e3816f703",
+      "title": "Lịch âm hôm nay: Mấy ngày nữa người Việt đón tháng 4 âm lịch Quý Tỵ?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-may-ngay-nua-nguoi-viet-don-thang-4-am-lich-quy-ty-185260509204624731.htm",
+      "summary": "Theo lịch vạn niên, lịch âm hôm nay, vì sao nhiều người tin rằng 11.5 là ngày lành tháng tốt? Tính từ hôm nay, khi nào người Việt Nam đón tháng 4 âm lịch, còn gọi là tháng Quý Tỵ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:00:00+07:00",
+      "fetched": "2026-05-11T05:36:37.028969+07:00"
+    },
+    {
+      "id": "8c47092bc214c734e8d07560b84d150a",
+      "title": "Nhận biết mối tương quan giữa nhiễm trùng đường tiết niệu và sa sút trí tuệ",
+      "link": "https://thanhnien.vn/nhan-biet-moi-tuong-quan-giua-nhiem-trung-duong-tiet-nieu-va-sa-sut-tri-tue-185260507165339318.htm",
+      "summary": "Từ lâu, các yếu tố lối sống như chế độ ăn uống, vận động và giấc ngủ luôn được xem là những trụ cột chính trong việc phòng ngừa các bệnh lý về não bộ. Tuy nhiên theo HuffPost, những phát hiện y tế mới đây đã chỉ ra một tác nhân gây hại tiềm ẩn mà ít người ngờ tới: nhiễm trùng đường tiết niệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T22:00:00+07:00",
+      "fetched": "2026-05-11T05:36:37.029119+07:00"
+    },
+    {
+      "id": "ae2cec5cc1ffba81344af7f0f9b275b6",
+      "title": "177 ngày chống chọi với tử thần của người lính Ukraine giữa 'vùng chết'",
+      "link": "https://vnexpress.net/177-ngay-chong-choi-voi-tu-than-cua-nguoi-linh-ukraine-giua-vung-chet-5070293.html",
+      "summary": "Bị kẹt 177 ngày giữa \"vùng đất chết\" Vovchansk, Roman đã vượt qua lằn ranh sinh tử nhờ ý chí và những tin nhắn ghi âm từ người vợ nơi quê nhà.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-10T22:00:00+07:00",
+      "fetched": "2026-05-11T05:36:40.022940+07:00"
+    },
+    {
+      "id": "b7b239a4453afc22b9b437aee884db1c",
+      "title": "Ngành sản xuất bo mạch chủ lao đao vì AI",
+      "link": "https://vnexpress.net/nganh-san-xuat-bo-mach-chu-lao-dao-vi-ai-5072181.html",
+      "summary": "Doanh số bo mạch chủ của nhiều hãng sụt giảm mạnh, bắt nguồn từ tình trạng thiếu hụt linh kiện và chi phí tăng vọt do cơn sốt AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-10T22:00:00+07:00",
+      "fetched": "2026-05-11T05:36:45.475525+07:00"
+    },
+    {
+      "id": "37d99cb49a87d54b158f100180f76573",
+      "title": "Chiến sự Ukraine ngày 1.537: Xung đột tiếp diễn giữa lệnh ngừng bắn, sắp đến hồi kết?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1537-xung-dot-tiep-dien-giua-lenh-ngung-ban-sap-den-hoi-ket-185260510215918122.htm",
+      "summary": "Nga và Ukraine cáo buộc đối phương vi phạm lệnh ngừng bắn, trong khi Tổng thống Nga Vladimir Putin cho rằng cuộc xung đột sắp đến hồi kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T21:32:00+07:00",
+      "fetched": "2026-05-11T05:36:37.029268+07:00"
     },
     {
       "id": "55b3a688830953cdcee2b11eb9269b30",
