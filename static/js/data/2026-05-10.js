@@ -1,7 +1,87 @@
 window.newsData_2026_05_10 = {
   "date": "2026-05-10",
-  "lastUpdated": "2026-05-10T16:24:24.254072+07:00",
+  "lastUpdated": "2026-05-10T17:54:48.728094+07:00",
   "articles": [
+    {
+      "id": "8bb959d3b523e6e36d131e150ee05c90",
+      "title": "Chu Châu, 'phú quý hoa' bùng nổ cùng Mật Ngữ Kỷ",
+      "link": "https://tuoitre.vn/chu-chau-phu-quy-hoa-bung-no-cung-mat-ngu-ky-20260510151134973.htm",
+      "summary": "Trong tháng 4 vừa qua, cái tên Chu Châu bất ngờ phủ sóng mạng xã hội châu Á nhờ vai Hứa Mật Ngữ trong Mật Ngữ Kỷ - bộ phim đô thị đang tạo nên những cuộc tranh luận dữ dội quanh hôn nhân, ngoại tình và sự độc lập của phụ nữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T17:54:40.690665+07:00",
+      "fetched": "2026-05-10T17:54:40.690759+07:00"
+    },
+    {
+      "id": "008b220912ba9e9697a5050ac5b0c7f2",
+      "title": "Cháy lớn tại công ty dệt may ở Nhơn Trạch, khói bốc cao hàng chục mét",
+      "link": "https://tuoitre.vn/chay-lon-tai-cong-ty-det-may-o-nhon-trach-khoi-boc-cao-hang-chuc-met-20260510152840082.htm",
+      "summary": "Ít nhất 8 xe chữa cháy và 1 xe bồn từ nhiều đơn vị đã tham gia chữa cháy tại công ty dệt ở Khu công nghiệp Nhơn Trạch 6, TP Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T17:54:40.690564+07:00",
+      "fetched": "2026-05-10T17:54:40.690657+07:00"
+    },
+    {
+      "id": "9170d537f620d79b6e36c3790c7ec2b2",
+      "title": "Tiền gửi vào nhiều ngân hàng giảm, một 'ông lớn' Big4 sụt 82.000 tỉ đồng",
+      "link": "https://tuoitre.vn/tien-gui-vao-nhieu-ngan-hang-giam-mot-ong-lon-big4-sut-82-000-ti-dong-20260510154538062.htm",
+      "summary": "Tiền gửi vào ngân hàng ghi nhận xu hướng sụt giảm trong quý đầu năm nay. Tại BIDV, lượng tiền gửi khách hàng giảm 82.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T17:54:40.690451+07:00",
+      "fetched": "2026-05-10T17:54:40.690555+07:00"
+    },
+    {
+      "id": "57529d0f635fbc45f6c83a4e29d567c2",
+      "title": "Học sinh TP.HCM kể về mẹ nuôi trong lễ trưởng thành, nhiều người bật khóc",
+      "link": "https://tuoitre.vn/hoc-sinh-tp-hcm-ke-ve-me-nuoi-trong-le-truong-thanh-nhieu-nguoi-bat-khoc-20260510153429429.htm",
+      "summary": "\"Mẹ Ba không cho tôi một hình hài, nhưng lại mang đến cho tôi một mái ấm, cho tôi biết thế nào là yêu thương…\" - câu chuyện của Đỗ Khánh Ngọc, lớp 12A1 Trường tiểu học-THCS-THPT Trương Vĩnh Ký, TP.HCM, khiến nhiều người rơi nước mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T17:54:40.690350+07:00",
+      "fetched": "2026-05-10T17:54:40.690443+07:00"
+    },
+    {
+      "id": "624be988fb9c7378f6fc53598697dc6a",
+      "title": "Liên doanh Vũng Tàu Paradise nợ thuế gần 2.100 tỉ, đứng đầu danh sách nợ thuế tại TP.HCM",
+      "link": "https://tuoitre.vn/lien-doanh-vung-tau-paradise-no-thue-gan-2-100-ti-dung-dau-danh-sach-no-thue-tai-tp-hcm-20260510155230105.htm",
+      "summary": "Thuế TP.HCM vừa công khai danh sách nợ tiền thuế và các khoản thu khác thuộc ngân sách nhà nước tính đến tháng 3-2026. Đáng chú ý có nhiều doanh nghiệp nợ thuế với số tiền đặc biệt lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T17:54:40.690246+07:00",
+      "fetched": "2026-05-10T17:54:40.690341+07:00"
+    },
+    {
+      "id": "22949d3342539ea90cd6447474c9285d",
+      "title": "Iran: Tàu của các nước ủng hộ Mỹ trừng phạt Iran không được phép đi qua eo biển Hormuz",
+      "link": "https://tuoitre.vn/iran-tau-cua-cac-nuoc-ung-ho-my-trung-phat-iran-khong-duoc-phep-di-qua-eo-bien-hormuz-20260510152153046.htm",
+      "summary": "Iran tuyên bố sẽ không cho phép tàu thuyền từ các quốc gia ủng hộ lệnh trừng phạt của Mỹ đi qua eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T17:54:40.690138+07:00",
+      "fetched": "2026-05-10T17:54:40.690237+07:00"
+    },
+    {
+      "id": "321c805da506a1e9c7cd74cb85219624",
+      "title": "Hồng Đào, Hồng Vân cùng loạt nghệ sĩ chia sẻ cảm xúc nhân Ngày của mẹ",
+      "link": "https://tuoitre.vn/hong-dao-hong-van-cung-loat-nghe-sy-chia-se-cam-xuc-nhan-ngay-cua-me-20260510160619839.htm",
+      "summary": "Hôm nay là Ngày của mẹ, nhiều nghệ sĩ như Hồng Đào, Hồng Vân, Thanh Hằng, Quỳnh Hoa, Hiền Thục… đã đăng ảnh mẹ hoặc hình ảnh tình mẫu tử để tri ân mẹ của mình và những người mẹ trên thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T17:54:40.690016+07:00",
+      "fetched": "2026-05-10T17:54:40.690128+07:00"
+    },
+    {
+      "id": "bc9fa2f8fb5902ca82a63ce4e45404e8",
+      "title": "Người ném vỏ chai bia xuống sông Kẻ Vạn ở Huế phải tự thuê ghe đi vớt lên lại",
+      "link": "https://tuoitre.vn/nguoi-nem-vo-chai-bia-xuong-song-ke-van-o-hue-phai-tu-thue-ghe-di-vot-len-lai-20260510155544528.htm",
+      "summary": "Sau khi tiếp nhận phản ánh trên mạng xã hội về việc một người đàn ông vứt nhiều vỏ chai bia xuống sông Kẻ Vạn, lực lượng chức năng phường Phú Xuân (TP Huế) đã nhanh chóng vào cuộc xác minh, xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T17:54:40.689777+07:00",
+      "fetched": "2026-05-10T17:54:40.690003+07:00"
+    },
     {
       "id": "e58c1f1c1c98965ee6779e5f1f31cdbb",
       "title": "Nhà di động đủ tiện nghi, có cả bồn tắm sục, giá chỉ bằng bát phở",
@@ -343,6 +423,206 @@ window.newsData_2026_05_10 = {
       "fetched": "2026-05-10T12:36:08.958593+07:00"
     },
     {
+      "id": "08ccb43f8ea7c810744f50548cf2d885",
+      "title": "Ông Putin: Xung đột sắp tới hồi kết, không từ chối gặp Tổng thống Ukraine",
+      "link": "https://thanhnien.vn/ong-putin-xung-dot-sap-toi-hoi-ket-khong-tu-choi-gap-tong-thong-ukraine-185260510165712741.htm",
+      "summary": "Tổng thống Nga Vladimir Putin ngày 9.5 nói với các phóng viên rằng ông nghĩ cuộc xung đột Nga - Ukraine đang tiến gần đến hồi kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T10:52:00+07:00",
+      "fetched": "2026-05-10T17:54:39.375069+07:00"
+    },
+    {
+      "id": "0f58587ca8b0b2c20ce98217b05743c7",
+      "title": "Sổ đỏ cấp sai quy định được xem xét điều chỉnh, nộp bổ sung thuế",
+      "link": "https://vnexpress.net/so-do-cap-sai-quy-dinh-duoc-xem-xet-dieu-chinh-nop-bo-sung-thue-5072135.html",
+      "summary": "Các dự án được cấp sổ đỏ sai quy định trước đây sẽ được xem xét điều chỉnh và nộp bổ sung nghĩa vụ tài chính, theo cơ chế đặc thù của Chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T10:40:04+07:00",
+      "fetched": "2026-05-10T17:54:36.010970+07:00"
+    },
+    {
+      "id": "fe6cf5f922a53017b31dadaeb469f6a2",
+      "title": "Cơ thủ Yến Sinh vô địch billiards nữ châu Á",
+      "link": "https://vnexpress.net/co-thu-yen-sinh-vo-dich-billiards-nu-chau-a-5072182.html",
+      "summary": "Liên tiếp hạ các cơ thủ Hàn Quốc, Nguyễn Đức Yến Sinh vô địch nội dung nữ giải carom 3 băng châu Á chiều 10/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T10:39:50+07:00",
+      "fetched": "2026-05-10T17:54:36.011130+07:00"
+    },
+    {
+      "id": "eb5e2b0bd0a8bd5abc495eda1c236f4b",
+      "title": "Mây ngũ sắc rực rỡ bất ngờ xuất hiện trên bầu trời TP.HCM vào Ngày của mẹ",
+      "link": "https://thanhnien.vn/may-ngu-sac-ruc-ro-bat-ngo-xuat-hien-tren-bau-troi-tphcm-vao-ngay-cua-me-185260510172209874.htm",
+      "summary": "Hôm nay 10.5, chiều chủ nhật cuối tuần đúng vào Ngày của mẹ, nhiều người dân ở TP.HCM khi nhìn lên trời bất ngờ thấy đám mây ngũ sắc rực rỡ xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T10:24:00+07:00",
+      "fetched": "2026-05-10T17:54:39.375218+07:00"
+    },
+    {
+      "id": "36637978421918dc85f9452cc3a45e76",
+      "title": "Điểm tin 17h: Doanh nghiệp, cá nhân bị cấm dùng phần mềm lậu | Nông dân miền Tây điêu đứng vì giá sầu riêng lao dốc",
+      "link": "https://vnexpress.net/diem-tin-17h-doanh-nghiep-ca-nhan-bi-cam-dung-phan-mem-lau-nong-dan-mien-tay-dieu-dung-vi-gia-sau-rieng-lao-doc-5072189.html",
+      "summary": "Đề xuất doanh nghiệp nộp thuế thay người gom ve chai, phế liệu; Miền Bắc và Trung tuần tới nắng nóng...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T10:02:16+07:00",
+      "fetched": "2026-05-10T17:54:36.011277+07:00"
+    },
+    {
+      "id": "94e8e46f9dd0e55b7d4b7d5f644e55cd",
+      "title": "Toàn cảnh 17h: Tìm thấy ngư dân vụ chìm tàu ở Cô Tô | Cảnh báo lũ quét tại Sơn La - Điện Biên",
+      "link": "https://thanhnien.vn/toan-canh-17h-tim-thay-ngu-dan-vu-chim-tau-o-co-to-canh-bao-lu-quet-tai-son-la-dien-bien-185260510165122792.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T10:00:00+07:00",
+      "fetched": "2026-05-10T17:54:39.375350+07:00"
+    },
+    {
+      "id": "5b0ac3455d0ce868275e3970ef185944",
+      "title": "'Quan hệ' với bạn gái nhí từ lúc dưới 13 tuổi, bị xử mấy tội?",
+      "link": "https://thanhnien.vn/quan-he-voi-ban-gai-nhi-tu-luc-duoi-13-tuoi-bi-xu-may-toi-185260510153224942.htm",
+      "summary": "Được bạn gái nhí đồng ý quan hệ tình dục nhiều lần, từ khi chưa đủ 13 tuổi đến lúc đã đủ 13 tuổi, vậy nam thanh niên sẽ bị truy cứu hình sự về mấy tội danh?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:59:00+07:00",
+      "fetched": "2026-05-10T17:54:39.375474+07:00"
+    },
+    {
+      "id": "90ec31c1ed44cc6fd090a10d7750780a",
+      "title": "Thông tin mới nhất về gỡ tắc xuất khẩu sầu riêng Trung Quốc",
+      "link": "https://thanhnien.vn/thong-tin-moi-nhat-ve-go-tac-xuat-khau-sau-rieng-trung-quoc-185260510133846069.htm",
+      "summary": "Cục Trồng trọt và Bảo vệ thực vật (Bộ Nông nghiệp và Môi trường) đã công bố, gửi danh sách phòng kiểm nghiệm chỉ tiêu an toàn thực phẩm cadimi, vàng o trên sầu riêng xuất khẩu Trung Quốc về các địa phương để thông tin đến doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:56:00+07:00",
+      "fetched": "2026-05-10T17:54:39.375616+07:00"
+    },
+    {
+      "id": "996521a3cd6d98f9779c11ea39f77b28",
+      "title": "Xổ số miền Nam ngày 10 tháng 5: Người trúng số đài Tiền Giang lãnh tiền ngay",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-10-thang-5-nguoi-trung-so-dai-tien-giang-lanh-tien-ngay-185260510160719582.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 10 tháng 5, 160 vé trúng số đài Tiền Giang lộ diện sớm, khách lãnh tiền ngay lập tức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:55:00+07:00",
+      "fetched": "2026-05-10T17:54:39.375741+07:00"
+    },
+    {
+      "id": "604fe61ff13c0af7ac18e7f7ee206480",
+      "title": "Hàng loạt nước điều chuyên cơ giải cứu du khách khỏi 'ổ dịch' Hantavirus",
+      "link": "https://vnexpress.net/hang-loat-nuoc-dieu-chuyen-co-giai-cuu-du-khach-khoi-o-dich-hantavirus-5072122.html",
+      "summary": "Du thuyền MV Hondius mang theo mầm bệnh Hantavirus đã cập cảng Granadilla (đảo Tenerife, Tây Ban Nha), mở đầu chiến dịch sơ tán y tế đa quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:53:01+07:00",
+      "fetched": "2026-05-10T17:54:36.011416+07:00"
+    },
+    {
+      "id": "0bcfe300d8f83db00a511fb9e3ff4d46",
+      "title": "Iran hé lộ thương tích của Lãnh tụ tối cao Khamenei trong trận không kích của Mỹ - Israel",
+      "link": "https://thanhnien.vn/iran-he-lo-thuong-tich-cua-lanh-tu-toi-cao-khamenei-trong-tran-khong-kich-cua-my-israel-18526051015384996.htm",
+      "summary": "Lần đầu tiên từ khi xung đột bùng phát, Tehran tiết lộ chi tiết thương tích của Lãnh tụ tối cao Iran Mojtaba Khamenei do cuộc không kích của Mỹ và Israel gây ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:50:00+07:00",
+      "fetched": "2026-05-10T17:54:39.375860+07:00"
+    },
+    {
+      "id": "8b9bf420c7caff0f22de09810c6d5a45",
+      "title": "100% các dự án vướng mắc tại TP.HCM đã được gỡ vướng",
+      "link": "https://thanhnien.vn/100-cac-du-an-vuong-mac-tai-tphcm-da-duoc-go-vuong-18526051016365924.htm",
+      "summary": "Báo cáo từ Sở Tài chính TP.HCM cho thấy, các dự án được Quốc hội giao TP.HCM tháo gỡ khó khăn, vướng mắc theo Nghị quyết 170 đến nay đã hoàn thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:44:00+07:00",
+      "fetched": "2026-05-10T17:54:39.375978+07:00"
+    },
+    {
+      "id": "cfa2d2ec411f1e18b4cf7e5de19de577",
+      "title": "Hơn 200 người tìm kiếm người đàn ông mất tích ở Tuyên Quang",
+      "link": "https://vnexpress.net/hon-200-nguoi-tim-kiem-nguoi-dan-ong-mat-tich-o-tuyen-quang-5072158.html",
+      "summary": "Người đàn ông vào rừng tìm cây thuốc nam thì mất liên lạc với gia đình cách đây ba ngày, hiện hơn 200 người được huy động tìm kiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:39:59+07:00",
+      "fetched": "2026-05-10T17:54:36.011560+07:00"
+    },
+    {
+      "id": "541400a52f1146fe436929a09a65dfe8",
+      "title": "100 người phụ nữ đương đại đối thoại qua triển lãm 'Her'",
+      "link": "https://thanhnien.vn/100-nguoi-phu-nu-duong-dai-doi-thoai-qua-trien-lam-her-185260510160231432.htm",
+      "summary": "100 tác phẩm là 100 người phụ nữ đương đại khác nhau cùng đối thoại trong triển lãm Her.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:35:00+07:00",
+      "fetched": "2026-05-10T17:54:39.376096+07:00"
+    },
+    {
+      "id": "dfc2e751384e5305b7587c4b83a69c8a",
+      "title": "5 trường hợp cần tầm soát ung thư phổi",
+      "link": "https://thanhnien.vn/5-truong-hop-can-tam-soat-ung-thu-phoi-185260510143106558.htm",
+      "summary": "Chỉ khoảng 20 - 30% bệnh nhân ung thư phổi được phát hiện khi khối u nhỏ, chưa tiến triển, chưa di căn. Để phát hiện sớm, từ 50 tuổi trở lên, nên chủ động sàng lọc ung thư phổi nếu có 1 trong các yếu tố nguy cơ thường gặp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:31:00+07:00",
+      "fetched": "2026-05-10T17:54:39.376231+07:00"
+    },
+    {
+      "id": "011355c5f7b356454d1b3cea76d534c3",
+      "title": "Doanh nghiệp, cá nhân bị cấm dùng phần mềm lậu",
+      "link": "https://vnexpress.net/doanh-nghiep-ca-nhan-bi-cam-dung-phan-mem-lau-5072164.html",
+      "summary": "Cục Bản quyền tác giả đề nghị tổ chức, doanh nghiệp, cá nhân rà soát, không sử dụng chương trình máy tính không có bản quyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:30:38+07:00",
+      "fetched": "2026-05-10T17:54:36.011689+07:00"
+    },
+    {
+      "id": "65a2460c34ae130228ac1801c3579415",
+      "title": "Phiến quân san phẳng đồn cảnh sát Pakistan, 15 sĩ quan thiệt mạng",
+      "link": "https://vnexpress.net/phien-quan-san-phang-don-canh-sat-pakistan-15-si-quan-thiet-mang-5072171.html",
+      "summary": "Phiến quân lao xe bom vào đồn cảnh sát ở tây bắc Pakistan, sau đó phục kích lực lượng tiếp viện, khiến ít nhất 15 sĩ quan thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:28:21+07:00",
+      "fetched": "2026-05-10T17:54:36.011818+07:00"
+    },
+    {
+      "id": "65a2460c34ae130228ac1801c3579415",
+      "title": "Phiến quân san phẳng đồn cảnh sát Pakistan, 15 sĩ quan thiệt mạng",
+      "link": "https://vnexpress.net/phien-quan-san-phang-don-canh-sat-pakistan-15-si-quan-thiet-mang-5072171.html",
+      "summary": "Phiến quân lao xe bom vào đồn cảnh sát ở tây bắc Pakistan, sau đó phục kích lực lượng tiếp viện, khiến ít nhất 15 sĩ quan thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-10T09:28:21+07:00",
+      "fetched": "2026-05-10T17:54:42.370187+07:00"
+    },
+    {
+      "id": "63cd4823a397f6bccd07815672038e96",
+      "title": "Khoảnh khắc giải cứu 7 người mắc kẹt trong thang máy ở TP.HCM",
+      "link": "https://thanhnien.vn/khoanh-khac-giai-cuu-7-nguoi-mac-ket-trong-thang-may-o-tphcm-185260510161552475.htm",
+      "summary": "Một sự cố mất điện bất ngờ khiến 7 người mắc kẹt trong thang máy của một thẩm mỹ viện tại TP.HCM. Trong không gian chật hẹp, nhiều người hoảng loạn, khó thở trước khi lực lượng cứu nạn kịp thời có mặt giải cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:25:00+07:00",
+      "fetched": "2026-05-10T17:54:39.376356+07:00"
+    },
+    {
+      "id": "7d0b9ab870ff62ac77de0e1322ed90a7",
+      "title": "Bị phạt vì vứt cả trăm vỏ chai bia xuống sông Kẻ Vạn",
+      "link": "https://vnexpress.net/bi-phat-vi-vut-ca-tram-vo-chai-bia-xuong-song-ke-van-5072120.html",
+      "summary": "Vứt hàng trăm vỏ chai bia thủy tinh xuống sông Kẻ Vạn, người đàn ông 50 tuổi ở phường Phú Xuân bị phạt 2 triệu đồng, buộc phải thu dọn số phế thải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:24:40+07:00",
+      "fetched": "2026-05-10T17:54:36.011939+07:00"
+    },
+    {
       "id": "ac8aa9eb6cd07ec382f7cccfd480e8fa",
       "title": "Nhiều người kiên nhẫn xếp hàng chờ đợi để trải nghiệm Trạm Công dân số",
       "link": "https://thanhnien.vn/nhieu-nguoi-kien-nhan-xep-hang-cho-doi-de-trai-nghiem-tram-cong-dan-so-185260510145301952.htm",
@@ -353,6 +633,26 @@ window.newsData_2026_05_10 = {
       "fetched": "2026-05-10T16:24:17.274287+07:00"
     },
     {
+      "id": "cb16cbedd2eb5b1e2d98cba625326486",
+      "title": "Báo Thái than thở vì đội tuyển 'không gặp thời' ở U17 châu Á",
+      "link": "https://vnexpress.net/bao-thai-than-tho-vi-doi-tuyen-khong-gap-thoi-o-u17-chau-a-5072175.html",
+      "summary": "Báo chí Thái Lan cho rằng đội nhà thiếu may mắn khi liên tục rơi vào bảng đấu mạnh nên bị loại sớm tại các vòng chung kết U17 châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:17:06+07:00",
+      "fetched": "2026-05-10T17:54:36.012056+07:00"
+    },
+    {
+      "id": "cb16cbedd2eb5b1e2d98cba625326486",
+      "title": "Báo Thái than thở vì đội tuyển 'không gặp thời' ở U17 châu Á",
+      "link": "https://vnexpress.net/bao-thai-than-tho-vi-doi-tuyen-khong-gap-thoi-o-u17-chau-a-5072175.html",
+      "summary": "Báo chí Thái Lan cho rằng đội nhà thiếu may mắn khi liên tục rơi vào bảng đấu mạnh nên bị loại sớm tại các vòng chung kết U17 châu Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-10T09:17:06+07:00",
+      "fetched": "2026-05-10T17:54:48.718087+07:00"
+    },
+    {
       "id": "eb90e002a93a1c9f265a72d8e4a0f25c",
       "title": "Aubameyang xịt bình cứu hỏa vào quan chức Marseille",
       "link": "https://vnexpress.net/aubameyang-xit-binh-cuu-hoa-vao-quan-chuc-marseille-5072044.html",
@@ -361,6 +661,16 @@ window.newsData_2026_05_10 = {
       "category": "Thể thao",
       "published": "2026-05-10T09:09:41+07:00",
       "fetched": "2026-05-10T16:24:24.245982+07:00"
+    },
+    {
+      "id": "8bbab90729760e606979d726d94bfc27",
+      "title": "Việt Nam giành ngôi vô địch giải thử nếm cà phê thế giới",
+      "link": "https://vnexpress.net/viet-nam-gianh-ngoi-vo-dich-giai-thu-nem-ca-phe-the-gioi-5072166.html",
+      "summary": "Lê Quang Cường, đại diện của Việt Nam, giành chiến thắng cao nhất trong lần đầu tham dự cuộc thi Thử nếm Cà phê thế giới 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:05:03+07:00",
+      "fetched": "2026-05-10T17:54:36.012295+07:00"
     },
     {
       "id": "d484b52ab8383b990b99b2d2d8e31b43",
@@ -381,6 +691,36 @@ window.newsData_2026_05_10 = {
       "category": "Tổng hợp",
       "published": "2026-05-10T09:00:00+07:00",
       "fetched": "2026-05-10T16:24:17.274584+07:00"
+    },
+    {
+      "id": "53ff312c8265472040cdc056657115dc",
+      "title": "Chồng coi tôi như không khí mỗi khi giận dỗi",
+      "link": "https://vnexpress.net/chong-coi-toi-nhu-khong-khi-moi-khi-gian-doi-5072162.html",
+      "summary": "Tôi muốn nói chuyện để giải quyết cho xong, không hài lòng gì thì nói nhưng anh không mở miệng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:00:00+07:00",
+      "fetched": "2026-05-10T17:54:36.012415+07:00"
+    },
+    {
+      "id": "f5c4fdebd012a62257606793a5380f95",
+      "title": "Tác động âm thầm của rượu lên thận",
+      "link": "https://vnexpress.net/tac-dong-am-tham-cua-ruou-len-than-5071850.html",
+      "summary": "Uống nhiều rượu kéo dài có thể gây tăng huyết áp, mất nước và viêm, từ đó làm suy giảm chức năng thận theo thời gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:00:00+07:00",
+      "fetched": "2026-05-10T17:54:36.012545+07:00"
+    },
+    {
+      "id": "1c31b5fb3e205797491fe87006e91d5d",
+      "title": "Trứng mua về có nên rửa ngay?",
+      "link": "https://vnexpress.net/trung-mua-ve-co-nen-rua-ngay-5071804.html",
+      "summary": "Không nên rửa trứng trước khi bảo quản vì sẽ làm mất lớp màng bảo vệ tự nhiên, chỉ nên dùng khăn lau khô và chỉ rửa bằng nước ngay trước khi chế biến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T09:00:00+07:00",
+      "fetched": "2026-05-10T17:54:36.012685+07:00"
     },
     {
       "id": "931ebe901a7f0511dc94e7e890a761c8",
@@ -541,6 +881,16 @@ window.newsData_2026_05_10 = {
       "category": "Tổng hợp",
       "published": "2026-05-10T08:54:00+07:00",
       "fetched": "2026-05-10T16:24:17.274717+07:00"
+    },
+    {
+      "id": "5e6cad2157dae6077bc643b3fe7ac441",
+      "title": "Tôi áy náy vì nhặt được chiếc ví không có số điện thoại bên trong",
+      "link": "https://vnexpress.net/toi-ay-nay-vi-nhat-duoc-chiec-vi-khong-co-so-dien-thoai-ben-trong-5072066.html",
+      "summary": "Sau khi bàn giao ví cho anh bảo vệ ký túc xá, tôi vẫn day dứt vì không trao tận tay nữ sinh viên đánh mất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T08:47:52+07:00",
+      "fetched": "2026-05-10T17:54:36.012805+07:00"
     },
     {
       "id": "5a83b47c33b62b507328b9b43f282dd7",
