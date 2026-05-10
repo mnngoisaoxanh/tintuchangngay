@@ -1,7 +1,157 @@
 window.newsData_2026_05_10 = {
   "date": "2026-05-10",
-  "lastUpdated": "2026-05-10T08:58:32.964407+07:00",
+  "lastUpdated": "2026-05-10T12:36:17.254886+07:00",
   "articles": [
+    {
+      "id": "d11236edc32d472cacc2c599ac3f3163",
+      "title": "Bộ Nội vụ đề xuất các trường hợp nhân tài vào cơ quan  Nhà nước được hưởng phụ cấp 300%",
+      "link": "https://tuoitre.vn/bo-noi-vu-de-xuat-cac-truong-hop-nhan-tai-vao-co-quan-nha-nuoc-duoc-huong-phu-cap-300-20260510091236452.htm",
+      "summary": "Tại dự thảo nghị định, Bộ Nội vụ đề xuất các trường hợp nhà khoa học trẻ, chuyên gia, quản lý doanh nghiệp, luật sư... khi tuyển dụng vào công chức, viên chức được hưởng phụ cấp 300% lương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.960049+07:00",
+      "fetched": "2026-05-10T12:36:08.960137+07:00"
+    },
+    {
+      "id": "811a1a7d66cba3ad30d24f663a455a35",
+      "title": "Làn sóng toàn cầu cấm trẻ em dùng mạng xã hội - Kỳ 2: 6 tháng sau lệnh cấm ở Úc",
+      "link": "https://tuoitre.vn/lan-song-toan-cau-cam-tre-em-dung-mang-xa-hoi-ky-2-6-thang-sau-lenh-cam-o-uc-20260509232351921.htm",
+      "summary": "Vào một ngày cuối tuần tháng 3-2026 tại Brisbane, gia đình nhà Dolezal cùng ngồi ăn trưa không còn màn hình điện tử. Bà Lauren Dolezal đã nỗ lực khống chế thành công thời gian hai cô con gái Bea (12 tuổi) và Josie (11 tuổi) sử dụng các thiết bị này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.959945+07:00",
+      "fetched": "2026-05-10T12:36:08.960034+07:00"
+    },
+    {
+      "id": "18db802b1b92b598a00325c4cc830d31",
+      "title": "Chàng sinh viên đam mê bóng rổ",
+      "link": "https://tuoitre.vn/chang-sinh-vien-dam-me-bong-ro-20260510080937486.htm",
+      "summary": "Đại hội thể dục thể thao (TDTT) TP.HCM năm 2026 là nơi để các VĐV bùng cháy với đam mê của mình. Trong số đó có VĐV môn bóng rổ phường Bà Rịa là Lê Nguyễn Hoàng Lân (23 tuổi).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.959854+07:00",
+      "fetched": "2026-05-10T12:36:08.959937+07:00"
+    },
+    {
+      "id": "d60d8c5e0e5ca9936f303f082066e99b",
+      "title": "Lời xin lỗi gửi Michael Jackson",
+      "link": "https://tuoitre.vn/loi-xin-loi-gui-michael-jackson-20260510093427681.htm",
+      "summary": "Michael Jackson đứng trên nóc một chiếc xe hơi đậu giữa một con phố ở New York. Xung quanh là hàng trăm hàng ngàn người hâm mộ đứng vây quanh reo hò khiến cả đoạn đường tắc cứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.959761+07:00",
+      "fetched": "2026-05-10T12:36:08.959846+07:00"
+    },
+    {
+      "id": "01ffa40828117c1deb96d58420481476",
+      "title": "U17 Việt Nam - U17 Hàn Quốc: Mở cánh cửa đến World Cup?",
+      "link": "https://tuoitre.vn/u17-viet-nam-u17-han-quoc-mo-canh-cua-den-world-cup-20260510080410291.htm",
+      "summary": "23h ngày 10-5 (giờ Việt Nam), U17 Việt Nam sẽ gặp U17 Hàn Quốc (THTT trên TV360) ở trận đấu lượt trận thứ 2 bảng C Giải U17 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.959647+07:00",
+      "fetched": "2026-05-10T12:36:08.959752+07:00"
+    },
+    {
+      "id": "c681470a7d0b6413b66a76151cd5048f",
+      "title": "Tâm trạng không tốt, hãy thử những bài tập này",
+      "link": "https://tuoitre.vn/tam-trang-khong-tot-hay-thu-nhung-bai-tap-nay-20260503132139394.htm",
+      "summary": "Khi áp lực công việc, học tập khiến tâm trạng dễ trở nên nặng nề, vận động thể chất có thể là cách đơn giản để cơ thể và tinh thần cùng được “xả tải”. Chỉ cần chọn đúng bài tập phù hợp, cảm xúc tích cực đôi khi sẽ trở lại nhanh hơn bạn nghĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.959552+07:00",
+      "fetched": "2026-05-10T12:36:08.959639+07:00"
+    },
+    {
+      "id": "8eb7bd91a0fc7323dbf4480d04c02860",
+      "title": "Công an điều tra vụ một người tử vong nghi do xuyệt điện bắt cá",
+      "link": "https://tuoitre.vn/cong-an-dieu-tra-vu-mot-nguoi-tu-vong-nghi-do-cong-cu-xuyet-dien-bat-ca-2026051009502585.htm",
+      "summary": "Ngày 10-5, Công an xã Tân Long, tỉnh Đồng Tháp cho biết đã khám nghiệm hiện trường, khám nghiệm tử thi để điều tra vụ một người tử vong nghi do công cụ xuyệt điện bắt cá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.959458+07:00",
+      "fetched": "2026-05-10T12:36:08.959544+07:00"
+    },
+    {
+      "id": "2dc34674de6a1eb34bf1482b2a4ff059",
+      "title": "Căng thẳng thi lớp 10, gỡ từ đâu?",
+      "link": "https://tuoitre.vn/cang-thang-thi-lop-10-go-tu-dau-20260510083721416.htm",
+      "summary": "Chủ trương của Nhà nước là phổ cập giáo dục từ mầm non, mẫu giáo đến hết lớp 12 và miễn giảm học phí. Theo đó, cần có giải pháp để đủ trường, lớp, giảm áp lực thi vào lớp 10 hằng năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.959363+07:00",
+      "fetched": "2026-05-10T12:36:08.959450+07:00"
+    },
+    {
+      "id": "44f5cb2ce760de095cd7e5e88237a1f8",
+      "title": "Vòng 22 V-League 2025 - 2026: Tâm điểm sân Pleiku",
+      "link": "https://tuoitre.vn/vong-22-v-league-2025-2026-tam-diem-san-pleiku-20260510080001158.htm",
+      "summary": "Để trụ hạng, CLB PVF-CAND phải đánh bại Hoàng Anh Gia Lai (HAGL) ở vòng 22 diễn ra vào 17h hôm nay (10-5, FPT Play THTT) trên sân Pleiku.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.959263+07:00",
+      "fetched": "2026-05-10T12:36:08.959355+07:00"
+    },
+    {
+      "id": "0118dc858db236db481b1c747e658607",
+      "title": "Dịch vụ 'cho thuê con cái' ở Thái và mỏ vàng của 'kinh tế bạc' tại Việt Nam",
+      "link": "https://tuoitre.vn/dich-vu-cho-thue-con-cai-o-thai-va-mo-vang-cua-kinh-te-bac-tai-viet-nam-20260509231023481.htm",
+      "summary": "Dịch vụ cho người già ở nhiều nước trong khu vực đã rất đa dạng. Nhu cầu chăm sóc người cao tuổi tại nhà ở Việt Nam cũng đang ngày càng rõ nét nhưng dịch vụ còn thiếu nhiều mảnh ghép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.959117+07:00",
+      "fetched": "2026-05-10T12:36:08.959253+07:00"
+    },
+    {
+      "id": "f6b7fb6cb13f9d3f1d58f0cc19b4487a",
+      "title": "Năm 2026 Đồng Tháp sẽ thí điểm áp dụng hệ thống truy xuất nguồn gốc nông sản",
+      "link": "https://tuoitre.vn/nam-2026-dong-thap-se-thi-diem-ap-dung-he-thong-truy-xuat-nguon-goc-nong-san-20260510082721751.htm",
+      "summary": "Trong năm 2026, tỉnh Đồng Tháp sẽ triển khai thí điểm áp dụng hệ thống truy xuất nguồn gốc nông sản đối với ít nhất 1 cơ sở sơ chế, đóng gói sầu riêng trên địa bàn tỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.958978+07:00",
+      "fetched": "2026-05-10T12:36:08.959101+07:00"
+    },
+    {
+      "id": "eb216595b008731c46fcf81ecc31ed8c",
+      "title": "'Lớp học' ngay trên vỉa hè của thầy Chris và cô học trò đặc biệt",
+      "link": "https://tuoitre.vn/lop-hoc-ngay-tren-via-he-cua-thay-chris-va-co-hoc-tro-dac-biet-2026051009471918.htm",
+      "summary": "Người đi đường qua giao lộ Pasteur - Võ Thị Sáu (TP.HCM) những ngày qua khá thích thú với hình ảnh thầy giáo Tây dạy học cho cô bé bán vé số. Lớp học diễn ra ngay trên vỉa hè, và người mẹ cạnh bên chăm chú dõi theo cô con gái nhỏ của mình học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.958860+07:00",
+      "fetched": "2026-05-10T12:36:08.958969+07:00"
+    },
+    {
+      "id": "a7588058e86758d1aefc2da3979e8518",
+      "title": "Ba dự án đường sắt, metro kết nối sân bay Long Thành, ACV kiến nghị rà soát tổng thể",
+      "link": "https://tuoitre.vn/ba-du-an-duong-sat-metro-ket-noi-san-bay-long-thanh-acv-kien-nghi-ra-soat-tong-the-20260510094242233.htm",
+      "summary": "Tổng Công ty Cảng hàng không Việt Nam (ACV) vừa có văn bản gửi Bộ Xây dựng cùng UBND TP.HCM và UBND TP Đồng Nai về xem xét việc bố trí các tuyến đường sắt, metro nối sân bay Long Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.958747+07:00",
+      "fetched": "2026-05-10T12:36:08.958851+07:00"
+    },
+    {
+      "id": "fd1c922d3f5dae068ddb0c878454ef34",
+      "title": "Phường xử lý vi phạm nhiều nhất cả nước ra mắt mô hình an toàn giao thông",
+      "link": "https://tuoitre.vn/phuong-xu-ly-vi-pham-nhieu-nhat-ca-nuoc-ra-mat-mo-hinh-an-toan-giao-thong-20260510102002709.htm",
+      "summary": "\"Việc xây dựng mô hình phường an toàn giao thông không chỉ nhằm kéo giảm vi phạm, phòng ngừa tai nạn mà quan trọng hơn là tạo chuyển biến về nhận thức, ý thức chấp hành của người dân\", Phó cục trưởng Cục Cảnh sát giao thông cho biết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.958606+07:00",
+      "fetched": "2026-05-10T12:36:08.958735+07:00"
+    },
+    {
+      "id": "ce3ba028655b03cba0c476a3d9fc522e",
+      "title": "Viva Vân bảo vệ đai đô vật Mỹ thành công ở Saigon Slam Jam",
+      "link": "https://tuoitre.vn/viva-van-bao-ve-dai-do-vat-my-thanh-cong-o-saigon-slam-jam-20260510102507253.htm",
+      "summary": "7 trận đấu đô vật Mỹ phong cách WWE ở sự kiện Saigon Slam Jam mang lại nhiều cảm xúc thú vị và quen thuộc cho những khán giả yêu thích môn vật này từ lâu nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T12:36:08.958374+07:00",
+      "fetched": "2026-05-10T12:36:08.958593+07:00"
+    },
     {
       "id": "931ebe901a7f0511dc94e7e890a761c8",
       "title": "Những công trình nào được miễn giấy phép xây dựng theo luật mới?",
@@ -153,6 +303,356 @@ window.newsData_2026_05_10 = {
       "fetched": "2026-05-10T08:58:26.590961+07:00"
     },
     {
+      "id": "c560dc9701ba4112536015a836ac4d1c",
+      "title": "Diễn viên Đình Tú trải lòng về cuộc sống hôn nhân với mỹ nhân VFC",
+      "link": "https://thanhnien.vn/dien-vien-dinh-tu-trai-long-ve-cuoc-song-hon-nhan-voi-my-nhan-vfc-185260510120537433.htm",
+      "summary": "Diễn viên Đình Tú cho biết anh đang tận hưởng cuộc sống hôn nhân bình yên bên diễn viên Ngọc Huyền sau nhiều năm trải qua khó khăn về tài chính và áp lực nghề nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:32:00+07:00",
+      "fetched": "2026-05-10T12:36:07.774974+07:00"
+    },
+    {
+      "id": "7ba4f1d7b81f63293c29aba4e8216eeb",
+      "title": "Tài tử phim 'Yêu nữ thích hàng hiệu' tiết lộ hôn nhân bên vợ kém 21 tuổi",
+      "link": "https://thanhnien.vn/tai-tu-phim-yeu-nu-thich-hang-hieu-tiet-lo-hon-nhan-ben-vo-kem-21-tuoi-185260510111048359.htm",
+      "summary": "Từng rơi vào tuyệt vọng sau biến cố, ngôi sao kỳ cựu Stanley Tucci xúc động khi chia sẻ về hành trình hôn nhân bên người vợ kém ông 21 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:27:00+07:00",
+      "fetched": "2026-05-10T12:36:07.775127+07:00"
+    },
+    {
+      "id": "f8ed843e79c6733482c6ecfff8908c2b",
+      "title": "HLV Kim Sang-sik: ‘Tuy tôi mang dòng máu Hàn Quốc nhưng Việt Nam sẽ đá sòng phẳng với đội bóng quê hương tôi’",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-tuy-toi-mang-dong-mau-han-quoc-nhung-viet-nam-se-da-song-phang-voi-doi-bong-que-huong-toi-185260510121154272.htm",
+      "summary": "Sau lễ bốc thăm vòng chung kết Asian Cup 2027, HLV trưởng đội tuyển Việt Nam Kim Sang-sik đã có những chia sẻ thẳng thắn về cục diện bảng đấu cũng như cơ hội của đội bóng do ông dẫn dắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:21:00+07:00",
+      "fetched": "2026-05-10T12:36:07.775259+07:00"
+    },
+    {
+      "id": "69db6a165cc6ec2d14c2cba881b53a40",
+      "title": "Đã tháo biển báo tốc độ 50 km/giờ ở khu vực trạm thu phí quốc lộ 51",
+      "link": "https://thanhnien.vn/da-thao-bien-bao-toc-do-50-km-gio-o-khu-vuc-tram-thu-phi-quoc-lo-51-185260510115413844.htm",
+      "summary": "Ngành chức năng thành phố Đồng Nai đã tháo dỡ các biển báo giới hạn tốc độ 50 km/giờ ở khu vực trạm thu phí cũ trên quốc lộ 51.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:21:00+07:00",
+      "fetched": "2026-05-10T12:36:07.775383+07:00"
+    },
+    {
+      "id": "d18abff5ec642a209ac7746a139fb6e5",
+      "title": "Ca sĩ Nguyễn Ngọc Anh: Thanh xuân của mẹ chính là con",
+      "link": "https://thanhnien.vn/ca-si-nguyen-ngoc-anh-thanh-xuan-cua-me-chinh-la-con-185260510121421567.htm",
+      "summary": "MV 'Chuyện của mẹ' ra mắt vào ngày 10.5 không chỉ đánh dấu nấc thang mới trong âm nhạc của ca sĩ Nguyễn Ngọc Anh, mà còn là lời nhắc nhở nhẹ nhàng về giá trị của sự thấu hiểu giữa những người ruột thịt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:14:00+07:00",
+      "fetched": "2026-05-10T12:36:07.775507+07:00"
+    },
+    {
+      "id": "8cc1e4dffa14e4e6d5599179dfb81d5f",
+      "title": "Hy hữu: Dây cước lộ ngoài miệng, bác sĩ nội soi gắp lưỡi câu khỏi thực quản",
+      "link": "https://thanhnien.vn/hy-huu-day-cuoc-lo-ngoai-mieng-bac-si-noi-soi-gap-luoi-cau-khoi-thuc-quan-185260510113257068.htm",
+      "summary": "Bệnh nhân nhập viện trong tình trạng dây cước vẫn còn lộ ngoài miệng sau khi nuốt phải lưỡi câu cá. Các bác sĩ đã khẩn cấp nội soi trong đêm để gắp dị vật mắc sâu trong thực quản, tránh nguy cơ tổn thương nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:04:00+07:00",
+      "fetched": "2026-05-10T12:36:07.775631+07:00"
+    },
+    {
+      "id": "d722dd780849393aee7ba2fc10ceccd8",
+      "title": "Xác minh clip người đàn ông cầm ghế tranh cãi với 2 CSGT TP.HCM",
+      "link": "https://thanhnien.vn/xac-minh-clip-nguoi-dan-ong-cam-ghe-tranh-cai-voi-2-csgt-tphcm-185260510114003674.htm",
+      "summary": "Phòng CSGT Công an TP.HCM đang xác minh đoạn clip người đàn ông cầm ghế nhựa tranh cãi với 2 CSGT gây xôn xao mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:01:00+07:00",
+      "fetched": "2026-05-10T12:36:07.775766+07:00"
+    },
+    {
+      "id": "1fafc2da3ead12576bc7e3306cd281d8",
+      "title": "Robot hình người Mỹ dọn phòng trong hai phút",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-my-don-phong-trong-hai-phut-5072068.html",
+      "summary": "Công ty Figure AI công bố video quá trình hai robot Figure 03 phối hợp dọn dẹp phòng ngủ mà không cần con người trợ giúp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:00:00+07:00",
+      "fetched": "2026-05-10T12:36:04.152719+07:00"
+    },
+    {
+      "id": "54b3f4f0ec71998653afd0e068b8484e",
+      "title": "Người phụ nữ mắc ba bệnh ung thư",
+      "link": "https://vnexpress.net/nguoi-phu-nu-mac-ba-benh-ung-thu-5071892.html",
+      "summary": "Sau 10 năm phẫu thuật ung thư cổ tử cung, người phụ nữ đi khám bệnh phát u vú phải, u phổi phải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:00:00+07:00",
+      "fetched": "2026-05-10T12:36:04.152886+07:00"
+    },
+    {
+      "id": "5d0ea59fb5e5756bdfc47c49dc68170d",
+      "title": "Từ nào viết đúng chính tả: Thức dạy hay thức dậy?",
+      "link": "https://vnexpress.net/do-vui-trac-nghiem-chinh-ta-tim-loi-sai-tu-nao-viet-dung-chinh-ta-thuc-day-hay-thuc-day-5069662.html",
+      "summary": "Một lỗi chính tả rất phổ biến trong đời sống hằng ngày, “Thức dạy” hay “thức dậy” mới là cách viết chuẩn? Bạn có chắc mình không nhầm?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:00:00+07:00",
+      "fetched": "2026-05-10T12:36:04.153026+07:00"
+    },
+    {
+      "id": "1619db23afda1d8a699e835b523df39f",
+      "title": "Tôi tỉnh ngộ sau những lần bạt tai 'để con nín khóc'",
+      "link": "https://vnexpress.net/toi-tinh-ngo-sau-nhung-lan-bat-tai-de-con-nin-khoc-5072094.html",
+      "summary": "Những lúc con gái tôi nhõng nhẽo khóc lóc, tôi lại dùng đòn roi để cháu nín.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:00:00+07:00",
+      "fetched": "2026-05-10T12:36:04.153168+07:00"
+    },
+    {
+      "id": "60f1f6e512830799484e1301e1ec4122",
+      "title": "Làm thế nào giảm mệt mỏi khi lọc máu?",
+      "link": "https://vnexpress.net/lam-the-nao-giam-met-moi-khi-loc-mau-5071982.html",
+      "summary": "Tôi đang chạy thận nhân tạo định kỳ, thường cảm thấy mệt trước buổi lọc và đôi khi đau đầu sau khi lọc xong. Tình trạng này có bình thường không và cần làm gì để cải thiện? (Anh Tuấn, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:00:00+07:00",
+      "fetched": "2026-05-10T12:36:04.153301+07:00"
+    },
+    {
+      "id": "9fb223d6f2aea90ae9d49a77b0d1c1e9",
+      "title": "'Giải nhiệt' ngày hè cùng những sắc màu thời trang đang được ưa chuộng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/giai-nhiet-ngay-he-cung-nhung-sac-mau-thoi-trang-dang-duoc-ua-chuong-185260508163703595.htm",
+      "summary": "Giữa nhịp sống mùa hè sôi động, đôi khi chỉ cần khoác lên mình một sắc màu thời trang phù hợp cũng đủ để mỗi cô gái tự tin tỏa sáng theo cách riêng của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:00:00+07:00",
+      "fetched": "2026-05-10T12:36:07.775887+07:00"
+    },
+    {
+      "id": "1fafc2da3ead12576bc7e3306cd281d8",
+      "title": "Robot hình người Mỹ dọn phòng trong hai phút",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-my-don-phong-trong-hai-phut-5072068.html",
+      "summary": "Công ty Figure AI công bố video quá trình hai robot Figure 03 phối hợp dọn dẹp phòng ngủ mà không cần con người trợ giúp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-10T05:00:00+07:00",
+      "fetched": "2026-05-10T12:36:15.533960+07:00"
+    },
+    {
+      "id": "bc8c136146a677985a63bd5d98162759",
+      "title": "Nhếch nhác điểm chờ xe buýt ở TP.HCM: Chỗ bị chiếm dụng, nơi thành bãi rác",
+      "link": "https://thanhnien.vn/nhech-nhac-diem-cho-xe-buyt-o-tphcm-cho-bi-chiem-dung-noi-thanh-bai-rac-18526050917203554.htm",
+      "summary": "Hàng loạt điểm chờ xe buýt ở TP.HCM bị chiếm dụng làm nơi buôn bán, bãi giữ xe, điểm tập kết rác, gây mất mỹ quan đô thị và khiến người dân khó tiếp cận phương tiện giao thông công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:59:00+07:00",
+      "fetched": "2026-05-10T12:36:07.776003+07:00"
+    },
+    {
+      "id": "e2e965d7a0dc9c16de0252d0baff7a63",
+      "title": "7 người mắc kẹt trong thang máy thẩm mỹ viện ở TP HCM",
+      "link": "https://vnexpress.net/7-nguoi-mac-ket-trong-thang-may-tham-my-vien-o-tp-hcm-5072115.html",
+      "summary": "4 khách cùng ba nhân viên thẩm mỹ viện khi đi thang máy tại toà nhà 5 tầng bất ngờ bị cúp điện, kẹt hơn 30 phút trước khi được cảnh sát hỗ trợ đưa ra ngoài, sáng 10/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:58:07+07:00",
+      "fetched": "2026-05-10T12:36:04.153425+07:00"
+    },
+    {
+      "id": "99126466b8ef32c50ed10f38b90b6702",
+      "title": "Nhận diện các đối thủ của đội tuyển Việt Nam tại Asian Cup 2027",
+      "link": "https://thanhnien.vn/nhan-dien-cac-doi-thu-cua-doi-tuyen-viet-nam-tai-asian-cup-2027-185260510114914339.htm",
+      "summary": "Lá thăm đưa đội tuyển Việt Nam vào bảng E cùng Hàn Quốc, UAE và đội thắng trong cặp đấu giữa Yemen với Li Băng tại Asian Cup 2027. Đây được đánh giá là bảng đấu dễ thở hơn những kỳ Asian Cup gần đây, mở ra hy vọng cạnh tranh vé đi tiếp cho thầy trò HLV Kim Sang-sik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:49:00+07:00",
+      "fetched": "2026-05-10T12:36:07.776131+07:00"
+    },
+    {
+      "id": "490c84aa36934c8eb7834ab204ae90e8",
+      "title": "Một nữ sinh lớp 7 bị đánh hội đồng tại Quảng Trị",
+      "link": "https://thanhnien.vn/mot-nu-sinh-lop-7-bi-danh-hoi-dong-tai-quang-tri-185260510111046097.htm",
+      "summary": "Lực lượng chức năng tỉnh Quảng Trị đang làm rõ, xác minh vụ việc một nữ sinh lớp 7 bị đánh hội đồng xảy ra trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:45:00+07:00",
+      "fetched": "2026-05-10T12:36:07.776247+07:00"
+    },
+    {
+      "id": "7629b09d974382d7bc3036a609ecf05d",
+      "title": "Vì sao kết phim ‘Bóng ma hạnh phúc’ gây tranh cãi?",
+      "link": "https://thanhnien.vn/vi-sao-ket-phim-bong-ma-hanh-phuc-gay-tranh-cai-185260510084113788.htm",
+      "summary": "Phim 'Bóng ma hạnh phúc' kết thúc tối qua, gây không ít tranh cãi khi lựa chọn cái kết có phần 'nhẹ tay' sau hàng loạt bi kịch và drama suốt 50 tập phim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:44:00+07:00",
+      "fetched": "2026-05-10T12:36:07.776367+07:00"
+    },
+    {
+      "id": "a60eff321c1b38a9a2089ae7c1fbf9c2",
+      "title": "Quy tắc 60-60 khi sử dụng tai nghe là gì?",
+      "link": "https://thanhnien.vn/quy-tac-60-60-khi-su-dung-tai-nghe-la-gi-185260510100636002.htm",
+      "summary": "Tai nghe không trực tiếp gây hại, nhưng âm lượng lớn và thời gian sử dụng kéo dài có thể làm tổn thương thính giác lâu dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:41:00+07:00",
+      "fetched": "2026-05-10T12:36:07.776489+07:00"
+    },
+    {
+      "id": "bee9cc645d7f88268436f9788e493d7d",
+      "title": "HLV Kim Sang-sik tin có thể đạt kết quả tốt trước Hàn Quốc",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-tin-co-the-dat-ket-qua-tot-truoc-han-quoc-5072110.html",
+      "summary": "HLV Kim Sang-sik đánh giá cao các đối thủ ở bảng E Asian Cup 2027, nhưng tin rằng Việt Nam có thể tiến xa nếu chuẩn bị tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:40:26+07:00",
+      "fetched": "2026-05-10T12:36:04.153547+07:00"
+    },
+    {
+      "id": "bee9cc645d7f88268436f9788e493d7d",
+      "title": "HLV Kim Sang-sik tin có thể đạt kết quả tốt trước Hàn Quốc",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-tin-co-the-dat-ket-qua-tot-truoc-han-quoc-5072110.html",
+      "summary": "HLV Kim Sang-sik đánh giá cao các đối thủ ở bảng E Asian Cup 2027, nhưng tin rằng Việt Nam có thể tiến xa nếu chuẩn bị tốt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-10T04:40:26+07:00",
+      "fetched": "2026-05-10T12:36:17.247831+07:00"
+    },
+    {
+      "id": "bc3d911df515c79842129acb6bc2f03c",
+      "title": "Nổ du thuyền ở Mỹ, nhiều du khách bị hất văng xuống biển",
+      "link": "https://vnexpress.net/no-du-thuyen-o-my-nhieu-du-khach-bi-hat-vang-xuong-bien-5072099.html",
+      "summary": "Du thuyền chở khách tham quan phát nổ tại điểm du lịch Haulover Sandbar khiến nhiều người bị hất văng xuống biển, trong đó một người lớn và trẻ em bị bỏng nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:39:41+07:00",
+      "fetched": "2026-05-10T12:36:04.153667+07:00"
+    },
+    {
+      "id": "b6bc1cc6daf46ab79c11f951d9bfabd8",
+      "title": "Lê Xuân Tiền nói về Ngọc Trinh, nhắc chuyện tái hợp Ninh Dương Lan Ngọc",
+      "link": "https://thanhnien.vn/le-xuan-tien-noi-ve-ngoc-trinh-nhac-chuyen-tai-hop-ninh-duong-lan-ngoc-185260510082058882.htm",
+      "summary": "Sau thời gian vắng bóng trên màn ảnh, Lê Xuân Tiền trở lại với phim điện ảnh 'Thẩm mỹ viện âm phủ', đồng thời chia sẻ về bạn diễn Ngọc Trinh, hành trình làm nghề và quan điểm tình cảm ở tuổi 30.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:38:00+07:00",
+      "fetched": "2026-05-10T12:36:07.776615+07:00"
+    },
+    {
+      "id": "59e977207e61fa2515fed5cb6b13fed0",
+      "title": "Vị giáo sư đứng sau nền tảng toán học của hàng triệu kỹ sư AI",
+      "link": "https://vnexpress.net/vi-giao-su-dung-sau-nen-tang-toan-hoc-cua-hang-trieu-ky-su-ai-5069214.html",
+      "summary": "Trong hơn 60 năm, Giáo sư Gilbert Strang đã biến lớp học đại số tuyến tính tại MIT thành bệ phóng cho hàng triệu người theo đuổi trí tuệ nhân tạo trên toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:35:00+07:00",
+      "fetched": "2026-05-10T12:36:04.153830+07:00"
+    },
+    {
+      "id": "252a62bf89a1362d1eaad2085038af52",
+      "title": "Diễn viên Thùy Anh từng bị chê ác, 'đóng phim nào phim đó flop'",
+      "link": "https://thanhnien.vn/dien-vien-thuy-anh-tung-bi-che-ac-dong-phim-nao-phim-do-flop-185260510002714609.htm",
+      "summary": "Trước khi gây chú ý bởi vai diễn trong 'Vì mẹ anh phán chia tay', Thùy Anh từng trải qua quãng thời gian đối diện với những bình luận tiêu cực khi theo nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:33:00+07:00",
+      "fetched": "2026-05-10T12:36:07.776754+07:00"
+    },
+    {
+      "id": "d5bf910410ce098508cf28a62d3d41fc",
+      "title": "'Mỹ nhân đẹp nhất Philippines' cuốn hút với họa tiết hoa",
+      "link": "https://vnexpress.net/my-nhan-dep-nhat-philippines-cuon-hut-voi-hoa-tiet-hoa-5072093.html",
+      "summary": "\"Mỹ nhân đẹp nhất Philippines\" Marian Rivera được khán giả khen tỏa sáng khi diện loạt váy áo họa tiết hoa lá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:16:07+07:00",
+      "fetched": "2026-05-10T12:36:04.153959+07:00"
+    },
+    {
+      "id": "d59b9ac0f9badc2eb70b90e4ef7a96a1",
+      "title": "Ôtô đâm bay người đi xe máy tại vòng xuyến - ai sai?",
+      "link": "https://vnexpress.net/oto-dam-bay-nguoi-di-xe-may-tai-vong-xuyen-ai-sai-5072052.html",
+      "summary": "Lao thẳng về phía trạm thu phí, chiếc xe con đâm ngã người đi xe máy tại nút giao Liêm Tuyền, hôm 8/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:10:06+07:00",
+      "fetched": "2026-05-10T12:36:04.154087+07:00"
+    },
+    {
+      "id": "b986945d3867864b1d68941a2765b3bc",
+      "title": "Tôi chưa dám chia tay bạn trai nhiều tật xấu vì sợ cô đơn",
+      "link": "https://vnexpress.net/toi-chua-dam-chia-tay-ban-trai-nhieu-tat-xau-vi-so-co-don-5071703.html",
+      "summary": "Tôi phát hiện bạn ấy \"bắt cá hai tay\", đã có bạn gái một năm trước khi quen tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:00:00+07:00",
+      "fetched": "2026-05-10T12:36:04.154212+07:00"
+    },
+    {
+      "id": "1ffa2d3582db180216f39f1e6100468a",
+      "title": "eSports Việt cần thêm lực đẩy để chuyển tiềm năng thành giá trị",
+      "link": "https://vnexpress.net/esports-viet-can-them-luc-day-de-chuyen-tiem-nang-thanh-gia-tri-5072023.html",
+      "summary": "Những tiềm năng, thách thức và bài toán thương mại hóa của eSports Việt Nam được các chuyên gia, doanh nghiệp và đơn vị vận hành phân tích tại Vietnam GameVerse 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:00:00+07:00",
+      "fetched": "2026-05-10T12:36:04.154333+07:00"
+    },
+    {
+      "id": "9a4a4157f056a227a81a6fa81718168f",
+      "title": "5 gia vị giúp chống viêm có lợi cho người tiểu đường",
+      "link": "https://vnexpress.net/5-gia-vi-giup-chong-viem-co-loi-cho-nguoi-tieu-duong-5071929.html",
+      "summary": "Tiêu đen, nghệ hoặc gừng, giàu các chất oxy hóa như polyphenol hỗ trợ giảm viêm, giúp duy trì lượng đường trong máu ổn định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:00:00+07:00",
+      "fetched": "2026-05-10T12:36:04.154448+07:00"
+    },
+    {
+      "id": "58bbb3cffd71f327b1543aba53e59c61",
+      "title": "8 cách giảm mỡ máu tự nhiên",
+      "link": "https://vnexpress.net/8-cach-giam-mo-mau-tu-nhien-5071906.html",
+      "summary": "Bên cạnh tuân thủ điều trị theo chỉ định của bác sĩ, người bệnh có thể giảm mỡ máu tự nhiên bằng chế độ ăn lành mạnh, không hút thuốc lá, ngủ đủ giấc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:00:00+07:00",
+      "fetched": "2026-05-10T12:36:04.154575+07:00"
+    },
+    {
+      "id": "1ffa2d3582db180216f39f1e6100468a",
+      "title": "eSports Việt cần thêm lực đẩy để chuyển tiềm năng thành giá trị",
+      "link": "https://vnexpress.net/esports-viet-can-them-luc-day-de-chuyen-tiem-nang-thanh-gia-tri-5072023.html",
+      "summary": "Những tiềm năng, thách thức và bài toán thương mại hóa của eSports Việt Nam được các chuyên gia, doanh nghiệp và đơn vị vận hành phân tích tại Vietnam GameVerse 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-10T04:00:00+07:00",
+      "fetched": "2026-05-10T12:36:17.249502+07:00"
+    },
+    {
+      "id": "aa3ed0216747d0ce5f7228aa7f3ba51d",
+      "title": "Mạng lưới lan truyền tin đồn ở Trung Quốc thời xưa",
+      "link": "https://vnexpress.net/mang-luoi-lan-truyen-tin-don-o-trung-quoc-thoi-xua-5071200.html",
+      "summary": "Trước khi có báo chí và công nghệ in ấn, bê bối về cung đình hay quan lại được lan truyền qua quán trà, trạm dừng chân và \"tờ tin bát quát\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-10T03:49:12+07:00",
+      "fetched": "2026-05-10T12:36:10.829959+07:00"
+    },
+    {
+      "id": "6edc728ebcbd906a20d41796f6390acb",
+      "title": "HLV Thái Lan: 'Thật tuyệt khi vào bảng khó ở Asian Cup 2027'",
+      "link": "https://vnexpress.net/hlv-thai-lan-that-tuyet-khi-vao-bang-kho-o-asian-cup-2027-5072095.html",
+      "summary": "Theo HLV Anthony Hudson, việc được gặp những đối thủ mạnh như Nhật Bản, Qatar và Indonesia ở vòng bảng Asian Cup 2027 là cơ hội để Thái Lan tiến bộ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-10T03:36:40+07:00",
+      "fetched": "2026-05-10T12:36:17.247986+07:00"
+    },
+    {
       "id": "f99e1f78fc755a12e07cb5cb00c5876d",
       "title": "Việt Nam cùng bảng với Hàn Quốc, UAE tại Asian Cup 2027",
       "link": "https://tuoitre.vn/viet-nam-cung-bang-voi-han-quoc-uae-tai-asian-cup-2027-20260509102614143.htm",
@@ -161,6 +661,56 @@ window.newsData_2026_05_10 = {
       "category": "Tổng hợp",
       "published": "2026-05-10T03:34:55.654255+07:00",
       "fetched": "2026-05-10T03:34:55.654353+07:00"
+    },
+    {
+      "id": "67555af40c1e21ec80fb9995f1702728",
+      "title": "Mỹ có thể đã dùng 'bom trơ' tấn công tàu dầu Iran",
+      "link": "https://vnexpress.net/my-co-the-da-dung-bom-tro-tan-cong-tau-dau-iran-5072060.html",
+      "summary": "Hai tàu dầu Iran không phát nổ hoặc chìm sau khi bị tiêm kích Mỹ tập kích, có thể do Washington đã dùng \"bom trơ\" được dẫn đường nhắm chính xác vào ống khói.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-10T03:23:30+07:00",
+      "fetched": "2026-05-10T12:36:10.830114+07:00"
+    },
+    {
+      "id": "200ef104f74529a50e5ba53e91c987ef",
+      "title": "Em trai ông Đào Hữu Huyền làm chủ tịch Hóa chất Đức Giang",
+      "link": "https://vnexpress.net/em-trai-ong-dao-huu-huyen-lam-chu-tich-hoa-chat-duc-giang-5072082.html",
+      "summary": "Hóa chất Đức Giang bầu ông Đào Hữu Kha, em trai cựu Chủ tịch Đào Hữu Huyền, giữ chức Chủ tịch trong thời gian còn lại của nhiệm kỳ 2024-2029.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-10T02:57:39+07:00",
+      "fetched": "2026-05-10T12:36:12.632904+07:00"
+    },
+    {
+      "id": "999f02d71be19c1ba9ed050e00bbcb13",
+      "title": "UAE tìm cách vạch lằn ranh bạn - thù với Iran",
+      "link": "https://vnexpress.net/uae-tim-cach-vach-lan-ranh-ban-thu-voi-iran-5071776.html",
+      "summary": "Đối mặt với lời đe dọa và các đòn tấn công từ Iran, UAE không chọn cách xoa dịu mà chọn thắt chặt quan hệ với Mỹ, Israel để vạch rõ lằn ranh \"bạn - thù\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-10T02:23:41+07:00",
+      "fetched": "2026-05-10T12:36:10.830249+07:00"
+    },
+    {
+      "id": "a4488380c665585eaac0c8cef7d5702a",
+      "title": "Kane hỏng phạt đền vì chiêu trò của đối thủ ở Bundesliga",
+      "link": "https://vnexpress.net/kane-hong-phat-den-vi-chieu-tro-cua-doi-thu-o-bundesliga-5072057.html",
+      "summary": "Cầu thủ Wolfsburg bị phát hiện giẫm lên chấm 11 mét, trước khi Harry Kane lần đầu đá hỏng phạt đền tại Bundesliga, làm dấy lên tranh cãi về hành vi phi thể thao.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-10T02:06:32+07:00",
+      "fetched": "2026-05-10T12:36:17.248122+07:00"
+    },
+    {
+      "id": "4a325fe8ed122a70ff7543b87537b02e",
+      "title": "Câu chuyện xúc động trong những lá thư dự thi UPU",
+      "link": "https://vnexpress.net/cau-chuyen-xuc-dong-trong-nhung-la-thu-du-thi-upu-5071947.html",
+      "summary": "Robot biết đồng cảm, mèo máy Doraemon đến dự án “Ăn mày laptop”... là những câu chuyện về tình người thời đại số xuất hiện trong các bức thư dự thi UPU.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-10T02:00:00+07:00",
+      "fetched": "2026-05-10T12:36:15.534118+07:00"
     },
     {
       "id": "7f0b04ad7b23ced1ca0b3aef148879a1",
