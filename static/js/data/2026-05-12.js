@@ -1,6 +1,6 @@
 window.newsData_2026_05_12 = {
   "date": "2026-05-12",
-  "lastUpdated": "2026-05-12T04:10:41.632978+07:00",
+  "lastUpdated": "2026-05-12T05:44:56.284961+07:00",
   "articles": [
     {
       "id": "290fcae4ed260353068ba067b14eeab3",
@@ -161,6 +161,236 @@ window.newsData_2026_05_12 = {
       "category": "Tổng hợp",
       "published": "2026-05-12T00:49:01.681023+07:00",
       "fetched": "2026-05-12T00:49:01.681246+07:00"
+    },
+    {
+      "id": "30f874ba2f831e656af8d8e8948c3336",
+      "title": "Thêm ca mới nhiễm vi rút Hanta từ tàu du lịch",
+      "link": "https://thanhnien.vn/them-ca-moi-nhiem-vi-rut-hanta-tu-tau-du-lich-185260511223214482.htm",
+      "summary": "Trong quá trình sơ tán công dân khỏi tàu du lịch MV Hondius (Hà Lan) có ổ dịch vi rút Hanta từ quần đảo Canary (Tây Ban Nha), Pháp và Mỹ hôm qua lần lượt thông báo phát hiện ca nhiễm mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:44:00+07:00",
+      "fetched": "2026-05-12T05:44:50.533332+07:00"
+    },
+    {
+      "id": "afa2b68380580f83a79c307a7d37b135",
+      "title": "Triệt xóa nạn xâm phạm bản quyền trên mạng: Nơi khắc phục, nơi buông lỏng",
+      "link": "https://thanhnien.vn/triet-xoa-nan-xam-pham-ban-quyen-tren-mang-noi-khac-phuc-noi-buong-long-185260511182238837.htm",
+      "summary": "Thanh Niên ngày 8.5 đăng bài Triệt xóa nạn xâm phạm bản quyền trên mạng, phản ánh hành vi xâm phạm quyền sở hữu trí tuệ (SHTT) đang tồn tại khá nhiều trên không gian mạng, nhất là các diễn đàn có lượng truy cập lớn, nên cần sớm bị xóa bỏ triệt để.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:41:00+07:00",
+      "fetched": "2026-05-12T05:44:50.533503+07:00"
+    },
+    {
+      "id": "a9290034ff5e1b872eb648775f852a40",
+      "title": "TP.HCM gỡ vướng mặt bằng dự án trọng điểm",
+      "link": "https://thanhnien.vn/tphcm-go-vuong-mat-bang-du-an-trong-diem-185260511181312558.htm",
+      "summary": "Bồi thường giải phóng mặt bằng được xem là một trong các yếu tố quan trọng nhất, quyết định mục tiêu giải ngân toàn bộ vốn đầu tư công năm 2026 của TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:37:00+07:00",
+      "fetched": "2026-05-12T05:44:50.533660+07:00"
+    },
+    {
+      "id": "f6ff3a7d28e9fe1d3a6b200469ca11c6",
+      "title": "Thực sự là tiếng nói của nhân dân",
+      "link": "https://thanhnien.vn/thuc-su-la-tieng-noi-cua-nhan-dan-185260511231830677.htm",
+      "summary": "Sáng nay 12.5, Đại hội đại biểu toàn quốc Mặt trận Tổ quốc VN lần thứ XI, nhiệm kỳ 2026 - 2031 chính thức khai mạc tại thủ đô Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:35:00+07:00",
+      "fetched": "2026-05-12T05:44:50.533810+07:00"
+    },
+    {
+      "id": "ca7fa5d8abe77f4282f040d0cf47e496",
+      "title": "Lãi suất tiết kiệm ngân hàng nào cao nhất?",
+      "link": "https://vnexpress.net/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-5072646.html",
+      "summary": "Lãi suất tiết kiệm hạ nhiệt sau chỉ đạo của Thống đốc song mặt bằng chung vẫn ở mức hấp dẫn, một số nhà băng như HDBank, OCB, NCB trả 8-9% một năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-11T22:33:34+07:00",
+      "fetched": "2026-05-12T05:44:53.366660+07:00"
+    },
+    {
+      "id": "a4a9fcffbe5baf159bdd8f5dc5d3c0f2",
+      "title": "Bạo lực băng nhóm gia tăng ở vùng núi Mexico",
+      "link": "https://thanhnien.vn/bao-luc-bang-nhom-gia-tang-o-vung-nui-mexico-185260511221052385.htm",
+      "summary": "Tình trạng bạo lực gia tăng do một băng nhóm tội phạm đầy quyền lực gây ra ở vùng núi thuộc miền trung Mexico đã buộc hàng ngàn người phải rời bỏ nhà cửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:33:00+07:00",
+      "fetched": "2026-05-12T05:44:50.533987+07:00"
+    },
+    {
+      "id": "6f27e365e6cc300b756fefe3014d65df",
+      "title": "Nghịch lý hàng ngàn mặt bằng đất công bỏ hoang ở TP.HCM",
+      "link": "https://thanhnien.vn/nghich-ly-hang-ngan-mat-bang-dat-cong-bo-hoang-o-tphcm-185260511172122894.htm",
+      "summary": "Hàng ngàn mặt bằng đất công bị bỏ trống kéo dài không chỉ gây thất thu lớn cho ngân sách mà còn ảnh hưởng đến diện mạo, mỹ quan đô thị, khiến dư luận bức xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:31:00+07:00",
+      "fetched": "2026-05-12T05:44:50.534140+07:00"
+    },
+    {
+      "id": "eea9493c889f4bee2ddb44bdb38aaac8",
+      "title": "Tiêu điểm quốc tế ngày 12.5: Ông Trump căng thẳng với Iran | Thêm dịch virus trên du thuyền",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-125-ong-trump-cang-thang-voi-iran-them-dich-virus-tren-du-thuyen-185260511233300371.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 12.5.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:30:00+07:00",
+      "fetched": "2026-05-12T05:44:50.534303+07:00"
+    },
+    {
+      "id": "29f93fd60061eec2a3489e458db1dbc8",
+      "title": "Con tê tê tên 'Trường' và ca phẫu thuật tháo khớp ở Vườn quốc gia Cát Tiên",
+      "link": "https://thanhnien.vn/con-te-te-ten-truong-va-ca-phau-thuat-thao-khop-o-vuon-quoc-gia-cat-tien-185260511163058797.htm",
+      "summary": "Con tê tê Java được đưa về Vườn quốc gia Cát Tiên trong tình trạng chân trước hoại tử nặng. Các bác sĩ thú y đã phải thực hiện ca phẫu thuật để cứu sống con vật thuộc loài cực kỳ nguy cấp này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:30:00+07:00",
+      "fetched": "2026-05-12T05:44:50.534454+07:00"
+    },
+    {
+      "id": "36c5c80e8f77f6815ff8ed1067daea50",
+      "title": "Mỹ - Iran bất đồng quan điểm",
+      "link": "https://thanhnien.vn/my-iran-bat-dong-quan-diem-18526051121461745.htm",
+      "summary": "Sau khi Iran phản hồi đề xuất hòa bình của Mỹ vào tối 10.5, Tổng thống Mỹ Donald Trump sáng qua (11.5, theo giờ VN) tuyên bố rằng những điều kiện của Tehran là \"hoàn toàn không thể chấp nhận\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:18:00+07:00",
+      "fetched": "2026-05-12T05:44:50.534603+07:00"
+    },
+    {
+      "id": "a69cde9701c9742057b3c8b996038915",
+      "title": "Thịt bẩn tung hoành qua lỗ hổng kiểm dịch: Thâm nhập lò mổ 'chui'",
+      "link": "https://thanhnien.vn/thit-ban-tung-hoanh-qua-lo-hong-kiem-dich-tham-nhap-lo-mo-chui-185260511195833282.htm",
+      "summary": "Những lò mổ trâu, bò '3 không' (không giấy phép giết mổ, không kiểm dịch, không đảm bảo điều kiện vệ sinh thú y) đang tồn tại ở các xã thuộc tỉnh Phú Thọ, mỗi đêm đưa lượng thịt lớn về Hà Nội tiêu thụ; nhưng từ nơi xuất phát đến nơi bán hàng không có cơ quan nào kiểm tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:17:00+07:00",
+      "fetched": "2026-05-12T05:44:50.534752+07:00"
+    },
+    {
+      "id": "9b8ecfa433c31914d2e3c05282368e64",
+      "title": "Tử vi ngày 12 tháng 5: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-12-thang-5-con-giap-nao-may-man-hom-nay-185260511224415724.htm",
+      "summary": "Tử vi ngày 12 tháng 5 mang đến những gợi ý tham khảo cho 12. Điểm nổi bật là khởi động lại tinh thần, không phải ai cũng bắt đầu tuần mới với năng lượng cao, nhưng nếu biết tự tạo động lực đúng cách, bạn sẽ lấy lại nhịp nhanh hơn. Tài lộc không phụ thuộc vào tốc độ, mà nằm ở việc bạn có giữ được sự ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:15:00+07:00",
+      "fetched": "2026-05-12T05:44:50.534927+07:00"
+    },
+    {
+      "id": "9be756557ca607666e1bfd40ad8d7a79",
+      "title": "Đồng Tháp nghiên cứu dời trung tâm hành chính về Cái Bè - Cai Lậy",
+      "link": "https://thanhnien.vn/dong-thap-nghien-cuu-doi-trung-tam-hanh-chinh-ve-cai-be-cai-lay-185260511202513513.htm",
+      "summary": "Sau sáp nhập, tỉnh Đồng Tháp (mới) định hướng nghiên cứu chuyển trung tâm hành chính về khu vực Cái Bè - Cai Lậy sau năm 2030 nhằm mở rộng không gian phát triển, tăng cường kết nối với TP.HCM và vùng Đông Nam bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:13:00+07:00",
+      "fetched": "2026-05-12T05:44:50.535101+07:00"
+    },
+    {
+      "id": "82ba649403a92251c3b4d14613c53e4c",
+      "title": "Quảng Ngãi: Đàn sếu cổ đen quý hiếm bất ngờ xuất hiện tại đầm La Băng",
+      "link": "https://thanhnien.vn/quang-ngai-dan-seu-co-den-quy-hiem-bat-ngo-xuat-hien-tai-dam-la-bang-185260511194804975.htm",
+      "summary": "Hàng trăm cá thể sếu cổ đen, loài chim quý hiếm nằm trong Sách đỏ Việt Nam và thế giới, bất ngờ xuất hiện tại hồ La Băng (Quảng Ngãi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:08:00+07:00",
+      "fetched": "2026-05-12T05:44:50.535256+07:00"
+    },
+    {
+      "id": "27afe4e4786a043f313c18ccfea58e72",
+      "title": "Chiến sự Iran có thể phủ bóng thượng đỉnh Mỹ - Trung",
+      "link": "https://vnexpress.net/chien-su-iran-co-the-phu-bong-thuong-dinh-my-trung-5072439.html",
+      "summary": "Chiến sự Iran sẽ là vấn đề nổi cộm khi lãnh đạo Mỹ - Trung gặp thượng đỉnh, khi cuộc xung đột tạo ra nhiều hệ lụy cho thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:00:00+07:00",
+      "fetched": "2026-05-12T05:44:48.028353+07:00"
+    },
+    {
+      "id": "7e6f1f4d5c20479113a252dba4708524",
+      "title": "Màn đấu võ của hai robot hình người gây sốt",
+      "link": "https://vnexpress.net/man-dau-vo-cua-hai-robot-hinh-nguoi-gay-sot-5072422.html",
+      "summary": "Robot hình người của Unitree và Engine AI đấu tay đôi trong một cửa hàng ở Mỹ và thu hút sự chú ý trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:00:00+07:00",
+      "fetched": "2026-05-12T05:44:48.028528+07:00"
+    },
+    {
+      "id": "9983f8f3e22fec867c65bdaad817ce75",
+      "title": "Bé gái ung thư và cuộc chiến vẫn gian nan sau ghép tế bào gốc",
+      "link": "https://vnexpress.net/be-gai-ung-thu-va-cuoc-chien-van-gian-nan-sau-ghep-te-bao-goc-5061665.html",
+      "summary": "Khánh An 6 tuổi, ung thư nguyên bào thần kinh, được chương trình Mặt trời Hy vọng (Quỹ Hy vọng - VnExpress) hỗ trợ 100 triệu đồng ghép tế bào gốc song hành trình sau ghép không hề bằng phẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:00:00+07:00",
+      "fetched": "2026-05-12T05:44:48.028689+07:00"
+    },
+    {
+      "id": "706f9e7679e49f7dd01c64f4d0696134",
+      "title": "Lý do Ford Việt Nam thay động cơ diesel bi-turbo bằng turbo đơn",
+      "link": "https://vnexpress.net/ly-do-ford-viet-nam-thay-dong-co-diesel-bi-turbo-bang-turbo-don-5072614.html",
+      "summary": "Ford cho biết máy dầu turbo đơn giúp tối ưu độ bền, đơn giản vận hành và không còn cần bổ sung dung dịch xử lý khí thải AdBlue.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:00:00+07:00",
+      "fetched": "2026-05-12T05:44:48.028844+07:00"
+    },
+    {
+      "id": "68cfdfe0945e55757bfeb539b56b202a",
+      "title": "Từ 'kết bạn nhầm' đến quy trình 'đánh khách 7 ngày' của nhóm lừa đảo",
+      "link": "https://thanhnien.vn/tu-ket-ban-nham-den-quy-trinh-danh-khach-7-ngay-cua-nhom-lua-dao-185260511200715352.htm",
+      "summary": "Từ một lời mời “kết bạn nhầm” tưởng chừng vô hại trên mạng xã hội, nhiều nạn nhân đã rơi vào chiếc bẫy tình cảm được dựng sẵn bởi các đường dây lừa đảo xuyên quốc gia. Với kịch bản “đánh khách 7 ngày” được phân vai bài bản, các đối tượng từng bước tạo lòng tin, dẫn dụ đầu tư vào sàn tài chính ảo rồi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:00:00+07:00",
+      "fetched": "2026-05-12T05:44:50.535404+07:00"
+    },
+    {
+      "id": "88a4933b164314b6b0d7a56e260fdb30",
+      "title": "Lịch âm hôm nay 12.5: Nhiều người chọn khởi sự vì quan niệm ngày đẹp",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-125-nhieu-nguoi-chon-khoi-su-vi-quan-niem-ngay-dep-185260511141034221.htm",
+      "summary": "Theo lịch vạn niên, lịch âm hôm nay 12.5 là ngày Bạch Hổ Đầu. Dân gian quan niệm đây là ngày đẹp, thích hợp để xuất hành và khởi sự công việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T22:00:00+07:00",
+      "fetched": "2026-05-12T05:44:50.535552+07:00"
+    },
+    {
+      "id": "27afe4e4786a043f313c18ccfea58e72",
+      "title": "Chiến sự Iran có thể phủ bóng thượng đỉnh Mỹ - Trung",
+      "link": "https://vnexpress.net/chien-su-iran-co-the-phu-bong-thuong-dinh-my-trung-5072439.html",
+      "summary": "Chiến sự Iran sẽ là vấn đề nổi cộm khi lãnh đạo Mỹ - Trung gặp thượng đỉnh, khi cuộc xung đột tạo ra nhiều hệ lụy cho thế giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-11T22:00:00+07:00",
+      "fetched": "2026-05-12T05:44:52.281656+07:00"
+    },
+    {
+      "id": "7e6f1f4d5c20479113a252dba4708524",
+      "title": "Màn đấu võ của hai robot hình người gây sốt",
+      "link": "https://vnexpress.net/man-dau-vo-cua-hai-robot-hinh-nguoi-gay-sot-5072422.html",
+      "summary": "Robot hình người của Unitree và Engine AI đấu tay đôi trong một cửa hàng ở Mỹ và thu hút sự chú ý trên mạng xã hội.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-11T22:00:00+07:00",
+      "fetched": "2026-05-12T05:44:55.022208+07:00"
+    },
+    {
+      "id": "7e2e0c123fa70d500d88a6b1e0ae7fe2",
+      "title": "Bé gái 5 tuổi bị chó becgie cắn rách đầu 25 cm",
+      "link": "https://vnexpress.net/be-gai-5-tuoi-bi-cho-becgie-can-rach-dau-25-cm-5072768.html",
+      "summary": "Bị chó becgie tấn công vùng đầu, lộ xương sọ, bé gái 5 tuổi được bác sĩ kịp thời cầm máu, khâu vết thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T21:40:33+07:00",
+      "fetched": "2026-05-12T05:44:48.029030+07:00"
     },
     {
       "id": "af45a675ff7850da7af7e2eaf65811f7",
