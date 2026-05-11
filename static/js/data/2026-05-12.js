@@ -1,6 +1,6 @@
 window.newsData_2026_05_12 = {
   "date": "2026-05-12",
-  "lastUpdated": "2026-05-12T00:49:09.292495+07:00",
+  "lastUpdated": "2026-05-12T02:27:18.890633+07:00",
   "articles": [
     {
       "id": "0b51d76835f733ae4e23a7ee9897eb12",
@@ -151,6 +151,66 @@ window.newsData_2026_05_12 = {
       "category": "Tổng hợp",
       "published": "2026-05-12T00:49:01.681023+07:00",
       "fetched": "2026-05-12T00:49:01.681246+07:00"
+    },
+    {
+      "id": "ea9a6505d5ca16000b9c8f956eaee2ac",
+      "title": "Lý do khiến thận 'xuống cấp' sau tuổi 40",
+      "link": "https://vnexpress.net/ly-do-khien-than-xuong-cap-sau-tuoi-40-5072612.html",
+      "summary": "Sau tuổi 40, một số bệnh lý nền cùng thói quen ăn mặn, nạp nhiều thực phẩm chế biến sẵn, protein có thể âm thầm làm tăng gánh nặng cho thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T19:00:00+07:00",
+      "fetched": "2026-05-12T02:27:04.798421+07:00"
+    },
+    {
+      "id": "b5c8f1ed9ca3080aaed65e93acc1ce71",
+      "title": "Giây phút cảnh sát Mỹ thuyết phục người phụ nữ từ bỏ ý định nhảy lầu",
+      "link": "https://vnexpress.net/giay-phut-canh-sat-my-thuyet-phuc-nguoi-phu-nu-tu-bo-y-dinh-nhay-lau-5072531.html",
+      "summary": "Camera gắn thân ghi lại phút nghẹt thở khi cảnh sát tiếp cận, thuyết phục một phụ nữ đang suy sụp, ngồi chênh vênh trên mép nhà chọc trời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T19:00:00+07:00",
+      "fetched": "2026-05-12T02:27:04.798585+07:00"
+    },
+    {
+      "id": "b5c8f1ed9ca3080aaed65e93acc1ce71",
+      "title": "Giây phút cảnh sát Mỹ thuyết phục người phụ nữ từ bỏ ý định nhảy lầu",
+      "link": "https://vnexpress.net/giay-phut-canh-sat-my-thuyet-phuc-nguoi-phu-nu-tu-bo-y-dinh-nhay-lau-5072531.html",
+      "summary": "Camera gắn thân ghi lại phút nghẹt thở khi cảnh sát tiếp cận, thuyết phục một phụ nữ đang suy sụp, ngồi chênh vênh trên mép nhà chọc trời.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-11T19:00:00+07:00",
+      "fetched": "2026-05-12T02:27:11.426165+07:00"
+    },
+    {
+      "id": "b9aa30d3e7c8c3319820269253274e3d",
+      "title": "Quân đội Trung Quốc có thể học được gì từ xung đột Trung Đông",
+      "link": "https://vnexpress.net/quan-doi-trung-quoc-co-the-hoc-duoc-gi-tu-xung-dot-trung-dong-5072404.html",
+      "summary": "Chiến sự Trung Đông cho thấy Trung Quốc cần chú trọng năng lực phòng thủ, nhất là chống UAV, cũng như tích lũy kinh nghiệm thực chiến, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T18:00:00+07:00",
+      "fetched": "2026-05-12T02:27:04.798726+07:00"
+    },
+    {
+      "id": "7ecb75371b99dc871374b61b9ff6b2e0",
+      "title": "Mẹo ngủ ngon cho người bệnh tiểu đường type 2",
+      "link": "https://vnexpress.net/meo-ngu-ngon-cho-nguoi-benh-tieu-duong-type-2-5071459.html",
+      "summary": "Ngoài chế độ ăn phù hợp để kiểm soát đường huyết, người bệnh tiểu đường nên tránh caffein trước giờ ngủ, vận động nhẹ để thư giãn và đi ngủ vào giờ cố định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T18:00:00+07:00",
+      "fetched": "2026-05-12T02:27:04.798861+07:00"
+    },
+    {
+      "id": "b9aa30d3e7c8c3319820269253274e3d",
+      "title": "Quân đội Trung Quốc có thể học được gì từ xung đột Trung Đông",
+      "link": "https://vnexpress.net/quan-doi-trung-quoc-co-the-hoc-duoc-gi-tu-xung-dot-trung-dong-5072404.html",
+      "summary": "Chiến sự Trung Đông cho thấy Trung Quốc cần chú trọng năng lực phòng thủ, nhất là chống UAV, cũng như tích lũy kinh nghiệm thực chiến, theo chuyên gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-11T18:00:00+07:00",
+      "fetched": "2026-05-12T02:27:11.426322+07:00"
     },
     {
       "id": "9a5a52364cb24b5f7adb25d8e3812b0b",
