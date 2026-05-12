@@ -1,6 +1,6 @@
 window.newsData_2026_05_13 = {
   "date": "2026-05-13",
-  "lastUpdated": "2026-05-13T02:27:49.868436+07:00",
+  "lastUpdated": "2026-05-13T04:09:45.955941+07:00",
   "articles": [
     {
       "id": "1ea6990429b789b8ce9d3477fea1c24a",
@@ -151,6 +151,46 @@ window.newsData_2026_05_13 = {
       "category": "Tổng hợp",
       "published": "2026-05-13T02:27:44.318312+07:00",
       "fetched": "2026-05-13T02:27:44.318518+07:00"
+    },
+    {
+      "id": "aa0034ff30bd57fd7dd78148b7e58ba3",
+      "title": "Ronaldo bị trì hoãn chức vô địch Saudi Pro League",
+      "link": "https://vnexpress.net/ronaldo-bi-tri-hoan-chuc-vo-dich-saudi-pro-league-5073230.html",
+      "summary": "Sai lầm khó hiểu của thủ môn Bento ở phút cuối khiến Al Nassr bị đội khách Al Hilal cầm hòa 1-1 ở vòng 32 Saudi Pro League, nên lỡ cơ hội đăng quang sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T20:14:11+07:00",
+      "fetched": "2026-05-13T04:09:37.389275+07:00"
+    },
+    {
+      "id": "9ac58f795a5903c7e6d1f3708079a040",
+      "title": "Ronaldo bị đồng đội cản đường vô địch Saudi Pro League",
+      "link": "https://vnexpress.net/ronaldo-bi-dong-doi-can-duong-vo-dich-saudi-pro-league-5073230.html",
+      "summary": "Sai lầm khó hiểu của thủ môn Bento ở phút cuối khiến Al Nassr bị đội khách Al Hilal cầm hòa 1-1 ở vòng 32 Saudi Pro League, nên lỡ cơ hội đăng quang sớm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-12T20:14:11+07:00",
+      "fetched": "2026-05-13T04:09:45.951063+07:00"
+    },
+    {
+      "id": "dca00731c2789107b11d5895e1249f9d",
+      "title": "Thái Lan, Indonesia bị loại ở vòng bảng U17 châu Á",
+      "link": "https://vnexpress.net/thai-lan-indonesia-bi-loai-o-vong-bang-u17-chau-a-5073229.html",
+      "summary": "Thái Lan không thắng trận nào, còn Indonesia đứng chót bảng ở VCK U17 châu Á 2026, khi Việt Nam là đại diện Đông Nam Á cuối cùng tại giải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T19:24:30+07:00",
+      "fetched": "2026-05-13T04:09:37.389463+07:00"
+    },
+    {
+      "id": "dca00731c2789107b11d5895e1249f9d",
+      "title": "Thái Lan, Indonesia bị loại ở vòng bảng U17 châu Á",
+      "link": "https://vnexpress.net/thai-lan-indonesia-bi-loai-o-vong-bang-u17-chau-a-5073229.html",
+      "summary": "Thái Lan không thắng trận nào, còn Indonesia đứng chót bảng ở VCK U17 châu Á 2026, khi Việt Nam là đại diện Đông Nam Á cuối cùng tại giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-12T19:24:30+07:00",
+      "fetched": "2026-05-13T04:09:45.951264+07:00"
     },
     {
       "id": "442c45df405fa1eee627dd5ec05654cc",
