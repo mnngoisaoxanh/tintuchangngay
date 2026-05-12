@@ -1,6 +1,6 @@
 window.newsData_2026_05_13 = {
   "date": "2026-05-13",
-  "lastUpdated": "2026-05-13T04:09:45.955941+07:00",
+  "lastUpdated": "2026-05-13T05:52:10.744075+07:00",
   "articles": [
     {
       "id": "1ea6990429b789b8ce9d3477fea1c24a",
@@ -151,6 +151,246 @@ window.newsData_2026_05_13 = {
       "category": "Tổng hợp",
       "published": "2026-05-13T02:27:44.318312+07:00",
       "fetched": "2026-05-13T02:27:44.318518+07:00"
+    },
+    {
+      "id": "65bc5ab0d9b254d02b0c0b24f2f5b16e",
+      "title": "Chìa khóa an cư lạc nghiệp",
+      "link": "https://thanhnien.vn/chia-khoa-an-cu-lac-nghiep-185260512211020593.htm",
+      "summary": "Trong cuộc tiếp xúc cử tri mới đây, Bí thư Thành ủy TP.HCM Trần Lưu Quang đã thông tin về việc TP triển khai hình thức mới cho chính sách nhà ở xã hội. Theo đó, thay vì Nhà nước lo về phần đất, thì doanh nghiệp đầu tư sẽ tìm đất để làm dự án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:52:00+07:00",
+      "fetched": "2026-05-13T05:52:04.962251+07:00"
+    },
+    {
+      "id": "1b19a2abf37a58641db663d5bc5a6d19",
+      "title": "Học sinh cuối cấp chi tiền triệu để lưu dấu dịp tốt nghiệp",
+      "link": "https://thanhnien.vn/hoc-sinh-cuoi-cap-chi-tien-trieu-de-luu-dau-dip-tot-nghiep-185260512185906751.htm",
+      "summary": "Không chỉ dừng ở những cái ôm hay dòng lưu bút, nhiều học sinh lớp 9, 12 đang thiết kế những hoạt động mang dấu ấn riêng để kỷ niệm ngày ra trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:45:00+07:00",
+      "fetched": "2026-05-13T05:52:04.962424+07:00"
+    },
+    {
+      "id": "30d9e883266225f0c44f87ebb29df30c",
+      "title": "Vườn quốc gia Chư Yang Sin cảnh báo tình trạng leo núi tự phát",
+      "link": "https://thanhnien.vn/vuon-quoc-gia-chu-yang-sin-canh-bao-tinh-trang-leo-nui-tu-phat-185260512122645171.htm",
+      "summary": "Nhiều người tự tổ chức khám phá, leo núi tại Vườn quốc gia Chư Yang Sin (tỉnh Đắk Lắk) dù khu vực này chưa mở cửa chính thức cho hoạt động tự phát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:45:00+07:00",
+      "fetched": "2026-05-13T05:52:04.962581+07:00"
+    },
+    {
+      "id": "021104c1c8e21e142eb7dcf8f20d3155",
+      "title": "Tiêu điểm quốc tế 13.5: Thị trưởng Mỹ là đặc vụ cho Trung Quốc | Lệnh ngừng bắn Mỹ - Iran 'nguy kịch'",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-135-thi-truong-my-la-dac-vu-cho-trung-quoc-lenh-ngung-ban-my-iran-nguy-kich-185260512231732644.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 13.5.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:31:00+07:00",
+      "fetched": "2026-05-13T05:52:04.962732+07:00"
+    },
+    {
+      "id": "43b39c2fdb3602e5a7f83cd6c1600718",
+      "title": "Bàn tay UAE trong cuộc chiến Iran",
+      "link": "https://thanhnien.vn/ban-tay-uae-trong-cuoc-chien-iran-185260512205753936.htm",
+      "summary": "Có nhiều lợi ích trực tiếp, Các tiểu vương quốc Ả Rập (UAE) được cho là không hề \"ngồi yên\" mà cũng đã tấn công Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:31:00+07:00",
+      "fetched": "2026-05-13T05:52:04.962885+07:00"
+    },
+    {
+      "id": "e525be17ae5599910b3fea9fe0dc53c8",
+      "title": "Trúng 20 tỉ xổ số miền Nam, người đàn ông ở TP.HCM đổi thưởng 2 ngày liên tiếp",
+      "link": "https://thanhnien.vn/trung-20-ti-xo-so-mien-nam-nguoi-dan-ong-o-tphcm-doi-thuong-2-ngay-lien-tiep-185260511104455649.htm",
+      "summary": "Một người đàn ông ở TP.HCM trúng số độc đắc 20 tỉ đồng xổ số miền Nam, cùng gia đình đi đổi thưởng 2 lần trong 2 ngày liên tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:30:00+07:00",
+      "fetched": "2026-05-13T05:52:04.963074+07:00"
+    },
+    {
+      "id": "3fbe0876b6aabbb5ce5f825b2f4a0fe4",
+      "title": "Xem cầu đi bộ vượt sông Sài Gòn đổ mẻ bê tông đầu tiên bệ trụ cầu chính",
+      "link": "https://thanhnien.vn/xem-cau-di-bo-vuot-song-sai-gon-do-me-be-tong-dau-tien-be-tru-cau-chinh-185260512235153786.htm",
+      "summary": "Cầu đi bộ qua sông Sài Gòn có thiết kế rất đặc biệt là hình lá dừa nước, không chỉ là công trình hạ tầng giao thông mà còn mang ý nghĩa văn hóa, góp phần kiến tạo diện mạo đô thị hiện đại và nâng cao chất lượng không gian công cộng cho người dân thành phố. Chiều 11.5.2026, cầu đi bộ vượt sông Sài Gò...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:27:00+07:00",
+      "fetched": "2026-05-13T05:52:04.963233+07:00"
+    },
+    {
+      "id": "b8cf21d428b621224e9108f1ef9c899f",
+      "title": "Du thuyền có khách nhiễm vi rút Hanta hoàn tất sơ tán",
+      "link": "https://thanhnien.vn/du-thuyen-co-khach-nhiem-vi-rut-hanta-hoan-tat-so-tan-185260512205959095.htm",
+      "summary": "Reuters ngày 12.5 dẫn thông báo của nhà điều hành Oceanwide Expeditions (Hà Lan) cho hay du thuyền MV Hondius đã khởi hành từ Tây Ban Nha về Hà Lan với 25 thành viên thủy thủ đoàn cùng 1 bác sĩ và 1 điều dưỡng. Tất cả hành khách đã được sơ tán sau khi ổ dịch vi rút Hanta bùng phát trên du thuyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:16:00+07:00",
+      "fetched": "2026-05-13T05:52:04.963388+07:00"
+    },
+    {
+      "id": "6aa836803121d463db45f56524fa2196",
+      "title": "Tử vi ngày 13 tháng 5: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-13-thang-5-con-giap-nao-may-man-hom-nay-185260512231010543.htm",
+      "summary": "Tử vi ngày 13 tháng 5 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm nổi bật là chọn cách phản ứng - cùng một tình huống nhưng thái độ khác nhau sẽ dẫn đến kết quả khác nhau. Tài lộc không chỉ phụ thuộc vào cơ hội bên ngoài, mà còn nằm ở cách bạn giữ tâm thế trước áp lực và thay đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:15:00+07:00",
+      "fetched": "2026-05-13T05:52:04.963546+07:00"
+    },
+    {
+      "id": "7ed6dbee72ea35241ae964a1a209782a",
+      "title": "Xử lý vụ 'lỗ hổng kiểm dịch': Hà Nội, Phú Thọ chỉ đạo nóng, tạm đình chỉ cán bộ thú y",
+      "link": "https://thanhnien.vn/xu-ly-vu-lo-hong-kiem-dich-ha-noi-phu-tho-chi-dao-nong-tam-dinh-chi-can-bo-thu-y-185260512234554377.htm",
+      "summary": "Ngay sau khi Báo Thanh Niên đăng tải nội dung 'Thịt bẩn tung hoành qua lỗ hổng kiểm dịch' phản ánh việc cán bộ thú y nhờ đóng hộ dấu kiểm dịch; thực trạng giết mổ gia súc trong điều kiện không đảm bảo điều kiện vệ sinh thú y, không kiểm dịch... UBND thành phố Hà Nội và UBND tỉnh Phú Thọ ra văn bản c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:10:00+07:00",
+      "fetched": "2026-05-13T05:52:04.963705+07:00"
+    },
+    {
+      "id": "797e6839f68dec6a68d48fd5397f7b87",
+      "title": "Bắt tạm giam bị can phát livestream chửi bới, đòi chém người thi hành công vụ",
+      "link": "https://thanhnien.vn/bat-tam-giam-bi-can-phat-livestream-chui-boi-doi-chem-nguoi-thi-hanh-cong-vu-185260512222241143.htm",
+      "summary": "Mai Hoàng, người đã đăng tải những đoạn video và phát sóng livestream có nội dung xúc phạm uy tín, danh dự của các cơ quan Nhà nước và cán bộ lãnh đạo, vừa bị khởi tố, bắt tạm giam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:04:00+07:00",
+      "fetched": "2026-05-13T05:52:04.963858+07:00"
+    },
+    {
+      "id": "6fa3d5bdd30290b7fa779412963972a3",
+      "title": "Vụ ly hôn nghìn tỷ kéo dài 10 năm của bác sĩ ở TP HCM",
+      "link": "https://vnexpress.net/vu-ly-hon-nghin-ty-keo-dai-10-nam-cua-bac-si-o-tp-hcm-5073199.html",
+      "summary": "Sau nhiều năm nộp đơn xin ly hôn, nam bác sĩ nha khoa đổi yêu cầu sang hủy hôn nhân trái pháp luật vì cho rằng bị lừa dối khi kết hôn, nhưng người vợ phản đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:00:00+07:00",
+      "fetched": "2026-05-13T05:52:02.031791+07:00"
+    },
+    {
+      "id": "5adcaf15820e149e04c49879204d4ff1",
+      "title": "Đường 'đảo chiều' đầu tiên ở TP HCM vận hành ra sao?",
+      "link": "https://vnexpress.net/duong-dao-chieu-dau-tien-o-tp-hcm-van-hanh-ra-sao-5073011.html",
+      "summary": "Hai làn giữa đường Cộng Hòa sẽ được đảo chiều ít nhất hai lần mỗi ngày theo khung giờ,  tăng số làn cho hướng xe đông vào từng thời điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:00:00+07:00",
+      "fetched": "2026-05-13T05:52:02.032051+07:00"
+    },
+    {
+      "id": "3855a7bde23f36adcbdcb57b6e140e32",
+      "title": "Bác sĩ Việt Nam cứu sống 13 trong 14 ca tim thai dị tật phức tạp",
+      "link": "https://vnexpress.net/bac-si-viet-nam-cuu-song-13-trong-14-ca-tim-thai-di-tat-phuc-tap-5072973.html",
+      "summary": "Từ kỹ thuật chỉ vài trung tâm trên thế giới thực hiện, các bác sĩ Bệnh viện Từ Dũ và Nhi đồng 1 đã cứu sống 13 trên 14 thai nhi mắc dị tật tim bẩm sinh nặng, khiến chuyên gia hàng đầu từ Áo bất ngờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:00:00+07:00",
+      "fetched": "2026-05-13T05:52:02.032236+07:00"
+    },
+    {
+      "id": "cf58403032c7d6948eedd9823b90301c",
+      "title": "Cướp biển Somalia trỗi dậy giữa chiến sự Iran",
+      "link": "https://vnexpress.net/cuop-bien-somalia-troi-day-giua-chien-su-iran-5072914.html",
+      "summary": "Chiến sự Iran buộc các tàu hàng phải chuyển hướng vòng qua châu Phi để tránh giao tranh, nhưng họ phải đối mặt ác mộng mới khi cướp biển Somalia tái xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:00:00+07:00",
+      "fetched": "2026-05-13T05:52:02.032412+07:00"
+    },
+    {
+      "id": "672abdd3e95fba289744c38293147ae7",
+      "title": "Môtô bay lên mắc ở cột đèn giao thông sau va chạm",
+      "link": "https://vnexpress.net/moto-bay-len-mac-o-cot-den-giao-thong-sau-va-cham-5072834.html",
+      "summary": "Lao thẳng vào ôtô rẽ trái, chiếc Suzuki GSX-R600 bay lên và mắc luôn trên cột vươn đèn giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:00:00+07:00",
+      "fetched": "2026-05-13T05:52:02.032576+07:00"
+    },
+    {
+      "id": "c507c10b661b1e78862c6a456edea2ca",
+      "title": "Vivo X300 Ultra - 'máy ảnh' trong thân hình smartphone",
+      "link": "https://vnexpress.net/vivo-x300-ultra-may-anh-trong-than-hinh-smartphone-5072795.html",
+      "summary": "Vivo X300 Ultra nổi bật với khả năng chụp ảnh chân dung tốt, quay video 10-bit Log, nhiều phụ kiện như máy ảnh nhưng mức giá tới 50 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:00:00+07:00",
+      "fetched": "2026-05-13T05:52:02.032741+07:00"
+    },
+    {
+      "id": "00d03c94f81848deeb5b53c86ed64314",
+      "title": "Thiêng liêng lễ chào cờ nơi đầu sóng Trường Sa",
+      "link": "https://thanhnien.vn/thieng-lieng-le-chao-co-noi-dau-song-truong-sa-185260512210329275.htm",
+      "summary": "Hải trình gần 1.000 hải lý rẽ sóng đến với quần đảo Trường Sa của Đoàn công tác số 14 cất giữ vô vàn kỷ niệm. Nhưng có lẽ, một trong những khoảnh khắc đọng lại sâu nhất trong tâm trí mỗi thành viên chính là nghi lễ chào cờ thiêng liêng diễn ra ngay giữa trùng khơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:00:00+07:00",
+      "fetched": "2026-05-13T05:52:04.964032+07:00"
+    },
+    {
+      "id": "3fed1717204f35e4d397201e4fe11c4e",
+      "title": "Sắp cưỡng chế, thu hồi khu đất công mua bán giấy tay giờ thành quán cà phê",
+      "link": "https://thanhnien.vn/sap-cuong-che-thu-hoi-khu-dat-cong-mua-ban-giay-tay-gio-thanh-quan-ca-phe-185260512203339795.htm",
+      "summary": "UBND phường Phước Thắng (TP.HCM) đã ban hành kế hoạch cưỡng chế buộc thực hiện biện pháp khắc phục hậu quả khu đất công hơn 3.500 m2 bị mua bán hàng chục năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:00:00+07:00",
+      "fetched": "2026-05-13T05:52:04.964190+07:00"
+    },
+    {
+      "id": "7ec1a685e2661ac1dc987c49af56b456",
+      "title": "Cách nào để tránh ăn phải nấm độc?",
+      "link": "https://thanhnien.vn/cach-nao-de-tranh-an-phai-nam-doc-185260512192605067.htm",
+      "summary": "Bệnh viện Bạch Mai vừa tiếp nhận chùm 5 bệnh nhân ở Sơn La ngộ độc nấm amatoxin đặc biệt nặng, sau khi cùng ăn món canh nấu nấm hái ở rừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:00:00+07:00",
+      "fetched": "2026-05-13T05:52:04.964346+07:00"
+    },
+    {
+      "id": "678a4e171b425a8ffbf85256b5e19fd2",
+      "title": "Hôm nay 13.5 là ngày Giải phóng Hải Phòng, theo lịch âm có gì đặc biệt?",
+      "link": "https://thanhnien.vn/hom-nay-135-la-ngay-giai-phong-hai-phong-theo-lich-am-co-gi-dac-biet-185260511143627157.htm",
+      "summary": "Hôm nay là ngày Giải phóng Hải Phòng 13.5. Theo lịch vạn niên, lịch âm hôm nay, 13.5 còn là ngày gì mà nhiều người Việt quan tâm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T22:00:00+07:00",
+      "fetched": "2026-05-13T05:52:04.964501+07:00"
+    },
+    {
+      "id": "cf58403032c7d6948eedd9823b90301c",
+      "title": "Cướp biển Somalia trỗi dậy giữa chiến sự Iran",
+      "link": "https://vnexpress.net/cuop-bien-somalia-troi-day-giua-chien-su-iran-5072914.html",
+      "summary": "Chiến sự Iran buộc các tàu hàng phải chuyển hướng vòng qua châu Phi để tránh giao tranh, nhưng họ phải đối mặt ác mộng mới khi cướp biển Somalia tái xuất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-12T22:00:00+07:00",
+      "fetched": "2026-05-13T05:52:06.784588+07:00"
+    },
+    {
+      "id": "c507c10b661b1e78862c6a456edea2ca",
+      "title": "Vivo X300 Ultra - 'máy ảnh' trong thân hình smartphone",
+      "link": "https://vnexpress.net/vivo-x300-ultra-may-anh-trong-than-hinh-smartphone-5072795.html",
+      "summary": "Vivo X300 Ultra nổi bật với khả năng chụp ảnh chân dung tốt, quay video 10-bit Log, nhiều phụ kiện như máy ảnh nhưng mức giá tới 50 triệu đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-12T22:00:00+07:00",
+      "fetched": "2026-05-13T05:52:09.889487+07:00"
+    },
+    {
+      "id": "b372748c594f2db12889ab3889c39042",
+      "title": "Bờ sông Hồng nửa đầu thế kỷ XX",
+      "link": "https://vnexpress.net/bo-song-hong-nua-dau-the-ky-xx-5073141.html",
+      "summary": "Những năm đầu thế kỷ XX, dải đất sát mép nước sông Hồng chạy qua Hà Nội hầu như không có nhà cửa, phần lớn là bến thuyền với nhiều tàu bè neo đậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:00:00+07:00",
+      "fetched": "2026-05-13T05:52:02.032904+07:00"
     },
     {
       "id": "aa0034ff30bd57fd7dd78148b7e58ba3",
