@@ -1,6 +1,6 @@
 window.newsData_2026_05_14 = {
   "date": "2026-05-14",
-  "lastUpdated": "2026-05-14T00:54:48.152405+07:00",
+  "lastUpdated": "2026-05-14T02:40:24.064062+07:00",
   "articles": [
     {
       "id": "7fa3f1d472fdd0e267860179a5f48d6e",
@@ -151,6 +151,106 @@ window.newsData_2026_05_14 = {
       "category": "Tổng hợp",
       "published": "2026-05-14T00:54:40.102699+07:00",
       "fetched": "2026-05-14T00:54:40.102948+07:00"
+    },
+    {
+      "id": "fade06c426818da2a10f694dbb062f9e",
+      "title": "Lộ diện kênh phát trực tiếp tứ kết U.17 Việt Nam đại chiến U.17 Úc, không phải VTV",
+      "link": "https://thanhnien.vn/lo-dien-kenh-phat-truc-tiep-tu-ket-u17-viet-nam-dai-chien-u17-uc-khong-phai-vtv-185260514022009341.htm",
+      "summary": "U.17 Việt Nam đã đoạt vé lọt vào tứ kết châu Á và dự World Cup theo cách ấn tượng nhất có thể, khi vượt qua nhiều đội mạnh như Hàn Quốc và UAE để dẫn đầu bảng C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T19:25:00+07:00",
+      "fetched": "2026-05-14T02:40:17.078004+07:00"
+    },
+    {
+      "id": "17155b2069eb519814cee6399ff6e254",
+      "title": "Bảng xếp hạng U.17 Việt Nam mới nhất: Tốp 1 cực hoành tráng, đẩy Hàn Quốc xuống vị trí khó tin",
+      "link": "https://thanhnien.vn/bang-xep-hang-u17-viet-nam-moi-nhat-top-1-cuc-hoanh-trang-day-han-quoc-xuong-vi-tri-kho-tin-185260514020927529.htm",
+      "summary": "U.17 Việt Nam chính thức lọt vào tứ kết U.17 châu Á 2026 sau chiến thắng thuyết phục 3-2 trước U.17 UAE ở trận hạ màn bảng C, diễn ra lúc 0 giờ ngày 14.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T19:15:00+07:00",
+      "fetched": "2026-05-14T02:40:17.078122+07:00"
+    },
+    {
+      "id": "c9078e100a9f41fc44cb0983880aa016",
+      "title": "Xác định 8 đội vào tứ kết châu Á và dự U.17 World Cup: Việt Nam tái đấu Úc ngày nào?",
+      "link": "https://thanhnien.vn/xac-dinh-8-doi-vao-tu-ket-chau-a-va-du-u17-world-cup-viet-nam-dau-uc-ngay-nao-185260514020213973.htm",
+      "summary": "Tính đến lúc này, 8 đội bóng sẽ tranh tài ở tứ kết U.17 châu Á 2026, đồng thời là suất trực tiếp đến với VCK U.17 World Cup 2026 đã được xác định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T19:05:00+07:00",
+      "fetched": "2026-05-14T02:40:17.078224+07:00"
+    },
+    {
+      "id": "82a8c5e6245cf9e8e68913c14c374392",
+      "title": "Hạ UAE, Việt Nam lần đầu dự U17 World Cup",
+      "link": "https://vnexpress.net/ha-uae-viet-nam-lan-dau-du-u17-world-cup-5073616.html",
+      "summary": "Việt Nam thắng UAE 3-2 rạng sáng nay, để lần thứ ba vượt qua vòng bảng U17 châu Á và lần đầu dự U17 World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-13T18:58:26+07:00",
+      "fetched": "2026-05-14T02:40:24.060386+07:00"
+    },
+    {
+      "id": "061b65bfa36dde21930bdf8b9777346d",
+      "title": "Bún, phở và cơm: Món nào làm tăng đường huyết nhiều hơn?",
+      "link": "https://thanhnien.vn/bun-pho-va-com-mon-nao-lam-tang-duong-huyet-nhieu-hon-185260508142606236.htm",
+      "summary": "Cơm trắng, bún và phở đều được làm chủ yếu từ gạo hoặc bột gạo. Dù vậy, ảnh hưởng đến đường huyết của chúng có thể không giống nhau. Điều này phụ thuộc vào nhiều yếu tố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T18:31:00+07:00",
+      "fetched": "2026-05-14T02:40:17.078321+07:00"
+    },
+    {
+      "id": "ae464af6247ba8bc6392c193de0f00ef",
+      "title": "Sức mạnh tàu ngầm hạt nhân Mỹ dùng để 'dằn mặt Iran'",
+      "link": "https://vnexpress.net/suc-manh-tau-ngam-hat-nhan-my-dung-de-dan-mat-iran-5073487.html",
+      "summary": "Tàu ngầm chiến lược lớp Ohio của Mỹ mang được 24 tên lửa đạn đạo hạt nhân Trident II, có thể tấn công mục tiêu từ khoảng cách 11.000 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T18:00:00+07:00",
+      "fetched": "2026-05-14T02:40:14.353567+07:00"
+    },
+    {
+      "id": "41e605d71769739bce224c562ed9fe15",
+      "title": "Bác sĩ chia sẻ 5 'nguyên tắc vàng' giúp phòng bệnh thận",
+      "link": "https://vnexpress.net/bac-si-chia-se-5-nguyen-tac-vang-giup-phong-benh-than-5073155.html",
+      "summary": "Bác sĩ khuyến cáo mỗi người nên duy trì đủ nước, ăn uống lành mạnh, tập thể dục và khám định kỳ để giảm nguy cơ mắc bệnh thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T18:00:00+07:00",
+      "fetched": "2026-05-14T02:40:14.353701+07:00"
+    },
+    {
+      "id": "46d485af914eed2fa5a6ef307c851fc5",
+      "title": "Rối loạn sử dụng chất gây nghiện",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/roi-loan-su-dung-chat-gay-nghien-426",
+      "summary": "Rối loạn sử dụng chất gây nghiện là tình trạng một người mất khả năng kiểm soát việc sử dụng rượu hoặc chất kích thích, dù chất này đang gây tác hại đến sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T18:00:00+07:00",
+      "fetched": "2026-05-14T02:40:14.353830+07:00"
+    },
+    {
+      "id": "ae464af6247ba8bc6392c193de0f00ef",
+      "title": "Sức mạnh tàu ngầm hạt nhân Mỹ dùng để 'dằn mặt Iran'",
+      "link": "https://vnexpress.net/suc-manh-tau-ngam-hat-nhan-my-dung-de-dan-mat-iran-5073487.html",
+      "summary": "Tàu ngầm chiến lược lớp Ohio của Mỹ mang được 24 tên lửa đạn đạo hạt nhân Trident II, có thể tấn công mục tiêu từ khoảng cách 11.000 km.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-13T18:00:00+07:00",
+      "fetched": "2026-05-14T02:40:19.566898+07:00"
+    },
+    {
+      "id": "48a652c81f1b4c5fb914d74666683408",
+      "title": "Lươn đông trong top món ăn dở nhất thế giới",
+      "link": "https://vnexpress.net/luon-dong-trong-top-mon-an-do-nhat-the-gioi-5073612.html",
+      "summary": "Món ăn đường phố có tuổi đời hơn 200 năm, có mùi tanh nồng, được TasteAtlas xếp vào top 10 món ăn dở nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T17:31:06+07:00",
+      "fetched": "2026-05-14T02:40:14.353941+07:00"
     },
     {
       "id": "ffa23fd5aef07661837990b57ecd9596",
