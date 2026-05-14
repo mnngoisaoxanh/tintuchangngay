@@ -1,6 +1,6 @@
 window.newsData_2026_05_15 = {
   "date": "2026-05-15",
-  "lastUpdated": "2026-05-15T02:27:32.598971+07:00",
+  "lastUpdated": "2026-05-15T04:02:29.602559+07:00",
   "articles": [
     {
       "id": "46300e04b36c6fc928f1d0353bd374b3",
@@ -153,6 +153,16 @@ window.newsData_2026_05_15 = {
       "fetched": "2026-05-15T02:27:23.566187+07:00"
     },
     {
+      "id": "13b58e62e23f58b41e50fdc41475d0f0",
+      "title": "Lịch thi đấu V-League cực hay hôm nay: Cuộc chiến sinh tồn, Đà Nẵng sẽ rớt hạng nếu thua đội CA TP.HCM?",
+      "link": "https://thanhnien.vn/lich-thi-dau-v-league-cuc-hay-hom-nay-cuoc-chien-sinh-ton-da-nang-se-rot-hang-neu-thua-doi-ca-tphcm-185260515013438136.htm",
+      "summary": "Trận đấu lúc 18 giờ trên sân Bình Dương giữa CLB CA TP.HCM sẽ rất quyết liệt, giữa mục tiêu tốp 5 và sinh tồn của đội khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T19:32:00+07:00",
+      "fetched": "2026-05-15T04:02:20.957886+07:00"
+    },
+    {
       "id": "b01dc291cc8890ceba3541c956700313",
       "title": "Luật cho phép người lạ chiếm hữu nhà ở Florida",
       "link": "https://vnexpress.net/luat-cho-phep-nguoi-la-chiem-huu-nha-o-florida-5069612.html",
@@ -161,6 +171,36 @@ window.newsData_2026_05_15 = {
       "category": "Thế giới",
       "published": "2026-05-14T19:00:00+07:00",
       "fetched": "2026-05-15T02:27:24.950749+07:00"
+    },
+    {
+      "id": "85619e061617cd2f2f7c2a47446e0285",
+      "title": "'Avatar bệnh nhân' giúp bác sĩ ICU ra quyết định trong vài giây",
+      "link": "https://vnexpress.net/avatar-benh-nhan-giup-bac-si-icu-ra-quyet-dinh-trong-vai-giay-5073797.html",
+      "summary": "Mô hình “avatar bệnh nhân” tích hợp trí tuệ nhân tạo (AI), giúp các bác sĩ hồi sức tích cực (ICU) đọc tình trạng bệnh nhân tức thì, ra quyết định chỉ trong vài giây, từ đó nâng cao hiệu quả điều trị cho các bệnh nhân nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T19:00:00+07:00",
+      "fetched": "2026-05-15T04:02:17.706106+07:00"
+    },
+    {
+      "id": "67f2182cce82c5783a2757377acce268",
+      "title": "Những trái cây người tăng huyết áp nên ăn thường xuyên",
+      "link": "https://vnexpress.net/nhung-trai-cay-nguoi-tang-huyet-ap-nen-an-thuong-xuyen-5073517.html",
+      "summary": "Bưởi, bơ, dưa hấu hay việt quất chứa nhiều kali, chất chống oxy hóa và hợp chất thực vật có thể hỗ trợ kiểm soát huyết áp, tốt cho tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T19:00:00+07:00",
+      "fetched": "2026-05-15T04:02:17.706264+07:00"
+    },
+    {
+      "id": "c7e1285c021c083aeec55e7f28952355",
+      "title": "Tế bào tiền ung thư nguy hiểm thế nào",
+      "link": "https://vnexpress.net/te-bao-tien-ung-thu-nguy-hiem-the-nao-5073074.html",
+      "summary": "Các tế bào tiền ung thư có thể phát triển thành ung thư nếu không được theo dõi hoặc điều trị, song một số không biến đổi ác tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T19:00:00+07:00",
+      "fetched": "2026-05-15T04:02:17.706408+07:00"
     },
     {
       "id": "e21385cea8068442236b94fe2fd40503",
