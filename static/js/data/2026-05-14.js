@@ -1,7 +1,127 @@
 window.newsData_2026_05_14 = {
   "date": "2026-05-14",
-  "lastUpdated": "2026-05-14T20:45:10.827235+07:00",
+  "lastUpdated": "2026-05-14T23:04:34.648576+07:00",
   "articles": [
+    {
+      "id": "5ed47e34f5e7fdc6748a4834a2db3815",
+      "title": "Ông Nguyễn Duy Ngọc làm Trưởng Ban Chỉ đạo Trung ương về sơ kết 1 năm chính quyền địa phương 2 cấp",
+      "link": "https://tuoitre.vn/ong-nguyen-duy-ngoc-lam-truong-ban-chi-dao-trung-uong-ve-so-ket-1-nam-chinh-quyen-dia-phuong-2-cap-20260514203257158.htm",
+      "summary": "Theo quyết định của Bộ Chính trị, Trưởng Ban Tổ chức Trung ương Nguyễn Duy Ngọc làm Trưởng Ban Chỉ đạo Trung ương về sơ kết 1 năm vận hành bộ máy của hệ thống chính trị và chính quyền địa phương 2 cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T23:04:27.292312+07:00",
+      "fetched": "2026-05-14T23:04:27.292433+07:00"
+    },
+    {
+      "id": "217908e468893b20936fed75fb40157e",
+      "title": "Hưng Yên triển khai loạt tuyến đường kết nối sân vận động 60.000 chỗ, hoàn thành trước tháng 3-2027",
+      "link": "https://tuoitre.vn/hung-yen-trien-khai-loat-tuyen-duong-ket-noi-san-van-dong-60-000-cho-hoan-thanh-truoc-3-2027-20260514203156739.htm",
+      "summary": "Chủ tịch UBND tỉnh Hưng Yên yêu cầu đẩy nhanh giải phóng mặt bằng, các nhà thầu có mặt bằng đến đâu tổ chức thi công đến đó đối với các tuyến đường kết nối khu vực sân vận động PVF, phấn đấu hoàn thành trước tháng 3-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T23:04:27.292185+07:00",
+      "fetched": "2026-05-14T23:04:27.292300+07:00"
+    },
+    {
+      "id": "1a57a8b57cdba1314be09cd34b52942c",
+      "title": "TP.HCM và thủ đô Vientiane sẽ ký kết hợp tác giai đoạn 2026 - 2030",
+      "link": "https://tuoitre.vn/tp-hcm-va-thu-do-vientiane-se-ky-ket-hop-tac-giai-doan-2026-2030-2026051420345993.htm",
+      "summary": "Phó bí thư Thành ủy TP.HCM Đặng Minh Thông khẳng định TP.HCM luôn trân trọng, coi trọng quan hệ hợp tác với thủ đô Vientiane (Lào), đồng thời mong muốn chương trình hợp tác thời gian tới thực chất, toàn diện và hiệu quả hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T23:04:27.292053+07:00",
+      "fetched": "2026-05-14T23:04:27.292174+07:00"
+    },
+    {
+      "id": "82998cdd3a152e88bd6685537a2c2c1a",
+      "title": "Bùi Đình Khánh thừa nhận gây ra cái chết của thiếu tá Nguyễn Đăng Khải",
+      "link": "https://tuoitre.vn/bui-dinh-khanh-thua-nhan-gay-ra-cai-chet-cua-thieu-ta-nguyen-dang-khai-20260514203851606.htm",
+      "summary": "Trong phiên tòa xét xử chiều 14-5, Bùi Đình Khánh đã thừa nhận hành vi của mình gây ra cái chết của thiếu tá Nguyễn Đăng Khải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T23:04:27.291919+07:00",
+      "fetched": "2026-05-14T23:04:27.292040+07:00"
+    },
+    {
+      "id": "37640cc153110acfbe756428429ab3b9",
+      "title": "TP.HCM thay đổi cách chạy xe ở vòng xoay Điện Biên Phủ",
+      "link": "https://tuoitre.vn/tp-hcm-thay-doi-cach-chay-xe-o-vong-xoay-dien-bien-phu-20260514211002548.htm",
+      "summary": "TP.HCM sẽ thí điểm điều chỉnh giao thông tại vòng xoay Điện Biên Phủ từ 23-5, giữ nguyên hiện trạng nhưng không tổ chức xe chạy theo vòng xoay như hiện nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T23:04:27.291764+07:00",
+      "fetched": "2026-05-14T23:04:27.291906+07:00"
+    },
+    {
+      "id": "46300e04b36c6fc928f1d0353bd374b3",
+      "title": "Bị công khai nợ thuế 180 đồng, nộp thế nào để xóa nợ?",
+      "link": "https://tuoitre.vn/bi-cong-khai-no-thue-180-dong-nop-the-nao-de-xoa-no-20260514204150351.htm",
+      "summary": "Trong danh sách 6.231 người nợ thuế và các khoản thu ngân sách nhà nước, do cơ quan Thuế tỉnh Khánh Hòa công khai thông tin theo quy định pháp luật, có nhiều người chỉ nợ dưới 100.000 đồng, 2 người nợ 361 đồng và 180 đồng thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T23:04:27.291626+07:00",
+      "fetched": "2026-05-14T23:04:27.291751+07:00"
+    },
+    {
+      "id": "4aab0d991701fba573b38273a7309061",
+      "title": "Tuyên án tù chung thân đối với Đào Minh Quân về tội khủng bố, hoạt động nhằm lật đổ chính quyền",
+      "link": "https://tuoitre.vn/tuyen-an-tu-chung-than-doi-voi-dao-minh-quan-ve-toi-khung-bo-hoat-dong-nham-lat-do-chinh-quyen-nhan-20260514213558292.htm",
+      "summary": "Ngày 14-5, Tòa án nhân dân TP.HCM đã tuyên án sơ thẩm đối với Đào Minh Quân cùng đồng phạm về các tội “khủng bố nhằm chống chính quyền nhân dân” và “hoạt động nhằm lật đổ chính quyền nhân dân\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T23:04:27.291499+07:00",
+      "fetched": "2026-05-14T23:04:27.291614+07:00"
+    },
+    {
+      "id": "faa42c7abe4a487e2fd69955de307884",
+      "title": "U17 nữ Úc vỡ trận trước U17 Nhật Bản vì pha phản lưới nhà khó hiểu",
+      "link": "https://tuoitre.vn/u17-nu-uc-vo-tran-truoc-u17-nhat-ban-vi-pha-phan-luoi-nha-kho-hieu-20260514210752038.htm",
+      "summary": "Chiều 14-5, pha phản lưới nhà cực kỳ khó hiểu của cầu thủ nữ Bradshaw đã khiến U17 Úc nhanh chóng vỡ trận và nhận thất bại với tỉ số 0-4 trước U17 Nhật Bản tại bán kết giải U17 nữ châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T23:04:27.291371+07:00",
+      "fetched": "2026-05-14T23:04:27.291487+07:00"
+    },
+    {
+      "id": "75256365e04f849a957e9a8b5174a502",
+      "title": "Chủ tịch VFF nhắn nhủ U17 Việt Nam trước 'cơn mưa lời khen' trên mạng xã hội",
+      "link": "https://tuoitre.vn/chu-tich-vff-nhan-nhu-u17-viet-nam-truoc-con-mua-loi-khen-tren-mang-xa-hoi-20260514220316732.htm",
+      "summary": "Đội tuyển U17 Việt Nam được Chủ tịch Liên đoàn Bóng đá Việt Nam (VFF) - ông Trần Quốc Tuấn nhắc nhở phải giữ đôi chân trên mặt đất, tập trung cho nhiệm vụ quốc gia trước cơn mưa lời khen từ mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T23:04:27.291239+07:00",
+      "fetched": "2026-05-14T23:04:27.291359+07:00"
+    },
+    {
+      "id": "b645ec8a99f0196a1460438fd7c9556c",
+      "title": "Ông Putin sẽ sớm thăm Trung Quốc",
+      "link": "https://tuoitre.vn/ong-putin-se-som-tham-trung-quoc-20260514220130886.htm",
+      "summary": "Điện Kremlin thông báo ông Tổng thống Nga Vladimir Putin sẽ sớm thăm Trung Quốc, việc chuẩn bị đã hoàn tất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T23:04:27.291106+07:00",
+      "fetched": "2026-05-14T23:04:27.291227+07:00"
+    },
+    {
+      "id": "21512de384a3499997ad5abca1919a70",
+      "title": "Điều tra vụ lừa bán thiên thạch 400 triệu đồng tại Gia Lai",
+      "link": "https://tuoitre.vn/dieu-tra-vu-lua-ban-thien-thach-400-trieu-dong-tai-gia-lai-20260514210521841.htm",
+      "summary": "Công an tỉnh Gia Lai cho hay Cơ quan cảnh sát điều tra đang điều tra vụ lừa đảo bán thiên thạch, chiếm đoạt 400 triệu đồng xảy ra trên địa bàn thôn 7, xã Chư Sê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T23:04:27.290963+07:00",
+      "fetched": "2026-05-14T23:04:27.291094+07:00"
+    },
+    {
+      "id": "088ee0b6c3edf40657b0d690b023eff8",
+      "title": "Xử lý cụ ông 76 tuổi thường xuyên chia sẻ, đăng tải bài viết xúc phạm Cảnh sát giao thông",
+      "link": "https://tuoitre.vn/xu-ly-cu-ong-76-tuoi-thuong-xuyen-chia-se-dang-tai-bai-viet-xuc-pham-canh-sat-giao-thong-20260514215038695.htm",
+      "summary": "Cụ ông 76 tuổi ở Hà Nội vừa bị công an xử lý vì thường xuyên chia sẻ, đăng tải các bài viết có nội dung công kích, xúc phạm hình ảnh lực lượng Cảnh sát giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T23:04:27.290697+07:00",
+      "fetched": "2026-05-14T23:04:27.290947+07:00"
+    },
     {
       "id": "f5eea418fc42e9b631ee887c0f114a9b",
       "title": "Trùng lặp thú vị, '4 đội dùng đũa' được dự đoán cùng thắng tứ kết Giải U17 châu Á",
@@ -303,6 +423,196 @@ window.newsData_2026_05_14 = {
       "fetched": "2026-05-14T17:06:01.304117+07:00"
     },
     {
+      "id": "4774dfc01ef59bf98f8f809cb37f5211",
+      "title": "Vùng chè cổ thụ Biển Hồ bị 'rút ruột'",
+      "link": "https://thanhnien.vn/vung-che-co-thu-bien-ho-bi-rut-ruot-185260513160656675.htm",
+      "summary": "Dù tỉnh Gia Lai yêu cầu giữ nguyên hiện trạng, nhiều gốc chè cổ thụ ở Biển Hồ vẫn bị đào bới, đưa lên xe cần cẩu chở đi nơi khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T15:49:00+07:00",
+      "fetched": "2026-05-14T23:04:26.350794+07:00"
+    },
+    {
+      "id": "a9504ef4224c7ed74d726a2d18da5a13",
+      "title": "Mọi trẻ em ở bất kỳ hoàn cảnh nào cũng đều được yêu thương, chăm sóc",
+      "link": "https://thanhnien.vn/moi-tre-em-o-bat-ky-hoan-canh-nao-cung-deu-duoc-yeu-thuong-cham-soc-185260514215007993.htm",
+      "summary": "Bí thư T.Ư Đảng, Phó thủ tướng Phạm Thị Thanh Trà khẳng định: Mọi trẻ em, dù ở bất kỳ hoàn cảnh nào cũng đều được yêu thương, chăm sóc và tạo điều kiện tốt nhất để phát triển bình đẳng và toàn diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T15:30:00+07:00",
+      "fetched": "2026-05-14T23:04:26.350986+07:00"
+    },
+    {
+      "id": "e966f9a2eab8aa48598e077e3ec79744",
+      "title": "Đội TNTP Hồ Chí Minh được trao tặng Huân chương Lao động hạng nhất",
+      "link": "https://thanhnien.vn/doi-tntp-ho-chi-minh-duoc-trao-tang-huan-chuong-lao-dong-hang-nhat-185260514204844789.htm",
+      "summary": "Tại lễ kỷ niệm 85 năm ngày thành lập (15.5.1941 - 15.5.2026), Đội TNTP Hồ Chí Minh đã được trao tặng Huân chương Lao động hạng nhất",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T15:09:00+07:00",
+      "fetched": "2026-05-14T23:04:26.351146+07:00"
+    },
+    {
+      "id": "71fce7208265131f0d208d1f348dd8c6",
+      "title": "Những lỗi thời trang 'không đáng có' của các sao",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-loi-thoi-trang-khong-dang-co-cua-cac-sao-185260513095420282.htm",
+      "summary": "Nhiều ngôi sao đình đám gần đây liên tục gây tranh cãi với loạt diện mạo kém tinh tế, lỗi thời trang như  tỷ lệ trang phục mất cân đối, layering rườm rà và phụ kiện lạc quẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T15:00:00+07:00",
+      "fetched": "2026-05-14T23:04:26.351302+07:00"
+    },
+    {
+      "id": "05680f935dc0fd86bd48cd211e8e58a6",
+      "title": "CEO Xiaomi và Elon Musk gây sốt khi chụp selfie",
+      "link": "https://vnexpress.net/ceo-xiaomi-va-elon-musk-gay-sot-khi-chup-selfie-5074051.html",
+      "summary": "Video CEO Xiaomi Lei Jun đến gần và chụp ảnh cùng tỷ phú Elon Musk sau quốc yến tại Bắc Kinh nhanh chóng thu hút sự chú ý trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T14:51:46+07:00",
+      "fetched": "2026-05-14T23:04:23.058914+07:00"
+    },
+    {
+      "id": "05680f935dc0fd86bd48cd211e8e58a6",
+      "title": "CEO Xiaomi và Elon Musk gây sốt khi chụp selfie",
+      "link": "https://vnexpress.net/ceo-xiaomi-va-elon-musk-gay-sot-khi-chup-selfie-5074051.html",
+      "summary": "Video CEO Xiaomi Lei Jun đến gần và chụp ảnh cùng tỷ phú Elon Musk sau quốc yến tại Bắc Kinh nhanh chóng thu hút sự chú ý trên mạng xã hội.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-14T14:51:46+07:00",
+      "fetched": "2026-05-14T23:04:33.669703+07:00"
+    },
+    {
+      "id": "736ab59c899229d53751faa1aade3d1e",
+      "title": "Ca sĩ Miu Lê không bị khởi tố trong vụ án dùng ma túy ở đảo Cát Bà",
+      "link": "https://vnexpress.net/ca-si-miu-le-khong-bi-khoi-to-trong-vu-an-dung-ma-tuy-o-dao-cat-ba-5074052.html",
+      "summary": "Nhà chức trách cho rằng \"chưa đủ căn cứ để xử lý hình sự\" ca sĩ Miu Lê do là \"đối tượng thụ hưởng\" trong vụ án tàng trữ, sử dụng trái phép chất ma túy trên đảo Cát Bà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T14:49:33+07:00",
+      "fetched": "2026-05-14T23:04:23.059101+07:00"
+    },
+    {
+      "id": "c557dcf93639f5a2ea0feac4b3a88ea9",
+      "title": "Thu giữ loạt hàng giả ở Saigon Square, chợ Bến Thành",
+      "link": "https://vnexpress.net/thu-giu-loat-hang-gia-o-saigon-square-cho-ben-thanh-5074046.html",
+      "summary": "Quản lý thị trường TP HCM vừa kiểm tra đột xuất Saigon Square và chợ Bến Thành thu giữ nhiều hàng giả, không rõ nguồn gốc và xử phạt hơn nửa tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T14:42:38+07:00",
+      "fetched": "2026-05-14T23:04:23.059275+07:00"
+    },
+    {
+      "id": "c557dcf93639f5a2ea0feac4b3a88ea9",
+      "title": "Thu giữ loạt hàng giả ở Saigon Square, chợ Bến Thành",
+      "link": "https://vnexpress.net/thu-giu-loat-hang-gia-o-saigon-square-cho-ben-thanh-5074046.html",
+      "summary": "Quản lý thị trường TP HCM vừa kiểm tra đột xuất Saigon Square và chợ Bến Thành thu giữ nhiều hàng giả, không rõ nguồn gốc và xử phạt hơn nửa tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-14T14:42:38+07:00",
+      "fetched": "2026-05-14T23:04:30.122128+07:00"
+    },
+    {
+      "id": "346f00f51fcaeddfd9bcc25df66713ca",
+      "title": "Ba trang phục cưới của vợ cầu thủ Vũ Văn Thanh",
+      "link": "https://vnexpress.net/ba-trang-phuc-cuoi-cua-vo-cau-thu-vu-van-thanh-5073361.html",
+      "summary": "Hot girl Bích Hạnh - vợ hậu vệ Vũ Văn Thanh - chọn áo dài họa tiết long phụng và đầm cưới đính hoa ren cho đám cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T14:29:12+07:00",
+      "fetched": "2026-05-14T23:04:23.059454+07:00"
+    },
+    {
+      "id": "769047d925d9c2b1233a52db3514e75c",
+      "title": "Nữ diễn viên Mild Lapassalan: Nàng dâu hào môn giữa bê bối gia tộc Singha",
+      "link": "https://thanhnien.vn/nu-dien-vien-mild-lapassalan-nang-dau-hao-mon-giua-be-boi-gia-toc-singha-185260514211256544.htm",
+      "summary": "Từng được xem là 'nữ thần thanh xuân' của thế hệ 9X Thái Lan, những ngày qua Mild Lapassalan trở thành cái tên được nhắc đến nhiều trên mạng xã hội khi vụ ồn ào liên quan đến gia tộc Singha liên tục gây xôn xao dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T14:26:00+07:00",
+      "fetched": "2026-05-14T23:04:26.351454+07:00"
+    },
+    {
+      "id": "50e25a576c143ac52761cc04550f9f9c",
+      "title": "21 tỉnh thành nắng nóng gay gắt",
+      "link": "https://vnexpress.net/21-tinh-thanh-nang-nong-gay-gat-5074005.html",
+      "summary": "21/34 tỉnh thành hôm nay trải qua nắng nóng gay gắt với nhiệt độ cao nhất từ 37 độ C trở lên, trong đó Ba Tơ (Quảng Ngãi) 39,3 độ, cao nhất cả nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T14:24:02+07:00",
+      "fetched": "2026-05-14T23:04:23.059620+07:00"
+    },
+    {
+      "id": "c08600da5bb29fdaf90332b5e9251dff",
+      "title": "Công an Đà Nẵng: Siết chặt công tác phòng chống tội phạm kinh tế, môi trường từ cơ sở",
+      "link": "https://thanhnien.vn/cong-an-da-nang-siet-chat-cong-tac-phong-chong-toi-pham-kinh-te-moi-truong-tu-co-so-185260514202310355.htm",
+      "summary": "Công an thành phố Đà Nẵng yêu cầu siết chặt công tác phòng chống tội phạm kinh tế, môi trường; nâng cao trách nhiệm công an cấp xã trong rà soát, phát hiện, xử lý vi phạm, tránh tình trạng đùn đẩy trách nhiệm hoặc bỏ lọt sai phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T14:19:00+07:00",
+      "fetched": "2026-05-14T23:04:26.351606+07:00"
+    },
+    {
+      "id": "26d80b101556121a989824c9213931ff",
+      "title": "TP.HCM thí điểm bỏ chạy vòng xuyến ở vòng xoay Nguyễn Bỉnh Khiêm từ 23.5",
+      "link": "https://thanhnien.vn/tphcm-thi-diem-bo-chay-vong-xuyen-o-vong-xoay-nguyen-binh-khiem-tu-235-185260514204956199.htm",
+      "summary": "TP.HCM sẽ thí điểm giữ nguyên hiện trạng vòng xoay Nguyễn Bỉnh Khiêm - Điện Biên Phủ nhưng không tổ chức lưu thông theo dạng vòng xuyến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T14:01:00+07:00",
+      "fetched": "2026-05-14T23:04:26.351762+07:00"
+    },
+    {
+      "id": "04bf061b319d8b119f9b800fec5cf001",
+      "title": "Chồng hay kiểm soát điện thoại tôi nhưng lại giấu giếm máy của mình",
+      "link": "https://vnexpress.net/mau-thuan-vo-chong-chong-hay-kiem-soat-dien-thoai-toi-nhung-lai-giau-giem-5073905.html",
+      "summary": "Chồng tôi đi làm về là ôm điện thoại tới khuya, gần như không nói chuyện với vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T14:00:00+07:00",
+      "fetched": "2026-05-14T23:04:23.059782+07:00"
+    },
+    {
+      "id": "64b30cc36188032ba524aea906fb8814",
+      "title": "Chiến thuật nhắm vào phụ huynh để siết quản lý xe máy điện ở quận Cam",
+      "link": "https://vnexpress.net/chien-thuat-nham-vao-phu-huynh-de-siet-quan-ly-xe-may-dien-o-quan-cam-5073778.html",
+      "summary": "Giới chức quận Cam truy tố loạt phụ huynh để con sử dụng xe máy điện trái phép, sau loạt vụ thiếu niên sử dụng loại phương tiện này gây tai nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T14:00:00+07:00",
+      "fetched": "2026-05-14T23:04:23.059978+07:00"
+    },
+    {
+      "id": "64b30cc36188032ba524aea906fb8814",
+      "title": "Chiến thuật nhắm vào phụ huynh để siết quản lý xe máy điện ở quận Cam",
+      "link": "https://vnexpress.net/chien-thuat-nham-vao-phu-huynh-de-siet-quan-ly-xe-may-dien-o-quan-cam-5073778.html",
+      "summary": "Giới chức quận Cam truy tố loạt phụ huynh để con sử dụng xe máy điện trái phép, sau loạt vụ thiếu niên sử dụng loại phương tiện này gây tai nạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-14T14:00:00+07:00",
+      "fetched": "2026-05-14T23:04:28.503855+07:00"
+    },
+    {
+      "id": "3ccb4fc31ef76b44e864df23a3b6340e",
+      "title": "TP HCM sẽ mở rộng xét học bạ, tiến tới bỏ thi lớp 10",
+      "link": "https://vnexpress.net/tp-hcm-se-mo-rong-xet-hoc-ba-tien-toi-bo-thi-lop-10-5074032.html",
+      "summary": "TP HCM đẩy nhanh tốc độ xây dựng trường lớp để mở rộng xét học bạ vào lớp 10 từ năm tới, tiến tới phổ cập bậc THPT thay vì thi tuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T13:49:47+07:00",
+      "fetched": "2026-05-14T23:04:23.060146+07:00"
+    },
+    {
+      "id": "dd72a48d03eda56e11b91502275cf3ed",
+      "title": "Tổng Bí thư, Chủ tịch nước: Trẻ em không thể lớn lên trong chửi mắng, bạo lực",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-tre-em-khong-the-lon-len-trong-chui-mang-bao-luc-5074035.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm nhấn mạnh trẻ em cần được lắng nghe, tôn trọng và bảo vệ; kỷ luật không đồng nghĩa với bạo lực, dạy con không thể bằng chửi mắng hay bỏ mặc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T13:43:19+07:00",
+      "fetched": "2026-05-14T23:04:23.060320+07:00"
+    },
+    {
       "id": "f4d892ddaec13fafd1eae1795123f371",
       "title": "Phường Bến Thành lan tỏa giá trị tư tưởng Hồ Chí Minh trong từng khu phố, mỗi gia đình",
       "link": "https://tuoitre.vn/phuong-ben-thanh-lan-toa-gia-tri-tu-tuong-ho-chi-minh-trong-tung-khu-pho-moi-gia-dinh-20260514080205355.htm",
@@ -473,6 +783,16 @@ window.newsData_2026_05_14 = {
       "fetched": "2026-05-14T20:45:04.209113+07:00"
     },
     {
+      "id": "e9d5237a587aafdeb5419e860e6b7cd7",
+      "title": "Đón Tổng thống Trump, Chủ tịch Tập hoan nghênh tiến triển thương mại, cảnh báo về Đài Loan",
+      "link": "https://thanhnien.vn/don-tong-thong-trump-chu-tich-tap-hoan-nghenh-tien-trien-thuong-mai-canh-bao-ve-dai-loan-185260514204629584.htm",
+      "summary": "Hội đàm với Tổng thống Donald Trump trong ngày đầu hội nghị thượng đỉnh Trung - Mỹ hôm 14.5, Chủ tịch Trung Quốc Tập Cận Bình nói các cuộc đàm phán thương mại đang có tiến triển, nhưng ông cảnh báo rằng các bất đồng về Đài Loan có thể đẩy quan hệ vào chiều hướng nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T13:30:00+07:00",
+      "fetched": "2026-05-14T23:04:26.352246+07:00"
+    },
+    {
       "id": "fa533324c19bd72233ff3f1543d920af",
       "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Mệnh đề danh ngữ trong tiếng Anh",
       "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-menh-de-danh-ngu-trong-tieng-anh-185260511122008602.htm",
@@ -481,6 +801,36 @@ window.newsData_2026_05_14 = {
       "category": "Tổng hợp",
       "published": "2026-05-14T13:29:00+07:00",
       "fetched": "2026-05-14T20:45:04.209261+07:00"
+    },
+    {
+      "id": "aaed452f56798d8be02f23df31c7b8d5",
+      "title": "Dàn mỹ nhân đọ phong cách cùng Miss World Opal Suchata",
+      "link": "https://vnexpress.net/dan-my-nhan-do-phong-cach-cung-miss-world-opal-suchata-5074030.html",
+      "summary": "Đương kim Miss World Opal Suchata mặc váy xuyên thấu dự sự kiện cùng Hoa hậu Tiểu Vy, Bảo Ngọc, Phan Phương Oanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T13:26:00+07:00",
+      "fetched": "2026-05-14T23:04:23.060481+07:00"
+    },
+    {
+      "id": "aeeda566d353bf3528af1c3fd4e5dbba",
+      "title": "Thủ tướng Latvia từ chức vì vụ UAV Ukraine bay lạc",
+      "link": "https://vnexpress.net/thu-tuong-latvia-tu-chuc-vi-vu-uav-ukraine-bay-lac-5074027.html",
+      "summary": "Thủ tướng Latvia tuyên bố từ chức sau cách xử lý vụ UAV Ukraine bay lạc, kéo theo sự sụp đổ của chính phủ liên minh ngay trước bầu cử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T13:24:36+07:00",
+      "fetched": "2026-05-14T23:04:23.060643+07:00"
+    },
+    {
+      "id": "aeeda566d353bf3528af1c3fd4e5dbba",
+      "title": "Thủ tướng Latvia từ chức vì vụ UAV Ukraine bay lạc",
+      "link": "https://vnexpress.net/thu-tuong-latvia-tu-chuc-vi-vu-uav-ukraine-bay-lac-5074027.html",
+      "summary": "Thủ tướng Latvia tuyên bố từ chức sau cách xử lý vụ UAV Ukraine bay lạc, kéo theo sự sụp đổ của chính phủ liên minh ngay trước bầu cử.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-14T13:24:36+07:00",
+      "fetched": "2026-05-14T23:04:28.504032+07:00"
     },
     {
       "id": "6e1e2cb7d24e3d5e7e59589cdc99a881",
@@ -501,6 +851,16 @@ window.newsData_2026_05_14 = {
       "category": "Tổng hợp",
       "published": "2026-05-14T13:16:00+07:00",
       "fetched": "2026-05-14T20:45:04.209397+07:00"
+    },
+    {
+      "id": "51bef4e3703167d0d1a455eb0c059adf",
+      "title": "Đào Minh Quân, Lisa Phạm bị phạt tù chung thân",
+      "link": "https://vnexpress.net/dao-minh-quan-lisa-pham-bi-phat-tu-chung-than-5074029.html",
+      "summary": "Đào Minh Quân và Lisa Phạm bị tuyên án tù chung thân vì lập tổ chức chống phá Nhà nước, tuyển mộ thành viên thực hiện nhiều vụ khủng bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T13:10:48+07:00",
+      "fetched": "2026-05-14T23:04:23.060994+07:00"
     },
     {
       "id": "ca9692116087a993b97c6af2661c29aa",
@@ -553,6 +913,16 @@ window.newsData_2026_05_14 = {
       "fetched": "2026-05-14T20:45:04.210037+07:00"
     },
     {
+      "id": "4bc2b8c82bd320c6787b03e81ff06a37",
+      "title": "Nước châu Á nào là 'thủ đô cận thị của thế giới?'",
+      "link": "https://vnexpress.net/nuoc-chau-a-nao-la-thu-do-can-thi-cua-the-gioi-5074020.html",
+      "summary": "Với khoảng 65% học sinh tiểu học bị cận thị, nước này được gọi là \"thủ đô cận thị của thế giới\". Liệu có phải Việt Nam?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T13:03:00+07:00",
+      "fetched": "2026-05-14T23:04:23.061162+07:00"
+    },
+    {
       "id": "f30977a00c9fe76397b64993e0cc6beb",
       "title": "Xem nhanh 20h ngày 14.5: Hành trình lịch sử của U.17 Việt Nam | Những quán ăn không tăng giá giữa bão chi phí",
       "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-145-hanh-trinh-lich-su-cua-u17-viet-nam-nhung-quan-an-khong-tang-gia-giua-bao-chi-phi-185260514194320181.htm",
@@ -591,6 +961,16 @@ window.newsData_2026_05_14 = {
       "category": "Tổng hợp",
       "published": "2026-05-14T13:00:00+07:00",
       "fetched": "2026-05-14T20:45:04.210557+07:00"
+    },
+    {
+      "id": "132bd109d9012756b8a74e16e8ff923c",
+      "title": "Generali Việt Nam nhận giải Rồng Vàng về đổi mới sản phẩm bảo hiểm",
+      "link": "https://vnexpress.net/generali-viet-nam-nhan-giai-rong-vang-ve-doi-moi-san-pham-bao-hiem-5074004.html",
+      "summary": "Generali Việt Nam được vinh danh \"Tiên phong trong đổi mới sản phẩm bảo hiểm\" tại Rồng Vàng 2026 nhờ thấu hiểu khách hàng, ứng dụng công nghệ và mở rộng hệ sinh thái bảo hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-14T13:00:00+07:00",
+      "fetched": "2026-05-14T23:04:23.061319+07:00"
     },
     {
       "id": "52d28b2898856e677bcb5fc2c795bc63",
