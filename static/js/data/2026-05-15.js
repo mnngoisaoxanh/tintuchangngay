@@ -1,7 +1,157 @@
 window.newsData_2026_05_15 = {
   "date": "2026-05-15",
-  "lastUpdated": "2026-05-15T20:42:52.433504+07:00",
+  "lastUpdated": "2026-05-15T22:56:31.689949+07:00",
   "articles": [
+    {
+      "id": "b8e1dec6b9d0eecef96229bc12bb7f76",
+      "title": "Người đi bộ ngã gục sau khi xe tải tông gãy thanh chắn chiều cao",
+      "link": "https://tuoitre.vn/nguoi-di-bo-nga-guc-sau-khi-xe-tai-tong-gay-thanh-chan-chieu-cao-20260515154545308.htm",
+      "summary": "Một người đi bộ trên vỉa hè bất ngờ bị thanh chắn giới hạn chiều cao đổ trúng, sau khi xe tải tông vào tại một khu dân cư ở Trung Quốc. Vụ việc khiến nạn nhân ngã gục tại chỗ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.309851+07:00",
+      "fetched": "2026-05-15T22:56:23.309939+07:00"
+    },
+    {
+      "id": "2001c3a76ae94c2b91045e6542c794ec",
+      "title": "Nhiều nơi Nam Bộ đêm nay mưa dông sau ngày nóng bức",
+      "link": "https://tuoitre.vn/nhieu-noi-nam-bo-dem-nay-mua-dong-sau-ngay-nong-buc-20260515205855098.htm",
+      "summary": "Tối nay 15-5, mưa dông xảy ra ở nhiều nơi tại Nam Bộ, cơ quan khí tượng cho biết có nơi mưa lên tới 40mm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.309750+07:00",
+      "fetched": "2026-05-15T22:56:23.309842+07:00"
+    },
+    {
+      "id": "08ca8b921b946cd7e474441a1359c9d3",
+      "title": "Tạm giữ 2 anh em xông vào tiệm cắt tóc hành hung người mẹ ôm con nhỏ",
+      "link": "https://tuoitre.vn/tam-giu-2-anh-em-xong-vao-tiem-cat-toc-hanh-hung-nguoi-me-om-con-nho-20260515210312875.htm",
+      "summary": "Nghi chủ tiệm cắt tóc có quan hệ bất minh với bố mình, hai anh em Trần Trung Kiên và Trần Văn Cường tìm đến hành hung nạn nhân trước mặt trẻ nhỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.309647+07:00",
+      "fetched": "2026-05-15T22:56:23.309742+07:00"
+    },
+    {
+      "id": "9e7a240fac7c216e009e027c1b9c2a48",
+      "title": "Ra mắt thương hiệu Thiên Quân Land, công bố hơn 1.400 sản phẩm tại Cần Thơ",
+      "link": "https://tuoitre.vn/ra-mat-thuong-hieu-thien-quan-land-cong-bo-hon-1-400-san-pham-tai-can-tho-20260515211108973.htm",
+      "summary": "Chiều 15-5, Công ty CP Thiên Quân (Thiên Quân Group) tổ chức lễ công bố thương hiệu Thiên Quân Land và loạt dự án bất động sản quy mô lớn tại Cần Thơ, với sự tham dự của đại diện lãnh đạo UBND, các sở ngành và hiệp hội doanh nghiệp thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.309550+07:00",
+      "fetched": "2026-05-15T22:56:23.309639+07:00"
+    },
+    {
+      "id": "125a2be254e79ce2ae45b17433ffafc9",
+      "title": "Nhiều doanh nghiệp không biết mình gặp rủi ro về thuế cho đến khi bị thanh tra",
+      "link": "https://tuoitre.vn/nhieu-doanh-nghiep-khong-biet-minh-gap-rui-ro-ve-thue-cho-den-khi-bi-thanh-tra-20260515210542511.htm",
+      "summary": "Nhiều doanh nghiệp không biết mình gặp rủi ro về thuế cho đến ngày nhận quyết định thanh tra. Luật đang thay đổi rất nhanh và doanh nghiệp không thể làm theo kinh nghiệm cũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.309454+07:00",
+      "fetched": "2026-05-15T22:56:23.309542+07:00"
+    },
+    {
+      "id": "6816d33da2b8f44fd234bdd20e5e9e0b",
+      "title": "Sinh viên tìm ranh giới giữa sáng tạo và sai lệch lịch sử",
+      "link": "https://tuoitre.vn/sinh-vien-tim-ranh-gioi-giua-sang-tao-va-sai-lech-lich-su-20260515204355437.htm",
+      "summary": "Chiều 15-5, nhà sử học Dương Trung Quốc, Thiếu tướng Hồ Sỹ Hậu và nhà văn Hồ Bá Thược lần đầu  cùng ngồi trò chuyện với khoảng 400 sinh viên tại tọa đàm \"Trường Sơn: Ký ức lịch sử và sự tiếp nối\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.309354+07:00",
+      "fetched": "2026-05-15T22:56:23.309446+07:00"
+    },
+    {
+      "id": "b116d12c7be83b9fc20000c4b609cf27",
+      "title": "Bằng lăng nở tím rực góc phố Hà Nội",
+      "link": "https://tuoitre.vn/bang-lang-no-tim-ruc-goc-pho-ha-noi-20260515123039531.htm",
+      "summary": "Tháng 5, nhiều tuyến phố ở Hà Nội khoác lên mình sắc tím dịu dàng của hoa bằng lăng, thu hút đông đảo người dân và du khách dừng chân chụp ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.309227+07:00",
+      "fetched": "2026-05-15T22:56:23.309343+07:00"
+    },
+    {
+      "id": "4ecd54a1f04339454ab81aa37f58bb2d",
+      "title": "Thắng Trẻ PVF-CAND, CLB TP.HCM nuôi hy vọng lên V-League",
+      "link": "https://tuoitre.vn/thang-tre-pvf-cand-clb-tp-hcm-nuoi-hy-vong-len-v-league-20260515213137636.htm",
+      "summary": "Tối 15-5, CLB TP.HCM thắng 2-1 trước Trẻ PVF-CAND, vòng 19 Giải hạng nhất quốc gia Bia Sao Vàng 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.309112+07:00",
+      "fetched": "2026-05-15T22:56:23.309202+07:00"
+    },
+    {
+      "id": "75c2f0199285a6b5e364b1ffcc4fa8b2",
+      "title": "Đề nghị Bộ Công an xử lý việc mua bán mã số, làm sai lệch kết quả kiểm nghiệm nông sản, sầu riêng",
+      "link": "https://tuoitre.vn/de-nghi-bo-cong-an-xu-ly-viec-mua-ban-ma-so-lam-sai-lech-ket-qua-kiem-nghiem-nong-san-sau-rieng-20260515213612667.htm",
+      "summary": "Phó thủ tướng Hồ Quốc Dũng đề nghị Bộ Công an vào cuộc xử lý nghiêm các hành vi môi giới, mua bán, cho thuê mã số vùng trồng hoặc làm sai lệch kết quả kiểm nghiệm nông sản xuất khẩu, trong đó có sầu riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.309008+07:00",
+      "fetched": "2026-05-15T22:56:23.309103+07:00"
+    },
+    {
+      "id": "c4a5edfd3d9c495f4a9e3220d44752f0",
+      "title": "Khi câu chuyện về 'đam mê' được đặt lên bàn tranh biện, sinh viên nói gì?",
+      "link": "https://tuoitre.vn/khi-cau-chuyen-ve-dam-me-duoc-dat-len-ban-tranh-bien-sinh-vien-noi-gi-20260515164745255.htm",
+      "summary": "Giữa những lập luận sắc bén, “đam mê” trở thành những câu chuyện tuổi trẻ đầy suy ngẫm bằng kiến thức, tư duy và bản lĩnh, được cất lên từ tiếng nói sinh viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.308902+07:00",
+      "fetched": "2026-05-15T22:56:23.308999+07:00"
+    },
+    {
+      "id": "32e369b851cf51cc410cb79a10a9b745",
+      "title": "Ông Trump tiết lộ đã nói chuyện với ông Tập về Đài Loan, Bắc Kinh thông báo ông Tập sẽ thăm Mỹ",
+      "link": "https://tuoitre.vn/ong-trump-tiet-lo-da-noi-chuyen-voi-ong-tap-ve-dai-loan-bac-kinh-thong-bao-ong-tap-se-tham-my-20260515215449715.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã mời ông Tập đến Nhà Trắng vào ngày 24-9. Trên đường về nước, nhà lãnh đạo Mỹ tiết lộ một số thông tin khác đáng chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.308791+07:00",
+      "fetched": "2026-05-15T22:56:23.308893+07:00"
+    },
+    {
+      "id": "3402254e99a3897504f5b8db575a1131",
+      "title": "TP.HCM thành lập 5 công ty cấp nước công suất 800.000 m3/ngày đêm",
+      "link": "https://tuoitre.vn/tp-hcm-thanh-lap-5-cong-ty-cap-nuoc-cong-suat-800-000-m3-ngay-dem-20260515221638983.htm",
+      "summary": "Các công ty cấp nước được thành lập nhằm đảm bảo cung cấp nước cho gần 3 triệu người dân TP.HCM khu vực Bình Dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.308684+07:00",
+      "fetched": "2026-05-15T22:56:23.308781+07:00"
+    },
+    {
+      "id": "feacf37169f7265fde137a28fbbb88da",
+      "title": "Người đàn ông 63 tuổi bị xử phạt 7,5 triệu đồng vì bình luận xúc phạm cảnh sát giao thông",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-63-tuoi-bi-xu-phat-7-5-trieu-dong-vi-binh-luan-xuc-pham-canh-sat-giao-thong-20260515221822648.htm",
+      "summary": "Ông Đ.P. (63 tuổi) bị công an xử phạt 7,5 triệu đồng vì có hành vi bình luận bài viết có nội dung xúc phạm lực lượng cảnh sát giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.308573+07:00",
+      "fetched": "2026-05-15T22:56:23.308674+07:00"
+    },
+    {
+      "id": "bdffdd7cc83f0c27f482f231fa590a53",
+      "title": "Bắt giám đốc, kế toán trưởng vụ trốn thuế hơn 34 tỉ đồng ở Thanh Hóa",
+      "link": "https://tuoitre.vn/bat-giam-doc-ke-toan-truong-vu-tron-thue-hon-34-ti-dong-o-thanh-hoa-2026051522221398.htm",
+      "summary": "Ngày 15-5, Viện Kiểm sát nhân dân tỉnh Thanh Hóa cho biết vừa phê chuẩn quyết định khởi tố bị can, lệnh bắt tạm giam đối với Trịnh Thị Vân Anh và Nguyễn Thị Thanh Ngần về tội trốn thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.308447+07:00",
+      "fetched": "2026-05-15T22:56:23.308562+07:00"
+    },
+    {
+      "id": "0f676d691ffa5fdfe47a4af0b7c58d24",
+      "title": "Đang tăng mạnh, vì sao giá vàng và giá bạc bỗng giảm sâu?",
+      "link": "https://tuoitre.vn/dang-tang-manh-vi-sao-gia-vang-va-gia-bac-bong-giam-sau-20260515222348236.htm",
+      "summary": "Hôm nay, 15-5, có thể xem là một ngày “địa chấn” của giá vàng và giá bạc. Chỉ trong hơn một ngày, giá vàng có lúc đã giảm 200 USD/ounce, trong khi giá bạc mất đến 8,27%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T22:56:23.308185+07:00",
+      "fetched": "2026-05-15T22:56:23.308432+07:00"
+    },
     {
       "id": "11315ab5b551bd975a3eab7e0eacb554",
       "title": "Nhạc sĩ Nguyễn Văn Chung nói mình có vai diễn trong Ốc mượn hồn vì... đẹp",
@@ -303,6 +453,186 @@ window.newsData_2026_05_15 = {
       "fetched": "2026-05-15T17:12:17.129341+07:00"
     },
     {
+      "id": "1400457b6453d68d4586d9cd6c619f1f",
+      "title": "Những hình ảnh thú vị trong cuộc gặp thượng đỉnh Trung - Mỹ",
+      "link": "https://thanhnien.vn/nhung-hinh-anh-thu-vi-trong-cuoc-gap-thuong-dinh-trung-my-185260515211355849.htm",
+      "summary": "Chuyến thăm Trung Quốc của Tổng thống Mỹ Donald Trump, với điểm nhấn là cuộc hội đàm thượng đỉnh với Chủ tịch nước Trung Quốc Tập Cận Bình, vừa khép lại. Hãy cùng nhìn lại một số khoảnh khắc “ngoài lề” đáng chú ý trong sự kiện quan trọng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T15:53:00+07:00",
+      "fetched": "2026-05-15T22:56:21.648955+07:00"
+    },
+    {
+      "id": "b309ac0aa0144397cc0cd0a18659240d",
+      "title": "Khởi tố, bắt tạm giam giám đốc và kế toán nhà xe Vân Anh",
+      "link": "https://thanhnien.vn/khoi-to-bat-tam-giam-giam-doc-va-ke-toan-nha-xe-van-anh-185260515214636747.htm",
+      "summary": "Bà Trịnh Thị Vân Anh, Giám đốc Công ty TNHH du lịch và vận tải Vân Anh (nhà xe Vân Anh) và kế toán công ty này đã bị khởi tố, bắt tạm giam để điều tra về hành vi trốn thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T15:17:00+07:00",
+      "fetched": "2026-05-15T22:56:21.649103+07:00"
+    },
+    {
+      "id": "609fae789524b321dce5d4ceb51359a7",
+      "title": "'Hoa hậu của các hoa hậu' diện đầm Lê Thanh Hòa ở Cannes",
+      "link": "https://vnexpress.net/hoa-hau-cua-cac-hoa-hau-dien-dam-le-thanh-hoa-o-cannes-5074502.html",
+      "summary": "Isabella Menin - \"Hoa hậu của các hoa hậu 2022\" - tỏa sáng với đầm cảm hứng hoa lan đen của Lê Thanh Hòa tại Cannes 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T14:56:25+07:00",
+      "fetched": "2026-05-15T22:56:18.274969+07:00"
+    },
+    {
+      "id": "e3dbb25b0cc5e809b8232aecd61e00ae",
+      "title": "Vì sao đạo diễn Nguyễn Quang Dũng đồng hành suốt 3 mùa cuộc thi phim ngắn Vietnamese?",
+      "link": "https://thanhnien.vn/vi-sao-dao-dien-nguyen-quang-dung-dong-hanh-suot-3-mua-cuoc-thi-phim-ngan-vietnamese-185260515213056507.htm",
+      "summary": "Đạo diễn Nguyễn Quang Dũng là nhà làm phim gắn bó với cuộc thi phim ngắn Vietnamese từ mùa đầu tiên cho đến nay. Anh chia sẻ bản thân luôn sẵn sàng đồng hành, hỗ trợ các nhà làm phim trẻ trong hành trình theo đuổi điện ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T14:39:00+07:00",
+      "fetched": "2026-05-15T22:56:21.649237+07:00"
+    },
+    {
+      "id": "776b67ca6ff4f8113eaca3e9324a6984",
+      "title": "Tạm giữ 2 anh em đánh phụ nữ vì nghi quan hệ bất minh với bố mình",
+      "link": "https://thanhnien.vn/tam-giu-2-anh-em-danh-phu-nu-vi-nghi-quan-he-bat-minh-voi-bo-minh-185260515211256626.htm",
+      "summary": "Nghi ngờ bà chủ quán cắt tóc có quan hệ bất minh với bố mình, 2 anh em Kiên, Cường đã xông vào quán đánh 'dằn mặt' nạn nhân. Cả 2 đang bị Công an Hà Nội tạm giữ để điều tra tội gây rối trật tự công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T14:33:00+07:00",
+      "fetched": "2026-05-15T22:56:21.649386+07:00"
+    },
+    {
+      "id": "f5d35e97488be81f0df59fe7f6cac7cc",
+      "title": "Cục phó CSGT khẳng định không tăng mức phạt tiền khi sửa đổi Nghị định 168",
+      "link": "https://thanhnien.vn/cuc-pho-csgt-khang-dinh-khong-tang-muc-phat-tien-khi-sua-doi-nghi-dinh-168-185260515203020936.htm",
+      "summary": "Thượng tá Phạm Việt Công, Cục phó Cục CSGT, khẳng định quan điểm xuyên suốt trong quá trình xây dựng dự thảo sửa đổi Nghị định 168 theo hướng không nâng mức phạt tiền và không nâng mức trừ điểm đối với các vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T14:27:00+07:00",
+      "fetched": "2026-05-15T22:56:21.649512+07:00"
+    },
+    {
+      "id": "c099bc071d34f5b38103ae3761b84143",
+      "title": "Shopee bị phạt 200 triệu đồng vì cạnh tranh không lành mạnh",
+      "link": "https://vnexpress.net/shopee-bi-phat-200-trieu-dong-vi-canh-tranh-khong-lanh-manh-5074500.html",
+      "summary": "Quảng cáo chương trình miễn phí vận chuyển gây nhầm lẫn vào tháng 8/2025, Shopee bị Ủy ban Cạnh tranh Quốc gia xử phạt 200 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T14:22:43+07:00",
+      "fetched": "2026-05-15T22:56:18.275131+07:00"
+    },
+    {
+      "id": "c099bc071d34f5b38103ae3761b84143",
+      "title": "Shopee bị phạt 200 triệu đồng vì cạnh tranh không lành mạnh",
+      "link": "https://vnexpress.net/shopee-bi-phat-200-trieu-dong-vi-canh-tranh-khong-lanh-manh-5074500.html",
+      "summary": "Quảng cáo chương trình miễn phí vận chuyển gây nhầm lẫn vào tháng 8/2025, Shopee bị Ủy ban Cạnh tranh Quốc gia xử phạt 200 triệu đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-15T14:22:43+07:00",
+      "fetched": "2026-05-15T22:56:26.507479+07:00"
+    },
+    {
+      "id": "69742895f7cd177e813752bae870f4f2",
+      "title": "Bùi Đức Anh thay đổi ra sao sau khi giành 3 giải thưởng ở 'Vietnamese 2025'?",
+      "link": "https://thanhnien.vn/bui-duc-anh-thay-doi-ra-sao-sau-khi-gianh-3-giai-thuong-o-vietnamese-2025-185260515205313255.htm",
+      "summary": "Bùi Đức Anh - đạo diễn phim 'Mầm nhớ' từng thắng 3 giải tại cuộc thi phim ngắn Việt Nam - 'Vietnamese 2025' cho biết bản thân học hỏi thêm nhiều điều, trưởng thành hơn sau khi bước ra từ sân chơi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T14:20:00+07:00",
+      "fetched": "2026-05-15T22:56:21.649633+07:00"
+    },
+    {
+      "id": "893a2a1b425bab4d93f51953966b9e0d",
+      "title": "Tỷ phú Ratcliffe đồng ý gia hạn với Carrick",
+      "link": "https://vnexpress.net/ty-phu-ratcliffe-dong-y-gia-han-voi-carrick-5074508.html",
+      "summary": "Man Utd đạt thỏa thuận giữ Michael Carrick ở lại làm HLV dài hạn theo hợp đồng hai năm, sau khi được tỷ phú Jim Ratcliffe thông qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T14:18:17+07:00",
+      "fetched": "2026-05-15T22:56:18.275293+07:00"
+    },
+    {
+      "id": "893a2a1b425bab4d93f51953966b9e0d",
+      "title": "Tỷ phú Ratcliffe đồng ý gia hạn với Carrick",
+      "link": "https://vnexpress.net/ty-phu-ratcliffe-dong-y-gia-han-voi-carrick-5074508.html",
+      "summary": "Man Utd đạt thỏa thuận giữ Michael Carrick ở lại làm HLV dài hạn theo hợp đồng hai năm, sau khi được tỷ phú Jim Ratcliffe thông qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-15T14:18:17+07:00",
+      "fetched": "2026-05-15T22:56:31.679619+07:00"
+    },
+    {
+      "id": "eeb6e2d4770d441534f7f65e53f4a487",
+      "title": "TP.HCM và EU mở rộng hợp tác trong giai đoạn phát triển xanh, bền vững",
+      "link": "https://thanhnien.vn/tphcm-va-eu-mo-rong-hop-tac-trong-giai-doan-phat-trien-xanh-ben-vung-185260515204207059.htm",
+      "summary": "Tối 15.5, Sở Ngoại vụ TP.HCM tổ chức hoạt động đối ngoại nhân Ngày châu Âu với sự tham dự của lãnh đạo TP.HCM, Đại sứ Liên minh châu Âu tại Việt Nam cùng đại diện các cơ quan ngoại giao, doanh nghiệp châu Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T14:16:00+07:00",
+      "fetched": "2026-05-15T22:56:21.649755+07:00"
+    },
+    {
+      "id": "941ac8df559fb3e21f062d99111bc0f5",
+      "title": "Ngoại trưởng Araghchi: Iran không tin Mỹ",
+      "link": "https://vnexpress.net/ngoai-truong-araghchi-iran-khong-tin-my-5074496.html",
+      "summary": "Ngoại trưởng Iran Araghchi cho biết nước này \"không có niềm tin\" vào Mỹ và chỉ quan tâm đến việc đàm phán nếu Washington thực sự nghiêm túc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T14:15:00+07:00",
+      "fetched": "2026-05-15T22:56:18.275430+07:00"
+    },
+    {
+      "id": "941ac8df559fb3e21f062d99111bc0f5",
+      "title": "Ngoại trưởng Araghchi: Iran không tin Mỹ",
+      "link": "https://vnexpress.net/ngoai-truong-araghchi-iran-khong-tin-my-5074496.html",
+      "summary": "Ngoại trưởng Iran Araghchi cho biết nước này \"không có niềm tin\" vào Mỹ và chỉ quan tâm đến việc đàm phán nếu Washington thực sự nghiêm túc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-15T14:15:00+07:00",
+      "fetched": "2026-05-15T22:56:24.402674+07:00"
+    },
+    {
+      "id": "0781b81844f490a4be8d5f60724adf74",
+      "title": "Gần 90% người dân nước nào sống gần bờ biển?",
+      "link": "https://vnexpress.net/quoc-gia-co-gan-90-dan-so-song-gan-bo-bien-5074486.html",
+      "summary": "Khoảng 87% dân số nước này sống trong vòng 50 km từ bờ biển, tương đương 22 triệu người. Đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T14:12:00+07:00",
+      "fetched": "2026-05-15T22:56:18.275559+07:00"
+    },
+    {
+      "id": "60367c38655b3661cba7e257cecd0b7d",
+      "title": "Thiếu tướng Nguyễn Văn Hùng làm Chỉ huy trưởng Bộ Chỉ huy Quân sự An Giang",
+      "link": "https://thanhnien.vn/thieu-tuong-nguyen-van-hung-lam-chi-huy-truong-bo-chi-huy-quan-su-an-giang-185260515192146975.htm",
+      "summary": "Thiếu tướng Nguyễn Văn Hùng, Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Cà Mau, được điều động, bổ nhiệm giữ chức Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh An Giang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T14:09:00+07:00",
+      "fetched": "2026-05-15T22:56:21.649884+07:00"
+    },
+    {
+      "id": "1ae3d030725322839c040237a0ef773a",
+      "title": "Khởi tố 3 bị can mua bán vũ khí quân dụng qua mạng xã hội",
+      "link": "https://thanhnien.vn/khoi-to-3-bi-can-mua-ban-vu-khi-quan-dung-qua-mang-xa-hoi-185260515195336653.htm",
+      "summary": "Trong quá trình điều tra vụ mua bán trái phép vũ khí quân dụng của 3 bị can, Công an thành phố Cần Thơ thu giữ 4 khẩu súng, hàng ngàn viên bi sắt cùng nhiều linh kiện khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T14:04:00+07:00",
+      "fetched": "2026-05-15T22:56:21.650004+07:00"
+    },
+    {
+      "id": "08a5151e6233449e979216f0ab24f544",
+      "title": "Hối tiếc vì dành 20 cây vàng xây nhà cho ba má và chia tay bạn gái",
+      "link": "https://vnexpress.net/hoi-tiec-vi-danh-20-cay-vang-xay-nha-cho-ba-ma-va-chia-tay-ban-gai-5074413.html",
+      "summary": "Nhiều năm trôi qua, tôi mới hiểu: đôi khi sự hiếu thảo thiếu tỉnh táo có thể khiến một người đánh mất hạnh phúc đời mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T14:00:00+07:00",
+      "fetched": "2026-05-15T22:56:18.275693+07:00"
+    },
+    {
       "id": "9b2da9a96613d2e205a8438eee26e243",
       "title": "Thượng đỉnh Trung - Mỹ: Quản trị rủi ro hơn là giải quyết dứt điểm",
       "link": "https://tuoitre.vn/thuong-dinh-trung-my-quan-tri-rui-ro-hon-la-giai-quyet-dut-diem-20260515092519207.htm",
@@ -453,6 +783,56 @@ window.newsData_2026_05_15 = {
       "fetched": "2026-05-15T13:50:33.750308+07:00"
     },
     {
+      "id": "117032eab90687e71ce40285fc2fe4d9",
+      "title": "Báo Thanh Niên khởi động cuộc thi phim ngắn Việt Nam - Vietnamese mùa 3",
+      "link": "https://thanhnien.vn/bao-thanh-nien-khoi-dong-cuoc-thi-phim-ngan-viet-nam-vietnamese-mua-3-185260515204422795.htm",
+      "summary": "Sau 2 mùa tổ chức tạo được dấu ấn và sức lan tỏa trong cộng đồng làm phim trẻ, cuộc thi phim ngắn Việt Nam - Vietnamese chính thức trở lại và nhận bài dự thi từ ngày 16.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T13:50:00+07:00",
+      "fetched": "2026-05-15T22:56:21.650123+07:00"
+    },
+    {
+      "id": "8caad6db067ef06043389d05838922a1",
+      "title": "Cục An ninh mạng: Phạt nghiêm việc dùng AI và Deepfake tạo, phát tán tin giả",
+      "link": "https://thanhnien.vn/cuc-an-ninh-mang-phat-nghiem-viec-dung-ai-va-deepfake-tao-phat-tan-tin-gia-185260515195701946.htm",
+      "summary": "Cơ quan soạn thảo Nghị định xử phạt vi phạm hành chính trong lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân dự kiến bổ sung nhiều quy định nhằm xử lý nghiêm các hành vi lợi dụng công nghệ AI và Deepfake để tạo, phát tán thông tin sai sự thật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T13:48:00+07:00",
+      "fetched": "2026-05-15T22:56:21.650243+07:00"
+    },
+    {
+      "id": "e621428ad1f2e315cce01c7c2784e20b",
+      "title": "CSGT TP.HCM ra quân cao điểm: Hàng chục xe khách bị xử lý trong một buổi chiều",
+      "link": "https://thanhnien.vn/csgt-tphcm-ra-quan-cao-diem-hang-chuc-xe-khach-bi-xu-ly-trong-mot-buoi-chieu-18526051520375212.htm",
+      "summary": "Chỉ trong buổi chiều thực hiện tổng ra quân lập lại trật tự an toàn giao thông, kéo giảm tai nạn trên tuyến đảm trách, Đội CSGT Rạch Chiếc (Phòng CSGT Công an TP.HCM) đã xử lý hàng chục xe khách với nhiều hành vi khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T13:45:00+07:00",
+      "fetched": "2026-05-15T22:56:21.650382+07:00"
+    },
+    {
+      "id": "e5bf8f82003e8711baebb266ae29ba61",
+      "title": "Hội Doanh nghiệp trẻ Hà Nội đón nhận bằng khen của Chính phủ",
+      "link": "https://thanhnien.vn/hoi-doanh-nghiep-tre-ha-noi-don-nhan-bang-khen-cua-chinh-phu-185260515201225549.htm",
+      "summary": "Tại Đại hội đại biểu Hội Doanh nghiệp trẻ Hà Nội lần thứ IX, anh Bùi Quang Huy, Ủy viên T.Ư Đảng, Phó chủ tịch Ủy ban T.Ư Mặt trận Tổ quốc Việt Nam, Bí thư thứ nhất T.Ư Đoàn, đã trao bằng khen của Chính phủ tặng Hội Doanh nhân trẻ Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T13:45:00+07:00",
+      "fetched": "2026-05-15T22:56:21.650501+07:00"
+    },
+    {
+      "id": "fcf25d3489d9c8f5b0b13afe67d26e37",
+      "title": "65 người chết vì ổ dịch Ebola mới, châu Phi họp khẩn",
+      "link": "https://thanhnien.vn/65-nguoi-chet-vi-o-dich-ebola-moi-chau-phi-hop-khan-185260515191514244.htm",
+      "summary": "Trung tâm Kiểm soát và Phòng ngừa dịch bệnh châu Phi (Africa CDC) xác nhận một đợt bùng phát dịch Ebola tại tỉnh Ituri (đông bắc CHDC Congo) với 65 ca tử vong trong số 246 trường hợp nghi nhiễm được ghi nhận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T13:43:00+07:00",
+      "fetched": "2026-05-15T22:56:21.650616+07:00"
+    },
+    {
       "id": "528146b6abc7ccabbd39de091331c6b0",
       "title": "Nghệ sĩ Việt Hương lên tiếng sau thông tin 511 mỹ phẩm bị thu hồi",
       "link": "https://thanhnien.vn/nghe-si-viet-huong-len-tieng-sau-thong-tin-511-my-pham-bi-thu-hoi-185260515203820837.htm",
@@ -461,6 +841,16 @@ window.newsData_2026_05_15 = {
       "category": "Tổng hợp",
       "published": "2026-05-15T13:38:00+07:00",
       "fetched": "2026-05-15T20:42:44.451893+07:00"
+    },
+    {
+      "id": "a5461eb1bcb60e7fdfcfbc43342b5296",
+      "title": "Ca sĩ Will trở lại ca hát",
+      "link": "https://vnexpress.net/ca-si-will-tro-lai-ca-hat-5074467.html",
+      "summary": "Will, cựu thành viên nhóm 365, trở lại ca hát khi tham gia show \"Anh trai vượt ngàn chông gai 2026\", sau 5 năm im ắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T13:37:17+07:00",
+      "fetched": "2026-05-15T22:56:18.275823+07:00"
     },
     {
       "id": "1502ef13d0229f7e9559f570aa1c51b9",
@@ -513,6 +903,16 @@ window.newsData_2026_05_15 = {
       "fetched": "2026-05-15T20:42:44.452536+07:00"
     },
     {
+      "id": "1fb27acf5af9c72197f25ef94a976fce",
+      "title": "Bùi Đình Khánh: 'Bản án tử hình là thích đáng'",
+      "link": "https://vnexpress.net/bui-dinh-khanh-ban-an-tu-hinh-la-thich-dang-5074491.html",
+      "summary": "Nói lời sau cùng, Bùi Đình Khánh không xin giảm án cho bản thân, cho rằng mức án dành cho mình là thích đáng với hành vi đặc biệt nghiêm trọng đã gây ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T13:18:47+07:00",
+      "fetched": "2026-05-15T22:56:18.276075+07:00"
+    },
+    {
       "id": "1003ad55d2691aa2db2c1b11ccee49e0",
       "title": "Đề thi thử tốt nghiệp THPT môn Toán của tỉnh Bắc Ninh",
       "link": "https://vnexpress.net/24-ma-de-thi-thu-tot-nghiep-thpt-mon-toan-tinh-bac-ninh-2026-kem-dap-an-chi-tiet-5073958.html",
@@ -521,6 +921,16 @@ window.newsData_2026_05_15 = {
       "category": "Tổng hợp",
       "published": "2026-05-15T13:18:00+07:00",
       "fetched": "2026-05-15T20:42:41.368482+07:00"
+    },
+    {
+      "id": "808fb0247f6721706d1a376a0cd2fb3e",
+      "title": "Đề thi thử tốt nghiệp THPT môn Toán của tỉnh Bắc Ninh",
+      "link": "https://vnexpress.net/24-ma-de-thi-thu-tot-nghiep-thpt-mon-toan-2026-tinh-bac-ninh-kem-dap-an-chi-tiet-5073958.html",
+      "summary": "Đề thi thử Toán tốt nghiệp THPT 2026 của Bắc Ninh có 34 câu hỏi, thuộc ba dạng trắc nghiệm, trong đó có nhiều bài Toán thực tế, như tính xác suất để lấy được bóng đúng màu, khoảng cách giữa các cột điện...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T13:18:00+07:00",
+      "fetched": "2026-05-15T22:56:18.276201+07:00"
     },
     {
       "id": "2afa807353a5616f22cde7e7d504abd7",
