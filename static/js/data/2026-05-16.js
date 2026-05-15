@@ -1,7 +1,17 @@
 window.newsData_2026_05_16 = {
   "date": "2026-05-16",
-  "lastUpdated": "2026-05-16T00:23:03.991010+07:00",
+  "lastUpdated": "2026-05-16T02:17:27.556317+07:00",
   "articles": [
+    {
+      "id": "331475e8d37271f505cca92119e5a053",
+      "title": "Đại sứ EU: Việt Nam có nhiều hiệp định với EU hơn bất kỳ nước nào trong khu vực",
+      "link": "https://tuoitre.vn/dai-su-eu-viet-nam-co-nhieu-hiep-dinh-voi-eu-hon-bat-ky-nuoc-nao-trong-khu-vuc-20260515223626975.htm",
+      "summary": "Đại sứ Julien Guerrier đánh giá Việt Nam hiện là quốc gia có nhiều hiệp định với Liên minh châu Âu hơn bất kỳ nước nào trong khu vực ASEAN, cho thấy mức độ gắn kết ngày càng sâu rộng giữa hai bên trong thương mại, đầu tư và phát triển bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T02:17:20.819587+07:00",
+      "fetched": "2026-05-16T02:17:20.819814+07:00"
+    },
     {
       "id": "b8e1dec6b9d0eecef96229bc12bb7f76",
       "title": "Người đi bộ ngã gục sau khi xe tải tông gãy thanh chắn chiều cao",
@@ -151,6 +161,116 @@ window.newsData_2026_05_16 = {
       "category": "Tổng hợp",
       "published": "2026-05-16T00:22:54.412947+07:00",
       "fetched": "2026-05-16T00:22:54.413170+07:00"
+    },
+    {
+      "id": "01c928fae7a6dc8a284a1ab9d1cd9ef8",
+      "title": "Thịt, cá hay đậu hũ: Đâu là nguồn đạm tốt hơn cho huyết áp?",
+      "link": "https://thanhnien.vn/thit-ca-hay-dau-hu-dau-la-nguon-dam-tot-hon-cho-huyet-ap-18526051602001487.htm",
+      "summary": "Gần một nửa người trưởng thành bị huyết áp cao, làm tăng nguy cơ đau tim và đột quỵ nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T19:00:00+07:00",
+      "fetched": "2026-05-16T02:17:19.947079+07:00"
+    },
+    {
+      "id": "1e0cf7c30608548b8b980006dfa62684",
+      "title": "4 dấu hiệu cảnh báo đau tim khi tập thể dục nhiều người dễ bỏ qua",
+      "link": "https://thanhnien.vn/4-dau-hieu-canh-bao-dau-tim-khi-tap-the-duc-nhieu-nguoi-de-bo-qua-185260514141434415.htm",
+      "summary": "Tập thể dục là một trong những cách bảo vệ tim mạch hiệu quả nhất. Nhưng trong một số trường hợp hiếm gặp, vận động cường độ cao có thể làm lộ ra các vấn đề tim mạch tiềm ẩn như bệnh mạch vành, rối loạn nhịp tim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T18:42:00+07:00",
+      "fetched": "2026-05-16T02:17:19.947279+07:00"
+    },
+    {
+      "id": "306a04bb4a39bc6182f9881cd7b511a5",
+      "title": "U.17 Nhật Bản mạnh vượt trội, thắng cực đậm Tajikistan: Dễ dàng vào bán kết U.17 châu Á",
+      "link": "https://thanhnien.vn/u17-nhat-ban-manh-vuot-troi-thang-cuc-dam-tajikistan-de-dang-vao-ban-ket-u17-chau-a-185260516005159971.htm",
+      "summary": "U.17 Nhật Bản tiếp tục thể hiện sức mạnh vượt trội khi đánh bại U.17 Tajikistan 5-0 ở tứ kết U.17 châu Á 2026 bằng lối chơi kỷ luật, tốc độ và đầy biến hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T18:20:00+07:00",
+      "fetched": "2026-05-16T02:17:19.947441+07:00"
+    },
+    {
+      "id": "41287e9d60781c3f427f2c4eb9742a9b",
+      "title": "Tính năng cho phép siêu tên lửa Nga bay vòng quanh Trái Đất",
+      "link": "https://vnexpress.net/tinh-nang-cho-phep-sieu-ten-lua-nga-bay-vong-quanh-trai-dat-5073857.html",
+      "summary": "Tên lửa xuyên lục địa Sarmat có thể ứng dụng quỹ đạo thấp, giúp tăng tầm bắn lên hơn 35.000 km và vươn tới mọi địa điểm trên Trái Đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T18:00:00+07:00",
+      "fetched": "2026-05-16T02:17:17.249646+07:00"
+    },
+    {
+      "id": "bf85503a7d4d9e51ad94ad7cbdfe95a2",
+      "title": "Giải pháp 'thuận thiên' giải độc cadimi cho sầu riêng",
+      "link": "https://vnexpress.net/giai-phap-thuan-thien-giai-doc-cadimi-cho-sau-rieng-5072754.html",
+      "summary": "Trồng xen cây hấp thụ cadimi, nâng pH đất, bón phân hữu cơ, dùng chế phẩm vi sinh là những giải pháp sinh học giúp giảm độc cho sầu riêng, theo Viện Cây ăn quả miền Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T18:00:00+07:00",
+      "fetched": "2026-05-16T02:17:17.249830+07:00"
+    },
+    {
+      "id": "3ac54e85bc06ffd9a29f946476122306",
+      "title": "7 thực phẩm nên dùng thường xuyên sau tuổi 60",
+      "link": "https://vnexpress.net/7-thuc-pham-nen-dung-thuong-xuyen-sau-tuoi-60-5072630.html",
+      "summary": "Ăn cá béo, rau xanh, các loại hạt, đậu, hay ngũ cốc nguyên hạt thường xuyên sau tuổi 60 góp phần duy trì sức khỏe tim mạch, trí não và hỗ trợ sống thọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T18:00:00+07:00",
+      "fetched": "2026-05-16T02:17:17.250003+07:00"
+    },
+    {
+      "id": "41287e9d60781c3f427f2c4eb9742a9b",
+      "title": "Tính năng cho phép siêu tên lửa Nga bay vòng quanh Trái Đất",
+      "link": "https://vnexpress.net/tinh-nang-cho-phep-sieu-ten-lua-nga-bay-vong-quanh-trai-dat-5073857.html",
+      "summary": "Tên lửa xuyên lục địa Sarmat có thể ứng dụng quỹ đạo thấp, giúp tăng tầm bắn lên hơn 35.000 km và vươn tới mọi địa điểm trên Trái Đất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-15T18:00:00+07:00",
+      "fetched": "2026-05-16T02:17:22.107004+07:00"
+    },
+    {
+      "id": "8c7792ea55c0246c6d979ca57e5d5a3d",
+      "title": "Lịch thi đấu U.17 Việt Nam - U.17 Úc kịch tính hôm nay: Cuộc đua thể lực khốc liệt",
+      "link": "https://thanhnien.vn/lich-thi-dau-u17-viet-nam-u17-uc-kich-tinh-hom-nay-cuoc-dua-the-luc-khoc-liet-185260515221401666.htm",
+      "summary": "Từng đánh bại U.17 Úc ở giải U.17 Đông Nam Á 2026, U.17 VN tự tin sẽ tái hiện chiến thắng trong màn so tài lúc 0 giờ ngày 17.5 để mở toang cánh cửa vào bán kết giải U.17 châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:23:00+07:00",
+      "fetched": "2026-05-16T02:17:19.947596+07:00"
+    },
+    {
+      "id": "6e2c3360f4ef7c60f51db47d526e3729",
+      "title": "Giông lốc quật bể kính, hất đổ tủ tiệm vàng ở Đăk Lăk",
+      "link": "https://vnexpress.net/giong-loc-quat-be-kinh-hat-do-tu-tiem-vang-o-dak-lak-5074528.html",
+      "summary": "Anh Thanh Long kể giông lốc ập đến quá nhanh khiến tiệm không kịp đóng cửa, gió cuốn hai tủ vàng ra đường khiến nhiều trang sức rơi vãi, trôi theo nước mưa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:21:22+07:00",
+      "fetched": "2026-05-16T02:17:17.250192+07:00"
+    },
+    {
+      "id": "b6ec116c2c3e6ca78519a4dc6de7baf9",
+      "title": "Bộ bát đĩa Trung Quốc sử dụng trong quốc yến thết đãi ông Trump",
+      "link": "https://vnexpress.net/bo-bat-dia-trung-quoc-su-dung-trong-quoc-yen-thet-dai-ong-trump-5074373.html",
+      "summary": "Bát đĩa mà Trung Quốc sử dụng trong tiệc chiêu đãi phái đoàn Mỹ được sản xuất tại lò gốm Cảnh Đức Trấn nổi tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:13:44+07:00",
+      "fetched": "2026-05-16T02:17:17.250355+07:00"
+    },
+    {
+      "id": "b6ec116c2c3e6ca78519a4dc6de7baf9",
+      "title": "Bộ bát đĩa Trung Quốc sử dụng trong quốc yến thết đãi ông Trump",
+      "link": "https://vnexpress.net/bo-bat-dia-trung-quoc-su-dung-trong-quoc-yen-thet-dai-ong-trump-5074373.html",
+      "summary": "Bát đĩa mà Trung Quốc sử dụng trong tiệc chiêu đãi phái đoàn Mỹ được sản xuất tại lò gốm Cảnh Đức Trấn nổi tiếng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-15T17:13:44+07:00",
+      "fetched": "2026-05-16T02:17:22.107206+07:00"
     },
     {
       "id": "39b67b4e62c41e4714afec64737da588",
@@ -351,6 +471,16 @@ window.newsData_2026_05_16 = {
       "category": "Tổng hợp",
       "published": "2026-05-15T17:00:00+07:00",
       "fetched": "2026-05-16T00:22:53.210533+07:00"
+    },
+    {
+      "id": "3febb3ab467aa370e3c92fce5f184f1b",
+      "title": "Arteta: 'Arsenal lẽ ra đã có vài danh hiệu lớn'",
+      "link": "https://vnexpress.net/arteta-arsenal-le-ra-da-co-vai-danh-hieu-lon-5074512.html",
+      "summary": "HLV Mikel Arteta cho rằng Arsenal xứng đáng giành nhiều danh hiệu lớn sau những gì đã xây dựng trong vài năm qua, đồng thời khẳng định đội bóng đang ở rất gần chức vô địch Ngoại hạng Anh mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-15T17:00:00+07:00",
+      "fetched": "2026-05-16T02:17:27.551543+07:00"
     },
     {
       "id": "6d1588ad738a28b4ac6de7fc61e4413f",
