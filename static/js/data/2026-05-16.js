@@ -1,7 +1,157 @@
 window.newsData_2026_05_16 = {
   "date": "2026-05-16",
-  "lastUpdated": "2026-05-16T17:54:51.901351+07:00",
+  "lastUpdated": "2026-05-16T19:58:55.210124+07:00",
   "articles": [
+    {
+      "id": "87a704c9ee25ebf3874ec4a7554cc5de",
+      "title": "Xử phạt tài xế xe đầu kéo biển số TP.HCM tông gãy cần chắn đường sắt ở Khánh Hòa",
+      "link": "https://tuoitre.vn/xu-phat-tai-xe-xe-dau-keo-bien-so-tp-hcm-tong-gay-can-chan-duong-sat-o-khanh-hoa-20260516162225568.htm",
+      "summary": "Cảnh sát giao thông đã lập biên bản xử phạt đối với tài xế lái xe đầu kéo tông gãy cần chắn đường sắt đoạn qua tỉnh Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.388493+07:00",
+      "fetched": "2026-05-16T19:58:47.388579+07:00"
+    },
+    {
+      "id": "43fa57c7e59b285df1a76178cc9cd659",
+      "title": "Dự báo giá vàng, giá bạc sẽ phục hồi trong tuần tới",
+      "link": "https://tuoitre.vn/du-bao-gia-vang-gia-bac-se-phuc-hoi-trong-tuan-toi-20260516170556829.htm",
+      "summary": "Kết thúc tuần giao dịch, giá vàng thế giới ở mức 4.541,2 USD, giảm 111,8 USD/ounce so với phiên trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.388398+07:00",
+      "fetched": "2026-05-16T19:58:47.388485+07:00"
+    },
+    {
+      "id": "ce89c9d94b4af9bb1d8a5c3825203d00",
+      "title": "TP.HCM và bạn bè quốc tế khánh thành 'Vườn cây Hữu nghị'",
+      "link": "https://tuoitre.vn/tp-hcm-va-ban-be-quoc-te-khanh-thanh-vuon-cay-huu-nghi-20260516170013736.htm",
+      "summary": "Ngày 16-5, tại phường Phú An, TP.HCM, lãnh đạo các cơ quan, đơn vị của thành phố cùng bạn bè quốc tế tham dự lễ phát động phong trào trồng cây và khánh thành 'Vườn cây Hữu nghị'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.388302+07:00",
+      "fetched": "2026-05-16T19:58:47.388390+07:00"
+    },
+    {
+      "id": "4f1b1247ecdd0f36ab7d8fe9820f1d45",
+      "title": "Tham quan, học tập tại Không gian văn hóa Hồ Chí Minh ở Đường sách Thành phố Thủ Đức",
+      "link": "https://tuoitre.vn/tham-quan-hoc-tap-tai-khong-gian-van-hoa-ho-chi-minh-o-duong-sach-thanh-pho-thu-duc-20260516162747022.htm",
+      "summary": "Tiến tới kỷ niệm 136 năm ngày sinh của Bác và 115 năm ngày Bác Hồ ra đi tìm đường cứu nước, nhiều hoạt động sôi nổi được tổ chức tại Đường sách Thành phố Thủ Đức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.388201+07:00",
+      "fetched": "2026-05-16T19:58:47.388290+07:00"
+    },
+    {
+      "id": "eee6887e5b9d540aaab5915b3c687c08",
+      "title": "Chủ tịch Gia Lai chỉ đạo xử lý triệt để nạn sơ chế mực xà gây ô nhiễm",
+      "link": "https://tuoitre.vn/chu-tich-gia-lai-chi-dao-xu-ly-triet-de-nan-so-che-muc-xa-gay-o-nhiem-202605161705402.htm",
+      "summary": "Trước tình trạng ô nhiễm môi trường nghiêm trọng tại các cơ sở sơ chế mực xà ở xã Đề Gi, Chủ tịch UBND tỉnh Gia Lai yêu cầu chính quyền xã, Công an tỉnh và các cơ quan chức năng vào cuộc xử lý dứt điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.388088+07:00",
+      "fetched": "2026-05-16T19:58:47.388176+07:00"
+    },
+    {
+      "id": "19157dacd8635a46e1e1f57e0060ac5e",
+      "title": "Xe buýt cháy rụi sau khi va chạm với tàu hỏa ở Bangkok, 8 người thiệt mạng",
+      "link": "https://tuoitre.vn/xe-buyt-chay-rui-sau-khi-va-cham-voi-tau-hoa-o-bangkok-8-nguoi-thiet-mang-20260516172806121.htm",
+      "summary": "Một vụ tai nạn nghiêm trọng đã xảy ra vào chiều 16-5 tại Bangkok, Thái Lan, khiến 8 người thiệt mạng và 15 người khác bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.387987+07:00",
+      "fetched": "2026-05-16T19:58:47.388079+07:00"
+    },
+    {
+      "id": "3b1917eb9bf6955b59e73b967aa8ee67",
+      "title": "687 cán bộ xã, phường TP.HCM hoàn thành tập huấn chuyên sâu về chuyển đổi số",
+      "link": "https://tuoitre.vn/687-can-bo-xa-phuong-tp-hcm-hoan-thanh-tap-huan-chuyen-sau-ve-chuyen-doi-so-20260516171634984.htm",
+      "summary": "Ngày 16-5, Học viện Cán bộ TP.HCM bế giảng chương trình tập huấn, bồi dưỡng nâng cao kiến thức, kỹ năng cho cán bộ phụ trách công tác tham mưu chuyển đổi số, công nghệ thông tin tại các cơ quan khối Đảng, mặt trận và cấp xã, phường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.387889+07:00",
+      "fetched": "2026-05-16T19:58:47.387979+07:00"
+    },
+    {
+      "id": "175b769e3227deee8039e2ee95f08072",
+      "title": "Vì sao IP Business trở thành cuộc chơi lớn tiếp theo của ngành giải trí?",
+      "link": "https://tuoitre.vn/vi-sao-ip-business-tro-thanh-cuoc-choi-lon-tiep-theo-cua-nganh-giai-tri-20260516162537464.htm",
+      "summary": "Không dừng ở việc sản xuất chương trình hay bán quảng cáo, ngành giải trí toàn cầu đang bước vào cuộc đua sở hữu IP và khai thác fandom như một nền kinh tế tiêu dùng mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.387787+07:00",
+      "fetched": "2026-05-16T19:58:47.387880+07:00"
+    },
+    {
+      "id": "9cba9445b3b3dda14d362d9d8f6dd6b6",
+      "title": "Nước sông Vàm Cỏ Đông 'đến hẹn lại đen', địa phương nói gì?",
+      "link": "https://tuoitre.vn/nuoc-song-vam-co-dong-den-hen-lai-den-dia-phuong-noi-gi-20260516174242626.htm",
+      "summary": "Ngày 16-5, thông tin từ Sở Nông nghiệp và Môi trường tỉnh Tây Ninh cho biết đã phối hợp với các đơn vị liên quan kiểm tra tình trạng nước trên sông Vàm Cỏ Đông và một số rạch, kênh dẫn nước bị chuyển thành màu đen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.387675+07:00",
+      "fetched": "2026-05-16T19:58:47.387778+07:00"
+    },
+    {
+      "id": "e180e929ced15132c7f5573594e361c7",
+      "title": "UBND tỉnh Vĩnh Long chỉ đạo kiểm tra thông tin về vườn chim Hai Chìa",
+      "link": "https://tuoitre.vn/ubnd-tinh-vinh-long-chi-dao-kiem-tra-thong-tin-ve-vuon-chim-hai-chia-20260516175301874.htm",
+      "summary": "Bất lực trước nạn săn bắt chim, cò kéo dài, lão nông Hai Chìa ở Vĩnh Long dự định đốn bỏ khu vườn từng là nơi trú ngụ của hàng ngàn chim trời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.387555+07:00",
+      "fetched": "2026-05-16T19:58:47.387665+07:00"
+    },
+    {
+      "id": "ed3e840404e88650a28e80b4188d0d93",
+      "title": "AFC có động thái 'ưu ái' U17 Việt Nam trước trận tứ kết",
+      "link": "https://tuoitre.vn/afc-co-dong-thai-uu-ai-u17-viet-nam-truoc-tran-tu-ket-20260516175227975.htm",
+      "summary": "Chỉ vài giờ trước thềm trận đấu cuối cùng vòng tứ kết Giải U17 châu Á 2026 giữa Việt Nam và Úc, Liên đoàn Bóng đá châu Á (AFC) đã dành tặng lời chúc đặc biệt cho thầy trò ông Cristiano Roland.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.387451+07:00",
+      "fetched": "2026-05-16T19:58:47.387545+07:00"
+    },
+    {
+      "id": "ef7b7e617df73143c5510c3fe119127f",
+      "title": "Nhà Trắng náo loạn vì... hàng ngàn con ong",
+      "link": "https://tuoitre.vn/nha-trang-nao-loan-vi-hang-ngan-con-ong-20260516173656007.htm",
+      "summary": "Một phen náo loạn đã xảy ra tại Nhà Trắng khi hàng ngàn con ong bất ngờ tụ thành đàn lớn bủa vây thảm cỏ phía Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.387345+07:00",
+      "fetched": "2026-05-16T19:58:47.387442+07:00"
+    },
+    {
+      "id": "152bc0ec942c7eee5bd34d43f1f55635",
+      "title": "Bộ Công an: Nghiêm khắc xử lý việc dùng AI, deepfake phát tán tin sai sự thật",
+      "link": "https://tuoitre.vn/bo-cong-an-nghiem-khac-xu-ly-viec-dung-ai-deepfake-phat-tan-tin-sai-su-that-20260516173101964.htm",
+      "summary": "Thượng tá Triệu Mạnh Tùng khẳng định đối với các hành vi xâm phạm dữ liệu cá nhân, mức xử phạt sẽ được áp dụng ở mức rất cao theo thông lệ quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.387230+07:00",
+      "fetched": "2026-05-16T19:58:47.387335+07:00"
+    },
+    {
+      "id": "30672c4bc15669ae14ce8182386d1cfa",
+      "title": "Giao lưu văn hóa Việt - Đài, lan tỏa giá trị nhân văn tại TP.HCM",
+      "link": "https://tuoitre.vn/giao-luu-van-hoa-viet-dai-lan-toa-gia-tri-nhan-van-tai-tp-hcm-20260516173822667.htm",
+      "summary": "Văn phòng Kinh tế và Văn hóa Đài Bắc TP.HCM tổ chức Ngày Trải nghiệm văn hóa và hoạt động hỗ trợ nạn nhân chất độc da cam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.387105+07:00",
+      "fetched": "2026-05-16T19:58:47.387220+07:00"
+    },
+    {
+      "id": "8944c08d1c2df7566c5bef4767e5f92b",
+      "title": "Cơ hội cho đổi thay giáo dục đại học",
+      "link": "https://tuoitre.vn/co-hoi-cho-doi-thay-giao-duc-dai-hoc-20260516155816287.htm",
+      "summary": "Các chuyên gia cho rằng phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Đại học Quốc gia Hà Nội là cú hích lớn cho giáo dục đại học Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:58:47.386850+07:00",
+      "fetched": "2026-05-16T19:58:47.387091+07:00"
+    },
     {
       "id": "66405394f53fd58e209784f3dec9e470",
       "title": "Công an và người dân rộn ràng thi giã bánh dày, nấu cỗ tại ngày hội 'Vì bình yên bản làng'",
@@ -453,6 +603,286 @@ window.newsData_2026_05_16 = {
       "fetched": "2026-05-16T13:14:41.382714+07:00"
     },
     {
+      "id": "c37ed858cf23f1ecea0d7dcb0de0df27",
+      "title": "Hành trình âm nhạc và độ nổi tiếng của Quang Lập bolero",
+      "link": "https://thanhnien.vn/hanh-trinh-am-nhac-va-do-noi-tieng-cua-quang-lap-bolero-185260516195602712.htm",
+      "summary": "Trước khi bị khởi tố, ca sĩ Quang Lập là giọng ca bolero được khán giả yêu thích, sở hữu kênh YouTube hơn 1 triệu lượt đăng ký và trang Fanpage có 2,5 triệu lượt theo dõi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:58:00+07:00",
+      "fetched": "2026-05-16T19:58:46.315794+07:00"
+    },
+    {
+      "id": "aeaf1cd7f98c930463b684a2ceead05f",
+      "title": "Xác định đội bóng đầu tiên vào bán kết giải bóng chuyền nữ quốc tế VTV9-Bình Điền",
+      "link": "https://thanhnien.vn/xac-dinh-doi-bong-dau-tien-vao-ban-ket-giai-bong-chuyen-nu-quoc-te-vtv9-binh-dien-185260516190709648.htm",
+      "summary": "Giải bóng chuyền nữ quốc tế VTV9 - Bình Điền 2026 tại nhà thi đấu tỉnh Tây Ninh đã định đội bóng đầu tiên đoạt vé vào vòng bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:58:00+07:00",
+      "fetched": "2026-05-16T19:58:46.315950+07:00"
+    },
+    {
+      "id": "b438ece4578c47889ce6bebcde2828dd",
+      "title": "Công Phượng cùng Minh Vương tạo 2 siêu phẩm đá phạt: Trường Tươi Đồng Nai thắng đậm",
+      "link": "https://thanhnien.vn/cong-phuong-cung-minh-vuong-tao-2-sieu-pham-da-phat-truong-tuoi-dong-nai-thang-dam-185260516182620807.htm",
+      "summary": "Tối 16.5, rất nhiều tin vui đến với người hâm mộ Trường Tươi Đồng Nai khi đội bóng 'con cưng' giành chiến thắng 3-0 trước Đại học Văn Hiến và ngôi sao sáng nhất Nguyễn Công Phượng trở lại ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:57:00+07:00",
+      "fetched": "2026-05-16T19:58:46.316079+07:00"
+    },
+    {
+      "id": "101359fc2e69fad3bae6ed4140c30adf",
+      "title": "Đạo diễn Hàm Trần: Kể câu chuyện càng thật, càng riêng thì càng chạm đến khán giả",
+      "link": "https://thanhnien.vn/dao-dien-ham-tran-ke-cau-chuyen-cang-that-cang-rieng-thi-cang-cham-den-khan-gia-18526051619405554.htm",
+      "summary": "Đó là quan điểm được đạo diễn Hàm Trần chia sẻ với các nhà làm phim trẻ trong tọa đàm thuộc khuôn khổ lễ phát động cuộc thi phim ngắn Việt Nam - 'Vietnamese 2026'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:55:00+07:00",
+      "fetched": "2026-05-16T19:58:46.316205+07:00"
+    },
+    {
+      "id": "75bf481e14fe96d01a60444bb246768f",
+      "title": "Gần 700 trẻ em và phụ nữ khó khăn ở Đồng Nai được tầm soát miễn phí",
+      "link": "https://thanhnien.vn/gan-700-tre-em-va-phu-nu-kho-khan-o-dong-nai-duoc-tam-soat-mien-phi-185260516193440115.htm",
+      "summary": "Ngày 16.5, gần 700 trẻ em và phụ nữ có hoàn cảnh khó khăn tại phường Nhơn Trạch, thành phố Đồng Nai đã được các bác sĩ Bệnh viện Chợ Rẫy trực tiếp khám, tư vấn và tầm soát miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:34:00+07:00",
+      "fetched": "2026-05-16T19:58:46.316334+07:00"
+    },
+    {
+      "id": "7b63adfb35dc1cadfabf999136bcb17e",
+      "title": "Ngắm Nha Trang từ rooftop lúc hoàng hôn: Biển, núi và phố thị hiện ra rất khác",
+      "link": "https://thanhnien.vn/ngam-nha-trang-tu-rooftop-luc-hoang-hon-bien-nui-va-pho-thi-hien-ra-rat-khac-185260515153734233.htm",
+      "summary": "Từ rooftop ở Lume nhìn xuống, Nha Trang hiện ra rất khác dưới hoàng hôn, có biển, núi, sông Cái và ánh đèn phố thị hòa vào nhau trong một buổi tối khiến nhiều người chỉ muốn ngồi thật lâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:30:00+07:00",
+      "fetched": "2026-05-16T19:58:46.316459+07:00"
+    },
+    {
+      "id": "0ab153db054d036a5e54db56416a5c66",
+      "title": "Nha Trang khoanh vùng bảo vệ rạn san hô Hòn Chồng - Đặng Tất",
+      "link": "https://thanhnien.vn/nha-trang-khoanh-vung-bao-ve-ran-san-ho-hon-chong-dang-tat-185260516182724763.htm",
+      "summary": "Rạn san hô Hòn Chồng - Đặng Tất thuộc phường Bắc Nha Trang được khoanh vùng bảo vệ trong mùa hè 2026, nhằm giảm thiểu tác động từ con người và nguy cơ tẩy trắng san hô do El Nino.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:20:00+07:00",
+      "fetched": "2026-05-16T19:58:46.316595+07:00"
+    },
+    {
+      "id": "fa4cb29be9b353e450bc28bb97aea592",
+      "title": "Mưa lớn giải nhiệt khu vực trung tâm TP.HCM",
+      "link": "https://thanhnien.vn/mua-lon-giai-nhiet-khu-vuc-trung-tam-tphcm-185260516190152983.htm",
+      "summary": "Khoảng 18 giờ 30 phút ngày 16.5, trung tâm TP.HCM xuất hiện mưa lớn giải nhiệt sau nhiều ngày nắng nóng oi bức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:18:00+07:00",
+      "fetched": "2026-05-16T19:58:46.316744+07:00"
+    },
+    {
+      "id": "be10869751b31f9c0fcdda1229fef474",
+      "title": "Vụ cha tử vong, con mất tích sau vụ chìm ghe: Tìm thấy thi thể con gái",
+      "link": "https://thanhnien.vn/vu-cha-tu-vong-con-mat-tich-sau-vu-chim-ghe-tim-thay-thi-the-con-gai-185260516181837154.htm",
+      "summary": "Liên quan vụ chìm ghe chở vật liệu xây dựng trên kênh xáng Lương Thế Trân khiến một người tử vong, nạn nhân còn lại là bé gái 6 tuổi đã được tìm thấy cách hiện trường khoảng 3 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:17:00+07:00",
+      "fetched": "2026-05-16T19:58:46.316865+07:00"
+    },
+    {
+      "id": "85c0a14f735bb3643227e3ab118e07ab",
+      "title": "Công tác chính trị, tư tưởng phải 'chạm' tới thanh niên",
+      "link": "https://thanhnien.vn/cong-tac-chinh-tri-tu-tuong-phai-cham-toi-thanh-nien-185260516191643932.htm",
+      "summary": "Tại phiên thảo luận mở tại hội thảo 'Công tác chính trị, tư tưởng đi trước, mở đường trong kỷ nguyên mới', các chuyên gia đã đóng góp nhiều ý kiến triển khai Quy định 19 vào thực tiễn, các giải pháp đổi mới công tác chính trị, tư tưởng trong thanh niên, thế hệ trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:16:00+07:00",
+      "fetched": "2026-05-16T19:58:46.316983+07:00"
+    },
+    {
+      "id": "1763f81f6fb76cb4993c90d30a436c34",
+      "title": "Tàu hỏa đâm xe buýt ở Bangkok, 8 người thiệt mạng",
+      "link": "https://vnexpress.net/tau-hoa-dam-xe-buyt-o-bangkok-8-nguoi-thiet-mang-5074739.html",
+      "summary": "Đoàn tàu hàng đâm xe buýt nằm ngang đường ray và khiến phương tiện bốc cháy, làm ít nhất 8 người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:15:50+07:00",
+      "fetched": "2026-05-16T19:58:43.171192+07:00"
+    },
+    {
+      "id": "1763f81f6fb76cb4993c90d30a436c34",
+      "title": "Tàu hỏa đâm xe buýt ở Bangkok, 8 người thiệt mạng",
+      "link": "https://vnexpress.net/tau-hoa-dam-xe-buyt-o-bangkok-8-nguoi-thiet-mang-5074739.html",
+      "summary": "Đoàn tàu hàng đâm xe buýt nằm ngang đường ray và khiến phương tiện bốc cháy, làm ít nhất 8 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-16T12:15:50+07:00",
+      "fetched": "2026-05-16T19:58:49.016316+07:00"
+    },
+    {
+      "id": "a59c51d40a105e6cbbc87e8d10d9567e",
+      "title": "Hai tuyến đường ở Hà Nội dự kiến phân luồng đảo chiều",
+      "link": "https://vnexpress.net/hai-tuyen-duong-o-ha-noi-du-kien-phan-luong-dao-chieu-5074731.html",
+      "summary": "Đường Nguyễn Chí Thanh và Lê Văn Lương đang được Cục Cảnh sát giao thông xem xét xén dải phân cách để phân luồng đảo chiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:09:52+07:00",
+      "fetched": "2026-05-16T19:58:43.171359+07:00"
+    },
+    {
+      "id": "cb82c2ff33fc3c5163cd6c9b3df65904",
+      "title": "Phong độ tài tử Tạ Đình Phong",
+      "link": "https://vnexpress.net/phong-do-tai-tu-ta-dinh-phong-5074607.html",
+      "summary": "Tạ Đình Phong, 46 tuổi, giữ hình thể săn chắc, thích vuốt tóc ngược, được báo giới nhận xét pha trộn giữa nét chững chạc và tinh thần nổi loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:00:00+07:00",
+      "fetched": "2026-05-16T19:58:43.171500+07:00"
+    },
+    {
+      "id": "79c3c096c69cda168afabe4ba9fbec27",
+      "title": "Ông Trump - ông Tập đạt được gì từ cuộc gặp thượng đỉnh?",
+      "link": "https://vnexpress.net/ong-trump-ong-tap-dat-duoc-gi-tu-cuoc-gap-thuong-dinh-5074563.html",
+      "summary": "Cuộc gặp giữa ông Trump và ông Tập không tạo ra đột phá, nhưng cho thấy hai bên đều ưu tiên duy trì quan hệ ổn định, tránh để căng thẳng vượt tầm kiểm soát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:00:00+07:00",
+      "fetched": "2026-05-16T19:58:43.171650+07:00"
+    },
+    {
+      "id": "17234bb085c8ca8a314a645810d6bb7e",
+      "title": "Buffet sầu riêng ở TP.HCM: Chuẩn bị hơn 1 tấn, khách ngồi kín chỗ",
+      "link": "https://thanhnien.vn/buffet-sau-rieng-o-tphcm-chuan-bi-hon-1-tan-khach-ngoi-kin-cho-185260516155515159.htm",
+      "summary": "Giữa thời tiết nắng nóng hầm hập, nhiều thực khách vừa hào hứng trải nghiệm buffet sầu riêng độc lạ tại TP.HCM vừa… tránh nóng ngày cuối tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:00:00+07:00",
+      "fetched": "2026-05-16T19:58:46.317102+07:00"
+    },
+    {
+      "id": "79c3c096c69cda168afabe4ba9fbec27",
+      "title": "Ông Trump - ông Tập đạt được gì từ cuộc gặp thượng đỉnh?",
+      "link": "https://vnexpress.net/ong-trump-ong-tap-dat-duoc-gi-tu-cuoc-gap-thuong-dinh-5074563.html",
+      "summary": "Cuộc gặp giữa ông Trump và ông Tập không tạo ra đột phá, nhưng cho thấy hai bên đều ưu tiên duy trì quan hệ ổn định, tránh để căng thẳng vượt tầm kiểm soát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-16T12:00:00+07:00",
+      "fetched": "2026-05-16T19:58:49.016475+07:00"
+    },
+    {
+      "id": "558e0fd9dc8ac3f4709d741f8ea8ec17",
+      "title": "Đường dây sản xuất hơn 4 tấn bột ngọt giả bị phát hiện tại TP HCM",
+      "link": "https://vnexpress.net/duong-day-san-xuat-bot-ngot-gia-tai-tp-hcm-5074728.html",
+      "summary": "Dương Thị Yến Oanh, 47 tuổi, cùng đồng phạm đặt bao bì thương hiệu Ajinomoto, mua nhiều tấn bột ngọt trôi nổi trên thị trường về đóng gói, bán thu lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T11:54:09+07:00",
+      "fetched": "2026-05-16T19:58:43.171784+07:00"
+    },
+    {
+      "id": "8a2af7aa2c77f8d010d180a794336e72",
+      "title": "Hành trình đơn độc của tàu thăm dò NASA trên sao Hỏa",
+      "link": "https://thanhnien.vn/hanh-trinh-don-doc-cua-tau-tham-do-nasa-tren-sao-hoa-185260516171816298.htm",
+      "summary": "Sau 5 năm thám hiểm bề mặt sao Hỏa, tàu thăm dò Perseverance của Cơ quan Hàng không Vũ trụ Mỹ (NASA) đã đi qua những quãng đường đáng kinh ngạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T11:53:00+07:00",
+      "fetched": "2026-05-16T19:58:46.317215+07:00"
+    },
+    {
+      "id": "235dff6f0b7b4164cbe4f9230e5e4572",
+      "title": "Lộ diện Gemini Spark: 'Vũ khí bí mật' giúp Google lật đổ Claude",
+      "link": "https://thanhnien.vn/lo-dien-gemini-spark-vu-khi-bi-mat-giup-google-lat-do-claude-18526051610202025.htm",
+      "summary": "Cú đáp trả của Google khi Gemini Spark sẽ thay chúng ta làm việc đa nhiệm mà không cần phê duyệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T11:48:00+07:00",
+      "fetched": "2026-05-16T19:58:46.317328+07:00"
+    },
+    {
+      "id": "0ef3db6b2c25221cb5c0b433352e50dc",
+      "title": "Làm sao để kéo khán giả ra rạp với phim Việt?",
+      "link": "https://thanhnien.vn/lam-sao-de-keo-khan-gia-ra-rap-voi-phim-viet-185260516162806737.htm",
+      "summary": "Diễn viên - đạo diễn Hồng Ánh cho rằng để khán giả đến rạp và quay lại với điện ảnh, điều quan trọng nhất vẫn là những câu chuyện đủ sức chạm đến cảm xúc người xem.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T11:47:00+07:00",
+      "fetched": "2026-05-16T19:58:46.317447+07:00"
+    },
+    {
+      "id": "9befb9999d4d404e331364fd8b178f52",
+      "title": "Di tích quốc gia Cầu ngói Thanh Toàn nhếch nhác vì rác thải",
+      "link": "https://thanhnien.vn/di-tich-quoc-gia-cau-ngoi-thanh-toan-nhech-nhac-vi-rac-thai-185260516162518251.htm",
+      "summary": "Dù đón lượng lớn du khách tham quan, di tích kiến trúc nghệ thuật cấp quốc gia Cầu ngói Thanh Toàn (thành phố Huế) hiện đang rơi vào cảnh nhếch nhác bởi rác thải và hệ thống cảnh quan thiếu sự chăm sóc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T11:44:00+07:00",
+      "fetched": "2026-05-16T19:58:46.317567+07:00"
+    },
+    {
+      "id": "b61c2092028bd32144f84e66ef13d655",
+      "title": "Khoảnh khắc tên lửa Vòm Sắt khiến trực thăng Israel phóng mồi bẫy",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-vom-sat-khien-truc-thang-israel-phong-moi-bay-5074712.html",
+      "summary": "Tổ hợp Vòm Sắt phóng tên lửa gần vị trí trực thăng AH-64 Israel, khiến phi cơ phóng loạt mồi bẫy để tự vệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T11:24:57+07:00",
+      "fetched": "2026-05-16T19:58:43.171915+07:00"
+    },
+    {
+      "id": "b61c2092028bd32144f84e66ef13d655",
+      "title": "Khoảnh khắc tên lửa Vòm Sắt khiến trực thăng Israel phóng mồi bẫy",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-vom-sat-khien-truc-thang-israel-phong-moi-bay-5074712.html",
+      "summary": "Tổ hợp Vòm Sắt phóng tên lửa gần vị trí trực thăng AH-64 Israel, khiến phi cơ phóng loạt mồi bẫy để tự vệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-16T11:24:57+07:00",
+      "fetched": "2026-05-16T19:58:49.016614+07:00"
+    },
+    {
+      "id": "14bbb95b2cdfc9f2abe9ded3baea8dda",
+      "title": "Startup Mỹ được định giá gần 100 tỷ USD nhờ chip AI 'bằng cái đĩa'",
+      "link": "https://vnexpress.net/startup-my-duoc-dinh-gia-gan-100-ty-usd-nho-chip-ai-bang-cai-dia-5074683.html",
+      "summary": "Cerebras, doanh nghiệp được đánh giá là đối thủ của Nvidia, thu hút sự chú ý với mẫu chip AI có kích thước bằng chiếc đĩa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T11:00:00+07:00",
+      "fetched": "2026-05-16T19:58:43.172038+07:00"
+    },
+    {
+      "id": "2e63cddcf4d58d5341cd899d2ce9e8c5",
+      "title": "Vợ nói nam đồng nghiệp cô ấy tâm sự bất kể ngày đêm chỉ là bạn thân",
+      "link": "https://vnexpress.net/vo-noi-nam-dong-nghiep-co-ay-tam-su-bat-ke-ngay-dem-chi-la-ban-than-5074677.html",
+      "summary": "Tôi phát hiện vợ hay nhắn tin tâm sự với một người đàn ông trên công ty.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T11:00:00+07:00",
+      "fetched": "2026-05-16T19:58:43.172160+07:00"
+    },
+    {
+      "id": "74a450d93229880fdca3fe92811d19c9",
+      "title": "Loạt hoạt động nổi bật của VNGGames tại Vietnam GameVerse 2026",
+      "link": "https://vnexpress.net/loat-hoat-dong-noi-bat-cua-vnggames-tai-vietnam-gameverse-2026-5074706.html",
+      "summary": "Thu hút 35.000 lượt game thủ trải nghiệm các gian hàng, đồng tổ chức giải vô địch Esports Đông Nam Á - SEA Esports Nations Cup (SNC) lần đầu, VNGGames ghi loạt dấu ấn tại Vietnam GameVerse 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T11:00:00+07:00",
+      "fetched": "2026-05-16T19:58:43.172291+07:00"
+    },
+    {
+      "id": "14bbb95b2cdfc9f2abe9ded3baea8dda",
+      "title": "Startup Mỹ được định giá gần 100 tỷ USD nhờ chip AI 'bằng cái đĩa'",
+      "link": "https://vnexpress.net/startup-my-duoc-dinh-gia-gan-100-ty-usd-nho-chip-ai-bang-cai-dia-5074683.html",
+      "summary": "Cerebras, doanh nghiệp được đánh giá là đối thủ của Nvidia, thu hút sự chú ý với mẫu chip AI có kích thước bằng chiếc đĩa.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-16T11:00:00+07:00",
+      "fetched": "2026-05-16T19:58:53.568281+07:00"
+    },
+    {
       "id": "454551cf17b9cd874c5d002da8c2ff38",
       "title": "Hành trình đặc biệt trên chuyến tàu di sản của 100 hành khách",
       "link": "https://thanhnien.vn/hanh-trinh-dac-biet-tren-chuyen-tau-di-san-cua-100-hanh-khach-18526051617174433.htm",
@@ -461,6 +891,16 @@ window.newsData_2026_05_16 = {
       "category": "Tổng hợp",
       "published": "2026-05-16T10:51:00+07:00",
       "fetched": "2026-05-16T17:54:41.112837+07:00"
+    },
+    {
+      "id": "9cb7fb4b3de1602da8177776d5e70763",
+      "title": "Xe từ cao tốc Long Thành phải đi vòng 18 km để vào tuyến Biên Hòa - Vũng Tàu",
+      "link": "https://vnexpress.net/xe-tu-cao-toc-long-thanh-phai-di-vong-18-km-de-vao-tuyen-bien-hoa-vung-tau-5074714.html",
+      "summary": "Khi cao tốc Biên Hòa - Vũng Tàu thông xe toàn tuyến từ 18/5, nút giao Bưng Môn sẽ đóng, ôtô từ cao tốc TP HCM - Long Thành muốn vào tuyến phải xuống quốc lộ 51, đi vòng thêm 18 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T10:50:56+07:00",
+      "fetched": "2026-05-16T19:58:43.172419+07:00"
     },
     {
       "id": "6c9a9086231fa003cb09250e3a586c76",
@@ -481,6 +921,16 @@ window.newsData_2026_05_16 = {
       "category": "Tổng hợp",
       "published": "2026-05-16T10:48:00+07:00",
       "fetched": "2026-05-16T17:54:41.113119+07:00"
+    },
+    {
+      "id": "32b9f789a1ed915783f2b70699aced97",
+      "title": "Vespa Sprint 180 mở bán tại Việt Nam, giá 121,5 triệu đồng",
+      "link": "https://vnexpress.net/vespa-sprint-180-mo-ban-tai-viet-nam-gia-121-5-trieu-dong-5074721.html",
+      "summary": "Piaggio Việt Nam ra mắt ba phiên bản Vespa kỷ niệm 80 năm, gồm Sprint 125, Sprint 180 và GTS 300, trong đó Sprint 180 lần đầu xuất hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T10:46:11+07:00",
+      "fetched": "2026-05-16T19:58:43.172539+07:00"
     },
     {
       "id": "5a1fe9a4ce5b489ec25f39863c711ed6",
@@ -533,6 +983,16 @@ window.newsData_2026_05_16 = {
       "fetched": "2026-05-16T17:54:41.113640+07:00"
     },
     {
+      "id": "b51ef87de58b15a1911394b6a0ad48e6",
+      "title": "Tên trộm dùng xà beng đập cửa kính, đột nhập tiệm nail",
+      "link": "https://vnexpress.net/ten-trom-dung-xa-beng-dap-cua-kinh-dot-nhap-tiem-nail-5074713.html",
+      "summary": "Camera ghi lại cảnh tên trộm dùng xà beng đập vỡ cửa kính, chui vào tiệm nail để trộm tài sản, sau khi đồng phạm đứng ngoài dùng dây buộc cửa nhà dân cách đó khoảng 10 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T10:23:56+07:00",
+      "fetched": "2026-05-16T19:58:43.172831+07:00"
+    },
+    {
       "id": "3d041f404ef5ffb40879fb44296a1093",
       "title": "Phòng bác sĩ tối đa 9 m², quy định mới của Bộ Y tế",
       "link": "https://thanhnien.vn/phong-bac-si-toi-da-9-m-quy-dinh-moi-cua-bo-y-te-185260516134503554.htm",
@@ -551,6 +1011,26 @@ window.newsData_2026_05_16 = {
       "category": "Tổng hợp",
       "published": "2026-05-16T10:19:00+07:00",
       "fetched": "2026-05-16T17:54:41.113886+07:00"
+    },
+    {
+      "id": "88a988ae8aeab75240e6146b62a50c1b",
+      "title": "Điểm tin 17h: Phó Chủ tịch Hiệp hội Bản quyền Tác giả Việt Nam bị khởi tố | Hà Nội sẽ di dời các bến xe trong vành đai 3",
+      "link": "https://vnexpress.net/diem-tin-17h-pho-chu-tich-hiep-hoi-ban-quyen-tac-gia-viet-nam-bi-khoi-to-ha-noi-se-di-doi-cac-ben-xe-trong-vanh-dai-3-5074715.html",
+      "summary": "Đề xuất tăng gấp đôi số câu lý thuyết với người thi lại bằng lái; Đề xuất tăng gấp đôi số câu lý thuyết với người thi lại bằng lái,...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T10:08:15+07:00",
+      "fetched": "2026-05-16T19:58:43.172956+07:00"
+    },
+    {
+      "id": "aef1a53afe40ff02aa1e1d722be5908a",
+      "title": "Sự kiện tôn vinh dòng sách nghệ thuật, kiến trúc",
+      "link": "https://vnexpress.net/su-kien-ton-vinh-dong-sach-nghe-thuat-kien-truc-5074657.html",
+      "summary": "\"Tháng sách Art & Design\" hướng đến cộng đồng yêu nghệ thuật, thiết kế, kiến trúc, giới thiệu loạt tác phẩm của các nhà xuất bản danh tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T10:07:38+07:00",
+      "fetched": "2026-05-16T19:58:43.173087+07:00"
     },
     {
       "id": "ec2ae881a87027ce77a7923e2bbd8a7d",
