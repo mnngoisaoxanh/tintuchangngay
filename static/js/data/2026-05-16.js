@@ -1,7 +1,157 @@
 window.newsData_2026_05_16 = {
   "date": "2026-05-16",
-  "lastUpdated": "2026-05-16T21:47:49.807710+07:00",
+  "lastUpdated": "2026-05-16T23:45:23.329197+07:00",
   "articles": [
+    {
+      "id": "6f6721ea34c0c306625cae7d12e6b651",
+      "title": "Tài Lộc lập cú đúp sau khi lấy quốc tịch Việt Nam",
+      "link": "https://tuoitre.vn/tai-loc-lap-cu-dup-sau-khi-lay-quoc-tich-viet-nam-20260516202814105.htm",
+      "summary": "Tiền đạo nhập tịch Nguyễn Tài Lộc ghi 2 bàn trong 3 phút giúp Ninh Bình ngược dòng thắng Sông Lam Nghệ An 2-1 ở vòng 23 V-League 2025-2026 diễn ra vào tối 16-5 trên sân Vinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.051613+07:00",
+      "fetched": "2026-05-16T23:45:15.051732+07:00"
+    },
+    {
+      "id": "e16c0df935fcf4f7fca5a93f39298a05",
+      "title": "Công Phượng ghi tuyệt phẩm, CLB Trường Tươi Đồng Nai thắng đậm",
+      "link": "https://tuoitre.vn/cong-phuong-ghi-tuyet-pham-clb-truong-tuoi-dong-nai-thang-dam-20260516205244494.htm",
+      "summary": "Bàn thắng đẹp mắt từ hai pha đá phạt của Công Phượng và Minh Vương đã giúp CLB Trường Tươi Đồng Nai thắng đậm Đại học Văn Hiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.051451+07:00",
+      "fetched": "2026-05-16T23:45:15.051597+07:00"
+    },
+    {
+      "id": "27482a9453f5df214db2f7b844ab1ccc",
+      "title": "Khởi tố vụ án nhóm người đi Lexus hành hung 2 cô gái trên phố Hoàng Cầu",
+      "link": "https://tuoitre.vn/khoi-to-vu-an-nhom-nguoi-di-lexus-hanh-hung-2-co-gai-tren-pho-hoang-cau-20260516210947155.htm",
+      "summary": "Công an đã khởi tố vụ án gây rối trật tự công cộng liên quan nhóm người đi xe Lexus bị tố chửi bới, hành hung hai cô gái trên đường Hoàng Cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.051330+07:00",
+      "fetched": "2026-05-16T23:45:15.051440+07:00"
+    },
+    {
+      "id": "467b4c5117cbbb936827ea2f98ecc118",
+      "title": "Thua Hải Phòng, Becamex TP.HCM bị báo động đỏ",
+      "link": "https://tuoitre.vn/thua-hai-phong-becamex-tp-hcm-bi-bao-dong-do-20260516212226007.htm",
+      "summary": "Thua CLB Hải Phòng 2-4 ở vòng 23 LPBank V-League 2025 - 2026, Becamex TP.HCM không cải thiện được vị trí và có nguy cơ rơi vào cuộc chiến chống rớt hạng khi giải đấu chỉ còn 3 vòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.051206+07:00",
+      "fetched": "2026-05-16T23:45:15.051319+07:00"
+    },
+    {
+      "id": "f6ba673e4b699c17d7bf4dab8ea8d337",
+      "title": "Cảnh sát tóm gọn kẻ cướp giật điện thoại trên tỉnh lộ 10 chỉ sau 30 phút",
+      "link": "https://tuoitre.vn/canh-sat-tom-gon-ke-cuop-giat-dien-thoai-tren-tinh-lo-10-chi-sau-30-phut-20260516205448857.htm",
+      "summary": "Chỉ sau 30 phút tiếp nhận trình báo của nạn nhân, Công an phường Bình Trị Đông (TP.HCM) đã bắt giữ nghi can cướp giật điện thoại trên tỉnh lộ 10 vào rạng sáng 16-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.051082+07:00",
+      "fetched": "2026-05-16T23:45:15.051195+07:00"
+    },
+    {
+      "id": "ec87d7eb60bc5be20ecfd08d3415d129",
+      "title": "Đang bốc xếp 260kg pháo và 7.600 gói thuốc lá lên xe tải thì bị bắt quả tang",
+      "link": "https://tuoitre.vn/dang-boc-xep-260kg-phao-va-7-600-goi-thuoc-la-len-xe-tai-thi-bi-bat-qua-tang-20260516211941427.htm",
+      "summary": "Công an tỉnh Quảng Trị vừa phát hiện, bắt giữ nhóm người vận chuyển số lượng lớn pháo hoa nổ và thuốc lá nhập lậu khi nhóm này đang bốc xếp lên xe tải để chuyển đi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.050955+07:00",
+      "fetched": "2026-05-16T23:45:15.051071+07:00"
+    },
+    {
+      "id": "7fe69a1bd4b04b3537517b7326800616",
+      "title": "Khởi tố, tạm giam ca sĩ Miu Lê",
+      "link": "https://tuoitre.vn/khoi-to-tam-giam-ca-si-miu-le-20260516213959367.htm",
+      "summary": "Công an thành phố Hải Phòng đã khởi tố, tạm giam ca sĩ Miu Lê để điều tra về hành vi tổ chức sử dụng trái phép chất ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.050819+07:00",
+      "fetched": "2026-05-16T23:45:15.050942+07:00"
+    },
+    {
+      "id": "1f680125b56c96c0395a5d47a2575d90",
+      "title": "BH Media, Lululola, 1900 Group, Mây Sài Gòn và Giọng ca để đời đã vi phạm tác quyền ra sao?",
+      "link": "https://tuoitre.vn/bh-media-lululola-1900-group-may-sai-gon-va-giong-ca-de-doi-da-vi-pham-tac-quyen-ra-sao-2026051621293686.htm",
+      "summary": "Nhiều ông chủ của các công ty truyền thông và giải trí vừa bị khởi tố với cáo buộc xâm phạm quyền tác giả, quyền liên quan thu hút sự quan tâm của dư luận. Câu chuyện bản quyền đang nóng lại thêm nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.050693+07:00",
+      "fetched": "2026-05-16T23:45:15.050808+07:00"
+    },
+    {
+      "id": "1e5d220ee66d23404b59d619cb3705c6",
+      "title": "Cục CSGT: Nghiên cứu tổ chức làn đảo chiều thêm 2 tuyến đường, tương tự đường Cộng Hòa",
+      "link": "https://tuoitre.vn/cuc-csgt-nghien-cuu-to-chuc-lan-dao-chieu-them-2-tuyen-duong-tuong-tu-duong-cong-hoa-20260516213616753.htm",
+      "summary": "Cục CSGT đang nghiên cứu cách tổ chức giao thông tại tuyến Nguyễn Chí Thanh và Lê Văn Lương (Hà Nội) bằng cách xén dải phân cách giữa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.050561+07:00",
+      "fetched": "2026-05-16T23:45:15.050682+07:00"
+    },
+    {
+      "id": "ea6fda6181ffc6da38fe688ae08a4282",
+      "title": "Bảng câu hỏi tưởng giúp dạy dỗ học sinh về lòng biết ơn, lại gây phẫn nộ dữ dội",
+      "link": "https://tuoitre.vn/bang-cau-hoi-tuong-giup-day-do-hoc-sinh-ve-long-biet-on-lai-gay-phan-no-du-doi-2026051618335147.htm",
+      "summary": "Một trường tiểu học ở Trung Quốc gây phẫn nộ khi đưa các câu hỏi được cho là chi tiết quá mức về nghề nghiệp của phụ huynh học sinh vào một bảng khảo sát hồi đầu tháng 5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.050411+07:00",
+      "fetched": "2026-05-16T23:45:15.050548+07:00"
+    },
+    {
+      "id": "bda9128d4ab7555a74a3f675b4ba54a1",
+      "title": "Yêu cầu xác thực sinh trắc học qua eTax Mobile để ngăn doanh nghiệp ma bán hóa đơn khống",
+      "link": "https://tuoitre.vn/yeu-cau-xac-thuc-sinh-trac-hoc-qua-etax-mobile-de-ngan-doanh-nghiep-ma-ban-hoa-don-khong-20260516214141001.htm",
+      "summary": "Quy định này vừa được ngành thuế áp dụng nhằm ngăn chặn tình trạng mạo danh, đánh cắp thông tin để lập doanh nghiệp ma, xuất hóa đơn khống hoành hành lâu nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.050283+07:00",
+      "fetched": "2026-05-16T23:45:15.050400+07:00"
+    },
+    {
+      "id": "3bd2636fb812e57ab628e2d054946400",
+      "title": "Hai bị cáo phá rừng kơ nia biên giới lãnh án",
+      "link": "https://tuoitre.vn/hai-bi-cao-pha-rung-ko-nia-bien-gioi-lanh-an-20260516212647803.htm",
+      "summary": "Hai bị cáo trong vụ chặt phá rừng cây kơ nia và các loại cây khác tại xã biên giới Ia Tơi, tỉnh Quảng Ngãi, vừa bị tòa tuyên án và buộc bồi thường thiệt hại về tội 'hủy hoại rừng'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.050153+07:00",
+      "fetched": "2026-05-16T23:45:15.050271+07:00"
+    },
+    {
+      "id": "f567435e8220e0a47f8af0261640fc30",
+      "title": "Quay đầu xe trên cao tốc 2 làn, tài xế giải thích 'do có người đi cấp cứu'",
+      "link": "https://tuoitre.vn/quay-dau-xe-tren-cao-toc-2-lan-tai-xe-giai-thich-do-co-nguoi-di-cap-cuu-20260516220557701.htm",
+      "summary": "Làm việc với cảnh sát, tài xế thừa nhận vi phạm và nêu lý do là do 'nhà có người đi cấp cứu nên khi đi quá nút giao thì quay đầu lại trên đường cao tốc'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.050021+07:00",
+      "fetched": "2026-05-16T23:45:15.050142+07:00"
+    },
+    {
+      "id": "165b0c6c566c1a461357ec684ea22523",
+      "title": "Khởi tố, bắt tạm giam Chủ tịch, Tổng giám đốc Tập đoàn PC1 cùng nhiều cá nhân khác",
+      "link": "https://tuoitre.vn/khoi-to-bat-tam-giam-chu-tich-tong-giam-doc-tap-doan-pc1-cung-nhieu-ca-nhan-khac-20260516220522039.htm",
+      "summary": "Ông Trịnh Văn Tuấn, Chủ tịch HĐQT Tập đoàn PC1, cùng nhiều lãnh đạo khác tại doanh nghiệp đã bị khởi tố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.049880+07:00",
+      "fetched": "2026-05-16T23:45:15.050009+07:00"
+    },
+    {
+      "id": "a9788bc7d8866b6f28a5bcf54715b0b4",
+      "title": "U17 Việt Nam đấu U17 Úc (0h ngày 17-5): Viết tiếp câu chuyện 'cổ tích'",
+      "link": "https://tuoitre.vn/u17-viet-nam-dau-u17-uc-0h-ngay-17-5-viet-tiep-cau-chuyen-co-tich-20260516122728819.htm",
+      "summary": "Sau chiến tích ấn tượng ở vòng bảng, người hâm mộ đang kỳ vọng U17 Việt Nam sẽ tiếp tục tạo nên bất ngờ trước U17 Úc ở tứ kết Giải U17 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T23:45:15.049663+07:00",
+      "fetched": "2026-05-16T23:45:15.049865+07:00"
+    },
     {
       "id": "b0cf5ec499069ed7972487200d1eaa6c",
       "title": "Những sự cố trên sân Cao Lãnh trận Đồng Tháp tiếp Long An",
@@ -453,6 +603,16 @@ window.newsData_2026_05_16 = {
       "fetched": "2026-05-16T17:54:42.277596+07:00"
     },
     {
+      "id": "9cc4f8dec753629542468ab351594546",
+      "title": "'Doraemon' và 'Tạm biệt Gohan' soán ngôi phòng vé phim Việt",
+      "link": "https://thanhnien.vn/doraemon-va-tam-biet-gohan-soan-ngoi-phong-ve-phim-viet-18526051619390647.htm",
+      "summary": "Hai tác phẩm quốc tế 'Doraemon: Nobita và lâu đài dưới đáy biển' và 'Tạm biệt Gohan' đã phá vỡ chuỗi 87 ngày liên tiếp dẫn đầu phòng vé của loạt phim Việt, vươn lên vị trí top 1 và 2 trên bảng xếp hạng doanh thu phòng vé.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T16:28:00+07:00",
+      "fetched": "2026-05-16T23:45:14.096485+07:00"
+    },
+    {
       "id": "50ccc072cd4af127ca0738936869f8b5",
       "title": "Tranh luận bỏ thi lớp 10: Giảm áp lực nhưng lo học bạ 'đẹp như tranh vẽ'",
       "link": "https://tuoitre.vn/tranh-luan-bo-thi-lop-10-giam-ap-luc-nhung-lo-hoc-ba-dep-nhu-tranh-ve-20260516123236155.htm",
@@ -603,6 +763,176 @@ window.newsData_2026_05_16 = {
       "fetched": "2026-05-16T16:21:19.299569+07:00"
     },
     {
+      "id": "8444d1d4315dce02ed02b832264e165a",
+      "title": "Quật ngã Chelsea, Man City chinh phục thành công FA Cup",
+      "link": "https://thanhnien.vn/quat-nga-chelsea-man-city-chinh-phuc-thanh-cong-fa-cup-185260516225729712.htm",
+      "summary": "Man City đánh bại Chelsea với tỷ số 1-0 ở trận chung kết FA Cup (diễn ra lúc 21 giờ ngày 16.5), qua đó chinh phục danh hiệu thứ hai mùa này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T16:08:00+07:00",
+      "fetched": "2026-05-16T23:45:14.096679+07:00"
+    },
+    {
+      "id": "9db0a35cca7a9d4a55b7d3f007bc28c0",
+      "title": "Jun Ji Hyun 'đọ sắc' cùng Lý Băng Băng trên thảm đỏ Cannes",
+      "link": "https://thanhnien.vn/jun-ji-hyun-do-sac-cung-ly-bang-bang-tren-tham-do-cannes-185260516181605104.htm",
+      "summary": "Liên hoan phim Cannes 2026 đang diễn ra với sự xuất hiện của hàng loạt ngôi sao quốc tế. Trong đó, màn hội ngộ giữa Lý Băng Băng và Jun Ji Hyun nhanh chóng trở thành chủ đề bàn tán trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T16:05:00+07:00",
+      "fetched": "2026-05-16T23:45:14.096838+07:00"
+    },
+    {
+      "id": "c2786f4f7df7fe2dcc9f3133ecd7ddf1",
+      "title": "Man City thắng Chelsea, đoạt Cup FA",
+      "link": "https://vnexpress.net/man-city-thang-chelsea-doat-cup-fa-5074785.html",
+      "summary": "Tiền đạo Antoine Semenyo đánh gót ghi bàn giúp Man City thắng Chelsea 1-0 trong trận chung kết, để lần thứ tám đoạt Cup FA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-16T15:56:23+07:00",
+      "fetched": "2026-05-16T23:45:23.317001+07:00"
+    },
+    {
+      "id": "f93a47625a492f5e610c7ff5bcc6ce87",
+      "title": "TP.HCM mưa xối xả sau nhiều ngày nắng gắt: Đặt xe chờ cả tiếng, nhiều tuyến đường ùn ứ",
+      "link": "https://thanhnien.vn/tphcm-mua-xoi-xa-sau-nhieu-ngay-nang-gat-dat-xe-cho-ca-tieng-nhieu-tuyen-duong-un-u-185260516222312381.htm",
+      "summary": "Cơn mưa đến nhanh đúng giờ tan tầm vào tối 16.5 khiến nhiều người dân chật vật trú mưa, giao thông ùn ứ, có người mắc kẹt tại cửa hàng hơn 1 tiếng mới đặt được xe. Tuy vậy, không ít người vẫn gọi đây là 'cơn mưa đích đáng' sau chuỗi ngày nóng hầm hập kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T15:50:00+07:00",
+      "fetched": "2026-05-16T23:45:14.096991+07:00"
+    },
+    {
+      "id": "10444452be8699fdad39719985b242dd",
+      "title": "Iran 'đang đàm phán với châu Âu' về eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-dang-dam-phan-voi-chau-au-ve-eo-bien-hormuz-5074782.html",
+      "summary": "Truyền thông Iran đưa tin nước này đang đàm phán về vấn đề cho phép tàu hàng châu Âu đi qua eo biển Hormuz, song chưa rõ kết quả.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-16T15:48:10+07:00",
+      "fetched": "2026-05-16T23:45:16.588232+07:00"
+    },
+    {
+      "id": "bc5d0705c6dd0bf89c87ee523caf352a",
+      "title": "Khởi tố vụ án nhóm đi ôtô Lexus đánh hai cô gái ở Hà Nội",
+      "link": "https://vnexpress.net/khoi-to-vu-an-nhom-di-oto-lexus-danh-hai-co-gai-o-ha-noi-5074781.html",
+      "summary": "Công an khởi tố vụ án để điều tra vụ hai cô gái bị nhóm người đi ôtô Lexus hành hung trên vỉa hè vì mâu thuẫn nhỏ nhặt trong thang máy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T15:41:04+07:00",
+      "fetched": "2026-05-16T23:45:10.785323+07:00"
+    },
+    {
+      "id": "e7244529ebb6fcb9cda41ced247a4ce8",
+      "title": "Giải pickleball thanh niên 'Đại đoàn kết' chào mừng thành công Đại hội MTTQ Việt Nam",
+      "link": "https://thanhnien.vn/giai-pickleball-thanh-nien-dai-doan-ket-chao-mung-thanh-cong-dai-hoi-mttq-viet-nam-185260516215109849.htm",
+      "summary": "Đây không chỉ là sân chơi thể thao lành mạnh dành cho đoàn viên, thanh niên mà còn góp phần tăng cường giao lưu, gắn kết giữa cán bộ, công chức, viên chức, người lao động trong hệ thống MTTQ và các đoàn thể T.Ư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T15:40:00+07:00",
+      "fetched": "2026-05-16T23:45:14.097144+07:00"
+    },
+    {
+      "id": "69ffe2b113bdf61dc52b0aefd1a69e4f",
+      "title": "Vụ 2 cô gái tố bị quấy rối, hành hung: Khởi tố vụ án hình sự",
+      "link": "https://thanhnien.vn/vu-2-co-gai-to-bi-quay-roi-hanh-hung-khoi-to-vu-an-hinh-su-185260516221826152.htm",
+      "summary": "Công an Hà Nội đã ra quyết định khởi tố vụ án hình sự gây rối trật tự công cộng, để làm rõ vụ 2 cô gái trẻ tố bị quấy rối, hành hung xảy ra trên phố Hoàng Cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T15:35:00+07:00",
+      "fetched": "2026-05-16T23:45:14.097295+07:00"
+    },
+    {
+      "id": "4a2c81b54462db93f9016baa88e07f12",
+      "title": "Chủ tịch HĐQT và nhiều nhân sự chủ chốt của PC1 bị khởi tố",
+      "link": "https://vnexpress.net/chu-tich-hdqt-va-nhieu-nhan-su-chu-chot-cua-pc1-bi-khoi-to-5074774.html",
+      "summary": "Ông Trịnh Văn Tuấn, Chủ tịch HĐQT Công ty Cổ phần Tập đoàn PC1 và 6 người bị khởi tố với cáo buộc tham ô tài sản, vi phạm quy định kế toán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T15:32:00+07:00",
+      "fetched": "2026-05-16T23:45:10.785504+07:00"
+    },
+    {
+      "id": "4e27be1a5b56682ef850ff203c8b38e5",
+      "title": "Ca sĩ Miu Lê bị khởi tố vì liên quan ma túy",
+      "link": "https://thanhnien.vn/ca-si-miu-le-bi-khoi-to-vi-lien-quan-ma-tuy-185260516222922308.htm",
+      "summary": "Liên quan vụ việc gây xôn xao dư luận những ngày qua, Cơ quan Cảnh sát điều tra Công an thành phố Hải Phòng đã khởi tố vụ án tổ chức sử dụng trái phép chất ma túy tại khu vực bãi tắm Tùng Thu (Cát Bà), đồng thời tạm giam nhiều bị can, trong đó có ca sĩ Miu Lê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T15:29:00+07:00",
+      "fetched": "2026-05-16T23:45:14.097460+07:00"
+    },
+    {
+      "id": "44e485b7bacaa3a01371a82d4320f276",
+      "title": "Đàn bò bị sét đánh chết la liệt giữa rừng, thiệt hại khoảng 150 triệu đồng",
+      "link": "https://thanhnien.vn/dan-bo-bi-set-danh-chet-la-liet-giua-rung-thiet-hai-khoang-150-trieu-dong-185260516215456358.htm",
+      "summary": "Đàn bò bị sét đánh chết thuộc sở hữu của nhiều hộ dân tại xã Hướng Lập (Quảng Trị). Địa phương đề xuất cấp trên hỗ trợ bà con khắc phục hậu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T15:26:00+07:00",
+      "fetched": "2026-05-16T23:45:14.097637+07:00"
+    },
+    {
+      "id": "9a3ab55122fa65ac1b97472178865f6f",
+      "title": "Thi hành án dân sự TP.HCM tổ chức hội thao kỷ niệm 80 năm ngày truyền thống",
+      "link": "https://thanhnien.vn/thi-hanh-an-dan-su-tphcm-to-chuc-hoi-thao-ky-niem-80-nam-ngay-truyen-thong-185260516111319489.htm",
+      "summary": "Ở môn pickleball, ông Nguyễn Quang Dũng, Phó viện trưởng Viện KSND tối cao, xuất sắc giành 2 giải nhất; ông Mai Lương Khôi, Thứ trưởng Bộ Tư pháp, giành 2 giải nhì.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T15:22:00+07:00",
+      "fetched": "2026-05-16T23:45:14.097788+07:00"
+    },
+    {
+      "id": "6eb981647cbb1d148d7da775963b189e",
+      "title": "Triệt phá đường dây sản xuất hàng tấn bột ngọt giả Ajinomoto từ nguyên liệu trôi nổi",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-san-xuat-hang-tan-bot-ngot-gia-ajinomoto-tu-nguyen-lieu-troi-noi-185260516220851332.htm",
+      "summary": "Nằm trong đợt cao điểm 45 ngày đêm chuyển hóa địa bàn, Công an TP.HCM vừa triệt phá đường dây chuyên sản xuất, buôn bán bột ngọt giả nhãn hiệu Ajinomoto với số lượng lên đến hàng tấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T15:16:00+07:00",
+      "fetched": "2026-05-16T23:45:14.097937+07:00"
+    },
+    {
+      "id": "6148d90a49ddc8d520605a65b065270d",
+      "title": "Công an bắt giữ đối tượng cướp giật chỉ 30 phút tiếp nhận tin báo",
+      "link": "https://thanhnien.vn/cong-an-bat-giu-doi-tuong-cuop-giat-chi-30-phut-tiep-nhan-tin-bao-185260516210715426.htm",
+      "summary": "Cướp giật điện thoại của một phụ nữ trên đường, nghi phạm Trần Song Toàn đã bị lực lượng chức năng bắt giữ chỉ sau 30 phút sau khi nạn nhân trình báo công an.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T15:10:00+07:00",
+      "fetched": "2026-05-16T23:45:14.098089+07:00"
+    },
+    {
+      "id": "2c045af713345903b65a709b07968585",
+      "title": "Vì sao ‘Bám váy mẹ’ vượt khỏi một cuốn sách về LGBTQ+?",
+      "link": "https://thanhnien.vn/vi-sao-bam-vay-me-vuot-khoi-mot-cuon-sach-ve-lgbtq-18526051616514283.htm",
+      "summary": "Được biết đến là nhà thiết kế đứng sau nhiều bìa sách nổi bật, Tạ Quốc Kỳ Nam lần đầu xuất hiện với vai trò tác giả qua Bám váy mẹ - cuốn sách không chỉ kể hành trình come-out, mà còn chạm tới cảm giác kiệt sức, cô đơn và nhu cầu được chữa lành của nhiều người trẻ hôm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T15:00:00+07:00",
+      "fetched": "2026-05-16T23:45:14.098257+07:00"
+    },
+    {
+      "id": "67018228cbdc8ac7ac5dac7e53d6edb8",
+      "title": "Nhiều phố trung tâm Đà Nẵng ngập sau mưa lớn đầu mùa",
+      "link": "https://vnexpress.net/nhieu-pho-trung-tam-da-nang-ngap-sau-mua-lon-dau-mua-5074762.html",
+      "summary": "Mưa lớn kèm sấm sét kéo dài hơn hai giờ khiến nhiều tuyến phố trung tâm TP Đà Nẵng ngập 20-40 cm, gây khó khăn cho người dân di chuyển trong đêm tối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:56:16+07:00",
+      "fetched": "2026-05-16T23:45:10.785706+07:00"
+    },
+    {
+      "id": "d86a45ca019485c25f5ae8da3df1330d",
+      "title": "Tàng trữ hơn 1,3 tấn thuốc nổ để bán cho ngư dân",
+      "link": "https://vnexpress.net/me-va-con-trai-tang-tru-hon-1-3-tan-thuoc-no-5074767.html",
+      "summary": "Mẹ con bà Bé cùng 5 người bị đề nghị truy tố vì tàng trữ hơn 1,3 tấn thuốc nổ, bán cho ngư dân đánh bắt trái phép.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:53:26+07:00",
+      "fetched": "2026-05-16T23:45:10.785867+07:00"
+    },
+    {
       "id": "fdf542631f008305b3beb1b461b84754",
       "title": "Nguyễn Tài Lộc lập cú đúp, Ninh Bình ngược dòng hạ SLNA trên sân Vinh",
       "link": "https://thanhnien.vn/nguyen-tai-loc-lap-cu-dup-ninh-binh-nguoc-dong-ha-slna-tren-san-vinh-185260516213854745.htm",
@@ -611,6 +941,16 @@ window.newsData_2026_05_16 = {
       "category": "Tổng hợp",
       "published": "2026-05-16T14:47:00+07:00",
       "fetched": "2026-05-16T21:47:40.187658+07:00"
+    },
+    {
+      "id": "3cfe509dd125d04deb5367ae6943d3c4",
+      "title": "Vờ mua 10 quả trứng gà để giật dây chuyền vàng",
+      "link": "https://vnexpress.net/vo-mua-10-qua-trung-ga-de-giat-day-chuyen-vang-5074765.html",
+      "summary": "Nguyễn Trung Sáng vờ hỏi mua 10 quả trứng gà, khi nữ chủ quán xuất hiện thì giật dây chuyền vàng trên cổ, bán lấy hơn 74 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:46:05+07:00",
+      "fetched": "2026-05-16T23:45:10.786033+07:00"
     },
     {
       "id": "f2f4518efa0cb49f161e9a56c63f8101",
@@ -643,6 +983,36 @@ window.newsData_2026_05_16 = {
       "fetched": "2026-05-16T21:47:40.188112+07:00"
     },
     {
+      "id": "37da68c9a81827c26c2debe645215142",
+      "title": "Ca sĩ Miu Lê bị khởi tố với cáo buộc tổ chức sử dụng ma túy",
+      "link": "https://vnexpress.net/ca-si-miu-le-bi-khoi-to-voi-cao-buoc-to-chuc-su-dung-ma-tuy-5074769.html",
+      "summary": "Ca sĩ Miu Lê, tên thật Lê Ánh Nhật, cùng hai người bạn vừa bị tạm giam, khởi tố về tội Tổ chức sử dụng trái phép chất ma túy, sau thời gian công an củng cố chứng cứ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:35:36+07:00",
+      "fetched": "2026-05-16T23:45:10.786189+07:00"
+    },
+    {
+      "id": "25926be08708462c93275140be5e1c72",
+      "title": "Ma túy trong 'lối sống showbiz'",
+      "link": "https://vnexpress.net/ma-tuy-trong-loi-song-showbiz-5074606.html",
+      "summary": "Mỗi lần một nghệ sĩ dính bê bối ma túy, công chúng lại đặt ra câu hỏi quen thuộc: 'Tại sao họ có tất cả mà vẫn sa ngã?'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:34:56+07:00",
+      "fetched": "2026-05-16T23:45:10.786342+07:00"
+    },
+    {
+      "id": "8f11b00eb6066a7ddf233892fd7bbd6f",
+      "title": "Váy áo giúp tỷ phú Trung Quốc tỏa sáng",
+      "link": "https://vnexpress.net/vay-ao-giup-ty-phu-trung-quoc-toa-sang-5073372.html",
+      "summary": "\"Em gái trà sữa\" Chương Trạch Thiên, sở hữu tài sản hơn 8 tỷ USD, thu hút chú ý của khán giả với đầm trễ vai, dáng cột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:30:00+07:00",
+      "fetched": "2026-05-16T23:45:10.786497+07:00"
+    },
+    {
       "id": "f6bdf5212d5bec144bd7c32cdc064134",
       "title": "Đạo diễn Nguyễn Quang Dũng: Thế hệ của tôi có một nỗi ám ảnh về doanh thu",
       "link": "https://thanhnien.vn/dao-dien-nguyen-quang-dung-the-he-cua-toi-co-mot-noi-am-anh-ve-doanh-thu-185260516200541743.htm",
@@ -671,6 +1041,16 @@ window.newsData_2026_05_16 = {
       "category": "Tổng hợp",
       "published": "2026-05-16T14:23:15+07:00",
       "fetched": "2026-05-16T21:47:37.193996+07:00"
+    },
+    {
+      "id": "4bf0b5de017e29428e266de62c5004d7",
+      "title": "Diều khổng lồ bay trên quảng trường ở Cà Mau",
+      "link": "https://vnexpress.net/dieu-khong-lo-bay-tren-quang-truong-o-ca-mau-5074742.html",
+      "summary": "Hàng chục cánh diều lớn mô phỏng hình tôm, cua và nhân vật hoạt hình bay lượn trên quảng trường Phan Ngọc Hiển, thu hút đông người dân và du khách đến xem.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:23:15+07:00",
+      "fetched": "2026-05-16T23:45:10.786842+07:00"
     },
     {
       "id": "a434286e26412272ce917197860fa326",
