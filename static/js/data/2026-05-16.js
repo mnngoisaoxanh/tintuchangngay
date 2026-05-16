@@ -1,7 +1,157 @@
 window.newsData_2026_05_16 = {
   "date": "2026-05-16",
-  "lastUpdated": "2026-05-16T19:58:55.210124+07:00",
+  "lastUpdated": "2026-05-16T21:47:49.807710+07:00",
   "articles": [
+    {
+      "id": "b0cf5ec499069ed7972487200d1eaa6c",
+      "title": "Những sự cố trên sân Cao Lãnh trận Đồng Tháp tiếp Long An",
+      "link": "https://tuoitre.vn/nhung-su-co-tren-san-cao-lanh-tran-dong-thap-tiep-long-an-20260516191045315.htm",
+      "summary": "Cho rằng đồng đội bị phạm lỗi trong vòng cấm địa, cầu thủ Đồng Tháp phản ứng mạnh với trọng tài nhưng đành chấp nhận hòa CLB Long An 1-1 ở vòng 19 Giải hạng nhất quốc gia 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.248734+07:00",
+      "fetched": "2026-05-16T21:47:41.248836+07:00"
+    },
+    {
+      "id": "3f571853b0ae0bb5d6cc881360d40935",
+      "title": "Trung Đông tối 16-5: Iran lập cơ chế quản lý eo biển Hormuz; Châu Âu 'xuống nước' với Iran?",
+      "link": "https://tuoitre.vn/trung-dong-toi-16-5-iran-lap-co-che-quan-ly-eo-bien-hormuz-chau-au-xuong-nuoc-voi-iran-20260516190047064.htm",
+      "summary": "Iran chuẩn bị cơ chế quản lý tàu thuyền ở eo biển Hormuz và thu phí; Có tin các nước châu Âu đàm phán với Iran để xin cho tàu thuyền đi qua eo biển Hormuz... là một số tin tức đáng chú ý về Trung Đông tối 16-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.248631+07:00",
+      "fetched": "2026-05-16T21:47:41.248725+07:00"
+    },
+    {
+      "id": "2f3a87aff5b284bf121fa8def521fa29",
+      "title": "Kỷ lục phòng vé Việt Nam năm 2025 khó lặp lại trong nhiều năm tới",
+      "link": "https://tuoitre.vn/ky-luc-phong-ve-viet-nam-nam-2025-kho-lap-lai-trong-nhieu-nam-toi-20260516182906767.htm",
+      "summary": "Theo TS Ngô Phương Lan, điện ảnh Việt Nam năm nay không có 'thiên thời' như năm 2025. Do đó, điều quan trọng là phải biết chuyển những thành công đạt được thành động lực phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.248533+07:00",
+      "fetched": "2026-05-16T21:47:41.248619+07:00"
+    },
+    {
+      "id": "30441839b16edbeb7059630d7b4b3254",
+      "title": "Trao quyền cho thiếu niên để cùng xây dựng không gian mạng an toàn",
+      "link": "https://tuoitre.vn/trao-quyen-cho-thieu-nien-de-cung-xay-dung-khong-gian-mang-an-toan-20260516185119886.htm",
+      "summary": "Giờ đây ngoài nhà trường, gia đình và nền tảng thì thiếu niên cũng cần được trao quyền để chia sẻ trải nghiệm, phản ánh những vấn đề mình gặp phải trên môi trường số và tham gia xây dựng giải pháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.248437+07:00",
+      "fetched": "2026-05-16T21:47:41.248524+07:00"
+    },
+    {
+      "id": "b324f5b906da20e2d37ef2bf23a8b0cd",
+      "title": "Ru cảnh, ru tình với Phan Minh Bạch",
+      "link": "https://tuoitre.vn/ru-canh-ru-tinh-voi-phan-minh-bach-20260516185544111.htm",
+      "summary": "33 tác phẩm tranh lụa trong triển lãm ‘Ru cảnh’ của Phan Minh Bạch có cả những thiên nhiên xanh ngát hùng vĩ lẫn những cuộn sóng của lòng đất, những đổi dời của cảnh quan phố thị và những ‘đại tự sự’ của họa sĩ…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.248338+07:00",
+      "fetched": "2026-05-16T21:47:41.248429+07:00"
+    },
+    {
+      "id": "2e8644e347c776d39946a122a8b31a81",
+      "title": "Rủ nhau đi tắm sông, 4 học sinh chết đuối thương tâm",
+      "link": "https://tuoitre.vn/dak-lak-ru-nhau-di-tam-song-4-em-hoc-sinh-duoi-nuoc-thuong-tam-20260516191634747.htm",
+      "summary": "Lực lượng chức năng đang tích cực tìm kiếm thi thể 4 học sinh trú xã Hòa Mỹ, Đắk Lắk (trước là Phú Yên) trong lúc tắm sông không may bị chết đuối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.248241+07:00",
+      "fetched": "2026-05-16T21:47:41.248330+07:00"
+    },
+    {
+      "id": "e4c919e1307d8da90ca8cca9118a7485",
+      "title": "Thêm một đội bóng chuyền nữ Việt Nam gây sốc cho đối thủ nước ngoài",
+      "link": "https://tuoitre.vn/them-mot-doi-bong-chuyen-nu-viet-nam-gay-soc-cho-doi-thu-nuoc-ngoai-20260516193128244.htm",
+      "summary": "Sau Hà Nội, đến lượt CLB LPBank Ninh Bình tạo ra bất ngờ trước đối thủ quốc tế tại Giải bóng chuyền nữ Cúp VTV9 - Bình Điền 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.248139+07:00",
+      "fetched": "2026-05-16T21:47:41.248232+07:00"
+    },
+    {
+      "id": "77f48dac08ba2445d453f2eac6818d31",
+      "title": "Nhận được 400 triệu đồng, người phụ nữ báo công an trả lại người chuyển tiền nhầm",
+      "link": "https://tuoitre.vn/nhan-duoc-400-trieu-dong-nguoi-phu-nu-bao-cong-an-tra-lai-nguoi-chuyen-tien-nham-2026051619193553.htm",
+      "summary": "Một người phụ nữ ở Ninh Bình bỗng dưng nhận được 400 triệu đồng vào tài khoản đã ngay lập tức báo công an để trả lại người chuyển tiền nhầm từ TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.248041+07:00",
+      "fetched": "2026-05-16T21:47:41.248131+07:00"
+    },
+    {
+      "id": "c082dba6b9f69deba899e43fa850e054",
+      "title": "Bộ Công Thương đề xuất thành lập Cục Năng lượng - Dầu khí",
+      "link": "https://tuoitre.vn/bo-cong-thuong-de-xuat-thanh-lap-cuc-nang-luong-dau-khi-20260516193548468.htm",
+      "summary": "Bộ Công Thương vừa có dự thảo tờ trình nghị định quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức cùng hồ sơ thẩm định gửi Bộ Tư pháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.247941+07:00",
+      "fetched": "2026-05-16T21:47:41.248032+07:00"
+    },
+    {
+      "id": "6331e237c3b7ba5a4526449542b33fb8",
+      "title": "Ê kíp Perfect Crown xin lỗi về tranh cãi xuyên tạc lịch sử",
+      "link": "https://tuoitre.vn/e-kip-perfect-crown-xin-loi-ve-tranh-cai-xuyen-tac-lich-su-20260516192056088.htm",
+      "summary": "Tập áp chót của Perfect Crown khiến mạng xã hội bùng nổ tranh cãi vì kịch bản vướng nhiều cáo buộc sai lệch lịch sử, khiến nhà sản xuất phải nhanh chóng lên tiếng xin lỗi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.247820+07:00",
+      "fetched": "2026-05-16T21:47:41.247931+07:00"
+    },
+    {
+      "id": "4f5561badd8eed9d866b3f658b1729d2",
+      "title": "Hơn 100 tay vợt dự giải Vietnam Padel Open 2026",
+      "link": "https://tuoitre.vn/hon-100-tay-vot-du-giai-vietnam-padel-open-2026-20260516194855761.htm",
+      "summary": "Ngày 16-5, giải Vietnam Padel Open 2026 được khởi tranh để tuyển chọn và tìm kiếm vận động viên cho đội tuyển padel Việt Nam hướng đến các giải đấu trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.247717+07:00",
+      "fetched": "2026-05-16T21:47:41.247811+07:00"
+    },
+    {
+      "id": "ac5d788969934a3b63253a92173a9748",
+      "title": "Bắt tạm giam một giáo viên ở An Giang lợi dụng tự do ngôn luận xâm phạm lợi ích tổ chức, cá nhân",
+      "link": "https://tuoitre.vn/bat-tam-giam-mot-giao-vien-o-an-giang-loi-dung-tu-do-ngon-luan-xam-pham-loi-ich-to-chuc-ca-nhan-20260516193252343.htm",
+      "summary": "Ngày 16-5, Công an tỉnh An Giang cho biết đã bắt tạm giam Vũ Thị Hương (55 tuổi, ngụ phường Tô Châu) về hành vi lợi dụng các quyền tự do dân chủ xâm phạm quyền, lợi ích hợp pháp của tổ chức, cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.247609+07:00",
+      "fetched": "2026-05-16T21:47:41.247708+07:00"
+    },
+    {
+      "id": "16361cb4dd57b9bfb499651a7fc1d713",
+      "title": "Kịch ‘Miền Nam trong trái tim Bác’ về Pác Bó",
+      "link": "https://tuoitre.vn/kich-mien-nam-trong-trai-tim-bac-ve-pac-bo-20260516194210918.htm",
+      "summary": "Hai vở kịch ngắn về hình tượng Chủ tịch Hồ Chí Minh là ‘Chuyện nhà chị Tín’ và ‘Miền Nam trong trái tim Bác’ cùng các ca khúc ca ngợi Bác Hồ sẽ được các nghệ sĩ từ Hà Nội đến diễn miễn phí tại Khu Di tích quốc gia đặc biệt Pác Bó và TP Cao Bằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.247497+07:00",
+      "fetched": "2026-05-16T21:47:41.247599+07:00"
+    },
+    {
+      "id": "65591b97d102bdd25589727515f6528e",
+      "title": "Người Đà Nẵng rước Thần Nông, làm lễ trước đá thần nhân lễ hội mục đồng làng Phong Lệ",
+      "link": "https://tuoitre.vn/nguoi-da-nang-ruoc-than-nong-lam-le-truoc-da-than-nhan-le-hoi-muc-dong-lang-phong-le-2026051619593437.htm",
+      "summary": "Chiều 16-5, người dân làng cổ Phong Lệ (phường Hòa Xuân, TP Đà Nẵng) ra cánh đồng, theo đoàn rước Thần Nông đến làm lễ trước đá thần để cầu cho mưa thuận gió hòa, mùa màng bội thu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.247359+07:00",
+      "fetched": "2026-05-16T21:47:41.247474+07:00"
+    },
+    {
+      "id": "a6509f605f8355b14fb73a45e1ea7a1e",
+      "title": "Hé lộ hình ảnh Doraemon du lịch Việt Nam, đội nón lá và mặc áo dài",
+      "link": "https://tuoitre.vn/he-lo-hinh-anh-doraemon-du-lich-viet-nam-doi-non-la-va-mac-ao-dai-20260516195815075.htm",
+      "summary": "Giữa lúc Doraemon Movie 45 đang oanh tạc phòng vé Việt, ê kíp tiếp tục khiến khán giả thích thú khi công bố những hình ảnh đầu tiên về tập phim đặc biệt lấy bối cảnh Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T21:47:41.247093+07:00",
+      "fetched": "2026-05-16T21:47:41.247346+07:00"
+    },
     {
       "id": "87a704c9ee25ebf3874ec4a7554cc5de",
       "title": "Xử phạt tài xế xe đầu kéo biển số TP.HCM tông gãy cần chắn đường sắt ở Khánh Hòa",
@@ -453,6 +603,256 @@ window.newsData_2026_05_16 = {
       "fetched": "2026-05-16T16:21:19.299569+07:00"
     },
     {
+      "id": "fdf542631f008305b3beb1b461b84754",
+      "title": "Nguyễn Tài Lộc lập cú đúp, Ninh Bình ngược dòng hạ SLNA trên sân Vinh",
+      "link": "https://thanhnien.vn/nguyen-tai-loc-lap-cu-dup-ninh-binh-nguoc-dong-ha-slna-tren-san-vinh-185260516213854745.htm",
+      "summary": "Geovane Magno, cầu thủ vừa có quốc tịch Việt Nam với tên mới Nguyễn Tài Lộc, ghi 2 bàn trong những phút cuối giúp CLB Ninh Bình thắng ngược SLNA 2-1 tại vòng 23 V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:47:00+07:00",
+      "fetched": "2026-05-16T21:47:40.187658+07:00"
+    },
+    {
+      "id": "f2f4518efa0cb49f161e9a56c63f8101",
+      "title": "‘Mưa siêu phẩm’ tại Lạch Tray, CLB Hải Phòng thắng bùng nổ Becamex TP.HCM",
+      "link": "https://thanhnien.vn/mua-sieu-pham-tai-lach-tray-clb-hai-phong-thang-bung-no-becamex-tphcm-18526051621414979.htm",
+      "summary": "Trong trận cầu mãn nhãn trên sân Lạch Tray tối 16.5, CLB Hải Phòng đánh bại Becamex TP.HCM 4-2 với hàng loạt bàn thắng đẹp mắt, ở vòng 23 V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:46:00+07:00",
+      "fetched": "2026-05-16T21:47:40.187806+07:00"
+    },
+    {
+      "id": "a74758c88c17127bed4528877e5e68da",
+      "title": "Công Phượng tái xuất bằng siêu phẩm, Trường Tươi Đồng Nai xây chắc ngôi đầu",
+      "link": "https://thanhnien.vn/cong-phuong-tai-xuat-bang-sieu-pham-truong-tuoi-dong-nai-xay-chac-ngoi-dau-185260516214022196.htm",
+      "summary": "Tối 16.5, Trường Tươi Đồng Nai có chiến thắng thuyết phục 3-0 trước Đại học Văn Hiến trên sân nhà, qua đó tiếp tục củng cố vị trí dẫn đầu bảng xếp hạng giải hạng nhất quốc gia Bia Sao Vàng 2025-2026. Đáng chú ý, Công Phượng đã trở lại đầy ấn tượng sau thời gian dài nghỉ thi đấu vì chấn thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:46:00+07:00",
+      "fetched": "2026-05-16T21:47:40.187979+07:00"
+    },
+    {
+      "id": "57287acbfed4d4b14e119c53d8216822",
+      "title": "Khởi tố, bắt tạm giam ca sĩ Miu Lê",
+      "link": "https://thanhnien.vn/khoi-to-bat-tam-giam-ca-si-miu-le-185260516213924445.htm",
+      "summary": "Ca sĩ Miu Lê bị Công an TP.Hải Phòng bắt tạm giam để điều tra hành vi tổ chức sử dụng trái phép chất ma túy, liên quan vụ nhiều người dương tính ma túy tại bãi tắm Tùng Thu, đặc khu Cát Hải (Hải Phòng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:46:00+07:00",
+      "fetched": "2026-05-16T21:47:40.188112+07:00"
+    },
+    {
+      "id": "f6bdf5212d5bec144bd7c32cdc064134",
+      "title": "Đạo diễn Nguyễn Quang Dũng: Thế hệ của tôi có một nỗi ám ảnh về doanh thu",
+      "link": "https://thanhnien.vn/dao-dien-nguyen-quang-dung-the-he-cua-toi-co-mot-noi-am-anh-ve-doanh-thu-185260516200541743.htm",
+      "summary": "Đạo diễn Nguyễn Quang Dũng chia sẻ thế hệ của mình đã làm được chuyện 'nhà làm phim tự nuôi sống được bản thân'. Anh chờ đợi thế hệ làm phim trẻ bước ra thế giới, chinh phục được thị trường nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:25:00+07:00",
+      "fetched": "2026-05-16T21:47:40.188233+07:00"
+    },
+    {
+      "id": "5ae9e9fea60b7ec321e3460e0d33e12a",
+      "title": "Khoảnh khắc tàu hỏa đâm xe buýt và nhiều ôtô, gây cháy lớn ở Thái Lan",
+      "link": "https://vnexpress.net/khoanh-khac-tau-hoa-dam-xe-buyt-va-nhieu-oto-gay-chay-lon-o-thai-lan-5074764.html",
+      "summary": "Tàu hỏa chở hàng tông ngang xe buýt và hàng loạt phương tiện khác, gây cháy lớn tại ngã tư giao cắt đường bộ với đường sắt ở Bangkok, khiến ít nhất 8 người chết, chiều 16/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:23:55+07:00",
+      "fetched": "2026-05-16T21:47:37.193813+07:00"
+    },
+    {
+      "id": "9e11103503569523376a5b4a570053c4",
+      "title": "Diều khổng lồ bay trên quảng trường con tôm Cà Mau",
+      "link": "https://vnexpress.net/dieu-khong-lo-bay-tren-quang-truong-con-tom-ca-mau-5074742.html",
+      "summary": "Hàng chục cánh diều lớn mô phỏng hình tôm, cua và nhân vật hoạt hình bay lượn trên quảng trường Phan Ngọc Hiển, thu hút đông người dân và du khách đến xem.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:23:15+07:00",
+      "fetched": "2026-05-16T21:47:37.193996+07:00"
+    },
+    {
+      "id": "a434286e26412272ce917197860fa326",
+      "title": "Trộm đập kính đột nhập tiệm nail gây xôn xao ở Cà Mau",
+      "link": "https://thanhnien.vn/trom-dap-kinh-dot-nhap-tiem-nail-gay-xon-xao-o-ca-mau-185260516204731688.htm",
+      "summary": "Công an đang xác minh vụ trộm đột nhập tiệm nail lấy tài sản sau khi dùng xà beng đập vỡ cửa kính tiệm ở xã Thới Bình, Cà Mau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:18:00+07:00",
+      "fetched": "2026-05-16T21:47:40.188353+07:00"
+    },
+    {
+      "id": "032671951af8700c12f42cc9eabc526d",
+      "title": "Nhiều nghệ sĩ quen thuộc trở lại cùng ‘Tài năng diễn viên cải lương toàn quốc 2026'",
+      "link": "https://thanhnien.vn/nhieu-nghe-si-quen-thuoc-tro-lai-cung-tai-nang-dien-vien-cai-luong-toan-quoc-2026-185260516205718419.htm",
+      "summary": "Cuộc thi Tài năng diễn viên cải lương toàn quốc 2026 do Bộ VH-TT-DL kết hợp Cục Nghệ thuật biểu diễn, UBND TPHCM, Hội Nghệ sĩ Sân khấu VN và Sở VH-TT TPHCM tổ chức, diễn ra từ 17 đến 23.5 tại Nhà hát Trần Hữu Trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:15:00+07:00",
+      "fetched": "2026-05-16T21:47:40.188482+07:00"
+    },
+    {
+      "id": "87e01a62a8784d9c8565b5318212e0d0",
+      "title": "Những quan niệm về pin điện thoại đã lỗi thời",
+      "link": "https://thanhnien.vn/nhung-quan-niem-ve-pin-dien-thoai-da-loi-thoi-185260511225903532.htm",
+      "summary": "Nhiều thói quen dùng điện thoại tưởng đúng lại có thể khiến pin lithium-ion nhanh xuống cấp hơn theo thời gian sử dụng hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:15:00+07:00",
+      "fetched": "2026-05-16T21:47:40.188603+07:00"
+    },
+    {
+      "id": "82d55add8c8046f4d6cdf64aad88c643",
+      "title": "Công Phượng lập siêu phẩm khi tái xuất",
+      "link": "https://vnexpress.net/cong-phuong-lap-sieu-pham-khi-tai-xuat-5074763.html",
+      "summary": "Tiền đạo Nguyễn Công Phượng ghi bàn từ đá phạt giúp Trường Tươi Đồng Nai thắng ĐH Văn Hiến 3-0 ở vòng 19 giải hạng Nhất Quốc gia 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:14:52+07:00",
+      "fetched": "2026-05-16T21:47:37.194133+07:00"
+    },
+    {
+      "id": "82d55add8c8046f4d6cdf64aad88c643",
+      "title": "Công Phượng lập siêu phẩm khi tái xuất",
+      "link": "https://vnexpress.net/cong-phuong-lap-sieu-pham-khi-tai-xuat-5074763.html",
+      "summary": "Tiền đạo Nguyễn Công Phượng ghi bàn từ đá phạt giúp Trường Tươi Đồng Nai thắng ĐH Văn Hiến 3-0 ở vòng 19 giải hạng Nhất Quốc gia 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-16T14:14:52+07:00",
+      "fetched": "2026-05-16T21:47:49.795734+07:00"
+    },
+    {
+      "id": "6cd2d299f7cb9e4835a37d5a992b69be",
+      "title": "Highlight CLB Hải Phòng 4-2 Becamex TP.HCM: 'Mưa' bàn thắng trên sân Lạch Tray",
+      "link": "https://thanhnien.vn/highlight-clb-hai-phong-4-2-becamex-tphcm-mua-ban-thang-tren-san-lach-tray-185260516210235057.htm",
+      "summary": "CLB Hải Phòng và Becamex TP.HCM tạo nên màn rượt đuổi hấp dẫn với 6 bàn thắng cùng hàng loạt siêu phẩm đẹp mắt trên sân Lạch Tray ở vòng 23 V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:02:00+07:00",
+      "fetched": "2026-05-16T21:47:40.188728+07:00"
+    },
+    {
+      "id": "46831d7575965893cbef01d82469a992",
+      "title": "U.17 Việt Nam - U.17 Úc, tứ kết châu Á:Thầy trò HLV Roland viết tiếp lịch sử?",
+      "link": "https://thanhnien.vn/u17-viet-nam-u17-uc-tu-ket-chau-athay-tro-hlv-roland-viet-tiep-lich-su-18526051620230576.htm",
+      "summary": "Hiên ngang tiến vào tứ kết với ngôi nhất bảng và tấm vé World Cup lịch sử, đội tuyển U.17 Việt Nam đang đứng trước cơ hội viết tiếp kỳ tích khi tái đấu đối thủ duyên nợ U.17 Úc vào 0 giờ ngày 17.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:02:00+07:00",
+      "fetched": "2026-05-16T21:47:40.188863+07:00"
+    },
+    {
+      "id": "b1768d70272d6e04ab73a8f0dad3fc90",
+      "title": "Kể chuyện Sài Gòn qua những góc nhìn 'mặn mòi và bao dung'",
+      "link": "https://thanhnien.vn/ke-chuyen-sai-gon-qua-nhung-goc-nhin-man-moi-va-bao-dung-1852605161920224.htm",
+      "summary": "'Mặn mòi và bao dung, kết nối và sống động', đó không chỉ là những mỹ từ dành cho Sài Gòn, mà còn là cảm nhận chung của các diễn giả, nghệ nhân và người trẻ khi cùng gặp gỡ tại tọa đàm 'Văn hóa, ẩm thực và đời sống Việt Nam giữa lòng Sài Gòn'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:02:00+07:00",
+      "fetched": "2026-05-16T21:47:40.188983+07:00"
+    },
+    {
+      "id": "2b29a2c2c2baa3d84c8734afbc004f50",
+      "title": "Highlight CLB SLNA 1-2 Ninh Bình: Chiến thắng ngược nghẹt thở",
+      "link": "https://thanhnien.vn/highlight-clb-slna-1-2-ninh-binh-chien-thang-nguoc-nghet-tho-185260516210146667.htm",
+      "summary": "Bị SLNA dẫn trước trên sân Vinh, CLB Ninh Bình vẫn tạo nên màn ngược dòng đầy kịch tính nhờ cú đúp của Nguyễn Tài Lộc để giành chiến thắng 2-1 ở vòng 23 V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:01:00+07:00",
+      "fetched": "2026-05-16T21:47:40.189102+07:00"
+    },
+    {
+      "id": "4e3de89e01f253d3ced941ae4d8efa5e",
+      "title": "Con gái lớp 8 dùng điện thoại nhiều khiến học hành sa sút",
+      "link": "https://vnexpress.net/con-gai-lop-8-dung-dien-thoai-nhieu-khien-hoc-hanh-sa-sut-5074758.html",
+      "summary": "Con gái tôi học lớp 8, học lực giảm hẳn từ khi dùng điện thoại nhiều. Tôi cấm thì con phản ứng rất dữ, còn nói \"mẹ chẳng hiểu gì\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:00:00+07:00",
+      "fetched": "2026-05-16T21:47:37.194271+07:00"
+    },
+    {
+      "id": "cbdf7c077fd9e803f26a6e44935123a9",
+      "title": "Highlight Đồng Tháp 1-1 Long An: Nhóm cuối bảng cầm chân nhau",
+      "link": "https://thanhnien.vn/highlight-dong-thap-1-1-long-an-nhom-cuoi-bang-cam-chan-nhau-185260516210057652.htm",
+      "summary": "Đồng Tháp và Long An bất phân thắng bại trong trận hòa 1-1 ở vòng 19 giải hạng nhất quốc gia 2025-2026, kết quả khiến cuộc cạnh tranh ở nhóm cuối bảng tiếp tục căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:00:00+07:00",
+      "fetched": "2026-05-16T21:47:40.189222+07:00"
+    },
+    {
+      "id": "176296edf125c81bb4406e0cc2053c58",
+      "title": "Học cách thắt cà vạt chuẩn 'gu' cho mọi bản phối thời trang",
+      "link": "https://thanhnien.vn/thoi-trang-tre/hoc-cach-that-ca-vat-chuan-gu-cho-moi-ban-phoi-thoi-trang-185260515144739907.htm",
+      "summary": "Cà vạt không chỉ là biểu tượng của sự lịch lãm truyền thống mà còn là món phụ kiện phá cách đầy ấn tượng cho những bản phối hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T14:00:00+07:00",
+      "fetched": "2026-05-16T21:47:40.189337+07:00"
+    },
+    {
+      "id": "3bcee050813cbb8c4f4f1244ac46ed3e",
+      "title": "Highlight Khánh Hòa 2-2 Bắc Ninh: Hụt hơi cuộc đua vô địch",
+      "link": "https://thanhnien.vn/highlight-khanh-hoa-2-2-bac-ninh-hut-hoi-cuoc-dua-vo-dich-185260516205932137.htm",
+      "summary": "Dù đang ở thế cần bám đuổi Trường Tươi Đồng Nai, Bắc Ninh FC vẫn để Khánh Hòa cầm hòa 2-2 trên sân 19.8, qua đó bỏ lỡ cơ hội rút ngắn khoảng cách trong cuộc đua vô địch giải hạng nhất quốc gia 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T13:59:00+07:00",
+      "fetched": "2026-05-16T21:47:40.189457+07:00"
+    },
+    {
+      "id": "77dd2dcb8ab1973b1cb440fa6ec77e07",
+      "title": "Ôtô mất lái tông bay người xe máy",
+      "link": "https://vnexpress.net/oto-mat-lai-tong-bay-nguoi-xe-may-5074754.html",
+      "summary": "Ôtô đang quay đầu bất ngờ loạng choạng, mất lái rồi lao sang phải, tông trúng xe máy chạy sát lề, sáng 16/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T13:38:08+07:00",
+      "fetched": "2026-05-16T21:47:37.194400+07:00"
+    },
+    {
+      "id": "7fe1197d84110aedccbb1849efec38bc",
+      "title": "Nhà hai tầng ở TP HCM cháy ngùn ngụt",
+      "link": "https://vnexpress.net/nha-hai-tang-o-tp-hcm-chay-ngun-ngut-5074757.html",
+      "summary": "Lửa bùng phát từ căn nhà hai tầng trong hẻm gần ngã tư Bảy Hiền (quận Tân Bình cũ), khói đen bao trùm khu dân cư, nhiều người hoảng loạn tháo chạy, tối 16/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T13:36:24+07:00",
+      "fetched": "2026-05-16T21:47:37.194528+07:00"
+    },
+    {
+      "id": "18629351be3ffbec62e148b13d4c5f29",
+      "title": "Dung mạo con trai út Britney Spears gây chú ý",
+      "link": "https://vnexpress.net/dung-mao-con-trai-ut-britney-spears-gay-chu-y-5074572.html",
+      "summary": "Jayden James - 20 tuổi, con út của Britney Spears và chồng cũ, vũ công Kevin Federline - được nhận xét giống mẹ, cao hơn 1,9 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T13:30:00+07:00",
+      "fetched": "2026-05-16T21:47:37.194648+07:00"
+    },
+    {
+      "id": "1a835b61e89659a6d4199a0bd12eb740",
+      "title": "Ba học sinh Đăk Lăk tử vong khi tắm sông",
+      "link": "https://vnexpress.net/ba-hoc-sinh-dak-lak-tu-vong-khi-tam-song-5074751.html",
+      "summary": "Bốn học sinh 9-14 tuổi rủ nhau tắm sông Bánh Lái, xã Hòa Mỹ (Phú Yên cũ), không may bị nước cuốn, ba em đã được tìm thấy tử vong, một em mất tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T13:20:40+07:00",
+      "fetched": "2026-05-16T21:47:37.194768+07:00"
+    },
+    {
+      "id": "54ac2ff259a4460469b14ba60de24ba3",
+      "title": "Ca sĩ Quang Lập nổi lên thế nào trước khi bị khởi tố?",
+      "link": "https://vnexpress.net/ca-si-quang-lap-noi-len-the-nao-truoc-khi-bi-khoi-to-5074727.html",
+      "summary": "Ca sĩ Quang Lập, được biết đến qua các chương trình bolero trực tuyến thu hút đông người xem, vừa bị khởi tố về hành vi Xâm phạm quyền tác giả, quyền liên quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T13:16:59+07:00",
+      "fetched": "2026-05-16T21:47:37.194911+07:00"
+    },
+    {
       "id": "aeb5fa396725d7eee968e570e9b4c748",
       "title": "Những lá thư tay",
       "link": "https://tuoitre.vn/nhung-la-thu-tay-20260516101426722.htm",
@@ -603,6 +1003,46 @@ window.newsData_2026_05_16 = {
       "fetched": "2026-05-16T13:14:41.382714+07:00"
     },
     {
+      "id": "461e3e1fb99d42a69ca5d655b34e09d9",
+      "title": "Công an làm việc với người livestream dọa đánh mẹ",
+      "link": "https://vnexpress.net/cong-an-lam-viec-voi-nguoi-livestream-doa-danh-me-5074753.html",
+      "summary": "Bùi Xuân Cường, 36 tuổi, thừa nhận đã livestream trên Facebook chửi bới, dọa đánh mẹ đẻ sau khi sử dụng rượu bia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T13:14:38+07:00",
+      "fetched": "2026-05-16T21:47:37.195033+07:00"
+    },
+    {
+      "id": "669c6912fd1380854e8dea18e7ec1209",
+      "title": "Người dân nước nào dùng điện nhiều nhất thế giới?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-dung-dien-nhieu-nhat-the-gioi-5074741.html",
+      "summary": "Đều có tổng lượng điện tiêu thụ lớn, nhưng tính trung bình thì dân Mỹ, Trung Quốc hay nước nào dùng điện nhiều nhất?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T13:06:03+07:00",
+      "fetched": "2026-05-16T21:47:37.195153+07:00"
+    },
+    {
+      "id": "69f30509d54c52cc5560d20ec1992de1",
+      "title": "Quán mì bình dân tỷ phú Jensen Huang ghé ăn ở Bắc Kinh",
+      "link": "https://vnexpress.net/quan-mi-binh-dan-ty-phu-jensen-huang-ghe-an-o-bac-kinh-5074716.html",
+      "summary": "Nằm trong phố cổ Nam La ở Bắc Kinh, quán mì Fangzhuanchang - nơi tỷ phú Jensen Huang ghé ăn - phục vụ duy nhất món Zhajiangmian truyền thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T13:00:38+07:00",
+      "fetched": "2026-05-16T21:47:37.195285+07:00"
+    },
+    {
+      "id": "9305c7ba292915da78e59efd130c2868",
+      "title": "Suýt tắc đường thở do thói quen nhai đá lạnh giải nhiệt",
+      "link": "https://vnexpress.net/suyt-tac-duong-tho-do-thoi-quen-nhai-da-lanh-giai-nhiet-5074462.html",
+      "summary": "Người đàn ông 66 tuổi khó nuốt, đau họng, đau amidan kèm sốt cao, bác sĩ chẩn đoán nguyên nhân liên quan thói quen nhai đá lạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T13:00:00+07:00",
+      "fetched": "2026-05-16T21:47:37.195409+07:00"
+    },
+    {
       "id": "c37ed858cf23f1ecea0d7dcb0de0df27",
       "title": "Hành trình âm nhạc và độ nổi tiếng của Quang Lập bolero",
       "link": "https://thanhnien.vn/hanh-trinh-am-nhac-va-do-noi-tieng-cua-quang-lap-bolero-185260516195602712.htm",
@@ -653,6 +1093,16 @@ window.newsData_2026_05_16 = {
       "fetched": "2026-05-16T19:58:46.316334+07:00"
     },
     {
+      "id": "f487efc90487c06b0d001443b5657b4e",
+      "title": "Xe đầu kéo vượt đèn đỏ, tông hỏng gác chắn đường sắt",
+      "link": "https://vnexpress.net/xe-dau-keo-vuot-den-do-tong-hong-gac-chan-duong-sat-5074737.html",
+      "summary": "Ôtô đầu kéo vượt đèn đỏ tại điểm giao cắt đường sắt ở xã Công Hải, tông hư hỏng cần chắn tự động rồi rời khỏi hiện trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:30:59+07:00",
+      "fetched": "2026-05-16T21:47:37.195532+07:00"
+    },
+    {
       "id": "7b63adfb35dc1cadfabf999136bcb17e",
       "title": "Ngắm Nha Trang từ rooftop lúc hoàng hôn: Biển, núi và phố thị hiện ra rất khác",
       "link": "https://thanhnien.vn/ngam-nha-trang-tu-rooftop-luc-hoang-hon-bien-nui-va-pho-thi-hien-ra-rat-khac-185260515153734233.htm",
@@ -661,6 +1111,16 @@ window.newsData_2026_05_16 = {
       "category": "Tổng hợp",
       "published": "2026-05-16T12:30:00+07:00",
       "fetched": "2026-05-16T19:58:46.316459+07:00"
+    },
+    {
+      "id": "14e03e773e3e28a99b06c406aca8d0f4",
+      "title": "Nutifood được cấp bằng sáng chế của Mỹ",
+      "link": "https://vnexpress.net/nutifood-duoc-cap-bang-sang-che-cua-my-5074745.html",
+      "summary": "Công thức FDI (Foundation of Digestion & Immunity) do Nutifood phát triển, vừa được Văn phòng Sáng chế và Thương hiệu Mỹ (USPTO) cấp bằng sáng chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T12:30:00+07:00",
+      "fetched": "2026-05-16T21:47:37.195666+07:00"
     },
     {
       "id": "0ab153db054d036a5e54db56416a5c66",
