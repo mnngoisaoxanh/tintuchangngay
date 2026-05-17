@@ -1,6 +1,6 @@
 window.newsData_2026_05_18 = {
   "date": "2026-05-18",
-  "lastUpdated": "2026-05-18T03:39:19.445222+07:00",
+  "lastUpdated": "2026-05-18T05:43:28.316250+07:00",
   "articles": [
     {
       "id": "ae7c2c7acafd2570c92b5b5355ee7394",
@@ -153,6 +153,176 @@ window.newsData_2026_05_18 = {
       "fetched": "2026-05-18T01:53:50.371863+07:00"
     },
     {
+      "id": "4ebc5978231d9ef65d9c42644d3b0671",
+      "title": "Vận hội mới của Đồng Nai: Top 3 chỉ số hài lòng của người dân",
+      "link": "https://thanhnien.vn/van-hoi-moi-cua-dong-nai-top-3-chi-so-hai-long-cua-nguoi-dan-185260517215113752.htm",
+      "summary": "Người dân nộp hồ sơ sẽ được phát một thẻ điện tử như ở quán cà phê, khi nào thẻ rung lên, phát tín hiệu thì biết đến lượt mình. Mọi người không phải nhấp nhổm, lắng nghe gọi tên hay căng mắt nhìn lên bảng như cách bốc số truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T22:36:00+07:00",
+      "fetched": "2026-05-18T05:43:16.757248+07:00"
+    },
+    {
+      "id": "7ed6d2b8604b95e1179ebf36ef58a620",
+      "title": "Tiêu điểm quốc tế 18.5:  Phó chỉ huy IS toàn cầu thiệt mạng | Ebola gây chết 80 người",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-185-pho-chi-huy-is-toan-cau-thiet-mang-ebola-gay-chet-80-nguoi-185260517230639273.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 18.5.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T22:33:00+07:00",
+      "fetched": "2026-05-18T05:43:16.757419+07:00"
+    },
+    {
+      "id": "6f9a6416aed7dd3a5f22f31d0ca47874",
+      "title": "Sinner hoàn tất bộ sưu tập Masters 1000",
+      "link": "https://vnexpress.net/sinner-hoan-tat-bo-suu-tap-masters-1000-5075013.html",
+      "summary": "Jannik Sinner trở thành tay vợt Italy đầu tiên vô địch Rome Masters sau 50 năm, khi hạ Casper Ruud 6-4, 6-4 trong trận chung kết hôm 17/5.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-17T22:30:44+07:00",
+      "fetched": "2026-05-18T05:43:28.311140+07:00"
+    },
+    {
+      "id": "37d3ccc3b71c76e91fe16d6210dc7b82",
+      "title": "Vợ chồng bán vé số 'ôm' vé ế, vỡ òa trúng 4 tỉ xổ số miền Nam",
+      "link": "https://thanhnien.vn/vo-chong-ban-ve-so-om-ve-e-vo-oa-trung-4-ti-xo-so-mien-nam-185260516184053999.htm",
+      "summary": "Chồng bệnh, người vợ mang cọc vé số của 2 vợ chồng đem bán nhưng không hết. Giữ lại vé ế, họ vỡ òa trong hạnh phúc khi phát hiện trúng 4 tỉ đồng xổ số miền Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T22:30:00+07:00",
+      "fetched": "2026-05-18T05:43:16.757579+07:00"
+    },
+    {
+      "id": "1896f4940349aed810f6c955912c003e",
+      "title": "Sắp xử vụ Việt kiều Mỹ kiện đòi hơn 3,4 tỉ đồng tiền lợi nhuận hợp tác xã",
+      "link": "https://thanhnien.vn/sap-xu-vu-viet-kieu-my-kien-doi-hon-34-ti-dong-tien-loi-nhuan-hop-tac-xa-185260517182949877.htm",
+      "summary": "Sau khi mãn hạn tù trở về địa phương, một Việt kiều Mỹ khởi kiện hợp tác xã do mình sáng lập, yêu cầu được chia hơn 3,4 tỉ đồng lợi nhuận (tương ứng 50% vốn góp)  mà ông cho rằng bị ngưng chi trả suốt nhiều năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T22:29:00+07:00",
+      "fetched": "2026-05-18T05:43:16.757752+07:00"
+    },
+    {
+      "id": "627437fa0d343a834e7e80ddcfaba85b",
+      "title": "Điện lưới thành phố giúp đổi thay làng nghề se nhang Lê Minh Xuân",
+      "link": "https://thanhnien.vn/dien-luoi-thanh-pho-giup-doi-thay-lang-nghe-se-nhang-le-minh-xuan-185260517203012456.htm",
+      "summary": "Ở TP.HCM, có một làng nghề với hơn 100 năm tuổi điển hình cho sự chuyển đổi và ứng dụng công nghệ vào sản xuất nhờ có điện lưới thành phố - đó là làng nghề se nhang Lê Minh Xuân (nay thuộc xã Bình Lợi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T22:21:00+07:00",
+      "fetched": "2026-05-18T05:43:16.757918+07:00"
+    },
+    {
+      "id": "5e879e0dc6c7135b8ea6b472374b3f2c",
+      "title": "Chiến sự Ukraine ngày 1.544: Kyiv tấn công ồ ạt vào Moscow",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1544-kyiv-tan-cong-o-at-vao-moscow-185260517180011384.htm",
+      "summary": "Cuộc tấn công trên không vào tỉnh Moscow đã gây thương vong, trong khi Bộ Quốc phòng Nga tuyên bố đã bắn hạ hơn 1.000 UAV của Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T22:20:00+07:00",
+      "fetched": "2026-05-18T05:43:16.758071+07:00"
+    },
+    {
+      "id": "3b4197edd47bdca832ff8176dfdcbf37",
+      "title": "Lời than của cụ bà 67 tuổi về cầu ngói Thanh Toàn: 'Cầu thì đẹp mà dưới sông toàn rác'",
+      "link": "https://thanhnien.vn/loi-than-cua-cu-ba-67-tuoi-ve-cau-ngoi-thanh-toan-cau-thi-dep-ma-duoi-song-toan-rac-185260517212504576.htm",
+      "summary": "Di tích kiến trúc nghệ thuật cấp quốc gia Cầu ngói Thanh Toàn (thành phố Huế) đang rơi vào cảnh nhếch nhác bởi rác thải tràn lan và hệ thống cảnh quan thiếu sự chăm sóc",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T22:17:00+07:00",
+      "fetched": "2026-05-18T05:43:16.758223+07:00"
+    },
+    {
+      "id": "625b597f3435b71528e8798eebc2031a",
+      "title": "Tử vi ngày 18 tháng 5: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-18-thang-5-con-giap-nao-may-man-hom-nay-185260517220546496.htm",
+      "summary": "Tử vi ngày 18 tháng 5 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm nổi bật là khả năng thích nghi với thay đổi nhỏ - không phải biến động lớn mà là những điều bất ngờ rất đời thường như đổi lịch, đổi kế hoạch hoặc thay đổi cảm xúc. Tài lộc không phụ thuộc vào việc mọi thứ có đúng như dự tính...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T22:15:00+07:00",
+      "fetched": "2026-05-18T05:43:16.758378+07:00"
+    },
+    {
+      "id": "e385c82e25a763808550bc1fe7618ea5",
+      "title": "Ukraine tăng hỏa lực tầm xa nhằm vào Nga",
+      "link": "https://thanhnien.vn/ukraine-tang-hoa-luc-tam-xa-nham-vao-nga-18526051720043076.htm",
+      "summary": "Ukraine đã đẩy mạnh tấn công tầm xa vào lãnh thổ Nga, đồng thời lên kế hoạch xây dựng hệ thống phòng thủ mới để bù đắp cho nguồn viện trợ bị siết chặt từ Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T22:15:00+07:00",
+      "fetched": "2026-05-18T05:43:16.758535+07:00"
+    },
+    {
+      "id": "f329732ce9e6cc4e821c39d07803402f",
+      "title": "Xe máy chiếm hẻm, gây khó cho phụ huynh",
+      "link": "https://thanhnien.vn/xe-may-chiem-hem-gay-kho-cho-phu-huynh-18526051719051155.htm",
+      "summary": "Nhiều phụ huynh Trường tiểu học Lý Nhân Tông (P.Chánh Hưng, TP.HCM) phản ánh: Để vào cổng trường đưa đón con em, phụ huynh phải đi vào hẻm số 575 Hưng Phú, P.Chánh Hưng, nhưng trong hẻm có quá nhiều x...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T22:13:00+07:00",
+      "fetched": "2026-05-18T05:43:18.656753+07:00"
+    },
+    {
+      "id": "c7ab3147e936b8a9ae4959c70c143b6b",
+      "title": "Tottenham sáng cửa trụ lại Ngoại hạng Anh",
+      "link": "https://vnexpress.net/tottenham-sang-cua-tru-lai-ngoai-hang-anh-5075012.html",
+      "summary": "Do West Ham thua Newcastle 1-3 ở vòng 37 Ngoại hạng Anh, Tottenham sẽ chắc suất trụ hạng nếu giành hai điểm ở hai vòng còn lại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-17T22:12:29+07:00",
+      "fetched": "2026-05-18T05:43:28.311318+07:00"
+    },
+    {
+      "id": "3b03f0a19047daafb6f9412eabc34e00",
+      "title": "Đường Xuyên Á xuống cấp, bụi bủa vây khu dân cư",
+      "link": "https://thanhnien.vn/duong-xuyen-a-xuong-cap-bui-bua-vay-khu-dan-cu-185260517194252168.htm",
+      "summary": "Sau hơn một thập niên đưa vào khai thác, tuyến đường Xuyên Á nối QL1 với QL12A đoạn qua xã Trung Thuần (tỉnh Quảng Trị) xuống cấp nghiêm trọng. Mặt đường hư hỏng, xe tải nặng hoạt động liên tục khiến bụi bẩn dày đặc bủa vây khu dân cư trong khi tai nạn luôn rình rập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T22:12:00+07:00",
+      "fetched": "2026-05-18T05:43:18.657003+07:00"
+    },
+    {
+      "id": "f0e18cb64d06e14777fd08aafe2cf3d6",
+      "title": "WHO ban bố tình trạng khẩn cấp quốc tế về dịch Ebola",
+      "link": "https://thanhnien.vn/who-ban-bo-tinh-trang-khan-cap-quoc-te-ve-dich-ebola-185260517200127247.htm",
+      "summary": "Tổ chức Y tế thế giới (WHO) ngày 17.5 tuyên bố 'tình trạng khẩn cấp y tế công cộng gây quan ngại quốc tế' đối với một chủng vi rút Ebola đã khiến hàng chục người chết ở CHDC Congo và Uganda.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T22:00:00+07:00",
+      "fetched": "2026-05-18T05:43:18.657172+07:00"
+    },
+    {
+      "id": "8e8734473fa5edc631483e7a07d93f93",
+      "title": "Lịch âm hôm nay: Ngày 18.5 là ngày gì đặc biệt?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-185-la-ngay-gi-dac-biet-185260517085007074.htm",
+      "summary": "Theo lịch vạn niên, lịch âm hôm nay, 18.5 là ngày gì ở Việt Nam cũng như trên thế giới mà nhiều người quan tâm, chia sẻ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T22:00:00+07:00",
+      "fetched": "2026-05-18T05:43:18.657333+07:00"
+    },
+    {
+      "id": "8007b74c20d1c6d6ead119e4a1877238",
+      "title": "Phiên tòa 'tỷ phú đấu tỷ phú' giữa Musk và Altman",
+      "link": "https://vnexpress.net/phien-toa-ty-phu-dau-ty-phu-giua-musk-va-altman-5074631.html",
+      "summary": "Sau ba tuần tranh tụng, bên cạnh những thông tin chưa từng xuất hiện, phiên tòa giữa Elon Musk với Sam Altman và OpenAI còn phô trương sự giàu có.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-17T22:00:00+07:00",
+      "fetched": "2026-05-18T05:43:26.400118+07:00"
+    },
+    {
+      "id": "6e3f2bf642b418eb3ed076a90753e38e",
+      "title": "V-League 2025-2026: CLB Công an Hà Nội vô địch trước 3 vòng đấu",
+      "link": "https://thanhnien.vn/v-league-2025-2026-clb-cong-an-ha-noi-vo-dich-truoc-3-vong-dau-18526051722320275.htm",
+      "summary": "CLB Công an Hà Nội đoạt chức vô địch V-League mùa giải 2025-2026 sau khi đánh bại CLB Thanh Hóa 2-0 vào chiều tối qua, dù giải còn 3 vòng đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T21:55:00+07:00",
+      "fetched": "2026-05-18T05:43:18.657486+07:00"
+    },
+    {
       "id": "30bf8966ce35c60ede832ccf45d647b3",
       "title": "Người đau khớp gối có nên đi bộ mỗi ngày?",
       "link": "https://thanhnien.vn/nguoi-dau-khop-goi-co-nen-di-bo-moi-ngay-185260517185117446.htm",
@@ -161,6 +331,16 @@ window.newsData_2026_05_18 = {
       "category": "Tổng hợp",
       "published": "2026-05-17T20:11:00+07:00",
       "fetched": "2026-05-18T03:39:09.952776+07:00"
+    },
+    {
+      "id": "3eccc2ad66324c04f9eaf162ac605299",
+      "title": "Hồng Ngọc: 'Tôi chọn cách sống chậm'",
+      "link": "https://vnexpress.net/hong-ngoc-toi-chon-cach-song-cham-5072869.html",
+      "summary": "Hồng Ngọc nói sau biến cố bị bỏng, cô sống với lòng biết ơn, trân trọng từng bữa cơm gia đình thay vì khát khao thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:00:00+07:00",
+      "fetched": "2026-05-18T05:43:13.452641+07:00"
     },
     {
       "id": "eb4433aad17e7312efddc6f6cfab9078",
