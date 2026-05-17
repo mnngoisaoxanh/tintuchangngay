@@ -1,6 +1,6 @@
 window.newsData_2026_05_18 = {
   "date": "2026-05-18",
-  "lastUpdated": "2026-05-18T01:53:57.576796+07:00",
+  "lastUpdated": "2026-05-18T03:39:19.445222+07:00",
   "articles": [
     {
       "id": "ae7c2c7acafd2570c92b5b5355ee7394",
@@ -151,6 +151,46 @@ window.newsData_2026_05_18 = {
       "category": "Tổng hợp",
       "published": "2026-05-18T01:53:50.371656+07:00",
       "fetched": "2026-05-18T01:53:50.371863+07:00"
+    },
+    {
+      "id": "30bf8966ce35c60ede832ccf45d647b3",
+      "title": "Người đau khớp gối có nên đi bộ mỗi ngày?",
+      "link": "https://thanhnien.vn/nguoi-dau-khop-goi-co-nen-di-bo-moi-ngay-185260517185117446.htm",
+      "summary": "Đau khớp gối khá phổ biến ở người trung niên, lớn tuổi, thừa cân hoặc từng chấn thương đầu gối. Khi xuất hiện cơn đau, nhiều người chọn nghỉ ngơi hoàn toàn vì lo vận động sẽ khiến khớp tổn thương nặng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:11:00+07:00",
+      "fetched": "2026-05-18T03:39:09.952776+07:00"
+    },
+    {
+      "id": "eb4433aad17e7312efddc6f6cfab9078",
+      "title": "Căn duplex 162 m2 phong cách đồng quê Pháp cho gia chủ Hà Lan",
+      "link": "https://vnexpress.net/can-duplex-162-m2-phong-cach-dong-que-phap-cho-gia-chu-ha-lan-5074019.html",
+      "summary": "Không gian căn hộ thông tầng được cải tạo theo nhu cầu của gia chủ, kết hợp nội thất cổ điển, ánh sáng ấm và có khu nuôi mèo riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T19:49:11+07:00",
+      "fetched": "2026-05-18T03:39:06.570076+07:00"
+    },
+    {
+      "id": "c942359687adebcde3a4347cb73245db",
+      "title": "Nhóm ném bom xăng vào nhà đối thủ bị bắt",
+      "link": "https://vnexpress.net/nhom-nem-bom-xang-vao-nha-doi-thu-bi-bat-5074967.html",
+      "summary": "Do mâu thuẫn cá nhân, Nguyễn Thành Đạt gọi thêm 3 người chuẩn bị bom xăng ném vào nhà đối thủ lúc có 6 người đang ngủ để trả thù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T19:47:41+07:00",
+      "fetched": "2026-05-18T03:39:06.570239+07:00"
+    },
+    {
+      "id": "aaccc93294b14e5e63617d3259b2a6c0",
+      "title": "Những việc nên làm mỗi ngày giúp gan, thận khỏe",
+      "link": "https://vnexpress.net/nhung-viec-nen-lam-moi-ngay-giup-gan-than-khoe-5074778.html",
+      "summary": "Duy trì những thói quen như uống đủ nước, ăn lành mạnh, ngủ đúng giờ hay vận động thường xuyên có thể giúp gan và thận hoạt động hiệu quả hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:00:00+07:00",
+      "fetched": "2026-05-18T03:39:06.570391+07:00"
     },
     {
       "id": "7b1a69dbfccda227058367bd1971433b",
