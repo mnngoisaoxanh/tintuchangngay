@@ -1,7 +1,147 @@
 window.newsData_2026_05_17 = {
   "date": "2026-05-17",
-  "lastUpdated": "2026-05-17T21:48:41.889813+07:00",
+  "lastUpdated": "2026-05-17T23:45:54.068464+07:00",
   "articles": [
+    {
+      "id": "3bafa6e9dd9615d9f1a7b17f0888bffe",
+      "title": "WHO cảnh báo khẩn cấp vì bùng dịch Ebola: Bộ Y tế khuyến cáo gì?",
+      "link": "https://tuoitre.vn/who-canh-bao-khan-cap-vi-bung-dich-ebola-bo-y-te-khuyen-cao-gi-20260517203320906.htm",
+      "summary": "Tổ chức Y tế thế giới vừa tuyên bố đợt bùng phát Ebola tại Cộng hòa dân chủ Congo và Uganda là “tình trạng khẩn cấp y tế công cộng gây quan ngại quốc tế”. Tại Việt Nam, Bộ Y tế vừa phát đi cảnh báo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T23:45:45.784481+07:00",
+      "fetched": "2026-05-17T23:45:45.784590+07:00"
+    },
+    {
+      "id": "2ea97a481b762bb2f56a31b462e8d374",
+      "title": "Lại Lý Huynh vào 'bảng tử thần', chạm trán kỳ vương Trung Quốc",
+      "link": "https://tuoitre.vn/lai-ly-huynh-vao-bang-tu-than-cham-tran-ky-vuong-trung-quoc-20260517203239222.htm",
+      "summary": "Tối ngày 17-5, ban tổ chức siêu giải cờ tướng Xuân Khâu Đại Diệp Bôi đã chính thức công bố kết quả bốc thăm chia bảng mùa giải thứ 2. Kết quả Lại Lý Huynh sẽ nằm cùng bảng đấu với \"kỳ vương\" Vương Vũ Bác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T23:45:45.784359+07:00",
+      "fetched": "2026-05-17T23:45:45.784470+07:00"
+    },
+    {
+      "id": "8534fff6cd14f7d550b3bfb6142b1c76",
+      "title": "Công ty của đại gia Trầm Bê bị hủy tư cách công ty đại chúng",
+      "link": "https://tuoitre.vn/cong-ty-cua-dai-gia-tram-be-bi-huy-tu-cach-cong-ty-dai-chung-20260517205335256.htm",
+      "summary": "Công ty CP Bệnh viện đa khoa tư nhân Triều An - nơi ông Trầm Bê làm Chủ tịch, vừa chính thức bị hủy tư cách đại chúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T23:45:45.784230+07:00",
+      "fetched": "2026-05-17T23:45:45.784348+07:00"
+    },
+    {
+      "id": "ae7c2c7acafd2570c92b5b5355ee7394",
+      "title": "Vừa nhập cuộc MGI All Stars, Hương Giang được dự đoán đăng quang",
+      "link": "https://tuoitre.vn/vua-nhap-cuoc-mgi-all-stars-huong-giang-duoc-du-doan-dang-quang-20260517203008152.htm",
+      "summary": "Hoa hậu Hương Giang đã có mặt tại Thái Lan bắt đầu hành trình MGI All Stars 2026. Cô được chuyên trang Missosology dự đoán đăng quang, thu hút sự chú ý của fan sắc đẹp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T23:45:45.784108+07:00",
+      "fetched": "2026-05-17T23:45:45.784219+07:00"
+    },
+    {
+      "id": "abd21638424954fd5c2df45e6557be37",
+      "title": "Man United thắng trận cầu 'đặc biệt' nhất mùa bóng",
+      "link": "https://tuoitre.vn/man-united-thang-tran-cau-dac-biet-nhat-mua-bong-20260517210429454.htm",
+      "summary": "Tối 17-5, Man United đã đánh bại Nottingham Forest 3-2 trên sân nhà ở vòng 37 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T23:45:45.783984+07:00",
+      "fetched": "2026-05-17T23:45:45.784097+07:00"
+    },
+    {
+      "id": "ae11315e59479bf9a4a69b91b77516e1",
+      "title": "Nguyên Phó chủ tịch Quốc hội: Báo chí nâng đỡ 'mầm xanh' nông nghiệp, thúc đẩy thành xu hướng",
+      "link": "https://tuoitre.vn/nguyen-pho-chu-tich-quoc-hoi-bao-chi-nang-do-mam-xanh-nong-nghiep-thuc-day-thanh-xu-huong-20260517205521071.htm",
+      "summary": "Trong buổi thăm và làm việc với báo Tuổi Trẻ, ông Lê Minh Hoan chia sẻ nhiều góc nhìn về phát triển nông nghiệp xanh, xây dựng hệ sinh thái ngành hàng và vai trò của truyền thông trong lan tỏa lối sống xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T23:45:45.783851+07:00",
+      "fetched": "2026-05-17T23:45:45.783972+07:00"
+    },
+    {
+      "id": "2353986cdb9d6bc6e1d4884d2379fc18",
+      "title": "Đài Loan tuyên bố 'không thể bị hy sinh hay đem ra trao đổi'",
+      "link": "https://tuoitre.vn/dai-loan-tuyen-bo-khong-the-bi-hy-sinh-hay-dem-ra-trao-doi-20260517211941486.htm",
+      "summary": "Lãnh đạo Đài Loan khẳng định hoạt động hợp tác an ninh và mua bán vũ khí giữa Mỹ và hòn đảo này đóng góp vào hòa bình, ổn định khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T23:45:45.783720+07:00",
+      "fetched": "2026-05-17T23:45:45.783839+07:00"
+    },
+    {
+      "id": "045aa720753578eaa260948a31fdf315",
+      "title": "Đình Bắc phản ứng khi bị đồng đội tranh đá phạt đền",
+      "link": "https://tuoitre.vn/dinh-bac-phan-ung-khi-bi-dong-doi-tranh-da-phat-den-2026051721413998.htm",
+      "summary": "Tiền đạo Nguyễn Đình Bắc không vui khi bị Alan Grafite tranh đá phạt đền ở thời điểm quan trọng trong trận quyết định ngôi vô địch V-League của CLB Công An Hà Nội, diễn ra tối 17-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T23:45:45.783575+07:00",
+      "fetched": "2026-05-17T23:45:45.783706+07:00"
+    },
+    {
+      "id": "70a0676f1917529d7dd8f8f86c10f24e",
+      "title": "Thanh niên 6 lần cướp giật dây chuyền, kiềng vàng tại Gia Lai ra đầu thú",
+      "link": "https://tuoitre.vn/thanh-nien-6-lan-cuop-giat-day-chuyen-kieng-vang-tai-gia-lai-ra-dau-thu-20260517211940129.htm",
+      "summary": "Nguyễn Văn Lợi (33 tuổi), trú thôn Hòa Đại, xã Hòa Hội, tỉnh Gia Lai, vừa ra đầu thú cơ quan công an sau khi cùng đồng phạm gây ra 6 vụ cướp giật dây chuyền, kiềng vàng của người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T23:45:45.783448+07:00",
+      "fetched": "2026-05-17T23:45:45.783564+07:00"
+    },
+    {
+      "id": "ae01c49d79c195f3ca5867d834092ac5",
+      "title": "Đồng Nai làm lễ lên thành phố, học sinh ở 10 phường được nghỉ học",
+      "link": "https://tuoitre.vn/dong-nai-lam-le-len-thanh-pho-hoc-sinh-o-10-phuong-duoc-nghi-hoc-20260517215553732.htm",
+      "summary": "Sau khi thông báo cho học sinh 95 phường xã nghỉ học, Sở Giáo dục và Đào tạo thành phố Đồng Nai vừa phát đi thông báo chỉ đồng ý cho học sinh ở 10 phường được nghỉ học để đảm bảo phân luồng giao thông cho sự kiện thành lập thành phố Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T23:45:45.783315+07:00",
+      "fetched": "2026-05-17T23:45:45.783436+07:00"
+    },
+    {
+      "id": "25853d658080f7aa685cbe66aa794364",
+      "title": "Công an Đồng Nai khởi tố 4 người ném ‘bom xăng’ vào nhà người khác trong đêm",
+      "link": "https://tuoitre.vn/cong-an-dong-nai-khoi-to-4-nguoi-nem-bom-xang-vao-nha-nguoi-khac-trong-dem-20260517220022225.htm",
+      "summary": "Công an TP Đồng Nai đã khởi tố 4 thanh tiên từ 18-20 tuổi vì ném bom xăng vào nhà người khác xuất phát từ mâu thuẫn cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T23:45:45.783187+07:00",
+      "fetched": "2026-05-17T23:45:45.783303+07:00"
+    },
+    {
+      "id": "1150009b9c4ca7c0e6f71a54815aee50",
+      "title": "CLB Công An Hà Nội ăn mừng cuồng nhiệt chức vô địch V-League sớm",
+      "link": "https://tuoitre.vn/clb-cong-an-ha-noi-an-mung-cuong-nhiet-chuc-vo-dich-v-league-som-20260517220708562.htm",
+      "summary": "Thắng Thanh Hóa và vô địch V-League 2025 - 2026 sớm 3 vòng, CLB Công An Hà Nội \"mở tiệc\" ăn mừng dưới cơn mưa tầm tã trên sân Hàng Đẫy, diễn ra tối 17-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T23:45:45.783057+07:00",
+      "fetched": "2026-05-17T23:45:45.783176+07:00"
+    },
+    {
+      "id": "700b92cbcee563b440a5ba8bf3e51221",
+      "title": "Lộ diện tân 'Thủ lĩnh sinh viên' và 'Thủ lĩnh học sinh THPT' TP.HCM 2026",
+      "link": "https://tuoitre.vn/lo-dien-tan-thu-linh-sinh-vien-va-thu-linh-hoc-sinh-thpt-tp-hcm-2026-20260517182704777.htm",
+      "summary": "Bạn Hà Đức Cường (Trường đại học Luật TP.HCM) giành chiến thắng và trở thành 'Thủ lĩnh sinh viên' TP.HCM năm 2026. Còn bạn Lương Nguyễn Hiền Trinh (Trường THPT Võ Thị Sáu, xã Đất Đỏ) là 'Thủ lĩnh học sinh THPT' TP.HCM năm học 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T23:45:45.782919+07:00",
+      "fetched": "2026-05-17T23:45:45.783045+07:00"
+    },
+    {
+      "id": "5861473521c228bdd93d62bec080a8ff",
+      "title": "Hai bàn thắng mang về chức vô địch V-League cho Công An Hà Nội",
+      "link": "https://tuoitre.vn/hai-ban-thang-mang-ve-chuc-vo-dich-v-league-cho-cong-an-ha-noi-20260517220625769.htm",
+      "summary": "Công An Hà Nội trở thành nhà vô địch V-League 2025-2026 nhờ hai bàn thắng của ngoại binh ở những phút cuối, trong trận \"thủy chiến\" với CLB Thanh Hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T23:45:45.782723+07:00",
+      "fetched": "2026-05-17T23:45:45.782905+07:00"
+    },
     {
       "id": "12393e03150db5152c9e981f28ffc9d8",
       "title": "CLB Hoàng Anh Gia Lai thua từ quả 11m đầy tranh cãi",
@@ -603,6 +743,176 @@ window.newsData_2026_05_17 = {
       "fetched": "2026-05-17T16:27:32.588388+07:00"
     },
     {
+      "id": "1a717d462591361afc1c714ba4506412",
+      "title": "Đình Bắc và ngoại binh CAHN tranh sút phạt đền",
+      "link": "https://vnexpress.net/dinh-bac-va-ngoai-binh-cahn-tranh-sut-phat-den-5075001.html",
+      "summary": "Nguyễn Đình Bắc lỡ cơ hội ghi bàn 7 trận liền, sau khi Alan Sebastiao giữ quyền đá 11m trong trận Công an Hà Nội thắng Thanh Hóa 2-0 ở vòng 23 V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T15:52:19+07:00",
+      "fetched": "2026-05-17T23:45:41.352771+07:00"
+    },
+    {
+      "id": "1a717d462591361afc1c714ba4506412",
+      "title": "Đình Bắc và ngoại binh CAHN tranh sút phạt đền",
+      "link": "https://vnexpress.net/dinh-bac-va-ngoai-binh-cahn-tranh-sut-phat-den-5075001.html",
+      "summary": "Nguyễn Đình Bắc lỡ cơ hội ghi bàn 7 trận liền, sau khi Alan Sebastiao giữ quyền đá 11m trong trận Công an Hà Nội thắng Thanh Hóa 2-0 ở vòng 23 V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-17T15:52:19+07:00",
+      "fetched": "2026-05-17T23:45:54.056554+07:00"
+    },
+    {
+      "id": "7770e9c6b9e3ea64d647c6fb110c5790",
+      "title": "Iran công bố '5 yêu cầu của Mỹ' trong đề xuất hòa bình",
+      "link": "https://vnexpress.net/iran-cong-bo-5-yeu-cau-cua-my-trong-de-xuat-hoa-binh-5074991.html",
+      "summary": "Mỹ đưa ra 5 yêu cầu khi phản hồi đề xuất hòa bình, trong đó Washington từ chối bồi thường và Tehran phải giao nộp uranium, theo truyền thông Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T15:44:57+07:00",
+      "fetched": "2026-05-17T23:45:41.352952+07:00"
+    },
+    {
+      "id": "7770e9c6b9e3ea64d647c6fb110c5790",
+      "title": "Iran công bố '5 yêu cầu của Mỹ' trong đề xuất hòa bình",
+      "link": "https://vnexpress.net/iran-cong-bo-5-yeu-cau-cua-my-trong-de-xuat-hoa-binh-5074991.html",
+      "summary": "Mỹ đưa ra 5 yêu cầu khi phản hồi đề xuất hòa bình, trong đó Washington từ chối bồi thường và Tehran phải giao nộp uranium, theo truyền thông Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-17T15:44:57+07:00",
+      "fetched": "2026-05-17T23:45:47.566847+07:00"
+    },
+    {
+      "id": "4ce0cc713444768e44e78c2d25c48170",
+      "title": "HAGL 0-2 Hà Tĩnh",
+      "link": "https://vnexpress.net/hagl-0-2-ha-tinh-5074999.html",
+      "summary": "Các ngoại binh lập công, giúp Hà Tĩnh hạ đội chủ sân Pleiku ở vòng 23 V-League 2025-2026 chiều 17/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T15:42:23+07:00",
+      "fetched": "2026-05-17T23:45:41.353118+07:00"
+    },
+    {
+      "id": "aad961c96530a722ca6db2bdedc343e0",
+      "title": "Đình Bắc tiết lộ về cuộc tranh cãi trên chấm phạt đền với ngoại binh Alan",
+      "link": "https://thanhnien.vn/dinh-bac-tiet-lo-ve-cuoc-tranh-cai-tren-cham-phat-den-voi-ngoai-binh-alan-185260517223917471.htm",
+      "summary": "CLB Công an Hà Nội (CAHN) đã chính thức lên ngôi vô địch V-League sớm 3 vòng đấu. Tuy nhiên, tâm điểm của sự chú ý sau trận đấu lại đổ dồn vào tình huống Đình Bắc tranh cãi với ngoại binh Alan trên chấm phạt đền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T15:41:00+07:00",
+      "fetched": "2026-05-17T23:45:44.673090+07:00"
+    },
+    {
+      "id": "508e8d50736d74e55a6c70f3900ef2d5",
+      "title": "CLB VTV Bình Điền Long An giành vé vào bán kết sau chiến thắng ngoạn mục",
+      "link": "https://thanhnien.vn/clb-vtv-binh-dien-long-an-gianh-ve-vao-ban-ket-sau-chien-thang-ngoan-muc-185260517221716485.htm",
+      "summary": "Liên tiếp bị đội Binh chủng Thông tin dẫn điểm nhưng CLB VTV Bình Điền Long An lật ngược tình thế, đoạt vé vào bán kết giải bóng chuyền nữ quốc tế VTV9 - Bình Điền 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T15:40:00+07:00",
+      "fetched": "2026-05-17T23:45:44.673255+07:00"
+    },
+    {
+      "id": "65be51b37332a47017075a894d361265",
+      "title": "PVF-CAND 0-4 Hà Nội FC",
+      "link": "https://vnexpress.net/pvf-cand-0-4-ha-noi-fc-5074996.html",
+      "summary": "Hà Nội FC trút mưa bàn vào lưới đội chót bảng ở vòng 23 ngày 17/5 để nuôi hy vọng chen chân vào top 3 V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T15:38:26+07:00",
+      "fetched": "2026-05-17T23:45:41.353276+07:00"
+    },
+    {
+      "id": "7abae0b0562606449063ad3e89f59b8f",
+      "title": "Công an Hà Nội 2-0 Thanh Hóa",
+      "link": "https://vnexpress.net/cong-an-ha-noi-2-0-thanh-hoa-5074997.html",
+      "summary": "Hơn người từ phút 50, nhưng CAHN phải chờ đến cuối trận mới kịp ghi hai bàn để thắng ở vòng 23 tối 17/5 và đủ điểm vô địch V-League 2025-2026 sớm ba vòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T15:37:34+07:00",
+      "fetched": "2026-05-17T23:45:41.353435+07:00"
+    },
+    {
+      "id": "3ebf7d3907d218b4c51b554aad643949",
+      "title": "Nam Định 0-2 Thể Công",
+      "link": "https://vnexpress.net/nam-dinh-0-2-the-cong-5074995.html",
+      "summary": "Các bàn của Đinh Xuân Tiến và Nhâm Mạnh Dũng giúp Thể Công thắng trên sân nhà cựu vô địch Nam Định ở vòng 23 V-League 2025-2026 tối 17/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T15:37:10+07:00",
+      "fetched": "2026-05-17T23:45:41.353596+07:00"
+    },
+    {
+      "id": "c346fcdf0af030dc961fc0a366acd16c",
+      "title": "Chính thức: CLB Công an Hà Nội ‘quật ngã’ Thanh Hóa, vô địch V-League sớm 3 vòng",
+      "link": "https://thanhnien.vn/chinh-thuc-clb-cong-an-ha-noi-quat-nga-thanh-hoa-vo-dich-v-league-som-3-vong-185260517220234912.htm",
+      "summary": "Đánh bại CLB Thanh Hóa 2-0 trên sân Hàng Đẫy, CLB Công an Hà Nội chính thức đăng quang V-League 2025-2026 sớm 3 vòng đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T15:36:00+07:00",
+      "fetched": "2026-05-17T23:45:44.673408+07:00"
+    },
+    {
+      "id": "0fcbe7d8a6aa371bc60943efee596eec",
+      "title": "'Bậc thầy kinh dị Nhật Bản' Suzuki Koji qua đời",
+      "link": "https://vnexpress.net/bac-thay-kinh-di-nhat-ban-suzuki-koji-qua-doi-5074972.html",
+      "summary": "Nhà văn Suzuki Koji - nổi tiếng với loạt truyện kinh dị \"Ring\", được mệnh danh \"Stephen King Nhật Bản\" - qua đời ở tuổi 69.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T15:35:45+07:00",
+      "fetched": "2026-05-17T23:45:41.353781+07:00"
+    },
+    {
+      "id": "e2956ec483e2aa3199c8a505a50bd90e",
+      "title": "Kinh hoàng mảng tôn hàng tấn bị gió cuốn bay xuống đường giữa giờ cao điểm",
+      "link": "https://thanhnien.vn/kinh-hoang-mang-ton-hang-tan-bi-gio-cuon-bay-xuong-duong-giua-gio-cao-diem-185260517211323047.htm",
+      "summary": "Một mảng tôn nặng hàng tấn bất ngờ bị gió cuốn bay từ trên cao lao thẳng xuống đường Hoàng Văn Thụ (phường Tân Sơn Hòa) gây ùn tắc giao thông nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T15:01:00+07:00",
+      "fetched": "2026-05-17T23:45:44.673560+07:00"
+    },
+    {
+      "id": "ea8ca2a8e5a3f92f62d6a4755f45b169",
+      "title": "Vì sao trọng tài vẫn công nhận bàn của Man Utd dù VAR can thiệp?",
+      "link": "https://vnexpress.net/vi-sao-trong-tai-van-cong-nhan-ban-cua-man-utd-du-var-can-thiep-5074987.html",
+      "summary": "Bàn nâng tỷ số lên 2-1 của Matheus Cunha trong trận Man Utd thắng Nottingham Forest trở thành pha bóng gây tranh cãi và hiếm thấy ở Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T14:59:30+07:00",
+      "fetched": "2026-05-17T23:45:41.353942+07:00"
+    },
+    {
+      "id": "ea8ca2a8e5a3f92f62d6a4755f45b169",
+      "title": "Vì sao trọng tài vẫn công nhận bàn của Man Utd dù VAR can thiệp?",
+      "link": "https://vnexpress.net/vi-sao-trong-tai-van-cong-nhan-ban-cua-man-utd-du-var-can-thiep-5074987.html",
+      "summary": "Bàn nâng tỷ số lên 2-1 của Matheus Cunha trong trận Man Utd thắng Nottingham Forest trở thành pha bóng gây tranh cãi và hiếm thấy ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-17T14:59:30+07:00",
+      "fetched": "2026-05-17T23:45:54.056775+07:00"
+    },
+    {
+      "id": "94c3068f8eeb420507176fa382fded1a",
+      "title": "Man Utd 3-2 Nottingham Forest",
+      "link": "https://vnexpress.net/man-utd-3-2-nottingham-forest-5074988.html",
+      "summary": "Bàn sớm của Luke Shaw cùng các pha lập công của Cunha, Mbeumo giữa hiệp hai giúp Man Utd thắng trên sân nhà ở vòng 37 Ngoại hạng Anh 2025-2026 tối 17/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T14:54:47+07:00",
+      "fetched": "2026-05-17T23:45:41.354093+07:00"
+    },
+    {
+      "id": "00ec4ca88565961369e9676a60811762",
+      "title": "Highlight CLB Công an Hà Nội 2-0 Thanh Hóa: Nhà vô địch xứng đáng",
+      "link": "https://thanhnien.vn/highlight-clb-cong-an-ha-noi-2-0-thanh-hoa-nha-vo-dich-xung-dang-18526051721530776.htm",
+      "summary": "Đánh bại Thanh Hóa 2-0 trên sân Hàng Đẫy, CLB Công an Hà Nội chính thức vô địch V-League 2025-2026 sớm 3 vòng đấu sau một mùa giải đầy bản lĩnh và ổn định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T14:53:00+07:00",
+      "fetched": "2026-05-17T23:45:44.673733+07:00"
+    },
+    {
       "id": "e056c654c1926dec3d1d08ec97b1233f",
       "title": "Lê Hậu - học trò Kim Tử Long kể chuyện giữ lửa cải lương bằng liveshow riêng",
       "link": "https://thanhnien.vn/le-hau-hoc-tro-kim-tu-long-ke-chuyen-giu-lua-cai-luong-bang-liveshow-rieng-185260517211946461.htm",
@@ -653,6 +963,16 @@ window.newsData_2026_05_17 = {
       "fetched": "2026-05-17T21:48:35.152026+07:00"
     },
     {
+      "id": "f72b0d4ae0514b1f0c5a82328f8b16dd",
+      "title": "Thể Công Viettel quật ngã Nam Định bằng siêu phẩm, chắc suất tốp 2 chung cuộc",
+      "link": "https://thanhnien.vn/the-cong-viettel-quat-nga-nam-dinh-bang-sieu-pham-chac-suat-top-2-chung-cuoc-185260517213632064.htm",
+      "summary": "Chiều tối 17.5, trận đấu tâm điểm vòng 23 V-League giữa CLB Nam Định và Thể Công Viettel diễn ra căng thẳng đúng như kỳ vọng khi đội chủ nhà nhập cuộc chủ động và kiểm soát bóng vượt trội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T14:26:00+07:00",
+      "fetched": "2026-05-17T23:45:44.674197+07:00"
+    },
+    {
       "id": "520d0b2fc6fd7e872bfe5480232a0065",
       "title": "Bảng xếp hạng V-League mới nhất: CLB CAHN đăng quang thuyết phục, lo cho HAGL và Becamex TP.HCM vì...",
       "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-clb-cahn-dang-quang-thuyet-phuc-lo-cho-hagl-va-becamex-tphcm-vi-185260516130639221.htm",
@@ -693,6 +1013,36 @@ window.newsData_2026_05_17 = {
       "fetched": "2026-05-17T21:48:41.878551+07:00"
     },
     {
+      "id": "5673acefc1b6d1aa1e705a73748b0262",
+      "title": "Công an Hà Nội vô địch V-League sớm 3 vòng",
+      "link": "https://vnexpress.net/cong-an-ha-noi-vo-dich-v-league-som-3-vong-5074977.html",
+      "summary": "Thắng Thanh Hóa 2-0 ở vòng 23 tối 17/2, Công an Hà Nội đủ điểm để vô địch V-League 2025-2026 dù giải vẫn còn 3 vòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T14:16:13+07:00",
+      "fetched": "2026-05-17T23:45:41.354716+07:00"
+    },
+    {
+      "id": "5673acefc1b6d1aa1e705a73748b0262",
+      "title": "Công an Hà Nội vô địch V-League sớm 3 vòng",
+      "link": "https://vnexpress.net/cong-an-ha-noi-vo-dich-v-league-som-3-vong-5074977.html",
+      "summary": "Thắng Thanh Hóa 2-0 ở vòng 23 tối 17/2, Công an Hà Nội đủ điểm để vô địch V-League 2025-2026 dù giải vẫn còn 3 vòng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-17T14:16:13+07:00",
+      "fetched": "2026-05-17T23:45:54.057109+07:00"
+    },
+    {
+      "id": "61e12fef943cd188688e65dd0ead63f6",
+      "title": "CLB Hà Nội thắng tưng bừng dù thiếu Hoàng Hên, PVF-CAND lún sâu đáy bảng",
+      "link": "https://thanhnien.vn/clb-ha-noi-thang-tung-bung-du-thieu-hoang-hen-pvf-cand-lun-sau-day-bang-185260517213512619.htm",
+      "summary": "Dù thiếu Hoàng Hên và Hai Long vì thẻ phạt, CLB Hà Nội vẫn cho thấy bản lĩnh khi thắng đậm PVF-CAND 4-0 ngay trên sân khách ở vòng đấu tối 17.5. Kết quả này giúp đội bóng thủ đô trở lại cuộc đua tốp 3 V-League 2025-2026, trong khi PVF-CAND tiếp tục chìm sâu ở nhóm cuối bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T14:16:00+07:00",
+      "fetched": "2026-05-17T23:45:44.674636+07:00"
+    },
+    {
       "id": "8918ebaf41512c1bfb333408e54d625b",
       "title": "Tranh 'đường kẻ ngang' giá gần chín triệu USD",
       "link": "https://vnexpress.net/tranh-duong-ke-ngang-gia-gan-chin-trieu-usd-5074970.html",
@@ -721,6 +1071,16 @@ window.newsData_2026_05_17 = {
       "category": "Tổng hợp",
       "published": "2026-05-17T14:09:45+07:00",
       "fetched": "2026-05-17T21:48:32.024690+07:00"
+    },
+    {
+      "id": "63425047419e8acff086a6e71ae2da15",
+      "title": "HAGL thua đau Hà Tĩnh, tiếp tục bị kéo vào cuộc đua trụ hạng",
+      "link": "https://thanhnien.vn/hagl-thua-dau-ha-tinh-tiep-tuc-bi-keo-vao-cuoc-dua-tru-hang-185260517213329986.htm",
+      "summary": "Chiều tối 17.5.2026, HAGL bước vào cuộc tiếp đón Hồng Lĩnh Hà Tĩnh với rất nhiều áp lực. Đội bóng phố Núi chưa thể tạo khoảng cách an toàn với nhóm cuối bảng, trong khi những tranh cãi sau trận thua PVF-CAND ở vòng trước càng khiến họ chịu thêm sức ép từ người hâm mộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T14:07:00+07:00",
+      "fetched": "2026-05-17T23:45:44.674961+07:00"
     },
     {
       "id": "34e9dd58b9e363c1f2d71521b54e7465",
