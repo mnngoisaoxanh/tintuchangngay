@@ -1,7 +1,17 @@
 window.newsData_2026_05_19 = {
   "date": "2026-05-19",
-  "lastUpdated": "2026-05-19T04:02:32.409178+07:00",
+  "lastUpdated": "2026-05-19T05:49:18.682415+07:00",
   "articles": [
+    {
+      "id": "69342f5e97429dbfc118fcc231474937",
+      "title": "Thời tiết hôm nay 19-5: Cả nước mưa, có nơi mưa rất to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-19-5-ca-nuoc-mua-co-noi-mua-rat-to-20260518174252023.htm",
+      "summary": "Hôm nay 19-5, cả nước vẫn còn mưa to đến rất to, thời tiết giao mùa bất ổn, người dân cần chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T05:49:09.487665+07:00",
+      "fetched": "2026-05-19T05:49:09.487891+07:00"
+    },
     {
       "id": "460010278a6dc4537995a3e154bd6eac",
       "title": "Nga không can thiệp vào đàm phán Mỹ - Iran",
@@ -191,6 +201,326 @@ window.newsData_2026_05_19 = {
       "category": "Tổng hợp",
       "published": "2026-05-19T00:51:46.072430+07:00",
       "fetched": "2026-05-19T00:51:46.072648+07:00"
+    },
+    {
+      "id": "9858164fa01469ca6084cd9879293bb3",
+      "title": "Muốn vươn lên, Việt Nam phải tái định nghĩa đại học",
+      "link": "https://thanhnien.vn/muon-vuon-len-viet-nam-phai-tai-dinh-nghia-dai-hoc-185260518202544512.htm",
+      "summary": "Phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm tại lễ kỷ niệm 120 năm Ngày truyền thống Đại học Quốc gia Hà Nội có thể là một trong những thông điệp quan trọng nhất về giáo dục đại học VN trong nhiều năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:45:00+07:00",
+      "fetched": "2026-05-19T05:49:08.367567+07:00"
+    },
+    {
+      "id": "c2162085cfbc2df73cff6c1047a08b49",
+      "title": "Theo cano ghi lại khoảnh khắc cá voi mẹ dạy con săn mồi trên biển Đắk Lắk",
+      "link": "https://thanhnien.vn/theo-cano-ghi-lai-khoanh-khac-ca-voi-me-day-con-san-moi-tren-bien-dak-lak-185260518183511303.htm",
+      "summary": "Từ tờ mờ sáng, nhiều người lên cano ra khơi chờ hàng giờ ở vùng biển Cù Lao Mái Nhà (Đắk Lắk) để ghi lại khoảnh khắc hiếm gặp khi cá voi mẹ dẫn con săn mồi gần bờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:45:00+07:00",
+      "fetched": "2026-05-19T05:49:08.367766+07:00"
+    },
+    {
+      "id": "a680e4687c26fac386b90f466cb7827f",
+      "title": "Cảnh giác với hàng thẩm lậu",
+      "link": "https://thanhnien.vn/canh-giac-voi-hang-tham-lau-185260518201858616.htm",
+      "summary": "Từ giữa năm 2025 đến nay, Việt Nam đã 'mở' gần như tối đa về pháp lý và vẫn đang tiếp tục cải cách hành chính để tạo thuận lợi cho thương mại tăng trưởng. Những thay đổi tại Thông tư 121/2025/TT-BTC của Bộ Tài chính hay Nghị định 167/2025/NĐ-CP của Chính phủ… chính là nỗ lực cụ thể để 'cởi trói' cho...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:42:00+07:00",
+      "fetched": "2026-05-19T05:49:08.367933+07:00"
+    },
+    {
+      "id": "e258ff894a5b9890bfd0c59b7bc6a17f",
+      "title": "'Bóng ma' bạo lực tại Mexico trước thềm World Cup",
+      "link": "https://thanhnien.vn/bong-ma-bao-luc-tai-mexico-truoc-them-world-cup-185260518173946282.htm",
+      "summary": "Tình trạng bạo lực tại Mexico vẫn đang là mối lo ngại nghiêm trọng, khi mà World Cup 2026 do nước này cùng Mỹ và Canada đồng tổ chức sắp chính thức khai mạc trong chưa đầy một tháng nữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:40:00+07:00",
+      "fetched": "2026-05-19T05:49:08.368089+07:00"
+    },
+    {
+      "id": "67135718d0dc109bb44548c56dbb0af0",
+      "title": "Tự hào 50 năm ngành điện thành phố mang tên Bác: Ảnh dự thi",
+      "link": "https://thanhnien.vn/tu-hao-50-nam-nganh-dien-thanh-pho-mang-ten-bac-anh-du-thi-185260517210155924.htm",
+      "summary": "Ánh điện giờ đây không chỉ hiện diện nơi phố thị mà còn lan tỏa đến những vùng xa, thắp lên một diện mạo mới cho cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:40:00+07:00",
+      "fetched": "2026-05-19T05:49:08.368243+07:00"
+    },
+    {
+      "id": "857846501dae450dd1a64e14cd2295c7",
+      "title": "Khẩn trương tháo gỡ các 'điểm nghẽn' liên quan tài chính cho KH-CN",
+      "link": "https://thanhnien.vn/khan-truong-thao-go-cac-diem-nghen-lien-quan-tai-chinh-cho-kh-cn-185260518233959058.htm",
+      "summary": "Đây là yêu cầu được Thủ tướng Lê Minh Hưng đặt ra tại lễ chào mừng Ngày KH-CN và đổi mới sáng tạo VN và Hội nghị triển khai công nghệ chiến lược, do Bộ KH-CN tổ chức ngày 18.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:38:00+07:00",
+      "fetched": "2026-05-19T05:49:08.368397+07:00"
+    },
+    {
+      "id": "5b517337429a3b096ff2ce1521d99711",
+      "title": "Chủ đầu tư thủy điện Trà Khúc 2 nhận lỗi giám sát, lệnh dừng khẩn cấp việc 'rút ruột' cát",
+      "link": "https://thanhnien.vn/chu-dau-tu-thuy-dien-tra-khuc-2-nhan-loi-giam-sat-lenh-dung-khan-cap-viec-rut-ruot-cat-185260518202212508.htm",
+      "summary": "Sau phản ánh của Báo Thanh Niên về dấu hiệu bất thường trong hoạt động khai thác cát cạnh thủy điện Trà Khúc 2, chủ đầu tư dự án đã chính thức yêu cầu nhà thầu tạm dừng mọi hoạt động để phục vụ kiểm tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:37:00+07:00",
+      "fetched": "2026-05-19T05:49:08.368561+07:00"
+    },
+    {
+      "id": "2b79cc2d68f802df144efd4dc872281e",
+      "title": "Đề xuất hợp lòng dân, cần làm nhanh để tránh lãng phí",
+      "link": "https://thanhnien.vn/de-xuat-hop-long-dan-can-lam-nhanh-de-tranh-lang-phi-185260518201631351.htm",
+      "summary": "Thời gian qua, TP.HCM tích cực rà soát, sắp xếp lại cơ sở nhà, đất công. Mới đây, cơ quan chức năng đề xuất sử dụng các trụ sở cũ sau di dời để chuyển đổi công năng thành trường học và cơ sở y tế. Đề xuất này nhận được sự đồng thuận rất cao của người dân trong bối cảnh nhiều khu vực trường học và bệ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:37:00+07:00",
+      "fetched": "2026-05-19T05:49:08.368761+07:00"
+    },
+    {
+      "id": "c39f4bdc4628b5546419688a21f158ff",
+      "title": "Vì sao người dân nên dùng app SOS An ninh trật tự - CATP HCM?",
+      "link": "https://thanhnien.vn/vi-sao-nguoi-dan-nen-dung-app-sos-an-ninh-trat-tu-catp-hcm-185260518155801555.htm",
+      "summary": "App SOS An ninh trật tự - CATP HCM giúp người dân gửi SOS khẩn cấp, kích hoạt tín hiệu cứu trợ ngay lập tức khi bản thân hoặc những người xung quanh rơi vào tình huống nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:34:00+07:00",
+      "fetched": "2026-05-19T05:49:08.368920+07:00"
+    },
+    {
+      "id": "e761a6871e030a55d94b8b2d374ef2b9",
+      "title": "Neymar được triệu tập dự World Cup 2026",
+      "link": "https://vnexpress.net/neymar-duoc-trieu-tap-du-world-cup-2026-5075404.html",
+      "summary": "Neymar vẫn có tên trong danh sách 26 tuyển thủ Brazil dự World Cup 2026, bất chấp nghi ngại về thể lực sau thời gian dài điều trị chấn thương dây chằng đầu gối.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-18T22:33:29+07:00",
+      "fetched": "2026-05-19T05:49:18.676713+07:00"
+    },
+    {
+      "id": "3c382cb4ba2e3ffc4168e554fa4b1ff6",
+      "title": "Tiêu điểm quốc tế ngày 19.5: Nga tiến lên ở Kharkiv | Thời gian cạn dần cho Iran?",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-195-nga-tien-len-o-kharkiv-thoi-gian-can-dan-cho-iran-185260518235243961.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 19.5.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:30:00+07:00",
+      "fetched": "2026-05-19T05:49:08.369079+07:00"
+    },
+    {
+      "id": "3d8add8bce631e7881cdfb6c2638d476",
+      "title": "Mua giúp người bán dạo, người đàn ông ở Cà Mau trúng 24 tỉ xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-giup-nguoi-ban-dao-nguoi-dan-ong-o-ca-mau-trung-24-ti-xo-so-mien-nam-185260518091412715.htm",
+      "summary": "Người đàn ông ở Cà Mau mua 12 tờ vé số giữa lúc thời tiết nắng nóng để ủng hộ người bán dạo, bất ngờ trúng độc đắc xổ số miền Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:30:00+07:00",
+      "fetched": "2026-05-19T05:49:08.369231+07:00"
+    },
+    {
+      "id": "5d841ba80774a48aca54a9fba623eea0",
+      "title": "Nguyễn Thị Quỳnh Dung: 'Em bé' có 7 bức ảnh chụp cùng Chủ tịch Hồ Chí Minh",
+      "link": "https://thanhnien.vn/nguyen-thi-quynh-dung-em-be-co-7-buc-anh-chup-cung-chu-tich-ho-chi-minh-18526051719013826.htm",
+      "summary": "Hằng năm, vào dịp kỷ niệm ngày 19.5 sinh nhật Bác Hồ hay ngày 10.10 tiếp quản thủ đô Hà Nội, bà Nguyễn Thị Quỳnh Dung (78 tuổi, cán bộ hưu trí Bảo tàng Lịch sử quốc gia) lại xúc động khi xem lại những bức ảnh chụp cùng Chủ tịch Hồ Chí Minh và những bức ảnh quý giá của gia đình, cha mẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:25:00+07:00",
+      "fetched": "2026-05-19T05:49:08.369385+07:00"
+    },
+    {
+      "id": "e8f1ee8bcf31fc062654e6993cf03c9e",
+      "title": "Kỳ thủ nằm trên giường đấu cờ ở Grand Chess Tour",
+      "link": "https://vnexpress.net/ky-thu-nam-tren-giuong-dau-co-o-grand-chess-tour-5075396.html",
+      "summary": "Giải cờ vua Grand Chess Tour ở Romania chứng kiến hình ảnh hiếm thấy ở cấp độ đỉnh cao, khi kỳ thủ Alireza Firouzja thi đấu trong tư thế nằm trên giường bệnh hôm 18/5.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-18T22:24:40+07:00",
+      "fetched": "2026-05-19T05:49:18.677075+07:00"
+    },
+    {
+      "id": "7cb3581066094d82e8edebea7fa09344",
+      "title": "Chính quyền Mỹ 'dọn đường' để sa thải nhân sự ngành y tế",
+      "link": "https://thanhnien.vn/chinh-quyen-my-don-duong-de-sa-thai-nhan-su-nganh-y-te-185260518174207353.htm",
+      "summary": "Reuters ngày 18.5 đưa tin chính quyền Tổng thống Mỹ Donald Trump đang lên kế hoạch tước bỏ quy chế bảo vệ công chức đối với hàng trăm quan chức thuộc Bộ Y tế và Dịch vụ Nhân sinh Mỹ (HHS). Thay đổi này sẽ biến họ thành nhóm nhân sự có thể bị sa thải bất cứ lúc nào mà không cần lý do.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:20:00+07:00",
+      "fetched": "2026-05-19T05:49:08.369536+07:00"
+    },
+    {
+      "id": "04beeced313fd8f9f858813f075bbdcd",
+      "title": "Cậu bé mồ côi sợ một điều sau khi mẹ mất, hai bác lượm ve chai suốt đêm để giữ lời hứa",
+      "link": "https://thanhnien.vn/cau-be-mo-coi-so-mot-dieu-sau-khi-me-mat-hai-bac-luom-ve-chai-suot-dem-de-giu-loi-hua-185260515001256739.htm",
+      "summary": "Sau ngày mẹ mất, Đức Long từng đứng trước nguy cơ phải nghỉ học vì gia cảnh kiệt quệ. Nhưng trong căn phòng trọ nhỏ ở TP.HCM, hai người bác làm nghề nhặt ve chai vẫn lặng lẽ đi xuyên đêm, giữ lời hứa nuôi cậu bé mồ côi tiếp tục đến trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:19:00+07:00",
+      "fetched": "2026-05-19T05:49:08.369712+07:00"
+    },
+    {
+      "id": "4760ed82b2c448875aad8a1638209cd4",
+      "title": "Xóm cắt lưới, phá dây thừng ở TP.HCM",
+      "link": "https://thanhnien.vn/xom-cat-luoi-pha-day-thung-o-tphcm-185260518183017084.htm",
+      "summary": "Ở đâu có nghề làm biển, ở đó có nghề đan lưới, vá lưới hoặc quay dây thừng. Nhưng ở vùng biển xã Long Hải (TP.HCM) lại có nghề khá 'ngược đời': nghề cắt lưới, phá dây thừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:16:00+07:00",
+      "fetched": "2026-05-19T05:49:08.369877+07:00"
+    },
+    {
+      "id": "4d4daa481170f08fb22c5d3e96909e57",
+      "title": "Tai nạn nghiêm trọng từ tình huống qua đường đơn giản",
+      "link": "https://vnexpress.net/tai-nan-nghiem-trong-tu-tinh-huong-qua-duong-don-gian-5075364.html",
+      "summary": "Người phụ nữ điều khiển xe máy từ trong ngõ sang ngang đường, đâm ngã một người đi xe máy khác, hôm 18/5 tại Kim Sơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:15:06+07:00",
+      "fetched": "2026-05-19T05:49:05.187779+07:00"
+    },
+    {
+      "id": "5af7be03113c47876fb0c1cf847117ed",
+      "title": "Doanh nghiệp TP HCM muốn phát triển du lịch concert",
+      "link": "https://vnexpress.net/doanh-nghiep-tp-hcm-muon-phat-trien-du-lich-concert-5075395.html",
+      "summary": "Saigontourist và DatVietVAC - nhà sản xuất \"Anh trai say hi\" - sẽ cùng nhau phát triển nhiều chuỗi concert, fan meeting định kỳ tại TP HCM để thu hút du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:00:00+07:00",
+      "fetched": "2026-05-19T05:49:05.187965+07:00"
+    },
+    {
+      "id": "8272c2ba9dc6b0ce12e0e3ae04c11b1b",
+      "title": "Truyền hình Iran hướng dẫn dân bắn AK sau lời đe dọa của ông Trump",
+      "link": "https://vnexpress.net/truyen-hinh-iran-huong-dan-dan-ban-ak-sau-loi-de-doa-cua-ong-trump-5075379.html",
+      "summary": "Truyền hình Iran phát chương trình hướng dẫn người dân sử dụng súng, sau khi Tổng thống Trump đe dọa nước này \"chẳng còn lại gì\" nếu không nhượng bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:00:00+07:00",
+      "fetched": "2026-05-19T05:49:05.188133+07:00"
+    },
+    {
+      "id": "bbb9bdb0fbcf09f4c7e0024b0191f301",
+      "title": "Diện mạo cầu Kỳ Lộ lớn nhất cao tốc Bắc - Nam",
+      "link": "https://vnexpress.net/dien-mao-cau-ky-lo-lon-nhat-cao-toc-bac-nam-5075123.html",
+      "summary": "Dài hơn 1,8 km, tổng mức đầu tư 1.800 tỷ đồng, cầu Kỳ Lộ nằm trên tuyến cao tốc Quy Nhơn - Chí Thạnh là công trình quy mô lớn nhất trong 12 dự án thành phần cao tốc Bắc - Nam phía đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:00:00+07:00",
+      "fetched": "2026-05-19T05:49:05.188308+07:00"
+    },
+    {
+      "id": "9bd3960ca06dd7abcf3b066f8329d47c",
+      "title": "10 mẹo hữu ích trên iPhone",
+      "link": "https://vnexpress.net/10-meo-huu-ich-tren-iphone-5075000.html",
+      "summary": "Hệ điều hành iOS ngày càng trở nên phức tạp với hàng loạt tính năng mới qua mỗi bản cập nhật, khiến người dùng iPhone có thể bỏ sót.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:00:00+07:00",
+      "fetched": "2026-05-19T05:49:05.188470+07:00"
+    },
+    {
+      "id": "01461d5c3eba2f59e5e7cfbfd52c0843",
+      "title": "3 sai lầm khi ăn sáng gây buồn ngủ, uể oải cả ngày",
+      "link": "https://vnexpress.net/3-sai-lam-khi-an-sang-gay-buon-ngu-ue-oai-ca-ngay-5069286.html",
+      "summary": "Ăn sáng nhiều dầu mỡ và tinh bột xấu, tiêu thụ đồ uống nhiều đường hoặc ăn quá no là những sai lầm có thể khiến cơ thể mệt mỏi, buồn ngủ gà gật ngay đầu giờ làm việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:00:00+07:00",
+      "fetched": "2026-05-19T05:49:05.188666+07:00"
+    },
+    {
+      "id": "44f84bb023dabe366242fd78e7e7d322",
+      "title": "Euro NCAP: Nhiều hãng xe coi hạ giá quan trọng hơn an toàn",
+      "link": "https://vnexpress.net/euro-ncap-nhieu-hang-xe-coi-ha-gia-quan-trong-hon-an-toan-5075253.html",
+      "summary": "Euro NCAP cho rằng một số hãng xe đang cắt giảm công nghệ an toàn để giữ giá bán thấp, thay vì theo đuổi tiêu chuẩn 5 sao cao nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T22:00:00+07:00",
+      "fetched": "2026-05-19T05:49:05.188840+07:00"
+    },
+    {
+      "id": "8272c2ba9dc6b0ce12e0e3ae04c11b1b",
+      "title": "Truyền hình Iran hướng dẫn dân bắn AK sau lời đe dọa của ông Trump",
+      "link": "https://vnexpress.net/truyen-hinh-iran-huong-dan-dan-ban-ak-sau-loi-de-doa-cua-ong-trump-5075379.html",
+      "summary": "Truyền hình Iran phát chương trình hướng dẫn người dân sử dụng súng, sau khi Tổng thống Trump đe dọa nước này \"chẳng còn lại gì\" nếu không nhượng bộ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-18T22:00:00+07:00",
+      "fetched": "2026-05-19T05:49:11.278490+07:00"
+    },
+    {
+      "id": "5af7be03113c47876fb0c1cf847117ed",
+      "title": "Doanh nghiệp TP HCM muốn phát triển du lịch concert",
+      "link": "https://vnexpress.net/doanh-nghiep-tp-hcm-muon-phat-trien-du-lich-concert-5075395.html",
+      "summary": "Saigontourist và DatVietVAC - nhà sản xuất \"Anh trai say hi\" - sẽ cùng nhau phát triển nhiều chuỗi concert, fan meeting định kỳ tại TP HCM để thu hút du lịch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-18T22:00:00+07:00",
+      "fetched": "2026-05-19T05:49:13.247425+07:00"
+    },
+    {
+      "id": "9bd3960ca06dd7abcf3b066f8329d47c",
+      "title": "10 mẹo hữu ích trên iPhone",
+      "link": "https://vnexpress.net/10-meo-huu-ich-tren-iphone-5075000.html",
+      "summary": "Hệ điều hành iOS ngày càng trở nên phức tạp với hàng loạt tính năng mới qua mỗi bản cập nhật, khiến người dùng iPhone có thể bỏ sót.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-18T22:00:00+07:00",
+      "fetched": "2026-05-19T05:49:16.664590+07:00"
+    },
+    {
+      "id": "17ab0e061c0f0c465e2ef4c522a92267",
+      "title": "Arsenal tiến sát ngôi vương Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-tien-sat-ngoi-vuong-ngoai-hang-anh-5075392.html",
+      "summary": "Kai Havertz ghi bàn duy nhất giúp Arsenal thắng đội khách Burnley 1-0 ở vòng 37 Ngoại hạng Anh để nới rộng cách biệt với Man City lên 5 điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T21:45:27+07:00",
+      "fetched": "2026-05-19T05:49:05.189005+07:00"
+    },
+    {
+      "id": "17ab0e061c0f0c465e2ef4c522a92267",
+      "title": "Arsenal tiến sát ngôi vương Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-tien-sat-ngoi-vuong-ngoai-hang-anh-5075392.html",
+      "summary": "Kai Havertz ghi bàn duy nhất giúp Arsenal thắng đội khách Burnley 1-0 ở vòng 37 Ngoại hạng Anh để nới rộng cách biệt với Man City lên 5 điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-18T21:45:27+07:00",
+      "fetched": "2026-05-19T05:49:18.676908+07:00"
+    },
+    {
+      "id": "250b9a6a3374d94e7f6bd6fbeca1a704",
+      "title": "VNG lên kế hoạch năm nay hết lỗ",
+      "link": "https://vnexpress.net/vng-len-ke-hoach-nam-nay-het-lo-5075391.html",
+      "summary": "VNG đặt mục tiêu năm nay lãi trước thuế 450 tỷ đồng, cắt chuỗi lỗ kéo dài 5 năm liên tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T21:00:00+07:00",
+      "fetched": "2026-05-19T05:49:05.189164+07:00"
+    },
+    {
+      "id": "da9dfffbac61b4cfe8124830808b8ed0",
+      "title": "Ngôi làng lưu dấu tuổi thơ Chủ tịch Hồ Chí Minh ở Huế",
+      "link": "https://vnexpress.net/ngoi-lang-luu-dau-tuoi-tho-chu-tich-ho-chi-minh-o-hue-5075271.html",
+      "summary": "Làng Dương Nỗ bên sông Phổ Lợi có 3 di tích quốc gia đặc biệt gắn với quãng thời gian Chủ tịch Hồ Chí Minh sống, học tập cùng gia đình tại Huế giai đoạn 1898-1900.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T21:00:00+07:00",
+      "fetched": "2026-05-19T05:49:05.189324+07:00"
+    },
+    {
+      "id": "250b9a6a3374d94e7f6bd6fbeca1a704",
+      "title": "VNG lên kế hoạch năm nay hết lỗ",
+      "link": "https://vnexpress.net/vng-len-ke-hoach-nam-nay-het-lo-5075391.html",
+      "summary": "VNG đặt mục tiêu năm nay lãi trước thuế 450 tỷ đồng, cắt chuỗi lỗ kéo dài 5 năm liên tiếp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-18T21:00:00+07:00",
+      "fetched": "2026-05-19T05:49:13.247661+07:00"
     },
     {
       "id": "5f4df541f15374a83835cd25de13dfaa",
