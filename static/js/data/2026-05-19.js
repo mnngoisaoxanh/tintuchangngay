@@ -1,7 +1,47 @@
 window.newsData_2026_05_19 = {
   "date": "2026-05-19",
-  "lastUpdated": "2026-05-19T00:51:53.304713+07:00",
+  "lastUpdated": "2026-05-19T02:24:33.904870+07:00",
   "articles": [
+    {
+      "id": "460010278a6dc4537995a3e154bd6eac",
+      "title": "Nga không can thiệp vào đàm phán Mỹ - Iran",
+      "link": "https://tuoitre.vn/nga-khong-can-thiep-vao-dam-phan-my-iran-20260518223502372.htm",
+      "summary": "Ngoại trưởng Sergey Lavrov đã bảo vệ quyền làm giàu uranium của Iran trong bối cảnh Tehran đang chịu sức ép từ chính quyền Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T02:24:24.207055+07:00",
+      "fetched": "2026-05-19T02:24:24.207175+07:00"
+    },
+    {
+      "id": "a6fd6efff568c88c0e00c9a93bf28654",
+      "title": "Xác định 4 đội vào bán kết Giải bóng chuyền Cúp VTV9 - Bình Điền 2026",
+      "link": "https://tuoitre.vn/xac-dinh-4-doi-vao-ban-ket-giai-bong-chuyen-cup-vtv9-binh-dien-2026-20260518224027258.htm",
+      "summary": "Lượt trận cuối vòng bảng tối 18-5 đã xác định các đội vào bán kết Giải bóng chuyền nữ quốc tế Cúp VTV9 - Bình Điền 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T02:24:24.206921+07:00",
+      "fetched": "2026-05-19T02:24:24.207043+07:00"
+    },
+    {
+      "id": "bed8310172ab54b880fd4f2353fbe81d",
+      "title": "Xác định danh tính người phụ nữ chửi bới, hành hung tài xế lớn tuổi sau va chạm xe",
+      "link": "https://tuoitre.vn/xac-dinh-danh-tinh-nguoi-phu-nu-chui-boi-hanh-hung-tai-xe-lon-tuoi-sau-va-cham-xe-20260518231337666.htm",
+      "summary": "Theo ông T.V.H., nguyên nhân sự việc xuất phát từ việc ông lùi xe, gây va chạm nên mới dẫn đến mâu thuẫn sau đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T02:24:24.206778+07:00",
+      "fetched": "2026-05-19T02:24:24.206908+07:00"
+    },
+    {
+      "id": "1ffd6dfe930a4b94e7f2fbe3a72dc46d",
+      "title": "Tối nay, giá vàng bất ngờ đảo chiều đi lên",
+      "link": "https://tuoitre.vn/toi-nay-gia-vang-bat-ngo-dao-chieu-di-len-20260518235339745.htm",
+      "summary": "Sau khi rơi xuống mức 4.480 USD/ounce, giá vàng thế giới đã bật tăng trở lại 100 USD/ounce vào tối nay, 18-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T02:24:24.206541+07:00",
+      "fetched": "2026-05-19T02:24:24.206763+07:00"
+    },
     {
       "id": "366d5ba61adc6b1629bb05c56dfb2464",
       "title": "Reuters: Pakistan triển khai máy bay chiến đấu và 8.000 quân tới Saudi Arabia",
@@ -151,6 +191,56 @@ window.newsData_2026_05_19 = {
       "category": "Tổng hợp",
       "published": "2026-05-19T00:51:46.072430+07:00",
       "fetched": "2026-05-19T00:51:46.072648+07:00"
+    },
+    {
+      "id": "bc1ad98847d95548eca75d391a4f2d7e",
+      "title": "Ngày nào cũng uống nước lá tía tô có tốt không?",
+      "link": "https://thanhnien.vn/ngay-nao-cung-uong-nuoc-la-tia-to-co-tot-khong-185260518185134267.htm",
+      "summary": "Lá tía tô là loại rau gia vị quen thuộc, thường được ăn kèm với cháo, bún hoặc dùng để xông khi bị cảm. Uống lá tía tô mang lại một số lợi ích sức khỏe. Điều quan trọng là cần chú ý liều lượng và cách uống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T18:35:00+07:00",
+      "fetched": "2026-05-19T02:24:23.023714+07:00"
+    },
+    {
+      "id": "77d4d2f53a89807a0b0b3a40652b44f0",
+      "title": "Pháo hoa sáng rực dịp Đồng Nai lên thành phố",
+      "link": "https://vnexpress.net/phao-hoa-sang-ruc-dip-dong-nai-len-thanh-pho-5075401.html",
+      "summary": "Hơn 1.000 quả pháo hoa tầm cao thắp sáng bầu trời trong đêm Đồng Nai công bố lên thành phố trực thuộc Trung ương, nhiều người dân ghi lại khoảnh khắc đặc biệt, tối 18/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T18:20:33+07:00",
+      "fetched": "2026-05-19T02:24:19.594998+07:00"
+    },
+    {
+      "id": "69f3bd87fc21d4dd01fac9feee43c1c3",
+      "title": "Bệnh Ebola",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/benh-ebola-428",
+      "summary": "Ebola là căn bệnh truyền nhiễm hiếm gặp, đặc biệt nguy hiểm và tỷ lệ tử vong cao bởi một số chủng virus chưa có thuốc điều trị đặc hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T18:00:00+07:00",
+      "fetched": "2026-05-19T02:24:19.595175+07:00"
+    },
+    {
+      "id": "e68015181e1f45fe17731bbedaa074f6",
+      "title": "Lá phiếu 'phản bội' ông Trump khiến thượng nghị sĩ Cộng hòa thất cử",
+      "link": "https://vnexpress.net/la-phieu-phan-boi-ong-trump-khien-thuong-nghi-si-cong-hoa-that-cu-5075032.html",
+      "summary": "Cassidy bị Tổng thống Trump chỉ trích là \"phản bội\" vì từng ủng hộ luận tội ông năm 2021 và trở thành thượng nghị sĩ Cộng hòa đầu tiên thất bại vòng sơ bộ trong gần một thập kỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T18:00:00+07:00",
+      "fetched": "2026-05-19T02:24:19.595363+07:00"
+    },
+    {
+      "id": "e68015181e1f45fe17731bbedaa074f6",
+      "title": "Lá phiếu 'phản bội' ông Trump khiến thượng nghị sĩ Cộng hòa thất cử",
+      "link": "https://vnexpress.net/la-phieu-phan-boi-ong-trump-khien-thuong-nghi-si-cong-hoa-that-cu-5075032.html",
+      "summary": "Cassidy bị Tổng thống Trump chỉ trích là \"phản bội\" vì từng ủng hộ luận tội ông năm 2021 và trở thành thượng nghị sĩ Cộng hòa đầu tiên thất bại vòng sơ bộ trong gần một thập kỷ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-18T18:00:00+07:00",
+      "fetched": "2026-05-19T02:24:26.017524+07:00"
     },
     {
       "id": "c6b8f4298ac692346d8ea1afb48d4ed6",
