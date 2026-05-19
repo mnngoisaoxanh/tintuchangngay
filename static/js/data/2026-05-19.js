@@ -1,7 +1,157 @@
 window.newsData_2026_05_19 = {
   "date": "2026-05-19",
-  "lastUpdated": "2026-05-19T17:53:26.753065+07:00",
+  "lastUpdated": "2026-05-19T21:36:25.904935+07:00",
   "articles": [
+    {
+      "id": "94e28fe37b1560f405c052ae2b283cb6",
+      "title": "3 vụ chó dại, nghi dại cắn nhiều người trong 1 tháng ở Đắk Lắk",
+      "link": "https://tuoitre.vn/3-vu-cho-dai-nghi-dai-can-nhieu-nguoi-trong-1-thang-o-dak-lak-20260519185536322.htm",
+      "summary": "Chỉ trong một tháng, đã có nhiều vụ chó nghi dại tấn công người dân tại khu vực đông Đắk Lắk (trước là Phú Yên), trong số đó có ít nhất 2 mẫu xét nghiệm xác định chó dại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.987688+07:00",
+      "fetched": "2026-05-19T21:36:17.987783+07:00"
+    },
+    {
+      "id": "fefcad243b0c58270abe6e21387059d1",
+      "title": "Khám phá Hang Dơi, quần thể hang đá trăm triệu năm kỳ bí ở Đà Nẵng",
+      "link": "https://tuoitre.vn/kham-pha-hang-doi-quan-the-hang-da-tram-trieu-nam-ky-bi-o-da-nang-20260519173701793.htm",
+      "summary": "Hang Dơi được kiến tạo hàng trăm triệu năm, một trong những hệ tầng đá cổ nhất ở vùng Quảng Nam - Đà Nẵng với nét kỳ bí, huyền ảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.987583+07:00",
+      "fetched": "2026-05-19T21:36:17.987679+07:00"
+    },
+    {
+      "id": "2ad8fa9cea42e254a91555237155f773",
+      "title": "TP.HCM lần đầu vào top 100 hệ sinh thái khởi nghiệp sáng tạo năng động toàn cầu",
+      "link": "https://tuoitre.vn/tp-hcm-lan-dau-vao-top-100-he-sinh-thai-khoi-nghiep-sang-tao-nang-dong-toan-cau-20260519180527577.htm",
+      "summary": "Theo Báo cáo Chỉ số hệ sinh thái khởi nghiệp sáng tạo toàn cầu 2026 của StartupBlink, TP.HCM tăng 12 bậc, vươn lên vị trí 98 thế giới và lần đầu tiên góp mặt trong top 100 hệ sinh thái khởi nghiệp sáng tạo toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.987481+07:00",
+      "fetched": "2026-05-19T21:36:17.987574+07:00"
+    },
+    {
+      "id": "aec7dec605db571e77e5d414f29f2ac7",
+      "title": "TP.HCM truy số điện thoại trên quảng cáo dán bậy cho vay, cờ bạc, hút hầm cầu...",
+      "link": "https://tuoitre.vn/tp-hcm-truy-so-dien-thoai-tren-quang-cao-dan-bay-cho-vay-co-bac-hut-ham-cau-20260519190606017.htm",
+      "summary": "Không chỉ tiếp tục bóc xóa quảng cáo sai quy định, TP.HCM sẽ thu thập, rà soát số điện thoại trên các quảng cáo dán bậy để phục vụ xác minh, xử lý, đặc biệt liên quan đến cho vay, hút hầm cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.987358+07:00",
+      "fetched": "2026-05-19T21:36:17.987472+07:00"
+    },
+    {
+      "id": "e660e5f0281200f49d5926526e0f1889",
+      "title": "Thi TOEFL iBT tại nhà, thí sinh cần lưu ý gì?",
+      "link": "https://tuoitre.vn/thi-toefl-ibt-tai-nha-thi-sinh-can-luu-y-gi-20260519144447544.htm",
+      "summary": "Từ năm 2026, TOEFL iBT chuyển sang thang điểm mới 1-6, trong khi hình thức thi tại nhà vẫn được ETS triển khai với các yêu cầu riêng về thiết bị, không gian thi và nơi tiếp nhận điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.987253+07:00",
+      "fetched": "2026-05-19T21:36:17.987349+07:00"
+    },
+    {
+      "id": "c2169bfe5a7252801efebde7ee859e8b",
+      "title": "Đại tá Tư Cang kể chuyện nghĩa tình TP.HCM với học sinh",
+      "link": "https://tuoitre.vn/dai-ta-tu-cang-ke-chuyen-nghia-tinh-tp-hcm-voi-hoc-sinh-2026051915425404.htm",
+      "summary": "Đại tá Nguyễn Văn Tàu (bí danh Tư Cang) đã kể một câu chuyện đầy ý nghĩa tại lễ phát động cuộc thi '50 năm Thành phố trong tôi 1976-2026'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.987147+07:00",
+      "fetched": "2026-05-19T21:36:17.987244+07:00"
+    },
+    {
+      "id": "8a42447144f06640b58992f87b32da4a",
+      "title": "Thượng viện Mỹ phê chuẩn nữ đại sứ Mỹ đầu tiên tại Việt Nam",
+      "link": "https://tuoitre.vn/thuong-vien-my-phe-chuan-nu-dai-su-my-dau-tien-tai-viet-nam-20260519195104759.htm",
+      "summary": "Bà Jennifer Wicks McNamara đã được Thượng viện Mỹ phê chuẩn làm tân Đại sứ Mỹ tại Việt Nam, trở thành người phụ nữ đầu tiên giữ vị trí này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.987029+07:00",
+      "fetched": "2026-05-19T21:36:17.987137+07:00"
+    },
+    {
+      "id": "2fe08a890cbfe1ad79d64c139c7ca818",
+      "title": "Lại Lý Huynh thăng hạng, vượt mặt nhiều cao thủ cờ tướng Trung Quốc",
+      "link": "https://tuoitre.vn/lai-ly-huynh-thang-hang-vuot-mat-nhieu-cao-thu-co-tuong-trung-quoc-20260519190228241.htm",
+      "summary": "Trong bảng xếp hạng tháng 5 do Hiệp hội Cờ tướng Trung Quốc (CXA) công bố mới đây, Lại Lý Huynh tiếp tục thăng tiến, vượt mặt nhiều cao thủ của kỳ đàn đại lục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.986927+07:00",
+      "fetched": "2026-05-19T21:36:17.987020+07:00"
+    },
+    {
+      "id": "a4becf2444f42141d5b84e016dfeea3a",
+      "title": "Ronaldo lập kỷ lục dự World Cup lần thứ 6 cùng tuyển Bồ Đào Nha",
+      "link": "https://tuoitre.vn/ronaldo-lap-ky-luc-du-world-cup-lan-thu-6-cung-tuyen-bo-dao-nha-20260519195513754.htm",
+      "summary": "HLV Roberto Martínez đã chính thức công bố danh sách 26 cầu thủ Bồ Đào Nha tham dự World Cup 2026, với siêu sao 41 tuổi Cristiano Ronaldo làm nên lịch sử khi lần thứ 6 góp mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.986822+07:00",
+      "fetched": "2026-05-19T21:36:17.986918+07:00"
+    },
+    {
+      "id": "cf14b2c6dd9d8ad83e9b254a5271f5a2",
+      "title": "Tổng Bí thư, Chủ tịch nước: Từ nay đến 2030, nhà ở cho thuê phải được xác định là trụ cột chiến lược",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-tu-nay-den-2030-nha-o-cho-thue-phai-duoc-xac-dinh-la-tru-cot-chien-luoc-20260519190832847.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm nhấn mạnh yêu cầu người dân được tiếp cận chỗ ở ổn định, an toàn, phù hợp khả năng chi trả và đúng đối tượng, trong đó nhà ở cho thuê phải trở thành trụ cột lâu dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.986717+07:00",
+      "fetched": "2026-05-19T21:36:17.986813+07:00"
+    },
+    {
+      "id": "6f4a9eb526ee5f9fd2a2328afab615b8",
+      "title": "Chuyển Hải quan Tân Sơn Nhất về Chi cục Hải quan khu vực XV",
+      "link": "https://tuoitre.vn/chuyen-hai-quan-tan-son-nhat-ve-chi-cuc-hai-quan-khu-vuc-xv-20260519200240555.htm",
+      "summary": "Theo Bộ Tài chính, việc sắp xếp nhằm phù hợp với yêu cầu quản lý trong bối cảnh lưu lượng hàng hóa xuất nhập khẩu, hành khách và hoạt động chuyển phát nhanh tại khu vực phía Nam tiếp tục gia tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.986605+07:00",
+      "fetched": "2026-05-19T21:36:17.986707+07:00"
+    },
+    {
+      "id": "02ef831128814600d62e7803433c6a6d",
+      "title": "Mưa xối xả gây lũ lớn ở Trung Quốc, 18 người thiệt mạng, giao thông tê liệt diện rộng",
+      "link": "https://tuoitre.vn/mua-xoi-xa-gay-lu-lon-o-trung-quoc-18-nguoi-thiet-mang-giao-thong-te-liet-dien-rong-2026051920062624.htm",
+      "summary": "Mưa lớn buộc nhiều trường học và doanh nghiệp phải đóng cửa, đồng thời làm tê liệt hệ thống giao thông và mạng lưới cấp điện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.986494+07:00",
+      "fetched": "2026-05-19T21:36:17.986595+07:00"
+    },
+    {
+      "id": "6fedd348ef16b8e099b56253e2732a5c",
+      "title": "Công chức xã ở TP.HCM đến tận nhà chứng thực chữ ký cho người dân",
+      "link": "https://tuoitre.vn/cong-chuc-xa-o-tp-hcm-den-tan-nha-chung-thuc-chu-ky-cho-nguoi-dan-20260519195141622.htm",
+      "summary": "Xã Thái Mỹ (TP.HCM) triển khai chứng thực chữ ký tại nhà cho người già, người khuyết tật, người gặp khó khăn trong việc đi lại...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.986355+07:00",
+      "fetched": "2026-05-19T21:36:17.986483+07:00"
+    },
+    {
+      "id": "d84cb4955f1176a29c469155f5445234",
+      "title": "Chuyển đổi số y tế: Không chỉ ứng dụng công nghệ, mà là cách chăm người bệnh tốt hơn",
+      "link": "https://tuoitre.vn/chuyen-doi-so-y-te-khong-chi-ung-dung-cong-nghe-ma-la-cach-cham-nguoi-benh-tot-hon-20260519195358873.htm",
+      "summary": "Chuyển đổi số trong y tế không chỉ là câu chuyện ứng dụng công nghệ, mà là sự kết hợp giữa công nghệ, quản trị và y học để hướng tới mục tiêu cao nhất là chăm sóc sức khỏe người dân hiệu quả, toàn diện và bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.986225+07:00",
+      "fetched": "2026-05-19T21:36:17.986344+07:00"
+    },
+    {
+      "id": "e33996fc213a2e9ae4d91a3ecc2d6508",
+      "title": "Iran tổ chức lễ cưới tập thể cho hơn 100 cặp đôi 'sẵn sàng hy sinh vì đất nước'",
+      "link": "https://tuoitre.vn/iran-to-chuc-le-cuoi-tap-the-cho-hon-100-cap-doi-san-sang-hy-sinh-vi-dat-nuoc-20260519203315709.htm",
+      "summary": "Iran tổ chức lễ cưới tập thể quy mô lớn tại thủ đô Tehran cho hơn 100 cặp đôi đăng ký tham gia chương trình \"tự hiến\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:36:17.985960+07:00",
+      "fetched": "2026-05-19T21:36:17.986211+07:00"
+    },
     {
       "id": "e8996cb19b28edbdcf1a56e80a5de156",
       "title": "Rút, chuyển tiền chứng khoán từ 10 triệu đồng có thể phải xác thực sinh trắc học",
@@ -301,6 +451,386 @@ window.newsData_2026_05_19 = {
       "category": "Tổng hợp",
       "published": "2026-05-19T14:36:37.504861+07:00",
       "fetched": "2026-05-19T14:36:37.505054+07:00"
+    },
+    {
+      "id": "810a53cd3892cd12dbf6dffd96f59591",
+      "title": "Phim có NSƯT Thành Lộc, Quốc Trường gặp thế khó ở phòng vé",
+      "link": "https://thanhnien.vn/phim-co-nsut-thanh-loc-quoc-truong-gap-the-kho-o-phong-ve-185260519210834291.htm",
+      "summary": "Sau vài ngày công chiếu, phim 'Một thời ta đã yêu' có sự góp mặt của nghệ sĩ Thành Lộc, diễn viên Quốc Trường chỉ thu về hơn 1 tỉ đồng, bị loạt tác phẩm ngoại bỏ xa tại phòng vé.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T14:36:00+07:00",
+      "fetched": "2026-05-19T21:36:16.822857+07:00"
+    },
+    {
+      "id": "f3c322477442e1f8cf091883a9e4be84",
+      "title": "Nam chính 'Dưới bóng điện hạ' Park Ji Hoon tổ chức fancon tại Việt Nam",
+      "link": "https://thanhnien.vn/nam-chinh-duoi-bong-dien-ha-park-ji-hoon-to-chuc-fancon-tai-viet-nam-185260519190915696.htm",
+      "summary": "Ca sĩ, diễn viên Park Ji Hoon xác nhận tổ chức hai đêm fancon tại TP.HCM và Hà Nội vào tháng 6, thu hút sự quan tâm của cộng đồng người hâm mộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T14:28:00+07:00",
+      "fetched": "2026-05-19T21:36:16.823009+07:00"
+    },
+    {
+      "id": "dafc05bfa6c5dcec2028994450da74dc",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Bộ trưởng Quốc phòng Ấn Độ",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-bo-truong-quoc-phong-an-do-18526051920424193.htm",
+      "summary": "Ngày 19.5, tại Trụ sở Trung ương Đảng, Tổng Bí thư, Chủ tịch nước Tô Lâm đã tiếp Bộ trưởng Quốc phòng Ấn Độ Rajnath Singh nhân dịp Bộ trưởng thăm chính thức Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T14:27:00+07:00",
+      "fetched": "2026-05-19T21:36:16.823145+07:00"
+    },
+    {
+      "id": "7514a30aa7b3da341935dec6aa621d4a",
+      "title": "Việt Nam hợp tác Nhật Bản thúc đẩy AI và chuyển đổi số y tế",
+      "link": "https://vnexpress.net/viet-nam-hop-tac-nhat-ban-thuc-day-ai-va-chuyen-doi-so-y-te-5075836.html",
+      "summary": "Tập đoàn FPT và Tập đoàn Y tế Tokushukai hợp tác chuyển đổi số trong lĩnh vực y tế, nhằm chăm sóc sức khỏe người dân hiệu quả, toàn diện và bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T14:15:23+07:00",
+      "fetched": "2026-05-19T21:36:13.253080+07:00"
+    },
+    {
+      "id": "d2fc77f4e6631bac4723470d2c2415ab",
+      "title": "5 mẫu áo khoác mùa hè tạo điểm nhấn cá tính",
+      "link": "https://thanhnien.vn/thoi-trang-tre/5-mau-ao-khoac-mua-he-tao-diem-nhan-ca-tinh-185260519104815527.htm",
+      "summary": "Blazer, sơ mi linen, áo khoác denim, kaki... nằm trong số 5 kiểu áo khoác mùa hè nhẹ mát, mang đến diện mạo vừa cá tính, vừa sang trọng để nàng diện suốt mùa hè.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T14:06:00+07:00",
+      "fetched": "2026-05-19T21:36:16.823275+07:00"
+    },
+    {
+      "id": "5e49633f319b2760c659e2649aed8a6a",
+      "title": "Tranh vẩy sơn có giá hơn 180 triệu USD",
+      "link": "https://vnexpress.net/tranh-vay-son-co-gia-hon-180-trieu-usd-5075632.html",
+      "summary": "Bức \"Number 7A, 1948\" của danh họa Mỹ Jackson Pollock có giá 181,2 triệu USD (gần 4.800 tỷ đồng), lập kỷ lục tranh được đấu giá đắt nhất của ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T14:01:13+07:00",
+      "fetched": "2026-05-19T21:36:13.253257+07:00"
+    },
+    {
+      "id": "b766c39c37981dc671d079c2f601166b",
+      "title": "Nước nào khai thác than nhiều nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-khai-thac-than-nhieu-nhat-dong-nam-a-5075824.html",
+      "summary": "Sản lượng than đá của nước này chiếm gần 1/10 toàn cầu. Theo bạn, đây là Việt Nam, Myanmar hay Indonesia?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T14:01:00+07:00",
+      "fetched": "2026-05-19T21:36:13.253440+07:00"
+    },
+    {
+      "id": "b0f353cf60b44e6eb6e54a66dd5c9ac9",
+      "title": "Một trường hợp tử vong do vi rút hanta tại Mỹ",
+      "link": "https://thanhnien.vn/mot-truong-hop-tu-vong-do-vi-rut-hanta-tai-my-185260519193023298.htm",
+      "summary": "Giới chức y tế bang Colorado, Mỹ thông tin về một ca tử vong do vi rút hanta, cho biết giai đoạn này là thời điểm dễ ghi nhận các ca nhiễm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T14:01:00+07:00",
+      "fetched": "2026-05-19T21:36:16.823417+07:00"
+    },
+    {
+      "id": "04686e128a43d1593129ef2164cf6338",
+      "title": "Vợ thú nhận thường chat sex với cậu trai trẻ hàng xóm",
+      "link": "https://vnexpress.net/vo-thu-nhan-thuong-chat-sex-voi-cau-trai-tre-hang-xom-5074833.html",
+      "summary": "Điều khiến tôi đau lòng hơn là khi nhắn tin với cậu ấy, vợ trở nên có cảm hứng hơn và cũng chủ động đòi hỏi ở tôi nhiều hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T14:00:00+07:00",
+      "fetched": "2026-05-19T21:36:13.253590+07:00"
+    },
+    {
+      "id": "a3d19df24531115f622c0a0082fd2126",
+      "title": "Cắt giảm tiếp 56 ngành nghề đầu tư kinh doanh có điều kiện từ 1/7",
+      "link": "https://vnexpress.net/cat-giam-tiep-56-nganh-nghe-dau-tu-kinh-doanh-co-dieu-kien-tu-1-7-5075827.html",
+      "summary": "Danh mục ngành, nghề đầu tư kinh doanh có điều kiện được cắt giảm từ 198 xuống còn 142, theo Nghị quyết của Chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:53:17+07:00",
+      "fetched": "2026-05-19T21:36:13.253731+07:00"
+    },
+    {
+      "id": "b7d1954c097132db2372d740b63559f1",
+      "title": "Cadivi tri ân hệ thống phân phối và đối tác với chủ đề ‘đồng hành dẫn đầu'",
+      "link": "https://thanhnien.vn/cadivi-tri-an-he-thong-phan-phoi-va-doi-tac-voi-chu-de-dong-hanh-dan-dau-185260519205442903.htm",
+      "summary": "Vừa qua, Công ty Cổ phần Dây cáp điện Việt Nam (CADIVI) tổ chức Hội nghị khách hàng toàn quốc 2026 tại TP.Hoa Lư (Ninh Bình), với sự tham gia của hơn 500 nhà phân phối và đối tác tiêu biểu trên toàn quốc. Với chủ đề \"Đồng hành dẫn đầu\", sự kiện là dịp doanh nghiệp tri ân hệ thống nhà phân phối, đồng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:47:00+07:00",
+      "fetched": "2026-05-19T21:36:16.823565+07:00"
+    },
+    {
+      "id": "6e5305a2605aaa67ed0e066194f86b95",
+      "title": "Thượng viện Mỹ phê chuẩn nữ đại sứ đầu tiên tại Việt Nam",
+      "link": "https://vnexpress.net/thuong-vien-my-phe-chuan-nu-dai-su-dau-tien-tai-viet-nam-5075834.html",
+      "summary": "Thượng viện Mỹ phê chuẩn bà Jennifer Wicks McNamara, người có khoảng 30 năm kinh nghiệm trong bộ máy chính phủ, làm đại sứ tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:43:12+07:00",
+      "fetched": "2026-05-19T21:36:13.253858+07:00"
+    },
+    {
+      "id": "6e5305a2605aaa67ed0e066194f86b95",
+      "title": "Thượng viện Mỹ phê chuẩn nữ đại sứ đầu tiên tại Việt Nam",
+      "link": "https://vnexpress.net/thuong-vien-my-phe-chuan-nu-dai-su-dau-tien-tai-viet-nam-5075834.html",
+      "summary": "Thượng viện Mỹ phê chuẩn bà Jennifer Wicks McNamara, người có khoảng 30 năm kinh nghiệm trong bộ máy chính phủ, làm đại sứ tại Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-19T13:43:12+07:00",
+      "fetched": "2026-05-19T21:36:20.050210+07:00"
+    },
+    {
+      "id": "7a55f498db975d0b3e3def1ea0537d31",
+      "title": "Billiards: 8 cơ thủ Việt Nam xuất sắc đi tiếp tại World Cup TP.HCM",
+      "link": "https://thanhnien.vn/billiards-8-co-thu-viet-nam-xuat-sac-di-tiep-tai-world-cup-tphcm-185260519203005581.htm",
+      "summary": "8 cơ thủ Việt Nam đã xuất sắc vượt qua vòng loại thứ hai World Cup billiards TP.HCM 2026. Trong đó, 6 cái tên đi tiếp với thành tích toàn thắng tại bảng đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:43:00+07:00",
+      "fetched": "2026-05-19T21:36:16.823693+07:00"
+    },
+    {
+      "id": "361f88a637f5005bad42f4aa526b5891",
+      "title": "Phó chủ tịch Quốc hội Nguyễn Doãn Anh nhận Huân chương Lao động hạng Nhất",
+      "link": "https://vnexpress.net/pho-chu-tich-quoc-hoi-nguyen-doan-anh-nhan-huan-chuong-lao-dong-hang-nhat-5075835.html",
+      "summary": "Phó chủ tịch Quốc hội, thượng tướng Nguyễn Doãn Anh được trao Huân chương Lao động hạng Nhất vì có nhiều thành tích xuất sắc trong công tác, đóng góp cho sự nghiệp xây dựng, bảo vệ Tổ quốc và phát triển kinh tế - xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:41:02+07:00",
+      "fetched": "2026-05-19T21:36:13.253985+07:00"
+    },
+    {
+      "id": "654293933327785050500317e166aab3",
+      "title": "Xe gia đình cỡ nhỏ: Toyota Veloz vượt mặt Mitsubishi Xpander, xe điện VinFast vẫn 'chiếm sóng'",
+      "link": "https://thanhnien.vn/xe-gia-dinh-co-nho-toyota-veloz-vuot-mat-mitsubishi-xpander-xe-dien-vinfast-van-chiem-song-185260519070541582.htm",
+      "summary": "Phân khúc xe gia đình cỡ nhỏ tại Việt Nam tiếp tục chứng kiến nhiều biến động trong tháng 4.2026 khi Toyota Veloz bất ngờ vượt Mitsubishi Xpander ở nhóm xe xăng. Tuy nhiên, tâm điểm thị trường vẫn thuộc về xe điện VinFast với doanh số áp đảo phần còn lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:39:00+07:00",
+      "fetched": "2026-05-19T21:36:16.823822+07:00"
+    },
+    {
+      "id": "f9312818407fce437c0c583d1022f436",
+      "title": "Vì sao nhiều người bỏ smartwatch để quay lại đồng hồ truyền thống?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-nguoi-bo-smartwatch-de-quay-lai-dong-ho-truyen-thong-185260518081909759.htm",
+      "summary": "Trong thập kỷ qua, Apple đã đóng góp lớn vào việc phổ biến smartwatch ra thị trường với sản phẩm Apple Watch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:32:00+07:00",
+      "fetched": "2026-05-19T21:36:16.823944+07:00"
+    },
+    {
+      "id": "192f97e8985bd25dac031204d46cf6e4",
+      "title": "Gần 450 đội thi châu Á đăng ký Asian Hackathon for Green Future 2026",
+      "link": "https://vnexpress.net/gan-450-doi-thi-chau-a-dang-ky-asian-hackathon-for-green-future-2026-5075796.html",
+      "summary": "Asian Hackathon for Green Future 2026 thu hút 439 đội thi từ 22 quốc gia tham gia phát triển giải pháp công nghệ xanh, quy tụ nhiều sinh viên từ các đại học hàng đầu châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:30:00+07:00",
+      "fetched": "2026-05-19T21:36:13.254123+07:00"
+    },
+    {
+      "id": "3512ddf5a004889e421651f50c8f474b",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn sinh học | Chuyên đề 9 | Một số vấn đề về phần sinh thái học",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-sinh-hoc-chuyen-de-9-mot-so-van-de-ve-phan-sinh-thai-hoc-185260507102833107.htm",
+      "summary": "Chương trình hướng dẫn học sinh làm bài thi môn sinh học, kỳ thi THPT quốc gia 2026. Buổi hướng dẫn \"Bí quyết ôn thi THPT 2026\" do thầy Võ Thanh Bình, Trường THPT chuyên Lê Hồng Phong, TP.HCM – thực hiện. Chương trình được phát trên các kênh thanhnien.vn, Facebook.com/thanhnien và YouTube Báo Thanh ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:30:00+07:00",
+      "fetched": "2026-05-19T21:36:16.824069+07:00"
+    },
+    {
+      "id": "94d95842c72ce873d1dd8507d76c2709",
+      "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Phần lý thuyết chiếm nhiều điểm môn sinh",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-phan-ly-thuyet-chiem-nhieu-diem-mon-sinh-185260519122909593.htm",
+      "summary": "Vào lúc 20 giờ 30 ngày 19.5, Báo Thanh Niên phát sóng chuyên đề số 9 của môn sinh học trong chương trình Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:28:00+07:00",
+      "fetched": "2026-05-19T21:36:16.824196+07:00"
+    },
+    {
+      "id": "35a95fa2ca37b479228fb7d37a24f713",
+      "title": "Đại tướng Phạm Văn Trà nhận Huy hiệu 70 năm tuổi Đảng",
+      "link": "https://thanhnien.vn/dai-tuong-pham-van-tra-nhan-huy-hieu-70-nam-tuoi-dang-185260519200333618.htm",
+      "summary": "Chiều 19.5, tại Hà Nội, Đảng ủy Văn phòng Bộ Quốc phòng tổ chức Lễ trao tặng Huy hiệu 70 năm tuổi Đảng đối với đại tướng Phạm Văn Trà, nguyên Phó bí thư Đảng ủy Quân sự T.Ư (nay là Quân ủy T.Ư), nguyên Bộ trưởng Bộ Quốc phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:21:00+07:00",
+      "fetched": "2026-05-19T21:36:16.824319+07:00"
+    },
+    {
+      "id": "5c9733638d57122beb0d288f388d863a",
+      "title": "Ấn Độ muốn thúc đẩy hợp tác quốc phòng với Việt Nam",
+      "link": "https://vnexpress.net/an-do-muon-thuc-day-hop-tac-quoc-phong-voi-viet-nam-5075826.html",
+      "summary": "Bộ trưởng Quốc phòng Ấn Độ khẳng định nước này sẽ tiếp tục thúc đẩy hợp tác quốc phòng với Việt Nam, khi gặp Tổng Bí thư, Chủ tịch nước Tô Lâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:19:34+07:00",
+      "fetched": "2026-05-19T21:36:13.254257+07:00"
+    },
+    {
+      "id": "5c9733638d57122beb0d288f388d863a",
+      "title": "Ấn Độ muốn thúc đẩy hợp tác quốc phòng với Việt Nam",
+      "link": "https://vnexpress.net/an-do-muon-thuc-day-hop-tac-quoc-phong-voi-viet-nam-5075826.html",
+      "summary": "Bộ trưởng Quốc phòng Ấn Độ khẳng định nước này sẽ tiếp tục thúc đẩy hợp tác quốc phòng với Việt Nam, khi gặp Tổng Bí thư, Chủ tịch nước Tô Lâm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-19T13:19:34+07:00",
+      "fetched": "2026-05-19T21:36:20.050369+07:00"
+    },
+    {
+      "id": "f98212daac242ca37f3341f1b170b3e1",
+      "title": "Tổng Bí thư, Chủ tịch nước: Nhà để ở, không phải để đầu cơ",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-nha-de-o-khong-phai-de-dau-co-5075829.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu phát triển nhà ở theo hướng người dân có chỗ an cư phù hợp khả năng chi trả, không để nhà ở trở thành công cụ đầu cơ, tích sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:19:16+07:00",
+      "fetched": "2026-05-19T21:36:13.254403+07:00"
+    },
+    {
+      "id": "16903910f56a84fd5070281671025731",
+      "title": "'Công chúa tuyết' Eileen Gu tiết lộ điều đặc biệt sau 6 lần giành huy chương Olympic",
+      "link": "https://thanhnien.vn/cong-chua-tuyet-eileen-gu-tiet-lo-dieu-dac-biet-sau-6-lan-gianh-huy-chuong-olympic-185260423150918464.htm",
+      "summary": "Eileen Gu (Cốc Ái Lăng) chia sẻ về việc tìm lại niềm vui trong môn trượt tuyết sau khi liên tục bị chấn thương. Bên cạnh đó, 'công chúa tuyết' 23 tuổi lần đầu trải lòng về hành trình tìm lại bản ngã và định nghĩa về sự tự do của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:19:00+07:00",
+      "fetched": "2026-05-19T21:36:16.824459+07:00"
+    },
+    {
+      "id": "e3fe4d6434b56b5ea99bc821d7316f06",
+      "title": "Ronaldo lần thứ sáu dự World Cup",
+      "link": "https://vnexpress.net/ronaldo-lan-thu-sau-du-world-cup-5075838.html",
+      "summary": "Tiền đạo Cristiano Ronaldo lập kỷ lục, khi có tên trong danh sách 26 tuyển thủ Bồ Đào Nha dự World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:14:57+07:00",
+      "fetched": "2026-05-19T21:36:13.254542+07:00"
+    },
+    {
+      "id": "e3fe4d6434b56b5ea99bc821d7316f06",
+      "title": "Ronaldo lần thứ sáu dự World Cup",
+      "link": "https://vnexpress.net/ronaldo-lan-thu-sau-du-world-cup-5075838.html",
+      "summary": "Tiền đạo Cristiano Ronaldo lập kỷ lục, khi có tên trong danh sách 26 tuyển thủ Bồ Đào Nha dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-19T13:14:57+07:00",
+      "fetched": "2026-05-19T21:36:25.894408+07:00"
+    },
+    {
+      "id": "47b5d9cafb251ec9e2c910faabbe78f6",
+      "title": "Sự thật về miếng dán màn hình chống nhìn trộm",
+      "link": "https://thanhnien.vn/su-that-ve-mieng-dan-man-hinh-chong-nhin-trom-185260519185133025.htm",
+      "summary": "Dù giúp hạn chế người khác nhìn màn hình, miếng dán màn hình chống nhìn trộm đôi khi khiến trải nghiệm xem nội dung trở nên kém hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:12:00+07:00",
+      "fetched": "2026-05-19T21:36:16.824582+07:00"
+    },
+    {
+      "id": "4d726a532d8033acccb90dca97154f95",
+      "title": "Cục Hải quan lên tiếng vụ nhập khẩu hóa chất phải khai báo 100% thành phần",
+      "link": "https://thanhnien.vn/cuc-hai-quan-len-tieng-vu-nhap-khau-hoa-chat-phai-khai-bao-100-thanh-phan-185260519190604229.htm",
+      "summary": "Chiều nay 19.5, Cục Hải quan (Bộ Tài chính) chính thức lên tiếng làm rõ vấn đề về khai báo thông tin thành phần hóa chất khi làm thủ tục nhập khẩu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:10:00+07:00",
+      "fetched": "2026-05-19T21:36:16.824706+07:00"
+    },
+    {
+      "id": "70fa8ac661cc990030589ba135e77306",
+      "title": "TP HCM lần đầu vào top 100 hệ sinh thái khởi nghiệp toàn cầu",
+      "link": "https://vnexpress.net/tp-hcm-lan-dau-vao-top-100-he-sinh-thai-khoi-nghiep-toan-cau-5075807.html",
+      "summary": "TP HCM tăng 12 bậc, lên vị trí 98 thế giới trong bảng xếp hạng hệ sinh thái khởi nghiệp sáng tạo 2026 của StartupBlink.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:02:04+07:00",
+      "fetched": "2026-05-19T21:36:13.254669+07:00"
+    },
+    {
+      "id": "70fa8ac661cc990030589ba135e77306",
+      "title": "TP HCM lần đầu vào top 100 hệ sinh thái khởi nghiệp toàn cầu",
+      "link": "https://vnexpress.net/tp-hcm-lan-dau-vao-top-100-he-sinh-thai-khoi-nghiep-toan-cau-5075807.html",
+      "summary": "TP HCM tăng 12 bậc, lên vị trí 98 thế giới trong bảng xếp hạng hệ sinh thái khởi nghiệp sáng tạo 2026 của StartupBlink.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-19T13:02:04+07:00",
+      "fetched": "2026-05-19T21:36:24.090665+07:00"
+    },
+    {
+      "id": "95bc70d82eea4bab6232020d66588aeb",
+      "title": "'Ngộp thở' trong những nhà trọ 13 m2 giá trên hai triệu đồng",
+      "link": "https://vnexpress.net/gia-nha-tro-tphcm-2026-ngop-tho-vi-khong-co-quyen-thuong-luong-gia-nha-tro-5075731.html",
+      "summary": "Mặt bằng giá thuê trọ tăng, người đi thuê không có nhiều lựa chọn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:00:00+07:00",
+      "fetched": "2026-05-19T21:36:13.254794+07:00"
+    },
+    {
+      "id": "0b58ca75e8ee76c047d103b7936cffd1",
+      "title": "Lợi ích khi ăn một quả chuối vào buổi tối",
+      "link": "https://vnexpress.net/loi-ich-khi-an-mot-qua-chuoi-vao-buoi-toi-5075641.html",
+      "summary": "Ăn một quả chuối vào buổi tối có thể cung cấp magie, kali và tryptophan, giúp thư giãn cơ thể, ngủ ngon hơn và hạn chế đói ban đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:00:00+07:00",
+      "fetched": "2026-05-19T21:36:13.254923+07:00"
+    },
+    {
+      "id": "0eb38a9d17c3d64b9ab3ea1c484658e8",
+      "title": "Tổng đài giảm 70% việc giám sát thủ công nhờ GenAI",
+      "link": "https://vnexpress.net/tong-dai-giam-70-viec-giam-sat-thu-cong-nho-genai-5075650.html",
+      "summary": "VinaPhone ghi nhận hiệu quả cao khi triển khai iSense - nền tảng ứng dụng AI và Generative AI để phân tích cuộc gọi, giám sát tổng đài và phát hiện sớm bất thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T13:00:00+07:00",
+      "fetched": "2026-05-19T21:36:13.255056+07:00"
+    },
+    {
+      "id": "384b3e741e6bafd081b024f7c0814b88",
+      "title": "Iran nêu các điều kiện trong đề xuất hòa bình",
+      "link": "https://vnexpress.net/iran-neu-cac-dieu-kien-trong-de-xuat-hoa-binh-5075810.html",
+      "summary": "Iran công bố các điều kiện trong đề xuất hòa bình mới nhất gửi cho Mỹ, không thay đổi nhiều so với phiên bản cũ bị ông Trump chỉ trích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-19T12:44:15+07:00",
+      "fetched": "2026-05-19T21:36:20.050533+07:00"
+    },
+    {
+      "id": "10965700be1748473cadaba909e87d92",
+      "title": "Phó thủ tướng: Không để phát sinh cơ chế 'giữ chỗ' dự án điện gió ngoài khơi",
+      "link": "https://vnexpress.net/pho-thu-tuong-khong-de-phat-sinh-co-che-giu-cho-du-an-dien-gio-ngoai-khoi-5075819.html",
+      "summary": "Phó thủ tướng lưu ý cơ chế giao khảo sát điện gió ngoài khơi, không đồng nghĩa với chấp thuận chủ trương đầu tư, tránh phát sinh tình trạng giữ chỗ hay độc quyền đầu tư.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-19T12:21:32+07:00",
+      "fetched": "2026-05-19T21:36:21.903837+07:00"
+    },
+    {
+      "id": "8c1e779f11ee5445613c699a5205e5d2",
+      "title": "Máy gia tốc hạt AI đầu tiên trên thế giới đang được xây dựng",
+      "link": "https://vnexpress.net/may-gia-toc-hat-ai-dau-tien-tren-the-gioi-dang-duoc-xay-dung-5075583.html",
+      "summary": "Máy gia tốc hạt Electron-Ion trị giá 2,8 tỷ USD sẽ ra mắt giữa thập niên 2030, sử dụng AI ổn định chùm tia, tối ưu hóa thiết kế máy dò và xử lý dữ liệu va chạm khổng lồ theo thời gian thực.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-19T12:00:00+07:00",
+      "fetched": "2026-05-19T21:36:24.090825+07:00"
+    },
+    {
+      "id": "dc98fabbf10f16dd7093564c1bb95c1b",
+      "title": "Thủ tướng yêu cầu hoàn thành cơ sở dữ liệu đất đai trong năm nay",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-hoan-thanh-co-so-du-lieu-dat-dai-trong-nam-nay-5075787.html",
+      "summary": "Các địa phương phải hoàn thành cơ sở dữ liệu quốc gia về đất đai trong 2026, nhằm minh bạch thị trường và chuyển đổi số.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-19T10:44:10+07:00",
+      "fetched": "2026-05-19T21:36:21.903999+07:00"
     },
     {
       "id": "280c5fc47eb4e2f22242cfa373af7b10",
