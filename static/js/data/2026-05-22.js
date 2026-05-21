@@ -1,6 +1,6 @@
 window.newsData_2026_05_22 = {
   "date": "2026-05-22",
-  "lastUpdated": "2026-05-22T00:50:11.760948+07:00",
+  "lastUpdated": "2026-05-22T02:42:54.449290+07:00",
   "articles": [
     {
       "id": "c00a33d6f0a076b59ed4235f5c6a1db6",
@@ -153,6 +153,56 @@ window.newsData_2026_05_22 = {
       "fetched": "2026-05-22T00:50:03.435462+07:00"
     },
     {
+      "id": "81d34474ccfaf2d74b8697c157e1c8ba",
+      "title": "Tranh cãi về quyền lực trong Hội đồng Giám sát quận Cam",
+      "link": "https://vnexpress.net/tranh-cai-ve-quyen-luc-trong-hoi-dong-giam-sat-quan-cam-5076555.html",
+      "summary": "Tranh cãi bùng lên trong Hội đồng Giám sát quận Cam, khi hai ủy viên Cộng hòa cáo buộc một giám sát viên Dân chủ vượt quyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T19:00:00+07:00",
+      "fetched": "2026-05-22T02:42:42.505476+07:00"
+    },
+    {
+      "id": "e8421016bf846468158ffc569116cf41",
+      "title": "Bí quyết giữ dáng bằng enzyme của nữ diễn viên Hàn Quốc",
+      "link": "https://vnexpress.net/bi-quyet-giu-dang-bang-enzyme-cua-nu-dien-vien-han-quoc-5076125.html",
+      "summary": "Thay vì nhịn đói gây hại cho hệ tiêu hóa, mỹ nhân Han Groo lựa chọn giải pháp bổ sung enzyme để duy trì vóc dáng thon gọn và cải thiện nhu động ruột hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T19:00:00+07:00",
+      "fetched": "2026-05-22T02:42:42.505657+07:00"
+    },
+    {
+      "id": "81d34474ccfaf2d74b8697c157e1c8ba",
+      "title": "Tranh cãi về quyền lực trong Hội đồng Giám sát quận Cam",
+      "link": "https://vnexpress.net/tranh-cai-ve-quyen-luc-trong-hoi-dong-giam-sat-quan-cam-5076555.html",
+      "summary": "Tranh cãi bùng lên trong Hội đồng Giám sát quận Cam, khi hai ủy viên Cộng hòa cáo buộc một giám sát viên Dân chủ vượt quyền.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-21T19:00:00+07:00",
+      "fetched": "2026-05-22T02:42:48.265072+07:00"
+    },
+    {
+      "id": "acb204b00188f9a18a92a0f18666fd52",
+      "title": "Quan hệ tình dục khi tức giận có gây hại?",
+      "link": "https://vnexpress.net/quan-he-tinh-duc-khi-tuc-gian-co-gay-hai-5076145.html",
+      "summary": "Nhiều người nói sex giúp giải tỏa căng thẳng, stress, vậy quan hệ tình dục lúc nóng giận có gây giảm ham muốn, giảm chất lượng cuộc sống, thậm chí mất kiểm soát hành vi không? (Hoa, 22 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T18:02:00+07:00",
+      "fetched": "2026-05-22T02:42:42.505827+07:00"
+    },
+    {
+      "id": "ad88594097c2ed7306d43860c40511ba",
+      "title": "6 thói quen khiến tim 'xuống cấp' sớm ở người trẻ",
+      "link": "https://vnexpress.net/6-thoi-quen-khien-tim-xuong-cap-som-o-nguoi-tre-5075775.html",
+      "summary": "Ít vận động, thức khuya, uống rượu bia hay ăn nhiều thực phẩm chế biến sẵn có thể âm thầm làm tăng nguy cơ mắc bệnh tim, kể cả ở người trẻ tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T18:02:00+07:00",
+      "fetched": "2026-05-22T02:42:42.505993+07:00"
+    },
+    {
       "id": "7eaa6e518c15af11c727e988413cd90a",
       "title": "Djokovic khác nhánh Sinner ở Roland Garros",
       "link": "https://vnexpress.net/djokovic-khac-nhanh-sinner-o-roland-garros-5076774.html",
@@ -173,6 +223,26 @@ window.newsData_2026_05_22 = {
       "fetched": "2026-05-22T00:50:02.333503+07:00"
     },
     {
+      "id": "26a26fc70457f0f542bf977dadd414de",
+      "title": "Bỏ cuộc vì giá nhà",
+      "link": "https://vnexpress.net/bo-cuoc-vi-gia-nha-5076759.html",
+      "summary": "Có một phép tính mà rất nhiều người trẻ Việt Nam đang âm thầm làm - rồi âm thầm bỏ cuộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T17:26:43+07:00",
+      "fetched": "2026-05-22T02:42:42.506352+07:00"
+    },
+    {
+      "id": "f05050dc023315ce9e5c10dace9af72c",
+      "title": "AI giải bài toán 80 năm gây 'sửng sốt'",
+      "link": "https://vnexpress.net/ai-giai-bai-toan-80-nam-gay-sung-sot-5076761.html",
+      "summary": "Bài toán về khoảng cách đơn vị trên mặt phẳng từ năm 1946 vừa được AI nội bộ của OpenAI tìm ra đáp án, bác bỏ lời giải cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T17:24:33+07:00",
+      "fetched": "2026-05-22T02:42:42.506517+07:00"
+    },
+    {
       "id": "9ad4e39b0e93efebf16878db60408bee",
       "title": "Người bị thoái hóa khớp nên đi bộ thế nào?",
       "link": "https://thanhnien.vn/nguoi-bi-thoai-hoa-khop-nen-di-bo-the-nao-185260521134949922.htm",
@@ -181,6 +251,26 @@ window.newsData_2026_05_22 = {
       "category": "Tổng hợp",
       "published": "2026-05-21T17:12:00+07:00",
       "fetched": "2026-05-22T00:50:02.333672+07:00"
+    },
+    {
+      "id": "926f3e6113ab684bad5ccbb6f9a71dba",
+      "title": "Bác sĩ chỉ ra 5 sai lầm ăn uống hại thận",
+      "link": "https://vnexpress.net/bac-si-chi-ra-5-sai-lam-an-uong-hai-than-5076127.html",
+      "summary": "Ăn quá mặn, uống ít nước hay lạm dụng protein có thể khiến thận phải hoạt động quá sức trong thời gian dài, làm tăng nguy cơ mắc bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T17:02:00+07:00",
+      "fetched": "2026-05-22T02:42:42.506688+07:00"
+    },
+    {
+      "id": "ee58aaf88b8083314fbefb16eaa1def9",
+      "title": "Những con giáp ví tiền đầy ắp, tiền vào như nước từ cuối tháng 5",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-nhung-con-giap-vi-tien-day-ap-tien-vao-nhu-nuoc-tu-cuoi-thang-5-5076200.html",
+      "summary": "Đặc biệt, có 4 con giáp được dự báo sẽ bước vào thời kỳ \"hái ra tiền\", ví tiền lúc nào cũng rủng rỉnh hơn hẳn trước đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T17:01:00+07:00",
+      "fetched": "2026-05-22T02:42:42.507026+07:00"
     },
     {
       "id": "6ab64b7cb57f5ced6048bf9897a3ab12",
@@ -251,6 +341,66 @@ window.newsData_2026_05_22 = {
       "category": "Thể thao",
       "published": "2026-05-21T17:00:00+07:00",
       "fetched": "2026-05-22T00:50:11.757247+07:00"
+    },
+    {
+      "id": "20a44d7e411dea9a48859de594f31825",
+      "title": "Việt Nam chung bảng với Mali, Bỉ và New Zealand tại U17 World Cup 2026",
+      "link": "https://vnexpress.net/viet-nam-chung-bang-voi-mali-bi-va-new-zealand-tai-u17-world-cup-2026-5076771.html",
+      "summary": "Lá thăm do Babayaro, cựu tuyển thủ Nigeria, lựa chon đã đưa Việt Nam vào bảng đấu với Mali, Bỉ và New Zealand tại U-17 World Cup 2026, tổ chức ở Qatar từ 19/11 đến 13/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T17:00:00+07:00",
+      "fetched": "2026-05-22T02:42:42.507209+07:00"
+    },
+    {
+      "id": "f9ed3ec46a637aeea23f709b217f9fc8",
+      "title": "Sống trong nhà 10 tỷ nhưng không có nổi 100 triệu đồng",
+      "link": "https://vnexpress.net/gia-nha-ha-noi-gia-nha-tp-hcm-song-khong-ra-song-sau-khi-gom-het-tien-mua-nha-5076727.html",
+      "summary": "Thay vào đó là cảm giác mệt mỏi, áp lực và kiệt sức vì nợ vay mua nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T17:00:00+07:00",
+      "fetched": "2026-05-22T02:42:42.507373+07:00"
+    },
+    {
+      "id": "a95eb5121070947f7e39804eb8894a11",
+      "title": "VKS: Bệnh viện Bạch Mai và Việt Đức cơ sở 2 'cỏ hoang um tùm, mà nói không lãng phí'",
+      "link": "https://vnexpress.net/vks-benh-vien-bach-mai-va-viet-duc-co-so-2-co-hoang-um-tum-ma-noi-khong-lang-phi-5076717.html",
+      "summary": "Khi các bị cáo và luật sư cho rằng dự án không gây lãng phí, VKS phản bác \"tiền ngân sách là từ mồ hôi, nước mắt, tiền thuế của dân; nhìn hai bệnh viện bỏ hoang ai cũng xót xa\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T17:00:00+07:00",
+      "fetched": "2026-05-22T02:42:42.507535+07:00"
+    },
+    {
+      "id": "bede33b8f4d312d6e4bc0d21245b8166",
+      "title": "Âm mưu giả vờ mang thai để cướp con của bạn thân",
+      "link": "https://vnexpress.net/am-muu-gia-vo-mang-thai-de-cuop-con-cua-ban-than-5076714.html",
+      "summary": "Những lời nói dối của Magen Fieramusca về việc mang thai cùng lúc với \"người bạn thân nhất\" hóa ra chỉ là vỏ bọc để bắt cóc đứa con mới sinh và thủ tiêu bạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T17:00:00+07:00",
+      "fetched": "2026-05-22T02:42:42.507693+07:00"
+    },
+    {
+      "id": "395c7af0be6660f57c9cf70c5503400a",
+      "title": "Kẻ sát hại bạn cướp vàng bị phạt tử hình",
+      "link": "https://vnexpress.net/ke-sat-hai-ban-cuop-vang-bi-phat-tu-hinh-5076653.html",
+      "summary": "Trần Nguyễn Hữu Thắng, 28 tuổi, thấy anh Hữu, người chuyển giới, đăng ảnh có nhiều tiền vàng nên hỏi mượn, bị từ chối nên sát hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T17:00:00+07:00",
+      "fetched": "2026-05-22T02:42:42.507859+07:00"
+    },
+    {
+      "id": "ff4a5363e3c7d30ea9911796bbe80043",
+      "title": "Ông Trump gần cạn công cụ ghìm giá xăng ở Mỹ",
+      "link": "https://vnexpress.net/ong-trump-gan-can-cong-cu-ghim-gia-xang-o-my-5075654.html",
+      "summary": "Ông Trump đã tung ra nhiều biện pháp để ghìm giá xăng ở Mỹ nhưng đều kém hiệu quả, khi eo biển Hormuz vẫn tiếp tục bị đóng cửa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-21T17:00:00+07:00",
+      "fetched": "2026-05-22T02:42:48.265273+07:00"
     },
     {
       "id": "5c8f9caa53434eccfa2a6d7697a05dcb",
