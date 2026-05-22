@@ -1,6 +1,6 @@
 window.newsData_2026_05_23 = {
   "date": "2026-05-23",
-  "lastUpdated": "2026-05-23T02:22:49.803616+07:00",
+  "lastUpdated": "2026-05-23T04:03:15.315514+07:00",
   "articles": [
     {
       "id": "5663bc6be32bd503a767989907b00347",
@@ -151,6 +151,36 @@ window.newsData_2026_05_23 = {
       "category": "Tổng hợp",
       "published": "2026-05-23T00:44:33.584103+07:00",
       "fetched": "2026-05-23T00:44:33.584306+07:00"
+    },
+    {
+      "id": "95895ef05ef66eae1e4133312fa21d5a",
+      "title": "Hiện trạng tuyến đường dự kiến phân làn đảo chiều ở Hà Nội",
+      "link": "https://vnexpress.net/hien-trang-tuyen-duong-du-kien-phan-lan-dao-chieu-o-ha-noi-5076758.html",
+      "summary": "Đường Nguyễn Chí Thanh và Lê Văn Lương rộng 6-10 làn xe, có dải phân cách giữa, do thường xuyên ùn tắc vào cao điểm sáng và chiều nên được đề xuất phân làn đảo chiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T21:00:00+07:00",
+      "fetched": "2026-05-23T04:03:03.555991+07:00"
+    },
+    {
+      "id": "6967662cf8db0a42a09f4ac24acdc45e",
+      "title": "Trung Quốc suýt gây sốc cho Nhật Bản ở chung kết U17 châu Á 2026",
+      "link": "https://vnexpress.net/trung-quoc-suyt-gay-soc-cho-nhat-ban-o-chung-ket-u17-chau-a-2026-5077206.html",
+      "summary": "Nhật Bản dẫn 3-0 trong hiệp một, nhưng suýt để Trung Quốc gỡ hòa ở chung kết U17 châu Á 2026 rạng sáng nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T19:33:48+07:00",
+      "fetched": "2026-05-23T04:03:03.556175+07:00"
+    },
+    {
+      "id": "6967662cf8db0a42a09f4ac24acdc45e",
+      "title": "Trung Quốc suýt gây sốc cho Nhật Bản ở chung kết U17 châu Á 2026",
+      "link": "https://vnexpress.net/trung-quoc-suyt-gay-soc-cho-nhat-ban-o-chung-ket-u17-chau-a-2026-5077206.html",
+      "summary": "Nhật Bản dẫn 3-0 trong hiệp một, nhưng suýt để Trung Quốc gỡ hòa ở chung kết U17 châu Á 2026 rạng sáng nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-22T19:33:48+07:00",
+      "fetched": "2026-05-23T04:03:15.310267+07:00"
     },
     {
       "id": "5b99d30cb9a203b5ee18607d664b9ad4",
