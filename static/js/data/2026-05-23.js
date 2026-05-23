@@ -1,7 +1,157 @@
 window.newsData_2026_05_23 = {
   "date": "2026-05-23",
-  "lastUpdated": "2026-05-23T09:05:47.802953+07:00",
+  "lastUpdated": "2026-05-23T13:27:49.248167+07:00",
   "articles": [
+    {
+      "id": "759ee085e11a8c674b7b2217a0fe5659",
+      "title": "Chủ tịch Trung Quốc Tập Cận Bình yêu cầu điều tra vụ nổ mỏ than 8 người chết, 38 người mắc kẹt",
+      "link": "https://tuoitre.vn/chu-tich-trung-quoc-tap-can-binh-yeu-cau-dieu-tra-vu-no-mo-than-8-nguoi-chet-38-nguoi-mac-ket-20260523100209663.htm",
+      "summary": "Vụ nổ mỏ than ở tỉnh Sơn Tây, Trung Quốc đã khiến 8 người thiệt mạng và đến nay vẫn còn 38 công nhân mắc kẹt dưới lòng đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.284226+07:00",
+      "fetched": "2026-05-23T13:27:43.284339+07:00"
+    },
+    {
+      "id": "8943b4476898cec219fc389d5eb1b2c8",
+      "title": "Không thể giao trẻ em cho mạng xã hội: Nỗ lực tìm cách riêng bảo vệ con",
+      "link": "https://tuoitre.vn/khong-the-giao-tre-em-cho-mang-xa-hoi-no-luc-tim-cach-rieng-bao-ve-con-20260523094750757.htm",
+      "summary": "Việc trẻ dùng mạng xã hội đã có nhiều phân tích, nhiều cảnh báo, được 'lật đi lật lại' nhiều lần, xét đến cả mặt được lẫn những rủi ro, nguy hại đến trẻ và không phải đến lúc này mới bàn đến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.284100+07:00",
+      "fetched": "2026-05-23T13:27:43.284214+07:00"
+    },
+    {
+      "id": "d8d5143376ea3d38f4c75b5d895e2656",
+      "title": "350 dự án, đất đai ở Đà Nẵng được hưởng cơ chế đặc thù, nhiều ‘ông lớn’ được gỡ vướng",
+      "link": "https://tuoitre.vn/350-du-an-dat-dai-o-da-nang-duoc-huong-co-che-dac-thu-nhieu-ong-lon-duoc-go-vuong-20260523092906962.htm",
+      "summary": "Đà Nẵng vừa công bố danh mục 350 dự án, đất đai áp dụng cơ chế, chính sách đặc thù tại nghị quyết 170 và nghị quyết 29 của Quốc hội để tiếp tục tháo gỡ khó khăn, vướng mắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.283972+07:00",
+      "fetched": "2026-05-23T13:27:43.284089+07:00"
+    },
+    {
+      "id": "c15ddfd6acf3cf3d4114d9eea35b9558",
+      "title": "Thủ tướng Lê Minh Hưng dự lễ viếng, truy điệu, an táng hài cốt liệt sĩ tại Quảng Trị",
+      "link": "https://tuoitre.vn/thu-tuong-le-minh-hung-du-le-vieng-truy-dieu-an-tang-hai-cot-liet-si-tai-quang-tri-20260523090331155.htm",
+      "summary": "Tỉnh Quảng Trị tổ chức lễ đón nhận hài cốt liệt sĩ quân tình nguyện và chuyên gia Việt Nam hy sinh trên nước bạn Lào về Nghĩa trang liệt sĩ quốc gia Đường 9. Buổi lễ có sự tham dự của Thủ tướng Lê Minh Hưng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.283844+07:00",
+      "fetched": "2026-05-23T13:27:43.283961+07:00"
+    },
+    {
+      "id": "98ea65a711bdf98a5f6d820d4c19629f",
+      "title": "Bộ Nội vụ phản hồi về trường hợp phải hoàn trả tiền trợ cấp tinh giản biên chế theo nghị định 154",
+      "link": "https://tuoitre.vn/bo-noi-vu-phan-hoi-ve-truong-hop-phai-hoan-tra-tien-tro-cap-tinh-gian-bien-che-theo-nghi-dinh-154-2026052310222595.htm",
+      "summary": "Bộ Nội vụ nêu rõ trường hợp đã nhận chế độ tinh giản theo nghị định 154, nếu được bầu làm đại biểu HĐND các cấp và hưởng lương từ ngân sách nhà nước phải hoàn trả số tiền trợ cấp trả nhận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.283687+07:00",
+      "fetched": "2026-05-23T13:27:43.283832+07:00"
+    },
+    {
+      "id": "2e78f6dda5e19220173f6caa741ce8ed",
+      "title": "Nhà máy đường ở Đắk Lắk nêu nguyên nhân mua mía chậm, cam kết sẽ thu hết mía bao tiêu",
+      "link": "https://tuoitre.vn/nha-may-duong-o-dak-lak-neu-nguyen-nhan-mua-mia-cham-cam-ket-se-thu-het-mia-bao-tieu-20260522194122949.htm",
+      "summary": "Nông dân trồng mía ở khu vực phía đông Đắk Lắk (trước là Phú Yên) lo lắng khi nhà máy đường chậm thu mua, mía vẫn đứng ngoài đồng. Nhà máy đường nêu các nguyên nhân khiến việc mua mía chậm, nhưng cam kết sẽ mua hết mía của dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.283559+07:00",
+      "fetched": "2026-05-23T13:27:43.283675+07:00"
+    },
+    {
+      "id": "3ce505685631a125971265e941b20c55",
+      "title": "Giả mạo fanpage Vinpearl Nha Trang lừa tiền du khách",
+      "link": "https://tuoitre.vn/gia-mao-fanpage-vinpearl-nha-trang-lua-tien-du-khach-20260523103328359.htm",
+      "summary": "Một trang fanpage giả mạo khu du lịch Vinpearl Nha Trang (Khánh Hòa) với chiêu trò tung nhiều ưu đãi nhằm lừa tiền du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.283433+07:00",
+      "fetched": "2026-05-23T13:27:43.283547+07:00"
+    },
+    {
+      "id": "86fe0a4c80d51b6095aa0dcf0133b499",
+      "title": "Đằng sau đề xuất 'thành viên liên kết' cho Ukraine",
+      "link": "https://tuoitre.vn/dang-sau-de-xuat-thanh-vien-lien-ket-cho-ukraine-20260522233246302.htm",
+      "summary": "Thủ tướng Đức Friedrich Merz vừa đề xuất một quy chế chưa từng có tiền lệ: trao cho Ukraine tư cách \"thành viên liên kết\" EU.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.283307+07:00",
+      "fetched": "2026-05-23T13:27:43.283421+07:00"
+    },
+    {
+      "id": "781244bf1a00aff3640f6f52b93d6cda",
+      "title": "Theo dõi sát lãi suất của từng ngân hàng, rà soát nhà băng có lãi suất cao",
+      "link": "https://tuoitre.vn/theo-doi-sat-lai-suat-cua-tung-ngan-hang-ra-soat-nha-bang-co-lai-suat-cao-20260523105111859.htm",
+      "summary": "Ngân hàng Nhà nước sẽ theo dõi sát diễn biến lãi suất huy động và cho vay của từng tổ chức tín dụng. Những ngân hàng có mặt bằng lãi suất cao hơn mặt bằng chung sẽ được rà soát, đưa vào diện kiểm tra chuyên đề.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.283180+07:00",
+      "fetched": "2026-05-23T13:27:43.283295+07:00"
+    },
+    {
+      "id": "5fe16fb2c85a9a2cc8a6d00f46e40838",
+      "title": "Dặm dài hủ tiếu - Kỳ 9: Người giữ hồn hủ tiếu Cần Thơ",
+      "link": "https://tuoitre.vn/dam-dai-hu-tieu-ky-9-nguoi-giu-hon-hu-tieu-can-tho-20260523095725696.htm",
+      "summary": "Một thời khi làng hủ tiếu Rau Răm (Cần Thơ) gặp khó khăn, hầu hết nhà làm hủ tiếu ở đây bỏ lò, làm nghề khác. Ông Sáu Hoài phải \"chịu trận\" nhiều năm để tìm hướng ra với nghề do cha ông truyền lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.283052+07:00",
+      "fetched": "2026-05-23T13:27:43.283168+07:00"
+    },
+    {
+      "id": "73a9a9190eb0c769e0c5a765af7eddcf",
+      "title": "3 cháu bé đuối nước, tử vong thương tâm khi tắm sông Trà Khúc",
+      "link": "https://tuoitre.vn/3-chau-be-duoi-nuoc-tu-vong-thuong-tam-khi-tam-song-tra-khuc-20260523110444902.htm",
+      "summary": "Chiều hôm qua, ba trẻ em rủ nhau ra sông Trà Khúc tắm, không may bị đuối nước mất tích. Đến sáng nay, thi thể 3 em được tìm thấy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.282922+07:00",
+      "fetched": "2026-05-23T13:27:43.283040+07:00"
+    },
+    {
+      "id": "01f49abd4637b94ff21ff163746594fa",
+      "title": "Nhà Trắng chi 9 tỉ USD mua siêu chip AI phục vụ tình báo",
+      "link": "https://tuoitre.vn/nha-trang-chi-9-ti-usd-mua-sieu-chip-ai-phuc-vu-tinh-bao-20260523113011068.htm",
+      "summary": "Khoản đề xuất nhằm mua các dòng chip máy tính tiên tiến phục vụ hoạt động tình báo và an ninh quốc gia Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.282786+07:00",
+      "fetched": "2026-05-23T13:27:43.282909+07:00"
+    },
+    {
+      "id": "fa4a306ea95ace7e49f3b5fc4b792452",
+      "title": "Trung Quốc xét xử ông trùm trong 'tứ đại gia tộc' tội phạm khét tiếng",
+      "link": "https://tuoitre.vn/trung-quoc-xet-xu-ong-trum-trong-tu-dai-gia-toc-toi-pham-khet-tieng-2026052311284572.htm",
+      "summary": "Ngụy Hoài Nhân bị cáo buộc vận hành các khu lừa đảo, bảo kê vũ trang và liên quan nhiều vụ giết người tại khu vực Kokang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.282621+07:00",
+      "fetched": "2026-05-23T13:27:43.282772+07:00"
+    },
+    {
+      "id": "1750fdc4414082dcf0628271cb8f5141",
+      "title": "Trẻ em thích thú thi đấu cờ vua với máy, điều khiển robot chó, drone…",
+      "link": "https://tuoitre.vn/tre-em-thich-thu-thi-dau-co-vua-voi-may-dieu-khien-robot-cho-drone-20260523114015663.htm",
+      "summary": "Đó là những hoạt động thu hút đông đảo trẻ em đến tham dự Ngày hội STEM Day 2026 đang diễn ra tại công viên Âu Lạc, phường Chợ Quán, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.282477+07:00",
+      "fetched": "2026-05-23T13:27:43.282608+07:00"
+    },
+    {
+      "id": "f47ba52291ffd48a8aad149d02431889",
+      "title": "Xe máy điện Dat Bike Era ra mắt: Giá từ 29,9 triệu, cốp 50 lít rộng gấp rưỡi Honda Lead, 200km/sạc",
+      "link": "https://tuoitre.vn/xe-may-dien-dat-bike-era-ra-mat-gia-tu-29-9-trieu-cop-50-lit-rong-gap-ruoi-honda-lead-200km-sac-2026052310333087.htm",
+      "summary": "Dat Bike Era hướng đến nhóm khách hàng gia đình và người dùng nữ nhờ thiết kế mềm mại, thân thiện hơn các dòng xe trước đây của hãng xe điện Việt Nam. Mẫu xe còn gây chú ý khi sở hữu khoang chứa đồ lớn nhất thị trường xe hai bánh hiện nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:27:43.282239+07:00",
+      "fetched": "2026-05-23T13:27:43.282462+07:00"
+    },
     {
       "id": "721003c93404588194c26f213b07a601",
       "title": "Thời tiết hôm nay 23-5: Cả nước nắng gay gắt, miền Nam chiều 'hy vọng' có mưa rào",
@@ -153,6 +303,456 @@ window.newsData_2026_05_23 = {
       "fetched": "2026-05-23T09:05:41.796392+07:00"
     },
     {
+      "id": "fa797df6dd1a5229c54413089ae41b22",
+      "title": "Một người Iraq muốn ám sát ái nữ nhà Trump để trả thù cho tướng Iran?",
+      "link": "https://thanhnien.vn/mot-nguoi-iraq-muon-am-sat-ai-nu-nha-trump-de-tra-thu-cho-tuong-iran-185260523113641463.htm",
+      "summary": "Báo New York Post ngày 22.5 dẫn một số nguồn tin cho hay con gái đầu lòng của Tổng thống Mỹ Donald Trump là bà Ivanka Trump đã trở thành mục tiêu ám sát của một người Iraq tên Mohammad Baqer Saad Dawood Al-Saadi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T06:15:00+07:00",
+      "fetched": "2026-05-23T13:27:42.371817+07:00"
+    },
+    {
+      "id": "8c3e7dbbe8ad93676ea0fdee8ff302ae",
+      "title": "Giải mã nguyên nhân vàng 'từ chối' rỉ sét theo thời gian",
+      "link": "https://thanhnien.vn/giai-ma-nguyen-nhan-vang-tu-choi-ri-set-theo-thoi-gian-185260523110056459.htm",
+      "summary": "Có không ít lý do giúp vàng trở thành một trong những kim loại quý giá nhất trái đất, và các nhà khoa học vừa tìm được lời giải đằng sau một bí mật làm nên giá trị của vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T06:15:00+07:00",
+      "fetched": "2026-05-23T13:27:42.371994+07:00"
+    },
+    {
+      "id": "081e762a64034f8b4684206db221ea28",
+      "title": "Hành trang vào lớp 1 đích thực không nằm ở việc học chữ trước!",
+      "link": "https://thanhnien.vn/hanh-trang-vao-lop-1-dich-thuc-khong-nam-o-viec-hoc-chu-truoc-185260523110530223.htm",
+      "summary": "Hành trang vào lớp 1 đích thực của trẻ không nằm ở việc học chữ trước, mà nằm ở năng lực thích ứng, tâm lý vững vàng, thay vì áp lực điểm số, cha mẹ cần là điểm tựa thấu cảm cho hành trình con đi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T06:09:00+07:00",
+      "fetched": "2026-05-23T13:27:42.372151+07:00"
+    },
+    {
+      "id": "825586c14e884d909ec760eeacdfbf62",
+      "title": "Sân golf Long Biên chứng kiến giải đấu hấp dẫn, lộ diện các nhà vô địch xứng đáng",
+      "link": "https://thanhnien.vn/san-golf-long-bien-chung-kien-giai-dau-hap-dan-lo-dien-cac-nha-vo-dich-xung-dang-1852605231254252.htm",
+      "summary": "Ngày 22.5, Harmony Summer Cup 2026 diễn ra tại sân golf Long Biên với sự tham gia của gần 200 golfer.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T06:07:00+07:00",
+      "fetched": "2026-05-23T13:27:42.372308+07:00"
+    },
+    {
+      "id": "57aaf68efed1c7375363bf2450697973",
+      "title": "200 cảnh sát phá đường dây buôn xyanua sau vụ tự tử ở TP HCM",
+      "link": "https://vnexpress.net/200-canh-sat-pha-duong-day-buon-xyanua-sau-vu-tu-tu-o-tp-hcm-5077343.html",
+      "summary": "Từ vụ người đàn ông tử vong nghi do uống thuốc độc xyanua, 200 cán bộ Công an TP HCM truy xét, bắt đường dây buôn lậu hơn 2,4 tấn xyanua do Nguyễn Văn Đỏ cầm đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T06:05:30+07:00",
+      "fetched": "2026-05-23T13:27:39.532921+07:00"
+    },
+    {
+      "id": "636a92751ffbef17ee5770c224f24748",
+      "title": "Kevin Warsh nhậm chức Chủ tịch Fed",
+      "link": "https://vnexpress.net/kevin-warsh-nham-chuc-chu-tich-fed-5077310.html",
+      "summary": "Ngày 22/5, Tổng thống Mỹ Donald Trump chủ trì lễ tuyên thệ nhậm chức Chủ tịch Cục Dự trữ liên bang Mỹ (Fed) của ông Kevin Warsh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T06:01:57+07:00",
+      "fetched": "2026-05-23T13:27:39.533100+07:00"
+    },
+    {
+      "id": "636a92751ffbef17ee5770c224f24748",
+      "title": "Kevin Warsh nhậm chức Chủ tịch Fed",
+      "link": "https://vnexpress.net/kevin-warsh-nham-chuc-chu-tich-fed-5077310.html",
+      "summary": "Ngày 22/5, Tổng thống Mỹ Donald Trump chủ trì lễ tuyên thệ nhậm chức Chủ tịch Cục Dự trữ liên bang Mỹ (Fed) của ông Kevin Warsh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-23T06:01:57+07:00",
+      "fetched": "2026-05-23T13:27:45.301629+07:00"
+    },
+    {
+      "id": "f79454caf20a8ab6e49322a3d26f4417",
+      "title": "'Hoàng hậu Ki' Ha Ji Won gây sốt với phong cách sinh viên",
+      "link": "https://vnexpress.net/hoang-hau-ki-ha-ji-won-gay-sot-voi-phong-cach-sinh-vien-5072132.html",
+      "summary": "Ha Ji Won - 48 tuổi, nổi tiếng với phim \"Hoàng hậu Ki\" - được fan khen cuốn hút khi chụp ảnh phong cách sinh viên năm nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T06:01:18+07:00",
+      "fetched": "2026-05-23T13:27:39.533274+07:00"
+    },
+    {
+      "id": "30924f4a3f44f5ce193d1fa0fd3be090",
+      "title": "Người đàn ông lái taxi luôn động viên khi tôi bị chồng phản bội",
+      "link": "https://vnexpress.net/nguoi-dan-ong-lai-taxi-luon-dong-vien-khi-toi-bi-chong-phan-boi-5077299.html",
+      "summary": "Anh đang độc thân, luôn động viên tôi vượt qua, thậm chí nói nếu vợ chồng tôi không thể hàn gắn thì hãy cho anh một cơ hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T06:00:00+07:00",
+      "fetched": "2026-05-23T13:27:39.533440+07:00"
+    },
+    {
+      "id": "add0c1eb31e3ec09abe0573e158b018f",
+      "title": "Động vật quý hiếm phát triển mạnh ở Vùng cấm Chernobyl",
+      "link": "https://vnexpress.net/dong-vat-quy-hiem-phat-trien-manh-o-vung-cam-chernobyl-5077120.html",
+      "summary": "40 năm sau thảm họa hạt nhân Chernobyl, vùng đất từng ô nhiễm nặng giờ lại trở thành nơi cư trú của nhiều loài động vật quý hiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T06:00:00+07:00",
+      "fetched": "2026-05-23T13:27:39.533608+07:00"
+    },
+    {
+      "id": "30b303b1ddd37c15bb7fc6cec03de825",
+      "title": "Mẹo ăn trái cây không làm tăng đường huyết",
+      "link": "https://vnexpress.net/meo-an-trai-cay-khong-lam-tang-duong-huyet-5076199.html",
+      "summary": "Chọn trái cây có chỉ số đường huyết thấp, lượng đường tự nhiên ít, không ăn lúc đói, góp phần kiểm soát lượng đường trong máu tốt hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T06:00:00+07:00",
+      "fetched": "2026-05-23T13:27:39.533792+07:00"
+    },
+    {
+      "id": "8e1dcd14b9c6a900b80da01d9be1099d",
+      "title": "Sỏi thận khác sỏi mật thế nào",
+      "link": "https://vnexpress.net/soi-than-khac-soi-mat-the-nao-5076155.html",
+      "summary": "Sỏi thận lớn thường gây đau dữ dội bụng dưới và hông, đi tiểu nhiều, trong khi sỏi mật gây đau đột ngột vùng dạ dày, có thể nôn mửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T06:00:00+07:00",
+      "fetched": "2026-05-23T13:27:39.533950+07:00"
+    },
+    {
+      "id": "73081c7320264085bab7de5b03516b39",
+      "title": "Trump Media chuyển hơn 200 triệu USD Bitcoin lên sàn",
+      "link": "https://vnexpress.net/trump-media-chuyen-hon-200-trieu-usd-bitcoin-len-san-5077321.html",
+      "summary": "Trump Media, công ty liên quan đến Tổng thống Mỹ Donald Trump, vừa chuyển 2.650 Bitcoin lên một sàn giao dịch tập trung, tương đương khoảng 205 triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:55:41+07:00",
+      "fetched": "2026-05-23T13:27:39.534110+07:00"
+    },
+    {
+      "id": "73081c7320264085bab7de5b03516b39",
+      "title": "Trump Media chuyển hơn 200 triệu USD Bitcoin lên sàn",
+      "link": "https://vnexpress.net/trump-media-chuyen-hon-200-trieu-usd-bitcoin-len-san-5077321.html",
+      "summary": "Trump Media, công ty liên quan đến Tổng thống Mỹ Donald Trump, vừa chuyển 2.650 Bitcoin lên một sàn giao dịch tập trung, tương đương khoảng 205 triệu USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-23T05:55:41+07:00",
+      "fetched": "2026-05-23T13:27:45.301828+07:00"
+    },
+    {
+      "id": "a8f20be3b6177d32c8292aa171c3f4a5",
+      "title": "Gia Lai: Xử lý nghiêm vụ đập phá tài sản tại Trung tâm y tế Pleiku",
+      "link": "https://thanhnien.vn/gia-lai-xu-ly-nghiem-vu-dap-pha-tai-san-tai-trung-tam-y-te-pleiku-185260523114425407.htm",
+      "summary": "Trưa 23.5, một lãnh đạo của UBND tỉnh Gia Lai cho biết đã có chỉ đạo khẩn đến các cơ quan chức năng  xử lý nghiêm đối với Đặng Gia Huy - người đã đập phá tài sản của Trung tâm y tế Pleiku.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:47:00+07:00",
+      "fetched": "2026-05-23T13:27:42.372463+07:00"
+    },
+    {
+      "id": "70162499e8f9bedb250d2fb14f7f553a",
+      "title": "Thị trường công nghệ xanh Việt Nam tăng tốc",
+      "link": "https://thanhnien.vn/thi-truong-cong-nghe-xanh-viet-nam-tang-toc-185260523113325996.htm",
+      "summary": "Trong lộ trình hiện thực hóa cam kết tại Hội nghị COP26 về việc đạt mức phát thải ròng bằng \"0\" (Net-Zero) vào năm 2050, Việt Nam đang chứng kiến bước chuyển mình mạnh mẽ từ tư duy đến hành động với sự trợ giúp của công nghệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:45:00+07:00",
+      "fetched": "2026-05-23T13:27:42.372617+07:00"
+    },
+    {
+      "id": "cc6df3c848ce13c889999f8848d2b4df",
+      "title": "Đội tuyển Việt Nam bất ngờ bị ‘khủng hoảng’, thầy Kim lại… vui: Tại sao?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-bat-ngo-bi-khung-hoang-thay-kim-lai-vui-tai-sao-185260520153417042.htm",
+      "summary": "Trước khi đội tuyển Việt Nam tham dự các giải đấu quốc tế quan trọng, HLV Kim Sang-sik đang đối diện với bài toán hóc búa, do trong tay ông đang có… quá nhiều tài năng, nhất là ở hàng thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:45:00+07:00",
+      "fetched": "2026-05-23T13:27:42.372796+07:00"
+    },
+    {
+      "id": "7fb126b48fbb672ddfa7e1641b0c177a",
+      "title": "Tôi không tin nhân viên Gen Z lười biếng, khó chiều",
+      "link": "https://vnexpress.net/toi-khong-tin-nhan-vien-gen-z-luoi-bieng-kho-chieu-5077268.html",
+      "summary": "20 năm đi làm, 10 năm ở vị trí quản lý, tôi gặp không ít 8X, 9X có năng lực, thái độ dưới trung bình, không riêng gì Gen Z.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:41:31+07:00",
+      "fetched": "2026-05-23T13:27:39.534274+07:00"
+    },
+    {
+      "id": "1a02c1ba3fd89aedde9ab7381a0ed361",
+      "title": "Giá Bitcoin hôm nay 23.5.2026: Kỷ niệm 16 năm 'Ngày Pizza Bitcoin'",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-2352026-ky-niem-16-nam-ngay-pizza-bitcoin-185260523084030166.htm",
+      "summary": "Giá Bitcoin hôm nay giảm mạnh xuống còn 75.000 USD dù cộng đồng tiền mã hóa kỷ niệm 16 năm ngày 10.000 BTC được giao dịch để đổi lấy hai chiếc bánh Pizza, cột mốc lịch sử của ngành công nghiệp tiền số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:35:00+07:00",
+      "fetched": "2026-05-23T13:27:42.372953+07:00"
+    },
+    {
+      "id": "548c53bb3446b4014fb166ac7165c6ad",
+      "title": "5 mẫu điện thoại nhỏ gọn đáng mua nhất năm 2026",
+      "link": "https://thanhnien.vn/5-mau-dien-thoai-nho-gon-dang-mua-nhat-nam-2026-185260523102330242.htm",
+      "summary": "Xu hướng điện thoại nhỏ gọn bước sang một chương mới với sự thống trị của công nghệ tối ưu viền và kiến trúc gập vỏ sò độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:29:00+07:00",
+      "fetched": "2026-05-23T13:27:42.373107+07:00"
+    },
+    {
+      "id": "ba4907278dd4d6a178211f134aadf3c4",
+      "title": "Gel Rejuvasil giúp ngăn ngừa sẹo mới và làm mờ sẹo lồi phẫu thuật có tốt không?",
+      "link": "https://thanhnien.vn/gel-rejuvasil-giup-ngan-ngua-seo-moi-va-lam-mo-seo-loi-phau-thuat-co-tot-khong-185260523124902329.htm",
+      "summary": "Sẹo lồi, sẹo phì đại sau phẫu thuật chấn thương hay thẩm mỹ không chỉ gây mất thẩm mỹ mà còn là 'nỗi ám ảnh' tâm lý dai dẳng. Nhiều người phải đối mặt với cảm giác tự ti, ngứa ngáy, co kéo khó chịu tại vết mổ. Giữa hàng loạt sản phẩm trên thị trường, gel giúp ngăn sẹo mới và làm mờ sẹo lồi Rejuvasil...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:28:00+07:00",
+      "fetched": "2026-05-23T13:27:42.373268+07:00"
+    },
+    {
+      "id": "8b65974ea773db836b3d94dd2f72c784",
+      "title": "Phát động chương trình Đổi sách lấy cây ở 15 điểm đổi trên toàn quốc",
+      "link": "https://thanhnien.vn/phat-dong-chuong-trinh-doi-sach-lay-cay-o-15-diem-doi-tren-toan-quoc-185260523110125412.htm",
+      "summary": "Chương trình được tổ chức hưởng ứng Ngày môi trường thế giới, đồng thời nối dài hành trình nhiều năm của Nhóm từ thiện Fly To Sky trong các hoạt động giáo dục, an sinh xã hội và bảo vệ môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:28:00+07:00",
+      "fetched": "2026-05-23T13:27:42.373425+07:00"
+    },
+    {
+      "id": "7e2a17e4eb21b447b688e5d5536cf32a",
+      "title": "Mỹ mất lượng UAV Reaper trị giá gần một tỷ USD trong xung đột với Iran",
+      "link": "https://vnexpress.net/my-mat-luong-uav-reaper-tri-gia-gan-mot-ty-usd-trong-xung-dot-voi-iran-5077326.html",
+      "summary": "Iran có thể đã bắn hạ và làm hư hại nặng 30 phi cơ MQ-9 của Mỹ, mỗi chiếc trị giá khoảng 30 triệu USD và rất khó thay thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:27:18+07:00",
+      "fetched": "2026-05-23T13:27:39.534430+07:00"
+    },
+    {
+      "id": "7e2a17e4eb21b447b688e5d5536cf32a",
+      "title": "Mỹ mất lượng UAV Reaper trị giá gần một tỷ USD trong xung đột với Iran",
+      "link": "https://vnexpress.net/my-mat-luong-uav-reaper-tri-gia-gan-mot-ty-usd-trong-xung-dot-voi-iran-5077326.html",
+      "summary": "Iran có thể đã bắn hạ và làm hư hại nặng 30 phi cơ MQ-9 của Mỹ, mỗi chiếc trị giá khoảng 30 triệu USD và rất khó thay thế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-23T05:27:18+07:00",
+      "fetched": "2026-05-23T13:27:44.288387+07:00"
+    },
+    {
+      "id": "b8373ac5a684b9bb8cd06ab82763a13b",
+      "title": "Tai nạn giao thông nghiêm trọng, người phụ nữ đi xe lắc ba bánh tử vong",
+      "link": "https://thanhnien.vn/tai-nan-giao-thong-nghiem-trong-nguoi-phu-nu-di-xe-lac-ba-banh-tu-vong-185260523111757674.htm",
+      "summary": "Sau cú va chạm mạnh từ phía sau, chiếc ô tô con tiếp tục đẩy chiếc xe lắc điện ba bánh do một người phụ nữ điều khiển lao vào cột đèn ven đường. Vụ tai nạn giao thông làm nạn nhân đi xe lắc tử vong tại chỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:25:00+07:00",
+      "fetched": "2026-05-23T13:27:42.373580+07:00"
+    },
+    {
+      "id": "3718158a8258fe4f90b661409ea49d99",
+      "title": "Công an TP.HCM triệt phá đường dây buôn hơn 2,4 tấn chất độc xyanua từ Campuchia",
+      "link": "https://thanhnien.vn/cong-an-tphcm-triet-pha-duong-day-buon-hon-24-tan-chat-doc-xyanua-185260523120701892.htm",
+      "summary": "Từ vụ nghi uống thuốc độc tự tử, Công an TP.HCM đã lần theo dấu vết, huy động hơn 200 cán bộ, chiến sĩ liên tục 15 ngày đêm để triệt phá đường dây buôn lậu hơn 2,4 tấn chất độc xyanua từ Campuchia về Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:20:00+07:00",
+      "fetched": "2026-05-23T13:27:42.373755+07:00"
+    },
+    {
+      "id": "88ac9336c6724fd631f713d7528bccb9",
+      "title": "Công bố đề tham khảo thi vào 23 trường quân đội",
+      "link": "https://vnexpress.net/bo-quoc-phong-cong-bo-de-tham-khao-thi-danh-gia-nang-luc-qda-vao-23-truong-quan-doi-nam-2026-5077339.html",
+      "summary": "Ban Tuyển sinh quân sự, Bộ Quốc phòng công bố đề tham khảo kỳ thi đánh giá năng lực QDA trong năm đầu tổ chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:10:29+07:00",
+      "fetched": "2026-05-23T13:27:39.534589+07:00"
+    },
+    {
+      "id": "7d89ac276005b3b57dde3a59b51e2e2b",
+      "title": "Phường cửa ngõ Tây Bắc TP.HCM ra mắt tuyến đường kinh doanh kiểu mẫu",
+      "link": "https://thanhnien.vn/phuong-cua-ngo-tay-bac-tphcm-ra-mat-tuyen-duong-kinh-doanh-kieu-mau-185260523104033011.htm",
+      "summary": "Phường Trung Mỹ Tây ra mắt tuyến đường kinh doanh kiểu mẫu nhằm đảm bảo an toàn thực phẩm và trật tự đô thị trên đường Song Hành với hơn 250 điểm kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:10:00+07:00",
+      "fetched": "2026-05-23T13:27:42.373919+07:00"
+    },
+    {
+      "id": "350408274f4f7a816eccc1ed970418c0",
+      "title": "Bệnh viện Đại học Y Dược - Hoàng Anh Gia Lai cứu nữ sinh khỏi 'tử thần'",
+      "link": "https://thanhnien.vn/benh-vien-dai-hoc-y-duoc-hoang-anh-gia-lai-cuu-nu-sinh-khoi-tu-than-185260523111543299.htm",
+      "summary": "Đội ngũ y, bác sĩ Bệnh viện Đại học Y Dược - Hoàng Anh Gia Lai kích hoạt báo động đỏ, triển khai đồng thời 2 kíp mổ, giành giật sự sống và giữ đôi chân cho nữ sinh trong tình trạng nguy kịch do tai nạn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:01:00+07:00",
+      "fetched": "2026-05-23T13:27:42.374079+07:00"
+    },
+    {
+      "id": "5d08e4760606119ba1806c302525956a",
+      "title": "Đặc công, trinh sát huấn luyện nhảy dù đường không",
+      "link": "https://vnexpress.net/dac-cong-trinh-sat-huan-luyen-nhay-du-duong-khong-5077125.html",
+      "summary": "Hàng trăm lính đặc công, trinh sát thuộc Binh chủng đặc công, Quân khu 7, tham gia huấn luyện nhảy dù, đổ bộ đường không tại sân bay Biên Hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:00:00+07:00",
+      "fetched": "2026-05-23T13:27:39.534769+07:00"
+    },
+    {
+      "id": "13b62f3649c685723286f1de6e3ff2ba",
+      "title": "Ăng-ten giống ô cho vệ tinh",
+      "link": "https://vnexpress.net/ang-ten-giong-o-cho-ve-tinh-5076972.html",
+      "summary": "Công ty GalaxySpace (Trung Quốc) hé lộ mẫu ăng-ten giống ô, có thể gấp gọn rồi bung ra, dành cho vệ tinh trên quỹ đạo Trái Đất tầm thấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:00:00+07:00",
+      "fetched": "2026-05-23T13:27:39.534935+07:00"
+    },
+    {
+      "id": "191b86a9f31985f29f6f4146cf5aa42a",
+      "title": "Vị vua duy nhất sử Việt Nam không được tôn miếu hiệu",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-vi-vua-duy-nhat-su-viet-nam-khong-duoc-ton-mieu-hieu-5075975.html",
+      "summary": "Sau khi ông mất, các con bận đánh nhau để tranh ngôi báu, không nghĩ đến cha nên ông là vị vua duy nhất không được tôn miếu hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:00:00+07:00",
+      "fetched": "2026-05-23T13:27:39.535093+07:00"
+    },
+    {
+      "id": "fb09eaaebb95ab5e9ebcffdf9e859534",
+      "title": "MSB khởi động dự án Thông tư 14 về an toàn vốn",
+      "link": "https://vnexpress.net/msb-khoi-dong-du-an-thong-tu-14-ve-an-toan-von-5077325.html",
+      "summary": "MSB phối hợp Ernst & Young Việt Nam khởi động dự án triển khai phương pháp xếp hạng nội bộ (IRB) theo Thông tư 14 của Ngân hàng Nhà nước, nhằm nâng cao năng lực quản trị rủi ro theo chuẩn Basel III.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T05:00:00+07:00",
+      "fetched": "2026-05-23T13:27:39.535262+07:00"
+    },
+    {
+      "id": "fb09eaaebb95ab5e9ebcffdf9e859534",
+      "title": "MSB khởi động dự án Thông tư 14 về an toàn vốn",
+      "link": "https://vnexpress.net/msb-khoi-dong-du-an-thong-tu-14-ve-an-toan-von-5077325.html",
+      "summary": "MSB phối hợp Ernst & Young Việt Nam khởi động dự án triển khai phương pháp xếp hạng nội bộ (IRB) theo Thông tư 14 của Ngân hàng Nhà nước, nhằm nâng cao năng lực quản trị rủi ro theo chuẩn Basel III.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-23T05:00:00+07:00",
+      "fetched": "2026-05-23T13:27:45.302328+07:00"
+    },
+    {
+      "id": "13b62f3649c685723286f1de6e3ff2ba",
+      "title": "Ăng-ten giống ô cho vệ tinh",
+      "link": "https://vnexpress.net/ang-ten-giong-o-cho-ve-tinh-5076972.html",
+      "summary": "Công ty GalaxySpace (Trung Quốc) hé lộ mẫu ăng-ten giống ô, có thể gấp gọn rồi bung ra, dành cho vệ tinh trên quỹ đạo Trái Đất tầm thấp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-23T05:00:00+07:00",
+      "fetched": "2026-05-23T13:27:47.528544+07:00"
+    },
+    {
+      "id": "5fbc8237e2141c29d189fcb5eecfd9eb",
+      "title": "Dân Greenland biểu tình trước văn phòng lãnh sự quán mới của Mỹ",
+      "link": "https://vnexpress.net/dan-greenland-bieu-tinh-truoc-van-phong-lanh-su-quan-moi-cua-my-5077306.html",
+      "summary": "Hơn 500 người dân Greenland biểu tình sau khi Mỹ khánh thành trụ sở mới của lãnh sự quán tại thủ phủ Nuuk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-23T04:47:29+07:00",
+      "fetched": "2026-05-23T13:27:44.288562+07:00"
+    },
+    {
+      "id": "746786b46dac89ee86751fa3fae73db0",
+      "title": "Mayweather kiện cựu cộng sự, cáo buộc lừa đảo 175 triệu USD",
+      "link": "https://vnexpress.net/mayweather-kien-cuu-cong-su-cao-buoc-lua-dao-175-trieu-usd-5077304.html",
+      "summary": "Võ sĩ quyền Anh bất bại người Mỹ Floyd Mayweather cáo buộc cựu cố vấn đầu tư và tư vấn bất động sản gian lận trong nhiều năm, gây thiệt hại lên tới 175 triệu USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-23T04:19:27+07:00",
+      "fetched": "2026-05-23T13:27:49.241297+07:00"
+    },
+    {
+      "id": "4f9125024b9f2183c4ec8e020dd6039e",
+      "title": "Al Nassr sẵn sàng chi đậm để mời Guardiola dẫn dắt Ronaldo",
+      "link": "https://vnexpress.net/al-nassr-san-sang-chi-dam-de-moi-guardiola-dan-dat-ronaldo-5077251.html",
+      "summary": "HLV Pep Guardiola được nhiều đội tuyển quốc gia và CLB, trong đó có Al Nassr, săn đón sau khi chia tay Man City cuối mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-23T04:18:44+07:00",
+      "fetched": "2026-05-23T13:27:49.241454+07:00"
+    },
+    {
+      "id": "bee355ce139c3b904a42b7a0da8aa521",
+      "title": "Nhà hoạt động Gaza cáo buộc bị lực lượng Israel tấn công tình dục",
+      "link": "https://vnexpress.net/nha-hoat-dong-gaza-cao-buoc-bi-luc-luong-israel-tan-cong-tinh-duc-5077231.html",
+      "summary": "Các nhà hoạt động thuộc đội tàu bị Israel chặn lại trên đường tới Gaza cho biết đã bị đánh đập, tra tấn và tấn công tình dục trong lúc bị giam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-23T03:53:56+07:00",
+      "fetched": "2026-05-23T13:27:44.288751+07:00"
+    },
+    {
+      "id": "a5993e3fbc55479f6628ab4e1ced40a0",
+      "title": "Giá vàng miếng xuống thấp nhất hơn 4 tháng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-23-5-5077301.html",
+      "summary": "Sáng nay, vàng miếng được các thương hiệu bán ra quanh 161,5 triệu đồng, mức thấp nhất kể từ ngày 10/1.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-23T03:31:31+07:00",
+      "fetched": "2026-05-23T13:27:45.301995+07:00"
+    },
+    {
+      "id": "bc2381fa4c65c189a9735b56e1170a8e",
+      "title": "Arteta: 'Tôi nhìn thấy Arsenal vô địch từ tháng 3'",
+      "link": "https://vnexpress.net/arteta-toi-nhin-thay-arsenal-vo-dich-tu-thang-3-5077256.html",
+      "summary": "HLV Mikel Arteta cho biết ông đã hình dung cảnh nâng Cup Ngoại hạng Anh từ tháng 3, trước khi Arsenal đủ điểm vô địch sớm một vòng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-23T03:18:33+07:00",
+      "fetched": "2026-05-23T13:27:49.241611+07:00"
+    },
+    {
+      "id": "74be446aad2a45907a6c48c3a7895e1f",
+      "title": "Shearer bỏ qua Ronaldo trong đội hình hay nhất lịch sử World Cup",
+      "link": "https://vnexpress.net/shearer-bo-qua-ronaldo-trong-doi-hinh-hay-nhat-lich-su-world-cup-5077283.html",
+      "summary": "Cựu tiền đạo tuyển Anh Alan Shearer không chọn Cristiano Ronaldo vào đội hình hay nhất lịch sử World Cup, dù dành suất cho cả Lionel Messi và Ronaldo Nazario.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-23T03:15:22+07:00",
+      "fetched": "2026-05-23T13:27:49.241791+07:00"
+    },
+    {
+      "id": "85f9a002e8f98b6268a93bdcab32d9b7",
+      "title": "Quận Cam sơ tán 40.000 người vì bồn hóa chất sắp phát nổ",
+      "link": "https://vnexpress.net/quan-cam-so-tan-40-000-nguoi-vi-bon-hoa-chat-sap-phat-no-5077260.html",
+      "summary": "Bồn hóa chất tại cơ sở hàng không vũ trụ ở Garden Grove có thể phát nổ bất cứ lúc nào, khiến giới chức phải cảnh báo khẩn, sơ tán 40.000 người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-23T03:03:34+07:00",
+      "fetched": "2026-05-23T13:27:44.288918+07:00"
+    },
+    {
+      "id": "145e714dd07570ceab24e0f65e277bcf",
+      "title": "Hàng chục phi cơ quân sự Mỹ tập trung tại sân bay quốc tế Israel",
+      "link": "https://vnexpress.net/hang-chuc-phi-co-quan-su-my-tap-trung-tai-san-bay-quoc-te-israel-5077258.html",
+      "summary": "Ảnh vệ tinh cho thấy hàng chục máy bay tiếp dầu và vận tải cơ Mỹ đậu tại sân bay quốc tế Ben Gurion ở thành phố Tel Aviv.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-23T03:01:20+07:00",
+      "fetched": "2026-05-23T13:27:44.289077+07:00"
+    },
+    {
+      "id": "898e67998127cdf56f1c5ac41e7be1b0",
+      "title": "YouTube giảm quảng cáo cho người dùng Google AI tại Việt Nam",
+      "link": "https://vnexpress.net/youtube-giam-quang-cao-cho-nguoi-dung-google-ai-tai-viet-nam-5076321.html",
+      "summary": "Người dùng gói AI Pro của Google được tặng YouTube Premium Lite không có quảng cáo trong một số thể loại video.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-23T03:00:00+07:00",
+      "fetched": "2026-05-23T13:27:47.529228+07:00"
+    },
+    {
       "id": "1029c3a43cfa205d48fe67ab2d383691",
       "title": "Đà Nẵng: Hơn 42.000 thí sinh thi lớp 10, cha mẹ hồi hộp đứng chờ ngoài cổng",
       "link": "https://thanhnien.vn/da-nang-hon-42000-thi-sinh-thi-lop-10-cha-me-hoi-hop-dung-cho-ngoai-cong-185260523083046944.htm",
@@ -161,6 +761,16 @@ window.newsData_2026_05_23 = {
       "category": "Tổng hợp",
       "published": "2026-05-23T02:03:00+07:00",
       "fetched": "2026-05-23T09:05:38.075728+07:00"
+    },
+    {
+      "id": "b2c73768f3d2293bcbe5291342cc0829",
+      "title": "Ông Trump không dự đám cưới con trai cả vì 'vấn đề chính phủ'",
+      "link": "https://vnexpress.net/ong-trump-khong-du-dam-cuoi-con-trai-ca-vi-van-de-chinh-phu-5077220.html",
+      "summary": "Tổng thống Trump xác nhận vắng mặt tại đám cưới của con cả Trump Jr. cuối tuần này, vì phải ở lại Nhà Trắng trong \"giai đoạn quan trọng\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-23T02:02:21+07:00",
+      "fetched": "2026-05-23T13:27:44.289240+07:00"
     },
     {
       "id": "fa50fd736470fb4c4bdd282838998358",
@@ -201,6 +811,16 @@ window.newsData_2026_05_23 = {
       "category": "Tổng hợp",
       "published": "2026-05-23T02:00:00+07:00",
       "fetched": "2026-05-23T09:05:38.076391+07:00"
+    },
+    {
+      "id": "22ea450c39f3d50be15f97b2850ac81a",
+      "title": "Nổ mỏ than ở Trung Quốc, 82 người thiệt mạng",
+      "link": "https://vnexpress.net/no-mo-than-o-trung-quoc-82-nguoi-thiet-mang-5077238.html",
+      "summary": "82 người thiệt mạng trong vụ nổ khí mỏ than ở tỉnh Sơn Tây, ông Tập Cận Bình yêu cầu lực lượng cứu hộ dốc toàn lực để tìm người mất tích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-23T01:59:58+07:00",
+      "fetched": "2026-05-23T13:27:44.289395+07:00"
     },
     {
       "id": "c82901786cdd2ca25f3feb10346f8c49",
@@ -621,6 +1241,16 @@ window.newsData_2026_05_23 = {
       "category": "Công nghệ",
       "published": "2026-05-23T00:35:49+07:00",
       "fetched": "2026-05-23T09:05:46.272800+07:00"
+    },
+    {
+      "id": "87d394151a6fe31fcda564776ac2f513",
+      "title": "Tên lửa mạnh nhất thế giới Starship V3 phóng thử thành công",
+      "link": "https://vnexpress.net/spacex-phong-thu-ten-lua-manh-nhat-the-gioi-starship-v3-5077209.html",
+      "summary": "Nguyên mẫu tên lửa khổng lồ Starship V3 của SpaceX lần đầu phóng lên không gian từ Texas lúc 17h30 ngày 22/5 (5h30 ngày 23/5 giờ Hà Nội).",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-23T00:35:49+07:00",
+      "fetched": "2026-05-23T13:27:47.528742+07:00"
     },
     {
       "id": "aee3939e5401c04324ec782ddbdaa30c",
@@ -1481,6 +2111,16 @@ window.newsData_2026_05_23 = {
       "category": "Kinh doanh",
       "published": "2026-05-22T11:43:42+07:00",
       "fetched": "2026-05-23T00:44:36.465421+07:00"
+    },
+    {
+      "id": "bbc35b64913b64a3a520db2bbfca52d8",
+      "title": "Ngân hàng Nhà nước yêu cầu kiểm tra nhà băng tăng lãi suất",
+      "link": "https://vnexpress.net/ngan-hang-nha-nuoc-yeu-cau-kiem-tra-nha-bang-tang-lai-suat-5077143.html",
+      "summary": "Ngân hàng Nhà nước tiếp tục đôn đốc kiểm tra việc điều chỉnh lãi suất tiết kiệm của các nhà băng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-22T11:43:42+07:00",
+      "fetched": "2026-05-23T13:27:45.302819+07:00"
     },
     {
       "id": "c2be0fde98d8a2a20f0f4e20d7c78c2a",
