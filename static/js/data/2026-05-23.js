@@ -1,7 +1,457 @@
 window.newsData_2026_05_23 = {
   "date": "2026-05-23",
-  "lastUpdated": "2026-05-23T05:50:07.793366+07:00",
+  "lastUpdated": "2026-05-23T09:05:47.802953+07:00",
   "articles": [
+    {
+      "id": "721003c93404588194c26f213b07a601",
+      "title": "Thời tiết hôm nay 23-5: Cả nước nắng gay gắt, miền Nam chiều 'hy vọng' có mưa rào",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-23-5-ca-nuoc-nang-gay-gat-mien-nam-chieu-hy-vong-co-mua-rao-20260522155300353.htm",
+      "summary": "Hôm nay 23-5, thời tiết cả nước nắng nóng trở lại, nhiều nơi nắng nóng đến nắng nóng gay gắt, riêng miền Nam chiều tối có thể mưa rào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.798220+07:00",
+      "fetched": "2026-05-23T09:05:41.798337+07:00"
+    },
+    {
+      "id": "216dea2e7aee249943ab4f358cfb61b7",
+      "title": "Tin tức sáng 23-5: Một ngân hàng tăng vốn điều lệ lên 100.000 tỉ đồng; Lãi suất qua đêm về 5,6%",
+      "link": "https://tuoitre.vn/tin-tuc-sang-23-5-mot-ngan-hang-tang-von-dieu-le-len-100-000-ti-dong-lai-suat-qua-dem-ve-5-6-20260522224307228.htm",
+      "summary": "Tin tức đáng chú ý: Một ngân hàng tăng vốn điều lệ lên 100.000 tỉ đồng; Lãi suất qua đêm về 5,6%; Đề xuất sửa tiêu chí xác định doanh nghiệp nhỏ và vừa...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.798092+07:00",
+      "fetched": "2026-05-23T09:05:41.798209+07:00"
+    },
+    {
+      "id": "c270655759b148698bf214923d2f8a92",
+      "title": "Lịch trực tiếp chung kết Giải bóng chuyền Cúp VTV9 - Bình Điền ngày 23-5",
+      "link": "https://tuoitre.vn/lich-truc-tiep-chung-ket-giai-bong-chuyen-cup-vtv9-binh-dien-ngay-23-5-20260523011019869.htm",
+      "summary": "Ngày 23-5, Giải bóng chuyền nữ quốc tế Cúp VTV9 - Bình Điền 2026 sẽ diễn ra trận chung kết để xác định nhà vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.797956+07:00",
+      "fetched": "2026-05-23T09:05:41.798079+07:00"
+    },
+    {
+      "id": "0013ba1fd361f5f4b431f9d9359ad7b0",
+      "title": "Trung Quốc thua sát nút Nhật Bản ở chung kết Giải U17 châu Á",
+      "link": "https://tuoitre.vn/trung-quoc-thua-sat-nut-nhat-ban-o-chung-ket-giai-u17-chau-a-20260522223725025.htm",
+      "summary": "Rạng sáng 22-5 (giờ Việt Nam) đã diễn ra trận chung kết Giải U17 châu Á 2026 giữa Trung Quốc và Nhật Bản. Đây cũng là hai cái tên từng lọt vào chung kết Giải U23 châu Á diễn ra hồi đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.797825+07:00",
+      "fetched": "2026-05-23T09:05:41.797944+07:00"
+    },
+    {
+      "id": "05ad0c30830b25e8a989c0943648dbf3",
+      "title": "Khách hàng máy bay thấp thỏm lo bị hủy, hoãn chuyến sát ngày khởi hành",
+      "link": "https://tuoitre.vn/khach-hang-may-bay-thap-thom-lo-bi-huy-hoan-chuyen-sat-ngay-khoi-hanh-20260522225710721.htm",
+      "summary": "Nhiều hành khách đang phải đối mặt với tình trạng chuyến bay bị thay đổi lịch trình sát ngày khởi hành trong bối cảnh giá nhiên liệu tăng mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.797681+07:00",
+      "fetched": "2026-05-23T09:05:41.797812+07:00"
+    },
+    {
+      "id": "db2f42c394c5c792bc0ad5d36d224da1",
+      "title": "Tin tức thế giới 23-5: Bà trùm tình báo Mỹ từ chức, nghi bị ép; Đàm phán Mỹ - Iran có tiến triển",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-23-5-ba-trum-tinh-bao-my-tu-chuc-nghi-bi-ep-dam-phan-my-iran-co-tien-trien-20260523064646352.htm",
+      "summary": "Lãnh đạo tình báo Mỹ Gabbard nghi bị Nhà Trắng ép từ chức; Tân Chủ tịch Fed tuyên thệ nhậm chức; SpaceX phóng thử tên lửa lớn, mạnh nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.797518+07:00",
+      "fetched": "2026-05-23T09:05:41.797667+07:00"
+    },
+    {
+      "id": "aafab52ad153c36d02cceaf604f7574f",
+      "title": "Cả đêm sơn vạch kẻ đường, lắp rào chắn tại vòng xoay Điện Biên Phủ - Nguyễn Bỉnh Khiêm",
+      "link": "https://tuoitre.vn/ca-dem-son-vach-ke-duong-lap-rao-chan-tai-vong-xoay-dien-bien-phu-nguyen-binh-khiem-20260523053139051.htm",
+      "summary": "Rạng sáng 23-5, tại khu vực vòng xoay Điện Biên Phủ - Nguyễn Bỉnh Khiêm, các công nhân đã tổ chức thi công xuyên đêm nhằm hoàn thiện các hạng mục hạ tầng giao thông, phục vụ việc điều chỉnh tổ chức lưu thông sẽ được áp dụng từ sáng 23-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.797385+07:00",
+      "fetched": "2026-05-23T09:05:41.797506+07:00"
+    },
+    {
+      "id": "3a04c8b2c27dd27ccbfde9e78d1533f6",
+      "title": "SpaceX sẽ lên sàn với lượng cổ phiếu gần 2.000 tỉ USD, mang theo tham vọng 'khổng lồ'",
+      "link": "https://tuoitre.vn/spacex-se-len-san-voi-luong-co-phieu-gan-2-000-ti-usd-mang-theo-tham-vong-khong-lo-20260522224743379.htm",
+      "summary": "Phố Wall đang đầu tư vào một doanh nghiệp thực sự, hay đang đặt cược vào tầm nhìn của tỉ phú Elon Musk?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.797257+07:00",
+      "fetched": "2026-05-23T09:05:41.797373+07:00"
+    },
+    {
+      "id": "470c0a654915cf5cb48ec91469f2a3bc",
+      "title": "Gần tốt nghiệp mới biết cần thi chuẩn đầu ra: Trường nhận trách nhiệm, điều chỉnh ngày thi",
+      "link": "https://tuoitre.vn/gan-tot-nghiep-moi-biet-can-thi-chuan-dau-ra-truong-nhan-trach-nhiem-dieu-chinh-ngay-thi-20260523051435502.htm",
+      "summary": "Trường đại học Công đoàn nhận trách nhiệm về những bất cập mà sinh viên phản ánh về việc tổ chức thi chuẩn đầu ra tin học, tiếng Anh, và sẽ tổ chức đối thoại với sinh viên vào ngày 30-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.797129+07:00",
+      "fetched": "2026-05-23T09:05:41.797245+07:00"
+    },
+    {
+      "id": "0bf03b6001a646b3c49d639cb8254cfc",
+      "title": "Xuống xe đấu cáp bình ắc quy, tài xế bị chính ô tô của mình bất ngờ chồm lên cán qua người",
+      "link": "https://tuoitre.vn/xuong-xe-dau-cap-binh-ac-quy-tai-xe-bi-chinh-o-to-cua-minh-bat-ngo-chom-len-can-qua-nguoi-2026052215185742.htm",
+      "summary": "Đang kiểm tra bình ắc quy và đấu nối cáp điện, một phụ nữ tại Argentina bất ngờ bị chính chiếc ô tô của mình lao tới cán qua người khiến nhiều người hoảng hốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.796993+07:00",
+      "fetched": "2026-05-23T09:05:41.797116+07:00"
+    },
+    {
+      "id": "d87e6be19ba609261b319424bd8627da",
+      "title": "Rò rỉ hóa chất độc hại gần khu Little Saigon, quận Cam sơ tán 40.000 người",
+      "link": "https://tuoitre.vn/ro-ri-hoa-chat-doc-hai-gan-khu-little-saigon-quan-cam-so-tan-40-000-nguoi-20260523072342133.htm",
+      "summary": "Chính quyền nhiều thành phố quận Cam sơ tán 40.000 dân, sau khi không thể kiềm chế hơn 20.000 lít hóa chất độc, dễ cháy rò rỉ gần khu Little Saigon.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.796859+07:00",
+      "fetched": "2026-05-23T09:05:41.796976+07:00"
+    },
+    {
+      "id": "a84b1c794f046f4cf58a7eb11effc365",
+      "title": "Chuyến bay thẳng đầu tiên từ Matxcơva đưa 377 khách Nga đến Đà Nẵng",
+      "link": "https://tuoitre.vn/chuyen-bay-thang-dau-tien-tu-moscow-dua-377-khach-nga-den-da-nang-20260523072253398.htm",
+      "summary": "Rạng sáng 23-5, chuyến bay thẳng đầu tiên chở 377 khách từ Matxcơva (Nga) đã hạ cánh sân bay Đà Nẵng, mở đầu thời điểm bùng nổ khách du lịch Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.796727+07:00",
+      "fetched": "2026-05-23T09:05:41.796847+07:00"
+    },
+    {
+      "id": "c8c35a3aab953d96a359fb17ef9ffdc9",
+      "title": "VN-Index đứt mạch tăng 8 tuần liên tiếp, chiến lược nào phù hợp cho thời gian tới?",
+      "link": "https://tuoitre.vn/vn-index-dut-mach-tang-8-tuan-lien-tiep-chien-luoc-nao-phu-hop-cho-thoi-gian-toi-20260523072415891.htm",
+      "summary": "Áp lực bán tăng mạnh ở nhóm vốn hóa lớn, khiến VN-Index giảm gần 45 điểm trong tuần qua. Thị trường chấm dứt chuỗi tăng kéo dài suốt 8 tuần liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.796564+07:00",
+      "fetched": "2026-05-23T09:05:41.796713+07:00"
+    },
+    {
+      "id": "b9f9486a3e8aba731d262aa0c7da98d2",
+      "title": "Hứa Vĩ Văn: trước xem bạn trẻ nhảy TikTok thấy 'quái, quái', nay tôi nhảy còn nhiều hơn",
+      "link": "https://tuoitre.vn/hua-vi-van-truoc-xem-ban-tre-nhay-tiktok-thay-quai-quai-nay-toi-nhay-con-nhieu-hon-20260523011457441.htm",
+      "summary": "Là khách mời trong chương trình Sao Check phát sóng tối 22-5 trên VTV3, Hứa Vĩ Văn chia sẻ hành trình làm nghề, cách kết nối với thế hệ trẻ và quan điểm về sự nổi tiếng và lý tưởng nghệ nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.796408+07:00",
+      "fetched": "2026-05-23T09:05:41.796551+07:00"
+    },
+    {
+      "id": "15c9ebae9c13c371fa9dd4c11b2d9187",
+      "title": "Đi làm 8 tiếng rồi 'sập nguồn', đây là cách dân văn phòng lấy lại năng lượng mỗi ngày",
+      "link": "https://tuoitre.vn/di-lam-8-tieng-roi-sap-nguon-day-la-cach-dan-van-phong-lay-lai-nang-luong-moi-ngay-20260522230622151.htm",
+      "summary": "Tan ca sau 8 tiếng, nhiều bạn trẻ chỉ muốn nằm xuống nghỉ ngơi hay ngủ một giấc thật đã, chứ chẳng còn sức để làm gì. Vậy làm sao để không bị chìm đi mà vẫn còn năng lượng cho bản thân sau khi đi làm về?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:05:41.796155+07:00",
+      "fetched": "2026-05-23T09:05:41.796392+07:00"
+    },
+    {
+      "id": "1029c3a43cfa205d48fe67ab2d383691",
+      "title": "Đà Nẵng: Hơn 42.000 thí sinh thi lớp 10, cha mẹ hồi hộp đứng chờ ngoài cổng",
+      "link": "https://thanhnien.vn/da-nang-hon-42000-thi-sinh-thi-lop-10-cha-me-hoi-hop-dung-cho-ngoai-cong-185260523083046944.htm",
+      "summary": "Sáng nay, hơn 42.000 thí sinh ở thành phố Đà Nẵng bước vào kỳ thi tuyển sinh lớp 10 công lập năm học 2026 - 2027. Bên ngoài cổng trường, nhiều phụ huynh hồi hộp, lo lắng đồng hành cùng con sau nhiều tháng ôn luyện căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T02:03:00+07:00",
+      "fetched": "2026-05-23T09:05:38.075728+07:00"
+    },
+    {
+      "id": "fa50fd736470fb4c4bdd282838998358",
+      "title": "Vì sao giá vé máy bay nhảy múa liên tục?",
+      "link": "https://thanhnien.vn/vi-sao-gia-ve-may-bay-nhay-mua-lien-tuc-185260501074459125.htm",
+      "summary": "Các chuyên gia du lịch tiết lộ bí mật về cách các hãng hàng không có thể tính giá vé máy bay cao hơn mỗi khi bạn tìm kiếm vé.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T02:01:00+07:00",
+      "fetched": "2026-05-23T09:05:38.075907+07:00"
+    },
+    {
+      "id": "480c2bfb4a58bafa940a3323eb07b81e",
+      "title": "Đà Nẵng công bố 113 khu đất đầu tư nhà ở xã hội",
+      "link": "https://thanhnien.vn/da-nang-cong-bo-113-khu-dat-dau-tu-nha-o-xa-hoi-185260523074111176.htm",
+      "summary": "UBND thành phố Đà Nẵng phê duyệt danh mục 113 vị trí, khu đất để phát triển nhà ở xã hội và giao các sở, ngành liên quan đẩy nhanh công tác quy hoạch, lựa chọn nhà đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T02:00:00+07:00",
+      "fetched": "2026-05-23T09:05:38.076069+07:00"
+    },
+    {
+      "id": "8794564b7d4590b7440791582880c71a",
+      "title": "TTC IZ khánh thành công viên nước quy mô bậc nhất Trảng Bàng",
+      "link": "https://thanhnien.vn/ttc-iz-khanh-thanh-cong-vien-nuoc-quy-mo-bac-nhat-trang-bang-185260523071416041.htm",
+      "summary": "Ngày 22.5.2026, CTCP Khu Công nghiệp Thành Thành Công (TTC IZ) phối hợp cùng đơn vị vận hành CTCP Du lịch Thành Thành Công (TTC Hospitality) chính thức khánh thành TTC Trảng Bàng Aqua Park.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T02:00:00+07:00",
+      "fetched": "2026-05-23T09:05:38.076223+07:00"
+    },
+    {
+      "id": "347cc58f8559a6d4f440cf10cd3305e7",
+      "title": "Dat Bike ERA: Xe điện gia đình dưới 30 triệu đồng ‘đủ cân đời thực’",
+      "link": "https://thanhnien.vn/dat-bike-era-xe-dien-gia-dinh-duoi-30-trieu-dong-du-can-doi-thuc-18526052216552983.htm",
+      "summary": "Dat Bike chính thức ra mắt ERA ngày 22 tháng 5 vừa qua, dòng xe điện gia đình hoàn toàn mới với giá từ 29,9 triệu đồng. Với quãng đường lên tới 200 km mỗi lần sạc chỉ hơn 2 tiếng, cốp 50L siêu rộng, động cơ 5kW, yên thấp 750 mm và trọng lượng chỉ 112 kg, ERA được tạo ra cho một mục tiêu rất rõ: trở ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T02:00:00+07:00",
+      "fetched": "2026-05-23T09:05:38.076391+07:00"
+    },
+    {
+      "id": "c82901786cdd2ca25f3feb10346f8c49",
+      "title": "Giá USD hôm nay 23.5.2026: Ngân hàng tăng giá mua cao hơn bán",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-2352026-ngan-hang-tang-gia-mua-cao-hon-ban-185260523083926743.htm",
+      "summary": "Các ngân hàng tăng giá mua USD cao hơn bán ra trong khi các ngoại tệ khác tiếp tục đà giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:59:00+07:00",
+      "fetched": "2026-05-23T09:05:38.076548+07:00"
+    },
+    {
+      "id": "a233d7a9634d75c9665902fec202344e",
+      "title": "Giá vàng hôm nay 23.5.2026: Giảm nửa triệu đồng nhưng vẫn đắt hơn thế giới 18 triệu",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-2352026-giam-nua-trieu-dong-nhung-van-dat-hon-the-gioi-18-trieu-185260523071625868.htm",
+      "summary": "Giá vàng thế giới lẫn trong nước đồng loạt đi xuống khi nỗi lo lạm phát vẫn cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:58:00+07:00",
+      "fetched": "2026-05-23T09:05:38.076733+07:00"
+    },
+    {
+      "id": "cdfde894efde400e04ad24d6e5377db2",
+      "title": "Xiaomi thừa nhận gặp khó với điện thoại siêu mỏng như iPhone Air",
+      "link": "https://thanhnien.vn/xiaomi-thua-nhan-gap-kho-voi-dien-thoai-sieu-mong-nhu-iphone-air-185260523082646922.htm",
+      "summary": "Xiaomi bất ngờ dành lời khen cho Apple, thừa nhận đối thủ vẫn dẫn đầu ở một lĩnh vực quan trọng của smartphone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:48:00+07:00",
+      "fetched": "2026-05-23T09:05:38.076885+07:00"
+    },
+    {
+      "id": "db7341b92f1a44de71b8d55e969dc20d",
+      "title": "Công an TP.HCM bắt 5 người bán 'khí cười' hơn 20 tỉ đồng",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-5-nguoi-ban-khi-cuoi-hon-20-ti-dong-185260523083230075.htm",
+      "summary": "Công an TP.HCM cho biết vừa triệt phá thành công một đường dây buôn bán khí cười (N₂O) quy mô lớn, tinh vi, với tổng số tiền giao dịch lên tới hơn 20 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:36:00+07:00",
+      "fetched": "2026-05-23T09:05:38.077033+07:00"
+    },
+    {
+      "id": "c4b9896a54cec49e039e2afefd6ccb52",
+      "title": "Mỹ thay đổi quy trình cấp thẻ xanh sau hơn 60 năm",
+      "link": "https://thanhnien.vn/my-thay-doi-quy-trinh-cap-the-xanh-sau-hon-60-nam-185260523082159725.htm",
+      "summary": "Mỹ vừa siết quy trình xin thẻ xanh, theo đó nhiều người nước ngoài đang tạm trú tại Mỹ sẽ phải trở về nước mình để nộp đơn xin thường trú, thay vì hoàn tất thủ tục ngay trên lãnh thổ Mỹ như trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:36:00+07:00",
+      "fetched": "2026-05-23T09:05:38.077186+07:00"
+    },
+    {
+      "id": "f40741b76425b2eaeb252de93bea514d",
+      "title": "Người dân lo lắng vì bờ sông sạt lở",
+      "link": "https://thanhnien.vn/nguoi-dan-lo-lang-vi-bo-song-sat-lo-185260522162452062.htm",
+      "summary": "Tình trạng sạt lở, sụt lún đất dọc bờ sông Ngàn Phố đoạn qua xã Sơn Giang (tỉnh Hà Tĩnh) đang ngày càng tồi tệ, ăn sâu vào vườn tược, nhà cửa, uy hiếp tính mạng và tài sản của hàng chục hộ dân, khiến họ lo lắng mất ăn mất ngủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:35:00+07:00",
+      "fetched": "2026-05-23T09:05:38.077337+07:00"
+    },
+    {
+      "id": "b2e03c2fc0c086647b9aaf09eb830474",
+      "title": "Điểm tập kết rác gần trường học",
+      "link": "https://thanhnien.vn/diem-tap-ket-rac-gan-truong-hoc-185260522161659643.htm",
+      "summary": "Nhiều phụ huynh phản ánh các xe đẩy thu gom rác thường xuyên tập kết gần Bảo tảng Chứng tích chiến tranh, đối diện cổng số 2 Trường THCS Lê Quý Đôn - số 9B Võ Văn Tần, P.Xuân Hòa (trước đây thuộc P.6,...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:35:00+07:00",
+      "fetched": "2026-05-23T09:05:39.432148+07:00"
+    },
+    {
+      "id": "5750cc8faa40b7184774914f5a7bf8a4",
+      "title": "Đường xuống cấp, đi lại khó khăn",
+      "link": "https://thanhnien.vn/duong-xuong-cap-di-lai-kho-khan-185260522161059379.htm",
+      "summary": "Bạn đọc phản ánh mặt đường số 10, xã Bình Hưng (trước thuộc xã Bình Hưng, H.Bình Chánh), TP.HCM, xuống cấp, lòng đường bị bong tróc lớp nhựa và trũng nhiều chỗ (ảnh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:35:00+07:00",
+      "fetched": "2026-05-23T09:05:40.828557+07:00"
+    },
+    {
+      "id": "4d4210fceb0df3df9a846f24a5a0ec5b",
+      "title": "'Đệ nhất mỹ nhân Bắc Kinh' Cảnh Điềm bác tin đồn mang thai hộ",
+      "link": "https://thanhnien.vn/de-nhat-my-nhan-bac-kinh-canh-diem-bac-tin-don-mang-thai-ho-185260523072811989.htm",
+      "summary": "Diễn viên Cảnh Điềm phủ nhận loạt thông tin lan truyền trên mạng xã hội Trung Quốc về việc sang Mỹ lấy trứng, thuê người mang thai hộ và nhận khoản tiền lớn từ bạn trai đại gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:33:00+07:00",
+      "fetched": "2026-05-23T09:05:40.828988+07:00"
+    },
+    {
+      "id": "79d2e0b82e4bbf30a2f9d8d7dcd0a1be",
+      "title": "Chặn 4.400 tỉ chuyển khoản lừa đảo nhờ ngân hàng cảnh báo",
+      "link": "https://thanhnien.vn/chan-4400-ti-chuyen-khoan-lua-dao-nho-ngan-hang-canh-bao-185260523072608036.htm",
+      "summary": "Tính đến ngày 17.5, có hơn 1,3 triệu lượt khách hàng tạm dừng hoặc hủy bỏ giao dịch sau khi nhận được cảnh báo tài khoản nghi ngờ gian lận từ ngân hàng, với tổng tiền giao dịch 4.400 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:30:00+07:00",
+      "fetched": "2026-05-23T09:05:40.829161+07:00"
+    },
+    {
+      "id": "7990b652d8ed4fc3a1059e23f37a1c24",
+      "title": "Đàn rái cá bao vây cá sấu caiman",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-dan-rai-ca-bao-vay-ca-sau-caiman-5076370.html",
+      "summary": "Con cá sấu caiman đang nằm phơi nắng trên bờ sông thì bất ngờ bị 4 con rái cá khổng lồ bao vây và sau đó tấn công xua đuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:00:00+07:00",
+      "fetched": "2026-05-23T09:05:35.417395+07:00"
+    },
+    {
+      "id": "4133049090feb9086c4763595aa1d682",
+      "title": "Kiệt quệ tinh thần bởi 'cố tỏ ra mình ổn'",
+      "link": "https://vnexpress.net/kiet-que-tinh-than-boi-co-to-ra-minh-on-5069036.html",
+      "summary": "Mỗi sáng thức dậy, Nam, 37 tuổi, nhốt mình trong phòng tắm và tự tát vào mặt cho tỉnh sau một đêm không ngủ được.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:00:00+07:00",
+      "fetched": "2026-05-23T09:05:35.417594+07:00"
+    },
+    {
+      "id": "0720cad4fb119eb7d04284cf3b042e31",
+      "title": "Nên mua iPhone 17 hay Oppo Find X9s với 20 triệu đồng?",
+      "link": "https://vnexpress.net/nen-mua-iphone-17-hay-oppo-find-x9s-voi-20-trieu-dong-5076524.html",
+      "summary": "Tôi đang muốn mua điện thoại mới, phục vụ nhu cầu sử dụng đơn giản, máy nhỏ gọn, pin lâu và chụp ảnh đẹp thì càng tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:00:00+07:00",
+      "fetched": "2026-05-23T09:05:35.417771+07:00"
+    },
+    {
+      "id": "96369070c54f61f8aac192a219f20e59",
+      "title": "Có nên cho trẻ sơ sinh tắm nắng để phòng vàng da?",
+      "link": "https://vnexpress.net/co-nen-cho-tre-so-sinh-tam-nang-de-phong-vang-da-5077213.html",
+      "summary": "Tôi mới sinh con, có nên cho bé tắm nắng thường xuyên để phòng ngừa vàng da không? (Mỹ Hà, Cần Thơ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:00:00+07:00",
+      "fetched": "2026-05-23T09:05:35.417931+07:00"
+    },
+    {
+      "id": "e04b9a7681d9a3c5fc9284e142e5836f",
+      "title": "Ung thư tuyến nước bọt di căn gan sau một năm điều trị",
+      "link": "https://vnexpress.net/ung-thu-tuyen-nuoc-bot-di-can-gan-sau-mot-nam-dieu-tri-5077176.html",
+      "summary": "Ông Tùng, 62 tuổi, ung thư tuyến nước bọt hai năm trước, đã điều trị, nay u tái phát di căn gan, được bác sĩ dùng thuốc đích và hóa trị để triệt căn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:00:00+07:00",
+      "fetched": "2026-05-23T09:05:35.418094+07:00"
+    },
+    {
+      "id": "9faa2ef2d43670bc03a8be1c954a999c",
+      "title": "4 cách phòng ngừa viêm gan B",
+      "link": "https://vnexpress.net/4-cach-phong-ngua-viem-gan-b-5077171.html",
+      "summary": "Tiêm vaccine, tránh tiếp xúc với nguồn lây và duy trì lối sống lành mạnh giúp giảm nguy cơ viêm gan B.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:00:00+07:00",
+      "fetched": "2026-05-23T09:05:35.418252+07:00"
+    },
+    {
+      "id": "c4f7fdd19678d1f3b144747c07c147a7",
+      "title": "Khi nào có thể mổ xoang ứng dụng AI?",
+      "link": "https://vnexpress.net/khi-nao-co-the-mo-xoang-ung-dung-ai-5077170.html",
+      "summary": "Tôi bị viêm xoang mạn tính, có chỉ định phẫu thuật. Tôi có thể mổ xoang ứng dụng AI để độ chính xác cao không? Trường hợp nào được mổ bằng công nghệ này? (Huỳnh Anh, 45 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:00:00+07:00",
+      "fetched": "2026-05-23T09:05:35.418417+07:00"
+    },
+    {
+      "id": "9172f53ce1036c535c501e95e1f53304",
+      "title": "Người phụ nữ béo phì hiếm muộn 6 năm",
+      "link": "https://vnexpress.net/nguoi-phu-nu-beo-phi-hiem-muon-6-nam-5077169.html",
+      "summary": "Chị Hồng, 29 tuổi, tăng 25 kg trong 5 năm, hiếm muộn 6 năm, bác sĩ chẩn đoán béo phì ảnh hưởng khả năng sinh sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:00:00+07:00",
+      "fetched": "2026-05-23T09:05:35.418595+07:00"
+    },
+    {
+      "id": "34ba682ac8dc8e58416d6019234b3b74",
+      "title": "Prudential mở rộng hành trình 'Yên tâm vui khỏe'",
+      "link": "https://vnexpress.net/prudential-mo-rong-hanh-trinh-yen-tam-vui-khoe-5077164.html",
+      "summary": "Prudential Việt Nam ra mắt sản phẩm bảo hiểm tử kỳ \"Pru Yên tâm vui khỏe\", mở rộng giải pháp bảo vệ sức khỏe, giúp khách hàng chủ động trước các rủi ro cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:00:00+07:00",
+      "fetched": "2026-05-23T09:05:35.418766+07:00"
+    },
+    {
+      "id": "f2cc270e4dd152aca81ccb788ce9c3e1",
+      "title": "Thường xuyên làm việc ngoài trời nắng hại mắt thế nào?",
+      "link": "https://vnexpress.net/thuong-xuyen-lam-viec-ngoai-troi-nang-hai-mat-the-nao-5077110.html",
+      "summary": "Ba tôi làm nghề lái xe, gần đây mắt mờ nhòe, nhìn đèn giao thông bị chói, buổi tối nhìn rất kém. Có phải mắt yếu do tiếp xúc với ánh nắng nhiều không? (Trần Anh Quân, 27 tuổi, Gia Lai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:00:00+07:00",
+      "fetched": "2026-05-23T09:05:35.418932+07:00"
+    },
+    {
+      "id": "41d0cbd0b11e3218735da91efd8fb8a1",
+      "title": "Agora City xây 100 nhà phố đón dòng chuyên gia từ khu công nghiệp",
+      "link": "https://vnexpress.net/agora-city-xay-100-nha-pho-don-dong-chuyen-gia-tu-khu-cong-nghiep-5076588.html",
+      "summary": "Agora City khởi công 100 nhà phố thuộc phân khu Hoa Hồng cùng hạ tầng kỹ thuật phân khu Anh Đào ngày 19/5, hướng đến đón dòng chuyên gia từ khu công nghiệp liền kề.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:00:00+07:00",
+      "fetched": "2026-05-23T09:05:35.419085+07:00"
+    },
+    {
+      "id": "371e921eda935e01e5b9f601585db8ab",
+      "title": "Sun PhuQuoc Airways mở đường bay đến Hong Kong",
+      "link": "https://vnexpress.net/sun-phuquoc-airways-mo-duong-bay-den-hong-kong-5076549.html",
+      "summary": "Sun PhuQuoc Airways khai thác đường bay Phú Quốc - Hong Kong (Trung Quốc) từ 22/5 với tần suất 5 chuyến mỗi tuần, là đường bay quốc tế thứ ba của hãng sau Đài Bắc và Seoul.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T01:00:00+07:00",
+      "fetched": "2026-05-23T09:05:35.419249+07:00"
+    },
+    {
+      "id": "34ba682ac8dc8e58416d6019234b3b74",
+      "title": "Prudential mở rộng hành trình 'Yên tâm vui khỏe'",
+      "link": "https://vnexpress.net/prudential-mo-rong-hanh-trinh-yen-tam-vui-khoe-5077164.html",
+      "summary": "Prudential Việt Nam ra mắt sản phẩm bảo hiểm tử kỳ \"Pru Yên tâm vui khỏe\", mở rộng giải pháp bảo vệ sức khỏe, giúp khách hàng chủ động trước các rủi ro cuộc sống.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-23T01:00:00+07:00",
+      "fetched": "2026-05-23T09:05:43.865131+07:00"
+    },
+    {
+      "id": "0720cad4fb119eb7d04284cf3b042e31",
+      "title": "Nên mua iPhone 17 hay Oppo Find X9s với 20 triệu đồng?",
+      "link": "https://vnexpress.net/nen-mua-iphone-17-hay-oppo-find-x9s-voi-20-trieu-dong-5076524.html",
+      "summary": "Tôi đang muốn mua điện thoại mới, phục vụ nhu cầu sử dụng đơn giản, máy nhỏ gọn, pin lâu và chụp ảnh đẹp thì càng tốt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-23T01:00:00+07:00",
+      "fetched": "2026-05-23T09:05:46.273313+07:00"
+    },
+    {
+      "id": "b76e05fe422f77088659655270cf184f",
+      "title": "Chung kết nữ: Nguyễn Thượng Hiền - Vinschool Central Park",
+      "link": "https://vnexpress.net/chung-ket-nu-nguyen-thuong-hien-vinschool-central-park-5077105.html",
+      "summary": "THPT Nguyễn Thượng Hiền đối đầu Vinschool Central Park ở chung kết nữ Giải Bóng rổ Trẻ VnExpress 2026 - Cup Ziaja.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T00:45:00+07:00",
+      "fetched": "2026-05-23T09:05:35.419406+07:00"
+    },
     {
       "id": "5663bc6be32bd503a767989907b00347",
       "title": "Kiểm tra, xử lý bãi rác 'lụi' ven nghĩa trang Bình Hưng Hòa sau phản ánh của báo Tuổi Trẻ",
@@ -151,6 +601,86 @@ window.newsData_2026_05_23 = {
       "category": "Tổng hợp",
       "published": "2026-05-23T00:44:33.584103+07:00",
       "fetched": "2026-05-23T00:44:33.584306+07:00"
+    },
+    {
+      "id": "6c7d9589ad173c32da1a034d104a28fd",
+      "title": "Tên lửa mạnh nhất thế giới Starship V3 phóng thử thành công",
+      "link": "https://vnexpress.net/ten-lua-manh-nhat-the-gioi-starship-v3-phong-thu-thanh-cong-5077209.html",
+      "summary": "Nguyên mẫu tên lửa khổng lồ Starship V3 của SpaceX lần đầu phóng lên không gian từ Texas lúc 17h30 ngày 22/5 (5h30 ngày 23/5 giờ Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T00:35:49+07:00",
+      "fetched": "2026-05-23T09:05:35.419558+07:00"
+    },
+    {
+      "id": "6c7d9589ad173c32da1a034d104a28fd",
+      "title": "Tên lửa mạnh nhất thế giới Starship V3 phóng thử thành công",
+      "link": "https://vnexpress.net/ten-lua-manh-nhat-the-gioi-starship-v3-phong-thu-thanh-cong-5077209.html",
+      "summary": "Nguyên mẫu tên lửa khổng lồ Starship V3 của SpaceX lần đầu phóng lên không gian từ Texas lúc 17h30 ngày 22/5 (5h30 ngày 23/5 giờ Hà Nội).",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-23T00:35:49+07:00",
+      "fetched": "2026-05-23T09:05:46.272800+07:00"
+    },
+    {
+      "id": "aee3939e5401c04324ec782ddbdaa30c",
+      "title": "Ông Putin ra lệnh trả đũa Ukraine sau vụ tập kích trường học Lugansk",
+      "link": "https://vnexpress.net/ong-putin-ra-lenh-tra-dua-ukraine-sau-vu-tap-kich-truong-hoc-lugansk-5077197.html",
+      "summary": "Tổng thống Putin cáo buộc Ukraine cố tình tấn công trường học ở tỉnh Lugansk khiến ít nhất 6 người chết, lệnh cho quân đội Nga trả đũa đối phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T00:23:09+07:00",
+      "fetched": "2026-05-23T09:05:35.419760+07:00"
+    },
+    {
+      "id": "aee3939e5401c04324ec782ddbdaa30c",
+      "title": "Ông Putin ra lệnh trả đũa Ukraine sau vụ tập kích trường học Lugansk",
+      "link": "https://vnexpress.net/ong-putin-ra-lenh-tra-dua-ukraine-sau-vu-tap-kich-truong-hoc-lugansk-5077197.html",
+      "summary": "Tổng thống Putin cáo buộc Ukraine cố tình tấn công trường học ở tỉnh Lugansk khiến ít nhất 6 người chết, lệnh cho quân đội Nga trả đũa đối phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-23T00:23:09+07:00",
+      "fetched": "2026-05-23T09:05:42.849712+07:00"
+    },
+    {
+      "id": "d38c02841fcc856991a9bc647c00c585",
+      "title": "Mỹ thay đổi chính sách cấp thẻ xanh",
+      "link": "https://vnexpress.net/my-thay-doi-chinh-sach-cap-the-xanh-5077211.html",
+      "summary": "Chính quyền Trump thông báo người nước ngoài muốn xin thẻ xanh sẽ phải rời khỏi Mỹ và trở về quê nhà để nộp đơn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-23T00:11:41+07:00",
+      "fetched": "2026-05-23T09:05:42.849889+07:00"
+    },
+    {
+      "id": "dabd65e6702ae5900fda44312696786a",
+      "title": "Giám đốc Tình báo Quốc gia Mỹ từ chức",
+      "link": "https://vnexpress.net/giam-doc-tinh-bao-quoc-gia-my-tu-chuc-5077212.html",
+      "summary": "Bà Tulsi Gabbard thông báo rời vị trí Giám đốc Tình báo Quốc gia Mỹ để chăm sóc chồng vừa được chẩn đoán mắc ung thư xương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-22T23:53:24+07:00",
+      "fetched": "2026-05-23T09:05:42.850054+07:00"
+    },
+    {
+      "id": "51c35548d4ccaead9a91410888a03c4f",
+      "title": "Guardiola được Man City dựng tượng và đặt tên cho khán đài",
+      "link": "https://vnexpress.net/guardiola-duoc-man-city-dung-tuong-va-dat-ten-cho-khan-dai-5077207.html",
+      "summary": "Để tri ân HLV rời CLB sau mùa này, Man City sẽ dựng tượng và đổi tên khán đài phía Bắc tại sân Etihad theo tên Pep Guardiola.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-22T23:44:58+07:00",
+      "fetched": "2026-05-23T09:05:47.796736+07:00"
+    },
+    {
+      "id": "d8665f631306bfa31fe71c87b0268c14",
+      "title": "Arbeloa rời Real, dọn đường để Mourinho trở lại",
+      "link": "https://vnexpress.net/arbeloa-roi-real-don-duong-de-mourinho-tro-lai-5077205.html",
+      "summary": "HLV Alvaro Arbeloa xác nhận rời Real Madrid sau mùa này, mở đường cho cuộc cải tổ với sự trở lại của Jose Mourinho.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-22T23:14:09+07:00",
+      "fetched": "2026-05-23T09:05:47.796910+07:00"
     },
     {
       "id": "703f4ee89625d05f3a3e7bb3eae4e575",
