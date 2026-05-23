@@ -1,7 +1,17 @@
 window.newsData_2026_05_24 = {
   "date": "2026-05-24",
-  "lastUpdated": "2026-05-24T03:38:43.994626+07:00",
+  "lastUpdated": "2026-05-24T05:42:25.769413+07:00",
   "articles": [
+    {
+      "id": "cf2b900922c3486f6a0799a4f1b168a9",
+      "title": "Nghề môi giới cho viện dưỡng lão ăn nên làm ra ở Trung Quốc",
+      "link": "https://tuoitre.vn/nghe-moi-gioi-cho-vien-duong-lao-an-nen-lam-ra-o-trung-quoc-20260523230141135.htm",
+      "summary": "Thực trạng nhiều gia đình gặp khó khăn trong việc chọn cơ sở dưỡng lão đã thúc đẩy nghề môi giới viện dưỡng lão phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T05:42:18.983860+07:00",
+      "fetched": "2026-05-24T05:42:18.984086+07:00"
+    },
     {
       "id": "75a4cf3121d87d511610e07cf0888e6c",
       "title": "Xử phạt 2 công ty 140 triệu vì sản xuất 2 lô thuốc xương khớp vi phạm chất lượng",
@@ -151,6 +161,316 @@ window.newsData_2026_05_24 = {
       "category": "Tổng hợp",
       "published": "2026-05-24T01:55:29.375425+07:00",
       "fetched": "2026-05-24T01:55:29.375650+07:00"
+    },
+    {
+      "id": "7698f47cdaba1fc2b2eb1308bc618a9c",
+      "title": "Khu liên hợp Văn hóa - Thể thao 16 héc ta ở Đà Lạt bị biến thành bãi rác khổng lồ",
+      "link": "https://thanhnien.vn/khu-lien-hop-van-hoa-the-thao-16-hec-ta-o-da-lat-bi-bien-thanh-bai-rac-khong-lo-185260523151704121.htm",
+      "summary": "Khu liên hợp Văn hóa - Thể thao tỉnh Lâm Đồng, tại phường Langbiang - Đà Lạt, gồm sân vận động Đà Lạt và Trung tâm Huấn luyện thể thao quốc gia đang bị bủa vây với đủ loại rác thải, xà bần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:41:00+07:00",
+      "fetched": "2026-05-24T05:42:17.787554+07:00"
+    },
+    {
+      "id": "e4dbbc380606f24803cc2162330ec9c8",
+      "title": "Nhiều hạng mục ở Cannes 2026 có hai người thắng giải",
+      "link": "https://vnexpress.net/nhieu-hang-muc-o-cannes-2026-co-hai-nguoi-thang-giai-5077461.html",
+      "summary": "LHP Cannes 2026 gây chú ý khi có ba hạng mục xuất hiện chiến thắng kép, gồm Đạo diễn xuất sắc cùng hai giải diễn xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:34:17+07:00",
+      "fetched": "2026-05-24T05:42:14.406596+07:00"
+    },
+    {
+      "id": "38160dec98341e8f1f5ec14aa6fead2a",
+      "title": "Hull thắng trận play-off 250 triệu USD, trở lại Ngoại hạng Anh",
+      "link": "https://vnexpress.net/hull-thang-tran-play-off-250-trieu-usd-tro-lai-ngoai-hang-anh-5077487.html",
+      "summary": "Bàn thắng ở phút bù của tiền đạo Oliver McBurnie giúp Hull City thắng Middlesbrough 1-0 ở trận chung kết play-off Championship, hôm 24/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:30:30+07:00",
+      "fetched": "2026-05-24T05:42:14.406759+07:00"
+    },
+    {
+      "id": "b5a001d244fcf60dca8241d4c671f70c",
+      "title": "Tiêu điểm quốc tế 24.5: Mỹ chuẩn bị tấn công Iran? | Đài Loan thiệt hại kép",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-245-my-chuan-bi-tan-cong-iran-dai-loan-thiet-hai-kep-185260523230854161.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 24.5.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:30:00+07:00",
+      "fetched": "2026-05-24T05:42:17.787715+07:00"
+    },
+    {
+      "id": "d9ae853204eab4f2332670808d66dc9f",
+      "title": "Tổng thống Trump tốn thêm 'tiền cược' vào cuộc chiến Iran",
+      "link": "https://thanhnien.vn/tong-thong-trump-ton-them-tien-cuoc-vao-cuoc-chien-iran-185260523215058524.htm",
+      "summary": "Được dự báo sẽ ra lệnh tấn công trở lại Iran, Tổng thống Mỹ Donald Trump đối mặt nhiều rủi ro về kết quả đạt được, trong khi \"chi phí\" chính trị đang ngày càng tốn kém hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:30:00+07:00",
+      "fetched": "2026-05-24T05:42:17.787904+07:00"
+    },
+    {
+      "id": "7576c4be6865880351d9890678af9408",
+      "title": "Trúng 10 tỉ xổ số miền Nam nhưng không biết, khách được đại lý TP.HCM gọi báo",
+      "link": "https://thanhnien.vn/trung-10-ti-xo-so-mien-nam-nhung-khong-biet-khach-duoc-dai-ly-tphcm-goi-bao-185260522115904615.htm",
+      "summary": "Trúng 10 tỉ đồng xổ số miền Nam nhưng không biết, một người phụ nữ được đại lý ở TP.HCM gọi điện thông báo, lập tức nhận tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:30:00+07:00",
+      "fetched": "2026-05-24T05:42:17.788045+07:00"
+    },
+    {
+      "id": "ae7842a1d11930d78de4cbe95a575eff",
+      "title": "Sau vụ 50 tấn caffeine: Bác sĩ giải đáp điều nhiều người uống cà phê thắc mắc",
+      "link": "https://thanhnien.vn/sau-vu-50-tan-caffeine-bac-si-giai-dap-dieu-nhieu-nguoi-uong-ca-phe-thac-mac-185260523211650942.htm",
+      "summary": "Sau vụ 50 tấn caffeine liên quan đường dây ma túy, nhiều người lo ngại caffeine trong cà phê, trà có phải ‘chất gây nghiện’. Từ đây, cần hiểu đúng bản chất của caffeine để tránh hoang mang không cần thiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:15:00+07:00",
+      "fetched": "2026-05-24T05:42:17.788174+07:00"
+    },
+    {
+      "id": "af8a1019438036e3b77503a572714aa1",
+      "title": "Tử vi ngày 24 tháng 5: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-24-thang-5-con-giap-nao-may-man-hom-nay-1852605231420061.htm",
+      "summary": "Tử vi ngày 24 tháng 5 mang đến những gợi ý tham khảo cho tử vi hôm nay của 12 con giáp trong ngày cuối tuần. Trong tử vi ngày 24 tháng 5, điểm nổi bật là \"thay đổi góc nhìn quen thuộc\" – đôi khi vấn đề không nằm ở hoàn cảnh, mà ở cách bạn nhìn và phản ứng với nó. Tài lộc hôm nay thế nào không chỉ li...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:15:00+07:00",
+      "fetched": "2026-05-24T05:42:17.788299+07:00"
+    },
+    {
+      "id": "cc085e4bdbec003d29b890144d650f75",
+      "title": "Chiến sự Ukraine ngày 1.550: Ukraine tấn công đất Nga dồn dập, Moscow phát thông điệp mới",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1550-ukraine-tan-cong-dat-nga-don-dap-moscow-phat-thong-diep-moi-185260523180723062.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky tuyên bố lực lượng nước này tấn công một nhà máy hóa chất lớn ở Nga, trong khi Bộ Quốc phòng Nga thông báo hệ thống phòng không bắn hạ 365 UAV Ukraine trong gần 24 giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:10:00+07:00",
+      "fetched": "2026-05-24T05:42:17.788450+07:00"
+    },
+    {
+      "id": "c2ee51488cba4a2b1b921a69aa927415",
+      "title": "Kane đoạt danh hiệu thứ 4 cùng Bayern",
+      "link": "https://vnexpress.net/kane-doat-danh-hieu-thu-4-cung-bayern-5077485.html",
+      "summary": "Tiền đạo Harry Kane lập hat-trick giúp Bayern thắng Stuttgart 3-0 ở chung kết Cup Quốc gia và hoàn tất cú ăn ba quốc nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:09:40+07:00",
+      "fetched": "2026-05-24T05:42:14.406905+07:00"
+    },
+    {
+      "id": "c2ee51488cba4a2b1b921a69aa927415",
+      "title": "Kane đoạt danh hiệu thứ 4 cùng Bayern",
+      "link": "https://vnexpress.net/kane-doat-danh-hieu-thu-4-cung-bayern-5077485.html",
+      "summary": "Tiền đạo Harry Kane lập hat-trick giúp Bayern thắng Stuttgart 3-0 ở chung kết Cup Quốc gia và hoàn tất cú ăn ba quốc nội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-23T22:09:40+07:00",
+      "fetched": "2026-05-24T05:42:25.764627+07:00"
+    },
+    {
+      "id": "8683a2db6720ce0e9fceb18a5a866907",
+      "title": "Đài Loan bị cuộc chiến Iran ảnh hưởng ra sao?",
+      "link": "https://thanhnien.vn/dai-loan-bi-cuoc-chien-iran-anh-huong-ra-sao-185260523181950109.htm",
+      "summary": "Đơn hàng vũ khí từ Mỹ bị tạm ngưng chuyển giao, nguồn năng lượng bị ảnh hưởng nghiêm trọng là điều mà Đài Loan phải đối mặt do cuộc chiến ở Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:02:00+07:00",
+      "fetched": "2026-05-24T05:42:17.788574+07:00"
+    },
+    {
+      "id": "03b46c8bf9c0f908cd5c2c6c198bbd1e",
+      "title": "Đường dây chế tạo súng 'núp bóng' xưởng cơ khí",
+      "link": "https://vnexpress.net/duong-day-che-tao-sung-nup-bong-xuong-co-khi-5077440.html",
+      "summary": "Ẩn sau vỏ bọc xưởng cơ khí, đường dây chế tạo, mua bán súng liên tỉnh hoạt động qua các nhóm chat trên mạng xã hội bị cảnh sát triệt phá, 9 người bị khởi tố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:00:00+07:00",
+      "fetched": "2026-05-24T05:42:14.407048+07:00"
+    },
+    {
+      "id": "ab5d95bc75e21f05241defcb6de872c4",
+      "title": "Honda City 2026 - phiên bản mới nâng cấp toàn diện, giá từ 12.500 USD",
+      "link": "https://vnexpress.net/honda-city-2026-phien-ban-moi-nang-cap-toan-dien-gia-tu-12-500-usd-5077341.html",
+      "summary": "Mẫu sedan cỡ B thay đổi thiết kế, bổ sung trang bị, thêm công nghệ và tính năng an toàn, tùy chọn máy xăng hoặc hybrid.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:00:00+07:00",
+      "fetched": "2026-05-24T05:42:14.407181+07:00"
+    },
+    {
+      "id": "e6404914b8482f96a86b08d91a5a541e",
+      "title": "Điều xảy ra khi thêm đường vào cà phê mỗi ngày?",
+      "link": "https://vnexpress.net/dieu-xay-ra-khi-them-duong-vao-ca-phe-moi-ngay-5076597.html",
+      "summary": "Uống cà phê quá ngọt mỗi ngày có thể làm tăng nguy cơ tăng cân, tăng đường huyết và làm giảm lợi ích sức khỏe vốn có của thức uống này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:00:00+07:00",
+      "fetched": "2026-05-24T05:42:14.407310+07:00"
+    },
+    {
+      "id": "f7a85e414b4f39551cc1ccd9feaab56f",
+      "title": "Cách Apple tạo sản phẩm hot từ chip 'không hoàn hảo'",
+      "link": "https://vnexpress.net/cach-apple-tao-san-pham-hot-tu-chip-khong-hoan-hao-5075499.html",
+      "summary": "MacBook Neo hay iPhone 17e tạo sức hút lớn nhờ mức giá thấp, dù đều được trang bị chip lẽ ra đã bị loại bỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:00:00+07:00",
+      "fetched": "2026-05-24T05:42:14.407467+07:00"
+    },
+    {
+      "id": "5e0bf76389fa52b304da9288e5d0c03e",
+      "title": "Robotaxi liên tục 'nộp mình' cho đường ngập",
+      "link": "https://vnexpress.net/robotaxi-lien-tuc-nop-minh-cho-duong-ngap-5077303.html",
+      "summary": "Sự cố mới nhất liên quan đến một chiếc robotaxi bị mắc kẹt trong vùng nước ngập ở Atlanta gần một giờ khiến Waymo phải hành động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:00:00+07:00",
+      "fetched": "2026-05-24T05:42:14.407611+07:00"
+    },
+    {
+      "id": "ce2efaeddb00b43f590181c18fc2dc55",
+      "title": "Viện trợ quân sự cho Ukraine tiếp tục gặp trở ngại",
+      "link": "https://thanhnien.vn/vien-tro-quan-su-cho-ukraine-tiep-tuc-gap-tro-ngai-185260523215308789.htm",
+      "summary": "AP hôm qua (23.5) đưa tin một nhóm thượng nghị sĩ lưỡng đảng Mỹ gửi thư thúc giục Bộ trưởng Quốc phòng Pete Hegseth hãy nhanh chóng giải ngân gói viện trợ quân sự trị giá 400 triệu USD đã được phê chuẩn trước đó cho Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:00:00+07:00",
+      "fetched": "2026-05-24T05:42:17.788698+07:00"
+    },
+    {
+      "id": "af89f125cd199e86ca3e1a4f6f3e34c6",
+      "title": "Ukraine có lợi thế lớn trong phản công sau khi cắt Starlink của Nga",
+      "link": "https://thanhnien.vn/ukraine-co-loi-the-lon-trong-phan-cong-sau-khi-cat-starlink-cua-nga-1852605231931446.htm",
+      "summary": "Ukraine đã giành lại được khoảng 400 km2 lãnh thổ trong một cuộc phản công hồi đầu năm nay sau khi Nga bị chặn quyền sử dụng hàng ngàn thiết bị đầu cuối internet di động Starlink.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:00:00+07:00",
+      "fetched": "2026-05-24T05:42:17.788817+07:00"
+    },
+    {
+      "id": "c0baaab3c46fd7f75cdc3c8ee3f42a79",
+      "title": "Chấm 'sao Michelin' cho hạt điều Đồng Nai 'ngon nhất thế giới'?",
+      "link": "https://thanhnien.vn/cham-sao-michelin-cho-hat-dieu-dong-nai-ngon-nhat-the-gioi-185260523192405642.htm",
+      "summary": "PGS-TS Nhữ Trọng Bách cho rằng phải làm sao hướng tới việc được chấm 'sao Michelin' cho chỉ dẫn hạt điều Đồng Nai, để tạo điểm nhấn trong chuỗi bản đồ du lịch của thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:00:00+07:00",
+      "fetched": "2026-05-24T05:42:17.788932+07:00"
+    },
+    {
+      "id": "b7801e37a3d3e93c3a2e085a40b3dc8d",
+      "title": "Lịch âm hôm nay: Ngày 24.5 có gì đặc biệt?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-245-co-gi-dac-biet-185260522125522267.htm",
+      "summary": "Theo lịch vạn niên, lịch âm hôm nay ngày 24.5 có gì đặc biệt mà nhiều người Việt Nam quan tâm, chia sẻ? Theo quan niệm dân gian, đây có phải ngày đẹp?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:00:00+07:00",
+      "fetched": "2026-05-24T05:42:17.789049+07:00"
+    },
+    {
+      "id": "ff93c2551210a2154c678138b10e86d3",
+      "title": "'Người hạnh phúc nhất là người mang lại hạnh phúc cho nhiều người nhất'",
+      "link": "https://thanhnien.vn/nguoi-hanh-phuc-nhat-la-nguoi-mang-lai-hanh-phuc-cho-nhieu-nguoi-nhat-185260521120348198.htm",
+      "summary": "Tôi cứ nhớ đến câu nói: 'Người hạnh phúc nhất là người mang lại hạnh phúc cho nhiều người nhất' khi tôi viết về những người thợ điện của thành phố mang tên Bác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T22:00:00+07:00",
+      "fetched": "2026-05-24T05:42:17.789166+07:00"
+    },
+    {
+      "id": "f7a85e414b4f39551cc1ccd9feaab56f",
+      "title": "Cách Apple tạo sản phẩm hot từ chip 'không hoàn hảo'",
+      "link": "https://vnexpress.net/cach-apple-tao-san-pham-hot-tu-chip-khong-hoan-hao-5075499.html",
+      "summary": "MacBook Neo hay iPhone 17e tạo sức hút lớn nhờ mức giá thấp, dù đều được trang bị chip lẽ ra đã bị loại bỏ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-23T22:00:00+07:00",
+      "fetched": "2026-05-24T05:42:24.418394+07:00"
+    },
+    {
+      "id": "d1caa4c44206cebf98a179b8e69e3f70",
+      "title": "Quận Cam sơ tán 40.000 người vì nguy cơ rò rỉ hóa chất",
+      "link": "https://thanhnien.vn/quan-cam-so-tan-40000-nguoi-vi-nguy-co-ro-ri-hoa-chat-185260523213012452.htm",
+      "summary": "Khoảng 40.000 người tại TP.Garden Grove, quận Cam (bang California, Mỹ), được lệnh sơ tán do lo ngại một bồn chứa hóa chất độc hại có thể rò rỉ hoặc phát nổ, theo Reuters ngày 23.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:50:00+07:00",
+      "fetched": "2026-05-24T05:42:17.789286+07:00"
+    },
+    {
+      "id": "25af3bf16b3da6a03a7d309fe4a49f23",
+      "title": "Kè chống sạt lở Năm Căn đội vốn sau gần 10 năm triển khai thi công",
+      "link": "https://thanhnien.vn/ke-chong-sat-lo-nam-can-doi-von-sau-gan-10-nam-trien-khai-thi-cong-185260523155942278.htm",
+      "summary": "Sau gần 10 năm triển khai, dự án bờ kè chống sạt lở Năm Căn được điều chỉnh tăng vốn lên hơn 142 tỉ đồng; trong đó, riêng chi phí giải phóng mặt bằng chiếm hơn 55,5 tỉ đồng, đồng thời mở rộng thêm diện tích thu hồi đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:38:00+07:00",
+      "fetched": "2026-05-24T05:42:17.789428+07:00"
+    },
+    {
+      "id": "546b9d4fc3a901099cac31298c554a70",
+      "title": "Guardiola tiết lộ điều hối tiếc lớn nhất ở Man City",
+      "link": "https://vnexpress.net/guardiola-tiet-lo-dieu-hoi-tiec-lon-nhat-o-man-city-5077482.html",
+      "summary": "Theo HLV Pep Guardiola, gạt bỏ thủ môn Joe Hart ngay khi mới đến Man City là điều khiến ông day dứt nhất trong 10 năm dẫn dắt đội bóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:07:32+07:00",
+      "fetched": "2026-05-24T05:42:14.407740+07:00"
+    },
+    {
+      "id": "546b9d4fc3a901099cac31298c554a70",
+      "title": "Guardiola tiết lộ điều hối tiếc lớn nhất ở Man City",
+      "link": "https://vnexpress.net/guardiola-tiet-lo-dieu-hoi-tiec-lon-nhat-o-man-city-5077482.html",
+      "summary": "Theo HLV Pep Guardiola, gạt bỏ thủ môn Joe Hart ngay khi mới đến Man City là điều khiến ông day dứt nhất trong 10 năm dẫn dắt đội bóng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-23T21:07:32+07:00",
+      "fetched": "2026-05-24T05:42:25.764765+07:00"
+    },
+    {
+      "id": "ef6df6d97c89238b76d439f8a3cf621f",
+      "title": "Ronaldo trượt giải cầu thủ hay nhất mùa Saudi Pro League",
+      "link": "https://vnexpress.net/ronaldo-truot-giai-cau-thu-hay-nhat-mua-saudi-pro-league-5077476.html",
+      "summary": "Vượt đàn anh Cristiano Ronaldo và hai cầu thủ dẫn đầu danh sách Vua phá lưới, Joao Felix giành giải Cầu thủ hay nhất Saudi Pro League mùa 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:00:20+07:00",
+      "fetched": "2026-05-24T05:42:14.407862+07:00"
+    },
+    {
+      "id": "ef6df6d97c89238b76d439f8a3cf621f",
+      "title": "Ronaldo trượt giải cầu thủ hay nhất mùa Saudi Pro League",
+      "link": "https://vnexpress.net/ronaldo-truot-giai-cau-thu-hay-nhat-mua-saudi-pro-league-5077476.html",
+      "summary": "Vượt đàn anh Cristiano Ronaldo và hai cầu thủ dẫn đầu danh sách Vua phá lưới, Joao Felix giành giải Cầu thủ hay nhất Saudi Pro League mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-23T21:00:20+07:00",
+      "fetched": "2026-05-24T05:42:25.764900+07:00"
+    },
+    {
+      "id": "a9d4d31531fbef19efe06c9f7b6f842c",
+      "title": "Cơ thủ Hồng Thái vào bán kết World Cup carom 3 băng",
+      "link": "https://vnexpress.net/co-thu-hong-thai-vao-ban-ket-world-cup-carom-3-bang-5077479.html",
+      "summary": "Cơ thủ 27 tuổi Chiêm Hồng Thái lần thứ ba vào bán kết World Cup carom 3 băng, sau khi thắng cựu số một thế giới Dick Jaspers 50-46 ở tứ kết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T20:47:53+07:00",
+      "fetched": "2026-05-24T05:42:14.407983+07:00"
+    },
+    {
+      "id": "a9d4d31531fbef19efe06c9f7b6f842c",
+      "title": "Cơ thủ Hồng Thái vào bán kết World Cup carom 3 băng",
+      "link": "https://vnexpress.net/co-thu-hong-thai-vao-ban-ket-world-cup-carom-3-bang-5077479.html",
+      "summary": "Cơ thủ 27 tuổi Chiêm Hồng Thái lần thứ ba vào bán kết World Cup carom 3 băng, sau khi thắng cựu số một thế giới Dick Jaspers 50-46 ở tứ kết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-23T20:47:53+07:00",
+      "fetched": "2026-05-24T05:42:25.764467+07:00"
     },
     {
       "id": "5e21862cd61b1006e2c92bd0256fb8b6",
