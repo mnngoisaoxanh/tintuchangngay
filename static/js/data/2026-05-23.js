@@ -1,7 +1,157 @@
 window.newsData_2026_05_23 = {
   "date": "2026-05-23",
-  "lastUpdated": "2026-05-23T13:27:49.248167+07:00",
+  "lastUpdated": "2026-05-23T16:43:13.149961+07:00",
   "articles": [
+    {
+      "id": "f4c13df26d3673e6d6ebb1c357a1b5d8",
+      "title": "Honda City 2026 ra mắt: Dáng mới, màn lớn, chỉ còn hybrid và turbo, sớm về Việt Nam đấu Toyota Vios",
+      "link": "https://tuoitre.vn/honda-city-2026-ra-mat-dang-moi-man-lon-chi-con-hybrid-va-turbo-som-ve-viet-nam-dau-toyota-vios-20260523092708979.htm",
+      "summary": "Honda City 2026 vừa ra mắt tại Thái Lan với thiết kế thể thao hơn cùng loạt nâng cấp đáng chú ý về công nghệ và trang bị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.711732+07:00",
+      "fetched": "2026-05-23T16:43:06.711827+07:00"
+    },
+    {
+      "id": "7edb4ef2d4a4ea707e2faaf11da90589",
+      "title": "Khai trương công viên nước quy mô tại Tây Ninh",
+      "link": "https://tuoitre.vn/khai-truong-cong-vien-nuoc-quy-mo-tai-tay-ninh-20260523085410474.htm",
+      "summary": "Ngày 22-5-2026, TTC Trảng Bàng Aqua Park - công viên nước quy mô tọa lạc tại Khu dân cư Thành Thành Công (TTC), phường Trảng Bàng, tỉnh Tây Ninh chính thức khai trương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.711629+07:00",
+      "fetched": "2026-05-23T16:43:06.711723+07:00"
+    },
+    {
+      "id": "3f12a5b2b2950eafe7b7e8ee51270378",
+      "title": "Mazda CX-5 thêm bản mới dễ được người Việt thích hơn",
+      "link": "https://tuoitre.vn/mazda-cx-5-them-ban-moi-de-duoc-nguoi-viet-thich-hon-20260523120523171.htm",
+      "summary": "Phiên bản hybrid của Mazda CX-5 thế hệ mới vừa được mở bán tại Nhật Bản, với công suất cao hơn đáng kể so với cấu hình dành cho thị trường châu Âu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.711526+07:00",
+      "fetched": "2026-05-23T16:43:06.711620+07:00"
+    },
+    {
+      "id": "b60859827539915135fe2438b8ad2715",
+      "title": "Xem gì dịp lễ Quốc tế Thiếu nhi 1-6?",
+      "link": "https://tuoitre.vn/xem-gi-dip-le-quoc-te-thieu-nhi-1-6-20260523122311758.htm",
+      "summary": "Bốn bộ phim hoạt hình dưới đây không chỉ hấp dẫn với các khán giả nhí mà còn thích hợp để cả gia đình cùng thưởng thức trong ngày Quốc tế Thiếu nhi 1-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.711422+07:00",
+      "fetched": "2026-05-23T16:43:06.711516+07:00"
+    },
+    {
+      "id": "6b464e1d269731a8d0f459a49e67e2d3",
+      "title": "Nhiều cha mẹ cho con du học nhưng ’mù tịt’ hệ thống giáo dục sở tại",
+      "link": "https://tuoitre.vn/cho-con-du-hoc-nhung-khong-hieu-ve-giao-duc-noi-con-se-hoc-20260523120357746.htm",
+      "summary": "Theo các chuyên gia, nhiều gia đình cho con du học sớm, ngay từ cấp II nhưng chưa thật sự hiểu quốc gia đó dạy gì, học sinh sẽ thi gì, đi theo lộ trình nào, hay sau trung học có những hướng phát triển ra sao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.711317+07:00",
+      "fetched": "2026-05-23T16:43:06.711412+07:00"
+    },
+    {
+      "id": "da13941135db42ae99161ebadccfc957",
+      "title": "‘Thi xong văn rồi, giỏi ha’ và chiếc kẹo tiếp sức sĩ tử thi vào lớp 10 Đà Nẵng",
+      "link": "https://tuoitre.vn/thi-xong-van-roi-gioi-ha-va-chiec-keo-tiep-suc-si-tu-thi-vao-lop-10-da-nang-20260523130738567.htm",
+      "summary": "Bước ra khỏi phòng thi với đủ tâm trạng nhẹ nhõm, lo lắng hay tiếc nuối vì làm bài chưa như ý, nhiều sĩ tử lớp 10 ở Đà Nẵng bất ngờ nhận được chiếc kẹo mút nhỏ kèm lời nhắn viết tay từ các chị khóa trên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.711197+07:00",
+      "fetched": "2026-05-23T16:43:06.711307+07:00"
+    },
+    {
+      "id": "de1f755cc4e4fad9dc7ca07db16610ca",
+      "title": "Có nên bổ sung vitamin D và canxi cùng một lúc?",
+      "link": "https://tuoitre.vn/co-nen-bo-sung-vitamin-d-va-canxi-cung-mot-luc-20260522232548658.htm",
+      "summary": "Canxi và vitamin D từ lâu được xem là \"bộ đôi vàng\" đối với sức khỏe xương. Các chuyên gia cho biết hai dưỡng chất này không chỉ giúp xây dựng hệ xương chắc khỏe mà còn hỗ trợ duy trì mật độ xương, giảm nguy cơ gãy xương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.711075+07:00",
+      "fetched": "2026-05-23T16:43:06.711171+07:00"
+    },
+    {
+      "id": "97937c29ec297d4e8f69c21cc46b5b82",
+      "title": "Vì sao trẻ biết bơi vẫn chết đuối?",
+      "link": "https://tuoitre.vn/vi-sao-tre-biet-boi-van-chet-duoi-20260523120133726.htm",
+      "summary": "Nhiều người dù biết bơi vẫn chết đuối do thiếu kỹ năng an toàn dưới nước, chủ quan trước nguy hiểm hoặc xử lý sai tình huống bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.710971+07:00",
+      "fetched": "2026-05-23T16:43:06.711066+07:00"
+    },
+    {
+      "id": "255d99c0603477945a2727a22fd413eb",
+      "title": "Nhớ mùa hè ban ngày mình mẩy lem luốc đất đỏ, buổi tối mắt dán vô màn hình coi Tây Du Ký",
+      "link": "https://tuoitre.vn/nho-mua-he-ban-ngay-minh-may-lem-luoc-dat-do-buoi-toi-mat-dan-vo-man-hinh-coi-tay-du-ky-2026052110545392.htm",
+      "summary": "Ký ức về mùa hè tuổi thơ tôi nơi miền biên giới lại trở về vẹn nguyên với bụi đất đỏ, tiếng cười và những ngày rong chơi bất tận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.710867+07:00",
+      "fetched": "2026-05-23T16:43:06.710962+07:00"
+    },
+    {
+      "id": "2364e094da0feb46c1ce1305444765ad",
+      "title": "Từ nay đến tháng 9, việc bồi thường rạch Văn Thánh TP.HCM ra sao?",
+      "link": "https://tuoitre.vn/tu-nay-den-thang-9-viec-boi-thuong-rach-van-thanh-tp-hcm-ra-sao-20260523134457467.htm",
+      "summary": "TP.HCM lên kế hoạch bồi thường, hỗ trợ, tái định cư dự án cải tạo rạch Văn Thánh (phường Thạnh Mỹ Tây). Mục tiêu là hoàn tất các đầu việc và giao mặt bằng trước ngày 15-9-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.710762+07:00",
+      "fetched": "2026-05-23T16:43:06.710858+07:00"
+    },
+    {
+      "id": "2c6c2fc70fa342496a45038e579b7bb3",
+      "title": "Cò nhạn, cò trắng phủ kín cánh đồng sau mùa gặt",
+      "link": "https://tuoitre.vn/co-nhan-co-trang-phu-kin-canh-dong-sau-mua-gat-20260523131110134.htm",
+      "summary": "Hàng trăm con cò nhạn, cò trắng và nhiều loài chim nước xuất hiện tại những cánh đồng vừa thu hoạch ở phường Nam Đông Hà, tạo nên khung cảnh thanh bình, thu hút sự quan tâm của người dân địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.710657+07:00",
+      "fetched": "2026-05-23T16:43:06.710753+07:00"
+    },
+    {
+      "id": "2fcb0b0f662aa5f1f21d427aad375edb",
+      "title": "SpaceX phóng tên lửa Starship lớn nhất, mạnh nhất trước nay",
+      "link": "https://tuoitre.vn/spacex-phong-thu-ten-lua-starship-lon-nhat-manh-nhat-tu-truoc-den-nay-20260523141228153.htm",
+      "summary": "SpaceX vừa phóng thử phiên bản tên lửa Starship lớn nhất và mạnh nhất từ trước đến nay, đánh dấu bước tiến quan trọng trong tham vọng đưa con người trở lại Mặt trăng và tiến xa hơn tới sao Hỏa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.710549+07:00",
+      "fetched": "2026-05-23T16:43:06.710647+07:00"
+    },
+    {
+      "id": "83f2c92b0c18c0b60e02be4072bbcf38",
+      "title": "Nổ mỏ than ở Trung Quốc: Nạn nhân \ntăng lên 90 người chết, 500 người đang chạy đua cứu hộ",
+      "link": "https://tuoitre.vn/no-mo-than-o-trung-quoc-tang-len-90-nguoi-chet-nghiem-trong-nhat-hon-10-nam-qua-20260523142528154.htm",
+      "summary": "Số người thương vong sau vụ nổ khí tại một mỏ than ở tỉnh Sơn Tây (Trung Quốc) đã tăng lên ít nhất 90 người, trở thành thảm họa khai khoáng chết chóc nhất nước này trong hơn một thập niên qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.710437+07:00",
+      "fetched": "2026-05-23T16:43:06.710539+07:00"
+    },
+    {
+      "id": "ae755d0a05a8de5885d8da447db0d11b",
+      "title": "Thanh niên cần tiên phong chuyển đổi số, ứng dụng khoa học công nghệ vào sản xuất",
+      "link": "https://tuoitre.vn/thanh-nien-can-tien-phong-chuyen-doi-so-ung-dung-khoa-hoc-cong-nghe-vao-san-xuat-20260523142518763.htm",
+      "summary": "Ngoài việc đổi mới mạnh mẽ, bám sát thực tiễn và nhu cầu người dân, thanh niên cần phải tiên phong chuyển đổi số, ứng dụng khoa học công nghệ vào sản xuất, góp phần xây dựng quê hương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.710318+07:00",
+      "fetched": "2026-05-23T16:43:06.710427+07:00"
+    },
+    {
+      "id": "56ea050d1a5ab6615c1b42714320cd8b",
+      "title": "Shonen Jump gây tranh cãi vì từng yêu cầu manga nữ siêu anh hùng phải 'gợi cảm'",
+      "link": "https://tuoitre.vn/shonen-jump-gay-tranh-cai-vi-tung-yeu-cau-manga-nu-sieu-anh-hung-phai-goi-cam-20260523135126126.htm",
+      "summary": "Một cựu họa sĩ của Weekly Shonen Jump vừa tiết lộ đội ngũ biên tập từng yêu cầu manga của ông phải đẩy mạnh yếu tố gợi cảm nếu muốn được đăng tải, làm dấy lên tranh cãi về cách tạp chí này xây dựng nhân vật nữ trong quá khứ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T16:43:06.710090+07:00",
+      "fetched": "2026-05-23T16:43:06.710304+07:00"
+    },
     {
       "id": "759ee085e11a8c674b7b2217a0fe5659",
       "title": "Chủ tịch Trung Quốc Tập Cận Bình yêu cầu điều tra vụ nổ mỏ than 8 người chết, 38 người mắc kẹt",
@@ -153,6 +303,146 @@ window.newsData_2026_05_23 = {
       "fetched": "2026-05-23T13:27:43.282462+07:00"
     },
     {
+      "id": "73f1eb787d24125af63bf02ab42271e9",
+      "title": "Giải thưởng 3,2 tỉ đồng trao cho các công trình toán học xuất sắc năm 2026",
+      "link": "https://thanhnien.vn/giai-thuong-32-ti-dong-trao-cho-cac-cong-trinh-toan-hoc-xuat-sac-nam-2026-185260523155747899.htm",
+      "summary": "Các công trình toán học xuất sắc được công bố trên các tạp chí quốc tế uy tín góp phần phát triển và nâng cao vị thế của toán học Việt Nam sẽ được xét tặng giải thưởng năm 2026 với tổng giá trị là 3,2 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:32:00+07:00",
+      "fetched": "2026-05-23T16:43:05.908090+07:00"
+    },
+    {
+      "id": "41c47604d6f862aa2885c303423bea7f",
+      "title": "Vì sao phim mới của Nhậm Gia Luân bất ngờ bị ghẻ lạnh?",
+      "link": "https://thanhnien.vn/vi-sao-phim-moi-cua-nham-gia-luan-bat-ngo-bi-ghe-lanh-185260523162558201.htm",
+      "summary": "Sở hữu lượt đặt xem trước kỷ lục cùng màn mở màn bùng nổ, thế nhưng 'bom tấn' tiên hiệp Giai Ngẫu Thiên Thành của Nhậm Gia Luân lại đang có dấu hiệu tụt dốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:31:00+07:00",
+      "fetched": "2026-05-23T16:43:05.908252+07:00"
+    },
+    {
+      "id": "8f96f99a9c0cfd4a52d731a4735d700c",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn lịch sử | Chuyên đề 10 |Hồ Chí Minh trong lịch sử Việt Nam",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-lich-su-chuyen-de-10-ho-chi-minh-trong-lich-su-viet-nam-185260515113741847.htm",
+      "summary": "Chương trình \"Bí quyết ôn thi THPT 2026\" hướng dẫn học sinh làm bài thi môn lịch sử, kỳ thi tốt nghiệp THPT 2026. Buổi hướng dẫn do thầy Nguyễn Viết Đăng Du, Trường THPT Lê Quý Đôn, TP.HCM thực hiện.Chương trình được phát trên các kênh thanhnien.vn, facebook.com/thanhnien và YouTube Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:30:00+07:00",
+      "fetched": "2026-05-23T16:43:05.908388+07:00"
+    },
+    {
+      "id": "6c1aa41b0d2575621301e1ce8a71477c",
+      "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Bác Hồ trong lịch sử Việt Nam",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-bac-ho-trong-lich-su-viet-nam-185260520202223136.htm",
+      "summary": "Vào lúc 16 giờ 30 ngày 23.5, Báo Thanh Niên phát sóng chuyên đề số 10 của môn lịch sử trong chương trình Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:28:00+07:00",
+      "fetched": "2026-05-23T16:43:05.908516+07:00"
+    },
+    {
+      "id": "55e16a630971fe7b8ae4da129882b4d8",
+      "title": "Đường dây buôn lậu hơn 2,4 tấn xyanua về Việt Nam bị triệt phá",
+      "link": "https://vnexpress.net/duong-day-buon-lau-hon-2-4-tan-xyanua-ve-viet-nam-bi-triet-pha-5077387.html",
+      "summary": "Lần theo nguồn xyanua trong vụ một người đàn ông tử vong ở Bàu Bàng, Công an TP HCM triệt phá đường dây mua bán chất độc xuyên biên giới, khởi tố 35 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:25:31+07:00",
+      "fetched": "2026-05-23T16:43:02.895968+07:00"
+    },
+    {
+      "id": "de1f0c9bd474587ef7bc217ed3d2ae52",
+      "title": "Vụ 3 cháu bé đuối nước tử vong ở Quảng Ngãi: Nỗi đau nhói lòng của một gia đình nghèo",
+      "link": "https://thanhnien.vn/vu-3-chau-be-duoi-nuoc-tu-vong-o-quang-ngai-noi-dau-nhoi-long-cua-mot-gia-dinh-ngheo-185260523153422299.htm",
+      "summary": "3 đứa trẻ là anh em họ ở xã Trường Giang (Quảng Ngãi) tử vong do đuối nước trên sông Trà Khúc khiến nhiều người bàng hoàng. Đằng sau vụ việc là nỗi đau chồng chất của một gia đình có hoàn cảnh khó khăn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:22:00+07:00",
+      "fetched": "2026-05-23T16:43:05.908646+07:00"
+    },
+    {
+      "id": "9ea4abb4851eb0967b371fb49d2aa48e",
+      "title": "Giám đốc Ban quản lý rừng phòng hộ Bắc Sông Hương bị bắt",
+      "link": "https://vnexpress.net/giam-doc-ban-quan-ly-rung-phong-ho-bac-song-huong-bi-bat-5077392.html",
+      "summary": "Ông Phạm Ngọc Dũng, Giám đốc Ban quản lý rừng phòng hộ Bắc sông Hương cùng một số thuộc cấp bị khởi tố vì liên quan sai phạm dự án trồng rừng thay thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:15:34+07:00",
+      "fetched": "2026-05-23T16:43:02.896122+07:00"
+    },
+    {
+      "id": "cca864d6c9a3f0cd10faa774f4f8d703",
+      "title": "Gian truân của Ronaldo trên đường vô địch Saudi Pro League",
+      "link": "https://vnexpress.net/gian-truan-cua-ronaldo-tren-duong-vo-dich-saudi-pro-league-5077208.html",
+      "summary": "Sau 3 năm rưỡi nhiều chông gai và tranh cãi, Cristiano Ronaldo cuối cùng cũng được nâng cup vô địch Saudi Pro League cùng Al Nassr.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:13:47+07:00",
+      "fetched": "2026-05-23T16:43:02.896277+07:00"
+    },
+    {
+      "id": "cca864d6c9a3f0cd10faa774f4f8d703",
+      "title": "Gian truân của Ronaldo trên đường vô địch Saudi Pro League",
+      "link": "https://vnexpress.net/gian-truan-cua-ronaldo-tren-duong-vo-dich-saudi-pro-league-5077208.html",
+      "summary": "Sau 3 năm rưỡi nhiều chông gai và tranh cãi, Cristiano Ronaldo cuối cùng cũng được nâng cup vô địch Saudi Pro League cùng Al Nassr.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-23T09:13:47+07:00",
+      "fetched": "2026-05-23T16:43:13.142037+07:00"
+    },
+    {
+      "id": "392cbf374d8cd908c406bdc918f28b75",
+      "title": "Bê bối của 'Perfect Crown' leo thang, Quốc hội Hàn Quốc vào cuộc",
+      "link": "https://thanhnien.vn/be-boi-cua-perfect-crown-leo-thang-quoc-hoi-han-quoc-vao-cuoc-185260523142553133.htm",
+      "summary": "Tranh cãi xoay quanh bộ phim 'Perfect Crown' hiện đã khiến Quốc hội Hàn Quốc vào cuộc sau khi một bản kiến nghị công khai yêu cầu hủy phát sóng và gỡ bỏ tác phẩm này được chính thức đệ trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:11:00+07:00",
+      "fetched": "2026-05-23T16:43:05.908774+07:00"
+    },
+    {
+      "id": "5b48231a074d5df63f7e33c480423842",
+      "title": "Vincom Retail hợp tác K-Box Global phát triển tổ hợp giải trí Hàn Quốc",
+      "link": "https://vnexpress.net/vincom-retail-hop-tac-k-box-global-phat-trien-to-hop-giai-tri-han-quoc-5077399.html",
+      "summary": "Vincom Retail và K-Box Global sẽ cùng phát triển các tổ hợp mua sắm - giải trí phong cách Hàn Quốc tại Việt Nam với Vincom Mega Mall Ocean City là điểm đến đầu tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:10:00+07:00",
+      "fetched": "2026-05-23T16:43:02.896412+07:00"
+    },
+    {
+      "id": "5b48231a074d5df63f7e33c480423842",
+      "title": "Vincom Retail hợp tác K-Box Global phát triển tổ hợp giải trí Hàn Quốc",
+      "link": "https://vnexpress.net/vincom-retail-hop-tac-k-box-global-phat-trien-to-hop-giai-tri-han-quoc-5077399.html",
+      "summary": "Vincom Retail và K-Box Global sẽ cùng phát triển các tổ hợp mua sắm - giải trí phong cách Hàn Quốc tại Việt Nam với Vincom Mega Mall Ocean City là điểm đến đầu tiên.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-23T09:10:00+07:00",
+      "fetched": "2026-05-23T16:43:09.616709+07:00"
+    },
+    {
+      "id": "3367ec663954c2be3de063cc80e1d46c",
+      "title": "Mỹ cấm nhập cảnh với người mang thẻ xanh về từ nơi có dịch Ebola",
+      "link": "https://vnexpress.net/my-cam-nhap-canh-voi-nguoi-mang-the-xanh-ve-tu-noi-co-dich-ebola-5077383.html",
+      "summary": "Mỹ áp lệnh cấm nhập cảnh tạm thời với những người mang thẻ xanh trở về từ CHDC Congo, Uganda và Nam Sudan để ngăn dịch Ebola xâm nhập nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:09:18+07:00",
+      "fetched": "2026-05-23T16:43:02.896547+07:00"
+    },
+    {
+      "id": "3367ec663954c2be3de063cc80e1d46c",
+      "title": "Mỹ cấm nhập cảnh với người mang thẻ xanh về từ nơi có dịch Ebola",
+      "link": "https://vnexpress.net/my-cam-nhap-canh-voi-nguoi-mang-the-xanh-ve-tu-noi-co-dich-ebola-5077383.html",
+      "summary": "Mỹ áp lệnh cấm nhập cảnh tạm thời với những người mang thẻ xanh trở về từ CHDC Congo, Uganda và Nam Sudan để ngăn dịch Ebola xâm nhập nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-23T09:09:18+07:00",
+      "fetched": "2026-05-23T16:43:08.095366+07:00"
+    },
+    {
       "id": "721003c93404588194c26f213b07a601",
       "title": "Thời tiết hôm nay 23-5: Cả nước nắng gay gắt, miền Nam chiều 'hy vọng' có mưa rào",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-23-5-ca-nuoc-nang-gay-gat-mien-nam-chieu-hy-vong-co-mua-rao-20260522155300353.htm",
@@ -301,6 +591,256 @@ window.newsData_2026_05_23 = {
       "category": "Tổng hợp",
       "published": "2026-05-23T09:05:41.796155+07:00",
       "fetched": "2026-05-23T09:05:41.796392+07:00"
+    },
+    {
+      "id": "e424abd46cdaef44cb5206752b74787a",
+      "title": "Căn bệnh hô hấp bí ẩn khiến giới y khoa Nhật Bản phải họp báo khẩn",
+      "link": "https://vnexpress.net/can-benh-ho-hap-bi-an-khien-gioi-y-khoa-nhat-ban-phai-hop-bao-khan-5077173.html",
+      "summary": "Gây ra các triệu chứng đau họng dữ dội và ho kéo dài nhưng âm tính với cúm hay Covid-19, hội chứng hô hấp lạ này được dự đoán do một chủng virus chưa có tên gây ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:00:00+07:00",
+      "fetched": "2026-05-23T16:43:02.896678+07:00"
+    },
+    {
+      "id": "c6243ba87fc144ca2bbc10ca053b4d18",
+      "title": "Xổ số miền Nam ngày 23 tháng 5: Kết quả xổ số hôm nay thứ bảy",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-23-thang-5-ket-qua-xo-so-hom-nay-thu-bay-185260523152750089.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 23 tháng 5. Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ bảy ngày 23.5.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:00:00+07:00",
+      "fetched": "2026-05-23T16:43:05.908911+07:00"
+    },
+    {
+      "id": "011c5ace855ae507005a983a5462ac49",
+      "title": "Hé lộ mối quan hệ giữa bạn gái và con riêng Brad Pitt",
+      "link": "https://thanhnien.vn/he-lo-moi-quan-he-giua-ban-gai-va-con-rieng-brad-pitt-185260523124838828.htm",
+      "summary": "Sau nhiều năm căng thẳng hậu ly hôn với Angelina Jolie, mối quan hệ giữa Brad Pitt và các con được cho là vẫn chưa thể hàn gắn. Trong khi ngôi sao 6X công khai chuyện tình cảm với bạn gái Ines de Ramon, nhiều nguồn tin tiết lộ cô chưa từng gặp các con riêng của Brad Pitt, trang Y! Entertainment đưa ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:00:00+07:00",
+      "fetched": "2026-05-23T16:43:05.909056+07:00"
+    },
+    {
+      "id": "964228180d94e667cd5acdf132407738",
+      "title": "Công thức mặc đẹp giúp nàng tự tin cùng quần cạp cao",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cong-thuc-mac-dep-giup-nang-tu-tin-cung-quan-cap-cao-185260522142948039.htm",
+      "summary": "Quần cạp cao là lựa chọn hoàn hảo giúp nàng tôn dáng, hack chiều cao và tự tin với vẻ ngoài trẻ trung, thời thượng mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T09:00:00+07:00",
+      "fetched": "2026-05-23T16:43:05.909191+07:00"
+    },
+    {
+      "id": "8b0b77362d9ea6889e8c9d7a156f4c1f",
+      "title": "Chọn loại mái nào khi xây nhà để tránh mưa đá?",
+      "link": "https://vnexpress.net/chon-loai-mai-nao-khi-xay-nha-de-tranh-mua-da-5070918.html",
+      "summary": "Để tránh rủi ro thủng, vỡ mái khi mưa đá kèm dông lốc, gia chủ cần ưu tiên kết cấu mái bê tông cốt thép, kết hợp lớp lợp thoát nước, chống thấm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:54:52+07:00",
+      "fetched": "2026-05-23T16:43:02.896811+07:00"
+    },
+    {
+      "id": "7c7ab9c78f9bdc811953533618c2184d",
+      "title": "Hơn 1 triệu ha đất nông nghiệp, Lâm Đồng hướng nông sản ra toàn cầu",
+      "link": "https://thanhnien.vn/hon-1-trieu-ha-dat-nong-nghiep-lam-dong-huong-nong-san-ra-toan-cau-185260523143157706.htm",
+      "summary": "Ngày 23.5, tại phường Đông Gia Nghĩa, Sở NN-MT Lâm Đồng tổ chức hội nghị đánh giá tiềm năng và xúc tiến thương mại, kết nối thị trường tiêu thụ nông sản tỉnh Lâm Đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:53:00+07:00",
+      "fetched": "2026-05-23T16:43:05.909326+07:00"
+    },
+    {
+      "id": "81081e1de0108ae89cee4111f3005f83",
+      "title": "Đầu bếp Việt lần đầu vào top 8 thế giới",
+      "link": "https://thanhnien.vn/dau-bep-viet-lan-dau-vao-top-8-the-gioi-185260523154455733.htm",
+      "summary": "Lần đầu tiên trong lịch sử, đội tuyển đầu bếp Việt Nam góp mặt tại vòng chung kết Global Chefs Challenge Finals 2026 - một trong những sân chơi danh giá nhất của ngành ẩm thực thế giới và xuất sắc lọt top 8 toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:52:00+07:00",
+      "fetched": "2026-05-23T16:43:05.909458+07:00"
+    },
+    {
+      "id": "6b8fec061ec2ae257f85b2e75901112c",
+      "title": "Đà Nẵng duyệt 113 khu đất xây nhà ở xã hội",
+      "link": "https://vnexpress.net/da-nang-duyet-113-khu-dat-xay-nha-o-xa-hoi-5077378.html",
+      "summary": "Các khu đất có tổng diện tích gần 390 ha trong đó có nhiều vị trí \"vàng\" ở trung tâm phường Sơn Trà, Hải Châu, Hải Vân, Bà Nà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:47:45+07:00",
+      "fetched": "2026-05-23T16:43:02.896942+07:00"
+    },
+    {
+      "id": "ec1fe5df5dbfa499374a6ba74706922e",
+      "title": "Thái Lan dùng CT-scan và AI để siết chất lượng sầu riêng xuất khẩu",
+      "link": "https://vnexpress.net/thai-lan-dung-ct-scan-va-ai-de-siet-chat-luong-sau-rieng-xuat-khau-5077386.html",
+      "summary": "Thái Lan đang đẩy mạnh ứng dụng AI, CT-scan và tia X vào chuỗi xuất khẩu sầu riêng nhằm siết chất lượng, giảm hàng lỗi và giữ thị phần tại Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:45:05+07:00",
+      "fetched": "2026-05-23T16:43:02.897071+07:00"
+    },
+    {
+      "id": "ec1fe5df5dbfa499374a6ba74706922e",
+      "title": "Thái Lan dùng CT-scan và AI để siết chất lượng sầu riêng xuất khẩu",
+      "link": "https://vnexpress.net/thai-lan-dung-ct-scan-va-ai-de-siet-chat-luong-sau-rieng-xuat-khau-5077386.html",
+      "summary": "Thái Lan đang đẩy mạnh ứng dụng AI, CT-scan và tia X vào chuỗi xuất khẩu sầu riêng nhằm siết chất lượng, giảm hàng lỗi và giữ thị phần tại Trung Quốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-23T08:45:05+07:00",
+      "fetched": "2026-05-23T16:43:09.616579+07:00"
+    },
+    {
+      "id": "0b1c9183da51ca2796a38c494b26b8c6",
+      "title": "Thực hư tin người Việt đi Ai Cập dễ như đi Thái, không cần xin visa",
+      "link": "https://thanhnien.vn/thuc-hu-tin-nguoi-viet-di-ai-cap-de-nhu-di-thai-khong-can-xin-visa-185260523154129044.htm",
+      "summary": "Những ngày qua, trên mạng xã hội xuất hiện một số bài viết đăng tải thông tin Ai Cập chính thức triển khai chương trình nhập cảnh vô cùng thông thoáng cho người dân Việt Nam, chỉ cần 'xách balo lên và đi', cầm theo hộ chiếu, không cần xin visa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:45:00+07:00",
+      "fetched": "2026-05-23T16:43:05.909585+07:00"
+    },
+    {
+      "id": "414aa8b737de8acfd5699f2f33859dec",
+      "title": "Huế: Khởi tố 8 bị can trồng rừng 'quên' bón phân",
+      "link": "https://thanhnien.vn/hue-khoi-to-8-bi-can-trong-rung-quen-bon-phan-185260523144242498.htm",
+      "summary": "Giám đốc Ban Quản lý rừng phòng hộ Bắc Sông Hương (thành phố Huế) cùng 7 bị can khác vừa bị Cơ quan Cảnh sát điều tra Công an thành phố Huế khởi tố do sai phạm trong dự án trồng rừng thay thế, gây thiệt hại hơn 750 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:45:00+07:00",
+      "fetched": "2026-05-23T16:43:05.909709+07:00"
+    },
+    {
+      "id": "87e2b50d8e4147eb066edde08c33af3a",
+      "title": "Cảnh tượng 'lạ' ở vòng xoay Điện Biên Phủ: Nhiều xe suýt đi ngược chiều vì phân luồng mới",
+      "link": "https://thanhnien.vn/canh-tuong-la-o-vong-xoay-dien-bien-phu-nhieu-xe-suyt-di-nguoc-chieu-vi-phan-luong-moi-185260523142722289.htm",
+      "summary": "Sáng 23.5.2026, TP.HCM bắt đầu thí điểm tổ chức lại giao thông tại vòng xoay Điện Biên Phủ - Nguyễn Bỉnh Khiêm bằng hệ thống đèn tín hiệu và dải phân cách, thay cho hình thức lưu thông vòng xuyến trước đây. Trong ngày đầu áp dụng, giao thông nhìn chung ổn định, nhưng nhiều người dân vẫn bỡ ngỡ vì th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:35:00+07:00",
+      "fetched": "2026-05-23T16:43:05.909836+07:00"
+    },
+    {
+      "id": "10a2dc5f308f82e16e6faf711bfb9b78",
+      "title": "Nam Vinschool Central Park áp đảo Gia Định, vô địch khu vực TP HCM",
+      "link": "https://vnexpress.net/nam-vinschool-central-park-ap-dao-gia-dinh-vo-dich-khu-vuc-tp-hcm-5077316.html",
+      "summary": "Đánh bại THPT Gia Định với tỷ số cách biệt 63-34 trong trận chung kết sáng 23/5, nam Vinschool Central Park lên ngôi vô địch Giải bóng rổ Trẻ VnExpress 2026 khu vực TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:32:00+07:00",
+      "fetched": "2026-05-23T16:43:02.897218+07:00"
+    },
+    {
+      "id": "acb6b731fd06932a3760bba1ee95ee5c",
+      "title": "Đà Nẵng hút khách với 'Hộ chiếu ẩm thực' tại ngày hội bánh dân gian",
+      "link": "https://thanhnien.vn/da-nang-hut-khach-voi-ho-chieu-am-thuc-tai-ngay-hoi-banh-dan-gian-185260523135247907.htm",
+      "summary": "Không chỉ thưởng thức các loại bánh truyền thống xứ Quảng, du khách đến “Ngày hội bánh dân gian Hội An Đông 2026” ở Đà Nẵng còn hào hứng săn dấu mộc cho “Hộ chiếu ẩm thực” - trải nghiệm độc đáo biến hành trình khám phá món ngon thành một kỷ niệm khó quên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:30:00+07:00",
+      "fetched": "2026-05-23T16:43:05.909966+07:00"
+    },
+    {
+      "id": "18adc8c8560431009a34feec0bb58e78",
+      "title": "Những ca khúc khuấy động mùa World Cup 2026",
+      "link": "https://vnexpress.net/nhung-ca-khuc-khuay-dong-mua-world-cup-2026-5077346.html",
+      "summary": "\"Dai Dai\" của Shakira, \"Goals\" của Lisa có giai điệu sôi động, được kỳ vọng góp phần làm bùng nổ không khí World Cup 2026 sắp diễn ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:21:17+07:00",
+      "fetched": "2026-05-23T16:43:02.897352+07:00"
+    },
+    {
+      "id": "5dadb595717ccba498d78fe05e46ecf2",
+      "title": "SpaceX phóng thử thành công tên lửa mạnh nhất thế giới",
+      "link": "https://vnexpress.net/spacex-phong-thu-thanh-cong-ten-lua-manh-nhat-the-gioi-5077370.html",
+      "summary": "Nguyên mẫu Starship V3 lần đầu rời bệ phóng ở Texas để bay vào không gian, sau đó đáp xuống Ấn Độ Dương, đổ nhào và phát nổ đúng như kế hoạch của SpaceX.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:19:14+07:00",
+      "fetched": "2026-05-23T16:43:02.897480+07:00"
+    },
+    {
+      "id": "7cec6576c2959aa3330d7b68474d0b69",
+      "title": "Huế Times Square xây dựng sai phép, chủ đầu tư bị phạt",
+      "link": "https://vnexpress.net/hue-times-square-xay-dung-sai-phep-chu-dau-tu-bi-phat-5077337.html",
+      "summary": "Công ty TNHH Đầu tư và Vận tải An Phú Minh, chủ dự án Huế Times Square bên sông Hương, bị xử phạt 110 triệu đồng do xây dựng sai giấy phép và bản vẽ được phê duyệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:00:42+07:00",
+      "fetched": "2026-05-23T16:43:02.897613+07:00"
+    },
+    {
+      "id": "2de8687127d8049f739a37c57dfb8671",
+      "title": "Anh hôi miệng nên tôi không thể đồng ý làm bạn gái",
+      "link": "https://vnexpress.net/anh-hoi-mieng-nen-toi-khong-the-dong-y-lam-ban-gai-5077312.html",
+      "summary": "Tôi 30 tuổi, anh 35 tuổi, quen nhau qua bạn bè giới thiệu trong dịp đi chơi chung cùng các bạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:00:00+07:00",
+      "fetched": "2026-05-23T16:43:02.897744+07:00"
+    },
+    {
+      "id": "adc53d50bddf8f9acf44970d8d528c49",
+      "title": "Robot hình người có bốn tay",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-co-bon-tay-5077133.html",
+      "summary": "Robot Helios do Orbit Robotics phát triển có bốn tay thay vì hai tay hai chân, nhằm phù hợp với các hoạt động trên tàu vũ trụ và trong không gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T08:00:00+07:00",
+      "fetched": "2026-05-23T16:43:02.897876+07:00"
+    },
+    {
+      "id": "adc53d50bddf8f9acf44970d8d528c49",
+      "title": "Robot hình người có bốn tay",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-co-bon-tay-5077133.html",
+      "summary": "Robot Helios do Orbit Robotics phát triển có bốn tay thay vì hai tay hai chân, nhằm phù hợp với các hoạt động trên tàu vũ trụ và trong không gian.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-23T08:00:00+07:00",
+      "fetched": "2026-05-23T16:43:11.444704+07:00"
+    },
+    {
+      "id": "f1f7907e349403d41e9e0024218bd541",
+      "title": "Ông Trump đăng video AI 'ném người dẫn chương trình vào thùng rác'",
+      "link": "https://vnexpress.net/ong-trump-dang-video-ai-nem-nguoi-dan-chuong-trinh-vao-thung-rac-5077353.html",
+      "summary": "Tổng thống Trump đăng video dựng bằng AI về cảnh ông ném người dẫn chương trình chuyên chỉ trích mình vào thùng rác, sau đó nhảy điệu YMCA đặc trưng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-23T07:31:06+07:00",
+      "fetched": "2026-05-23T16:43:08.095518+07:00"
+    },
+    {
+      "id": "ca4f14b01073fc79907aba60f4488e93",
+      "title": "Carragher ủng hộ Tuchel gạt bỏ danh tiếng khi chọn đội hình dự World Cup",
+      "link": "https://vnexpress.net/carragher-ung-ho-tuchel-gat-bo-danh-tieng-khi-chon-doi-hinh-du-world-cup-5077324.html",
+      "summary": "Theo cựu danh thủ Jamie Carragher, HLV Thomas Tuchel đang tạo cuộc cách mạng trong cách chọn quân ở tuyển Anh khi gạt bỏ một số ngôi sao để ưu tiên sự cân bằng và tính gắn kết của tập thể.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-23T07:04:08+07:00",
+      "fetched": "2026-05-23T16:43:13.142177+07:00"
+    },
+    {
+      "id": "8d491c46767f6181dac48c2c47fb26af",
+      "title": "Jeff Bezos: Nửa số người nộp thuế Mỹ nên được miễn thuế",
+      "link": "https://vnexpress.net/jeff-bezos-nua-so-nguoi-nop-thue-my-nen-duoc-mien-thue-5077347.html",
+      "summary": "Chủ tịch Amazon cho rằng thuế thu nhập liên bang mà nhóm thu nhập thấp đã nộp \"chỉ là một khoản tiền nhỏ với chính phủ\" và nên được miễn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-23T07:00:54+07:00",
+      "fetched": "2026-05-23T16:43:09.615866+07:00"
+    },
+    {
+      "id": "84ae2ea4b7bcd475c501c0f8dfc2d775",
+      "title": "Tân Á Đại Thành đầu tư 5.800 tỷ cho nhà máy xi măng Kiên Giang",
+      "link": "https://vnexpress.net/tan-a-dai-thanh-dau-tu-5-800-ty-cho-nha-may-xi-mang-kien-giang-5077145.html",
+      "summary": "Tân Á Đại Thành được chấp thuận đầu tư nhà máy xi măng Hà Tiên Kiên Giang theo mô hình xanh, tổng vốn 5.800 tỷ đồng, dự kiến vận hành từ quý IV/2028.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-23T07:00:00+07:00",
+      "fetched": "2026-05-23T16:43:09.616840+07:00"
     },
     {
       "id": "fa797df6dd1a5229c54413089ae41b22",
