@@ -1,6 +1,6 @@
 window.newsData_2026_05_24 = {
   "date": "2026-05-24",
-  "lastUpdated": "2026-05-24T01:55:37.963026+07:00",
+  "lastUpdated": "2026-05-24T03:38:43.994626+07:00",
   "articles": [
     {
       "id": "75a4cf3121d87d511610e07cf0888e6c",
@@ -151,6 +151,16 @@ window.newsData_2026_05_24 = {
       "category": "Tổng hợp",
       "published": "2026-05-24T01:55:29.375425+07:00",
       "fetched": "2026-05-24T01:55:29.375650+07:00"
+    },
+    {
+      "id": "5e21862cd61b1006e2c92bd0256fb8b6",
+      "title": "Cuộc sống bất an trong chung cư cũ nát ở Ninh Bình",
+      "link": "https://vnexpress.net/cuoc-song-bat-an-trong-chung-cu-cu-nat-o-ninh-binh-5077428.html",
+      "summary": "Nhiều hộ dân tại các khu chung cư cũ trên đường Hoàng Văn Thụ, phường Nam Định phải sống trong những căn hộ nứt tường, thấm dột, xuống cấp nghiêm trọng suốt nhiều năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T19:00:00+07:00",
+      "fetched": "2026-05-24T03:38:31.059448+07:00"
     },
     {
       "id": "36d27374ee8f63394a696384fcafd08f",
