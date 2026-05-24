@@ -1,7 +1,127 @@
 window.newsData_2026_05_24 = {
   "date": "2026-05-24",
-  "lastUpdated": "2026-05-24T21:54:45.293317+07:00",
+  "lastUpdated": "2026-05-24T23:52:29.481195+07:00",
   "articles": [
+    {
+      "id": "66515a609fba797e06292596f7d0385b",
+      "title": "Nhà vô địch Công An Hà Nội bị cầm hòa tại Hà Tĩnh",
+      "link": "https://tuoitre.vn/nha-vo-dich-cong-an-ha-noi-bi-cam-hoa-tai-ha-tinh-20260524204006533.htm",
+      "summary": "Sau khi vô địch sớm V-League 2025-2026 trước 3 vòng đấu, CLB Công An Hà Nội đã bị chủ nhà Hồng Lĩnh Hà Tĩnh cầm chân 1-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T23:52:21.226854+07:00",
+      "fetched": "2026-05-24T23:52:21.226967+07:00"
+    },
+    {
+      "id": "26228182f3c56ae579e9487cc768b8a0",
+      "title": "Vụ rò rỉ hóa chất quận Cam: Thống đốc California ban bố tình trạng khẩn cấp",
+      "link": "https://tuoitre.vn/vu-ro-ri-hoa-chat-quan-cam-thong-doc-california-ban-bo-tinh-trang-khan-cap-2026052420474235.htm",
+      "summary": "Giới chức quận Cam cho biết tình hình vụ rò rỉ hóa chất cực độc tại đây vẫn chưa có nhiều tiến triển, trong khi Thống đốc bang California đã phải ban bố tình trạng khẩn cấp ở quận Cam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T23:52:21.226727+07:00",
+      "fetched": "2026-05-24T23:52:21.226843+07:00"
+    },
+    {
+      "id": "99c454c799e475fba6bb5268a7533158",
+      "title": "Việt Cường sút hỏng 11m, Becamex TP.HCM sợ rớt hạng",
+      "link": "https://tuoitre.vn/viet-cuong-sut-hong-11m-becamex-tp-hcm-so-rot-hang-20260524205242183.htm",
+      "summary": "CLB Becamex TP.HCM chỉ còn cách đội đá play-off trụ hạng 1 điểm sau trận thua Sông Lam Nghệ An trên sân Bình Dương ở vòng 24 V-League 2025-2026 vào tối 24-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T23:52:21.226582+07:00",
+      "fetched": "2026-05-24T23:52:21.226714+07:00"
+    },
+    {
+      "id": "c0de2f5b2c6875fcb0aea3edbbadc4f7",
+      "title": "Dông lốc làm hơn 90 nhà dân ở Cà Mau hư hỏng",
+      "link": "https://tuoitre.vn/dong-loc-lam-hon-90-nha-dan-o-ca-mau-hu-hong-2026052420532931.htm",
+      "summary": "Mưa dông kèm lốc xoáy chiều 24-5 làm hơn 90 căn nhà tại nhiều địa phương ở Cà Mau bị sập, tốc mái; nhiều cây xanh, trụ điện ngã đổ, gây thiệt hại hàng tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T23:52:21.226458+07:00",
+      "fetched": "2026-05-24T23:52:21.226571+07:00"
+    },
+    {
+      "id": "71aa378c70c7038d44fb93f537618068",
+      "title": "Vụ nam sinh lớp 8 ở Lâm Đồng tự tử: Khởi tố 1 bạn học về tội cưỡng đoạt tài sản",
+      "link": "https://tuoitre.vn/vu-nam-sinh-lop-8-o-lam-dong-tu-tu-khoi-to-1-ban-hoc-ve-toi-cuong-doat-tai-san-20260524210307432.htm",
+      "summary": "Công an Lâm Đồng cho biết đã khởi tố bị can N.H.V. về tội 'cưỡng đoạt tài sản', liên quan vụ nam sinh lớp 8 ở Di Linh tự tử nghi do bạo lực học đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T23:52:21.226328+07:00",
+      "fetched": "2026-05-24T23:52:21.226446+07:00"
+    },
+    {
+      "id": "12b89cbb574d4408a2ef7e85ec8819db",
+      "title": "Quy Nhơn United chưa thể chạm vào tấm huy chương đồng",
+      "link": "https://tuoitre.vn/quy-nhon-united-chua-the-cham-vao-tam-huy-chuong-dong-20260524214254517.htm",
+      "summary": "Trận hòa 1-1 trên sân CLB Đại học Văn Hiến khiến Quy Nhơn United đánh mất cơ hội chạm một tay vào tấm huy chương đồng Giải hạng nhất quốc gia 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T23:52:21.226201+07:00",
+      "fetched": "2026-05-24T23:52:21.226316+07:00"
+    },
+    {
+      "id": "824ca648118c1da21142e9d2cbfd26cc",
+      "title": "Cảnh sát Thổ Nhĩ Kỳ xịt hơi cay, cưỡng chế trụ sở đảng đối lập",
+      "link": "https://tuoitre.vn/canh-sat-tho-nhi-ky-xit-hoi-cay-cuong-che-tru-so-dang-doi-lap-20260524214402673.htm",
+      "summary": "Đám đông ủng hộ hai chính khách lãnh đạo khác nhau của đảng đối lập lớn nhất Thổ Nhĩ Kỳ ẩu đả với nhau liên quan quyết định tòa án, buộc cảnh sát can thiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T23:52:21.226074+07:00",
+      "fetched": "2026-05-24T23:52:21.226189+07:00"
+    },
+    {
+      "id": "dd00513f89395ebdcfedac87868f236c",
+      "title": "Cuộc chiến không khoan nhượng giữa Xuân Son và Hoàng Hên",
+      "link": "https://tuoitre.vn/cuoc-chien-khong-khoan-nhuong-giua-xuan-son-va-hoang-hen-2026052421444484.htm",
+      "summary": "Hai tiền đạo nhập tịch đẳng cấp của đội tuyển Việt Nam có màn so tài nảy lửa trong trận CLB Hà Nội đấu Nam Định trên sân Hàng Đẫy tối 24-5, thuộc vòng 24 LPBank V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T23:52:21.225943+07:00",
+      "fetched": "2026-05-24T23:52:21.226062+07:00"
+    },
+    {
+      "id": "804e12490b6c926197a2f9fa8dd12557",
+      "title": "Lê Quang Liêm lên tiếng về 'tâm thư' của đồng đội Nguyễn Ngọc Trường Sơn",
+      "link": "https://tuoitre.vn/le-quang-liem-len-tieng-ve-tam-thu-cua-dong-doi-nguyen-ngoc-truong-son-20260524212747125.htm",
+      "summary": "Gần một ngày sau khi kỳ thủ Nguyễn Ngọc Trường Sơn đăng tải bài viết cá nhân vạch trần nhiều vấn đề của làng cờ vua Việt Nam, Lê Quang Liêm đã có những lời chia sẻ với người đồng đội thân thiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T23:52:21.225810+07:00",
+      "fetched": "2026-05-24T23:52:21.225931+07:00"
+    },
+    {
+      "id": "ef8aa7a5db308a3910500cd815da3521",
+      "title": "Ấn Độ nắng nóng khiến ít nhất 16 người tử vong",
+      "link": "https://tuoitre.vn/an-do-nang-nong-khien-it-nhat-16-nguoi-tu-vong-20260524213828053.htm",
+      "summary": "Giới chức Ấn Độ ngày 24-5 cho biết nắng nóng gay gắt đã khiến ít nhất 16 người tử vong do sốc nhiệt tại bang Telangana ở miền Nam kể từ đầu mùa hè năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T23:52:21.225647+07:00",
+      "fetched": "2026-05-24T23:52:21.225795+07:00"
+    },
+    {
+      "id": "3034583d365b2c8d11994adb72462daa",
+      "title": "Hy hữu ở Roland Garros 2026, tay vợt vội vã chạy khỏi sân vì 'Tào Tháo rượt'",
+      "link": "https://tuoitre.vn/hi-huu-o-roland-garros-2026-tay-vot-voi-va-chay-khoi-san-vi-tao-thao-ruot-2026052421553767.htm",
+      "summary": "Một khoảnh khắc vừa lạ lùng, vừa buồn cười đã xảy ra ở vòng đầu tiên của Giải quần vợt Pháp mở rộng (Roland Garros) 2026, khi tay vợt chủ nhà Arthur Gea xin trọng tài dừng trận đấu khẩn cấp để chạy vội vào nhà vệ sinh vì bị... 'Tào Tháo rượt'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T23:52:21.225499+07:00",
+      "fetched": "2026-05-24T23:52:21.225634+07:00"
+    },
+    {
+      "id": "1a2e3ea232da28978c34955932d44fb9",
+      "title": "Nga xác nhận dùng Oreshnik tấn công Ukraine",
+      "link": "https://tuoitre.vn/nga-xac-nhan-dung-oreshnik-tan-cong-ukraine-20260524221417892.htm",
+      "summary": "Bộ Quốc phòng Nga thông báo đã dùng tên lửa siêu vượt âm Oreshnik và nhiều loại tên lửa tối tân khác tấn công Ukraine trong đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T23:52:21.225250+07:00",
+      "fetched": "2026-05-24T23:52:21.225482+07:00"
+    },
     {
       "id": "4e9b4893fd7d29fc34b3ca1123c50e74",
       "title": "Đã nghiệm thu 20km đầu cao tốc Khánh Hòa - Buôn Ma Thuột, tuần tới đưa vào hoạt động",
@@ -493,6 +613,116 @@ window.newsData_2026_05_24 = {
       "fetched": "2026-05-24T16:47:40.445342+07:00"
     },
     {
+      "id": "65881d64b58d06750ad49ae1faa432df",
+      "title": "Hàng nghìn người rước tượng Phật trên đường TP HCM",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-ruoc-tuong-phat-tren-duong-tp-hcm-5077642.html",
+      "summary": "Hàng nghìn người, trong đó có nhiều nghệ sĩ nổi tiếng, tham gia rước tượng Đức Phật sơ sinh trên chặng đường 4 km từ chùa Ấn Quang đến Việt Nam Quốc Tự mừng lễ Phật đản, tối 24/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T15:55:09+07:00",
+      "fetched": "2026-05-24T23:52:16.339259+07:00"
+    },
+    {
+      "id": "91a0028e3b9a519f8b4afba86861c68c",
+      "title": "Brad Pitt không muốn cưới bạn gái kém 29 tuổi giữa lúc bị các con 'từ mặt'?",
+      "link": "https://thanhnien.vn/brad-pitt-khong-muon-cuoi-ban-gai-kem-29-tuoi-giua-luc-bi-cac-con-tu-mat-18526052419505088.htm",
+      "summary": "Brad Pitt chung sống hạnh phúc bên bạn gái Ines de Ramon. Tuy nhiên, nguồn tin thân cận tiết lộ tài tử đình đám Hollywood không còn muốn kết hôn thêm nữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T15:50:00+07:00",
+      "fetched": "2026-05-24T23:52:19.755048+07:00"
+    },
+    {
+      "id": "80f5ad2d73c8be08269210148ba44593",
+      "title": "Hoa hậu Jennifer Phạm tiết lộ hôn nhân viên mãn bên chồng đại gia",
+      "link": "https://thanhnien.vn/hoa-hau-jennifer-pham-tiet-lo-hon-nhan-vien-man-ben-chong-dai-gia-185260524190502777.htm",
+      "summary": "Hoa hậu Jennifer Phạm có tổ ấm viên mãn bên chồng và các con. Người đẹp tiết lộ doanh nhân Đức Hải vừa là người yêu, vừa là người bạn và là đồng minh sống sót qua những cơn thất thường của nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T15:43:00+07:00",
+      "fetched": "2026-05-24T23:52:19.755228+07:00"
+    },
+    {
+      "id": "fcd5c1c47bbcf826d784a464ef08639d",
+      "title": "Đại học Quốc gia Hà Nội và bài toán trở thành 'túi khôn'",
+      "link": "https://vnexpress.net/dai-hoc-quoc-gia-ha-noi-va-bai-toan-tro-thanh-tui-khon-5077431.html",
+      "summary": "Để trở thành \"túi khôn\", trụ cột học thuật dẫn dắt hệ thống, Đại học Quốc gia Hà Nội cần giải quyết bài toán tự chủ và được đầu tư đúng tầm, theo các chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T15:42:19+07:00",
+      "fetched": "2026-05-24T23:52:16.339446+07:00"
+    },
+    {
+      "id": "c7602def75af0e79dc654fa4ff276f39",
+      "title": "Đánh bại Cris Phan và Ngô Kiến Huy, streamer Độ Mixi vô địch giải bóng đá đặc biệt",
+      "link": "https://thanhnien.vn/danh-bai-cris-phan-va-ngo-kien-huy-streamer-do-mixi-vo-dich-giai-bong-da-dac-biet-185260524221924616.htm",
+      "summary": "Tối 24.5, đội Refund của streamer Độ Mixi chính thức vô địch FC Online Creator Championship, giải đấu dành cho các nhà sáng tạo nội dung, sau khi giành chiến thắng nghẹt thở trước All Stars FC.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T15:22:00+07:00",
+      "fetched": "2026-05-24T23:52:19.755391+07:00"
+    },
+    {
+      "id": "4ba5b457738ca80e78c0dc00bd1ee007",
+      "title": "Hà Tĩnh 1-1 Công an Hà Nội",
+      "link": "https://vnexpress.net/ha-tinh-1-1-cong-an-ha-noi-5077651.html",
+      "summary": "Nhà vô địch V-League 2025-2026 mở tỷ số ở phút bù thứ hai trận vòng 24 ngày 24/5, nhưng vẫn vuột chiến thắng trên sân Hà Tĩnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T15:19:58+07:00",
+      "fetched": "2026-05-24T23:52:16.339615+07:00"
+    },
+    {
+      "id": "b192cf62e6d35a4feb31f68cd8375ec4",
+      "title": "Hà Nội FC 2-1 Nam Định",
+      "link": "https://vnexpress.net/ha-noi-fc-2-1-nam-dinh-5077654.html",
+      "summary": "Đỗ Hoàng Hên đá phạt đền mở tỷ số, góp công giúp Hà Nội FC thắng Nam Định trên sân Hàng Đẫy ở vòng 24 V-League 2025-2026 tối 24/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T15:19:17+07:00",
+      "fetched": "2026-05-24T23:52:16.339812+07:00"
+    },
+    {
+      "id": "850fcb87ca8d55a35ba66cb18ed0d79e",
+      "title": "Becamex TP HCM 0-1 SLNA",
+      "link": "https://vnexpress.net/becamex-tp-hcm-0-1-slna-5077649.html",
+      "summary": "Bàn duy nhất của Hồ Văn Lượng giúp SLNA thắng trên sân Gò Đậu ở vòng 24 V-League 2025-2026 ngày 24/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T15:18:57+07:00",
+      "fetched": "2026-05-24T23:52:16.339975+07:00"
+    },
+    {
+      "id": "3a8d38cd622af5d0316d0cbc25a61d62",
+      "title": "Tiền Phong Golf Championship 2026 lan tỏa giá trị nhân văn",
+      "link": "https://thanhnien.vn/tien-phong-golf-championship-2026-lan-toa-gia-tri-nhan-van-18526052421551775.htm",
+      "summary": "Golfer Lưu Ngọc Sáng đã xuất sắc giành chức vô địch Tiền Phong Golf Championship - Non sông một dải lần 2 năm 2026 sau ngày tranh tài sôi nổi trên sân Long Thành Golf Club. Ngoài những màn so tài hấp dẫn, giải đấu này còn lan tỏa mạnh mẽ tinh thần cộng đồng, tri ân lịch sử và trách nhiệm xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T15:08:00+07:00",
+      "fetched": "2026-05-24T23:52:19.755548+07:00"
+    },
+    {
+      "id": "e90c0e89922b3e55a7f92ebddd167be0",
+      "title": "Highlight CLB Nam Định 1-2 Hà Nội: Hoàng Hên tỏa sáng",
+      "link": "https://thanhnien.vn/highlight-clb-nam-dinh-1-2-ha-noi-hoang-hen-toa-sang-185260524220249529.htm",
+      "summary": "Hoàng Hên tỏa sáng giúp Hà Nội thắng ngược 2-1 trên sân CLB Nam Định, qua đó giành 3 điểm quan trọng trong cuộc đua nhóm đầu V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T15:02:00+07:00",
+      "fetched": "2026-05-24T23:52:19.755723+07:00"
+    },
+    {
+      "id": "8c377d56d81008a25b4a21a908836d5c",
+      "title": "Mưa lớn ở Đà Lạt, bé gái bị lũ cuốn mất tích",
+      "link": "https://thanhnien.vn/mua-lon-o-da-lat-be-gai-bi-lu-cuon-mat-tich-185260524213220288.htm",
+      "summary": "Các lực lượng chức năng tỉnh Lâm Đồng vẫn chưa tìm thấy bé gái 13 tuổi bị nước lũ cuốn mất tích tại một con suối ở phường Lang Biang - Đà Lạt (Lâm Đồng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:56:00+07:00",
+      "fetched": "2026-05-24T23:52:19.755885+07:00"
+    },
+    {
       "id": "d45aba29a08b8829e94f384fd478d345",
       "title": "CAHN lỡ kỷ lục 20 trận thắng tại V-League",
       "link": "https://vnexpress.net/cahn-lo-ky-luc-20-tran-thang-tai-v-league-5077646.html",
@@ -501,6 +731,26 @@ window.newsData_2026_05_24 = {
       "category": "Thể thao",
       "published": "2026-05-24T14:51:49+07:00",
       "fetched": "2026-05-24T21:54:45.283628+07:00"
+    },
+    {
+      "id": "bbf0fbd56827e13e791018250564b0b2",
+      "title": "CAHN lỡ kỷ lục tại V-League",
+      "link": "https://vnexpress.net/cahn-lo-ky-luc-tai-v-league-5077646.html",
+      "summary": "Bị Hà Tĩnh gỡ hòa 1-1 ở phút bù thứ 7 hiệp hai tối 24/5, tân vương Công an Hà Nội lỡ cơ hội cân bằng kỷ lục 20 trận thắng tại V-League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:51:49+07:00",
+      "fetched": "2026-05-24T23:52:16.340135+07:00"
+    },
+    {
+      "id": "bbf0fbd56827e13e791018250564b0b2",
+      "title": "CAHN lỡ kỷ lục tại V-League",
+      "link": "https://vnexpress.net/cahn-lo-ky-luc-tai-v-league-5077646.html",
+      "summary": "Bị Hà Tĩnh gỡ hòa 1-1 ở phút bù thứ 7 hiệp hai tối 24/5, tân vương Công an Hà Nội lỡ cơ hội cân bằng kỷ lục 20 trận thắng tại V-League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-24T14:51:49+07:00",
+      "fetched": "2026-05-24T23:52:29.469793+07:00"
     },
     {
       "id": "330628d33b45cf4e0a2b4acb2fa0c548",
@@ -561,6 +811,16 @@ window.newsData_2026_05_24 = {
       "category": "Thể thao",
       "published": "2026-05-24T14:20:24+07:00",
       "fetched": "2026-05-24T21:54:45.282822+07:00"
+    },
+    {
+      "id": "cab25c0c7c40ae521b67de9e567e275c",
+      "title": "Cảnh sát điều tra thi thể người đàn ông trong ôtô ở đồi Thiên An",
+      "link": "https://vnexpress.net/canh-sat-dieu-tra-thi-the-nguoi-dan-ong-trong-oto-o-doi-thien-an-5077639.html",
+      "summary": "Người đàn ông được phát hiện tử vong trong ôtô Land Cruiser đỗ ven đường ở khu vực đồi Thiên An, phường Thủy Xuân, sau nhiều ngày chiếc xe nằm bất động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:17:03+07:00",
+      "fetched": "2026-05-24T23:52:16.340408+07:00"
     },
     {
       "id": "11ff1480a3a2059943fa89beaff6030b",
