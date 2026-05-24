@@ -1,7 +1,127 @@
 window.newsData_2026_05_24 = {
   "date": "2026-05-24",
-  "lastUpdated": "2026-05-24T18:07:29.095940+07:00",
+  "lastUpdated": "2026-05-24T20:00:44.123412+07:00",
   "articles": [
+    {
+      "id": "da88dc1f7b5a63ced029b112b13da78a",
+      "title": "Giám đốc sở của TP.HCM được chọn người giỏi vào công chức, không thi tuyển: Luật cần sớm phân quyền!",
+      "link": "https://tuoitre.vn/giam-doc-so-cua-tp-hcm-duoc-chon-nguoi-gioi-vao-cong-chuc-khong-thi-tuyen-luat-can-som-phan-quyen-20260523200302668.htm",
+      "summary": "TP.HCM cần bổ sung quy định để đưa nhanh vào bộ máy công chức, viên chức từ nguồn nhân lực giỏi ngoài nhà nước, đáp ứng yêu cầu phát triển trong giai đoạn mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T20:00:35.186984+07:00",
+      "fetched": "2026-05-24T20:00:35.187073+07:00"
+    },
+    {
+      "id": "0c162dbf30c85c60854c7116a3985bfb",
+      "title": "Khánh Hòa lập đội phản ứng nhanh tại cửa khẩu để phòng chống bệnh do vi rút Ebola",
+      "link": "https://tuoitre.vn/khanh-hoa-lap-doi-phan-ung-nhanh-tai-cua-khau-de-phong-chong-benh-do-vi-rut-ebola-20260524165549325.htm",
+      "summary": "Với đặc thù là địa bàn du lịch thu hút hàng triệu khách quốc tế mỗi năm, tỉnh Khánh Hòa đã xây dựng các kịch bản phòng chống bệnh do vi rút Ebola để không bị động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T20:00:35.186879+07:00",
+      "fetched": "2026-05-24T20:00:35.186973+07:00"
+    },
+    {
+      "id": "9c266dfe1d1fbafa0b329656acd1dcbb",
+      "title": "Perfect Crown xóa cảnh xuyên tạc lịch sử khi dư luận đòi gỡ phim",
+      "link": "https://tuoitre.vn/perfect-crown-xoa-canh-xuyen-tac-lich-su-khi-du-luan-doi-go-phim-20260524171651773.htm",
+      "summary": "Đội ngũ sản xuất Perfect Crown thậm chí đưa ra biện pháp mạnh tay khi xóa hẳn đoạn kết gây tranh cãi xuyên tạc lịch sử. Liệu động thái này có đủ xoa dịu sự phẫn nộ của dư luận?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T20:00:35.186781+07:00",
+      "fetched": "2026-05-24T20:00:35.186870+07:00"
+    },
+    {
+      "id": "9b47dc7e386f65b49b4990850b0d6508",
+      "title": "12 ý tưởng thiết kế ban công nhỏ cho căn hộ",
+      "link": "https://tuoitre.vn/12-y-tuong-thiet-ke-ban-cong-nho-cho-can-ho-20260524170327498.htm",
+      "summary": "Bạn đang băn khoăn cho việc thiết kế ban công căn hộ của mình? Thử tham khảo các ý tưởng thiết kế ban công nhỏ giúp tối đa hóa sự thoải mái và tiện ích cho không gian sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T20:00:35.186661+07:00",
+      "fetched": "2026-05-24T20:00:35.186771+07:00"
+    },
+    {
+      "id": "307211c19a1e0b17f89c039b2d0b0bdf",
+      "title": "Vụ đường 20 tỉ nát bươm sau vài tháng: Nhà thầu nói gì?",
+      "link": "https://tuoitre.vn/vu-duong-20-ti-nat-buom-sau-vai-thang-nha-thau-noi-gi-20260524165738619.htm",
+      "summary": "Nhiều bạn đọc bức xúc phản hồi về trách nhiệm nhà thầu, chủ đầu tư dự án. Đại diện liên danh nhà thầu đã có giải thích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T20:00:35.186564+07:00",
+      "fetched": "2026-05-24T20:00:35.186652+07:00"
+    },
+    {
+      "id": "acdfdb0225a61ba6d7e335eb2333079e",
+      "title": "Kè cửa biển Tuy Hòa tan nát nhiều năm, dự án sửa chữa đã có nhưng... chưa có vốn",
+      "link": "https://tuoitre.vn/ke-cua-bien-tuy-hoa-tan-nat-nhieu-nam-du-an-sua-chua-da-co-nhung-chua-co-von-20260524170252726.htm",
+      "summary": "Tuyến kè Bạch Đằng, phường Tuy Hòa, Đắk Lắk (trước là Phú Yên) xuống cấp nghiêm trọng, nhưng dự án sửa chữa vẫn chưa thể triển khai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T20:00:35.186465+07:00",
+      "fetched": "2026-05-24T20:00:35.186555+07:00"
+    },
+    {
+      "id": "dd49deeeea0aaf5ca19ca779868c7ee7",
+      "title": "Chương trình tiếng Anh tăng cường ở TP.HCM: 28 năm từ một ý tưởng tiên phong",
+      "link": "https://tuoitre.vn/chuong-trinh-tieng-anh-tang-cuong-o-tp-hcm-28-nam-tu-mot-y-tuong-tien-phong-20260524164250821.htm",
+      "summary": "Sáng 24-5, Sở Giáo dục và Đào tạo TP.HCM phối hợp với nhóm nhà giáo thân hữu ông Trương Song Đức tổ chức lễ kỷ niệm 28 năm chương trình tiếng Anh tăng cường và 26 năm thành lập Trường THPT chuyên Trần Đại Nghĩa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T20:00:35.186364+07:00",
+      "fetched": "2026-05-24T20:00:35.186456+07:00"
+    },
+    {
+      "id": "6c24ae22d51636562af4599cb75469ca",
+      "title": "Quan hệ tình dục lần đầu ‘trẻ hóa’: Bộ Y tế đề xuất 100% trường học dạy giáo dục giới tính",
+      "link": "https://tuoitre.vn/quan-he-tinh-duc-lan-dau-tre-hoa-bo-y-te-de-xuat-100-truong-hoc-day-giao-duc-gioi-tinh-20260524120742186.htm",
+      "summary": "Tuổi quan hệ tình dục lần đầu trung bình của thanh thiếu niên Việt Nam là 18,7 tuổi. Bộ Y tế đánh giá xu hướng 'trẻ hóa' trong quan hệ tình dục đang ngày càng rõ rệt, trong khi đó mức độ an toàn tình dục vẫn còn thấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T20:00:35.186260+07:00",
+      "fetched": "2026-05-24T20:00:35.186355+07:00"
+    },
+    {
+      "id": "59832808f821c94961cf9e0ebd55e69d",
+      "title": "Sinh viên hào hứng 'review' những bộ phim Việt nổi tiếng bằng tiếng Đức",
+      "link": "https://tuoitre.vn/sinh-vien-hao-hung-review-nhung-bo-phim-viet-noi-tieng-bang-tieng-duc-20260524163739819.htm",
+      "summary": "Ngày 24-5, Trường đại học Khoa học xã hội và Nhân văn (Đại học Quốc gia TP.HCM) cùng Viện Goethe TP.HCM, Cơ quan trao đổi Hàn lâm Đức DAAD phối hợp tổ chức Ngày hội tiếng Đức 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T20:00:35.186153+07:00",
+      "fetched": "2026-05-24T20:00:35.186251+07:00"
+    },
+    {
+      "id": "0c206aa57ba84437bd2040d0cb11d0a5",
+      "title": "Hội thao lan tỏa tinh thần tập thể dục, thể thao tới hơn 155.000 đoàn viên",
+      "link": "https://tuoitre.vn/hoi-thao-lan-toa-tinh-than-tap-the-duc-the-thao-toi-hon-155-000-doan-vien-20260524164736208.htm",
+      "summary": "Ngày 24-5, Liên đoàn Lao động tỉnh Thái Nguyên và Sở Văn hóa, Thể thao và Du lịch tỉnh Thái Nguyên tổ chức khai mạc Hội thao công nhân viên chức lao động tỉnh năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T20:00:35.186038+07:00",
+      "fetched": "2026-05-24T20:00:35.186144+07:00"
+    },
+    {
+      "id": "4717fdb48db0dd0addddea38572579f9",
+      "title": "Thái Lan bị xử thua Malaysia vì tranh cãi... quá lâu ở chung kết World Cup cầu mây",
+      "link": "https://tuoitre.vn/thai-lan-bi-xu-thua-malaysia-vi-tranh-cai-qua-lau-o-chung-ket-world-cup-cau-may-20260524182912652.htm",
+      "summary": "Xì-căng-đan xuất hiện ở chung kết nội dung đồng đội nam giữa Thái Lan và chủ nhà Malaysia, trong ngày thi đấu cuối cùng của World Cup Cầu mây thế giới 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T20:00:35.185913+07:00",
+      "fetched": "2026-05-24T20:00:35.186027+07:00"
+    },
+    {
+      "id": "514bc526556f99e4f256d1f3c94d0a4a",
+      "title": "Ông bà, cha mẹ và bạn trẻ cùng bước vào sân chơi 'đầu bạc' của gắn kết và sẻ chia",
+      "link": "https://tuoitre.vn/ong-ba-cha-me-va-ban-tre-cung-buoc-vao-san-choi-dau-bac-cua-gan-ket-va-se-chia-20260524131903894.htm",
+      "summary": "Ngày cuối tuần, người lớn tuổi cùng gia đình có nhiều hoạt động trải nghiệm từ trò chơi, workshop nghệ thuật đến các hoạt động chăm sóc tâm - thân - trí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T20:00:35.185661+07:00",
+      "fetched": "2026-05-24T20:00:35.185898+07:00"
+    },
     {
       "id": "39dcd7a2ee6fbd6d91438e3f8989a70b",
       "title": "Hà Nội rào chắn loạt phố trung tâm thi công chống ngập, dân mong sớm có mặt đường êm",
@@ -403,6 +523,296 @@ window.newsData_2026_05_24 = {
       "fetched": "2026-05-24T13:53:42.734344+07:00"
     },
     {
+      "id": "f51e012ef35fe9b3b82094bfd37ee6f0",
+      "title": "Xem nhanh 20h ngày 24.5: Thí sinh nói đề toán đánh giá năng lực khó | Liên đoàn Cờ VN bị nghi sai phạm tài chính",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-245-thi-sinh-noi-de-toan-danh-gia-nang-luc-kho-lien-doan-co-vn-bi-nghi-sai-pham-tai-chinh-185260524195837517.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 24.5 có nhiều tin tức đáng chú ý về: Nhiều thí sinh sốc với độ khó môn toán đề thi đánh giá năng lực đợt 2; Liên đoàn Cờ Việt Nam giải trình vụ FIDE nghi có sai phạm tài chính;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T13:00:00+07:00",
+      "fetched": "2026-05-24T20:00:34.097088+07:00"
+    },
+    {
+      "id": "9e92f1ec3eae98365534c454a39378e9",
+      "title": "Căng thẳng kéo dài ảnh hưởng tới sức khỏe như thế nào?",
+      "link": "https://thanhnien.vn/cang-thang-keo-dai-anh-huong-toi-suc-khoe-nhu-the-nao-185260521104106737.htm",
+      "summary": "Căng thẳng đang trở thành một phần quen thuộc trong cuộc sống hiện đại, từ áp lực công việc đến những biến cố cá nhân. Theo trang sức khỏe uy tín WebMD, nếu không được kiểm soát, stress không chỉ ảnh hưởng tinh thần mà còn gây ra hàng loạt vấn đề nghiêm trọng về thể chất, từ mất ngủ đến bệnh tim mạc...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T13:00:00+07:00",
+      "fetched": "2026-05-24T20:00:34.097239+07:00"
+    },
+    {
+      "id": "438bb444b785bd2e00d24e22977b9058",
+      "title": "Kịch bản khiến Tottenham xuống hạng vòng cuối Ngoại hạng Anh",
+      "link": "https://thanhnien.vn/kich-ban-khien-tottenham-xuong-hang-vong-cuoi-ngoai-hang-anh-185260524193310497.htm",
+      "summary": "Tottenham đang trải qua mùa giải đáng quên nhất nhiều năm qua. Từ đội bóng từng vô địch châu Âu mùa trước, Spurs giờ phải bước vào vòng cuối Ngoại hạng Anh để chiến đấu cho suất trụ hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:48:00+07:00",
+      "fetched": "2026-05-24T20:00:34.097369+07:00"
+    },
+    {
+      "id": "0a6f6db9497f1616583717b6980d8861",
+      "title": "Đề thi đánh giá năng lực đợt 2: Tiếng Việt đánh đố, toán nặng tư duy khiến thí sinh 'lụi' đáp án nhiều",
+      "link": "https://thanhnien.vn/de-thi-danh-gia-nang-luc-dot-2-tieng-viet-danh-do-toan-nang-tu-duy-khien-thi-sinh-lui-dap-an-nhieu-185260524191048208.htm",
+      "summary": "Sau 150 phút làm bài tại kỳ thi Đánh giá năng lực đợt 2 của ĐH Quốc gia TP.HCM vào sáng ngày 24.5, nhiều thí sinh nhận xét đề không quá khó như dự đoán. Tuy nhiên, môn toán đặc biệt nặng về tư duy và đề tiếng Việt khá dài lại gây trở ngại cho không ít sĩ tử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:48:00+07:00",
+      "fetched": "2026-05-24T20:00:34.097495+07:00"
+    },
+    {
+      "id": "8c62cf6a53345de90a1c3fbccdebab1c",
+      "title": "Billiards: Thiên tài Caudron tung sê-ri 'khủng', vô địch World Cup TP.HCM",
+      "link": "https://thanhnien.vn/billiards-thien-tai-caudron-tung-se-ri-khung-vo-dich-world-cup-tphcm-185260524193406938.htm",
+      "summary": "Thiên tài Frederic Caudron đã thi đấu quá thăng hoa trong trận chung kết để đánh bại Chiêm Hồng Thái, qua đó giành chức vô địch World Cup billiards TP.HCM 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:44:00+07:00",
+      "fetched": "2026-05-24T20:00:34.097620+07:00"
+    },
+    {
+      "id": "26f6752dad38c4ccb95bab61a513edfa",
+      "title": "Xuất hiện 1 người trúng độc đắc 36,1 tỉ đồng vé số Vietlott Mega 6/45 tối 24.5",
+      "link": "https://thanhnien.vn/xuat-hien-1-nguoi-trung-doc-dac-361-ti-dong-ve-so-vietlott-mega-6-45-toi-245-185260524190811337.htm",
+      "summary": "Tối 24.5, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và ghi nhận có 1 người trúng giải độc đắc với số tiền cộng dồn là 36,1 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:41:00+07:00",
+      "fetched": "2026-05-24T20:00:34.097760+07:00"
+    },
+    {
+      "id": "7d081466fb361a0613f99c954d673b07",
+      "title": "Ukraine để lọt hàng chục tên lửa trong đòn tập kích của Nga",
+      "link": "https://vnexpress.net/ukraine-de-lot-hang-chuc-ten-lua-trong-don-tap-kich-cua-nga-5077619.html",
+      "summary": "Ukraine tuyên bố chặn thành công 55 tên lửa và 549 UAV trong đòn tấn công của Nga, nhưng để lọt nhiều tên lửa siêu vượt âm và Iskander-M.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:37:26+07:00",
+      "fetched": "2026-05-24T20:00:30.797320+07:00"
+    },
+    {
+      "id": "7d081466fb361a0613f99c954d673b07",
+      "title": "Ukraine để lọt hàng chục tên lửa trong đòn tập kích của Nga",
+      "link": "https://vnexpress.net/ukraine-de-lot-hang-chuc-ten-lua-trong-don-tap-kich-cua-nga-5077619.html",
+      "summary": "Ukraine tuyên bố chặn thành công 55 tên lửa và 549 UAV trong đòn tấn công của Nga, nhưng để lọt nhiều tên lửa siêu vượt âm và Iskander-M.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-24T12:37:26+07:00",
+      "fetched": "2026-05-24T20:00:37.359924+07:00"
+    },
+    {
+      "id": "4d718b9b5231a62a2415a3a3ebe59214",
+      "title": "Đánh bom tàu hỏa ở Pakistan khiến ít nhất 24 người chết",
+      "link": "https://vnexpress.net/danh-bom-tau-hoa-o-pakistan-khien-it-nhat-24-nguoi-chet-5077626.html",
+      "summary": "Một ôtô chở chất nổ lao vào tàu hỏa chở binh sĩ cùng gia đình, gây vụ nổ lớn làm đoàn tàu lật nghiêng, khiến ít nhất 24 người chết và hơn 50 người bị thương, ngày 24/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:33:32+07:00",
+      "fetched": "2026-05-24T20:00:30.797480+07:00"
+    },
+    {
+      "id": "2318484708fb677a1fbeb276afe21476",
+      "title": "'Vùng đau đáu' | Phim ngắn Vietnamese 2026",
+      "link": "https://thanhnien.vn/vung-dau-dau-phim-ngan-vietnamese-2026-185260524141019181.htm",
+      "summary": "Phim ngắn 'Vùng đau đáu' là tác phẩm tham dự cuộc thi phim ngắn Vietnamese 2026. Cuộc thi do Báo Thanh Niên phối hợp cùng Hiệp hội Xúc tiến phát triển điện ảnh Việt Nam tổ chức với sự đồng hành của Sở Du lịch TP.HCM, Sở Văn hóa - Thể thao TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:30:00+07:00",
+      "fetched": "2026-05-24T20:00:34.097885+07:00"
+    },
+    {
+      "id": "c636c4437a800bc2430d10eedaeb5b82",
+      "title": "Một tiệm spa bất ngờ bị đổ sập ở Đắk Lắk",
+      "link": "https://thanhnien.vn/mot-tiem-spa-bat-ngo-bi-do-sap-o-dak-lak-185260524185905801.htm",
+      "summary": "Một tiệm spa ở xã Liên Sơn Lắk (Đắk Lắk) bất ngờ bị đổ sập, cơ quan chức năng đang làm rõ nguyên nhân vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:27:00+07:00",
+      "fetched": "2026-05-24T20:00:34.098000+07:00"
+    },
+    {
+      "id": "dd3a417182b195fed01aedceb571caf7",
+      "title": "Petrolimex hướng dẫn thế nào với xe đang còn xăng cũ, phải đổ xăng mới E10?",
+      "link": "https://thanhnien.vn/petrolimex-huong-dan-the-nao-voi-xe-dang-con-xang-cu-phai-do-xang-moi-e10-185260524185718567.htm",
+      "summary": "Xe còn xăng cũ, có cần xả sạch bình trước khi chuyển sang đổ xăng E10? Câu trả lời từ các hãng xe và chuyên gia kỹ thuật là hoàn toàn không cần thiết đối với phần lớn ô tô, xe máy đời mới hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:20:00+07:00",
+      "fetched": "2026-05-24T20:00:34.098117+07:00"
+    },
+    {
+      "id": "3c923de0e3d6d449048f9f6ed5f8db9e",
+      "title": "Căng thẳng cung ứng điện, có thể áp dụng khung giờ cao điểm tối từ tháng 6",
+      "link": "https://thanhnien.vn/cang-thang-cung-ung-dien-co-the-ap-dung-khung-gio-cao-diem-toi-tu-thang-6-185260524165459206.htm",
+      "summary": "Dự báo nhu cầu tiêu thụ điện tuần tới tăng cao, Công ty Vận hành hệ thống điện và thị trường điện quốc gia (NSMO) vừa có đề xuất áp dụng khung giờ cao điểm, thấp điểm và bình thường mới ngay trong tháng 6 tới nhằm điều tiết nhu cầu sử dụng điện khỏi giờ cao điểm từ 17 giờ 30 đến 22 giờ 30 phút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:20:00+07:00",
+      "fetched": "2026-05-24T20:00:34.098238+07:00"
+    },
+    {
+      "id": "482df80d49a02bb1eb2149d30cdb28b5",
+      "title": "Doanh nghiệp vừa và nhỏ có thể vay vốn bằng tài sản ảo",
+      "link": "https://vnexpress.net/doanh-nghiep-vua-va-nho-co-the-vay-von-bang-tai-san-ao-5077600.html",
+      "summary": "Doanh nghiệp nhỏ và vừa có thể vay vốn bằng tài sản số, tài sản ảo, quyền sở hữu trí tuệ thay vì chủ yếu thế chấp bất động sản như hiện nay, theo đề xuất của Bộ Tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:15:00+07:00",
+      "fetched": "2026-05-24T20:00:30.797626+07:00"
+    },
+    {
+      "id": "17952723cbb6861100ae193c64e1430b",
+      "title": "Các tác hại cho mắt khi ngồi trước máy tính cả ngày",
+      "link": "https://thanhnien.vn/cac-tac-hai-cho-mat-khi-ngoi-truoc-may-tinh-ca-ngay-18526051909191113.htm",
+      "summary": "Tác hại của màn hình có gây hỏng mắt vĩnh viễn với người lớn hay không, trẻ em đối mặt với những rủi ro nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:15:00+07:00",
+      "fetched": "2026-05-24T20:00:34.098352+07:00"
+    },
+    {
+      "id": "482df80d49a02bb1eb2149d30cdb28b5",
+      "title": "Doanh nghiệp vừa và nhỏ có thể vay vốn bằng tài sản ảo",
+      "link": "https://vnexpress.net/doanh-nghiep-vua-va-nho-co-the-vay-von-bang-tai-san-ao-5077600.html",
+      "summary": "Doanh nghiệp nhỏ và vừa có thể vay vốn bằng tài sản số, tài sản ảo, quyền sở hữu trí tuệ thay vì chủ yếu thế chấp bất động sản như hiện nay, theo đề xuất của Bộ Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-24T12:15:00+07:00",
+      "fetched": "2026-05-24T20:00:39.361140+07:00"
+    },
+    {
+      "id": "198f0b89bc2237494d38ceaf584df995",
+      "title": "Công đoàn Ngân hàng Việt Nam đã lên ngôi vô địch vòng loại khu vực phía bắc",
+      "link": "https://thanhnien.vn/cong-doan-ngan-hang-viet-nam-da-len-ngoi-vo-dich-vong-loai-khu-vuc-phia-bac-185260524190443319.htm",
+      "summary": "Với chiến thắng cách biệt 4-0 trước đội Công đoàn Quảng Ninh, Công đoàn Ngân hàng Việt Nam đã lên ngôi vô địch vòng loại khu vực phía bắc giải bóng đá công nhân, viên chức Việt Nam 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:13:00+07:00",
+      "fetched": "2026-05-24T20:00:34.098470+07:00"
+    },
+    {
+      "id": "3d160873a49c22b558375f2a26b45e76",
+      "title": "Nhà mạng hỗ trợ xác thực thông tin thuê bao di động tại nhà",
+      "link": "https://thanhnien.vn/nha-mang-ho-tro-xac-thuc-thong-tin-thue-bao-di-dong-tai-nha-185260524150039905.htm",
+      "summary": "Các nhà mạng vẫn đang hỗ trợ khách hàng xác thực thông tin thuê bao di động trước khi bị ngưng dịch vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:13:00+07:00",
+      "fetched": "2026-05-24T20:00:34.098589+07:00"
+    },
+    {
+      "id": "ceb2374e3a35943c652790e1c1a7c409",
+      "title": "Ý tưởng iPhone 20 màn hình tràn viền",
+      "link": "https://vnexpress.net/y-tuong-iphone-20-man-hinh-tran-vien-5077625.html",
+      "summary": "Apple có thể bỏ qua iPhone 19 để ra mắt iPhone 20 năm 2027 với màn hình cong, tràn viền bốn cạnh cùng hệ thống Face ID dưới màn hình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:04:07+07:00",
+      "fetched": "2026-05-24T20:00:30.797788+07:00"
+    },
+    {
+      "id": "ceb2374e3a35943c652790e1c1a7c409",
+      "title": "Ý tưởng iPhone 20 màn hình tràn viền",
+      "link": "https://vnexpress.net/y-tuong-iphone-20-man-hinh-tran-vien-5077625.html",
+      "summary": "Apple có thể bỏ qua iPhone 19 để ra mắt iPhone 20 năm 2027 với màn hình cong, tràn viền bốn cạnh cùng hệ thống Face ID dưới màn hình.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-24T12:04:07+07:00",
+      "fetched": "2026-05-24T20:00:42.782961+07:00"
+    },
+    {
+      "id": "d6ad5516b405354b56144ada4ad8e312",
+      "title": "Tottenham mấp mé bờ vực xuống hạng: Chỉ 1 cú sẩy chân là thảm họa",
+      "link": "https://thanhnien.vn/tottenham-map-me-bo-vuc-xuong-hang-chi-1-cu-say-chan-la-tham-hoa-185260524184533942.htm",
+      "summary": "Ngoại hạng Anh mùa này chuẩn bị khép lại bằng một trong những cú sốc lớn nhất nhiều năm qua. Tottenham - đội bóng từng nâng cúp châu Âu mùa trước - giờ phải căng mình chiến đấu để tồn tại ở hạng đấu cao nhất nước Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:03:00+07:00",
+      "fetched": "2026-05-24T20:00:34.098733+07:00"
+    },
+    {
+      "id": "e491c267e9379d20ae412f5ac1a796ed",
+      "title": "Đan Trường: 'Tôi giữ mình trước cám dỗ'",
+      "link": "https://vnexpress.net/dan-truong-toi-giu-minh-truoc-cam-do-5077539.html",
+      "summary": "Trong 30 năm ca hát, Đan Trường nói thường xuyên đối mặt cám dỗ nhưng kiên quyết từ chối để giữ lối sống sạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:00:00+07:00",
+      "fetched": "2026-05-24T20:00:30.797925+07:00"
+    },
+    {
+      "id": "58ba4d9e870393cff8789c3b82aa946f",
+      "title": "Nông dân Mỹ liên tiếp hứng chịu ba đòn giáng",
+      "link": "https://vnexpress.net/nong-dan-my-lien-tiep-hung-chiu-ba-don-giang-5076333.html",
+      "summary": "Nông dân Mỹ chật vật đối phó với hệ quả từ chính sách thuế của ông Trump, rồi lại đối mặt chi phí nhiên liệu, phân bón tăng vì chiến sự Iran và hạn hán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:00:00+07:00",
+      "fetched": "2026-05-24T20:00:30.798064+07:00"
+    },
+    {
+      "id": "27f4de714b5d8f0de0ada87e8ef98c25",
+      "title": "Có cần thiết xét nghiệm kháng thể sau tiêm ngừa viêm gan B?",
+      "link": "https://vnexpress.net/co-can-thiet-xet-nghiem-khang-the-sau-tiem-ngua-viem-gan-b-5077367.html",
+      "summary": "Tôi vừa tiêm xong ba mũi vaccine viêm gan B, có cần xét nghiệm để biết cơ thể có sinh kháng thể phòng bệnh không? (Phước Hải, 28 tuổi, Đà Nẵng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T12:00:00+07:00",
+      "fetched": "2026-05-24T20:00:30.798190+07:00"
+    },
+    {
+      "id": "58ba4d9e870393cff8789c3b82aa946f",
+      "title": "Nông dân Mỹ liên tiếp hứng chịu ba đòn giáng",
+      "link": "https://vnexpress.net/nong-dan-my-lien-tiep-hung-chiu-ba-don-giang-5076333.html",
+      "summary": "Nông dân Mỹ chật vật đối phó với hệ quả từ chính sách thuế của ông Trump, rồi lại đối mặt chi phí nhiên liệu, phân bón tăng vì chiến sự Iran và hạn hán.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-24T12:00:00+07:00",
+      "fetched": "2026-05-24T20:00:37.360079+07:00"
+    },
+    {
+      "id": "9a144b4867d9c32628048c2a082289e6",
+      "title": "Tránh để hộ chiếu trong hành lý xách tay",
+      "link": "https://vnexpress.net/tranh-de-ho-chieu-trong-hanh-ly-xach-tay-5077509.html",
+      "summary": "Nhiều chuyên gia du lịch khuyên hành khách luôn cất hộ chiếu trong túi cá nhân đeo trên người thay vì để ở hành lý xách tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T11:59:48+07:00",
+      "fetched": "2026-05-24T20:00:30.798313+07:00"
+    },
+    {
+      "id": "72fc8e6cc241a815ff94815a8c73f7d9",
+      "title": "Bộ Y tế báo cáo khẩn về dịch bệnh Ebola",
+      "link": "https://thanhnien.vn/bo-y-te-bao-cao-khan-ve-dich-benh-ebola-185260524175250743.htm",
+      "summary": "Bộ Y tế vừa có báo cáo gửi Văn phòng Trung ương Đảng về tình hình dịch bệnh do vi rút Ebola.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T11:58:00+07:00",
+      "fetched": "2026-05-24T20:00:34.098858+07:00"
+    },
+    {
+      "id": "10ff8dcbebdecaa14f416b5484850205",
+      "title": "Nút giao kết nối cao tốc TP HCM - Dầu Giây với Biên Hòa - Vũng Tàu thông xe",
+      "link": "https://vnexpress.net/nut-giao-ket-noi-cao-toc-tp-hcm-dau-giay-voi-bien-hoa-vung-tau-thong-xe-5077623.html",
+      "summary": "Một phần đường T2 chính thức thông với cao tốc TP HCM - Long Thành - Dầu Giây giúp kết nối tuyến Biên Hòa - Vũng Tàu, tài xế không phải chạy vòng 18 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T11:54:28+07:00",
+      "fetched": "2026-05-24T20:00:30.798442+07:00"
+    },
+    {
+      "id": "947d1f10f83bcfb3f366735305f26726",
+      "title": "Du khách đổ về Mộc Châu hái mận chín cây",
+      "link": "https://vnexpress.net/du-khach-do-ve-moc-chau-hai-man-chin-cay-5077578.html",
+      "summary": "Du khách tập trung đến thung lũng Nà Ka, Mộc Châu tham quan và trải nghiệm lễ hội hái mận khi các nhà vườn bước vào chính vụ thu hoạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T11:06:48+07:00",
+      "fetched": "2026-05-24T20:00:30.798563+07:00"
+    },
+    {
       "id": "6bc4ce94777ae31c6d7608d98086a2ae",
       "title": "Địa chấn tại giải pickleball các CLB quốc gia 2026 tranh cúp Donex: Trương Vinh Hiển 'sẩy chân'",
       "link": "https://thanhnien.vn/dia-chan-tai-giai-pickleball-cac-clb-quoc-gia-2026-tranh-cup-donex-truong-vinh-hien-say-chan-185260524180223473.htm",
@@ -413,6 +823,16 @@ window.newsData_2026_05_24 = {
       "fetched": "2026-05-24T18:07:22.918613+07:00"
     },
     {
+      "id": "ae131920b1919e59a84e109709ffe67d",
+      "title": "Đạo diễn 'Cảm ơn người đã thức cùng tôi' hạnh phúc khi truyền cảm hứng",
+      "link": "https://vnexpress.net/dao-dien-cam-on-nguoi-da-thuc-cung-toi-hanh-phuc-khi-truyen-cam-hung-5077570.html",
+      "summary": "Đạo diễn \"Cảm ơn người đã thức cùng tôi\" Chung Chí Công nói xúc động khi phim tạo cảm hứng cho người trẻ theo đuổi ước mơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T11:00:02+07:00",
+      "fetched": "2026-05-24T20:00:30.798684+07:00"
+    },
+    {
       "id": "43e3c5a382ba1e2918889594c02f8b08",
       "title": "NSƯT Vũ Luân tiết lộ cuộc sống từ khi làm cha ở tuổi 53",
       "link": "https://thanhnien.vn/nsut-vu-luan-tiet-lo-cuoc-song-tu-khi-lam-cha-o-tuoi-53-18526052416481336.htm",
@@ -421,6 +841,16 @@ window.newsData_2026_05_24 = {
       "category": "Tổng hợp",
       "published": "2026-05-24T11:00:00+07:00",
       "fetched": "2026-05-24T18:07:22.918777+07:00"
+    },
+    {
+      "id": "d32a10cb6ed8d98e323856ca4552772d",
+      "title": "Ở tuổi 40, tôi từ chức quản lý để làm công việc 19 triệu đồng",
+      "link": "https://vnexpress.net/o-tuoi-40-toi-tu-chuc-quan-ly-de-lam-cong-viec-19-trieu-dong-5077598.html",
+      "summary": "Mức lương cơ bản của tôi là 25 triệu nhưng phải hay tăng ca và làm đêm, tổng thu nhập đâu đó khoảng 40 triệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T11:00:00+07:00",
+      "fetched": "2026-05-24T20:00:30.798821+07:00"
     },
     {
       "id": "7db44d444232238639f08454c15d3836",
