@@ -1,7 +1,157 @@
 window.newsData_2026_05_24 = {
   "date": "2026-05-24",
-  "lastUpdated": "2026-05-24T05:42:25.769413+07:00",
+  "lastUpdated": "2026-05-24T09:13:59.636562+07:00",
   "articles": [
+    {
+      "id": "d72b7059186385d067c6647a0bb9a238",
+      "title": "52Hz độc lạ ra sao mà được Noo Phước Thịnh mời vào EP mới?",
+      "link": "https://tuoitre.vn/52hz-doc-la-ra-sao-ma-duoc-noo-phuoc-thinh-moi-vao-ep-moi-20260523224918121.htm",
+      "summary": "Sau nhiều ngày 'thả hint' trên mạng xã hội, Noo Phước Thịnh tiết lộ sẽ kết hợp cùng nữ ca sĩ gen Z 52Hz trong EP Nhấc máy, dự kiến phát hành ngày 2-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.071384+07:00",
+      "fetched": "2026-05-24T09:13:51.071479+07:00"
+    },
+    {
+      "id": "0525c5de04d3e3d28d427607634cf7d8",
+      "title": "Bế mạc cuộc thi tài năng cải lương, 13 tài năng được vinh danh",
+      "link": "https://tuoitre.vn/be-mac-cuoc-thi-tai-nang-cai-luong-13-tai-nang-duoc-vinh-danh-2026052406562237.htm",
+      "summary": "Tối 23-5, tại Nhà hát Trần Hữu Trang đã diễn ra lễ bế mạc và trao giải cuộc thi Tài năng diễn viên cải lương toàn quốc năm 2026. 13 diễn viên tài năng đã được trao các giải nhất, nhì.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.071279+07:00",
+      "fetched": "2026-05-24T09:13:51.071375+07:00"
+    },
+    {
+      "id": "fac8e565e7ba61052d8e0becd58ff86a",
+      "title": "Ngắm nhìn những dòng kênh rạch đang hồi sinh từng ngày tại TP.HCM",
+      "link": "https://tuoitre.vn/ngam-nhin-nhung-dong-kenh-rach-dang-hoi-sinh-tung-ngay-tai-tp-hcm-20260523093659846.htm",
+      "summary": "TP.HCM đang từng bước trả lại màu xanh cho hệ thống kênh rạch vốn gắn liền với lịch sử hình thành và phát triển đô thị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.071164+07:00",
+      "fetched": "2026-05-24T09:13:51.071270+07:00"
+    },
+    {
+      "id": "db839b2e5bd21e915d3428668d9f9d6c",
+      "title": "Đổ xăng rồi trúng số độc đắc 132 tỉ, tài xế xe buýt đi làm như thường",
+      "link": "https://tuoitre.vn/do-xang-roi-trung-so-doc-dac-132-ti-tai-xe-xe-buyt-di-lam-nhu-thuong-20260524015232225.htm",
+      "summary": "Sau khi bất ngờ trúng số độc đắc 5 triệu USD từ một tấm vé cào, tài xế xe buýt trường học vẫn tiếp tục hoàn thành ca làm việc trong ngày thay vì nghỉ ngay để ăn mừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.071057+07:00",
+      "fetched": "2026-05-24T09:13:51.071153+07:00"
+    },
+    {
+      "id": "edc4d188488d408d62a22d5bf2e60bf2",
+      "title": "‘Tôi còn trẻ, tôi vẫn khỏe, sao lại có thể suy thận?’",
+      "link": "https://tuoitre.vn/toi-con-tre-toi-van-khoe-sao-lai-co-the-suy-than--2026052318371065.htm",
+      "summary": "Đó là câu hỏi mà bác sĩ Vũ Thị Ánh cùng các đồng nghiệp tại Bệnh viện Bạch Mai thường xuyên nghe từ những bệnh nhân mới chỉ đôi mươi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.070942+07:00",
+      "fetched": "2026-05-24T09:13:51.071048+07:00"
+    },
+    {
+      "id": "6165eb21a3a3bc69e5b8a81ab76404c1",
+      "title": "Trung Đông sáng 24-5: Hôm nay ông Trump trả lời đề xuất mới của Iran; Số phận Hormuz vẫn 'tù mù'",
+      "link": "https://tuoitre.vn/trung-dong-sang-24-5-hom-nay-ong-trump-tra-loi-de-xuat-moi-cua-iran-so-phan-hormuz-van-tu-mu-20260524073108063.htm",
+      "summary": "Ông Trump nói đã đàm phán gần xong thỏa thuận với Iran, trong khi Pakistan đã chuyển lại đề xuất 14 điểm cho phía Mỹ. Thông tin mở eo biển Hormuz vẫn còn tranh cãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.070839+07:00",
+      "fetched": "2026-05-24T09:13:51.070934+07:00"
+    },
+    {
+      "id": "9d32131bb19fc202c961b4078ae69ca5",
+      "title": "Nguyễn Ngọc Trường Sơn viết tâm thư chỉ trích cách quản lý đội tuyển cờ vua Việt Nam",
+      "link": "https://tuoitre.vn/nguyen-ngoc-truong-son-viet-tam-thu-chi-trich-cach-quan-ly-doi-tuyen-co-vua-viet-nam-20260524065307011.htm",
+      "summary": "Rạng sáng 24-5, kỳ thủ lừng danh Nguyễn Ngọc Trường Sơn đã viết một bài đăng rất chi tiết, nêu ra cụ thể những vấn đề của đội tuyển cờ vua Việt Nam hiện tại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.070735+07:00",
+      "fetched": "2026-05-24T09:13:51.070830+07:00"
+    },
+    {
+      "id": "f1e54026e9b512761bbc1f01206f469e",
+      "title": "Sắp xếp thôn, tổ dân phố: Hợp lý về quản trị, thấu đáo về văn hóa",
+      "link": "https://tuoitre.vn/sap-xep-thon-to-dan-pho-hop-ly-ve-quan-tri-thau-dao-ve-van-hoa-20260524073941881.htm",
+      "summary": "Bộ Nội vụ đang lấy ý kiến dự thảo nghị định quy định về tổ chức, hoạt động của thôn, tổ dân phố và chế độ, chính sách đối với người hoạt động không chuyên trách ở thôn, tổ dân phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.070629+07:00",
+      "fetched": "2026-05-24T09:13:51.070726+07:00"
+    },
+    {
+      "id": "d2af6b72676a9b076a8ee6f2dbf7b895",
+      "title": "Giải bóng đá công nhân, viên chức: Kịch tính vé vào bán kết",
+      "link": "https://tuoitre.vn/giai-bong-da-cong-nhan-vien-chuc-kich-tinh-ve-vao-ban-ket-20260524080429078.htm",
+      "summary": "Bốn đội bóng mạnh nhất của vòng loại phía Bắc Giải bóng đá công nhân, viên chức Việt Nam đã được xác định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.070526+07:00",
+      "fetched": "2026-05-24T09:13:51.070620+07:00"
+    },
+    {
+      "id": "e43b51ae73b37a14f2de03e44c78d08e",
+      "title": "Phạt nặng người xả rác, thưởng cao người báo tin",
+      "link": "https://tuoitre.vn/phat-nang-nguoi-xa-rac-thuong-cao-nguoi-bao-tin-2026052407571872.htm",
+      "summary": "Thưởng tiền, bảo mật thông tin người tố giác, buộc người xả rác dọn sạch nơi họ vừa xả bậy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.070420+07:00",
+      "fetched": "2026-05-24T09:13:51.070517+07:00"
+    },
+    {
+      "id": "aa88befff780466ba82751b0130e251b",
+      "title": "Những thực phẩm làm cơn căng thẳng trở nên tồi tệ hơn",
+      "link": "https://tuoitre.vn/nhung-thuc-pham-lam-con-cang-thang-tro-nen-toi-te-hon-20260523211327811.htm",
+      "summary": "Các chuyên gia dinh dưỡng cho biết chế độ ăn uống cũng ảnh hưởng đáng kể đến phản ứng căng thẳng của cơ thể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.070312+07:00",
+      "fetched": "2026-05-24T09:13:51.070411+07:00"
+    },
+    {
+      "id": "cce84169cf357152a8742f7d15625323",
+      "title": "Sửa đổi, bổ sung Luật Bảo vệ môi trường: Gỡ điểm nghẽn, thúc đẩy tăng trưởng xanh",
+      "link": "https://tuoitre.vn/sua-doi-bo-sung-luat-bao-ve-moi-truong-go-diem-nghen-thuc-day-tang-truong-xanh-20260524082402262.htm",
+      "summary": "Sau gần 5 năm có hiệu lực, Luật Bảo vệ môi trường năm 2020 đã tạo ra chuyển biến quan trọng trong tư duy, phương thức quản lý môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.070190+07:00",
+      "fetched": "2026-05-24T09:13:51.070302+07:00"
+    },
+    {
+      "id": "81ad9a8c3d9d7636d5b33e06ffe04b7b",
+      "title": "Sáng nay chưa mở được nút giao Long Thành để đi vào cao tốc Biên Hòa - Vũng Tàu",
+      "link": "https://tuoitre.vn/sang-nay-chua-mo-duoc-nut-giao-long-thanh-de-di-vao-cao-toc-bien-hoa-vung-tau-202605240158275.htm",
+      "summary": "Phương án tổ chức nút giao cho toàn bộ các nhánh nút giao Long Thành để vào cao tốc Biên Hoà - Vũng Tàu chưa thể thực hiện trong ngày 24-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.070077+07:00",
+      "fetched": "2026-05-24T09:13:51.070180+07:00"
+    },
+    {
+      "id": "caf8e6a91d9b6891fe767c26eaa9ea84",
+      "title": "Dệt lại giấc mơ lụa Mã Châu",
+      "link": "https://tuoitre.vn/det-lai-giac-mo-lua-ma-chau-20260524083636945.htm",
+      "summary": "Yến lớn lên khi nghề làm lụa quê nhà đã đi qua thời kỳ vàng son. Điều đó càng khiến cô quyết tâm dựng lại thương hiệu lụa tơ tằm Mã Châu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.069953+07:00",
+      "fetched": "2026-05-24T09:13:51.070066+07:00"
+    },
+    {
+      "id": "b1c4ad154a4b1ed88af65f5f8b27c42c",
+      "title": "Ai là hoa khôi bóng chuyền của Cúp VTV9 – Bình Điền?",
+      "link": "https://tuoitre.vn/ai-la-hoa-khoi-bong-chuyen-cua-cup-vtv9-binh-dien-20260524084035407.htm",
+      "summary": "Như một truyền thống, Giải bóng chuyền Cúp VTV9 – Bình Điền không thể thiếu danh hiệu \"Hoa khôi bóng chuyền\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T09:13:51.069738+07:00",
+      "fetched": "2026-05-24T09:13:51.069939+07:00"
+    },
     {
       "id": "cf2b900922c3486f6a0799a4f1b168a9",
       "title": "Nghề môi giới cho viện dưỡng lão ăn nên làm ra ở Trung Quốc",
@@ -11,6 +161,96 @@ window.newsData_2026_05_24 = {
       "category": "Tổng hợp",
       "published": "2026-05-24T05:42:18.983860+07:00",
       "fetched": "2026-05-24T05:42:18.984086+07:00"
+    },
+    {
+      "id": "eb277494a66108c4bd80276dca7bcc6f",
+      "title": "Thanh Bình bị khán giả gọi điện thoại chỉ trích vì vai ông Bân",
+      "link": "https://thanhnien.vn/thanh-binh-bi-khan-gia-goi-dien-thoai-chi-trich-vi-vai-ong-ban-185260524081830752.htm",
+      "summary": "Thủ vai ông Bân trong bộ phim truyền hình 'Nợ đời vay trả', diễn viên Thanh Bình đang nhận về nhiều phản ứng gay gắt từ khán giả, thậm chí có khán giả tìm cách liên lạc trực tiếp qua điện thoại để công kích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T02:05:00+07:00",
+      "fetched": "2026-05-24T09:13:49.879363+07:00"
+    },
+    {
+      "id": "ac2cbc859952703aa5f113bf955c15cc",
+      "title": "Huỳnh Như cùng CLB TP.HCM ngược dòng nghẹt thở, đấu Hà Nội I ở chung kết",
+      "link": "https://thanhnien.vn/huynh-nhu-cung-clb-tphcm-nguoc-dong-nghet-tho-dau-ha-noi-i-o-chung-ket-185260524085959391.htm",
+      "summary": "Chiều 23.5, CLB nữ TP.HCM đã giành vé vào chung kết giải bóng đá nữ Cúp quốc gia 2026 sau màn ngược dòng đầy cảm xúc trước Phong Phú Hà Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T02:02:00+07:00",
+      "fetched": "2026-05-24T09:13:49.879509+07:00"
+    },
+    {
+      "id": "d0313384bb8344e162150083de019e69",
+      "title": "Rừng bần ly - Truyện ngắn của Lê Đức Dương",
+      "link": "https://thanhnien.vn/rung-ban-ly-truyen-ngan-cua-le-duc-duong-185260523182129301.htm",
+      "summary": "Chiếc xe khách vừa đỗ xuống triền cát ven đường, Như đã thấy rặng bần hiện ra: xanh rì, thăm thẳm, hầu như bất biến trước bao mùa mưa nắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T02:00:00+07:00",
+      "fetched": "2026-05-24T09:13:49.879640+07:00"
+    },
+    {
+      "id": "5af1fa158bae9e944b986be4f4a57abd",
+      "title": "Đánh người vì mâu thuẫn nhỏ: Coi chừng đi tù",
+      "link": "https://thanhnien.vn/danh-nguoi-vi-mau-thuan-nho-coi-chung-di-tu-185260522124743434.htm",
+      "summary": "Nhiều vụ đánh người chỉ vì mâu thuẫn nhỏ diễn ra trong thời gian qua khiến dư luận bức xúc. Dù chỉ là mâu thuẫn trong đời thường, thực tế, không ít người đã phải trả giá đắt...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T02:00:00+07:00",
+      "fetched": "2026-05-24T09:13:49.879766+07:00"
+    },
+    {
+      "id": "8314c8b60eb07ae07f9fe11e57baad11",
+      "title": "77 tên miền hiếm sắp được đấu giá",
+      "link": "https://vnexpress.net/77-ten-mien-hiem-sap-duoc-dau-gia-5077365.html",
+      "summary": "77 tên miền \".vn\" ngắn, dễ nhớ, phù cho nhiều ngành nghề, sẽ được đưa vào đợt đấu giá diễn ra vào tháng 6.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-24T02:00:00+07:00",
+      "fetched": "2026-05-24T09:13:57.891592+07:00"
+    },
+    {
+      "id": "32b15049af0825f1d636256473e34b5c",
+      "title": "Lý do nhiều người dùng bắt đầu từ bỏ Microsoft Word",
+      "link": "https://thanhnien.vn/ly-do-nhieu-nguoi-dung-bat-dau-tu-bo-microsoft-word-185260523232554312.htm",
+      "summary": "Bộ phần mềm Microsoft Office từ lâu trở thành tiêu chuẩn trong các hoạt động liên quan đến văn phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:59:00+07:00",
+      "fetched": "2026-05-24T09:13:49.879890+07:00"
+    },
+    {
+      "id": "13a8aa95c54b3ec5312fb72ce05fcd68",
+      "title": "Một cú click chuột cùng lúc trả hàng nghìn tỷ cho 43.000 người vụ Vạn Thịnh Phát",
+      "link": "https://vnexpress.net/mot-cu-click-chuot-cung-luc-tra-hang-nghin-ty-cho-43-000-nguoi-vu-van-thinh-phat-5075488.html",
+      "summary": "Thi hành án dân sự TP HCM chỉ bằng một nút nhấn đã đồng loạt chi trả hàng nghìn tỷ đồng cho hơn 43.000 trái chủ trong vụ bà Trương Mỹ Lan, cải tiến chưa từng có trong lịch sử ngành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:57:13+07:00",
+      "fetched": "2026-05-24T09:13:46.691064+07:00"
+    },
+    {
+      "id": "0cb6a692e2a2be85c2f526a831a1b595",
+      "title": "Lewandowski ghi bàn cuối cùng cho Barca",
+      "link": "https://vnexpress.net/lewandowski-ghi-ban-cuoi-cung-cho-barca-5077489.html",
+      "summary": "Robert Lewandowski lập công trong trận Barca thua Valencia 1-3 ở vòng cuối La Liga, tối 23/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:55:41+07:00",
+      "fetched": "2026-05-24T09:13:46.691231+07:00"
+    },
+    {
+      "id": "0cb6a692e2a2be85c2f526a831a1b595",
+      "title": "Lewandowski ghi bàn cuối cùng cho Barca",
+      "link": "https://vnexpress.net/lewandowski-ghi-ban-cuoi-cung-cho-barca-5077489.html",
+      "summary": "Robert Lewandowski lập công trong trận Barca thua Valencia 1-3 ở vòng cuối La Liga, tối 23/5.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-24T01:55:41+07:00",
+      "fetched": "2026-05-24T09:13:59.631285+07:00"
     },
     {
       "id": "75a4cf3121d87d511610e07cf0888e6c",
@@ -161,6 +401,286 @@ window.newsData_2026_05_24 = {
       "category": "Tổng hợp",
       "published": "2026-05-24T01:55:29.375425+07:00",
       "fetched": "2026-05-24T01:55:29.375650+07:00"
+    },
+    {
+      "id": "e1ea37e114b279acb4fdafabc6eb72f1",
+      "title": "Djokovic: 'Nếu khỏe mạnh, tôi có cơ hội ở Roland Garros'",
+      "link": "https://vnexpress.net/djokovic-neu-khoe-manh-toi-co-co-hoi-o-roland-garros-5077498.html",
+      "summary": "Novak Djokovic khẳng định bản thân có cửa vô địch ở Grand Slam đất nện, dù quá trình chuẩn bị cho Roland Garros 2026 bị ảnh hưởng bởi chấn thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:50:34+07:00",
+      "fetched": "2026-05-24T09:13:46.691374+07:00"
+    },
+    {
+      "id": "e1ea37e114b279acb4fdafabc6eb72f1",
+      "title": "Djokovic: 'Nếu khỏe mạnh, tôi có cơ hội ở Roland Garros'",
+      "link": "https://vnexpress.net/djokovic-neu-khoe-manh-toi-co-co-hoi-o-roland-garros-5077498.html",
+      "summary": "Novak Djokovic khẳng định bản thân có cửa vô địch ở Grand Slam đất nện, dù quá trình chuẩn bị cho Roland Garros 2026 bị ảnh hưởng bởi chấn thương.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-24T01:50:34+07:00",
+      "fetched": "2026-05-24T09:13:59.631421+07:00"
+    },
+    {
+      "id": "95ee3c5c646ffee69927507cea372ae4",
+      "title": "Messi tâng bóng trong MV của Shakira",
+      "link": "https://vnexpress.net/messi-tang-bong-trong-mv-cua-shakira-5077505.html",
+      "summary": "Messi xuất hiện cùng nhiều danh thủ như Kylian Mbappé, Erling Haaland trong MV \"Dai Dai\", ca khúc chính thức của World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:48:35+07:00",
+      "fetched": "2026-05-24T09:13:46.691509+07:00"
+    },
+    {
+      "id": "555580dfcef94f90262d58c5b7736b19",
+      "title": "Nghề rim cá bống trứ danh hồ Lắk",
+      "link": "https://thanhnien.vn/nghe-rim-ca-bong-tru-danh-ho-lak-185260523174042717.htm",
+      "summary": "Giữa làn sương mỏng phủ mặt hồ Lắk lúc 3 giờ sáng, những mẻ cá bống cát lấp lánh theo chân dân chài cập bến, mở đầu cho hành trình công phu tạo nên món cá bống rim giòn \"gây thương nhớ\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:41:00+07:00",
+      "fetched": "2026-05-24T09:13:49.880015+07:00"
+    },
+    {
+      "id": "b7e4638177e2afc85121b96d80e99714",
+      "title": "Học sinh Việt vào top 8 Olympic Vật lý châu Á",
+      "link": "https://vnexpress.net/hoc-sinh-viet-vao-top-8-olympic-vat-ly-chau-a-2026-5077507.html",
+      "summary": "8 học sinh dự thi đều đạt huy chương, với 6 bạc và 2 đồng, đoàn Việt Nam vào top 8 tại Olympic Vật lý châu Á (APhO).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:36:24+07:00",
+      "fetched": "2026-05-24T09:13:46.691645+07:00"
+    },
+    {
+      "id": "57a741e5fd9ce86781a7a167aff8dd2f",
+      "title": "Vì sao không nên ăn kem để giải nhiệt ngày hè?",
+      "link": "https://vnexpress.net/vi-sao-khong-nen-an-kem-de-giai-nhiet-ngay-he-5077508.html",
+      "summary": "Việc đánh đồng nhiệt độ vật lý với tính âm dương của thực phẩm khiến nhiều người lầm tưởng ăn kem sẽ giúp giải nhiệt hiệu quả hơn dưa hấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:33:05+07:00",
+      "fetched": "2026-05-24T09:13:46.691780+07:00"
+    },
+    {
+      "id": "5a7e196126be56802f5ed777ce82d62b",
+      "title": "Nga ồ ạt không kích Kyiv sau tuyên bố đáp trả cuộc tấn công của Ukraine",
+      "link": "https://thanhnien.vn/nga-o-at-khong-kich-kyiv-sau-tuyen-bo-dap-tra-cuoc-tan-cong-cua-ukraine-18526052408270605.htm",
+      "summary": "Nga phóng hàng loạt tên lửa và máy bay không người lái (UAV) vào thủ đô Kyiv của Ukraine sáng nay 24.5, sau khi cáo buộc Ukraine tấn công chết người tại một ký túc xá ở vùng Luhansk (miền đông Ukraine) hiện do Nga kiểm soát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:33:00+07:00",
+      "fetched": "2026-05-24T09:13:49.880141+07:00"
+    },
+    {
+      "id": "68ca5515f665b12d4a8762366d7b63bb",
+      "title": "NSND Tấn Giao, Thu Vân, Lê Tứ ca cải lương trước hàng trăm khán giả",
+      "link": "https://thanhnien.vn/nsnd-tan-giao-thu-van-le-tu-ca-cai-luong-truoc-hang-tram-khan-gia-185260524003623823.htm",
+      "summary": "Không chỉ là dịp tôn vinh những nghệ sĩ trẻ triển vọng của sân khấu cải lương, đêm bế mạc cuộc thi Tài năng diễn viên cải lương toàn quốc năm 2026 còn mang đến cho khán giả nhiều tiết mục nghệ thuật được dàn dựng công phu, đậm bản sắc truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:30:00+07:00",
+      "fetched": "2026-05-24T09:13:49.880277+07:00"
+    },
+    {
+      "id": "e96c41a2760e28d19bfcf6615fe52487",
+      "title": "FC Online Creator Championship mùa 2: Cris Phan và Độ Mixi gặp nhau ở chung kết",
+      "link": "https://thanhnien.vn/fc-online-creator-championship-mua-2-cris-phan-va-do-mixi-gap-nhau-o-chung-ket-185260523230837396.htm",
+      "summary": "Chiều 23.5, tại sân vận động Gia Định (TP.HCM), FC Online Creator Championship mùa 2 chính thức khởi tranh với chủ đề 'Tứ Hùng Tái Chiến'. Hai trận bán kết hấp dẫn đã xác định cặp đấu chung kết là ALL STARS SG F.C của Cris Phan và Refund Gaming của Độ Mixi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:30:00+07:00",
+      "fetched": "2026-05-24T09:13:49.880408+07:00"
+    },
+    {
+      "id": "2d1cf9392bae7713b4bd16149e9e643e",
+      "title": "Vì sao laptop luôn đắt hơn PC dù cấu hình tương đương?",
+      "link": "https://thanhnien.vn/vi-sao-laptop-luon-dat-hon-pc-du-cau-hinh-tuong-duong-185260524070310508.htm",
+      "summary": "Giá cả laptop thường khiến người dùng cảm thấy không hài lòng, đặc biệt khi so sánh với máy tính để bàn (PC).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:27:00+07:00",
+      "fetched": "2026-05-24T09:13:49.880533+07:00"
+    },
+    {
+      "id": "215461b625e46a3eb61c1523d7957edb",
+      "title": "LHP Cannes 2026: 'Fjord' đoạt Cành cọ vàng, nhiều hạng mục có tới 2 người chiến thắng",
+      "link": "https://thanhnien.vn/lhp-cannes-2026-fjord-doat-canh-co-vang-nhieu-hang-muc-co-toi-2-nguoi-chien-thang-185260524080139202.htm",
+      "summary": "Liên hoan phim Cannes 2026 vừa khép lại với việc 'Fjord' của đạo diễn người Romania - Cristian Mungiu thắng giải Cành cọ vàng. Trong đó, hạng mục đạo diễn, diễn xuất cũng gây 'choáng' khi công bố tới 2 người chiến thắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:25:00+07:00",
+      "fetched": "2026-05-24T09:13:49.880659+07:00"
+    },
+    {
+      "id": "517fd0fd6025f49e37e818c00b4b1548",
+      "title": "Nga phóng loạt 'tên lửa Oreshnik, Iskander-M' nhằm vào Kiev",
+      "link": "https://vnexpress.net/nga-phong-loat-ten-lua-oreshnik-iskander-m-nham-vao-kiev-5077496.html",
+      "summary": "Nga phát động cuộc tấn công quy mô lớn nhằm vào thủ đô Ukraine, sử dụng ít nhất hai tên lửa Oreshnik và có thể lên tới 20 quả Iskander-M.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:21:09+07:00",
+      "fetched": "2026-05-24T09:13:46.691911+07:00"
+    },
+    {
+      "id": "89f109d670f5f1c75a675a0f425c8c4d",
+      "title": "Iniesta cùng Puyol và dàn huyền thoại La Liga sắp đến Việt Nam: ‘Đại chiến’ Hồng Sơn, Công Vinh",
+      "link": "https://thanhnien.vn/iniesta-cung-puyol-va-dan-huyen-thoai-la-liga-sap-den-viet-nam-dai-chien-hong-son-cong-vinh-185260524081320185.htm",
+      "summary": "Người hâm mộ bóng đá Việt Nam sắp được sống lại ký ức cùng hàng loạt danh thủ từng làm nên thời kỳ hoàng kim của bóng đá thế giới như Andres Iniesta, Carles Puyol, Claude Makelele hay Michel Salgado tại sự kiện 'La Liga EA Legends Match', diễn ra ngày 7.6 ở TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:15:00+07:00",
+      "fetched": "2026-05-24T09:13:49.880784+07:00"
+    },
+    {
+      "id": "2eb0a7f11cbd52337d07044b10671fe1",
+      "title": "Phim truyền hình về đời sống học đường lên sóng giờ vàng",
+      "link": "https://thanhnien.vn/phim-truyen-hinh-ve-doi-song-hoc-duong-len-song-gio-vang-185260523194933486.htm",
+      "summary": "Phim Phía bên kia thành phố khai thác đề tài học đường kết hợp tâm lý vị thành niên và gia đình sẽ chính thức lên sóng VTV1 thứ hai đến thứ sáu hằng tuần từ ngày 27.5 tới. Đây là mảng nội dung vốn chưa được phim truyền hình Việt khai thác nhiều trong khung giờ vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:15:00+07:00",
+      "fetched": "2026-05-24T09:13:49.880909+07:00"
+    },
+    {
+      "id": "9f38f043921b00b614a1b6f011abd1f9",
+      "title": "Ninh Bình và HLV Chu Đình Nghiêm ký hợp đồng: Vào việc luôn, không đợi đến mùa sau",
+      "link": "https://thanhnien.vn/ninh-binh-va-hlv-chu-dinh-nghiem-ky-hop-dong-vao-viec-luon-khong-doi-den-mua-sau-185260524075658862.htm",
+      "summary": "HLV Chu Đình Nghiêm dẫn dắt Ninh Bình 2 trận cuối V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:11:00+07:00",
+      "fetched": "2026-05-24T09:13:49.881035+07:00"
+    },
+    {
+      "id": "251e3e1f355a41411ef18fd2acf8841c",
+      "title": "Doraemon, Nobita ăn cơm tấm, bánh mỳ trong tập phim bối cảnh Việt Nam",
+      "link": "https://vnexpress.net/doraemon-nobita-an-com-tam-banh-my-trong-tap-phim-boi-canh-viet-nam-5077492.html",
+      "summary": "Doraemon, Nobita xem lễ hội đèn lồng ở Hội An, thưởng thức nhiều đặc sản địa phương trong tập đặc biệt của hoạt hình \"Doraemon\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:09:53+07:00",
+      "fetched": "2026-05-24T09:13:46.692040+07:00"
+    },
+    {
+      "id": "8a31e5805abc43fea4b1b548e7df0212",
+      "title": "Máy bay quân sự Mỹ diễn tập giữa thủ đô Venezuela",
+      "link": "https://thanhnien.vn/may-bay-quan-su-my-dien-tap-giua-thu-do-venezuela-185260524075010643.htm",
+      "summary": "Quân đội Mỹ ngày 23.5 tiến hành cuộc diễn tập phản ứng nhanh tại thủ đô Caracas của Venezuela.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:06:00+07:00",
+      "fetched": "2026-05-24T09:13:49.881170+07:00"
+    },
+    {
+      "id": "3e4dbf6a9cecce4d938471d2560e5064",
+      "title": "Những lần bác sĩ giành lại sự sống cho hành khách trên máy bay",
+      "link": "https://vnexpress.net/nhung-lan-bac-si-gianh-lai-su-song-cho-hanh-khach-tren-may-bay-5077104.html",
+      "summary": "Các bác sĩ có mặt trên ba chuyến bay quốc tế vừa qua đã cấp cứu thành công ba hành khách gặp sự cố y tế nghiêm trọng, giúp cứu sống người bệnh và đảm bảo lộ trình bay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:00:00+07:00",
+      "fetched": "2026-05-24T09:13:46.692168+07:00"
+    },
+    {
+      "id": "82329daf05ee7b3952e3122edb100eac",
+      "title": "Vịt cao tay, biến hổ thành trò cười trong hồ nước",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-vit-cao-tay-bien-ho-thanh-tro-cuoi-trong-ho-nuoc-5076368.html",
+      "summary": "Dù con vịt ngay trong lãnh địa của mình nhưng bất lợi về địa hình đã khiến con hổ ngậm ngùi rời đi trước sự nhanh trí của vịt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:00:00+07:00",
+      "fetched": "2026-05-24T09:13:46.692316+07:00"
+    },
+    {
+      "id": "60944643bfa7d8c37362e02c7bbf2a98",
+      "title": "7 tác nhân tại nhà dễ kích phát cơn hen suyễn",
+      "link": "https://vnexpress.net/7-tac-nhan-tai-nha-de-kich-phat-con-hen-suyen-5077422.html",
+      "summary": "Người bị hen suyễn có thể lên cơn hen khi tiếp xúc với các tác nhân ngay trong nhà như mạt bụi, khói hương, lông thú cưng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:00:00+07:00",
+      "fetched": "2026-05-24T09:13:46.692449+07:00"
+    },
+    {
+      "id": "ae51258c30af8afd561396474a246812",
+      "title": "Ma túy tàn phá tim mạch thế nào",
+      "link": "https://vnexpress.net/ma-tuy-tan-pha-tim-mach-the-nao-5077415.html",
+      "summary": "Ma túy có thể gây rối loạn nhịp tim, tăng huyết áp kịch phát, nhồi máu cơ tim, suy tim hoặc đột tử kể cả ở người trẻ khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:00:00+07:00",
+      "fetched": "2026-05-24T09:13:46.692579+07:00"
+    },
+    {
+      "id": "acb6976bf0721b76d2e7e164e9a2d21f",
+      "title": "Ăn gan động vật có giúp bổ gan?",
+      "link": "https://vnexpress.net/an-gan-dong-vat-co-giup-bo-gan-5077412.html",
+      "summary": "\"Ăn gì bổ nấy\" nên tôi thường ăn gan heo, gan gà để tốt cho gan. Quan niệm này có đúng không? (Hữu Nghĩa, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:00:00+07:00",
+      "fetched": "2026-05-24T09:13:46.692706+07:00"
+    },
+    {
+      "id": "a86b5e87d75f9b534ca1be4c46d1e8c9",
+      "title": "Bác sĩ hướng dẫn cách phòng bệnh cho thai phụ trong mùa mưa",
+      "link": "https://vnexpress.net/bac-si-huong-dan-cach-phong-benh-cho-thai-phu-trong-mua-mua-5077410.html",
+      "summary": "Thai phụ nên giữ ấm cơ thể, phòng muỗi đốt, ăn chín uống sôi và ngủ đủ giấc để tăng miễn dịch, phòng cảm cúm, sốt xuất huyết trong mùa mưa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:00:00+07:00",
+      "fetched": "2026-05-24T09:13:46.692840+07:00"
+    },
+    {
+      "id": "02b8069e7bc865f61a3b93bdd47676cc",
+      "title": "Phu Cuong Home tổ chức bốc thăm căn hộ cho lực lượng vũ trang",
+      "link": "https://vnexpress.net/phu-cuong-home-to-chuc-boc-tham-can-ho-cho-luc-luong-vu-trang-5077397.html",
+      "summary": "341 cán bộ, chiến sĩ thuộc lực lượng Công an nhân dân tham gia lễ bốc thăm vị trí căn hộ dự án Phú Cường Home Đông Hưng Thuận, TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T01:00:00+07:00",
+      "fetched": "2026-05-24T09:13:46.692972+07:00"
+    },
+    {
+      "id": "9eb52176de9c08f432a0bdf9b23fd221",
+      "title": "Khoảnh khắc loạt tiếng súng vang lên gần Nhà Trắng",
+      "link": "https://vnexpress.net/khoanh-khac-loat-tieng-sung-vang-len-gan-nha-trang-5077494.html",
+      "summary": "Hàng loạt tiếng súng vang lên khi nhiều phóng viên đang tác nghiệp trên bãi cỏ Nhà Trắng, buộc họ nhanh chóng sơ tán vào trong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-24T00:31:03+07:00",
+      "fetched": "2026-05-24T09:13:52.959024+07:00"
+    },
+    {
+      "id": "8b093507701b06c2396bc39849904c3b",
+      "title": "Ý nghĩa của đinh vàng trên cánh cửa Tử Cấm Thành",
+      "link": "https://vnexpress.net/y-nghia-cua-dinh-vang-tren-canh-cua-tu-cam-thanh-5077235.html",
+      "summary": "Đinh vàng trên các cánh cửa của Tử Cấm Thành phải là số lẻ vì đại diện cho dương và người ta tin rằng phụ nữ chạm vào nó sẽ đẻ được con trai.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-24T00:29:00+07:00",
+      "fetched": "2026-05-24T09:13:52.959172+07:00"
+    },
+    {
+      "id": "b478b546b745f67bf0c3b9a8690e6442",
+      "title": "Samsung TV 2026 tích hợp cả Gemini, Copilot và Bixby",
+      "link": "https://vnexpress.net/samsung-tv-2026-tich-hop-ca-gemini-copilot-va-bixby-5077322.html",
+      "summary": "Các dòng TV 2026 của Samsung đều trang bị Vision AI Companion với sự hỗ trợ đồng thời của các trợ lý AI Gemini, Copiliot và Bixby.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-24T00:00:00+07:00",
+      "fetched": "2026-05-24T09:13:57.892022+07:00"
+    },
+    {
+      "id": "64549e2302e023c99ef7c1090dcb0d18",
+      "title": "Nhà Trắng bị phong tỏa sau hàng chục tiếng súng",
+      "link": "https://vnexpress.net/nha-trang-bi-phong-toa-sau-hang-chuc-tieng-sung-5077490.html",
+      "summary": "Sở Mật vụ Mỹ phong tỏa Nhà Trắng và sơ tán phóng viên sau khi hàng chục tiếng súng vang lên gần đó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-23T23:34:47+07:00",
+      "fetched": "2026-05-24T09:13:52.959324+07:00"
     },
     {
       "id": "7698f47cdaba1fc2b2eb1308bc618a9c",
