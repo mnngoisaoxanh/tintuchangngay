@@ -1,7 +1,47 @@
 window.newsData_2026_05_25 = {
   "date": "2026-05-25",
-  "lastUpdated": "2026-05-25T02:01:49.368798+07:00",
+  "lastUpdated": "2026-05-25T03:42:35.235144+07:00",
   "articles": [
+    {
+      "id": "4156f073ac417ca0909e0fe09e46f6ac",
+      "title": "Liên đoàn Cờ Việt Nam phản hồi FIDE về nghi vấn trục lợi học phí",
+      "link": "https://tuoitre.vn/lien-doan-co-viet-nam-phan-hoi-fide-ve-nghi-van-truc-loi-hoc-phi-20260524234756398.htm",
+      "summary": "Liên quan thông tin Liên đoàn Cờ vua thế giới tạm dừng cấp chứng chỉ tại Việt Nam, Liên đoàn Cờ Việt Nam chính thức ra thông cáo báo chí làm rõ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T03:42:27.373459+07:00",
+      "fetched": "2026-05-25T03:42:27.373557+07:00"
+    },
+    {
+      "id": "1f64f039d43309ae6d443c3b9662e03d",
+      "title": "Tottenham 'sống sót' thần kỳ, West Ham rớt hạng",
+      "link": "https://tuoitre.vn/tottenham-song-sot-than-ky-west-ham-rot-hang-20260524234536638.htm",
+      "summary": "Vòng cuối cùng của Premier League mùa giải 2025-2026 ghi nhận niềm vui của Tottenham và nỗi buồn mang tên West Ham.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T03:42:27.373339+07:00",
+      "fetched": "2026-05-25T03:42:27.373449+07:00"
+    },
+    {
+      "id": "1f4792b9b864d456869a1fa53df62585",
+      "title": "Nhân viên ngân hàng xuất sắc nhất vòng loại phía Bắc Giải bóng đá công nhân, viên chức Việt Nam",
+      "link": "https://tuoitre.vn/nhan-vien-ngan-hang-xuat-sac-nhat-vong-loai-phia-bac-giai-bong-da-cong-nhan-vien-chuc-viet-nam-20260524190714125.htm",
+      "summary": "Nguyễn Xuân Sáng giành danh hiệu Cầu thủ xuất sắc nhất vòng loại phía Bắc Giải bóng đá công nhân, viên chức Việt Nam 2026, với nhiều đóng góp giúp đội bóng Công đoàn Ngân hàng Việt Nam vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T03:42:27.373215+07:00",
+      "fetched": "2026-05-25T03:42:27.373329+07:00"
+    },
+    {
+      "id": "3918522ec02f6992e376c69f6f8b988b",
+      "title": "Ngôi sao 16 tuổi của Arsenal kết thúc mùa giải với một loạt kỷ lục ở Premier League",
+      "link": "https://tuoitre.vn/ngoi-sao-16-tuoi-cua-arsenal-ket-thuc-mua-giai-voi-mot-loat-ky-luc-o-premier-league-20260524235322064.htm",
+      "summary": "Ra sân từ đầu ở trận Arsenal gặp Crystal Palace vào đêm 24-5, tiền vệ 16 tuổi Max Dowman đã trở thành cầu thủ trẻ nhất trong lịch sử đá chính ở Premier League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T03:42:27.372964+07:00",
+      "fetched": "2026-05-25T03:42:27.373202+07:00"
+    },
     {
       "id": "71aa378c70c7038d44fb93f537618068",
       "title": "Vụ nam sinh lớp 8 ở Lâm Đồng tự tử: Khởi tố 1 bạn học về tội cưỡng đoạt tài sản",
@@ -151,6 +191,26 @@ window.newsData_2026_05_25 = {
       "category": "Tổng hợp",
       "published": "2026-05-25T02:01:43.957830+07:00",
       "fetched": "2026-05-25T02:01:43.958040+07:00"
+    },
+    {
+      "id": "0dfb952afe966dcfa1d64d72e8d0d944",
+      "title": "3 chiêu 'bỏ túi' giúp hạ mỡ máu hiệu quả từ chuyên gia",
+      "link": "https://vnexpress.net/3-chieu-bo-tui-giup-ha-mo-mau-hieu-qua-tu-chuyen-gia-5077356.html",
+      "summary": "Chuyên gia hướng dẫn hạ mỡ máu hiệu quả bằng cách giới hạn trái cây, cắt giảm tinh bột tinh chế và nạp đủ protein trong mỗi bữa ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T20:00:00+07:00",
+      "fetched": "2026-05-25T03:42:23.430661+07:00"
+    },
+    {
+      "id": "499885d63293022f673dcd2338c1d135",
+      "title": "Bác sĩ chỉ điểm 7 thực phẩm quen mặt đang 'vắt kiệt' quả thận",
+      "link": "https://vnexpress.net/bac-si-chi-diem-7-thuc-pham-quen-mat-dang-vat-kiet-qua-than-5072907.html",
+      "summary": "Chuyên gia khuyến cáo nên tránh thực phẩm đóng gói, ăn quá nhiều muối, nước ngọt, nước có ga, chế độ ăn giàu protein... để giữ thận luôn khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T19:00:00+07:00",
+      "fetched": "2026-05-25T03:42:23.430856+07:00"
     },
     {
       "id": "8e20efe4cf12dbee48d3130fce59f797",
