@@ -1,7 +1,127 @@
 window.newsData_2026_05_24 = {
   "date": "2026-05-24",
-  "lastUpdated": "2026-05-24T20:00:44.123412+07:00",
+  "lastUpdated": "2026-05-24T21:54:45.293317+07:00",
   "articles": [
+    {
+      "id": "4e9b4893fd7d29fc34b3ca1123c50e74",
+      "title": "Đã nghiệm thu 20km đầu cao tốc Khánh Hòa - Buôn Ma Thuột, tuần tới đưa vào hoạt động",
+      "link": "https://tuoitre.vn/da-nghiem-thu-20km-dau-cao-toc-khanh-hoa-buon-ma-thuot-tuan-toi-dua-vao-hoat-dong-20260524181351034.htm",
+      "summary": "Dự kiến tuần tới, tỉnh Khánh Hòa sẽ đưa vào vận hành 20km đầu tiên của cao tốc Khánh Hòa - Buôn Ma Thuột.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T21:54:36.921496+07:00",
+      "fetched": "2026-05-24T21:54:36.921582+07:00"
+    },
+    {
+      "id": "0b05da89477d8fb924faf059ade0dc9d",
+      "title": "Xe đi cao tốc TP.HCM - Long Thành đã bắt đầu đi tuyến T2 để vào cao tốc Biên Hòa - Vũng Tàu",
+      "link": "https://tuoitre.vn/xe-di-cao-toc-tp-hcm-long-thanh-da-bat-dau-di-tuyen-t2-de-vao-cao-toc-bien-hoa-vung-tau-20260524182600179.htm",
+      "summary": "Từ 18h hôm nay, các cơ quan chức năng đã cho xe ô tô dưới 9 chỗ ngồi đi vào cao tốc Biên Hòa - Vũng Tàu thông qua nhánh phải tuyến T2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T21:54:36.921398+07:00",
+      "fetched": "2026-05-24T21:54:36.921488+07:00"
+    },
+    {
+      "id": "7a2a0c4c95b955c336720ae8b3c71492",
+      "title": "Còn hơn 2 tuần thi tốt nghiệp THPT, TP.HCM yêu cầu trường làm gì để hỗ trợ học sinh?",
+      "link": "https://tuoitre.vn/con-hon-2-tuan-thi-tot-nghiep-thpt-tp-hcm-yeu-cau-truong-lam-gi-de-ho-tro-hoc-sinh-20260524164918529.htm",
+      "summary": "Sở Giáo dục và Đào tạo TP.HCM đã đưa ra yêu cầu với các trường để hỗ trợ ôn thi tốt nghiệp THPT năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T21:54:36.921300+07:00",
+      "fetched": "2026-05-24T21:54:36.921390+07:00"
+    },
+    {
+      "id": "9593bdcf33e4f8f2f0a9af8930651fe7",
+      "title": "Nhà vô địch nâng cúp Giải bóng đá công nhân, viên chức Việt Nam 2026",
+      "link": "https://tuoitre.vn/nha-vo-dich-nang-cup-giai-bong-da-cong-nhan-vien-chuc-viet-nam-2026-2026052419014211.htm",
+      "summary": "Vòng loại khu vực phía Bắc Giải bóng đá công nhân, viên chức Việt Nam 2026 đã mang đến nhiều trận đấu hay, cảm xúc. Chiều 24-5, giải đấu đã tìm được nhà vô địch - Công đoàn Ngân hàng Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T21:54:36.921193+07:00",
+      "fetched": "2026-05-24T21:54:36.921291+07:00"
+    },
+    {
+      "id": "d3a275216c01f60f4ca1ba33d4876e12",
+      "title": "Phó thủ tướng thường trực Phạm Gia Túc chủ trì phiên họp của Hội đồng Tư vấn đặc xá năm 2026",
+      "link": "https://tuoitre.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-chu-tri-phien-hop-cua-hoi-dong-tu-van-dac-xa-nam-2026-2026052419274542.htm",
+      "summary": "Hội đồng Tư vấn đặc xá sẽ tổng hợp, trình Chủ tịch nước danh sách phạm nhân đủ điều kiện được đặc xá để xem xét, quyết định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T21:54:36.921080+07:00",
+      "fetched": "2026-05-24T21:54:36.921170+07:00"
+    },
+    {
+      "id": "ef703acf46fe39e70bc4b1a01cdc3c49",
+      "title": "Thanh Niên TP.HCM xuống hạng sớm 2 vòng sau trận thua Bắc Ninh 0-8",
+      "link": "https://tuoitre.vn/thanh-nien-tp-hcm-xuong-hang-som-2-vong-sau-tran-thua-bac-ninh-0-8-20260524193848826.htm",
+      "summary": "Chiều 24-5, Thanh Niên TP.HCM thua Bắc Ninh với tỉ số 0-8, thuộc vòng 20 Giải hạng nhất quốc gia Bia Sao Vàng 2025 - 2026, qua đó xuống hạng sớm 2 vòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T21:54:36.920981+07:00",
+      "fetched": "2026-05-24T21:54:36.921071+07:00"
+    },
+    {
+      "id": "1ca804b221381edda0585a58023dde7e",
+      "title": "Chiêm Hồng Thái giành vị trí á quân tại World Cup billiards TP.HCM",
+      "link": "https://tuoitre.vn/chiem-hong-thai-gianh-vi-tri-a-quan-tai-world-cup-billiards-tp-hcm-2026052419381747.htm",
+      "summary": "Dù thi đấu đầy nỗ lực, cơ thủ Chiêm Hồng Thái (sinh năm 1999) đã thất bại trước Frederic Caudron (người Bỉ) với tỉ số 25-50, ở trận chung kết giải World Cup billiards carom 3 băng TP.HCM 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T21:54:36.920878+07:00",
+      "fetched": "2026-05-24T21:54:36.920972+07:00"
+    },
+    {
+      "id": "d9feb6e9bfaa671b5703ad44828c86bf",
+      "title": "Hàng chục người tìm nữ sinh lớp 6 bị lũ cuốn ở Đà Lạt",
+      "link": "https://tuoitre.vn/hang-chuc-nguoi-tim-nu-sinh-lop-6-bi-lu-cuon-o-da-lat-20260524194931735.htm",
+      "summary": "Khoảng 60 người thuộc các lực lượng chức năng phường Lang Biang - Đà Lạt (Lâm Đồng) đang tỏa đi tìm kiếm nữ sinh lớp 6 bị nước lũ cuốn trôi sau cơn mưa lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T21:54:36.920769+07:00",
+      "fetched": "2026-05-24T21:54:36.920869+07:00"
+    },
+    {
+      "id": "d55f323670331cef3f7c08865aabce81",
+      "title": "Làm nông thời công nghệ: nhìn trời, nhìn đất và... lo hết pin",
+      "link": "https://tuoitre.vn/lam-nong-thoi-cong-nghe-nhin-troi-nhin-dat-va-lo-het-pin-20260524194844576.htm",
+      "summary": "Trong một thời gian dài, nông nghiệp Việt Nam gắn chặt với lao động thủ công và kinh nghiệm truyền đời. Cách làm ấy gần gũi với đất đai, nhưng cũng khiến người làm nông dễ rơi vào thế bị động trước thiên tai và biến động khí hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T21:54:36.920643+07:00",
+      "fetched": "2026-05-24T21:54:36.920744+07:00"
+    },
+    {
+      "id": "76328990266b4db77d6606e546fa43b0",
+      "title": "Bóng chuyền Thái Lan nhận hung tin trong cuộc chạy đua 'tránh rớt hạng'",
+      "link": "https://tuoitre.vn/bong-chuyen-thai-lan-nhan-hung-tin-trong-cuoc-chay-dua-tranh-rot-hang-20260524185024554.htm",
+      "summary": "Liên đoàn Bóng chuyền Thái Lan (TVA) mới đây đã báo tin dữ cho người hâm mộ xứ sở chùa vàng, trước khi đội tuyển bóng chuyền nữ nước nhà bước vào cuộc đua quan trọng ở siêu giải đấu VNL.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T21:54:36.920527+07:00",
+      "fetched": "2026-05-24T21:54:36.920634+07:00"
+    },
+    {
+      "id": "c4c2d7791e822beda9b3ed0005b46c83",
+      "title": "Chiêm Hồng Thái: ‘Frederic Caudron là thần tượng của tôi’",
+      "link": "https://tuoitre.vn/chiem-hong-thai-frederic-caudron-la-than-tuong-cua-toi-20260524203144555.htm",
+      "summary": "Thất bại trước Frederic Caudron ở trận chung kết, Chiêm Hồng Thái đánh giá cao màn trình diễn của đối thủ và thừa nhận rằng cơ thủ người Bỉ là thần tượng của mình từ khi chưa là một cơ thủ chuyên nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T21:54:36.920399+07:00",
+      "fetched": "2026-05-24T21:54:36.920516+07:00"
+    },
+    {
+      "id": "28f30712374652dc52c4cca80a419a0d",
+      "title": "Người đàn ông mắc bệnh tâm thần vào tầng 7 bệnh viện nhảy xuống đất tử vong",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-mac-benh-tam-than-vao-tang-7-benh-vien-nhay-xuong-dat-tu-vong-20260524202251362.htm",
+      "summary": "Một người đàn ông bị bệnh tâm thần đã bỏ nhà đi, sau đó vào khu điều trị 7 tầng của một bệnh viện ở Đà Nẵng nhảy xuống đất tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T21:54:36.920153+07:00",
+      "fetched": "2026-05-24T21:54:36.920385+07:00"
+    },
     {
       "id": "da88dc1f7b5a63ced029b112b13da78a",
       "title": "Giám đốc sở của TP.HCM được chọn người giỏi vào công chức, không thi tuyển: Luật cần sớm phân quyền!",
@@ -373,6 +493,196 @@ window.newsData_2026_05_24 = {
       "fetched": "2026-05-24T16:47:40.445342+07:00"
     },
     {
+      "id": "d45aba29a08b8829e94f384fd478d345",
+      "title": "CAHN lỡ kỷ lục 20 trận thắng tại V-League",
+      "link": "https://vnexpress.net/cahn-lo-ky-luc-20-tran-thang-tai-v-league-5077646.html",
+      "summary": "Đương kim vô địch Công an Hà Nội bị Hà Tĩnh gỡ hòa 1-1 ở phút bù thứ 7 hiệp hai tại vòng 24 V-League 2025-2026, tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-24T14:51:49+07:00",
+      "fetched": "2026-05-24T21:54:45.283628+07:00"
+    },
+    {
+      "id": "330628d33b45cf4e0a2b4acb2fa0c548",
+      "title": "Khởi động loạt tổ máy điện 'đắt tiền', hòa lưới trước 7 giờ sáng 25.5",
+      "link": "https://thanhnien.vn/khoi-dong-loat-to-may-dien-dat-tien-hoa-luoi-truoc-7-gio-sang-255-185260524213348632.htm",
+      "summary": "Tối 24.5, Công ty Vận hành Hệ thống điện và Thị trường điện quốc gia (NSMO) cho biết đã lệnh khởi động các tổ máy chạy dầu đắt tiền gồm S1, S2 Ô Môn I (chạy dầu FO) để bảo đảm khả dụng cho hệ thống điện quốc gia và dự kiến hòa lưới trước 7 giờ sáng mai, ngày 25.5, để đáp ứng điện giờ cao điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:46:00+07:00",
+      "fetched": "2026-05-24T21:54:35.858452+07:00"
+    },
+    {
+      "id": "182bb036ad97a79f0dcec5bd7ff15965",
+      "title": "Khởi tố bị can dùng video 'nhạy cảm' tống tiền người yêu cũ",
+      "link": "https://thanhnien.vn/khoi-to-bi-can-dung-video-nhay-cam-tong-tien-nguoi-yeu-cu-185260524200648624.htm",
+      "summary": "Dùng video quay lại cảnh “nhạy cảm” để tống tiền người yêu cũ, Lê Anh Minh (22 tuổi) bị Công an tỉnh Đồng Tháp khởi tố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:46:00+07:00",
+      "fetched": "2026-05-24T21:54:35.858604+07:00"
+    },
+    {
+      "id": "77890e384ba7bee4b00af47ce497e26d",
+      "title": "Tuyển sinh cho Học viện Bóng đá Trường Tươi Đồng Nai: Bật khóc khi trúng tuyển",
+      "link": "https://thanhnien.vn/tuyen-sinh-cho-hoc-vien-bong-da-truong-tuoi-dong-nai-bat-khoc-khi-trung-tuyen-185260524205115444.htm",
+      "summary": "Học viện Bóng đá Trường Tươi Đồng Nai vừa chứng minh sức hút mạnh mẽ khi tiếp nhận gần 600 hồ sơ đăng ký thi tuyển vào học viện. Trong khi chỉ tiêu chỉ có 30 học viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:35:00+07:00",
+      "fetched": "2026-05-24T21:54:35.858733+07:00"
+    },
+    {
+      "id": "849b9f64b9afa37d3b0113196867211b",
+      "title": "Vụ học sinh bị bạo lực học đường: Khởi tố vụ án, bị can",
+      "link": "https://thanhnien.vn/vu-hoc-sinh-bi-bao-luc-hoc-duong-khoi-to-vu-an-bi-can-185260524204740443.htm",
+      "summary": "Công an tỉnh Lâm Đồng ra quyết định khởi tố vụ án, khởi tố bị can để điều tra làm rõ vụ một học sinh lớp 8 ở xã Di Linh bị bạo lực học đường nhiều lần, dẫn đến hành vi treo cổ tự tử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:34:00+07:00",
+      "fetched": "2026-05-24T21:54:35.858878+07:00"
+    },
+    {
+      "id": "67c78514ddd56e94563a822be301c3b1",
+      "title": "Bảng xếp hạng V-League mới nhất: HAGL và Becamex TP.HCM tình thế vẫn nguy nan, Thanh Hóa ‘tim đập dồn’",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-hagl-va-becamex-tphcm-tinh-the-van-nguy-nan-thanh-hoa-tim-dap-don-185260524184908067.htm",
+      "summary": "Bảng xếp hạng V-League đã được định hình sau khi loạt trận vòng 24 khép lại tối nay (24.5).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:26:00+07:00",
+      "fetched": "2026-05-24T21:54:35.858999+07:00"
+    },
+    {
+      "id": "3419a2af463e889531d05f515a589018",
+      "title": "Arsenal ra sân với tư cách nhà vô địch Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-ra-san-voi-tu-cach-nha-vo-dich-ngoai-hang-anh-5077643.html",
+      "summary": "Arsenal sẽ lần đầu thi đấu với tư cách nhà vô địch Ngoại hạng Anh mùa 2025-2026, khi làm khách của Crystal Palace. Bóng lăn lúc 22h.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-24T14:20:24+07:00",
+      "fetched": "2026-05-24T21:54:45.282822+07:00"
+    },
+    {
+      "id": "11ff1480a3a2059943fa89beaff6030b",
+      "title": "Hoàng Hên rực sáng hơn Xuân Son, Hà Nội thắng thuyết phục Nam Định: Chiếm lĩnh tốp 3!",
+      "link": "https://thanhnien.vn/hoang-hen-ruc-sang-hon-xuan-son-ha-noi-thang-thuyet-phuc-nam-dinh-cong-chiem-top-3-185260524211547547.htm",
+      "summary": "Tối 24.5, CLB Hà Nội đánh bại đối thủ mạnh Nam Định với tỷ số 2-1 ở vòng 24 giải V-League vươn lên chiếm vị trí tốp 3, với sự tỏa sáng của Hoàng Hên ghi bàn và kiến tạo, trong khi Xuân Son góp công vào bàn an ủi cho đội khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:17:00+07:00",
+      "fetched": "2026-05-24T21:54:35.859123+07:00"
+    },
+    {
+      "id": "c334d2219da4989c35ecbbb511f06a92",
+      "title": "Man City - Aston Villa: CĐV hát tri ân Guardiola",
+      "link": "https://vnexpress.net/truc-tiep-tran-man-city-vs-aston-villa-o-vong-38-ngoai-hang-anh-5077641.html",
+      "summary": "HLV Pep Guardiola dẫn dắt Man City trận cuối cùng, gặp Aston Villa ở vòng cuối Ngoại hạng Anh. Bóng lăn lúc 22h.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-24T14:15:47+07:00",
+      "fetched": "2026-05-24T21:54:45.282984+07:00"
+    },
+    {
+      "id": "2639755780a766055bbef514db60c170",
+      "title": "Phật đản 2026: Hàng ngàn phật tử TP.HCM cung rước tượng Phật ngọc bảo tướng sơ sanh",
+      "link": "https://thanhnien.vn/phat-dan-2026-hang-ngan-phat-tu-tphcm-cung-ruoc-tuong-phat-ngoc-bao-tuong-so-sanh-185260524171918475.htm",
+      "summary": "Hàng ngàn phật tử cùng tăng, ni ở TP.HCM đã trang nghiêm cung rước tượng Phật ngọc bảo tướng sơ sanh từ tổ đình Ấn Quang về chùa Việt Nam Quốc Tự mừng đại lễ Phật đản 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:14:00+07:00",
+      "fetched": "2026-05-24T21:54:35.859242+07:00"
+    },
+    {
+      "id": "a0dd3b81cba96b5b1ea61adc535220b4",
+      "title": "Iran sẵn sàng cam kết không phát triển vũ khí hạt nhân",
+      "link": "https://vnexpress.net/iran-san-sang-cam-ket-khong-phat-trien-vu-khi-hat-nhan-5077632.html",
+      "summary": "Tổng thống Pezeshkian tuyên bố Iran sẵn sàng bảo đảm với thế giới rằng nước này không theo đuổi vũ khí hạt nhân hay tìm kiếm bất ổn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:07:29+07:00",
+      "fetched": "2026-05-24T21:54:32.629667+07:00"
+    },
+    {
+      "id": "a0dd3b81cba96b5b1ea61adc535220b4",
+      "title": "Iran sẵn sàng cam kết không phát triển vũ khí hạt nhân",
+      "link": "https://vnexpress.net/iran-san-sang-cam-ket-khong-phat-trien-vu-khi-hat-nhan-5077632.html",
+      "summary": "Tổng thống Pezeshkian tuyên bố Iran sẵn sàng bảo đảm với thế giới rằng nước này không theo đuổi vũ khí hạt nhân hay tìm kiếm bất ổn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-24T14:07:29+07:00",
+      "fetched": "2026-05-24T21:54:38.250092+07:00"
+    },
+    {
+      "id": "a6fb15757dc1fdabb858c1a15e50ba2c",
+      "title": "Highlight CLB Bắc Ninh 8-0 CLB Thanh niên TP.HCM: Xây chắc ngôi nhì bảng",
+      "link": "https://thanhnien.vn/highlight-clb-bac-ninh-8-0-clb-thanh-nien-tphcm-xay-chac-ngoi-nhi-bang-185260524205949299.htm",
+      "summary": "CLB Bắc Ninh có chiến thắng đậm 8-0 trước CLB Thanh niên TP.HCM để tiếp tục củng cố vị trí nhì bảng, đồng thời tạo áp lực lớn lên nhóm cạnh tranh ở cuộc đua thăng hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:06:00+07:00",
+      "fetched": "2026-05-24T21:54:35.859361+07:00"
+    },
+    {
+      "id": "ca69465b42be9860514ea3062724ae1f",
+      "title": "Highlight Becamex TP.HCM 0-1 SLNA: Vượt lên tốp an toàn",
+      "link": "https://thanhnien.vn/highlight-becamex-tphcm-0-1-slna-vuot-len-top-an-toan-185260524210224417.htm",
+      "summary": "SLNA giành chiến thắng tối thiểu 1-0 trước Becamex TP.HCM để tạm vượt lên nhóm an toàn, trong khi đội chủ nhà tiếp tục đối mặt áp lực lớn ở cuộc đua trụ hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:05:00+07:00",
+      "fetched": "2026-05-24T21:54:35.859479+07:00"
+    },
+    {
+      "id": "689c6a6b844ff576a1856e9514a740f8",
+      "title": "Highlight ĐH Văn Hiến 1-1 Quy Nhơn United: Chia điểm, mất tốp 3",
+      "link": "https://thanhnien.vn/highlight-dh-van-hien-1-1-quy-nhon-united-chia-diem-mat-top-3-185260524210104086.htm",
+      "summary": "ĐH Văn Hiến bị Quy Nhơn United cầm hòa 1-1 ở vòng đấu quan trọng, qua đó đánh mất vị trí trong tốp 3 và gặp bất lợi trong cuộc đua cạnh tranh nhóm đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:05:00+07:00",
+      "fetched": "2026-05-24T21:54:35.859596+07:00"
+    },
+    {
+      "id": "6313d63b6fd15f0ffc9448b2f8c6923f",
+      "title": "Highlight Hà Tĩnh 1-1 CLB Công an Hà Nội: Bất ngờ cầm chân nhà vô địch",
+      "link": "https://thanhnien.vn/highlight-ha-tinh-1-1-clb-cong-an-ha-noi-bat-ngo-cam-chan-nha-vo-dich-185260524210359199.htm",
+      "summary": "Hà Tĩnh tạo bất ngờ khi cầm hòa CLB Công an Hà Nội 1-1, qua đó khiến nhà đương kim vô địch đánh rơi điểm số quan trọng trong cuộc đua tốp đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:03:00+07:00",
+      "fetched": "2026-05-24T21:54:35.859717+07:00"
+    },
+    {
+      "id": "4ed248f5c95c9cc725d22298ab67d120",
+      "title": "Tottenham và West Ham đua trụ hạng",
+      "link": "https://vnexpress.net/tottenham-hay-west-ham-xuong-hang-5077638.html",
+      "summary": "Tottenham chỉ cần hòa Everton ở vòng cuối để trụ hạng, còn West Ham buộc phải thắng Leeds và mong Tottenham thua để ở lại Ngoại hạng Anh. Bóng lăn lúc 22h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:00:00+07:00",
+      "fetched": "2026-05-24T21:54:32.629850+07:00"
+    },
+    {
+      "id": "4e9219aaa7ee06f962a399cc31bba81d",
+      "title": "Tôi xinh đẹp, có địa vị xã hội nhưng sao chồng vẫn ngoại tình?",
+      "link": "https://vnexpress.net/toi-xinh-dep-co-dia-vi-xa-hoi-nhung-sao-chong-van-ngoai-tinh-5077602.html",
+      "summary": "Gia đình tôi từng hạnh phúc, vợ chồng yêu thương nhau, có hai con ngoan ngoãn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T14:00:00+07:00",
+      "fetched": "2026-05-24T21:54:32.629994+07:00"
+    },
+    {
+      "id": "4ed248f5c95c9cc725d22298ab67d120",
+      "title": "Tottenham và West Ham đua trụ hạng",
+      "link": "https://vnexpress.net/tottenham-hay-west-ham-xuong-hang-5077638.html",
+      "summary": "Tottenham chỉ cần hòa Everton ở vòng cuối để trụ hạng, còn West Ham buộc phải thắng Leeds và mong Tottenham thua để ở lại Ngoại hạng Anh. Bóng lăn lúc 22h.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-24T14:00:00+07:00",
+      "fetched": "2026-05-24T21:54:45.283124+07:00"
+    },
+    {
       "id": "396fe0461bf069ad616ebe3362f0d2f3",
       "title": "Nghiên cứu bất ngờ: Ong mật cũng bị mất tập trung như con người",
       "link": "https://tuoitre.vn/nghien-cuu-bat-ngo-ong-mat-cung-bi-mat-tap-trung-nhu-con-nguoi-20260524103737978.htm",
@@ -521,6 +831,136 @@ window.newsData_2026_05_24 = {
       "category": "Tổng hợp",
       "published": "2026-05-24T13:53:42.734142+07:00",
       "fetched": "2026-05-24T13:53:42.734344+07:00"
+    },
+    {
+      "id": "d41d4cfb09d28a37e8913eb29b089418",
+      "title": "Tàu hải cảnh Trung Quốc đối đầu căng thẳng với tàu tuần duyên Đài Loan",
+      "link": "https://thanhnien.vn/tau-hai-canh-trung-quoc-doi-dau-cang-thang-voi-tau-tuan-duyen-dai-loan-185260524200500689.htm",
+      "summary": "Một tàu hải cảnh Trung Quốc đã rời vùng biển gần quần đảo Pratas (Đông Sa) do Đài Loan kiểm soát ở phía bắc Biển Đông trong ngày 24.5 sau một cuộc đối đầu căng thẳng lực lượng Đài Bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T13:51:00+07:00",
+      "fetched": "2026-05-24T21:54:35.859855+07:00"
+    },
+    {
+      "id": "391bcb7aef66420fa14699a9743d1c91",
+      "title": "Loa kéo karaoke khiến cả xóm mất ngủ nhưng khó xử phạt",
+      "link": "https://vnexpress.net/loa-keo-karaoke-khien-ca-xom-mat-ngu-nhung-kho-xu-phat-5077512.html",
+      "summary": "Điều khiến khó chịu không chỉ là tiếng nhạc lớn kéo dài, mà còn nằm ở cảm giác \"không ai xử lý được\", dù cả khu phố đều nghe thấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T13:37:28+07:00",
+      "fetched": "2026-05-24T21:54:32.630133+07:00"
+    },
+    {
+      "id": "014f3b818d1866d8075e975d23beb026",
+      "title": "Nắng nóng chính thức chạm mốc 40 độ C",
+      "link": "https://thanhnien.vn/nang-nong-chinh-thuc-cham-moc-40-do-c-185260524203224703.htm",
+      "summary": "Hôm nay (24.5), nắng nóng đặc biệt gay gắt xuất hiện ở khu vực Bắc bộ với mức nhiệt cao nhất 40 độ C, tại Vĩnh Yên (Phú Thọ). Bên cạnh đó, Hà Nội và loạt địa phương khác cũng sắp xỉ mức này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T13:35:00+07:00",
+      "fetched": "2026-05-24T21:54:35.859973+07:00"
+    },
+    {
+      "id": "2e21865596452e6f5e4f91d04200f54a",
+      "title": "Lưu Thi Thi tạo dáng trên đường phố Hà Nội",
+      "link": "https://vnexpress.net/luu-thi-thi-tao-dang-tren-duong-pho-ha-noi-5077627.html",
+      "summary": "Diễn viên \"Bộ bộ kinh tâm\" Lưu Thi Thi mặc xường sám, chụp ảnh trên phố Đinh Lễ, Nguyễn Xí ở Hà Nội, chiều 24/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T13:34:10+07:00",
+      "fetched": "2026-05-24T21:54:32.630262+07:00"
+    },
+    {
+      "id": "368985e6a7eec1d676b4c4ed1f088094",
+      "title": "Bé gái 13 tuổi ở Đà Lạt bị lũ cuốn",
+      "link": "https://vnexpress.net/be-gai-13-tuoi-o-da-lat-bi-lu-cuon-5077635.html",
+      "summary": "Bé gái lúc đang chơi ngoài vườn ở phường Lang Biang - Đà Lạt bị nước lũ cuốn trôi mất tích, hàng chục người đang được huy động tìm kiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T13:32:06+07:00",
+      "fetched": "2026-05-24T21:54:32.630388+07:00"
+    },
+    {
+      "id": "2b15819deba4efca016c1d3072dc27a8",
+      "title": "Hậu trường Hạnh Thúy hóa trang ma xó trong phim kinh dị",
+      "link": "https://vnexpress.net/hau-truong-hanh-thuy-hoa-trang-ma-xo-trong-phim-kinh-di-5077511.html",
+      "summary": "Nghệ sĩ Hạnh Thúy cho biết mất tám giờ mỗi ngày để hóa trang thành ma xó, trong phim kinh dị cùng tên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T13:30:00+07:00",
+      "fetched": "2026-05-24T21:54:32.630516+07:00"
+    },
+    {
+      "id": "0828b03713a5e9f0a1b2406744d764d7",
+      "title": "Thua SLNA ngay trên sân nhà, Becamex TP.HCM nguy cơ rớt hạng cực cao: Báo động đỏ!!!",
+      "link": "https://thanhnien.vn/thua-slna-ngay-tren-san-nha-becamex-tphcm-nguy-co-rot-hang-cuc-cao-bao-dong-do-185260524202824832.htm",
+      "summary": "Trên sân nhà Bình Dương, Becamex TP.HCM đối mặt nguy cơ xuống hạng khi nhận thất bại 0-1 trước SLNA trong ngày họ đá hỏng 1 quả phạt đền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T13:30:00+07:00",
+      "fetched": "2026-05-24T21:54:35.860088+07:00"
+    },
+    {
+      "id": "15be0c06d21e7421e0eab30aaa77ca3d",
+      "title": "Giông lốc làm hơn 90 nhà dân ở Cà Mau hư hỏng",
+      "link": "https://vnexpress.net/giong-loc-lam-hon-90-nha-dan-o-ca-mau-hu-hong-5077631.html",
+      "summary": "Mưa giông kèm lốc xoáy chiều 24/5 tại nhiều phường, xã ở Cà Mau làm hơn 90 căn nhà bị sập, tốc mái; nhiều cây xanh, trụ điện ngã đổ, thiệt hại hàng tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T13:23:45+07:00",
+      "fetched": "2026-05-24T21:54:32.630645+07:00"
+    },
+    {
+      "id": "b47ea51d85da01831963891db22643b0",
+      "title": "Chiêm Hồng Thái lỡ cơ hội vô địch World Cup carom 3 băng",
+      "link": "https://vnexpress.net/chiem-hong-thai-lo-co-hoi-vo-dich-world-cup-carom-3-bang-5077633.html",
+      "summary": "Cơ thủ Chiêm Hồng Thái không thể gây bất ngờ trước đối thủ sừng sỏ Frederic Caudron, nhận thất bại 25-50 ở chung kết World Cup carom 3 băng, tối 24/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T13:22:14+07:00",
+      "fetched": "2026-05-24T21:54:32.630788+07:00"
+    },
+    {
+      "id": "b47ea51d85da01831963891db22643b0",
+      "title": "Chiêm Hồng Thái lỡ cơ hội vô địch World Cup carom 3 băng",
+      "link": "https://vnexpress.net/chiem-hong-thai-lo-co-hoi-vo-dich-world-cup-carom-3-bang-5077633.html",
+      "summary": "Cơ thủ Chiêm Hồng Thái không thể gây bất ngờ trước đối thủ sừng sỏ Frederic Caudron, nhận thất bại 25-50 ở chung kết World Cup carom 3 băng, tối 24/5.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-24T13:22:14+07:00",
+      "fetched": "2026-05-24T21:54:45.283254+07:00"
+    },
+    {
+      "id": "8908e6dc0bfa6309433c5eabb5523613",
+      "title": "Người phụ nữ loét thực quản 8 cm vì nuốt vội thức ăn trong nồi lẩu",
+      "link": "https://vnexpress.net/nguoi-phu-nu-loet-thuc-quan-8-cm-vi-nuot-voi-thuc-an-trong-noi-lau-5077569.html",
+      "summary": "Do đang đói và mải nói chuyện với bạn, người phụ nữ họ Wang, 42 tuổi, ở tỉnh Hồ Nam, nuốt vội thức ăn vừa gắp ra từ nồi lẩu, khiến thực quản bị vết loét dài 8 cm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T13:21:44+07:00",
+      "fetched": "2026-05-24T21:54:32.630921+07:00"
+    },
+    {
+      "id": "012439ff29ccba80914ecd2cfb779db6",
+      "title": "Quốc gia nào có trữ lượng nước ngọt lớn nhất thế giới?",
+      "link": "https://vnexpress.net/quoc-gia-nao-co-tru-luong-nuoc-ngot-lon-nhat-the-gioi-5077477.html",
+      "summary": "Với hơn 8.230 km3 nước ngọt, nước này chiếm tới 12% trữ lượng nước ngọt toàn cầu. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T13:21:24+07:00",
+      "fetched": "2026-05-24T21:54:32.631049+07:00"
+    },
+    {
+      "id": "49250c3eeaa373e1063b486fb80ca477",
+      "title": "Đình Bắc và Quang Hải được ‘nghỉ ngơi’, CLB CAHN bị Hà Tĩnh cầm chân: Chưa thể áp sát kỷ lục",
+      "link": "https://thanhnien.vn/dinh-bac-va-quang-hai-duoc-nghi-ngoi-clb-cahn-bi-ha-tinh-cam-chan-chua-the-ap-sat-ky-luc-185260524200818232.htm",
+      "summary": "Tối 24.5, ở vòng 24 V-League 2025-2026, CLB Công an Hà Nội cho nhiều trụ cột nghỉ ngơi và chỉ có được trận hòa 1-1 trên sân đội CLB Hà Tĩnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-24T13:11:00+07:00",
+      "fetched": "2026-05-24T21:54:35.860214+07:00"
     },
     {
       "id": "f51e012ef35fe9b3b82094bfd37ee6f0",
