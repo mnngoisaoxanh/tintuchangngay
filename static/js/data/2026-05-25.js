@@ -1,7 +1,157 @@
 window.newsData_2026_05_25 = {
   "date": "2026-05-25",
-  "lastUpdated": "2026-05-25T19:55:57.032855+07:00",
+  "lastUpdated": "2026-05-25T23:15:14.240845+07:00",
   "articles": [
+    {
+      "id": "b5b27f755740f10c7aca3614daf49aba",
+      "title": "Người hâm mộ Trung Quốc phẫn nộ khi ngôi sao bóng chuyền chấn thương nặng",
+      "link": "https://tuoitre.vn/nguoi-ham-mo-trung-quoc-phan-no-khi-ngoi-sao-bong-chuyen-chan-thuong-nang-2026052520015351.htm",
+      "summary": "Wu được cho là đã bị sốt cao trước trận, nhưng rồi vẫn được xếp vào đội hình ra sân và thi đấu liên tục 2 giờ đồng hồ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.142637+07:00",
+      "fetched": "2026-05-25T23:15:08.142769+07:00"
+    },
+    {
+      "id": "948002c12bdc21df443f1bbe1462cf28",
+      "title": "Cơ sở 'giải cơ phòng đột quỵ' bị đình chỉ 18 tháng sau phản ánh của Tuổi Trẻ",
+      "link": "https://tuoitre.vn/co-so-giai-co-phong-dot-quy-bi-dinh-chi-18-thang-sau-phan-anh-cua-tuoi-tre-20260525191832346.htm",
+      "summary": "Hộ kinh doanh trị liệu Tín Tâm bị phạt 80 triệu đồng, đình chỉ hoạt động trong thời gian 18 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.142454+07:00",
+      "fetched": "2026-05-25T23:15:08.142623+07:00"
+    },
+    {
+      "id": "19528fb68c7ba100dc034c1540db7487",
+      "title": "Chưa xong với Iran, ông Trump đã kêu gọi khối Trung Đông bắt tay với Israel",
+      "link": "https://tuoitre.vn/chua-xong-voi-iran-ong-trump-da-keu-goi-khoi-trung-dong-bat-tay-voi-israel-20260525203200196.htm",
+      "summary": "Ông Trump kêu gọi các nước Ả Rập và Hồi giáo ký Hiệp định Abraham về bình thường hóa quan hệ với Israel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.142231+07:00",
+      "fetched": "2026-05-25T23:15:08.142437+07:00"
+    },
+    {
+      "id": "e0b5f9a9b73284eca867ca22c4d36b55",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm ký nghị quyết mới của Bộ Chính trị về xây dựng, phát triển TP.HCM",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-ky-nghi-quyet-moi-cua-bo-chinh-tri-ve-xay-dung-phat-trien-tp-hcm-20260525201945419.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đã ký ban hành nghị quyết 09 của Bộ Chính trị về xây dựng và phát triển TP.HCM trong kỷ nguyên mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.142032+07:00",
+      "fetched": "2026-05-25T23:15:08.142215+07:00"
+    },
+    {
+      "id": "7a713fb4320b6b3287f6d21558e91d99",
+      "title": "Thủ tướng: Hà Nội khởi công các dự án nhà ở cho thuê ngay trong tháng 6",
+      "link": "https://tuoitre.vn/thu-tuong-ha-noi-khoi-cong-cac-du-an-nha-o-cho-thue-ngay-trong-thang-6-2026052520265155.htm",
+      "summary": "Chiều 25-5, Thủ tướng Lê Minh Hưng chủ trì cuộc làm việc với UBND TP Hà Nội và các bộ, ngành về phát triển nhà ở cho thuê tại thủ đô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.141851+07:00",
+      "fetched": "2026-05-25T23:15:08.142018+07:00"
+    },
+    {
+      "id": "569feb943b892c93e0a84829bb2025e3",
+      "title": "Doanh thu một năm hơn 41 tỉ đồng, bar Revo ở Vũng Tàu chỉ kê khai hơn 6 tỉ",
+      "link": "https://tuoitre.vn/doanh-thu-mot-nam-hon-41-ti-dong-bar-revo-o-vung-tau-chi-ke-khai-hon-6-ti-2026052520500797.htm",
+      "summary": "Qua kiểm tra, đối chiếu số liệu kê khai thuế, Phòng Cảnh sát kinh tế đã vạch trần thủ đoạn trốn thuế tinh vi của quán bar Revo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.141638+07:00",
+      "fetched": "2026-05-25T23:15:08.141834+07:00"
+    },
+    {
+      "id": "ac2080ca717da8a077d42aa1e3f5ca89",
+      "title": "Một năm thực hiện chính quyền 2 cấp ở phường Minh Phụng: Hơn 15.000 hồ sơ, không hồ sơ nào trễ hạn",
+      "link": "https://tuoitre.vn/mot-nam-thuc-hien-chinh-quyen-2-cap-o-phuong-minh-phung-hon-15-000-ho-so-khong-ho-so-nao-tre-han-20260525204959765.htm",
+      "summary": "Tại hội nghị sơ kết một năm vận hành mô hình chính quyền 2 cấp, 3 cá nhân thuộc phường Minh Phụng, TP.HCM đã nhận bằng khen của Thủ tướng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.141508+07:00",
+      "fetched": "2026-05-25T23:15:08.141621+07:00"
+    },
+    {
+      "id": "93b4ef7e2309dfb61c2c0bdc4d416e92",
+      "title": "Làng cờ tướng Trung Quốc tự tin 'đã tìm ra điểm yếu của Lại Lý Huynh'",
+      "link": "https://tuoitre.vn/lang-co-tuong-trung-quoc-tu-tin-da-tim-ra-diem-yeu-cua-lai-ly-huynh-20260525202250436.htm",
+      "summary": "Người hâm mộ cờ tướng Trung Quốc bày tỏ thái độ lạc quan sau Kỳ Thành Bôi, giải đấu mà Lại Lý Huynh phải dừng bước ở vòng 1/8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.141363+07:00",
+      "fetched": "2026-05-25T23:15:08.141496+07:00"
+    },
+    {
+      "id": "5cc128a22676fbd66d3e7a82bfd7a397",
+      "title": "Sóng IPO 40 tỉ USD đã tới, tiền ở đâu để hấp thụ?",
+      "link": "https://tuoitre.vn/song-ipo-40-ti-usd-da-toi-tien-o-dau-de-hap-thu-20260525201425432.htm",
+      "summary": "Theo dự báo của Dragon Capital, làn sóng IPO giai đoạn 2026-2028 có thể đạt khoảng 40 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.141220+07:00",
+      "fetched": "2026-05-25T23:15:08.141346+07:00"
+    },
+    {
+      "id": "39cae050213694f3a0005bf1cef11e3e",
+      "title": "Miền Bắc còn ngột ngạt trong nắng nóng 40 độ C thêm hai ngày, sau đó có mưa",
+      "link": "https://tuoitre.vn/mien-bac-con-ngot-ngat-trong-nang-nong-40-do-c-them-hai-ngay-sau-do-co-mua-20260525204738522.htm",
+      "summary": "Dự báo miền Bắc tiếp tục nắng nóng 40 độ C trong ngày 26 và 27-5, trước khi có mưa giải nhiệt từ chiều tối 27-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.141081+07:00",
+      "fetched": "2026-05-25T23:15:08.141211+07:00"
+    },
+    {
+      "id": "f46638526c303f0137f81b5fcb3c0218",
+      "title": "Ông Hun Sen ký lệnh ân xá cho cựu lãnh đạo đối lập Campuchia",
+      "link": "https://tuoitre.vn/ong-hun-sen-ky-lenh-an-xa-cho-cuu-lanh-dao-doi-lap-campuchia-20260525211907701.htm",
+      "summary": "Cựu lãnh đạo phe đối lập Campuchia Kem Sokha - người bị tuyên án 27 năm tù vì tội phản quốc - đã được Quốc vương Norodom Sihamoni ân xá, ông Hun Sen ký thay vào sắc lệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.140977+07:00",
+      "fetched": "2026-05-25T23:15:08.141072+07:00"
+    },
+    {
+      "id": "4f4236a7ca688144d12de39b77c2d3dc",
+      "title": "Cán bộ lãnh đạo, quản lý không hoàn thành nhiệm vụ từ 2 quý liên tiếp trở lên sẽ bị thay thế",
+      "link": "https://tuoitre.vn/can-bo-lanh-dao-quan-ly-khong-hoan-thanh-nhiem-vu-tu-2-quy-lien-tiep-tro-len-se-bi-thay-the-20260525212754545.htm",
+      "summary": "Ban Tổ chức Trung ương vừa có hướng dẫn một số nội dung về việc đánh giá định kỳ hằng quý đối với cán bộ lãnh đạo, quản lý các cấp trong hệ thống chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.140870+07:00",
+      "fetched": "2026-05-25T23:15:08.140968+07:00"
+    },
+    {
+      "id": "b582ce91bb7512d2edb3f6c73853818a",
+      "title": "Kỷ luật cảnh cáo Giám đốc Sở Nông nghiệp và Môi trường TP Huế",
+      "link": "https://tuoitre.vn/ky-luat-canh-cao-giam-doc-so-nong-nghiep-va-moi-truong-tp-hue-20260525215648738.htm",
+      "summary": "Ông Nguyễn Đình Đức - Giám đốc Sở Nông nghiệp và Môi trường TP Huế - bị Thành ủy Huế kỷ luật với hình thức cảnh cáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.140759+07:00",
+      "fetched": "2026-05-25T23:15:08.140861+07:00"
+    },
+    {
+      "id": "4e02b27834d8d97dc2d6e83e5eac87d7",
+      "title": "TP.HCM đề xuất thí điểm xe buýt nhỏ đón khách theo nhu cầu",
+      "link": "https://tuoitre.vn/tp-hcm-de-xuat-thi-diem-xe-buyt-nho-don-khach-theo-nhu-cau-20260525214216416.htm",
+      "summary": "TP dự kiến triển khai thí điểm quy mô nhỏ tại một số khu vực như Đại học Quốc gia TP.HCM, trung tâm TP hoặc dọc các ga metro số 1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.140636+07:00",
+      "fetched": "2026-05-25T23:15:08.140749+07:00"
+    },
+    {
+      "id": "15ab6f2bcccee728ec0aa833866568e9",
+      "title": "Đi làm đồng bị sốc nhiệt do nắng nóng, khiến hôn mê sâu, tiên lượng xấu",
+      "link": "https://tuoitre.vn/di-lam-dong-bi-soc-nhiet-do-nang-nong-khien-hon-me-sau-tien-luong-xau-20260525221422551.htm",
+      "summary": "Hai người ở Phú Thọ đi làm đồng, gặt lúa dưới trời nắng nóng lên tới 40 độ C bị say nắng, sốc nhiệt phải nhập viện cấp cứu, trong đó có một người hôn mê sâu, trụy mạch, tiên lượng rất nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T23:15:08.140388+07:00",
+      "fetched": "2026-05-25T23:15:08.140622+07:00"
+    },
     {
       "id": "46ce32d6d5c24ccc14ebf5ad55207d42",
       "title": "Trong ngày Hà Nội nóng đến 56 độ lúc giữa trưa",
@@ -153,6 +303,66 @@ window.newsData_2026_05_25 = {
       "fetched": "2026-05-25T19:55:51.116728+07:00"
     },
     {
+      "id": "0ed3151c293cd78ad3083accd43f85a7",
+      "title": "Thanh Thúy cùng đội tuyển bóng chuyền nữ Việt Nam hội quân, sắp đấu những giải nào?",
+      "link": "https://thanhnien.vn/thanh-thuy-cung-doi-tuyen-bong-chuyen-nu-viet-nam-hoi-quan-sap-dau-nhung-giai-nao-185260525225839983.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Việt Nam đã chính thức hội quân ngày 25.5 tại Hà Nội, khởi động cho năm 2026 với hàng loạt giải đấu quốc tế quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T16:00:00+07:00",
+      "fetched": "2026-05-25T23:15:07.007975+07:00"
+    },
+    {
+      "id": "47fb679d2487733d6c8c3f1b52b2325b",
+      "title": "Tìm mối duyên lành ngẫu nhiên giữa thế giới này",
+      "link": "https://vnexpress.net/tim-moi-duyen-lanh-ngau-nhien-giua-the-gioi-nay-5077787.html",
+      "summary": "Mình 27 tuổi, sống và làm việc tại Quận 8, TP Hồ Chí Minh, là người hướng nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T15:30:27+07:00",
+      "fetched": "2026-05-25T23:15:03.461316+07:00"
+    },
+    {
+      "id": "4e5b40c594105668e22a7417e617972d",
+      "title": "Mong gặp một người nghiêm túc để cùng xây dựng gia đình",
+      "link": "https://vnexpress.net/mong-gap-mot-nguoi-nghiem-tuc-de-cung-xay-dung-gia-dinh-5077790.html",
+      "summary": "Nếu anh cũng từng đi qua đổ vỡ và đang nuôi con, có lẽ mình sẽ dễ đồng cảm với nhau hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T15:30:10+07:00",
+      "fetched": "2026-05-25T23:15:03.461414+07:00"
+    },
+    {
+      "id": "f42dc431015c2027944af797b14aa049",
+      "title": "Thay thế cán bộ lãnh đạo không hoàn thành nhiệm vụ 2 quý liên tiếp",
+      "link": "https://thanhnien.vn/thay-the-can-bo-lanh-dao-khong-hoan-thanh-nhiem-vu-2-quy-lien-tiep-185260525215322158.htm",
+      "summary": "Hướng dẫn mới của Ban Tổ chức Trung ương đưa ra cơ chế đánh giá cán bộ theo hướng thường xuyên, liên tục và gắn trực tiếp với công tác sử dụng cán bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T15:30:00+07:00",
+      "fetched": "2026-05-25T23:15:07.008144+07:00"
+    },
+    {
+      "id": "4d5a8044bb7ac5c03473db91b76d5309",
+      "title": "Chàng kỹ sư tìm người phù hợp để cùng nhau đi lâu dài",
+      "link": "https://vnexpress.net/chang-ky-su-tim-nguoi-phu-hop-de-cung-nhau-di-lau-dai-5077788.html",
+      "summary": "Với mình, mối quan hệ bền vững không cần quá ồn ào, chỉ cần đủ tin tưởng, đủ thấu hiểu và cùng nhau hướng về một mái ấm bình yên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T15:29:54+07:00",
+      "fetched": "2026-05-25T23:15:03.461496+07:00"
+    },
+    {
+      "id": "8b7715b179ef568461f7ebe616e0e877",
+      "title": "Bách khoa Hà Nội mời doanh nghiệp giao 'bài toán thật' cho sinh viên",
+      "link": "https://vnexpress.net/bach-khoa-ha-noi-moi-doanh-nghiep-giao-bai-toan-that-cho-sinh-vien-5077451.html",
+      "summary": "Đại học Bách khoa Hà Nội muốn doanh nghiệp giao \"bài toán thật\" cho sinh viên để họ làm được việc, thay vì \"chỉ biết\", từ đó đáp ứng nhu cầu của thị trường nhân lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T15:15:14+07:00",
+      "fetched": "2026-05-25T23:15:03.461687+07:00"
+    },
+    {
       "id": "0fa5d1d1092718754abb43f89e420288",
       "title": "Quy hoạch vị thế TP.HCM 100 năm: Chọn đúng quỹ đạo phát triển",
       "link": "https://tuoitre.vn/quy-hoach-vi-the-tp-hcm-100-nam-chon-dung-quy-dao-phat-trien-2026052507324537.htm",
@@ -301,6 +511,286 @@ window.newsData_2026_05_25 = {
       "category": "Tổng hợp",
       "published": "2026-05-25T15:10:59.380224+07:00",
       "fetched": "2026-05-25T15:10:59.380458+07:00"
+    },
+    {
+      "id": "4bf9e68e665510abb74aebd41ee73f08",
+      "title": "Nga cảnh báo sẽ tập kích lớn vào Kiev, hối thúc người nước ngoài rời đi",
+      "link": "https://vnexpress.net/nga-canh-bao-se-tap-kich-lon-vao-kiev-hoi-thuc-nguoi-nuoc-ngoai-roi-di-5078119.html",
+      "summary": "Nga tuyên bố sẽ tập kích hàng loạt vào cơ sở công nghiệp quốc phòng ở Kiev, kêu gọi công dân, nhà ngoại giao nước ngoài rời thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T15:01:26+07:00",
+      "fetched": "2026-05-25T23:15:03.461834+07:00"
+    },
+    {
+      "id": "4bf9e68e665510abb74aebd41ee73f08",
+      "title": "Nga cảnh báo sẽ tập kích lớn vào Kiev, hối thúc người nước ngoài rời đi",
+      "link": "https://vnexpress.net/nga-canh-bao-se-tap-kich-lon-vao-kiev-hoi-thuc-nguoi-nuoc-ngoai-roi-di-5078119.html",
+      "summary": "Nga tuyên bố sẽ tập kích hàng loạt vào cơ sở công nghiệp quốc phòng ở Kiev, kêu gọi công dân, nhà ngoại giao nước ngoài rời thành phố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-25T15:01:26+07:00",
+      "fetched": "2026-05-25T23:15:09.973744+07:00"
+    },
+    {
+      "id": "7331c2869cebfd9fbd343b3ade2ea2cf",
+      "title": "Thủ tướng yêu cầu Hà Nội phát triển nhà ở cho thuê quy mô lớn",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-ha-noi-phat-trien-nha-o-cho-thue-quy-mo-lon-5078102.html",
+      "summary": "Thủ tướng Lê Minh Hưng yêu cầu Hà Nội rà soát quỹ đất, xây dựng cơ chế phát triển nhà ở cho thuê quy mô lớn, đáp ứng nhu cầu của người dân và cán bộ, công chức, viên chức làm việc tại Thủ đô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T14:44:42+07:00",
+      "fetched": "2026-05-25T23:15:03.461967+07:00"
+    },
+    {
+      "id": "248adf5d703af80fc0bb8607d2ff0bc5",
+      "title": "Nữ VĐV thoát chết khi dù lượn bị máy bay đâm",
+      "link": "https://vnexpress.net/nu-vdv-thoat-chet-khi-du-luon-bi-may-bay-dam-5078113.html",
+      "summary": "Đang bay dù lượn trên bầu trời, nữ phi công 44 tuổi bị máy bay Cessna 172 va trúng, xé rách cánh dù, nhưng kịp bung dù cứu hộ và hạ cánh an toàn xuống đường rừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T14:42:20+07:00",
+      "fetched": "2026-05-25T23:15:03.462117+07:00"
+    },
+    {
+      "id": "41c5298322e5ba726fea36079b7bcfaf",
+      "title": "Người vi phạm liêm chính khoa học sẽ bị cấm nhận đề tài",
+      "link": "https://vnexpress.net/nguoi-vi-pham-liem-chinh-khoa-hoc-se-bi-cam-nhan-de-tai-5078107.html",
+      "summary": "Bộ Khoa học và Công nghệ ban hành hướng dẫn khung về liêm chính khoa học, quy định người vi phạm bị cấm nhận đề tài trong một thời gian, thậm chí vô thời hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T14:41:39+07:00",
+      "fetched": "2026-05-25T23:15:03.462256+07:00"
+    },
+    {
+      "id": "41c5298322e5ba726fea36079b7bcfaf",
+      "title": "Người vi phạm liêm chính khoa học sẽ bị cấm nhận đề tài",
+      "link": "https://vnexpress.net/nguoi-vi-pham-liem-chinh-khoa-hoc-se-bi-cam-nhan-de-tai-5078107.html",
+      "summary": "Bộ Khoa học và Công nghệ ban hành hướng dẫn khung về liêm chính khoa học, quy định người vi phạm bị cấm nhận đề tài trong một thời gian, thậm chí vô thời hạn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-25T14:41:39+07:00",
+      "fetched": "2026-05-25T23:15:13.180132+07:00"
+    },
+    {
+      "id": "ead4c24034c8ed4009e3ad1be88f0b4f",
+      "title": "2 'chảo lửa' ở miền Bắc có nắng nóng khốc liệt nhất cả nước",
+      "link": "https://thanhnien.vn/2-chao-lua-o-mien-bac-co-nang-nong-khoc-liet-nhat-ca-nuoc-185260525210217954.htm",
+      "summary": "14 tỉnh ghi nhận có nắng nóng gay gắt, đặc biệt gay gắt trong ngày 25.5, riêng miền Bắc xuất hiện 2 'chảo lửa' nóng nhất cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T14:36:00+07:00",
+      "fetched": "2026-05-25T23:15:07.008279+07:00"
+    },
+    {
+      "id": "986c4d49b97f7f559e67e560fb51dca1",
+      "title": "Hai đường dây bán hàng giả qua mạng thu lợi hàng tỷ đồng",
+      "link": "https://vnexpress.net/hai-duong-day-ban-hang-gia-qua-mang-thu-loi-hang-ty-dong-5078110.html",
+      "summary": "Các chủ cơ sở nhập hàng trôi nổi, sau đó bán chủ yếu qua mạng xã hội, sàn thương mại điện tử, thu lợi hàng tỷ đồng, vừa bị nhà chức trách TP HCM phát hiện, thu giữ hàng nghìn sản phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T14:34:34+07:00",
+      "fetched": "2026-05-25T23:15:03.462390+07:00"
+    },
+    {
+      "id": "986c4d49b97f7f559e67e560fb51dca1",
+      "title": "Hai đường dây bán hàng giả qua mạng thu lợi hàng tỷ đồng",
+      "link": "https://vnexpress.net/hai-duong-day-ban-hang-gia-qua-mang-thu-loi-hang-ty-dong-5078110.html",
+      "summary": "Các chủ cơ sở nhập hàng trôi nổi, sau đó bán chủ yếu qua mạng xã hội, sàn thương mại điện tử, thu lợi hàng tỷ đồng, vừa bị nhà chức trách TP HCM phát hiện, thu giữ hàng nghìn sản phẩm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-25T14:34:34+07:00",
+      "fetched": "2026-05-25T23:15:11.078618+07:00"
+    },
+    {
+      "id": "c717960089cd6d94f9890fd9c1b0d5dc",
+      "title": "Bông cải xanh trở thành 'rau củ thiết yếu' tại Nhật Bản, có ý nghĩa gì?",
+      "link": "https://thanhnien.vn/bong-cai-xanh-tro-thanh-rau-cu-thiet-yeu-tai-nhat-ban-co-y-nghia-gi-185260525205323004.htm",
+      "summary": "Lần đầu sau hơn 50 năm, Nhật Bản mới thêm một loại rau củ vào danh sách được hưởng quy chế 'thiết yếu'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T14:32:00+07:00",
+      "fetched": "2026-05-25T23:15:07.008404+07:00"
+    },
+    {
+      "id": "c08580076dbc8511aa80a9446e8a191e",
+      "title": "Máy bay phải hạ cánh khẩn do phi công nghi lên cơn đau tim",
+      "link": "https://thanhnien.vn/may-bay-phai-ha-canh-khan-do-phi-cong-nghi-len-con-dau-tim-185260525202816805.htm",
+      "summary": "Máy bay của hãng hàng không Jet2 (Anh) đã phải hạ cánh khẩn cấp sau khi một phi công được cho là lên cơn đau tim giữa không trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T14:32:00+07:00",
+      "fetched": "2026-05-25T23:15:07.008528+07:00"
+    },
+    {
+      "id": "8832f3403e0d695af8c8a799ba941fa5",
+      "title": "Thủ tướng: Hà Nội phải tiên phong nhà ở cho thuê, khởi công trong tháng 6",
+      "link": "https://thanhnien.vn/thu-tuong-ha-noi-phai-tien-phong-nha-o-cho-thue-khoi-cong-trong-thang-6-185260525202934373.htm",
+      "summary": "Theo Thủ tướng Lê Minh Hưng, nếu chúng ta phát triển tốt phân khúc nhà ở cho thuê thì sẽ lan tỏa tới các phân khúc khác, nhu cầu sở hữu nhà cũng sẽ giảm rất nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T14:16:00+07:00",
+      "fetched": "2026-05-25T23:15:07.008649+07:00"
+    },
+    {
+      "id": "5d35e7e8a9535ace957ff299080a104d",
+      "title": "Rọi đèn làm lóa camera, trộm két sắt nhà dân",
+      "link": "https://vnexpress.net/roi-den-lam-loa-camera-trom-ket-sat-nha-dan-5078098.html",
+      "summary": "Sau khi rọi đèn pin làm lóa camera an ninh, hai thanh niên phá cửa căn nhà trên đường Quách Điêu, xã Vĩnh Lộc, đột nhập lấy trộm một két sắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T14:15:02+07:00",
+      "fetched": "2026-05-25T23:15:03.462515+07:00"
+    },
+    {
+      "id": "e2bb5804879fe199eebc6433c982d85f",
+      "title": "Dây điện trên cao tốc Biên Hòa - Vũng Tàu lại bị cắt trộm",
+      "link": "https://thanhnien.vn/day-dien-tren-cao-toc-bien-hoa-vung-tau-lai-bi-cat-trom-185260525205735877.htm",
+      "summary": "Nhiều vị trí trên cao tốc Biên Hòa - Vũng Tàu bị cắt trộm dây điện, khiến thiết bị chiếu sáng không thể hoạt động, tăng nguy cơ mất an toàn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T14:14:00+07:00",
+      "fetched": "2026-05-25T23:15:07.008772+07:00"
+    },
+    {
+      "id": "1e9654ed2789231da1bfb12760c2681b",
+      "title": "Hưng Yên: Bắt nữ giám đốc sản xuất băng vệ sinh giả quy mô lớn",
+      "link": "https://thanhnien.vn/hung-yen-bat-nu-giam-doc-san-xuat-bang-ve-sinh-gia-quy-mo-lon-185260525202144524.htm",
+      "summary": "Công an tỉnh Hưng Yên đã khởi tố, bắt tạm giam Giám đốc Công ty TNHH sản xuất và thương mại TKL Việt Nam về tội sản xuất hàng giả, với cáo buộc đã sản xuất lượng lớn băng vệ sinh các nhãn hiệu nổi tiếng để thu lời bất chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T14:14:00+07:00",
+      "fetched": "2026-05-25T23:15:07.008906+07:00"
+    },
+    {
+      "id": "93ba69e82cc2a5f257498cb1acb0980e",
+      "title": "Ngọc Sơn lên tiếng về tin đồn sau 34 năm",
+      "link": "https://thanhnien.vn/ngoc-son-len-tieng-ve-tin-don-sau-34-nam-185260525205155726.htm",
+      "summary": "Trong đoạn clip vừa được đăng tải trên trang cá nhân, ca sĩ Ngọc Sơn có những chia sẻ về thông tin tiêu cực liên quan đến mình suốt nhiều năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T14:05:00+07:00",
+      "fetched": "2026-05-25T23:15:07.009026+07:00"
+    },
+    {
+      "id": "55c8dfbc196d656de96f3083b6f30747",
+      "title": "Nước nào nóng nhất châu Á?",
+      "link": "https://vnexpress.net/nuoc-nao-nong-nhat-chau-a-5078067.html",
+      "summary": "Mùa hè ở đây nắng nóng gay gắt và độ ẩm cao, khiến nhiệt độ trung bình ở mức 40-45 độ C, thậm chí lên tới 50 độ C. Đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T14:02:00+07:00",
+      "fetched": "2026-05-25T23:15:03.462639+07:00"
+    },
+    {
+      "id": "2cf042965f623d6519b37904fa4cfe1e",
+      "title": "Nắng nóng hơn 47 độ C thiêu đốt Ấn Độ",
+      "link": "https://vnexpress.net/nang-nong-hon-47-do-c-thieu-dot-an-do-5078093.html",
+      "summary": "Đợt nắng nóng cực đoan khiến nhiệt độ tăng vọt tại nhiều vùng của Ấn Độ, hàng triệu người phải sống trong cảnh ngột ngạt, ít nhất 16 người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T13:58:20+07:00",
+      "fetched": "2026-05-25T23:15:03.462761+07:00"
+    },
+    {
+      "id": "2cf042965f623d6519b37904fa4cfe1e",
+      "title": "Nắng nóng hơn 47 độ C thiêu đốt Ấn Độ",
+      "link": "https://vnexpress.net/nang-nong-hon-47-do-c-thieu-dot-an-do-5078093.html",
+      "summary": "Đợt nắng nóng cực đoan khiến nhiệt độ tăng vọt tại nhiều vùng của Ấn Độ, hàng triệu người phải sống trong cảnh ngột ngạt, ít nhất 16 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-25T13:58:20+07:00",
+      "fetched": "2026-05-25T23:15:09.973899+07:00"
+    },
+    {
+      "id": "c84e664140d24d43f00f55e35539b817",
+      "title": "Từ vụ ma túy ở bar Revo, lộ đường dây trốn thuế hàng chục tỉ đồng",
+      "link": "https://thanhnien.vn/tu-vu-ma-tuy-o-bar-revo-lo-duong-day-tron-thue-hang-chuc-ti-dong-185260525204042071.htm",
+      "summary": "Mở rộng điều tra từ vụ triệt phá tụ điểm ma túy ở bar Revo (số 15 - 15A Lý Tự Trọng, phường Vũng Tàu, TP.HCM), Công an TP.HCM tiếp tục khởi tố thêm 3 bị can về hành vi trốn thuế với số tiền gian lận nhiều tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T13:53:00+07:00",
+      "fetched": "2026-05-25T23:15:07.009163+07:00"
+    },
+    {
+      "id": "25a372cf609a593993538d84ce682e1c",
+      "title": "Chủ bar Revo có ma túy ở Vũng Tàu bị bắt vì trốn thuế",
+      "link": "https://vnexpress.net/chu-bar-revo-co-ma-tuy-o-vung-tau-bi-bat-vi-tron-thue-5078104.html",
+      "summary": "Sau khi đột kích quán bar Revo có nhiều ma túy, cơ quan điều tra còn phát hiện doanh nghiệp đứng sau đã giấu phần lớn doanh thu, trốn thuế hàng chục tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T13:49:04+07:00",
+      "fetched": "2026-05-25T23:15:03.462889+07:00"
+    },
+    {
+      "id": "6846539447a972826126a7c4d4b8fb16",
+      "title": "Vì sao ngày càng nhiều người không còn cần đến máy tính để bàn?",
+      "link": "https://thanhnien.vn/vi-sao-ngay-cang-nhieu-nguoi-khong-con-can-den-may-tinh-de-ban-185260520084602223.htm",
+      "summary": "Trong khi máy tính để bàn vẫn phục vụ người dùng chuyên nghiệp, sự phát triển công nghệ giúp laptop trở thành lựa chọn phổ biến hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T13:49:00+07:00",
+      "fetched": "2026-05-25T23:15:07.009292+07:00"
+    },
+    {
+      "id": "3c188f07ec897956e6eda94e6dc8f502",
+      "title": "Sau tuổi 40, muốn thận khỏe lâu cần tránh những điều này",
+      "link": "https://thanhnien.vn/sau-tuoi-40-muon-than-khoe-lau-can-tranh-nhung-dieu-nay-185260525203454088.htm",
+      "summary": "Sau tuổi 40, chức năng thận bắt đầu suy giảm theo tuổi tác. Đáng nói, tốc độ ‘già đi’ của thận còn có thể bị ảnh hưởng bởi lối sống, đặc biệt là chế độ ăn uống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T13:35:00+07:00",
+      "fetched": "2026-05-25T23:15:07.009418+07:00"
+    },
+    {
+      "id": "53e3d9f1edfc3b86089eaed9563bf63c",
+      "title": "Hà Nội gần 41 độ C, nóng nhất cả nước",
+      "link": "https://vnexpress.net/ha-noi-gan-41-do-c-nong-nhat-ca-nuoc-5078096.html",
+      "summary": "Hà Nội ghi nhận mức nhiệt 40,7 độ C chiều 25/5, cao nhất cả nước trong đợt nắng nóng đặc biệt gay gắt đang bao trùm Bắc Bộ và miền Trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T13:33:36+07:00",
+      "fetched": "2026-05-25T23:15:03.463014+07:00"
+    },
+    {
+      "id": "792f8cfd3b379dbb5bf1d58c9ae2ab97",
+      "title": "Soundbar hay loa rời: Thiết bị nào giúp nâng tầm âm thanh TV?",
+      "link": "https://thanhnien.vn/soundbar-hay-loa-roi-thiet-bi-nao-giup-nang-tam-am-thanh-tv-185260519102037548.htm",
+      "summary": "Sự thật về loa TV đời mới và cách giúp phòng khách thành rạp chiếu phim tại gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T13:27:00+07:00",
+      "fetched": "2026-05-25T23:15:07.009544+07:00"
+    },
+    {
+      "id": "0f2122cf36fe62ed2f052316e8f483c4",
+      "title": "California hy vọng tránh được vụ nổ bồn hóa chất",
+      "link": "https://thanhnien.vn/california-hy-vong-tranh-duoc-vu-no-bon-hoa-chat-185260525191616286.htm",
+      "summary": "Các chuyên gia đang cố gắng ngăn chặn vụ nổ ở một bể chứa hóa chất độc hại và dễ cháy ở miền nam California đã phát hiện ra một \"vết nứt tiềm tàng\" trong thùng chứa, có thể làm giảm áp suất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T13:23:00+07:00",
+      "fetched": "2026-05-25T23:15:07.009665+07:00"
+    },
+    {
+      "id": "fcd665b623d0db5f938cdcdda4df4692",
+      "title": "Đối thủ của U.17 Việt Nam biến động lớn trước World Cup, tức tốc sa thải HLV trưởng",
+      "link": "https://thanhnien.vn/doi-thu-cua-u17-viet-nam-bien-dong-truoc-world-cup-tuc-toc-sa-thai-hlv-truong-185260525201700287.htm",
+      "summary": "Không khí bất ổn đang bao trùm đội tuyển U.17 Mali chỉ vài tháng trước thềm FIFA U.17 World Cup 2026. Sau thất bại gây thất vọng tại giải U.17 châu Phi 2026 vào sáng 25.5 (giờ Việt Nam), Liên đoàn Bóng đá Mali (FEMAFOOT) đã đưa ra quyết định mạnh tay khi sa thải HLV trưởng Demba Mamadou Traoré.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T13:18:00+07:00",
+      "fetched": "2026-05-25T23:15:07.009783+07:00"
+    },
+    {
+      "id": "f19ca1940f2f17208edf3b7df636e2bf",
+      "title": "Siết lưu hành thuốc chứa fentanyl bởi nguy cơ bị biến thành ma túy",
+      "link": "https://vnexpress.net/siet-luu-hanh-thuoc-chua-fentanyl-boi-nguy-co-bi-bien-thanh-ma-tuy-5078061.html",
+      "summary": "Bộ Y tế yêu cầu bệnh viện và cơ sở kinh doanh dược kiểm soát thuốc chứa fentanyl bởi có dấu hiệu tội phạm lợi dụng hoạt chất này để sản xuất, pha trộn ma túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-25T13:15:00+07:00",
+      "fetched": "2026-05-25T23:15:03.463151+07:00"
     },
     {
       "id": "9460c18ab6088f9fec641b250745d02c",
