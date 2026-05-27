@@ -1,6 +1,6 @@
 window.newsData_2026_05_28 = {
   "date": "2026-05-28",
-  "lastUpdated": "2026-05-28T01:19:46.207683+07:00",
+  "lastUpdated": "2026-05-28T04:46:08.691005+07:00",
   "articles": [
     {
       "id": "2c330ca95142f3ff174f94764ff9b0df",
@@ -151,6 +151,76 @@ window.newsData_2026_05_28 = {
       "category": "Tổng hợp",
       "published": "2026-05-28T01:19:35.901535+07:00",
       "fetched": "2026-05-28T01:19:35.901773+07:00"
+    },
+    {
+      "id": "8f5f2a2f04aa0a1a208fe5d9861d19af",
+      "title": "Chiến sự Ukraine ngày 1.554: Loạt mục tiêu chiến lược Nga hứng đòn UAV diện rộng",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1554-loat-muc-tieu-chien-luoc-nga-hung-don-uav-dien-rong-185260527175848392.htm",
+      "summary": "Nga đã đánh chặn 140 máy bay không người lái (UAV) của Ukraine trong đêm 26 rạng sáng 27.5, giữa lúc có báo cáo cháy nổ ở nhiều địa điểm chiến lược tại miền nam và tây nam Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T21:23:00+07:00",
+      "fetched": "2026-05-28T04:46:00.818089+07:00"
+    },
+    {
+      "id": "e4ae9c75d3e69583a47df1f380879889",
+      "title": "CLB Trường Tươi Đồng Nai còn cách mặt bằng V-League cả chặng đường dài",
+      "link": "https://thanhnien.vn/clb-truong-tuoi-dong-nai-con-cach-mat-bang-v-league-ca-chang-duong-dai-185260527194319887.htm",
+      "summary": "Gần như chắc chắn đoạt vé lên V-League nhờ thống trị giải hạng nhất mùa này, nhưng để khẳng định mình tại sân chơi cao nhất bóng đá chuyên nghiệp VN, CLB Trường Tươi Đồng Nai cần nỗ lực nhiều hơn nữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T20:42:00+07:00",
+      "fetched": "2026-05-28T04:46:00.818240+07:00"
+    },
+    {
+      "id": "a253bd2707d9ae41953dbd473f3a0ef6",
+      "title": "3 thực phẩm 'gắn mác' lành mạnh có thể khiến đường huyết tăng vọt",
+      "link": "https://vnexpress.net/3-thuc-pham-gan-mac-lanh-manh-co-the-khien-duong-huyet-tang-vot-5078192.html",
+      "summary": "Sữa yến mạch, bánh mì nguyên cám và gạo nếp cẩm là những thực phẩm thường được đánh giá lành mạnh lại có thể khiến đường huyết tăng vọt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T20:00:00+07:00",
+      "fetched": "2026-05-28T04:45:57.811307+07:00"
+    },
+    {
+      "id": "853161bba17f35105be3fbcfed76d544",
+      "title": "Barca đạt thỏa thuận mua tiền đạo tuyển Anh",
+      "link": "https://vnexpress.net/barca-dat-thoa-thuan-mua-tien-dao-tuyen-anh-5078994.html",
+      "summary": "Barca đạt thỏa thuận với Newcastle để mua tiền đạo cánh tuyển Anh Anthony Gordon với giá 93 triệu USD, đồng thời đưa Marcus Rashford trở lại Man Utd.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T18:45:40+07:00",
+      "fetched": "2026-05-28T04:45:57.811464+07:00"
+    },
+    {
+      "id": "853161bba17f35105be3fbcfed76d544",
+      "title": "Barca đạt thỏa thuận mua tiền đạo tuyển Anh",
+      "link": "https://vnexpress.net/barca-dat-thoa-thuan-mua-tien-dao-tuyen-anh-5078994.html",
+      "summary": "Barca đạt thỏa thuận với Newcastle để mua tiền đạo cánh tuyển Anh Anthony Gordon với giá 93 triệu USD, đồng thời đưa Marcus Rashford trở lại Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-27T18:45:40+07:00",
+      "fetched": "2026-05-28T04:46:08.686538+07:00"
+    },
+    {
+      "id": "201f6de59b8437bdefe418e8fe257bb1",
+      "title": "Bác sĩ cảnh báo loại thực phẩm cấm kỵ cho vào tủ lạnh",
+      "link": "https://vnexpress.net/bac-si-canh-bao-loai-thuc-pham-cam-ky-cho-vao-tu-lanh-5077584.html",
+      "summary": "Bác sĩ Hàn Quốc cảnh báo thói quen bảo quản khoai tây trong tủ lạnh sẽ biến tinh bột thành đường, tạo ra chất kịch độc gây ung thư và tàn phá hệ thần kinh khi chiên rán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T18:03:00+07:00",
+      "fetched": "2026-05-28T04:45:57.811607+07:00"
+    },
+    {
+      "id": "bd5e894a5cbe328e25b500c1457be31a",
+      "title": "Mộng thịt",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/mong-thit-430",
+      "summary": "Mộng thịt là tình trạng mô bất thường phát triển trên mắt, thường gặp ở người tiếp xúc nhiều với ánh nắng, gió và bụi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T18:00:00+07:00",
+      "fetched": "2026-05-28T04:45:57.811746+07:00"
     },
     {
       "id": "8b207888700f67af2a1c058fbc035a2d",
