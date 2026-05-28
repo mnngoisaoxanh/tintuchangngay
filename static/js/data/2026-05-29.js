@@ -1,7 +1,17 @@
 window.newsData_2026_05_29 = {
   "date": "2026-05-29",
-  "lastUpdated": "2026-05-29T01:30:24.972282+07:00",
+  "lastUpdated": "2026-05-29T04:49:22.741578+07:00",
   "articles": [
+    {
+      "id": "94cd0edd4984e1037152ff4d296e667a",
+      "title": "Việt Nam - Singapore: Hình mẫu hợp tác thành công trong ASEAN",
+      "link": "https://tuoitre.vn/viet-nam-singapore-hinh-mau-hop-tac-thanh-cong-trong-asean-20260528230250191.htm",
+      "summary": "Việt Nam và Singapore trở thành Đối tác chiến lược toàn diện vào năm 2025. Singapore hiện là nhà đầu tư lớn thứ hai tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T04:49:15.918194+07:00",
+      "fetched": "2026-05-29T04:49:15.918424+07:00"
+    },
     {
       "id": "9bfc5583f783f1345e83c2826e7df830",
       "title": "Đinh Thanh Bình đưa Công An TP vào chung kết Đại hội TDTT TP.HCM",
@@ -153,6 +163,156 @@ window.newsData_2026_05_29 = {
       "fetched": "2026-05-29T01:30:17.204898+07:00"
     },
     {
+      "id": "a722ed14f62885f2e4b687694c5a8a58",
+      "title": "Gập ghềnh hòa bình Trung Đông",
+      "link": "https://thanhnien.vn/gap-ghenh-hoa-binh-trung-dong-185260528224052516.htm",
+      "summary": "Iran đã tiến hành trả đũa cuộc tấn công mới của Mỹ, sau khi Tổng thống Donald Trump phát thông điệp mới nhắm tới Tehran và liên quan eo biển Hormuz.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T21:40:00+07:00",
+      "fetched": "2026-05-29T04:49:14.725422+07:00"
+    },
+    {
+      "id": "8cc47282c2456ca7c87b225f08aae0b2",
+      "title": "Keown: 'Arsenal sẽ vượt thế hệ bất bại nếu vô địch Champions League'",
+      "link": "https://vnexpress.net/keown-arsenal-se-vuot-the-he-bat-bai-neu-vo-dich-champions-league-5079440.html",
+      "summary": "Cựu danh thủ Martin Keown cho rằng Arsenal dưới thời Mikel Arteta sẽ trở thành đội bóng vĩ đại nhất lịch sử CLB nếu vô địch Champions League để hoàn tất cú đúp danh hiệu mùa này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T21:18:41+07:00",
+      "fetched": "2026-05-29T04:49:11.572345+07:00"
+    },
+    {
+      "id": "8cc47282c2456ca7c87b225f08aae0b2",
+      "title": "Keown: 'Arsenal sẽ vượt thế hệ bất bại nếu vô địch Champions League'",
+      "link": "https://vnexpress.net/keown-arsenal-se-vuot-the-he-bat-bai-neu-vo-dich-champions-league-5079440.html",
+      "summary": "Cựu danh thủ Martin Keown cho rằng Arsenal dưới thời Mikel Arteta sẽ trở thành đội bóng vĩ đại nhất lịch sử CLB nếu vô địch Champions League để hoàn tất cú đúp danh hiệu mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-28T21:18:41+07:00",
+      "fetched": "2026-05-29T04:49:22.736992+07:00"
+    },
+    {
+      "id": "03cfbd4360af1786cf95012ae1975cb3",
+      "title": "Tuyển Brazil cảm thấy bị lừa trong vụ Neymar",
+      "link": "https://vnexpress.net/tuyen-brazil-cam-thay-bi-lua-trong-vu-neymar-5079474.html",
+      "summary": "Tiền đạo Neymar chấn thương nghiêm trọng hơn báo cáo của CLB Santos, phải nghỉ thi đấu khoảng ba tuần trước thềm World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T21:06:19+07:00",
+      "fetched": "2026-05-29T04:49:11.572505+07:00"
+    },
+    {
+      "id": "03cfbd4360af1786cf95012ae1975cb3",
+      "title": "Tuyển Brazil cảm thấy bị lừa trong vụ Neymar",
+      "link": "https://vnexpress.net/tuyen-brazil-cam-thay-bi-lua-trong-vu-neymar-5079474.html",
+      "summary": "Tiền đạo Neymar chấn thương nghiêm trọng hơn báo cáo của CLB Santos, phải nghỉ thi đấu khoảng ba tuần trước thềm World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-28T21:06:19+07:00",
+      "fetched": "2026-05-29T04:49:22.737151+07:00"
+    },
+    {
+      "id": "8ebd9143ce0a7e6788e3ad9dd28122eb",
+      "title": "Đừng chủ quan với chiếc khăn mặt treo trong nhà tắm mỗi ngày",
+      "link": "https://thanhnien.vn/dung-chu-quan-voi-chiec-khan-mat-treo-trong-nha-tam-moi-ngay-185260527141252905.htm",
+      "summary": "Nhiều người chăm làm sạch da bằng nước và sữa rửa mặt mỗi ngày, nhưng lại vô tình đưa vi khuẩn trở lại da khi dùng chiếc khăn mặt ẩm treo lâu trong nhà tắm để lau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T21:06:00+07:00",
+      "fetched": "2026-05-29T04:49:14.725573+07:00"
+    },
+    {
+      "id": "bb9be30e73255bd2de0c646c36df98ea",
+      "title": "Suzuki sắp ra mắt mẫu xe đầu tiên chạy nhiên liệu E100",
+      "link": "https://vnexpress.net/suzuki-sap-ra-mat-mau-xe-dau-tien-chay-nhien-lieu-e100-5079279.html",
+      "summary": "Hãng xe Maruti Suzuki sẽ công bố một mẫu xe sử dụng nhiên liệu linh hoạt vào ngày 5/6, đúng Ngày Môi trường Thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T21:00:00+07:00",
+      "fetched": "2026-05-29T04:49:11.572648+07:00"
+    },
+    {
+      "id": "9ddb33873b5d5643fcdeccb4afe5aedc",
+      "title": "Barca hỏi mua Julian Alvarez giá 117 triệu USD",
+      "link": "https://vnexpress.net/barca-hoi-mua-julian-alvarez-gia-117-trieu-usd-5079473.html",
+      "summary": "Barca đang đàm phán với Atletico Madrid để chiêu mộ tiền đạo Julian Alvarez, đồng thời chuẩn bị đề nghị 100 triệu euro (117 triệu USD) cho tuyển thủ Argentina.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T20:41:22+07:00",
+      "fetched": "2026-05-29T04:49:11.572783+07:00"
+    },
+    {
+      "id": "9ddb33873b5d5643fcdeccb4afe5aedc",
+      "title": "Barca hỏi mua Julian Alvarez giá 117 triệu USD",
+      "link": "https://vnexpress.net/barca-hoi-mua-julian-alvarez-gia-117-trieu-usd-5079473.html",
+      "summary": "Barca đang đàm phán với Atletico Madrid để chiêu mộ tiền đạo Julian Alvarez, đồng thời chuẩn bị đề nghị 100 triệu euro (117 triệu USD) cho tuyển thủ Argentina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-28T20:41:22+07:00",
+      "fetched": "2026-05-29T04:49:22.736833+07:00"
+    },
+    {
+      "id": "946cbf5bcb87e7a1aea69d3356b08092",
+      "title": "10 CEO lương cao nhất nước Mỹ",
+      "link": "https://vnexpress.net/10-ceo-luong-cao-nhat-nuoc-my-5079365.html",
+      "summary": "Ngành tài chính chiếm một nửa trong top 10 CEO công ty đại chúng nhận lương cao nhất nước Mỹ, theo khảo sát của AP.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T20:00:00+07:00",
+      "fetched": "2026-05-29T04:49:11.572912+07:00"
+    },
+    {
+      "id": "946cbf5bcb87e7a1aea69d3356b08092",
+      "title": "10 CEO lương cao nhất nước Mỹ",
+      "link": "https://vnexpress.net/10-ceo-luong-cao-nhat-nuoc-my-5079365.html",
+      "summary": "Ngành tài chính chiếm một nửa trong top 10 CEO công ty đại chúng nhận lương cao nhất nước Mỹ, theo khảo sát của AP.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-28T20:00:00+07:00",
+      "fetched": "2026-05-29T04:49:18.704978+07:00"
+    },
+    {
+      "id": "caa72a831298347bd8af2c54fa0102f9",
+      "title": "Những nhà hàng đặc sản Texas lao đao vì giá thịt tăng phi mã",
+      "link": "https://vnexpress.net/nhung-nha-hang-dac-san-texas-lao-dao-vi-gia-thit-tang-phi-ma-5078827.html",
+      "summary": "Ngay cả những nhà hàng thịt nướng nổi tiếng nhất ở Texas cũng đang phải vật lộn để duy trì hoạt động, khi giá nguyên liệu leo thang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T19:00:00+07:00",
+      "fetched": "2026-05-29T04:49:11.573042+07:00"
+    },
+    {
+      "id": "3ecd40fe928a293130a86188f9aee579",
+      "title": "Bác sĩ Đài Loan chỉ ra 5 món ăn sáng có thể tàn phá thận",
+      "link": "https://vnexpress.net/bac-si-dai-loan-chi-ra-5-mon-an-sang-co-the-tan-pha-than-5076821.html",
+      "summary": "5 combo ăn sáng gây hại cho thận phổ biến, bao gồm bánh mì sandwich, cháo trắng ăn kèm chà bông, bánh crepe trứng cá ngừ phô mai, mì xào chảo gang, và bánh mì burger kèm hồng trà sữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T19:00:00+07:00",
+      "fetched": "2026-05-29T04:49:11.573193+07:00"
+    },
+    {
+      "id": "caa72a831298347bd8af2c54fa0102f9",
+      "title": "Những nhà hàng đặc sản Texas lao đao vì giá thịt tăng phi mã",
+      "link": "https://vnexpress.net/nhung-nha-hang-dac-san-texas-lao-dao-vi-gia-thit-tang-phi-ma-5078827.html",
+      "summary": "Ngay cả những nhà hàng thịt nướng nổi tiếng nhất ở Texas cũng đang phải vật lộn để duy trì hoạt động, khi giá nguyên liệu leo thang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-28T19:00:00+07:00",
+      "fetched": "2026-05-29T04:49:17.307757+07:00"
+    },
+    {
+      "id": "9e913fb11cf280b777ab07147ba6ad17",
+      "title": "5 việc nên làm mỗi ngày giúp xương chắc khỏe",
+      "link": "https://vnexpress.net/5-viec-nen-lam-moi-ngay-giup-xuong-chac-khoe-5078867.html",
+      "summary": "Duy trì vận động đều đặn, tăng cường thực phẩm giàu canxi, vitamin D và ngủ đủ giấc có thể giúp xương chắc khỏe hơn theo thời gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T18:02:00+07:00",
+      "fetched": "2026-05-29T04:49:11.573321+07:00"
+    },
+    {
       "id": "17549640e387ae6d2edfe28cf334e826",
       "title": "'Sát thủ bóng đêm' của Hezbollah khiến Israel lo ngại",
       "link": "https://vnexpress.net/sat-thu-bong-dem-cua-hezbollah-khien-israel-lo-ngai-5078813.html",
@@ -161,6 +321,16 @@ window.newsData_2026_05_29 = {
       "category": "Thế giới",
       "published": "2026-05-28T18:00:00+07:00",
       "fetched": "2026-05-29T01:30:18.729279+07:00"
+    },
+    {
+      "id": "8f9d4f2f862946a9bf377714454554a0",
+      "title": "5 lầm tưởng thường gặp về viêm khớp",
+      "link": "https://vnexpress.net/5-lam-tuong-thuong-gap-ve-viem-khop-5077407.html",
+      "summary": "Viêm khớp là một phần của quá trình lão hóa, chỉ người già mới mắc bệnh này là những cách hiểu chưa đúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T18:00:00+07:00",
+      "fetched": "2026-05-29T04:49:11.573579+07:00"
     },
     {
       "id": "b72a7cf3a16eb225026affb3a0a371f7",
@@ -251,6 +421,26 @@ window.newsData_2026_05_29 = {
       "category": "Kinh doanh",
       "published": "2026-05-28T17:05:00+07:00",
       "fetched": "2026-05-29T01:30:20.494144+07:00"
+    },
+    {
+      "id": "e0eb3dfbcf057c6ee670cc0b415f1731",
+      "title": "Xăng E10 giúp giảm phát thải thế nào?",
+      "link": "https://vnexpress.net/xang-e10-giup-giam-phat-thai-the-nao-5078277.html",
+      "summary": "Từ 1/6, xăng sinh học E10 được bán rộng rãi trên cả nước, dự kiến giúp giảm thải khoảng 2,5 triệu tấn CO2 mỗi năm, theo Bộ Công Thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T17:05:00+07:00",
+      "fetched": "2026-05-29T04:49:11.574330+07:00"
+    },
+    {
+      "id": "e0eb3dfbcf057c6ee670cc0b415f1731",
+      "title": "Xăng E10 giúp giảm phát thải thế nào?",
+      "link": "https://vnexpress.net/xang-e10-giup-giam-phat-thai-the-nao-5078277.html",
+      "summary": "Từ 1/6, xăng sinh học E10 được bán rộng rãi trên cả nước, dự kiến giúp giảm thải khoảng 2,5 triệu tấn CO2 mỗi năm, theo Bộ Công Thương.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-28T17:05:00+07:00",
+      "fetched": "2026-05-29T04:49:18.705152+07:00"
     },
     {
       "id": "5bad124c895e6383dd8189c381ea53a7",
