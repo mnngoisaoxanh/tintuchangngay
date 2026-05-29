@@ -1,7 +1,157 @@
 window.newsData_2026_05_29 = {
   "date": "2026-05-29",
-  "lastUpdated": "2026-05-29T14:45:44.094265+07:00",
+  "lastUpdated": "2026-05-29T18:19:18.689174+07:00",
   "articles": [
+    {
+      "id": "db14a71e0b4753057008843a30e1c553",
+      "title": "Đoàn kiểm tra của Bộ Chính trị: Đảng ủy Chính phủ hoàn thành khối lượng công việc lớn, có đột phá",
+      "link": "https://tuoitre.vn/doan-kiem-tra-cua-bo-chinh-tri-dang-uy-chinh-phu-hoan-thanh-khoi-luong-cong-viec-lon-co-dot-pha-20260529155107331.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú cho rằng với khối lượng công việc rất lớn, yêu cầu rất cao nhưng đoàn kiểm tra, giám sát đã nỗ lực, cố gắng, hoàn thành khối lượng công việc lớn, cơ bản đáp ứng yêu cầu đề ra, có những đột phá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.187062+07:00",
+      "fetched": "2026-05-29T18:19:10.187158+07:00"
+    },
+    {
+      "id": "585c1bf1dbb02f97730fea71ce73c236",
+      "title": "Hà Anh Tuấn cùng 1.000 khán giả lội bùn gieo mầm xanh giữa đầm Vân Long",
+      "link": "https://tuoitre.vn/ha-anh-tuan-cung-1-000-khan-gia-loi-bun-gieo-mam-xanh-giua-dam-van-long-20260529154645547.htm",
+      "summary": "Trưa 29-5, hơn 1.000 khán giả đầu tiên của FORESTIVAL 2026 đã cùng Hà Anh Tuấn, Bùi Công Nam, Phùng Khánh Linh, Nguyễn Hùng… xắn tay lội bùn, trồng cây giữa vùng đất ngập nước Vân Long (Ninh Bình).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.186942+07:00",
+      "fetched": "2026-05-29T18:19:10.187053+07:00"
+    },
+    {
+      "id": "b0312bee5b6533bec5c79df5a3b7f861",
+      "title": "Một tháng kiểm tra: Phát hiện hơn 5.700 cơ sở vi phạm an toàn thực phẩm, xử phạt hơn 22,4 tỉ đồng",
+      "link": "https://tuoitre.vn/mot-thang-kiem-tra-phat-hien-hon-5-700-co-so-vi-pham-an-toan-thuc-pham-xu-phat-hon-22-4-ti-dong-20260529155114601.htm",
+      "summary": "Trong đợt thanh tra, kiểm tra liên ngành về an toàn thực phẩm diễn ra từ ngày 15-4 đến 15-5, lực lượng chức năng cả nước đã kiểm tra hơn 62.000 cơ sở sản xuất, kinh doanh thực phẩm, phát hiện 5.749 cơ sở vi phạm, phạt hơn 22,4 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.186845+07:00",
+      "fetched": "2026-05-29T18:19:10.186934+07:00"
+    },
+    {
+      "id": "0c18754c3c75f35332faa045ad23c66c",
+      "title": "Kênh chìm Sơn Tịnh ô nhiễm: Coliform vượt chuẩn 48 lần",
+      "link": "https://tuoitre.vn/kenh-chim-son-tinh-o-nhiem-coliform-vuot-chuan-48-lan-20260529140208377.htm",
+      "summary": "Cơ quan chức năng xác định nhiều chỉ số ô nhiễm tại kênh chìm Sơn Tịnh (Quảng Ngãi) vượt quy chuẩn ở mức cao, đặc biệt Coliform vượt tới 48 lần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.186742+07:00",
+      "fetched": "2026-05-29T18:19:10.186836+07:00"
+    },
+    {
+      "id": "337cd3bcadd3e898414f168ca7af11ca",
+      "title": "Rủ nhóm bạn tắm sông Tiền, nam thiếu niên 15 tuổi mất tích",
+      "link": "https://tuoitre.vn/ru-nhom-ban-tam-song-tien-nam-thieu-nien-15-tuoi-mat-tich-20260529162005502.htm",
+      "summary": "Công an tỉnh Vĩnh Long cho biết vẫn đang tích cực phối hợp lực lượng chức năng truy tìm tung tích thiếu niên mất tích khi đi tắm sông Tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.186631+07:00",
+      "fetched": "2026-05-29T18:19:10.186733+07:00"
+    },
+    {
+      "id": "bf7f9d2379bcd31a395edafd734747a5",
+      "title": "Lốc xoáy ở Cà Mau làm 5 căn nhà sập, 3 người bị thương",
+      "link": "https://tuoitre.vn/loc-xoay-o-ca-mau-lam-5-can-nha-sap-3-nguoi-bi-thuong-2026052916120811.htm",
+      "summary": "Ngày 29-5, Trung tá Trần Thanh Ngoan - Chính trị viên Đồn Biên phòng Khánh Tiến (Bộ đội biên phòng Cà Mau), cho biết đơn vị đang phối hợp địa phương hỗ trợ người dân khắc phục hậu quả do lốc xoáy gây ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.186532+07:00",
+      "fetched": "2026-05-29T18:19:10.186623+07:00"
+    },
+    {
+      "id": "6d84583e2a21965a0cd776d0c071345a",
+      "title": "TP.HCM hướng tới bảo tàng 'chuyên nghiệp, hiện đại, bản sắc'",
+      "link": "https://tuoitre.vn/tp-hcm-huong-toi-bao-tang-chuyen-nghiep-hien-dai-ban-sac-20260529161841651.htm",
+      "summary": "Sáng 29-5, hội nghị thực trạng và giải pháp xây dựng, phát triển hệ thống bảo tàng tại TP.HCM diễn ra ở Nhà trưng bày và Triển lãm TP.HCM. Hoạt động do Sở Văn hóa và Thể thao TP.HCM tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.186431+07:00",
+      "fetched": "2026-05-29T18:19:10.186523+07:00"
+    },
+    {
+      "id": "b9ad7d4374a341ec706f1b3c0cd6270f",
+      "title": "Hội nghị khoa học ‘quản lý toàn diện đường vào mạch máu trong thận nhân tạo’",
+      "link": "https://tuoitre.vn/hoi-nghi-khoa-hoc-quan-ly-toan-dien-duong-vao-mach-mau-trong-than-nhan-tao-20260529154251578.htm",
+      "summary": "Ngày 29-5, Bệnh viện Hoàn Mỹ Cửu Long - thành viên Tập đoàn Y khoa Hoàn Mỹ tổ - chức hội nghị khoa học với chủ đề “Quản lý toàn diện đường vào mạch máu trong thận nhân tạo”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.186327+07:00",
+      "fetched": "2026-05-29T18:19:10.186422+07:00"
+    },
+    {
+      "id": "312b89323ceb7a40bee7bcd956a0729b",
+      "title": "Siêu quậy Marsupilami đến rạp Việt sau khi 'oanh tạc' phòng vé Pháp",
+      "link": "https://tuoitre.vn/sieu-quay-marsupilami-den-rap-viet-sau-khi-oanh-tac-phong-ve-phap-20260529162421685.htm",
+      "summary": "Sau khi tạo nên cơn sốt phòng vé tại quê nhà Pháp với hơn 6,1 triệu lượt khán giả, Siêu quậy Marsupilami chính thức xác nhận ra rạp Việt từ ngày 5-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.186221+07:00",
+      "fetched": "2026-05-29T18:19:10.186315+07:00"
+    },
+    {
+      "id": "99fa8b83273ea5c97d1d02540b9e1955",
+      "title": "Họp nóng trước Ngày Tài chính số 2026: Lần đầu dựng không gian nhận diện lừa đảo số",
+      "link": "https://tuoitre.vn/hop-nong-truoc-ngay-tai-chinh-so-2026-lan-dau-dung-khong-gian-nhan-dien-lua-dao-so-20260529162549233.htm",
+      "summary": "Để chuẩn bị cho \"Ngày Tài chính số 2026\", chiều 27-5, báo Tuổi Trẻ đã có buổi gặp gỡ, trao đổi với các doanh nghiệp tham gia chương trình nhằm thống nhất công tác tổ chức, hoạt động và trải nghiệm dành cho khách tham quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.186102+07:00",
+      "fetched": "2026-05-29T18:19:10.186212+07:00"
+    },
+    {
+      "id": "5be1c2c42ed6d3a279b504760d0295fa",
+      "title": "Trăn trở gạo giả, làm ra gạo ST25 chuẩn Global GAP",
+      "link": "https://tuoitre.vn/tran-tro-gao-gia-lam-ra-gao-st25-chuan-global-gap-20260529154113469.htm",
+      "summary": "Đó là chia sẻ của ông Vũ Ngọc Đỉnh, Tổng giám đốc Techpal Group, về câu chuyện phát triển sản phẩm chuẩn Global GAP Techpal Rice của doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.185997+07:00",
+      "fetched": "2026-05-29T18:19:10.186093+07:00"
+    },
+    {
+      "id": "36199780409f7623bb8270bfefd58d2c",
+      "title": "Phát hiện heroin cùng 2 khẩu súng đã nạp đạn khi khám xét nhà 'con nghiện'",
+      "link": "https://tuoitre.vn/phat-hien-heroin-cung-2-khau-sung-da-nap-dan-khi-kham-xet-nha-con-nghien-20260529160320907.htm",
+      "summary": "Tiến hành khám xét khẩn cấp nhà một 'con nghiện' ở phường Sa Pa, Công an tỉnh Lào Cai phát hiện hơn 65 gam heroin cùng súng ngắn, súng hơi đã nạp đạn, đao và một số hung khí nguy hiểm khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.185890+07:00",
+      "fetched": "2026-05-29T18:19:10.185989+07:00"
+    },
+    {
+      "id": "71c8b85eb1ab74f3df9fdff9eca925b7",
+      "title": "Công an TP.HCM truy tìm đàn em của Phương 'mặt quỷ' bảo kê chợ Bình Tây",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-truy-tim-dan-em-cua-phuong-mat-quy-bao-ke-cho-binh-tay-20260529162511792.htm",
+      "summary": "Công an TP.HCM kêu gọi Nguyễn Hồng Vũ (tự \"Đen\") đến trình diện do có liên quan trong vụ án \"cưỡng đoạt tài sản\" tại chợ Bình Tây do Nguyễn Nguyên Phương cùng đồng phạm thực hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.185779+07:00",
+      "fetched": "2026-05-29T18:19:10.185881+07:00"
+    },
+    {
+      "id": "2104affd4cd608b20cecb2fd6235810a",
+      "title": "'Chiến Binh Đầu Tư' tuần 7: Bảng xếp hạng biến động, cuộc đua ngày càng quyết liệt",
+      "link": "https://tuoitre.vn/chien-binh-dau-tu-tuan-7-bang-xep-hang-bien-dong-cuoc-dua-ngay-cang-quyet-liet-20260529140834914.htm",
+      "summary": "Kết quả tuần 7 cuộc thi 'Chiến Binh Đầu Tư' ghi nhận nhiều biến động ở cả ba bảng đấu. Theo các nhà đầu tư dẫn đầu, cuộc đua thứ hạng ngày càng cạnh tranh khi bảng xếp hạng liên tục thay đổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.185633+07:00",
+      "fetched": "2026-05-29T18:19:10.185769+07:00"
+    },
+    {
+      "id": "e7976dcad23b5bbd98151f424a87a600",
+      "title": "Năm 2026 có thể chứng kiến cháy rừng khốc liệt nhất lịch sử",
+      "link": "https://tuoitre.vn/nam-2026-co-the-chung-kien-chay-rung-khoc-liet-nhat-lich-su-2026052910041326.htm",
+      "summary": "Năm 2026 có thể trở thành một trong những năm cháy rừng nghiêm trọng nhất từng được ghi nhận, khi biến đổi khí hậu kết hợp với nguy cơ xuất hiện hiện tượng El Nino cường độ mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T18:19:10.185395+07:00",
+      "fetched": "2026-05-29T18:19:10.185619+07:00"
+    },
     {
       "id": "1f6ab1ef7dcc688b1cb50f015d3ec632",
       "title": "Quốc tế Thiếu nhi đặc biệt của các bệnh nhi tại Bệnh viện Nhân dân Gia Định",
@@ -153,6 +303,366 @@ window.newsData_2026_05_29 = {
       "fetched": "2026-05-29T14:45:35.898556+07:00"
     },
     {
+      "id": "eecd34beeb849a11260a857016706278",
+      "title": "Tây Ninh phát sinh chi phí rất lớn khi tỉnh làm việc song song 2 cơ sở",
+      "link": "https://thanhnien.vn/tay-ninh-phat-sinh-chi-phi-rat-lon-khi-tinh-lam-viec-song-song-2-co-so-18526052917200809.htm",
+      "summary": "Tỉnh ủy Tây Ninh đã nhận diện hạn chế, vướng mắc trong tổ chức bộ máy, nhân sự và hạ tầng công nghệ… sau một năm vận hành chính quyền địa phương 2 cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T11:04:00+07:00",
+      "fetched": "2026-05-29T18:19:08.857178+07:00"
+    },
+    {
+      "id": "eb6ba345046206506026ecbc3828e97a",
+      "title": "HLV Bồ Đào Nha chưa dám 'mơ xa', làm rõ vai trò của Ronaldo ở World Cup",
+      "link": "https://thanhnien.vn/hlv-bo-dao-nha-chua-dam-mo-xa-lam-ro-vai-tro-cua-ronaldo-o-world-cup-185260529174755782.htm",
+      "summary": "Chỉ ít ngày trước khi World Cup 2026 khởi tranh, HLV Roberto Martinez đã có những chia sẻ đáng chú ý về đội tuyển Bồ Đào Nha cũng như Ronaldo trong cuộc phỏng vấn với chương trình El Larguero.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T11:00:00+07:00",
+      "fetched": "2026-05-29T18:19:08.857327+07:00"
+    },
+    {
+      "id": "2a206bd4c6a322be8a9416b20dec9406",
+      "title": "Làm mới tủ đồ mùa hè với chân váy chữ A năng động",
+      "link": "https://thanhnien.vn/thoi-trang-tre/lam-moi-tu-do-mua-he-voi-chan-vay-chu-a-nang-dong-18526052810381271.htm",
+      "summary": "Gợi ý những xu hướng phối đồ thịnh hành nhất với chân váy chữ A để mang lại diện mạo thời thượng cho phái đẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T11:00:00+07:00",
+      "fetched": "2026-05-29T18:19:08.857464+07:00"
+    },
+    {
+      "id": "e66079f107a670baa312f03b4bb9a1cb",
+      "title": "Hơn 600 lưu học sinh Lào tại Đà Nẵng hưởng loạt chính sách đặc biệt",
+      "link": "https://thanhnien.vn/hon-600-luu-hoc-sinh-lao-tai-da-nang-huong-loat-chinh-sach-dac-biet-185260529173053762.htm",
+      "summary": "HĐND thành phố Đà Nẵng thông qua hàng loạt chính sách hỗ trợ dành cho lưu học sinh Lào đang học tập tại thành phố. Với tổng kinh phí dự kiến khoảng 62 tỉ đồng trong năm 2026, hơn 600 lưu học sinh Lào sẽ được hưởng nhiều chính sách ưu đãi đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:51:00+07:00",
+      "fetched": "2026-05-29T18:19:08.857594+07:00"
+    },
+    {
+      "id": "d50b0b7f46b7b149409fabeba78ef9dc",
+      "title": "Tìm thấy thiếu niên đuối nước mất tích khi tắm sông Cổ Chiên",
+      "link": "https://thanhnien.vn/tim-thay-thieu-nien-duoi-nuoc-mat-tich-khi-tam-song-co-chien-185260529173427327.htm",
+      "summary": "Liên quan đến vụ nhóm trẻ tắm sông khiến 1 em đuối nước mất tích, Đội tìm kiếm cứu nạn cứu hộ và trợ giúp nhân đạo tỉnh Vĩnh Long đã tìm thấy thi thể em này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:44:00+07:00",
+      "fetched": "2026-05-29T18:19:08.857731+07:00"
+    },
+    {
+      "id": "bc86e45aa55ec7f58382ba7870f22a99",
+      "title": "Đà Nẵng đồng ý để THACO đầu tư luồng Cửa Lở gần 7.000 tỉ đồng",
+      "link": "https://thanhnien.vn/da-nang-dong-y-de-thaco-dau-tu-luong-cua-lo-gan-7000-ti-dong-185260529170446351.htm",
+      "summary": "Đà Nẵng thống nhất chủ trương đầu tư dự án luồng Cửa Lở gần 7.000 tỉ đồng theo hình thức hợp đồng BT, do doanh nghiệp thuộc hệ sinh thái THACO đề xuất thực hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:39:00+07:00",
+      "fetched": "2026-05-29T18:19:08.857857+07:00"
+    },
+    {
+      "id": "60d8ff0f5c6f2cdb5f3462583e9d044a",
+      "title": "Motorola lên tiếng về cáo buộc tự chèn link Amazon trên điện thoại",
+      "link": "https://thanhnien.vn/motorola-len-tieng-ve-cao-buoc-tu-chen-link-amazon-tren-dien-thoai-18526052916340285.htm",
+      "summary": "Người dùng Motorola phát hiện ứng dụng Amazon Shopping tự mở qua URL lạ, buộc hãng phải nhanh chóng lên tiếng giải thích sự cố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:39:00+07:00",
+      "fetched": "2026-05-29T18:19:08.857977+07:00"
+    },
+    {
+      "id": "d2a3ad338ddc4792d33fd07e12aeb9cb",
+      "title": "Ngân hàng Nhà nước lên tiếng chương trình Vinhomes hỗ trợ khách hàng vàng mua bất động",
+      "link": "https://thanhnien.vn/ngan-hang-nha-nuoc-len-tieng-chuong-trinh-vinhomes-ho-tro-khach-hang-vang-mua-bat-dong-18526052917262304.htm",
+      "summary": "Chiều 29.5, Ngân hàng Nhà nước đã lên tiếng liên quan đến chương trình hỗ trợ khách hàng sử dụng vàng để giao dịch bất động sản được đăng tải trên các website và báo cáo của Tập đoàn Vingroup, Công ty cổ phần Vinhomes (VHM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:34:00+07:00",
+      "fetched": "2026-05-29T18:19:08.858106+07:00"
+    },
+    {
+      "id": "07872decb952d1e7a8f6f666371e04fc",
+      "title": "Xiaomi 17T Series ra mắt: Có nên mua ở thời điểm hiện tại?",
+      "link": "https://thanhnien.vn/xiaomi-17t-series-ra-mat-co-nen-mua-o-thoi-diem-hien-tai-18526052914360979.htm",
+      "summary": "Xiaomi 17T sắp ra mắt đang thu hút sự quan tâm lớn nhờ hàng loạt nâng cấp trong phân khúc cận cao cấp.Nhiều người dùng đang phân vân Xiaomi 17T Pro và 17T có đáng mua ở thời điểm hiện tại không?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:30:00+07:00",
+      "fetched": "2026-05-29T18:19:08.858226+07:00"
+    },
+    {
+      "id": "f659bc8712bec487f865fa775e04db54",
+      "title": "Hà Tĩnh đối thoại cùng doanh nghiệp, kiến tạo động lực mới cho kinh tế tư nhân",
+      "link": "https://thanhnien.vn/ha-tinh-doi-thoai-cung-doanh-nghiep-kien-tao-dong-luc-moi-cho-kinh-te-tu-nhan-185260529164712454.htm",
+      "summary": "Nhiều ý kiến cho rằng Hà Tĩnh có lợi thế nổi bật về công nghiệp, logistics, kinh tế biển, cảng nước sâu và vị trí chiến lược ở khu vực Bắc Trung bộ, song cần cải cách mạnh mẽ hơn để biến tiềm năng thành động lực tăng trưởng mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:27:00+07:00",
+      "fetched": "2026-05-29T18:19:08.858345+07:00"
+    },
+    {
+      "id": "fc9e92ccbebfab333659bed05d09a163",
+      "title": "VSIP được cấp phép thêm 5 khu công nghiệp, tổng quy mô hơn 2.300 ha",
+      "link": "https://vnexpress.net/vsip-duoc-cap-phep-them-5-khu-cong-nghiep-tong-quy-mo-hon-2-300-ha-5079795.html",
+      "summary": "Liên doanh Khu công nghiệp Việt Nam – Singapore (VSIP) vừa được cấp phép 5 khu công nghiệp tại Hải Phòng, Nghệ An, Huế, Hà Nam và TP HCM, nâng số dự án ở Việt Nam lên 26.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:23:47+07:00",
+      "fetched": "2026-05-29T18:19:05.957265+07:00"
+    },
+    {
+      "id": "f42bead377981efa7f448f38148fceb7",
+      "title": "Nhà đầu tư 'chờ đợi, quan sát' trước khi rót tiền vào trung tâm tài chính",
+      "link": "https://vnexpress.net/nha-dau-tu-cho-doi-quan-sat-truoc-khi-rot-tien-vao-trung-tam-tai-chinh-5079723.html",
+      "summary": "Nhà đầu tư quan tâm nhưng vẫn đang \"chờ đợi và quan sát\" trước khi rót tiền vào Trung tâm Tài chính Quốc tế Việt Nam, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:20:23+07:00",
+      "fetched": "2026-05-29T18:19:05.957426+07:00"
+    },
+    {
+      "id": "f42bead377981efa7f448f38148fceb7",
+      "title": "Nhà đầu tư 'chờ đợi, quan sát' trước khi rót tiền vào trung tâm tài chính",
+      "link": "https://vnexpress.net/nha-dau-tu-cho-doi-quan-sat-truoc-khi-rot-tien-vao-trung-tam-tai-chinh-5079723.html",
+      "summary": "Nhà đầu tư quan tâm nhưng vẫn đang \"chờ đợi và quan sát\" trước khi rót tiền vào Trung tâm Tài chính Quốc tế Việt Nam, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-29T10:20:23+07:00",
+      "fetched": "2026-05-29T18:19:13.681844+07:00"
+    },
+    {
+      "id": "abca2f44f202e7c8fa6560d744016587",
+      "title": "Khởi tố bị can suốt 5 năm đổ vỏ hàu trái phép",
+      "link": "https://thanhnien.vn/khoi-to-bi-can-suot-5-nam-do-vo-hau-trai-phep-185260529162415666.htm",
+      "summary": "Công an tỉnh Quảng Ninh vừa khởi tố vụ án, khởi tố bị can đối với chủ một cơ sở sơ chế biến hàu tại đặc khu Vân Đồn sau khi phát hiện hơn 324 tấn vỏ hàu bị đổ trái phép ra môi trường trong suốt 5 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:19:00+07:00",
+      "fetched": "2026-05-29T18:19:08.858468+07:00"
+    },
+    {
+      "id": "426631717c556a6edc3858baabf54600",
+      "title": "Ebola nguy cơ lan rộng, Bộ Y tế khuyến cáo hạn chế đi lại",
+      "link": "https://vnexpress.net/ebola-nguy-co-lan-rong-bo-y-te-khuyen-cao-han-che-di-lai-5079797.html",
+      "summary": "Bộ Y tế khuyến cáo người dân hạn chế đi đến khu vực có dịch Ebola tại châu Phi, trong bối cảnh WHO cảnh báo nguy cơ lây lan xuyên biên giới của chủng virus Bundibugyo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:17:43+07:00",
+      "fetched": "2026-05-29T18:19:05.957561+07:00"
+    },
+    {
+      "id": "ab4fe477c42ca4ccaebc15be3569140a",
+      "title": "Việt Nam luôn coi trọng và mong muốn thúc đẩy quan hệ hữu nghị với Singapore",
+      "link": "https://thanhnien.vn/viet-nam-luon-coi-trong-va-mong-muon-thuc-day-quan-he-huu-nghi-voi-singapore-185260529162838786.htm",
+      "summary": "Sáng 29.5, tại Singapore, Tổng Bí thư, Chủ tịch nước Tô Lâm đã hội đàm với Thủ tướng Singapore Lawrence Wong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:16:00+07:00",
+      "fetched": "2026-05-29T18:19:08.858586+07:00"
+    },
+    {
+      "id": "d58bae7911bcfb312cc47386efc544eb",
+      "title": "Việt Nam luôn dành ưu tiên cao cho quan hệ với Singapore",
+      "link": "https://thanhnien.vn/viet-nam-luon-danh-uu-tien-cao-cho-quan-he-voi-singapore-185260529150317849.htm",
+      "summary": "Sáng 29.5, ngay sau lễ đón cấp nhà nước được cử hành trọng thể tại trụ sở Bộ Ngoại giao Singapore theo nghi thức cao nhất dành cho nguyên thủ quốc gia, Tổng Bí thư, Chủ tịch nước Tô Lâm đã tiến hành hội đàm với Tổng thống Singapore Tharman Shanmugaratnam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:16:00+07:00",
+      "fetched": "2026-05-29T18:19:08.858725+07:00"
+    },
+    {
+      "id": "c2bd95c646d2b6dde049b3ba0a884226",
+      "title": "Xổ số miền Nam ngày 29 tháng 5: Vừa có kết quả, đại lý gọi báo khách trúng đài Trà Vinh",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-29-thang-5-vua-co-ket-qua-dai-ly-goi-bao-khach-trung-dai-tra-vinh-185260529165643645.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 29 tháng 5, một đại lý vé số ở Vĩnh Long đã báo cho khách quen trúng đài Trà Vinh đến đổi thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:13:00+07:00",
+      "fetched": "2026-05-29T18:19:08.858851+07:00"
+    },
+    {
+      "id": "e4e515634d8042edeffa313b1464e7d4",
+      "title": "Nhóm cướp dùng búa đập tủ kính tiệm vàng sa lưới sau 24 giờ",
+      "link": "https://thanhnien.vn/nhom-cuop-dung-bua-dap-tu-kinh-tiem-vang-sa-luoi-sau-24-gio-185260529151439735.htm",
+      "summary": "Chỉ trong vòng 24 giờ sau khi xảy ra vụ cướp tiệm vàng táo tợn giữa ban ngày tại phường Tân Đông Hiệp, Công an TP.HCM đã bắt giữ 6 nghi phạm, thu hồi toàn bộ số vàng bạc, trang sức bị cướp có giá trị ước tính hơn 800 triệu đồng. Trước đó, nhóm đối tượng dùng búa đập vỡ tủ kính trưng bày tại một tiệm...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:13:00+07:00",
+      "fetched": "2026-05-29T18:19:08.858971+07:00"
+    },
+    {
+      "id": "d963d7eda797381cec78d08583a6c56e",
+      "title": "Điểm tin 17h: Việt Nam - Singapore thúc đẩy hợp tác khoa học công nghệ | 'Việt Nam hướng mục tiêu tự chủ AI'",
+      "link": "https://vnexpress.net/diem-tin-17h-viet-nam-singapore-thuc-day-hop-tac-khoa-hoc-cong-nghe-viet-nam-huong-muc-tieu-tu-chu-ai-5079814.html",
+      "summary": "Kiến nghị tổ chức kỳ họp Quốc hội không thường lệ vào giữa năm; Hà Nội đề xuất thu thêm phí nếu mua bán nhà đất trong khu TOD...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:07:08+07:00",
+      "fetched": "2026-05-29T18:19:05.957697+07:00"
+    },
+    {
+      "id": "d562343aa2d6de01884432d7d3644bd1",
+      "title": "Lao động kiến nghị lương đủ sống, giảm giờ làm trước Đại hội Công đoàn",
+      "link": "https://vnexpress.net/lao-dong-kien-nghi-luong-du-song-giam-gio-lam-truoc-dai-hoi-cong-doan-5079793.html",
+      "summary": "Trước Đại hội Công đoàn lần thứ 14, đoàn viên, lao động gửi nhiều kiến nghị liên quan chính sách lương tối thiểu, giảm giờ làm, giảm tuổi nghỉ hưu một số nhóm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:06:39+07:00",
+      "fetched": "2026-05-29T18:19:05.957846+07:00"
+    },
+    {
+      "id": "6c78d501d421a2c7dab944308a34a5ee",
+      "title": "Gen Z chinh phục học vị thạc sĩ sau 12 tháng",
+      "link": "https://vnexpress.net/gen-z-chinh-phuc-hoc-vi-thac-si-sau-12-thang-5079330.html",
+      "summary": "Sau khi hoàn thành chương trình thạc sĩ quốc tế trong một năm, Nguyễn Khánh Hương đi làm tích lũy kinh nghiệm đặt mục tiêu trở thành nghiên cứu sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:00:36+07:00",
+      "fetched": "2026-05-29T18:19:05.957977+07:00"
+    },
+    {
+      "id": "05941d89d6acbfdeda3010574dfec93e",
+      "title": "Vợ hỗn láo từ khi gia đình tôi phá sản",
+      "link": "https://vnexpress.net/vo-hon-lao-tu-khi-gia-dinh-toi-pha-san-5079746.html",
+      "summary": "Gần đây nhất, em còn nói với bạn bè về mẹ chồng rằng mẹ tôi lười, không chịu làm gì, trong khi mẹ tôi đã hơn 70 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:00:00+07:00",
+      "fetched": "2026-05-29T18:19:05.958121+07:00"
+    },
+    {
+      "id": "63a030a49c74a2b69e2265a8d2ac2dba",
+      "title": "Sức hút từ mô hình livestream mới trên ShopeeFood",
+      "link": "https://vnexpress.net/suc-hut-tu-mo-hinh-livestream-moi-tren-shopeefood-5079800.html",
+      "summary": "Trùm Deal Lên Live của ShopeeFood thu hút người dùng nhờ mô hình đặt món mới, \"mua trước, dùng sau\" trên livestream, đồng thời, tạo tăng trưởng cho đối tác nhà hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:00:00+07:00",
+      "fetched": "2026-05-29T18:19:05.958249+07:00"
+    },
+    {
+      "id": "3935b13b637e1412da831ba5a8df8bff",
+      "title": "Sáng kiến đưa AI xuống rẫy cà phê của King Coffee",
+      "link": "https://vnexpress.net/sang-kien-dua-ai-xuong-ray-ca-phe-cua-king-coffee-5079789.html",
+      "summary": "King Coffee khởi xướng sáng kiến đưa AI xuống rẫy cà phê, thúc đẩy số hóa vùng trồng, nâng cao khả năng truy xuất nguồn gốc và gia tăng giá trị cho hạt cà phê Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:00:00+07:00",
+      "fetched": "2026-05-29T18:19:05.958377+07:00"
+    },
+    {
+      "id": "aeb6b6f71aa2ff6274aa43fd2431805b",
+      "title": "Vietjet hợp tác EECO phát triển trung tâm kỹ thuật hàng không",
+      "link": "https://vnexpress.net/vietjet-hop-tac-eeco-phat-trien-trung-tam-ky-thuat-hang-khong-5079776.html",
+      "summary": "Vietjet và Văn phòng Hành lang Kinh tế phía Đông (EECO) ký thỏa thuận phát triển trung tâm kỹ thuật tàu bay tại sân bay U-Tapao, hướng tới mở rộng năng lực bảo dưỡng, kết nối hàng không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T10:00:00+07:00",
+      "fetched": "2026-05-29T18:19:05.958504+07:00"
+    },
+    {
+      "id": "aeb6b6f71aa2ff6274aa43fd2431805b",
+      "title": "Vietjet hợp tác EECO phát triển trung tâm kỹ thuật hàng không",
+      "link": "https://vnexpress.net/vietjet-hop-tac-eeco-phat-trien-trung-tam-ky-thuat-hang-khong-5079776.html",
+      "summary": "Vietjet và Văn phòng Hành lang Kinh tế phía Đông (EECO) ký thỏa thuận phát triển trung tâm kỹ thuật tàu bay tại sân bay U-Tapao, hướng tới mở rộng năng lực bảo dưỡng, kết nối hàng không.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-29T10:00:00+07:00",
+      "fetched": "2026-05-29T18:19:13.683394+07:00"
+    },
+    {
+      "id": "24602c3e00605057f9d574b23227867b",
+      "title": "Chuyển địa điểm tổ chức Quả Bóng Vàng",
+      "link": "https://vnexpress.net/chuyen-dia-diem-to-chuc-qua-bong-vang-5079753.html",
+      "summary": "Lễ trao Quả Bóng Vàng 2026 được chuyển địa điểm tổ chức từ Paris (Pháp) sang London (Anh).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T09:57:12+07:00",
+      "fetched": "2026-05-29T18:19:05.958621+07:00"
+    },
+    {
+      "id": "24602c3e00605057f9d574b23227867b",
+      "title": "Chuyển địa điểm tổ chức Quả Bóng Vàng",
+      "link": "https://vnexpress.net/chuyen-dia-diem-to-chuc-qua-bong-vang-5079753.html",
+      "summary": "Lễ trao Quả Bóng Vàng 2026 được chuyển địa điểm tổ chức từ Paris (Pháp) sang London (Anh).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-29T09:57:12+07:00",
+      "fetched": "2026-05-29T18:19:18.681076+07:00"
+    },
+    {
+      "id": "52a6625b396b9c0fe1c874530764d7a4",
+      "title": "Romania nêu lý do không thể bắn hạ UAV nghi của Nga",
+      "link": "https://vnexpress.net/romania-neu-ly-do-khong-the-ban-ha-uav-nghi-cua-nga-5079769.html",
+      "summary": "Bộ Quốc phòng Romania cho hay \"không đủ thời gian\" bắn hạ UAV nghi của Nga xâm nhập không phận, trước khi nó rơi xuống một tòa chung cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T09:55:28+07:00",
+      "fetched": "2026-05-29T18:19:05.958763+07:00"
+    },
+    {
+      "id": "52a6625b396b9c0fe1c874530764d7a4",
+      "title": "Romania nêu lý do không thể bắn hạ UAV nghi của Nga",
+      "link": "https://vnexpress.net/romania-neu-ly-do-khong-the-ban-ha-uav-nghi-cua-nga-5079769.html",
+      "summary": "Bộ Quốc phòng Romania cho hay \"không đủ thời gian\" bắn hạ UAV nghi của Nga xâm nhập không phận, trước khi nó rơi xuống một tòa chung cư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-29T09:55:28+07:00",
+      "fetched": "2026-05-29T18:19:12.022260+07:00"
+    },
+    {
+      "id": "1e3d436d1f0eb1dfc520b0e6da3271d1",
+      "title": "Dòng tiền tìm đến cổ phiếu dầu khí",
+      "link": "https://vnexpress.net/dong-tien-tim-den-co-phieu-dau-khi-5079767.html",
+      "summary": "GAS lên giá trần, BSR và PLX tăng mạnh khi nhà đầu tư mua vào cổ phiếu dầu khí, trong khi chứng khoán có phiên giảm điểm thứ 4 liên tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T09:53:35+07:00",
+      "fetched": "2026-05-29T18:19:05.958904+07:00"
+    },
+    {
+      "id": "1e3d436d1f0eb1dfc520b0e6da3271d1",
+      "title": "Dòng tiền tìm đến cổ phiếu dầu khí",
+      "link": "https://vnexpress.net/dong-tien-tim-den-co-phieu-dau-khi-5079767.html",
+      "summary": "GAS lên giá trần, BSR và PLX tăng mạnh khi nhà đầu tư mua vào cổ phiếu dầu khí, trong khi chứng khoán có phiên giảm điểm thứ 4 liên tiếp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-29T09:53:35+07:00",
+      "fetched": "2026-05-29T18:19:13.682003+07:00"
+    },
+    {
+      "id": "31e581409c195c364a8bdfe9d2669181",
+      "title": "Thủ khoa thi đánh giá năng lực Đại học Quốc gia Hà Nội đạt 133/150 điểm",
+      "link": "https://vnexpress.net/pho-diem-thi-danh-gia-nang-luc-hsa-cua-dai-hoc-quoc-gia-ha-noi-nam-2026-ca-6-dot-chi-tiet-nhat-5079791.html",
+      "summary": "Thủ khoa 6 đợt thi HSA năm nay đạt 133/150 điểm, trong khi điểm trung bình của gần 117.000 thí sinh là 79,39/150.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T09:44:58+07:00",
+      "fetched": "2026-05-29T18:19:05.959040+07:00"
+    },
+    {
+      "id": "bea2acb1914a3032f2e6ff6eba78d685",
+      "title": "OPES ra mắt hai cổng bồi thường bảo hiểm tự động",
+      "link": "https://vnexpress.net/opes-ra-mat-hai-cong-boi-thuong-bao-hiem-tu-dong-5079779.html",
+      "summary": "OPES ra mắt hai cổng bồi thường tự động Fast-track và Eclaim, giúp khách hàng gửi yêu cầu bảo hiểm trực tuyến, với thời gian xử lý một số hồ sơ xe cơ giới chỉ 30 phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-29T09:30:00+07:00",
+      "fetched": "2026-05-29T18:19:05.959172+07:00"
+    },
+    {
+      "id": "2e1800afd5f6e15fa9a736fa3d284632",
+      "title": "Trực thăng đưa bệ Pantsir chống UAV lên nóc nhà cao tầng ở Moskva",
+      "link": "https://vnexpress.net/truc-thang-dua-be-pantsir-chong-uav-len-noc-nha-cao-tang-o-moskva-5079728.html",
+      "summary": "Trực thăng Mi-26 Nga đưa tổ hợp Pantsir-SMD-E chuyên chống UAV lên nóc tòa nhà cao tầng ở thủ đô Moskva để đối phó các vụ tấn công của Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-29T09:28:53+07:00",
+      "fetched": "2026-05-29T18:19:12.022415+07:00"
+    },
+    {
       "id": "3ab2f454ee51b5c4101f4d59114281e6",
       "title": "Tăng trưởng quy mô doanh nghiệp trên nền tảng cloud trọn bộ giải pháp",
       "link": "https://tuoitre.vn/tang-truong-quy-mo-doanh-nghiep-tren-nen-tang-cloud-tron-bo-giai-phap-20260528164310594.htm",
@@ -301,6 +811,56 @@ window.newsData_2026_05_29 = {
       "category": "Tổng hợp",
       "published": "2026-05-29T09:11:24.322245+07:00",
       "fetched": "2026-05-29T09:11:24.322478+07:00"
+    },
+    {
+      "id": "dd2d3b0070bf6dc1142e19b940f4da22",
+      "title": "Việt Nam - Singapore thúc đẩy trụ cột hợp tác khoa học công nghệ",
+      "link": "https://vnexpress.net/viet-nam-singapore-thuc-day-tru-cot-hop-tac-khoa-hoc-cong-nghe-5079716.html",
+      "summary": "Tổng thống Singapore hội đàm với Tổng Bí thư, Chủ tịch nước Tô Lâm, nhất trí thúc đẩy khoa học công nghệ và đổi mới sáng tạo thành trụ cột cho quan hệ hai nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-29T09:03:20+07:00",
+      "fetched": "2026-05-29T18:19:12.022550+07:00"
+    },
+    {
+      "id": "0bfd7cd2275baa52b1ccf46579552d2e",
+      "title": "Chuyên gia cảnh báo rủi ro an ninh mạng ngành tài chính thời AI",
+      "link": "https://vnexpress.net/chuyen-gia-canh-bao-rui-ro-an-ninh-mang-nganh-tai-chinh-thoi-ai-5079761.html",
+      "summary": "Chuyên gia Home Credit cho rằng doanh nghiệp tài chính cần chuyển từ phòng thủ thụ động sang quản trị rủi ro chủ động, trong bối cảnh các cuộc tấn công mạng ngày càng tinh vi và có chủ đích.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-29T09:00:00+07:00",
+      "fetched": "2026-05-29T18:19:13.683519+07:00"
+    },
+    {
+      "id": "367d115924c3c2449f6a7a986b30e3e5",
+      "title": "MB nhận giải thưởng Sao Khuê lần thứ 8 với 3 chiến thắng từ BIZ MBBank",
+      "link": "https://vnexpress.net/mb-nhan-giai-thuong-sao-khue-lan-thu-8-voi-3-chien-thang-tu-biz-mbbank-5079405.html",
+      "summary": "Ngày 28/5, BIZ MBBank giành 3 giải thưởng tại Lễ trao giải Sao Khuê 2026, đánh dấu 8 năm liên tiếp Ngân hàng TMCP Quân đội (MB) được vinh danh tại giải thưởng này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-29T09:00:00+07:00",
+      "fetched": "2026-05-29T18:19:13.683640+07:00"
+    },
+    {
+      "id": "83625c1b0c99a0451b9eb0c0eb727911",
+      "title": "'Việt Nam hướng mục tiêu cao nhất là tự chủ về AI'",
+      "link": "https://vnexpress.net/viet-nam-huong-muc-tieu-cao-nhat-la-tu-chu-ve-ai-5079635.html",
+      "summary": "Theo Thứ trưởng Khoa học và Công nghệ Bùi Hoàng Phương, Việt Nam đã xác định rõ hai nội dung cốt lõi: nghiên cứu phát triển và ứng dụng AI, mục tiêu cao nhất là tự chủ công nghệ lõi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-29T08:46:38+07:00",
+      "fetched": "2026-05-29T18:19:17.086748+07:00"
+    },
+    {
+      "id": "115518b86b5234f87b49a9a358148b31",
+      "title": "NAB Vietnam Virtual Race chạm mốc 1 tỷ đồng quyên góp",
+      "link": "https://vnexpress.net/nab-vietnam-virtual-race-cham-moc-1-ty-dong-quyen-gop-5079306.html",
+      "summary": "Sau một tháng phát động, giải chạy trực tuyến NAB Vietnam Virtual Race ghi nhận hơn 6.000 runner, quyên góp 1 tỷ đồng vào quỹ hỗ trợ cộng đồng công nghệ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-29T08:00:00+07:00",
+      "fetched": "2026-05-29T18:19:18.681966+07:00"
     },
     {
       "id": "70cdf873d641d647878d15965267ff24",
