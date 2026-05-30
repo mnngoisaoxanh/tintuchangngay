@@ -1,7 +1,97 @@
 window.newsData_2026_05_30 = {
   "date": "2026-05-30",
-  "lastUpdated": "2026-05-30T21:58:49.121006+07:00",
+  "lastUpdated": "2026-05-30T23:51:57.819074+07:00",
   "articles": [
+    {
+      "id": "4df9a260d2b376dc26b8b7b63ed147e8",
+      "title": "Trường đại học Sư phạm Hà Nội tuyển 2.818 chỉ tiêu ngành đào tạo giáo viên",
+      "link": "https://tuoitre.vn/truong-dai-hoc-su-pham-ha-noi-tuyen-2-818-chi-tieu-nganh-dao-tao-giao-vien-2026053020462689.htm",
+      "summary": "Trường đại học Sư phạm Hà Nội và nhiều trường có nhóm ngành đào tạo giáo viên đang cập nhật lại chỉ tiêu tuyển sinh năm 2026 sau khi được Bộ Giáo dục và Đào tạo giao chỉ tiêu chính thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T23:51:49.477375+07:00",
+      "fetched": "2026-05-30T23:51:49.477489+07:00"
+    },
+    {
+      "id": "87231192bf58d8a7d86afc8a82921eff",
+      "title": "Sét đánh, người đàn ông đang đánh cá rơi xuống sông tử vong",
+      "link": "https://tuoitre.vn/set-danh-nguoi-dan-ong-dang-danh-ca-roi-xuong-song-tu-vong-20260530204416802.htm",
+      "summary": "Một người đàn ông đi đánh cá trên sông tại thôn Phước Long, xã Hòa Xuân, Đắk Lắk (trước là Phú Yên) bị sét đánh trúng, rơi xuống nước mất tích, lực lượng chức năng và người dân đã tìm thấy thi thể nạn nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T23:51:49.477248+07:00",
+      "fetched": "2026-05-30T23:51:49.477364+07:00"
+    },
+    {
+      "id": "d942143af54cc9c7b7a65e44329b20f3",
+      "title": "Vì sao nhiều điểm du lịch ở Phong Nha - Kẻ Bàng phải dùng 'ké' điện tư nhân, bị cắt điện liên tục?",
+      "link": "https://tuoitre.vn/vi-sao-nhieu-diem-du-lich-o-phong-nha-ke-bang-phai-dung-ke-dien-tu-nhan-bi-cat-dien-lien-tuc-20260530210117012.htm",
+      "summary": "Giữa mùa cao điểm du lịch, hàng loạt điểm du lịch nổi tiếng ở Phong Nha - Kẻ Bàng (Quảng Trị) cùng bị cắt điện liên tục vì phải dùng \"ké\", phụ thuộc đường dây điện của tư nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T23:51:49.477113+07:00",
+      "fetched": "2026-05-30T23:51:49.477236+07:00"
+    },
+    {
+      "id": "0ebae63495ec5aec667b827f5ec3adb5",
+      "title": "Đội hình xuất phát chung kết Champions League PSG - Arsenal: Kai Havertz đá chính",
+      "link": "https://tuoitre.vn/doi-hinh-xuat-phat-chung-ket-champions-league-psg-arsenal-kai-havertz-da-chinh-20260530090442993.htm",
+      "summary": "HLV Arteta đã tung tiền đạo Kai Havertz đá ngay từ đầu cho Arsenal ở trận chung kết Champions League với PSG.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T23:51:49.476988+07:00",
+      "fetched": "2026-05-30T23:51:49.477101+07:00"
+    },
+    {
+      "id": "038a98255bccd54deda1eb6c956991b0",
+      "title": "Trung Đông tối 30-5: Oman phát hiện vật thể nghi là thủy lôi ở Hormuz, Israel tấn công Lebanon",
+      "link": "https://tuoitre.vn/trung-dong-toi-30-5-oman-phat-hien-vat-the-nghi-la-thuy-loi-o-hormuz-israel-tan-cong-lebanon-20260530203710936.htm",
+      "summary": "Israel tấn công miền nam Lebanon, Hezbollah phóng rocket vào miền bắc Israel; Oman phát hiện vật thể nghi là thủy lôi ở eo biển Hormuz... là một số tin tức đáng chú ý về Trung Đông tối 30-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T23:51:49.476847+07:00",
+      "fetched": "2026-05-30T23:51:49.476976+07:00"
+    },
+    {
+      "id": "8c212330c27ef245794b1e5d9d679e83",
+      "title": "U19 Việt Nam tập kỹ khả năng dứt điểm cho Giải U19 Đông Nam Á 2026",
+      "link": "https://tuoitre.vn/u19-viet-nam-tap-ky-kha-nang-dut-diem-cho-giai-u19-dong-nam-a-2026-20260530215117989.htm",
+      "summary": "Chiều 30-5, đội tuyển U19 Việt Nam tiếp tục tập luyện chuẩn bị cho Giải U19 Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T23:51:49.476714+07:00",
+      "fetched": "2026-05-30T23:51:49.476836+07:00"
+    },
+    {
+      "id": "5ce9df59a1123ef27b3f8ba58b1d59aa",
+      "title": "Lại Lý Huynh toàn thua 4 trận, chia tay siêu giải cờ tướng Trung Quốc",
+      "link": "https://tuoitre.vn/lai-ly-huynh-toan-thua-4-tran-chia-tay-sieu-giai-co-tuong-trung-quoc-20260530213915677.htm",
+      "summary": "Tối 30-5, Lại Lý Huynh đã phải nói lời chia tay giải cờ tướng danh giá Xuân Khâu Đại Diệp Bôi sau trận thua kỳ vương Trung Quốc Vương Vũ Bác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T23:51:49.476557+07:00",
+      "fetched": "2026-05-30T23:51:49.476700+07:00"
+    },
+    {
+      "id": "5408cdd5ca32d24b895d90e52e5f4252",
+      "title": "Nguyên Thủ tướng Lý Hiển Long: Phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm mở ra tư duy mới",
+      "link": "https://tuoitre.vn/nguyen-thu-tuong-ly-hien-long-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-mo-ra-tu-duy-moi-20260530220330395.htm",
+      "summary": "Nguyên Thủ tướng Singapore Lý Hiển Long đánh giá cao phát biểu dẫn đề của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Đối thoại Shangri-La, mở ra tư duy mới trong quản trị khủng hoảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T23:51:49.476411+07:00",
+      "fetched": "2026-05-30T23:51:49.476544+07:00"
+    },
+    {
+      "id": "4503177553105fabaa78cd05c39c7fa4",
+      "title": "Hoa hậu Di sản áo dài Việt Nam toàn cầu 2026 chấp nhận thí sinh tới 45 tuổi",
+      "link": "https://tuoitre.vn/hoa-hau-di-san-ao-dai-viet-nam-toan-cau-2026-chap-nhan-thi-sinh-toi-45-tuoi-20260530211013263.htm",
+      "summary": "Bà Đàm Hương Thủy - người sáng lập cuộc thi Hoa hậu Di sản áo dài Việt Nam toàn cầu 2026, cho biết ban đầu bà dự định mở rộng độ tuổi thí sinh đến 55 tuổi, nhưng Sở Văn hóa và Thể thao Hà Nội không đồng ý, rút xuống 45 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T23:51:49.476187+07:00",
+      "fetched": "2026-05-30T23:51:49.476395+07:00"
+    },
     {
       "id": "ba5f6c31de3ccafcda35aab98ab5c763",
       "title": "Đã đi sai làn đường, còn thách thức CSGT 'bây giờ anh đang vội'",
@@ -601,6 +691,96 @@ window.newsData_2026_05_30 = {
       "category": "Tổng hợp",
       "published": "2026-05-30T16:51:00.937842+07:00",
       "fetched": "2026-05-30T16:51:00.938067+07:00"
+    },
+    {
+      "id": "49899e711eb8daf35052e7b3c5a980a6",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm trả lời phỏng vấn truyền thông quốc tế",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-tra-loi-phong-van-truyen-thong-quoc-te-5080156.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm khẳng định Việt Nam duy trì quan hệ tốt đẹp với các nước lớn như Mỹ và Trung Quốc, khi trả lời hãng tin Reuters.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T16:19:12+07:00",
+      "fetched": "2026-05-30T23:51:45.412578+07:00"
+    },
+    {
+      "id": "2b424c0cee3a7e0d507cfb668a442931",
+      "title": "Vinh danh 142 đơn vị đạt thành tựu xuất sắc trong chuyển đổi số",
+      "link": "https://vnexpress.net/vinh-danh-142-don-vi-dat-thanh-tuu-xuat-sac-trong-chuyen-doi-so-5080158.html",
+      "summary": "Vietnam I4 Impact Awards 2026 vinh danh 142 tổ chức, doanh nghiệp và cá nhân đóng góp trong đổi mới sáng tạo, chuyển đổi số, ứng dụng công nghệ, chiều 30/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T15:59:02+07:00",
+      "fetched": "2026-05-30T23:51:45.412797+07:00"
+    },
+    {
+      "id": "2b424c0cee3a7e0d507cfb668a442931",
+      "title": "Vinh danh 142 đơn vị đạt thành tựu xuất sắc trong chuyển đổi số",
+      "link": "https://vnexpress.net/vinh-danh-142-don-vi-dat-thanh-tuu-xuat-sac-trong-chuyen-doi-so-5080158.html",
+      "summary": "Vietnam I4 Impact Awards 2026 vinh danh 142 tổ chức, doanh nghiệp và cá nhân đóng góp trong đổi mới sáng tạo, chuyển đổi số, ứng dụng công nghệ, chiều 30/5.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-30T15:59:02+07:00",
+      "fetched": "2026-05-30T23:51:55.724513+07:00"
+    },
+    {
+      "id": "1a81432d4e63685572ef774610c081a1",
+      "title": "Rước xá lợi mừng Phật đản ở Hà Nội và Huế",
+      "link": "https://vnexpress.net/ruoc-xa-loi-mung-phat-dan-o-ha-noi-va-hue-5080155.html",
+      "summary": "Chiều tối 30/5, lễ cung rước xá lợi và rước Phật mừng đại lễ Phật đản Phật lịch 2570 diễn ra trên nhiều tuyến phố trung tâm Hà Nội và Huế, thu hút đông đảo tăng ni, phật tử tham gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T15:52:12+07:00",
+      "fetched": "2026-05-30T23:51:45.412981+07:00"
+    },
+    {
+      "id": "77ee83176308b9158041ccabd842f783",
+      "title": "Hương Giang vào top 3 Miss Grand All Stars",
+      "link": "https://vnexpress.net/huong-giang-vao-top-3-miss-grand-all-stars-5080115.html",
+      "summary": "Hương Giang là người đẹp chuyển giới duy nhất vào top 3, vòng chọn hoa hậu và á hậu tại chung kết Miss Grand All Stars, tối 30/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T15:44:16+07:00",
+      "fetched": "2026-05-30T23:51:45.413142+07:00"
+    },
+    {
+      "id": "2b3282c00bcf359cc22ed201cdc25416",
+      "title": "Hương Giang vào top 3 Hoa hậu Hòa bình Quốc tế mùa giải All stars",
+      "link": "https://thanhnien.vn/huong-giang-vao-top-5-hoa-hau-hoa-binh-quoc-te-mua-giai-all-stars-185260530200736601.htm",
+      "summary": "Vượt qua nhiều ứng viên, Hương Giang ghi tên mình vào top 3 tại Hoa hậu Hòa bình Quốc tế mùa giải All stars. Thành tích này khiến người hâm mộ vỡ òa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T15:43:00+07:00",
+      "fetched": "2026-05-30T23:51:48.375029+07:00"
+    },
+    {
+      "id": "08b8b18db031452f7d6821dd0174fa78",
+      "title": "Dàn diễn viên dự lễ cưới Việt Hoa",
+      "link": "https://vnexpress.net/dan-dien-vien-du-le-cuoi-viet-hoa-5080060.html",
+      "summary": "Diễn viên Phương Oanh, Hồng Diễm cùng nhiều đồng nghiệp dự lễ cưới của Việt Hoa và Vương Trọng Trí, tối 30/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T15:30:54+07:00",
+      "fetched": "2026-05-30T23:51:45.413303+07:00"
+    },
+    {
+      "id": "af0fb4ad2422d9e35620cc6ceeec3eb1",
+      "title": "Phó thủ tướng: Đảm bảo lợi ích người dân khi thu hồi đất trục đại lộ cảnh quan sông Hồng",
+      "link": "https://vnexpress.net/pho-thu-tuong-dam-bao-loi-ich-nguoi-dan-khi-thu-hoi-dat-truc-dai-lo-canh-quan-song-hong-5080152.html",
+      "summary": "Phó thủ tướng Thường trực Phạm Gia Túc yêu cầu TP Hà Nội bồi thường, hỗ trợ, tái định cư khi thu hồi đất làm trục đại lộ cảnh quan sông Hồng phải đảm bảo quyền và lợi ích hợp pháp, chính đáng của người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T15:23:16+07:00",
+      "fetched": "2026-05-30T23:51:45.413466+07:00"
+    },
+    {
+      "id": "9a2d8542e5008f9fb7a4b0dfe9edcb0e",
+      "title": "Anh Thư diện bikini khoe đường cong nóng bỏng ở tuổi 44",
+      "link": "https://thanhnien.vn/anh-thu-dien-bikini-khoe-duong-cong-nong-bong-o-tuoi-44-185260530211019836.htm",
+      "summary": "Sở hữu vóc dáng chuẩn nhờ tập luyện và ăn uống khoa học, Anh Thư tự tin khi theo đuổi hình ảnh gợi cảm ở tuổi 44.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T15:03:00+07:00",
+      "fetched": "2026-05-30T23:51:48.375354+07:00"
     },
     {
       "id": "e0dc138e7dac651ff80e1bcf1b35fafa",
