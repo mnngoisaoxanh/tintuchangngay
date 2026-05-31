@@ -1,7 +1,97 @@
 window.newsData_2026_05_31 = {
   "date": "2026-05-31",
-  "lastUpdated": "2026-05-31T22:11:48.614331+07:00",
+  "lastUpdated": "2026-05-31T23:56:35.394374+07:00",
   "articles": [
+    {
+      "id": "9e7f37e87a3c309acec3b858b165cfd7",
+      "title": "Tiến Linh phá hỏng ngày vui của Thể Công - Viettel",
+      "link": "https://tuoitre.vn/tien-linh-pha-hong-ngay-vui-cua-the-cong-viettel-20260531204837902.htm",
+      "summary": "Tiền đạo Nguyễn Tiến Linh giành lại 1 điểm cho CLB Công An TP.HCM trong trận hòa 1-1 với Thể Công - Viettel ở vòng 25 V-League 2025-2026 trên sân Bình Dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T23:56:27.574310+07:00",
+      "fetched": "2026-05-31T23:56:27.574425+07:00"
+    },
+    {
+      "id": "e2a77312d470161c24068e18c5d45229",
+      "title": "Bộ trưởng Chiến tranh Pete Hegseth thúc đưa nhanh AI vào tác chiến, Đô đốc Mỹ cảnh báo",
+      "link": "https://tuoitre.vn/bo-truong-chien-tranh-pete-hegseth-thuc-dua-nhanh-ai-vao-tac-chien-do-doc-my-canh-bao-20260531210740713.htm",
+      "summary": "Chính quyền Tổng thống Donald Trump đang thúc đẩy ứng dụng trí tuệ nhân tạo (AI) trong quân đội Mỹ để tăng tốc độ tác chiến. Tuy nhiên, nhiều lãnh đạo quân sự cảnh báo cần có biện pháp kiểm soát để tránh những sai sót nguy hiểm trên chiến trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T23:56:27.574181+07:00",
+      "fetched": "2026-05-31T23:56:27.574298+07:00"
+    },
+    {
+      "id": "871f09aad3f33f9662601a7fc8f3f322",
+      "title": "Một người thiệt mạng, 780 người bị bắt ở Paris sau trận chung kết Champions League",
+      "link": "https://tuoitre.vn/mot-nguoi-thiet-mang-780-nguoi-bi-bat-o-paris-sau-tran-chung-ket-champions-league-20260531210012415.htm",
+      "summary": "Một người thiệt mạng và một người khác đang được chăm sóc đặc biệt trong tình trạng nguy kịch, trong khi 780 người bị bắt giữ ở Pháp trong các cuộc đụng độ bạo lực sau trận chung kết Champions League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T23:56:27.574052+07:00",
+      "fetched": "2026-05-31T23:56:27.574168+07:00"
+    },
+    {
+      "id": "29f7bec56da22ed6fa26dc9e573f4e7d",
+      "title": "Đường đua K-pop: Cuộc đụng độ lịch sử của các nhóm nữ và cơn địa chấn mang tên BTS",
+      "link": "https://tuoitre.vn/duong-dua-k-pop-cuoc-dung-do-lich-su-cua-cac-nhom-nu-va-con-dia-chan-mang-ten-bts-20260526164634507.htm",
+      "summary": "Các nhóm nhạc nữ hàng đầu đụng độ dồn dập kết hợp cùng hiệu ứng tái hợp mạnh mẽ của 'ông hoàng' BTS đang tạo nên những cột mốc vô tiền khoáng hậu cho ngành công nghiệp K-pop trong tháng 5 này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T23:56:27.573912+07:00",
+      "fetched": "2026-05-31T23:56:27.574039+07:00"
+    },
+    {
+      "id": "d464d6b2461f7af9347f61d8857fc28b",
+      "title": "Sau Minh Hằng, Ngọc Trinh, ai đóng nữ chính Chị chị em em 3?",
+      "link": "https://tuoitre.vn/sau-minh-hang-ngoc-trinh-ai-dong-nu-chinh-chi-chi-em-em-3-20260531212936622.htm",
+      "summary": "Chị chị em em 3 chính thức khai máy, đánh dấu sự trở lại của thương hiệu điện ảnh tâm lý - giật gân đình đám. Trong đó, Hoa hậu Kỳ Duyên được công bố nữ chính với vai Thị Mầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T23:56:27.573779+07:00",
+      "fetched": "2026-05-31T23:56:27.573900+07:00"
+    },
+    {
+      "id": "9446f16e03b9d28dd349c579bf610fd3",
+      "title": "Vợ Văn Hậu, Quang Hải, Văn Thanh chia vui cùng CLB Công An Hà Nội trong ngày đăng quang V-League",
+      "link": "https://tuoitre.vn/vo-van-hau-quang-hai-van-thanh-chia-vui-cung-clb-cong-an-ha-noi-trong-ngay-dang-quang-v-league-20260531085212432.htm",
+      "summary": "Rất đông bạn bè, người thân, thành viên gia đình các cầu thủ CLB Công An Hà Nội đã xuống sân chia vui trong ngày đội bóng này được trao cúp vô địch LPBank V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T23:56:27.573618+07:00",
+      "fetched": "2026-05-31T23:56:27.573765+07:00"
+    },
+    {
+      "id": "9efdccf73bfa7f48f5e213341c9587f2",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp lãnh đạo và đại diện ADB, Grab, Aboitiz Foods và WHO",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-lanh-dao-va-dai-dien-adb-grab-aboitiz-foods-va-who-20260531214258199.htm",
+      "summary": "Chủ tịch ADB khẳng định Việt Nam là một đối tác phát triển quan trọng, trong khi Grab và Aboitiz Foods chia sẻ các ý tưởng kinh doanh tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T23:56:27.573484+07:00",
+      "fetched": "2026-05-31T23:56:27.573606+07:00"
+    },
+    {
+      "id": "8b86ff9a6ca2b0ef62d59c7116d029bf",
+      "title": "Siêu phẩm ‘xe đạp chổng ngược’ của Xuân Son vào lưới Sông Lam Nghệ An",
+      "link": "https://tuoitre.vn/sieu-pham-xe-dap-chong-nguoc-cua-xuan-son-vao-luoi-song-lam-nghe-an-2026053122110478.htm",
+      "summary": "Nguyễn Xuân Son (Nam Định) tiếp tục khẳng định đẳng cấp của tiền đạo hàng đầu V-League khi lập cú hat-trick vào lưới Sông Lam Nghệ An. Trong số đó, cú \"xe đạp chổng ngược\" của Xuân Son đã khiến cho sân vận động Thiên Trường bùng nổ cảm xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T23:56:27.573340+07:00",
+      "fetched": "2026-05-31T23:56:27.573471+07:00"
+    },
+    {
+      "id": "57bd48dc82862257ca66d6a638ba98a7",
+      "title": "Nổ kho thuốc nổ ở Myanmar, ít nhất 45 người thiệt mạng",
+      "link": "https://tuoitre.vn/no-kho-thuoc-no-o-myanmar-it-nhat-45-nguoi-thiet-mang-20260531224231432.htm",
+      "summary": "Ít nhất 45 người thiệt mạng và khoảng 70 người khác bị thương sau vụ nổ tại một kho chứa thuốc nổ ở đông bắc Myanmar ngày 31-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T23:56:27.573112+07:00",
+      "fetched": "2026-05-31T23:56:27.573325+07:00"
+    },
     {
       "id": "deac3dda618266cedb1a03bfcf78919c",
       "title": "KCN Rạch Bắp mở rộng quy mô, hướng tới mô hình công nghiệp xanh",
@@ -441,6 +531,66 @@ window.newsData_2026_05_31 = {
       "category": "Tổng hợp",
       "published": "2026-05-31T17:06:52.289224+07:00",
       "fetched": "2026-05-31T17:06:52.289461+07:00"
+    },
+    {
+      "id": "9ca8ebb00bdf25f8485854e18d9fe238",
+      "title": "HLV Popov dọa bỏ V-League",
+      "link": "https://vnexpress.net/hlv-popov-doa-bo-v-league-5080349.html",
+      "summary": "HLV Velizar Popov cảm thấy \"khủng khiếp\", bị \"cướp điểm\" và dọa rời bỏ giải đấu sau khi Thể Công hòa Công an TP HCM 1-1 ở vòng 25 V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-31T16:03:08+07:00",
+      "fetched": "2026-05-31T23:56:35.383495+07:00"
+    },
+    {
+      "id": "5cbab21b9ccb636bbed96c88f139277a",
+      "title": "CAHN nâng cup trong ngày cân bằng kỷ lục V-League",
+      "link": "https://vnexpress.net/cahn-nang-cup-trong-ngay-can-bang-ky-luc-v-league-5080307.html",
+      "summary": "Nguyễn Quang Hải và đồng đội nâng cup V-League 2025-2026 tại sân Hàng Đẫy tối nay, sau khi hạ Becamex TP HCM 2-1 ở vòng 25.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T15:52:10+07:00",
+      "fetched": "2026-05-31T23:56:23.622435+07:00"
+    },
+    {
+      "id": "5cbab21b9ccb636bbed96c88f139277a",
+      "title": "CAHN nâng cup trong ngày cân bằng kỷ lục V-League",
+      "link": "https://vnexpress.net/cahn-nang-cup-trong-ngay-can-bang-ky-luc-v-league-5080307.html",
+      "summary": "Nguyễn Quang Hải và đồng đội nâng cup V-League 2025-2026 tại sân Hàng Đẫy, sau khi hạ Becamex TP HCM 2-1 ở vòng 25.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-31T15:52:10+07:00",
+      "fetched": "2026-05-31T23:56:35.383672+07:00"
+    },
+    {
+      "id": "73d94e89663292fb1961ef593e8e07e4",
+      "title": "Israel kiểm soát lâu đài chiến lược ở Lebanon",
+      "link": "https://vnexpress.net/israel-kiem-soat-lau-dai-chien-luoc-o-lebanon-5080333.html",
+      "summary": "Israel chiếm lâu đài trung cổ Beaufort, cao điểm quan trọng có thể kiểm soát hỏa lực ở miền nam Lebanon, lần đầu kể từ năm 2000.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T15:19:24+07:00",
+      "fetched": "2026-05-31T23:56:23.622620+07:00"
+    },
+    {
+      "id": "73d94e89663292fb1961ef593e8e07e4",
+      "title": "Israel kiểm soát lâu đài chiến lược ở Lebanon",
+      "link": "https://vnexpress.net/israel-kiem-soat-lau-dai-chien-luoc-o-lebanon-5080333.html",
+      "summary": "Israel chiếm lâu đài trung cổ Beaufort, cao điểm quan trọng có thể kiểm soát hỏa lực ở miền nam Lebanon, lần đầu kể từ năm 2000.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-31T15:19:24+07:00",
+      "fetched": "2026-05-31T23:56:29.225619+07:00"
+    },
+    {
+      "id": "de5e27c2eb20dd48352337b7996178e2",
+      "title": "Hòa Minzy và chồng sắp cưới đón sinh nhật trên biển",
+      "link": "https://vnexpress.net/hoa-minzy-va-chong-sap-cuoi-don-sinh-nhat-tren-bien-5080301.html",
+      "summary": "Ca sĩ Hòa Minzy cùng chồng sắp cưới - đại úy Thăng Văn Cương - đón sinh nhật chung trên biển Vân Đồn, ở Quảng Ninh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T15:12:29+07:00",
+      "fetched": "2026-05-31T23:56:23.622825+07:00"
     },
     {
       "id": "ec27f317f58e8edfab488c995ec72f18",
@@ -2931,6 +3081,16 @@ window.newsData_2026_05_31 = {
       "category": "Tổng hợp",
       "published": "2026-05-30T21:00:00+07:00",
       "fetched": "2026-05-31T05:47:55.436507+07:00"
+    },
+    {
+      "id": "1274714e9b31eec00e5ab98d3e550f62",
+      "title": "Nhiều lao động Mỹ 'cảm thấy nghèo đi'",
+      "link": "https://vnexpress.net/nhieu-lao-dong-my-cam-thay-ngheo-di-5080279.html",
+      "summary": "Tháng trước, bà Kris Massey (57 tuổi) tới một tiệm kim hoàn, hy vọng bán được vài món trang sức của bà ngoại tặng để trang trải hóa đơn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-30T21:00:00+07:00",
+      "fetched": "2026-05-31T23:56:31.096657+07:00"
     },
     {
       "id": "850bc6824137f1647cc8d4a505938619",
