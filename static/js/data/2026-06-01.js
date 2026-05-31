@@ -1,6 +1,6 @@
 window.newsData_2026_06_01 = {
   "date": "2026-06-01",
-  "lastUpdated": "2026-06-01T02:03:08.045567+07:00",
+  "lastUpdated": "2026-06-01T03:48:53.671419+07:00",
   "articles": [
     {
       "id": "b134e3d2e4b9b70a9ae2e3c040c1d34a",
@@ -151,6 +151,16 @@ window.newsData_2026_06_01 = {
       "category": "Tổng hợp",
       "published": "2026-06-01T02:03:01.258559+07:00",
       "fetched": "2026-06-01T02:03:01.258772+07:00"
+    },
+    {
+      "id": "26b4af4e6c0d0b41daac29ccb37a2a21",
+      "title": "HAGL thở phào, Becamex TP.HCM bên bờ vực thẳm",
+      "link": "https://thanhnien.vn/hagl-tho-phao-becamex-tphcm-ben-bo-vuc-tham-185260531215105798.htm",
+      "summary": "Ở vòng 25 V-League 2025 - 2026, trong khi HAGL giành chiến thắng quan trọng để chính thức trụ lại sân chơi cao nhất VN, thì Becamex TP.HCM tiếp tục chìm sâu vào khủng hoảng và đối mặt nguy cơ xuống hạng trước vòng đấu cuối cùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T19:17:00+07:00",
+      "fetched": "2026-06-01T03:48:45.109467+07:00"
     },
     {
       "id": "9e146e6259bd970672ef383554463055",
