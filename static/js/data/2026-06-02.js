@@ -1,7 +1,47 @@
 window.newsData_2026_06_02 = {
   "date": "2026-06-02",
-  "lastUpdated": "2026-06-02T03:10:03.835294+07:00",
+  "lastUpdated": "2026-06-02T06:21:22.427301+07:00",
   "articles": [
+    {
+      "id": "a1cafd8a222f85f727e91f8c68117167",
+      "title": "Lịch trực tiếp U19 Đông Nam Á 2026: Thái Lan, Malaysia ra trận",
+      "link": "https://tuoitre.vn/lich-truc-tiep-u19-dong-nam-a-2026-thai-lan-malaysia-ra-tran-20260601155418915.htm",
+      "summary": "Đội tuyển U19 Thái Lan và U19 Malaysia sẽ có trận đấu ra quân ở Giải vô địch U19 Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T06:21:16.970044+07:00",
+      "fetched": "2026-06-02T06:21:16.970192+07:00"
+    },
+    {
+      "id": "7ee5027945baa4d6fbff4d44a6c5603a",
+      "title": "Thời tiết hôm nay 2-6: Bắc Bộ nắng nóng oi bức, Nam Bộ mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-2-6-bac-bo-nang-nong-oi-buc-nam-bo-mua-to-20260601160912173.htm",
+      "summary": "Hôm nay 2-6, thời tiết hai miền Bắc - Nam trái ngược nhau khi miền Bắc nắng nóng oi bức, miền Nam lại mưa rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T06:21:16.969907+07:00",
+      "fetched": "2026-06-02T06:21:16.970032+07:00"
+    },
+    {
+      "id": "0e0ee987e82be4677be38d205e694380",
+      "title": "Thuốc ung thư -'Tấm vé' sống đắt đỏ - Kỳ 2: Đánh cược vào thuốc xách tay hay chi tiền tỉ xuất ngoại?",
+      "link": "https://tuoitre.vn/thuoc-ung-thu-tam-ve-song-dat-do-ky-2-danh-cuoc-vao-thuoc-xach-tay-hay-chi-tien-ti-xuat-ngoai-20260601232824113.htm",
+      "summary": "Bước vào vòng xoáy sinh tử của căn bệnh ung thư, liệu thuốc xách tay giá rẻ trôi nổi hay giải pháp xuất ngoại chữa bệnh mới thực sự là lối thoát?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T06:21:16.969760+07:00",
+      "fetched": "2026-06-02T06:21:16.969893+07:00"
+    },
+    {
+      "id": "1a8189802e6a597dc1549e66fbf53b4a",
+      "title": "Tin tức sáng 2-6: TP.HCM điều động nhân viên y tế tuyến trên về cơ sở tối đa 12 tháng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-2-6-tp-hcm-dieu-dong-nhan-vien-y-te-tuyen-tren-ve-co-so-toi-da-12-thang-20260601205835424.htm",
+      "summary": "Tin tức đáng chú ý: TP.HCM điều động nhân viên y tế tuyến trên về cơ sở tối đa 12 tháng; Đề xuất tái sử dụng đất, đá, bê tông, gạch thải từ hoạt động xây dựng; Cà Mau phát WiFi miễn phí tại quảng trường Hùng Vương...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T06:21:16.969508+07:00",
+      "fetched": "2026-06-02T06:21:16.969743+07:00"
+    },
     {
       "id": "230c208c0e172d19b037e12000efcc6d",
       "title": "Chuyến công du đầu tiên của Tổng thống Myanmar là đến Ấn Độ",
@@ -151,6 +191,346 @@ window.newsData_2026_06_02 = {
       "category": "Tổng hợp",
       "published": "2026-06-02T03:09:56.409914+07:00",
       "fetched": "2026-06-02T03:09:56.410115+07:00"
+    },
+    {
+      "id": "db7524861d7ab4bc95ec0e5bec8bce76",
+      "title": "Trạm dừng tương lai: Từ 'mái che tạm' đến không gian tiện ích",
+      "link": "https://thanhnien.vn/tram-dung-tuong-lai-tu-mai-che-tam-den-khong-gian-tien-ich-185260601150244181.htm",
+      "summary": "Một nhà chờ hay trụ dừng xe buýt không đơn thuần là nơi đón - trả khách, mà đó còn là “điểm chạm” đầu tiên quyết định việc người dân có muốn lựa chọn giao thông công cộng hay không. Vậy ngoài việc che nắng che mưa, làm thế nào để biến những trạm dừng này không chỉ là nơi đứng đợi, mà còn trở thành m...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:20:00+07:00",
+      "fetched": "2026-06-02T06:21:14.585467+07:00"
+    },
+    {
+      "id": "4f6ab25fee93ffd5d8c79f50e660abe5",
+      "title": "Vào hồ ngự uyển Kinh thành Huế xem thợ thức sớm 'gửi trà' vào búp sen tiến vua",
+      "link": "https://thanhnien.vn/vao-ho-ngu-uyen-kinh-thanh-hue-xem-tho-thuc-som-gui-tra-vao-bup-sen-tien-vua-185260601165059101.htm",
+      "summary": "Vào mùa sen nở ở hồ Tịnh Tâm (Huế), nhiều người thức từ tinh mơ để 'gửi trà' vào búp sen ngự tiến vua. Công việc đòi hỏi sự tỉ mỉ, kiên nhẫn và cũng là một thú chơi tao nhã giúp nhiều người tìm lại sự thư thái giữa nhịp sống vội vã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:10:00+07:00",
+      "fetched": "2026-06-02T06:21:14.585654+07:00"
+    },
+    {
+      "id": "4c7c987574b4608fb81e0c8c08e66fe3",
+      "title": "Serena Williams trở lại thi đấu",
+      "link": "https://vnexpress.net/serena-williams-tro-lai-thi-dau-5080834.html",
+      "summary": "Huyền thoại quần vợt Mỹ Serena Williams xác nhận sẽ trở lại thi đấu chuyên nghiệp tại giải Queen's Club Championships trong tháng 6/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:06:28+07:00",
+      "fetched": "2026-06-02T06:21:12.005334+07:00"
+    },
+    {
+      "id": "e52932365b38f5282a4cb451a91fbd19",
+      "title": "Đổ rác dưới biển cấm",
+      "link": "https://thanhnien.vn/do-rac-duoi-bien-cam-185260529195509346.htm",
+      "summary": "Mặc dù cơ quan chức năng đã đặt biển \"cấm đổ rác\", nhưng tại giao lộ đường DS9 - đường số 11, xã Xuân Thới Sơn (trước đây thuộc xã Xuân Thới Đông, H.Hóc Môn), TP.HCM, tồn tại một bãi rác rất nhếch nhá...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:06:00+07:00",
+      "fetched": "2026-06-02T06:21:16.028217+07:00"
+    },
+    {
+      "id": "000a4d90b8f14d80a6db10e1092438e7",
+      "title": "Điểm tin 6h: Sân bay Long Thành dự kiến khai thác thử nghiệm từ tháng 9 | Thủ tướng Israel ra lệnh nối lại không kích 'trái tim' của Lebanon",
+      "link": "https://vnexpress.net/diem-tin-6h-san-bay-long-thanh-du-kien-khai-thac-thu-nghiem-tu-thang-9-thu-tuong-israel-ra-lenh-noi-lai-khong-kich-trai-tim-cua-lebanon-5080842.html",
+      "summary": "5 địa phương sẽ khởi công dự án nhà cho thuê trong tháng 6; Giá dầu tăng vọt hơn 2% do căng thẳng leo thang tại Trung Đông...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:05:54+07:00",
+      "fetched": "2026-06-02T06:21:12.005511+07:00"
+    },
+    {
+      "id": "4efcdc07a92d51d2b636548ff7338787",
+      "title": "Thi lớp 10 TP.HCM: Đề tiếng Anh khó đạt điểm tuyệt đối",
+      "link": "https://thanhnien.vn/thi-lop-10-tphcm-de-tieng-anh-kho-dat-diem-tuyet-doi-185260601233131511.htm",
+      "summary": "Đề thi văn lớp 10 năm 2026 của TP.HCM được đánh giá là thời sự, gần gũi với học sinh THCS, cho các em nhiều 'đất' thể hiện bày tỏ quan điểm đa chiều. Còn đề môn tiếng Anh, nhiều học sinh cũng cho rằng vừa sức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:05:00+07:00",
+      "fetched": "2026-06-02T06:21:16.028606+07:00"
+    },
+    {
+      "id": "6d350df8b8b12bbcd778ff2d29c2fbe1",
+      "title": "Mua đất tiền tỉ nhưng phải kéo điện tạm, dùng nước ké",
+      "link": "https://thanhnien.vn/mua-dat-tien-ti-nhung-phai-keo-dien-tam-dung-nuoc-ke-185260529194730561.htm",
+      "summary": "Nhiều hộ dân tại tổ dân phố 10, P.Đồng Thuận (tỉnh Quảng Trị), bỏ tiền tỉ mua đất, xây nhà nhưng vẫn phải sống trong cảnh thiếu điện, thiếu nước, hạ tầng dang dở do dự án chậm tiến độ kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:05:00+07:00",
+      "fetched": "2026-06-02T06:21:16.028768+07:00"
+    },
+    {
+      "id": "38c192b8a03bde659572a494e2d2e6b6",
+      "title": "Nhiều trụ cột có thể rời Man City",
+      "link": "https://vnexpress.net/nhieu-tru-cot-co-the-roi-man-city-5080832.html",
+      "summary": "Chỉ ít ngày sau khi Pep Guardiola chia tay Man City, hai cầu thủ quan trọng là Rodri và Josko Gvardiol đều từ chối cam kết tương lai với đội bóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:04:41+07:00",
+      "fetched": "2026-06-02T06:21:12.005675+07:00"
+    },
+    {
+      "id": "9f204744546ca248b106891d7e86586f",
+      "title": "Kiến tạo tương lai cho một 'siêu vùng đô thị'",
+      "link": "https://thanhnien.vn/kien-tao-tuong-lai-cho-mot-sieu-vung-do-thi-185260601213041592.htm",
+      "summary": "Trong Đề cương Quy hoạch tổng thể TP.HCM thời kỳ 2025 - 2050, tầm nhìn 100 năm, TP.HCM đưa ra những chỉ tiêu con số cụ thể với mục tiêu GRDP đến năm 2050 dự kiến tăng gấp 12 lần hiện nay; thu nhập bình quân đầu người đến năm 2045 đạt 75.000 USD, tăng gấp 10 lần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:03:00+07:00",
+      "fetched": "2026-06-02T06:21:16.028919+07:00"
+    },
+    {
+      "id": "f01f3d381d1a22a77eae70d32483ed6f",
+      "title": "Con trai Zidane lần đầu dự World Cup",
+      "link": "https://vnexpress.net/con-trai-zidane-lan-dau-du-world-cup-5080833.html",
+      "summary": "Thủ môn Luca Zidane, con trai huyền thoại Zinedine Zidane, lần đầu được triệu tập dự World Cup cùng tuyển Algeria, chỉ hơn một tháng sau ca phẫu thuật vì gãy hàm và cằm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:02:31+07:00",
+      "fetched": "2026-06-02T06:21:12.005833+07:00"
+    },
+    {
+      "id": "56a4037fe92a3874e30432b2d9af3e6b",
+      "title": "Bàn tay dày 8 cm của võ sư thiết sa chưởng",
+      "link": "https://vnexpress.net/ban-tay-day-8-cm-cua-vo-su-thiet-sa-chuong-5080739.html",
+      "summary": "Võ sư Zhang Longxiang, 53 tuổi, sở hữu bàn tay phải dày 8 cm sau 20 năm đập tay vào bao cát chứa bi thép 6.000 lần mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:00:00+07:00",
+      "fetched": "2026-06-02T06:21:12.005992+07:00"
+    },
+    {
+      "id": "cc852b9c417dbfad89cb4d6cb2290352",
+      "title": "'Chiến dịch' lấy lại công viên, không gian xanh cho nội đô TP HCM",
+      "link": "https://vnexpress.net/chien-dich-lay-lai-cong-vien-khong-gian-xanh-cho-noi-do-tp-hcm-5080346.html",
+      "summary": "Sau nhiều thập niên mỗi mét vuông \"đất vàng\" ở trung tâm ưu tiên cao ốc, nhà ở, TP HCM chuyển hướng, dành nhiều khu đất đẹp cho công viên và không gian công cộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:00:00+07:00",
+      "fetched": "2026-06-02T06:21:12.006208+07:00"
+    },
+    {
+      "id": "8e298cdd67f649ac94a974c4a6dc032f",
+      "title": "Không thể ngủ vì 'cơn ác mộng deadline'",
+      "link": "https://vnexpress.net/khong-the-ngu-vi-con-ac-mong-deadline-5076351.html",
+      "summary": "3h sáng, mắt Nam đã mở thao láo, nhìn lên trần nhà đen kịt, tim đập thình thịch như đánh trống vì vừa ngủ mơ bị đuổi việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:00:00+07:00",
+      "fetched": "2026-06-02T06:21:12.006374+07:00"
+    },
+    {
+      "id": "10da3e36eaeb2fe60d05e4bb14bbaacb",
+      "title": "Người đàn ông Nhật 10 năm nhặt rác ở TP HCM",
+      "link": "https://vnexpress.net/nguoi-dan-ong-nhat-10-nam-nhat-rac-o-tp-hcm-5056176.html",
+      "summary": "Phải lòng nhịp sống sôi động của TP HCM, anh Kenta Fuji dành trọn các buổi sáng chủ nhật suốt 10 năm qua để đi nhặt rác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:00:00+07:00",
+      "fetched": "2026-06-02T06:21:12.006532+07:00"
+    },
+    {
+      "id": "625427252169c5f6df0aab166e27b2d6",
+      "title": "Rezvani Fortress - 'pháo đài' off-road giá 285.000 USD",
+      "link": "https://vnexpress.net/rezvani-fortress-phao-dai-off-road-gia-285-000-usd-5079689.html",
+      "summary": "Mẫu bán tải hầm hố dựa trên Ford F-150 Raptor, tùy chọn bọc thép, lắp động cơ V8 công suất 850 mã lực, sản xuất giới hạn 100 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:00:00+07:00",
+      "fetched": "2026-06-02T06:21:12.006686+07:00"
+    },
+    {
+      "id": "fe52aaf980f97bd7659c0ab547959beb",
+      "title": "Bác sĩ ơi: Nội soi dạ dày - Đừng đợi có bệnh mới đi khám!",
+      "link": "https://thanhnien.vn/bac-si-oi-noi-soi-da-day-dung-doi-co-benh-moi-di-kham-185260601233540742.htm",
+      "summary": "Nhiều người chỉ nghĩ đến nội soi dạ dày khi xuất hiện các triệu chứng như đau bụng, ợ chua, đầy hơi hay rối loạn tiêu hóa kéo dài. Tuy nhiên, không ít bệnh lý nguy hiểm của dạ dày có thể âm thầm tiến triển trong thời gian dài mà không gây dấu hiệu rõ rệt, khiến việc phát hiện sớm trở nên khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:00:00+07:00",
+      "fetched": "2026-06-02T06:21:16.029088+07:00"
+    },
+    {
+      "id": "ad80625264669e347d25e16ff10184d6",
+      "title": "Noo Phước Thịnh gia nhập đường đua âm nhạc tháng 6",
+      "link": "https://thanhnien.vn/noo-phuoc-thinh-gia-nhap-duong-dua-am-nhac-thang-6-185260601232536033.htm",
+      "summary": "Sau thời gian im ắng, ca sĩ Noo Phước Thịnh đánh dấu sự trở lại đường đua âm nhạc với EP Nhấc máy, dự kiến phát hành vào tối 2.6. Đây được xem là dự án chính của nam ca sĩ trong năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:00:00+07:00",
+      "fetched": "2026-06-02T06:21:16.029254+07:00"
+    },
+    {
+      "id": "2cdfc6ebe4532d3ae623f375a609a87e",
+      "title": "Thợ đan giỏ U.100 bỗng dưng nổi tiếng mạng xã hội",
+      "link": "https://thanhnien.vn/tho-dan-gio-u100-bong-dung-noi-tieng-mang-xa-hoi-185260601231548464.htm",
+      "summary": "Ban đầu, người cháu gái chỉ quay clip đăng lên mạng xã hội với tâm nguyện lưu giữ những khoảnh khắc không còn nhiều bên ông nội 95 tuổi. Thế nhưng, hình ảnh cụ ông U.100 vẫn minh mẫn, tỉ mỉ ngồi đan từng chiếc giỏ, rổ đã tạo nên một làn sóng lan tỏa yêu thương đầy ấm áp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:00:00+07:00",
+      "fetched": "2026-06-02T06:21:16.029410+07:00"
+    },
+    {
+      "id": "afa92347ce0a972696fb1f3feb2788ff",
+      "title": "Quốc Dân đảng tìm đường cầm quyền ở Đài Loan",
+      "link": "https://thanhnien.vn/quoc-dan-dang-tim-duong-cam-quyen-o-dai-loan-185260601224544009.htm",
+      "summary": "Chưa đầy 2 tháng sau khi gặp Chủ tịch nước Trung Quốc Tập Cận Bình, Chủ tịch Quốc Dân đảng (Đài Loan) Trịnh Lệ Văn lên đường thăm Mỹ trong nỗ lực được cho là để tìm cách đưa đảng này nắm giữ chính quyền Đài Bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:00:00+07:00",
+      "fetched": "2026-06-02T06:21:16.029563+07:00"
+    },
+    {
+      "id": "46481f963cf95e5754244800adfc7101",
+      "title": "Sầu riêng Việt mở thêm những cánh cửa mới",
+      "link": "https://thanhnien.vn/sau-rieng-viet-mo-them-nhung-canh-cua-moi-18526060121465352.htm",
+      "summary": "Dự kiến trong tháng 7 tới, sầu riêng VN có thể chính thức mở cửa vào thị trường Ấn Độ. Bên cạnh đó, một số thị trường quan trọng khác như Mỹ, Nhật, Hàn Quốc, Úc cũng tăng nhập sầu riêng; mở ra nhiều cơ hội mới cho ngành hàng tỉ USD của VN vươn xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:00:00+07:00",
+      "fetched": "2026-06-02T06:21:16.029725+07:00"
+    },
+    {
+      "id": "cab6fa9e71be5afbb17836dbb6e67d92",
+      "title": "Ngày đầu 'phủ xanh' xăng E10: Người tiêu dùng phản hồi tích cực",
+      "link": "https://thanhnien.vn/ngay-dau-phu-xanh-xang-e10-nguoi-tieu-dung-phan-hoi-tich-cuc-185260601214152359.htm",
+      "summary": "Hôm qua (1.6), xăng sinh học E10 trở thành nhiên liệu chủ đạo khi thị trường dừng lưu hành xăng khoáng RON95 và RON97. Ghi nhận của phóng viên Thanh Niên cho thấy người tiêu dùng đón nhận tích cực xăng sinh học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:00:00+07:00",
+      "fetched": "2026-06-02T06:21:16.029884+07:00"
+    },
+    {
+      "id": "5f0ae7cf485d14ddda5b06f78c67996f",
+      "title": "Đưa thanh niên trở thành lực lượng tiên phong của đất nước",
+      "link": "https://thanhnien.vn/dua-thanh-nien-tro-thanh-luc-luong-tien-phong-cua-dat-nuoc-185260601200519749.htm",
+      "summary": "Trong nhiệm kỳ vừa qua, công tác Đoàn và phong trào thanh thiếu nhi đã để lại nhiều dấu ấn nổi bật, khẳng định vai trò của tuổi trẻ VN trong sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:00:00+07:00",
+      "fetched": "2026-06-02T06:21:16.030039+07:00"
+    },
+    {
+      "id": "5ceb942fc0cdad787aab897f0e678381",
+      "title": "Dùng ô tô chở 15.500 bao thuốc lá lậu tại khu vực biên giới Tây Ninh",
+      "link": "https://thanhnien.vn/dung-o-to-cho-15500-bao-thuoc-la-lau-tai-khu-vuc-bien-gioi-tay-ninh-185260601152600634.htm",
+      "summary": "Lực lượng Bộ đội Biên phòng tỉnh Tây Ninh vừa phối hợp các đơn vị chức năng bắt quả tang một đối tượng dùng ô tô 7 chỗ vận chuyển trái phép 15.500 bao thuốc lá ngoại nhập lậu từ khu vực biên giới vào nội địa tiêu thụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T23:00:00+07:00",
+      "fetched": "2026-06-02T06:21:16.030224+07:00"
+    },
+    {
+      "id": "245b680c60c6a23c5e53cceab9e0a069",
+      "title": "Tục xưa còn lại: Lễ cầu mưa của người Hrê, Ca Dong",
+      "link": "https://thanhnien.vn/tuc-xua-con-lai-le-cau-mua-cua-nguoi-hre-ca-dong-185260601233536839.htm",
+      "summary": "Dưới cái nắng hầm hập của dãy Trường Sơn vào những tháng giữa năm, khi suối cạn dòng, đất đai nứt nẻ, người Hrê, Ca Dong, Kor ở Quảng Ngãi và vùng cao Đà Nẵng lại chuẩn bị cho một nghi lễ đã tồn tại qua bao đời: lễ cầu mưa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T22:55:00+07:00",
+      "fetched": "2026-06-02T06:21:16.030371+07:00"
+    },
+    {
+      "id": "5a604911409a799807b799ce118d24a1",
+      "title": "VĐV chạy marathon sub2 được công nhận kỷ lục thế giới 10km",
+      "link": "https://vnexpress.net/vdv-chay-marathon-sub2-duoc-cong-nhan-ky-luc-the-gioi-10km-5080840.html",
+      "summary": "Yomif Kejelcha, VĐV Ethiopia chạy dưới 2 giờ tại London Marathon 2026, được công nhận kỷ lục thế giới 10km với 26 phút 31 giây, được xác nhận sau hơn một năm chờ xét duyệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T22:52:45+07:00",
+      "fetched": "2026-06-02T06:21:12.006841+07:00"
+    },
+    {
+      "id": "e686c9beffc4372545dc6593da9b0705",
+      "title": "Rashford chấp nhận trở lại hội quân cùng Man Utd",
+      "link": "https://vnexpress.net/rashford-chap-nhan-tro-lai-hoi-quan-cung-man-utd-5080836.html",
+      "summary": "Marcus Rashford sẽ phải trở lại tập cùng Man Utd sau World Cup 2026, do Barca không kích hoạt điều khoản mua đứt khi mượn tiền đạo này cả mùa vừa qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T22:48:55+07:00",
+      "fetched": "2026-06-02T06:21:12.007003+07:00"
+    },
+    {
+      "id": "7d438e11746dc3bec504b29f512df4b8",
+      "title": "Hai người đi xe máy đâm vào hông xe tải ở ngã tư",
+      "link": "https://vnexpress.net/hai-nguoi-di-xe-may-dam-vao-hong-xe-tai-o-nga-tu-5080609.html",
+      "summary": "Cùng lao nhanh qua ngã tư, xe máy đâm vào hông xe tải, hôm 31/5 ở ngã 4 cổng chào thôn Thành Phú, Yên Định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T22:30:00+07:00",
+      "fetched": "2026-06-02T06:21:12.007189+07:00"
+    },
+    {
+      "id": "ea53779393d3b688c75ac2c71f0d6245",
+      "title": "Pháp nguy cơ lĩnh trái đắng từ chung kết Champions League",
+      "link": "https://vnexpress.net/phap-nguy-co-linh-trai-dang-tu-chung-ket-champions-league-5080838.html",
+      "summary": "Trung vệ William Saliba nhiều khả năng sẽ không thể cùng tuyển Pháp dự World Cup 2026 vì chấn thương lưng khi đá trọn chung kết Champions League hôm 30/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T22:29:40+07:00",
+      "fetched": "2026-06-02T06:21:12.007347+07:00"
+    },
+    {
+      "id": "ea53779393d3b688c75ac2c71f0d6245",
+      "title": "Pháp nguy cơ lĩnh trái đắng từ chung kết Champions League",
+      "link": "https://vnexpress.net/phap-nguy-co-linh-trai-dang-tu-chung-ket-champions-league-5080838.html",
+      "summary": "Trung vệ William Saliba nhiều khả năng sẽ không thể cùng tuyển Pháp dự World Cup 2026 vì chấn thương lưng khi đá trọn chung kết Champions League hôm 30/5.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-01T22:29:40+07:00",
+      "fetched": "2026-06-02T06:21:22.421728+07:00"
+    },
+    {
+      "id": "4f208c26b9de536dc0ca74ecee4705ed",
+      "title": "5 biểu hiện trên khuôn mặt cảnh báo đột quỵ",
+      "link": "https://vnexpress.net/5-bieu-hien-tren-khuon-mat-canh-bao-dot-quy-5080682.html",
+      "summary": "Méo mặt, tê bì một bên mặt, nói ngọng hay chảy nước dãi bất thường có thể là những dấu hiệu cảnh báo đột quỵ sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T22:00:00+07:00",
+      "fetched": "2026-06-02T06:21:12.007506+07:00"
+    },
+    {
+      "id": "fe2fedb6c28230599d3213addcf0c8c8",
+      "title": "Biệt thự 500 m2 của gia đình Hoàng Bách",
+      "link": "https://vnexpress.net/biet-thu-500-m2-cua-gia-dinh-hoang-bach-5080569.html",
+      "summary": "Vợ chồng Hoàng Bách mất gần hai năm hoàn thiện biệt thự hai tầng 500 m2 tại khu Nam Sài Gòn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T22:00:00+07:00",
+      "fetched": "2026-06-02T06:21:12.007665+07:00"
+    },
+    {
+      "id": "67c225086e3ebb761c17a42e4eefe6dd",
+      "title": "Người phụ nữ đối đầu tướng lĩnh Ukraine để bảo vệ binh sĩ",
+      "link": "https://vnexpress.net/nguoi-phu-nu-doi-dau-tuong-linh-ukraine-de-bao-ve-binh-si-5080384.html",
+      "summary": "Là thanh tra quân đội đầu tiên của Ukraine, Reshetylova đã kiên định đối đầu các tướng lĩnh và vượt qua nhiều áp lực để bảo vệ quyền lợi cho binh sĩ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-01T22:00:00+07:00",
+      "fetched": "2026-06-02T06:21:18.079093+07:00"
+    },
+    {
+      "id": "e4da32ad4eb1a3df5f2f4df705bd7cbf",
+      "title": "'Nhiều CEO công nghệ ảo tưởng về AI'",
+      "link": "https://vnexpress.net/nhieu-ceo-cong-nghe-ao-tuong-ve-ai-5079085.html",
+      "summary": "Aaron Levie, nhà sáng lập công ty điện toán đám mây doanh nghiệp Box, cho rằng nhiều CEO công nghệ đang mắc chứng \"ảo tưởng về sự vĩ đại của AI\" khi áp dụng bất chấp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-01T22:00:00+07:00",
+      "fetched": "2026-06-02T06:21:21.320638+07:00"
+    },
+    {
+      "id": "b8ab61bc6f49ac5c9ce9b6f2628c7773",
+      "title": "Chu kỳ tăng trưởng mới của ngành điện máy",
+      "link": "https://vnexpress.net/chu-ky-tang-truong-moi-cua-nganh-dien-may-5079630.html",
+      "summary": "Sức mua điện máy phục hồi giúp các doanh nghiệp tăng trưởng mạnh, nhưng động lực mới sẽ đến từ tái cấu trúc và chiến lược phát triển nội tại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-01T21:00:00+07:00",
+      "fetched": "2026-06-02T06:21:19.186433+07:00"
     },
     {
       "id": "113831c8210fa8fc7b471709d482ab09",
