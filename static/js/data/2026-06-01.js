@@ -1,7 +1,157 @@
 window.newsData_2026_06_01 = {
   "date": "2026-06-01",
-  "lastUpdated": "2026-06-01T05:50:02.695669+07:00",
+  "lastUpdated": "2026-06-01T09:43:00.044094+07:00",
   "articles": [
+    {
+      "id": "3be25e865ce915891e2ab34fddf4b749",
+      "title": "Conan, Chihiro và những nhân vật nhí góp phần làm nên sức hút của anime",
+      "link": "https://tuoitre.vn/conan-chihiro-va-nhung-nhan-vat-nhi-gop-phan-lam-nen-suc-hut-cua-anime-20260531232818051.htm",
+      "summary": "Dịp Quốc tế Thiếu nhi 1-6, cùng nhìn lại những nhân vật nhí đã góp phần làm nên sức hút của anime bằng sự hồn nhiên, lòng dũng cảm và những câu chuyện trưởng thành đầy cảm xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.903355+07:00",
+      "fetched": "2026-06-01T09:42:54.903467+07:00"
+    },
+    {
+      "id": "cf7e411f457e5756ccd3388cfe45be99",
+      "title": "Bóng đá đổi luật, ngăn ngừa 'chiêu trò Arsenal' tại World Cup",
+      "link": "https://tuoitre.vn/bong-da-doi-luat-ngan-ngua-chieu-tro-arsenal-tai-world-cup-20260601074639519.htm",
+      "summary": "Từ World Cup 2026, làng bóng đá có thể sẽ bớt phải chứng kiến những màn câu giờ, những hình ảnh gây tranh cãi trong các pha cố định như của Arsenal.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.903226+07:00",
+      "fetched": "2026-06-01T09:42:54.903343+07:00"
+    },
+    {
+      "id": "10c190989b4841ff868a077b419f9de9",
+      "title": "Một giấc ngủ ngon giúp loại bỏ độc tố trong não",
+      "link": "https://tuoitre.vn/mot-giac-ngu-ngon-giup-loai-bo-doc-to-trong-nao-20260531171139227.htm",
+      "summary": "Một nghiên cứu tổng quan mới cho thấy giấc ngủ không chỉ giúp cơ thể nghỉ ngơi mà còn đóng vai trò như \"ca đêm\" của não bộ, thực hiện nhiệm vụ loại bỏ các chất thải tích tụ trong ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.903098+07:00",
+      "fetched": "2026-06-01T09:42:54.903211+07:00"
+    },
+    {
+      "id": "dc5a0e1c324ed8ec6fbe69b9989fe540",
+      "title": "Doraemon, Pokémon và những bộ phim hoạt hình làm nên tuổi thơ nhiều thế hệ",
+      "link": "https://tuoitre.vn/doraemon-pokemon-va-nhung-bo-phim-hoat-hinh-lam-nen-tuoi-tho-nhieu-the-he-20260531094144971.htm",
+      "summary": "Từ những bảo bối thần kỳ của Doraemon, hành trình phiêu lưu trong Pokémon, các trận chiến của Dragon Ball đến những vụ án của Conan, nhiều bộ phim hoạt hình đã trở thành một phần tuổi thơ của hàng triệu khán giả Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.902974+07:00",
+      "fetched": "2026-06-01T09:42:54.903086+07:00"
+    },
+    {
+      "id": "269c7ead4f450356cf8264843b86ce9e",
+      "title": "Tuyển sinh lớp 10 tại Hà Nội: Điểm thi, điểm chuẩn có tăng?",
+      "link": "https://tuoitre.vn/tuyen-sinh-lop-10-tai-ha-noi-diem-thi-diem-chuan-co-tang-20260601000826929.htm",
+      "summary": "Hơn 123.000 thí sinh Hà Nội đã trải qua hai ngày thi lớp 10 dành cho khối không chuyên với các môn thi ngữ văn, ngoại ngữ và toán. Đây là kỳ thi có số thí sinh đông nhất từ trước tới nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.902848+07:00",
+      "fetched": "2026-06-01T09:42:54.902963+07:00"
+    },
+    {
+      "id": "0e933d191e09ed48f5951a3a5af89cb2",
+      "title": "Cổ động viên Arsenal 'nhuộm đỏ' London, mừng vô địch Premier League",
+      "link": "https://tuoitre.vn/co-dong-vien-arsenal-nhuom-do-london-mung-vo-dich-premier-league-20260601081525038.htm",
+      "summary": "Hàng trăm nghìn cổ động viên Arsenal đã \"nhuộm đỏ\" đường phố ở phía bắc London để ăn mừng chức vô địch Giải ngoại hạng Anh (Premier League) đầu tiên của Pháo thủ sau 22 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.902690+07:00",
+      "fetched": "2026-06-01T09:42:54.902834+07:00"
+    },
+    {
+      "id": "51e6567708a5c033fdff581cd9da8cb3",
+      "title": "Phim truyền hình Hàn trong vòng xoáy 'Netflix hóa'",
+      "link": "https://tuoitre.vn/phim-truyen-hinh-han-trong-vong-xoay-netflix-hoa-20260531092819089.htm",
+      "summary": "Từ vị thế của một 'bà đỡ' giải phóng sức sáng tạo, Netflix đang dần định hình lại cấu trúc, thể loại và cả cách kể chuyện của phim Hàn - một hiện tượng mà giới chuyên môn gọi là 'Netflix hóa'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.902555+07:00",
+      "fetched": "2026-06-01T09:42:54.902677+07:00"
+    },
+    {
+      "id": "9920f18c203da3c1c0ea5e066afac6ad",
+      "title": "Ba trường hợp được giảm 70% tiền sử dụng đất",
+      "link": "https://tuoitre.vn/ba-truong-hop-duoc-giam-70-tien-su-dung-dat-20260528102221308.htm",
+      "summary": "Bộ Tài chính vừa có công văn hướng dẫn các tỉnh thành áp dụng tính tiền sử dụng đất bằng 30% khi chuyển mục đích sử dụng đất trong 3 trường hợp cụ thể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.902430+07:00",
+      "fetched": "2026-06-01T09:42:54.902544+07:00"
+    },
+    {
+      "id": "e3778cc7c0fd8152c81e3c424937794c",
+      "title": "F0 có 100 triệu đồng: Chia tiền thế nào để không 'cháy tài khoản'?",
+      "link": "https://tuoitre.vn/f0-co-100-trieu-dong-chia-tien-the-nao-de-khong-chay-tai-khoan-20260601081908259.htm",
+      "summary": "Có trong tay 100 triệu đồng nhưng giải ngân ra sao, giữ bao nhiêu tiền mặt và chấp nhận rủi ro đến đâu lại là bài toán không dễ với nhà đầu tư mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.902303+07:00",
+      "fetched": "2026-06-01T09:42:54.902419+07:00"
+    },
+    {
+      "id": "b6b997b74eaa88763bf045ee8e737c08",
+      "title": "Cuộc đua trong khoang lái ô tô",
+      "link": "https://tuoitre.vn/cuoc-dua-trong-khoang-lai-o-to-20260531232532082.htm",
+      "summary": "Công nghệ giúp ô tô tiện nghi và thông minh hơn, từ bật điều hòa từ xa đến tự động lùi vào chỗ đậu. Đang có cuộc đua công nghệ để tạo tiện ích và thu hút khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.902173+07:00",
+      "fetched": "2026-06-01T09:42:54.902291+07:00"
+    },
+    {
+      "id": "c95973eb365ac0475e95a63001f17162",
+      "title": "Ariana Grande mở kỷ nguyên Petal: Gai góc hơn, tốt hơn, ít làm hài lòng thế giới hơn",
+      "link": "https://tuoitre.vn/ariana-grande-mo-ky-nguyen-petal-gai-goc-hon-tot-hon-it-lam-hai-long-the-gioi-hon-20260531233818418.htm",
+      "summary": "Sau hơn hai năm kể từ album Eternal Sunshine, Ariana Grande vừa khởi động chương mới trong sự nghiệp âm nhạc với đĩa đơn mở đường 'hate that i made you love me'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.902046+07:00",
+      "fetched": "2026-06-01T09:42:54.902162+07:00"
+    },
+    {
+      "id": "4961053341645f97b8ba8d104da6a989",
+      "title": "Sống khỏe đang trở thành “lifestyle” mới của người Việt",
+      "link": "https://tuoitre.vn/song-khoe-dang-tro-thanh-lifestyle-moi-cua-nguoi-viet-20260527154602918.htm",
+      "summary": "Không đợi đến khi bệnh tật xuất hiện, ngày càng nhiều người lựa chọn chủ động chăm sóc sức khỏe thông qua chế độ dinh dưỡng hợp lý và vận động thường xuyên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.901905+07:00",
+      "fetched": "2026-06-01T09:42:54.902035+07:00"
+    },
+    {
+      "id": "6d4562760794c5ff3e1a712fb9ba2e4f",
+      "title": "PVCFC được vinh danh ở Vietnam I4 Impact Awards 2026",
+      "link": "https://tuoitre.vn/pvcfc-duoc-vinh-danh-o-vietnam-i4-impact-awards-2026-2026053122134337.htm",
+      "summary": "Ngày 30-05, tại Lễ biểu dương Thành tựu Tác động vì Việt Nam Số - Vietnam I4 Impact Awards 2026, Tổng Công ty Phân bón Dầu khí Cà Mau (PVCFC, mã HOSE: DCM), đơn vị thành viên của Petrovietnam, được vinh danh ở 3 hạng mục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.901761+07:00",
+      "fetched": "2026-06-01T09:42:54.901893+07:00"
+    },
+    {
+      "id": "91fbe16b7ff1f34c8a5e963268ed4921",
+      "title": "HLV Popov có nguy cơ dính phạt nặng sau khi tố bị 'cướp trắng' điểm",
+      "link": "https://tuoitre.vn/hlv-popov-co-nguy-co-dinh-phat-nang-sau-khi-to-bi-cuop-trang-diem-20260601075646891.htm",
+      "summary": "Công ty VPF đang tổng hợp hồ sơ để chuyển sang Ban kỷ luật VFF xem xét, kỷ luật HLV Velizar Popov (Thể Công - Viettel) sau trận Công An TP.HCM đấu Thể Công - Viettel vòng 25 LPBank V-League 2025 - 2026 vào tối 31-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.901596+07:00",
+      "fetched": "2026-06-01T09:42:54.901726+07:00"
+    },
+    {
+      "id": "f4cab563f3214f95493153bf0b896798",
+      "title": "Người dân muốn có thêm thông tin về xăng E10",
+      "link": "https://tuoitre.vn/nguoi-dan-muon-co-them-thong-tin-ve-xang-e10-20260601085528004.htm",
+      "summary": "Từ hôm nay (1-6), các trạm xăng phải bán xăng E10. Ghi nhận tại Hà Nội và TP.HCM, một ngày trước thời điểm chính thức áp dụng việc bắt buộc chuyển đổi phân phối xăng sinh học trên cả nước, hầu hết các cây xăng đã treo biển bán xăng E10RON95.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T09:42:54.901351+07:00",
+      "fetched": "2026-06-01T09:42:54.901581+07:00"
+    },
     {
       "id": "93a35377c599ac44df96208410d7f246",
       "title": "HLV Lê Đức Tuấn: Quyền tự quyết nằm trong CLB Đà Nẵng ở lượt trận cuối",
@@ -71,6 +221,196 @@ window.newsData_2026_06_01 = {
       "category": "Tổng hợp",
       "published": "2026-06-01T05:49:55.092983+07:00",
       "fetched": "2026-06-01T05:49:55.093168+07:00"
+    },
+    {
+      "id": "fd09d82ed34116384d3b03bc4a8d17b6",
+      "title": "Giải cứu kịp thời 2 nạn nhân trong đám cháy nhà ở Quy Nhơn lúc nửa đêm",
+      "link": "https://thanhnien.vn/giai-cuu-kip-thoi-2-nan-nhan-trong-dam-chay-nha-o-quy-nhon-luc-nua-dem-185260601093233587.htm",
+      "summary": "Lực lượng Cảnh sát Phòng cháy chữa cháy và Cứu nạn cứu hộ Công an tỉnh Gia Lai kịp thời giải cứu 2 nạn nhân mắc kẹt trong đám cháy lớn xảy ra tại ngôi nhà 3 tầng ở phường Quy Nhơn Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:42:00+07:00",
+      "fetched": "2026-06-01T09:42:54.045747+07:00"
+    },
+    {
+      "id": "c6527dc379cec91e9d4ed566035f5e1a",
+      "title": "Quay đầu khi đèn rẽ trái màu đỏ có bị phạt? Cục CSGT lên tiếng",
+      "link": "https://thanhnien.vn/quay-dau-khi-den-re-trai-mau-do-co-bi-phat-cuc-csgt-len-tieng-185260601085553293.htm",
+      "summary": "Cục CSGT khẳng định người điều khiển phương tiện không được quay đầu khi đèn mũi tên rẽ trái đang đỏ. Hành vi này bị xác định là không chấp hành hiệu lệnh đèn tín hiệu giao thông và có thể bị phạt đến 20 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:41:00+07:00",
+      "fetched": "2026-06-01T09:42:54.045926+07:00"
+    },
+    {
+      "id": "a9b51e9aafbcfba5fb01ad8fd3eaec03",
+      "title": "'Star Wars' nếm trái đắng, phim kinh dị 'kinh phí thấp' đại náo phòng vé",
+      "link": "https://thanhnien.vn/star-wars-nem-trai-dang-phim-kinh-di-kinh-phi-thap-dai-nao-phong-ve-185260601093722319.htm",
+      "summary": "Theo ghi nhận của Variety, cục diện điện ảnh Bắc Mỹ vừa chứng kiến một cơn 'địa chấn' khi bom tấn trăm triệu đô của nhà Disney 'Star Wars' cắm đầu lao dốc, nhường sân chơi cho các YouTuber Gen Z làm phim với kinh phí rẻ bèo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:37:00+07:00",
+      "fetched": "2026-06-01T09:42:54.046090+07:00"
+    },
+    {
+      "id": "c0cd944fa867267088ccf40872ae47e9",
+      "title": "Tôi luôn giữ mình dù như vợ chồng như người dưng",
+      "link": "https://vnexpress.net/hon-nhan-khong-hanh-phuc-toi-luon-giu-minh-du-nhu-vo-hinh-trong-mat-chong-5080425.html",
+      "summary": "Giờ đây cảm xúc của tôi cũng chai lì nhưng tôi không hối hận, chỉ muốn sống cho bản thân một cách trọn vẹn nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:32:14+07:00",
+      "fetched": "2026-06-01T09:42:51.552603+07:00"
+    },
+    {
+      "id": "e73f3f5513b140d84989ded599e1fc70",
+      "title": "Tập đoàn Austdoor chia sẻ chiến lược phát triển tại sự kiện ở Quy Nhơn",
+      "link": "https://vnexpress.net/tap-doan-austdoor-chia-se-chien-luoc-phat-trien-tai-su-kien-o-quy-nhon-5080432.html",
+      "summary": "Tập đoàn Austdoor tổ chức sự kiện \"King of Door - Mở lối kỷ nguyên mới\", chia sẻ chiến lược phát triển và định hướng đổi mới ngành cửa và vật liệu xây dựng giai đoạn tiếp theo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:30:00+07:00",
+      "fetched": "2026-06-01T09:42:51.552818+07:00"
+    },
+    {
+      "id": "e8b561a0bb0b72df57e79482e32d5095",
+      "title": "Thi lớp 10 TP.HCM: Thầy cô dậy sớm điểm danh, sẵn sàng viết thay sĩ tử",
+      "link": "https://thanhnien.vn/thi-lop-10-tphcm-thay-co-day-som-diem-danh-san-sang-viet-thay-si-tu-185260601084722127.htm",
+      "summary": "Sáng 1.6, khoảng 152.000 thí sinh ở TP.HCM bắt đầu bước vào kỳ thi lớp 10 với môn ngữ văn. Từ cổng trường cho đến tận phòng thi, thí sinh nhận được sự tiếp sức, hỗ trợ nhiệt tình của giáo viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:30:00+07:00",
+      "fetched": "2026-06-01T09:42:54.046245+07:00"
+    },
+    {
+      "id": "76d7717c9be491bc05e1658f423816af",
+      "title": "Bị điều tra vì drift ôtô trong trạm xăng",
+      "link": "https://vnexpress.net/bi-dieu-tra-vi-drift-oto-trong-tram-xang-5080409.html",
+      "summary": "Chiếc xe rú ga chạy theo hình số 8 quanh các trụ xăng trước sự cổ vũ của khán giả, ngày 30/5 ở Đài Trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:29:22+07:00",
+      "fetched": "2026-06-01T09:42:51.552999+07:00"
+    },
+    {
+      "id": "22839d614be5fc303d31c6240f6d62ec",
+      "title": "Người dùng di động sắp phải xác thực khi đổi điện thoại",
+      "link": "https://vnexpress.net/nguoi-dung-di-dong-sap-phai-xac-thuc-khi-doi-dien-thoai-5080411.html",
+      "summary": "Từ ngày 15/6, thuê bao di động thay đổi thiết bị đầu cuối sẽ phải thực hiện xác thực sinh trắc học khuôn mặt, nếu không sẽ bị khóa một chiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:26:08+07:00",
+      "fetched": "2026-06-01T09:42:51.553159+07:00"
+    },
+    {
+      "id": "22839d614be5fc303d31c6240f6d62ec",
+      "title": "Người dùng di động sắp phải xác thực khi đổi điện thoại",
+      "link": "https://vnexpress.net/nguoi-dung-di-dong-sap-phai-xac-thuc-khi-doi-dien-thoai-5080411.html",
+      "summary": "Từ ngày 15/6, thuê bao di động thay đổi thiết bị đầu cuối sẽ phải thực hiện xác thực sinh trắc học khuôn mặt, nếu không sẽ bị khóa một chiều.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-01T02:26:08+07:00",
+      "fetched": "2026-06-01T09:42:58.992219+07:00"
+    },
+    {
+      "id": "bb3d158fc4da8adb5a1a127d4cf118f9",
+      "title": "Ca sĩ Dua Lipa cưới",
+      "link": "https://vnexpress.net/ca-si-dua-lipa-cuoi-5080390.html",
+      "summary": "Ca sĩ Anh Dua Lipa, 31 tuổi, và tài tử \"Fantastic Beasts\" Callum Turner, 36 tuổi, kết hôn sau khoảng hai năm hẹn hò.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:25:27+07:00",
+      "fetched": "2026-06-01T09:42:51.553314+07:00"
+    },
+    {
+      "id": "0181c6beb51008c4ecd3b6d2e5eb8c7a",
+      "title": "Chàng trai hát 'Biển tình' bị Thái Châu góp ý là ai?",
+      "link": "https://thanhnien.vn/chang-trai-hat-bien-tinh-bi-thai-chau-gop-y-la-ai-185260601091442292.htm",
+      "summary": "Quyết định làm mới ca khúc 'Biển tình' trong chương trình 'Hãy nghe tôi hát', Quang Hiền được Thái Châu góp ý cần thể hiện tình tứ, lãng mạn hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:24:00+07:00",
+      "fetched": "2026-06-01T09:42:54.046398+07:00"
+    },
+    {
+      "id": "a138425521a7eead65327593b152816d",
+      "title": "Kỳ thi lớp 10, nhà cách trường 10 phút vẫn đưa con đi từ 5 giờ sáng",
+      "link": "https://thanhnien.vn/ky-thi-lop-10-nha-cach-truong-10-phut-van-dua-con-di-tu-5-gio-sang-185260601085723244.htm",
+      "summary": "Trong ngày đầu kỳ thi lớp 10 tại TP.HCM, nhiều phụ huynh đưa con đến điểm thi từ hơn 5 giờ sáng dù quãng đường từ nhà đến trường thi chỉ mất khoảng 10 phút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:24:00+07:00",
+      "fetched": "2026-06-01T09:42:54.046550+07:00"
+    },
+    {
+      "id": "e5c27df1dc0ee4bc56126e299853f579",
+      "title": "Phân biệt say nắng và sốc nhiệt để cứu người kịp thời",
+      "link": "https://vnexpress.net/phan-biet-say-nang-va-soc-nhiet-de-cuu-nguoi-kip-thoi-5079116.html",
+      "summary": "Say nắng gây vã mồ hôi và mệt mỏi nhưng vẫn tỉnh táo, còn sốc nhiệt là tình trạng cấp cứu với biểu hiện rối loạn ý thức, da khô nóng, sốt cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:19:27+07:00",
+      "fetched": "2026-06-01T09:42:51.553470+07:00"
+    },
+    {
+      "id": "87f133e62a3dbd73cd84513bf4e6c1e2",
+      "title": "Mbappe đối đầu với Haaland, đội tuyển Pháp gặp thử thách cực lớn ngay vòng bảng",
+      "link": "https://thanhnien.vn/mbappe-doi-dau-voi-haaland-doi-tuyen-phap-gap-thu-thach-cuc-lon-ngay-vong-bang-185260601090906422.htm",
+      "summary": "HLV Didier Deschamps thừa nhận, đội tuyển Pháp sẽ có một hành trình không hề dễ dàng ngay vòng bảng World Cup 2026, bất kể được đánh giá là ứng cử viên vô địch hàng đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:19:00+07:00",
+      "fetched": "2026-06-01T09:42:54.046709+07:00"
+    },
+    {
+      "id": "51242797b1cea5fd61171f4b3885fa6b",
+      "title": "Ha Ji Won trở lại sân khấu âm nhạc sau 23 năm vắng bóng",
+      "link": "https://thanhnien.vn/ha-ji-won-tro-lai-san-khau-am-nhac-sau-23-nam-vang-bong-185260601084629882.htm",
+      "summary": "Nữ diễn viên Ha Ji Won bất ngờ trở lại sân khấu âm nhạc với ca khúc'Home run' thu hút sự chú ý từ truyền thông và khán giả Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:19:00+07:00",
+      "fetched": "2026-06-01T09:42:54.046890+07:00"
+    },
+    {
+      "id": "25023f5a61da39dc0ca289bab09cfac2",
+      "title": "Đội nào mạnh nhất World Cup 2026?",
+      "link": "https://thanhnien.vn/doi-nao-manh-nhat-world-cup-2026-185260531214557296.htm",
+      "summary": "Ngay lúc này theo đúng thứ tự thì Tây Ban Nha, Pháp, Anh, Brazil, Argentina, Bồ Đào Nha là 6 ứng cử viên vô địch nặng ký tại World Cup 2026. Đức và Hà Lan là ứng viên hạng hai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:18:00+07:00",
+      "fetched": "2026-06-01T09:42:54.047049+07:00"
+    },
+    {
+      "id": "8219f6e4a82331777c19b1c6fe3f0e9e",
+      "title": "Hai người bị bắt vì 'phá hoại chính sách đoàn kết'",
+      "link": "https://vnexpress.net/hai-nguoi-bi-bat-vi-pha-hoai-chinh-sach-doan-ket-5080388.html",
+      "summary": "Siu Yúi và Siu Dok bị cáo buộc tuyên truyền, nhận chỉ đạo từ các cá nhân ở nước ngoài nhằm phát triển lực lượng, phục vụ mục đích ly khai, tự trị tại Tây Nguyên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:13:46+07:00",
+      "fetched": "2026-06-01T09:42:51.553632+07:00"
+    },
+    {
+      "id": "fd6b16da278de05d22ecafb2939023e0",
+      "title": "Từ nào viết 'i' hay 'y' đều được chấp nhận?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-tu-gi-tu-nao-viet-bang-i-hay-y-deu-duoc-chap-nhan-5078797.html",
+      "summary": "Tiếng Việt có những từ chỉ cần đổi “i” thành “y” là nhiều người phân vân đúng sai, bạn có biết đó là những từ nào không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:12:40+07:00",
+      "fetched": "2026-06-01T09:42:51.553828+07:00"
+    },
+    {
+      "id": "12c4b626ec2c9f80991b64d66c4074be",
+      "title": "Hoa hậu Kỳ Duyên ra sao sau khi đóng phim hơn 300 tỉ của Trấn Thành?",
+      "link": "https://thanhnien.vn/hoa-hau-ky-duyen-ra-sao-sau-khi-dong-phim-hon-300-ti-cua-tran-thanh-185260601085821338.htm",
+      "summary": "Hoa hậu Kỳ Duyên xác nhận tái xuất màn ảnh rộng với vai diễn trong 'Chị chị em em 3', sau thành công của 'Bộ tứ báo thủ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:12:00+07:00",
+      "fetched": "2026-06-01T09:42:54.047202+07:00"
     },
     {
       "id": "b134e3d2e4b9b70a9ae2e3c040c1d34a",
@@ -223,6 +563,216 @@ window.newsData_2026_06_01 = {
       "fetched": "2026-06-01T02:03:01.258772+07:00"
     },
     {
+      "id": "82df8411e83815780f159098f0502392",
+      "title": "Dùng khí CO2 thay thuốc cản quang cứu người bệnh suy tim, suy thận",
+      "link": "https://thanhnien.vn/dung-khi-co2-thay-thuoc-can-quang-cuu-nguoi-benh-suy-tim-suy-than-185260529140044015.htm",
+      "summary": "Nam bệnh nhân H.N, ở Quãng Ngãi nhập viện trong tình trạng khó thở tái diễn nhiều lần, xuất hiện những cơn phù phổi cấp nguy hiểm, kèm ho ra máu và gần như mất hoàn toàn khả năng thực hiện các sinh hoạt thường ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:03:00+07:00",
+      "fetched": "2026-06-01T09:42:54.047356+07:00"
+    },
+    {
+      "id": "b4654534eed2a0091657321f586bd790",
+      "title": "HLV Popov lại phản ứng trọng tài ngoại, dọa rời Thể Công Viettel và V-League: ‘Không bao giờ quay lại đây nữa’",
+      "link": "https://thanhnien.vn/hlv-popov-lai-phan-ung-trong-tai-ngoai-doa-roi-the-cong-viettel-va-v-league-khong-bao-gio-quay-lai-day-nua-185260601084504535.htm",
+      "summary": "HLV Velizar Popov tiếp tục không hài lòng về công tác điều hành giải, khi Thể Công Viettel để CLB Công an TP.HCM cầm hòa 1-1 ở vòng 25 V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:01:00+07:00",
+      "fetched": "2026-06-01T09:42:54.047506+07:00"
+    },
+    {
+      "id": "46b739379ca98a468ba7e777bf91d8d5",
+      "title": "Viêm phổi hít do dịch dạ dày trào ngược",
+      "link": "https://vnexpress.net/viem-phoi-hit-do-dich-da-day-trao-nguoc-5080385.html",
+      "summary": "Ông Hào, 58 tuổi, viêm phổi hít do dịch dạ dày trào ngược lên thực quản rồi đi vào đường thở sau nhiều tháng ho.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:00:00+07:00",
+      "fetched": "2026-06-01T09:42:51.553996+07:00"
+    },
+    {
+      "id": "696fbcdff0809d41a2f535283e1c3dfc",
+      "title": "Hanwha Life tổ chức hội nghị chiến lược kinh doanh 2026",
+      "link": "https://vnexpress.net/hanwha-life-to-chuc-hoi-nghi-chien-luoc-kinh-doanh-2026-5080341.html",
+      "summary": "Hanwha Life Việt Nam công bố chiến lược kinh doanh 2026 với trọng tâm nâng cao chất lượng tư vấn, ứng dụng AI, mở rộng mạng lưới phân phối và phát triển các giải pháp bảo hiểm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:00:00+07:00",
+      "fetched": "2026-06-01T09:42:51.554162+07:00"
+    },
+    {
+      "id": "1d8b7d5b26534dced41c99babba309e6",
+      "title": "Bình Minh phân phối ba công nghệ tiết kiệm nhiên liệu từ Wirtgen Group",
+      "link": "https://vnexpress.net/binh-minh-phan-phoi-ba-cong-nghe-tiet-kiem-nhien-lieu-tu-wirtgen-group-5079809.html",
+      "summary": "Công ty Bình Minh tổ chức buổi giới thiệu ba công nghệ tiết kiệm nhiên liệu, tối ưu vật liệu thi công, giảm thiểu tác động môi trường của Wirtgen Group, ngày 29/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:00:00+07:00",
+      "fetched": "2026-06-01T09:42:51.554325+07:00"
+    },
+    {
+      "id": "02c1e19535447dae3ae309f81167506c",
+      "title": "'Thị trường phía Nam sôi động nhờ làn sóng siêu đô thị'",
+      "link": "https://vnexpress.net/thi-truong-phia-nam-soi-dong-nho-lan-song-sieu-do-thi-5079726.html",
+      "summary": "Hạ tầng, sự dịch chuyển dòng tiền, nhu cầu ở thực cùng điều kiện vĩ mô ổn định mở thêm các cực tăng trưởng Tây Bắc, Đông Nam của TP HCM, theo Giám đốc Kinh doanh Vinhomes.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:00:00+07:00",
+      "fetched": "2026-06-01T09:42:51.554482+07:00"
+    },
+    {
+      "id": "7bea9ea9f9b04b4047291ecd7cfd1b1e",
+      "title": "Toshiba ra mắt lò vi sóng phân khúc cao cấp hấp nướng thông minh",
+      "link": "https://vnexpress.net/toshiba-ra-mat-lo-vi-song-phan-khuc-cao-cap-hap-nuong-thong-minh-5079169.html",
+      "summary": "Lò vi sóng Toshiba cao cấp Japandi MX2-STR25SC(WH) tích hợp hấp, nướng, chiên không dầu và vi sóng trong thiết kế tối giản, hướng đến trải nghiệm nấu nướng tiện lợi và thẩm mỹ không gian bếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:00:00+07:00",
+      "fetched": "2026-06-01T09:42:51.554637+07:00"
+    },
+    {
+      "id": "9561585d81cafe697b8cfc86c6d39b9e",
+      "title": "Các lớp học bóng bàn cho trẻ em ở TP.HCM: Học phí, lịch học ra sao?",
+      "link": "https://thanhnien.vn/cac-lop-hoc-bong-ban-cho-tre-em-o-tphcm-hoc-phi-lich-hoc-ra-sao-185260531114517889.htm",
+      "summary": "Học bóng bàn không chỉ đơn thuần nâng cao thể chất, mà còn giúp tăng khả năng quan sát, tư duy phán đoán. Nếu đang loay hoay tìm kiếm nơi để cho con học bộ môn này trong mùa hè, phụ huynh có thể tham khảo những địa điểm này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:00:00+07:00",
+      "fetched": "2026-06-01T09:42:54.047660+07:00"
+    },
+    {
+      "id": "40eb829bf952653daa1e86b98df2c8e2",
+      "title": "Gen Z giữ hồn tiếng Quảng trong thời đại số",
+      "link": "https://thanhnien.vn/gen-z-giu-hon-tieng-quang-trong-thoi-dai-so-185260525150804544.htm",
+      "summary": "Trong thời đại internet và mạng xã hội bùng nổ, con người tiếp nhận văn hóa toàn cầu nhanh chưa từng có. Cùng với sự chuẩn hóa ngôn ngữ, nhiều tiếng nói địa phương cũng dần thưa vắng, đối diện nguy cơ mai một theo thời gian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T02:00:00+07:00",
+      "fetched": "2026-06-01T09:42:54.047839+07:00"
+    },
+    {
+      "id": "696fbcdff0809d41a2f535283e1c3dfc",
+      "title": "Hanwha Life tổ chức hội nghị chiến lược kinh doanh 2026",
+      "link": "https://vnexpress.net/hanwha-life-to-chuc-hoi-nghi-chien-luoc-kinh-doanh-2026-5080341.html",
+      "summary": "Hanwha Life Việt Nam công bố chiến lược kinh doanh 2026 với trọng tâm nâng cao chất lượng tư vấn, ứng dụng AI, mở rộng mạng lưới phân phối và phát triển các giải pháp bảo hiểm mới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-01T02:00:00+07:00",
+      "fetched": "2026-06-01T09:42:57.028619+07:00"
+    },
+    {
+      "id": "e7a65c98b7f24a5543fa8c35169017a4",
+      "title": "Giá Bitcoin hôm nay 1.6.2026: Vì sao 1,3 tỉ USD ETF Bitcoin bị bán tháo?",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-162026-vi-sao-13-ti-usd-etf-bitcoin-bi-ban-thao-185260601072455974.htm",
+      "summary": "Giá Bitcoin hôm nay vẫn giao dịch quanh mốc 73.000 USD trong khi các phân tích cho thấy thương vụ bán tháo 1,3 tỉ USD ETF Bitcoin không đơn thuần là kết quả của một chiến lược đầu tư thông thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T01:58:00+07:00",
+      "fetched": "2026-06-01T09:42:54.047996+07:00"
+    },
+    {
+      "id": "2a83c1ea492b7ccdca44eed753e66e6c",
+      "title": "Mua nhà cạnh bạn thân để cùng nuôi dạy con",
+      "link": "https://vnexpress.net/mua-nha-canh-ban-than-de-cung-nuoi-day-con-5080233.html",
+      "summary": "Khó xoay xở khi nuôi con nhỏ, nhiều phụ huynh Mỹ có xu hướng chuyển đến sống gần nhà bạn thân để chia sẻ trách nhiệm chăm sóc và tạo lập cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T01:57:35+07:00",
+      "fetched": "2026-06-01T09:42:51.554822+07:00"
+    },
+    {
+      "id": "2674efb0464fe40d25ae6e2320a085a1",
+      "title": "Hề Mộng Dao và con trai 'Vua sòng bạc' đón khách dự cưới",
+      "link": "https://vnexpress.net/he-mong-dao-va-con-trai-vua-song-bac-don-khach-du-cuoi-5080405.html",
+      "summary": "Siêu mẫu Trung Quốc Hề Mộng Dao và chồng - Hà Du Quân - đón khách dự hôn lễ tại Paris, Pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T01:38:27+07:00",
+      "fetched": "2026-06-01T09:42:51.554982+07:00"
+    },
+    {
+      "id": "099f1c73f0f19529baf66243047cf011",
+      "title": "LPBank nhận 4 giải thưởng về thẻ từ JCB",
+      "link": "https://vnexpress.net/lpbank-nhan-4-giai-thuong-ve-the-tu-jcb-5080343.html",
+      "summary": "LPBank được vinh danh tại Hội nghị thường niên của Tổ chức Thẻ Quốc tế JCB diễn ra ngày 28/5 ở Đà Nẵng, nhờ kết quả nổi bật trong phát triển và tăng trưởng chi tiêu thẻ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-01T01:00:00+07:00",
+      "fetched": "2026-06-01T09:42:57.028805+07:00"
+    },
+    {
+      "id": "d99e5661000b3dc8b2ada13d5f94cbc1",
+      "title": "Cách AI tối ưu vận hành cho điều hòa LG",
+      "link": "https://vnexpress.net/cach-ai-toi-uu-van-hanh-cho-dieu-hoa-lg-5079818.html",
+      "summary": "Hệ thống cảm biến thông minh trên LG Dualcool AI có thể tự phân tích nhiệt độ, độ ẩm, thói quen người dùng để điều chỉnh làm mát, tiết kiệm điện, lọc không khí.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-01T01:00:00+07:00",
+      "fetched": "2026-06-01T09:42:58.992920+07:00"
+    },
+    {
+      "id": "c95263133efb76be37b69a83eca78301",
+      "title": "Tác phẩm 'chuối dán tường' triệu USD lại bị lấy trộm",
+      "link": "https://vnexpress.net/tac-pham-chuoi-dan-tuong-trieu-usd-lai-bi-lay-trom-5080374.html",
+      "summary": "Bảo tàng Pháp thông báo quả chuối trong tác phẩm nghệ thuật \"Comedian\", từng được đấu giá hàng triệu USD, đã bị đánh cắp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-01T00:46:32+07:00",
+      "fetched": "2026-06-01T09:42:55.987182+07:00"
+    },
+    {
+      "id": "c6f9f5d6326e466dbfc9a6dcdc6ad555",
+      "title": "Thượng nghị sĩ Mỹ: Iran đã mạnh hơn so với trước xung đột",
+      "link": "https://vnexpress.net/thuong-nghi-si-my-iran-da-manh-hon-so-voi-truoc-xung-dot-5080369.html",
+      "summary": "Thượng nghị sĩ Chris Coons cho rằng Iran đã mạnh hơn so với trước khi chiến sự bùng phát, kêu gọi giới chức Mỹ đối phó cứng rắn hơn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-01T00:36:01+07:00",
+      "fetched": "2026-06-01T09:42:55.987355+07:00"
+    },
+    {
+      "id": "83cff2e95977df3e3cd89a169e9324fa",
+      "title": "Nổ kho chứa chất nổ ở Myanmar, ít nhất 46 người chết",
+      "link": "https://vnexpress.net/no-kho-chua-chat-no-o-myanmar-it-nhat-46-nguoi-chet-5080368.html",
+      "summary": "Ít nhất 46 người thiệt mạng và hơn 70 người bị thương sau vụ nổ tại một kho chứa chất nổ để khai thác mỏ than ở đông bắc Myanmar.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-01T00:18:46+07:00",
+      "fetched": "2026-06-01T09:42:55.987519+07:00"
+    },
+    {
+      "id": "884fe5b5366bbeabdf4c361b3ce2db58",
+      "title": "Robot hình người Mỹ phô diễn kỹ năng bóng đá",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-my-pho-dien-ky-nang-bong-da-5079352.html",
+      "summary": "Robot Atlas của Boston Dynamics thực hiện bài tập bóng đá nhằm tăng cường khả năng giữ thăng bằng, phối hợp và kiểm soát chuyển động.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-01T00:00:00+07:00",
+      "fetched": "2026-06-01T09:42:58.992396+07:00"
+    },
+    {
+      "id": "6643bab4e4f764f1f46960287239936d",
+      "title": "Ông Trump có thể đã ra điều kiện cứng rắn hơn với Iran",
+      "link": "https://vnexpress.net/ong-trump-co-the-da-ra-dieu-kien-cung-ran-hon-voi-iran-5080366.html",
+      "summary": "Tổng thống Trump dường như đã gửi cho Iran bộ khung thỏa thuận mang tính \"cứng rắn hơn\" nhằm chấm dứt xung đột, theo báo Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-31T23:52:18+07:00",
+      "fetched": "2026-06-01T09:42:55.987677+07:00"
+    },
+    {
+      "id": "42f88aca3183b558dab67a26fb94b762",
+      "title": "Hơn 1,5 triệu người diễu hành mừng Arsenal vô địch Ngoại hạng Anh",
+      "link": "https://vnexpress.net/hon-1-5-trieu-nguoi-dieu-hanh-mung-arsenal-vo-dich-ngoai-hang-anh-5080363.html",
+      "summary": "Gác lại thất bại ở chung kết Champions League, Arsenal diễu hành mừng chức vô địch Ngoại hạng Anh với lượng người tham gia đông kỷ lục tại Vương quốc Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-31T22:51:45+07:00",
+      "fetched": "2026-06-01T09:43:00.037710+07:00"
+    },
+    {
       "id": "b2e171f3f31cf1414994db5f6a6dd056",
       "title": "Giải pháp giảm áp lực thi lớp 10: Thay đổi cách tiếp cận về phân luồng",
       "link": "https://thanhnien.vn/giai-phap-giam-ap-luc-thi-lop-10-thay-doi-cach-tiep-can-ve-phan-luong-185260531182150638.htm",
@@ -243,6 +793,16 @@ window.newsData_2026_06_01 = {
       "fetched": "2026-06-01T05:49:48.751557+07:00"
     },
     {
+      "id": "5ed442898a587b739a0b47de2a0751fd",
+      "title": "Bạo loạn trên 15 thành phố Pháp sau khi PSG vô địch Champions League",
+      "link": "https://vnexpress.net/bao-loan-tren-15-thanh-pho-phap-sau-khi-psg-vo-dich-champions-league-5080361.html",
+      "summary": "Một CĐV tử vong, một người khác nguy kịch và khoảng 400 người bị bắt giữ sau các vụ bạo loạn xảy ra tại 15 thành phố của Pháp khi người hâm mộ mừng PSG thắng Arsenal ở chung kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-31T22:37:20+07:00",
+      "fetched": "2026-06-01T09:43:00.038427+07:00"
+    },
+    {
       "id": "42d1861557926386cd73692255eb9e66",
       "title": "Ukraine nhận hệ thống tên lửa mới từ Đức",
       "link": "https://thanhnien.vn/ukraine-nhan-he-thong-ten-lua-moi-tu-duc-185260531201632982.htm",
@@ -261,6 +821,16 @@ window.newsData_2026_06_01 = {
       "category": "Tổng hợp",
       "published": "2026-05-31T22:30:00+07:00",
       "fetched": "2026-06-01T05:49:48.751870+07:00"
+    },
+    {
+      "id": "a6cee0629e345a8567a4e87c16115343",
+      "title": "VĐV Mỹ phá kỷ lục leo đỉnh Everest",
+      "link": "https://vnexpress.net/vdv-my-pha-ky-luc-leo-dinh-everest-5080364.html",
+      "summary": "VĐV chạy địa hình và leo núi Tyler Andrews chinh phục đỉnh Everest chỉ trong 9 giờ 55 phút, tính từ trại nền (Base Camp).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-31T22:29:52+07:00",
+      "fetched": "2026-06-01T09:43:00.038588+07:00"
     },
     {
       "id": "3f25d8b170e40f8df8ce077676578151",
