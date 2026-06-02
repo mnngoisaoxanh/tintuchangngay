@@ -1,7 +1,87 @@
 window.newsData_2026_06_03 = {
   "date": "2026-06-03",
-  "lastUpdated": "2026-06-03T03:48:27.644075+07:00",
+  "lastUpdated": "2026-06-03T06:27:16.607786+07:00",
   "articles": [
+    {
+      "id": "ff2362492d3e735edc86ee184b0dbe2d",
+      "title": "Lịch trực tiếp Giải U19 Đông Nam Á 2026: Philippines đấu Úc",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-u19-dong-nam-a-2026-philippines-dau-uc-20260602170000452.htm",
+      "summary": "Tuyển U19 Philippines sẽ có trận đấu ra quân gặp U19 Úc ở Giải vô địch U19 Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T06:27:09.672368+07:00",
+      "fetched": "2026-06-03T06:27:09.672487+07:00"
+    },
+    {
+      "id": "c963319173ca6a46f39ad2bf4252849f",
+      "title": "Lịch thi đấu toàn bộ 104 trận tại World Cup 2026",
+      "link": "https://tuoitre.vn/lich-thi-dau-toan-bo-104-tran-tai-world-cup-2026-20260602132922558.htm",
+      "summary": "Tuổi Trẻ Online gửi đến bạn đọc lịch thi đấu toàn bộ 104 trận đấu tại World Cup 2026 diễn ra ở Bắc Mỹ từ ngày 12-6 đến 20-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T06:27:09.672232+07:00",
+      "fetched": "2026-06-03T06:27:09.672346+07:00"
+    },
+    {
+      "id": "fc742c327a3a64abb264157700b96066",
+      "title": "Thời tiết hôm nay 3-6: Nắng nóng gay gắt từ Bắc vào Trung, miền Nam mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-3-6-nang-nong-gay-gat-tu-bac-vao-trung-mien-nam-mua-to-20260602161026744.htm",
+      "summary": "Hôm nay 3-6, nắng nóng mở rộng khắp Bắc Bộ và Trung Bộ. Nam Bộ mưa dông, đặc biệt ở Lâm Đồng có mưa tới hơn 100mm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T06:27:09.672104+07:00",
+      "fetched": "2026-06-03T06:27:09.672220+07:00"
+    },
+    {
+      "id": "6b6c37b782bfa86147e084ae50ee42d9",
+      "title": "Biến chất lượng và tuân thủ thành lợi thế cạnh tranh",
+      "link": "https://tuoitre.vn/bien-chat-luong-va-tuan-thu-thanh-loi-the-canh-tranh-20260602230328495.htm",
+      "summary": "Tiêu chuẩn xanh và phát triển bền vững (EGS) đang là những yêu cầu bắt buộc trong xuất nhập khẩu,  làm gì để đáp ứng được các tiêu chuẩn?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T06:27:09.671970+07:00",
+      "fetched": "2026-06-03T06:27:09.672092+07:00"
+    },
+    {
+      "id": "778d0ed5daed93ca7e0043a74f6a7221",
+      "title": "Lễ hội âm nhạc E-Concert 2026: Hứa hẹn bùng nổ",
+      "link": "https://tuoitre.vn/le-hoi-am-nhac-e-concert-2026-hua-hen-bung-no-20260602234447464.htm",
+      "summary": "Isaac, Tóc Tiên, Trúc Nhân, Grey D, Thoại Nghi, DJ Toxic, MC Đại Dũng sẽ góp mặt trong đêm đại nhạc hội VPBank E-Concert 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T06:27:09.671808+07:00",
+      "fetched": "2026-06-03T06:27:09.671956+07:00"
+    },
+    {
+      "id": "477ac42ac2676aa87483bc76ba7f7b48",
+      "title": "Ngôi sao cờ vua 17 tuổi Việt Nam áp sát danh hiệu Đại kiện tướng",
+      "link": "https://tuoitre.vn/ngoi-sao-co-vua-17-tuoi-viet-nam-ap-sat-danh-hieu-dai-kien-tuong-20260602222755238.htm",
+      "summary": "Tiếp đà hưng phấn sau chuỗi trận thăng hoa, kỳ thủ 17 tuổi Phạm Trần Gia Phúc nối dài mạch bất bại tại Giải vô địch cờ vua cá nhân châu Á 2026 bằng một kết quả hòa trước Đại kiện tướng người Ấn Độ ở vòng 5 diễn ra vào chiều 2-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T06:27:09.671673+07:00",
+      "fetched": "2026-06-03T06:27:09.671796+07:00"
+    },
+    {
+      "id": "89d23f6142eee10ec9aba29c6b941a57",
+      "title": "Tổng lãnh sự Ý: 'Hợp tác công nghệ Việt - Ý diễn ra tự nhiên nhất'",
+      "link": "https://tuoitre.vn/tong-lanh-su-y-hop-tac-cong-nghe-viet-y-dien-ra-tu-nhien-nhat-20260603001635394.htm",
+      "summary": "Tổng lãnh sự Ý Alessandra Tognonato chia sẻ riêng với Tuổi Trẻ về những lĩnh vực hai nước có thể cùng nhau tiến xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T06:27:09.671531+07:00",
+      "fetched": "2026-06-03T06:27:09.671661+07:00"
+    },
+    {
+      "id": "c80995e583bd9b477558cd10949369a7",
+      "title": "Lạ lùng 2 ngôi sao vô danh vượt mặt Messi - Ronaldo về sức hút tại World Cup",
+      "link": "https://tuoitre.vn/la-lung-2-ngoi-sao-vo-danh-vuot-mat-messi-ronaldo-ve-suc-hut-tai-world-cup-20260602223850065.htm",
+      "summary": "World Cup 2026 đến gần, đồng nghĩa với việc những cái tên như Messi hay Ronaldo sẽ càng được tìm kiếm nhiều hơn. Nhưng vài ngày qua, 2 cầu thủ bất ngờ tăng vọt về lượt tìm kiếm liên quan World Cup lại khiến người hâm mộ phải bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T06:27:09.671299+07:00",
+      "fetched": "2026-06-03T06:27:09.671517+07:00"
+    },
     {
       "id": "21cfc6176de0aaf2f300fdef9a4e47c7",
       "title": "Chuyển hóa kết quả đối ngoại thành động lực phát triển TP.HCM",
@@ -151,6 +231,286 @@ window.newsData_2026_06_03 = {
       "category": "Tổng hợp",
       "published": "2026-06-03T00:58:54.536770+07:00",
       "fetched": "2026-06-03T00:58:54.537013+07:00"
+    },
+    {
+      "id": "a29604412a0f89126a0d691f1118e141",
+      "title": "Sau xăng 'xanh', cần tăng tốc điện 'xanh'",
+      "link": "https://thanhnien.vn/sau-xang-xanh-can-tang-toc-dien-xanh-185260602203653586.htm",
+      "summary": "Hợp đồng mua bán điện trực tiếp đầu tiên vừa được thực hiện, mở ra kỳ vọng mới cho dòng điện xanh chảy vào sản xuất, giảm áp lực cho ngành điện trong bối cảnh tiêu thụ tăng kỷ lục hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T23:11:00+07:00",
+      "fetched": "2026-06-03T06:27:08.808629+07:00"
+    },
+    {
+      "id": "962766694ccd09a5235b19f3fafc5ab8",
+      "title": "Tục xưa còn lại: Thú vị tục 'đắp chăn' bắt cá ngày đầu năm",
+      "link": "https://thanhnien.vn/tuc-xua-con-lai-thu-vi-tuc-dap-chan-bat-ca-ngay-dau-nam-185260602202833196.htm",
+      "summary": "Mùng 7 tháng giêng, khi hơi xuân còn vương trên những triền núi Trà Bồng (Quảng Ngãi), đồng bào Kor ở xã Thanh Bồng lại rủ nhau xuống suối cùng ngăn dòng bắt cá đầu năm (tiếng địa phương là Hoi P'hiết Xol). Tục này không phải để kiếm vài mẻ cá mà là cách người Kor cầu mong một năm mới bình an, đủ đầ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T23:11:00+07:00",
+      "fetched": "2026-06-03T06:27:08.808800+07:00"
+    },
+    {
+      "id": "f348fc56576c1d5daa86f2ea411c214c",
+      "title": "'Quả bom nổ chậm' đối với an ninh lương thực",
+      "link": "https://thanhnien.vn/qua-bom-no-cham-doi-voi-an-ninh-luong-thuc-185260602215129726.htm",
+      "summary": "Xung đột tại Trung Đông và tình trạng tắc nghẽn trên eo biển Hormuz đang tạo ra cú sốc trên thị trường nông nghiệp, khi đẩy giá phân bón tăng vọt, trong bối cảnh nông dân nhiều quốc gia bắt đầu vụ gieo trồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T23:10:00+07:00",
+      "fetched": "2026-06-03T06:27:08.808989+07:00"
+    },
+    {
+      "id": "1aceeb09978c6ec179335442b794cd47",
+      "title": "Ngân hàng chạy đua huy động vốn",
+      "link": "https://thanhnien.vn/ngan-hang-chay-dua-huy-dong-von-185260602204012493.htm",
+      "summary": "Dù lượng tiền gửi tăng liên tục nhưng các ngân hàng vẫn đang chạy đua hút vốn. Lý do của động thái này là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T23:10:00+07:00",
+      "fetched": "2026-06-03T06:27:08.809146+07:00"
+    },
+    {
+      "id": "774422f9150ea16b930f7a0e35290a47",
+      "title": "Vạch dừng đèn đỏ nằm trước tiểu đảo được đi hay phải dừng? CSGT giải thích",
+      "link": "https://thanhnien.vn/vach-dung-den-do-nam-truoc-tieu-dao-duoc-di-hay-phai-dung-csgt-giai-thich-185260602171003528.htm",
+      "summary": "Nhiều người tranh cãi việc gặp đèn đỏ tại giao lộ có tiểu đảo, vạch dừng nằm phía trước thì được rẽ phải hay phải dừng. CSGT giải thích cụ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T23:10:00+07:00",
+      "fetched": "2026-06-03T06:27:08.809300+07:00"
+    },
+    {
+      "id": "1f3db1036af629a8860da7debff2113f",
+      "title": "[VIDEO] Gợi ý giải đề thi toán đại số tuyển sinh lớp 10",
+      "link": "https://thanhnien.vn/video-goi-y-giai-de-thi-toan-dai-so-tuyen-sinh-lop-10-185260603000308855.htm",
+      "summary": "Đề thi Toán tuyển sinh lớp 10 TP.HCM năm nay được nhiều giáo viên đánh giá có tính phân hóa cao. Ngay sau khi môn thi kết thúc, thầy Phạm Hồng Danh, Hiệu trưởng Trường THPT Vĩnh Viễn, đã trực tiếp giải chi tiết các câu hỏi phần đại số để giúp thí sinh đối chiếu đáp án và đánh giá bài làm của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T23:00:00+07:00",
+      "fetched": "2026-06-03T06:27:08.809452+07:00"
+    },
+    {
+      "id": "a5b5b62226a706cba7d05d767ae6739e",
+      "title": "Đột phá tốc độ nhà ở cho thuê",
+      "link": "https://thanhnien.vn/dot-pha-toc-do-nha-o-cho-thue-18526060222145342.htm",
+      "summary": "Chỉ hơn nửa tháng sau chỉ đạo của Tổng Bí thư, Chủ tịch nước Tô Lâm, Chính phủ đã \"chốt\" giao các địa phương khởi công dự án nhà ở cho thuê để thực hiện trụ cột chiến lược phát triển nhà ở cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T23:00:00+07:00",
+      "fetched": "2026-06-03T06:27:08.809604+07:00"
+    },
+    {
+      "id": "7981eaee9c84fcfb61fe8484ad0c08dc",
+      "title": "Khó khăn bủa vây các 'đại gia' AI Mỹ",
+      "link": "https://thanhnien.vn/kho-khan-bua-vay-cac-dai-gia-ai-my-18526060220505668.htm",
+      "summary": "Florida trở thành tiểu bang đầu tiên của Mỹ kiện OpenAI, trong khi Anthropic tiếp tục đối diện bất đồng với chính quyền nước này trong bối cảnh công bố kế hoạch chào bán cổ phiếu lần đầu ra công chúng (IPO).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T23:00:00+07:00",
+      "fetched": "2026-06-03T06:27:08.809765+07:00"
+    },
+    {
+      "id": "7f1bad6cf2014af2d55e14839bbae537",
+      "title": "Ai đang trả phí sàn?",
+      "link": "https://thanhnien.vn/ai-dang-tra-phi-san-185260602165940606.htm",
+      "summary": "Phí sàn, chi phí quảng cáo, vận chuyển và thuế cùng tăng đang tạo áp lực lên cộng đồng kinh doanh trực tuyến. Dù giá niêm yết chưa biến động mạnh, nhiều chuyên gia cho rằng người mua vẫn là đối tượng phải trả thêm tiền thông qua việc giảm ưu đãi và tăng giá bán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T23:00:00+07:00",
+      "fetched": "2026-06-03T06:27:08.809943+07:00"
+    },
+    {
+      "id": "e266d678f555ad01e82d9ab0cd08d181",
+      "title": "Cây mít 'quái kiệt' quả mọc kín: Chủ nhà than 'mất mùa' vì chỉ được... 300 quả",
+      "link": "https://thanhnien.vn/cay-mit-quai-kiet-qua-moc-kin-chu-nha-than-mat-mua-vi-chi-duoc-300-qua-185260602145010579.htm",
+      "summary": "Hình ảnh cây mít tố nữ 'không còn khoảng trống trên thân' khiến cư dân mạng xôn xao. Dù quả sai chi chít từ mặt đất lên tới mái tôn, chủ nhân vẫn tiếc nuối cho biết năm nay... mất mùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T23:00:00+07:00",
+      "fetched": "2026-06-03T06:27:08.810099+07:00"
+    },
+    {
+      "id": "237f920fcf0f231336d93e5728433316",
+      "title": "Lãi suất tiết kiệm ngân hàng nào cao nhất?",
+      "link": "https://vnexpress.net/lai-suat-tiet-kiem-ngan-hang-nao-cao-nhat-5081143.html",
+      "summary": "Lãi suất niêm yết đang phổ biến từ 6,5% trở lên trong khi khách gửi tiết kiệm vài trăm triệu đồng có thể thỏa thuận 8-8,5% tại một vài nhà băng nhỏ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-02T23:00:00+07:00",
+      "fetched": "2026-06-03T06:27:12.394067+07:00"
+    },
+    {
+      "id": "c655acff9d63d2e6646a21c095414f1c",
+      "title": "Sân bay Liên Khương sau 3 tháng đóng cửa nâng cấp, đạt tiến độ thế nào?",
+      "link": "https://thanhnien.vn/san-bay-lien-khuong-sau-3-thang-dong-cua-nang-cap-dat-tien-do-the-nao-185260602211449582.htm",
+      "summary": "Sau 3 tháng kể từ khi tạm đóng cửa để nâng cấp, cải tạo, nhiều hạng mục trọng điểm tại sân bay Liên Khương (Lâm Đồng) đang được đẩy nhanh tiến độ, bảo đảm mục tiêu đưa sân bay trở lại hoạt động theo đúng kế hoạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:58:00+07:00",
+      "fetched": "2026-06-03T06:27:08.810250+07:00"
+    },
+    {
+      "id": "69bd2d351df9053a1665a2a3df714b58",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 3.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-362026-185260602223138218.htm",
+      "summary": "Tin tức đặc biệt trên báo in Thanh Niên 3.6.2026 Tin tức Đột phá tốc độ nhà ở cho thuê, World Cup của những lão tướng, Liên minh Tổng thống Trump - Thủ tướng Netanyahu có \"đứt gánh giữa đường\"?… có thể đón xem trên Báo Thanh Niên số ra ngày 3.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:55:00+07:00",
+      "fetched": "2026-06-03T06:27:08.810399+07:00"
+    },
+    {
+      "id": "76c177c8a8c47ec9a1a1639d74826a56",
+      "title": "Thi tốt nghiệp THPT 2026: Quy mô nhiều tỉnh tăng mạnh, tìm phương án vận chuyển đề",
+      "link": "https://thanhnien.vn/thi-tot-nghiep-thpt-2026-quy-mo-nhieu-tinh-tang-manh-tim-phuong-an-van-chuyen-de-185260602211434746.htm",
+      "summary": "Ban Chỉ đạo quốc gia kỳ thi tốt nghiệp THPT và các địa phương nêu những lưu ý quan trọng đối với kỳ thi tốt nghiệp THPT sẽ diễn ra tuần sau (11 - 12.6).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:54:00+07:00",
+      "fetched": "2026-06-03T06:27:08.810545+07:00"
+    },
+    {
+      "id": "0bc94153f4649ee8d8a0089c34804b8f",
+      "title": "Cú bứt phá từ lò Bayern đưa sao trẻ 18 tuổi đến World Cup",
+      "link": "https://vnexpress.net/cu-but-pha-tu-lo-bayern-dua-sao-tre-18-tuoi-den-world-cup-5081287.html",
+      "summary": "Mới 18 tuổi, Bara Sapoko Ndiaye - tài năng trưởng thành từ hệ thống đào tạo của Bayern - tiến bộ thần tốc, mở ra cơ hội góp mặt tại World Cup 2026 trong màu áo đội tuyển Senegal.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:52:35+07:00",
+      "fetched": "2026-06-03T06:27:06.487225+07:00"
+    },
+    {
+      "id": "0bc94153f4649ee8d8a0089c34804b8f",
+      "title": "Cú bứt phá từ lò Bayern đưa sao trẻ 18 tuổi đến World Cup",
+      "link": "https://vnexpress.net/cu-but-pha-tu-lo-bayern-dua-sao-tre-18-tuoi-den-world-cup-5081287.html",
+      "summary": "Mới 18 tuổi, Bara Sapoko Ndiaye - tài năng trưởng thành từ hệ thống đào tạo của Bayern - tiến bộ thần tốc, mở ra cơ hội góp mặt tại World Cup 2026 trong màu áo đội tuyển Senegal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-02T22:52:35+07:00",
+      "fetched": "2026-06-03T06:27:16.602788+07:00"
+    },
+    {
+      "id": "171fbf5fdedb4397a40bcbfc7556badb",
+      "title": "Máy bay 200 triệu USD chở tuyển Brazil được 'rửa tội' trước thềm World Cup",
+      "link": "https://vnexpress.net/may-bay-200-trieu-usd-cho-tuyen-brazil-duoc-rua-toi-truoc-them-world-cup-5081299.html",
+      "summary": "Đội tuyển Brazil được tiễn lên đường dự World Cup 2026 bằng nghi thức \"rửa tội\" máy bay tại sân bay Galeao - một truyền thống hàng không mang ý nghĩa cầu may trước những chuyến bay quan trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:50:30+07:00",
+      "fetched": "2026-06-03T06:27:06.487406+07:00"
+    },
+    {
+      "id": "171fbf5fdedb4397a40bcbfc7556badb",
+      "title": "Máy bay 200 triệu USD chở tuyển Brazil được 'rửa tội' trước thềm World Cup",
+      "link": "https://vnexpress.net/may-bay-200-trieu-usd-cho-tuyen-brazil-duoc-rua-toi-truoc-them-world-cup-5081299.html",
+      "summary": "Đội tuyển Brazil được tiễn lên đường dự World Cup 2026 bằng nghi thức \"rửa tội\" máy bay tại sân bay Galeao - một truyền thống hàng không mang ý nghĩa cầu may trước những chuyến bay quan trọng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-02T22:50:30+07:00",
+      "fetched": "2026-06-03T06:27:16.602978+07:00"
+    },
+    {
+      "id": "eceed635ce7891fe9001e95de5addd91",
+      "title": "Hiện thực hóa đối ngoại tầm cao",
+      "link": "https://thanhnien.vn/hien-thuc-hoa-doi-ngoai-tam-cao-185260602222007949.htm",
+      "summary": "Khuya 29.5, giữ đúng lời hẹn, một số chuyên gia quốc tế đã kịp gửi đến Thanh Niên ý kiến, nhận định xoay quanh bài phát biểu dẫn đề của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Đối thoại Shangri-La - diễn đàn thường niên uy tín về an ninh khu vực tập trung đại diện đến từ hơn 40 quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:50:00+07:00",
+      "fetched": "2026-06-03T06:27:08.810704+07:00"
+    },
+    {
+      "id": "49cf07ebe0ab4d6c3fe0259be15459f5",
+      "title": "Liên minh Tổng thống Trump - Thủ tướng Netanyahu có 'đứt gánh giữa đường'?",
+      "link": "https://thanhnien.vn/lien-minh-tong-thong-trump-thu-tuong-netanyahu-co-dut-ganh-giua-duong-185260602214855571.htm",
+      "summary": "Nhiều dấu hiệu cho thấy mối hợp tác giữa Tổng thống Mỹ Donald Trump và Thủ tướng Israel Benjamin Netanyahu dần rạn nứt xung quanh cuộc chiến Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:45:00+07:00",
+      "fetched": "2026-06-03T06:27:08.810875+07:00"
+    },
+    {
+      "id": "24df482d186c0150a191be78b5215640",
+      "title": "Thần đồng Argentina chuẩn bị lập kỷ lục ở World Cup",
+      "link": "https://vnexpress.net/than-dong-argentina-chuan-bi-lap-ky-luc-o-world-cup-5081302.html",
+      "summary": "Tiền vệ 21 tuổi Nico Paz sẽ trở thành tuyển thủ Argentina đầu tham dự World Cup mà không từng chơi bóng hay trưởng thành từ hệ thống đào tạo của các CLB quê hương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:31:13+07:00",
+      "fetched": "2026-06-03T06:27:06.487578+07:00"
+    },
+    {
+      "id": "24df482d186c0150a191be78b5215640",
+      "title": "Thần đồng Argentina chuẩn bị lập kỷ lục ở World Cup",
+      "link": "https://vnexpress.net/than-dong-argentina-chuan-bi-lap-ky-luc-o-world-cup-5081302.html",
+      "summary": "Tiền vệ 21 tuổi Nico Paz sẽ trở thành tuyển thủ Argentina đầu tham dự World Cup mà không từng chơi bóng hay trưởng thành từ hệ thống đào tạo của các CLB quê hương.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-02T22:31:13+07:00",
+      "fetched": "2026-06-03T06:27:16.603138+07:00"
+    },
+    {
+      "id": "7ab902c76d4c416d44b5395382b3448d",
+      "title": "Giám khảo Miss Grand All Stars nói thí sinh 'hung hăng'",
+      "link": "https://vnexpress.net/giam-khao-miss-grand-all-stars-noi-thi-sinh-hung-hang-5081082.html",
+      "summary": "Giám khảo Omar Harfouch nhận xét Yamilex Hernandez \"thiếu phẩm chất của một hoa hậu\" sau khi cô phản ứng về điểm số tại Miss Grand All Stars.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:05:42+07:00",
+      "fetched": "2026-06-03T06:27:06.487748+07:00"
+    },
+    {
+      "id": "8902a8f6be2aef0ad1cc87c78bcda83c",
+      "title": "Gói khám sức khỏe miễn phí toàn dân của TP HCM gồm những gì?",
+      "link": "https://vnexpress.net/goi-kham-suc-khoe-mien-phi-toan-dan-cua-tp-hcm-gom-nhung-gi-5081169.html",
+      "summary": "Người dân TP HCM được khám sức khỏe miễn phí ít nhất một lần mỗi năm, gồm đo chỉ số cơ bản, khám chuyên khoa, xét nghiệm máu, tầm soát nguy cơ bệnh theo tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:00:00+07:00",
+      "fetched": "2026-06-03T06:27:06.487940+07:00"
+    },
+    {
+      "id": "8140321e149a9f9984fc611707efc619",
+      "title": "'AI chỉ là cớ để sa thải nhân viên'",
+      "link": "https://vnexpress.net/ai-chi-la-co-de-sa-thai-nhan-vien-5080923.html",
+      "summary": "CEO OpenAI Sam Altman cho rằng áp dụng AI không đồng nghĩa với việc cắt giảm việc làm, thay vào đó nhiều công ty đang tuyển thêm nhân lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:00:00+07:00",
+      "fetched": "2026-06-03T06:27:06.488100+07:00"
+    },
+    {
+      "id": "ad2236012b21e6f0071400e7cd162812",
+      "title": "Con dâu bị bố mẹ chồng tố bạo hành, dồn chồng đến bước đường cùng",
+      "link": "https://vnexpress.net/con-dau-bi-bo-me-chong-to-bao-hanh-don-chong-den-buoc-duong-cung-5080535.html",
+      "summary": "Vợ chồng bà Tư cáo buộc con dâu đuổi đánh, bạo hành khiến con trai họ tìm đến cái chết, song cảnh sát xác định hành vi của con dâu không cấu thành tội phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:00:00+07:00",
+      "fetched": "2026-06-03T06:27:06.488256+07:00"
+    },
+    {
+      "id": "4388f57515655a8854c4764866bb69ce",
+      "title": "Sự cố trăm xe tê liệt dội 'gáo nước lạnh' vào ngành robotaxi",
+      "link": "https://vnexpress.net/su-co-tram-xe-te-liet-doi-gao-nuoc-lanh-vao-nganh-robotaxi-5080381.html",
+      "summary": "Ngành công nghiệp taxi tự lái đối mặt với sự giám sát chặt chẽ hơn từ cơ quan quản lý sau sự cố hồi tháng 3 ở Vũ Hán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:00:00+07:00",
+      "fetched": "2026-06-03T06:27:06.488414+07:00"
+    },
+    {
+      "id": "8140321e149a9f9984fc611707efc619",
+      "title": "'AI chỉ là cớ để sa thải nhân viên'",
+      "link": "https://vnexpress.net/ai-chi-la-co-de-sa-thai-nhan-vien-5080923.html",
+      "summary": "CEO OpenAI Sam Altman cho rằng áp dụng AI không đồng nghĩa với việc cắt giảm việc làm, thay vào đó nhiều công ty đang tuyển thêm nhân lực.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-02T22:00:00+07:00",
+      "fetched": "2026-06-03T06:27:15.215736+07:00"
     },
     {
       "id": "1ab35723595e8c175e504f9f3547c6fa",
