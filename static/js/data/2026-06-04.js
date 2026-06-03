@@ -1,6 +1,6 @@
 window.newsData_2026_06_04 = {
   "date": "2026-06-04",
-  "lastUpdated": "2026-06-04T02:41:34.766016+07:00",
+  "lastUpdated": "2026-06-04T05:23:30.917468+07:00",
   "articles": [
     {
       "id": "3a490ff8ed3cf03a4f3ff24c4b84b3f4",
@@ -151,6 +151,206 @@ window.newsData_2026_06_04 = {
       "category": "Tổng hợp",
       "published": "2026-06-04T02:41:29.553521+07:00",
       "fetched": "2026-06-04T02:41:29.553758+07:00"
+    },
+    {
+      "id": "ae5eca08d5d79502f6f23e94ad805989",
+      "title": "Tử vi ngày 4 tháng 6: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-4-thang-6-con-giap-nao-may-man-hom-nay-185260603224342868.htm",
+      "summary": "Tử vi ngày 4 tháng 6 mang đến những gợi ý tham khảo cho 12 con giáp. Bạn đừng quên rằng 'có những ngày nên sống thực tế'. Không phải điều gì khiến bạn hứng thú cũng phù hợp để theo đuổi ngay lúc này. Tài lộc hôm nay thế nào phụ thuộc vào khả năng nhìn rõ điều gì mang lại giá trị lâu dài thay vì niềm...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T22:15:00+07:00",
+      "fetched": "2026-06-04T05:23:20.687166+07:00"
+    },
+    {
+      "id": "fbcfa29d8a6d29edf041bacf5f8492e9",
+      "title": "Bổ nhiệm quyền Giám đốc tình báo quốc gia Mỹ gây nhiều tranh cãi",
+      "link": "https://thanhnien.vn/bo-nhiem-quyen-giam-doc-tinh-bao-quoc-gia-my-gay-nhieu-tranh-cai-185260603215431713.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã bổ nhiệm Giám đốc Cơ quan Tài chính nhà ở liên bang (FHFA) Bill Pulte làm quyền Giám đốc Tình báo quốc gia (DNI), thay cho bà Tulsi Gabbard sẽ ra đi vào cuối tháng 6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T22:15:00+07:00",
+      "fetched": "2026-06-04T05:23:20.687317+07:00"
+    },
+    {
+      "id": "7d67ecadd3626166e2296470aff6696f",
+      "title": "GS Lê Thi - Nhà khoa học khai sáng nghiên cứu về phụ nữ, gia đình, bình đẳng giới",
+      "link": "https://thanhnien.vn/gs-le-thi-nha-khoa-hoc-khai-sang-nghien-cuu-ve-phu-nu-gia-dinh-binh-dang-gioi-185260603195249914.htm",
+      "summary": "Không chỉ là cô nữ sinh thành Hoàng Diệu 19 tuổi đã đi vào lịch sử trong sự kiện kéo cờ Ngày Độc lập 2.9.1945, GS Lê Thi đã có hơn nửa thế kỷ gắn bó với nghiên cứu khoa học mà các cơ quan báo chí còn ít nói đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T22:14:00+07:00",
+      "fetched": "2026-06-04T05:23:20.687451+07:00"
+    },
+    {
+      "id": "5ba319080eeb286adc118ce4fde361b0",
+      "title": "Dinh dưỡng cho người tăng huyết áp: Đừng chủ quan nếu choáng váng, khó thở sau ăn",
+      "link": "https://thanhnien.vn/dinh-duong-cho-nguoi-tang-huyet-ap-dung-chu-quan-neu-choang-vang-kho-tho-sau-an-185260603230735618.htm",
+      "summary": "Sau một bữa ăn quá mặn hoặc uống nhiều cà phê, rượu bia, huyết áp có thể tăng đột ngột. Đây thậm chí có thể là yếu tố kích hoạt cơn tăng huyết áp nguy hiểm, đe dọa tim mạch và não bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T22:06:00+07:00",
+      "fetched": "2026-06-04T05:23:20.687580+07:00"
+    },
+    {
+      "id": "d17a560e804d7ee84ce526fd0ca178e4",
+      "title": "Gặp Bác Hồ ở Quảng Tây năm 1944",
+      "link": "https://thanhnien.vn/gap-go-bac-ho-o-quang-tay-nam-1944-185260602173247497.htm",
+      "summary": "'Trước khi Cách mạng Tháng Tám thành công, tôi đã có may mắn được gặp Bác Hồ 2 lần trên đất Trung Quốc, tại tỉnh Quảng Tây'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T22:04:00+07:00",
+      "fetched": "2026-06-04T05:23:20.687702+07:00"
+    },
+    {
+      "id": "1117b770a57e24ed30ed711c1fb47137",
+      "title": "Sabalenka thua sốc ở tứ kết Roland Garros",
+      "link": "https://vnexpress.net/sabalenka-thua-soc-o-tu-ket-roland-garros-5081736.html",
+      "summary": "Tay vợt số một thế giới Aryna Sabalenka lỡ cơ hội giành Roland Garros đầu tiên trong sự nghiệp, khi thua ngược Diana Shnaider 6-3, 5-7, 0-6 ở tứ kết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-03T22:00:22+07:00",
+      "fetched": "2026-06-04T05:23:30.912737+07:00"
+    },
+    {
+      "id": "c1c216dcd66b86ce31606213c070ea2b",
+      "title": "Sắc vóc 'Cô thư ký xinh đẹp' sau 26 năm",
+      "link": "https://vnexpress.net/sac-voc-co-thu-ky-xinh-dep-sau-26-nam-5081568.html",
+      "summary": "Thu Hương \"Cô thư ký xinh đẹp\" nói giữ được vóc dáng cân đối, sự tươi trẻ ở tuổi 47 nhờ kỷ luật trong việc tập luyện thể thao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T22:00:00+07:00",
+      "fetched": "2026-06-04T05:23:17.560650+07:00"
+    },
+    {
+      "id": "06828a7957346d09da5efce09a550603",
+      "title": "Vì sao người xưa khuyên 'đông ăn củ cải, hạ ăn gừng'?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-xua-khuyen-dong-an-cu-cai-ha-an-gung-5081409.html",
+      "summary": "Ăn gừng vào mùa hè, củ cải vào mùa đông tưởng đi ngược thời tiết, song theo quan niệm dưỡng sinh hàng nghìn năm của Đông y đây là cách điều hòa cơ thể theo mùa và phòng bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T22:00:00+07:00",
+      "fetched": "2026-06-04T05:23:17.560865+07:00"
+    },
+    {
+      "id": "c880972592f403a0f5725c761856bbb2",
+      "title": "Thế lưỡng nan với Oman trước sức ép chọn phe từ Mỹ",
+      "link": "https://vnexpress.net/the-luong-nan-voi-oman-truoc-suc-ep-chon-phe-tu-my-5081037.html",
+      "summary": "Oman cố gắng duy trì chính sách trung lập trong chiến sự Mỹ - Iran, nhưng đang đối mặt thế khó khi Washington tăng áp lực \"chọn phe\" với nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T22:00:00+07:00",
+      "fetched": "2026-06-04T05:23:17.561032+07:00"
+    },
+    {
+      "id": "a125990012e6c3229bce2db0040fd369",
+      "title": "Italjet Dragster 700 - môtô lai scooter giá gần 430 triệu đồng",
+      "link": "https://vnexpress.net/italjet-dragster-700-moto-lai-scooter-gia-gan-430-trieu-dong-5081578.html",
+      "summary": "Mẫu xe máy thương hiệu Italy sở hữu ngoại hình của một mẫu xe ga gầm hố, thể thao, động cơ 700 phân khối với sức mạnh 69 mã lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T22:00:00+07:00",
+      "fetched": "2026-06-04T05:23:17.561177+07:00"
+    },
+    {
+      "id": "eedd7b8a7a14652bd8f89234c4662d55",
+      "title": "Mỹ - Iran lại tấn công lẫn nhau",
+      "link": "https://thanhnien.vn/my-iran-lai-tan-cong-lan-nhau-185260603221937693.htm",
+      "summary": "Lực lượng Vệ binh Cách mạng Iran và quân đội Mỹ đã có cuộc ăn miếng trả miếng mới, nhưng Tổng thống Mỹ Donald Trump khẳng định các cuộc đàm phán vẫn tiếp diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T22:00:00+07:00",
+      "fetched": "2026-06-04T05:23:20.687848+07:00"
+    },
+    {
+      "id": "94fdb5cf89a5cc7c306cb3983cbc8d63",
+      "title": "Lịch âm hôm nay 4.6: Ngày Đường Phong có phải ngày đẹp?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-46-ngay-duong-phong-co-phai-ngay-dep-185260602162859075.htm",
+      "summary": "Lịch âm hôm nay 4.6 là ngày Đường Phong theo quan niệm dân gian. Đây cũng là ngày cuối cùng của tiết Tiểu mãn trong 24 tiết khí của năm",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T22:00:00+07:00",
+      "fetched": "2026-06-04T05:23:20.687972+07:00"
+    },
+    {
+      "id": "4809e519ceb8231d754179dfcd92614a",
+      "title": "Trên 50 tuổi đừng bỏ qua những bài tập này để tăng tuổi thọ",
+      "link": "https://thanhnien.vn/tren-50-tuoi-dung-bo-qua-nhung-bai-tap-nay-de-tang-tuoi-tho-185260602141209587.htm",
+      "summary": "Nhiều người cho rằng chỉ cần tập luyện nặng hoặc dậy sớm mới có thể cải thiện sức khỏe, nhưng thực tế lại đơn giản hơn. Theo Prevention, các chuyên gia khẳng định các bài tập aerobic như đi bộ, đạp xe hay bơi lội chính là một trong những phương pháp hiệu quả nhất giúp tăng tuổi thọ, đặc biệt với ngư...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T22:00:00+07:00",
+      "fetched": "2026-06-04T05:23:20.688096+07:00"
+    },
+    {
+      "id": "c880972592f403a0f5725c761856bbb2",
+      "title": "Thế lưỡng nan với Oman trước sức ép chọn phe từ Mỹ",
+      "link": "https://vnexpress.net/the-luong-nan-voi-oman-truoc-suc-ep-chon-phe-tu-my-5081037.html",
+      "summary": "Oman cố gắng duy trì chính sách trung lập trong chiến sự Mỹ - Iran, nhưng đang đối mặt thế khó khi Washington tăng áp lực \"chọn phe\" với nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-03T22:00:00+07:00",
+      "fetched": "2026-06-04T05:23:23.542323+07:00"
+    },
+    {
+      "id": "cfecf042dbcd4b1e04afea6ba1955b9c",
+      "title": "Chợ Gà, chợ Gạo ở TP.HCM trước kế hoạch 'thay áo mới'",
+      "link": "https://thanhnien.vn/cho-ga-cho-gao-o-tphcm-truoc-ke-hoach-thay-ao-moi-185260603120526216.htm",
+      "summary": "TP.HCM đang thúc đẩy kế hoạch chỉnh trang khu chợ Gà, chợ Gạo ở phường Bến Thành nhằm cải thiện điều kiện sống, nâng cấp hạ tầng và từng bước thay đổi diện mạo khu dân cư cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T21:42:00+07:00",
+      "fetched": "2026-06-04T05:23:20.688219+07:00"
+    },
+    {
+      "id": "69c418632ae094153565b7e4e6be8992",
+      "title": "Chiến sự Ukraine ngày 1.561: 15 vùng của Nga bị tập kích, Moscow cảnh báo",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1561-15-vung-cua-nga-bi-tap-kich-moscow-canh-bao-185260603174009467.htm",
+      "summary": "Bộ Quốc phòng Nga cáo buộc Ukraine tập kích 15 vùng của Nga trong một đêm, trong khi phía Ukraine tuyên bố tấn công một tàu chiến Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T21:30:00+07:00",
+      "fetched": "2026-06-04T05:23:20.688347+07:00"
+    },
+    {
+      "id": "fc9ec78e45b28a5246b6bea1d26c0f93",
+      "title": "Nhật Bản là đội đáng chờ xem nhất",
+      "link": "https://thanhnien.vn/nhat-ban-la-doi-dang-cho-xem-nhat-185260603211126605.htm",
+      "summary": "Một đội toàn thắng trước Tây Ban Nha, Pháp, Anh, Brazil, Đức, Argentina, trong lần đụng độ gần đây nhất, hẳn nhiên phải là… ứng viên vô địch World Cup? Tùy bạn, nhưng đây là sự thật: Nhật Bản là đội duy nhất trên thế giới làm được như thế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T21:28:00+07:00",
+      "fetched": "2026-06-04T05:23:20.688472+07:00"
+    },
+    {
+      "id": "9a7a32467ee7ccbb1228ad370195da19",
+      "title": "ES 2026 - tuyên ngôn tự do của Lexus",
+      "link": "https://vnexpress.net/es-2026-tuyen-ngon-tu-do-cua-lexus-5081440.html",
+      "summary": "Bộ tuxedo của người Âu giờ đây được Toyota mặc lên Century, còn Lexus đã giải phóng sứ mệnh, mặc sức sáng tạo, muốn \"làm gì thì làm\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T21:00:00+07:00",
+      "fetched": "2026-06-04T05:23:17.561320+07:00"
+    },
+    {
+      "id": "702e90c8c0c3f5664290ba6251e396ab",
+      "title": "Vụ đột nhập châm ngòi tranh luận về quyền nổ súng của chủ nhà",
+      "link": "https://vnexpress.net/vu-dot-nhap-cham-ngoi-tranh-luan-ve-quyen-no-sung-cua-chu-nha-5081577.html",
+      "summary": "Người đàn ông ở Utah chĩa súng vào kẻ đột nhập mà không bắn để chờ cảnh sát tới, làm dấy lên tranh luận về quyền nổ súng của chủ nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-03T20:00:00+07:00",
+      "fetched": "2026-06-04T05:23:17.561448+07:00"
+    },
+    {
+      "id": "702e90c8c0c3f5664290ba6251e396ab",
+      "title": "Vụ đột nhập châm ngòi tranh luận về quyền nổ súng của chủ nhà",
+      "link": "https://vnexpress.net/vu-dot-nhap-cham-ngoi-tranh-luan-ve-quyen-no-sung-cua-chu-nha-5081577.html",
+      "summary": "Người đàn ông ở Utah chĩa súng vào kẻ đột nhập mà không bắn để chờ cảnh sát tới, làm dấy lên tranh luận về quyền nổ súng của chủ nhà.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-03T20:00:00+07:00",
+      "fetched": "2026-06-04T05:23:23.542481+07:00"
     },
     {
       "id": "7e0f6f6732140abdef50e9ee149e1fe2",
