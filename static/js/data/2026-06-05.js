@@ -1,6 +1,6 @@
 window.newsData_2026_06_05 = {
   "date": "2026-06-05",
-  "lastUpdated": "2026-06-05T04:23:35.875245+07:00",
+  "lastUpdated": "2026-06-05T06:01:06.275722+07:00",
   "articles": [
     {
       "id": "aa74189394975c86161ffb5095a028ad",
@@ -151,6 +151,236 @@ window.newsData_2026_06_05 = {
       "category": "Tổng hợp",
       "published": "2026-06-05T02:53:45.530752+07:00",
       "fetched": "2026-06-05T02:53:45.530988+07:00"
+    },
+    {
+      "id": "4f7997695e983c257c135516daf4f584",
+      "title": "Vì sao nhập khẩu nông sản Campuchia tăng vọt?",
+      "link": "https://thanhnien.vn/vi-sao-nhap-khau-nong-san-campuchia-tang-vot-185260604222407688.htm",
+      "summary": "Trong bối cảnh biến động thị trường toàn cầu và những thách thức về an ninh lương thực, Việt Nam có thể đẩy mạnh đầu tư để hình thành một chuỗi cung ứng nông sản tiểu vùng sông Mekong nhằm gia tăng vị thế trên thị trường thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T23:00:00+07:00",
+      "fetched": "2026-06-05T06:00:56.056831+07:00"
+    },
+    {
+      "id": "b3b4884d171060bfc8a77505151ef28d",
+      "title": "Triều Tiên sẽ mở rộng kho vũ khí hạt nhân",
+      "link": "https://thanhnien.vn/trieu-tien-se-mo-rong-kho-vu-khi-hat-nhan-185260604220316042.htm",
+      "summary": "Nhà lãnh đạo CHDCND Triều Tiên đã đi thăm một cơ sở hạt nhân mới hoạt động và tuyên bố sẽ mở rộng kho vũ khí hạt nhân theo cấp số nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T23:00:00+07:00",
+      "fetched": "2026-06-05T06:00:56.056979+07:00"
+    },
+    {
+      "id": "6721837f70dbf266b52c5d4390141182",
+      "title": "'Nhúng lưới' cầu may ở biển Sa Huỳnh",
+      "link": "https://thanhnien.vn/nhung-luoi-cau-may-o-bien-sa-huynh-185260604203235576.htm",
+      "summary": "Suốt mấy trăm năm, ngư dân cửa biển Sa Huỳnh (P.Sa Huỳnh, Quảng Ngãi) luôn duy trì tục lệ nhúng lưới nước vào mùng 3 Tết Nguyên đán. Gắn liền với phong tục này là việc thờ cúng bà Thiên Y A Na mà ngư dân trong vùng rất sùng kính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T23:00:00+07:00",
+      "fetched": "2026-06-05T06:00:56.057112+07:00"
+    },
+    {
+      "id": "b658d8466bf8106b48bf463385efd263",
+      "title": "Dòng điện đi qua ba thế hệ thắp sáng",
+      "link": "https://thanhnien.vn/dong-dien-di-qua-ba-the-he-thap-sang-185260602194344664.htm",
+      "summary": "Trong suốt gần nửa thế kỷ, ba thế hệ nhà tôi đã cùng gắn cuộc đời mình với ngành điện. Từ người ông đi kéo những đường dây đầu tiên, đến người cha trưởng thành cùng nhịp đô thị hóa của thành phố, và hôm nay là em trai tôi bước vào kỷ nguyên chuyển đổi số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T23:00:00+07:00",
+      "fetched": "2026-06-05T06:00:56.057240+07:00"
+    },
+    {
+      "id": "0577c3d75b42095b96c36aa797488b4d",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 5.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-562026-185260604224619199.htm",
+      "summary": "Tin tức Vì sao nhập khẩu nông sản Campuchia tăng vọt?; Trung Quốc siết tiêu chuẩn nhập khẩu: Áp lực hay cơ hội?; Sắp \"cạn giờ\" trước Iran, Tổng thống Trump đối mặt thế khó... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 5.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T22:58:00+07:00",
+      "fetched": "2026-06-05T06:00:56.057392+07:00"
+    },
+    {
+      "id": "f8ed62f4f4c2a8ac4ff249f318a62f92",
+      "title": "Trung Quốc siết tiêu chuẩn nhập khẩu: Áp lực hay cơ hội?",
+      "link": "https://thanhnien.vn/trung-quoc-siet-tieu-chuan-nhap-khau-ap-luc-hay-co-hoi-185260604222752326.htm",
+      "summary": "Thị trường Trung Quốc đang vươn lên là nơi tiêu thụ nông sản thực phẩm lớn nhất của VN nhưng tiêu chuẩn ngày càng siết chặt lại. Tuy nhiên, theo các chuyên gia và cả doanh nghiệp, đây là cơ hội để hàng Việt chuẩn hóa quy trình nuôi trồng, sản xuất và thị trường vẫn rất rộng mở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T22:58:00+07:00",
+      "fetched": "2026-06-05T06:00:56.057526+07:00"
+    },
+    {
+      "id": "1fd71bdf7d5a1588ffb28b5444edacf6",
+      "title": "Việt Nam bứt phá bằng KH-CN: Cần xây móng cho công nghệ lõi",
+      "link": "https://thanhnien.vn/viet-nam-but-pha-bang-kh-cn-can-xay-mong-cho-cong-nghe-loi-185260604231254472.htm",
+      "summary": "Theo các nhà khoa học, để hiện thực hóa khát vọng bứt phá bằng KH-CN, điều căn cốt mà nền khoa học VN cần phải làm được là xây dựng một nền móng vững chắc: khoa học cơ bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T22:54:00+07:00",
+      "fetched": "2026-06-05T06:00:56.057649+07:00"
+    },
+    {
+      "id": "c317f0e758e0545a1e2b4f5989e31840",
+      "title": "Bất động sản cần những cú hích",
+      "link": "https://thanhnien.vn/bat-dong-san-can-nhung-cu-hich-185260604230346286.htm",
+      "summary": "Chỉ trong khoảng nửa tháng từ sau chỉ đạo của Tổng Bí thư, Chủ tịch nước Tô Lâm, các dự án nhà cho thuê đầu tiên sẽ được khởi công trong tháng 6 này. Một tốc độ kỷ lục và một cú hích mạnh mẽ vào thị trường nhà ở luôn chứa đầy nghịch lý thừa - thiếu lâu nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T22:54:00+07:00",
+      "fetched": "2026-06-05T06:00:56.057770+07:00"
+    },
+    {
+      "id": "7d682d7dd214be3daa9a0bd7c300d18e",
+      "title": "Để trẻ có mùa hè ý nghĩa, an toàn",
+      "link": "https://thanhnien.vn/de-tre-co-mua-he-y-nghia-an-toan-185260604210757174.htm",
+      "summary": "'Khối nghỉ hè' đang 'tiến' về các miền quê với ông bà, hoặc là chiếc 'rơ moóc' theo cha mẹ đến nơi làm việc. Làm sao để trẻ có mùa hè an toàn, bổ ích và phù hợp với điều kiện công việc của cha mẹ là điều nhiều phụ huynh quan tâm hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T22:45:00+07:00",
+      "fetched": "2026-06-05T06:00:56.057890+07:00"
+    },
+    {
+      "id": "0aa44d6d8cd4b41822e621f30843696b",
+      "title": "NASA từ bỏ tàu MAVEN trong sứ mệnh thăm dò sao Hỏa",
+      "link": "https://thanhnien.vn/nasa-tu-bo-tau-maven-trong-su-menh-tham-do-sao-hoa-185260604203539594.htm",
+      "summary": "Reuters ngày 4.6 dẫn thông cáo của Cơ quan Hàng không và Vũ trụ Mỹ (NASA) thông báo chấm dứt sứ mệnh MAVEN sau nhiều tháng mất liên lạc với tàu vũ trụ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T22:25:00+07:00",
+      "fetched": "2026-06-05T06:00:56.058006+07:00"
+    },
+    {
+      "id": "d3b2f10f768e4b4770b1119c3d0bac54",
+      "title": "Chủ tịch Real công bố Mourinho",
+      "link": "https://vnexpress.net/chu-tich-real-cong-bo-mourinho-5082155.html",
+      "summary": "Chủ tịch Florentino Perez lần đầu xác nhận Jose Mourinho trở lại dẫn dắt Real Madrid, đồng thời tiết lộ sẽ gửi đề nghị trị giá 150 triệu euro cho một thương vụ khác.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-04T22:24:25+07:00",
+      "fetched": "2026-06-05T06:01:06.270900+07:00"
+    },
+    {
+      "id": "76403f3a118010cb3a6ece618be202c3",
+      "title": "Mua 2 tờ vé số ủng hộ người bán dạo, trúng độc đắc xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-2-to-ve-so-ung-ho-nguoi-ban-dao-trung-doc-dac-xo-so-mien-nam-185260604150101905.htm",
+      "summary": "Vợ chồng ở TP.HCM ghé chợ mua đồ ăn sau khi tan làm, thấy người bán dạo nên mua 2 tờ ủng hộ, bất ngờ trúng độc đắc xổ số miền Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T22:24:00+07:00",
+      "fetched": "2026-06-05T06:00:56.058120+07:00"
+    },
+    {
+      "id": "8a76204ee3569aadc06ef079bc6ae6bb",
+      "title": "Sắp 'cạn giờ' trước Iran, Tổng thống Trump đối mặt thế khó",
+      "link": "https://thanhnien.vn/sap-can-gio-truoc-iran-tong-thong-trump-doi-mat-the-kho-185260604203407492.htm",
+      "summary": "Bị Hạ viện thông qua nghị quyết ngăn chặn việc tấn công Iran, Tổng thống Mỹ Donald Trump càng đối mặt thêm nhiều khó khăn trong cuộc chiến này và có lẽ phải tìm giải pháp rút lui ít thiệt hại nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T22:19:00+07:00",
+      "fetched": "2026-06-05T06:00:56.058231+07:00"
+    },
+    {
+      "id": "cfd030185f12c1f1b2fd87230773b2f5",
+      "title": "Liverpool bổ nhiệm HLV Iraola",
+      "link": "https://vnexpress.net/liverpool-bo-nhiem-hlv-iraola-5082154.html",
+      "summary": "Liverpool bổ nhiệm Andoni Iraola theo hợp đồng đến tháng 6/2028, đặt niềm tin vào HLV người Tây Ban Nha sau ba mùa giải gây ấn tượng cùng Bournemouth.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-04T22:17:22+07:00",
+      "fetched": "2026-06-05T06:01:06.271052+07:00"
+    },
+    {
+      "id": "e1005e810f4d70cc358d071d0c564fbf",
+      "title": "Thời tiết nóng gặp thuốc huyết áp: Nguy cơ tụt huyết áp người lớn tuổi",
+      "link": "https://thanhnien.vn/thoi-tiet-nong-gap-thuoc-huyet-ap-nguy-co-tut-huyet-ap-nguoi-lon-tuoi-185260604205744115.htm",
+      "summary": "Trời nóng không chỉ làm huyết áp tăng mà còn có thể gây tụt huyết áp do tác động cộng dồn giữa nắng nóng, mất nước và thuốc điều trị. Đây là nguy cơ đặc biệt cần lưu ý ở người lớn tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T22:07:00+07:00",
+      "fetched": "2026-06-05T06:00:56.058359+07:00"
+    },
+    {
+      "id": "9f90d4725c583a144e72d9328b8db5a5",
+      "title": "Xe ô tô nào không phải lắp ghế trẻ em từ 1.7?",
+      "link": "https://thanhnien.vn/xe-o-to-nao-khong-phai-lap-ghe-tre-em-tu-17-185260604164141059.htm",
+      "summary": "Từ ngày 1.7, khi chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 m, xe ô tô gia đình, xe cá nhân phải lắp ghế trẻ em, riêng xe ô tô kinh doanh vận tải hành khách không phải áp dụng quy định này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T22:02:00+07:00",
+      "fetched": "2026-06-05T06:00:56.058482+07:00"
+    },
+    {
+      "id": "04eecb383d9fe181f4fb01d226ad0edc",
+      "title": "Những lệnh ngừng bắn 'có cũng như không' ở Trung Đông",
+      "link": "https://vnexpress.net/nhung-lenh-ngung-ban-co-cung-nhu-khong-o-trung-dong-5081759.html",
+      "summary": "Các lệnh ngừng bắn tại Gaza, Lebanon và vùng Vịnh được cho là không hiệu quả, khi xung đột vẫn tiếp diễn, đe dọa nỗ lực đàm phán hòa bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T22:00:00+07:00",
+      "fetched": "2026-06-05T06:00:53.052308+07:00"
+    },
+    {
+      "id": "1ebc4cc806e6bee4d8b71a5743bebbf2",
+      "title": "7 món ăn sáng nhanh gọn cho người bận rộn",
+      "link": "https://vnexpress.net/7-mon-an-sang-nhanh-gon-cho-nguoi-ban-ron-5081267.html",
+      "summary": "Bạn có thể ăn sáng với trứng luộc, bánh mì nguyên cám, yến mạch, sữa chua...vừa đảm bảo đủ dinh dưỡng, vừa tiết kiệm thời gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T22:00:00+07:00",
+      "fetched": "2026-06-05T06:00:53.052474+07:00"
+    },
+    {
+      "id": "cfd1410f7144c738d745a7d6f1040a20",
+      "title": "Bán tải của Toyota dựa trên Corolla Cross bắt đầu chạy thử nghiệm",
+      "link": "https://vnexpress.net/ban-tai-cua-toyota-dua-tren-corolla-cross-bat-dau-chay-thu-nghiem-5081747.html",
+      "summary": "Mẫu bán tải dựa trên chiếc crossover xuất hiện trên một đường cao tốc ở Brazil với lớp ngụy trang kín mít, dự kiến ra mắt trong 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T22:00:00+07:00",
+      "fetched": "2026-06-05T06:00:53.052622+07:00"
+    },
+    {
+      "id": "bb0031933e86a4b1d7f92b9b6c935967",
+      "title": "Bàu Hàn bị 'bức tử'",
+      "link": "https://thanhnien.vn/bau-han-bi-buc-tu-185260604203254889.htm",
+      "summary": "Từng là dòng nước trong xanh gắn bó với ký ức bao thế hệ, Bàu Hàn (xã Tứ Mỹ, tỉnh Hà Tĩnh) nhiều năm nay đã biến thành một 'vùng nước chết'. Mặt nước bị bèo tây phủ kín bốc mùi hôi thối khiến cuộc sống của người dân bị đảo lộn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T22:00:00+07:00",
+      "fetched": "2026-06-05T06:00:56.058595+07:00"
+    },
+    {
+      "id": "04eecb383d9fe181f4fb01d226ad0edc",
+      "title": "Những lệnh ngừng bắn 'có cũng như không' ở Trung Đông",
+      "link": "https://vnexpress.net/nhung-lenh-ngung-ban-co-cung-nhu-khong-o-trung-dong-5081759.html",
+      "summary": "Các lệnh ngừng bắn tại Gaza, Lebanon và vùng Vịnh được cho là không hiệu quả, khi xung đột vẫn tiếp diễn, đe dọa nỗ lực đàm phán hòa bình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-04T22:00:00+07:00",
+      "fetched": "2026-06-05T06:00:59.006842+07:00"
+    },
+    {
+      "id": "ebc871c0d12b44b5505ff5ca96e90e37",
+      "title": "Blue Origin muốn phóng lại tên lửa trước cuối năm nay",
+      "link": "https://vnexpress.net/blue-origin-muon-phong-lai-ten-lua-truoc-cuoi-nam-nay-5081906.html",
+      "summary": "Sau sự cố nổ tên lửa, Blue Origin muốn hoàn tất việc sửa chữa và đưa một tên lửa New Glenn khác lên bệ phóng trong những tháng tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-04T21:57:01+07:00",
+      "fetched": "2026-06-05T06:00:53.052759+07:00"
+    },
+    {
+      "id": "ebc871c0d12b44b5505ff5ca96e90e37",
+      "title": "Blue Origin muốn phóng lại tên lửa trước cuối năm nay",
+      "link": "https://vnexpress.net/blue-origin-muon-phong-lai-ten-lua-truoc-cuoi-nam-nay-5081906.html",
+      "summary": "Sau sự cố nổ tên lửa, Blue Origin muốn hoàn tất việc sửa chữa và đưa một tên lửa New Glenn khác lên bệ phóng trong những tháng tới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-04T21:57:01+07:00",
+      "fetched": "2026-06-05T06:01:04.450698+07:00"
     },
     {
       "id": "ee820ff26fba5fbd9b46ee1dfbbc5ed2",
