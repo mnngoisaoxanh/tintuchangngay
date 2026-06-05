@@ -1,7 +1,17 @@
 window.newsData_2026_06_06 = {
   "date": "2026-06-06",
-  "lastUpdated": "2026-06-06T02:41:29.333175+07:00",
+  "lastUpdated": "2026-06-06T04:17:07.889055+07:00",
   "articles": [
+    {
+      "id": "f70eeae054bdebf9cdd618f3afe18807",
+      "title": "Thời tiết hôm nay 6-6: Nhiều khu vực nắng gay gắt, chiều tối mưa dông",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-6-6-nhieu-khu-vuc-nang-gay-gat-chieu-toi-mua-dong-20260605161527677.htm",
+      "summary": "Hôm nay 6-6, thời tiết cả nước ban ngày nắng, có lúc nhiều mây, chiều tối vài nơi mưa rào đến mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T04:16:59.192136+07:00",
+      "fetched": "2026-06-06T04:16:59.192375+07:00"
+    },
     {
       "id": "f2f43988cdca294919332bb271c759de",
       "title": "Cầu thủ U19 Indonesia bị cấm dùng mạng xã hội",
@@ -151,6 +161,56 @@ window.newsData_2026_06_06 = {
       "category": "Tổng hợp",
       "published": "2026-06-06T00:47:03.600271+07:00",
       "fetched": "2026-06-06T00:47:03.600438+07:00"
+    },
+    {
+      "id": "ad2936e35682fc58aa80e6573e5a4c88",
+      "title": "Người làm nội dung trên các nền tảng theo lĩnh vực chuyên môn hẹp sẽ dễ thành công hơn",
+      "link": "https://thanhnien.vn/nhung-nguoi-lam-noi-dung-tren-cac-nen-tang-theo-linh-vuc-chuyen-mon-hep-se-de-thanh-cong-hon-185260605224305591.htm",
+      "summary": "AI đang tạo ra hàng triệu nội dung mỗi ngày khiến người dùng internet bị bủa vây trong ma trận tin giả. Khi đó, nội dung gốc và niềm tin trở thành món hàng đắt giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T21:05:00+07:00",
+      "fetched": "2026-06-06T04:16:58.231946+07:00"
+    },
+    {
+      "id": "a098fcca8b8a3611789a0cf23b9aaddc",
+      "title": "Zverev đấu Cobolli ở chung kết Roland Garros",
+      "link": "https://vnexpress.net/zverev-dau-cobolli-o-chung-ket-roland-garros-5082569.html",
+      "summary": "Hạt giống số hai Alexander Zverev đứng trước cơ hội giành Grand Slam đầu tiên, khi hạ Jakub Mensik 7-5, 6-2, 3-6, 6-3 ở bán kết Roland Garros hôm 5/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T20:18:23+07:00",
+      "fetched": "2026-06-06T04:16:54.586379+07:00"
+    },
+    {
+      "id": "a098fcca8b8a3611789a0cf23b9aaddc",
+      "title": "Zverev đấu Cobolli ở chung kết Roland Garros",
+      "link": "https://vnexpress.net/zverev-dau-cobolli-o-chung-ket-roland-garros-5082569.html",
+      "summary": "Hạt giống số hai Alexander Zverev đứng trước cơ hội giành Grand Slam đầu tiên, khi hạ Jakub Mensik 7-5, 6-2, 3-6, 6-3 ở bán kết Roland Garros hôm 5/6.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-05T20:18:23+07:00",
+      "fetched": "2026-06-06T04:17:07.884383+07:00"
+    },
+    {
+      "id": "644d18eb14b8d43b9c47f8e6a61339fc",
+      "title": "Lý do thương hiệu phương Tây dễ 'hồi sinh' khi về tay Trung Quốc",
+      "link": "https://vnexpress.net/ly-do-thuong-hieu-phuong-tay-de-hoi-sinh-khi-ve-tay-trung-quoc-5082389.html",
+      "summary": "Nhờ làm chủ chuỗi cung ứng và khả năng tiếp thị số mạnh mẽ, doanh nghiệp Trung Quốc dễ hồi sinh các thương hiệu phương Tây sau thâu tóm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T19:33:34+07:00",
+      "fetched": "2026-06-06T04:16:54.586547+07:00"
+    },
+    {
+      "id": "644d18eb14b8d43b9c47f8e6a61339fc",
+      "title": "Lý do thương hiệu phương Tây dễ 'hồi sinh' khi về tay Trung Quốc",
+      "link": "https://vnexpress.net/ly-do-thuong-hieu-phuong-tay-de-hoi-sinh-khi-ve-tay-trung-quoc-5082389.html",
+      "summary": "Nhờ làm chủ chuỗi cung ứng và khả năng tiếp thị số mạnh mẽ, doanh nghiệp Trung Quốc dễ hồi sinh các thương hiệu phương Tây sau thâu tóm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-05T19:33:34+07:00",
+      "fetched": "2026-06-06T04:17:03.049967+07:00"
     },
     {
       "id": "f03390fb46373736994a2488d110f7fc",
