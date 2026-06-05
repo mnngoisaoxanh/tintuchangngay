@@ -1,6 +1,6 @@
 window.newsData_2026_06_06 = {
   "date": "2026-06-06",
-  "lastUpdated": "2026-06-06T04:17:07.889055+07:00",
+  "lastUpdated": "2026-06-06T05:58:37.948826+07:00",
   "articles": [
     {
       "id": "f70eeae054bdebf9cdd618f3afe18807",
@@ -163,6 +163,206 @@ window.newsData_2026_06_06 = {
       "fetched": "2026-06-06T00:47:03.600438+07:00"
     },
     {
+      "id": "42cf45e7cfdc8aa48731bea433ad32d7",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 6.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-662026-185260605230919609.htm",
+      "summary": "Tin tức Những công trình định hình tầm vóc TP.HCM trong kỷ nguyên mới; Thời tiết mưa nắng thất thường, vì sao?; Bóc trần đường dây đẻ thuê xuyên biên giới: Bên trong \"lò\" nuôi phụ nữ… có thể đón xem trên Báo Thanh Niên số ra ngày 6.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:58:00+07:00",
+      "fetched": "2026-06-06T05:58:26.239833+07:00"
+    },
+    {
+      "id": "57c3ab510cc8b617273ad369a73bcd92",
+      "title": "Bóc trần đường dây đẻ thuê xuyên biên giới: Bên trong 'lò' nuôi phụ nữ",
+      "link": "https://thanhnien.vn/boc-tran-duong-day-de-thue-xuyen-bien-gioi-ben-trong-lo-nuoi-phu-nu-185260605213038166.htm",
+      "summary": "Phía sau lời hứa 'bao nuôi' là cuộc sống bị kiểm soát gần như tuyệt đối và các thai phụ phải phó mặc cơ thể cho đường dây đẻ thuê. Từ bên trong, PV Thanh Niên dần bóc tách những mắt xích của nhóm này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:57:00+07:00",
+      "fetched": "2026-06-06T05:58:26.239985+07:00"
+    },
+    {
+      "id": "71aea59c07ebb228c0180779c20330cf",
+      "title": "Cấm quay clip bạo lực: Mối trăn trở kép",
+      "link": "https://thanhnien.vn/cam-quay-clip-bao-luc-moi-tran-tro-kep-185260605210019319.htm",
+      "summary": "Thoạt nghe, chỉ đạo mới của Bộ GD-ĐT yêu cầu \"không quay phim, chụp ảnh, phát tán clip bạo lực lên mạng xã hội\" tưởng như đơn giản, nhưng lại mở ra một mối trăn trở kép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:50:00+07:00",
+      "fetched": "2026-06-06T05:58:26.240116+07:00"
+    },
+    {
+      "id": "e1d1d530eaec2e66180c628bd500772c",
+      "title": "VN bứt phá bằng KH-CN: Tăng tốc đào tạo các ngành công nghệ mới",
+      "link": "https://thanhnien.vn/vn-but-pha-bang-kh-cn-tang-toc-dao-tao-cac-nganh-cong-nghe-moi-185260605171743626.htm",
+      "summary": "Bên cạnh khoa học cơ bản, để VN bứt phá, vượt qua bẫy thu nhập trung bình và bước vào kỷ nguyên vươn mình của dân tộc thì phải tập trung chiến lược phát triển các ngành công nghệ mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:45:00+07:00",
+      "fetched": "2026-06-06T05:58:26.240242+07:00"
+    },
+    {
+      "id": "6072499e4fd2d1048b6f56d90bbab09c",
+      "title": "Anthropic kêu gọi ngừng phát triển AI trên toàn cầu",
+      "link": "https://thanhnien.vn/anthropic-keu-goi-ngung-phat-trien-ai-tren-toan-cau-185260605150630881.htm",
+      "summary": "AFP hôm qua đưa tin hãng công nghệ Anthropic (trụ sở TP.San Francisco, California, Mỹ) đề nghị ngừng xây dựng các hệ thống trí tuệ nhân tạo (AI) mạnh mẽ trên phạm vi toàn cầu. Lời kêu gọi này được đưa ra trong bối cảnh các mô hình mới nhất đang bắt đầu xuất hiện những dấu hiệu cho thấy chúng có thể ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:45:00+07:00",
+      "fetched": "2026-06-06T05:58:26.240366+07:00"
+    },
+    {
+      "id": "35caedb546df768f7b47caa4382b4d7a",
+      "title": "Hào quang kỳ ảo bao quanh tượng Phật núi Bà Đen, hiện tượng gì?",
+      "link": "https://thanhnien.vn/hao-quang-ky-ao-bao-quanh-tuong-phat-nui-ba-den-hien-tuong-gi-185260605134132124.htm",
+      "summary": "Mới đây, hình ảnh một vầng hào quang kỳ ảo, nhiều màu sắc như cầu vồng bao quanh lấy tượng Phật trên đỉnh núi Bà Đen khiến nhiều người tò mò, thích thú chia sẻ. Khoa học lý giải thế nào về hiện tượng này?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:45:00+07:00",
+      "fetched": "2026-06-06T05:58:26.240487+07:00"
+    },
+    {
+      "id": "55396a88b29f14bf59f7eacf2faf5c1c",
+      "title": "Tiêu điểm quốc tế ngày 6.6: Ông Putin hé lộ 'bí mật quân sự' | Nguy cơ Ebola từ chôn cất",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-66-ong-putin-he-lo-bi-mat-quan-su-nguy-co-ebola-tu-chon-cat-185260606000657186.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 6.6.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:30:00+07:00",
+      "fetched": "2026-06-06T05:58:26.240636+07:00"
+    },
+    {
+      "id": "2b5efef7693e1cdbba8da4c737e70f76",
+      "title": "Đồng Nai: Trung tâm phục vụ hành chính công sẽ có wifi, máy photocopy miễn phí",
+      "link": "https://thanhnien.vn/dong-nai-trung-tam-phuc-vu-hanh-chinh-cong-se-co-wifi-may-photocopy-mien-phi-185260605184954401.htm",
+      "summary": "Lắp mạng wifi, đặt máy photocopy phục vụ người dân miễn phí... là một trong những tiêu chí xây dựng \"Chính quyền thân thiện\" mà thành phố Đồng Nai đang hướng tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:30:00+07:00",
+      "fetched": "2026-06-06T05:58:26.240759+07:00"
+    },
+    {
+      "id": "86ddec2ca7d7eea2f82d22576cd0341c",
+      "title": "Trúng số độc đắc 4 tỉ xổ số miền Nam, khách bất ngờ trúng thêm giải nữa",
+      "link": "https://thanhnien.vn/trung-so-doc-dac-4-ti-xo-so-mien-nam-khach-bat-ngo-trung-them-giai-nua-185260604121752459.htm",
+      "summary": "Một người đàn ông ở miền Tây trúng số độc đắc 4 tỉ đồng xổ số miền Nam, bất ngờ trúng thêm một giải khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:30:00+07:00",
+      "fetched": "2026-06-06T05:58:26.240875+07:00"
+    },
+    {
+      "id": "53b487ef1064464c2976ee7f1fd8659c",
+      "title": "Ông Zelensky đề nghị gặp ông Putin để đàm phán",
+      "link": "https://thanhnien.vn/ong-zelensky-de-nghi-gap-ong-putin-de-dam-phan-185260605203822182.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky ngày 4.6 công bố một bức thư gửi Tổng thống Nga Vladimir Putin, trong đó ông đề nghị hai nhà lãnh đạo gặp nhau để đạt thỏa thuận chấm dứt cuộc xung đột kéo dài hơn 4 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:29:00+07:00",
+      "fetched": "2026-06-06T05:58:26.240990+07:00"
+    },
+    {
+      "id": "c3b61ccb6877933b011776a710a99a9b",
+      "title": "Bác sĩ chỉ ra thời khóa biểu sống khỏe cho người cao tuổi",
+      "link": "https://thanhnien.vn/bac-si-chi-ra-thoi-khoa-bieu-song-khoe-cho-nguoi-cao-tuoi-185260605212715128.htm",
+      "summary": "Khi bước vào tuổi xế chiều, nhiều người lựa chọn duy trì công việc hoặc các hoạt động ý nghĩa sau khi nghỉ hưu như một cách bền vững để chăm sóc sức khỏe thể chất và tinh thần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:24:00+07:00",
+      "fetched": "2026-06-06T05:58:26.241103+07:00"
+    },
+    {
+      "id": "2426b4fab776ec88c232ad1333161aeb",
+      "title": "Tử vi ngày 6 tháng 6: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-6-thang-6-con-giap-nao-may-man-hom-nay-185260606000615581.htm",
+      "summary": "Tử vi ngày 6 tháng 6 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm nổi bật là nghệ thuật chờ đợi, không phải điều gì cũng cần có kết quả ngay lập tức. Có những hạt giống đang âm thầm nảy mầm, chỉ là bạn chưa nhìn thấy. Tài lộc hôm nay thế nào phụ thuộc vào khả năng kiên nhẫn với quá trình tha...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:15:00+07:00",
+      "fetched": "2026-06-06T05:58:26.241223+07:00"
+    },
+    {
+      "id": "68fbc91ee2a1a31acdb55837ecaad897",
+      "title": "Metro Thủ Dầu Một - TP HCM có thể được làm sớm hơn 5 năm",
+      "link": "https://vnexpress.net/metro-thu-dau-mot-tp-hcm-co-the-duoc-lam-som-hon-5-nam-5082495.html",
+      "summary": "TP HCM đề xuất khởi công tuyến metro Thủ Dầu Một - trung tâm thành phố cuối năm nay, hoàn thành năm 2030, sớm hơn 5 năm so với kế hoạch ban đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:00:00+07:00",
+      "fetched": "2026-06-06T05:58:22.832580+07:00"
+    },
+    {
+      "id": "4b0f2869f14b0b04bb4719931511ace4",
+      "title": "Tính toán của Iran khi phóng tên lửa, UAV vào Kuwait",
+      "link": "https://vnexpress.net/tinh-toan-cua-iran-khi-phong-ten-lua-uav-vao-kuwait-5082176.html",
+      "summary": "Liên tiếp tập kích Kuwait, Tehran dường như muốn gửi thông điệp rằng mọi đòn đánh của Mỹ vào lãnh thổ Iran đều sẽ khiến vùng Vịnh phải hứng chịu hỗn loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:00:00+07:00",
+      "fetched": "2026-06-06T05:58:22.832748+07:00"
+    },
+    {
+      "id": "0ca7d4fc8a483b1560ecc9221f1e144d",
+      "title": "6 việc nên làm mỗi sáng hỗ trợ ổn định huyết áp",
+      "link": "https://vnexpress.net/6-viec-nen-lam-moi-sang-ho-tro-on-dinh-huyet-ap-5082027.html",
+      "summary": "Thức dậy đúng giờ, ăn sáng lành mạnh hay dành vài phút vận động là những thói quen đơn giản có thể hỗ trợ kiểm soát huyết áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:00:00+07:00",
+      "fetched": "2026-06-06T05:58:22.832893+07:00"
+    },
+    {
+      "id": "5d95313b6020f1920fc59fde54e483b8",
+      "title": "Biệt thự cổ miền Tây loay hoay 'tìm đường sống'",
+      "link": "https://vnexpress.net/biet-thu-co-mien-tay-loay-hoay-tim-duong-song-5081923.html",
+      "summary": "Trong hàng trăm dinh thự cổ, chỉ một số căn được trùng tu bài bản, kết hợp làm du lịch giúp người dân có thu nhập ổn định để bảo tồn hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:00:00+07:00",
+      "fetched": "2026-06-06T05:58:22.833028+07:00"
+    },
+    {
+      "id": "9b1105ae0780159fc6c6e2dd2fda562e",
+      "title": "Bị kiểm tra ma túy ngẫu nhiên, hàng loạt tài xế tại TP.HCM phản ứng ra sao?",
+      "link": "https://thanhnien.vn/bi-kiem-tra-ma-tuy-ngau-nhien-hang-loat-tai-xe-tai-tphcm-phan-ung-ra-sao-18526060517164961.htm",
+      "summary": "Ngày 5.6, hàng chục tài xế xe buýt và taxi tại TP.HCM bất ngờ được lực lượng Cảnh sát giao thông kiểm tra ma túy ngẫu nhiên. Hoạt động đột xuất này nằm trong chiến dịch cao điểm 45 ngày đêm tổng rà soát, làm sạch địa bàn. Dù bỡ ngỡ, các bác tài đều ủng hộ, mang lại kết quả bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:00:00+07:00",
+      "fetched": "2026-06-06T05:58:26.241343+07:00"
+    },
+    {
+      "id": "37e8afa017866fb807b165e5315be546",
+      "title": "Nghịch lý đầy rủi ro của chứng khoán thế giới",
+      "link": "https://thanhnien.vn/nghich-ly-day-rui-ro-cua-chung-khoan-the-gioi-185260605150443821.htm",
+      "summary": "Bất chấp tình hình chiến sự Iran và xung đột Ukraine không lối thoát, giá cả tăng cao, giá chứng khoán Mỹ và nhiều nước vẫn tăng cao trở thành nghịch lý đầy rủi ro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:00:00+07:00",
+      "fetched": "2026-06-06T05:58:26.241463+07:00"
+    },
+    {
+      "id": "0c0bfa17c90bcac433628d8d9680104c",
+      "title": "Lịch âm hôm nay là ngày Kim Dương, dương lịch 6.6 xuất hiện ngày đặc biệt",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-la-ngay-kim-duong-duong-lich-66-xuat-hien-ngay-dac-biet-185260605141751708.htm",
+      "summary": "Theo lịch dương, hôm nay là ngày Truyền thống người cao tuổi Việt Nam 6.6. Theo lịch âm hôm nay là ngày Kim Dương, có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:00:00+07:00",
+      "fetched": "2026-06-06T05:58:26.241596+07:00"
+    },
+    {
+      "id": "4b0f2869f14b0b04bb4719931511ace4",
+      "title": "Tính toán của Iran khi phóng tên lửa, UAV vào Kuwait",
+      "link": "https://vnexpress.net/tinh-toan-cua-iran-khi-phong-ten-lua-uav-vao-kuwait-5082176.html",
+      "summary": "Liên tiếp tập kích Kuwait, Tehran dường như muốn gửi thông điệp rằng mọi đòn đánh của Mỹ vào lãnh thổ Iran đều sẽ khiến vùng Vịnh phải hứng chịu hỗn loạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-05T22:00:00+07:00",
+      "fetched": "2026-06-06T05:58:29.522469+07:00"
+    },
+    {
       "id": "ad2936e35682fc58aa80e6573e5a4c88",
       "title": "Người làm nội dung trên các nền tảng theo lĩnh vực chuyên môn hẹp sẽ dễ thành công hơn",
       "link": "https://thanhnien.vn/nhung-nguoi-lam-noi-dung-tren-cac-nen-tang-theo-linh-vuc-chuyen-mon-hep-se-de-thanh-cong-hon-185260605224305591.htm",
@@ -171,6 +371,16 @@ window.newsData_2026_06_06 = {
       "category": "Tổng hợp",
       "published": "2026-06-05T21:05:00+07:00",
       "fetched": "2026-06-06T04:16:58.231946+07:00"
+    },
+    {
+      "id": "87c03c677eb8b0d3ac90ded49abaee74",
+      "title": "Vụ tai nạn và lời nhắc 'ra đường đừng cắm mặt vào điện thoại'",
+      "link": "https://vnexpress.net/vu-tai-nan-va-loi-nhac-ra-duong-dung-cam-mat-vao-dien-thoai-5082369.html",
+      "summary": "Đang bước trên hè và nói chuyện điện thoại thì người đàn ông nhận ra nguy hiểm khi hai ôtô đâm nhau lao tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T21:00:00+07:00",
+      "fetched": "2026-06-06T05:58:22.833163+07:00"
     },
     {
       "id": "a098fcca8b8a3611789a0cf23b9aaddc",
