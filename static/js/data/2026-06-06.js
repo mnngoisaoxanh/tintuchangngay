@@ -1,6 +1,6 @@
 window.newsData_2026_06_06 = {
   "date": "2026-06-06",
-  "lastUpdated": "2026-06-06T00:47:09.203210+07:00",
+  "lastUpdated": "2026-06-06T02:41:29.333175+07:00",
   "articles": [
     {
       "id": "f2f43988cdca294919332bb271c759de",
@@ -151,6 +151,36 @@ window.newsData_2026_06_06 = {
       "category": "Tổng hợp",
       "published": "2026-06-06T00:47:03.600271+07:00",
       "fetched": "2026-06-06T00:47:03.600438+07:00"
+    },
+    {
+      "id": "f03390fb46373736994a2488d110f7fc",
+      "title": "4 nhóm thực phẩm 'vàng' giúp ngừa ung thư đại trực tràng",
+      "link": "https://vnexpress.net/4-nhom-thuc-pham-vang-giup-ngua-ung-thu-dai-truc-trang-5082017.html",
+      "summary": "Bổ sung chất xơ, chất chống oxy hóa, gia vị tự nhiên, canxi và vitamin D giúp cải thiện lối sống, phòng ngừa ung thư đại trực tràng hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T18:00:00+07:00",
+      "fetched": "2026-06-06T02:41:16.603530+07:00"
+    },
+    {
+      "id": "9dd024da4352c9dd8047351fefb1ba1a",
+      "title": "'Tàu ngầm không tháp chỉ huy' của Trung Quốc lộ diện",
+      "link": "https://vnexpress.net/tau-ngam-khong-thap-chi-huy-cua-trung-quoc-lo-dien-5081961.html",
+      "summary": "Ảnh vệ tinh cho thấy một tàu ngầm dường như không có tháp chỉ huy đang neo đậu tại xưởng đóng tàu ở Thượng Hải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T18:00:00+07:00",
+      "fetched": "2026-06-06T02:41:16.603693+07:00"
+    },
+    {
+      "id": "9dd024da4352c9dd8047351fefb1ba1a",
+      "title": "'Tàu ngầm không tháp chỉ huy' của Trung Quốc lộ diện",
+      "link": "https://vnexpress.net/tau-ngam-khong-thap-chi-huy-cua-trung-quoc-lo-dien-5081961.html",
+      "summary": "Ảnh vệ tinh cho thấy một tàu ngầm dường như không có tháp chỉ huy đang neo đậu tại xưởng đóng tàu ở Thượng Hải.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-05T18:00:00+07:00",
+      "fetched": "2026-06-06T02:41:22.568041+07:00"
     },
     {
       "id": "2b575a848ce2bea6b3ba38744ddcb6ec",
