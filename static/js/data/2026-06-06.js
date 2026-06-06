@@ -1,7 +1,157 @@
 window.newsData_2026_06_06 = {
   "date": "2026-06-06",
-  "lastUpdated": "2026-06-06T16:54:14.324361+07:00",
+  "lastUpdated": "2026-06-06T18:16:41.761177+07:00",
   "articles": [
+    {
+      "id": "7706140be9717aad72b5eb62595432ee",
+      "title": "Nhật Bản thu gom dầu ăn thải để sản xuất nhiên liệu máy bay",
+      "link": "https://tuoitre.vn/nhat-ban-thu-gom-dau-an-thai-de-san-xuat-nhien-lieu-may-bay-20260606153235392.htm",
+      "summary": "Nhật Bản đang đẩy mạnh chiến dịch thu gom dầu ăn đã qua sử dụng nhằm phục vụ sản xuất nhiên liệu hàng không bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.225419+07:00",
+      "fetched": "2026-06-06T18:16:34.225540+07:00"
+    },
+    {
+      "id": "79f3b7552e696b61ffcedcdb698c7ead",
+      "title": "TP.HCM vận hành ứng dụng Dashboard quản lý khám sức khỏe người dân theo thời gian thực",
+      "link": "https://tuoitre.vn/tp-hcm-van-hanh-ung-dung-dashboard-quan-ly-kham-suc-khoe-nguoi-dan-theo-thoi-gian-thuc-20260606155309541.htm",
+      "summary": "Sở Y tế TP.HCM đã chính thức đưa vào vận hành ứng dụng Dashboard quản lý khám sức khỏe người dân trên địa bàn TP.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.225294+07:00",
+      "fetched": "2026-06-06T18:16:34.225408+07:00"
+    },
+    {
+      "id": "8bc1f16f16f7cf1f7fdb10ddeb51f197",
+      "title": "Quảng Ngãi thu phí sử dụng tạm thời vỉa hè, lòng đường từ 1-7: Ai phải nộp, ai được miễn?",
+      "link": "https://tuoitre.vn/quang-ngai-thu-phi-su-dung-tam-thoi-via-he-long-duong-tu-1-7-ai-phai-nop-ai-duoc-mien-20260606154816947.htm",
+      "summary": "Từ ngày 1-7, Quảng Ngãi sẽ áp dụng thu phí sử dụng tạm thời lòng đường, vỉa hè đối với một số hoạt động như tập kết vật liệu xây dựng, thu gom rác thải và trông giữ xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.225160+07:00",
+      "fetched": "2026-06-06T18:16:34.225282+07:00"
+    },
+    {
+      "id": "63778953ba8bc31e54fb0c3ab1d5829e",
+      "title": "Uganda mở mặt trận chống tin giả giữa đợt bùng phát Ebola mới",
+      "link": "https://tuoitre.vn/uganda-mo-mat-tran-chong-tin-gia-giua-dot-bung-phat-ebola-moi-20260606150808568.htm",
+      "summary": "Uganda đẩy mạnh chống tin giả khi dịch Ebola bước sang tuần thứ ba, trong bối cảnh số ca mắc và tử vong tiếp tục gia tăng tại khu vực Trung Phi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.225016+07:00",
+      "fetched": "2026-06-06T18:16:34.225132+07:00"
+    },
+    {
+      "id": "464db739e6f32518e44dda79cd5127f8",
+      "title": "Hít bụi mịn lâu ngày, trí nhớ suy giảm như già thêm 10 tuổi",
+      "link": "https://tuoitre.vn/hit-bui-min-lau-ngay-tri-nho-suy-giam-nhu-gia-them-10-tuoi-20260606154650647.htm",
+      "summary": "Nghiên cứu mới tại Mỹ cho thấy tiếp xúc lâu dài với bụi mịn PM2.5 có thể làm suy giảm trí nhớ mạnh hơn những thay đổi nhận thức do 10 năm lão hóa tự nhiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.224863+07:00",
+      "fetched": "2026-06-06T18:16:34.225002+07:00"
+    },
+    {
+      "id": "34a05a4b0dff5719ed3161af048b3ed2",
+      "title": "Triệt phá nhóm làm phần mềm vượt sinh trắc học ngân hàng, chiếm đoạt tiền",
+      "link": "https://tuoitre.vn/triet-pha-nhom-lam-phan-mem-vuot-sinh-trac-hoc-ngan-hang-chiem-doat-tien-20260606162803377.htm",
+      "summary": "Một nhóm 5 người vừa bị khởi tố sau khi bị phát hiện sản xuất phần mềm độc hại có thể vượt hệ thống sinh trắc học của một số ngân hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.224737+07:00",
+      "fetched": "2026-06-06T18:16:34.224852+07:00"
+    },
+    {
+      "id": "ebfc5524ca99d22a835b0f45dbaf0a3b",
+      "title": "Thái Lan thua ngược khó tin ở siêu giải bóng chuyền",
+      "link": "https://tuoitre.vn/thai-lan-thua-nguoc-kho-tin-o-sieu-giai-bong-chuyen-20260606151201367.htm",
+      "summary": "Sau 2 trận thua mở màn mùa giải mới của FIVB Nations League (VNL), tuyển bóng chuyền nữ Thái Lan lại phải nhận trận thua thứ 3 với một kịch bản khó tin trước tuyển Bỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.224608+07:00",
+      "fetched": "2026-06-06T18:16:34.224726+07:00"
+    },
+    {
+      "id": "ecee7a8970df030418d192b57aef3ccc",
+      "title": "MV của Tóc Tiên: Rất điện ảnh hay lạm dụng cảnh nóng gây phân tâm?",
+      "link": "https://tuoitre.vn/mv-cua-toc-tien-rat-dien-anh-hay-lam-dung-canh-nong-gay-phan-tam-20260606163729642.htm",
+      "summary": "Tối 5-6, ca sĩ Tóc Tiên tung ra MV Người còn thương em không, đánh dấu màn tái xuất với dòng nhạc ballad sau thời gian dài gắn liền với EDM và dance-pop sôi động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.224481+07:00",
+      "fetched": "2026-06-06T18:16:34.224596+07:00"
+    },
+    {
+      "id": "6fc12fb618317495f052bc849b8ae81c",
+      "title": "Sân golf Cồn Ấu cần hơn 2 triệu m³ cát san lấp",
+      "link": "https://tuoitre.vn/san-golf-con-au-can-hon-2-trieu-m3-cat-san-lap-20260606155244831.htm",
+      "summary": "Dự án sân golf Cồn Ấu tại Cần Thơ có tổng mức đầu tư 1.139 tỉ đồng đang gặp khó do khan hiếm nguồn cát san lấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.224354+07:00",
+      "fetched": "2026-06-06T18:16:34.224469+07:00"
+    },
+    {
+      "id": "f77aa20b90970f72ae1193f468d32b2f",
+      "title": "Cần Thơ triệt phá 2 cơ sở sản xuất, kinh doanh hàng giả nhãn hiệu nổi tiếng",
+      "link": "https://tuoitre.vn/can-tho-triet-pha-2-co-so-san-xuat-kinh-doanh-hang-gia-nhan-hieu-noi-tieng-20260606163246767.htm",
+      "summary": "Công an TP Cần Thơ vừa kiểm tra, phát hiện 2 địa điểm sản xuất, kinh doanh hàng giả nhãn hiệu nổi tiếng như Hermes, Gucci, Burberry, LV, Dior, Versace… với quy mô và số lượng lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.224227+07:00",
+      "fetched": "2026-06-06T18:16:34.224342+07:00"
+    },
+    {
+      "id": "16f985619dd89dbea44c701468aa4a81",
+      "title": "Sẵn sàng khai màn vòng loại phía Nam Giải bóng đá công nhân, viên chức Việt Nam 2026",
+      "link": "https://tuoitre.vn/san-sang-khai-man-vong-loai-phia-nam-giai-bong-da-cong-nhan-vien-chuc-viet-nam-2026-20260606161510645.htm",
+      "summary": "Chiều 6-6, ban tổ chức, trọng tài Giải bóng đá công nhân, viên chức Việt Nam 2026 đã có cuộc họp kỹ thuật với các đội bóng phía Nam tại Trường đại học Tôn Đức Thắng (TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.224097+07:00",
+      "fetched": "2026-06-06T18:16:34.224215+07:00"
+    },
+    {
+      "id": "04400b4a93c756ac60d4818db22e7fdd",
+      "title": "22 tác phẩm được trao Giải Báo chí khu vực Nam Bộ lần I - 2026",
+      "link": "https://tuoitre.vn/22-tac-pham-duoc-trao-giai-bao-chi-khu-vuc-nam-bo-lan-i-2026-20260606170948101.htm",
+      "summary": "Chiều 6-6, tại phường Long An, Tây Ninh, Hội Nhà báo Việt Nam đã phối hợp UBND tỉnh, Hội Nhà báo tỉnh Tây Ninh tổ chức lễ trao Giải Báo chí khu vực Nam Bộ lần thứ I-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.223958+07:00",
+      "fetched": "2026-06-06T18:16:34.224084+07:00"
+    },
+    {
+      "id": "4943f8f64be4fb7f90b2352d8d62534a",
+      "title": "Chưa vào cao điểm mùa mưa, TP.HCM đã có 4 ca tử vong do sốt xuất huyết",
+      "link": "https://tuoitre.vn/chua-vao-cao-diem-mua-mua-tp-hcm-da-co-4-ca-tu-vong-do-sot-xuat-huyet-20260606162557812.htm",
+      "summary": "Các chuyên gia cảnh báo năm 2026 nhiều khả năng bệnh sốt xuất huyết sẽ rơi vào chu kỳ dịch 4 năm, tương tự năm 2022 - bùng phát dịch sốt xuất huyết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.223800+07:00",
+      "fetched": "2026-06-06T18:16:34.223944+07:00"
+    },
+    {
+      "id": "5c9f43e605feb60957910a195cc896c5",
+      "title": "Lấp đầy các xuồng trái cây trưng bày và bán tại chỗ sau sự cố đêm khai mạc",
+      "link": "https://tuoitre.vn/lap-day-cac-xuong-trai-cay-trung-bay-va-ban-tai-cho-sau-su-co-dem-khai-mac-20260606165122418.htm",
+      "summary": "Chiều 6-6, ban tổ chức Lễ hội Trái cây Đồng Tháp cho biết đã lấp đầy các xuồng trái cây trưng bày và bán tại chỗ cho người dân sau sự cố đêm khai mạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.223657+07:00",
+      "fetched": "2026-06-06T18:16:34.223787+07:00"
+    },
+    {
+      "id": "21341d8b0bebb065f40d5a3cc631d950",
+      "title": "Trung Quốc lần đầu gửi cặp gấu trúc đỏ cho Đài Loan sau 12 năm",
+      "link": "https://tuoitre.vn/trung-quoc-lan-dau-gui-cap-gau-truc-do-cho-dai-loan-sau-12-nam-20260606172458223.htm",
+      "summary": "Cặp gấu trúc đỏ quý hiếm từ Trung Quốc đã được chuyển đến vườn thú Đài Loan, đánh dấu lần trao đổi động vật đầu tiên sau 12 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:16:34.223389+07:00",
+      "fetched": "2026-06-06T18:16:34.223641+07:00"
+    },
     {
       "id": "8c3d241243d4a482fb1310e937c037d0",
       "title": "Kết nối thanh toán quốc tế, đón làn sóng khách ngoại",
@@ -301,6 +451,206 @@ window.newsData_2026_06_06 = {
       "category": "Tổng hợp",
       "published": "2026-06-06T13:46:37.522141+07:00",
       "fetched": "2026-06-06T13:46:37.522353+07:00"
+    },
+    {
+      "id": "be8a391b765c6fcc924518acb77fdd66",
+      "title": "U.19 Việt Nam giữ lợi thế lớn trước trận 'chung kết bảng' với Indonesia",
+      "link": "https://thanhnien.vn/u19-viet-nam-giu-loi-the-lon-truoc-tran-chung-ket-bang-voi-indonesia-185260606180416755.htm",
+      "summary": "U.19 Việt Nam nắm lợi thế trước trận 'chung kết bảng' với chủ nhà Indonesia, khi chỉ cần hòa là vào bán kết với ngôi nhất. Dù vậy, đoàn quân HLV Yutaka Ikeuchi cần có màn trình diễn thuyết phục trước chủ nhà để chứng tỏ bản lĩnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T11:09:00+07:00",
+      "fetched": "2026-06-06T18:16:33.104701+07:00"
+    },
+    {
+      "id": "a96cc6f01d6178b4552a9d0fac2ed3b8",
+      "title": "Hà Đức Chinh lập công, đội của cố vấn Park vẫn vấp ngã trước trận play-off: Trường Tươi Đồng Nai cũng thua",
+      "link": "https://thanhnien.vn/ha-duc-chinh-lap-cong-doi-cua-co-van-park-van-vap-nga-truoc-tran-play-off-truong-tuoi-dong-nai-cung-thua-18526060617410866.htm",
+      "summary": "Ở vòng cuối giải hạng nhất 2025-2026 diễn ra chiều 6.6, CLB Bắc Ninh bất ngờ nhận thất bại 1-3 trước Trẻ PVF-CAND ngay trước khi đá trận quan trọng với đội đứng thứ 13 V-League mùa này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T11:06:00+07:00",
+      "fetched": "2026-06-06T18:16:33.104873+07:00"
+    },
+    {
+      "id": "9099c25cd786398c1dad3c11383a1960",
+      "title": "Tiền Phong Nam khởi động 'Hành trình Tiên Phong - Ươm Mầm Xanh'",
+      "link": "https://thanhnien.vn/tien-phong-nam-khoi-dong-hanh-trinh-tien-phong-uom-mam-xanh-185260606170919118.htm",
+      "summary": "'Hành trình Tiên Phong - Ươm Mầm Xanh' là chương trình đồng hành cùng sinh viên trên hành trình chinh phục tri thức, lan tỏa những câu chuyện đẹp về nghị lực sống, tinh thần vượt khó và khát vọng vươn lên của thế hệ trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T11:00:00+07:00",
+      "fetched": "2026-06-06T18:16:33.105077+07:00"
+    },
+    {
+      "id": "d251660d8e7fc37a86652649a6254f45",
+      "title": "Rộ thông tin đội tuyển Trung Quốc từ chối đá FIFA ASEAN Cup, lý do bất ngờ",
+      "link": "https://thanhnien.vn/ro-thong-tin-doi-tuyen-trung-quoc-tu-choi-da-fifa-asean-cup-co-viet-nam-ly-do-bat-ngo-185260606174716689.htm",
+      "summary": "Dù FIFA ASEAN Cup 2026 được quảng bá với tổng giá trị giải thưởng lên tới 4 triệu USD, trong đó đội vô địch nhận 1 triệu USD, truyền thông Trung Quốc đồng loạt đưa tin đội tuyển nước này nhiều khả năng sẽ không tham dự giải đấu mới của FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:48:00+07:00",
+      "fetched": "2026-06-06T18:16:33.105243+07:00"
+    },
+    {
+      "id": "016e906b4102a873ba6676f718cf5357",
+      "title": "VNG đặt mục tiêu lợi nhuận năm nay đến 450 tỉ đồng",
+      "link": "https://thanhnien.vn/vng-dat-muc-tieu-loi-nhuan-nam-nay-den-450-ti-dong-185260606173713834.htm",
+      "summary": "Cổ đông Tập đoàn VNG đã thông qua kế hoạch kinh doanh năm 2026 với lợi nhuận tăng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:46:00+07:00",
+      "fetched": "2026-06-06T18:16:33.105404+07:00"
+    },
+    {
+      "id": "d8d249a868636b343bfe41f89cef76fc",
+      "title": "Giải bóng đá không chỉ mang lại những khoảnh khắc hồi hộp trên sân cỏ",
+      "link": "https://thanhnien.vn/giai-bong-da-khong-chi-mang-lai-nhung-khoanh-khac-hoi-hop-tren-san-co-1852606061638176.htm",
+      "summary": "Cầu thủ trẻ Giải bóng đá nam Thanh niên công nhân năm 2026 cho rằng giải đấu không chỉ mang lại những khoảnh khắc hồi hộp trên sân cỏ, mà còn là dịp để thanh niên công nhân có cơ hội giao lưu, học hỏi và trưởng thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:42:00+07:00",
+      "fetched": "2026-06-06T18:16:33.105569+07:00"
+    },
+    {
+      "id": "8beac3430c31c6f8bfc1ba78a82413c8",
+      "title": "Quán cơm gia đình trong khu tập thể cũ 4 năm liền được Michelin vinh danh",
+      "link": "https://thanhnien.vn/quan-com-gia-dinh-trong-khu-tap-the-cu-4-nam-lien-duoc-michelin-vinh-danh-185260606143232337.htm",
+      "summary": "Ít ai ngờ quán cơm gia đình nằm lọt thỏm trong khu tập thể số 36 Láng Hạ (P.Láng, Hà Nội) lại là cái tên 4 năm liên tiếp (2023 - 2026) góp mặt trong danh sách Bib Gourmand của Michelin Guide. Thành tích này càng đáng chú ý khi quán mới chỉ có 7 năm hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:39:00+07:00",
+      "fetched": "2026-06-06T18:16:33.105722+07:00"
+    },
+    {
+      "id": "6d905f42dabca43700d1e2d5ffa8ca4c",
+      "title": "Cấp bách mở rộng cao tốc Bắc - Nam lên 6 làn xe",
+      "link": "https://thanhnien.vn/cap-bach-mo-rong-cao-toc-bac-nam-len-6-lan-xe-18526060617120618.htm",
+      "summary": "Bộ Xây dựng vừa gửi văn bản đến 11 tỉnh, thành lấy ý kiến báo cáo nghiên cứu tiền khả thi dự án đầu tư mở rộng các đoạn tuyến cao tốc Bắc - Nam phía đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:35:00+07:00",
+      "fetched": "2026-06-06T18:16:33.105873+07:00"
+    },
+    {
+      "id": "b79063bbf3ed9685c73e13d2954f655e",
+      "title": "One UI 9 sắp cập bến hàng loạt điện thoại Galaxy",
+      "link": "https://thanhnien.vn/one-ui-9-sap-cap-ben-hang-loat-dien-thoai-galaxy-185260606153218576.htm",
+      "summary": "Không để người dùng chờ lâu, Samsung hé lộ thời điểm tung bản cập nhật ổn định One UI 9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:29:00+07:00",
+      "fetched": "2026-06-06T18:16:33.106056+07:00"
+    },
+    {
+      "id": "6bc3990e4e1f321baea3cae11ec6785a",
+      "title": "Hàng ngàn người dân Đà Nẵng được khám sức khỏe miễn phí trong 3 ngày",
+      "link": "https://thanhnien.vn/hang-ngan-nguoi-dan-da-nang-duoc-kham-suc-khoe-mien-phi-trong-3-ngay-185260606162957634.htm",
+      "summary": "Hàng ngàn người dân thành phố Đà Nẵng được khám sức khỏe định kỳ, khám sàng lọc miễn phí ngay tại địa phương, nhằm góp phần phát hiện sớm bệnh tật, nâng cao hiệu quả chăm sóc sức khỏe ban đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:26:00+07:00",
+      "fetched": "2026-06-06T18:16:33.106207+07:00"
+    },
+    {
+      "id": "706a575a022b713d161bc607e2ce6186",
+      "title": "Công an TP.HCM triệt phá xưởng sản xuất hơn 23.000 đôi dép 'hàng hiệu' giả",
+      "link": "https://thanhnien.vn/cong-an-tphcm-triet-pha-xuong-san-xuat-hon-23000-doi-dep-hang-hieu-gia-18526060617072237.htm",
+      "summary": "Công an TP.HCM vừa triệt phá xưởng sản xuất dép giả, thu giữ hơn 23.000 sản phẩm nhái các thương hiệu nổi tiếng, khởi tố, bắt tạm giam 5 bị can có cặp vợ chồng cầm đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:20:00+07:00",
+      "fetched": "2026-06-06T18:16:33.106354+07:00"
+    },
+    {
+      "id": "262798b8d41475f3151f37f880cbc335",
+      "title": "Vì sao Philippines gia tăng nhập khẩu gạo Việt Nam?",
+      "link": "https://thanhnien.vn/vi-sao-philippines-gia-tang-nhap-khau-gao-viet-nam-185260606170013212.htm",
+      "summary": "Trong 5 tháng đầu năm nay, Việt Nam đã xuất khẩu sang Philippines trên 2,1 triệu tấn gạo với giá trị ước đạt 1 tỉ USD. Quốc gia nhập khẩu gạo lớn nhất thế giới này dự báo sẽ bị ảnh hưởng nặng nề vì El Nino mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:20:00+07:00",
+      "fetched": "2026-06-06T18:16:33.106507+07:00"
+    },
+    {
+      "id": "56f2dcc39197f982e33c5205a4a6598b",
+      "title": "Đạt điểm toán tối đa thi đánh giá năng lực đợt 2, thí sinh nêu bí quyết",
+      "link": "https://thanhnien.vn/dat-diem-toan-toi-da-thi-danh-gia-nang-luc-dot-2-thi-sinh-neu-bi-quyet-185260606165604756.htm",
+      "summary": "Thí sinh đạt 300 điểm phần toán thi đánh giá năng lực đợt 2 ĐH Quốc gia TP.HCM- nội dung được nhiều bạn cho là khó nhằn - bật mí phương pháp ôn luyện tại nhà và cách làm bài hiệu quả khi vào phòng thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:18:00+07:00",
+      "fetched": "2026-06-06T18:16:33.106665+07:00"
+    },
+    {
+      "id": "997bdf3d9bfe727d82fe3bca26b78378",
+      "title": "Xổ số miền Nam ngày 6 tháng 6: Khách trúng số đài Hậu Giang nhận chuyển khoản",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-6-thang-6-khach-trung-so-dai-hau-giang-nhan-chuyen-khoan-18526060617000237.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 6 tháng 6, một đại lý vé số ở Vĩnh Long thông báo đã bán trúng cọc vé gồm 160 tờ trúng số đài Hậu Giang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:09:00+07:00",
+      "fetched": "2026-06-06T18:16:33.106815+07:00"
+    },
+    {
+      "id": "2f3936fd85299ed343101f9d8fa9dbbb",
+      "title": "Quy hoạch tỉnh Lâm Đồng chọn Đức Trọng là trung tâm hành chính, chính trị mới",
+      "link": "https://thanhnien.vn/quy-hoach-tinh-lam-dong-chon-duc-trong-la-trung-tam-hanh-chinh-chinh-tri-moi-185260606160320495.htm",
+      "summary": "Ngày 6.6, UBND tỉnh Lâm Đồng công bố bản quy hoạch tỉnh Lâm Đồng mới, tầm nhìn đến 2050, bao gồm 7 vùng kinh tế, xã hội, trong đó định vị Đức Trọng là trung tâm hành chính - chính trị mới của tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:09:00+07:00",
+      "fetched": "2026-06-06T18:16:33.106990+07:00"
+    },
+    {
+      "id": "7659d5d77f72f7532340ccd05b66bd89",
+      "title": "Lãnh đạo Lebanon kêu gọi Iran, Israel 'ngừng can thiệp'",
+      "link": "https://vnexpress.net/lanh-dao-lebanon-keu-goi-iran-israel-ngung-can-thiep-5082668.html",
+      "summary": "Giới lãnh đạo Lebanon kêu gọi Iran và Israel chấm dứt can thiệp chính trị hay quân sự, ngừng biến nước này thành quân bài mặc cả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:05:39+07:00",
+      "fetched": "2026-06-06T18:16:26.335590+07:00"
+    },
+    {
+      "id": "7659d5d77f72f7532340ccd05b66bd89",
+      "title": "Lãnh đạo Lebanon kêu gọi Iran, Israel 'ngừng can thiệp'",
+      "link": "https://vnexpress.net/lanh-dao-lebanon-keu-goi-iran-israel-ngung-can-thiep-5082668.html",
+      "summary": "Giới lãnh đạo Lebanon kêu gọi Iran và Israel chấm dứt can thiệp chính trị hay quân sự, ngừng biến nước này thành quân bài mặc cả.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-06T10:05:39+07:00",
+      "fetched": "2026-06-06T18:16:36.079374+07:00"
+    },
+    {
+      "id": "f63c953209e142d919739dcd118c060e",
+      "title": "Cưới không tìm hiểu, giờ tôi liên tục bị chồng chửi bới",
+      "link": "https://vnexpress.net/cuoi-khong-tim-hieu-gio-toi-lien-tuc-bi-chong-chui-boi-5082707.html",
+      "summary": "Quan điểm sống của chúng tôi khác nhau nên thường xuyên mâu thuẫn, rồi anh lấy lý do \"tôi không nghe lời\" để trách móc, chửi bới, đánh đập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:00:00+07:00",
+      "fetched": "2026-06-06T18:16:26.335768+07:00"
+    },
+    {
+      "id": "91db9bbdf591c13c50ce5a8140185a62",
+      "title": "Điểm tin 17h: Đề xuất thu phí theo chặng trên xa lộ Hà Nội | Người Hàn nổi giận với Starbucks",
+      "link": "https://vnexpress.net/diem-tin-17h-de-xuat-thu-phi-theo-chang-tren-xa-lo-ha-noi-nguoi-han-noi-gian-voi-starbucks-5082752.html",
+      "summary": "Hà Nội chốt 3 doanh nghiệp đầu tư Trục đại lộ cảnh quan sông Hồng; Xe nào buộc phải lắp ghế an toàn cho trẻ em từ 1/7?,...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T10:00:00+07:00",
+      "fetched": "2026-06-06T18:16:26.335984+07:00"
+    },
+    {
+      "id": "968fbcf69126a788f75e15cd267c599f",
+      "title": "Nhiều nhà thuốc TP HCM bị phạt",
+      "link": "https://vnexpress.net/nhieu-nha-thuoc-tp-hcm-bi-phat-5082750.html",
+      "summary": "Sở Y tế TP HCM phạt 12 cơ sở kinh doanh dược 183,5 triệu đồng, trong đó 8 nhà thuốc dược sĩ phụ trách chuyên môn vắng mặt nhưng không ủy quyền đúng quy định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T09:54:13+07:00",
+      "fetched": "2026-06-06T18:16:26.336159+07:00"
     },
     {
       "id": "e8b6c4e7a3403e1c209f14dad8d79e17",
