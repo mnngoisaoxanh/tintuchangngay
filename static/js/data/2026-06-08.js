@@ -1,6 +1,6 @@
 window.newsData_2026_06_08 = {
   "date": "2026-06-08",
-  "lastUpdated": "2026-06-08T02:06:14.961131+07:00",
+  "lastUpdated": "2026-06-08T04:00:32.322161+07:00",
   "articles": [
     {
       "id": "4886d22fcf94ff50b32387011da12387",
@@ -261,6 +261,36 @@ window.newsData_2026_06_08 = {
       "category": "Tổng hợp",
       "published": "2026-06-08T00:05:12.063908+07:00",
       "fetched": "2026-06-08T00:05:12.064121+07:00"
+    },
+    {
+      "id": "b7804eb62857d4629d5a2259d5b8abf2",
+      "title": "Zverev vô địch Roland Garros 2026",
+      "link": "https://vnexpress.net/zverev-vo-dich-roland-garros-2026-5083008.html",
+      "summary": "Tay vợt Alexander Zverev lần đầu vô địch Grand Slam, sau khi hạ Flavio Cobolli 6-1, 4-6, 6-4, 6-7(5), 6-1 trong trận chung kết Roland Garros tối 7/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T19:02:54+07:00",
+      "fetched": "2026-06-08T04:00:19.424300+07:00"
+    },
+    {
+      "id": "b7804eb62857d4629d5a2259d5b8abf2",
+      "title": "Zverev vô địch Roland Garros 2026",
+      "link": "https://vnexpress.net/zverev-vo-dich-roland-garros-2026-5083008.html",
+      "summary": "Tay vợt Alexander Zverev lần đầu vô địch Grand Slam, sau khi hạ Flavio Cobolli 6-1, 4-6, 6-4, 6-7(5), 6-1 trong trận chung kết Roland Garros tối 7/6.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-07T19:02:54+07:00",
+      "fetched": "2026-06-08T04:00:32.316999+07:00"
+    },
+    {
+      "id": "a0c98a37bbfa78598f6ff0535fe93613",
+      "title": "Muối thừa 'ẩn' trong thực phẩm chế biến sẵn gây hại sức khỏe",
+      "link": "https://vnexpress.net/muoi-thua-an-trong-thuc-pham-che-bien-san-gay-hai-suc-khoe-5082602.html",
+      "summary": "Nhiều người cho rằng ăn mặn mới có nguy cơ nạp thừa muối, song chuyên gia khuyến cáo phần lớn lượng muối dư thừa đang \"ẩn mình\" trong các loại thực phẩm chế biến sẵn, gây hại cho sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T19:00:00+07:00",
+      "fetched": "2026-06-08T04:00:19.424462+07:00"
     },
     {
       "id": "63780bbf2f182af0a16f499a9beedd0d",
