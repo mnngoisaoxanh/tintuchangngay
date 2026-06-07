@@ -1,7 +1,277 @@
 window.newsData_2026_06_07 = {
   "date": "2026-06-07",
-  "lastUpdated": "2026-06-07T05:55:17.943381+07:00",
+  "lastUpdated": "2026-06-07T09:36:28.441656+07:00",
   "articles": [
+    {
+      "id": "759f41eb9afb624aa1b659e8f5ed2358",
+      "title": "Tin tức sáng 7-6: Tài khoản nhà đầu tư chứng khoán lập kỷ lục mới, vượt 13 triệu",
+      "link": "https://tuoitre.vn/tin-tuc-sang-7-6-tai-khoan-nha-dau-tu-chung-khoan-lap-ky-luc-moi-vuot-13-trieu-20260606222649059.htm",
+      "summary": "Tin tức đáng chú ý: Tài khoản nhà đầu tư chứng khoán lập kỷ lục, vượt 13 triệu; CII thành cổ đông lớn của PC1; Đề xuất thí điểm thành lập Quỹ văn hóa, nghệ thuật...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.348649+07:00",
+      "fetched": "2026-06-07T09:36:19.348737+07:00"
+    },
+    {
+      "id": "51964330654e195f8984c1fb4028a7ef",
+      "title": "Cà phê phin Việt tỏa hương trên đất Mỹ",
+      "link": "https://tuoitre.vn/ca-phe-phin-viet-toa-huong-tren-dat-my-2026060622573086.htm",
+      "summary": "Giữa thành phố New York có thể gọi là nơi tụ hội tinh hoa ẩm thực của thế giới, cà phê Lê Phin đã thực sự tỏa hương cho văn hóa nước nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.348554+07:00",
+      "fetched": "2026-06-07T09:36:19.348641+07:00"
+    },
+    {
+      "id": "6dcc53492bac37cd786e18870837d96d",
+      "title": "Cậu học sinh 16 tuổi liên tiếp thắng nhà vô địch cờ tướng Trung Quốc",
+      "link": "https://tuoitre.vn/cau-hoc-sinh-16-tuoi-lien-tiep-thang-nha-vo-dich-co-tuong-trung-quoc-2026060618092993.htm",
+      "summary": "Dù vừa thắng thuyết phục Lại Lý Huynh ở Xuân Khâu Đại Diệp Bôi, Vương Vũ Bác lại phải nhận về kết quả đáng thất vọng ở giải cờ tướng danh giá Cao Cảng Bôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.348459+07:00",
+      "fetched": "2026-06-07T09:36:19.348546+07:00"
+    },
+    {
+      "id": "514fda3a0d916bf838279423a7977449",
+      "title": "Bị gạch tên khỏi tuyển Pháp, Camavinga vẫn sang Mỹ để... học ở Harvard",
+      "link": "https://tuoitre.vn/bi-gach-ten-khoi-tuyen-phap-camavinga-van-sang-my-de-hoc-o-harvard-20260607062846642.htm",
+      "summary": "Mặc dù không được triệu tập vào tuyển Pháp dự World Cup 2026, tiền vệ Eduardo Camavinga của Real Madrid vẫn đến Mỹ để tham gia một khóa học ngắn hạn tại Đại học Harvard.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.348362+07:00",
+      "fetched": "2026-06-07T09:36:19.348451+07:00"
+    },
+    {
+      "id": "e2623b1221afcd9627884641fbcf02f4",
+      "title": "Tin tức thế giới 7-6: Mỹ tính phân phối tài sản phong tỏa của Iran; Pakistan đi đàm phán thay Mỹ",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-7-6-my-tinh-phan-phoi-tai-san-phong-toa-cua-iran-pakistan-di-dam-phan-thay-my-20260607064116239.htm",
+      "summary": "Các cuộc tấn công mới của Mỹ và Iran thử thách thỏa thuận ngừng bắn; Xác nhận gần 500 ca nhiễm Ebola ở Trung Phi, khả năng dịch lan rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.348263+07:00",
+      "fetched": "2026-06-07T09:36:19.348353+07:00"
+    },
+    {
+      "id": "64ce3400097257f7ec16a753e51153c3",
+      "title": "Tăng Phúc kể thời ra nhạc 'chẳng ai nghe', Nhà Chín Muồi hội ngộ tại mini concert Sun Song",
+      "link": "https://tuoitre.vn/tang-phuc-ke-thoi-ra-nhac-chang-ai-nghe-nha-chin-muoi-hoi-ngo-tai-mini-concert-sun-song-20260607014616355.htm",
+      "summary": "Tối 6-6, tại Nhà thi đấu Nguyễn Du (TP.HCM), ca sĩ Tăng Phúc tổ chức mini concert Sun Song - The New Beginning, đánh dấu một cột mốc đặc biệt trên hành trình gần 10 năm theo đuổi âm nhạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.348165+07:00",
+      "fetched": "2026-06-07T09:36:19.348254+07:00"
+    },
+    {
+      "id": "019123ae3faf51c446760675e8717bd4",
+      "title": "Như chưa hề có cuộc chia ly: Lúc trao con cho người ta, tôi khóc, còn con cứ cười",
+      "link": "https://tuoitre.vn/nhu-chua-he-co-cuoc-chia-ly-luc-trao-con-cho-nguoi-ta-toi-khoc-con-con-cu-cuoi-2026060706112013.htm",
+      "summary": "Tập 201 Như chưa hề có cuộc chia ly kể về ba người phụ nữ cùng họ Vũ. Trong đó, hai người mẹ có số phận đặc biệt. Một người đi tù đến hai lần, một người chưa sinh nở nhận nuôi trẻ mới 6 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.348065+07:00",
+      "fetched": "2026-06-07T09:36:19.348156+07:00"
+    },
+    {
+      "id": "778b0e2524361aded2b411f5a53a5a5b",
+      "title": "Nhạc sĩ Đức Trí đính chính một dấu phẩy trong nhạc Trịnh Công Sơn, Cẩm Vân và Thanh Lam bùng nổ",
+      "link": "https://tuoitre.vn/nhac-si-duc-tri-dinh-chinh-mot-dau-phay-trong-nhac-trinh-cong-son-cam-van-va-thanh-lam-bung-no-2026060707132707.htm",
+      "summary": "‘Người Nghệ cũng yêu nhạc Trịnh lắm’ - lần đầu tiên gia đình Trịnh Công Sơn đưa nhạc Trịnh về xứ Nghệ và nhận được nhiều tình cảm cũng như cổ vũ của khán giả địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.347960+07:00",
+      "fetched": "2026-06-07T09:36:19.348056+07:00"
+    },
+    {
+      "id": "33d05f086969d28ab6e499f390bbd069",
+      "title": "Khai mạc Liên hoan phim ngắn TP.HCM lần 2, hiện thực hóa cam kết với UNESCO",
+      "link": "https://tuoitre.vn/khai-mac-lien-hoan-phim-ngan-tp-hcm-lan-2-hien-thuc-hoa-cam-ket-voi-unesco-20260607002057658.htm",
+      "summary": "Tối 6-6, Liên hoan phim ngắn TP.HCM lần 2 năm 2026 chính thức khai mạc tại Nhà hát Thành phố với chủ đề 'Khơi nguồn sáng tạo trẻ - Kiến tạo thành phố điện ảnh'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.347840+07:00",
+      "fetched": "2026-06-07T09:36:19.347950+07:00"
+    },
+    {
+      "id": "7174af76c97c8fa90a914a9d9a5414e4",
+      "title": "Lôi Viễn Quang vào top 10 Man of the World 2026, đại diện Philippines đăng quang",
+      "link": "https://tuoitre.vn/loi-vien-quang-vao-top-10-man-of-the-world-2026-dai-dien-philippines-dang-quang-20260607052205657.htm",
+      "summary": "Người mẫu Oliver Eugen Kretz đến từ Philippines giành ngôi vị cao nhất cuộc thi Man of the World 2026. Đại diện Việt Nam dừng chân ở top 10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.347738+07:00",
+      "fetched": "2026-06-07T09:36:19.347831+07:00"
+    },
+    {
+      "id": "6a0c4d8dc675038aecfdb4933ec5bb44",
+      "title": "Chu Châu: Hình mẫu mặc đẹp cho phụ nữ trưởng thành",
+      "link": "https://tuoitre.vn/chu-chau-hinh-mau-mac-dep-cho-phu-nu-truong-thanh-20260605212947205.htm",
+      "summary": "Phong cách thời trang và khí chất của Chu Châu cuốn hút đến khó rời mắt, dù nội dung trong phim Mật Ngữ Kỷ đầy những tình tiết drama.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.347628+07:00",
+      "fetched": "2026-06-07T09:36:19.347729+07:00"
+    },
+    {
+      "id": "b9005ef2d1625e08f5b1bfd7baa66e6a",
+      "title": "Giới thời trang mê quần short Bermuda",
+      "link": "https://tuoitre.vn/gioi-thoi-trang-me-quan-short-bermuda-20260606204459137.htm",
+      "summary": "Những bản phối quần short Bermuda trên đường phố từ Milan, Paris, Copenhagen và London sẽ mang đến nguồn cảm hứng bất tận cho tủ đồ hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.347525+07:00",
+      "fetched": "2026-06-07T09:36:19.347619+07:00"
+    },
+    {
+      "id": "97e97f5fa434a2bea5fd5bfcfb4a5314",
+      "title": "Bóng chuyền Thái Lan bị trừ điểm nặng, Việt Nam có cơ hội vượt mặt",
+      "link": "https://tuoitre.vn/bong-chuyen-thai-lan-bi-tru-diem-nang-viet-nam-co-co-hoi-vuot-mat-20260606203925468.htm",
+      "summary": "Thất bại cay đắng trước tuyển Bỉ ở vòng 3 FIVB Nations League (VNL) khiến tuyển bóng chuyền nữ Thái Lan tổn hại nặng nề, từ cuộc đua trụ hạng cho đến vị trí trên bảng xếp hạng thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.347411+07:00",
+      "fetched": "2026-06-07T09:36:19.347515+07:00"
+    },
+    {
+      "id": "4adef89a16b8047b07ee0287c02b3db9",
+      "title": "Rác thải xây dựng ở Hà Nội sẽ được tái chế đưa vào dự án đầu tư công",
+      "link": "https://tuoitre.vn/rac-thai-xay-dung-o-ha-noi-se-duoc-tai-che-dua-vao-du-an-dau-tu-cong-20260607062633995.htm",
+      "summary": "Quá trình giải phóng mặt bằng phục vụ thi công dự án cấp bách khiến lượng rác thải xây dựng và bùn thải tăng đột biến, TP Hà Nội đang tìm nhiều giải pháp để xử lý tái chế, biến rác thành vật liệu san lấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.347283+07:00",
+      "fetched": "2026-06-07T09:36:19.347401+07:00"
+    },
+    {
+      "id": "b2450b8bec12afb2f078a4207c7ca0f6",
+      "title": "‘Giải mã’ sức bật phía sau hai giải thưởng bất động sản quốc gia của T&T Group",
+      "link": "https://tuoitre.vn/giai-ma-suc-bat-phia-sau-hai-giai-thuong-bat-dong-san-quoc-gia-cua-t-t-group-20260606230046532.htm",
+      "summary": "Hai giải thưởng cấp quốc gia dành cho T&T Homes không chỉ phản ánh kết quả của một dự án hay một doanh nghiệp. Đó còn là dịp để nhìn sâu hơn vào triết lý phát triển và logic tăng trưởng mà T&T Group đã bền bỉ xây dựng trong nhiều năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:36:19.347018+07:00",
+      "fetched": "2026-06-07T09:36:19.347269+07:00"
+    },
+    {
+      "id": "84a0dd043d81d83317da0b1803f91aa4",
+      "title": "Vì sao nhiều người vẫn nhớ BlackBerry sau hơn một thập kỷ?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-nguoi-van-nho-blackberry-sau-hon-mot-thap-ky-185260606104257202.htm",
+      "summary": "BlackBerry không còn hiện diện trên thị trường, nhưng bàn phím vật lý, pin bền và sự tối giản vẫn khiến nhiều người nhớ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:31:00+07:00",
+      "fetched": "2026-06-07T09:36:18.176154+07:00"
+    },
+    {
+      "id": "a30b1acb81747b99800750ff728fec8f",
+      "title": "Trung Quốc muốn xây căn cứ thiên văn lớn nhất thế giới trên cao nguyên Tây Tạng",
+      "link": "https://thanhnien.vn/trung-quoc-muon-xay-can-cu-thien-van-lon-nhat-the-gioi-tren-cao-nguyen-tay-tang-185260607091949062.htm",
+      "summary": "Trung Quốc đang đẩy nhanh kế hoạch xây dựng một tổ hợp quan trắc thiên văn quy mô lớn trên núi Saishiteng (tỉnh Thanh Hải), với tham vọng đưa nơi đây trở thành căn cứ thiên văn mặt đất hàng đầu thế giới vào giữa những năm 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:29:00+07:00",
+      "fetched": "2026-06-07T09:36:18.176305+07:00"
+    },
+    {
+      "id": "ee4c8548cd25b1be366ac78bfb516f08",
+      "title": "Quỹ đầu tư vàng lớn nhất thế giới liên tục xả hàng",
+      "link": "https://vnexpress.net/quy-dau-tu-vang-lon-nhat-the-gioi-lien-tuc-xa-hang-5082844.html",
+      "summary": "Quỹ đầu tư SPDR Gold Trust bán ròng từ giữa tháng 5 và chỉ còn nắm giữ 1.025 tấn vàng, mức thấp nhất 8 tháng trở lại đây.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-07T02:28:08+07:00",
+      "fetched": "2026-06-07T09:36:23.048110+07:00"
+    },
+    {
+      "id": "871e6f266828434f671e8acb433d35bd",
+      "title": "GAM gục ngã trước DCG, LMHT Việt Nam chỉ còn một đại diện tại MSI 2026",
+      "link": "https://thanhnien.vn/gam-guc-nga-truoc-dcg-lmht-viet-nam-chi-con-mot-dai-dien-tai-msi-2026-185260606202456524.htm",
+      "summary": "Thất bại trước Deep Cross Gaming ở trận đấu quyết định của nhánh thua LCP 2026 Split 2 khiến GAM Esports chính thức lỡ hẹn với MSI 2026. Liên Minh Huyền Thoại Việt Nam giờ chỉ còn đặt hy vọng vào Team Secret Whales tại đấu trường quốc tế sắp tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:27:00+07:00",
+      "fetched": "2026-06-07T09:36:18.176441+07:00"
+    },
+    {
+      "id": "a2bcd5e2f53abfdab09c500c476c8f14",
+      "title": "TP.HCM nghĩa tình: Người dân bất ngờ nhận ‘gấp đôi’ niềm vui",
+      "link": "https://thanhnien.vn/tphcm-nghia-tinh-nguoi-dan-bat-ngo-nhan-gap-doi-niem-vui-185260606201427812.htm",
+      "summary": "Người dân có hoàn cảnh khó khăn ở phường Tăng Nhơn Phú, TP.HCM nhận 'gấp đôi' niềm vui khi vừa được trao suất cơm nghĩa tình, vừa được cắt tóc miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:26:00+07:00",
+      "fetched": "2026-06-07T09:36:18.176567+07:00"
+    },
+    {
+      "id": "3cf871b15a742ebc3a5090be55e86abf",
+      "title": "'Giá vàng 190 triệu chen chúc mua, xuống 150 triệu chẳng ai ngó ngàng'",
+      "link": "https://vnexpress.net/gia-vang-190-trieu-chen-chuc-mua-xuong-150-trieu-chang-ai-ngo-ngang-5082842.html",
+      "summary": "Họ không dám xuống tiền vì chưa biết đâu là đáy của giá vàng?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:23:04+07:00",
+      "fetched": "2026-06-07T09:36:14.834394+07:00"
+    },
+    {
+      "id": "f693ba6affc0aa1ec46867c52bf05b40",
+      "title": "Ngôi sao Thanh Thúy xuất trận, đội tuyển bóng chuyền nữ Việt Nam thắng dễ Hồng Kông",
+      "link": "https://thanhnien.vn/ngoi-sao-thanh-thuy-xuat-tran-doi-tuyen-bong-chuyen-nu-viet-nam-thang-de-hong-kong-185260607081551649.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Việt Nam giành chiến thắng 3-0 trước Hồng Kông ở lượt trận thứ 2 bảng B giải bóng chuyền châu Á (AVC Cup) 2026 diễn ra hôm nay tại Philippines.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:22:00+07:00",
+      "fetched": "2026-06-07T09:36:18.176690+07:00"
+    },
+    {
+      "id": "2b9fe250989d6a573d453073622f736f",
+      "title": "Messi chỉ dự bị, không đá phút nào: Argentina vẫn thắng đậm Honduras trước gần 100.000 khán giả tại Mỹ",
+      "link": "https://thanhnien.vn/messi-chi-du-bi-khong-da-phut-nao-argentina-van-thang-dam-honduras-truoc-gan-100000-khan-gia-tai-my-185260607091249466.htm",
+      "summary": "Sáng 7.6, Messi chỉ ngồi dự bị trong trận giao hữu chạy đà trước World Cup 2026 của đội tuyển Argentina thắng đậm Honduras với tỷ số 2-0, trên sân Kyle Field ở Texas (Mỹ) chật kín gần 100.000 khán giả đến xem.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:19:00+07:00",
+      "fetched": "2026-06-07T09:36:18.176818+07:00"
+    },
+    {
+      "id": "73153197b514bb573590892f740f03f7",
+      "title": "Công an Cà Mau đề nghị giám định những gì tại gói thầu bệnh viện 1.200 giường?",
+      "link": "https://thanhnien.vn/cong-an-ca-mau-de-nghi-giam-dinh-nhung-gi-tai-goi-thau-benh-vien-1200-giuong-185260607021957865.htm",
+      "summary": "Cơ quan CSĐT Công an tỉnh Cà Mau trưng cầu giám định quá trình lập và thực hiện hồ sơ đấu thầu đối với gói thầu 27, thuộc dự án Bệnh viện đa khoa tỉnh Cà Mau quy mô 1.200 giường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:19:00+07:00",
+      "fetched": "2026-06-07T09:36:18.176978+07:00"
+    },
+    {
+      "id": "5f0e587513dbfe8bac758adf4968a75d",
+      "title": "Tết Đoan Ngọ ở Bình Đông hứa hẹn hấp dẫn",
+      "link": "https://thanhnien.vn/tet-doan-ngo-o-binh-dong-hua-hen-hap-dan-185260607090924456.htm",
+      "summary": "Tết Đoan Ngọ năm 2026 cùng với \"Tuần lễ nông sản vùng miền - Bình Đông\" chính thức khai mạc vào ngày 16.6, hứa hẹn đầy hấp dẫn với nhiều nội dung đặc sắc và sự tham gia của 9 tỉnh thành ở cả khu vực miền Trung và Nam bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:17:00+07:00",
+      "fetched": "2026-06-07T09:36:18.177109+07:00"
+    },
+    {
+      "id": "5648e93b8a2a40e8f8e2aa6f8b2357b5",
+      "title": "Rau muống, rau sống... Việt Nam vào top món ngon Đông Nam Á",
+      "link": "https://thanhnien.vn/rau-muong-rau-song-viet-nam-vao-top-mon-ngon-dong-nam-a-185260605140021292.htm",
+      "summary": "Loạt món ăn bình dân Việt Nam xuất hiện trong danh sách 54 món ăn kèm ngon nhất Đông Nam Á, trong đó có rau muống xào tỏi đứng ở top 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:17:00+07:00",
+      "fetched": "2026-06-07T09:36:18.177234+07:00"
+    },
+    {
+      "id": "b3740fd65f56952330c8e6bfc05dc3be",
+      "title": "Sinh viên 3 trường mỹ thuật lớn 'so kè' ở trung tâm thương mại",
+      "link": "https://vnexpress.net/sinh-vien-3-truong-my-thuat-lon-so-ke-o-trung-tam-thuong-mai-5082611.html",
+      "summary": "48 tác phẩm hội họa, điêu khắc của sinh viên mỹ thuật ở Hà Nội được trừng bày giữa trung tâm thương mại, khách tham quan có thể quét mã QR để bình chọn và mua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:05:59+07:00",
+      "fetched": "2026-06-07T09:36:14.834555+07:00"
+    },
     {
       "id": "d54029425dbf536d1419ac344fbad881",
       "title": "Gen Z chuẩn bị đi concert BTS, The Weeknd, thanh toán MoMo được không?",
@@ -151,6 +421,236 @@ window.newsData_2026_06_07 = {
       "category": "Tổng hợp",
       "published": "2026-06-07T02:04:59.219603+07:00",
       "fetched": "2026-06-07T02:04:59.219840+07:00"
+    },
+    {
+      "id": "8bc1409a983cd41a9b84cbc6e3960b41",
+      "title": "Sốc khi biết vợ có 60 bộ pháp phục, hơn chục bộ áo dài",
+      "link": "https://vnexpress.net/soc-khi-biet-vo-co-60-bo-phap-phuc-hon-chuc-bo-ao-dai-5082837.html",
+      "summary": "Vợ chồng tôi sống ở Đà Nẵng, 30 triệu tiền sinh hoạt tôi đưa là không hề thấp nhưng tháng nào vợ cũng bảo không đủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:00:00+07:00",
+      "fetched": "2026-06-07T09:36:14.834695+07:00"
+    },
+    {
+      "id": "8ba23c28756ac78b5338decd30a60126",
+      "title": "Nguyên nhân tổn thương gan ngoài rượu",
+      "link": "https://vnexpress.net/nguyen-nhan-ton-thuong-gan-ngoai-ruou-5082681.html",
+      "summary": "Nhiễm virus viêm gan, lạm dụng một số loại thuốc hoặc thực phẩm chức năng, cùng chế độ ăn nhiều đường kéo dài có thể góp phần gây tổn thương gan ngoài rượu bia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:00:00+07:00",
+      "fetched": "2026-06-07T09:36:14.834797+07:00"
+    },
+    {
+      "id": "7c1237abd569cc06db07d1ac5bcf774b",
+      "title": "Vì sao trẻ sơ sinh bị méo đầu?",
+      "link": "https://vnexpress.net/vi-sao-tre-so-sinh-bi-meo-dau-5082735.html",
+      "summary": "Trẻ sơ sinh bị méo đầu có thể do tư thế trong tử cung, sinh non hoặc nằm một tư thế quá lâu sau sinh khiến hộp sọ mềm dễ biến dạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:00:00+07:00",
+      "fetched": "2026-06-07T09:36:14.834951+07:00"
+    },
+    {
+      "id": "0e64a64f13a49938ca2251b4c4f6864a",
+      "title": "Chặng đường 20 năm kiến tạo tương lai số của UIT",
+      "link": "https://thanhnien.vn/chang-duong-20-nam-kien-tao-tuong-lai-so-cua-uit-185260606221745788.htm",
+      "summary": "Ngày 6.6, Trường ĐH Công nghệ Thông tin (UIT) - ĐHQG TP.HCM long trọng tổ chức Lễ kỷ niệm 20 năm thành lập (2006 - 2026) và vinh dự đón nhận Cờ truyền thống do UBND TP.HCM trao tặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:00:00+07:00",
+      "fetched": "2026-06-07T09:36:18.177356+07:00"
+    },
+    {
+      "id": "0134c9bd4bb53115cb76250a87d3c1f2",
+      "title": "Chất lượng y tế chuẩn quốc tế trở thành 'điểm cộng' cho du lịch Việt",
+      "link": "https://thanhnien.vn/chat-luong-y-te-chuan-quoc-te-tro-thanh-diem-cong-cho-du-lich-viet-185260606210630975.htm",
+      "summary": "Một chuyến đi trọn vẹn không chỉ nằm ở điểm đến, mà còn ở cảm giác an tâm trong mọi tình huống. Ca cấp cứu cho người ngoại quốc gần đây cho thấy năng lực phản ứng nhanh, sự chuyên nghiệp của y tế Việt Nam. Sự sẵn sàng này không chỉ đảm bảo an toàn, mà còn góp phần nâng cao niềm tin và trải nghiệm củ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:00:00+07:00",
+      "fetched": "2026-06-07T09:36:18.177474+07:00"
+    },
+    {
+      "id": "b75dccb731bef2f43f0e20742aa2f5bf",
+      "title": "Những nông trại giữa lòng TP.HCM khiến người trẻ say đắm",
+      "link": "https://thanhnien.vn/nhung-nong-trai-giua-long-tphcm-khien-nguoi-tre-say-dam-18526060620120755.htm",
+      "summary": "Những nông trại giữa lòng TP.HCM được duy trì qua nhiều năm như một cách giữ gìn mảng xanh giữa phố thị tấp nập. Trong dịp hè, nơi đây trở thành \"thiên đường\" để phụ huynh đưa con đến trải nghiệm, để bạn trẻ giải tỏa áp lực cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:00:00+07:00",
+      "fetched": "2026-06-07T09:36:18.177596+07:00"
+    },
+    {
+      "id": "6539ec2b6f3fa98a02faf4818a7f32e1",
+      "title": "Hương nắng đồi cam - Truyện ngắn của Nguyễn Hồng",
+      "link": "https://thanhnien.vn/huong-nang-doi-cam-truyen-ngan-cua-nguyen-hong-185260606182554853.htm",
+      "summary": "Ông trời lại đóng vai phản diện. Vùng vằng ném một vốc mây xám lơ vơ ngoài cửa rồi để đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:00:00+07:00",
+      "fetched": "2026-06-07T09:36:18.177714+07:00"
+    },
+    {
+      "id": "5310a05d26d3b45d093010c6968d9406",
+      "title": "Quốc Trường, Tiểu Vy bị dàn sao 'Ốc mượn hồn' lật mặt, tố xấu",
+      "link": "https://thanhnien.vn/quoc-truong-tieu-vy-bi-dan-sao-oc-muon-hon-lat-mat-to-xau-185260606154933532.htm",
+      "summary": "Xuất hiện trong Gia vị phim, dàn diễn viên Ốc mượn hồn mang đến không khí sôi động khi vừa tiết lộ những câu chuyện hậu trường đầy kịch tính, những lần tranh luận nảy lửa để hoàn thiện vai diễn, vừa khiến khán giả thích thú với màn tung hứng hài hước cùng MC Hoàng Đăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:00:00+07:00",
+      "fetched": "2026-06-07T09:36:18.177832+07:00"
+    },
+    {
+      "id": "b2b658bab92b1b4ed366de2484dd6f36",
+      "title": "Người nghệ nhân khuyết tật giữ hồn chỉ lụa",
+      "link": "https://thanhnien.vn/nguoi-nghe-nhan-khuyet-tat-giu-hon-chi-lua-185260605113957124.htm",
+      "summary": "Có những con người đi qua giông bão cuộc đời mà vẫn giữ được ánh nhìn dịu dàng như nắng sớm. Có những số phận tưởng chừng gãy khúc giữa hành trình nhưng lại âm thầm nở hoa bằng nghị lực và tình yêu nghề tha thiết. Nghệ nhân ưu tú Hoàng Thị Khương của làng thêu Quất Động là một người như thế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:00:00+07:00",
+      "fetched": "2026-06-07T09:36:18.177975+07:00"
+    },
+    {
+      "id": "9ba7171c3ee3a2dfcdb5fa3dde0634a1",
+      "title": "Hơn 5.100 thí sinh 'chạy nước rút' trong kỳ thi lớp 10 chuyên cuối cùng ở Hà Nội",
+      "link": "https://vnexpress.net/hon-5-100-thi-sinh-chay-nuoc-rut-trong-ky-thi-lop-10-chuyen-cuoi-cung-o-ha-noi-5082826.html",
+      "summary": "Sau hai tuần có liên tiếp bốn \"cuộc đua\" vào lớp 10 chuyên ở Hà Nội, THPT chuyên Ngoại ngữ \"chốt sổ\" với kỳ thi hơn 5.100 thí sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T01:56:30+07:00",
+      "fetched": "2026-06-07T09:36:14.835084+07:00"
+    },
+    {
+      "id": "65f77939218107f8af3f94afb706b737",
+      "title": "Người đàn ông Pháp 10 năm đòi tài sản vợ cũ nhờ gia đình đứng tên",
+      "link": "https://vnexpress.net/nguoi-dan-ong-phap-10-nam-doi-tai-san-vo-cu-nho-gia-dinh-dung-ten-5082689.html",
+      "summary": "Được tòa tuyên hưởng một nửa khối tài sản gần 18 tỷ đồng đứng tên người thân của vợ cũ, ông Dominique vẫn chưa nhận được tài sản sau 10 năm theo kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T01:37:23+07:00",
+      "fetched": "2026-06-07T09:36:14.835213+07:00"
+    },
+    {
+      "id": "b39508de598e72182e2f5c014f6cd001",
+      "title": "Phim 'The Odyssey' của Nolan 'cháy' vé tại Mỹ",
+      "link": "https://vnexpress.net/phim-the-odyssey-cua-nolan-chay-ve-tai-my-5082624.html",
+      "summary": "\"The Odyssey\" tạo nên cơn sốt đặt vé trước khi phát hành một tháng, khiến hệ thống của nhiều rạp chiếu quá tải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T01:26:24+07:00",
+      "fetched": "2026-06-07T09:36:14.835339+07:00"
+    },
+    {
+      "id": "3fb2a9924454cb65ac54beb601c03bdf",
+      "title": "TCBS có Quyền tổng giám đốc mới",
+      "link": "https://vnexpress.net/tcbs-co-quyen-tong-giam-doc-moi-5082812.html",
+      "summary": "Bà Trần Thị Thu Trang, người đã có 12 năm làm việc tại TCBS, được bổ nhiệm làm Quyền tổng giám đốc công ty.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T01:12:51+07:00",
+      "fetched": "2026-06-07T09:36:14.835465+07:00"
+    },
+    {
+      "id": "3fb2a9924454cb65ac54beb601c03bdf",
+      "title": "TCBS có Quyền tổng giám đốc mới",
+      "link": "https://vnexpress.net/tcbs-co-quyen-tong-giam-doc-moi-5082812.html",
+      "summary": "Bà Trần Thị Thu Trang, người đã có 12 năm làm việc tại TCBS, được bổ nhiệm làm Quyền tổng giám đốc công ty.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-07T01:12:51+07:00",
+      "fetched": "2026-06-07T09:36:23.048267+07:00"
+    },
+    {
+      "id": "a7413826a5fe69ba1aec9552897df041",
+      "title": "Vũ điệu tìm lại sự sống của cô gái 4 lần tái phát ung thư",
+      "link": "https://vnexpress.net/vu-dieu-tim-lai-su-song-cua-co-gai-4-lan-tai-phat-ung-thu-5082548.html",
+      "summary": "Không đầu hàng trước căn bệnh u xương ác tính vẫn đang gặm nhấm cơ thể, cô gái 24 tuổi chọn cách sống trọn từng phút giây, nhảy múa truyền cảm hứng cho mọi người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T01:09:00+07:00",
+      "fetched": "2026-06-07T09:36:14.835589+07:00"
+    },
+    {
+      "id": "1b2af12a380dcbc9821a742b24178a67",
+      "title": "5 thói quen buổi sáng giúp cơ thể khỏe mạnh khi về già",
+      "link": "https://vnexpress.net/5-thoi-quen-buoi-sang-giup-co-the-khoe-manh-khi-ve-gia-5082669.html",
+      "summary": "Uống đủ nước, vận động nhẹ và ăn sáng lành mạnh sau khi thức dậy có thể giúp cơ thể khỏe mạnh hơn khi tuổi tác tăng lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T01:00:00+07:00",
+      "fetched": "2026-06-07T09:36:14.835711+07:00"
+    },
+    {
+      "id": "8da846275d4ec415e51ac16be6fd0742",
+      "title": "Cô gái ướt như chuột lột khi ngồi bè tre",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-co-gai-uot-nhu-chuot-lot-khi-ngoi-be-tre-5081119.html",
+      "summary": "Chỉ một khoảnh khắc khi ngồi trên bè tre, cô gái bất ngờ bị nhấn chìm hoàn toàn, để rồi xuất hiện với bộ dạng ướt như chuột lột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T01:00:00+07:00",
+      "fetched": "2026-06-07T09:36:14.835833+07:00"
+    },
+    {
+      "id": "bf95da0c7a48daef73ab284aa4d0c911",
+      "title": "Laptop AI dùng chip AMD Ryzen, giá gần 40 triệu đồng",
+      "link": "https://vnexpress.net/laptop-ai-dung-chip-amd-ryzen-gia-gan-40-trieu-dong-5081116.html",
+      "summary": "Lenovo Yoga Slim 7a được trang bị xử lý tối ưu cho AI, thiết kế có tính di động cao, nhưng dung lượng bộ nhớ có phần khiêm tốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T01:00:00+07:00",
+      "fetched": "2026-06-07T09:36:14.835973+07:00"
+    },
+    {
+      "id": "afaa7acf6060ded6bd6dea7c4aab43dd",
+      "title": "Da nhạy cảm có nên triệt lông bằng laser?",
+      "link": "https://vnexpress.net/da-nhay-cam-co-nen-triet-long-bang-laser-5082793.html",
+      "summary": "Da tôi khá nhạy cảm, dễ đỏ rát và từng bị viêm nang lông. Tôi có thể triệt lông bằng laser được không, có dễ kích ứng hay để lại thâm sẹo? (Linh Đan, 28 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T01:00:00+07:00",
+      "fetched": "2026-06-07T09:36:14.836094+07:00"
+    },
+    {
+      "id": "6b1842f1213f63c60955c2e5dd93c4ce",
+      "title": "5 tình trạng sức khỏe có thể gây khô mắt kéo dài",
+      "link": "https://vnexpress.net/5-tinh-trang-suc-khoe-co-the-gay-kho-mat-keo-dai-5082747.html",
+      "summary": "Ngoài tuổi tác và thói quen nhìn màn hình kéo dài, khô mắt còn có thể là dấu hiệu sớm của một số bệnh lý như đái tháo đường hoặc rối loạn tuyến giáp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T01:00:00+07:00",
+      "fetched": "2026-06-07T09:36:14.836178+07:00"
+    },
+    {
+      "id": "bf95da0c7a48daef73ab284aa4d0c911",
+      "title": "Laptop AI dùng chip AMD Ryzen, giá gần 40 triệu đồng",
+      "link": "https://vnexpress.net/laptop-ai-dung-chip-amd-ryzen-gia-gan-40-trieu-dong-5081116.html",
+      "summary": "Lenovo Yoga Slim 7a được trang bị xử lý tối ưu cho AI, thiết kế có tính di động cao, nhưng dung lượng bộ nhớ có phần khiêm tốn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-07T01:00:00+07:00",
+      "fetched": "2026-06-07T09:36:26.889655+07:00"
+    },
+    {
+      "id": "eb70307f54ef07c0fa1c616f99922f67",
+      "title": "Em gái ông Kim Jong-un tuyên bố 'không thể thương lượng' chương trình hạt nhân",
+      "link": "https://vnexpress.net/em-gai-ong-kim-jong-un-tuyen-bo-khong-the-thuong-luong-chuong-trinh-hat-nhan-5082825.html",
+      "summary": "Bà Kim Yo-jong khẳng định không thể xóa bỏ chương trình hạt nhân của Triều Tiên và bác bỏ tuyên bố của Mỹ về nội dung cuộc gặp giữa ông Tập và ông Trump tháng trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-07T00:43:16+07:00",
+      "fetched": "2026-06-07T09:36:21.228404+07:00"
+    },
+    {
+      "id": "0df6a152ef11384ef746867648afade1",
+      "title": "Tiền đạo Bồ Đào Nha tát đối thủ trong trận giao hữu trước World Cup",
+      "link": "https://vnexpress.net/tien-dao-bo-dao-nha-tat-doi-thu-trong-tran-giao-huu-truoc-world-cup-5082821.html",
+      "summary": "Rafael Leao xô xát và nhận thẻ đỏ trực tiếp trong trận giao hữu Bồ Đào Nha thắng Chile 2-1 trên sân Jamor hôm 6/6.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-07T00:16:09+07:00",
+      "fetched": "2026-06-07T09:36:28.435928+07:00"
     },
     {
       "id": "913428348eb063cd618efb9eff74e88d",
