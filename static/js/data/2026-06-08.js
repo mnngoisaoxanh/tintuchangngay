@@ -1,7 +1,117 @@
 window.newsData_2026_06_08 = {
   "date": "2026-06-08",
-  "lastUpdated": "2026-06-08T00:05:17.623531+07:00",
+  "lastUpdated": "2026-06-08T02:06:14.961131+07:00",
   "articles": [
+    {
+      "id": "4886d22fcf94ff50b32387011da12387",
+      "title": "Cử tri Mỹ thất vọng về kinh tế, Đảng Cộng hòa vẫn còn hy vọng ở bầu cử giữa kỳ",
+      "link": "https://tuoitre.vn/cu-tri-my-that-vong-ve-kinh-te-dang-cong-hoa-van-con-hy-vong-o-bau-cu-giua-ky-20260607220739574.htm",
+      "summary": "Số liệu khảo sát cho thấy dù tỉ lệ cử tri Đảng Cộng hòa thất vọng với cách điều hành kinh tế thời ông Trump tăng, sự ủng hộ dành cho ông trong nội bộ đảng vẫn cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:06:08.116304+07:00",
+      "fetched": "2026-06-08T02:06:08.116415+07:00"
+    },
+    {
+      "id": "ced4dc4a613584bad0aa525a705ae8a9",
+      "title": "Hàng ngàn du khách trải nghiệm hơn 100 gian hàng tại lễ hội ven biển Đà Nẵng",
+      "link": "https://tuoitre.vn/hang-ngan-du-khach-trai-nghiem-hon-100-gian-hang-tai-le-hoi-ven-bien-da-nang-20260607212422856.htm",
+      "summary": "Tối 7-6, Lễ hội biển An Hải Festival 2026 chính thức khai mạc tại khu vực công viên Biển Đông (TP Đà Nẵng), mở đầu chuỗi hoạt động văn hóa, nghệ thuật, ẩm thực kéo dài đến ngày 14-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:06:08.116208+07:00",
+      "fetched": "2026-06-08T02:06:08.116296+07:00"
+    },
+    {
+      "id": "d3ca7ed2157d4ea14d7739889fba3c3a",
+      "title": "U19 Myanmar giúp U19 Việt Nam lạc quan hơn sau trận thua Indonesia",
+      "link": "https://tuoitre.vn/u19-myanmar-giup-u19-viet-nam-lac-quan-hon-sau-tran-thua-indonesia-2026060722102718.htm",
+      "summary": "Diễn ra cùng lúc với trận đấu giữa Việt Nam và Indonesia tối 7-6, Myanmar đã đánh bại Timor-Leste 3-1, qua đó vươn lên vị trí hạng 3 bảng A, Giải U19 Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:06:08.116108+07:00",
+      "fetched": "2026-06-08T02:06:08.116200+07:00"
+    },
+    {
+      "id": "844d3559c346adec22e440d44ead2325",
+      "title": "Xem lại quả phạt đền tranh cãi của U19 Việt Nam trước U19 Indonesia",
+      "link": "https://tuoitre.vn/xem-lai-qua-phat-den-tranh-cai-cua-u19-viet-nam-truoc-u19-indonesia-20260607223840329.htm",
+      "summary": "U19 Việt Nam phải chịu quả phạt đền đầy nghiệt ngã trước U19 Indonesia ở phút 90.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:06:08.116006+07:00",
+      "fetched": "2026-06-08T02:06:08.116099+07:00"
+    },
+    {
+      "id": "a62327562cde3917f00b1958da515c42",
+      "title": "Pha đá phạt ghi bàn của U19 Việt Nam vào lưới U19 Indonesia",
+      "link": "https://tuoitre.vn/pha-da-phat-ghi-ban-cua-u19-viet-nam-vao-luoi-u19-indonesia-20260607225855884.htm",
+      "summary": "Khi đang bế tắc tìm bàn gỡ trước chủ nhà Indonesia, phạt góc lại trở thành niềm hy vọng của các “chiến binh sao vàng”. Từ tình huống phạt góc ở phút 73, đội trưởng Quốc Khánh bật cao đánh đầu uy lực để gỡ hòa 1-1 cho U19 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:06:08.115908+07:00",
+      "fetched": "2026-06-08T02:06:08.115998+07:00"
+    },
+    {
+      "id": "73c1a178f4d67e42d4d283d9f2baf991",
+      "title": "U19 Việt Nam sẽ bị loại nếu Thái Lan - Malaysia 'bắt tay nhau'",
+      "link": "https://tuoitre.vn/u19-viet-nam-se-bi-loai-neu-thai-lan-malaysia-bat-tay-nhau-20260607222850867.htm",
+      "summary": "Trận thua trước Indonesia đã đẩy U19 Việt Nam vào thế bị động trong cuộc đua giành vé vào bán kết ở Giải U19 Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:06:08.115809+07:00",
+      "fetched": "2026-06-08T02:06:08.115900+07:00"
+    },
+    {
+      "id": "a8616887b479d53e0325c67d847275a5",
+      "title": "EVN thông tin rõ về khoản lợi nhuận hợp nhất toàn tập đoàn và tiền gửi ngân hàng",
+      "link": "https://tuoitre.vn/evn-thong-tin-ro-ve-khoan-loi-nhuan-hop-nhat-toan-tap-doan-va-tien-gui-ngan-hang-20260607223822031.htm",
+      "summary": "Tối muộn ngày 7-6, Tập đoàn Điện lực Việt Nam (EVN) đã có thông tin liên quan tới báo cáo tài chính năm 2025 được tập đoàn này công bố trước đó với các khoản lỗ, lãi và tiền gửi lớn tại ngân hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:06:08.115706+07:00",
+      "fetched": "2026-06-08T02:06:08.115800+07:00"
+    },
+    {
+      "id": "14d73389a7f74032a170599f1dcb6c72",
+      "title": "Hạ cả Quang Dương và Lý Hoàng Nam, Phúc Huỳnh xứng danh số 1 đánh đơn pickleball",
+      "link": "https://tuoitre.vn/ha-ca-quang-duong-va-ly-hoang-nam-phuc-huynh-xung-danh-so-1-danh-don-pickleball-20260607235547781.htm",
+      "summary": "Phúc Huỳnh lên ngôi vô địch đánh đơn ở Giải pickleball Michelob Ultra châu Á 2026 sau khi vượt qua hai đối thủ sừng sỏ là Quang Dương và Lý Hoàng Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:06:08.115594+07:00",
+      "fetched": "2026-06-08T02:06:08.115697+07:00"
+    },
+    {
+      "id": "5b9e7009c66867a8452c221c8a5edcb3",
+      "title": "Trung Đông tối 7-6: Ông Trump phản hồi những lời kêu gọi từ Iran",
+      "link": "https://tuoitre.vn/trung-dong-toi-7-6-ong-trump-phan-hoi-nhung-loi-keu-goi-tu-iran-20260607232406933.htm",
+      "summary": "Tổng thống Mỹ nhấn mạnh thỏa thuận phải được đạt trước khi tính chuyện gỡ phong tỏa tài sản Iran, đồng thời yêu cầu Israel tấn công Lebanon \"có chọn lọc hơn\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:06:08.115468+07:00",
+      "fetched": "2026-06-08T02:06:08.115584+07:00"
+    },
+    {
+      "id": "188df299a5608632e3ad1410c356daa5",
+      "title": "ChatGPT sẽ được 'đập đi xây lại' trong vài tuần tới",
+      "link": "https://tuoitre.vn/chatgpt-se-duoc-dap-di-xay-lai-trong-vai-tuan-toi-20260607224559533.htm",
+      "summary": "OpenAI sẽ cải tổ hoàn toàn lại ChatGPT theo hướng ưu tiên AI tác nhân hơn, với hy vọng cải thiện doanh thu để hướng đến IPO.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:06:08.115345+07:00",
+      "fetched": "2026-06-08T02:06:08.115458+07:00"
+    },
+    {
+      "id": "300f87e183f87be5f0662adb47312adb",
+      "title": "Thời tiết hôm nay 8-6: Bắc Bộ mưa lớn từ chiều nay, Trung Bộ nắng nóng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-8-6-bac-bo-mua-lon-tu-chieu-nay-trung-bo-nang-nong-20260607173402823.htm",
+      "summary": "Do ảnh hưởng không khí lạnh giữa mùa hè, thời tiết Bắc Bộ ngày nắng nhưng chiều tối bắt đầu có mưa to. Trung Bộ nắng nóng. Nam Bộ ngày nắng, chiều mưa dông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:06:08.115104+07:00",
+      "fetched": "2026-06-08T02:06:08.115331+07:00"
+    },
     {
       "id": "49ff16689a3ffcbb892f4993460ac8cd",
       "title": "Xác định các nhà vô địch giải đấu mệnh danh 'World Cup billiards Việt Nam'",
@@ -153,6 +263,136 @@ window.newsData_2026_06_08 = {
       "fetched": "2026-06-08T00:05:12.064121+07:00"
     },
     {
+      "id": "63780bbf2f182af0a16f499a9beedd0d",
+      "title": "Cực nóng: Eriksen lại đổ gục xuống sân, ám ảnh đột quỵ ở EURO 2020 hiện về",
+      "link": "https://thanhnien.vn/cuc-nong-eriksen-lai-do-guc-xuong-san-am-anh-dot-quy-o-euro-2020-hien-ve-185260608014313658.htm",
+      "summary": "Trận đấu giữa Đan Mạch và Ukraine bị hoãn do 'lão tướng' Christian Eriksen đột quỵ, phải rời sân cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T18:45:00+07:00",
+      "fetched": "2026-06-08T02:06:07.115808+07:00"
+    },
+    {
+      "id": "ec71931d07c3a764fa93886faea59b91",
+      "title": "Quảng Ninh nghìn năm thăng trầm",
+      "link": "https://vnexpress.net/quang-ninh-nghin-nam-thang-tram-5082993.html",
+      "summary": "Để có được thực thể hành chính thống nhất và phát triển như hiện nay, Quảng Ninh đã trải qua hàng nghìn năm thăng trầm với nhiều lần sáp nhập, đổi tên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T18:15:17+07:00",
+      "fetched": "2026-06-08T02:06:04.259397+07:00"
+    },
+    {
+      "id": "a847cc970007b1232160f5dc9fa9e76a",
+      "title": "5 đồ uống mùa hè tốt cho thận",
+      "link": "https://vnexpress.net/5-do-uong-mua-he-tot-cho-than-5082755.html",
+      "summary": "Một số đồ uống trong mùa hè như nước chanh, nước dừa và trà xanh chứa chất chống oxy hóa hoặc điện giải, hỗ trợ giảm viêm và góp phần bảo vệ thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T18:00:00+07:00",
+      "fetched": "2026-06-08T02:06:04.259582+07:00"
+    },
+    {
+      "id": "b0fef9f3095898ca4956a4121635e3de",
+      "title": "Người Anh 'quay lưng' với bằng đại học",
+      "link": "https://vnexpress.net/nguoi-anh-quay-lung-voi-bang-dai-hoc-5082095.html",
+      "summary": "Số người Anh tin vào giá trị của bằng đại học giảm một nửa sau 8 năm, khi thị trường việc làm ảm đạm và gánh nặng nợ nần đè nặng lên sinh viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:45:12+07:00",
+      "fetched": "2026-06-08T02:06:04.259732+07:00"
+    },
+    {
+      "id": "dee4f3feb19d8e66904b2139c8fe9161",
+      "title": "Tàu hỏa tông xe ben, tài xế thoát nạn trong gang tấc",
+      "link": "https://vnexpress.net/tau-hoa-tong-xe-ben-tai-xe-thoat-nan-trong-gang-tac-5083001.html",
+      "summary": "Ba giây trước khi tàu hỏa đâm trúng xe tải đang mắc kẹt trên đường ray ở xã Thường Tín, tài xế đã kịp nhảy ra ngoài, tối 7/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:17:35+07:00",
+      "fetched": "2026-06-08T02:06:04.259864+07:00"
+    },
+    {
+      "id": "de1a8e840625be14c652b4bf115aadbc",
+      "title": "Nghiên cứu mới phát hiện omega-3 có thể giảm một nửa nguy cơ ung thư tụy",
+      "link": "https://thanhnien.vn/nghien-cuu-moi-phat-hien-omega-3-co-the-giam-mot-nua-nguy-co-ung-thu-tuy-185260607234911257.htm",
+      "summary": "Nghiên cứu mới cho thấy omega-3 có thể giúp giảm tới 50% nguy cơ ung thư tụy. Các nhà khoa học phát hiện loại axit béo này có khả năng ức chế sự phát triển của khối u, mở ra triển vọng mới trong phòng ngừa bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:15:00+07:00",
+      "fetched": "2026-06-08T02:06:07.115961+07:00"
+    },
+    {
+      "id": "b81cd56224a320125c6b76ecbefa6f8d",
+      "title": "4 tác động giúp giảm cân của sữa đậu nành",
+      "link": "https://thanhnien.vn/4-tac-dong-giup-giam-can-cua-sua-dau-nanh-185260607192434545.htm",
+      "summary": "Giảm cân không chỉ là cắt giảm thực phẩm mà còn cần lựa chọn thực phẩm phù hợp. Sữa đậu nành được đánh giá cao nhờ giàu protein, ít chất béo và chứa nhiều hợp chất thực vật có lợi cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:10:00+07:00",
+      "fetched": "2026-06-08T02:06:07.116094+07:00"
+    },
+    {
+      "id": "faf1adf41567b83470ad2d50c83e747f",
+      "title": "Quan hệ tình dục mỗi ngày để tăng sinh lý?",
+      "link": "https://vnexpress.net/quan-he-tinh-duc-moi-ngay-de-tang-sinh-ly-5082798.html",
+      "summary": "Tôi thấy nhiều người nói nam giới phải quan hệ tình dục hàng ngày mới khỏe, tăng cường sinh lý và bản lĩnh, liệu có đúng? (Tú, 30 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:03:00+07:00",
+      "fetched": "2026-06-08T02:06:04.259995+07:00"
+    },
+    {
+      "id": "0aa240165b855aeacebe210e871d5a95",
+      "title": "Nhà phố lệch tầng 100 m2 thiết kế ngập sáng",
+      "link": "https://vnexpress.net/nha-pho-lech-tang-100-m2-thiet-ke-ngap-sang-5081524.html",
+      "summary": "Căn nhà tại Đắk Lắk tổ chức công năng theo từng tầng, kết hợp giếng trời dọc cầu thang để tăng sáng, thông gió và kết nối sinh hoạt gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:03:00+07:00",
+      "fetched": "2026-06-08T02:06:04.260127+07:00"
+    },
+    {
+      "id": "2fb39b6f488c2eaa70a2da4663b2e667",
+      "title": "Tuần mới mở cánh cửa vàng cho 4 con giáp giàu sang, phát đạt",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-tuan-moi-mo-canh-cua-vang-cho-4-con-giap-giau-sang-phat-dat-5082480.html",
+      "summary": "Tuần mới (8/6 - 14/6) mang theo những nguồn năng lượng tích cực, mở ra nhiều cơ hội để bứt phá trên cả phương diện tài chính lẫn sự nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:01:00+07:00",
+      "fetched": "2026-06-08T02:06:04.260252+07:00"
+    },
+    {
+      "id": "3efb91938b16abfde687ff5c781854be",
+      "title": "Bảo hiểm cho tài xế, ai lo?",
+      "link": "https://vnexpress.net/bao-hiem-cho-tai-xe-ai-lo-5082989.html",
+      "summary": "Tôi thấy nụ cười nhẹ của tài xế qua gương chiếu hậu khi anh nói: “Đề xuất cho vui, ai người ta đóng bảo hiểm cho đối tác?”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:00:44+07:00",
+      "fetched": "2026-06-08T02:06:04.260374+07:00"
+    },
+    {
+      "id": "1336078a77e82e663f65ed0b8b599f0a",
+      "title": "Ông Trump từ chối 'phá băng' tài sản của Iran trước khi đạt thỏa thuận",
+      "link": "https://vnexpress.net/ong-trump-tu-choi-pha-bang-tai-san-cua-iran-truoc-khi-dat-thoa-thuan-5082991.html",
+      "summary": "Tổng thống Trump tuyên bố không giải phóng tài sản đóng băng của Iran trước khi đạt thỏa thuận, dù Tehran nói đây là điều kiện khơi thông đàm phán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:00:27+07:00",
+      "fetched": "2026-06-08T02:06:04.260505+07:00"
+    },
+    {
+      "id": "1336078a77e82e663f65ed0b8b599f0a",
+      "title": "Ông Trump từ chối 'phá băng' tài sản của Iran trước khi đạt thỏa thuận",
+      "link": "https://vnexpress.net/ong-trump-tu-choi-pha-bang-tai-san-cua-iran-truoc-khi-dat-thoa-thuan-5082991.html",
+      "summary": "Tổng thống Trump tuyên bố không giải phóng tài sản đóng băng của Iran trước khi đạt thỏa thuận, dù Tehran nói đây là điều kiện khơi thông đàm phán.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-07T17:00:27+07:00",
+      "fetched": "2026-06-08T02:06:09.683562+07:00"
+    },
+    {
       "id": "bad0f0ec26fe3e8652df127f2d1bd6c1",
       "title": "CLB Becamex TP.HCM chia tay V-League, lời xin lỗi cay đắng",
       "link": "https://thanhnien.vn/clb-becamex-tphcm-chia-tay-v-league-185260607212923.htm",
@@ -171,6 +411,96 @@ window.newsData_2026_06_08 = {
       "category": "Tổng hợp",
       "published": "2026-06-07T17:00:00+07:00",
       "fetched": "2026-06-08T00:05:11.402864+07:00"
+    },
+    {
+      "id": "3bf288defd42478ff015ccfbbbe14f86",
+      "title": "Đề xuất bỏ kiểm tra nghiệm thu phòng cháy chữa cháy với công trình, phương tiện",
+      "link": "https://vnexpress.net/de-xuat-bo-kiem-tra-nghiem-thu-phong-chay-chua-chay-voi-cong-trinh-phuong-tien-5082985.html",
+      "summary": "Theo Bộ Công an, thẩm định thiết kế và kiểm tra nghiệm thu phòng cháy chữa cháy bản chất là cùng một mục đích, làm cả hai là không cần thiết, gây tốn kém, lãng phí thời gian và nguồn lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:00:00+07:00",
+      "fetched": "2026-06-08T02:06:04.260658+07:00"
+    },
+    {
+      "id": "2dba014f07c200efc80b36e5f30b0766",
+      "title": "Giá vàng tuần này dự báo tiếp tục giảm",
+      "link": "https://vnexpress.net/gia-vang-tuan-nay-du-bao-tiep-tuc-giam-5082981.html",
+      "summary": "Phần lớn chuyên gia Phố Wall dự báo vàng thế giới tiếp tục lao dốc sau khi giảm hơn 210 USD trong tuần trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:00:00+07:00",
+      "fetched": "2026-06-08T02:06:04.260788+07:00"
+    },
+    {
+      "id": "c1f9360cf11b2d11d94def2664ae8316",
+      "title": "Tránh xe đi sai, đâm vào nhà bên đường, tôi có phải đền?",
+      "link": "https://vnexpress.net/tranh-xe-di-sai-dam-vao-nha-ben-duong-toi-co-phai-den-5082978.html",
+      "summary": "Tôi gặp xe đi sai nên phải đánh lái lên vỉa hè để tránh gây tai nạn về người, nhưng lại làm hỏng đồ đạc của nhà ven đường, có phải đền không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:00:00+07:00",
+      "fetched": "2026-06-08T02:06:04.260916+07:00"
+    },
+    {
+      "id": "de4e52296d79a8d185c7f4ec6685a016",
+      "title": "Bạn trai chia tay vì tôi còn trong trắng",
+      "link": "https://vnexpress.net/ban-trai-chia-tay-vi-toi-con-trong-trang-5082953.html",
+      "summary": "Anh nói biết tôi còn trong trắng nên không muốn gây áp lực hay làm trái mong muốn của tôi, nhưng cũng không thể chờ đợi quá lâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:00:00+07:00",
+      "fetched": "2026-06-08T02:06:04.261034+07:00"
+    },
+    {
+      "id": "2388bba36832fd378ed8f41fe65a5a10",
+      "title": "Chuyến rời bản gần 1.000 km đi cứu con của ông bố người Mông",
+      "link": "https://vnexpress.net/chuyen-roi-ban-gan-1-000-km-di-cuu-con-cua-ong-bo-nguoi-mong-5082886.html",
+      "summary": "9 tháng qua, Tráng A Phù từ Lào Cai vào Từ Lào Cai vào Huế, bám trụ hành lang bệnh viện để nuôi hy vọng chữa ung thư cho con trai 15 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:00:00+07:00",
+      "fetched": "2026-06-08T02:06:04.261158+07:00"
+    },
+    {
+      "id": "b5565abae480428909690a35f5fee5ae",
+      "title": "Tôi ở Bắc Ninh nhưng rất ngại lái ôtô 20 km đi Hà Nội",
+      "link": "https://vnexpress.net/toi-o-bac-ninh-nhung-rat-ngai-lai-oto-20-km-di-ha-noi-5082854.html",
+      "summary": "Dù nhà sát bên Hà Nội nhưng mỗi lần vào trung tâm là tôi lại đắn đo bài toán nên đi bằng gì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:00:00+07:00",
+      "fetched": "2026-06-08T02:06:04.261275+07:00"
+    },
+    {
+      "id": "2dba014f07c200efc80b36e5f30b0766",
+      "title": "Giá vàng tuần này dự báo tiếp tục giảm",
+      "link": "https://vnexpress.net/gia-vang-tuan-nay-du-bao-tiep-tuc-giam-5082981.html",
+      "summary": "Phần lớn chuyên gia Phố Wall dự báo vàng thế giới tiếp tục lao dốc sau khi giảm hơn 210 USD trong tuần trước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-07T17:00:00+07:00",
+      "fetched": "2026-06-08T02:06:10.575821+07:00"
+    },
+    {
+      "id": "1605e6fe86a9033590f1c839bdb4fac8",
+      "title": "Cuộc đua phát triển máy tính AI làm việc thay con người",
+      "link": "https://vnexpress.net/cuoc-dua-phat-trien-may-tinh-ai-lam-viec-thay-con-nguoi-5081991.html",
+      "summary": "Nvidia, Microsoft và Google đang phát triển công nghệ mới cho phép máy tính sử dụng tác nhân AI để thay thế con người làm những công việc phức tạp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-07T17:00:00+07:00",
+      "fetched": "2026-06-08T02:06:13.431170+07:00"
+    },
+    {
+      "id": "668ada1c3f89ab660bb29c555c880bdf",
+      "title": "Mbappe, Cherki bất bình vì tuyển Pháp quảng cáo cá cược",
+      "link": "https://vnexpress.net/mbappe-cherki-bat-binh-vi-tuyen-phap-quang-cao-ca-cuoc-5082973.html",
+      "summary": "Việc một hãng cá cược sử dụng hình ảnh của một số tuyển thủ Pháp như Kylian Mbappe và Rayan Cherki để quảng cáo theo thỏa thuận với LĐBĐ nước này (FFF), đã vấp phải phản ứng gay gắt từ chính những người trong cuộc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-07T17:00:00+07:00",
+      "fetched": "2026-06-08T02:06:14.956245+07:00"
     },
     {
       "id": "595d8867a33ff1bcd1448acec52f158c",
