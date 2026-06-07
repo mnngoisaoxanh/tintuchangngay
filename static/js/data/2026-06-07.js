@@ -1,7 +1,157 @@
 window.newsData_2026_06_07 = {
   "date": "2026-06-07",
-  "lastUpdated": "2026-06-07T14:47:14.258027+07:00",
+  "lastUpdated": "2026-06-07T17:21:56.294052+07:00",
   "articles": [
+    {
+      "id": "1e92359ad9f396baf28f33b5ff4da582",
+      "title": "Quảng Ngãi hứng đỉnh điểm nắng nóng, có nơi chạm ngưỡng 41 độ C",
+      "link": "https://tuoitre.vn/quang-ngai-hung-dinh-diem-nang-nong-co-noi-cham-nguong-41-do-c-20260607142734155.htm",
+      "summary": "Quảng Ngãi đang chịu đợt nắng nóng gay gắt nhất từ đầu năm đến nay. Nhiều khu vực đồng bằng phía đông của tỉnh được dự báo chạm ngưỡng 41 độ C trong hai ngày 7 và 8-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.129277+07:00",
+      "fetched": "2026-06-07T17:21:49.129398+07:00"
+    },
+    {
+      "id": "ce58a224340d4203975d6c858c06dfba",
+      "title": "'Cái bẫy' bất động sản của châu Á",
+      "link": "https://tuoitre.vn/cai-bay-bat-dong-san-cua-chau-a-20260607141528489.htm",
+      "summary": "An ninh tài chính của cả một thế hệ khi về hưu bị gắn chặt với giá nhà, đến mức giá nhà gần như không được phép giảm. Và mối liên hệ này có trở thành \"cái bẫy\" hay không tùy thuộc vào mức độ chủ động quản lý của mỗi chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.129144+07:00",
+      "fetched": "2026-06-07T17:21:49.129234+07:00"
+    },
+    {
+      "id": "e5aa59a3ca20cb7addd09250f6c83e1b",
+      "title": "Ngân hàng cho con: Đồng hành cùng trẻ trong hành trình tài chính đầu đời",
+      "link": "https://tuoitre.vn/ngan-hang-cho-con-dong-hanh-cung-tre-trong-hanh-trinh-tai-chinh-dau-doi-20260607123906557.htm",
+      "summary": "Khi thanh toán không tiền mặt đang dần trở thành mặc định trong nền kinh tế số, nhiều phụ huynh bắt đầu đối mặt với một câu hỏi mới: làm sao để con hiểu giá trị của tiền bạc khi mọi giao dịch chỉ còn là một cú chạm trên màn hình?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.129046+07:00",
+      "fetched": "2026-06-07T17:21:49.129136+07:00"
+    },
+    {
+      "id": "4ba0d22498586e49d76176c58bfce5f3",
+      "title": "Làm rơi bùn đất ra đường lúc nửa đêm ở Hà Nội, tài xế xe tải bị phạt 3 triệu đồng",
+      "link": "https://tuoitre.vn/lam-roi-bun-dat-ra-duong-luc-nua-dem-o-ha-noi-tai-xe-xe-tai-bi-phat-3-trieu-dong-20260607144329985.htm",
+      "summary": "Làm việc với cơ quan công an, anh T. cho biết khi đến khu vực trên, do phát hiện vật cản trên đường nên phanh gấp, khiến bùn đất phía sau dồn lên làm bật tụ ben và rơi xuống mặt đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.128944+07:00",
+      "fetched": "2026-06-07T17:21:49.129038+07:00"
+    },
+    {
+      "id": "51db3447cb47043e49c31dd962560487",
+      "title": "Hàn Quốc đề cử nữ Thủ tướng dẫn dắt đất nước trong thời đại AI",
+      "link": "https://tuoitre.vn/han-quoc-de-cu-nu-thu-tuong-dan-dat-dat-nuoc-trong-thoi-dai-ai-20260607142825261.htm",
+      "summary": "Nếu được Quốc hội phê chuẩn, bà Han Seong Sook sẽ trở thành nữ Thủ tướng đầu tiên của Hàn Quốc sau hai thập niên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.128841+07:00",
+      "fetched": "2026-06-07T17:21:49.128935+07:00"
+    },
+    {
+      "id": "5fa1c9d1d03d62d18a81a1d86bf79f9c",
+      "title": "'Khu vườn sách' dưới tán cây xanh giữa trung tâm TP.HCM",
+      "link": "https://tuoitre.vn/khu-vuon-sach-duoi-tan-cay-xanh-giua-trung-tam-tp-hcm-20260607145258387.htm",
+      "summary": "Không chỉ là nơi đọc sách, Book Garden 21 được kỳ vọng trở thành điểm hẹn văn hóa, nơi người trẻ có thể sống chậm lại, gặp gỡ và nuôi dưỡng tình yêu với sách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.128741+07:00",
+      "fetched": "2026-06-07T17:21:49.128833+07:00"
+    },
+    {
+      "id": "c82397b310f552ccfe9fff3871033323",
+      "title": "Cựu Tổng thống Mỹ Biden bị ung thư di căn đến xương",
+      "link": "https://tuoitre.vn/cuu-tong-thong-my-biden-bi-ung-thu-di-can-den-xuong-20260607144733688.htm",
+      "summary": "Cựu Đệ nhất phu nhân Mỹ Jill Biden cho biết ông Biden sẽ phải sống chung với căn bệnh ung thư tuyến tiền liệt đến hết đời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.128638+07:00",
+      "fetched": "2026-06-07T17:21:49.128732+07:00"
+    },
+    {
+      "id": "0b03e8b2b930c8ebcaaecb1e676a6bae",
+      "title": "Prudential Việt Nam giới thiệu hệ sinh thái bảo hiểm số tiện lợi",
+      "link": "https://tuoitre.vn/prudential-viet-nam-gioi-thieu-he-sinh-thai-bao-hiem-so-tien-loi-20260607135943845.htm",
+      "summary": "Trong hàng loạt các gian hàng tham gia Lễ hội Tài chính số 2026, gian hàng của Prudential Việt Nam được xem là \"hàng hiếm\" bởi là doanh nghiệp bảo hiểm nhân thọ duy nhất đồng hành cùng chương trình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.128527+07:00",
+      "fetched": "2026-06-07T17:21:49.128629+07:00"
+    },
+    {
+      "id": "9f52871c66374cef9bbaf8031d57ecea",
+      "title": "Grey D 'đánh úp' hàng chục nghìn khán giả bằng ca khúc mới 'toidaidot'",
+      "link": "https://tuoitre.vn/grey-d-danh-up-hang-chuc-nghin-khan-gia-bang-ca-khuc-moi-toidaidot-20260607144011256.htm",
+      "summary": "Tối 6-6, tại E-Concert do báo Tuổi Trẻ tổ chức, Grey D bất ngờ dành tặng khán giả một món quà đặc biệt: sân khấu live đầu tiên của toidaidot - đĩa đơn mở đường cho side B Màn Đêm trong album Ánh sáng - Màn đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.128371+07:00",
+      "fetched": "2026-06-07T17:21:49.128515+07:00"
+    },
+    {
+      "id": "668b96a34e7a83181e500071cb33b535",
+      "title": "Công viên đầy rác, mất mỹ quan vì chậm bàn giao cho địa phương",
+      "link": "https://tuoitre.vn/cong-vien-day-rac-mat-my-quan-vi-cham-ban-giao-cho-dia-phuong-20260607133011416.htm",
+      "summary": "Công viên Phù Đổng ở phường Tân An, tỉnh Đắk Lắk nhiều tháng nay nhếch nhác, ngập rác. Lý do là dự án chậm bàn giao cho địa phương quản lý vì vướng thủ tục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.128165+07:00",
+      "fetched": "2026-06-07T17:21:49.128350+07:00"
+    },
+    {
+      "id": "4fc6c00fff59558daa06cd8b37abe2ab",
+      "title": "Nha Trang tăng cường rà soát, xét nghiệm ma túy, gồm cả người nước ngoài",
+      "link": "https://tuoitre.vn/nha-trang-tang-cuong-ra-soat-xet-nghiem-ma-tuy-gom-ca-nguoi-nuoc-ngoai-20260607143603699.htm",
+      "summary": "Công an các phường ở Nha Trang (tỉnh Khánh Hòa) đang ra quân, rà soát xét nghiệm ma túy trong cộng đồng, tại các khách sạn, khu dân cư và người nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.128057+07:00",
+      "fetched": "2026-06-07T17:21:49.128156+07:00"
+    },
+    {
+      "id": "cf115f2e0e14b24d31e3ceac4ae6c0b7",
+      "title": "E-Concert bùng nổ cảm xúc tại Ngày Tài chính số 2026",
+      "link": "https://tuoitre.vn/e-concert-bung-no-cam-xuc-tai-ngay-tai-chinh-so-2026-20260607125720041.htm",
+      "summary": "E-Concert bùng nổ cảm xúc tại Ngày Tài chính số 2026",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.127947+07:00",
+      "fetched": "2026-06-07T17:21:49.128048+07:00"
+    },
+    {
+      "id": "cd2e4a6c3c64beb45e634d5842556d7b",
+      "title": "Kẻ thù hoàng gia của tôi 'bá chủ' rating",
+      "link": "https://tuoitre.vn/ke-thu-hoang-gia-cua-toi-ba-chu-rating-20260607124558616.htm",
+      "summary": "Diễn biến mới nhất trong tập 10 giúp Kẻ thù hoàng gia của tôi tiếp tục dẫn đầu rating tại Hàn Quốc. Tập phim cũng gây chú ý mạnh với cảnh nhân vật của Lim Ji Yeon gặp tai nạn xe tải bí ẩn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.127829+07:00",
+      "fetched": "2026-06-07T17:21:49.127937+07:00"
+    },
+    {
+      "id": "9390badad0f60bc5b0ce8d2a55816b49",
+      "title": "Trải nghiệm quét mã QR thanh toán xuyên biên giới tại VNPT Money và Visa",
+      "link": "https://tuoitre.vn/trai-nghiem-quet-ma-qr-thanh-toan-xuyen-bien-gioi-tai-vnpt-money-va-visa-2026060715233568.htm",
+      "summary": "VNPT Money và Visa đã đánh dấu bước tiến hợp tác chiến lược nổi bật với tính năng Visa Pay, mang đến giải pháp quét mã QR thanh toán xuyên biên giớitiện lợi mà không cần đổi tiền mặt hay cài thêm ứng dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.127700+07:00",
+      "fetched": "2026-06-07T17:21:49.127819+07:00"
+    },
+    {
+      "id": "31b242fbae6f632893aa15da4d7a0f15",
+      "title": "Thủ tướng Timor-Leste đến Hà Nội, bắt đầu thăm chính thức Việt Nam",
+      "link": "https://tuoitre.vn/thu-tuong-timor-leste-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-20260607154636018.htm",
+      "summary": "Chuyến thăm Việt Nam của Thủ tướng Timor-Leste Kay Rala Xanana Gusmão diễn ra trong 4 ngày, bao gồm việc tham dự Diễn đàn Tương lai ASEAN lần thứ 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T17:21:49.127455+07:00",
+      "fetched": "2026-06-07T17:21:49.127686+07:00"
+    },
     {
       "id": "65c71672a368733eef8550f5a509044a",
       "title": "Ông Trump ân xá cho cựu nghị sĩ Đảng Cộng hòa bị án tù dưới thời ông Biden",
@@ -153,6 +303,116 @@ window.newsData_2026_06_07 = {
       "fetched": "2026-06-07T14:47:06.804780+07:00"
     },
     {
+      "id": "82917af85757f67bfbf3d2fd4eb464ee",
+      "title": "Hơn 1.000 giảng viên, sinh viên cùng múa Saravan xác lập kỷ lục",
+      "link": "https://thanhnien.vn/hon-1000-giang-vien-sinh-vien-cung-mua-saravan-xac-lap-ky-luc-185260607155453727.htm",
+      "summary": "Hơn 1.000 giảng viên, sinh viên Đại học Trà Vinh đã cùng đồng diễn điệu múa Saravan truyền thống của đồng bào Khmer Nam bộ, góp phần xác lập kỷ lục \"Tinh Hoa Việt\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:21:00+07:00",
+      "fetched": "2026-06-07T17:21:48.119655+07:00"
+    },
+    {
+      "id": "ae6580be78a17063563c06a7be2a08f8",
+      "title": "Gỡ nút thắt nông dân sản xuất giỏi, nông sản 'tắc đầu ra'",
+      "link": "https://thanhnien.vn/go-nut-that-nong-dan-san-xuat-gioi-nong-san-tac-dau-ra-185260607140244656.htm",
+      "summary": "Công tác Hội và phong trào nông dân nhiệm kỳ 2026 - 2031 cần tăng tốc chuyển đổi số để giải quyết được nghịch lý nông dân sản xuất rất giỏi nhưng sản phẩm, nông sản làm ra tiêu thụ rất khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:12:00+07:00",
+      "fetched": "2026-06-07T17:21:48.119813+07:00"
+    },
+    {
+      "id": "eb4d1d148e88e5c34b8e00090afd8e52",
+      "title": "Xổ số miền Nam ngày 7 tháng 6: Người trúng số đài Đà Lạt nhận tiền mặt",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-7-thang-6-nguoi-trung-so-dai-da-lat-nhan-tien-mat-18526060716194631.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 7 tháng 6, một người đàn ông trúng số đài Đà Lạt tới đại lý đổi thưởng, nhận tiền mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:11:00+07:00",
+      "fetched": "2026-06-07T17:21:48.119949+07:00"
+    },
+    {
+      "id": "75d4506fe81a605b094ba40746d63def",
+      "title": "Vi phạm nồng độ cồn, khác biệt giữa phạt tiền và xử lý hình sự",
+      "link": "https://thanhnien.vn/vi-pham-nong-do-con-khac-biet-giua-phat-tien-va-xu-ly-hinh-su-185260607145657159.htm",
+      "summary": "Với xử phạt hành chính, vi phạm nồng độ cồn sẽ được xác định qua máy đo chuyên dụng của CSGT. Còn với xử lý hình sự, cần chứng minh mối quan hệ trực tiếp giữa nồng độ cồn và việc sử dụng rượu bia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:10:00+07:00",
+      "fetched": "2026-06-07T17:21:48.120078+07:00"
+    },
+    {
+      "id": "fe1bd5587cc260a359175b793ba594a7",
+      "title": "Ra mắt Trung tâm chăm sóc sức khỏe RECOVER",
+      "link": "https://thanhnien.vn/ra-mat-trung-tam-cham-soc-suc-khoe-recover-185260607171134868.htm",
+      "summary": "Ngày 7.6, Trung tâm chăm sóc sức khỏe RECOVER chính thức khai trương và đi vào hoạt động tại TP.HCM, mở ra mô hình chăm sóc sức khỏe và phục hồi chuyên sâu theo định hướng kết hợp giữa y học hiện đại và y học cổ truyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:08:00+07:00",
+      "fetched": "2026-06-07T17:21:48.120202+07:00"
+    },
+    {
+      "id": "9b5ab1657efb5ef5c6f4d677d6cb9b7c",
+      "title": "Đồng Nai: Công an giúp người phụ nữ tìm lại túi xách chứa gần 1 cây vàng",
+      "link": "https://thanhnien.vn/dong-nai-cong-an-giup-nguoi-phu-nu-tim-lai-tui-xach-chua-gan-1-cay-vang-185260607165000142.htm",
+      "summary": "Vô tình rơi mất túi xách chứa gần 1 cây vàng cùng tiền mặt và điện thoại, người phụ nữ bất ngờ và vui mừng khi được công an giúp tìm lại chỉ sau 4 giờ trình báo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:07:00+07:00",
+      "fetched": "2026-06-07T17:21:48.120348+07:00"
+    },
+    {
+      "id": "a2ebd1bd2c15ac7de3f61cbadf82269c",
+      "title": "Toàn cảnh 17h: Bí mật sức khỏe ẩn sau từng nhóm máu | Cảnh báo mưa lớn khắp 18 tỉnh thành",
+      "link": "https://thanhnien.vn/toan-canh-17h-bi-mat-suc-khoe-an-sau-tung-nhom-mau-canh-bao-mua-lon-khap-18-tinh-thanh-185260607155828399.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:00:00+07:00",
+      "fetched": "2026-06-07T17:21:48.120472+07:00"
+    },
+    {
+      "id": "927ec380629d07f8e85ff3a08600984c",
+      "title": "Từ SCAD đến NCAD9: Hành trình khẳng định của Trioderma trong lĩnh vực dược mỹ phẩm Việt",
+      "link": "https://thanhnien.vn/tu-scad-den-ncad9-hanh-trinh-khang-dinh-cua-trioderma-trong-linh-vuc-duoc-my-pham-viet-185260607170710729.htm",
+      "summary": "Trong dòng chảy phát triển của ngành da liễu thẩm mỹ Việt Nam, hành trình xây dựng thương hiệu nội địa có thể đứng vững và nhận được sự tín nhiệm từ các chuyên gia đầu ngành là một minh chứng rõ nét cho chất lượng và tâm huyết của Trioderma. Trioderma - dược mỹ phẩm được Chuyên da gia liễu khuyên dù...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:59:00+07:00",
+      "fetched": "2026-06-07T17:21:48.120601+07:00"
+    },
+    {
+      "id": "463cdb5c4b4cc3d8f2f861619855b910",
+      "title": "Công an cảnh báo điện thoại hiện đúng tên người thân vẫn có thể là cuộc gọi lừa đảo",
+      "link": "https://thanhnien.vn/cong-an-canh-bao-dien-thoai-hien-dung-ten-nguoi-than-van-co-the-la-cuoc-goi-lua-dao-185260607105423665.htm",
+      "summary": "Công an cảnh báo người dân không nên tin tuyệt đối vào số điện thoại hay tên hiển thị trên màn hình, bởi tội phạm công nghệ cao hiện nay có thể giả mạo số điện thoại, tên định danh và cả giọng nói bằng AI để thực hiện các cuộc gọi lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:56:00+07:00",
+      "fetched": "2026-06-07T17:21:48.120728+07:00"
+    },
+    {
+      "id": "731219c9761a474093464c799d6266c9",
+      "title": "Phát hiện thiết bị kích sóng trái phép ở biên giới Móng Cái",
+      "link": "https://thanhnien.vn/phat-hien-thiet-bi-kich-song-trai-phep-o-bien-gioi-mong-cai-185260607162105591.htm",
+      "summary": "Các lực lượng chức năng đã phát hiện thiết bị kích sóng trái phép gần cửa khẩu quốc tế Móng Cái (Quảng Ninh), gây nhiễu mạng di động và ảnh hưởng hoạt động của các trạm phát sóng trong khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:49:00+07:00",
+      "fetched": "2026-06-07T17:21:48.120848+07:00"
+    },
+    {
+      "id": "9c76eade6d92a7b7557224ba22d98c9e",
+      "title": "Đội tuyển bóng chuyền nữ Việt Nam áp sát Thái Lan trên bảng xếp hạng thế giới",
+      "link": "https://thanhnien.vn/doi-tuyen-bong-chuyen-nu-viet-nam-ap-sat-thai-lan-tren-bang-xep-hang-the-gioi-185260607164154504.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Việt Nam chỉ còn kém đội tuyển Thái Lan 3 bậc trên bảng xếp hạng mới nhất của Liên đoàn Bóng chuyền thế giới (FIVB).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:43:00+07:00",
+      "fetched": "2026-06-07T17:21:48.120966+07:00"
+    },
+    {
       "id": "759f41eb9afb624aa1b659e8f5ed2358",
       "title": "Tin tức sáng 7-6: Tài khoản nhà đầu tư chứng khoán lập kỷ lục mới, vượt 13 triệu",
       "link": "https://tuoitre.vn/tin-tuc-sang-7-6-tai-khoan-nha-dau-tu-chung-khoan-lap-ky-luc-moi-vuot-13-trieu-20260606222649059.htm",
@@ -301,6 +561,216 @@ window.newsData_2026_06_07 = {
       "category": "Tổng hợp",
       "published": "2026-06-07T09:36:19.347018+07:00",
       "fetched": "2026-06-07T09:36:19.347269+07:00"
+    },
+    {
+      "id": "610382a39b8cd4f0f55ec493488061c1",
+      "title": "Diễn viên đóng Tiều Cái phim 'Thủy Hử' qua đời",
+      "link": "https://vnexpress.net/dien-vien-dong-tieu-cai-phim-thuy-hu-qua-doi-5082938.html",
+      "summary": "Nghệ sĩ Trung Quốc Trương Trị Trung, đóng \"Thủy Hử\" và \"Tam Quốc diễn nghĩa\", qua đời ở tuổi 70.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:19:29+07:00",
+      "fetched": "2026-06-07T17:21:45.058475+07:00"
+    },
+    {
+      "id": "de0ba8436e7cc2339378d8ad2a7ab97c",
+      "title": "Náo nức lễ rước sắc thần tại ngôi đình hơn 180 năm tuổi ở Khánh Hòa",
+      "link": "https://thanhnien.vn/nao-nuc-le-ruoc-sac-than-tai-ngoi-dinh-hon-180-nam-tuoi-o-khanh-hoa-185260607153922769.htm",
+      "summary": "Lễ hội rước sắc thần và cúng cầu an tại đình Đảnh Thạnh (xã Suối Hiệp, Khánh Hòa) thu hút đông đảo người dân địa phương tham gia. Đây là hoạt động văn hóa tín ngưỡng đặc sắc được tổ chức nhân dịp ngôi đình hơn 180 năm tuổi hoàn thành trùng tu, tôn tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:01:00+07:00",
+      "fetched": "2026-06-07T17:21:48.121084+07:00"
+    },
+    {
+      "id": "7441512c80559fc551d12210feecbdaf",
+      "title": "Cắt bao quy đầu có cải thiện sinh lý?",
+      "link": "https://vnexpress.net/cat-bao-quy-dau-co-cai-thien-sinh-ly-5082792.html",
+      "summary": "Tôi bị dài bao quy đầu nhưng vẫn sinh hoạt vợ chồng bình thường. Cắt bao quy đầu có thể kéo dài thời gian quan hệ hơn không? (Trọng Tín, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:00:00+07:00",
+      "fetched": "2026-06-07T17:21:45.058640+07:00"
+    },
+    {
+      "id": "4867d91c8ffe666b605e4559a7105d6b",
+      "title": "Xổ số miền Nam ngày 7 tháng 6 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-7-thang-6-ket-qua-xo-so-hom-nay-chu-nhat-18526060713082107.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 7 tháng 6; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 7.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:00:00+07:00",
+      "fetched": "2026-06-07T17:21:48.121199+07:00"
+    },
+    {
+      "id": "fea2866235726bfa14d187e1428c2fe8",
+      "title": "Ghi điểm cá tính riêng với những chiếc túi da độc bản",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ghi-diem-ca-tinh-rieng-voi-nhung-chiec-tui-da-doc-ban-185260606184019765.htm",
+      "summary": "Từ những gam màu trung tính thanh lịch đến sắc màu rực rỡ đầy cá tính, túi da độc bản không chỉ đóng vai trò phụ kiện mà còn trở thành tuyên ngôn phong cách, phản chiếu gu thẩm mỹ của người mang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T09:00:00+07:00",
+      "fetched": "2026-06-07T17:21:48.121339+07:00"
+    },
+    {
+      "id": "b0e413e31c9030f0f8bbe735dae0cb5c",
+      "title": "Hai thanh niên 'dương tính với ma túy' thông chốt, đâm ngã CSGT",
+      "link": "https://vnexpress.net/hai-thanh-nien-duong-tinh-voi-ma-tuy-thong-chot-dam-nga-csgt-5082931.html",
+      "summary": "Điều khiển xe máy khi đã sử dụng ma túy và rượu bia, Bùi Văn Đạt không chấp hành hiệu lệnh, đâm ngã trung tá cảnh sát giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T08:58:35+07:00",
+      "fetched": "2026-06-07T17:21:45.058790+07:00"
+    },
+    {
+      "id": "447455e51d662bd91325397126f7b563",
+      "title": "Truy tìm hung thủ tạt a xít vào mặt người phụ nữ lúc rạng sáng",
+      "link": "https://thanhnien.vn/truy-tim-hung-thu-tat-a-xit-vao-mat-nguoi-phu-nu-luc-rang-sang-185260607144259539.htm",
+      "summary": "Người phụ nữ ở Vĩnh Long bất ngờ bị một người đàn ông tạt a xít vào mặt rồi bỏ đi. Hiện công an đang truy tìm hung thủ để xử lý theo quy định pháp luật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T08:57:00+07:00",
+      "fetched": "2026-06-07T17:21:48.121464+07:00"
+    },
+    {
+      "id": "dc9c842fd755809fa4839f4dd0ec3627",
+      "title": "EVN hết lỗ lũy kế hợp nhất",
+      "link": "https://vnexpress.net/evn-het-lo-luy-ke-hop-nhat-5082918.html",
+      "summary": "Hết năm 2025, Tập đoàn Điện lực Việt Nam (EVN) ghi nhận lợi nhuận lũy kế chưa phân phối hợp nhất 5.533 tỷ đồng, đảo chiều so với mức âm 38.688 tỷ cuối 2024.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T08:33:20+07:00",
+      "fetched": "2026-06-07T17:21:45.058923+07:00"
+    },
+    {
+      "id": "dc9c842fd755809fa4839f4dd0ec3627",
+      "title": "EVN hết lỗ lũy kế hợp nhất",
+      "link": "https://vnexpress.net/evn-het-lo-luy-ke-hop-nhat-5082918.html",
+      "summary": "Hết năm 2025, Tập đoàn Điện lực Việt Nam (EVN) ghi nhận lợi nhuận lũy kế chưa phân phối hợp nhất 5.533 tỷ đồng, đảo chiều so với mức âm 38.688 tỷ cuối 2024.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-07T08:33:20+07:00",
+      "fetched": "2026-06-07T17:21:51.808303+07:00"
+    },
+    {
+      "id": "2fc5fa3586eea00a9c8565c6c0b20ea5",
+      "title": "30.000 người đổ về lễ hội biển Cát Bà",
+      "link": "https://vnexpress.net/30-000-nguoi-do-ve-le-hoi-bien-cat-ba-5082929.html",
+      "summary": "Sun Group khai mạc lễ hội biển Cát Bà 2026 tại quảng trường Con Sò với nghi thức thả cá giống cùng chuỗi trình diễn giải trí và pháo hoa rực rỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T08:30:00+07:00",
+      "fetched": "2026-06-07T17:21:45.059057+07:00"
+    },
+    {
+      "id": "0952e576ac989103394ba40fcf0bdf2c",
+      "title": "Hòn đảo 6 tháng đổi chủ quyền một lần",
+      "link": "https://vnexpress.net/hon-dao-6-thang-doi-chu-quyen-mot-lan-5082867.html",
+      "summary": "Đảo Pheasant nằm giữa biên giới Pháp và Tây Ban Nha luân phiên \"đổi chủ\" mỗi 6 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T08:20:34+07:00",
+      "fetched": "2026-06-07T17:21:45.059187+07:00"
+    },
+    {
+      "id": "e36318deaae2de752ed5984f189c6093",
+      "title": "Ngôi sao Bồ Đào Nha nhận thẻ đỏ vì tát đối phương trước thềm World Cup",
+      "link": "https://vnexpress.net/ngoi-sao-bo-dao-nha-nhan-the-do-vi-tat-doi-phuong-truoc-them-world-cup-5082904.html",
+      "summary": "Trận giao hữu giữa Bồ Đào Nha và Chile hôm 6/6 trở nên căng thẳng ở cuối hiệp một, sau khi Rafael Leao đẩy vào vùng cổ rồi tát vào mặt Roman.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T08:15:15+07:00",
+      "fetched": "2026-06-07T17:21:45.059336+07:00"
+    },
+    {
+      "id": "be7dfb3cb5f1ab09f1c32b6ff6095ff4",
+      "title": "Hồ Quỳnh Hương, Myra Trần ôn kỷ niệm tình thầy trò",
+      "link": "https://vnexpress.net/ho-quynh-huong-myra-tran-on-ky-niem-tinh-thay-tro-5082912.html",
+      "summary": "Ca sĩ Hồ Quỳnh Hương và học trò Myra Trần kể kỷ niệm 10 năm gắn bó và hát loạt hit trong đêm nhạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T08:02:07+07:00",
+      "fetched": "2026-06-07T17:21:45.059470+07:00"
+    },
+    {
+      "id": "14cbdb95e0e6fda8281f0421c499ffe7",
+      "title": "Nếu nghỉ chơi hai bạn vay tiền không trả, tôi sẽ không còn bạn thân",
+      "link": "https://vnexpress.net/neu-nghi-choi-hai-ban-vay-tien-khong-tra-toi-se-khong-con-ban-than-5082911.html",
+      "summary": "Có những lúc tôi đạt được thành tựu gì đó, tôi có cảm giác bạn không thực sự vui.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T08:00:00+07:00",
+      "fetched": "2026-06-07T17:21:45.059595+07:00"
+    },
+    {
+      "id": "d3a6ffe97d7210af2dfd87db8bf0a2e0",
+      "title": "Thiết bị kích sóng gây nhiễu mạng di động tại cửa khẩu Móng Cái",
+      "link": "https://vnexpress.net/thiet-bi-kich-song-gay-nhieu-mang-di-dong-tai-cua-khau-mong-cai-5082894.html",
+      "summary": "Thiết bị kích sóng di động do cá nhân mua từ nước ngoài về lắp đặt đã gây nhiễu mạng viễn thông khu vực biên giới cửa khẩu Móng Cái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T08:00:00+07:00",
+      "fetched": "2026-06-07T17:21:45.059722+07:00"
+    },
+    {
+      "id": "e0b251eb4df410c7e5f60c21e844caa9",
+      "title": "Pin dưới lòng đất lớn nhất thế giới",
+      "link": "https://vnexpress.net/pin-duoi-long-dat-lon-nhat-the-gioi-5082409.html",
+      "summary": "Công ty Flexbase đang xây dựng cơ sở lưu trữ năng lượng sạch bằng pin dòng chảy ở độ sâu 27 m với dung lượng dự kiến lên đến 2,1 GWh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T08:00:00+07:00",
+      "fetched": "2026-06-07T17:21:45.059846+07:00"
+    },
+    {
+      "id": "d3a6ffe97d7210af2dfd87db8bf0a2e0",
+      "title": "Thiết bị kích sóng gây nhiễu mạng di động tại cửa khẩu Móng Cái",
+      "link": "https://vnexpress.net/thiet-bi-kich-song-gay-nhieu-mang-di-dong-tai-cua-khau-mong-cai-5082894.html",
+      "summary": "Thiết bị kích sóng di động do cá nhân mua từ nước ngoài về lắp đặt đã gây nhiễu mạng viễn thông khu vực biên giới cửa khẩu Móng Cái.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-07T08:00:00+07:00",
+      "fetched": "2026-06-07T17:21:54.682673+07:00"
+    },
+    {
+      "id": "e0b251eb4df410c7e5f60c21e844caa9",
+      "title": "Pin dưới lòng đất lớn nhất thế giới",
+      "link": "https://vnexpress.net/pin-duoi-long-dat-lon-nhat-the-gioi-5082409.html",
+      "summary": "Công ty Flexbase đang xây dựng cơ sở lưu trữ năng lượng sạch bằng pin dòng chảy ở độ sâu 27 m với dung lượng dự kiến lên đến 2,1 GWh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-07T08:00:00+07:00",
+      "fetched": "2026-06-07T17:21:54.683521+07:00"
+    },
+    {
+      "id": "a6f39b1758671b28bb89042b803ee8f8",
+      "title": "Bitcoin tăng trở lại sau khi thủng mốc 60.000 USD",
+      "link": "https://vnexpress.net/bitcoin-tang-tro-lai-sau-khi-thung-moc-60-000-usd-5082924.html",
+      "summary": "Bitcoin đảo chiều tăng 5% nhờ lực cầu giải ngân khi giá xuống sát 59.100 USD - vùng giá thấp nhất một năm rưỡi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T07:58:18+07:00",
+      "fetched": "2026-06-07T17:21:45.059968+07:00"
+    },
+    {
+      "id": "a6f39b1758671b28bb89042b803ee8f8",
+      "title": "Bitcoin tăng trở lại sau khi thủng mốc 60.000 USD",
+      "link": "https://vnexpress.net/bitcoin-tang-tro-lai-sau-khi-thung-moc-60-000-usd-5082924.html",
+      "summary": "Bitcoin đảo chiều tăng 5% nhờ lực cầu giải ngân khi giá xuống sát 59.100 USD - vùng giá thấp nhất một năm rưỡi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-07T07:58:18+07:00",
+      "fetched": "2026-06-07T17:21:51.808463+07:00"
+    },
+    {
+      "id": "b8055ec2a48bb5f6851cbe5e760ffb17",
+      "title": "Người ra tù có thể được vay 100% chi phí đi xuất khẩu lao động",
+      "link": "https://vnexpress.net/nguoi-ra-tu-co-the-duoc-vay-100-chi-phi-di-xuat-khau-lao-dong-5082914.html",
+      "summary": "Bộ Công an đề xuất cho phạm nhân cải tạo xong được vay 100% chi phí đi xuất khẩu lao động, nếu dưới 200 triệu đồng mà không cần tài sản đảm bảo, lãi suất như với hộ nghèo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T07:48:27+07:00",
+      "fetched": "2026-06-07T17:21:45.060096+07:00"
     },
     {
       "id": "0442a6e4b6a97a2a631599ead4266e82",
