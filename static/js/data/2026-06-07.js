@@ -1,7 +1,157 @@
 window.newsData_2026_06_07 = {
   "date": "2026-06-07",
-  "lastUpdated": "2026-06-07T20:21:35.863482+07:00",
+  "lastUpdated": "2026-06-07T22:18:10.224974+07:00",
   "articles": [
+    {
+      "id": "49ff16689a3ffcbb892f4993460ac8cd",
+      "title": "Xác định các nhà vô địch giải đấu mệnh danh 'World Cup billiards Việt Nam'",
+      "link": "https://tuoitre.vn/xac-dinh-cac-nha-vo-dich-giai-dau-menh-danh-world-cup-billiards-viet-nam-20260607203222086.htm",
+      "summary": "Ngày thi đấu cuối cùng (7-6) của Giải billiards HBSF Tour 1 Cúp MIN Table 2026 đã giúp tìm ra 4 nhà vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.456065+07:00",
+      "fetched": "2026-06-07T22:18:00.456153+07:00"
+    },
+    {
+      "id": "7fceff9e2276e7211bef8c35daedac21",
+      "title": "Bảng xếp hạng chung cuộc V-League 2025-2026",
+      "link": "https://tuoitre.vn/bang-xep-hang-chung-cuoc-v-league-2025-2026-20260607204535753.htm",
+      "summary": "Becamex TP.HCM đã chính thức rớt hạng sau khi vòng 26 (vòng cuối) V-League 2025-2026 kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.455962+07:00",
+      "fetched": "2026-06-07T22:18:00.456056+07:00"
+    },
+    {
+      "id": "88fcb2b3d024aaea04423fab195ad06b",
+      "title": "Ngắm 11 không gian trải nghiệm ấn tượng nhất tại Lễ hội Tài chính số 2026",
+      "link": "https://tuoitre.vn/ngam-11-khong-gian-trai-nghiem-an-tuong-nhat-tai-le-hoi-tai-chinh-so-2026-20260607194954695.htm",
+      "summary": "Lễ hội Tài chính số 2026 chính thức khép lại sau hai ngày diễn ra sôi động tại phố đi bộ Nguyễn Huệ (phường Sài Gòn, TP.HCM). Tại buổi bế mạc, những gian hàng ấn tượng đã được vinh danh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.455840+07:00",
+      "fetched": "2026-06-07T22:18:00.455949+07:00"
+    },
+    {
+      "id": "0903c806e14b7a890b88f4eccada6a07",
+      "title": "Diều xuất hiện gần sân bay Nội Bài khiến 7 chuyến bay bị ảnh hưởng",
+      "link": "https://tuoitre.vn/dieu-xuat-hien-gan-san-bay-noi-bai-khien-7-chuyen-bay-bi-anh-huong-20260607202932373.htm",
+      "summary": "Sau sự việc thiết bị bay không người lái làm 16 chuyến bay bị ảnh hưởng, ngày 7-6, diều xuất hiện gần sân bay Nội Bài khiến 7 chuyến bay bị ảnh hưởng khai thác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.455744+07:00",
+      "fetched": "2026-06-07T22:18:00.455832+07:00"
+    },
+    {
+      "id": "57c647c560cdc1bdaee8ddaac49a5514",
+      "title": "Sao điền kinh Việt Nam giành huy chương vàng giải đấu danh giá Đài Bắc Trung Hoa",
+      "link": "https://tuoitre.vn/sao-dien-kinh-viet-nam-gianh-huy-chuong-vang-giai-dau-danh-gia-dai-bac-trung-hoa-20260607205353316.htm",
+      "summary": "Tối 7-6, Bùi Thị Ngân mang đến tin vui cho điền kinh Việt Nam khi giành huy chương vàng ở Giải New Taipei City Athletics Open.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.455648+07:00",
+      "fetched": "2026-06-07T22:18:00.455736+07:00"
+    },
+    {
+      "id": "0438e2c0623c004e47de1a2c697773a1",
+      "title": "Sau nhiều năm, cầu lông Trung Quốc lại lâm cảnh trắng tay",
+      "link": "https://tuoitre.vn/sau-nhieu-nam-cau-long-trung-quoc-lai-lam-canh-trang-tay-20260607203921149.htm",
+      "summary": "Trung Quốc, nền cầu lông hùng mạnh nhất thế giới, gặp phải cú sốc trắng tay ở Indonesia mở rộng 2026, giải đấu danh giá thuộc hệ thống BWF Super 1000.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.455547+07:00",
+      "fetched": "2026-06-07T22:18:00.455639+07:00"
+    },
+    {
+      "id": "054ef5ed698e1b4956e15208fec6bc00",
+      "title": "Bế mạc Ngày Tài chính số 2026: hơn 40.000 phần quà được trao và nhiều con số biết nói",
+      "link": "https://tuoitre.vn/be-mac-ngay-tai-chinh-so-2026-hon-40-000-phan-qua-duoc-trao-va-nhieu-con-so-biet-noi-20260607210247351.htm",
+      "summary": "Sau hai ngày diễn ra, Lễ hội Tài chính số 2026 đã khép lại với những con số rất ấn tượng: Hơn 20.000 tài khoản mở mới, hơn 80.000 lượt tương tác trực tiếp, hơn 2,5 triệu lượt tương tác trực tuyến trên các nền tảng số, hơn 40.000 phần quà được trao...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.455443+07:00",
+      "fetched": "2026-06-07T22:18:00.455538+07:00"
+    },
+    {
+      "id": "cdae5b3a7b8b3bcfba97ff62c854a2ed",
+      "title": "HLV Hứa Hiền Vinh: Tôi không cần thanh minh khi rớt hạng",
+      "link": "https://tuoitre.vn/hlv-hua-hien-vinh-toi-khong-can-thanh-minh-khi-rot-hang-20260607211919669.htm",
+      "summary": "HLV Hứa Hiền Vinh chấp nhận cuộc chơi khi lãnh trách nhiệm để Becamex TP.HCM rớt hạng sau vòng 26 V-League, sau trận thắng 3-1 trước Hoàng Anh Gia Lai vào tối 7-6 ở sân Bình Dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.455341+07:00",
+      "fetched": "2026-06-07T22:18:00.455434+07:00"
+    },
+    {
+      "id": "844ae570901a2d20ae527f8a16bf09be",
+      "title": "Một ứng dụng có hơn 200 tiện ích tài chính và thanh toán được giới thiệu tại Ngày Tài chính số 2026",
+      "link": "https://tuoitre.vn/mot-ung-dung-co-hon-200-tien-ich-tai-chinh-va-thanh-toan-duoc-gioi-thieu-tai-ngay-tai-chinh-so-2026-20260607201123975.htm",
+      "summary": "Hơn 500 lượt tương tác, tiếp cận 1.500 khách hàng và trao 250 phần quà đã được dành tặng khách tham quan tại gian hàng của OCB trong khuôn khổ Ngày Tài chính số 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.455224+07:00",
+      "fetched": "2026-06-07T22:18:00.455324+07:00"
+    },
+    {
+      "id": "40525b7a1965a313ccbcd7418829bbac",
+      "title": "Hộ kinh doanh tìm lời giải chuyển đổi số tại gian hàng HDBank",
+      "link": "https://tuoitre.vn/ho-kinh-doanh-tim-loi-giai-chuyen-doi-so-tai-gian-hang-hdbank-20260607201747735.htm",
+      "summary": "Trong khuôn khổ Ngày Tài chính số 2026, HDBank mang đến hệ sinh thái giải pháp tài chính số dành cho hộ kinh doanh và doanh nghiệp nhỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.455078+07:00",
+      "fetched": "2026-06-07T22:18:00.455209+07:00"
+    },
+    {
+      "id": "c174f1c61a1430c45ff73ebc17ac19a6",
+      "title": "Đỗ Phú Quí, Hải Nam khiến khán giả bùng nổ ở bế mạc Lễ hội Tài chính số 2026",
+      "link": "https://tuoitre.vn/do-phu-qui-hai-nam-khien-khan-gia-bung-no-o-be-mac-le-hoi-tai-chinh-so-2026-20260607191024473.htm",
+      "summary": "Trong khuôn khổ đêm bế mạc Lễ hội Tài chính số 2026, khán giả được thưởng thức những bản hit của hai anh chàng đến từ chương trình Anh trai say hi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.454973+07:00",
+      "fetched": "2026-06-07T22:18:00.455068+07:00"
+    },
+    {
+      "id": "8ce42c981d31b5df0d7a7515da928f8c",
+      "title": "PVcomBank áp đảo, mở mới được 1.100 tài khoản trong Lễ hội Tài chính số 2026",
+      "link": "https://tuoitre.vn/pvcombank-ap-dao-mo-moi-duoc-1-100-tai-khoan-trong-le-hoi-tai-chinh-so-2026-20260607212955167.htm",
+      "summary": "Theo thống kê từ đại diện PVcomBank, đơn vị này đã tiếp cận được 5.000 lượt khách, mở mới 1.100 tài khoản, 1.250 phần quà đã được gửi tới khách hàng trong hai ngày Lễ hội Tài chính số năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.454847+07:00",
+      "fetched": "2026-06-07T22:18:00.454963+07:00"
+    },
+    {
+      "id": "dbcf91dbab3b5773cb33acd208c5a9c4",
+      "title": "Công an lập hồ sơ xử lý vụ hai người nghi bạo hành, ép trẻ em bán hàng rong ở TP.HCM",
+      "link": "https://tuoitre.vn/cong-an-lap-ho-so-xu-ly-vu-hai-nguoi-nghi-bao-hanh-ep-tre-em-ban-hang-rong-o-tp-hcm-20260607214937197.htm",
+      "summary": "Hai người nghi bạo hành, ép trẻ em đi bán hàng rong ở TP.HCM vừa bị lực lượng công an mời lên làm việc, lập hồ sơ xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.454735+07:00",
+      "fetched": "2026-06-07T22:18:00.454837+07:00"
+    },
+    {
+      "id": "6ea4e0fe98ae2b38519e7e6d7a89c1d9",
+      "title": "Cố vượt đường ngang khi cần chắn hạ xuống, xe tải bị tàu SE 19 húc văng",
+      "link": "https://tuoitre.vn/co-vuot-duong-ngang-khi-can-chan-ha-xuong-xe-tai-bi-tau-se-19-huc-vang-20260607214338864.htm",
+      "summary": "Hình ảnh từ camera giám sát cho thấy khi tín hiệu cảnh báo đã phát, cần chắn hạ xuống nhưng chiếc xe tải vẫn cố vượt đường ngang. Sau đó, ô tô mắc lại rồi bị tàu hỏa húc văng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.454610+07:00",
+      "fetched": "2026-06-07T22:18:00.454725+07:00"
+    },
+    {
+      "id": "54fb547f1b49fcc9bc824bb9f3a9e1ad",
+      "title": "Từ con số 0 đến giải nhất toàn quốc cuộc thi Robocon ORC",
+      "link": "https://tuoitre.vn/tu-con-so-0-den-giai-nhat-toan-quoc-cuoc-thi-robocon-orc-20260607191208697.htm",
+      "summary": "Đó là trường hợp của các nam sinh lớp 7 và 8 ở phường Điện Bàn Đông, Đà Nẵng tại cuộc thi Robocon ORC. Đây là cuộc thi do Viện Nghiên cứu Thiết kế Trường học (Bộ Giáo dục và Đào tạo) phối hợp cùng một số đơn vị tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:18:00.454359+07:00",
+      "fetched": "2026-06-07T22:18:00.454596+07:00"
+    },
     {
       "id": "ec0c44c00b4e5810ed71c68d6a602bb1",
       "title": "Du khách ‘săn’ tìm mua trâm chín cuối vụ ở An Giang",
@@ -303,6 +453,26 @@ window.newsData_2026_06_07 = {
       "fetched": "2026-06-07T17:21:49.127686+07:00"
     },
     {
+      "id": "f9f298c0cbfc3cb7a4bd7ca134142866",
+      "title": "Biển Sầm Sơn chiều cuối tuần: Đông đến mức nhìn ảnh ai cũng... choáng",
+      "link": "https://thanhnien.vn/bien-sam-son-chieu-cuoi-tuan-dong-den-muc-nhin-anh-ai-cung-choang-185260607213837414.htm",
+      "summary": "Bãi biển Sầm Sơn (tỉnh Thanh Hóa) đang ghi nhận lượng du khách đổ về tăng đột biến trong những ngày đầu mùa hè. Chiều 7.6.2026, hàng chục ngàn người đã lấp kín các bãi tắm dọc bờ biển để giải nhiệt giữa thời tiết nắng nóng gay gắt, đặt ra bài toán lớn cho địa phương trong việc đảm bảo trật tự và nân...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T15:08:00+07:00",
+      "fetched": "2026-06-07T22:17:59.628130+07:00"
+    },
+    {
+      "id": "f04e5ee4111b03f6b3db2b24f31c7030",
+      "title": "Bảng xếp hạng U.19 Việt Nam mới nhất: Thấp thỏm với ngôi nhì sau trận thua nghiệt ngã, Indonesia leo tốp 1",
+      "link": "https://thanhnien.vn/bang-xep-hang-u19-viet-nam-moi-nhat-thap-thom-voi-ngoi-nhi-sau-tran-thua-nghiet-nga-indonesia-leo-top-1-185260607220039719.htm",
+      "summary": "Tối 7.6, U.19 Việt Nam nhận trận thua đáng tiếc với tỷ số 1-2 trước đội chủ nhà Indonesia ở lượt trận cuối cùng bảng A giải U.19 Đông Nam Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T15:06:00+07:00",
+      "fetched": "2026-06-07T22:17:59.628283+07:00"
+    },
+    {
       "id": "65c71672a368733eef8550f5a509044a",
       "title": "Ông Trump ân xá cho cựu nghị sĩ Đảng Cộng hòa bị án tù dưới thời ông Biden",
       "link": "https://tuoitre.vn/ong-trump-an-xa-cho-cuu-nghi-si-dang-cong-hoa-bi-an-tu-duoi-thoi-ong-biden-2026060712015321.htm",
@@ -453,6 +623,246 @@ window.newsData_2026_06_07 = {
       "fetched": "2026-06-07T14:47:06.804780+07:00"
     },
     {
+      "id": "dfd4827fdc6ee0c64f377ad91474c542",
+      "title": "Lật tẩy chiêu trò dùng AI quét hình ảnh để đạo nhái thiết kế của thương hiệu Đất Lành",
+      "link": "https://thanhnien.vn/lat-tay-chieu-tro-dung-ai-quet-hinh-anh-de-dao-nhai-thiet-ke-cua-thuong-hieu-dat-lanh-185260607212925076.htm",
+      "summary": "Công an TP.HCM vừa ra quyết định khởi tố vụ án, khởi tố bị can đối với Hoàng Thị Bích Ngọc (chủ thương hiệu Vải áo dài Đất Lành) để điều tra về hành vi dùng trí tuệ nhân tạo (AI) sao chép trái phép thiết kế áo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T14:36:00+07:00",
+      "fetched": "2026-06-07T22:17:59.628417+07:00"
+    },
+    {
+      "id": "e7b85370b499e10c4c8f6c0d3475de81",
+      "title": "H'Hen Niê địu con đi sự kiện",
+      "link": "https://vnexpress.net/h-hen-nie-diu-con-di-su-kien-5082941.html",
+      "summary": "Hoa hậu H'Hen Niê địu con gái bằng khăn theo cách truyền thống của người Ê đê khi chấm casting The Face Vietnam 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T14:25:22+07:00",
+      "fetched": "2026-06-07T22:17:56.080143+07:00"
+    },
+    {
+      "id": "7967d931ad1033181532d8cae3459c41",
+      "title": "Vũ trụ điện ảnh Marvel sắp bị khai tử?",
+      "link": "https://thanhnien.vn/vu-tru-dien-anh-marvel-sap-bi-khai-tu-18526060716013218.htm",
+      "summary": "Đứng trước cuộc khủng hoảng bão hòa siêu anh hùng, Marvel Studios (MCU) gây chú ý khi quyết định tái khởi động hoàn toàn dòng phim Avengers. Hãng phim quyết định đưa siêu bom tấn 'Avengers: Doomsday' trở lại vạch số 0 gây ra nhiều tranh cãi trong cộng đồng người hâm mộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T14:23:00+07:00",
+      "fetched": "2026-06-07T22:17:59.628542+07:00"
+    },
+    {
+      "id": "860ab3967d7744de0133c00f83ce8af4",
+      "title": "Cuộc đua Chiếc giày vàng World Cup 2026: Mbappe dẫn đầu, Messi và Ronaldo còn cơ hội?",
+      "link": "https://thanhnien.vn/cuoc-dua-chiec-giay-vang-world-cup-2026-mbappe-dan-dau-messi-va-ronaldo-con-co-hoi-185260607204518557.htm",
+      "summary": "Chỉ còn ít ngày nữa, World Cup 2026 sẽ khởi tranh, cuộc đua tới danh hiệu 'Chiếc giày vàng' đang nhận được sự quan tâm đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T14:18:00+07:00",
+      "fetched": "2026-06-07T22:17:59.628664+07:00"
+    },
+    {
+      "id": "1c01ef3532c2ad8977b70634c675c7f9",
+      "title": "H'Hen Niê mang con theo khi làm giám khảo",
+      "link": "https://thanhnien.vn/hhen-nie-mang-con-theo-khi-lam-giam-khao-185260607200152412.htm",
+      "summary": "Hoa hậu H'Hen Niê gây chú ý khi mặc trang phục thổ cẩm, địu theo con gái khi ra Hà Nội làm giám khảo casting cho 'The Face Vietnam 2026' sáng 7.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T14:17:00+07:00",
+      "fetched": "2026-06-07T22:17:59.628785+07:00"
+    },
+    {
+      "id": "d5646a00a3cc72b1a5dea3e29a57b2b7",
+      "title": "Hà Nội FC rớt khỏi top 3 V-League sau 17 năm",
+      "link": "https://vnexpress.net/ha-noi-fc-rot-khoi-top-3-v-league-sau-17-nam-5082982.html",
+      "summary": "Hà Nội FC cán đích thứ tư V-League 2025-2026, sau khi hòa Công an TP HCM 1-1 ở vòng hạ màn tối 7/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T14:14:04+07:00",
+      "fetched": "2026-06-07T22:17:56.080314+07:00"
+    },
+    {
+      "id": "d5646a00a3cc72b1a5dea3e29a57b2b7",
+      "title": "Hà Nội FC rớt khỏi top 3 V-League sau 17 năm",
+      "link": "https://vnexpress.net/ha-noi-fc-rot-khoi-top-3-v-league-sau-17-nam-5082982.html",
+      "summary": "Hà Nội FC cán đích thứ tư V-League 2025-2026, sau khi hòa Công an TP HCM 1-1 ở vòng hạ màn tối 7/6.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-07T14:14:04+07:00",
+      "fetched": "2026-06-07T22:18:10.214666+07:00"
+    },
+    {
+      "id": "3885e4f23627ade819d8eb1492ecb9fd",
+      "title": "Việt - Lào ưu tiên thúc đẩy các dự án kết nối giao thông chiến lược",
+      "link": "https://vnexpress.net/viet-lao-uu-tien-thuc-day-cac-du-an-ket-noi-giao-thong-chien-luoc-5082971.html",
+      "summary": "Thủ tướng Lê Minh Hưng hội đàm với Thủ tướng Sonexay Siphandone, hai bên khẳng định ưu tiên thúc đẩy các dự án kết nối giao thông chiến lược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T14:12:14+07:00",
+      "fetched": "2026-06-07T22:17:56.080455+07:00"
+    },
+    {
+      "id": "3885e4f23627ade819d8eb1492ecb9fd",
+      "title": "Việt - Lào ưu tiên thúc đẩy các dự án kết nối giao thông chiến lược",
+      "link": "https://vnexpress.net/viet-lao-uu-tien-thuc-day-cac-du-an-ket-noi-giao-thong-chien-luoc-5082971.html",
+      "summary": "Thủ tướng Lê Minh Hưng hội đàm với Thủ tướng Sonexay Siphandone, hai bên khẳng định ưu tiên thúc đẩy các dự án kết nối giao thông chiến lược.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-07T14:12:14+07:00",
+      "fetched": "2026-06-07T22:18:02.324257+07:00"
+    },
+    {
+      "id": "62c2bffa6d42f827a0bdb5b4a4c54bad",
+      "title": "Nhà triển lãm nước mắm kể chuyện văn hóa Việt",
+      "link": "https://thanhnien.vn/nha-trien-lam-nuoc-mam-ke-chuyen-van-hoa-viet-18526060721101728.htm",
+      "summary": "TP.HCM vừa có thêm một không gian văn hóa đặc biệt khi Nhà triển lãm Nước mắm Liên Thành - Dòng chảy Duy Tân chính thức khánh thành nhân dịp kỷ niệm 120 năm hình thành và phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T14:10:00+07:00",
+      "fetched": "2026-06-07T22:17:59.628906+07:00"
+    },
+    {
+      "id": "4c1f6e49a3973822c3977f9fcfc779b5",
+      "title": "DIFF 2026: Đội pháo hoa Pháp mang 'đại tiệc ánh sáng' đến bên bờ sông Hàn",
+      "link": "https://thanhnien.vn/diff-2026-doi-phao-hoa-phao-mang-dai-tiec-anh-sang-den-ben-bo-song-han-185260607210417392.htm",
+      "summary": "Đêm thi thứ hai DIFF 2026, đội pháo hoa Pháp mở ra hành trình nghệ thuật với chủ đề 'Heritage - Da Nang Shines' (Di sản - Đà Nẵng tỏa sáng), kể câu chuyện về những lớp trầm tích văn hóa giao thoa qua các thời kỳ lịch sử và vẻ đẹp của thành phố Đà Nẵng trên hành trình hội nhập quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T14:04:00+07:00",
+      "fetched": "2026-06-07T22:17:59.629047+07:00"
+    },
+    {
+      "id": "a683c8d321253df36388029d51f29bcd",
+      "title": "Becamex TP HCM xuống hạng",
+      "link": "https://vnexpress.net/becamex-tp-hcm-xuong-hang-5082975.html",
+      "summary": "Đội bóng đất Thủ Becamex TP HCM lần đầu tiên rớt hạng dù thắng HAGL 3-1 trên sân nhà ở vòng cuối V-League 2025-2026 tối 7/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T14:02:28+07:00",
+      "fetched": "2026-06-07T22:17:56.080592+07:00"
+    },
+    {
+      "id": "a683c8d321253df36388029d51f29bcd",
+      "title": "Becamex TP HCM xuống hạng",
+      "link": "https://vnexpress.net/becamex-tp-hcm-xuong-hang-5082975.html",
+      "summary": "Đội bóng đất Thủ Becamex TP HCM lần đầu tiên rớt hạng dù thắng HAGL 3-1 trên sân nhà ở vòng cuối V-League 2025-2026 tối 7/6.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-07T14:02:28+07:00",
+      "fetched": "2026-06-07T22:18:10.214825+07:00"
+    },
+    {
+      "id": "58cf85ebefa4ab55fc0ca1b8bd826cbb",
+      "title": "Tôi có tình cảm với em vợ",
+      "link": "https://vnexpress.net/toi-co-tinh-cam-voi-em-vo-5082925.html",
+      "summary": "Từ khi vợ tôi mất, em thường xuyên đưa con sang thăm hai cháu, đưa các con tôi đi chơi nên các cháu rất quý dì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T14:00:00+07:00",
+      "fetched": "2026-06-07T22:17:56.080728+07:00"
+    },
+    {
+      "id": "2a30664733b438267a2a72d52479c192",
+      "title": "Người đàn ông tưới xăng đốt tiệm giặt sấy",
+      "link": "https://vnexpress.net/nguoi-dan-ong-tuoi-xang-dot-tiem-giat-say-5082962.html",
+      "summary": "Người đàn ông mang chai xăng vào tiệm giặt sấy, khiến hỏa hoạn bùng phát, bản thân bị bỏng nặng phải nhập viện cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T13:57:19+07:00",
+      "fetched": "2026-06-07T22:17:56.080861+07:00"
+    },
+    {
+      "id": "fa8c4fa1926af7f0d63f73fd2f8a3354",
+      "title": "Con gái ông Kim Jong-un thị sát chiến hạm từng lật nghiêng khi hạ thủy",
+      "link": "https://vnexpress.net/con-gai-ong-kim-jong-un-thi-sat-chien-ham-tung-lat-nghieng-khi-ha-thuy-5082965.html",
+      "summary": "Ông Kim Jong-un và con gái theo dõi đợt thử nghiệm trên biển của Kang Kon, chiến hạm từng gặp sự cố nghiêm trọng khi hạ thủy năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T13:56:32+07:00",
+      "fetched": "2026-06-07T22:17:56.081004+07:00"
+    },
+    {
+      "id": "fa8c4fa1926af7f0d63f73fd2f8a3354",
+      "title": "Con gái ông Kim Jong-un thị sát chiến hạm từng lật nghiêng khi hạ thủy",
+      "link": "https://vnexpress.net/con-gai-ong-kim-jong-un-thi-sat-chien-ham-tung-lat-nghieng-khi-ha-thuy-5082965.html",
+      "summary": "Ông Kim Jong-un và con gái theo dõi đợt thử nghiệm trên biển của Kang Kon, chiến hạm từng gặp sự cố nghiêm trọng khi hạ thủy năm ngoái.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-07T13:56:32+07:00",
+      "fetched": "2026-06-07T22:18:02.324419+07:00"
+    },
+    {
+      "id": "5887716dae54a1744ab88a4fd43ef71c",
+      "title": "3 việc không nên làm trong 30 phút trước giờ ngủ",
+      "link": "https://thanhnien.vn/3-viec-khong-nen-lam-trong-30-phut-truoc-gio-ngu-185260607192738129.htm",
+      "summary": "Giấc ngủ không chỉ giúp cơ thể nghỉ ngơi sau ngày làm việc mà còn rất quan trọng với sức khỏe tim mạch, não và hệ miễn dịch. Nhiều người dù đã cố ngủ đủ giấc nhưng vẫn thường bị khó ngủ, ngủ không sâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T13:55:00+07:00",
+      "fetched": "2026-06-07T22:17:59.629177+07:00"
+    },
+    {
+      "id": "faac7a2b0ef905961eaec19ccd465545",
+      "title": "Cứ đến tối chủ nhật là tôi không ngủ được vì sáng thứ hai phải đi làm",
+      "link": "https://vnexpress.net/cu-den-toi-chu-nhat-la-toi-khong-ngu-duoc-vi-sang-thu-hai-phai-di-lam-5082937.html",
+      "summary": "Tôi cố gắng ngủ sớm để sáng thứ hai tràn đầy năng lượng nhưng cứ lên giường là trằn trọc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T13:52:53+07:00",
+      "fetched": "2026-06-07T22:17:56.081130+07:00"
+    },
+    {
+      "id": "adbf72972dcb65defb60e0838f372b02",
+      "title": "Khiêng quan tài nhảy múa trên đường: Trò đùa lệch chuẩn",
+      "link": "https://thanhnien.vn/khieng-quan-tai-nhay-mua-tren-duong-tro-dua-lech-chuan-185260607204205891.htm",
+      "summary": "Việc lấy quan tài, hình ảnh của sự đau thương, mất mát và linh thiêng trong tâm thức người Việt, ra làm công cụ nhảy múa, diễu phố để 'trải nghiệm' trong tiệc sinh nhật là hành vi lệch chuẩn, bất chấp thuần phong mỹ tục và thách thức dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T13:49:00+07:00",
+      "fetched": "2026-06-07T22:17:59.629302+07:00"
+    },
+    {
+      "id": "2dc72789b89eb43652527fe8bf64b736",
+      "title": "Nắng nóng gia tăng, hôm nay có 2 địa phương nhiệt độ vượt 40 độ C",
+      "link": "https://thanhnien.vn/nang-nong-gia-tang-hom-nay-co-2-dia-phuong-nhiet-do-vuot-40-do-c-185260607203044277.htm",
+      "summary": "Hôm nay (7.6), có đến 2 địa phương ghi nhận nhiệt độ vượt 40 độ C và tổng cộng 11 tỉnh thành xuất hiện nắng nóng gay gắt đến đặc biệt gay gắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T13:33:00+07:00",
+      "fetched": "2026-06-07T22:17:59.629423+07:00"
+    },
+    {
+      "id": "b8626cfb62209c834de4815e5fc74358",
+      "title": "Em gái ông Kim Jong-un nói vị thế hạt nhân Triều Tiên 'không thể đảo ngược'",
+      "link": "https://thanhnien.vn/em-gai-ong-kim-jong-un-noi-vi-the-hat-nhan-trieu-tien-khong-the-dao-nguoc-185260607172626025.htm",
+      "summary": "Em gái nhà lãnh đạo Kim Jong-un tuyên bố vị thế hạt nhân của CHDCND Triều Tiên là không thể đảo ngược và sẽ không được đem ra đàm phán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T13:30:00+07:00",
+      "fetched": "2026-06-07T22:17:59.629547+07:00"
+    },
+    {
+      "id": "a89677181c4330752faa5177fdfbf377",
+      "title": "Rơi nước mắt tạm biệt cựu vương Becamex TP.HCM: Khúc vĩ thanh buồn",
+      "link": "https://thanhnien.vn/roi-nuoc-mat-tam-biet-cuu-vuong-becamex-tphcm-khuc-vi-thanh-buon-185260607202231841.htm",
+      "summary": "CLB Becamex TP.HCM nói lời chia tay V-League, dù đã thắng đậm HAGL trong trận đấu hạ màn vòng 26 trên sân nhà Bình Dương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T13:29:00+07:00",
+      "fetched": "2026-06-07T22:17:59.629670+07:00"
+    },
+    {
+      "id": "3dabb302921a10d976f41ef995e77e43",
+      "title": "Xác định đối thủ của đội cố vấn Park Hang-seo ở trận play-off: Đá mấy giờ, sân nào?",
+      "link": "https://thanhnien.vn/xac-dinh-doi-thu-cua-doi-co-van-park-hang-seo-o-tran-play-off-da-may-gio-san-nao-185260607193014317.htm",
+      "summary": "CLB Bắc Ninh sẽ so tài PVF-CAND ở trận play-off tranh tấm vé dự V-League mùa tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T13:22:00+07:00",
+      "fetched": "2026-06-07T22:17:59.629787+07:00"
+    },
+    {
       "id": "e5582d0866f4fd9e1897c543083949bc",
       "title": "Bảng xếp hạng V-League chung cuộc ‘li kì’: HAGL đứng tốp khó ai ngờ, Becamex TP.HCM thời oanh liệt nay còn đâu",
       "link": "https://thanhnien.vn/bang-xep-hang-v-league-chung-cuoc-li-ki-hagl-dung-top-kho-ai-ngo-becamex-tphcm-thoi-oanh-liet-nay-con-dau-18526060719345671.htm",
@@ -481,6 +891,36 @@ window.newsData_2026_06_07 = {
       "category": "Tổng hợp",
       "published": "2026-06-07T13:12:00+07:00",
       "fetched": "2026-06-07T20:21:26.165613+07:00"
+    },
+    {
+      "id": "bfc5f04454d9732f2c78794386c8b410",
+      "title": "Nước nào có giá điện sinh hoạt thấp nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-co-gia-dien-sinh-hoat-thap-nhat-dong-nam-a-5082910.html",
+      "summary": "Mỗi số điện ở nước này có giá chưa đến 1.000 đồng, rẻ nhất Đông Nam Á. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T13:10:43+07:00",
+      "fetched": "2026-06-07T22:17:56.081257+07:00"
+    },
+    {
+      "id": "792aa7b20b5bb7d040fe227d51dfab2b",
+      "title": "Mỹ tuyên bố bắn rơi UAV Iran trên eo biển Hormuz",
+      "link": "https://vnexpress.net/my-tuyen-bo-ban-roi-uav-iran-tren-eo-bien-hormuz-5082954.html",
+      "summary": "Mỹ thông báo hạ hai UAV Iran \"đe dọa giao thông hàng hải\" ở eo biển Hormuz, nhưng không nêu chi tiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T13:09:25+07:00",
+      "fetched": "2026-06-07T22:17:56.081384+07:00"
+    },
+    {
+      "id": "792aa7b20b5bb7d040fe227d51dfab2b",
+      "title": "Mỹ tuyên bố bắn rơi UAV Iran trên eo biển Hormuz",
+      "link": "https://vnexpress.net/my-tuyen-bo-ban-roi-uav-iran-tren-eo-bien-hormuz-5082954.html",
+      "summary": "Mỹ thông báo hạ hai UAV Iran \"đe dọa giao thông hàng hải\" ở eo biển Hormuz, nhưng không nêu chi tiết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-07T13:09:25+07:00",
+      "fetched": "2026-06-07T22:18:02.324561+07:00"
     },
     {
       "id": "86fa7017a938c10511358b72b192418a",
