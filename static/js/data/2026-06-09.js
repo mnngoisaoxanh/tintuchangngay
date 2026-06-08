@@ -1,6 +1,6 @@
 window.newsData_2026_06_09 = {
   "date": "2026-06-09",
-  "lastUpdated": "2026-06-09T03:01:00.243899+07:00",
+  "lastUpdated": "2026-06-09T06:07:52.264816+07:00",
   "articles": [
     {
       "id": "43b60b3b08b23b9396cd594355f342f9",
@@ -163,6 +163,246 @@ window.newsData_2026_06_09 = {
       "fetched": "2026-06-09T00:21:18.490890+07:00"
     },
     {
+      "id": "6979fd1bc09b5dfe98d229be54dba8ce",
+      "title": "Chuyện về Mila và Chan: Hai chú rái cá khiến hàng ngàn người phải lòng",
+      "link": "https://thanhnien.vn/chuyen-ve-mila-va-chan-hai-chu-rai-ca-khien-hang-ngan-nguoi-phai-long-185260605165611423.htm",
+      "summary": "Mila và Chan đều là những cá thể rái cá vuốt bé được cứu hộ nhưng không còn khả năng trở về tự nhiên. Giờ đây, chúng trở thành những 'đại sứ' lan tỏa thông điệp bảo tồn động vật hoang dã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T23:06:00+07:00",
+      "fetched": "2026-06-09T06:07:41.264044+07:00"
+    },
+    {
+      "id": "7024e941ac3dc2a1c79117d65ca2f51e",
+      "title": "Tăng trưởng 2 con số: Động lực từ kinh tế tư nhân",
+      "link": "https://thanhnien.vn/tang-truong-2-con-so-dong-luc-tu-kinh-te-tu-nhan-185260608235753584.htm",
+      "summary": "Giải phóng năng lực nội sinh, tháo gỡ điểm nghẽn về thể chế và khơi thông nguồn vốn cho khu vực tư nhân không chỉ là bài toán của doanh nghiệp, mà còn là động lực góp phần tăng trưởng 2 con số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T23:04:00+07:00",
+      "fetched": "2026-06-09T06:07:41.264196+07:00"
+    },
+    {
+      "id": "f35479cb029ab98d3f7f8a53533f6fba",
+      "title": "Để doanh nghiệp tư nhân thực sự 'làm chủ'",
+      "link": "https://thanhnien.vn/de-doanh-nghiep-tu-nhan-thuc-su-lam-chu-18526060823500838.htm",
+      "summary": "Ông Đậu Anh Tuấn, Phó tổng thư ký, Trưởng ban Pháp chế VCCI, nhận định khu vực KTTN VN đã phát triển mạnh về quy mô nhưng vẫn chưa lớn về tầm vóc, mà cốt lõi nằm ở cấu trúc \"đông về lực lượng nhưng nhỏ về quy mô\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T23:04:00+07:00",
+      "fetched": "2026-06-09T06:07:41.264327+07:00"
+    },
+    {
+      "id": "a788113333617aaaba4a007eafb1cc46",
+      "title": "Trăm năm đất tổ kim hoàn: Nơi an nghỉ của hai vị tổ sư",
+      "link": "https://thanhnien.vn/tram-nam-dat-to-kim-hoan-noi-an-nghi-cua-hai-vi-to-su-185260608225553156.htm",
+      "summary": "Lăng mộ 2 vị tổ sư kim hoàn tọa lạc giữa khu dân cư đông đúc thuộc đường Phan Bội Châu, P.Thuận Hóa, TP.Huế, được công nhận di tích lịch sử quốc gia và được người đời thờ phụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T23:00:00+07:00",
+      "fetched": "2026-06-09T06:07:41.264453+07:00"
+    },
+    {
+      "id": "a8b9264b05477b80e97d210fc15fb397",
+      "title": "Hàng triệu người Mỹ có nguy cơ mất bảo hiểm y tế",
+      "link": "https://thanhnien.vn/hang-trieu-nguoi-my-co-nguy-co-mat-bao-hiem-y-te-185260608214634157.htm",
+      "summary": "Việc chính phủ Mỹ bất ngờ siết chặt yêu cầu làm việc đối với người hưởng bảo hiểm y tế thu nhập thấp gây bối rối cho hàng chục tiểu bang, dấy lên lo ngại nhiều người dân có thể bị mất quyền lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T23:00:00+07:00",
+      "fetched": "2026-06-09T06:07:41.264581+07:00"
+    },
+    {
+      "id": "713c57a9d165657994fcf635c84d06b0",
+      "title": "Bản tin sức khỏe 9.6: Nước sôi để nguội lâu có an toàn?  | Ngừa ung thư vú nhờ 2 thói quen này",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-96-nuoc-soi-de-nguoi-lau-co-an-toan-ngua-ung-thu-vu-nho-2-thoi-quen-nay-185260608212441939.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T23:00:00+07:00",
+      "fetched": "2026-06-09T06:07:41.264707+07:00"
+    },
+    {
+      "id": "2d90f1e316527d4890effe49d023d0da",
+      "title": "Khơi dậy mạnh mẽ tinh thần tiên phong, khát vọng dựng xây đất nước",
+      "link": "https://thanhnien.vn/khoi-day-manh-me-tinh-than-tien-phong-khat-vong-dung-xay-dat-nuoc-185260608201554213.htm",
+      "summary": "Từ giảng đường, người trẻ thành phố mang tên Bác hướng về Đại hội Đoàn toàn quốc lần thứ XIII, nhiệm kỳ 2026 - 2031. Các bạn gửi trọn niềm tin, kỳ vọng, đồng thời hiến kế để xây dựng tổ chức Đoàn ngày càng phát triển vững mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T23:00:00+07:00",
+      "fetched": "2026-06-09T06:07:41.264843+07:00"
+    },
+    {
+      "id": "faf4ad860383447c301a63fc3997b5ce",
+      "title": "'Báo động đỏ' xâm phạm vùng cấm bay",
+      "link": "https://thanhnien.vn/bao-dong-do-xam-pham-vung-cam-bay-18526060819340343.htm",
+      "summary": "Chỉ trong vòng chưa đầy 2 ngày (từ 6 - 7.6), 3 sự cố hàng không liên quan đến vật thể bay không người lái và diều sáo đã liên tiếp xảy ra tại các cảng hàng không lớn. Một \"trận địa\" hiểm họa bủa vây an toàn bay đã đến ngưỡng báo động đỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T23:00:00+07:00",
+      "fetched": "2026-06-09T06:07:41.264995+07:00"
+    },
+    {
+      "id": "18488deb21762ab51de56d902c9f0af8",
+      "title": "Nhờ dòng điện ổn định, cuộc đời từng thành viên gia đình tôi bước sang trang mới",
+      "link": "https://thanhnien.vn/nho-dong-dien-on-dinh-cuoc-doi-tung-thanh-vien-gia-dinh-toi-buoc-sang-trang-moi-185260607205316811.htm",
+      "summary": "Bước ngoặt trong suy nghĩ của tôi về 'ánh sáng' không đến từ một trang sách, mà đến từ một đêm mưa bão năm tôi 12 tuổi. Và rồi nhờ vào dòng điện ổn định, cuộc đời của từng thành viên gia đình tôi bước sang trang mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T23:00:00+07:00",
+      "fetched": "2026-06-09T06:07:41.265122+07:00"
+    },
+    {
+      "id": "e6aa095f3ff96f0486570a760dfc8c40",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 9.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-962026-185260608235420162.htm",
+      "summary": "Tin tức Đầu tháng 7 khai quật mộ liệt sĩ tại Công viên Lê Thị Riêng; Tăng trưởng 2 con số: Động lực từ kinh tế tư nhân; Thi tốt nghiệp THPT 2026: Quy định thí sinh cần lưu ý trong phòng thi... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 9.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T22:59:00+07:00",
+      "fetched": "2026-06-09T06:07:41.265245+07:00"
+    },
+    {
+      "id": "9debd603154183ec12310ebfe7d153ad",
+      "title": "Vị thế kiến tạo",
+      "link": "https://thanhnien.vn/vi-the-kien-tao-18526060823440699.htm",
+      "summary": "Hôm nay (9.6), Diễn đàn Tương lai ASEAN (AFF) 2026 diễn ra tại Hà Nội với chủ đề \"Cùng định hình tương lai chung: Hòa bình, thịnh vượng, lấy người dân làm trung tâm\", kéo dài trong 2 ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T22:58:00+07:00",
+      "fetched": "2026-06-09T06:07:41.265364+07:00"
+    },
+    {
+      "id": "c9c9612e5fc9907c889f91ecf25f1803",
+      "title": "Thi tốt nghiệp THPT 2026: Quy định thí sinh cần lưu ý trong phòng thi",
+      "link": "https://thanhnien.vn/thi-tot-nghiep-thpt-2026-quy-dinh-thi-sinh-can-luu-y-trong-phong-thi-185260608232110035.htm",
+      "summary": "Thí sinh bước vào phòng thi không chỉ cần chắc chắn về kiến thức sau 12 năm đèn sách mà còn cần nắm vững các quy định để không vô tình hay cố ý vi phạm, thậm chí bị khởi tố...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T22:54:00+07:00",
+      "fetched": "2026-06-09T06:07:41.265481+07:00"
+    },
+    {
+      "id": "10effa627632818341646504b51d5c60",
+      "title": "Gia Lai chi 23,9 tỉ đồng tu bổ nơi phôi thai chữ Quốc ngữ",
+      "link": "https://thanhnien.vn/gia-lai-chi-239-ti-dong-tu-bo-noi-phoi-thai-chu-quoc-ngu-185260608230743812.htm",
+      "summary": "Ngày 8.6, UBND tỉnh Gia Lai cho biết đã phê duyệt chủ trương đầu tư dự án tu bổ, tôn tạo di tích lịch sử Nước Mặn - nơi phôi thai chữ Quốc ngữ (thôn An Hòa, xã Tuy Phước Bắc, Gia Lai). Dự án do Sở VH-TT-DL tỉnh Gia Lai làm chủ đầu tư, tổng mức đầu tư hơn 23,9 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T22:45:00+07:00",
+      "fetched": "2026-06-09T06:07:41.265597+07:00"
+    },
+    {
+      "id": "8de7f4559df4baeaa4a014ca99c12814",
+      "title": "Việt Nam bứt phá bằng KH-CN: Tạo nguồn nhân lực làm chủ công nghệ cốt lõi",
+      "link": "https://thanhnien.vn/viet-nam-but-pha-bang-kh-cn-tao-nguon-nhan-luc-lam-chu-cong-nghe-cot-loi-185260608192829043.htm",
+      "summary": "Đại diện doanh nghiệp, viện nghiên cứu về các công nghệ cốt lõi như vật liệu, lượng tử cho rằng VN cần có bước đi cấp bách để làm chủ các công nghệ cốt lõi này; trong đó bước quan trọng là đào tạo nguồn nhân lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T22:45:00+07:00",
+      "fetched": "2026-06-09T06:07:41.265717+07:00"
+    },
+    {
+      "id": "f427da315f5c82226b3cdceaf7072f94",
+      "title": "Đường Nguyễn Xiển chi chít ổ gà, ổ voi: Người dân nơm nớp 'đi như đánh cược'",
+      "link": "https://thanhnien.vn/duong-nguyen-xien-chi-chit-o-ga-o-voi-nguoi-dan-nom-nop-di-nhu-danh-cuoc-185260608141333192.htm",
+      "summary": "Hàng loạt ổ gà, ổ voi xuất hiện trên đường Nguyễn Xiển (phường Long Bình, TP.HCM), khiến người dân lo lắng vì nguy cơ tai nạn, đặc biệt vào giờ cao điểm và những ngày mưa lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T22:45:00+07:00",
+      "fetched": "2026-06-09T06:07:41.265832+07:00"
+    },
+    {
+      "id": "ab2d07e5d49d386ef0b29e47965d105a",
+      "title": "Carragher: 'Tuyển Anh thiếu cầu thủ đẳng cấp quốc tế'",
+      "link": "https://vnexpress.net/carragher-tuyen-anh-thieu-cau-thu-dang-cap-quoc-te-5083403.html",
+      "summary": "Cựu hậu vệ Jamie Carragher cho rằng tuyển Anh sẽ đối mặt với nhiều thử thách tại World Cup 2026, dù sở hữu lực lượng được đánh giá đồng đều.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-08T22:32:50+07:00",
+      "fetched": "2026-06-09T06:07:52.259673+07:00"
+    },
+    {
+      "id": "4f9b7b74268ba4ccb690049a86903218",
+      "title": "Dembele chấn chỉnh Mbappe trước World Cup",
+      "link": "https://vnexpress.net/dembele-chan-chinh-mbappe-truoc-world-cup-5083410.html",
+      "summary": "Quả Bóng Vàng 2025 Ousmane Dembele nhiều lần nhắn nhủ thủ quân Kylian Mbappe phải tích cực hỗ trợ phòng ngự hơn ở tuyển Pháp, cho thấy vị thế ngày càng lớn của anh trước World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-08T22:29:14+07:00",
+      "fetched": "2026-06-09T06:07:52.259811+07:00"
+    },
+    {
+      "id": "fbd3a2753fb2b5d47e9a0b522dfc87ca",
+      "title": "Hiện trạng đường từ TP HCM đi miền Tây được đề xuất mở rộng gấp 6",
+      "link": "https://vnexpress.net/hien-trang-duong-tu-tp-hcm-di-mien-tay-duoc-de-xuat-mo-rong-gap-6-5083095.html",
+      "summary": "Đường Lê Văn Lương, kết nối TP HCM với Tây Ninh và miền Tây, hiện nhỏ hẹp, thường ùn tắc vào giờ cao điểm được đề xuất mở rộng với tổng vốn gần 10.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T22:00:00+07:00",
+      "fetched": "2026-06-09T06:07:37.804742+07:00"
+    },
+    {
+      "id": "73a4d2273802fddde127014b6a1fd575",
+      "title": "Triều Tiên thay đổi sau đại dịch",
+      "link": "https://vnexpress.net/trieu-tien-thay-doi-sau-dai-dich-5083038.html",
+      "summary": "Triều Tiên đang có nhiều dấu hiệu đổi thay về kinh tế, công nghệ và hạ tầng, đặc biệt tại thủ đô Bình Nhưỡng, 5 năm sau khi đóng cửa biên giới vì Covid-19.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T22:00:00+07:00",
+      "fetched": "2026-06-09T06:07:37.804951+07:00"
+    },
+    {
+      "id": "a3bc3b112bc571e7106f3067b77e3cef",
+      "title": "Quan điểm trái ngược về nguy cơ khi chụp giơ ngón tay chữ V",
+      "link": "https://vnexpress.net/quan-diem-trai-nguoc-ve-nguy-co-khi-chup-gio-ngon-tay-chu-v-5082444.html",
+      "summary": "Một số chuyên gia cảnh báo người dùng có thể bị thu thập dấu vân tay khi chụp tạo dáng \"chữ V\", nhưng nhiều chuyên gia khác gạt bỏ lo ngại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T22:00:00+07:00",
+      "fetched": "2026-06-09T06:07:37.805101+07:00"
+    },
+    {
+      "id": "1ea34902aa41ed457ae101d3e65c20af",
+      "title": "GAC GS3 Enzoom - CUV cỡ B sắp bán tại Việt Nam",
+      "link": "https://vnexpress.net/gac-gs3-enzoom-cuv-co-b-sap-ban-tai-viet-nam-5082387.html",
+      "summary": "Nhập khẩu Malaysia, GS3 Enzoom trang bị động cơ tăng áp 1,5 lít, dự kiến gia nhập phân khúc của những Toyota Yaris Cross, Mitsubishi Xforce vào tháng 7 tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T22:00:00+07:00",
+      "fetched": "2026-06-09T06:07:37.805244+07:00"
+    },
+    {
+      "id": "73a4d2273802fddde127014b6a1fd575",
+      "title": "Triều Tiên thay đổi sau đại dịch",
+      "link": "https://vnexpress.net/trieu-tien-thay-doi-sau-dai-dich-5083038.html",
+      "summary": "Triều Tiên đang có nhiều dấu hiệu đổi thay về kinh tế, công nghệ và hạ tầng, đặc biệt tại thủ đô Bình Nhưỡng, 5 năm sau khi đóng cửa biên giới vì Covid-19.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-08T22:00:00+07:00",
+      "fetched": "2026-06-09T06:07:44.558545+07:00"
+    },
+    {
+      "id": "a3bc3b112bc571e7106f3067b77e3cef",
+      "title": "Quan điểm trái ngược về nguy cơ khi chụp giơ ngón tay chữ V",
+      "link": "https://vnexpress.net/quan-diem-trai-nguoc-ve-nguy-co-khi-chup-gio-ngon-tay-chu-v-5082444.html",
+      "summary": "Một số chuyên gia cảnh báo người dùng có thể bị thu thập dấu vân tay khi chụp tạo dáng \"chữ V\", nhưng nhiều chuyên gia khác gạt bỏ lo ngại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-08T22:00:00+07:00",
+      "fetched": "2026-06-09T06:07:50.676097+07:00"
+    },
+    {
+      "id": "85038569a9cc5b434e519a90c4492d76",
+      "title": "Vì sao xăng E10 có nhiều màu sắc?",
+      "link": "https://vnexpress.net/vi-sao-xang-e10-co-nhieu-mau-sac-5083201.html",
+      "summary": "Màu sắc xăng E10 phụ thuộc nguồn xăng khoáng, quy trình sản xuất, phụ gia sử dụng, không phản ánh chất lượng nhiên liệu hay tỷ lệ ethanol pha trộn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T21:00:00+07:00",
+      "fetched": "2026-06-09T06:07:37.805376+07:00"
+    },
+    {
       "id": "c81b540ac975d93c757d2326bcf43275",
       "title": "Ba lần hình ảnh Việt Nam xuất hiện tại sự kiện Apple",
       "link": "https://vnexpress.net/ba-lan-hinh-anh-viet-nam-xuat-hien-tai-su-kien-apple-5083423.html",
@@ -171,6 +411,26 @@ window.newsData_2026_06_09 = {
       "category": "Công nghệ",
       "published": "2026-06-08T19:32:25+07:00",
       "fetched": "2026-06-09T03:00:59.113869+07:00"
+    },
+    {
+      "id": "6cf95c8c7b09fc5aea1dc5da85727525",
+      "title": "Hình ảnh Việt Nam xuất hiện nhiều lần tại sự kiện Apple",
+      "link": "https://vnexpress.net/hinh-anh-viet-nam-xuat-hien-nhieu-lan-tai-su-kien-apple-5083423.html",
+      "summary": "Sự kiện WWDC 2026 của Apple sử dụng món phở để minh họa AI đánh giá dinh dưỡng, hình ảnh Hà Nội cho tính năng nhận diện giọng nói, và tiếng Việt trong ngôn ngữ hỗ trợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T19:32:25+07:00",
+      "fetched": "2026-06-09T06:07:37.805509+07:00"
+    },
+    {
+      "id": "6cf95c8c7b09fc5aea1dc5da85727525",
+      "title": "Hình ảnh Việt Nam xuất hiện nhiều lần tại sự kiện Apple",
+      "link": "https://vnexpress.net/hinh-anh-viet-nam-xuat-hien-nhieu-lan-tai-su-kien-apple-5083423.html",
+      "summary": "Sự kiện WWDC 2026 của Apple sử dụng món phở để minh họa AI đánh giá dinh dưỡng, hình ảnh Hà Nội cho tính năng nhận diện giọng nói, và tiếng Việt trong ngôn ngữ hỗ trợ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-08T19:32:25+07:00",
+      "fetched": "2026-06-09T06:07:50.676257+07:00"
     },
     {
       "id": "bb144f86ac43d517a567b0f8fc2c8eb8",
