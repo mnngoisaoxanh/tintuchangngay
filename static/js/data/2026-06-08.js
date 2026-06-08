@@ -1,7 +1,267 @@
 window.newsData_2026_06_08 = {
   "date": "2026-06-08",
-  "lastUpdated": "2026-06-08T05:54:19.914623+07:00",
+  "lastUpdated": "2026-06-08T09:41:08.102261+07:00",
   "articles": [
+    {
+      "id": "3f2930018386af9277f3a54531bf3077",
+      "title": "Bạch Lộc lên bìa Madame Figaro diện chiếc đầm màu nude khả ái của nhà thiết kế Việt",
+      "link": "https://tuoitre.vn/bach-loc-len-bia-madame-figaro-dien-chiec-dam-mau-nude-kha-ai-cua-nha-thiet-ke-viet-20260608055907698.htm",
+      "summary": "Sau khi chinh phục Triệu Lộ Tư, Phạm Băng Băng, mẫu đầm của Phan Huy tiếp tục được Bạch Lộc ưu ái. Cô xuất hiện trên bìa Madame Figaro China với chiếc đầm trong bộ sưu tập Cành vàng lá ngọc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.762047+07:00",
+      "fetched": "2026-06-08T09:40:59.762142+07:00"
+    },
+    {
+      "id": "4e0f0347d88c32c25cf265d5e93a1f08",
+      "title": "Nghe ‘Bức họa đồng quê’, ‘Như một hòn bi xanh’ để thêm yêu môi trường",
+      "link": "https://tuoitre.vn/nghe-buc-hoa-dong-que-nhu-mot-hon-bi-xanh-de-them-yeu-moi-truong-20260608062859081.htm",
+      "summary": "Tối 7-6, các nghệ sĩ Thanh Ngoan, Trọng Tấn, Thái Thùy Linh cùng các nghệ sĩ Nhà hát Nghệ thuật đương đại Việt Nam đã biểu diễn miễn phí trước khán giả những bài hát ca ngợi quê hương Việt Nam tươi đẹp, truyền thông điệp bảo vệ môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.761947+07:00",
+      "fetched": "2026-06-08T09:40:59.762038+07:00"
+    },
+    {
+      "id": "db1f4519a024a97d82a3c55ccfb1d895",
+      "title": "Hơn 20 năm, Ngôi nhà thiếu đàn bà đã trở lại Nhà hát kịch 5B",
+      "link": "https://tuoitre.vn/hon-20-nam-ngoi-nha-thieu-dan-ba-da-tro-lai-nha-hat-kich-5b-20260608062056806.htm",
+      "summary": "Sau hơn 20 năm, NSND Mỹ Uyên đã quyết định đưa vở kịch Ngôi nhà thiếu đàn bà nổi tiếng của cố soạn giả Ngọc Linh trở lại địa chỉ Nhà hát kịch 5B với phiên bản mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.761834+07:00",
+      "fetched": "2026-06-08T09:40:59.761939+07:00"
+    },
+    {
+      "id": "dc03bf8943307403b33fa59f308f9972",
+      "title": "Minh Hằng từng stress vì những quy tắc nuôi con do chính mình đặt ra",
+      "link": "https://tuoitre.vn/minh-hang-tung-stress-vi-nhung-quy-tac-nuoi-con-do-chinh-minh-dat-ra-20260608065204223.htm",
+      "summary": "Xuất hiện trong chương trình Studio 3, ca sĩ, diễn viên Minh Hằng đã có những chia sẻ cởi mở về cuộc sống làm mẹ, những thay đổi lớn trong suy nghĩ sau khi có con trai đầu lòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.761734+07:00",
+      "fetched": "2026-06-08T09:40:59.761826+07:00"
+    },
+    {
+      "id": "21954f7c13ee3a4039548044eacd496f",
+      "title": "Bại tướng của Lại Lý Huynh chinh phục làng cờ tướng Trung Quốc",
+      "link": "https://tuoitre.vn/bai-tuong-cua-lai-ly-huynh-chinh-phuc-lang-co-tuong-trung-quoc-2026060719293131.htm",
+      "summary": "Doãn Thăng, người từng là bại tướng của Lại Lý Huynh ở Giải vô địch cờ tướng thế giới, đang có phong độ rất cao với liên tiếp các chiến tích thời gian gần đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.761640+07:00",
+      "fetched": "2026-06-08T09:40:59.761726+07:00"
+    },
+    {
+      "id": "b07894271921bb5ced55acc4251ef4db",
+      "title": "Honda Winner có bản đặc biệt cho dân đi phượt, tăng sức đấu Yamaha Exciter",
+      "link": "https://tuoitre.vn/honda-winner-co-ban-dac-biet-cho-dan-di-phuot-tang-suc-dau-yamaha-exciter-20260608010444692.htm",
+      "summary": "Xuất hiện tại Malaysia Bike Show 2026, Honda Winner bản đặc biệt gây chú ý khi khoác lên mình phong cách adventure khác lạ. Mẫu xe cho thấy một hướng tiếp cận mới của Honda dành cho dòng underbone hiệu năng cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.761544+07:00",
+      "fetched": "2026-06-08T09:40:59.761631+07:00"
+    },
+    {
+      "id": "b699636bcb770c71aa91a63496f0e70b",
+      "title": "Chứng khoán tuần mới: VN-Index hồi phục, chuyên gia khuyên không vội mua đuổi",
+      "link": "https://tuoitre.vn/chung-khoan-tuan-moi-vn-index-hoi-phuc-chuyen-gia-khuyen-khong-voi-mua-duoi-20260608073540613.htm",
+      "summary": "Dự báo VN-Index có thể tiếp tục hướng đến vùng 1.850 - 1.870 điểm. Tuy nhiên, thanh khoản chưa cải thiện rõ rệt và dòng tiền còn phân hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.761446+07:00",
+      "fetched": "2026-06-08T09:40:59.761535+07:00"
+    },
+    {
+      "id": "80cc3d94796a35154de9a3ca60963321",
+      "title": "TP Đồng Nai - TP.HCM: Cơ hội lớn từ mô hình đô thị ‘song sinh’",
+      "link": "https://tuoitre.vn/tp-dong-nai-tp-hcm-co-hoi-lon-tu-mo-hinh-do-thi-song-sinh-20260605155311691.htm",
+      "summary": "Sự cộng hưởng giữa TP.HCM và TP Đồng Nai hứa hẹn trở thành bộ đôi cực tăng trưởng mới, thay đổi hoàn toàn diện mạo kinh tế phía Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.761348+07:00",
+      "fetched": "2026-06-08T09:40:59.761437+07:00"
+    },
+    {
+      "id": "8fe63a7224bc84d2e0ec710ff748a8db",
+      "title": "Vận hành máy xạ trị proton tư thế ngồi đầu tiên thế giới",
+      "link": "https://tuoitre.vn/van-hanh-may-xa-tri-proton-tu-the-ngoi-dau-tien-the-gioi-20260605222715514.htm",
+      "summary": "Bệnh viện Stanford vừa công bố vận hành máy xạ trị proton tư thế ngồi với nhiều ưu điểm vượt trội; dự kiến hệ thống cũng sẽ được lắp đặt tại Bệnh viện Tâm Anh từ đầu năm 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.761249+07:00",
+      "fetched": "2026-06-08T09:40:59.761339+07:00"
+    },
+    {
+      "id": "89efb02122b88f43ae7f4598c5a035cb",
+      "title": "Iran phóng 11 tên lửa vào Israel, ông Trump yêu cầu ông Netanyahu tạm hoãn trả đũa",
+      "link": "https://tuoitre.vn/iran-phong-11-ten-lua-vao-israel-ong-trump-noi-voi-ong-netanyahu-hay-tam-hoan-tra-dua-20260608074102363.htm",
+      "summary": "Thủ tướng Israel Benjamin Netanyahu được cho là đã đồng ý với đề nghị của ông Trump về việc tạm hoãn đáp trả cuộc tấn công tên lửa của Iran, để Washington có thêm vài ngày theo đuổi thỏa thuận với Tehran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.761151+07:00",
+      "fetched": "2026-06-08T09:40:59.761241+07:00"
+    },
+    {
+      "id": "6f9e0d41886822e3b86f2e7dd6bc80af",
+      "title": "Từ 1-7, ai được trả 100% chi phí khám chữa bệnh bảo hiểm y tế?",
+      "link": "https://tuoitre.vn/tu-1-7-ai-duoc-tra-100-chi-phi-kham-chua-benh-bao-hiem-y-te-20260607114659079.htm",
+      "summary": "Từ ngày 1-7, nhiều ngưỡng thanh toán và quyền lợi của người tham gia bảo hiểm y tế sẽ thay đổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.761049+07:00",
+      "fetched": "2026-06-08T09:40:59.761142+07:00"
+    },
+    {
+      "id": "2cef2ca5e830b6fa53e00d789dbe3567",
+      "title": "Động đất mạnh 7,8 độ gây chết người và thiệt hại ở Philippines, cảnh báo sóng thần tại nhiều nước",
+      "link": "https://tuoitre.vn/dong-dat-manh-7-8-do-gay-chet-nguoi-va-thiet-hai-o-philippines-canh-bao-song-than-tai-nhieu-nuoc-202606080812068.htm",
+      "summary": "Ngày 8-6, một trận động đất mạnh 7,8 độ đã xảy ra ngoài khơi bờ biển phía nam Philippines.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.760940+07:00",
+      "fetched": "2026-06-08T09:40:59.761040+07:00"
+    },
+    {
+      "id": "6f2aa34945a85f9fe118a51fa18206a6",
+      "title": "Phó thủ tướng Phạm Thị Thanh Trà dâng hoa tưởng niệm anh hùng liệt sĩ tại công viên Lê Thị Riêng",
+      "link": "https://tuoitre.vn/pho-thu-tuong-pham-thi-thanh-tra-dang-hoa-tuong-niem-anh-hung-liet-si-tai-cong-vien-le-thi-rieng-20260608044911353.htm",
+      "summary": "Đoàn công tác lãnh đạo Nhà nước do Phó thủ tướng Phạm Thị Thanh Trà làm trưởng đoàn cùng lãnh đạo TP.HCM đến dâng hương các anh hùng liệt sĩ tại công viên Lê Thị Riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.760805+07:00",
+      "fetched": "2026-06-08T09:40:59.760930+07:00"
+    },
+    {
+      "id": "a57fac6a39fe09215e714624cbb45388",
+      "title": "Florentino Perez thắng áp đảo, tiếp tục giữ ghế chủ tịch Real Madrid",
+      "link": "https://tuoitre.vn/florentino-perez-thang-ap-dao-tiep-tuc-giu-ghe-chu-tich-real-madrid-20260608074600433.htm",
+      "summary": "Ông Florentino Pérez (79 tuổi) sẽ tiếp tục giữ chức Chủ tịch CLB Real Madrid sau khi giành chiến thắng trong cuộc bầu cử đầu tiên sau 20 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.760677+07:00",
+      "fetched": "2026-06-08T09:40:59.760794+07:00"
+    },
+    {
+      "id": "6cd2be4283da4bb8e141a3d34b10f08a",
+      "title": "Bộ Nội vụ hướng dẫn mới về sắp xếp, tổ chức đơn vị sự nghiệp công lập đa ngành, đa lĩnh vực ở cấp xã",
+      "link": "https://tuoitre.vn/bo-noi-vu-huong-dan-moi-ve-sap-xep-to-chuc-don-vi-su-nghiep-cong-lap-da-nganh-da-linh-vuc-o-cap-xa-20260608074118743.htm",
+      "summary": "Bộ Nội vụ hướng dẫn cụ thể về tổ chức đơn vị sự nghiệp công lập cung ứng các dịch vụ sự nghiệp công cơ bản, thiết yếu đa ngành, đa lĩnh vực ở cấp xã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T09:40:59.760438+07:00",
+      "fetched": "2026-06-08T09:40:59.760664+07:00"
+    },
+    {
+      "id": "e8646303e705fcb8aa2327934538939d",
+      "title": "Người dùng Việt lo ngại Subaru Forester lỗi cửa sổ trời, hãng xe Nhật Bản lên tiếng",
+      "link": "https://thanhnien.vn/nguoi-dung-viet-lo-ngai-subaru-forester-loi-cua-so-troi-hang-xe-nhat-ban-len-tieng-185260607172903236.htm",
+      "summary": "Thông tin gần 70.000 xe Subaru Forester đang bị triệu hồi tại Mỹ do lỗi liên quan đến kính cửa sổ trời khiến nhiều người dùng trong nước lo lắng. Trước những thắc mắc và băn khoăn của người dùng, Subaru Việt Nam mới đây chính thức lên tiếng phản hồi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:39:00+07:00",
+      "fetched": "2026-06-08T09:40:58.621376+07:00"
+    },
+    {
+      "id": "825a208204afc2200e98a83aff441912",
+      "title": "Tai nạn trên cao tốc Bãi Vọt - Hàm Nghi, 2 người tử vong tại chỗ",
+      "link": "https://thanhnien.vn/tai-nan-tren-cao-toc-bai-vot-ham-nghi-2-nguoi-tu-vong-tai-cho-185260608090041773.htm",
+      "summary": "Cú va chạm cực mạnh giữa 2 xe tải chạy cùng chiều trên cao tốc Bãi Vọt - Hàm Nghi (đoạn qua Hà Tĩnh) khiến 2 người tử vong và 1 người bị thương nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:37:00+07:00",
+      "fetched": "2026-06-08T09:40:58.621525+07:00"
+    },
+    {
+      "id": "bad76ddd8b931347c7abf3ff1dfc6b35",
+      "title": "Lộ diện 10 thương hiệu xe máy bán chạy nhất thế giới hiện nay",
+      "link": "https://thanhnien.vn/lo-dien-10-thuong-hieu-xe-may-ban-chay-nhat-the-gioi-hien-nay-185260606075927229.htm",
+      "summary": "Bất chấp áp lực cạnh tranh từ xe máy điện, Honda vẫn tiếp tục giữ vững vị thế của một hãng xe máy hàng đầu thế giới, trong khi các hãng xe Ấn Độ… vẫn cho thấy sự áp đảo trong danh sách 10 thương hiệu xe máy bán chạy nhất thế giới vừa được MotorCycles Data công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:36:00+07:00",
+      "fetched": "2026-06-08T09:40:58.621659+07:00"
+    },
+    {
+      "id": "2afebb2c3ad29fb39766c12d40778374",
+      "title": "Hơn 1.000 xe tay ga Vespa, Liberty tại Việt Nam ‘lãnh án’ triệu hồi",
+      "link": "https://thanhnien.vn/hon-1000-xe-tay-ga-vespa-liberty-tai-viet-nam-lanh-an-trieu-hoi-185260607144637585.htm",
+      "summary": "Hơn 1.000 xe tay ga Vespa, Liberty tại Việt Nam thuộc các phiên bản Vespa Primavera, Vespa Sprint, Liberty 125cc vừa được Piaggio Việt Nam thông báo triệu hồi để khắc phục lỗi liên quan đến hệ thống đèn chiếu sáng phía trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:34:00+07:00",
+      "fetched": "2026-06-08T09:40:58.621790+07:00"
+    },
+    {
+      "id": "fc96dd5251cd90922633066127fdb6d8",
+      "title": "Iran tuyên bố nhắm mục tiêu vào các nhóm vũ trang ở Iraq",
+      "link": "https://vnexpress.net/iran-tuyen-bo-nham-muc-tieu-vao-cac-nhom-vu-trang-o-iraq-5083046.html",
+      "summary": "Quân đội Iran thông báo đã tấn công trụ sở của các nhóm đối lập người Kurd ở biên giới Iran-Iraq, trong bối cảnh căng thẳng leo thang với Israel.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-08T02:21:07+07:00",
+      "fetched": "2026-06-08T09:41:01.546901+07:00"
+    },
+    {
+      "id": "19863ffbc2422949858e274fa3c4fe11",
+      "title": "Nữ thị trưởng gốc Việt đầu tiên ở Mỹ tái đắc cử",
+      "link": "https://vnexpress.net/nu-thi-truong-goc-viet-dau-tien-o-my-tai-dac-cu-5083067.html",
+      "summary": "Bà Helen Trần, người đứng đầu San Bernardino và là nữ thị trưởng gốc Việt đầu tiên ở Mỹ, tái đắc cử từ vòng sơ bộ với số phiếu áp đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-08T02:20:44+07:00",
+      "fetched": "2026-06-08T09:41:01.547057+07:00"
+    },
+    {
+      "id": "d529082f344256264db697d0bbf34f02",
+      "title": "Mộ liệt sĩ tại Công viên Lê Thị Riêng: Thêm cơ sở khai quật",
+      "link": "https://thanhnien.vn/mo-liet-si-tai-cong-vien-le-thi-rieng-them-co-so-khai-quat-185260608091456346.htm",
+      "summary": "Phó thủ tướng Phạm Thị Thanh Trà đề nghị đánh giá toàn diện các nguồn tư liệu, bảo đảm đủ cơ sở khoa học, pháp lý trước khi khai quật tìm kiếm liệt sĩ tại khu vực nghi vấn có mộ liệt sĩ tại Công viên Lê Thị Riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:20:00+07:00",
+      "fetched": "2026-06-08T09:40:58.621936+07:00"
+    },
+    {
+      "id": "1f5c936299e9f6a444afe7ba38090645",
+      "title": "Chiết khấu xuống thấp, doanh nghiệp kiến nghị có quy định mới",
+      "link": "https://thanhnien.vn/chiet-khau-xuong-thap-doanh-nghiep-kien-nghi-co-quy-dinh-moi-185260608085809798.htm",
+      "summary": "Hiệp hội Dầu khí Đồng Nai vừa có văn bản gửi UBND và Sở Công thương thành phố Đồng Nai phản ánh vấn đề chiết khấu bán lẻ xăng dầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:20:00+07:00",
+      "fetched": "2026-06-08T09:40:58.622066+07:00"
+    },
+    {
+      "id": "5d9a3e0f63637b1d753fdded981c5dca",
+      "title": "Quảng Trị: Giấu 7.000 viên hồng phiến, ma túy đá và 'nước vui' trên mái nhà",
+      "link": "https://thanhnien.vn/quang-tri-giau-7000-vien-hong-phien-ma-tuy-da-va-nuoc-vui-tren-mai-nha-185260608083120764.htm",
+      "summary": "Công an tỉnh Quảng Trị vừa bắt giữ 3 nghi phạm sử dụng trái phép chất ma túy, thu giữ nhiều loại ma túy như hồng phiến, ma túy đá và 'nước vui'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:17:00+07:00",
+      "fetched": "2026-06-08T09:40:58.622190+07:00"
+    },
+    {
+      "id": "2ec88e3d8bb5bd91c8173773ca347d06",
+      "title": "Brazil chia tay ngôi sao cực hay, HLV Ancelotti vẫn tuyên bố mạnh mẽ: Phải vô địch World Cup 2026!",
+      "link": "https://thanhnien.vn/brazil-chia-tay-ngoi-sao-cuc-hay-hlv-ancelotti-van-tuyen-bo-manh-me-phai-vo-dich-world-cup-2026-185260608082114941.htm",
+      "summary": "Ngày 8.6, Liên đoàn Bóng đá Brazil (CBF) xác nhận, hậu vệ Wesley chính thức chia tay World Cup 2026 và đã triệu tập cầu thủ Ederson từ CLB Atalanta thay thế. Bất chấp cú sốc này, HLV Ancelotti tuyên bố mục tiêu vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:12:00+07:00",
+      "fetched": "2026-06-08T09:40:58.622320+07:00"
+    },
+    {
+      "id": "cd6ae2616daa09387b3811ba81867d55",
+      "title": "5 điện thoại Android từ bỏ pin Lithium-ion để chuyển sang Silicon-Carbon",
+      "link": "https://thanhnien.vn/5-dien-thoai-android-tu-bo-pin-lithium-ion-de-chuyen-sang-silicon-carbon-185260607222319104.htm",
+      "summary": "5 mẫu điện thoại Android sở hữu công nghệ pin Silicon-Carbon hứa hẹn một cuộc cách mạng năng lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:07:00+07:00",
+      "fetched": "2026-06-08T09:40:58.622445+07:00"
+    },
     {
       "id": "4886d22fcf94ff50b32387011da12387",
       "title": "Cử tri Mỹ thất vọng về kinh tế, Đảng Cộng hòa vẫn còn hy vọng ở bầu cử giữa kỳ",
@@ -111,6 +371,276 @@ window.newsData_2026_06_08 = {
       "category": "Tổng hợp",
       "published": "2026-06-08T02:06:08.115104+07:00",
       "fetched": "2026-06-08T02:06:08.115331+07:00"
+    },
+    {
+      "id": "5f3a444677eadd5b66f81a630cc4d770",
+      "title": "'Hợp tác quốc tế giúp rút ngắn hành trình từ phòng thí nghiệm ra thị trường'",
+      "link": "https://vnexpress.net/hop-tac-quoc-te-giup-rut-ngan-hanh-trinh-tu-phong-thi-nghiem-ra-thi-truong-5081686.html",
+      "summary": "Kết nối hệ sinh thái đổi mới sáng tạo quốc tế có thể giúp startup và tổ chức nghiên cứu tại Việt Nam kiểm chứng sản phẩm, rút ngắn hành trình thương mại hóa, theo đại diện Trung tâm Phát triển Công nghệ và Đổi mới sáng tạo Tây Ban Nha (CDTI),",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:00:00+07:00",
+      "fetched": "2026-06-08T09:40:55.375898+07:00"
+    },
+    {
+      "id": "f7e806c0250066afd255c3791c325252",
+      "title": "Hoại tử ngón chân do tắc động mạch",
+      "link": "https://vnexpress.net/hoai-tu-ngon-chan-do-tac-dong-mach-5083027.html",
+      "summary": "Bà Minh, 61 tuổi, đau nhức, lạnh buốt chân suốt một tháng, tự uống thuốc, nay hai ngón chân hoại tử do tắc động mạch, phải cắt bỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:00:00+07:00",
+      "fetched": "2026-06-08T09:40:55.376071+07:00"
+    },
+    {
+      "id": "37da756e12e8656f7991df519dafbed9",
+      "title": "Lò vi sóng Japandi mang đến trải nghiệm 'nấu ăn như đầu bếp'",
+      "link": "https://vnexpress.net/lo-vi-song-japandi-mang-den-trai-nghiem-nau-an-nhu-dau-bep-5079168.html",
+      "summary": "Lò vi sóng Toshiba cao cấp Japandi MX2-STR25SC(WH) tích hợp hấp, nướng, chiên không dầu, mang đến cảm giác nấu ăn như đầu bếp tại nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:00:00+07:00",
+      "fetched": "2026-06-08T09:40:55.376217+07:00"
+    },
+    {
+      "id": "3c1fd77f3e95f29509267b6ea3725149",
+      "title": "Học trò, luật sư chúc mừng Giáo sư Đỗ Văn Đại nhận huân chương Cành cọ Hàn lâm",
+      "link": "https://thanhnien.vn/hoc-tro-luat-su-chuc-mung-giao-su-do-van-dai-nhan-huan-chuong-canh-co-han-lam-185260607132720376.htm",
+      "summary": "Giáo sư Đỗ Văn Đại, Phó hiệu trưởng Trường đại học Luật TP.HCM được trao huân chương Cành cọ Hàn lâm theo sắc lệnh của Thủ tướng Chính phủ Pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:00:00+07:00",
+      "fetched": "2026-06-08T09:40:58.622568+07:00"
+    },
+    {
+      "id": "e31437dfe409db9910644fd0cccd758b",
+      "title": "‘Bàn tay ta làm nên tất cả’",
+      "link": "https://thanhnien.vn/ban-tay-ta-lam-nen-tat-ca-185260529100436279.htm",
+      "summary": "45 năm nay, anh Mã Thanh Điền, quê ở ấp Tây Sơn 1, xã An Biên, tỉnh An Giang, đã \"vượt lên chính mình\" bằng nghị lực phi thường. Những khiếm khuyết về cơ thể không ngăn được anh tự lực cánh sinh, vươn lên trong nghịch cảnh để sống như một người bình thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T02:00:00+07:00",
+      "fetched": "2026-06-08T09:40:58.622690+07:00"
+    },
+    {
+      "id": "5f3a444677eadd5b66f81a630cc4d770",
+      "title": "'Hợp tác quốc tế giúp rút ngắn hành trình từ phòng thí nghiệm ra thị trường'",
+      "link": "https://vnexpress.net/hop-tac-quoc-te-giup-rut-ngan-hanh-trinh-tu-phong-thi-nghiem-ra-thi-truong-5081686.html",
+      "summary": "Kết nối hệ sinh thái đổi mới sáng tạo quốc tế có thể giúp startup và tổ chức nghiên cứu tại Việt Nam kiểm chứng sản phẩm, rút ngắn hành trình thương mại hóa, theo đại diện Trung tâm Phát triển Công nghệ và Đổi mới sáng tạo Tây Ban Nha (CDTI),",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-08T02:00:00+07:00",
+      "fetched": "2026-06-08T09:41:06.303725+07:00"
+    },
+    {
+      "id": "33af33715d9ee0b1fe306b0044d216fb",
+      "title": "Giá USD hôm nay 8.6.2026: Giữ đà tăng khi euro, bảng Anh giảm sâu",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-862026-giu-da-tang-khi-euro-bang-anh-giam-sau-185260608082729764.htm",
+      "summary": "Giá USD trong ngân hàng tiếp tục đi lên trong khi nhiều ngoại tệ khác lùi sâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T01:52:00+07:00",
+      "fetched": "2026-06-08T09:40:58.622804+07:00"
+    },
+    {
+      "id": "743854729b2a36471694f4b5fad10319",
+      "title": "Nghiên cứu mở các tổ hợp vui chơi giải trí lớn để du lịch Việt 'hốt bạc'",
+      "link": "https://thanhnien.vn/nghien-cuu-mo-cac-to-hop-vui-choi-giai-tri-lon-de-du-lich-viet-hot-bac-185260608081804092.htm",
+      "summary": "Đó là một trong số những giải pháp được nhiều đại biểu nêu trong cuộc họp chuyên đề về giải pháp tăng trưởng 2 con số đối với kịch bản phát triển du lịch, diễn ra mới đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T01:52:00+07:00",
+      "fetched": "2026-06-08T09:40:58.622945+07:00"
+    },
+    {
+      "id": "fc8def1ad3afa34168f8c16b00ae6d46",
+      "title": "Giá vàng hôm nay 8.6.2026: Đà giảm chưa dừng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-862026-da-giam-chua-dung-185260608084231479.htm",
+      "summary": "Giá vàng trong và ngoài nước tiếp tục giảm đầu tuần. Kim loại quý thế giới biến động trái chiều trước những căng thẳng từ Trung Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T01:50:00+07:00",
+      "fetched": "2026-06-08T09:40:58.623071+07:00"
+    },
+    {
+      "id": "4935c015bf0958878274d72b5a9d0011",
+      "title": "10.000 hoa đăng thắp sáng sông Hương, lan tỏa thông điệp hòa bình",
+      "link": "https://thanhnien.vn/10000-hoa-dang-thap-sang-song-huong-lan-toa-thong-diep-hoa-binh-185260607205621218.htm",
+      "summary": "Hàng ngàn hoa đăng được thắp sáng trên sông Hương (Huế) tối 7.6, mang theo thông điệp hòa bình và ước nguyện quốc thái dân an.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T01:50:00+07:00",
+      "fetched": "2026-06-08T09:40:58.623189+07:00"
+    },
+    {
+      "id": "739535786e36e44fbf214e48e3ddfb4f",
+      "title": "Cảnh báo sóng thần sau động đất 7,8 độ ngoài khơi Philippines",
+      "link": "https://vnexpress.net/canh-bao-song-than-sau-dong-dat-7-8-do-ngoai-khoi-philippines-5083039.html",
+      "summary": "Trận động đất mạnh 7,8 độ xảy ra ngoài khơi bờ biển miền nam Philippines khiến ít nhất một người thiệt mạng, trung tâm cảnh báo khu vực đã phát cảnh báo sóng thần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T01:43:31+07:00",
+      "fetched": "2026-06-08T09:40:55.376353+07:00"
+    },
+    {
+      "id": "739535786e36e44fbf214e48e3ddfb4f",
+      "title": "Cảnh báo sóng thần sau động đất 7,8 độ ngoài khơi Philippines",
+      "link": "https://vnexpress.net/canh-bao-song-than-sau-dong-dat-7-8-do-ngoai-khoi-philippines-5083039.html",
+      "summary": "Trận động đất mạnh 7,8 độ xảy ra ngoài khơi bờ biển miền nam Philippines khiến ít nhất một người thiệt mạng, trung tâm cảnh báo khu vực đã phát cảnh báo sóng thần.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-08T01:43:31+07:00",
+      "fetched": "2026-06-08T09:41:01.547201+07:00"
+    },
+    {
+      "id": "192ee59c97b7e006ec4776548979cda7",
+      "title": "Anh, Pháp, Đức ủng hộ Nga và Ukraine đối thoại trực tiếp",
+      "link": "https://vnexpress.net/anh-phap-duc-ung-ho-nga-va-ukraine-doi-thoai-truc-tiep-5083026.html",
+      "summary": "Anh, Pháp, Đức ra tuyên bố chung ủng hộ lời kêu gọi của Kiev về Nga - Ukraine đàm phán trực tiếp, sau khi ông Putin từ chối gặp ông Zelensky.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T01:34:40+07:00",
+      "fetched": "2026-06-08T09:40:55.376490+07:00"
+    },
+    {
+      "id": "192ee59c97b7e006ec4776548979cda7",
+      "title": "Anh, Pháp, Đức ủng hộ Nga và Ukraine đối thoại trực tiếp",
+      "link": "https://vnexpress.net/anh-phap-duc-ung-ho-nga-va-ukraine-doi-thoai-truc-tiep-5083026.html",
+      "summary": "Anh, Pháp, Đức ra tuyên bố chung ủng hộ lời kêu gọi của Kiev về Nga - Ukraine đàm phán trực tiếp, sau khi ông Putin từ chối gặp ông Zelensky.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-08T01:34:40+07:00",
+      "fetched": "2026-06-08T09:41:01.547335+07:00"
+    },
+    {
+      "id": "926fc2aa752c5dd23571b580ce0e3dee",
+      "title": "Xe tải tông nhau trên cao tốc Bãi Vọt - Hàm Nghi, hai người chết",
+      "link": "https://vnexpress.net/xe-tai-tong-nhau-tren-cao-toc-bai-vot-ham-nghi-hai-nguoi-chet-5083047.html",
+      "summary": "Cú tông giữa hai xe tải chạy cùng chiều trên cao tốc Bãi Vọt - Hàm Nghi khiến ba người mắc kẹt trong cabin, hai nạn nhân tử vong, rạng sáng 8/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T01:20:17+07:00",
+      "fetched": "2026-06-08T09:40:55.376619+07:00"
+    },
+    {
+      "id": "b04d34c79032e90b1820b524b0e27d6d",
+      "title": "Bài toán phát triển nhiên liệu hàng không từ dầu thải của Nhật Bản",
+      "link": "https://vnexpress.net/bai-toan-phat-trien-nhien-lieu-hang-khong-tu-dau-thai-cua-nhat-ban-5082939.html",
+      "summary": "Nhật Bản tận dụng từng giọt dầu thừa thải ra trong quá trình nấu nướng của hộ gia đình để sản xuất nhiên liệu hàng không, với mục tiêu đạt 10% nguồn cung vào 2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T01:10:44+07:00",
+      "fetched": "2026-06-08T09:40:55.376741+07:00"
+    },
+    {
+      "id": "b04d34c79032e90b1820b524b0e27d6d",
+      "title": "Bài toán phát triển nhiên liệu hàng không từ dầu thải của Nhật Bản",
+      "link": "https://vnexpress.net/bai-toan-phat-trien-nhien-lieu-hang-khong-tu-dau-thai-cua-nhat-ban-5082939.html",
+      "summary": "Nhật Bản tận dụng từng giọt dầu thừa thải ra trong quá trình nấu nướng của hộ gia đình để sản xuất nhiên liệu hàng không, với mục tiêu đạt 10% nguồn cung vào 2030.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-08T01:10:44+07:00",
+      "fetched": "2026-06-08T09:41:02.623664+07:00"
+    },
+    {
+      "id": "18d1a6ff47ad32b4944aae3183c9f16b",
+      "title": "Bí quyết giúp cô gái trút bỏ 42 kg mỡ thừa không cần ăn kiêng",
+      "link": "https://vnexpress.net/bi-quyet-giup-co-gai-trut-bo-42-kg-mo-thua-khong-can-an-kieng-5082915.html",
+      "summary": "Nhờ kiên trì tập tạ tại nhà kết hợp đĩa ăn dinh dưỡng 211, Take, 32 tuổi, giảm ngoạn mục 42 kg trong 1,5 năm để sở hữu vóc dáng thon gọn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T01:06:17+07:00",
+      "fetched": "2026-06-08T09:40:55.376883+07:00"
+    },
+    {
+      "id": "b8d82631a2ac51e8bd4ff033ce714c59",
+      "title": "'Đào hầm' trúng mánh cá rô đồng",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-dao-ham-trung-manh-ca-ro-dong-5082968.html",
+      "summary": "Chỉ với chiếc thùng nhựa chôn theo đường nước, người dân miền Tây có thể bắt được hàng chục con cá đồng sau mỗi cơn mưa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T01:00:00+07:00",
+      "fetched": "2026-06-08T09:40:55.377014+07:00"
+    },
+    {
+      "id": "fa832b2bad40de98ddd52a9fed0a612b",
+      "title": "Cụ ông 91 tuổi đột quỵ lần hai",
+      "link": "https://vnexpress.net/cu-ong-91-tuoi-dot-quy-lan-hai-5083020.html",
+      "summary": "Ông Thanh, 91 tuổi, Việt kiều Mỹ, ba năm trước bị đột quỵ, nay tái phát được truyền thuốc tiêu sợi huyết kịp thời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T01:00:00+07:00",
+      "fetched": "2026-06-08T09:40:55.377148+07:00"
+    },
+    {
+      "id": "c32dc0a7f35add2d6f7fc076eb73399f",
+      "title": "Tưởng hạch cổ hóa ung thư hạ hầu di căn",
+      "link": "https://vnexpress.net/tuong-hach-co-hoa-ung-thu-ha-hau-di-can-5083019.html",
+      "summary": "Ông Jayden, 62 tuổi, nổi hạch hai bên cổ 6 tháng nhưng không sụt cân, không sốt, bác sĩ chẩn đoán ung thư hạ hầu giai đoạn 4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T01:00:00+07:00",
+      "fetched": "2026-06-08T09:40:55.377326+07:00"
+    },
+    {
+      "id": "a4f6dc0c04a16d10044be89f6764f311",
+      "title": "Five Star Group vào top 10 nhà phát triển bất động sản Việt Nam",
+      "link": "https://vnexpress.net/five-star-group-vao-top-10-nha-phat-trien-bat-dong-san-viet-nam-5082882.html",
+      "summary": "Five Star Group được Hubexo Asia Awards 2026 vinh danh trong \"Top 10 Nhà phát triển Bất động sản Việt Nam\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T01:00:00+07:00",
+      "fetched": "2026-06-08T09:40:55.377493+07:00"
+    },
+    {
+      "id": "49687e5fb47b063a0a63dc26e6d97b45",
+      "title": "Căn hộ Sun Group Bãi Cháy đón xu hướng sống giữa tâm điểm du lịch",
+      "link": "https://vnexpress.net/can-ho-sun-group-bai-chay-don-xu-huong-song-giua-tam-diem-du-lich-5082778.html",
+      "summary": "Sun Festo Town thuộc Sun Elite City được phát triển trong hệ sinh thái vui chơi, lễ hội và dịch vụ du lịch tại Bãi Cháy, để hưởng lợi từ dòng khách du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T01:00:00+07:00",
+      "fetched": "2026-06-08T09:40:55.377639+07:00"
+    },
+    {
+      "id": "3d677294c9aea2d93fb9620ccbfa40b9",
+      "title": "Ông Trump: Israel phải chấp nhận mọi thỏa thuận Mỹ đạt được với Iran",
+      "link": "https://vnexpress.net/ong-trump-israel-phai-chap-nhan-moi-thoa-thuan-my-dat-duoc-voi-iran-5083028.html",
+      "summary": "Tổng thống Mỹ khẳng định Thủ tướng Israel không có lựa chọn nào ngoài chấp nhận mọi thỏa thuận mà Washington đạt được với Tehran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T00:50:07+07:00",
+      "fetched": "2026-06-08T09:40:55.377767+07:00"
+    },
+    {
+      "id": "3d677294c9aea2d93fb9620ccbfa40b9",
+      "title": "Ông Trump: Israel phải chấp nhận mọi thỏa thuận Mỹ đạt được với Iran",
+      "link": "https://vnexpress.net/ong-trump-israel-phai-chap-nhan-moi-thoa-thuan-my-dat-duoc-voi-iran-5083028.html",
+      "summary": "Tổng thống Mỹ khẳng định Thủ tướng Israel không có lựa chọn nào ngoài chấp nhận mọi thỏa thuận mà Washington đạt được với Tehran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-08T00:50:07+07:00",
+      "fetched": "2026-06-08T09:41:01.547468+07:00"
+    },
+    {
+      "id": "b5213fb0365a5425df8e3dd2265bf382",
+      "title": "Tuổi 30 - 'nút cổ chai' của nhiều lao động Mỹ",
+      "link": "https://vnexpress.net/tuoi-30-nut-co-chai-cua-nhieu-lao-dong-my-5082652.html",
+      "summary": "Hơn 25% lao động trí thức Mỹ không thể thăng tiến sau tuổi 30 do thiếu kỹ năng chuyển đổi trước biến động của thị trường việc làm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T00:46:48+07:00",
+      "fetched": "2026-06-08T09:40:55.377907+07:00"
+    },
+    {
+      "id": "0cfe719f663af9d8a084886dea974331",
+      "title": "Người đẹp Paraguay trở lại World Cup sau 16 năm",
+      "link": "https://vnexpress.net/nguoi-dep-paraguay-tro-lai-world-cup-sau-16-nam-5083021.html",
+      "summary": "Larissa Riquelme, người đẹp Paraguay từng trở thành hiện tượng toàn cầu tại World Cup 2010, sẽ lần đầu trực tiếp có mặt ở VCK khi theo chân đội tuyển quê nhà tới giải đấu năm 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-08T00:43:21+07:00",
+      "fetched": "2026-06-08T09:41:08.096536+07:00"
     },
     {
       "id": "49ff16689a3ffcbb892f4993460ac8cd",
@@ -263,6 +793,66 @@ window.newsData_2026_06_08 = {
       "fetched": "2026-06-08T00:05:12.064121+07:00"
     },
     {
+      "id": "1c64d10424d4c27708f433ec1a1ece31",
+      "title": "Đổi tư duy vận hành phòng thí nghiệm trọng điểm quốc gia",
+      "link": "https://vnexpress.net/doi-tu-duy-van-hanh-phong-thi-nghiem-trong-diem-quoc-gia-5082761.html",
+      "summary": "Bộ Khoa học và Công nghệ cho rằng cần thay đổi tư duy từ \"đầu tư phòng thí nghiệm\" sang \"xây dựng hạ tầng nghiên cứu quốc gia\", trong đó con người, cơ chế vận hành và khả năng làm chủ công nghệ phải ở vị trí trung tâm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-08T00:00:00+07:00",
+      "fetched": "2026-06-08T09:41:06.303910+07:00"
+    },
+    {
+      "id": "63150abcbcedff42af73c83584ffee07",
+      "title": "Iran phóng loạt tên lửa đạn đạo nhằm vào Israel",
+      "link": "https://vnexpress.net/iran-phong-loat-ten-lua-dan-dao-nham-vao-israel-5083015.html",
+      "summary": "Iran phóng loạt tên lửa nhằm vào Israel, lần đầu kể từ khi đạt thỏa thuận ngừng bắn với Mỹ, nhằm đáp trả cuộc tập kích thủ đô Lebanon.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-07T23:31:27+07:00",
+      "fetched": "2026-06-08T09:41:01.547595+07:00"
+    },
+    {
+      "id": "ef29cd7761fb82a209ee61ca43a64e2c",
+      "title": "Nhiều gia đình 'thắt lưng buộc bụng' nhưng hóa đơn vẫn phình to",
+      "link": "https://vnexpress.net/nhieu-gia-dinh-that-lung-buoc-bung-nhung-hoa-don-van-phinh-to-5082400.html",
+      "summary": "Tiền nhà, thực phẩm, học phí và lãi vay đồng loạt tăng khiến nhiều hộ gia đình phải co kéo chi tiêu, trong khi khoản tiền để dành ngày càng thu hẹp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-07T23:29:44+07:00",
+      "fetched": "2026-06-08T09:41:02.623819+07:00"
+    },
+    {
+      "id": "cbf93b28b3fbdad1ff01b85a70ce39f9",
+      "title": "Hugo Almeida: 'Ronaldo không còn thanh thoát, nhưng sẽ tạo khác biệt'",
+      "link": "https://vnexpress.net/hugo-almeida-ronaldo-khong-con-thanh-thoat-nhung-se-tao-khac-biet-5083006.html",
+      "summary": "Theo cựu tiền đạo tuyển Bồ Đào Nha Hugo Almeida, kinh nghiệm ở tuổi 41 sẽ giúp Cristiano Ronaldo làm nên khác biệt ở World Cup 2026 và thầy trò Roberto Martinez là ứng viên nặng ký cho chức vô địch.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-07T23:24:08+07:00",
+      "fetched": "2026-06-08T09:41:08.095970+07:00"
+    },
+    {
+      "id": "c1cc2f3be9938f1e628f05b8ce98f86b",
+      "title": "Tân binh Man Utd được Brazil gọi bổ sung dự World Cup 2026",
+      "link": "https://vnexpress.net/tan-binh-man-utd-duoc-brazil-goi-bo-sung-du-world-cup-2026-5083016.html",
+      "summary": "Ederson, tiền vệ đạt thỏa thuận gia nhập Man Utd từ Atalanta hè này, được triệu tập bổ sung vào danh sách tuyển Brazil dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-07T23:06:52+07:00",
+      "fetched": "2026-06-08T09:41:08.096665+07:00"
+    },
+    {
+      "id": "41eda2abdba6599866b3da9cdbb50562",
+      "title": "Eriksen lại đổ gục trên sân",
+      "link": "https://vnexpress.net/eriksen-lai-do-guc-tren-san-5083014.html",
+      "summary": "Tiền vệ tuyển Đan Mạch Christian Eriksen một lần nữa bị ngất và đổ gục trên sân trong trận giao hữu với Ukraine ngày 7/6, nhưng nhanh chóng tỉnh táo sau khi được chăm sóc y tế.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-07T22:57:46+07:00",
+      "fetched": "2026-06-08T09:41:08.096125+07:00"
+    },
+    {
       "id": "681a3940f35e34a579e3e5de3594dd98",
       "title": "Tin tức đặc biệt trên báo in Thanh Niên 8.6.2026",
       "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-862026-185260607221730605.htm",
@@ -291,6 +881,16 @@ window.newsData_2026_06_08 = {
       "category": "Tổng hợp",
       "published": "2026-06-07T22:54:00+07:00",
       "fetched": "2026-06-08T05:54:11.297171+07:00"
+    },
+    {
+      "id": "bed80d89eaf62b6d7f1b06aa484f3b0e",
+      "title": "Không được dự World Cup, tiền vệ Real sang Harvard học kinh doanh",
+      "link": "https://vnexpress.net/khong-duoc-du-world-cup-tien-ve-real-sang-harvard-hoc-kinh-doanh-5083010.html",
+      "summary": "Bị gạch tên khỏi đội hình tuyển Pháp dự World Cup 2026, tiền vệ Real Madrid Eduardo Camavinga tranh thủ thời gian hoàn thành khóa đào tạo ngắn hạn một tuần ở Harvard.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-07T22:50:24+07:00",
+      "fetched": "2026-06-08T09:41:08.096792+07:00"
     },
     {
       "id": "53b4680cc12923b6b86ceb73f387b72e",
