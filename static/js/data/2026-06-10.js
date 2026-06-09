@@ -1,6 +1,6 @@
 window.newsData_2026_06_10 = {
   "date": "2026-06-10",
-  "lastUpdated": "2026-06-10T00:52:43.970190+07:00",
+  "lastUpdated": "2026-06-10T02:56:08.966390+07:00",
   "articles": [
     {
       "id": "c48c41bd44a899897450cf1d3ad73e64",
@@ -153,6 +153,56 @@ window.newsData_2026_06_10 = {
       "fetched": "2026-06-10T00:52:37.061897+07:00"
     },
     {
+      "id": "1c4e7bcfba3494d57e2956f5e68fdc18",
+      "title": "Ngoài 20 tuổi đã 'bất lực'",
+      "link": "https://vnexpress.net/ngoai-20-tuoi-da-bat-luc-5083213.html",
+      "summary": "Nhiều nam giới ngoài 20 tuổi đã giảm ham muốn, xuất tinh sớm do thức khuya, stress công việc, ít vận động và lệ thuộc các kích thích trên mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T19:03:00+07:00",
+      "fetched": "2026-06-10T02:55:54.438336+07:00"
+    },
+    {
+      "id": "9c1f0cb837bad3255b9eb87b21a2c974",
+      "title": "7 việc nên làm mỗi ngày giúp giảm gan nhiễm mỡ",
+      "link": "https://vnexpress.net/7-viec-nen-lam-moi-ngay-giup-giam-gan-nhiem-mo-5083741.html",
+      "summary": "Duy trì vận động, giảm đồ uống có đường, ăn thực phẩm giàu chất xơ và uống cà phê hợp lý có thể giảm tích tụ chất béo, cải thiện chức năng gan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T19:00:00+07:00",
+      "fetched": "2026-06-10T02:55:54.438517+07:00"
+    },
+    {
+      "id": "ec313c80b370155e313af7c0040c7000",
+      "title": "Nghiên cứu mới chỉ ra thời điểm ăn sáng và ăn tối tốt cho đường huyết",
+      "link": "https://thanhnien.vn/nghien-cuu-moi-chi-ra-thoi-diem-an-sang-va-an-toi-tot-cho-duong-huyet-18526061001105611.htm",
+      "summary": "Một nghiên cứu mới cho thấy thời điểm ăn sáng và ăn tối có liên quan đến mức đường huyết qua đêm, từ đó tác động đến sức khỏe chuyển hóa và nguy cơ hạ đường huyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T18:10:00+07:00",
+      "fetched": "2026-06-10T02:55:57.819515+07:00"
+    },
+    {
+      "id": "39d1f6ba3de5f1ab054fbd194ec96041",
+      "title": "Viêm thận kẽ",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/viem-than-ke-432",
+      "summary": "Viêm thận kẽ là tình trạng viêm xảy ra ở mô kẽ và các ống thận, có vai trò tái hấp thu nước, muối khoáng cùng các chất dinh dưỡng sau quá trình lọc máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T18:00:00+07:00",
+      "fetched": "2026-06-10T02:55:54.438688+07:00"
+    },
+    {
+      "id": "18ad672fd301ef5e7f8cbdb9a42bb78f",
+      "title": "'Đạo đức AI'",
+      "link": "https://vnexpress.net/dao-duc-ai-5083695.html",
+      "summary": "Tác giả Đào Trung Thành cung cấp bộ công cụ quản trị AI để tổ chức, con người tránh được rủi ro, qua sách ''Đạo đức AI: Nguyên tắc và Thực hành''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T17:46:17+07:00",
+      "fetched": "2026-06-10T02:55:54.439977+07:00"
+    },
+    {
       "id": "9a1e872f90e3e788fdfb8c7958ec44bf",
       "title": "Ông Trump: Iran bắn rơi trực thăng Apache, Mỹ phải đáp trả",
       "link": "https://vnexpress.net/ong-trump-iran-ban-roi-truc-thang-apache-my-phai-dap-tra-5083867.html",
@@ -161,6 +211,16 @@ window.newsData_2026_06_10 = {
       "category": "Thế giới",
       "published": "2026-06-09T17:46:13+07:00",
       "fetched": "2026-06-10T00:52:38.233811+07:00"
+    },
+    {
+      "id": "c4eaa1460907c4eca410df4fad05fc35",
+      "title": "Nghệ sĩ Bùi Bài Bình về hưu vẫn miệt mài đóng phim",
+      "link": "https://vnexpress.net/nghe-si-bui-bai-binh-ve-huu-van-miet-mai-dong-phim-5083305.html",
+      "summary": "Nghệ sĩ Bùi Bài Bình nói ông mạnh khỏe nhờ chăm vận động, tích cực đóng phim ở tuổi 70.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T17:20:52+07:00",
+      "fetched": "2026-06-10T02:55:54.440487+07:00"
     },
     {
       "id": "c544f1e0c7ea0c10af33a8208aa0c104",
@@ -181,6 +241,16 @@ window.newsData_2026_06_10 = {
       "category": "Tổng hợp",
       "published": "2026-06-09T17:14:00+07:00",
       "fetched": "2026-06-10T00:52:36.059414+07:00"
+    },
+    {
+      "id": "54b61e6534f157fc78be2ef3eb76f89d",
+      "title": "Biệt thự phố ở TP HCM đưa hồ bơi lên tầng 4",
+      "link": "https://vnexpress.net/biet-thu-pho-o-tp-hcm-dua-ho-boi-len-tang-4-5080634.html",
+      "summary": "Công trình tổ chức hồ bơi trong nhà trên cao để bổ sung trải nghiệm nghỉ dưỡng giữa đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T17:12:25+07:00",
+      "fetched": "2026-06-10T02:55:54.440722+07:00"
     },
     {
       "id": "7155ff5363f89219af142a5add154ace",
@@ -221,6 +291,16 @@ window.newsData_2026_06_10 = {
       "category": "Tổng hợp",
       "published": "2026-06-09T17:06:00+07:00",
       "fetched": "2026-06-10T00:52:36.059926+07:00"
+    },
+    {
+      "id": "73a32384622d0b5727f315b8256be040",
+      "title": "Nhà đất có thể gặp áp lực giảm giá trong nửa cuối năm",
+      "link": "https://vnexpress.net/nha-dat-co-the-gap-ap-luc-giam-gia-trong-nua-cuoi-nam-5083643.html",
+      "summary": "Lãi suất neo cao tiếp tục gây áp lực lên thanh khoản, có thể khiến giá nhà trên cả thị trường sơ cấp và chuyển nhượng điều chỉnh giảm, theo SSI Research.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T17:05:00+07:00",
+      "fetched": "2026-06-10T02:55:54.440945+07:00"
     },
     {
       "id": "67f9c0bf37b6e32bf87833846464a648",
@@ -271,6 +351,16 @@ window.newsData_2026_06_10 = {
       "category": "Kinh doanh",
       "published": "2026-06-09T17:02:00+07:00",
       "fetched": "2026-06-10T00:52:39.994306+07:00"
+    },
+    {
+      "id": "b73f185e52a8bdad7f1f31a877cd9d27",
+      "title": "Người già sập bẫy kỳ nghỉ ảo",
+      "link": "https://vnexpress.net/nguoi-gia-sap-bay-ky-nghi-ao-5083855.html",
+      "summary": "Trong hộp thư của tôi có một mục riêng mang tên Timeshare, lưu trữ đề nghị tư vấn về các vụ mua bán kỳ nghỉ có dấu hiệu lừa đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T17:01:52+07:00",
+      "fetched": "2026-06-10T02:55:54.442097+07:00"
     },
     {
       "id": "fc118289be283524c554fd1592cac69c",
