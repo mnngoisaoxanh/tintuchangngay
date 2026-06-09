@@ -1,6 +1,6 @@
 window.newsData_2026_06_10 = {
   "date": "2026-06-10",
-  "lastUpdated": "2026-06-10T02:56:08.966390+07:00",
+  "lastUpdated": "2026-06-10T04:42:09.640033+07:00",
   "articles": [
     {
       "id": "c48c41bd44a899897450cf1d3ad73e64",
@@ -151,6 +151,26 @@ window.newsData_2026_06_10 = {
       "category": "Tổng hợp",
       "published": "2026-06-10T00:52:37.061669+07:00",
       "fetched": "2026-06-10T00:52:37.061897+07:00"
+    },
+    {
+      "id": "8231749b02437506a0eabe10bb7b63e4",
+      "title": "Trung - Triều cam kết phát huy tình hữu nghị",
+      "link": "https://thanhnien.vn/trung-trieu-cam-ket-phat-huy-tinh-huu-nghi-18526060921174923.htm",
+      "summary": "Theo Tân Hoa xã, Chủ tịch nước Trung Quốc Tập Cận Bình và nhà lãnh đạo CHDCND Triều Tiên Kim Jong-un ngày 9.6 nhất trí 2 nước cần tiếp tục phát huy tình hữu nghị truyền thống qua các thế hệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T21:39:00+07:00",
+      "fetched": "2026-06-10T04:42:01.615809+07:00"
+    },
+    {
+      "id": "0aaf6b5c0b425f22be23ba75423fc95c",
+      "title": "Hàng loạt hãng xe châu Âu bỏ cuộc chơi hybrid tại Trung Quốc",
+      "link": "https://vnexpress.net/hang-loat-hang-xe-chau-au-bo-cuoc-choi-hybrid-tai-trung-quoc-5083041.html",
+      "summary": "Quy định nâng quãng đường chạy điện tối thiểu từ 43 km lên thành 100 km mới được hưởng ưu đãi thuế khiến xe châu Âu mất lợi thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T21:00:00+07:00",
+      "fetched": "2026-06-10T04:41:58.261427+07:00"
     },
     {
       "id": "1c4e7bcfba3494d57e2956f5e68fdc18",
