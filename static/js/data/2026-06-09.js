@@ -1,7 +1,157 @@
 window.newsData_2026_06_09 = {
   "date": "2026-06-09",
-  "lastUpdated": "2026-06-09T06:07:52.264816+07:00",
+  "lastUpdated": "2026-06-09T09:07:19.932280+07:00",
   "articles": [
+    {
+      "id": "13e042bb3f60abfeacdbfa8a048eabc3",
+      "title": "Bộ phim đáng quên của Thư Kỳ bất ngờ gây sốt trở lại",
+      "link": "https://tuoitre.vn/bo-phim-dang-quen-cua-thu-ky-bat-ngo-gay-sot-tro-lai-20260608234301482.htm",
+      "summary": "Từng gây xôn xao khi rút khỏi rạp chỉ sau 3 giờ công chiếu, phim Tìm nàng của Thư Kỳ bất ngờ trở thành tâm điểm chú ý khi phát hành trực tuyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.823473+07:00",
+      "fetched": "2026-06-09T09:07:10.823566+07:00"
+    },
+    {
+      "id": "42edf0b302dfe7906f6b0ebcf87ee675",
+      "title": "Khoảnh khắc 'cãi đến cùng' của Thanh Thúy gây sốt làng bóng chuyền",
+      "link": "https://tuoitre.vn/khoanh-khac-cai-den-cung-cua-thanh-thuy-gay-sot-lang-bong-chuyen-20260608211041504.htm",
+      "summary": "Trong chiến thắng nhọc nhằn với tỉ số 3-2 của tuyển bóng chuyền nữ Việt Nam trước Indonesia ở AVC Cup, cái tên Trần Thị Thanh Thúy vẫn để lại nhiều dấu ấn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.823369+07:00",
+      "fetched": "2026-06-09T09:07:10.823461+07:00"
+    },
+    {
+      "id": "f4b108209e99da7717f333dc50130196",
+      "title": "Lợi nhuận lớn, EVN hết lỗ lũy kế: Vì sao công ty mẹ vẫn lỗ?",
+      "link": "https://tuoitre.vn/loi-nhuan-lon-evn-het-lo-luy-ke-vi-sao-cong-ty-me-van-lo-20260608232033951.htm",
+      "summary": "Báo cáo tài chính hợp nhất đã được kiểm toán, do Tập đoàn Điện lực VN (EVN) công bố, cho thấy lợi nhuận sau thuế năm 2025 đạt 51.881 tỉ đồng, gấp 6,3 lần so với năm trước, giúp cho tập đoàn này xóa sạch lỗ lũy kế chỉ trong một năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.823272+07:00",
+      "fetched": "2026-06-09T09:07:10.823361+07:00"
+    },
+    {
+      "id": "acddcd3bac57cc6f6eacc7446f843ac2",
+      "title": "Tin tức sáng 9-6: Gần 900.000 lao động Việt ở nước ngoài gửi về 6 - 7 tỉ USD/năm",
+      "link": "https://tuoitre.vn/tin-tuc-sang-9-6-gan-900-000-lao-dong-viet-o-nuoc-ngoai-gui-ve-6-7-ti-usd-nam-20260608194131724.htm",
+      "summary": "Một số tin tức đáng chú ý: 4 sếp Eximbank cùng xin từ nhiệm; Sasco đặt kế hoạch kinh doanh 'đi lùi' cho năm 2026...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.823172+07:00",
+      "fetched": "2026-06-09T09:07:10.823264+07:00"
+    },
+    {
+      "id": "aaf883b6750012943a8c6bb9904c6cb4",
+      "title": "Tin tức thế giới 9-6: Ông Trump nhắc nhở ông Netanyahu; Cuba gặp động đất lớn hiếm gặp",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-9-6-ong-trump-nhac-nho-ong-netanyahu-cuba-gap-dong-dat-lon-hiem-gap-2026060905205768.htm",
+      "summary": "Tòa án Mỹ bác phí thị thực H-1B 100.000 USD của Tổng thống Trump; Đức, Pháp khai tử dự án tham vọng trị giá 116 tỉ USD làm tiêm kích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.823047+07:00",
+      "fetched": "2026-06-09T09:07:10.823163+07:00"
+    },
+    {
+      "id": "249ee2e319774d420a573ff52236ea53",
+      "title": "Trung Đông sáng 9-6: Mỹ không kích tàu dầu vượt phong tỏa Iran; Iran lập 'vành đai an ninh' mới",
+      "link": "https://tuoitre.vn/trung-dong-sang-9-6-my-khong-kich-tau-dau-vuot-phong-toa-iran-iran-lap-vanh-dai-an-ninh-moi-20260609070106249.htm",
+      "summary": "Iran tuyên bố sẽ vượt qua lệnh phong tỏa hàng hải do Mỹ áp đặt đối với các cảng của nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.822952+07:00",
+      "fetched": "2026-06-09T09:07:10.823039+07:00"
+    },
+    {
+      "id": "b6b8f88d3d1088bb5e0036bd8ca3273e",
+      "title": "Olise rực sáng, che mờ cả Mbappe lẫn Dembele",
+      "link": "https://tuoitre.vn/olise-ruc-sang-che-mo-ca-mbappe-lan-dembele-2026060907103969.htm",
+      "summary": "Không phải Kylian Mbappe hay Ousmane Dembele, chính Michael Olise mới là siêu sao rực sáng trong trận giao hữu cuối cùng của tuyển Pháp trước khi chính thức bước vào World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.822855+07:00",
+      "fetched": "2026-06-09T09:07:10.822944+07:00"
+    },
+    {
+      "id": "f79282fc3d3408a04067f9a95ba2a90d",
+      "title": "Ông Nawat đăng cai The Miss Globe 2026, Nguyễn Thu Thảo đại diện Việt Nam dự thi",
+      "link": "https://tuoitre.vn/ong-nawat-dang-cai-the-miss-globe-2026-nguyen-thu-thao-dai-dien-viet-nam-du-thi-20260609052043187.htm",
+      "summary": "Lần đầu Miss Grand International Organization đăng cai tổ chức cuộc thi The Miss Globe tại Thái Lan. Việt Nam cử hoa hậu Nguyễn Thu Thảo tranh tài với kỳ vọng nối dài thành tích của nhan sắc Việt tại cuộc thi này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.822757+07:00",
+      "fetched": "2026-06-09T09:07:10.822847+07:00"
+    },
+    {
+      "id": "0a00c31e6f3a398a1dc344491dd0d702",
+      "title": "Địch Lệ Nhiệt Ba chọn thiết kế của Phan Huy chụp bìa Marie Claire",
+      "link": "https://tuoitre.vn/dich-le-nhiet-ba-chon-thiet-ke-cua-phan-huy-chup-bia-marie-claire-20260609054908738.htm",
+      "summary": "Diễn viên Địch Lệ Nhiệt Ba gây chú ý khi diện thiết kế của Phan Huy xuất hiện trên trang bìa tạp chí Marie Claire số tháng 6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.822660+07:00",
+      "fetched": "2026-06-09T09:07:10.822749+07:00"
+    },
+    {
+      "id": "3cb7e29945542af652663f4351d6b707",
+      "title": "Chứng khoán 9-6: Thị trường thủng mốc 1.800 điểm, nhà đầu tư có nên bắt đáy?",
+      "link": "https://tuoitre.vn/chung-khoan-9-6-thi-truong-thung-moc-1-800-diem-nha-dau-tu-co-nen-bat-day-20260608191105444.htm",
+      "summary": "Chuyên gia cho rằng nhà đầu tư không nên cố gắng đoán đáy thị trường. Họ nên có chiến lược riêng tùy vào vị thế và chất lượng danh mục chứng khoán hiện có.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.822561+07:00",
+      "fetched": "2026-06-09T09:07:10.822652+07:00"
+    },
+    {
+      "id": "2cf5a0be52ff203dd14632476bc8f8db",
+      "title": "Tin tức giá xe: Omoda C5, Jaecoo J7 giảm giá tới 90 triệu đồng",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-omoda-c5-jaecoo-j7-giam-gia-toi-90-trieu-dong-2026060900395742.htm",
+      "summary": "Omoda & Jaecoo Việt Nam công bố chương trình ưu đãi áp dụng trên toàn hệ thống phân phối chính hãng từ nay đến hết ngày 30-6-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.822455+07:00",
+      "fetched": "2026-06-09T09:07:10.822552+07:00"
+    },
+    {
+      "id": "26efb0ee9947f02b13242da895ab27d5",
+      "title": "Dự đoán tỉ số: U19 Campuchia thua đậm Úc, vé sẽ về tay Việt Nam",
+      "link": "https://tuoitre.vn/du-doan-ti-so-u19-campuchia-thua-dam-uc-ve-se-ve-tay-viet-nam-20260608224702609.htm",
+      "summary": "20h ngày 9-6 (giờ Việt Nam) sẽ diễn ra trận đấu cuối cùng của giai đoạn vòng bảng Giải U19 Đông Nam Á, với cuộc so tài giữa Úc và Campuchia ở bảng C.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.822351+07:00",
+      "fetched": "2026-06-09T09:07:10.822445+07:00"
+    },
+    {
+      "id": "5ba63407141051d47d0b1d4d9426d373",
+      "title": "Hôm nay, TP.HCM mở cổng đăng ký dự tuyển lớp 6 Trần Đại Nghĩa và 4 trường THCS khác",
+      "link": "https://tuoitre.vn/hom-nay-tp-hcm-mo-cong-dang-ky-du-tuyen-lop-6-tran-dai-nghia-va-4-truong-thcs-khac-20260609071158689.htm",
+      "summary": "Hôm nay 9-6, Sở Giáo dục và Đào tạo TP.HCM bắt đầu mở cổng đăng ký dự tuyển lớp 6 Trường THCS-THPT Trần Đại Nghĩa và 4 trường THCS có tổ chức khảo sát. Phụ huynh chỉ được đăng ký 1 trong 5 trường này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.822241+07:00",
+      "fetched": "2026-06-09T09:07:10.822342+07:00"
+    },
+    {
+      "id": "c958574c946c8c03e2960c110a7b5a76",
+      "title": "Những chậu cây và cổng vòm hình người làm sống động khu nhà ở khu công nghiệp cũ",
+      "link": "https://tuoitre.vn/nhung-chau-cay-va-cong-vom-hinh-nguoi-lam-song-dong-khu-nha-o-khu-cong-nghiep-cu-20260607144900253.htm",
+      "summary": "Dự án nằm ở một khu công nghiệp cũ bên bờ sông Garonne, một phần của quy hoạch tổng thể phát triển rộng lớn hơn của thành phố Bordeaux (Pháp).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.822113+07:00",
+      "fetched": "2026-06-09T09:07:10.822231+07:00"
+    },
+    {
+      "id": "59fcad4808e1da1a94928d075bacb1a4",
+      "title": "Trọng tài giỏi nhất châu Phi tan vỡ giấc mơ World Cup vì bị Mỹ từ chối nhập cảnh",
+      "link": "https://tuoitre.vn/trong-tai-gioi-nhat-chau-phi-tan-vo-giac-mo-world-cup-vi-bi-my-tu-choi-nhap-canh-20260609072512028.htm",
+      "summary": "Chỉ ít ngày trước khi World Cup 2026 khai mạc, FIFA lại đối mặt sự cố lớn liên quan việc nhập cảnh khi trọng tài người Somalia - ông Omar Abdulkadir Artan không được đặt chân vào nước Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T09:07:10.821833+07:00",
+      "fetched": "2026-06-09T09:07:10.822098+07:00"
+    },
     {
       "id": "43b60b3b08b23b9396cd594355f342f9",
       "title": "Nỗi lo lớn cho U19 Việt Nam khi Úc cầm chắc vé đi tiếp",
@@ -11,6 +161,396 @@ window.newsData_2026_06_09 = {
       "category": "Tổng hợp",
       "published": "2026-06-09T03:00:54.525786+07:00",
       "fetched": "2026-06-09T03:00:54.526001+07:00"
+    },
+    {
+      "id": "9f0a18890c2a925a194d42d28cd5add6",
+      "title": "Một nơi ở Việt Nam đứng top 6 thành phố ẩm thực tuyệt nhất thế giới",
+      "link": "https://thanhnien.vn/mot-noi-o-viet-nam-dung-top-6-thanh-pho-am-thuc-tuyet-nhat-the-gioi-185260609082310856.htm",
+      "summary": "Tạp chí du lịch Time Out của Anh vừa công bố top 15 thành phố ẩm thực tuyệt nhất thế giới với Lima của Peru đứng số 1 và một thành phố của Việt Nam giữ vị trí thứ 6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T02:02:00+07:00",
+      "fetched": "2026-06-09T09:07:09.738989+07:00"
+    },
+    {
+      "id": "2cb75b6d8d144844d848c51ff19ea791",
+      "title": "Giá USD ngày 9.6.2026: Đô tự do đi lùi",
+      "link": "https://thanhnien.vn/gia-usd-ngay-962026-do-tu-do-di-lui-18526060908313249.htm",
+      "summary": "Giá USD trong các ngân hàng tăng nhẹ nhưng thị trường tự do vẫn đi xuống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T02:01:00+07:00",
+      "fetched": "2026-06-09T09:07:09.739155+07:00"
+    },
+    {
+      "id": "4f75102c31cf6ef6e7ab2f39d1e68e21",
+      "title": "Đề xuất xây dựng khu nghỉ dưỡng sinh thái cao cấp 60 triệu USD ở Quảng Ngãi",
+      "link": "https://thanhnien.vn/de-xuat-xay-dung-khu-nghi-duong-sinh-thai-cao-cap-60-trieu-usd-o-quang-ngai-185260609074409297.htm",
+      "summary": "Nhà đầu tư ở Thụy Điển đề xuất xây dựng dự án Khu nghỉ dưỡng sinh thái 5 sao trên diện tích khoảng 4,5 ha với tổng vốn đầu tư dự kiến trên 60 triệu USD ở xã Kon Plông (Quảng Ngãi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T02:01:00+07:00",
+      "fetched": "2026-06-09T09:07:09.739293+07:00"
+    },
+    {
+      "id": "7718a69ed2929655c251ceae6e1b0ba7",
+      "title": "Giá vàng hôm nay 9.6.2026: Thế giới chưa thoát đà lao dốc",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-962026-tang-nhe-185260609084530463.htm",
+      "summary": "Sau ngày trượt giảm mạnh, giá vàng miếng SJC tăng nhẹ vào sáng 9.6. Tuy nhiên, kim loại quý thế giới vẫn chưa thoát khỏi đà mất giá trước những thông tin kinh tế Mỹ khả quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T02:00:00+07:00",
+      "fetched": "2026-06-09T09:07:09.739418+07:00"
+    },
+    {
+      "id": "ba98f1e5ed789b457c14ab632b59cab0",
+      "title": "Người gieo mầm xanh trên đất biển",
+      "link": "https://thanhnien.vn/nguoi-gieo-mam-xanh-tren-dat-bien-185260608113945881.htm",
+      "summary": "Gần 20 năm qua, chùa Phật Quang ở ấp Xóm Lẫm, xã Hiệp Thành, TP.Bạc Liêu, tỉnh Bạc Liêu (nay là phường Hiệp Thành, tỉnh Cà Mau) không chỉ là nơi sinh hoạt tín ngưỡng của người dân mà còn lan tỏa nhiều hoạt động thiện nguyện, giúp đỡ những hoàn cảnh khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T02:00:00+07:00",
+      "fetched": "2026-06-09T09:07:09.739548+07:00"
+    },
+    {
+      "id": "b5d565cb34598cb3b0ad1afd0e32d748",
+      "title": "Tranh cãi 'nảy lửa': Sinh viên có nên đi làm thêm từ năm nhất ?",
+      "link": "https://thanhnien.vn/tranh-cai-nay-lua-sinh-vien-co-nen-di-lam-them-tu-nam-nhat-185260607142629847.htm",
+      "summary": "Bên cạnh lợi ích như giúp sinh viên sớm tích lũy kinh nghiệm, cũng có lo ngại ảnh hưởng việc học khi năm đầu vào trường đã đi làm. Xung quanh câu chuyện này vẫn tồn tại nhiều ý kiến, vậy có nên đi làm thêm từ năm nhất?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T02:00:00+07:00",
+      "fetched": "2026-06-09T09:07:09.739675+07:00"
+    },
+    {
+      "id": "fb21f3f15c2c29ab2673437a2560d770",
+      "title": "Phía sau những thảm cỏ hoàn hảo của sân bóng World Cup 2026: Tiêu chuẩn cực cao",
+      "link": "https://thanhnien.vn/phia-sau-nhung-tham-co-hoan-hao-cua-san-bong-world-cup-2026-tieu-chuan-cuc-cao-185260609081656535.htm",
+      "summary": "Một trong những yếu tố được FIFA đầu tư nhiều nhất cho World Cup 2026 là mặt cỏ. Những thảm cỏ phục vụ giải đấu là kết quả của nhiều năm nghiên cứu khoa học và sản xuất trên quy mô toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:56:00+07:00",
+      "fetched": "2026-06-09T09:07:09.739798+07:00"
+    },
+    {
+      "id": "c31773203cf578315e69550585e2adcb",
+      "title": "Nắn tuyến đường sắt tốc độ cao Bắc - Nam tránh tháp Chăm hơn 1.000 năm tuổi",
+      "link": "https://thanhnien.vn/nan-tuyen-duong-sat-toc-do-cao-bac-nam-tranh-thap-cham-hon-1000-nam-tuoi-185260609082150175.htm",
+      "summary": "Bộ Xây dựng vừa tiếp thu kiến nghị của Khánh Hòa về việc điều chỉnh hướng tuyến đường sắt tốc độ cao Bắc - Nam đoạn qua di tích quốc gia đặc biệt - tháp Hòa Lai hơn 1.000 năm tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:51:00+07:00",
+      "fetched": "2026-06-09T09:07:09.739925+07:00"
+    },
+    {
+      "id": "ef53d0d7e4a11b594226afc451cc9c48",
+      "title": "Trọng tài nổi tiếng nhất châu Phi không được nhập cảnh vào Mỹ, FIFA không thể can thiệp",
+      "link": "https://thanhnien.vn/trong-tai-noi-tieng-nhat-chau-phi-khong-duoc-nhap-canh-vao-my-fifa-khong-the-can-thiep-185260609083434472.htm",
+      "summary": "Ngày 9.6, FIFA công bố các tổ trọng tài điều hành 4 trận đầu tiên tại World Cup 2026, bao gồm trận khai mạc giữa Mexico gặp Nam Phi do trọng tài người Brazil Wilton Sampaio bắt chính. Đồng thời xác nhận một trọng tài không thể vào Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:44:00+07:00",
+      "fetched": "2026-06-09T09:07:09.740046+07:00"
+    },
+    {
+      "id": "69e6e18c256dc06d5bf1a8100dfa8d72",
+      "title": "YouTube Premium chính thức tăng giá tới 4 USD mỗi tháng",
+      "link": "https://thanhnien.vn/youtube-premium-chinh-thuc-tang-gia-toi-4-usd-moi-thang-185260608224719078.htm",
+      "summary": "Mức giá mới của YouTube Premium đã có hiệu lực, kéo theo chi phí xem YouTube không quảng cáo tăng lên ở nhiều gói dịch vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:43:00+07:00",
+      "fetched": "2026-06-09T09:07:09.740182+07:00"
+    },
+    {
+      "id": "6ae1e9736469d75840d0d55bd096ee9c",
+      "title": "FPT và Nvidia phát hành tập dữ liệu tiếng Việt với 900.000 'hồ sơ nhân vật'",
+      "link": "https://vnexpress.net/fpt-va-nvidia-phat-hanh-tap-du-lieu-tieng-viet-voi-900-000-ho-so-nhan-vat-5083446.html",
+      "summary": "Tập dữ liệu Nemotron-Personas-Vietnam, do FPT và Nvidia phát triển, nằm trong top 15 tập dữ liệu thịnh hành trên Hugging Face sau bốn ngày phát hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:40:38+07:00",
+      "fetched": "2026-06-09T09:07:06.440553+07:00"
+    },
+    {
+      "id": "b1665ab3a3d395b409d2d743be9f5e9c",
+      "title": "Deschamps: 'Mbappe để dành bàn thắng cho World Cup'",
+      "link": "https://vnexpress.net/deschamps-mbappe-de-danh-ban-thang-cho-world-cup-5083444.html",
+      "summary": "HLV Didier Deschamps không lo lắng khi tiền đạo đội trưởng Kylian Mbappe tịt ngòi cả hai trận giao hữu trước thềm World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:40:06+07:00",
+      "fetched": "2026-06-09T09:07:06.440714+07:00"
+    },
+    {
+      "id": "b1665ab3a3d395b409d2d743be9f5e9c",
+      "title": "Deschamps: 'Mbappe để dành bàn thắng cho World Cup'",
+      "link": "https://vnexpress.net/deschamps-mbappe-de-danh-ban-thang-cho-world-cup-5083444.html",
+      "summary": "HLV Didier Deschamps không lo lắng khi tiền đạo đội trưởng Kylian Mbappe tịt ngòi cả hai trận giao hữu trước thềm World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-09T01:40:06+07:00",
+      "fetched": "2026-06-09T09:07:19.927026+07:00"
+    },
+    {
+      "id": "e8f80ae5df2d3635e58adae39e314608",
+      "title": "Trung Hiệp Lợi ra mắt phân bón khoáng nhập khẩu Anh quốc",
+      "link": "https://vnexpress.net/trung-hiep-loi-ra-mat-phan-bon-khoang-nhap-khau-anh-quoc-5082514.html",
+      "summary": "Phân bón khoáng Polysulphate IPMC của ICL (Israel), còn gọi là Wopro Poly S, vừa được Trung Hiệp Lợi đưa ra thị trường Việt Nam với khả năng cung cấp bốn dưỡng chất thiết yếu cho cây trồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:40:00+07:00",
+      "fetched": "2026-06-09T09:07:06.440853+07:00"
+    },
+    {
+      "id": "73c3277b1196d9511cee1fc58770165c",
+      "title": "Danh sách iPhone được nâng cấp lên iOS 27 gây bất ngờ lớn",
+      "link": "https://thanhnien.vn/danh-sach-iphone-duoc-nang-cap-len-ios-27-gay-bat-ngo-lon-185260609082555923.htm",
+      "summary": "iOS 27 sẽ được phát hành chính thức vào mùa thu năm nay, mang theo nhiều tính năng mới và tiếp tục hỗ trợ hàng loạt mẫu iPhone cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:38:00+07:00",
+      "fetched": "2026-06-09T09:07:09.740299+07:00"
+    },
+    {
+      "id": "91fb47e2b9c1297ba78923c5493f13a9",
+      "title": "Đức - Pháp hủy dự án cùng phát triển tiêm kích thế hệ 6",
+      "link": "https://vnexpress.net/duc-phap-huy-du-an-cung-phat-trien-tiem-kich-the-he-6-5083445.html",
+      "summary": "Đức và Pháp thống nhất hủy bỏ chương trình phát triển chiến đấu cơ FCAS do bất đồng giữa các công ty liên quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:37:42+07:00",
+      "fetched": "2026-06-09T09:07:06.440987+07:00"
+    },
+    {
+      "id": "91fb47e2b9c1297ba78923c5493f13a9",
+      "title": "Đức - Pháp hủy dự án cùng phát triển tiêm kích thế hệ 6",
+      "link": "https://vnexpress.net/duc-phap-huy-du-an-cung-phat-trien-tiem-kich-the-he-6-5083445.html",
+      "summary": "Đức và Pháp thống nhất hủy bỏ chương trình phát triển chiến đấu cơ FCAS do bất đồng giữa các công ty liên quan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-09T01:37:42+07:00",
+      "fetched": "2026-06-09T09:07:13.576117+07:00"
+    },
+    {
+      "id": "a11c311380c51492375827b467086ba2",
+      "title": "Bản hit mới đưa Ariana Grande thống trị Billboard, cán mốc 10 bài đạt top 1",
+      "link": "https://thanhnien.vn/ban-hit-moi-dua-ariana-grande-thong-tri-billboard-can-moc-10-bai-dat-top-1-185260609080714168.htm",
+      "summary": "Ariana Grande vừa có màn tái xuất bùng nổ khi đĩa đơn mới nhất 'Hate that i made you love me' giành vị trí số 1 trên bảng xếp hạng Billboard Hot 100. Thành tích này giúp cô chính thức đạt mốc 10 ca khúc thống trị ngôi vương trong sự nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:34:00+07:00",
+      "fetched": "2026-06-09T09:07:09.740420+07:00"
+    },
+    {
+      "id": "ea79f936950afc8105e458e8588e5289",
+      "title": "Giá xăng dầu hôm nay 9.6.2026: Giữ đà tăng, xăng trong nước được điều chỉnh thế nào?",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-962026-giu-da-tang-xang-trong-nuoc-duoc-dieu-chinh-the-nao-185260609075438987.htm",
+      "summary": "Giá dầu thế giới giữ đà tăng khoảng 1 USD/thùng sau các tuyên bố ngừng các cuộc tấn công của Iran vào Israel. Trong nước, dự báo xăng dầu tại kỳ điều hành giá tuần này có thể tăng nhẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:34:00+07:00",
+      "fetched": "2026-06-09T09:07:09.740536+07:00"
+    },
+    {
+      "id": "04b36a6c2c846b14e63fe37da6002cd6",
+      "title": "Thanh niên tử vong sau cuộc hỗn chiến ở đám cưới, 3 người bị giữ khẩn cấp",
+      "link": "https://thanhnien.vn/thanh-nien-tu-vong-sau-cuoc-hon-chien-o-dam-cuoi-3-nguoi-bi-giu-khan-cap-185260609080202637.htm",
+      "summary": "Sau cuộc xô xát xảy ra tại một đám cưới ở thành phố Đà Nẵng, một thanh niên 25 tuổi tử vong do bị nhiều người vây đánh. Công an khẩn cấp bắt giữ 3 người để điều tra hành vi giết người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:30:00+07:00",
+      "fetched": "2026-06-09T09:07:09.740651+07:00"
+    },
+    {
+      "id": "7eb78f027e7e2898ebce26cf859567a2",
+      "title": "Thẩm phán chặn ông Trump áp phí 100.000 USD với thị thực H-1B",
+      "link": "https://vnexpress.net/tham-phan-chan-ong-trump-ap-phi-100-000-usd-voi-thi-thuc-h-1b-5083440.html",
+      "summary": "Thẩm phán liên bang cho rằng Tổng thống Trump áp phí 100.000 USD với H-1B, visa cho lao động tay nghề cao, là trái phép và chặn quy định này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:28:36+07:00",
+      "fetched": "2026-06-09T09:07:06.441147+07:00"
+    },
+    {
+      "id": "7eb78f027e7e2898ebce26cf859567a2",
+      "title": "Thẩm phán chặn ông Trump áp phí 100.000 USD với thị thực H-1B",
+      "link": "https://vnexpress.net/tham-phan-chan-ong-trump-ap-phi-100-000-usd-voi-thi-thuc-h-1b-5083440.html",
+      "summary": "Thẩm phán liên bang cho rằng Tổng thống Trump áp phí 100.000 USD với H-1B, visa cho lao động tay nghề cao, là trái phép và chặn quy định này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-09T01:28:36+07:00",
+      "fetched": "2026-06-09T09:07:13.576283+07:00"
+    },
+    {
+      "id": "0fbdf378c9f5091c2140b963e9183a88",
+      "title": "Messi lập kỷ lục mới tại Mỹ trước thềm World Cup",
+      "link": "https://thanhnien.vn/messi-lap-ky-luc-moi-tai-my-truoc-them-world-cup-185260609082212078.htm",
+      "summary": "Lionel Messi vừa ghi thêm một dấu ấn lịch sử tại Mỹ trước khi bước vào chiến dịch World Cup 2026 cùng đội tuyển Argentina. Lần này, anh làm được điều đó mà không cần ghi bàn trên sân cỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:24:00+07:00",
+      "fetched": "2026-06-09T09:07:09.740765+07:00"
+    },
+    {
+      "id": "9caaef4d03423afc914174bdc2fa72e3",
+      "title": "8 xe cứu thương 'xé mưa' chuyển 11 nạn nhân tai nạn liên hoàn tới bệnh viện",
+      "link": "https://vnexpress.net/8-xe-cuu-thuong-xe-mua-chuyen-11-nan-nhan-tai-nan-lien-hoan-toi-benh-vien-5083400.html",
+      "summary": "Lực lượng y tế Bệnh viện Đa khoa Hùng Vương vừa kịp thời cứu sống 11 nạn nhân trong vụ tai nạn liên hoàn giữa ba xe chở khách, xe chở công nhân và một xe tải vào tối 8/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:18:47+07:00",
+      "fetched": "2026-06-09T09:07:06.441289+07:00"
+    },
+    {
+      "id": "3acc81d9bebef3407dccfc044c1161dd",
+      "title": "Vì sao World Cup 2026 nhiều HLV đẳng cấp thế giới?",
+      "link": "https://vnexpress.net/vi-sao-world-cup-2026-nhieu-hlv-dang-cap-the-gioi-5083359.html",
+      "summary": "Từ Ancelotti đến Tuchel và Nagelsmann, World Cup 2026 chứng kiến sự hiện diện của nhiều HLV đang ở đỉnh cao, phản ánh sức hút ngày càng lớn của bóng đá đội tuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:14:41+07:00",
+      "fetched": "2026-06-09T09:07:06.441414+07:00"
+    },
+    {
+      "id": "3acc81d9bebef3407dccfc044c1161dd",
+      "title": "Vì sao World Cup 2026 nhiều HLV đẳng cấp thế giới?",
+      "link": "https://vnexpress.net/vi-sao-world-cup-2026-nhieu-hlv-dang-cap-the-gioi-5083359.html",
+      "summary": "Từ Ancelotti đến Tuchel và Nagelsmann, World Cup 2026 chứng kiến sự hiện diện của nhiều HLV đang ở đỉnh cao, phản ánh sức hút ngày càng lớn của bóng đá đội tuyển.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-09T01:14:41+07:00",
+      "fetched": "2026-06-09T09:07:19.926073+07:00"
+    },
+    {
+      "id": "afed316620c9ffb94c1c7b9cf36c7a54",
+      "title": "Giá vé máy bay giảm vào cao điểm hè",
+      "link": "https://vnexpress.net/gia-ve-may-bay-giam-vao-cao-diem-he-5083075.html",
+      "summary": "Sau nhiều tháng neo ở mức cao, giá vé máy bay nhiều chặng nội địa từ đầu tháng 6 giảm 10-15% khi các hãng mở rộng dải giá thấp và đẩy mạnh kích cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:14:24+07:00",
+      "fetched": "2026-06-09T09:07:06.441541+07:00"
+    },
+    {
+      "id": "afed316620c9ffb94c1c7b9cf36c7a54",
+      "title": "Giá vé máy bay giảm vào cao điểm hè",
+      "link": "https://vnexpress.net/gia-ve-may-bay-giam-vao-cao-diem-he-5083075.html",
+      "summary": "Sau nhiều tháng neo ở mức cao, giá vé máy bay nhiều chặng nội địa từ đầu tháng 6 giảm 10-15% khi các hãng mở rộng dải giá thấp và đẩy mạnh kích cầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-09T01:14:24+07:00",
+      "fetched": "2026-06-09T09:07:15.333699+07:00"
+    },
+    {
+      "id": "193277152ff5bfc8b98010ae597a9115",
+      "title": "Gấu Pooh tròn 100 tuổi",
+      "link": "https://vnexpress.net/gau-pooh-tron-100-tuoi-5083401.html",
+      "summary": "Winnie the Pooh là biểu tượng của sự lạc quan, lòng tốt và niềm vui giản dị, đồng hành nhiều thế hệ độc giả và khán giả khắp thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:09:46+07:00",
+      "fetched": "2026-06-09T09:07:06.441663+07:00"
+    },
+    {
+      "id": "5c7be808fe883a0cd7a9b6a904b7db38",
+      "title": "Con gái '30 tuổi' mắc kẹt khi đu cột giữa sân",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-con-gai-30-tuoi-mac-ket-khi-du-cot-giua-san-5082969.html",
+      "summary": "Mẹ xem camera, đi kể khắp xóm là con gái tôi đu cột, quặp chân vào cột rồi mắc kẹt nhưng không ai tin, khổ chủ chia sẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:00:00+07:00",
+      "fetched": "2026-06-09T09:07:06.441800+07:00"
+    },
+    {
+      "id": "45ac8cefd1688132b4c612eb32706bc5",
+      "title": "Ung thư da di căn phổi",
+      "link": "https://vnexpress.net/ung-thu-da-di-can-phoi-5083431.html",
+      "summary": "Ông Kha, 56 tuổi, bất ngờ phát hiện ung thư hắc tố da giai đoạn 4 di căn phổi, điều trị với thuốc miễn dịch thu nhỏ u.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:00:00+07:00",
+      "fetched": "2026-06-09T09:07:06.441922+07:00"
+    },
+    {
+      "id": "721ce779cc78052a1cb80b7aa5d66241",
+      "title": "Tưởng viêm amidan hóa ung thư do HPV",
+      "link": "https://vnexpress.net/tuong-viem-amidan-hoa-ung-thu-do-hpv-5083426.html",
+      "summary": "Ông Văn, 60 tuổi, đau họng, nuốt đau ba tuần tưởng viêm amidan, song bác sĩ chẩn đoán ung thư amidan giai đoạn 4, di căn hạch do HPV.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:00:00+07:00",
+      "fetched": "2026-06-09T09:07:06.442044+07:00"
+    },
+    {
+      "id": "48bfa44b27813d6fa1ba415bf3da431f",
+      "title": "Bỏ điều trị ba năm, mắt đục thủy tinh thể nặng",
+      "link": "https://vnexpress.net/bo-dieu-tri-ba-nam-mat-duc-thuy-tinh-the-nang-5083408.html",
+      "summary": "Ông Phước, 68 tuổi, bị đục thủy tinh thể độ 3 ở cả hai mắt, đã phẫu thuật mắt phải nhưng bỏ điều trị mắt còn lại khiến bệnh tiến triển nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:00:00+07:00",
+      "fetched": "2026-06-09T09:07:06.442186+07:00"
+    },
+    {
+      "id": "da4687ac1853fa4f2802905f2b079511",
+      "title": "Trường Đại học FPT tổ chức hội nghị về tương lai việc làm",
+      "link": "https://vnexpress.net/truong-dai-hoc-fpt-to-chuc-hoi-nghi-ve-tuong-lai-viec-lam-5083390.html",
+      "summary": "Hơn 1.200 sinh viên và chuyên gia tham gia FPTU Career Summit 2026, thảo luận tác động của AI, xu hướng việc làm và kỹ năng cần thiết cho tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:00:00+07:00",
+      "fetched": "2026-06-09T09:07:06.442306+07:00"
+    },
+    {
+      "id": "ee4ef3918cfe395cd3fc352908099bda",
+      "title": "Bộ ba giải pháp bảo vệ tài sản, sức khỏe của Techcom Life",
+      "link": "https://vnexpress.net/bo-ba-giai-phap-bao-ve-tai-san-suc-khoe-cua-techcom-life-5083328.html",
+      "summary": "Techcom Life giới thiệu bộ ba giải pháp nhằm giúp các gia đình Việt chủ động quản trị rủi ro, bảo vệ sức khỏe, tài sản và kế hoạch tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T01:00:00+07:00",
+      "fetched": "2026-06-09T09:07:06.442427+07:00"
+    },
+    {
+      "id": "ee4ef3918cfe395cd3fc352908099bda",
+      "title": "Bộ ba giải pháp bảo vệ tài sản, sức khỏe của Techcom Life",
+      "link": "https://vnexpress.net/bo-ba-giai-phap-bao-ve-tai-san-suc-khoe-cua-techcom-life-5083328.html",
+      "summary": "Techcom Life giới thiệu bộ ba giải pháp nhằm giúp các gia đình Việt chủ động quản trị rủi ro, bảo vệ sức khỏe, tài sản và kế hoạch tương lai.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-09T01:00:00+07:00",
+      "fetched": "2026-06-09T09:07:15.334609+07:00"
+    },
+    {
+      "id": "7493e7f103c3bb7c8dce443a4a556962",
+      "title": "Vì sao giá vàng giảm 7 triệu đồng chỉ trong một ngày?",
+      "link": "https://vnexpress.net/vi-sao-gia-vang-giam-7-trieu-dong-chi-trong-mot-ngay-5083422.html",
+      "summary": "Giá vàng giảm tới 7 triệu đồng mỗi lượng trong ngày 8/6 do chịu tác động từ nhịp điều chỉnh của thị trường thế giới cùng với lực bán trong nước, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-09T00:38:28+07:00",
+      "fetched": "2026-06-09T09:07:15.333852+07:00"
+    },
+    {
+      "id": "8f94ff36555caa68368ee12a537e154d",
+      "title": "Ông Trump đề cử cựu luật sư riêng làm Bộ trưởng Tư pháp",
+      "link": "https://vnexpress.net/ong-trump-de-cu-cuu-luat-su-rieng-lam-bo-truong-tu-phap-5083434.html",
+      "summary": "Tổng thống Trump đề cử cựu luật sư riêng Todd Blanche làm Bộ trưởng Tư pháp, mở ra một cuộc đối đầu tiềm tàng tại Thượng viện để phê chuẩn chức vụ này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-09T00:32:24+07:00",
+      "fetched": "2026-06-09T09:07:13.576428+07:00"
+    },
+    {
+      "id": "70c5f87c084284d17c879ed1bb792fe8",
+      "title": "VinFast sẽ cung cấp 1 triệu ôtô cho Green SM trong 4 năm",
+      "link": "https://vnexpress.net/vinfast-se-cung-cap-1-trieu-oto-cho-green-sm-trong-4-nam-5083421.html",
+      "summary": "Giai đoạn 2026-2030, VinFast sẽ cung cấp 1 triệu ôtô cho Green SM, giúp công ty này mở rộng mảng gọi xe, cho thuê và dịch vụ vận chuyển.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-09T00:22:57+07:00",
+      "fetched": "2026-06-09T09:07:15.333986+07:00"
     },
     {
       "id": "5540b0b17caa6f371d36c91d97dfeb6f",
@@ -161,6 +701,26 @@ window.newsData_2026_06_09 = {
       "category": "Tổng hợp",
       "published": "2026-06-09T00:21:18.490648+07:00",
       "fetched": "2026-06-09T00:21:18.490890+07:00"
+    },
+    {
+      "id": "8565b0b2a8a2c5cb298dc29f638d8ad3",
+      "title": "ESPN: 'Bồ Đào Nha sẽ sống hoặc chết cùng Ronaldo'",
+      "link": "https://vnexpress.net/espn-bo-dao-nha-se-song-hoac-chet-cung-ronaldo-5083207.html",
+      "summary": "Theo kênh ESPN, Bồ Đào Nha nằm trong nhóm đội mạnh có nguy cơ gây thất vọng lớn nhất tại World Cup 2026, khi chỉ đứng thứ 16 về khả năng vượt qua vòng bảng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-09T00:08:43+07:00",
+      "fetched": "2026-06-09T09:07:19.926647+07:00"
+    },
+    {
+      "id": "fd7cb1206e6be14357c7e90b5d8aa840",
+      "title": "Israel, Iran tuyên bố dừng tập kích lẫn nhau",
+      "link": "https://vnexpress.net/israel-iran-tuyen-bo-dung-tap-kich-lan-nhau-5083428.html",
+      "summary": "Israel và Iran tuyên bố dừng giao tranh, khép lại đợt tấn công lãnh thổ của nhau đầu tiên kể từ lệnh ngừng bắn hồi tháng 4.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-09T00:01:21+07:00",
+      "fetched": "2026-06-09T09:07:13.576561+07:00"
     },
     {
       "id": "6979fd1bc09b5dfe98d229be54dba8ce",
