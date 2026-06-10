@@ -1,7 +1,47 @@
 window.newsData_2026_06_11 = {
   "date": "2026-06-11",
-  "lastUpdated": "2026-06-11T01:24:17.245489+07:00",
+  "lastUpdated": "2026-06-11T04:50:47.394444+07:00",
   "articles": [
+    {
+      "id": "bdf97f4679dd25d32802fd8616ed23eb",
+      "title": "Xử phạt người ‘chặt chém’ du khách 430.000 đồng cho 10 chiếc bánh rán",
+      "link": "https://tuoitre.vn/xu-phat-nguoi-chat-chem-du-khach-430-000-dong-cho-10-chiec-banh-ran-20260610231515186.htm",
+      "summary": "Qua làm việc, người phụ nữ đã thừa nhận nội dung đăng tải trong video là đúng sự thật và có nguyện vọng được trả lại số tiền cho vị khách nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T04:50:37.568339+07:00",
+      "fetched": "2026-06-11T04:50:37.568442+07:00"
+    },
+    {
+      "id": "6b330e76011f057ba58cd95a86b1eaaf",
+      "title": "Techcombank và hệ sinh thái cùng khát vọng phụng sự Quốc gia trong kỳ World Cup",
+      "link": "https://tuoitre.vn/techcombank-va-he-sinh-thai-cung-khat-vong-phung-su-quoc-gia-trong-ky-world-cup-20260610175313476.htm",
+      "summary": "World Cup 2026 sắp tới đây có thể sẽ là ngày hội bóng đá ấn tượng nhất lịch sử với nhiều kỷ lục và được chờ đón từng ngày bởi các fan hâm mộ bóng đá cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T04:50:37.568211+07:00",
+      "fetched": "2026-06-11T04:50:37.568328+07:00"
+    },
+    {
+      "id": "97ea2d85461710d675194bd7b85eae42",
+      "title": "SHB nhận bằng khen của Bộ Công an về phong trào bảo vệ an ninh Tổ quốc",
+      "link": "https://tuoitre.vn/shb-nhan-bang-khen-cua-bo-cong-an-ve-phong-trao-bao-ve-an-ninh-to-quoc-20260610184515884.htm",
+      "summary": "SHB được Bộ Công an trao bằng khen vì thành tích xuất sắc trong phong trào toàn dân bảo vệ an ninh Tổ quốc năm 2025, đồng thời được công nhận đạt tiêu chuẩn \"An toàn về an ninh, trật tự” năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T04:50:37.568083+07:00",
+      "fetched": "2026-06-11T04:50:37.568200+07:00"
+    },
+    {
+      "id": "5c2f99c8ee424482fb213e50f4308e0c",
+      "title": "Hàn Quốc nới lỏng quy định về vành đai xanh để đẩy nhanh nguồn cung nhà ở",
+      "link": "https://tuoitre.vn/han-quoc-noi-long-quy-dinh-ve-vanh-dai-xanh-de-day-nhanh-nguon-cung-nha-o-20260610225452659.htm",
+      "summary": "Chính phủ Hàn Quốc quyết định tạm thời loại trừ các khu vực vành đai xanh (Green Belt) khỏi hạn mức tổng diện tích được phép giải tỏa khi triển khai các dự án nhà ở công cộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T04:50:37.567841+07:00",
+      "fetched": "2026-06-11T04:50:37.568069+07:00"
+    },
     {
       "id": "e52e1eeb43db2d37b62e015c7195fee0",
       "title": "Trung Quốc cảnh báo EU về gói trừng phạt nhiều công ty Trung Quốc",
@@ -151,6 +191,66 @@ window.newsData_2026_06_11 = {
       "category": "Tổng hợp",
       "published": "2026-06-11T01:24:07.670246+07:00",
       "fetched": "2026-06-11T01:24:07.670498+07:00"
+    },
+    {
+      "id": "0818fb0b97c43d299f7b0446f482662e",
+      "title": "Chiến sự Ukraine ngày 1.568: Kyiv phóng tên lửa Flamingo, Nga điều tra 2 vụ đánh bom",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1568-kyiv-phong-ten-lua-flamingo-nga-dieu-tra-2-vu-danh-bom-185260610213825356.htm",
+      "summary": "Lãnh đạo Ukraine ngày 10.6 tuyên bố sử dụng tên lửa hành trình tầm xa Flamingo trong đợt tấn công quy mô lớn vào lãnh thổ Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T21:32:00+07:00",
+      "fetched": "2026-06-11T04:50:36.373236+07:00"
+    },
+    {
+      "id": "df2927d12bbda5007e962480cd300135",
+      "title": "Gần 860 ha rừng tại U Minh Hạ suy thoái, suy kiệt chưa rõ nguyên nhân",
+      "link": "https://thanhnien.vn/gan-860-ha-rung-tai-u-minh-ha-suy-thoai-suy-kiet-chua-ro-nguyen-nhan-185260610183527489.htm",
+      "summary": "Gần 860 ha rừng tại Vườn quốc gia U Minh Hạ đang suy thoái và có dấu hiệu suy kiệt nhưng chưa có kết luận chính thức từ các nhà khoa học về nguyên nhân dẫn đến thực trạng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T21:29:00+07:00",
+      "fetched": "2026-06-11T04:50:36.373406+07:00"
+    },
+    {
+      "id": "d99c5902e7f468649246a60eb8d12aeb",
+      "title": "10 ôtô xăng, dầu bán nhiều nhất tháng 5 - vắng bóng xe Hàn",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-xang-dau-ban-nhieu-nhat-thang-5-vang-bong-xe-han-5083561.html",
+      "summary": "Toyota Yaris Cross trở lại đỉnh bảng xếp hạng doanh số xe bán nhiều nhất với 1.430 chiếc, tiếp sau đó là Mitsubishi Xpander, Mazda CX-5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T21:00:00+07:00",
+      "fetched": "2026-06-11T04:50:32.970736+07:00"
+    },
+    {
+      "id": "ebf48dcfb86a2c7d53c862c15a438d17",
+      "title": "HLV Pochettino: 'Mỹ có thể vô địch World Cup'",
+      "link": "https://vnexpress.net/hlv-pochettino-my-co-the-vo-dich-world-cup-5084301.html",
+      "summary": "HLV Mauricio Pochettino tin Mỹ đủ khả năng đăng quang World Cup 2026, dù không sở hữu bất kỳ cầu thủ nào nằm trong top 100 thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T20:45:18+07:00",
+      "fetched": "2026-06-11T04:50:32.970899+07:00"
+    },
+    {
+      "id": "ebf48dcfb86a2c7d53c862c15a438d17",
+      "title": "HLV Pochettino: 'Mỹ có thể vô địch World Cup'",
+      "link": "https://vnexpress.net/hlv-pochettino-my-co-the-vo-dich-world-cup-5084301.html",
+      "summary": "HLV Mauricio Pochettino tin Mỹ đủ khả năng đăng quang World Cup 2026, dù không sở hữu bất kỳ cầu thủ nào nằm trong top 100 thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-10T20:45:18+07:00",
+      "fetched": "2026-06-11T04:50:47.389743+07:00"
+    },
+    {
+      "id": "8b89188d81a1ee9e1b7c169a3ac488f1",
+      "title": "Lịch đá World Cup 2026 mới nhất - Mexico đấu Nam Phi: Khát vọng tạo cơn địa chấn",
+      "link": "https://thanhnien.vn/lich-da-world-cup-2026-moi-nhat-mexico-dau-nam-phi-khat-vong-tao-con-dia-chan-185260610222501664.htm",
+      "summary": "Làng túc cầu thế giới hướng về sân vận động Azteca (Mexico City) đón xem trận đấu khai mạc World Cup 2026 giữa đội tuyển Mexico và Nam Phi trong khuôn khổ bảng A, vào 2 giờ ngày 12.6, trực tiếp trên các kênh của VTV, VTVgo, FPT Play, TV360...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T20:11:00+07:00",
+      "fetched": "2026-06-11T04:50:36.373543+07:00"
     },
     {
       "id": "329f4970b41792a2d9c74f2d672fff77",
@@ -441,6 +541,16 @@ window.newsData_2026_06_11 = {
       "category": "Thể thao",
       "published": "2026-06-10T17:00:00+07:00",
       "fetched": "2026-06-11T01:24:17.242382+07:00"
+    },
+    {
+      "id": "6c3657a97bc31423a9688493c6e5f102",
+      "title": "Roy Keane: 'Tôi hoàn toàn không thấy cửa vô địch của tuyển Anh'",
+      "link": "https://vnexpress.net/roy-keane-toi-hoan-toan-khong-thay-cua-vo-dich-cua-tuyen-anh-5084272.html",
+      "summary": "Hai cựu danh thủ Roy Keane và Gary Neville nghi ngờ khả năng vô địch của tuyển Anh ở World Cup 2026 vì những bất ổn nơi hàng thủ cùng tuyến giữa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-10T17:00:00+07:00",
+      "fetched": "2026-06-11T04:50:47.390301+07:00"
     },
     {
       "id": "169ea3c914844abadb96e1222f631fa9",
