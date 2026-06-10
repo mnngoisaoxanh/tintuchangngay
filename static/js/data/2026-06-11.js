@@ -1,7 +1,27 @@
 window.newsData_2026_06_11 = {
   "date": "2026-06-11",
-  "lastUpdated": "2026-06-11T04:50:47.394444+07:00",
+  "lastUpdated": "2026-06-11T06:19:00.968689+07:00",
   "articles": [
+    {
+      "id": "a90900dcc33fa90c12ccaf7df93e0911",
+      "title": "Lịch trực tiếp ngày khai mạc World Cup 2026: Mexico đấu với Nam Phi",
+      "link": "https://tuoitre.vn/lich-truc-tiep-ngay-khai-mac-world-cup-2026-mexico-dau-voi-nam-phi-20260610181048958.htm",
+      "summary": "Lúc 2h hôm nay 12-6, World Cup 2026 sẽ khai mạc tại Mexico bằng trận đấu giữa đội chủ nhà với Nam Phi ở lượt đấu đầu tiên bảng A.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T06:18:54.106219+07:00",
+      "fetched": "2026-06-11T06:18:54.106358+07:00"
+    },
+    {
+      "id": "c011fe0b6959b384f6e0415fb75a03e2",
+      "title": "Dự đoán tỉ số World Cup: Chủ nhà Mexico gây thất vọng trước Nam Phi",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-chu-nha-mexico-gay-that-vong-truoc-nam-phi-2026061020072972.htm",
+      "summary": "2h ngày 12-6 (giờ Việt Nam) sẽ diễn ra trận đấu đầu tiên của World Cup 2026, giữa đội chủ nhà Mexico và Nam Phi trong khuôn khổ bảng A.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T06:18:54.105969+07:00",
+      "fetched": "2026-06-11T06:18:54.106202+07:00"
+    },
     {
       "id": "bdf97f4679dd25d32802fd8616ed23eb",
       "title": "Xử phạt người ‘chặt chém’ du khách 430.000 đồng cho 10 chiếc bánh rán",
@@ -191,6 +211,266 @@ window.newsData_2026_06_11 = {
       "category": "Tổng hợp",
       "published": "2026-06-11T01:24:07.670246+07:00",
       "fetched": "2026-06-11T01:24:07.670498+07:00"
+    },
+    {
+      "id": "a70d2d134cb82d573a1e2f76789a4588",
+      "title": "Lịch đấu billiards hôm nay: Bao Phương Vinh xuất trận, Ngô Đình Nại tranh vé chung kết",
+      "link": "https://thanhnien.vn/lich-dau-billiards-hom-nay-bao-phuong-vinh-xuat-tran-ngo-dinh-nai-tranh-ve-chung-ket-185260611003539409.htm",
+      "summary": "Hôm nay (11.6), Bao Phương Vinh và Chiêm Hồng Thái sẽ xuất trận tại World Cup billiards Ankara 2026. Trong khi đó, Ngô Đình Nại ra sân để tranh tấm vé vào chơi chung kết PBA Tour.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:18:00+07:00",
+      "fetched": "2026-06-11T06:18:52.924083+07:00"
+    },
+    {
+      "id": "aa68d727643b3bc273a2d8078c09090c",
+      "title": "Biểu tượng 5G+ trên smartphone cho biết điều gì?",
+      "link": "https://thanhnien.vn/bieu-tuong-5g-tren-smartphone-cho-biet-dieu-gi-185260610213609753.htm",
+      "summary": "Nhiều người thấy 5G+ xuất hiện trên smartphone nhưng không biết đây là phiên bản 5G sử dụng băng tần nhanh hơn thông thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:18:00+07:00",
+      "fetched": "2026-06-11T06:18:52.924304+07:00"
+    },
+    {
+      "id": "b1d294513f73cf6717066e25638c4b5d",
+      "title": "Tìm liệt sĩ trên dãy Trường Sơn: Nước mắt thời bình hòa vào xương máu chiến tranh",
+      "link": "https://thanhnien.vn/tim-liet-si-tren-day-truong-son-nuoc-mat-thoi-binh-hoa-vao-xuong-mau-chien-tranh-185260610171234817.htm",
+      "summary": "Dưới bầu trời xanh hòa bình, những chiến sĩ vẫn cật lực găm sâu những lát cuốc vào lòng đất. Mỗi kỷ vật, mảnh xương được phát hiện dưới lớp đất sâu khiến họ không cầm được nước mắt. Giọt lệ hôm nay như hòa vào xương máu của những người lính năm xưa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:16:00+07:00",
+      "fetched": "2026-06-11T06:18:52.924475+07:00"
+    },
+    {
+      "id": "b7804ace0522f768abf67b2189619e1e",
+      "title": "Vận chuyển đề thi tốt nghiệp THPT ở nơi đông thí sinh nhất cả nước",
+      "link": "https://thanhnien.vn/van-chuyen-de-thi-o-noi-dong-thi-sinh-nhat-ca-nuoc-185260610235801337.htm",
+      "summary": "Kỳ thi tốt nghiệp THPT năm nay, TP.HCM là địa phương có số lượng TS đông nhất cả nước với 142.899 người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:15:00+07:00",
+      "fetched": "2026-06-11T06:18:52.924632+07:00"
+    },
+    {
+      "id": "d289b83d6b7f7dca519de4eac0010c52",
+      "title": "Đi trên vỉa hè để né kẹt xe, 529 xe máy bị CSGT TP.HCM phạt nguội",
+      "link": "https://thanhnien.vn/di-tren-via-he-de-ne-ket-xe-529-xe-may-bi-csgt-tphcm-phat-nguoi-185260610231136329.htm",
+      "summary": "Dù mức phạt khá cao nhưng không ít người vẫn đi xe máy trên vỉa hè khi đường đông, xe ùn ứ. Chỉ hơn 1 tháng, CSGT TP.HCM đã phạt nguội 529 trường hợp vi phạm tại quận Gò Vấp, Bình Thạnh cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:15:00+07:00",
+      "fetched": "2026-06-11T06:18:52.924790+07:00"
+    },
+    {
+      "id": "6785d17ac6dbce817d149b24b59461d3",
+      "title": "Phim truyền hình về đấu tranh chống tội phạm ma túy lên sóng",
+      "link": "https://thanhnien.vn/phim-truyen-hinh-ve-dau-tranh-chong-toi-pham-ma-tuy-len-song-18526061017273954.htm",
+      "summary": "Theo thông tin từ nhà sản xuất, phim 'Lửa trắng' khai thác đề tài cảnh sát hình sự, đấu tranh với tội phạm ma túy, có thời lượng dự kiến từ 16 - 20 tập, được đầu tư theo hướng hiện đại, tiết tấu nhanh và chú trọng trải nghiệm cảm xúc của khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:15:00+07:00",
+      "fetched": "2026-06-11T06:18:52.924942+07:00"
+    },
+    {
+      "id": "6c27236b25837e01a097d2b758c71e8e",
+      "title": "11 năm sau kỷ lục Việt Nam, hai anh em ruột vẫn chưa một ngày rời sân khấu xiếc",
+      "link": "https://thanhnien.vn/11-nam-sau-ky-luc-viet-nam-hai-anh-em-ruot-van-chua-mot-ngay-roi-san-khau-xiec-185260609161650722.htm",
+      "summary": "11 năm sau ngày được công nhận là cặp anh em nghệ sĩ xiếc nhỏ tuổi nhất Việt Nam, Minh Nhựt và Minh Quang vẫn miệt mài tập luyện để nối tiếp truyền thống làm xiếc của gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:06:00+07:00",
+      "fetched": "2026-06-11T06:18:52.925094+07:00"
+    },
+    {
+      "id": "96aa54a3c4bd296b2188a5edd5a2ef8a",
+      "title": "Mỹ tập kích loạt mục tiêu ở Iran",
+      "link": "https://vnexpress.net/my-tap-kich-loat-muc-tieu-o-iran-5084317.html",
+      "summary": "Quân đội Mỹ tuyên bố tấn công nhiều mục tiêu ở Iran để đáp trả \"những sự gây hấn vô lý và liên tục\" từ Tehran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-10T23:04:35+07:00",
+      "fetched": "2026-06-11T06:18:55.527661+07:00"
+    },
+    {
+      "id": "e4ef6502a3cfc2e42d789212c35d1d3b",
+      "title": "Giá vàng lao dốc không phanh",
+      "link": "https://thanhnien.vn/gia-vang-lao-doc-khong-phanh-185260610223728722.htm",
+      "summary": "Giá vàng liên tiếp sập mạnh khiến người mua với giá nào từ đầu năm đến nay cũng đều thua lỗ nặng nề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:00:00+07:00",
+      "fetched": "2026-06-11T06:18:52.925272+07:00"
+    },
+    {
+      "id": "088db1799bbcaf6bef3171228aa50adb",
+      "title": "Tăng tốc điện mặt trời mái nhà",
+      "link": "https://thanhnien.vn/tang-toc-dien-mat-troi-mai-nha-185260610223203365.htm",
+      "summary": "Những cơn \"mưa vàng\" đã làm dịu đi phần nào không khí oi bức, giúp giảm nhiệt nhu cầu sử dụng điện. Tuy nhiên, nhìn vào biểu đồ huy động nguồn điện, biểu đồ phụ tải… cho thấy nguy cơ thiếu điện vẫn rất lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:00:00+07:00",
+      "fetched": "2026-06-11T06:18:52.925442+07:00"
+    },
+    {
+      "id": "99e9034ed3484ed271492772da219667",
+      "title": "TP.HCM tốc lực mở đường kết nối liên vùng",
+      "link": "https://thanhnien.vn/tphcm-toc-luc-mo-duong-ket-noi-lien-vung-185260610214541749.htm",
+      "summary": "Định hướng phát triển theo mô hình siêu đô thị đa tâm của TP.HCM đang đặt áp lực cực lớn lên hệ thống hạ tầng giao thông liên vùng. Khi các đô thị vệ tinh hình thành, nhu cầu kết nối đòi hỏi một mạng lưới giao thông thông suốt giữa TP.HCM với các địa phương lân cận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:00:00+07:00",
+      "fetched": "2026-06-11T06:18:52.925607+07:00"
+    },
+    {
+      "id": "6fae39965c0093aa595481f89595efe9",
+      "title": "Toan tính của hai đảng Dân chủ - Cộng hòa sau vòng bầu cử sơ bộ",
+      "link": "https://thanhnien.vn/toan-tinh-cua-hai-dang-dan-chu-cong-hoa-sau-vong-bau-cu-so-bo-185260610211421573.htm",
+      "summary": "Kết quả loạt bầu cử sơ bộ mới đây tại Mỹ phản ánh sự thực dụng khi các đảng sẵn sàng ủng hộ ứng viên có khả năng chiến thắng cao nhất và tạm gác những lo ngại về đời tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:00:00+07:00",
+      "fetched": "2026-06-11T06:18:52.925762+07:00"
+    },
+    {
+      "id": "219077a501ee77ab39b76010d2abcd64",
+      "title": "Thi tốt nghiệp THPT: Những hành trình không bỏ cuộc với ước mơ",
+      "link": "https://thanhnien.vn/thi-tot-nghiep-thpt-nhung-hanh-trinh-khong-bo-cuoc-voi-uoc-mo-185260610182120674.htm",
+      "summary": "Chúng tôi gặp những thí sinh mang theo khát vọng riêng vào kỳ thi tốt nghiệp THPT: Chàng trai 3 lần dự thi vào Trường ĐH Cảnh sát nhân dân và hai nữ sinh dân tộc K'Ho nuôi ước mơ trở thành cô giáo, người làm công tác xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:00:00+07:00",
+      "fetched": "2026-06-11T06:18:52.925915+07:00"
+    },
+    {
+      "id": "39d62df319b363b1b7fbebae92fd7c2f",
+      "title": "Trăm năm đất tổ kim hoàn: Lễ giỗ tổ nghề 'nâng cấp' thành lễ hội?",
+      "link": "https://thanhnien.vn/tram-nam-dat-to-kim-hoan-le-gio-to-nghe-nang-cap-thanh-le-hoi-185260610173052896.htm",
+      "summary": "Hằng năm, lễ tế tổ nghề kim hoàn VN được tổ chức vào ngày 7.2 âm lịch, tức ngày giỗ của đệ nhất tổ sư Cao Đình Độ. Lễ hội là sinh hoạt tín ngưỡng đặc trưng mang nhiều ý nghĩa tôn vinh nghề nghiệp và tri ân tiền nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:00:00+07:00",
+      "fetched": "2026-06-11T06:18:52.926064+07:00"
+    },
+    {
+      "id": "ca5d85bbeae043a4c153bd474c33c755",
+      "title": "Màu áo cam đi ngược chiều ánh sáng",
+      "link": "https://thanhnien.vn/mau-ao-cam-di-nguoc-chieu-anh-sang-185260610160825129.htm",
+      "summary": "Người ta thường đo đếm sự vươn mình của một siêu đô thị bằng những cao ốc chọc trời, hay những bảng mạch điện tử chạy số rào rào. Nhưng dưới sự hoa lệ ấy, mạch máu của TP.HCM lại được duy trì bởi một nhịp đập năng lượng mộc mạc và đầy tinh thần phụng sự của ngành điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:00:00+07:00",
+      "fetched": "2026-06-11T06:18:52.926239+07:00"
+    },
+    {
+      "id": "63e3ee798eacdd8c35921736e16407a1",
+      "title": "Thái Lan giảm thời gian miễn visa: Du khách Việt Nam cần lưu ý gì?",
+      "link": "https://thanhnien.vn/thai-lan-giam-thoi-gian-mien-visa-du-khach-viet-nam-can-luu-y-gi-185260610135759089.htm",
+      "summary": "Theo chính sách hiện hành, công dân Việt Nam đến Thái Lan với mục đích du lịch hoặc công tác ngắn ngày được miễn visa và có thể lưu trú tối đa 60 ngày cho mỗi lần nhập cảnh. Tuy nhiên, chính phủ Thái Lan đã thông qua việc điều chỉnh chính sách này, rút thời gian lưu trú miễn visa xuống còn 30 ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T23:00:00+07:00",
+      "fetched": "2026-06-11T06:18:52.926393+07:00"
+    },
+    {
+      "id": "c73f48579eac1870261a729d525e86a5",
+      "title": "Cape Town Marathon trở thành giải major thứ tám",
+      "link": "https://vnexpress.net/cape-town-marathon-tro-thanh-giai-major-thu-tam-5084318.html",
+      "summary": "Ngày 10/6, World Marathon Majors (WMM) thông báo Cape Town Marathon là thành viên thứ tám của hệ thống các giải marathon danh giá nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T22:40:46+07:00",
+      "fetched": "2026-06-11T06:18:49.645865+07:00"
+    },
+    {
+      "id": "c73f48579eac1870261a729d525e86a5",
+      "title": "Cape Town Marathon trở thành giải major thứ tám",
+      "link": "https://vnexpress.net/cape-town-marathon-tro-thanh-giai-major-thu-tam-5084318.html",
+      "summary": "Ngày 10/6, World Marathon Majors (WMM) thông báo Cape Town Marathon là thành viên thứ tám của hệ thống các giải marathon danh giá nhất thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-10T22:40:46+07:00",
+      "fetched": "2026-06-11T06:19:00.964061+07:00"
+    },
+    {
+      "id": "4b92a8fbb3a3e4ac6127e730802685f4",
+      "title": "Bước tiến giúp xây trung tâm dữ liệu không gian của Musk",
+      "link": "https://vnexpress.net/buoc-tien-giup-xay-trung-tam-du-lieu-khong-gian-cua-musk-5084088.html",
+      "summary": "Elon Musk công bố thiết kế vệ tinh AI1, dự kiến dùng làm trung tâm dữ liệu ngoài không gian, và nhà máy mới phục vụ quá trình chế tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T22:00:00+07:00",
+      "fetched": "2026-06-11T06:18:49.646052+07:00"
+    },
+    {
+      "id": "b7ac2069a41bdc8fdcb843da5d942df4",
+      "title": "Hành trình thị trưởng Mỹ trở thành đặc vụ cho Trung Quốc",
+      "link": "https://vnexpress.net/hanh-trinh-thi-truong-my-tro-thanh-dac-vu-cho-trung-quoc-5083903.html",
+      "summary": "Từ một \"ngôi sao chính trị\" đang lên tại Mỹ, nữ thị trưởng gốc Hoa Eileen Wang bất ngờ sụp đổ sau khi lộ tẩy là đặc vụ của Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T22:00:00+07:00",
+      "fetched": "2026-06-11T06:18:49.646250+07:00"
+    },
+    {
+      "id": "8a3dfab7ffaa9a36e1c50b81b9f6de56",
+      "title": "Lấp khoảng trống an sinh cho hàng trăm nghìn tài xế công nghệ",
+      "link": "https://vnexpress.net/lap-khoang-trong-an-sinh-cho-hang-tram-nghin-tai-xe-cong-nghe-5083672.html",
+      "summary": "Sau hơn một thập kỷ đứng ngoài lưới an sinh, hàng trăm nghìn tài xế công nghệ có thể thuộc diện tham gia BHXH bắt buộc nếu luật được sửa đổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T22:00:00+07:00",
+      "fetched": "2026-06-11T06:18:49.646431+07:00"
+    },
+    {
+      "id": "67b1dfabb4b5dab3fea3af9347e7fe21",
+      "title": "Bác sĩ chỉ cách nhận biết dấu hiệu sớm ung thư vòm họng",
+      "link": "https://vnexpress.net/bac-si-chi-cach-nhan-biet-dau-hieu-som-ung-thu-vom-hong-5082078.html",
+      "summary": "Đau đầu âm ỉ kéo dài, nghẹt mũi một bên, ù tai hay xuất hiện hạch ở cổ... là những dấu hiệu cảnh báo sớm ung thư vòm họng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T22:00:00+07:00",
+      "fetched": "2026-06-11T06:18:49.646593+07:00"
+    },
+    {
+      "id": "79be79515a447f28d1463ac03babe7e0",
+      "title": "Thời trang blokecore gây sốt trước thềm World Cup",
+      "link": "https://vnexpress.net/thoi-trang-blokecore-gay-sot-truoc-them-world-cup-5084016.html",
+      "summary": "Blokecore - kiểu mặc kết hợp thời trang và bóng đá - được nhiều người lựa chọn trong mùa World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T22:00:00+07:00",
+      "fetched": "2026-06-11T06:18:49.646751+07:00"
+    },
+    {
+      "id": "28cf673bf3ad89ba2e9d50254b486402",
+      "title": "Đoạn phố báo hại ôtô bị cho 'lên sóng' suốt 4 năm",
+      "link": "https://vnexpress.net/doan-pho-bao-hai-oto-bi-cho-len-song-suot-4-nam-5083947.html",
+      "summary": "Một kênh Youtube trong 4 năm đăng hơn 100 video về hai gờ giảm tốc đặt sát nhau khiến ôtô chạy qua nảy lên như lò xo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T22:00:00+07:00",
+      "fetched": "2026-06-11T06:18:49.646916+07:00"
+    },
+    {
+      "id": "b7ac2069a41bdc8fdcb843da5d942df4",
+      "title": "Hành trình thị trưởng Mỹ trở thành đặc vụ cho Trung Quốc",
+      "link": "https://vnexpress.net/hanh-trinh-thi-truong-my-tro-thanh-dac-vu-cho-trung-quoc-5083903.html",
+      "summary": "Từ một \"ngôi sao chính trị\" đang lên tại Mỹ, nữ thị trưởng gốc Hoa Eileen Wang bất ngờ sụp đổ sau khi lộ tẩy là đặc vụ của Trung Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-10T22:00:00+07:00",
+      "fetched": "2026-06-11T06:18:55.527847+07:00"
+    },
+    {
+      "id": "4b92a8fbb3a3e4ac6127e730802685f4",
+      "title": "Bước tiến giúp xây trung tâm dữ liệu không gian của Musk",
+      "link": "https://vnexpress.net/buoc-tien-giup-xay-trung-tam-du-lieu-khong-gian-cua-musk-5084088.html",
+      "summary": "Elon Musk công bố thiết kế vệ tinh AI1, dự kiến dùng làm trung tâm dữ liệu ngoài không gian, và nhà máy mới phục vụ quá trình chế tạo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-10T22:00:00+07:00",
+      "fetched": "2026-06-11T06:18:59.902334+07:00"
     },
     {
       "id": "0818fb0b97c43d299f7b0446f482662e",
