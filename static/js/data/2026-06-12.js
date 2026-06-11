@@ -1,7 +1,37 @@
 window.newsData_2026_06_12 = {
   "date": "2026-06-12",
-  "lastUpdated": "2026-06-12T00:32:05.204207+07:00",
+  "lastUpdated": "2026-06-12T03:09:59.843290+07:00",
   "articles": [
+    {
+      "id": "66364b146752f1487002dec561fb85ff",
+      "title": "Lễ khai mạc World Cup 2026 kết thúc, sẵn sàng tranh tài hấp dẫn",
+      "link": "https://tuoitre.vn/le-khai-mac-world-cup-2026-ket-thuc-san-sang-tranh-tai-hap-dan-20260611210159816.htm",
+      "summary": "Lễ khai mạc World Cup 2026 đầy màu sắc đã kết thúc trên sân vận động Azteca (Mexico), mở màn cho ngày hội lớn của bóng đá thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T03:09:54.329347+07:00",
+      "fetched": "2026-06-12T03:09:54.329460+07:00"
+    },
+    {
+      "id": "1c1934c2e189f68eac0a4c98d0bdf289",
+      "title": "Xác định trận chung kết Giải U19 Đông Nam Á",
+      "link": "https://tuoitre.vn/xac-dinh-tran-chung-ket-giai-u19-dong-nam-a-20260611233613721.htm",
+      "summary": "Đánh bại đội chủ nhà U19 Indonesia với tỉ số 1-0, U19 Úc thẳng tiến vào trận chung kết Giải U19 Đông Nam Á, gặp U19 Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T03:09:54.328551+07:00",
+      "fetched": "2026-06-12T03:09:54.328680+07:00"
+    },
+    {
+      "id": "712a7761e3025dfdc9e4bd63556b8e6f",
+      "title": "Bảng xếp hạng FIFA có sự biến động trước khi World Cup 2026 khởi tranh, Pháp tụt 2 bậc",
+      "link": "https://tuoitre.vn/bang-xep-hang-fifa-co-su-bien-dong-truoc-khi-world-cup-2026-khoi-tranh-phap-tut-2-bac-20260612010153837.htm",
+      "summary": "Ngay trước thềm World Cup 2026 được diễn ra, Liên đoàn Bóng đá thế giới (FIFA) đã cập nhật bảng xếp hạng mới nhất tính đến 0h sáng ngày 12-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T03:09:54.328320+07:00",
+      "fetched": "2026-06-12T03:09:54.328535+07:00"
+    },
     {
       "id": "d3343f679137c0b1383caf5ab0b1161c",
       "title": "Thủ tướng: Xây dựng Hà Nội thành trung tâm khoa học công nghệ ngang tầm châu Á",
@@ -153,6 +183,66 @@ window.newsData_2026_06_12 = {
       "fetched": "2026-06-12T00:31:56.872073+07:00"
     },
     {
+      "id": "40d619bb891d4fbfb229a8b5e3c122bc",
+      "title": "Bảng xếp hạng FIFA thay đổi sát World Cup 2026: Argentina và Messi lên đỉnh thế giới!",
+      "link": "https://thanhnien.vn/bang-xep-hang-fifa-thay-doi-sat-world-cup-2026-argentina-va-messi-len-dinh-the-gioi-185260612021449954.htm",
+      "summary": "Bảng xếp hạng FIFA thay đổi sát World Cup 2026, chỉ vài giờ trước khai mạc, chứng kiến nhà đương kim vô địch Argentina vươn lên vị trí số 1 - vượt qua Tây Ban Nha và Pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T19:38:00+07:00",
+      "fetched": "2026-06-12T03:09:53.365366+07:00"
+    },
+    {
+      "id": "2f6102fc98c1b47997cad4ccd5b52d36",
+      "title": "Chuyên gia hướng dẫn 5 bước đảo ngược gan nhiễm mỡ, ngừa ung thư",
+      "link": "https://vnexpress.net/chuyen-gia-huong-dan-5-buoc-dao-nguoc-gan-nhiem-mo-ngua-ung-thu-5084532.html",
+      "summary": "Bỏ đường lỏng, tập thể dục 150 phút/tuần, tăng chất xơ, uống cà phê đen và ăn uống lành mạnh sẽ giúp đảo ngược tình trạng gan nhiễm mỡ, ngừa ung thư gan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T19:00:00+07:00",
+      "fetched": "2026-06-12T03:09:50.520274+07:00"
+    },
+    {
+      "id": "982883889d447e0af2e72f6782187820",
+      "title": "Nhà trong hẻm lấy cảm hứng 'tờ giấy' làm mặt tiền chắn nắng",
+      "link": "https://vnexpress.net/nha-trong-hem-lay-cam-hung-to-giay-lam-mat-tien-chan-nang-5084474.html",
+      "summary": "Căn nhà 40 m2 khai thác hình ảnh tờ giấy qua mặt tiền uốn gấp, giúp giảm nắng và tăng thông gió hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T18:36:37+07:00",
+      "fetched": "2026-06-12T03:09:50.520464+07:00"
+    },
+    {
+      "id": "de9d74b212f6f464af51be3420abfe62",
+      "title": "World Cup 2026, đội tuyển Mexico 1-0 Nam Phi: Quinones mở tỷ số",
+      "link": "https://thanhnien.vn/truc-tiep-world-cup-2026-doi-tuyen-mexico-dau-nam-phi-cho-dia-chan-ngay-khai-man-185260611171537611.htm",
+      "summary": "2 giờ ngày 12.6 trên sân Azteca (Mexico City) diễn ra trận đấu khai mạc World Cup 2026 giữa đội tuyển Mexico và Nam Phi trong khuôn khổ bảng A, trực tiếp trên các kênh của VTV, VTVgo, FPT Play, TV360...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T18:32:00+07:00",
+      "fetched": "2026-06-12T03:09:53.365541+07:00"
+    },
+    {
+      "id": "9acca79385d5c0af3f5792437757a7fa",
+      "title": "Ảnh hưởng bất ngờ của sức khỏe gan với khối lượng cơ bắp",
+      "link": "https://thanhnien.vn/anh-huong-bat-ngo-cua-suc-khoe-gan-voi-khoi-luong-co-bap-185260612003407946.htm",
+      "summary": "Khi nhắc đến gan và cơ bắp, nhiều người thường nghĩ đây là 2 bộ phận hoạt động độc lập. Tuy nhiên, các nghiên cứu trong những năm gần đây cho thấy gan và cơ bắp có mối liên hệ chặt chẽ với nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T17:54:00+07:00",
+      "fetched": "2026-06-12T03:09:53.365702+07:00"
+    },
+    {
+      "id": "3642dfb1aa6f79b5c477ff76082ec039",
+      "title": "Khai mạc World Cup của những kỷ lục",
+      "link": "https://thanhnien.vn/khai-mac-world-cup-cua-nhung-ky-luc-185260611172143916.htm",
+      "summary": "World Cup 2026 hứa hẹn sẽ đi vào lịch sử, không chỉ bởi thể thức mở rộng mới mà còn bởi số lượng kỷ lục mọi thời đại có thể bị phá vỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T17:32:00+07:00",
+      "fetched": "2026-06-12T03:09:53.365859+07:00"
+    },
+    {
       "id": "b19d8f3d4dfb8693f8ab73f69febfa3f",
       "title": "Tập thể dục buổi sáng: Nghiên cứu mới phát hiện thêm nhiều lợi ích bất ngờ",
       "link": "https://thanhnien.vn/tap-the-duc-buoi-sang-nghien-cuu-moi-phat-hien-them-nhieu-loi-ich-bat-ngo-18526061200280913.htm",
@@ -221,6 +311,16 @@ window.newsData_2026_06_12 = {
       "category": "Tổng hợp",
       "published": "2026-06-11T17:00:06+07:00",
       "fetched": "2026-06-12T00:31:52.062261+07:00"
+    },
+    {
+      "id": "5cfb479f5ae7d9201d4cec3f0ff5912c",
+      "title": "Camera soi vào buồng lái",
+      "link": "https://vnexpress.net/camera-soi-vao-buong-lai-5084756.html",
+      "summary": "Bạn tôi đã hơn một năm đi tìm công lý cho người mẹ mất vì tai nạn giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T17:00:06+07:00",
+      "fetched": "2026-06-12T03:09:50.521328+07:00"
     },
     {
       "id": "f0daf2e32c048ca232286520cbb7d467",
@@ -503,6 +603,16 @@ window.newsData_2026_06_12 = {
       "fetched": "2026-06-12T00:32:05.201323+07:00"
     },
     {
+      "id": "c198c58e86eff1baf71dd3e885d7b87c",
+      "title": "Lễ khai mạc World Cup 2026 chớp nhoáng",
+      "link": "https://vnexpress.net/le-khai-mac-world-cup-2026-5084711-tong-thuat.html",
+      "summary": "Lễ khai mạc World Cup 2026 chỉ diễn ra khoảng 16 phút trên sân Azteca, khiến nhiều người bất ngờ so với 30 phút ở những kỳ trước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-11T14:30:00+07:00",
+      "fetched": "2026-06-12T03:09:59.838395+07:00"
+    },
+    {
       "id": "bfc49c66ac01b1b435669f89d0f6619e",
       "title": "Chuyên gia chỉ cách phòng tránh lừa đảo AI, deepfake",
       "link": "https://vnexpress.net/chuyen-gia-chi-cach-phong-tranh-lua-dao-ai-deepfake-5084715.html",
@@ -691,6 +801,16 @@ window.newsData_2026_06_12 = {
       "category": "Thể thao",
       "published": "2026-06-11T10:24:17+07:00",
       "fetched": "2026-06-12T00:32:05.201709+07:00"
+    },
+    {
+      "id": "1a647726591a5d76ae219f67dcfa0a33",
+      "title": "HLV Park Hang-seo tái ngộ Park Ji-sung trước World Cup 2026",
+      "link": "https://vnexpress.net/hlv-park-hang-seo-tai-ngo-park-ji-sung-truoc-world-cup-2026-5084669.html",
+      "summary": "Ông Park Hang-seo tiếp Park Ji-sung, khi học trò cũ đến thăm sân tập của đội tuyển Hàn Quốc một ngày trước trận ra quân World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-11T10:24:17+07:00",
+      "fetched": "2026-06-12T03:09:59.838882+07:00"
     },
     {
       "id": "cca6e640299ebbfed2d407ca08792ff6",
@@ -991,6 +1111,16 @@ window.newsData_2026_06_12 = {
       "category": "Công nghệ",
       "published": "2026-06-11T00:00:00+07:00",
       "fetched": "2026-06-12T00:32:03.480724+07:00"
+    },
+    {
+      "id": "c73f48579eac1870261a729d525e86a5",
+      "title": "Cape Town Marathon trở thành giải major thứ tám",
+      "link": "https://vnexpress.net/cape-town-marathon-tro-thanh-giai-major-thu-tam-5084318.html",
+      "summary": "Ngày 10/6, World Marathon Majors (WMM) thông báo Cape Town Marathon là thành viên thứ tám của hệ thống các giải marathon danh giá nhất thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-10T22:40:46+07:00",
+      "fetched": "2026-06-12T03:09:59.840502+07:00"
     },
     {
       "id": "4b92a8fbb3a3e4ac6127e730802685f4",
