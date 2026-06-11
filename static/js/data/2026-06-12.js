@@ -1,7 +1,17 @@
 window.newsData_2026_06_12 = {
   "date": "2026-06-12",
-  "lastUpdated": "2026-06-12T03:09:59.843290+07:00",
+  "lastUpdated": "2026-06-12T06:14:09.793869+07:00",
   "articles": [
+    {
+      "id": "f30a917a0c6dbdf3e9ee4e8aaf1d32d9",
+      "title": "Thời tiết hôm nay 12-6: Cả nước nắng nóng, Nam Bộ chiều tối mưa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-12-6-ca-nuoc-nang-nong-nam-bo-chieu-toi-mua-20260611154817681.htm",
+      "summary": "Hôm nay 12-6, thời tiết cả nước ban ngày nắng, có nơi nắng nóng, về chiều tối mưa dông, riêng Nam Bộ mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T06:14:04.611845+07:00",
+      "fetched": "2026-06-12T06:14:04.612050+07:00"
+    },
     {
       "id": "66364b146752f1487002dec561fb85ff",
       "title": "Lễ khai mạc World Cup 2026 kết thúc, sẵn sàng tranh tài hấp dẫn",
@@ -181,6 +191,356 @@ window.newsData_2026_06_12 = {
       "category": "Tổng hợp",
       "published": "2026-06-12T00:31:56.871868+07:00",
       "fetched": "2026-06-12T00:31:56.872073+07:00"
+    },
+    {
+      "id": "eb33284a31ca5ef2be59a2a423c0e5d9",
+      "title": "Bản tin sức khỏe 12.6: Chạy bộ hay đi bộ giảm mỡ bụng? | Vì sao có lúc thèm ăn liên tục?",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-126-chay-bo-hay-di-bo-giam-mo-bung-vi-sao-co-luc-them-an-lien-tuc-185260611114948474.htm",
+      "summary": "Chạy bộ và đi bộ đều là những hình thức vận động đơn giản giúp cải thiện sức khỏe và hỗ trợ giảm cân. Tuy nhiên, không phải ai cũng biết phương pháp nào giúp giảm mỡ bụng hiệu quả hơn. Bên cạnh đó, cảm giác thèm ăn liên tục cũng có thể là dấu hiệu cơ thể đang thiếu hụt một số dưỡng chất quan trọng h...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T23:02:00+07:00",
+      "fetched": "2026-06-12T06:14:03.618366+07:00"
+    },
+    {
+      "id": "0031d3f3ebe41e4a26ead3bcfc18949a",
+      "title": "Xăng E10 có khiến xe hao xăng hơn?",
+      "link": "https://vnexpress.net/xang-e10-co-khien-xe-hao-xang-hon-5084734.html",
+      "summary": "Xăng E10 có mật độ năng lượng thấp hơn xăng khoáng nên có thể khiến xe tiêu thụ nhiên liệu nhiều hơn khoảng 2-3%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T23:00:00+07:00",
+      "fetched": "2026-06-12T06:14:00.820808+07:00"
+    },
+    {
+      "id": "0252437437644897958f0fe0c3b8f783",
+      "title": "'Thối não' vì nghiện lướt video ngắn",
+      "link": "https://vnexpress.net/thoi-nao-vi-nghien-luot-video-ngan-5083874.html",
+      "summary": "Quốc Thắng, 30 tuổi, có thể ngồi quán cà phê nhiều giờ đồng hồ, không nói chuyện với ai, không làm việc, tận dụng từng phút để nghỉ ngơi theo cách anh vẫn nghĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T23:00:00+07:00",
+      "fetched": "2026-06-12T06:14:00.821026+07:00"
+    },
+    {
+      "id": "a473b451a1e8c647a38516912692e0cf",
+      "title": "Cụm tháp Chăm 1.300 năm tuổi trên hướng tuyến đường sắt tốc độ cao",
+      "link": "https://vnexpress.net/cum-thap-cham-1-300-nam-tuoi-tren-huong-tuyen-duong-sat-toc-do-cao-5083367.html",
+      "summary": "Di tích Tháp Hòa Lai gồm cụm ba tháp xây dựng từ thế kỷ 8, với kiến trúc tinh xảo, mang nhiều giá trị văn hóa của vương quốc Chămpa xưa, nằm trên hướng tuyến đường sắt tốc độ cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T23:00:00+07:00",
+      "fetched": "2026-06-12T06:14:00.821216+07:00"
+    },
+    {
+      "id": "bdbb2bcbac3b7817a4858ea59abf1f3c",
+      "title": "Định danh người gửi hàng để chống lừa đảo, vận chuyển hàng cấm",
+      "link": "https://thanhnien.vn/dinh-danh-nguoi-gui-hang-de-chong-lua-dao-van-chuyen-hang-cam-18526061122432534.htm",
+      "summary": "Những năm gần đây, cùng với sự phát triển mạnh mẽ của thương mại điện tử, dịch vụ giao nhận và hoạt động bưu chính đã trở thành một phần không thể thiếu trong đời sống KT-XH. Tuy nhiên, nhiều đối tượng đã lợi dụng khoảng trống trong công tác quản lý để thực hiện các hành vi gian lận, lừa đảo thông q...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T23:00:00+07:00",
+      "fetched": "2026-06-12T06:14:03.618539+07:00"
+    },
+    {
+      "id": "0b341cf162b44b86c35dde85dae9af37",
+      "title": "Tối ưu hóa giá trị quỹ đất sông Sài Gòn",
+      "link": "https://thanhnien.vn/toi-uu-hoa-gia-tri-quy-dat-song-sai-gon-185260611210935274.htm",
+      "summary": "Dự án mở rộng 7,4 km đường ven sông Sài Gòn lên 6 làn xe, nền đường rộng 32 m, với tổng vốn đầu tư 9.400 tỉ đồng đang được TP.HCM đẩy nhanh giải phóng mặt bằng. Các chuyên gia cho rằng việc lấy toàn bộ quỹ đất ven sông để mở đường có thể gây lãng phí \"đất vàng\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T23:00:00+07:00",
+      "fetched": "2026-06-12T06:14:03.618697+07:00"
+    },
+    {
+      "id": "804f3f6473d16f07f3a83b2ff0ed21b3",
+      "title": "Có một điểm thi tốt nghiệp THPT được mệnh danh là 'ngọt ngào nhất TP.HCM'",
+      "link": "https://thanhnien.vn/co-mot-diem-thi-tot-nghiep-thpt-duoc-menh-danh-la-ngot-ngao-nhat-tphcm-185260611183116094.htm",
+      "summary": "Có một điểm thi tốt nghiệp THPT ở TP.HCM được nhiều người gọi vui là 'ngọt ngào nhất thành phố'. Ở đó, thí sinh không chỉ nhận nước mát, bánh kẹo trước giờ vào phòng thi, mà còn nhận được một món quà đặc biệt từ thầy cô giáo cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T23:00:00+07:00",
+      "fetched": "2026-06-12T06:14:03.618876+07:00"
+    },
+    {
+      "id": "dd629e02b9c25675f0f2ecb4c1d97ab4",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 12.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1262026-185260611231106861.htm",
+      "summary": "Tin tức Đề thi môn văn tốt nghiệp THPT 2026: Chấm thi sao cho công bằng?, Khai mạc World Cup của những kỷ lục, Vùng Vịnh rung chuyển giữa đòn ăn miếng trả miếng Mỹ - Iran… có thể đón xem trên Báo Thanh Niên số ra ngày 12.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:58:00+07:00",
+      "fetched": "2026-06-12T06:14:03.619030+07:00"
+    },
+    {
+      "id": "6354ccb9186b41e956f551a9bb544971",
+      "title": "Sét đe dọa các buổi tập của Croatia tại World Cup 2026",
+      "link": "https://vnexpress.net/set-de-doa-cac-buoi-tap-cua-croatia-tai-world-cup-2026-5084770.html",
+      "summary": "Thời tiết khắc nghiệt khiến Luka Modric và đồng đội gặp trục trặc trong khâu chuẩn bị cho trận ra quân World Cup 2026 gặp tuyển Anh vào ngày 18/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:54:31+07:00",
+      "fetched": "2026-06-12T06:14:00.821380+07:00"
+    },
+    {
+      "id": "6354ccb9186b41e956f551a9bb544971",
+      "title": "Sét đe dọa các buổi tập của Croatia tại World Cup 2026",
+      "link": "https://vnexpress.net/set-de-doa-cac-buoi-tap-cua-croatia-tai-world-cup-2026-5084770.html",
+      "summary": "Thời tiết khắc nghiệt khiến Luka Modric và đồng đội gặp trục trặc trong khâu chuẩn bị cho trận ra quân World Cup 2026 gặp tuyển Anh vào ngày 18/6.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-11T22:54:31+07:00",
+      "fetched": "2026-06-12T06:14:09.788734+07:00"
+    },
+    {
+      "id": "d5804dc3a0d1929992629ced570ba880",
+      "title": "Phía sau cơn lốc giảm giá vàng",
+      "link": "https://thanhnien.vn/phia-sau-con-loc-giam-gia-vang-185260611211523202.htm",
+      "summary": "Tăng phi mã và giảm kỷ lục..., giá vàng đã cho thấy tất cả những phân tích, dự báo, quy tắc thị trường đều bị phá vỡ. Đó cũng là lời cảnh tỉnh cho những người vẫn lao vào vàng với suy nghĩ \"mua vàng chắc thắng\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:53:00+07:00",
+      "fetched": "2026-06-12T06:14:03.619182+07:00"
+    },
+    {
+      "id": "c03cd101d0e95ad25fba0af8967d784e",
+      "title": "Chủ tịch BYD với tham vọng hãng xe lớn nhất thế giới",
+      "link": "https://vnexpress.net/chu-tich-byd-voi-tham-vong-hang-xe-lon-nhat-the-gioi-5084108.html",
+      "summary": "Ông Vương Truyền Phúc tuyên bố hãng xe Trung Quốc trở thành nhà sản xuất ôtô lớn nhất thế giới trong vòng 5 năm tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:45:00+07:00",
+      "fetched": "2026-06-12T06:14:00.821537+07:00"
+    },
+    {
+      "id": "07da0530df9aba45af723b21226263d5",
+      "title": "Đề thi môn văn tốt nghiệp THPT 2026: Chấm thi sao cho công bằng?",
+      "link": "https://thanhnien.vn/de-thi-mon-van-tot-nghiep-thpt-2026-cham-thi-sao-cho-cong-bang-185260611225650007.htm",
+      "summary": "Đề thi ngữ văn kỳ thi tốt nghiệp THPT năm nay được đánh giá là phân hóa tốt hơn nhưng cũng gây một số tranh luận. Cùng với yêu cầu quyết liệt hơn về công bằng trong chấm thi ngữ văn, dư luận chờ đợi và thử bàn về đáp án chấm môn thi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:45:00+07:00",
+      "fetched": "2026-06-12T06:14:03.619331+07:00"
+    },
+    {
+      "id": "e6820e963e15ddbd273fd22e3309442e",
+      "title": "Canada xúc tiến cấm trẻ em dùng mạng xã hội",
+      "link": "https://thanhnien.vn/canada-xuc-tien-cam-tre-em-dung-mang-xa-hoi-185260611210844053.htm",
+      "summary": "Bộ trưởng Văn hóa Canada Marc Miller ngày 10.6 công bố dự luật cấm người dưới 16 tuổi sở hữu tài khoản mạng xã hội và yêu cầu các chatbot AI hạn chế sản xuất những nội dung có hại, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:45:00+07:00",
+      "fetched": "2026-06-12T06:14:03.619480+07:00"
+    },
+    {
+      "id": "77e4c509213e27a54291a40deac3e8ee",
+      "title": "Áo tuyển Brazil in tên Neymar gây tranh cãi vì một dấu chấm",
+      "link": "https://vnexpress.net/ao-tuyen-brazil-in-ten-neymar-gay-tranh-cai-vi-mot-dau-cham-5084766.html",
+      "summary": "Chi tiết nhỏ trên mẫu áo chính thức của đội tuyển Brazil mang tên Neymar tại World Cup 2026 bất ngờ trở thành chủ đề bàn luận trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:42:51+07:00",
+      "fetched": "2026-06-12T06:14:00.821706+07:00"
+    },
+    {
+      "id": "77e4c509213e27a54291a40deac3e8ee",
+      "title": "Áo tuyển Brazil in tên Neymar gây tranh cãi vì một dấu chấm",
+      "link": "https://vnexpress.net/ao-tuyen-brazil-in-ten-neymar-gay-tranh-cai-vi-mot-dau-cham-5084766.html",
+      "summary": "Chi tiết nhỏ trên mẫu áo chính thức của đội tuyển Brazil mang tên Neymar tại World Cup 2026 bất ngờ trở thành chủ đề bàn luận trên mạng xã hội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-11T22:42:51+07:00",
+      "fetched": "2026-06-12T06:14:09.788920+07:00"
+    },
+    {
+      "id": "a42500226aa588866e96f93a4f6966be",
+      "title": "Barca mua sao tuổi teen sắp đá World Cup 2026",
+      "link": "https://vnexpress.net/barca-mua-sao-tuoi-teen-sap-da-world-cup-2026-5084768.html",
+      "summary": "Barca chi 1,7 triệu USD để tuyển mộ Hamza Abdelkarim, tiền đạo 18 tuổi chuẩn bị cùng Ai Cập dự World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:35:17+07:00",
+      "fetched": "2026-06-12T06:14:00.821889+07:00"
+    },
+    {
+      "id": "a42500226aa588866e96f93a4f6966be",
+      "title": "Barca mua sao tuổi teen sắp đá World Cup 2026",
+      "link": "https://vnexpress.net/barca-mua-sao-tuoi-teen-sap-da-world-cup-2026-5084768.html",
+      "summary": "Barca chi 1,7 triệu USD để tuyển mộ Hamza Abdelkarim, tiền đạo 18 tuổi chuẩn bị cùng Ai Cập dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-11T22:35:17+07:00",
+      "fetched": "2026-06-12T06:14:09.789075+07:00"
+    },
+    {
+      "id": "b0b3adb3b408573a895d49df7c242cce",
+      "title": "Các công ty AI cảnh báo rủi ro",
+      "link": "https://thanhnien.vn/cac-cong-ty-ai-canh-bao-rui-ro-185260611211058163.htm",
+      "summary": "AFP hôm qua đưa tin 2 công ty trí tuệ nhân tạo (AI) hàng đầu là OpenAI và Anthropic đang tăng cường cảnh báo rủi ro về AI, ngay cả khi họ đang chạy đua công nghệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:34:00+07:00",
+      "fetched": "2026-06-12T06:14:03.619632+07:00"
+    },
+    {
+      "id": "eac61da0e27f0d7cb5a3f5d43b14ad1b",
+      "title": "Tiêu điểm quốc tế 12.6: Iran tấn công căn cứ, hạm đội Mỹ | Nghĩa địa cá voi lớn nhất",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-126-iran-tan-cong-can-cu-ham-doi-my-nghia-dia-ca-voi-lon-nhat-185260611231847231.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Tiêu điểm quốc tế ngày 12.6.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:30:00+07:00",
+      "fetched": "2026-06-12T06:14:03.619805+07:00"
+    },
+    {
+      "id": "0efe1e694ec4338a7d4d442475c22ad6",
+      "title": "5 người trúng 18 tỉ xổ số miền Nam, không hẹn mà gặp ở một đại lý",
+      "link": "https://thanhnien.vn/5-nguoi-trung-18-ti-xo-so-mien-nam-khong-hen-ma-gap-o-mot-dai-ly-185260610170645004.htm",
+      "summary": "Một đại lý vé số ở miền Tây thông báo đã đổi thưởng 18 tỉ xổ số miền Nam cho 5 khách gặp may mắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:30:00+07:00",
+      "fetched": "2026-06-12T06:14:03.619959+07:00"
+    },
+    {
+      "id": "4258f7ffd4301d806f4116e2feebb35b",
+      "title": "Tranh luận 'Steve Jobs Việt Nam' trong đề thi văn tốt nghiệp THPT",
+      "link": "https://thanhnien.vn/tranh-luan-steve-jobs-viet-nam-trong-de-thi-van-tot-nghiep-thpt-185260611224224363.htm",
+      "summary": "Đã xuất hiện nhiều ý kiến tranh luận sau khi đề văn thi tốt nghiệp THPT 2026 yêu cầu người trẻ viết đoạn văn nghị luận trả lời câu hỏi ''Làm thế nào để có những Steve Jobs Việt Nam?''.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:27:00+07:00",
+      "fetched": "2026-06-12T06:14:03.620107+07:00"
+    },
+    {
+      "id": "c13c225bd27d0d54ef1373a5ea4ebac0",
+      "title": "Real công bố Mourinho",
+      "link": "https://vnexpress.net/real-cong-bo-mourinho-5084769.html",
+      "summary": "Ngày 11/7, Real Madrid thông báo bổ nhiệm Jose Mourinho làm HLV trưởng đội một theo bản hợp đồng 3 năm, đánh dấu màn tái hợp sau 13 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:26:33+07:00",
+      "fetched": "2026-06-12T06:14:00.822044+07:00"
+    },
+    {
+      "id": "c13c225bd27d0d54ef1373a5ea4ebac0",
+      "title": "Real công bố Mourinho",
+      "link": "https://vnexpress.net/real-cong-bo-mourinho-5084769.html",
+      "summary": "Ngày 11/7, Real Madrid thông báo bổ nhiệm Jose Mourinho làm HLV trưởng đội một theo bản hợp đồng 3 năm, đánh dấu màn tái hợp sau 13 năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-11T22:26:33+07:00",
+      "fetched": "2026-06-12T06:14:09.788398+07:00"
+    },
+    {
+      "id": "e1ffd2223c2cdf77d241a3ffa47f42ea",
+      "title": "Ukraine tiếp tục tập kích đất Nga",
+      "link": "https://thanhnien.vn/ukraine-tiep-tuc-tap-kich-dat-nga-185260611211252649.htm",
+      "summary": "TASS hôm qua dẫn lời Tỉnh trưởng Alexander Shuvayev của tỉnh Belgorod thuộc Nga cáo buộc quân đội Ukraine đã tiến hành khoảng 80 cuộc tấn công vào tỉnh này trong 24 giờ qua, khiến một dân thường thiệt mạng và 10 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:20:00+07:00",
+      "fetched": "2026-06-12T06:14:03.620258+07:00"
+    },
+    {
+      "id": "ed8a03193d2bfec835240384b145c7d8",
+      "title": "Tử vi ngày 12 tháng 6: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-12-thang-6-con-giap-nao-may-man-hom-nay-185260612011528455.htm",
+      "summary": "Tử vi ngày 12 tháng 6 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm nổi bật là dám nói không. Không phải cơ hội nào cũng phù hợp, không phải lời đề nghị nào cũng cần nhận lời. Đôi khi, biết từ chối đúng lúc lại giúp bạn giữ được thời gian, năng lượng và cả những cơ hội tốt hơn phía trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:15:00+07:00",
+      "fetched": "2026-06-12T06:14:03.620408+07:00"
+    },
+    {
+      "id": "ccb3df729c1b3cafa1369db367af97aa",
+      "title": "Cá biển hay cá đồng: Đâu là lựa chọn ‘vàng’ cho người bệnh mạn tính?",
+      "link": "https://thanhnien.vn/ca-bien-hay-ca-dong-dau-la-lua-chon-vang-cho-nguoi-benh-man-tinh-185260612004314495.htm",
+      "summary": "Nhiều người mắc bệnh mạn tính băn khoăn nên ăn cá biển hay cá đồng. Thực tế, không có loại nào tốt hơn tuyệt đối; điều quan trọng là hiểu giá trị dinh dưỡng của từng loại để xây dựng chế độ ăn cân bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:09:00+07:00",
+      "fetched": "2026-06-12T06:14:03.620553+07:00"
+    },
+    {
+      "id": "7f1e7990e61fdfdcc1d1c42562eef7d9",
+      "title": "Lãnh đạo công nghệ Mỹ lo thua Trung Quốc về điện cho AI",
+      "link": "https://vnexpress.net/lanh-dao-cong-nghe-my-lo-thua-trung-quoc-ve-dien-cho-ai-5084258.html",
+      "summary": "Trong khi lưới điện Mỹ phải vật lộn để theo kịp tốc độ phát triển của trung tâm dữ liệu AI, Trung Quốc được đánh giá có nguồn năng lượng dư dả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:00:00+07:00",
+      "fetched": "2026-06-12T06:14:00.822204+07:00"
+    },
+    {
+      "id": "83299347632a51d4cce71840ffef66e1",
+      "title": "Có nên uống thuốc phòng đột quỵ?",
+      "link": "https://vnexpress.net/co-nen-uong-thuoc-phong-dot-quy-5083922.html",
+      "summary": "Thưa bác sĩ, bệnh đột quỵ có dấu hiệu báo trước không, tôi có nên mua thuốc chống đông để phòng ngừa bệnh không? (Hoàng, 28 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:00:00+07:00",
+      "fetched": "2026-06-12T06:14:00.822357+07:00"
+    },
+    {
+      "id": "21155cc5ccfa30d006552339ac7b20fa",
+      "title": "GAC GS3 Emzoom sắp chào khách Việt: động cơ tăng áp, ADAS cấp hai",
+      "link": "https://vnexpress.net/gac-gs3-emzoom-sap-chao-khach-viet-dong-co-tang-ap-adas-cap-hai-5084380.html",
+      "summary": "Mẫu CUV cỡ B GAC GS3 Emzoom dự kiến bán ra từ tháng 7 với duy nhất phiên bản Premium R, trang bị gói bodykit thể thao, ADAS cấp 2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T22:00:00+07:00",
+      "fetched": "2026-06-12T06:14:00.822509+07:00"
+    },
+    {
+      "id": "7f1e7990e61fdfdcc1d1c42562eef7d9",
+      "title": "Lãnh đạo công nghệ Mỹ lo thua Trung Quốc về điện cho AI",
+      "link": "https://vnexpress.net/lanh-dao-cong-nghe-my-lo-thua-trung-quoc-ve-dien-cho-ai-5084258.html",
+      "summary": "Trong khi lưới điện Mỹ phải vật lộn để theo kịp tốc độ phát triển của trung tâm dữ liệu AI, Trung Quốc được đánh giá có nguồn năng lượng dư dả.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-11T22:00:00+07:00",
+      "fetched": "2026-06-12T06:14:08.692981+07:00"
+    },
+    {
+      "id": "ba5124ba982c0296be8cf973cdfdcd7f",
+      "title": "Người Việt tiếp tục giảm mua ôtô",
+      "link": "https://vnexpress.net/nguoi-viet-tiep-tuc-giam-mua-oto-5084598.html",
+      "summary": "Doanh số ôtô của toàn ngành trong tháng 5 đạt 53.359 xe, giảm 12% so với tháng trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T21:45:00+07:00",
+      "fetched": "2026-06-12T06:14:00.822658+07:00"
+    },
+    {
+      "id": "1db234e21900137038d20e93106f49c0",
+      "title": "Tài tử Kim Mu Yeol vươn lên từ nghèo khó",
+      "link": "https://vnexpress.net/tai-tu-kim-mu-yeol-vuon-len-tu-ngheo-kho-5084054.html",
+      "summary": "Kim Mu Yeol - nam chính phim \"Teach You a Lesson\" - làm phục vụ quán bar, công nhân xây dựng để phụ giúp gia đình và nuôi ước mơ diễn xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T21:40:52+07:00",
+      "fetched": "2026-06-12T06:14:00.822844+07:00"
+    },
+    {
+      "id": "5bc49ca0eca1fc387bb2ead573b31658",
+      "title": "3 thẻ đỏ ở trận mở màn World Cup 2026",
+      "link": "https://vnexpress.net/3-the-do-o-tran-mo-man-world-cup-2026-5084771.html",
+      "summary": "Đồng chủ nhà Mexico thắng Nam Phi 2-0 trong trận cầu chứng kiến ba thẻ đỏ ở lượt đầu bảng A World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-11T21:23:01+07:00",
+      "fetched": "2026-06-12T06:14:00.823014+07:00"
+    },
+    {
+      "id": "5bc49ca0eca1fc387bb2ead573b31658",
+      "title": "3 thẻ đỏ ở trận mở màn World Cup 2026",
+      "link": "https://vnexpress.net/3-the-do-o-tran-mo-man-world-cup-2026-5084771.html",
+      "summary": "Đồng chủ nhà Mexico thắng Nam Phi 2-0 trong trận cầu chứng kiến ba thẻ đỏ ở lượt đầu bảng A World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-11T21:23:01+07:00",
+      "fetched": "2026-06-12T06:14:09.788572+07:00"
     },
     {
       "id": "40d619bb891d4fbfb229a8b5e3c122bc",
