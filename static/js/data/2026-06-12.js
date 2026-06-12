@@ -1,7 +1,157 @@
 window.newsData_2026_06_12 = {
   "date": "2026-06-12",
-  "lastUpdated": "2026-06-12T06:14:09.793869+07:00",
+  "lastUpdated": "2026-06-12T09:37:06.147270+07:00",
   "articles": [
+    {
+      "id": "9199f4e90eab6ec5bf3fe2fabd41560f",
+      "title": "Các nhà khoa học tạo ra giun ký sinh tiết thuốc điều trị",
+      "link": "https://tuoitre.vn/cac-nha-khoa-hoc-tao-ra-giun-ky-sinh-tiet-thuoc-dieu-tri-20260611160603382.htm",
+      "summary": "Các nhà khoa học lần đầu biến đổi gene giun ký sinh để chúng sản xuất và phân phối thuốc ngay trong cơ thể vật chủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.357379+07:00",
+      "fetched": "2026-06-12T09:36:57.357448+07:00"
+    },
+    {
+      "id": "134fd4065de94c24010941bbc987d3e4",
+      "title": "Sếp Mazda: 'Chưa có xe hybrid khiến tôi hài lòng, CX-5 HEV sẽ 'đã' hơn hẳn'",
+      "link": "https://tuoitre.vn/sep-mazda-chua-co-xe-hybrid-khien-toi-hai-long-cx-5-hev-se-da-hon-han-20260612013652649.htm",
+      "summary": "Mazda cho biết hệ truyền động hybrid xăng-điện do hãng tự phát triển sẽ mang lại hiệu suất vận hành và cảm giác lái mà các đối thủ hiện nay chưa thể cung cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.357301+07:00",
+      "fetched": "2026-06-12T09:36:57.357371+07:00"
+    },
+    {
+      "id": "a8d2feb60f0d6c8189e331709b5eb11c",
+      "title": "NOAA xác nhận El Nino đã xuất hiện, cảnh báo thời tiết cực đoan trên toàn cầu",
+      "link": "https://tuoitre.vn/noaa-xac-nhan-el-nino-da-xuat-hien-canh-bao-thoi-tiet-cuc-doan-tren-toan-cau-20260612075043538.htm",
+      "summary": "NOAA xác nhận El Nino hình thành ở Thái Bình Dương, có thể mạnh nhất từ năm 1950, làm gia tăng cực đoan thời tiết toàn cầu và biến đổi khí hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.357224+07:00",
+      "fetched": "2026-06-12T09:36:57.357295+07:00"
+    },
+    {
+      "id": "3c5f58e9b8af7c7dc40fde299a36284c",
+      "title": "Chia sẻ với bố mẹ về ước mơ nghề nghiệp hay lẳng lặng làm theo ý mình?",
+      "link": "https://tuoitre.vn/chia-se-voi-bo-me-ve-uoc-mo-nghe-nghiep-hay-lang-lang-lam-theo-y-minh-20260612064549257.htm",
+      "summary": "Các bạn trẻ chọn chia sẻ với bố mẹ về ước nguyện nghề nghiệp để rồi nhiều người bị phản đối quyết liệt, buộc phải chọn lại theo ý cha mẹ, hay cứ lẳng lặng thực hiện giấc mơ nghề nghiệp của mình để được như ý?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.357144+07:00",
+      "fetched": "2026-06-12T09:36:57.357217+07:00"
+    },
+    {
+      "id": "4cb79ad29c0c3860e2528edf72b9614a",
+      "title": "UEF ưu đãi nhập học 5 triệu cho tân sinh viên năm 2026",
+      "link": "https://tuoitre.vn/uef-uu-dai-nhap-hoc-5-trieu-cho-tan-sinh-vien-nam-2026-20260608155427627.htm",
+      "summary": "Chủ động kế hoạch tài chính trên hành trình đại học là bước chuẩn bị quan trọng của nhiều phụ huynh, sinh viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.357052+07:00",
+      "fetched": "2026-06-12T09:36:57.357137+07:00"
+    },
+    {
+      "id": "924e14f4c27d1cfa200dccf52a094d22",
+      "title": "30 năm không ngừng mở rộng giới hạn của Petrosetco",
+      "link": "https://tuoitre.vn/30-nam-khong-ngung-mo-rong-gioi-han-cua-petrosetco-20260611122041621.htm",
+      "summary": "Năm 1996, khi Petrosetco được thành lập chỉ như một đơn vị cung cấp các dịch vụ phụ trợ giản đơn cho ngành Dầu khí Việt Nam , ít ai hình dung rằng đơn vị sẽ có những bước phát triển vượt bậc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.356976+07:00",
+      "fetched": "2026-06-12T09:36:57.357045+07:00"
+    },
+    {
+      "id": "04fd4450e0d7eb67f7d5513ef73fc528",
+      "title": "Trường Quốc tế Hội An: Giáo dục song hành cùng trải nghiệm sống",
+      "link": "https://tuoitre.vn/truong-quoc-te-hoi-an-giao-duc-song-hanh-cung-trai-nghiem-song-20260611162220708.htm",
+      "summary": "Không còn đặt nặng việc phải sống giữa đô thị đông đúc, nhiều phụ huynh hiện nay mong muốn con gần thiên nhiên hơn, có nhiều trải nghiệm thực tế hơn và tận hưởng tuổi thơ sinh động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.356898+07:00",
+      "fetched": "2026-06-12T09:36:57.356969+07:00"
+    },
+    {
+      "id": "a924dfb02df35165b0acddb3ac168121",
+      "title": "Trực tuyến Hàn Quốc - Czech (9h ngày 12-6): Chờ đại diện châu Á mở điểm",
+      "link": "https://tuoitre.vn/truc-tuyen-han-quoc-czech-9h-ngay-12-6-cho-dai-dien-chau-a-mo-diem-20260611232848949.htm",
+      "summary": "Tuổi Trẻ Online sẽ trực tuyến trận đấu giữa Hàn Quốc với Czech vào lúc 9h ngày 12-6 ở bảng A World Cup 2026, mời bạn đọc đón theo dõi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.356808+07:00",
+      "fetched": "2026-06-12T09:36:57.356891+07:00"
+    },
+    {
+      "id": "79e2967609e8597d400fbadfe5513cbe",
+      "title": "SIU AI Lab - Nơi sinh viên biến ý tưởng AI thành sản phẩm thực tế",
+      "link": "https://tuoitre.vn/siu-ai-lab-noi-sinh-vien-bien-y-tuong-ai-thanh-san-pham-thuc-te-20260610180401548.htm",
+      "summary": "Với định hướng đưa sinh viên tiếp cận công nghệ từ sớm, SIU tạo điều kiện để người học tham gia nghiên cứu, phát triển sản phẩm và ứng dụng AI ngay trong quá trình học tập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.356732+07:00",
+      "fetched": "2026-06-12T09:36:57.356801+07:00"
+    },
+    {
+      "id": "ea2b2c5307e5489e2ff38034f1ce62ec",
+      "title": "Lấy được vợ nhờ lần hiến máu đầu tiên",
+      "link": "https://tuoitre.vn/lay-duoc-vo-nho-lan-hien-mau-dau-tien-2026061113193016.htm",
+      "summary": "Sau lần hiến máu đầu tiên, thứ anh Nguyễn Hữu Đạt nhận được không chỉ là niềm vui cứu người mà còn là một gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.356653+07:00",
+      "fetched": "2026-06-12T09:36:57.356725+07:00"
+    },
+    {
+      "id": "0bbe66cd5bd968f850989b4557401022",
+      "title": "Chứng khoán 12-6: Vì sao nhà đầu tư không nên canh thời điểm mua đáy - bán đỉnh?",
+      "link": "https://tuoitre.vn/chung-khoan-12-6-vi-sao-nha-dau-tu-khong-nen-canh-thoi-diem-mua-day-ban-dinh-20260612080255382.htm",
+      "summary": "Dẫn chứng số liệu thống kê, chuyên gia chỉ ra rằng ngay cả nhà đầu tư chuyên nghiệp cũng khó dự báo chính xác thời điểm đỉnh, đáy của thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.356573+07:00",
+      "fetched": "2026-06-12T09:36:57.356646+07:00"
+    },
+    {
+      "id": "6e9e54bad4c002c67668840a2edbbda6",
+      "title": "Vẻ đẹp thanh tao của mỹ nhân cổ trang Trần Đô Linh",
+      "link": "https://tuoitre.vn/ve-dep-thanh-tao-cua-my-nhan-co-trang-tran-do-linh-20260611205511236.htm",
+      "summary": "Được ví von là 'trưởng công chúa đẹp nhất', Trần Đô Linh dù đã 32 tuổi vẫn mặc đồng phục học sinh, đồ thể thao mà trông như vị thành niên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.356492+07:00",
+      "fetched": "2026-06-12T09:36:57.356566+07:00"
+    },
+    {
+      "id": "3ce70cc8d43808e6f219cef1b08a5fd2",
+      "title": "TP.HCM quyết tâm gỡ vướng 838 công trình",
+      "link": "https://tuoitre.vn/tp-hcm-quyet-tam-go-vuong-838-cong-trinh-20260612080352853.htm",
+      "summary": "'Trọng trách, quyết tâm, chuẩn xác, sáng tạo và dũng cảm' - năm từ khóa này trước đó đã được vận dụng trong nhiều chỉ đạo của lãnh đạo TP.HCM để đem lại những kết quả tốt, đặc biệt là trong công tác gỡ vướng các dự án tồn đọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.356406+07:00",
+      "fetched": "2026-06-12T09:36:57.356484+07:00"
+    },
+    {
+      "id": "1e55b3e6f28005eb919a69bd54c26d62",
+      "title": "Mỹ trừng phạt công ty dầu khí nhà nước Cuba, Havana lập tức lên tiếng",
+      "link": "https://tuoitre.vn/my-trung-phat-cong-ty-dau-khi-nha-nuoc-cuba-havana-lap-tuc-len-tieng-20260612075557177.htm",
+      "summary": "Ngày 11-6, Bộ Ngoại giao Cuba đã lên tiếng và phản đối lệnh trừng phạt mới nhất của Mỹ nhằm vào Công ty dầu khí của nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.356310+07:00",
+      "fetched": "2026-06-12T09:36:57.356398+07:00"
+    },
+    {
+      "id": "7e1c96468f6e7568cb38651959f6a09f",
+      "title": "Đối ngoại phải thể hiện bản lĩnh, bản sắc, tầm vóc Việt Nam",
+      "link": "https://tuoitre.vn/doi-ngoai-phai-the-hien-ban-linh-ban-sac-tam-voc-viet-nam-20260611231534518.htm",
+      "summary": "Hôm qua (11-6), Tổng Bí thư, Chủ tịch nước Tô Lâm cùng nhiều lãnh đạo Đảng, Nhà nước đã dự Hội nghị quán triệt và triển khai nghị quyết 06 của Bộ Chính trị về triển khai đường lối đối ngoại Đại hội XIV của Đảng do Bộ Chính trị, Ban Bí thư tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T09:36:57.356106+07:00",
+      "fetched": "2026-06-12T09:36:57.356299+07:00"
+    },
     {
       "id": "f30a917a0c6dbdf3e9ee4e8aaf1d32d9",
       "title": "Thời tiết hôm nay 12-6: Cả nước nắng nóng, Nam Bộ chiều tối mưa",
@@ -41,6 +191,416 @@ window.newsData_2026_06_12 = {
       "category": "Tổng hợp",
       "published": "2026-06-12T03:09:54.328320+07:00",
       "fetched": "2026-06-12T03:09:54.328535+07:00"
+    },
+    {
+      "id": "ea42c5fde17abcae58b6d50bae297066",
+      "title": "'Hạt cườm' và 'bạn Bình' chặn thí sinh lấy điểm 9, 10 toán thi tốt nghiệp THPT",
+      "link": "https://thanhnien.vn/hat-cuom-va-ban-binh-chan-thi-sinh-lay-diem-9-10-toan-thi-tot-nghiep-thpt-185260612090235718.htm",
+      "summary": "Nhiều thí sinh TP.HCM gặp khó với hai câu toán thi tốt nghiệp THPT liên quan tới việc chế tác hạt cườm và cách giúp bạn Bình vượt qua thử thách. Giáo viên cho đây là câu chặn điểm 9, 10 môn toán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:35:00+07:00",
+      "fetched": "2026-06-12T09:36:56.316984+07:00"
+    },
+    {
+      "id": "e4e67f5ee640f6fe88b9984f00085011",
+      "title": "Sau ‘Lầu chú Hỏa’, dinh thự của vị tỉ phú huyền thoại Sài Gòn gây tò mò",
+      "link": "https://thanhnien.vn/sau-lau-chu-hoa-dinh-thu-cua-vi-ti-phu-huyen-thoai-sai-gon-gay-to-mo-185260612085956598.htm",
+      "summary": "Phim điện ảnh ‘Lầu chú Hỏa’ của đạo diễn Hùng Trần không chỉ khơi lại những giai thoại ly kỳ từng gắn với gia tộc họ Hứa mà còn khiến nhiều khán giả tò mò về nhân vật lịch sử có thật phía sau câu chuyện. Trên các diễn đàn mạng xã hội, không ít người đặt câu hỏi: Chú Hỏa là ai và dinh thự của ông hiệ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:32:00+07:00",
+      "fetched": "2026-06-12T09:36:56.317104+07:00"
+    },
+    {
+      "id": "cd56527a9142ca78166f6b379c5d9155",
+      "title": "Những tín hiệu cho thấy smartwatch đã hết vòng đời sử dụng",
+      "link": "https://thanhnien.vn/nhung-tin-hieu-cho-thay-smartwatch-da-het-vong-doi-su-dung-185260612084604035.htm",
+      "summary": "Pin xuống cấp, ngừng cập nhật phần mềm hay thay đổi điện thoại là những lý do phổ biến khiến người dùng đổi smartwatch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:31:00+07:00",
+      "fetched": "2026-06-12T09:36:56.317206+07:00"
+    },
+    {
+      "id": "3b262799b3ebc7b9d58c901855ec3769",
+      "title": "Kiện nghĩa trang vì thi thể chồng rơi khỏi quan tài lúc hạ huyệt",
+      "link": "https://thanhnien.vn/kien-nghia-trang-vi-thi-the-chong-roi-khoi-quan-tai-luc-ha-huyet-185260612090244051.htm",
+      "summary": "Một góa phụ ở bang New York (Mỹ) vừa khởi kiện một nghĩa trang do các nhân viên làm rơi quan tài trong lúc hạ huyệt, khiến thi thể người chồng văng ra ngoài trước sự bàng hoàng của gia quyến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:30:00+07:00",
+      "fetched": "2026-06-12T09:36:56.317304+07:00"
+    },
+    {
+      "id": "05c702cf5775eebebe4b1dea23d5422a",
+      "title": "Công chúa Thái Lan Bajrakitiyabha qua đời",
+      "link": "https://thanhnien.vn/cong-chua-thai-lan-bajrakitiyabha-qua-doi-185260612085515066.htm",
+      "summary": "Công chúa Thái Lan Bajrakitiyabha Narendira Debyavati, con cả của Quốc vương Maha Vajiralongkorn, đã qua đời ở tuổi 48, theo Reuters dẫn thông báo của Cung điện Hoàng gia Thái Lan hôm nay 12.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:29:00+07:00",
+      "fetched": "2026-06-12T09:36:56.317402+07:00"
+    },
+    {
+      "id": "890623a09b964f406ed71c064a198776",
+      "title": "Khai mạc chuỗi sự kiện Gala 'Tổ quốc bình yên' tại phố đi bộ Nguyễn Huệ",
+      "link": "https://thanhnien.vn/khai-mac-chuoi-su-kien-gala-to-quoc-binh-yen-tai-pho-di-bo-nguyen-hue-185260612084255551.htm",
+      "summary": "Tối 11.6, tại phố đi bộ Nguyễn Huệ (TP.HCM) đã diễn ra lễ khai mạc chuỗi sự kiện chương trình Gala 'Tổ quốc bình yên'. Đây là hoạt động trọng điểm hướng tới kỷ niệm 80 năm Ngày truyền thống lực lượng An ninh nhân dân (12.7.1946 - 12.7.2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:26:00+07:00",
+      "fetched": "2026-06-12T09:36:56.317501+07:00"
+    },
+    {
+      "id": "05b72cc0ac1b0edecd72052d1278287d",
+      "title": "Tranh luận từ đề văn 'Steve Jobs Việt Nam' nảy sinh từ đâu?",
+      "link": "https://thanhnien.vn/tranh-luan-tu-de-van-steve-jobs-viet-nam-nay-sinh-tu-dau-185260612092223301.htm",
+      "summary": "Câu hỏi nghị luận xã hội trong đề thi tốt nghiệp THPT môn ngữ văn năm 2026 về việc 'làm thế nào để có nhiều Steve Jobs Việt Nam' đã tạo ra nhiều ý kiến trái chiều. Từ băn khoăn về sự chênh lệch nhận thức đến đánh giá về tính định hướng, tranh luận này cho thấy những vấn đề đáng suy ngẫm trong cách r...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:22:00+07:00",
+      "fetched": "2026-06-12T09:36:56.317600+07:00"
+    },
+    {
+      "id": "7258aac5ecb68d4a185bf2f392f159ce",
+      "title": "Công chúa Thái Lan qua đời sau hơn ba năm hôn mê",
+      "link": "https://vnexpress.net/cong-chua-thai-lan-qua-doi-sau-hon-ba-nam-hon-me-5084813.html",
+      "summary": "Công chúa Thái Lan Bajrakitiyabha, người đã hôn mê hơn ba năm sau khi đột quỵ, qua đời tại Bệnh viện Chulalongkorn ở tuổi 47.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T02:14:26+07:00",
+      "fetched": "2026-06-12T09:36:59.182240+07:00"
+    },
+    {
+      "id": "63a2cf52a13590a49cc7cdca2b9a96e0",
+      "title": "Giá USD hôm nay 12.6.2026: Đô la trong ngân hàng tăng",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1262026-do-la-trong-ngan-hang-tang-185260612083446198.htm",
+      "summary": "Các ngân hàng tăng giá USD, trong đó giá mua vào tăng nhanh hơn bán ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:13:00+07:00",
+      "fetched": "2026-06-12T09:36:56.317694+07:00"
+    },
+    {
+      "id": "4327a4885d8aedf926026c70ea21701e",
+      "title": "'Phù thủy thiết kế' Bill Bensley và sao Michelin quy tụ tại Đà Nẵng",
+      "link": "https://thanhnien.vn/phu-thuy-thiet-ke-bill-bensley-va-sao-michelin-quy-tu-tai-da-nang-185260612004956894.htm",
+      "summary": "Sự gặp gỡ giữa \"phù thủy thiết kế\" Bill Bensley và đầu bếp 3 sao Michelin Christian Le Squer tại lễ hội Câu chuyện từ những nghệ nhân đã biến Đà Nẵng thành tâm điểm giao thoa giữa nghệ thuật, ẩm thực và sáng tạo quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:13:00+07:00",
+      "fetched": "2026-06-12T09:36:56.317790+07:00"
+    },
+    {
+      "id": "0a771ef265551653fd35b86adf731330",
+      "title": "Old Tree Garden, điểm đến mới cho xu hướng nghỉ dưỡng xanh staycation",
+      "link": "https://thanhnien.vn/old-tree-garden-diem-den-moi-cho-xu-huong-nghi-duong-xanh-staycation-185260612091953644.htm",
+      "summary": "Gần đây, xu hướng nghỉ dưỡng ngay tại thành phố hoặc lân cận (staycation) được ưa chuộng, lựa chọn điểm đến gần gũi thiên nhiên, riêng tư và đủ tiện nghi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:12:00+07:00",
+      "fetched": "2026-06-12T09:36:56.317895+07:00"
+    },
+    {
+      "id": "2196a95b4b7eaf9ae2c6ec6033d2b48e",
+      "title": "World Cup 2026: Sốc, đội trưởng Nhật Bản Wataru Endo rút lui và tuyên bố giải nghệ",
+      "link": "https://thanhnien.vn/world-cup-2026-soc-doi-truong-nhat-ban-wataru-endo-rut-lui-va-tuyen-bo-giai-nghe-185260612090806457.htm",
+      "summary": "Đội tuyển Nhật Bản đã nhận cú sốc lớn khi tiền vệ đội trưởng Wataru Endo không kịp bình phục chấn thương, đành lỡ hẹn với World Cup 2026. Anh cũng tuyên bố chia tay sự nghiệp thi đấu quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:11:00+07:00",
+      "fetched": "2026-06-12T09:36:56.317988+07:00"
+    },
+    {
+      "id": "81e88ea1417362ac45a4018f19b85cde",
+      "title": "Giá vàng hôm nay 12.6.2026: Bật tăng 3 triệu đồng sau một đêm",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1262026-bat-tang-3-trieu-dong-sau-mot-dem-185260612071947603.htm",
+      "summary": "Giá vàng hồi phục trở lại với chiều bán ra trong nước vượt mức 140 triệu đồng một lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:11:00+07:00",
+      "fetched": "2026-06-12T09:36:56.318081+07:00"
+    },
+    {
+      "id": "0aaf2b19cdefbf2959f0c335f9d628b6",
+      "title": "NOAA: El Nino chính thức hình thành, khả năng mạnh nhất từ năm 1950",
+      "link": "https://thanhnien.vn/noaa-el-nino-chinh-thuc-hinh-thanh-kha-nang-manh-nhat-tu-nam-1950-185260612083615744.htm",
+      "summary": "Hiện tại, nhiệt độ bề mặt nước biển khu vực Nino 3,4 là 0,7°C đồng nghĩa với El Nino đã chính thức hình thành. Đáng chú ý, xác suất 63% sẽ tiếp tục phát triển thành một 'siêu' El Nino - mạnh nhất lịch sử vào cuối năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:10:00+07:00",
+      "fetched": "2026-06-12T09:36:56.318173+07:00"
+    },
+    {
+      "id": "4a9faea215d0223d0e5201100861de02",
+      "title": "Mỗi tháng chỉ được 'gần' vợ đôi lần",
+      "link": "https://vnexpress.net/tim-den-nhung-dich-vu-massage-vi-moi-thang-chi-duoc-gan-vo-doi-lan-5084262.html",
+      "summary": "Mỗi lần muốn gần gũi, tôi gần như phải chủ động và chờ đợi sự đồng ý từ vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:00:00+07:00",
+      "fetched": "2026-06-12T09:36:52.919776+07:00"
+    },
+    {
+      "id": "13c0fcc1dfd29a12bc94eec2a74c3d75",
+      "title": "Nội soi cắt polyp ruột thừa nguy cơ ung thư",
+      "link": "https://vnexpress.net/noi-soi-cat-polyp-ruot-thua-nguy-co-ung-thu-5084788.html",
+      "summary": "Bà Vượng, 75 tuổi, đau bụng, trào ngược dạ dày thực quản, bác sĩ nội soi phát hiện polyp trong gốc ruột thừa nguy cơ tiến triển ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:00:00+07:00",
+      "fetched": "2026-06-12T09:36:52.919925+07:00"
+    },
+    {
+      "id": "28064c2a2e6c21cee4b3ddedd89a3fa7",
+      "title": "Hồ Ngọc Hà đồng hành chiến dịch 'Chủ động không chủ quan' trước HPV",
+      "link": "https://vnexpress.net/ho-ngoc-ha-dong-hanh-chien-dich-chu-dong-khong-chu-quan-truoc-hpv-5084691.html",
+      "summary": "Hồ Ngọc Hà đồng hành chiến dịch \"Chủ động không chủ quan - An tâm giữ trọn khoảnh khắc yêu thương\", nâng cao nhận thức cộng đồng về dự phòng sớm HPV.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:00:00+07:00",
+      "fetched": "2026-06-12T09:36:52.920040+07:00"
+    },
+    {
+      "id": "e2ccd4255fb0ccc8d06e66df01eb3127",
+      "title": "Hàng trăm lớp kiểm duyệt cho một lon sữa bột Vinamilk",
+      "link": "https://vnexpress.net/hang-tram-lop-kiem-duyet-cho-mot-lon-sua-bot-vinamilk-5084654.html",
+      "summary": "Vinamilk áp dụng hơn 400 tiêu chí về độ tinh khiết cùng hơn 500 quy trình kiểm soát xuyên suốt quá trình sản xuất, từ nguyên liệu đến thành phẩm cho một lon sữa bột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:00:00+07:00",
+      "fetched": "2026-06-12T09:36:52.920142+07:00"
+    },
+    {
+      "id": "09d4d16bcd909a1c3ec47c7d12f47e86",
+      "title": "Nhiều đại học mở rộng tiêu chí xét tuyển thí sinh",
+      "link": "https://vnexpress.net/nhieu-dai-hoc-mo-rong-tieu-chi-xet-tuyen-thi-sinh-5084633.html",
+      "summary": "Nhiều trường đại học đang mở rộng các tiêu chí đánh giá, hướng tới năng lực và tiềm năng phát triển của thí sinh bên cạnh kết quả thi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:00:00+07:00",
+      "fetched": "2026-06-12T09:36:52.920241+07:00"
+    },
+    {
+      "id": "5e1abda9f508c051c64cffea43650eb8",
+      "title": "Người tiêm vaccine sốt xuất huyết tại VNVC tăng hơn 40%",
+      "link": "https://vnexpress.net/nguoi-tiem-vaccine-sot-xuat-huyet-tai-vnvc-tang-hon-40-5084621.html",
+      "summary": "Số ca mắc sốt xuất huyết tăng nhanh dù chưa phải cao điểm mùa mưa, khiến nhiều gia đình chủ động tiêm vaccine tại Hệ thống Tiêm chủng VNVC.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:00:00+07:00",
+      "fetched": "2026-06-12T09:36:52.920343+07:00"
+    },
+    {
+      "id": "770da7175fa5478e2f365bca13cc59d4",
+      "title": "4 năm Tân Hiệp Phát đồng hành cùng trẻ em khó khăn",
+      "link": "https://vnexpress.net/4-nam-tan-hiep-phat-dong-hanh-cung-tre-em-kho-khan-5084222.html",
+      "summary": "Thông qua chương trình \"Cùng con đi tiếp cuộc đời\", Tân Hiệp Phát hỗ trợ dài hạn cho nhiều trẻ mồ côi và gặp khó khăn sau đại dịch Covid-19.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:00:00+07:00",
+      "fetched": "2026-06-12T09:36:52.920445+07:00"
+    },
+    {
+      "id": "8366a929c1d699f69f86ef6e099fd890",
+      "title": "Bảo tàng Coca-Cola Việt Nam được vinh danh ở giải thưởng thiết kế quốc gia",
+      "link": "https://thanhnien.vn/bao-tang-coca-cola-viet-nam-duoc-vinh-danh-o-giai-thuong-thiet-ke-quoc-gia-18526061208095967.htm",
+      "summary": "Tại lễ công bố Giải thưởng Thiết kế Việt Nam VMARK 2026, dự án \"Bảo tàng Coca-Cola\" do Công ty Coca-Cola Việt Nam phối hợp cùng The Lab Saigon thực hiện đã được vinh danh giải vàng ở hạng mục Thiết kế không gian công cộng xuất sắc nhất (Interior Design Architecture – Best Public Space Design).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:00:00+07:00",
+      "fetched": "2026-06-12T09:36:56.318266+07:00"
+    },
+    {
+      "id": "225ababf1142b696399f947ab1920ac8",
+      "title": "Hồ Ngọc Hà lan tỏa thông điệp nâng cao nhận thức và chủ động dự phòng HPV",
+      "link": "https://thanhnien.vn/ho-ngoc-ha-lan-toa-thong-diep-nang-cao-nhan-thuc-va-chu-dong-du-phong-hpv-185260611185256431.htm",
+      "summary": "Trong nhiều gia đình, những cuộc trò chuyện về sức khỏe và bệnh tật thường bị trì hoãn vì các thành viên cho rằng điều đó sẽ không xảy ra với mình. Đặc biệt, với các vấn đề liên quan đến sức khỏe sinh sản, tâm lý e ngại và né tránh càng khiến việc chia sẻ trở nên khó khăn hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T02:00:00+07:00",
+      "fetched": "2026-06-12T09:36:56.318355+07:00"
+    },
+    {
+      "id": "d87d309b80e90f8dac4341c3ed07f72d",
+      "title": "Dùng 'bom xăng' tấn công cha ruột và công an",
+      "link": "https://vnexpress.net/dung-bom-xang-tan-cong-cha-ruot-va-cong-an-5084823.html",
+      "summary": "Đỗ Văn Tĩnh dùng kiếm chém cha ruột, sau đó liên tiếp ném chai xăng đang cháy vào nhà khiến một công an bị bỏng vùng mặt, tổn thương mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T01:57:13+07:00",
+      "fetched": "2026-06-12T09:36:52.920550+07:00"
+    },
+    {
+      "id": "75c3a19d26f165d822cfeb2f4eeaa92a",
+      "title": "Chim sẻ là tước, chim ưng là ưng, vậy chim cánh cụt gọi là gì?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-tu-han-viet-chim-se-la-tuoc-chim-ung-la-ung-vay-chim-canh-cut-goi-la-gi-5081826.html",
+      "summary": "Tưởng chỉ cần biết vài từ Hán Việt là đủ, nhưng câu đố này đã khiến nhiều người “bó tay”, vậy tên Hán Việt của chim cánh cụt không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T01:53:37+07:00",
+      "fetched": "2026-06-12T09:36:52.920647+07:00"
+    },
+    {
+      "id": "4a4a2f6dbc5e823e20f74ee5637ea77e",
+      "title": "Xe container tông thẳng vào xe tải đang dừng",
+      "link": "https://vnexpress.net/xe-container-tong-thang-vao-xe-tai-dang-dung-5084802.html",
+      "summary": "Không có dấu hiệu giảm tốc, chiếc container húc mạnh vào xe tải đang dừng ven đường, hôm 11/6 tại Sơn Thủy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T01:50:15+07:00",
+      "fetched": "2026-06-12T09:36:52.920747+07:00"
+    },
+    {
+      "id": "31a4cbf7b178aeaa8b6026922ab68460",
+      "title": "Phá âm mưu lập trung tâm lừa đảo xuyên quốc gia đặt tại Việt Nam",
+      "link": "https://vnexpress.net/pha-am-muu-lap-trung-tam-lua-dao-xuyen-quoc-gia-dat-tai-viet-nam-5084808.html",
+      "summary": "Nhóm người Trung Quốc sang Việt Nam thuê địa điểm, thiết lập hệ thống máy tính, bộ thiết bị phát sóng wifi, điện thoại để mở trung tâm lừa đảo quy mô lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T01:47:37+07:00",
+      "fetched": "2026-06-12T09:36:52.920844+07:00"
+    },
+    {
+      "id": "2e11ac83f2758e2bd5079bef7a7e7bbf",
+      "title": "Đề xuất hơn 63.000 tỷ đồng làm cao tốc Bảo Hà - Lai Châu",
+      "link": "https://vnexpress.net/de-xuat-hon-63-000-ty-dong-lam-cao-toc-bao-ha-lai-chau-5084811.html",
+      "summary": "Tỉnh Lai Châu đề xuất đầu tư tuyến cao tốc Bảo Hà - Lai Châu dài 163 km với quy mô 4 làn xe hoàn chỉnh, tổng mức đầu tư sơ bộ hơn 63.486 tỷ đồng từ ngân sách trung ương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T01:46:48+07:00",
+      "fetched": "2026-06-12T09:36:52.920960+07:00"
+    },
+    {
+      "id": "36f6c8d1802fe966a477e7dc9fa43303",
+      "title": "Vỡ mộng tuổi trung niên vì lối sống không con cái",
+      "link": "https://vnexpress.net/vo-mong-tuoi-trung-nien-vi-loi-song-khong-con-cai-5084785.html",
+      "summary": "Từng tin tiền bạc và tự do có thể thay thế mọi thứ, nhiều người thuộc thế hệ không con cái ở Trung Quốc đã thay đổi suy nghĩ sau khi trải qua bệnh tật, ly hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T01:41:02+07:00",
+      "fetched": "2026-06-12T09:36:52.921059+07:00"
+    },
+    {
+      "id": "472371ac7e94d5f282292f0c502edaa4",
+      "title": "SpaceX giúp Elon Musk sở hữu 1.000 tỷ USD",
+      "link": "https://vnexpress.net/spacex-giup-elon-musk-so-huu-1-000-ty-usd-5084803.html",
+      "summary": "Tài sản của Elon Musk, người giàu nhất thế giới, cán mốc 1.000 tỷ USD nhờ thương vụ IPO của công ty hàng không vũ trụ SpaceX.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T01:33:42+07:00",
+      "fetched": "2026-06-12T09:36:52.921152+07:00"
+    },
+    {
+      "id": "472371ac7e94d5f282292f0c502edaa4",
+      "title": "SpaceX giúp Elon Musk sở hữu 1.000 tỷ USD",
+      "link": "https://vnexpress.net/spacex-giup-elon-musk-so-huu-1-000-ty-usd-5084803.html",
+      "summary": "Tài sản của Elon Musk, người giàu nhất thế giới, cán mốc 1.000 tỷ USD nhờ thương vụ IPO của công ty hàng không vũ trụ SpaceX.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-12T01:33:42+07:00",
+      "fetched": "2026-06-12T09:37:01.042329+07:00"
+    },
+    {
+      "id": "e89bdd64b848e19591ab3ed349a9978c",
+      "title": "Những bộ óc đặc biệt tại World Cup 2026",
+      "link": "https://vnexpress.net/nhung-bo-oc-dac-biet-tai-world-cup-2026-5084716.html",
+      "summary": "Trong 1.248 cầu thủ góp mặt tại World Cup 2026, có những người được mệnh danh là \"máy tính sống\", thậm chí từng tốt nghiệp Harvard hoặc nói được 9 ngôn ngữ khác nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-12T01:30:40+07:00",
+      "fetched": "2026-06-12T09:36:52.921253+07:00"
+    },
+    {
+      "id": "e89bdd64b848e19591ab3ed349a9978c",
+      "title": "Những bộ óc đặc biệt tại World Cup 2026",
+      "link": "https://vnexpress.net/nhung-bo-oc-dac-biet-tai-world-cup-2026-5084716.html",
+      "summary": "Trong 1.248 cầu thủ góp mặt tại World Cup 2026, có những người được mệnh danh là \"máy tính sống\", thậm chí từng tốt nghiệp Harvard hoặc nói được 9 ngôn ngữ khác nhau.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-12T01:30:40+07:00",
+      "fetched": "2026-06-12T09:37:06.142202+07:00"
+    },
+    {
+      "id": "00bfbb2d27ccbc844bc1964f4c689ef2",
+      "title": "Danh hiệu Quả Bóng Vàng và Chiếc Giày Vàng World Cup 2026 trông thế nào",
+      "link": "https://vnexpress.net/danh-hieu-qua-bong-vang-va-chiec-giay-vang-world-cup-2026-trong-the-nao-5084772.html",
+      "summary": "Ngày 11/6, FIFA đã công bố thiết kế các giải thưởng cá nhân cao quý của World Cup 2026 với những đường nét đặc trưng quen thuộc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-12T01:21:58+07:00",
+      "fetched": "2026-06-12T09:37:06.142646+07:00"
+    },
+    {
+      "id": "a14719a198a536e203519d9ed84ede10",
+      "title": "Slovenia gỡ lệnh cấm nhập cảnh với Thủ tướng Netanyahu",
+      "link": "https://vnexpress.net/slovenia-go-lenh-cam-nhap-canh-voi-thu-tuong-netanyahu-5084793.html",
+      "summary": "Chính quyền mới tại Slovenia gỡ lệnh cấm nhập cảnh đối với Thủ tướng Netanyahu và hai bộ trưởng Israel, đồng thời khôi phục bán vũ khí cho nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T01:08:55+07:00",
+      "fetched": "2026-06-12T09:36:59.182360+07:00"
+    },
+    {
+      "id": "b885cf1456677ae57b6eaa83806474e9",
+      "title": "Hàn Quốc 0-0 CH Czech (H1): Son Heung-min, Lee Kang-in bỏ lỡ",
+      "link": "https://vnexpress.net/truc-tiep-han-quoc-vs-ch-czech-5084792.html",
+      "summary": "Hai ngôi sao Son Heung-min và Lee Kang-in lĩnh xướng hàng công Hàn Quốc, trong trận ra quân gặp CH Czech ở bảng A World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-12T01:03:33+07:00",
+      "fetched": "2026-06-12T09:37:06.142328+07:00"
+    },
+    {
+      "id": "2290f0c7dc5d6a6aed0b434a7ec4d81c",
+      "title": "Hành trình xây dựng hệ sinh thái đầu tư số của VCBS",
+      "link": "https://vnexpress.net/hanh-trinh-xay-dung-he-sinh-thai-dau-tu-so-cua-vcbs-5082364.html",
+      "summary": "Ra đời khi thị trường chứng khoán Việt Nam còn sơ khai, VCBS đã tập trung đầu tư công nghệ, đồng hành cùng nhiều thương vụ lớn, từng bước mở rộng vai trò trên thị trường vốn sau hơn hai thập kỷ phát triển.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-12T01:00:00+07:00",
+      "fetched": "2026-06-12T09:37:01.042755+07:00"
+    },
+    {
+      "id": "e571e91acbbbc49dce1c37a6cfc7152a",
+      "title": "Nhà mạng nỗ lực xác thực hàng triệu thuê bao trước hạn khóa SIM",
+      "link": "https://vnexpress.net/nha-mang-no-luc-xac-thuc-hang-trieu-thue-bao-truoc-han-khoa-sim-5084479.html",
+      "summary": "Một số nhà mạng đến thôn bản và địa chỉ nhà để hỗ trợ các chủ thuê bao, vì vẫn còn hàng triệu SIM chưa xác thực thông tin trước thời hạn 15/6.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-12T01:00:00+07:00",
+      "fetched": "2026-06-12T09:37:05.150654+07:00"
+    },
+    {
+      "id": "71393555861b3b4d39c40149b62cb06a",
+      "title": "Mã sửa lỗi lượng tử giúp giảm 1.000 lần tỷ lệ lỗi logic",
+      "link": "https://vnexpress.net/ma-sua-loi-luong-tu-giup-giam-1-000-lan-ty-le-loi-logic-5084493.html",
+      "summary": "Công ty IQM Quantum Computers phát triển mã sửa lỗi barbell đạt hiệu quả cao, hứa hẹn giúp tăng tốc quá trình thương mại hóa máy tính lượng tử.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-12T01:00:00+07:00",
+      "fetched": "2026-06-12T09:37:05.150897+07:00"
+    },
+    {
+      "id": "92e831c03854a248eaa5b09c97fa4ed5",
+      "title": "Giá vàng thế giới tăng vọt",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-vot-5084790.html",
+      "summary": "Mỗi ounce vàng tăng 150 USD trong vài giờ qua, trở lại mốc 4.200 USD, sau khi ông Trump tuyên bố hủy kế hoạch không kích Iran.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-12T00:45:54+07:00",
+      "fetched": "2026-06-12T09:37:01.042449+07:00"
+    },
+    {
+      "id": "e0e6fe0935a81b72ce726f3d42dbb4c6",
+      "title": "Israel thả người đồng sáng lập Hamas",
+      "link": "https://vnexpress.net/israel-tha-nguoi-dong-sang-lap-hamas-5084780.html",
+      "summary": "Con trai người đồng sáng lập Hamas cho biết Israel đã trả tự do cho cha mình, sau hơn hai năm giam giữ mà không xét xử.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T00:36:39+07:00",
+      "fetched": "2026-06-12T09:36:59.182463+07:00"
     },
     {
       "id": "d3343f679137c0b1383caf5ab0b1161c",
@@ -191,6 +751,56 @@ window.newsData_2026_06_12 = {
       "category": "Tổng hợp",
       "published": "2026-06-12T00:31:56.871868+07:00",
       "fetched": "2026-06-12T00:31:56.872073+07:00"
+    },
+    {
+      "id": "dabf8e2ae7829f8c3d5ecd9c187e541a",
+      "title": "Apple bị từ chối bảo hộ nhãn hiệu 'Retina HD' tại Việt Nam",
+      "link": "https://vnexpress.net/apple-bi-tu-choi-bao-ho-nhan-hieu-retina-hd-tai-viet-nam-5084692.html",
+      "summary": "Bộ Khoa học và Công nghệ bác khiếu nại của Apple, từ chối đăng ký bảo hộ nhãn hiệu \"Retina HD\" tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-12T00:30:28+07:00",
+      "fetched": "2026-06-12T09:37:05.151000+07:00"
+    },
+    {
+      "id": "e4978f5d0720feabb9ca04f03567b037",
+      "title": "'Mật mã đe dọa ông Trump' xuất hiện ở Quảng trường Quốc gia Mỹ",
+      "link": "https://vnexpress.net/mat-ma-de-doa-ong-trump-xuat-hien-o-quang-truong-quoc-gia-my-5084779.html",
+      "summary": "Giới chức Mỹ mở cuộc điều tra sau khi dãy số \"8647\", thường dùng để ám chỉ đe dọa ông Trump, xuất hiện trên thảm cỏ tại National Mall.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-12T00:22:35+07:00",
+      "fetched": "2026-06-12T09:36:59.182564+07:00"
+    },
+    {
+      "id": "a4d4eb9837acb105e89cc1daea4850c2",
+      "title": "SpaceX huy động 75 tỷ USD qua IPO lớn kỷ lục",
+      "link": "https://vnexpress.net/spacex-huy-dong-75-ty-usd-qua-ipo-lon-ky-luc-5084781.html",
+      "summary": "SpaceX của Musk chốt giá IPO 135 USD mỗi cổ phiếu, huy động 75 tỷ USD - đánh dấu thương vụ niêm yết lớn nhất lịch sử thị trường Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-12T00:18:58+07:00",
+      "fetched": "2026-06-12T09:37:01.042556+07:00"
+    },
+    {
+      "id": "0b8f9dc3ad35e03beba82d6cc7261da7",
+      "title": "Ông Trump hủy kế hoạch không kích Iran",
+      "link": "https://vnexpress.net/ong-trump-huy-ke-hoach-khong-kich-iran-5084776.html",
+      "summary": "Tổng thống Trump tuyên bố hủy kế hoạch tấn công Iran với lý do đàm phán đạt tiến triển, khẳng định Washington và Tehran sắp ký thỏa thuận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-11T23:48:33+07:00",
+      "fetched": "2026-06-12T09:36:59.182662+07:00"
+    },
+    {
+      "id": "0ed3685179c67ec86fa51f96652eede9",
+      "title": "InP - 'Vũ khí' thương mại của Trung Quốc trong làn sóng AI",
+      "link": "https://vnexpress.net/inp-vu-khi-thuong-mai-cua-trung-quoc-trong-lan-song-ai-5084665.html",
+      "summary": "Nắm Indium Phosphide - hợp chất cốt lõi trong công nghệ truyền dữ liệu bằng ánh sáng, Trung Quốc ảnh hưởng lên chuỗi cung ứng bán dẫn phục vụ AI.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-11T23:39:16+07:00",
+      "fetched": "2026-06-12T09:37:01.042658+07:00"
     },
     {
       "id": "eb33284a31ca5ef2be59a2a423c0e5d9",
@@ -351,6 +961,16 @@ window.newsData_2026_06_12 = {
       "category": "Thể thao",
       "published": "2026-06-11T22:42:51+07:00",
       "fetched": "2026-06-12T06:14:09.788920+07:00"
+    },
+    {
+      "id": "93ca1d58caebcfb348b2ec93f3aa99f8",
+      "title": "Áo đội tuyển Brazil in tên Neymar gây tranh cãi vì một dấu chấm",
+      "link": "https://vnexpress.net/ao-doi-tuyen-brazil-in-ten-neymar-gay-tranh-cai-vi-mot-dau-cham-5084766.html",
+      "summary": "Chi tiết nhỏ trên mẫu áo chính thức của đội tuyển Brazil mang tên Neymar tại World Cup 2026 bất ngờ trở thành chủ đề bàn luận trên mạng xã hội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-11T22:42:51+07:00",
+      "fetched": "2026-06-12T09:37:06.142842+07:00"
     },
     {
       "id": "a42500226aa588866e96f93a4f6966be",
